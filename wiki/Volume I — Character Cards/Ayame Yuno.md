@@ -4,7 +4,7 @@ notion_id: "3b158200-eb22-8153-a974-d20af56807e9"
 notion_url: "https://app.notion.com/p/Ayame-Yuno-3b158200eb228153a974d20af56807e9"
 section: "Volume I — Character Cards"
 tags: []
-last_edited: "2026-09-27T04:14:00.000Z"
+last_edited: "2026-09-27T19:48:00.000Z"
 verification: null
 ---
 
@@ -185,7 +185,7 @@ Her granddaughter Hild carried Fern Stark's altar into the room that had been Ay
 
 - **Muken Moto** · spouses. She sat beside him before dawn with her hand on his arm, and her binding and his force each covered the other's failure.
 - **Sodoku Moto** · mother and son. She blessed his union with Fern Stark before the king signed it, and told him as a boy about the island where people stopped being afraid.
-- **Mizuki Moto** · one court. Mizuki is the king's eldest, and no record names Ayame her mother.
+- **Mizuki Moto** · one court. Mizuki is the king's eldest, his child by a woman before Ayame.
 - **Yukazuri Moto** · kin by marriage. Yukazuri was her husband's sister, and no record puts the two women in one room.
 - **Yoko Mishiro** · legacy, never met. The island Ayame described to her son when he was a boy is the reason for the lock he later broke on Yoko's pen.
 - **Anryū Ichimonji** · house grievance. The house she stayed answerable to has not forgiven him for the closed Yuno assembly he sat through unseen.

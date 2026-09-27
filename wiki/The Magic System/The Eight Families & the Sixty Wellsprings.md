@@ -4,7 +4,7 @@ notion_id: "3b158200-eb22-814d-9056-edb0fc9827f2"
 notion_url: "https://app.notion.com/p/The-Eight-Families-the-Sixty-Wellsprings-3b158200eb22814d9056edb0fc9827f2"
 section: "The Magic System"
 tags: ["Magic System", "Reference Table"]
-last_edited: "2026-09-26T03:50:00.000Z"
+last_edited: "2026-09-27T19:50:00.000Z"
 verification: "unverified"
 ---
 
@@ -37,7 +37,9 @@ Most mortals awaken three to five Wellsprings in a lifetime. Serious adepts harm
 **A harmonization retunes the conduit.** It is reversible in principle, it degrades if Capacity is exceeded, and it shapes everything passing outward for as long as it holds. The law belongs to the current, not to the practitioner.
 **A Trait biases the conduit permanently.** It is a law the soul itself carries, held in the Essence Core, and it writes into the Shell's conductivity map rather than borrowing a current's. It cannot be dropped to make room. This is why two practitioners harmonized to the same Wellspring produce recognisably different output: the current supplies one law and the Core supplies another, and the working is what comes out of both.
 **A glyph is a boundary condition.** It creates nothing. The Wellspring's law was already running; the glyph moves a boundary and the law does what it has always done on the far side of the new boundary. Every entry below should be read with that in mind. Nobody in this register makes fire. They establish conditions under which the ordinary behaviour of heat produces fire where it previously did not, and the fire that results obeys every rule fire has ever obeyed, including the ones nobody thought about.
-> **Sites do not check for a Crystal.** A current pooling in a valley acts on everything standing in the valley, and a Class Ø soul has no Shell to phase-lock but has an Essence Core like anyone else. Sustained residence at Active Concentration or above therefore does to a shepherd what it does to an adept, minus the harmonization and minus the vocabulary.
+> **Sites do not check for a Crystal.** A current pooling in a valley acts on everything standing in the valley, and a Class Ø soul's Shell is sealed and cannot phase-lock, but it has an Essence Core like anyone else. Sustained residence at Active Concentration or above therefore does to a shepherd what it does to an adept, minus the harmonization and minus the vocabulary.
+> 
+> What it leaves behind is a **Trait**, formed by Wellspring Convergence, in a body that will never be screened and a life that has no framework for it. Every quarter has villages downwind of a concentration where one family has been strange for six generations, and the strangeness is lawful, inheritable, and entirely undocumented.
 >
 > What it leaves behind is a **Trait**, formed by Wellspring Convergence, in a body that will never be screened and a life that has no framework for it. Every quarter has villages downwind of a concentration where one family has been strange for six generations, and the strangeness is lawful, inheritable, and entirely undocumented.
 

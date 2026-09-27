@@ -754,7 +754,7 @@
 - [Ristra Lenovira · The Hollow](Volume%20I%20—%20Character%20Cards/Ristra%20Lenovira%20·%20The%20Hollow.md)
 - [Riven Eltamyr Vonnel · The Glaive](Volume%20I%20—%20Character%20Cards/Riven%20Eltamyr%20Vonnel%20·%20The%20Glaive.md)
 - [Robin Ice — The Bastard Runner](Volume%20I%20—%20Character%20Cards/Robin%20Ice%20—%20The%20Bastard%20Runner.md)
-- [Rovhen Talvasciel · The Prettier](Volume%20I%20—%20Character%20Cards/Rovhen%20Talvasciel%20·%20The%20Prettier.md)
+- [Rovhen Talvasciel · The Inquiry Agent](Volume%20I%20—%20Character%20Cards/Rovhen%20Talvasciel%20·%20The%20Inquiry%20Agent.md)
 - [Ryuka Yukari · The Little Wayfinder](Volume%20I%20—%20Character%20Cards/Ryuka%20Yukari%20·%20The%20Little%20Wayfinder.md)
 - [Sadamu, called Futakoto — Two Words](Volume%20I%20—%20Character%20Cards/Sadamu,%20called%20Futakoto%20—%20Two%20Words.md)
 - [Saetsha Bloomveil · The Pink Tempest](Volume%20I%20—%20Character%20Cards/Saetsha%20Bloomveil%20·%20The%20Pink%20Tempest.md)

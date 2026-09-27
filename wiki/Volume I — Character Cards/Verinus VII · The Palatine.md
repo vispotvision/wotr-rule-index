@@ -4,7 +4,7 @@ notion_id: "3b358200-eb22-81a0-b5a5-dcb396a01bcf"
 notion_url: "https://app.notion.com/p/Verinus-VII-The-Palatine-3b358200eb2281a0b5a5dcb396a01bcf"
 section: "Volume I — Character Cards"
 tags: []
-last_edited: "2026-09-27T04:17:00.000Z"
+last_edited: "2026-09-27T19:49:00.000Z"
 verification: null
 ---
 
@@ -288,7 +288,7 @@ On the fourteenth day he came down into the cellar beneath the Grand Church in t
 "Entered."
 The wounds crossed the room into him in the order they had been made. The four had already gone out through the low cloister. Corwin Sesk knew, and said nothing.
 At the root of the wound he sealed what he could of Kujo, and the seal took pieces and left the man. He could have saved perhaps four thousand at the price of the rite. He did the sum and let thirty-five in every hundred go. He became the wall. He had taken Aurelian for its anchor without asking. When the draw turned down the line toward the cellar he tried to take the line back, and the rite would not permit the amendment. The Judger's hand lifted the Custodia out of the world, still standing, and set him down in Utopia with his cap gone and his hands empty. He put his palm flat on the floor. It held him and did not sink.
-He is still Palatine. An empty chair still stands at every session of the Weighing, and he has never found Meren. The line to Aurelian stays tied. It has no release valve, and Aurelian has not been told what he holds. Sefa Bream of the Steps has an appointment on the twenty-third, and Barrow has said she will keep it whether or not he is standing. He has told three people, and written nowhere, that Darius will come back. The word Altherion uses for him when it thinks he is out of the room, he has neither claimed nor put down.
+He is still Palatine. An empty chair still stands at every session of the Weighing, and he has never found Meren. The line to Aurelian stays tied. It has no release valve, and Aurelian has not been told what he holds. Sefa Bream of the Steps has an appointment on the twenty-third, and Barrow has said she will keep it whether or not he is standing. He has told three people, and written nowhere, that Darius is alive in the Works. The word Altherion uses for him when it thinks he is out of the room, he has neither claimed nor put down.
 
 #### Ties
 

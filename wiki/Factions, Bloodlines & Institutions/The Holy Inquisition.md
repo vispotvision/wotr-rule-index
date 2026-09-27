@@ -4,7 +4,7 @@ notion_id: "3dc58200-eb22-81d0-8cc0-cae6c69e8ff7"
 notion_url: "https://app.notion.com/p/The-Holy-Inquisition-3dc58200eb2281d08cc0cae6c69e8ff7"
 section: "Factions, Bloodlines & Institutions"
 tags: []
-last_edited: "2026-09-26T10:17:00.000Z"
+last_edited: "2026-09-27T19:50:00.000Z"
 verification: "unverified"
 ---
 
@@ -20,7 +20,7 @@ verification: "unverified"
 
 The Holy Inquisition — **Ordo Sanctae Inquisitionis** in its own filings, stamped with the root glyph of Sancta Lux that the mother order no longer recognizes as authorized — is a splinter body that broke from Sancta Lux eleven years after Darius completed the post-Bastion architectural reforms. Its members call themselves the true inheritors of Sadara Izayoi's mandate. Sancta Lux calls them apostates. The Guild Accord calls them a rogue militant organization. The civilizations they have burned through call them nothing at all, because the civilizations they have burned through no longer exist.
 They number between two hundred eighty and four hundred at any given count, depending on whether the Accord is counting membership or bodies in the field. The roster is deliberately fluid. Recruitment follows purification campaigns — the survivors who choose the mask over the pyre join, and those who refuse both options are not offered a third.
-The Accord has classified the Inquisition as an unlawful body and authorized enforcement action. That authorization has been standing for six years. The enforcement has not arrived, because the man who leads the Inquisition is a Stage XIII practitioner at Level 440, and the Accord does not possess enough Stage XIII practitioners to spend one on a fight that would cost them.
+The Accord has classified the Inquisition as an unlawful body and authorized enforcement action. That authorization has been standing for six years. The enforcement has not arrived, because the man who leads the Inquisition is a Stage XIII practitioner at Level 440, and the Accord does not possess enough Stage XIII practitioners to spend one on a fight that would cost them. That writ runs where the Accord's circles have signed. Where the crowns and churches that back the Inquisition rule, it holds legal standing, and in that territory it enforces the Gate on who may learn magic.
 
 ---
 
@@ -118,5 +118,3 @@ The Guild Accord has standing enforcement authorization and has not acted on it.
 > In the mouths of the faithful, the common. **The Burning Mandate.** In the mouths of the Accord: Rogue Body 7-C, unlawful, enforcement authorized, engagement not recommended. In the mouths of the dead: nothing at all.
 
 ---
-
-*Status: Originated, pending ruling. All content pending Isaac's ratification.*

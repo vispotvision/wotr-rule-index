@@ -4,7 +4,7 @@ notion_id: "3b158200-eb22-8118-abac-efe284857149"
 notion_url: "https://app.notion.com/p/The-Goblinoid-Peoples-3b158200eb228118abacefe284857149"
 section: "Races & Peoples"
 tags: []
-last_edited: "2026-09-26T09:16:00.000Z"
+last_edited: "2026-09-27T19:51:00.000Z"
 verification: "unverified"
 ---
 
@@ -107,7 +107,7 @@ They are not shards. **They are the part that absorbed the full pressure of impa
 > **The Vow of Silence** · A rite of passage from Stage I through Stage VI designed to prevent Trait corruption through emotional interference. **The Vow is not metaphor for the Crimson Order. It is load-bearing.** Breaking it triggers immediate Aetheric collapse.
 >
 > **The Engraving** · During stage transitions, new oaths are literally carved into the Soul Crystal, making their laws a physical part of their being. **A Hobgoblin who swears an oath has not made a promise. They have made an anatomical fact.**
-**Language** · High Concord for formal and diplomatic contexts. **Silent Sign-Glyphs** for the field — micro-gestures and shared Aetheric pulses.
+**Language** · High Concord for formal and diplomatic contexts. **Silent Sign-Glyphs** for the field — micro-gestures and shared Aetheric pulses. In deep cold or on broken ground a formation falls back to a horn count.
 **Key limitations** · **The Brittle Vow** — breaking any Engraved Oath triggers immediate Dissonance and −50% Max HP for 24 hours. **Emotional Null** — cannot wield Emotional, Dream-aspected, or Chaotic glyphs.
 **Settlements** · Fortress-Monastery of Haldrek · The Quiet Spire · Echohold of Stoneblood Vale
 

@@ -4,7 +4,7 @@ notion_id: "3b258200-eb22-8169-a67b-cbde6be80dbe"
 notion_url: "https://app.notion.com/p/Sodoku-Moto-3b258200eb228169a67bcbde6be80dbe"
 section: "Volume I — Character Cards"
 tags: []
-last_edited: "2026-09-27T04:16:00.000Z"
+last_edited: "2026-09-27T19:47:00.000Z"
 verification: null
 ---
 
@@ -25,7 +25,11 @@ verification: null
 **Race / Lineage** Human — Archaic Bloodline, Moto. **Kōkan Line. Former Crown Heir**
 **Age** 28 · **Sex** Male
 **Standing** Exiled by High Council decree, wanted across multiple territories, **charged with the massacre of the Tenrai main-branch settlement.** At twenty-eight, eleven years after the corridor, he is at Kharven-Seat with the daughter he had never met, and rides out at the head of its muster on Tōga.
-> **Catalyst Event.** A Tenrai-commissioned corridor assassination took his father Muken, his mother, and his brother Nergüi **in one night.**
+> **Catalyst Event.** A Tenrai-commissioned corridor assassination took his father Muken and his brothers Tomuka and Ezo **in one night.**
+> 
+> He and Sonzai answered by burning the Tenrai main-branch settlement to the ground, **women and children included.**
+> 
+> ***The High Council's charge isn't entirely wrong. It isn't entirely complete either.***
 >
 > He and Sonzai answered by burning the Tenrai main-branch settlement to the ground, **women and children included.**
 >
@@ -186,7 +190,7 @@ Near-black hair with a **Kōkan violet-cast in direct light**, heavy and straigh
 
 #### Origin
 
-Sodoku Moto was born into the Kōkan Line, the son of Muken Moto, King of Kharven, and of Ayame Yuno, who came from the Yuno's island. The Kamigan's ring-lines were in his irises at birth. He was raised the Crown Heir. He had a brother, Sonzai, and a younger sister, Emira.
+Sodoku Moto was born into the Kōkan Line, the son of Muken Moto, King of Kharven, and of Ayame Yuno, who came from the Yuno's island. The Kamigan's ring-lines were in his irises at birth. He was raised the Crown Heir. He had brothers, Sonzai, Tomuka and Ezo, and a younger sister, Emira.
 Muken placed the covenant beads at his throat before he was old enough to know what the placing meant. They were jade and iron. One morning his father took him to a village of the dead and stood among the bodies without a word. On the eastern campaign route they passed through Debera Ironvault's inn at Verath. The boy ate at her table and said nothing.
 In the east wing his mother was brushing Emira's hair while he sat by the hearth with a tactical manual. She said, "Put down the manual, love. You cannot learn what a kingdom is from a book about how to take one."
 She told him about the island where she was born, where beastkin and humans shared the same wells and nobody had built a wall. At sixteen his bloodline's reach was projected for him. He was meant to be king.
@@ -196,7 +200,7 @@ She told him about the island where she was born, where beastkin and humans shar
 The Warden, Zaehaerys Stark, had sent his cousin Fern south to learn how the Moto thought. She and Sodoku chose each other. Ayame blessed the union before Muken signed anything. Fern went home to the Ironwood March carrying his child, and the Warden rode to her holdfast to confront her.
 Sodoku stood in the doorway. "I slept with Fern because Fern is the woman I chose and the woman who chose me," he told the Warden. He granted the Warden his law: "She will be Ice on your documents." He granted nothing past it. "But if my future wife says that her daughter is a Stark, then that is what my nurses will write." Then he dismissed the Warden from a holdfast on Stark land.
 That morning his father signed the approval for the marriage. The courier never came.
-A Tenrai-commissioned corridor assassination took his father Muken, his mother and his brother in one night. Before the fires reached the upper floors, Sodoku went to the study. He took the approval off the dispatch pile. He and Sonzai answered by burning the Tenrai main-branch settlement to the ground, women and children included. The High Council exiled him by decree and charged him with the massacre. What happened there is sealed in its archive.
+A Tenrai-commissioned corridor assassination took his father Muken and his brothers Tomuka and Ezo in one night. Before the fires reached the upper floors, Sodoku went to the study. He took the approval off the dispatch pile. He and Sonzai answered by burning the Tenrai main-branch settlement to the ground, women and children included. The High Council exiled him by decree and charged him with the massacre. What happened there is sealed in its archive.
 
 #### The Cost
 
@@ -227,7 +231,7 @@ The Shirogane still refuse. Sayo Shirogane's published objection lists the Tenra
 - **Fern Stark** · the woman he chose. The approval for their marriage never reached her.
 - **Hild Ice (Stark) · The Sword Princess** · father and daughter. He kissed her hair at the foot of the stair and rode out.
 - **Rikudoku Moto** · father and son. His son by Yoko Mishiro.
-- **Mizuki Moto** · siblings. She is Muken's firstborn and the Frost-Braid Heir, and no record puts them in one room.
+- **Mizuki Moto** · half-siblings. She is Muken's firstborn, by a woman before Ayame, and the Tenrai named her his heir; Muken never agreed, and raised Sodoku to it. No record puts them in one room.
 - **Yukazuri Moto** · aunt and nephew. Muken's sister; no record puts them together.
 - **Krothar Veylshroud · The Chain Without a Master** · observed. On a ridge in the Scourge of Hell Sodoku asked him for passage, then put his body between him and Yoko.
 - **Debera Ironvault** · fed him. He refused the place she offered and took her food.

@@ -4,7 +4,7 @@ notion_id: "3b158200-eb22-8182-8399-de287a92c776"
 notion_url: "https://app.notion.com/p/The-Four-Ceilings-3b158200eb2281828399de287a92c776"
 section: "Cosmology & Metaphysics"
 tags: ["Cosmology", "Lore & History", "Trade & Economy"]
-last_edited: "2026-09-26T14:18:00.000Z"
+last_edited: "2026-09-27T19:49:00.000Z"
 verification: "unverified"
 ---
 
@@ -18,7 +18,7 @@ verification: "unverified"
 ## Prefatory Note
 
 Histories of the Realms are written as histories of who ruled. This is a history of what could be made, which is a different subject and occasionally an embarrassing one, because it keeps producing the conclusion that the great turnings of the age were not decided by anybody.
-The organising claim is simple. For most of reckoned time, making things was held at a fixed ceiling by four physical obstacles, and every civilisation from the Antediluvian to the founding of the Accord ran into the same four and stopped in the same place. The obstacles were water, air, haulage, and heat. **They are not magical obstacles.** They are the ordinary consequences of digging a hole in the ground and trying to melt what comes out of it, and they would have stopped a world with no Essence in it at all.
+The organising claim is simple. For most of reckoned time, making things was held at a fixed ceiling by four physical obstacles, and every civilisation from the Antediluvian to the sealing of the Codex ran into the same four and stopped in the same place. The obstacles were water, air, haulage, and heat. **They are not magical obstacles.** They are the ordinary consequences of digging a hole in the ground and trying to melt what comes out of it, and they would have stopped a world with no Essence in it at all.
 What changed in the Imperial Age was not that anyone became cleverer. Four specific obstacles were removed, in a specific order, across the five centuries of the Long Reckoning, and the world that resulted is the one now standing. A fifth obstacle, the inability to measure what you were holding, had fallen a thousand years earlier for reasons that had nothing to do with making anything, and is the reason any of it could be traded.
 > The Archives will find this account unromantic. It contains no heroes. It contains a pump, a fan, a rope, a furnace, and a coil.
 - ***A note on the revision***
@@ -223,7 +223,7 @@ Nothing about it resembles the Antediluvian collapse. There is no plague, no war
 ### What It Is Doing
 
 The great houses now buy Essence supply the way an army buys grain. A bad year in supply closes shafts that are still full of ore. The price of certainty has risen in each of seventy consecutive years, and a western mining house's balance sheet is now mostly contracts, which means **the great houses are functionally Essence traders that happen to own holes.**
-No new ceiling has fallen in seventy years. The Guild records this without commentary and observes only that a civilisation which feeds itself through an Essence dependency has arranged for a Wellspring failure to become a famine, that the Accord made this doctrine at its founding, and that the western quarter has spent seven centuries outrunning it.
+No new ceiling has fallen in seventy years. The Guild records this without commentary and observes only that a civilisation which feeds itself through an Essence dependency has arranged for a Wellspring failure to become a famine, that the Codex made this doctrine at its sealing, and that the western quarter has spent seven centuries outrunning it.
 
 ### The Repeating Figure
 

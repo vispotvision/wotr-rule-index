@@ -4,7 +4,7 @@ notion_id: "3bc58200-eb22-8140-8205-d05c390faf37"
 notion_url: "https://app.notion.com/p/The-Kingdom-of-Kharven-The-Ashen-Crown-3bc58200eb2281408205d05c390faf37"
 section: "The Inner World — The Northern Shield"
 tags: []
-last_edited: "2026-09-26T10:18:00.000Z"
+last_edited: "2026-09-27T19:48:00.000Z"
 verification: "unverified"
 ---
 
@@ -197,7 +197,7 @@ He had spent decades cultivating conditions where the Tenrai's influence was str
 ### The night
 
 Not open combat — **Muken would have survived open combat against any combination of practitioners the Tenrai could field.** Convergence-friendly channels: a carefully engineered sequence designed to produce his death **as an apparent consequence of circumstances rather than the result of a plot, so that the survivors would argue about causes rather than conspirators.**
-It took Muken, Ayame and Tomuka in a single night. The corridor was the instrument, prepared for months — every patrol reassignment, every witness post delay, every false escort authority documented and filed in the bureaucratic architecture built specifically to make the documentation impossible to find.
+It took Muken, Tomuka and Ezo in a single night. The corridor was the instrument, prepared for months — every patrol reassignment, every witness post delay, every false escort authority documented and filed in the bureaucratic architecture built specifically to make the documentation impossible to find.
 > Sodoku and Sonzai answered the killing. What happened at the Tenrai settlement afterward was not justice and was not revenge and was not any of the clean categories historians would later attempt to apply.
 >
 > The High Council's charge — massacre including innocents and children — **is not entirely wrong. It is not entirely complete.** What propagated into the whisper-network was the version that the survivors and the people who wanted the Kōkan Line destroyed **needed to be true. Both groups had reasons to emphasise certain details. Both were served by the version that circulated.**

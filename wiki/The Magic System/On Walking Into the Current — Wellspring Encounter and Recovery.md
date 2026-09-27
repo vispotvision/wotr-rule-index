@@ -4,7 +4,7 @@ notion_id: "3bc58200-eb22-811d-bbf2-ee2f27930f0e"
 notion_url: "https://app.notion.com/p/On-Walking-Into-the-Current-Wellspring-Encounter-and-Recovery-3bc58200eb22811dbbf2ee2f27930f0e"
 section: "The Magic System"
 tags: ["Magic System", "Medicine & Death"]
-last_edited: "2026-09-10T11:15:00.000Z"
+last_edited: "2026-09-27T19:50:00.000Z"
 verification: "unverified"
 ---
 
@@ -100,9 +100,9 @@ The stream is flowing the wrong direction **and** childhood memories are surfaci
 
 *Everything above assumes the reader has a Crystal. Most people standing inside a concentration do not.*
 A survey party is a practitioner or two and eight other people. Porters, guides, mule-handlers, the cook. Settlements sit downwind of concentrations for generations without anyone in them ever being screened. **A current does not check for a Crystal before it acts,** and the register has been written for a decade as though it did.
-**A Class Ø soul has no Shell to phase-lock, so no harmonisation occurs.** This is the whole of the good news. The Essence Core is present, furnished, and fully exposed.
+**A Class Ø soul's Shell is sealed and cannot phase-lock, so no harmonisation occurs.** This is the whole of the good news. The Essence Core is present, furnished, and fully exposed.
 **Wild-type.** Identical in every respect, and the unawakened are frequently better at it. The body is the instrument, the instrument is unimpaired, and a porter has no Gnosis reading to argue with when the ground starts lying. Experienced survey leads have known for years that the man who says *this is wrong* first is usually the one carrying the tent poles, and the published curriculum does not mention it.
-**Spirit-type.** The onset is physiological and it arrives on schedule. Thermal change in the hands, an emotional shift with no stimulus behind it, nosebleed, the taste in the back of the throat. **What does not arrive is the involuntary discharge**, because there is no Shell to express through.
+**Spirit-type.** The onset is physiological and it arrives on schedule. Thermal change in the hands, an emotional shift with no stimulus behind it, nosebleed, the taste in the back of the throat. **What does not arrive is the involuntary discharge**, because the sealed Shell cannot express it.
 > This is worse rather than better, and in one specific way. A practitioner in a Spirit-type onset vents. The load leaves through the Shell as a half-formed working, badly, expensively, and it leaves.
 >
 > **An unawakened soul has no exit.** The current drives the Core and the Core has nowhere to put what it is being given. The load stays, and it goes on staying after the party has withdrawn and made camp and gone home.

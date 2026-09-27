@@ -4,7 +4,7 @@ notion_id: "3b158200-eb22-8160-88ff-d47381afb2f0"
 notion_url: "https://app.notion.com/p/The-Concordance-of-Ages-3b158200eb22816088ffd47381afb2f0"
 section: "Cosmology & Metaphysics"
 tags: ["Lore & History", "In-World Document"]
-last_edited: "2026-09-10T11:16:00.000Z"
+last_edited: "2026-09-27T19:49:00.000Z"
 verification: "unverified"
 ---
 
@@ -91,7 +91,7 @@ When a Wellspring began to fail, an Antediluvian city could not answer by leavin
 
 **Span** · −450 to 000. Four hundred and fifty years.
 **Character** · Notation. The invention of writing Essence down, and everything that follows from it.
-**Close** · The sealing of the Concord Codex, which is Year Zero and the founding of the Accord.
+**Close** · The sealing of the Concord Codex, which is Year Zero.
 The Age produced no machine and contains the largest single break in the history of making. Parunic syntax was formalised out of whatever the Antediluvians had been doing by feel, glyphs were assigned stable meanings, and the combinations were catalogued. **Kessian Yorul** cut the first Living Runes into bone, inscriptions that draw on the bearer's own circulation. **Mnirah Valein** codified the Twelve Stages of Spirit Infusion and, in doing so, established that capability could be graded, taught, and required before permission was granted, which is the ancestor of every guild licence now in force.
 > Before notation, an effect required a practitioner standing in the room. After notation, an effect could be laid into a substrate and left there, and it would keep working when nobody was watching.
 >
@@ -109,8 +109,8 @@ The Age divides into three eras. The Guild stresses that these are **eras within
 
 #### The Voyager Era · 000 to 070 IC
 
-The founding and the opening of the routes, and the two are the same event viewed from different divisions.
-The first decades built nothing. They established shared units, sanctioned notation, and the first assay houses, which is to say they established that two people in different kingdoms could specify the same thing and mean it. Every history of the era skips this and every history of the era is wrong to. The Guild Accord, the Concord Codex, the Lattice, the Divisions, the Tiered Path, and the first nine Concord Gates all date to this seventy-year window, and the documents bearing the stamp of Imperial Year 013 and Imperial Year 027 in the Voyager Era are correct as written and require no correction.
+The sealing of the Codex and the opening of the routes, and the two are the same event viewed from different divisions.
+The first decades built nothing. They established shared units, sanctioned notation, and the first assay houses, which is to say they established that two people in different kingdoms could specify the same thing and mean it. Every history of the era skips this and every history of the era is wrong to. The Concord Codex, the Lattice, the Divisions, the Tiered Path, and the first nine Concord Gates all date to this seventy-year window, and the documents bearing the stamp of Imperial Year 013 and Imperial Year 027 in the Voyager Era are correct as written and require no correction.
 The enabling technology of the expansion was **the chart and not the ship**. What the routes brought back broke the money. Eastern placer gold is won by hand from black-sand river bars with no permission required from anybody, which meant bullion arrived in the western quarter in quantities no mint controlled and no crown could meter. Prices roughly doubled within a generation. The western guilds spent thirty years blaming hoarding, foreign merchants, bad harvests, and moral decline, and then a Babylan theorist observed that when the quantity of money rises faster than the quantity of goods the money is worth less, which is not a moral fact and cannot be legislated against.
 Wage earners lost. Wages are customary and adjust slowly, prices are not and do not. *The Voyager Era is commemorated with a public holiday in four kingdoms and the holiday commemorates the charts.*
 
@@ -132,7 +132,7 @@ What the era built was a dependency. A pumped shaft must be pumped forever, sinc
 The bill. Seventy years so far.
 The ambient Wellspring density of the western quarter began to fall measurably around Year 645 and has fallen every year since. The Research Division describes the phenomenon as *contested*. Every pump-master between Ironlink and the Greaves districts describes it as *Tuesday*.
 Nothing about the Withering resembles the collapse that closed the Antediluvian Calendar, which is why it took a generation to name. There is no plague, no war of sufficient scale, no visible catastrophe anyone can point at. The great houses buy Essence supply the way an army buys grain, a bad year in supply closes shafts still full of ore, and the price of certainty has risen in each of seventy consecutive years without a single year in which anybody could say what had specifically gone wrong.
-A civilisation that feeds itself through an Essence dependency has arranged for a Wellspring failure to become a famine. The Accord made that doctrine at its founding and the western quarter has spent seven centuries quietly outrunning it.
+A civilisation that feeds itself through an Essence dependency has arranged for a Wellspring failure to become a famine. The Codex made that doctrine at its sealing and the western quarter has spent seven centuries quietly outrunning it.
 
 ---
 

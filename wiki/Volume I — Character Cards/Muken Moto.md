@@ -4,7 +4,7 @@ notion_id: "3b158200-eb22-81b8-b346-d1d8df799ed5"
 notion_url: "https://app.notion.com/p/Muken-Moto-3b158200eb2281b8b346d1d8df799ed5"
 section: "Volume I — Character Cards"
 tags: []
-last_edited: "2026-09-27T04:16:00.000Z"
+last_edited: "2026-09-27T19:48:00.000Z"
 verification: null
 ---
 
@@ -264,7 +264,7 @@ His wall at Kharven-Seat still stands on the stakes six men drove for it. The th
 - **Tomuka** · son. He died the night his father died.
 - **Ezo** · son. He was killed the same night, with the first ring-lines of the Shingan still forming in his eye.
 - **Yukazuri Moto** · sister. He brought her north and fed her on what his hands earned, and his removal left her no body to sit beside.
-- **Mizuki Moto** · firstborn, contested. His own card does not list her.
+- **Mizuki Moto** · firstborn, by a woman before Ayame. The Tenrai pressed her on him as his heir, and he never agreed; the heir he raised was Sodoku.
 - **Hild Ice (Stark) · The Sword Princess** · granddaughter. She was born after him and sat his throne.
 - **Edward Lambert · The Arithmetic** · service. He filed Lambert's name after eleven quarters of correct reports, called his third stake wrong, and never touched it again.
 - **Heisuke · Muken's Last Soldier** · service. One of the last men of his border guard, who outlived him.

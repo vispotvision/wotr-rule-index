@@ -4,7 +4,7 @@ notion_id: "3e758200-eb22-8127-a7c2-ece5680c1889"
 notion_url: "https://app.notion.com/p/X-The-Tier-Ladders-Part-Twenty-Four-3e758200eb228127a7c2ece5680c1889"
 section: "Fracture of Worlds — The Living System"
 tags: []
-last_edited: "2026-09-26T08:48:00.000Z"
+last_edited: "2026-09-27T19:51:00.000Z"
 verification: "unverified"
 ---
 
@@ -480,7 +480,7 @@ The rung says what was paid to put the thing on the field. It does not say what 
 **Force: whether the site recognises or takes.** A site under clean Attraction Force reads the Crystal and either permits harmonisation or ignores the visitor. **A site under Obsession Force takes, compatible or not, and stands one rung higher than its density**, because the output that held against a current that asks does not hold against one that pulls.
 **Stability: whether the reading drifts.** A site whose saturation never drifts is read at its rung and stays there. A site violently irregular is read at its worst ground, never its average.
 **Draw: what working the site does.** A site drawn on steadily falls as it is drawn: the old districts of a worked quarter read a rung or more below the ground beside them. **A site worked past what it can give does not fall a rung. It gives out**, and the ground that is left reads as ordinary depleted earth.
-**The unawakened.** A Class Ø soul has no Shell to phase-lock and no harmonisation occurs, and the rung reads the same for a porter as for a practitioner. What differs is the exit. **A practitioner in a Spirit-type onset vents the load through the Shell; an unawakened soul keeps it**, and no recovery protocol has been written for one returned from a Fountainhead.
+**The unawakened.** A Class Ø soul's Shell is sealed and cannot phase-lock, and no harmonisation occurs, and the rung reads the same for a porter as for a practitioner. What differs is the exit. **A practitioner in a Spirit-type onset vents the load through the Shell; an unawakened soul keeps it**, and no recovery protocol has been written for one returned from a Fountainhead.
 **Objects.** A current bound inside a vessel is an Object Wellspring, and it is read on this ladder by the material that holds it: **material tier n stands on rung n.** An object has no perimeter and no gradient to give warning. It is held or it is not, and its internal law meets the Shell at zero distance.
 
 #### Placement

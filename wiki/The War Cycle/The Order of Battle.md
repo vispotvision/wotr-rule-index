@@ -4,7 +4,7 @@ notion_id: "3b158200-eb22-814c-bf31-e610ff818b79"
 notion_url: "https://app.notion.com/p/The-Order-of-Battle-3b158200eb22814cbf31e610ff818b79"
 section: "The War Cycle"
 tags: []
-last_edited: "2026-08-03T21:48:00.000Z"
+last_edited: "2026-09-27T19:50:00.000Z"
 verification: "unverified"
 ---
 
@@ -88,7 +88,7 @@ Under Article IV, every signatory contributes combatants, specialists or logisti
 > **The High Marshal commands the Legion. The Crown commands the ground. Neither commands the other and both are told they do.**
 A Concord force operating in a Crown's realm sits inside **an unresolved authority.** The Crown holds sovereignty, the ground, the law, the levy and the supply. The Legion holds the practitioners, the arrays, the Writs and the credit. **Neither can conduct the campaign alone and neither will subordinate.**
 The formal resolution is the **Concord Writ.** The practical resolution is that **the High Marshal's staff writes the plan, the Crown's marshal signs it, and both record their reservations for the Arbitration review that follows every engagement.**
-> Where the two conflict in the field, the deciding factor is not law. **It is who is holding the Wellspring the campaign depends on, and the answer has been the Accord since Year Zero.**
+> Where the two conflict in the field, the deciding factor is not law. **It is who is holding the Wellspring the campaign depends on, and the answer has been the Citadel and its Divisions since Year Zero.**
 
 ### Officer ratios
 

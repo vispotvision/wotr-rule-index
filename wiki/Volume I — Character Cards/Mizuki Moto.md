@@ -4,7 +4,7 @@ notion_id: "3b258200-eb22-8198-b06f-e6376ea9af97"
 notion_url: "https://app.notion.com/p/Mizuki-Moto-3b258200eb228198b06fe6376ea9af97"
 section: "Volume I — Character Cards"
 tags: []
-last_edited: "2026-09-26T10:25:00.000Z"
+last_edited: "2026-09-27T19:48:00.000Z"
 verification: null
 ---
 
@@ -143,7 +143,7 @@ verification: null
 
 #### Origin
 
-Mizuki Moto was the firstborn of Muken Moto, of the Moto blood and the royal strain of Kharven. Her father had taken the north by conquest and by rite, and the fighting did not stop when he was crowned.
+Mizuki Moto was the firstborn of Muken Moto, his child by a woman before Ayame, of the Moto blood and the royal strain of Kharven. Her father had taken the north by conquest and by rite, and the fighting did not stop when he was crowned.
 The cold came with her. Wet cloth stiffened with frost when she stood near it. People beside her saw their own breath. Her hands were always a little cooler than anyone expected, and she smelled of clean cold air and faint lavender. She grew up in her father's house, small and lightly built, with steady hands and strong legs, and long white hair she wore high.
 She learned early where her gift belonged. It was needed most after the violence, in the room where the injured were carried, among the cots and the basins, once the fighting had moved on.
 
@@ -164,12 +164,12 @@ She wanted a field wide enough that nobody inside it died of something she could
 
 #### Where They Stand
 
-She is nineteen and active in Kharven, Muken's eldest child and the War Court's battlefield preservation specialist. Her record leaves her inside her father's reign. The Frost-Braid Cord is bound into her side braid. It keeps her hands from shaking when the numbness comes back. She wears the white winter cloak and carries the twin needles, and she reaches for the mending wraps first, because they cost her no cold.
+She is nineteen and active in Kharven, Muken's eldest child and the War Court's battlefield preservation specialist. The Tenrai call her his heir and press it on him. He has never agreed, and the heir he is raising is Sodoku. Her record leaves her inside her father's reign. The Frost-Braid Cord is bound into her side braid. It keeps her hands from shaking when the numbness comes back. She wears the white winter cloak and carries the twin needles, and she reaches for the mending wraps first, because they cost her no cold.
 The field she can open is still narrower than the one she wants. Nobody yet sits the hours after with her. The night she must decide whether letting go is acceptance or abandonment has not come.
 
 #### Ties
 
-- **Muken Moto** · father and firstborn, contested. His war strategy required her, and his own record lists his children without her.
+- **Muken Moto** · father and firstborn, by a woman before Ayame. His war strategy required her, and his own record lists his children without her.
 - **Yukazuri Moto** · aunt and niece; comrades. At the Ridgewall her field held a dying soldier while her aunt listened to him die.
-- **Sodoku Moto** · siblings, contested. She is recorded as Muken's firstborn and heir, he as the Kōkan line's former Crown Heir, and no record puts them in one room.
+- **Sodoku Moto** · half-siblings. The Tenrai named her Muken's heir; Muken never agreed, and raised Sodoku as the Kōkan line's Crown Heir. No record puts them in one room.
 - **Ayame Yuno** · one court. She serves the same Crown of Kharven as the priest-queen, and no record names Mizuki's mother.

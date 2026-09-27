@@ -4,14 +4,14 @@ notion_id: "3d858200-eb22-8123-bdac-cf86958a894c"
 notion_url: "https://app.notion.com/p/Wystan-Ashmore-Late-Bell-3d858200eb228123bdaccf86958a894c"
 section: "Volume I — Character Cards"
 tags: []
-last_edited: "2026-09-26T10:28:00.000Z"
+last_edited: "2026-09-27T19:51:00.000Z"
 verification: null
 ---
 
 # Wystan Ashmore — Late Bell
 
 **Say it** · WISS-tan ASH-mor
-*Guild Accord, Arbitration Division, Night Register. Officer of Attribution.*
+*Night Watch Society, Night Register. Officer of Attribution.*
 
 ### I. Identity
 
@@ -126,7 +126,7 @@ Consolidated: three, all Band II, all ordinary.
 
 ### Notes
 
-**The Night Register.** New institutional furniture under the Arbitration Division, derived from Pack Eleven: district mains go quiet after the eleventh division, so an unlicensed working is audible at night and invisible at noon. Article XV supplies the rest, since liability falls on the payer and his gift returns only the hand.
+**The Night Register.** The Night Watch Society's own desk: district mains go quiet after the eleventh division, so an unlicensed working is audible at night and invisible at noon. Article XV supplies the rest, since liability falls on the payer and his gift returns only the hand.
 **Dominion mean.** Read off seven entries rather than eight. Throne is excluded from the Dominion total per source, and including it in the mean would distort the Primary; source states both and only one can be arithmetic.
 **Throne.** No line carried. Source requires Fate Path at Stage XIII minimum and forbids any value below EX-Grade, so a Level 300 Spirit-Path practitioner does not have one.
 **Archetype.** Fills the standing gap for the practitioner whose weapon is knowing what everything is called.
@@ -134,8 +134,6 @@ Consolidated: three, all Band II, all ordinary.
 ---
 
 ### Lore · The Life Behind the Card
-
-*Written 2026-09-24 by the character-lore pass from this card, the one archived scene it appears in, and the record of The Night Register. What those sources do not state is new here.*
 
 #### Origin
 

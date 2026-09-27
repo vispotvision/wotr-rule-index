@@ -4,7 +4,7 @@ notion_id: "3e758200-eb22-811a-a7d0-eb66ba2d38ea"
 notion_url: "https://app.notion.com/p/The-Powers-of-the-Imperial-Age-3e758200eb22811aa7d0eb66ba2d38ea"
 section: "Factions, Bloodlines & Institutions"
 tags: []
-last_edited: "2026-09-26T16:21:00.000Z"
+last_edited: "2026-09-27T19:50:00.000Z"
 verification: "unverified"
 ---
 
@@ -123,9 +123,9 @@ Day-to-day rule in most of the four quarters is not one authority but three stac
 
 *The Burning Mandate · Rogue Body 7-C in the Accord's filings*
 **Wants.** Correction. It holds that the reading needs no Ladder and that purification is mercy delivered early.
-**Holds.** No territory and no fixed seat. Chapter markers and small garrisons left in the places it has declared corrected, and a catalogue of everything it has kept from the places it has burned.
+**Holds.** No fixed seat. Legal standing where the crowns and churches that back it rule, and the Gate to enforce in that territory. Chapter markers and small garrisons left in the places it has declared corrected, and a catalogue of everything it has kept from the places it has burned.
 **Fights by.** Campaign. A Circuit Justiciar takes a reading, a declaration is read in the square, forty-eight hours pass, and what refused the mask is treated as structural corruption.
-**Set against.** Sancta Lux, which exiled its founders. The Guild Accord, which has authorised enforcement for six years and has not come. Every settlement on a Circuit Justiciar's road.
+**Set against.** Sancta Lux, which exiled its founders. The Guild Accord, which outlaws it wherever a circle has signed and has authorised enforcement for six years without coming. Every settlement on a Circuit Justiciar's road.
 **Fears.** The Accord deciding the cost is worth paying and sending practitioners of matching Stage. The world learning what the catalogue is for.
 **The seam.** It does not govern what it takes. Every planted chapter is a small garrison far from support, and every marker is a record of where the Inquisition has been and a line toward where it goes next.
 

@@ -4,7 +4,7 @@ notion_id: "3d758200-eb22-8131-b70d-c91722f2d3e4"
 notion_url: "https://app.notion.com/p/II-Grades-Gates-and-Thresholds-Parts-Four-Ten-3d758200eb228131b70dc91722f2d3e4"
 section: "Fracture of Worlds — The Living System"
 tags: ["Magic System", "Reference Table"]
-last_edited: "2026-09-23T23:23:00.000Z"
+last_edited: "2026-09-27T19:27:00.000Z"
 verification: "unverified"
 ---
 
@@ -110,7 +110,7 @@ At D-Grade the practitioner can react to gunfire but cannot outrun it. At B-Grad
 ### Part Seven — Individual Stat Gates
 
 Every Sub-Stat carries a Path Alignment requirement. Certain subs cannot exceed a given Tier Grade without demonstrated Path commitment. **Path commitment is not declared. It is recognized by the Crystal based on behavioral pattern**, the consistent routing of Essence through a specific plane's logic over time.
-Where a gate below names a component of a Sub-Stat, the inscription and glyph-chain durability under Density, the gravitational component under Tolerance, and the rest, the gate binds the whole Sub-Stat's number. Part Twelve's Merge Ledger folded those components into the entries that carry them; they are no longer separate figures, and a sheet without the named Path commitment cannot carry the merged value above the component's Grade. The reading is strict, not lenient.
+Where a gate below names a component of a Sub-Stat, the inscription and glyph-chain durability under Density, the gravitational component under Tolerance, and the rest, the gate caps only that component. Part Twelve's Merge Ledger folded those components into the entries that carry them, but the gate still reads the part it names: a sheet without the named Path commitment runs that component capped at its Grade, or without it, while the rest of the Sub-Stat runs at full. A healer without Body Path heals fully and cannot reinforce.
 A character who has fought exclusively through Body Path mechanics for three full Bands has genuine Body Path alignment regardless of what they claim. A character who has occasionally used Spirit techniques while routing primarily through physical expression will find Spirit-aligned Sub-Stats quietly resisting advancement beyond C-Grade until the actual pattern of Soul Crystal use reflects commitment.
 
 #### Vitality Gates

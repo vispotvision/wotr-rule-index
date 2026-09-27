@@ -4,7 +4,7 @@ notion_id: "3bd58200-eb22-8146-9dc8-dac0ece8a344"
 notion_url: "https://app.notion.com/p/Ignatius-Sanctus-Sanctorum-Arsenal-The-Archpaladin-3bd58200eb2281469dc8dac0ece8a344"
 section: "Volume I — Character Cards"
 tags: []
-last_edited: "2026-09-27T04:15:00.000Z"
+last_edited: "2026-09-27T19:48:00.000Z"
 verification: null
 ---
 
@@ -178,7 +178,7 @@ The twelfth trial came unannounced. At the ninth hour of the fourteenth day Char
 
 The gate put him out over a burning city at the tenth hour. The Hammer came into his right hand. In the Vaeloris quarter a boy on the rubble held a dead man, and what the boy felt stood over four streets, killing what it touched. Ignatius could have undone it by letting go, and he kept his hand shut so the child could keep it. Aurelian came up the rubble young, pleasant and wrong about Verinus. Ignatius told him Charles was dead and that he was not the man who had ordained him, and kept him on his left. He had not raised his voice before another living soul since the year he was twenty-six. He raised it now. He told the Void Regent he would kill him.
 In the crater he held the seam of Verinus's wall in his closed hand. None of it entered him. With the seventh Work he drove the Regent out through the tear and set the wall across it. Then he fell onto his side in the ash of the Vaeloris quarter with his right hand closed, and did not open it.
-Word of his death reached the Alabaster Court weeks later, and Verinus has told three people he will come back. Dabney counts seven years of forms under him. The seat of the Will stands uninvested. He has read the Seventh Objection as one of three living holders of the Sealed Standard. What he chose to do about it he has told nobody, and he believes it will justify a fifth fracture.
+He did not die there. He is alive and his whereabouts are known, and Verinus, who reads him alive in the Works, has told three people so. Dabney counts seven years of forms under him. The seat of the Will stands uninvested. He has read the Seventh Objection as one of three living holders of the Sealed Standard. What he chose to do about it he has told nobody, and he believes it will justify a fifth fracture.
 
 #### Ties
 

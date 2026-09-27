@@ -4,7 +4,7 @@ notion_id: "3e758200-eb22-8156-af34-d82ba7964eea"
 notion_url: "https://app.notion.com/p/The-Night-Watch-3e758200eb228156af34d82ba7964eea"
 section: "Factions, Bloodlines & Institutions"
 tags: []
-last_edited: "2026-09-26T16:20:00.000Z"
+last_edited: "2026-09-27T19:50:00.000Z"
 verification: "unverified"
 ---
 
@@ -112,6 +112,6 @@ Illegal magic, and anything the ground does that nobody can explain: carcasses t
 ## Relations and Reputation
 
 **The crown** chartered the Society, and the Society holds its warrant and answers to the state. **The guilds** are the Watch's neighbours on the same ground: it works alongside them, their trace examiners read a working's traces as evidence as it does, and their courts want the cases the crown's courts want. **The Lattice Classification Bureau** is a separate office. It classifies the Society's filings and closes the ones in which it finds no operator, and it is honest and usually right; Edwyn Brack of its northern office has never been wrong in a way that mattered. **The forming Accord** is younger than the Watch. Where a circle has signed, the Articles bind, and Article XV is the one the Register works through.
-**Sancta Lux's Inquisitors** are the Church's lateral office, sent after unconsecrated high working wherever the Church holds standing, with authority to pronounce sentence in the field without an Arbiter. The Watch works the other way: it counts, seals and files, and its cases go to a hearing. **The Holy Inquisition**, which took the Inquisitor's name without the standing, claims the same work and prosecutes it by fire.
+**Sancta Lux's Inquisitors** are the Church's lateral office, sent after unconsecrated high working wherever the Church holds standing, with authority to pronounce sentence in the field without an Arbiter. The Watch works the other way: it counts, seals and files, and its cases go to a hearing. **The Holy Inquisition**, which took the Inquisitor's name without the Church's leave, claims the same work and prosecutes it by fire. It is lawful where the crowns and churches that back it rule, and outlawed where the Accord's circles have signed.
 **The Mother** watches the Watch more closely than any other power, because its observers carry no signature the cult can follow. Its Greyshaft Nine culture knew the Ferriby walker by name, knew that the coil-carrier had not filed her clean return, and set its next work to leave no line anywhere a walker could stand at and check the far side of.
 > Asked whether the Night Register was a person, the bulletin office clerk said it was.

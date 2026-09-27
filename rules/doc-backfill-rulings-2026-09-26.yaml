@@ -664,3 +664,219 @@ rules:
   ratified: 'Isaac, 2026-09-27, Claude Code chat: the three conflicts questionnaire (C-089, C-090, C-091)'
   source: *id002
   notes: ''
+- id: R57-32-AYAME_DIED_LATER
+  pack: Rulings Backfill 2026-09-26
+  pack_number: null
+  section: Conflicts ruled
+  title: Ayame Died Later
+  status: live
+  kind: definition
+  summary: 'C-080: Ayame Yuno died later, by her own hand, after the corridor night; she is not among
+    the dead of the corridor night.'
+  verbatim: 'C-080: Ayame Yuno died later, by her own hand, after the corridor night; she is not among
+    the dead of the corridor night.'
+  amends: []
+  supersedes: []
+  applies_to:
+  - worldbuilding
+  - character-sheet
+  verification: *id001
+  ratified: 'Isaac, 2026-09-27, Claude Code chat: the open-conflicts questionnaire'
+  source: *id002
+  notes: ''
+- id: R57-33-TOMUKA_AND_EZO
+  pack: Rulings Backfill 2026-09-26
+  pack_number: null
+  section: Conflicts ruled
+  title: Tomuka And Ezo
+  status: live
+  kind: definition
+  summary: 'C-081: Muken''s sons who died on the corridor night are Tomuka and Ezo.'
+  verbatim: 'C-081: Muken''s sons who died on the corridor night are Tomuka and Ezo.'
+  amends: []
+  supersedes: []
+  applies_to:
+  - worldbuilding
+  - character-sheet
+  verification: *id001
+  ratified: 'Isaac, 2026-09-27, Claude Code chat: the open-conflicts questionnaire'
+  source: *id002
+  notes: ''
+- id: R57-34-MUKENS_HEIR
+  pack: Rulings Backfill 2026-09-26
+  pack_number: null
+  section: Conflicts ruled
+  title: Mukens Heir
+  status: live
+  kind: definition
+  summary: 'C-082: The Tenrai dubbed Mizuki the heir, because Mizuki was a child Muken had with a woman
+    before Ayame; but the story clearly sets Sodoku up as the heir of Kharven, and Muken never agreed
+    to make Mizuki his heir despite the pressure.'
+  verbatim: 'C-082: The Tenrai dubbed Mizuki the heir, because Mizuki was a child Muken had with a woman
+    before Ayame; but the story clearly sets Sodoku up as the heir of Kharven, and Muken never agreed
+    to make Mizuki his heir despite the pressure.'
+  amends: []
+  supersedes: []
+  applies_to:
+  - worldbuilding
+  - character-sheet
+  verification: *id001
+  ratified: 'Isaac, 2026-09-27, Claude Code chat: the open-conflicts questionnaire'
+  source: *id002
+  notes: ''
+- id: R57-35-IGNATIUS_ALIVE
+  pack: Rulings Backfill 2026-09-26
+  pack_number: null
+  section: Conflicts ruled
+  title: Ignatius Alive
+  status: live
+  kind: definition
+  summary: 'C-083: Ignatius is alive and his whereabouts are known; there was no real report of his death.'
+  verbatim: 'C-083: Ignatius is alive and his whereabouts are known; there was no real report of his death.'
+  amends: []
+  supersedes: []
+  applies_to:
+  - worldbuilding
+  - character-sheet
+  verification: *id001
+  ratified: 'Isaac, 2026-09-27, Claude Code chat: the open-conflicts questionnaire'
+  source: *id002
+  notes: ''
+- id: R57-36-YEAR_ZERO_IS_THE_CODEX
+  pack: Rulings Backfill 2026-09-26
+  pack_number: null
+  section: Conflicts ruled
+  title: Year Zero Is The Codex
+  status: live
+  kind: definition
+  summary: 'C-084: Year Zero of the Concordance of Ages is the sealing of the Codex, 715 years ago; the
+    Guild Accord as a communion of guilds is what is forming now.'
+  verbatim: 'C-084: Year Zero of the Concordance of Ages is the sealing of the Codex, 715 years ago; the
+    Guild Accord as a communion of guilds is what is forming now.'
+  amends: []
+  supersedes: []
+  applies_to:
+  - worldbuilding
+  verification: *id001
+  ratified: 'Isaac, 2026-09-27, Claude Code chat: the open-conflicts questionnaire'
+  source: *id002
+  notes: ''
+- id: R57-37-INQUISITION_LAWFUL_IN_ITS_LANDS
+  pack: Rulings Backfill 2026-09-26
+  pack_number: null
+  section: Conflicts ruled
+  title: Inquisition Lawful In Its Lands
+  status: live
+  kind: definition
+  summary: 'C-085: The Holy Inquisition holds legal standing where the crowns and churches that back it
+    rule, and is outlawed where the Accord''s circles have signed; it enforces the Gate in its own territory.'
+  verbatim: 'C-085: The Holy Inquisition holds legal standing where the crowns and churches that back
+    it rule, and is outlawed where the Accord''s circles have signed; it enforces the Gate in its own
+    territory.'
+  amends: []
+  supersedes: []
+  applies_to:
+  - worldbuilding
+  verification: *id001
+  ratified: 'Isaac, 2026-09-27, Claude Code chat: the open-conflicts questionnaire'
+  source: *id002
+  notes: ''
+- id: R57-38-RARE_BORN_WITHOUT_A_CRYSTAL
+  pack: Rulings Backfill 2026-09-26
+  pack_number: null
+  section: Conflicts ruled
+  title: Rare Born Without A Crystal
+  status: live
+  kind: definition
+  summary: 'C-086: A very few people are born with no Soul Crystal at all; it is rare and remarked on.
+    A Class Ø soul keeps its sealed Shell.'
+  verbatim: 'C-086: A very few people are born with no Soul Crystal at all; it is rare and remarked on.
+    A Class Ø soul keeps its sealed Shell.'
+  amends: []
+  supersedes: []
+  applies_to:
+  - worldbuilding
+  - magic-mechanism
+  verification: *id001
+  ratified: 'Isaac, 2026-09-27, Claude Code chat: the open-conflicts questionnaire'
+  source: *id002
+  notes: ''
+- id: R57-39-NIGHT_REGISTER_IS_THE_SOCIETYS
+  pack: Rulings Backfill 2026-09-26
+  pack_number: null
+  section: Conflicts ruled
+  title: Night Register Is The Societys
+  status: live
+  kind: definition
+  summary: 'C-088: The Night Register is the Night Watch Society''s own desk, not the Guild Accord''s
+    Arbitration Division''s.'
+  verbatim: 'C-088: The Night Register is the Night Watch Society''s own desk, not the Guild Accord''s
+    Arbitration Division''s.'
+  amends: []
+  supersedes: []
+  applies_to:
+  - worldbuilding
+  verification: *id001
+  ratified: 'Isaac, 2026-09-27, Claude Code chat: the open-conflicts questionnaire'
+  source: *id002
+  notes: ''
+- id: R57-40-HOBGOBLIN_HORN_IN_COLD
+  pack: Rulings Backfill 2026-09-26
+  pack_number: null
+  section: Conflicts ruled
+  title: Hobgoblin Horn In Cold
+  status: live
+  kind: definition
+  summary: 'C-052: Hobgoblin formations signal by Silent Sign-Glyphs as the norm; in deep cold or broken
+    ground a formation falls back to a horn count, which is why the fight at the breach is unusual.'
+  verbatim: 'C-052: Hobgoblin formations signal by Silent Sign-Glyphs as the norm; in deep cold or broken
+    ground a formation falls back to a horn count, which is why the fight at the breach is unusual.'
+  amends: []
+  supersedes: []
+  applies_to:
+  - worldbuilding
+  - mass-combat
+  verification: *id001
+  ratified: 'Isaac, 2026-09-27, Claude Code chat: the open-conflicts questionnaire'
+  source: *id002
+  notes: ''
+- id: R57-41-CHECKS_34_35_RETIRED
+  pack: Rulings Backfill 2026-09-26
+  pack_number: null
+  section: Conflicts ruled
+  title: Checks 34 35 Retired
+  status: live
+  kind: repeal
+  summary: 'C-078: Checks 34 and 35 (defined on the six-line card''s Operation line) are retired; the
+    Counterplay block and the fair-play rules cover them.'
+  verbatim: 'C-078: Checks 34 and 35 (defined on the six-line card''s Operation line) are retired; the
+    Counterplay block and the fair-play rules cover them.'
+  amends: []
+  supersedes:
+  - R17-8-CHECK34
+  - R17-8-CHECK35
+  applies_to:
+  - verification
+  - magic-design
+  verification: *id001
+  ratified: 'Isaac, 2026-09-27, Claude Code chat: the open-conflicts questionnaire'
+  source: *id002
+  notes: ''
+- id: R57-42-REIFICATION_NO_COUNT_ANYWHERE
+  pack: Rulings Backfill 2026-09-26
+  pack_number: null
+  section: Conflicts ruled
+  title: Reification No Count Anywhere
+  status: live
+  kind: repeal
+  summary: 'C-079: Reification has no count anywhere, procedural and ledger scenes included.'
+  verbatim: 'C-079: Reification has no count anywhere, procedural and ledger scenes included.'
+  amends: []
+  supersedes:
+  - R4-15-PROCEDURAL_SCENE_BUDGET
+  applies_to:
+  - prose-law
+  verification: *id001
+  ratified: 'Isaac, 2026-09-27, Claude Code chat: the open-conflicts questionnaire'
+  source: *id002
+  notes: ''

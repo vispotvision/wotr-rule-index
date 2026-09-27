@@ -429,7 +429,7 @@ rules:
     pack_number: 17
     section: "§8"
     title: "Check 34 — The four elements"
-    status: live
+    status: superseded
     kind: procedure
     summary: >-
       Manual check that quantity, law, operation and chain are all present
@@ -455,7 +455,7 @@ rules:
     pack_number: 17
     section: "§8"
     title: "Check 35 — Derivation"
-    status: live
+    status: superseded
     kind: procedure
     summary: >-
       Manual check: for each of Cost, Limit and Counter, name the sentence

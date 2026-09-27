@@ -820,7 +820,7 @@ the author notes."
 **Quotes:** `01_wotr_muster_breach_road_north.md:77`: "No shouting anywhere. A horn on a two-count, twice, and the whole front rank of them stepping off together." and `:117`: "They were three-quarters of a beat late, all of them, and the lateness was the only currency Bram's men had. A Kharven axeman who has spent his whole life at this temperature swings at his own speed on the coldest morning of his life. An Expanse man drilled to the count of a horn does not, and a formation that cannot keep its count stops being a formation and becomes two thousand two hundred individuals in a hole in a wall." vs `The Goblinoid Peoples.md:109`: "**Language** · High Concord for formal and diplomatic contexts. **Silent Sign-Glyphs** for the field — micro-gestures and shared Aetheric pulses." and `:167`: "The Crimson Order adapted specific sequences into formation-signaling, stripping the chant element and retaining only the rhythmic structure as Aetheric pulse-code. *Hobgoblin military scholars consider this a practical adaptation. Ironblood traditionalists consider it a desecration.*" and `The Descent of Parun — The Fourteen Hands.md:114`: "**The Crimson Order stripped the chant element out and kept the three-beat rhythm as pulse-code** — which works, **and which Ironblood traditionalists regard as grave-robbery.**" with `:50`: "*A written Gravetongue phrase produces nothing because the writing was never where the boundary lived. The Crimson Order's pulse-code works for the same reason: they kept the resonance and discarded the part that was never load-bearing.*" For the scene's identification of the force, `01_wotr_muster_breach_road_north.md:83`: "Then, last, what he could actually see, which was eleven feet of a breach with eight of them abreast in it and the geometric etching on their forearms catching the fire behind them." and `:81`: "Then the smell, which was hot iron and lamp oil and something mineral and dry that came off their skin and that nobody in Kharven had a word for." and `:127`: "The men of the Expanse were still coming through at the ninth hour" and `:252`: "**Hobgoblins as canon has them, which is scarier than a horde.** They are the disciplined ones." against `The Goblinoid Peoples.md:105`: "Skin deep uniform red or burnt ochre, bearing **Legion Etchings** — perfectly straight bioluminescent lines in steady gold or bronze recording rank, unit, and earned designation." and `:104`: "A single Crimson Order soldier is a sturdy anchor. A formation of them creates a **Phalanx of the Soul**, a Resonance Lattice nearly impenetrable to chaotic Aether." For the one audible goblinoid channel and what it is not, `The Goblinoid Peoples.md:162`: "Ritual war-chant language. **Exclusively oral. Never written.**" and `:163`: "Gravetongue is not used for communication. **It is used for transformation.** A warrior chanting Gravetongue is not speaking to other warriors — they are speaking to the event that made them." For the Vow the scene does not break, `:106`: "**The Vow of Silence** · A rite of passage from Stage I through Stage VI designed to prevent Trait corruption through emotional interference. **The Vow is not metaphor for the Crimson Order. It is load-bearing.** Breaking it triggers immediate Aetheric collapse." For the archive's other horn, `the_war_in_the_north_v_the_shieldwarden.md:93`: "Nine years of it and every man he had put down had been marked out for him first by somebody else, by a horn or a banner or the green smoke coming up off the Expanse".
 **Consequence if unresolved:** no scene or chapter can signal a hobgoblin formation. A writer cannot put a horn, a drum, a shouted order or a pulse into an Expanse or Mandate line on the authority of a page, because the archive's only worked example of it and the only canon description of it use different channels, and `verify.py` reads neither and cannot catch prose written on the wrong one. In this scene it is heavier than a detail: the hold at `:117` is argued from men counting off an audible horn, so a ruling that makes the channel silent and Aetheric does not correct a word, it restates the mechanism that beats two thousand two hundred men — and the same section's tactical claim is the reason the scene works. It also blocks the correction that looks obvious. Swapping "horn" for a pulse in two places is not bookkeeping under Isaac's rung I-3: the record has not overtaken the horn, it disagrees with it, and I-5 does not reach it either, since this is a channel named in narration rather than a figure standing beside a gloss on one line.
 **Recommendation:** none from the sources. Neither side withdraws the other, and canon's silence about exclusivity is what a ruling has to price: `:109` says what the field channel **is** and does not say it is the only one, while the scene gives an instrument canon nowhere mentions for any goblinoid people. What a ruling has to say beyond which side is wrong: whether the cold argument survives the channel it chooses, because a count carried as Aetheric pulse in iron-bearing blood may or may not desynchronise the way an audible count does, and the judger's close already holds open whether Stone-Blood latency in deep cold is a rule or a paragraph to pull (WAR-91, P37); and how far the answer reaches, since it governs every hobgoblin formation in the archive and not only this breach. Adjacent and filed separately because it can change which doctrine applies: the scene calls the besieging force the Expanse, while Kharven's lorebook makes its hobgoblin enemy the Iron Mandate of Undaar-Keth and the Expanse page has that parliament answer an incursion without drawing a weapon — WAR-118. This row does not depend on that outcome: canon gives neither polity's formations an audible instrument, and the Mandate's own doctrine page mixes hobgoblin formations with Ironblood assault troops rather than replacing the formation's channel. Adjacent and not filed: the Kharven side's own whistle every eighty count at `:121`, which no canon page governs and which nothing contradicts. Filed for ruling as WAR-119 (Doc Kett), a child of WAR-78.
-**Status:** open
+**Status:** ruled 2026-09-27 (RULINGS.md, open-conflicts-2026-09-27)
 
 ## C-053 — Gimbzo's recomputed AU/s under R44-2 makes every named Work on his own card unusable
 
@@ -1059,7 +1059,7 @@ the author notes."
 **Quotes:** R17-8-CHECK34: "Quantity, law, operation and chain all present in the Operation line. Any absence is a FAIL." R17-8-CHECK35: "For each of Cost, Limit and Counter, name the sentence in the Operation it follows from." R47-2: "The Design Chain and the six-line card are retired as page formats."
 **Consequence if unresolved:** the verification guide (checks 41 and 42) cannot say which field-format lines must carry the four elements or serve as the derivation source; it reads the Physics and Mechanism blocks and reports where each element was found.
 **Recommendation:** none.
-**Status:** open
+**Status:** ruled 2026-09-27 (RULINGS.md, open-conflicts-2026-09-27)
 
 ## C-079 — reification: "no count" against a live one-per-page budget
 
@@ -1068,7 +1068,7 @@ the author notes."
 **Quotes:** R49-21: "Reification has no count: judge by ear; keep only 'never at the beat' and 'object first'." R4-15-PROCEDURAL_SCENE_BUDGET: "One per page in procedural or ledger scenes."
 **Consequence if unresolved:** check 17 of the verification guide cannot say whether a procedural or ledger scene with two reifications on a page fails.
 **Recommendation:** none.
-**Status:** open
+**Status:** ruled 2026-09-27 (RULINGS.md, open-conflicts-2026-09-27)
 
 ## C-080 — Ayame Yuno dies by her own hand after the corridor night on her own page, and on the corridor night itself on Sodoku's card and one account of the kingdom
 
@@ -1077,7 +1077,7 @@ the author notes."
 **Quotes:** `wiki/Volume I — Character Cards/Ayame Yuno.md`:161: "Ayame died later, by her own hand, in the room that had once held her loom." `wiki/Volume I — Character Cards/Ayame Yuno.md`:165: "One account of the kingdom, and Sodoku's card, count her among the dead of the corridor night itself." `wiki/Volume I — Character Cards/Sodoku Moto.md`:26: "A Tenrai-commissioned corridor assassination took his father Muken, his mother, and his brother Nergüi **in one night.**"
 **Consequence if unresolved:** a scene set on or after the corridor night (or after Ignatius's fracture) cannot state who died and who inherits without choosing.
 **Recommendation:** none.
-**Status:** open
+**Status:** ruled 2026-09-27 (RULINGS.md, open-conflicts-2026-09-27)
 
 ## C-081 — Sodoku's card names one brother, Nergüi, killed on the corridor night; Ayame's page names her sons as Tomuka and Ezo
 
@@ -1086,7 +1086,7 @@ the author notes."
 **Quotes:** `wiki/Volume I — Character Cards/Sodoku Moto.md`:26 (quoted in the row above). `wiki/Volume I — Character Cards/Ayame Yuno.md`:160: "Tomuka and Ezo both died."
 **Consequence if unresolved:** a scene set on or after the corridor night (or after Ignatius's fracture) cannot state who died and who inherits without choosing.
 **Recommendation:** none.
-**Status:** open
+**Status:** ruled 2026-09-27 (RULINGS.md, open-conflicts-2026-09-27)
 
 ## C-082 — Mizuki Moto is Muken's firstborn and the Frost-Braid Heir on her card; Sodoku's card makes him the Kōkan Line's former Crown Heir
 
@@ -1095,7 +1095,7 @@ the author notes."
 **Quotes:** Mizuki :144: "Mizuki Moto was the firstborn of Muken Moto". Sodoku :215, before the edit: "**Mizuki Moto** · siblings, contested. Her card makes her Muken's firstborn and the Frost-Braid Heir, his makes him the Kōkan Line's former Crown Heir, and no record puts them in one room."
 **Consequence if unresolved:** a scene set on or after the corridor night (or after Ignatius's fracture) cannot state who died and who inherits without choosing.
 **Recommendation:** none.
-**Status:** open
+**Status:** ruled 2026-09-27 (RULINGS.md, open-conflicts-2026-09-27)
 
 ## C-083 — Ignatius's Lore said the record of what followed his last fracture does not agree with itself
 
@@ -1104,7 +1104,7 @@ the author notes."
 **Quotes:** `wiki/Volume I — Character Cards/Ignatius Sanctus Sanctorum Arsenal · The Archpaladin.md`:178: "The record of what followed does not agree with itself. Word of his death reached the Alabaster Court weeks later, and Verinus has told three people he will come back."
 **Consequence if unresolved:** a scene set on or after the corridor night (or after Ignatius's fracture) cannot state who died and who inherits without choosing.
 **Recommendation:** none.
-**Status:** open
+**Status:** ruled 2026-09-27 (RULINGS.md, open-conflicts-2026-09-27)
 
 ## C-084 — The Accord is forming now (answer 9), but calendar and history lines count it from Year Zero, 715 years ago
 
@@ -1113,7 +1113,7 @@ the author notes."
 **Quotes:** Answer 9: "The Guild Accord is forming now, in the story's present." Answer 18: "The Guild Accord's pages read as forming in circles: the Articles and Commission framework bind where a circle has signed and not yet elsewhere."
 **Consequence if unresolved:** a scene that dates anything by the Concordance calendar says the Accord is 715 years old.
 **Recommendation:** none.
-**Status:** open
+**Status:** ruled 2026-09-27 (RULINGS.md, open-conflicts-2026-09-27)
 
 ## C-085 — Answer 16 names the Inquisition as an enforcer; the Holy Inquisition page makes it a splinter the Accord outlaws
 
@@ -1122,7 +1122,7 @@ the author notes."
 **Quotes:** Answer 16: "The lockdown is enforced by controlled texts, Crystal registration, inspectors and trace examiners, the Inquisition, and by the guilds".
 **Consequence if unresolved:** a scene cannot say whether an Inquisitor at the door is lawful.
 **Recommendation:** none.
-**Status:** open
+**Status:** ruled 2026-09-27 (RULINGS.md, open-conflicts-2026-09-27)
 
 ## C-086 — Nearly everyone has a Soul Crystal (answer 13); some pages and cards give people no Crystal at all
 
@@ -1131,7 +1131,7 @@ the author notes."
 **Quotes:** Answer 13: "Few people lack a Soul Crystal, commoners included".
 **Consequence if unresolved:** whether a crystal-less character is a rare exception or a mistake is unsettled.
 **Recommendation:** none.
-**Status:** open
+**Status:** ruled 2026-09-27 (RULINGS.md, open-conflicts-2026-09-27)
 
 ## C-087 — The Night Watch is a crown office (ruling); the Nol Tally and Qiu Yinzhi cards call it the Night Watch Society with chapters and its own warrant
 
@@ -1149,7 +1149,7 @@ the author notes."
 **Quotes:** C-087: "and keeps the Night Register, which takes up what the Lattice Classification Bureau (a separate office) closes."
 **Consequence if unresolved:** a scene cannot say whose desk the Register is, or whether Arbitration can close it.
 **Recommendation:** none.
-**Status:** open
+**Status:** ruled 2026-09-27 (RULINGS.md, open-conflicts-2026-09-27)
 
 ## C-089 — A Path gate binds only the component it names (R57-27); R38-1 says a gate binds the whole merged Sub-Stat
 

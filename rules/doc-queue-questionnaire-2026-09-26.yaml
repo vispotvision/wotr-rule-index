@@ -1,0 +1,1048 @@
+# Standing rulings, originated: no source document. Isaac ruled directly on
+# 2026-09-26 in Claude Code chat (the queue questionnaire). Each verbatim is an exact substring of
+# the RULINGS.md entry "## 2026-09-26 — the queue questionnaire (57 answers, Claude Code chat)"; the section is the line's own label. Only the
+# answers that bind later writing are rows here; answers that corrected one page
+# were applied to that page and live there. R54 is a free id-numeral bucket.
+# Standalone-ruling pattern: empty source.file.
+pack: Queue Questionnaire 2026-09-26
+pack_number: null
+source_file: ''
+ratified: 'Isaac, 2026-09-26, Claude Code chat: ruled directly (the queue questionnaire)'
+rules:
+- id: R54-1-STAGE_NUMERAL_WINS
+  pack: Queue Questionnaire 2026-09-26
+  pack_number: null
+  section: WAR-15
+  title: Where a card pairs a Stage numeral with another Stage's name, the numeral wins
+  status: live
+  kind: definition
+  summary: A card whose Stage numeral and Stage name disagree keeps the numeral and takes the name Fracture
+    of Worlds gives that numeral.
+  verbatim: 'Number wins: Gimbzo XII Emanation (SSS, Grandmaster); Naevra IX, Naiser VI, Niran VII take
+    the correct names for their numbers. The four earlier ''name wins'' fixes stand as they are.'
+  amends:
+  - guide: Character cards, NATALIE.md and the wotr-npc skill
+    locus: Character cards, NATALIE.md and the wotr-npc skill
+    operation: adds
+  supersedes: []
+  applies_to:
+  - stats
+  - character-sheet
+  - naming
+  verification: []
+  ratified: 'Isaac, 2026-09-26, Claude Code chat: ruled directly (the queue questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: ''
+- id: R54-2-CRYSTAL_TIER_FROM_STAGE
+  pack: Queue Questionnaire 2026-09-26
+  pack_number: null
+  section: WAR-65
+  title: A Crystal Tier field is written from the Stage
+  status: live
+  kind: procedure
+  summary: The tier word comes off the Crystal State field; a separate Crystal Tier field is written from
+    the Stage, or from Aether Class where no Stage is stated.
+  verbatim: 'Follow Ryuka: the tier word comes off the Crystal State field; a Crystal Tier field is written
+    from the Stage (or Aether Class where no Stage). Akira: Dormant.'
+  amends:
+  - guide: Character cards, NATALIE.md and the wotr-npc skill
+    locus: Character cards, NATALIE.md and the wotr-npc skill
+    operation: adds
+  supersedes: []
+  applies_to:
+  - stats
+  - character-sheet
+  verification: []
+  ratified: 'Isaac, 2026-09-26, Claude Code chat: ruled directly (the queue questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: ''
+- id: R54-3-STAGE_DECIDES_CRYSTAL_TIER
+  pack: Queue Questionnaire 2026-09-26
+  pack_number: null
+  section: WAR-66
+  title: Stage decides a Class/Stage Crystal Tier mismatch
+  status: live
+  kind: definition
+  summary: Where Aether Class and Stage point to different Crystal Tiers, the Stage decides, for every
+    later mismatch.
+  verbatim: 'Stage decides: Aelum''s Crystal Tier is Sovereign; applies to all later Class/Stage mismatches.'
+  amends:
+  - guide: Character cards, NATALIE.md and the wotr-npc skill
+    locus: Character cards, NATALIE.md and the wotr-npc skill
+    operation: adds
+  supersedes: []
+  applies_to:
+  - stats
+  - character-sheet
+  verification: []
+  ratified: 'Isaac, 2026-09-26, Claude Code chat: ruled directly (the queue questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: ''
+- id: R54-4-FORMULA_WHOLE_OUTPUT_ONLY
+  pack: Queue Questionnaire 2026-09-26
+  pack_number: null
+  section: WAR-102
+  title: AU/s = Flux Density × η corrects only a single whole-output figure
+  status: live
+  kind: definition
+  summary: A card that splits its output into a measured part and an unmeasured part is left as written;
+    the formula corrects only a single whole-output AU/s.
+  verbatim: 'Dougou: leave the split output as written (3,900 AU/s external, internal immeasurable); the
+    formula only corrects a single whole-output figure.'
+  amends:
+  - guide: Fracture of Worlds — The Living System
+    locus: Fracture of Worlds — The Living System
+    operation: adds
+  supersedes: []
+  applies_to:
+  - stats
+  - character-sheet
+  verification: []
+  ratified: 'Isaac, 2026-09-26, Claude Code chat: ruled directly (the queue questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: ''
+- id: R54-5-DECIMALS_AS_COMPUTED
+  pack: Queue Questionnaire 2026-09-26
+  pack_number: null
+  section: WAR-102,WAR-141
+  title: Computed figures are written exactly, decimal included
+  status: live
+  kind: mandate
+  summary: A figure computed by a ruling is written as computed, with its decimal, not rounded to a whole
+    number.
+  verbatim: 'Decimals: write figures exactly as computed, with the decimal (Naori 147.9 EU, Artemis 1,663.2
+    AU/s, etc.).'
+  amends:
+  - guide: Fracture of Worlds — The Living System
+    locus: Fracture of Worlds — The Living System
+    operation: adds
+  supersedes: []
+  applies_to:
+  - stats
+  - character-sheet
+  verification: []
+  ratified: 'Isaac, 2026-09-26, Claude Code chat: ruled directly (the queue questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: ''
+- id: R54-6-KEEP_THE_CARDS_FORM
+  pack: Queue Questionnaire 2026-09-26
+  pack_number: null
+  section: WAR-102
+  title: A corrected figure keeps the card's form
+  status: live
+  kind: procedure
+  summary: 'A correction keeps the form the card wrote the figure in: a range stays a range, an approximate
+    base stays approximate.'
+  verbatim: 'Keep the card''s form: Elion''s output becomes the range 6.768-7.332 million AU/s; Sodoku''s
+    line becomes ''~772.8 base''.'
+  amends:
+  - guide: Character cards, NATALIE.md and the wotr-npc skill
+    locus: Character cards, NATALIE.md and the wotr-npc skill
+    operation: adds
+  supersedes: []
+  applies_to:
+  - stats
+  - character-sheet
+  verification: []
+  ratified: 'Isaac, 2026-09-26, Claude Code chat: ruled directly (the queue questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: ''
+- id: R54-7-TABLE_QUOTING_CARDS_FOLLOW
+  pack: Queue Questionnaire 2026-09-26
+  pack_number: null
+  section: WAR-138,WAR-151
+  title: A card that quotes the Tier table's η follows the table
+  status: live
+  kind: definition
+  summary: A card whose η is stated as the Tier of Standing table's figure reads whatever the table says
+    for its Stage; its dependent figures are recomputed to stay consistent.
+  verbatim: 'Follow the table: cards that quote the Tier table''s eta read whatever the table says for
+    their Stage (0.60-0.70 at VI-VII now); Yoko''s output/flux recomputed to stay consistent.'
+  amends:
+  - guide: Fracture of Worlds — The Living System
+    locus: Fracture of Worlds — The Living System
+    operation: adds
+  supersedes: []
+  applies_to:
+  - stats
+  - character-sheet
+  verification: []
+  ratified: 'Isaac, 2026-09-26, Claude Code chat: ruled directly (the queue questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: ''
+- id: R54-8-UNMEASURED_FROM_ZENITH
+  pack: Queue Questionnaire 2026-09-26
+  pack_number: null
+  section: WAR-142
+  title: Force is unmeasured from Zenith up; the Zenith row sits beside the Grade ladder
+  status: live
+  kind: definition
+  summary: Stage XV keeps the EX+ Grade label but its force is unmeasured like Zenith; the Zenith row
+    stands beside the Grade ladder, not on it.
+  verbatim: 'Unmeasured from Zenith: Stage XV keeps its EX+ Grade label, but its force is unmeasured like
+    Zenith''s; the Zenith row sits beside the Grade ladder, not on it.'
+  amends:
+  - guide: Fracture of Worlds — The Living System
+    locus: Fracture of Worlds — The Living System
+    operation: adds
+  supersedes: []
+  applies_to:
+  - stats
+  - adjudication
+  - combat
+  verification: []
+  ratified: 'Isaac, 2026-09-26, Claude Code chat: ruled directly (the queue questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: ''
+- id: R54-9-STRIKE_FORCE_OUTLIERS_STAND
+  pack: Queue Questionnaire 2026-09-26
+  pack_number: null
+  section: WAR-49,WAR-62
+  title: A card's Strike Force outside its Stage's band stands as that character's outlier
+  status: live
+  kind: definition
+  summary: A card's stated Strike Force that sits outside its Stage's Max Grade band stands as that character's
+    own outlier; no card changes.
+  verbatim: 'Card figure governs: each of the twelve Strike Force figures stands as that character''s
+    own outlier; no card changes.'
+  amends:
+  - guide: Fracture of Worlds — The Living System
+    locus: Fracture of Worlds — The Living System
+    operation: adds
+  supersedes: []
+  applies_to:
+  - stats
+  - combat
+  - adjudication
+  verification: []
+  ratified: 'Isaac, 2026-09-26, Claude Code chat: ruled directly (the queue questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: ''
+- id: R54-10-KINJIKI_MACH_8
+  pack: Queue Questionnaire 2026-09-26
+  pack_number: null
+  section: WAR-134
+  title: Kinjiki's Mach 8 Travel Speed stands as a Zenith outlier
+  status: superseded
+  kind: definition
+  summary: Kinjiki's quantified Travel Speed stood as a personal outlier at Zenith.
+  verbatim: 'Keep Mach 8: Kinjiki''s Travel Speed (Mach 8 sustained, Mach 15 bursts) stands as a personal
+    outlier at Zenith.'
+  amends:
+  - guide: Character cards, NATALIE.md and the wotr-npc skill
+    locus: Character cards, NATALIE.md and the wotr-npc skill
+    operation: adds
+  supersedes: []
+  applies_to:
+  - stats
+  - character-sheet
+  verification: []
+  ratified: 'Isaac, 2026-09-26, Claude Code chat: ruled directly (the queue questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: Superseded later the same day by R56-2-ZENITH_SPEED_IMMEASURABLE (the magic docket questionnaire,
+    C-065), which the live card follows.
+- id: R54-11-CARD_HEADER_AT_A_MOMENT
+  pack: Queue Questionnaire 2026-09-26
+  pack_number: null
+  section: WAR-114
+  title: Card headers describe the character at a stated moment; Lore carries later events
+  status: live
+  kind: mandate
+  summary: Every card's header states the moment it describes; the Lore section records later events,
+    deaths included.
+  verbatim: Card headers describe the character at a stated moment (e.g. 'as of the muster') and say so;
+    Lore records later events including deaths. Applies to every card.
+  amends:
+  - guide: Character cards, NATALIE.md and the wotr-npc skill
+    locus: Character cards, NATALIE.md and the wotr-npc skill
+    operation: adds
+  supersedes: []
+  applies_to:
+  - character-sheet
+  - documents
+  verification: []
+  ratified: 'Isaac, 2026-09-26, Claude Code chat: ruled directly (the queue questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: ''
+- id: R54-12-CHECKER_STOPS_AT_NOTES
+  pack: Queue Questionnaire 2026-09-26
+  pack_number: null
+  section: WAR-33,WAR-34
+  title: Author notes are not measured by the prose checker
+  status: live
+  kind: procedure
+  summary: Verification stops at the author-notes heading; notes are not measured.
+  verbatim: The prose checker stops at the author-notes heading; notes are not measured.
+  amends:
+  - guide: Manual Verification Guide
+    locus: Manual Verification Guide
+    operation: adds
+  supersedes: []
+  applies_to:
+  - verification
+  verification: []
+  ratified: 'Isaac, 2026-09-26, Claude Code chat: ruled directly (the queue questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: ''
+- id: R54-13-NO_POV_WITHOUT_REGISTER
+  pack: Queue Questionnaire 2026-09-26
+  pack_number: null
+  section: WAR-91
+  title: No point of view without a register
+  status: live
+  kind: mandate
+  summary: A character may carry a point of view only once a narration register exists for them.
+  verbatim: 'No POV without a register: Bram Greymane and Lorn Stark get registers.'
+  amends:
+  - guide: NATALIE.md and the wotr-write skill
+    locus: NATALIE.md and the wotr-write skill
+    operation: adds
+  supersedes: []
+  applies_to:
+  - pov
+  - register
+  verification: []
+  ratified: 'Isaac, 2026-09-26, Claude Code chat: ruled directly (the queue questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: ''
+- id: R54-14-REGISTER_STAYS_WITH_POV
+  pack: Queue Questionnaire 2026-09-26
+  pack_number: null
+  section: WAR-91
+  title: A register stays with the point of view, not with the character
+  status: live
+  kind: definition
+  summary: In another character's viewpoint, a character is read by that narrator's register rules, not
+    their own.
+  verbatim: 'A register stays with the point of view: in another character''s viewpoint Sodoku is read
+    by that narrator''s rules.'
+  amends:
+  - guide: NATALIE.md and the wotr-write skill
+    locus: NATALIE.md and the wotr-write skill
+    operation: adds
+  supersedes: []
+  applies_to:
+  - pov
+  - register
+  verification: []
+  ratified: 'Isaac, 2026-09-26, Claude Code chat: ruled directly (the queue questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: ''
+- id: R54-15-AFTERMATH_PAID_LATER
+  pack: Queue Questionnaire 2026-09-26
+  pack_number: null
+  section: WAR-91
+  title: A later named scene can pay a battle's aftermath
+  status: live
+  kind: definition
+  summary: A named later scene covering two of the five aftermath stages discharges a battle scene's aftermath
+    duty.
+  verbatim: 'A later scene can pay The Muster''s aftermath: a named later scene covering two of the five
+    aftermath stages discharges it.'
+  amends:
+  - guide: Mass Combat Craft Guide
+    locus: Mass Combat Craft Guide
+    operation: adds
+  supersedes: []
+  applies_to:
+  - mass-combat
+  - scene-structure
+  verification: []
+  ratified: 'Isaac, 2026-09-26, Claude Code chat: ruled directly (the queue questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: ''
+- id: R54-16-STONE_BLOOD_COLD_LATENCY
+  pack: Queue Questionnaire 2026-09-26
+  pack_number: null
+  section: WAR-91
+  title: Stone-Blood are slow in deep cold
+  status: live
+  kind: definition
+  summary: Stone-Blood run about three-quarters of a beat late in deep cold, in every such fight.
+  verbatim: 'Stone-Blood cold latency is a rule: Stone-Blood slow (about three-quarters of a beat late)
+    in deep cold, canon for every such fight; the paragraph stays.'
+  amends:
+  - guide: NATALIE.md and the wotr-write skill
+    locus: NATALIE.md and the wotr-write skill
+    operation: adds
+  supersedes: []
+  applies_to:
+  - combat
+  - worldbuilding
+  verification: []
+  ratified: 'Isaac, 2026-09-26, Claude Code chat: ruled directly (the queue questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: ''
+- id: R54-17-MULTI_PLACE_SET_PIECE
+  pack: Queue Questionnaire 2026-09-26
+  pack_number: null
+  section: WAR-91
+  title: A multi-place scene with a mass-combat section is measured as a set piece
+  status: live
+  kind: procedure
+  summary: A scene across several places with one mass-combat section is measured as a set piece.
+  verbatim: A scene in four places with one mass-combat section is measured as a set piece.
+  amends:
+  - guide: Manual Verification Guide
+    locus: Manual Verification Guide
+    operation: adds
+  supersedes: []
+  applies_to:
+  - verification
+  - mass-combat
+  - scene-structure
+  verification: []
+  ratified: 'Isaac, 2026-09-26, Claude Code chat: ruled directly (the queue questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: ''
+- id: R54-18-IGNORANCE_PER_SCENE
+  pack: Queue Questionnaire 2026-09-26
+  pack_number: null
+  section: WAR-91
+  title: The viewpoint-ignorance rule counts per scene
+  status: live
+  kind: procedure
+  summary: One instance of viewpoint ignorance anywhere in a multi-viewpoint scene satisfies the rule.
+  verbatim: 'The viewpoint-ignorance rule counts per scene: one instance anywhere in a multi-viewpoint
+    scene satisfies it.'
+  amends:
+  - guide: Manual Verification Guide
+    locus: Manual Verification Guide
+    operation: adds
+  supersedes: []
+  applies_to:
+  - pov
+  - verification
+  verification: []
+  ratified: 'Isaac, 2026-09-26, Claude Code chat: ruled directly (the queue questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: ''
+- id: R54-19-MASS_NPC_THOUGHT
+  pack: Queue Questionnaire 2026-09-26
+  pack_number: null
+  section: WAR-92
+  title: Mass-combat scenes keep the one-thought-per-NPC allowance under POV lock
+  status: live
+  kind: definition
+  summary: A POV-locked mass-combat scene still allows one thought per NPC.
+  verbatim: 'Yes: mass-combat scenes keep the one-thought-per-NPC allowance even when POV-locked; Robin
+    Ice''s italic thought stays.'
+  amends:
+  - guide: Mass Combat Craft Guide
+    locus: Mass Combat Craft Guide
+    operation: adds
+  supersedes: []
+  applies_to:
+  - mass-combat
+  - pov
+  verification: []
+  ratified: 'Isaac, 2026-09-26, Claude Code chat: ruled directly (the queue questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: ''
+- id: R54-20-MASS_WOUND_ANATOMY
+  pack: Queue Questionnaire 2026-09-26
+  pack_number: null
+  section: WAR-92
+  title: Mass-combat scenes carry duel-level wound anatomy
+  status: live
+  kind: mandate
+  summary: Wounds in mass-combat scenes are written with the same anatomy as a duel.
+  verbatim: 'Yes: mass-combat scenes must still carry duel-level wound anatomy.'
+  amends:
+  - guide: Mass Combat Craft Guide
+    locus: Mass Combat Craft Guide
+    operation: adds
+  supersedes: []
+  applies_to:
+  - mass-combat
+  - combat
+  verification: []
+  ratified: 'Isaac, 2026-09-26, Claude Code chat: ruled directly (the queue questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: ''
+- id: R54-21-FACULTY_AS_SUBJECT
+  pack: Queue Questionnaire 2026-09-26
+  pack_number: null
+  section: WAR-92
+  title: Inside a close register a faculty may be the grammatical subject
+  status: live
+  kind: definition
+  summary: Inside a close register, the viewpoint character's faculty may stand as the grammatical subject
+    of a sentence.
+  verbatim: 'Yes: inside a close register the faculty (Reigan) may be the grammatical subject; the three
+    sentences stay.'
+  amends:
+  - guide: NATALIE.md and the wotr-write skill
+    locus: NATALIE.md and the wotr-write skill
+    operation: adds
+  supersedes: []
+  applies_to:
+  - register
+  - prose-law
+  verification: []
+  ratified: 'Isaac, 2026-09-26, Claude Code chat: ruled directly (the queue questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: ''
+- id: R54-22-REIGAN_REACH
+  pack: Queue Questionnaire 2026-09-26
+  pack_number: null
+  section: WAR-92
+  title: Reigan reaches four hundred miles
+  status: live
+  kind: definition
+  summary: Sodoku's Reigan reaches four hundred miles, with its blindness and eleven-second cost.
+  verbatim: 'Reigan''s reach is four hundred miles: the scene''s figure, with its blindness and eleven-second
+    cost, goes on Sodoku''s card and the wiki is widened.'
+  amends:
+  - guide: Character cards, NATALIE.md and the wotr-npc skill
+    locus: Character cards, NATALIE.md and the wotr-npc skill
+    operation: adds
+  supersedes: []
+  applies_to:
+  - magic-mechanism
+  - worldbuilding
+  verification: []
+  ratified: 'Isaac, 2026-09-26, Claude Code chat: ruled directly (the queue questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: ''
+- id: R54-23-WREN_DIES
+  pack: Queue Questionnaire 2026-09-26
+  pack_number: null
+  section: WAR-92
+  title: Wren Greymane dies on the road
+  status: live
+  kind: definition
+  summary: Wren is dead from What the Sky Does Not Ask on, and later pages agree.
+  verbatim: 'Yes, Wren dies: Sodoku''s prediction binds; Wren is dead from What the Sky Does Not Ask on,
+    and later pages must agree.'
+  amends:
+  - guide: NATALIE.md and the wotr-write skill
+    locus: NATALIE.md and the wotr-write skill
+    operation: adds
+  supersedes: []
+  applies_to:
+  - worldbuilding
+  verification: []
+  ratified: 'Isaac, 2026-09-26, Claude Code chat: ruled directly (the queue questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: ''
+- id: R54-24-RIKU_BEFORE_THE_BOOK
+  pack: Queue Questionnaire 2026-09-26
+  pack_number: null
+  section: WAR-69
+  title: Rikudoku is born before the Kharven book
+  status: live
+  kind: definition
+  summary: Rikudoku Moto is about seven during the Kharven book; Yoko is a mother on its pages.
+  verbatim: Riku is born before the book (about seven during it); Yoko is a mother on its pages; the Revolution
+    of the Inner World birth-night scene is rewritten or redated.
+  amends:
+  - guide: NATALIE.md and the wotr-write skill
+    locus: NATALIE.md and the wotr-write skill
+    operation: adds
+  supersedes: []
+  applies_to:
+  - worldbuilding
+  verification: []
+  ratified: 'Isaac, 2026-09-26, Claude Code chat: ruled directly (the queue questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: ''
+- id: R54-25-SEAT_GROUND_BURIAL
+  pack: Queue Questionnaire 2026-09-26
+  pack_number: null
+  section: WAR-50
+  title: Ground burial is Kharven-Seat's city rite
+  status: live
+  kind: definition
+  summary: Kharven-Seat buries in the ground as its own city rite; the wider Four Quarters faith keeps
+    sky burial.
+  verbatim: Ground burial is Kharven-Seat's own city rite; the wider Four Quarters faith keeps sky burial;
+    the faith page gains a line saying so.
+  amends:
+  - guide: NATALIE.md and the wotr-write skill
+    locus: NATALIE.md and the wotr-write skill
+    operation: adds
+  supersedes: []
+  applies_to:
+  - worldbuilding
+  verification: []
+  ratified: 'Isaac, 2026-09-26, Claude Code chat: ruled directly (the queue questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: ''
+- id: R54-26-BENCH_OF_ATTRIBUTION
+  pack: Queue Questionnaire 2026-09-26
+  pack_number: null
+  section: WAR-50
+  title: The Bench of Attribution keeps its remit
+  status: live
+  kind: ban
+  summary: The Bench of Attribution may not keep or compel records of signings.
+  verbatim: It is the Bench of Attribution with its remit unchanged; later chapters may not have it keep
+    or compel records of signings.
+  amends:
+  - guide: NATALIE.md and the wotr-write skill
+    locus: NATALIE.md and the wotr-write skill
+    operation: adds
+  supersedes: []
+  applies_to:
+  - worldbuilding
+  - documents
+  verification: []
+  ratified: 'Isaac, 2026-09-26, Claude Code chat: ruled directly (the queue questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: ''
+- id: R54-27-TWO_CUTS_FERRIBY
+  pack: Queue Questionnaire 2026-09-26
+  pack_number: null
+  section: WAR-64
+  title: The Ferriby wedge had two cutters
+  status: live
+  kind: definition
+  summary: Tally cut his own section; Qiu Yinzhi cut and sealed the exhibit wedge.
+  verbatim: 'Two cuts: Tally cut his own section; Qiu Yinzhi cut and sealed the exhibit wedge herself;
+    notes saying Tally cut the exhibit are corrected.'
+  amends:
+  - guide: NATALIE.md and the wotr-write skill
+    locus: NATALIE.md and the wotr-write skill
+    operation: adds
+  supersedes: []
+  applies_to:
+  - worldbuilding
+  verification: []
+  ratified: 'Isaac, 2026-09-26, Claude Code chat: ruled directly (the queue questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: ''
+- id: R54-28-FIRST_MEET_NORTH_GATE
+  pack: Queue Questionnaire 2026-09-26
+  pack_number: null
+  section: WAR-105
+  title: Sodoku and Hild first meet at the north gate
+  status: live
+  kind: definition
+  summary: Sodoku and Hild first meet at the north gate.
+  verbatim: They first meet at the north gate; the infancy clause in True King part 17 is cut; Hild's
+    card row is updated to after the reunion.
+  amends:
+  - guide: NATALIE.md and the wotr-write skill
+    locus: NATALIE.md and the wotr-write skill
+    operation: adds
+  supersedes: []
+  applies_to:
+  - worldbuilding
+  verification: []
+  ratified: 'Isaac, 2026-09-26, Claude Code chat: ruled directly (the queue questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: ''
+- id: R54-29-AGES_AT_THE_MUSTER
+  pack: Queue Questionnaire 2026-09-26
+  pack_number: null
+  section: WAR-109
+  title: Sodoku is 28 and Hild 11 at the muster
+  status: live
+  kind: definition
+  summary: At the muster Sodoku is 28 and Hild 11.
+  verbatim: 'Sodoku 28, Hild 11 at the muster: Sodoku''s card moves to 28; the nineteen-year lines become
+    eleven or twelve; The Fixed End''s standing-wave passage is rewritten to fit.'
+  amends:
+  - guide: NATALIE.md and the wotr-write skill
+    locus: NATALIE.md and the wotr-write skill
+    operation: adds
+  supersedes: []
+  applies_to:
+  - worldbuilding
+  verification: []
+  ratified: 'Isaac, 2026-09-26, Claude Code chat: ruled directly (the queue questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: ''
+- id: R54-30-FERN_STARK_MOTHER
+  pack: Queue Questionnaire 2026-09-26
+  pack_number: null
+  section: WAR-110
+  title: Fern Stark is Hild's mother
+  status: live
+  kind: definition
+  summary: Fern Stark is Hild's mother; Freya is a different woman Sodoku lost.
+  verbatim: Fern Stark is Hild's mother; Freya is a different woman Sodoku lost; the 18 September ruling
+    line is corrected to Fern.
+  amends:
+  - guide: NATALIE.md and the wotr-write skill
+    locus: NATALIE.md and the wotr-write skill
+    operation: adds
+  supersedes: []
+  applies_to:
+  - worldbuilding
+  verification: []
+  ratified: 'Isaac, 2026-09-26, Claude Code chat: ruled directly (the queue questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: ''
+- id: R54-31-GREYMANE_WEST_BRAM_SOUTH
+  pack: Queue Questionnaire 2026-09-26
+  pack_number: null
+  section: WAR-111
+  title: The Greymane ridge guards the west; Bram holds the south
+  status: live
+  kind: definition
+  summary: The Greymane ridge guards the west while Bram commands the southern approach.
+  verbatim: 'Both: the Greymane ridge guards the west while Bram commands the southern approach; both
+    cards say so explicitly.'
+  amends:
+  - guide: NATALIE.md and the wotr-write skill
+    locus: NATALIE.md and the wotr-write skill
+    operation: adds
+  supersedes: []
+  applies_to:
+  - worldbuilding
+  verification: []
+  ratified: 'Isaac, 2026-09-26, Claude Code chat: ruled directly (the queue questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: ''
+- id: R54-32-KHARVEN_BESIEGED_BY_MANDATE
+  pack: Queue Questionnaire 2026-09-26
+  pack_number: null
+  section: WAR-118
+  title: Kharven's besiegers are the Iron Mandate
+  status: live
+  kind: definition
+  summary: The force besieging Kharven is the Iron Mandate, in a nine-year war.
+  verbatim: 'Kharven''s besiegers are the Iron Mandate: ''Expanse'' is corrected to the Mandate across
+    the archive, and the Kharven lorebook''s cold peace is updated to the nine-year war.'
+  amends:
+  - guide: NATALIE.md and the wotr-write skill
+    locus: NATALIE.md and the wotr-write skill
+    operation: adds
+  supersedes: []
+  applies_to:
+  - worldbuilding
+  - naming
+  verification: []
+  ratified: 'Isaac, 2026-09-26, Claude Code chat: ruled directly (the queue questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: ''
+- id: R54-33-TWO_ONAWAS
+  pack: Queue Questionnaire 2026-09-26
+  pack_number: null
+  section: WAR-53
+  title: There are two Onawas
+  status: live
+  kind: definition
+  summary: Onawa, Empress of Eresse, and Onawa Ashkewe, Queen of the Tsohanto, are two women.
+  verbatim: 'Two women: Onawa, Empress of Eresse gets her own card; Onawa Ashkewe, Queen of the Tsohanto,
+    stands; the Tsohanto Reach''s eleven-year silence becomes her people''s answer to the shared name.'
+  amends:
+  - guide: NATALIE.md and the wotr-write skill
+    locus: NATALIE.md and the wotr-write skill
+    operation: adds
+  supersedes: []
+  applies_to:
+  - worldbuilding
+  - naming
+  verification: []
+  ratified: 'Isaac, 2026-09-26, Claude Code chat: ruled directly (the queue questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: ''
+- id: R54-34-SACRAMENT_CELL_ALTHERION
+  pack: Queue Questionnaire 2026-09-26
+  pack_number: null
+  section: WAR-58
+  title: The Sacrament cell is under the Grand Church in Altherion
+  status: live
+  kind: definition
+  summary: The Sacrament cell stays under the Grand Church in Altherion.
+  verbatim: The Sacrament cell stays under the Grand Church in Altherion; the scene stands.
+  amends:
+  - guide: NATALIE.md and the wotr-write skill
+    locus: NATALIE.md and the wotr-write skill
+    operation: adds
+  supersedes: []
+  applies_to:
+  - worldbuilding
+  verification: []
+  ratified: 'Isaac, 2026-09-26, Claude Code chat: ruled directly (the queue questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: ''
+- id: R54-35-CONJUNCTION_UNNAMED
+  pack: Queue Questionnaire 2026-09-26
+  pack_number: null
+  section: WAR-58
+  title: The Sacrament's third Wellspring stays unnamed
+  status: live
+  kind: ban
+  summary: The Sacrament's third Wellspring stays out of the prose until decided.
+  verbatim: 'Conjunction stays unnamed: the Sacrament''s third Wellspring stays out of the prose until
+    decided.'
+  amends:
+  - guide: NATALIE.md and the wotr-write skill
+    locus: NATALIE.md and the wotr-write skill
+    operation: adds
+  supersedes: []
+  applies_to:
+  - worldbuilding
+  - magic-mechanism
+  verification: []
+  ratified: 'Isaac, 2026-09-26, Claude Code chat: ruled directly (the queue questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: ''
+- id: R54-36-MAHOU_AND_MAHUO
+  pack: Queue Questionnaire 2026-09-26
+  pack_number: null
+  section: WAR-98
+  title: Mahou is the institution, Mahuo the surname
+  status: live
+  kind: definition
+  summary: Mahou names the line as an institution; Mahuo is the surname a person bears.
+  verbatim: 'Both forms are real: Mahou is the line as an institution, Mahuo the surname a person bears;
+    the Mahuo Family page states the distinction; future documents follow the Accord''s usage.'
+  amends:
+  - guide: NATALIE.md and the wotr-write skill
+    locus: NATALIE.md and the wotr-write skill
+    operation: adds
+  supersedes: []
+  applies_to:
+  - naming
+  - worldbuilding
+  verification: []
+  ratified: 'Isaac, 2026-09-26, Claude Code chat: ruled directly (the queue questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: ''
+- id: R54-37-ZARRON_STRUCK
+  pack: Queue Questionnaire 2026-09-26
+  pack_number: null
+  section: WAR-99
+  title: Zarron Mahuo is removed from canon
+  status: live
+  kind: ban
+  summary: Zarron Mahuo is struck from canon and no page cites him.
+  verbatim: 'Zarron Mahuo is retconned: removed from canon. His card is struck and every page that cites
+    him is cleaned (Mahuo Family roster, rulings references, scenes).'
+  amends:
+  - guide: NATALIE.md and the wotr-write skill
+    locus: NATALIE.md and the wotr-write skill
+    operation: adds
+  supersedes: []
+  applies_to:
+  - worldbuilding
+  verification: []
+  ratified: 'Isaac, 2026-09-26, Claude Code chat: ruled directly (the queue questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: ''
+- id: R54-38-BLEND_FAMILY_MAY_DIFFER
+  pack: Queue Questionnaire 2026-09-26
+  pack_number: null
+  section: WAR-146
+  title: A blend's Family may differ from its Wellsprings'
+  status: live
+  kind: definition
+  summary: An alchemical formula's Family may differ from its Wellsprings' Families.
+  verbatim: 'Yes: a blend''s Family may differ from its Wellsprings'' Families; both Alchemical Index
+    rows stand as drafted.'
+  amends:
+  - guide: NATALIE.md and the wotr-write skill
+    locus: NATALIE.md and the wotr-write skill
+    operation: adds
+  supersedes: []
+  applies_to:
+  - codex
+  - items
+  verification: []
+  ratified: 'Isaac, 2026-09-26, Claude Code chat: ruled directly (the queue questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: ''
+- id: R54-39-FORMULA_MAY_INVERT_GLYPH
+  pack: Queue Questionnaire 2026-09-26
+  pack_number: null
+  section: WAR-147
+  title: A formula may invert its glyph, and says so
+  status: live
+  kind: mandate
+  summary: An alchemical formula may invert or misuse its glyph, and its row says so.
+  verbatim: 'Yes, and say so: a formula may invert its glyph; each of the four rows (Thundercrack Grenade,
+    Command Brand Iron, Ashfang Venom Vial, Slag-Iron Caustic) gains a short note that it inverts or misuses
+    its glyph.'
+  amends:
+  - guide: NATALIE.md and the wotr-write skill
+    locus: NATALIE.md and the wotr-write skill
+    operation: adds
+  supersedes: []
+  applies_to:
+  - codex
+  - items
+  verification: []
+  ratified: 'Isaac, 2026-09-26, Claude Code chat: ruled directly (the queue questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: ''
+- id: R54-40-HIGHEST_CLASS_INGREDIENT
+  pack: Queue Questionnaire 2026-09-26
+  pack_number: null
+  section: WAR-148
+  title: The highest-class ingredient sets a formula's Provenance Class
+  status: live
+  kind: definition
+  summary: A formula's Provenance Class is its highest-class ingredient's.
+  verbatim: 'The highest-class ingredient sets a formula''s Provenance Class: Skyfire Pulse Vial moves
+    to Class V; Deep Grid Mortar''s oath-bone ash is classed like Granite-Bone''s; the page and its intro
+    count are corrected.'
+  amends:
+  - guide: NATALIE.md and the wotr-write skill
+    locus: NATALIE.md and the wotr-write skill
+    operation: adds
+  supersedes: []
+  applies_to:
+  - codex
+  - items
+  verification: []
+  ratified: 'Isaac, 2026-09-26, Claude Code chat: ruled directly (the queue questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: ''
+- id: R54-41-LIVING_HAIR_CLASS_III
+  pack: Queue Questionnaire 2026-09-26
+  pack_number: null
+  section: WAR-148
+  title: Hair from a living person is Class III
+  status: live
+  kind: definition
+  summary: Hair from a living person is Class III, Vital Draw.
+  verbatim: 'Hair from a living person is Class III, Vital Draw: Echo-Bloom moves up to Class III; Somnum
+    Flow stands.'
+  amends:
+  - guide: NATALIE.md and the wotr-write skill
+    locus: NATALIE.md and the wotr-write skill
+    operation: adds
+  supersedes: []
+  applies_to:
+  - codex
+  - items
+  verification: []
+  ratified: 'Isaac, 2026-09-26, Claude Code chat: ruled directly (the queue questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: ''
+- id: R54-42-LIVING_CRYSTAL_BLOOD_CLASS_IV
+  pack: Queue Questionnaire 2026-09-26
+  pack_number: null
+  section: WAR-149
+  title: Blood from a living Crystal bearer is Class IV
+  status: live
+  kind: definition
+  summary: Blood drawn from a living Soul Crystal bearer is Class IV, Crystal Draw.
+  verbatim: 'Blood drawn from a living Soul Crystal bearer is Class IV, Crystal Draw: Edgetruth Whetstone
+    Oil, Beastheart Serum and Excision Bloodletting Needles become Class IV; Dominion Brand Oil stays
+    IV.'
+  amends:
+  - guide: NATALIE.md and the wotr-write skill
+    locus: NATALIE.md and the wotr-write skill
+    operation: adds
+  supersedes: []
+  applies_to:
+  - codex
+  - items
+  verification: []
+  ratified: 'Isaac, 2026-09-26, Claude Code chat: ruled directly (the queue questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: ''
+- id: R54-43-COLLAPSED_STAR_CLASS_VI
+  pack: Queue Questionnaire 2026-09-26
+  pack_number: null
+  section: WAR-149
+  title: Collapsed-star residue is Class VI
+  status: live
+  kind: definition
+  summary: Collapsed-star residue is Class VI, Archonic Residue.
+  verbatim: 'Collapsed-star residue is Class VI, Archonic Residue: found matter with no locatable origin,
+    priced at the top of the scale.'
+  amends:
+  - guide: NATALIE.md and the wotr-write skill
+    locus: NATALIE.md and the wotr-write skill
+    operation: adds
+  supersedes: []
+  applies_to:
+  - codex
+  - items
+  verification: []
+  ratified: 'Isaac, 2026-09-26, Claude Code chat: ruled directly (the queue questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: ''

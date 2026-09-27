@@ -49,6 +49,13 @@ edit uncommitted, mixed into another session's uncommitted lines, so it lands wi
 written by the lore publisher (`build/lore_publish.py`), so it returns on the next publish until that generator
 changes, which waits on WAR-159 (the build/*.py bar).
 
+**The day's questionnaires are now in the index** (`rules/doc-queue-questionnaire-2026-09-26.yaml` R54, 43 rows;
+`doc-system-accounts-questionnaire-2026-09-26.yaml` R55, 10 rows; `doc-magic-docket-2026-09-26.yaml` R56, 12 rows).
+Only answers that bind later writing became rows; one-page corrections live on their pages. The ability-law
+pack (R47) already carried the setting-wide system-accounts answers, so they were not repeated. **WAR-134 (Kinjiki
+Mach 8 stands) and C-065 (Kinjiki Immeasurable) were both answered today and point opposite ways**; the later one
+governs, so R54-10 is superseded by R56-2 and the live card follows C-065.
+
 ## State on 2026-09-26 (WAR-161 — the essence scales are published, and the turn has a length)
 
 **Part Nineteen now carries the EU-by-Stage benchmark, the AU/s progression and the

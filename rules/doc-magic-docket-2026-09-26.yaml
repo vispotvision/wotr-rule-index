@@ -1,0 +1,314 @@
+# Standing rulings, originated: no source document. Isaac ruled directly on
+# 2026-09-26 in Claude Code chat (the magic docket questionnaire). Each verbatim is an exact substring of
+# the RULINGS.md entry "## 2026-09-26 — the magic docket questionnaire (15 answers, Claude Code chat)"; the section is the line's own label. Only the
+# answers that bind later writing are rows here; answers that corrected one page
+# were applied to that page and live there. R56 is a free id-numeral bucket.
+# Standalone-ruling pattern: empty source.file.
+pack: Magic Docket Questionnaire 2026-09-26
+pack_number: null
+source_file: ''
+ratified: 'Isaac, 2026-09-26, Claude Code chat: ruled directly (the magic docket questionnaire)'
+rules:
+- id: R56-1-ZENITH_STRIKE_UNQUANTIFIED
+  pack: Magic Docket Questionnaire 2026-09-26
+  pack_number: null
+  section: C-061, C-069
+  title: A Zenith Striking Force is unquantified
+  status: live
+  kind: definition
+  summary: A Stage XIV card states no joule figure for Striking Force; a blow delivers an event the local
+    physics must accommodate.
+  verbatim: 'Unquantified: the Primate''s Striking Force line (:78) becomes Part Eleven''s reading, an
+    event the local physics must accommodate. The EX joule band leaves the card. ''No recorded instance''
+    stays.'
+  amends:
+  - guide: Fracture of Worlds — The Living System
+    locus: Fracture of Worlds — The Living System
+    operation: adds
+  supersedes: []
+  applies_to:
+  - stats
+  - combat
+  - character-sheet
+  verification: []
+  ratified: 'Isaac, 2026-09-26, Claude Code chat: ruled directly (the magic docket questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: ''
+- id: R56-2-ZENITH_SPEED_IMMEASURABLE
+  pack: Magic Docket Questionnaire 2026-09-26
+  pack_number: null
+  section: C-065
+  title: A Zenith Travel Speed is Immeasurable
+  status: live
+  kind: definition
+  summary: A Stage XIV card's Travel Speed is Part Six's Immeasurable Speed classification, not a Mach
+    figure.
+  verbatim: 'Immeasurable: Kinjiki''s Travel Speed becomes Part Six''s Immeasurable Speed classification,
+    as on the Primate''s card. ''Not his instrument'' stays as colour, and the Mach figures leave the
+    card.'
+  amends:
+  - guide: Fracture of Worlds — The Living System
+    locus: Fracture of Worlds — The Living System
+    operation: adds
+  supersedes:
+  - R54-10-KINJIKI_MACH_8
+  applies_to:
+  - stats
+  - combat
+  - character-sheet
+  verification: []
+  ratified: 'Isaac, 2026-09-26, Claude Code chat: ruled directly (the magic docket questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: ''
+- id: R56-3-ZENITH_RESERVE_STANDS
+  pack: Magic Docket Questionnaire 2026-09-26
+  pack_number: null
+  section: C-060
+  title: A Stage XIV reserve is not an R44-1 error
+  status: live
+  kind: definition
+  summary: A Stage XIV EU reserve has no attack-output band to miss and stands as written.
+  verbatim: 'Stands, outside R44-1: Stage XIV has no attack-output band to miss, so the Primate''s 2,400,000,000
+    EU reserve is not an error and stays as written.'
+  amends:
+  - guide: Fracture of Worlds — The Living System
+    locus: Fracture of Worlds — The Living System
+    operation: adds
+  supersedes: []
+  applies_to:
+  - stats
+  - character-sheet
+  verification: []
+  ratified: 'Isaac, 2026-09-26, Claude Code chat: ruled directly (the magic docket questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: ''
+- id: R56-4-PAST_THE_GATE_WITH_STRAIN
+  pack: Magic Docket Questionnaire 2026-09-26
+  pack_number: null
+  section: C-041
+  title: A Level past its Band gate stands as an outlier with Residual Strain
+  status: live
+  kind: definition
+  summary: A card whose Level stands past a Band gate its Stage has not opened keeps its Level as an in-world
+    outlier and carries standing Residual Strain.
+  verbatim: 'Anomalies, with Strain: Sodoku (Level 320, Stage VI) and Krothar (Level 380, Stage VIII)
+    keep their Levels as in-world outliers. Each card gains standing Residual Strain from the breach,
+    and Krothar''s Band name becomes ''IV — Mythic''.'
+  amends:
+  - guide: Fracture of Worlds — The Living System
+    locus: Fracture of Worlds — The Living System
+    operation: adds
+  supersedes: []
+  applies_to:
+  - stats
+  - character-sheet
+  verification: []
+  ratified: 'Isaac, 2026-09-26, Claude Code chat: ruled directly (the magic docket questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: ''
+- id: R56-5-CARD_ETA_BELOW_BAND_GOVERNS
+  pack: Magic Docket Questionnaire 2026-09-26
+  pack_number: null
+  section: C-062
+  title: A card's own η governs below its band too
+  status: live
+  kind: definition
+  summary: A card's own η governs when it sits below its Tier band, as it does above.
+  verbatim: 'The card''s η ~0.55 governs (rung I-2): Draven stands 0.05 under the corrected Tier 5 band,
+    and his seven accounts say so.'
+  amends:
+  - guide: Fracture of Worlds — The Living System
+    locus: Fracture of Worlds — The Living System
+    operation: adds
+  supersedes: []
+  applies_to:
+  - stats
+  - character-sheet
+  verification: []
+  ratified: 'Isaac, 2026-09-26, Claude Code chat: ruled directly (the magic docket questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: ''
+- id: R56-6-EXPERT_ROW_WHOLE_SPAN
+  pack: Magic Docket Questionnaire 2026-09-26
+  pack_number: null
+  section: C-063
+  title: The Expert η cell reads across Stages V to VII
+  status: live
+  kind: definition
+  summary: The corrected Tier 5 · Expert cell reads 0.60–0.70 for every Stage it spans, Stage V included.
+  verbatim: 'Whole row, Stage V included (rung I-1): the corrected Tier 5 · Expert cell reads 0.60–0.70
+    for Stages V–VII. Fluxus Intervallum, Seraphic Thread Blessing, Veil of Verdant Pact and Transposition''s
+    Stage V variant reprice to 30–40% bleed. Karo and Yoko follow the table, per WAR-151.'
+  amends:
+  - guide: Fracture of Worlds — The Living System
+    locus: Fracture of Worlds — The Living System
+    operation: adds
+  supersedes: []
+  applies_to:
+  - stats
+  - magic-mechanism
+  verification: []
+  ratified: 'Isaac, 2026-09-26, Claude Code chat: ruled directly (the magic docket questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: ''
+- id: R56-7-SCALING_PER_ENTITY
+  pack: Magic Docket Questionnaire 2026-09-26
+  pack_number: null
+  section: C-072
+  title: Card-wide EU scaling is read per entity
+  status: live
+  kind: procedure
+  summary: A card-wide EU correction applies one factor per person, read wherever that person states a
+    reserve; 'Essence Capacity' counts as a stated reserve.
+  verbatim: 'Per entity: C-059 applies one factor per person, read from wherever that person states a
+    reserve. ''Essence Capacity'' counts as a stated reserve. Dougou''s card and Mugen no Hatsurugi take
+    the same factor as The Iron Tree and Muken''s card.'
+  amends:
+  - guide: Fracture of Worlds — The Living System
+    locus: Fracture of Worlds — The Living System
+    operation: adds
+  supersedes: []
+  applies_to:
+  - stats
+  - character-sheet
+  verification: []
+  ratified: 'Isaac, 2026-09-26, Claude Code chat: ruled directly (the magic docket questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: ''
+- id: R56-8-LEVEL_LAW_SETS_RESERVE_BAND
+  pack: Magic Docket Questionnaire 2026-09-26
+  pack_number: null
+  section: C-076 (WAR-161)
+  title: The Level law sets a Stage's EU reserve band
+  status: live
+  kind: definition
+  summary: A Stage's EU reserve band comes from Part Twenty-Three's law of reserves (Level), not from
+    its Max Grade's joule bracket; Part Nineteen is built off it.
+  verbatim: 'The Level law governs: Part Nineteen''s EU-by-Stage and AU/s-by-Stage tables are rebuilt
+    from Part Twenty-Three''s Level law, replacing the Grade-bracket derivation published 2026-09-26.'
+  amends:
+  - guide: Fracture of Worlds — The Living System
+    locus: Fracture of Worlds — The Living System
+    operation: adds
+  supersedes: []
+  applies_to:
+  - stats
+  - adjudication
+  - character-sheet
+  verification: []
+  ratified: 'Isaac, 2026-09-26, Claude Code chat: ruled directly (the magic docket questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: ''
+- id: R56-9-SCALING_ON_LEVEL_BANDS
+  pack: Magic Docket Questionnaire 2026-09-26
+  pack_number: null
+  section: C-059 follow-up
+  title: Card-wide EU scaling reads the Level-law bands
+  status: live
+  kind: procedure
+  summary: Card-wide EU scaling reads the Level-law bands, from each card's pre-scaling figures.
+  verbatim: 'Re-run on the Level-law bands: the same C-059 method (one factor per entity, set point at
+    the geometric mean of the new band) is recomputed from each card''s pre-C-059 figures, so nothing
+    compounds.'
+  amends:
+  - guide: Fracture of Worlds — The Living System
+    locus: Fracture of Worlds — The Living System
+    operation: adds
+  supersedes: []
+  applies_to:
+  - stats
+  - character-sheet
+  verification: []
+  ratified: 'Isaac, 2026-09-26, Claude Code chat: ruled directly (the magic docket questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: 'Applied 2026-09-26: Part Twenty-Three reads the gate ceiling as hard and the working band''s
+    floor as no floor, so no card''s reserve was out of band and the earlier scaling was reverted (reports/eu_card_revert_2026-09-26.md).'
+- id: R56-10-AU_S_LADDER_TYPICAL
+  pack: Magic Docket Questionnaire 2026-09-26
+  pack_number: null
+  section: WAR-161, AU/s against the cards
+  title: The AU/s ladder is typical ranges
+  status: live
+  kind: definition
+  summary: The AU/s-by-Stage ladder gives typical ranges; card AU/s figures outside it stand as outliers.
+  verbatim: The ladder is typical ranges and the cards stand. The 23 misses stay listed as outliers against
+    the rebuilt ladder.
+  amends:
+  - guide: Fracture of Worlds — The Living System
+    locus: Fracture of Worlds — The Living System
+    operation: adds
+  supersedes: []
+  applies_to:
+  - stats
+  - character-sheet
+  verification: []
+  ratified: 'Isaac, 2026-09-26, Claude Code chat: ruled directly (the magic docket questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: ''
+- id: R56-11-NO_EU_FLOOR
+  pack: Magic Docket Questionnaire 2026-09-26
+  pack_number: null
+  section: WAR-161, EU floor
+  title: The EU unit has no floor
+  status: live
+  kind: definition
+  summary: EU figures are written as computed, fractions included; the unit has no floor.
+  verbatim: 'Leave the fractions: no floor on the unit. Fractions of an EU are written as computed, consistent
+    with the decimals answer (WAR-141).'
+  amends:
+  - guide: Fracture of Worlds — The Living System
+    locus: Fracture of Worlds — The Living System
+    operation: adds
+  supersedes: []
+  applies_to:
+  - stats
+  verification: []
+  ratified: 'Isaac, 2026-09-26, Claude Code chat: ruled directly (the magic docket questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: ''
+- id: R56-12-AUTHORITY_RADIUS_IS_PPF
+  pack: Magic Docket Questionnaire 2026-09-26
+  pack_number: null
+  section: WAR-162, the non-force ladder
+  title: Authority radius is the Passive Pressure Field
+  status: live
+  kind: definition
+  summary: The non-force ladder keys authority radius to the Passive Pressure Field at reference density.
+  verbatim: 'Keep the reading: the Passive Pressure Field is the authority radius at reference density,
+    and the published ladder stands.'
+  amends:
+  - guide: Fracture of Worlds — The Living System
+    locus: Fracture of Worlds — The Living System
+    operation: adds
+  supersedes: []
+  applies_to:
+  - stats
+  - magic-mechanism
+  verification: []
+  ratified: 'Isaac, 2026-09-26, Claude Code chat: ruled directly (the magic docket questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: ''

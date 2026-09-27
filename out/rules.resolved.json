@@ -12791,6 +12791,3313 @@
     "superseded_by": []
   },
   {
+    "id": "R54-01-HILD_TWELVE_AT_DEATH",
+    "pack": "Follow-up Rulings 2026-09-26",
+    "pack_number": null,
+    "section": "Follow-up answers",
+    "title": "Hild Twelve At Death",
+    "status": "live",
+    "kind": "definition",
+    "summary": "Hild's age at death: twelve at death. She is 11 on her card's As Of moment and turns twelve before the ninth hour; 'twelve' at her death stands everywhere.",
+    "verbatim": "Hild's age at death: twelve at death. She is 11 on her card's As Of moment and turns twelve before the ninth hour; 'twelve' at her death stands everywhere.",
+    "amends": [],
+    "supersedes": [],
+    "applies_to": [
+      "worldbuilding",
+      "character-sheet"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-26, Claude Code chat: ruled directly (follow-up questionnaire)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "",
+    "superseded_by": []
+  },
+  {
+    "id": "R54-02-DOUGOU_JOULES_FROM_COSTS",
+    "pack": "Follow-up Rulings 2026-09-26",
+    "pack_number": null,
+    "section": "Follow-up answers",
+    "title": "Dougou Joules From Costs",
+    "status": "live",
+    "kind": "consequential_edit",
+    "summary": "Dougou: re-derive his joule figures from his restored EU costs (4.752 GJ, 7.326 GJ, 2.772 to 8.811 GJ, B-Grade); the newton figures are dropped, since no contact distance is stated.",
+    "verbatim": "Dougou: re-derive his joule figures from his restored EU costs (4.752 GJ, 7.326 GJ, 2.772 to 8.811 GJ, B-Grade); the newton figures are dropped, since no contact distance is stated.",
+    "amends": [],
+    "supersedes": [],
+    "applies_to": [
+      "stats",
+      "magic-design"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-26, Claude Code chat: ruled directly (follow-up questionnaire)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "",
+    "superseded_by": []
+  },
+  {
+    "id": "R54-03-SANCTA_LUX",
+    "pack": "Follow-up Rulings 2026-09-26",
+    "pack_number": null,
+    "section": "Follow-up answers",
+    "title": "Sancta Lux",
+    "status": "live",
+    "kind": "definition",
+    "summary": "Sanctum Lux becomes Sancta Lux on every page.",
+    "verbatim": "Sanctum Lux becomes Sancta Lux on every page.",
+    "amends": [],
+    "supersedes": [],
+    "applies_to": [
+      "naming"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-26, Claude Code chat: ruled directly (follow-up questionnaire)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "",
+    "superseded_by": []
+  },
+  {
+    "id": "R54-04-TITLES_EXEMPT_FROM_BAN_LIST",
+    "pack": "Follow-up Rulings 2026-09-26",
+    "pack_number": null,
+    "section": "Follow-up answers",
+    "title": "Titles Exempt From Ban List",
+    "status": "live",
+    "kind": "procedure",
+    "summary": "Titles are exempt from the vocabulary ban list; the checker skips the title line ('Verinus: Testament of the Sixty-Fifth' stands).",
+    "verbatim": "Titles are exempt from the vocabulary ban list; the checker skips the title line ('Verinus: Testament of the Sixty-Fifth' stands).",
+    "amends": [],
+    "supersedes": [],
+    "applies_to": [
+      "verification"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-26, Claude Code chat: ruled directly (follow-up questionnaire)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "",
+    "superseded_by": []
+  },
+  {
+    "id": "R54-06-WELL_SPAWN_WELLS_ONLY",
+    "pack": "Follow-up Rulings 2026-09-26",
+    "pack_number": null,
+    "section": "Follow-up answers",
+    "title": "Well Spawn Wells Only",
+    "status": "live",
+    "kind": "definition",
+    "summary": "Well-spawn publishes, Wells only: the spread along city mains into towns is struck.",
+    "verbatim": "Well-spawn publishes, Wells only: the spread along city mains into towns is struck.",
+    "amends": [],
+    "supersedes": [],
+    "applies_to": [
+      "worldbuilding"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-26, Claude Code chat: ruled directly (follow-up questionnaire)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "",
+    "superseded_by": []
+  },
+  {
+    "id": "R54-07-WREN_GRIEF_FRONT",
+    "pack": "Follow-up Rulings 2026-09-26",
+    "pack_number": null,
+    "section": "Follow-up answers",
+    "title": "Wren Grief Front",
+    "status": "live",
+    "kind": "definition",
+    "summary": "Wren Greymane's Front becomes a grief Front: the aftermath of his death, Bram and the ridge carrying it, ticks driven by who blames whom.",
+    "verbatim": "Wren Greymane's Front becomes a grief Front: the aftermath of his death, Bram and the ridge carrying it, ticks driven by who blames whom.",
+    "amends": [],
+    "supersedes": [],
+    "applies_to": [
+      "session-protocol",
+      "worldbuilding"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-26, Claude Code chat: ruled directly (follow-up questionnaire)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "",
+    "superseded_by": []
+  },
+  {
+    "id": "R54-09-BARA_IS_A_CHARACTER",
+    "pack": "Follow-up Rulings 2026-09-26",
+    "pack_number": null,
+    "section": "Follow-up answers",
+    "title": "Bara Is A Character",
+    "status": "live",
+    "kind": "definition",
+    "summary": "Bara is a character: stripped from system pages like the others.",
+    "verbatim": "Bara is a character: stripped from system pages like the others.",
+    "amends": [],
+    "supersedes": [],
+    "applies_to": [
+      "documents",
+      "magic-design"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-26, Claude Code chat: ruled directly (follow-up questionnaire)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "",
+    "superseded_by": []
+  },
+  {
+    "id": "R54-1-STAGE_NUMERAL_WINS",
+    "pack": "Queue Questionnaire 2026-09-26",
+    "pack_number": null,
+    "section": "WAR-15",
+    "title": "Where a card pairs a Stage numeral with another Stage's name, the numeral wins",
+    "status": "live",
+    "kind": "definition",
+    "summary": "A card whose Stage numeral and Stage name disagree keeps the numeral and takes the name Fracture of Worlds gives that numeral.",
+    "verbatim": "Number wins: Gimbzo XII Emanation (SSS, Grandmaster); Naevra IX, Naiser VI, Niran VII take the correct names for their numbers. The four earlier 'name wins' fixes stand as they are.",
+    "amends": [
+      {
+        "guide": "Character cards, NATALIE.md and the wotr-npc skill",
+        "locus": "Character cards, NATALIE.md and the wotr-npc skill",
+        "operation": "adds"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "stats",
+      "character-sheet",
+      "naming"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-26, Claude Code chat: ruled directly (the queue questionnaire)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "",
+    "superseded_by": []
+  },
+  {
+    "id": "R54-10-KINJIKI_MACH_8",
+    "pack": "Queue Questionnaire 2026-09-26",
+    "pack_number": null,
+    "section": "WAR-134",
+    "title": "Kinjiki's Mach 8 Travel Speed stands as a Zenith outlier",
+    "status": "superseded",
+    "kind": "definition",
+    "summary": "Kinjiki's quantified Travel Speed stood as a personal outlier at Zenith.",
+    "verbatim": "Keep Mach 8: Kinjiki's Travel Speed (Mach 8 sustained, Mach 15 bursts) stands as a personal outlier at Zenith.",
+    "amends": [
+      {
+        "guide": "Character cards, NATALIE.md and the wotr-npc skill",
+        "locus": "Character cards, NATALIE.md and the wotr-npc skill",
+        "operation": "adds"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "stats",
+      "character-sheet"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-26, Claude Code chat: ruled directly (the queue questionnaire)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "Superseded later the same day by R56-2-ZENITH_SPEED_IMMEASURABLE (the magic docket questionnaire, C-065), which the live card follows.",
+    "superseded_by": [
+      "R56-2-ZENITH_SPEED_IMMEASURABLE"
+    ]
+  },
+  {
+    "id": "R54-11-CARD_HEADER_AT_A_MOMENT",
+    "pack": "Queue Questionnaire 2026-09-26",
+    "pack_number": null,
+    "section": "WAR-114",
+    "title": "Card headers describe the character at a stated moment; Lore carries later events",
+    "status": "live",
+    "kind": "mandate",
+    "summary": "Every card's header states the moment it describes; the Lore section records later events, deaths included.",
+    "verbatim": "Card headers describe the character at a stated moment (e.g. 'as of the muster') and say so; Lore records later events including deaths. Applies to every card.",
+    "amends": [
+      {
+        "guide": "Character cards, NATALIE.md and the wotr-npc skill",
+        "locus": "Character cards, NATALIE.md and the wotr-npc skill",
+        "operation": "adds"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "character-sheet",
+      "documents"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-26, Claude Code chat: ruled directly (the queue questionnaire)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "",
+    "superseded_by": []
+  },
+  {
+    "id": "R54-12-AS_OF_LINE_ON_EVERY_CARD",
+    "pack": "Follow-up Rulings 2026-09-26",
+    "pack_number": null,
+    "section": "Follow-up answers",
+    "title": "As Of Line On Every Card",
+    "status": "live",
+    "kind": "mandate",
+    "summary": "Every character card gets an As Of line, dated from its own Lore and Standing line.",
+    "verbatim": "Every character card gets an As Of line, dated from its own Lore and Standing line.",
+    "amends": [],
+    "supersedes": [],
+    "applies_to": [
+      "character-sheet"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-26, Claude Code chat: ruled directly (follow-up questionnaire)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "",
+    "superseded_by": []
+  },
+  {
+    "id": "R54-12-CHECKER_STOPS_AT_NOTES",
+    "pack": "Queue Questionnaire 2026-09-26",
+    "pack_number": null,
+    "section": "WAR-33,WAR-34",
+    "title": "Author notes are not measured by the prose checker",
+    "status": "live",
+    "kind": "procedure",
+    "summary": "Verification stops at the author-notes heading; notes are not measured.",
+    "verbatim": "The prose checker stops at the author-notes heading; notes are not measured.",
+    "amends": [
+      {
+        "guide": "Manual Verification Guide",
+        "locus": "Manual Verification Guide",
+        "operation": "adds"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "verification"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-26, Claude Code chat: ruled directly (the queue questionnaire)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "",
+    "superseded_by": []
+  },
+  {
+    "id": "R54-13-BORROWED_NAME_FIXES",
+    "pack": "Follow-up Rulings 2026-09-26",
+    "pack_number": null,
+    "section": "Follow-up answers",
+    "title": "Borrowed Name Fixes",
+    "status": "live",
+    "kind": "definition",
+    "summary": "Name fixes applied: Japanese long vowels (Hokai, Seijo, Joka and the Go series take macrons), Coagula Dominium, Symphonia Ascendens, Hae-jin's hanja becomes 海鎮 (Sea-Garrison), and the gloss-only fixes (Kibanda, Kafa-Karim, Hataraki no Sh...",
+    "verbatim": "Name fixes applied: Japanese long vowels (Hokai, Seijo, Joka and the Go series take macrons), Coagula Dominium, Symphonia Ascendens, Hae-jin's hanja becomes 海鎮 (Sea-Garrison), and the gloss-only fixes (Kibanda, Kafa-Karim, Hataraki no Sho glosses, Dawi 'elää').",
+    "amends": [],
+    "supersedes": [],
+    "applies_to": [
+      "naming"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-26, Claude Code chat: ruled directly (follow-up questionnaire)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "",
+    "superseded_by": []
+  },
+  {
+    "id": "R54-13-NO_POV_WITHOUT_REGISTER",
+    "pack": "Queue Questionnaire 2026-09-26",
+    "pack_number": null,
+    "section": "WAR-91",
+    "title": "No point of view without a register",
+    "status": "live",
+    "kind": "mandate",
+    "summary": "A character may carry a point of view only once a narration register exists for them.",
+    "verbatim": "No POV without a register: Bram Greymane and Lorn Stark get registers.",
+    "amends": [
+      {
+        "guide": "NATALIE.md and the wotr-write skill",
+        "locus": "NATALIE.md and the wotr-write skill",
+        "operation": "adds"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "pov",
+      "register"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-26, Claude Code chat: ruled directly (the queue questionnaire)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "",
+    "superseded_by": []
+  },
+  {
+    "id": "R54-14-REGISTER_STAYS_WITH_POV",
+    "pack": "Queue Questionnaire 2026-09-26",
+    "pack_number": null,
+    "section": "WAR-91",
+    "title": "A register stays with the point of view, not with the character",
+    "status": "live",
+    "kind": "definition",
+    "summary": "In another character's viewpoint, a character is read by that narrator's register rules, not their own.",
+    "verbatim": "A register stays with the point of view: in another character's viewpoint Sodoku is read by that narrator's rules.",
+    "amends": [
+      {
+        "guide": "NATALIE.md and the wotr-write skill",
+        "locus": "NATALIE.md and the wotr-write skill",
+        "operation": "adds"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "pov",
+      "register"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-26, Claude Code chat: ruled directly (the queue questionnaire)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "",
+    "superseded_by": []
+  },
+  {
+    "id": "R54-14-YUKARI_EYES_CRIMSON",
+    "pack": "Follow-up Rulings 2026-09-26",
+    "pack_number": null,
+    "section": "Follow-up answers",
+    "title": "Yukari Eyes Crimson",
+    "status": "live",
+    "kind": "definition",
+    "summary": "Yukari eyes: crimson. The cards win; the bloodline page's silver-violet is corrected.",
+    "verbatim": "Yukari eyes: crimson. The cards win; the bloodline page's silver-violet is corrected.",
+    "amends": [],
+    "supersedes": [],
+    "applies_to": [
+      "worldbuilding",
+      "character-sheet"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-26, Claude Code chat: ruled directly (follow-up questionnaire)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "",
+    "superseded_by": []
+  },
+  {
+    "id": "R54-15-AFTERMATH_PAID_LATER",
+    "pack": "Queue Questionnaire 2026-09-26",
+    "pack_number": null,
+    "section": "WAR-91",
+    "title": "A later named scene can pay a battle's aftermath",
+    "status": "live",
+    "kind": "definition",
+    "summary": "A named later scene covering two of the five aftermath stages discharges a battle scene's aftermath duty.",
+    "verbatim": "A later scene can pay The Muster's aftermath: a named later scene covering two of the five aftermath stages discharges it.",
+    "amends": [
+      {
+        "guide": "Mass Combat Craft Guide",
+        "locus": "Mass Combat Craft Guide",
+        "operation": "adds"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "mass-combat",
+      "scene-structure"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-26, Claude Code chat: ruled directly (the queue questionnaire)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "",
+    "superseded_by": []
+  },
+  {
+    "id": "R54-16-STONE_BLOOD_COLD_LATENCY",
+    "pack": "Queue Questionnaire 2026-09-26",
+    "pack_number": null,
+    "section": "WAR-91",
+    "title": "Stone-Blood are slow in deep cold",
+    "status": "live",
+    "kind": "definition",
+    "summary": "Stone-Blood run about three-quarters of a beat late in deep cold, in every such fight.",
+    "verbatim": "Stone-Blood cold latency is a rule: Stone-Blood slow (about three-quarters of a beat late) in deep cold, canon for every such fight; the paragraph stays.",
+    "amends": [
+      {
+        "guide": "NATALIE.md and the wotr-write skill",
+        "locus": "NATALIE.md and the wotr-write skill",
+        "operation": "adds"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "combat",
+      "worldbuilding"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-26, Claude Code chat: ruled directly (the queue questionnaire)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "",
+    "superseded_by": []
+  },
+  {
+    "id": "R54-16-THE_WIRE_IS_A_GUILD_LINE",
+    "pack": "Follow-up Rulings 2026-09-26",
+    "pack_number": null,
+    "section": "Follow-up answers",
+    "title": "The Wire Is A Guild Line",
+    "status": "live",
+    "kind": "definition",
+    "summary": "The wire is a Guild line; the Infrastructure page is corrected.",
+    "verbatim": "The wire is a Guild line; the Infrastructure page is corrected.",
+    "amends": [],
+    "supersedes": [],
+    "applies_to": [
+      "worldbuilding"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-26, Claude Code chat: ruled directly (follow-up questionnaire)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "",
+    "superseded_by": []
+  },
+  {
+    "id": "R54-17-MULTI_PLACE_SET_PIECE",
+    "pack": "Queue Questionnaire 2026-09-26",
+    "pack_number": null,
+    "section": "WAR-91",
+    "title": "A multi-place scene with a mass-combat section is measured as a set piece",
+    "status": "live",
+    "kind": "procedure",
+    "summary": "A scene across several places with one mass-combat section is measured as a set piece.",
+    "verbatim": "A scene in four places with one mass-combat section is measured as a set piece.",
+    "amends": [
+      {
+        "guide": "Manual Verification Guide",
+        "locus": "Manual Verification Guide",
+        "operation": "adds"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "verification",
+      "mass-combat",
+      "scene-structure"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-26, Claude Code chat: ruled directly (the queue questionnaire)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "",
+    "superseded_by": []
+  },
+  {
+    "id": "R54-18-IGNORANCE_PER_SCENE",
+    "pack": "Queue Questionnaire 2026-09-26",
+    "pack_number": null,
+    "section": "WAR-91",
+    "title": "The viewpoint-ignorance rule counts per scene",
+    "status": "live",
+    "kind": "procedure",
+    "summary": "One instance of viewpoint ignorance anywhere in a multi-viewpoint scene satisfies the rule.",
+    "verbatim": "The viewpoint-ignorance rule counts per scene: one instance anywhere in a multi-viewpoint scene satisfies it.",
+    "amends": [
+      {
+        "guide": "Manual Verification Guide",
+        "locus": "Manual Verification Guide",
+        "operation": "adds"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "pov",
+      "verification"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-26, Claude Code chat: ruled directly (the queue questionnaire)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "",
+    "superseded_by": []
+  },
+  {
+    "id": "R54-19-MASS_NPC_THOUGHT",
+    "pack": "Queue Questionnaire 2026-09-26",
+    "pack_number": null,
+    "section": "WAR-92",
+    "title": "Mass-combat scenes keep the one-thought-per-NPC allowance under POV lock",
+    "status": "live",
+    "kind": "definition",
+    "summary": "A POV-locked mass-combat scene still allows one thought per NPC.",
+    "verbatim": "Yes: mass-combat scenes keep the one-thought-per-NPC allowance even when POV-locked; Robin Ice's italic thought stays.",
+    "amends": [
+      {
+        "guide": "Mass Combat Craft Guide",
+        "locus": "Mass Combat Craft Guide",
+        "operation": "adds"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "mass-combat",
+      "pov"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-26, Claude Code chat: ruled directly (the queue questionnaire)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "",
+    "superseded_by": []
+  },
+  {
+    "id": "R54-2-CRYSTAL_TIER_FROM_STAGE",
+    "pack": "Queue Questionnaire 2026-09-26",
+    "pack_number": null,
+    "section": "WAR-65",
+    "title": "A Crystal Tier field is written from the Stage",
+    "status": "live",
+    "kind": "procedure",
+    "summary": "The tier word comes off the Crystal State field; a separate Crystal Tier field is written from the Stage, or from Aether Class where no Stage is stated.",
+    "verbatim": "Follow Ryuka: the tier word comes off the Crystal State field; a Crystal Tier field is written from the Stage (or Aether Class where no Stage). Akira: Dormant.",
+    "amends": [
+      {
+        "guide": "Character cards, NATALIE.md and the wotr-npc skill",
+        "locus": "Character cards, NATALIE.md and the wotr-npc skill",
+        "operation": "adds"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "stats",
+      "character-sheet"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-26, Claude Code chat: ruled directly (the queue questionnaire)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "",
+    "superseded_by": []
+  },
+  {
+    "id": "R54-20-MASS_WOUND_ANATOMY",
+    "pack": "Queue Questionnaire 2026-09-26",
+    "pack_number": null,
+    "section": "WAR-92",
+    "title": "Mass-combat scenes carry duel-level wound anatomy",
+    "status": "live",
+    "kind": "mandate",
+    "summary": "Wounds in mass-combat scenes are written with the same anatomy as a duel.",
+    "verbatim": "Yes: mass-combat scenes must still carry duel-level wound anatomy.",
+    "amends": [
+      {
+        "guide": "Mass Combat Craft Guide",
+        "locus": "Mass Combat Craft Guide",
+        "operation": "adds"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "mass-combat",
+      "combat"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-26, Claude Code chat: ruled directly (the queue questionnaire)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "",
+    "superseded_by": []
+  },
+  {
+    "id": "R54-21-FACULTY_AS_SUBJECT",
+    "pack": "Queue Questionnaire 2026-09-26",
+    "pack_number": null,
+    "section": "WAR-92",
+    "title": "Inside a close register a faculty may be the grammatical subject",
+    "status": "live",
+    "kind": "definition",
+    "summary": "Inside a close register, the viewpoint character's faculty may stand as the grammatical subject of a sentence.",
+    "verbatim": "Yes: inside a close register the faculty (Reigan) may be the grammatical subject; the three sentences stay.",
+    "amends": [
+      {
+        "guide": "NATALIE.md and the wotr-write skill",
+        "locus": "NATALIE.md and the wotr-write skill",
+        "operation": "adds"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "register",
+      "prose-law"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-26, Claude Code chat: ruled directly (the queue questionnaire)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "",
+    "superseded_by": []
+  },
+  {
+    "id": "R54-22-REIGAN_REACH",
+    "pack": "Queue Questionnaire 2026-09-26",
+    "pack_number": null,
+    "section": "WAR-92",
+    "title": "Reigan reaches four hundred miles",
+    "status": "live",
+    "kind": "definition",
+    "summary": "Sodoku's Reigan reaches four hundred miles, with its blindness and eleven-second cost.",
+    "verbatim": "Reigan's reach is four hundred miles: the scene's figure, with its blindness and eleven-second cost, goes on Sodoku's card and the wiki is widened.",
+    "amends": [
+      {
+        "guide": "Character cards, NATALIE.md and the wotr-npc skill",
+        "locus": "Character cards, NATALIE.md and the wotr-npc skill",
+        "operation": "adds"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "magic-mechanism",
+      "worldbuilding"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-26, Claude Code chat: ruled directly (the queue questionnaire)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "",
+    "superseded_by": []
+  },
+  {
+    "id": "R54-23-WREN_DIES",
+    "pack": "Queue Questionnaire 2026-09-26",
+    "pack_number": null,
+    "section": "WAR-92",
+    "title": "Wren Greymane dies on the road",
+    "status": "live",
+    "kind": "definition",
+    "summary": "Wren is dead from What the Sky Does Not Ask on, and later pages agree.",
+    "verbatim": "Yes, Wren dies: Sodoku's prediction binds; Wren is dead from What the Sky Does Not Ask on, and later pages must agree.",
+    "amends": [
+      {
+        "guide": "NATALIE.md and the wotr-write skill",
+        "locus": "NATALIE.md and the wotr-write skill",
+        "operation": "adds"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "worldbuilding"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-26, Claude Code chat: ruled directly (the queue questionnaire)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "",
+    "superseded_by": []
+  },
+  {
+    "id": "R54-24-RIKU_BEFORE_THE_BOOK",
+    "pack": "Queue Questionnaire 2026-09-26",
+    "pack_number": null,
+    "section": "WAR-69",
+    "title": "Rikudoku is born before the Kharven book",
+    "status": "live",
+    "kind": "definition",
+    "summary": "Rikudoku Moto is about seven during the Kharven book; Yoko is a mother on its pages.",
+    "verbatim": "Riku is born before the book (about seven during it); Yoko is a mother on its pages; the Revolution of the Inner World birth-night scene is rewritten or redated.",
+    "amends": [
+      {
+        "guide": "NATALIE.md and the wotr-write skill",
+        "locus": "NATALIE.md and the wotr-write skill",
+        "operation": "adds"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "worldbuilding"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-26, Claude Code chat: ruled directly (the queue questionnaire)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "",
+    "superseded_by": []
+  },
+  {
+    "id": "R54-25-SEAT_GROUND_BURIAL",
+    "pack": "Queue Questionnaire 2026-09-26",
+    "pack_number": null,
+    "section": "WAR-50",
+    "title": "Ground burial is Kharven-Seat's city rite",
+    "status": "live",
+    "kind": "definition",
+    "summary": "Kharven-Seat buries in the ground as its own city rite; the wider Four Quarters faith keeps sky burial.",
+    "verbatim": "Ground burial is Kharven-Seat's own city rite; the wider Four Quarters faith keeps sky burial; the faith page gains a line saying so.",
+    "amends": [
+      {
+        "guide": "NATALIE.md and the wotr-write skill",
+        "locus": "NATALIE.md and the wotr-write skill",
+        "operation": "adds"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "worldbuilding"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-26, Claude Code chat: ruled directly (the queue questionnaire)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "",
+    "superseded_by": []
+  },
+  {
+    "id": "R54-26-BENCH_OF_ATTRIBUTION",
+    "pack": "Queue Questionnaire 2026-09-26",
+    "pack_number": null,
+    "section": "WAR-50",
+    "title": "The Bench of Attribution keeps its remit",
+    "status": "live",
+    "kind": "ban",
+    "summary": "The Bench of Attribution may not keep or compel records of signings.",
+    "verbatim": "It is the Bench of Attribution with its remit unchanged; later chapters may not have it keep or compel records of signings.",
+    "amends": [
+      {
+        "guide": "NATALIE.md and the wotr-write skill",
+        "locus": "NATALIE.md and the wotr-write skill",
+        "operation": "adds"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "worldbuilding",
+      "documents"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-26, Claude Code chat: ruled directly (the queue questionnaire)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "",
+    "superseded_by": []
+  },
+  {
+    "id": "R54-27-TWO_CUTS_FERRIBY",
+    "pack": "Queue Questionnaire 2026-09-26",
+    "pack_number": null,
+    "section": "WAR-64",
+    "title": "The Ferriby wedge had two cutters",
+    "status": "live",
+    "kind": "definition",
+    "summary": "Tally cut his own section; Qiu Yinzhi cut and sealed the exhibit wedge.",
+    "verbatim": "Two cuts: Tally cut his own section; Qiu Yinzhi cut and sealed the exhibit wedge herself; notes saying Tally cut the exhibit are corrected.",
+    "amends": [
+      {
+        "guide": "NATALIE.md and the wotr-write skill",
+        "locus": "NATALIE.md and the wotr-write skill",
+        "operation": "adds"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "worldbuilding"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-26, Claude Code chat: ruled directly (the queue questionnaire)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "",
+    "superseded_by": []
+  },
+  {
+    "id": "R54-28-FIRST_MEET_NORTH_GATE",
+    "pack": "Queue Questionnaire 2026-09-26",
+    "pack_number": null,
+    "section": "WAR-105",
+    "title": "Sodoku and Hild first meet at the north gate",
+    "status": "live",
+    "kind": "definition",
+    "summary": "Sodoku and Hild first meet at the north gate.",
+    "verbatim": "They first meet at the north gate; the infancy clause in True King part 17 is cut; Hild's card row is updated to after the reunion.",
+    "amends": [
+      {
+        "guide": "NATALIE.md and the wotr-write skill",
+        "locus": "NATALIE.md and the wotr-write skill",
+        "operation": "adds"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "worldbuilding"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-26, Claude Code chat: ruled directly (the queue questionnaire)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "",
+    "superseded_by": []
+  },
+  {
+    "id": "R54-29-AGES_AT_THE_MUSTER",
+    "pack": "Queue Questionnaire 2026-09-26",
+    "pack_number": null,
+    "section": "WAR-109",
+    "title": "Sodoku is 28 and Hild 11 at the muster",
+    "status": "live",
+    "kind": "definition",
+    "summary": "At the muster Sodoku is 28 and Hild 11.",
+    "verbatim": "Sodoku 28, Hild 11 at the muster: Sodoku's card moves to 28; the nineteen-year lines become eleven or twelve; The Fixed End's standing-wave passage is rewritten to fit.",
+    "amends": [
+      {
+        "guide": "NATALIE.md and the wotr-write skill",
+        "locus": "NATALIE.md and the wotr-write skill",
+        "operation": "adds"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "worldbuilding"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-26, Claude Code chat: ruled directly (the queue questionnaire)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "",
+    "superseded_by": []
+  },
+  {
+    "id": "R54-3-STAGE_DECIDES_CRYSTAL_TIER",
+    "pack": "Queue Questionnaire 2026-09-26",
+    "pack_number": null,
+    "section": "WAR-66",
+    "title": "Stage decides a Class/Stage Crystal Tier mismatch",
+    "status": "live",
+    "kind": "definition",
+    "summary": "Where Aether Class and Stage point to different Crystal Tiers, the Stage decides, for every later mismatch.",
+    "verbatim": "Stage decides: Aelum's Crystal Tier is Sovereign; applies to all later Class/Stage mismatches.",
+    "amends": [
+      {
+        "guide": "Character cards, NATALIE.md and the wotr-npc skill",
+        "locus": "Character cards, NATALIE.md and the wotr-npc skill",
+        "operation": "adds"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "stats",
+      "character-sheet"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-26, Claude Code chat: ruled directly (the queue questionnaire)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "",
+    "superseded_by": []
+  },
+  {
+    "id": "R54-30-FERN_STARK_MOTHER",
+    "pack": "Queue Questionnaire 2026-09-26",
+    "pack_number": null,
+    "section": "WAR-110",
+    "title": "Fern Stark is Hild's mother",
+    "status": "live",
+    "kind": "definition",
+    "summary": "Fern Stark is Hild's mother; Freya is a different woman Sodoku lost.",
+    "verbatim": "Fern Stark is Hild's mother; Freya is a different woman Sodoku lost; the 18 September ruling line is corrected to Fern.",
+    "amends": [
+      {
+        "guide": "NATALIE.md and the wotr-write skill",
+        "locus": "NATALIE.md and the wotr-write skill",
+        "operation": "adds"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "worldbuilding"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-26, Claude Code chat: ruled directly (the queue questionnaire)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "",
+    "superseded_by": []
+  },
+  {
+    "id": "R54-31-GREYMANE_WEST_BRAM_SOUTH",
+    "pack": "Queue Questionnaire 2026-09-26",
+    "pack_number": null,
+    "section": "WAR-111",
+    "title": "The Greymane ridge guards the west; Bram holds the south",
+    "status": "live",
+    "kind": "definition",
+    "summary": "The Greymane ridge guards the west while Bram commands the southern approach.",
+    "verbatim": "Both: the Greymane ridge guards the west while Bram commands the southern approach; both cards say so explicitly.",
+    "amends": [
+      {
+        "guide": "NATALIE.md and the wotr-write skill",
+        "locus": "NATALIE.md and the wotr-write skill",
+        "operation": "adds"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "worldbuilding"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-26, Claude Code chat: ruled directly (the queue questionnaire)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "",
+    "superseded_by": []
+  },
+  {
+    "id": "R54-32-KHARVEN_BESIEGED_BY_MANDATE",
+    "pack": "Queue Questionnaire 2026-09-26",
+    "pack_number": null,
+    "section": "WAR-118",
+    "title": "Kharven's besiegers are the Iron Mandate",
+    "status": "live",
+    "kind": "definition",
+    "summary": "The force besieging Kharven is the Iron Mandate, in a nine-year war.",
+    "verbatim": "Kharven's besiegers are the Iron Mandate: 'Expanse' is corrected to the Mandate across the archive, and the Kharven lorebook's cold peace is updated to the nine-year war.",
+    "amends": [
+      {
+        "guide": "NATALIE.md and the wotr-write skill",
+        "locus": "NATALIE.md and the wotr-write skill",
+        "operation": "adds"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "worldbuilding",
+      "naming"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-26, Claude Code chat: ruled directly (the queue questionnaire)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "",
+    "superseded_by": []
+  },
+  {
+    "id": "R54-33-TWO_ONAWAS",
+    "pack": "Queue Questionnaire 2026-09-26",
+    "pack_number": null,
+    "section": "WAR-53",
+    "title": "There are two Onawas",
+    "status": "live",
+    "kind": "definition",
+    "summary": "Onawa, Empress of Eresse, and Onawa Ashkewe, Queen of the Tsohanto, are two women.",
+    "verbatim": "Two women: Onawa, Empress of Eresse gets her own card; Onawa Ashkewe, Queen of the Tsohanto, stands; the Tsohanto Reach's eleven-year silence becomes her people's answer to the shared name.",
+    "amends": [
+      {
+        "guide": "NATALIE.md and the wotr-write skill",
+        "locus": "NATALIE.md and the wotr-write skill",
+        "operation": "adds"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "worldbuilding",
+      "naming"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-26, Claude Code chat: ruled directly (the queue questionnaire)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "",
+    "superseded_by": []
+  },
+  {
+    "id": "R54-34-SACRAMENT_CELL_ALTHERION",
+    "pack": "Queue Questionnaire 2026-09-26",
+    "pack_number": null,
+    "section": "WAR-58",
+    "title": "The Sacrament cell is under the Grand Church in Altherion",
+    "status": "live",
+    "kind": "definition",
+    "summary": "The Sacrament cell stays under the Grand Church in Altherion.",
+    "verbatim": "The Sacrament cell stays under the Grand Church in Altherion; the scene stands.",
+    "amends": [
+      {
+        "guide": "NATALIE.md and the wotr-write skill",
+        "locus": "NATALIE.md and the wotr-write skill",
+        "operation": "adds"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "worldbuilding"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-26, Claude Code chat: ruled directly (the queue questionnaire)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "",
+    "superseded_by": []
+  },
+  {
+    "id": "R54-35-CONJUNCTION_UNNAMED",
+    "pack": "Queue Questionnaire 2026-09-26",
+    "pack_number": null,
+    "section": "WAR-58",
+    "title": "The Sacrament's third Wellspring stays unnamed",
+    "status": "live",
+    "kind": "ban",
+    "summary": "The Sacrament's third Wellspring stays out of the prose until decided.",
+    "verbatim": "Conjunction stays unnamed: the Sacrament's third Wellspring stays out of the prose until decided.",
+    "amends": [
+      {
+        "guide": "NATALIE.md and the wotr-write skill",
+        "locus": "NATALIE.md and the wotr-write skill",
+        "operation": "adds"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "worldbuilding",
+      "magic-mechanism"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-26, Claude Code chat: ruled directly (the queue questionnaire)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "",
+    "superseded_by": []
+  },
+  {
+    "id": "R54-36-MAHOU_AND_MAHUO",
+    "pack": "Queue Questionnaire 2026-09-26",
+    "pack_number": null,
+    "section": "WAR-98",
+    "title": "Mahou is the institution, Mahuo the surname",
+    "status": "live",
+    "kind": "definition",
+    "summary": "Mahou names the line as an institution; Mahuo is the surname a person bears.",
+    "verbatim": "Both forms are real: Mahou is the line as an institution, Mahuo the surname a person bears; the Mahuo Family page states the distinction; future documents follow the Accord's usage.",
+    "amends": [
+      {
+        "guide": "NATALIE.md and the wotr-write skill",
+        "locus": "NATALIE.md and the wotr-write skill",
+        "operation": "adds"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "naming",
+      "worldbuilding"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-26, Claude Code chat: ruled directly (the queue questionnaire)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "",
+    "superseded_by": []
+  },
+  {
+    "id": "R54-37-ZARRON_STRUCK",
+    "pack": "Queue Questionnaire 2026-09-26",
+    "pack_number": null,
+    "section": "WAR-99",
+    "title": "Zarron Mahuo is removed from canon",
+    "status": "live",
+    "kind": "ban",
+    "summary": "Zarron Mahuo is struck from canon and no page cites him.",
+    "verbatim": "Zarron Mahuo is retconned: removed from canon. His card is struck and every page that cites him is cleaned (Mahuo Family roster, rulings references, scenes).",
+    "amends": [
+      {
+        "guide": "NATALIE.md and the wotr-write skill",
+        "locus": "NATALIE.md and the wotr-write skill",
+        "operation": "adds"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "worldbuilding"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-26, Claude Code chat: ruled directly (the queue questionnaire)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "",
+    "superseded_by": []
+  },
+  {
+    "id": "R54-38-BLEND_FAMILY_MAY_DIFFER",
+    "pack": "Queue Questionnaire 2026-09-26",
+    "pack_number": null,
+    "section": "WAR-146",
+    "title": "A blend's Family may differ from its Wellsprings'",
+    "status": "live",
+    "kind": "definition",
+    "summary": "An alchemical formula's Family may differ from its Wellsprings' Families.",
+    "verbatim": "Yes: a blend's Family may differ from its Wellsprings' Families; both Alchemical Index rows stand as drafted.",
+    "amends": [
+      {
+        "guide": "NATALIE.md and the wotr-write skill",
+        "locus": "NATALIE.md and the wotr-write skill",
+        "operation": "adds"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "codex",
+      "items"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-26, Claude Code chat: ruled directly (the queue questionnaire)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "",
+    "superseded_by": []
+  },
+  {
+    "id": "R54-39-FORMULA_MAY_INVERT_GLYPH",
+    "pack": "Queue Questionnaire 2026-09-26",
+    "pack_number": null,
+    "section": "WAR-147",
+    "title": "A formula may invert its glyph, and says so",
+    "status": "live",
+    "kind": "mandate",
+    "summary": "An alchemical formula may invert or misuse its glyph, and its row says so.",
+    "verbatim": "Yes, and say so: a formula may invert its glyph; each of the four rows (Thundercrack Grenade, Command Brand Iron, Ashfang Venom Vial, Slag-Iron Caustic) gains a short note that it inverts or misuses its glyph.",
+    "amends": [
+      {
+        "guide": "NATALIE.md and the wotr-write skill",
+        "locus": "NATALIE.md and the wotr-write skill",
+        "operation": "adds"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "codex",
+      "items"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-26, Claude Code chat: ruled directly (the queue questionnaire)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "",
+    "superseded_by": []
+  },
+  {
+    "id": "R54-4-FORMULA_WHOLE_OUTPUT_ONLY",
+    "pack": "Queue Questionnaire 2026-09-26",
+    "pack_number": null,
+    "section": "WAR-102",
+    "title": "AU/s = Flux Density × η corrects only a single whole-output figure",
+    "status": "live",
+    "kind": "definition",
+    "summary": "A card that splits its output into a measured part and an unmeasured part is left as written; the formula corrects only a single whole-output AU/s.",
+    "verbatim": "Dougou: leave the split output as written (3,900 AU/s external, internal immeasurable); the formula only corrects a single whole-output figure.",
+    "amends": [
+      {
+        "guide": "Fracture of Worlds — The Living System",
+        "locus": "Fracture of Worlds — The Living System",
+        "operation": "adds"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "stats",
+      "character-sheet"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-26, Claude Code chat: ruled directly (the queue questionnaire)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "",
+    "superseded_by": []
+  },
+  {
+    "id": "R54-40-HIGHEST_CLASS_INGREDIENT",
+    "pack": "Queue Questionnaire 2026-09-26",
+    "pack_number": null,
+    "section": "WAR-148",
+    "title": "The highest-class ingredient sets a formula's Provenance Class",
+    "status": "live",
+    "kind": "definition",
+    "summary": "A formula's Provenance Class is its highest-class ingredient's.",
+    "verbatim": "The highest-class ingredient sets a formula's Provenance Class: Skyfire Pulse Vial moves to Class V; Deep Grid Mortar's oath-bone ash is classed like Granite-Bone's; the page and its intro count are corrected.",
+    "amends": [
+      {
+        "guide": "NATALIE.md and the wotr-write skill",
+        "locus": "NATALIE.md and the wotr-write skill",
+        "operation": "adds"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "codex",
+      "items"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-26, Claude Code chat: ruled directly (the queue questionnaire)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "",
+    "superseded_by": []
+  },
+  {
+    "id": "R54-41-LIVING_HAIR_CLASS_III",
+    "pack": "Queue Questionnaire 2026-09-26",
+    "pack_number": null,
+    "section": "WAR-148",
+    "title": "Hair from a living person is Class III",
+    "status": "live",
+    "kind": "definition",
+    "summary": "Hair from a living person is Class III, Vital Draw.",
+    "verbatim": "Hair from a living person is Class III, Vital Draw: Echo-Bloom moves up to Class III; Somnum Flow stands.",
+    "amends": [
+      {
+        "guide": "NATALIE.md and the wotr-write skill",
+        "locus": "NATALIE.md and the wotr-write skill",
+        "operation": "adds"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "codex",
+      "items"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-26, Claude Code chat: ruled directly (the queue questionnaire)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "",
+    "superseded_by": []
+  },
+  {
+    "id": "R54-42-LIVING_CRYSTAL_BLOOD_CLASS_IV",
+    "pack": "Queue Questionnaire 2026-09-26",
+    "pack_number": null,
+    "section": "WAR-149",
+    "title": "Blood from a living Crystal bearer is Class IV",
+    "status": "live",
+    "kind": "definition",
+    "summary": "Blood drawn from a living Soul Crystal bearer is Class IV, Crystal Draw.",
+    "verbatim": "Blood drawn from a living Soul Crystal bearer is Class IV, Crystal Draw: Edgetruth Whetstone Oil, Beastheart Serum and Excision Bloodletting Needles become Class IV; Dominion Brand Oil stays IV.",
+    "amends": [
+      {
+        "guide": "NATALIE.md and the wotr-write skill",
+        "locus": "NATALIE.md and the wotr-write skill",
+        "operation": "adds"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "codex",
+      "items"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-26, Claude Code chat: ruled directly (the queue questionnaire)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "",
+    "superseded_by": []
+  },
+  {
+    "id": "R54-43-COLLAPSED_STAR_CLASS_VI",
+    "pack": "Queue Questionnaire 2026-09-26",
+    "pack_number": null,
+    "section": "WAR-149",
+    "title": "Collapsed-star residue is Class VI",
+    "status": "live",
+    "kind": "definition",
+    "summary": "Collapsed-star residue is Class VI, Archonic Residue.",
+    "verbatim": "Collapsed-star residue is Class VI, Archonic Residue: found matter with no locatable origin, priced at the top of the scale.",
+    "amends": [
+      {
+        "guide": "NATALIE.md and the wotr-write skill",
+        "locus": "NATALIE.md and the wotr-write skill",
+        "operation": "adds"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "codex",
+      "items"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-26, Claude Code chat: ruled directly (the queue questionnaire)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "",
+    "superseded_by": []
+  },
+  {
+    "id": "R54-5-DECIMALS_AS_COMPUTED",
+    "pack": "Queue Questionnaire 2026-09-26",
+    "pack_number": null,
+    "section": "WAR-102,WAR-141",
+    "title": "Computed figures are written exactly, decimal included",
+    "status": "live",
+    "kind": "mandate",
+    "summary": "A figure computed by a ruling is written as computed, with its decimal, not rounded to a whole number.",
+    "verbatim": "Decimals: write figures exactly as computed, with the decimal (Naori 147.9 EU, Artemis 1,663.2 AU/s, etc.).",
+    "amends": [
+      {
+        "guide": "Fracture of Worlds — The Living System",
+        "locus": "Fracture of Worlds — The Living System",
+        "operation": "adds"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "stats",
+      "character-sheet"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-26, Claude Code chat: ruled directly (the queue questionnaire)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "",
+    "superseded_by": []
+  },
+  {
+    "id": "R54-6-KEEP_THE_CARDS_FORM",
+    "pack": "Queue Questionnaire 2026-09-26",
+    "pack_number": null,
+    "section": "WAR-102",
+    "title": "A corrected figure keeps the card's form",
+    "status": "live",
+    "kind": "procedure",
+    "summary": "A correction keeps the form the card wrote the figure in: a range stays a range, an approximate base stays approximate.",
+    "verbatim": "Keep the card's form: Elion's output becomes the range 6.768-7.332 million AU/s; Sodoku's line becomes '~772.8 base'.",
+    "amends": [
+      {
+        "guide": "Character cards, NATALIE.md and the wotr-npc skill",
+        "locus": "Character cards, NATALIE.md and the wotr-npc skill",
+        "operation": "adds"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "stats",
+      "character-sheet"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-26, Claude Code chat: ruled directly (the queue questionnaire)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "",
+    "superseded_by": []
+  },
+  {
+    "id": "R54-7-TABLE_QUOTING_CARDS_FOLLOW",
+    "pack": "Queue Questionnaire 2026-09-26",
+    "pack_number": null,
+    "section": "WAR-138,WAR-151",
+    "title": "A card that quotes the Tier table's η follows the table",
+    "status": "live",
+    "kind": "definition",
+    "summary": "A card whose η is stated as the Tier of Standing table's figure reads whatever the table says for its Stage; its dependent figures are recomputed to stay consistent.",
+    "verbatim": "Follow the table: cards that quote the Tier table's eta read whatever the table says for their Stage (0.60-0.70 at VI-VII now); Yoko's output/flux recomputed to stay consistent.",
+    "amends": [
+      {
+        "guide": "Fracture of Worlds — The Living System",
+        "locus": "Fracture of Worlds — The Living System",
+        "operation": "adds"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "stats",
+      "character-sheet"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-26, Claude Code chat: ruled directly (the queue questionnaire)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "",
+    "superseded_by": []
+  },
+  {
+    "id": "R54-8-UNMEASURED_FROM_ZENITH",
+    "pack": "Queue Questionnaire 2026-09-26",
+    "pack_number": null,
+    "section": "WAR-142",
+    "title": "Force is unmeasured from Zenith up; the Zenith row sits beside the Grade ladder",
+    "status": "live",
+    "kind": "definition",
+    "summary": "Stage XV keeps the EX+ Grade label but its force is unmeasured like Zenith; the Zenith row stands beside the Grade ladder, not on it.",
+    "verbatim": "Unmeasured from Zenith: Stage XV keeps its EX+ Grade label, but its force is unmeasured like Zenith's; the Zenith row sits beside the Grade ladder, not on it.",
+    "amends": [
+      {
+        "guide": "Fracture of Worlds — The Living System",
+        "locus": "Fracture of Worlds — The Living System",
+        "operation": "adds"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "stats",
+      "adjudication",
+      "combat"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-26, Claude Code chat: ruled directly (the queue questionnaire)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "",
+    "superseded_by": []
+  },
+  {
+    "id": "R54-9-STRIKE_FORCE_OUTLIERS_STAND",
+    "pack": "Queue Questionnaire 2026-09-26",
+    "pack_number": null,
+    "section": "WAR-49,WAR-62",
+    "title": "A card's Strike Force outside its Stage's band stands as that character's outlier",
+    "status": "live",
+    "kind": "definition",
+    "summary": "A card's stated Strike Force that sits outside its Stage's Max Grade band stands as that character's own outlier; no card changes.",
+    "verbatim": "Card figure governs: each of the twelve Strike Force figures stands as that character's own outlier; no card changes.",
+    "amends": [
+      {
+        "guide": "Fracture of Worlds — The Living System",
+        "locus": "Fracture of Worlds — The Living System",
+        "operation": "adds"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "stats",
+      "combat",
+      "adjudication"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-26, Claude Code chat: ruled directly (the queue questionnaire)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "",
+    "superseded_by": []
+  },
+  {
+    "id": "R55-01-ESSENCE_ENGINES",
+    "pack": "Era and Apparatus Law 2026-09-26",
+    "pack_number": null,
+    "section": "Era and apparatus",
+    "title": "Essence Engines",
+    "status": "live",
+    "kind": "mandate",
+    "summary": "Prime power: Essence engines. Draw-fed engines replace coal and steam outright; the main and the meter are the industrial revolution.",
+    "verbatim": "Prime power: Essence engines. Draw-fed engines replace coal and steam outright; the main and the meter are the industrial revolution.",
+    "amends": [],
+    "supersedes": [],
+    "applies_to": [
+      "worldbuilding"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-26, Claude Code chat: ruled directly (era and apparatus questionnaire)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "",
+    "superseded_by": []
+  },
+  {
+    "id": "R55-02-NO_ELECTRICITY",
+    "pack": "Era and Apparatus Law 2026-09-26",
+    "pack_number": null,
+    "section": "Era and apparatus",
+    "title": "No Electricity",
+    "status": "live",
+    "kind": "mandate",
+    "summary": "Electricity: Essence replaces it. Electricity was never discovered as a separate force; the Essence lamp and main fill its place.",
+    "verbatim": "Electricity: Essence replaces it. Electricity was never discovered as a separate force; the Essence lamp and main fill its place.",
+    "amends": [],
+    "supersedes": [],
+    "applies_to": [
+      "worldbuilding"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-26, Claude Code chat: ruled directly (era and apparatus questionnaire)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "",
+    "superseded_by": []
+  },
+  {
+    "id": "R55-03-WIRE_AND_TELEPHONE",
+    "pack": "Era and Apparatus Law 2026-09-26",
+    "pack_number": null,
+    "section": "Era and apparatus",
+    "title": "Wire And Telephone",
+    "status": "live",
+    "kind": "mandate",
+    "summary": "Communication: the telegraph wire everywhere the Guild runs, plus telephones in Guild offices and rich houses in the big cities.",
+    "verbatim": "Communication: the telegraph wire everywhere the Guild runs, plus telephones in Guild offices and rich houses in the big cities.",
+    "amends": [],
+    "supersedes": [],
+    "applies_to": [
+      "worldbuilding"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-26, Claude Code chat: ruled directly (era and apparatus questionnaire)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "",
+    "superseded_by": []
+  },
+  {
+    "id": "R55-04-VEHICLES",
+    "pack": "Era and Apparatus Law 2026-09-26",
+    "pack_number": null,
+    "section": "Era and apparatus",
+    "title": "Vehicles",
+    "status": "live",
+    "kind": "mandate",
+    "summary": "Vehicles: rail and city trams, motorcars, airships and aircraft all exist across the span, and WOTR also has vehicles and objects of its own invention.",
+    "verbatim": "Vehicles: rail and city trams, motorcars, airships and aircraft all exist across the span, and WOTR also has vehicles and objects of its own invention.",
+    "amends": [],
+    "supersedes": [],
+    "applies_to": [
+      "worldbuilding"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-26, Claude Code chat: ruled directly (era and apparatus questionnaire)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "",
+    "superseded_by": []
+  },
+  {
+    "id": "R55-05-STEEP_REGIONAL_GRADIENT",
+    "pack": "Era and Apparatus Law 2026-09-26",
+    "pack_number": null,
+    "section": "Era and apparatus",
+    "title": "Steep Regional Gradient",
+    "status": "live",
+    "kind": "mandate",
+    "summary": "Regional gradient: steep. Accord and Guild cities live in the late span, the provinces decades behind, the north (Kharven) in the early 1800s; a traveller moves through time.",
+    "verbatim": "Regional gradient: steep. Accord and Guild cities live in the late span, the provinces decades behind, the north (Kharven) in the early 1800s; a traveller moves through time.",
+    "amends": [],
+    "supersedes": [],
+    "applies_to": [
+      "worldbuilding"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-26, Claude Code chat: ruled directly (era and apparatus questionnaire)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "",
+    "superseded_by": []
+  },
+  {
+    "id": "R55-06-MEDIA",
+    "pack": "Era and Apparatus Law 2026-09-26",
+    "pack_number": null,
+    "section": "Era and apparatus",
+    "title": "Media",
+    "status": "live",
+    "kind": "mandate",
+    "summary": "Media: newspapers and a penny press, photography, moving pictures and recorded sound all exist (the later ones in the later span and the richer places).",
+    "verbatim": "Media: newspapers and a penny press, photography, moving pictures and recorded sound all exist (the later ones in the later span and the richer places).",
+    "amends": [],
+    "supersedes": [],
+    "applies_to": [
+      "worldbuilding"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-26, Claude Code chat: ruled directly (era and apparatus questionnaire)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "",
+    "superseded_by": []
+  },
+  {
+    "id": "R55-07-VICTORIAN_EDWARDIAN_CITY",
+    "pack": "Era and Apparatus Law 2026-09-26",
+    "pack_number": null,
+    "section": "Era and apparatus",
+    "title": "Victorian Edwardian City",
+    "status": "live",
+    "kind": "mandate",
+    "summary": "The big city is Victorian-Edwardian: brick and stone, four to six storeys, tenements and terraces, glass arcades, Essence-lit streets, iron bridges.",
+    "verbatim": "The big city is Victorian-Edwardian: brick and stone, four to six storeys, tenements and terraces, glass arcades, Essence-lit streets, iron bridges.",
+    "amends": [],
+    "supersedes": [],
+    "applies_to": [
+      "worldbuilding"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-26, Claude Code chat: ruled directly (era and apparatus questionnaire)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "",
+    "superseded_by": []
+  },
+  {
+    "id": "R55-08-CLASS_LAYERED_DRESS",
+    "pack": "Era and Apparatus Law 2026-09-26",
+    "pack_number": null,
+    "section": "Era and apparatus",
+    "title": "Class Layered Dress",
+    "status": "live",
+    "kind": "mandate",
+    "summary": "Dress is class-layered: the rich dress late-span (Edwardian to 1920s), the middle mid-Victorian, the poor in timeless work clothes, each culture bent by its Inventory.",
+    "verbatim": "Dress is class-layered: the rich dress late-span (Edwardian to 1920s), the middle mid-Victorian, the poor in timeless work clothes, each culture bent by its Inventory.",
+    "amends": [],
+    "supersedes": [],
+    "applies_to": [
+      "worldbuilding",
+      "standing-inventory"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-26, Claude Code chat: ruled directly (era and apparatus questionnaire)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "",
+    "superseded_by": []
+  },
+  {
+    "id": "R55-09-ESSENCE_WORKS",
+    "pack": "Era and Apparatus Law 2026-09-26",
+    "pack_number": null,
+    "section": "Era and apparatus",
+    "title": "Essence Works",
+    "status": "live",
+    "kind": "mandate",
+    "summary": "Making: clean, humming Essence works and mills; mass production exists, and the grime is in the working conditions, not the air.",
+    "verbatim": "Making: clean, humming Essence works and mills; mass production exists, and the grime is in the working conditions, not the air.",
+    "amends": [],
+    "supersedes": [],
+    "applies_to": [
+      "worldbuilding"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-26, Claude Code chat: ruled directly (era and apparatus questionnaire)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "",
+    "superseded_by": []
+  },
+  {
+    "id": "R55-1-SUBSTANCE_COSTS_PERMANENT",
+    "pack": "System Accounts Questionnaire 2026-09-26",
+    "pack_number": null,
+    "section": "Dirge Ascension; Final Mercy; Imprinta",
+    "title": "Costs paid in the practitioner's own substance are permanent",
+    "status": "live",
+    "kind": "definition",
+    "summary": "A cost paid in Crystal mass, memory or Essence Core is permanent and cumulative, with a hard lifetime limit.",
+    "verbatim": "Costs paid in the practitioner's own substance (Crystal mass, memory, Essence Core) are permanent and cumulative, with a hard lifetime limit; Imprinta states a cut to maximum reserve.",
+    "amends": [
+      {
+        "guide": "Ability and Technique Design Guide",
+        "locus": "Ability and Technique Design Guide",
+        "operation": "adds"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "magic-design",
+      "magic-mechanism"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-26, Claude Code chat: ruled directly (the system-accounts questionnaire)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "",
+    "superseded_by": []
+  },
+  {
+    "id": "R55-10-HOUSEHOLD",
+    "pack": "Era and Apparatus Law 2026-09-26",
+    "pack_number": null,
+    "section": "Era and apparatus",
+    "title": "Household",
+    "status": "live",
+    "kind": "mandate",
+    "summary": "Household: Essence cold-boxes in metered houses, a real ice trade and iceboxes, tinned food, and indoor plumbing in the rich districts; the poor salt, smoke, cellar and use privies and standpipes.",
+    "verbatim": "Household: Essence cold-boxes in metered houses, a real ice trade and iceboxes, tinned food, and indoor plumbing in the rich districts; the poor salt, smoke, cellar and use privies and standpipes.",
+    "amends": [],
+    "supersedes": [],
+    "applies_to": [
+      "worldbuilding",
+      "standing-inventory"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-26, Claude Code chat: ruled directly (era and apparatus questionnaire)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "",
+    "superseded_by": []
+  },
+  {
+    "id": "R55-10-VOHRIN_TWO_LEVELS",
+    "pack": "System Accounts Questionnaire 2026-09-26",
+    "pack_number": null,
+    "section": "Hunter's Breath; Maw of Crystalline Stasis; Bloodbind Surge; Cryost Ascendant",
+    "title": "Vohrin is one power at Titan and Wellspring level",
+    "status": "live",
+    "kind": "definition",
+    "summary": "Vohrin is one power at two levels, Titan and Wellspring; frost workings drawing on it are Titan-derived.",
+    "verbatim": "Vohrin is one power at two levels, Titan and Wellspring; the four frost workings become Titan-derived, likely raising their standing and cost.",
+    "amends": [
+      {
+        "guide": "Ability and Technique Design Guide",
+        "locus": "Ability and Technique Design Guide",
+        "operation": "adds"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "magic-mechanism",
+      "worldbuilding",
+      "codex"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-26, Claude Code chat: ruled directly (the system-accounts questionnaire)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "",
+    "superseded_by": []
+  },
+  {
+    "id": "R55-11-MATERIALS",
+    "pack": "Era and Apparatus Law 2026-09-26",
+    "pack_number": null,
+    "section": "Era and apparatus",
+    "title": "Materials",
+    "status": "live",
+    "kind": "mandate",
+    "summary": "Materials: cheap steel and iron, rubber and gutta-percha, early plastics in the late span, and the Master Material Ledger's Essence-born materials alongside them.",
+    "verbatim": "Materials: cheap steel and iron, rubber and gutta-percha, early plastics in the late span, and the Master Material Ledger's Essence-born materials alongside them.",
+    "amends": [],
+    "supersedes": [],
+    "applies_to": [
+      "worldbuilding",
+      "items"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-26, Claude Code chat: ruled directly (era and apparatus questionnaire)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "",
+    "superseded_by": []
+  },
+  {
+    "id": "R55-12-TRANSITIONAL_MILITARY",
+    "pack": "Era and Apparatus Law 2026-09-26",
+    "pack_number": null,
+    "section": "Era and apparatus",
+    "title": "Transitional Military",
+    "status": "live",
+    "kind": "mandate",
+    "summary": "Military: transitional. Cavalry, bright uniforms and drill in the early span; khaki, trenches and rare machine guns later; practitioners change everything anyway.",
+    "verbatim": "Military: transitional. Cavalry, bright uniforms and drill in the early span; khaki, trenches and rare machine guns later; practitioners change everything anyway.",
+    "amends": [],
+    "supersedes": [],
+    "applies_to": [
+      "worldbuilding",
+      "combat",
+      "mass-combat"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-26, Claude Code chat: ruled directly (era and apparatus questionnaire)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "",
+    "superseded_by": []
+  },
+  {
+    "id": "R55-13-TIMEKEEPING",
+    "pack": "Era and Apparatus Law 2026-09-26",
+    "pack_number": null,
+    "section": "Era and apparatus",
+    "title": "Timekeeping",
+    "status": "live",
+    "kind": "mandate",
+    "summary": "Time: pocket watches for the middle class up, a standard Guild time spreading along wire and rail, bells and the sun in the country.",
+    "verbatim": "Time: pocket watches for the middle class up, a standard Guild time spreading along wire and rail, bells and the sun in the country.",
+    "amends": [],
+    "supersedes": [],
+    "applies_to": [
+      "worldbuilding"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-26, Claude Code chat: ruled directly (era and apparatus questionnaire)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "",
+    "superseded_by": []
+  },
+  {
+    "id": "R55-14-HEAVY_BUREAUCRACY",
+    "pack": "Era and Apparatus Law 2026-09-26",
+    "pack_number": null,
+    "section": "Era and apparatus",
+    "title": "Heavy Bureaucracy",
+    "status": "live",
+    "kind": "mandate",
+    "summary": "Bureaucracy: heavy. Forms, permits, stamps, registers, typewriters and carbon copies; the Guild is a paper empire.",
+    "verbatim": "Bureaucracy: heavy. Forms, permits, stamps, registers, typewriters and carbon copies; the Guild is a paper empire.",
+    "amends": [],
+    "supersedes": [],
+    "applies_to": [
+      "worldbuilding"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-26, Claude Code chat: ruled directly (era and apparatus questionnaire)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "",
+    "superseded_by": []
+  },
+  {
+    "id": "R55-15-LEISURE",
+    "pack": "Era and Apparatus Law 2026-09-26",
+    "pack_number": null,
+    "section": "Era and apparatus",
+    "title": "Leisure",
+    "status": "live",
+    "kind": "mandate",
+    "summary": "Leisure: theatre and music hall, sport and spectacle (racing, prize-fighting, practitioner exhibitions), cafes, clubs and reading rooms, pleasure gardens and fairs.",
+    "verbatim": "Leisure: theatre and music hall, sport and spectacle (racing, prize-fighting, practitioner exhibitions), cafes, clubs and reading rooms, pleasure gardens and fairs.",
+    "amends": [],
+    "supersedes": [],
+    "applies_to": [
+      "worldbuilding"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-26, Claude Code chat: ruled directly (era and apparatus questionnaire)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "",
+    "superseded_by": []
+  },
+  {
+    "id": "R55-16-APPARATUS_PAGES",
+    "pack": "Era and Apparatus Law 2026-09-26",
+    "pack_number": null,
+    "section": "Era and apparatus",
+    "title": "Apparatus Pages",
+    "status": "live",
+    "kind": "procedure",
+    "summary": "These answers are folded into The Apparatus of the Age and The Works and Days as settled text with a regional gradient section; still no decade-by-decade table.",
+    "verbatim": "These answers are folded into The Apparatus of the Age and The Works and Days as settled text with a regional gradient section; still no decade-by-decade table.",
+    "amends": [],
+    "supersedes": [],
+    "applies_to": [
+      "worldbuilding",
+      "documents"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-26, Claude Code chat: ruled directly (era and apparatus questionnaire)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "",
+    "superseded_by": []
+  },
+  {
+    "id": "R55-2-OVERCHANNEL_DAMAGE_ACCUMULATES",
+    "pack": "System Accounts Questionnaire 2026-09-26",
+    "pack_number": null,
+    "section": "Spinal Forge Ascent",
+    "title": "Overchannel damage accumulates and becomes permanent",
+    "status": "live",
+    "kind": "definition",
+    "summary": "A working carrying the Overchannel penalty accumulates damage with use, eventually permanent.",
+    "verbatim": "Spinal Forge Ascent carries the Overchannel penalty: damage accumulates with use and eventually becomes permanent.",
+    "amends": [
+      {
+        "guide": "Ability and Technique Design Guide",
+        "locus": "Ability and Technique Design Guide",
+        "operation": "adds"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "magic-mechanism"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-26, Claude Code chat: ruled directly (the system-accounts questionnaire)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "",
+    "superseded_by": []
+  },
+  {
+    "id": "R55-3-SOUL_DRIFT_SCALE",
+    "pack": "System Accounts Questionnaire 2026-09-26",
+    "pack_number": null,
+    "section": "The Veil",
+    "title": "Soul Drift is scaled with named thresholds",
+    "status": "live",
+    "kind": "definition",
+    "summary": "Soul Drift runs on a scale with named threshold stages; each Veil crossing adds by depth and duration.",
+    "verbatim": "Soul Drift gets a scale with named threshold stages; each Veil crossing adds an amount set by depth and duration.",
+    "amends": [
+      {
+        "guide": "Ability and Technique Design Guide",
+        "locus": "Ability and Technique Design Guide",
+        "operation": "adds"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "magic-mechanism"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-26, Claude Code chat: ruled directly (the system-accounts questionnaire)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "",
+    "superseded_by": []
+  },
+  {
+    "id": "R55-4-SPLINTERING_EXPERT_BAND",
+    "pack": "System Accounts Questionnaire 2026-09-26",
+    "pack_number": null,
+    "section": "Transposition; Veil of Verdant Pact",
+    "title": "Splintering takes the Expert efficiency band",
+    "status": "live",
+    "kind": "definition",
+    "summary": "Stage V reads the Expert row's η of 0.60–0.70.",
+    "verbatim": "Splintering takes the 0.60-0.70 efficiency band; the whole Expert row reads 0.60-0.70.",
+    "amends": [
+      {
+        "guide": "Fracture of Worlds — The Living System",
+        "locus": "Fracture of Worlds — The Living System",
+        "operation": "adds"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "stats",
+      "magic-mechanism"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-26, Claude Code chat: ruled directly (the system-accounts questionnaire)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "",
+    "superseded_by": []
+  },
+  {
+    "id": "R55-5-HYPNATHER_CORE_LAW",
+    "pack": "System Accounts Questionnaire 2026-09-26",
+    "pack_number": null,
+    "section": "Oblivion-Step (and every Hypnather working)",
+    "title": "Hypnather's Core Law: cannot be forced by ordinary means",
+    "status": "live",
+    "kind": "definition",
+    "summary": "Hypnather's Core Law reads 'cannot be forced by ordinary means'.",
+    "verbatim": "Hypnather's Core Law becomes 'cannot be forced by ordinary means'; Oblivion-Step stays at will, each use an interrupted rest that wears the Crystal.",
+    "amends": [
+      {
+        "guide": "Ability and Technique Design Guide",
+        "locus": "Ability and Technique Design Guide",
+        "operation": "adds"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "magic-mechanism",
+      "codex"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-26, Claude Code chat: ruled directly (the system-accounts questionnaire)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "",
+    "superseded_by": []
+  },
+  {
+    "id": "R55-6-STANDING_CONDITION_DURABLE",
+    "pack": "System Accounts Questionnaire 2026-09-26",
+    "pack_number": null,
+    "section": "Edictum",
+    "title": "Spellcraft that produces a standing condition holds without upkeep",
+    "status": "live",
+    "kind": "definition",
+    "summary": "Spellcraft whose product is a standing condition holds without upkeep.",
+    "verbatim": "Spellcraft whose product is a standing condition is durable (Edictum holds without upkeep); state this in the Four Crafts.",
+    "amends": [
+      {
+        "guide": "Ability and Technique Design Guide",
+        "locus": "Ability and Technique Design Guide",
+        "operation": "adds"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "magic-mechanism",
+      "magic-design"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-26, Claude Code chat: ruled directly (the system-accounts questionnaire)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "",
+    "superseded_by": []
+  },
+  {
+    "id": "R55-7-HARMONIC_IMMUNITY_BY_STAGE",
+    "pack": "System Accounts Questionnaire 2026-09-26",
+    "pack_number": null,
+    "section": "Harmonic Null-Ascension; Celestial Harmonic Shear; Celestial Decree; Obelisk",
+    "title": "Harmonic immunity: the caster's Stage or higher",
+    "status": "live",
+    "kind": "definition",
+    "summary": "Anyone at the caster's Stage or higher is immune to these harmonic workings.",
+    "verbatim": "Harmonic immunity bar is Stage: anyone at the caster's Stage or higher is immune, on all four workings.",
+    "amends": [
+      {
+        "guide": "Ability and Technique Design Guide",
+        "locus": "Ability and Technique Design Guide",
+        "operation": "adds"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "magic-mechanism",
+      "combat"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-26, Claude Code chat: ruled directly (the system-accounts questionnaire)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "",
+    "superseded_by": []
+  },
+  {
+    "id": "R55-8-AREA_FRIEND_FOE_BY_ATTENTION",
+    "pack": "System Accounts Questionnaire 2026-09-26",
+    "pack_number": null,
+    "section": "Archivium Locus; Coagula Dominion; Obelisk of the Eclipsed Dawn",
+    "title": "Area workings sort friend from foe by the caster's attention",
+    "status": "live",
+    "kind": "definition",
+    "summary": "An area working spares allies only while the caster's judgement holds; if it slips, allies are caught.",
+    "verbatim": "Area workings sort friend from foe by the caster's judgement/attention; if it slips, allies are caught (Locus, Coagula, Obelisk).",
+    "amends": [
+      {
+        "guide": "Ability and Technique Design Guide",
+        "locus": "Ability and Technique Design Guide",
+        "operation": "adds"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "magic-mechanism",
+      "combat"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-26, Claude Code chat: ruled directly (the system-accounts questionnaire)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "",
+    "superseded_by": []
+  },
+  {
+    "id": "R55-9-PROPOSED_GLYPHS_PROVISIONAL",
+    "pack": "System Accounts Questionnaire 2026-09-26",
+    "pack_number": null,
+    "section": "About twenty-five pages that named no glyph",
+    "title": "Proposed glyphs are provisional",
+    "status": "live",
+    "kind": "procedure",
+    "summary": "A glyph proposed for a page that named none stands as printed but provisional until all 136 glyphs are gathered.",
+    "verbatim": "Proposed glyphs stay as printed but provisional: confirmed or reassigned once all 136 glyphs are gathered and checked.",
+    "amends": [
+      {
+        "guide": "Ability and Technique Design Guide",
+        "locus": "Ability and Technique Design Guide",
+        "operation": "adds"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "codex",
+      "magic-design"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-26, Claude Code chat: ruled directly (the system-accounts questionnaire)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "",
+    "superseded_by": []
+  },
+  {
+    "id": "R56-01-BRUTAL_LETHALITY",
+    "pack": "Combat, Society and Politics Law 2026-09-26",
+    "pack_number": null,
+    "section": "Combat, society and politics",
+    "title": "Brutal Lethality",
+    "status": "live",
+    "kind": "mandate",
+    "summary": "Lethality among ordinary fighters is brutally real: one good cut or a ball in the gut can kill, often days later from infection; most fights end in the first seconds; a wounded man is out of the fight.",
+    "verbatim": "Lethality among ordinary fighters is brutally real: one good cut or a ball in the gut can kill, often days later from infection; most fights end in the first seconds; a wounded man is out of the fight.",
+    "amends": [],
+    "supersedes": [],
+    "applies_to": [
+      "combat",
+      "adjudication"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-26, Claude Code chat: ruled directly (combat, society and politics questionnaire)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "",
+    "superseded_by": []
+  },
+  {
+    "id": "R56-02-REAL_HEALING_TIMES",
+    "pack": "Combat, Society and Politics Law 2026-09-26",
+    "pack_number": null,
+    "section": "Combat, society and politics",
+    "title": "Real Healing Times",
+    "status": "live",
+    "kind": "mandate",
+    "summary": "Healing runs on real timelines (weeks for a cut, months for bone). Vitalia healing can shorten it, but it costs the healer EU and the patient's body pays something (scar tissue, fever, hunger).",
+    "verbatim": "Healing runs on real timelines (weeks for a cut, months for bone). Vitalia healing can shorten it, but it costs the healer EU and the patient's body pays something (scar tissue, fever, hunger).",
+    "amends": [],
+    "supersedes": [],
+    "applies_to": [
+      "combat",
+      "adjudication"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-26, Claude Code chat: ruled directly (combat, society and politics questionnaire)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "",
+    "superseded_by": []
+  },
+  {
+    "id": "R56-03-HARD_RESERVE_CLOCK",
+    "pack": "Combat, Society and Politics Law 2026-09-26",
+    "pack_number": null,
+    "section": "Combat, society and politics",
+    "title": "Hard Reserve Clock",
+    "status": "live",
+    "kind": "mandate",
+    "summary": "Essence and stamina run on a hard clock by the Ledger's numbers; long fights are won by whoever manages the reserve; Starvation hits mid-fight on overspend.",
+    "verbatim": "Essence and stamina run on a hard clock by the Ledger's numbers; long fights are won by whoever manages the reserve; Starvation hits mid-fight on overspend.",
+    "amends": [],
+    "supersedes": [],
+    "applies_to": [
+      "combat",
+      "stats"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-26, Claude Code chat: ruled directly (combat, society and politics questionnaire)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "",
+    "superseded_by": []
+  },
+  {
+    "id": "R56-04-DEATH_IS_PERMANENT",
+    "pack": "Combat, Society and Politics Law 2026-09-26",
+    "pack_number": null,
+    "section": "Combat, society and politics",
+    "title": "Death Is Permanent",
+    "status": "live",
+    "kind": "mandate",
+    "summary": "Death is almost always permanent; the only exceptions are liches, the undead and their kind.",
+    "verbatim": "Death is almost always permanent; the only exceptions are liches, the undead and their kind.",
+    "amends": [],
+    "supersedes": [],
+    "applies_to": [
+      "combat",
+      "worldbuilding"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-26, Claude Code chat: ruled directly (combat, society and politics questionnaire)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "",
+    "superseded_by": []
+  },
+  {
+    "id": "R56-05-COMPANY_THEN_CROWN",
+    "pack": "Combat, Society and Politics Law 2026-09-26",
+    "pack_number": null,
+    "section": "Combat, society and politics",
+    "title": "Company Then Crown",
+    "status": "live",
+    "kind": "mandate",
+    "summary": "Crowns and chartered houses expand together: the company takes the ground, then the crown claims it.",
+    "verbatim": "Crowns and chartered houses expand together: the company takes the ground, then the crown claims it.",
+    "amends": [],
+    "supersedes": [],
+    "applies_to": [
+      "worldbuilding"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-26, Claude Code chat: ruled directly (combat, society and politics questionnaire)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "",
+    "superseded_by": []
+  },
+  {
+    "id": "R56-06-THE_SCRAMBLE",
+    "pack": "Combat, Society and Politics Law 2026-09-26",
+    "pack_number": null,
+    "section": "Combat, society and politics",
+    "title": "The Scramble",
+    "status": "live",
+    "kind": "mandate",
+    "summary": "The scramble is for the commercialisation of monster-hunting (hired hunting parties; guild systems spread rapidly, before the full creation of the Guild Accord, which is a communion of guilds), and for Wells and draw, materials, markets ...",
+    "verbatim": "The scramble is for the commercialisation of monster-hunting (hired hunting parties; guild systems spread rapidly, before the full creation of the Guild Accord, which is a communion of guilds), and for Wells and draw, materials, markets and labour, and routes.",
+    "amends": [],
+    "supersedes": [],
+    "applies_to": [
+      "worldbuilding"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-26, Claude Code chat: ruled directly (combat, society and politics questionnaire)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "",
+    "superseded_by": []
+  },
+  {
+    "id": "R56-07-COMMERCE_ON_THE_PAGE",
+    "pack": "Combat, Society and Politics Law 2026-09-26",
+    "pack_number": null,
+    "section": "Combat, society and politics",
+    "title": "Commerce On The Page",
+    "status": "live",
+    "kind": "mandate",
+    "summary": "Commerce shows on the page as branded goods and advertising, chartered share-holding companies with exchanges, speculation and crashes, arcades and department stores, and consumer Essence goods sold as products.",
+    "verbatim": "Commerce shows on the page as branded goods and advertising, chartered share-holding companies with exchanges, speculation and crashes, arcades and department stores, and consumer Essence goods sold as products.",
+    "amends": [],
+    "supersedes": [],
+    "applies_to": [
+      "worldbuilding",
+      "standing-inventory"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-26, Claude Code chat: ruled directly (combat, society and politics questionnaire)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "",
+    "superseded_by": []
+  },
+  {
+    "id": "R56-08-WHO_PAYS",
+    "pack": "Combat, Society and Politics Law 2026-09-26",
+    "pack_number": null,
+    "section": "Combat, society and politics",
+    "title": "Who Pays",
+    "status": "live",
+    "kind": "mandate",
+    "summary": "The cost of the industrial revolution falls on displaced trades, works labour, the colonised, and unions and unrest.",
+    "verbatim": "The cost of the industrial revolution falls on displaced trades, works labour, the colonised, and unions and unrest.",
+    "amends": [],
+    "supersedes": [],
+    "applies_to": [
+      "worldbuilding"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-26, Claude Code chat: ruled directly (combat, society and politics questionnaire)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "",
+    "superseded_by": []
+  },
+  {
+    "id": "R56-09-ACCORD_FORMING_NOW",
+    "pack": "Combat, Society and Politics Law 2026-09-26",
+    "pack_number": null,
+    "section": "Combat, society and politics",
+    "title": "Accord Forming Now",
+    "status": "live",
+    "kind": "mandate",
+    "summary": "The Guild Accord is forming now, in the story's present.",
+    "verbatim": "The Guild Accord is forming now, in the story's present.",
+    "amends": [],
+    "supersedes": [],
+    "applies_to": [
+      "worldbuilding"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-26, Claude Code chat: ruled directly (combat, society and politics questionnaire)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "",
+    "superseded_by": []
+  },
+  {
+    "id": "R56-1-ZENITH_STRIKE_UNQUANTIFIED",
+    "pack": "Magic Docket Questionnaire 2026-09-26",
+    "pack_number": null,
+    "section": "C-061, C-069",
+    "title": "A Zenith Striking Force is unquantified",
+    "status": "live",
+    "kind": "definition",
+    "summary": "A Stage XIV card states no joule figure for Striking Force; a blow delivers an event the local physics must accommodate.",
+    "verbatim": "Unquantified: the Primate's Striking Force line (:78) becomes Part Eleven's reading, an event the local physics must accommodate. The EX joule band leaves the card. 'No recorded instance' stays.",
+    "amends": [
+      {
+        "guide": "Fracture of Worlds — The Living System",
+        "locus": "Fracture of Worlds — The Living System",
+        "operation": "adds"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "stats",
+      "combat",
+      "character-sheet"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-26, Claude Code chat: ruled directly (the magic docket questionnaire)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "",
+    "superseded_by": []
+  },
+  {
+    "id": "R56-10-AU_S_LADDER_TYPICAL",
+    "pack": "Magic Docket Questionnaire 2026-09-26",
+    "pack_number": null,
+    "section": "WAR-161, AU/s against the cards",
+    "title": "The AU/s ladder is typical ranges",
+    "status": "live",
+    "kind": "definition",
+    "summary": "The AU/s-by-Stage ladder gives typical ranges; card AU/s figures outside it stand as outliers.",
+    "verbatim": "The ladder is typical ranges and the cards stand. The 23 misses stay listed as outliers against the rebuilt ladder.",
+    "amends": [
+      {
+        "guide": "Fracture of Worlds — The Living System",
+        "locus": "Fracture of Worlds — The Living System",
+        "operation": "adds"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "stats",
+      "character-sheet"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-26, Claude Code chat: ruled directly (the magic docket questionnaire)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "",
+    "superseded_by": []
+  },
+  {
+    "id": "R56-10-LICENSED_FOR_HIRE",
+    "pack": "Combat, Society and Politics Law 2026-09-26",
+    "pack_number": null,
+    "section": "Combat, society and politics",
+    "title": "Licensed For Hire",
+    "status": "live",
+    "kind": "mandate",
+    "summary": "Anyone may practise privately, but taking pay for workings or hunts needs a guild licence; unlicensed hunters are cheap and common.",
+    "verbatim": "Anyone may practise privately, but taking pay for workings or hunts needs a guild licence; unlicensed hunters are cheap and common.",
+    "amends": [],
+    "supersedes": [],
+    "applies_to": [
+      "worldbuilding",
+      "magic-design"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-26, Claude Code chat: ruled directly (combat, society and politics questionnaire)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "",
+    "superseded_by": []
+  },
+  {
+    "id": "R56-11-NO_EU_FLOOR",
+    "pack": "Magic Docket Questionnaire 2026-09-26",
+    "pack_number": null,
+    "section": "WAR-161, EU floor",
+    "title": "The EU unit has no floor",
+    "status": "live",
+    "kind": "definition",
+    "summary": "EU figures are written as computed, fractions included; the unit has no floor.",
+    "verbatim": "Leave the fractions: no floor on the unit. Fractions of an EU are written as computed, consistent with the decimals answer (WAR-141).",
+    "amends": [
+      {
+        "guide": "Fracture of Worlds — The Living System",
+        "locus": "Fracture of Worlds — The Living System",
+        "operation": "adds"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "stats"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-26, Claude Code chat: ruled directly (the magic docket questionnaire)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "",
+    "superseded_by": []
+  },
+  {
+    "id": "R56-11-TRACE_EVIDENCE_AND_JURISDICTION",
+    "pack": "Combat, Society and Politics Law 2026-09-26",
+    "pack_number": null,
+    "section": "Combat, society and politics",
+    "title": "Trace Evidence And Jurisdiction",
+    "status": "live",
+    "kind": "mandate",
+    "summary": "A crime done with a working is proved by trace examiners reading its traces as evidence, and guild courts and crown courts fight over jurisdiction.",
+    "verbatim": "A crime done with a working is proved by trace examiners reading its traces as evidence, and guild courts and crown courts fight over jurisdiction.",
+    "amends": [],
+    "supersedes": [],
+    "applies_to": [
+      "worldbuilding",
+      "adjudication"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-26, Claude Code chat: ruled directly (combat, society and politics questionnaire)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "",
+    "superseded_by": []
+  },
+  {
+    "id": "R56-12-AUTHORITY_RADIUS_IS_PPF",
+    "pack": "Magic Docket Questionnaire 2026-09-26",
+    "pack_number": null,
+    "section": "WAR-162, the non-force ladder",
+    "title": "Authority radius is the Passive Pressure Field",
+    "status": "live",
+    "kind": "definition",
+    "summary": "The non-force ladder keys authority radius to the Passive Pressure Field at reference density.",
+    "verbatim": "Keep the reading: the Passive Pressure Field is the authority radius at reference density, and the published ladder stands.",
+    "amends": [
+      {
+        "guide": "Fracture of Worlds — The Living System",
+        "locus": "Fracture of Worlds — The Living System",
+        "operation": "adds"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "stats",
+      "magic-mechanism"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-26, Claude Code chat: ruled directly (the magic docket questionnaire)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "",
+    "superseded_by": []
+  },
+  {
+    "id": "R56-12-PRACTITIONERS_AT_WORK",
+    "pack": "Combat, Society and Politics Law 2026-09-26",
+    "pack_number": null,
+    "section": "Combat, society and politics",
+    "title": "Practitioners At Work",
+    "status": "live",
+    "kind": "mandate",
+    "summary": "Practitioners work as hired hunters, works inscribers, company soldiers, and in private practice.",
+    "verbatim": "Practitioners work as hired hunters, works inscribers, company soldiers, and in private practice.",
+    "amends": [],
+    "supersedes": [],
+    "applies_to": [
+      "worldbuilding"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-26, Claude Code chat: ruled directly (combat, society and politics questionnaire)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "",
+    "superseded_by": []
+  },
+  {
+    "id": "R56-13-THE_GATE",
+    "pack": "Combat, Society and Politics Law 2026-09-26",
+    "pack_number": null,
+    "section": "Combat, society and politics",
+    "title": "The Gate",
+    "status": "live",
+    "kind": "mandate",
+    "summary": "Few people lack a Soul Crystal, commoners included, but knowledge of magic is gatekept by administration: the Imperial Age is when nations lock down which kinds of people may use which magics.",
+    "verbatim": "Few people lack a Soul Crystal, commoners included, but knowledge of magic is gatekept by administration: the Imperial Age is when nations lock down which kinds of people may use which magics.",
+    "amends": [],
+    "supersedes": [],
+    "applies_to": [
+      "worldbuilding",
+      "magic-mechanism"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-26, Claude Code chat: ruled directly (combat, society and politics questionnaire)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "",
+    "superseded_by": []
+  },
+  {
+    "id": "R56-14-DORMANT_CRYSTALS",
+    "pack": "Combat, Society and Politics Law 2026-09-26",
+    "pack_number": null,
+    "section": "Combat, society and politics",
+    "title": "Dormant Crystals",
+    "status": "live",
+    "kind": "mandate",
+    "summary": "A common person's Crystal is dormant for life unless someone trains them.",
+    "verbatim": "A common person's Crystal is dormant for life unless someone trains them.",
+    "amends": [],
+    "supersedes": [],
+    "applies_to": [
+      "worldbuilding",
+      "magic-mechanism"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-26, Claude Code chat: ruled directly (combat, society and politics questionnaire)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "",
+    "superseded_by": []
+  },
+  {
+    "id": "R56-15-WHO_MAY_LEARN",
+    "pack": "Combat, Society and Politics Law 2026-09-26",
+    "pack_number": null,
+    "section": "Combat, society and politics",
+    "title": "Who May Learn",
+    "status": "live",
+    "kind": "mandate",
+    "summary": "Who may learn which magic is decided by natural ability (people are recruited to magical academies and sought out by the guilds), class and birth, nation and loyalty, licence and exam, and bloodline.",
+    "verbatim": "Who may learn which magic is decided by natural ability (people are recruited to magical academies and sought out by the guilds), class and birth, nation and loyalty, licence and exam, and bloodline.",
+    "amends": [],
+    "supersedes": [],
+    "applies_to": [
+      "worldbuilding"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-26, Claude Code chat: ruled directly (combat, society and politics questionnaire)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "",
+    "superseded_by": []
+  },
+  {
+    "id": "R56-16-ENFORCEMENT",
+    "pack": "Combat, Society and Politics Law 2026-09-26",
+    "pack_number": null,
+    "section": "Combat, society and politics",
+    "title": "Enforcement",
+    "status": "live",
+    "kind": "mandate",
+    "summary": "The lockdown is enforced by controlled texts, Crystal registration, inspectors and trace examiners, the Inquisition, and by the guilds, which locally hunt down those who do wrong.",
+    "verbatim": "The lockdown is enforced by controlled texts, Crystal registration, inspectors and trace examiners, the Inquisition, and by the guilds, which locally hunt down those who do wrong.",
+    "amends": [],
+    "supersedes": [],
+    "applies_to": [
+      "worldbuilding"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-26, Claude Code chat: ruled directly (combat, society and politics questionnaire)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "",
+    "superseded_by": []
+  },
+  {
+    "id": "R56-17-LEARNING_ANYWAY",
+    "pack": "Combat, Society and Politics Law 2026-09-26",
+    "pack_number": null,
+    "section": "Combat, society and politics",
+    "title": "Learning Anyway",
+    "status": "live",
+    "kind": "mandate",
+    "summary": "Those who learn anyway: black-market teaching, self-derived workings, the guild loophole (hunting guilds train their own outside the state's gate), and harsh penalties for unlicensed high magic.",
+    "verbatim": "Those who learn anyway: black-market teaching, self-derived workings, the guild loophole (hunting guilds train their own outside the state's gate), and harsh penalties for unlicensed high magic.",
+    "amends": [],
+    "supersedes": [],
+    "applies_to": [
+      "worldbuilding"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-26, Claude Code chat: ruled directly (combat, society and politics questionnaire)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "",
+    "superseded_by": []
+  },
+  {
+    "id": "R56-18-ACCORD_FORMING_IN_CIRCLES",
+    "pack": "Combat, Society and Politics Law 2026-09-26",
+    "pack_number": null,
+    "section": "Combat, society and politics",
+    "title": "Accord Forming In Circles",
+    "status": "live",
+    "kind": "mandate",
+    "summary": "The Guild Accord's pages read as forming in circles: the Articles and Commission framework bind where a circle has signed and not yet elsewhere.",
+    "verbatim": "The Guild Accord's pages read as forming in circles: the Articles and Commission framework bind where a circle has signed and not yet elsewhere.",
+    "amends": [],
+    "supersedes": [],
+    "applies_to": [
+      "worldbuilding",
+      "documents"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-26, Claude Code chat: ruled directly (combat, society and politics questionnaire)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "",
+    "superseded_by": []
+  },
+  {
+    "id": "R56-19-LAYERED_RULE",
+    "pack": "Combat, Society and Politics Law 2026-09-26",
+    "pack_number": null,
+    "section": "Combat, society and politics",
+    "title": "Layered Rule",
+    "status": "live",
+    "kind": "mandate",
+    "summary": "Day-to-day rule is layered: a crown or house holds the land, a chartered company the trade, the guilds the hunters and local policing of magic; each fights the others over jurisdiction, and which layer wins differs by place.",
+    "verbatim": "Day-to-day rule is layered: a crown or house holds the land, a chartered company the trade, the guilds the hunters and local policing of magic; each fights the others over jurisdiction, and which layer wins differs by place.",
+    "amends": [],
+    "supersedes": [],
+    "applies_to": [
+      "worldbuilding"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-26, Claude Code chat: ruled directly (combat, society and politics questionnaire)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "",
+    "superseded_by": []
+  },
+  {
+    "id": "R56-2-ZENITH_SPEED_IMMEASURABLE",
+    "pack": "Magic Docket Questionnaire 2026-09-26",
+    "pack_number": null,
+    "section": "C-065",
+    "title": "A Zenith Travel Speed is Immeasurable",
+    "status": "live",
+    "kind": "definition",
+    "summary": "A Stage XIV card's Travel Speed is Part Six's Immeasurable Speed classification, not a Mach figure.",
+    "verbatim": "Immeasurable: Kinjiki's Travel Speed becomes Part Six's Immeasurable Speed classification, as on the Primate's card. 'Not his instrument' stays as colour, and the Mach figures leave the card.",
+    "amends": [
+      {
+        "guide": "Fracture of Worlds — The Living System",
+        "locus": "Fracture of Worlds — The Living System",
+        "operation": "adds"
+      }
+    ],
+    "supersedes": [
+      "R54-10-KINJIKI_MACH_8"
+    ],
+    "applies_to": [
+      "stats",
+      "combat",
+      "character-sheet"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-26, Claude Code chat: ruled directly (the magic docket questionnaire)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "",
+    "superseded_by": []
+  },
+  {
+    "id": "R56-20-HOW_POWERS_FIGHT",
+    "pack": "Combat, Society and Politics Law 2026-09-26",
+    "pack_number": null,
+    "section": "Combat, society and politics",
+    "title": "How Powers Fight",
+    "status": "live",
+    "kind": "mandate",
+    "summary": "The powers fight by proxy and company wars, open war, economic war and intrigue; WOTR needs distinct conflicting factions with different interests written out.",
+    "verbatim": "The powers fight by proxy and company wars, open war, economic war and intrigue; WOTR needs distinct conflicting factions with different interests written out.",
+    "amends": [],
+    "supersedes": [],
+    "applies_to": [
+      "worldbuilding"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-26, Claude Code chat: ruled directly (combat, society and politics questionnaire)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "",
+    "superseded_by": []
+  },
+  {
+    "id": "R56-21-SUCCESSION_BY_CULTURE",
+    "pack": "Combat, Society and Politics Law 2026-09-26",
+    "pack_number": null,
+    "section": "Combat, society and politics",
+    "title": "Succession By Culture",
+    "status": "live",
+    "kind": "mandate",
+    "summary": "Succession follows each culture's own law, set on its Inventory.",
+    "verbatim": "Succession follows each culture's own law, set on its Inventory.",
+    "amends": [],
+    "supersedes": [],
+    "applies_to": [
+      "worldbuilding",
+      "standing-inventory"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-26, Claude Code chat: ruled directly (combat, society and politics questionnaire)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "",
+    "superseded_by": []
+  },
+  {
+    "id": "R56-22-THE_NIGHT_WATCH",
+    "pack": "Combat, Society and Politics Law 2026-09-26",
+    "pack_number": null,
+    "section": "Factions",
+    "title": "The Night Watch",
+    "status": "live",
+    "kind": "definition",
+    "summary": "The Night Watch is a pre-Guild-Accord investigation unit on illegal magic and phenomena. It is a crown office: it works alongside the guilds but answers to the state.",
+    "verbatim": "The Night Watch is a pre-Guild-Accord investigation unit on illegal magic and phenomena. It is a crown office: it works alongside the guilds but answers to the state.",
+    "amends": [],
+    "supersedes": [],
+    "applies_to": [
+      "worldbuilding"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-26, Claude Code chat: ruled directly (Night Watch and the Mother)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "",
+    "superseded_by": []
+  },
+  {
+    "id": "R56-23-THE_MOTHER",
+    "pack": "Combat, Society and Politics Law 2026-09-26",
+    "pack_number": null,
+    "section": "Factions",
+    "title": "The Mother",
+    "status": "live",
+    "kind": "definition",
+    "summary": "Malphas runs an organization called The Mother, after the mother of vinegar, the living culture that sours everything it is added to. Its cells are cultures; recruits are inoculated. The Greyshaft Nine coldhouse cell is one of them.",
+    "verbatim": "Malphas runs an organization called The Mother, after the mother of vinegar, the living culture that sours everything it is added to. Its cells are cultures; recruits are inoculated. The Greyshaft Nine coldhouse cell is one of them.",
+    "amends": [],
+    "supersedes": [],
+    "applies_to": [
+      "worldbuilding"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-26, Claude Code chat: ruled directly (Night Watch and the Mother)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "",
+    "superseded_by": []
+  },
+  {
+    "id": "R56-24-THE_MOTHER_IS_A_CULT",
+    "pack": "Combat, Society and Politics Law 2026-09-26",
+    "pack_number": null,
+    "section": "Factions",
+    "title": "The Mother Is A Cult",
+    "status": "live",
+    "kind": "definition",
+    "summary": "The Mother is a cult.",
+    "verbatim": "The Mother is a cult.",
+    "amends": [],
+    "supersedes": [],
+    "applies_to": [
+      "worldbuilding"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-26, Claude Code chat: ruled directly (Night Watch and the Mother)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "",
+    "superseded_by": []
+  },
+  {
+    "id": "R56-25-WHAT_MALPHAS_WANTS",
+    "pack": "Combat, Society and Politics Law 2026-09-26",
+    "pack_number": null,
+    "section": "Factions",
+    "title": "What Malphas Wants",
+    "status": "live",
+    "kind": "definition",
+    "summary": "Malphas wants from it: to obtain the unattainable; to feed his backlog (he cannot convert what he holds fast enough); to break the Gate (the state lockdown on who may learn magic); and profit and power.",
+    "verbatim": "Malphas wants from it: to obtain the unattainable; to feed his backlog (he cannot convert what he holds fast enough); to break the Gate (the state lockdown on who may learn magic); and profit and power.",
+    "amends": [],
+    "supersedes": [],
+    "applies_to": [
+      "worldbuilding"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-26, Claude Code chat: ruled directly (Night Watch and the Mother)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "",
+    "superseded_by": []
+  },
+  {
+    "id": "R56-26-NIGHT_WATCH_SOCIETY",
+    "pack": "Combat, Society and Politics Law 2026-09-26",
+    "pack_number": null,
+    "section": "Factions",
+    "title": "Night Watch Society",
+    "status": "live",
+    "kind": "definition",
+    "summary": "The Night Watch Society is one body with the Night Watch: a crown-chartered society. It holds a crown charter and warrant, is organised as chapters (the Timberline among them) with walkers on fixed walks and a bulletin office, answers to...",
+    "verbatim": "The Night Watch Society is one body with the Night Watch: a crown-chartered society. It holds a crown charter and warrant, is organised as chapters (the Timberline among them) with walkers on fixed walks and a bulletin office, answers to the crown, and keeps the Night Register, which takes up what the Lattice Classification Bureau (a separate office) closes. 'The Society's warrant, not the Bureau's' is the crown's warrant as the Society holds it.",
+    "amends": [],
+    "supersedes": [],
+    "applies_to": [
+      "worldbuilding"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-26, Claude Code chat: ruled directly (C-087)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "",
+    "superseded_by": []
+  },
+  {
+    "id": "R56-3-ZENITH_RESERVE_STANDS",
+    "pack": "Magic Docket Questionnaire 2026-09-26",
+    "pack_number": null,
+    "section": "C-060",
+    "title": "A Stage XIV reserve is not an R44-1 error",
+    "status": "live",
+    "kind": "definition",
+    "summary": "A Stage XIV EU reserve has no attack-output band to miss and stands as written.",
+    "verbatim": "Stands, outside R44-1: Stage XIV has no attack-output band to miss, so the Primate's 2,400,000,000 EU reserve is not an error and stays as written.",
+    "amends": [
+      {
+        "guide": "Fracture of Worlds — The Living System",
+        "locus": "Fracture of Worlds — The Living System",
+        "operation": "adds"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "stats",
+      "character-sheet"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-26, Claude Code chat: ruled directly (the magic docket questionnaire)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "",
+    "superseded_by": []
+  },
+  {
+    "id": "R56-4-PAST_THE_GATE_WITH_STRAIN",
+    "pack": "Magic Docket Questionnaire 2026-09-26",
+    "pack_number": null,
+    "section": "C-041",
+    "title": "A Level past its Band gate stands as an outlier with Residual Strain",
+    "status": "live",
+    "kind": "definition",
+    "summary": "A card whose Level stands past a Band gate its Stage has not opened keeps its Level as an in-world outlier and carries standing Residual Strain.",
+    "verbatim": "Anomalies, with Strain: Sodoku (Level 320, Stage VI) and Krothar (Level 380, Stage VIII) keep their Levels as in-world outliers. Each card gains standing Residual Strain from the breach, and Krothar's Band name becomes 'IV — Mythic'.",
+    "amends": [
+      {
+        "guide": "Fracture of Worlds — The Living System",
+        "locus": "Fracture of Worlds — The Living System",
+        "operation": "adds"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "stats",
+      "character-sheet"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-26, Claude Code chat: ruled directly (the magic docket questionnaire)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "",
+    "superseded_by": []
+  },
+  {
+    "id": "R56-5-CARD_ETA_BELOW_BAND_GOVERNS",
+    "pack": "Magic Docket Questionnaire 2026-09-26",
+    "pack_number": null,
+    "section": "C-062",
+    "title": "A card's own η governs below its band too",
+    "status": "live",
+    "kind": "definition",
+    "summary": "A card's own η governs when it sits below its Tier band, as it does above.",
+    "verbatim": "The card's η ~0.55 governs (rung I-2): Draven stands 0.05 under the corrected Tier 5 band, and his seven accounts say so.",
+    "amends": [
+      {
+        "guide": "Fracture of Worlds — The Living System",
+        "locus": "Fracture of Worlds — The Living System",
+        "operation": "adds"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "stats",
+      "character-sheet"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-26, Claude Code chat: ruled directly (the magic docket questionnaire)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "",
+    "superseded_by": []
+  },
+  {
+    "id": "R56-6-EXPERT_ROW_WHOLE_SPAN",
+    "pack": "Magic Docket Questionnaire 2026-09-26",
+    "pack_number": null,
+    "section": "C-063",
+    "title": "The Expert η cell reads across Stages V to VII",
+    "status": "live",
+    "kind": "definition",
+    "summary": "The corrected Tier 5 · Expert cell reads 0.60–0.70 for every Stage it spans, Stage V included.",
+    "verbatim": "Whole row, Stage V included (rung I-1): the corrected Tier 5 · Expert cell reads 0.60–0.70 for Stages V–VII. Fluxus Intervallum, Seraphic Thread Blessing, Veil of Verdant Pact and Transposition's Stage V variant reprice to 30–40% bleed. Karo and Yoko follow the table, per WAR-151.",
+    "amends": [
+      {
+        "guide": "Fracture of Worlds — The Living System",
+        "locus": "Fracture of Worlds — The Living System",
+        "operation": "adds"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "stats",
+      "magic-mechanism"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-26, Claude Code chat: ruled directly (the magic docket questionnaire)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "",
+    "superseded_by": []
+  },
+  {
+    "id": "R56-7-SCALING_PER_ENTITY",
+    "pack": "Magic Docket Questionnaire 2026-09-26",
+    "pack_number": null,
+    "section": "C-072",
+    "title": "Card-wide EU scaling is read per entity",
+    "status": "live",
+    "kind": "procedure",
+    "summary": "A card-wide EU correction applies one factor per person, read wherever that person states a reserve; 'Essence Capacity' counts as a stated reserve.",
+    "verbatim": "Per entity: C-059 applies one factor per person, read from wherever that person states a reserve. 'Essence Capacity' counts as a stated reserve. Dougou's card and Mugen no Hatsurugi take the same factor as The Iron Tree and Muken's card.",
+    "amends": [
+      {
+        "guide": "Fracture of Worlds — The Living System",
+        "locus": "Fracture of Worlds — The Living System",
+        "operation": "adds"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "stats",
+      "character-sheet"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-26, Claude Code chat: ruled directly (the magic docket questionnaire)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "",
+    "superseded_by": []
+  },
+  {
+    "id": "R56-8-LEVEL_LAW_SETS_RESERVE_BAND",
+    "pack": "Magic Docket Questionnaire 2026-09-26",
+    "pack_number": null,
+    "section": "C-076 (WAR-161)",
+    "title": "The Level law sets a Stage's EU reserve band",
+    "status": "live",
+    "kind": "definition",
+    "summary": "A Stage's EU reserve band comes from Part Twenty-Three's law of reserves (Level), not from its Max Grade's joule bracket; Part Nineteen is built off it.",
+    "verbatim": "The Level law governs: Part Nineteen's EU-by-Stage and AU/s-by-Stage tables are rebuilt from Part Twenty-Three's Level law, replacing the Grade-bracket derivation published 2026-09-26.",
+    "amends": [
+      {
+        "guide": "Fracture of Worlds — The Living System",
+        "locus": "Fracture of Worlds — The Living System",
+        "operation": "adds"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "stats",
+      "adjudication",
+      "character-sheet"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-26, Claude Code chat: ruled directly (the magic docket questionnaire)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "",
+    "superseded_by": []
+  },
+  {
+    "id": "R56-9-SCALING_ON_LEVEL_BANDS",
+    "pack": "Magic Docket Questionnaire 2026-09-26",
+    "pack_number": null,
+    "section": "C-059 follow-up",
+    "title": "Card-wide EU scaling reads the Level-law bands",
+    "status": "live",
+    "kind": "procedure",
+    "summary": "Card-wide EU scaling reads the Level-law bands, from each card's pre-scaling figures.",
+    "verbatim": "Re-run on the Level-law bands: the same C-059 method (one factor per entity, set point at the geometric mean of the new band) is recomputed from each card's pre-C-059 figures, so nothing compounds.",
+    "amends": [
+      {
+        "guide": "Fracture of Worlds — The Living System",
+        "locus": "Fracture of Worlds — The Living System",
+        "operation": "adds"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "stats",
+      "character-sheet"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-26, Claude Code chat: ruled directly (the magic docket questionnaire)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "Applied 2026-09-26: Part Twenty-Three reads the gate ceiling as hard and the working band's floor as no floor, so no card's reserve was out of band and the earlier scaling was reverted (reports/eu_card_revert_2026-09-26.md).",
+    "superseded_by": []
+  },
+  {
     "id": "R1-1-BLACK_AGENT_ASSIGNED",
     "pack": "Pack One",
     "pack_number": 1,

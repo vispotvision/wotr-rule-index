@@ -1,0 +1,253 @@
+# Standing rulings, originated: no source document. Isaac ruled directly on
+# 2026-09-26 in Claude Code chat (the system-accounts questionnaire). Each verbatim is an exact substring of
+# the RULINGS.md entry "## 2026-09-26 — the system-accounts questionnaire (60 answers, Claude Code chat)"; the section is the line's own label. Only the
+# answers that bind later writing are rows here; answers that corrected one page
+# were applied to that page and live there. R55 is a free id-numeral bucket.
+# Standalone-ruling pattern: empty source.file.
+pack: System Accounts Questionnaire 2026-09-26
+pack_number: null
+source_file: ''
+ratified: 'Isaac, 2026-09-26, Claude Code chat: ruled directly (the system-accounts questionnaire)'
+rules:
+- id: R55-1-SUBSTANCE_COSTS_PERMANENT
+  pack: System Accounts Questionnaire 2026-09-26
+  pack_number: null
+  section: Dirge Ascension; Final Mercy; Imprinta
+  title: Costs paid in the practitioner's own substance are permanent
+  status: live
+  kind: definition
+  summary: A cost paid in Crystal mass, memory or Essence Core is permanent and cumulative, with a hard
+    lifetime limit.
+  verbatim: Costs paid in the practitioner's own substance (Crystal mass, memory, Essence Core) are permanent
+    and cumulative, with a hard lifetime limit; Imprinta states a cut to maximum reserve.
+  amends:
+  - guide: Ability and Technique Design Guide
+    locus: Ability and Technique Design Guide
+    operation: adds
+  supersedes: []
+  applies_to:
+  - magic-design
+  - magic-mechanism
+  verification: []
+  ratified: 'Isaac, 2026-09-26, Claude Code chat: ruled directly (the system-accounts questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: ''
+- id: R55-2-OVERCHANNEL_DAMAGE_ACCUMULATES
+  pack: System Accounts Questionnaire 2026-09-26
+  pack_number: null
+  section: Spinal Forge Ascent
+  title: Overchannel damage accumulates and becomes permanent
+  status: live
+  kind: definition
+  summary: A working carrying the Overchannel penalty accumulates damage with use, eventually permanent.
+  verbatim: 'Spinal Forge Ascent carries the Overchannel penalty: damage accumulates with use and eventually
+    becomes permanent.'
+  amends:
+  - guide: Ability and Technique Design Guide
+    locus: Ability and Technique Design Guide
+    operation: adds
+  supersedes: []
+  applies_to:
+  - magic-mechanism
+  verification: []
+  ratified: 'Isaac, 2026-09-26, Claude Code chat: ruled directly (the system-accounts questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: ''
+- id: R55-3-SOUL_DRIFT_SCALE
+  pack: System Accounts Questionnaire 2026-09-26
+  pack_number: null
+  section: The Veil
+  title: Soul Drift is scaled with named thresholds
+  status: live
+  kind: definition
+  summary: Soul Drift runs on a scale with named threshold stages; each Veil crossing adds by depth and
+    duration.
+  verbatim: Soul Drift gets a scale with named threshold stages; each Veil crossing adds an amount set
+    by depth and duration.
+  amends:
+  - guide: Ability and Technique Design Guide
+    locus: Ability and Technique Design Guide
+    operation: adds
+  supersedes: []
+  applies_to:
+  - magic-mechanism
+  verification: []
+  ratified: 'Isaac, 2026-09-26, Claude Code chat: ruled directly (the system-accounts questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: ''
+- id: R55-4-SPLINTERING_EXPERT_BAND
+  pack: System Accounts Questionnaire 2026-09-26
+  pack_number: null
+  section: Transposition; Veil of Verdant Pact
+  title: Splintering takes the Expert efficiency band
+  status: live
+  kind: definition
+  summary: Stage V reads the Expert row's η of 0.60–0.70.
+  verbatim: Splintering takes the 0.60-0.70 efficiency band; the whole Expert row reads 0.60-0.70.
+  amends:
+  - guide: Fracture of Worlds — The Living System
+    locus: Fracture of Worlds — The Living System
+    operation: adds
+  supersedes: []
+  applies_to:
+  - stats
+  - magic-mechanism
+  verification: []
+  ratified: 'Isaac, 2026-09-26, Claude Code chat: ruled directly (the system-accounts questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: ''
+- id: R55-5-HYPNATHER_CORE_LAW
+  pack: System Accounts Questionnaire 2026-09-26
+  pack_number: null
+  section: Oblivion-Step (and every Hypnather working)
+  title: 'Hypnather''s Core Law: cannot be forced by ordinary means'
+  status: live
+  kind: definition
+  summary: Hypnather's Core Law reads 'cannot be forced by ordinary means'.
+  verbatim: Hypnather's Core Law becomes 'cannot be forced by ordinary means'; Oblivion-Step stays at
+    will, each use an interrupted rest that wears the Crystal.
+  amends:
+  - guide: Ability and Technique Design Guide
+    locus: Ability and Technique Design Guide
+    operation: adds
+  supersedes: []
+  applies_to:
+  - magic-mechanism
+  - codex
+  verification: []
+  ratified: 'Isaac, 2026-09-26, Claude Code chat: ruled directly (the system-accounts questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: ''
+- id: R55-6-STANDING_CONDITION_DURABLE
+  pack: System Accounts Questionnaire 2026-09-26
+  pack_number: null
+  section: Edictum
+  title: Spellcraft that produces a standing condition holds without upkeep
+  status: live
+  kind: definition
+  summary: Spellcraft whose product is a standing condition holds without upkeep.
+  verbatim: Spellcraft whose product is a standing condition is durable (Edictum holds without upkeep);
+    state this in the Four Crafts.
+  amends:
+  - guide: Ability and Technique Design Guide
+    locus: Ability and Technique Design Guide
+    operation: adds
+  supersedes: []
+  applies_to:
+  - magic-mechanism
+  - magic-design
+  verification: []
+  ratified: 'Isaac, 2026-09-26, Claude Code chat: ruled directly (the system-accounts questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: ''
+- id: R55-7-HARMONIC_IMMUNITY_BY_STAGE
+  pack: System Accounts Questionnaire 2026-09-26
+  pack_number: null
+  section: Harmonic Null-Ascension; Celestial Harmonic Shear; Celestial Decree; Obelisk
+  title: 'Harmonic immunity: the caster''s Stage or higher'
+  status: live
+  kind: definition
+  summary: Anyone at the caster's Stage or higher is immune to these harmonic workings.
+  verbatim: 'Harmonic immunity bar is Stage: anyone at the caster''s Stage or higher is immune, on all
+    four workings.'
+  amends:
+  - guide: Ability and Technique Design Guide
+    locus: Ability and Technique Design Guide
+    operation: adds
+  supersedes: []
+  applies_to:
+  - magic-mechanism
+  - combat
+  verification: []
+  ratified: 'Isaac, 2026-09-26, Claude Code chat: ruled directly (the system-accounts questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: ''
+- id: R55-8-AREA_FRIEND_FOE_BY_ATTENTION
+  pack: System Accounts Questionnaire 2026-09-26
+  pack_number: null
+  section: Archivium Locus; Coagula Dominion; Obelisk of the Eclipsed Dawn
+  title: Area workings sort friend from foe by the caster's attention
+  status: live
+  kind: definition
+  summary: An area working spares allies only while the caster's judgement holds; if it slips, allies
+    are caught.
+  verbatim: Area workings sort friend from foe by the caster's judgement/attention; if it slips, allies
+    are caught (Locus, Coagula, Obelisk).
+  amends:
+  - guide: Ability and Technique Design Guide
+    locus: Ability and Technique Design Guide
+    operation: adds
+  supersedes: []
+  applies_to:
+  - magic-mechanism
+  - combat
+  verification: []
+  ratified: 'Isaac, 2026-09-26, Claude Code chat: ruled directly (the system-accounts questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: ''
+- id: R55-9-PROPOSED_GLYPHS_PROVISIONAL
+  pack: System Accounts Questionnaire 2026-09-26
+  pack_number: null
+  section: About twenty-five pages that named no glyph
+  title: Proposed glyphs are provisional
+  status: live
+  kind: procedure
+  summary: A glyph proposed for a page that named none stands as printed but provisional until all 136
+    glyphs are gathered.
+  verbatim: 'Proposed glyphs stay as printed but provisional: confirmed or reassigned once all 136 glyphs
+    are gathered and checked.'
+  amends:
+  - guide: Ability and Technique Design Guide
+    locus: Ability and Technique Design Guide
+    operation: adds
+  supersedes: []
+  applies_to:
+  - codex
+  - magic-design
+  verification: []
+  ratified: 'Isaac, 2026-09-26, Claude Code chat: ruled directly (the system-accounts questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: ''
+- id: R55-10-VOHRIN_TWO_LEVELS
+  pack: System Accounts Questionnaire 2026-09-26
+  pack_number: null
+  section: Hunter's Breath; Maw of Crystalline Stasis; Bloodbind Surge; Cryost Ascendant
+  title: Vohrin is one power at Titan and Wellspring level
+  status: live
+  kind: definition
+  summary: Vohrin is one power at two levels, Titan and Wellspring; frost workings drawing on it are Titan-derived.
+  verbatim: Vohrin is one power at two levels, Titan and Wellspring; the four frost workings become Titan-derived,
+    likely raising their standing and cost.
+  amends:
+  - guide: Ability and Technique Design Guide
+    locus: Ability and Technique Design Guide
+    operation: adds
+  supersedes: []
+  applies_to:
+  - magic-mechanism
+  - worldbuilding
+  - codex
+  verification: []
+  ratified: 'Isaac, 2026-09-26, Claude Code chat: ruled directly (the system-accounts questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: ''

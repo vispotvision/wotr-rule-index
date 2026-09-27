@@ -1,8 +1,8 @@
 # Live rules by domain, with source text
 
-778 live of 956 extracted. Newest pack first within each domain; the newer rule governs where two overlap.
+895 live of 1074 extracted. Newest pack first within each domain; the newer rule governs where two overlap.
 
-## adjudication (45)
+## adjudication (51)
 
 ### R15-4-THIRTEEN_HAX_STRUCK [Pack Fifteen §4]
 
@@ -154,6 +154,24 @@ One combat turn is six seconds; efficiency above one draws its surplus from the 
 
 > One combat turn is six seconds. Efficiency above one draws its surplus from the Aether stratum. Healing and mending always cost more than breaking.
 
+### R56-01-BRUTAL_LETHALITY [Combat, Society and Politics Law 2026-09-26 Combat, society and politics]
+
+Lethality among ordinary fighters is brutally real: one good cut or a ball in the gut can kill, often days later from infection; most fights end in the first seconds; a wounded man is out of the fight.
+
+> Lethality among ordinary fighters is brutally real: one good cut or a ball in the gut can kill, often days later from infection; most fights end in the first seconds; a wounded man is out of the fight.
+
+### R56-02-REAL_HEALING_TIMES [Combat, Society and Politics Law 2026-09-26 Combat, society and politics]
+
+Healing runs on real timelines (weeks for a cut, months for bone). Vitalia healing can shorten it, but it costs the healer EU and the patient's body pays something (scar tissue, fever, hunger).
+
+> Healing runs on real timelines (weeks for a cut, months for bone). Vitalia healing can shorten it, but it costs the healer EU and the patient's body pays something (scar tissue, fever, hunger).
+
+### R56-11-TRACE_EVIDENCE_AND_JURISDICTION [Combat, Society and Politics Law 2026-09-26 Combat, society and politics]
+
+A crime done with a working is proved by trace examiners reading its traces as evidence, and guild courts and crown courts fight over jurisdiction.
+
+> A crime done with a working is proved by trace examiners reading its traces as evidence, and guild courts and crown courts fight over jurisdiction.
+
 ### R44-1-EU_JOULE_ONE_MEGAJOULE [Essence Ledger Rulings 2026-09-25 C-034]
 
 EU converts to joules at one constant, 1 EU = 1 MJ, everywhere; a card figure that then sits outside its Stage's band is a card error and is corrected in its own issue.
@@ -184,6 +202,12 @@ Each kind of item reads its Tier against a table (weapon: added hit; projectile:
 
 > A strike one Tier above the proof breaks it; a strike two Tiers above passes as if it were not there.
 
+### R56-8-LEVEL_LAW_SETS_RESERVE_BAND [Magic Docket Questionnaire 2026-09-26 C-076 (WAR-161)]
+
+A Stage's EU reserve band comes from Part Twenty-Three's law of reserves (Level), not from its Max Grade's joule bracket; Part Nineteen is built off it.
+
+> The Level law governs: Part Nineteen's EU-by-Stage and AU/s-by-Stage tables are rebuilt from Part Twenty-Three's Level law, replacing the Grade-bracket derivation published 2026-09-26.
+
 ### R42-10-ACCORD_EXECUTES_ITS_OWN [Magic System Rulings 2026-09-23 C-028]
 
 The Accord executes only its own sworn members; in the New World it is the law.
@@ -195,6 +219,18 @@ The Accord executes only its own sworn members; in the New World it is the law.
 Dissonance Sub-Stats per C-013: Overflow, Overchannel, Persistence.
 
 > Closed by the existing C-013 ruling of 2026-09-13: the Sub-Stats that reach their true ceiling only through Dissonance are Overflow, Overchannel and Persistence.
+
+### R54-8-UNMEASURED_FROM_ZENITH [Queue Questionnaire 2026-09-26 WAR-142]
+
+Stage XV keeps the EX+ Grade label but its force is unmeasured like Zenith; the Zenith row stands beside the Grade ladder, not on it.
+
+> Unmeasured from Zenith: Stage XV keeps its EX+ Grade label, but its force is unmeasured like Zenith's; the Zenith row sits beside the Grade ladder, not on it.
+
+### R54-9-STRIKE_FORCE_OUTLIERS_STAND [Queue Questionnaire 2026-09-26 WAR-49,WAR-62]
+
+A card's stated Strike Force that sits outside its Stage's Max Grade band stands as that character's own outlier; no card changes.
+
+> Card figure governs: each of the twelve Strike Force figures stands as that character's own outlier; no card changes.
 
 ### R29-1-SACRAMENT_BOND_ANCHOR_BY_DECLARATION [Sacrament Anchor Ruling Standing Ruling]
 
@@ -274,7 +310,7 @@ Isaac may take over any NPC's voice anytime by saying so; the partner hands it b
 
 > Isaac may take over any NPC's voice anytime by saying so; the partner hands it back after.
 
-## character-sheet (119)
+## character-sheet (139)
 
 ### R20C-16-SONZAI_RECORD_CARD [Pack Twenty R20C-16]
 
@@ -618,6 +654,24 @@ A bare "Band V" on a card reads as the live Level Band, not the retired lettered
 
 > Confirmed: the bare "Band V" on Raga's and Verinus VII's cards is the live Level Band, and nothing changes. The brief's "stale Band" item closes with no edit.
 
+### R54-01-HILD_TWELVE_AT_DEATH [Follow-up Rulings 2026-09-26 Follow-up answers]
+
+Hild's age at death: twelve at death. She is 11 on her card's As Of moment and turns twelve before the ninth hour; 'twelve' at her death stands everywhere.
+
+> Hild's age at death: twelve at death. She is 11 on her card's As Of moment and turns twelve before the ninth hour; 'twelve' at her death stands everywhere.
+
+### R54-12-AS_OF_LINE_ON_EVERY_CARD [Follow-up Rulings 2026-09-26 Follow-up answers]
+
+Every character card gets an As Of line, dated from its own Lore and Standing line.
+
+> Every character card gets an As Of line, dated from its own Lore and Standing line.
+
+### R54-14-YUKARI_EYES_CRIMSON [Follow-up Rulings 2026-09-26 Follow-up answers]
+
+Yukari eyes: crimson. The cards win; the bloodline page's silver-violet is corrected.
+
+> Yukari eyes: crimson. The cards win; the bloodline page's silver-violet is corrected.
+
 ### R23-4-MIXED_PARENTAGE [Inner World Naming Amendment IV]
 
 A character of mixed parentage takes one naming register rather than blending; Hild Ice is the model — a Moto father, a Stark mother, a maternal Northern name carried openly, needing no explanation.
@@ -629,6 +683,60 @@ A character of mixed parentage takes one naming register rather than blending; H
 A name is an outlier when it fits no stratum (foreign fostering, a mother's whim, a bought name, an insult or shield name); Bram is the standing example and needs no justification on the page.
 
 > A name is an outlier when it fits no stratum: a foreign fostering, a mother's whim, a name bought off a dying man, a bloodline child given a Northern name as an insult or a shield. Bram is the standing example and needs no justification on the page.
+
+### R56-1-ZENITH_STRIKE_UNQUANTIFIED [Magic Docket Questionnaire 2026-09-26 C-061, C-069]
+
+A Stage XIV card states no joule figure for Striking Force; a blow delivers an event the local physics must accommodate.
+
+> Unquantified: the Primate's Striking Force line (:78) becomes Part Eleven's reading, an event the local physics must accommodate. The EX joule band leaves the card. 'No recorded instance' stays.
+
+### R56-2-ZENITH_SPEED_IMMEASURABLE [Magic Docket Questionnaire 2026-09-26 C-065]
+
+A Stage XIV card's Travel Speed is Part Six's Immeasurable Speed classification, not a Mach figure.
+
+> Immeasurable: Kinjiki's Travel Speed becomes Part Six's Immeasurable Speed classification, as on the Primate's card. 'Not his instrument' stays as colour, and the Mach figures leave the card.
+
+### R56-3-ZENITH_RESERVE_STANDS [Magic Docket Questionnaire 2026-09-26 C-060]
+
+A Stage XIV EU reserve has no attack-output band to miss and stands as written.
+
+> Stands, outside R44-1: Stage XIV has no attack-output band to miss, so the Primate's 2,400,000,000 EU reserve is not an error and stays as written.
+
+### R56-4-PAST_THE_GATE_WITH_STRAIN [Magic Docket Questionnaire 2026-09-26 C-041]
+
+A card whose Level stands past a Band gate its Stage has not opened keeps its Level as an in-world outlier and carries standing Residual Strain.
+
+> Anomalies, with Strain: Sodoku (Level 320, Stage VI) and Krothar (Level 380, Stage VIII) keep their Levels as in-world outliers. Each card gains standing Residual Strain from the breach, and Krothar's Band name becomes 'IV — Mythic'.
+
+### R56-5-CARD_ETA_BELOW_BAND_GOVERNS [Magic Docket Questionnaire 2026-09-26 C-062]
+
+A card's own η governs when it sits below its Tier band, as it does above.
+
+> The card's η ~0.55 governs (rung I-2): Draven stands 0.05 under the corrected Tier 5 band, and his seven accounts say so.
+
+### R56-7-SCALING_PER_ENTITY [Magic Docket Questionnaire 2026-09-26 C-072]
+
+A card-wide EU correction applies one factor per person, read wherever that person states a reserve; 'Essence Capacity' counts as a stated reserve.
+
+> Per entity: C-059 applies one factor per person, read from wherever that person states a reserve. 'Essence Capacity' counts as a stated reserve. Dougou's card and Mugen no Hatsurugi take the same factor as The Iron Tree and Muken's card.
+
+### R56-8-LEVEL_LAW_SETS_RESERVE_BAND [Magic Docket Questionnaire 2026-09-26 C-076 (WAR-161)]
+
+A Stage's EU reserve band comes from Part Twenty-Three's law of reserves (Level), not from its Max Grade's joule bracket; Part Nineteen is built off it.
+
+> The Level law governs: Part Nineteen's EU-by-Stage and AU/s-by-Stage tables are rebuilt from Part Twenty-Three's Level law, replacing the Grade-bracket derivation published 2026-09-26.
+
+### R56-9-SCALING_ON_LEVEL_BANDS [Magic Docket Questionnaire 2026-09-26 C-059 follow-up]
+
+Card-wide EU scaling reads the Level-law bands, from each card's pre-scaling figures.
+
+> Re-run on the Level-law bands: the same C-059 method (one factor per entity, set point at the geometric mean of the new band) is recomputed from each card's pre-C-059 figures, so nothing compounds.
+
+### R56-10-AU_S_LADDER_TYPICAL [Magic Docket Questionnaire 2026-09-26 WAR-161, AU/s against the cards]
+
+The AU/s-by-Stage ladder gives typical ranges; card AU/s figures outside it stand as outliers.
+
+> The ladder is typical ranges and the cards stand. The 23 misses stay listed as outliers against the rebuilt ladder.
 
 ### R42-1-TIER_NAMES_ARCHMASTER_PARAGON [Magic System Rulings 2026-09-23 Tier names]
 
@@ -731,6 +839,54 @@ The earned Third Name (documented in The Standing and the Title) is conferred in
 When a Third Name becomes dominant, both the personal name and institutional rank recede — the title becomes the person, and the birth name is what the family uses and nobody else remembers.
 
 > When a practitioner's Third Name becomes dominant, the personal name and the institutional rank both recede. Nobody calls Cozbi Mahuo "Grandmaster Mahuo" unless they are reading from a filing. He is The Ledger-Keeper, and the Third Name has consumed the other two. This is the endgame of the naming system: the title becomes the person, the person becomes the title, and the birth name is what the family uses and nobody else remembers.
+
+### R54-1-STAGE_NUMERAL_WINS [Queue Questionnaire 2026-09-26 WAR-15]
+
+A card whose Stage numeral and Stage name disagree keeps the numeral and takes the name Fracture of Worlds gives that numeral.
+
+> Number wins: Gimbzo XII Emanation (SSS, Grandmaster); Naevra IX, Naiser VI, Niran VII take the correct names for their numbers. The four earlier 'name wins' fixes stand as they are.
+
+### R54-2-CRYSTAL_TIER_FROM_STAGE [Queue Questionnaire 2026-09-26 WAR-65]
+
+The tier word comes off the Crystal State field; a separate Crystal Tier field is written from the Stage, or from Aether Class where no Stage is stated.
+
+> Follow Ryuka: the tier word comes off the Crystal State field; a Crystal Tier field is written from the Stage (or Aether Class where no Stage). Akira: Dormant.
+
+### R54-3-STAGE_DECIDES_CRYSTAL_TIER [Queue Questionnaire 2026-09-26 WAR-66]
+
+Where Aether Class and Stage point to different Crystal Tiers, the Stage decides, for every later mismatch.
+
+> Stage decides: Aelum's Crystal Tier is Sovereign; applies to all later Class/Stage mismatches.
+
+### R54-4-FORMULA_WHOLE_OUTPUT_ONLY [Queue Questionnaire 2026-09-26 WAR-102]
+
+A card that splits its output into a measured part and an unmeasured part is left as written; the formula corrects only a single whole-output AU/s.
+
+> Dougou: leave the split output as written (3,900 AU/s external, internal immeasurable); the formula only corrects a single whole-output figure.
+
+### R54-5-DECIMALS_AS_COMPUTED [Queue Questionnaire 2026-09-26 WAR-102,WAR-141]
+
+A figure computed by a ruling is written as computed, with its decimal, not rounded to a whole number.
+
+> Decimals: write figures exactly as computed, with the decimal (Naori 147.9 EU, Artemis 1,663.2 AU/s, etc.).
+
+### R54-6-KEEP_THE_CARDS_FORM [Queue Questionnaire 2026-09-26 WAR-102]
+
+A correction keeps the form the card wrote the figure in: a range stays a range, an approximate base stays approximate.
+
+> Keep the card's form: Elion's output becomes the range 6.768-7.332 million AU/s; Sodoku's line becomes '~772.8 base'.
+
+### R54-7-TABLE_QUOTING_CARDS_FOLLOW [Queue Questionnaire 2026-09-26 WAR-138,WAR-151]
+
+A card whose η is stated as the Tier of Standing table's figure reads whatever the table says for its Stage; its dependent figures are recomputed to stay consistent.
+
+> Follow the table: cards that quote the Tier table's eta read whatever the table says for their Stage (0.60-0.70 at VI-VII now); Yoko's output/flux recomputed to stay consistent.
+
+### R54-11-CARD_HEADER_AT_A_MOMENT [Queue Questionnaire 2026-09-26 WAR-114]
+
+Every card's header states the moment it describes; the Lore section records later events, deaths included.
+
+> Card headers describe the character at a stated moment (e.g. 'as of the muster') and say so; Lore records later events including deaths. Applies to every card.
 
 ### R24-1-FLESHSHAPER_SIGNATURES_AND_TELL [Racial Voice and Dialect Guide Amendment I]
 
@@ -993,7 +1149,7 @@ Room casting is by ear: the partner casts for the scene and fixes voice likeness
 
 > Room casting is by ear: the partner casts for the scene and fixes voice likeness only when the swap test fails.
 
-## codex (37)
+## codex (46)
 
 ### R20C-41-CHANTCRAFT_FIFTH_CRAFT [Pack Twenty R20C-41]
 
@@ -1217,7 +1373,61 @@ Part Five · Prose Application is lifted out of the Revelation cell.
 
 > The Color of Essence's Revelation cell is restored to its own sentence and the block pasted inside it is lifted out as "Part Five · Prose Application" after Part Four, the same words re-homed; Limina's absence is left visible as a gap rather than papered over.
 
-## combat (75)
+### R54-38-BLEND_FAMILY_MAY_DIFFER [Queue Questionnaire 2026-09-26 WAR-146]
+
+An alchemical formula's Family may differ from its Wellsprings' Families.
+
+> Yes: a blend's Family may differ from its Wellsprings' Families; both Alchemical Index rows stand as drafted.
+
+### R54-39-FORMULA_MAY_INVERT_GLYPH [Queue Questionnaire 2026-09-26 WAR-147]
+
+An alchemical formula may invert or misuse its glyph, and its row says so.
+
+> Yes, and say so: a formula may invert its glyph; each of the four rows (Thundercrack Grenade, Command Brand Iron, Ashfang Venom Vial, Slag-Iron Caustic) gains a short note that it inverts or misuses its glyph.
+
+### R54-40-HIGHEST_CLASS_INGREDIENT [Queue Questionnaire 2026-09-26 WAR-148]
+
+A formula's Provenance Class is its highest-class ingredient's.
+
+> The highest-class ingredient sets a formula's Provenance Class: Skyfire Pulse Vial moves to Class V; Deep Grid Mortar's oath-bone ash is classed like Granite-Bone's; the page and its intro count are corrected.
+
+### R54-41-LIVING_HAIR_CLASS_III [Queue Questionnaire 2026-09-26 WAR-148]
+
+Hair from a living person is Class III, Vital Draw.
+
+> Hair from a living person is Class III, Vital Draw: Echo-Bloom moves up to Class III; Somnum Flow stands.
+
+### R54-42-LIVING_CRYSTAL_BLOOD_CLASS_IV [Queue Questionnaire 2026-09-26 WAR-149]
+
+Blood drawn from a living Soul Crystal bearer is Class IV, Crystal Draw.
+
+> Blood drawn from a living Soul Crystal bearer is Class IV, Crystal Draw: Edgetruth Whetstone Oil, Beastheart Serum and Excision Bloodletting Needles become Class IV; Dominion Brand Oil stays IV.
+
+### R54-43-COLLAPSED_STAR_CLASS_VI [Queue Questionnaire 2026-09-26 WAR-149]
+
+Collapsed-star residue is Class VI, Archonic Residue.
+
+> Collapsed-star residue is Class VI, Archonic Residue: found matter with no locatable origin, priced at the top of the scale.
+
+### R55-5-HYPNATHER_CORE_LAW [System Accounts Questionnaire 2026-09-26 Oblivion-Step (and every Hypnather working)]
+
+Hypnather's Core Law reads 'cannot be forced by ordinary means'.
+
+> Hypnather's Core Law becomes 'cannot be forced by ordinary means'; Oblivion-Step stays at will, each use an interrupted rest that wears the Crystal.
+
+### R55-9-PROPOSED_GLYPHS_PROVISIONAL [System Accounts Questionnaire 2026-09-26 About twenty-five pages that named no glyph]
+
+A glyph proposed for a page that named none stands as printed but provisional until all 136 glyphs are gathered.
+
+> Proposed glyphs stay as printed but provisional: confirmed or reassigned once all 136 glyphs are gathered and checked.
+
+### R55-10-VOHRIN_TWO_LEVELS [System Accounts Questionnaire 2026-09-26 Hunter's Breath; Maw of Crystalline Stasis; Bloodbind Surge; Cryost Ascendant]
+
+Vohrin is one power at two levels, Titan and Wellspring; frost workings drawing on it are Titan-derived.
+
+> Vohrin is one power at two levels, Titan and Wellspring; the four frost workings become Titan-derived, likely raising their standing and cost.
+
+## combat (88)
 
 ### R20C-22-AMMUNITION_TIERS_RATIFIED [Pack Twenty R20C-22]
 
@@ -1597,11 +1807,77 @@ One combat turn is six seconds; efficiency above one draws its surplus from the 
 
 > One combat turn is six seconds. Efficiency above one draws its surplus from the Aether stratum. Healing and mending always cost more than breaking.
 
+### R56-01-BRUTAL_LETHALITY [Combat, Society and Politics Law 2026-09-26 Combat, society and politics]
+
+Lethality among ordinary fighters is brutally real: one good cut or a ball in the gut can kill, often days later from infection; most fights end in the first seconds; a wounded man is out of the fight.
+
+> Lethality among ordinary fighters is brutally real: one good cut or a ball in the gut can kill, often days later from infection; most fights end in the first seconds; a wounded man is out of the fight.
+
+### R56-02-REAL_HEALING_TIMES [Combat, Society and Politics Law 2026-09-26 Combat, society and politics]
+
+Healing runs on real timelines (weeks for a cut, months for bone). Vitalia healing can shorten it, but it costs the healer EU and the patient's body pays something (scar tissue, fever, hunger).
+
+> Healing runs on real timelines (weeks for a cut, months for bone). Vitalia healing can shorten it, but it costs the healer EU and the patient's body pays something (scar tissue, fever, hunger).
+
+### R56-03-HARD_RESERVE_CLOCK [Combat, Society and Politics Law 2026-09-26 Combat, society and politics]
+
+Essence and stamina run on a hard clock by the Ledger's numbers; long fights are won by whoever manages the reserve; Starvation hits mid-fight on overspend.
+
+> Essence and stamina run on a hard clock by the Ledger's numbers; long fights are won by whoever manages the reserve; Starvation hits mid-fight on overspend.
+
+### R56-04-DEATH_IS_PERMANENT [Combat, Society and Politics Law 2026-09-26 Combat, society and politics]
+
+Death is almost always permanent; the only exceptions are liches, the undead and their kind.
+
+> Death is almost always permanent; the only exceptions are liches, the undead and their kind.
+
+### R55-12-TRANSITIONAL_MILITARY [Era and Apparatus Law 2026-09-26 Era and apparatus]
+
+Military: transitional. Cavalry, bright uniforms and drill in the early span; khaki, trenches and rare machine guns later; practitioners change everything anyway.
+
+> Military: transitional. Cavalry, bright uniforms and drill in the early span; khaki, trenches and rare machine guns later; practitioners change everything anyway.
+
 ### R46-3-ARMOUR_TIER_IS_ITS_PROOF [The Item Tiers 2026-09-25 What the Tier Caps, by Kind]
 
 Each kind of item reads its Tier against a table (weapon: added hit; projectile: speed and hit; focus: channelling ceiling). Armour stops strikes at or below its Tier's Grade; a strike one Tier above breaks it, two Tiers above passes as if it were not there.
 
 > A strike one Tier above the proof breaks it; a strike two Tiers above passes as if it were not there.
+
+### R56-1-ZENITH_STRIKE_UNQUANTIFIED [Magic Docket Questionnaire 2026-09-26 C-061, C-069]
+
+A Stage XIV card states no joule figure for Striking Force; a blow delivers an event the local physics must accommodate.
+
+> Unquantified: the Primate's Striking Force line (:78) becomes Part Eleven's reading, an event the local physics must accommodate. The EX joule band leaves the card. 'No recorded instance' stays.
+
+### R56-2-ZENITH_SPEED_IMMEASURABLE [Magic Docket Questionnaire 2026-09-26 C-065]
+
+A Stage XIV card's Travel Speed is Part Six's Immeasurable Speed classification, not a Mach figure.
+
+> Immeasurable: Kinjiki's Travel Speed becomes Part Six's Immeasurable Speed classification, as on the Primate's card. 'Not his instrument' stays as colour, and the Mach figures leave the card.
+
+### R54-8-UNMEASURED_FROM_ZENITH [Queue Questionnaire 2026-09-26 WAR-142]
+
+Stage XV keeps the EX+ Grade label but its force is unmeasured like Zenith; the Zenith row stands beside the Grade ladder, not on it.
+
+> Unmeasured from Zenith: Stage XV keeps its EX+ Grade label, but its force is unmeasured like Zenith's; the Zenith row sits beside the Grade ladder, not on it.
+
+### R54-9-STRIKE_FORCE_OUTLIERS_STAND [Queue Questionnaire 2026-09-26 WAR-49,WAR-62]
+
+A card's stated Strike Force that sits outside its Stage's Max Grade band stands as that character's own outlier; no card changes.
+
+> Card figure governs: each of the twelve Strike Force figures stands as that character's own outlier; no card changes.
+
+### R54-16-STONE_BLOOD_COLD_LATENCY [Queue Questionnaire 2026-09-26 WAR-91]
+
+Stone-Blood run about three-quarters of a beat late in deep cold, in every such fight.
+
+> Stone-Blood cold latency is a rule: Stone-Blood slow (about three-quarters of a beat late) in deep cold, canon for every such fight; the paragraph stays.
+
+### R54-20-MASS_WOUND_ANATOMY [Queue Questionnaire 2026-09-26 WAR-92]
+
+Wounds in mass-combat scenes are written with the same anatomy as a duel.
+
+> Yes: mass-combat scenes must still carry duel-level wound anatomy.
 
 ### R45-1-SPEED_DECIDES_THE_DODGE [Shot and the Enhanced Weapon 2026-09-25 Part One]
 
@@ -1632,6 +1908,18 @@ Only a speed enhancement changes a projectile's velocity, capped at the enhancer
 Each enhanced round or arrow draws on the enhancer's reserve (wielder if channelled, maker if prepared) and is consumed when fired; a prepared enhancement carries its maker's Duration and goes stale. A Harmonist reads any enchanted weapon without touching it.
 
 > An enhanced round or arrow is paid for per shot and consumed when fired,
+
+### R55-7-HARMONIC_IMMUNITY_BY_STAGE [System Accounts Questionnaire 2026-09-26 Harmonic Null-Ascension; Celestial Harmonic Shear; Celestial Decree; Obelisk]
+
+Anyone at the caster's Stage or higher is immune to these harmonic workings.
+
+> Harmonic immunity bar is Stage: anyone at the caster's Stage or higher is immune, on all four workings.
+
+### R55-8-AREA_FRIEND_FOE_BY_ATTENTION [System Accounts Questionnaire 2026-09-26 Archivium Locus; Coagula Dominion; Obelisk of the Eclipsed Dawn]
+
+An area working spares allies only while the caster's judgement holds; if it slips, allies are caught.
+
+> Area workings sort friend from foe by the caster's judgement/attention; if it slips, allies are caught (Locus, Coagula, Obelisk).
 
 ### R48-33-CHOREOGRAPHY [Writing Law 2026-09-26 Combat and consequence]
 
@@ -2517,7 +2805,7 @@ Narration refers to characters by POV epithets, the way the viewpoint sees them;
 
 > Narration refers to characters by POV epithets, the way the viewpoint sees them; the naming characterises.
 
-## documents (24)
+## documents (29)
 
 ### R20C-3-SWEEP_TWO_TIERS [Pack Twenty R20C-3]
 
@@ -2645,6 +2933,24 @@ Tiers of standing and ladder rungs are written by name only, never numbered.
 
 > Tiers of standing and ladder rungs are written by name only, never as numbers.
 
+### R56-18-ACCORD_FORMING_IN_CIRCLES [Combat, Society and Politics Law 2026-09-26 Combat, society and politics]
+
+The Guild Accord's pages read as forming in circles: the Articles and Commission framework bind where a circle has signed and not yet elsewhere.
+
+> The Guild Accord's pages read as forming in circles: the Articles and Commission framework bind where a circle has signed and not yet elsewhere.
+
+### R55-16-APPARATUS_PAGES [Era and Apparatus Law 2026-09-26 Era and apparatus]
+
+These answers are folded into The Apparatus of the Age and The Works and Days as settled text with a regional gradient section; still no decade-by-decade table.
+
+> These answers are folded into The Apparatus of the Age and The Works and Days as settled text with a regional gradient section; still no decade-by-decade table.
+
+### R54-09-BARA_IS_A_CHARACTER [Follow-up Rulings 2026-09-26 Follow-up answers]
+
+Bara is a character: stripped from system pages like the others.
+
+> Bara is a character: stripped from system pages like the others.
+
 ### R23-11-ROLL_NAMES_FROM_ACCORD [Inner World Naming Amendment XI]
 
 There never was an inherited surname; the Accord's registers assigned a frozen surname off the nearest legible thing (Ice, Foss), so a Far-Northern character has a roll-name the Accord/muster/tax survey use and a separate carried name the household uses.
@@ -2657,13 +2963,25 @@ The Accord files every practitioner under given name, family or patronymic, cult
 
 > The Accord's administrative system files every practitioner under a standardised format: given name, family or patronymic, culture of origin, rank designation.
 
+### R54-11-CARD_HEADER_AT_A_MOMENT [Queue Questionnaire 2026-09-26 WAR-114]
+
+Every card's header states the moment it describes; the Lore section records later events, deaths included.
+
+> Card headers describe the character at a stated moment (e.g. 'as of the muster') and say so; Lore records later events including deaths. Applies to every card.
+
+### R54-26-BENCH_OF_ATTRIBUTION [Queue Questionnaire 2026-09-26 WAR-50]
+
+The Bench of Attribution may not keep or compel records of signings.
+
+> It is the Bench of Attribution with its remit unchanged; later chapters may not have it keep or compel records of signings.
+
 ### R39-8-PACKS_FOLDED_INTO_EDITIONS [Stat System and Scene Rulings 2026-09-13 Folding]
 
 Isaac's direction of 2026-09-12 overtakes the two pending rows that kept the packs as unfolded paste-in diffs: each base guide gets a dated edition with every live amendment folded in and a changelog; eleven are done, the remaining six follow the same way.
 
 > Superseded by Isaac's direction of 2026-09-12 to fold the packs into dated base-guide editions ("yes — start folding the packs in now"); eleven guides are folded, the remaining six follow the same way.
 
-## items (36)
+## items (43)
 
 ### R20C-22-AMMUNITION_TIERS_RATIFIED [Pack Twenty R20C-22]
 
@@ -2785,6 +3103,12 @@ Tiers of standing and ladder rungs are written by name only, never numbered.
 
 > Tiers of standing and ladder rungs are written by name only, never as numbers.
 
+### R55-11-MATERIALS [Era and Apparatus Law 2026-09-26 Era and apparatus]
+
+Materials: cheap steel and iron, rubber and gutta-percha, early plastics in the late span, and the Master Material Ledger's Essence-born materials alongside them.
+
+> Materials: cheap steel and iron, rubber and gutta-percha, early plastics in the late span, and the Master Material Ledger's Essence-born materials alongside them.
+
 ### R46-1-ITEM_TIER_LOWER_OF_TWO [The Item Tiers 2026-09-25 What an Item Tier Is]
 
 An item carries an item Tier, the lower of what its material can hold and the Tier of Standing its maker stood at when it was made; a composite is graded by the material carrying the working; a plain item has no Tier and performs as its physics.
@@ -2839,6 +3163,42 @@ Kurosetsu keeps the belt scabbard; that was an equipment ruling, not a naming on
 
 > Kurosetsu keeps the belt scabbard. That was an equipment ruling, not a naming one, and it survives.
 
+### R54-38-BLEND_FAMILY_MAY_DIFFER [Queue Questionnaire 2026-09-26 WAR-146]
+
+An alchemical formula's Family may differ from its Wellsprings' Families.
+
+> Yes: a blend's Family may differ from its Wellsprings' Families; both Alchemical Index rows stand as drafted.
+
+### R54-39-FORMULA_MAY_INVERT_GLYPH [Queue Questionnaire 2026-09-26 WAR-147]
+
+An alchemical formula may invert or misuse its glyph, and its row says so.
+
+> Yes, and say so: a formula may invert its glyph; each of the four rows (Thundercrack Grenade, Command Brand Iron, Ashfang Venom Vial, Slag-Iron Caustic) gains a short note that it inverts or misuses its glyph.
+
+### R54-40-HIGHEST_CLASS_INGREDIENT [Queue Questionnaire 2026-09-26 WAR-148]
+
+A formula's Provenance Class is its highest-class ingredient's.
+
+> The highest-class ingredient sets a formula's Provenance Class: Skyfire Pulse Vial moves to Class V; Deep Grid Mortar's oath-bone ash is classed like Granite-Bone's; the page and its intro count are corrected.
+
+### R54-41-LIVING_HAIR_CLASS_III [Queue Questionnaire 2026-09-26 WAR-148]
+
+Hair from a living person is Class III, Vital Draw.
+
+> Hair from a living person is Class III, Vital Draw: Echo-Bloom moves up to Class III; Somnum Flow stands.
+
+### R54-42-LIVING_CRYSTAL_BLOOD_CLASS_IV [Queue Questionnaire 2026-09-26 WAR-149]
+
+Blood drawn from a living Soul Crystal bearer is Class IV, Crystal Draw.
+
+> Blood drawn from a living Soul Crystal bearer is Class IV, Crystal Draw: Edgetruth Whetstone Oil, Beastheart Serum and Excision Bloodletting Needles become Class IV; Dominion Brand Oil stays IV.
+
+### R54-43-COLLAPSED_STAR_CLASS_VI [Queue Questionnaire 2026-09-26 WAR-149]
+
+Collapsed-star residue is Class VI, Archonic Residue.
+
+> Collapsed-star residue is Class VI, Archonic Residue: found matter with no locatable origin, priced at the top of the scale.
+
 ### R45-1-SPEED_DECIDES_THE_DODGE [Shot and the Enhanced Weapon 2026-09-25 Part One]
 
 A dodge against a projectile is read off the target's Speed Grade (Celerity, Reflex, Sequence) against the projectile's velocity; surviving a hit is read off Resilience. Against a plain .44 at ~235 m/s, D reacts and is hit, C dodges, B dodges with room; against a musket ball, B is where dodging is reliable.
@@ -2881,7 +3241,7 @@ A Witnessed-Tempered piece inherits a scaled-down Ancestral Dominion Frame: ever
 
 > If the piece changes hands outside the terms of the oath, its accrued memory does not transfer. This is not the Dawi's Crystal-Coherence self-punishment, a cost paid by the oath-breaker's own soul; it is closer to the Weight of the Blood, where failure feels ancestral rather than personal. The object simply stops recognizing the new holder as a party the law was made for. In the worst documented cases, Physical Plane Authority's "hold shape" reverses for that bearer alone, and the piece becomes more failure-prone in their hands than an ordinary equivalent.
 
-## magic-design (92)
+## magic-design (98)
 
 ### R20C-28-PHENOMENON_BANK_CANDIDATES [Pack Twenty R20C-28]
 
@@ -3375,6 +3735,12 @@ The Master Codex row for [Abys] Deep now lists Oblation among its attested Wells
 
 > [Abys] Deep · Oblation and Fluxia added. Ruled 2026-09-12. [Abys] Deep, a directional undertow of sub-Realm pressure, carried an Abyntheus, Fulguria, Electromagnetism row. Its All Attested Wellsprings field now includes Oblation and its All Attested Families field now includes Fluxia, taken on the pitch in Obrenkael · The Mule (Summoned and Bound), Deadweight, on the reasoning that a psychopomp's road is a directional undertow of sub-Realm pressure and that Abyntheus and Oblation are both pressure-grammar Wellsprings under different Archons. Primary Wellspring, Family and Physics Domain are unchanged. [Th] Foundation, drafted beside it in the same chain, is not amended and stays cross-family.
 
+### R56-10-LICENSED_FOR_HIRE [Combat, Society and Politics Law 2026-09-26 Combat, society and politics]
+
+Anyone may practise privately, but taking pay for workings or hunts needs a guild licence; unlicensed hunters are cheap and common.
+
+> Anyone may practise privately, but taking pay for workings or hunts needs a guild licence; unlicensed hunters are cheap and common.
+
 ### R27-1-CYMORATH_AIR_OF_ASCENT_FROST_ON_VOHRIN [Cymorath Portfolio Ruling Standing Ruling]
 
 Cymorath carries exactly the portfolio Fracture of Worlds gives it: the Air of Ascent, Family Fulguria, freedom and motion, strengthening Dexterity Celerity and Gnosis Cartography/Perception. It is not a frost Wellspring. Every frost, cold or stasis working the wiki had been drafting as Cymorath is keyed instead to Vohrin, the Abyssal Depths Titan, Family Caloria, Physics Domain Thermodynamics, on the FOW III reading that cold is heat run backward. There is no dedicated frost Wellspring. Codex lines, Wellspring harmonisation rows and Material Ledger resonance columns that name a cold law write Vohrin · Caloria · Thermodynamics; any surviving Cymorath usage is Fulguria.
@@ -3387,6 +3753,18 @@ Part Seventeen's Class I figure governs the efficiency conflict — η is 0.60 t
 
 > Part Seventeen governs: η reads 0.60 to 0.70 at Stage VI–VII. Part Nineteen's Tier 5 row is corrected to match.
 
+### R54-02-DOUGOU_JOULES_FROM_COSTS [Follow-up Rulings 2026-09-26 Follow-up answers]
+
+Dougou: re-derive his joule figures from his restored EU costs (4.752 GJ, 7.326 GJ, 2.772 to 8.811 GJ, B-Grade); the newton figures are dropped, since no contact distance is stated.
+
+> Dougou: re-derive his joule figures from his restored EU costs (4.752 GJ, 7.326 GJ, 2.772 to 8.811 GJ, B-Grade); the newton figures are dropped, since no contact distance is stated.
+
+### R54-09-BARA_IS_A_CHARACTER [Follow-up Rulings 2026-09-26 Follow-up answers]
+
+Bara is a character: stripped from system pages like the others.
+
+> Bara is a character: stripped from system pages like the others.
+
 ### R42-7-FOUR_PATHS [Magic System Rulings 2026-09-23 C-025]
 
 There are four Paths, Fate included.
@@ -3398,6 +3776,24 @@ There are four Paths, Fate included.
 The lettered Coherence Band gives way to the Tier of Standing everywhere.
 
 > The retired lettered Coherence Band is replaced, wherever it survives outside the Magic System pages, by the Tier of Standing for the page's Stage, and η is kept as written.
+
+### R55-1-SUBSTANCE_COSTS_PERMANENT [System Accounts Questionnaire 2026-09-26 Dirge Ascension; Final Mercy; Imprinta]
+
+A cost paid in Crystal mass, memory or Essence Core is permanent and cumulative, with a hard lifetime limit.
+
+> Costs paid in the practitioner's own substance (Crystal mass, memory, Essence Core) are permanent and cumulative, with a hard lifetime limit; Imprinta states a cut to maximum reserve.
+
+### R55-6-STANDING_CONDITION_DURABLE [System Accounts Questionnaire 2026-09-26 Edictum]
+
+Spellcraft whose product is a standing condition holds without upkeep.
+
+> Spellcraft whose product is a standing condition is durable (Edictum holds without upkeep); state this in the Four Crafts.
+
+### R55-9-PROPOSED_GLYPHS_PROVISIONAL [System Accounts Questionnaire 2026-09-26 About twenty-five pages that named no glyph]
+
+A glyph proposed for a page that named none stands as printed but provisional until all 136 glyphs are gathered.
+
+> Proposed glyphs stay as printed but provisional: confirmed or reassigned once all 136 glyphs are gathered and checked.
 
 ### R48-14-DEPTH [Writing Law 2026-09-26 Research-grounded techniques]
 
@@ -3435,7 +3831,7 @@ The Phenomenon Bank becomes a growing library: every researched phenomenon (and 
 
 > The Phenomenon Bank becomes a growing library: every researched phenomenon (and pseudoscientific idea) is added for future workings and players to draw from.
 
-## magic-mechanism (100)
+## magic-mechanism (115)
 
 ### R20C-17-SITES_RECHARGE_UNHELPFULLY [Pack Twenty R20C-17]
 
@@ -3917,6 +4313,18 @@ One combat turn is six seconds; efficiency above one draws its surplus from the 
 
 > One combat turn is six seconds. Efficiency above one draws its surplus from the Aether stratum. Healing and mending always cost more than breaking.
 
+### R56-13-THE_GATE [Combat, Society and Politics Law 2026-09-26 Combat, society and politics]
+
+Few people lack a Soul Crystal, commoners included, but knowledge of magic is gatekept by administration: the Imperial Age is when nations lock down which kinds of people may use which magics.
+
+> Few people lack a Soul Crystal, commoners included, but knowledge of magic is gatekept by administration: the Imperial Age is when nations lock down which kinds of people may use which magics.
+
+### R56-14-DORMANT_CRYSTALS [Combat, Society and Politics Law 2026-09-26 Combat, society and politics]
+
+A common person's Crystal is dormant for life unless someone trains them.
+
+> A common person's Crystal is dormant for life unless someone trains them.
+
 ### R27-1-CYMORATH_AIR_OF_ASCENT_FROST_ON_VOHRIN [Cymorath Portfolio Ruling Standing Ruling]
 
 Cymorath carries exactly the portfolio Fracture of Worlds gives it: the Air of Ascent, Family Fulguria, freedom and motion, strengthening Dexterity Celerity and Gnosis Cartography/Perception. It is not a frost Wellspring. Every frost, cold or stasis working the wiki had been drafting as Cymorath is keyed instead to Vohrin, the Abyssal Depths Titan, Family Caloria, Physics Domain Thermodynamics, on the FOW III reading that cold is heat run backward. There is no dedicated frost Wellspring. Codex lines, Wellspring harmonisation rows and Material Ledger resonance columns that name a cold law write Vohrin · Caloria · Thermodynamics; any surviving Cymorath usage is Fulguria.
@@ -3934,6 +4342,18 @@ An item carries an item Tier, the lower of what its material can hold and the Ti
 Enhanced round or arrow 1% of the maker's reserve each (floor 0.001 EU), consumed when fired; enhanced weapon 10% once; proofed armour 25% once; relic the whole reserve once plus a spell of Essence Starvation.
 
 > A practitioner can equip themselves but cannot equip an army.
+
+### R56-6-EXPERT_ROW_WHOLE_SPAN [Magic Docket Questionnaire 2026-09-26 C-063]
+
+The corrected Tier 5 · Expert cell reads 0.60–0.70 for every Stage it spans, Stage V included.
+
+> Whole row, Stage V included (rung I-1): the corrected Tier 5 · Expert cell reads 0.60–0.70 for Stages V–VII. Fluxus Intervallum, Seraphic Thread Blessing, Veil of Verdant Pact and Transposition's Stage V variant reprice to 30–40% bleed. Karo and Yoko follow the table, per WAR-151.
+
+### R56-12-AUTHORITY_RADIUS_IS_PPF [Magic Docket Questionnaire 2026-09-26 WAR-162, the non-force ladder]
+
+The non-force ladder keys authority radius to the Passive Pressure Field at reference density.
+
+> Keep the reading: the Passive Pressure Field is the authority radius at reference density, and the published ladder stands.
 
 ### R42-2-AETHER_CLASS_FROM_GLORY [Magic System Rulings 2026-09-23 C-020]
 
@@ -3964,6 +4384,18 @@ Fusi Vā, the Agamalu binding rite, replaced Saishiki (a Japonic word on a rite 
 A practitioner whose Attraction Layer runs under Obsession Force — the corrupted inversion of Attraction Force — still satisfies an Attraction Path gate for sub-stat purposes. Obsession does not cap Attraction-gated sub-stats hard; this is a setting-wide mechanical rule covering every corrupted practitioner, not a fix scoped to one character.
 
 > Does Obsession satisfy an Attraction Path gate? Yes — Isaac's ruling, 2026-09-12. The values below stand, confirmed rather than conditional. He keeps Silence — the man who is quieter than the background stays exactly that. The ruling is general: Obsession Force satisfies an Attraction Path gate for every corrupted practitioner in the setting, not only him.
+
+### R54-22-REIGAN_REACH [Queue Questionnaire 2026-09-26 WAR-92]
+
+Sodoku's Reigan reaches four hundred miles, with its blindness and eleven-second cost.
+
+> Reigan's reach is four hundred miles: the scene's figure, with its blindness and eleven-second cost, goes on Sodoku's card and the wiki is widened.
+
+### R54-35-CONJUNCTION_UNNAMED [Queue Questionnaire 2026-09-26 WAR-58]
+
+The Sacrament's third Wellspring stays out of the prose until decided.
+
+> Conjunction stays unnamed: the Sacrament's third Wellspring stays out of the prose until decided.
 
 ### R29-1-SACRAMENT_BOND_ANCHOR_BY_DECLARATION [Sacrament Anchor Ruling Standing Ruling]
 
@@ -3997,6 +4429,60 @@ Only a speed enhancement changes a projectile's velocity, capped at the enhancer
 Each enhanced round or arrow draws on the enhancer's reserve (wielder if channelled, maker if prepared) and is consumed when fired; a prepared enhancement carries its maker's Duration and goes stale. A Harmonist reads any enchanted weapon without touching it.
 
 > An enhanced round or arrow is paid for per shot and consumed when fired,
+
+### R55-1-SUBSTANCE_COSTS_PERMANENT [System Accounts Questionnaire 2026-09-26 Dirge Ascension; Final Mercy; Imprinta]
+
+A cost paid in Crystal mass, memory or Essence Core is permanent and cumulative, with a hard lifetime limit.
+
+> Costs paid in the practitioner's own substance (Crystal mass, memory, Essence Core) are permanent and cumulative, with a hard lifetime limit; Imprinta states a cut to maximum reserve.
+
+### R55-2-OVERCHANNEL_DAMAGE_ACCUMULATES [System Accounts Questionnaire 2026-09-26 Spinal Forge Ascent]
+
+A working carrying the Overchannel penalty accumulates damage with use, eventually permanent.
+
+> Spinal Forge Ascent carries the Overchannel penalty: damage accumulates with use and eventually becomes permanent.
+
+### R55-3-SOUL_DRIFT_SCALE [System Accounts Questionnaire 2026-09-26 The Veil]
+
+Soul Drift runs on a scale with named threshold stages; each Veil crossing adds by depth and duration.
+
+> Soul Drift gets a scale with named threshold stages; each Veil crossing adds an amount set by depth and duration.
+
+### R55-4-SPLINTERING_EXPERT_BAND [System Accounts Questionnaire 2026-09-26 Transposition; Veil of Verdant Pact]
+
+Stage V reads the Expert row's η of 0.60–0.70.
+
+> Splintering takes the 0.60-0.70 efficiency band; the whole Expert row reads 0.60-0.70.
+
+### R55-5-HYPNATHER_CORE_LAW [System Accounts Questionnaire 2026-09-26 Oblivion-Step (and every Hypnather working)]
+
+Hypnather's Core Law reads 'cannot be forced by ordinary means'.
+
+> Hypnather's Core Law becomes 'cannot be forced by ordinary means'; Oblivion-Step stays at will, each use an interrupted rest that wears the Crystal.
+
+### R55-6-STANDING_CONDITION_DURABLE [System Accounts Questionnaire 2026-09-26 Edictum]
+
+Spellcraft whose product is a standing condition holds without upkeep.
+
+> Spellcraft whose product is a standing condition is durable (Edictum holds without upkeep); state this in the Four Crafts.
+
+### R55-7-HARMONIC_IMMUNITY_BY_STAGE [System Accounts Questionnaire 2026-09-26 Harmonic Null-Ascension; Celestial Harmonic Shear; Celestial Decree; Obelisk]
+
+Anyone at the caster's Stage or higher is immune to these harmonic workings.
+
+> Harmonic immunity bar is Stage: anyone at the caster's Stage or higher is immune, on all four workings.
+
+### R55-8-AREA_FRIEND_FOE_BY_ATTENTION [System Accounts Questionnaire 2026-09-26 Archivium Locus; Coagula Dominion; Obelisk of the Eclipsed Dawn]
+
+An area working spares allies only while the caster's judgement holds; if it slips, allies are caught.
+
+> Area workings sort friend from foe by the caster's judgement/attention; if it slips, allies are caught (Locus, Coagula, Obelisk).
+
+### R55-10-VOHRIN_TWO_LEVELS [System Accounts Questionnaire 2026-09-26 Hunter's Breath; Maw of Crystalline Stasis; Bloodbind Surge; Cryost Ascendant]
+
+Vohrin is one power at two levels, Titan and Wellspring; frost workings drawing on it are Titan-derived.
+
+> Vohrin is one power at two levels, Titan and Wellspring; the four frost workings become Titan-derived, likely raising their standing and cost.
 
 ### R48-20-STRATA [Writing Law 2026-09-26 WOTR metaphysics on the page]
 
@@ -4040,7 +4526,7 @@ Yasoshima's Essence stability is not natural. For two hundred thousand years Hou
 
 > It is stable because House Yuno has spent two hundred thousand years making it a drain. Every fracture, every fanning-out of chaotic Essence that the rest of the four quarters absorbs and calls weather — the ordinary drift that keeps Measurewrights employed everywhere else in the world — the Kagura branch has been quietly gathering to itself and metabolising, one convergence rite at a time, through the deepest reach of Tōbō no Michi. Yasoshima does not merely tolerate Essence better than anywhere else. It is where a portion of the world's disorder goes to stop being disorder.
 
-## mass-combat (38)
+## mass-combat (43)
 
 ### R3-8-NAVAL_SENSORY_HIERARCHY [Pack Three Amendment Eight §12]
 
@@ -4270,7 +4756,37 @@ The Combat Craft Guide governs duels and small actions; the Mass Combat Craft Gu
 
 > Precedence. This guide governs duels and small actions. The Mass Combat Craft Guide takes precedence the moment a formation exists. The three-layer hit model, the HEMA vocabulary and the armour-tier breakdown are all duel instruments and are explicitly suspended or replaced in mass combat per that guide's sections 1, 3 and 4.
 
-## naming (128)
+### R55-12-TRANSITIONAL_MILITARY [Era and Apparatus Law 2026-09-26 Era and apparatus]
+
+Military: transitional. Cavalry, bright uniforms and drill in the early span; khaki, trenches and rare machine guns later; practitioners change everything anyway.
+
+> Military: transitional. Cavalry, bright uniforms and drill in the early span; khaki, trenches and rare machine guns later; practitioners change everything anyway.
+
+### R54-15-AFTERMATH_PAID_LATER [Queue Questionnaire 2026-09-26 WAR-91]
+
+A named later scene covering two of the five aftermath stages discharges a battle scene's aftermath duty.
+
+> A later scene can pay The Muster's aftermath: a named later scene covering two of the five aftermath stages discharges it.
+
+### R54-17-MULTI_PLACE_SET_PIECE [Queue Questionnaire 2026-09-26 WAR-91]
+
+A scene across several places with one mass-combat section is measured as a set piece.
+
+> A scene in four places with one mass-combat section is measured as a set piece.
+
+### R54-19-MASS_NPC_THOUGHT [Queue Questionnaire 2026-09-26 WAR-92]
+
+A POV-locked mass-combat scene still allows one thought per NPC.
+
+> Yes: mass-combat scenes keep the one-thought-per-NPC allowance even when POV-locked; Robin Ice's italic thought stays.
+
+### R54-20-MASS_WOUND_ANATOMY [Queue Questionnaire 2026-09-26 WAR-92]
+
+Wounds in mass-combat scenes are written with the same anatomy as a duel.
+
+> Yes: mass-combat scenes must still carry duel-level wound anatomy.
+
+## naming (134)
 
 ### R20C-1-BURI_DEAD_EVERYWHERE [Pack Twenty R20C-1]
 
@@ -4475,6 +4991,18 @@ The five elven branches (Eressean, Varrisak, Drow, Eladrin, Echo Elves) share on
 A Beastkin soul-name is a circumstance-element (how the birth went, Akan-day-name style) spoken together with an expectation-element (the attribute the child is charged to grow into, flavoured by lineage stat), and the held-name is whichever fragment survives when home, rank and kin are gone; a third layer supplies the Name-Keeping ritual vocabulary. Whether the four non-Fox lineages actually practise Name-Keeping, and whether soul-name and held-name are one name or two, stay open flags.
 
 > A soul-name has two parts spoken together: the circumstance-element (what the birth was like, Akan-day-name style) and the expectation-element (the attribute the child is charged to grow into). The held-name is whichever fragment survives when everything else — home, rank, kin — has been taken.
+
+### R54-03-SANCTA_LUX [Follow-up Rulings 2026-09-26 Follow-up answers]
+
+Sanctum Lux becomes Sancta Lux on every page.
+
+> Sanctum Lux becomes Sancta Lux on every page.
+
+### R54-13-BORROWED_NAME_FIXES [Follow-up Rulings 2026-09-26 Follow-up answers]
+
+Name fixes applied: Japanese long vowels (Hokai, Seijo, Joka and the Go series take macrons), Coagula Dominium, Symphonia Ascendens, Hae-jin's hanja becomes 海鎮 (Sea-Garrison), and the gloss-only fixes (Kibanda, Kafa-Karim, Hataraki no Sh...
+
+> Name fixes applied: Japanese long vowels (Hokai, Seijo, Joka and the Go series take macrons), Coagula Dominium, Symphonia Ascendens, Hae-jin's hanja becomes 海鎮 (Sea-Garrison), and the gloss-only fixes (Kibanda, Kafa-Karim, Hataraki no Sho glosses, Dawi 'elää').
 
 ### R23-1-POLYNESIAN_REGISTER_STRUCK [Inner World Naming Amendment I]
 
@@ -5016,6 +5544,30 @@ Every character card and place page carries a short pronunciation line.
 
 > Every character card and place page carries a short pronunciation line.
 
+### R54-1-STAGE_NUMERAL_WINS [Queue Questionnaire 2026-09-26 WAR-15]
+
+A card whose Stage numeral and Stage name disagree keeps the numeral and takes the name Fracture of Worlds gives that numeral.
+
+> Number wins: Gimbzo XII Emanation (SSS, Grandmaster); Naevra IX, Naiser VI, Niran VII take the correct names for their numbers. The four earlier 'name wins' fixes stand as they are.
+
+### R54-32-KHARVEN_BESIEGED_BY_MANDATE [Queue Questionnaire 2026-09-26 WAR-118]
+
+The force besieging Kharven is the Iron Mandate, in a nine-year war.
+
+> Kharven's besiegers are the Iron Mandate: 'Expanse' is corrected to the Mandate across the archive, and the Kharven lorebook's cold peace is updated to the nine-year war.
+
+### R54-33-TWO_ONAWAS [Queue Questionnaire 2026-09-26 WAR-53]
+
+Onawa, Empress of Eresse, and Onawa Ashkewe, Queen of the Tsohanto, are two women.
+
+> Two women: Onawa, Empress of Eresse gets her own card; Onawa Ashkewe, Queen of the Tsohanto, stands; the Tsohanto Reach's eleven-year silence becomes her people's answer to the shared name.
+
+### R54-36-MAHOU_AND_MAHUO [Queue Questionnaire 2026-09-26 WAR-98]
+
+Mahou names the line as an institution; Mahuo is the surname a person bears.
+
+> Both forms are real: Mahou is the line as an institution, Mahuo the surname a person bears; the Mahuo Family page states the distinction; future documents follow the Accord's usage.
+
 ### R24-1-FLESHSHAPER_GOVERNING_PRINCIPLE [Racial Voice and Dialect Guide Amendment I]
 
 Fleshshaper Goblin register is governed by the fact that they are surgeons who talk like surgeons never told to be squeamish about it.
@@ -5040,7 +5592,7 @@ The Zettari bloodline's names, titles and technique names are built in a Swahili
 
 > The Zettari speak their own tongue. Their names and their arts are Swahili, Bantu and Arabic in flavour — Kafa-Karim, Habl Flow-Bind, Sarmad Fracture, Sukun Maji, Dawam Soul-Still Art, Kumi-na-Mbili Seal; Zuberi, Ma'Kovu, N'Kharu, Malani, Jomari, N'Yari, Zembari — and that register stands. The five-strata naming convention assigns the archaic bloodlines to the Japonic stratum; the Zettari are carved out of it as a register of their own, and the Japonic assignment continues to govern every other archaic line. Ruled by Isaac, 2026-09-12.
 
-## pov (86)
+## pov (90)
 
 ### R20C-49-GLOSS_RIGHTS_CARD_FIELD [Pack Twenty R20C-49]
 
@@ -5324,6 +5876,30 @@ Close register: Darius, Aurelian, Verinus, Charles, Sodoku Moto, Niran Yukari, W
 
 > Close register: Darius, Aurelian, Verinus, Charles, Sodoku Moto, Niran Yukari, Wren, Kwon Mu-jin. Medium register: Rengai. Distant/formal register: Cozbi Mahuo. Unassigned, pending scenes in their own idiom: Hild Ice (Stark), Dabney (Corvalen Olyss). Each assigned character's entry below carries a violation caution, and the caution is part of the assignment: the register says whose idiom the narration runs in, the caution says where that idiom is most likely to be broken from outside.
 
+### R54-13-NO_POV_WITHOUT_REGISTER [Queue Questionnaire 2026-09-26 WAR-91]
+
+A character may carry a point of view only once a narration register exists for them.
+
+> No POV without a register: Bram Greymane and Lorn Stark get registers.
+
+### R54-14-REGISTER_STAYS_WITH_POV [Queue Questionnaire 2026-09-26 WAR-91]
+
+In another character's viewpoint, a character is read by that narrator's register rules, not their own.
+
+> A register stays with the point of view: in another character's viewpoint Sodoku is read by that narrator's rules.
+
+### R54-18-IGNORANCE_PER_SCENE [Queue Questionnaire 2026-09-26 WAR-91]
+
+One instance of viewpoint ignorance anywhere in a multi-viewpoint scene satisfies the rule.
+
+> The viewpoint-ignorance rule counts per scene: one instance anywhere in a multi-viewpoint scene satisfies it.
+
+### R54-19-MASS_NPC_THOUGHT [Queue Questionnaire 2026-09-26 WAR-92]
+
+A POV-locked mass-combat scene still allows one thought per NPC.
+
+> Yes: mass-combat scenes keep the one-thought-per-NPC allowance even when POV-locked; Robin Ice's italic thought stays.
+
 ### R39-7-NO_NPC_THOUGHT_UNDER_POV_LOCK [Stat System and Scene Rulings 2026-09-13 C-008]
 
 The narration-distance rule wins over Pack One's Scene Standards carve-out: a named NPC gets no private italic thought in a scene with a POV lock. The carve-out survives only where there is no lock — omniscient narration and mass combat.
@@ -5558,7 +6134,7 @@ Narration refers to characters by POV epithets, the way the viewpoint sees them;
 
 > Narration refers to characters by POV epithets, the way the viewpoint sees them; the naming characterises.
 
-## prose-law (215)
+## prose-law (216)
 
 ### R20C-29-CATEGORY_NAMING_DIAGNOSTIC [Pack Twenty R20C-29]
 
@@ -6436,6 +7012,12 @@ Close register: Darius, Aurelian, Verinus, Charles, Sodoku Moto, Niran Yukari, W
 
 > Close register: Darius, Aurelian, Verinus, Charles, Sodoku Moto, Niran Yukari, Wren, Kwon Mu-jin. Medium register: Rengai. Distant/formal register: Cozbi Mahuo. Unassigned, pending scenes in their own idiom: Hild Ice (Stark), Dabney (Corvalen Olyss). Each assigned character's entry below carries a violation caution, and the caution is part of the assignment: the register says whose idiom the narration runs in, the caution says where that idiom is most likely to be broken from outside.
 
+### R54-21-FACULTY_AS_SUBJECT [Queue Questionnaire 2026-09-26 WAR-92]
+
+Inside a close register, the viewpoint character's faculty may stand as the grammatical subject of a sentence.
+
+> Yes: inside a close register the faculty (Reigan) may be the grammatical subject; the three sentences stay.
+
 ### R24-2-ELADRIN_THREE_CHANNELS [Racial Voice and Dialect Guide Amendment II]
 
 Prose must render at least two of three simultaneous channels in any exchange of consequence — sparse speech that rarely carries the content, distance (approach is agreement, a half-step back is objection, turning without moving the feet is refusal), and stillness (complete stillness is often the loudest thing in the room).
@@ -6850,7 +7432,7 @@ Narration refers to characters by POV epithets, the way the viewpoint sees them;
 
 > Narration refers to characters by POV epithets, the way the viewpoint sees them; the naming characterises.
 
-## register (143)
+## register (146)
 
 ### R20C-21-WELL_NAMES_CLASS_MARKED [Pack Twenty R20C-21]
 
@@ -7362,6 +7944,24 @@ Close register: Darius, Aurelian, Verinus, Charles, Sodoku Moto, Niran Yukari, W
 
 > Close register: Darius, Aurelian, Verinus, Charles, Sodoku Moto, Niran Yukari, Wren, Kwon Mu-jin. Medium register: Rengai. Distant/formal register: Cozbi Mahuo. Unassigned, pending scenes in their own idiom: Hild Ice (Stark), Dabney (Corvalen Olyss). Each assigned character's entry below carries a violation caution, and the caution is part of the assignment: the register says whose idiom the narration runs in, the caution says where that idiom is most likely to be broken from outside.
 
+### R54-13-NO_POV_WITHOUT_REGISTER [Queue Questionnaire 2026-09-26 WAR-91]
+
+A character may carry a point of view only once a narration register exists for them.
+
+> No POV without a register: Bram Greymane and Lorn Stark get registers.
+
+### R54-14-REGISTER_STAYS_WITH_POV [Queue Questionnaire 2026-09-26 WAR-91]
+
+In another character's viewpoint, a character is read by that narrator's register rules, not their own.
+
+> A register stays with the point of view: in another character's viewpoint Sodoku is read by that narrator's rules.
+
+### R54-21-FACULTY_AS_SUBJECT [Queue Questionnaire 2026-09-26 WAR-92]
+
+Inside a close register, the viewpoint character's faculty may stand as the grammatical subject of a sentence.
+
+> Yes: inside a close register the faculty (Reigan) may be the grammatical subject; the three sentences stay.
+
 ### R24-1-FLESHSHAPER_GOVERNING_PRINCIPLE [Racial Voice and Dialect Guide Amendment I]
 
 Fleshshaper Goblin register is governed by the fact that they are surgeons who talk like surgeons never told to be squeamish about it.
@@ -7710,7 +8310,7 @@ The Zettari bloodline's names, titles and technique names are built in a Swahili
 
 > The Zettari speak their own tongue. Their names and their arts are Swahili, Bantu and Arabic in flavour — Kafa-Karim, Habl Flow-Bind, Sarmad Fracture, Sukun Maji, Dawam Soul-Still Art, Kumi-na-Mbili Seal; Zuberi, Ma'Kovu, N'Kharu, Malani, Jomari, N'Yari, Zembari — and that register stands. The five-strata naming convention assigns the archaic bloodlines to the Japonic stratum; the Zettari are carved out of it as a register of their own, and the Japonic assignment continues to govern every other archaic line. Ruled by Isaac, 2026-09-12.
 
-## scene-structure (30)
+## scene-structure (32)
 
 ### R19-2-BUILT_AROUND [Pack Nineteen §2]
 
@@ -7886,13 +8486,25 @@ Every reply is a full turn of about 3,500 words, even to a quick line or questio
 
 > Every reply is a full turn of about 3,500 words, even to a quick line or question.
 
+### R54-15-AFTERMATH_PAID_LATER [Queue Questionnaire 2026-09-26 WAR-91]
+
+A named later scene covering two of the five aftermath stages discharges a battle scene's aftermath duty.
+
+> A later scene can pay The Muster's aftermath: a named later scene covering two of the five aftermath stages discharges it.
+
+### R54-17-MULTI_PLACE_SET_PIECE [Queue Questionnaire 2026-09-26 WAR-91]
+
+A scene across several places with one mass-combat section is measured as a set piece.
+
+> A scene in four places with one mass-combat section is measured as a set piece.
+
 ### R39-7-NO_NPC_THOUGHT_UNDER_POV_LOCK [Stat System and Scene Rulings 2026-09-13 C-008]
 
 The narration-distance rule wins over Pack One's Scene Standards carve-out: a named NPC gets no private italic thought in a scene with a POV lock. The carve-out survives only where there is no lock — omniscient narration and mass combat.
 
 > The narration-distance rule wins: no NPC italic thought inside a locked-POV scene. Pack One's "one private italic thought per named NPC" carve-out survives only for scenes with no POV lock (omniscient and mass combat).
 
-## session-protocol (27)
+## session-protocol (28)
 
 ### R20C-5-BRIEF_BURI_SECTION_MUST_GO [Pack Twenty R20C-5]
 
@@ -7971,6 +8583,12 @@ A naming pass runs per culture; existing techniques already established in prose
 wotr_verify.sh and wotr_beat_check.py both run before presenting; failures are fixed and both re-run; no single-pass delivery.
 
 > Both scripts run before presenting, failures are fixed, both re-run. No single-pass delivery.
+
+### R54-07-WREN_GRIEF_FRONT [Follow-up Rulings 2026-09-26 Follow-up answers]
+
+Wren Greymane's Front becomes a grief Front: the aftermath of his death, Bram and the ridge carrying it, ticks driven by who blames whom.
+
+> Wren Greymane's Front becomes a grief Front: the aftermath of his death, Bram and the ridge carrying it, ticks driven by who blames whom.
 
 ### R39-8-PACKS_FOLDED_INTO_EDITIONS [Stat System and Scene Rulings 2026-09-13 Folding]
 
@@ -8056,7 +8674,7 @@ When the partner thinks a beat is drifting or a rule reads wrong, it says so in 
 
 > When the partner thinks a beat is drifting or a rule reads wrong, it says so in one plain line and keeps writing unless stopped.
 
-## standing-inventory (48)
+## standing-inventory (52)
 
 ### R20C-47-CRAFTS_OWE_THE_INVENTORY [Pack Twenty R20C-47]
 
@@ -8135,6 +8753,30 @@ Elegy attaches to a named concrete, specific thing that is gone (a road, a dye c
 A loaded word gets one physical response on first use and no comment; meaning arrives on the third appearance through change — another character uses it, the usual user withholds it, or register makes earlier uses retroactively legible. Withholding is the strongest of the three.
 
 > A loaded word gets one physical response on first use and no comment at all. Meaning arrives on the third appearance, and it arrives through change: someone else uses the word, or the person who always uses it withholds it, or it lands in a register that makes the earlier uses retroactively legible. Withholding is the strongest of the three.
+
+### R56-07-COMMERCE_ON_THE_PAGE [Combat, Society and Politics Law 2026-09-26 Combat, society and politics]
+
+Commerce shows on the page as branded goods and advertising, chartered share-holding companies with exchanges, speculation and crashes, arcades and department stores, and consumer Essence goods sold as products.
+
+> Commerce shows on the page as branded goods and advertising, chartered share-holding companies with exchanges, speculation and crashes, arcades and department stores, and consumer Essence goods sold as products.
+
+### R56-21-SUCCESSION_BY_CULTURE [Combat, Society and Politics Law 2026-09-26 Combat, society and politics]
+
+Succession follows each culture's own law, set on its Inventory.
+
+> Succession follows each culture's own law, set on its Inventory.
+
+### R55-08-CLASS_LAYERED_DRESS [Era and Apparatus Law 2026-09-26 Era and apparatus]
+
+Dress is class-layered: the rich dress late-span (Edwardian to 1920s), the middle mid-Victorian, the poor in timeless work clothes, each culture bent by its Inventory.
+
+> Dress is class-layered: the rich dress late-span (Edwardian to 1920s), the middle mid-Victorian, the poor in timeless work clothes, each culture bent by its Inventory.
+
+### R55-10-HOUSEHOLD [Era and Apparatus Law 2026-09-26 Era and apparatus]
+
+Household: Essence cold-boxes in metered houses, a real ice trade and iceboxes, tinned food, and indoor plumbing in the rich districts; the poor salt, smoke, cellar and use privies and standpipes.
+
+> Household: Essence cold-boxes in metered houses, a real ice trade and iceboxes, tinned food, and indoor plumbing in the rich districts; the poor salt, smoke, cellar and use privies and standpipes.
 
 ### R23-8-KHARVEN_INVENTORY_DECOUPLED [Inner World Naming Amendment VIII]
 
@@ -8346,7 +8988,7 @@ No decade-by-decade technology page: the partner judges what is era-appropriate 
 
 > No decade-by-decade technology page: the partner judges what is era-appropriate in the Imperial Age scene by scene.
 
-## stats (72)
+## stats (96)
 
 ### R20C-30-STAGE_NAMES_FROM_FOW [Pack Twenty R20C-30]
 
@@ -8564,6 +9206,12 @@ One combat turn is six seconds; efficiency above one draws its surplus from the 
 
 > One combat turn is six seconds. Efficiency above one draws its surplus from the Aether stratum. Healing and mending always cost more than breaking.
 
+### R56-03-HARD_RESERVE_CLOCK [Combat, Society and Politics Law 2026-09-26 Combat, society and politics]
+
+Essence and stamina run on a hard clock by the Ledger's numbers; long fights are won by whoever manages the reserve; Starvation hits mid-fight on overspend.
+
+> Essence and stamina run on a hard clock by the Ledger's numbers; long fights are won by whoever manages the reserve; Starvation hits mid-fight on overspend.
+
 ### R44-1-EU_JOULE_ONE_MEGAJOULE [Essence Ledger Rulings 2026-09-25 C-034]
 
 EU converts to joules at one constant, 1 EU = 1 MJ, everywhere; a card figure that then sits outside its Stage's band is a card error and is corrected in its own issue.
@@ -8600,6 +9248,12 @@ A bare "Band V" on a card reads as the live Level Band, not the retired lettered
 
 > Confirmed: the bare "Band V" on Raga's and Verinus VII's cards is the live Level Band, and nothing changes. The brief's "stale Band" item closes with no edit.
 
+### R54-02-DOUGOU_JOULES_FROM_COSTS [Follow-up Rulings 2026-09-26 Follow-up answers]
+
+Dougou: re-derive his joule figures from his restored EU costs (4.752 GJ, 7.326 GJ, 2.772 to 8.811 GJ, B-Grade); the newton figures are dropped, since no contact distance is stated.
+
+> Dougou: re-derive his joule figures from his restored EU costs (4.752 GJ, 7.326 GJ, 2.772 to 8.811 GJ, B-Grade); the newton figures are dropped, since no contact distance is stated.
+
 ### R46-1-ITEM_TIER_LOWER_OF_TWO [The Item Tiers 2026-09-25 What an Item Tier Is]
 
 An item carries an item Tier, the lower of what its material can hold and the Tier of Standing its maker stood at when it was made; a composite is graded by the material carrying the working; a plain item has no Tier and performs as its physics.
@@ -8617,6 +9271,78 @@ Plain (T0, Hollow-F, no stamp); 1 Marked/Signatum E; 2 Proofed/Probatum D; 3 Tem
 Enhanced round or arrow 1% of the maker's reserve each (floor 0.001 EU), consumed when fired; enhanced weapon 10% once; proofed armour 25% once; relic the whole reserve once plus a spell of Essence Starvation.
 
 > A practitioner can equip themselves but cannot equip an army.
+
+### R56-1-ZENITH_STRIKE_UNQUANTIFIED [Magic Docket Questionnaire 2026-09-26 C-061, C-069]
+
+A Stage XIV card states no joule figure for Striking Force; a blow delivers an event the local physics must accommodate.
+
+> Unquantified: the Primate's Striking Force line (:78) becomes Part Eleven's reading, an event the local physics must accommodate. The EX joule band leaves the card. 'No recorded instance' stays.
+
+### R56-2-ZENITH_SPEED_IMMEASURABLE [Magic Docket Questionnaire 2026-09-26 C-065]
+
+A Stage XIV card's Travel Speed is Part Six's Immeasurable Speed classification, not a Mach figure.
+
+> Immeasurable: Kinjiki's Travel Speed becomes Part Six's Immeasurable Speed classification, as on the Primate's card. 'Not his instrument' stays as colour, and the Mach figures leave the card.
+
+### R56-3-ZENITH_RESERVE_STANDS [Magic Docket Questionnaire 2026-09-26 C-060]
+
+A Stage XIV EU reserve has no attack-output band to miss and stands as written.
+
+> Stands, outside R44-1: Stage XIV has no attack-output band to miss, so the Primate's 2,400,000,000 EU reserve is not an error and stays as written.
+
+### R56-4-PAST_THE_GATE_WITH_STRAIN [Magic Docket Questionnaire 2026-09-26 C-041]
+
+A card whose Level stands past a Band gate its Stage has not opened keeps its Level as an in-world outlier and carries standing Residual Strain.
+
+> Anomalies, with Strain: Sodoku (Level 320, Stage VI) and Krothar (Level 380, Stage VIII) keep their Levels as in-world outliers. Each card gains standing Residual Strain from the breach, and Krothar's Band name becomes 'IV — Mythic'.
+
+### R56-5-CARD_ETA_BELOW_BAND_GOVERNS [Magic Docket Questionnaire 2026-09-26 C-062]
+
+A card's own η governs when it sits below its Tier band, as it does above.
+
+> The card's η ~0.55 governs (rung I-2): Draven stands 0.05 under the corrected Tier 5 band, and his seven accounts say so.
+
+### R56-6-EXPERT_ROW_WHOLE_SPAN [Magic Docket Questionnaire 2026-09-26 C-063]
+
+The corrected Tier 5 · Expert cell reads 0.60–0.70 for every Stage it spans, Stage V included.
+
+> Whole row, Stage V included (rung I-1): the corrected Tier 5 · Expert cell reads 0.60–0.70 for Stages V–VII. Fluxus Intervallum, Seraphic Thread Blessing, Veil of Verdant Pact and Transposition's Stage V variant reprice to 30–40% bleed. Karo and Yoko follow the table, per WAR-151.
+
+### R56-7-SCALING_PER_ENTITY [Magic Docket Questionnaire 2026-09-26 C-072]
+
+A card-wide EU correction applies one factor per person, read wherever that person states a reserve; 'Essence Capacity' counts as a stated reserve.
+
+> Per entity: C-059 applies one factor per person, read from wherever that person states a reserve. 'Essence Capacity' counts as a stated reserve. Dougou's card and Mugen no Hatsurugi take the same factor as The Iron Tree and Muken's card.
+
+### R56-8-LEVEL_LAW_SETS_RESERVE_BAND [Magic Docket Questionnaire 2026-09-26 C-076 (WAR-161)]
+
+A Stage's EU reserve band comes from Part Twenty-Three's law of reserves (Level), not from its Max Grade's joule bracket; Part Nineteen is built off it.
+
+> The Level law governs: Part Nineteen's EU-by-Stage and AU/s-by-Stage tables are rebuilt from Part Twenty-Three's Level law, replacing the Grade-bracket derivation published 2026-09-26.
+
+### R56-9-SCALING_ON_LEVEL_BANDS [Magic Docket Questionnaire 2026-09-26 C-059 follow-up]
+
+Card-wide EU scaling reads the Level-law bands, from each card's pre-scaling figures.
+
+> Re-run on the Level-law bands: the same C-059 method (one factor per entity, set point at the geometric mean of the new band) is recomputed from each card's pre-C-059 figures, so nothing compounds.
+
+### R56-10-AU_S_LADDER_TYPICAL [Magic Docket Questionnaire 2026-09-26 WAR-161, AU/s against the cards]
+
+The AU/s-by-Stage ladder gives typical ranges; card AU/s figures outside it stand as outliers.
+
+> The ladder is typical ranges and the cards stand. The 23 misses stay listed as outliers against the rebuilt ladder.
+
+### R56-11-NO_EU_FLOOR [Magic Docket Questionnaire 2026-09-26 WAR-161, EU floor]
+
+EU figures are written as computed, fractions included; the unit has no floor.
+
+> Leave the fractions: no floor on the unit. Fractions of an EU are written as computed, consistent with the decimals answer (WAR-141).
+
+### R56-12-AUTHORITY_RADIUS_IS_PPF [Magic Docket Questionnaire 2026-09-26 WAR-162, the non-force ladder]
+
+The non-force ladder keys authority radius to the Passive Pressure Field at reference density.
+
+> Keep the reading: the Passive Pressure Field is the authority radius at reference density, and the published ladder stands.
 
 ### R42-1-TIER_NAMES_ARCHMASTER_PARAGON [Magic System Rulings 2026-09-23 Tier names]
 
@@ -8708,6 +9434,60 @@ A practitioner whose Attraction Layer runs under Obsession Force — the corrupt
 
 > Does Obsession satisfy an Attraction Path gate? Yes — Isaac's ruling, 2026-09-12. The values below stand, confirmed rather than conditional. He keeps Silence — the man who is quieter than the background stays exactly that. The ruling is general: Obsession Force satisfies an Attraction Path gate for every corrupted practitioner in the setting, not only him.
 
+### R54-1-STAGE_NUMERAL_WINS [Queue Questionnaire 2026-09-26 WAR-15]
+
+A card whose Stage numeral and Stage name disagree keeps the numeral and takes the name Fracture of Worlds gives that numeral.
+
+> Number wins: Gimbzo XII Emanation (SSS, Grandmaster); Naevra IX, Naiser VI, Niran VII take the correct names for their numbers. The four earlier 'name wins' fixes stand as they are.
+
+### R54-2-CRYSTAL_TIER_FROM_STAGE [Queue Questionnaire 2026-09-26 WAR-65]
+
+The tier word comes off the Crystal State field; a separate Crystal Tier field is written from the Stage, or from Aether Class where no Stage is stated.
+
+> Follow Ryuka: the tier word comes off the Crystal State field; a Crystal Tier field is written from the Stage (or Aether Class where no Stage). Akira: Dormant.
+
+### R54-3-STAGE_DECIDES_CRYSTAL_TIER [Queue Questionnaire 2026-09-26 WAR-66]
+
+Where Aether Class and Stage point to different Crystal Tiers, the Stage decides, for every later mismatch.
+
+> Stage decides: Aelum's Crystal Tier is Sovereign; applies to all later Class/Stage mismatches.
+
+### R54-4-FORMULA_WHOLE_OUTPUT_ONLY [Queue Questionnaire 2026-09-26 WAR-102]
+
+A card that splits its output into a measured part and an unmeasured part is left as written; the formula corrects only a single whole-output AU/s.
+
+> Dougou: leave the split output as written (3,900 AU/s external, internal immeasurable); the formula only corrects a single whole-output figure.
+
+### R54-5-DECIMALS_AS_COMPUTED [Queue Questionnaire 2026-09-26 WAR-102,WAR-141]
+
+A figure computed by a ruling is written as computed, with its decimal, not rounded to a whole number.
+
+> Decimals: write figures exactly as computed, with the decimal (Naori 147.9 EU, Artemis 1,663.2 AU/s, etc.).
+
+### R54-6-KEEP_THE_CARDS_FORM [Queue Questionnaire 2026-09-26 WAR-102]
+
+A correction keeps the form the card wrote the figure in: a range stays a range, an approximate base stays approximate.
+
+> Keep the card's form: Elion's output becomes the range 6.768-7.332 million AU/s; Sodoku's line becomes '~772.8 base'.
+
+### R54-7-TABLE_QUOTING_CARDS_FOLLOW [Queue Questionnaire 2026-09-26 WAR-138,WAR-151]
+
+A card whose η is stated as the Tier of Standing table's figure reads whatever the table says for its Stage; its dependent figures are recomputed to stay consistent.
+
+> Follow the table: cards that quote the Tier table's eta read whatever the table says for their Stage (0.60-0.70 at VI-VII now); Yoko's output/flux recomputed to stay consistent.
+
+### R54-8-UNMEASURED_FROM_ZENITH [Queue Questionnaire 2026-09-26 WAR-142]
+
+Stage XV keeps the EX+ Grade label but its force is unmeasured like Zenith; the Zenith row stands beside the Grade ladder, not on it.
+
+> Unmeasured from Zenith: Stage XV keeps its EX+ Grade label, but its force is unmeasured like Zenith's; the Zenith row sits beside the Grade ladder, not on it.
+
+### R54-9-STRIKE_FORCE_OUTLIERS_STAND [Queue Questionnaire 2026-09-26 WAR-49,WAR-62]
+
+A card's stated Strike Force that sits outside its Stage's Max Grade band stands as that character's own outlier; no card changes.
+
+> Card figure governs: each of the twelve Strike Force figures stands as that character's own outlier; no card changes.
+
 ### R26-1-CONCORDANT_CRYSTAL_MECHANISM [Shared Soul Crystal Mechanism 1]
 
 Establishes the Concordant Crystal as the general, reusable mechanism for a Soul Crystal shared by multiple donors: the Essence Cores stay discrete and take turns at the frame's single, non-multiplying Aether Shell; the Attraction Layer alone runs one Wellspring line per donor; Coherence and eta are pooled off the Shell while Tempering Coherence stays per-donor; the frame runs Overgrown by default; and a donor's death or removal either settles the frame toward Refined or, if the survivors will not release it, curdles into Obsession Force -- a failure mode, like single-Shell collapse, that no single-donor Crystal can suffer.
@@ -8783,7 +9563,13 @@ The Dissonance-gated Sub-Stats are Overflow, Overchannel and Persistence; Part S
 
 > The Sub-Stats that reach their true ceiling only through Dissonance are Overflow, Overchannel and Persistence (Part Eight and The Sixteen Stages agree); Part Sixteen's list is corrected to match.
 
-## verification (94)
+### R55-4-SPLINTERING_EXPERT_BAND [System Accounts Questionnaire 2026-09-26 Transposition; Veil of Verdant Pact]
+
+Stage V reads the Expert row's η of 0.60–0.70.
+
+> Splintering takes the 0.60-0.70 efficiency band; the whole Expert row reads 0.60-0.70.
+
+## verification (98)
 
 ### R20C-3-SWEEP_TWO_TIERS [Pack Twenty R20C-3]
 
@@ -9241,6 +10027,12 @@ If removing the battle would preserve the relationship change, the Act was not u
 
 > If you can remove the battle and preserve the relationship change, the Act was not unrepeatable and the battle was decoration. Rebuild the Act around something the engagement made possible and nothing else could.
 
+### R54-04-TITLES_EXEMPT_FROM_BAN_LIST [Follow-up Rulings 2026-09-26 Follow-up answers]
+
+Titles are exempt from the vocabulary ban list; the checker skips the title line ('Verinus: Testament of the Sixty-Fifth' stands).
+
+> Titles are exempt from the vocabulary ban list; the checker skips the title line ('Verinus: Testament of the Sixty-Fifth' stands).
+
 ### R23-10-TELLING_APART_KOREAN [Inner World Naming Amendment X]
 
 A hyphen means Mahuo (Korean); no hyphen means the lineage halls (Chinese). A hollow-seat means Mahuo; the halls use the book instead. A courtesy name means the halls; no Mahuo character has one. A two-syllable surname means neither register — that's Japonic.
@@ -9270,6 +10062,24 @@ Kharven signature items: two of the five per session instead of per turn.
 The repetition tic-word list stays as it is.
 
 > The repetition tic-word list stays as it is.
+
+### R54-12-CHECKER_STOPS_AT_NOTES [Queue Questionnaire 2026-09-26 WAR-33,WAR-34]
+
+Verification stops at the author-notes heading; notes are not measured.
+
+> The prose checker stops at the author-notes heading; notes are not measured.
+
+### R54-17-MULTI_PLACE_SET_PIECE [Queue Questionnaire 2026-09-26 WAR-91]
+
+A scene across several places with one mass-combat section is measured as a set piece.
+
+> A scene in four places with one mass-combat section is measured as a set piece.
+
+### R54-18-IGNORANCE_PER_SCENE [Queue Questionnaire 2026-09-26 WAR-91]
+
+One instance of viewpoint ignorance anywhere in a multi-viewpoint scene satisfies the rule.
+
+> The viewpoint-ignorance rule counts per scene: one instance anywhere in a multi-viewpoint scene satisfies it.
 
 ### R24-3-HOST_BREAKS_ON_MAXIM [Racial Voice and Dialect Guide Amendment III]
 
@@ -9349,7 +10159,7 @@ When the partner thinks a beat is drifting or a rule reads wrong, it says so in 
 
 > When the partner thinks a beat is drifting or a rule reads wrong, it says so in one plain line and keeps writing unless stopped.
 
-## worldbuilding (150)
+## worldbuilding (212)
 
 ### R20C-1-BURI_DEAD_EVERYWHERE [Pack Twenty R20C-1]
 
@@ -9747,6 +10557,144 @@ With Sātūlagi struck, the six non-Kōkan/non-crown lines are landless; every l
 
 > With Sātūlagi struck, the six non-Kōkan lines are landless. Kurenai, Tenrai, Amagiri and the rest hold inherited authority with no ground to exercise it on, and every line's ambition must route through Kharven or through nothing.
 
+### R56-04-DEATH_IS_PERMANENT [Combat, Society and Politics Law 2026-09-26 Combat, society and politics]
+
+Death is almost always permanent; the only exceptions are liches, the undead and their kind.
+
+> Death is almost always permanent; the only exceptions are liches, the undead and their kind.
+
+### R56-05-COMPANY_THEN_CROWN [Combat, Society and Politics Law 2026-09-26 Combat, society and politics]
+
+Crowns and chartered houses expand together: the company takes the ground, then the crown claims it.
+
+> Crowns and chartered houses expand together: the company takes the ground, then the crown claims it.
+
+### R56-06-THE_SCRAMBLE [Combat, Society and Politics Law 2026-09-26 Combat, society and politics]
+
+The scramble is for the commercialisation of monster-hunting (hired hunting parties; guild systems spread rapidly, before the full creation of the Guild Accord, which is a communion of guilds), and for Wells and draw, materials, markets ...
+
+> The scramble is for the commercialisation of monster-hunting (hired hunting parties; guild systems spread rapidly, before the full creation of the Guild Accord, which is a communion of guilds), and for Wells and draw, materials, markets and labour, and routes.
+
+### R56-07-COMMERCE_ON_THE_PAGE [Combat, Society and Politics Law 2026-09-26 Combat, society and politics]
+
+Commerce shows on the page as branded goods and advertising, chartered share-holding companies with exchanges, speculation and crashes, arcades and department stores, and consumer Essence goods sold as products.
+
+> Commerce shows on the page as branded goods and advertising, chartered share-holding companies with exchanges, speculation and crashes, arcades and department stores, and consumer Essence goods sold as products.
+
+### R56-08-WHO_PAYS [Combat, Society and Politics Law 2026-09-26 Combat, society and politics]
+
+The cost of the industrial revolution falls on displaced trades, works labour, the colonised, and unions and unrest.
+
+> The cost of the industrial revolution falls on displaced trades, works labour, the colonised, and unions and unrest.
+
+### R56-09-ACCORD_FORMING_NOW [Combat, Society and Politics Law 2026-09-26 Combat, society and politics]
+
+The Guild Accord is forming now, in the story's present.
+
+> The Guild Accord is forming now, in the story's present.
+
+### R56-10-LICENSED_FOR_HIRE [Combat, Society and Politics Law 2026-09-26 Combat, society and politics]
+
+Anyone may practise privately, but taking pay for workings or hunts needs a guild licence; unlicensed hunters are cheap and common.
+
+> Anyone may practise privately, but taking pay for workings or hunts needs a guild licence; unlicensed hunters are cheap and common.
+
+### R56-11-TRACE_EVIDENCE_AND_JURISDICTION [Combat, Society and Politics Law 2026-09-26 Combat, society and politics]
+
+A crime done with a working is proved by trace examiners reading its traces as evidence, and guild courts and crown courts fight over jurisdiction.
+
+> A crime done with a working is proved by trace examiners reading its traces as evidence, and guild courts and crown courts fight over jurisdiction.
+
+### R56-12-PRACTITIONERS_AT_WORK [Combat, Society and Politics Law 2026-09-26 Combat, society and politics]
+
+Practitioners work as hired hunters, works inscribers, company soldiers, and in private practice.
+
+> Practitioners work as hired hunters, works inscribers, company soldiers, and in private practice.
+
+### R56-13-THE_GATE [Combat, Society and Politics Law 2026-09-26 Combat, society and politics]
+
+Few people lack a Soul Crystal, commoners included, but knowledge of magic is gatekept by administration: the Imperial Age is when nations lock down which kinds of people may use which magics.
+
+> Few people lack a Soul Crystal, commoners included, but knowledge of magic is gatekept by administration: the Imperial Age is when nations lock down which kinds of people may use which magics.
+
+### R56-14-DORMANT_CRYSTALS [Combat, Society and Politics Law 2026-09-26 Combat, society and politics]
+
+A common person's Crystal is dormant for life unless someone trains them.
+
+> A common person's Crystal is dormant for life unless someone trains them.
+
+### R56-15-WHO_MAY_LEARN [Combat, Society and Politics Law 2026-09-26 Combat, society and politics]
+
+Who may learn which magic is decided by natural ability (people are recruited to magical academies and sought out by the guilds), class and birth, nation and loyalty, licence and exam, and bloodline.
+
+> Who may learn which magic is decided by natural ability (people are recruited to magical academies and sought out by the guilds), class and birth, nation and loyalty, licence and exam, and bloodline.
+
+### R56-16-ENFORCEMENT [Combat, Society and Politics Law 2026-09-26 Combat, society and politics]
+
+The lockdown is enforced by controlled texts, Crystal registration, inspectors and trace examiners, the Inquisition, and by the guilds, which locally hunt down those who do wrong.
+
+> The lockdown is enforced by controlled texts, Crystal registration, inspectors and trace examiners, the Inquisition, and by the guilds, which locally hunt down those who do wrong.
+
+### R56-17-LEARNING_ANYWAY [Combat, Society and Politics Law 2026-09-26 Combat, society and politics]
+
+Those who learn anyway: black-market teaching, self-derived workings, the guild loophole (hunting guilds train their own outside the state's gate), and harsh penalties for unlicensed high magic.
+
+> Those who learn anyway: black-market teaching, self-derived workings, the guild loophole (hunting guilds train their own outside the state's gate), and harsh penalties for unlicensed high magic.
+
+### R56-18-ACCORD_FORMING_IN_CIRCLES [Combat, Society and Politics Law 2026-09-26 Combat, society and politics]
+
+The Guild Accord's pages read as forming in circles: the Articles and Commission framework bind where a circle has signed and not yet elsewhere.
+
+> The Guild Accord's pages read as forming in circles: the Articles and Commission framework bind where a circle has signed and not yet elsewhere.
+
+### R56-19-LAYERED_RULE [Combat, Society and Politics Law 2026-09-26 Combat, society and politics]
+
+Day-to-day rule is layered: a crown or house holds the land, a chartered company the trade, the guilds the hunters and local policing of magic; each fights the others over jurisdiction, and which layer wins differs by place.
+
+> Day-to-day rule is layered: a crown or house holds the land, a chartered company the trade, the guilds the hunters and local policing of magic; each fights the others over jurisdiction, and which layer wins differs by place.
+
+### R56-20-HOW_POWERS_FIGHT [Combat, Society and Politics Law 2026-09-26 Combat, society and politics]
+
+The powers fight by proxy and company wars, open war, economic war and intrigue; WOTR needs distinct conflicting factions with different interests written out.
+
+> The powers fight by proxy and company wars, open war, economic war and intrigue; WOTR needs distinct conflicting factions with different interests written out.
+
+### R56-21-SUCCESSION_BY_CULTURE [Combat, Society and Politics Law 2026-09-26 Combat, society and politics]
+
+Succession follows each culture's own law, set on its Inventory.
+
+> Succession follows each culture's own law, set on its Inventory.
+
+### R56-22-THE_NIGHT_WATCH [Combat, Society and Politics Law 2026-09-26 Factions]
+
+The Night Watch is a pre-Guild-Accord investigation unit on illegal magic and phenomena. It is a crown office: it works alongside the guilds but answers to the state.
+
+> The Night Watch is a pre-Guild-Accord investigation unit on illegal magic and phenomena. It is a crown office: it works alongside the guilds but answers to the state.
+
+### R56-23-THE_MOTHER [Combat, Society and Politics Law 2026-09-26 Factions]
+
+Malphas runs an organization called The Mother, after the mother of vinegar, the living culture that sours everything it is added to. Its cells are cultures; recruits are inoculated. The Greyshaft Nine coldhouse cell is one of them.
+
+> Malphas runs an organization called The Mother, after the mother of vinegar, the living culture that sours everything it is added to. Its cells are cultures; recruits are inoculated. The Greyshaft Nine coldhouse cell is one of them.
+
+### R56-24-THE_MOTHER_IS_A_CULT [Combat, Society and Politics Law 2026-09-26 Factions]
+
+The Mother is a cult.
+
+> The Mother is a cult.
+
+### R56-25-WHAT_MALPHAS_WANTS [Combat, Society and Politics Law 2026-09-26 Factions]
+
+Malphas wants from it: to obtain the unattainable; to feed his backlog (he cannot convert what he holds fast enough); to break the Gate (the state lockdown on who may learn magic); and profit and power.
+
+> Malphas wants from it: to obtain the unattainable; to feed his backlog (he cannot convert what he holds fast enough); to break the Gate (the state lockdown on who may learn magic); and profit and power.
+
+### R56-26-NIGHT_WATCH_SOCIETY [Combat, Society and Politics Law 2026-09-26 Factions]
+
+The Night Watch Society is one body with the Night Watch: a crown-chartered society. It holds a crown charter and warrant, is organised as chapters (the Timberline among them) with walkers on fixed walks and a bulletin office, answers to...
+
+> The Night Watch Society is one body with the Night Watch: a crown-chartered society. It holds a crown charter and warrant, is organised as chapters (the Timberline among them) with walkers on fixed walks and a bulletin office, answers to the crown, and keeps the Night Register, which takes up what the Lattice Classification Bureau (a separate office) closes. 'The Society's warrant, not the Bureau's' is the crown's warrant as the Society holds it.
+
 ### R37-1-MAHUO_ELEMENT_INVENTORY [Naming Guide Amendment / Element Inventories I. Mahuo]
 
 A Mahuo given name is two syllables drawn from a fixed thirty-element inventory in five categories (breath and soul, Ledger and record, house and clan-seat, precision and correction, care and healing); one syllable is the generation-syllable shared across a cohort, the other is personal, either may take either position, and the family name may precede or follow since canon attests both orders. Which syllable is generational in the attested pairs, and whether Kwon is a Mahuo cadet branch, stay open flags.
@@ -9770,6 +10718,132 @@ The five elven branches (Eressean, Varrisak, Drow, Eladrin, Echo Elves) share on
 A Beastkin soul-name is a circumstance-element (how the birth went, Akan-day-name style) spoken together with an expectation-element (the attribute the child is charged to grow into, flavoured by lineage stat), and the held-name is whichever fragment survives when home, rank and kin are gone; a third layer supplies the Name-Keeping ritual vocabulary. Whether the four non-Fox lineages actually practise Name-Keeping, and whether soul-name and held-name are one name or two, stay open flags.
 
 > A soul-name has two parts spoken together: the circumstance-element (what the birth was like, Akan-day-name style) and the expectation-element (the attribute the child is charged to grow into). The held-name is whichever fragment survives when everything else — home, rank, kin — has been taken.
+
+### R55-01-ESSENCE_ENGINES [Era and Apparatus Law 2026-09-26 Era and apparatus]
+
+Prime power: Essence engines. Draw-fed engines replace coal and steam outright; the main and the meter are the industrial revolution.
+
+> Prime power: Essence engines. Draw-fed engines replace coal and steam outright; the main and the meter are the industrial revolution.
+
+### R55-02-NO_ELECTRICITY [Era and Apparatus Law 2026-09-26 Era and apparatus]
+
+Electricity: Essence replaces it. Electricity was never discovered as a separate force; the Essence lamp and main fill its place.
+
+> Electricity: Essence replaces it. Electricity was never discovered as a separate force; the Essence lamp and main fill its place.
+
+### R55-03-WIRE_AND_TELEPHONE [Era and Apparatus Law 2026-09-26 Era and apparatus]
+
+Communication: the telegraph wire everywhere the Guild runs, plus telephones in Guild offices and rich houses in the big cities.
+
+> Communication: the telegraph wire everywhere the Guild runs, plus telephones in Guild offices and rich houses in the big cities.
+
+### R55-04-VEHICLES [Era and Apparatus Law 2026-09-26 Era and apparatus]
+
+Vehicles: rail and city trams, motorcars, airships and aircraft all exist across the span, and WOTR also has vehicles and objects of its own invention.
+
+> Vehicles: rail and city trams, motorcars, airships and aircraft all exist across the span, and WOTR also has vehicles and objects of its own invention.
+
+### R55-05-STEEP_REGIONAL_GRADIENT [Era and Apparatus Law 2026-09-26 Era and apparatus]
+
+Regional gradient: steep. Accord and Guild cities live in the late span, the provinces decades behind, the north (Kharven) in the early 1800s; a traveller moves through time.
+
+> Regional gradient: steep. Accord and Guild cities live in the late span, the provinces decades behind, the north (Kharven) in the early 1800s; a traveller moves through time.
+
+### R55-06-MEDIA [Era and Apparatus Law 2026-09-26 Era and apparatus]
+
+Media: newspapers and a penny press, photography, moving pictures and recorded sound all exist (the later ones in the later span and the richer places).
+
+> Media: newspapers and a penny press, photography, moving pictures and recorded sound all exist (the later ones in the later span and the richer places).
+
+### R55-07-VICTORIAN_EDWARDIAN_CITY [Era and Apparatus Law 2026-09-26 Era and apparatus]
+
+The big city is Victorian-Edwardian: brick and stone, four to six storeys, tenements and terraces, glass arcades, Essence-lit streets, iron bridges.
+
+> The big city is Victorian-Edwardian: brick and stone, four to six storeys, tenements and terraces, glass arcades, Essence-lit streets, iron bridges.
+
+### R55-08-CLASS_LAYERED_DRESS [Era and Apparatus Law 2026-09-26 Era and apparatus]
+
+Dress is class-layered: the rich dress late-span (Edwardian to 1920s), the middle mid-Victorian, the poor in timeless work clothes, each culture bent by its Inventory.
+
+> Dress is class-layered: the rich dress late-span (Edwardian to 1920s), the middle mid-Victorian, the poor in timeless work clothes, each culture bent by its Inventory.
+
+### R55-09-ESSENCE_WORKS [Era and Apparatus Law 2026-09-26 Era and apparatus]
+
+Making: clean, humming Essence works and mills; mass production exists, and the grime is in the working conditions, not the air.
+
+> Making: clean, humming Essence works and mills; mass production exists, and the grime is in the working conditions, not the air.
+
+### R55-10-HOUSEHOLD [Era and Apparatus Law 2026-09-26 Era and apparatus]
+
+Household: Essence cold-boxes in metered houses, a real ice trade and iceboxes, tinned food, and indoor plumbing in the rich districts; the poor salt, smoke, cellar and use privies and standpipes.
+
+> Household: Essence cold-boxes in metered houses, a real ice trade and iceboxes, tinned food, and indoor plumbing in the rich districts; the poor salt, smoke, cellar and use privies and standpipes.
+
+### R55-11-MATERIALS [Era and Apparatus Law 2026-09-26 Era and apparatus]
+
+Materials: cheap steel and iron, rubber and gutta-percha, early plastics in the late span, and the Master Material Ledger's Essence-born materials alongside them.
+
+> Materials: cheap steel and iron, rubber and gutta-percha, early plastics in the late span, and the Master Material Ledger's Essence-born materials alongside them.
+
+### R55-12-TRANSITIONAL_MILITARY [Era and Apparatus Law 2026-09-26 Era and apparatus]
+
+Military: transitional. Cavalry, bright uniforms and drill in the early span; khaki, trenches and rare machine guns later; practitioners change everything anyway.
+
+> Military: transitional. Cavalry, bright uniforms and drill in the early span; khaki, trenches and rare machine guns later; practitioners change everything anyway.
+
+### R55-13-TIMEKEEPING [Era and Apparatus Law 2026-09-26 Era and apparatus]
+
+Time: pocket watches for the middle class up, a standard Guild time spreading along wire and rail, bells and the sun in the country.
+
+> Time: pocket watches for the middle class up, a standard Guild time spreading along wire and rail, bells and the sun in the country.
+
+### R55-14-HEAVY_BUREAUCRACY [Era and Apparatus Law 2026-09-26 Era and apparatus]
+
+Bureaucracy: heavy. Forms, permits, stamps, registers, typewriters and carbon copies; the Guild is a paper empire.
+
+> Bureaucracy: heavy. Forms, permits, stamps, registers, typewriters and carbon copies; the Guild is a paper empire.
+
+### R55-15-LEISURE [Era and Apparatus Law 2026-09-26 Era and apparatus]
+
+Leisure: theatre and music hall, sport and spectacle (racing, prize-fighting, practitioner exhibitions), cafes, clubs and reading rooms, pleasure gardens and fairs.
+
+> Leisure: theatre and music hall, sport and spectacle (racing, prize-fighting, practitioner exhibitions), cafes, clubs and reading rooms, pleasure gardens and fairs.
+
+### R55-16-APPARATUS_PAGES [Era and Apparatus Law 2026-09-26 Era and apparatus]
+
+These answers are folded into The Apparatus of the Age and The Works and Days as settled text with a regional gradient section; still no decade-by-decade table.
+
+> These answers are folded into The Apparatus of the Age and The Works and Days as settled text with a regional gradient section; still no decade-by-decade table.
+
+### R54-01-HILD_TWELVE_AT_DEATH [Follow-up Rulings 2026-09-26 Follow-up answers]
+
+Hild's age at death: twelve at death. She is 11 on her card's As Of moment and turns twelve before the ninth hour; 'twelve' at her death stands everywhere.
+
+> Hild's age at death: twelve at death. She is 11 on her card's As Of moment and turns twelve before the ninth hour; 'twelve' at her death stands everywhere.
+
+### R54-06-WELL_SPAWN_WELLS_ONLY [Follow-up Rulings 2026-09-26 Follow-up answers]
+
+Well-spawn publishes, Wells only: the spread along city mains into towns is struck.
+
+> Well-spawn publishes, Wells only: the spread along city mains into towns is struck.
+
+### R54-07-WREN_GRIEF_FRONT [Follow-up Rulings 2026-09-26 Follow-up answers]
+
+Wren Greymane's Front becomes a grief Front: the aftermath of his death, Bram and the ridge carrying it, ticks driven by who blames whom.
+
+> Wren Greymane's Front becomes a grief Front: the aftermath of his death, Bram and the ridge carrying it, ticks driven by who blames whom.
+
+### R54-14-YUKARI_EYES_CRIMSON [Follow-up Rulings 2026-09-26 Follow-up answers]
+
+Yukari eyes: crimson. The cards win; the bloodline page's silver-violet is corrected.
+
+> Yukari eyes: crimson. The cards win; the bloodline page's silver-violet is corrected.
+
+### R54-16-THE_WIRE_IS_A_GUILD_LINE [Follow-up Rulings 2026-09-26 Follow-up answers]
+
+The wire is a Guild line; the Infrastructure page is corrected.
+
+> The wire is a Guild line; the Infrastructure page is corrected.
 
 ### R23-1-POLYNESIAN_REGISTER_STRUCK [Inner World Naming Amendment I]
 
@@ -10023,6 +11097,108 @@ Yukari rename at life-stage; Dawi add the oath-name at oath-taking; Elven valida
 
 > Each culture has different triggers for name-change. The Yukari rename at life-stage transitions. The Dawi add the oath-name at oath-taking. The Elven validate or strip names publicly. The Concord system freezes bynames into surnames over generations. The Beastkin hold their name-keeping as a last resort. When a character moves between cultures, the question of which naming rules apply produces genuine conflict: does a Mahuo practitioner who swears a Dawi oath gain an oath-name? Does a Concord human adopted into a Yukari household receive a new name at coming-of-age? The answer is always specific to the characters involved, and the answer is never clean.
 
+### R54-16-STONE_BLOOD_COLD_LATENCY [Queue Questionnaire 2026-09-26 WAR-91]
+
+Stone-Blood run about three-quarters of a beat late in deep cold, in every such fight.
+
+> Stone-Blood cold latency is a rule: Stone-Blood slow (about three-quarters of a beat late) in deep cold, canon for every such fight; the paragraph stays.
+
+### R54-22-REIGAN_REACH [Queue Questionnaire 2026-09-26 WAR-92]
+
+Sodoku's Reigan reaches four hundred miles, with its blindness and eleven-second cost.
+
+> Reigan's reach is four hundred miles: the scene's figure, with its blindness and eleven-second cost, goes on Sodoku's card and the wiki is widened.
+
+### R54-23-WREN_DIES [Queue Questionnaire 2026-09-26 WAR-92]
+
+Wren is dead from What the Sky Does Not Ask on, and later pages agree.
+
+> Yes, Wren dies: Sodoku's prediction binds; Wren is dead from What the Sky Does Not Ask on, and later pages must agree.
+
+### R54-24-RIKU_BEFORE_THE_BOOK [Queue Questionnaire 2026-09-26 WAR-69]
+
+Rikudoku Moto is about seven during the Kharven book; Yoko is a mother on its pages.
+
+> Riku is born before the book (about seven during it); Yoko is a mother on its pages; the Revolution of the Inner World birth-night scene is rewritten or redated.
+
+### R54-25-SEAT_GROUND_BURIAL [Queue Questionnaire 2026-09-26 WAR-50]
+
+Kharven-Seat buries in the ground as its own city rite; the wider Four Quarters faith keeps sky burial.
+
+> Ground burial is Kharven-Seat's own city rite; the wider Four Quarters faith keeps sky burial; the faith page gains a line saying so.
+
+### R54-26-BENCH_OF_ATTRIBUTION [Queue Questionnaire 2026-09-26 WAR-50]
+
+The Bench of Attribution may not keep or compel records of signings.
+
+> It is the Bench of Attribution with its remit unchanged; later chapters may not have it keep or compel records of signings.
+
+### R54-27-TWO_CUTS_FERRIBY [Queue Questionnaire 2026-09-26 WAR-64]
+
+Tally cut his own section; Qiu Yinzhi cut and sealed the exhibit wedge.
+
+> Two cuts: Tally cut his own section; Qiu Yinzhi cut and sealed the exhibit wedge herself; notes saying Tally cut the exhibit are corrected.
+
+### R54-28-FIRST_MEET_NORTH_GATE [Queue Questionnaire 2026-09-26 WAR-105]
+
+Sodoku and Hild first meet at the north gate.
+
+> They first meet at the north gate; the infancy clause in True King part 17 is cut; Hild's card row is updated to after the reunion.
+
+### R54-29-AGES_AT_THE_MUSTER [Queue Questionnaire 2026-09-26 WAR-109]
+
+At the muster Sodoku is 28 and Hild 11.
+
+> Sodoku 28, Hild 11 at the muster: Sodoku's card moves to 28; the nineteen-year lines become eleven or twelve; The Fixed End's standing-wave passage is rewritten to fit.
+
+### R54-30-FERN_STARK_MOTHER [Queue Questionnaire 2026-09-26 WAR-110]
+
+Fern Stark is Hild's mother; Freya is a different woman Sodoku lost.
+
+> Fern Stark is Hild's mother; Freya is a different woman Sodoku lost; the 18 September ruling line is corrected to Fern.
+
+### R54-31-GREYMANE_WEST_BRAM_SOUTH [Queue Questionnaire 2026-09-26 WAR-111]
+
+The Greymane ridge guards the west while Bram commands the southern approach.
+
+> Both: the Greymane ridge guards the west while Bram commands the southern approach; both cards say so explicitly.
+
+### R54-32-KHARVEN_BESIEGED_BY_MANDATE [Queue Questionnaire 2026-09-26 WAR-118]
+
+The force besieging Kharven is the Iron Mandate, in a nine-year war.
+
+> Kharven's besiegers are the Iron Mandate: 'Expanse' is corrected to the Mandate across the archive, and the Kharven lorebook's cold peace is updated to the nine-year war.
+
+### R54-33-TWO_ONAWAS [Queue Questionnaire 2026-09-26 WAR-53]
+
+Onawa, Empress of Eresse, and Onawa Ashkewe, Queen of the Tsohanto, are two women.
+
+> Two women: Onawa, Empress of Eresse gets her own card; Onawa Ashkewe, Queen of the Tsohanto, stands; the Tsohanto Reach's eleven-year silence becomes her people's answer to the shared name.
+
+### R54-34-SACRAMENT_CELL_ALTHERION [Queue Questionnaire 2026-09-26 WAR-58]
+
+The Sacrament cell stays under the Grand Church in Altherion.
+
+> The Sacrament cell stays under the Grand Church in Altherion; the scene stands.
+
+### R54-35-CONJUNCTION_UNNAMED [Queue Questionnaire 2026-09-26 WAR-58]
+
+The Sacrament's third Wellspring stays out of the prose until decided.
+
+> Conjunction stays unnamed: the Sacrament's third Wellspring stays out of the prose until decided.
+
+### R54-36-MAHOU_AND_MAHUO [Queue Questionnaire 2026-09-26 WAR-98]
+
+Mahou names the line as an institution; Mahuo is the surname a person bears.
+
+> Both forms are real: Mahou is the line as an institution, Mahuo the surname a person bears; the Mahuo Family page states the distinction; future documents follow the Accord's usage.
+
+### R54-37-ZARRON_STRUCK [Queue Questionnaire 2026-09-26 WAR-99]
+
+Zarron Mahuo is struck from canon and no page cites him.
+
+> Zarron Mahuo is retconned: removed from canon. His card is struck and every page that cites him is cleaned (Mahuo Family roster, rulings references, scenes).
+
 ### R24-3-HOST_GOVERNING_PRINCIPLE [Racial Voice and Dialect Guide Amendment III]
 
 The Host is not speaking scripture; they report accurately, and their difficulty is that accuracy in their register does not translate into a mortal one.
@@ -10034,6 +11210,12 @@ The Host is not speaking scripture; they report accurately, and their difficulty
 All three registers are originations contradicting no existing lore (none existed); if any culture has established speech in an unreached document, these are overridden by it.
 
 > All three are originations and none contradicts existing lore, because no lore existed. If any of these cultures has established speech in a document I did not reach, these are overridden by it and I would rather be told than have it discovered in prose.
+
+### R55-10-VOHRIN_TWO_LEVELS [System Accounts Questionnaire 2026-09-26 Hunter's Breath; Maw of Crystalline Stasis; Bloodbind Surge; Cryost Ascendant]
+
+Vohrin is one power at two levels, Titan and Wellspring; frost workings drawing on it are Titan-derived.
+
+> Vohrin is one power at two levels, Titan and Wellspring; the four frost workings become Titan-derived, likely raising their standing and cost.
 
 ### R28-1-BLACK_STONES_SHALE_ANALOGUE [Voidfall Stone / Black Stones Ruling Standing Ruling]
 

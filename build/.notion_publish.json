@@ -919,5 +919,10 @@
     "page_id": "3e858200-eb22-8157-9caa-cf7d92b30c0b",
     "title": "Aftermath: Hold the Wall",
     "hash": "8f877e81d6645535"
+  },
+  "scenes/hiromi_the_bench.md": {
+    "page_id": "3e858200-eb22-81f0-9e47-cbf7fe43f0ed",
+    "title": "Hiromi: The Bench",
+    "hash": "97349c0a93b83740"
   }
 }

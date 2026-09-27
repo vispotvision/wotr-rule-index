@@ -909,5 +909,10 @@
     "page_id": "3e858200-eb22-8133-b90f-da4567cb17d9",
     "title": "Geturo: The Host Line",
     "hash": "77d938c8d40a3663"
+  },
+  "scenes/geturo_gypsum.md": {
+    "page_id": "3e858200-eb22-8161-bdfa-cdd4126d1ce6",
+    "title": "Geturo: Gypsum",
+    "hash": "44ded9e1cd4a8bba"
   }
 }

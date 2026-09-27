@@ -1,0 +1,534 @@
+# Standing rulings, originated: no source document. Backfill of RULINGS.md entries dated
+# 2026-09-18 to 2026-09-26 that set a lasting rule but had no rule row (rulings audit, 2026-09-26).
+# Each verbatim is an exact substring of the RULINGS.md entry named in its section and ratified.
+# Standalone-ruling pattern: empty source.file. R57 is a free id-numeral bucket.
+pack: Rulings Backfill 2026-09-26
+pack_number: null
+source_file: ''
+ratified: Isaac, 2026-09-18 to 2026-09-26, ruled directly (entries named per row); backfilled 2026-09-26
+rules:
+- id: R57-01-KWON_MU_JIN_IS_38
+  pack: Rulings Backfill 2026-09-26
+  pack_number: null
+  section: 2026-09-18 — new
+  title: Kwon Mu-jin is 38
+  status: live
+  kind: definition
+  summary: Kwon Mu-jin is 38, not 24; his Catalyst Event stays at fourteen and 'ten years since' reads
+    twenty-four years.
+  verbatim: Kwon Mu-jin is 38, not 24.
+  amends: []
+  supersedes: []
+  applies_to:
+  - worldbuilding
+  - character-sheet
+  verification: []
+  ratified: Isaac, 2026-09-18, ruled directly (RULINGS.md entry '## 2026-09-18 — new')
+  source:
+    file: ''
+    lines: null
+  notes: 'Not yet applied: wiki/Volume I — Character Cards/Kwon Mu-jin.md:26 still reads Age 24 and :32
+    ''the ten years since''.'
+- id: R57-02-MAHUO_CHILDREN_AGES
+  pack: Rulings Backfill 2026-09-26
+  pack_number: null
+  section: 2026-09-18 — new
+  title: Geturo 15, Hiromi 13, Lily 12
+  status: live
+  kind: definition
+  summary: Mu-jin's children are Geturo 15 (eldest), Hiromi 13, Lily 12 (youngest); no twins.
+  verbatim: His children's ages are fixed at Geturo 15, Hiromi 13, Lily 12; Geturo is the eldest and Lily
+    the youngest
+  amends: []
+  supersedes: []
+  applies_to:
+  - worldbuilding
+  verification: []
+  ratified: Isaac, 2026-09-18, ruled directly (RULINGS.md entry '## 2026-09-18 — new')
+  source:
+    file: ''
+    lines: null
+  notes: Strikes the twins/older-sister author notes in the_great_summoners_morning.md.
+- id: R57-03-JUGGERNAUTS_FIST_CONTACT
+  pack: Rulings Backfill 2026-09-26
+  pack_number: null
+  section: 2026-09-22 — new
+  title: Juggernaut's Fist lands on any contact
+  status: live
+  kind: definition
+  summary: Any contact with Hiromi's Juggernaut's Fist counts as a landed strike, parried or blocked included,
+    and each contact deepens a gravity well on the struck body.
+  verbatim: 'Juggernaut''s Fist (Hiromi Mahuo): any contact counts as a landed strike, including a blow
+    that is parried or blocked. Each contact deepens a gravity well (aetheric pressure raising air pressure
+    and local pull) on the struck body.'
+  amends: []
+  supersedes: []
+  applies_to:
+  - combat
+  - magic-mechanism
+  verification: []
+  ratified: Isaac, 2026-09-22, ruled directly (RULINGS.md entry '## 2026-09-22 — new')
+  source:
+    file: ''
+    lines: null
+  notes: 'Card entry with Cost, Limit and Counter still owed on Hiromi Mahuo''s card; demonstrated counter:
+    the weight is only force and can be spent as leverage.'
+- id: R57-04-DIALOGUE_IMPROVED_ON_REQUEST
+  pack: Rulings Backfill 2026-09-26
+  pack_number: null
+  section: 2026-09-21 — R19-2-FIXED_TEXT
+  title: Asked to improve an RP post, Isaac's dialogue is in scope
+  status: live
+  kind: mandate
+  summary: When Isaac asks for an RP post to be made better, his dialogue is improved too (voice, rhythm,
+    realism) keeping meaning, intent and prosodic notation; fixed text still governs scene work.
+  verbatim: When Isaac asks Natalie to "make this better / improve it" on an RP post, his dialogue is
+    in scope and gets improved automatically (voice, rhythm, realism per R19-4), keeping each line's meaning
+    and intent and his prosodic notation (capitals, ellipses) per R19-3.
+  amends: []
+  supersedes: []
+  applies_to:
+  - dialogue
+  verification: []
+  ratified: Isaac, 2026-09-21, ruled directly (RULINGS.md entry '## 2026-09-21 — R19-2-FIXED_TEXT')
+  source:
+    file: ''
+    lines: null
+  notes: 'Amends R19-2-FIXED_TEXT (a carve-out, not a supersession): ''R19-2 fixed-text still governs
+    scene work where he submits dialogue to be set.'''
+- id: R57-05-ROVHEN_INVESTIGATOR
+  pack: Rulings Backfill 2026-09-26
+  pack_number: null
+  section: 2026-09-24 — new
+  title: Rovhen Talvasciel is a retired magical investigator
+  status: live
+  kind: definition
+  summary: 'Rovhen Talvasciel is retconned: a human retired private magical investigator, 28, once Edmund
+    Lambert''s assistant, now an Aetherion Academy instructor; ''The Prettier'' card is superseded.'
+  verbatim: Rovhen is now a human retired private magical investigator, 28, former assistant to Edmund
+    Lambert, new instructor at Aetherion Academy teaching the observation and investigation of magical
+    phenomena.
+  amends: []
+  supersedes: []
+  applies_to:
+  - worldbuilding
+  - character-sheet
+  verification: []
+  ratified: Isaac, 2026-09-24, ruled directly (RULINGS.md entry '## 2026-09-24 — new')
+  source:
+    file: ''
+    lines: null
+  notes: 'Not yet applied: wiki/Volume I — Character Cards/Rovhen Talvasciel · The Prettier.md is still
+    the old Volume I card.'
+- id: R57-06-EDMUND_LAMBERT
+  pack: Rulings Backfill 2026-09-26
+  pack_number: null
+  section: 2026-09-24 — new
+  title: Edmund Lambert is not Edward Lambert
+  status: live
+  kind: definition
+  summary: Edmund Lambert is a dead member of the Lambert family, distinct from Edward Lambert; relation
+    unset.
+  verbatim: Edmund Lambert is a separate character from Edward Lambert and a member of the Lambert family;
+    exact relation unset. Edmund is dead; Rovhen was his assistant.
+  amends: []
+  supersedes: []
+  applies_to:
+  - worldbuilding
+  - naming
+  verification: []
+  ratified: Isaac, 2026-09-24, ruled directly (RULINGS.md entry '## 2026-09-24 — new')
+  source:
+    file: ''
+    lines: null
+  notes: ''
+- id: R57-07-DOCUMENTS_FULLY_METAPHYSICAL
+  pack: Rulings Backfill 2026-09-26
+  pack_number: null
+  section: 2026-09-24 — R12-3-DESIGN_CHAIN_RETURNS
+  title: Every document is fully metaphysical
+  status: live
+  kind: mandate
+  summary: Cards, ability entries, items, lore, in-world documents and exports print stats, Grades, Bands,
+    Stage, EU, AU/s, eta, Crystal State and Category; empty fields stay flagged pending.
+  verbatim: 'Confirmed and extended to every document: character cards, technique and ability entries,
+    items, lore, in-world documents and exports are fully metaphysical.'
+  amends: []
+  supersedes: []
+  applies_to:
+  - documents
+  - character-sheet
+  - items
+  - magic-design
+  verification: []
+  ratified: Isaac, 2026-09-24, ruled directly (RULINGS.md entry '## 2026-09-24 — R12-3-DESIGN_CHAIN_RETURNS')
+  source:
+    file: ''
+    lines: null
+  notes: The same entry's 'the full Design Chain' clause is overtaken by R47-2-FIELD_FORMAT (Design Chain
+    retired as a page format); never-invent-numbers still holds.
+- id: R57-08-PHYSICAL_NUMBERS_ONLY_STRUCK
+  pack: Rulings Backfill 2026-09-26
+  pack_number: null
+  section: 2026-09-24 — R8-16-PHYSICAL_NUMBERS_ONLY
+  title: Physical-numbers-only is struck
+  status: live
+  kind: repeal
+  summary: R8-16's ban on metaphysical drawback numbers is struck, on R20C-39, R12-1-NUMBER_BAN_STRUCK
+    and the documents-are-fully-metaphysical ruling.
+  verbatim: Superseded; mark struck in the index along with R8-12-SHEET_GETS_OPERATIONAL_ACCOUNT's clause
+    "the Design Chain remains workbook".
+  amends: []
+  supersedes:
+  - R8-16-PHYSICAL_NUMBERS_ONLY
+  applies_to:
+  - documents
+  - character-sheet
+  - magic-design
+  verification: []
+  ratified: Isaac, 2026-09-24, ruled directly (RULINGS.md entry '## 2026-09-24 — R8-16-PHYSICAL_NUMBERS_ONLY')
+  source:
+    file: ''
+    lines: null
+  notes: R8-12-SHEET_GETS_OPERATIONAL_ACCOUNT is struck only in one clause, which a whole-row status cannot
+    express; the clause is moot under R47-2. The entry's last sentence (six-line card with the Design
+    Chain below) is overtaken by R47-2.
+- id: R57-09-FULL_KNOWLEDGE
+  pack: Rulings Backfill 2026-09-26
+  pack_number: null
+  section: 2026-09-24 — new (full-knowledge, fair-play)
+  title: The writer draws on everything WOTR holds
+  status: live
+  kind: mandate
+  summary: 'Natalie writes from all of WOTR: cards, Stat Sheet, FOW, Codex, wiki, scenes, rulings, meta
+    and system knowledge.'
+  verbatim: Natalie draws on everything that exists in WOTR (cards, Stat Sheet, FOW, Codex, wiki, scenes,
+    rulings, meta and system knowledge) when writing characters and prose.
+  amends: []
+  supersedes: []
+  applies_to:
+  - prose-law
+  - character-sheet
+  verification: []
+  ratified: Isaac, 2026-09-24, ruled directly (RULINGS.md entry '## 2026-09-24 — new')
+  source:
+    file: ''
+    lines: null
+  notes: Carried in .claude/skills/wotr-write/references/fair-play.md.
+- id: R57-10-NEVER_RIGGED
+  pack: Rulings Backfill 2026-09-26
+  pack_number: null
+  section: 2026-09-24 — new (full-knowledge, fair-play)
+  title: Knowledge never used to outrageous advantage
+  status: live
+  kind: mandate
+  summary: Meta knowledge informs the writer, not the characters; opponents use what they could plausibly
+    know and do, abilities stay physically grounded, and every engagement is a fair, real challenge for
+    the PC.
+  verbatim: 'Knowledge is accessible, including meta knowledge, but is never used to outrageous advantage:
+    NPCs and opponents fight with what they could plausibly know and do, abilities stay grounded in real
+    physics principles, and every engagement is built to be fun and a genuine challenge for the PC, never
+    rigged in either direction.'
+  amends: []
+  supersedes: []
+  applies_to:
+  - combat
+  - adjudication
+  verification: []
+  ratified: Isaac, 2026-09-24, ruled directly (RULINGS.md entry '## 2026-09-24 — new')
+  source:
+    file: ''
+    lines: null
+  notes: Overlaps R48-36-NPC_WITS (NPC side only); this row adds the writer-side and never-rigged halves.
+- id: R57-11-MECHANISM_IS_EFFECT
+  pack: Rulings Backfill 2026-09-26
+  pack_number: null
+  section: 2026-09-24 — new (Mechanism and Effect)
+  title: Mechanism and Effect are one thing
+  status: live
+  kind: mandate
+  summary: A working's Effect is written as its mechanism playing out; no Effect line that another mechanism
+    could produce, no Mechanism line that leaves the Effect separate.
+  verbatim: 'Mechanism and Effect are one thing. The Effect of a working is its mechanism playing out:
+    what happens is written as how it happens (the glyph moves a boundary, the law does what it does,
+    and that is what the target sees and feels). No Effect line that could be true of a different mechanism,
+    and no Mechanism line that leaves the Effect to be described separately.'
+  amends: []
+  supersedes: []
+  applies_to:
+  - magic-design
+  - magic-mechanism
+  - character-sheet
+  - documents
+  verification: []
+  ratified: Isaac, 2026-09-24, ruled directly (RULINGS.md entry '## 2026-09-24 — new')
+  source:
+    file: ''
+    lines: null
+  notes: Carried in .claude/skills/wotr-write/references/technique-design.md:64.
+- id: R57-12-RUNG_I1_GENERAL_SENTENCE
+  pack: Rulings Backfill 2026-09-26
+  pack_number: null
+  section: 2026-09-25 — new (rules for ruling, I-1)
+  title: A ruling's general sentence governs
+  status: live
+  kind: procedure
+  summary: Where a ruling's operative sentence is written generally, it applies to every case it describes,
+    not only the question asked.
+  verbatim: Where a ruling answers a narrow question but its operative sentence is written generally,
+    the sentence applies to every case it describes
+  amends: []
+  supersedes: []
+  applies_to:
+  - adjudication
+  - stats
+  verification: []
+  ratified: Isaac, 2026-09-25, ruled directly (RULINGS.md entry '## 2026-09-25 — new')
+  source:
+    file: ''
+    lines: null
+  notes: Rung I-1 of the precedence ladder; carried only in the Paperclip wotr-conflict skill (Paperclip
+    stopped 2026-09-26).
+- id: R57-13-RUNG_I2_OFF_LADDER_BOTH_WAYS
+  pack: Rulings Backfill 2026-09-26
+  pack_number: null
+  section: 2026-09-25 — new (rules for ruling, I-2)
+  title: Off-ladder runs both ways
+  status: live
+  kind: definition
+  summary: Permission for a card to sit above a ladder is equally permission to sit below it; the card
+    governs.
+  verbatim: A ruling that lets a card sit above a ladder (η above its range, Aether Class above its Stage)
+    equally lets it sit below; the card governs
+  amends: []
+  supersedes: []
+  applies_to:
+  - stats
+  - character-sheet
+  verification: []
+  ratified: Isaac, 2026-09-25, ruled directly (RULINGS.md entry '## 2026-09-25 — new')
+  source:
+    file: ''
+    lines: null
+  notes: Rung I-2; applied in R56-5 and C-040.
+- id: R57-14-RUNG_I3_STALE_STATUS_NOTES
+  pack: Rulings Backfill 2026-09-26
+  pack_number: null
+  section: 2026-09-25 — new (rules for ruling, I-3)
+  title: Stale status notes are bookkeeping
+  status: live
+  kind: procedure
+  summary: A canon line stating the state of the record, since overtaken, may be updated by any sweep
+    citing what overtook it.
+  verbatim: A line in canon that states the state of the record ("Veyran is unattested", "the efficiency
+    conflict, unresolved") and that the record has since overtaken may be updated by any sweep, citing
+    what overtook it; no ruling needed.
+  amends: []
+  supersedes: []
+  applies_to:
+  - verification
+  - documents
+  verification: []
+  ratified: Isaac, 2026-09-25, ruled directly (RULINGS.md entry '## 2026-09-25 — new')
+  source:
+    file: ''
+    lines: null
+  notes: Rung I-3.
+- id: R57-15-RUNG_I4_TABLE_FALLBACK
+  pack: Rulings Backfill 2026-09-26
+  pack_number: null
+  section: 2026-09-25 — new (rules for ruling, I-4)
+  title: A column fallback reaches the whole table
+  status: live
+  kind: procedure
+  summary: A ruling's fallback for one column of a table applies to the whole table.
+  verbatim: A ruling's fallback for one column of a table reaches the whole table
+  amends: []
+  supersedes: []
+  applies_to:
+  - stats
+  verification: []
+  ratified: Isaac, 2026-09-25, ruled directly (RULINGS.md entry '## 2026-09-25 — new')
+  source:
+    file: ''
+    lines: null
+  notes: Rung I-4.
+- id: R57-16-RUNG_I5_BIGGER_IS_INTENDED
+  pack: Rulings Backfill 2026-09-26
+  pack_number: null
+  section: 2026-09-25 — new (rules for ruling, I-5)
+  title: 'Figure against gloss: the bigger is intended'
+  status: live
+  kind: procedure
+  summary: When a figure and its gloss on one line disagree, keep the one that makes the working stronger
+    (checked against the Stage band) and correct the other.
+  verbatim: Where a stated figure and its gloss on the same line disagree (e.g. "4.184 EJ … 1 Tt TNT-equivalent"),
+    keep whichever makes the working stronger, checked against the technique's Stage band, and correct
+    the other to match.
+  amends: []
+  supersedes: []
+  applies_to:
+  - stats
+  - magic-design
+  verification: []
+  ratified: Isaac, 2026-09-25, ruled directly (RULINGS.md entry '## 2026-09-25 — new')
+  source:
+    file: ''
+    lines: null
+  notes: Rung I-5.
+- id: R57-17-RUNG_I6_CARD_NUMBERS_BOOK_EVENTS
+  pack: Rulings Backfill 2026-09-26
+  pack_number: null
+  section: 2026-09-25 — new (rules for ruling, I-6)
+  title: Card for numbers, book for events
+  status: live
+  kind: definition
+  summary: Where a book and a card disagree, stats and mechanics follow the card and story events follow
+    the book's bible and chapters.
+  verbatim: Stats and mechanics follow the character's card; what happens in the story follows the book's
+    bible and chapters.
+  amends: []
+  supersedes: []
+  applies_to:
+  - stats
+  - character-sheet
+  verification: []
+  ratified: Isaac, 2026-09-25, ruled directly (RULINGS.md entry '## 2026-09-25 — new')
+  source:
+    file: ''
+    lines: null
+  notes: Rung I-6.
+- id: R57-18-RUNG_I7_AUTHORSHIP_TO_AGENTS
+  pack: Rulings Backfill 2026-09-26
+  pack_number: null
+  section: 2026-09-25 — new (rules for ruling, I-7)
+  title: Authorship questions are the agents' to decide
+  status: live
+  kind: procedure
+  summary: Confirm-or-flip questions on originated material are decided by the agents as logged agent-made
+    canon, which Isaac may overturn.
+  verbatim: the agents choose the reading that best fits the rest of canon and ship it as agent-made canon,
+    logged, which Isaac may overturn
+  amends: []
+  supersedes: []
+  applies_to:
+  - verification
+  verification: []
+  ratified: Isaac, 2026-09-25, ruled directly (RULINGS.md entry '## 2026-09-25 — new')
+  source:
+    file: ''
+    lines: null
+  notes: Rung I-7. 'The agents' were the Paperclip docket; since 2026-09-26 work happens in-session.
+- id: R57-19-RESERVE_SCALING_ONE_FACTOR
+  pack: Rulings Backfill 2026-09-26
+  pack_number: null
+  section: 2026-09-25 — C-059 (WAR-127; amends WAR-70)
+  title: An out-of-band reserve scales the whole card by one factor
+  status: live
+  kind: procedure
+  summary: An out-of-band EU reserve is moved to the band's geometric-mean set point and every other EU
+    figure on the card takes the same factor; Flux Density, AU/s and eta stand; no stated reserve, no
+    scaling.
+  verbatim: 'Each card whose reserve R44-1 puts outside its Stage''s band is scaled by one factor: factor
+    = (band midpoint in decades, the geometric mean of floor and ceiling joules / 1 MJ) / (the card''s
+    stated reserve). Every other EU figure on that card (technique, Form and working costs, per-use figures)
+    is multiplied by the same factor, so each cost keeps its stated share of the reserve and distinct
+    figures stay distinct. Flux Density, AU/s and eta stand as written. A card with no stated reserve
+    is not scaled by this ruling and is logged.'
+  amends: []
+  supersedes: []
+  applies_to:
+  - stats
+  - character-sheet
+  verification: []
+  ratified: Isaac, 2026-09-25, ruled directly (RULINGS.md entry '## 2026-09-25 — C-059 (WAR-127; amends
+    WAR-70)')
+  source:
+    file: ''
+    lines: null
+  notes: Replaces WAR-70's per-figure set point (never a rule row). Extended by R56-7-SCALING_PER_ENTITY
+    and re-run on the Level-law bands by R56-9-SCALING_ON_LEVEL_BANDS, both of which cite this method.
+- id: R57-20-ABSORBED_ENERGY_BANKS_IN_CRYSTAL
+  pack: Rulings Backfill 2026-09-26
+  pack_number: null
+  section: 2026-09-26 — WAR-3 cards 1 and 2
+  title: Absorbed energy banks in the Crystal
+  status: live
+  kind: definition
+  summary: Energy a practitioner absorbs is banked in their own Soul Crystal.
+  verbatim: absorbed energy banks in the practitioner's Crystal
+  amends: []
+  supersedes: []
+  applies_to:
+  - magic-mechanism
+  verification: []
+  ratified: Isaac, 2026-09-26, ruled directly (RULINGS.md entry '## 2026-09-26 — WAR-3 cards 1 and 2 (system
+    accounts, 20 answers)')
+  source:
+    file: ''
+    lines: null
+  notes: Summary line only; the full answer is on WAR-3's Paperclip comments.
+- id: R57-21-RESONANCE_FACET_OF_RESIDUE
+  pack: Rulings Backfill 2026-09-26
+  pack_number: null
+  section: 2026-09-26 — WAR-3 cards 1 and 2
+  title: Ambient Resonance is a facet of Residue
+  status: live
+  kind: definition
+  summary: Ambient Resonance is a facet of Residue, not a separate quantity.
+  verbatim: ambient Resonance is a facet of Residue
+  amends: []
+  supersedes: []
+  applies_to:
+  - magic-mechanism
+  - worldbuilding
+  verification: []
+  ratified: Isaac, 2026-09-26, ruled directly (RULINGS.md entry '## 2026-09-26 — WAR-3 cards 1 and 2 (system
+    accounts, 20 answers)')
+  source:
+    file: ''
+    lines: null
+  notes: Applied to the pages under WAR-161 (CONTINUE.md, 'Ambient Resonance is a facet of Residue').
+- id: R57-24-AFTERMATH_IS_THE_TELL
+  pack: Rulings Backfill 2026-09-26
+  pack_number: null
+  section: 2026-09-26 — WAR-3 cards 1 and 2
+  title: The aftermath is the tell
+  status: live
+  kind: definition
+  summary: What a working leaves behind is its tell.
+  verbatim: the aftermath is the tell
+  amends: []
+  supersedes: []
+  applies_to:
+  - magic-mechanism
+  - magic-design
+  verification: []
+  ratified: Isaac, 2026-09-26, ruled directly (RULINGS.md entry '## 2026-09-26 — WAR-3 cards 1 and 2 (system
+    accounts, 20 answers)')
+  source:
+    file: ''
+    lines: null
+  notes: Summary line only.
+- id: R57-25-UNCARDED_PAGES_READ_TIER_BANDS
+  pack: Rulings Backfill 2026-09-26
+  pack_number: null
+  section: 2026-09-26 — WAR-3 cards 1 and 2
+  title: Uncarded pages read the Tier bands
+  status: live
+  kind: procedure
+  summary: A page with no character card behind it reads its figures from the Tier bands; an unpriced
+    page is priced by its Temperance Gate.
+  verbatim: uncarded pages read Tier bands; unpriced pages priced per Temperance Gate
+  amends: []
+  supersedes: []
+  applies_to:
+  - stats
+  - magic-design
+  verification: []
+  ratified: Isaac, 2026-09-26, ruled directly (RULINGS.md entry '## 2026-09-26 — WAR-3 cards 1 and 2 (system
+    accounts, 20 answers)')
+  source:
+    file: ''
+    lines: null
+  notes: Summary line only.

@@ -6,7 +6,7 @@ pack_number: null
 source_file: ''
 ratified: 'Isaac, 2026-09-26, Claude Code chat: ruled directly (combat, society and politics questionnaire)'
 rules:
-- id: R56-01-BRUTAL_LETHALITY
+- id: R60-01-BRUTAL_LETHALITY
   pack: Combat, Society and Politics Law 2026-09-26
   pack_number: null
   section: Combat, society and politics
@@ -30,7 +30,7 @@ rules:
     file: ''
     lines: null
   notes: ''
-- id: R56-02-REAL_HEALING_TIMES
+- id: R60-02-REAL_HEALING_TIMES
   pack: Combat, Society and Politics Law 2026-09-26
   pack_number: null
   section: Combat, society and politics
@@ -52,7 +52,7 @@ rules:
     file: ''
     lines: null
   notes: ''
-- id: R56-03-HARD_RESERVE_CLOCK
+- id: R60-03-HARD_RESERVE_CLOCK
   pack: Combat, Society and Politics Law 2026-09-26
   pack_number: null
   section: Combat, society and politics
@@ -74,7 +74,7 @@ rules:
     file: ''
     lines: null
   notes: ''
-- id: R56-04-DEATH_IS_PERMANENT
+- id: R60-04-DEATH_IS_PERMANENT
   pack: Combat, Society and Politics Law 2026-09-26
   pack_number: null
   section: Combat, society and politics
@@ -94,7 +94,7 @@ rules:
     file: ''
     lines: null
   notes: ''
-- id: R56-05-COMPANY_THEN_CROWN
+- id: R60-05-COMPANY_THEN_CROWN
   pack: Combat, Society and Politics Law 2026-09-26
   pack_number: null
   section: Combat, society and politics
@@ -115,7 +115,7 @@ rules:
     file: ''
     lines: null
   notes: ''
-- id: R56-06-THE_SCRAMBLE
+- id: R60-06-THE_SCRAMBLE
   pack: Combat, Society and Politics Law 2026-09-26
   pack_number: null
   section: Combat, society and politics
@@ -138,7 +138,7 @@ rules:
     file: ''
     lines: null
   notes: ''
-- id: R56-07-COMMERCE_ON_THE_PAGE
+- id: R60-07-COMMERCE_ON_THE_PAGE
   pack: Combat, Society and Politics Law 2026-09-26
   pack_number: null
   section: Combat, society and politics
@@ -162,7 +162,7 @@ rules:
     file: ''
     lines: null
   notes: ''
-- id: R56-08-WHO_PAYS
+- id: R60-08-WHO_PAYS
   pack: Combat, Society and Politics Law 2026-09-26
   pack_number: null
   section: Combat, society and politics
@@ -183,7 +183,7 @@ rules:
     file: ''
     lines: null
   notes: ''
-- id: R56-09-ACCORD_FORMING_NOW
+- id: R60-09-ACCORD_FORMING_NOW
   pack: Combat, Society and Politics Law 2026-09-26
   pack_number: null
   section: Combat, society and politics
@@ -202,7 +202,7 @@ rules:
     file: ''
     lines: null
   notes: ''
-- id: R56-10-LICENSED_FOR_HIRE
+- id: R60-10-LICENSED_FOR_HIRE
   pack: Combat, Society and Politics Law 2026-09-26
   pack_number: null
   section: Combat, society and politics
@@ -224,7 +224,7 @@ rules:
     file: ''
     lines: null
   notes: ''
-- id: R56-11-TRACE_EVIDENCE_AND_JURISDICTION
+- id: R60-11-TRACE_EVIDENCE_AND_JURISDICTION
   pack: Combat, Society and Politics Law 2026-09-26
   pack_number: null
   section: Combat, society and politics
@@ -246,7 +246,7 @@ rules:
     file: ''
     lines: null
   notes: ''
-- id: R56-12-PRACTITIONERS_AT_WORK
+- id: R60-12-PRACTITIONERS_AT_WORK
   pack: Combat, Society and Politics Law 2026-09-26
   pack_number: null
   section: Combat, society and politics
@@ -265,7 +265,7 @@ rules:
     file: ''
     lines: null
   notes: ''
-- id: R56-13-THE_GATE
+- id: R60-13-THE_GATE
   pack: Combat, Society and Politics Law 2026-09-26
   pack_number: null
   section: Combat, society and politics
@@ -287,7 +287,7 @@ rules:
     file: ''
     lines: null
   notes: ''
-- id: R56-14-DORMANT_CRYSTALS
+- id: R60-14-DORMANT_CRYSTALS
   pack: Combat, Society and Politics Law 2026-09-26
   pack_number: null
   section: Combat, society and politics
@@ -307,7 +307,7 @@ rules:
     file: ''
     lines: null
   notes: ''
-- id: R56-15-WHO_MAY_LEARN
+- id: R60-15-WHO_MAY_LEARN
   pack: Combat, Society and Politics Law 2026-09-26
   pack_number: null
   section: Combat, society and politics
@@ -328,7 +328,7 @@ rules:
     file: ''
     lines: null
   notes: ''
-- id: R56-16-ENFORCEMENT
+- id: R60-16-ENFORCEMENT
   pack: Combat, Society and Politics Law 2026-09-26
   pack_number: null
   section: Combat, society and politics
@@ -349,7 +349,7 @@ rules:
     file: ''
     lines: null
   notes: ''
-- id: R56-17-LEARNING_ANYWAY
+- id: R60-17-LEARNING_ANYWAY
   pack: Combat, Society and Politics Law 2026-09-26
   pack_number: null
   section: Combat, society and politics
@@ -371,7 +371,7 @@ rules:
     file: ''
     lines: null
   notes: ''
-- id: R56-18-ACCORD_FORMING_IN_CIRCLES
+- id: R60-18-ACCORD_FORMING_IN_CIRCLES
   pack: Combat, Society and Politics Law 2026-09-26
   pack_number: null
   section: Combat, society and politics
@@ -393,7 +393,7 @@ rules:
     file: ''
     lines: null
   notes: ''
-- id: R56-19-LAYERED_RULE
+- id: R60-19-LAYERED_RULE
   pack: Combat, Society and Politics Law 2026-09-26
   pack_number: null
   section: Combat, society and politics
@@ -416,7 +416,7 @@ rules:
     file: ''
     lines: null
   notes: ''
-- id: R56-20-HOW_POWERS_FIGHT
+- id: R60-20-HOW_POWERS_FIGHT
   pack: Combat, Society and Politics Law 2026-09-26
   pack_number: null
   section: Combat, society and politics
@@ -437,7 +437,7 @@ rules:
     file: ''
     lines: null
   notes: ''
-- id: R56-21-SUCCESSION_BY_CULTURE
+- id: R60-21-SUCCESSION_BY_CULTURE
   pack: Combat, Society and Politics Law 2026-09-26
   pack_number: null
   section: Combat, society and politics
@@ -457,7 +457,7 @@ rules:
     file: ''
     lines: null
   notes: ''
-- id: R56-22-THE_NIGHT_WATCH
+- id: R60-22-THE_NIGHT_WATCH
   pack: Combat, Society and Politics Law 2026-09-26
   pack_number: null
   section: Factions
@@ -478,7 +478,7 @@ rules:
     file: ''
     lines: null
   notes: ''
-- id: R56-23-THE_MOTHER
+- id: R60-23-THE_MOTHER
   pack: Combat, Society and Politics Law 2026-09-26
   pack_number: null
   section: Factions
@@ -501,7 +501,7 @@ rules:
     file: ''
     lines: null
   notes: ''
-- id: R56-24-THE_MOTHER_IS_A_CULT
+- id: R60-24-THE_MOTHER_IS_A_CULT
   pack: Combat, Society and Politics Law 2026-09-26
   pack_number: null
   section: Factions
@@ -520,7 +520,7 @@ rules:
     file: ''
     lines: null
   notes: ''
-- id: R56-25-WHAT_MALPHAS_WANTS
+- id: R60-25-WHAT_MALPHAS_WANTS
   pack: Combat, Society and Politics Law 2026-09-26
   pack_number: null
   section: Factions
@@ -543,7 +543,7 @@ rules:
     file: ''
     lines: null
   notes: ''
-- id: R56-26-NIGHT_WATCH_SOCIETY
+- id: R60-26-NIGHT_WATCH_SOCIETY
   pack: Combat, Society and Politics Law 2026-09-26
   pack_number: null
   section: Factions

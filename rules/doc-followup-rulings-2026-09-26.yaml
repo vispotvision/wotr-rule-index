@@ -6,7 +6,7 @@ pack_number: null
 source_file: ''
 ratified: 'Isaac, 2026-09-26, Claude Code chat: ruled directly (follow-up questionnaire)'
 rules:
-- id: R54-01-HILD_TWELVE_AT_DEATH
+- id: R58-01-HILD_TWELVE_AT_DEATH
   pack: Follow-up Rulings 2026-09-26
   pack_number: null
   section: Follow-up answers
@@ -28,7 +28,7 @@ rules:
     file: ''
     lines: null
   notes: ''
-- id: R54-02-DOUGOU_JOULES_FROM_COSTS
+- id: R58-02-DOUGOU_JOULES_FROM_COSTS
   pack: Follow-up Rulings 2026-09-26
   pack_number: null
   section: Follow-up answers
@@ -50,7 +50,7 @@ rules:
     file: ''
     lines: null
   notes: ''
-- id: R54-03-SANCTA_LUX
+- id: R58-03-SANCTA_LUX
   pack: Follow-up Rulings 2026-09-26
   pack_number: null
   section: Follow-up answers
@@ -69,7 +69,7 @@ rules:
     file: ''
     lines: null
   notes: ''
-- id: R54-04-TITLES_EXEMPT_FROM_BAN_LIST
+- id: R58-04-TITLES_EXEMPT_FROM_BAN_LIST
   pack: Follow-up Rulings 2026-09-26
   pack_number: null
   section: Follow-up answers
@@ -90,7 +90,7 @@ rules:
     file: ''
     lines: null
   notes: ''
-- id: R54-06-WELL_SPAWN_WELLS_ONLY
+- id: R58-06-WELL_SPAWN_WELLS_ONLY
   pack: Follow-up Rulings 2026-09-26
   pack_number: null
   section: Follow-up answers
@@ -109,7 +109,7 @@ rules:
     file: ''
     lines: null
   notes: ''
-- id: R54-07-WREN_GRIEF_FRONT
+- id: R58-07-WREN_GRIEF_FRONT
   pack: Follow-up Rulings 2026-09-26
   pack_number: null
   section: Follow-up answers
@@ -131,7 +131,7 @@ rules:
     file: ''
     lines: null
   notes: ''
-- id: R54-09-BARA_IS_A_CHARACTER
+- id: R58-09-BARA_IS_A_CHARACTER
   pack: Follow-up Rulings 2026-09-26
   pack_number: null
   section: Follow-up answers
@@ -151,7 +151,7 @@ rules:
     file: ''
     lines: null
   notes: ''
-- id: R54-12-AS_OF_LINE_ON_EVERY_CARD
+- id: R58-12-AS_OF_LINE_ON_EVERY_CARD
   pack: Follow-up Rulings 2026-09-26
   pack_number: null
   section: Follow-up answers
@@ -170,7 +170,7 @@ rules:
     file: ''
     lines: null
   notes: ''
-- id: R54-13-BORROWED_NAME_FIXES
+- id: R58-13-BORROWED_NAME_FIXES
   pack: Follow-up Rulings 2026-09-26
   pack_number: null
   section: Follow-up answers
@@ -193,7 +193,7 @@ rules:
     file: ''
     lines: null
   notes: ''
-- id: R54-14-YUKARI_EYES_CRIMSON
+- id: R58-14-YUKARI_EYES_CRIMSON
   pack: Follow-up Rulings 2026-09-26
   pack_number: null
   section: Follow-up answers
@@ -213,7 +213,7 @@ rules:
     file: ''
     lines: null
   notes: ''
-- id: R54-16-THE_WIRE_IS_A_GUILD_LINE
+- id: R58-16-THE_WIRE_IS_A_GUILD_LINE
   pack: Follow-up Rulings 2026-09-26
   pack_number: null
   section: Follow-up answers

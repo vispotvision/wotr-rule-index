@@ -234,7 +234,7 @@ rules:
     pack_number: 8
     section: "1.6"
     title: Drawback numbers are physical, never metaphysical
-    status: live
+    status: superseded
     kind: ban
     summary: >-
       Drawback numbers are physical (metres, seconds, kilograms, degrees,

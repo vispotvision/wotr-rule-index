@@ -6,7 +6,7 @@ pack_number: null
 source_file: ''
 ratified: 'Isaac, 2026-09-26, Claude Code chat: ruled directly (era and apparatus questionnaire)'
 rules:
-- id: R55-01-ESSENCE_ENGINES
+- id: R59-01-ESSENCE_ENGINES
   pack: Era and Apparatus Law 2026-09-26
   pack_number: null
   section: Era and apparatus
@@ -27,7 +27,7 @@ rules:
     file: ''
     lines: null
   notes: ''
-- id: R55-02-NO_ELECTRICITY
+- id: R59-02-NO_ELECTRICITY
   pack: Era and Apparatus Law 2026-09-26
   pack_number: null
   section: Era and apparatus
@@ -48,7 +48,7 @@ rules:
     file: ''
     lines: null
   notes: ''
-- id: R55-03-WIRE_AND_TELEPHONE
+- id: R59-03-WIRE_AND_TELEPHONE
   pack: Era and Apparatus Law 2026-09-26
   pack_number: null
   section: Era and apparatus
@@ -69,7 +69,7 @@ rules:
     file: ''
     lines: null
   notes: ''
-- id: R55-04-VEHICLES
+- id: R59-04-VEHICLES
   pack: Era and Apparatus Law 2026-09-26
   pack_number: null
   section: Era and apparatus
@@ -90,7 +90,7 @@ rules:
     file: ''
     lines: null
   notes: ''
-- id: R55-05-STEEP_REGIONAL_GRADIENT
+- id: R59-05-STEEP_REGIONAL_GRADIENT
   pack: Era and Apparatus Law 2026-09-26
   pack_number: null
   section: Era and apparatus
@@ -111,7 +111,7 @@ rules:
     file: ''
     lines: null
   notes: ''
-- id: R55-06-MEDIA
+- id: R59-06-MEDIA
   pack: Era and Apparatus Law 2026-09-26
   pack_number: null
   section: Era and apparatus
@@ -132,7 +132,7 @@ rules:
     file: ''
     lines: null
   notes: ''
-- id: R55-07-VICTORIAN_EDWARDIAN_CITY
+- id: R59-07-VICTORIAN_EDWARDIAN_CITY
   pack: Era and Apparatus Law 2026-09-26
   pack_number: null
   section: Era and apparatus
@@ -153,7 +153,7 @@ rules:
     file: ''
     lines: null
   notes: ''
-- id: R55-08-CLASS_LAYERED_DRESS
+- id: R59-08-CLASS_LAYERED_DRESS
   pack: Era and Apparatus Law 2026-09-26
   pack_number: null
   section: Era and apparatus
@@ -175,7 +175,7 @@ rules:
     file: ''
     lines: null
   notes: ''
-- id: R55-09-ESSENCE_WORKS
+- id: R59-09-ESSENCE_WORKS
   pack: Era and Apparatus Law 2026-09-26
   pack_number: null
   section: Era and apparatus
@@ -196,7 +196,7 @@ rules:
     file: ''
     lines: null
   notes: ''
-- id: R55-10-HOUSEHOLD
+- id: R59-10-HOUSEHOLD
   pack: Era and Apparatus Law 2026-09-26
   pack_number: null
   section: Era and apparatus
@@ -218,7 +218,7 @@ rules:
     file: ''
     lines: null
   notes: ''
-- id: R55-11-MATERIALS
+- id: R59-11-MATERIALS
   pack: Era and Apparatus Law 2026-09-26
   pack_number: null
   section: Era and apparatus
@@ -240,7 +240,7 @@ rules:
     file: ''
     lines: null
   notes: ''
-- id: R55-12-TRANSITIONAL_MILITARY
+- id: R59-12-TRANSITIONAL_MILITARY
   pack: Era and Apparatus Law 2026-09-26
   pack_number: null
   section: Era and apparatus
@@ -263,7 +263,7 @@ rules:
     file: ''
     lines: null
   notes: ''
-- id: R55-13-TIMEKEEPING
+- id: R59-13-TIMEKEEPING
   pack: Era and Apparatus Law 2026-09-26
   pack_number: null
   section: Era and apparatus
@@ -284,7 +284,7 @@ rules:
     file: ''
     lines: null
   notes: ''
-- id: R55-14-HEAVY_BUREAUCRACY
+- id: R59-14-HEAVY_BUREAUCRACY
   pack: Era and Apparatus Law 2026-09-26
   pack_number: null
   section: Era and apparatus
@@ -305,7 +305,7 @@ rules:
     file: ''
     lines: null
   notes: ''
-- id: R55-15-LEISURE
+- id: R59-15-LEISURE
   pack: Era and Apparatus Law 2026-09-26
   pack_number: null
   section: Era and apparatus
@@ -326,7 +326,7 @@ rules:
     file: ''
     lines: null
   notes: ''
-- id: R55-16-APPARATUS_PAGES
+- id: R59-16-APPARATUS_PAGES
   pack: Era and Apparatus Law 2026-09-26
   pack_number: null
   section: Era and apparatus

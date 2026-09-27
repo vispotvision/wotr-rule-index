@@ -600,3 +600,67 @@ rules:
   ratified: 'Isaac, 2026-09-27: ruling audit (RULINGS.md, ruling-audit-2026-09-27)'
   source: *id002
   notes: Chosen by Isaac but never recorded; restored by the ruling audit.
+- id: R57-29-PATH_GATE_CAPS_ONLY_ITS_COMPONENT
+  pack: Rulings Backfill 2026-09-26
+  pack_number: null
+  section: Conflicts ruled
+  title: Path Gate Caps Only Its Component
+  status: live
+  kind: definition
+  summary: 'C-089: A Path gate caps only the component it names; the rest of the Sub-Stat runs at full.
+    A healer without Body Path heals fully but cannot reinforce. This supersedes R38-1-COMPONENT_GATES_BIND_WHOLE_SUBSTAT.'
+  verbatim: 'C-089: A Path gate caps only the component it names; the rest of the Sub-Stat runs at full.
+    A healer without Body Path heals fully but cannot reinforce. This supersedes R38-1-COMPONENT_GATES_BIND_WHOLE_SUBSTAT.'
+  amends: []
+  supersedes:
+  - R38-1-COMPONENT_GATES_BIND_WHOLE_SUBSTAT
+  applies_to:
+  - stats
+  - magic-mechanism
+  verification: *id001
+  ratified: 'Isaac, 2026-09-27, Claude Code chat: the three conflicts questionnaire (C-089, C-090, C-091)'
+  source: *id002
+  notes: ''
+- id: R57-30-OZONE_WORD_FREE_PHRASE_BANNED
+  pack: Rulings Backfill 2026-09-26
+  pack_number: null
+  section: Conflicts ruled
+  title: Ozone Word Free, Phrase Banned
+  status: live
+  kind: definition
+  summary: 'C-090: ''Ozone'' is free as a word for any POV; only the stock phrase ''the smell of ozone''
+    stays on the hard-ban list.'
+  verbatim: 'C-090: ''Ozone'' is free as a word for any POV; only the stock phrase ''the smell of ozone''
+    stays on the hard-ban list.'
+  amends: []
+  supersedes: []
+  applies_to:
+  - prose-law
+  - verification
+  verification: *id001
+  ratified: 'Isaac, 2026-09-27, Claude Code chat: the three conflicts questionnaire (C-089, C-090, C-091)'
+  source: *id002
+  notes: ''
+- id: R57-31-NUMINOUS_WOTR_SENSE_ONLY
+  pack: Rulings Backfill 2026-09-26
+  pack_number: null
+  section: Conflicts ruled
+  title: Numinous WOTR Sense Only
+  status: live
+  kind: definition
+  summary: 'C-091: ''Numinous'' keeps only its WOTR sense and comes out of the elevated word bank, which
+    is eldritch, chthonic, tenebrous, lambent, sepulchral, incarnadine, stygian, empyreal and ineffable,
+    used freely, by ear. This supersedes R51-12-W...'
+  verbatim: 'C-091: ''Numinous'' keeps only its WOTR sense and comes out of the elevated word bank, which
+    is eldritch, chthonic, tenebrous, lambent, sepulchral, incarnadine, stygian, empyreal and ineffable,
+    used freely, by ear. This supersedes R51-12-WORD_BANK.'
+  amends: []
+  supersedes:
+  - R51-12-WORD_BANK
+  applies_to:
+  - prose-law
+  - register
+  verification: *id001
+  ratified: 'Isaac, 2026-09-27, Claude Code chat: the three conflicts questionnaire (C-089, C-090, C-091)'
+  source: *id002
+  notes: ''

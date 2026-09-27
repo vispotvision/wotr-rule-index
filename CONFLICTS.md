@@ -1158,7 +1158,7 @@ the author notes."
 **Quotes:** see both rows' verbatim.
 **Consequence if unresolved:** a working that leans on an unopened component cannot be priced one way.
 **Recommendation:** none.
-**Status:** open
+**Status:** ruled 2026-09-27 (RULINGS.md, C-089-C-090-C-091): the gate caps only its component; R57-29 supersedes R38-1.
 
 ## C-090 — 'The smell of ozone' is on the hard-ban list (R51-10); technical smell words like ozone are free for any POV (R51-32)
 
@@ -1167,7 +1167,7 @@ the author notes."
 **Quotes:** see both rows' verbatim.
 **Consequence if unresolved:** build/verify.py fails a phrase another rule allows.
 **Recommendation:** none.
-**Status:** open
+**Status:** ruled 2026-09-27: 'ozone' free as a word, only 'the smell of ozone' banned (R57-30).
 
 ## C-091 — 'numinous' keeps only its WOTR sense (R51-11) but belongs in the elevated word bank used freely (R51-12)
 
@@ -1176,4 +1176,4 @@ the author notes."
 **Quotes:** see both rows' verbatim.
 **Consequence if unresolved:** whether "numinous" may be used in its ordinary sense is unsettled.
 **Recommendation:** none.
-**Status:** open
+**Status:** ruled 2026-09-27: numinous keeps only its WOTR sense and leaves the word bank; R57-31 supersedes R51-12.

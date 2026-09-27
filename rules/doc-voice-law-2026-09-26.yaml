@@ -92,7 +92,8 @@ rules:
   notes: 'Question c03: Voices sit on the cards in any shape: Lambert has a page-long essay, Kwon a table
     row, Kujo and Ilthara have no card voice at all. Disfluency and gloss rights are already card fields.
     Should every maj Corrected 2026-09-27 by the ruling audit (RULINGS.md, ruling-audit-2026-09-27) to
-    state exactly what Isaac chose.'
+    state exactly what Isaac chose. Gloss rights is not a voice-block slot, but it stays a separate card
+    field (R20C-49-GLOSS_RIGHTS_CARD_FIELD).'
 - id: R52-04-CONTRACTIONS
   pack: Voice Law 2026-09-26
   pack_number: null

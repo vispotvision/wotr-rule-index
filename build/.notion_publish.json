@@ -894,5 +894,10 @@
     "page_id": "3e858200-eb22-81cf-9b68-dc96f9c88907",
     "title": "Geturo: The Elbow",
     "hash": "ce447fa9bed12440"
+  },
+  "scenes/geturo_the_slip.md": {
+    "page_id": "3e858200-eb22-81a1-9441-e4de8e38ab7d",
+    "title": "Geturo: The Slip",
+    "hash": "18ed5ec831e10cd4"
   }
 }

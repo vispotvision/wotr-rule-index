@@ -4,7 +4,7 @@ notion_id: "3bd58200-eb22-8176-8c32-c208a6464190"
 notion_url: "https://www.notion.so/3bd58200eb2281768c32c208a6464190"
 section: "Volume I — Character Cards"
 tags: []
-last_edited: "2026-09-27T15:44:08"
+last_edited: "2026-09-27T15:45:37"
 verification: null
 ---
 # Rovhen Talvasciel

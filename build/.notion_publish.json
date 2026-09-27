@@ -864,5 +864,10 @@
     "page_id": "3e858200-eb22-81ba-a493-ee2de147f6ff",
     "title": "Geturo — Ignite, Tide",
     "hash": "51f723c6dcd099cc"
+  },
+  "scenes/xanelor_dallae.md": {
+    "page_id": "3e858200-eb22-81c9-b7ca-c95d8978675e",
+    "title": "Xanelor: Dallae",
+    "hash": "2c4dc66cf7fc3a01"
   }
 }

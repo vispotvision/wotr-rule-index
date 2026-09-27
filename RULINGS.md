@@ -2075,3 +2075,21 @@ The three conflicts questionnaire (C-089, C-090, C-091), Claude Code chat.
 3. C-091: 'Numinous' keeps only its WOTR sense and comes out of the elevated word bank, which is eldritch, chthonic, tenebrous, lambent, sepulchral, incarnadine, stygian, empyreal and ineffable, used freely, by ear. This supersedes R51-12-WORD_BANK.
 
 Context: Conflicts recorded by the ruling audit.
+
+## 2026-09-27 — open-conflicts-2026-09-27
+
+The open-conflicts questionnaire (11 answers), Claude Code chat.
+
+1. C-080: Ayame Yuno died later, by her own hand, after the corridor night; she is not among the dead of the corridor night.
+2. C-081: Muken's sons who died on the corridor night are Tomuka and Ezo.
+3. C-082: The Tenrai dubbed Mizuki the heir, because Mizuki was a child Muken had with a woman before Ayame; but the story clearly sets Sodoku up as the heir of Kharven, and Muken never agreed to make Mizuki his heir despite the pressure.
+4. C-083: Ignatius is alive and his whereabouts are known; there was no real report of his death.
+5. C-084: Year Zero of the Concordance of Ages is the sealing of the Codex, 715 years ago; the Guild Accord as a communion of guilds is what is forming now.
+6. C-085: The Holy Inquisition holds legal standing where the crowns and churches that back it rule, and is outlawed where the Accord's circles have signed; it enforces the Gate in its own territory.
+7. C-086: A very few people are born with no Soul Crystal at all; it is rare and remarked on. A Class Ø soul keeps its sealed Shell.
+8. C-088: The Night Register is the Night Watch Society's own desk, not the Guild Accord's Arbitration Division's.
+9. C-052: Hobgoblin formations signal by Silent Sign-Glyphs as the norm; in deep cold or broken ground a formation falls back to a horn count, which is why the fight at the breach is unusual.
+10. C-078: Checks 34 and 35 (defined on the six-line card's Operation line) are retired; the Counterplay block and the fair-play rules cover them.
+11. C-079: Reification has no count anywhere, procedural and ledger scenes included.
+
+Context: The eleven open rows in CONFLICTS.md.

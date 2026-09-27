@@ -1,6 +1,6 @@
 # Live rules by domain, with source text
 
-662 live of 823 extracted. Newest pack first within each domain; the newer rule governs where two overlap.
+778 live of 956 extracted. Newest pack first within each domain; the newer rule governs where two overlap.
 
 ## adjudication (45)
 
@@ -274,7 +274,7 @@ Isaac may take over any NPC's voice anytime by saying so; the partner hands it b
 
 > Isaac may take over any NPC's voice anytime by saying so; the partner hands it back after.
 
-## character-sheet (89)
+## character-sheet (119)
 
 ### R20C-16-SONZAI_RECORD_CARD [Pack Twenty R20C-16]
 
@@ -449,12 +449,6 @@ A character is established by what they choose under pressure, what they refuse,
 Irony built on a character being stupid is not irony; a POV must apply sound reasoning to a corrupted premise, not simply be foolish.
 
 > The POV's wrong conclusion must be well-reasoned. Irony built on a character being stupid is not irony. Ned is not a fool; he is applying Northern law in a Southern court.
-
-### R5-D-HUMOUR_CASTING [Pack Five D]
-
-Lambert carries institutional dryness in the debrief; Pietro carries contempt as wit; Yoko is accidentally funny through literalism; Sodoku does not make jokes and should not start.
-
-> Who carries it, current cast: Lambert (institutional dryness, arrives in the debrief). Pietro (contempt as wit). Yoko (accidental, through literalism). Sodoku does not make jokes and should not start.
 
 ### R4-H1-WREN_ASSIGNED [Pack Four Still Open]
 
@@ -636,12 +630,6 @@ A name is an outlier when it fits no stratum (foreign fostering, a mother's whim
 
 > A name is an outlier when it fits no stratum: a foreign fostering, a mother's whim, a name bought off a dying man, a bloodline child given a Northern name as an insult or a shield. Bram is the standing example and needs no justification on the page.
 
-### R23-5-OUTLIER_BUDGET [Inner World Naming Amendment V]
-
-Roughly one outlier in eight named characters, each with a reason that exists in the workbook whether or not it reaches prose; above that ratio the registers stop reading as systems and start reading as an author picking names he liked.
-
-> Budget: roughly one outlier in eight named characters, and each one has a reason that exists in the workbook whether or not it ever reaches prose. Above that ratio the registers stop reading as systems and start reading as an author picking names he liked.
-
 ### R42-1-TIER_NAMES_ARCHMASTER_PARAGON [Magic System Rulings 2026-09-23 Tier names]
 
 The nine Tiers of Standing; Tier 8 Archmaster, Tier 9 Paragon.
@@ -813,7 +801,199 @@ The Dissonance-gated Sub-Stats are Overflow, Overchannel and Persistence; Part S
 
 > The Sub-Stats that reach their true ceiling only through Dissonance are Overflow, Overchannel and Persistence (Part Eight and The Sixteen Stages agree); Part Sixteen's list is corrected to match.
 
-## codex (38)
+### R52-01-SAME_MAN [Voice Law 2026-09-26 How distinct voices must be]
+
+The quiet, controlled older man is the setting's taste: leave the archetype; the swap test catches clashes scene by scene.
+
+> The quiet, controlled older man is the setting's taste: leave the archetype; the swap test catches clashes scene by scene.
+
+### R52-02-VOICE_LEVER [Voice Law 2026-09-26 How distinct voices must be]
+
+A voice is mind and sound in equal measure: what they notice, want, refuse and how they reason, plus an audible layer (sentence length, contractions, a pet word, pace, dialect).
+
+> A voice is mind and sound in equal measure: what they notice, want, refuse and how they reason, plus an audible layer (sentence length, contractions, a pet word, pace, dialect).
+
+### R52-03-VOICE_BLOCK [Voice Law 2026-09-26 How distinct voices must be]
+
+Every major card carries a full voice block with fixed slots: notices first, sentence length, contractions, pet word, never says, stumbles or not, gloss rights, stress shift, grief shift, joy shift, one sample line.
+
+> Every major card carries a full voice block with fixed slots: notices first, sentence length, contractions, pet word, never says, stumbles or not, gloss rights, stress shift, grief shift, joy shift, one sample line.
+
+### R52-04-CONTRACTIONS [Voice Law 2026-09-26 How distinct voices must be]
+
+Contractions are set per character on the card: always, sometimes or never; most sometimes, a few never on purpose.
+
+> Contractions are set per character on the card: always, sometimes or never; most sometimes, a few never on purpose.
+
+### R52-05-COUNTING [Voice Law 2026-09-26 How distinct voices must be]
+
+Exact-number speech belongs to its owners: Lambert, the Measurewrights, clerks and anyone reading an instrument count; everyone else rounds, guesses or doesn't count.
+
+> Exact-number speech belongs to its owners: Lambert, the Measurewrights, clerks and anyone reading an instrument count; everyone else rounds, guesses or doesn't count.
+
+### R52-06-TRIADS [Voice Law 2026-09-26 How distinct voices must be]
+
+Triads and parallel clauses are legal in any mouth, under duress included; the composure check drops them.
+
+> Triads and parallel clauses are legal in any mouth, under duress included; the composure check drops them.
+
+### R52-07-SWAP_CHECK [Voice Law 2026-09-26 How distinct voices must be]
+
+The speaker-swap measurement is for reading only: no numbers in the checker; cover the tags and sort by ear.
+
+> The speaker-swap measurement is for reading only: no numbers in the checker; cover the tags and sort by ear.
+
+### R52-08-PC_IDIOM [Voice Law 2026-09-26 Isaac's own characters]
+
+When Isaac's play and a card disagree, his play wins: his character's thoughts sound like the man he actually plays, and the card is updated to match.
+
+> When Isaac's play and a card disagree, his play wins: his character's thoughts sound like the man he actually plays, and the card is updated to match.
+
+### R52-09-NO_LINE [Voice Law 2026-09-26 Isaac's own characters]
+
+When Isaac gives a wordless beat in a written scene, the partner writes the line in his character's voice, marked as a draft for him to keep, change or cut.
+
+> When Isaac gives a wordless beat in a written scene, the partner writes the line in his character's voice, marked as a draft for him to keep, change or cut.
+
+### R52-10-CROSSOVER [Voice Law 2026-09-26 Isaac's own characters]
+
+Isaac's POV characters are always his: when one walks into another's thread, the partner leaves their lines and choices open.
+
+> Isaac's POV characters are always his: when one walks into another's thread, the partner leaves their lines and choices open.
+
+### R52-11-ILTHARA [Voice Law 2026-09-26 Isaac's own characters]
+
+The partner drafts a voice block for Ilthara Korvaeth from her scenes and Isaac's lines, for him to approve.
+
+> The partner drafts a voice block for Ilthara Korvaeth from her scenes and Isaac's lines, for him to approve.
+
+### R52-12-HANDBACK [Voice Law 2026-09-26 Isaac's own characters]
+
+When Isaac hands an NPC's voice back, his version sticks: the partner carries on in it and updates the NPC's roster voice.
+
+> When Isaac hands an NPC's voice back, his version sticks: the partner carries on in it and updates the NPC's roster voice.
+
+### R52-13-SODOKU_TALK [Voice Law 2026-09-26 The major cast, one by one]
+
+Sodoku talks as played: full, formal sentences, no contractions, no small talk; the card changes to say so.
+
+> Sodoku talks as played: full, formal sentences, no contractions, no small talk; the card changes to say so.
+
+### R52-14-SODOKU_JOKE [Voice Law 2026-09-26 The major cast, one by one]
+
+Sodoku makes jokes only by accident: he never means one; sometimes a flat truth lands as a joke and he doesn't notice.
+
+> Sodoku makes jokes only by accident: he never means one; sometimes a flat truth lands as a joke and he doesn't notice.
+
+### R52-15-HILD [Voice Law 2026-09-26 The major cast, one by one]
+
+Hild sounds eleven because the child leaks: her syntax slips, a sentence started too big and not finished, a wrong word, a question that gets out in public.
+
+> Hild sounds eleven because the child leaks: her syntax slips, a sentence started too big and not finished, a wrong word, a question that gets out in public.
+
+### R52-16-LAMBERT [Voice Law 2026-09-26 The major cast, one by one]
+
+When Lambert is shaken he counts out loud: he falls into inventory (numbers, stores, names) where a man would say what he feels.
+
+> When Lambert is shaken he counts out loud: he falls into inventory (numbers, stores, names) where a man would say what he feels.
+
+### R52-17-DARIUS [Voice Law 2026-09-26 The major cast, one by one]
+
+Darius is the one who argues: he disputes to your face in reasoned argument while the other quiet men withhold.
+
+> Darius is the one who argues: he disputes to your face in reasoned argument while the other quiet men withhold.
+
+### R52-18-GIMBZO [Voice Law 2026-09-26 The major cast, one by one]
+
+Gimbzo is a loose talker: an easy, rambling old master who goes silent only on what matters; the card changes to match the scenes.
+
+> Gimbzo is a loose talker: an easy, rambling old master who goes silent only on what matters; the card changes to match the scenes.
+
+### R52-19-VERINUS [Voice Law 2026-09-26 The major cast, one by one]
+
+Verinus is a speech-maker: his card is rewritten to match the scenes.
+
+> Verinus is a speech-maker: his card is rewritten to match the scenes.
+
+### R52-20-AURELIAN [Voice Law 2026-09-26 The major cast, one by one]
+
+Aurelian's Sum-gol shows in the words (the dropped copula written into the line, narration marking the rising pitch), under strain and also whenever he is with Mahuo kin or anyone from Sum-gol.
+
+> Aurelian's Sum-gol shows in the words (the dropped copula written into the line, narration marking the rising pitch), under strain and also whenever he is with Mahuo kin or anyone from Sum-gol.
+
+### R52-21-KWON [Voice Law 2026-09-26 The major cast, one by one]
+
+Kwon Mu-jin never uses his rank or the old court honorifics to win an argument, even when it would work.
+
+> Kwon Mu-jin never uses his rank or the old court honorifics to win an argument, even when it would work.
+
+### R52-22-YOKO [Voice Law 2026-09-26 The major cast, one by one]
+
+Yoko is precise and spare at work; at home with Sodoku and family she runs long and personal.
+
+> Yoko is precise and spare at work; at home with Sodoku and family she runs long and personal.
+
+### R52-23-MAHUO_WE [Voice Law 2026-09-26 The major cast, one by one]
+
+The plural 'we' under strain is a family tell: every Mahuo slips into it under strain, Aurelian included.
+
+> The plural 'we' under strain is a family tell: every Mahuo slips into it under strain, Aurelian included.
+
+### R52-24-KUJO [Voice Law 2026-09-26 The major cast, one by one]
+
+Kujo's voice is left to his arc: no card work now; the likeness to Muken is fixed only when a scene puts them together.
+
+> Kujo's voice is left to his arc: no card work now; the likeness to Muken is fixed only when a scene puts them together.
+
+### R52-25-STRESS_RULE [Voice Law 2026-09-26 Stress, grief and joy]
+
+For named humans under stress, both apply at once: the shortening happens and the card's stress tell rides on it (Kwon over-explains in short broken bursts; Cozbi's short lines come fast).
+
+> For named humans under stress, both apply at once: the shortening happens and the card's stress tell rides on it (Kwon over-explains in short broken bursts; Cozbi's short lines come fast).
+
+### R52-26-GRIEF [Voice Law 2026-09-26 Stress, grief and joy]
+
+Grief takes a voice back to its root: polish falls away and the childhood voice returns (Aurelian's Sum-gol, Verinus's coastal cadence, Hild's child).
+
+> Grief takes a voice back to its root: polish falls away and the childhood voice returns (Aurelian's Sum-gol, Verinus's coastal cadence, Hild's child).
+
+### R52-27-JOY [Voice Law 2026-09-26 Stress, grief and joy]
+
+Joy in a guarded voice: the speech holds; the joy shows in hands, face and breath.
+
+> Joy in a guarded voice: the speech holds; the joy shows in hands, face and breath.
+
+### R52-28-COMPOSURE [Voice Law 2026-09-26 Stress, grief and joy]
+
+For people trained into calm, composure is free; it costs, visibly, only when it is a real strain.
+
+> For people trained into calm, composure is free; it costs, visibly, only when it is a real strain.
+
+### R52-29-NPC_RECIPE [Voice Law 2026-09-26 NPC voices the partner builds]
+
+Each NPC's voice starts from a researched real-world speaker type (a customs clerk's forms, a field surgeon's triage talk, a drover's calls), credited in the notes.
+
+> Each NPC's voice starts from a researched real-world speaker type (a customs clerk's forms, a field surgeon's triage talk, a drover's calls), credited in the notes.
+
+### R52-30-PROVERBS [Voice Law 2026-09-26 NPC voices the partner builds]
+
+Every NPC carries one fixed saying from the Standing Inventory; the sayings are the culture's texture.
+
+> Every NPC carries one fixed saying from the Standing Inventory; the sayings are the culture's texture.
+
+### R52-31-COMIC_NPC [Voice Law 2026-09-26 NPC voices the partner builds]
+
+The partner may invent a comic minor NPC as a comic voice from the start, with no setup-deadpan-reaction beat; the funeral test no longer binds NPC building.
+
+> The partner may invent a comic minor NPC as a comic voice from the start, with no setup-deadpan-reaction beat; the funeral test no longer binds NPC building.
+
+### R52-32-ROOM_CAST [Voice Law 2026-09-26 NPC voices the partner builds]
+
+Room casting is by ear: the partner casts for the scene and fixes voice likeness only when the swap test fails.
+
+> Room casting is by ear: the partner casts for the scene and fixes voice likeness only when the swap test fails.
+
+## codex (37)
 
 ### R20C-41-CHANTCRAFT_FIFTH_CRAFT [Pack Twenty R20C-41]
 
@@ -995,12 +1175,6 @@ Class (Offensive/Defensive/Supplementary), Family (one of the Eight), Wellspring
 
 > Eight fields, all drawn from live WOTR taxonomy. Nothing invented. Class · Family · Wellspring · Method · Physics Domain · Grade · Range · Medium
 
-### R6-7-GOVERNING_RULE [Pack Six PART II.7]
-
-Texture comes from the Standing Inventory; mechanism comes from the Codex; a scene that reaches for the Codex when it needs texture has failed.
-
-> Texture comes from the Standing Inventory. Mechanism comes from the Codex. A scene that reaches for the Codex when it needs texture has failed.
-
 ### R5-F-LIGHT_NOVEL_KEPT [Pack Five F]
 
 The chapter as a hard unit with one objective and a hook at close; legibility as reader pleasure (the argument for the Codex); and fast entry, chapters opening inside the situation.
@@ -1043,7 +1217,7 @@ Part Five · Prose Application is lifted out of the Revelation cell.
 
 > The Color of Essence's Revelation cell is restored to its own sentence and the block pasted inside it is lifted out as "Part Five · Prose Application" after Part Four, the same words re-homed; Limina's absence is left visible as a gap rather than papered over.
 
-## combat (76)
+## combat (75)
 
 ### R20C-22-AMMUNITION_TIERS_RATIFIED [Pack Twenty R20C-22]
 
@@ -1236,12 +1410,6 @@ Powder weapons are slow, loud and honest; a practitioner above roughly the middl
 Common shot (cheap, kills men, annoys practitioners), proofed shot (Materia-coupled, Guild-stamped, defeats proofed plate but not a Domain), and the named round (one-shot assassination ordnance, Wellspring-coupled and paid for in advance).
 
 > The three ammunition tiers, originated, pending ruling:
-
-### R11-3-FIREARM_PROSE_LAW [Pack Eleven §3]
-
-The gun is furniture, not spectacle; no sentence explains why a proofed round defeats proofed plate — the physical account of the hole stays, the causal account is cut.
-
-> Prose law for firearms. The gun is furniture, not spectacle. Powder smells of rotten egg and it stays in the wool for days. Misfires are common in wet weather and a soldier's relationship with his own weapon is superstitious and practical at once. No sentence explains why a proofed round defeats a proofed plate. The physical account of the hole stays. The causal account is cut, per Pack Seven.
 
 ### R11-5-COMBAT_GUIDE_RANGE_OPENING [Pack Eleven §5]
 
@@ -1501,7 +1669,7 @@ Every duel ends with a full aftermath beat: wounds dressed, what changed between
 
 > Every duel ends with a full aftermath beat: wounds dressed, what changed between people.
 
-## dialogue (79)
+## dialogue (141)
 
 ### R20C-36-CLEARLY_WINS [Pack Twenty R20C-36]
 
@@ -1580,12 +1748,6 @@ Originated dialogue must include false starts and self-repair, interruption, rep
 Under stress, a character's speech must get shorter, more concrete, more repetitive, and lose subordinate clauses, uniformly across all characters.
 
 > Register moves with state, and it moves the same way in every human being. Under stress, speech gets shorter, more concrete, more repetitive, and loses subordinate clauses.
-
-### R19-4-COMPOSURE_COST [Pack Nineteen §4]
-
-A character who stays composed under extreme stress is exercising an expensive discipline, and the scene must show that price.
-
-> The inverse is a character note and it must cost. A character who does stay composed under extreme stress is exercising an expensive discipline, and the scene shows the price.
 
 ### R19-4-WORLD_ANCHORED_SPEECH [Pack Nineteen §4]
 
@@ -1671,12 +1833,6 @@ Memory entries thirteen, fourteen, twenty-nine and thirty (accent calibration, p
 
 > Memory entries thirteen, fourteen, twenty-nine, thirty (accent calibration, phonetic markers, Racial Voice guide, elevated vocabulary): superseded as mandates; retained as available technique. Flag for the memory sweep.
 
-### R14-4-DIAGNOSTIC_CHANNEL [Pack Fourteen §4]
-
-Stat names, Sub-Stat names, Grades, Bands, eta, AU/s, EU counts, Aether Class, Crystal State and Category names reach the page only in a mouth, an instrument, a document, or a practitioner's private count, rationed per Pack Twelve §5, and class-marked per Pack Nine.
-
-> The diagnostic channel, rationed per Twelve §5. Stat names, Sub-Stat names, Grades, Bands, eta, AU/s, EU counts, Aether Class, Crystal State, and Category names reach the page in a mouth, an instrument, a document, or a practitioner's private count.
-
 ### R14-4-SUBSTAT_DIAGNOSTIC_ONLY [Pack Fourteen §4]
 
 Sub-Stat names are the finest grain the system has, and only a faculty reading reaches for them; nobody else does.
@@ -1712,18 +1868,6 @@ A practitioner explains exactly what he is doing to his target while doing it, b
 A Measurewright, a Kharven hunter and an Accord officer explain the same phenomenon in three different vocabularies; which words a mouth reaches for remains class-marking per Pack Nine.
 
 > Voice discipline. The explanation is characterised. A Measurewright, a Kharven hunter, and an Accord officer explain the same phenomenon in three different vocabularies, and which words a mouth reaches for remains class-marking, per Pack Nine.
-
-### R11-2-VOCABULARY_TIERS [Pack Eleven §2]
-
-"The draw, the hum, a standpipe, a housing, the meter, cut off" are common-tongue and prose-legal under Pack Nine's craft-register carve-out; "concentration, density, coupling, eta" are Guild register and document-only.
-
-> Vocabulary, common tongue, prose-legal under Pack Nine's craft-register carve-out: the draw, the hum, a standpipe, a housing, the meter, cut off. Guild register, document-only: concentration, density, coupling, eta.
-
-### R9-2-COMMON_TONGUE_LEGAL [Pack Nine PART TWO]
-
-A POV may be shown cutting a ward, speaking a working, or pouring a Draft (singing pending Chantcraft's ruling); the common tongue for craft actions is prose-legal, said the way the character would actually say it, while the Accord Latin terms stay document-only.
-
-> The common tongue — the work, the speaking, the cutting, the pouring — is now prose-legal, said the way the character in question would actually say it.
 
 ### R9-2-CLASS_MARKED_CRAFT_WORDS [Pack Nine PART TWO]
 
@@ -1766,12 +1910,6 @@ Humour is no longer an exception to tone but a property of specific characters i
 The beat structure of setup, deadpan and reaction is barred; humour arrives inside dialogue and narration already in progress and never pauses the scene to land.
 
 > Barred: the beat structure of setup, deadpan and reaction. Humour no longer gets its own rhythm. It arrives inside dialogue and narration already in progress and does not pause the scene to land.
-
-### R5-D-HUMOUR_CASTING [Pack Five D]
-
-Lambert carries institutional dryness in the debrief; Pietro carries contempt as wit; Yoko is accidentally funny through literalism; Sodoku does not make jokes and should not start.
-
-> Who carries it, current cast: Lambert (institutional dryness, arrives in the debrief). Pietro (contempt as wit). Yoko (accidental, through literalism). Sodoku does not make jokes and should not start.
 
 ### R4-13-WHERE_SIGNIFICANCE_LIVES [Pack Four Amendment Thirteen]
 
@@ -1940,6 +2078,408 @@ Any Host line that could appear on a temple wall has failed; if it scans as a ma
 All three registers are originations contradicting no existing lore (none existed); if any culture has established speech in an unreached document, these are overridden by it.
 
 > All three are originations and none contradicts existing lore, because no lore existed. If any of these cultures has established speech in a document I did not reach, these are overridden by it and I would rather be told than have it discovered in prose.
+
+### R51-01-TIMELESS [Vocabulary Law 2026-09-26 Vocabulary and diction]
+
+Timeless narration varies by culture: plain, undated English by default; some cultures' scenes (Eresse, the Moto court) may take a more antique narration.
+
+> Timeless narration varies by culture: plain, undated English by default; some cultures' scenes (Eresse, the Moto court) may take a more antique narration.
+
+### R51-02-CLOSE_POV_SWEARS [Vocabulary Law 2026-09-26 Vocabulary and diction]
+
+Profanity may bleed into close-POV narration, using timeless profanities plus swears invented deliberately for WOTR; other modern words stay out of narration. (Isaac: "Profanity is fine I think we should use timelees profanes and invent ...
+
+> Profanity may bleed into close-POV narration, using timeless profanities plus swears invented deliberately for WOTR; other modern words stay out of narration. (Isaac: "Profanity is fine I think we should use timelees profanes and invent some deliberately for wotr".)
+
+### R51-03-LIST_SLANG [Vocabulary Law 2026-09-26 Vocabulary and diction]
+
+Modern-word list, slang: ban only the worst in narration (okay, OK, vibe, awesome, cool); the rest by ear.
+
+> Modern-word list, slang: ban only the worst in narration (okay, OK, vibe, awesome, cool); the rest by ear.
+
+### R51-04-LIST_PSYCH [Vocabulary Law 2026-09-26 Vocabulary and diction]
+
+Modern-word list, psychology: ban only the obvious pop-psych jargon in narration (triggered, toxic, closure, mindset, boundaries); anxiety and stress stay.
+
+> Modern-word list, psychology: ban only the obvious pop-psych jargon in narration (triggered, toxic, closure, mindset, boundaries); anxiety and stress stay.
+
+### R51-05-LIST_TECH [Vocabulary Law 2026-09-26 Vocabulary and diction]
+
+Technology and office metaphors are legal only if the POV's own culture has the thing: an Accord fitter may think 'on the main', a Kharven hunter may not.
+
+> Technology and office metaphors are legal only if the POV's own culture has the thing: an Accord fitter may think 'on the main', a Kharven hunter may not.
+
+### R51-06-EARTH_WORDS [Vocabulary Law 2026-09-26 Vocabulary and diction]
+
+Earth-derived words (herculean, spartan, machiavellian, Achilles heel) are treated like lens names: legal wherever they fit.
+
+> Earth-derived words (herculean, spartan, machiavellian, Achilles heel) are treated like lens names: legal wherever they fit.
+
+### R51-07-CLOCK_WORDS [Vocabulary Law 2026-09-26 Vocabulary and diction]
+
+Seconds and minutes are plain English and free everywhere in narration; in-world time units add flavour.
+
+> Seconds and minutes are plain English and free everywhere in narration; in-world time units add flavour.
+
+### R51-08-CALENDAR [Vocabulary Law 2026-09-26 Vocabulary and diction]
+
+Earth day and month names never appear; 'week' becomes the culture's own span (a turn, a quarter-moon); all go on the list.
+
+> Earth day and month names never appear; 'week' becomes the culture's own span (a turn, a quarter-moon); all go on the list.
+
+### R51-09-SPEECH_CAP [Vocabulary Law 2026-09-26 Vocabulary and diction]
+
+How modern a character's speech runs is set on their card; the default is casual, not current.
+
+> How modern a character's speech runs is set on their card; the default is casual, not current.
+
+### R51-10-SLOP_WORDS [Vocabulary Law 2026-09-26 Vocabulary and diction]
+
+A hard-ban list separate from the repetition list: tapestry, testament, palpable, visceral, symphony of, a dance of, whisper of, orbs (eyes), ministrations, electric (touch), velvet (voice), shiver down the spine, a breath he didn't know...
+
+> A hard-ban list separate from the repetition list: tapestry, testament, palpable, visceral, symphony of, a dance of, whisper of, orbs (eyes), ministrations, electric (touch), velvet (voice), shiver down the spine, a breath he didn't know he was holding, the coppery tang of blood, the smell of ozone; each fails the checker at first use, narration and dialogue.
+
+### R51-11-COLLISIONS [Vocabulary Law 2026-09-26 Vocabulary and diction]
+
+Ordinary words that are also WOTR terms (delve, echo, numinous, sovereign, sanctum, weave, ledger) are used only in their WOTR sense; the plain adjective or verb is banned so the term stays sharp.
+
+> Ordinary words that are also WOTR terms (delve, echo, numinous, sovereign, sanctum, weave, ledger) are used only in their WOTR sense; the plain adjective or verb is banned so the term stays sharp.
+
+### R51-12-WORD_BANK [Vocabulary Law 2026-09-26 Vocabulary and diction]
+
+The elevated word bank (eldritch, chthonic, tenebrous, lambent, sepulchral, incarnadine, stygian, empyreal, ineffable) is used freely, by ear.
+
+> The elevated word bank (eldritch, chthonic, tenebrous, lambent, sepulchral, incarnadine, stygian, empyreal, ineffable) is used freely, by ear.
+
+### R51-13-WORD_STOCK [Vocabulary Law 2026-09-26 Vocabulary and diction]
+
+Narration's word stock (Old English vs Latinate) is by ear: whatever the sentence needs.
+
+> Narration's word stock (Old English vs Latinate) is by ear: whatever the sentence needs.
+
+### R51-14-NEW_TERMS [Vocabulary Law 2026-09-26 Vocabulary and diction]
+
+No ceiling on WOTR terms per page; readers learn by immersion.
+
+> No ceiling on WOTR terms per page; readers learn by immersion.
+
+### R51-15-FIRST_USE [Vocabulary Law 2026-09-26 Vocabulary and diction]
+
+New WOTR terms get meaning from context and use only; no appositive gloss (the zero gloss budget stands).
+
+> New WOTR terms get meaning from context and use only; no appositive gloss (the zero gloss budget stands).
+
+### R51-16-OLD_BANS_FALL [Vocabulary Law 2026-09-26 Vocabulary and diction]
+
+All older limits on stat names, Sub-Stat names, Guild words and sheet vocabulary in narration fall; they are free in narration.
+
+> All older limits on stat names, Sub-Stat names, Guild words and sheet vocabulary in narration fall; they are free in narration.
+
+### R51-17-MID_ACTION [Vocabulary Law 2026-09-26 Vocabulary and diction]
+
+The ban on bare jargon mid-action is lifted: mechanism terms may be bare mid-action; the reader keeps up.
+
+> The ban on bare jargon mid-action is lifted: mechanism terms may be bare mid-action; the reader keeps up.
+
+### R51-18-DOUBLET [Vocabulary Law 2026-09-26 Vocabulary and diction]
+
+Narration uses whichever form of a craft term the POV would say: an Engraver's scene says 'the cutting', an Accord examiner's says 'Runecraft'.
+
+> Narration uses whichever form of a craft term the POV would say: an Engraver's scene says 'the cutting', an Accord examiner's says 'Runecraft'.
+
+### R51-19-ACCORD_LATIN [Vocabulary Law 2026-09-26 Vocabulary and diction]
+
+Accord Latin may appear anywhere by ear: speech, narration or documents.
+
+> Accord Latin may appear anywhere by ear: speech, narration or documents.
+
+### R51-20-KHARVEN_WORDS [Vocabulary Law 2026-09-26 Vocabulary and diction]
+
+New Kharven words may be native words, built freely on the Far-Northern sound rules; Kharven speech carries its own words.
+
+> New Kharven words may be native words, built freely on the Far-Northern sound rules; Kharven speech carries its own words.
+
+### R51-21-MOTO_WORDS [Vocabulary Law 2026-09-26 Vocabulary and diction]
+
+Moto and other Japonic houses use Japanese honorifics and address forms in speech, in a feudal register, never modern casual.
+
+> Moto and other Japonic houses use Japanese honorifics and address forms in speech, in a feudal register, never modern casual.
+
+### R51-22-MOTO_VOICE [Vocabulary Law 2026-09-26 Vocabulary and diction]
+
+The Moto narration register is drafted by the partner from The Muster's prose and put to Isaac to rule on.
+
+> The Moto narration register is drafted by the partner from The Muster's prose and put to Isaac to rule on.
+
+### R51-23-DAWI_WORDS [Vocabulary Law 2026-09-26 Vocabulary and diction]
+
+Dawi drop into their own tongue freely; context carries it.
+
+> Dawi drop into their own tongue freely; context carries it.
+
+### R51-24-ELVEN_WORDS [Vocabulary Law 2026-09-26 Vocabulary and diction]
+
+Elves speak English plus a few Vey-Elarin loanwords for things with no English equivalent, built from the root bank.
+
+> Elves speak English plus a few Vey-Elarin loanwords for things with no English equivalent, built from the root bank.
+
+### R51-25-BEASTKIN [Vocabulary Law 2026-09-26 Vocabulary and diction]
+
+Beastkin speak whatever Common their home place speaks; no special word stock.
+
+> Beastkin speak whatever Common their home place speaks; no special word stock.
+
+### R51-26-CLASS [Vocabulary Law 2026-09-26 Vocabulary and diction]
+
+Class in diction is set by character only: no class default; each card sets the voice.
+
+> Class in diction is set by character only: no class default; each card sets the voice.
+
+### R51-27-DIALECT [Vocabulary Law 2026-09-26 Vocabulary and diction]
+
+Any accent may be spelled phonetically, applied evenly including high-born speakers; the wiki's Accent page bar on eye-dialect is superseded.
+
+> Any accent may be spelled phonetically, applied evenly including high-born speakers; the wiki's Accent page bar on eye-dialect is superseded.
+
+### R51-28-CHANT_PAGE [Vocabulary Law 2026-09-26 Vocabulary and diction]
+
+A chant appears in its own language; a POV who understands it may think the meaning in his own words.
+
+> A chant appears in its own language; a POV who understands it may think the meaning in his own words.
+
+### R51-29-SWEARING [Vocabulary Law 2026-09-26 Vocabulary and diction]
+
+Swearing uses both: English swears are fine, and each culture has its own oaths and insults and uses those first.
+
+> Swearing uses both: English swears are fine, and each culture has its own oaths and insults and uses those first.
+
+### R51-30-HOLY_OATHS [Vocabulary Law 2026-09-26 Vocabulary and diction]
+
+Earth religious swears (God damn it, Christ, go to hell, Jesus) are replaced in-world: characters swear by their own powers ('Archons take it', 'By the Sky').
+
+> Earth religious swears (God damn it, Christ, go to hell, Jesus) are replaced in-world: characters swear by their own powers ('Archons take it', 'By the Sky').
+
+### R51-31-SENSE_BANK [Vocabulary Law 2026-09-26 Vocabulary and diction]
+
+Each culture's Standing Inventory gains a senses entry (smells, sounds, colours, textures); scenes draw from it first.
+
+> Each culture's Standing Inventory gains a senses entry (smells, sounds, colours, textures); scenes draw from it first.
+
+### R51-32-SMELL_WORDS [Vocabulary Law 2026-09-26 Vocabulary and diction]
+
+Technical smell words (ozone, sulphur, ammonia) are free for any POV.
+
+> Technical smell words (ozone, sulphur, ammonia) are free for any POV.
+
+### R51-33-DOC_REGISTER [Vocabulary Law 2026-09-26 Vocabulary and diction]
+
+In-world documents keep a house style per institution: Accord chancery formal and Latinate, the Dawi Tally terse entries, Moto records in the old register, letters in the writer's voice.
+
+> In-world documents keep a house style per institution: Accord chancery formal and Latinate, the Dawi Tally terse entries, Moto records in the old register, letters in the writer's voice.
+
+### R51-34-DOC_MODERN [Vocabulary Law 2026-09-26 Vocabulary and diction]
+
+The modern-word list applies to in-world documents like narration; documents are timeless and the checker runs the list on them.
+
+> The modern-word list applies to in-world documents like narration; documents are timeless and the checker runs the list on them.
+
+### R51-35-NEW_SWEARS [Vocabulary Law 2026-09-26 Vocabulary and diction]
+
+A starter set of WOTR-invented swears is drafted per culture (Kharven, Moto, Dawi, Accord, Elven, Zettari) from each culture's gods, weather, work and taboos, for Isaac to approve before they are canon.
+
+> A starter set of WOTR-invented swears is drafted per culture (Kharven, Moto, Dawi, Accord, Elven, Zettari) from each culture's gods, weather, work and taboos, for Isaac to approve before they are canon.
+
+### R52-01-SAME_MAN [Voice Law 2026-09-26 How distinct voices must be]
+
+The quiet, controlled older man is the setting's taste: leave the archetype; the swap test catches clashes scene by scene.
+
+> The quiet, controlled older man is the setting's taste: leave the archetype; the swap test catches clashes scene by scene.
+
+### R52-02-VOICE_LEVER [Voice Law 2026-09-26 How distinct voices must be]
+
+A voice is mind and sound in equal measure: what they notice, want, refuse and how they reason, plus an audible layer (sentence length, contractions, a pet word, pace, dialect).
+
+> A voice is mind and sound in equal measure: what they notice, want, refuse and how they reason, plus an audible layer (sentence length, contractions, a pet word, pace, dialect).
+
+### R52-03-VOICE_BLOCK [Voice Law 2026-09-26 How distinct voices must be]
+
+Every major card carries a full voice block with fixed slots: notices first, sentence length, contractions, pet word, never says, stumbles or not, gloss rights, stress shift, grief shift, joy shift, one sample line.
+
+> Every major card carries a full voice block with fixed slots: notices first, sentence length, contractions, pet word, never says, stumbles or not, gloss rights, stress shift, grief shift, joy shift, one sample line.
+
+### R52-04-CONTRACTIONS [Voice Law 2026-09-26 How distinct voices must be]
+
+Contractions are set per character on the card: always, sometimes or never; most sometimes, a few never on purpose.
+
+> Contractions are set per character on the card: always, sometimes or never; most sometimes, a few never on purpose.
+
+### R52-05-COUNTING [Voice Law 2026-09-26 How distinct voices must be]
+
+Exact-number speech belongs to its owners: Lambert, the Measurewrights, clerks and anyone reading an instrument count; everyone else rounds, guesses or doesn't count.
+
+> Exact-number speech belongs to its owners: Lambert, the Measurewrights, clerks and anyone reading an instrument count; everyone else rounds, guesses or doesn't count.
+
+### R52-06-TRIADS [Voice Law 2026-09-26 How distinct voices must be]
+
+Triads and parallel clauses are legal in any mouth, under duress included; the composure check drops them.
+
+> Triads and parallel clauses are legal in any mouth, under duress included; the composure check drops them.
+
+### R52-07-SWAP_CHECK [Voice Law 2026-09-26 How distinct voices must be]
+
+The speaker-swap measurement is for reading only: no numbers in the checker; cover the tags and sort by ear.
+
+> The speaker-swap measurement is for reading only: no numbers in the checker; cover the tags and sort by ear.
+
+### R52-08-PC_IDIOM [Voice Law 2026-09-26 Isaac's own characters]
+
+When Isaac's play and a card disagree, his play wins: his character's thoughts sound like the man he actually plays, and the card is updated to match.
+
+> When Isaac's play and a card disagree, his play wins: his character's thoughts sound like the man he actually plays, and the card is updated to match.
+
+### R52-09-NO_LINE [Voice Law 2026-09-26 Isaac's own characters]
+
+When Isaac gives a wordless beat in a written scene, the partner writes the line in his character's voice, marked as a draft for him to keep, change or cut.
+
+> When Isaac gives a wordless beat in a written scene, the partner writes the line in his character's voice, marked as a draft for him to keep, change or cut.
+
+### R52-10-CROSSOVER [Voice Law 2026-09-26 Isaac's own characters]
+
+Isaac's POV characters are always his: when one walks into another's thread, the partner leaves their lines and choices open.
+
+> Isaac's POV characters are always his: when one walks into another's thread, the partner leaves their lines and choices open.
+
+### R52-11-ILTHARA [Voice Law 2026-09-26 Isaac's own characters]
+
+The partner drafts a voice block for Ilthara Korvaeth from her scenes and Isaac's lines, for him to approve.
+
+> The partner drafts a voice block for Ilthara Korvaeth from her scenes and Isaac's lines, for him to approve.
+
+### R52-12-HANDBACK [Voice Law 2026-09-26 Isaac's own characters]
+
+When Isaac hands an NPC's voice back, his version sticks: the partner carries on in it and updates the NPC's roster voice.
+
+> When Isaac hands an NPC's voice back, his version sticks: the partner carries on in it and updates the NPC's roster voice.
+
+### R52-13-SODOKU_TALK [Voice Law 2026-09-26 The major cast, one by one]
+
+Sodoku talks as played: full, formal sentences, no contractions, no small talk; the card changes to say so.
+
+> Sodoku talks as played: full, formal sentences, no contractions, no small talk; the card changes to say so.
+
+### R52-14-SODOKU_JOKE [Voice Law 2026-09-26 The major cast, one by one]
+
+Sodoku makes jokes only by accident: he never means one; sometimes a flat truth lands as a joke and he doesn't notice.
+
+> Sodoku makes jokes only by accident: he never means one; sometimes a flat truth lands as a joke and he doesn't notice.
+
+### R52-15-HILD [Voice Law 2026-09-26 The major cast, one by one]
+
+Hild sounds eleven because the child leaks: her syntax slips, a sentence started too big and not finished, a wrong word, a question that gets out in public.
+
+> Hild sounds eleven because the child leaks: her syntax slips, a sentence started too big and not finished, a wrong word, a question that gets out in public.
+
+### R52-16-LAMBERT [Voice Law 2026-09-26 The major cast, one by one]
+
+When Lambert is shaken he counts out loud: he falls into inventory (numbers, stores, names) where a man would say what he feels.
+
+> When Lambert is shaken he counts out loud: he falls into inventory (numbers, stores, names) where a man would say what he feels.
+
+### R52-17-DARIUS [Voice Law 2026-09-26 The major cast, one by one]
+
+Darius is the one who argues: he disputes to your face in reasoned argument while the other quiet men withhold.
+
+> Darius is the one who argues: he disputes to your face in reasoned argument while the other quiet men withhold.
+
+### R52-18-GIMBZO [Voice Law 2026-09-26 The major cast, one by one]
+
+Gimbzo is a loose talker: an easy, rambling old master who goes silent only on what matters; the card changes to match the scenes.
+
+> Gimbzo is a loose talker: an easy, rambling old master who goes silent only on what matters; the card changes to match the scenes.
+
+### R52-19-VERINUS [Voice Law 2026-09-26 The major cast, one by one]
+
+Verinus is a speech-maker: his card is rewritten to match the scenes.
+
+> Verinus is a speech-maker: his card is rewritten to match the scenes.
+
+### R52-20-AURELIAN [Voice Law 2026-09-26 The major cast, one by one]
+
+Aurelian's Sum-gol shows in the words (the dropped copula written into the line, narration marking the rising pitch), under strain and also whenever he is with Mahuo kin or anyone from Sum-gol.
+
+> Aurelian's Sum-gol shows in the words (the dropped copula written into the line, narration marking the rising pitch), under strain and also whenever he is with Mahuo kin or anyone from Sum-gol.
+
+### R52-21-KWON [Voice Law 2026-09-26 The major cast, one by one]
+
+Kwon Mu-jin never uses his rank or the old court honorifics to win an argument, even when it would work.
+
+> Kwon Mu-jin never uses his rank or the old court honorifics to win an argument, even when it would work.
+
+### R52-22-YOKO [Voice Law 2026-09-26 The major cast, one by one]
+
+Yoko is precise and spare at work; at home with Sodoku and family she runs long and personal.
+
+> Yoko is precise and spare at work; at home with Sodoku and family she runs long and personal.
+
+### R52-23-MAHUO_WE [Voice Law 2026-09-26 The major cast, one by one]
+
+The plural 'we' under strain is a family tell: every Mahuo slips into it under strain, Aurelian included.
+
+> The plural 'we' under strain is a family tell: every Mahuo slips into it under strain, Aurelian included.
+
+### R52-24-KUJO [Voice Law 2026-09-26 The major cast, one by one]
+
+Kujo's voice is left to his arc: no card work now; the likeness to Muken is fixed only when a scene puts them together.
+
+> Kujo's voice is left to his arc: no card work now; the likeness to Muken is fixed only when a scene puts them together.
+
+### R52-25-STRESS_RULE [Voice Law 2026-09-26 Stress, grief and joy]
+
+For named humans under stress, both apply at once: the shortening happens and the card's stress tell rides on it (Kwon over-explains in short broken bursts; Cozbi's short lines come fast).
+
+> For named humans under stress, both apply at once: the shortening happens and the card's stress tell rides on it (Kwon over-explains in short broken bursts; Cozbi's short lines come fast).
+
+### R52-26-GRIEF [Voice Law 2026-09-26 Stress, grief and joy]
+
+Grief takes a voice back to its root: polish falls away and the childhood voice returns (Aurelian's Sum-gol, Verinus's coastal cadence, Hild's child).
+
+> Grief takes a voice back to its root: polish falls away and the childhood voice returns (Aurelian's Sum-gol, Verinus's coastal cadence, Hild's child).
+
+### R52-27-JOY [Voice Law 2026-09-26 Stress, grief and joy]
+
+Joy in a guarded voice: the speech holds; the joy shows in hands, face and breath.
+
+> Joy in a guarded voice: the speech holds; the joy shows in hands, face and breath.
+
+### R52-28-COMPOSURE [Voice Law 2026-09-26 Stress, grief and joy]
+
+For people trained into calm, composure is free; it costs, visibly, only when it is a real strain.
+
+> For people trained into calm, composure is free; it costs, visibly, only when it is a real strain.
+
+### R52-29-NPC_RECIPE [Voice Law 2026-09-26 NPC voices the partner builds]
+
+Each NPC's voice starts from a researched real-world speaker type (a customs clerk's forms, a field surgeon's triage talk, a drover's calls), credited in the notes.
+
+> Each NPC's voice starts from a researched real-world speaker type (a customs clerk's forms, a field surgeon's triage talk, a drover's calls), credited in the notes.
+
+### R52-30-PROVERBS [Voice Law 2026-09-26 NPC voices the partner builds]
+
+Every NPC carries one fixed saying from the Standing Inventory; the sayings are the culture's texture.
+
+> Every NPC carries one fixed saying from the Standing Inventory; the sayings are the culture's texture.
+
+### R52-31-COMIC_NPC [Voice Law 2026-09-26 NPC voices the partner builds]
+
+The partner may invent a comic minor NPC as a comic voice from the start, with no setup-deadpan-reaction beat; the funeral test no longer binds NPC building.
+
+> The partner may invent a comic minor NPC as a comic voice from the start, with no setup-deadpan-reaction beat; the funeral test no longer binds NPC building.
+
+### R52-32-ROOM_CAST [Voice Law 2026-09-26 NPC voices the partner builds]
+
+Room casting is by ear: the partner casts for the scene and fixes voice likeness only when the swap test fails.
+
+> Room casting is by ear: the partner casts for the scene and fixes voice likeness only when the swap test fails.
 
 ### R48-39-INTERIORITY [Writing Law 2026-09-26 Characters and dialogue]
 
@@ -2123,7 +2663,7 @@ Isaac's direction of 2026-09-12 overtakes the two pending rows that kept the pac
 
 > Superseded by Isaac's direction of 2026-09-12 to fold the packs into dated base-guide editions ("yes — start folding the packs in now"); eleven guides are folded, the remaining six follow the same way.
 
-## items (37)
+## items (36)
 
 ### R20C-22-AMMUNITION_TIERS_RATIFIED [Pack Twenty R20C-22]
 
@@ -2196,12 +2736,6 @@ Powder weapons are slow, loud and honest; a practitioner above roughly the middl
 Common shot (cheap, kills men, annoys practitioners), proofed shot (Materia-coupled, Guild-stamped, defeats proofed plate but not a Domain), and the named round (one-shot assassination ordnance, Wellspring-coupled and paid for in advance).
 
 > The three ammunition tiers, originated, pending ruling:
-
-### R11-3-FIREARM_PROSE_LAW [Pack Eleven §3]
-
-The gun is furniture, not spectacle; no sentence explains why a proofed round defeats proofed plate — the physical account of the hole stays, the causal account is cut.
-
-> Prose law for firearms. The gun is furniture, not spectacle. Powder smells of rotten egg and it stays in the wool for days. Misfires are common in wet weather and a soldier's relationship with his own weapon is superstitious and practical at once. No sentence explains why a proofed round defeats a proofed plate. The physical account of the hole stays. The causal account is cut, per Pack Seven.
 
 ### R10-3-PROJECTED_FORM_LICENSE [Pack Ten PART THREE]
 
@@ -2347,19 +2881,13 @@ A Witnessed-Tempered piece inherits a scaled-down Ancestral Dominion Frame: ever
 
 > If the piece changes hands outside the terms of the oath, its accrued memory does not transfer. This is not the Dawi's Crystal-Coherence self-punishment, a cost paid by the oath-breaker's own soul; it is closer to the Weight of the Blood, where failure feels ancestral rather than personal. The object simply stops recognizing the new holder as a party the law was made for. In the worst documented cases, Physical Plane Authority's "hold shape" reverses for that bearer alone, and the piece becomes more failure-prone in their hands than an ordinary equivalent.
 
-## magic-design (94)
+## magic-design (92)
 
 ### R20C-28-PHENOMENON_BANK_CANDIDATES [Pack Twenty R20C-28]
 
 The Phenomenon Bank's eight seeds are ratified as candidates, not canon. A seed becomes canon the session someone is derived from it — refusal, wound, conviction, then the phenomenon.
 
 > The Phenomenon Bank's eight seeds are ratified as candidates, not canon. A seed becomes canon the session someone is derived from it — refusal, wound, conviction, then the phenomenon.
-
-### R20C-38-PACK_EIGHT_SECTION_TWO_ENTIRE [Pack Twenty R20C-38]
-
-Section Two ratified entire. True name in the practitioner's own language.
-
-> Section Two ratified entire. True name in the practitioner's own language. Flat literal gloss, never poetic. Poetry lives in the by-name. Art carries the character; techniques may not. The release is an optional imperative call costing a beat and buying output. Escalation modifies the existing true name. The gloss never appears in prose, nobody translates their own technique aloud, the true name is spoken and never narrated, one release per scene.
 
 ### R20C-39-PACK_EIGHT_SECTION_ONE_SUPERSEDED [Pack Twenty R20C-39]
 
@@ -2534,12 +3062,6 @@ Manual check: for each of Cost, Limit and Counter, name the sentence in the Oper
 Flags phrases that assert an outcome instead of stating a process (e.g. "is assayed", "is converted", "responds to"); each is replaced with the operation it stands in for, or deleted.
 
 > Check 36 — The assertion sweep. Flag every phrase that states an outcome in place of a process: is assayed, is converted, is transferred, responds to, is affected by, is empowered by, resonates with, attunes to. Each one is either replaced with the operation it is standing in for or deleted.
-
-### R15-1-LATIN_CHANT_SURVIVES [Pack Fifteen §1]
-
-Latin for chant-based magic is not a register rule but a texture choice Isaac made, and it stands unless he says otherwise.
-
-> Latin for chant-based magic. Not a register rule in this sense; it is a texture choice Isaac made. Stands unless he says otherwise.
 
 ### R14-8-ABILITY_GUIDE_FOW_LINE [Pack Fourteen §8]
 
@@ -2913,19 +3435,13 @@ The Phenomenon Bank becomes a growing library: every researched phenomenon (and 
 
 > The Phenomenon Bank becomes a growing library: every researched phenomenon (and pseudoscientific idea) is added for future workings and players to draw from.
 
-## magic-mechanism (106)
+## magic-mechanism (100)
 
 ### R20C-17-SITES_RECHARGE_UNHELPFULLY [Pack Twenty R20C-17]
 
 Sites recharge, and it does not help. Decades to centuries, and the rate falls with every working — eighty years the first time, two hundred the second.
 
 > Sites recharge, and it does not help. Decades to centuries, and the rate falls with every working — eighty years the first time, two hundred the second. Short-run: managed and corrupt, because the Guild sells renewal honestly. Long-run: predatory and doomed, because the curve bends one way. The Thin Weeks are this arriving early in the periphery.
-
-### R20C-20-WELLS_GENERATE_NO_ENTITIES [Pack Twenty R20C-20]
-
-Wells generate no entities. The site is the entire threat.
-
-> Wells generate no entities. The site is the entire threat.
 
 ### R20C-23-ORIGIN_STAYS_MYTHIC [Pack Twenty R20C-23]
 
@@ -3125,12 +3641,6 @@ Correspondence, sympathy and contagion, essence and accident, form and actualisa
 
 > Metaphysics, for the Plane of Fate and the Hermetic layer: correspondence, sympathy and contagion, essence and accident, form and actualisation, recognition and refusal. These are the vocabulary of stratum two's Attraction-side reads and of voice four, the document.
 
-### R13-9-STYLE_DIRECTIVE_MECHANISM_VOCAB [Pack Thirteen §9]
-
-Bare jargon mid-action stays banned, but a Mechanism Vocabulary term may now be named in diagnostic voice alongside its dramatisation.
-
-> WOTR_Master_Style_Directive.md §6. The Mechanism Vocabulary's surfacing rule is amended: bare-jargon mid-action stays banned; the term may be named in diagnostic voice alongside its dramatisation.
-
 ### R12-1-PACK_SEVEN_REPEALED [Pack Twelve §1]
 
 Pack Seven, the Soft Magic Amendment, is repealed in full; six of its specific provisions are individually struck (see the other §1 rows), and where Twelve conflicts with Seven, Seven is struck.
@@ -3269,12 +3779,6 @@ Scene Standards' sentence-level bans on mechanism explanation and metaphysical n
 
 > Scene Standards. The sentence-level bans on mechanism explanation and metaphysical numbers are struck. Everything else stands.
 
-### R11-1-REFERENCE_TRIANGLE [Pack Eleven §1]
-
-Warhammer 40,000 for bureaucratic scale, late-Victorian industrial imperialism for material texture and class geography, and manhwa for visual power-display grammar — the last now widened from Pack Nine's four beat types to the general visual register. References are not to be imitated directly.
-
-> Reference triangle, not to be imitated: Warhammer 40,000 for the scale of the bureaucracy and the sense that the machinery outlived its explanation. Late-Victorian industrial imperialism for the material texture, class geography, and the survey-and-annex habit. Manhwa for the visual grammar of power display, per Pack Nine, now widened from four beat types to the general visual register.
-
 ### R11-2-HYDROLOGY_MODEL [Pack Eleven §2]
 
 The technological age runs on Wellsprings as standing currents that pool where substrate/competing-currents/time allow, per The Mechanism of the Sixty; nobody built an engine, they sank a well.
@@ -3292,12 +3796,6 @@ A machine is a conduit retuned to a current (phase-locking, not restricted to so
 The Guild of Measurewrights (Hexagonal Oath, in concurrence with Research & Archives) wrote the address down but does not explain the mechanism.
 
 > The Measurewrights are the order that maintains it. Guild of Measurewrights, under the Hexagonal Oath, already canon, already in concurrence with Research & Archives. They wrote the address down. They do not explain it, and Pack Seven means they never will.
-
-### R11-3-FIREARM_PROSE_LAW [Pack Eleven §3]
-
-The gun is furniture, not spectacle; no sentence explains why a proofed round defeats proofed plate — the physical account of the hole stays, the causal account is cut.
-
-> Prose law for firearms. The gun is furniture, not spectacle. Powder smells of rotten egg and it stays in the wool for days. Misfires are common in wet weather and a soldier's relationship with his own weapon is superstitious and practical at once. No sentence explains why a proofed round defeats a proofed plate. The physical account of the hole stays. The causal account is cut, per Pack Seven.
 
 ### R11-4-WELLS_ORIGIN [Pack Eleven §4]
 
@@ -3353,12 +3851,6 @@ Magicraft, Spellcraft, Runecraft and Draftcraft are confirmed canon as the namin
 
 > The four-media structure — Magicraft, Spellcraft, Runecraft, Draftcraft — is confirmed canon as the naming scheme for how a working gets performed. Chantcraft stays pending.
 
-### R9-2-COMMON_TONGUE_LEGAL [Pack Nine PART TWO]
-
-A POV may be shown cutting a ward, speaking a working, or pouring a Draft (singing pending Chantcraft's ruling); the common tongue for craft actions is prose-legal, said the way the character would actually say it, while the Accord Latin terms stay document-only.
-
-> The common tongue — the work, the speaking, the cutting, the pouring — is now prose-legal, said the way the character in question would actually say it.
-
 ### R9-3-SCOPE [Pack Nine PART THREE]
 
 The new power-display register applies only to Stage-ascension beats, a Pressure drop, and a technique's first display or finisher; the Visual Aesthetic Guide's grounded North Star governs everywhere else (wounds, environment, objects, ordinary combat, material culture).
@@ -3400,12 +3892,6 @@ Three things never bend: the economy (finite, spent, visible), the ladder (sixte
 WOTR runs an Eastern skeleton under Western flesh; the systematic density (Stages, Wellsprings, Bands/Grades/Coherence/eta, Codex glyph grammar, Family/Physics Domain, the character sheet, the Design Chain, EU costs) does not get diluted, softened, or made impressionistic.
 
 > WOTR runs an Eastern skeleton under Western flesh. The skeleton stays exactly as it is. Sixteen Temperance Stages, sixty Wellsprings, Bands and Grades and Coherence and eta, the Master Codex glyph grammar, Family and Physics Domain assignment, the seventeen-section character sheet, Trigger through Counterplay, EU costs to the unit. That systematic density is a light-novel and xianxia inheritance and it is the correct engine for this project. It does not get diluted, softened, or made impressionistic. Section 3.3's division of hard and soft labour stands untouched.
-
-### R5-F-LIGHT_NOVEL_NOT_KEPT [Pack Five F]
-
-Status screens, panels and HUD-style rendering (already banned); narrator explanation of the system to the reader; the isekai commentary register (wry narrator asides about the world's rules); and character-sheet vocabulary (Stage, Grade, eta, Band) surfacing in prose.
-
-> - Status screens, panels, HUD-style rendering. Already banned; restated because the light-novel framing invites them back. - Narrator explanation of the system to the reader. Section 3.1's Mechanism Standard delivers mechanism through physical description at trigger points, never as instruction. - The isekai commentary register. Wry narrator asides about the world's rules. - Character-sheet vocabulary surfacing in prose. Stage, Grade, eta and Band are author-facing.
 
 ### R3-7-EXPENDITURE_MOVES [Pack Three Amendment Seven]
 
@@ -3784,7 +4270,7 @@ The Combat Craft Guide governs duels and small actions; the Mass Combat Craft Gu
 
 > Precedence. This guide governs duels and small actions. The Mass Combat Craft Guide takes precedence the moment a formation exists. The three-layer hit model, the HEMA vocabulary and the armour-tier breakdown are all duel instruments and are explicitly suspended or replaced in mass combat per that guide's sections 1, 3 and 4.
 
-## naming (96)
+## naming (128)
 
 ### R20C-1-BURI_DEAD_EVERYWHERE [Pack Twenty R20C-1]
 
@@ -3809,12 +4295,6 @@ Hataraki no Sho confirmed as the received name.
 Both names, class-marked. Guild register a Core Concentration; common tongue a Well; going in is a descent; the people are delvers, or well-rats if you dislike them.
 
 > Both names, class-marked. Guild register a Core Concentration; common tongue a Well; going in is a descent; the people are delvers, or well-rats if you dislike them.
-
-### R20C-38-PACK_EIGHT_SECTION_TWO_ENTIRE [Pack Twenty R20C-38]
-
-Section Two ratified entire. True name in the practitioner's own language.
-
-> Section Two ratified entire. True name in the practitioner's own language. Flat literal gloss, never poetic. Poetry lives in the by-name. Art carries the character; techniques may not. The release is an optional imperative call costing a beat and buying output. Escalation modifies the existing true name. The gloss never appears in prose, nobody translates their own technique aloud, the true name is spoken and never narrated, one release per scene.
 
 ### R20C-40-NAMING_PASS_SCHEDULED [Pack Twenty R20C-40]
 
@@ -4061,12 +4541,6 @@ Renaming at change of allegiance does not travel into the Northern stratum, wher
 A name is an outlier when it fits no stratum (foreign fostering, a mother's whim, a bought name, an insult or shield name); Bram is the standing example and needs no justification on the page.
 
 > A name is an outlier when it fits no stratum: a foreign fostering, a mother's whim, a name bought off a dying man, a bloodline child given a Northern name as an insult or a shield. Bram is the standing example and needs no justification on the page.
-
-### R23-5-OUTLIER_BUDGET [Inner World Naming Amendment V]
-
-Roughly one outlier in eight named characters, each with a reason that exists in the workbook whether or not it reaches prose; above that ratio the registers stop reading as systems and start reading as an author picking names he liked.
-
-> Budget: roughly one outlier in eight named characters, and each one has a reason that exists in the workbook whether or not it ever reaches prose. Above that ratio the registers stop reading as systems and start reading as an author picking names he liked.
 
 ### R23-6-UNTOUCHED_REGISTERS [Inner World Naming Amendment VI]
 
@@ -4338,6 +4812,210 @@ Introduce a character by whatever name the POV character would use (formal on fi
 
 > Prose convention: introduce a character by whatever name the POV character would use. A practitioner meeting another practitioner for the first time uses the formal address. An intimate uses the personal name. A stranger uses the Third Name if they have heard it, and a physical description if they have not. The narrator uses the name the scene has established and does not switch without a reason, because a name-switch in narration is a statement about how the character's relationship to the reader has changed.
 
+### R50-01-REAL_GRAMMAR [Naming Law 2026-09-26 Borrowing from real languages]
+
+Borrowed real-language names must be real, correct phrases in that language, and the gloss must match what the words actually mean.
+
+> Borrowed real-language names must be real, correct phrases in that language, and the gloss must match what the words actually mean.
+
+### R50-02-FIX_OLD_ONES [Naming Law 2026-09-26 Borrowing from real languages]
+
+A published name that is wrong in its source language has its grammar and spelling corrected where the name keeps its sound; the rest stays.
+
+> A published name that is wrong in its source language has its grammar and spelling corrected where the name keeps its sound; the rest stays.
+
+### R50-03-EARTH_PLACES [Naming Law 2026-09-26 Borrowing from real languages]
+
+A WOTR place may carry a real Earth place name unchanged, anywhere it fits the stratum.
+
+> A WOTR place may carry a real Earth place name unchanged, anywhere it fits the stratum.
+
+### R50-04-POP_CULTURE [Naming Law 2026-09-26 Borrowing from real languages]
+
+Names that echo a famous franchise (Stark, Greymane, the Night's Watch) are allowed; homage is fine and the name means what WOTR makes it mean.
+
+> Names that echo a famous franchise (Stark, Greymane, the Night's Watch) are allowed; homage is fine and the name means what WOTR makes it mean.
+
+### R50-05-MYTH_FIGURES [Naming Law 2026-09-26 Borrowing from real languages]
+
+A WOTR being may carry a real god, demon or saint name as a borrowing; WOTR's being is its own, the name is a nod.
+
+> A WOTR being may carry a real god, demon or saint name as a borrowing; WOTR's being is its own, the name is a nod.
+
+### R50-06-SACRED_TERMS [Naming Law 2026-09-26 Borrowing from real languages]
+
+No ban on sacred or ceremonial terms from living traditions in any register; a sacred word used respectfully is allowed.
+
+> No ban on sacred or ceremonial terms from living traditions in any register; a sacred word used respectfully is allowed.
+
+### R50-07-NEW_TONGUES [Naming Law 2026-09-26 Borrowing from real languages]
+
+The partner may open a new real-language naming register for a new people, logged as pending.
+
+> The partner may open a new real-language naming register for a new people, logged as pending.
+
+### R50-08-GLOSS_CLASH [Naming Law 2026-09-26 Techniques, arts and items]
+
+R49-48 governs: technique names and translations are free in narration; the older Pack Twenty clauses that kept the gloss off the page and the true name un-narrated are superseded.
+
+> R49-48 governs: technique names and translations are free in narration; the older Pack Twenty clauses that kept the gloss off the page and the true name un-narrated are superseded.
+
+### R50-09-ONE_RELEASE [Naming Law 2026-09-26 Techniques, arts and items]
+
+No limit on release calls: an art may be called as often as the fight gives a beat; each call still costs the beat.
+
+> No limit on release calls: an art may be called as often as the fight gives a beat; each call still costs the beat.
+
+### R50-10-NAME_STYLE [Naming Law 2026-09-26 Techniques, arts and items]
+
+Technique naming leans by culture: plain English names for common-tongue fighters, true names with a gloss for houses with a register.
+
+> Technique naming leans by culture: plain English names for common-tongue fighters, true names with a gloss for houses with a register.
+
+### R50-11-LONG_NAMES [Naming Law 2026-09-26 Techniques, arts and items]
+
+New English technique names are short: two words at most, no stacked modifiers.
+
+> New English technique names are short: two words at most, no stacked modifiers.
+
+### R50-12-COINED_LATIN [Naming Law 2026-09-26 Techniques, arts and items]
+
+New Latinate names use real, correct Latin.
+
+> New Latinate names use real, correct Latin.
+
+### R50-13-ITEM_NAMES [Naming Law 2026-09-26 Techniques, arts and items]
+
+An item's true name depends on who tells it: each culture names it in its own tongue, and the page lists the names side by side.
+
+> An item's true name depends on who tells it: each culture names it in its own tongue, and the page lists the names side by side.
+
+### R50-14-ESCALATION [Naming Law 2026-09-26 Techniques, arts and items]
+
+A stronger form of an art takes a suffix in the art's own language (Kurosetsu becomes Kurosetsu-Kai).
+
+> A stronger form of an art takes a suffix in the art's own language (Kurosetsu becomes Kurosetsu-Kai).
+
+### R50-15-DIACRITICS [Naming Law 2026-09-26 People's names]
+
+Macrons, apostrophes and accents stay in names wherever the register uses them.
+
+> Macrons, apostrophes and accents stay in names wherever the register uses them.
+
+### R50-16-HOW_EXOTIC [Naming Law 2026-09-26 People's names]
+
+How hard a name is to say is decided by its register: if the register makes it hard, it is hard, and the reader learns it.
+
+> How hard a name is to say is decided by its register: if the register makes it hard, it is hard, and the reader learns it.
+
+### R50-17-SHARED_NAMES [Naming Law 2026-09-26 People's names]
+
+Characters may share a name or sound alike; when they meet, it becomes a beat.
+
+> Characters may share a name or sound alike; when they meet, it becomes a beat.
+
+### R50-18-OUTLIERS [Naming Law 2026-09-26 People's names]
+
+The one-in-eight outlier-name budget is dropped: outlier names are free, no ratio, no reason needed.
+
+> The one-in-eight outlier-name budget is dropped: outlier names are free, no ratio, no reason needed.
+
+### R50-19-ZETTARI_BANK [Naming Law 2026-09-26 People's names]
+
+The Zettari keep a free register: names are coined in the register's sound, no element bank.
+
+> The Zettari keep a free register: names are coined in the register's sound, no element bank.
+
+### R50-20-OTHER_BANKS [Naming Law 2026-09-26 People's names]
+
+No element banks are needed for the Chinese-stratum halls or the Far-Northern peoples; their sound rules are enough.
+
+> No element banks are needed for the Chinese-stratum halls or the Far-Northern peoples; their sound rules are enough.
+
+### R50-21-THIRD_NAMES [Naming Law 2026-09-26 People's names]
+
+The partner may coin a Third Name for one of Isaac's characters through an NPC in a scene; it sticks only if Isaac keeps it.
+
+> The partner may coin a Third Name for one of Isaac's characters through an NPC in a scene; it sticks only if Isaac keeps it.
+
+### R50-22-PLACE_STRATA [Naming Law 2026-09-26 Places, factions, schools, Wellsprings]
+
+A place carries several names, one per culture that uses it; the POV picks which to use.
+
+> A place carries several names, one per culture that uses it; the POV picks which to use.
+
+### R50-23-DOUBLETS [Naming Law 2026-09-26 Places, factions, schools, Wellsprings]
+
+The Accord Latin / common-tongue doublet extends to everything: schools, factions and places get both, and the speaker picks.
+
+> The Accord Latin / common-tongue doublet extends to everything: schools, factions and places get both, and the speaker picks.
+
+### R50-24-SCHOOL_NAMES [Naming Law 2026-09-26 Places, factions, schools, Wellsprings]
+
+A fighting or magic school takes a true name in the founding culture's own tongue, like an art.
+
+> A fighting or magic school takes a true name in the founding culture's own tongue, like an art.
+
+### R50-25-WELLSPRINGS [Naming Law 2026-09-26 Places, factions, schools, Wellsprings]
+
+Local folk names for a Wellspring are recorded on the Wellspring's page and usable anywhere.
+
+> Local folk names for a Wellspring are recorded on the Wellspring's page and usable anywhere.
+
+### R50-26-CHANT_TONGUE [Naming Law 2026-09-26 Places, factions, schools, Wellsprings]
+
+Each practitioner chants in their own language; the Latin-default chant rule is superseded.
+
+> Each practitioner chants in their own language; the Latin-default chant rule is superseded.
+
+### R50-27-NEW_NPC_NAME [Naming Law 2026-09-26 Naming things mid-scene]
+
+A new person the partner introduces is a role (the gate-clerk) until they speak twice or matter; then they get a name.
+
+> A new person the partner introduces is a role (the gate-clerk) until they speak twice or matter; then they get a name.
+
+### R50-28-NEW_WORDS [Naming Law 2026-09-26 Naming things mid-scene]
+
+A word the partner coins mid-scene is logged with the scene, not docketed; it becomes canon only if Isaac reuses it.
+
+> A word the partner coins mid-scene is logged with the scene, not docketed; it becomes canon only if Isaac reuses it.
+
+### R50-29-COLLISION [Naming Law 2026-09-26 Naming things mid-scene]
+
+When a name invented mid-scene clashes with an existing page, it becomes a beat: two people with one name, and the world notices.
+
+> When a name invented mid-scene clashes with an existing page, it becomes a beat: two people with one name, and the world notices.
+
+### R50-30-BANK_OR_EAR [Naming Law 2026-09-26 Naming things mid-scene]
+
+Mid-scene the partner may name by ear to keep the pace; names are checked against the banks and sound rules at the scene's end.
+
+> Mid-scene the partner may name by ear to keep the pace; names are checked against the banks and sound rules at the scene's end.
+
+### R50-31-SCRIPT_SHOWN [Naming Law 2026-09-26 Names on pages vs in prose]
+
+True names are romanised only: no real script (kanji, hangul) on cards, pages or prose.
+
+> True names are romanised only: no real script (kanji, hangul) on cards, pages or prose.
+
+### R50-32-ITALICS [Naming Law 2026-09-26 Names on pages vs in prose]
+
+Foreign names and borrowed words are never italic in prose.
+
+> Foreign names and borrowed words are never italic in prose.
+
+### R50-33-MISPRONOUNCE [Naming Law 2026-09-26 Names on pages vs in prose]
+
+A foreigner's bent pronunciation of a name is spelled as heard in dialogue (Gimbzo becomes 'Gimzo').
+
+> A foreigner's bent pronunciation of a name is spelled as heard in dialogue (Gimbzo becomes 'Gimzo').
+
+### R50-34-SAY_GUIDE [Naming Law 2026-09-26 Names on pages vs in prose]
+
+Every character card and place page carries a short pronunciation line.
+
+> Every character card and place page carries a short pronunciation line.
+
 ### R24-1-FLESHSHAPER_GOVERNING_PRINCIPLE [Racial Voice and Dialect Guide Amendment I]
 
 Fleshshaper Goblin register is governed by the fact that they are surgeons who talk like surgeons never told to be squeamish about it.
@@ -4362,7 +5040,7 @@ The Zettari bloodline's names, titles and technique names are built in a Swahili
 
 > The Zettari speak their own tongue. Their names and their arts are Swahili, Bantu and Arabic in flavour — Kafa-Karim, Habl Flow-Bind, Sarmad Fracture, Sukun Maji, Dawam Soul-Still Art, Kumi-na-Mbili Seal; Zuberi, Ma'Kovu, N'Kharu, Malani, Jomari, N'Yari, Zembari — and that register stands. The five-strata naming convention assigns the archaic bloodlines to the Japonic stratum; the Zettari are carved out of it as a register of their own, and the Japonic assignment continues to govern every other archaic line. Ruled by Isaac, 2026-09-12.
 
-## pov (54)
+## pov (86)
 
 ### R20C-49-GLOSS_RIGHTS_CARD_FIELD [Pack Twenty R20C-49]
 
@@ -4652,6 +5330,198 @@ The narration-distance rule wins over Pack One's Scene Standards carve-out: a na
 
 > The narration-distance rule wins: no NPC italic thought inside a locked-POV scene. Pack One's "one private italic thought per named NPC" carve-out survives only for scenes with no POV lock (omniscient and mass combat).
 
+### R52-01-SAME_MAN [Voice Law 2026-09-26 How distinct voices must be]
+
+The quiet, controlled older man is the setting's taste: leave the archetype; the swap test catches clashes scene by scene.
+
+> The quiet, controlled older man is the setting's taste: leave the archetype; the swap test catches clashes scene by scene.
+
+### R52-02-VOICE_LEVER [Voice Law 2026-09-26 How distinct voices must be]
+
+A voice is mind and sound in equal measure: what they notice, want, refuse and how they reason, plus an audible layer (sentence length, contractions, a pet word, pace, dialect).
+
+> A voice is mind and sound in equal measure: what they notice, want, refuse and how they reason, plus an audible layer (sentence length, contractions, a pet word, pace, dialect).
+
+### R52-03-VOICE_BLOCK [Voice Law 2026-09-26 How distinct voices must be]
+
+Every major card carries a full voice block with fixed slots: notices first, sentence length, contractions, pet word, never says, stumbles or not, gloss rights, stress shift, grief shift, joy shift, one sample line.
+
+> Every major card carries a full voice block with fixed slots: notices first, sentence length, contractions, pet word, never says, stumbles or not, gloss rights, stress shift, grief shift, joy shift, one sample line.
+
+### R52-04-CONTRACTIONS [Voice Law 2026-09-26 How distinct voices must be]
+
+Contractions are set per character on the card: always, sometimes or never; most sometimes, a few never on purpose.
+
+> Contractions are set per character on the card: always, sometimes or never; most sometimes, a few never on purpose.
+
+### R52-05-COUNTING [Voice Law 2026-09-26 How distinct voices must be]
+
+Exact-number speech belongs to its owners: Lambert, the Measurewrights, clerks and anyone reading an instrument count; everyone else rounds, guesses or doesn't count.
+
+> Exact-number speech belongs to its owners: Lambert, the Measurewrights, clerks and anyone reading an instrument count; everyone else rounds, guesses or doesn't count.
+
+### R52-06-TRIADS [Voice Law 2026-09-26 How distinct voices must be]
+
+Triads and parallel clauses are legal in any mouth, under duress included; the composure check drops them.
+
+> Triads and parallel clauses are legal in any mouth, under duress included; the composure check drops them.
+
+### R52-07-SWAP_CHECK [Voice Law 2026-09-26 How distinct voices must be]
+
+The speaker-swap measurement is for reading only: no numbers in the checker; cover the tags and sort by ear.
+
+> The speaker-swap measurement is for reading only: no numbers in the checker; cover the tags and sort by ear.
+
+### R52-08-PC_IDIOM [Voice Law 2026-09-26 Isaac's own characters]
+
+When Isaac's play and a card disagree, his play wins: his character's thoughts sound like the man he actually plays, and the card is updated to match.
+
+> When Isaac's play and a card disagree, his play wins: his character's thoughts sound like the man he actually plays, and the card is updated to match.
+
+### R52-09-NO_LINE [Voice Law 2026-09-26 Isaac's own characters]
+
+When Isaac gives a wordless beat in a written scene, the partner writes the line in his character's voice, marked as a draft for him to keep, change or cut.
+
+> When Isaac gives a wordless beat in a written scene, the partner writes the line in his character's voice, marked as a draft for him to keep, change or cut.
+
+### R52-10-CROSSOVER [Voice Law 2026-09-26 Isaac's own characters]
+
+Isaac's POV characters are always his: when one walks into another's thread, the partner leaves their lines and choices open.
+
+> Isaac's POV characters are always his: when one walks into another's thread, the partner leaves their lines and choices open.
+
+### R52-11-ILTHARA [Voice Law 2026-09-26 Isaac's own characters]
+
+The partner drafts a voice block for Ilthara Korvaeth from her scenes and Isaac's lines, for him to approve.
+
+> The partner drafts a voice block for Ilthara Korvaeth from her scenes and Isaac's lines, for him to approve.
+
+### R52-12-HANDBACK [Voice Law 2026-09-26 Isaac's own characters]
+
+When Isaac hands an NPC's voice back, his version sticks: the partner carries on in it and updates the NPC's roster voice.
+
+> When Isaac hands an NPC's voice back, his version sticks: the partner carries on in it and updates the NPC's roster voice.
+
+### R52-13-SODOKU_TALK [Voice Law 2026-09-26 The major cast, one by one]
+
+Sodoku talks as played: full, formal sentences, no contractions, no small talk; the card changes to say so.
+
+> Sodoku talks as played: full, formal sentences, no contractions, no small talk; the card changes to say so.
+
+### R52-14-SODOKU_JOKE [Voice Law 2026-09-26 The major cast, one by one]
+
+Sodoku makes jokes only by accident: he never means one; sometimes a flat truth lands as a joke and he doesn't notice.
+
+> Sodoku makes jokes only by accident: he never means one; sometimes a flat truth lands as a joke and he doesn't notice.
+
+### R52-15-HILD [Voice Law 2026-09-26 The major cast, one by one]
+
+Hild sounds eleven because the child leaks: her syntax slips, a sentence started too big and not finished, a wrong word, a question that gets out in public.
+
+> Hild sounds eleven because the child leaks: her syntax slips, a sentence started too big and not finished, a wrong word, a question that gets out in public.
+
+### R52-16-LAMBERT [Voice Law 2026-09-26 The major cast, one by one]
+
+When Lambert is shaken he counts out loud: he falls into inventory (numbers, stores, names) where a man would say what he feels.
+
+> When Lambert is shaken he counts out loud: he falls into inventory (numbers, stores, names) where a man would say what he feels.
+
+### R52-17-DARIUS [Voice Law 2026-09-26 The major cast, one by one]
+
+Darius is the one who argues: he disputes to your face in reasoned argument while the other quiet men withhold.
+
+> Darius is the one who argues: he disputes to your face in reasoned argument while the other quiet men withhold.
+
+### R52-18-GIMBZO [Voice Law 2026-09-26 The major cast, one by one]
+
+Gimbzo is a loose talker: an easy, rambling old master who goes silent only on what matters; the card changes to match the scenes.
+
+> Gimbzo is a loose talker: an easy, rambling old master who goes silent only on what matters; the card changes to match the scenes.
+
+### R52-19-VERINUS [Voice Law 2026-09-26 The major cast, one by one]
+
+Verinus is a speech-maker: his card is rewritten to match the scenes.
+
+> Verinus is a speech-maker: his card is rewritten to match the scenes.
+
+### R52-20-AURELIAN [Voice Law 2026-09-26 The major cast, one by one]
+
+Aurelian's Sum-gol shows in the words (the dropped copula written into the line, narration marking the rising pitch), under strain and also whenever he is with Mahuo kin or anyone from Sum-gol.
+
+> Aurelian's Sum-gol shows in the words (the dropped copula written into the line, narration marking the rising pitch), under strain and also whenever he is with Mahuo kin or anyone from Sum-gol.
+
+### R52-21-KWON [Voice Law 2026-09-26 The major cast, one by one]
+
+Kwon Mu-jin never uses his rank or the old court honorifics to win an argument, even when it would work.
+
+> Kwon Mu-jin never uses his rank or the old court honorifics to win an argument, even when it would work.
+
+### R52-22-YOKO [Voice Law 2026-09-26 The major cast, one by one]
+
+Yoko is precise and spare at work; at home with Sodoku and family she runs long and personal.
+
+> Yoko is precise and spare at work; at home with Sodoku and family she runs long and personal.
+
+### R52-23-MAHUO_WE [Voice Law 2026-09-26 The major cast, one by one]
+
+The plural 'we' under strain is a family tell: every Mahuo slips into it under strain, Aurelian included.
+
+> The plural 'we' under strain is a family tell: every Mahuo slips into it under strain, Aurelian included.
+
+### R52-24-KUJO [Voice Law 2026-09-26 The major cast, one by one]
+
+Kujo's voice is left to his arc: no card work now; the likeness to Muken is fixed only when a scene puts them together.
+
+> Kujo's voice is left to his arc: no card work now; the likeness to Muken is fixed only when a scene puts them together.
+
+### R52-25-STRESS_RULE [Voice Law 2026-09-26 Stress, grief and joy]
+
+For named humans under stress, both apply at once: the shortening happens and the card's stress tell rides on it (Kwon over-explains in short broken bursts; Cozbi's short lines come fast).
+
+> For named humans under stress, both apply at once: the shortening happens and the card's stress tell rides on it (Kwon over-explains in short broken bursts; Cozbi's short lines come fast).
+
+### R52-26-GRIEF [Voice Law 2026-09-26 Stress, grief and joy]
+
+Grief takes a voice back to its root: polish falls away and the childhood voice returns (Aurelian's Sum-gol, Verinus's coastal cadence, Hild's child).
+
+> Grief takes a voice back to its root: polish falls away and the childhood voice returns (Aurelian's Sum-gol, Verinus's coastal cadence, Hild's child).
+
+### R52-27-JOY [Voice Law 2026-09-26 Stress, grief and joy]
+
+Joy in a guarded voice: the speech holds; the joy shows in hands, face and breath.
+
+> Joy in a guarded voice: the speech holds; the joy shows in hands, face and breath.
+
+### R52-28-COMPOSURE [Voice Law 2026-09-26 Stress, grief and joy]
+
+For people trained into calm, composure is free; it costs, visibly, only when it is a real strain.
+
+> For people trained into calm, composure is free; it costs, visibly, only when it is a real strain.
+
+### R52-29-NPC_RECIPE [Voice Law 2026-09-26 NPC voices the partner builds]
+
+Each NPC's voice starts from a researched real-world speaker type (a customs clerk's forms, a field surgeon's triage talk, a drover's calls), credited in the notes.
+
+> Each NPC's voice starts from a researched real-world speaker type (a customs clerk's forms, a field surgeon's triage talk, a drover's calls), credited in the notes.
+
+### R52-30-PROVERBS [Voice Law 2026-09-26 NPC voices the partner builds]
+
+Every NPC carries one fixed saying from the Standing Inventory; the sayings are the culture's texture.
+
+> Every NPC carries one fixed saying from the Standing Inventory; the sayings are the culture's texture.
+
+### R52-31-COMIC_NPC [Voice Law 2026-09-26 NPC voices the partner builds]
+
+The partner may invent a comic minor NPC as a comic voice from the start, with no setup-deadpan-reaction beat; the funeral test no longer binds NPC building.
+
+> The partner may invent a comic minor NPC as a comic voice from the start, with no setup-deadpan-reaction beat; the funeral test no longer binds NPC building.
+
+### R52-32-ROOM_CAST [Voice Law 2026-09-26 NPC voices the partner builds]
+
+Room casting is by ear: the partner casts for the scene and fixes voice likeness only when the swap test fails.
+
+> Room casting is by ear: the partner casts for the scene and fixes voice likeness only when the swap test fails.
+
 ### R48-39-INTERIORITY [Writing Law 2026-09-26 Characters and dialogue]
 
 POV interiority is deep and running: thoughts, memories and reasoning flow through the narration.
@@ -4688,19 +5558,13 @@ Narration refers to characters by POV epithets, the way the viewpoint sees them;
 
 > Narration refers to characters by POV epithets, the way the viewpoint sees them; the naming characterises.
 
-## prose-law (184)
+## prose-law (215)
 
 ### R20C-29-CATEGORY_NAMING_DIAGNOSTIC [Pack Twenty R20C-29]
 
 Category naming in diagnostic voice: allowed.
 
 > Category naming in diagnostic voice: allowed.
-
-### R20C-31-SUBSTAT_NAMES_FACULTY_ONLY [Pack Twenty R20C-31]
-
-Sub-Stat names never appear outside a faculty reading.
-
-> Sub-Stat names never appear outside a faculty reading.
 
 ### R20C-33-RESONANT_PAIRS_DIAGNOSTIC [Pack Twenty R20C-33]
 
@@ -4828,12 +5692,6 @@ At first display and finisher, physics, Essence and Hermetic correspondence must
 
 > The three layers become three explanations. Physics, Essence, Hermetic correspondence: at first display and finisher each is a causal sentence beside its image, not the image alone.
 
-### R13-9-STYLE_DIRECTIVE_MECHANISM_VOCAB [Pack Thirteen §9]
-
-Bare jargon mid-action stays banned, but a Mechanism Vocabulary term may now be named in diagnostic voice alongside its dramatisation.
-
-> WOTR_Master_Style_Directive.md §6. The Mechanism Vocabulary's surfacing rule is amended: bare-jargon mid-action stays banned; the term may be named in diagnostic voice alongside its dramatisation.
-
 ### R12-1-PACK_SEVEN_REPEALED [Pack Twelve §1]
 
 Pack Seven, the Soft Magic Amendment, is repealed in full; six of its specific provisions are individually struck (see the other §1 rows), and where Twelve conflicts with Seven, Seven is struck.
@@ -4851,12 +5709,6 @@ Confirmed by Isaac's ruling: the four explaining voices may mix, whoever is in t
 The Ladder ban, the Gloss budget of zero, local burstiness, the reification budget, and every AI tell in the checklist survive unchanged; explaining a mechanism is no licence to write badly.
 
 > Retained in full: the Ladder ban, the Gloss budget of zero, local burstiness, the reification budget, and every AI tell in the checklist. Explaining a mechanism is no licence to write badly.
-
-### R11-3-FIREARM_PROSE_LAW [Pack Eleven §3]
-
-The gun is furniture, not spectacle; no sentence explains why a proofed round defeats proofed plate — the physical account of the hole stays, the causal account is cut.
-
-> Prose law for firearms. The gun is furniture, not spectacle. Powder smells of rotten egg and it stays in the wool for days. Misfires are common in wet weather and a soldier's relationship with his own weapon is superstitious and practical at once. No sentence explains why a proofed round defeats a proofed plate. The physical account of the hole stays. The causal account is cut, per Pack Seven.
 
 ### R11-4-DESCENT_PROSE_LAW [Pack Eleven §4]
 
@@ -5001,12 +5853,6 @@ The elegiac register is available to scene narration because elegy in the saga m
 A moral verdict in the POV's own idiom, which could be wrong, is characterisation; the same verdict in the narrator's neutral register is Tolkien's voice and gets cut, per Pack Four's gloss test.
 
 > Free indirect discourse remains the carve-out and Pack Four's gloss test still governs. A moral verdict in the POV's own idiom, which could be wrong, is characterisation. The same verdict in the narrator's neutral register is Tolkien's voice and gets cut.
-
-### R5-F-LIGHT_NOVEL_NOT_KEPT [Pack Five F]
-
-Status screens, panels and HUD-style rendering (already banned); narrator explanation of the system to the reader; the isekai commentary register (wry narrator asides about the world's rules); and character-sheet vocabulary (Stage, Grade, eta, Band) surfacing in prose.
-
-> - Status screens, panels, HUD-style rendering. Already banned; restated because the light-novel framing invites them back. - Narrator explanation of the system to the reader. Section 3.1's Mechanism Standard delivers mechanism through physical description at trigger points, never as instruction. - The isekai commentary register. Wry narrator asides about the world's rules. - Character-sheet vocabulary surfacing in prose. Stage, Grade, eta and Band are author-facing.
 
 ### R5-G-PROJECT_INSTRUCTIONS_EDIT [Pack Five G]
 
@@ -5608,6 +6454,216 @@ The narration-distance rule wins over Pack One's Scene Standards carve-out: a na
 
 > The narration-distance rule wins: no NPC italic thought inside a locked-POV scene. Pack One's "one private italic thought per named NPC" carve-out survives only for scenes with no POV lock (omniscient and mass combat).
 
+### R51-01-TIMELESS [Vocabulary Law 2026-09-26 Vocabulary and diction]
+
+Timeless narration varies by culture: plain, undated English by default; some cultures' scenes (Eresse, the Moto court) may take a more antique narration.
+
+> Timeless narration varies by culture: plain, undated English by default; some cultures' scenes (Eresse, the Moto court) may take a more antique narration.
+
+### R51-02-CLOSE_POV_SWEARS [Vocabulary Law 2026-09-26 Vocabulary and diction]
+
+Profanity may bleed into close-POV narration, using timeless profanities plus swears invented deliberately for WOTR; other modern words stay out of narration. (Isaac: "Profanity is fine I think we should use timelees profanes and invent ...
+
+> Profanity may bleed into close-POV narration, using timeless profanities plus swears invented deliberately for WOTR; other modern words stay out of narration. (Isaac: "Profanity is fine I think we should use timelees profanes and invent some deliberately for wotr".)
+
+### R51-03-LIST_SLANG [Vocabulary Law 2026-09-26 Vocabulary and diction]
+
+Modern-word list, slang: ban only the worst in narration (okay, OK, vibe, awesome, cool); the rest by ear.
+
+> Modern-word list, slang: ban only the worst in narration (okay, OK, vibe, awesome, cool); the rest by ear.
+
+### R51-04-LIST_PSYCH [Vocabulary Law 2026-09-26 Vocabulary and diction]
+
+Modern-word list, psychology: ban only the obvious pop-psych jargon in narration (triggered, toxic, closure, mindset, boundaries); anxiety and stress stay.
+
+> Modern-word list, psychology: ban only the obvious pop-psych jargon in narration (triggered, toxic, closure, mindset, boundaries); anxiety and stress stay.
+
+### R51-05-LIST_TECH [Vocabulary Law 2026-09-26 Vocabulary and diction]
+
+Technology and office metaphors are legal only if the POV's own culture has the thing: an Accord fitter may think 'on the main', a Kharven hunter may not.
+
+> Technology and office metaphors are legal only if the POV's own culture has the thing: an Accord fitter may think 'on the main', a Kharven hunter may not.
+
+### R51-06-EARTH_WORDS [Vocabulary Law 2026-09-26 Vocabulary and diction]
+
+Earth-derived words (herculean, spartan, machiavellian, Achilles heel) are treated like lens names: legal wherever they fit.
+
+> Earth-derived words (herculean, spartan, machiavellian, Achilles heel) are treated like lens names: legal wherever they fit.
+
+### R51-07-CLOCK_WORDS [Vocabulary Law 2026-09-26 Vocabulary and diction]
+
+Seconds and minutes are plain English and free everywhere in narration; in-world time units add flavour.
+
+> Seconds and minutes are plain English and free everywhere in narration; in-world time units add flavour.
+
+### R51-08-CALENDAR [Vocabulary Law 2026-09-26 Vocabulary and diction]
+
+Earth day and month names never appear; 'week' becomes the culture's own span (a turn, a quarter-moon); all go on the list.
+
+> Earth day and month names never appear; 'week' becomes the culture's own span (a turn, a quarter-moon); all go on the list.
+
+### R51-09-SPEECH_CAP [Vocabulary Law 2026-09-26 Vocabulary and diction]
+
+How modern a character's speech runs is set on their card; the default is casual, not current.
+
+> How modern a character's speech runs is set on their card; the default is casual, not current.
+
+### R51-10-SLOP_WORDS [Vocabulary Law 2026-09-26 Vocabulary and diction]
+
+A hard-ban list separate from the repetition list: tapestry, testament, palpable, visceral, symphony of, a dance of, whisper of, orbs (eyes), ministrations, electric (touch), velvet (voice), shiver down the spine, a breath he didn't know...
+
+> A hard-ban list separate from the repetition list: tapestry, testament, palpable, visceral, symphony of, a dance of, whisper of, orbs (eyes), ministrations, electric (touch), velvet (voice), shiver down the spine, a breath he didn't know he was holding, the coppery tang of blood, the smell of ozone; each fails the checker at first use, narration and dialogue.
+
+### R51-11-COLLISIONS [Vocabulary Law 2026-09-26 Vocabulary and diction]
+
+Ordinary words that are also WOTR terms (delve, echo, numinous, sovereign, sanctum, weave, ledger) are used only in their WOTR sense; the plain adjective or verb is banned so the term stays sharp.
+
+> Ordinary words that are also WOTR terms (delve, echo, numinous, sovereign, sanctum, weave, ledger) are used only in their WOTR sense; the plain adjective or verb is banned so the term stays sharp.
+
+### R51-12-WORD_BANK [Vocabulary Law 2026-09-26 Vocabulary and diction]
+
+The elevated word bank (eldritch, chthonic, tenebrous, lambent, sepulchral, incarnadine, stygian, empyreal, ineffable) is used freely, by ear.
+
+> The elevated word bank (eldritch, chthonic, tenebrous, lambent, sepulchral, incarnadine, stygian, empyreal, ineffable) is used freely, by ear.
+
+### R51-13-WORD_STOCK [Vocabulary Law 2026-09-26 Vocabulary and diction]
+
+Narration's word stock (Old English vs Latinate) is by ear: whatever the sentence needs.
+
+> Narration's word stock (Old English vs Latinate) is by ear: whatever the sentence needs.
+
+### R51-14-NEW_TERMS [Vocabulary Law 2026-09-26 Vocabulary and diction]
+
+No ceiling on WOTR terms per page; readers learn by immersion.
+
+> No ceiling on WOTR terms per page; readers learn by immersion.
+
+### R51-15-FIRST_USE [Vocabulary Law 2026-09-26 Vocabulary and diction]
+
+New WOTR terms get meaning from context and use only; no appositive gloss (the zero gloss budget stands).
+
+> New WOTR terms get meaning from context and use only; no appositive gloss (the zero gloss budget stands).
+
+### R51-16-OLD_BANS_FALL [Vocabulary Law 2026-09-26 Vocabulary and diction]
+
+All older limits on stat names, Sub-Stat names, Guild words and sheet vocabulary in narration fall; they are free in narration.
+
+> All older limits on stat names, Sub-Stat names, Guild words and sheet vocabulary in narration fall; they are free in narration.
+
+### R51-17-MID_ACTION [Vocabulary Law 2026-09-26 Vocabulary and diction]
+
+The ban on bare jargon mid-action is lifted: mechanism terms may be bare mid-action; the reader keeps up.
+
+> The ban on bare jargon mid-action is lifted: mechanism terms may be bare mid-action; the reader keeps up.
+
+### R51-18-DOUBLET [Vocabulary Law 2026-09-26 Vocabulary and diction]
+
+Narration uses whichever form of a craft term the POV would say: an Engraver's scene says 'the cutting', an Accord examiner's says 'Runecraft'.
+
+> Narration uses whichever form of a craft term the POV would say: an Engraver's scene says 'the cutting', an Accord examiner's says 'Runecraft'.
+
+### R51-19-ACCORD_LATIN [Vocabulary Law 2026-09-26 Vocabulary and diction]
+
+Accord Latin may appear anywhere by ear: speech, narration or documents.
+
+> Accord Latin may appear anywhere by ear: speech, narration or documents.
+
+### R51-20-KHARVEN_WORDS [Vocabulary Law 2026-09-26 Vocabulary and diction]
+
+New Kharven words may be native words, built freely on the Far-Northern sound rules; Kharven speech carries its own words.
+
+> New Kharven words may be native words, built freely on the Far-Northern sound rules; Kharven speech carries its own words.
+
+### R51-21-MOTO_WORDS [Vocabulary Law 2026-09-26 Vocabulary and diction]
+
+Moto and other Japonic houses use Japanese honorifics and address forms in speech, in a feudal register, never modern casual.
+
+> Moto and other Japonic houses use Japanese honorifics and address forms in speech, in a feudal register, never modern casual.
+
+### R51-22-MOTO_VOICE [Vocabulary Law 2026-09-26 Vocabulary and diction]
+
+The Moto narration register is drafted by the partner from The Muster's prose and put to Isaac to rule on.
+
+> The Moto narration register is drafted by the partner from The Muster's prose and put to Isaac to rule on.
+
+### R51-23-DAWI_WORDS [Vocabulary Law 2026-09-26 Vocabulary and diction]
+
+Dawi drop into their own tongue freely; context carries it.
+
+> Dawi drop into their own tongue freely; context carries it.
+
+### R51-24-ELVEN_WORDS [Vocabulary Law 2026-09-26 Vocabulary and diction]
+
+Elves speak English plus a few Vey-Elarin loanwords for things with no English equivalent, built from the root bank.
+
+> Elves speak English plus a few Vey-Elarin loanwords for things with no English equivalent, built from the root bank.
+
+### R51-25-BEASTKIN [Vocabulary Law 2026-09-26 Vocabulary and diction]
+
+Beastkin speak whatever Common their home place speaks; no special word stock.
+
+> Beastkin speak whatever Common their home place speaks; no special word stock.
+
+### R51-26-CLASS [Vocabulary Law 2026-09-26 Vocabulary and diction]
+
+Class in diction is set by character only: no class default; each card sets the voice.
+
+> Class in diction is set by character only: no class default; each card sets the voice.
+
+### R51-27-DIALECT [Vocabulary Law 2026-09-26 Vocabulary and diction]
+
+Any accent may be spelled phonetically, applied evenly including high-born speakers; the wiki's Accent page bar on eye-dialect is superseded.
+
+> Any accent may be spelled phonetically, applied evenly including high-born speakers; the wiki's Accent page bar on eye-dialect is superseded.
+
+### R51-28-CHANT_PAGE [Vocabulary Law 2026-09-26 Vocabulary and diction]
+
+A chant appears in its own language; a POV who understands it may think the meaning in his own words.
+
+> A chant appears in its own language; a POV who understands it may think the meaning in his own words.
+
+### R51-29-SWEARING [Vocabulary Law 2026-09-26 Vocabulary and diction]
+
+Swearing uses both: English swears are fine, and each culture has its own oaths and insults and uses those first.
+
+> Swearing uses both: English swears are fine, and each culture has its own oaths and insults and uses those first.
+
+### R51-30-HOLY_OATHS [Vocabulary Law 2026-09-26 Vocabulary and diction]
+
+Earth religious swears (God damn it, Christ, go to hell, Jesus) are replaced in-world: characters swear by their own powers ('Archons take it', 'By the Sky').
+
+> Earth religious swears (God damn it, Christ, go to hell, Jesus) are replaced in-world: characters swear by their own powers ('Archons take it', 'By the Sky').
+
+### R51-31-SENSE_BANK [Vocabulary Law 2026-09-26 Vocabulary and diction]
+
+Each culture's Standing Inventory gains a senses entry (smells, sounds, colours, textures); scenes draw from it first.
+
+> Each culture's Standing Inventory gains a senses entry (smells, sounds, colours, textures); scenes draw from it first.
+
+### R51-32-SMELL_WORDS [Vocabulary Law 2026-09-26 Vocabulary and diction]
+
+Technical smell words (ozone, sulphur, ammonia) are free for any POV.
+
+> Technical smell words (ozone, sulphur, ammonia) are free for any POV.
+
+### R51-33-DOC_REGISTER [Vocabulary Law 2026-09-26 Vocabulary and diction]
+
+In-world documents keep a house style per institution: Accord chancery formal and Latinate, the Dawi Tally terse entries, Moto records in the old register, letters in the writer's voice.
+
+> In-world documents keep a house style per institution: Accord chancery formal and Latinate, the Dawi Tally terse entries, Moto records in the old register, letters in the writer's voice.
+
+### R51-34-DOC_MODERN [Vocabulary Law 2026-09-26 Vocabulary and diction]
+
+The modern-word list applies to in-world documents like narration; documents are timeless and the checker runs the list on them.
+
+> The modern-word list applies to in-world documents like narration; documents are timeless and the checker runs the list on them.
+
+### R51-35-NEW_SWEARS [Vocabulary Law 2026-09-26 Vocabulary and diction]
+
+A starter set of WOTR-invented swears is drafted per culture (Kharven, Moto, Dawi, Accord, Elven, Zettari) from each culture's gods, weather, work and taboos, for Isaac to approve before they are canon.
+
+> A starter set of WOTR-invented swears is drafted per culture (Kharven, Moto, Dawi, Accord, Elven, Zettari) from each culture's gods, weather, work and taboos, for Isaac to approve before they are canon.
+
 ### R48-01-BEAUTY [Writing Law 2026-09-26 Beautiful prose]
 
 Beauty comes from exact concrete detail, images and metaphor, and what goes unsaid (not primarily rhythm/sound).
@@ -5794,7 +6850,7 @@ Narration refers to characters by POV epithets, the way the viewpoint sees them;
 
 > Narration refers to characters by POV epithets, the way the viewpoint sees them; the naming characterises.
 
-## register (113)
+## register (143)
 
 ### R20C-21-WELL_NAMES_CLASS_MARKED [Pack Twenty R20C-21]
 
@@ -5994,12 +7050,6 @@ Packs Twelve, Thirteen and Fourteen's Technical Register for combat and workings
 
 > The Technical Register for combat and workings (Twelve, Thirteen, Fourteen). Explanation in real terms is the whole point of those packs and this pack makes it easier.
 
-### R15-1-LATIN_CHANT_SURVIVES [Pack Fifteen §1]
-
-Latin for chant-based magic is not a register rule but a texture choice Isaac made, and it stands unless he says otherwise.
-
-> Latin for chant-based magic. Not a register rule in this sense; it is a texture choice Isaac made. Stands unless he says otherwise.
-
 ### R15-4-TWELVE_VOICE_DISCIPLINE_SOFTENED [Pack Fifteen §4]
 
 Pack Twelve §4's voice discipline clause is softened from a stricter requirement to "may differ."
@@ -6029,12 +7079,6 @@ wotr_verify.sh has no check that touches register, and this pack adds none.
 Only Pack Five's register-by-culture rule is struck; its dramatic irony through POV lock, the elegiac mode, humour recalibration, and narration authority all stand because none of them are register rules.
 
 > Pack Five. Register by culture struck. Dramatic irony through POV lock, the elegiac mode, humour recalibration, and narration authority all stand; none of them are register rules.
-
-### R14-4-DIAGNOSTIC_CHANNEL [Pack Fourteen §4]
-
-Stat names, Sub-Stat names, Grades, Bands, eta, AU/s, EU counts, Aether Class, Crystal State and Category names reach the page only in a mouth, an instrument, a document, or a practitioner's private count, rationed per Pack Twelve §5, and class-marked per Pack Nine.
-
-> The diagnostic channel, rationed per Twelve §5. Stat names, Sub-Stat names, Grades, Bands, eta, AU/s, EU counts, Aether Class, Crystal State, and Category names reach the page in a mouth, an instrument, a document, or a practitioner's private count.
 
 ### R13-6-WOTR_FIRST [Pack Thirteen §6]
 
@@ -6078,12 +7122,6 @@ Anime shape-vocabulary (Nen's shroud/stop/output/expression, Naruto's shape/natu
 
 > Anime grammar as a translation aid, never as page vocabulary. Nen's shroud, stop, output, expression, and their refinements; Naruto's split of shape from nature; JJK's vow and reversal; Bleach's release. When a WOTR working needs a shape, check which of these it is, then write it in WOTR's words.
 
-### R13-9-STYLE_DIRECTIVE_MECHANISM_VOCAB [Pack Thirteen §9]
-
-Bare jargon mid-action stays banned, but a Mechanism Vocabulary term may now be named in diagnostic voice alongside its dramatisation.
-
-> WOTR_Master_Style_Directive.md §6. The Mechanism Vocabulary's surfacing rule is amended: bare-jargon mid-action stays banned; the term may be named in diagnostic voice alongside its dramatisation.
-
 ### R12-2-TECHNICAL_REGISTER_DEF [Pack Twelve §2]
 
 The Technical Register governs combat, craft, injury and anything a practitioner does on purpose; exhaustive, tactical, delivered in-fight, explaining the read, the fault, the counter, the reserve and why the answer worked, in real vocabulary.
@@ -6120,12 +7158,6 @@ Pack Five stands in full; the Western Register still governs characterisation, h
 
 > Tonal spine unchanged. Pack Five stands in full. The Western Register governs characterisation, humour, and narration authority. Pack Eleven widens what the page may look like. It does not reopen what the page may sound like. Temür still does not make jokes.
 
-### R11-2-VOCABULARY_TIERS [Pack Eleven §2]
-
-"The draw, the hum, a standpipe, a housing, the meter, cut off" are common-tongue and prose-legal under Pack Nine's craft-register carve-out; "concentration, density, coupling, eta" are Guild register and document-only.
-
-> Vocabulary, common tongue, prose-legal under Pack Nine's craft-register carve-out: the draw, the hum, a standpipe, a housing, the meter, cut off. Guild register, document-only: concentration, density, coupling, eta.
-
 ### R11-4-WELL_NAMING [Pack Eleven §4]
 
 Guild register calls it a Core Concentration; common tongue calls it a Well; going in is a descent, and the people who do it are delvers or well-rats.
@@ -6143,12 +7175,6 @@ Category names sit at Wellspring/Family register, not common tongue, and stay wo
 A scene's single diagnostic read (the Apparatus Rule's existing budget, not a new one) may be spent naming the category instead of a Wellspring or Family; naming a category doesn't trip Check 20, but it still costs the scene's only read.
 
 > One exception, and it is the Apparatus Rule's existing budget, not a new one. A scene's single explicit diagnostic read may be spent naming the category instead of naming a Wellspring or Family — a scholar, examiner, or rival practitioner gets one line: "That's Animatria. It isn't a real animal." Naming a category is not accounting for why it works, so it does not trip Check 20. It still costs the scene's only read, and after it the faculty goes silent same as always.
-
-### R9-2-COMMON_TONGUE_LEGAL [Pack Nine PART TWO]
-
-A POV may be shown cutting a ward, speaking a working, or pouring a Draft (singing pending Chantcraft's ruling); the common tongue for craft actions is prose-legal, said the way the character would actually say it, while the Accord Latin terms stay document-only.
-
-> The common tongue — the work, the speaking, the cutting, the pouring — is now prose-legal, said the way the character in question would actually say it.
 
 ### R9-2-CLASS_MARKED_CRAFT_WORDS [Pack Nine PART TWO]
 
@@ -6395,6 +7421,216 @@ Idiom draws on measure, position and law (out of position, standing, no place, r
 All three registers are originations contradicting no existing lore (none existed); if any culture has established speech in an unreached document, these are overridden by it.
 
 > All three are originations and none contradicts existing lore, because no lore existed. If any of these cultures has established speech in a document I did not reach, these are overridden by it and I would rather be told than have it discovered in prose.
+
+### R51-01-TIMELESS [Vocabulary Law 2026-09-26 Vocabulary and diction]
+
+Timeless narration varies by culture: plain, undated English by default; some cultures' scenes (Eresse, the Moto court) may take a more antique narration.
+
+> Timeless narration varies by culture: plain, undated English by default; some cultures' scenes (Eresse, the Moto court) may take a more antique narration.
+
+### R51-02-CLOSE_POV_SWEARS [Vocabulary Law 2026-09-26 Vocabulary and diction]
+
+Profanity may bleed into close-POV narration, using timeless profanities plus swears invented deliberately for WOTR; other modern words stay out of narration. (Isaac: "Profanity is fine I think we should use timelees profanes and invent ...
+
+> Profanity may bleed into close-POV narration, using timeless profanities plus swears invented deliberately for WOTR; other modern words stay out of narration. (Isaac: "Profanity is fine I think we should use timelees profanes and invent some deliberately for wotr".)
+
+### R51-03-LIST_SLANG [Vocabulary Law 2026-09-26 Vocabulary and diction]
+
+Modern-word list, slang: ban only the worst in narration (okay, OK, vibe, awesome, cool); the rest by ear.
+
+> Modern-word list, slang: ban only the worst in narration (okay, OK, vibe, awesome, cool); the rest by ear.
+
+### R51-04-LIST_PSYCH [Vocabulary Law 2026-09-26 Vocabulary and diction]
+
+Modern-word list, psychology: ban only the obvious pop-psych jargon in narration (triggered, toxic, closure, mindset, boundaries); anxiety and stress stay.
+
+> Modern-word list, psychology: ban only the obvious pop-psych jargon in narration (triggered, toxic, closure, mindset, boundaries); anxiety and stress stay.
+
+### R51-05-LIST_TECH [Vocabulary Law 2026-09-26 Vocabulary and diction]
+
+Technology and office metaphors are legal only if the POV's own culture has the thing: an Accord fitter may think 'on the main', a Kharven hunter may not.
+
+> Technology and office metaphors are legal only if the POV's own culture has the thing: an Accord fitter may think 'on the main', a Kharven hunter may not.
+
+### R51-06-EARTH_WORDS [Vocabulary Law 2026-09-26 Vocabulary and diction]
+
+Earth-derived words (herculean, spartan, machiavellian, Achilles heel) are treated like lens names: legal wherever they fit.
+
+> Earth-derived words (herculean, spartan, machiavellian, Achilles heel) are treated like lens names: legal wherever they fit.
+
+### R51-07-CLOCK_WORDS [Vocabulary Law 2026-09-26 Vocabulary and diction]
+
+Seconds and minutes are plain English and free everywhere in narration; in-world time units add flavour.
+
+> Seconds and minutes are plain English and free everywhere in narration; in-world time units add flavour.
+
+### R51-08-CALENDAR [Vocabulary Law 2026-09-26 Vocabulary and diction]
+
+Earth day and month names never appear; 'week' becomes the culture's own span (a turn, a quarter-moon); all go on the list.
+
+> Earth day and month names never appear; 'week' becomes the culture's own span (a turn, a quarter-moon); all go on the list.
+
+### R51-09-SPEECH_CAP [Vocabulary Law 2026-09-26 Vocabulary and diction]
+
+How modern a character's speech runs is set on their card; the default is casual, not current.
+
+> How modern a character's speech runs is set on their card; the default is casual, not current.
+
+### R51-10-SLOP_WORDS [Vocabulary Law 2026-09-26 Vocabulary and diction]
+
+A hard-ban list separate from the repetition list: tapestry, testament, palpable, visceral, symphony of, a dance of, whisper of, orbs (eyes), ministrations, electric (touch), velvet (voice), shiver down the spine, a breath he didn't know...
+
+> A hard-ban list separate from the repetition list: tapestry, testament, palpable, visceral, symphony of, a dance of, whisper of, orbs (eyes), ministrations, electric (touch), velvet (voice), shiver down the spine, a breath he didn't know he was holding, the coppery tang of blood, the smell of ozone; each fails the checker at first use, narration and dialogue.
+
+### R51-11-COLLISIONS [Vocabulary Law 2026-09-26 Vocabulary and diction]
+
+Ordinary words that are also WOTR terms (delve, echo, numinous, sovereign, sanctum, weave, ledger) are used only in their WOTR sense; the plain adjective or verb is banned so the term stays sharp.
+
+> Ordinary words that are also WOTR terms (delve, echo, numinous, sovereign, sanctum, weave, ledger) are used only in their WOTR sense; the plain adjective or verb is banned so the term stays sharp.
+
+### R51-12-WORD_BANK [Vocabulary Law 2026-09-26 Vocabulary and diction]
+
+The elevated word bank (eldritch, chthonic, tenebrous, lambent, sepulchral, incarnadine, stygian, empyreal, ineffable) is used freely, by ear.
+
+> The elevated word bank (eldritch, chthonic, tenebrous, lambent, sepulchral, incarnadine, stygian, empyreal, ineffable) is used freely, by ear.
+
+### R51-13-WORD_STOCK [Vocabulary Law 2026-09-26 Vocabulary and diction]
+
+Narration's word stock (Old English vs Latinate) is by ear: whatever the sentence needs.
+
+> Narration's word stock (Old English vs Latinate) is by ear: whatever the sentence needs.
+
+### R51-14-NEW_TERMS [Vocabulary Law 2026-09-26 Vocabulary and diction]
+
+No ceiling on WOTR terms per page; readers learn by immersion.
+
+> No ceiling on WOTR terms per page; readers learn by immersion.
+
+### R51-15-FIRST_USE [Vocabulary Law 2026-09-26 Vocabulary and diction]
+
+New WOTR terms get meaning from context and use only; no appositive gloss (the zero gloss budget stands).
+
+> New WOTR terms get meaning from context and use only; no appositive gloss (the zero gloss budget stands).
+
+### R51-16-OLD_BANS_FALL [Vocabulary Law 2026-09-26 Vocabulary and diction]
+
+All older limits on stat names, Sub-Stat names, Guild words and sheet vocabulary in narration fall; they are free in narration.
+
+> All older limits on stat names, Sub-Stat names, Guild words and sheet vocabulary in narration fall; they are free in narration.
+
+### R51-17-MID_ACTION [Vocabulary Law 2026-09-26 Vocabulary and diction]
+
+The ban on bare jargon mid-action is lifted: mechanism terms may be bare mid-action; the reader keeps up.
+
+> The ban on bare jargon mid-action is lifted: mechanism terms may be bare mid-action; the reader keeps up.
+
+### R51-18-DOUBLET [Vocabulary Law 2026-09-26 Vocabulary and diction]
+
+Narration uses whichever form of a craft term the POV would say: an Engraver's scene says 'the cutting', an Accord examiner's says 'Runecraft'.
+
+> Narration uses whichever form of a craft term the POV would say: an Engraver's scene says 'the cutting', an Accord examiner's says 'Runecraft'.
+
+### R51-19-ACCORD_LATIN [Vocabulary Law 2026-09-26 Vocabulary and diction]
+
+Accord Latin may appear anywhere by ear: speech, narration or documents.
+
+> Accord Latin may appear anywhere by ear: speech, narration or documents.
+
+### R51-20-KHARVEN_WORDS [Vocabulary Law 2026-09-26 Vocabulary and diction]
+
+New Kharven words may be native words, built freely on the Far-Northern sound rules; Kharven speech carries its own words.
+
+> New Kharven words may be native words, built freely on the Far-Northern sound rules; Kharven speech carries its own words.
+
+### R51-21-MOTO_WORDS [Vocabulary Law 2026-09-26 Vocabulary and diction]
+
+Moto and other Japonic houses use Japanese honorifics and address forms in speech, in a feudal register, never modern casual.
+
+> Moto and other Japonic houses use Japanese honorifics and address forms in speech, in a feudal register, never modern casual.
+
+### R51-22-MOTO_VOICE [Vocabulary Law 2026-09-26 Vocabulary and diction]
+
+The Moto narration register is drafted by the partner from The Muster's prose and put to Isaac to rule on.
+
+> The Moto narration register is drafted by the partner from The Muster's prose and put to Isaac to rule on.
+
+### R51-23-DAWI_WORDS [Vocabulary Law 2026-09-26 Vocabulary and diction]
+
+Dawi drop into their own tongue freely; context carries it.
+
+> Dawi drop into their own tongue freely; context carries it.
+
+### R51-24-ELVEN_WORDS [Vocabulary Law 2026-09-26 Vocabulary and diction]
+
+Elves speak English plus a few Vey-Elarin loanwords for things with no English equivalent, built from the root bank.
+
+> Elves speak English plus a few Vey-Elarin loanwords for things with no English equivalent, built from the root bank.
+
+### R51-25-BEASTKIN [Vocabulary Law 2026-09-26 Vocabulary and diction]
+
+Beastkin speak whatever Common their home place speaks; no special word stock.
+
+> Beastkin speak whatever Common their home place speaks; no special word stock.
+
+### R51-26-CLASS [Vocabulary Law 2026-09-26 Vocabulary and diction]
+
+Class in diction is set by character only: no class default; each card sets the voice.
+
+> Class in diction is set by character only: no class default; each card sets the voice.
+
+### R51-27-DIALECT [Vocabulary Law 2026-09-26 Vocabulary and diction]
+
+Any accent may be spelled phonetically, applied evenly including high-born speakers; the wiki's Accent page bar on eye-dialect is superseded.
+
+> Any accent may be spelled phonetically, applied evenly including high-born speakers; the wiki's Accent page bar on eye-dialect is superseded.
+
+### R51-28-CHANT_PAGE [Vocabulary Law 2026-09-26 Vocabulary and diction]
+
+A chant appears in its own language; a POV who understands it may think the meaning in his own words.
+
+> A chant appears in its own language; a POV who understands it may think the meaning in his own words.
+
+### R51-29-SWEARING [Vocabulary Law 2026-09-26 Vocabulary and diction]
+
+Swearing uses both: English swears are fine, and each culture has its own oaths and insults and uses those first.
+
+> Swearing uses both: English swears are fine, and each culture has its own oaths and insults and uses those first.
+
+### R51-30-HOLY_OATHS [Vocabulary Law 2026-09-26 Vocabulary and diction]
+
+Earth religious swears (God damn it, Christ, go to hell, Jesus) are replaced in-world: characters swear by their own powers ('Archons take it', 'By the Sky').
+
+> Earth religious swears (God damn it, Christ, go to hell, Jesus) are replaced in-world: characters swear by their own powers ('Archons take it', 'By the Sky').
+
+### R51-31-SENSE_BANK [Vocabulary Law 2026-09-26 Vocabulary and diction]
+
+Each culture's Standing Inventory gains a senses entry (smells, sounds, colours, textures); scenes draw from it first.
+
+> Each culture's Standing Inventory gains a senses entry (smells, sounds, colours, textures); scenes draw from it first.
+
+### R51-32-SMELL_WORDS [Vocabulary Law 2026-09-26 Vocabulary and diction]
+
+Technical smell words (ozone, sulphur, ammonia) are free for any POV.
+
+> Technical smell words (ozone, sulphur, ammonia) are free for any POV.
+
+### R51-33-DOC_REGISTER [Vocabulary Law 2026-09-26 Vocabulary and diction]
+
+In-world documents keep a house style per institution: Accord chancery formal and Latinate, the Dawi Tally terse entries, Moto records in the old register, letters in the writer's voice.
+
+> In-world documents keep a house style per institution: Accord chancery formal and Latinate, the Dawi Tally terse entries, Moto records in the old register, letters in the writer's voice.
+
+### R51-34-DOC_MODERN [Vocabulary Law 2026-09-26 Vocabulary and diction]
+
+The modern-word list applies to in-world documents like narration; documents are timeless and the checker runs the list on them.
+
+> The modern-word list applies to in-world documents like narration; documents are timeless and the checker runs the list on them.
+
+### R51-35-NEW_SWEARS [Vocabulary Law 2026-09-26 Vocabulary and diction]
+
+A starter set of WOTR-invented swears is drafted per culture (Kharven, Moto, Dawi, Accord, Elven, Zettari) from each culture's gods, weather, work and taboos, for Isaac to approve before they are canon.
+
+> A starter set of WOTR-invented swears is drafted per culture (Kharven, Moto, Dawi, Accord, Elven, Zettari) from each culture's gods, weather, work and taboos, for Isaac to approve before they are canon.
 
 ### R48-08-NEW_POVS [Writing Law 2026-09-26 Register and voice]
 
@@ -6820,7 +8056,7 @@ When the partner thinks a beat is drifting or a rule reads wrong, it says so in 
 
 > When the partner thinks a beat is drifting or a rule reads wrong, it says so in one plain line and keeps writing unless stopped.
 
-## standing-inventory (17)
+## standing-inventory (48)
 
 ### R20C-47-CRAFTS_OWE_THE_INVENTORY [Pack Twenty R20C-47]
 
@@ -6870,12 +8106,6 @@ Kharven's Standing Inventory (permafrost, blubber lamps, weekly-counted woodpile
 
 > The Standing Inventory. Kharven survives intact and improves. Permafrost, blubber lamps, woodpiles counted weekly, no coin domestically. All of that is now legible as periphery. The Accord's ledgers reach Kharven. Its conduit does not. Temür's people burn seal fat while Stannvaard burns nothing at all.
 
-### R6-7-GOVERNING_RULE [Pack Six PART II.7]
-
-Texture comes from the Standing Inventory; mechanism comes from the Codex; a scene that reaches for the Codex when it needs texture has failed.
-
-> Texture comes from the Standing Inventory. Mechanism comes from the Codex. A scene that reaches for the Codex when it needs texture has failed.
-
 ### R6-8-STANDING_INVENTORY_CATEGORIES [Pack Six PART II.8]
 
 Food, the greeting, oaths and obscenity, colloquial time, the dead, the household object, exchange, proverbs, and the body — each entry must be causally downstream of the culture's material conditions; flavour-only invention is rejected.
@@ -6924,19 +8154,205 @@ The Kharven Standing Inventory (airag, borts, aaruul, the deel, the night-stone,
 
 > The Kharven Standing Inventory. Airag, borts, aaruul, the deel, the night-stone, the blubber lamp, the woodpile count, the death-house and the Waiting, sky burial, and all eight proverbs. This is Mongolian-Inuit material culture, derived from permafrost and scarcity, and it is load-bearing in every scene written this session. Reverting it would strand the execution scene, the council, the wall scene and the manor scene all at once, and it would cost more than it bought. Recommendation: keep.
 
-## stats (75)
+### R53-01-IMPERIAL_AGE_SPAN [World Texture Law 2026-09-26 World texture]
+
+The Imperial Age runs from the 1800s into the middle of the 1900s, and the technology of that whole span exists across it; the no-rail, no-photography, wire-only limits are superseded. (Isaac: "The imperial age goes from the 1800 into th...
+
+> The Imperial Age runs from the 1800s into the middle of the 1900s, and the technology of that whole span exists across it; the no-rail, no-photography, wire-only limits are superseded. (Isaac: "The imperial age goes from the 1800 into the middle part of the 1900s it should be known that due to how long it is".)
+
+### R53-02-POOR_FIRES [World Texture Law 2026-09-26 World texture]
+
+A city's poor edge burns oil, tallow, peat and dung in small fires; rich districts are clean and humming; no factory chimneys.
+
+> A city's poor edge burns oil, tallow, peat and dung in small fires; rich districts are clean and humming; no factory chimneys.
+
+### R53-03-FIREARM_CEILING [World Texture Law 2026-09-26 World texture]
+
+The firearm ceiling is up to 1900 hardware: repeating rifles, smokeless powder, even early machine guns exist, rare and state-owned.
+
+> The firearm ceiling is up to 1900 hardware: repeating rifles, smokeless powder, even early machine guns exist, rare and state-owned.
+
+### R53-04-ENHANCED_SHOT [World Texture Law 2026-09-26 World texture]
+
+Enhanced shot is standard for elites: guard companies and bounty hunters carry full pouches; ordinary infantry do not.
+
+> Enhanced shot is standard for elites: guard companies and bounty hunters carry full pouches; ordinary infantry do not.
+
+### R53-05-PROOF_PLATE [World Texture Law 2026-09-26 World texture]
+
+Narration may state the cause of any penetration outright, in gunfights as anywhere; the old firearm ban on explaining why a proofed round beats proofed plate is superseded.
+
+> Narration may state the cause of any penetration outright, in gunfights as anywhere; the old firearm ban on explaining why a proofed round beats proofed plate is superseded.
+
+### R53-06-WELL_SPAWN [World Texture Law 2026-09-26 World texture]
+
+Well-spawn exist: Wells breed hostile creatures, and the Bestiary gains a Well-spawn category.
+
+> Well-spawn exist: Wells breed hostile creatures, and the Bestiary gains a Well-spawn category.
+
+### R53-07-PRICE_TABLE [World Texture Law 2026-09-26 World texture]
+
+A short table of everyday prices and wages is drafted from real period ratios for Isaac to approve; scenes then quote it.
+
+> A short table of everyday prices and wages is drafted from real period ratios for Isaac to approve; scenes then quote it.
+
+### R53-08-TRAVEL_RATES [World Texture Law 2026-09-26 World texture]
+
+Travel uses real period rates by mode (foot about 20 miles a day, mounted 30 to 40, rail where it runs, less in snow and passes), stated by trained eyes and messengers.
+
+> Travel uses real period rates by mode (foot about 20 miles a day, mounted 30 to 40, rail where it runs, less in snow and passes), stated by trained eyes and messengers.
+
+### R53-09-WEATHER [World Texture Law 2026-09-26 World texture]
+
+Weather and season are tracked like a clock: the State of Play carries the date and season; every outdoor scene shows the actual weather, and cold, wet and thaw change what people can do.
+
+> Weather and season are tracked like a clock: the State of Play carries the date and season; every outdoor scene shows the actual weather, and cold, wet and thaw change what people can do.
+
+### R53-10-MEDICINE [World Texture Law 2026-09-26 World texture]
+
+Medicine is era-appropriate by place: Guild cities have what their decade has (anaesthesia, antisepsis, later early antibiotics); the north and the poor get folk medicine and the barber.
+
+> Medicine is era-appropriate by place: Guild cities have what their decade has (anaesthesia, antisepsis, later early antibiotics); the north and the poor get folk medicine and the barber.
+
+### R53-11-JUSTICE [World Texture Law 2026-09-26 World texture]
+
+Ground-level justice borrows each culture's real-world analogue (fines and branding in Accord cities, labour-debt in Kharven, public shaming in Eresse), looked up and logged.
+
+> Ground-level justice borrows each culture's real-world analogue (fines and branding in Accord cities, labour-debt in Kharven, public shaming in Eresse), looked up and logged.
+
+### R53-12-LITERACY [World Texture Law 2026-09-26 World texture]
+
+Literacy varies by culture: Eresse and the Accord near-universal, Kharven almost none; set on each Inventory.
+
+> Literacy varies by culture: Eresse and the Accord near-universal, Kharven almost none; set on each Inventory.
+
+### R53-13-FAITH [World Texture Law 2026-09-26 World texture]
+
+Faith in practice shows up where it matters: when a character wants something badly (petition is the tell); otherwise absent.
+
+> Faith in practice shows up where it matters: when a character wants something badly (petition is the tell); otherwise absent.
+
+### R53-14-FOLK_KNOWLEDGE [World Texture Law 2026-09-26 World texture]
+
+Ordinary people know the rough ladder: there are ranks, silver tokens are feared, Pressure is felt as dread; they could not name a Stage and use folk words.
+
+> Ordinary people know the rough ladder: there are ranks, silver tokens are feared, Pressure is felt as dread; they could not name a Stage and use folk words.
+
+### R53-15-FOLK_BELIEFS [World Texture Law 2026-09-26 World texture]
+
+Each culture's Inventory gets a few named false folk beliefs about magic, some half-true; characters act on them and the narration never corrects them.
+
+> Each culture's Inventory gets a few named false folk beliefs about magic, some half-true; characters act on them and the narration never corrects them.
+
+### R53-16-GUILD_WORDS [World Texture Law 2026-09-26 World texture]
+
+Guild words are free in any mouth: anyone may use them; the common/Guild vocabulary split no longer governs who says what.
+
+> Guild words are free in any mouth: anyone may use them; the common/Guild vocabulary split no longer governs who says what.
+
+### R53-17-THE_BILL [World Texture Law 2026-09-26 World texture]
+
+Money before magic holds on the page: any working indoors on a main raises the bill, the meter or the spur, and somebody notices the cost.
+
+> Money before magic holds on the page: any working indoors on a main raises the bill, the meter or the spur, and somebody notices the cost.
+
+### R53-18-AWE [World Texture Law 2026-09-26 World texture]
+
+Commoners regard practitioners with awe and worship: a ranked practitioner is half a saint to ordinary people.
+
+> Commoners regard practitioners with awe and worship: a ranked practitioner is half a saint to ordinary people.
+
+### R53-19-QUOTA [World Texture Law 2026-09-26 World texture]
+
+Every culture's signature-item quota is two per session, like Kharven's.
+
+> Every culture's signature-item quota is two per session, like Kharven's.
+
+### R53-20-MISSING_INVENTORY [World Texture Law 2026-09-26 World texture]
+
+When a scene goes to a culture with no Standing Inventory, the partner drafts that Inventory from the wiki first (sourced), for Isaac's approval, then writes.
+
+> When a scene goes to a culture with no Standing Inventory, the partner drafts that Inventory from the wiki first (sourced), for Isaac's approval, then writes.
+
+### R53-21-CANON_GATE [World Texture Law 2026-09-26 World texture]
+
+Texture the partner invents in play is canon once logged; Isaac can strike it later.
+
+> Texture the partner invents in play is canon once logged; Isaac can strike it later.
+
+### R53-22-CAUSAL_TEST [World Texture Law 2026-09-26 World texture]
+
+The causal test for texture invented in play is by ear: plausible is enough; the causal line is optional.
+
+> The causal test for texture invented in play is by ear: plausible is enough; the causal line is optional.
+
+### R53-23-MIXED_ROOM [World Texture Law 2026-09-26 World texture]
+
+A mixed room layers every culture present in roughly equal measure.
+
+> A mixed room layers every culture present in roughly equal measure.
+
+### R53-24-TEXTURE_AND_MECHANISM [World Texture Law 2026-09-26 World texture]
+
+The rule that texture comes from the Standing Inventory and mechanism from the Codex is retired: texture and mechanism mix freely.
+
+> The rule that texture comes from the Standing Inventory and mechanism from the Codex is retired: texture and mechanism mix freely.
+
+### R53-25-REAL_OBJECT_NAMES [World Texture Law 2026-09-26 World texture]
+
+Real names for borrowed real-world objects are allowed: a yurt is a yurt and a katana a katana when the culture is clearly built on it.
+
+> Real names for borrowed real-world objects are allowed: a yurt is a yurt and a katana a katana when the culture is clearly built on it.
+
+### R53-26-HOW_CLOSE [World Texture Law 2026-09-26 World texture]
+
+Real history is taken exactly, then bent one step by the culture's own conditions (the draw, the cold, the Archons), credited in the notes.
+
+> Real history is taken exactly, then bent one step by the culture's own conditions (the draw, the cold, the Archons), credited in the notes.
+
+### R53-27-MIX_SOURCES [World Texture Law 2026-09-26 World texture]
+
+The partner may blend real cultures freely into one WOTR culture where it serves the culture's conditions.
+
+> The partner may blend real cultures freely into one WOTR culture where it serves the culture's conditions.
+
+### R53-28-VISUAL_REFERENCE [World Texture Law 2026-09-26 World texture]
+
+The visual reference is Lord of the Mysteries and Victorian imperial-age fantasy; the Berserk and Vinland Saga references are retired everywhere. WOTR has its own texture, invented for the world itself, mostly drawn from real-world inspi...
+
+> The visual reference is Lord of the Mysteries and Victorian imperial-age fantasy; the Berserk and Vinland Saga references are retired everywhere. WOTR has its own texture, invented for the world itself, mostly drawn from real-world inspiration. (Isaac: "I want it to look like lord of mysteries or Victorian imperial aged fantasy I don't like the beast or vinland saga reference wotr has its own thing its own texture invented entirely for the world itself it mostly takes from real world inspo etc".)
+
+### R53-29-LOOK_UP [World Texture Law 2026-09-26 World texture]
+
+The partner looks up every world fact (wiki, Inventory, cards) rather than inventing it; gaps are flagged, not filled.
+
+> The partner looks up every world fact (wiki, Inventory, cards) rather than inventing it; gaps are flagged, not filled.
+
+### R53-30-TEXTURE_DENSITY [World Texture Law 2026-09-26 World texture]
+
+Every beat carries at least one detail that could only exist in this world; sensory layers sit around it.
+
+> Every beat carries at least one detail that could only exist in this world; sensory layers sit around it.
+
+### R53-31-GONE_LIST [World Texture Law 2026-09-26 World texture]
+
+Each culture's Standing Inventory gets a 'Gone' list of three to five named lost things the culture mourns, for elegy to reach for.
+
+> Each culture's Standing Inventory gets a 'Gone' list of three to five named lost things the culture mourns, for elegy to reach for.
+
+### R53-32-TECH_BY_EAR [World Texture Law 2026-09-26 World texture]
+
+No decade-by-decade technology page: the partner judges what is era-appropriate in the Imperial Age scene by scene.
+
+> No decade-by-decade technology page: the partner judges what is era-appropriate in the Imperial Age scene by scene.
+
+## stats (72)
 
 ### R20C-30-STAGE_NAMES_FROM_FOW [Pack Twenty R20C-30]
 
 Fracture of Worlds governs the Stage names. Verified against source.
 
 > Fracture of Worlds governs the Stage names. Verified against source. I Murmuring · II Welling · III Ascension · IV Flourishing · V Splintering · VI Glory · VII Refraction · VIII Transcendence · IX Invocation · X Realization · XI Dissonance · XII Emanation · XIII Principality · XIV Zenith · XV Revelation · XVI Apex. Ignition and Temper appear nowhere in FOW and are not Stage names. Every card carrying them is wrong.
-
-### R20C-31-SUBSTAT_NAMES_FACULTY_ONLY [Pack Twenty R20C-31]
-
-Sub-Stat names never appear outside a faculty reading.
-
-> Sub-Stat names never appear outside a faculty reading.
 
 ### R20C-32-PRECEDENCE_FOW_WORKBOOK_CARD [Pack Twenty R20C-32]
 
@@ -6985,12 +8401,6 @@ Names which stat answers each Table Rule 5 adjudication question (who bends the 
 Every outcome in a fight must trace to a row in the §3 table, and the author notes must say which.
 
 > Every outcome in a fight traces to a row in this table, and the author notes say which.
-
-### R14-4-DIAGNOSTIC_CHANNEL [Pack Fourteen §4]
-
-Stat names, Sub-Stat names, Grades, Bands, eta, AU/s, EU counts, Aether Class, Crystal State and Category names reach the page only in a mouth, an instrument, a document, or a practitioner's private count, rationed per Pack Twelve §5, and class-marked per Pack Nine.
-
-> The diagnostic channel, rationed per Twelve §5. Stat names, Sub-Stat names, Grades, Bands, eta, AU/s, EU counts, Aether Class, Crystal State, and Category names reach the page in a mouth, an instrument, a document, or a practitioner's private count.
 
 ### R14-4-SUBSTAT_DIAGNOSTIC_ONLY [Pack Fourteen §4]
 
@@ -7105,12 +8515,6 @@ A stronger expression of a known art takes a modifier on the existing true name;
 WOTR runs an Eastern skeleton under Western flesh; the systematic density (Stages, Wellsprings, Bands/Grades/Coherence/eta, Codex glyph grammar, Family/Physics Domain, the character sheet, the Design Chain, EU costs) does not get diluted, softened, or made impressionistic.
 
 > WOTR runs an Eastern skeleton under Western flesh. The skeleton stays exactly as it is. Sixteen Temperance Stages, sixty Wellsprings, Bands and Grades and Coherence and eta, the Master Codex glyph grammar, Family and Physics Domain assignment, the seventeen-section character sheet, Trigger through Counterplay, EU costs to the unit. That systematic density is a light-novel and xianxia inheritance and it is the correct engine for this project. It does not get diluted, softened, or made impressionistic. Section 3.3's division of hard and soft labour stands untouched.
-
-### R5-F-LIGHT_NOVEL_NOT_KEPT [Pack Five F]
-
-Status screens, panels and HUD-style rendering (already banned); narrator explanation of the system to the reader; the isekai commentary register (wry narrator asides about the world's rules); and character-sheet vocabulary (Stage, Grade, eta, Band) surfacing in prose.
-
-> - Status screens, panels, HUD-style rendering. Already banned; restated because the light-novel framing invites them back. - Narrator explanation of the system to the reader. Section 3.1's Mechanism Standard delivers mechanism through physical description at trigger points, never as instruction. - The isekai commentary register. Wry narrator asides about the world's rules. - Character-sheet vocabulary surfacing in prose. Stage, Grade, eta and Band are author-facing.
 
 ### R2-6-MAGAZINE_RULE [Pack Two Amendment Six.2]
 
@@ -7945,7 +9349,7 @@ When the partner thinks a beat is drifting or a rule reads wrong, it says so in 
 
 > When the partner thinks a beat is drifting or a rule reads wrong, it says so in one plain line and keeps writing unless stopped.
 
-## worldbuilding (124)
+## worldbuilding (150)
 
 ### R20C-1-BURI_DEAD_EVERYWHERE [Pack Twenty R20C-1]
 
@@ -7982,18 +9386,6 @@ Sites recharge, and it does not help. Decades to centuries, and the rate falls w
 Commoners can buy draw legally and not practically. Metered utility, licensed, priced at a margin the margin cannot pay.
 
 > Commoners can buy draw legally and not practically. Metered utility, licensed, priced at a margin the margin cannot pay. Lamps over the pool, none at the thin edge. The tariff is public and technically open to anyone.
-
-### R20C-19-TECH_CEILING_PRINT_TELEGRAPH_NO_RAIL [Pack Twenty R20C-19]
-
-Tech ceiling. Print: yes — mechanical, cheap, ungovernable, and the reason the Accord's register is out of date.
-
-> Tech ceiling. Print: yes — mechanical, cheap, ungovernable, and the reason the Accord's register is out of date. Telegraph: yes, as a Draw counterpart — Guild line, Guild price, information as licensed commodity. Rail: no — haulage stays animal and water, which keeps the passes and the Amagiri post load-bearing. Photography: no — the counterpart is the fixed-plate impression, slow and Guild-controlled, used for proofing and record. Nobody has a portrait of their mother.
-
-### R20C-20-WELLS_GENERATE_NO_ENTITIES [Pack Twenty R20C-20]
-
-Wells generate no entities. The site is the entire threat.
-
-> Wells generate no entities. The site is the entire threat.
 
 ### R20C-23-ORIGIN_STAYS_MYTHIC [Pack Twenty R20C-23]
 
@@ -8085,12 +9477,6 @@ The new visual register is an imperial age built on a resource nobody can see, a
 
 > An imperial age built on a resource nobody can see, administered by a guild that measures it, defended by men in proofed plate who carry both a sword and a firearm because each answers a different threat.
 
-### R11-1-REFERENCE_TRIANGLE [Pack Eleven §1]
-
-Warhammer 40,000 for bureaucratic scale, late-Victorian industrial imperialism for material texture and class geography, and manhwa for visual power-display grammar — the last now widened from Pack Nine's four beat types to the general visual register. References are not to be imitated directly.
-
-> Reference triangle, not to be imitated: Warhammer 40,000 for the scale of the bureaucracy and the sense that the machinery outlived its explanation. Late-Victorian industrial imperialism for the material texture, class geography, and the survey-and-annex habit. Manhwa for the visual grammar of power display, per Pack Nine, now widened from four beat types to the general visual register.
-
 ### R11-1-TONAL_SPINE_UNCHANGED [Pack Eleven §1]
 
 Pack Five stands in full; the Western Register still governs characterisation, humour and narration authority. Pack Eleven widens what the page may look like, not what it may sound like.
@@ -8126,12 +9512,6 @@ Old World veins are worked; New World veins are pristine; colonial expansion has
 No smokestacks or soot; standpipes, gauge-housings, sealed conduit, brass and slate and Guild seals, a district's low draw-hum, and the politically loaded silence when a district's draw is cut.
 
 > Silhouette. No smokestacks, no soot, no coal. Instead: standpipes and gauge-housings, sealed conduit run along building faces like plumbing, brass and slate and Guild seals, the constant low draw-hum of a district that is drinking, and the sudden silence when a district's draw is cut. That silence is a political act and everyone in earshot knows it.
-
-### R11-2-VOCABULARY_TIERS [Pack Eleven §2]
-
-"The draw, the hum, a standpipe, a housing, the meter, cut off" are common-tongue and prose-legal under Pack Nine's craft-register carve-out; "concentration, density, coupling, eta" are Guild register and document-only.
-
-> Vocabulary, common tongue, prose-legal under Pack Nine's craft-register carve-out: the draw, the hum, a standpipe, a housing, the meter, cut off. Guild register, document-only: concentration, density, coupling, eta.
 
 ### R11-2-MEASUREWRIGHTS [Pack Eleven §2]
 
@@ -8247,12 +9627,6 @@ A practitioner arriving at an unclassified Pressure is staged backlit, shape bef
 
 > Silhouette-first entrance. A practitioner arriving at a Pressure the room hasn't classified yet is staged backlit, shape before detail — the existing silhouette tool in Section 3, now explicitly licensed for a power-arrival rather than rationed to dread generally.
 
-### R9-3-ADDITIVE_NOT_REPLACING [Pack Nine PART THREE]
-
-The power-display register adds one mode to the visual palette; depth staging, practicals, and the Berserk-density/Vinland-restraint split still govern everything outside the narrow Stage-display list.
-
-> This adds one mode to the palette. It does not replace it. Depth staging, practicals, and the Berserk-density/Vinland-restraint split all still govern everything outside the narrow list above.
-
 ### R8-21-NAME_IN_OWN_LANGUAGE [Pack Eight 2.1]
 
 The true name is in the practitioner's own language; neither the Accord, the Guild, nor the Family has a claim on it, and a register's Latin gloss never appears in the practitioner's own mouth.
@@ -8288,12 +9662,6 @@ The Titans, the Archons, the Crevice, the Withering and anything Epoch-scale gen
 Material density (rust, weathering, wear, labour) stays described in full per the Directive; the distinction is that the world is described exhaustively but interpreted at zero — meaning and thematic weight are withheld.
 
 > The material density stays. Seven of thirty-two structures burned. Hanuri re-spinning thread from an older garment. Bedding planes in limestone. The rust described in full remains house law (Directive Sec. 1.2) and Pack Six removes nothing from it.
-
-### R6-7-GOVERNING_RULE [Pack Six PART II.7]
-
-Texture comes from the Standing Inventory; mechanism comes from the Codex; a scene that reaches for the Codex when it needs texture has failed.
-
-> Texture comes from the Standing Inventory. Mechanism comes from the Codex. A scene that reaches for the Codex when it needs texture has failed.
 
 ### R6-8-STANDING_INVENTORY_CATEGORIES [Pack Six PART II.8]
 
@@ -8672,6 +10040,198 @@ All three registers are originations contradicting no existing lore (none existe
 The black stones that fell across four worlds when Verinus completed the Void are Voidfall Stone, a distinct T8 material: matte, made not emplaced, and indistinguishable from Crevice Shale to Measurewright instruments at a distance. They are not Crevice Shale. Article III names Crevice Shale specifically and does not name Voidfall Stone, so Enforcement acting under Article III against the stones is acting on a misreading; write it that way. Never put the word "shale" on the narrative page of the Verinus scenes for these stones. The Crevice Shale ledger rows stand unchanged.
 
 > Reads as Crevice Shale to a Measurewright's instruments at a distance, and no instrument yet tells the two apart. Not found. Made, when the Void was completed, and what is completed has weight. Whether it acts on Realm law as Shale does is not recorded. Article III names Crevice Shale and does not name this. Enforcement cannot currently tell them apart, and Enforcement has hanged eleven men under Article III without once being asked to explain the sentence. An analogue of Crevice Shale, not Crevice Shale. Article III's wording is now tested
+
+### R53-01-IMPERIAL_AGE_SPAN [World Texture Law 2026-09-26 World texture]
+
+The Imperial Age runs from the 1800s into the middle of the 1900s, and the technology of that whole span exists across it; the no-rail, no-photography, wire-only limits are superseded. (Isaac: "The imperial age goes from the 1800 into th...
+
+> The Imperial Age runs from the 1800s into the middle of the 1900s, and the technology of that whole span exists across it; the no-rail, no-photography, wire-only limits are superseded. (Isaac: "The imperial age goes from the 1800 into the middle part of the 1900s it should be known that due to how long it is".)
+
+### R53-02-POOR_FIRES [World Texture Law 2026-09-26 World texture]
+
+A city's poor edge burns oil, tallow, peat and dung in small fires; rich districts are clean and humming; no factory chimneys.
+
+> A city's poor edge burns oil, tallow, peat and dung in small fires; rich districts are clean and humming; no factory chimneys.
+
+### R53-03-FIREARM_CEILING [World Texture Law 2026-09-26 World texture]
+
+The firearm ceiling is up to 1900 hardware: repeating rifles, smokeless powder, even early machine guns exist, rare and state-owned.
+
+> The firearm ceiling is up to 1900 hardware: repeating rifles, smokeless powder, even early machine guns exist, rare and state-owned.
+
+### R53-04-ENHANCED_SHOT [World Texture Law 2026-09-26 World texture]
+
+Enhanced shot is standard for elites: guard companies and bounty hunters carry full pouches; ordinary infantry do not.
+
+> Enhanced shot is standard for elites: guard companies and bounty hunters carry full pouches; ordinary infantry do not.
+
+### R53-05-PROOF_PLATE [World Texture Law 2026-09-26 World texture]
+
+Narration may state the cause of any penetration outright, in gunfights as anywhere; the old firearm ban on explaining why a proofed round beats proofed plate is superseded.
+
+> Narration may state the cause of any penetration outright, in gunfights as anywhere; the old firearm ban on explaining why a proofed round beats proofed plate is superseded.
+
+### R53-06-WELL_SPAWN [World Texture Law 2026-09-26 World texture]
+
+Well-spawn exist: Wells breed hostile creatures, and the Bestiary gains a Well-spawn category.
+
+> Well-spawn exist: Wells breed hostile creatures, and the Bestiary gains a Well-spawn category.
+
+### R53-07-PRICE_TABLE [World Texture Law 2026-09-26 World texture]
+
+A short table of everyday prices and wages is drafted from real period ratios for Isaac to approve; scenes then quote it.
+
+> A short table of everyday prices and wages is drafted from real period ratios for Isaac to approve; scenes then quote it.
+
+### R53-08-TRAVEL_RATES [World Texture Law 2026-09-26 World texture]
+
+Travel uses real period rates by mode (foot about 20 miles a day, mounted 30 to 40, rail where it runs, less in snow and passes), stated by trained eyes and messengers.
+
+> Travel uses real period rates by mode (foot about 20 miles a day, mounted 30 to 40, rail where it runs, less in snow and passes), stated by trained eyes and messengers.
+
+### R53-09-WEATHER [World Texture Law 2026-09-26 World texture]
+
+Weather and season are tracked like a clock: the State of Play carries the date and season; every outdoor scene shows the actual weather, and cold, wet and thaw change what people can do.
+
+> Weather and season are tracked like a clock: the State of Play carries the date and season; every outdoor scene shows the actual weather, and cold, wet and thaw change what people can do.
+
+### R53-10-MEDICINE [World Texture Law 2026-09-26 World texture]
+
+Medicine is era-appropriate by place: Guild cities have what their decade has (anaesthesia, antisepsis, later early antibiotics); the north and the poor get folk medicine and the barber.
+
+> Medicine is era-appropriate by place: Guild cities have what their decade has (anaesthesia, antisepsis, later early antibiotics); the north and the poor get folk medicine and the barber.
+
+### R53-11-JUSTICE [World Texture Law 2026-09-26 World texture]
+
+Ground-level justice borrows each culture's real-world analogue (fines and branding in Accord cities, labour-debt in Kharven, public shaming in Eresse), looked up and logged.
+
+> Ground-level justice borrows each culture's real-world analogue (fines and branding in Accord cities, labour-debt in Kharven, public shaming in Eresse), looked up and logged.
+
+### R53-12-LITERACY [World Texture Law 2026-09-26 World texture]
+
+Literacy varies by culture: Eresse and the Accord near-universal, Kharven almost none; set on each Inventory.
+
+> Literacy varies by culture: Eresse and the Accord near-universal, Kharven almost none; set on each Inventory.
+
+### R53-13-FAITH [World Texture Law 2026-09-26 World texture]
+
+Faith in practice shows up where it matters: when a character wants something badly (petition is the tell); otherwise absent.
+
+> Faith in practice shows up where it matters: when a character wants something badly (petition is the tell); otherwise absent.
+
+### R53-14-FOLK_KNOWLEDGE [World Texture Law 2026-09-26 World texture]
+
+Ordinary people know the rough ladder: there are ranks, silver tokens are feared, Pressure is felt as dread; they could not name a Stage and use folk words.
+
+> Ordinary people know the rough ladder: there are ranks, silver tokens are feared, Pressure is felt as dread; they could not name a Stage and use folk words.
+
+### R53-15-FOLK_BELIEFS [World Texture Law 2026-09-26 World texture]
+
+Each culture's Inventory gets a few named false folk beliefs about magic, some half-true; characters act on them and the narration never corrects them.
+
+> Each culture's Inventory gets a few named false folk beliefs about magic, some half-true; characters act on them and the narration never corrects them.
+
+### R53-16-GUILD_WORDS [World Texture Law 2026-09-26 World texture]
+
+Guild words are free in any mouth: anyone may use them; the common/Guild vocabulary split no longer governs who says what.
+
+> Guild words are free in any mouth: anyone may use them; the common/Guild vocabulary split no longer governs who says what.
+
+### R53-17-THE_BILL [World Texture Law 2026-09-26 World texture]
+
+Money before magic holds on the page: any working indoors on a main raises the bill, the meter or the spur, and somebody notices the cost.
+
+> Money before magic holds on the page: any working indoors on a main raises the bill, the meter or the spur, and somebody notices the cost.
+
+### R53-18-AWE [World Texture Law 2026-09-26 World texture]
+
+Commoners regard practitioners with awe and worship: a ranked practitioner is half a saint to ordinary people.
+
+> Commoners regard practitioners with awe and worship: a ranked practitioner is half a saint to ordinary people.
+
+### R53-19-QUOTA [World Texture Law 2026-09-26 World texture]
+
+Every culture's signature-item quota is two per session, like Kharven's.
+
+> Every culture's signature-item quota is two per session, like Kharven's.
+
+### R53-20-MISSING_INVENTORY [World Texture Law 2026-09-26 World texture]
+
+When a scene goes to a culture with no Standing Inventory, the partner drafts that Inventory from the wiki first (sourced), for Isaac's approval, then writes.
+
+> When a scene goes to a culture with no Standing Inventory, the partner drafts that Inventory from the wiki first (sourced), for Isaac's approval, then writes.
+
+### R53-21-CANON_GATE [World Texture Law 2026-09-26 World texture]
+
+Texture the partner invents in play is canon once logged; Isaac can strike it later.
+
+> Texture the partner invents in play is canon once logged; Isaac can strike it later.
+
+### R53-22-CAUSAL_TEST [World Texture Law 2026-09-26 World texture]
+
+The causal test for texture invented in play is by ear: plausible is enough; the causal line is optional.
+
+> The causal test for texture invented in play is by ear: plausible is enough; the causal line is optional.
+
+### R53-23-MIXED_ROOM [World Texture Law 2026-09-26 World texture]
+
+A mixed room layers every culture present in roughly equal measure.
+
+> A mixed room layers every culture present in roughly equal measure.
+
+### R53-24-TEXTURE_AND_MECHANISM [World Texture Law 2026-09-26 World texture]
+
+The rule that texture comes from the Standing Inventory and mechanism from the Codex is retired: texture and mechanism mix freely.
+
+> The rule that texture comes from the Standing Inventory and mechanism from the Codex is retired: texture and mechanism mix freely.
+
+### R53-25-REAL_OBJECT_NAMES [World Texture Law 2026-09-26 World texture]
+
+Real names for borrowed real-world objects are allowed: a yurt is a yurt and a katana a katana when the culture is clearly built on it.
+
+> Real names for borrowed real-world objects are allowed: a yurt is a yurt and a katana a katana when the culture is clearly built on it.
+
+### R53-26-HOW_CLOSE [World Texture Law 2026-09-26 World texture]
+
+Real history is taken exactly, then bent one step by the culture's own conditions (the draw, the cold, the Archons), credited in the notes.
+
+> Real history is taken exactly, then bent one step by the culture's own conditions (the draw, the cold, the Archons), credited in the notes.
+
+### R53-27-MIX_SOURCES [World Texture Law 2026-09-26 World texture]
+
+The partner may blend real cultures freely into one WOTR culture where it serves the culture's conditions.
+
+> The partner may blend real cultures freely into one WOTR culture where it serves the culture's conditions.
+
+### R53-28-VISUAL_REFERENCE [World Texture Law 2026-09-26 World texture]
+
+The visual reference is Lord of the Mysteries and Victorian imperial-age fantasy; the Berserk and Vinland Saga references are retired everywhere. WOTR has its own texture, invented for the world itself, mostly drawn from real-world inspi...
+
+> The visual reference is Lord of the Mysteries and Victorian imperial-age fantasy; the Berserk and Vinland Saga references are retired everywhere. WOTR has its own texture, invented for the world itself, mostly drawn from real-world inspiration. (Isaac: "I want it to look like lord of mysteries or Victorian imperial aged fantasy I don't like the beast or vinland saga reference wotr has its own thing its own texture invented entirely for the world itself it mostly takes from real world inspo etc".)
+
+### R53-29-LOOK_UP [World Texture Law 2026-09-26 World texture]
+
+The partner looks up every world fact (wiki, Inventory, cards) rather than inventing it; gaps are flagged, not filled.
+
+> The partner looks up every world fact (wiki, Inventory, cards) rather than inventing it; gaps are flagged, not filled.
+
+### R53-30-TEXTURE_DENSITY [World Texture Law 2026-09-26 World texture]
+
+Every beat carries at least one detail that could only exist in this world; sensory layers sit around it.
+
+> Every beat carries at least one detail that could only exist in this world; sensory layers sit around it.
+
+### R53-31-GONE_LIST [World Texture Law 2026-09-26 World texture]
+
+Each culture's Standing Inventory gets a 'Gone' list of three to five named lost things the culture mourns, for elegy to reach for.
+
+> Each culture's Standing Inventory gets a 'Gone' list of three to five named lost things the culture mourns, for elegy to reach for.
+
+### R53-32-TECH_BY_EAR [World Texture Law 2026-09-26 World texture]
+
+No decade-by-decade technology page: the partner judges what is era-appropriate in the Imperial Age scene by scene.
+
+> No decade-by-decade technology page: the partner judges what is era-appropriate in the Imperial Age scene by scene.
 
 ### R36-1-YASOSHIMA_SINK_YUNO_SECRET [Yasoshima Essence Sink / What House Yuno Declined to Disclose What the Research Division Was Not Told]
 

@@ -2205,7 +2205,7 @@
     "pack_number": null,
     "section": "V",
     "title": "Roughly one outlier name in eight, each with a workbook reason",
-    "status": "live",
+    "status": "superseded",
     "kind": "budget",
     "summary": "Roughly one outlier in eight named characters, each with a reason that exists in the workbook whether or not it reaches prose; above that ratio the registers stop reading as systems and start reading as an author picking names he liked.",
     "verbatim": "Budget: roughly one outlier in eight named characters, and each one has a reason that exists in the workbook whether or not it ever reaches prose. Above that ratio the registers stop reading as systems and start reading as an author picking names he liked.",
@@ -2228,7 +2228,9 @@
       "lines": "67"
     },
     "notes": "Restated as still open/adjustable in §IX and §XII of this same document; the ratio is coined here, not yet ratified.",
-    "superseded_by": []
+    "superseded_by": [
+      "R50-18-OUTLIERS"
+    ]
   },
   {
     "id": "R23-5-OUTLIER_DEFINED",
@@ -8334,7 +8336,8 @@
     "supersedes": [
       "R14-4-EFFECTS_CHANNEL",
       "R14-6-CHECK28",
-      "R12-5-NUMBERS_DIAGNOSTIC_ONLY"
+      "R12-5-NUMBERS_DIAGNOSTIC_ONLY",
+      "R14-4-DIAGNOSTIC_CHANNEL"
     ],
     "applies_to": [
       "register",
@@ -8600,6 +8603,4191 @@
       "lines": null
     },
     "notes": "Question p55: The repetition check flags words used 4+ times from a list that includes 'beautiful', 'suddenly', 'carefully', 'precisely', 'arithmetic'. Add your own pet hates?",
+    "superseded_by": []
+  },
+  {
+    "id": "R50-01-REAL_GRAMMAR",
+    "pack": "Naming Law 2026-09-26",
+    "pack_number": null,
+    "section": "Borrowing from real languages",
+    "title": "Real grammar",
+    "status": "live",
+    "kind": "mandate",
+    "summary": "Borrowed real-language names must be real, correct phrases in that language, and the gloss must match what the words actually mean.",
+    "verbatim": "Borrowed real-language names must be real, correct phrases in that language, and the gloss must match what the words actually mean.",
+    "amends": [
+      {
+        "guide": "Naming guide and the wotr-write skill",
+        "locus": "Borrowing from real languages",
+        "operation": "adds"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "naming"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-26, Claude Code chat: ruled directly (naming questionnaire)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "Question n01: Real-language names in the wiki are often loose. 'Upanga wa Msimu Nne' would be 'Upanga wa Misimu Minne' in correct Swahili, 'Kibanda cha Mwanga wa Miti' says hut, not lantern, and 'Shigoto no Baransu",
+    "superseded_by": []
+  },
+  {
+    "id": "R50-02-FIX_OLD_ONES",
+    "pack": "Naming Law 2026-09-26",
+    "pack_number": null,
+    "section": "Borrowing from real languages",
+    "title": "Fix old ones",
+    "status": "live",
+    "kind": "mandate",
+    "summary": "A published name that is wrong in its source language has its grammar and spelling corrected where the name keeps its sound; the rest stays.",
+    "verbatim": "A published name that is wrong in its source language has its grammar and spelling corrected where the name keeps its sound; the rest stays.",
+    "amends": [
+      {
+        "guide": "Naming guide and the wotr-write skill",
+        "locus": "Borrowing from real languages",
+        "operation": "adds"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "naming"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-26, Claude Code chat: ruled directly (naming questionnaire)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "Question n02: If a published name turns out to be wrong in its source language (bad Swahili, odd Japanese), what happens to it? R20C-40 says names established in prose are flagged, never renamed.",
+    "superseded_by": []
+  },
+  {
+    "id": "R50-03-EARTH_PLACES",
+    "pack": "Naming Law 2026-09-26",
+    "pack_number": null,
+    "section": "Borrowing from real languages",
+    "title": "Earth places",
+    "status": "live",
+    "kind": "mandate",
+    "summary": "A WOTR place may carry a real Earth place name unchanged, anywhere it fits the stratum.",
+    "verbatim": "A WOTR place may carry a real Earth place name unchanged, anywhere it fits the stratum.",
+    "amends": [
+      {
+        "guide": "Naming guide and the wotr-write skill",
+        "locus": "Borrowing from real languages",
+        "operation": "adds"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "naming"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-26, Claude Code chat: ruled directly (naming questionnaire)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "Question n03: Some prose uses real Earth place names as they are (a 'North Ferriby walk' is a real English village). Can a WOTR place carry a real Earth place name unchanged?",
+    "superseded_by": []
+  },
+  {
+    "id": "R50-04-POP_CULTURE",
+    "pack": "Naming Law 2026-09-26",
+    "pack_number": null,
+    "section": "Borrowing from real languages",
+    "title": "Pop culture",
+    "status": "live",
+    "kind": "mandate",
+    "summary": "Names that echo a famous franchise (Stark, Greymane, the Night's Watch) are allowed; homage is fine and the name means what WOTR makes it mean.",
+    "verbatim": "Names that echo a famous franchise (Stark, Greymane, the Night's Watch) are allowed; homage is fine and the name means what WOTR makes it mean.",
+    "amends": [
+      {
+        "guide": "Naming guide and the wotr-write skill",
+        "locus": "Borrowing from real languages",
+        "operation": "adds"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "naming"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-26, Claude Code chat: ruled directly (naming questionnaire)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "Question n04: The wiki carries Stark (453 mentions), Greymane (389) and the Night's Watch (21), each famous from another franchise. What is the rule for names that loudly echo a famous book, show or game?",
+    "superseded_by": []
+  },
+  {
+    "id": "R50-05-MYTH_FIGURES",
+    "pack": "Naming Law 2026-09-26",
+    "pack_number": null,
+    "section": "Borrowing from real languages",
+    "title": "Myth figures",
+    "status": "live",
+    "kind": "mandate",
+    "summary": "A WOTR being may carry a real god, demon or saint name as a borrowing; WOTR's being is its own, the name is a nod.",
+    "verbatim": "A WOTR being may carry a real god, demon or saint name as a borrowing; WOTR's being is its own, the name is a nod.",
+    "amends": [
+      {
+        "guide": "Naming guide and the wotr-write skill",
+        "locus": "Borrowing from real languages",
+        "operation": "adds"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "naming"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-26, Claude Code chat: ruled directly (naming questionnaire)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "Question n05: Real myth and religion names turn up as characters (Malphas is a demon from the Goetia; Tengri was already struck to 'the Sky'). May a WOTR being carry a real god, demon or saint name?",
+    "superseded_by": []
+  },
+  {
+    "id": "R50-06-SACRED_TERMS",
+    "pack": "Naming Law 2026-09-26",
+    "pack_number": null,
+    "section": "Borrowing from real languages",
+    "title": "Sacred terms",
+    "status": "live",
+    "kind": "mandate",
+    "summary": "No ban on sacred or ceremonial terms from living traditions in any register; a sacred word used respectfully is allowed.",
+    "verbatim": "No ban on sacred or ceremonial terms from living traditions in any register; a sacred word used respectfully is allowed.",
+    "amends": [
+      {
+        "guide": "Naming guide and the wotr-write skill",
+        "locus": "Borrowing from real languages",
+        "operation": "adds"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "naming"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-26, Claude Code chat: ruled directly (naming questionnaire)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "Question n06: The Elven rule bans crest, ceremonial or sacred terms from living traditions. Does that ban reach every register (Shinto 'kagura', Swahili 'mizimu' for ancestor spirits, Arabic religious words in Zett",
+    "superseded_by": []
+  },
+  {
+    "id": "R50-07-NEW_TONGUES",
+    "pack": "Naming Law 2026-09-26",
+    "pack_number": null,
+    "section": "Borrowing from real languages",
+    "title": "New tongues",
+    "status": "live",
+    "kind": "mandate",
+    "summary": "The partner may open a new real-language naming register for a new people, logged as pending.",
+    "verbatim": "The partner may open a new real-language naming register for a new people, logged as pending.",
+    "amends": [
+      {
+        "guide": "Naming guide and the wotr-write skill",
+        "locus": "Borrowing from real languages",
+        "operation": "adds"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "naming"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-26, Claude Code chat: ruled directly (naming questionnaire)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "Question n07: The partner may reach for a real language no stratum covers yet (Persian for a desert court, Nahuatl for a jungle people). Who may open a new naming register?",
+    "superseded_by": []
+  },
+  {
+    "id": "R50-08-GLOSS_CLASH",
+    "pack": "Naming Law 2026-09-26",
+    "pack_number": null,
+    "section": "Techniques, arts and items",
+    "title": "Gloss clash",
+    "status": "live",
+    "kind": "mandate",
+    "summary": "R49-48 governs: technique names and translations are free in narration; the older Pack Twenty clauses that kept the gloss off the page and the true name un-narrated are superseded.",
+    "verbatim": "R49-48 governs: technique names and translations are free in narration; the older Pack Twenty clauses that kept the gloss off the page and the true name un-narrated are superseded.",
+    "amends": [
+      {
+        "guide": "Naming guide and the wotr-write skill",
+        "locus": "Techniques, arts and items",
+        "operation": "replaces"
+      }
+    ],
+    "supersedes": [
+      "R20C-38-PACK_EIGHT_SECTION_TWO_ENTIRE"
+    ],
+    "applies_to": [
+      "naming"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-26, Claude Code chat: ruled directly (naming questionnaire)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "Question n08: Two live rules disagree. R49-48 says technique names and their translations are free in narration. R20C-38 still says the gloss never appears in prose, the true name is spoken and never narrated, and ",
+    "superseded_by": []
+  },
+  {
+    "id": "R50-09-ONE_RELEASE",
+    "pack": "Naming Law 2026-09-26",
+    "pack_number": null,
+    "section": "Techniques, arts and items",
+    "title": "One release",
+    "status": "live",
+    "kind": "mandate",
+    "summary": "No limit on release calls: an art may be called as often as the fight gives a beat; each call still costs the beat.",
+    "verbatim": "No limit on release calls: an art may be called as often as the fight gives a beat; each call still costs the beat.",
+    "amends": [
+      {
+        "guide": "Naming guide and the wotr-write skill",
+        "locus": "Techniques, arts and items",
+        "operation": "adds"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "naming"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-26, Claude Code chat: ruled directly (naming questionnaire)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "Question n09: Does 'one release per scene' (a spoken art-name call, R20C-38) still hold?",
+    "superseded_by": []
+  },
+  {
+    "id": "R50-10-NAME_STYLE",
+    "pack": "Naming Law 2026-09-26",
+    "pack_number": null,
+    "section": "Techniques, arts and items",
+    "title": "Name style",
+    "status": "live",
+    "kind": "mandate",
+    "summary": "Technique naming leans by culture: plain English names for common-tongue fighters, true names with a gloss for houses with a register.",
+    "verbatim": "Technique naming leans by culture: plain English names for common-tongue fighters, true names with a gloss for houses with a register.",
+    "amends": [
+      {
+        "guide": "Naming guide and the wotr-write skill",
+        "locus": "Techniques, arts and items",
+        "operation": "adds"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "naming"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-26, Claude Code chat: ruled directly (naming questionnaire)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "Question n10: The wotr-write naming note says technique names pass 'the one-beat test: the name is the thing'. R8-12 repealed 'ability naming equals the phenomenon itself, Ruin is Ruin'. Which way should a new tech",
+    "superseded_by": []
+  },
+  {
+    "id": "R50-11-LONG_NAMES",
+    "pack": "Naming Law 2026-09-26",
+    "pack_number": null,
+    "section": "Techniques, arts and items",
+    "title": "Long names",
+    "status": "live",
+    "kind": "mandate",
+    "summary": "New English technique names are short: two words at most, no stacked modifiers.",
+    "verbatim": "New English technique names are short: two words at most, no stacked modifiers.",
+    "amends": [
+      {
+        "guide": "Naming guide and the wotr-write skill",
+        "locus": "Techniques, arts and items",
+        "operation": "adds"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "naming"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-26, Claude Code chat: ruled directly (naming questionnaire)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "Question n11: Many wiki techniques are long English compounds ('Celestial Decree Aeon-Shard Mandate', 'Harmonic Null-Ascension', 'Solarbound Aegoric Knight'). For new ones, is that style still welcome?",
+    "superseded_by": []
+  },
+  {
+    "id": "R50-12-COINED_LATIN",
+    "pack": "Naming Law 2026-09-26",
+    "pack_number": null,
+    "section": "Techniques, arts and items",
+    "title": "Coined Latin",
+    "status": "live",
+    "kind": "mandate",
+    "summary": "New Latinate names use real, correct Latin.",
+    "verbatim": "New Latinate names use real, correct Latin.",
+    "amends": [
+      {
+        "guide": "Naming guide and the wotr-write skill",
+        "locus": "Techniques, arts and items",
+        "operation": "adds"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "naming"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-26, Claude Code chat: ruled directly (naming questionnaire)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "Question n12: Many names are invented Latin-flavoured words that are not real Latin (Exuroth, Pyreveil, Cryost, Eidolyn, Aegoric). Real Latin also appears (Sigillum Fixatio). Which should new Latinate names be?",
+    "superseded_by": []
+  },
+  {
+    "id": "R50-13-ITEM_NAMES",
+    "pack": "Naming Law 2026-09-26",
+    "pack_number": null,
+    "section": "Techniques, arts and items",
+    "title": "Item names",
+    "status": "live",
+    "kind": "mandate",
+    "summary": "An item's true name depends on who tells it: each culture names it in its own tongue, and the page lists the names side by side.",
+    "verbatim": "An item's true name depends on who tells it: each culture names it in its own tongue, and the page lists the names side by side.",
+    "amends": [
+      {
+        "guide": "Naming guide and the wotr-write skill",
+        "locus": "Techniques, arts and items",
+        "operation": "adds"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "naming"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-26, Claude Code chat: ruled directly (naming questionnaire)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "Question n13: Named items pair a true name with an English by-name ('Kogane Kei · The Soul-Reed Blade'). Whose language gives an item its true name?",
+    "superseded_by": []
+  },
+  {
+    "id": "R50-14-ESCALATION",
+    "pack": "Naming Law 2026-09-26",
+    "pack_number": null,
+    "section": "Techniques, arts and items",
+    "title": "Escalation",
+    "status": "live",
+    "kind": "mandate",
+    "summary": "A stronger form of an art takes a suffix in the art's own language (Kurosetsu becomes Kurosetsu-Kai).",
+    "verbatim": "A stronger form of an art takes a suffix in the art's own language (Kurosetsu becomes Kurosetsu-Kai).",
+    "amends": [
+      {
+        "guide": "Naming guide and the wotr-write skill",
+        "locus": "Techniques, arts and items",
+        "operation": "adds"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "naming"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-26, Claude Code chat: ruled directly (naming questionnaire)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "Question n14: A stronger form of a known art takes a modifier on its existing true name (R8-25). What should the modifier look like on the page?",
+    "superseded_by": []
+  },
+  {
+    "id": "R50-15-DIACRITICS",
+    "pack": "Naming Law 2026-09-26",
+    "pack_number": null,
+    "section": "People's names",
+    "title": "Diacritics",
+    "status": "live",
+    "kind": "mandate",
+    "summary": "Macrons, apostrophes and accents stay in names wherever the register uses them.",
+    "verbatim": "Macrons, apostrophes and accents stay in names wherever the register uses them.",
+    "amends": [
+      {
+        "guide": "Naming guide and the wotr-write skill",
+        "locus": "People's names",
+        "operation": "adds"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "naming"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-26, Claude Code chat: ruled directly (naming questionnaire)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "Question n15: Canon uses macrons and marks (Kōkan, Sōhai, Vā, Ma'Kovu). How far should names go in accents and marks?",
+    "superseded_by": []
+  },
+  {
+    "id": "R50-16-HOW_EXOTIC",
+    "pack": "Naming Law 2026-09-26",
+    "pack_number": null,
+    "section": "People's names",
+    "title": "How exotic",
+    "status": "live",
+    "kind": "mandate",
+    "summary": "How hard a name is to say is decided by its register: if the register makes it hard, it is hard, and the reader learns it.",
+    "verbatim": "How hard a name is to say is decided by its register: if the register makes it hard, it is hard, and the reader learns it.",
+    "amends": [
+      {
+        "guide": "Naming guide and the wotr-write skill",
+        "locus": "People's names",
+        "operation": "adds"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "naming"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-26, Claude Code chat: ruled directly (naming questionnaire)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "Question n16: How hard may a name be for an English reader to say? (Far-Northern allows q-heavy uvular names; Old Vaross stacks consonants.)",
+    "superseded_by": []
+  },
+  {
+    "id": "R50-17-SHARED_NAMES",
+    "pack": "Naming Law 2026-09-26",
+    "pack_number": null,
+    "section": "People's names",
+    "title": "Shared names",
+    "status": "live",
+    "kind": "mandate",
+    "summary": "Characters may share a name or sound alike; when they meet, it becomes a beat.",
+    "verbatim": "Characters may share a name or sound alike; when they meet, it becomes a beat.",
+    "amends": [
+      {
+        "guide": "Naming guide and the wotr-write skill",
+        "locus": "People's names",
+        "operation": "adds"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "naming"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-26, Claude Code chat: ruled directly (naming questionnaire)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "Question n17: Two Onawas were kept and made into a story. What is the rule for two characters sharing a name or sounding alike?",
+    "superseded_by": []
+  },
+  {
+    "id": "R50-18-OUTLIERS",
+    "pack": "Naming Law 2026-09-26",
+    "pack_number": null,
+    "section": "People's names",
+    "title": "Outliers",
+    "status": "live",
+    "kind": "mandate",
+    "summary": "The one-in-eight outlier-name budget is dropped: outlier names are free, no ratio, no reason needed.",
+    "verbatim": "The one-in-eight outlier-name budget is dropped: outlier names are free, no ratio, no reason needed.",
+    "amends": [
+      {
+        "guide": "Naming guide and the wotr-write skill",
+        "locus": "People's names",
+        "operation": "replaces"
+      }
+    ],
+    "supersedes": [
+      "R23-5-OUTLIER_BUDGET"
+    ],
+    "applies_to": [
+      "naming"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-26, Claude Code chat: ruled directly (naming questionnaire)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "Question n18: About one named character in eight may carry a name that fits no stratum, each with a reason in the workbook (R23-5). Keep that budget?",
+    "superseded_by": []
+  },
+  {
+    "id": "R50-19-ZETTARI_BANK",
+    "pack": "Naming Law 2026-09-26",
+    "pack_number": null,
+    "section": "People's names",
+    "title": "Zettari bank",
+    "status": "live",
+    "kind": "mandate",
+    "summary": "The Zettari keep a free register: names are coined in the register's sound, no element bank.",
+    "verbatim": "The Zettari keep a free register: names are coined in the register's sound, no element bank.",
+    "amends": [
+      {
+        "guide": "Naming guide and the wotr-write skill",
+        "locus": "People's names",
+        "operation": "adds"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "naming"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-26, Claude Code chat: ruled directly (naming questionnaire)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "Question n19: The Zettari keep their Swahili/Bantu/Arabic register (R32-1), but unlike Moto, Mahuo, Yukari and the Dawi they have no fixed element bank to build names from. Should they get one?",
+    "superseded_by": []
+  },
+  {
+    "id": "R50-20-OTHER_BANKS",
+    "pack": "Naming Law 2026-09-26",
+    "pack_number": null,
+    "section": "People's names",
+    "title": "Other banks",
+    "status": "live",
+    "kind": "mandate",
+    "summary": "No element banks are needed for the Chinese-stratum halls or the Far-Northern peoples; their sound rules are enough.",
+    "verbatim": "No element banks are needed for the Chinese-stratum halls or the Far-Northern peoples; their sound rules are enough.",
+    "amends": [
+      {
+        "guide": "Naming guide and the wotr-write skill",
+        "locus": "People's names",
+        "operation": "adds"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "naming"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-26, Claude Code chat: ruled directly (naming questionnaire)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "Question n20: The Chinese-stratum lineage halls and the Far-Northern peoples have rules and sounds but no element bank either. Should the partner build those before naming anyone in them?",
+    "superseded_by": []
+  },
+  {
+    "id": "R50-21-THIRD_NAMES",
+    "pack": "Naming Law 2026-09-26",
+    "pack_number": null,
+    "section": "People's names",
+    "title": "Third Names",
+    "status": "live",
+    "kind": "mandate",
+    "summary": "The partner may coin a Third Name for one of Isaac's characters through an NPC in a scene; it sticks only if Isaac keeps it.",
+    "verbatim": "The partner may coin a Third Name for one of Isaac's characters through an NPC in a scene; it sticks only if Isaac keeps it.",
+    "amends": [
+      {
+        "guide": "Naming guide and the wotr-write skill",
+        "locus": "People's names",
+        "operation": "adds"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "naming"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-26, Claude Code chat: ruled directly (naming questionnaire)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "Question n21: Every practitioner's Third Name is what the world calls them (The Ledger-Keeper). In play, who coins a Third Name for one of your characters?",
+    "superseded_by": []
+  },
+  {
+    "id": "R50-22-PLACE_STRATA",
+    "pack": "Naming Law 2026-09-26",
+    "pack_number": null,
+    "section": "Places, factions, schools, Wellsprings",
+    "title": "Place strata",
+    "status": "live",
+    "kind": "mandate",
+    "summary": "A place carries several names, one per culture that uses it; the POV picks which to use.",
+    "verbatim": "A place carries several names, one per culture that uses it; the POV picks which to use.",
+    "amends": [
+      {
+        "guide": "Naming guide and the wotr-write skill",
+        "locus": "Places, factions, schools, Wellsprings",
+        "operation": "adds"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "naming"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-26, Claude Code chat: ruled directly (naming questionnaire)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "Question n22: People's names follow institution, never geography. Nothing says how a place is named. Which rule should places follow?",
+    "superseded_by": []
+  },
+  {
+    "id": "R50-23-DOUBLETS",
+    "pack": "Naming Law 2026-09-26",
+    "pack_number": null,
+    "section": "Places, factions, schools, Wellsprings",
+    "title": "Doublets",
+    "status": "live",
+    "kind": "mandate",
+    "summary": "The Accord Latin / common-tongue doublet extends to everything: schools, factions and places get both, and the speaker picks.",
+    "verbatim": "The Accord Latin / common-tongue doublet extends to everything: schools, factions and places get both, and the speaker picks.",
+    "amends": [
+      {
+        "guide": "Naming guide and the wotr-write skill",
+        "locus": "Places, factions, schools, Wellsprings",
+        "operation": "adds"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "naming"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-26, Claude Code chat: ruled directly (naming questionnaire)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "Question n23: Every craft term has an Accord Latin name and a common-tongue name, and the choice marks class (R20C-46). Does that doublet stretch to factions, schools and places?",
+    "superseded_by": []
+  },
+  {
+    "id": "R50-24-SCHOOL_NAMES",
+    "pack": "Naming Law 2026-09-26",
+    "pack_number": null,
+    "section": "Places, factions, schools, Wellsprings",
+    "title": "School names",
+    "status": "live",
+    "kind": "mandate",
+    "summary": "A fighting or magic school takes a true name in the founding culture's own tongue, like an art.",
+    "verbatim": "A fighting or magic school takes a true name in the founding culture's own tongue, like an art.",
+    "amends": [
+      {
+        "guide": "Naming guide and the wotr-write skill",
+        "locus": "Places, factions, schools, Wellsprings",
+        "operation": "adds"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "naming"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-26, Claude Code chat: ruled directly (naming questionnaire)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "Question n24: How should a fighting or magic school be named (a Dawi forge-school, a Moto sword lineage, a Concord academy)?",
+    "superseded_by": []
+  },
+  {
+    "id": "R50-25-WELLSPRINGS",
+    "pack": "Naming Law 2026-09-26",
+    "pack_number": null,
+    "section": "Places, factions, schools, Wellsprings",
+    "title": "Wellsprings",
+    "status": "live",
+    "kind": "mandate",
+    "summary": "Local folk names for a Wellspring are recorded on the Wellspring's page and usable anywhere.",
+    "verbatim": "Local folk names for a Wellspring are recorded on the Wellspring's page and usable anywhere.",
+    "amends": [
+      {
+        "guide": "Naming guide and the wotr-write skill",
+        "locus": "Places, factions, schools, Wellsprings",
+        "operation": "adds"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "naming"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-26, Claude Code chat: ruled directly (naming questionnaire)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "Question n25: The Sixty Wellsprings have fixed names (Pyreveil, Exuroth). When a local people knows a Wellspring, may they call it by their own name for it?",
+    "superseded_by": []
+  },
+  {
+    "id": "R50-26-CHANT_TONGUE",
+    "pack": "Naming Law 2026-09-26",
+    "pack_number": null,
+    "section": "Places, factions, schools, Wellsprings",
+    "title": "Chant tongue",
+    "status": "live",
+    "kind": "mandate",
+    "summary": "Each practitioner chants in their own language; the Latin-default chant rule is superseded.",
+    "verbatim": "Each practitioner chants in their own language; the Latin-default chant rule is superseded.",
+    "amends": [
+      {
+        "guide": "Naming guide and the wotr-write skill",
+        "locus": "Places, factions, schools, Wellsprings",
+        "operation": "replaces"
+      }
+    ],
+    "supersedes": [
+      "R15-1-LATIN_CHANT_SURVIVES"
+    ],
+    "applies_to": [
+      "naming"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-26, Claude Code chat: ruled directly (naming questionnaire)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "Question n26: Two live rules conflict. R15-1 says Latin for chant-based magic stands by default. R20C-35 says the Latin chant rule folds into the repeal and a practitioner chants in their own language. Which holds?",
+    "superseded_by": []
+  },
+  {
+    "id": "R50-27-NEW_NPC_NAME",
+    "pack": "Naming Law 2026-09-26",
+    "pack_number": null,
+    "section": "Naming things mid-scene",
+    "title": "New NPC name",
+    "status": "live",
+    "kind": "mandate",
+    "summary": "A new person the partner introduces is a role (the gate-clerk) until they speak twice or matter; then they get a name.",
+    "verbatim": "A new person the partner introduces is a role (the gate-clerk) until they speak twice or matter; then they get a name.",
+    "amends": [
+      {
+        "guide": "Naming guide and the wotr-write skill",
+        "locus": "Naming things mid-scene",
+        "operation": "adds"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "naming"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-26, Claude Code chat: ruled directly (naming questionnaire)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "Question n27: When the partner puts a new person in a scene (a gate guard, a clerk), when do they get a name?",
+    "superseded_by": []
+  },
+  {
+    "id": "R50-28-NEW_WORDS",
+    "pack": "Naming Law 2026-09-26",
+    "pack_number": null,
+    "section": "Naming things mid-scene",
+    "title": "New words",
+    "status": "live",
+    "kind": "mandate",
+    "summary": "A word the partner coins mid-scene is logged with the scene, not docketed; it becomes canon only if Isaac reuses it.",
+    "verbatim": "A word the partner coins mid-scene is logged with the scene, not docketed; it becomes canon only if Isaac reuses it.",
+    "amends": [
+      {
+        "guide": "Naming guide and the wotr-write skill",
+        "locus": "Naming things mid-scene",
+        "operation": "adds"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "naming"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-26, Claude Code chat: ruled directly (naming questionnaire)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "Question n28: Your own coinages are kept and docketed (R16-6). When the partner coins a word mid-scene (a slang term, a new drink, a school), what happens to it?",
+    "superseded_by": []
+  },
+  {
+    "id": "R50-29-COLLISION",
+    "pack": "Naming Law 2026-09-26",
+    "pack_number": null,
+    "section": "Naming things mid-scene",
+    "title": "Collision",
+    "status": "live",
+    "kind": "mandate",
+    "summary": "When a name invented mid-scene clashes with an existing page, it becomes a beat: two people with one name, and the world notices.",
+    "verbatim": "When a name invented mid-scene clashes with an existing page, it becomes a beat: two people with one name, and the world notices.",
+    "amends": [
+      {
+        "guide": "Naming guide and the wotr-write skill",
+        "locus": "Naming things mid-scene",
+        "operation": "adds"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "naming"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-26, Claude Code chat: ruled directly (naming questionnaire)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "Question n29: The partner invents a name mid-scene that turns out to clash with an existing page (same name, other person). What then?",
+    "superseded_by": []
+  },
+  {
+    "id": "R50-30-BANK_OR_EAR",
+    "pack": "Naming Law 2026-09-26",
+    "pack_number": null,
+    "section": "Naming things mid-scene",
+    "title": "Bank or ear",
+    "status": "live",
+    "kind": "mandate",
+    "summary": "Mid-scene the partner may name by ear to keep the pace; names are checked against the banks and sound rules at the scene's end.",
+    "verbatim": "Mid-scene the partner may name by ear to keep the pace; names are checked against the banks and sound rules at the scene's end.",
+    "amends": [
+      {
+        "guide": "Naming guide and the wotr-write skill",
+        "locus": "Naming things mid-scene",
+        "operation": "adds"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "naming"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-26, Claude Code chat: ruled directly (naming questionnaire)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "Question n30: Mid-scene, must the partner build a name from the element banks and sound rules every time, or can they name by ear and fix it later?",
+    "superseded_by": []
+  },
+  {
+    "id": "R50-31-SCRIPT_SHOWN",
+    "pack": "Naming Law 2026-09-26",
+    "pack_number": null,
+    "section": "Names on pages vs in prose",
+    "title": "Script shown",
+    "status": "live",
+    "kind": "mandate",
+    "summary": "True names are romanised only: no real script (kanji, hangul) on cards, pages or prose.",
+    "verbatim": "True names are romanised only: no real script (kanji, hangul) on cards, pages or prose.",
+    "amends": [
+      {
+        "guide": "Naming guide and the wotr-write skill",
+        "locus": "Names on pages vs in prose",
+        "operation": "adds"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "naming"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-26, Claude Code chat: ruled directly (naming questionnaire)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "Question n31: Entries may carry the true name 'in script where the register has one' (kanji, hangul). Should cards and codex pages show real script?",
+    "superseded_by": []
+  },
+  {
+    "id": "R50-32-ITALICS",
+    "pack": "Naming Law 2026-09-26",
+    "pack_number": null,
+    "section": "Names on pages vs in prose",
+    "title": "Italics",
+    "status": "live",
+    "kind": "mandate",
+    "summary": "Foreign names and borrowed words are never italic in prose.",
+    "verbatim": "Foreign names and borrowed words are never italic in prose.",
+    "amends": [
+      {
+        "guide": "Naming guide and the wotr-write skill",
+        "locus": "Names on pages vs in prose",
+        "operation": "adds"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "naming"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-26, Claude Code chat: ruled directly (naming questionnaire)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "Question n32: In prose, are foreign names and borrowed words set in italics?",
+    "superseded_by": []
+  },
+  {
+    "id": "R50-33-MISPRONOUNCE",
+    "pack": "Naming Law 2026-09-26",
+    "pack_number": null,
+    "section": "Names on pages vs in prose",
+    "title": "Mispronounce",
+    "status": "live",
+    "kind": "mandate",
+    "summary": "A foreigner's bent pronunciation of a name is spelled as heard in dialogue (Gimbzo becomes 'Gimzo').",
+    "verbatim": "A foreigner's bent pronunciation of a name is spelled as heard in dialogue (Gimbzo becomes 'Gimzo').",
+    "amends": [
+      {
+        "guide": "Naming guide and the wotr-write skill",
+        "locus": "Names on pages vs in prose",
+        "operation": "adds"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "naming"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-26, Claude Code chat: ruled directly (naming questionnaire)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "Question n33: Names said by a foreigner come out bent (a Concord human flattens a Dawi name). How does that show on the page?",
+    "superseded_by": []
+  },
+  {
+    "id": "R50-34-SAY_GUIDE",
+    "pack": "Naming Law 2026-09-26",
+    "pack_number": null,
+    "section": "Names on pages vs in prose",
+    "title": "Say-guide",
+    "status": "live",
+    "kind": "mandate",
+    "summary": "Every character card and place page carries a short pronunciation line.",
+    "verbatim": "Every character card and place page carries a short pronunciation line.",
+    "amends": [
+      {
+        "guide": "Naming guide and the wotr-write skill",
+        "locus": "Names on pages vs in prose",
+        "operation": "adds"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "naming"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-26, Claude Code chat: ruled directly (naming questionnaire)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "Question n34: Should character cards and place pages carry a pronunciation line (KOH-kahn)?",
+    "superseded_by": []
+  },
+  {
+    "id": "R51-01-TIMELESS",
+    "pack": "Vocabulary Law 2026-09-26",
+    "pack_number": null,
+    "section": "Vocabulary and diction",
+    "title": "Timeless",
+    "status": "live",
+    "kind": "mandate",
+    "summary": "Timeless narration varies by culture: plain, undated English by default; some cultures' scenes (Eresse, the Moto court) may take a more antique narration.",
+    "verbatim": "Timeless narration varies by culture: plain, undated English by default; some cultures' scenes (Eresse, the Moto court) may take a more antique narration.",
+    "amends": [
+      {
+        "guide": "NATALIE.md and the wotr-write skill",
+        "locus": "Vocabulary and diction",
+        "operation": "adds"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "register",
+      "prose-law",
+      "dialogue"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-26, Claude Code chat: ruled directly (vocabulary questionnaire)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "",
+    "superseded_by": []
+  },
+  {
+    "id": "R51-02-CLOSE_POV_SWEARS",
+    "pack": "Vocabulary Law 2026-09-26",
+    "pack_number": null,
+    "section": "Vocabulary and diction",
+    "title": "Close Pov Swears",
+    "status": "live",
+    "kind": "mandate",
+    "summary": "Profanity may bleed into close-POV narration, using timeless profanities plus swears invented deliberately for WOTR; other modern words stay out of narration. (Isaac: \"Profanity is fine I think we should use timelees profanes and invent ...",
+    "verbatim": "Profanity may bleed into close-POV narration, using timeless profanities plus swears invented deliberately for WOTR; other modern words stay out of narration. (Isaac: \"Profanity is fine I think we should use timelees profanes and invent some deliberately for wotr\".)",
+    "amends": [
+      {
+        "guide": "NATALIE.md and the wotr-write skill",
+        "locus": "Vocabulary and diction",
+        "operation": "adds"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "register",
+      "prose-law",
+      "dialogue"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-26, Claude Code chat: ruled directly (vocabulary questionnaire)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "",
+    "superseded_by": []
+  },
+  {
+    "id": "R51-03-LIST_SLANG",
+    "pack": "Vocabulary Law 2026-09-26",
+    "pack_number": null,
+    "section": "Vocabulary and diction",
+    "title": "List Slang",
+    "status": "live",
+    "kind": "mandate",
+    "summary": "Modern-word list, slang: ban only the worst in narration (okay, OK, vibe, awesome, cool); the rest by ear.",
+    "verbatim": "Modern-word list, slang: ban only the worst in narration (okay, OK, vibe, awesome, cool); the rest by ear.",
+    "amends": [
+      {
+        "guide": "NATALIE.md and the wotr-write skill",
+        "locus": "Vocabulary and diction",
+        "operation": "adds"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "register",
+      "prose-law",
+      "dialogue"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-26, Claude Code chat: ruled directly (vocabulary questionnaire)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "",
+    "superseded_by": []
+  },
+  {
+    "id": "R51-04-LIST_PSYCH",
+    "pack": "Vocabulary Law 2026-09-26",
+    "pack_number": null,
+    "section": "Vocabulary and diction",
+    "title": "List Psych",
+    "status": "live",
+    "kind": "mandate",
+    "summary": "Modern-word list, psychology: ban only the obvious pop-psych jargon in narration (triggered, toxic, closure, mindset, boundaries); anxiety and stress stay.",
+    "verbatim": "Modern-word list, psychology: ban only the obvious pop-psych jargon in narration (triggered, toxic, closure, mindset, boundaries); anxiety and stress stay.",
+    "amends": [
+      {
+        "guide": "NATALIE.md and the wotr-write skill",
+        "locus": "Vocabulary and diction",
+        "operation": "adds"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "register",
+      "prose-law",
+      "dialogue"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-26, Claude Code chat: ruled directly (vocabulary questionnaire)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "",
+    "superseded_by": []
+  },
+  {
+    "id": "R51-05-LIST_TECH",
+    "pack": "Vocabulary Law 2026-09-26",
+    "pack_number": null,
+    "section": "Vocabulary and diction",
+    "title": "List Tech",
+    "status": "live",
+    "kind": "mandate",
+    "summary": "Technology and office metaphors are legal only if the POV's own culture has the thing: an Accord fitter may think 'on the main', a Kharven hunter may not.",
+    "verbatim": "Technology and office metaphors are legal only if the POV's own culture has the thing: an Accord fitter may think 'on the main', a Kharven hunter may not.",
+    "amends": [
+      {
+        "guide": "NATALIE.md and the wotr-write skill",
+        "locus": "Vocabulary and diction",
+        "operation": "adds"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "register",
+      "prose-law",
+      "dialogue"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-26, Claude Code chat: ruled directly (vocabulary questionnaire)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "",
+    "superseded_by": []
+  },
+  {
+    "id": "R51-06-EARTH_WORDS",
+    "pack": "Vocabulary Law 2026-09-26",
+    "pack_number": null,
+    "section": "Vocabulary and diction",
+    "title": "Earth Words",
+    "status": "live",
+    "kind": "mandate",
+    "summary": "Earth-derived words (herculean, spartan, machiavellian, Achilles heel) are treated like lens names: legal wherever they fit.",
+    "verbatim": "Earth-derived words (herculean, spartan, machiavellian, Achilles heel) are treated like lens names: legal wherever they fit.",
+    "amends": [
+      {
+        "guide": "NATALIE.md and the wotr-write skill",
+        "locus": "Vocabulary and diction",
+        "operation": "adds"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "register",
+      "prose-law",
+      "dialogue"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-26, Claude Code chat: ruled directly (vocabulary questionnaire)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "",
+    "superseded_by": []
+  },
+  {
+    "id": "R51-07-CLOCK_WORDS",
+    "pack": "Vocabulary Law 2026-09-26",
+    "pack_number": null,
+    "section": "Vocabulary and diction",
+    "title": "Clock Words",
+    "status": "live",
+    "kind": "mandate",
+    "summary": "Seconds and minutes are plain English and free everywhere in narration; in-world time units add flavour.",
+    "verbatim": "Seconds and minutes are plain English and free everywhere in narration; in-world time units add flavour.",
+    "amends": [
+      {
+        "guide": "NATALIE.md and the wotr-write skill",
+        "locus": "Vocabulary and diction",
+        "operation": "adds"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "register",
+      "prose-law",
+      "dialogue"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-26, Claude Code chat: ruled directly (vocabulary questionnaire)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "",
+    "superseded_by": []
+  },
+  {
+    "id": "R51-08-CALENDAR",
+    "pack": "Vocabulary Law 2026-09-26",
+    "pack_number": null,
+    "section": "Vocabulary and diction",
+    "title": "Calendar",
+    "status": "live",
+    "kind": "mandate",
+    "summary": "Earth day and month names never appear; 'week' becomes the culture's own span (a turn, a quarter-moon); all go on the list.",
+    "verbatim": "Earth day and month names never appear; 'week' becomes the culture's own span (a turn, a quarter-moon); all go on the list.",
+    "amends": [
+      {
+        "guide": "NATALIE.md and the wotr-write skill",
+        "locus": "Vocabulary and diction",
+        "operation": "adds"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "register",
+      "prose-law",
+      "dialogue"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-26, Claude Code chat: ruled directly (vocabulary questionnaire)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "",
+    "superseded_by": []
+  },
+  {
+    "id": "R51-09-SPEECH_CAP",
+    "pack": "Vocabulary Law 2026-09-26",
+    "pack_number": null,
+    "section": "Vocabulary and diction",
+    "title": "Speech Cap",
+    "status": "live",
+    "kind": "mandate",
+    "summary": "How modern a character's speech runs is set on their card; the default is casual, not current.",
+    "verbatim": "How modern a character's speech runs is set on their card; the default is casual, not current.",
+    "amends": [
+      {
+        "guide": "NATALIE.md and the wotr-write skill",
+        "locus": "Vocabulary and diction",
+        "operation": "adds"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "register",
+      "prose-law",
+      "dialogue"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-26, Claude Code chat: ruled directly (vocabulary questionnaire)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "",
+    "superseded_by": []
+  },
+  {
+    "id": "R51-10-SLOP_WORDS",
+    "pack": "Vocabulary Law 2026-09-26",
+    "pack_number": null,
+    "section": "Vocabulary and diction",
+    "title": "Slop Words",
+    "status": "live",
+    "kind": "mandate",
+    "summary": "A hard-ban list separate from the repetition list: tapestry, testament, palpable, visceral, symphony of, a dance of, whisper of, orbs (eyes), ministrations, electric (touch), velvet (voice), shiver down the spine, a breath he didn't know...",
+    "verbatim": "A hard-ban list separate from the repetition list: tapestry, testament, palpable, visceral, symphony of, a dance of, whisper of, orbs (eyes), ministrations, electric (touch), velvet (voice), shiver down the spine, a breath he didn't know he was holding, the coppery tang of blood, the smell of ozone; each fails the checker at first use, narration and dialogue.",
+    "amends": [
+      {
+        "guide": "NATALIE.md and the wotr-write skill",
+        "locus": "Vocabulary and diction",
+        "operation": "adds"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "register",
+      "prose-law",
+      "dialogue"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-26, Claude Code chat: ruled directly (vocabulary questionnaire)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "",
+    "superseded_by": []
+  },
+  {
+    "id": "R51-11-COLLISIONS",
+    "pack": "Vocabulary Law 2026-09-26",
+    "pack_number": null,
+    "section": "Vocabulary and diction",
+    "title": "Collisions",
+    "status": "live",
+    "kind": "mandate",
+    "summary": "Ordinary words that are also WOTR terms (delve, echo, numinous, sovereign, sanctum, weave, ledger) are used only in their WOTR sense; the plain adjective or verb is banned so the term stays sharp.",
+    "verbatim": "Ordinary words that are also WOTR terms (delve, echo, numinous, sovereign, sanctum, weave, ledger) are used only in their WOTR sense; the plain adjective or verb is banned so the term stays sharp.",
+    "amends": [
+      {
+        "guide": "NATALIE.md and the wotr-write skill",
+        "locus": "Vocabulary and diction",
+        "operation": "adds"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "register",
+      "prose-law",
+      "dialogue"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-26, Claude Code chat: ruled directly (vocabulary questionnaire)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "",
+    "superseded_by": []
+  },
+  {
+    "id": "R51-12-WORD_BANK",
+    "pack": "Vocabulary Law 2026-09-26",
+    "pack_number": null,
+    "section": "Vocabulary and diction",
+    "title": "Word Bank",
+    "status": "live",
+    "kind": "mandate",
+    "summary": "The elevated word bank (eldritch, chthonic, tenebrous, lambent, sepulchral, incarnadine, stygian, empyreal, ineffable) is used freely, by ear.",
+    "verbatim": "The elevated word bank (eldritch, chthonic, tenebrous, lambent, sepulchral, incarnadine, stygian, empyreal, ineffable) is used freely, by ear.",
+    "amends": [
+      {
+        "guide": "NATALIE.md and the wotr-write skill",
+        "locus": "Vocabulary and diction",
+        "operation": "adds"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "register",
+      "prose-law",
+      "dialogue"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-26, Claude Code chat: ruled directly (vocabulary questionnaire)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "",
+    "superseded_by": []
+  },
+  {
+    "id": "R51-13-WORD_STOCK",
+    "pack": "Vocabulary Law 2026-09-26",
+    "pack_number": null,
+    "section": "Vocabulary and diction",
+    "title": "Word Stock",
+    "status": "live",
+    "kind": "mandate",
+    "summary": "Narration's word stock (Old English vs Latinate) is by ear: whatever the sentence needs.",
+    "verbatim": "Narration's word stock (Old English vs Latinate) is by ear: whatever the sentence needs.",
+    "amends": [
+      {
+        "guide": "NATALIE.md and the wotr-write skill",
+        "locus": "Vocabulary and diction",
+        "operation": "adds"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "register",
+      "prose-law",
+      "dialogue"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-26, Claude Code chat: ruled directly (vocabulary questionnaire)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "",
+    "superseded_by": []
+  },
+  {
+    "id": "R51-14-NEW_TERMS",
+    "pack": "Vocabulary Law 2026-09-26",
+    "pack_number": null,
+    "section": "Vocabulary and diction",
+    "title": "New Terms",
+    "status": "live",
+    "kind": "mandate",
+    "summary": "No ceiling on WOTR terms per page; readers learn by immersion.",
+    "verbatim": "No ceiling on WOTR terms per page; readers learn by immersion.",
+    "amends": [
+      {
+        "guide": "NATALIE.md and the wotr-write skill",
+        "locus": "Vocabulary and diction",
+        "operation": "adds"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "register",
+      "prose-law",
+      "dialogue"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-26, Claude Code chat: ruled directly (vocabulary questionnaire)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "",
+    "superseded_by": []
+  },
+  {
+    "id": "R51-15-FIRST_USE",
+    "pack": "Vocabulary Law 2026-09-26",
+    "pack_number": null,
+    "section": "Vocabulary and diction",
+    "title": "First Use",
+    "status": "live",
+    "kind": "mandate",
+    "summary": "New WOTR terms get meaning from context and use only; no appositive gloss (the zero gloss budget stands).",
+    "verbatim": "New WOTR terms get meaning from context and use only; no appositive gloss (the zero gloss budget stands).",
+    "amends": [
+      {
+        "guide": "NATALIE.md and the wotr-write skill",
+        "locus": "Vocabulary and diction",
+        "operation": "adds"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "register",
+      "prose-law",
+      "dialogue"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-26, Claude Code chat: ruled directly (vocabulary questionnaire)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "",
+    "superseded_by": []
+  },
+  {
+    "id": "R51-16-OLD_BANS_FALL",
+    "pack": "Vocabulary Law 2026-09-26",
+    "pack_number": null,
+    "section": "Vocabulary and diction",
+    "title": "Old Bans Fall",
+    "status": "live",
+    "kind": "mandate",
+    "summary": "All older limits on stat names, Sub-Stat names, Guild words and sheet vocabulary in narration fall; they are free in narration.",
+    "verbatim": "All older limits on stat names, Sub-Stat names, Guild words and sheet vocabulary in narration fall; they are free in narration.",
+    "amends": [
+      {
+        "guide": "NATALIE.md and the wotr-write skill",
+        "locus": "Vocabulary and diction",
+        "operation": "replaces"
+      }
+    ],
+    "supersedes": [
+      "R11-2-VOCABULARY_TIERS",
+      "R20C-31-SUBSTAT_NAMES_FACULTY_ONLY",
+      "R5-F-LIGHT_NOVEL_NOT_KEPT"
+    ],
+    "applies_to": [
+      "register",
+      "prose-law",
+      "dialogue"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-26, Claude Code chat: ruled directly (vocabulary questionnaire)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "",
+    "superseded_by": []
+  },
+  {
+    "id": "R51-17-MID_ACTION",
+    "pack": "Vocabulary Law 2026-09-26",
+    "pack_number": null,
+    "section": "Vocabulary and diction",
+    "title": "Mid Action",
+    "status": "live",
+    "kind": "mandate",
+    "summary": "The ban on bare jargon mid-action is lifted: mechanism terms may be bare mid-action; the reader keeps up.",
+    "verbatim": "The ban on bare jargon mid-action is lifted: mechanism terms may be bare mid-action; the reader keeps up.",
+    "amends": [
+      {
+        "guide": "NATALIE.md and the wotr-write skill",
+        "locus": "Vocabulary and diction",
+        "operation": "replaces"
+      }
+    ],
+    "supersedes": [
+      "R13-9-STYLE_DIRECTIVE_MECHANISM_VOCAB"
+    ],
+    "applies_to": [
+      "register",
+      "prose-law",
+      "dialogue"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-26, Claude Code chat: ruled directly (vocabulary questionnaire)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "",
+    "superseded_by": []
+  },
+  {
+    "id": "R51-18-DOUBLET",
+    "pack": "Vocabulary Law 2026-09-26",
+    "pack_number": null,
+    "section": "Vocabulary and diction",
+    "title": "Doublet",
+    "status": "live",
+    "kind": "mandate",
+    "summary": "Narration uses whichever form of a craft term the POV would say: an Engraver's scene says 'the cutting', an Accord examiner's says 'Runecraft'.",
+    "verbatim": "Narration uses whichever form of a craft term the POV would say: an Engraver's scene says 'the cutting', an Accord examiner's says 'Runecraft'.",
+    "amends": [
+      {
+        "guide": "NATALIE.md and the wotr-write skill",
+        "locus": "Vocabulary and diction",
+        "operation": "adds"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "register",
+      "prose-law",
+      "dialogue"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-26, Claude Code chat: ruled directly (vocabulary questionnaire)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "",
+    "superseded_by": []
+  },
+  {
+    "id": "R51-19-ACCORD_LATIN",
+    "pack": "Vocabulary Law 2026-09-26",
+    "pack_number": null,
+    "section": "Vocabulary and diction",
+    "title": "Accord Latin",
+    "status": "live",
+    "kind": "mandate",
+    "summary": "Accord Latin may appear anywhere by ear: speech, narration or documents.",
+    "verbatim": "Accord Latin may appear anywhere by ear: speech, narration or documents.",
+    "amends": [
+      {
+        "guide": "NATALIE.md and the wotr-write skill",
+        "locus": "Vocabulary and diction",
+        "operation": "replaces"
+      }
+    ],
+    "supersedes": [
+      "R9-2-COMMON_TONGUE_LEGAL"
+    ],
+    "applies_to": [
+      "register",
+      "prose-law",
+      "dialogue"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-26, Claude Code chat: ruled directly (vocabulary questionnaire)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "",
+    "superseded_by": []
+  },
+  {
+    "id": "R51-20-KHARVEN_WORDS",
+    "pack": "Vocabulary Law 2026-09-26",
+    "pack_number": null,
+    "section": "Vocabulary and diction",
+    "title": "Kharven Words",
+    "status": "live",
+    "kind": "mandate",
+    "summary": "New Kharven words may be native words, built freely on the Far-Northern sound rules; Kharven speech carries its own words.",
+    "verbatim": "New Kharven words may be native words, built freely on the Far-Northern sound rules; Kharven speech carries its own words.",
+    "amends": [
+      {
+        "guide": "NATALIE.md and the wotr-write skill",
+        "locus": "Vocabulary and diction",
+        "operation": "adds"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "register",
+      "prose-law",
+      "dialogue"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-26, Claude Code chat: ruled directly (vocabulary questionnaire)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "",
+    "superseded_by": []
+  },
+  {
+    "id": "R51-21-MOTO_WORDS",
+    "pack": "Vocabulary Law 2026-09-26",
+    "pack_number": null,
+    "section": "Vocabulary and diction",
+    "title": "Moto Words",
+    "status": "live",
+    "kind": "mandate",
+    "summary": "Moto and other Japonic houses use Japanese honorifics and address forms in speech, in a feudal register, never modern casual.",
+    "verbatim": "Moto and other Japonic houses use Japanese honorifics and address forms in speech, in a feudal register, never modern casual.",
+    "amends": [
+      {
+        "guide": "NATALIE.md and the wotr-write skill",
+        "locus": "Vocabulary and diction",
+        "operation": "adds"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "register",
+      "prose-law",
+      "dialogue"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-26, Claude Code chat: ruled directly (vocabulary questionnaire)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "",
+    "superseded_by": []
+  },
+  {
+    "id": "R51-22-MOTO_VOICE",
+    "pack": "Vocabulary Law 2026-09-26",
+    "pack_number": null,
+    "section": "Vocabulary and diction",
+    "title": "Moto Voice",
+    "status": "live",
+    "kind": "mandate",
+    "summary": "The Moto narration register is drafted by the partner from The Muster's prose and put to Isaac to rule on.",
+    "verbatim": "The Moto narration register is drafted by the partner from The Muster's prose and put to Isaac to rule on.",
+    "amends": [
+      {
+        "guide": "NATALIE.md and the wotr-write skill",
+        "locus": "Vocabulary and diction",
+        "operation": "adds"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "register",
+      "prose-law",
+      "dialogue"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-26, Claude Code chat: ruled directly (vocabulary questionnaire)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "",
+    "superseded_by": []
+  },
+  {
+    "id": "R51-23-DAWI_WORDS",
+    "pack": "Vocabulary Law 2026-09-26",
+    "pack_number": null,
+    "section": "Vocabulary and diction",
+    "title": "Dawi Words",
+    "status": "live",
+    "kind": "mandate",
+    "summary": "Dawi drop into their own tongue freely; context carries it.",
+    "verbatim": "Dawi drop into their own tongue freely; context carries it.",
+    "amends": [
+      {
+        "guide": "NATALIE.md and the wotr-write skill",
+        "locus": "Vocabulary and diction",
+        "operation": "adds"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "register",
+      "prose-law",
+      "dialogue"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-26, Claude Code chat: ruled directly (vocabulary questionnaire)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "",
+    "superseded_by": []
+  },
+  {
+    "id": "R51-24-ELVEN_WORDS",
+    "pack": "Vocabulary Law 2026-09-26",
+    "pack_number": null,
+    "section": "Vocabulary and diction",
+    "title": "Elven Words",
+    "status": "live",
+    "kind": "mandate",
+    "summary": "Elves speak English plus a few Vey-Elarin loanwords for things with no English equivalent, built from the root bank.",
+    "verbatim": "Elves speak English plus a few Vey-Elarin loanwords for things with no English equivalent, built from the root bank.",
+    "amends": [
+      {
+        "guide": "NATALIE.md and the wotr-write skill",
+        "locus": "Vocabulary and diction",
+        "operation": "adds"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "register",
+      "prose-law",
+      "dialogue"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-26, Claude Code chat: ruled directly (vocabulary questionnaire)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "",
+    "superseded_by": []
+  },
+  {
+    "id": "R51-25-BEASTKIN",
+    "pack": "Vocabulary Law 2026-09-26",
+    "pack_number": null,
+    "section": "Vocabulary and diction",
+    "title": "Beastkin",
+    "status": "live",
+    "kind": "mandate",
+    "summary": "Beastkin speak whatever Common their home place speaks; no special word stock.",
+    "verbatim": "Beastkin speak whatever Common their home place speaks; no special word stock.",
+    "amends": [
+      {
+        "guide": "NATALIE.md and the wotr-write skill",
+        "locus": "Vocabulary and diction",
+        "operation": "adds"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "register",
+      "prose-law",
+      "dialogue"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-26, Claude Code chat: ruled directly (vocabulary questionnaire)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "",
+    "superseded_by": []
+  },
+  {
+    "id": "R51-26-CLASS",
+    "pack": "Vocabulary Law 2026-09-26",
+    "pack_number": null,
+    "section": "Vocabulary and diction",
+    "title": "Class",
+    "status": "live",
+    "kind": "mandate",
+    "summary": "Class in diction is set by character only: no class default; each card sets the voice.",
+    "verbatim": "Class in diction is set by character only: no class default; each card sets the voice.",
+    "amends": [
+      {
+        "guide": "NATALIE.md and the wotr-write skill",
+        "locus": "Vocabulary and diction",
+        "operation": "adds"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "register",
+      "prose-law",
+      "dialogue"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-26, Claude Code chat: ruled directly (vocabulary questionnaire)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "",
+    "superseded_by": []
+  },
+  {
+    "id": "R51-27-DIALECT",
+    "pack": "Vocabulary Law 2026-09-26",
+    "pack_number": null,
+    "section": "Vocabulary and diction",
+    "title": "Dialect",
+    "status": "live",
+    "kind": "mandate",
+    "summary": "Any accent may be spelled phonetically, applied evenly including high-born speakers; the wiki's Accent page bar on eye-dialect is superseded.",
+    "verbatim": "Any accent may be spelled phonetically, applied evenly including high-born speakers; the wiki's Accent page bar on eye-dialect is superseded.",
+    "amends": [
+      {
+        "guide": "NATALIE.md and the wotr-write skill",
+        "locus": "Vocabulary and diction",
+        "operation": "adds"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "register",
+      "prose-law",
+      "dialogue"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-26, Claude Code chat: ruled directly (vocabulary questionnaire)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "",
+    "superseded_by": []
+  },
+  {
+    "id": "R51-28-CHANT_PAGE",
+    "pack": "Vocabulary Law 2026-09-26",
+    "pack_number": null,
+    "section": "Vocabulary and diction",
+    "title": "Chant Page",
+    "status": "live",
+    "kind": "mandate",
+    "summary": "A chant appears in its own language; a POV who understands it may think the meaning in his own words.",
+    "verbatim": "A chant appears in its own language; a POV who understands it may think the meaning in his own words.",
+    "amends": [
+      {
+        "guide": "NATALIE.md and the wotr-write skill",
+        "locus": "Vocabulary and diction",
+        "operation": "adds"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "register",
+      "prose-law",
+      "dialogue"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-26, Claude Code chat: ruled directly (vocabulary questionnaire)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "",
+    "superseded_by": []
+  },
+  {
+    "id": "R51-29-SWEARING",
+    "pack": "Vocabulary Law 2026-09-26",
+    "pack_number": null,
+    "section": "Vocabulary and diction",
+    "title": "Swearing",
+    "status": "live",
+    "kind": "mandate",
+    "summary": "Swearing uses both: English swears are fine, and each culture has its own oaths and insults and uses those first.",
+    "verbatim": "Swearing uses both: English swears are fine, and each culture has its own oaths and insults and uses those first.",
+    "amends": [
+      {
+        "guide": "NATALIE.md and the wotr-write skill",
+        "locus": "Vocabulary and diction",
+        "operation": "adds"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "register",
+      "prose-law",
+      "dialogue"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-26, Claude Code chat: ruled directly (vocabulary questionnaire)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "",
+    "superseded_by": []
+  },
+  {
+    "id": "R51-30-HOLY_OATHS",
+    "pack": "Vocabulary Law 2026-09-26",
+    "pack_number": null,
+    "section": "Vocabulary and diction",
+    "title": "Holy Oaths",
+    "status": "live",
+    "kind": "mandate",
+    "summary": "Earth religious swears (God damn it, Christ, go to hell, Jesus) are replaced in-world: characters swear by their own powers ('Archons take it', 'By the Sky').",
+    "verbatim": "Earth religious swears (God damn it, Christ, go to hell, Jesus) are replaced in-world: characters swear by their own powers ('Archons take it', 'By the Sky').",
+    "amends": [
+      {
+        "guide": "NATALIE.md and the wotr-write skill",
+        "locus": "Vocabulary and diction",
+        "operation": "adds"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "register",
+      "prose-law",
+      "dialogue"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-26, Claude Code chat: ruled directly (vocabulary questionnaire)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "",
+    "superseded_by": []
+  },
+  {
+    "id": "R51-31-SENSE_BANK",
+    "pack": "Vocabulary Law 2026-09-26",
+    "pack_number": null,
+    "section": "Vocabulary and diction",
+    "title": "Sense Bank",
+    "status": "live",
+    "kind": "mandate",
+    "summary": "Each culture's Standing Inventory gains a senses entry (smells, sounds, colours, textures); scenes draw from it first.",
+    "verbatim": "Each culture's Standing Inventory gains a senses entry (smells, sounds, colours, textures); scenes draw from it first.",
+    "amends": [
+      {
+        "guide": "NATALIE.md and the wotr-write skill",
+        "locus": "Vocabulary and diction",
+        "operation": "adds"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "register",
+      "prose-law",
+      "dialogue"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-26, Claude Code chat: ruled directly (vocabulary questionnaire)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "",
+    "superseded_by": []
+  },
+  {
+    "id": "R51-32-SMELL_WORDS",
+    "pack": "Vocabulary Law 2026-09-26",
+    "pack_number": null,
+    "section": "Vocabulary and diction",
+    "title": "Smell Words",
+    "status": "live",
+    "kind": "mandate",
+    "summary": "Technical smell words (ozone, sulphur, ammonia) are free for any POV.",
+    "verbatim": "Technical smell words (ozone, sulphur, ammonia) are free for any POV.",
+    "amends": [
+      {
+        "guide": "NATALIE.md and the wotr-write skill",
+        "locus": "Vocabulary and diction",
+        "operation": "adds"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "register",
+      "prose-law",
+      "dialogue"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-26, Claude Code chat: ruled directly (vocabulary questionnaire)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "",
+    "superseded_by": []
+  },
+  {
+    "id": "R51-33-DOC_REGISTER",
+    "pack": "Vocabulary Law 2026-09-26",
+    "pack_number": null,
+    "section": "Vocabulary and diction",
+    "title": "Doc Register",
+    "status": "live",
+    "kind": "mandate",
+    "summary": "In-world documents keep a house style per institution: Accord chancery formal and Latinate, the Dawi Tally terse entries, Moto records in the old register, letters in the writer's voice.",
+    "verbatim": "In-world documents keep a house style per institution: Accord chancery formal and Latinate, the Dawi Tally terse entries, Moto records in the old register, letters in the writer's voice.",
+    "amends": [
+      {
+        "guide": "NATALIE.md and the wotr-write skill",
+        "locus": "Vocabulary and diction",
+        "operation": "adds"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "register",
+      "prose-law",
+      "dialogue"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-26, Claude Code chat: ruled directly (vocabulary questionnaire)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "",
+    "superseded_by": []
+  },
+  {
+    "id": "R51-34-DOC_MODERN",
+    "pack": "Vocabulary Law 2026-09-26",
+    "pack_number": null,
+    "section": "Vocabulary and diction",
+    "title": "Doc Modern",
+    "status": "live",
+    "kind": "mandate",
+    "summary": "The modern-word list applies to in-world documents like narration; documents are timeless and the checker runs the list on them.",
+    "verbatim": "The modern-word list applies to in-world documents like narration; documents are timeless and the checker runs the list on them.",
+    "amends": [
+      {
+        "guide": "NATALIE.md and the wotr-write skill",
+        "locus": "Vocabulary and diction",
+        "operation": "adds"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "register",
+      "prose-law",
+      "dialogue"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-26, Claude Code chat: ruled directly (vocabulary questionnaire)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "",
+    "superseded_by": []
+  },
+  {
+    "id": "R51-35-NEW_SWEARS",
+    "pack": "Vocabulary Law 2026-09-26",
+    "pack_number": null,
+    "section": "Vocabulary and diction",
+    "title": "New Swears",
+    "status": "live",
+    "kind": "mandate",
+    "summary": "A starter set of WOTR-invented swears is drafted per culture (Kharven, Moto, Dawi, Accord, Elven, Zettari) from each culture's gods, weather, work and taboos, for Isaac to approve before they are canon.",
+    "verbatim": "A starter set of WOTR-invented swears is drafted per culture (Kharven, Moto, Dawi, Accord, Elven, Zettari) from each culture's gods, weather, work and taboos, for Isaac to approve before they are canon.",
+    "amends": [
+      {
+        "guide": "NATALIE.md and the wotr-write skill",
+        "locus": "Vocabulary and diction",
+        "operation": "adds"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "register",
+      "prose-law",
+      "dialogue"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-26, Claude Code chat: ruled directly (vocabulary questionnaire)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "",
+    "superseded_by": []
+  },
+  {
+    "id": "R52-01-SAME_MAN",
+    "pack": "Voice Law 2026-09-26",
+    "pack_number": null,
+    "section": "How distinct voices must be",
+    "title": "Same man",
+    "status": "live",
+    "kind": "mandate",
+    "summary": "The quiet, controlled older man is the setting's taste: leave the archetype; the swap test catches clashes scene by scene.",
+    "verbatim": "The quiet, controlled older man is the setting's taste: leave the archetype; the swap test catches clashes scene by scene.",
+    "amends": [
+      {
+        "guide": "Character cards, NATALIE.md and the wotr-npc skill",
+        "locus": "How distinct voices must be",
+        "operation": "adds"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "dialogue",
+      "character-sheet",
+      "pov"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-26, Claude Code chat: ruled directly (voices questionnaire)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "Question c01: Six of the most-used men share one voice: quiet, controlled, never raises it, the silence is the verdict. Sodoku (silences that count), Muken (speaks rarely and finally), Lambert (has not raised his v",
+    "superseded_by": []
+  },
+  {
+    "id": "R52-02-VOICE_LEVER",
+    "pack": "Voice Law 2026-09-26",
+    "pack_number": null,
+    "section": "How distinct voices must be",
+    "title": "Voice lever",
+    "status": "live",
+    "kind": "mandate",
+    "summary": "A voice is mind and sound in equal measure: what they notice, want, refuse and how they reason, plus an audible layer (sentence length, contractions, a pet word, pace, dialect).",
+    "verbatim": "A voice is mind and sound in equal measure: what they notice, want, refuse and how they reason, plus an audible layer (sentence length, contractions, a pet word, pace, dialect).",
+    "amends": [
+      {
+        "guide": "Character cards, NATALIE.md and the wotr-npc skill",
+        "locus": "How distinct voices must be",
+        "operation": "adds"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "dialogue",
+      "character-sheet",
+      "pov"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-26, Claude Code chat: ruled directly (voices questionnaire)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "Question c02: What mostly makes a voice? The live rule says what a person notices, wants and refuses, not vocabulary fences. But the newer rules put the sound back: magic is talked about by training (a Measurewrigh",
+    "superseded_by": []
+  },
+  {
+    "id": "R52-03-VOICE_BLOCK",
+    "pack": "Voice Law 2026-09-26",
+    "pack_number": null,
+    "section": "How distinct voices must be",
+    "title": "Voice block",
+    "status": "live",
+    "kind": "mandate",
+    "summary": "Every major card carries a full voice block with fixed slots: notices first, sentence length, contractions, pet word, never says, stumbles or not, gloss rights, stress shift, grief shift, joy shift, one sample line.",
+    "verbatim": "Every major card carries a full voice block with fixed slots: notices first, sentence length, contractions, pet word, never says, stumbles or not, gloss rights, stress shift, grief shift, joy shift, one sample line.",
+    "amends": [
+      {
+        "guide": "Character cards, NATALIE.md and the wotr-npc skill",
+        "locus": "How distinct voices must be",
+        "operation": "adds"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "dialogue",
+      "character-sheet",
+      "pov"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-26, Claude Code chat: ruled directly (voices questionnaire)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "Question c03: Voices sit on the cards in any shape: Lambert has a page-long essay, Kwon a table row, Kujo and Ilthara have no card voice at all. Disfluency and gloss rights are already card fields. Should every maj",
+    "superseded_by": []
+  },
+  {
+    "id": "R52-04-CONTRACTIONS",
+    "pack": "Voice Law 2026-09-26",
+    "pack_number": null,
+    "section": "How distinct voices must be",
+    "title": "Contractions",
+    "status": "live",
+    "kind": "mandate",
+    "summary": "Contractions are set per character on the card: always, sometimes or never; most sometimes, a few never on purpose.",
+    "verbatim": "Contractions are set per character on the card: always, sometimes or never; most sometimes, a few never on purpose.",
+    "amends": [
+      {
+        "guide": "Character cards, NATALIE.md and the wotr-npc skill",
+        "locus": "How distinct voices must be",
+        "operation": "adds"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "dialogue",
+      "character-sheet",
+      "pov"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-26, Claude Code chat: ruled directly (voices questionnaire)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "Question c04: Almost the whole serious cast never contracts: Verinus, Kujo, Lambert, Hild, Charles, Wren, Borin, Ayame all at zero; Sodoku and Darius nearly zero. Only Gimbzo, Cozbi, Rengai and Hiromi say \"don't\" a",
+    "superseded_by": []
+  },
+  {
+    "id": "R52-05-COUNTING",
+    "pack": "Voice Law 2026-09-26",
+    "pack_number": null,
+    "section": "How distinct voices must be",
+    "title": "Counting",
+    "status": "live",
+    "kind": "mandate",
+    "summary": "Exact-number speech belongs to its owners: Lambert, the Measurewrights, clerks and anyone reading an instrument count; everyone else rounds, guesses or doesn't count.",
+    "verbatim": "Exact-number speech belongs to its owners: Lambert, the Measurewrights, clerks and anyone reading an instrument count; everyone else rounds, guesses or doesn't count.",
+    "amends": [
+      {
+        "guide": "Character cards, NATALIE.md and the wotr-npc skill",
+        "locus": "How distinct voices must be",
+        "operation": "adds"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "dialogue",
+      "character-sheet",
+      "pov"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-26, Claude Code chat: ruled directly (voices questionnaire)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "Question c05: Many mouths count out loud: Lambert's eleven years, Sesk's five hundred and ninety-one, Maren's count in the yard, Verinus counting the dead back, Ilthara's eleven months and eleven counts. \"Eleven\" i",
+    "superseded_by": []
+  },
+  {
+    "id": "R52-06-TRIADS",
+    "pack": "Voice Law 2026-09-26",
+    "pack_number": null,
+    "section": "How distinct voices must be",
+    "title": "Triads",
+    "status": "live",
+    "kind": "mandate",
+    "summary": "Triads and parallel clauses are legal in any mouth, under duress included; the composure check drops them.",
+    "verbatim": "Triads and parallel clauses are legal in any mouth, under duress included; the composure check drops them.",
+    "amends": [
+      {
+        "guide": "Character cards, NATALIE.md and the wotr-npc skill",
+        "locus": "How distinct voices must be",
+        "operation": "adds"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "dialogue",
+      "character-sheet",
+      "pov"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-26, Claude Code chat: ruled directly (voices questionnaire)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "Question c06: Two rules clash in dialogue. Anaphora and the triad are now legal everywhere. The speech rules still ban parallel clauses and three-part lists under duress, and even a crafted speech must avoid balanc",
+    "superseded_by": []
+  },
+  {
+    "id": "R52-07-SWAP_CHECK",
+    "pack": "Voice Law 2026-09-26",
+    "pack_number": null,
+    "section": "How distinct voices must be",
+    "title": "Swap check",
+    "status": "live",
+    "kind": "mandate",
+    "summary": "The speaker-swap measurement is for reading only: no numbers in the checker; cover the tags and sort by ear.",
+    "verbatim": "The speaker-swap measurement is for reading only: no numbers in the checker; cover the tags and sort by ear.",
+    "amends": [
+      {
+        "guide": "Character cards, NATALIE.md and the wotr-npc skill",
+        "locus": "How distinct voices must be",
+        "operation": "adds"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "dialogue",
+      "character-sheet",
+      "pov"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-26, Claude Code chat: ruled directly (voices questionnaire)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "Question c07: Dialogue is now mostly untagged, so the tags-covered sort test carries the weight. There is a measurement too: the fingerprint report scores how swappable two speakers are (Hild/Darius 0.07, Muken/Kuj",
+    "superseded_by": []
+  },
+  {
+    "id": "R52-08-PC_IDIOM",
+    "pack": "Voice Law 2026-09-26",
+    "pack_number": null,
+    "section": "Isaac's own characters",
+    "title": "PC idiom",
+    "status": "live",
+    "kind": "mandate",
+    "summary": "When Isaac's play and a card disagree, his play wins: his character's thoughts sound like the man he actually plays, and the card is updated to match.",
+    "verbatim": "When Isaac's play and a card disagree, his play wins: his character's thoughts sound like the man he actually plays, and the card is updated to match.",
+    "amends": [
+      {
+        "guide": "Character cards, NATALIE.md and the wotr-npc skill",
+        "locus": "Isaac's own characters",
+        "operation": "adds"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "dialogue",
+      "character-sheet",
+      "pov"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-26, Claude Code chat: ruled directly (voices questionnaire)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "Question c08: In roleplay the narration may go deep inside your character, and you overrule any thought that isn't his. When your play and the card disagree, whose voice do his thoughts use? Example: Sodoku's card ",
+    "superseded_by": []
+  },
+  {
+    "id": "R52-09-NO_LINE",
+    "pack": "Voice Law 2026-09-26",
+    "pack_number": null,
+    "section": "Isaac's own characters",
+    "title": "No line",
+    "status": "live",
+    "kind": "mandate",
+    "summary": "When Isaac gives a wordless beat in a written scene, the partner writes the line in his character's voice, marked as a draft for him to keep, change or cut.",
+    "verbatim": "When Isaac gives a wordless beat in a written scene, the partner writes the line in his character's voice, marked as a draft for him to keep, change or cut.",
+    "amends": [
+      {
+        "guide": "Character cards, NATALIE.md and the wotr-npc skill",
+        "locus": "Isaac's own characters",
+        "operation": "adds"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "dialogue",
+      "character-sheet",
+      "pov"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-26, Claude Code chat: ruled directly (voices questionnaire)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "Question c09: In a written scene (not a roleplay turn) you give a beat without words: \"Sodoku tells Osric the road is closed.\" May the partner write the words he says?",
+    "superseded_by": []
+  },
+  {
+    "id": "R52-10-CROSSOVER",
+    "pack": "Voice Law 2026-09-26",
+    "pack_number": null,
+    "section": "Isaac's own characters",
+    "title": "Crossover",
+    "status": "live",
+    "kind": "mandate",
+    "summary": "Isaac's POV characters are always his: when one walks into another's thread, the partner leaves their lines and choices open.",
+    "verbatim": "Isaac's POV characters are always his: when one walks into another's thread, the partner leaves their lines and choices open.",
+    "amends": [
+      {
+        "guide": "Character cards, NATALIE.md and the wotr-npc skill",
+        "locus": "Isaac's own characters",
+        "operation": "adds"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "dialogue",
+      "character-sheet",
+      "pov"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-26, Claude Code chat: ruled directly (voices questionnaire)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "Question c10: You play several points of view: Sodoku (Kharven), Hild (Kharven-Seat), Kwon (Hon-guk), Ilthara (New World). When one of them walks into another's thread (Sodoku in a Hild scene), who speaks for him?",
+    "superseded_by": []
+  },
+  {
+    "id": "R52-11-ILTHARA",
+    "pack": "Voice Law 2026-09-26",
+    "pack_number": null,
+    "section": "Isaac's own characters",
+    "title": "Ilthara",
+    "status": "live",
+    "kind": "mandate",
+    "summary": "The partner drafts a voice block for Ilthara Korvaeth from her scenes and Isaac's lines, for him to approve.",
+    "verbatim": "The partner drafts a voice block for Ilthara Korvaeth from her scenes and Isaac's lines, for him to approve.",
+    "amends": [
+      {
+        "guide": "Character cards, NATALIE.md and the wotr-npc skill",
+        "locus": "Isaac's own characters",
+        "operation": "adds"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "dialogue",
+      "character-sheet",
+      "pov"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-26, Claude Code chat: ruled directly (voices questionnaire)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "Question c11: Ilthara Korvaeth is your New World point of view with 31 scenes and no character card, so there's no written voice for her. Her voice lives only in the arc file (the Mad Queen since twenty-six, the th",
+    "superseded_by": []
+  },
+  {
+    "id": "R52-12-HANDBACK",
+    "pack": "Voice Law 2026-09-26",
+    "pack_number": null,
+    "section": "Isaac's own characters",
+    "title": "Handback",
+    "status": "live",
+    "kind": "mandate",
+    "summary": "When Isaac hands an NPC's voice back, his version sticks: the partner carries on in it and updates the NPC's roster voice.",
+    "verbatim": "When Isaac hands an NPC's voice back, his version sticks: the partner carries on in it and updates the NPC's roster voice.",
+    "amends": [
+      {
+        "guide": "Character cards, NATALIE.md and the wotr-npc skill",
+        "locus": "Isaac's own characters",
+        "operation": "adds"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "dialogue",
+      "character-sheet",
+      "pov"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-26, Claude Code chat: ruled directly (voices questionnaire)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "Question c12: You can take over any NPC's voice by saying so, and the partner hands it back after. When you hand the voice back, does the way you played it stick?",
+    "superseded_by": []
+  },
+  {
+    "id": "R52-13-SODOKU_TALK",
+    "pack": "Voice Law 2026-09-26",
+    "pack_number": null,
+    "section": "The major cast, one by one",
+    "title": "Sodoku talk",
+    "status": "live",
+    "kind": "mandate",
+    "summary": "Sodoku talks as played: full, formal sentences, no contractions, no small talk; the card changes to say so.",
+    "verbatim": "Sodoku talks as played: full, formal sentences, no contractions, no small talk; the card changes to say so.",
+    "amends": [
+      {
+        "guide": "Character cards, NATALIE.md and the wotr-npc skill",
+        "locus": "The major cast, one by one",
+        "operation": "adds"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "dialogue",
+      "character-sheet",
+      "pov"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-26, Claude Code chat: ruled directly (voices questionnaire)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "Question c13: Sodoku: the card says \"says little, already ranked before it leaves him\", but his lines average about 25 words, more than Hild or Darius. How much does he talk?",
+    "superseded_by": []
+  },
+  {
+    "id": "R52-14-SODOKU_JOKE",
+    "pack": "Voice Law 2026-09-26",
+    "pack_number": null,
+    "section": "The major cast, one by one",
+    "title": "Sodoku joke",
+    "status": "live",
+    "kind": "mandate",
+    "summary": "Sodoku makes jokes only by accident: he never means one; sometimes a flat truth lands as a joke and he doesn't notice.",
+    "verbatim": "Sodoku makes jokes only by accident: he never means one; sometimes a flat truth lands as a joke and he doesn't notice.",
+    "amends": [
+      {
+        "guide": "Character cards, NATALIE.md and the wotr-npc skill",
+        "locus": "The major cast, one by one",
+        "operation": "replaces"
+      }
+    ],
+    "supersedes": [
+      "R5-D-HUMOUR_CASTING"
+    ],
+    "applies_to": [
+      "dialogue",
+      "character-sheet",
+      "pov"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-26, Claude Code chat: ruled directly (voices questionnaire)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "Question c14: An older rule says Sodoku does not make jokes and should not start. The newer humour rule says funny characters are funny often and tone flexes with the cast. Does Sodoku ever make a joke?",
+    "superseded_by": []
+  },
+  {
+    "id": "R52-15-HILD",
+    "pack": "Voice Law 2026-09-26",
+    "pack_number": null,
+    "section": "The major cast, one by one",
+    "title": "Hild",
+    "status": "live",
+    "kind": "mandate",
+    "summary": "Hild sounds eleven because the child leaks: her syntax slips, a sentence started too big and not finished, a wrong word, a question that gets out in public.",
+    "verbatim": "Hild sounds eleven because the child leaks: her syntax slips, a sentence started too big and not finished, a wrong word, a question that gets out in public.",
+    "amends": [
+      {
+        "guide": "Character cards, NATALIE.md and the wotr-npc skill",
+        "locus": "The major cast, one by one",
+        "operation": "adds"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "dialogue",
+      "character-sheet",
+      "pov"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-26, Claude Code chat: ruled directly (voices questionnaire)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "Question c15: Hild: the card says short declaratives, no questions in public, a child's voice under her father's cadence. On the page her lines average about 21 words with rehearsed triads, and her fingerprint is t",
+    "superseded_by": []
+  },
+  {
+    "id": "R52-16-LAMBERT",
+    "pack": "Voice Law 2026-09-26",
+    "pack_number": null,
+    "section": "The major cast, one by one",
+    "title": "Lambert",
+    "status": "live",
+    "kind": "mandate",
+    "summary": "When Lambert is shaken he counts out loud: he falls into inventory (numbers, stores, names) where a man would say what he feels.",
+    "verbatim": "When Lambert is shaken he counts out loud: he falls into inventory (numbers, stores, names) where a man would say what he feels.",
+    "amends": [
+      {
+        "guide": "Character cards, NATALIE.md and the wotr-npc skill",
+        "locus": "The major cast, one by one",
+        "operation": "adds"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "dialogue",
+      "character-sheet",
+      "pov"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-26, Claude Code chat: ruled directly (voices questionnaire)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "Question c16: Lambert: his words come at a pace that never varies, and he has not raised his voice since the three days after Kasumi. His one listed tell is the thumb counting against his finger. When he is shaken,",
+    "superseded_by": []
+  },
+  {
+    "id": "R52-17-DARIUS",
+    "pack": "Voice Law 2026-09-26",
+    "pack_number": null,
+    "section": "The major cast, one by one",
+    "title": "Darius",
+    "status": "live",
+    "kind": "mandate",
+    "summary": "Darius is the one who argues: he disputes to your face in reasoned argument while the other quiet men withhold.",
+    "verbatim": "Darius is the one who argues: he disputes to your face in reasoned argument while the other quiet men withhold.",
+    "amends": [
+      {
+        "guide": "Character cards, NATALIE.md and the wotr-npc skill",
+        "locus": "The major cast, one by one",
+        "operation": "adds"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "dialogue",
+      "character-sheet",
+      "pov"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-26, Claude Code chat: ruled directly (voices questionnaire)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "Question c17: Darius: his card says declarative, formal, unhedged, no questions in company; his scenes say his voice goes flat and precise when he's frightened, and tribunals take it for composure. He runs deep (ba",
+    "superseded_by": []
+  },
+  {
+    "id": "R52-18-GIMBZO",
+    "pack": "Voice Law 2026-09-26",
+    "pack_number": null,
+    "section": "The major cast, one by one",
+    "title": "Gimbzo",
+    "status": "live",
+    "kind": "mandate",
+    "summary": "Gimbzo is a loose talker: an easy, rambling old master who goes silent only on what matters; the card changes to match the scenes.",
+    "verbatim": "Gimbzo is a loose talker: an easy, rambling old master who goes silent only on what matters; the card changes to match the scenes.",
+    "amends": [
+      {
+        "guide": "Character cards, NATALIE.md and the wotr-npc skill",
+        "locus": "The major cast, one by one",
+        "operation": "adds"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "dialogue",
+      "character-sheet",
+      "pov"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-26, Claude Code chat: ruled directly (voices questionnaire)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "Question c18: Gimbzo: the card makes him sparse (one sentence on the Fist of God, then never another; \"He is still working\"). His scene lines are the chattiest in the whole cast: about 35 words, mostly contracted (",
+    "superseded_by": []
+  },
+  {
+    "id": "R52-19-VERINUS",
+    "pack": "Voice Law 2026-09-26",
+    "pack_number": null,
+    "section": "The major cast, one by one",
+    "title": "Verinus",
+    "status": "live",
+    "kind": "mandate",
+    "summary": "Verinus is a speech-maker: his card is rewritten to match the scenes.",
+    "verbatim": "Verinus is a speech-maker: his card is rewritten to match the scenes.",
+    "amends": [
+      {
+        "guide": "Character cards, NATALIE.md and the wotr-npc skill",
+        "locus": "The major cast, one by one",
+        "operation": "adds"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "dialogue",
+      "character-sheet",
+      "pov"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-26, Claude Code chat: ruled directly (voices questionnaire)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "Question c19: Verinus: the card says short sentences and frequent questions he doesn't then answer. His lines average about 28 words and almost never ask anything, and a ruling says his register carries set-piece s",
+    "superseded_by": []
+  },
+  {
+    "id": "R52-20-AURELIAN",
+    "pack": "Voice Law 2026-09-26",
+    "pack_number": null,
+    "section": "The major cast, one by one",
+    "title": "Aurelian",
+    "status": "live",
+    "kind": "mandate",
+    "summary": "Aurelian's Sum-gol shows in the words (the dropped copula written into the line, narration marking the rising pitch), under strain and also whenever he is with Mahuo kin or anyone from Sum-gol.",
+    "verbatim": "Aurelian's Sum-gol shows in the words (the dropped copula written into the line, narration marking the rising pitch), under strain and also whenever he is with Mahuo kin or anyone from Sum-gol.",
+    "amends": [
+      {
+        "guide": "Character cards, NATALIE.md and the wotr-npc skill",
+        "locus": "The major cast, one by one",
+        "operation": "adds"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "dialogue",
+      "character-sheet",
+      "pov"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-26, Claude Code chat: ruled directly (voices questionnaire)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "Question c20: Aurelian: acquired Concordia formality over a Sum-gol childhood that shows under strain. He drops the copula (\"is\") in short assertions and his sentences rise at the end and never close. How does that",
+    "superseded_by": []
+  },
+  {
+    "id": "R52-21-KWON",
+    "pack": "Voice Law 2026-09-26",
+    "pack_number": null,
+    "section": "The major cast, one by one",
+    "title": "Kwon",
+    "status": "live",
+    "kind": "mandate",
+    "summary": "Kwon Mu-jin never uses his rank or the old court honorifics to win an argument, even when it would work.",
+    "verbatim": "Kwon Mu-jin never uses his rank or the old court honorifics to win an argument, even when it would work.",
+    "amends": [
+      {
+        "guide": "Character cards, NATALIE.md and the wotr-npc skill",
+        "locus": "The major cast, one by one",
+        "operation": "adds"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "dialogue",
+      "character-sheet",
+      "pov"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-26, Claude Code chat: ruled directly (voices questionnaire)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "Question c21: Kwon Mu-jin: formally precise, explains before he's asked, apologises for explaining. The card doesn't say what he refuses to say, and that's the other half of a voice. Which fits?",
+    "superseded_by": []
+  },
+  {
+    "id": "R52-22-YOKO",
+    "pack": "Voice Law 2026-09-26",
+    "pack_number": null,
+    "section": "The major cast, one by one",
+    "title": "Yoko",
+    "status": "live",
+    "kind": "mandate",
+    "summary": "Yoko is precise and spare at work; at home with Sodoku and family she runs long and personal.",
+    "verbatim": "Yoko is precise and spare at work; at home with Sodoku and family she runs long and personal.",
+    "amends": [
+      {
+        "guide": "Character cards, NATALIE.md and the wotr-npc skill",
+        "locus": "The major cast, one by one",
+        "operation": "adds"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "dialogue",
+      "character-sheet",
+      "pov"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-26, Claude Code chat: ruled directly (voices questionnaire)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "Question c22: Yoko: \"exactly what is accurate and nothing more\", funny through what she declines to say. On the page her lines average about 23 words, and she says \"I\" more than anyone else in the cast (two lines i",
+    "superseded_by": []
+  },
+  {
+    "id": "R52-23-MAHUO_WE",
+    "pack": "Voice Law 2026-09-26",
+    "pack_number": null,
+    "section": "The major cast, one by one",
+    "title": "Mahuo 'we'",
+    "status": "live",
+    "kind": "mandate",
+    "summary": "The plural 'we' under strain is a family tell: every Mahuo slips into it under strain, Aurelian included.",
+    "verbatim": "The plural 'we' under strain is a family tell: every Mahuo slips into it under strain, Aurelian included.",
+    "amends": [
+      {
+        "guide": "Character cards, NATALIE.md and the wotr-npc skill",
+        "locus": "The major cast, one by one",
+        "operation": "adds"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "dialogue",
+      "character-sheet",
+      "pov"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-26, Claude Code chat: ruled directly (voices questionnaire)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "Question c23: Cozbi's card gives him \"occasional plural self-reference under strain, per Mahuo pattern\": he says \"we\" for himself. Aurelian, Ara Min, Hiromi and Geturo are Mahuo too, and none of them do it. Cozbi's",
+    "superseded_by": []
+  },
+  {
+    "id": "R52-24-KUJO",
+    "pack": "Voice Law 2026-09-26",
+    "pack_number": null,
+    "section": "The major cast, one by one",
+    "title": "Kujo",
+    "status": "live",
+    "kind": "mandate",
+    "summary": "Kujo's voice is left to his arc: no card work now; the likeness to Muken is fixed only when a scene puts them together.",
+    "verbatim": "Kujo's voice is left to his arc: no card work now; the likeness to Muken is fixed only when a scene puts them together.",
+    "amends": [
+      {
+        "guide": "Character cards, NATALIE.md and the wotr-npc skill",
+        "locus": "The major cast, one by one",
+        "operation": "adds"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "dialogue",
+      "character-sheet",
+      "pov"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-26, Claude Code chat: ruled directly (voices questionnaire)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "Question c24: Kujo: 34 scenes and 121 lines, but no card, so no written voice. His fingerprint is almost the same as Muken's (0.08) and close to Sonzai's and Aurelian's. His favourite words are \"nihil\", \"understand",
+    "superseded_by": []
+  },
+  {
+    "id": "R52-25-STRESS_RULE",
+    "pack": "Voice Law 2026-09-26",
+    "pack_number": null,
+    "section": "Stress, grief and joy",
+    "title": "Stress rule",
+    "status": "live",
+    "kind": "mandate",
+    "summary": "For named humans under stress, both apply at once: the shortening happens and the card's stress tell rides on it (Kwon over-explains in short broken bursts; Cozbi's short lines come fast).",
+    "verbatim": "For named humans under stress, both apply at once: the shortening happens and the card's stress tell rides on it (Kwon over-explains in short broken bursts; Cozbi's short lines come fast).",
+    "amends": [
+      {
+        "guide": "Character cards, NATALIE.md and the wotr-npc skill",
+        "locus": "Stress, grief and joy",
+        "operation": "adds"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "dialogue",
+      "character-sheet",
+      "pov"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-26, Claude Code chat: ruled directly (voices questionnaire)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "Question c25: The live rule says human speech under stress gets shorter and simpler, the same way in everyone. Several cards say the opposite: Kwon over-explains, Cozbi speeds up, Yoko gets more precise, Darius goe",
+    "superseded_by": []
+  },
+  {
+    "id": "R52-26-GRIEF",
+    "pack": "Voice Law 2026-09-26",
+    "pack_number": null,
+    "section": "Stress, grief and joy",
+    "title": "Grief",
+    "status": "live",
+    "kind": "mandate",
+    "summary": "Grief takes a voice back to its root: polish falls away and the childhood voice returns (Aurelian's Sum-gol, Verinus's coastal cadence, Hild's child).",
+    "verbatim": "Grief takes a voice back to its root: polish falls away and the childhood voice returns (Aurelian's Sum-gol, Verinus's coastal cadence, Hild's child).",
+    "amends": [
+      {
+        "guide": "Character cards, NATALIE.md and the wotr-npc skill",
+        "locus": "Stress, grief and joy",
+        "operation": "adds"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "dialogue",
+      "character-sheet",
+      "pov"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-26, Claude Code chat: ruled directly (voices questionnaire)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "Question c26: Nothing decides how grief changes a voice, as distinct from stress. Examples on the page: Verinus counting the dead back aloud, Lambert's three days behind a closed door, Hild smaller and asking quest",
+    "superseded_by": []
+  },
+  {
+    "id": "R52-27-JOY",
+    "pack": "Voice Law 2026-09-26",
+    "pack_number": null,
+    "section": "Stress, grief and joy",
+    "title": "Joy",
+    "status": "live",
+    "kind": "mandate",
+    "summary": "Joy in a guarded voice: the speech holds; the joy shows in hands, face and breath.",
+    "verbatim": "Joy in a guarded voice: the speech holds; the joy shows in hands, face and breath.",
+    "amends": [
+      {
+        "guide": "Character cards, NATALIE.md and the wotr-npc skill",
+        "locus": "Stress, grief and joy",
+        "operation": "adds"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "dialogue",
+      "character-sheet",
+      "pov"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-26, Claude Code chat: ruled directly (voices questionnaire)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "Question c27: The cast is guarded, and nothing says what a guarded voice sounds like when it's happy. What's the default?",
+    "superseded_by": []
+  },
+  {
+    "id": "R52-28-COMPOSURE",
+    "pack": "Voice Law 2026-09-26",
+    "pack_number": null,
+    "section": "Stress, grief and joy",
+    "title": "Composure",
+    "status": "live",
+    "kind": "mandate",
+    "summary": "For people trained into calm, composure is free; it costs, visibly, only when it is a real strain.",
+    "verbatim": "For people trained into calm, composure is free; it costs, visibly, only when it is a real strain.",
+    "amends": [
+      {
+        "guide": "Character cards, NATALIE.md and the wotr-npc skill",
+        "locus": "Stress, grief and joy",
+        "operation": "replaces"
+      }
+    ],
+    "supersedes": [
+      "R19-4-COMPOSURE_COST"
+    ],
+    "applies_to": [
+      "dialogue",
+      "character-sheet",
+      "pov"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-26, Claude Code chat: ruled directly (voices questionnaire)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "Question c28: The live rule says staying composed under stress is an expensive discipline, and the scene must show the price. Much of the cast is composed by nature (Lambert's evenness \"is architecture\", the Eladri",
+    "superseded_by": []
+  },
+  {
+    "id": "R52-29-NPC_RECIPE",
+    "pack": "Voice Law 2026-09-26",
+    "pack_number": null,
+    "section": "NPC voices the partner builds",
+    "title": "NPC recipe",
+    "status": "live",
+    "kind": "mandate",
+    "summary": "Each NPC's voice starts from a researched real-world speaker type (a customs clerk's forms, a field surgeon's triage talk, a drover's calls), credited in the notes.",
+    "verbatim": "Each NPC's voice starts from a researched real-world speaker type (a customs clerk's forms, a field surgeon's triage talk, a drover's calls), credited in the notes.",
+    "amends": [
+      {
+        "guide": "Character cards, NATALIE.md and the wotr-npc skill",
+        "locus": "NPC voices the partner builds",
+        "operation": "adds"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "dialogue",
+      "character-sheet",
+      "pov"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-26, Claude Code chat: ruled directly (voices questionnaire)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "Question c29: The NPC builder's voice slot is: what they notice first, sentence length, one discourse marker, one Inventory saying, what they never say, gloss rights. Your brief lets the partner draw on real-world ",
+    "superseded_by": []
+  },
+  {
+    "id": "R52-30-PROVERBS",
+    "pack": "Voice Law 2026-09-26",
+    "pack_number": null,
+    "section": "NPC voices the partner builds",
+    "title": "Proverbs",
+    "status": "live",
+    "kind": "mandate",
+    "summary": "Every NPC carries one fixed saying from the Standing Inventory; the sayings are the culture's texture.",
+    "verbatim": "Every NPC carries one fixed saying from the Standing Inventory; the sayings are the culture's texture.",
+    "amends": [
+      {
+        "guide": "Character cards, NATALIE.md and the wotr-npc skill",
+        "locus": "NPC voices the partner builds",
+        "operation": "adds"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "dialogue",
+      "character-sheet",
+      "pov"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-26, Claude Code chat: ruled directly (voices questionnaire)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "Question c30: The NPC builder gives every NPC one fixed saying from the Standing Inventory, and Kharven scenes need at least two Inventory recurrences each. Proverbs pile up in every mouth. Should every NPC carry o",
+    "superseded_by": []
+  },
+  {
+    "id": "R52-31-COMIC_NPC",
+    "pack": "Voice Law 2026-09-26",
+    "pack_number": null,
+    "section": "NPC voices the partner builds",
+    "title": "Comic NPC",
+    "status": "live",
+    "kind": "mandate",
+    "summary": "The partner may invent a comic minor NPC as a comic voice from the start, with no setup-deadpan-reaction beat; the funeral test no longer binds NPC building.",
+    "verbatim": "The partner may invent a comic minor NPC as a comic voice from the start, with no setup-deadpan-reaction beat; the funeral test no longer binds NPC building.",
+    "amends": [
+      {
+        "guide": "Character cards, NATALIE.md and the wotr-npc skill",
+        "locus": "NPC voices the partner builds",
+        "operation": "adds"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "dialogue",
+      "character-sheet",
+      "pov"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-26, Claude Code chat: ruled directly (voices questionnaire)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "Question c31: The funeral test is dropped for characters whose humour is their voice. The NPC builder still says a minor NPC is funny only if the funeral test passes. Can the partner invent a comic minor NPC?",
+    "superseded_by": []
+  },
+  {
+    "id": "R52-32-ROOM_CAST",
+    "pack": "Voice Law 2026-09-26",
+    "pack_number": null,
+    "section": "NPC voices the partner builds",
+    "title": "Room cast",
+    "status": "live",
+    "kind": "mandate",
+    "summary": "Room casting is by ear: the partner casts for the scene and fixes voice likeness only when the swap test fails.",
+    "verbatim": "Room casting is by ear: the partner casts for the scene and fixes voice likeness only when the swap test fails.",
+    "amends": [
+      {
+        "guide": "Character cards, NATALIE.md and the wotr-npc skill",
+        "locus": "NPC voices the partner builds",
+        "operation": "adds"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "dialogue",
+      "character-sheet",
+      "pov"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-26, Claude Code chat: ruled directly (voices questionnaire)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "Question c32: When the partner fills a room with NPCs, should their voices be chosen to contrast with each other and with your character? Example: never two quiet, clipped men beside Sodoku, and at least one talker",
+    "superseded_by": []
+  },
+  {
+    "id": "R53-01-IMPERIAL_AGE_SPAN",
+    "pack": "World Texture Law 2026-09-26",
+    "pack_number": null,
+    "section": "World texture",
+    "title": "Imperial Age Span",
+    "status": "live",
+    "kind": "mandate",
+    "summary": "The Imperial Age runs from the 1800s into the middle of the 1900s, and the technology of that whole span exists across it; the no-rail, no-photography, wire-only limits are superseded. (Isaac: \"The imperial age goes from the 1800 into th...",
+    "verbatim": "The Imperial Age runs from the 1800s into the middle of the 1900s, and the technology of that whole span exists across it; the no-rail, no-photography, wire-only limits are superseded. (Isaac: \"The imperial age goes from the 1800 into the middle part of the 1900s it should be known that due to how long it is\".)",
+    "amends": [
+      {
+        "guide": "Standing Inventories, NATALIE.md and the wotr-write skill",
+        "locus": "World texture",
+        "operation": "replaces"
+      }
+    ],
+    "supersedes": [
+      "R20C-19-TECH_CEILING_PRINT_TELEGRAPH_NO_RAIL"
+    ],
+    "applies_to": [
+      "worldbuilding",
+      "standing-inventory"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-26, Claude Code chat: ruled directly (world-texture questionnaire)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "",
+    "superseded_by": []
+  },
+  {
+    "id": "R53-02-POOR_FIRES",
+    "pack": "World Texture Law 2026-09-26",
+    "pack_number": null,
+    "section": "World texture",
+    "title": "Poor Fires",
+    "status": "live",
+    "kind": "mandate",
+    "summary": "A city's poor edge burns oil, tallow, peat and dung in small fires; rich districts are clean and humming; no factory chimneys.",
+    "verbatim": "A city's poor edge burns oil, tallow, peat and dung in small fires; rich districts are clean and humming; no factory chimneys.",
+    "amends": [
+      {
+        "guide": "Standing Inventories, NATALIE.md and the wotr-write skill",
+        "locus": "World texture",
+        "operation": "adds"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "worldbuilding",
+      "standing-inventory"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-26, Claude Code chat: ruled directly (world-texture questionnaire)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "",
+    "superseded_by": []
+  },
+  {
+    "id": "R53-03-FIREARM_CEILING",
+    "pack": "World Texture Law 2026-09-26",
+    "pack_number": null,
+    "section": "World texture",
+    "title": "Firearm Ceiling",
+    "status": "live",
+    "kind": "mandate",
+    "summary": "The firearm ceiling is up to 1900 hardware: repeating rifles, smokeless powder, even early machine guns exist, rare and state-owned.",
+    "verbatim": "The firearm ceiling is up to 1900 hardware: repeating rifles, smokeless powder, even early machine guns exist, rare and state-owned.",
+    "amends": [
+      {
+        "guide": "Standing Inventories, NATALIE.md and the wotr-write skill",
+        "locus": "World texture",
+        "operation": "adds"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "worldbuilding",
+      "standing-inventory"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-26, Claude Code chat: ruled directly (world-texture questionnaire)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "",
+    "superseded_by": []
+  },
+  {
+    "id": "R53-04-ENHANCED_SHOT",
+    "pack": "World Texture Law 2026-09-26",
+    "pack_number": null,
+    "section": "World texture",
+    "title": "Enhanced Shot",
+    "status": "live",
+    "kind": "mandate",
+    "summary": "Enhanced shot is standard for elites: guard companies and bounty hunters carry full pouches; ordinary infantry do not.",
+    "verbatim": "Enhanced shot is standard for elites: guard companies and bounty hunters carry full pouches; ordinary infantry do not.",
+    "amends": [
+      {
+        "guide": "Standing Inventories, NATALIE.md and the wotr-write skill",
+        "locus": "World texture",
+        "operation": "adds"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "worldbuilding",
+      "standing-inventory"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-26, Claude Code chat: ruled directly (world-texture questionnaire)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "",
+    "superseded_by": []
+  },
+  {
+    "id": "R53-05-PROOF_PLATE",
+    "pack": "World Texture Law 2026-09-26",
+    "pack_number": null,
+    "section": "World texture",
+    "title": "Proof Plate",
+    "status": "live",
+    "kind": "mandate",
+    "summary": "Narration may state the cause of any penetration outright, in gunfights as anywhere; the old firearm ban on explaining why a proofed round beats proofed plate is superseded.",
+    "verbatim": "Narration may state the cause of any penetration outright, in gunfights as anywhere; the old firearm ban on explaining why a proofed round beats proofed plate is superseded.",
+    "amends": [
+      {
+        "guide": "Standing Inventories, NATALIE.md and the wotr-write skill",
+        "locus": "World texture",
+        "operation": "replaces"
+      }
+    ],
+    "supersedes": [
+      "R11-3-FIREARM_PROSE_LAW"
+    ],
+    "applies_to": [
+      "worldbuilding",
+      "standing-inventory"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-26, Claude Code chat: ruled directly (world-texture questionnaire)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "",
+    "superseded_by": []
+  },
+  {
+    "id": "R53-06-WELL_SPAWN",
+    "pack": "World Texture Law 2026-09-26",
+    "pack_number": null,
+    "section": "World texture",
+    "title": "Well Spawn",
+    "status": "live",
+    "kind": "mandate",
+    "summary": "Well-spawn exist: Wells breed hostile creatures, and the Bestiary gains a Well-spawn category.",
+    "verbatim": "Well-spawn exist: Wells breed hostile creatures, and the Bestiary gains a Well-spawn category.",
+    "amends": [
+      {
+        "guide": "Standing Inventories, NATALIE.md and the wotr-write skill",
+        "locus": "World texture",
+        "operation": "replaces"
+      }
+    ],
+    "supersedes": [
+      "R20C-20-WELLS_GENERATE_NO_ENTITIES"
+    ],
+    "applies_to": [
+      "worldbuilding",
+      "standing-inventory"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-26, Claude Code chat: ruled directly (world-texture questionnaire)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "",
+    "superseded_by": []
+  },
+  {
+    "id": "R53-07-PRICE_TABLE",
+    "pack": "World Texture Law 2026-09-26",
+    "pack_number": null,
+    "section": "World texture",
+    "title": "Price Table",
+    "status": "live",
+    "kind": "mandate",
+    "summary": "A short table of everyday prices and wages is drafted from real period ratios for Isaac to approve; scenes then quote it.",
+    "verbatim": "A short table of everyday prices and wages is drafted from real period ratios for Isaac to approve; scenes then quote it.",
+    "amends": [
+      {
+        "guide": "Standing Inventories, NATALIE.md and the wotr-write skill",
+        "locus": "World texture",
+        "operation": "adds"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "worldbuilding",
+      "standing-inventory"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-26, Claude Code chat: ruled directly (world-texture questionnaire)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "",
+    "superseded_by": []
+  },
+  {
+    "id": "R53-08-TRAVEL_RATES",
+    "pack": "World Texture Law 2026-09-26",
+    "pack_number": null,
+    "section": "World texture",
+    "title": "Travel Rates",
+    "status": "live",
+    "kind": "mandate",
+    "summary": "Travel uses real period rates by mode (foot about 20 miles a day, mounted 30 to 40, rail where it runs, less in snow and passes), stated by trained eyes and messengers.",
+    "verbatim": "Travel uses real period rates by mode (foot about 20 miles a day, mounted 30 to 40, rail where it runs, less in snow and passes), stated by trained eyes and messengers.",
+    "amends": [
+      {
+        "guide": "Standing Inventories, NATALIE.md and the wotr-write skill",
+        "locus": "World texture",
+        "operation": "adds"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "worldbuilding",
+      "standing-inventory"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-26, Claude Code chat: ruled directly (world-texture questionnaire)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "",
+    "superseded_by": []
+  },
+  {
+    "id": "R53-09-WEATHER",
+    "pack": "World Texture Law 2026-09-26",
+    "pack_number": null,
+    "section": "World texture",
+    "title": "Weather",
+    "status": "live",
+    "kind": "mandate",
+    "summary": "Weather and season are tracked like a clock: the State of Play carries the date and season; every outdoor scene shows the actual weather, and cold, wet and thaw change what people can do.",
+    "verbatim": "Weather and season are tracked like a clock: the State of Play carries the date and season; every outdoor scene shows the actual weather, and cold, wet and thaw change what people can do.",
+    "amends": [
+      {
+        "guide": "Standing Inventories, NATALIE.md and the wotr-write skill",
+        "locus": "World texture",
+        "operation": "adds"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "worldbuilding",
+      "standing-inventory"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-26, Claude Code chat: ruled directly (world-texture questionnaire)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "",
+    "superseded_by": []
+  },
+  {
+    "id": "R53-10-MEDICINE",
+    "pack": "World Texture Law 2026-09-26",
+    "pack_number": null,
+    "section": "World texture",
+    "title": "Medicine",
+    "status": "live",
+    "kind": "mandate",
+    "summary": "Medicine is era-appropriate by place: Guild cities have what their decade has (anaesthesia, antisepsis, later early antibiotics); the north and the poor get folk medicine and the barber.",
+    "verbatim": "Medicine is era-appropriate by place: Guild cities have what their decade has (anaesthesia, antisepsis, later early antibiotics); the north and the poor get folk medicine and the barber.",
+    "amends": [
+      {
+        "guide": "Standing Inventories, NATALIE.md and the wotr-write skill",
+        "locus": "World texture",
+        "operation": "adds"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "worldbuilding",
+      "standing-inventory"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-26, Claude Code chat: ruled directly (world-texture questionnaire)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "",
+    "superseded_by": []
+  },
+  {
+    "id": "R53-11-JUSTICE",
+    "pack": "World Texture Law 2026-09-26",
+    "pack_number": null,
+    "section": "World texture",
+    "title": "Justice",
+    "status": "live",
+    "kind": "mandate",
+    "summary": "Ground-level justice borrows each culture's real-world analogue (fines and branding in Accord cities, labour-debt in Kharven, public shaming in Eresse), looked up and logged.",
+    "verbatim": "Ground-level justice borrows each culture's real-world analogue (fines and branding in Accord cities, labour-debt in Kharven, public shaming in Eresse), looked up and logged.",
+    "amends": [
+      {
+        "guide": "Standing Inventories, NATALIE.md and the wotr-write skill",
+        "locus": "World texture",
+        "operation": "adds"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "worldbuilding",
+      "standing-inventory"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-26, Claude Code chat: ruled directly (world-texture questionnaire)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "",
+    "superseded_by": []
+  },
+  {
+    "id": "R53-12-LITERACY",
+    "pack": "World Texture Law 2026-09-26",
+    "pack_number": null,
+    "section": "World texture",
+    "title": "Literacy",
+    "status": "live",
+    "kind": "mandate",
+    "summary": "Literacy varies by culture: Eresse and the Accord near-universal, Kharven almost none; set on each Inventory.",
+    "verbatim": "Literacy varies by culture: Eresse and the Accord near-universal, Kharven almost none; set on each Inventory.",
+    "amends": [
+      {
+        "guide": "Standing Inventories, NATALIE.md and the wotr-write skill",
+        "locus": "World texture",
+        "operation": "adds"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "worldbuilding",
+      "standing-inventory"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-26, Claude Code chat: ruled directly (world-texture questionnaire)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "",
+    "superseded_by": []
+  },
+  {
+    "id": "R53-13-FAITH",
+    "pack": "World Texture Law 2026-09-26",
+    "pack_number": null,
+    "section": "World texture",
+    "title": "Faith",
+    "status": "live",
+    "kind": "mandate",
+    "summary": "Faith in practice shows up where it matters: when a character wants something badly (petition is the tell); otherwise absent.",
+    "verbatim": "Faith in practice shows up where it matters: when a character wants something badly (petition is the tell); otherwise absent.",
+    "amends": [
+      {
+        "guide": "Standing Inventories, NATALIE.md and the wotr-write skill",
+        "locus": "World texture",
+        "operation": "adds"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "worldbuilding",
+      "standing-inventory"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-26, Claude Code chat: ruled directly (world-texture questionnaire)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "",
+    "superseded_by": []
+  },
+  {
+    "id": "R53-14-FOLK_KNOWLEDGE",
+    "pack": "World Texture Law 2026-09-26",
+    "pack_number": null,
+    "section": "World texture",
+    "title": "Folk Knowledge",
+    "status": "live",
+    "kind": "mandate",
+    "summary": "Ordinary people know the rough ladder: there are ranks, silver tokens are feared, Pressure is felt as dread; they could not name a Stage and use folk words.",
+    "verbatim": "Ordinary people know the rough ladder: there are ranks, silver tokens are feared, Pressure is felt as dread; they could not name a Stage and use folk words.",
+    "amends": [
+      {
+        "guide": "Standing Inventories, NATALIE.md and the wotr-write skill",
+        "locus": "World texture",
+        "operation": "adds"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "worldbuilding",
+      "standing-inventory"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-26, Claude Code chat: ruled directly (world-texture questionnaire)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "",
+    "superseded_by": []
+  },
+  {
+    "id": "R53-15-FOLK_BELIEFS",
+    "pack": "World Texture Law 2026-09-26",
+    "pack_number": null,
+    "section": "World texture",
+    "title": "Folk Beliefs",
+    "status": "live",
+    "kind": "mandate",
+    "summary": "Each culture's Inventory gets a few named false folk beliefs about magic, some half-true; characters act on them and the narration never corrects them.",
+    "verbatim": "Each culture's Inventory gets a few named false folk beliefs about magic, some half-true; characters act on them and the narration never corrects them.",
+    "amends": [
+      {
+        "guide": "Standing Inventories, NATALIE.md and the wotr-write skill",
+        "locus": "World texture",
+        "operation": "adds"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "worldbuilding",
+      "standing-inventory"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-26, Claude Code chat: ruled directly (world-texture questionnaire)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "",
+    "superseded_by": []
+  },
+  {
+    "id": "R53-16-GUILD_WORDS",
+    "pack": "World Texture Law 2026-09-26",
+    "pack_number": null,
+    "section": "World texture",
+    "title": "Guild Words",
+    "status": "live",
+    "kind": "mandate",
+    "summary": "Guild words are free in any mouth: anyone may use them; the common/Guild vocabulary split no longer governs who says what.",
+    "verbatim": "Guild words are free in any mouth: anyone may use them; the common/Guild vocabulary split no longer governs who says what.",
+    "amends": [
+      {
+        "guide": "Standing Inventories, NATALIE.md and the wotr-write skill",
+        "locus": "World texture",
+        "operation": "adds"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "worldbuilding",
+      "standing-inventory"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-26, Claude Code chat: ruled directly (world-texture questionnaire)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "",
+    "superseded_by": []
+  },
+  {
+    "id": "R53-17-THE_BILL",
+    "pack": "World Texture Law 2026-09-26",
+    "pack_number": null,
+    "section": "World texture",
+    "title": "The Bill",
+    "status": "live",
+    "kind": "mandate",
+    "summary": "Money before magic holds on the page: any working indoors on a main raises the bill, the meter or the spur, and somebody notices the cost.",
+    "verbatim": "Money before magic holds on the page: any working indoors on a main raises the bill, the meter or the spur, and somebody notices the cost.",
+    "amends": [
+      {
+        "guide": "Standing Inventories, NATALIE.md and the wotr-write skill",
+        "locus": "World texture",
+        "operation": "adds"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "worldbuilding",
+      "standing-inventory"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-26, Claude Code chat: ruled directly (world-texture questionnaire)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "",
+    "superseded_by": []
+  },
+  {
+    "id": "R53-18-AWE",
+    "pack": "World Texture Law 2026-09-26",
+    "pack_number": null,
+    "section": "World texture",
+    "title": "Awe",
+    "status": "live",
+    "kind": "mandate",
+    "summary": "Commoners regard practitioners with awe and worship: a ranked practitioner is half a saint to ordinary people.",
+    "verbatim": "Commoners regard practitioners with awe and worship: a ranked practitioner is half a saint to ordinary people.",
+    "amends": [
+      {
+        "guide": "Standing Inventories, NATALIE.md and the wotr-write skill",
+        "locus": "World texture",
+        "operation": "adds"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "worldbuilding",
+      "standing-inventory"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-26, Claude Code chat: ruled directly (world-texture questionnaire)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "",
+    "superseded_by": []
+  },
+  {
+    "id": "R53-19-QUOTA",
+    "pack": "World Texture Law 2026-09-26",
+    "pack_number": null,
+    "section": "World texture",
+    "title": "Quota",
+    "status": "live",
+    "kind": "mandate",
+    "summary": "Every culture's signature-item quota is two per session, like Kharven's.",
+    "verbatim": "Every culture's signature-item quota is two per session, like Kharven's.",
+    "amends": [
+      {
+        "guide": "Standing Inventories, NATALIE.md and the wotr-write skill",
+        "locus": "World texture",
+        "operation": "adds"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "worldbuilding",
+      "standing-inventory"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-26, Claude Code chat: ruled directly (world-texture questionnaire)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "",
+    "superseded_by": []
+  },
+  {
+    "id": "R53-20-MISSING_INVENTORY",
+    "pack": "World Texture Law 2026-09-26",
+    "pack_number": null,
+    "section": "World texture",
+    "title": "Missing Inventory",
+    "status": "live",
+    "kind": "mandate",
+    "summary": "When a scene goes to a culture with no Standing Inventory, the partner drafts that Inventory from the wiki first (sourced), for Isaac's approval, then writes.",
+    "verbatim": "When a scene goes to a culture with no Standing Inventory, the partner drafts that Inventory from the wiki first (sourced), for Isaac's approval, then writes.",
+    "amends": [
+      {
+        "guide": "Standing Inventories, NATALIE.md and the wotr-write skill",
+        "locus": "World texture",
+        "operation": "adds"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "worldbuilding",
+      "standing-inventory"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-26, Claude Code chat: ruled directly (world-texture questionnaire)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "",
+    "superseded_by": []
+  },
+  {
+    "id": "R53-21-CANON_GATE",
+    "pack": "World Texture Law 2026-09-26",
+    "pack_number": null,
+    "section": "World texture",
+    "title": "Canon Gate",
+    "status": "live",
+    "kind": "mandate",
+    "summary": "Texture the partner invents in play is canon once logged; Isaac can strike it later.",
+    "verbatim": "Texture the partner invents in play is canon once logged; Isaac can strike it later.",
+    "amends": [
+      {
+        "guide": "Standing Inventories, NATALIE.md and the wotr-write skill",
+        "locus": "World texture",
+        "operation": "adds"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "worldbuilding",
+      "standing-inventory"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-26, Claude Code chat: ruled directly (world-texture questionnaire)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "",
+    "superseded_by": []
+  },
+  {
+    "id": "R53-22-CAUSAL_TEST",
+    "pack": "World Texture Law 2026-09-26",
+    "pack_number": null,
+    "section": "World texture",
+    "title": "Causal Test",
+    "status": "live",
+    "kind": "mandate",
+    "summary": "The causal test for texture invented in play is by ear: plausible is enough; the causal line is optional.",
+    "verbatim": "The causal test for texture invented in play is by ear: plausible is enough; the causal line is optional.",
+    "amends": [
+      {
+        "guide": "Standing Inventories, NATALIE.md and the wotr-write skill",
+        "locus": "World texture",
+        "operation": "adds"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "worldbuilding",
+      "standing-inventory"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-26, Claude Code chat: ruled directly (world-texture questionnaire)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "",
+    "superseded_by": []
+  },
+  {
+    "id": "R53-23-MIXED_ROOM",
+    "pack": "World Texture Law 2026-09-26",
+    "pack_number": null,
+    "section": "World texture",
+    "title": "Mixed Room",
+    "status": "live",
+    "kind": "mandate",
+    "summary": "A mixed room layers every culture present in roughly equal measure.",
+    "verbatim": "A mixed room layers every culture present in roughly equal measure.",
+    "amends": [
+      {
+        "guide": "Standing Inventories, NATALIE.md and the wotr-write skill",
+        "locus": "World texture",
+        "operation": "adds"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "worldbuilding",
+      "standing-inventory"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-26, Claude Code chat: ruled directly (world-texture questionnaire)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "",
+    "superseded_by": []
+  },
+  {
+    "id": "R53-24-TEXTURE_AND_MECHANISM",
+    "pack": "World Texture Law 2026-09-26",
+    "pack_number": null,
+    "section": "World texture",
+    "title": "Texture And Mechanism",
+    "status": "live",
+    "kind": "mandate",
+    "summary": "The rule that texture comes from the Standing Inventory and mechanism from the Codex is retired: texture and mechanism mix freely.",
+    "verbatim": "The rule that texture comes from the Standing Inventory and mechanism from the Codex is retired: texture and mechanism mix freely.",
+    "amends": [
+      {
+        "guide": "Standing Inventories, NATALIE.md and the wotr-write skill",
+        "locus": "World texture",
+        "operation": "replaces"
+      }
+    ],
+    "supersedes": [
+      "R6-7-GOVERNING_RULE"
+    ],
+    "applies_to": [
+      "worldbuilding",
+      "standing-inventory"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-26, Claude Code chat: ruled directly (world-texture questionnaire)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "",
+    "superseded_by": []
+  },
+  {
+    "id": "R53-25-REAL_OBJECT_NAMES",
+    "pack": "World Texture Law 2026-09-26",
+    "pack_number": null,
+    "section": "World texture",
+    "title": "Real Object Names",
+    "status": "live",
+    "kind": "mandate",
+    "summary": "Real names for borrowed real-world objects are allowed: a yurt is a yurt and a katana a katana when the culture is clearly built on it.",
+    "verbatim": "Real names for borrowed real-world objects are allowed: a yurt is a yurt and a katana a katana when the culture is clearly built on it.",
+    "amends": [
+      {
+        "guide": "Standing Inventories, NATALIE.md and the wotr-write skill",
+        "locus": "World texture",
+        "operation": "adds"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "worldbuilding",
+      "standing-inventory"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-26, Claude Code chat: ruled directly (world-texture questionnaire)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "",
+    "superseded_by": []
+  },
+  {
+    "id": "R53-26-HOW_CLOSE",
+    "pack": "World Texture Law 2026-09-26",
+    "pack_number": null,
+    "section": "World texture",
+    "title": "How Close",
+    "status": "live",
+    "kind": "mandate",
+    "summary": "Real history is taken exactly, then bent one step by the culture's own conditions (the draw, the cold, the Archons), credited in the notes.",
+    "verbatim": "Real history is taken exactly, then bent one step by the culture's own conditions (the draw, the cold, the Archons), credited in the notes.",
+    "amends": [
+      {
+        "guide": "Standing Inventories, NATALIE.md and the wotr-write skill",
+        "locus": "World texture",
+        "operation": "adds"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "worldbuilding",
+      "standing-inventory"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-26, Claude Code chat: ruled directly (world-texture questionnaire)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "",
+    "superseded_by": []
+  },
+  {
+    "id": "R53-27-MIX_SOURCES",
+    "pack": "World Texture Law 2026-09-26",
+    "pack_number": null,
+    "section": "World texture",
+    "title": "Mix Sources",
+    "status": "live",
+    "kind": "mandate",
+    "summary": "The partner may blend real cultures freely into one WOTR culture where it serves the culture's conditions.",
+    "verbatim": "The partner may blend real cultures freely into one WOTR culture where it serves the culture's conditions.",
+    "amends": [
+      {
+        "guide": "Standing Inventories, NATALIE.md and the wotr-write skill",
+        "locus": "World texture",
+        "operation": "adds"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "worldbuilding",
+      "standing-inventory"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-26, Claude Code chat: ruled directly (world-texture questionnaire)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "",
+    "superseded_by": []
+  },
+  {
+    "id": "R53-28-VISUAL_REFERENCE",
+    "pack": "World Texture Law 2026-09-26",
+    "pack_number": null,
+    "section": "World texture",
+    "title": "Visual Reference",
+    "status": "live",
+    "kind": "mandate",
+    "summary": "The visual reference is Lord of the Mysteries and Victorian imperial-age fantasy; the Berserk and Vinland Saga references are retired everywhere. WOTR has its own texture, invented for the world itself, mostly drawn from real-world inspi...",
+    "verbatim": "The visual reference is Lord of the Mysteries and Victorian imperial-age fantasy; the Berserk and Vinland Saga references are retired everywhere. WOTR has its own texture, invented for the world itself, mostly drawn from real-world inspiration. (Isaac: \"I want it to look like lord of mysteries or Victorian imperial aged fantasy I don't like the beast or vinland saga reference wotr has its own thing its own texture invented entirely for the world itself it mostly takes from real world inspo etc\".)",
+    "amends": [
+      {
+        "guide": "Standing Inventories, NATALIE.md and the wotr-write skill",
+        "locus": "World texture",
+        "operation": "replaces"
+      }
+    ],
+    "supersedes": [
+      "R9-3-ADDITIVE_NOT_REPLACING",
+      "R11-1-REFERENCE_TRIANGLE"
+    ],
+    "applies_to": [
+      "worldbuilding",
+      "standing-inventory"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-26, Claude Code chat: ruled directly (world-texture questionnaire)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "",
+    "superseded_by": []
+  },
+  {
+    "id": "R53-29-LOOK_UP",
+    "pack": "World Texture Law 2026-09-26",
+    "pack_number": null,
+    "section": "World texture",
+    "title": "Look Up",
+    "status": "live",
+    "kind": "mandate",
+    "summary": "The partner looks up every world fact (wiki, Inventory, cards) rather than inventing it; gaps are flagged, not filled.",
+    "verbatim": "The partner looks up every world fact (wiki, Inventory, cards) rather than inventing it; gaps are flagged, not filled.",
+    "amends": [
+      {
+        "guide": "Standing Inventories, NATALIE.md and the wotr-write skill",
+        "locus": "World texture",
+        "operation": "adds"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "worldbuilding",
+      "standing-inventory"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-26, Claude Code chat: ruled directly (world-texture questionnaire)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "",
+    "superseded_by": []
+  },
+  {
+    "id": "R53-30-TEXTURE_DENSITY",
+    "pack": "World Texture Law 2026-09-26",
+    "pack_number": null,
+    "section": "World texture",
+    "title": "Texture Density",
+    "status": "live",
+    "kind": "mandate",
+    "summary": "Every beat carries at least one detail that could only exist in this world; sensory layers sit around it.",
+    "verbatim": "Every beat carries at least one detail that could only exist in this world; sensory layers sit around it.",
+    "amends": [
+      {
+        "guide": "Standing Inventories, NATALIE.md and the wotr-write skill",
+        "locus": "World texture",
+        "operation": "adds"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "worldbuilding",
+      "standing-inventory"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-26, Claude Code chat: ruled directly (world-texture questionnaire)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "",
+    "superseded_by": []
+  },
+  {
+    "id": "R53-31-GONE_LIST",
+    "pack": "World Texture Law 2026-09-26",
+    "pack_number": null,
+    "section": "World texture",
+    "title": "Gone List",
+    "status": "live",
+    "kind": "mandate",
+    "summary": "Each culture's Standing Inventory gets a 'Gone' list of three to five named lost things the culture mourns, for elegy to reach for.",
+    "verbatim": "Each culture's Standing Inventory gets a 'Gone' list of three to five named lost things the culture mourns, for elegy to reach for.",
+    "amends": [
+      {
+        "guide": "Standing Inventories, NATALIE.md and the wotr-write skill",
+        "locus": "World texture",
+        "operation": "adds"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "worldbuilding",
+      "standing-inventory"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-26, Claude Code chat: ruled directly (world-texture questionnaire)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "",
+    "superseded_by": []
+  },
+  {
+    "id": "R53-32-TECH_BY_EAR",
+    "pack": "World Texture Law 2026-09-26",
+    "pack_number": null,
+    "section": "World texture",
+    "title": "Tech By Ear",
+    "status": "live",
+    "kind": "mandate",
+    "summary": "No decade-by-decade technology page: the partner judges what is era-appropriate in the Imperial Age scene by scene.",
+    "verbatim": "No decade-by-decade technology page: the partner judges what is era-appropriate in the Imperial Age scene by scene.",
+    "amends": [
+      {
+        "guide": "Standing Inventories, NATALIE.md and the wotr-write skill",
+        "locus": "World texture",
+        "operation": "adds"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "worldbuilding",
+      "standing-inventory"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-26, Claude Code chat: ruled directly (world-texture questionnaire)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "",
     "superseded_by": []
   },
   {
@@ -12537,7 +16725,7 @@
     "pack_number": 5,
     "section": "D",
     "title": "Who currently carries humour, and who does not",
-    "status": "live",
+    "status": "superseded",
     "kind": "definition",
     "summary": "Lambert carries institutional dryness in the debrief; Pietro carries contempt as wit; Yoko is accidentally funny through literalism; Sodoku does not make jokes and should not start.",
     "verbatim": "Who carries it, current cast: Lambert (institutional dryness, arrives in the debrief). Pietro (contempt as wit). Yoko (accidental, through literalism). Sodoku does not make jokes and should not start.",
@@ -12554,7 +16742,9 @@
       "lines": "115"
     },
     "notes": "Elevated to status:live: Pack Fifteen §4 (already ratified, live) explicitly confirms this instrument \"stands,\" following the same precedent used for Pack Seven content Pack Twelve confirms survives.",
-    "superseded_by": []
+    "superseded_by": [
+      "R52-14-SODOKU_JOKE"
+    ]
   },
   {
     "id": "R5-D-HUMOUR_PERMITTED",
@@ -12784,7 +16974,7 @@
     "pack_number": 5,
     "section": "F",
     "title": "What the light novel does not keep",
-    "status": "live",
+    "status": "superseded",
     "kind": "ban",
     "summary": "Status screens, panels and HUD-style rendering (already banned); narrator explanation of the system to the reader; the isekai commentary register (wry narrator asides about the world's rules); and character-sheet vocabulary (Stage, Grade, eta, Band) surfacing in prose.",
     "verbatim": "- Status screens, panels, HUD-style rendering. Already banned; restated because the light-novel framing invites them back. - Narrator explanation of the system to the reader. Section 3.1's Mechanism Standard delivers mechanism through physical description at trigger points, never as instruction. - The isekai commentary register. Wry narrator asides about the world's rules. - Character-sheet vocabulary surfacing in prose. Stage, Grade, eta and Band are author-facing.",
@@ -12808,7 +16998,9 @@
       "lines": "148-151"
     },
     "notes": null,
-    "superseded_by": []
+    "superseded_by": [
+      "R51-16-OLD_BANS_FALL"
+    ]
   },
   {
     "id": "R5-G-PROJECT_INSTRUCTIONS_EDIT",
@@ -13596,7 +17788,7 @@
     "pack_number": 6,
     "section": "PART II.7",
     "title": "Texture from the Standing Inventory, mechanism from the Codex",
-    "status": "live",
+    "status": "superseded",
     "kind": "mandate",
     "summary": "Texture comes from the Standing Inventory; mechanism comes from the Codex; a scene that reaches for the Codex when it needs texture has failed.",
     "verbatim": "Texture comes from the Standing Inventory. Mechanism comes from the Codex. A scene that reaches for the Codex when it needs texture has failed.",
@@ -13620,7 +17812,9 @@
       "lines": "90"
     },
     "notes": null,
-    "superseded_by": []
+    "superseded_by": [
+      "R53-24-TEXTURE_AND_MECHANISM"
+    ]
   },
   {
     "id": "R6-8-STANDING_INVENTORY_CATEGORIES",
@@ -15757,7 +19951,7 @@
     "pack_number": 9,
     "section": "PART TWO",
     "title": "Common-tongue craft naming is prose-legal",
-    "status": "live",
+    "status": "superseded",
     "kind": "mandate",
     "summary": "A POV may be shown cutting a ward, speaking a working, or pouring a Draft (singing pending Chantcraft's ruling); the common tongue for craft actions is prose-legal, said the way the character would actually say it, while the Accord Latin terms stay document-only.",
     "verbatim": "The common tongue — the work, the speaking, the cutting, the pouring — is now prose-legal, said the way the character in question would actually say it.",
@@ -15781,7 +19975,9 @@
       "lines": "23"
     },
     "notes": null,
-    "superseded_by": []
+    "superseded_by": [
+      "R51-19-ACCORD_LATIN"
+    ]
   },
   {
     "id": "R9-2-UNTOUCHED_BANS",
@@ -15854,7 +20050,7 @@
     "pack_number": 9,
     "section": "PART THREE",
     "title": "The power-display module adds one mode, replacing nothing",
-    "status": "live",
+    "status": "superseded",
     "kind": "definition",
     "summary": "The power-display register adds one mode to the visual palette; depth staging, practicals, and the Berserk-density/Vinland-restraint split still govern everything outside the narrow Stage-display list.",
     "verbatim": "This adds one mode to the palette. It does not replace it. Depth staging, practicals, and the Berserk-density/Vinland-restraint split all still govern everything outside the narrow list above.",
@@ -15876,7 +20072,9 @@
       "lines": "42"
     },
     "notes": "\"The Berserk-density/Vinland-restraint split\" is likewise stale as of Pack Eleven §1's retirement of that North Star; see the note on R9-3-SCOPE.",
-    "superseded_by": []
+    "superseded_by": [
+      "R53-28-VISUAL_REFERENCE"
+    ]
   },
   {
     "id": "R9-3-AURA_AS_FRACTURE",
@@ -16440,7 +20638,7 @@
     "pack_number": 11,
     "section": "§1",
     "title": "Reference triangle and the widened power-display register",
-    "status": "live",
+    "status": "superseded",
     "kind": "definition",
     "summary": "Warhammer 40,000 for bureaucratic scale, late-Victorian industrial imperialism for material texture and class geography, and manhwa for visual power-display grammar — the last now widened from Pack Nine's four beat types to the general visual register. References are not to be imitated directly.",
     "verbatim": "Reference triangle, not to be imitated: Warhammer 40,000 for the scale of the bureaucracy and the sense that the machinery outlived its explanation. Late-Victorian industrial imperialism for the material texture, class geography, and the survey-and-annex habit. Manhwa for the visual grammar of power display, per Pack Nine, now widened from four beat types to the general visual register.",
@@ -16463,7 +20661,9 @@
       "lines": "20"
     },
     "notes": null,
-    "superseded_by": []
+    "superseded_by": [
+      "R53-28-VISUAL_REFERENCE"
+    ]
   },
   {
     "id": "R11-1-REPLACEMENT_REGISTER",
@@ -16681,7 +20881,7 @@
     "pack_number": 11,
     "section": "§2",
     "title": "Common-tongue vs Guild-register draw vocabulary",
-    "status": "live",
+    "status": "superseded",
     "kind": "mandate",
     "summary": "\"The draw, the hum, a standpipe, a housing, the meter, cut off\" are common-tongue and prose-legal under Pack Nine's craft-register carve-out; \"concentration, density, coupling, eta\" are Guild register and document-only.",
     "verbatim": "Vocabulary, common tongue, prose-legal under Pack Nine's craft-register carve-out: the draw, the hum, a standpipe, a housing, the meter, cut off. Guild register, document-only: concentration, density, coupling, eta.",
@@ -16705,7 +20905,9 @@
       "lines": "44"
     },
     "notes": null,
-    "superseded_by": []
+    "superseded_by": [
+      "R51-16-OLD_BANS_FALL"
+    ]
   },
   {
     "id": "R11-3-AMMO_TIERS",
@@ -16840,7 +21042,7 @@
     "pack_number": 11,
     "section": "§3",
     "title": "No sentence explains why a proofed round defeats plate",
-    "status": "live",
+    "status": "superseded",
     "kind": "ban",
     "summary": "The gun is furniture, not spectacle; no sentence explains why a proofed round defeats proofed plate — the physical account of the hole stays, the causal account is cut.",
     "verbatim": "Prose law for firearms. The gun is furniture, not spectacle. Powder smells of rotten egg and it stays in the wool for days. Misfires are common in wet weather and a soldier's relationship with his own weapon is superstitious and practical at once. No sentence explains why a proofed round defeats a proofed plate. The physical account of the hole stays. The causal account is cut, per Pack Seven.",
@@ -16865,7 +21067,9 @@
       "lines": "76"
     },
     "notes": "C-001 ruled 2026-09-12: Eleven's ban stands. No sentence explains why a proofed round defeats proofed plate, even after Twelve's general repeal; firearms are the carve-out from mechanism-on-the-page.",
-    "superseded_by": []
+    "superseded_by": [
+      "R53-05-PROOF_PLATE"
+    ]
   },
   {
     "id": "R11-3-GUNPOWDER_AND_ARMOUR_CONFIRMED",
@@ -19429,7 +23633,7 @@
     "pack_number": 13,
     "section": "§9",
     "title": "Mechanism Vocabulary surfacing rule amended",
-    "status": "live",
+    "status": "superseded",
     "kind": "consequential_edit",
     "summary": "Bare jargon mid-action stays banned, but a Mechanism Vocabulary term may now be named in diagnostic voice alongside its dramatisation.",
     "verbatim": "WOTR_Master_Style_Directive.md §6. The Mechanism Vocabulary's surfacing rule is amended: bare-jargon mid-action stays banned; the term may be named in diagnostic voice alongside its dramatisation.",
@@ -19453,7 +23657,9 @@
       "lines": "140"
     },
     "notes": null,
-    "superseded_by": []
+    "superseded_by": [
+      "R51-17-MID_ACTION"
+    ]
   },
   {
     "id": "R13-9-VERIFY_CHECKS_22_26",
@@ -19757,7 +23963,7 @@
     "pack_number": 14,
     "section": "§4",
     "title": "Stat names reach the page only through the diagnostic channel",
-    "status": "live",
+    "status": "superseded",
     "kind": "definition",
     "summary": "Stat names, Sub-Stat names, Grades, Bands, eta, AU/s, EU counts, Aether Class, Crystal State and Category names reach the page only in a mouth, an instrument, a document, or a practitioner's private count, rationed per Pack Twelve §5, and class-marked per Pack Nine.",
     "verbatim": "The diagnostic channel, rationed per Twelve §5. Stat names, Sub-Stat names, Grades, Bands, eta, AU/s, EU counts, Aether Class, Crystal State, and Category names reach the page in a mouth, an instrument, a document, or a practitioner's private count.",
@@ -19775,7 +23981,9 @@
       "lines": "61"
     },
     "notes": null,
-    "superseded_by": []
+    "superseded_by": [
+      "R49-47-STAT_WORDS"
+    ]
   },
   {
     "id": "R14-4-EFFECTS_CHANNEL",
@@ -20407,7 +24615,7 @@
     "pack_number": 15,
     "section": "§1",
     "title": "Latin for chant-based magic stands by default",
-    "status": "live",
+    "status": "superseded",
     "kind": "definition",
     "summary": "Latin for chant-based magic is not a register rule but a texture choice Isaac made, and it stands unless he says otherwise.",
     "verbatim": "Latin for chant-based magic. Not a register rule in this sense; it is a texture choice Isaac made. Stands unless he says otherwise.",
@@ -20424,7 +24632,9 @@
       "lines": "31"
     },
     "notes": "This default is exactly what R15-A asks Isaac to confirm or fold into the repeal; until R15-A resolves, this row's \"survives\" status is the pack's default reading, not a closed question.",
-    "superseded_by": []
+    "superseded_by": [
+      "R50-26-CHANT_TONGUE"
+    ]
   },
   {
     "id": "R15-1-LICENCE",
@@ -22817,7 +27027,7 @@
     "pack_number": 19,
     "section": "§4",
     "title": "Staying composed under stress must cost visibly",
-    "status": "live",
+    "status": "superseded",
     "kind": "mandate",
     "summary": "A character who stays composed under extreme stress is exercising an expensive discipline, and the scene must show that price.",
     "verbatim": "The inverse is a character note and it must cost. A character who does stay composed under extreme stress is exercising an expensive discipline, and the scene shows the price.",
@@ -22833,7 +27043,9 @@
       "lines": "93"
     },
     "notes": null,
-    "superseded_by": []
+    "superseded_by": [
+      "R52-28-COMPOSURE"
+    ]
   },
   {
     "id": "R19-4-ICEBERG_DIALOGUE",
@@ -23413,7 +27625,7 @@
     "pack_number": 20,
     "section": "R20C-19",
     "title": "Tech ceiling",
-    "status": "live",
+    "status": "superseded",
     "kind": "definition",
     "summary": "Tech ceiling. Print: yes — mechanical, cheap, ungovernable, and the reason the Accord's register is out of date.",
     "verbatim": "Tech ceiling. Print: yes — mechanical, cheap, ungovernable, and the reason the Accord's register is out of date. Telegraph: yes, as a Draw counterpart — Guild line, Guild price, information as licensed commodity. Rail: no — haulage stays animal and water, which keeps the passes and the Amagiri post load-bearing. Photography: no — the counterpart is the fixed-plate impression, slow and Guild-controlled, used for proofing and record. Nobody has a portrait of their mother.",
@@ -23429,7 +27641,9 @@
       "lines": "47"
     },
     "notes": "Ratifies R11-C.",
-    "superseded_by": []
+    "superseded_by": [
+      "R53-01-IMPERIAL_AGE_SPAN"
+    ]
   },
   {
     "id": "R20C-2-SATULAGI_STAYS_DEAD",
@@ -23462,7 +27676,7 @@
     "pack_number": 20,
     "section": "R20C-20",
     "title": "Wells generate no entities",
-    "status": "live",
+    "status": "superseded",
     "kind": "definition",
     "summary": "Wells generate no entities. The site is the entire threat.",
     "verbatim": "Wells generate no entities. The site is the entire threat.",
@@ -23479,7 +27693,9 @@
       "lines": "48"
     },
     "notes": "Ratifies R11-D.",
-    "superseded_by": []
+    "superseded_by": [
+      "R53-06-WELL_SPAWN"
+    ]
   },
   {
     "id": "R20C-21-WELL_NAMES_CLASS_MARKED",
@@ -23761,7 +27977,7 @@
     "pack_number": 20,
     "section": "R20C-31",
     "title": "Sub-Stat names never appear outside a faculty reading",
-    "status": "live",
+    "status": "superseded",
     "kind": "ban",
     "summary": "Sub-Stat names never appear outside a faculty reading.",
     "verbatim": "Sub-Stat names never appear outside a faculty reading.",
@@ -23778,7 +27994,9 @@
       "lines": "62"
     },
     "notes": "Ratifies R14-B.",
-    "superseded_by": []
+    "superseded_by": [
+      "R51-16-OLD_BANS_FALL"
+    ]
   },
   {
     "id": "R20C-32-PRECEDENCE_FOW_WORKBOOK_CARD",
@@ -23935,7 +28153,7 @@
     "pack_number": 20,
     "section": "R20C-38",
     "title": "Section Two ratified entire",
-    "status": "live",
+    "status": "superseded",
     "kind": "definition",
     "summary": "Section Two ratified entire. True name in the practitioner's own language.",
     "verbatim": "Section Two ratified entire. True name in the practitioner's own language. Flat literal gloss, never poetic. Poetry lives in the by-name. Art carries the character; techniques may not. The release is an optional imperative call costing a beat and buying output. Escalation modifies the existing true name. The gloss never appears in prose, nobody translates their own technique aloud, the true name is spoken and never narrated, one release per scene.",
@@ -23952,7 +28170,9 @@
       "lines": "72"
     },
     "notes": "The R8-2x rows are already live to this effect.",
-    "superseded_by": []
+    "superseded_by": [
+      "R50-08-GLOSS_CLASH"
+    ]
   },
   {
     "id": "R20C-39-PACK_EIGHT_SECTION_ONE_SUPERSEDED",

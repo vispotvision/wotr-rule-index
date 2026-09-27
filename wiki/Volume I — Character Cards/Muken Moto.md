@@ -4,7 +4,7 @@ notion_id: "3b158200-eb22-81b8-b346-d1d8df799ed5"
 notion_url: "https://app.notion.com/p/Muken-Moto-3b158200eb2281b8b346d1d8df799ed5"
 section: "Volume I — Character Cards"
 tags: []
-last_edited: "2026-09-26T10:24:00.000Z"
+last_edited: "2026-09-27T04:16:00.000Z"
 verification: null
 ---
 

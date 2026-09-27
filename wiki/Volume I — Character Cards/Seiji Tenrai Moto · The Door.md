@@ -4,7 +4,7 @@ notion_id: "3e758200-eb22-81c2-8e76-f7aacf353c0f"
 notion_url: "https://app.notion.com/p/Seiji-Tenrai-Moto-The-Door-3e758200eb2281c28e76f7aacf353c0f"
 section: "Volume I — Character Cards"
 tags: []
-last_edited: "2026-09-26T10:02:00.000Z"
+last_edited: "2026-09-27T04:14:00.000Z"
 verification: null
 ---
 

@@ -4,7 +4,7 @@ notion_id: "3d958200-eb22-818d-9818-c93f85469d79"
 notion_url: "https://app.notion.com/p/Gorvan-Aldric-Voss-The-Maw-That-Held-3d958200eb22818d9818c93f85469d79"
 section: "Volume I — Character Cards"
 tags: []
-last_edited: "2026-09-26T08:46:00.000Z"
+last_edited: "2026-09-27T04:15:00.000Z"
 verification: null
 ---
 

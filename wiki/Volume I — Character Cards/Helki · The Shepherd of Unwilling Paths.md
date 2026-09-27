@@ -4,7 +4,7 @@ notion_id: "3d958200-eb22-8191-a00a-da858bfdced1"
 notion_url: "https://app.notion.com/p/Helki-The-Shepherd-of-Unwilling-Paths-3d958200eb228191a00ada858bfdced1"
 section: "Volume I — Character Cards"
 tags: []
-last_edited: "2026-09-26T10:30:00.000Z"
+last_edited: "2026-09-27T04:15:00.000Z"
 verification: null
 ---
 

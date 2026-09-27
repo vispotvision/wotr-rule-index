@@ -4,7 +4,7 @@ notion_id: "3b258200-eb22-81ab-87c6-c888edd676ff"
 notion_url: "https://app.notion.com/p/Gimbzo-3b258200eb2281ab87c6c888edd676ff"
 section: "Volume I — Character Cards"
 tags: []
-last_edited: "2026-09-26T10:26:00.000Z"
+last_edited: "2026-09-27T04:15:00.000Z"
 verification: null
 ---
 

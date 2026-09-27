@@ -4,7 +4,7 @@ notion_id: "3b258200-eb22-8106-83e3-f45895781c04"
 notion_url: "https://app.notion.com/p/Yoko-Mishiro-3b258200eb22810683e3f45895781c04"
 section: "Volume I — Character Cards"
 tags: []
-last_edited: "2026-09-26T09:14:00.000Z"
+last_edited: "2026-09-27T04:17:00.000Z"
 verification: null
 ---
 

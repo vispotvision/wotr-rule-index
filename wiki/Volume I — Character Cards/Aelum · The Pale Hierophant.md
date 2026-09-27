@@ -4,7 +4,7 @@ notion_id: "3d958200-eb22-81af-be50-e87addf9dc47"
 notion_url: "https://app.notion.com/p/Aelum-The-Pale-Hierophant-3d958200eb2281afbe50e87addf9dc47"
 section: "Volume I — Character Cards"
 tags: []
-last_edited: "2026-09-26T10:35:00.000Z"
+last_edited: "2026-09-27T04:14:00.000Z"
 verification: null
 ---
 

@@ -4,7 +4,7 @@ notion_id: "3d958200-eb22-81bf-b701-cc96aaffd81a"
 notion_url: "https://app.notion.com/p/Lyssara-Veyn-The-Black-Chrysalis-3d958200eb2281bfb701cc96aaffd81a"
 section: "Volume I — Character Cards"
 tags: []
-last_edited: "2026-09-26T10:34:00.000Z"
+last_edited: "2026-09-27T04:16:00.000Z"
 verification: null
 ---
 

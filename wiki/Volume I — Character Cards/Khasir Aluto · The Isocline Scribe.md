@@ -4,7 +4,7 @@ notion_id: "3d958200-eb22-81d0-ba25-d7621cd6be59"
 notion_url: "https://app.notion.com/p/Khasir-Aluto-The-Isocline-Scribe-3d958200eb2281d0ba25d7621cd6be59"
 section: "Volume I — Character Cards"
 tags: []
-last_edited: "2026-09-26T08:50:00.000Z"
+last_edited: "2026-09-27T04:15:00.000Z"
 verification: null
 ---
 

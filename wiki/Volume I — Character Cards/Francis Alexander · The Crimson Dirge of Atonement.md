@@ -4,7 +4,7 @@ notion_id: "3d958200-eb22-81be-af23-d06cf46b2c85"
 notion_url: "https://app.notion.com/p/Francis-Alexander-The-Crimson-Dirge-of-Atonement-3d958200eb2281beaf23d06cf46b2c85"
 section: "Volume I — Character Cards"
 tags: []
-last_edited: "2026-09-26T10:34:00.000Z"
+last_edited: "2026-09-27T04:15:00.000Z"
 verification: null
 ---
 

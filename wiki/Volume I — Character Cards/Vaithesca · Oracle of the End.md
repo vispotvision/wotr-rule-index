@@ -4,7 +4,7 @@ notion_id: "3d958200-eb22-81f0-820b-c9a03f4018d7"
 notion_url: "https://app.notion.com/p/Vaithesca-Oracle-of-the-End-3d958200eb2281f0820bc9a03f4018d7"
 section: "Volume I — Character Cards"
 tags: []
-last_edited: "2026-09-26T10:30:00.000Z"
+last_edited: "2026-09-27T04:17:00.000Z"
 verification: null
 ---
 

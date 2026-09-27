@@ -4,7 +4,7 @@ notion_id: "3e758200-eb22-810c-b495-c67a6ba402b7"
 notion_url: "https://app.notion.com/p/Dhaerin-Valorin-The-Scholar-of-Vaeloris-3e758200eb22810cb495c67a6ba402b7"
 section: "Volume I — Character Cards"
 tags: []
-last_edited: "2026-09-26T10:02:00.000Z"
+last_edited: "2026-09-27T04:14:00.000Z"
 verification: null
 ---
 

@@ -4,7 +4,7 @@ notion_id: "3d958200-eb22-8172-905e-db586b626820"
 notion_url: "https://app.notion.com/p/Lyra-Drakoshi-Pink-Flame-3d958200eb228172905edb586b626820"
 section: "Volume I — Character Cards"
 tags: []
-last_edited: "2026-09-26T10:35:00.000Z"
+last_edited: "2026-09-27T04:16:00.000Z"
 verification: null
 ---
 

@@ -4,7 +4,7 @@ notion_id: "3d958200-eb22-81d4-8699-dc882387f91b"
 notion_url: "https://app.notion.com/p/Kaelric-Varnier-The-Silver-Veil-3d958200eb2281d48699dc882387f91b"
 section: "Volume I — Character Cards"
 tags: []
-last_edited: "2026-09-26T10:34:00.000Z"
+last_edited: "2026-09-27T04:15:00.000Z"
 verification: null
 ---
 

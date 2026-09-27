@@ -4,7 +4,7 @@ notion_id: "3e758200-eb22-8124-bd21-c42c4ee0a02d"
 notion_url: "https://app.notion.com/p/Emira-Moto-Daughter-of-Muken-3e758200eb228124bd21c42c4ee0a02d"
 section: "Volume I — Character Cards"
 tags: []
-last_edited: "2026-09-26T10:02:00.000Z"
+last_edited: "2026-09-27T04:14:00.000Z"
 verification: null
 ---
 

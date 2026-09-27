@@ -4,7 +4,7 @@ notion_id: "3d958200-eb22-81ff-9e6f-eb9b8929c149"
 notion_url: "https://app.notion.com/p/Seren-Valenne-The-Grey-Adjudicator-3d958200eb2281ff9e6feb9b8929c149"
 section: "Volume I — Character Cards"
 tags: []
-last_edited: "2026-09-26T10:33:00.000Z"
+last_edited: "2026-09-27T04:16:00.000Z"
 verification: null
 ---
 

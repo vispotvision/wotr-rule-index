@@ -4,7 +4,7 @@ notion_id: "3b258200-eb22-8104-9b61-d1030007ea92"
 notion_url: "https://app.notion.com/p/Rengai-Zettari-3b258200eb2281049b61d1030007ea92"
 section: "Volume I — Character Cards"
 tags: []
-last_edited: "2026-09-26T10:26:00.000Z"
+last_edited: "2026-09-27T04:16:00.000Z"
 verification: null
 ---
 

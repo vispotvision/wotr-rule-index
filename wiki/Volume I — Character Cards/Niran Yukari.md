@@ -4,7 +4,7 @@ notion_id: "3b258200-eb22-813a-96bd-f14ad18385f4"
 notion_url: "https://app.notion.com/p/Niran-Yukari-3b258200eb22813a96bdf14ad18385f4"
 section: "Volume I — Character Cards"
 tags: []
-last_edited: "2026-09-26T10:26:00.000Z"
+last_edited: "2026-09-27T04:16:00.000Z"
 verification: null
 ---
 

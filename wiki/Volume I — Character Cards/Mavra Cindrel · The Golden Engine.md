@@ -4,7 +4,7 @@ notion_id: "3d958200-eb22-81a0-b727-ee3bfb9cbad7"
 notion_url: "https://app.notion.com/p/Mavra-Cindrel-The-Golden-Engine-3d958200eb2281a0b727ee3bfb9cbad7"
 section: "Volume I — Character Cards"
 tags: []
-last_edited: "2026-09-26T10:34:00.000Z"
+last_edited: "2026-09-27T04:16:00.000Z"
 verification: null
 ---
 

@@ -4,7 +4,7 @@ notion_id: "3d958200-eb22-8168-9a63-f23159740493"
 notion_url: "https://app.notion.com/p/Lumen-Varos-The-Dawn-Touched-Oracle-3d958200eb2281689a63f23159740493"
 section: "Volume I — Character Cards"
 tags: []
-last_edited: "2026-09-26T10:35:00.000Z"
+last_edited: "2026-09-27T04:16:00.000Z"
 verification: null
 ---
 

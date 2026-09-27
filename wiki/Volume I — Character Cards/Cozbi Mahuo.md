@@ -4,7 +4,7 @@ notion_id: "3b258200-eb22-81d4-bf97-cea223727abf"
 notion_url: "https://app.notion.com/p/Cozbi-Mahuo-3b258200eb2281d4bf97cea223727abf"
 section: "Volume I — Character Cards"
 tags: []
-last_edited: "2026-09-26T10:25:00.000Z"
+last_edited: "2026-09-27T04:15:00.000Z"
 verification: null
 ---
 

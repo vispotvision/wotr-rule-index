@@ -4,7 +4,7 @@ notion_id: "3d958200-eb22-81d0-aa9e-ecf69db979ee"
 notion_url: "https://app.notion.com/p/Kaien-Thal-Ruhm-The-Gilded-Nomad-3d958200eb2281d0aa9eecf69db979ee"
 section: "Volume I — Character Cards"
 tags: []
-last_edited: "2026-09-26T10:34:00.000Z"
+last_edited: "2026-09-27T04:15:00.000Z"
 verification: null
 ---
 

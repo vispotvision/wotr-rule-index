@@ -4,7 +4,7 @@ notion_id: "3d958200-eb22-8141-9f6c-ef6478934506"
 notion_url: "https://app.notion.com/p/Khaeron-Vant-The-Ember-Host-3d958200eb2281419f6cef6478934506"
 section: "Volume I — Character Cards"
 tags: []
-last_edited: "2026-09-26T10:36:00.000Z"
+last_edited: "2026-09-27T04:15:00.000Z"
 verification: null
 ---
 

@@ -4,7 +4,7 @@ notion_id: "3d958200-eb22-81e1-a5a2-e8f0627274f6"
 notion_url: "https://app.notion.com/p/Sairin-Kazuren-The-Still-Point-3d958200eb2281e1a5a2e8f0627274f6"
 section: "Volume I — Character Cards"
 tags: []
-last_edited: "2026-09-26T10:35:00.000Z"
+last_edited: "2026-09-27T04:16:00.000Z"
 verification: null
 ---
 

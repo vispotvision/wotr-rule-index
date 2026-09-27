@@ -4,7 +4,7 @@ notion_id: "3d958200-eb22-8140-8807-ec89b48d5809"
 notion_url: "https://app.notion.com/p/Valen-Karth-The-Breakstorm-Vanguard-3d958200eb2281408807ec89b48d5809"
 section: "Volume I — Character Cards"
 tags: []
-last_edited: "2026-09-26T10:34:00.000Z"
+last_edited: "2026-09-27T04:17:00.000Z"
 verification: null
 ---
 

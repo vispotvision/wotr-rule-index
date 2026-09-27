@@ -4,7 +4,7 @@ notion_id: "3ba58200-eb22-81b6-950a-cdd7c9e3082e"
 notion_url: "https://app.notion.com/p/Lorn-Stark-The-Sword-Teacher-3ba58200eb2281b6950acdd7c9e3082e"
 section: "Volume I — Character Cards"
 tags: []
-last_edited: "2026-09-26T09:15:00.000Z"
+last_edited: "2026-09-27T04:16:00.000Z"
 verification: null
 ---
 

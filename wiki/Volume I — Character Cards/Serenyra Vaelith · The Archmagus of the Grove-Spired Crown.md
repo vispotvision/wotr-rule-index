@@ -4,7 +4,7 @@ notion_id: "3db58200-eb22-8171-9521-d895c1fe2e67"
 notion_url: "https://app.notion.com/p/Serenyra-Vaelith-The-Archmagus-of-the-Grove-Spired-Crown-3db58200eb2281719521d895c1fe2e67"
 section: "Volume I — Character Cards"
 tags: []
-last_edited: "2026-09-26T10:36:00.000Z"
+last_edited: "2026-09-27T04:16:00.000Z"
 verification: null
 ---
 

@@ -4,7 +4,7 @@ notion_id: "3d958200-eb22-8148-8bce-f6ee6755cd0b"
 notion_url: "https://app.notion.com/p/Azran-Nemeir-The-Gilded-Draft-3d958200eb2281488bcef6ee6755cd0b"
 section: "Volume I — Character Cards"
 tags: []
-last_edited: "2026-09-26T10:30:00.000Z"
+last_edited: "2026-09-27T04:14:00.000Z"
 verification: null
 ---
 

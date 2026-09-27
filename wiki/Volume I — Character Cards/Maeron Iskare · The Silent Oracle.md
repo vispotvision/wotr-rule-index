@@ -4,7 +4,7 @@ notion_id: "3d958200-eb22-81dc-b521-dd7ca5656d4a"
 notion_url: "https://app.notion.com/p/Maeron-Iskare-The-Silent-Oracle-3d958200eb2281dcb521dd7ca5656d4a"
 section: "Volume I — Character Cards"
 tags: []
-last_edited: "2026-09-26T10:34:00.000Z"
+last_edited: "2026-09-27T04:16:00.000Z"
 verification: null
 ---
 

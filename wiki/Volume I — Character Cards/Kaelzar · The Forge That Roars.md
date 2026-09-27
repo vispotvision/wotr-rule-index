@@ -4,7 +4,7 @@ notion_id: "3d958200-eb22-81c8-819c-d4d9cd82bdeb"
 notion_url: "https://app.notion.com/p/Kaelzar-The-Forge-That-Roars-3d958200eb2281c8819cd4d9cd82bdeb"
 section: "Volume I — Character Cards"
 tags: []
-last_edited: "2026-09-26T10:33:00.000Z"
+last_edited: "2026-09-27T04:15:00.000Z"
 verification: null
 ---
 

@@ -4,7 +4,7 @@ notion_id: "3d958200-eb22-8129-93de-cf51552cb5d1"
 notion_url: "https://app.notion.com/p/Khan-Kirv-The-Veil-Khan-of-the-Dry-Courts-3d958200eb22812993decf51552cb5d1"
 section: "Volume I — Character Cards"
 tags: []
-last_edited: "2026-09-26T08:50:00.000Z"
+last_edited: "2026-09-27T04:15:00.000Z"
 verification: null
 ---
 

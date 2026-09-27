@@ -4,7 +4,7 @@ notion_id: "3d958200-eb22-81b9-909c-c8378f644483"
 notion_url: "https://app.notion.com/p/Aurelian-Veymont-The-Lion-of-the-Dawn-3d958200eb2281b9909cc8378f644483"
 section: "Volume I — Character Cards"
 tags: []
-last_edited: "2026-09-26T10:36:00.000Z"
+last_edited: "2026-09-27T04:14:00.000Z"
 verification: null
 ---
 

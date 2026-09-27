@@ -4,7 +4,7 @@ notion_id: "3d958200-eb22-8174-afb6-e643960f0230"
 notion_url: "https://app.notion.com/p/Shiro-Kitsunari-Little-White-Fox-3d958200eb228174afb6e643960f0230"
 section: "Volume I — Character Cards"
 tags: []
-last_edited: "2026-09-26T09:00:00.000Z"
+last_edited: "2026-09-27T04:16:00.000Z"
 verification: null
 ---
 

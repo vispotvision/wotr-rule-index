@@ -4,7 +4,7 @@ notion_id: "3d958200-eb22-81f3-87a4-daf9467a1cc1"
 notion_url: "https://app.notion.com/p/Asaemon-The-Vestal-Vanguard-3d958200eb2281f387a4daf9467a1cc1"
 section: "Volume I — Character Cards"
 tags: []
-last_edited: "2026-09-26T10:35:00.000Z"
+last_edited: "2026-09-27T04:14:00.000Z"
 verification: null
 ---
 

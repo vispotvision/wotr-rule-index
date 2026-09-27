@@ -4,7 +4,7 @@ notion_id: "3d958200-eb22-81b0-9cde-c5306c2b59ba"
 notion_url: "https://app.notion.com/p/Garu-Luneward-Winter-Hound-of-the-March-3d958200eb2281b09cdec5306c2b59ba"
 section: "Volume I — Character Cards"
 tags: []
-last_edited: "2026-09-26T08:45:00.000Z"
+last_edited: "2026-09-27T04:17:00.000Z"
 verification: null
 ---
 
@@ -21,7 +21,8 @@ verification: null
 
 **Name** · Garu Luneward. **Called** · Winter Hound of the March. **Also known as** · Snow Scout, Blue Cloak Tracker, Half-Wolf Without a Tail. **Epithet** · He Who Hears Footsteps in the Wind.
 **Race** · Human / Lupine (Wolfkin) hybrid, Old World northern strain. Tail-less, and without the Pack-Soul most Lupine share past infancy.
-**Role** · **Hunter's Guild forward scout.** **Gloss rights** · Diagnostic only; he answers questions about his methods with the fewest words that will close the conversation.
+**Role** · **Hunter's Guild forward scout.** 
+**Gloss rights** · Diagnostic only; he answers questions about his methods with the fewest words that will close the conversation.
 
 #### Affiliation
 

@@ -4,7 +4,7 @@ notion_id: "3d958200-eb22-812b-b35b-cde0ec8d5315"
 notion_url: "https://app.notion.com/p/Valthrum-The-Cryon-King-3d958200eb22812bb35bcde0ec8d5315"
 section: "Volume I — Character Cards"
 tags: []
-last_edited: "2026-09-26T10:35:00.000Z"
+last_edited: "2026-09-27T04:17:00.000Z"
 verification: null
 ---
 

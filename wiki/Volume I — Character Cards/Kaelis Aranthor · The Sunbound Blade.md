@@ -4,7 +4,7 @@ notion_id: "3d958200-eb22-81aa-8c22-e01fa043a30b"
 notion_url: "https://app.notion.com/p/Kaelis-Aranthor-The-Sunbound-Blade-3d958200eb2281aa8c22e01fa043a30b"
 section: "Volume I — Character Cards"
 tags: []
-last_edited: "2026-09-26T10:36:00.000Z"
+last_edited: "2026-09-27T04:15:00.000Z"
 verification: null
 ---
 

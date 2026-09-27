@@ -4,7 +4,7 @@ notion_id: "3d958200-eb22-817d-b602-f6f697e2d1a9"
 notion_url: "https://app.notion.com/p/Rik-Lye-The-Forbidden-Vessel-3d958200eb22817db602f6f697e2d1a9"
 section: "Volume I — Character Cards"
 tags: []
-last_edited: "2026-09-26T10:34:00.000Z"
+last_edited: "2026-09-27T04:16:00.000Z"
 verification: null
 ---
 

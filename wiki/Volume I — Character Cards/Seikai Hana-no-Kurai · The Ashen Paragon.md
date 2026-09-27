@@ -4,7 +4,7 @@ notion_id: "3d958200-eb22-81e3-b3ae-e9f0948ddd78"
 notion_url: "https://app.notion.com/p/Seikai-Hana-no-Kurai-The-Ashen-Paragon-3d958200eb2281e3b3aee9f0948ddd78"
 section: "Volume I — Character Cards"
 tags: []
-last_edited: "2026-09-26T10:29:00.000Z"
+last_edited: "2026-09-27T04:16:00.000Z"
 verification: null
 ---
 

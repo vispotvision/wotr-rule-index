@@ -4,7 +4,7 @@ notion_id: "3d958200-eb22-81ae-a271-c9b33f8cb6eb"
 notion_url: "https://app.notion.com/p/Dr-Vaelion-Rhest-The-Sleepless-Theorist-3d958200eb2281aea271c9b33f8cb6eb"
 section: "Volume I — Character Cards"
 tags: []
-last_edited: "2026-09-26T08:43:00.000Z"
+last_edited: "2026-09-27T04:15:00.000Z"
 verification: null
 ---
 

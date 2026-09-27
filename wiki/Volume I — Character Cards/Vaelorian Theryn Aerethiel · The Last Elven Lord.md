@@ -4,7 +4,7 @@ notion_id: "3d958200-eb22-8111-b694-d32172d39d82"
 notion_url: "https://app.notion.com/p/Vaelorian-Theryn-Aerethiel-The-Last-Elven-Lord-3d958200eb228111b694d32172d39d82"
 section: "Volume I — Character Cards"
 tags: []
-last_edited: "2026-09-26T10:30:00.000Z"
+last_edited: "2026-09-27T04:17:00.000Z"
 verification: null
 ---
 

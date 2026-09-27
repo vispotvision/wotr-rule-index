@@ -4,7 +4,7 @@ notion_id: "3ba58200-eb22-8129-9313-d0fb9c592a9a"
 notion_url: "https://app.notion.com/p/Robin-Ice-The-Bastard-Runner-3ba58200eb2281299313d0fb9c592a9a"
 section: "Volume I — Character Cards"
 tags: []
-last_edited: "2026-09-26T10:36:00.000Z"
+last_edited: "2026-09-27T04:16:00.000Z"
 verification: null
 ---
 

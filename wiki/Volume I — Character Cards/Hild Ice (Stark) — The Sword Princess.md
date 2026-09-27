@@ -4,7 +4,7 @@ notion_id: "3ba58200-eb22-818d-8c37-c4ba50ed39d8"
 notion_url: "https://app.notion.com/p/Hild-Ice-Stark-The-Sword-Princess-3ba58200eb22818d8c37c4ba50ed39d8"
 section: "Volume I — Character Cards"
 tags: []
-last_edited: "2026-09-26T09:15:00.000Z"
+last_edited: "2026-09-27T04:15:00.000Z"
 verification: null
 ---
 

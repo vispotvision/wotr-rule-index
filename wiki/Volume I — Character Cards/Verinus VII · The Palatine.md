@@ -4,7 +4,7 @@ notion_id: "3b358200-eb22-81a0-b5a5-dcb396a01bcf"
 notion_url: "https://app.notion.com/p/Verinus-VII-The-Palatine-3b358200eb2281a0b5a5dcb396a01bcf"
 section: "Volume I — Character Cards"
 tags: []
-last_edited: "2026-09-26T10:27:00.000Z"
+last_edited: "2026-09-27T04:17:00.000Z"
 verification: null
 ---
 

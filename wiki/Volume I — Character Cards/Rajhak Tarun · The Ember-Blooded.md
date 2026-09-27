@@ -4,7 +4,7 @@ notion_id: "3d958200-eb22-81d2-acf6-db22e335efd1"
 notion_url: "https://app.notion.com/p/Rajhak-Tarun-The-Ember-Blooded-3d958200eb2281d2acf6db22e335efd1"
 section: "Volume I — Character Cards"
 tags: []
-last_edited: "2026-09-26T10:34:00.000Z"
+last_edited: "2026-09-27T04:16:00.000Z"
 verification: null
 ---
 

@@ -4,7 +4,7 @@ notion_id: "3d958200-eb22-81c4-8a25-f459e2b41374"
 notion_url: "https://app.notion.com/p/Tsukihana-Reimei-Moon-Bloom-at-Dawn-3d958200eb2281c48a25f459e2b41374"
 section: "Volume I — Character Cards"
 tags: []
-last_edited: "2026-09-26T10:34:00.000Z"
+last_edited: "2026-09-27T04:16:00.000Z"
 verification: null
 ---
 

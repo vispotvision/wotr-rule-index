@@ -4,7 +4,7 @@ notion_id: "3b758200-eb22-818e-b34c-e3fdd4d16030"
 notion_url: "https://app.notion.com/p/Aurelian-Prudentius-Custos-Clausorum-The-Primate-3b758200eb22818eb34ce3fdd4d16030"
 section: "Volume I — Character Cards"
 tags: []
-last_edited: "2026-09-26T10:27:00.000Z"
+last_edited: "2026-09-27T04:14:00.000Z"
 verification: null
 ---
 

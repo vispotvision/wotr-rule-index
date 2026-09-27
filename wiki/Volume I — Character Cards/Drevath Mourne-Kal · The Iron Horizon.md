@@ -4,7 +4,7 @@ notion_id: "3d958200-eb22-81b8-813f-c11b313d40d8"
 notion_url: "https://app.notion.com/p/Drevath-Mourne-Kal-The-Iron-Horizon-3d958200eb2281b8813fc11b313d40d8"
 section: "Volume I — Character Cards"
 tags: []
-last_edited: "2026-09-26T10:30:00.000Z"
+last_edited: "2026-09-27T04:15:00.000Z"
 verification: null
 ---
 

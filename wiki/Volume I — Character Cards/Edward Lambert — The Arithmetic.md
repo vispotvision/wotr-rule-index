@@ -4,7 +4,7 @@ notion_id: "3ba58200-eb22-81d5-b761-e57f367328bf"
 notion_url: "https://app.notion.com/p/Edward-Lambert-The-Arithmetic-3ba58200eb2281d5b761e57f367328bf"
 section: "Volume I — Character Cards"
 tags: []
-last_edited: "2026-09-26T10:27:00.000Z"
+last_edited: "2026-09-27T04:15:00.000Z"
 verification: null
 ---
 

@@ -4,7 +4,7 @@ notion_id: "3d958200-eb22-81bf-ba0e-ddd24f133029"
 notion_url: "https://app.notion.com/p/Vael-of-Nothing-The-Devourer-s-Index-3d958200eb2281bfba0eddd24f133029"
 section: "Volume I — Character Cards"
 tags: []
-last_edited: "2026-09-26T10:30:00.000Z"
+last_edited: "2026-09-27T04:16:00.000Z"
 verification: null
 ---
 

@@ -4,7 +4,7 @@ notion_id: "3d958200-eb22-81da-b137-d321af0543f1"
 notion_url: "https://app.notion.com/p/Beatrix-Vaelthorn-The-Root-Sworn-3d958200eb2281dab137d321af0543f1"
 section: "Volume I — Character Cards"
 tags: []
-last_edited: "2026-09-26T10:30:00.000Z"
+last_edited: "2026-09-27T04:14:00.000Z"
 verification: null
 ---
 

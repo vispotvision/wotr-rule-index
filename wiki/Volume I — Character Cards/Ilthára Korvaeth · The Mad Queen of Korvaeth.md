@@ -4,7 +4,7 @@ notion_id: "3e758200-eb22-813e-a9b7-e3bdccaf3f7e"
 notion_url: "https://app.notion.com/p/Ilth-ra-Korvaeth-The-Mad-Queen-of-Korvaeth-3e758200eb22813ea9b7e3bdccaf3f7e"
 section: "Volume I — Character Cards"
 tags: []
-last_edited: "2026-09-26T10:01:00.000Z"
+last_edited: "2026-09-27T04:13:00.000Z"
 verification: null
 ---
 

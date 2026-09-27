@@ -4,7 +4,7 @@ notion_id: "3d958200-eb22-8113-accc-f58b73c91da6"
 notion_url: "https://app.notion.com/p/Kaelan-Vorn-The-Axiomatic-Sovereign-3d958200eb228113acccf58b73c91da6"
 section: "Volume I — Character Cards"
 tags: []
-last_edited: "2026-09-26T10:34:00.000Z"
+last_edited: "2026-09-27T04:15:00.000Z"
 verification: null
 ---
 

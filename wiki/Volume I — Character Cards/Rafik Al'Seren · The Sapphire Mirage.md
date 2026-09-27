@@ -4,7 +4,7 @@ notion_id: "3d958200-eb22-8162-aad7-d80b2a1e5b88"
 notion_url: "https://app.notion.com/p/Rafik-Al-Seren-The-Sapphire-Mirage-3d958200eb228162aad7d80b2a1e5b88"
 section: "Volume I — Character Cards"
 tags: []
-last_edited: "2026-09-26T10:34:00.000Z"
+last_edited: "2026-09-27T04:16:00.000Z"
 verification: null
 ---
 

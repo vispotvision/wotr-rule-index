@@ -4,7 +4,7 @@ notion_id: "3d958200-eb22-81e9-8139-e393091aeea5"
 notion_url: "https://app.notion.com/p/Argen-Vael-thar-The-White-Arbiter-3d958200eb2281e98139e393091aeea5"
 section: "Volume I — Character Cards"
 tags: []
-last_edited: "2026-09-26T10:34:00.000Z"
+last_edited: "2026-09-27T04:14:00.000Z"
 verification: null
 ---
 

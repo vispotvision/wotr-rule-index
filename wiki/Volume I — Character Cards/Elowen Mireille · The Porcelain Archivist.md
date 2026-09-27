@@ -4,7 +4,7 @@ notion_id: "3d958200-eb22-81e5-864d-e2aed5b35dcc"
 notion_url: "https://app.notion.com/p/Elowen-Mireille-The-Porcelain-Archivist-3d958200eb2281e5864de2aed5b35dcc"
 section: "Volume I — Character Cards"
 tags: []
-last_edited: "2026-09-26T10:36:00.000Z"
+last_edited: "2026-09-27T04:15:00.000Z"
 verification: null
 ---
 

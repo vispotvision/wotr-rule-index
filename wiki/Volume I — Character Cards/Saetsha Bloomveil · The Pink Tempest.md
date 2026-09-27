@@ -4,7 +4,7 @@ notion_id: "3d958200-eb22-8171-b690-ee09fa5a3ee0"
 notion_url: "https://app.notion.com/p/Saetsha-Bloomveil-The-Pink-Tempest-3d958200eb228171b690ee09fa5a3ee0"
 section: "Volume I — Character Cards"
 tags: []
-last_edited: "2026-09-26T10:35:00.000Z"
+last_edited: "2026-09-27T04:17:00.000Z"
 verification: null
 ---
 
@@ -22,7 +22,8 @@ verification: null
 **As Of** · After Veyran Crossings
 **Name** · Saetsha Bloomveil. **Called** · The Pink Tempest. **Also known as** · Herald of the Vanished Bough, Rose-Spear Attendant, Last Bell of Elyndra. **Epithet** · She Who Keeps Vigil for a Silent Archon.
 **Race** · Eressean elf, Archonic-contact transfigured.
-**Role** · **Former Handmaiden and Herald of Elyndra.** **Gloss rights** · Unlimited; declaring is the entire discipline, and an Edict spoken quietly is an Edict spoken wrong.
+**Role** · **Former Handmaiden and Herald of Elyndra.** 
+**Gloss rights** · Unlimited; declaring is the entire discipline, and an Edict spoken quietly is an Edict spoken wrong.
 
 #### Affiliation
 

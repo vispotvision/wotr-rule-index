@@ -2039,3 +2039,29 @@ Context: Faction questions after the combat, society and politics questionnaire.
 The Night Watch Society is one body with the Night Watch: a crown-chartered society. It holds a crown charter and warrant, is organised as chapters (the Timberline among them) with walkers on fixed walks and a bulletin office, answers to the crown, and keeps the Night Register, which takes up what the Lattice Classification Bureau (a separate office) closes. 'The Society's warrant, not the Bureau's' is the crown's warrant as the Society holds it.
 
 Context: Settles C-087; follows 'night-watch-and-the-mother' item 1.
+
+## 2026-09-27 — ruling-audit-2026-09-27
+
+Corrections from the ruling audit: every answer Isaac gave by questionnaire (510, all sessions) was checked against its record. These rules now state exactly what he chose; the last three were chosen but never recorded.
+
+- R54-8-UNMEASURED_FROM_ZENITH: Unmeasured from Zenith: Stage XV keeps its EX+ Grade label, but its force is unmeasured like Zenith's.
+- R47-2-FIELD_FORMAT: New abilities use the field format, in the same look as the card top (Summary card, Codex line, FOW line, Origin): plain headings, short one-line **Field** · value entries in the Physics, Metaphysics, Mechanism, Essence and Counterplay blocks, a table for the numbers, and very little prose. The Design Chain and the six-line card are retired as page formats.
+- R57-25-UNCARDED_PAGES_READ_TIER_BANDS: Unpriced Spellcraft discipline pages are priced in EU per gate: each branch at its own Temperance Gates, from the EU-by-Stage table.
+- R49-14-PARA_SHAPE: Paragraph-length spread check stays as is (guide wants 50%+, checker warns under 35%); steady, medium paragraphs keep drawing the warning.
+- R50-10-NAME_STYLE: Technique naming leans by culture: plain English names for common-tongue fighters, true names for houses with a register.
+- R51-02-CLOSE_POV_SWEARS: Profanity may bleed into close-POV narration, using timeless profanities plus swears invented deliberately for WOTR. (Isaac: "Profanity is fine I think we should use timelees profanes and invent some deliberately for wotr".)
+- R51-12-WORD_BANK: The elevated word bank (eldritch, numinous, chthonic, tenebrous, lambent, sepulchral, incarnadine, stygian, empyreal, ineffable) is used freely, by ear.
+- R52-03-VOICE_BLOCK: Every major card carries a full voice block with fixed slots: notices first, sentence length, contractions, pet word, never says, stumbles or not, stress shift, grief shift, joy shift, one sample line.
+- R59-02-NO_ELECTRICITY: Electricity: Essence replaces it. Electricity was never discovered as a separate force; the Essence lamp and main fill its place. Fulguria practitioners are the closest thing.
+- R59-04-VEHICLES: Vehicles: railways where they run and trams in the big cities; Essence- or engine-driven motorcars for the rich and the state in the later span; dirigibles for the Guild, the state or luxury travel; early fixed-wing aircraft in the latest part of the span, military and rare; and other WOTR-created objects and things of its own invention.
+- R59-06-MEDIA: Media: daily papers and a penny press in the cities, broadsheets reaching the provinces late; photography (studio portraits, Guild identity plates, evidence); early cinema or an Essence equivalent in the latest span; phonographs or Essence sound-plates for the rich.
+- R60-09-ACCORD_FORMING_NOW: The Guild Accord is forming now: the communion is being negotiated during the story, and the guilds are still competing hunting companies.
+- R60-10-LICENSED_FOR_HIRE: Anyone may practise privately, but taking pay for workings or hunts needs a guild licence; unlicensed hunters are cheap, common and illegal-ish.
+- R60-17-LEARNING_ANYWAY: Those who learn anyway: black-market teaching (hedge-schools, stolen manuals, back-room masters; a whole criminal economy); self-derived workings, the mark of the outlaw and the genius; the guild loophole (hunting guilds train their own outside the state's gate, part of why the states want the Accord); and unlicensed high magic is punished like treason: branding, Crystal sealing, death.
+- R60-24-THE_MOTHER_IS_A_CULT: The Mother is a cult: a religious following of the Becoming; members seek Malphas's path to undeath and worship the rot.
+- R49-35-SPEECH_CHECK: No exemption for the crafted speech: even it must pass the composure check; triads and parallel clauses are legal in it, by the later Voices answer (R52-06).
+- R57-26-USAGE_STRIPPED_NUMBERS_KEPT (new): The 76 published technique and Spellcraft write-ups are stripped of usage lines (tactics and fight-count phrasing such as 'three verdicts per fight', 'cheap against mobs'); their numbers stay: costs stay as shares of reserve, and a plain 'reserve covers N uses' stays only where it is a number, not advice.
+- R57-27-PATH_GATE_BINDS_ITS_COMPONENT (new): A Path gate binds only the component it names: where a working relies on a Sub-Stat component its declared Path does not open, that component runs capped or absent (Florwyn's Canticle heals but doesn't reinforce); no Path changes.
+- R57-28-OWN_FIELD_COUNTS_TO_SATURATION (new): A working's own Essence field counts toward saturation: a threshold is defined in volume and rate, in the new density units, and a working past it triggers the saturation consequence (Crystal Fracture Event for everyone present) like any other field.
+
+Context: Audit of RULINGS.md and rules/ against the AskUserQuestion answers in every session transcript.

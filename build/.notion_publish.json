@@ -929,5 +929,10 @@
     "page_id": "3e858200-eb22-81b7-85d0-e54323d85e08",
     "title": "Hiromi: The Picnic",
     "hash": "055a0158711b829a"
+  },
+  "scenes/hiromi_something_special.md": {
+    "page_id": "3e858200-eb22-8119-8b05-c72aa5d607aa",
+    "title": "Hiromi: Something Special",
+    "hash": "48ee2e3271c2d8b9"
   }
 }

@@ -874,5 +874,10 @@
     "page_id": "3e858200-eb22-81be-8635-decca923a746",
     "title": "Geturo: Who's Next",
     "hash": "e2111267f9d0dc52"
+  },
+  "scenes/geturo_the_other_side.md": {
+    "page_id": "3e858200-eb22-81f3-b196-dc4d43de0526",
+    "title": "Geturo: The Other Side",
+    "hash": "4e3f4a8d027b44ef"
   }
 }

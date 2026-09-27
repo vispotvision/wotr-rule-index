@@ -161,6 +161,8 @@ Session end: rewrite State of Play, append the Ledger, advance Fronts, add rulin
 
 # PROSE STANDARDS
 
+**Tense (R49-02):** roleplay turns, and work improved for a roleplay, in present tense; written scenes and books in past tense.
+
 **Every turn:** sensory grounding, specific and layered. Texture from the Standing Inventory and the senses bank; one world-only detail per beat (R53-30). Metaphor native; similes welcome when earned, only two competing over one beat are flagged (R49-18). No em dashes. No hypophora. No "it's not X, it's Y." No countdown negation, no manufactured fragment emphasis, no Ladder, no Gloss, no narrator moral adjudication, no reaction-shot cutaway, no comedic setup-deadpan-reaction. Varied sentence length inside every paragraph, 80% variation target (R49-13). Reification by ear, never at the beat (R49-21). No hard-banned slop words (R51-10).
 
 **Set pieces:** 5,000+ words (R48-46), opening varies by scene (R49-25), end on an action, a concrete image or a line (R49-26), NPC italic thoughts in roleplay only (R48-40), a break mark allowed for real jumps (R49-27), HEMA vocabulary as choreography skeleton, the combat technical floor (Thirteen §4), three-layer hit as three causal sentences at first display and finisher, gore in full, the POV's own body on the page. ◆ Run WOTR MCP's verify_scene (combat=true), fix every FAIL, then present. Never a single pass.

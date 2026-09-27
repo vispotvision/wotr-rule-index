@@ -1,8 +1,8 @@
 # Live rules by domain, with source text
 
-895 live of 1074 extracted. Newest pack first within each domain; the newer rule governs where two overlap.
+921 live of 1101 extracted. Newest pack first within each domain; the newer rule governs where two overlap.
 
-## adjudication (51)
+## adjudication (53)
 
 ### R15-4-THIRTEEN_HAX_STRUCK [Pack Fifteen §4]
 
@@ -154,19 +154,31 @@ One combat turn is six seconds; efficiency above one draws its surplus from the 
 
 > One combat turn is six seconds. Efficiency above one draws its surplus from the Aether stratum. Healing and mending always cost more than breaking.
 
-### R56-01-BRUTAL_LETHALITY [Combat, Society and Politics Law 2026-09-26 Combat, society and politics]
+### R57-10-NEVER_RIGGED [Rulings Backfill 2026-09-26 2026-09-24 — new (full-knowledge, fair-play)]
+
+Meta knowledge informs the writer, not the characters; opponents use what they could plausibly know and do, abilities stay physically grounded, and every engagement is a fair, real challenge for the PC.
+
+> Knowledge is accessible, including meta knowledge, but is never used to outrageous advantage: NPCs and opponents fight with what they could plausibly know and do, abilities stay grounded in real physics principles, and every engagement is built to be fun and a genuine challenge for the PC, never rigged in either direction.
+
+### R57-12-RUNG_I1_GENERAL_SENTENCE [Rulings Backfill 2026-09-26 2026-09-25 — new (rules for ruling, I-1)]
+
+Where a ruling's operative sentence is written generally, it applies to every case it describes, not only the question asked.
+
+> Where a ruling answers a narrow question but its operative sentence is written generally, the sentence applies to every case it describes
+
+### R60-01-BRUTAL_LETHALITY [Combat, Society and Politics Law 2026-09-26 Combat, society and politics]
 
 Lethality among ordinary fighters is brutally real: one good cut or a ball in the gut can kill, often days later from infection; most fights end in the first seconds; a wounded man is out of the fight.
 
 > Lethality among ordinary fighters is brutally real: one good cut or a ball in the gut can kill, often days later from infection; most fights end in the first seconds; a wounded man is out of the fight.
 
-### R56-02-REAL_HEALING_TIMES [Combat, Society and Politics Law 2026-09-26 Combat, society and politics]
+### R60-02-REAL_HEALING_TIMES [Combat, Society and Politics Law 2026-09-26 Combat, society and politics]
 
 Healing runs on real timelines (weeks for a cut, months for bone). Vitalia healing can shorten it, but it costs the healer EU and the patient's body pays something (scar tissue, fever, hunger).
 
 > Healing runs on real timelines (weeks for a cut, months for bone). Vitalia healing can shorten it, but it costs the healer EU and the patient's body pays something (scar tissue, fever, hunger).
 
-### R56-11-TRACE_EVIDENCE_AND_JURISDICTION [Combat, Society and Politics Law 2026-09-26 Combat, society and politics]
+### R60-11-TRACE_EVIDENCE_AND_JURISDICTION [Combat, Society and Politics Law 2026-09-26 Combat, society and politics]
 
 A crime done with a working is proved by trace examiners reading its traces as evidence, and guild courts and crown courts fight over jurisdiction.
 
@@ -222,9 +234,9 @@ Dissonance Sub-Stats per C-013: Overflow, Overchannel, Persistence.
 
 ### R54-8-UNMEASURED_FROM_ZENITH [Queue Questionnaire 2026-09-26 WAR-142]
 
-Stage XV keeps the EX+ Grade label but its force is unmeasured like Zenith; the Zenith row stands beside the Grade ladder, not on it.
+Unmeasured from Zenith: Stage XV keeps its EX+ Grade label, but its force is unmeasured like Zenith's.
 
-> Unmeasured from Zenith: Stage XV keeps its EX+ Grade label, but its force is unmeasured like Zenith's; the Zenith row sits beside the Grade ladder, not on it.
+> Unmeasured from Zenith: Stage XV keeps its EX+ Grade label, but its force is unmeasured like Zenith's.
 
 ### R54-9-STRIKE_FORCE_OUTLIERS_STAND [Queue Questionnaire 2026-09-26 WAR-49,WAR-62]
 
@@ -310,7 +322,7 @@ Isaac may take over any NPC's voice anytime by saying so; the partner hands it b
 
 > Isaac may take over any NPC's voice anytime by saying so; the partner hands it back after.
 
-## character-sheet (139)
+## character-sheet (147)
 
 ### R20C-16-SONZAI_RECORD_CARD [Pack Twenty R20C-16]
 
@@ -437,12 +449,6 @@ Class (Offensive/Defensive/Supplementary), Family (one of the Eight), Wellspring
 The description is written the way a man teaching it would write it: flat operational prose, no mood, no cadence work, no elegiac register — that belongs in scenes.
 
 > Written the way a man who has to teach it would write it. How the resource divides, what the working acts on, what the target experiences, what breaks it, what happens when it fails. Flat operational prose. No mood, no cadence work, no elegiac register. That belongs in scenes.
-
-### R8-16-PHYSICAL_NUMBERS_ONLY [Pack Eight 1.6]
-
-Drawback numbers are physical (metres, seconds, kilograms, degrees, counts, durations); never a number attached to Essence, Coherence, resonance or Wellspring output — Pack Seven's metaphysical-units ban holds on the sheet as firmly as on the page.
-
-> Numbers where the number is physical: metres, seconds, kilograms, degrees, counts, durations. Never a number attached to Essence, Coherence, resonance or Wellspring output. Pack Seven's ban on metaphysical units holds on the sheet as firmly as on the page.
 
 ### R8-16-OVERUSE_STRAINS_FAILURE [Pack Eight 1.6]
 
@@ -614,9 +620,9 @@ An ability entry states the mechanism, what it can act on, its costs, limits, te
 
 ### R47-2-FIELD_FORMAT [Ability Law 2026-09-26 B]
 
-New ability pages use the card top (Summary card, Codex line, FOW line, Origin) plus the Physics, Metaphysics, Mechanism, Essence and Counterplay field blocks; the Design Chain and six-line card are retired.
+New abilities use the field format, in the same look as the card top (Summary card, Codex line, FOW line, Origin): plain headings, short one-line **Field** · value entries in the Physics, Metaphysics, Mechanism, Essence and Counterplay b...
 
-> New abilities use the field format: the card top (Summary card, Codex line, FOW line, Origin) followed by the Physics, Metaphysics, Mechanism, Essence and Counterplay blocks, each a set of one-line **Field** · value entries. The Design Chain and the six-line card are retired as page formats.
+> New abilities use the field format, in the same look as the card top (Summary card, Codex line, FOW line, Origin): plain headings, short one-line **Field** · value entries in the Physics, Metaphysics, Mechanism, Essence and Counterplay blocks, a table for the numbers, and very little prose. The Design Chain and the six-line card are retired as page formats.
 
 ### R47-4-LEDGER_COSTS [Ability Law 2026-09-26 D]
 
@@ -629,6 +635,60 @@ A new ability's cost is a share of full reserve, with EU and joules read off the
 Governing Sub-Stats belong to the practitioner rather than the working's Wellsprings, and anyone may allocate into their Stage's strain band at a stated risk.
 
 > Governing Sub-Stats belong to the practitioner, not to the working's Wellsprings, and anyone may allocate into their Stage's strain band at a stated risk.
+
+### R57-01-KWON_MU_JIN_IS_38 [Rulings Backfill 2026-09-26 2026-09-18 — new]
+
+Kwon Mu-jin is 38, not 24; his Catalyst Event stays at fourteen and 'ten years since' reads twenty-four years.
+
+> Kwon Mu-jin is 38, not 24.
+
+### R57-05-ROVHEN_INVESTIGATOR [Rulings Backfill 2026-09-26 2026-09-24 — new]
+
+Rovhen Talvasciel is retconned: a human retired private magical investigator, 28, once Edmund Lambert's assistant, now an Aetherion Academy instructor; 'The Prettier' card is superseded.
+
+> Rovhen is now a human retired private magical investigator, 28, former assistant to Edmund Lambert, new instructor at Aetherion Academy teaching the observation and investigation of magical phenomena.
+
+### R57-07-DOCUMENTS_FULLY_METAPHYSICAL [Rulings Backfill 2026-09-26 2026-09-24 — R12-3-DESIGN_CHAIN_RETURNS]
+
+Cards, ability entries, items, lore, in-world documents and exports print stats, Grades, Bands, Stage, EU, AU/s, eta, Crystal State and Category; empty fields stay flagged pending.
+
+> Confirmed and extended to every document: character cards, technique and ability entries, items, lore, in-world documents and exports are fully metaphysical.
+
+### R57-08-PHYSICAL_NUMBERS_ONLY_STRUCK [Rulings Backfill 2026-09-26 2026-09-24 — R8-16-PHYSICAL_NUMBERS_ONLY]
+
+R8-16's ban on metaphysical drawback numbers is struck, on R20C-39, R12-1-NUMBER_BAN_STRUCK and the documents-are-fully-metaphysical ruling.
+
+> Superseded; mark struck in the index along with R8-12-SHEET_GETS_OPERATIONAL_ACCOUNT's clause "the Design Chain remains workbook".
+
+### R57-09-FULL_KNOWLEDGE [Rulings Backfill 2026-09-26 2026-09-24 — new (full-knowledge, fair-play)]
+
+Natalie writes from all of WOTR: cards, Stat Sheet, FOW, Codex, wiki, scenes, rulings, meta and system knowledge.
+
+> Natalie draws on everything that exists in WOTR (cards, Stat Sheet, FOW, Codex, wiki, scenes, rulings, meta and system knowledge) when writing characters and prose.
+
+### R57-11-MECHANISM_IS_EFFECT [Rulings Backfill 2026-09-26 2026-09-24 — new (Mechanism and Effect)]
+
+A working's Effect is written as its mechanism playing out; no Effect line that another mechanism could produce, no Mechanism line that leaves the Effect separate.
+
+> Mechanism and Effect are one thing. The Effect of a working is its mechanism playing out: what happens is written as how it happens (the glyph moves a boundary, the law does what it does, and that is what the target sees and feels). No Effect line that could be true of a different mechanism, and no Mechanism line that leaves the Effect to be described separately.
+
+### R57-13-RUNG_I2_OFF_LADDER_BOTH_WAYS [Rulings Backfill 2026-09-26 2026-09-25 — new (rules for ruling, I-2)]
+
+Permission for a card to sit above a ladder is equally permission to sit below it; the card governs.
+
+> A ruling that lets a card sit above a ladder (η above its range, Aether Class above its Stage) equally lets it sit below; the card governs
+
+### R57-17-RUNG_I6_CARD_NUMBERS_BOOK_EVENTS [Rulings Backfill 2026-09-26 2026-09-25 — new (rules for ruling, I-6)]
+
+Where a book and a card disagree, stats and mechanics follow the card and story events follow the book's bible and chapters.
+
+> Stats and mechanics follow the character's card; what happens in the story follows the book's bible and chapters.
+
+### R57-19-RESERVE_SCALING_ONE_FACTOR [Rulings Backfill 2026-09-26 2026-09-25 — C-059 (WAR-127; amends WAR-70)]
+
+An out-of-band EU reserve is moved to the band's geometric-mean set point and every other EU figure on the card takes the same factor; Flux Density, AU/s and eta stand; no stated reserve, no scaling.
+
+> Each card whose reserve R44-1 puts outside its Stage's band is scaled by one factor: factor = (band midpoint in decades, the geometric mean of floor and ceiling joules / 1 MJ) / (the card's stated reserve). Every other EU figure on that card (technique, Form and working costs, per-use figures) is multiplied by the same factor, so each cost keeps its stated share of the reserve and distinct figures stay distinct. Flux Density, AU/s and eta stand as written. A card with no stated reserve is not scaled by this ruling and is logged.
 
 ### R44-1-EU_JOULE_ONE_MEGAJOULE [Essence Ledger Rulings 2026-09-25 C-034]
 
@@ -654,19 +714,19 @@ A bare "Band V" on a card reads as the live Level Band, not the retired lettered
 
 > Confirmed: the bare "Band V" on Raga's and Verinus VII's cards is the live Level Band, and nothing changes. The brief's "stale Band" item closes with no edit.
 
-### R54-01-HILD_TWELVE_AT_DEATH [Follow-up Rulings 2026-09-26 Follow-up answers]
+### R58-01-HILD_TWELVE_AT_DEATH [Follow-up Rulings 2026-09-26 Follow-up answers]
 
 Hild's age at death: twelve at death. She is 11 on her card's As Of moment and turns twelve before the ninth hour; 'twelve' at her death stands everywhere.
 
 > Hild's age at death: twelve at death. She is 11 on her card's As Of moment and turns twelve before the ninth hour; 'twelve' at her death stands everywhere.
 
-### R54-12-AS_OF_LINE_ON_EVERY_CARD [Follow-up Rulings 2026-09-26 Follow-up answers]
+### R58-12-AS_OF_LINE_ON_EVERY_CARD [Follow-up Rulings 2026-09-26 Follow-up answers]
 
 Every character card gets an As Of line, dated from its own Lore and Standing line.
 
 > Every character card gets an As Of line, dated from its own Lore and Standing line.
 
-### R54-14-YUKARI_EYES_CRIMSON [Follow-up Rulings 2026-09-26 Follow-up answers]
+### R58-14-YUKARI_EYES_CRIMSON [Follow-up Rulings 2026-09-26 Follow-up answers]
 
 Yukari eyes: crimson. The cards win; the bloodline page's silver-violet is corrected.
 
@@ -971,9 +1031,9 @@ A voice is mind and sound in equal measure: what they notice, want, refuse and h
 
 ### R52-03-VOICE_BLOCK [Voice Law 2026-09-26 How distinct voices must be]
 
-Every major card carries a full voice block with fixed slots: notices first, sentence length, contractions, pet word, never says, stumbles or not, gloss rights, stress shift, grief shift, joy shift, one sample line.
+Every major card carries a full voice block with fixed slots: notices first, sentence length, contractions, pet word, never says, stumbles or not, stress shift, grief shift, joy shift, one sample line.
 
-> Every major card carries a full voice block with fixed slots: notices first, sentence length, contractions, pet word, never says, stumbles or not, gloss rights, stress shift, grief shift, joy shift, one sample line.
+> Every major card carries a full voice block with fixed slots: notices first, sentence length, contractions, pet word, never says, stumbles or not, stress shift, grief shift, joy shift, one sample line.
 
 ### R52-04-CONTRACTIONS [Voice Law 2026-09-26 How distinct voices must be]
 
@@ -1427,7 +1487,7 @@ Vohrin is one power at two levels, Titan and Wellspring; frost workings drawing 
 
 > Vohrin is one power at two levels, Titan and Wellspring; the four frost workings become Titan-derived, likely raising their standing and cost.
 
-## combat (88)
+## combat (90)
 
 ### R20C-22-AMMUNITION_TIERS_RATIFIED [Pack Twenty R20C-22]
 
@@ -1807,31 +1867,43 @@ One combat turn is six seconds; efficiency above one draws its surplus from the 
 
 > One combat turn is six seconds. Efficiency above one draws its surplus from the Aether stratum. Healing and mending always cost more than breaking.
 
-### R56-01-BRUTAL_LETHALITY [Combat, Society and Politics Law 2026-09-26 Combat, society and politics]
+### R57-03-JUGGERNAUTS_FIST_CONTACT [Rulings Backfill 2026-09-26 2026-09-22 — new]
+
+Any contact with Hiromi's Juggernaut's Fist counts as a landed strike, parried or blocked included, and each contact deepens a gravity well on the struck body.
+
+> Juggernaut's Fist (Hiromi Mahuo): any contact counts as a landed strike, including a blow that is parried or blocked. Each contact deepens a gravity well (aetheric pressure raising air pressure and local pull) on the struck body.
+
+### R57-10-NEVER_RIGGED [Rulings Backfill 2026-09-26 2026-09-24 — new (full-knowledge, fair-play)]
+
+Meta knowledge informs the writer, not the characters; opponents use what they could plausibly know and do, abilities stay physically grounded, and every engagement is a fair, real challenge for the PC.
+
+> Knowledge is accessible, including meta knowledge, but is never used to outrageous advantage: NPCs and opponents fight with what they could plausibly know and do, abilities stay grounded in real physics principles, and every engagement is built to be fun and a genuine challenge for the PC, never rigged in either direction.
+
+### R60-01-BRUTAL_LETHALITY [Combat, Society and Politics Law 2026-09-26 Combat, society and politics]
 
 Lethality among ordinary fighters is brutally real: one good cut or a ball in the gut can kill, often days later from infection; most fights end in the first seconds; a wounded man is out of the fight.
 
 > Lethality among ordinary fighters is brutally real: one good cut or a ball in the gut can kill, often days later from infection; most fights end in the first seconds; a wounded man is out of the fight.
 
-### R56-02-REAL_HEALING_TIMES [Combat, Society and Politics Law 2026-09-26 Combat, society and politics]
+### R60-02-REAL_HEALING_TIMES [Combat, Society and Politics Law 2026-09-26 Combat, society and politics]
 
 Healing runs on real timelines (weeks for a cut, months for bone). Vitalia healing can shorten it, but it costs the healer EU and the patient's body pays something (scar tissue, fever, hunger).
 
 > Healing runs on real timelines (weeks for a cut, months for bone). Vitalia healing can shorten it, but it costs the healer EU and the patient's body pays something (scar tissue, fever, hunger).
 
-### R56-03-HARD_RESERVE_CLOCK [Combat, Society and Politics Law 2026-09-26 Combat, society and politics]
+### R60-03-HARD_RESERVE_CLOCK [Combat, Society and Politics Law 2026-09-26 Combat, society and politics]
 
 Essence and stamina run on a hard clock by the Ledger's numbers; long fights are won by whoever manages the reserve; Starvation hits mid-fight on overspend.
 
 > Essence and stamina run on a hard clock by the Ledger's numbers; long fights are won by whoever manages the reserve; Starvation hits mid-fight on overspend.
 
-### R56-04-DEATH_IS_PERMANENT [Combat, Society and Politics Law 2026-09-26 Combat, society and politics]
+### R60-04-DEATH_IS_PERMANENT [Combat, Society and Politics Law 2026-09-26 Combat, society and politics]
 
 Death is almost always permanent; the only exceptions are liches, the undead and their kind.
 
 > Death is almost always permanent; the only exceptions are liches, the undead and their kind.
 
-### R55-12-TRANSITIONAL_MILITARY [Era and Apparatus Law 2026-09-26 Era and apparatus]
+### R59-12-TRANSITIONAL_MILITARY [Era and Apparatus Law 2026-09-26 Era and apparatus]
 
 Military: transitional. Cavalry, bright uniforms and drill in the early span; khaki, trenches and rare machine guns later; practitioners change everything anyway.
 
@@ -1857,9 +1929,9 @@ A Stage XIV card's Travel Speed is Part Six's Immeasurable Speed classification,
 
 ### R54-8-UNMEASURED_FROM_ZENITH [Queue Questionnaire 2026-09-26 WAR-142]
 
-Stage XV keeps the EX+ Grade label but its force is unmeasured like Zenith; the Zenith row stands beside the Grade ladder, not on it.
+Unmeasured from Zenith: Stage XV keeps its EX+ Grade label, but its force is unmeasured like Zenith's.
 
-> Unmeasured from Zenith: Stage XV keeps its EX+ Grade label, but its force is unmeasured like Zenith's; the Zenith row sits beside the Grade ladder, not on it.
+> Unmeasured from Zenith: Stage XV keeps its EX+ Grade label, but its force is unmeasured like Zenith's.
 
 ### R54-9-STRIKE_FORCE_OUTLIERS_STAND [Queue Questionnaire 2026-09-26 WAR-49,WAR-62]
 
@@ -1957,7 +2029,7 @@ Every duel ends with a full aftermath beat: wounds dressed, what changed between
 
 > Every duel ends with a full aftermath beat: wounds dressed, what changed between people.
 
-## dialogue (141)
+## dialogue (143)
 
 ### R20C-36-CLEARLY_WINS [Pack Twenty R20C-36]
 
@@ -2211,6 +2283,18 @@ A loaded word gets one physical response on first use and no comment; meaning ar
 
 > A loaded word gets one physical response on first use and no comment at all. Meaning arrives on the third appearance, and it arrives through change: someone else uses the word, or the person who always uses it withholds it, or it lands in a register that makes the earlier uses retroactively legible. Withholding is the strongest of the three.
 
+### R57-04-DIALOGUE_IMPROVED_ON_REQUEST [Rulings Backfill 2026-09-26 2026-09-21 — R19-2-FIXED_TEXT]
+
+When Isaac asks for an RP post to be made better, his dialogue is improved too (voice, rhythm, realism) keeping meaning, intent and prosodic notation; fixed text still governs scene work.
+
+> When Isaac asks Natalie to "make this better / improve it" on an RP post, his dialogue is in scope and gets improved automatically (voice, rhythm, realism per R19-4), keeping each line's meaning and intent and his prosodic notation (capitals, ellipses) per R19-3.
+
+### R58-05-SWEARS_AND_SENSE_BANKS_APPROVED [Follow-up Rulings 2026-09-26 Follow-up answers]
+
+The WOTR swears, sense banks, culture inventories, price table and narration registers are approved and canon; completes R51-35's draft-for-approval step.
+
+> Approved to publish: the price table, the culture inventories (five new sheets plus Gone lists, folk beliefs and literacy for the seven existing cultures), the swears and sense banks, and the Moto, Bram Greymane and Lorn Stark narration registers.
+
 ### R20-4-PRONUNCIATION_ADAPTATION [Naming Guide Amendment Part Four]
 
 When a name crosses cultures, the speaker's own phonology imposes itself (a Concord human flattens Dawi consonant gradation, a Dawi stress-accents a Yukari pitch-accent name); these adaptations should appear in dialogue as characterisation, not be treated as typos.
@@ -2249,9 +2333,9 @@ Species stress tells win: the uniform stress rule governs humans; each non-human
 
 ### R49-35-SPEECH_CHECK [Prose Law 2026-09-26 Dialogue]
 
-No exemption for the crafted speech: even it must pass the composure check, eloquent without balanced parallel clauses.
+No exemption for the crafted speech: even it must pass the composure check; triads and parallel clauses are legal in it, by the later Voices answer (R52-06).
 
-> No exemption for the crafted speech: even it must pass the composure check, eloquent without balanced parallel clauses.
+> No exemption for the crafted speech: even it must pass the composure check; triads and parallel clauses are legal in it, by the later Voices answer (R52-06).
 
 ### R49-36-LIE_TELLS [Prose Law 2026-09-26 Dialogue]
 
@@ -2375,9 +2459,9 @@ Timeless narration varies by culture: plain, undated English by default; some cu
 
 ### R51-02-CLOSE_POV_SWEARS [Vocabulary Law 2026-09-26 Vocabulary and diction]
 
-Profanity may bleed into close-POV narration, using timeless profanities plus swears invented deliberately for WOTR; other modern words stay out of narration. (Isaac: "Profanity is fine I think we should use timelees profanes and invent ...
+Profanity may bleed into close-POV narration, using timeless profanities plus swears invented deliberately for WOTR. (Isaac: "Profanity is fine I think we should use timelees profanes and invent some deliberately for wotr".)
 
-> Profanity may bleed into close-POV narration, using timeless profanities plus swears invented deliberately for WOTR; other modern words stay out of narration. (Isaac: "Profanity is fine I think we should use timelees profanes and invent some deliberately for wotr".)
+> Profanity may bleed into close-POV narration, using timeless profanities plus swears invented deliberately for WOTR. (Isaac: "Profanity is fine I think we should use timelees profanes and invent some deliberately for wotr".)
 
 ### R51-03-LIST_SLANG [Vocabulary Law 2026-09-26 Vocabulary and diction]
 
@@ -2435,9 +2519,9 @@ Ordinary words that are also WOTR terms (delve, echo, numinous, sovereign, sanct
 
 ### R51-12-WORD_BANK [Vocabulary Law 2026-09-26 Vocabulary and diction]
 
-The elevated word bank (eldritch, chthonic, tenebrous, lambent, sepulchral, incarnadine, stygian, empyreal, ineffable) is used freely, by ear.
+The elevated word bank (eldritch, numinous, chthonic, tenebrous, lambent, sepulchral, incarnadine, stygian, empyreal, ineffable) is used freely, by ear.
 
-> The elevated word bank (eldritch, chthonic, tenebrous, lambent, sepulchral, incarnadine, stygian, empyreal, ineffable) is used freely, by ear.
+> The elevated word bank (eldritch, numinous, chthonic, tenebrous, lambent, sepulchral, incarnadine, stygian, empyreal, ineffable) is used freely, by ear.
 
 ### R51-13-WORD_STOCK [Vocabulary Law 2026-09-26 Vocabulary and diction]
 
@@ -2591,9 +2675,9 @@ A voice is mind and sound in equal measure: what they notice, want, refuse and h
 
 ### R52-03-VOICE_BLOCK [Voice Law 2026-09-26 How distinct voices must be]
 
-Every major card carries a full voice block with fixed slots: notices first, sentence length, contractions, pet word, never says, stumbles or not, gloss rights, stress shift, grief shift, joy shift, one sample line.
+Every major card carries a full voice block with fixed slots: notices first, sentence length, contractions, pet word, never says, stumbles or not, stress shift, grief shift, joy shift, one sample line.
 
-> Every major card carries a full voice block with fixed slots: notices first, sentence length, contractions, pet word, never says, stumbles or not, gloss rights, stress shift, grief shift, joy shift, one sample line.
+> Every major card carries a full voice block with fixed slots: notices first, sentence length, contractions, pet word, never says, stumbles or not, stress shift, grief shift, joy shift, one sample line.
 
 ### R52-04-CONTRACTIONS [Voice Law 2026-09-26 How distinct voices must be]
 
@@ -2805,7 +2889,7 @@ Narration refers to characters by POV epithets, the way the viewpoint sees them;
 
 > Narration refers to characters by POV epithets, the way the viewpoint sees them; the naming characterises.
 
-## documents (29)
+## documents (34)
 
 ### R20C-3-SWEEP_TWO_TIERS [Pack Twenty R20C-3]
 
@@ -2923,9 +3007,9 @@ An ability entry states the mechanism, what it can act on, its costs, limits, te
 
 ### R47-2-FIELD_FORMAT [Ability Law 2026-09-26 B]
 
-New ability pages use the card top (Summary card, Codex line, FOW line, Origin) plus the Physics, Metaphysics, Mechanism, Essence and Counterplay field blocks; the Design Chain and six-line card are retired.
+New abilities use the field format, in the same look as the card top (Summary card, Codex line, FOW line, Origin): plain headings, short one-line **Field** · value entries in the Physics, Metaphysics, Mechanism, Essence and Counterplay b...
 
-> New abilities use the field format: the card top (Summary card, Codex line, FOW line, Origin) followed by the Physics, Metaphysics, Mechanism, Essence and Counterplay blocks, each a set of one-line **Field** · value entries. The Design Chain and the six-line card are retired as page formats.
+> New abilities use the field format, in the same look as the card top (Summary card, Codex line, FOW line, Origin): plain headings, short one-line **Field** · value entries in the Physics, Metaphysics, Mechanism, Essence and Counterplay blocks, a table for the numbers, and very little prose. The Design Chain and the six-line card are retired as page formats.
 
 ### R47-7-NAMES_NOT_NUMBERS [Ability Law 2026-09-26 G]
 
@@ -2933,19 +3017,49 @@ Tiers of standing and ladder rungs are written by name only, never numbered.
 
 > Tiers of standing and ladder rungs are written by name only, never as numbers.
 
-### R56-18-ACCORD_FORMING_IN_CIRCLES [Combat, Society and Politics Law 2026-09-26 Combat, society and politics]
+### R57-07-DOCUMENTS_FULLY_METAPHYSICAL [Rulings Backfill 2026-09-26 2026-09-24 — R12-3-DESIGN_CHAIN_RETURNS]
+
+Cards, ability entries, items, lore, in-world documents and exports print stats, Grades, Bands, Stage, EU, AU/s, eta, Crystal State and Category; empty fields stay flagged pending.
+
+> Confirmed and extended to every document: character cards, technique and ability entries, items, lore, in-world documents and exports are fully metaphysical.
+
+### R57-08-PHYSICAL_NUMBERS_ONLY_STRUCK [Rulings Backfill 2026-09-26 2026-09-24 — R8-16-PHYSICAL_NUMBERS_ONLY]
+
+R8-16's ban on metaphysical drawback numbers is struck, on R20C-39, R12-1-NUMBER_BAN_STRUCK and the documents-are-fully-metaphysical ruling.
+
+> Superseded; mark struck in the index along with R8-12-SHEET_GETS_OPERATIONAL_ACCOUNT's clause "the Design Chain remains workbook".
+
+### R57-11-MECHANISM_IS_EFFECT [Rulings Backfill 2026-09-26 2026-09-24 — new (Mechanism and Effect)]
+
+A working's Effect is written as its mechanism playing out; no Effect line that another mechanism could produce, no Mechanism line that leaves the Effect separate.
+
+> Mechanism and Effect are one thing. The Effect of a working is its mechanism playing out: what happens is written as how it happens (the glyph moves a boundary, the law does what it does, and that is what the target sees and feels). No Effect line that could be true of a different mechanism, and no Mechanism line that leaves the Effect to be described separately.
+
+### R57-14-RUNG_I3_STALE_STATUS_NOTES [Rulings Backfill 2026-09-26 2026-09-25 — new (rules for ruling, I-3)]
+
+A canon line stating the state of the record, since overtaken, may be updated by any sweep citing what overtook it.
+
+> A line in canon that states the state of the record ("Veyran is unattested", "the efficiency conflict, unresolved") and that the record has since overtaken may be updated by any sweep, citing what overtook it; no ruling needed.
+
+### R57-26-USAGE_STRIPPED_NUMBERS_KEPT [Rulings Backfill 2026-09-26 Ruling audit]
+
+The 76 published technique and Spellcraft write-ups are stripped of usage lines (tactics and fight-count phrasing such as 'three verdicts per fight', 'cheap against mobs'); their numbers stay: costs stay as shares of reserve, and a plain...
+
+> The 76 published technique and Spellcraft write-ups are stripped of usage lines (tactics and fight-count phrasing such as 'three verdicts per fight', 'cheap against mobs'); their numbers stay: costs stay as shares of reserve, and a plain 'reserve covers N uses' stays only where it is a number, not advice.
+
+### R60-18-ACCORD_FORMING_IN_CIRCLES [Combat, Society and Politics Law 2026-09-26 Combat, society and politics]
 
 The Guild Accord's pages read as forming in circles: the Articles and Commission framework bind where a circle has signed and not yet elsewhere.
 
 > The Guild Accord's pages read as forming in circles: the Articles and Commission framework bind where a circle has signed and not yet elsewhere.
 
-### R55-16-APPARATUS_PAGES [Era and Apparatus Law 2026-09-26 Era and apparatus]
+### R59-16-APPARATUS_PAGES [Era and Apparatus Law 2026-09-26 Era and apparatus]
 
 These answers are folded into The Apparatus of the Age and The Works and Days as settled text with a regional gradient section; still no decade-by-decade table.
 
 > These answers are folded into The Apparatus of the Age and The Works and Days as settled text with a regional gradient section; still no decade-by-decade table.
 
-### R54-09-BARA_IS_A_CHARACTER [Follow-up Rulings 2026-09-26 Follow-up answers]
+### R58-09-BARA_IS_A_CHARACTER [Follow-up Rulings 2026-09-26 Follow-up answers]
 
 Bara is a character: stripped from system pages like the others.
 
@@ -2981,7 +3095,7 @@ Isaac's direction of 2026-09-12 overtakes the two pending rows that kept the pac
 
 > Superseded by Isaac's direction of 2026-09-12 to fold the packs into dated base-guide editions ("yes — start folding the packs in now"); eleven guides are folded, the remaining six follow the same way.
 
-## items (43)
+## items (44)
 
 ### R20C-22-AMMUNITION_TIERS_RATIFIED [Pack Twenty R20C-22]
 
@@ -3103,7 +3217,13 @@ Tiers of standing and ladder rungs are written by name only, never numbered.
 
 > Tiers of standing and ladder rungs are written by name only, never as numbers.
 
-### R55-11-MATERIALS [Era and Apparatus Law 2026-09-26 Era and apparatus]
+### R57-07-DOCUMENTS_FULLY_METAPHYSICAL [Rulings Backfill 2026-09-26 2026-09-24 — R12-3-DESIGN_CHAIN_RETURNS]
+
+Cards, ability entries, items, lore, in-world documents and exports print stats, Grades, Bands, Stage, EU, AU/s, eta, Crystal State and Category; empty fields stay flagged pending.
+
+> Confirmed and extended to every document: character cards, technique and ability entries, items, lore, in-world documents and exports are fully metaphysical.
+
+### R59-11-MATERIALS [Era and Apparatus Law 2026-09-26 Era and apparatus]
 
 Materials: cheap steel and iron, rubber and gutta-percha, early plastics in the late span, and the Master Material Ledger's Essence-born materials alongside them.
 
@@ -3241,7 +3361,7 @@ A Witnessed-Tempered piece inherits a scaled-down Ancestral Dominion Frame: ever
 
 > If the piece changes hands outside the terms of the oath, its accrued memory does not transfer. This is not the Dawi's Crystal-Coherence self-punishment, a cost paid by the oath-breaker's own soul; it is closer to the Weight of the Blood, where failure feels ancestral rather than personal. The object simply stops recognizing the new holder as a party the law was made for. In the worst documented cases, Physical Plane Authority's "hold shape" reverses for that bearer alone, and the piece becomes more failure-prone in their hands than an ordinary equivalent.
 
-## magic-design (98)
+## magic-design (105)
 
 ### R20C-28-PHENOMENON_BANK_CANDIDATES [Pack Twenty R20C-28]
 
@@ -3671,9 +3791,9 @@ An ability entry states the mechanism, what it can act on, its costs, limits, te
 
 ### R47-2-FIELD_FORMAT [Ability Law 2026-09-26 B]
 
-New ability pages use the card top (Summary card, Codex line, FOW line, Origin) plus the Physics, Metaphysics, Mechanism, Essence and Counterplay field blocks; the Design Chain and six-line card are retired.
+New abilities use the field format, in the same look as the card top (Summary card, Codex line, FOW line, Origin): plain headings, short one-line **Field** · value entries in the Physics, Metaphysics, Mechanism, Essence and Counterplay b...
 
-> New abilities use the field format: the card top (Summary card, Codex line, FOW line, Origin) followed by the Physics, Metaphysics, Mechanism, Essence and Counterplay blocks, each a set of one-line **Field** · value entries. The Design Chain and the six-line card are retired as page formats.
+> New abilities use the field format, in the same look as the card top (Summary card, Codex line, FOW line, Origin): plain headings, short one-line **Field** · value entries in the Physics, Metaphysics, Mechanism, Essence and Counterplay blocks, a table for the numbers, and very little prose. The Design Chain and the six-line card are retired as page formats.
 
 ### R47-3-COUNTERS_AS_FACTS [Ability Law 2026-09-26 C]
 
@@ -3735,11 +3855,53 @@ The Master Codex row for [Abys] Deep now lists Oblation among its attested Wells
 
 > [Abys] Deep · Oblation and Fluxia added. Ruled 2026-09-12. [Abys] Deep, a directional undertow of sub-Realm pressure, carried an Abyntheus, Fulguria, Electromagnetism row. Its All Attested Wellsprings field now includes Oblation and its All Attested Families field now includes Fluxia, taken on the pitch in Obrenkael · The Mule (Summoned and Bound), Deadweight, on the reasoning that a psychopomp's road is a directional undertow of sub-Realm pressure and that Abyntheus and Oblation are both pressure-grammar Wellsprings under different Archons. Primary Wellspring, Family and Physics Domain are unchanged. [Th] Foundation, drafted beside it in the same chain, is not amended and stays cross-family.
 
-### R56-10-LICENSED_FOR_HIRE [Combat, Society and Politics Law 2026-09-26 Combat, society and politics]
+### R57-07-DOCUMENTS_FULLY_METAPHYSICAL [Rulings Backfill 2026-09-26 2026-09-24 — R12-3-DESIGN_CHAIN_RETURNS]
 
-Anyone may practise privately, but taking pay for workings or hunts needs a guild licence; unlicensed hunters are cheap and common.
+Cards, ability entries, items, lore, in-world documents and exports print stats, Grades, Bands, Stage, EU, AU/s, eta, Crystal State and Category; empty fields stay flagged pending.
 
-> Anyone may practise privately, but taking pay for workings or hunts needs a guild licence; unlicensed hunters are cheap and common.
+> Confirmed and extended to every document: character cards, technique and ability entries, items, lore, in-world documents and exports are fully metaphysical.
+
+### R57-08-PHYSICAL_NUMBERS_ONLY_STRUCK [Rulings Backfill 2026-09-26 2026-09-24 — R8-16-PHYSICAL_NUMBERS_ONLY]
+
+R8-16's ban on metaphysical drawback numbers is struck, on R20C-39, R12-1-NUMBER_BAN_STRUCK and the documents-are-fully-metaphysical ruling.
+
+> Superseded; mark struck in the index along with R8-12-SHEET_GETS_OPERATIONAL_ACCOUNT's clause "the Design Chain remains workbook".
+
+### R57-11-MECHANISM_IS_EFFECT [Rulings Backfill 2026-09-26 2026-09-24 — new (Mechanism and Effect)]
+
+A working's Effect is written as its mechanism playing out; no Effect line that another mechanism could produce, no Mechanism line that leaves the Effect separate.
+
+> Mechanism and Effect are one thing. The Effect of a working is its mechanism playing out: what happens is written as how it happens (the glyph moves a boundary, the law does what it does, and that is what the target sees and feels). No Effect line that could be true of a different mechanism, and no Mechanism line that leaves the Effect to be described separately.
+
+### R57-16-RUNG_I5_BIGGER_IS_INTENDED [Rulings Backfill 2026-09-26 2026-09-25 — new (rules for ruling, I-5)]
+
+When a figure and its gloss on one line disagree, keep the one that makes the working stronger (checked against the Stage band) and correct the other.
+
+> Where a stated figure and its gloss on the same line disagree (e.g. "4.184 EJ … 1 Tt TNT-equivalent"), keep whichever makes the working stronger, checked against the technique's Stage band, and correct the other to match.
+
+### R57-24-AFTERMATH_IS_THE_TELL [Rulings Backfill 2026-09-26 2026-09-26 — WAR-3 cards 1 and 2]
+
+What a working leaves behind is its tell.
+
+> the aftermath is the tell
+
+### R57-25-UNCARDED_PAGES_READ_TIER_BANDS [Rulings Backfill 2026-09-26 2026-09-26 — WAR-3 cards 1 and 2]
+
+Unpriced Spellcraft discipline pages are priced in EU per gate: each branch at its own Temperance Gates, from the EU-by-Stage table.
+
+> Unpriced Spellcraft discipline pages are priced in EU per gate: each branch at its own Temperance Gates, from the EU-by-Stage table.
+
+### R57-26-USAGE_STRIPPED_NUMBERS_KEPT [Rulings Backfill 2026-09-26 Ruling audit]
+
+The 76 published technique and Spellcraft write-ups are stripped of usage lines (tactics and fight-count phrasing such as 'three verdicts per fight', 'cheap against mobs'); their numbers stay: costs stay as shares of reserve, and a plain...
+
+> The 76 published technique and Spellcraft write-ups are stripped of usage lines (tactics and fight-count phrasing such as 'three verdicts per fight', 'cheap against mobs'); their numbers stay: costs stay as shares of reserve, and a plain 'reserve covers N uses' stays only where it is a number, not advice.
+
+### R60-10-LICENSED_FOR_HIRE [Combat, Society and Politics Law 2026-09-26 Combat, society and politics]
+
+Anyone may practise privately, but taking pay for workings or hunts needs a guild licence; unlicensed hunters are cheap, common and illegal-ish.
+
+> Anyone may practise privately, but taking pay for workings or hunts needs a guild licence; unlicensed hunters are cheap, common and illegal-ish.
 
 ### R27-1-CYMORATH_AIR_OF_ASCENT_FROST_ON_VOHRIN [Cymorath Portfolio Ruling Standing Ruling]
 
@@ -3753,13 +3915,13 @@ Part Seventeen's Class I figure governs the efficiency conflict — η is 0.60 t
 
 > Part Seventeen governs: η reads 0.60 to 0.70 at Stage VI–VII. Part Nineteen's Tier 5 row is corrected to match.
 
-### R54-02-DOUGOU_JOULES_FROM_COSTS [Follow-up Rulings 2026-09-26 Follow-up answers]
+### R58-02-DOUGOU_JOULES_FROM_COSTS [Follow-up Rulings 2026-09-26 Follow-up answers]
 
 Dougou: re-derive his joule figures from his restored EU costs (4.752 GJ, 7.326 GJ, 2.772 to 8.811 GJ, B-Grade); the newton figures are dropped, since no contact distance is stated.
 
 > Dougou: re-derive his joule figures from his restored EU costs (4.752 GJ, 7.326 GJ, 2.772 to 8.811 GJ, B-Grade); the newton figures are dropped, since no contact distance is stated.
 
-### R54-09-BARA_IS_A_CHARACTER [Follow-up Rulings 2026-09-26 Follow-up answers]
+### R58-09-BARA_IS_A_CHARACTER [Follow-up Rulings 2026-09-26 Follow-up answers]
 
 Bara is a character: stripped from system pages like the others.
 
@@ -3831,7 +3993,7 @@ The Phenomenon Bank becomes a growing library: every researched phenomenon (and 
 
 > The Phenomenon Bank becomes a growing library: every researched phenomenon (and pseudoscientific idea) is added for future workings and players to draw from.
 
-## magic-mechanism (115)
+## magic-mechanism (122)
 
 ### R20C-17-SITES_RECHARGE_UNHELPFULLY [Pack Twenty R20C-17]
 
@@ -4313,13 +4475,55 @@ One combat turn is six seconds; efficiency above one draws its surplus from the 
 
 > One combat turn is six seconds. Efficiency above one draws its surplus from the Aether stratum. Healing and mending always cost more than breaking.
 
-### R56-13-THE_GATE [Combat, Society and Politics Law 2026-09-26 Combat, society and politics]
+### R57-03-JUGGERNAUTS_FIST_CONTACT [Rulings Backfill 2026-09-26 2026-09-22 — new]
+
+Any contact with Hiromi's Juggernaut's Fist counts as a landed strike, parried or blocked included, and each contact deepens a gravity well on the struck body.
+
+> Juggernaut's Fist (Hiromi Mahuo): any contact counts as a landed strike, including a blow that is parried or blocked. Each contact deepens a gravity well (aetheric pressure raising air pressure and local pull) on the struck body.
+
+### R57-11-MECHANISM_IS_EFFECT [Rulings Backfill 2026-09-26 2026-09-24 — new (Mechanism and Effect)]
+
+A working's Effect is written as its mechanism playing out; no Effect line that another mechanism could produce, no Mechanism line that leaves the Effect separate.
+
+> Mechanism and Effect are one thing. The Effect of a working is its mechanism playing out: what happens is written as how it happens (the glyph moves a boundary, the law does what it does, and that is what the target sees and feels). No Effect line that could be true of a different mechanism, and no Mechanism line that leaves the Effect to be described separately.
+
+### R57-20-ABSORBED_ENERGY_BANKS_IN_CRYSTAL [Rulings Backfill 2026-09-26 2026-09-26 — WAR-3 cards 1 and 2]
+
+Energy a practitioner absorbs is banked in their own Soul Crystal.
+
+> absorbed energy banks in the practitioner's Crystal
+
+### R57-21-RESONANCE_FACET_OF_RESIDUE [Rulings Backfill 2026-09-26 2026-09-26 — WAR-3 cards 1 and 2]
+
+Ambient Resonance is a facet of Residue, not a separate quantity.
+
+> ambient Resonance is a facet of Residue
+
+### R57-24-AFTERMATH_IS_THE_TELL [Rulings Backfill 2026-09-26 2026-09-26 — WAR-3 cards 1 and 2]
+
+What a working leaves behind is its tell.
+
+> the aftermath is the tell
+
+### R57-27-PATH_GATE_BINDS_ITS_COMPONENT [Rulings Backfill 2026-09-26 Ruling audit]
+
+A Path gate binds only the component it names: where a working relies on a Sub-Stat component its declared Path does not open, that component runs capped or absent (Florwyn's Canticle heals but doesn't reinforce); no Path changes.
+
+> A Path gate binds only the component it names: where a working relies on a Sub-Stat component its declared Path does not open, that component runs capped or absent (Florwyn's Canticle heals but doesn't reinforce); no Path changes.
+
+### R57-28-OWN_FIELD_COUNTS_TO_SATURATION [Rulings Backfill 2026-09-26 Ruling audit]
+
+A working's own Essence field counts toward saturation: a threshold is defined in volume and rate, in the new density units, and a working past it triggers the saturation consequence (Crystal Fracture Event for everyone present) like any...
+
+> A working's own Essence field counts toward saturation: a threshold is defined in volume and rate, in the new density units, and a working past it triggers the saturation consequence (Crystal Fracture Event for everyone present) like any other field.
+
+### R60-13-THE_GATE [Combat, Society and Politics Law 2026-09-26 Combat, society and politics]
 
 Few people lack a Soul Crystal, commoners included, but knowledge of magic is gatekept by administration: the Imperial Age is when nations lock down which kinds of people may use which magics.
 
 > Few people lack a Soul Crystal, commoners included, but knowledge of magic is gatekept by administration: the Imperial Age is when nations lock down which kinds of people may use which magics.
 
-### R56-14-DORMANT_CRYSTALS [Combat, Society and Politics Law 2026-09-26 Combat, society and politics]
+### R60-14-DORMANT_CRYSTALS [Combat, Society and Politics Law 2026-09-26 Combat, society and politics]
 
 A common person's Crystal is dormant for life unless someone trains them.
 
@@ -4756,7 +4960,7 @@ The Combat Craft Guide governs duels and small actions; the Mass Combat Craft Gu
 
 > Precedence. This guide governs duels and small actions. The Mass Combat Craft Guide takes precedence the moment a formation exists. The three-layer hit model, the HEMA vocabulary and the armour-tier breakdown are all duel instruments and are explicitly suspended or replaced in mass combat per that guide's sections 1, 3 and 4.
 
-### R55-12-TRANSITIONAL_MILITARY [Era and Apparatus Law 2026-09-26 Era and apparatus]
+### R59-12-TRANSITIONAL_MILITARY [Era and Apparatus Law 2026-09-26 Era and apparatus]
 
 Military: transitional. Cavalry, bright uniforms and drill in the early span; khaki, trenches and rare machine guns later; practitioners change everything anyway.
 
@@ -4786,7 +4990,7 @@ Wounds in mass-combat scenes are written with the same anatomy as a duel.
 
 > Yes: mass-combat scenes must still carry duel-level wound anatomy.
 
-## naming (134)
+## naming (135)
 
 ### R20C-1-BURI_DEAD_EVERYWHERE [Pack Twenty R20C-1]
 
@@ -4968,6 +5172,12 @@ The Malō of Sātūlagi does not exist and never did; the Büri hold one seat an
 
 > Sātūlagi | Struck from canon. The Malō of Sātūlagi does not exist and never did. The Büri hold one seat and it is Kharven.
 
+### R57-06-EDMUND_LAMBERT [Rulings Backfill 2026-09-26 2026-09-24 — new]
+
+Edmund Lambert is a dead member of the Lambert family, distinct from Edward Lambert; relation unset.
+
+> Edmund Lambert is a separate character from Edward Lambert and a member of the Lambert family; exact relation unset. Edmund is dead; Rovhen was his assistant.
+
 ### R37-1-MAHUO_ELEMENT_INVENTORY [Naming Guide Amendment / Element Inventories I. Mahuo]
 
 A Mahuo given name is two syllables drawn from a fixed thirty-element inventory in five categories (breath and soul, Ledger and record, house and clan-seat, precision and correction, care and healing); one syllable is the generation-syllable shared across a cohort, the other is personal, either may take either position, and the family name may precede or follow since canon attests both orders. Which syllable is generational in the attested pairs, and whether Kwon is a Mahuo cadet branch, stay open flags.
@@ -4992,13 +5202,13 @@ A Beastkin soul-name is a circumstance-element (how the birth went, Akan-day-nam
 
 > A soul-name has two parts spoken together: the circumstance-element (what the birth was like, Akan-day-name style) and the expectation-element (the attribute the child is charged to grow into). The held-name is whichever fragment survives when everything else — home, rank, kin — has been taken.
 
-### R54-03-SANCTA_LUX [Follow-up Rulings 2026-09-26 Follow-up answers]
+### R58-03-SANCTA_LUX [Follow-up Rulings 2026-09-26 Follow-up answers]
 
 Sanctum Lux becomes Sancta Lux on every page.
 
 > Sanctum Lux becomes Sancta Lux on every page.
 
-### R54-13-BORROWED_NAME_FIXES [Follow-up Rulings 2026-09-26 Follow-up answers]
+### R58-13-BORROWED_NAME_FIXES [Follow-up Rulings 2026-09-26 Follow-up answers]
 
 Name fixes applied: Japanese long vowels (Hokai, Seijo, Joka and the Go series take macrons), Coagula Dominium, Symphonia Ascendens, Hae-jin's hanja becomes 海鎮 (Sea-Garrison), and the gloss-only fixes (Kibanda, Kafa-Karim, Hataraki no Sh...
 
@@ -5396,9 +5606,9 @@ No limit on release calls: an art may be called as often as the fight gives a be
 
 ### R50-10-NAME_STYLE [Naming Law 2026-09-26 Techniques, arts and items]
 
-Technique naming leans by culture: plain English names for common-tongue fighters, true names with a gloss for houses with a register.
+Technique naming leans by culture: plain English names for common-tongue fighters, true names for houses with a register.
 
-> Technique naming leans by culture: plain English names for common-tongue fighters, true names with a gloss for houses with a register.
+> Technique naming leans by culture: plain English names for common-tongue fighters, true names for houses with a register.
 
 ### R50-11-LONG_NAMES [Naming Law 2026-09-26 Techniques, arts and items]
 
@@ -5920,9 +6130,9 @@ A voice is mind and sound in equal measure: what they notice, want, refuse and h
 
 ### R52-03-VOICE_BLOCK [Voice Law 2026-09-26 How distinct voices must be]
 
-Every major card carries a full voice block with fixed slots: notices first, sentence length, contractions, pet word, never says, stumbles or not, gloss rights, stress shift, grief shift, joy shift, one sample line.
+Every major card carries a full voice block with fixed slots: notices first, sentence length, contractions, pet word, never says, stumbles or not, stress shift, grief shift, joy shift, one sample line.
 
-> Every major card carries a full voice block with fixed slots: notices first, sentence length, contractions, pet word, never says, stumbles or not, gloss rights, stress shift, grief shift, joy shift, one sample line.
+> Every major card carries a full voice block with fixed slots: notices first, sentence length, contractions, pet word, never says, stumbles or not, stress shift, grief shift, joy shift, one sample line.
 
 ### R52-04-CONTRACTIONS [Voice Law 2026-09-26 How distinct voices must be]
 
@@ -6134,7 +6344,7 @@ Narration refers to characters by POV epithets, the way the viewpoint sees them;
 
 > Narration refers to characters by POV epithets, the way the viewpoint sees them; the naming characterises.
 
-## prose-law (216)
+## prose-law (217)
 
 ### R20C-29-CATEGORY_NAMING_DIAGNOSTIC [Pack Twenty R20C-29]
 
@@ -6634,6 +6844,12 @@ The relationship change is legible in how the two characters handle an unrelated
 
 > In the aftermath, and not by discussion of the act itself. The relationship has changed and both parties behave differently. Neither raises it. The scene three days later is about a bucket, or a burial detail, or who takes which watch, and the change is legible in how they handle the bucket. If a character says what the act meant, the amendment has been violated and the scene has been spent.
 
+### R57-09-FULL_KNOWLEDGE [Rulings Backfill 2026-09-26 2026-09-24 — new (full-knowledge, fair-play)]
+
+Natalie writes from all of WOTR: cards, Stat Sheet, FOW, Codex, wiki, scenes, rulings, meta and system knowledge.
+
+> Natalie draws on everything that exists in WOTR (cards, Stat Sheet, FOW, Codex, wiki, scenes, rulings, meta and system knowledge) when writing characters and prose.
+
 ### R41-1-DISTANCE_IS_TWO_AXES [Distance Two Axes Ruling C-015]
 
 R35-2's register (close, medium, distant/formal) says whose idiom the narration runs in; Pack Twenty's band (1 to 5) says how deep inside the POV it sits. Both assignments stand and neither trades off the other: Cozbi runs distant/formal at band 5.
@@ -6750,9 +6966,9 @@ Sentence-length variation targets the guide's 80% (under 50% is the strongest te
 
 ### R49-14-PARA_SHAPE [Prose Law 2026-09-26 Rhythm and paragraphs]
 
-Paragraph-length spread check stays as is (guide wants 50%+, checker warns under 35%); steady paragraphs vary on purpose.
+Paragraph-length spread check stays as is (guide wants 50%+, checker warns under 35%); steady, medium paragraphs keep drawing the warning.
 
-> Paragraph-length spread check stays as is (guide wants 50%+, checker warns under 35%); steady paragraphs vary on purpose.
+> Paragraph-length spread check stays as is (guide wants 50%+, checker warns under 35%); steady, medium paragraphs keep drawing the warning.
 
 ### R49-15-FRAGMENTS [Prose Law 2026-09-26 Rhythm and paragraphs]
 
@@ -6876,9 +7092,9 @@ Species stress tells win: the uniform stress rule governs humans; each non-human
 
 ### R49-35-SPEECH_CHECK [Prose Law 2026-09-26 Dialogue]
 
-No exemption for the crafted speech: even it must pass the composure check, eloquent without balanced parallel clauses.
+No exemption for the crafted speech: even it must pass the composure check; triads and parallel clauses are legal in it, by the later Voices answer (R52-06).
 
-> No exemption for the crafted speech: even it must pass the composure check, eloquent without balanced parallel clauses.
+> No exemption for the crafted speech: even it must pass the composure check; triads and parallel clauses are legal in it, by the later Voices answer (R52-06).
 
 ### R49-36-LIE_TELLS [Prose Law 2026-09-26 Dialogue]
 
@@ -7044,9 +7260,9 @@ Timeless narration varies by culture: plain, undated English by default; some cu
 
 ### R51-02-CLOSE_POV_SWEARS [Vocabulary Law 2026-09-26 Vocabulary and diction]
 
-Profanity may bleed into close-POV narration, using timeless profanities plus swears invented deliberately for WOTR; other modern words stay out of narration. (Isaac: "Profanity is fine I think we should use timelees profanes and invent ...
+Profanity may bleed into close-POV narration, using timeless profanities plus swears invented deliberately for WOTR. (Isaac: "Profanity is fine I think we should use timelees profanes and invent some deliberately for wotr".)
 
-> Profanity may bleed into close-POV narration, using timeless profanities plus swears invented deliberately for WOTR; other modern words stay out of narration. (Isaac: "Profanity is fine I think we should use timelees profanes and invent some deliberately for wotr".)
+> Profanity may bleed into close-POV narration, using timeless profanities plus swears invented deliberately for WOTR. (Isaac: "Profanity is fine I think we should use timelees profanes and invent some deliberately for wotr".)
 
 ### R51-03-LIST_SLANG [Vocabulary Law 2026-09-26 Vocabulary and diction]
 
@@ -7104,9 +7320,9 @@ Ordinary words that are also WOTR terms (delve, echo, numinous, sovereign, sanct
 
 ### R51-12-WORD_BANK [Vocabulary Law 2026-09-26 Vocabulary and diction]
 
-The elevated word bank (eldritch, chthonic, tenebrous, lambent, sepulchral, incarnadine, stygian, empyreal, ineffable) is used freely, by ear.
+The elevated word bank (eldritch, numinous, chthonic, tenebrous, lambent, sepulchral, incarnadine, stygian, empyreal, ineffable) is used freely, by ear.
 
-> The elevated word bank (eldritch, chthonic, tenebrous, lambent, sepulchral, incarnadine, stygian, empyreal, ineffable) is used freely, by ear.
+> The elevated word bank (eldritch, numinous, chthonic, tenebrous, lambent, sepulchral, incarnadine, stygian, empyreal, ineffable) is used freely, by ear.
 
 ### R51-13-WORD_STOCK [Vocabulary Law 2026-09-26 Vocabulary and diction]
 
@@ -7432,7 +7648,7 @@ Narration refers to characters by POV epithets, the way the viewpoint sees them;
 
 > Narration refers to characters by POV epithets, the way the viewpoint sees them; the naming characterises.
 
-## register (146)
+## register (147)
 
 ### R20C-21-WELL_NAMES_CLASS_MARKED [Pack Twenty R20C-21]
 
@@ -7860,6 +8076,12 @@ The Manhwa Energy Directive block is struck in full from project instructions, "
 
 > - Strike the Manhwa Energy Directive block in full. - Strike "manhwa-cinematic" and "manhwa energy" from tone descriptions. - Amend the genre-intersection statement: the pacing ambition survives, the manhwa-cinematic layer does not.
 
+### R58-05-SWEARS_AND_SENSE_BANKS_APPROVED [Follow-up Rulings 2026-09-26 Follow-up answers]
+
+The WOTR swears, sense banks, culture inventories, price table and narration registers are approved and canon; completes R51-35's draft-for-approval step.
+
+> Approved to publish: the price table, the culture inventories (five new sheets plus Gone lists, folk beliefs and literacy for the seven existing cultures), the swears and sense banks, and the Moto, Bram Greymane and Lorn Stark narration registers.
+
 ### R23-10-CHINESE_PHONOTACTICS [Inner World Naming Amendment X]
 
 Open syllables, permitted nasal codas, no clusters; avoid the wuxia register the base guide already warns off — no four-syllable given names, no sect-title constructions, no honorific stacking.
@@ -8030,9 +8252,9 @@ Timeless narration varies by culture: plain, undated English by default; some cu
 
 ### R51-02-CLOSE_POV_SWEARS [Vocabulary Law 2026-09-26 Vocabulary and diction]
 
-Profanity may bleed into close-POV narration, using timeless profanities plus swears invented deliberately for WOTR; other modern words stay out of narration. (Isaac: "Profanity is fine I think we should use timelees profanes and invent ...
+Profanity may bleed into close-POV narration, using timeless profanities plus swears invented deliberately for WOTR. (Isaac: "Profanity is fine I think we should use timelees profanes and invent some deliberately for wotr".)
 
-> Profanity may bleed into close-POV narration, using timeless profanities plus swears invented deliberately for WOTR; other modern words stay out of narration. (Isaac: "Profanity is fine I think we should use timelees profanes and invent some deliberately for wotr".)
+> Profanity may bleed into close-POV narration, using timeless profanities plus swears invented deliberately for WOTR. (Isaac: "Profanity is fine I think we should use timelees profanes and invent some deliberately for wotr".)
 
 ### R51-03-LIST_SLANG [Vocabulary Law 2026-09-26 Vocabulary and diction]
 
@@ -8090,9 +8312,9 @@ Ordinary words that are also WOTR terms (delve, echo, numinous, sovereign, sanct
 
 ### R51-12-WORD_BANK [Vocabulary Law 2026-09-26 Vocabulary and diction]
 
-The elevated word bank (eldritch, chthonic, tenebrous, lambent, sepulchral, incarnadine, stygian, empyreal, ineffable) is used freely, by ear.
+The elevated word bank (eldritch, numinous, chthonic, tenebrous, lambent, sepulchral, incarnadine, stygian, empyreal, ineffable) is used freely, by ear.
 
-> The elevated word bank (eldritch, chthonic, tenebrous, lambent, sepulchral, incarnadine, stygian, empyreal, ineffable) is used freely, by ear.
+> The elevated word bank (eldritch, numinous, chthonic, tenebrous, lambent, sepulchral, incarnadine, stygian, empyreal, ineffable) is used freely, by ear.
 
 ### R51-13-WORD_STOCK [Vocabulary Law 2026-09-26 Vocabulary and diction]
 
@@ -8584,7 +8806,7 @@ wotr_verify.sh and wotr_beat_check.py both run before presenting; failures are f
 
 > Both scripts run before presenting, failures are fixed, both re-run. No single-pass delivery.
 
-### R54-07-WREN_GRIEF_FRONT [Follow-up Rulings 2026-09-26 Follow-up answers]
+### R58-07-WREN_GRIEF_FRONT [Follow-up Rulings 2026-09-26 Follow-up answers]
 
 Wren Greymane's Front becomes a grief Front: the aftermath of his death, Bram and the ridge carrying it, ticks driven by who blames whom.
 
@@ -8674,7 +8896,7 @@ When the partner thinks a beat is drifting or a rule reads wrong, it says so in 
 
 > When the partner thinks a beat is drifting or a rule reads wrong, it says so in one plain line and keeps writing unless stopped.
 
-## standing-inventory (52)
+## standing-inventory (53)
 
 ### R20C-47-CRAFTS_OWE_THE_INVENTORY [Pack Twenty R20C-47]
 
@@ -8754,29 +8976,35 @@ A loaded word gets one physical response on first use and no comment; meaning ar
 
 > A loaded word gets one physical response on first use and no comment at all. Meaning arrives on the third appearance, and it arrives through change: someone else uses the word, or the person who always uses it withholds it, or it lands in a register that makes the earlier uses retroactively legible. Withholding is the strongest of the three.
 
-### R56-07-COMMERCE_ON_THE_PAGE [Combat, Society and Politics Law 2026-09-26 Combat, society and politics]
+### R60-07-COMMERCE_ON_THE_PAGE [Combat, Society and Politics Law 2026-09-26 Combat, society and politics]
 
 Commerce shows on the page as branded goods and advertising, chartered share-holding companies with exchanges, speculation and crashes, arcades and department stores, and consumer Essence goods sold as products.
 
 > Commerce shows on the page as branded goods and advertising, chartered share-holding companies with exchanges, speculation and crashes, arcades and department stores, and consumer Essence goods sold as products.
 
-### R56-21-SUCCESSION_BY_CULTURE [Combat, Society and Politics Law 2026-09-26 Combat, society and politics]
+### R60-21-SUCCESSION_BY_CULTURE [Combat, Society and Politics Law 2026-09-26 Combat, society and politics]
 
 Succession follows each culture's own law, set on its Inventory.
 
 > Succession follows each culture's own law, set on its Inventory.
 
-### R55-08-CLASS_LAYERED_DRESS [Era and Apparatus Law 2026-09-26 Era and apparatus]
+### R59-08-CLASS_LAYERED_DRESS [Era and Apparatus Law 2026-09-26 Era and apparatus]
 
 Dress is class-layered: the rich dress late-span (Edwardian to 1920s), the middle mid-Victorian, the poor in timeless work clothes, each culture bent by its Inventory.
 
 > Dress is class-layered: the rich dress late-span (Edwardian to 1920s), the middle mid-Victorian, the poor in timeless work clothes, each culture bent by its Inventory.
 
-### R55-10-HOUSEHOLD [Era and Apparatus Law 2026-09-26 Era and apparatus]
+### R59-10-HOUSEHOLD [Era and Apparatus Law 2026-09-26 Era and apparatus]
 
 Household: Essence cold-boxes in metered houses, a real ice trade and iceboxes, tinned food, and indoor plumbing in the rich districts; the poor salt, smoke, cellar and use privies and standpipes.
 
 > Household: Essence cold-boxes in metered houses, a real ice trade and iceboxes, tinned food, and indoor plumbing in the rich districts; the poor salt, smoke, cellar and use privies and standpipes.
+
+### R58-05-SWEARS_AND_SENSE_BANKS_APPROVED [Follow-up Rulings 2026-09-26 Follow-up answers]
+
+The WOTR swears, sense banks, culture inventories, price table and narration registers are approved and canon; completes R51-35's draft-for-approval step.
+
+> Approved to publish: the price table, the culture inventories (five new sheets plus Gone lists, folk beliefs and literacy for the seven existing cultures), the swears and sense banks, and the Moto, Bram Greymane and Lorn Stark narration registers.
 
 ### R23-8-KHARVEN_INVENTORY_DECOUPLED [Inner World Naming Amendment VIII]
 
@@ -8988,7 +9216,7 @@ No decade-by-decade technology page: the partner judges what is era-appropriate 
 
 > No decade-by-decade technology page: the partner judges what is era-appropriate in the Imperial Age scene by scene.
 
-## stats (96)
+## stats (103)
 
 ### R20C-30-STAGE_NAMES_FROM_FOW [Pack Twenty R20C-30]
 
@@ -9140,12 +9368,6 @@ Scene Standards' sentence-level bans on mechanism explanation and metaphysical n
 
 > Scene Standards. The sentence-level bans on mechanism explanation and metaphysical numbers are struck. Everything else stands.
 
-### R8-16-PHYSICAL_NUMBERS_ONLY [Pack Eight 1.6]
-
-Drawback numbers are physical (metres, seconds, kilograms, degrees, counts, durations); never a number attached to Essence, Coherence, resonance or Wellspring output — Pack Seven's metaphysical-units ban holds on the sheet as firmly as on the page.
-
-> Numbers where the number is physical: metres, seconds, kilograms, degrees, counts, durations. Never a number attached to Essence, Coherence, resonance or Wellspring output. Pack Seven's ban on metaphysical units holds on the sheet as firmly as on the page.
-
 ### R8-25-ESCALATION_SUFFIX [Pack Eight 2.5]
 
 A stronger expression of a known art takes a modifier on the existing true name; new names are reserved for genuinely new arts.
@@ -9206,7 +9428,55 @@ One combat turn is six seconds; efficiency above one draws its surplus from the 
 
 > One combat turn is six seconds. Efficiency above one draws its surplus from the Aether stratum. Healing and mending always cost more than breaking.
 
-### R56-03-HARD_RESERVE_CLOCK [Combat, Society and Politics Law 2026-09-26 Combat, society and politics]
+### R57-12-RUNG_I1_GENERAL_SENTENCE [Rulings Backfill 2026-09-26 2026-09-25 — new (rules for ruling, I-1)]
+
+Where a ruling's operative sentence is written generally, it applies to every case it describes, not only the question asked.
+
+> Where a ruling answers a narrow question but its operative sentence is written generally, the sentence applies to every case it describes
+
+### R57-13-RUNG_I2_OFF_LADDER_BOTH_WAYS [Rulings Backfill 2026-09-26 2026-09-25 — new (rules for ruling, I-2)]
+
+Permission for a card to sit above a ladder is equally permission to sit below it; the card governs.
+
+> A ruling that lets a card sit above a ladder (η above its range, Aether Class above its Stage) equally lets it sit below; the card governs
+
+### R57-15-RUNG_I4_TABLE_FALLBACK [Rulings Backfill 2026-09-26 2026-09-25 — new (rules for ruling, I-4)]
+
+A ruling's fallback for one column of a table applies to the whole table.
+
+> A ruling's fallback for one column of a table reaches the whole table
+
+### R57-16-RUNG_I5_BIGGER_IS_INTENDED [Rulings Backfill 2026-09-26 2026-09-25 — new (rules for ruling, I-5)]
+
+When a figure and its gloss on one line disagree, keep the one that makes the working stronger (checked against the Stage band) and correct the other.
+
+> Where a stated figure and its gloss on the same line disagree (e.g. "4.184 EJ … 1 Tt TNT-equivalent"), keep whichever makes the working stronger, checked against the technique's Stage band, and correct the other to match.
+
+### R57-17-RUNG_I6_CARD_NUMBERS_BOOK_EVENTS [Rulings Backfill 2026-09-26 2026-09-25 — new (rules for ruling, I-6)]
+
+Where a book and a card disagree, stats and mechanics follow the card and story events follow the book's bible and chapters.
+
+> Stats and mechanics follow the character's card; what happens in the story follows the book's bible and chapters.
+
+### R57-19-RESERVE_SCALING_ONE_FACTOR [Rulings Backfill 2026-09-26 2026-09-25 — C-059 (WAR-127; amends WAR-70)]
+
+An out-of-band EU reserve is moved to the band's geometric-mean set point and every other EU figure on the card takes the same factor; Flux Density, AU/s and eta stand; no stated reserve, no scaling.
+
+> Each card whose reserve R44-1 puts outside its Stage's band is scaled by one factor: factor = (band midpoint in decades, the geometric mean of floor and ceiling joules / 1 MJ) / (the card's stated reserve). Every other EU figure on that card (technique, Form and working costs, per-use figures) is multiplied by the same factor, so each cost keeps its stated share of the reserve and distinct figures stay distinct. Flux Density, AU/s and eta stand as written. A card with no stated reserve is not scaled by this ruling and is logged.
+
+### R57-25-UNCARDED_PAGES_READ_TIER_BANDS [Rulings Backfill 2026-09-26 2026-09-26 — WAR-3 cards 1 and 2]
+
+Unpriced Spellcraft discipline pages are priced in EU per gate: each branch at its own Temperance Gates, from the EU-by-Stage table.
+
+> Unpriced Spellcraft discipline pages are priced in EU per gate: each branch at its own Temperance Gates, from the EU-by-Stage table.
+
+### R57-27-PATH_GATE_BINDS_ITS_COMPONENT [Rulings Backfill 2026-09-26 Ruling audit]
+
+A Path gate binds only the component it names: where a working relies on a Sub-Stat component its declared Path does not open, that component runs capped or absent (Florwyn's Canticle heals but doesn't reinforce); no Path changes.
+
+> A Path gate binds only the component it names: where a working relies on a Sub-Stat component its declared Path does not open, that component runs capped or absent (Florwyn's Canticle heals but doesn't reinforce); no Path changes.
+
+### R60-03-HARD_RESERVE_CLOCK [Combat, Society and Politics Law 2026-09-26 Combat, society and politics]
 
 Essence and stamina run on a hard clock by the Ledger's numbers; long fights are won by whoever manages the reserve; Starvation hits mid-fight on overspend.
 
@@ -9248,7 +9518,7 @@ A bare "Band V" on a card reads as the live Level Band, not the retired lettered
 
 > Confirmed: the bare "Band V" on Raga's and Verinus VII's cards is the live Level Band, and nothing changes. The brief's "stale Band" item closes with no edit.
 
-### R54-02-DOUGOU_JOULES_FROM_COSTS [Follow-up Rulings 2026-09-26 Follow-up answers]
+### R58-02-DOUGOU_JOULES_FROM_COSTS [Follow-up Rulings 2026-09-26 Follow-up answers]
 
 Dougou: re-derive his joule figures from his restored EU costs (4.752 GJ, 7.326 GJ, 2.772 to 8.811 GJ, B-Grade); the newton figures are dropped, since no contact distance is stated.
 
@@ -9478,9 +9748,9 @@ A card whose η is stated as the Tier of Standing table's figure reads whatever 
 
 ### R54-8-UNMEASURED_FROM_ZENITH [Queue Questionnaire 2026-09-26 WAR-142]
 
-Stage XV keeps the EX+ Grade label but its force is unmeasured like Zenith; the Zenith row stands beside the Grade ladder, not on it.
+Unmeasured from Zenith: Stage XV keeps its EX+ Grade label, but its force is unmeasured like Zenith's.
 
-> Unmeasured from Zenith: Stage XV keeps its EX+ Grade label, but its force is unmeasured like Zenith's; the Zenith row sits beside the Grade ladder, not on it.
+> Unmeasured from Zenith: Stage XV keeps its EX+ Grade label, but its force is unmeasured like Zenith's.
 
 ### R54-9-STRIKE_FORCE_OUTLIERS_STAND [Queue Questionnaire 2026-09-26 WAR-49,WAR-62]
 
@@ -9569,7 +9839,7 @@ Stage V reads the Expert row's η of 0.60–0.70.
 
 > Splintering takes the 0.60-0.70 efficiency band; the whole Expert row reads 0.60-0.70.
 
-## verification (98)
+## verification (100)
 
 ### R20C-3-SWEEP_TWO_TIERS [Pack Twenty R20C-3]
 
@@ -10027,7 +10297,19 @@ If removing the battle would preserve the relationship change, the Act was not u
 
 > If you can remove the battle and preserve the relationship change, the Act was not unrepeatable and the battle was decoration. Rebuild the Act around something the engagement made possible and nothing else could.
 
-### R54-04-TITLES_EXEMPT_FROM_BAN_LIST [Follow-up Rulings 2026-09-26 Follow-up answers]
+### R57-14-RUNG_I3_STALE_STATUS_NOTES [Rulings Backfill 2026-09-26 2026-09-25 — new (rules for ruling, I-3)]
+
+A canon line stating the state of the record, since overtaken, may be updated by any sweep citing what overtook it.
+
+> A line in canon that states the state of the record ("Veyran is unattested", "the efficiency conflict, unresolved") and that the record has since overtaken may be updated by any sweep, citing what overtook it; no ruling needed.
+
+### R57-18-RUNG_I7_AUTHORSHIP_TO_AGENTS [Rulings Backfill 2026-09-26 2026-09-25 — new (rules for ruling, I-7)]
+
+Confirm-or-flip questions on originated material are decided by the agents as logged agent-made canon, which Isaac may overturn.
+
+> the agents choose the reading that best fits the rest of canon and ship it as agent-made canon, logged, which Isaac may overturn
+
+### R58-04-TITLES_EXEMPT_FROM_BAN_LIST [Follow-up Rulings 2026-09-26 Follow-up answers]
 
 Titles are exempt from the vocabulary ban list; the checker skips the title line ('Verinus: Testament of the Sixty-Fifth' stands).
 
@@ -10159,7 +10441,7 @@ When the partner thinks a beat is drifting or a rule reads wrong, it says so in 
 
 > When the partner thinks a beat is drifting or a rule reads wrong, it says so in one plain line and keeps writing unless stopped.
 
-## worldbuilding (212)
+## worldbuilding (217)
 
 ### R20C-1-BURI_DEAD_EVERYWHERE [Pack Twenty R20C-1]
 
@@ -10557,139 +10839,169 @@ With Sātūlagi struck, the six non-Kōkan/non-crown lines are landless; every l
 
 > With Sātūlagi struck, the six non-Kōkan lines are landless. Kurenai, Tenrai, Amagiri and the rest hold inherited authority with no ground to exercise it on, and every line's ambition must route through Kharven or through nothing.
 
-### R56-04-DEATH_IS_PERMANENT [Combat, Society and Politics Law 2026-09-26 Combat, society and politics]
+### R57-01-KWON_MU_JIN_IS_38 [Rulings Backfill 2026-09-26 2026-09-18 — new]
+
+Kwon Mu-jin is 38, not 24; his Catalyst Event stays at fourteen and 'ten years since' reads twenty-four years.
+
+> Kwon Mu-jin is 38, not 24.
+
+### R57-02-MAHUO_CHILDREN_AGES [Rulings Backfill 2026-09-26 2026-09-18 — new]
+
+Mu-jin's children are Geturo 15 (eldest), Hiromi 13, Lily 12 (youngest); no twins.
+
+> His children's ages are fixed at Geturo 15, Hiromi 13, Lily 12; Geturo is the eldest and Lily the youngest
+
+### R57-05-ROVHEN_INVESTIGATOR [Rulings Backfill 2026-09-26 2026-09-24 — new]
+
+Rovhen Talvasciel is retconned: a human retired private magical investigator, 28, once Edmund Lambert's assistant, now an Aetherion Academy instructor; 'The Prettier' card is superseded.
+
+> Rovhen is now a human retired private magical investigator, 28, former assistant to Edmund Lambert, new instructor at Aetherion Academy teaching the observation and investigation of magical phenomena.
+
+### R57-06-EDMUND_LAMBERT [Rulings Backfill 2026-09-26 2026-09-24 — new]
+
+Edmund Lambert is a dead member of the Lambert family, distinct from Edward Lambert; relation unset.
+
+> Edmund Lambert is a separate character from Edward Lambert and a member of the Lambert family; exact relation unset. Edmund is dead; Rovhen was his assistant.
+
+### R57-21-RESONANCE_FACET_OF_RESIDUE [Rulings Backfill 2026-09-26 2026-09-26 — WAR-3 cards 1 and 2]
+
+Ambient Resonance is a facet of Residue, not a separate quantity.
+
+> ambient Resonance is a facet of Residue
+
+### R60-04-DEATH_IS_PERMANENT [Combat, Society and Politics Law 2026-09-26 Combat, society and politics]
 
 Death is almost always permanent; the only exceptions are liches, the undead and their kind.
 
 > Death is almost always permanent; the only exceptions are liches, the undead and their kind.
 
-### R56-05-COMPANY_THEN_CROWN [Combat, Society and Politics Law 2026-09-26 Combat, society and politics]
+### R60-05-COMPANY_THEN_CROWN [Combat, Society and Politics Law 2026-09-26 Combat, society and politics]
 
 Crowns and chartered houses expand together: the company takes the ground, then the crown claims it.
 
 > Crowns and chartered houses expand together: the company takes the ground, then the crown claims it.
 
-### R56-06-THE_SCRAMBLE [Combat, Society and Politics Law 2026-09-26 Combat, society and politics]
+### R60-06-THE_SCRAMBLE [Combat, Society and Politics Law 2026-09-26 Combat, society and politics]
 
 The scramble is for the commercialisation of monster-hunting (hired hunting parties; guild systems spread rapidly, before the full creation of the Guild Accord, which is a communion of guilds), and for Wells and draw, materials, markets ...
 
 > The scramble is for the commercialisation of monster-hunting (hired hunting parties; guild systems spread rapidly, before the full creation of the Guild Accord, which is a communion of guilds), and for Wells and draw, materials, markets and labour, and routes.
 
-### R56-07-COMMERCE_ON_THE_PAGE [Combat, Society and Politics Law 2026-09-26 Combat, society and politics]
+### R60-07-COMMERCE_ON_THE_PAGE [Combat, Society and Politics Law 2026-09-26 Combat, society and politics]
 
 Commerce shows on the page as branded goods and advertising, chartered share-holding companies with exchanges, speculation and crashes, arcades and department stores, and consumer Essence goods sold as products.
 
 > Commerce shows on the page as branded goods and advertising, chartered share-holding companies with exchanges, speculation and crashes, arcades and department stores, and consumer Essence goods sold as products.
 
-### R56-08-WHO_PAYS [Combat, Society and Politics Law 2026-09-26 Combat, society and politics]
+### R60-08-WHO_PAYS [Combat, Society and Politics Law 2026-09-26 Combat, society and politics]
 
 The cost of the industrial revolution falls on displaced trades, works labour, the colonised, and unions and unrest.
 
 > The cost of the industrial revolution falls on displaced trades, works labour, the colonised, and unions and unrest.
 
-### R56-09-ACCORD_FORMING_NOW [Combat, Society and Politics Law 2026-09-26 Combat, society and politics]
+### R60-09-ACCORD_FORMING_NOW [Combat, Society and Politics Law 2026-09-26 Combat, society and politics]
 
-The Guild Accord is forming now, in the story's present.
+The Guild Accord is forming now: the communion is being negotiated during the story, and the guilds are still competing hunting companies.
 
-> The Guild Accord is forming now, in the story's present.
+> The Guild Accord is forming now: the communion is being negotiated during the story, and the guilds are still competing hunting companies.
 
-### R56-10-LICENSED_FOR_HIRE [Combat, Society and Politics Law 2026-09-26 Combat, society and politics]
+### R60-10-LICENSED_FOR_HIRE [Combat, Society and Politics Law 2026-09-26 Combat, society and politics]
 
-Anyone may practise privately, but taking pay for workings or hunts needs a guild licence; unlicensed hunters are cheap and common.
+Anyone may practise privately, but taking pay for workings or hunts needs a guild licence; unlicensed hunters are cheap, common and illegal-ish.
 
-> Anyone may practise privately, but taking pay for workings or hunts needs a guild licence; unlicensed hunters are cheap and common.
+> Anyone may practise privately, but taking pay for workings or hunts needs a guild licence; unlicensed hunters are cheap, common and illegal-ish.
 
-### R56-11-TRACE_EVIDENCE_AND_JURISDICTION [Combat, Society and Politics Law 2026-09-26 Combat, society and politics]
+### R60-11-TRACE_EVIDENCE_AND_JURISDICTION [Combat, Society and Politics Law 2026-09-26 Combat, society and politics]
 
 A crime done with a working is proved by trace examiners reading its traces as evidence, and guild courts and crown courts fight over jurisdiction.
 
 > A crime done with a working is proved by trace examiners reading its traces as evidence, and guild courts and crown courts fight over jurisdiction.
 
-### R56-12-PRACTITIONERS_AT_WORK [Combat, Society and Politics Law 2026-09-26 Combat, society and politics]
+### R60-12-PRACTITIONERS_AT_WORK [Combat, Society and Politics Law 2026-09-26 Combat, society and politics]
 
 Practitioners work as hired hunters, works inscribers, company soldiers, and in private practice.
 
 > Practitioners work as hired hunters, works inscribers, company soldiers, and in private practice.
 
-### R56-13-THE_GATE [Combat, Society and Politics Law 2026-09-26 Combat, society and politics]
+### R60-13-THE_GATE [Combat, Society and Politics Law 2026-09-26 Combat, society and politics]
 
 Few people lack a Soul Crystal, commoners included, but knowledge of magic is gatekept by administration: the Imperial Age is when nations lock down which kinds of people may use which magics.
 
 > Few people lack a Soul Crystal, commoners included, but knowledge of magic is gatekept by administration: the Imperial Age is when nations lock down which kinds of people may use which magics.
 
-### R56-14-DORMANT_CRYSTALS [Combat, Society and Politics Law 2026-09-26 Combat, society and politics]
+### R60-14-DORMANT_CRYSTALS [Combat, Society and Politics Law 2026-09-26 Combat, society and politics]
 
 A common person's Crystal is dormant for life unless someone trains them.
 
 > A common person's Crystal is dormant for life unless someone trains them.
 
-### R56-15-WHO_MAY_LEARN [Combat, Society and Politics Law 2026-09-26 Combat, society and politics]
+### R60-15-WHO_MAY_LEARN [Combat, Society and Politics Law 2026-09-26 Combat, society and politics]
 
 Who may learn which magic is decided by natural ability (people are recruited to magical academies and sought out by the guilds), class and birth, nation and loyalty, licence and exam, and bloodline.
 
 > Who may learn which magic is decided by natural ability (people are recruited to magical academies and sought out by the guilds), class and birth, nation and loyalty, licence and exam, and bloodline.
 
-### R56-16-ENFORCEMENT [Combat, Society and Politics Law 2026-09-26 Combat, society and politics]
+### R60-16-ENFORCEMENT [Combat, Society and Politics Law 2026-09-26 Combat, society and politics]
 
 The lockdown is enforced by controlled texts, Crystal registration, inspectors and trace examiners, the Inquisition, and by the guilds, which locally hunt down those who do wrong.
 
 > The lockdown is enforced by controlled texts, Crystal registration, inspectors and trace examiners, the Inquisition, and by the guilds, which locally hunt down those who do wrong.
 
-### R56-17-LEARNING_ANYWAY [Combat, Society and Politics Law 2026-09-26 Combat, society and politics]
+### R60-17-LEARNING_ANYWAY [Combat, Society and Politics Law 2026-09-26 Combat, society and politics]
 
-Those who learn anyway: black-market teaching, self-derived workings, the guild loophole (hunting guilds train their own outside the state's gate), and harsh penalties for unlicensed high magic.
+Those who learn anyway: black-market teaching (hedge-schools, stolen manuals, back-room masters; a whole criminal economy); self-derived workings, the mark of the outlaw and the genius; the guild loophole (hunting guilds train their own ...
 
-> Those who learn anyway: black-market teaching, self-derived workings, the guild loophole (hunting guilds train their own outside the state's gate), and harsh penalties for unlicensed high magic.
+> Those who learn anyway: black-market teaching (hedge-schools, stolen manuals, back-room masters; a whole criminal economy); self-derived workings, the mark of the outlaw and the genius; the guild loophole (hunting guilds train their own outside the state's gate, part of why the states want the Accord); and unlicensed high magic is punished like treason: branding, Crystal sealing, death.
 
-### R56-18-ACCORD_FORMING_IN_CIRCLES [Combat, Society and Politics Law 2026-09-26 Combat, society and politics]
+### R60-18-ACCORD_FORMING_IN_CIRCLES [Combat, Society and Politics Law 2026-09-26 Combat, society and politics]
 
 The Guild Accord's pages read as forming in circles: the Articles and Commission framework bind where a circle has signed and not yet elsewhere.
 
 > The Guild Accord's pages read as forming in circles: the Articles and Commission framework bind where a circle has signed and not yet elsewhere.
 
-### R56-19-LAYERED_RULE [Combat, Society and Politics Law 2026-09-26 Combat, society and politics]
+### R60-19-LAYERED_RULE [Combat, Society and Politics Law 2026-09-26 Combat, society and politics]
 
 Day-to-day rule is layered: a crown or house holds the land, a chartered company the trade, the guilds the hunters and local policing of magic; each fights the others over jurisdiction, and which layer wins differs by place.
 
 > Day-to-day rule is layered: a crown or house holds the land, a chartered company the trade, the guilds the hunters and local policing of magic; each fights the others over jurisdiction, and which layer wins differs by place.
 
-### R56-20-HOW_POWERS_FIGHT [Combat, Society and Politics Law 2026-09-26 Combat, society and politics]
+### R60-20-HOW_POWERS_FIGHT [Combat, Society and Politics Law 2026-09-26 Combat, society and politics]
 
 The powers fight by proxy and company wars, open war, economic war and intrigue; WOTR needs distinct conflicting factions with different interests written out.
 
 > The powers fight by proxy and company wars, open war, economic war and intrigue; WOTR needs distinct conflicting factions with different interests written out.
 
-### R56-21-SUCCESSION_BY_CULTURE [Combat, Society and Politics Law 2026-09-26 Combat, society and politics]
+### R60-21-SUCCESSION_BY_CULTURE [Combat, Society and Politics Law 2026-09-26 Combat, society and politics]
 
 Succession follows each culture's own law, set on its Inventory.
 
 > Succession follows each culture's own law, set on its Inventory.
 
-### R56-22-THE_NIGHT_WATCH [Combat, Society and Politics Law 2026-09-26 Factions]
+### R60-22-THE_NIGHT_WATCH [Combat, Society and Politics Law 2026-09-26 Factions]
 
 The Night Watch is a pre-Guild-Accord investigation unit on illegal magic and phenomena. It is a crown office: it works alongside the guilds but answers to the state.
 
 > The Night Watch is a pre-Guild-Accord investigation unit on illegal magic and phenomena. It is a crown office: it works alongside the guilds but answers to the state.
 
-### R56-23-THE_MOTHER [Combat, Society and Politics Law 2026-09-26 Factions]
+### R60-23-THE_MOTHER [Combat, Society and Politics Law 2026-09-26 Factions]
 
 Malphas runs an organization called The Mother, after the mother of vinegar, the living culture that sours everything it is added to. Its cells are cultures; recruits are inoculated. The Greyshaft Nine coldhouse cell is one of them.
 
 > Malphas runs an organization called The Mother, after the mother of vinegar, the living culture that sours everything it is added to. Its cells are cultures; recruits are inoculated. The Greyshaft Nine coldhouse cell is one of them.
 
-### R56-24-THE_MOTHER_IS_A_CULT [Combat, Society and Politics Law 2026-09-26 Factions]
+### R60-24-THE_MOTHER_IS_A_CULT [Combat, Society and Politics Law 2026-09-26 Factions]
 
-The Mother is a cult.
+The Mother is a cult: a religious following of the Becoming; members seek Malphas's path to undeath and worship the rot.
 
-> The Mother is a cult.
+> The Mother is a cult: a religious following of the Becoming; members seek Malphas's path to undeath and worship the rot.
 
-### R56-25-WHAT_MALPHAS_WANTS [Combat, Society and Politics Law 2026-09-26 Factions]
+### R60-25-WHAT_MALPHAS_WANTS [Combat, Society and Politics Law 2026-09-26 Factions]
 
 Malphas wants from it: to obtain the unattainable; to feed his backlog (he cannot convert what he holds fast enough); to break the Gate (the state lockdown on who may learn magic); and profit and power.
 
 > Malphas wants from it: to obtain the unattainable; to feed his backlog (he cannot convert what he holds fast enough); to break the Gate (the state lockdown on who may learn magic); and profit and power.
 
-### R56-26-NIGHT_WATCH_SOCIETY [Combat, Society and Politics Law 2026-09-26 Factions]
+### R60-26-NIGHT_WATCH_SOCIETY [Combat, Society and Politics Law 2026-09-26 Factions]
 
 The Night Watch Society is one body with the Night Watch: a crown-chartered society. It holds a crown charter and warrant, is organised as chapters (the Timberline among them) with walkers on fixed walks and a bulletin office, answers to...
 
@@ -10719,127 +11031,127 @@ A Beastkin soul-name is a circumstance-element (how the birth went, Akan-day-nam
 
 > A soul-name has two parts spoken together: the circumstance-element (what the birth was like, Akan-day-name style) and the expectation-element (the attribute the child is charged to grow into). The held-name is whichever fragment survives when everything else — home, rank, kin — has been taken.
 
-### R55-01-ESSENCE_ENGINES [Era and Apparatus Law 2026-09-26 Era and apparatus]
+### R59-01-ESSENCE_ENGINES [Era and Apparatus Law 2026-09-26 Era and apparatus]
 
 Prime power: Essence engines. Draw-fed engines replace coal and steam outright; the main and the meter are the industrial revolution.
 
 > Prime power: Essence engines. Draw-fed engines replace coal and steam outright; the main and the meter are the industrial revolution.
 
-### R55-02-NO_ELECTRICITY [Era and Apparatus Law 2026-09-26 Era and apparatus]
+### R59-02-NO_ELECTRICITY [Era and Apparatus Law 2026-09-26 Era and apparatus]
 
-Electricity: Essence replaces it. Electricity was never discovered as a separate force; the Essence lamp and main fill its place.
+Electricity: Essence replaces it. Electricity was never discovered as a separate force; the Essence lamp and main fill its place. Fulguria practitioners are the closest thing.
 
-> Electricity: Essence replaces it. Electricity was never discovered as a separate force; the Essence lamp and main fill its place.
+> Electricity: Essence replaces it. Electricity was never discovered as a separate force; the Essence lamp and main fill its place. Fulguria practitioners are the closest thing.
 
-### R55-03-WIRE_AND_TELEPHONE [Era and Apparatus Law 2026-09-26 Era and apparatus]
+### R59-03-WIRE_AND_TELEPHONE [Era and Apparatus Law 2026-09-26 Era and apparatus]
 
 Communication: the telegraph wire everywhere the Guild runs, plus telephones in Guild offices and rich houses in the big cities.
 
 > Communication: the telegraph wire everywhere the Guild runs, plus telephones in Guild offices and rich houses in the big cities.
 
-### R55-04-VEHICLES [Era and Apparatus Law 2026-09-26 Era and apparatus]
+### R59-04-VEHICLES [Era and Apparatus Law 2026-09-26 Era and apparatus]
 
-Vehicles: rail and city trams, motorcars, airships and aircraft all exist across the span, and WOTR also has vehicles and objects of its own invention.
+Vehicles: railways where they run and trams in the big cities; Essence- or engine-driven motorcars for the rich and the state in the later span; dirigibles for the Guild, the state or luxury travel; early fixed-wing aircraft in the lates...
 
-> Vehicles: rail and city trams, motorcars, airships and aircraft all exist across the span, and WOTR also has vehicles and objects of its own invention.
+> Vehicles: railways where they run and trams in the big cities; Essence- or engine-driven motorcars for the rich and the state in the later span; dirigibles for the Guild, the state or luxury travel; early fixed-wing aircraft in the latest part of the span, military and rare; and other WOTR-created objects and things of its own invention.
 
-### R55-05-STEEP_REGIONAL_GRADIENT [Era and Apparatus Law 2026-09-26 Era and apparatus]
+### R59-05-STEEP_REGIONAL_GRADIENT [Era and Apparatus Law 2026-09-26 Era and apparatus]
 
 Regional gradient: steep. Accord and Guild cities live in the late span, the provinces decades behind, the north (Kharven) in the early 1800s; a traveller moves through time.
 
 > Regional gradient: steep. Accord and Guild cities live in the late span, the provinces decades behind, the north (Kharven) in the early 1800s; a traveller moves through time.
 
-### R55-06-MEDIA [Era and Apparatus Law 2026-09-26 Era and apparatus]
+### R59-06-MEDIA [Era and Apparatus Law 2026-09-26 Era and apparatus]
 
-Media: newspapers and a penny press, photography, moving pictures and recorded sound all exist (the later ones in the later span and the richer places).
+Media: daily papers and a penny press in the cities, broadsheets reaching the provinces late; photography (studio portraits, Guild identity plates, evidence); early cinema or an Essence equivalent in the latest span; phonographs or Essen...
 
-> Media: newspapers and a penny press, photography, moving pictures and recorded sound all exist (the later ones in the later span and the richer places).
+> Media: daily papers and a penny press in the cities, broadsheets reaching the provinces late; photography (studio portraits, Guild identity plates, evidence); early cinema or an Essence equivalent in the latest span; phonographs or Essence sound-plates for the rich.
 
-### R55-07-VICTORIAN_EDWARDIAN_CITY [Era and Apparatus Law 2026-09-26 Era and apparatus]
+### R59-07-VICTORIAN_EDWARDIAN_CITY [Era and Apparatus Law 2026-09-26 Era and apparatus]
 
 The big city is Victorian-Edwardian: brick and stone, four to six storeys, tenements and terraces, glass arcades, Essence-lit streets, iron bridges.
 
 > The big city is Victorian-Edwardian: brick and stone, four to six storeys, tenements and terraces, glass arcades, Essence-lit streets, iron bridges.
 
-### R55-08-CLASS_LAYERED_DRESS [Era and Apparatus Law 2026-09-26 Era and apparatus]
+### R59-08-CLASS_LAYERED_DRESS [Era and Apparatus Law 2026-09-26 Era and apparatus]
 
 Dress is class-layered: the rich dress late-span (Edwardian to 1920s), the middle mid-Victorian, the poor in timeless work clothes, each culture bent by its Inventory.
 
 > Dress is class-layered: the rich dress late-span (Edwardian to 1920s), the middle mid-Victorian, the poor in timeless work clothes, each culture bent by its Inventory.
 
-### R55-09-ESSENCE_WORKS [Era and Apparatus Law 2026-09-26 Era and apparatus]
+### R59-09-ESSENCE_WORKS [Era and Apparatus Law 2026-09-26 Era and apparatus]
 
 Making: clean, humming Essence works and mills; mass production exists, and the grime is in the working conditions, not the air.
 
 > Making: clean, humming Essence works and mills; mass production exists, and the grime is in the working conditions, not the air.
 
-### R55-10-HOUSEHOLD [Era and Apparatus Law 2026-09-26 Era and apparatus]
+### R59-10-HOUSEHOLD [Era and Apparatus Law 2026-09-26 Era and apparatus]
 
 Household: Essence cold-boxes in metered houses, a real ice trade and iceboxes, tinned food, and indoor plumbing in the rich districts; the poor salt, smoke, cellar and use privies and standpipes.
 
 > Household: Essence cold-boxes in metered houses, a real ice trade and iceboxes, tinned food, and indoor plumbing in the rich districts; the poor salt, smoke, cellar and use privies and standpipes.
 
-### R55-11-MATERIALS [Era and Apparatus Law 2026-09-26 Era and apparatus]
+### R59-11-MATERIALS [Era and Apparatus Law 2026-09-26 Era and apparatus]
 
 Materials: cheap steel and iron, rubber and gutta-percha, early plastics in the late span, and the Master Material Ledger's Essence-born materials alongside them.
 
 > Materials: cheap steel and iron, rubber and gutta-percha, early plastics in the late span, and the Master Material Ledger's Essence-born materials alongside them.
 
-### R55-12-TRANSITIONAL_MILITARY [Era and Apparatus Law 2026-09-26 Era and apparatus]
+### R59-12-TRANSITIONAL_MILITARY [Era and Apparatus Law 2026-09-26 Era and apparatus]
 
 Military: transitional. Cavalry, bright uniforms and drill in the early span; khaki, trenches and rare machine guns later; practitioners change everything anyway.
 
 > Military: transitional. Cavalry, bright uniforms and drill in the early span; khaki, trenches and rare machine guns later; practitioners change everything anyway.
 
-### R55-13-TIMEKEEPING [Era and Apparatus Law 2026-09-26 Era and apparatus]
+### R59-13-TIMEKEEPING [Era and Apparatus Law 2026-09-26 Era and apparatus]
 
 Time: pocket watches for the middle class up, a standard Guild time spreading along wire and rail, bells and the sun in the country.
 
 > Time: pocket watches for the middle class up, a standard Guild time spreading along wire and rail, bells and the sun in the country.
 
-### R55-14-HEAVY_BUREAUCRACY [Era and Apparatus Law 2026-09-26 Era and apparatus]
+### R59-14-HEAVY_BUREAUCRACY [Era and Apparatus Law 2026-09-26 Era and apparatus]
 
 Bureaucracy: heavy. Forms, permits, stamps, registers, typewriters and carbon copies; the Guild is a paper empire.
 
 > Bureaucracy: heavy. Forms, permits, stamps, registers, typewriters and carbon copies; the Guild is a paper empire.
 
-### R55-15-LEISURE [Era and Apparatus Law 2026-09-26 Era and apparatus]
+### R59-15-LEISURE [Era and Apparatus Law 2026-09-26 Era and apparatus]
 
 Leisure: theatre and music hall, sport and spectacle (racing, prize-fighting, practitioner exhibitions), cafes, clubs and reading rooms, pleasure gardens and fairs.
 
 > Leisure: theatre and music hall, sport and spectacle (racing, prize-fighting, practitioner exhibitions), cafes, clubs and reading rooms, pleasure gardens and fairs.
 
-### R55-16-APPARATUS_PAGES [Era and Apparatus Law 2026-09-26 Era and apparatus]
+### R59-16-APPARATUS_PAGES [Era and Apparatus Law 2026-09-26 Era and apparatus]
 
 These answers are folded into The Apparatus of the Age and The Works and Days as settled text with a regional gradient section; still no decade-by-decade table.
 
 > These answers are folded into The Apparatus of the Age and The Works and Days as settled text with a regional gradient section; still no decade-by-decade table.
 
-### R54-01-HILD_TWELVE_AT_DEATH [Follow-up Rulings 2026-09-26 Follow-up answers]
+### R58-01-HILD_TWELVE_AT_DEATH [Follow-up Rulings 2026-09-26 Follow-up answers]
 
 Hild's age at death: twelve at death. She is 11 on her card's As Of moment and turns twelve before the ninth hour; 'twelve' at her death stands everywhere.
 
 > Hild's age at death: twelve at death. She is 11 on her card's As Of moment and turns twelve before the ninth hour; 'twelve' at her death stands everywhere.
 
-### R54-06-WELL_SPAWN_WELLS_ONLY [Follow-up Rulings 2026-09-26 Follow-up answers]
+### R58-06-WELL_SPAWN_WELLS_ONLY [Follow-up Rulings 2026-09-26 Follow-up answers]
 
 Well-spawn publishes, Wells only: the spread along city mains into towns is struck.
 
 > Well-spawn publishes, Wells only: the spread along city mains into towns is struck.
 
-### R54-07-WREN_GRIEF_FRONT [Follow-up Rulings 2026-09-26 Follow-up answers]
+### R58-07-WREN_GRIEF_FRONT [Follow-up Rulings 2026-09-26 Follow-up answers]
 
 Wren Greymane's Front becomes a grief Front: the aftermath of his death, Bram and the ridge carrying it, ticks driven by who blames whom.
 
 > Wren Greymane's Front becomes a grief Front: the aftermath of his death, Bram and the ridge carrying it, ticks driven by who blames whom.
 
-### R54-14-YUKARI_EYES_CRIMSON [Follow-up Rulings 2026-09-26 Follow-up answers]
+### R58-14-YUKARI_EYES_CRIMSON [Follow-up Rulings 2026-09-26 Follow-up answers]
 
 Yukari eyes: crimson. The cards win; the bloodline page's silver-violet is corrected.
 
 > Yukari eyes: crimson. The cards win; the bloodline page's silver-violet is corrected.
 
-### R54-16-THE_WIRE_IS_A_GUILD_LINE [Follow-up Rulings 2026-09-26 Follow-up answers]
+### R58-16-THE_WIRE_IS_A_GUILD_LINE [Follow-up Rulings 2026-09-26 Follow-up answers]
 
 The wire is a Guild line; the Infrastructure page is corrected.
 

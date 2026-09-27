@@ -1,15 +1,15 @@
 # Recurrence tracking — Kharven signature items across the archive
-_Run 2026-09-26_
+_Run 2026-09-27_
 
 
 57 scenes mention Kharven. Minimum two items per Kharven scene (R6-9-RECURRENCE_RULE); an item in half the scenes is a signature, an item in one is a stray, an item in none is dead weight.
 
 | item | scenes carrying it | total mentions |
 |---|---|---|
-| the woodpile / how's your stack | 5 / 57 | 13 |
+| the woodpile / how's your stack | 5 / 57 | 12 |
 | the night-stone | 11 / 57 | 23 |
 | wet wood | 7 / 57 | 11 |
-| the Thin Weeks | 11 / 57 | 28 |
+| the Thin Weeks | 11 / 57 | 27 |
 | the death-house / the Waiting | 10 / 57 | 22 |
 
 ## Per scene

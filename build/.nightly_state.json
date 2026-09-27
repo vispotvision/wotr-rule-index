@@ -1,5 +1,5 @@
 {
-"run": "2026-09-26T03:30:00",
+"run": "2026-09-27T03:30:14",
 "findings": {
 "0e0f61e9722d": {
 "file": "commencement_of_the_curia_kujo_arc.md",
@@ -84,6 +84,20 @@
 "text": "countdown negation: \"No courtesy. No disguise. No attempt at civilization. Only Kujo.\" (AI-tells §1)",
 "key": "76e07b0ca9fb",
 "first_seen": "2026-09-23"
+},
+"4fe2cdf0bd5a": {
+"file": "commencement_of_the_curia_kujo_arc.md",
+"check": "prose",
+"text": "hard-ban word: \"testament\" in \"...emained cold beneath it.  “You wanted to become a testament.”  The black-gold fissure thr...\" (R51-10-SLOP_WORDS)",
+"key": "4fe2cdf0bd5a",
+"first_seen": "2026-09-27"
+},
+"f70f36984bd2": {
+"file": "commencement_of_the_curia_kujo_arc.md",
+"check": "prose",
+"text": "hard-ban word: \"whispers of\" in \"...ries awakened along their surfaces in overlapping whispers of steel, screams, marching feet...\" (R51-10-SLOP_WORDS)",
+"key": "f70f36984bd2",
+"first_seen": "2026-09-27"
 },
 "6f4a89d8498e": {
 "file": "commencement_of_the_curia_kujo_arc.md",
@@ -183,6 +197,13 @@
 "key": "1c94a2610f54",
 "first_seen": "2026-09-23"
 },
+"35c4d44b7081": {
+"file": "the_true_king_of_the_north_part_21.md",
+"check": "prose",
+"text": "hard-ban word: \"testament\" in \"...Come now, we have work to attend to. The will and testament of the divine judger cannot b...\" (R51-10-SLOP_WORDS)",
+"key": "35c4d44b7081",
+"first_seen": "2026-09-27"
+},
 "3ea933aa5241": {
 "file": "the_true_king_of_the_north_part_21.md",
 "check": "prose",
@@ -195,6 +216,41 @@
 "check": "prose",
 "text": "flat runs: 23 stretches of three sentences within 40% of each other (R4-14-RUN_RULE)",
 "key": "ad2e4da2b1c5",
+"first_seen": "2026-09-23"
+},
+"bc65a2406d22": {
+"file": "CONTINUITY.md",
+"check": "prose",
+"text": "em dashes: 263 (banned; AI-tells §1, R15-1-AI_TELL_CHECKS_SURVIVE)",
+"key": "bc65a2406d22",
+"first_seen": "2026-09-23"
+},
+"11c197b9afe3": {
+"file": "CONTINUITY.md",
+"check": "prose",
+"text": "hard-ban word: \"testament\" in \"...ued | File's own dateline 'Charles Lambert's last testament, continued'; quoted 'I paid t...\" (R51-10-SLOP_WORDS)",
+"key": "11c197b9afe3",
+"first_seen": "2026-09-27"
+},
+"f09c82a2c200": {
+"file": "CONTINUITY.md",
+"check": "prose",
+"text": "three consecutive sentences over 25 words (R4-14-CHAIN_CEILING)",
+"key": "f09c82a2c200",
+"first_seen": "2026-09-23"
+},
+"9e3cdeb9099b": {
+"file": "CONTINUITY.md",
+"check": "prose",
+"text": "flat runs: 46 stretches of three sentences within 40% of each other (R4-14-RUN_RULE)",
+"key": "9e3cdeb9099b",
+"first_seen": "2026-09-23"
+},
+"2f5f71ecdfe7": {
+"file": "CONTINUITY.md",
+"check": "prose",
+"text": "sentences under 8 words: 8% of scene, floor is 18% (R4-14-HARD_CEILINGS)",
+"key": "2f5f71ecdfe7",
 "first_seen": "2026-09-23"
 },
 "b74348a057b2": {
@@ -260,6 +316,62 @@
 "key": "dbd68eff18b8",
 "first_seen": "2026-09-13"
 },
+"209244f941b2": {
+"file": "the_true_king_of_the_north_part_22.md",
+"check": "prose",
+"text": "antithesis 'not X but Y': \"not simply a blade because of the purpose that it brings as\" (R49-40-NOT_X_Y; AI-tells §1)",
+"key": "209244f941b2",
+"first_seen": "2026-09-26"
+},
+"6aa990dd7e4b": {
+"file": "the_true_king_of_the_north_part_22.md",
+"check": "prose",
+"text": "hard-ban word: \"testament\" in \"...r. Be proud, you stand beside me as a witness and testament to what I am willing to give...\" (R51-10-SLOP_WORDS)",
+"key": "6aa990dd7e4b",
+"first_seen": "2026-09-27"
+},
+"f291e1e98a5b": {
+"file": "the_true_king_of_the_north_part_22.md",
+"check": "prose",
+"text": "three consecutive sentences over 25 words (R4-14-CHAIN_CEILING)",
+"key": "f291e1e98a5b",
+"first_seen": "2026-09-23"
+},
+"e37830f7c315": {
+"file": "the_true_king_of_the_north_part_22.md",
+"check": "prose",
+"text": "flat runs: 9 stretches of three sentences within 40% of each other (R4-14-RUN_RULE)",
+"key": "e37830f7c315",
+"first_seen": "2026-09-23"
+},
+"1790f6ec9e90": {
+"file": "YOKO_MISHIRO.md",
+"check": "prose",
+"text": "em dashes: 78 (banned; AI-tells §1, R15-1-AI_TELL_CHECKS_SURVIVE)",
+"key": "1790f6ec9e90",
+"first_seen": "2026-09-13"
+},
+"d52fe9ec1b9c": {
+"file": "YOKO_MISHIRO.md",
+"check": "prose",
+"text": "antithesis 'not X but Y': \"not just an animal with a clever face, but\" (R49-40-NOT_X_Y; AI-tells §1)",
+"key": "d52fe9ec1b9c",
+"first_seen": "2026-09-26"
+},
+"e9be21d4c77d": {
+"file": "YOKO_MISHIRO.md",
+"check": "prose",
+"text": "hard-ban word: \"testament\" in \"...ough what she has been through, which is either a testament to how she carries herself or...\" (R51-10-SLOP_WORDS)",
+"key": "e9be21d4c77d",
+"first_seen": "2026-09-27"
+},
+"1903bf3eb72d": {
+"file": "YOKO_MISHIRO.md",
+"check": "prose",
+"text": "three consecutive sentences over 25 words (R4-14-CHAIN_CEILING)",
+"key": "1903bf3eb72d",
+"first_seen": "2026-09-13"
+},
 "b37c8eae40d9": {
 "file": "the_field_where_they_picked_them.md",
 "check": "prose",
@@ -287,34 +399,6 @@
 "text": "flat runs: 5 stretches of three sentences within 40% of each other (R4-14-RUN_RULE)",
 "key": "b4eea78231f1",
 "first_seen": "2026-09-18"
-},
-"bc65a2406d22": {
-"file": "CONTINUITY.md",
-"check": "prose",
-"text": "em dashes: 263 (banned; AI-tells §1, R15-1-AI_TELL_CHECKS_SURVIVE)",
-"key": "bc65a2406d22",
-"first_seen": "2026-09-23"
-},
-"f09c82a2c200": {
-"file": "CONTINUITY.md",
-"check": "prose",
-"text": "three consecutive sentences over 25 words (R4-14-CHAIN_CEILING)",
-"key": "f09c82a2c200",
-"first_seen": "2026-09-23"
-},
-"9e3cdeb9099b": {
-"file": "CONTINUITY.md",
-"check": "prose",
-"text": "flat runs: 46 stretches of three sentences within 40% of each other (R4-14-RUN_RULE)",
-"key": "9e3cdeb9099b",
-"first_seen": "2026-09-23"
-},
-"2f5f71ecdfe7": {
-"file": "CONTINUITY.md",
-"check": "prose",
-"text": "sentences under 8 words: 8% of scene, floor is 18% (R4-14-HARD_CEILINGS)",
-"key": "2f5f71ecdfe7",
-"first_seen": "2026-09-23"
 },
 "c671ccad1bb8": {
 "file": "the_true_king_of_the_north_part_20.md",
@@ -344,46 +428,46 @@
 "key": "24b149d1714d",
 "first_seen": "2026-09-23"
 },
-"99abda4cca20": {
-"file": "Niran_Mira_Return_to_the_Enclave.md",
+"25a4d2006e3a": {
+"file": "THE_KINGDOM_OF_KHARVEN_corrected.md",
 "check": "prose",
-"text": "em dashes: 1 (banned; AI-tells §1, R15-1-AI_TELL_CHECKS_SURVIVE)",
-"key": "99abda4cca20",
+"text": "em dashes: 4 (banned; AI-tells §1, R15-1-AI_TELL_CHECKS_SURVIVE)",
+"key": "25a4d2006e3a",
 "first_seen": "2026-09-13"
 },
-"d43cd08b361c": {
-"file": "Niran_Mira_Return_to_the_Enclave.md",
-"check": "prose",
-"text": "Ladder, two clauses in one sentence: \"Niran had maintained the wards at each camp, testing every perimeter stone against its substrate bef\" (R6-1-LADDER_BAN, Check 18)",
-"key": "d43cd08b361c",
-"first_seen": "2026-09-13"
-},
-"5c7b563ca997": {
-"file": "Niran_Mira_Return_to_the_Enclave.md",
+"430023ce3744": {
+"file": "THE_KINGDOM_OF_KHARVEN_corrected.md",
 "check": "prose",
 "text": "three consecutive sentences over 25 words (R4-14-CHAIN_CEILING)",
-"key": "5c7b563ca997",
+"key": "430023ce3744",
 "first_seen": "2026-09-13"
 },
-"497e72e2a369": {
-"file": "the_true_king_of_the_north_part_9.md",
+"a24940f9d31f": {
+"file": "THE_KINGDOM_OF_KHARVEN_corrected.md",
 "check": "prose",
-"text": "em dashes: 2 (banned; AI-tells §1, R15-1-AI_TELL_CHECKS_SURVIVE)",
-"key": "497e72e2a369",
-"first_seen": "2026-09-23"
+"text": "flat runs: 20 stretches of three sentences within 40% of each other (R4-14-RUN_RULE)",
+"key": "a24940f9d31f",
+"first_seen": "2026-09-13"
 },
-"79e3c8fb17bb": {
-"file": "the_true_king_of_the_north_part_9.md",
+"330f11671efe": {
+"file": "the_true_king_of_the_north_part_2.md",
+"check": "prose",
+"text": "antithesis 'not X but Y': \"It is not cruelty; it is\" (R49-40-NOT_X_Y; AI-tells §1)",
+"key": "330f11671efe",
+"first_seen": "2026-09-26"
+},
+"c292a89c421e": {
+"file": "the_true_king_of_the_north_part_2.md",
 "check": "prose",
 "text": "three consecutive sentences over 25 words (R4-14-CHAIN_CEILING)",
-"key": "79e3c8fb17bb",
+"key": "c292a89c421e",
 "first_seen": "2026-09-23"
 },
-"6d910f2cc5df": {
-"file": "the_true_king_of_the_north_part_9.md",
+"d579ca20b706": {
+"file": "the_true_king_of_the_north_part_2.md",
 "check": "prose",
-"text": "flat runs: 6 stretches of three sentences within 40% of each other (R4-14-RUN_RULE)",
-"key": "6d910f2cc5df",
+"text": "flat runs: 12 stretches of three sentences within 40% of each other (R4-14-RUN_RULE)",
+"key": "d579ca20b706",
 "first_seen": "2026-09-23"
 },
 "5e75049a870e": {
@@ -407,26 +491,68 @@
 "key": "48d65e23d85a",
 "first_seen": "2026-09-23"
 },
-"25a4d2006e3a": {
-"file": "THE_KINGDOM_OF_KHARVEN_corrected.md",
+"99abda4cca20": {
+"file": "Niran_Mira_Return_to_the_Enclave.md",
 "check": "prose",
-"text": "em dashes: 4 (banned; AI-tells §1, R15-1-AI_TELL_CHECKS_SURVIVE)",
-"key": "25a4d2006e3a",
+"text": "em dashes: 1 (banned; AI-tells §1, R15-1-AI_TELL_CHECKS_SURVIVE)",
+"key": "99abda4cca20",
 "first_seen": "2026-09-13"
 },
-"430023ce3744": {
-"file": "THE_KINGDOM_OF_KHARVEN_corrected.md",
+"d43cd08b361c": {
+"file": "Niran_Mira_Return_to_the_Enclave.md",
+"check": "prose",
+"text": "Ladder, two clauses in one sentence: \"Niran had maintained the wards at each camp, testing every perimeter stone against its substrate bef\" (R6-1-LADDER_BAN, Check 18)",
+"key": "d43cd08b361c",
+"first_seen": "2026-09-13"
+},
+"5c7b563ca997": {
+"file": "Niran_Mira_Return_to_the_Enclave.md",
 "check": "prose",
 "text": "three consecutive sentences over 25 words (R4-14-CHAIN_CEILING)",
-"key": "430023ce3744",
+"key": "5c7b563ca997",
 "first_seen": "2026-09-13"
 },
-"a24940f9d31f": {
-"file": "THE_KINGDOM_OF_KHARVEN_corrected.md",
+"6d376d95054f": {
+"file": "the_true_king_of_the_north_part_1.md",
 "check": "prose",
-"text": "flat runs: 20 stretches of three sentences within 40% of each other (R4-14-RUN_RULE)",
-"key": "a24940f9d31f",
-"first_seen": "2026-09-13"
+"text": "antithesis 'not X but Y': \"that was more interesting than handsome\" (R49-40-NOT_X_Y; AI-tells §1)",
+"key": "6d376d95054f",
+"first_seen": "2026-09-26"
+},
+"5acfb1bb4fbc": {
+"file": "the_true_king_of_the_north_part_1.md",
+"check": "prose",
+"text": "three consecutive sentences over 25 words (R4-14-CHAIN_CEILING)",
+"key": "5acfb1bb4fbc",
+"first_seen": "2026-09-23"
+},
+"287d58a6f5ba": {
+"file": "the_true_king_of_the_north_part_1.md",
+"check": "prose",
+"text": "flat runs: 26 stretches of three sentences within 40% of each other (R4-14-RUN_RULE)",
+"key": "287d58a6f5ba",
+"first_seen": "2026-09-23"
+},
+"37ca0f7aea15": {
+"file": "the_nights_watch.md",
+"check": "prose",
+"text": "antithesis 'not X but Y': \"That is not a mistake, it is\" (R49-40-NOT_X_Y; AI-tells §1)",
+"key": "37ca0f7aea15",
+"first_seen": "2026-09-26"
+},
+"c450c995bc42": {
+"file": "the_nights_watch.md",
+"check": "prose",
+"text": "antithesis 'not X but Y': \"It is not a mark he puts on it, it is\" (R49-40-NOT_X_Y; AI-tells §1)",
+"key": "c450c995bc42",
+"first_seen": "2026-09-26"
+},
+"a953ac07e911": {
+"file": "the_nights_watch.md",
+"check": "prose",
+"text": "flat runs: 12 stretches of three sentences within 40% of each other (R4-14-RUN_RULE)",
+"key": "a953ac07e911",
+"first_seen": "2026-09-23"
 },
 "926aff85ed2d": {
 "file": "the_true_king_of_the_north_part_14.md",
@@ -447,69 +573,6 @@
 "check": "prose",
 "text": "flat runs: 5 stretches of three sentences within 40% of each other (R4-14-RUN_RULE)",
 "key": "d32f0a167c48",
-"first_seen": "2026-09-23"
-},
-"44a88a7ba81c": {
-"file": "the_years_that_were_not_war.md",
-"check": "prose",
-"text": "antithesis 'not X but Y': \"not merely follow the causal web but\" (R49-40-NOT_X_Y; AI-tells §1)",
-"key": "44a88a7ba81c",
-"first_seen": "2026-09-26"
-},
-"00fcff435d74": {
-"file": "the_years_that_were_not_war.md",
-"check": "prose",
-"text": "three consecutive sentences over 25 words (R4-14-CHAIN_CEILING)",
-"key": "00fcff435d74",
-"first_seen": "2026-09-18"
-},
-"d3ff760ed3ee": {
-"file": "the_years_that_were_not_war.md",
-"check": "prose",
-"text": "flat runs: 5 stretches of three sentences within 40% of each other (R4-14-RUN_RULE)",
-"key": "d3ff760ed3ee",
-"first_seen": "2026-09-18"
-},
-"330f11671efe": {
-"file": "the_true_king_of_the_north_part_2.md",
-"check": "prose",
-"text": "antithesis 'not X but Y': \"It is not cruelty; it is\" (R49-40-NOT_X_Y; AI-tells §1)",
-"key": "330f11671efe",
-"first_seen": "2026-09-26"
-},
-"c292a89c421e": {
-"file": "the_true_king_of_the_north_part_2.md",
-"check": "prose",
-"text": "three consecutive sentences over 25 words (R4-14-CHAIN_CEILING)",
-"key": "c292a89c421e",
-"first_seen": "2026-09-23"
-},
-"d579ca20b706": {
-"file": "the_true_king_of_the_north_part_2.md",
-"check": "prose",
-"text": "flat runs: 12 stretches of three sentences within 40% of each other (R4-14-RUN_RULE)",
-"key": "d579ca20b706",
-"first_seen": "2026-09-23"
-},
-"ea3c2f1fb808": {
-"file": "the_true_king_of_the_north_part_16.md",
-"check": "prose",
-"text": "em dashes: 1 (banned; AI-tells §1, R15-1-AI_TELL_CHECKS_SURVIVE)",
-"key": "ea3c2f1fb808",
-"first_seen": "2026-09-23"
-},
-"ea231b3a5438": {
-"file": "the_true_king_of_the_north_part_16.md",
-"check": "prose",
-"text": "three consecutive sentences over 25 words (R4-14-CHAIN_CEILING)",
-"key": "ea231b3a5438",
-"first_seen": "2026-09-23"
-},
-"d862c11cebbf": {
-"file": "the_true_king_of_the_north_part_16.md",
-"check": "prose",
-"text": "flat runs: 11 stretches of three sentences within 40% of each other (R4-14-RUN_RULE)",
-"key": "d862c11cebbf",
 "first_seen": "2026-09-23"
 },
 "40e15abcd6f4": {
@@ -533,214 +596,67 @@
 "key": "0905a2687927",
 "first_seen": "2026-09-23"
 },
-"27019b6825d5": {
-"file": "19_aurelian_five_numbers.md",
+"497e72e2a369": {
+"file": "the_true_king_of_the_north_part_9.md",
 "check": "prose",
-"text": "em dashes: 3 (banned; AI-tells §1, R15-1-AI_TELL_CHECKS_SURVIVE)",
-"key": "27019b6825d5",
-"first_seen": "2026-09-13"
+"text": "em dashes: 2 (banned; AI-tells §1, R15-1-AI_TELL_CHECKS_SURVIVE)",
+"key": "497e72e2a369",
+"first_seen": "2026-09-23"
 },
-"4fdde8e6a1bd": {
-"file": "19_aurelian_five_numbers.md",
+"79e3c8fb17bb": {
+"file": "the_true_king_of_the_north_part_9.md",
 "check": "prose",
 "text": "three consecutive sentences over 25 words (R4-14-CHAIN_CEILING)",
-"key": "4fdde8e6a1bd",
-"first_seen": "2026-09-13"
+"key": "79e3c8fb17bb",
+"first_seen": "2026-09-23"
 },
-"fe023f4d7511": {
-"file": "19_aurelian_five_numbers.md",
+"6d910f2cc5df": {
+"file": "the_true_king_of_the_north_part_9.md",
 "check": "prose",
-"text": "flat runs: 4 stretches of three sentences within 40% of each other (R4-14-RUN_RULE)",
-"key": "fe023f4d7511",
-"first_seen": "2026-09-13"
+"text": "flat runs: 6 stretches of three sentences within 40% of each other (R4-14-RUN_RULE)",
+"key": "6d910f2cc5df",
+"first_seen": "2026-09-23"
 },
-"37ca0f7aea15": {
-"file": "the_nights_watch.md",
+"44a88a7ba81c": {
+"file": "the_years_that_were_not_war.md",
 "check": "prose",
-"text": "antithesis 'not X but Y': \"That is not a mistake, it is\" (R49-40-NOT_X_Y; AI-tells §1)",
-"key": "37ca0f7aea15",
+"text": "antithesis 'not X but Y': \"not merely follow the causal web but\" (R49-40-NOT_X_Y; AI-tells §1)",
+"key": "44a88a7ba81c",
 "first_seen": "2026-09-26"
 },
-"c450c995bc42": {
-"file": "the_nights_watch.md",
-"check": "prose",
-"text": "antithesis 'not X but Y': \"It is not a mark he puts on it, it is\" (R49-40-NOT_X_Y; AI-tells §1)",
-"key": "c450c995bc42",
-"first_seen": "2026-09-26"
-},
-"a953ac07e911": {
-"file": "the_nights_watch.md",
-"check": "prose",
-"text": "flat runs: 12 stretches of three sentences within 40% of each other (R4-14-RUN_RULE)",
-"key": "a953ac07e911",
-"first_seen": "2026-09-23"
-},
-"6d376d95054f": {
-"file": "the_true_king_of_the_north_part_1.md",
-"check": "prose",
-"text": "antithesis 'not X but Y': \"that was more interesting than handsome\" (R49-40-NOT_X_Y; AI-tells §1)",
-"key": "6d376d95054f",
-"first_seen": "2026-09-26"
-},
-"5acfb1bb4fbc": {
-"file": "the_true_king_of_the_north_part_1.md",
+"00fcff435d74": {
+"file": "the_years_that_were_not_war.md",
 "check": "prose",
 "text": "three consecutive sentences over 25 words (R4-14-CHAIN_CEILING)",
-"key": "5acfb1bb4fbc",
-"first_seen": "2026-09-23"
+"key": "00fcff435d74",
+"first_seen": "2026-09-18"
 },
-"287d58a6f5ba": {
-"file": "the_true_king_of_the_north_part_1.md",
-"check": "prose",
-"text": "flat runs: 26 stretches of three sentences within 40% of each other (R4-14-RUN_RULE)",
-"key": "287d58a6f5ba",
-"first_seen": "2026-09-23"
-},
-"209244f941b2": {
-"file": "the_true_king_of_the_north_part_22.md",
-"check": "prose",
-"text": "antithesis 'not X but Y': \"not simply a blade because of the purpose that it brings as\" (R49-40-NOT_X_Y; AI-tells §1)",
-"key": "209244f941b2",
-"first_seen": "2026-09-26"
-},
-"f291e1e98a5b": {
-"file": "the_true_king_of_the_north_part_22.md",
-"check": "prose",
-"text": "three consecutive sentences over 25 words (R4-14-CHAIN_CEILING)",
-"key": "f291e1e98a5b",
-"first_seen": "2026-09-23"
-},
-"e37830f7c315": {
-"file": "the_true_king_of_the_north_part_22.md",
-"check": "prose",
-"text": "flat runs: 9 stretches of three sentences within 40% of each other (R4-14-RUN_RULE)",
-"key": "e37830f7c315",
-"first_seen": "2026-09-23"
-},
-"f32e620d0694": {
-"file": "15_darius_kill_me_first.md",
-"check": "prose",
-"text": "em dashes: 1 (banned; AI-tells §1, R15-1-AI_TELL_CHECKS_SURVIVE)",
-"key": "f32e620d0694",
-"first_seen": "2026-09-13"
-},
-"a661d949e8d9": {
-"file": "15_darius_kill_me_first.md",
-"check": "prose",
-"text": "three consecutive sentences over 25 words (R4-14-CHAIN_CEILING)",
-"key": "a661d949e8d9",
-"first_seen": "2026-09-13"
-},
-"803a04dd4452": {
-"file": "15_darius_kill_me_first.md",
-"check": "prose",
-"text": "flat runs: 7 stretches of three sentences within 40% of each other (R4-14-RUN_RULE)",
-"key": "803a04dd4452",
-"first_seen": "2026-09-13"
-},
-"d61cec191781": {
-"file": "21_darius_the_fist_of_god.md",
-"check": "prose",
-"text": "em dashes: 6 (banned; AI-tells §1, R15-1-AI_TELL_CHECKS_SURVIVE)",
-"key": "d61cec191781",
-"first_seen": "2026-09-13"
-},
-"fa83a168a5db": {
-"file": "21_darius_the_fist_of_god.md",
-"check": "prose",
-"text": "three consecutive sentences over 25 words (R4-14-CHAIN_CEILING)",
-"key": "fa83a168a5db",
-"first_seen": "2026-09-13"
-},
-"8923ef14bb1b": {
-"file": "21_darius_the_fist_of_god.md",
+"d3ff760ed3ee": {
+"file": "the_years_that_were_not_war.md",
 "check": "prose",
 "text": "flat runs: 5 stretches of three sentences within 40% of each other (R4-14-RUN_RULE)",
-"key": "8923ef14bb1b",
-"first_seen": "2026-09-13"
-},
-"971f7d242e9c": {
-"file": "Naiser_Death_Cozbi_Genocide_Niran_Fall.md",
-"check": "prose",
-"text": "antithesis 'not X but Y': \"not so much break beneath him as\" (R49-40-NOT_X_Y; AI-tells §1)",
-"key": "971f7d242e9c",
-"first_seen": "2026-09-26"
-},
-"c85267cb7534": {
-"file": "Naiser_Death_Cozbi_Genocide_Niran_Fall.md",
-"check": "prose",
-"text": "three consecutive sentences over 25 words (R4-14-CHAIN_CEILING)",
-"key": "c85267cb7534",
-"first_seen": "2026-09-13"
-},
-"2e6d11ca3a89": {
-"file": "Naiser_Death_Cozbi_Genocide_Niran_Fall.md",
-"check": "prose",
-"text": "flat runs: 6 stretches of three sentences within 40% of each other (R4-14-RUN_RULE)",
-"key": "2e6d11ca3a89",
-"first_seen": "2026-09-13"
-},
-"1790f6ec9e90": {
-"file": "YOKO_MISHIRO.md",
-"check": "prose",
-"text": "em dashes: 78 (banned; AI-tells §1, R15-1-AI_TELL_CHECKS_SURVIVE)",
-"key": "1790f6ec9e90",
-"first_seen": "2026-09-13"
-},
-"d52fe9ec1b9c": {
-"file": "YOKO_MISHIRO.md",
-"check": "prose",
-"text": "antithesis 'not X but Y': \"not just an animal with a clever face, but\" (R49-40-NOT_X_Y; AI-tells §1)",
-"key": "d52fe9ec1b9c",
-"first_seen": "2026-09-26"
-},
-"1903bf3eb72d": {
-"file": "YOKO_MISHIRO.md",
-"check": "prose",
-"text": "three consecutive sentences over 25 words (R4-14-CHAIN_CEILING)",
-"key": "1903bf3eb72d",
-"first_seen": "2026-09-13"
-},
-"6f6ac0b735db": {
-"file": "the_empty_place.md",
-"check": "prose",
-"text": "antithesis 'not X but Y': \"it is not mercy, it is\" (R49-40-NOT_X_Y; AI-tells §1)",
-"key": "6f6ac0b735db",
-"first_seen": "2026-09-26"
-},
-"ce4c129a36cb": {
-"file": "the_empty_place.md",
-"check": "prose",
-"text": "three consecutive sentences over 25 words (R4-14-CHAIN_CEILING)",
-"key": "ce4c129a36cb",
+"key": "d3ff760ed3ee",
 "first_seen": "2026-09-18"
 },
-"4f568023d92b": {
-"file": "the_empty_place.md",
+"ea3c2f1fb808": {
+"file": "the_true_king_of_the_north_part_16.md",
 "check": "prose",
-"text": "flat runs: 6 stretches of three sentences within 40% of each other (R4-14-RUN_RULE)",
-"key": "4f568023d92b",
-"first_seen": "2026-09-18"
-},
-"e2724a589ab0": {
-"file": "the_true_king_of_the_north_part_6.md",
-"check": "prose",
-"text": "Ladder, two clauses in one sentence: \"It tasted like cold air and iron and the specific warmth of a morning where everything was functioni\" (R6-1-LADDER_BAN, Check 18)",
-"key": "e2724a589ab0",
+"text": "em dashes: 1 (banned; AI-tells §1, R15-1-AI_TELL_CHECKS_SURVIVE)",
+"key": "ea3c2f1fb808",
 "first_seen": "2026-09-23"
 },
-"66adebdb6023": {
-"file": "the_true_king_of_the_north_part_6.md",
+"ea231b3a5438": {
+"file": "the_true_king_of_the_north_part_16.md",
 "check": "prose",
 "text": "three consecutive sentences over 25 words (R4-14-CHAIN_CEILING)",
-"key": "66adebdb6023",
+"key": "ea231b3a5438",
 "first_seen": "2026-09-23"
 },
-"8dcaca21cb6a": {
-"file": "the_true_king_of_the_north_part_6.md",
+"d862c11cebbf": {
+"file": "the_true_king_of_the_north_part_16.md",
 "check": "prose",
-"text": "flat runs: 16 stretches of three sentences within 40% of each other (R4-14-RUN_RULE)",
-"key": "8dcaca21cb6a",
+"text": "flat runs: 11 stretches of three sentences within 40% of each other (R4-14-RUN_RULE)",
+"key": "d862c11cebbf",
 "first_seen": "2026-09-23"
 },
 "f8f03cece07d": {
@@ -764,89 +680,47 @@
 "key": "e289161d401b",
 "first_seen": "2026-09-19"
 },
-"cd05db47239f": {
-"file": "verinus_what_a_thing_weighs.md",
+"971f7d242e9c": {
+"file": "Naiser_Death_Cozbi_Genocide_Niran_Fall.md",
 "check": "prose",
-"text": "antithesis 'not X but Y': \"which was more graceful than the\" (R49-40-NOT_X_Y; AI-tells §1)",
-"key": "cd05db47239f",
+"text": "antithesis 'not X but Y': \"not so much break beneath him as\" (R49-40-NOT_X_Y; AI-tells §1)",
+"key": "971f7d242e9c",
 "first_seen": "2026-09-26"
 },
-"64417f8ac565": {
-"file": "verinus_what_a_thing_weighs.md",
+"c85267cb7534": {
+"file": "Naiser_Death_Cozbi_Genocide_Niran_Fall.md",
 "check": "prose",
-"text": "antithesis 'not X but Y': \"That is not cynicism, it is\" (R49-40-NOT_X_Y; AI-tells §1)",
-"key": "64417f8ac565",
+"text": "three consecutive sentences over 25 words (R4-14-CHAIN_CEILING)",
+"key": "c85267cb7534",
+"first_seen": "2026-09-13"
+},
+"2e6d11ca3a89": {
+"file": "Naiser_Death_Cozbi_Genocide_Niran_Fall.md",
+"check": "prose",
+"text": "flat runs: 6 stretches of three sentences within 40% of each other (R4-14-RUN_RULE)",
+"key": "2e6d11ca3a89",
+"first_seen": "2026-09-13"
+},
+"6f6ac0b735db": {
+"file": "the_empty_place.md",
+"check": "prose",
+"text": "antithesis 'not X but Y': \"it is not mercy, it is\" (R49-40-NOT_X_Y; AI-tells §1)",
+"key": "6f6ac0b735db",
 "first_seen": "2026-09-26"
 },
-"0e3210ca88a1": {
-"file": "verinus_what_a_thing_weighs.md",
+"ce4c129a36cb": {
+"file": "the_empty_place.md",
 "check": "prose",
 "text": "three consecutive sentences over 25 words (R4-14-CHAIN_CEILING)",
-"key": "0e3210ca88a1",
-"first_seen": "2026-09-13"
+"key": "ce4c129a36cb",
+"first_seen": "2026-09-18"
 },
-"6a661b224f1f": {
-"file": "09_dabney_the_undamped_thing.md",
+"4f568023d92b": {
+"file": "the_empty_place.md",
 "check": "prose",
-"text": "em dashes: 1 (banned; AI-tells §1, R15-1-AI_TELL_CHECKS_SURVIVE)",
-"key": "6a661b224f1f",
-"first_seen": "2026-09-13"
-},
-"3f7e1816d9a5": {
-"file": "09_dabney_the_undamped_thing.md",
-"check": "prose",
-"text": "three consecutive sentences over 25 words (R4-14-CHAIN_CEILING)",
-"key": "3f7e1816d9a5",
-"first_seen": "2026-09-13"
-},
-"699cfd37e56f": {
-"file": "09_dabney_the_undamped_thing.md",
-"check": "prose",
-"text": "flat runs: 4 stretches of three sentences within 40% of each other (R4-14-RUN_RULE)",
-"key": "699cfd37e56f",
-"first_seen": "2026-09-13"
-},
-"be8592fe8aad": {
-"file": "22_darius_punta.md",
-"check": "prose",
-"text": "em dashes: 5 (banned; AI-tells §1, R15-1-AI_TELL_CHECKS_SURVIVE)",
-"key": "be8592fe8aad",
-"first_seen": "2026-09-13"
-},
-"2d21d4ff74db": {
-"file": "22_darius_punta.md",
-"check": "prose",
-"text": "three consecutive sentences over 25 words (R4-14-CHAIN_CEILING)",
-"key": "2d21d4ff74db",
-"first_seen": "2026-09-13"
-},
-"654fa80b3574": {
-"file": "22_darius_punta.md",
-"check": "prose",
-"text": "flat runs: 4 stretches of three sentences within 40% of each other (R4-14-RUN_RULE)",
-"key": "654fa80b3574",
-"first_seen": "2026-09-13"
-},
-"c72959f49f08": {
-"file": "23_darius_the_fist_of_totality.md",
-"check": "prose",
-"text": "em dashes: 1 (banned; AI-tells §1, R15-1-AI_TELL_CHECKS_SURVIVE)",
-"key": "c72959f49f08",
-"first_seen": "2026-09-13"
-},
-"c47c64707a44": {
-"file": "23_darius_the_fist_of_totality.md",
-"check": "prose",
-"text": "three consecutive sentences over 25 words (R4-14-CHAIN_CEILING)",
-"key": "c47c64707a44",
-"first_seen": "2026-09-13"
-},
-"4affd2eda042": {
-"file": "23_darius_the_fist_of_totality.md",
-"check": "prose",
-"text": "flat runs: 5 stretches of three sentences within 40% of each other (R4-14-RUN_RULE)",
-"key": "4affd2eda042",
-"first_seen": "2026-09-13"
+"text": "flat runs: 6 stretches of three sentences within 40% of each other (R4-14-RUN_RULE)",
+"key": "4f568023d92b",
+"first_seen": "2026-09-18"
 },
 "bfb2218514d0": {
 "file": "the_true_king_of_the_north_part_19.md",
@@ -869,6 +743,69 @@
 "key": "b4d27111e268",
 "first_seen": "2026-09-23"
 },
+"e2724a589ab0": {
+"file": "the_true_king_of_the_north_part_6.md",
+"check": "prose",
+"text": "Ladder, two clauses in one sentence: \"It tasted like cold air and iron and the specific warmth of a morning where everything was functioni\" (R6-1-LADDER_BAN, Check 18)",
+"key": "e2724a589ab0",
+"first_seen": "2026-09-23"
+},
+"66adebdb6023": {
+"file": "the_true_king_of_the_north_part_6.md",
+"check": "prose",
+"text": "three consecutive sentences over 25 words (R4-14-CHAIN_CEILING)",
+"key": "66adebdb6023",
+"first_seen": "2026-09-23"
+},
+"8dcaca21cb6a": {
+"file": "the_true_king_of_the_north_part_6.md",
+"check": "prose",
+"text": "flat runs: 16 stretches of three sentences within 40% of each other (R4-14-RUN_RULE)",
+"key": "8dcaca21cb6a",
+"first_seen": "2026-09-23"
+},
+"cd05db47239f": {
+"file": "verinus_what_a_thing_weighs.md",
+"check": "prose",
+"text": "antithesis 'not X but Y': \"which was more graceful than the\" (R49-40-NOT_X_Y; AI-tells §1)",
+"key": "cd05db47239f",
+"first_seen": "2026-09-26"
+},
+"64417f8ac565": {
+"file": "verinus_what_a_thing_weighs.md",
+"check": "prose",
+"text": "antithesis 'not X but Y': \"That is not cynicism, it is\" (R49-40-NOT_X_Y; AI-tells §1)",
+"key": "64417f8ac565",
+"first_seen": "2026-09-26"
+},
+"0e3210ca88a1": {
+"file": "verinus_what_a_thing_weighs.md",
+"check": "prose",
+"text": "three consecutive sentences over 25 words (R4-14-CHAIN_CEILING)",
+"key": "0e3210ca88a1",
+"first_seen": "2026-09-13"
+},
+"70208c18f292": {
+"file": "18_darius_the_hand_of_the_judger.md",
+"check": "prose",
+"text": "antithesis 'not X but Y': \"it is not holding a body still, it is\" (R49-40-NOT_X_Y; AI-tells §1)",
+"key": "70208c18f292",
+"first_seen": "2026-09-26"
+},
+"72a07c545055": {
+"file": "18_darius_the_hand_of_the_judger.md",
+"check": "prose",
+"text": "hard-ban word: \"whispers of\" in \"...e golden arms and into the head of Ignis, and the whispers of it ran along every filament i...\" (R51-10-SLOP_WORDS)",
+"key": "72a07c545055",
+"first_seen": "2026-09-27"
+},
+"52f75dfa2292": {
+"file": "18_darius_the_hand_of_the_judger.md",
+"check": "prose",
+"text": "three consecutive sentences over 25 words (R4-14-CHAIN_CEILING)",
+"key": "52f75dfa2292",
+"first_seen": "2026-09-13"
+},
 "94333f65b938": {
 "file": "xanelor_the_morning_of_the_first_bell.md",
 "check": "prose",
@@ -890,46 +827,25 @@
 "key": "c5961084e95c",
 "first_seen": "2026-09-19"
 },
-"a6a00374d55d": {
-"file": "08_charles_what_a_hand_is_for.md",
+"5d0603012df7": {
+"file": "Kami-No-Kobushi.md",
 "check": "prose",
-"text": "antithesis 'not X but Y': \"that is not a trick of language, it is\" (R49-40-NOT_X_Y; AI-tells §1)",
-"key": "a6a00374d55d",
-"first_seen": "2026-09-26"
+"text": "em dashes: 100 (banned; AI-tells §1, R15-1-AI_TELL_CHECKS_SURVIVE)",
+"key": "5d0603012df7",
+"first_seen": "2026-09-13"
 },
-"d026fd855fe7": {
-"file": "08_charles_what_a_hand_is_for.md",
+"efda9b9b4275": {
+"file": "Kami-No-Kobushi.md",
 "check": "prose",
 "text": "three consecutive sentences over 25 words (R4-14-CHAIN_CEILING)",
-"key": "d026fd855fe7",
+"key": "efda9b9b4275",
 "first_seen": "2026-09-13"
 },
-"12b562521c74": {
-"file": "08_charles_what_a_hand_is_for.md",
+"67d9baff62dd": {
+"file": "Kami-No-Kobushi.md",
 "check": "prose",
-"text": "flat runs: 5 stretches of three sentences within 40% of each other (R4-14-RUN_RULE)",
-"key": "12b562521c74",
-"first_seen": "2026-09-13"
-},
-"3b83f8d960a8": {
-"file": "10_wotr_what_the_ground_was_owed.md",
-"check": "prose",
-"text": "em dashes: 4 (banned; AI-tells §1, R15-1-AI_TELL_CHECKS_SURVIVE)",
-"key": "3b83f8d960a8",
-"first_seen": "2026-09-13"
-},
-"060595105183": {
-"file": "10_wotr_what_the_ground_was_owed.md",
-"check": "prose",
-"text": "three consecutive sentences over 25 words (R4-14-CHAIN_CEILING)",
-"key": "060595105183",
-"first_seen": "2026-09-13"
-},
-"cc35021bad66": {
-"file": "10_wotr_what_the_ground_was_owed.md",
-"check": "prose",
-"text": "flat runs: 8 stretches of three sentences within 40% of each other (R4-14-RUN_RULE)",
-"key": "cc35021bad66",
+"text": "flat runs: 10 stretches of three sentences within 40% of each other (R4-14-RUN_RULE)",
+"key": "67d9baff62dd",
 "first_seen": "2026-09-13"
 },
 "4c1f1ceab93f": {
@@ -974,48 +890,6 @@
 "key": "ae9dcb23bf39",
 "first_seen": "2026-09-23"
 },
-"f456107fe357": {
-"file": "01_the_vacancy_korvaeth_arc.md",
-"check": "prose",
-"text": "em dashes: 8 (banned; AI-tells §1, R15-1-AI_TELL_CHECKS_SURVIVE)",
-"key": "f456107fe357",
-"first_seen": "2026-09-13"
-},
-"14fb0c5dde30": {
-"file": "01_the_vacancy_korvaeth_arc.md",
-"check": "prose",
-"text": "three consecutive sentences over 25 words (R4-14-CHAIN_CEILING)",
-"key": "14fb0c5dde30",
-"first_seen": "2026-09-13"
-},
-"5812e259556c": {
-"file": "01_the_vacancy_korvaeth_arc.md",
-"check": "prose",
-"text": "flat runs: 6 stretches of three sentences within 40% of each other (R4-14-RUN_RULE)",
-"key": "5812e259556c",
-"first_seen": "2026-09-13"
-},
-"5d0603012df7": {
-"file": "Kami-No-Kobushi.md",
-"check": "prose",
-"text": "em dashes: 100 (banned; AI-tells §1, R15-1-AI_TELL_CHECKS_SURVIVE)",
-"key": "5d0603012df7",
-"first_seen": "2026-09-13"
-},
-"efda9b9b4275": {
-"file": "Kami-No-Kobushi.md",
-"check": "prose",
-"text": "three consecutive sentences over 25 words (R4-14-CHAIN_CEILING)",
-"key": "efda9b9b4275",
-"first_seen": "2026-09-13"
-},
-"67d9baff62dd": {
-"file": "Kami-No-Kobushi.md",
-"check": "prose",
-"text": "flat runs: 10 stretches of three sentences within 40% of each other (R4-14-RUN_RULE)",
-"key": "67d9baff62dd",
-"first_seen": "2026-09-13"
-},
 "ac4872da34c4": {
 "file": "the_house_of_abscene_kujo_arc.md",
 "check": "prose",
@@ -1028,34 +902,6 @@
 "check": "prose",
 "text": "flat runs: 122 stretches of three sentences within 40% of each other (R4-14-RUN_RULE)",
 "key": "cfb1aa4f0e19",
-"first_seen": "2026-09-23"
-},
-"802c5ce31b04": {
-"file": "the_true_king_of_the_north_part_17.md",
-"check": "prose",
-"text": "three consecutive sentences over 25 words (R4-14-CHAIN_CEILING)",
-"key": "802c5ce31b04",
-"first_seen": "2026-09-23"
-},
-"7a508cfa79b3": {
-"file": "the_true_king_of_the_north_part_17.md",
-"check": "prose",
-"text": "flat runs: 16 stretches of three sentences within 40% of each other (R4-14-RUN_RULE)",
-"key": "7a508cfa79b3",
-"first_seen": "2026-09-23"
-},
-"7f23530938ab": {
-"file": "the_true_king_of_the_north_part_10.md",
-"check": "prose",
-"text": "three consecutive sentences over 25 words (R4-14-CHAIN_CEILING)",
-"key": "7f23530938ab",
-"first_seen": "2026-09-23"
-},
-"3d4c167b667f": {
-"file": "the_true_king_of_the_north_part_10.md",
-"check": "prose",
-"text": "flat runs: 5 stretches of three sentences within 40% of each other (R4-14-RUN_RULE)",
-"key": "3d4c167b667f",
 "first_seen": "2026-09-23"
 },
 "42ece954b17b": {
@@ -1072,46 +918,18 @@
 "key": "9c47293b2f4c",
 "first_seen": "2026-09-23"
 },
-"dc9e6c4d0700": {
-"file": "the_true_king_of_the_north_part_13.md",
+"603a02af6474": {
+"file": "the_true_king_of_the_north_part_4.md",
 "check": "prose",
 "text": "three consecutive sentences over 25 words (R4-14-CHAIN_CEILING)",
-"key": "dc9e6c4d0700",
+"key": "603a02af6474",
 "first_seen": "2026-09-23"
 },
-"52ab9a2907bc": {
-"file": "the_true_king_of_the_north_part_13.md",
+"e704f6aad4a0": {
+"file": "the_true_king_of_the_north_part_4.md",
 "check": "prose",
-"text": "flat runs: 7 stretches of three sentences within 40% of each other (R4-14-RUN_RULE)",
-"key": "52ab9a2907bc",
-"first_seen": "2026-09-23"
-},
-"5454d4acd172": {
-"file": "the_true_king_of_the_north_part_15.md",
-"check": "prose",
-"text": "three consecutive sentences over 25 words (R4-14-CHAIN_CEILING)",
-"key": "5454d4acd172",
-"first_seen": "2026-09-23"
-},
-"65fe980e478b": {
-"file": "the_true_king_of_the_north_part_15.md",
-"check": "prose",
-"text": "flat runs: 10 stretches of three sentences within 40% of each other (R4-14-RUN_RULE)",
-"key": "65fe980e478b",
-"first_seen": "2026-09-23"
-},
-"f22c4f92b324": {
-"file": "the_true_king_of_the_north_part_8.md",
-"check": "prose",
-"text": "three consecutive sentences over 25 words (R4-14-CHAIN_CEILING)",
-"key": "f22c4f92b324",
-"first_seen": "2026-09-23"
-},
-"07df01f4ff88": {
-"file": "the_true_king_of_the_north_part_8.md",
-"check": "prose",
-"text": "flat runs: 4 stretches of three sentences within 40% of each other (R4-14-RUN_RULE)",
-"key": "07df01f4ff88",
+"text": "flat runs: 8 stretches of three sentences within 40% of each other (R4-14-RUN_RULE)",
+"key": "e704f6aad4a0",
 "first_seen": "2026-09-23"
 },
 "1669f48fa6ee": {
@@ -1128,61 +946,47 @@
 "key": "7462e6391483",
 "first_seen": "2026-09-18"
 },
-"c6aeb2cfc479": {
-"file": "13_darius_the_holiest_of_holy.md",
+"7f23530938ab": {
+"file": "the_true_king_of_the_north_part_10.md",
 "check": "prose",
 "text": "three consecutive sentences over 25 words (R4-14-CHAIN_CEILING)",
-"key": "c6aeb2cfc479",
-"first_seen": "2026-09-13"
+"key": "7f23530938ab",
+"first_seen": "2026-09-23"
 },
-"98a7af274cb4": {
-"file": "13_darius_the_holiest_of_holy.md",
-"check": "prose",
-"text": "flat runs: 6 stretches of three sentences within 40% of each other (R4-14-RUN_RULE)",
-"key": "98a7af274cb4",
-"first_seen": "2026-09-13"
-},
-"df208363ca93": {
-"file": "14_darius_two_men_who_would_not_take_the_seat.md",
-"check": "prose",
-"text": "em dashes: 1 (banned; AI-tells §1, R15-1-AI_TELL_CHECKS_SURVIVE)",
-"key": "df208363ca93",
-"first_seen": "2026-09-13"
-},
-"cc70251d3487": {
-"file": "14_darius_two_men_who_would_not_take_the_seat.md",
-"check": "prose",
-"text": "three consecutive sentences over 25 words (R4-14-CHAIN_CEILING)",
-"key": "cc70251d3487",
-"first_seen": "2026-09-13"
-},
-"50dd18cc601a": {
-"file": "20_aurelian_no_signature.md",
-"check": "prose",
-"text": "em dashes: 8 (banned; AI-tells §1, R15-1-AI_TELL_CHECKS_SURVIVE)",
-"key": "50dd18cc601a",
-"first_seen": "2026-09-13"
-},
-"fa80e1096822": {
-"file": "20_aurelian_no_signature.md",
-"check": "prose",
-"text": "three consecutive sentences over 25 words (R4-14-CHAIN_CEILING)",
-"key": "fa80e1096822",
-"first_seen": "2026-09-13"
-},
-"9fd7fa10973e": {
-"file": "the_inhale_register.md",
-"check": "prose",
-"text": "three consecutive sentences over 25 words (R4-14-CHAIN_CEILING)",
-"key": "9fd7fa10973e",
-"first_seen": "2026-09-16"
-},
-"81ba8b737d44": {
-"file": "the_inhale_register.md",
+"3d4c167b667f": {
+"file": "the_true_king_of_the_north_part_10.md",
 "check": "prose",
 "text": "flat runs: 5 stretches of three sentences within 40% of each other (R4-14-RUN_RULE)",
-"key": "81ba8b737d44",
-"first_seen": "2026-09-16"
+"key": "3d4c167b667f",
+"first_seen": "2026-09-23"
+},
+"802c5ce31b04": {
+"file": "the_true_king_of_the_north_part_17.md",
+"check": "prose",
+"text": "three consecutive sentences over 25 words (R4-14-CHAIN_CEILING)",
+"key": "802c5ce31b04",
+"first_seen": "2026-09-23"
+},
+"7a508cfa79b3": {
+"file": "the_true_king_of_the_north_part_17.md",
+"check": "prose",
+"text": "flat runs: 16 stretches of three sentences within 40% of each other (R4-14-RUN_RULE)",
+"key": "7a508cfa79b3",
+"first_seen": "2026-09-23"
+},
+"5454d4acd172": {
+"file": "the_true_king_of_the_north_part_15.md",
+"check": "prose",
+"text": "three consecutive sentences over 25 words (R4-14-CHAIN_CEILING)",
+"key": "5454d4acd172",
+"first_seen": "2026-09-23"
+},
+"65fe980e478b": {
+"file": "the_true_king_of_the_north_part_15.md",
+"check": "prose",
+"text": "flat runs: 10 stretches of three sentences within 40% of each other (R4-14-RUN_RULE)",
+"key": "65fe980e478b",
+"first_seen": "2026-09-23"
 },
 "6c58fa1e64cc": {
 "file": "the_true_king_of_the_north_part_3.md",
@@ -1198,60 +1002,102 @@
 "key": "ee540f494721",
 "first_seen": "2026-09-23"
 },
-"603a02af6474": {
-"file": "the_true_king_of_the_north_part_4.md",
+"242e17c6961e": {
+"file": "07_charles_the_imperceptible_district.md",
+"check": "prose",
+"text": "hard-ban word: \"testament\" in \"...*Kharven. The narrows. Charles Lambert's last testament.*   He got the chain over his...\" (R51-10-SLOP_WORDS)",
+"key": "242e17c6961e",
+"first_seen": "2026-09-27"
+},
+"71cd2844735f": {
+"file": "07_charles_the_imperceptible_district.md",
 "check": "prose",
 "text": "three consecutive sentences over 25 words (R4-14-CHAIN_CEILING)",
-"key": "603a02af6474",
-"first_seen": "2026-09-23"
+"key": "71cd2844735f",
+"first_seen": "2026-09-13"
 },
-"e704f6aad4a0": {
-"file": "the_true_king_of_the_north_part_4.md",
-"check": "prose",
-"text": "flat runs: 8 stretches of three sentences within 40% of each other (R4-14-RUN_RULE)",
-"key": "e704f6aad4a0",
-"first_seen": "2026-09-23"
-},
-"1201538b47f2": {
-"file": "the_true_king_of_the_north_part_5.md",
+"002efbc1fe98": {
+"file": "no_entry_for_that.md",
 "check": "prose",
 "text": "three consecutive sentences over 25 words (R4-14-CHAIN_CEILING)",
-"key": "1201538b47f2",
+"key": "002efbc1fe98",
+"first_seen": "2026-09-16"
+},
+"2ed5d931a56a": {
+"file": "no_entry_for_that.md",
+"check": "prose",
+"text": "flat runs: 5 stretches of three sentences within 40% of each other (R4-14-RUN_RULE)",
+"key": "2ed5d931a56a",
+"first_seen": "2026-09-16"
+},
+"9fd7fa10973e": {
+"file": "the_inhale_register.md",
+"check": "prose",
+"text": "three consecutive sentences over 25 words (R4-14-CHAIN_CEILING)",
+"key": "9fd7fa10973e",
+"first_seen": "2026-09-16"
+},
+"81ba8b737d44": {
+"file": "the_inhale_register.md",
+"check": "prose",
+"text": "flat runs: 5 stretches of three sentences within 40% of each other (R4-14-RUN_RULE)",
+"key": "81ba8b737d44",
+"first_seen": "2026-09-16"
+},
+"7f796e4a2ebe": {
+"file": "the_revolution_of_the_inner_world.md",
+"check": "prose",
+"text": "three consecutive sentences over 25 words (R4-14-CHAIN_CEILING)",
+"key": "7f796e4a2ebe",
 "first_seen": "2026-09-23"
 },
-"1162453eb11b": {
-"file": "the_true_king_of_the_north_part_5.md",
+"6ca489c8ac86": {
+"file": "the_revolution_of_the_inner_world.md",
+"check": "prose",
+"text": "flat runs: 12 stretches of three sentences within 40% of each other (R4-14-RUN_RULE)",
+"key": "6ca489c8ac86",
+"first_seen": "2026-09-23"
+},
+"dc9e6c4d0700": {
+"file": "the_true_king_of_the_north_part_13.md",
+"check": "prose",
+"text": "three consecutive sentences over 25 words (R4-14-CHAIN_CEILING)",
+"key": "dc9e6c4d0700",
+"first_seen": "2026-09-23"
+},
+"52ab9a2907bc": {
+"file": "the_true_king_of_the_north_part_13.md",
 "check": "prose",
 "text": "flat runs: 7 stretches of three sentences within 40% of each other (R4-14-RUN_RULE)",
-"key": "1162453eb11b",
+"key": "52ab9a2907bc",
 "first_seen": "2026-09-23"
 },
-"097ff4f2994f": {
-"file": "01_wotr_muster_breach_road_north.md",
+"f22c4f92b324": {
+"file": "the_true_king_of_the_north_part_8.md",
 "check": "prose",
 "text": "three consecutive sentences over 25 words (R4-14-CHAIN_CEILING)",
-"key": "097ff4f2994f",
-"first_seen": "2026-09-13"
+"key": "f22c4f92b324",
+"first_seen": "2026-09-23"
 },
-"640aac0da32e": {
-"file": "01_wotr_muster_breach_road_north.md",
+"07df01f4ff88": {
+"file": "the_true_king_of_the_north_part_8.md",
 "check": "prose",
 "text": "flat runs: 4 stretches of three sentences within 40% of each other (R4-14-RUN_RULE)",
-"key": "640aac0da32e",
-"first_seen": "2026-09-13"
+"key": "07df01f4ff88",
+"first_seen": "2026-09-23"
 },
-"e11c10183755": {
-"file": "16_darius_let_nothing_be_sealed.md",
+"5a7561cf36ae": {
+"file": "wotr_the_weight_of_a_courier.md",
 "check": "prose",
-"text": "three consecutive sentences over 25 words (R4-14-CHAIN_CEILING)",
-"key": "e11c10183755",
-"first_seen": "2026-09-13"
+"text": "antithesis 'not X but Y': \"that is more work than most\" (R49-40-NOT_X_Y; AI-tells §1)",
+"key": "5a7561cf36ae",
+"first_seen": "2026-09-26"
 },
-"34fc94798fae": {
-"file": "16_darius_let_nothing_be_sealed.md",
+"6da28366c3b3": {
+"file": "wotr_the_weight_of_a_courier.md",
 "check": "prose",
-"text": "flat runs: 4 stretches of three sentences within 40% of each other (R4-14-RUN_RULE)",
-"key": "34fc94798fae",
+"text": "flat runs: 5 stretches of three sentences within 40% of each other (R4-14-RUN_RULE)",
+"key": "6da28366c3b3",
 "first_seen": "2026-09-13"
 },
 "a5920a5b7f5d": {
@@ -1282,33 +1128,19 @@
 "key": "140903b51720",
 "first_seen": "2026-09-17"
 },
-"002efbc1fe98": {
-"file": "no_entry_for_that.md",
+"1201538b47f2": {
+"file": "the_true_king_of_the_north_part_5.md",
 "check": "prose",
 "text": "three consecutive sentences over 25 words (R4-14-CHAIN_CEILING)",
-"key": "002efbc1fe98",
-"first_seen": "2026-09-16"
+"key": "1201538b47f2",
+"first_seen": "2026-09-23"
 },
-"2ed5d931a56a": {
-"file": "no_entry_for_that.md",
+"1162453eb11b": {
+"file": "the_true_king_of_the_north_part_5.md",
 "check": "prose",
-"text": "flat runs: 5 stretches of three sentences within 40% of each other (R4-14-RUN_RULE)",
-"key": "2ed5d931a56a",
-"first_seen": "2026-09-16"
-},
-"c33cb6608edf": {
-"file": "renard_the_left_of_the_door.md",
-"check": "prose",
-"text": "three consecutive sentences over 25 words (R4-14-CHAIN_CEILING)",
-"key": "c33cb6608edf",
-"first_seen": "2026-09-13"
-},
-"cce596953eca": {
-"file": "renard_the_left_of_the_door.md",
-"check": "prose",
-"text": "flat runs: 4 stretches of three sentences within 40% of each other (R4-14-RUN_RULE)",
-"key": "cce596953eca",
-"first_seen": "2026-09-13"
+"text": "flat runs: 7 stretches of three sentences within 40% of each other (R4-14-RUN_RULE)",
+"key": "1162453eb11b",
+"first_seen": "2026-09-23"
 },
 "0a2bbe5eb590": {
 "file": "the_war_in_the_north_ii_the_road_two_days_south.md",
@@ -1324,89 +1156,33 @@
 "key": "5557480f0eb0",
 "first_seen": "2026-09-19"
 },
-"5a7561cf36ae": {
-"file": "wotr_the_weight_of_a_courier.md",
-"check": "prose",
-"text": "antithesis 'not X but Y': \"that is more work than most\" (R49-40-NOT_X_Y; AI-tells §1)",
-"key": "5a7561cf36ae",
-"first_seen": "2026-09-26"
-},
-"6da28366c3b3": {
-"file": "wotr_the_weight_of_a_courier.md",
-"check": "prose",
-"text": "flat runs: 5 stretches of three sentences within 40% of each other (R4-14-RUN_RULE)",
-"key": "6da28366c3b3",
-"first_seen": "2026-09-13"
-},
-"17c40aca6701": {
-"file": "02_wren_bulwark.md",
-"check": "prose",
-"text": "em dashes: 10 (banned; AI-tells §1, R15-1-AI_TELL_CHECKS_SURVIVE)",
-"key": "17c40aca6701",
-"first_seen": "2026-09-13"
-},
-"c9fd8a6f939c": {
-"file": "02_wren_bulwark.md",
+"097ff4f2994f": {
+"file": "01_wotr_muster_breach_road_north.md",
 "check": "prose",
 "text": "three consecutive sentences over 25 words (R4-14-CHAIN_CEILING)",
-"key": "c9fd8a6f939c",
+"key": "097ff4f2994f",
 "first_seen": "2026-09-13"
 },
-"24ebb3e3a1be": {
-"file": "05_sodoku_the_fixed_end.md",
-"check": "prose",
-"text": "three consecutive sentences over 25 words (R4-14-CHAIN_CEILING)",
-"key": "24ebb3e3a1be",
-"first_seen": "2026-09-13"
-},
-"2554e50982d0": {
-"file": "05_sodoku_the_fixed_end.md",
-"check": "prose",
-"text": "flat runs: 5 stretches of three sentences within 40% of each other (R4-14-RUN_RULE)",
-"key": "2554e50982d0",
-"first_seen": "2026-09-13"
-},
-"1bbad8fcaabb": {
-"file": "11_mujin_second_law_held_open.md",
-"check": "prose",
-"text": "three consecutive sentences over 25 words (R4-14-CHAIN_CEILING)",
-"key": "1bbad8fcaabb",
-"first_seen": "2026-09-13"
-},
-"9139f9abf041": {
-"file": "11_mujin_second_law_held_open.md",
-"check": "prose",
-"text": "flat runs: 7 stretches of three sentences within 40% of each other (R4-14-RUN_RULE)",
-"key": "9139f9abf041",
-"first_seen": "2026-09-13"
-},
-"48808ccbe0d6": {
-"file": "12_mujin_open_crucible.md",
-"check": "prose",
-"text": "three consecutive sentences over 25 words (R4-14-CHAIN_CEILING)",
-"key": "48808ccbe0d6",
-"first_seen": "2026-09-13"
-},
-"a95721e18f37": {
-"file": "12_mujin_open_crucible.md",
+"640aac0da32e": {
+"file": "01_wotr_muster_breach_road_north.md",
 "check": "prose",
 "text": "flat runs: 4 stretches of three sentences within 40% of each other (R4-14-RUN_RULE)",
-"key": "a95721e18f37",
+"key": "640aac0da32e",
 "first_seen": "2026-09-13"
 },
-"70208c18f292": {
-"file": "18_darius_the_hand_of_the_judger.md",
-"check": "prose",
-"text": "antithesis 'not X but Y': \"it is not holding a body still, it is\" (R49-40-NOT_X_Y; AI-tells §1)",
-"key": "70208c18f292",
-"first_seen": "2026-09-26"
-},
-"52f75dfa2292": {
-"file": "18_darius_the_hand_of_the_judger.md",
+"c6aeb2cfc479": {
+"file": "13_darius_the_holiest_of_holy.md",
 "check": "prose",
 "text": "three consecutive sentences over 25 words (R4-14-CHAIN_CEILING)",
-"key": "52f75dfa2292",
+"key": "c6aeb2cfc479",
 "first_seen": "2026-09-13"
+},
+"ce1610c0abd8": {
+"file": "13_darius_the_holiest_of_holy.md",
+"check": "prose",
+"text": "flat runs: 5 stretches of three sentences within 40% of each other (R4-14-RUN_RULE)",
+"key": "ce1610c0abd8",
+"first_seen": "2026-09-27"
 },
 "4aee9f00b8d3": {
 "file": "Cozbi_True_Power_Antithesis.md",
@@ -1420,20 +1196,6 @@
 "check": "prose",
 "text": "flat runs: 4 stretches of three sentences within 40% of each other (R4-14-RUN_RULE)",
 "key": "67ef232d4fd5",
-"first_seen": "2026-09-13"
-},
-"028ed54a3a4a": {
-"file": "Dhaerin_Magnum_Opus_Recursive_Array.md",
-"check": "prose",
-"text": "three consecutive sentences over 25 words (R4-14-CHAIN_CEILING)",
-"key": "028ed54a3a4a",
-"first_seen": "2026-09-13"
-},
-"94ae7fa033e0": {
-"file": "Dhaerin_Magnum_Opus_Recursive_Array.md",
-"check": "prose",
-"text": "flat runs: 6 stretches of three sentences within 40% of each other (R4-14-RUN_RULE)",
-"key": "94ae7fa033e0",
 "first_seen": "2026-09-13"
 },
 "2566e9c8ae4c": {
@@ -1478,6 +1240,20 @@
 "key": "40fbad696543",
 "first_seen": "2026-09-26"
 },
+"060595105183": {
+"file": "10_wotr_what_the_ground_was_owed.md",
+"check": "prose",
+"text": "three consecutive sentences over 25 words (R4-14-CHAIN_CEILING)",
+"key": "060595105183",
+"first_seen": "2026-09-13"
+},
+"6d69e46ac103": {
+"file": "10_wotr_what_the_ground_was_owed.md",
+"check": "prose",
+"text": "flat runs: 4 stretches of three sentences within 40% of each other (R4-14-RUN_RULE)",
+"key": "6d69e46ac103",
+"first_seen": "2026-09-27"
+},
 "6709d5b24cdb": {
 "file": "Cozbi_Ashwell_Mysticism_Demo.md",
 "check": "prose",
@@ -1504,6 +1280,20 @@
 "check": "prose",
 "text": "flat runs: 5 stretches of three sentences within 40% of each other (R4-14-RUN_RULE)",
 "key": "e88cc393ef51",
+"first_seen": "2026-09-13"
+},
+"028ed54a3a4a": {
+"file": "Dhaerin_Magnum_Opus_Recursive_Array.md",
+"check": "prose",
+"text": "three consecutive sentences over 25 words (R4-14-CHAIN_CEILING)",
+"key": "028ed54a3a4a",
+"first_seen": "2026-09-13"
+},
+"94ae7fa033e0": {
+"file": "Dhaerin_Magnum_Opus_Recursive_Array.md",
+"check": "prose",
+"text": "flat runs: 6 stretches of three sentences within 40% of each other (R4-14-RUN_RULE)",
+"key": "94ae7fa033e0",
 "first_seen": "2026-09-13"
 },
 "47a610490525": {
@@ -1562,18 +1352,46 @@
 "key": "90a67bb752c1",
 "first_seen": "2026-09-13"
 },
-"d0a622609b17": {
-"file": "01_verinus_fire_of_the_undeserving.md",
+"c33cb6608edf": {
+"file": "renard_the_left_of_the_door.md",
 "check": "prose",
 "text": "three consecutive sentences over 25 words (R4-14-CHAIN_CEILING)",
-"key": "d0a622609b17",
+"key": "c33cb6608edf",
 "first_seen": "2026-09-13"
 },
-"71df6d94364e": {
-"file": "01_verinus_fire_of_the_undeserving.md",
+"cce596953eca": {
+"file": "renard_the_left_of_the_door.md",
 "check": "prose",
-"text": "flat runs: 7 stretches of three sentences within 40% of each other (R4-14-RUN_RULE)",
-"key": "71df6d94364e",
+"text": "flat runs: 4 stretches of three sentences within 40% of each other (R4-14-RUN_RULE)",
+"key": "cce596953eca",
+"first_seen": "2026-09-13"
+},
+"a6a00374d55d": {
+"file": "08_charles_what_a_hand_is_for.md",
+"check": "prose",
+"text": "antithesis 'not X but Y': \"that is not a trick of language, it is\" (R49-40-NOT_X_Y; AI-tells §1)",
+"key": "a6a00374d55d",
+"first_seen": "2026-09-26"
+},
+"d0f7a35bd090": {
+"file": "08_charles_what_a_hand_is_for.md",
+"check": "prose",
+"text": "hard-ban word: \"testament\" in \"...*The narrows. Charles Lambert's last testament, continued.*   He was still o...\" (R51-10-SLOP_WORDS)",
+"key": "d0f7a35bd090",
+"first_seen": "2026-09-27"
+},
+"2d21d4ff74db": {
+"file": "22_darius_punta.md",
+"check": "prose",
+"text": "three consecutive sentences over 25 words (R4-14-CHAIN_CEILING)",
+"key": "2d21d4ff74db",
+"first_seen": "2026-09-13"
+},
+"654fa80b3574": {
+"file": "22_darius_punta.md",
+"check": "prose",
+"text": "flat runs: 4 stretches of three sentences within 40% of each other (R4-14-RUN_RULE)",
+"key": "654fa80b3574",
 "first_seen": "2026-09-13"
 },
 "ba12d0b270d7": {
@@ -1590,6 +1408,20 @@
 "key": "fe63d0f7064c",
 "first_seen": "2026-09-13"
 },
+"c6b0b30fcfda": {
+"file": "Cozbi_Pneuma_Unravel_Strike.md",
+"check": "prose",
+"text": "antithesis 'not X but Y': \"not merely kill but\" (R49-40-NOT_X_Y; AI-tells §1)",
+"key": "c6b0b30fcfda",
+"first_seen": "2026-09-26"
+},
+"47e44c7d5022": {
+"file": "Cozbi_Pneuma_Unravel_Strike.md",
+"check": "prose",
+"text": "hard-ban word: \"orbs\" in \"...ve accommodated.  \"Conjunction. Pneuma.\"  Massive orbs of Pneumosphera bloomed into...\" (R51-10-SLOP_WORDS)",
+"key": "47e44c7d5022",
+"first_seen": "2026-09-27"
+},
 "9201b1331f03": {
 "file": "sodoku_the_count_supply_report.md",
 "check": "prose",
@@ -1603,20 +1435,6 @@
 "text": "flat runs: 7 stretches of three sentences within 40% of each other (R4-14-RUN_RULE)",
 "key": "f3a12b2e3c88",
 "first_seen": "2026-09-13"
-},
-"7f796e4a2ebe": {
-"file": "the_revolution_of_the_inner_world.md",
-"check": "prose",
-"text": "three consecutive sentences over 25 words (R4-14-CHAIN_CEILING)",
-"key": "7f796e4a2ebe",
-"first_seen": "2026-09-23"
-},
-"6ca489c8ac86": {
-"file": "the_revolution_of_the_inner_world.md",
-"check": "prose",
-"text": "flat runs: 12 stretches of three sentences within 40% of each other (R4-14-RUN_RULE)",
-"key": "6ca489c8ac86",
-"first_seen": "2026-09-23"
 },
 "60114a2c7598": {
 "file": "xanelor_the_arrow.md",
@@ -1632,13 +1450,6 @@
 "key": "c941ec9f353f",
 "first_seen": "2026-09-23"
 },
-"34da2b797eca": {
-"file": "05_aurelian_primate_under_the_wrong_stars.md",
-"check": "prose",
-"text": "flat runs: 5 stretches of three sentences within 40% of each other (R4-14-RUN_RULE)",
-"key": "34da2b797eca",
-"first_seen": "2026-09-13"
-},
 "9e705c6f07f4": {
 "file": "the_draught.md",
 "check": "prose",
@@ -1646,26 +1457,19 @@
 "key": "9e705c6f07f4",
 "first_seen": "2026-09-18"
 },
-"71cd2844735f": {
-"file": "07_charles_the_imperceptible_district.md",
-"check": "prose",
-"text": "three consecutive sentences over 25 words (R4-14-CHAIN_CEILING)",
-"key": "71cd2844735f",
-"first_seen": "2026-09-13"
-},
-"c6b0b30fcfda": {
-"file": "Cozbi_Pneuma_Unravel_Strike.md",
-"check": "prose",
-"text": "antithesis 'not X but Y': \"not merely kill but\" (R49-40-NOT_X_Y; AI-tells §1)",
-"key": "c6b0b30fcfda",
-"first_seen": "2026-09-26"
-},
 "1a7ef7302d0e": {
 "file": "the_blackmatch.md",
 "check": "prose",
 "text": "flat runs: 5 stretches of three sentences within 40% of each other (R4-14-RUN_RULE)",
 "key": "1a7ef7302d0e",
 "first_seen": "2026-09-16"
+},
+"a8537b93369d": {
+"file": "the_war_in_the_north_iv_the_blank_seal.md",
+"check": "prose",
+"text": "em dashes: 1 (banned; AI-tells §1, R15-1-AI_TELL_CHECKS_SURVIVE)",
+"key": "a8537b93369d",
+"first_seen": "2026-09-19"
 },
 "4a23c513115d": {
 "file": "what_motion_cannot_reach.md",
@@ -1681,13 +1485,6 @@
 "key": "206b9ff2ee75",
 "first_seen": "2026-09-16"
 },
-"307eeb0eaaad": {
-"file": "03_verinus_wall_between_the_safeguarded.md",
-"check": "prose",
-"text": "flat runs: 5 stretches of three sentences within 40% of each other (R4-14-RUN_RULE)",
-"key": "307eeb0eaaad",
-"first_seen": "2026-09-13"
-},
 "c164a2b6bf38": {
 "file": "04_sodoku_what_the_sky_does_not_ask.md",
 "check": "prose",
@@ -1695,26 +1492,12 @@
 "key": "c164a2b6bf38",
 "first_seen": "2026-09-13"
 },
-"17623c286ef4": {
-"file": "08_sodoku_recalescence.md",
+"f09c8548c804": {
+"file": "17_darius_ignis.md",
 "check": "prose",
 "text": "three consecutive sentences over 25 words (R4-14-CHAIN_CEILING)",
-"key": "17623c286ef4",
+"key": "f09c8548c804",
 "first_seen": "2026-09-13"
-},
-"d1fce2d77bd4": {
-"file": "10_mujin_the_name_of_your_killer.md",
-"check": "prose",
-"text": "three consecutive sentences over 25 words (R4-14-CHAIN_CEILING)",
-"key": "d1fce2d77bd4",
-"first_seen": "2026-09-13"
-},
-"c97aceb45309": {
-"file": "direction_is_not_intention.md",
-"check": "prose",
-"text": "antithesis 'not X but Y': \"That is not indifference to them, it is\" (R49-40-NOT_X_Y; AI-tells §1)",
-"key": "c97aceb45309",
-"first_seen": "2026-09-26"
 },
 "6876ca5d2716": {
 "file": "the_full_match.md",
@@ -1730,26 +1513,12 @@
 "key": "5bec556a2d3d",
 "first_seen": "2026-09-17"
 },
-"1eaceface46b": {
-"file": "the_overpressure.md",
-"check": "prose",
-"text": "flat runs: 5 stretches of three sentences within 40% of each other (R4-14-RUN_RULE)",
-"key": "1eaceface46b",
-"first_seen": "2026-09-16"
-},
 "2f3456814543": {
 "file": "the_slow_match.md",
 "check": "prose",
 "text": "three consecutive sentences over 25 words (R4-14-CHAIN_CEILING)",
 "key": "2f3456814543",
 "first_seen": "2026-09-18"
-},
-"a8537b93369d": {
-"file": "the_war_in_the_north_iv_the_blank_seal.md",
-"check": "prose",
-"text": "em dashes: 1 (banned; AI-tells §1, R15-1-AI_TELL_CHECKS_SURVIVE)",
-"key": "a8537b93369d",
-"first_seen": "2026-09-19"
 },
 "25e0c2949e55": {
 "file": "verinus_weight_of_an_infant.md",
@@ -1758,12 +1527,19 @@
 "key": "25e0c2949e55",
 "first_seen": "2026-09-26"
 },
-"6d122d99dafb": {
-"file": "03_wren_three_deliveries.md",
+"c9fd8a6f939c": {
+"file": "02_wren_bulwark.md",
 "check": "prose",
 "text": "three consecutive sentences over 25 words (R4-14-CHAIN_CEILING)",
-"key": "6d122d99dafb",
+"key": "c9fd8a6f939c",
 "first_seen": "2026-09-13"
+},
+"248d0d0bfcd4": {
+"file": "03_verinus_wall_between_the_safeguarded.md",
+"check": "prose",
+"text": "flat runs: 4 stretches of three sentences within 40% of each other (R4-14-RUN_RULE)",
+"key": "248d0d0bfcd4",
+"first_seen": "2026-09-27"
 },
 "e18cde87450f": {
 "file": "04_verinus_the_hand_and_the_print.md",
@@ -1772,18 +1548,53 @@
 "key": "e18cde87450f",
 "first_seen": "2026-09-26"
 },
-"f09c8548c804": {
-"file": "17_darius_ignis.md",
+"772ede3ee787": {
+"file": "05_sodoku_the_fixed_end.md",
+"check": "prose",
+"text": "hard-ban word: \"testament\" in \"...ind out how wrong over a period of years, and the testament that man made of him would ta...\" (R51-10-SLOP_WORDS)",
+"key": "772ede3ee787",
+"first_seen": "2026-09-27"
+},
+"d1fce2d77bd4": {
+"file": "10_mujin_the_name_of_your_killer.md",
 "check": "prose",
 "text": "three consecutive sentences over 25 words (R4-14-CHAIN_CEILING)",
-"key": "f09c8548c804",
+"key": "d1fce2d77bd4",
 "first_seen": "2026-09-13"
 },
-"d176edeee61c": {
-"file": "Cozbi_vs_Rengai_Dhaerin_Combat.md",
+"1bbad8fcaabb": {
+"file": "11_mujin_second_law_held_open.md",
 "check": "prose",
 "text": "three consecutive sentences over 25 words (R4-14-CHAIN_CEILING)",
-"key": "d176edeee61c",
+"key": "1bbad8fcaabb",
+"first_seen": "2026-09-13"
+},
+"48808ccbe0d6": {
+"file": "12_mujin_open_crucible.md",
+"check": "prose",
+"text": "three consecutive sentences over 25 words (R4-14-CHAIN_CEILING)",
+"key": "48808ccbe0d6",
+"first_seen": "2026-09-13"
+},
+"e11c10183755": {
+"file": "16_darius_let_nothing_be_sealed.md",
+"check": "prose",
+"text": "three consecutive sentences over 25 words (R4-14-CHAIN_CEILING)",
+"key": "e11c10183755",
+"first_seen": "2026-09-13"
+},
+"fa83a168a5db": {
+"file": "21_darius_the_fist_of_god.md",
+"check": "prose",
+"text": "three consecutive sentences over 25 words (R4-14-CHAIN_CEILING)",
+"key": "fa83a168a5db",
+"first_seen": "2026-09-13"
+},
+"846b7cbb31fc": {
+"file": "Rengai_Farewell_and_Dhaerin.md",
+"check": "prose",
+"text": "three consecutive sentences over 25 words (R4-14-CHAIN_CEILING)",
+"key": "846b7cbb31fc",
 "first_seen": "2026-09-13"
 },
 "bc1063319ddb": {
@@ -1792,6 +1603,13 @@
 "text": "three consecutive sentences over 25 words (R4-14-CHAIN_CEILING)",
 "key": "bc1063319ddb",
 "first_seen": "2026-09-13"
+},
+"c97aceb45309": {
+"file": "direction_is_not_intention.md",
+"check": "prose",
+"text": "antithesis 'not X but Y': \"That is not indifference to them, it is\" (R49-40-NOT_X_Y; AI-tells §1)",
+"key": "c97aceb45309",
+"first_seen": "2026-09-26"
 },
 "d6f131e91fb5": {
 "file": "the_brink.md",
@@ -1828,18 +1646,18 @@
 "key": "cc1a801d51ed",
 "first_seen": "2026-09-19"
 },
-"b3533405d93f": {
-"file": "06_aurelian_what_the_lamberts_are_for.md",
-"check": "prose",
-"text": "flat runs: 4 stretches of three sentences within 40% of each other (R4-14-RUN_RULE)",
-"key": "b3533405d93f",
-"first_seen": "2026-09-13"
-},
 "918828d7e80d": {
 "file": "09_sodoku_the_true_nature.md",
 "check": "prose",
 "text": "three consecutive sentences over 25 words (R4-14-CHAIN_CEILING)",
 "key": "918828d7e80d",
+"first_seen": "2026-09-13"
+},
+"c47c64707a44": {
+"file": "23_darius_the_fist_of_totality.md",
+"check": "prose",
+"text": "three consecutive sentences over 25 words (R4-14-CHAIN_CEILING)",
+"key": "c47c64707a44",
 "first_seen": "2026-09-13"
 },
 "a4ea543cbd14": {
@@ -1868,13 +1686,6 @@
 "check": "prose",
 "text": "three consecutive sentences over 25 words (R4-14-CHAIN_CEILING)",
 "key": "5a232a6bbd5f",
-"first_seen": "2026-09-13"
-},
-"846b7cbb31fc": {
-"file": "Rengai_Farewell_and_Dhaerin.md",
-"check": "prose",
-"text": "three consecutive sentences over 25 words (R4-14-CHAIN_CEILING)",
-"key": "846b7cbb31fc",
 "first_seen": "2026-09-13"
 },
 "4271a9e58819": {
@@ -1947,6 +1758,13 @@
 "key": "45486f29da87",
 "first_seen": "2026-09-19"
 },
+"302f1b73cb25": {
+"file": "xanelor_seven_days.md",
+"check": "prose",
+"text": "em dashes: 1 (banned; AI-tells §1, R15-1-AI_TELL_CHECKS_SURVIVE)",
+"key": "302f1b73cb25",
+"first_seen": "2026-09-23"
+},
 "89a7c02f21c6": {
 "file": "xanelor_the_challenge.md",
 "check": "prose",
@@ -1968,6 +1786,13 @@
 "key": "db924d23c25c",
 "first_seen": "2026-09-13"
 },
+"3f7e1816d9a5": {
+"file": "09_dabney_the_undamped_thing.md",
+"check": "prose",
+"text": "three consecutive sentences over 25 words (R4-14-CHAIN_CEILING)",
+"key": "3f7e1816d9a5",
+"first_seen": "2026-09-13"
+},
 "072abc094f3a": {
 "file": "Cozbi_Antithesis_Split_Fight.md",
 "check": "prose",
@@ -1980,6 +1805,13 @@
 "check": "prose",
 "text": "three consecutive sentences over 25 words (R4-14-CHAIN_CEILING)",
 "key": "a816e20ae5f3",
+"first_seen": "2026-09-13"
+},
+"d176edeee61c": {
+"file": "Cozbi_vs_Rengai_Dhaerin_Combat.md",
+"check": "prose",
+"text": "three consecutive sentences over 25 words (R4-14-CHAIN_CEILING)",
+"key": "d176edeee61c",
 "first_seen": "2026-09-13"
 },
 "9fdb8c3a77be": {
@@ -2003,19 +1835,19 @@
 "key": "f83781d52256",
 "first_seen": "2026-09-16"
 },
+"1eaceface46b": {
+"file": "the_overpressure.md",
+"check": "prose",
+"text": "flat runs: 5 stretches of three sentences within 40% of each other (R4-14-RUN_RULE)",
+"key": "1eaceface46b",
+"first_seen": "2026-09-16"
+},
 "d9c74218d63c": {
 "file": "xanelor_after_the_crash.md",
 "check": "prose",
 "text": "em dashes: 1 (banned; AI-tells §1, R15-1-AI_TELL_CHECKS_SURVIVE)",
 "key": "d9c74218d63c",
 "first_seen": "2026-09-19"
-},
-"302f1b73cb25": {
-"file": "xanelor_seven_days.md",
-"check": "prose",
-"text": "em dashes: 1 (banned; AI-tells §1, R15-1-AI_TELL_CHECKS_SURVIVE)",
-"key": "302f1b73cb25",
-"first_seen": "2026-09-23"
 },
 "4466783f568a": {
 "file": "xanelor_the_bullet_train.md",
@@ -2269,13 +2101,6 @@
 "key": "d189d409f856",
 "first_seen": "2026-09-23"
 },
-"ce7bf75553e2": {
-"file": "scenes/01_verinus_fire_of_the_undeserving.md",
-"check": "stale",
-"text": "Büri",
-"key": "ce7bf75553e2",
-"first_seen": "2026-09-13"
-},
 "c3799f502fad": {
 "file": "scenes/TIMELINE.md",
 "check": "stale",
@@ -2289,6 +2114,13 @@
 "text": "Büri",
 "key": "ef56fb5b4864",
 "first_seen": "2026-09-23"
+},
+"ce7bf75553e2": {
+"file": "scenes/01_verinus_fire_of_the_undeserving.md",
+"check": "stale",
+"text": "Büri",
+"key": "ce7bf75553e2",
+"first_seen": "2026-09-13"
 },
 "9d75cd112cb9": {
 "file": "scenes/06_aurelian_what_the_lamberts_are_for.md",
@@ -2304,19 +2136,19 @@
 "key": "a5f1f767c8a9",
 "first_seen": "2026-09-13"
 },
-"9dedaa187fd2": {
-"file": "scenes/the_revolution_of_the_inner_world.md",
-"check": "stale",
-"text": "Sātūlagi",
-"key": "9dedaa187fd2",
-"first_seen": "2026-09-23"
-},
 "3a0bdede6dec": {
 "file": "scenes/the_war_in_the_north_v_the_shieldwarden.md",
 "check": "stale",
 "text": "Möngön",
 "key": "3a0bdede6dec",
 "first_seen": "2026-09-19"
+},
+"9dedaa187fd2": {
+"file": "scenes/the_revolution_of_the_inner_world.md",
+"check": "stale",
+"text": "Sātūlagi",
+"key": "9dedaa187fd2",
+"first_seen": "2026-09-23"
 }
 }
 }

@@ -139,6 +139,7 @@ server = MCPServer(
     "WOTR MCP",
     instructions=(
         "Tools over the War of the Realms rule index at " + str(ROOT) + ". "
+        "NATALIE.md (who Natalie is, the table rules) is the natalie tool: call it at the start of a session. "
         "Before writing prose call load_rules with the task's applies_to tags "
         "(prose-law for any prose; combat, adjudication, magic-mechanism, pov, dialogue, "
         "register, naming, items, scene-structure, mass-combat, stats, magic-design, codex, "
@@ -169,6 +170,20 @@ def rule(id: str) -> str:
         if r.get("id") == id:
             return _fmt(r)
     return f"no rule with id {id}"
+
+
+@server.tool()
+def natalie(section: str = "") -> str:
+    """desktop/NATALIE.md, the Judger's standing instructions: who Natalie is, the
+    table rules, the Notion ids, the culture inventories. Read it at the start of
+    any WOTR session. section = a heading's words to return just that part."""
+    text = (ROOT / "desktop" / "NATALIE.md").read_text(encoding="utf-8")
+    if not section.strip():
+        return text
+    parts = re.split(r"(?m)^(?=#{1,3} )", text)
+    hits = [p for p in parts if section.lower() in p.split("\n", 1)[0].lower()]
+    heads = [p.split("\n", 1)[0] for p in parts if p.startswith("#")]
+    return "\n".join(hits) if hits else f"no heading matches '{section}'. Headings:\n" + "\n".join(heads)
 
 
 @server.tool()
@@ -1680,7 +1695,7 @@ def research(question: str, model: str = "gemini-3.8-flash-high", minutes: int =
 # Notion pages, git commits and pushes, or runs build/sync.sh. narrate_scene writes
 # only audio files (and burns CPU on this PC), so it is allowed through.
 READ_ONLY_TOOLS = {
-    "load_rules", "rule", "check_docket", "list_conflicts",
+    "load_rules", "rule", "natalie", "check_docket", "list_conflicts",
     "wiki", "character", "fow_line", "scene_recall",
     "session_start", "verify_scene", "codex", "codex_check", "stale_names", "scene_brief",
     "fronts", "due", "roster", "scene_menu", "scene_context",

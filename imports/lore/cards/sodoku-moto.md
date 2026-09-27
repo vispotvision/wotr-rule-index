@@ -20,7 +20,7 @@ Sodoku stood in the doorway. "I slept with Fern because Fern is the woman I chos
 
 That morning his father signed the approval for the marriage. The courier never came.
 
-A Tenrai-commissioned corridor assassination took his father Muken, his mother and his brother in one night. Before the fires reached the upper floors, Sodoku went to the study. He took the approval off the dispatch pile. He and Sonzai answered by burning the Tenrai main-branch settlement to the ground, women and children included. The High Council exiled him by decree and charged him with the massacre. What happened there is sealed in its archive.
+A Tenrai-commissioned corridor assassination took his father Muken and his brothers Tomuka and Ezo in one night. Before the fires reached the upper floors, Sodoku went to the study. He took the approval off the dispatch pile. He and Sonzai answered by burning the Tenrai main-branch settlement to the ground, women and children included. The High Council exiled him by decree and charged him with the massacre. What happened there is sealed in its archive.
 
 ### The Cost
 

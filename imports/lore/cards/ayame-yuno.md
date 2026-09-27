@@ -38,7 +38,7 @@ Ayame died later, by her own hand, in the room that had once held her loom. The 
 
 ### Where They Stand
 
-Her own card stands at an earlier hour. There she is at work in Kharven, keeping the White Concord while Muken campaigns at the fringes of the North. She is quietly designing a grand convergence rite to bind every future ruler of the North, Moto or Yuno or otherwise, so that the realm survives long after her marriage, her body and her era have passed. No record says she finished it. One account of the kingdom, and Sodoku's card, count her among the dead of the corridor night itself.
+Her own card stands at an earlier hour. There she is at work in Kharven, keeping the White Concord while Muken campaigns at the fringes of the North. She is quietly designing a grand convergence rite to bind every future ruler of the North, Moto or Yuno or otherwise, so that the realm survives long after her marriage, her body and her era have passed. No record says she finished it.
 
 Nobody left in Kharven holds her liturgy. The Banner Houses' oaths expired with Muken, and the kingdom still performs the ceremonies she built with nothing binding underneath them. At every Ice-out the ground opens, the whole winter's dead go in together, and a man with a list reads their names in the order they died.
 

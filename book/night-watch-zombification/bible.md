@@ -45,7 +45,7 @@ Numbers reach the page only in a mouth, an instrument, a document or a private c
 
 ## Places
 
-- **Cutler Row**: the Night Register, a former scullery with a floor drain and a stone sink; the wash-tray of vinegar; the main off from the eleventh division to the sixth; the outer stair (a walker lies against it, ch25); the step where the dead lie down (ch40).
+- **Cutler Row**: the Night Register, the Night Watch Society's own desk, a former scullery with a floor drain and a stone sink; the wash-tray of vinegar; the main off from the eleventh division to the sixth; the outer stair (a walker lies against it, ch25); the step where the dead lie down (ch40).
 - **The Arbitration Division's northern office** (the day desk, the Prime Warden's room, the archive) and **the Division's medical house** (Keld's window).
 - **The Lattice Classification Bureau, northern office.**
 - **Greyshaft Nine**: the coldhouse on a main capped four years; the rail, the ice press, the gauge bench, the standpipe housings nobody stripped, the drip in the far corner at twenty-two a minute. Abandoned and burned ch66; the partition wall moved a yard.
@@ -82,7 +82,7 @@ The archive crossed between two rooms in three scenes; the book keeps both sides
 | II. Gradient | 15–30 | 22–44 | The edges theory fails in public; Brack is right again; the Hollow Shaft file; the gradient found; Deming's thirty-first day; the first human dead walk out of the Wicket Lane pit |
 | III. The Quiet Districts | 31–46 | 45–72 | Enforcement takes the streets and cuts districts as pens; STAY dropped to the counter; Tally dies and walks; the night on Cutler Row (ch40); Low Ground understood; Vesk dies and walks |
 | IV. The Purse | 47–64 | 77–117 | The Logistics return; the Article XV file; Malphas lets Deming fall; the knife; Nuvalik leaves; the hearing (custody, the gallery, the verdict); the death-house held unsuppressed |
-| V. Closing | 65–72 | 121–175 | Disciplinary; the project ended and Greyshaft Nine burned; bleed signed again; Foss released; the hand reserved and the tin returned; Called Late confidently wrong; the brass token handed in; Wystan to the Society |
+| V. Closing | 65–72 | 121–175 | Disciplinary; the project ended and Greyshaft Nine burned; bleed signed again; Foss released; the hand reserved and the tin returned; Called Late confidently wrong; the brass token handed in; Wystan to the Society's field chapters |
 | VI. Aetherion | 73–80 | Nine years on | Salter's stillroom and Wystan's lessons, alternating; the Ferriby tin taught; Mu-jin's announcement paid; the quiet wing; ends on a wax seal pressed with a thumb |
 
 ## Proposed Fronts (proposed — needs add_front on Isaac's word)
@@ -105,7 +105,7 @@ No Front in `table/fronts.yaml` fits this thread (`fronts Accord` returns only t
 3. **The sink.** The second dataset complete; Low Ground understood. Ch28, 35, 37, 41, 44.
 4. **The purse built.** Article XV opened, the ledger, the knife, the word. Ch49, 51, 53, 54, 57.
 5. **The hearing and after.** Custody proved, the Stage exposed, the hand reserved. Ch58, 64, 65, 69.
-6. **The file becomes a lesson.** Called Late at Greyshaft Nine, the Register folded, the Society, the tin at Aetherion. Ch71, 72, 74, 76, 77, 79.
+6. **The file becomes a lesson.** Called Late at Greyshaft Nine, the Register folded, the field chapters, the tin at Aetherion. Ch71, 72, 74, 76, 77, 79.
 
 ### the-swale-wastage (Deming / the Logistics clock) — 5 segments
 - **Want (Deming's):** to survive the column he wrote. **Clock:** eleven weeks to the return; thirty-one days of usefulness.
@@ -168,4 +168,4 @@ No Front in `table/fronts.yaml` fits this thread (`fronts Accord` returns only t
 - **Unnamed roles:** a carter on the Swale road (and the carter behind him); a Logistics factor; the Xu hall senior (Deming's uncle); a knife-man hired by the Xu hall; Deming's advocate; the three chairs of the Bench (Doctrine, Instrument, Ruling); the Bench clerk; the archive keeper; an Enforcement inspector; the Wicket families; the Society's secretary; an Academy porter; an Academy groundsman; Licentiates of the pouring; one careless first-year (unnamed, decides nothing).
 - **Places:** Wicket Lane fever parish (death-house, paupers' pit, lodgings); the Swale road inn; the Xu counting house and lineage hall; the Withering-cut hamlets at the Swale head; the west-range stillroom at the Aetherion on a capped dead leg, the one room there where the hum stops.
 - **Mechanism (for wotr-phenomenon before drafting ch2, 10, 23, 44, 63):** the ferment's threshold is crossed in blood and runs in dead tissue. Living people who eat the dosed salt carry it at sub-lethal dose, and their bodies walk when they die of anything. The lean is toward low ambient saturation, and a Voidic Shell at rest is the lowest point in a sealed room. STAY halts the contraction mid-run.
-- **Events:** the lick round ending at the marker; the salt bar in the parish-relief contract; Tally dying of a fall and the cold with the lick salt in his pack, then walking to Cutler Row; Enforcement cutting poor districts at night as pens; Vesk's grafts grown on his own Verdantia; the knife sent by the Xu hall; the exhibits returned to the filing party on reservation; the Register folded into the day desk; Wystan to the Society as field man; Yinzhi to the Timberline chapter bench as assayer; the nine-year interval to Movement VI; the letter in a woman's hand (ch68, the one foreshadow).
+- **Events:** the lick round ending at the marker; the salt bar in the parish-relief contract; Tally dying of a fall and the cold with the lick salt in his pack, then walking to Cutler Row; Enforcement cutting poor districts at night as pens; Vesk's grafts grown on his own Verdantia; the knife sent by the Xu hall; the exhibits returned to the filing party on reservation; the Register folded; Wystan to the Society's field chapters as field man; Yinzhi to the Timberline chapter bench as assayer; the nine-year interval to Movement VI; the letter in a woman's hand (ch68, the one foreshadow).

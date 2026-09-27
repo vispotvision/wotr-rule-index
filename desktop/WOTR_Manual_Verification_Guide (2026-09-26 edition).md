@@ -21,7 +21,7 @@
 - **Combat checks (30–34)**: the chemistry ban is lifted for trained POVs (R49-46-CHEMISTRY); a trained POV names his own wound exactly (R49-50-OWN_BODY); bare mechanism terms mid-action are legal (R51-17-MID_ACTION).
 - **Terminology audit (35)**: stat names, Grades, Stages, eta, EU figures, Sub-Stat names and Guild words are free in narration (R49-47-STAT_WORDS, R51-16-OLD_BANS_FALL, R53-16-GUILD_WORDS); the check is now about spelling only.
 - **Conversion density (37)**: science and anatomy terms are legal in narration and off the modern-word list (R49-45-SCIENCE).
-- **Entry checks (41–45)**: new abilities use the field format and the six-line card is retired (R47-2-FIELD_FORMAT); an entry says what the ability is, never how to use it (R47-1-NO_APPLICATIONS); counters are facts (R47-3-COUNTERS_AS_FACTS); tiers and rungs by name (R47-7-NAMES_NOT_NUMBERS, R47-5-LADDER_RUNG); costs off the Ledger (R47-4-LEDGER_COSTS). Checks 41 and 42 still name the Operation line, which the field format does not have: logged as **C-078**.
+- **Entry checks (41–45)**: new abilities use the field format and the six-line card is retired (R47-2-FIELD_FORMAT); an entry says what the ability is, never how to use it (R47-1-NO_APPLICATIONS); counters are facts (R47-3-COUNTERS_AS_FACTS); tiers and rungs by name (R47-7-NAMES_NOT_NUMBERS, R47-5-LADDER_RUNG); costs off the Ledger (R47-4-LEDGER_COSTS). Pack Seventeen's checks 34 and 35, which read the six-line card's Operation line, are retired (R57-41-CHECKS_34_35_RETIRED); checks 41 and 42 now rest on R47-6, the Counterplay block and the fair-play rules.
 - **Composure (51)**: triads and parallel clauses are dropped from the check (R52-06-TRIADS); the crafted speech still takes the check (R49-35-SPEECH_CHECK), whose own wording keeps "without balanced parallel clauses": logged as **C-077**. Composure itself is free for people trained into calm (R52-28-COMPOSURE, superseding R19-4-COMPOSURE_COST).
 
 **Checks added (all run by `build/verify.py` unless marked).**
@@ -44,12 +44,14 @@
 - **Mechanism gloss and metaphysical units** (old 20 and 21): retired by R12-8-VERIFY_CHECKS_RETIRED in the last edition; their stubs are gone.
 - **The simile rate and the 8-per-scene ceiling** (old 3): superseded by R49-18-SIMILE_COUNT.
 - **The reification counts** (old 17): R4-15-TWO_PER_SCENE_BUDGET, R4-15-ONE_PER_PARAGRAPH and R4-ADD-CHECK17 are superseded by R49-21-REIFICATION.
+- **The procedural and ledger reification budget** (old 17): R4-15-PROCEDURAL_SCENE_BUDGET is superseded by R57-42-REIFICATION_NO_COUNT_ANYWHERE (2026-09-27). Reification has no count anywhere.
+- **The Operation-line checks** (Pack Seventeen 34 and 35, carried as 41 and 42): R17-8-CHECK34 and R17-8-CHECK35 are superseded by R57-41-CHECKS_34_35_RETIRED (2026-09-27). Checks 41 and 42 keep their numbers on the live rules below.
 - **The 2,500-word minimum as a pass/fail floor** (old 1): replaced as above.
 - **Rules the old edition leaned on, now dead, with no check of their own**: the chemistry ban (R6-2-CHEMISTRY_BAN, R13-6-CHEMISTRY_BAN_SCOPE → R49-46), the body-not-converted rule (R16-7-NOT_CONVERTED → R49-50), the composure cost (R19-4-COMPOSURE_COST → R52-28), the funeral test (R5-D-FUNERAL_TEST → R49-38-FUNERAL_TEST), the not-knowing quotas (R6-3-IGNORANCE_QUOTA, R6-4-MISREADING_BUDGET, R12-7-IGNORANCE_MISREADING_RETAINED → R49-11-NOT_KNOWING), the Technical/Mystic no-mixing rule (R12-2-NO_MIXING → R48-10-MIXING), the sheet-vocabulary tiers (R11-2-VOCABULARY_TIERS, R20C-31-SUBSTAT_NAMES_FACULTY_ONLY → R51-16). A reader who remembers flagging any of these should stop.
 
 **Renumbering.** Old 1–19 keep their numbers. Old 20–21 are gone. Old 22–26 (combat) are now 30–34; old 27 is 35; old 29 is 36; old 30–33 are 37–40; old 34–36 are 41–43; old 37–39 are 46–48; old 40–42 are 49–51.
 
-**Logged, not resolved.** Three rows added to `CONFLICTS.md` in the same commit: **C-077** (R49-35 vs R52-06, parallel clauses in the crafted speech), **C-078** (R17-8-CHECK34/35 name an Operation line that R47-2's field format retired), **C-079** (R49-21 "no count" vs the still-live R4-15-PROCEDURAL_SCENE_BUDGET "one per page"). Each check that touches one says so and quotes both sides.
+**Logged, not resolved.** Three rows added to `CONFLICTS.md` in the same commit: **C-077** (R49-35 vs R52-06, parallel clauses in the crafted speech), **C-078** (R17-8-CHECK34/35 name an Operation line that R47-2's field format retired), **C-079** (R49-21 "no count" vs the still-live R4-15-PROCEDURAL_SCENE_BUDGET "one per page"). C-078 and C-079 were ruled on 2026-09-27 (R57-41, R57-42) and the checks that touched them now carry the ruling; C-077 stays open.
 
 ---
 
@@ -335,7 +337,7 @@ Sentence CV: ≥ 80% good; 50–80% moderate; < 50% uniform, the strongest struc
 
 **Catches:** an abstract noun given a physical verb and handled as an object ("The silence sat between them"; R4-15-REIFICATION_DEFINED) carrying a beat, or standing where an object in the room could have done the work.
 
-**Enforces:** R49-21-REIFICATION ("Reification has no count: judge by ear; keep only 'never at the beat' and 'object first'"), which keeps R4-15-NEVER_AT_BEAT ("The value flips on a body or an object, never on a personified noun") and R4-15-CONCRETE_FIRST ("The object always wins"). Bodies are exempt (R4-15-BODIES_EXEMPT). **C-079:** R4-15-PROCEDURAL_SCENE_BUDGET is still live and still reads "One per page in procedural or ledger scenes", against R49-21's "no count". Both are recorded; this guide does not choose.
+**Enforces:** R49-21-REIFICATION ("Reification has no count: judge by ear; keep only 'never at the beat' and 'object first'"), which keeps R4-15-NEVER_AT_BEAT ("The value flips on a body or an object, never on a personified noun") and R4-15-CONCRETE_FIRST ("The object always wins"). Bodies are exempt (R4-15-BODIES_EXEMPT). R57-42-REIFICATION_NO_COUNT_ANYWHERE ("Reification has no count anywhere, procedural and ledger scenes included") supersedes R4-15-PROCEDURAL_SCENE_BUDGET: no page, scene or paragraph count applies, procedural and ledger scenes included.
 
 **verify.py:** **not automated** (the source says so: "reification has no count and 'never at the beat' is a read").
 
@@ -671,7 +673,7 @@ Run on an ability or technique entry, not a scene. `build/verify.py` has no entr
 
 **Catches:** a mechanism missing its quantity, its law, its operation or its causal chain.
 
-**Enforces:** R17-8-CHECK34 ("Quantity, law, operation and chain all present in the Operation line. Any absence is a FAIL"); R47-6-RESEARCH_STAYS; R48-18-INVENTION (the real law plus one pinned variable); R48-17-NO_CLOSURE (researched pseudoscience or metaphysics where physics cannot close). **C-078:** the "Operation line" belonged to the six-line card (R17-3-SIX_LINE_CARD, superseded), and R47-2 retires that card; a field-format entry has no Operation line. Both rules are live and recorded; this guide does not say where the four elements must now sit. Until ruled, read the entry's Physics and Mechanism blocks for the four and report where each was found.
+**Enforces:** R47-6-RESEARCH_STAYS; R48-18-INVENTION (the real law plus one pinned variable); R48-17-NO_CLOSURE (researched pseudoscience or metaphysics where physics cannot close). R17-8-CHECK34, which read these off the six-line card's Operation line, is retired by R57-41-CHECKS_34_35_RETIRED ("the Counterplay block and the fair-play rules cover them"). Read the entry's Physics and Mechanism blocks for the four and report where each was found.
 
 **verify.py:** **not automated**.
 
@@ -683,7 +685,7 @@ Run on an ability or technique entry, not a scene. `build/verify.py` has no entr
 
 **Catches:** a cost, limit or counter that does not follow from the mechanism.
 
-**Enforces:** R17-8-CHECK35 ("For each of Cost, Limit and Counter, name the sentence in the Operation it follows from. Anything that cannot be traced is decoration and is cut or re-derived"); R47-6-RESEARCH_STAYS ("the cost and the limits are derived from the mechanism"). **C-078** as check 41.
+**Enforces:** R47-6-RESEARCH_STAYS ("the cost and the limits are derived from the mechanism"); for counters, the Counterplay block and the fair-play rules (R47-3-COUNTERS_AS_FACTS). R17-8-CHECK35 is retired by R57-41-CHECKS_34_35_RETIRED, as check 41.
 
 **verify.py:** **not automated**.
 
@@ -883,4 +885,4 @@ Carried forward, not fixed here; this guide describes `verify.py`, it does not a
 - **`wotr_terms.txt` does not exist**, so check 35 is by hand.
 - **Check 19's rewrite off Pack Twelve §4 is ordered and unwritten** (R12-8-VERIFY_CHECKS_RETIRED).
 - **The combat checks have names and severities and no thresholds** (R13-9-VERIFY_CHECKS_22_26); `verify.py` warns only on a count of zero.
-- **Open rows touching this guide:** C-077 (check 51), C-078 (checks 41–42), C-079 (check 17).
+- **Open rows touching this guide:** C-077 (check 51). C-078 (checks 41–42) and C-079 (check 17) were ruled 2026-09-27.

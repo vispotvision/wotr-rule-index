@@ -2233,3 +2233,19 @@ Standing decision before the questionnaire: Kwon Mu-jin wrote the Alftian Codex 
 131. Calendar (C-084 follow-up): The count stands: it runs 715 years from the sealing of the Codex (C-084). 'The Imperial Age' names only the age of empire and industry now beginning, so the present is Year 715 of the count and the early years of the Imperial Age. The Concordance's Voyager Era, Long Reckoning and Withering Era become the count's earlier ages under new names, and the 1800s-to-1900s span (R53-01) starts recently. The texts carry Imperial-Age years.
 
 Context: Asked 2026-09-28 in Claude Code chat after a nine-seam audit of the five texts against canon, each finding checked by a second agent. Canon self-conflicts the audit found are recorded in CONFLICTS.md (C-092 onward); those these answers settle are marked ruled there.
+
+## 2026-09-28 — open-conflicts-2026-09-28
+
+The alchemy conversion's open conflicts (9 answers), Claude Code chat.
+
+1. C-106: Kwon Mu-jin was 24 on the Ashgate road and is 38 now, at the Academy. R57-01's 38 is his age at the Academy; the card dated before the Ashgate road keeps Age 24 and its 'ten years since'; the Academy pages stand; the 'forty years' lines in two scenes are recut.
+2. C-100: Malphas's card carries two dated loadouts: it keeps its Greyshaft Nine coldhouse date with a living loadout derived from his Stage then, and the lich's figures move to a second, later-dated section.
+3. C-101: The Mother begins as a cult of Malphas's rot-method under the living Malphas and becomes a religion of the Becoming after it; R60-24 describes the later cult, and The Mother page gains the turn.
+4. C-102: The Materia Wellspring is spelled Monolithion; the Master Codex's 'Monlithion' rows are corrected.
+5. C-103: The coal paragraphs are cut; R59-01 governs, and The Bearing and the Holding and The Four Ceilings lose the coal-boiler paragraph and the repeated Logistics Division sentence.
+6. C-107: Aetheric Residue thins to a floor: the loud phase fades in hours; the quiet residue thins on a schedule set by local density toward a floor it never passes, so it stays readable by the patient. Mechanica residue does not thin at all. The Core Vocabulary and the Mechanica page each gain a line.
+7. C-108: Both laws are true in their own domains: Vocatia gets nothing when the summoner lacks the standing he claims; a Parun Warrant that overstates standing seals and takes the gap from the speaker's body. Rimward fits neither: something outside both laws answered, and the eye was its price.
+8. C-111: Parun carries the warrant: the spoken Latin gives the order over the Parun Authorization, canon's normal layering, and the Open Crucible's word 'authorization' for the Latin is corrected.
+9. C-095: Mu-jin's card header reads 'of the house at Sum-gol, Ketsuen', matching his Lore, Ara's card and the Ketsuen page; there is no Eastern Concord.
+
+Context: The nine rows the alchemy-conversion answers left open (CONFLICTS.md C-092 to C-112), asked the same day.

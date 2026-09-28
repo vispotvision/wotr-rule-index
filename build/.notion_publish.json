@@ -934,5 +934,10 @@
     "page_id": "3e858200-eb22-8119-8b05-c72aa5d607aa",
     "title": "Hiromi: Something Special",
     "hash": "48ee2e3271c2d8b9"
+  },
+  "scenes/mujins_interjection_aetherion_arena.md": {
+    "page_id": "3e958200-eb22-81ea-9492-fb8b7e1a0cf4",
+    "title": "Mujin's Interjection — Aetherion Arena",
+    "hash": "87cf8bdeffac7b7d"
   }
 }

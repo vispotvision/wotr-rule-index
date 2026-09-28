@@ -2359,3 +2359,22 @@ Isaac's answers on the Necrocursica's sealed edition:
 4. The first manuscript of 695 to 696 IC carried the warnings and confessions that the sealed edition's margins later step over; the sealed edition keeps them under new heads and cuts the footnote.
 
 Context: Isaac, Claude Code chat 2026-09-28, answering the four calls the Necrocursica groundwork's critic left for him (/tmp/wotr-drafts/necro-brief.md, Critic D).
+
+## 2026-09-28 — alftian-vol3-2026-09-28
+
+Isaac approved the rebuilt Alftian Codex, Volume the Third, with no changes. Ratified with it:
+1. Volume the Third is Kwon Mu-jin's memoir of 699 to 702 IC, written to Ara in Urbis from late autumn 701 IC, its last chapter at Sum-gol, deposited at the start of winter 702 IC, the twelfth year of the Imperial Age. What he states from a read is canon; what he states in error stays his error.
+2. The Legion night: the Carver's Seat was testing a Legion-class working for the kingdom's standard when the summoner's hold broke; Mu-jin, there to deliver a correction to the entering grammar, laid a chalk circle and called as what he was, and the hosts stood down one at a time. Frithia watched from the hall door, thirty-four, come south to teach the Seat's wardens.
+3. Geturo was born at the end of the summer of 700 IC, Ara delivering him; Hiromi was born at Sum-gol in the summer of 702 IC while Mu-jin was in Urbis.
+4. After the Legion night the Division of Alchemetrica entered Mu-jin as a Registered Natural and reassessed him four times; the fourth gave him the rank of Archmagus, which he took as a licence to certify teachers and enter pupils for the kingdom's examination in the Draft trade.
+5. The Division posted him to teach: a draw-town's meter house, a settlement past the last warded station, and a river-town infirmary. At the Zettari camp he swore the Dawn Guard's teaching vow at the quench, before the camp's Stone Witness.
+6. The eight pupils he entered for the examination died when the Carver's Seat fell in the late summer of 701 IC: the Hong boy, the Baek boy, the Tak twins, the potter Ahn's two girls, the Yang boy and the Hwang girl. Doyun was with him at the camp and lived.
+7. At Sum-gol, after the orchard, five of the valley died and every child on the terraces was dug out alive by the line Frithia had drilled.
+8. Three fingers of Mu-jin's left hand were cut in Urbis where the line drew itself, with Furveus naming the place.
+9. At Genesio the Trace in the first coffin, laid by an Elfin astronomer two hundred and sixty years dead and aimed at Mu-jin's signature, completed into him through Anamnesis. He reads it as a correction: correspondence is a law of response. The hall fell from Whirlpool back to Riptide, the lamps pulse again, and nothing left in the stone can be woken.
+10. Strom's completions have stopped; he is held under review by the Research and Archives Division's Urbis office on an unheard charge of extraction. Draycott holds no appointment and no rank from any of it. His old paper is titled On a Residue of the Dead That Keeps an Intent.
+11. Frithia asked Mu-jin to marry her in the east room at Sum-gol in the autumn of 702 IC, and they married there before the turn was out; she struck two sentences from the book.
+12. Mu-jin swore a vow of his own in the east room before Doyun and Frithia, over a vessel he poured: "I will not write down what I have decided not to stop." It is entered on the room's roll beneath the eight names.
+The rest of the draft's list of new material, as its author notes set it out, is ratified with the volume.
+
+Context: Isaac said 'go' in Claude Code chat on 2026-09-28 after reading the Volume III draft and its list of invented items; no swaps.

@@ -333,3 +333,28 @@
   position: 2
   last_advanced: '2026-09-28'
   seeded_from: added at the table
+- id: the-finding-of-cause
+  name: The Finding of Cause
+  thread: Mu-jin
+  status: open
+  want: Examiner Maud Harrowgate wants a name on the blank line beside Party answerable for the arena
+    damage, drawn in Rovhen's hand as his first demonstration, before her circuit report goes to the Grand
+    Mage. The ward was never proofed at the quarterly, and a named student protects the charter and her.
+  last_move: ''
+  next_move: 'First bell: Harrowgate calls for the Finding.'
+  clock:
+  - tick: 1
+    consequence: 'First bell: Harrowgate calls for the Finding. Signed, refused, or stalled.'
+  - tick: 2
+    consequence: The ring is swept and the evidence goes with it, unless someone stops the sweepers.
+  - tick: 3
+    consequence: A name is entered, or the blank is noticed by someone with standing (the Headmaster,
+      the bursar, Kwon Mu-jin).
+  - tick: 4
+    consequence: Sallow's cased plates and the unopened inspector's book reach someone who can read them.
+  - tick: 5
+    consequence: The Visitation files. The finding names a student, the ward-proofing, or nobody, and
+      the charter learns which.
+  position: 0
+  last_advanced: null
+  seeded_from: added at the table

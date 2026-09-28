@@ -125,3 +125,14 @@
   - [ ] 3. Class S uses the inquiry class to get inside the chained arena, or learns who filed the Finding of Cause.
   - [ ] 4. A Class X seat is contested on the record: the Academy agrees to weigh tournament performance against Class S results.
   - [ ] 5. Resolves: a Class X student who fought hurt or fought badly is moved down, and a Class S student takes the private dormitory and the X designation.
+
+## Mu-jin
+
+**The Finding of Cause** ○○○○○ 0/5 · open
+- Want: Examiner Maud Harrowgate wants a name on the blank line beside Party answerable for the arena damage, drawn in Rovhen's hand as his first demonstration, before her circuit report goes to the Grand Mage. The ward was never proofed at the quarterly, and a named student protects the charter and her.
+- Next move: First bell: Harrowgate calls for the Finding.
+  - [ ] 1. First bell: Harrowgate calls for the Finding. Signed, refused, or stalled.
+  - [ ] 2. The ring is swept and the evidence goes with it, unless someone stops the sweepers.
+  - [ ] 3. A name is entered, or the blank is noticed by someone with standing (the Headmaster, the bursar, Kwon Mu-jin).
+  - [ ] 4. Sallow's cased plates and the unopened inspector's book reach someone who can read them.
+  - [ ] 5. The Visitation files. The finding names a student, the ward-proofing, or nobody, and the charter learns which.

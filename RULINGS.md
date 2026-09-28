@@ -2349,3 +2349,13 @@ Isaac approved The Farrant Papers and their author's card with no changes. Ratif
 The rest of the Papers' and the card's lists of new material, as their notes set them out, are ratified with them.
 
 Context: Isaac said 'Go' in Claude Code chat on 2026-09-28 after reading The Farrant Papers and Orin Farrant's card with their ratify lists; no swaps.
+
+## 2026-09-28 — necrocursica-calls-2026-09-28
+
+Isaac's answers on the Necrocursica's sealed edition:
+1. No document names who drew the Mortalis Categories or first numbered them. The Necrocursica states the Categories as binding wherever a circle has signed and never says who drew them, and Volume III does not number them.
+2. Clearance runs upward: a higher Tier numeral is more restricted. The treatise is Tier VI and the Codex Tier IV.
+3. The Necrocursica's seven failure-cases are the Seven Unmoorings: the Mirror Trace, the Worn Habit, the Incomplete Sealing, the Open Shell (formerly the Aetheric Bleed), the Averted Regard, the Misnaming and the False Vocation. The earlier rulings that use the old names stay true through the renames registry.
+4. The first manuscript of 695 to 696 IC carried the warnings and confessions that the sealed edition's margins later step over; the sealed edition keeps them under new heads and cuts the footnote.
+
+Context: Isaac, Claude Code chat 2026-09-28, answering the four calls the Necrocursica groundwork's critic left for him (/tmp/wotr-drafts/necro-brief.md, Critic D).

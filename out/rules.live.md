@@ -1,6 +1,6 @@
 # Live rules by domain
 
-1061 live of 1246 extracted.
+1070 live of 1255 extracted.
 
 ## adjudication (63)
 
@@ -68,7 +68,7 @@
 - **R48-31-STAKES** [Writing Law 2026-09-26 Roleplay partnership] Death can happen, if earned: from real mistakes after clear warning; nothing is safe.
 - **R48-32-NPC_VOICES** [Writing Law 2026-09-26 Roleplay partnership] Isaac may take over any NPC's voice anytime by saying so; the partner hands it back after.
 
-## character-sheet (194)
+## character-sheet (197)
 
 - **R20C-16-SONZAI_RECORD_CARD** [Pack Twenty R20C-16] Sonzai gets a record card, not a character card: identity, standing, the Erasure act as a dated event, relations, reference art. No voice section, no interiority, no dialogue samples.
 - **R20C-32-PRECEDENCE_FOW_WORKBOOK_CARD** [Pack Twenty R20C-32] Precedence: Fracture of Worlds, then the Stat Sheet workbook, then the Notion card. The card is a rendering and it drifts.
@@ -214,6 +214,9 @@
 - **R20-1-BEASTKIN_ANCHOR** [Naming Guide Amendment Part One] Real anchor is Akan day-naming plus the Name-Keeping tradition: a soul-name by birth circumstance, a held name as the last thing that cannot be taken; the soul-name carries an attribute the bearer is expected to embody, and failing it is a strong source of internal shame.
 - **R20-4-THIRD_NAME_PROBLEM** [Naming Guide Amendment Part Four] The earned Third Name (documented in The Standing and the Title) is conferred in whatever language the naming community speaks and has no equivalent in the bearer's own register; carrying one means one's identity now belongs to the people who named you rather than the people who bore you.
 - **R20-5-THIRD_NAME_SUPERSEDING** [Naming Guide Amendment Part Five] When a Third Name becomes dominant, both the personal name and institutional rank recede — the title becomes the person, and the birth name is what the family uses and nobody else remembers.
+- **R62-1-MUJIN_24_AT_ASHGATE_38_NOW** [Open Conflicts 2026-09-28 C-106] Date Mu-jin 24 on the Ashgate road and 38 now at the Academy; his pre-Ashgate card keeps Age 24.
+- **R62-2-MALPHAS_TWO_LOADOUTS** [Open Conflicts 2026-09-28 C-100] Give Malphas a living loadout at the Greyshaft Nine coldhouse and move the lich's figures to a later-dated section.
+- **R62-9-MUJIN_OF_SUMGOL_KETSUEN** [Open Conflicts 2026-09-28 C-095] Place Mu-jin's house at Sum-gol in Ketsuen; there is no Eastern Concord.
 - **R54-1-STAGE_NUMERAL_WINS** [Queue Questionnaire 2026-09-26 WAR-15] A card whose Stage numeral and Stage name disagree keeps the numeral and takes the name Fracture of Worlds gives that numeral.
 - **R54-2-CRYSTAL_TIER_FROM_STAGE** [Queue Questionnaire 2026-09-26 WAR-65] The tier word comes off the Crystal State field; a separate Crystal Tier field is written from the Stage, or from Aether Class where no Stage is stated.
 - **R54-3-STAGE_DECIDES_CRYSTAL_TIER** [Queue Questionnaire 2026-09-26 WAR-66] Where Aether Class and Stage point to different Crystal Tiers, the Stage decides, for every later mismatch.
@@ -265,7 +268,7 @@
 - **R52-31-COMIC_NPC** [Voice Law 2026-09-26 NPC voices the partner builds] The partner may invent a comic minor NPC as a comic voice from the start, with no setup-deadpan-reaction beat; the funeral test no longer binds NPC building.
 - **R52-32-ROOM_CAST** [Voice Law 2026-09-26 NPC voices the partner builds] Room casting is by ear: the partner casts for the scene and fixes voice likeness only when the swap test fails.
 
-## codex (106)
+## codex (109)
 
 - **R20C-41-CHANTCRAFT_FIFTH_CRAFT** [Pack Twenty R20C-41] Chantcraft is the fifth craft, Ars Cantus its medium-home. Not folded.
 - **R18-2-CODEX_FIRST_MANDATE** [Pack Eighteen §2] Before naming, pitching, converting or writing a working, the design order is fixed: read the Spell Index for precedent, then the Master Glyph Index, take Wellspring/Family/Physics Domain/Temperance Min/Category/Glyph Class assignment from the Lists sheet (never from memory), route alchemy to the Alchemical Index, and only then design and write.
@@ -364,6 +367,9 @@
 - **R42-7-FOUR_PATHS** [Magic System Rulings 2026-09-23 C-025] There are four Paths, Fate included.
 - **R42-14-VIA_FATI** [Magic System Rulings 2026-09-23 follow-up] Viaforma gains Via Fati for the Fate Path.
 - **R43-3-COLOR_OF_ESSENCE_PART_FIVE** [Magic System Rulings 2026-09-24 C-032] Part Five · Prose Application is lifted out of the Revelation cell.
+- **R62-4-MONOLITHION_SPELLING** [Open Conflicts 2026-09-28 C-102] Spell the Materia Wellspring Monolithion everywhere, the Codex rows included.
+- **R62-6-RESIDUE_THINS_TO_A_FLOOR** [Open Conflicts 2026-09-28 C-107] Ordinary residue fades loudly in hours, then thins toward a floor it never passes, readable by the patient; Mechanica residue never thins.
+- **R62-7-STANDING_TWO_LAWS** [Open Conflicts 2026-09-28 C-108] A summoner who claims standing he lacks gets nothing; an overstated Parun Warrant seals and takes the gap from the body; Rimward fits neither.
 - **R54-38-BLEND_FAMILY_MAY_DIFFER** [Queue Questionnaire 2026-09-26 WAR-146] An alchemical formula's Family may differ from its Wellsprings' Families.
 - **R54-39-FORMULA_MAY_INVERT_GLYPH** [Queue Questionnaire 2026-09-26 WAR-147] An alchemical formula may invert or misuse its glyph, and its row says so.
 - **R54-40-HIGHEST_CLASS_INGREDIENT** [Queue Questionnaire 2026-09-26 WAR-148] A formula's Provenance Class is its highest-class ingredient's.
@@ -467,7 +473,7 @@
 - **R48-37-COST_SHOWN** [Writing Law 2026-09-26 Combat and consequence] An ability's cost shows in the body: tremor, heat off the skin, thirst, a Crystal ache.
 - **R48-38-AFTERMATH** [Writing Law 2026-09-26 Combat and consequence] Every duel ends with a full aftermath beat: wounds dressed, what changed between people.
 
-## dialogue (149)
+## dialogue (150)
 
 - **R20C-36-CLEARLY_WINS** [Pack Twenty R20C-36] Clearly wins. Character shows in what a person chooses to explain and what they leave out.
 - **R20C-50-FLESHSHAPER_VOICE** [Pack Twenty R20C-50] Fleshshaper Goblin. Old Vaross substrate.
@@ -522,6 +528,7 @@
 - **R58-05-SWEARS_AND_SENSE_BANKS_APPROVED** [Follow-up Rulings 2026-09-26 Follow-up answers] The WOTR swears, sense banks, culture inventories, price table and narration registers are approved and canon; completes R51-35's draft-for-approval step.
 - **R20-4-PRONUNCIATION_ADAPTATION** [Naming Guide Amendment Part Four] When a name crosses cultures, the speaker's own phonology imposes itself (a Concord human flattens Dawi consonant gradation, a Dawi stress-accents a Yukari pitch-accent name); these adaptations should appear in dialogue as characterisation, not be treated as typos.
 - **R20-5-FORMAL_ADDRESS** [Naming Guide Amendment Part Five] A practitioner's formal address follows the convention of whoever is doing the addressing (rank plus family name for the Accord, ordination name plus title for Sanctum Lux, relationship-dependent honorifics at a Ketsuen court); two people in the same room may correctly address the same person by different names.
+- **R62-8-PARUN_CARRIES_THE_WARRANT** [Open Conflicts 2026-09-28 C-111] Never write Latin as a working's authorization; the Parun Authorization carries the warrant and the Latin gives the order above it.
 - **R49-31-TAGS** [Prose Law 2026-09-26 Dialogue] Dialogue is mostly untagged: voices sort themselves; tags only when needed.
 - **R49-32-CUT_OFFS** [Prose Law 2026-09-26 Dialogue] Interrupted speech is shown with an ellipsis ('I didn't...') and the interrupter's line follows.
 - **R49-33-CALM_SPEECH** [Prose Law 2026-09-26 Dialogue] Disfluency in calm speech is by character: some people always stumble, some never do; it is set on the card.
@@ -704,7 +711,7 @@
 - **R54-26-BENCH_OF_ATTRIBUTION** [Queue Questionnaire 2026-09-26 WAR-50] The Bench of Attribution may not keep or compel records of signings.
 - **R39-8-PACKS_FOLDED_INTO_EDITIONS** [Stat System and Scene Rulings 2026-09-13 Folding] Isaac's direction of 2026-09-12 overtakes the two pending rows that kept the packs as unfolded paste-in diffs: each base guide gets a dated edition with every live amendment folded in and a changelog; eleven are done, the remaining six follow the same way.
 
-## items (58)
+## items (59)
 
 - **R20C-22-AMMUNITION_TIERS_RATIFIED** [Pack Twenty R20C-22] The three ammunition tiers ratified, subject to R20C-26.
 - **R18-5-ALCHEMY_SOURCE_ORDER** [Pack Eighteen §5] Alchemy design consults, in order, the Alchemical Index (what exists), Alchemetrica (doctrine), and The Real Alchemy (real-world substrate check on invented process/apparatus/reagent behaviour), loading The Provenance Doctrine, The Standing Index and The Bench of Attribution alongside them; none of the three is optional.
@@ -751,6 +758,7 @@
 - **R34-1-MOTO_MATERIAL_CULTURE** [Moto Material Culture Ruling Standing Ruling] Moto (Kōkan crown-line) dress is six elements worn together -- red enamel fired over deliberately blackened steel (the Ashen Crown's garnet-on-black-iron palette at human scale); a beast-face boss in the same near-black steel, lion or dragon for the crown-line, at the belt clasp at court and on a shoulder rivet or pauldron on campaign; a knotwork belt that is native-Kharven and not Moto in origin, always a specific inherited or married-in piece; a heavy northern fur mantle over the robe at court, reduced to a collar or lining in the field; and a fitted war-harness worn under a robe open enough to show it -- organised on a court-versus-campaign split that is two priority sets wearing the same lineage markers, never one outfit with accessories added or removed. Write a Moto as magistrate and combatant at once.
 - **R34-2-SEVEN_LINES_MATERIAL_VARIATIONS** [Moto Material Culture Ruling Standing Ruling] Only Kōkan holds a seat and is the only line entitled to the full court presentation without it reading as a claim on the throne; the other six Great Lines are landless and their dress is portable, worn-on-the-body wealth carrying the crown-line pattern in their own metal and palette -- Shirogane in bright, hard silver; Akagane in copper and red-bronze fittings with no enamel; Kurenai in unrelieved black and ash-grey with the crimson kept to a single hidden accent; Byakuya in pale near-white with an almost ecclesiastical cut; Tenrai in gold and imperial-toned trim with banner-heraldry in place of a boss; Amagiri in indigo and mist-grey, lighter and less armoured than the rest. The Tenrai palette and the Kurenai crimson/black contrast are canon, not speculative.
 - **R22-4-KUROSETSU_SCABBARD_SURVIVES** [Moto Reversion Ledger IV] Kurosetsu keeps the belt scabbard; that was an equipment ruling, not a naming one, and it survives the reversion.
+- **R62-5-NO_COAL_BOILERS** [Open Conflicts 2026-09-28 C-103] Nothing on the railway or in district heating burns coal; the stray coal-boiler paragraphs are cut.
 - **R54-38-BLEND_FAMILY_MAY_DIFFER** [Queue Questionnaire 2026-09-26 WAR-146] An alchemical formula's Family may differ from its Wellsprings' Families.
 - **R54-39-FORMULA_MAY_INVERT_GLYPH** [Queue Questionnaire 2026-09-26 WAR-147] An alchemical formula may invert or misuse its glyph, and its row says so.
 - **R54-40-HIGHEST_CLASS_INGREDIENT** [Queue Questionnaire 2026-09-26 WAR-148] A formula's Provenance Class is its highest-class ingredient's.
@@ -879,7 +887,7 @@
 - **R48-18-INVENTION** [Writing Law 2026-09-26 Research-grounded techniques] Invention goes one clear step past textbook physics: the real law plus one pinned variable, easy for a player to reason about.
 - **R48-19-BANK** [Writing Law 2026-09-26 Research-grounded techniques] The Phenomenon Bank becomes a growing library: every researched phenomenon (and pseudoscientific idea) is added for future workings and players to draw from.
 
-## magic-mechanism (171)
+## magic-mechanism (174)
 
 - **R20C-17-SITES_RECHARGE_UNHELPFULLY** [Pack Twenty R20C-17] Sites recharge, and it does not help. Decades to centuries, and the rate falls with every working — eighty years the first time, two hundred the second.
 - **R20C-23-ORIGIN_STAYS_MYTHIC** [Pack Twenty R20C-23] Origin stays mythic. Mechanism is fully explicable; where it came from is not.
@@ -1029,6 +1037,9 @@
 - **R22-5-SEVEN_WORKS_TABLE** [Moto Reversion Ledger V] Söröl Ajiin→Hametsu no Go (Ruin), Ariun Ajiin→Junketsu no Go (Purity), Süld Ajiin→Seirei no Go (Spirit), Tsagiin Ajiin→Jikan no Shigoto (Time), Mergen Ajiin→Chishiki no Shigoto (Wisdom), Tegsh Ajiin→Shigoto no Baransu (Balance), Bükhel Ajiin→Zentai-sei no Hataraki (Totality).
 - **R22-7-FUSI_VA_KEPT** [Moto Reversion Ledger VII] Fusi Vā, the Agamalu binding rite, replaced Saishiki (a Japonic word on a rite that is Agamalu in origin and Vāimoana in provenance, wrong for both registers on its own terms); the Büri amendment isn't what made that change correct, so it stays kept.
 - **R25-1-OBSESSION_SATISFIES_ATTRACTION_GATE** [Obsession Force / Attraction Path Gate Ruling Standing Ruling] A practitioner whose Attraction Layer runs under Obsession Force — the corrupted inversion of Attraction Force — still satisfies an Attraction Path gate for sub-stat purposes. Obsession does not cap Attraction-gated sub-stats hard; this is a setting-wide mechanical rule covering every corrupted practitioner, not a fix scoped to one character.
+- **R62-6-RESIDUE_THINS_TO_A_FLOOR** [Open Conflicts 2026-09-28 C-107] Ordinary residue fades loudly in hours, then thins toward a floor it never passes, readable by the patient; Mechanica residue never thins.
+- **R62-7-STANDING_TWO_LAWS** [Open Conflicts 2026-09-28 C-108] A summoner who claims standing he lacks gets nothing; an overstated Parun Warrant seals and takes the gap from the body; Rimward fits neither.
+- **R62-8-PARUN_CARRIES_THE_WARRANT** [Open Conflicts 2026-09-28 C-111] Never write Latin as a working's authorization; the Parun Authorization carries the warrant and the Latin gives the order above it.
 - **R54-22-REIGAN_REACH** [Queue Questionnaire 2026-09-26 WAR-92] Sodoku's Reigan reaches four hundred miles, with its blindness and eleven-second cost.
 - **R54-35-CONJUNCTION_UNNAMED** [Queue Questionnaire 2026-09-26 WAR-58] The Sacrament's third Wellspring stays out of the prose until decided.
 - **R29-1-SACRAMENT_BOND_ANCHOR_BY_DECLARATION** [Sacrament Anchor Ruling Standing Ruling] A Sacrament or Transposition anchor is a soul that holds the celebrant's name at weight, and it is fixed by the celebrant's declaration inside the rite, regardless of whether the anchor consents; the declaration, not consent, is the mechanism, and the bond is held under Fixatio, the anchoring law. It does not lapse when the celebrant leaves the world, the celebrant cannot amend it afterward, and it is not a displaceable affinity bond, so it has no release valve. Transposition.md says nothing about how an anchor bond ends; this rule is silent on ending.
@@ -1100,7 +1111,7 @@
 - **R54-19-MASS_NPC_THOUGHT** [Queue Questionnaire 2026-09-26 WAR-92] A POV-locked mass-combat scene still allows one thought per NPC.
 - **R54-20-MASS_WOUND_ANATOMY** [Queue Questionnaire 2026-09-26 WAR-92] Wounds in mass-combat scenes are written with the same anatomy as a duel.
 
-## naming (161)
+## naming (162)
 
 - **R20C-1-BURI_DEAD_EVERYWHERE** [Pack Twenty R20C-1] Büri is dead everywhere, without exception. No house, no amendment, no voice roster, no Mongolian register on any Inner World page.
 - **R20C-2-SATULAGI_STAYS_DEAD** [Pack Twenty R20C-2] Sātūlagi stays dead. Struck for a structural reason; reverting the register does not restore a place.
@@ -1255,6 +1266,7 @@
 - **R50-32-ITALICS** [Naming Law 2026-09-26 Names on pages vs in prose] Foreign names and borrowed words are never italic in prose.
 - **R50-33-MISPRONOUNCE** [Naming Law 2026-09-26 Names on pages vs in prose] A foreigner's bent pronunciation of a name is spelled as heard in dialogue (Gimbzo becomes 'Gimzo').
 - **R50-34-SAY_GUIDE** [Naming Law 2026-09-26 Names on pages vs in prose] Every character card and place page carries a short pronunciation line.
+- **R62-4-MONOLITHION_SPELLING** [Open Conflicts 2026-09-28 C-102] Spell the Materia Wellspring Monolithion everywhere, the Codex rows included.
 - **R54-1-STAGE_NUMERAL_WINS** [Queue Questionnaire 2026-09-26 WAR-15] A card whose Stage numeral and Stage name disagree keeps the numeral and takes the name Fracture of Worlds gives that numeral.
 - **R54-32-KHARVEN_BESIEGED_BY_MANDATE** [Queue Questionnaire 2026-09-26 WAR-118] The force besieging Kharven is the Iron Mandate, in a nine-year war.
 - **R54-33-TWO_ONAWAS** [Queue Questionnaire 2026-09-26 WAR-53] Onawa, Empress of Eresse, and Onawa Ashkewe, Queen of the Tsohanto, are two women.
@@ -1863,7 +1875,7 @@
 - **R53-31-GONE_LIST** [World Texture Law 2026-09-26 World texture] Each culture's Standing Inventory gets a 'Gone' list of three to five named lost things the culture mourns, for elegy to reach for.
 - **R53-32-TECH_BY_EAR** [World Texture Law 2026-09-26 World texture] No decade-by-decade technology page: the partner judges what is era-appropriate in the Imperial Age scene by scene.
 
-## stats (122)
+## stats (124)
 
 - **R20C-30-STAGE_NAMES_FROM_FOW** [Pack Twenty R20C-30] Fracture of Worlds governs the Stage names. Verified against source.
 - **R20C-32-PRECEDENCE_FOW_WORKBOOK_CARD** [Pack Twenty R20C-32] Precedence: Fracture of Worlds, then the Stat Sheet workbook, then the Notion card. The card is a rendering and it drifts.
@@ -1966,6 +1978,8 @@
 - **R43-2-KINJIKI_ETA_1_2** [Magic System Rulings 2026-09-24 C-031] Kinjiki's η is ~1.2; his Crystal Tier stays Absolute Crystal.
 - **R43-4-LETTERED_BAND_SWEPT** [Magic System Rulings 2026-09-24 C-033] The lettered Coherence Band gives way to the Tier of Standing everywhere.
 - **R25-1-OBSESSION_SATISFIES_ATTRACTION_GATE** [Obsession Force / Attraction Path Gate Ruling Standing Ruling] A practitioner whose Attraction Layer runs under Obsession Force — the corrupted inversion of Attraction Force — still satisfies an Attraction Path gate for sub-stat purposes. Obsession does not cap Attraction-gated sub-stats hard; this is a setting-wide mechanical rule covering every corrupted practitioner, not a fix scoped to one character.
+- **R62-1-MUJIN_24_AT_ASHGATE_38_NOW** [Open Conflicts 2026-09-28 C-106] Date Mu-jin 24 on the Ashgate road and 38 now at the Academy; his pre-Ashgate card keeps Age 24.
+- **R62-2-MALPHAS_TWO_LOADOUTS** [Open Conflicts 2026-09-28 C-100] Give Malphas a living loadout at the Greyshaft Nine coldhouse and move the lich's figures to a later-dated section.
 - **R54-1-STAGE_NUMERAL_WINS** [Queue Questionnaire 2026-09-26 WAR-15] A card whose Stage numeral and Stage name disagree keeps the numeral and takes the name Fracture of Worlds gives that numeral.
 - **R54-2-CRYSTAL_TIER_FROM_STAGE** [Queue Questionnaire 2026-09-26 WAR-65] The tier word comes off the Crystal State field; a separate Crystal Tier field is written from the Stage, or from Aether Class where no Stage is stated.
 - **R54-3-STAGE_DECIDES_CRYSTAL_TIER** [Queue Questionnaire 2026-09-26 WAR-66] Where Aether Class and Stage point to different Crystal Tiers, the Stage decides, for every later mismatch.
@@ -2094,7 +2108,7 @@
 - **R48-49-CITATIONS** [Writing Law 2026-09-26 Process] Research is cited as a source list at the end of each scene's or ability's notes.
 - **R48-50-PUSHBACK** [Writing Law 2026-09-26 Process] When the partner thinks a beat is drifting or a rule reads wrong, it says so in one plain line and keeps writing unless stopped.
 
-## worldbuilding (253)
+## worldbuilding (256)
 
 - **R20C-1-BURI_DEAD_EVERYWHERE** [Pack Twenty R20C-1] Büri is dead everywhere, without exception. No house, no amendment, no voice roster, no Mongolian register on any Inner World page.
 - **R20C-2-SATULAGI_STAYS_DEAD** [Pack Twenty R20C-2] Sātūlagi stays dead. Struck for a structural reason; reverting the register does not restore a place.
@@ -2293,6 +2307,9 @@
 - **R20-4-ACCORD_FILING_CONVENTION** [Naming Guide Amendment Part Four] The Accord files every practitioner under given name, family or patronymic, culture of origin, rank designation — a bureaucratic act that is also a cultural act, reducing a five-slot Yukari name to three fields or stripping a Dawi oath-name for lack of a slot.
 - **R20-4-THIRD_NAME_PROBLEM** [Naming Guide Amendment Part Four] The earned Third Name (documented in The Standing and the Title) is conferred in whatever language the naming community speaks and has no equivalent in the bearer's own register; carrying one means one's identity now belongs to the people who named you rather than the people who bore you.
 - **R20-4-WHEN_NAMES_CHANGE** [Naming Guide Amendment Part Four] Yukari rename at life-stage; Dawi add the oath-name at oath-taking; Elven validate or strip names publicly; Concord freezes bynames into surnames over generations; Beastkin hold name-keeping as a last resort. Which rule applies when a character moves between cultures is always specific to the characters involved and never clean.
+- **R62-3-THE_MOTHER_METHOD_THEN_RELIGION** [Open Conflicts 2026-09-28 C-101] Write The Mother as a cult of Malphas's rot-method while he lives, turning into a religion of the Becoming afterwards.
+- **R62-5-NO_COAL_BOILERS** [Open Conflicts 2026-09-28 C-103] Nothing on the railway or in district heating burns coal; the stray coal-boiler paragraphs are cut.
+- **R62-9-MUJIN_OF_SUMGOL_KETSUEN** [Open Conflicts 2026-09-28 C-095] Place Mu-jin's house at Sum-gol in Ketsuen; there is no Eastern Concord.
 - **R54-16-STONE_BLOOD_COLD_LATENCY** [Queue Questionnaire 2026-09-26 WAR-91] Stone-Blood run about three-quarters of a beat late in deep cold, in every such fight.
 - **R54-22-REIGAN_REACH** [Queue Questionnaire 2026-09-26 WAR-92] Sodoku's Reigan reaches four hundred miles, with its blindness and eleven-second cost.
 - **R54-23-WREN_DIES** [Queue Questionnaire 2026-09-26 WAR-92] Wren is dead from What the Sky Does Not Ask on, and later pages agree.

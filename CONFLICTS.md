@@ -1212,7 +1212,7 @@ the author notes."
 **Quotes:** Kwon Mu-jin: "**Race / Lineage** Human — **Mahuo court line**, scholar-nobility, Eastern Concord-adjacent enclave" · Kwon Mu-jin: "Kwon Mu-jin was born into the Mahuo court line, scholar-nobility of the house at Sum-gol." · Ara Min Mahuo: "Ara Min Mahuo was born to the Mahuo court line, scholar-nobility of the house at Sum-gol" · The Sovereign Enclave of Ketsuen — The Crow's Reach: "the ancestral seat of the Mahuo bloodline." · The Sovereign Enclave of Ketsuen — The Crow's Reach: "The Mahuo province. Selects its own Warden through processes combining the Proving model with"
 **Consequence if unresolved:** A scene or the Codex rewrite cannot say which region Mu-jin comes from, or where an 'Eastern Concord' lies on the map.
 **Recommendation:** none.
-**Status:** open
+**Status:** ruled 2026-09-28 (RULINGS.md, open-conflicts-2026-09-28, answer 9)
 
 ## C-096 — No consumable refills a practitioner (R2-6); the Drafts ladder banks a dose's Essence in the Crystal and lets it overfill
 
@@ -1257,7 +1257,7 @@ the author notes."
 **Quotes:** Malphas · Ferment of Stars: "The Greyshaft Nine coldhouse, the ninth hind going to the table" · Malphas · Ferment of Stars: "**Stage XIV — Zenith** · **Level 475** · Level Band V · Tier of Standing 8, Archmaster" · Malphas · Ferment of Stars: "The Becoming took the living body. What had answered him then had been waiting the whole span for him to run out of body." · doc-queue-questionnaire-2026-09-26: "Card headers describe the character at a stated moment (e.g. 'as of the muster') and say so;" · the_nights_watch: "the man's fingers had stayed the colour of a living man's fingers in a room at four degrees" · bible: "No figure exists for him alive; no Stage is named or implied."
 **Consequence if unresolved:** A scene or page set at the card's stated moment cannot take Malphas's numbers from his card, because the card has no figures for the living man at the coldhouse.
 **Recommendation:** none.
-**Status:** open
+**Status:** ruled 2026-09-28 (RULINGS.md, open-conflicts-2026-09-28, answer 2)
 
 ## C-101 — The Mother is a religious following of the Becoming (R60-24); its Greyshaft Nine culture was already working before Malphas's Becoming
 
@@ -1266,7 +1266,7 @@ the author notes."
 **Quotes:** RULINGS: "R60-24-THE_MOTHER_IS_A_CULT: The Mother is a cult: a religious following of the Becoming; members seek Malphas's path to undeath and worship the rot." · RULINGS: "Its cells are cultures; recruits are inoculated. The Greyshaft Nine coldhouse cell is one of them." · RULINGS: "The months past the brief are Invocation's relief; the 'worse' a year or two later is The Mother." · Malphas · Ferment of Stars: "At the Greyshaft Nine coldhouse he kept a cell of four." · Malphas · Ferment of Stars: "The Becoming took the living body." · The Mother: "It does not recruit by sermon. It recruits by offering what the state has refused."
 **Consequence if unresolved:** A scene cannot say what the Greyshaft Nine members thought they were following, or whether a faith in the Becoming existed before Malphas died into it.
 **Recommendation:** none.
-**Status:** open
+**Status:** ruled 2026-09-28 (RULINGS.md, open-conflicts-2026-09-28, answer 3)
 
 ## C-102 — The Master Codex spells the Materia Wellspring 'Monlithion'; FOW V and The Eight Families spell it 'Monolithion'
 
@@ -1275,7 +1275,7 @@ the author notes."
 **Quotes:** V. Wellsprings, Attraction and Obsession, Magic Integration (Parts Thirteen–Fifteen): "A character with Fortitude at B-Grade who harmonizes with Monolithion does not gain Fortitude points." · The Eight Families & the Sixty Wellsprings: "A Fortitude of B-Grade harmonized to Monolithion does not become a larger Fortitude." · Gimbzo: "skin and bone reinforced by Monlithion law" · Kami no Kobushi — The God Fist: "Monlithion ratifies the blow as causal sentence, and the opponent's nervous system must process it" · The Ketsumyōgan — The Binding Fate Eye: "Continuous visualization within a range determined by Monlithion development, baseline 20 to 40 metres"
 **Consequence if unresolved:** A converted text or card that names this Wellspring cannot agree with both the Codex and FOW, and a Codex lookup under the FOW spelling returns nothing.
 **Recommendation:** none.
-**Status:** open
+**Status:** ruled 2026-09-28 (RULINGS.md, open-conflicts-2026-09-28, answer 4)
 
 ## C-103 — Draw-fed engines replace coal and steam outright (R59-01); The Bearing and the Holding and The Four Ceilings each keep a paragraph about an engine that burns coal
 
@@ -1284,7 +1284,7 @@ the author notes."
 **Quotes:** doc-era-apparatus-law-2026-09-26: "Prime power: Essence engines. Draw-fed engines replace coal and steam outright; the main" · The Bearing and the Holding: "Nothing burns and nothing boils, and there is no steam engine anywhere in the four quarters, on rails or off them." · The Bearing and the Holding: "It burns coal, it carries its own water, it answers to nobody's supply grade and it does not care what the local density is doing." · The Bearing and the Holding: "a rail head reaches a district and coal arrives that can heat it without drawing anything at all" · The Four Ceilings: "there is none on the rails either, because the problem a boiler was going to solve was solved by the main before anybody built one" · The Four Ceilings: "It burns coal, carries its own water, answers to nobody's supply grade and does not care what the local density is doing." · The Four Ceilings: "and it is therefore the one place a boiler had a reason to exist."
 **Consequence if unresolved:** A scene cannot put a coal-fired engine, coal smoke on a train or coal delivered by rail on the page without contradicting either the ruling or a paragraph on these two pages.
 **Recommendation:** none.
-**Status:** open
+**Status:** ruled 2026-09-28 (RULINGS.md, open-conflicts-2026-09-28, answer 5)
 
 ## C-104 — R53-01 puts the technology of the 1800s to the 1900s, rail included, across the whole Imperial Age; the Four Ceilings and Mechanica pages bring rail only with the mains, about 315 IC
 
@@ -1311,7 +1311,7 @@ the author notes."
 **Quotes:** RULINGS: "Kwon Mu-jin is 38, not 24. Isaac's ruling, 2026-09-18." · RULINGS: "the "ten years since" phrasing becomes twenty-four years" · doc-backfill-rulings-2026-09-26: "Not yet applied: wiki/Volume I — Character Cards/Kwon Mu-jin.md:26 still reads Age 24 and :32" · Kwon Mu-jin: "With the Zettari war camp, before the Ashgate road" · Kwon Mu-jin: "and has spent the ten years since" · State of Play — Kwon Mu-jin Aetherion Academy: "Separate from the Hon-guk page: this is the Academy arc, roughly thirteen years later (Rikudoku 13, Sodoku 35, Mu-jin 38)." · bible: "The card says 24 (the Hon-guk era); the Academy State of Play says 38, thirteen years later." · wotr_the_warrior_nurse: "he was twenty-four years old and had not slept properly in something like six years" · 10_mujin_the_name_of_your_killer: "the calm man who had run a school for eleven years" · 10_mujin_the_name_of_your_killer: "had spent forty years being unable to name" · mujins_interjection_aetherion_arena: "I have spent forty years in the discipline they are now calling spiritual alchemy"
 **Consequence if unresolved:** A scene set on or before the Ashgate road cannot state Mu-jin's age, and cannot date his children's births or the Codex volumes against it.
 **Recommendation:** none.
-**Status:** open
+**Status:** ruled 2026-09-28 (RULINGS.md, open-conflicts-2026-09-28, answer 1)
 
 ## C-107 — Aetheric Residue is permanent and always readable (The Core Vocabulary); ordinary residue thins on a schedule and only Mechanica residue holds (the Mechanica page)
 
@@ -1320,7 +1320,7 @@ the author notes."
 **Quotes:** The Core Vocabulary: "A permanent, if often subtle, change to the location where the working occurred. Always readable by someone patient enough." · The Core Vocabulary: "Residue has a loud phase and a quiet one" · Mechanica Extraction Without Recognition: "Ordinary Aetheric Residue thins on a schedule set by local density. Mechanica residue holds" · The Master Material Ledger: "Lawful rendering leaves a trace that thins on schedule."
 **Consequence if unresolved:** A scene cannot say whether an ordinary working from years ago can still be read at a site, or how long an investigator has before its trace is gone.
 **Recommendation:** none.
-**Status:** open
+**Status:** ruled 2026-09-28 (RULINGS.md, open-conflicts-2026-09-28, answer 6)
 
 ## C-108 — A summoner who claims a standing he lacks gets nothing (Kwon Mu-jin's card); an overstated Warrant seals and the speaker pays in the body (The Counted Speech), and at Rimward something answered and took an eye
 
@@ -1329,7 +1329,7 @@ the author notes."
 **Quotes:** Kwon Mu-jin: "a summoner who claims a standing he lacks gets nothing, and the nothing is the mercy" · Kwon Mu-jin: "He asked without one, as though he held a standing he did not have, and he knew what he was doing while he did it. Something answered." · Kwon Mu-jin: "He lost his right eye at Rimward, and he saved Frithia's life there." · Kwon Mu-jin: "Spoken Parunic invocation over an open Draft-circle." · The Counted Speech — A Speaker's Grammar of Parun: "A Warrant that overstates standing does not fail loudly. It seals" · The Counted Speech — A Speaker's Grammar of Parun: "the difference between the standing claimed and the standing held is deducted from the speaker at the moment the Seal closes." · The Counted Speech — A Speaker's Grammar of Parun: "Depending on where the count went wrong the deduction comes out of **the hands, the hearing, the teeth or the years**" · RULINGS: "Named as his question; what answered stays unnamed."
 **Consequence if unresolved:** A scene cannot say whether a summoner who over-claims his standing gets nothing or pays in the body, or what Rimward took from Mu-jin and under which law.
 **Recommendation:** none.
-**Status:** open
+**Status:** ruled 2026-09-28 (RULINGS.md, open-conflicts-2026-09-28, answer 7)
 
 ## C-109 — Crystal-less alchemists sit at Tier Four on the same Tiered Path (Alchemetrica); every Tier is a change in the Soul Crystal, a Dormant Crystal is pre-Initiate, and an item's Tier is capped at its maker's Tier of Standing (The Tiered Path, Part Twenty-One, The Tier Ladders)
 
@@ -1356,7 +1356,7 @@ the author notes."
 **Quotes:** The Open Crucible — Kwon Mu-jin's Book of Summons: "Parunic supplies the technical grammar; the spoken Latin is the authorization phrase a human throat can actually manage under battlefield stress" · The Open Crucible — Kwon Mu-jin's Book of Summons: "Guild Accord liturgical Latin layered atop the Parunic glyph-authorization every Draft technically requires." · Accord Latin — The Formulary and the Two Spoken Registers: "The grammar has no slot for the speaker." · Accord Latin — The Formulary and the Two Spoken Registers: "A speaker cannot put themselves into a working." · Accord Latin — The Formulary and the Two Spoken Registers: "The Hands write boundaries onto laws. Latin writes agreements between people." · The Descent of Parun — The Fourteen Hands: "A Parun sentence names who is speaking, what ground the speech covers, which way the working runs, and how it is to end" · The Counted Speech — A Speaker's Grammar of Parun: "who is speaking and by what standing" · The Called · Summon Register: "The spoken line in Guild Accord liturgical Latin, with the Parunic chain sitting underneath it"
 **Consequence if unresolved:** A scene cannot say whether Mu-jin's spoken Latin or the Parun beneath it carries his warrant, and so what a mis-said Latin line would cost him.
 **Recommendation:** none.
-**Status:** open
+**Status:** ruled 2026-09-28 (RULINGS.md, open-conflicts-2026-09-28, answer 8)
 
 ## C-112 — The present is Year 715 of the count and the early years of an Imperial Age now beginning (RULINGS.md 2026-09-28); the Concordance of Ages runs the Imperial Age from 000 through the Voyager Era, the Long Reckoning and the Withering Era, sealed 'Year 715 of the Imperial Age, Withering Era'
 

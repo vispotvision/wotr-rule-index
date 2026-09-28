@@ -21259,6 +21259,284 @@
     "superseded_by": []
   },
   {
+    "id": "R62-1-MUJIN_24_AT_ASHGATE_38_NOW",
+    "pack": "Open Conflicts 2026-09-28",
+    "pack_number": null,
+    "section": "C-106",
+    "title": "Mu-jin was 24 on the Ashgate road and is 38 at the Academy",
+    "status": "live",
+    "kind": "definition",
+    "summary": "Date Mu-jin 24 on the Ashgate road and 38 now at the Academy; his pre-Ashgate card keeps Age 24.",
+    "verbatim": "Kwon Mu-jin was 24 on the Ashgate road and is 38 now, at the Academy. R57-01's 38 is his age at the Academy; the card dated before the Ashgate road keeps Age 24 and its 'ten years since'; the Academy pages stand; the 'forty years' lines in two scenes are recut.",
+    "amends": [
+      {
+        "guide": "Character cards, NATALIE.md and the wotr-npc skill",
+        "locus": "Character cards, NATALIE.md and the wotr-npc skill",
+        "operation": "adds"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "character-sheet",
+      "stats"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-28, Claude Code chat: ruled directly (the alchemy conversion open conflicts)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "Reads R57-01-KWON_MU_JIN_IS_38 as his Academy age.",
+    "superseded_by": []
+  },
+  {
+    "id": "R62-2-MALPHAS_TWO_LOADOUTS",
+    "pack": "Open Conflicts 2026-09-28",
+    "pack_number": null,
+    "section": "C-100",
+    "title": "Malphas's card carries a living loadout and a later lich loadout",
+    "status": "live",
+    "kind": "mandate",
+    "summary": "Give Malphas a living loadout at the Greyshaft Nine coldhouse and move the lich's figures to a later-dated section.",
+    "verbatim": "Malphas's card carries two dated loadouts: it keeps its Greyshaft Nine coldhouse date with a living loadout derived from his Stage then, and the lich's figures move to a second, later-dated section.",
+    "amends": [
+      {
+        "guide": "Character cards, NATALIE.md and the wotr-npc skill",
+        "locus": "Character cards, NATALIE.md and the wotr-npc skill",
+        "operation": "adds"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "character-sheet",
+      "stats"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-28, Claude Code chat: ruled directly (the alchemy conversion open conflicts)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "",
+    "superseded_by": []
+  },
+  {
+    "id": "R62-3-THE_MOTHER_METHOD_THEN_RELIGION",
+    "pack": "Open Conflicts 2026-09-28",
+    "pack_number": null,
+    "section": "C-101",
+    "title": "The Mother is a method cult first and a religion of the Becoming after it",
+    "status": "live",
+    "kind": "definition",
+    "summary": "Write The Mother as a cult of Malphas's rot-method while he lives, turning into a religion of the Becoming afterwards.",
+    "verbatim": "The Mother begins as a cult of Malphas's rot-method under the living Malphas and becomes a religion of the Becoming after it; R60-24 describes the later cult, and The Mother page gains the turn.",
+    "amends": [
+      {
+        "guide": "NATALIE.md and the wotr-write skill",
+        "locus": "NATALIE.md and the wotr-write skill",
+        "operation": "adds"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "worldbuilding"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-28, Claude Code chat: ruled directly (the alchemy conversion open conflicts)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "Refines R60-24-THE_MOTHER_IS_A_CULT, which describes the later cult.",
+    "superseded_by": []
+  },
+  {
+    "id": "R62-4-MONOLITHION_SPELLING",
+    "pack": "Open Conflicts 2026-09-28",
+    "pack_number": null,
+    "section": "C-102",
+    "title": "The Materia Wellspring is spelled Monolithion",
+    "status": "live",
+    "kind": "definition",
+    "summary": "Spell the Materia Wellspring Monolithion everywhere, the Codex rows included.",
+    "verbatim": "The Materia Wellspring is spelled Monolithion; the Master Codex's 'Monlithion' rows are corrected.",
+    "amends": [
+      {
+        "guide": "Fracture of Worlds — The Living System",
+        "locus": "Fracture of Worlds — The Living System",
+        "operation": "adds"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "codex",
+      "naming"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-28, Claude Code chat: ruled directly (the alchemy conversion open conflicts)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "",
+    "superseded_by": []
+  },
+  {
+    "id": "R62-5-NO_COAL_BOILERS",
+    "pack": "Open Conflicts 2026-09-28",
+    "pack_number": null,
+    "section": "C-103",
+    "title": "No coal boilers: R59-01 governs",
+    "status": "live",
+    "kind": "ban",
+    "summary": "Nothing on the railway or in district heating burns coal; the stray coal-boiler paragraphs are cut.",
+    "verbatim": "The coal paragraphs are cut; R59-01 governs, and The Bearing and the Holding and The Four Ceilings lose the coal-boiler paragraph and the repeated Logistics Division sentence.",
+    "amends": [
+      {
+        "guide": "The Apparatus of the Age — Equipment and Material Culture",
+        "locus": "The Apparatus of the Age — Equipment and Material Culture",
+        "operation": "adds"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "worldbuilding",
+      "items"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-28, Claude Code chat: ruled directly (the alchemy conversion open conflicts)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "",
+    "superseded_by": []
+  },
+  {
+    "id": "R62-6-RESIDUE_THINS_TO_A_FLOOR",
+    "pack": "Open Conflicts 2026-09-28",
+    "pack_number": null,
+    "section": "C-107",
+    "title": "Aetheric Residue thins to a floor and stays readable",
+    "status": "live",
+    "kind": "definition",
+    "summary": "Ordinary residue fades loudly in hours, then thins toward a floor it never passes, readable by the patient; Mechanica residue never thins.",
+    "verbatim": "Aetheric Residue thins to a floor: the loud phase fades in hours; the quiet residue thins on a schedule set by local density toward a floor it never passes, so it stays readable by the patient. Mechanica residue does not thin at all. The Core Vocabulary and the Mechanica page each gain a line.",
+    "amends": [
+      {
+        "guide": "The Magic System",
+        "locus": "The Magic System",
+        "operation": "adds"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "magic-mechanism",
+      "codex"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-28, Claude Code chat: ruled directly (the alchemy conversion open conflicts)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "",
+    "superseded_by": []
+  },
+  {
+    "id": "R62-7-STANDING_TWO_LAWS",
+    "pack": "Open Conflicts 2026-09-28",
+    "pack_number": null,
+    "section": "C-108",
+    "title": "Over-claimed standing: nothing for Vocatia, a bodily price for a Parun Warrant",
+    "status": "live",
+    "kind": "definition",
+    "summary": "A summoner who claims standing he lacks gets nothing; an overstated Parun Warrant seals and takes the gap from the body; Rimward fits neither.",
+    "verbatim": "Both laws are true in their own domains: Vocatia gets nothing when the summoner lacks the standing he claims; a Parun Warrant that overstates standing seals and takes the gap from the speaker's body. Rimward fits neither: something outside both laws answered, and the eye was its price.",
+    "amends": [
+      {
+        "guide": "The Magic System",
+        "locus": "The Magic System",
+        "operation": "adds"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "magic-mechanism",
+      "codex"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-28, Claude Code chat: ruled directly (the alchemy conversion open conflicts)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "",
+    "superseded_by": []
+  },
+  {
+    "id": "R62-8-PARUN_CARRIES_THE_WARRANT",
+    "pack": "Open Conflicts 2026-09-28",
+    "pack_number": null,
+    "section": "C-111",
+    "title": "Parun carries the warrant; spoken Latin gives the order over it",
+    "status": "live",
+    "kind": "mandate",
+    "summary": "Never write Latin as a working's authorization; the Parun Authorization carries the warrant and the Latin gives the order above it.",
+    "verbatim": "Parun carries the warrant: the spoken Latin gives the order over the Parun Authorization, canon's normal layering, and the Open Crucible's word 'authorization' for the Latin is corrected.",
+    "amends": [
+      {
+        "guide": "The Magic System",
+        "locus": "The Magic System",
+        "operation": "adds"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "magic-mechanism",
+      "dialogue"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-28, Claude Code chat: ruled directly (the alchemy conversion open conflicts)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "",
+    "superseded_by": []
+  },
+  {
+    "id": "R62-9-MUJIN_OF_SUMGOL_KETSUEN",
+    "pack": "Open Conflicts 2026-09-28",
+    "pack_number": null,
+    "section": "C-095",
+    "title": "Mu-jin is of the house at Sum-gol, Ketsuen",
+    "status": "live",
+    "kind": "definition",
+    "summary": "Place Mu-jin's house at Sum-gol in Ketsuen; there is no Eastern Concord.",
+    "verbatim": "Mu-jin's card header reads 'of the house at Sum-gol, Ketsuen', matching his Lore, Ara's card and the Ketsuen page; there is no Eastern Concord.",
+    "amends": [
+      {
+        "guide": "Character cards, NATALIE.md and the wotr-npc skill",
+        "locus": "Character cards, NATALIE.md and the wotr-npc skill",
+        "operation": "adds"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "character-sheet",
+      "worldbuilding"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-28, Claude Code chat: ruled directly (the alchemy conversion open conflicts)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "",
+    "superseded_by": []
+  },
+  {
     "id": "R1-1-BLACK_AGENT_ASSIGNED",
     "pack": "Pack One",
     "pack_number": 1,

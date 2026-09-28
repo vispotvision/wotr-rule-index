@@ -1,6 +1,6 @@
 # Live rules by domain, with source text
 
-1061 live of 1246 extracted. Newest pack first within each domain; the newer rule governs where two overlap.
+1070 live of 1255 extracted. Newest pack first within each domain; the newer rule governs where two overlap.
 
 ## adjudication (63)
 
@@ -382,7 +382,7 @@ Isaac may take over any NPC's voice anytime by saying so; the partner hands it b
 
 > Isaac may take over any NPC's voice anytime by saying so; the partner hands it back after.
 
-## character-sheet (194)
+## character-sheet (197)
 
 ### R20C-16-SONZAI_RECORD_CARD [Pack Twenty R20C-16]
 
@@ -1248,6 +1248,24 @@ When a Third Name becomes dominant, both the personal name and institutional ran
 
 > When a practitioner's Third Name becomes dominant, the personal name and the institutional rank both recede. Nobody calls Cozbi Mahuo "Grandmaster Mahuo" unless they are reading from a filing. He is The Ledger-Keeper, and the Third Name has consumed the other two. This is the endgame of the naming system: the title becomes the person, the person becomes the title, and the birth name is what the family uses and nobody else remembers.
 
+### R62-1-MUJIN_24_AT_ASHGATE_38_NOW [Open Conflicts 2026-09-28 C-106]
+
+Date Mu-jin 24 on the Ashgate road and 38 now at the Academy; his pre-Ashgate card keeps Age 24.
+
+> Kwon Mu-jin was 24 on the Ashgate road and is 38 now, at the Academy. R57-01's 38 is his age at the Academy; the card dated before the Ashgate road keeps Age 24 and its 'ten years since'; the Academy pages stand; the 'forty years' lines in two scenes are recut.
+
+### R62-2-MALPHAS_TWO_LOADOUTS [Open Conflicts 2026-09-28 C-100]
+
+Give Malphas a living loadout at the Greyshaft Nine coldhouse and move the lich's figures to a later-dated section.
+
+> Malphas's card carries two dated loadouts: it keeps its Greyshaft Nine coldhouse date with a living loadout derived from his Stage then, and the lich's figures move to a second, later-dated section.
+
+### R62-9-MUJIN_OF_SUMGOL_KETSUEN [Open Conflicts 2026-09-28 C-095]
+
+Place Mu-jin's house at Sum-gol in Ketsuen; there is no Eastern Concord.
+
+> Mu-jin's card header reads 'of the house at Sum-gol, Ketsuen', matching his Lore, Ara's card and the Ketsuen page; there is no Eastern Concord.
+
 ### R54-1-STAGE_NUMERAL_WINS [Queue Questionnaire 2026-09-26 WAR-15]
 
 A card whose Stage numeral and Stage name disagree keeps the numeral and takes the name Fracture of Worlds gives that numeral.
@@ -1551,7 +1569,7 @@ Room casting is by ear: the partner casts for the scene and fixes voice likeness
 
 > Room casting is by ear: the partner casts for the scene and fixes voice likeness only when the swap test fails.
 
-## codex (106)
+## codex (109)
 
 ### R20C-41-CHANTCRAFT_FIFTH_CRAFT [Pack Twenty R20C-41]
 
@@ -2134,6 +2152,24 @@ Viaforma gains Via Fati for the Fate Path.
 Part Five · Prose Application is lifted out of the Revelation cell.
 
 > The Color of Essence's Revelation cell is restored to its own sentence and the block pasted inside it is lifted out as "Part Five · Prose Application" after Part Four, the same words re-homed; Limina's absence is left visible as a gap rather than papered over.
+
+### R62-4-MONOLITHION_SPELLING [Open Conflicts 2026-09-28 C-102]
+
+Spell the Materia Wellspring Monolithion everywhere, the Codex rows included.
+
+> The Materia Wellspring is spelled Monolithion; the Master Codex's 'Monlithion' rows are corrected.
+
+### R62-6-RESIDUE_THINS_TO_A_FLOOR [Open Conflicts 2026-09-28 C-107]
+
+Ordinary residue fades loudly in hours, then thins toward a floor it never passes, readable by the patient; Mechanica residue never thins.
+
+> Aetheric Residue thins to a floor: the loud phase fades in hours; the quiet residue thins on a schedule set by local density toward a floor it never passes, so it stays readable by the patient. Mechanica residue does not thin at all. The Core Vocabulary and the Mechanica page each gain a line.
+
+### R62-7-STANDING_TWO_LAWS [Open Conflicts 2026-09-28 C-108]
+
+A summoner who claims standing he lacks gets nothing; an overstated Parun Warrant seals and takes the gap from the body; Rimward fits neither.
+
+> Both laws are true in their own domains: Vocatia gets nothing when the summoner lacks the standing he claims; a Parun Warrant that overstates standing seals and takes the gap from the speaker's body. Rimward fits neither: something outside both laws answered, and the eye was its price.
 
 ### R54-38-BLEND_FAMILY_MAY_DIFFER [Queue Questionnaire 2026-09-26 WAR-146]
 
@@ -2731,7 +2767,7 @@ Every duel ends with a full aftermath beat: wounds dressed, what changed between
 
 > Every duel ends with a full aftermath beat: wounds dressed, what changed between people.
 
-## dialogue (149)
+## dialogue (150)
 
 ### R20C-36-CLEARLY_WINS [Pack Twenty R20C-36]
 
@@ -3050,6 +3086,12 @@ When a name crosses cultures, the speaker's own phonology imposes itself (a Conc
 A practitioner's formal address follows the convention of whoever is doing the addressing (rank plus family name for the Accord, ordination name plus title for Sanctum Lux, relationship-dependent honorifics at a Ketsuen court); two people in the same room may correctly address the same person by different names.
 
 > A practitioner's formal address follows the convention of the institution or the culture that is doing the addressing.
+
+### R62-8-PARUN_CARRIES_THE_WARRANT [Open Conflicts 2026-09-28 C-111]
+
+Never write Latin as a working's authorization; the Parun Authorization carries the warrant and the Latin gives the order above it.
+
+> Parun carries the warrant: the spoken Latin gives the order over the Parun Authorization, canon's normal layering, and the Open Crucible's word 'authorization' for the Latin is corrected.
 
 ### R49-31-TAGS [Prose Law 2026-09-26 Dialogue]
 
@@ -4121,7 +4163,7 @@ Isaac's direction of 2026-09-12 overtakes the two pending rows that kept the pac
 
 > Superseded by Isaac's direction of 2026-09-12 to fold the packs into dated base-guide editions ("yes — start folding the packs in now"); eleven guides are folded, the remaining six follow the same way.
 
-## items (58)
+## items (59)
 
 ### R20C-22-AMMUNITION_TIERS_RATIFIED [Pack Twenty R20C-22]
 
@@ -4392,6 +4434,12 @@ Only Kōkan holds a seat and is the only line entitled to the full court present
 Kurosetsu keeps the belt scabbard; that was an equipment ruling, not a naming one, and it survives the reversion.
 
 > Kurosetsu keeps the belt scabbard. That was an equipment ruling, not a naming one, and it survives.
+
+### R62-5-NO_COAL_BOILERS [Open Conflicts 2026-09-28 C-103]
+
+Nothing on the railway or in district heating burns coal; the stray coal-boiler paragraphs are cut.
+
+> The coal paragraphs are cut; R59-01 governs, and The Bearing and the Holding and The Four Ceilings lose the coal-boiler paragraph and the repeated Logistics Division sentence.
 
 ### R54-38-BLEND_FAMILY_MAY_DIFFER [Queue Questionnaire 2026-09-26 WAR-146]
 
@@ -5139,7 +5187,7 @@ The Phenomenon Bank becomes a growing library: every researched phenomenon (and 
 
 > The Phenomenon Bank becomes a growing library: every researched phenomenon (and pseudoscientific idea) is added for future workings and players to draw from.
 
-## magic-mechanism (171)
+## magic-mechanism (174)
 
 ### R20C-17-SITES_RECHARGE_UNHELPFULLY [Pack Twenty R20C-17]
 
@@ -6029,6 +6077,24 @@ A practitioner whose Attraction Layer runs under Obsession Force — the corrupt
 
 > Does Obsession satisfy an Attraction Path gate? Yes — Isaac's ruling, 2026-09-12. The values below stand, confirmed rather than conditional. He keeps Silence — the man who is quieter than the background stays exactly that. The ruling is general: Obsession Force satisfies an Attraction Path gate for every corrupted practitioner in the setting, not only him.
 
+### R62-6-RESIDUE_THINS_TO_A_FLOOR [Open Conflicts 2026-09-28 C-107]
+
+Ordinary residue fades loudly in hours, then thins toward a floor it never passes, readable by the patient; Mechanica residue never thins.
+
+> Aetheric Residue thins to a floor: the loud phase fades in hours; the quiet residue thins on a schedule set by local density toward a floor it never passes, so it stays readable by the patient. Mechanica residue does not thin at all. The Core Vocabulary and the Mechanica page each gain a line.
+
+### R62-7-STANDING_TWO_LAWS [Open Conflicts 2026-09-28 C-108]
+
+A summoner who claims standing he lacks gets nothing; an overstated Parun Warrant seals and takes the gap from the body; Rimward fits neither.
+
+> Both laws are true in their own domains: Vocatia gets nothing when the summoner lacks the standing he claims; a Parun Warrant that overstates standing seals and takes the gap from the speaker's body. Rimward fits neither: something outside both laws answered, and the eye was its price.
+
+### R62-8-PARUN_CARRIES_THE_WARRANT [Open Conflicts 2026-09-28 C-111]
+
+Never write Latin as a working's authorization; the Parun Authorization carries the warrant and the Latin gives the order above it.
+
+> Parun carries the warrant: the spoken Latin gives the order over the Parun Authorization, canon's normal layering, and the Open Crucible's word 'authorization' for the Latin is corrected.
+
 ### R54-22-REIGAN_REACH [Queue Questionnaire 2026-09-26 WAR-92]
 
 Sodoku's Reigan reaches four hundred miles, with its blindness and eleven-second cost.
@@ -6436,7 +6502,7 @@ Wounds in mass-combat scenes are written with the same anatomy as a duel.
 
 > Yes: mass-combat scenes must still carry duel-level wound anatomy.
 
-## naming (161)
+## naming (162)
 
 ### R20C-1-BURI_DEAD_EVERYWHERE [Pack Twenty R20C-1]
 
@@ -7355,6 +7421,12 @@ A foreigner's bent pronunciation of a name is spelled as heard in dialogue (Gimb
 Every character card and place page carries a short pronunciation line.
 
 > Every character card and place page carries a short pronunciation line.
+
+### R62-4-MONOLITHION_SPELLING [Open Conflicts 2026-09-28 C-102]
+
+Spell the Materia Wellspring Monolithion everywhere, the Codex rows included.
+
+> The Materia Wellspring is spelled Monolithion; the Master Codex's 'Monlithion' rows are corrected.
 
 ### R54-1-STAGE_NUMERAL_WINS [Queue Questionnaire 2026-09-26 WAR-15]
 
@@ -10902,7 +10974,7 @@ No decade-by-decade technology page: the partner judges what is era-appropriate 
 
 > No decade-by-decade technology page: the partner judges what is era-appropriate in the Imperial Age scene by scene.
 
-## stats (122)
+## stats (124)
 
 ### R20C-30-STAGE_NAMES_FROM_FOW [Pack Twenty R20C-30]
 
@@ -11509,6 +11581,18 @@ The lettered Coherence Band gives way to the Tier of Standing everywhere.
 A practitioner whose Attraction Layer runs under Obsession Force — the corrupted inversion of Attraction Force — still satisfies an Attraction Path gate for sub-stat purposes. Obsession does not cap Attraction-gated sub-stats hard; this is a setting-wide mechanical rule covering every corrupted practitioner, not a fix scoped to one character.
 
 > Does Obsession satisfy an Attraction Path gate? Yes — Isaac's ruling, 2026-09-12. The values below stand, confirmed rather than conditional. He keeps Silence — the man who is quieter than the background stays exactly that. The ruling is general: Obsession Force satisfies an Attraction Path gate for every corrupted practitioner in the setting, not only him.
+
+### R62-1-MUJIN_24_AT_ASHGATE_38_NOW [Open Conflicts 2026-09-28 C-106]
+
+Date Mu-jin 24 on the Ashgate road and 38 now at the Academy; his pre-Ashgate card keeps Age 24.
+
+> Kwon Mu-jin was 24 on the Ashgate road and is 38 now, at the Academy. R57-01's 38 is his age at the Academy; the card dated before the Ashgate road keeps Age 24 and its 'ten years since'; the Academy pages stand; the 'forty years' lines in two scenes are recut.
+
+### R62-2-MALPHAS_TWO_LOADOUTS [Open Conflicts 2026-09-28 C-100]
+
+Give Malphas a living loadout at the Greyshaft Nine coldhouse and move the lich's figures to a later-dated section.
+
+> Malphas's card carries two dated loadouts: it keeps its Greyshaft Nine coldhouse date with a living loadout derived from his Stage then, and the lich's figures move to a second, later-dated section.
 
 ### R54-1-STAGE_NUMERAL_WINS [Queue Questionnaire 2026-09-26 WAR-15]
 
@@ -12259,7 +12343,7 @@ When the partner thinks a beat is drifting or a rule reads wrong, it says so in 
 
 > When the partner thinks a beat is drifting or a rule reads wrong, it says so in one plain line and keeps writing unless stopped.
 
-## worldbuilding (253)
+## worldbuilding (256)
 
 ### R20C-1-BURI_DEAD_EVERYWHERE [Pack Twenty R20C-1]
 
@@ -13442,6 +13526,24 @@ The earned Third Name (documented in The Standing and the Title) is conferred in
 Yukari rename at life-stage; Dawi add the oath-name at oath-taking; Elven validate or strip names publicly; Concord freezes bynames into surnames over generations; Beastkin hold name-keeping as a last resort. Which rule applies when a character moves between cultures is always specific to the characters involved and never clean.
 
 > Each culture has different triggers for name-change. The Yukari rename at life-stage transitions. The Dawi add the oath-name at oath-taking. The Elven validate or strip names publicly. The Concord system freezes bynames into surnames over generations. The Beastkin hold their name-keeping as a last resort. When a character moves between cultures, the question of which naming rules apply produces genuine conflict: does a Mahuo practitioner who swears a Dawi oath gain an oath-name? Does a Concord human adopted into a Yukari household receive a new name at coming-of-age? The answer is always specific to the characters involved, and the answer is never clean.
+
+### R62-3-THE_MOTHER_METHOD_THEN_RELIGION [Open Conflicts 2026-09-28 C-101]
+
+Write The Mother as a cult of Malphas's rot-method while he lives, turning into a religion of the Becoming afterwards.
+
+> The Mother begins as a cult of Malphas's rot-method under the living Malphas and becomes a religion of the Becoming after it; R60-24 describes the later cult, and The Mother page gains the turn.
+
+### R62-5-NO_COAL_BOILERS [Open Conflicts 2026-09-28 C-103]
+
+Nothing on the railway or in district heating burns coal; the stray coal-boiler paragraphs are cut.
+
+> The coal paragraphs are cut; R59-01 governs, and The Bearing and the Holding and The Four Ceilings lose the coal-boiler paragraph and the repeated Logistics Division sentence.
+
+### R62-9-MUJIN_OF_SUMGOL_KETSUEN [Open Conflicts 2026-09-28 C-095]
+
+Place Mu-jin's house at Sum-gol in Ketsuen; there is no Eastern Concord.
+
+> Mu-jin's card header reads 'of the house at Sum-gol, Ketsuen', matching his Lore, Ara's card and the Ketsuen page; there is no Eastern Concord.
 
 ### R54-16-STONE_BLOOD_COLD_LATENCY [Queue Questionnaire 2026-09-26 WAR-91]
 

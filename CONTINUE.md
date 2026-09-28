@@ -18,12 +18,13 @@ built from a nine-seam audit (each finding checked by a second agent). Everythin
 **Logged:** RULINGS.md "2026-09-28 — alchemy-conversion-2026-09-28" (131 numbered answers) and
 `rules/doc-alchemy-conversion-2026-09-28.yaml` (R61, 131 rows, id numeral = answer number). R18-5's
 notes record its partial amendment (R61-5, R61-6). **CONFLICTS.md C-092 to C-112** hold the canon
-self-conflicts the audit found, quotes checked by script; twelve are marked ruled by the answers, and
-**nine are open**: C-095 (Mu-jin's "Eastern Concord" header), C-100 (Malphas's As Of against his lich
-stats), C-101 (The Mother before the Becoming), C-102 (Monlithion/Monolithion), C-103 (the coal-boiler
-paragraphs against R59-01), C-106 (Mu-jin's age on the Ashgate road: R57-01 read literally against the
-Academy pages), C-107 (Aetheric Residue permanent or thinning), C-108 (over-claimed standing), C-111
-(Latin as authorization).
+self-conflicts the audit found, quotes checked by script; twelve were ruled by the answers and the other
+nine the same day (RULINGS.md "open-conflicts-2026-09-28", `rules/doc-open-conflicts-2026-09-28.yaml`, R62):
+Mu-jin 24 on the Ashgate road and 38 now; Malphas's card gets a living loadout plus a later lich loadout;
+The Mother is a method cult first, a religion of the Becoming after; Monolithion; no coal boilers;
+residue thins to a floor; Vocatia gets nothing, a Parun over-warrant takes from the body, Rimward fits
+neither; Parun carries the warrant under spoken Latin; Mu-jin is of Sum-gol, Ketsuen. None is applied to
+its pages yet.
 
 **Answers that reach past the texts, not yet applied to their pages:** answer 131 (the count stands at
 715 years from the Codex sealing, but "the Imperial Age" names the age now beginning, so the present is

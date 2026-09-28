@@ -1,6 +1,6 @@
 # Live rules by domain, with source text
 
-1073 live of 1258 extracted. Newest pack first within each domain; the newer rule governs where two overlap.
+1081 live of 1266 extracted. Newest pack first within each domain; the newer rule governs where two overlap.
 
 ## adjudication (63)
 
@@ -382,7 +382,7 @@ Isaac may take over any NPC's voice anytime by saying so; the partner hands it b
 
 > Isaac may take over any NPC's voice anytime by saying so; the partner hands it back after.
 
-## character-sheet (197)
+## character-sheet (199)
 
 ### R20C-16-SONZAI_RECORD_CARD [Pack Twenty R20C-16]
 
@@ -959,6 +959,18 @@ The commission's nudge settles, then the drift resumes and accelerates with Thom
 Mu-jin's and Malphas's cards take in the texts' events after a lore check, and the renames registry records Vis Trismegistus to Kwon Mu-jin (full name only), Oren Corrant to the new Papers author, Noxinus Ren to Malphas if Noxinus goes, and ST1's renames, with casting entries after them.
 
 > Write back and register. Both cards gain the events, checked by the lore-writing pass; the registry gains Vis Trismegistus to Kwon Mu-jin (full name only), Oren Corrant to the new author, Noxinus Ren to Malphas if Noxinus goes, and ST1's renames; casting entries follow.
+
+### R64-3-MUJIN_REFRACTION_AT_KINGS_HALL [Alftian Codex Volume I Ratification 2026-09-28 vol1 3]
+
+Mu-jin crosses into Refraction in the king's hall; his first Domain seed is nucleation under Coagulatio.
+
+> Mu-jin crosses into Refraction, Stage VII, in the king's hall, and the first seed of his Domain works as nucleation under Coagulatio.
+
+### R64-4-VOL1_CAST_INVENTORIES_CANON [Alftian Codex Volume I Ratification 2026-09-28 vol1 4]
+
+Volume I's physical descriptions of its cast are canon.
+
+> Volume I's physical descriptions of Malphas living, Furveus, Neros, Penn, Venur, Draycott, Strom, Asclepius and the king are canon.
 
 ### R57-01-KWON_MU_JIN_IS_38 [Rulings Backfill 2026-09-26 2026-09-18 — new]
 
@@ -1569,7 +1581,7 @@ Room casting is by ear: the partner casts for the scene and fixes voice likeness
 
 > Room casting is by ear: the partner casts for the scene and fixes voice likeness only when the swap test fails.
 
-## codex (109)
+## codex (110)
 
 ### R20C-41-CHANTCRAFT_FIFTH_CRAFT [Pack Twenty R20C-41]
 
@@ -2128,6 +2140,12 @@ The drift is the Continuum's delayed answer by correspondence, with no energy re
 Both converted texts become wiki pages beside the three Codex volumes, so the section holds five pages and the cross-references resolve, and the texts' sealing and clearance labels read as in-world labels on the public pages.
 
 > Publish both under The Alftian Codex section. Five pages sit together; Volume III's references and the Halveth line resolve; the INDEX section grows from three pages to five. 'Sealed' and 'Level VI' become in-world labels on public pages.
+
+### R64-5-VENUR_AMULET_CHARM [Alftian Codex Volume I Ratification 2026-09-28 vol1 5]
+
+Venur's amulet is an Old High Runic Charm chained Recall, Continuum, Binding.
+
+> Venur's amulet is a Charm cut in Old High Runic, chained [Ma] Recall, [Ir] Continuum, [Lei] Binding; its maker paid once and the wearer pays nothing.
 
 ### R27-1-CYMORATH_AIR_OF_ASCENT_FROST_ON_VOHRIN [Cymorath Portfolio Ruling Standing Ruling]
 
@@ -3669,7 +3687,7 @@ Narration refers to characters by POV epithets, the way the viewpoint sees them;
 
 > Narration refers to characters by POV epithets, the way the viewpoint sees them; the naming characterises.
 
-## documents (85)
+## documents (87)
 
 ### R20C-3-SWEEP_TWO_TIERS [Pack Twenty R20C-3]
 
@@ -4085,6 +4103,18 @@ The count runs 715 years from the sealing of the Codex, 'the Imperial Age' names
 
 > The count stands: it runs 715 years from the sealing of the Codex (C-084). 'The Imperial Age' names only the age of empire and industry now beginning, so the present is Year 715 of the count and the early years of the Imperial Age. The Concordance's Voyager Era, Long Reckoning and Withering Era become the count's earlier ages under new names, and the 1800s-to-1900s span (R53-01) starts recently. The texts carry Imperial-Age years.
 
+### R64-1-VOL1_IS_MUJIN_MEMOIR_696 [Alftian Codex Volume I Ratification 2026-09-28 vol1 1]
+
+Volume I is Mu-jin's memoir, deposited 696 IC; his reads are canon, his errors stay errors.
+
+> The Alftian Codex, Volume the First, is Kwon Mu-jin's memoir, deposited in 696 IC, and stands as published. What he states from a read is canon; what he states in error (that nothing that has been is erased) stays his error.
+
+### R64-2-VOL1_TITLE_GAMEUNG_NOK [Alftian Codex Volume I Ratification 2026-09-28 vol1 2]
+
+Mu-jin's own title for the book is Gameung-nok.
+
+> Mu-jin's own title for the book is Gameung-nok, glossed on the page only as his house's word for correspondence.
+
 ### R57-07-DOCUMENTS_FULLY_METAPHYSICAL [Rulings Backfill 2026-09-26 2026-09-24 — R12-3-DESIGN_CHAIN_RETURNS]
 
 Cards, ability entries, items, lore, in-world documents and exports print stats, Grades, Bands, Stage, EU, AU/s, eta, Crystal State and Category; empty fields stay flagged pending.
@@ -4181,7 +4211,7 @@ Isaac's direction of 2026-09-12 overtakes the two pending rows that kept the pac
 
 > Superseded by Isaac's direction of 2026-09-12 to fold the packs into dated base-guide editions ("yes — start folding the packs in now"); eleven guides are folded, the remaining six follow the same way.
 
-## items (60)
+## items (61)
 
 ### R20C-22-AMMUNITION_TIERS_RATIFIED [Pack Twenty R20C-22]
 
@@ -4386,6 +4416,12 @@ Beyond the general counters, a Category One reading finds identity-shaped carry 
 The investigator names the circle's ink as Gravetide Ink only when the Genesio analysis comes back, and the site holds two glyph roles: the circle is the Boundary in Gravetide Ink and the Category Three seal is the Sealing in Gravemark Ink.
 
 > Gravetide Ink, named when the Genesio analysis returns. Keeps the caution beat. A later entry names it from the sample, giving the reader a findable piece and tying the circle to the Boundary role. The circle is the Boundary (Gravetide Ink); the Category Three seal is the Sealing (Gravemark Ink, GL7): two glyph roles on one site.
+
+### R64-5-VENUR_AMULET_CHARM [Alftian Codex Volume I Ratification 2026-09-28 vol1 5]
+
+Venur's amulet is an Old High Runic Charm chained Recall, Continuum, Binding.
+
+> Venur's amulet is a Charm cut in Old High Runic, chained [Ma] Recall, [Ir] Continuum, [Lei] Binding; its maker paid once and the wearer pays nothing.
 
 ### R57-07-DOCUMENTS_FULLY_METAPHYSICAL [Rulings Backfill 2026-09-26 2026-09-24 — R12-3-DESIGN_CHAIN_RETURNS]
 
@@ -5211,7 +5247,7 @@ The Phenomenon Bank becomes a growing library: every researched phenomenon (and 
 
 > The Phenomenon Bank becomes a growing library: every researched phenomenon (and pseudoscientific idea) is added for future workings and players to draw from.
 
-## magic-mechanism (174)
+## magic-mechanism (177)
 
 ### R20C-17-SITES_RECHARGE_UNHELPFULLY [Pack Twenty R20C-17]
 
@@ -5975,6 +6011,24 @@ God-Essence means Wellspring Essence treated as divine and adds no metaphysics: 
 
 > An Antediluvian site, worked before that Calendar closed. Genesio becomes one of the Guild's surveyed sources, its old hall built on the Wellspring. The unpublished finding on what those sites 'are now doing' becomes the texts' reason Genesio pushes back when drawn.
 
+### R64-3-MUJIN_REFRACTION_AT_KINGS_HALL [Alftian Codex Volume I Ratification 2026-09-28 vol1 3]
+
+Mu-jin crosses into Refraction in the king's hall; his first Domain seed is nucleation under Coagulatio.
+
+> Mu-jin crosses into Refraction, Stage VII, in the king's hall, and the first seed of his Domain works as nucleation under Coagulatio.
+
+### R64-5-VENUR_AMULET_CHARM [Alftian Codex Volume I Ratification 2026-09-28 vol1 5]
+
+Venur's amulet is an Old High Runic Charm chained Recall, Continuum, Binding.
+
+> Venur's amulet is a Charm cut in Old High Runic, chained [Ma] Recall, [Ir] Continuum, [Lei] Binding; its maker paid once and the wearer pays nothing.
+
+### R64-6-CASTLEFALL_RILL_GENESIO_RIPTIDE [Alftian Codex Volume I Ratification 2026-09-28 vol1 6]
+
+Castlefall reads Rill; the Genesio hall is a Spirit-type Riptide site.
+
+> Castlefall's ground reads Rill. The hall under Genesio is a Spirit-type site on the Riptide rung.
+
 ### R57-03-JUGGERNAUTS_FIST_CONTACT [Rulings Backfill 2026-09-26 2026-09-22 — new]
 
 Any contact with Hiromi's Juggernaut's Fist counts as a landed strike, parried or blocked included, and each contact deepens a gravity well on the struck body.
@@ -6526,7 +6580,7 @@ Wounds in mass-combat scenes are written with the same anatomy as a duel.
 
 > Yes: mass-combat scenes must still carry duel-level wound anatomy.
 
-## naming (162)
+## naming (163)
 
 ### R20C-1-BURI_DEAD_EVERYWHERE [Pack Twenty R20C-1]
 
@@ -6863,6 +6917,12 @@ Mu-jin's and Malphas's cards take in the texts' events after a lore check, and t
 The count runs 715 years from the sealing of the Codex, 'the Imperial Age' names only the age of empire and industry now beginning, the Voyager Era, Long Reckoning and Withering Era become the count's earlier ages under new names, and the texts carry Imperial-Age years.
 
 > The count stands: it runs 715 years from the sealing of the Codex (C-084). 'The Imperial Age' names only the age of empire and industry now beginning, so the present is Year 715 of the count and the early years of the Imperial Age. The Concordance's Voyager Era, Long Reckoning and Withering Era become the count's earlier ages under new names, and the 1800s-to-1900s span (R53-01) starts recently. The texts carry Imperial-Age years.
+
+### R64-2-VOL1_TITLE_GAMEUNG_NOK [Alftian Codex Volume I Ratification 2026-09-28 vol1 2]
+
+Mu-jin's own title for the book is Gameung-nok.
+
+> Mu-jin's own title for the book is Gameung-nok, glossed on the page only as his house's word for correspondence.
 
 ### R57-06-EDMUND_LAMBERT [Rulings Backfill 2026-09-26 2026-09-24 — new]
 
@@ -10678,7 +10738,7 @@ When the partner thinks a beat is drifting or a rule reads wrong, it says so in 
 
 > When the partner thinks a beat is drifting or a rule reads wrong, it says so in one plain line and keeps writing unless stopped.
 
-## standing-inventory (53)
+## standing-inventory (54)
 
 ### R20C-47-CRAFTS_OWE_THE_INVENTORY [Pack Twenty R20C-47]
 
@@ -10757,6 +10817,12 @@ Elegy attaches to a named concrete, specific thing that is gone (a road, a dye c
 A loaded word gets one physical response on first use and no comment; meaning arrives on the third appearance through change — another character uses it, the usual user withholds it, or register makes earlier uses retroactively legible. Withholding is the strongest of the three.
 
 > A loaded word gets one physical response on first use and no comment at all. Meaning arrives on the third appearance, and it arrives through change: someone else uses the word, or the person who always uses it withholds it, or it lands in a register that makes the earlier uses retroactively legible. Withholding is the strongest of the three.
+
+### R64-7-WEIGHT_BRED_FOLK_BELIEF [Alftian Codex Volume I Ratification 2026-09-28 vol1 7]
+
+Weight-bred drakes are a hunters' folk belief; Penn's father Ralf died hunting one.
+
+> Weight-bred is a drake-hunters' folk belief: a drake hatched the year the Weight returns to its station is the worst of its kind. Penn Ralfsohn's father Ralf hunted drakes under a guild licence and did not come back from one.
 
 ### R60-07-COMMERCE_ON_THE_PAGE [Combat, Society and Politics Law 2026-09-26 Combat, society and politics]
 
@@ -10998,7 +11064,7 @@ No decade-by-decade technology page: the partner judges what is era-appropriate 
 
 > No decade-by-decade technology page: the partner judges what is era-appropriate in the Imperial Age scene by scene.
 
-## stats (124)
+## stats (125)
 
 ### R20C-30-STAGE_NAMES_FROM_FOW [Pack Twenty R20C-30]
 
@@ -11323,6 +11389,12 @@ Category One needs Flourishing, Two needs Glory and Three needs Refraction plus 
 Mu-jin reads EU, η and site density whenever he takes off his spectacles, Malphas prices each Category as a share of reserve by Stage, and the investigator logs readings at scenes, while the impression-body's cost, Genesio's density and the drift's scale are derived and never invented.
 
 > Each author states figures as their instruments give them. Mu-jin reads EU, η and site density whenever he removes his spectacles; Malphas prices each Category as a share of reserve by Stage; the investigator logs readings at scenes. The impression-body's cost, Genesio's density and the drift's scale are derived.
+
+### R64-3-MUJIN_REFRACTION_AT_KINGS_HALL [Alftian Codex Volume I Ratification 2026-09-28 vol1 3]
+
+Mu-jin crosses into Refraction in the king's hall; his first Domain seed is nucleation under Coagulatio.
+
+> Mu-jin crosses into Refraction, Stage VII, in the king's hall, and the first seed of his Domain works as nucleation under Coagulatio.
 
 ### R57-12-RUNG_I1_GENERAL_SENTENCE [Rulings Backfill 2026-09-26 2026-09-25 — new (rules for ruling, I-1)]
 
@@ -12367,7 +12439,7 @@ When the partner thinks a beat is drifting or a rule reads wrong, it says so in 
 
 > When the partner thinks a beat is drifting or a rule reads wrong, it says so in one plain line and keeps writing unless stopped.
 
-## worldbuilding (259)
+## worldbuilding (264)
 
 ### R20C-1-BURI_DEAD_EVERYWHERE [Pack Twenty R20C-1]
 
@@ -12926,6 +12998,36 @@ God-Essence means Wellspring Essence treated as divine and adds no metaphysics: 
 The count runs 715 years from the sealing of the Codex, 'the Imperial Age' names only the age of empire and industry now beginning, the Voyager Era, Long Reckoning and Withering Era become the count's earlier ages under new names, and the texts carry Imperial-Age years.
 
 > The count stands: it runs 715 years from the sealing of the Codex (C-084). 'The Imperial Age' names only the age of empire and industry now beginning, so the present is Year 715 of the count and the early years of the Imperial Age. The Concordance's Voyager Era, Long Reckoning and Withering Era become the count's earlier ages under new names, and the 1800s-to-1900s span (R53-01) starts recently. The texts carry Imperial-Age years.
+
+### R64-1-VOL1_IS_MUJIN_MEMOIR_696 [Alftian Codex Volume I Ratification 2026-09-28 vol1 1]
+
+Volume I is Mu-jin's memoir, deposited 696 IC; his reads are canon, his errors stay errors.
+
+> The Alftian Codex, Volume the First, is Kwon Mu-jin's memoir, deposited in 696 IC, and stands as published. What he states from a read is canon; what he states in error (that nothing that has been is erased) stays his error.
+
+### R64-4-VOL1_CAST_INVENTORIES_CANON [Alftian Codex Volume I Ratification 2026-09-28 vol1 4]
+
+Volume I's physical descriptions of its cast are canon.
+
+> Volume I's physical descriptions of Malphas living, Furveus, Neros, Penn, Venur, Draycott, Strom, Asclepius and the king are canon.
+
+### R64-6-CASTLEFALL_RILL_GENESIO_RIPTIDE [Alftian Codex Volume I Ratification 2026-09-28 vol1 6]
+
+Castlefall reads Rill; the Genesio hall is a Spirit-type Riptide site.
+
+> Castlefall's ground reads Rill. The hall under Genesio is a Spirit-type site on the Riptide rung.
+
+### R64-7-WEIGHT_BRED_FOLK_BELIEF [Alftian Codex Volume I Ratification 2026-09-28 vol1 7]
+
+Weight-bred drakes are a hunters' folk belief; Penn's father Ralf died hunting one.
+
+> Weight-bred is a drake-hunters' folk belief: a drake hatched the year the Weight returns to its station is the worst of its kind. Penn Ralfsohn's father Ralf hunted drakes under a guild licence and did not come back from one.
+
+### R64-8-MAELOR_EDICT_OVER_ARCHIVUM [Alftian Codex Volume I Ratification 2026-09-28 vol1 8]
+
+Maelor's edict is cut over the Genesio Archivum's door.
+
+> Maelor's edict, "Nothing is lost, only waiting to be remembered", is cut over the door of the Genesio Archivum.
 
 ### R57-01-KWON_MU_JIN_IS_38 [Rulings Backfill 2026-09-26 2026-09-18 — new]
 

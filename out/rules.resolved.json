@@ -21631,6 +21631,255 @@
     "superseded_by": []
   },
   {
+    "id": "R64-1-VOL1_IS_MUJIN_MEMOIR_696",
+    "pack": "Alftian Codex Volume I Ratification 2026-09-28",
+    "pack_number": null,
+    "section": "vol1 1",
+    "title": "Volume I is Mu-jin's memoir, deposited 696 IC; his reads are canon, his errors stay errors",
+    "status": "live",
+    "kind": "definition",
+    "summary": "Volume I is Mu-jin's memoir, deposited 696 IC; his reads are canon, his errors stay errors.",
+    "verbatim": "The Alftian Codex, Volume the First, is Kwon Mu-jin's memoir, deposited in 696 IC, and stands as published. What he states from a read is canon; what he states in error (that nothing that has been is erased) stays his error.",
+    "amends": [
+      {
+        "guide": "The Alftian Codex and the cards it names",
+        "locus": "Volume the First",
+        "operation": "adds"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "documents",
+      "worldbuilding"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-28, Claude Code chat: approved the rebuilt Volume I ('go')",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "",
+    "superseded_by": []
+  },
+  {
+    "id": "R64-2-VOL1_TITLE_GAMEUNG_NOK",
+    "pack": "Alftian Codex Volume I Ratification 2026-09-28",
+    "pack_number": null,
+    "section": "vol1 2",
+    "title": "Mu-jin's own title for the book is Gameung-nok",
+    "status": "live",
+    "kind": "definition",
+    "summary": "Mu-jin's own title for the book is Gameung-nok.",
+    "verbatim": "Mu-jin's own title for the book is Gameung-nok, glossed on the page only as his house's word for correspondence.",
+    "amends": [
+      {
+        "guide": "The Alftian Codex and the cards it names",
+        "locus": "Volume the First",
+        "operation": "adds"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "naming",
+      "documents"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-28, Claude Code chat: approved the rebuilt Volume I ('go')",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "",
+    "superseded_by": []
+  },
+  {
+    "id": "R64-3-MUJIN_REFRACTION_AT_KINGS_HALL",
+    "pack": "Alftian Codex Volume I Ratification 2026-09-28",
+    "pack_number": null,
+    "section": "vol1 3",
+    "title": "Mu-jin crosses into Refraction in the king's hall; his first Domain seed is nucleation under Coagulatio",
+    "status": "live",
+    "kind": "definition",
+    "summary": "Mu-jin crosses into Refraction in the king's hall; his first Domain seed is nucleation under Coagulatio.",
+    "verbatim": "Mu-jin crosses into Refraction, Stage VII, in the king's hall, and the first seed of his Domain works as nucleation under Coagulatio.",
+    "amends": [
+      {
+        "guide": "The Alftian Codex and the cards it names",
+        "locus": "Volume the First",
+        "operation": "adds"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "character-sheet",
+      "magic-mechanism",
+      "stats"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-28, Claude Code chat: approved the rebuilt Volume I ('go')",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "",
+    "superseded_by": []
+  },
+  {
+    "id": "R64-4-VOL1_CAST_INVENTORIES_CANON",
+    "pack": "Alftian Codex Volume I Ratification 2026-09-28",
+    "pack_number": null,
+    "section": "vol1 4",
+    "title": "Volume I's physical descriptions of its cast are canon",
+    "status": "live",
+    "kind": "definition",
+    "summary": "Volume I's physical descriptions of its cast are canon.",
+    "verbatim": "Volume I's physical descriptions of Malphas living, Furveus, Neros, Penn, Venur, Draycott, Strom, Asclepius and the king are canon.",
+    "amends": [
+      {
+        "guide": "The Alftian Codex and the cards it names",
+        "locus": "Volume the First",
+        "operation": "adds"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "character-sheet",
+      "worldbuilding"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-28, Claude Code chat: approved the rebuilt Volume I ('go')",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "",
+    "superseded_by": []
+  },
+  {
+    "id": "R64-5-VENUR_AMULET_CHARM",
+    "pack": "Alftian Codex Volume I Ratification 2026-09-28",
+    "pack_number": null,
+    "section": "vol1 5",
+    "title": "Venur's amulet is an Old High Runic Charm chained Recall, Continuum, Binding",
+    "status": "live",
+    "kind": "definition",
+    "summary": "Venur's amulet is an Old High Runic Charm chained Recall, Continuum, Binding.",
+    "verbatim": "Venur's amulet is a Charm cut in Old High Runic, chained [Ma] Recall, [Ir] Continuum, [Lei] Binding; its maker paid once and the wearer pays nothing.",
+    "amends": [
+      {
+        "guide": "The Alftian Codex and the cards it names",
+        "locus": "Volume the First",
+        "operation": "adds"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "items",
+      "codex",
+      "magic-mechanism"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-28, Claude Code chat: approved the rebuilt Volume I ('go')",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "",
+    "superseded_by": []
+  },
+  {
+    "id": "R64-6-CASTLEFALL_RILL_GENESIO_RIPTIDE",
+    "pack": "Alftian Codex Volume I Ratification 2026-09-28",
+    "pack_number": null,
+    "section": "vol1 6",
+    "title": "Castlefall reads Rill; the Genesio hall is a Spirit-type Riptide site",
+    "status": "live",
+    "kind": "definition",
+    "summary": "Castlefall reads Rill; the Genesio hall is a Spirit-type Riptide site.",
+    "verbatim": "Castlefall's ground reads Rill. The hall under Genesio is a Spirit-type site on the Riptide rung.",
+    "amends": [
+      {
+        "guide": "The Alftian Codex and the cards it names",
+        "locus": "Volume the First",
+        "operation": "adds"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "worldbuilding",
+      "magic-mechanism"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-28, Claude Code chat: approved the rebuilt Volume I ('go')",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "",
+    "superseded_by": []
+  },
+  {
+    "id": "R64-7-WEIGHT_BRED_FOLK_BELIEF",
+    "pack": "Alftian Codex Volume I Ratification 2026-09-28",
+    "pack_number": null,
+    "section": "vol1 7",
+    "title": "Weight-bred drakes are a hunters' folk belief; Penn's father Ralf died hunting one",
+    "status": "live",
+    "kind": "definition",
+    "summary": "Weight-bred drakes are a hunters' folk belief; Penn's father Ralf died hunting one.",
+    "verbatim": "Weight-bred is a drake-hunters' folk belief: a drake hatched the year the Weight returns to its station is the worst of its kind. Penn Ralfsohn's father Ralf hunted drakes under a guild licence and did not come back from one.",
+    "amends": [
+      {
+        "guide": "The Alftian Codex and the cards it names",
+        "locus": "Volume the First",
+        "operation": "adds"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "worldbuilding",
+      "standing-inventory"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-28, Claude Code chat: approved the rebuilt Volume I ('go')",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "",
+    "superseded_by": []
+  },
+  {
+    "id": "R64-8-MAELOR_EDICT_OVER_ARCHIVUM",
+    "pack": "Alftian Codex Volume I Ratification 2026-09-28",
+    "pack_number": null,
+    "section": "vol1 8",
+    "title": "Maelor's edict is cut over the Genesio Archivum's door",
+    "status": "live",
+    "kind": "definition",
+    "summary": "Maelor's edict is cut over the Genesio Archivum's door.",
+    "verbatim": "Maelor's edict, \"Nothing is lost, only waiting to be remembered\", is cut over the door of the Genesio Archivum.",
+    "amends": [
+      {
+        "guide": "The Alftian Codex and the cards it names",
+        "locus": "Volume the First",
+        "operation": "adds"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "worldbuilding"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-28, Claude Code chat: approved the rebuilt Volume I ('go')",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "",
+    "superseded_by": []
+  },
+  {
     "id": "R1-1-BLACK_AGENT_ASSIGNED",
     "pack": "Pack One",
     "pack_number": 1,

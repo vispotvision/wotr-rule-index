@@ -2304,3 +2304,11 @@ Isaac approved the rebuilt Alftian Codex, Volume the Second, with no changes. Ra
 The rest of the draft's list of new material, as its author notes set it out, is ratified with the volume.
 
 Context: Isaac said 'go' in Claude Code chat on 2026-09-28 after reading the Volume II draft and its list of 44 invented items; no swaps.
+
+## 2026-09-28 — alftian-vol3-direction-2026-09-28
+
+Isaac's direction for The Alftian Codex, Volume the Third:
+1. Volume III is about Kwon Mu-jin becoming a teacher: he teaches the children of Sum-gol, and then goes from one place to another teaching people.
+2. In Volume III Mu-jin meets Frithia, his wife, whom he met in Vaeloris.
+
+Context: Isaac, Claude Code chat 2026-09-28, after Volume II was published: 'I do like the idea of the volume three be about he becomes a teacher and teaches sum-gol children and goes from one place to the other teaching people, + him meeting his wife frithia... frithia is someone he met in Vaeloris'.

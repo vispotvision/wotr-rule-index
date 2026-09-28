@@ -571,3 +571,15 @@
   opened_session: 1
   due: 2
   status: open
+- id: L060
+  category: who knows what
+  who: Rovhen Talvasciel
+  text: 'Holds: the cased plate from row six (PROB EST, quarter punch struck twice, off true) against
+    Harrowgate''s quarterly-proofing lie; five Class S names on his roll in a narrow pen not the registrar''s;
+    the Visitation meter creeping backward and the dispensary meter dead still; Joan''s three mended cuts
+    and her ''nail'' lie; Walter Aldery''s lamp upright on the third step, glass whole, and the missing
+    marbled daybook; Nyxeria arriving without the door, dry flags, wet hem.'
+  opened: '2026-09-28'
+  opened_session: 1
+  due: 3
+  status: open

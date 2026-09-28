@@ -55,8 +55,18 @@ Alchemy page, written from the conversion research).
 
 **Order of work (ME3):** Volume I, Volume II, the Papers, Volume III, the Necrocursica's sealed edition,
 one document per commit; each published to Notion in-session with a fresh docx beside the original in
-`~/wotr-vault/true-canon/` (ME4), then cards written back and renames registered (ME2). Volume I is being
-drafted in `/tmp/wotr-drafts/alftian-codex-vol1.md` (brief, names and rules digest beside it).
+`~/wotr-vault/true-canon/` (ME4), then cards written back and renames registered (ME2).
+
+**Volume I is published** (Isaac's "go", RULINGS.md "alftian-vol1-2026-09-28", rules R64 ratify its
+inventions): Notion page Volume the First rewritten in place; `THE-ALFTIAN-CODEX-VOLUME-THE-FIRST-KWON-MU-JIN.docx`
+beside the original in the vault (dark ground, gold EB Garamond; builder `codex_docx.js` is a scratch script,
+recreate from the docx skill if needed); draft, notes, brief, names and rules digest in
+`imports/drafts/alchemy-conversion/vol1/`. Settled there: Gameung-nok; Gillus → Gisli Draycott, Vaughaus Thom →
+Ivor Strom, Jabir → Venur, the claw monk → Penn Ralfsohn; Mu-jin born 677 IC, Volume I covers 14–19, stamped 696 IC.
+**Volume II is in progress** (workflow, drafts in `/tmp/wotr-drafts/alftian-*-vol2*`): the lead's call is that it
+runs 19 to about 23, stamped about 700 IC, before the Ashgate road, carrying Doyun (K3's "about nineteen" was an
+estimate). The Lore & History overview page "The Alftian Codex" still describes Vis's edition; rebuild it after
+Volume III.
 
 ## State on 2026-09-26 (the magic docket questionnaire, applied)
 

@@ -1447,3 +1447,30 @@ the author notes."
 **Consequence if unresolved:** Volume III and the Ashgate scenes cannot state his Stage or reserve without breaking either the Codex's read or the card, and the Papers cannot date his rise.
 **Recommendation:** none.
 **Status:** open
+
+## C-122 — The Hollow Grade's strike energy is "below 60 J" in the living system pages and "40 to 300 J" in the Fracture of Worlds source table
+
+**Rules:** `wiki/Fracture of Worlds — The Living System/II. Grades, Gates and Thresholds (Parts Four–Ten).md` (the Grade table) and `wiki/Fracture of Worlds — The Living System/III. Physical Force (Part Eleven).md` (the physical table) vs `~/wotr-vault/true-canon/Fracture of Worlds.md` (the physical table) and the FOW workbook's Physical Benchmarks sheet
+**The clash:** Both living-system tables give an untrained or athletic human punch, the Hollow row, as below 60 joules. The source document's physical table gives the same row as 40 to 300 joules, and its own F-Grade prose starts attack output at 60 to 300 joules, which the 40 to 300 figure overlaps.
+**Quotes:** II. Grades, Gates and Thresholds (Parts Four–Ten): "| Hollow | 1–10 | below 60 J | below 12.4 m/s |" · III. Physical Force (Part Eleven): "| Hollow | 1–10 | 200–800 N | below 60 J | — | Untrained to athletic human punch |" · Fracture of Worlds.md: "| Hollow | 1–10 | 200–800 N | 40–300 J | — | Untrained to athletic human punch |" · Fracture of Worlds.md: "Attack output equivalent to 60 to 300 J"
+**Consequence if unresolved:** No card for an unwoken person (Class Ø, capped at Hollow) can print a strike energy, and an adjudicated blow from one has no fixed ceiling.
+**Recommendation:** none.
+**Status:** open
+
+## C-123 — Class Ø permits no stat output above Hollow; the Weathering gives an unwoken man grain that outperforms a practitioner three Stages up
+
+**Rules:** `wiki/Fracture of Worlds — The Living System/VII. Aether Class, Essence Typology, Aether Flow (Parts Seventeen–Nineteen).md` (Class Ø) vs `wiki/The Magic System/The Trait System Law, Function and the Forge.md` (the Weathering) and `wiki/The Magic System/The Derivation of Practice — Thaumaturgic and Theurgic.md` (grain)
+**The clash:** Aether Class Ø is written as a hard cap: no stat output above Hollow. The Weathering pages give weathered commoners grain, single-axis and real, that outperforms an unspecialised practitioner three Stages above them in its one direction. A practitioner three Stages above an unwoken man sits well above Hollow in the stat that would carry it, so either grain exceeds the cap or the cap does not bind grain.
+**Quotes:** VII. Aether Class, Essence Typology, Aether Flow (Parts Seventeen–Nineteen): "No stat output above Hollow Grade is possible." · The Trait System Law, Function and the Forge: "A fisherman weathered by forty years of cold water acquires a cold tolerance that will outperform an unspecialised practitioner three Stages above him." · The Derivation of Practice — Thaumaturgic and Theurgic: "Grain is a resonance tunnel with no woken Crystal behind it."
+**Consequence if unresolved:** A card for a weathered unwoken person (Orin Farrant, Akira Yukari, any commoner with grain) cannot print a Grade for the grain, and an adjudication cannot say whether grain beats a Stage-III gap.
+**Recommendation:** none.
+**Status:** open
+
+## C-124 — Pressure is counted in Stages of gap between practitioners; a person with no Stage has no gap to count, and canon gives only the Grade-keyed Aura table and "felt as dread"
+
+**Rules:** `desktop/NATALIE.md` (The Magic Frame, Pressure) vs `wiki/Fracture of Worlds — The Living System/III. Physical Force (Part Eleven).md` (Aura Pressure) and R53-14 (ordinary people and Pressure)
+**The clash:** The table's Pressure law counts in Stages: one Stage up bends attention, two brings sweat and nausea, three or more drops people. A Class Ø person has no Stage, so no gap can be counted against them. The Aura section keys its effects to the practitioner's Grade and to the gap between Tiers, and R53-14 says only that ordinary people feel Pressure as dread. No rule says how many Stages of gap an unwoken observer counts as, or when one drops.
+**Quotes:** NATALIE.md: "One Stage up bends attention; two, sweat and nausea; three or more drops people" · III. Physical Force (Part Eleven): "At **F through D**, Aura Pressure is perceptual rather than physical." · R53-14: "Pressure is felt as dread; they could not name a Stage and use folk words."
+**Consequence if unresolved:** Every scene where a practitioner lets their weight go near an unwoken investigator, clerk or commoner has to invent the effect, and cards for the unwoken cannot state a resistance to Pressure.
+**Recommendation:** none.
+**Status:** open

@@ -23,3 +23,5 @@
   - knows: The chain on the north gate; Rovhen was in the Visitation Room at noon
 **Agnes Tull** · wants: To know things first; knowing things is a porter's only currency. · refuses: Won't cross the Visitation threshold. · last seen: Visitation wing door (The Sort)
   - has lied about: Master Kwon caught the arrow bare-handed (believes it); The masked lad put an arrow through the sky-glass (believes it)
+**Proctor Wenna Crale** · wants: The night register quiet. · refuses: 'Last bell's the last bell.' Nothing opens after it, for anyone. · last seen: East corridor, an hour before last bell (After the Lecture)
+  - knows: Let the Visitation runner in before last bell; Looked at the dry flags in the dispensary

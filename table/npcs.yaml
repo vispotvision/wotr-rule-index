@@ -130,3 +130,14 @@
   last_seen: Visitation wing door (The Sort)
   voice: Fast, circles back, 'they say,' a whistle through a missing front tooth.
   last_updated: '2026-09-28'
+- name: Proctor Wenna Crale
+  thread: Mu-jin
+  want: The night register quiet.
+  refusal_line: '''Last bell''s the last bell.'' Nothing opens after it, for anyone.'
+  knows:
+  - Let the Visitation runner in before last bell
+  - Looked at the dry flags in the dispensary
+  lied_about: []
+  last_seen: East corridor, an hour before last bell (After the Lecture)
+  voice: Flat; doesn't wait to be asked.
+  last_updated: '2026-09-28'

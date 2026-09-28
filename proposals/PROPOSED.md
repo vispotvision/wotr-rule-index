@@ -213,3 +213,14 @@ The Master Codex row for [Ir] Continuum ('Preserves causal traceability across t
 *Why:* Needed for Rovhen's Tuned Signature; Fulguria answers to charge and resonance.
 
 *Session:* Aetherion / Rovhen, 2026-09-27
+
+## 2026-09-28 — Accord Inventory entries from the Aetherion scenes
+
+**Status:** proposed
+**applies_to:** standing-inventory
+
+Enter in the Accord Standing Inventory: 'rings like a wet boot' (a cased plate or weight); the Finding of Cause form; the ward plate's quarter punch beside PROB EST; 'inquiry agent, Lambert's' as a signature clerks honour; the Stannvaard fish-pier eel stall (gone, now whelks) as elegy texture; the Board keeping a struck agent's seal.
+
+*Why:* R6-9 recurrence rule: texture invented in play is entered the same session.
+
+*Session:* Aetherion / Rovhen, 2026-09-24 to 09-27

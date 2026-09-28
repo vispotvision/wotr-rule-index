@@ -23,15 +23,35 @@ nine the same day (RULINGS.md "open-conflicts-2026-09-28", `rules/doc-open-confl
 Mu-jin 24 on the Ashgate road and 38 now; Malphas's card gets a living loadout plus a later lich loadout;
 The Mother is a method cult first, a religion of the Becoming after; Monolithion; no coal boilers;
 residue thins to a floor; Vocatia gets nothing, a Parun over-warrant takes from the body, Rimward fits
-neither; Parun carries the warrant under spoken Latin; Mu-jin is of Sum-gol, Ketsuen. None is applied to
-its pages yet.
+neither; Parun carries the warrant under spoken Latin; Mu-jin is of Sum-gol, Ketsuen.
 
-**Answers that reach past the texts, not yet applied to their pages:** answer 131 (the count stands at
-715 years from the Codex sealing, but "the Imperial Age" names the age now beginning, so the present is
-Year 715 and the early Imperial Age; the Concordance of Ages and ~67 IC-dated pages still read the old
-way, C-112); K4 (residues, the Volitional Trace and impression-bodies become system canon: The Crossing,
-Lexicon, Magical Categories); K6 and K5 (Calcination and Distillation are bench operations; Sublimatio
-is sublimation: R18-5's text, Alchemetrica, Mu-jin's card and ~10 cards need the sweep).
+**Calendar (RULINGS.md "calendar-2026-09-28", R63):** IC reads "In Concordance"; the Imperial Age began in
+690 IC and overlaps the Withering Era; the eras keep their names. Present = 715 IC, the Imperial Age's 25th year.
+
+**Applied to Notion the same day** (plans in `/tmp/wotr-drafts/conflict-plans/`, each dry-run, checked by a
+second agent, then applied with `build/apply_md_edits.py`; child blocks the tool cannot reach were deleted or
+patched by block id):
+- Calendar: the Concordance of Ages (fourth age renamed "In Concordance", a new Imperial Age subsection
+  and table row, rail dated from 690 IC), The Four Ceilings, Aether Infrastructure, the Errata, The Sky the
+  Hour and the Year, and ~15 pages carrying "Imperial Year" stamps (now "Year NNN IC").
+- C-092/093 (Calcination and Distillation bench operations; Sublimatio = sublimation, Sublimare =
+  distillation) across Alchemetrica, Mu-jin's card, The Open Crucible, Spirit Rune Arts and eight cards;
+  Gonju, Morphaene, Thalyndros and Kytheris renamed to Sublimatio with their mechanic kept. C-102
+  Monolithion everywhere, scenes/Kami-No-Kobushi.md included.
+- C-094/095 Sum-gol; C-096 no Draft refills a reserve; C-097 Trait tissue stays as passive carry; C-098
+  Open Crucible glyphs renamed to Index codes, Spirit Rune Arts labelled an older register; C-099 Geturo 15,
+  Hiromi 13, Lily 12; C-100 Malphas's card split into a living and a lich loadout; C-101 The Mother;
+  C-103 coal and boiler paragraphs deleted; C-105 Errata; C-107 residue floor; C-108 Counted Speech;
+  C-109 bench Tiers to Five; C-111 Parun carries the warrant.
+- C-106 in scenes: scene 10 and its compiled arc copy "twenty years"; the Arena scene recut to 38.
+- **Still open:** C-100 needs Isaac's living figures for Malphas (Stage IX to XIII, Level ≤ 475, pool,
+  stats, Peaks, Path, η; the card carries only what canon fixes). C-113 (five cards dated 739–746 IC)
+  and C-114 (Gate Network "Withering Age" vs Year 003) are new and open. R18-5's text and the Stat Sheet
+  rows for the re-pointed cards are not yet swept. The Five Beastkin Lineages keeps the old glyph names.
+
+**Answers that reach past the texts, not yet applied:** K4 (residues, the Volitional Trace and
+impression-bodies become system canon: The Crossing, Lexicon, Magical Categories); C-110 (The Real
+Alchemy page, written from the conversion research).
 
 **Order of work (ME3):** Volume I, Volume II, the Papers, Volume III, the Necrocursica's sealed edition,
 one document per commit; each published to Notion in-session with a fresh docx beside the original in

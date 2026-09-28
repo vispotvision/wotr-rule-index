@@ -969,5 +969,10 @@
     "page_id": "3e958200-eb22-811f-95fa-c4a426e47dfe",
     "title": "Mu-jin: The Old Colleague",
     "hash": "e8cd7310aeddc3b9"
+  },
+  "scenes/mu_jin_the_card.md": {
+    "page_id": "3e958200-eb22-81e8-b54c-c277885405ca",
+    "title": "Mu-jin: The Card",
+    "hash": "1e7790dc68488247"
   }
 }

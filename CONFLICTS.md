@@ -1347,7 +1347,7 @@ the author notes."
 **Quotes:** pack-18-eighteen: "Three sources, consulted in this order, and none of them optional." · pack-18-eighteen: "Alchemetrica (doctrine), and The Real Alchemy (real-world substrate" · WOTR_Companion_Guide_Amendments_Pack_Eighteen: "Anything Natalie invents about process, apparatus or reagent behaviour is checked against it before it reaches the page." · CONFLICTS: "R18-5 names a Provenance Doctrine to read beside the Standing Index, and no page by that name exists in" · RULINGS: "Proceed, and write The Real Alchemy from the conversion's research."
 **Consequence if unresolved:** No alchemy design can finish R18-5's required check, so every invented process reaches the page without being checked against its real-world substrate.
 **Recommendation:** none.
-**Status:** ruled 2026-09-28 (alchemy-conversion-2026-09-28, answer 104, EC5): proceed on Alchemetrica and research, and write The Real Alchemy from the conversion's research for ratification.
+**Status:** ruled 2026-09-28 (alchemy-conversion-2026-09-28, answer 104, EC5): proceed on Alchemetrica and research, and write The Real Alchemy from the conversion's research for ratification. Written and published 2026-09-28 as the page The Real Alchemy under Materials, Alchemy & Trade (research and notes in `imports/drafts/alchemy-conversion/real-alchemy/`), awaiting Isaac's ratification.
 
 ## C-111 — Mu-jin's spoken Latin is 'the authorization phrase' (The Open Crucible); Latin has no first person and stays out of the Hands, Parun is the grammar that names the speaker, and the Summon Register sets Latin over the Parunic chain
 

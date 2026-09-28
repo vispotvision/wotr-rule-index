@@ -30,7 +30,7 @@ function runs(text, base = {}) {
 const lines = fs.readFileSync(inPath, "utf8").replace(/\r\n/g, "\n").split("\n");
 const kids = [];
 let quote = [];
-let firstChapter = true;
+let seenChapter = false;
 
 function flushQuote() {
   if (!quote.length) return;
@@ -57,11 +57,15 @@ for (const raw of lines) {
   if ((m = s.match(/^# (.*)$/))) {
     kids.push(new Paragraph({ children: [new TextRun({ text: m[1], color: GOLD, size: 56, bold: true, characterSpacing: 60 })],
       alignment: AlignmentType.CENTER, spacing: { before: 2400, after: 240 } }));
+  } else if ((m = s.match(/^### (.*)$/)) && seenChapter) {
+    kids.push(new Paragraph({ children: [new TextRun({ text: m[1], color: GOLD, size: 26, bold: true, italics: true })],
+      spacing: { before: 280, after: 120 } }));
   } else if ((m = s.match(/^### (.*)$/))) {
     kids.push(new Paragraph({ children: [new TextRun({ text: m[1], color: DIM, size: 28, italics: true })],
       alignment: AlignmentType.CENTER, spacing: { before: 120, after: 1200 } }));
   } else if ((m = s.match(/^## (.*)$/))) {
-    const isChapter = /^(Chapter|Appendix|A Note)/.test(m[1]);
+    const isChapter = /^(Chapter|Appendix|A Note|Entry|Preliminary|Exhibit|Closing|The Case File|Edition|Preface|Book|Part)/.test(m[1]);
+    if (isChapter) seenChapter = true;
     if (isChapter) {
       kids.push(new Paragraph({ children: [new PageBreak()] }));
       kids.push(new Paragraph({ children: [new TextRun({ text: m[1], color: GOLD, size: 36, bold: true })],

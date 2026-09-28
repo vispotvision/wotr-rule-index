@@ -74,7 +74,20 @@ Ivor Strom, Jabir → Venur, the claw monk → Penn Ralfsohn; Mu-jin born 677 IC
 It opened CONFLICTS C-119 to C-121 against Mu-jin's card and scene 10 (the Legion-class working at 22, eleven
 years of school and four Accord assessments, Level 430 at Stage XII a year after a Level ~285 read), and the
 names pass raised C-118 (Doyun's hyphen). Volume III must put Strom's completion activations in 700 IC or later
-(the Weight stood still from summer 697). **Next: the Papers.** The Lore & History overview page "The Alftian Codex" still describes Vis's edition; rebuild it after
+(the Weight stood still from summer 697).
+**The Papers are published** (Isaac's "Go", RULINGS.md "farrant-papers-2026-09-28", rules R67): The Farrant Papers,
+a new Notion page under The Alftian Codex overview (page 3e958200-eb22-813c-85d3-c14d66903466), and
+`THE-FARRANT-PAPERS.docx` in the vault. The author is Orin Farrant, a woman, Class Ø, Searcher of the Night
+Watch's Urbis chapter; her card is on Notion under Volume I Character Cards (page 3e958200-eb22-8173-b54f-c2d5575552eb,
+created directly because the sync was mid-publish; the next sync mirrors both) and her casting entry is in
+`build/casting.yaml` (key Farrant, after Mu-jin) with `build/casting/Orin_Farrant.json`. Files in
+`imports/drafts/alchemy-conversion/papers/`. Owed: the renames registry (Oren Corrant → Orin Farrant) with ME2.
+**Volume III is in progress** under Isaac's direction (RULINGS "alftian-vol3-direction-2026-09-28": the teacher on
+the road, meeting Frithia) and his Frithia ruling ("frithia-timeline-2026-09-28": met 699 at the Carver's Seat of
+Vaeloris on the Legion night, Geturo born 700, her refusal explains Volume II's silence, the 701 bedside kiss is
+her way back, the Academy's body with her ice-country origin kept, eight pupils dead by 701 told in Volume III,
+marriage 702). The Necrocursica's groundwork is being prepared in parallel (`/tmp/wotr-drafts/necro-*`); it is
+drafted after Volume III (ME3). The Lore & History overview page "The Alftian Codex" still describes Vis's edition; rebuild it after
 Volume III.
 
 ## State on 2026-09-26 (the magic docket questionnaire, applied)

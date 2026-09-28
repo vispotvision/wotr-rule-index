@@ -22287,6 +22287,346 @@
     "superseded_by": []
   },
   {
+    "id": "R67-1-FARRANT_PAPERS_AUTHOR",
+    "pack": "The Farrant Papers Ratification 2026-09-28",
+    "pack_number": null,
+    "section": "papers 1",
+    "title": "The Papers are Orin Farrant's field notes, 700 to 701 IC",
+    "status": "live",
+    "kind": "definition",
+    "summary": "The Papers are Orin Farrant's field notes, 700 to 701 IC.",
+    "verbatim": "The Papers are the field notes of Orin Farrant (OR-in FARR-unt), a woman, born 659 IC in Urbis, Searcher of the Night Watch Society's Urbis chapter on the crown's warrant, with its chapter house in the Ropewalk; she files as \"Farrant, O.\". They replace the Corrant Papers and run from the autumn of 700 IC to the late autumn of 701 IC.",
+    "amends": [
+      {
+        "guide": "The Farrant Papers and the cards they name",
+        "locus": "The Farrant Papers",
+        "operation": "adds"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "documents",
+      "character-sheet",
+      "naming"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-28, Claude Code chat: approved The Farrant Papers and Orin Farrant's card ('Go')",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "",
+    "superseded_by": []
+  },
+  {
+    "id": "R67-10-EXHIBIT_C_DELIVERED_UNOPENED",
+    "pack": "The Farrant Papers Ratification 2026-09-28",
+    "pack_number": null,
+    "section": "papers 10",
+    "title": "Farrant carried the held letter to Mu-jin, who set it down unopened",
+    "status": "live",
+    "kind": "definition",
+    "summary": "Farrant carried the held letter to Mu-jin, who set it down unopened.",
+    "verbatim": "Farrant carried Draycott's held letter, Exhibit C, by hand to Kwon Mu-jin's lodging in Urbis in late autumn 701 IC; he set it down unopened.",
+    "amends": [
+      {
+        "guide": "The Farrant Papers and the cards they name",
+        "locus": "The Farrant Papers",
+        "operation": "adds"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "documents",
+      "worldbuilding"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-28, Claude Code chat: approved The Farrant Papers and Orin Farrant's card ('Go')",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "",
+    "superseded_by": []
+  },
+  {
+    "id": "R67-11-FARRANT_CARD_AND_CASTING",
+    "pack": "The Farrant Papers Ratification 2026-09-28",
+    "pack_number": null,
+    "section": "papers 11",
+    "title": "Orin Farrant's card and casting entry stand",
+    "status": "live",
+    "kind": "definition",
+    "summary": "Orin Farrant's card and casting entry stand.",
+    "verbatim": "Orin Farrant's character card stands as published, and her casting entry is as filed.",
+    "amends": [
+      {
+        "guide": "The Farrant Papers and the cards they name",
+        "locus": "The Farrant Papers",
+        "operation": "adds"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "character-sheet"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-28, Claude Code chat: approved The Farrant Papers and Orin Farrant's card ('Go')",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "",
+    "superseded_by": []
+  },
+  {
+    "id": "R67-2-FARRANT_CLASS_ZERO",
+    "pack": "The Farrant Papers Ratification 2026-09-28",
+    "pack_number": null,
+    "section": "papers 2",
+    "title": "Farrant is Class Ø and reads only by instrument or a named reader",
+    "status": "live",
+    "kind": "definition",
+    "summary": "Farrant is Class Ø and reads only by instrument or a named reader.",
+    "verbatim": "Farrant is Class Ø, unwoken: screened at seven with nothing stirring, entered Class Ø by the chapter bench. She reads only by instrument or through a named reader, and leaves no signature to follow.",
+    "amends": [
+      {
+        "guide": "The Farrant Papers and the cards they name",
+        "locus": "The Farrant Papers",
+        "operation": "adds"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "character-sheet",
+      "stats"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-28, Claude Code chat: approved The Farrant Papers and Orin Farrant's card ('Go')",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "",
+    "superseded_by": []
+  },
+  {
+    "id": "R67-3-HALVETH_JOINT_CASE",
+    "pack": "The Farrant Papers Ratification 2026-09-28",
+    "pack_number": null,
+    "section": "papers 3",
+    "title": "Halveth opened the joint case and annotates under the Division's seal",
+    "status": "live",
+    "kind": "definition",
+    "summary": "Halveth opened the joint case and annotates under the Division's seal.",
+    "verbatim": "The case is joint: Halveth, K., head of the Research and Archives Division's Urbis office, opened it, set field notes under the Division's seal as the condition of access, and annotates in the margins.",
+    "amends": [
+      {
+        "guide": "The Farrant Papers and the cards they name",
+        "locus": "The Farrant Papers",
+        "operation": "adds"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "worldbuilding",
+      "character-sheet"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-28, Claude Code chat: approved The Farrant Papers and Orin Farrant's card ('Go')",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "",
+    "superseded_by": []
+  },
+  {
+    "id": "R67-4-CROWN_WARRANT_NOT_IN_KETSUEN",
+    "pack": "The Farrant Papers Ratification 2026-09-28",
+    "pack_number": null,
+    "section": "papers 4",
+    "title": "The crown's warrant runs in crown land only; in Ketsuen a Searcher can ask",
+    "status": "live",
+    "kind": "definition",
+    "summary": "The crown's warrant runs in crown land only; in Ketsuen a Searcher can ask.",
+    "verbatim": "The crown's warrant runs in the crown's land only; in Ketsuen a Searcher can ask and cannot compel.",
+    "amends": [
+      {
+        "guide": "The Farrant Papers and the cards they name",
+        "locus": "The Farrant Papers",
+        "operation": "adds"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "worldbuilding"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-28, Claude Code chat: approved The Farrant Papers and Orin Farrant's card ('Go')",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "",
+    "superseded_by": []
+  },
+  {
+    "id": "R67-5-GRAVETIDE_AND_GRAVEMARK_AT_CASTLEFALL",
+    "pack": "The Farrant Papers Ratification 2026-09-28",
+    "pack_number": null,
+    "section": "papers 5",
+    "title": "The Castlefall circle is Gravetide Ink and the bench drop Gravemark Ink",
+    "status": "live",
+    "kind": "definition",
+    "summary": "The Castlefall circle is Gravetide Ink and the bench drop Gravemark Ink.",
+    "verbatim": "The Castlefall circle is drawn in Gravetide Ink and the drop by the old bench is Gravemark Ink, as the Genesio Archivum's assay names them, Dessa Mael of record.",
+    "amends": [
+      {
+        "guide": "The Farrant Papers and the cards they name",
+        "locus": "The Farrant Papers",
+        "operation": "adds"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "items",
+      "codex"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-28, Claude Code chat: approved The Farrant Papers and Orin Farrant's card ('Go')",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "",
+    "superseded_by": []
+  },
+  {
+    "id": "R67-6-AULT_LIKENESS_ELEVEN_DAYS",
+    "pack": "The Farrant Papers Ratification 2026-09-28",
+    "pack_number": null,
+    "section": "papers 6",
+    "title": "The Ault likeness held eleven days and ended in one breath",
+    "status": "live",
+    "kind": "definition",
+    "summary": "The Ault likeness held eleven days and ended in one breath.",
+    "verbatim": "The likeness at the Ault house held eleven days and ended in one breath, having asked for the key to Madeleine's workroom; Draycott's registered mark is on the vessel's lute and on her sealed paper.",
+    "amends": [
+      {
+        "guide": "The Farrant Papers and the cards they name",
+        "locus": "The Farrant Papers",
+        "operation": "adds"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "worldbuilding",
+      "magic-mechanism"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-28, Claude Code chat: approved The Farrant Papers and Orin Farrant's card ('Go')",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "",
+    "superseded_by": []
+  },
+  {
+    "id": "R67-7-STROM_SUBMISSION_AND_GENESIO_CLIMB",
+    "pack": "The Farrant Papers Ratification 2026-09-28",
+    "pack_number": null,
+    "section": "papers 7",
+    "title": "The Strom Submission sits at Genesio; the ground at the stair climbs",
+    "status": "live",
+    "kind": "definition",
+    "summary": "The Strom Submission sits at Genesio; the ground at the stair climbs.",
+    "verbatim": "The Strom Submission has sat below the gate at Genesio about twelve years; the ground at the passage stair climbs through the seasons where drawn ground should fall.",
+    "amends": [
+      {
+        "guide": "The Farrant Papers and the cards they name",
+        "locus": "The Farrant Papers",
+        "operation": "adds"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "worldbuilding",
+      "magic-mechanism"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-28, Claude Code chat: approved The Farrant Papers and Orin Farrant's card ('Go')",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "",
+    "superseded_by": []
+  },
+  {
+    "id": "R67-8-MALPHAS_FILED_BY_TITLE",
+    "pack": "The Farrant Papers Ratification 2026-09-28",
+    "pack_number": null,
+    "section": "papers 8",
+    "title": "Malphas is filed by his title in the Papers",
+    "status": "live",
+    "kind": "definition",
+    "summary": "Malphas is filed by his title in the Papers.",
+    "verbatim": "Malphas answered Farrant in writing and is filed by his title, Scribe to the Genesio Archivum, by order.",
+    "amends": [
+      {
+        "guide": "The Farrant Papers and the cards they name",
+        "locus": "The Farrant Papers",
+        "operation": "adds"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "documents",
+      "naming"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-28, Claude Code chat: approved The Farrant Papers and Orin Farrant's card ('Go')",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "",
+    "superseded_by": []
+  },
+  {
+    "id": "R67-9-CASTLEFALL_PLATFORM_SLIP",
+    "pack": "The Farrant Papers Ratification 2026-09-28",
+    "pack_number": null,
+    "section": "papers 9",
+    "title": "Draycott's hold slipped once at the Castlefall platform",
+    "status": "live",
+    "kind": "definition",
+    "summary": "Draycott's hold slipped once at the Castlefall platform.",
+    "verbatim": "At the Castlefall platform in late summer 701 IC Draycott's hold on his weight slipped once when Farrant asked after the treatise's author, and he handed her a packet filed as Volitional Trace, Genesio, active.",
+    "amends": [
+      {
+        "guide": "The Farrant Papers and the cards they name",
+        "locus": "The Farrant Papers",
+        "operation": "adds"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "worldbuilding",
+      "character-sheet"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-28, Claude Code chat: approved The Farrant Papers and Orin Farrant's card ('Go')",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "",
+    "superseded_by": []
+  },
+  {
     "id": "R1-1-BLACK_AGENT_ASSIGNED",
     "pack": "Pack One",
     "pack_number": 1,

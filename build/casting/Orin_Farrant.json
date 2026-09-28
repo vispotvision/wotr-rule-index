@@ -1,0 +1,49 @@
+{
+  "name": "Orin Farrant",
+  "speaks_in_archive": false,
+  "lines_read": 0,
+  "gender": "female",
+  "age": "42 (born 659 IC; twenty-one years in the Night Watch Society)",
+  "body": "Tall and long in the leg, a walker's build, lean at the neck and wrist and narrow through the hip; a Hollow-band body with a walker's legs and lungs and no martial training. Iron-grey hair cut blunt at the jaw, a broad-boned face weathered on the mains, a slight stoop at the shoulders from twenty years of bending to street-door meters. Class Ø: she puts no Pressure into a room, so the voice carries only the woman's own weight.",
+  "pitch": "medium-low",
+  "texture": [
+    "weathered, a light grain of outdoor years",
+    "dry",
+    "clipped at the end of a reading",
+    "an audible breath between stands, a walker's lungs",
+    "under strain the readings come numbered and clipped shorter"
+  ],
+  "pace": "moderate",
+  "energy": "Level and practical, a working woman reading figures into a book. Under strain the lines shorten and number themselves. Joy barely reaches the voice at all.",
+  "register": "Plain Urbis speech with a field book's order: the instrument named first, then the figure, then the remark, and exact figures only when an instrument gave them. Contractions sometimes in speech. Dry humour that comes as a reading, the remark after the figure being the joke. No court polish and no chancery Latin.",
+  "accent_hint": "An Urbis townswoman's plain Concord speech: no court polish, no regional burr, a market child's hard consonants on weights and measures.",
+  "engine": "turbo",
+  "exaggeration": 0.25,
+  "design": {
+    "pitch_st": 0,
+    "weight": 0.45,
+    "grit": 0.3,
+    "breath": 0.35,
+    "pace": 1.08
+  },
+  "evidence": [
+    {
+      "source": "wiki/Volume I — Character Cards/Orin Farrant.md (Voice, Sentence length)",
+      "quote": "Short to medium. Readings come as fragments with the instrument first: \"Gauge, the outside stair, second division: seven and two marks.\""
+    },
+    {
+      "source": "wiki/Volume I — Character Cards/Orin Farrant.md (Voice, Stumbles)",
+      "quote": "Never in speech: a sentence that will not come right is left unfinished and not restarted."
+    },
+    {
+      "source": "wiki/Volume I — Character Cards/Orin Farrant.md (XIV, What she refuses)",
+      "quote": "\"I'll carry the paper. The man can carry himself.\""
+    },
+    {
+      "source": "wiki/Volume I — Character Cards/Orin Farrant.md (Voice, Sample line)",
+      "quote": "\"Gauge at the stair foot, fourth division: nine and two marks. Coil at the same stand, out the same way as the last three. Entered.\""
+    }
+  ],
+  "reference_direction": "Female, early forties, medium-low for a woman: a grown woman's speaking voice with some chest in it and no court smoothness, the low end of her own range used as the working register. A light, dry grain from years outdoors, and a little audible breath between phrases, the lungs of a woman who walks the same forty streets every turn. Moderate, businesslike pace, brisker than the scholars around her, each reading clipped at its end and set down in order: instrument, figure, remark. Under strain the readings come numbered and clipped shorter, and a sentence that will not come right breaks off unfinished and does not restart. Comparisons are to trades only: a railway inspector reading a gauge into a field book beside a signal post, or a market-assize weigher calling a weight to the clerk. Plain Urbis townswoman's speech, no regional burr. Kept well off Kwon Mu-jin, who shares the Papers and Codex III: a woman's voice against his young man's, older, heavier in the phrase, grainier, breathier and quicker than his clean, measured, over-explaining scholar's voice.",
+  "one_line": "Card-only cast (no archive dialogue): a forty-two-year-old Night Watch Searcher with no Crystal awake, who reads every figure off an instrument and says so; a weathered, dry, medium-low townswoman's voice, clipped at the end of each reading, that breaks off unfinished under strain and does not restart."
+}

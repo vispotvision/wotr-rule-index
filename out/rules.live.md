@@ -1,6 +1,6 @@
 # Live rules by domain
 
-1093 live of 1279 extracted.
+1104 live of 1290 extracted.
 
 ## adjudication (63)
 
@@ -68,7 +68,7 @@
 - **R48-31-STAKES** [Writing Law 2026-09-26 Roleplay partnership] Death can happen, if earned: from real mistakes after clear warning; nothing is safe.
 - **R48-32-NPC_VOICES** [Writing Law 2026-09-26 Roleplay partnership] Isaac may take over any NPC's voice anytime by saying so; the partner hands it back after.
 
-## character-sheet (204)
+## character-sheet (209)
 
 - **R20C-16-SONZAI_RECORD_CARD** [Pack Twenty R20C-16] Sonzai gets a record card, not a character card: identity, standing, the Erasure act as a dated event, relations, reference art. No voice section, no interiority, no dialogue samples.
 - **R20C-32-PRECEDENCE_FOW_WORKBOOK_CARD** [Pack Twenty R20C-32] Precedence: Fracture of Worlds, then the Stat Sheet workbook, then the Notion card. The card is a rendering and it drifts.
@@ -190,6 +190,11 @@
 - **R44-2-AU_FORMULA_GOVERNS** [Essence Ledger Rulings 2026-09-25 C-035] The stated formula is an identity and governs; where a card's AU/s is not Flux Density × η, the card figure is the error and is recomputed in its own issue.
 - **R44-5-CARD_ETA_GOVERNS_PER_CHARACTER** [Essence Ledger Rulings 2026-09-25 WAR-11] A character card's stated η governs for that character, the η tables being typical ranges rather than caps, so an in-world-acknowledged outlier stands.
 - **R44-6-BARE_BAND_V_IS_LEVEL_BAND** [Essence Ledger Rulings 2026-09-25 WAR-11] A bare "Band V" on a card reads as the live Level Band, not the retired lettered Coherence Band, and no wording changes.
+- **R67-1-FARRANT_PAPERS_AUTHOR** [The Farrant Papers Ratification 2026-09-28 papers 1] The Papers are Orin Farrant's field notes, 700 to 701 IC.
+- **R67-2-FARRANT_CLASS_ZERO** [The Farrant Papers Ratification 2026-09-28 papers 2] Farrant is Class Ø and reads only by instrument or a named reader.
+- **R67-3-HALVETH_JOINT_CASE** [The Farrant Papers Ratification 2026-09-28 papers 3] Halveth opened the joint case and annotates under the Division's seal.
+- **R67-9-CASTLEFALL_PLATFORM_SLIP** [The Farrant Papers Ratification 2026-09-28 papers 9] Draycott's hold slipped once at the Castlefall platform.
+- **R67-11-FARRANT_CARD_AND_CASTING** [The Farrant Papers Ratification 2026-09-28 papers 11] Orin Farrant's card and casting entry stand.
 - **R58-01-HILD_TWELVE_AT_DEATH** [Follow-up Rulings 2026-09-26 Follow-up answers] Hild's age at death: twelve at death. She is 11 on her card's As Of moment and turns twelve before the ninth hour; 'twelve' at her death stands everywhere.
 - **R58-12-AS_OF_LINE_ON_EVERY_CARD** [Follow-up Rulings 2026-09-26 Follow-up answers] Every character card gets an As Of line, dated from its own Lore and Standing line.
 - **R58-14-YUKARI_EYES_CRIMSON** [Follow-up Rulings 2026-09-26 Follow-up answers] Yukari eyes: crimson. The cards win; the bloodline page's silver-violet is corrected.
@@ -275,7 +280,7 @@
 - **R52-31-COMIC_NPC** [Voice Law 2026-09-26 NPC voices the partner builds] The partner may invent a comic minor NPC as a comic voice from the start, with no setup-deadpan-reaction beat; the funeral test no longer binds NPC building.
 - **R52-32-ROOM_CAST** [Voice Law 2026-09-26 NPC voices the partner builds] Room casting is by ear: the partner casts for the scene and fixes voice likeness only when the swap test fails.
 
-## codex (111)
+## codex (112)
 
 - **R20C-41-CHANTCRAFT_FIFTH_CRAFT** [Pack Twenty R20C-41] Chantcraft is the fifth craft, Ars Cantus its medium-home. Not folded.
 - **R18-2-CODEX_FIRST_MANDATE** [Pack Eighteen §2] Before naming, pitching, converting or writing a working, the design order is fixed: read the Spell Index for precedent, then the Master Glyph Index, take Wellspring/Family/Physics Domain/Temperance Min/Category/Glyph Class assignment from the Lists sheet (never from memory), route alchemy to the Alchemical Index, and only then design and write.
@@ -373,6 +378,7 @@
 - **R64-5-VENUR_AMULET_CHARM** [Alftian Codex Volume I Ratification 2026-09-28 vol1 5] Venur's amulet is an Old High Runic Charm chained Recall, Continuum, Binding.
 - **R66-1-VOLITIONAL_TRACE_LAYERED_CREDIT** [Alftian Codex Volume II Credit Correction 2026-09-28 correction 1] Madeleine found the Trace and designed the commission, Strom found it independently, Draycott framed and built the mechanism, Mu-jin named it; supersedes R65-10's wording.
 - **R27-1-CYMORATH_AIR_OF_ASCENT_FROST_ON_VOHRIN** [Cymorath Portfolio Ruling Standing Ruling] Cymorath carries exactly the portfolio Fracture of Worlds gives it: the Air of Ascent, Family Fulguria, freedom and motion, strengthening Dexterity Celerity and Gnosis Cartography/Perception. It is not a frost Wellspring. Every frost, cold or stasis working the wiki had been drafting as Cymorath is keyed instead to Vohrin, the Abyssal Depths Titan, Family Caloria, Physics Domain Thermodynamics, on the FOW III reading that cold is heat run backward. There is no dedicated frost Wellspring. Codex lines, Wellspring harmonisation rows and Material Ledger resonance columns that name a cold law write Vohrin · Caloria · Thermodynamics; any surviving Cymorath usage is Fulguria.
+- **R67-5-GRAVETIDE_AND_GRAVEMARK_AT_CASTLEFALL** [The Farrant Papers Ratification 2026-09-28 papers 5] The Castlefall circle is Gravetide Ink and the bench drop Gravemark Ink.
 - **R42-7-FOUR_PATHS** [Magic System Rulings 2026-09-23 C-025] There are four Paths, Fate included.
 - **R42-14-VIA_FATI** [Magic System Rulings 2026-09-23 follow-up] Viaforma gains Via Fati for the Fate Path.
 - **R43-3-COLOR_OF_ESSENCE_PART_FIVE** [Magic System Rulings 2026-09-24 C-032] Part Five · Prose Application is lifted out of the Revelation cell.
@@ -635,7 +641,7 @@
 - **R48-43-SPEECHES** [Writing Law 2026-09-26 Characters and dialogue] Dialogue stays realistic under stress, but a trained speaker may deliver one crafted, eloquent speech at a big moment.
 - **R48-44-NAME_USE** [Writing Law 2026-09-26 Characters and dialogue] Narration refers to characters by POV epithets, the way the viewpoint sees them; the naming characterises.
 
-## documents (90)
+## documents (93)
 
 - **R20C-3-SWEEP_TWO_TIERS** [Pack Twenty R20C-3] The sweep has two tiers. Canon pages get swept — body text, not just titles.
 - **R20C-5-BRIEF_BURI_SECTION_MUST_GO** [Pack Twenty R20C-5] The standing project brief still carries a live THE BÜRI CULTURAL AMENDMENT section and a Büri voice roster. Cannot be edited from here.
@@ -721,6 +727,9 @@
 - **R63-3-ERAS_KEEP_NAMES_AGE_OVERLAPS** [Calendar Follow-up 2026-09-28 calendar 3] The Voyager Era, the Long Reckoning and the Withering Era keep their names as the count's eras; the Withering Era is the present era and the Imperial Age rises inside it from 690 IC.
 - **R60-18-ACCORD_FORMING_IN_CIRCLES** [Combat, Society and Politics Law 2026-09-26 Combat, society and politics] The Guild Accord's pages read as forming in circles: the Articles and Commission framework bind where a circle has signed and not yet elsewhere.
 - **R59-16-APPARATUS_PAGES** [Era and Apparatus Law 2026-09-26 Era and apparatus] These answers are folded into The Apparatus of the Age and The Works and Days as settled text with a regional gradient section; still no decade-by-decade table.
+- **R67-1-FARRANT_PAPERS_AUTHOR** [The Farrant Papers Ratification 2026-09-28 papers 1] The Papers are Orin Farrant's field notes, 700 to 701 IC.
+- **R67-8-MALPHAS_FILED_BY_TITLE** [The Farrant Papers Ratification 2026-09-28 papers 8] Malphas is filed by his title in the Papers.
+- **R67-10-EXHIBIT_C_DELIVERED_UNOPENED** [The Farrant Papers Ratification 2026-09-28 papers 10] Farrant carried the held letter to Mu-jin, who set it down unopened.
 - **R58-09-BARA_IS_A_CHARACTER** [Follow-up Rulings 2026-09-26 Follow-up answers] Bara is a character: stripped from system pages like the others.
 - **R23-11-ROLL_NAMES_FROM_ACCORD** [Inner World Naming Amendment XI] There never was an inherited surname; the Accord's registers assigned a frozen surname off the nearest legible thing (Ice, Foss), so a Far-Northern character has a roll-name the Accord/muster/tax survey use and a separate carried name the household uses.
 - **R20-4-ACCORD_FILING_CONVENTION** [Naming Guide Amendment Part Four] The Accord files every practitioner under given name, family or patronymic, culture of origin, rank designation — a bureaucratic act that is also a cultural act, reducing a five-slot Yukari name to three fields or stripping a Dawi oath-name for lack of a slot.
@@ -728,7 +737,7 @@
 - **R54-26-BENCH_OF_ATTRIBUTION** [Queue Questionnaire 2026-09-26 WAR-50] The Bench of Attribution may not keep or compel records of signings.
 - **R39-8-PACKS_FOLDED_INTO_EDITIONS** [Stat System and Scene Rulings 2026-09-13 Folding] Isaac's direction of 2026-09-12 overtakes the two pending rows that kept the packs as unfolded paste-in diffs: each base guide gets a dated edition with every live amendment folded in and a changelog; eleven are done, the remaining six follow the same way.
 
-## items (64)
+## items (65)
 
 - **R20C-22-AMMUNITION_TIERS_RATIFIED** [Pack Twenty R20C-22] The three ammunition tiers ratified, subject to R20C-26.
 - **R18-5-ALCHEMY_SOURCE_ORDER** [Pack Eighteen §5] Alchemy design consults, in order, the Alchemical Index (what exists), Alchemetrica (doctrine), and The Real Alchemy (real-world substrate check on invented process/apparatus/reagent behaviour), loading The Provenance Doctrine, The Standing Index and The Bench of Attribution alongside them; none of the three is optional.
@@ -771,6 +780,7 @@
 - **R57-07-DOCUMENTS_FULLY_METAPHYSICAL** [Rulings Backfill 2026-09-26 2026-09-24 — R12-3-DESIGN_CHAIN_RETURNS] Cards, ability entries, items, lore, in-world documents and exports print stats, Grades, Bands, Stage, EU, AU/s, eta, Crystal State and Category; empty fields stay flagged pending.
 - **R63-2-IMPERIAL_AGE_BEGAN_690** [Calendar Follow-up 2026-09-28 calendar 2] The Imperial Age and its technology, rail included, begin in 690 IC; 715 IC is its twenty-fifth year.
 - **R59-11-MATERIALS** [Era and Apparatus Law 2026-09-26 Era and apparatus] Materials: cheap steel and iron, rubber and gutta-percha, early plastics in the late span, and the Master Material Ledger's Essence-born materials alongside them.
+- **R67-5-GRAVETIDE_AND_GRAVEMARK_AT_CASTLEFALL** [The Farrant Papers Ratification 2026-09-28 papers 5] The Castlefall circle is Gravetide Ink and the bench drop Gravemark Ink.
 - **R46-1-ITEM_TIER_LOWER_OF_TWO** [The Item Tiers 2026-09-25 What an Item Tier Is] An item carries an item Tier, the lower of what its material can hold and the Tier of Standing its maker stood at when it was made; a composite is graded by the material carrying the working; a plain item has no Tier and performs as its physics.
 - **R46-2-NINE_ITEM_TIERS_NAMED** [The Item Tiers 2026-09-25 The Nine Tiers] Plain (T0, Hollow-F, no stamp); 1 Marked/Signatum E; 2 Proofed/Probatum D; 3 Tempered/Temperatum C; 4 Instrument/Instrumentum B; 5 Hallowed/Consecratum A; 6 Storied/Insigne S-SS; 7 Found/Inventum SS-SSS; 8 Numinous/Numinosum X-EX; 9 Proscribed/Interdictum EX+. The upper Grade of a two-Grade Tier needs Class IV or V provenance or a maker at the top of their Tier.
 - **R46-3-ARMOUR_TIER_IS_ITS_PROOF** [The Item Tiers 2026-09-25 What the Tier Caps, by Kind] Each kind of item reads its Tier against a table (weapon: added hit; projectile: speed and hit; focus: channelling ceiling). Armour stops strikes at or below its Tier's Grade; a strike one Tier above breaks it, two Tiers above passes as if it were not there.
@@ -909,7 +919,7 @@
 - **R48-18-INVENTION** [Writing Law 2026-09-26 Research-grounded techniques] Invention goes one clear step past textbook physics: the real law plus one pinned variable, easy for a player to reason about.
 - **R48-19-BANK** [Writing Law 2026-09-26 Research-grounded techniques] The Phenomenon Bank becomes a growing library: every researched phenomenon (and pseudoscientific idea) is added for future workings and players to draw from.
 
-## magic-mechanism (180)
+## magic-mechanism (182)
 
 - **R20C-17-SITES_RECHARGE_UNHELPFULLY** [Pack Twenty R20C-17] Sites recharge, and it does not help. Decades to centuries, and the rate falls with every working — eighty years the first time, two hundred the second.
 - **R20C-23-ORIGIN_STAYS_MYTHIC** [Pack Twenty R20C-23] Origin stays mythic. Mechanism is fully explicable; where it came from is not.
@@ -1056,6 +1066,8 @@
 - **R60-13-THE_GATE** [Combat, Society and Politics Law 2026-09-26 Combat, society and politics] Few people lack a Soul Crystal, commoners included, but knowledge of magic is gatekept by administration: the Imperial Age is when nations lock down which kinds of people may use which magics.
 - **R60-14-DORMANT_CRYSTALS** [Combat, Society and Politics Law 2026-09-26 Combat, society and politics] A common person's Crystal is dormant for life unless someone trains them.
 - **R27-1-CYMORATH_AIR_OF_ASCENT_FROST_ON_VOHRIN** [Cymorath Portfolio Ruling Standing Ruling] Cymorath carries exactly the portfolio Fracture of Worlds gives it: the Air of Ascent, Family Fulguria, freedom and motion, strengthening Dexterity Celerity and Gnosis Cartography/Perception. It is not a frost Wellspring. Every frost, cold or stasis working the wiki had been drafting as Cymorath is keyed instead to Vohrin, the Abyssal Depths Titan, Family Caloria, Physics Domain Thermodynamics, on the FOW III reading that cold is heat run backward. There is no dedicated frost Wellspring. Codex lines, Wellspring harmonisation rows and Material Ledger resonance columns that name a cold law write Vohrin · Caloria · Thermodynamics; any surviving Cymorath usage is Fulguria.
+- **R67-6-AULT_LIKENESS_ELEVEN_DAYS** [The Farrant Papers Ratification 2026-09-28 papers 6] The Ault likeness held eleven days and ended in one breath.
+- **R67-7-STROM_SUBMISSION_AND_GENESIO_CLIMB** [The Farrant Papers Ratification 2026-09-28 papers 7] The Strom Submission sits at Genesio; the ground at the stair climbs.
 - **R46-1-ITEM_TIER_LOWER_OF_TWO** [The Item Tiers 2026-09-25 What an Item Tier Is] An item carries an item Tier, the lower of what its material can hold and the Tier of Standing its maker stood at when it was made; a composite is graded by the material carrying the working; a plain item has no Tier and performs as its physics.
 - **R46-4-ITEM_COSTS** [The Item Tiers 2026-09-25 What an Item Costs to Make] Enhanced round or arrow 1% of the maker's reserve each (floor 0.001 EU), consumed when fired; enhanced weapon 10% once; proofed armour 25% once; relic the whole reserve once plus a spell of Essence Starvation.
 - **R56-6-EXPERT_ROW_WHOLE_SPAN** [Magic Docket Questionnaire 2026-09-26 C-063] The corrected Tier 5 · Expert cell reads 0.60–0.70 for every Stage it spans, Stage V included.
@@ -1139,7 +1151,7 @@
 - **R54-19-MASS_NPC_THOUGHT** [Queue Questionnaire 2026-09-26 WAR-92] A POV-locked mass-combat scene still allows one thought per NPC.
 - **R54-20-MASS_WOUND_ANATOMY** [Queue Questionnaire 2026-09-26 WAR-92] Wounds in mass-combat scenes are written with the same anatomy as a duel.
 
-## naming (164)
+## naming (166)
 
 - **R20C-1-BURI_DEAD_EVERYWHERE** [Pack Twenty R20C-1] Büri is dead everywhere, without exception. No house, no amendment, no voice roster, no Mongolian register on any Inner World page.
 - **R20C-2-SATULAGI_STAYS_DEAD** [Pack Twenty R20C-2] Sātūlagi stays dead. Struck for a structural reason; reverting the register does not restore a place.
@@ -1204,6 +1216,8 @@
 - **R37-2-YUKARI_ELEMENT_INVENTORY** [Naming Guide Amendment / Element Inventories II. Yukari] A Yukari name is a two-element compound drawn from a thirty-element inventory in five categories (thread and fate, crow and silence, divine and dream, water/stone/grief, weight and office), and a full name carries up to five life-stage forms: childhood name, adult name taken at the Telling, calling-name, taboo true name, posthumous name. Only Ketsu, En, Jin and Mu are canon-attested; the rest are coined to the register. Whether individuals carry a second topographic surname beside "Yukari" stays an open flag.
 - **R37-3-ELVEN_BRANCH_ELEMENT_INVENTORY** [Naming Guide Amendment / Element Inventories III. The Elven Branches] The five elven branches (Eressean, Varrisak, Drow, Eladrin, Echo Elves) share one root inventory and one affix inventory drawn from the Vey-Elarin grammar, plus one new branch-specific root each (kalen, sova, morel, faelo, verath); roots are disyllabic and open with restricted codas and every element carries a pitch contour. Branch divergence is shown on the same root, not by five separate lists. The root marin stays unglossed, and the clash with already published apostrophe-style Eressean-adjacent names stays an open flag.
 - **R37-4-BEASTKIN_SOUL_NAME_INVENTORY** [Naming Guide Amendment / Element Inventories IV. Beastkin] A Beastkin soul-name is a circumstance-element (how the birth went, Akan-day-name style) spoken together with an expectation-element (the attribute the child is charged to grow into, flavoured by lineage stat), and the held-name is whichever fragment survives when home, rank and kin are gone; a third layer supplies the Name-Keeping ritual vocabulary. Whether the four non-Fox lineages actually practise Name-Keeping, and whether soul-name and held-name are one name or two, stay open flags.
+- **R67-1-FARRANT_PAPERS_AUTHOR** [The Farrant Papers Ratification 2026-09-28 papers 1] The Papers are Orin Farrant's field notes, 700 to 701 IC.
+- **R67-8-MALPHAS_FILED_BY_TITLE** [The Farrant Papers Ratification 2026-09-28 papers 8] Malphas is filed by his title in the Papers.
 - **R58-03-SANCTA_LUX** [Follow-up Rulings 2026-09-26 Follow-up answers] Sanctum Lux becomes Sancta Lux on every page.
 - **R58-13-BORROWED_NAME_FIXES** [Follow-up Rulings 2026-09-26 Follow-up answers] Name fixes applied: Japanese long vowels (Hokai, Seijo, Joka and the Go series take macrons), Coagula Dominium, Symphonia Ascendens, Hae-jin's hanja becomes 海鎮 (Sea-Garrison), and the gloss-only fixes (Kibanda, Kafa-Karim, Hataraki no Sh...
 - **R23-1-POLYNESIAN_REGISTER_STRUCK** [Inner World Naming Amendment I] Samoan phonotactics, the fa'amatai title system, the aiga, the Ava-name slot, the gafa, and every Moto name built from them are dead; the Polynesian register survives nowhere in the Inner World naming baseline (the Agamalu house's own naming is a separate question, not an Inner World register — see notes).
@@ -1906,7 +1920,7 @@
 - **R53-31-GONE_LIST** [World Texture Law 2026-09-26 World texture] Each culture's Standing Inventory gets a 'Gone' list of three to five named lost things the culture mourns, for elegy to reach for.
 - **R53-32-TECH_BY_EAR** [World Texture Law 2026-09-26 World texture] No decade-by-decade technology page: the partner judges what is era-appropriate in the Imperial Age scene by scene.
 
-## stats (126)
+## stats (127)
 
 - **R20C-30-STAGE_NAMES_FROM_FOW** [Pack Twenty R20C-30] Fracture of Worlds governs the Stage names. Verified against source.
 - **R20C-32-PRECEDENCE_FOW_WORKBOOK_CARD** [Pack Twenty R20C-32] Precedence: Fracture of Worlds, then the Stat Sheet workbook, then the Notion card. The card is a rendering and it drifts.
@@ -1980,6 +1994,7 @@
 - **R44-4-ETA_PART_SEVENTEEN_GOVERNS** [Essence Ledger Rulings 2026-09-25 C-037] Part Seventeen's Class I figure governs the efficiency conflict — η is 0.60 to 0.70 at Stage VI–VII — and Part Nineteen's Tier 5 Expert row is corrected to match it.
 - **R44-5-CARD_ETA_GOVERNS_PER_CHARACTER** [Essence Ledger Rulings 2026-09-25 WAR-11] A character card's stated η governs for that character, the η tables being typical ranges rather than caps, so an in-world-acknowledged outlier stands.
 - **R44-6-BARE_BAND_V_IS_LEVEL_BAND** [Essence Ledger Rulings 2026-09-25 WAR-11] A bare "Band V" on a card reads as the live Level Band, not the retired lettered Coherence Band, and no wording changes.
+- **R67-2-FARRANT_CLASS_ZERO** [The Farrant Papers Ratification 2026-09-28 papers 2] Farrant is Class Ø and reads only by instrument or a named reader.
 - **R58-02-DOUGOU_JOULES_FROM_COSTS** [Follow-up Rulings 2026-09-26 Follow-up answers] Dougou: re-derive his joule figures from his restored EU costs (4.752 GJ, 7.326 GJ, 2.772 to 8.811 GJ, B-Grade); the newton figures are dropped, since no contact distance is stated.
 - **R46-1-ITEM_TIER_LOWER_OF_TWO** [The Item Tiers 2026-09-25 What an Item Tier Is] An item carries an item Tier, the lower of what its material can hold and the Tier of Standing its maker stood at when it was made; a composite is graded by the material carrying the working; a plain item has no Tier and performs as its physics.
 - **R46-2-NINE_ITEM_TIERS_NAMED** [The Item Tiers 2026-09-25 The Nine Tiers] Plain (T0, Hollow-F, no stamp); 1 Marked/Signatum E; 2 Proofed/Probatum D; 3 Tempered/Temperatum C; 4 Instrument/Instrumentum B; 5 Hallowed/Consecratum A; 6 Storied/Insigne S-SS; 7 Found/Inventum SS-SSS; 8 Numinous/Numinosum X-EX; 9 Proscribed/Interdictum EX+. The upper Grade of a two-Grade Tier needs Class IV or V provenance or a maker at the top of their Tier.
@@ -2141,7 +2156,7 @@
 - **R48-49-CITATIONS** [Writing Law 2026-09-26 Process] Research is cited as a source list at the end of each scene's or ability's notes.
 - **R48-50-PUSHBACK** [Writing Law 2026-09-26 Process] When the partner thinks a beat is drifting or a rule reads wrong, it says so in one plain line and keeps writing unless stopped.
 
-## worldbuilding (270)
+## worldbuilding (276)
 
 - **R20C-1-BURI_DEAD_EVERYWHERE** [Pack Twenty R20C-1] Büri is dead everywhere, without exception. No house, no amendment, no voice roster, no Mongolian register on any Inner World page.
 - **R20C-2-SATULAGI_STAYS_DEAD** [Pack Twenty R20C-2] Sātūlagi stays dead. Struck for a structural reason; reverting the register does not restore a place.
@@ -2307,6 +2322,12 @@
 - **R59-14-HEAVY_BUREAUCRACY** [Era and Apparatus Law 2026-09-26 Era and apparatus] Bureaucracy: heavy. Forms, permits, stamps, registers, typewriters and carbon copies; the Guild is a paper empire.
 - **R59-15-LEISURE** [Era and Apparatus Law 2026-09-26 Era and apparatus] Leisure: theatre and music hall, sport and spectacle (racing, prize-fighting, practitioner exhibitions), cafes, clubs and reading rooms, pleasure gardens and fairs.
 - **R59-16-APPARATUS_PAGES** [Era and Apparatus Law 2026-09-26 Era and apparatus] These answers are folded into The Apparatus of the Age and The Works and Days as settled text with a regional gradient section; still no decade-by-decade table.
+- **R67-3-HALVETH_JOINT_CASE** [The Farrant Papers Ratification 2026-09-28 papers 3] Halveth opened the joint case and annotates under the Division's seal.
+- **R67-4-CROWN_WARRANT_NOT_IN_KETSUEN** [The Farrant Papers Ratification 2026-09-28 papers 4] The crown's warrant runs in crown land only; in Ketsuen a Searcher can ask.
+- **R67-6-AULT_LIKENESS_ELEVEN_DAYS** [The Farrant Papers Ratification 2026-09-28 papers 6] The Ault likeness held eleven days and ended in one breath.
+- **R67-7-STROM_SUBMISSION_AND_GENESIO_CLIMB** [The Farrant Papers Ratification 2026-09-28 papers 7] The Strom Submission sits at Genesio; the ground at the stair climbs.
+- **R67-9-CASTLEFALL_PLATFORM_SLIP** [The Farrant Papers Ratification 2026-09-28 papers 9] Draycott's hold slipped once at the Castlefall platform.
+- **R67-10-EXHIBIT_C_DELIVERED_UNOPENED** [The Farrant Papers Ratification 2026-09-28 papers 10] Farrant carried the held letter to Mu-jin, who set it down unopened.
 - **R58-01-HILD_TWELVE_AT_DEATH** [Follow-up Rulings 2026-09-26 Follow-up answers] Hild's age at death: twelve at death. She is 11 on her card's As Of moment and turns twelve before the ninth hour; 'twelve' at her death stands everywhere.
 - **R58-06-WELL_SPAWN_WELLS_ONLY** [Follow-up Rulings 2026-09-26 Follow-up answers] Well-spawn publishes, Wells only: the spread along city mains into towns is struck.
 - **R58-07-WREN_GRIEF_FRONT** [Follow-up Rulings 2026-09-26 Follow-up answers] Wren Greymane's Front becomes a grief Front: the aftermath of his death, Bram and the ridge carrying it, ticks driven by who blames whom.

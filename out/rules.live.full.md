@@ -1,6 +1,6 @@
 # Live rules by domain, with source text
 
-1093 live of 1279 extracted. Newest pack first within each domain; the newer rule governs where two overlap.
+1104 live of 1290 extracted. Newest pack first within each domain; the newer rule governs where two overlap.
 
 ## adjudication (63)
 
@@ -382,7 +382,7 @@ Isaac may take over any NPC's voice anytime by saying so; the partner hands it b
 
 > Isaac may take over any NPC's voice anytime by saying so; the partner hands it back after.
 
-## character-sheet (204)
+## character-sheet (209)
 
 ### R20C-16-SONZAI_RECORD_CARD [Pack Twenty R20C-16]
 
@@ -1104,6 +1104,36 @@ A bare "Band V" on a card reads as the live Level Band, not the retired lettered
 
 > Confirmed: the bare "Band V" on Raga's and Verinus VII's cards is the live Level Band, and nothing changes. The brief's "stale Band" item closes with no edit.
 
+### R67-1-FARRANT_PAPERS_AUTHOR [The Farrant Papers Ratification 2026-09-28 papers 1]
+
+The Papers are Orin Farrant's field notes, 700 to 701 IC.
+
+> The Papers are the field notes of Orin Farrant (OR-in FARR-unt), a woman, born 659 IC in Urbis, Searcher of the Night Watch Society's Urbis chapter on the crown's warrant, with its chapter house in the Ropewalk; she files as "Farrant, O.". They replace the Corrant Papers and run from the autumn of 700 IC to the late autumn of 701 IC.
+
+### R67-2-FARRANT_CLASS_ZERO [The Farrant Papers Ratification 2026-09-28 papers 2]
+
+Farrant is Class Ø and reads only by instrument or a named reader.
+
+> Farrant is Class Ø, unwoken: screened at seven with nothing stirring, entered Class Ø by the chapter bench. She reads only by instrument or through a named reader, and leaves no signature to follow.
+
+### R67-3-HALVETH_JOINT_CASE [The Farrant Papers Ratification 2026-09-28 papers 3]
+
+Halveth opened the joint case and annotates under the Division's seal.
+
+> The case is joint: Halveth, K., head of the Research and Archives Division's Urbis office, opened it, set field notes under the Division's seal as the condition of access, and annotates in the margins.
+
+### R67-9-CASTLEFALL_PLATFORM_SLIP [The Farrant Papers Ratification 2026-09-28 papers 9]
+
+Draycott's hold slipped once at the Castlefall platform.
+
+> At the Castlefall platform in late summer 701 IC Draycott's hold on his weight slipped once when Farrant asked after the treatise's author, and he handed her a packet filed as Volitional Trace, Genesio, active.
+
+### R67-11-FARRANT_CARD_AND_CASTING [The Farrant Papers Ratification 2026-09-28 papers 11]
+
+Orin Farrant's card and casting entry stand.
+
+> Orin Farrant's character card stands as published, and her casting entry is as filed.
+
 ### R58-01-HILD_TWELVE_AT_DEATH [Follow-up Rulings 2026-09-26 Follow-up answers]
 
 Hild's age at death: twelve at death. She is 11 on her card's As Of moment and turns twelve before the ninth hour; 'twelve' at her death stands everywhere.
@@ -1611,7 +1641,7 @@ Room casting is by ear: the partner casts for the scene and fixes voice likeness
 
 > Room casting is by ear: the partner casts for the scene and fixes voice likeness only when the swap test fails.
 
-## codex (111)
+## codex (112)
 
 ### R20C-41-CHANTCRAFT_FIFTH_CRAFT [Pack Twenty R20C-41]
 
@@ -2188,6 +2218,12 @@ Madeleine found the Trace and designed the commission, Strom found it independen
 Cymorath carries exactly the portfolio Fracture of Worlds gives it: the Air of Ascent, Family Fulguria, freedom and motion, strengthening Dexterity Celerity and Gnosis Cartography/Perception. It is not a frost Wellspring. Every frost, cold or stasis working the wiki had been drafting as Cymorath is keyed instead to Vohrin, the Abyssal Depths Titan, Family Caloria, Physics Domain Thermodynamics, on the FOW III reading that cold is heat run backward. There is no dedicated frost Wellspring. Codex lines, Wellspring harmonisation rows and Material Ledger resonance columns that name a cold law write Vohrin · Caloria · Thermodynamics; any surviving Cymorath usage is Fulguria.
 
 > re-homed on Vohrin, the Abyssal Depths Titan that FOW III already names as the thermal-extraction signature: Family Caloria, Physics Domain Thermodynamics, Titan-keyed. Cymorath is the Air of Ascent exactly as Fracture of Worlds gives it, freedom and motion, Dexterity Celerity and Gnosis Cartography and Perception, and nothing else. Nothing on the FOW canon pages changes. This entry drafted its own cold out of Caloria and touched neither, and the ruling says that was the right shape: there is no dedicated frost Wellspring, cold is heat run backward, and the pages that had been calling it Cymorath now call it Vohrin.
+
+### R67-5-GRAVETIDE_AND_GRAVEMARK_AT_CASTLEFALL [The Farrant Papers Ratification 2026-09-28 papers 5]
+
+The Castlefall circle is Gravetide Ink and the bench drop Gravemark Ink.
+
+> The Castlefall circle is drawn in Gravetide Ink and the drop by the old bench is Gravemark Ink, as the Genesio Archivum's assay names them, Dessa Mael of record.
 
 ### R42-7-FOUR_PATHS [Magic System Rulings 2026-09-23 C-025]
 
@@ -3723,7 +3759,7 @@ Narration refers to characters by POV epithets, the way the viewpoint sees them;
 
 > Narration refers to characters by POV epithets, the way the viewpoint sees them; the naming characterises.
 
-## documents (90)
+## documents (93)
 
 ### R20C-3-SWEEP_TWO_TIERS [Pack Twenty R20C-3]
 
@@ -4229,6 +4265,24 @@ These answers are folded into The Apparatus of the Age and The Works and Days as
 
 > These answers are folded into The Apparatus of the Age and The Works and Days as settled text with a regional gradient section; still no decade-by-decade table.
 
+### R67-1-FARRANT_PAPERS_AUTHOR [The Farrant Papers Ratification 2026-09-28 papers 1]
+
+The Papers are Orin Farrant's field notes, 700 to 701 IC.
+
+> The Papers are the field notes of Orin Farrant (OR-in FARR-unt), a woman, born 659 IC in Urbis, Searcher of the Night Watch Society's Urbis chapter on the crown's warrant, with its chapter house in the Ropewalk; she files as "Farrant, O.". They replace the Corrant Papers and run from the autumn of 700 IC to the late autumn of 701 IC.
+
+### R67-8-MALPHAS_FILED_BY_TITLE [The Farrant Papers Ratification 2026-09-28 papers 8]
+
+Malphas is filed by his title in the Papers.
+
+> Malphas answered Farrant in writing and is filed by his title, Scribe to the Genesio Archivum, by order.
+
+### R67-10-EXHIBIT_C_DELIVERED_UNOPENED [The Farrant Papers Ratification 2026-09-28 papers 10]
+
+Farrant carried the held letter to Mu-jin, who set it down unopened.
+
+> Farrant carried Draycott's held letter, Exhibit C, by hand to Kwon Mu-jin's lodging in Urbis in late autumn 701 IC; he set it down unopened.
+
 ### R58-09-BARA_IS_A_CHARACTER [Follow-up Rulings 2026-09-26 Follow-up answers]
 
 Bara is a character: stripped from system pages like the others.
@@ -4265,7 +4319,7 @@ Isaac's direction of 2026-09-12 overtakes the two pending rows that kept the pac
 
 > Superseded by Isaac's direction of 2026-09-12 to fold the packs into dated base-guide editions ("yes — start folding the packs in now"); eleven guides are folded, the remaining six follow the same way.
 
-## items (64)
+## items (65)
 
 ### R20C-22-AMMUNITION_TIERS_RATIFIED [Pack Twenty R20C-22]
 
@@ -4512,6 +4566,12 @@ The Imperial Age and its technology, rail included, begin in 690 IC; 715 IC is i
 Materials: cheap steel and iron, rubber and gutta-percha, early plastics in the late span, and the Master Material Ledger's Essence-born materials alongside them.
 
 > Materials: cheap steel and iron, rubber and gutta-percha, early plastics in the late span, and the Master Material Ledger's Essence-born materials alongside them.
+
+### R67-5-GRAVETIDE_AND_GRAVEMARK_AT_CASTLEFALL [The Farrant Papers Ratification 2026-09-28 papers 5]
+
+The Castlefall circle is Gravetide Ink and the bench drop Gravemark Ink.
+
+> The Castlefall circle is drawn in Gravetide Ink and the drop by the old bench is Gravemark Ink, as the Genesio Archivum's assay names them, Dessa Mael of record.
 
 ### R46-1-ITEM_TIER_LOWER_OF_TWO [The Item Tiers 2026-09-25 What an Item Tier Is]
 
@@ -5319,7 +5379,7 @@ The Phenomenon Bank becomes a growing library: every researched phenomenon (and 
 
 > The Phenomenon Bank becomes a growing library: every researched phenomenon (and pseudoscientific idea) is added for future workings and players to draw from.
 
-## magic-mechanism (180)
+## magic-mechanism (182)
 
 ### R20C-17-SITES_RECHARGE_UNHELPFULLY [Pack Twenty R20C-17]
 
@@ -6191,6 +6251,18 @@ Cymorath carries exactly the portfolio Fracture of Worlds gives it: the Air of A
 
 > re-homed on Vohrin, the Abyssal Depths Titan that FOW III already names as the thermal-extraction signature: Family Caloria, Physics Domain Thermodynamics, Titan-keyed. Cymorath is the Air of Ascent exactly as Fracture of Worlds gives it, freedom and motion, Dexterity Celerity and Gnosis Cartography and Perception, and nothing else. Nothing on the FOW canon pages changes. This entry drafted its own cold out of Caloria and touched neither, and the ruling says that was the right shape: there is no dedicated frost Wellspring, cold is heat run backward, and the pages that had been calling it Cymorath now call it Vohrin.
 
+### R67-6-AULT_LIKENESS_ELEVEN_DAYS [The Farrant Papers Ratification 2026-09-28 papers 6]
+
+The Ault likeness held eleven days and ended in one breath.
+
+> The likeness at the Ault house held eleven days and ended in one breath, having asked for the key to Madeleine's workroom; Draycott's registered mark is on the vessel's lute and on her sealed paper.
+
+### R67-7-STROM_SUBMISSION_AND_GENESIO_CLIMB [The Farrant Papers Ratification 2026-09-28 papers 7]
+
+The Strom Submission sits at Genesio; the ground at the stair climbs.
+
+> The Strom Submission has sat below the gate at Genesio about twelve years; the ground at the passage stair climbs through the seasons where drawn ground should fall.
+
 ### R46-1-ITEM_TIER_LOWER_OF_TWO [The Item Tiers 2026-09-25 What an Item Tier Is]
 
 An item carries an item Tier, the lower of what its material can hold and the Tier of Standing its maker stood at when it was made; a composite is graded by the material carrying the working; a plain item has no Tier and performs as its physics.
@@ -6670,7 +6742,7 @@ Wounds in mass-combat scenes are written with the same anatomy as a duel.
 
 > Yes: mass-combat scenes must still carry duel-level wound anatomy.
 
-## naming (164)
+## naming (166)
 
 ### R20C-1-BURI_DEAD_EVERYWHERE [Pack Twenty R20C-1]
 
@@ -7049,6 +7121,18 @@ The five elven branches (Eressean, Varrisak, Drow, Eladrin, Echo Elves) share on
 A Beastkin soul-name is a circumstance-element (how the birth went, Akan-day-name style) spoken together with an expectation-element (the attribute the child is charged to grow into, flavoured by lineage stat), and the held-name is whichever fragment survives when home, rank and kin are gone; a third layer supplies the Name-Keeping ritual vocabulary. Whether the four non-Fox lineages actually practise Name-Keeping, and whether soul-name and held-name are one name or two, stay open flags.
 
 > A soul-name has two parts spoken together: the circumstance-element (what the birth was like, Akan-day-name style) and the expectation-element (the attribute the child is charged to grow into). The held-name is whichever fragment survives when everything else — home, rank, kin — has been taken.
+
+### R67-1-FARRANT_PAPERS_AUTHOR [The Farrant Papers Ratification 2026-09-28 papers 1]
+
+The Papers are Orin Farrant's field notes, 700 to 701 IC.
+
+> The Papers are the field notes of Orin Farrant (OR-in FARR-unt), a woman, born 659 IC in Urbis, Searcher of the Night Watch Society's Urbis chapter on the crown's warrant, with its chapter house in the Ropewalk; she files as "Farrant, O.". They replace the Corrant Papers and run from the autumn of 700 IC to the late autumn of 701 IC.
+
+### R67-8-MALPHAS_FILED_BY_TITLE [The Farrant Papers Ratification 2026-09-28 papers 8]
+
+Malphas is filed by his title in the Papers.
+
+> Malphas answered Farrant in writing and is filed by his title, Scribe to the Genesio Archivum, by order.
 
 ### R58-03-SANCTA_LUX [Follow-up Rulings 2026-09-26 Follow-up answers]
 
@@ -11160,7 +11244,7 @@ No decade-by-decade technology page: the partner judges what is era-appropriate 
 
 > No decade-by-decade technology page: the partner judges what is era-appropriate in the Imperial Age scene by scene.
 
-## stats (126)
+## stats (127)
 
 ### R20C-30-STAGE_NAMES_FROM_FOW [Pack Twenty R20C-30]
 
@@ -11593,6 +11677,12 @@ A character card's stated η governs for that character, the η tables being typ
 A bare "Band V" on a card reads as the live Level Band, not the retired lettered Coherence Band, and no wording changes.
 
 > Confirmed: the bare "Band V" on Raga's and Verinus VII's cards is the live Level Band, and nothing changes. The brief's "stale Band" item closes with no edit.
+
+### R67-2-FARRANT_CLASS_ZERO [The Farrant Papers Ratification 2026-09-28 papers 2]
+
+Farrant is Class Ø and reads only by instrument or a named reader.
+
+> Farrant is Class Ø, unwoken: screened at seven with nothing stirring, entered Class Ø by the chapter bench. She reads only by instrument or through a named reader, and leaves no signature to follow.
 
 ### R58-02-DOUGOU_JOULES_FROM_COSTS [Follow-up Rulings 2026-09-26 Follow-up answers]
 
@@ -12541,7 +12631,7 @@ When the partner thinks a beat is drifting or a rule reads wrong, it says so in 
 
 > When the partner thinks a beat is drifting or a rule reads wrong, it says so in one plain line and keeps writing unless stopped.
 
-## worldbuilding (270)
+## worldbuilding (276)
 
 ### R20C-1-BURI_DEAD_EVERYWHERE [Pack Twenty R20C-1]
 
@@ -13526,6 +13616,42 @@ Leisure: theatre and music hall, sport and spectacle (racing, prize-fighting, pr
 These answers are folded into The Apparatus of the Age and The Works and Days as settled text with a regional gradient section; still no decade-by-decade table.
 
 > These answers are folded into The Apparatus of the Age and The Works and Days as settled text with a regional gradient section; still no decade-by-decade table.
+
+### R67-3-HALVETH_JOINT_CASE [The Farrant Papers Ratification 2026-09-28 papers 3]
+
+Halveth opened the joint case and annotates under the Division's seal.
+
+> The case is joint: Halveth, K., head of the Research and Archives Division's Urbis office, opened it, set field notes under the Division's seal as the condition of access, and annotates in the margins.
+
+### R67-4-CROWN_WARRANT_NOT_IN_KETSUEN [The Farrant Papers Ratification 2026-09-28 papers 4]
+
+The crown's warrant runs in crown land only; in Ketsuen a Searcher can ask.
+
+> The crown's warrant runs in the crown's land only; in Ketsuen a Searcher can ask and cannot compel.
+
+### R67-6-AULT_LIKENESS_ELEVEN_DAYS [The Farrant Papers Ratification 2026-09-28 papers 6]
+
+The Ault likeness held eleven days and ended in one breath.
+
+> The likeness at the Ault house held eleven days and ended in one breath, having asked for the key to Madeleine's workroom; Draycott's registered mark is on the vessel's lute and on her sealed paper.
+
+### R67-7-STROM_SUBMISSION_AND_GENESIO_CLIMB [The Farrant Papers Ratification 2026-09-28 papers 7]
+
+The Strom Submission sits at Genesio; the ground at the stair climbs.
+
+> The Strom Submission has sat below the gate at Genesio about twelve years; the ground at the passage stair climbs through the seasons where drawn ground should fall.
+
+### R67-9-CASTLEFALL_PLATFORM_SLIP [The Farrant Papers Ratification 2026-09-28 papers 9]
+
+Draycott's hold slipped once at the Castlefall platform.
+
+> At the Castlefall platform in late summer 701 IC Draycott's hold on his weight slipped once when Farrant asked after the treatise's author, and he handed her a packet filed as Volitional Trace, Genesio, active.
+
+### R67-10-EXHIBIT_C_DELIVERED_UNOPENED [The Farrant Papers Ratification 2026-09-28 papers 10]
+
+Farrant carried the held letter to Mu-jin, who set it down unopened.
+
+> Farrant carried Draycott's held letter, Exhibit C, by hand to Kwon Mu-jin's lodging in Urbis in late autumn 701 IC; he set it down unopened.
 
 ### R58-01-HILD_TWELVE_AT_DEATH [Follow-up Rulings 2026-09-26 Follow-up answers]
 

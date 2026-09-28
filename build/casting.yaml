@@ -947,6 +947,72 @@ Kwon Mu-jin:            # card: Kwon Mu-jin; the prose attributes him as 'Mu-jin
         He set his teeth in what was left and said it. "Domain Expansion." ... "Open Crucible."
 
 
+Farrant:                # card: Orin Farrant; the prose attributes her as 'Farrant'; no archive dialogue
+  gender: "female"
+  age: >-
+    42 (born 659 IC; twenty-one years in the Night Watch Society)
+  body: >-
+    Tall and long in the leg, a walker's build, lean at the neck and wrist and narrow through the hip; a
+    Hollow-band body with a walker's legs and lungs and no martial training. Iron-grey hair cut blunt at
+    the jaw, a broad-boned face weathered on the mains, a slight stoop at the shoulders from twenty
+    years of bending to street-door meters. Class Ø: she puts no Pressure into a room, so the voice
+    carries only the woman's own weight.
+  pitch: "medium-low"
+  texture:
+    - "weathered, a light grain of outdoor years"
+    - "dry"
+    - "clipped at the end of a reading"
+    - "an audible breath between stands, a walker's lungs"
+    - "under strain the readings come numbered and clipped shorter"
+  pace: "moderate"
+  energy: >-
+    Level and practical, a working woman reading figures into a book. Under strain the lines shorten
+    and number themselves. Joy barely reaches the voice at all.
+  register: >-
+    Plain Urbis speech with a field book's order: the instrument named first, then the figure, then the
+    remark, and exact figures only when an instrument gave them. Contractions sometimes in speech. Dry
+    humour that comes as a reading, the remark after the figure being the joke. No court polish and no
+    chancery Latin.
+  accent_hint: >-
+    An Urbis townswoman's plain Concord speech: no court polish, no regional burr, a market child's hard
+    consonants on weights and measures.
+  engine: "turbo"
+  exaggeration: 0.25
+  design: {pitch_st: 0, weight: 0.45, grit: 0.3, breath: 0.35, pace: 1.08}
+  reference_direction: >-
+    Female, early forties, medium-low for a woman: a grown woman's speaking voice with some chest in it
+    and no court smoothness, the low end of her own range used as the working register. A light, dry
+    grain from years outdoors, and a little audible breath between phrases, the lungs of a woman who
+    walks the same forty streets every turn. Moderate, businesslike pace, brisker than the scholars
+    around her, each reading clipped at its end and set down in order: instrument, figure, remark.
+    Under strain the readings come numbered and clipped shorter, and a sentence that will not come right
+    breaks off unfinished and does not restart. Comparisons are to trades only: a railway inspector
+    reading a gauge into a field book beside a signal post, or a market-assize weigher calling a weight
+    to the clerk. Plain Urbis townswoman's speech, no regional burr. Kept well off Kwon Mu-jin, who
+    shares the Papers and Codex III: a woman's voice against his young man's, older, heavier in the
+    phrase, grainier, breathier and quicker than his clean, measured, over-explaining scholar's voice.
+  one_line: >-
+    Card-only cast (no archive dialogue): a forty-two-year-old Night Watch Searcher with no Crystal
+    awake, who reads every figure off an instrument and says so; a weathered, dry, medium-low
+    townswoman's voice, clipped at the end of each reading, that breaks off unfinished under strain and
+    does not restart.
+  evidence:
+    - source: "wiki/Volume I — Character Cards/Orin Farrant.md (Voice, Sentence length)"
+      quote: >-
+        Short to medium. Readings come as fragments with the instrument first: "Gauge, the outside stair,
+        second division: seven and two marks."
+    - source: "wiki/Volume I — Character Cards/Orin Farrant.md (Voice, Stumbles)"
+      quote: >-
+        Never in speech: a sentence that will not come right is left unfinished and not restarted.
+    - source: "wiki/Volume I — Character Cards/Orin Farrant.md (XIV, What she refuses)"
+      quote: >-
+        "I'll carry the paper. The man can carry himself."
+    - source: "wiki/Volume I — Character Cards/Orin Farrant.md (Voice, Sample line)"
+      quote: >-
+        "Gauge at the stair foot, fourth division: nine and two marks. Coil at the same stand, out the
+        same way as the last three. Entered."
+
+
 # ================================================================================================
 # Kharven — the Seat, the ridge, the road, the court
 # ================================================================================================
@@ -3166,6 +3232,21 @@ Onawa:                  # card: Onawa Ashkewe; no archive dialogue (the Korvaeth
 #     -2 on the standard engine at exaggeration 0.65, which already makes him the more performed
 #     read.
 #
+# B (add). Kwon Mu-jin / Farrant: -1/0.3/0.1/0.15/0.97 vs 0/0.45/0.3/0.35/1.08. They share the
+#     Papers and Codex III; no shared scene in CAST.md today (neither text is under scenes/), so this
+#     sits under B and moves to A when a shared scene is archived. Separated first by sex and source
+#     speaker (a woman's clip against his man's), then on every knob: a semitone up on a woman's
+#     source, weight +0.15, grit +0.2, breath +0.2, pace +0.11. Mu-jin stays clean and measured;
+#     Farrant is the weathered one who reads instruments aloud.
+#     Neighbours checked (women across threads, none shares a scene with her):
+#     Yoko 0/0.25/0.08 (breath 0.25, pace 0.93): weight 0.2, grit 0.22, pace 0.15 apart.
+#     Onawa -1/0.5/0.1 (breath 0.4, pace 0.88): grit 0.2, pace 0.2 apart.
+#     Mira -2/0.4/0.1 (breath 0.3, pace 0.95): 2 semitones, grit 0.2, pace 0.13 apart.
+#     Brida -2/0.55/0.3 (breath 0.3, pace 0.95): 2 semitones, weight 0.1, pace 0.13 apart.
+#     Haruki -2/0.4/0.3 (breath 0.55, pace 1.05) is the nearest on weight, grit and pace; 2 semitones
+#     and 0.2 of breath keep them apart, and they must draw different source readers.
+#
+#
 # C. Watch — not a four-field match, but the same scene and the same restraint
 #
 #  1. Cozbi / Dhaerin — 10 shared scenes; both unhurried lecturers correcting each other's proofs.
@@ -3193,6 +3274,7 @@ Onawa:                  # card: Onawa Ashkewe; no archive dialogue (the Korvaeth
 #                       Dabney -1/0.45/0.25 · Aurelian -2/0.35/0.15 · Lucen Vale -2/0.35/0.06 ·
 #                       Charles -2.5/0.65/0.2 · Darius -3/0.55/0.4 · Maerion -3/0.65/0.1 ·
 #                       Severin Bale -5/0.8/0.25 · Gimbzo -6/0.8/0.4 · Kizami +3 (quick, standard)
+#   Concordia women:    Farrant 0/0.45/0.3 (breath 0.35, pace 1.08)
 #   Kharven men:        Osric 0/0.25/0.08 · Sodoku -2/0.45/0.1 · Lorn -2/0.6/0.4 · Edward -3/0.3/0.25 ·
 #                       Wren -3/0.7/0.2 · Heisuke -3/0.55/0.62 · Renard -3.5/0.6/0.25 ·
 #                       Muken -4/0.7/0.35 · Bram -4/0.65/0.4 (-4.5/0.7/0.5 if needed) · Robin Ice +1 (quick, nasal)

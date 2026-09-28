@@ -90,6 +90,11 @@ session transcript. The Alchemetrica update was cut off mid-apply (about half th
 operations ran); a recovery workflow is re-planning the rest against the live page. The Necrocursica is drafting from
 the recovered groundwork (`~/wotr-drafts/necro-*`). The Real Alchemy is published (Notion, under Materials, Alchemy &
 Trade; files in `imports/drafts/alchemy-conversion/real-alchemy/`), awaiting Isaac's ratification.
+**Alchemetrica is now updated** to the conversion (recovery finished): the Great Work and its stage table, the Tria
+Prima, the dose, what pays for the work, the Dead at the Bench, Draftcraft and Provenance; no em dashes; Weathering once;
+heading colours restored. Record and the reusable block applier in `imports/drafts/alchemy-conversion/alchemetrica/`.
+CONFLICTS C-136 to C-153 hold its tensions and The Real Alchemy's heat-and-time clashes; C-154 is DE4 against EC10.
+The Necrocursica sealed edition is drafted and reviewed (`~/wotr-drafts/necrocursica.md`), awaiting Isaac's word.
 Volume III was built under Isaac's direction (RULINGS "alftian-vol3-direction-2026-09-28": the teacher on
 the road, meeting Frithia) and his Frithia ruling ("frithia-timeline-2026-09-28": met 699 at the Carver's Seat of
 Vaeloris on the Legion night, Geturo born 700, her refusal explains Volume II's silence, the 701 bedside kiss is

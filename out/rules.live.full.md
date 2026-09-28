@@ -1,8 +1,8 @@
 # Live rules by domain, with source text
 
-930 live of 1115 extracted. Newest pack first within each domain; the newer rule governs where two overlap.
+1061 live of 1246 extracted. Newest pack first within each domain; the newer rule governs where two overlap.
 
-## adjudication (53)
+## adjudication (63)
 
 ### R15-4-THIRTEEN_HAX_STRUCK [Pack Fifteen §4]
 
@@ -153,6 +153,66 @@ Tells and counters stay mandatory but are written as facts about what the abilit
 One combat turn is six seconds; efficiency above one draws its surplus from the Aether stratum; healing and mending always cost more than breaking.
 
 > One combat turn is six seconds. Efficiency above one draws its surplus from the Aether stratum. Healing and mending always cost more than breaking.
+
+### R61-7-RESIDUES_ON_TWO_CLOCKS [Alchemy Conversion Questionnaire 2026-09-28 K7]
+
+The Necrocursica's four residues are the forensic reading inside the nine days, while the Codex's three (place, bond, glyph-trace) are what remains afterwards.
+
+> Both lists on two clocks, hinged on The Crossing's nine days. The Necrocursica's four are the forensic reading inside the nine days; the Codex's three (place, bond, glyph-trace) are what stays after, which the two-year-old commission draws on. The Necrocursica gains a short after-window section, so the Codex and Papers cite it truly.
+
+### R61-55-MOTHER_TEACHES_NECROCURSICA [Alchemy Conversion Questionnaire 2026-09-28 ML10]
+
+Malphas teaches The Mother from the Necrocursica by memory, so each culture's methods trace to its protocols and anyone who has read it can recognise the cult's work, a counter that can be found.
+
+> A working text he teaches from memory. Each culture's methods trace to its protocols, so anyone who has read it can recognise the cult's work: a counter someone can find. The Mother's page gains one line; the Arena speech becomes that recognition.
+
+### R61-64-PAPERS_AUTHOR_CLASS_ZERO [Alchemy Conversion Questionnaire 2026-09-28 PA4]
+
+The Papers' author has no Stage and a never-woken Crystal (Class Ø), so every reading comes from instruments or other people's senses, meeting Gillus is real risk, and Mother cultures find no signature to follow.
+
+> No Stage: unwoken, reading by instrument. Class Ø (a Crystal never woken). Every reading comes from instruments and other people's senses; the Gillus meeting is real risk; a Mother culture finds no signature of theirs to follow. The card needs no Wellsprings.
+
+### R61-68-GENESIO_RIPTIDE_TO_WHIRLPOOL [Alchemy Conversion Questionnaire 2026-09-28 WS2]
+
+The Genesio Anamnesis site is a Riptide (A-grade output to stand in) that reads as a Whirlpool (S to SS) under Obsession Force while Thom draws, its 'time wrong' and Tempus drift lasting only while it takes, and completing the oldest Trace drops it a rung.
+
+> Riptide, turned to Obsession Force by Thom's draw. Clean, it needs A-grade output; while Thom draws it reads Whirlpool, so standing there needs S to SS, and 'time wrong' and the Tempus drift (correspondence, not energy) last only while it takes. Completing the oldest Trace drops it a rung.
+
+### R61-73-NINE_DAYS_THEN_TRAIT_TISSUE [Alchemy Conversion Questionnaire 2026-09-28 DE2]
+
+Stage stretches a practitioner's nine-day Crossing by days, not years, and afterwards the body holds only passive Trait tissue (Class IV carry) with nothing still diffusing, so old graves are Class IV stock.
+
+> Only Trait tissue: passive Class IV carry, no active residue. Stage stretches the nine days by days, not years. The Crossing's 'meat' reads as 'no Temperance left', and the ledger stands. Malphas's decades-old bones survive as passive Trait carry: old graves are Class IV stock, but nothing in them is still diffusing.
+
+### R61-76-IMPRESSION_VESSEL_GRADED_DRAFT [Alchemy Conversion Questionnaire 2026-09-28 DE5]
+
+The impression-body's vessel is a Draft marked for Class, Fidelity, Carry and price, using Class I to III stock for ordinary commissions and Class IV only when rendered remains go in, as in Thom's regional scaling.
+
+> Graded Draft; Class IV only when rendered remains go in. The vessel carries Class, Fidelity, Carry and a price. Ordinary commissions use Class I to III stock; Thom's regional scaling uses Class IV, where the Bench's blind spot on source and the black market bite.
+
+### R61-77-REVENANT_IS_STALLED_CROSSING [Alchemy Conversion Questionnaire 2026-09-28 DE6]
+
+A revenant needs no necromancer: it is a body spending its nine days where the Wellspring cannot take the residue (sealed ground, saturated battlefields), fading when diffusion completes, and countered by moving or grounding the body with Stillgate Ash.
+
+> A Crossing that stalls on its own. A revenant is a body that spends its nine days where the Wellspring cannot take the residue: sealed ground, saturated battlefields. It fades when diffusion completes; moving or grounding the body (Stillgate Ash) is the counter. Malphas's 'not supernatural' becomes the Crossing's own account.
+
+### R61-85-BROKEN_VOW_SIGNS_CORRUPTION [Alchemy Conversion Questionnaire 2026-09-28 GW7]
+
+Each corruption reads on the sheet as its vow's Shear Break, and Mu-jin's own vow against Non-Commitment, which the Heresiology lists eighth, gives every corruption a named, findable counter while grain stays unread.
+
+> As C, plus an eighth vow Mu-jin writes. Volume III closes the gap with his vow against his own corruption (in the spirit of 'I will not document what I will not obstruct'), and the Heresiology lists it eighth. Every corruption gets a named, findable counter; grain stays unread.
+
+### R61-109-MORTALIS_CATEGORY_STAGE_FLOORS [Alchemy Conversion Questionnaire 2026-09-28 EC10]
+
+Category One needs Flourishing, Two needs Glory and Three needs Refraction plus individual review, with Bench reservations at Adept, Expert and Expert with review, so Gillus at Stage VII is lawful by rank and unlawful only by review.
+
+> Flourishing, Glory, then Refraction with individual review. Categories One and Two sit on precedent rows; Category Three sits where the Necrocursica says Trace-compulsion begins. Gillus stands at the floor, lawful by rank and unlawful only by review. Reservations read Adept, Expert, Expert with review.
+
+### R61-110-IMPRESSION_BODY_TELLS_COUNTERS [Alchemy Conversion Questionnaire 2026-09-28 EC11]
+
+Beyond the general counters, a Category One reading finds identity-shaped carry with no Soul Crystal behind it, which a trained reader can tell from a person but a mourner cannot, and a ring of Stillgate Ash (Journeyman gate) grounds the body so it can pass, while also bleeding any living Essence at the ring.
+
+> As B, plus Stillgate Ash as the material counter. A ring of Stillgate Ash (Journeyman gate) grounds the body's residual charge and lets it complete its passage. Living Essence at the ring bleeds too, so the counter costs whoever uses it.
 
 ### R57-10-NEVER_RIGGED [Rulings Backfill 2026-09-26 2026-09-24 — new (full-knowledge, fair-play)]
 
@@ -322,7 +382,7 @@ Isaac may take over any NPC's voice anytime by saying so; the partner hands it b
 
 > Isaac may take over any NPC's voice anytime by saying so; the partner hands it back after.
 
-## character-sheet (150)
+## character-sheet (194)
 
 ### R20C-16-SONZAI_RECORD_CARD [Pack Twenty R20C-16]
 
@@ -635,6 +695,270 @@ A new ability's cost is a share of full reserve, with EU and joules read off the
 Governing Sub-Stats belong to the practitioner rather than the working's Wellsprings, and anyone may allocate into their Stage's strain band at a stated risk.
 
 > Governing Sub-Stats belong to the practitioner, not to the working's Wellsprings, and anyone may allocate into their Stage's strain band at a stated risk.
+
+### R61-3-CODEX_VOLUMES_IN_MUJIN_LIFE [Alchemy Conversion Questionnaire 2026-09-28 K3]
+
+Place Volumes I and II in Mu-jin's road years from fourteen to about nineteen, make the eleven Urbis months his one-lung convalescence before the Academy, and set Volume III after the Ashgate road with Frithia and infant children mentioned.
+
+> Vols I–II on the road; Vol III after the Ashgate road. Vols I–II fall between fourteen and about nineteen; the eleven months in Urbis become his convalescence on one lung, before the Academy. The Correction answers Rimward. 'Final Testimonies' and 'life's work' go, and Vol III must mention Frithia and infant children.
+
+### R61-6-CALCINATION_DISTILLATION_BENCH_ONLY [Alchemy Conversion Questionnaire 2026-09-28 K6]
+
+Never write Calcination or Distillation as Wellsprings; they are alchemical bench operations only, and any card that lists them as Wellsprings is wrong.
+
+> Calcination and Distillation are not Wellsprings; they are bench operations only. R18-5's list of Wellsprings that are also operations is amended, Alchemetrica's table drops them, and the cards that call them Wellsprings (Kwon Mu-jin's and about ten others) are fixed. (Isaac: "Fix the cards they aren't right".)
+
+### R61-12-THOM_PAPER_PREDATES_COMMISSION [Alchemy Conversion Questionnaire 2026-09-28 ST2]
+
+Thom's fourth-residue paper and crude activations go back twelve years, but his completion method and the drift date only from the commission.
+
+> Old paper on the residue; completion method after the commission. The twelve-year paper and crude activations stay; the completion method and the drift date from the commission, and Volume III line 122 reads as the completion step only. Papers line 75 is reworded, or it puts the Necrocursica's first edition about 24 years back.
+
+### R61-13-VOLITIONAL_TRACE_LAYERED_CREDIT [Alchemy Conversion Questionnaire 2026-09-28 ST3]
+
+Madeleine found the Volitional Trace and designed the commission, Thom found it independently, Gillus framed the theory and built the mechanism, and Mu-jin coined the name without co-building it.
+
+> Layered credit, and Mu-jin names it. Madeleine found it and designed the commission; Thom found it independently; Gillus framed the theory and built the mechanism; Mu-jin coined the name. Edit Volume III lines 66, 340 and overview line 63; Necrocursica line 93 credits Mu-jin as namer, not co-builder.
+
+### R61-16-FURVEUS_IS_A_ROSTER_NPC [Alchemy Conversion Questionnaire 2026-09-28 ST6]
+
+Furveus replaces Paracelsus as a minor NPC whose stat line prices the commission, and he is Malphas's colleague, a tie Malphas's card must carry.
+
+> Keep as a new person named Furveus. A roster entry (a short minor-NPC record) with a FOW (Fracture of Worlds, the stat system) line pricing the commission; 'called Paracelsus' follows ST1. Through the Necrocursica he is Malphas's colleague too, a tie Malphas's card must carry.
+
+### R61-17-GILLUS_GETS_FULL_CARD [Alchemy Conversion Questionnaire 2026-09-28 ST7]
+
+Build Gillus a full card with loadout, costs, counters and a Voice block under his in-world name, and add him to Mu-jin's and Malphas's Ties.
+
+> New person with a full character card. A full card with a FOW (Fracture of Worlds) loadout, costs, counters and a Voice block; name per ST1. Mu-jin's and Malphas's cards both gain him in Ties.
+
+### R61-18-THOM_IS_A_ROSTER_NPC [Alchemy Conversion Questionnaire 2026-09-28 ST8]
+
+Thom gets a roster entry with a stat line (Anamnesis, crude impression-bodies, twelve years of activations), and Malphas stays the theorist whose architecture he scaled.
+
+> Keep as a new person. A roster entry (a short NPC record) with a FOW stat line (Anamnesis, crude impression-bodies, twelve years' activation); name per ST1. Malphas stays the theorist whose architecture Thom scaled, so his card's tell becomes a line he lives into later.
+
+### R61-19-NEROS_IS_A_ROSTER_NPC [Alchemy Conversion Questionnaire 2026-09-28 ST9]
+
+Neros becomes a new person with a roster entry and voice note, and his railway conversation, stabilised drift and case-file readings remain canon.
+
+> Keep as a new person. A roster entry (a short NPC record) and a voice note; the railway conversation, the stabilised drift and the case-file readings stay. Where he met Mu-jin follows the origin question.
+
+### R61-20-JABIR_IS_A_ROSTER_NPC [Alchemy Conversion Questionnaire 2026-09-28 ST10]
+
+Jabir becomes a new person with a roster entry, renamed per the historical-names rule, with his homeland set by the Shaneni ruling.
+
+> Keep as a new person. A roster entry (a short NPC record); his name, and Volume III's 'ibn Hayyan', follow ST1. His homeland follows the setting question on the Shaneni empire, a polity canon lacks.
+
+### R61-21-TAT_IS_DOYUN [Alchemy Conversion Questionnaire 2026-09-28 ST11]
+
+Tat's scenes become Doyun's boyhood in Mu-jin's room at Sum-gol (Doyun about 13-15, Mu-jin 22-24), and Doyun gains the cat, the Third Corruption question and the address as canon.
+
+> He is Doyun, met as a boy. Tat's scenes move from the Monastery to Mu-jin's room at Sum-gol, when Doyun is about 13 to 15 (Mu-jin 22 to 24). Doyun gains the cat, the Third Corruption question and the address; his boyhood becomes canon.
+
+### R61-22-MADELEINE_AULT_ROSTER_NPC [Alchemy Conversion Questionnaire 2026-09-28 ST12]
+
+Madeleine is a dead Anamnesis-adjacent scholar who died of lung-sickness, with a Stage and a stat line that prices her Trace and the eleven days, while Case III stays unnamed.
+
+> New person with a roster entry and stat line. A short NPC record (dead of lung-sickness; Anamnesis-adjacent scholar; her Stage) with a FOW (Fracture of Worlds) stat line that prices her Trace and the eleven days. Case III stays unnamed.
+
+### R61-23-CASSIAN_AULT_ROSTER_NPC [Alchemy Conversion Questionnaire 2026-09-28 ST13]
+
+Give Cassian a want, a refusal line, a lie about what the document said and a voice, so later scenes can use the man behind the Papers' interview.
+
+> Roster NPC through the NPC build. A record with a want, a refusal line, a lie (what the document said) and a voice, so the Papers' interview has a person behind it and a later scene can use him.
+
+### R61-24-HALVETH_DIRECTS_URBIS_OFFICE [Alchemy Conversion Questionnaire 2026-09-28 ST14]
+
+Halveth heads only the Urbis branch, 'the Research Division' in the Papers and Volume III means that branch, and no Division head changes.
+
+> New person, quiet director of the Urbis office. A roster entry (a short NPC record); the twist stays regional, and 'the Research Division' in the Papers and Volume III means its Urbis branch. No Division head changes.
+
+### R61-25-KING_STAYS_UNNAMED_ROLE [Alchemy Conversion Questionnaire 2026-09-28 ST15]
+
+Do not name or card the king or his wife; they remain roles, as allowed for a figure with no lines.
+
+> Unnamed ruler, a role. No card; he and his wife stay roles, as R50-27 allows for a man with no lines. Case I and Volume II's use of him stay.
+
+### R61-26-ASCLEPIUS_ROSTER_NPC [Alchemy Conversion Questionnaire 2026-09-28 ST16]
+
+Asclepius becomes a new person with a roster entry, named per the historical-names rule, and her scorn for God-Essence reads through the setting ruling on it.
+
+> Keep as a new person. A roster entry (a short NPC record); her name follows ST1. Her atheism follows the setting ruling on God-Essence.
+
+### R61-27-DESSA_MAEL_ROSTER_NPC [Alchemy Conversion Questionnaire 2026-09-28 ST17]
+
+Dessa Mael gets a short NPC record with a want, a refusal and a voice, and her Genesio archive scene stays as written.
+
+> Keep as a new person. A short NPC record (want, refusal, voice); the Genesio archive scene stays as written.
+
+### R61-28-DORYUN_SIGNED_PUPILS_WORK [Alchemy Conversion Questionnaire 2026-09-28 ST18]
+
+Doryun's estrangement comes from patiently signing Mu-jin's later work as his own at court, with no brawl and no sternum strike, kept separate from the credited correction at fourteen.
+
+> He is Doryun, recut as quiet theft. The scene moves to the court: Doryun patiently signs his pupil's later work as his own, with no brawl, and Paracelsus's sternum strike goes. Doryun's card gains the act behind 'estranged', kept separate from the credited correction at fourteen.
+
+### R61-29-DRAGON_CLAW_MONK_NAMED [Alchemy Conversion Questionnaire 2026-09-28 ST19]
+
+Name the dragon-claw monk and give him a short record (want, voice, his father's death on Tempus-bred quarry), while the Prior remains an unnamed role.
+
+> Name the dragon-claw monk; the Prior stays a role. The monk gets a name and a short NPC record (want, voice, his father's death); the Prior stays a role. The father's death 'on Tempus-bred quarry' follows the setting ruling on Tempus.
+
+### R61-30-THREE_FRIENDS_STAY_UNASSIGNED [Alchemy Conversion Questionnaire 2026-09-28 ST20]
+
+Leave the friends' later fates open and do not identify them with canon's three dead, who can be whoever a later scene needs.
+
+> Leave the line unassigned. No change; the friends' later fates stay open and the three dead can be anyone a later scene needs.
+
+### R61-33-SUMGOL_EMPTIED_BEFORE_MUJIN [Alchemy Conversion Questionnaire 2026-09-28 MJ1]
+
+Mu-jin was born to the remnant of a house in an already-thinned valley; the school and sixty roofs are what remained, and Ara's 'Sum-gol went' means the last of the house going.
+
+> Before his birth: the Primate's card governs. He is born to the remnant of a house whose valley had already thinned; the school and the sixty roofs are what remained. Ara's 'Sum-gol went' reads as the last of the house going, as her scene already hints. No scene line changes.
+
+### R61-34-MUJIN_MAHUO_BOYHOOD [Alchemy Conversion Questionnaire 2026-09-28 MJ2]
+
+Write his boyhood from his card's frost and mountain and Sum-gol's river-valley fields with new sky-watching, naming the house once and the Ledger-Prince epithet never.
+
+> A Mahuo boyhood near the mountain, the house named once. The frost and the mountain come from his card, the fields from Sum-gol's river-valley farming; the sky-watching is new. He names the house once and the Ledger-Prince title (the court epithet he resents) never. 'No men of learning' goes.
+
+### R61-35-VIS_IS_GEUKHON_EARLIER_LIFE [Alchemy Conversion Questionnaire 2026-09-28 MJ3]
+
+The coffin's 'Vis, Alchemical Astronomer' is an earlier life of the soul Kaalabad names, whose four hundred years hold more than one life, paying off the Soul Kingdom thread.
+
+> His own earlier life: 'Vis' was the soul called Geuk-hon. The coffin keeps 'Vis, Alchemical Astronomer' as an Elfin earlier life of the soul Kaalabad names; that soul's four hundred years hold more than one life. Pays off Kaalabad and the Soul Kingdom thread, and makes the author note canon.
+
+### R61-36-ARA_HEALER_AND_ADDRESSEE [Alchemy Conversion Questionnaire 2026-09-28 MJ4]
+
+Ara treats the friends' illness beside Mu-jin, her 'ending as a passage' seeds the Monastery's 'Death is not the opposite of life', and Volume III is written to her.
+
+> Healer in the illness chapter and Vol III's addressee. She treats the friends' illness beside him, and her 'ending as a passage' seeds the Monastery's 'Death is not the opposite of life'. Vol III is written to her, keeping the Rimward promise and replacing 'at the request of no one'.
+
+### R61-37-MUJIN_SEPARATION_TURNED_INWARD [Alchemy Conversion Questionnaire 2026-09-28 MJ5]
+
+Mu-jin corrects everyone but himself, and what he files away is the Trace aimed at his own signature; Volume III is his cure, a decision made under witness.
+
+> Separation turned inward: he corrects everyone but himself. He confronts Paracelsus and Gillus plainly; what he files away is his own matter, the Trace aimed at his signature. Vol II's confession survives nearly word for word, the café walk-out goes, and Vol III becomes the Heresiology's cure, a decision under witness.
+
+### R61-38-MUJIN_WRITTEN_VOICE_BY_VOLUME [Alchemy Conversion Questionnaire 2026-09-28 MJ6]
+
+In Volume I he apologises for explaining and by Volume III he has stopped; he notices the flaw then the child, and jokes become dry self-correction.
+
+> A written voice built on his habits, changing by volume. Vol I apologises for explaining; by Vol III he has stopped. He notices the flaw, then the child. Lacquered jokes are cut back to dry self-correction. Length and texture stay, the man is recognisable, and the change shows his growth.
+
+### R61-39-THRICE_GREAT_REFUSED_EPITHET [Alchemy Conversion Questionnaire 2026-09-28 MJ7]
+
+After the king's hall the Monastery calls him the Thrice-Great and he writes 'That is not my name', a line he later gives Kaalabad; the frame's Sage titles go.
+
+> An epithet others gave him, which he refuses. After the king's hall the Monastery calls him 'the Thrice-Great'; he writes 'That is not my name', the line he later gives Kaalabad. The word stays in-world and rhymes with the Ledger-Prince; the frame's Sage titles go.
+
+### R61-40-ACCORD_SEALED_MUJINS_JOURNALS [Alchemy Conversion Questionnaire 2026-09-28 MJ8]
+
+He deposited each volume for common use under his teaching vow, and the Accord classified them Mortalis-adjacent and withdrew them under seal without asking him.
+
+> He filed them openly; the Accord sealed them. He deposits each volume under his teaching vow for common use; the Accord classifies them Mortalis-adjacent. 'Recovered' becomes 'withdrawn under seal'. His open book made restricted doctrine without asking him is the Ledger-Prince wound again.
+
+### R61-41-MALPHAS_WROTE_MARGIN_NOTE [Alchemy Conversion Questionnaire 2026-09-28 MJ9]
+
+The unsigned margin note that serves as Volume III's epigraph is in Malphas's hand, in Mu-jin's own copy of Volume II.
+
+> Malphas wrote the unsigned margin note that is Volume III's epigraph, in Mu-jin's own copy of Volume II.
+
+### R61-42-ACCORD_ENTERS_CODEX_AT_VOL_III [Alchemy Conversion Questionnaire 2026-09-28 MJ10]
+
+Show Mu-jin outside any institution in Volumes I and II, and let the Division and his vow appear only on Volume III's letter and title page after his rank.
+
+> The Accord appears only from Vol III, after the rank. Vols I–II show him outside any institution; Vol III's letter and title page carry the Division and the vow. Simpler, but it hides the assessments that sent him everywhere.
+
+### R61-43-MUJIN_DETECTS_NEVER_PERFORMS_CAT_THREE [Alchemy Conversion Questionnaire 2026-09-28 MJ11]
+
+His passive sense of failing seals is free and reaches streets away, a full lens-off read costs a migraine, and he can diagnose and warn but never perform, with Genesio completing through his Anamnesis only.
+
+> Detector only: he feels seals fail, never performs Category Three. He is the Codex's witness of failing seals: the passive sense is free and reaches streets away, a full lens-off read costs its migraine. He diagnoses and warns but cannot perform; Genesio completes through his Anamnesis, never his authority.
+
+### R61-44-RIMWARD_RESPONDER_STAYS_UNNAMED [Alchemy Conversion Questionnaire 2026-09-28 MJ12]
+
+Volume III opens on Rimward as the question the Trace answers, describing the wall, the eye and the law of response but never who or what responded.
+
+> Named as his question; what answered stays unnamed. Vol III opens on Rimward as the question the Trace answers: he writes the wall, the eye and the law of response, never who responded. Keeps the promise to Ara and his refusal to invent a shape.
+
+### R61-61-PAPERS_AUTHOR_FULL_CARD [Alchemy Conversion Questionnaire 2026-09-28 PA1]
+
+Build the new Papers author a full card with a FOW loadout, voice block, pronunciation line, dated header, voice fingerprint and casting entry, so the Papers and Codex III share one fixed voice and the investigator plays as an NPC with counters.
+
+> Full character card. Fracture of Worlds loadout (the stat sheet), voice block, pronunciation line, dated header, voice fingerprint and casting entry. Most work; the investigator becomes a playable NPC with counters, and the Papers and Codex III share one fixed voice.
+
+### R61-85-BROKEN_VOW_SIGNS_CORRUPTION [Alchemy Conversion Questionnaire 2026-09-28 GW7]
+
+Each corruption reads on the sheet as its vow's Shear Break, and Mu-jin's own vow against Non-Commitment, which the Heresiology lists eighth, gives every corruption a named, findable counter while grain stays unread.
+
+> As C, plus an eighth vow Mu-jin writes. Volume III closes the gap with his vow against his own corruption (in the spirit of 'I will not document what I will not obstruct'), and the Heresiology lists it eighth. Every corruption gets a named, findable counter; grain stays unread.
+
+### R61-91-MUJIN_AND_MALPHAS_DRAFTCRAFT [Alchemy Conversion Questionnaire 2026-09-28 GL4]
+
+Both practise Draftcraft: Mu-jin's summons are a spoken call over Draft ground and Malphas pours, so their texts talk in price, vessel, seal and ledger and their work can be traced through provenance.
+
+> Both Draftcraft. Both cards gain a Craft line. Mu-jin's summons are a spoken call over Draft ground; Malphas pours. Their texts write in price, vessel, seal and ledger, and their work is traceable through provenance.
+
+### R61-92-CATEGORY_THREE_POURED_AND_CUT [Alchemy Conversion Questionnaire 2026-09-28 GL5]
+
+The impression-body is poured and its Mortalis seal is Runecraft, so a failed seal is an unsealed rune that ambient pressure turns into a misfiring haunting until someone finds and breaks it, and the maker's mark and the cutter's hand both lead to De Raits, who holds both crafts.
+
+> Poured body, Mortalis seal written or cut (Runecraft). The failed seal is an unsealed rune: an open wound that ambient pressure completes into a haunting, misfiring until found and broken. Maker's mark and cutter's hand both trace De Raits, who needs both crafts.
+
+### R61-96-MORTALIS_HARMONIZATION_BY_OPERATOR [Alchemy Conversion Questionnaire 2026-09-28 GL9]
+
+Paracelsus and Gillus De Raits are lawfully harmonized for Mortalis and do lawful work well, while Vaughaus Thom's regional scaling tips into Mechanica, which gives the Aetheric Bleed its example and the Papers a concrete breach at Genesio.
+
+> Paracelsus and Gillus harmonized; Thom outruns his at scale. The commission is lawful work done well. Thom's regional scaling tips into Mechanica, giving the Aetheric Bleed its example and the Papers a concrete breach at Genesio.
+
+### R61-98-JABIR_AMULET_OLD_HIGH_RUNIC [Alchemy Conversion Questionnaire 2026-09-28 GL11]
+
+The text on the copper amulet is readable Old High Runic of an age no one can place: Mu-jin reads it at once but cannot date it, and the words Jabir recited are his own gloss of the working cut into it.
+
+> Very old Old High Runic, readable but undatable. The overview's 'decipher' becomes 'date'. Jabir's recited words are his gloss of the working cut in the copper. Mu-jin reads it at once and cannot place its age.
+
+### R61-99-DE_RAITS_REGISTERED_MARK [Alchemy Conversion Questionnaire 2026-09-28 GL12]
+
+The sign on Madeleine Ault's wax seal is Gillus De Raits's registered mark (a maker's mark when he pours, an Engraver's mark when he cuts), and the same mark is on his impression-bodies, so an investigator can match the seal to the bodies.
+
+> His registered craft mark, the one struck on his work. 'Glyph' becomes 'mark': a maker's mark if he pours, an Engraver's mark if he cuts. The same mark sits on his impression-bodies, so the investigator can match the seal to the bodies.
+
+### R61-102-BENCH_TIERS_CAP_ALCHEMISTS [Alchemy Conversion Questionnaire 2026-09-28 EC3]
+
+A Crystal-less alchemist holds a Tier of Standing up to Five (Expert) by bench certification rather than by reading a Crystal, and that Tier caps what they can make.
+
+> Alchemetrica governs: bench-certified Tiers up to Expert cap their work. Pure alchemists hold Tiers of Standing up to Five (Expert) by bench certification, and that Tier caps what they make. The Tiered Path page and Part Twenty gain one carve-out line: bench Tiers are certified, not read off the Crystal.
+
+### R61-103-DRAFT_SUB_STAT_PROFILE [Alchemy Conversion Questionnaire 2026-09-28 EC4]
+
+Draft-making runs on Tempering Coherence and Maturity (Core), Tempering Clarity (Shell), Harmonics Attunement (Attraction Layer), Gnosis Analysis and Fluency (reading and chain) and Vitality Filtration (exposure), and Mortalis work adds Persistence and Cognition; the profile waits on ratification through propose_rule.
+
+> A Draft profile built from existing Sub-Stats, filed for ratification. Core to Tempering Coherence and Maturity, Shell to Tempering Clarity, Attraction Layer to Harmonics Attunement; Gnosis Analysis and Fluency for reading and chain; Vitality Filtration for exposure. Mortalis work adds Persistence and Cognition. Filed through propose_rule.
+
+### R61-105-PARACELSUS_DOSE_AND_PALSY [Alchemy Conversion Questionnaire 2026-09-28 EC6]
+
+Arsenic and mercury are named plainly as medicines that heal at the right dose and poison past it, Paracelsus shows early crucible palsy and Draft-mark that Mu-jin reads on sight, and research checks every dose and mechanism before print.
+
+> Real names; the dose is the point; he carries the cost. The medicine heals at a dose and poisons past it. Paracelsus shows early crucible palsy and Draft-mark, which Mu-jin reads on sight. Dose and mechanism are checked by research before print.
+
+### R61-111-PARACELSUS_SOLD_UNENTERED_FORMULA [Alchemy Conversion Questionnaire 2026-09-28 EC12]
+
+Paracelsus took a fee for an unentered formula he could lawfully hold but not sell, so the breach and a Master of the Circle's personal liability fall on him while the patron broke no law; the Codex names the fee, and the Papers' author has a case.
+
+> Private, unentered and paid: he sold what he could only hold. The patron broke no law, so the Papers' line stands as said to him; Paracelsus carries the breach and a Master of the Circle's personal liability (the rank that seals). The Codex names the fee; the Papers author has a case.
+
+### R61-123-TEMPUS_DRIFT_SEQUENCE [Alchemy Conversion Questionnaire 2026-09-28 SE9]
+
+The commission's nudge settles, then the drift resumes and accelerates with Thom's activations and reverses once the old Trace completes; Volume II's cause is Mu-jin's first wrong guess, which Volume III names as an error.
+
+> A sequence; Volume II's cause is Mu-jin's first wrong guess. The commission's nudge settles, then the drift resumes and accelerates with Thom's activations, and reverses once the old Trace completes. Volume III gains one sentence naming the earlier error. Matches Case V and his card's limits.
+
+### R61-128-CODEX_RENAMES_REGISTERED [Alchemy Conversion Questionnaire 2026-09-28 ME2]
+
+Mu-jin's and Malphas's cards take in the texts' events after a lore check, and the renames registry records Vis Trismegistus to Kwon Mu-jin (full name only), Oren Corrant to the new Papers author, Noxinus Ren to Malphas if Noxinus goes, and ST1's renames, with casting entries after them.
+
+> Write back and register. Both cards gain the events, checked by the lore-writing pass; the registry gains Vis Trismegistus to Kwon Mu-jin (full name only), Oren Corrant to the new author, Noxinus Ren to Malphas if Noxinus goes, and ST1's renames; casting entries follow.
 
 ### R57-01-KWON_MU_JIN_IS_38 [Rulings Backfill 2026-09-26 2026-09-18 — new]
 
@@ -1227,7 +1551,7 @@ Room casting is by ear: the partner casts for the scene and fixes voice likeness
 
 > Room casting is by ear: the partner casts for the scene and fixes voice likeness only when the swap test fails.
 
-## codex (46)
+## codex (106)
 
 ### R20C-41-CHANTCRAFT_FIFTH_CRAFT [Pack Twenty R20C-41]
 
@@ -1426,6 +1750,366 @@ A What nobody knows question is never answered as fact; any proposed answer is p
 The Master Codex row for [Abys] Deep now lists Oblation among its attested Wellsprings and Fluxia among its attested Families, so a Codex assignment line drafting [Abys] on an Oblation-primary, Fluxia construct is legal as written. Its Primary Wellspring, Family and Physics Domain (Abyntheus, Fulguria, Electromagnetism) are unchanged, and [Th] Foundation is not amended and stays cross-family.
 
 > [Abys] Deep · Oblation and Fluxia added. Ruled 2026-09-12. [Abys] Deep, a directional undertow of sub-Realm pressure, carried an Abyntheus, Fulguria, Electromagnetism row. Its All Attested Wellsprings field now includes Oblation and its All Attested Families field now includes Fluxia, taken on the pitch in Obrenkael · The Mule (Summoned and Bound), Deadweight, on the reasoning that a psychopomp's road is a directional undertow of sub-Realm pressure and that Abyntheus and Oblation are both pressure-grammar Wellsprings under different Archons. Primary Wellspring, Family and Physics Domain are unchanged. [Th] Foundation, drafted beside it in the same chain, is not amended and stays cross-family.
+
+### R61-1-TEXTS_DATED_EARLY_IMPERIAL_AGE [Alchemy Conversion Questionnaire 2026-09-28 K1]
+
+Date the Codex volumes, the Papers and the Necrocursica in the early years of the Imperial Age, which is also the era of the story's present.
+
+> The five texts are stamped in the early years of the Imperial Age, and the story's present is itself the early Imperial Age (see the calendar answer at the end).
+
+### R61-2-HERESIOLOGY_POSTDATES_THE_TEXTS [Alchemy Conversion Questionnaire 2026-09-28 K2]
+
+Treat the Heresiology as a recent Accord manual drawn from these events: its five cases stand word for word, the texts' events end some years before it in Mu-jin's past, and Case II's compelled author is Malphas.
+
+> After: a recent Accord manual drawn from these events. The five cases stand word for word; the meta page and Malphas's card stay true. The texts' events close some years before its issue, in Mu-jin's past. Case II's author 'pulled by access and manipulated through need' must fit Malphas (the Necrocursica items).
+
+### R61-3-CODEX_VOLUMES_IN_MUJIN_LIFE [Alchemy Conversion Questionnaire 2026-09-28 K3]
+
+Place Volumes I and II in Mu-jin's road years from fourteen to about nineteen, make the eleven Urbis months his one-lung convalescence before the Academy, and set Volume III after the Ashgate road with Frithia and infant children mentioned.
+
+> Vols I–II on the road; Vol III after the Ashgate road. Vols I–II fall between fourteen and about nineteen; the eleven months in Urbis become his convalescence on one lung, before the Academy. The Correction answers Rimward. 'Final Testimonies' and 'life's work' go, and Vol III must mention Frithia and infant children.
+
+### R61-4-CODEX_DOCTRINE_IS_SYSTEM_CANON [Alchemy Conversion Questionnaire 2026-09-28 K4]
+
+The residues, the Volitional Trace and impression-bodies are fact in the magic system, and the Crossing, Lexicon, Magical Categories and Heresiology must agree with them.
+
+> System canon: the residues, the Volitional Trace and impression-bodies all become fact. The Crossing, the Lexicon and the Magical Categories gain entries, and the Heresiology agrees with them. (Isaac: "All system canon".)
+
+### R61-5-SUBLIMATIO_IS_SUBLIMATION [Alchemy Conversion Questionnaire 2026-09-28 K5]
+
+Use the physics register: Sublimatio names sublimation and Sublimare names distillation, and Distillation mirrors Sublimare everywhere.
+
+> The physics register wins. Sublimatio is sublimation, Sublimare is distillation. Alchemetrica's operation table, R18-5's list and Kytheris's card are corrected, and Distillation mirrors Sublimare. The Necrocursica's Sublimatio line stands; its separating cleanse becomes Sublimare-aligned.
+
+### R61-6-CALCINATION_DISTILLATION_BENCH_ONLY [Alchemy Conversion Questionnaire 2026-09-28 K6]
+
+Never write Calcination or Distillation as Wellsprings; they are alchemical bench operations only, and any card that lists them as Wellsprings is wrong.
+
+> Calcination and Distillation are not Wellsprings; they are bench operations only. R18-5's list of Wellsprings that are also operations is amended, Alchemetrica's table drops them, and the cards that call them Wellsprings (Kwon Mu-jin's and about ten others) are fixed. (Isaac: "Fix the cards they aren't right".)
+
+### R61-7-RESIDUES_ON_TWO_CLOCKS [Alchemy Conversion Questionnaire 2026-09-28 K7]
+
+The Necrocursica's four residues are the forensic reading inside the nine days, while the Codex's three (place, bond, glyph-trace) are what remains afterwards.
+
+> Both lists on two clocks, hinged on The Crossing's nine days. The Necrocursica's four are the forensic reading inside the nine days; the Codex's three (place, bond, glyph-trace) are what stays after, which the two-year-old commission draws on. The Necrocursica gains a short after-window section, so the Codex and Papers cite it truly.
+
+### R61-8-NECROCURSICA_SEVEN_UNMOORINGS [Alchemy Conversion Questionnaire 2026-09-28 K8]
+
+Reserve 'Seven Cacodaemonic Corruptions' for the Heresiology and call the Necrocursica's list the Seven Unmoorings, each of which may name the Heresiology inversion that drives it.
+
+> Heresiology keeps it; the Necrocursica's become the Seven Unmoorings. The Necrocursica's title, chapter 3 heading and Appendix II are renamed from the text's own verb ('it unmoors them', chapter 4), and each failure may name the Heresiology inversion that drives it. Grade III and the God Hand page's 'two sevens' stay true.
+
+### R61-9-WORD_FILES_ARE_CONVERSION_BASE [Alchemy Conversion Questionnaire 2026-09-28 K9]
+
+Convert the five texts from the Word files in first person throughout, then rewrite the wiki Codex pages as condensations of the new text that keep their chapter subheads and residue table.
+
+> Word files as base; wiki condensations regenerated afterwards. Every contradiction is visible and decided here. The converted texts are first person throughout, and the wiki's Codex pages are rewritten afterwards as condensations of the new text, keeping their chapter subheads and residue table.
+
+### R61-10-CONVERSION_IS_FULL_REBUILD [Alchemy Conversion Questionnaire 2026-09-28 K10]
+
+Rethink structure, events and cast around Mu-jin, Malphas and the new Papers author, and treat the old texts as source notes only.
+
+> Full rebuild: structure, events and cast are rethought around the new authors, and the old texts become source notes.
+
+### R61-11-RENAME_HISTORICAL_PEOPLE_IN_TEXTS [Alchemy Conversion Questionnaire 2026-09-28 ST1]
+
+Give Paracelsus, Jabir, Gillus, Thom and Tat in-world names, keep Trismegistus, Asclepius, the Tablet's wording and the Tria Prima, and credit the real sources in author notes.
+
+> Rename historical people; keep gods and idea-names. Furveus loses 'Paracelsus'; Jabir, Gillus and Thom get in-world names; Trismegistus and Asclepius stay under R50-05; Tat is renamed unless he becomes Doyun; the Tablet's wording and the Tria Prima stay, credited in author notes (R48-27).
+
+### R61-12-THOM_PAPER_PREDATES_COMMISSION [Alchemy Conversion Questionnaire 2026-09-28 ST2]
+
+Thom's fourth-residue paper and crude activations go back twelve years, but his completion method and the drift date only from the commission.
+
+> Old paper on the residue; completion method after the commission. The twelve-year paper and crude activations stay; the completion method and the drift date from the commission, and Volume III line 122 reads as the completion step only. Papers line 75 is reworded, or it puts the Necrocursica's first edition about 24 years back.
+
+### R61-13-VOLITIONAL_TRACE_LAYERED_CREDIT [Alchemy Conversion Questionnaire 2026-09-28 ST3]
+
+Madeleine found the Volitional Trace and designed the commission, Thom found it independently, Gillus framed the theory and built the mechanism, and Mu-jin coined the name without co-building it.
+
+> Layered credit, and Mu-jin names it. Madeleine found it and designed the commission; Thom found it independently; Gillus framed the theory and built the mechanism; Mu-jin coined the name. Edit Volume III lines 66, 340 and overview line 63; Necrocursica line 93 credits Mu-jin as namer, not co-builder.
+
+### R61-14-TWO_GILLUS_LETTERS [Alchemy Conversion Questionnaire 2026-09-28 ST4]
+
+The first letter was received and transcribed in Volume II; the second was intercepted, held in the case file, hand-delivered by the investigator, left unopened four months, then answered.
+
+> Two letters. Volume II's letter was received and transcribed; a second was intercepted, held in the case file, hand-delivered by the investigator, unopened four months, then answered. Papers line 23 and Volume III line 78 say 'second'; the Necrocursica's note stays as an echo.
+
+### R61-15-ELEVEN_DAYS_IN_ALL [Alchemy Conversion Questionnaire 2026-09-28 ST5]
+
+Write the event as eleven days in total, with the change, the request and the ending all falling on the last day.
+
+> Eleven days in all. Line 139 becomes 'Before the eleventh day was out'. Lines 133 and 135 and Volume III line 276 stay true; the change, the request and the ending fall on the last day.
+
+### R61-21-TAT_IS_DOYUN [Alchemy Conversion Questionnaire 2026-09-28 ST11]
+
+Tat's scenes become Doyun's boyhood in Mu-jin's room at Sum-gol (Doyun about 13-15, Mu-jin 22-24), and Doyun gains the cat, the Third Corruption question and the address as canon.
+
+> He is Doyun, met as a boy. Tat's scenes move from the Monastery to Mu-jin's room at Sum-gol, when Doyun is about 13 to 15 (Mu-jin 22 to 24). Doyun gains the cat, the Third Corruption question and the address; his boyhood becomes canon.
+
+### R61-28-DORYUN_SIGNED_PUPILS_WORK [Alchemy Conversion Questionnaire 2026-09-28 ST18]
+
+Doryun's estrangement comes from patiently signing Mu-jin's later work as his own at court, with no brawl and no sternum strike, kept separate from the credited correction at fourteen.
+
+> He is Doryun, recut as quiet theft. The scene moves to the court: Doryun patiently signs his pupil's later work as his own, with no brawl, and Paracelsus's sternum strike goes. Doryun's card gains the act behind 'estranged', kept separate from the credited correction at fourteen.
+
+### R61-30-THREE_FRIENDS_STAY_UNASSIGNED [Alchemy Conversion Questionnaire 2026-09-28 ST20]
+
+Leave the friends' later fates open and do not identify them with canon's three dead, who can be whoever a later scene needs.
+
+> Leave the line unassigned. No change; the friends' later fates stay open and the three dead can be anyone a later scene needs.
+
+### R61-31-NOOSPHERIC_SPELLING [Alchemy Conversion Questionnaire 2026-09-28 ST21]
+
+Write 'Noospheric' rather than 'Nospheric', and keep Anamnetic, Necrocursica and Urbis in their published spellings.
+
+> Fix only the plain misspelling. 'Nospheric' becomes 'Noospheric' in the Necrocursica (13 uses) and on the Sub-Stats page; Anamnetic, Necrocursica and Urbis stay as published.
+
+### R61-34-MUJIN_MAHUO_BOYHOOD [Alchemy Conversion Questionnaire 2026-09-28 MJ2]
+
+Write his boyhood from his card's frost and mountain and Sum-gol's river-valley fields with new sky-watching, naming the house once and the Ledger-Prince epithet never.
+
+> A Mahuo boyhood near the mountain, the house named once. The frost and the mountain come from his card, the fields from Sum-gol's river-valley farming; the sky-watching is new. He names the house once and the Ledger-Prince title (the court epithet he resents) never. 'No men of learning' goes.
+
+### R61-35-VIS_IS_GEUKHON_EARLIER_LIFE [Alchemy Conversion Questionnaire 2026-09-28 MJ3]
+
+The coffin's 'Vis, Alchemical Astronomer' is an earlier life of the soul Kaalabad names, whose four hundred years hold more than one life, paying off the Soul Kingdom thread.
+
+> His own earlier life: 'Vis' was the soul called Geuk-hon. The coffin keeps 'Vis, Alchemical Astronomer' as an Elfin earlier life of the soul Kaalabad names; that soul's four hundred years hold more than one life. Pays off Kaalabad and the Soul Kingdom thread, and makes the author note canon.
+
+### R61-37-MUJIN_SEPARATION_TURNED_INWARD [Alchemy Conversion Questionnaire 2026-09-28 MJ5]
+
+Mu-jin corrects everyone but himself, and what he files away is the Trace aimed at his own signature; Volume III is his cure, a decision made under witness.
+
+> Separation turned inward: he corrects everyone but himself. He confronts Paracelsus and Gillus plainly; what he files away is his own matter, the Trace aimed at his signature. Vol II's confession survives nearly word for word, the café walk-out goes, and Vol III becomes the Heresiology's cure, a decision under witness.
+
+### R61-42-ACCORD_ENTERS_CODEX_AT_VOL_III [Alchemy Conversion Questionnaire 2026-09-28 MJ10]
+
+Show Mu-jin outside any institution in Volumes I and II, and let the Division and his vow appear only on Volume III's letter and title page after his rank.
+
+> The Accord appears only from Vol III, after the rank. Vols I–II show him outside any institution; Vol III's letter and title page carry the Division and the vow. Simpler, but it hides the assessments that sent him everywhere.
+
+### R61-44-RIMWARD_RESPONDER_STAYS_UNNAMED [Alchemy Conversion Questionnaire 2026-09-28 MJ12]
+
+Volume III opens on Rimward as the question the Trace answers, describing the wall, the eye and the law of response but never who or what responded.
+
+> Named as his question; what answered stays unnamed. Vol III opens on Rimward as the question the Trace answers: he writes the wall, the eye and the law of response, never who responded. Keeps the promise to Ara and his refusal to invent a shape.
+
+### R61-67-GREAT_WORK_STAGE_WELLSPRINGS [Alchemy Conversion Questionnaire 2026-09-28 WS1]
+
+Tie the Great Work's stages to currents by physics: Calcination to Cinerion, Dissolution to Dissolution, Separation to Judicium, Fermentation to Rebirthine, Distillation to Sublimare, Coagulation to Coagulatio, and Conjunction to Attraction, whose corruption injures Attraction itself.
+
+> Six stages mapped by physics; Conjunction stays Attraction-driven. Calcination to Cinerion (pyrolytic char), Dissolution to Dissolution, Separation to Judicium (discernment), Fermentation to Rebirthine (breakdown pays for growth), Distillation to Sublimare (if K5 keeps the physics), Coagulation to Coagulatio. Conjunction's Corruption injures Attraction itself. Alchemetrica gains a stage table; Mu-jin's card follows.
+
+### R61-69-MORTALIS_IS_A_GATE [Alchemy Conversion Questionnaire 2026-09-28 WS3]
+
+Write Mortalis as Auren's Still Gate, leave the river of souls to Sylorin as a Pantheon image, and treat a Mortalis 'loan' as a current borrowed and stepped out of, with the sealed vessel holding the impression-body.
+
+> Gate, recast to the physics. Mortalis is Auren's Still Gate; the river becomes Sylorin's soulstream, a Pantheon image, not a current. The 'loan' becomes a current borrowed and stepped out of, as Malphas's card says. The sealed vessel holds the impression-body. Rewrites Codex II's Mortalis passages and Corrant 189.
+
+### R61-70-ANAMNESIS_READS_NOT_STORES [Alchemy Conversion Questionnaire 2026-09-28 WS4]
+
+Records live in ground and objects as Mnemata and Anamnesis is the instrument that reads and wakes them, erasing by coarse reading, so Volume I's 'nothing is erased' stands only as the young author's error that Volume III corrects.
+
+> Instrument: records live in the ground; Anamnesis reads them. Genesio's Traces are the hollow's Mnemata, and Anamnesis reads and wakes them. Thom's harm is erasure by coarse reading plus the site's corruption. Vol I's 'nothing is erased' stands as the young author's error that Vol III corrects; the Vol III title follows.
+
+### R61-71-NO_ANAMNETIC_FABRIC [Alchemy Conversion Questionnaire 2026-09-28 WS5]
+
+Drop the 'Anamnetic fabric' and write records as the Mnemata of places the dead touched, the world-ledger as Maelor's, death as the Crossing's three destinations, and 'Anamnetic activation' as waking a Trace.
+
+> Recast to canon and drop the term. Records are the Mnemata of places the dead touched; the world-ledger is Maelor's. The Necrocursica's account of death follows the Crossing's three destinations. About 25 lines change; 'Anamnetic activation' becomes 'waking a Trace' or similar.
+
+### R61-72-RESIDUES_MAP_TO_CRYSTAL_LAYERS [Alchemy Conversion Questionnaire 2026-09-28 DE1]
+
+Every residue a dead practitioner leaves lands on a Soul Crystal layer and a Crossing product, with the Noospheric Echo narrowed to the held Echo (voice, habit, possession) and its place-imprint half moved to the Harmonic Imprint.
+
+> Use the map; split the Nospheric Echo. Every residue lands on a layer and a Crossing product. The Nospheric Echo narrows to the held Echo (voice, habit, possession); its place-imprint half moves to the Harmonic Imprint. K4 decides whether the Crossing page gains the map.
+
+### R61-74-VOLITIONAL_TRACE_SETTLES_IN_GROUND [Alchemy Conversion Questionnaire 2026-09-28 DE3]
+
+At death an unfinished decision settles as an Attraction Layer commitment into the ground where the person was bound, kept as Mnemata where ground holds records well (like Genesio) and fading elsewhere, and Anamnesis reads and wakes it.
+
+> A commitment laid into the place, read by Anamnesis. An Attraction Layer commitment settles into the ground where the person was bound, as Mnemata (a place's memory imprint). It lasts where ground holds records well (an Anamnesis site like Genesio) and fades elsewhere; Anamnesis reads and wakes it. No canon page changes.
+
+### R61-82-TRIA_PRIMA_ARE_CRYSTAL_LAYERS [Alchemy Conversion Questionnaire 2026-09-28 GW4]
+
+The Tria Prima map to the Crystal's layers by plane (Sulphur the Core, Salt the Shell, Mercury the Attraction Layer), making spagyria layer-by-layer medicine whose Separate-Purify-Recombine runs the Parting, Distillation and the Wedding and carries Conjunction's Rupture risk.
+
+> Crystal layers by plane: Sulphur Core, Salt Shell, Mercury Attraction. Spagyria becomes layer-by-layer medicine; Separate-Purify-Recombine runs the Parting, Distillation and the Wedding, so it carries Conjunction's Rupture risk. The Necrocursica's Aetheric Shell residue joins Salt; its residue triad stays Malphas's openly 'modified' reading.
+
+### R61-88-INDEX_NAMES_TEACHER_GLOSS [Alchemy Conversion Questionnaire 2026-09-28 GL1]
+
+Mu-jin and Malphas write glyph chains in Master Glyph Index names, Mu-jin may gloss his teachers' older name once per glyph he explains ('Ie, Perception; I was taught Insight'), and the phoneme table is labelled an older teaching register that drifted.
+
+> Index names in chains; Mu-jin glosses his teachers' names in prose. 'Ie, Perception; I was taught Insight', once per glyph he explains. The Book of Summons' glyph lines move to Index names; the phoneme table stays, labelled an older teaching register that drifted. Malphas writes Index names only.
+
+### R61-89-CATEGORY_ONE_SEAL_ON_TOPOLOGY [Alchemy Conversion Questionnaire 2026-09-28 GL2]
+
+Write Category One's last step as Flx (Flux) sealed by Tp (Topology) on a Fixatio chain, because a Wellspring names the chain and is never itself a glyph.
+
+> 'Flx (Flux), sealed by Tp (Topology) on a Fixatio chain'. Names the checkable glyph and the law it runs under in one clause. Topology 'freezes a local outcome grid for a brief window', which suits a field meant to fade cleanly.
+
+### R61-90-MORTALIS_SEAL_CLOSES_ON_VOR [Alchemy Conversion Questionnaire 2026-09-28 GL3]
+
+Category Three's seal is written as 'the Mortalis seal' closing on Vor (Return) as its end condition, so it ends when the Trace's decision is delivered, and it opens with 'ena' when spelled out.
+
+> Vor (Return), written as a closing condition. 'The Mortalis seal', closing on Vor: it ends when the Trace's decision is delivered, opened with 'ena' if spelled out. Explains why the Papers' echo ended 'in one breath' after eleven days.
+
+### R61-92-CATEGORY_THREE_POURED_AND_CUT [Alchemy Conversion Questionnaire 2026-09-28 GL5]
+
+The impression-body is poured and its Mortalis seal is Runecraft, so a failed seal is an unsealed rune that ambient pressure turns into a misfiring haunting until someone finds and breaks it, and the maker's mark and the cutter's hand both lead to De Raits, who holds both crafts.
+
+> Poured body, Mortalis seal written or cut (Runecraft). The failed seal is an unsealed rune: an open wound that ambient pressure completes into a haunting, misfiring until found and broken. Maker's mark and cutter's hand both trace De Raits, who needs both crafts.
+
+### R61-93-WILL_ENTERS_AT_AUTHORIZATION [Alchemy Conversion Questionnaire 2026-09-28 GL6]
+
+The Continuum reads the practitioner's Attraction Layer into a Category Three working at Authorization, which gives the Mirror Trace its cause at the moment of inscription, and the cure (a third party separating that Attraction Layer) does not change.
+
+> Authorization: the Continuum reads the practitioner into the working. One clause moves. The Mirror Trace gets a canon cause at the moment of inscription, and its cure (a third party separating the practitioner's Attraction Layer) stands unchanged.
+
+### R61-94-GRAVEMARK_INK_SEALS_CATEGORY_THREE [Alchemy Conversion Questionnaire 2026-09-28 GL7]
+
+The lawful Category Three formula names Gravemark Ink, so short or diluted ink is a material cause of Incomplete Sealing, and the ink's short lawful supply is the question Vaughaus Thom's scaling has to answer.
+
+> Yes: the lawful formula names Gravemark Ink. Malphas's formula ties to a priced, scarce reagent that suits a written seal. Short or diluted ink becomes a material cause of the Incomplete Sealing, and the supply gap explains where Vaughaus Thom found enough to scale.
+
+### R61-95-AETHERIC_BLEED_IS_MECHANICA [Alchemy Conversion Questionnaire 2026-09-28 GL8]
+
+The Aetheric Bleed is Extraction from a dead donor and never 'legitimate' work: the practitioner can be treated over months, the worked ground never heals, and it is the one Mortalis failure that becomes a breach at the scale of a civilization.
+
+> Real Mechanica: Extraction from a dead donor, filed at Grade V. Drop 'legitimate'. The practitioner can be treated over months; the worked ground never heals. The one Mortalis failure that crosses into civilizational breach.
+
+### R61-96-MORTALIS_HARMONIZATION_BY_OPERATOR [Alchemy Conversion Questionnaire 2026-09-28 GL9]
+
+Paracelsus and Gillus De Raits are lawfully harmonized for Mortalis and do lawful work well, while Vaughaus Thom's regional scaling tips into Mechanica, which gives the Aetheric Bleed its example and the Papers a concrete breach at Genesio.
+
+> Paracelsus and Gillus harmonized; Thom outruns his at scale. The commission is lawful work done well. Thom's regional scaling tips into Mechanica, giving the Aetheric Bleed its example and the Papers a concrete breach at Genesio.
+
+### R61-97-PARUNIC_ECHO_IS_SIGNATURE [Alchemy Conversion Questionnaire 2026-09-28 GL10]
+
+'Parunic Echo' is the trade's word for a practitioner's Essence Signature held in Aetheric Residue, readable from Stage IV, and the word 'glyph-trace' is retired.
+
+> Keep the name; it is the Essence Signature in the Residue. 'Parunic Echo' stays as the trade's word for a practitioner's Essence Signature carried in Aetheric Residue, legible from Stage IV. 'Glyph-trace' goes. Logged as a naming-only extension.
+
+### R61-98-JABIR_AMULET_OLD_HIGH_RUNIC [Alchemy Conversion Questionnaire 2026-09-28 GL11]
+
+The text on the copper amulet is readable Old High Runic of an age no one can place: Mu-jin reads it at once but cannot date it, and the words Jabir recited are his own gloss of the working cut into it.
+
+> Very old Old High Runic, readable but undatable. The overview's 'decipher' becomes 'date'. Jabir's recited words are his gloss of the working cut in the copper. Mu-jin reads it at once and cannot place its age.
+
+### R61-99-DE_RAITS_REGISTERED_MARK [Alchemy Conversion Questionnaire 2026-09-28 GL12]
+
+The sign on Madeleine Ault's wax seal is Gillus De Raits's registered mark (a maker's mark when he pours, an Engraver's mark when he cuts), and the same mark is on his impression-bodies, so an investigator can match the seal to the bodies.
+
+> His registered craft mark, the one struck on his work. 'Glyph' becomes 'mark': a maker's mark if he pours, an Engraver's mark if he cuts. The same mark sits on his impression-bodies, so the investigator can match the seal to the bodies.
+
+### R61-106-CLEARANCE_BY_TIER_NOT_LEVEL [Alchemy Conversion Questionnaire 2026-09-28 EC7]
+
+Operations are Bench-reserved by named Tier, the Necrocursica is called 'sealed', and file clearance reads like Lyssara Veyn's card ('Tier IV Restricted'), so no document gates access by a numbered Level.
+
+> Bench reservation for operations; sealed treatise; Lyssara-style clearance for files. Categories are Bench-reserved by named Tier (EC10 sets which). The Necrocursica is 'sealed' everywhere, as its title page says. The Papers' header and Appendix I read like Lyssara's card ('Tier IV Restricted'). Every Level line changes.
+
+### R61-107-MORTALIS_CATEGORIES_FIELD_ENTRIES [Alchemy Conversion Questionnaire 2026-09-28 EC8]
+
+The texts give each Category's law, cost and tell in the author's own voice, while Categories One to Three each get an R47-2 entry and a Spell Index row with a Stage floor and Category Four gets a refusal entry, so every counter can be looked up.
+
+> Both: pieces in the prose, a field-format entry per Category. The texts carry law, cost and tell in each author's voice. Categories One to Three each get an R47-2 entry and a Spell Index row with a Stage floor; Category Four gets a refusal entry. Every counter can be looked up.
+
+### R61-108-MORTALIS_FULL_COST_STACK [Alchemy Conversion Questionnaire 2026-09-28 EC9]
+
+Every working pays a reserve share, site depletion and waste heat, Category Two and up also tick the Drift Scale, each Anamnesis read erases what it takes so a Trace can be used only once, and the Genesio activation has a hard limit and leaves a visible scar.
+
+> The full stack, and a Trace can be used once. Reserve share, site depletion, waste heat, a Drift Scale tick for Category Two and up, and every Anamnesis read erasing what it takes. The Genesio activation gets a hard limit and a visible scar.
+
+### R61-111-PARACELSUS_SOLD_UNENTERED_FORMULA [Alchemy Conversion Questionnaire 2026-09-28 EC12]
+
+Paracelsus took a fee for an unentered formula he could lawfully hold but not sell, so the breach and a Master of the Circle's personal liability fall on him while the patron broke no law; the Codex names the fee, and the Papers' author has a case.
+
+> Private, unentered and paid: he sold what he could only hold. The patron broke no law, so the Papers' line stands as said to him; Paracelsus carries the breach and a Master of the Circle's personal liability (the rank that seals). The Codex names the fee; the Papers author has a case.
+
+### R61-113-NECROCURSICA_READER_COPY_REDACTED [Alchemy Conversion Questionnaire 2026-09-28 EC14]
+
+The reader's copy strikes Category Three's completion steps under 'preservable under redaction' and prints Appendix I's stabilisation protocol in full, while the sealed original stays complete so Heresiology Case II holds.
+
+> The Accord's redacted copy: completion struck, Appendix I printed. The sealed original stays complete, so Case II holds. The reader's copy has Category Three's completion steps struck under 'preservable under redaction', and the stabilisation protocol, the defensive counter to a failing seal, printed in full.
+
+### R61-114-CASTLEFALL_CIRCLE_GRAVETIDE_INK [Alchemy Conversion Questionnaire 2026-09-28 EC15]
+
+The investigator names the circle's ink as Gravetide Ink only when the Genesio analysis comes back, and the site holds two glyph roles: the circle is the Boundary in Gravetide Ink and the Category Three seal is the Sealing in Gravemark Ink.
+
+> Gravetide Ink, named when the Genesio analysis returns. Keeps the caution beat. A later entry names it from the sample, giving the reader a findable piece and tying the circle to the Boundary role. The circle is the Boundary (Gravetide Ink); the Category Three seal is the Sealing (Gravemark Ink, GL7): two glyph roles on one site.
+
+### R61-115-TRANS_ALFTIAN_IN_KETSUEN [Alchemy Conversion Questionnaire 2026-09-28 SE1]
+
+The terraces are Ketsuen's limestone valleys, Genesio sits among the Uplands' dense seeps, Castlefall is a valley rail town and Urbis is a heartland city, all in the Inner World toward the Concord heartland, and the invented names are kept.
+
+> Inner World: Ketsuen's valleys and Uplands, toward the Concord heartland. The terraces become Ketsuen's limestone valleys, Genesio sits among the Uplands' dense seeps, Castlefall is a valley rail town and Urbis a heartland city. Invented names survive, including Heresiology Case IV. One geography note on the Ketsuen page.
+
+### R61-116-SHANENI_IS_ERESSE_BORDER [Alchemy Conversion Questionnaire 2026-09-28 SE2]
+
+'The Shaneni empire's borders' means the New World border where Eresse's old-ground meets the chartered arc, two incompatible orders on one ground, which is why Jabir's knowledge is a synthesis; no new polity exists.
+
+> The New World border where Eresse's old-ground meets the chartered arc. No new polity. 'The Shaneni empire's borders' becomes that border, where two incompatible orders share ground, which explains his synthesis. One line reworded; nothing added to Eresse's page.
+
+### R61-117-GENESIO_ONE_MOUNTAIN_TERRITORY [Alchemy Conversion Questionnaire 2026-09-28 SE3]
+
+Genesio is a single mountain territory reached by a day's rail to the Genesio waystation and then two days mounted up the passes, its archive-town holds the Archivum, and the tanner's flat is in Castlefall.
+
+> One mountain territory: rail to a railhead, then the passes. A day by rail to the Genesio waystation, then two days mounted up the passes: both figures hold. Its archive-town holds the Archivum. Volume I's tanner's flat moves to Castlefall, where Volume II and the Papers already put it.
+
+### R61-118-TWO_ARCHIVUMS_URBIS_MONASTERY [Alchemy Conversion Questionnaire 2026-09-28 SE4]
+
+Genesio's Archivum is the older outlying house with its own sealed stacks, the Urbis Archivum fills the lower floors of the Herald's Monastery at Urbis, and there is no Genesio Monastery.
+
+> Two Archivums; the Monastery at Urbis houses the Urbis Archivum. Genesio's is the older outlying house with its own sealed stacks; Urbis's sits in the Monastery's lower floors, so Volume II's two lines already agree. Only the Necrocursica's 'Genesio Monastery' changes.
+
+### R61-119-HERALDS_ARE_MAELORS_ORDER [Alchemy Conversion Questionnaire 2026-09-28 SE5]
+
+The Heralds descend from the heralds of Maelor, Archon of Memory, which gives the Archivums, the Silent Archivists and the Genesio Anamnesis site a patron of memory, and Asclepius's scorn for 'God-Essence' is a quarrel with the order's theology.
+
+> An order grown from Maelor's lineage of heralds. One Factions page and a line on Maelor's page. The Archivums, the Silent Archivists and the Genesio Anamnesis site gain a patron whose office is memory; Asclepius's scorn for 'God-Essence' becomes a quarrel with the order's theology.
+
+### R61-120-URBIS_HEARTLAND_CITY [Alchemy Conversion Questionnaire 2026-09-28 SE6]
+
+Urbis is a heartland city with rail and trams where the Research and Archives Division keeps a regional desk, while the Archives Eternal stays at the Concord Citadel.
+
+> A new Inner World heartland city with a regional Division office. The Archives Eternal stays at the Citadel; the Papers' address is a regional desk. One line of geography; rail and trams suit a heartland city.
+
+### R61-121-NALN_IS_NALUN [Alchemy Conversion Questionnaire 2026-09-28 SE7]
+
+The Silent Archivists are Vaultmere's archivists in Nalūn, and the Measurewrights' instrument chair verifies the Tempus drift in place of an observation post, because Deepvein measures contracts, not skies.
+
+> Nalūn: Vaultmere's archivists transcribe; the Measurewrights verify the drift. Two orphans tie to canon, and Vaultmere's pending archivist profile goes into use and needs ratifying. The 'observation post at Naln' becomes the Measurewrights' instrument chair, since Deepvein measures contracts, not skies.
+
+### R61-122-TEMPUS_IS_THE_WEIGHT [Alchemy Conversion Questionnaire 2026-09-28 SE8]
+
+Tempus is the Weight, the 29-year wanderer used to count generations, so its drift is a public shock; it is not a gas giant seen by day, and Heresiology Case V keeps its name.
+
+> The Hermetic name for the Weight, the 29-year wanderer. Fits five wanderers: Tempus means time and the Weight counts generations, so its drift is a public shock. The daylight-eye image goes; Case V keeps its name.
+
+### R61-123-TEMPUS_DRIFT_SEQUENCE [Alchemy Conversion Questionnaire 2026-09-28 SE9]
+
+The commission's nudge settles, then the drift resumes and accelerates with Thom's activations and reverses once the old Trace completes; Volume II's cause is Mu-jin's first wrong guess, which Volume III names as an error.
+
+> A sequence; Volume II's cause is Mu-jin's first wrong guess. The commission's nudge settles, then the drift resumes and accelerates with Thom's activations, and reverses once the old Trace completes. Volume III gains one sentence naming the earlier error. Matches Case V and his card's limits.
+
+### R61-124-TEMPUS_MOVED_BY_CORRESPONDENCE [Alchemy Conversion Questionnaire 2026-09-28 SE10]
+
+The drift is the Continuum's delayed answer by correspondence, with no energy reaching the planet, and its price is booked as debt on the site and its operators, never as an EU figure.
+
+> Correspondence: no energy moves it. The drift is the delayed answer the Codex argues for. Its price is booked as debt on the site and the operators, not as an EU figure.
+
+### R61-126-GENESIO_ANTEDILUVIAN_SITE [Alchemy Conversion Questionnaire 2026-09-28 SE12]
+
+'The Eressean era' points to the Antediluvian Calendar: Genesio's old hall was built on its Wellspring, it is one of the sites the Guild surveyed, and the unpublished finding on what those sites are now doing explains why Genesio pushes back when drawn.
+
+> An Antediluvian site, worked before that Calendar closed. Genesio becomes one of the Guild's surveyed sources, its old hall built on the Wellspring. The unpublished finding on what those sites 'are now doing' becomes the texts' reason Genesio pushes back when drawn.
+
+### R61-127-CODEX_SECTION_FIVE_PAGES [Alchemy Conversion Questionnaire 2026-09-28 ME1]
+
+Both converted texts become wiki pages beside the three Codex volumes, so the section holds five pages and the cross-references resolve, and the texts' sealing and clearance labels read as in-world labels on the public pages.
+
+> Publish both under The Alftian Codex section. Five pages sit together; Volume III's references and the Halveth line resolve; the INDEX section grows from three pages to five. 'Sealed' and 'Level VI' become in-world labels on public pages.
 
 ### R27-1-CYMORATH_AIR_OF_ASCENT_FROST_ON_VOHRIN [Cymorath Portfolio Ruling Standing Ruling]
 
@@ -2047,7 +2731,7 @@ Every duel ends with a full aftermath beat: wounds dressed, what changed between
 
 > Every duel ends with a full aftermath beat: wounds dressed, what changed between people.
 
-## dialogue (142)
+## dialogue (149)
 
 ### R20C-36-CLEARLY_WINS [Pack Twenty R20C-36]
 
@@ -2300,6 +2984,48 @@ Significance may live in a physical tell adjacent to the line, in another charac
 A loaded word gets one physical response on first use and no comment; meaning arrives on the third appearance through change — another character uses it, the usual user withholds it, or register makes earlier uses retroactively legible. Withholding is the strongest of the three.
 
 > A loaded word gets one physical response on first use and no comment at all. Meaning arrives on the third appearance, and it arrives through change: someone else uses the word, or the person who always uses it withholds it, or it lands in a register that makes the earlier uses retroactively legible. Withholding is the strongest of the three.
+
+### R61-19-NEROS_IS_A_ROSTER_NPC [Alchemy Conversion Questionnaire 2026-09-28 ST9]
+
+Neros becomes a new person with a roster entry and voice note, and his railway conversation, stabilised drift and case-file readings remain canon.
+
+> Keep as a new person. A roster entry (a short NPC record) and a voice note; the railway conversation, the stabilised drift and the case-file readings stay. Where he met Mu-jin follows the origin question.
+
+### R61-23-CASSIAN_AULT_ROSTER_NPC [Alchemy Conversion Questionnaire 2026-09-28 ST13]
+
+Give Cassian a want, a refusal line, a lie about what the document said and a voice, so later scenes can use the man behind the Papers' interview.
+
+> Roster NPC through the NPC build. A record with a want, a refusal line, a lie (what the document said) and a voice, so the Papers' interview has a person behind it and a later scene can use him.
+
+### R61-27-DESSA_MAEL_ROSTER_NPC [Alchemy Conversion Questionnaire 2026-09-28 ST17]
+
+Dessa Mael gets a short NPC record with a want, a refusal and a voice, and her Genesio archive scene stays as written.
+
+> Keep as a new person. A short NPC record (want, refusal, voice); the Genesio archive scene stays as written.
+
+### R61-39-THRICE_GREAT_REFUSED_EPITHET [Alchemy Conversion Questionnaire 2026-09-28 MJ7]
+
+After the king's hall the Monastery calls him the Thrice-Great and he writes 'That is not my name', a line he later gives Kaalabad; the frame's Sage titles go.
+
+> An epithet others gave him, which he refuses. After the king's hall the Monastery calls him 'the Thrice-Great'; he writes 'That is not my name', the line he later gives Kaalabad. The word stays in-world and rhymes with the Ledger-Prince; the frame's Sage titles go.
+
+### R61-51-MALPHAS_MUJIN_OLD_FRIENDS [Alchemy Conversion Questionnaire 2026-09-28 ML6]
+
+Mu-jin and Malphas were friends, and Mu-jin knows him only as Malphas the alchemist, never learning that his friend founds The Mother, whose lich and cult work under other names.
+
+> Malphas and Mu-jin were friends. Mu-jin knows his old friend as Malphas the alchemist and never learns that his friend founds The Mother; the lich and the cult work under other names.
+
+### R61-58-MALPHAS_TWO_REGISTERS [Alchemy Conversion Questionnaire 2026-09-28 ML13]
+
+Malphas's voice block sets opaque command as his default and the Necrocursica's candour as his grief-and-joy shift (the man before The Mother), never uses contractions, and trims chatty tics while keeping the confessions.
+
+> Two registers, one man. The block sets command as his default and the Necrocursica's candour as his grief and joy shifts, the man before The Mother; contractions never. Trim the chatty tics, keep the confessions, so his fall shows in his voice.
+
+### R61-60-NECROCURSICA_IS_ARENA_SOURCE [Alchemy Conversion Questionnaire 2026-09-28 ML15]
+
+The sealed Necrocursica sits beside the Zettari notes as the source material Mu-jin and the culprit both studied, so his Arena speech is a buried confession that he read his friend's book, without naming its author.
+
+> Yes: the sealed Necrocursica sits beside the Zettari notes. The speech gains a buried confession: Mu-jin read his friend's book and now describes its use without naming its author. No scene edit.
 
 ### R57-04-DIALOGUE_IMPROVED_ON_REQUEST [Rulings Backfill 2026-09-26 2026-09-21 — R19-2-FIXED_TEXT]
 
@@ -2901,7 +3627,7 @@ Narration refers to characters by POV epithets, the way the viewpoint sees them;
 
 > Narration refers to characters by POV epithets, the way the viewpoint sees them; the naming characterises.
 
-## documents (33)
+## documents (82)
 
 ### R20C-3-SWEEP_TWO_TIERS [Pack Twenty R20C-3]
 
@@ -3023,6 +3749,300 @@ Tiers of standing and ladder rungs are written by name only, never numbered.
 
 > Tiers of standing and ladder rungs are written by name only, never as numbers.
 
+### R61-1-TEXTS_DATED_EARLY_IMPERIAL_AGE [Alchemy Conversion Questionnaire 2026-09-28 K1]
+
+Date the Codex volumes, the Papers and the Necrocursica in the early years of the Imperial Age, which is also the era of the story's present.
+
+> The five texts are stamped in the early years of the Imperial Age, and the story's present is itself the early Imperial Age (see the calendar answer at the end).
+
+### R61-2-HERESIOLOGY_POSTDATES_THE_TEXTS [Alchemy Conversion Questionnaire 2026-09-28 K2]
+
+Treat the Heresiology as a recent Accord manual drawn from these events: its five cases stand word for word, the texts' events end some years before it in Mu-jin's past, and Case II's compelled author is Malphas.
+
+> After: a recent Accord manual drawn from these events. The five cases stand word for word; the meta page and Malphas's card stay true. The texts' events close some years before its issue, in Mu-jin's past. Case II's author 'pulled by access and manipulated through need' must fit Malphas (the Necrocursica items).
+
+### R61-3-CODEX_VOLUMES_IN_MUJIN_LIFE [Alchemy Conversion Questionnaire 2026-09-28 K3]
+
+Place Volumes I and II in Mu-jin's road years from fourteen to about nineteen, make the eleven Urbis months his one-lung convalescence before the Academy, and set Volume III after the Ashgate road with Frithia and infant children mentioned.
+
+> Vols I–II on the road; Vol III after the Ashgate road. Vols I–II fall between fourteen and about nineteen; the eleven months in Urbis become his convalescence on one lung, before the Academy. The Correction answers Rimward. 'Final Testimonies' and 'life's work' go, and Vol III must mention Frithia and infant children.
+
+### R61-8-NECROCURSICA_SEVEN_UNMOORINGS [Alchemy Conversion Questionnaire 2026-09-28 K8]
+
+Reserve 'Seven Cacodaemonic Corruptions' for the Heresiology and call the Necrocursica's list the Seven Unmoorings, each of which may name the Heresiology inversion that drives it.
+
+> Heresiology keeps it; the Necrocursica's become the Seven Unmoorings. The Necrocursica's title, chapter 3 heading and Appendix II are renamed from the text's own verb ('it unmoors them', chapter 4), and each failure may name the Heresiology inversion that drives it. Grade III and the God Hand page's 'two sevens' stay true.
+
+### R61-9-WORD_FILES_ARE_CONVERSION_BASE [Alchemy Conversion Questionnaire 2026-09-28 K9]
+
+Convert the five texts from the Word files in first person throughout, then rewrite the wiki Codex pages as condensations of the new text that keep their chapter subheads and residue table.
+
+> Word files as base; wiki condensations regenerated afterwards. Every contradiction is visible and decided here. The converted texts are first person throughout, and the wiki's Codex pages are rewritten afterwards as condensations of the new text, keeping their chapter subheads and residue table.
+
+### R61-10-CONVERSION_IS_FULL_REBUILD [Alchemy Conversion Questionnaire 2026-09-28 K10]
+
+Rethink structure, events and cast around Mu-jin, Malphas and the new Papers author, and treat the old texts as source notes only.
+
+> Full rebuild: structure, events and cast are rethought around the new authors, and the old texts become source notes.
+
+### R61-11-RENAME_HISTORICAL_PEOPLE_IN_TEXTS [Alchemy Conversion Questionnaire 2026-09-28 ST1]
+
+Give Paracelsus, Jabir, Gillus, Thom and Tat in-world names, keep Trismegistus, Asclepius, the Tablet's wording and the Tria Prima, and credit the real sources in author notes.
+
+> Rename historical people; keep gods and idea-names. Furveus loses 'Paracelsus'; Jabir, Gillus and Thom get in-world names; Trismegistus and Asclepius stay under R50-05; Tat is renamed unless he becomes Doyun; the Tablet's wording and the Tria Prima stay, credited in author notes (R48-27).
+
+### R61-12-THOM_PAPER_PREDATES_COMMISSION [Alchemy Conversion Questionnaire 2026-09-28 ST2]
+
+Thom's fourth-residue paper and crude activations go back twelve years, but his completion method and the drift date only from the commission.
+
+> Old paper on the residue; completion method after the commission. The twelve-year paper and crude activations stay; the completion method and the drift date from the commission, and Volume III line 122 reads as the completion step only. Papers line 75 is reworded, or it puts the Necrocursica's first edition about 24 years back.
+
+### R61-13-VOLITIONAL_TRACE_LAYERED_CREDIT [Alchemy Conversion Questionnaire 2026-09-28 ST3]
+
+Madeleine found the Volitional Trace and designed the commission, Thom found it independently, Gillus framed the theory and built the mechanism, and Mu-jin coined the name without co-building it.
+
+> Layered credit, and Mu-jin names it. Madeleine found it and designed the commission; Thom found it independently; Gillus framed the theory and built the mechanism; Mu-jin coined the name. Edit Volume III lines 66, 340 and overview line 63; Necrocursica line 93 credits Mu-jin as namer, not co-builder.
+
+### R61-14-TWO_GILLUS_LETTERS [Alchemy Conversion Questionnaire 2026-09-28 ST4]
+
+The first letter was received and transcribed in Volume II; the second was intercepted, held in the case file, hand-delivered by the investigator, left unopened four months, then answered.
+
+> Two letters. Volume II's letter was received and transcribed; a second was intercepted, held in the case file, hand-delivered by the investigator, unopened four months, then answered. Papers line 23 and Volume III line 78 say 'second'; the Necrocursica's note stays as an echo.
+
+### R61-15-ELEVEN_DAYS_IN_ALL [Alchemy Conversion Questionnaire 2026-09-28 ST5]
+
+Write the event as eleven days in total, with the change, the request and the ending all falling on the last day.
+
+> Eleven days in all. Line 139 becomes 'Before the eleventh day was out'. Lines 133 and 135 and Volume III line 276 stay true; the change, the request and the ending fall on the last day.
+
+### R61-32-SUMGOL_TITLE_BESIDE_CODEX [Alchemy Conversion Questionnaire 2026-09-28 ST22]
+
+Head Volume I and the overview's name list with a correct Korean-stratum title in Mu-jin's own words, and keep 'The Alftian Codex' as the archive title everywhere else.
+
+> Add a Sum-gol title beside The Alftian Codex. A correct Korean-stratum title, his own name for the book, heads Volume I and the overview's name list; 'The Alftian Codex' stays the archive title everywhere else.
+
+### R61-34-MUJIN_MAHUO_BOYHOOD [Alchemy Conversion Questionnaire 2026-09-28 MJ2]
+
+Write his boyhood from his card's frost and mountain and Sum-gol's river-valley fields with new sky-watching, naming the house once and the Ledger-Prince epithet never.
+
+> A Mahuo boyhood near the mountain, the house named once. The frost and the mountain come from his card, the fields from Sum-gol's river-valley farming; the sky-watching is new. He names the house once and the Ledger-Prince title (the court epithet he resents) never. 'No men of learning' goes.
+
+### R61-36-ARA_HEALER_AND_ADDRESSEE [Alchemy Conversion Questionnaire 2026-09-28 MJ4]
+
+Ara treats the friends' illness beside Mu-jin, her 'ending as a passage' seeds the Monastery's 'Death is not the opposite of life', and Volume III is written to her.
+
+> Healer in the illness chapter and Vol III's addressee. She treats the friends' illness beside him, and her 'ending as a passage' seeds the Monastery's 'Death is not the opposite of life'. Vol III is written to her, keeping the Rimward promise and replacing 'at the request of no one'.
+
+### R61-38-MUJIN_WRITTEN_VOICE_BY_VOLUME [Alchemy Conversion Questionnaire 2026-09-28 MJ6]
+
+In Volume I he apologises for explaining and by Volume III he has stopped; he notices the flaw then the child, and jokes become dry self-correction.
+
+> A written voice built on his habits, changing by volume. Vol I apologises for explaining; by Vol III he has stopped. He notices the flaw, then the child. Lacquered jokes are cut back to dry self-correction. Length and texture stay, the man is recognisable, and the change shows his growth.
+
+### R61-40-ACCORD_SEALED_MUJINS_JOURNALS [Alchemy Conversion Questionnaire 2026-09-28 MJ8]
+
+He deposited each volume for common use under his teaching vow, and the Accord classified them Mortalis-adjacent and withdrew them under seal without asking him.
+
+> He filed them openly; the Accord sealed them. He deposits each volume under his teaching vow for common use; the Accord classifies them Mortalis-adjacent. 'Recovered' becomes 'withdrawn under seal'. His open book made restricted doctrine without asking him is the Ledger-Prince wound again.
+
+### R61-41-MALPHAS_WROTE_MARGIN_NOTE [Alchemy Conversion Questionnaire 2026-09-28 MJ9]
+
+The unsigned margin note that serves as Volume III's epigraph is in Malphas's hand, in Mu-jin's own copy of Volume II.
+
+> Malphas wrote the unsigned margin note that is Volume III's epigraph, in Mu-jin's own copy of Volume II.
+
+### R61-42-ACCORD_ENTERS_CODEX_AT_VOL_III [Alchemy Conversion Questionnaire 2026-09-28 MJ10]
+
+Show Mu-jin outside any institution in Volumes I and II, and let the Division and his vow appear only on Volume III's letter and title page after his rank.
+
+> The Accord appears only from Vol III, after the rank. Vols I–II show him outside any institution; Vol III's letter and title page carry the Division and the vow. Simpler, but it hides the assessments that sent him everywhere.
+
+### R61-45-MUJIN_NAMED_THE_TRACE [Alchemy Conversion Questionnaire 2026-09-28 MJ13]
+
+When the residue theory is credited, Mu-jin is the witness who named the Volitional Trace, and the method belongs to Gillus De Raits and Vaughaus Thom (names per ST1), never to Mu-jin as co-builder.
+
+> Mu-jin is the witness and namer: he named the Volitional Trace; Gillus De Raits and Vaughaus Thom built the method (follows ST3).
+
+### R61-46-NECROCURSICA_WRITTEN_AT_INVOCATION [Alchemy Conversion Questionnaire 2026-09-28 ML1]
+
+Date the Necrocursica's core text to Malphas's Invocation (Stage IX, when he stopped working alone) in the Codex I years, with the relief of the extra months as Invocation and the worsening a year or two later as The Mother, so its warnings read as sincere and tragic.
+
+> At Invocation: the compulsion is when he stopped working alone. The preface stays close to as written. The months past the brief are Invocation's relief; the 'worse' a year or two later is The Mother. The warnings read as sincere and tragic, written in the Codex I years.
+
+### R61-47-MALPHAS_IS_COMPELLED_AUTHOR [Alchemy Conversion Questionnaire 2026-09-28 ML2]
+
+Malphas is Case II's Compelled Author: his first corruption is Submission, the perverted form of his primary Wellspring Dissolution, bargained for sealed Genesio stacks as well as coerced, and only afterwards Fermentation Perverted.
+
+> Yes: Submission first, then Fermentation Perverted. Case II and Codex II's example stand with the name changed. The preface adds the bargain, sealed Genesio stacks for his pen, beside the coercion. His card's Lore gains a first corruption: the perverted form of his own primary Wellspring.
+
+### R61-48-ZERAPHINE_DROWL_SECOND_COMPELLER [Alchemy Conversion Questionnaire 2026-09-28 ML3]
+
+The second visitor who compelled Malphas at Genesio beside Gillus is Zeraphine Drowl, then the Pyraeon Forge Academy's tactician, whose persuasion marked his left hand and whose canon betrayal begins at his confinement.
+
+> Gillus plus Zeraphine Drowl, then the Academy's tactician. The Academy gets its first face, her canon betrayal starts at his confinement, and the hand mark is hers. Her card's Lore gains the meeting, fixing her as an Academy officer at the date ML1 sets.
+
+### R61-49-NECROCURSICA_SIGNED_MALPHAS [Alchemy Conversion Questionnaire 2026-09-28 ML4]
+
+Malphas signs the Necrocursica in his own name, so 'N. Ren' and 'Noxinus Ren' no longer name its author anywhere.
+
+> Malphas signs the Necrocursica in his own name, Malphas.
+
+### R61-50-IMPOSED_SCRIBE_TITLE [Alchemy Conversion Questionnaire 2026-09-28 ML5]
+
+The Necrocursica's title page gives Malphas a sentence-title his compellers imposed (something like 'Scribe to the Genesio Archivum, by order') that he mocks, never an Accord post or a house he answers to.
+
+> A sentence title his compellers imposed, which he mocks. Something like 'Scribe to the Genesio Archivum, by order'. Keeps the page's rhythm, shows Submission on its face, and stays card-safe: a leash is not a house he answers to.
+
+### R61-52-NECROCURSICA_TWO_EDITIONS [Alchemy Conversion Questionnaire 2026-09-28 ML7]
+
+The Necrocursica has an early manuscript (three residue categories and the warning footnote) that Codex I and II read, and a later sealed edition that is the extant text with a short edition note.
+
+> Two editions: an early manuscript, then a sealed edition. Codex I and II read the first (three categories, the footnote), written in the Codex I years. The extant text is the later sealed edition, with a short edition note. The Papers' 'twelve years' (lines 75, 101) are re-dated to K1's timeline.
+
+### R61-53-WARNING_FOOTNOTE_RESTORED [Alchemy Conversion Questionnaire 2026-09-28 ML8]
+
+The first edition carries Malphas's own footnote 'Never claim it is the soul', the sealed edition drops it, and Mu-jin's note in the Archivum copy restores it, which is how the warning literally 'survived as a footnote'.
+
+> He writes it; the sealed edition drops it; Mu-jin restores it. The first edition has it, as Codex II quotes. The sealed edition cuts it, and Mu-jin's note in the Archivum copy carries it back. 'Survived' becomes literal, and the cut shows his descent on the page.
+
+### R61-54-MARGINS_SHOW_MALPHAS_DRIFT [Alchemy Conversion Questionnaire 2026-09-28 ML9]
+
+The sealed Necrocursica carries short margin notes by the older, living Malphas against the Incomplete Sealing, preferring the dead, naming and Category Three, each a step over his own line, while the core warnings stay sincere so the text reads in two voices.
+
+> Sealed-edition margins show his drift. Short notes by the older, living Malphas against the Third, Fifth and Sixth Corruptions and Category Three, each a step over his own line. The core warnings stay sincere; the document reads in two voices.
+
+### R61-56-RESURRECTION_FORBIDDEN_ON_PAPER [Alchemy Conversion Questionnaire 2026-09-28 ML11]
+
+The Necrocursica treats full resurrection as Category Four, forbidden rather than declared impossible, and that forbidden path is secretly the one Malphas himself walks.
+
+> Full resurrection is forbidden on paper in the Necrocursica, and secretly Malphas's own path.
+
+### R61-57-LICH_MARGIN_LINE_ONLY [Alchemy Conversion Questionnaire 2026-09-28 ML12]
+
+The Necrocursica never treats lichdom beyond one sealed-edition margin line naming liches as the one exception Malphas refuses to expand, so it states no false doctrine about his future.
+
+> One sealed-edition margin line he refuses to expand. Names liches as the one exception he will not treat, and stops. Honest with canon, no false doctrine, no future-dated layer; the reader sees the gap he is walking toward.
+
+### R61-58-MALPHAS_TWO_REGISTERS [Alchemy Conversion Questionnaire 2026-09-28 ML13]
+
+Malphas's voice block sets opaque command as his default and the Necrocursica's candour as his grief-and-joy shift (the man before The Mother), never uses contractions, and trims chatty tics while keeping the confessions.
+
+> Two registers, one man. The block sets command as his default and the Necrocursica's candour as his grief and joy shifts, the man before The Mother; contractions never. Trim the chatty tics, keep the confessions, so his fall shows in his voice.
+
+### R61-59-MALPHAS_SILENT_PARTNER_GENESIO [Alchemy Conversion Questionnaire 2026-09-28 ML14]
+
+The Genesio activations ran on Malphas's protocol under Thom's hand and signature, his first Fermentation Perverted work, hinted only by one sealed-edition margin line, and Heresiology Case IV is his unnamed case.
+
+> Silent partner: his protocol under Thom's hand and signature. His first Fermentation Perverted work runs through another man's signature, The Mother's method before The Mother. The texts stay unchanged on the surface; one sealed-edition margin line hints it; Case IV becomes his unnamed case.
+
+### R61-62-PAPERS_AUTHOR_NIGHT_WATCH [Alchemy Conversion Questionnaire 2026-09-28 PA2]
+
+The Papers' author is a Night Watch Society investigator on the crown's warrant, working a joint case with Halveth, head of the Research and Archives Division's Urbis office, who opened it, hands over the file, annotates the notes and makes 'not a report' a condition of access.
+
+> The new Papers author is a Night Watch Society investigator on the crown's warrant. Halveth stays with the Research and Archives Division as head of its Urbis office; the case is joint: she opened it, hands the investigator the file and annotates the notes, and her order 'not a report' is a condition of access.
+
+### R61-65-PAPERS_TWO_LAYER_STYLE [Alchemy Conversion Questionnaire 2026-09-28 PA5]
+
+Write the Papers' frame (header, classification, cross-references, closing note) in the Night Watch's office style and the entries in the author's own voice.
+
+> Two layers: the frame (header, classification, cross-references, closing note) in the Night Watch's own office style, and the entries in the author's own voice.
+
+### R61-66-PAPERS_CITE_VIA_CODEX [Alchemy Conversion Questionnaire 2026-09-28 PA6]
+
+The uncleared Papers' author cites the sealed Necrocursica only second-hand, 'as the Codex reports', and never as if having read it.
+
+> Through the Codex: add 'as the Codex reports'. Two phrase edits. The author knows the sealed book only second-hand, which fits the header's 'unverified' Volitional Trace and keeps knowledge limited.
+
+### R61-83-CORRUPTIONS_BY_NAME_NOT_NUMBER [Alchemy Conversion Questionnaire 2026-09-28 GW5]
+
+Cite every corruption by name rather than ordinal, and treat Malphas's charge that Mu-jin's corruption is partly Nomenclature as his opinion of Mu-jin, not a correction of canon's Separation Perverted.
+
+> Names, not numbers; Appendix II names it, keeps Malphas's charge. Every ordinal becomes a name. Appendix II first calls the Codex's corruption Separation Perverted, then keeps the Nomenclature charge and the 'general scholarly Corruption' paragraph as Malphas's opinion of Mu-jin, not a correction of canon.
+
+### R61-84-FOUR_CORRUPTIONS_ONE_PARAGRAPH [Alchemy Conversion Questionnaire 2026-09-28 GW6]
+
+Volume III keeps Volume II's promise in one paragraph naming the last four corruptions by their Heresiology epithets, and Mu-jin stops there because he teaches only what he has seen in himself, leaving the Heresiology as the finished book.
+
+> Volume III closes the promise in one paragraph, no case studies. The four by their Heresiology epithets (Instrumental Union, Catastrophic Germination, Sanitized Truth, Tyrannous Finality) and Mu-jin's reason for stopping: he teaches only what he has seen in himself. The promise is kept; the Heresiology stays the finished book.
+
+### R61-87-APHORISM_DOCTRINE_AND_GLOSS [Alchemy Conversion Questionnaire 2026-09-28 GW9]
+
+The Aphorism of Mortalis is the old debt doctrine, and 'He summons himself, arranged in their image' is Mu-jin's gloss, which every later text credits to him and prints apart from the doctrine.
+
+> Old debt doctrine, with Mu-jin's gloss as his own. Volume II stands as written. Volume III's line becomes 'my gloss of the Aphorism', the Papers' author credits Mu-jin's gloss, and the overview prints doctrine and gloss apart. The debt reading stays for the alchemy-cost rewrite.
+
+### R61-89-CATEGORY_ONE_SEAL_ON_TOPOLOGY [Alchemy Conversion Questionnaire 2026-09-28 GL2]
+
+Write Category One's last step as Flx (Flux) sealed by Tp (Topology) on a Fixatio chain, because a Wellspring names the chain and is never itself a glyph.
+
+> 'Flx (Flux), sealed by Tp (Topology) on a Fixatio chain'. Names the checkable glyph and the law it runs under in one clause. Topology 'freezes a local outcome grid for a brief window', which suits a field meant to fade cleanly.
+
+### R61-91-MUJIN_AND_MALPHAS_DRAFTCRAFT [Alchemy Conversion Questionnaire 2026-09-28 GL4]
+
+Both practise Draftcraft: Mu-jin's summons are a spoken call over Draft ground and Malphas pours, so their texts talk in price, vessel, seal and ledger and their work can be traced through provenance.
+
+> Both Draftcraft. Both cards gain a Craft line. Mu-jin's summons are a spoken call over Draft ground; Malphas pours. Their texts write in price, vessel, seal and ledger, and their work is traceable through provenance.
+
+### R61-99-DE_RAITS_REGISTERED_MARK [Alchemy Conversion Questionnaire 2026-09-28 GL12]
+
+The sign on Madeleine Ault's wax seal is Gillus De Raits's registered mark (a maker's mark when he pours, an Engraver's mark when he cuts), and the same mark is on his impression-bodies, so an investigator can match the seal to the bodies.
+
+> His registered craft mark, the one struck on his work. 'Glyph' becomes 'mark': a maker's mark if he pours, an Engraver's mark if he cuts. The same mark sits on his impression-bodies, so the investigator can match the seal to the bodies.
+
+### R61-106-CLEARANCE_BY_TIER_NOT_LEVEL [Alchemy Conversion Questionnaire 2026-09-28 EC7]
+
+Operations are Bench-reserved by named Tier, the Necrocursica is called 'sealed', and file clearance reads like Lyssara Veyn's card ('Tier IV Restricted'), so no document gates access by a numbered Level.
+
+> Bench reservation for operations; sealed treatise; Lyssara-style clearance for files. Categories are Bench-reserved by named Tier (EC10 sets which). The Necrocursica is 'sealed' everywhere, as its title page says. The Papers' header and Appendix I read like Lyssara's card ('Tier IV Restricted'). Every Level line changes.
+
+### R61-107-MORTALIS_CATEGORIES_FIELD_ENTRIES [Alchemy Conversion Questionnaire 2026-09-28 EC8]
+
+The texts give each Category's law, cost and tell in the author's own voice, while Categories One to Three each get an R47-2 entry and a Spell Index row with a Stage floor and Category Four gets a refusal entry, so every counter can be looked up.
+
+> Both: pieces in the prose, a field-format entry per Category. The texts carry law, cost and tell in each author's voice. Categories One to Three each get an R47-2 entry and a Spell Index row with a Stage floor; Category Four gets a refusal entry. Every counter can be looked up.
+
+### R61-112-AUTHORS_STATE_INSTRUMENT_FIGURES [Alchemy Conversion Questionnaire 2026-09-28 EC13]
+
+Mu-jin reads EU, η and site density whenever he takes off his spectacles, Malphas prices each Category as a share of reserve by Stage, and the investigator logs readings at scenes, while the impression-body's cost, Genesio's density and the drift's scale are derived and never invented.
+
+> Each author states figures as their instruments give them. Mu-jin reads EU, η and site density whenever he removes his spectacles; Malphas prices each Category as a share of reserve by Stage; the investigator logs readings at scenes. The impression-body's cost, Genesio's density and the drift's scale are derived.
+
+### R61-113-NECROCURSICA_READER_COPY_REDACTED [Alchemy Conversion Questionnaire 2026-09-28 EC14]
+
+The reader's copy strikes Category Three's completion steps under 'preservable under redaction' and prints Appendix I's stabilisation protocol in full, while the sealed original stays complete so Heresiology Case II holds.
+
+> The Accord's redacted copy: completion struck, Appendix I printed. The sealed original stays complete, so Case II holds. The reader's copy has Category Three's completion steps struck under 'preservable under redaction', and the stabilisation protocol, the defensive counter to a failing seal, printed in full.
+
+### R61-114-CASTLEFALL_CIRCLE_GRAVETIDE_INK [Alchemy Conversion Questionnaire 2026-09-28 EC15]
+
+The investigator names the circle's ink as Gravetide Ink only when the Genesio analysis comes back, and the site holds two glyph roles: the circle is the Boundary in Gravetide Ink and the Category Three seal is the Sealing in Gravemark Ink.
+
+> Gravetide Ink, named when the Genesio analysis returns. Keeps the caution beat. A later entry names it from the sample, giving the reader a findable piece and tying the circle to the Boundary role. The circle is the Boundary (Gravetide Ink); the Category Three seal is the Sealing (Gravemark Ink, GL7): two glyph roles on one site.
+
+### R61-127-CODEX_SECTION_FIVE_PAGES [Alchemy Conversion Questionnaire 2026-09-28 ME1]
+
+Both converted texts become wiki pages beside the three Codex volumes, so the section holds five pages and the cross-references resolve, and the texts' sealing and clearance labels read as in-world labels on the public pages.
+
+> Publish both under The Alftian Codex section. Five pages sit together; Volume III's references and the Halveth line resolve; the INDEX section grows from three pages to five. 'Sealed' and 'Level VI' become in-world labels on public pages.
+
+### R61-129-CONVERSION_ORDER_OF_WORK [Alchemy Conversion Questionnaire 2026-09-28 ME3]
+
+Convert Volume I, Volume II, the Papers, Volume III and then the Necrocursica, one document per commit, so no text is converted before the texts it quotes.
+
+> Composition order: Volumes I, II, Papers, Volume III, Necrocursica. Each document is converted after everything it quotes, so no conversion cites an unconverted source; the Necrocursica's revised edition comes last and cites the finished four.
+
+### R61-130-CONVERTED_TEXTS_OUTPUT [Alchemy Conversion Questionnaire 2026-09-28 ME4]
+
+Publish each converted text as a Notion page in-session for the sync to mirror, and save a new docx next to Isaac's originals, which are never overwritten.
+
+> Notion pages plus fresh docx files beside the originals. Pages are published in-session and mirrored by the sync; new docx files, such as 'The Alftian Codex (Mu-jin edition)', are saved next to his originals, which stay untouched.
+
+### R61-131-IMPERIAL_AGE_BEGINS_NOW [Alchemy Conversion Questionnaire 2026-09-28 Calendar (C-084 follow-up)]
+
+The count runs 715 years from the sealing of the Codex, 'the Imperial Age' names only the age of empire and industry now beginning, the Voyager Era, Long Reckoning and Withering Era become the count's earlier ages under new names, and the texts carry Imperial-Age years.
+
+> The count stands: it runs 715 years from the sealing of the Codex (C-084). 'The Imperial Age' names only the age of empire and industry now beginning, so the present is Year 715 of the count and the early years of the Imperial Age. The Concordance's Voyager Era, Long Reckoning and Withering Era become the count's earlier ages under new names, and the 1800s-to-1900s span (R53-01) starts recently. The texts carry Imperial-Age years.
+
 ### R57-07-DOCUMENTS_FULLY_METAPHYSICAL [Rulings Backfill 2026-09-26 2026-09-24 — R12-3-DESIGN_CHAIN_RETURNS]
 
 Cards, ability entries, items, lore, in-world documents and exports print stats, Grades, Bands, Stage, EU, AU/s, eta, Crystal State and Category; empty fields stay flagged pending.
@@ -3101,7 +4121,7 @@ Isaac's direction of 2026-09-12 overtakes the two pending rows that kept the pac
 
 > Superseded by Isaac's direction of 2026-09-12 to fold the packs into dated base-guide editions ("yes — start folding the packs in now"); eleven guides are folded, the remaining six follow the same way.
 
-## items (44)
+## items (58)
 
 ### R20C-22-AMMUNITION_TIERS_RATIFIED [Pack Twenty R20C-22]
 
@@ -3222,6 +4242,90 @@ Every new item, draught, summon, Domain, site, weapon or beast carries its Tier 
 Tiers of standing and ladder rungs are written by name only, never numbered.
 
 > Tiers of standing and ladder rungs are written by name only, never as numbers.
+
+### R61-73-NINE_DAYS_THEN_TRAIT_TISSUE [Alchemy Conversion Questionnaire 2026-09-28 DE2]
+
+Stage stretches a practitioner's nine-day Crossing by days, not years, and afterwards the body holds only passive Trait tissue (Class IV carry) with nothing still diffusing, so old graves are Class IV stock.
+
+> Only Trait tissue: passive Class IV carry, no active residue. Stage stretches the nine days by days, not years. The Crossing's 'meat' reads as 'no Temperance left', and the ledger stands. Malphas's decades-old bones survive as passive Trait carry: old graves are Class IV stock, but nothing in them is still diffusing.
+
+### R61-76-IMPRESSION_VESSEL_GRADED_DRAFT [Alchemy Conversion Questionnaire 2026-09-28 DE5]
+
+The impression-body's vessel is a Draft marked for Class, Fidelity, Carry and price, using Class I to III stock for ordinary commissions and Class IV only when rendered remains go in, as in Thom's regional scaling.
+
+> Graded Draft; Class IV only when rendered remains go in. The vessel carries Class, Fidelity, Carry and a price. Ordinary commissions use Class I to III stock; Thom's regional scaling uses Class IV, where the Bench's blind spot on source and the black market bite.
+
+### R61-80-FERMENTATION_SPANS_ROT_AND_FEEDING [Alchemy Conversion Questionnaire 2026-09-28 GW2]
+
+Fermentation spans two Turnings, killing in the Rot and growing back in the Feeding after the Wedding, and the doctrine counts it where it completes so the bench and the Heresiology orders agree.
+
+> Fermentation begins in the Rot and completes at the Feeding. Fermentation spans two Turnings: the Rot kills, the Feeding (cibation, measured increments after the Wedding) grows it back. The doctrine counts the stage where it completes, so both orders agree. Same concordance table; nothing reordered.
+
+### R61-81-DISTILLATION_IS_THE_WHITENING [Alchemy Conversion Questionnaire 2026-09-28 GW3]
+
+At the bench, Distillation is circulation in the sealed Returner for weeks, read by colour as the Whitening, so Blacking, Whitening and Reddening track Fermentation, Distillation and Coagulation.
+
+> The Whitening: purification inside the sealed vessel, read by colour. Distillation runs as circulation in the Returner (condensate fed back for weeks unopened) and is read as the Whitening. Blacking, Whitening, Reddening then track Fermentation, Distillation, Coagulation. The concordance pins it to a colour, not a Turning.
+
+### R61-82-TRIA_PRIMA_ARE_CRYSTAL_LAYERS [Alchemy Conversion Questionnaire 2026-09-28 GW4]
+
+The Tria Prima map to the Crystal's layers by plane (Sulphur the Core, Salt the Shell, Mercury the Attraction Layer), making spagyria layer-by-layer medicine whose Separate-Purify-Recombine runs the Parting, Distillation and the Wedding and carries Conjunction's Rupture risk.
+
+> Crystal layers by plane: Sulphur Core, Salt Shell, Mercury Attraction. Spagyria becomes layer-by-layer medicine; Separate-Purify-Recombine runs the Parting, Distillation and the Wedding, so it carries Conjunction's Rupture risk. The Necrocursica's Aetheric Shell residue joins Salt; its residue triad stays Malphas's openly 'modified' reading.
+
+### R61-94-GRAVEMARK_INK_SEALS_CATEGORY_THREE [Alchemy Conversion Questionnaire 2026-09-28 GL7]
+
+The lawful Category Three formula names Gravemark Ink, so short or diluted ink is a material cause of Incomplete Sealing, and the ink's short lawful supply is the question Vaughaus Thom's scaling has to answer.
+
+> Yes: the lawful formula names Gravemark Ink. Malphas's formula ties to a priced, scarce reagent that suits a written seal. Short or diluted ink becomes a material cause of the Incomplete Sealing, and the supply gap explains where Vaughaus Thom found enough to scale.
+
+### R61-98-JABIR_AMULET_OLD_HIGH_RUNIC [Alchemy Conversion Questionnaire 2026-09-28 GL11]
+
+The text on the copper amulet is readable Old High Runic of an age no one can place: Mu-jin reads it at once but cannot date it, and the words Jabir recited are his own gloss of the working cut into it.
+
+> Very old Old High Runic, readable but undatable. The overview's 'decipher' becomes 'date'. Jabir's recited words are his gloss of the working cut in the copper. Mu-jin reads it at once and cannot place its age.
+
+### R61-100-ALCHEMY_PAID_BY_STOCK_AND_VEIN [Alchemy Conversion Questionnaire 2026-09-28 EC1]
+
+A Draft draws on its stock and the site's vein and costs no reserve, a Crystal-bearer's standing work (a seal, an amulet, an impression-body) also costs a one-time share of reserve on the arms-ladder model, and a pure alchemist's standing work needs a Crystal-bearer's seal.
+
+> Drafts from stock and vein; standing works also cost reserve once. Drafts stay reserve-free. A Crystal-bearer's standing work (a seal, Jabir's amulet, an impression-body) costs a once-only share of reserve on the arms-ladder model; a pure alchemist's needs a Crystal-bearer's seal. Alchemetrica gains one line; Category Three gains a real price.
+
+### R61-101-NO_DRAFT_REFILLS_RESERVE [Alchemy Conversion Questionnaire 2026-09-28 EC2]
+
+Drafts heal bodies and steady Shells but never put Essence back into a reserve, so 'alchemical treatment' means speeding Wellspring recovery, not supplying EU.
+
+> R2-6 governs: no Draft refills a reserve. Paracelsus's medicines heal bodies and steady Shells; nothing he brews refuels. The Drafts ladder's 'banked' and 'overfill' sentences and Mnemonis Solution's sizing are corrected. 'Alchemical treatment' reads as speeding Wellspring recovery, not supplying EU.
+
+### R61-102-BENCH_TIERS_CAP_ALCHEMISTS [Alchemy Conversion Questionnaire 2026-09-28 EC3]
+
+A Crystal-less alchemist holds a Tier of Standing up to Five (Expert) by bench certification rather than by reading a Crystal, and that Tier caps what they can make.
+
+> Alchemetrica governs: bench-certified Tiers up to Expert cap their work. Pure alchemists hold Tiers of Standing up to Five (Expert) by bench certification, and that Tier caps what they make. The Tiered Path page and Part Twenty gain one carve-out line: bench Tiers are certified, not read off the Crystal.
+
+### R61-104-REAL_ALCHEMY_PAGE_WRITTEN [Alchemy Conversion Questionnaire 2026-09-28 EC5]
+
+Alchemy work goes ahead on Alchemetrica and real-physics research, and that research (Paracelsus's dosing, spagyric separation, luting, long calcinations) is written up as The Real Alchemy page for ratification, so later alchemy work has R18-5's third source.
+
+> Proceed, and write The Real Alchemy from the conversion's research. As B, and the research gathered (Paracelsus's dosing, spagyric separation, luting, long calcinations) becomes The Real Alchemy page for ratification, so every later alchemy task has R18-5's third source.
+
+### R61-105-PARACELSUS_DOSE_AND_PALSY [Alchemy Conversion Questionnaire 2026-09-28 EC6]
+
+Arsenic and mercury are named plainly as medicines that heal at the right dose and poison past it, Paracelsus shows early crucible palsy and Draft-mark that Mu-jin reads on sight, and research checks every dose and mechanism before print.
+
+> Real names; the dose is the point; he carries the cost. The medicine heals at a dose and poisons past it. Paracelsus shows early crucible palsy and Draft-mark, which Mu-jin reads on sight. Dose and mechanism are checked by research before print.
+
+### R61-110-IMPRESSION_BODY_TELLS_COUNTERS [Alchemy Conversion Questionnaire 2026-09-28 EC11]
+
+Beyond the general counters, a Category One reading finds identity-shaped carry with no Soul Crystal behind it, which a trained reader can tell from a person but a mourner cannot, and a ring of Stillgate Ash (Journeyman gate) grounds the body so it can pass, while also bleeding any living Essence at the ring.
+
+> As B, plus Stillgate Ash as the material counter. A ring of Stillgate Ash (Journeyman gate) grounds the body's residual charge and lets it complete its passage. Living Essence at the ring bleeds too, so the counter costs whoever uses it.
+
+### R61-114-CASTLEFALL_CIRCLE_GRAVETIDE_INK [Alchemy Conversion Questionnaire 2026-09-28 EC15]
+
+The investigator names the circle's ink as Gravetide Ink only when the Genesio analysis comes back, and the site holds two glyph roles: the circle is the Boundary in Gravetide Ink and the Category Three seal is the Sealing in Gravemark Ink.
+
+> Gravetide Ink, named when the Genesio analysis returns. Keeps the caution beat. A later entry names it from the sample, giving the reader a findable piece and tying the circle to the Boundary role. The circle is the Boundary (Gravetide Ink); the Category Three seal is the Sealing (Gravemark Ink, GL7): two glyph roles on one site.
 
 ### R57-07-DOCUMENTS_FULLY_METAPHYSICAL [Rulings Backfill 2026-09-26 2026-09-24 — R12-3-DESIGN_CHAIN_RETURNS]
 
@@ -3367,7 +4471,7 @@ A Witnessed-Tempered piece inherits a scaled-down Ancestral Dominion Frame: ever
 
 > If the piece changes hands outside the terms of the oath, its accrued memory does not transfer. This is not the Dawi's Crystal-Coherence self-punishment, a cost paid by the oath-breaker's own soul; it is closer to the Weight of the Blood, where failure feels ancestral rather than personal. The object simply stops recognizing the new holder as a party the law was made for. In the worst documented cases, Physical Plane Authority's "hold shape" reverses for that bearer alone, and the piece becomes more failure-prone in their hands than an ordinary equivalent.
 
-## magic-design (104)
+## magic-design (111)
 
 ### R20C-28-PHENOMENON_BANK_CANDIDATES [Pack Twenty R20C-28]
 
@@ -3849,6 +4953,48 @@ The Master Codex row for [Abys] Deep now lists Oblation among its attested Wells
 
 > [Abys] Deep · Oblation and Fluxia added. Ruled 2026-09-12. [Abys] Deep, a directional undertow of sub-Realm pressure, carried an Abyntheus, Fulguria, Electromagnetism row. Its All Attested Wellsprings field now includes Oblation and its All Attested Families field now includes Fluxia, taken on the pitch in Obrenkael · The Mule (Summoned and Bound), Deadweight, on the reasoning that a psychopomp's road is a directional undertow of sub-Realm pressure and that Abyntheus and Oblation are both pressure-grammar Wellsprings under different Archons. Primary Wellspring, Family and Physics Domain are unchanged. [Th] Foundation, drafted beside it in the same chain, is not amended and stays cross-family.
 
+### R61-4-CODEX_DOCTRINE_IS_SYSTEM_CANON [Alchemy Conversion Questionnaire 2026-09-28 K4]
+
+The residues, the Volitional Trace and impression-bodies are fact in the magic system, and the Crossing, Lexicon, Magical Categories and Heresiology must agree with them.
+
+> System canon: the residues, the Volitional Trace and impression-bodies all become fact. The Crossing, the Lexicon and the Magical Categories gain entries, and the Heresiology agrees with them. (Isaac: "All system canon".)
+
+### R61-67-GREAT_WORK_STAGE_WELLSPRINGS [Alchemy Conversion Questionnaire 2026-09-28 WS1]
+
+Tie the Great Work's stages to currents by physics: Calcination to Cinerion, Dissolution to Dissolution, Separation to Judicium, Fermentation to Rebirthine, Distillation to Sublimare, Coagulation to Coagulatio, and Conjunction to Attraction, whose corruption injures Attraction itself.
+
+> Six stages mapped by physics; Conjunction stays Attraction-driven. Calcination to Cinerion (pyrolytic char), Dissolution to Dissolution, Separation to Judicium (discernment), Fermentation to Rebirthine (breakdown pays for growth), Distillation to Sublimare (if K5 keeps the physics), Coagulation to Coagulatio. Conjunction's Corruption injures Attraction itself. Alchemetrica gains a stage table; Mu-jin's card follows.
+
+### R61-75-IMPRESSION_BODY_GREATER_SUMMONS [Alchemy Conversion Questionnaire 2026-09-28 DE4]
+
+Build an impression-body as a Tier III Greater Summons (Stage IX to XI): an Arts vessel, the maker's own Core as identity through Animatria, and Vocatia contact with the Trace, with vessel and Binding carrying it past minutes to hours.
+
+> A Greater Summons: vessel, Animatria and Vocatia together. Canon's Tier III (Stage IX to XI, 'ancestral echoes'): Arts vessel, the maker's Core as identity, Vocatia contact with the Trace. The Aphorism turns literal; the Trace explains what he did not foresee. Eleven days outruns 'minutes to hours', so vessel and Binding carry it.
+
+### R61-103-DRAFT_SUB_STAT_PROFILE [Alchemy Conversion Questionnaire 2026-09-28 EC4]
+
+Draft-making runs on Tempering Coherence and Maturity (Core), Tempering Clarity (Shell), Harmonics Attunement (Attraction Layer), Gnosis Analysis and Fluency (reading and chain) and Vitality Filtration (exposure), and Mortalis work adds Persistence and Cognition; the profile waits on ratification through propose_rule.
+
+> A Draft profile built from existing Sub-Stats, filed for ratification. Core to Tempering Coherence and Maturity, Shell to Tempering Clarity, Attraction Layer to Harmonics Attunement; Gnosis Analysis and Fluency for reading and chain; Vitality Filtration for exposure. Mortalis work adds Persistence and Cognition. Filed through propose_rule.
+
+### R61-104-REAL_ALCHEMY_PAGE_WRITTEN [Alchemy Conversion Questionnaire 2026-09-28 EC5]
+
+Alchemy work goes ahead on Alchemetrica and real-physics research, and that research (Paracelsus's dosing, spagyric separation, luting, long calcinations) is written up as The Real Alchemy page for ratification, so later alchemy work has R18-5's third source.
+
+> Proceed, and write The Real Alchemy from the conversion's research. As B, and the research gathered (Paracelsus's dosing, spagyric separation, luting, long calcinations) becomes The Real Alchemy page for ratification, so every later alchemy task has R18-5's third source.
+
+### R61-107-MORTALIS_CATEGORIES_FIELD_ENTRIES [Alchemy Conversion Questionnaire 2026-09-28 EC8]
+
+The texts give each Category's law, cost and tell in the author's own voice, while Categories One to Three each get an R47-2 entry and a Spell Index row with a Stage floor and Category Four gets a refusal entry, so every counter can be looked up.
+
+> Both: pieces in the prose, a field-format entry per Category. The texts carry law, cost and tell in each author's voice. Categories One to Three each get an R47-2 entry and a Spell Index row with a Stage floor; Category Four gets a refusal entry. Every counter can be looked up.
+
+### R61-109-MORTALIS_CATEGORY_STAGE_FLOORS [Alchemy Conversion Questionnaire 2026-09-28 EC10]
+
+Category One needs Flourishing, Two needs Glory and Three needs Refraction plus individual review, with Bench reservations at Adept, Expert and Expert with review, so Gillus at Stage VII is lawful by rank and unlawful only by review.
+
+> Flourishing, Glory, then Refraction with individual review. Categories One and Two sit on precedent rows; Category Three sits where the Necrocursica says Trace-compulsion begins. Gillus stands at the floor, lawful by rank and unlawful only by review. Reservations read Adept, Expert, Expert with review.
+
 ### R57-07-DOCUMENTS_FULLY_METAPHYSICAL [Rulings Backfill 2026-09-26 2026-09-24 — R12-3-DESIGN_CHAIN_RETURNS]
 
 Cards, ability entries, items, lore, in-world documents and exports print stats, Grades, Bands, Stage, EU, AU/s, eta, Crystal State and Category; empty fields stay flagged pending.
@@ -3993,7 +5139,7 @@ The Phenomenon Bank becomes a growing library: every researched phenomenon (and 
 
 > The Phenomenon Bank becomes a growing library: every researched phenomenon (and pseudoscientific idea) is added for future workings and players to draw from.
 
-## magic-mechanism (124)
+## magic-mechanism (171)
 
 ### R20C-17-SITES_RECHARGE_UNHELPFULLY [Pack Twenty R20C-17]
 
@@ -4474,6 +5620,288 @@ Every working carries the documented failures of every Wellspring it draws on, a
 One combat turn is six seconds; efficiency above one draws its surplus from the Aether stratum; healing and mending always cost more than breaking.
 
 > One combat turn is six seconds. Efficiency above one draws its surplus from the Aether stratum. Healing and mending always cost more than breaking.
+
+### R61-4-CODEX_DOCTRINE_IS_SYSTEM_CANON [Alchemy Conversion Questionnaire 2026-09-28 K4]
+
+The residues, the Volitional Trace and impression-bodies are fact in the magic system, and the Crossing, Lexicon, Magical Categories and Heresiology must agree with them.
+
+> System canon: the residues, the Volitional Trace and impression-bodies all become fact. The Crossing, the Lexicon and the Magical Categories gain entries, and the Heresiology agrees with them. (Isaac: "All system canon".)
+
+### R61-5-SUBLIMATIO_IS_SUBLIMATION [Alchemy Conversion Questionnaire 2026-09-28 K5]
+
+Use the physics register: Sublimatio names sublimation and Sublimare names distillation, and Distillation mirrors Sublimare everywhere.
+
+> The physics register wins. Sublimatio is sublimation, Sublimare is distillation. Alchemetrica's operation table, R18-5's list and Kytheris's card are corrected, and Distillation mirrors Sublimare. The Necrocursica's Sublimatio line stands; its separating cleanse becomes Sublimare-aligned.
+
+### R61-6-CALCINATION_DISTILLATION_BENCH_ONLY [Alchemy Conversion Questionnaire 2026-09-28 K6]
+
+Never write Calcination or Distillation as Wellsprings; they are alchemical bench operations only, and any card that lists them as Wellsprings is wrong.
+
+> Calcination and Distillation are not Wellsprings; they are bench operations only. R18-5's list of Wellsprings that are also operations is amended, Alchemetrica's table drops them, and the cards that call them Wellsprings (Kwon Mu-jin's and about ten others) are fixed. (Isaac: "Fix the cards they aren't right".)
+
+### R61-7-RESIDUES_ON_TWO_CLOCKS [Alchemy Conversion Questionnaire 2026-09-28 K7]
+
+The Necrocursica's four residues are the forensic reading inside the nine days, while the Codex's three (place, bond, glyph-trace) are what remains afterwards.
+
+> Both lists on two clocks, hinged on The Crossing's nine days. The Necrocursica's four are the forensic reading inside the nine days; the Codex's three (place, bond, glyph-trace) are what stays after, which the two-year-old commission draws on. The Necrocursica gains a short after-window section, so the Codex and Papers cite it truly.
+
+### R61-43-MUJIN_DETECTS_NEVER_PERFORMS_CAT_THREE [Alchemy Conversion Questionnaire 2026-09-28 MJ11]
+
+His passive sense of failing seals is free and reaches streets away, a full lens-off read costs a migraine, and he can diagnose and warn but never perform, with Genesio completing through his Anamnesis only.
+
+> Detector only: he feels seals fail, never performs Category Three. He is the Codex's witness of failing seals: the passive sense is free and reaches streets away, a full lens-off read costs its migraine. He diagnoses and warns but cannot perform; Genesio completes through his Anamnesis, never his authority.
+
+### R61-45-MUJIN_NAMED_THE_TRACE [Alchemy Conversion Questionnaire 2026-09-28 MJ13]
+
+When the residue theory is credited, Mu-jin is the witness who named the Volitional Trace, and the method belongs to Gillus De Raits and Vaughaus Thom (names per ST1), never to Mu-jin as co-builder.
+
+> Mu-jin is the witness and namer: he named the Volitional Trace; Gillus De Raits and Vaughaus Thom built the method (follows ST3).
+
+### R61-47-MALPHAS_IS_COMPELLED_AUTHOR [Alchemy Conversion Questionnaire 2026-09-28 ML2]
+
+Malphas is Case II's Compelled Author: his first corruption is Submission, the perverted form of his primary Wellspring Dissolution, bargained for sealed Genesio stacks as well as coerced, and only afterwards Fermentation Perverted.
+
+> Yes: Submission first, then Fermentation Perverted. Case II and Codex II's example stand with the name changed. The preface adds the bargain, sealed Genesio stacks for his pen, beside the coercion. His card's Lore gains a first corruption: the perverted form of his own primary Wellspring.
+
+### R61-55-MOTHER_TEACHES_NECROCURSICA [Alchemy Conversion Questionnaire 2026-09-28 ML10]
+
+Malphas teaches The Mother from the Necrocursica by memory, so each culture's methods trace to its protocols and anyone who has read it can recognise the cult's work, a counter that can be found.
+
+> A working text he teaches from memory. Each culture's methods trace to its protocols, so anyone who has read it can recognise the cult's work: a counter someone can find. The Mother's page gains one line; the Arena speech becomes that recognition.
+
+### R61-56-RESURRECTION_FORBIDDEN_ON_PAPER [Alchemy Conversion Questionnaire 2026-09-28 ML11]
+
+The Necrocursica treats full resurrection as Category Four, forbidden rather than declared impossible, and that forbidden path is secretly the one Malphas himself walks.
+
+> Full resurrection is forbidden on paper in the Necrocursica, and secretly Malphas's own path.
+
+### R61-57-LICH_MARGIN_LINE_ONLY [Alchemy Conversion Questionnaire 2026-09-28 ML12]
+
+The Necrocursica never treats lichdom beyond one sealed-edition margin line naming liches as the one exception Malphas refuses to expand, so it states no false doctrine about his future.
+
+> One sealed-edition margin line he refuses to expand. Names liches as the one exception he will not treat, and stops. Honest with canon, no false doctrine, no future-dated layer; the reader sees the gap he is walking toward.
+
+### R61-59-MALPHAS_SILENT_PARTNER_GENESIO [Alchemy Conversion Questionnaire 2026-09-28 ML14]
+
+The Genesio activations ran on Malphas's protocol under Thom's hand and signature, his first Fermentation Perverted work, hinted only by one sealed-edition margin line, and Heresiology Case IV is his unnamed case.
+
+> Silent partner: his protocol under Thom's hand and signature. His first Fermentation Perverted work runs through another man's signature, The Mother's method before The Mother. The texts stay unchanged on the surface; one sealed-edition margin line hints it; Case IV becomes his unnamed case.
+
+### R61-67-GREAT_WORK_STAGE_WELLSPRINGS [Alchemy Conversion Questionnaire 2026-09-28 WS1]
+
+Tie the Great Work's stages to currents by physics: Calcination to Cinerion, Dissolution to Dissolution, Separation to Judicium, Fermentation to Rebirthine, Distillation to Sublimare, Coagulation to Coagulatio, and Conjunction to Attraction, whose corruption injures Attraction itself.
+
+> Six stages mapped by physics; Conjunction stays Attraction-driven. Calcination to Cinerion (pyrolytic char), Dissolution to Dissolution, Separation to Judicium (discernment), Fermentation to Rebirthine (breakdown pays for growth), Distillation to Sublimare (if K5 keeps the physics), Coagulation to Coagulatio. Conjunction's Corruption injures Attraction itself. Alchemetrica gains a stage table; Mu-jin's card follows.
+
+### R61-69-MORTALIS_IS_A_GATE [Alchemy Conversion Questionnaire 2026-09-28 WS3]
+
+Write Mortalis as Auren's Still Gate, leave the river of souls to Sylorin as a Pantheon image, and treat a Mortalis 'loan' as a current borrowed and stepped out of, with the sealed vessel holding the impression-body.
+
+> Gate, recast to the physics. Mortalis is Auren's Still Gate; the river becomes Sylorin's soulstream, a Pantheon image, not a current. The 'loan' becomes a current borrowed and stepped out of, as Malphas's card says. The sealed vessel holds the impression-body. Rewrites Codex II's Mortalis passages and Corrant 189.
+
+### R61-70-ANAMNESIS_READS_NOT_STORES [Alchemy Conversion Questionnaire 2026-09-28 WS4]
+
+Records live in ground and objects as Mnemata and Anamnesis is the instrument that reads and wakes them, erasing by coarse reading, so Volume I's 'nothing is erased' stands only as the young author's error that Volume III corrects.
+
+> Instrument: records live in the ground; Anamnesis reads them. Genesio's Traces are the hollow's Mnemata, and Anamnesis reads and wakes them. Thom's harm is erasure by coarse reading plus the site's corruption. Vol I's 'nothing is erased' stands as the young author's error that Vol III corrects; the Vol III title follows.
+
+### R61-71-NO_ANAMNETIC_FABRIC [Alchemy Conversion Questionnaire 2026-09-28 WS5]
+
+Drop the 'Anamnetic fabric' and write records as the Mnemata of places the dead touched, the world-ledger as Maelor's, death as the Crossing's three destinations, and 'Anamnetic activation' as waking a Trace.
+
+> Recast to canon and drop the term. Records are the Mnemata of places the dead touched; the world-ledger is Maelor's. The Necrocursica's account of death follows the Crossing's three destinations. About 25 lines change; 'Anamnetic activation' becomes 'waking a Trace' or similar.
+
+### R61-72-RESIDUES_MAP_TO_CRYSTAL_LAYERS [Alchemy Conversion Questionnaire 2026-09-28 DE1]
+
+Every residue a dead practitioner leaves lands on a Soul Crystal layer and a Crossing product, with the Noospheric Echo narrowed to the held Echo (voice, habit, possession) and its place-imprint half moved to the Harmonic Imprint.
+
+> Use the map; split the Nospheric Echo. Every residue lands on a layer and a Crossing product. The Nospheric Echo narrows to the held Echo (voice, habit, possession); its place-imprint half moves to the Harmonic Imprint. K4 decides whether the Crossing page gains the map.
+
+### R61-73-NINE_DAYS_THEN_TRAIT_TISSUE [Alchemy Conversion Questionnaire 2026-09-28 DE2]
+
+Stage stretches a practitioner's nine-day Crossing by days, not years, and afterwards the body holds only passive Trait tissue (Class IV carry) with nothing still diffusing, so old graves are Class IV stock.
+
+> Only Trait tissue: passive Class IV carry, no active residue. Stage stretches the nine days by days, not years. The Crossing's 'meat' reads as 'no Temperance left', and the ledger stands. Malphas's decades-old bones survive as passive Trait carry: old graves are Class IV stock, but nothing in them is still diffusing.
+
+### R61-74-VOLITIONAL_TRACE_SETTLES_IN_GROUND [Alchemy Conversion Questionnaire 2026-09-28 DE3]
+
+At death an unfinished decision settles as an Attraction Layer commitment into the ground where the person was bound, kept as Mnemata where ground holds records well (like Genesio) and fading elsewhere, and Anamnesis reads and wakes it.
+
+> A commitment laid into the place, read by Anamnesis. An Attraction Layer commitment settles into the ground where the person was bound, as Mnemata (a place's memory imprint). It lasts where ground holds records well (an Anamnesis site like Genesio) and fades elsewhere; Anamnesis reads and wakes it. No canon page changes.
+
+### R61-75-IMPRESSION_BODY_GREATER_SUMMONS [Alchemy Conversion Questionnaire 2026-09-28 DE4]
+
+Build an impression-body as a Tier III Greater Summons (Stage IX to XI): an Arts vessel, the maker's own Core as identity through Animatria, and Vocatia contact with the Trace, with vessel and Binding carrying it past minutes to hours.
+
+> A Greater Summons: vessel, Animatria and Vocatia together. Canon's Tier III (Stage IX to XI, 'ancestral echoes'): Arts vessel, the maker's Core as identity, Vocatia contact with the Trace. The Aphorism turns literal; the Trace explains what he did not foresee. Eleven days outruns 'minutes to hours', so vessel and Binding carry it.
+
+### R61-76-IMPRESSION_VESSEL_GRADED_DRAFT [Alchemy Conversion Questionnaire 2026-09-28 DE5]
+
+The impression-body's vessel is a Draft marked for Class, Fidelity, Carry and price, using Class I to III stock for ordinary commissions and Class IV only when rendered remains go in, as in Thom's regional scaling.
+
+> Graded Draft; Class IV only when rendered remains go in. The vessel carries Class, Fidelity, Carry and a price. Ordinary commissions use Class I to III stock; Thom's regional scaling uses Class IV, where the Bench's blind spot on source and the black market bite.
+
+### R61-77-REVENANT_IS_STALLED_CROSSING [Alchemy Conversion Questionnaire 2026-09-28 DE6]
+
+A revenant needs no necromancer: it is a body spending its nine days where the Wellspring cannot take the residue (sealed ground, saturated battlefields), fading when diffusion completes, and countered by moving or grounding the body with Stillgate Ash.
+
+> A Crossing that stalls on its own. A revenant is a body that spends its nine days where the Wellspring cannot take the residue: sealed ground, saturated battlefields. It fades when diffusion completes; moving or grounding the body (Stillgate Ash) is the counter. Malphas's 'not supernatural' becomes the Crossing's own account.
+
+### R61-78-NECROMANCY_LOOSE_PERIOD_WORD [Alchemy Conversion Questionnaire 2026-09-28 DE7]
+
+Scholars in the texts use 'necromantic' loosely as the period term for impression-body work, and the Necrocursica notes once that the Accord's legal sense is narrower.
+
+> Keep it as the scholars' loose word, with one legal note. Both authors use 'necromantic' as the period term, and the Necrocursica adds a line that the Accord's legal sense is narrower. Matches the Heresiology's own loose usage; least rewriting.
+
+### R61-79-GREAT_WORK_DOUBLE_SEVEN [Alchemy Conversion Questionnaire 2026-09-28 GW1]
+
+The seven Great Work stages run once over Stages I to VII and again over VIII to XIV (Splintering V is Fermentation, Invocation IX Dissolution, Dissonance XI Conjunction, Zenith XIV Coagulation), and a Class Ø alchemist's maker side is read on grain.
+
+> The double seven, with a grain clause for Class Ø. Stages I-VII walk the seven once, VIII-XIV again (the Codex's own 'spiral'): Splintering V is Fermentation, Invocation IX Dissolution, Dissonance XI Conjunction, Zenith XIV Coagulation. For Class Ø the maker side is read on grain. A ruling and one line on the Temperance page.
+
+### R61-80-FERMENTATION_SPANS_ROT_AND_FEEDING [Alchemy Conversion Questionnaire 2026-09-28 GW2]
+
+Fermentation spans two Turnings, killing in the Rot and growing back in the Feeding after the Wedding, and the doctrine counts it where it completes so the bench and the Heresiology orders agree.
+
+> Fermentation begins in the Rot and completes at the Feeding. Fermentation spans two Turnings: the Rot kills, the Feeding (cibation, measured increments after the Wedding) grows it back. The doctrine counts the stage where it completes, so both orders agree. Same concordance table; nothing reordered.
+
+### R61-81-DISTILLATION_IS_THE_WHITENING [Alchemy Conversion Questionnaire 2026-09-28 GW3]
+
+At the bench, Distillation is circulation in the sealed Returner for weeks, read by colour as the Whitening, so Blacking, Whitening and Reddening track Fermentation, Distillation and Coagulation.
+
+> The Whitening: purification inside the sealed vessel, read by colour. Distillation runs as circulation in the Returner (condensate fed back for weeks unopened) and is read as the Whitening. Blacking, Whitening, Reddening then track Fermentation, Distillation, Coagulation. The concordance pins it to a colour, not a Turning.
+
+### R61-82-TRIA_PRIMA_ARE_CRYSTAL_LAYERS [Alchemy Conversion Questionnaire 2026-09-28 GW4]
+
+The Tria Prima map to the Crystal's layers by plane (Sulphur the Core, Salt the Shell, Mercury the Attraction Layer), making spagyria layer-by-layer medicine whose Separate-Purify-Recombine runs the Parting, Distillation and the Wedding and carries Conjunction's Rupture risk.
+
+> Crystal layers by plane: Sulphur Core, Salt Shell, Mercury Attraction. Spagyria becomes layer-by-layer medicine; Separate-Purify-Recombine runs the Parting, Distillation and the Wedding, so it carries Conjunction's Rupture risk. The Necrocursica's Aetheric Shell residue joins Salt; its residue triad stays Malphas's openly 'modified' reading.
+
+### R61-83-CORRUPTIONS_BY_NAME_NOT_NUMBER [Alchemy Conversion Questionnaire 2026-09-28 GW5]
+
+Cite every corruption by name rather than ordinal, and treat Malphas's charge that Mu-jin's corruption is partly Nomenclature as his opinion of Mu-jin, not a correction of canon's Separation Perverted.
+
+> Names, not numbers; Appendix II names it, keeps Malphas's charge. Every ordinal becomes a name. Appendix II first calls the Codex's corruption Separation Perverted, then keeps the Nomenclature charge and the 'general scholarly Corruption' paragraph as Malphas's opinion of Mu-jin, not a correction of canon.
+
+### R61-84-FOUR_CORRUPTIONS_ONE_PARAGRAPH [Alchemy Conversion Questionnaire 2026-09-28 GW6]
+
+Volume III keeps Volume II's promise in one paragraph naming the last four corruptions by their Heresiology epithets, and Mu-jin stops there because he teaches only what he has seen in himself, leaving the Heresiology as the finished book.
+
+> Volume III closes the promise in one paragraph, no case studies. The four by their Heresiology epithets (Instrumental Union, Catastrophic Germination, Sanitized Truth, Tyrannous Finality) and Mu-jin's reason for stopping: he teaches only what he has seen in himself. The promise is kept; the Heresiology stays the finished book.
+
+### R61-86-CORRECTION_MERGES_CORRESPONDENCE_DEBT [Alchemy Conversion Questionnaire 2026-09-28 GW8]
+
+The Codex's Correction is Mu-jin's contested eastern merger of the Correspondence and Debt Positions, in which the answer comes late because it is given on credit and settled out of sight.
+
+> Mu-jin's eastern merger of Correspondence and Debt. The answer comes late because it is given on credit and settled out of sight. Still a contested position; the Physical Account gains one line naming it, joining the Aphorism's debt reading and the Tempus drift.
+
+### R61-87-APHORISM_DOCTRINE_AND_GLOSS [Alchemy Conversion Questionnaire 2026-09-28 GW9]
+
+The Aphorism of Mortalis is the old debt doctrine, and 'He summons himself, arranged in their image' is Mu-jin's gloss, which every later text credits to him and prints apart from the doctrine.
+
+> Old debt doctrine, with Mu-jin's gloss as his own. Volume II stands as written. Volume III's line becomes 'my gloss of the Aphorism', the Papers' author credits Mu-jin's gloss, and the overview prints doctrine and gloss apart. The debt reading stays for the alchemy-cost rewrite.
+
+### R61-88-INDEX_NAMES_TEACHER_GLOSS [Alchemy Conversion Questionnaire 2026-09-28 GL1]
+
+Mu-jin and Malphas write glyph chains in Master Glyph Index names, Mu-jin may gloss his teachers' older name once per glyph he explains ('Ie, Perception; I was taught Insight'), and the phoneme table is labelled an older teaching register that drifted.
+
+> Index names in chains; Mu-jin glosses his teachers' names in prose. 'Ie, Perception; I was taught Insight', once per glyph he explains. The Book of Summons' glyph lines move to Index names; the phoneme table stays, labelled an older teaching register that drifted. Malphas writes Index names only.
+
+### R61-89-CATEGORY_ONE_SEAL_ON_TOPOLOGY [Alchemy Conversion Questionnaire 2026-09-28 GL2]
+
+Write Category One's last step as Flx (Flux) sealed by Tp (Topology) on a Fixatio chain, because a Wellspring names the chain and is never itself a glyph.
+
+> 'Flx (Flux), sealed by Tp (Topology) on a Fixatio chain'. Names the checkable glyph and the law it runs under in one clause. Topology 'freezes a local outcome grid for a brief window', which suits a field meant to fade cleanly.
+
+### R61-90-MORTALIS_SEAL_CLOSES_ON_VOR [Alchemy Conversion Questionnaire 2026-09-28 GL3]
+
+Category Three's seal is written as 'the Mortalis seal' closing on Vor (Return) as its end condition, so it ends when the Trace's decision is delivered, and it opens with 'ena' when spelled out.
+
+> Vor (Return), written as a closing condition. 'The Mortalis seal', closing on Vor: it ends when the Trace's decision is delivered, opened with 'ena' if spelled out. Explains why the Papers' echo ended 'in one breath' after eleven days.
+
+### R61-91-MUJIN_AND_MALPHAS_DRAFTCRAFT [Alchemy Conversion Questionnaire 2026-09-28 GL4]
+
+Both practise Draftcraft: Mu-jin's summons are a spoken call over Draft ground and Malphas pours, so their texts talk in price, vessel, seal and ledger and their work can be traced through provenance.
+
+> Both Draftcraft. Both cards gain a Craft line. Mu-jin's summons are a spoken call over Draft ground; Malphas pours. Their texts write in price, vessel, seal and ledger, and their work is traceable through provenance.
+
+### R61-92-CATEGORY_THREE_POURED_AND_CUT [Alchemy Conversion Questionnaire 2026-09-28 GL5]
+
+The impression-body is poured and its Mortalis seal is Runecraft, so a failed seal is an unsealed rune that ambient pressure turns into a misfiring haunting until someone finds and breaks it, and the maker's mark and the cutter's hand both lead to De Raits, who holds both crafts.
+
+> Poured body, Mortalis seal written or cut (Runecraft). The failed seal is an unsealed rune: an open wound that ambient pressure completes into a haunting, misfiring until found and broken. Maker's mark and cutter's hand both trace De Raits, who needs both crafts.
+
+### R61-93-WILL_ENTERS_AT_AUTHORIZATION [Alchemy Conversion Questionnaire 2026-09-28 GL6]
+
+The Continuum reads the practitioner's Attraction Layer into a Category Three working at Authorization, which gives the Mirror Trace its cause at the moment of inscription, and the cure (a third party separating that Attraction Layer) does not change.
+
+> Authorization: the Continuum reads the practitioner into the working. One clause moves. The Mirror Trace gets a canon cause at the moment of inscription, and its cure (a third party separating the practitioner's Attraction Layer) stands unchanged.
+
+### R61-94-GRAVEMARK_INK_SEALS_CATEGORY_THREE [Alchemy Conversion Questionnaire 2026-09-28 GL7]
+
+The lawful Category Three formula names Gravemark Ink, so short or diluted ink is a material cause of Incomplete Sealing, and the ink's short lawful supply is the question Vaughaus Thom's scaling has to answer.
+
+> Yes: the lawful formula names Gravemark Ink. Malphas's formula ties to a priced, scarce reagent that suits a written seal. Short or diluted ink becomes a material cause of the Incomplete Sealing, and the supply gap explains where Vaughaus Thom found enough to scale.
+
+### R61-95-AETHERIC_BLEED_IS_MECHANICA [Alchemy Conversion Questionnaire 2026-09-28 GL8]
+
+The Aetheric Bleed is Extraction from a dead donor and never 'legitimate' work: the practitioner can be treated over months, the worked ground never heals, and it is the one Mortalis failure that becomes a breach at the scale of a civilization.
+
+> Real Mechanica: Extraction from a dead donor, filed at Grade V. Drop 'legitimate'. The practitioner can be treated over months; the worked ground never heals. The one Mortalis failure that crosses into civilizational breach.
+
+### R61-96-MORTALIS_HARMONIZATION_BY_OPERATOR [Alchemy Conversion Questionnaire 2026-09-28 GL9]
+
+Paracelsus and Gillus De Raits are lawfully harmonized for Mortalis and do lawful work well, while Vaughaus Thom's regional scaling tips into Mechanica, which gives the Aetheric Bleed its example and the Papers a concrete breach at Genesio.
+
+> Paracelsus and Gillus harmonized; Thom outruns his at scale. The commission is lawful work done well. Thom's regional scaling tips into Mechanica, giving the Aetheric Bleed its example and the Papers a concrete breach at Genesio.
+
+### R61-97-PARUNIC_ECHO_IS_SIGNATURE [Alchemy Conversion Questionnaire 2026-09-28 GL10]
+
+'Parunic Echo' is the trade's word for a practitioner's Essence Signature held in Aetheric Residue, readable from Stage IV, and the word 'glyph-trace' is retired.
+
+> Keep the name; it is the Essence Signature in the Residue. 'Parunic Echo' stays as the trade's word for a practitioner's Essence Signature carried in Aetheric Residue, legible from Stage IV. 'Glyph-trace' goes. Logged as a naming-only extension.
+
+### R61-100-ALCHEMY_PAID_BY_STOCK_AND_VEIN [Alchemy Conversion Questionnaire 2026-09-28 EC1]
+
+A Draft draws on its stock and the site's vein and costs no reserve, a Crystal-bearer's standing work (a seal, an amulet, an impression-body) also costs a one-time share of reserve on the arms-ladder model, and a pure alchemist's standing work needs a Crystal-bearer's seal.
+
+> Drafts from stock and vein; standing works also cost reserve once. Drafts stay reserve-free. A Crystal-bearer's standing work (a seal, Jabir's amulet, an impression-body) costs a once-only share of reserve on the arms-ladder model; a pure alchemist's needs a Crystal-bearer's seal. Alchemetrica gains one line; Category Three gains a real price.
+
+### R61-101-NO_DRAFT_REFILLS_RESERVE [Alchemy Conversion Questionnaire 2026-09-28 EC2]
+
+Drafts heal bodies and steady Shells but never put Essence back into a reserve, so 'alchemical treatment' means speeding Wellspring recovery, not supplying EU.
+
+> R2-6 governs: no Draft refills a reserve. Paracelsus's medicines heal bodies and steady Shells; nothing he brews refuels. The Drafts ladder's 'banked' and 'overfill' sentences and Mnemonis Solution's sizing are corrected. 'Alchemical treatment' reads as speeding Wellspring recovery, not supplying EU.
+
+### R61-108-MORTALIS_FULL_COST_STACK [Alchemy Conversion Questionnaire 2026-09-28 EC9]
+
+Every working pays a reserve share, site depletion and waste heat, Category Two and up also tick the Drift Scale, each Anamnesis read erases what it takes so a Trace can be used only once, and the Genesio activation has a hard limit and leaves a visible scar.
+
+> The full stack, and a Trace can be used once. Reserve share, site depletion, waste heat, a Drift Scale tick for Category Two and up, and every Anamnesis read erasing what it takes. The Genesio activation gets a hard limit and a visible scar.
+
+### R61-110-IMPRESSION_BODY_TELLS_COUNTERS [Alchemy Conversion Questionnaire 2026-09-28 EC11]
+
+Beyond the general counters, a Category One reading finds identity-shaped carry with no Soul Crystal behind it, which a trained reader can tell from a person but a mourner cannot, and a ring of Stillgate Ash (Journeyman gate) grounds the body so it can pass, while also bleeding any living Essence at the ring.
+
+> As B, plus Stillgate Ash as the material counter. A ring of Stillgate Ash (Journeyman gate) grounds the body's residual charge and lets it complete its passage. Living Essence at the ring bleeds too, so the counter costs whoever uses it.
+
+### R61-124-TEMPUS_MOVED_BY_CORRESPONDENCE [Alchemy Conversion Questionnaire 2026-09-28 SE10]
+
+The drift is the Continuum's delayed answer by correspondence, with no energy reaching the planet, and its price is booked as debt on the site and its operators, never as an EU figure.
+
+> Correspondence: no energy moves it. The drift is the delayed answer the Codex argues for. Its price is booked as debt on the site and the operators, not as an EU figure.
+
+### R61-125-GOD_ESSENCE_IS_BELIEF_WORD [Alchemy Conversion Questionnaire 2026-09-28 SE11]
+
+God-Essence means Wellspring Essence treated as divine and adds no metaphysics: its 'structural law' is the Heralds' reading, the humming bridges are ordinary inscribed arrays, and Sirel's 'god-essence leakage' stays a separate folk name.
+
+> A belief-word: Wellspring Essence treated as divine. No new metaphysics. Volume I's 'structural law' becomes the Heralds' reading; the humming bridges are ordinary inscribed arrays. If the Heralds serve Maelor, it names Essence as his gift. Sirel's leakage stays a separate folk name.
+
+### R61-126-GENESIO_ANTEDILUVIAN_SITE [Alchemy Conversion Questionnaire 2026-09-28 SE12]
+
+'The Eressean era' points to the Antediluvian Calendar: Genesio's old hall was built on its Wellspring, it is one of the sites the Guild surveyed, and the unpublished finding on what those sites are now doing explains why Genesio pushes back when drawn.
+
+> An Antediluvian site, worked before that Calendar closed. Genesio becomes one of the Guild's surveyed sources, its old hall built on the Wellspring. The unpublished finding on what those sites 'are now doing' becomes the texts' reason Genesio pushes back when drawn.
 
 ### R57-03-JUGGERNAUTS_FIST_CONTACT [Rulings Backfill 2026-09-26 2026-09-22 — new]
 
@@ -5008,7 +6436,7 @@ Wounds in mass-combat scenes are written with the same anatomy as a duel.
 
 > Yes: mass-combat scenes must still carry duel-level wound anatomy.
 
-## naming (135)
+## naming (161)
 
 ### R20C-1-BURI_DEAD_EVERYWHERE [Pack Twenty R20C-1]
 
@@ -5189,6 +6617,162 @@ Folded into the cost audit: re-cut every existing technique entry into the §1.3
 The Malō of Sātūlagi does not exist and never did; the Büri hold one seat and it is Kharven.
 
 > Sātūlagi | Struck from canon. The Malō of Sātūlagi does not exist and never did. The Büri hold one seat and it is Kharven.
+
+### R61-5-SUBLIMATIO_IS_SUBLIMATION [Alchemy Conversion Questionnaire 2026-09-28 K5]
+
+Use the physics register: Sublimatio names sublimation and Sublimare names distillation, and Distillation mirrors Sublimare everywhere.
+
+> The physics register wins. Sublimatio is sublimation, Sublimare is distillation. Alchemetrica's operation table, R18-5's list and Kytheris's card are corrected, and Distillation mirrors Sublimare. The Necrocursica's Sublimatio line stands; its separating cleanse becomes Sublimare-aligned.
+
+### R61-8-NECROCURSICA_SEVEN_UNMOORINGS [Alchemy Conversion Questionnaire 2026-09-28 K8]
+
+Reserve 'Seven Cacodaemonic Corruptions' for the Heresiology and call the Necrocursica's list the Seven Unmoorings, each of which may name the Heresiology inversion that drives it.
+
+> Heresiology keeps it; the Necrocursica's become the Seven Unmoorings. The Necrocursica's title, chapter 3 heading and Appendix II are renamed from the text's own verb ('it unmoors them', chapter 4), and each failure may name the Heresiology inversion that drives it. Grade III and the God Hand page's 'two sevens' stay true.
+
+### R61-11-RENAME_HISTORICAL_PEOPLE_IN_TEXTS [Alchemy Conversion Questionnaire 2026-09-28 ST1]
+
+Give Paracelsus, Jabir, Gillus, Thom and Tat in-world names, keep Trismegistus, Asclepius, the Tablet's wording and the Tria Prima, and credit the real sources in author notes.
+
+> Rename historical people; keep gods and idea-names. Furveus loses 'Paracelsus'; Jabir, Gillus and Thom get in-world names; Trismegistus and Asclepius stay under R50-05; Tat is renamed unless he becomes Doyun; the Tablet's wording and the Tria Prima stay, credited in author notes (R48-27).
+
+### R61-16-FURVEUS_IS_A_ROSTER_NPC [Alchemy Conversion Questionnaire 2026-09-28 ST6]
+
+Furveus replaces Paracelsus as a minor NPC whose stat line prices the commission, and he is Malphas's colleague, a tie Malphas's card must carry.
+
+> Keep as a new person named Furveus. A roster entry (a short minor-NPC record) with a FOW (Fracture of Worlds, the stat system) line pricing the commission; 'called Paracelsus' follows ST1. Through the Necrocursica he is Malphas's colleague too, a tie Malphas's card must carry.
+
+### R61-20-JABIR_IS_A_ROSTER_NPC [Alchemy Conversion Questionnaire 2026-09-28 ST10]
+
+Jabir becomes a new person with a roster entry, renamed per the historical-names rule, with his homeland set by the Shaneni ruling.
+
+> Keep as a new person. A roster entry (a short NPC record); his name, and Volume III's 'ibn Hayyan', follow ST1. His homeland follows the setting question on the Shaneni empire, a polity canon lacks.
+
+### R61-25-KING_STAYS_UNNAMED_ROLE [Alchemy Conversion Questionnaire 2026-09-28 ST15]
+
+Do not name or card the king or his wife; they remain roles, as allowed for a figure with no lines.
+
+> Unnamed ruler, a role. No card; he and his wife stay roles, as R50-27 allows for a man with no lines. Case I and Volume II's use of him stay.
+
+### R61-26-ASCLEPIUS_ROSTER_NPC [Alchemy Conversion Questionnaire 2026-09-28 ST16]
+
+Asclepius becomes a new person with a roster entry, named per the historical-names rule, and her scorn for God-Essence reads through the setting ruling on it.
+
+> Keep as a new person. A roster entry (a short NPC record); her name follows ST1. Her atheism follows the setting ruling on God-Essence.
+
+### R61-29-DRAGON_CLAW_MONK_NAMED [Alchemy Conversion Questionnaire 2026-09-28 ST19]
+
+Name the dragon-claw monk and give him a short record (want, voice, his father's death on Tempus-bred quarry), while the Prior remains an unnamed role.
+
+> Name the dragon-claw monk; the Prior stays a role. The monk gets a name and a short NPC record (want, voice, his father's death); the Prior stays a role. The father's death 'on Tempus-bred quarry' follows the setting ruling on Tempus.
+
+### R61-31-NOOSPHERIC_SPELLING [Alchemy Conversion Questionnaire 2026-09-28 ST21]
+
+Write 'Noospheric' rather than 'Nospheric', and keep Anamnetic, Necrocursica and Urbis in their published spellings.
+
+> Fix only the plain misspelling. 'Nospheric' becomes 'Noospheric' in the Necrocursica (13 uses) and on the Sub-Stats page; Anamnetic, Necrocursica and Urbis stay as published.
+
+### R61-32-SUMGOL_TITLE_BESIDE_CODEX [Alchemy Conversion Questionnaire 2026-09-28 ST22]
+
+Head Volume I and the overview's name list with a correct Korean-stratum title in Mu-jin's own words, and keep 'The Alftian Codex' as the archive title everywhere else.
+
+> Add a Sum-gol title beside The Alftian Codex. A correct Korean-stratum title, his own name for the book, heads Volume I and the overview's name list; 'The Alftian Codex' stays the archive title everywhere else.
+
+### R61-39-THRICE_GREAT_REFUSED_EPITHET [Alchemy Conversion Questionnaire 2026-09-28 MJ7]
+
+After the king's hall the Monastery calls him the Thrice-Great and he writes 'That is not my name', a line he later gives Kaalabad; the frame's Sage titles go.
+
+> An epithet others gave him, which he refuses. After the king's hall the Monastery calls him 'the Thrice-Great'; he writes 'That is not my name', the line he later gives Kaalabad. The word stays in-world and rhymes with the Ledger-Prince; the frame's Sage titles go.
+
+### R61-49-NECROCURSICA_SIGNED_MALPHAS [Alchemy Conversion Questionnaire 2026-09-28 ML4]
+
+Malphas signs the Necrocursica in his own name, so 'N. Ren' and 'Noxinus Ren' no longer name its author anywhere.
+
+> Malphas signs the Necrocursica in his own name, Malphas.
+
+### R61-50-IMPOSED_SCRIBE_TITLE [Alchemy Conversion Questionnaire 2026-09-28 ML5]
+
+The Necrocursica's title page gives Malphas a sentence-title his compellers imposed (something like 'Scribe to the Genesio Archivum, by order') that he mocks, never an Accord post or a house he answers to.
+
+> A sentence title his compellers imposed, which he mocks. Something like 'Scribe to the Genesio Archivum, by order'. Keeps the page's rhythm, shows Submission on its face, and stays card-safe: a leash is not a house he answers to.
+
+### R61-63-PAPERS_AUTHOR_CONCORD_NAME [Alchemy Conversion Questionnaire 2026-09-28 PA3]
+
+Name the Papers' author as an Urbis-native Concord human from the small given-name pool with a byname surname, in the Oren Corrant mould, so the Accord filing needs no flattening.
+
+> Concord human: small name pool, byname surname. An Urbis native named in the Oren Corrant mould, so the filing needs no flattening and name, office and chancery frame agree. Contrasts with Mu-jin's Mahuo name.
+
+### R61-83-CORRUPTIONS_BY_NAME_NOT_NUMBER [Alchemy Conversion Questionnaire 2026-09-28 GW5]
+
+Cite every corruption by name rather than ordinal, and treat Malphas's charge that Mu-jin's corruption is partly Nomenclature as his opinion of Mu-jin, not a correction of canon's Separation Perverted.
+
+> Names, not numbers; Appendix II names it, keeps Malphas's charge. Every ordinal becomes a name. Appendix II first calls the Codex's corruption Separation Perverted, then keeps the Nomenclature charge and the 'general scholarly Corruption' paragraph as Malphas's opinion of Mu-jin, not a correction of canon.
+
+### R61-88-INDEX_NAMES_TEACHER_GLOSS [Alchemy Conversion Questionnaire 2026-09-28 GL1]
+
+Mu-jin and Malphas write glyph chains in Master Glyph Index names, Mu-jin may gloss his teachers' older name once per glyph he explains ('Ie, Perception; I was taught Insight'), and the phoneme table is labelled an older teaching register that drifted.
+
+> Index names in chains; Mu-jin glosses his teachers' names in prose. 'Ie, Perception; I was taught Insight', once per glyph he explains. The Book of Summons' glyph lines move to Index names; the phoneme table stays, labelled an older teaching register that drifted. Malphas writes Index names only.
+
+### R61-97-PARUNIC_ECHO_IS_SIGNATURE [Alchemy Conversion Questionnaire 2026-09-28 GL10]
+
+'Parunic Echo' is the trade's word for a practitioner's Essence Signature held in Aetheric Residue, readable from Stage IV, and the word 'glyph-trace' is retired.
+
+> Keep the name; it is the Essence Signature in the Residue. 'Parunic Echo' stays as the trade's word for a practitioner's Essence Signature carried in Aetheric Residue, legible from Stage IV. 'Glyph-trace' goes. Logged as a naming-only extension.
+
+### R61-106-CLEARANCE_BY_TIER_NOT_LEVEL [Alchemy Conversion Questionnaire 2026-09-28 EC7]
+
+Operations are Bench-reserved by named Tier, the Necrocursica is called 'sealed', and file clearance reads like Lyssara Veyn's card ('Tier IV Restricted'), so no document gates access by a numbered Level.
+
+> Bench reservation for operations; sealed treatise; Lyssara-style clearance for files. Categories are Bench-reserved by named Tier (EC10 sets which). The Necrocursica is 'sealed' everywhere, as its title page says. The Papers' header and Appendix I read like Lyssara's card ('Tier IV Restricted'). Every Level line changes.
+
+### R61-115-TRANS_ALFTIAN_IN_KETSUEN [Alchemy Conversion Questionnaire 2026-09-28 SE1]
+
+The terraces are Ketsuen's limestone valleys, Genesio sits among the Uplands' dense seeps, Castlefall is a valley rail town and Urbis is a heartland city, all in the Inner World toward the Concord heartland, and the invented names are kept.
+
+> Inner World: Ketsuen's valleys and Uplands, toward the Concord heartland. The terraces become Ketsuen's limestone valleys, Genesio sits among the Uplands' dense seeps, Castlefall is a valley rail town and Urbis a heartland city. Invented names survive, including Heresiology Case IV. One geography note on the Ketsuen page.
+
+### R61-116-SHANENI_IS_ERESSE_BORDER [Alchemy Conversion Questionnaire 2026-09-28 SE2]
+
+'The Shaneni empire's borders' means the New World border where Eresse's old-ground meets the chartered arc, two incompatible orders on one ground, which is why Jabir's knowledge is a synthesis; no new polity exists.
+
+> The New World border where Eresse's old-ground meets the chartered arc. No new polity. 'The Shaneni empire's borders' becomes that border, where two incompatible orders share ground, which explains his synthesis. One line reworded; nothing added to Eresse's page.
+
+### R61-119-HERALDS_ARE_MAELORS_ORDER [Alchemy Conversion Questionnaire 2026-09-28 SE5]
+
+The Heralds descend from the heralds of Maelor, Archon of Memory, which gives the Archivums, the Silent Archivists and the Genesio Anamnesis site a patron of memory, and Asclepius's scorn for 'God-Essence' is a quarrel with the order's theology.
+
+> An order grown from Maelor's lineage of heralds. One Factions page and a line on Maelor's page. The Archivums, the Silent Archivists and the Genesio Anamnesis site gain a patron whose office is memory; Asclepius's scorn for 'God-Essence' becomes a quarrel with the order's theology.
+
+### R61-121-NALN_IS_NALUN [Alchemy Conversion Questionnaire 2026-09-28 SE7]
+
+The Silent Archivists are Vaultmere's archivists in Nalūn, and the Measurewrights' instrument chair verifies the Tempus drift in place of an observation post, because Deepvein measures contracts, not skies.
+
+> Nalūn: Vaultmere's archivists transcribe; the Measurewrights verify the drift. Two orphans tie to canon, and Vaultmere's pending archivist profile goes into use and needs ratifying. The 'observation post at Naln' becomes the Measurewrights' instrument chair, since Deepvein measures contracts, not skies.
+
+### R61-122-TEMPUS_IS_THE_WEIGHT [Alchemy Conversion Questionnaire 2026-09-28 SE8]
+
+Tempus is the Weight, the 29-year wanderer used to count generations, so its drift is a public shock; it is not a gas giant seen by day, and Heresiology Case V keeps its name.
+
+> The Hermetic name for the Weight, the 29-year wanderer. Fits five wanderers: Tempus means time and the Weight counts generations, so its drift is a public shock. The daylight-eye image goes; Case V keeps its name.
+
+### R61-125-GOD_ESSENCE_IS_BELIEF_WORD [Alchemy Conversion Questionnaire 2026-09-28 SE11]
+
+God-Essence means Wellspring Essence treated as divine and adds no metaphysics: its 'structural law' is the Heralds' reading, the humming bridges are ordinary inscribed arrays, and Sirel's 'god-essence leakage' stays a separate folk name.
+
+> A belief-word: Wellspring Essence treated as divine. No new metaphysics. Volume I's 'structural law' becomes the Heralds' reading; the humming bridges are ordinary inscribed arrays. If the Heralds serve Maelor, it names Essence as his gift. Sirel's leakage stays a separate folk name.
+
+### R61-128-CODEX_RENAMES_REGISTERED [Alchemy Conversion Questionnaire 2026-09-28 ME2]
+
+Mu-jin's and Malphas's cards take in the texts' events after a lore check, and the renames registry records Vis Trismegistus to Kwon Mu-jin (full name only), Oren Corrant to the new Papers author, Noxinus Ren to Malphas if Noxinus goes, and ST1's renames, with casting entries after them.
+
+> Write back and register. Both cards gain the events, checked by the lore-writing pass; the registry gains Vis Trismegistus to Kwon Mu-jin (full name only), Oren Corrant to the new author, Noxinus Ren to Malphas if Noxinus goes, and ST1's renames; casting entries follow.
+
+### R61-131-IMPERIAL_AGE_BEGINS_NOW [Alchemy Conversion Questionnaire 2026-09-28 Calendar (C-084 follow-up)]
+
+The count runs 715 years from the sealing of the Codex, 'the Imperial Age' names only the age of empire and industry now beginning, the Voyager Era, Long Reckoning and Withering Era become the count's earlier ages under new names, and the texts carry Imperial-Age years.
+
+> The count stands: it runs 715 years from the sealing of the Codex (C-084). 'The Imperial Age' names only the age of empire and industry now beginning, so the present is Year 715 of the count and the early years of the Imperial Age. The Concordance's Voyager Era, Long Reckoning and Withering Era become the count's earlier ages under new names, and the 1800s-to-1900s span (R53-01) starts recently. The texts carry Imperial-Age years.
 
 ### R57-06-EDMUND_LAMBERT [Rulings Backfill 2026-09-26 2026-09-24 — new]
 
@@ -5820,7 +7404,7 @@ The Zettari bloodline's names, titles and technique names are built in a Swahili
 
 > The Zettari speak their own tongue. Their names and their arts are Swahili, Bantu and Arabic in flavour — Kafa-Karim, Habl Flow-Bind, Sarmad Fracture, Sukun Maji, Dawam Soul-Still Art, Kumi-na-Mbili Seal; Zuberi, Ma'Kovu, N'Kharu, Malani, Jomari, N'Yari, Zembari — and that register stands. The five-strata naming convention assigns the archaic bloodlines to the Japonic stratum; the Zettari are carved out of it as a register of their own, and the Japonic assignment continues to govern every other archaic line. Ruled by Isaac, 2026-09-12.
 
-## pov (90)
+## pov (97)
 
 ### R20C-49-GLOSS_RIGHTS_CARD_FIELD [Pack Twenty R20C-49]
 
@@ -6013,6 +7597,48 @@ The single exception to the practitioner-POV ruling: a practitioner who has been
 The one-italic-thought-per-NPC standard is suspended in mass combat; no more than three characters carry interiority through a battle sequence, everyone else is exterior only, and interiority for named characters outside the three is deferred to the aftermath.
 
 > The one-private-italic-thought-per-named-NPC standard is suspended in mass combat. It exists to make a small cast feel populated and it does the opposite at scale, producing a scene that reads as a poll of forty consciousnesses. Replacement standard: name three. No more than three characters carry interiority through a battle sequence. Everyone else is exterior only: actions, voices, bodies. Interiority for named characters outside the three is deferred to the aftermath, where it lands harder because the reader has been waiting for it.
+
+### R61-51-MALPHAS_MUJIN_OLD_FRIENDS [Alchemy Conversion Questionnaire 2026-09-28 ML6]
+
+Mu-jin and Malphas were friends, and Mu-jin knows him only as Malphas the alchemist, never learning that his friend founds The Mother, whose lich and cult work under other names.
+
+> Malphas and Mu-jin were friends. Mu-jin knows his old friend as Malphas the alchemist and never learns that his friend founds The Mother; the lich and the cult work under other names.
+
+### R61-54-MARGINS_SHOW_MALPHAS_DRIFT [Alchemy Conversion Questionnaire 2026-09-28 ML9]
+
+The sealed Necrocursica carries short margin notes by the older, living Malphas against the Incomplete Sealing, preferring the dead, naming and Category Three, each a step over his own line, while the core warnings stay sincere so the text reads in two voices.
+
+> Sealed-edition margins show his drift. Short notes by the older, living Malphas against the Third, Fifth and Sixth Corruptions and Category Three, each a step over his own line. The core warnings stay sincere; the document reads in two voices.
+
+### R61-56-RESURRECTION_FORBIDDEN_ON_PAPER [Alchemy Conversion Questionnaire 2026-09-28 ML11]
+
+The Necrocursica treats full resurrection as Category Four, forbidden rather than declared impossible, and that forbidden path is secretly the one Malphas himself walks.
+
+> Full resurrection is forbidden on paper in the Necrocursica, and secretly Malphas's own path.
+
+### R61-59-MALPHAS_SILENT_PARTNER_GENESIO [Alchemy Conversion Questionnaire 2026-09-28 ML14]
+
+The Genesio activations ran on Malphas's protocol under Thom's hand and signature, his first Fermentation Perverted work, hinted only by one sealed-edition margin line, and Heresiology Case IV is his unnamed case.
+
+> Silent partner: his protocol under Thom's hand and signature. His first Fermentation Perverted work runs through another man's signature, The Mother's method before The Mother. The texts stay unchanged on the surface; one sealed-edition margin line hints it; Case IV becomes his unnamed case.
+
+### R61-60-NECROCURSICA_IS_ARENA_SOURCE [Alchemy Conversion Questionnaire 2026-09-28 ML15]
+
+The sealed Necrocursica sits beside the Zettari notes as the source material Mu-jin and the culprit both studied, so his Arena speech is a buried confession that he read his friend's book, without naming its author.
+
+> Yes: the sealed Necrocursica sits beside the Zettari notes. The speech gains a buried confession: Mu-jin read his friend's book and now describes its use without naming its author. No scene edit.
+
+### R61-66-PAPERS_CITE_VIA_CODEX [Alchemy Conversion Questionnaire 2026-09-28 PA6]
+
+The uncleared Papers' author cites the sealed Necrocursica only second-hand, 'as the Codex reports', and never as if having read it.
+
+> Through the Codex: add 'as the Codex reports'. Two phrase edits. The author knows the sealed book only second-hand, which fits the header's 'unverified' Volitional Trace and keeps knowledge limited.
+
+### R61-112-AUTHORS_STATE_INSTRUMENT_FIGURES [Alchemy Conversion Questionnaire 2026-09-28 EC13]
+
+Mu-jin reads EU, η and site density whenever he takes off his spectacles, Malphas prices each Category as a share of reserve by Stage, and the investigator logs readings at scenes, while the impression-body's cost, Genesio's density and the drift's scale are derived and never invented.
+
+> Each author states figures as their instruments give them. Mu-jin reads EU, η and site density whenever he removes his spectacles; Malphas prices each Category as a share of reserve by Stage; the investigator logs readings at scenes. The impression-body's cost, Genesio's density and the drift's scale are derived.
 
 ### R41-1-DISTANCE_IS_TWO_AXES [Distance Two Axes Ruling C-015]
 
@@ -7672,7 +9298,7 @@ Narration refers to characters by POV epithets, the way the viewpoint sees them;
 
 > Narration refers to characters by POV epithets, the way the viewpoint sees them; the naming characterises.
 
-## register (147)
+## register (151)
 
 ### R20C-21-WELL_NAMES_CLASS_MARKED [Pack Twenty R20C-21]
 
@@ -8099,6 +9725,30 @@ The Master Style Directive's §10 deliberately-excluded list gains the Manhwa En
 The Manhwa Energy Directive block is struck in full from project instructions, "manhwa-cinematic" and "manhwa energy" are struck from tone descriptions, and the genre-intersection statement is amended so only the pacing ambition survives.
 
 > - Strike the Manhwa Energy Directive block in full. - Strike "manhwa-cinematic" and "manhwa energy" from tone descriptions. - Amend the genre-intersection statement: the pacing ambition survives, the manhwa-cinematic layer does not.
+
+### R61-38-MUJIN_WRITTEN_VOICE_BY_VOLUME [Alchemy Conversion Questionnaire 2026-09-28 MJ6]
+
+In Volume I he apologises for explaining and by Volume III he has stopped; he notices the flaw then the child, and jokes become dry self-correction.
+
+> A written voice built on his habits, changing by volume. Vol I apologises for explaining; by Vol III he has stopped. He notices the flaw, then the child. Lacquered jokes are cut back to dry self-correction. Length and texture stay, the man is recognisable, and the change shows his growth.
+
+### R61-58-MALPHAS_TWO_REGISTERS [Alchemy Conversion Questionnaire 2026-09-28 ML13]
+
+Malphas's voice block sets opaque command as his default and the Necrocursica's candour as his grief-and-joy shift (the man before The Mother), never uses contractions, and trims chatty tics while keeping the confessions.
+
+> Two registers, one man. The block sets command as his default and the Necrocursica's candour as his grief and joy shifts, the man before The Mother; contractions never. Trim the chatty tics, keep the confessions, so his fall shows in his voice.
+
+### R61-65-PAPERS_TWO_LAYER_STYLE [Alchemy Conversion Questionnaire 2026-09-28 PA5]
+
+Write the Papers' frame (header, classification, cross-references, closing note) in the Night Watch's office style and the entries in the author's own voice.
+
+> Two layers: the frame (header, classification, cross-references, closing note) in the Night Watch's own office style, and the entries in the author's own voice.
+
+### R61-78-NECROMANCY_LOOSE_PERIOD_WORD [Alchemy Conversion Questionnaire 2026-09-28 DE7]
+
+Scholars in the texts use 'necromantic' loosely as the period term for impression-body work, and the Necrocursica notes once that the Accord's legal sense is narrower.
+
+> Keep it as the scholars' loose word, with one legal note. Both authors use 'necromantic' as the period term, and the Necrocursica adds a line that the Accord's legal sense is narrower. Matches the Heresiology's own loose usage; least rewriting.
 
 ### R57-31-NUMINOUS_WOTR_SENSE_ONLY [Rulings Backfill 2026-09-26 Conflicts ruled]
 
@@ -8750,7 +10400,7 @@ The narration-distance rule wins over Pack One's Scene Standards carve-out: a na
 
 > The narration-distance rule wins: no NPC italic thought inside a locked-POV scene. Pack One's "one private italic thought per named NPC" carve-out survives only for scenes with no POV lock (omniscient and mass combat).
 
-## session-protocol (28)
+## session-protocol (30)
 
 ### R20C-5-BRIEF_BURI_SECTION_MUST_GO [Pack Twenty R20C-5]
 
@@ -8829,6 +10479,18 @@ A naming pass runs per culture; existing techniques already established in prose
 wotr_verify.sh and wotr_beat_check.py both run before presenting; failures are fixed and both re-run; no single-pass delivery.
 
 > Both scripts run before presenting, failures are fixed, both re-run. No single-pass delivery.
+
+### R61-129-CONVERSION_ORDER_OF_WORK [Alchemy Conversion Questionnaire 2026-09-28 ME3]
+
+Convert Volume I, Volume II, the Papers, Volume III and then the Necrocursica, one document per commit, so no text is converted before the texts it quotes.
+
+> Composition order: Volumes I, II, Papers, Volume III, Necrocursica. Each document is converted after everything it quotes, so no conversion cites an unconverted source; the Necrocursica's revised edition comes last and cites the finished four.
+
+### R61-130-CONVERTED_TEXTS_OUTPUT [Alchemy Conversion Questionnaire 2026-09-28 ME4]
+
+Publish each converted text as a Notion page in-session for the sync to mirror, and save a new docx next to Isaac's originals, which are never overwritten.
+
+> Notion pages plus fresh docx files beside the originals. Pages are published in-session and mirrored by the sync; new docx files, such as 'The Alftian Codex (Mu-jin edition)', are saved next to his originals, which stay untouched.
 
 ### R58-07-WREN_GRIEF_FRONT [Follow-up Rulings 2026-09-26 Follow-up answers]
 
@@ -9240,7 +10902,7 @@ No decade-by-decade technology page: the partner judges what is era-appropriate 
 
 > No decade-by-decade technology page: the partner judges what is era-appropriate in the Imperial Age scene by scene.
 
-## stats (103)
+## stats (122)
 
 ### R20C-30-STAGE_NAMES_FROM_FOW [Pack Twenty R20C-30]
 
@@ -9451,6 +11113,120 @@ Governing Sub-Stats belong to the practitioner rather than the working's Wellspr
 One combat turn is six seconds; efficiency above one draws its surplus from the Aether stratum; healing and mending always cost more than breaking.
 
 > One combat turn is six seconds. Efficiency above one draws its surplus from the Aether stratum. Healing and mending always cost more than breaking.
+
+### R61-16-FURVEUS_IS_A_ROSTER_NPC [Alchemy Conversion Questionnaire 2026-09-28 ST6]
+
+Furveus replaces Paracelsus as a minor NPC whose stat line prices the commission, and he is Malphas's colleague, a tie Malphas's card must carry.
+
+> Keep as a new person named Furveus. A roster entry (a short minor-NPC record) with a FOW (Fracture of Worlds, the stat system) line pricing the commission; 'called Paracelsus' follows ST1. Through the Necrocursica he is Malphas's colleague too, a tie Malphas's card must carry.
+
+### R61-17-GILLUS_GETS_FULL_CARD [Alchemy Conversion Questionnaire 2026-09-28 ST7]
+
+Build Gillus a full card with loadout, costs, counters and a Voice block under his in-world name, and add him to Mu-jin's and Malphas's Ties.
+
+> New person with a full character card. A full card with a FOW (Fracture of Worlds) loadout, costs, counters and a Voice block; name per ST1. Mu-jin's and Malphas's cards both gain him in Ties.
+
+### R61-18-THOM_IS_A_ROSTER_NPC [Alchemy Conversion Questionnaire 2026-09-28 ST8]
+
+Thom gets a roster entry with a stat line (Anamnesis, crude impression-bodies, twelve years of activations), and Malphas stays the theorist whose architecture he scaled.
+
+> Keep as a new person. A roster entry (a short NPC record) with a FOW stat line (Anamnesis, crude impression-bodies, twelve years' activation); name per ST1. Malphas stays the theorist whose architecture Thom scaled, so his card's tell becomes a line he lives into later.
+
+### R61-22-MADELEINE_AULT_ROSTER_NPC [Alchemy Conversion Questionnaire 2026-09-28 ST12]
+
+Madeleine is a dead Anamnesis-adjacent scholar who died of lung-sickness, with a Stage and a stat line that prices her Trace and the eleven days, while Case III stays unnamed.
+
+> New person with a roster entry and stat line. A short NPC record (dead of lung-sickness; Anamnesis-adjacent scholar; her Stage) with a FOW (Fracture of Worlds) stat line that prices her Trace and the eleven days. Case III stays unnamed.
+
+### R61-43-MUJIN_DETECTS_NEVER_PERFORMS_CAT_THREE [Alchemy Conversion Questionnaire 2026-09-28 MJ11]
+
+His passive sense of failing seals is free and reaches streets away, a full lens-off read costs a migraine, and he can diagnose and warn but never perform, with Genesio completing through his Anamnesis only.
+
+> Detector only: he feels seals fail, never performs Category Three. He is the Codex's witness of failing seals: the passive sense is free and reaches streets away, a full lens-off read costs its migraine. He diagnoses and warns but cannot perform; Genesio completes through his Anamnesis, never his authority.
+
+### R61-46-NECROCURSICA_WRITTEN_AT_INVOCATION [Alchemy Conversion Questionnaire 2026-09-28 ML1]
+
+Date the Necrocursica's core text to Malphas's Invocation (Stage IX, when he stopped working alone) in the Codex I years, with the relief of the extra months as Invocation and the worsening a year or two later as The Mother, so its warnings read as sincere and tragic.
+
+> At Invocation: the compulsion is when he stopped working alone. The preface stays close to as written. The months past the brief are Invocation's relief; the 'worse' a year or two later is The Mother. The warnings read as sincere and tragic, written in the Codex I years.
+
+### R61-61-PAPERS_AUTHOR_FULL_CARD [Alchemy Conversion Questionnaire 2026-09-28 PA1]
+
+Build the new Papers author a full card with a FOW loadout, voice block, pronunciation line, dated header, voice fingerprint and casting entry, so the Papers and Codex III share one fixed voice and the investigator plays as an NPC with counters.
+
+> Full character card. Fracture of Worlds loadout (the stat sheet), voice block, pronunciation line, dated header, voice fingerprint and casting entry. Most work; the investigator becomes a playable NPC with counters, and the Papers and Codex III share one fixed voice.
+
+### R61-64-PAPERS_AUTHOR_CLASS_ZERO [Alchemy Conversion Questionnaire 2026-09-28 PA4]
+
+The Papers' author has no Stage and a never-woken Crystal (Class Ø), so every reading comes from instruments or other people's senses, meeting Gillus is real risk, and Mother cultures find no signature to follow.
+
+> No Stage: unwoken, reading by instrument. Class Ø (a Crystal never woken). Every reading comes from instruments and other people's senses; the Gillus meeting is real risk; a Mother culture finds no signature of theirs to follow. The card needs no Wellsprings.
+
+### R61-68-GENESIO_RIPTIDE_TO_WHIRLPOOL [Alchemy Conversion Questionnaire 2026-09-28 WS2]
+
+The Genesio Anamnesis site is a Riptide (A-grade output to stand in) that reads as a Whirlpool (S to SS) under Obsession Force while Thom draws, its 'time wrong' and Tempus drift lasting only while it takes, and completing the oldest Trace drops it a rung.
+
+> Riptide, turned to Obsession Force by Thom's draw. Clean, it needs A-grade output; while Thom draws it reads Whirlpool, so standing there needs S to SS, and 'time wrong' and the Tempus drift (correspondence, not energy) last only while it takes. Completing the oldest Trace drops it a rung.
+
+### R61-75-IMPRESSION_BODY_GREATER_SUMMONS [Alchemy Conversion Questionnaire 2026-09-28 DE4]
+
+Build an impression-body as a Tier III Greater Summons (Stage IX to XI): an Arts vessel, the maker's own Core as identity through Animatria, and Vocatia contact with the Trace, with vessel and Binding carrying it past minutes to hours.
+
+> A Greater Summons: vessel, Animatria and Vocatia together. Canon's Tier III (Stage IX to XI, 'ancestral echoes'): Arts vessel, the maker's Core as identity, Vocatia contact with the Trace. The Aphorism turns literal; the Trace explains what he did not foresee. Eleven days outruns 'minutes to hours', so vessel and Binding carry it.
+
+### R61-79-GREAT_WORK_DOUBLE_SEVEN [Alchemy Conversion Questionnaire 2026-09-28 GW1]
+
+The seven Great Work stages run once over Stages I to VII and again over VIII to XIV (Splintering V is Fermentation, Invocation IX Dissolution, Dissonance XI Conjunction, Zenith XIV Coagulation), and a Class Ø alchemist's maker side is read on grain.
+
+> The double seven, with a grain clause for Class Ø. Stages I-VII walk the seven once, VIII-XIV again (the Codex's own 'spiral'): Splintering V is Fermentation, Invocation IX Dissolution, Dissonance XI Conjunction, Zenith XIV Coagulation. For Class Ø the maker side is read on grain. A ruling and one line on the Temperance page.
+
+### R61-85-BROKEN_VOW_SIGNS_CORRUPTION [Alchemy Conversion Questionnaire 2026-09-28 GW7]
+
+Each corruption reads on the sheet as its vow's Shear Break, and Mu-jin's own vow against Non-Commitment, which the Heresiology lists eighth, gives every corruption a named, findable counter while grain stays unread.
+
+> As C, plus an eighth vow Mu-jin writes. Volume III closes the gap with his vow against his own corruption (in the spirit of 'I will not document what I will not obstruct'), and the Heresiology lists it eighth. Every corruption gets a named, findable counter; grain stays unread.
+
+### R61-100-ALCHEMY_PAID_BY_STOCK_AND_VEIN [Alchemy Conversion Questionnaire 2026-09-28 EC1]
+
+A Draft draws on its stock and the site's vein and costs no reserve, a Crystal-bearer's standing work (a seal, an amulet, an impression-body) also costs a one-time share of reserve on the arms-ladder model, and a pure alchemist's standing work needs a Crystal-bearer's seal.
+
+> Drafts from stock and vein; standing works also cost reserve once. Drafts stay reserve-free. A Crystal-bearer's standing work (a seal, Jabir's amulet, an impression-body) costs a once-only share of reserve on the arms-ladder model; a pure alchemist's needs a Crystal-bearer's seal. Alchemetrica gains one line; Category Three gains a real price.
+
+### R61-101-NO_DRAFT_REFILLS_RESERVE [Alchemy Conversion Questionnaire 2026-09-28 EC2]
+
+Drafts heal bodies and steady Shells but never put Essence back into a reserve, so 'alchemical treatment' means speeding Wellspring recovery, not supplying EU.
+
+> R2-6 governs: no Draft refills a reserve. Paracelsus's medicines heal bodies and steady Shells; nothing he brews refuels. The Drafts ladder's 'banked' and 'overfill' sentences and Mnemonis Solution's sizing are corrected. 'Alchemical treatment' reads as speeding Wellspring recovery, not supplying EU.
+
+### R61-102-BENCH_TIERS_CAP_ALCHEMISTS [Alchemy Conversion Questionnaire 2026-09-28 EC3]
+
+A Crystal-less alchemist holds a Tier of Standing up to Five (Expert) by bench certification rather than by reading a Crystal, and that Tier caps what they can make.
+
+> Alchemetrica governs: bench-certified Tiers up to Expert cap their work. Pure alchemists hold Tiers of Standing up to Five (Expert) by bench certification, and that Tier caps what they make. The Tiered Path page and Part Twenty gain one carve-out line: bench Tiers are certified, not read off the Crystal.
+
+### R61-103-DRAFT_SUB_STAT_PROFILE [Alchemy Conversion Questionnaire 2026-09-28 EC4]
+
+Draft-making runs on Tempering Coherence and Maturity (Core), Tempering Clarity (Shell), Harmonics Attunement (Attraction Layer), Gnosis Analysis and Fluency (reading and chain) and Vitality Filtration (exposure), and Mortalis work adds Persistence and Cognition; the profile waits on ratification through propose_rule.
+
+> A Draft profile built from existing Sub-Stats, filed for ratification. Core to Tempering Coherence and Maturity, Shell to Tempering Clarity, Attraction Layer to Harmonics Attunement; Gnosis Analysis and Fluency for reading and chain; Vitality Filtration for exposure. Mortalis work adds Persistence and Cognition. Filed through propose_rule.
+
+### R61-108-MORTALIS_FULL_COST_STACK [Alchemy Conversion Questionnaire 2026-09-28 EC9]
+
+Every working pays a reserve share, site depletion and waste heat, Category Two and up also tick the Drift Scale, each Anamnesis read erases what it takes so a Trace can be used only once, and the Genesio activation has a hard limit and leaves a visible scar.
+
+> The full stack, and a Trace can be used once. Reserve share, site depletion, waste heat, a Drift Scale tick for Category Two and up, and every Anamnesis read erasing what it takes. The Genesio activation gets a hard limit and a visible scar.
+
+### R61-109-MORTALIS_CATEGORY_STAGE_FLOORS [Alchemy Conversion Questionnaire 2026-09-28 EC10]
+
+Category One needs Flourishing, Two needs Glory and Three needs Refraction plus individual review, with Bench reservations at Adept, Expert and Expert with review, so Gillus at Stage VII is lawful by rank and unlawful only by review.
+
+> Flourishing, Glory, then Refraction with individual review. Categories One and Two sit on precedent rows; Category Three sits where the Necrocursica says Trace-compulsion begins. Gillus stands at the floor, lawful by rank and unlawful only by review. Reservations read Adept, Expert, Expert with review.
+
+### R61-112-AUTHORS_STATE_INSTRUMENT_FIGURES [Alchemy Conversion Questionnaire 2026-09-28 EC13]
+
+Mu-jin reads EU, η and site density whenever he takes off his spectacles, Malphas prices each Category as a share of reserve by Stage, and the investigator logs readings at scenes, while the impression-body's cost, Genesio's density and the drift's scale are derived and never invented.
+
+> Each author states figures as their instruments give them. Mu-jin reads EU, η and site density whenever he removes his spectacles; Malphas prices each Category as a share of reserve by Stage; the investigator logs readings at scenes. The impression-body's cost, Genesio's density and the drift's scale are derived.
 
 ### R57-12-RUNG_I1_GENERAL_SENTENCE [Rulings Backfill 2026-09-26 2026-09-25 — new (rules for ruling, I-1)]
 
@@ -9863,7 +11639,7 @@ Stage V reads the Expert row's η of 0.60–0.70.
 
 > Splintering takes the 0.60-0.70 efficiency band; the whole Expert row reads 0.60-0.70.
 
-## verification (100)
+## verification (103)
 
 ### R20C-3-SWEEP_TWO_TIERS [Pack Twenty R20C-3]
 
@@ -10309,6 +12085,24 @@ If removing the battle would preserve the relationship change, the Act was not u
 
 > If you can remove the battle and preserve the relationship change, the Act was not unrepeatable and the battle was decoration. Rebuild the Act around something the engagement made possible and nothing else could.
 
+### R61-104-REAL_ALCHEMY_PAGE_WRITTEN [Alchemy Conversion Questionnaire 2026-09-28 EC5]
+
+Alchemy work goes ahead on Alchemetrica and real-physics research, and that research (Paracelsus's dosing, spagyric separation, luting, long calcinations) is written up as The Real Alchemy page for ratification, so later alchemy work has R18-5's third source.
+
+> Proceed, and write The Real Alchemy from the conversion's research. As B, and the research gathered (Paracelsus's dosing, spagyric separation, luting, long calcinations) becomes The Real Alchemy page for ratification, so every later alchemy task has R18-5's third source.
+
+### R61-105-PARACELSUS_DOSE_AND_PALSY [Alchemy Conversion Questionnaire 2026-09-28 EC6]
+
+Arsenic and mercury are named plainly as medicines that heal at the right dose and poison past it, Paracelsus shows early crucible palsy and Draft-mark that Mu-jin reads on sight, and research checks every dose and mechanism before print.
+
+> Real names; the dose is the point; he carries the cost. The medicine heals at a dose and poisons past it. Paracelsus shows early crucible palsy and Draft-mark, which Mu-jin reads on sight. Dose and mechanism are checked by research before print.
+
+### R61-128-CODEX_RENAMES_REGISTERED [Alchemy Conversion Questionnaire 2026-09-28 ME2]
+
+Mu-jin's and Malphas's cards take in the texts' events after a lore check, and the renames registry records Vis Trismegistus to Kwon Mu-jin (full name only), Oren Corrant to the new Papers author, Noxinus Ren to Malphas if Noxinus goes, and ST1's renames, with casting entries after them.
+
+> Write back and register. Both cards gain the events, checked by the lore-writing pass; the registry gains Vis Trismegistus to Kwon Mu-jin (full name only), Oren Corrant to the new author, Noxinus Ren to Malphas if Noxinus goes, and ST1's renames; casting entries follow.
+
 ### R57-14-RUNG_I3_STALE_STATUS_NOTES [Rulings Backfill 2026-09-26 2026-09-25 — new (rules for ruling, I-3)]
 
 A canon line stating the state of the record, since overtaken, may be updated by any sweep citing what overtook it.
@@ -10465,7 +12259,7 @@ When the partner thinks a beat is drifting or a rule reads wrong, it says so in 
 
 > When the partner thinks a beat is drifting or a rule reads wrong, it says so in one plain line and keeps writing unless stopped.
 
-## worldbuilding (226)
+## worldbuilding (253)
 
 ### R20C-1-BURI_DEAD_EVERYWHERE [Pack Twenty R20C-1]
 
@@ -10862,6 +12656,168 @@ The Büri origin is the western reach of the Inner World's northern shield, not 
 With Sātūlagi struck, the six non-Kōkan/non-crown lines are landless; every line's ambition must route through Kharven or through nothing, which is the condition that produced the Tenrai's correction and has not changed since.
 
 > With Sātūlagi struck, the six non-Kōkan lines are landless. Kurenai, Tenrai, Amagiri and the rest hold inherited authority with no ground to exercise it on, and every line's ambition must route through Kharven or through nothing.
+
+### R61-1-TEXTS_DATED_EARLY_IMPERIAL_AGE [Alchemy Conversion Questionnaire 2026-09-28 K1]
+
+Date the Codex volumes, the Papers and the Necrocursica in the early years of the Imperial Age, which is also the era of the story's present.
+
+> The five texts are stamped in the early years of the Imperial Age, and the story's present is itself the early Imperial Age (see the calendar answer at the end).
+
+### R61-2-HERESIOLOGY_POSTDATES_THE_TEXTS [Alchemy Conversion Questionnaire 2026-09-28 K2]
+
+Treat the Heresiology as a recent Accord manual drawn from these events: its five cases stand word for word, the texts' events end some years before it in Mu-jin's past, and Case II's compelled author is Malphas.
+
+> After: a recent Accord manual drawn from these events. The five cases stand word for word; the meta page and Malphas's card stay true. The texts' events close some years before its issue, in Mu-jin's past. Case II's author 'pulled by access and manipulated through need' must fit Malphas (the Necrocursica items).
+
+### R61-21-TAT_IS_DOYUN [Alchemy Conversion Questionnaire 2026-09-28 ST11]
+
+Tat's scenes become Doyun's boyhood in Mu-jin's room at Sum-gol (Doyun about 13-15, Mu-jin 22-24), and Doyun gains the cat, the Third Corruption question and the address as canon.
+
+> He is Doyun, met as a boy. Tat's scenes move from the Monastery to Mu-jin's room at Sum-gol, when Doyun is about 13 to 15 (Mu-jin 22 to 24). Doyun gains the cat, the Third Corruption question and the address; his boyhood becomes canon.
+
+### R61-24-HALVETH_DIRECTS_URBIS_OFFICE [Alchemy Conversion Questionnaire 2026-09-28 ST14]
+
+Halveth heads only the Urbis branch, 'the Research Division' in the Papers and Volume III means that branch, and no Division head changes.
+
+> New person, quiet director of the Urbis office. A roster entry (a short NPC record); the twist stays regional, and 'the Research Division' in the Papers and Volume III means its Urbis branch. No Division head changes.
+
+### R61-33-SUMGOL_EMPTIED_BEFORE_MUJIN [Alchemy Conversion Questionnaire 2026-09-28 MJ1]
+
+Mu-jin was born to the remnant of a house in an already-thinned valley; the school and sixty roofs are what remained, and Ara's 'Sum-gol went' means the last of the house going.
+
+> Before his birth: the Primate's card governs. He is born to the remnant of a house whose valley had already thinned; the school and the sixty roofs are what remained. Ara's 'Sum-gol went' reads as the last of the house going, as her scene already hints. No scene line changes.
+
+### R61-35-VIS_IS_GEUKHON_EARLIER_LIFE [Alchemy Conversion Questionnaire 2026-09-28 MJ3]
+
+The coffin's 'Vis, Alchemical Astronomer' is an earlier life of the soul Kaalabad names, whose four hundred years hold more than one life, paying off the Soul Kingdom thread.
+
+> His own earlier life: 'Vis' was the soul called Geuk-hon. The coffin keeps 'Vis, Alchemical Astronomer' as an Elfin earlier life of the soul Kaalabad names; that soul's four hundred years hold more than one life. Pays off Kaalabad and the Soul Kingdom thread, and makes the author note canon.
+
+### R61-40-ACCORD_SEALED_MUJINS_JOURNALS [Alchemy Conversion Questionnaire 2026-09-28 MJ8]
+
+He deposited each volume for common use under his teaching vow, and the Accord classified them Mortalis-adjacent and withdrew them under seal without asking him.
+
+> He filed them openly; the Accord sealed them. He deposits each volume under his teaching vow for common use; the Accord classifies them Mortalis-adjacent. 'Recovered' becomes 'withdrawn under seal'. His open book made restricted doctrine without asking him is the Ledger-Prince wound again.
+
+### R61-44-RIMWARD_RESPONDER_STAYS_UNNAMED [Alchemy Conversion Questionnaire 2026-09-28 MJ12]
+
+Volume III opens on Rimward as the question the Trace answers, describing the wall, the eye and the law of response but never who or what responded.
+
+> Named as his question; what answered stays unnamed. Vol III opens on Rimward as the question the Trace answers: he writes the wall, the eye and the law of response, never who responded. Keeps the promise to Ara and his refusal to invent a shape.
+
+### R61-48-ZERAPHINE_DROWL_SECOND_COMPELLER [Alchemy Conversion Questionnaire 2026-09-28 ML3]
+
+The second visitor who compelled Malphas at Genesio beside Gillus is Zeraphine Drowl, then the Pyraeon Forge Academy's tactician, whose persuasion marked his left hand and whose canon betrayal begins at his confinement.
+
+> Gillus plus Zeraphine Drowl, then the Academy's tactician. The Academy gets its first face, her canon betrayal starts at his confinement, and the hand mark is hers. Her card's Lore gains the meeting, fixing her as an Academy officer at the date ML1 sets.
+
+### R61-55-MOTHER_TEACHES_NECROCURSICA [Alchemy Conversion Questionnaire 2026-09-28 ML10]
+
+Malphas teaches The Mother from the Necrocursica by memory, so each culture's methods trace to its protocols and anyone who has read it can recognise the cult's work, a counter that can be found.
+
+> A working text he teaches from memory. Each culture's methods trace to its protocols, so anyone who has read it can recognise the cult's work: a counter someone can find. The Mother's page gains one line; the Arena speech becomes that recognition.
+
+### R61-62-PAPERS_AUTHOR_NIGHT_WATCH [Alchemy Conversion Questionnaire 2026-09-28 PA2]
+
+The Papers' author is a Night Watch Society investigator on the crown's warrant, working a joint case with Halveth, head of the Research and Archives Division's Urbis office, who opened it, hands over the file, annotates the notes and makes 'not a report' a condition of access.
+
+> The new Papers author is a Night Watch Society investigator on the crown's warrant. Halveth stays with the Research and Archives Division as head of its Urbis office; the case is joint: she opened it, hands the investigator the file and annotates the notes, and her order 'not a report' is a condition of access.
+
+### R61-68-GENESIO_RIPTIDE_TO_WHIRLPOOL [Alchemy Conversion Questionnaire 2026-09-28 WS2]
+
+The Genesio Anamnesis site is a Riptide (A-grade output to stand in) that reads as a Whirlpool (S to SS) under Obsession Force while Thom draws, its 'time wrong' and Tempus drift lasting only while it takes, and completing the oldest Trace drops it a rung.
+
+> Riptide, turned to Obsession Force by Thom's draw. Clean, it needs A-grade output; while Thom draws it reads Whirlpool, so standing there needs S to SS, and 'time wrong' and the Tempus drift (correspondence, not energy) last only while it takes. Completing the oldest Trace drops it a rung.
+
+### R61-77-REVENANT_IS_STALLED_CROSSING [Alchemy Conversion Questionnaire 2026-09-28 DE6]
+
+A revenant needs no necromancer: it is a body spending its nine days where the Wellspring cannot take the residue (sealed ground, saturated battlefields), fading when diffusion completes, and countered by moving or grounding the body with Stillgate Ash.
+
+> A Crossing that stalls on its own. A revenant is a body that spends its nine days where the Wellspring cannot take the residue: sealed ground, saturated battlefields. It fades when diffusion completes; moving or grounding the body (Stillgate Ash) is the counter. Malphas's 'not supernatural' becomes the Crossing's own account.
+
+### R61-111-PARACELSUS_SOLD_UNENTERED_FORMULA [Alchemy Conversion Questionnaire 2026-09-28 EC12]
+
+Paracelsus took a fee for an unentered formula he could lawfully hold but not sell, so the breach and a Master of the Circle's personal liability fall on him while the patron broke no law; the Codex names the fee, and the Papers' author has a case.
+
+> Private, unentered and paid: he sold what he could only hold. The patron broke no law, so the Papers' line stands as said to him; Paracelsus carries the breach and a Master of the Circle's personal liability (the rank that seals). The Codex names the fee; the Papers author has a case.
+
+### R61-115-TRANS_ALFTIAN_IN_KETSUEN [Alchemy Conversion Questionnaire 2026-09-28 SE1]
+
+The terraces are Ketsuen's limestone valleys, Genesio sits among the Uplands' dense seeps, Castlefall is a valley rail town and Urbis is a heartland city, all in the Inner World toward the Concord heartland, and the invented names are kept.
+
+> Inner World: Ketsuen's valleys and Uplands, toward the Concord heartland. The terraces become Ketsuen's limestone valleys, Genesio sits among the Uplands' dense seeps, Castlefall is a valley rail town and Urbis a heartland city. Invented names survive, including Heresiology Case IV. One geography note on the Ketsuen page.
+
+### R61-116-SHANENI_IS_ERESSE_BORDER [Alchemy Conversion Questionnaire 2026-09-28 SE2]
+
+'The Shaneni empire's borders' means the New World border where Eresse's old-ground meets the chartered arc, two incompatible orders on one ground, which is why Jabir's knowledge is a synthesis; no new polity exists.
+
+> The New World border where Eresse's old-ground meets the chartered arc. No new polity. 'The Shaneni empire's borders' becomes that border, where two incompatible orders share ground, which explains his synthesis. One line reworded; nothing added to Eresse's page.
+
+### R61-117-GENESIO_ONE_MOUNTAIN_TERRITORY [Alchemy Conversion Questionnaire 2026-09-28 SE3]
+
+Genesio is a single mountain territory reached by a day's rail to the Genesio waystation and then two days mounted up the passes, its archive-town holds the Archivum, and the tanner's flat is in Castlefall.
+
+> One mountain territory: rail to a railhead, then the passes. A day by rail to the Genesio waystation, then two days mounted up the passes: both figures hold. Its archive-town holds the Archivum. Volume I's tanner's flat moves to Castlefall, where Volume II and the Papers already put it.
+
+### R61-118-TWO_ARCHIVUMS_URBIS_MONASTERY [Alchemy Conversion Questionnaire 2026-09-28 SE4]
+
+Genesio's Archivum is the older outlying house with its own sealed stacks, the Urbis Archivum fills the lower floors of the Herald's Monastery at Urbis, and there is no Genesio Monastery.
+
+> Two Archivums; the Monastery at Urbis houses the Urbis Archivum. Genesio's is the older outlying house with its own sealed stacks; Urbis's sits in the Monastery's lower floors, so Volume II's two lines already agree. Only the Necrocursica's 'Genesio Monastery' changes.
+
+### R61-119-HERALDS_ARE_MAELORS_ORDER [Alchemy Conversion Questionnaire 2026-09-28 SE5]
+
+The Heralds descend from the heralds of Maelor, Archon of Memory, which gives the Archivums, the Silent Archivists and the Genesio Anamnesis site a patron of memory, and Asclepius's scorn for 'God-Essence' is a quarrel with the order's theology.
+
+> An order grown from Maelor's lineage of heralds. One Factions page and a line on Maelor's page. The Archivums, the Silent Archivists and the Genesio Anamnesis site gain a patron whose office is memory; Asclepius's scorn for 'God-Essence' becomes a quarrel with the order's theology.
+
+### R61-120-URBIS_HEARTLAND_CITY [Alchemy Conversion Questionnaire 2026-09-28 SE6]
+
+Urbis is a heartland city with rail and trams where the Research and Archives Division keeps a regional desk, while the Archives Eternal stays at the Concord Citadel.
+
+> A new Inner World heartland city with a regional Division office. The Archives Eternal stays at the Citadel; the Papers' address is a regional desk. One line of geography; rail and trams suit a heartland city.
+
+### R61-121-NALN_IS_NALUN [Alchemy Conversion Questionnaire 2026-09-28 SE7]
+
+The Silent Archivists are Vaultmere's archivists in Nalūn, and the Measurewrights' instrument chair verifies the Tempus drift in place of an observation post, because Deepvein measures contracts, not skies.
+
+> Nalūn: Vaultmere's archivists transcribe; the Measurewrights verify the drift. Two orphans tie to canon, and Vaultmere's pending archivist profile goes into use and needs ratifying. The 'observation post at Naln' becomes the Measurewrights' instrument chair, since Deepvein measures contracts, not skies.
+
+### R61-122-TEMPUS_IS_THE_WEIGHT [Alchemy Conversion Questionnaire 2026-09-28 SE8]
+
+Tempus is the Weight, the 29-year wanderer used to count generations, so its drift is a public shock; it is not a gas giant seen by day, and Heresiology Case V keeps its name.
+
+> The Hermetic name for the Weight, the 29-year wanderer. Fits five wanderers: Tempus means time and the Weight counts generations, so its drift is a public shock. The daylight-eye image goes; Case V keeps its name.
+
+### R61-123-TEMPUS_DRIFT_SEQUENCE [Alchemy Conversion Questionnaire 2026-09-28 SE9]
+
+The commission's nudge settles, then the drift resumes and accelerates with Thom's activations and reverses once the old Trace completes; Volume II's cause is Mu-jin's first wrong guess, which Volume III names as an error.
+
+> A sequence; Volume II's cause is Mu-jin's first wrong guess. The commission's nudge settles, then the drift resumes and accelerates with Thom's activations, and reverses once the old Trace completes. Volume III gains one sentence naming the earlier error. Matches Case V and his card's limits.
+
+### R61-124-TEMPUS_MOVED_BY_CORRESPONDENCE [Alchemy Conversion Questionnaire 2026-09-28 SE10]
+
+The drift is the Continuum's delayed answer by correspondence, with no energy reaching the planet, and its price is booked as debt on the site and its operators, never as an EU figure.
+
+> Correspondence: no energy moves it. The drift is the delayed answer the Codex argues for. Its price is booked as debt on the site and the operators, not as an EU figure.
+
+### R61-125-GOD_ESSENCE_IS_BELIEF_WORD [Alchemy Conversion Questionnaire 2026-09-28 SE11]
+
+God-Essence means Wellspring Essence treated as divine and adds no metaphysics: its 'structural law' is the Heralds' reading, the humming bridges are ordinary inscribed arrays, and Sirel's 'god-essence leakage' stays a separate folk name.
+
+> A belief-word: Wellspring Essence treated as divine. No new metaphysics. Volume I's 'structural law' becomes the Heralds' reading; the humming bridges are ordinary inscribed arrays. If the Heralds serve Maelor, it names Essence as his gift. Sirel's leakage stays a separate folk name.
+
+### R61-126-GENESIO_ANTEDILUVIAN_SITE [Alchemy Conversion Questionnaire 2026-09-28 SE12]
+
+'The Eressean era' points to the Antediluvian Calendar: Genesio's old hall was built on its Wellspring, it is one of the sites the Guild surveyed, and the unpublished finding on what those sites are now doing explains why Genesio pushes back when drawn.
+
+> An Antediluvian site, worked before that Calendar closed. Genesio becomes one of the Guild's surveyed sources, its old hall built on the Wellspring. The unpublished finding on what those sites 'are now doing' becomes the texts' reason Genesio pushes back when drawn.
+
+### R61-131-IMPERIAL_AGE_BEGINS_NOW [Alchemy Conversion Questionnaire 2026-09-28 Calendar (C-084 follow-up)]
+
+The count runs 715 years from the sealing of the Codex, 'the Imperial Age' names only the age of empire and industry now beginning, the Voyager Era, Long Reckoning and Withering Era become the count's earlier ages under new names, and the texts carry Imperial-Age years.
+
+> The count stands: it runs 715 years from the sealing of the Codex (C-084). 'The Imperial Age' names only the age of empire and industry now beginning, so the present is Year 715 of the count and the early years of the Imperial Age. The Concordance's Voyager Era, Long Reckoning and Withering Era become the count's earlier ages under new names, and the 1800s-to-1900s span (R53-01) starts recently. The texts carry Imperial-Age years.
 
 ### R57-01-KWON_MU_JIN_IS_38 [Rulings Backfill 2026-09-26 2026-09-18 — new]
 

@@ -1,0 +1,522 @@
+{
+ "K1": {
+  "choice": "follow-up: present is early Imperial",
+  "note": "Texts stamped in the early years of the Imperial Age; Mu-jin's and Malphas's present is itself the early Imperial Age; the Concordance's Year 715 Withering Era calendar is logged and re-ruled."
+ },
+ "K2": {
+  "choice": "A",
+  "note": ""
+ },
+ "K3": {
+  "choice": "B",
+  "note": ""
+ },
+ "K4": {
+  "choice": "A",
+  "note": "All system canon"
+ },
+ "K5": {
+  "choice": "A",
+  "note": ""
+ },
+ "K6": {
+  "choice": "A",
+  "note": "Fix the cards, they aren't right (Calcination and Distillation are not Wellsprings)"
+ },
+ "K7": {
+  "choice": "A",
+  "note": ""
+ },
+ "K8": {
+  "choice": "A",
+  "note": ""
+ },
+ "K9": {
+  "choice": "A",
+  "note": ""
+ },
+ "K10": {
+  "choice": "C",
+  "note": "Full rebuild"
+ },
+ "ST1": {
+  "choice": "B",
+  "note": ""
+ },
+ "ST2": {
+  "choice": "A",
+  "note": ""
+ },
+ "ST3": {
+  "choice": "A",
+  "note": ""
+ },
+ "ST4": {
+  "choice": "A",
+  "note": ""
+ },
+ "ST5": {
+  "choice": "A",
+  "note": ""
+ },
+ "ST6": {
+  "choice": "A",
+  "note": ""
+ },
+ "ST7": {
+  "choice": "A",
+  "note": ""
+ },
+ "ST8": {
+  "choice": "A",
+  "note": ""
+ },
+ "ST9": {
+  "choice": "A",
+  "note": ""
+ },
+ "ST10": {
+  "choice": "A",
+  "note": ""
+ },
+ "ST11": {
+  "choice": "B",
+  "note": ""
+ },
+ "ST12": {
+  "choice": "A",
+  "note": ""
+ },
+ "ST13": {
+  "choice": "A",
+  "note": ""
+ },
+ "ST14": {
+  "choice": "A",
+  "note": ""
+ },
+ "ST15": {
+  "choice": "A",
+  "note": ""
+ },
+ "ST16": {
+  "choice": "A",
+  "note": ""
+ },
+ "ST17": {
+  "choice": "A",
+  "note": ""
+ },
+ "ST18": {
+  "choice": "B",
+  "note": ""
+ },
+ "ST19": {
+  "choice": "B",
+  "note": ""
+ },
+ "ST20": {
+  "choice": "B",
+  "note": ""
+ },
+ "ST21": {
+  "choice": "A",
+  "note": ""
+ },
+ "ST22": {
+  "choice": "A",
+  "note": ""
+ },
+ "MJ1": {
+  "choice": "A",
+  "note": ""
+ },
+ "MJ2": {
+  "choice": "A",
+  "note": ""
+ },
+ "MJ3": {
+  "choice": "A",
+  "note": ""
+ },
+ "MJ13": {
+  "choice": "C",
+  "note": "implied by ST3 (layered credit; Mu-jin names it)"
+ },
+ "MJ4": {
+  "choice": "A",
+  "note": ""
+ },
+ "MJ5": {
+  "choice": "B",
+  "note": ""
+ },
+ "MJ6": {
+  "choice": "A",
+  "note": ""
+ },
+ "MJ7": {
+  "choice": "B",
+  "note": ""
+ },
+ "MJ8": {
+  "choice": "A",
+  "note": ""
+ },
+ "MJ9": {
+  "choice": "B",
+  "note": "Malphas"
+ },
+ "MJ10": {
+  "choice": "B",
+  "note": ""
+ },
+ "MJ11": {
+  "choice": "A",
+  "note": ""
+ },
+ "MJ12": {
+  "choice": "B",
+  "note": ""
+ },
+ "ML1": {
+  "choice": "A",
+  "note": ""
+ },
+ "ML2": {
+  "choice": "A",
+  "note": ""
+ },
+ "ML3": {
+  "choice": "B",
+  "note": ""
+ },
+ "ML4": {
+  "choice": "A",
+  "note": "His own name, Malphas"
+ },
+ "ML5": {
+  "choice": "B",
+  "note": ""
+ },
+ "ML6": {
+  "choice": "B",
+  "note": "Friends. Mu-jin knows his old friend as Malphas the alchemist; he never learns that his friend founds The Mother (the lich and the cult work under other names)."
+ },
+ "ML7": {
+  "choice": "A",
+  "note": ""
+ },
+ "ML8": {
+  "choice": "B",
+  "note": ""
+ },
+ "ML9": {
+  "choice": "B",
+  "note": ""
+ },
+ "ML10": {
+  "choice": "B",
+  "note": ""
+ },
+ "ML11": {
+  "choice": "C",
+  "note": "Forbidden on paper; secretly his path"
+ },
+ "ML12": {
+  "choice": "C",
+  "note": ""
+ },
+ "ML13": {
+  "choice": "A",
+  "note": ""
+ },
+ "ML14": {
+  "choice": "B",
+  "note": ""
+ },
+ "ML15": {
+  "choice": "A",
+  "note": ""
+ },
+ "PA1": {
+  "choice": "A",
+  "note": ""
+ },
+ "PA2": {
+  "choice": "C",
+  "note": "Night Watch Society investigator on the crown warrant. Halveth stays Research (Urbis office head); joint case: she opened it, hands the Night Watch investigator the file and annotates; her \"not a report\" order is a condition of access."
+ },
+ "PA3": {
+  "choice": "A",
+  "note": ""
+ },
+ "PA4": {
+  "choice": "A",
+  "note": ""
+ },
+ "PA5": {
+  "choice": "A",
+  "note": "Formal frame in the Night Watch office style"
+ },
+ "PA6": {
+  "choice": "A",
+  "note": ""
+ },
+ "WS1": {
+  "choice": "A",
+  "note": ""
+ },
+ "WS2": {
+  "choice": "A",
+  "note": ""
+ },
+ "WS3": {
+  "choice": "A",
+  "note": ""
+ },
+ "WS4": {
+  "choice": "A",
+  "note": ""
+ },
+ "WS5": {
+  "choice": "A",
+  "note": ""
+ },
+ "DE1": {
+  "choice": "A",
+  "note": ""
+ },
+ "DE2": {
+  "choice": "A",
+  "note": ""
+ },
+ "DE3": {
+  "choice": "A",
+  "note": ""
+ },
+ "DE4": {
+  "choice": "C",
+  "note": ""
+ },
+ "DE5": {
+  "choice": "A",
+  "note": ""
+ },
+ "DE6": {
+  "choice": "A",
+  "note": ""
+ },
+ "DE7": {
+  "choice": "A",
+  "note": ""
+ },
+ "GW1": {
+  "choice": "B",
+  "note": ""
+ },
+ "GW2": {
+  "choice": "B",
+  "note": ""
+ },
+ "GW3": {
+  "choice": "A",
+  "note": ""
+ },
+ "GW4": {
+  "choice": "A",
+  "note": ""
+ },
+ "GW5": {
+  "choice": "A",
+  "note": ""
+ },
+ "GW6": {
+  "choice": "A",
+  "note": ""
+ },
+ "GW7": {
+  "choice": "D",
+  "note": ""
+ },
+ "GW8": {
+  "choice": "B",
+  "note": ""
+ },
+ "GW9": {
+  "choice": "A",
+  "note": ""
+ },
+ "GL1": {
+  "choice": "B",
+  "note": ""
+ },
+ "GL2": {
+  "choice": "C",
+  "note": ""
+ },
+ "GL3": {
+  "choice": "A",
+  "note": ""
+ },
+ "GL4": {
+  "choice": "A",
+  "note": ""
+ },
+ "GL5": {
+  "choice": "B",
+  "note": ""
+ },
+ "GL6": {
+  "choice": "A",
+  "note": ""
+ },
+ "GL7": {
+  "choice": "A",
+  "note": "(Gravemark Ink is T4, reserved at the T5 gate; my question misnamed the gate as Journeyman)"
+ },
+ "GL8": {
+  "choice": "A",
+  "note": ""
+ },
+ "GL9": {
+  "choice": "C",
+  "note": ""
+ },
+ "GL10": {
+  "choice": "A",
+  "note": ""
+ },
+ "GL11": {
+  "choice": "A",
+  "note": ""
+ },
+ "GL12": {
+  "choice": "A",
+  "note": ""
+ },
+ "EC1": {
+  "choice": "B",
+  "note": ""
+ },
+ "EC2": {
+  "choice": "A",
+  "note": ""
+ },
+ "EC3": {
+  "choice": "A",
+  "note": ""
+ },
+ "EC4": {
+  "choice": "B",
+  "note": ""
+ },
+ "EC5": {
+  "choice": "C",
+  "note": ""
+ },
+ "EC6": {
+  "choice": "A",
+  "note": ""
+ },
+ "EC7": {
+  "choice": "A",
+  "note": ""
+ },
+ "EC8": {
+  "choice": "A",
+  "note": ""
+ },
+ "EC9": {
+  "choice": "A",
+  "note": ""
+ },
+ "EC10": {
+  "choice": "B",
+  "note": ""
+ },
+ "EC11": {
+  "choice": "C",
+  "note": ""
+ },
+ "EC12": {
+  "choice": "A",
+  "note": ""
+ },
+ "EC13": {
+  "choice": "A",
+  "note": ""
+ },
+ "EC14": {
+  "choice": "C",
+  "note": ""
+ },
+ "EC15": {
+  "choice": "B",
+  "note": ""
+ },
+ "SE1": {
+  "choice": "A",
+  "note": ""
+ },
+ "SE2": {
+  "choice": "B",
+  "note": ""
+ },
+ "SE3": {
+  "choice": "A",
+  "note": ""
+ },
+ "SE4": {
+  "choice": "A",
+  "note": ""
+ },
+ "SE5": {
+  "choice": "B",
+  "note": ""
+ },
+ "SE6": {
+  "choice": "A",
+  "note": ""
+ },
+ "SE7": {
+  "choice": "A",
+  "note": ""
+ },
+ "SE8": {
+  "choice": "A",
+  "note": ""
+ },
+ "SE9": {
+  "choice": "A",
+  "note": ""
+ },
+ "SE10": {
+  "choice": "A",
+  "note": ""
+ },
+ "SE11": {
+  "choice": "A",
+  "note": ""
+ },
+ "SE12": {
+  "choice": "C",
+  "note": ""
+ },
+ "ME1": {
+  "choice": "A",
+  "note": ""
+ },
+ "ME2": {
+  "choice": "A",
+  "note": ""
+ },
+ "ME3": {
+  "choice": "A",
+  "note": ""
+ },
+ "ME4": {
+  "choice": "A",
+  "note": ""
+ }
+}

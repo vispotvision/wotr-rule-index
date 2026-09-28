@@ -6,6 +6,37 @@ direction: inside work he has asked for, make the calls; no "pending" slots.
 append a dated block, do not rewrite older ones (two sessions write this repo
 at once — `git pull` before editing, and commit only your own files).
 
+## State on 2026-09-28 (the alchemy conversion: rulings logged, Volume I in progress)
+
+**Isaac is rebuilding the five alchemy texts under new authors**: Kwon Mu-jin writes the Alftian Codex
+(Volumes I to III; was Vis Trismegistus), Malphas writes the Necrocursica in his own name (was Noxinus Ren),
+and a new Night Watch investigator writes the Papers (was Oren Corrant). He answered a 131-item questionnaire
+built from a nine-seam audit (each finding checked by a second agent). Everything is in
+`imports/drafts/alchemy-conversion/`: `decisions.md` (readable), `questions.json` + `answers.json`,
+`fixes.md` (~110 fixes canon already decides), `audit.json` (the audit).
+
+**Logged:** RULINGS.md "2026-09-28 — alchemy-conversion-2026-09-28" (131 numbered answers) and
+`rules/doc-alchemy-conversion-2026-09-28.yaml` (R61, 131 rows, id numeral = answer number). R18-5's
+notes record its partial amendment (R61-5, R61-6). **CONFLICTS.md C-092 to C-112** hold the canon
+self-conflicts the audit found, quotes checked by script; twelve are marked ruled by the answers, and
+**nine are open**: C-095 (Mu-jin's "Eastern Concord" header), C-100 (Malphas's As Of against his lich
+stats), C-101 (The Mother before the Becoming), C-102 (Monlithion/Monolithion), C-103 (the coal-boiler
+paragraphs against R59-01), C-106 (Mu-jin's age on the Ashgate road: R57-01 read literally against the
+Academy pages), C-107 (Aetheric Residue permanent or thinning), C-108 (over-claimed standing), C-111
+(Latin as authorization).
+
+**Answers that reach past the texts, not yet applied to their pages:** answer 131 (the count stands at
+715 years from the Codex sealing, but "the Imperial Age" names the age now beginning, so the present is
+Year 715 and the early Imperial Age; the Concordance of Ages and ~67 IC-dated pages still read the old
+way, C-112); K4 (residues, the Volitional Trace and impression-bodies become system canon: The Crossing,
+Lexicon, Magical Categories); K6 and K5 (Calcination and Distillation are bench operations; Sublimatio
+is sublimation: R18-5's text, Alchemetrica, Mu-jin's card and ~10 cards need the sweep).
+
+**Order of work (ME3):** Volume I, Volume II, the Papers, Volume III, the Necrocursica's sealed edition,
+one document per commit; each published to Notion in-session with a fresh docx beside the original in
+`~/wotr-vault/true-canon/` (ME4), then cards written back and renames registered (ME2). Volume I is being
+drafted in `/tmp/wotr-drafts/alftian-codex-vol1.md` (brief, names and rules digest beside it).
+
 ## State on 2026-09-26 (the magic docket questionnaire, applied)
 
 **Isaac answered every open magic question (15 answers, `RULINGS.md` "the magic docket questionnaire") and they are applied.**

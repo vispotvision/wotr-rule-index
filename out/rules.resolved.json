@@ -17134,6 +17134,4131 @@
     "superseded_by": []
   },
   {
+    "id": "R61-1-TEXTS_DATED_EARLY_IMPERIAL_AGE",
+    "pack": "Alchemy Conversion Questionnaire 2026-09-28",
+    "pack_number": null,
+    "section": "K1",
+    "title": "The five alchemy texts and the story's present sit in the early Imperial Age",
+    "status": "live",
+    "kind": "definition",
+    "summary": "Date the Codex volumes, the Papers and the Necrocursica in the early years of the Imperial Age, which is also the era of the story's present.",
+    "verbatim": "The five texts are stamped in the early years of the Imperial Age, and the story's present is itself the early Imperial Age (see the calendar answer at the end).",
+    "amends": [
+      {
+        "guide": "The Apparatus of the Age — Equipment and Material Culture",
+        "locus": "The Apparatus of the Age — Equipment and Material Culture",
+        "operation": "adds"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "worldbuilding",
+      "documents",
+      "codex"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-28, Claude Code chat: ruled directly (the alchemy conversion questionnaire)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "",
+    "superseded_by": []
+  },
+  {
+    "id": "R61-10-CONVERSION_IS_FULL_REBUILD",
+    "pack": "Alchemy Conversion Questionnaire 2026-09-28",
+    "pack_number": null,
+    "section": "K10",
+    "title": "The alchemy conversion is a full rebuild around the new authors",
+    "status": "live",
+    "kind": "procedure",
+    "summary": "Rethink structure, events and cast around Mu-jin, Malphas and the new Papers author, and treat the old texts as source notes only.",
+    "verbatim": "Full rebuild: structure, events and cast are rethought around the new authors, and the old texts become source notes.",
+    "amends": [
+      {
+        "guide": "NATALIE.md and the wotr-write skill",
+        "locus": "NATALIE.md and the wotr-write skill",
+        "operation": "adds"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "documents",
+      "codex"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-28, Claude Code chat: ruled directly (the alchemy conversion questionnaire)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "",
+    "superseded_by": []
+  },
+  {
+    "id": "R61-100-ALCHEMY_PAID_BY_STOCK_AND_VEIN",
+    "pack": "Alchemy Conversion Questionnaire 2026-09-28",
+    "pack_number": null,
+    "section": "EC1",
+    "title": "Drafts are paid from stock and vein; standing works also cost reserve once",
+    "status": "live",
+    "kind": "definition",
+    "summary": "A Draft draws on its stock and the site's vein and costs no reserve, a Crystal-bearer's standing work (a seal, an amulet, an impression-body) also costs a one-time share of reserve on the arms-ladder model, and a pure alchemist's standing work needs a Crystal-bearer's seal.",
+    "verbatim": "Drafts from stock and vein; standing works also cost reserve once. Drafts stay reserve-free. A Crystal-bearer's standing work (a seal, Jabir's amulet, an impression-body) costs a once-only share of reserve on the arms-ladder model; a pure alchemist's needs a Crystal-bearer's seal. Alchemetrica gains one line; Category Three gains a real price.",
+    "amends": [
+      {
+        "guide": "The Magic System",
+        "locus": "The Magic System",
+        "operation": "adds"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "magic-mechanism",
+      "stats",
+      "items"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-28, Claude Code chat: ruled directly (the alchemy conversion questionnaire)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "adds one line to Alchemetrica",
+    "superseded_by": []
+  },
+  {
+    "id": "R61-101-NO_DRAFT_REFILLS_RESERVE",
+    "pack": "Alchemy Conversion Questionnaire 2026-09-28",
+    "pack_number": null,
+    "section": "EC2",
+    "title": "No Draft refills a reserve",
+    "status": "live",
+    "kind": "ban",
+    "summary": "Drafts heal bodies and steady Shells but never put Essence back into a reserve, so 'alchemical treatment' means speeding Wellspring recovery, not supplying EU.",
+    "verbatim": "R2-6 governs: no Draft refills a reserve. Paracelsus's medicines heal bodies and steady Shells; nothing he brews refuels. The Drafts ladder's 'banked' and 'overfill' sentences and Mnemonis Solution's sizing are corrected. 'Alchemical treatment' reads as speeding Wellspring recovery, not supplying EU.",
+    "amends": [
+      {
+        "guide": "Fracture of Worlds — The Living System",
+        "locus": "Fracture of Worlds — The Living System",
+        "operation": "adds"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "stats",
+      "items",
+      "magic-mechanism"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-28, Claude Code chat: ruled directly (the alchemy conversion questionnaire)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "restates R2-6-REPLENISHMENT_RULE; corrects the Tier Ladders' Drafts ladder, Mnemonis Solution's sizing and the Essence Ledger's 'alchemical treatment'",
+    "superseded_by": []
+  },
+  {
+    "id": "R61-102-BENCH_TIERS_CAP_ALCHEMISTS",
+    "pack": "Alchemy Conversion Questionnaire 2026-09-28",
+    "pack_number": null,
+    "section": "EC3",
+    "title": "Pure alchemists hold bench-certified Tiers up to Expert",
+    "status": "live",
+    "kind": "definition",
+    "summary": "A Crystal-less alchemist holds a Tier of Standing up to Five (Expert) by bench certification rather than by reading a Crystal, and that Tier caps what they can make.",
+    "verbatim": "Alchemetrica governs: bench-certified Tiers up to Expert cap their work. Pure alchemists hold Tiers of Standing up to Five (Expert) by bench certification, and that Tier caps what they make. The Tiered Path page and Part Twenty gain one carve-out line: bench Tiers are certified, not read off the Crystal.",
+    "amends": [
+      {
+        "guide": "Fracture of Worlds — The Living System",
+        "locus": "Fracture of Worlds — The Living System",
+        "operation": "adds"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "stats",
+      "character-sheet",
+      "items"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-28, Claude Code chat: ruled directly (the alchemy conversion questionnaire)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "adds a bench-certification carve-out line to the Tiered Path page and Part Twenty",
+    "superseded_by": []
+  },
+  {
+    "id": "R61-103-DRAFT_SUB_STAT_PROFILE",
+    "pack": "Alchemy Conversion Questionnaire 2026-09-28",
+    "pack_number": null,
+    "section": "EC4",
+    "title": "A Draft Sub-Stat profile governs alchemy and Mortalis work",
+    "status": "live",
+    "kind": "definition",
+    "summary": "Draft-making runs on Tempering Coherence and Maturity (Core), Tempering Clarity (Shell), Harmonics Attunement (Attraction Layer), Gnosis Analysis and Fluency (reading and chain) and Vitality Filtration (exposure), and Mortalis work adds Persistence and Cognition; the profile waits on ratification through propose_rule.",
+    "verbatim": "A Draft profile built from existing Sub-Stats, filed for ratification. Core to Tempering Coherence and Maturity, Shell to Tempering Clarity, Attraction Layer to Harmonics Attunement; Gnosis Analysis and Fluency for reading and chain; Vitality Filtration for exposure. Mortalis work adds Persistence and Cognition. Filed through propose_rule.",
+    "amends": [
+      {
+        "guide": "Fracture of Worlds — The Living System",
+        "locus": "Fracture of Worlds — The Living System",
+        "operation": "adds"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "stats",
+      "character-sheet",
+      "magic-design"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-28, Claude Code chat: ruled directly (the alchemy conversion questionnaire)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "adds a Drafts profile beside Part Fifteen's profiles; filed through propose_rule for ratification",
+    "superseded_by": []
+  },
+  {
+    "id": "R61-104-REAL_ALCHEMY_PAGE_WRITTEN",
+    "pack": "Alchemy Conversion Questionnaire 2026-09-28",
+    "pack_number": null,
+    "section": "EC5",
+    "title": "The Real Alchemy is written from the conversion's research",
+    "status": "live",
+    "kind": "procedure",
+    "summary": "Alchemy work goes ahead on Alchemetrica and real-physics research, and that research (Paracelsus's dosing, spagyric separation, luting, long calcinations) is written up as The Real Alchemy page for ratification, so later alchemy work has R18-5's third source.",
+    "verbatim": "Proceed, and write The Real Alchemy from the conversion's research. As B, and the research gathered (Paracelsus's dosing, spagyric separation, luting, long calcinations) becomes The Real Alchemy page for ratification, so every later alchemy task has R18-5's third source.",
+    "amends": [
+      {
+        "guide": "The Magic System",
+        "locus": "The Magic System",
+        "operation": "adds"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "magic-design",
+      "verification",
+      "items"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-28, Claude Code chat: ruled directly (the alchemy conversion questionnaire)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "supplies the third source that R18-5-ALCHEMY_SOURCE_ORDER names",
+    "superseded_by": []
+  },
+  {
+    "id": "R61-105-PARACELSUS_DOSE_AND_PALSY",
+    "pack": "Alchemy Conversion Questionnaire 2026-09-28",
+    "pack_number": null,
+    "section": "EC6",
+    "title": "Paracelsus's arsenic and mercury heal at a dose and leave marks on him",
+    "status": "live",
+    "kind": "mandate",
+    "summary": "Arsenic and mercury are named plainly as medicines that heal at the right dose and poison past it, Paracelsus shows early crucible palsy and Draft-mark that Mu-jin reads on sight, and research checks every dose and mechanism before print.",
+    "verbatim": "Real names; the dose is the point; he carries the cost. The medicine heals at a dose and poisons past it. Paracelsus shows early crucible palsy and Draft-mark, which Mu-jin reads on sight. Dose and mechanism are checked by research before print.",
+    "amends": [
+      {
+        "guide": "Character cards, NATALIE.md and the wotr-npc skill",
+        "locus": "Character cards, NATALIE.md and the wotr-npc skill",
+        "operation": "adds"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "character-sheet",
+      "items",
+      "verification"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-28, Claude Code chat: ruled directly (the alchemy conversion questionnaire)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "",
+    "superseded_by": []
+  },
+  {
+    "id": "R61-106-CLEARANCE_BY_TIER_NOT_LEVEL",
+    "pack": "Alchemy Conversion Questionnaire 2026-09-28",
+    "pack_number": null,
+    "section": "EC7",
+    "title": "Access is written as Bench reservation, sealing and Tier clearance, never numbered Levels",
+    "status": "live",
+    "kind": "mandate",
+    "summary": "Operations are Bench-reserved by named Tier, the Necrocursica is called 'sealed', and file clearance reads like Lyssara Veyn's card ('Tier IV Restricted'), so no document gates access by a numbered Level.",
+    "verbatim": "Bench reservation for operations; sealed treatise; Lyssara-style clearance for files. Categories are Bench-reserved by named Tier (EC10 sets which). The Necrocursica is 'sealed' everywhere, as its title page says. The Papers' header and Appendix I read like Lyssara's card ('Tier IV Restricted'). Every Level line changes.",
+    "amends": [
+      {
+        "guide": "NATALIE.md and the wotr-write skill",
+        "locus": "NATALIE.md and the wotr-write skill",
+        "operation": "adds"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "documents",
+      "codex",
+      "naming"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-28, Claude Code chat: ruled directly (the alchemy conversion questionnaire)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "extends R54-26-BENCH_OF_ATTRIBUTION reservations to the Mortalis Categories",
+    "superseded_by": []
+  },
+  {
+    "id": "R61-107-MORTALIS_CATEGORIES_FIELD_ENTRIES",
+    "pack": "Alchemy Conversion Questionnaire 2026-09-28",
+    "pack_number": null,
+    "section": "EC8",
+    "title": "The Mortalis Categories live both in the prose and in field-format entries",
+    "status": "live",
+    "kind": "procedure",
+    "summary": "The texts give each Category's law, cost and tell in the author's own voice, while Categories One to Three each get an R47-2 entry and a Spell Index row with a Stage floor and Category Four gets a refusal entry, so every counter can be looked up.",
+    "verbatim": "Both: pieces in the prose, a field-format entry per Category. The texts carry law, cost and tell in each author's voice. Categories One to Three each get an R47-2 entry and a Spell Index row with a Stage floor; Category Four gets a refusal entry. Every counter can be looked up.",
+    "amends": [
+      {
+        "guide": "Ability and Technique Design Guide",
+        "locus": "Ability and Technique Design Guide",
+        "operation": "adds"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "magic-design",
+      "codex",
+      "documents"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-28, Claude Code chat: ruled directly (the alchemy conversion questionnaire)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "adds Mortalis Category rows to the Spell Index",
+    "superseded_by": []
+  },
+  {
+    "id": "R61-108-MORTALIS_FULL_COST_STACK",
+    "pack": "Alchemy Conversion Questionnaire 2026-09-28",
+    "pack_number": null,
+    "section": "EC9",
+    "title": "Mortalis and Anamnesis workings pay the full cost stack",
+    "status": "live",
+    "kind": "definition",
+    "summary": "Every working pays a reserve share, site depletion and waste heat, Category Two and up also tick the Drift Scale, each Anamnesis read erases what it takes so a Trace can be used only once, and the Genesio activation has a hard limit and leaves a visible scar.",
+    "verbatim": "The full stack, and a Trace can be used once. Reserve share, site depletion, waste heat, a Drift Scale tick for Category Two and up, and every Anamnesis read erasing what it takes. The Genesio activation gets a hard limit and a visible scar.",
+    "amends": [
+      {
+        "guide": "The Magic System",
+        "locus": "The Magic System",
+        "operation": "adds"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "magic-mechanism",
+      "stats",
+      "codex"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-28, Claude Code chat: ruled directly (the alchemy conversion questionnaire)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "",
+    "superseded_by": []
+  },
+  {
+    "id": "R61-109-MORTALIS_CATEGORY_STAGE_FLOORS",
+    "pack": "Alchemy Conversion Questionnaire 2026-09-28",
+    "pack_number": null,
+    "section": "EC10",
+    "title": "Mortalis Categories One to Three floor at Flourishing, Glory and Refraction",
+    "status": "live",
+    "kind": "definition",
+    "summary": "Category One needs Flourishing, Two needs Glory and Three needs Refraction plus individual review, with Bench reservations at Adept, Expert and Expert with review, so Gillus at Stage VII is lawful by rank and unlawful only by review.",
+    "verbatim": "Flourishing, Glory, then Refraction with individual review. Categories One and Two sit on precedent rows; Category Three sits where the Necrocursica says Trace-compulsion begins. Gillus stands at the floor, lawful by rank and unlawful only by review. Reservations read Adept, Expert, Expert with review.",
+    "amends": [
+      {
+        "guide": "Ability and Technique Design Guide",
+        "locus": "Ability and Technique Design Guide",
+        "operation": "adds"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "stats",
+      "magic-design",
+      "adjudication"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-28, Claude Code chat: ruled directly (the alchemy conversion questionnaire)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "",
+    "superseded_by": []
+  },
+  {
+    "id": "R61-11-RENAME_HISTORICAL_PEOPLE_IN_TEXTS",
+    "pack": "Alchemy Conversion Questionnaire 2026-09-28",
+    "pack_number": null,
+    "section": "ST1",
+    "title": "Real historical people in the texts are renamed; gods and idea-names stay",
+    "status": "live",
+    "kind": "mandate",
+    "summary": "Give Paracelsus, Jabir, Gillus, Thom and Tat in-world names, keep Trismegistus, Asclepius, the Tablet's wording and the Tria Prima, and credit the real sources in author notes.",
+    "verbatim": "Rename historical people; keep gods and idea-names. Furveus loses 'Paracelsus'; Jabir, Gillus and Thom get in-world names; Trismegistus and Asclepius stay under R50-05; Tat is renamed unless he becomes Doyun; the Tablet's wording and the Tria Prima stay, credited in author notes (R48-27).",
+    "amends": [
+      {
+        "guide": "Naming guide and the wotr-write skill",
+        "locus": "Naming guide and the wotr-write skill",
+        "operation": "adds"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "naming",
+      "documents",
+      "codex"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-28, Claude Code chat: ruled directly (the alchemy conversion questionnaire)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "",
+    "superseded_by": []
+  },
+  {
+    "id": "R61-110-IMPRESSION_BODY_TELLS_COUNTERS",
+    "pack": "Alchemy Conversion Questionnaire 2026-09-28",
+    "pack_number": null,
+    "section": "EC11",
+    "title": "An impression-body shows a Trace without a Crystal and yields to Stillgate Ash",
+    "status": "live",
+    "kind": "definition",
+    "summary": "Beyond the general counters, a Category One reading finds identity-shaped carry with no Soul Crystal behind it, which a trained reader can tell from a person but a mourner cannot, and a ring of Stillgate Ash (Journeyman gate) grounds the body so it can pass, while also bleeding any living Essence at the ring.",
+    "verbatim": "As B, plus Stillgate Ash as the material counter. A ring of Stillgate Ash (Journeyman gate) grounds the body's residual charge and lets it complete its passage. Living Essence at the ring bleeds too, so the counter costs whoever uses it.",
+    "amends": [
+      {
+        "guide": "The Magic System",
+        "locus": "The Magic System",
+        "operation": "adds"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "magic-mechanism",
+      "items",
+      "adjudication"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-28, Claude Code chat: ruled directly (the alchemy conversion questionnaire)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "",
+    "superseded_by": []
+  },
+  {
+    "id": "R61-111-PARACELSUS_SOLD_UNENTERED_FORMULA",
+    "pack": "Alchemy Conversion Questionnaire 2026-09-28",
+    "pack_number": null,
+    "section": "EC12",
+    "title": "Paracelsus's commission was private, unentered and paid",
+    "status": "live",
+    "kind": "definition",
+    "summary": "Paracelsus took a fee for an unentered formula he could lawfully hold but not sell, so the breach and a Master of the Circle's personal liability fall on him while the patron broke no law; the Codex names the fee, and the Papers' author has a case.",
+    "verbatim": "Private, unentered and paid: he sold what he could only hold. The patron broke no law, so the Papers' line stands as said to him; Paracelsus carries the breach and a Master of the Circle's personal liability (the rank that seals). The Codex names the fee; the Papers author has a case.",
+    "amends": [
+      {
+        "guide": "Character cards, NATALIE.md and the wotr-npc skill",
+        "locus": "Character cards, NATALIE.md and the wotr-npc skill",
+        "operation": "adds"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "character-sheet",
+      "codex",
+      "worldbuilding"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-28, Claude Code chat: ruled directly (the alchemy conversion questionnaire)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "",
+    "superseded_by": []
+  },
+  {
+    "id": "R61-112-AUTHORS_STATE_INSTRUMENT_FIGURES",
+    "pack": "Alchemy Conversion Questionnaire 2026-09-28",
+    "pack_number": null,
+    "section": "EC13",
+    "title": "Each author states figures as their instruments give them",
+    "status": "live",
+    "kind": "mandate",
+    "summary": "Mu-jin reads EU, η and site density whenever he takes off his spectacles, Malphas prices each Category as a share of reserve by Stage, and the investigator logs readings at scenes, while the impression-body's cost, Genesio's density and the drift's scale are derived and never invented.",
+    "verbatim": "Each author states figures as their instruments give them. Mu-jin reads EU, η and site density whenever he removes his spectacles; Malphas prices each Category as a share of reserve by Stage; the investigator logs readings at scenes. The impression-body's cost, Genesio's density and the drift's scale are derived.",
+    "amends": [
+      {
+        "guide": "NATALIE.md and the wotr-write skill",
+        "locus": "NATALIE.md and the wotr-write skill",
+        "operation": "adds"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "documents",
+      "stats",
+      "pov"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-28, Claude Code chat: ruled directly (the alchemy conversion questionnaire)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "",
+    "superseded_by": []
+  },
+  {
+    "id": "R61-113-NECROCURSICA_READER_COPY_REDACTED",
+    "pack": "Alchemy Conversion Questionnaire 2026-09-28",
+    "pack_number": null,
+    "section": "EC14",
+    "title": "The reader holds the Accord's redacted Necrocursica",
+    "status": "live",
+    "kind": "definition",
+    "summary": "The reader's copy strikes Category Three's completion steps under 'preservable under redaction' and prints Appendix I's stabilisation protocol in full, while the sealed original stays complete so Heresiology Case II holds.",
+    "verbatim": "The Accord's redacted copy: completion struck, Appendix I printed. The sealed original stays complete, so Case II holds. The reader's copy has Category Three's completion steps struck under 'preservable under redaction', and the stabilisation protocol, the defensive counter to a failing seal, printed in full.",
+    "amends": [
+      {
+        "guide": "NATALIE.md and the wotr-write skill",
+        "locus": "NATALIE.md and the wotr-write skill",
+        "operation": "adds"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "documents",
+      "codex"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-28, Claude Code chat: ruled directly (the alchemy conversion questionnaire)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "",
+    "superseded_by": []
+  },
+  {
+    "id": "R61-114-CASTLEFALL_CIRCLE_GRAVETIDE_INK",
+    "pack": "Alchemy Conversion Questionnaire 2026-09-28",
+    "pack_number": null,
+    "section": "EC15",
+    "title": "The Castlefall circle is drawn in Gravetide Ink, named only later",
+    "status": "live",
+    "kind": "definition",
+    "summary": "The investigator names the circle's ink as Gravetide Ink only when the Genesio analysis comes back, and the site holds two glyph roles: the circle is the Boundary in Gravetide Ink and the Category Three seal is the Sealing in Gravemark Ink.",
+    "verbatim": "Gravetide Ink, named when the Genesio analysis returns. Keeps the caution beat. A later entry names it from the sample, giving the reader a findable piece and tying the circle to the Boundary role. The circle is the Boundary (Gravetide Ink); the Category Three seal is the Sealing (Gravemark Ink, GL7): two glyph roles on one site.",
+    "amends": [
+      {
+        "guide": "The Master Material Ledger",
+        "locus": "The Master Material Ledger",
+        "operation": "adds"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "items",
+      "codex",
+      "documents"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-28, Claude Code chat: ruled directly (the alchemy conversion questionnaire)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "",
+    "superseded_by": []
+  },
+  {
+    "id": "R61-115-TRANS_ALFTIAN_IN_KETSUEN",
+    "pack": "Alchemy Conversion Questionnaire 2026-09-28",
+    "pack_number": null,
+    "section": "SE1",
+    "title": "The Codex's region lies in Ketsuen's valleys and Uplands",
+    "status": "live",
+    "kind": "definition",
+    "summary": "The terraces are Ketsuen's limestone valleys, Genesio sits among the Uplands' dense seeps, Castlefall is a valley rail town and Urbis is a heartland city, all in the Inner World toward the Concord heartland, and the invented names are kept.",
+    "verbatim": "Inner World: Ketsuen's valleys and Uplands, toward the Concord heartland. The terraces become Ketsuen's limestone valleys, Genesio sits among the Uplands' dense seeps, Castlefall is a valley rail town and Urbis a heartland city. Invented names survive, including Heresiology Case IV. One geography note on the Ketsuen page.",
+    "amends": [
+      {
+        "guide": "Standing Inventories, NATALIE.md and the wotr-write skill",
+        "locus": "Standing Inventories, NATALIE.md and the wotr-write skill",
+        "operation": "adds"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "worldbuilding",
+      "codex",
+      "naming"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-28, Claude Code chat: ruled directly (the alchemy conversion questionnaire)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "adds one geography note to the Ketsuen page",
+    "superseded_by": []
+  },
+  {
+    "id": "R61-116-SHANENI_IS_ERESSE_BORDER",
+    "pack": "Alchemy Conversion Questionnaire 2026-09-28",
+    "pack_number": null,
+    "section": "SE2",
+    "title": "Jabir came from the border of Eresse's old-ground and the chartered arc",
+    "status": "live",
+    "kind": "definition",
+    "summary": "'The Shaneni empire's borders' means the New World border where Eresse's old-ground meets the chartered arc, two incompatible orders on one ground, which is why Jabir's knowledge is a synthesis; no new polity exists.",
+    "verbatim": "The New World border where Eresse's old-ground meets the chartered arc. No new polity. 'The Shaneni empire's borders' becomes that border, where two incompatible orders share ground, which explains his synthesis. One line reworded; nothing added to Eresse's page.",
+    "amends": [
+      {
+        "guide": "Standing Inventories, NATALIE.md and the wotr-write skill",
+        "locus": "Standing Inventories, NATALIE.md and the wotr-write skill",
+        "operation": "adds"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "worldbuilding",
+      "naming",
+      "codex"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-28, Claude Code chat: ruled directly (the alchemy conversion questionnaire)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "",
+    "superseded_by": []
+  },
+  {
+    "id": "R61-117-GENESIO_ONE_MOUNTAIN_TERRITORY",
+    "pack": "Alchemy Conversion Questionnaire 2026-09-28",
+    "pack_number": null,
+    "section": "SE3",
+    "title": "Genesio is one mountain territory, a day's rail and two days' ride from Castlefall",
+    "status": "live",
+    "kind": "definition",
+    "summary": "Genesio is a single mountain territory reached by a day's rail to the Genesio waystation and then two days mounted up the passes, its archive-town holds the Archivum, and the tanner's flat is in Castlefall.",
+    "verbatim": "One mountain territory: rail to a railhead, then the passes. A day by rail to the Genesio waystation, then two days mounted up the passes: both figures hold. Its archive-town holds the Archivum. Volume I's tanner's flat moves to Castlefall, where Volume II and the Papers already put it.",
+    "amends": [
+      {
+        "guide": "Standing Inventories, NATALIE.md and the wotr-write skill",
+        "locus": "Standing Inventories, NATALIE.md and the wotr-write skill",
+        "operation": "adds"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "worldbuilding",
+      "codex"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-28, Claude Code chat: ruled directly (the alchemy conversion questionnaire)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "",
+    "superseded_by": []
+  },
+  {
+    "id": "R61-118-TWO_ARCHIVUMS_URBIS_MONASTERY",
+    "pack": "Alchemy Conversion Questionnaire 2026-09-28",
+    "pack_number": null,
+    "section": "SE4",
+    "title": "There are two Archivums, and the Monastery stands at Urbis",
+    "status": "live",
+    "kind": "definition",
+    "summary": "Genesio's Archivum is the older outlying house with its own sealed stacks, the Urbis Archivum fills the lower floors of the Herald's Monastery at Urbis, and there is no Genesio Monastery.",
+    "verbatim": "Two Archivums; the Monastery at Urbis houses the Urbis Archivum. Genesio's is the older outlying house with its own sealed stacks; Urbis's sits in the Monastery's lower floors, so Volume II's two lines already agree. Only the Necrocursica's 'Genesio Monastery' changes.",
+    "amends": [
+      {
+        "guide": "Standing Inventories, NATALIE.md and the wotr-write skill",
+        "locus": "Standing Inventories, NATALIE.md and the wotr-write skill",
+        "operation": "adds"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "worldbuilding",
+      "codex"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-28, Claude Code chat: ruled directly (the alchemy conversion questionnaire)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "",
+    "superseded_by": []
+  },
+  {
+    "id": "R61-119-HERALDS_ARE_MAELORS_ORDER",
+    "pack": "Alchemy Conversion Questionnaire 2026-09-28",
+    "pack_number": null,
+    "section": "SE5",
+    "title": "The Heralds are an order grown from Maelor's lineage of heralds",
+    "status": "live",
+    "kind": "definition",
+    "summary": "The Heralds descend from the heralds of Maelor, Archon of Memory, which gives the Archivums, the Silent Archivists and the Genesio Anamnesis site a patron of memory, and Asclepius's scorn for 'God-Essence' is a quarrel with the order's theology.",
+    "verbatim": "An order grown from Maelor's lineage of heralds. One Factions page and a line on Maelor's page. The Archivums, the Silent Archivists and the Genesio Anamnesis site gain a patron whose office is memory; Asclepius's scorn for 'God-Essence' becomes a quarrel with the order's theology.",
+    "amends": [
+      {
+        "guide": "Standing Inventories, NATALIE.md and the wotr-write skill",
+        "locus": "Standing Inventories, NATALIE.md and the wotr-write skill",
+        "operation": "adds"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "worldbuilding",
+      "codex",
+      "naming"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-28, Claude Code chat: ruled directly (the alchemy conversion questionnaire)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "adds a Factions page for the Heralds and a line to Maelor's page",
+    "superseded_by": []
+  },
+  {
+    "id": "R61-12-THOM_PAPER_PREDATES_COMMISSION",
+    "pack": "Alchemy Conversion Questionnaire 2026-09-28",
+    "pack_number": null,
+    "section": "ST2",
+    "title": "Thom's residue paper is old; his completion method dates from the commission",
+    "status": "live",
+    "kind": "definition",
+    "summary": "Thom's fourth-residue paper and crude activations go back twelve years, but his completion method and the drift date only from the commission.",
+    "verbatim": "Old paper on the residue; completion method after the commission. The twelve-year paper and crude activations stay; the completion method and the drift date from the commission, and Volume III line 122 reads as the completion step only. Papers line 75 is reworded, or it puts the Necrocursica's first edition about 24 years back.",
+    "amends": [
+      {
+        "guide": "Character cards, NATALIE.md and the wotr-npc skill",
+        "locus": "Character cards, NATALIE.md and the wotr-npc skill",
+        "operation": "adds"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "codex",
+      "documents",
+      "character-sheet"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-28, Claude Code chat: ruled directly (the alchemy conversion questionnaire)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "",
+    "superseded_by": []
+  },
+  {
+    "id": "R61-120-URBIS_HEARTLAND_CITY",
+    "pack": "Alchemy Conversion Questionnaire 2026-09-28",
+    "pack_number": null,
+    "section": "SE6",
+    "title": "Urbis is an Inner World heartland city with a regional Division desk",
+    "status": "live",
+    "kind": "definition",
+    "summary": "Urbis is a heartland city with rail and trams where the Research and Archives Division keeps a regional desk, while the Archives Eternal stays at the Concord Citadel.",
+    "verbatim": "A new Inner World heartland city with a regional Division office. The Archives Eternal stays at the Citadel; the Papers' address is a regional desk. One line of geography; rail and trams suit a heartland city.",
+    "amends": [
+      {
+        "guide": "Standing Inventories, NATALIE.md and the wotr-write skill",
+        "locus": "Standing Inventories, NATALIE.md and the wotr-write skill",
+        "operation": "adds"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "worldbuilding",
+      "codex"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-28, Claude Code chat: ruled directly (the alchemy conversion questionnaire)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "",
+    "superseded_by": []
+  },
+  {
+    "id": "R61-121-NALN_IS_NALUN",
+    "pack": "Alchemy Conversion Questionnaire 2026-09-28",
+    "pack_number": null,
+    "section": "SE7",
+    "title": "Naln is Nalūn",
+    "status": "live",
+    "kind": "definition",
+    "summary": "The Silent Archivists are Vaultmere's archivists in Nalūn, and the Measurewrights' instrument chair verifies the Tempus drift in place of an observation post, because Deepvein measures contracts, not skies.",
+    "verbatim": "Nalūn: Vaultmere's archivists transcribe; the Measurewrights verify the drift. Two orphans tie to canon, and Vaultmere's pending archivist profile goes into use and needs ratifying. The 'observation post at Naln' becomes the Measurewrights' instrument chair, since Deepvein measures contracts, not skies.",
+    "amends": [
+      {
+        "guide": "Naming guide and the wotr-write skill",
+        "locus": "Naming guide and the wotr-write skill",
+        "operation": "adds"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "naming",
+      "worldbuilding",
+      "codex"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-28, Claude Code chat: ruled directly (the alchemy conversion questionnaire)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "puts Vaultmere's pending archivist profile into use; that profile needs ratifying",
+    "superseded_by": []
+  },
+  {
+    "id": "R61-122-TEMPUS_IS_THE_WEIGHT",
+    "pack": "Alchemy Conversion Questionnaire 2026-09-28",
+    "pack_number": null,
+    "section": "SE8",
+    "title": "Tempus is the Hermetic name for the Weight",
+    "status": "live",
+    "kind": "definition",
+    "summary": "Tempus is the Weight, the 29-year wanderer used to count generations, so its drift is a public shock; it is not a gas giant seen by day, and Heresiology Case V keeps its name.",
+    "verbatim": "The Hermetic name for the Weight, the 29-year wanderer. Fits five wanderers: Tempus means time and the Weight counts generations, so its drift is a public shock. The daylight-eye image goes; Case V keeps its name.",
+    "amends": [
+      {
+        "guide": "Naming guide and the wotr-write skill",
+        "locus": "Naming guide and the wotr-write skill",
+        "operation": "adds"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "naming",
+      "worldbuilding",
+      "codex"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-28, Claude Code chat: ruled directly (the alchemy conversion questionnaire)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "",
+    "superseded_by": []
+  },
+  {
+    "id": "R61-123-TEMPUS_DRIFT_SEQUENCE",
+    "pack": "Alchemy Conversion Questionnaire 2026-09-28",
+    "pack_number": null,
+    "section": "SE9",
+    "title": "The Tempus drift settles, accelerates, then reverses",
+    "status": "live",
+    "kind": "definition",
+    "summary": "The commission's nudge settles, then the drift resumes and accelerates with Thom's activations and reverses once the old Trace completes; Volume II's cause is Mu-jin's first wrong guess, which Volume III names as an error.",
+    "verbatim": "A sequence; Volume II's cause is Mu-jin's first wrong guess. The commission's nudge settles, then the drift resumes and accelerates with Thom's activations, and reverses once the old Trace completes. Volume III gains one sentence naming the earlier error. Matches Case V and his card's limits.",
+    "amends": [
+      {
+        "guide": "Character cards, NATALIE.md and the wotr-npc skill",
+        "locus": "Character cards, NATALIE.md and the wotr-npc skill",
+        "operation": "adds"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "codex",
+      "worldbuilding",
+      "character-sheet"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-28, Claude Code chat: ruled directly (the alchemy conversion questionnaire)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "",
+    "superseded_by": []
+  },
+  {
+    "id": "R61-124-TEMPUS_MOVED_BY_CORRESPONDENCE",
+    "pack": "Alchemy Conversion Questionnaire 2026-09-28",
+    "pack_number": null,
+    "section": "SE10",
+    "title": "No energy moves Tempus; the drift is correspondence",
+    "status": "live",
+    "kind": "definition",
+    "summary": "The drift is the Continuum's delayed answer by correspondence, with no energy reaching the planet, and its price is booked as debt on the site and its operators, never as an EU figure.",
+    "verbatim": "Correspondence: no energy moves it. The drift is the delayed answer the Codex argues for. Its price is booked as debt on the site and the operators, not as an EU figure.",
+    "amends": [
+      {
+        "guide": "The Magic System",
+        "locus": "The Magic System",
+        "operation": "adds"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "magic-mechanism",
+      "codex",
+      "worldbuilding"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-28, Claude Code chat: ruled directly (the alchemy conversion questionnaire)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "",
+    "superseded_by": []
+  },
+  {
+    "id": "R61-125-GOD_ESSENCE_IS_BELIEF_WORD",
+    "pack": "Alchemy Conversion Questionnaire 2026-09-28",
+    "pack_number": null,
+    "section": "SE11",
+    "title": "God-Essence is a belief-word for Wellspring Essence",
+    "status": "live",
+    "kind": "definition",
+    "summary": "God-Essence means Wellspring Essence treated as divine and adds no metaphysics: its 'structural law' is the Heralds' reading, the humming bridges are ordinary inscribed arrays, and Sirel's 'god-essence leakage' stays a separate folk name.",
+    "verbatim": "A belief-word: Wellspring Essence treated as divine. No new metaphysics. Volume I's 'structural law' becomes the Heralds' reading; the humming bridges are ordinary inscribed arrays. If the Heralds serve Maelor, it names Essence as his gift. Sirel's leakage stays a separate folk name.",
+    "amends": [
+      {
+        "guide": "Naming guide and the wotr-write skill",
+        "locus": "Naming guide and the wotr-write skill",
+        "operation": "adds"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "naming",
+      "worldbuilding",
+      "magic-mechanism"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-28, Claude Code chat: ruled directly (the alchemy conversion questionnaire)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "",
+    "superseded_by": []
+  },
+  {
+    "id": "R61-126-GENESIO_ANTEDILUVIAN_SITE",
+    "pack": "Alchemy Conversion Questionnaire 2026-09-28",
+    "pack_number": null,
+    "section": "SE12",
+    "title": "Genesio is an Antediluvian Wellspring site",
+    "status": "live",
+    "kind": "definition",
+    "summary": "'The Eressean era' points to the Antediluvian Calendar: Genesio's old hall was built on its Wellspring, it is one of the sites the Guild surveyed, and the unpublished finding on what those sites are now doing explains why Genesio pushes back when drawn.",
+    "verbatim": "An Antediluvian site, worked before that Calendar closed. Genesio becomes one of the Guild's surveyed sources, its old hall built on the Wellspring. The unpublished finding on what those sites 'are now doing' becomes the texts' reason Genesio pushes back when drawn.",
+    "amends": [
+      {
+        "guide": "Standing Inventories, NATALIE.md and the wotr-write skill",
+        "locus": "Standing Inventories, NATALIE.md and the wotr-write skill",
+        "operation": "adds"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "worldbuilding",
+      "magic-mechanism",
+      "codex"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-28, Claude Code chat: ruled directly (the alchemy conversion questionnaire)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "",
+    "superseded_by": []
+  },
+  {
+    "id": "R61-127-CODEX_SECTION_FIVE_PAGES",
+    "pack": "Alchemy Conversion Questionnaire 2026-09-28",
+    "pack_number": null,
+    "section": "ME1",
+    "title": "The Necrocursica and the Papers are published under The Alftian Codex",
+    "status": "live",
+    "kind": "procedure",
+    "summary": "Both converted texts become wiki pages beside the three Codex volumes, so the section holds five pages and the cross-references resolve, and the texts' sealing and clearance labels read as in-world labels on the public pages.",
+    "verbatim": "Publish both under The Alftian Codex section. Five pages sit together; Volume III's references and the Halveth line resolve; the INDEX section grows from three pages to five. 'Sealed' and 'Level VI' become in-world labels on public pages.",
+    "amends": [
+      {
+        "guide": "NATALIE.md and the wotr-write skill",
+        "locus": "NATALIE.md and the wotr-write skill",
+        "operation": "adds"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "documents",
+      "codex"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-28, Claude Code chat: ruled directly (the alchemy conversion questionnaire)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "grows the INDEX's Alftian Codex section from three pages to five",
+    "superseded_by": []
+  },
+  {
+    "id": "R61-128-CODEX_RENAMES_REGISTERED",
+    "pack": "Alchemy Conversion Questionnaire 2026-09-28",
+    "pack_number": null,
+    "section": "ME2",
+    "title": "The conversion's renames go into the registry, and its events go onto the cards",
+    "status": "live",
+    "kind": "procedure",
+    "summary": "Mu-jin's and Malphas's cards take in the texts' events after a lore check, and the renames registry records Vis Trismegistus to Kwon Mu-jin (full name only), Oren Corrant to the new Papers author, Noxinus Ren to Malphas if Noxinus goes, and ST1's renames, with casting entries after them.",
+    "verbatim": "Write back and register. Both cards gain the events, checked by the lore-writing pass; the registry gains Vis Trismegistus to Kwon Mu-jin (full name only), Oren Corrant to the new author, Noxinus Ren to Malphas if Noxinus goes, and ST1's renames; casting entries follow.",
+    "amends": [
+      {
+        "guide": "Naming guide and the wotr-write skill",
+        "locus": "Naming guide and the wotr-write skill",
+        "operation": "adds"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "naming",
+      "character-sheet",
+      "verification"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-28, Claude Code chat: ruled directly (the alchemy conversion questionnaire)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "adds entries to the renames registry used by the stale-name sweep",
+    "superseded_by": []
+  },
+  {
+    "id": "R61-129-CONVERSION_ORDER_OF_WORK",
+    "pack": "Alchemy Conversion Questionnaire 2026-09-28",
+    "pack_number": null,
+    "section": "ME3",
+    "title": "Convert the five texts in citation order, one per commit",
+    "status": "live",
+    "kind": "procedure",
+    "summary": "Convert Volume I, Volume II, the Papers, Volume III and then the Necrocursica, one document per commit, so no text is converted before the texts it quotes.",
+    "verbatim": "Composition order: Volumes I, II, Papers, Volume III, Necrocursica. Each document is converted after everything it quotes, so no conversion cites an unconverted source; the Necrocursica's revised edition comes last and cites the finished four.",
+    "amends": [
+      {
+        "guide": "NATALIE.md and the wotr-write skill",
+        "locus": "NATALIE.md and the wotr-write skill",
+        "operation": "adds"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "documents",
+      "session-protocol"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-28, Claude Code chat: ruled directly (the alchemy conversion questionnaire)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "",
+    "superseded_by": []
+  },
+  {
+    "id": "R61-13-VOLITIONAL_TRACE_LAYERED_CREDIT",
+    "pack": "Alchemy Conversion Questionnaire 2026-09-28",
+    "pack_number": null,
+    "section": "ST3",
+    "title": "Credit for the Volitional Trace is layered, and Mu-jin named it",
+    "status": "live",
+    "kind": "definition",
+    "summary": "Madeleine found the Volitional Trace and designed the commission, Thom found it independently, Gillus framed the theory and built the mechanism, and Mu-jin coined the name without co-building it.",
+    "verbatim": "Layered credit, and Mu-jin names it. Madeleine found it and designed the commission; Thom found it independently; Gillus framed the theory and built the mechanism; Mu-jin coined the name. Edit Volume III lines 66, 340 and overview line 63; Necrocursica line 93 credits Mu-jin as namer, not co-builder.",
+    "amends": [
+      {
+        "guide": "Character cards, NATALIE.md and the wotr-npc skill",
+        "locus": "Character cards, NATALIE.md and the wotr-npc skill",
+        "operation": "adds"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "codex",
+      "character-sheet",
+      "documents"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-28, Claude Code chat: ruled directly (the alchemy conversion questionnaire)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "",
+    "superseded_by": []
+  },
+  {
+    "id": "R61-130-CONVERTED_TEXTS_OUTPUT",
+    "pack": "Alchemy Conversion Questionnaire 2026-09-28",
+    "pack_number": null,
+    "section": "ME4",
+    "title": "Converted texts go to Notion and to new docx files beside the originals",
+    "status": "live",
+    "kind": "procedure",
+    "summary": "Publish each converted text as a Notion page in-session for the sync to mirror, and save a new docx next to Isaac's originals, which are never overwritten.",
+    "verbatim": "Notion pages plus fresh docx files beside the originals. Pages are published in-session and mirrored by the sync; new docx files, such as 'The Alftian Codex (Mu-jin edition)', are saved next to his originals, which stay untouched.",
+    "amends": [
+      {
+        "guide": "NATALIE.md and the wotr-write skill",
+        "locus": "NATALIE.md and the wotr-write skill",
+        "operation": "adds"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "documents",
+      "session-protocol"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-28, Claude Code chat: ruled directly (the alchemy conversion questionnaire)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "",
+    "superseded_by": []
+  },
+  {
+    "id": "R61-131-IMPERIAL_AGE_BEGINS_NOW",
+    "pack": "Alchemy Conversion Questionnaire 2026-09-28",
+    "pack_number": null,
+    "section": "Calendar (C-084 follow-up)",
+    "title": "The present is Year 715 of the count and the early Imperial Age",
+    "status": "live",
+    "kind": "definition",
+    "summary": "The count runs 715 years from the sealing of the Codex, 'the Imperial Age' names only the age of empire and industry now beginning, the Voyager Era, Long Reckoning and Withering Era become the count's earlier ages under new names, and the texts carry Imperial-Age years.",
+    "verbatim": "The count stands: it runs 715 years from the sealing of the Codex (C-084). 'The Imperial Age' names only the age of empire and industry now beginning, so the present is Year 715 of the count and the early years of the Imperial Age. The Concordance's Voyager Era, Long Reckoning and Withering Era become the count's earlier ages under new names, and the 1800s-to-1900s span (R53-01) starts recently. The texts carry Imperial-Age years.",
+    "amends": [
+      {
+        "guide": "Standing Inventories, NATALIE.md and the wotr-write skill",
+        "locus": "Standing Inventories, NATALIE.md and the wotr-write skill",
+        "operation": "adds"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "worldbuilding",
+      "documents",
+      "naming"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-28, Claude Code chat: ruled directly (the alchemy conversion questionnaire)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "amends R53-01-IMPERIAL_AGE_SPAN (the span starts recently) and the Concordance of Ages' era names; builds on R57-36-YEAR_ZERO_IS_THE_CODEX",
+    "superseded_by": []
+  },
+  {
+    "id": "R61-14-TWO_GILLUS_LETTERS",
+    "pack": "Alchemy Conversion Questionnaire 2026-09-28",
+    "pack_number": null,
+    "section": "ST4",
+    "title": "Gillus sent Mu-jin two letters",
+    "status": "live",
+    "kind": "definition",
+    "summary": "The first letter was received and transcribed in Volume II; the second was intercepted, held in the case file, hand-delivered by the investigator, left unopened four months, then answered.",
+    "verbatim": "Two letters. Volume II's letter was received and transcribed; a second was intercepted, held in the case file, hand-delivered by the investigator, unopened four months, then answered. Papers line 23 and Volume III line 78 say 'second'; the Necrocursica's note stays as an echo.",
+    "amends": [
+      {
+        "guide": "Character cards, NATALIE.md and the wotr-npc skill",
+        "locus": "Character cards, NATALIE.md and the wotr-npc skill",
+        "operation": "adds"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "documents",
+      "codex"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-28, Claude Code chat: ruled directly (the alchemy conversion questionnaire)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "",
+    "superseded_by": []
+  },
+  {
+    "id": "R61-15-ELEVEN_DAYS_IN_ALL",
+    "pack": "Alchemy Conversion Questionnaire 2026-09-28",
+    "pack_number": null,
+    "section": "ST5",
+    "title": "The impression-body event lasts eleven days in all",
+    "status": "live",
+    "kind": "definition",
+    "summary": "Write the event as eleven days in total, with the change, the request and the ending all falling on the last day.",
+    "verbatim": "Eleven days in all. Line 139 becomes 'Before the eleventh day was out'. Lines 133 and 135 and Volume III line 276 stay true; the change, the request and the ending fall on the last day.",
+    "amends": [
+      {
+        "guide": "NATALIE.md and the wotr-write skill",
+        "locus": "NATALIE.md and the wotr-write skill",
+        "operation": "adds"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "codex",
+      "documents"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-28, Claude Code chat: ruled directly (the alchemy conversion questionnaire)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "",
+    "superseded_by": []
+  },
+  {
+    "id": "R61-16-FURVEUS_IS_A_ROSTER_NPC",
+    "pack": "Alchemy Conversion Questionnaire 2026-09-28",
+    "pack_number": null,
+    "section": "ST6",
+    "title": "Furveus is a new person with a roster entry and a Fracture of Worlds line",
+    "status": "live",
+    "kind": "definition",
+    "summary": "Furveus replaces Paracelsus as a minor NPC whose stat line prices the commission, and he is Malphas's colleague, a tie Malphas's card must carry.",
+    "verbatim": "Keep as a new person named Furveus. A roster entry (a short minor-NPC record) with a FOW (Fracture of Worlds, the stat system) line pricing the commission; 'called Paracelsus' follows ST1. Through the Necrocursica he is Malphas's colleague too, a tie Malphas's card must carry.",
+    "amends": [
+      {
+        "guide": "Character cards, NATALIE.md and the wotr-npc skill",
+        "locus": "Character cards, NATALIE.md and the wotr-npc skill",
+        "operation": "adds"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "character-sheet",
+      "stats",
+      "naming"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-28, Claude Code chat: ruled directly (the alchemy conversion questionnaire)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "",
+    "superseded_by": []
+  },
+  {
+    "id": "R61-17-GILLUS_GETS_FULL_CARD",
+    "pack": "Alchemy Conversion Questionnaire 2026-09-28",
+    "pack_number": null,
+    "section": "ST7",
+    "title": "Gillus De Raits is a new person with a full character card",
+    "status": "live",
+    "kind": "mandate",
+    "summary": "Build Gillus a full card with loadout, costs, counters and a Voice block under his in-world name, and add him to Mu-jin's and Malphas's Ties.",
+    "verbatim": "New person with a full character card. A full card with a FOW (Fracture of Worlds) loadout, costs, counters and a Voice block; name per ST1. Mu-jin's and Malphas's cards both gain him in Ties.",
+    "amends": [
+      {
+        "guide": "Character cards, NATALIE.md and the wotr-npc skill",
+        "locus": "Character cards, NATALIE.md and the wotr-npc skill",
+        "operation": "adds"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "character-sheet",
+      "stats"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-28, Claude Code chat: ruled directly (the alchemy conversion questionnaire)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "",
+    "superseded_by": []
+  },
+  {
+    "id": "R61-18-THOM_IS_A_ROSTER_NPC",
+    "pack": "Alchemy Conversion Questionnaire 2026-09-28",
+    "pack_number": null,
+    "section": "ST8",
+    "title": "Vaughaus Thom is a roster NPC who scaled Malphas's architecture",
+    "status": "live",
+    "kind": "definition",
+    "summary": "Thom gets a roster entry with a stat line (Anamnesis, crude impression-bodies, twelve years of activations), and Malphas stays the theorist whose architecture he scaled.",
+    "verbatim": "Keep as a new person. A roster entry (a short NPC record) with a FOW stat line (Anamnesis, crude impression-bodies, twelve years' activation); name per ST1. Malphas stays the theorist whose architecture Thom scaled, so his card's tell becomes a line he lives into later.",
+    "amends": [
+      {
+        "guide": "Character cards, NATALIE.md and the wotr-npc skill",
+        "locus": "Character cards, NATALIE.md and the wotr-npc skill",
+        "operation": "adds"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "character-sheet",
+      "stats"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-28, Claude Code chat: ruled directly (the alchemy conversion questionnaire)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "",
+    "superseded_by": []
+  },
+  {
+    "id": "R61-19-NEROS_IS_A_ROSTER_NPC",
+    "pack": "Alchemy Conversion Questionnaire 2026-09-28",
+    "pack_number": null,
+    "section": "ST9",
+    "title": "Neros is a roster NPC with a voice note",
+    "status": "live",
+    "kind": "definition",
+    "summary": "Neros becomes a new person with a roster entry and voice note, and his railway conversation, stabilised drift and case-file readings remain canon.",
+    "verbatim": "Keep as a new person. A roster entry (a short NPC record) and a voice note; the railway conversation, the stabilised drift and the case-file readings stay. Where he met Mu-jin follows the origin question.",
+    "amends": [
+      {
+        "guide": "Character cards, NATALIE.md and the wotr-npc skill",
+        "locus": "Character cards, NATALIE.md and the wotr-npc skill",
+        "operation": "adds"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "character-sheet",
+      "dialogue"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-28, Claude Code chat: ruled directly (the alchemy conversion questionnaire)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "",
+    "superseded_by": []
+  },
+  {
+    "id": "R61-2-HERESIOLOGY_POSTDATES_THE_TEXTS",
+    "pack": "Alchemy Conversion Questionnaire 2026-09-28",
+    "pack_number": null,
+    "section": "K2",
+    "title": "The Heresiology is a recent Accord manual written after the texts' events",
+    "status": "live",
+    "kind": "definition",
+    "summary": "Treat the Heresiology as a recent Accord manual drawn from these events: its five cases stand word for word, the texts' events end some years before it in Mu-jin's past, and Case II's compelled author is Malphas.",
+    "verbatim": "After: a recent Accord manual drawn from these events. The five cases stand word for word; the meta page and Malphas's card stay true. The texts' events close some years before its issue, in Mu-jin's past. Case II's author 'pulled by access and manipulated through need' must fit Malphas (the Necrocursica items).",
+    "amends": [
+      {
+        "guide": "The Magic System",
+        "locus": "The Magic System",
+        "operation": "adds"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "codex",
+      "documents",
+      "worldbuilding"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-28, Claude Code chat: ruled directly (the alchemy conversion questionnaire)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "",
+    "superseded_by": []
+  },
+  {
+    "id": "R61-20-JABIR_IS_A_ROSTER_NPC",
+    "pack": "Alchemy Conversion Questionnaire 2026-09-28",
+    "pack_number": null,
+    "section": "ST10",
+    "title": "Jabir is a roster NPC under an in-world name",
+    "status": "live",
+    "kind": "definition",
+    "summary": "Jabir becomes a new person with a roster entry, renamed per the historical-names rule, with his homeland set by the Shaneni ruling.",
+    "verbatim": "Keep as a new person. A roster entry (a short NPC record); his name, and Volume III's 'ibn Hayyan', follow ST1. His homeland follows the setting question on the Shaneni empire, a polity canon lacks.",
+    "amends": [
+      {
+        "guide": "Character cards, NATALIE.md and the wotr-npc skill",
+        "locus": "Character cards, NATALIE.md and the wotr-npc skill",
+        "operation": "adds"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "character-sheet",
+      "naming"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-28, Claude Code chat: ruled directly (the alchemy conversion questionnaire)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "",
+    "superseded_by": []
+  },
+  {
+    "id": "R61-21-TAT_IS_DOYUN",
+    "pack": "Alchemy Conversion Questionnaire 2026-09-28",
+    "pack_number": null,
+    "section": "ST11",
+    "title": "Tat is Doyun, met by Mu-jin as a boy at Sum-gol",
+    "status": "live",
+    "kind": "definition",
+    "summary": "Tat's scenes become Doyun's boyhood in Mu-jin's room at Sum-gol (Doyun about 13-15, Mu-jin 22-24), and Doyun gains the cat, the Third Corruption question and the address as canon.",
+    "verbatim": "He is Doyun, met as a boy. Tat's scenes move from the Monastery to Mu-jin's room at Sum-gol, when Doyun is about 13 to 15 (Mu-jin 22 to 24). Doyun gains the cat, the Third Corruption question and the address; his boyhood becomes canon.",
+    "amends": [
+      {
+        "guide": "Character cards, NATALIE.md and the wotr-npc skill",
+        "locus": "Character cards, NATALIE.md and the wotr-npc skill",
+        "operation": "adds"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "character-sheet",
+      "codex",
+      "worldbuilding"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-28, Claude Code chat: ruled directly (the alchemy conversion questionnaire)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "",
+    "superseded_by": []
+  },
+  {
+    "id": "R61-22-MADELEINE_AULT_ROSTER_NPC",
+    "pack": "Alchemy Conversion Questionnaire 2026-09-28",
+    "pack_number": null,
+    "section": "ST12",
+    "title": "Madeleine Ault is a roster NPC with a stat line",
+    "status": "live",
+    "kind": "definition",
+    "summary": "Madeleine is a dead Anamnesis-adjacent scholar who died of lung-sickness, with a Stage and a stat line that prices her Trace and the eleven days, while Case III stays unnamed.",
+    "verbatim": "New person with a roster entry and stat line. A short NPC record (dead of lung-sickness; Anamnesis-adjacent scholar; her Stage) with a FOW (Fracture of Worlds) stat line that prices her Trace and the eleven days. Case III stays unnamed.",
+    "amends": [
+      {
+        "guide": "Character cards, NATALIE.md and the wotr-npc skill",
+        "locus": "Character cards, NATALIE.md and the wotr-npc skill",
+        "operation": "adds"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "character-sheet",
+      "stats"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-28, Claude Code chat: ruled directly (the alchemy conversion questionnaire)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "",
+    "superseded_by": []
+  },
+  {
+    "id": "R61-23-CASSIAN_AULT_ROSTER_NPC",
+    "pack": "Alchemy Conversion Questionnaire 2026-09-28",
+    "pack_number": null,
+    "section": "ST13",
+    "title": "Cassian Ault is a roster NPC built through the NPC process",
+    "status": "live",
+    "kind": "definition",
+    "summary": "Give Cassian a want, a refusal line, a lie about what the document said and a voice, so later scenes can use the man behind the Papers' interview.",
+    "verbatim": "Roster NPC through the NPC build. A record with a want, a refusal line, a lie (what the document said) and a voice, so the Papers' interview has a person behind it and a later scene can use him.",
+    "amends": [
+      {
+        "guide": "Character cards, NATALIE.md and the wotr-npc skill",
+        "locus": "Character cards, NATALIE.md and the wotr-npc skill",
+        "operation": "adds"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "character-sheet",
+      "dialogue"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-28, Claude Code chat: ruled directly (the alchemy conversion questionnaire)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "",
+    "superseded_by": []
+  },
+  {
+    "id": "R61-24-HALVETH_DIRECTS_URBIS_OFFICE",
+    "pack": "Alchemy Conversion Questionnaire 2026-09-28",
+    "pack_number": null,
+    "section": "ST14",
+    "title": "Halveth is the quiet director of the Research Division's Urbis office",
+    "status": "live",
+    "kind": "definition",
+    "summary": "Halveth heads only the Urbis branch, 'the Research Division' in the Papers and Volume III means that branch, and no Division head changes.",
+    "verbatim": "New person, quiet director of the Urbis office. A roster entry (a short NPC record); the twist stays regional, and 'the Research Division' in the Papers and Volume III means its Urbis branch. No Division head changes.",
+    "amends": [
+      {
+        "guide": "Character cards, NATALIE.md and the wotr-npc skill",
+        "locus": "Character cards, NATALIE.md and the wotr-npc skill",
+        "operation": "adds"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "character-sheet",
+      "worldbuilding"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-28, Claude Code chat: ruled directly (the alchemy conversion questionnaire)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "",
+    "superseded_by": []
+  },
+  {
+    "id": "R61-25-KING_STAYS_UNNAMED_ROLE",
+    "pack": "Alchemy Conversion Questionnaire 2026-09-28",
+    "pack_number": null,
+    "section": "ST15",
+    "title": "The king and his wife stay unnamed roles",
+    "status": "live",
+    "kind": "definition",
+    "summary": "Do not name or card the king or his wife; they remain roles, as allowed for a figure with no lines.",
+    "verbatim": "Unnamed ruler, a role. No card; he and his wife stay roles, as R50-27 allows for a man with no lines. Case I and Volume II's use of him stay.",
+    "amends": [
+      {
+        "guide": "Character cards, NATALIE.md and the wotr-npc skill",
+        "locus": "Character cards, NATALIE.md and the wotr-npc skill",
+        "operation": "adds"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "naming",
+      "character-sheet"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-28, Claude Code chat: ruled directly (the alchemy conversion questionnaire)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "",
+    "superseded_by": []
+  },
+  {
+    "id": "R61-26-ASCLEPIUS_ROSTER_NPC",
+    "pack": "Alchemy Conversion Questionnaire 2026-09-28",
+    "pack_number": null,
+    "section": "ST16",
+    "title": "Asclepius is a roster NPC whose atheism follows the God-Essence ruling",
+    "status": "live",
+    "kind": "definition",
+    "summary": "Asclepius becomes a new person with a roster entry, named per the historical-names rule, and her scorn for God-Essence reads through the setting ruling on it.",
+    "verbatim": "Keep as a new person. A roster entry (a short NPC record); her name follows ST1. Her atheism follows the setting ruling on God-Essence.",
+    "amends": [
+      {
+        "guide": "Character cards, NATALIE.md and the wotr-npc skill",
+        "locus": "Character cards, NATALIE.md and the wotr-npc skill",
+        "operation": "adds"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "character-sheet",
+      "naming"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-28, Claude Code chat: ruled directly (the alchemy conversion questionnaire)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "",
+    "superseded_by": []
+  },
+  {
+    "id": "R61-27-DESSA_MAEL_ROSTER_NPC",
+    "pack": "Alchemy Conversion Questionnaire 2026-09-28",
+    "pack_number": null,
+    "section": "ST17",
+    "title": "Dessa Mael is a roster NPC with want, refusal and voice",
+    "status": "live",
+    "kind": "definition",
+    "summary": "Dessa Mael gets a short NPC record with a want, a refusal and a voice, and her Genesio archive scene stays as written.",
+    "verbatim": "Keep as a new person. A short NPC record (want, refusal, voice); the Genesio archive scene stays as written.",
+    "amends": [
+      {
+        "guide": "Character cards, NATALIE.md and the wotr-npc skill",
+        "locus": "Character cards, NATALIE.md and the wotr-npc skill",
+        "operation": "adds"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "character-sheet",
+      "dialogue"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-28, Claude Code chat: ruled directly (the alchemy conversion questionnaire)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "",
+    "superseded_by": []
+  },
+  {
+    "id": "R61-28-DORYUN_SIGNED_PUPILS_WORK",
+    "pack": "Alchemy Conversion Questionnaire 2026-09-28",
+    "pack_number": null,
+    "section": "ST18",
+    "title": "The plagiarising lecturer is Doryun, who quietly signed his pupil's work",
+    "status": "live",
+    "kind": "definition",
+    "summary": "Doryun's estrangement comes from patiently signing Mu-jin's later work as his own at court, with no brawl and no sternum strike, kept separate from the credited correction at fourteen.",
+    "verbatim": "He is Doryun, recut as quiet theft. The scene moves to the court: Doryun patiently signs his pupil's later work as his own, with no brawl, and Paracelsus's sternum strike goes. Doryun's card gains the act behind 'estranged', kept separate from the credited correction at fourteen.",
+    "amends": [
+      {
+        "guide": "Character cards, NATALIE.md and the wotr-npc skill",
+        "locus": "Character cards, NATALIE.md and the wotr-npc skill",
+        "operation": "adds"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "character-sheet",
+      "codex"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-28, Claude Code chat: ruled directly (the alchemy conversion questionnaire)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "",
+    "superseded_by": []
+  },
+  {
+    "id": "R61-29-DRAGON_CLAW_MONK_NAMED",
+    "pack": "Alchemy Conversion Questionnaire 2026-09-28",
+    "pack_number": null,
+    "section": "ST19",
+    "title": "The dragon-claw monk is named; the Prior stays a role",
+    "status": "live",
+    "kind": "definition",
+    "summary": "Name the dragon-claw monk and give him a short record (want, voice, his father's death on Tempus-bred quarry), while the Prior remains an unnamed role.",
+    "verbatim": "Name the dragon-claw monk; the Prior stays a role. The monk gets a name and a short NPC record (want, voice, his father's death); the Prior stays a role. The father's death 'on Tempus-bred quarry' follows the setting ruling on Tempus.",
+    "amends": [
+      {
+        "guide": "Character cards, NATALIE.md and the wotr-npc skill",
+        "locus": "Character cards, NATALIE.md and the wotr-npc skill",
+        "operation": "adds"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "character-sheet",
+      "naming"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-28, Claude Code chat: ruled directly (the alchemy conversion questionnaire)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "",
+    "superseded_by": []
+  },
+  {
+    "id": "R61-3-CODEX_VOLUMES_IN_MUJIN_LIFE",
+    "pack": "Alchemy Conversion Questionnaire 2026-09-28",
+    "pack_number": null,
+    "section": "K3",
+    "title": "Volumes I-II fall on the road at fourteen to nineteen; Volume III after the Ashgate road",
+    "status": "live",
+    "kind": "definition",
+    "summary": "Place Volumes I and II in Mu-jin's road years from fourteen to about nineteen, make the eleven Urbis months his one-lung convalescence before the Academy, and set Volume III after the Ashgate road with Frithia and infant children mentioned.",
+    "verbatim": "Vols I–II on the road; Vol III after the Ashgate road. Vols I–II fall between fourteen and about nineteen; the eleven months in Urbis become his convalescence on one lung, before the Academy. The Correction answers Rimward. 'Final Testimonies' and 'life's work' go, and Vol III must mention Frithia and infant children.",
+    "amends": [
+      {
+        "guide": "Character cards, NATALIE.md and the wotr-npc skill",
+        "locus": "Character cards, NATALIE.md and the wotr-npc skill",
+        "operation": "adds"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "character-sheet",
+      "documents",
+      "codex"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-28, Claude Code chat: ruled directly (the alchemy conversion questionnaire)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "",
+    "superseded_by": []
+  },
+  {
+    "id": "R61-30-THREE_FRIENDS_STAY_UNASSIGNED",
+    "pack": "Alchemy Conversion Questionnaire 2026-09-28",
+    "pack_number": null,
+    "section": "ST20",
+    "title": "The Codex's three friends are not tied to canon's three dead",
+    "status": "live",
+    "kind": "definition",
+    "summary": "Leave the friends' later fates open and do not identify them with canon's three dead, who can be whoever a later scene needs.",
+    "verbatim": "Leave the line unassigned. No change; the friends' later fates stay open and the three dead can be anyone a later scene needs.",
+    "amends": [
+      {
+        "guide": "Character cards, NATALIE.md and the wotr-npc skill",
+        "locus": "Character cards, NATALIE.md and the wotr-npc skill",
+        "operation": "adds"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "character-sheet",
+      "codex"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-28, Claude Code chat: ruled directly (the alchemy conversion questionnaire)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "",
+    "superseded_by": []
+  },
+  {
+    "id": "R61-31-NOOSPHERIC_SPELLING",
+    "pack": "Alchemy Conversion Questionnaire 2026-09-28",
+    "pack_number": null,
+    "section": "ST21",
+    "title": "The spelling is Noospheric; Anamnetic, Necrocursica and Urbis stay as published",
+    "status": "live",
+    "kind": "definition",
+    "summary": "Write 'Noospheric' rather than 'Nospheric', and keep Anamnetic, Necrocursica and Urbis in their published spellings.",
+    "verbatim": "Fix only the plain misspelling. 'Nospheric' becomes 'Noospheric' in the Necrocursica (13 uses) and on the Sub-Stats page; Anamnetic, Necrocursica and Urbis stay as published.",
+    "amends": [
+      {
+        "guide": "Naming guide and the wotr-write skill",
+        "locus": "Naming guide and the wotr-write skill",
+        "operation": "adds"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "naming",
+      "codex"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-28, Claude Code chat: ruled directly (the alchemy conversion questionnaire)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "Sub-Stats page spelling of Nospheric",
+    "superseded_by": []
+  },
+  {
+    "id": "R61-32-SUMGOL_TITLE_BESIDE_CODEX",
+    "pack": "Alchemy Conversion Questionnaire 2026-09-28",
+    "pack_number": null,
+    "section": "ST22",
+    "title": "Mu-jin's book carries a Sum-gol title beside The Alftian Codex",
+    "status": "live",
+    "kind": "definition",
+    "summary": "Head Volume I and the overview's name list with a correct Korean-stratum title in Mu-jin's own words, and keep 'The Alftian Codex' as the archive title everywhere else.",
+    "verbatim": "Add a Sum-gol title beside The Alftian Codex. A correct Korean-stratum title, his own name for the book, heads Volume I and the overview's name list; 'The Alftian Codex' stays the archive title everywhere else.",
+    "amends": [
+      {
+        "guide": "Naming guide and the wotr-write skill",
+        "locus": "Naming guide and the wotr-write skill",
+        "operation": "adds"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "naming",
+      "documents"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-28, Claude Code chat: ruled directly (the alchemy conversion questionnaire)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "",
+    "superseded_by": []
+  },
+  {
+    "id": "R61-33-SUMGOL_EMPTIED_BEFORE_MUJIN",
+    "pack": "Alchemy Conversion Questionnaire 2026-09-28",
+    "pack_number": null,
+    "section": "MJ1",
+    "title": "Sum-gol emptied before Mu-jin's birth",
+    "status": "live",
+    "kind": "definition",
+    "summary": "Mu-jin was born to the remnant of a house in an already-thinned valley; the school and sixty roofs are what remained, and Ara's 'Sum-gol went' means the last of the house going.",
+    "verbatim": "Before his birth: the Primate's card governs. He is born to the remnant of a house whose valley had already thinned; the school and the sixty roofs are what remained. Ara's 'Sum-gol went' reads as the last of the house going, as her scene already hints. No scene line changes.",
+    "amends": [
+      {
+        "guide": "Character cards, NATALIE.md and the wotr-npc skill",
+        "locus": "Character cards, NATALIE.md and the wotr-npc skill",
+        "operation": "adds"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "worldbuilding",
+      "character-sheet"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-28, Claude Code chat: ruled directly (the alchemy conversion questionnaire)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "",
+    "superseded_by": []
+  },
+  {
+    "id": "R61-34-MUJIN_MAHUO_BOYHOOD",
+    "pack": "Alchemy Conversion Questionnaire 2026-09-28",
+    "pack_number": null,
+    "section": "MJ2",
+    "title": "Mu-jin's boyhood is Mahuo, near the mountain, and he never writes the Ledger-Prince title",
+    "status": "live",
+    "kind": "definition",
+    "summary": "Write his boyhood from his card's frost and mountain and Sum-gol's river-valley fields with new sky-watching, naming the house once and the Ledger-Prince epithet never.",
+    "verbatim": "A Mahuo boyhood near the mountain, the house named once. The frost and the mountain come from his card, the fields from Sum-gol's river-valley farming; the sky-watching is new. He names the house once and the Ledger-Prince title (the court epithet he resents) never. 'No men of learning' goes.",
+    "amends": [
+      {
+        "guide": "Character cards, NATALIE.md and the wotr-npc skill",
+        "locus": "Character cards, NATALIE.md and the wotr-npc skill",
+        "operation": "adds"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "character-sheet",
+      "documents",
+      "codex"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-28, Claude Code chat: ruled directly (the alchemy conversion questionnaire)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "",
+    "superseded_by": []
+  },
+  {
+    "id": "R61-35-VIS_IS_GEUKHON_EARLIER_LIFE",
+    "pack": "Alchemy Conversion Questionnaire 2026-09-28",
+    "pack_number": null,
+    "section": "MJ3",
+    "title": "Vis was an earlier Elfin life of Mu-jin's soul, Geuk-hon",
+    "status": "live",
+    "kind": "definition",
+    "summary": "The coffin's 'Vis, Alchemical Astronomer' is an earlier life of the soul Kaalabad names, whose four hundred years hold more than one life, paying off the Soul Kingdom thread.",
+    "verbatim": "His own earlier life: 'Vis' was the soul called Geuk-hon. The coffin keeps 'Vis, Alchemical Astronomer' as an Elfin earlier life of the soul Kaalabad names; that soul's four hundred years hold more than one life. Pays off Kaalabad and the Soul Kingdom thread, and makes the author note canon.",
+    "amends": [
+      {
+        "guide": "Character cards, NATALIE.md and the wotr-npc skill",
+        "locus": "Character cards, NATALIE.md and the wotr-npc skill",
+        "operation": "adds"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "character-sheet",
+      "worldbuilding",
+      "codex"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-28, Claude Code chat: ruled directly (the alchemy conversion questionnaire)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "",
+    "superseded_by": []
+  },
+  {
+    "id": "R61-36-ARA_HEALER_AND_ADDRESSEE",
+    "pack": "Alchemy Conversion Questionnaire 2026-09-28",
+    "pack_number": null,
+    "section": "MJ4",
+    "title": "Ara is the healer in the illness chapter and Volume III's addressee",
+    "status": "live",
+    "kind": "definition",
+    "summary": "Ara treats the friends' illness beside Mu-jin, her 'ending as a passage' seeds the Monastery's 'Death is not the opposite of life', and Volume III is written to her.",
+    "verbatim": "Healer in the illness chapter and Vol III's addressee. She treats the friends' illness beside him, and her 'ending as a passage' seeds the Monastery's 'Death is not the opposite of life'. Vol III is written to her, keeping the Rimward promise and replacing 'at the request of no one'.",
+    "amends": [
+      {
+        "guide": "Character cards, NATALIE.md and the wotr-npc skill",
+        "locus": "Character cards, NATALIE.md and the wotr-npc skill",
+        "operation": "adds"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "character-sheet",
+      "documents"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-28, Claude Code chat: ruled directly (the alchemy conversion questionnaire)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "",
+    "superseded_by": []
+  },
+  {
+    "id": "R61-37-MUJIN_SEPARATION_TURNED_INWARD",
+    "pack": "Alchemy Conversion Questionnaire 2026-09-28",
+    "pack_number": null,
+    "section": "MJ5",
+    "title": "Mu-jin's own corruption is Separation turned inward",
+    "status": "live",
+    "kind": "definition",
+    "summary": "Mu-jin corrects everyone but himself, and what he files away is the Trace aimed at his own signature; Volume III is his cure, a decision made under witness.",
+    "verbatim": "Separation turned inward: he corrects everyone but himself. He confronts Paracelsus and Gillus plainly; what he files away is his own matter, the Trace aimed at his signature. Vol II's confession survives nearly word for word, the café walk-out goes, and Vol III becomes the Heresiology's cure, a decision under witness.",
+    "amends": [
+      {
+        "guide": "Character cards, NATALIE.md and the wotr-npc skill",
+        "locus": "Character cards, NATALIE.md and the wotr-npc skill",
+        "operation": "adds"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "character-sheet",
+      "codex"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-28, Claude Code chat: ruled directly (the alchemy conversion questionnaire)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "",
+    "superseded_by": []
+  },
+  {
+    "id": "R61-38-MUJIN_WRITTEN_VOICE_BY_VOLUME",
+    "pack": "Alchemy Conversion Questionnaire 2026-09-28",
+    "pack_number": null,
+    "section": "MJ6",
+    "title": "Mu-jin's written voice is built on his habits and changes by volume",
+    "status": "live",
+    "kind": "definition",
+    "summary": "In Volume I he apologises for explaining and by Volume III he has stopped; he notices the flaw then the child, and jokes become dry self-correction.",
+    "verbatim": "A written voice built on his habits, changing by volume. Vol I apologises for explaining; by Vol III he has stopped. He notices the flaw, then the child. Lacquered jokes are cut back to dry self-correction. Length and texture stay, the man is recognisable, and the change shows his growth.",
+    "amends": [
+      {
+        "guide": "Character cards, NATALIE.md and the wotr-npc skill",
+        "locus": "Character cards, NATALIE.md and the wotr-npc skill",
+        "operation": "adds"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "register",
+      "character-sheet",
+      "documents"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-28, Claude Code chat: ruled directly (the alchemy conversion questionnaire)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "",
+    "superseded_by": []
+  },
+  {
+    "id": "R61-39-THRICE_GREAT_REFUSED_EPITHET",
+    "pack": "Alchemy Conversion Questionnaire 2026-09-28",
+    "pack_number": null,
+    "section": "MJ7",
+    "title": "'The Thrice-Great' is an epithet the Monastery gave Mu-jin, which he refuses",
+    "status": "live",
+    "kind": "definition",
+    "summary": "After the king's hall the Monastery calls him the Thrice-Great and he writes 'That is not my name', a line he later gives Kaalabad; the frame's Sage titles go.",
+    "verbatim": "An epithet others gave him, which he refuses. After the king's hall the Monastery calls him 'the Thrice-Great'; he writes 'That is not my name', the line he later gives Kaalabad. The word stays in-world and rhymes with the Ledger-Prince; the frame's Sage titles go.",
+    "amends": [
+      {
+        "guide": "Character cards, NATALIE.md and the wotr-npc skill",
+        "locus": "Character cards, NATALIE.md and the wotr-npc skill",
+        "operation": "adds"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "naming",
+      "character-sheet",
+      "dialogue"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-28, Claude Code chat: ruled directly (the alchemy conversion questionnaire)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "",
+    "superseded_by": []
+  },
+  {
+    "id": "R61-4-CODEX_DOCTRINE_IS_SYSTEM_CANON",
+    "pack": "Alchemy Conversion Questionnaire 2026-09-28",
+    "pack_number": null,
+    "section": "K4",
+    "title": "The texts' doctrine is system canon, not one school's reading",
+    "status": "live",
+    "kind": "mandate",
+    "summary": "The residues, the Volitional Trace and impression-bodies are fact in the magic system, and the Crossing, Lexicon, Magical Categories and Heresiology must agree with them.",
+    "verbatim": "System canon: the residues, the Volitional Trace and impression-bodies all become fact. The Crossing, the Lexicon and the Magical Categories gain entries, and the Heresiology agrees with them. (Isaac: \"All system canon\".)",
+    "amends": [
+      {
+        "guide": "The Magic System",
+        "locus": "The Magic System",
+        "operation": "adds"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "magic-mechanism",
+      "magic-design",
+      "codex"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-28, Claude Code chat: ruled directly (the alchemy conversion questionnaire)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "",
+    "superseded_by": []
+  },
+  {
+    "id": "R61-40-ACCORD_SEALED_MUJINS_JOURNALS",
+    "pack": "Alchemy Conversion Questionnaire 2026-09-28",
+    "pack_number": null,
+    "section": "MJ8",
+    "title": "Mu-jin filed his journals openly; the Accord sealed them",
+    "status": "live",
+    "kind": "definition",
+    "summary": "He deposited each volume for common use under his teaching vow, and the Accord classified them Mortalis-adjacent and withdrew them under seal without asking him.",
+    "verbatim": "He filed them openly; the Accord sealed them. He deposits each volume under his teaching vow for common use; the Accord classifies them Mortalis-adjacent. 'Recovered' becomes 'withdrawn under seal'. His open book made restricted doctrine without asking him is the Ledger-Prince wound again.",
+    "amends": [
+      {
+        "guide": "Character cards, NATALIE.md and the wotr-npc skill",
+        "locus": "Character cards, NATALIE.md and the wotr-npc skill",
+        "operation": "adds"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "worldbuilding",
+      "character-sheet",
+      "documents"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-28, Claude Code chat: ruled directly (the alchemy conversion questionnaire)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "",
+    "superseded_by": []
+  },
+  {
+    "id": "R61-41-MALPHAS_WROTE_MARGIN_NOTE",
+    "pack": "Alchemy Conversion Questionnaire 2026-09-28",
+    "pack_number": null,
+    "section": "MJ9",
+    "title": "Malphas wrote the unsigned margin note in Mu-jin's copy of Volume II",
+    "status": "live",
+    "kind": "definition",
+    "summary": "The unsigned margin note that serves as Volume III's epigraph is in Malphas's hand, in Mu-jin's own copy of Volume II.",
+    "verbatim": "Malphas wrote the unsigned margin note that is Volume III's epigraph, in Mu-jin's own copy of Volume II.",
+    "amends": [
+      {
+        "guide": "Character cards, NATALIE.md and the wotr-npc skill",
+        "locus": "Character cards, NATALIE.md and the wotr-npc skill",
+        "operation": "adds"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "character-sheet",
+      "documents"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-28, Claude Code chat: ruled directly (the alchemy conversion questionnaire)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "",
+    "superseded_by": []
+  },
+  {
+    "id": "R61-42-ACCORD_ENTERS_CODEX_AT_VOL_III",
+    "pack": "Alchemy Conversion Questionnaire 2026-09-28",
+    "pack_number": null,
+    "section": "MJ10",
+    "title": "The Accord appears in the Codex only from Volume III",
+    "status": "live",
+    "kind": "definition",
+    "summary": "Show Mu-jin outside any institution in Volumes I and II, and let the Division and his vow appear only on Volume III's letter and title page after his rank.",
+    "verbatim": "The Accord appears only from Vol III, after the rank. Vols I–II show him outside any institution; Vol III's letter and title page carry the Division and the vow. Simpler, but it hides the assessments that sent him everywhere.",
+    "amends": [
+      {
+        "guide": "Character cards, NATALIE.md and the wotr-npc skill",
+        "locus": "Character cards, NATALIE.md and the wotr-npc skill",
+        "operation": "adds"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "documents",
+      "codex",
+      "character-sheet"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-28, Claude Code chat: ruled directly (the alchemy conversion questionnaire)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "",
+    "superseded_by": []
+  },
+  {
+    "id": "R61-43-MUJIN_DETECTS_NEVER_PERFORMS_CAT_THREE",
+    "pack": "Alchemy Conversion Questionnaire 2026-09-28",
+    "pack_number": null,
+    "section": "MJ11",
+    "title": "Mu-jin detects failing seals but never performs Category Three",
+    "status": "live",
+    "kind": "definition",
+    "summary": "His passive sense of failing seals is free and reaches streets away, a full lens-off read costs a migraine, and he can diagnose and warn but never perform, with Genesio completing through his Anamnesis only.",
+    "verbatim": "Detector only: he feels seals fail, never performs Category Three. He is the Codex's witness of failing seals: the passive sense is free and reaches streets away, a full lens-off read costs its migraine. He diagnoses and warns but cannot perform; Genesio completes through his Anamnesis, never his authority.",
+    "amends": [
+      {
+        "guide": "Character cards, NATALIE.md and the wotr-npc skill",
+        "locus": "Character cards, NATALIE.md and the wotr-npc skill",
+        "operation": "adds"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "character-sheet",
+      "magic-mechanism",
+      "stats"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-28, Claude Code chat: ruled directly (the alchemy conversion questionnaire)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "",
+    "superseded_by": []
+  },
+  {
+    "id": "R61-44-RIMWARD_RESPONDER_STAYS_UNNAMED",
+    "pack": "Alchemy Conversion Questionnaire 2026-09-28",
+    "pack_number": null,
+    "section": "MJ12",
+    "title": "Rimward is Mu-jin's named question; what answered stays unnamed",
+    "status": "live",
+    "kind": "ban",
+    "summary": "Volume III opens on Rimward as the question the Trace answers, describing the wall, the eye and the law of response but never who or what responded.",
+    "verbatim": "Named as his question; what answered stays unnamed. Vol III opens on Rimward as the question the Trace answers: he writes the wall, the eye and the law of response, never who responded. Keeps the promise to Ara and his refusal to invent a shape.",
+    "amends": [
+      {
+        "guide": "Character cards, NATALIE.md and the wotr-npc skill",
+        "locus": "Character cards, NATALIE.md and the wotr-npc skill",
+        "operation": "adds"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "codex",
+      "character-sheet",
+      "worldbuilding"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-28, Claude Code chat: ruled directly (the alchemy conversion questionnaire)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "",
+    "superseded_by": []
+  },
+  {
+    "id": "R61-45-MUJIN_NAMED_THE_TRACE",
+    "pack": "Alchemy Conversion Questionnaire 2026-09-28",
+    "pack_number": null,
+    "section": "MJ13",
+    "title": "Mu-jin named the Volitional Trace; others built the method",
+    "status": "live",
+    "kind": "definition",
+    "summary": "When the residue theory is credited, Mu-jin is the witness who named the Volitional Trace, and the method belongs to Gillus De Raits and Vaughaus Thom (names per ST1), never to Mu-jin as co-builder.",
+    "verbatim": "Mu-jin is the witness and namer: he named the Volitional Trace; Gillus De Raits and Vaughaus Thom built the method (follows ST3).",
+    "amends": [
+      {
+        "guide": "Character cards, NATALIE.md and the wotr-npc skill",
+        "locus": "Character cards, NATALIE.md and the wotr-npc skill",
+        "operation": "adds"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "documents",
+      "magic-mechanism"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-28, Claude Code chat: ruled directly (the alchemy conversion questionnaire)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "Follows ST3's layered credit; amends the Necrocursica's joint credit to 'De Raits, Thom, and Trismegistus'",
+    "superseded_by": []
+  },
+  {
+    "id": "R61-46-NECROCURSICA_WRITTEN_AT_INVOCATION",
+    "pack": "Alchemy Conversion Questionnaire 2026-09-28",
+    "pack_number": null,
+    "section": "ML1",
+    "title": "Malphas writes the Necrocursica at his Invocation",
+    "status": "live",
+    "kind": "definition",
+    "summary": "Date the Necrocursica's core text to Malphas's Invocation (Stage IX, when he stopped working alone) in the Codex I years, with the relief of the extra months as Invocation and the worsening a year or two later as The Mother, so its warnings read as sincere and tragic.",
+    "verbatim": "At Invocation: the compulsion is when he stopped working alone. The preface stays close to as written. The months past the brief are Invocation's relief; the 'worse' a year or two later is The Mother. The warnings read as sincere and tragic, written in the Codex I years.",
+    "amends": [
+      {
+        "guide": "Character cards, NATALIE.md and the wotr-npc skill",
+        "locus": "Character cards, NATALIE.md and the wotr-npc skill",
+        "operation": "adds"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "documents",
+      "stats"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-28, Claude Code chat: ruled directly (the alchemy conversion questionnaire)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "",
+    "superseded_by": []
+  },
+  {
+    "id": "R61-47-MALPHAS_IS_COMPELLED_AUTHOR",
+    "pack": "Alchemy Conversion Questionnaire 2026-09-28",
+    "pack_number": null,
+    "section": "ML2",
+    "title": "Malphas is the Heresiology's Compelled Author",
+    "status": "live",
+    "kind": "definition",
+    "summary": "Malphas is Case II's Compelled Author: his first corruption is Submission, the perverted form of his primary Wellspring Dissolution, bargained for sealed Genesio stacks as well as coerced, and only afterwards Fermentation Perverted.",
+    "verbatim": "Yes: Submission first, then Fermentation Perverted. Case II and Codex II's example stand with the name changed. The preface adds the bargain, sealed Genesio stacks for his pen, beside the coercion. His card's Lore gains a first corruption: the perverted form of his own primary Wellspring.",
+    "amends": [
+      {
+        "guide": "Character cards, NATALIE.md and the wotr-npc skill",
+        "locus": "Character cards, NATALIE.md and the wotr-npc skill",
+        "operation": "adds"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "documents",
+      "magic-mechanism"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-28, Claude Code chat: ruled directly (the alchemy conversion questionnaire)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "Malphas's card Lore gains Submission as his first corruption before Fermentation Perverted",
+    "superseded_by": []
+  },
+  {
+    "id": "R61-48-ZERAPHINE_DROWL_SECOND_COMPELLER",
+    "pack": "Alchemy Conversion Questionnaire 2026-09-28",
+    "pack_number": null,
+    "section": "ML3",
+    "title": "Zeraphine Drowl is the titled second compeller",
+    "status": "live",
+    "kind": "definition",
+    "summary": "The second visitor who compelled Malphas at Genesio beside Gillus is Zeraphine Drowl, then the Pyraeon Forge Academy's tactician, whose persuasion marked his left hand and whose canon betrayal begins at his confinement.",
+    "verbatim": "Gillus plus Zeraphine Drowl, then the Academy's tactician. The Academy gets its first face, her canon betrayal starts at his confinement, and the hand mark is hers. Her card's Lore gains the meeting, fixing her as an Academy officer at the date ML1 sets.",
+    "amends": [
+      {
+        "guide": "Character cards, NATALIE.md and the wotr-npc skill",
+        "locus": "Character cards, NATALIE.md and the wotr-npc skill",
+        "operation": "adds"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "documents",
+      "worldbuilding"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-28, Claude Code chat: ruled directly (the alchemy conversion questionnaire)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "Zeraphine Drowl's card Lore gains the meeting, fixing her as an Academy officer at ML1's date",
+    "superseded_by": []
+  },
+  {
+    "id": "R61-49-NECROCURSICA_SIGNED_MALPHAS",
+    "pack": "Alchemy Conversion Questionnaire 2026-09-28",
+    "pack_number": null,
+    "section": "ML4",
+    "title": "The Necrocursica is signed Malphas",
+    "status": "live",
+    "kind": "definition",
+    "summary": "Malphas signs the Necrocursica in his own name, so 'N. Ren' and 'Noxinus Ren' no longer name its author anywhere.",
+    "verbatim": "Malphas signs the Necrocursica in his own name, Malphas.",
+    "amends": [
+      {
+        "guide": "Naming guide and the wotr-write skill",
+        "locus": "Naming guide and the wotr-write skill",
+        "operation": "adds"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "naming",
+      "documents"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-28, Claude Code chat: ruled directly (the alchemy conversion questionnaire)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "Retires Noxinus Ren as the author name; renames registry per ME2",
+    "superseded_by": []
+  },
+  {
+    "id": "R61-5-SUBLIMATIO_IS_SUBLIMATION",
+    "pack": "Alchemy Conversion Questionnaire 2026-09-28",
+    "pack_number": null,
+    "section": "K5",
+    "title": "Sublimatio is sublimation; Sublimare is distillation",
+    "status": "live",
+    "kind": "definition",
+    "summary": "Use the physics register: Sublimatio names sublimation and Sublimare names distillation, and Distillation mirrors Sublimare everywhere.",
+    "verbatim": "The physics register wins. Sublimatio is sublimation, Sublimare is distillation. Alchemetrica's operation table, R18-5's list and Kytheris's card are corrected, and Distillation mirrors Sublimare. The Necrocursica's Sublimatio line stands; its separating cleanse becomes Sublimare-aligned.",
+    "amends": [
+      {
+        "guide": "Ability and Technique Design Guide",
+        "locus": "Ability and Technique Design Guide",
+        "operation": "adds"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "magic-mechanism",
+      "naming",
+      "codex"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-28, Claude Code chat: ruled directly (the alchemy conversion questionnaire)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "R18-5-ALCHEMY_DOCTRINE_BINDING operation list (Sublimare now reads as distillation)",
+    "superseded_by": []
+  },
+  {
+    "id": "R61-50-IMPOSED_SCRIBE_TITLE",
+    "pack": "Alchemy Conversion Questionnaire 2026-09-28",
+    "pack_number": null,
+    "section": "ML5",
+    "title": "Malphas's title page carries an imposed office he mocks",
+    "status": "live",
+    "kind": "definition",
+    "summary": "The Necrocursica's title page gives Malphas a sentence-title his compellers imposed (something like 'Scribe to the Genesio Archivum, by order') that he mocks, never an Accord post or a house he answers to.",
+    "verbatim": "A sentence title his compellers imposed, which he mocks. Something like 'Scribe to the Genesio Archivum, by order'. Keeps the page's rhythm, shows Submission on its face, and stays card-safe: a leash is not a house he answers to.",
+    "amends": [
+      {
+        "guide": "Character cards, NATALIE.md and the wotr-npc skill",
+        "locus": "Character cards, NATALIE.md and the wotr-npc skill",
+        "operation": "adds"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "documents",
+      "naming"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-28, Claude Code chat: ruled directly (the alchemy conversion questionnaire)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "Replaces 'Alchemist-Scribe of the Trans-Alftian Accord'",
+    "superseded_by": []
+  },
+  {
+    "id": "R61-51-MALPHAS_MUJIN_OLD_FRIENDS",
+    "pack": "Alchemy Conversion Questionnaire 2026-09-28",
+    "pack_number": null,
+    "section": "ML6",
+    "title": "Malphas and Mu-jin were friends; Mu-jin never learns of The Mother",
+    "status": "live",
+    "kind": "definition",
+    "summary": "Mu-jin and Malphas were friends, and Mu-jin knows him only as Malphas the alchemist, never learning that his friend founds The Mother, whose lich and cult work under other names.",
+    "verbatim": "Malphas and Mu-jin were friends. Mu-jin knows his old friend as Malphas the alchemist and never learns that his friend founds The Mother; the lich and the cult work under other names.",
+    "amends": [
+      {
+        "guide": "Character cards, NATALIE.md and the wotr-npc skill",
+        "locus": "Character cards, NATALIE.md and the wotr-npc skill",
+        "operation": "adds"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "pov",
+      "dialogue"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-28, Claude Code chat: ruled directly (the alchemy conversion questionnaire)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "Both cards carry the tie",
+    "superseded_by": []
+  },
+  {
+    "id": "R61-52-NECROCURSICA_TWO_EDITIONS",
+    "pack": "Alchemy Conversion Questionnaire 2026-09-28",
+    "pack_number": null,
+    "section": "ML7",
+    "title": "The Necrocursica exists in two editions",
+    "status": "live",
+    "kind": "definition",
+    "summary": "The Necrocursica has an early manuscript (three residue categories and the warning footnote) that Codex I and II read, and a later sealed edition that is the extant text with a short edition note.",
+    "verbatim": "Two editions: an early manuscript, then a sealed edition. Codex I and II read the first (three categories, the footnote), written in the Codex I years. The extant text is the later sealed edition, with a short edition note. The Papers' 'twelve years' (lines 75, 101) are re-dated to K1's timeline.",
+    "amends": [
+      {
+        "guide": "The Magic System",
+        "locus": "The Magic System",
+        "operation": "adds"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "documents"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-28, Claude Code chat: ruled directly (the alchemy conversion questionnaire)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "Re-dates the Papers' 'twelve years' (lines 75, 101) to K1's timeline",
+    "superseded_by": []
+  },
+  {
+    "id": "R61-53-WARNING_FOOTNOTE_RESTORED",
+    "pack": "Alchemy Conversion Questionnaire 2026-09-28",
+    "pack_number": null,
+    "section": "ML8",
+    "title": "Malphas wrote the warning footnote; Mu-jin restored it",
+    "status": "live",
+    "kind": "definition",
+    "summary": "The first edition carries Malphas's own footnote 'Never claim it is the soul', the sealed edition drops it, and Mu-jin's note in the Archivum copy restores it, which is how the warning literally 'survived as a footnote'.",
+    "verbatim": "He writes it; the sealed edition drops it; Mu-jin restores it. The first edition has it, as Codex II quotes. The sealed edition cuts it, and Mu-jin's note in the Archivum copy carries it back. 'Survived' becomes literal, and the cut shows his descent on the page.",
+    "amends": [
+      {
+        "guide": "The Magic System",
+        "locus": "The Magic System",
+        "operation": "adds"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "documents"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-28, Claude Code chat: ruled directly (the alchemy conversion questionnaire)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "Makes Heresiology Case II's 'survived as a footnote' literal",
+    "superseded_by": []
+  },
+  {
+    "id": "R61-54-MARGINS_SHOW_MALPHAS_DRIFT",
+    "pack": "Alchemy Conversion Questionnaire 2026-09-28",
+    "pack_number": null,
+    "section": "ML9",
+    "title": "Sealed-edition margins show Malphas's drift",
+    "status": "live",
+    "kind": "mandate",
+    "summary": "The sealed Necrocursica carries short margin notes by the older, living Malphas against the Incomplete Sealing, preferring the dead, naming and Category Three, each a step over his own line, while the core warnings stay sincere so the text reads in two voices.",
+    "verbatim": "Sealed-edition margins show his drift. Short notes by the older, living Malphas against the Third, Fifth and Sixth Corruptions and Category Three, each a step over his own line. The core warnings stay sincere; the document reads in two voices.",
+    "amends": [
+      {
+        "guide": "Character cards, NATALIE.md and the wotr-npc skill",
+        "locus": "Character cards, NATALIE.md and the wotr-npc skill",
+        "operation": "adds"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "documents",
+      "pov"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-28, Claude Code chat: ruled directly (the alchemy conversion questionnaire)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "",
+    "superseded_by": []
+  },
+  {
+    "id": "R61-55-MOTHER_TEACHES_NECROCURSICA",
+    "pack": "Alchemy Conversion Questionnaire 2026-09-28",
+    "pack_number": null,
+    "section": "ML10",
+    "title": "The Mother teaches from the Necrocursica",
+    "status": "live",
+    "kind": "definition",
+    "summary": "Malphas teaches The Mother from the Necrocursica by memory, so each culture's methods trace to its protocols and anyone who has read it can recognise the cult's work, a counter that can be found.",
+    "verbatim": "A working text he teaches from memory. Each culture's methods trace to its protocols, so anyone who has read it can recognise the cult's work: a counter someone can find. The Mother's page gains one line; the Arena speech becomes that recognition.",
+    "amends": [
+      {
+        "guide": "Character cards, NATALIE.md and the wotr-npc skill",
+        "locus": "Character cards, NATALIE.md and the wotr-npc skill",
+        "operation": "adds"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "worldbuilding",
+      "magic-mechanism",
+      "adjudication"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-28, Claude Code chat: ruled directly (the alchemy conversion questionnaire)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "The Mother's page gains one line (beside R60-24-THE_MOTHER_IS_A_CULT); the Arena speech becomes that recognition",
+    "superseded_by": []
+  },
+  {
+    "id": "R61-56-RESURRECTION_FORBIDDEN_ON_PAPER",
+    "pack": "Alchemy Conversion Questionnaire 2026-09-28",
+    "pack_number": null,
+    "section": "ML11",
+    "title": "Full resurrection is forbidden on paper and secretly Malphas's path",
+    "status": "live",
+    "kind": "definition",
+    "summary": "The Necrocursica treats full resurrection as Category Four, forbidden rather than declared impossible, and that forbidden path is secretly the one Malphas himself walks.",
+    "verbatim": "Full resurrection is forbidden on paper in the Necrocursica, and secretly Malphas's own path.",
+    "amends": [
+      {
+        "guide": "The Magic System",
+        "locus": "The Magic System",
+        "operation": "adds"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "magic-mechanism",
+      "documents",
+      "pov"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-28, Claude Code chat: ruled directly (the alchemy conversion questionnaire)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "Sits beside R60-04-DEATH_IS_PERMANENT and The Crossing's 'not a thing that can be done'",
+    "superseded_by": []
+  },
+  {
+    "id": "R61-57-LICH_MARGIN_LINE_ONLY",
+    "pack": "Alchemy Conversion Questionnaire 2026-09-28",
+    "pack_number": null,
+    "section": "ML12",
+    "title": "The Necrocursica names liches in one margin line and stops",
+    "status": "live",
+    "kind": "ban",
+    "summary": "The Necrocursica never treats lichdom beyond one sealed-edition margin line naming liches as the one exception Malphas refuses to expand, so it states no false doctrine about his future.",
+    "verbatim": "One sealed-edition margin line he refuses to expand. Names liches as the one exception he will not treat, and stops. Honest with canon, no false doctrine, no future-dated layer; the reader sees the gap he is walking toward.",
+    "amends": [
+      {
+        "guide": "The Magic System",
+        "locus": "The Magic System",
+        "operation": "adds"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "documents",
+      "magic-mechanism"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-28, Claude Code chat: ruled directly (the alchemy conversion questionnaire)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "Consistent with R60-04-DEATH_IS_PERMANENT",
+    "superseded_by": []
+  },
+  {
+    "id": "R61-58-MALPHAS_TWO_REGISTERS",
+    "pack": "Alchemy Conversion Questionnaire 2026-09-28",
+    "pack_number": null,
+    "section": "ML13",
+    "title": "Malphas speaks in two registers, one man",
+    "status": "live",
+    "kind": "mandate",
+    "summary": "Malphas's voice block sets opaque command as his default and the Necrocursica's candour as his grief-and-joy shift (the man before The Mother), never uses contractions, and trims chatty tics while keeping the confessions.",
+    "verbatim": "Two registers, one man. The block sets command as his default and the Necrocursica's candour as his grief and joy shifts, the man before The Mother; contractions never. Trim the chatty tics, keep the confessions, so his fall shows in his voice.",
+    "amends": [
+      {
+        "guide": "Character cards, NATALIE.md and the wotr-npc skill",
+        "locus": "Character cards, NATALIE.md and the wotr-npc skill",
+        "operation": "adds"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "dialogue",
+      "register",
+      "documents"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-28, Claude Code chat: ruled directly (the alchemy conversion questionnaire)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "Fills Malphas's missing voice block under R52-03-VOICE_BLOCK",
+    "superseded_by": []
+  },
+  {
+    "id": "R61-59-MALPHAS_SILENT_PARTNER_GENESIO",
+    "pack": "Alchemy Conversion Questionnaire 2026-09-28",
+    "pack_number": null,
+    "section": "ML14",
+    "title": "Malphas was the silent partner in the Genesio activations",
+    "status": "live",
+    "kind": "definition",
+    "summary": "The Genesio activations ran on Malphas's protocol under Thom's hand and signature, his first Fermentation Perverted work, hinted only by one sealed-edition margin line, and Heresiology Case IV is his unnamed case.",
+    "verbatim": "Silent partner: his protocol under Thom's hand and signature. His first Fermentation Perverted work runs through another man's signature, The Mother's method before The Mother. The texts stay unchanged on the surface; one sealed-edition margin line hints it; Case IV becomes his unnamed case.",
+    "amends": [
+      {
+        "guide": "Character cards, NATALIE.md and the wotr-npc skill",
+        "locus": "Character cards, NATALIE.md and the wotr-npc skill",
+        "operation": "adds"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "documents",
+      "pov",
+      "magic-mechanism"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-28, Claude Code chat: ruled directly (the alchemy conversion questionnaire)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "",
+    "superseded_by": []
+  },
+  {
+    "id": "R61-6-CALCINATION_DISTILLATION_BENCH_ONLY",
+    "pack": "Alchemy Conversion Questionnaire 2026-09-28",
+    "pack_number": null,
+    "section": "K6",
+    "title": "Calcination and Distillation are bench operations, not Wellsprings",
+    "status": "live",
+    "kind": "definition",
+    "summary": "Never write Calcination or Distillation as Wellsprings; they are alchemical bench operations only, and any card that lists them as Wellsprings is wrong.",
+    "verbatim": "Calcination and Distillation are not Wellsprings; they are bench operations only. R18-5's list of Wellsprings that are also operations is amended, Alchemetrica's table drops them, and the cards that call them Wellsprings (Kwon Mu-jin's and about ten others) are fixed. (Isaac: \"Fix the cards they aren't right\".)",
+    "amends": [
+      {
+        "guide": "Ability and Technique Design Guide",
+        "locus": "Ability and Technique Design Guide",
+        "operation": "adds"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "magic-mechanism",
+      "character-sheet",
+      "codex"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-28, Claude Code chat: ruled directly (the alchemy conversion questionnaire)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "R18-5-ALCHEMY_DOCTRINE_BINDING list of Wellsprings that are also operations",
+    "superseded_by": []
+  },
+  {
+    "id": "R61-60-NECROCURSICA_IS_ARENA_SOURCE",
+    "pack": "Alchemy Conversion Questionnaire 2026-09-28",
+    "pack_number": null,
+    "section": "ML15",
+    "title": "The sealed Necrocursica is the Arena's forbidden source",
+    "status": "live",
+    "kind": "definition",
+    "summary": "The sealed Necrocursica sits beside the Zettari notes as the source material Mu-jin and the culprit both studied, so his Arena speech is a buried confession that he read his friend's book, without naming its author.",
+    "verbatim": "Yes: the sealed Necrocursica sits beside the Zettari notes. The speech gains a buried confession: Mu-jin read his friend's book and now describes its use without naming its author. No scene edit.",
+    "amends": [
+      {
+        "guide": "Character cards, NATALIE.md and the wotr-npc skill",
+        "locus": "Character cards, NATALIE.md and the wotr-npc skill",
+        "operation": "adds"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "pov",
+      "dialogue"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-28, Claude Code chat: ruled directly (the alchemy conversion questionnaire)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "No scene edit to the Arena archive",
+    "superseded_by": []
+  },
+  {
+    "id": "R61-61-PAPERS_AUTHOR_FULL_CARD",
+    "pack": "Alchemy Conversion Questionnaire 2026-09-28",
+    "pack_number": null,
+    "section": "PA1",
+    "title": "The Papers' new author gets a full character card",
+    "status": "live",
+    "kind": "mandate",
+    "summary": "Build the new Papers author a full card with a FOW loadout, voice block, pronunciation line, dated header, voice fingerprint and casting entry, so the Papers and Codex III share one fixed voice and the investigator plays as an NPC with counters.",
+    "verbatim": "Full character card. Fracture of Worlds loadout (the stat sheet), voice block, pronunciation line, dated header, voice fingerprint and casting entry. Most work; the investigator becomes a playable NPC with counters, and the Papers and Codex III share one fixed voice.",
+    "amends": [
+      {
+        "guide": "Character cards, NATALIE.md and the wotr-npc skill",
+        "locus": "Character cards, NATALIE.md and the wotr-npc skill",
+        "operation": "adds"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "character-sheet",
+      "stats"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-28, Claude Code chat: ruled directly (the alchemy conversion questionnaire)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "",
+    "superseded_by": []
+  },
+  {
+    "id": "R61-62-PAPERS_AUTHOR_NIGHT_WATCH",
+    "pack": "Alchemy Conversion Questionnaire 2026-09-28",
+    "pack_number": null,
+    "section": "PA2",
+    "title": "The Papers' author is a Night Watch investigator on a joint case",
+    "status": "live",
+    "kind": "definition",
+    "summary": "The Papers' author is a Night Watch Society investigator on the crown's warrant, working a joint case with Halveth, head of the Research and Archives Division's Urbis office, who opened it, hands over the file, annotates the notes and makes 'not a report' a condition of access.",
+    "verbatim": "The new Papers author is a Night Watch Society investigator on the crown's warrant. Halveth stays with the Research and Archives Division as head of its Urbis office; the case is joint: she opened it, hands the investigator the file and annotates the notes, and her order 'not a report' is a condition of access.",
+    "amends": [
+      {
+        "guide": "Character cards, NATALIE.md and the wotr-npc skill",
+        "locus": "Character cards, NATALIE.md and the wotr-npc skill",
+        "operation": "adds"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "worldbuilding",
+      "documents"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-28, Claude Code chat: ruled directly (the alchemy conversion questionnaire)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "Replaces 'Enforcer-Archivist, Guild Accord, Research Archives Division'",
+    "superseded_by": []
+  },
+  {
+    "id": "R61-63-PAPERS_AUTHOR_CONCORD_NAME",
+    "pack": "Alchemy Conversion Questionnaire 2026-09-28",
+    "pack_number": null,
+    "section": "PA3",
+    "title": "The Papers' author is a Concord human with a byname surname",
+    "status": "live",
+    "kind": "definition",
+    "summary": "Name the Papers' author as an Urbis-native Concord human from the small given-name pool with a byname surname, in the Oren Corrant mould, so the Accord filing needs no flattening.",
+    "verbatim": "Concord human: small name pool, byname surname. An Urbis native named in the Oren Corrant mould, so the filing needs no flattening and name, office and chancery frame agree. Contrasts with Mu-jin's Mahuo name.",
+    "amends": [
+      {
+        "guide": "Naming guide and the wotr-write skill",
+        "locus": "Naming guide and the wotr-write skill",
+        "operation": "adds"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "naming"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-28, Claude Code chat: ruled directly (the alchemy conversion questionnaire)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "",
+    "superseded_by": []
+  },
+  {
+    "id": "R61-64-PAPERS_AUTHOR_CLASS_ZERO",
+    "pack": "Alchemy Conversion Questionnaire 2026-09-28",
+    "pack_number": null,
+    "section": "PA4",
+    "title": "The Papers' author is unwoken, Class Ø",
+    "status": "live",
+    "kind": "definition",
+    "summary": "The Papers' author has no Stage and a never-woken Crystal (Class Ø), so every reading comes from instruments or other people's senses, meeting Gillus is real risk, and Mother cultures find no signature to follow.",
+    "verbatim": "No Stage: unwoken, reading by instrument. Class Ø (a Crystal never woken). Every reading comes from instruments and other people's senses; the Gillus meeting is real risk; a Mother culture finds no signature of theirs to follow. The card needs no Wellsprings.",
+    "amends": [
+      {
+        "guide": "Fracture of Worlds — The Living System",
+        "locus": "Fracture of Worlds — The Living System",
+        "operation": "adds"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "stats",
+      "adjudication"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-28, Claude Code chat: ruled directly (the alchemy conversion questionnaire)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "The card needs no Wellsprings",
+    "superseded_by": []
+  },
+  {
+    "id": "R61-65-PAPERS_TWO_LAYER_STYLE",
+    "pack": "Alchemy Conversion Questionnaire 2026-09-28",
+    "pack_number": null,
+    "section": "PA5",
+    "title": "The Papers use two house-style layers",
+    "status": "live",
+    "kind": "mandate",
+    "summary": "Write the Papers' frame (header, classification, cross-references, closing note) in the Night Watch's office style and the entries in the author's own voice.",
+    "verbatim": "Two layers: the frame (header, classification, cross-references, closing note) in the Night Watch's own office style, and the entries in the author's own voice.",
+    "amends": [
+      {
+        "guide": "NATALIE.md and the wotr-write skill",
+        "locus": "NATALIE.md and the wotr-write skill",
+        "operation": "adds"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "documents",
+      "register"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-28, Claude Code chat: ruled directly (the alchemy conversion questionnaire)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "",
+    "superseded_by": []
+  },
+  {
+    "id": "R61-66-PAPERS_CITE_VIA_CODEX",
+    "pack": "Alchemy Conversion Questionnaire 2026-09-28",
+    "pack_number": null,
+    "section": "PA6",
+    "title": "The Papers' author knows the Necrocursica only through the Codex",
+    "status": "live",
+    "kind": "mandate",
+    "summary": "The uncleared Papers' author cites the sealed Necrocursica only second-hand, 'as the Codex reports', and never as if having read it.",
+    "verbatim": "Through the Codex: add 'as the Codex reports'. Two phrase edits. The author knows the sealed book only second-hand, which fits the header's 'unverified' Volitional Trace and keeps knowledge limited.",
+    "amends": [
+      {
+        "guide": "Character cards, NATALIE.md and the wotr-npc skill",
+        "locus": "Character cards, NATALIE.md and the wotr-npc skill",
+        "operation": "adds"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "pov",
+      "documents"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-28, Claude Code chat: ruled directly (the alchemy conversion questionnaire)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "",
+    "superseded_by": []
+  },
+  {
+    "id": "R61-67-GREAT_WORK_STAGE_WELLSPRINGS",
+    "pack": "Alchemy Conversion Questionnaire 2026-09-28",
+    "pack_number": null,
+    "section": "WS1",
+    "title": "Each Great Work stage draws on a current mapped by physics",
+    "status": "live",
+    "kind": "definition",
+    "summary": "Tie the Great Work's stages to currents by physics: Calcination to Cinerion, Dissolution to Dissolution, Separation to Judicium, Fermentation to Rebirthine, Distillation to Sublimare, Coagulation to Coagulatio, and Conjunction to Attraction, whose corruption injures Attraction itself.",
+    "verbatim": "Six stages mapped by physics; Conjunction stays Attraction-driven. Calcination to Cinerion (pyrolytic char), Dissolution to Dissolution, Separation to Judicium (discernment), Fermentation to Rebirthine (breakdown pays for growth), Distillation to Sublimare (if K5 keeps the physics), Coagulation to Coagulatio. Conjunction's Corruption injures Attraction itself. Alchemetrica gains a stage table; Mu-jin's card follows.",
+    "amends": [
+      {
+        "guide": "The Magic System",
+        "locus": "The Magic System",
+        "operation": "adds"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "codex",
+      "magic-mechanism",
+      "magic-design"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-28, Claude Code chat: ruled directly (the alchemy conversion questionnaire)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "Alchemetrica gains a stage table and Mu-jin's card follows; builds on K5, K6 and R18-5-ALCHEMY_DOCTRINE_BINDING",
+    "superseded_by": []
+  },
+  {
+    "id": "R61-68-GENESIO_RIPTIDE_TO_WHIRLPOOL",
+    "pack": "Alchemy Conversion Questionnaire 2026-09-28",
+    "pack_number": null,
+    "section": "WS2",
+    "title": "Genesio is a Riptide pushed to Whirlpool by Thom's draw",
+    "status": "live",
+    "kind": "definition",
+    "summary": "The Genesio Anamnesis site is a Riptide (A-grade output to stand in) that reads as a Whirlpool (S to SS) under Obsession Force while Thom draws, its 'time wrong' and Tempus drift lasting only while it takes, and completing the oldest Trace drops it a rung.",
+    "verbatim": "Riptide, turned to Obsession Force by Thom's draw. Clean, it needs A-grade output; while Thom draws it reads Whirlpool, so standing there needs S to SS, and 'time wrong' and the Tempus drift (correspondence, not energy) last only while it takes. Completing the oldest Trace drops it a rung.",
+    "amends": [
+      {
+        "guide": "Fracture of Worlds — The Living System",
+        "locus": "Fracture of Worlds — The Living System",
+        "operation": "adds"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "adjudication",
+      "worldbuilding",
+      "stats"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-28, Claude Code chat: ruled directly (the alchemy conversion questionnaire)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "",
+    "superseded_by": []
+  },
+  {
+    "id": "R61-69-MORTALIS_IS_A_GATE",
+    "pack": "Alchemy Conversion Questionnaire 2026-09-28",
+    "pack_number": null,
+    "section": "WS3",
+    "title": "Mortalis is Auren's Still Gate, not a river",
+    "status": "live",
+    "kind": "definition",
+    "summary": "Write Mortalis as Auren's Still Gate, leave the river of souls to Sylorin as a Pantheon image, and treat a Mortalis 'loan' as a current borrowed and stepped out of, with the sealed vessel holding the impression-body.",
+    "verbatim": "Gate, recast to the physics. Mortalis is Auren's Still Gate; the river becomes Sylorin's soulstream, a Pantheon image, not a current. The 'loan' becomes a current borrowed and stepped out of, as Malphas's card says. The sealed vessel holds the impression-body. Rewrites Codex II's Mortalis passages and Corrant 189.",
+    "amends": [
+      {
+        "guide": "The Magic System",
+        "locus": "The Magic System",
+        "operation": "adds"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "codex",
+      "magic-mechanism"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-28, Claude Code chat: ruled directly (the alchemy conversion questionnaire)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "Rewrites Codex II's Mortalis passages and Corrant Papers line 189",
+    "superseded_by": []
+  },
+  {
+    "id": "R61-7-RESIDUES_ON_TWO_CLOCKS",
+    "pack": "Alchemy Conversion Questionnaire 2026-09-28",
+    "pack_number": null,
+    "section": "K7",
+    "title": "The two residue lists run on two clocks hinged on the Crossing's nine days",
+    "status": "live",
+    "kind": "definition",
+    "summary": "The Necrocursica's four residues are the forensic reading inside the nine days, while the Codex's three (place, bond, glyph-trace) are what remains afterwards.",
+    "verbatim": "Both lists on two clocks, hinged on The Crossing's nine days. The Necrocursica's four are the forensic reading inside the nine days; the Codex's three (place, bond, glyph-trace) are what stays after, which the two-year-old commission draws on. The Necrocursica gains a short after-window section, so the Codex and Papers cite it truly.",
+    "amends": [
+      {
+        "guide": "The Magic System",
+        "locus": "The Magic System",
+        "operation": "adds"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "magic-mechanism",
+      "codex",
+      "adjudication"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-28, Claude Code chat: ruled directly (the alchemy conversion questionnaire)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "",
+    "superseded_by": []
+  },
+  {
+    "id": "R61-70-ANAMNESIS_READS_NOT_STORES",
+    "pack": "Alchemy Conversion Questionnaire 2026-09-28",
+    "pack_number": null,
+    "section": "WS4",
+    "title": "Anamnesis reads records; it does not store them",
+    "status": "live",
+    "kind": "definition",
+    "summary": "Records live in ground and objects as Mnemata and Anamnesis is the instrument that reads and wakes them, erasing by coarse reading, so Volume I's 'nothing is erased' stands only as the young author's error that Volume III corrects.",
+    "verbatim": "Instrument: records live in the ground; Anamnesis reads them. Genesio's Traces are the hollow's Mnemata, and Anamnesis reads and wakes them. Thom's harm is erasure by coarse reading plus the site's corruption. Vol I's 'nothing is erased' stands as the young author's error that Vol III corrects; the Vol III title follows.",
+    "amends": [
+      {
+        "guide": "The Magic System",
+        "locus": "The Magic System",
+        "operation": "adds"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "magic-mechanism",
+      "codex"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-28, Claude Code chat: ruled directly (the alchemy conversion questionnaire)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "",
+    "superseded_by": []
+  },
+  {
+    "id": "R61-71-NO_ANAMNETIC_FABRIC",
+    "pack": "Alchemy Conversion Questionnaire 2026-09-28",
+    "pack_number": null,
+    "section": "WS5",
+    "title": "There is no 'Anamnetic fabric'",
+    "status": "live",
+    "kind": "ban",
+    "summary": "Drop the 'Anamnetic fabric' and write records as the Mnemata of places the dead touched, the world-ledger as Maelor's, death as the Crossing's three destinations, and 'Anamnetic activation' as waking a Trace.",
+    "verbatim": "Recast to canon and drop the term. Records are the Mnemata of places the dead touched; the world-ledger is Maelor's. The Necrocursica's account of death follows the Crossing's three destinations. About 25 lines change; 'Anamnetic activation' becomes 'waking a Trace' or similar.",
+    "amends": [
+      {
+        "guide": "The Magic System",
+        "locus": "The Magic System",
+        "operation": "adds"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "magic-mechanism",
+      "codex"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-28, Claude Code chat: ruled directly (the alchemy conversion questionnaire)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "",
+    "superseded_by": []
+  },
+  {
+    "id": "R61-72-RESIDUES_MAP_TO_CRYSTAL_LAYERS",
+    "pack": "Alchemy Conversion Questionnaire 2026-09-28",
+    "pack_number": null,
+    "section": "DE1",
+    "title": "Each residue maps to a Soul Crystal layer and Crossing product",
+    "status": "live",
+    "kind": "definition",
+    "summary": "Every residue a dead practitioner leaves lands on a Soul Crystal layer and a Crossing product, with the Noospheric Echo narrowed to the held Echo (voice, habit, possession) and its place-imprint half moved to the Harmonic Imprint.",
+    "verbatim": "Use the map; split the Nospheric Echo. Every residue lands on a layer and a Crossing product. The Nospheric Echo narrows to the held Echo (voice, habit, possession); its place-imprint half moves to the Harmonic Imprint. K4 decides whether the Crossing page gains the map.",
+    "amends": [
+      {
+        "guide": "The Magic System",
+        "locus": "The Magic System",
+        "operation": "adds"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "magic-mechanism",
+      "codex"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-28, Claude Code chat: ruled directly (the alchemy conversion questionnaire)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "Under K4 the Crossing page gains the map",
+    "superseded_by": []
+  },
+  {
+    "id": "R61-73-NINE_DAYS_THEN_TRAIT_TISSUE",
+    "pack": "Alchemy Conversion Questionnaire 2026-09-28",
+    "pack_number": null,
+    "section": "DE2",
+    "title": "After nine days a body holds only passive Trait tissue",
+    "status": "live",
+    "kind": "definition",
+    "summary": "Stage stretches a practitioner's nine-day Crossing by days, not years, and afterwards the body holds only passive Trait tissue (Class IV carry) with nothing still diffusing, so old graves are Class IV stock.",
+    "verbatim": "Only Trait tissue: passive Class IV carry, no active residue. Stage stretches the nine days by days, not years. The Crossing's 'meat' reads as 'no Temperance left', and the ledger stands. Malphas's decades-old bones survive as passive Trait carry: old graves are Class IV stock, but nothing in them is still diffusing.",
+    "amends": [
+      {
+        "guide": "The Magic System",
+        "locus": "The Magic System",
+        "operation": "adds"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "magic-mechanism",
+      "items",
+      "adjudication"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-28, Claude Code chat: ruled directly (the alchemy conversion questionnaire)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "Corrects the Necrocursica's 'years in Stage VII' Corporeal Residue; The Crossing's 'meat' reads as 'no Temperance left'",
+    "superseded_by": []
+  },
+  {
+    "id": "R61-74-VOLITIONAL_TRACE_SETTLES_IN_GROUND",
+    "pack": "Alchemy Conversion Questionnaire 2026-09-28",
+    "pack_number": null,
+    "section": "DE3",
+    "title": "An unfinished decision settles into the ground as Mnemata",
+    "status": "live",
+    "kind": "definition",
+    "summary": "At death an unfinished decision settles as an Attraction Layer commitment into the ground where the person was bound, kept as Mnemata where ground holds records well (like Genesio) and fading elsewhere, and Anamnesis reads and wakes it.",
+    "verbatim": "A commitment laid into the place, read by Anamnesis. An Attraction Layer commitment settles into the ground where the person was bound, as Mnemata (a place's memory imprint). It lasts where ground holds records well (an Anamnesis site like Genesio) and fades elsewhere; Anamnesis reads and wakes it. No canon page changes.",
+    "amends": [
+      {
+        "guide": "The Magic System",
+        "locus": "The Magic System",
+        "operation": "adds"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "magic-mechanism",
+      "codex"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-28, Claude Code chat: ruled directly (the alchemy conversion questionnaire)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "",
+    "superseded_by": []
+  },
+  {
+    "id": "R61-75-IMPRESSION_BODY_GREATER_SUMMONS",
+    "pack": "Alchemy Conversion Questionnaire 2026-09-28",
+    "pack_number": null,
+    "section": "DE4",
+    "title": "An impression-body is a Greater Summons",
+    "status": "live",
+    "kind": "definition",
+    "summary": "Build an impression-body as a Tier III Greater Summons (Stage IX to XI): an Arts vessel, the maker's own Core as identity through Animatria, and Vocatia contact with the Trace, with vessel and Binding carrying it past minutes to hours.",
+    "verbatim": "A Greater Summons: vessel, Animatria and Vocatia together. Canon's Tier III (Stage IX to XI, 'ancestral echoes'): Arts vessel, the maker's Core as identity, Vocatia contact with the Trace. The Aphorism turns literal; the Trace explains what he did not foresee. Eleven days outruns 'minutes to hours', so vessel and Binding carry it.",
+    "amends": [
+      {
+        "guide": "The Magic System",
+        "locus": "The Magic System",
+        "operation": "adds"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "magic-mechanism",
+      "magic-design",
+      "stats"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-28, Claude Code chat: ruled directly (the alchemy conversion questionnaire)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "Makes the Aphorism ('he summons himself') literal",
+    "superseded_by": []
+  },
+  {
+    "id": "R61-76-IMPRESSION_VESSEL_GRADED_DRAFT",
+    "pack": "Alchemy Conversion Questionnaire 2026-09-28",
+    "pack_number": null,
+    "section": "DE5",
+    "title": "The impression-body's vessel is a graded Draft",
+    "status": "live",
+    "kind": "definition",
+    "summary": "The impression-body's vessel is a Draft marked for Class, Fidelity, Carry and price, using Class I to III stock for ordinary commissions and Class IV only when rendered remains go in, as in Thom's regional scaling.",
+    "verbatim": "Graded Draft; Class IV only when rendered remains go in. The vessel carries Class, Fidelity, Carry and a price. Ordinary commissions use Class I to III stock; Thom's regional scaling uses Class IV, where the Bench's blind spot on source and the black market bite.",
+    "amends": [
+      {
+        "guide": "The Master Material Ledger",
+        "locus": "The Master Material Ledger",
+        "operation": "adds"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "items",
+      "magic-mechanism",
+      "adjudication"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-28, Claude Code chat: ruled directly (the alchemy conversion questionnaire)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "",
+    "superseded_by": []
+  },
+  {
+    "id": "R61-77-REVENANT_IS_STALLED_CROSSING",
+    "pack": "Alchemy Conversion Questionnaire 2026-09-28",
+    "pack_number": null,
+    "section": "DE6",
+    "title": "A revenant is a Crossing that stalls on its own",
+    "status": "live",
+    "kind": "definition",
+    "summary": "A revenant needs no necromancer: it is a body spending its nine days where the Wellspring cannot take the residue (sealed ground, saturated battlefields), fading when diffusion completes, and countered by moving or grounding the body with Stillgate Ash.",
+    "verbatim": "A Crossing that stalls on its own. A revenant is a body that spends its nine days where the Wellspring cannot take the residue: sealed ground, saturated battlefields. It fades when diffusion completes; moving or grounding the body (Stillgate Ash) is the counter. Malphas's 'not supernatural' becomes the Crossing's own account.",
+    "amends": [
+      {
+        "guide": "The Magic System",
+        "locus": "The Magic System",
+        "operation": "adds"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "magic-mechanism",
+      "worldbuilding",
+      "adjudication"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-28, Claude Code chat: ruled directly (the alchemy conversion questionnaire)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "",
+    "superseded_by": []
+  },
+  {
+    "id": "R61-78-NECROMANCY_LOOSE_PERIOD_WORD",
+    "pack": "Alchemy Conversion Questionnaire 2026-09-28",
+    "pack_number": null,
+    "section": "DE7",
+    "title": "'Necromantic' is the scholars' loose word",
+    "status": "live",
+    "kind": "definition",
+    "summary": "Scholars in the texts use 'necromantic' loosely as the period term for impression-body work, and the Necrocursica notes once that the Accord's legal sense is narrower.",
+    "verbatim": "Keep it as the scholars' loose word, with one legal note. Both authors use 'necromantic' as the period term, and the Necrocursica adds a line that the Accord's legal sense is narrower. Matches the Heresiology's own loose usage; least rewriting.",
+    "amends": [
+      {
+        "guide": "The Magic System",
+        "locus": "The Magic System",
+        "operation": "adds"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "register",
+      "magic-mechanism"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-28, Claude Code chat: ruled directly (the alchemy conversion questionnaire)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "",
+    "superseded_by": []
+  },
+  {
+    "id": "R61-79-GREAT_WORK_DOUBLE_SEVEN",
+    "pack": "Alchemy Conversion Questionnaire 2026-09-28",
+    "pack_number": null,
+    "section": "GW1",
+    "title": "The Great Work walks the Temperance ladder twice",
+    "status": "live",
+    "kind": "definition",
+    "summary": "The seven Great Work stages run once over Stages I to VII and again over VIII to XIV (Splintering V is Fermentation, Invocation IX Dissolution, Dissonance XI Conjunction, Zenith XIV Coagulation), and a Class Ø alchemist's maker side is read on grain.",
+    "verbatim": "The double seven, with a grain clause for Class Ø. Stages I-VII walk the seven once, VIII-XIV again (the Codex's own 'spiral'): Splintering V is Fermentation, Invocation IX Dissolution, Dissonance XI Conjunction, Zenith XIV Coagulation. For Class Ø the maker side is read on grain. A ruling and one line on the Temperance page.",
+    "amends": [
+      {
+        "guide": "Fracture of Worlds — The Living System",
+        "locus": "Fracture of Worlds — The Living System",
+        "operation": "adds"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "stats",
+      "magic-mechanism"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-28, Claude Code chat: ruled directly (the alchemy conversion questionnaire)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "Adds one line to the Temperance page",
+    "superseded_by": []
+  },
+  {
+    "id": "R61-8-NECROCURSICA_SEVEN_UNMOORINGS",
+    "pack": "Alchemy Conversion Questionnaire 2026-09-28",
+    "pack_number": null,
+    "section": "K8",
+    "title": "The Heresiology keeps the Seven Cacodaemonic Corruptions; the Necrocursica's seven are the Seven Unmoorings",
+    "status": "live",
+    "kind": "definition",
+    "summary": "Reserve 'Seven Cacodaemonic Corruptions' for the Heresiology and call the Necrocursica's list the Seven Unmoorings, each of which may name the Heresiology inversion that drives it.",
+    "verbatim": "Heresiology keeps it; the Necrocursica's become the Seven Unmoorings. The Necrocursica's title, chapter 3 heading and Appendix II are renamed from the text's own verb ('it unmoors them', chapter 4), and each failure may name the Heresiology inversion that drives it. Grade III and the God Hand page's 'two sevens' stay true.",
+    "amends": [
+      {
+        "guide": "The Magic System",
+        "locus": "The Magic System",
+        "operation": "adds"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "naming",
+      "codex",
+      "documents"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-28, Claude Code chat: ruled directly (the alchemy conversion questionnaire)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "",
+    "superseded_by": []
+  },
+  {
+    "id": "R61-80-FERMENTATION_SPANS_ROT_AND_FEEDING",
+    "pack": "Alchemy Conversion Questionnaire 2026-09-28",
+    "pack_number": null,
+    "section": "GW2",
+    "title": "Fermentation begins in the Rot and completes at the Feeding",
+    "status": "live",
+    "kind": "definition",
+    "summary": "Fermentation spans two Turnings, killing in the Rot and growing back in the Feeding after the Wedding, and the doctrine counts it where it completes so the bench and the Heresiology orders agree.",
+    "verbatim": "Fermentation begins in the Rot and completes at the Feeding. Fermentation spans two Turnings: the Rot kills, the Feeding (cibation, measured increments after the Wedding) grows it back. The doctrine counts the stage where it completes, so both orders agree. Same concordance table; nothing reordered.",
+    "amends": [
+      {
+        "guide": "The Magic System",
+        "locus": "The Magic System",
+        "operation": "adds"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "magic-mechanism",
+      "items"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-28, Claude Code chat: ruled directly (the alchemy conversion questionnaire)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "Alchemetrica's concordance table; nothing reordered",
+    "superseded_by": []
+  },
+  {
+    "id": "R61-81-DISTILLATION_IS_THE_WHITENING",
+    "pack": "Alchemy Conversion Questionnaire 2026-09-28",
+    "pack_number": null,
+    "section": "GW3",
+    "title": "Distillation happens as the Whitening",
+    "status": "live",
+    "kind": "definition",
+    "summary": "At the bench, Distillation is circulation in the sealed Returner for weeks, read by colour as the Whitening, so Blacking, Whitening and Reddening track Fermentation, Distillation and Coagulation.",
+    "verbatim": "The Whitening: purification inside the sealed vessel, read by colour. Distillation runs as circulation in the Returner (condensate fed back for weeks unopened) and is read as the Whitening. Blacking, Whitening, Reddening then track Fermentation, Distillation, Coagulation. The concordance pins it to a colour, not a Turning.",
+    "amends": [
+      {
+        "guide": "The Magic System",
+        "locus": "The Magic System",
+        "operation": "adds"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "magic-mechanism",
+      "items"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-28, Claude Code chat: ruled directly (the alchemy conversion questionnaire)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "Concordance pins Distillation to a colour, not a Turning",
+    "superseded_by": []
+  },
+  {
+    "id": "R61-82-TRIA_PRIMA_ARE_CRYSTAL_LAYERS",
+    "pack": "Alchemy Conversion Questionnaire 2026-09-28",
+    "pack_number": null,
+    "section": "GW4",
+    "title": "Sulphur, Salt and Mercury are the Crystal's layers",
+    "status": "live",
+    "kind": "definition",
+    "summary": "The Tria Prima map to the Crystal's layers by plane (Sulphur the Core, Salt the Shell, Mercury the Attraction Layer), making spagyria layer-by-layer medicine whose Separate-Purify-Recombine runs the Parting, Distillation and the Wedding and carries Conjunction's Rupture risk.",
+    "verbatim": "Crystal layers by plane: Sulphur Core, Salt Shell, Mercury Attraction. Spagyria becomes layer-by-layer medicine; Separate-Purify-Recombine runs the Parting, Distillation and the Wedding, so it carries Conjunction's Rupture risk. The Necrocursica's Aetheric Shell residue joins Salt; its residue triad stays Malphas's openly 'modified' reading.",
+    "amends": [
+      {
+        "guide": "The Magic System",
+        "locus": "The Magic System",
+        "operation": "adds"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "magic-mechanism",
+      "codex",
+      "items"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-28, Claude Code chat: ruled directly (the alchemy conversion questionnaire)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "The Necrocursica's Aetheric Shell residue joins Salt; its triad stays Malphas's 'modified' reading",
+    "superseded_by": []
+  },
+  {
+    "id": "R61-83-CORRUPTIONS_BY_NAME_NOT_NUMBER",
+    "pack": "Alchemy Conversion Questionnaire 2026-09-28",
+    "pack_number": null,
+    "section": "GW5",
+    "title": "Corruptions are cited by name, never by number",
+    "status": "live",
+    "kind": "mandate",
+    "summary": "Cite every corruption by name rather than ordinal, and treat Malphas's charge that Mu-jin's corruption is partly Nomenclature as his opinion of Mu-jin, not a correction of canon's Separation Perverted.",
+    "verbatim": "Names, not numbers; Appendix II names it, keeps Malphas's charge. Every ordinal becomes a name. Appendix II first calls the Codex's corruption Separation Perverted, then keeps the Nomenclature charge and the 'general scholarly Corruption' paragraph as Malphas's opinion of Mu-jin, not a correction of canon.",
+    "amends": [
+      {
+        "guide": "The Magic System",
+        "locus": "The Magic System",
+        "operation": "adds"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "documents",
+      "naming",
+      "magic-mechanism"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-28, Claude Code chat: ruled directly (the alchemy conversion questionnaire)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "",
+    "superseded_by": []
+  },
+  {
+    "id": "R61-84-FOUR_CORRUPTIONS_ONE_PARAGRAPH",
+    "pack": "Alchemy Conversion Questionnaire 2026-09-28",
+    "pack_number": null,
+    "section": "GW6",
+    "title": "Mu-jin teaches only the corruptions he has seen in himself",
+    "status": "live",
+    "kind": "definition",
+    "summary": "Volume III keeps Volume II's promise in one paragraph naming the last four corruptions by their Heresiology epithets, and Mu-jin stops there because he teaches only what he has seen in himself, leaving the Heresiology as the finished book.",
+    "verbatim": "Volume III closes the promise in one paragraph, no case studies. The four by their Heresiology epithets (Instrumental Union, Catastrophic Germination, Sanitized Truth, Tyrannous Finality) and Mu-jin's reason for stopping: he teaches only what he has seen in himself. The promise is kept; the Heresiology stays the finished book.",
+    "amends": [
+      {
+        "guide": "Character cards, NATALIE.md and the wotr-npc skill",
+        "locus": "Character cards, NATALIE.md and the wotr-npc skill",
+        "operation": "adds"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "documents",
+      "magic-mechanism"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-28, Claude Code chat: ruled directly (the alchemy conversion questionnaire)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "",
+    "superseded_by": []
+  },
+  {
+    "id": "R61-85-BROKEN_VOW_SIGNS_CORRUPTION",
+    "pack": "Alchemy Conversion Questionnaire 2026-09-28",
+    "pack_number": null,
+    "section": "GW7",
+    "title": "Each corruption shows as a broken vow, with an eighth for Non-Commitment",
+    "status": "live",
+    "kind": "definition",
+    "summary": "Each corruption reads on the sheet as its vow's Shear Break, and Mu-jin's own vow against Non-Commitment, which the Heresiology lists eighth, gives every corruption a named, findable counter while grain stays unread.",
+    "verbatim": "As C, plus an eighth vow Mu-jin writes. Volume III closes the gap with his vow against his own corruption (in the spirit of 'I will not document what I will not obstruct'), and the Heresiology lists it eighth. Every corruption gets a named, findable counter; grain stays unread.",
+    "amends": [
+      {
+        "guide": "Fracture of Worlds — The Living System",
+        "locus": "Fracture of Worlds — The Living System",
+        "operation": "adds"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "stats",
+      "character-sheet",
+      "adjudication"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-28, Claude Code chat: ruled directly (the alchemy conversion questionnaire)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "",
+    "superseded_by": []
+  },
+  {
+    "id": "R61-86-CORRECTION_MERGES_CORRESPONDENCE_DEBT",
+    "pack": "Alchemy Conversion Questionnaire 2026-09-28",
+    "pack_number": null,
+    "section": "GW8",
+    "title": "The Correction merges Correspondence and Debt",
+    "status": "live",
+    "kind": "definition",
+    "summary": "The Codex's Correction is Mu-jin's contested eastern merger of the Correspondence and Debt Positions, in which the answer comes late because it is given on credit and settled out of sight.",
+    "verbatim": "Mu-jin's eastern merger of Correspondence and Debt. The answer comes late because it is given on credit and settled out of sight. Still a contested position; the Physical Account gains one line naming it, joining the Aphorism's debt reading and the Tempus drift.",
+    "amends": [
+      {
+        "guide": "The Magic System",
+        "locus": "The Magic System",
+        "operation": "adds"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "magic-mechanism"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-28, Claude Code chat: ruled directly (the alchemy conversion questionnaire)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "The Physical Account gains one line naming it",
+    "superseded_by": []
+  },
+  {
+    "id": "R61-87-APHORISM_DOCTRINE_AND_GLOSS",
+    "pack": "Alchemy Conversion Questionnaire 2026-09-28",
+    "pack_number": null,
+    "section": "GW9",
+    "title": "The Aphorism is old doctrine; 'he summons himself' is Mu-jin's gloss",
+    "status": "live",
+    "kind": "definition",
+    "summary": "The Aphorism of Mortalis is the old debt doctrine, and 'He summons himself, arranged in their image' is Mu-jin's gloss, which every later text credits to him and prints apart from the doctrine.",
+    "verbatim": "Old debt doctrine, with Mu-jin's gloss as his own. Volume II stands as written. Volume III's line becomes 'my gloss of the Aphorism', the Papers' author credits Mu-jin's gloss, and the overview prints doctrine and gloss apart. The debt reading stays for the alchemy-cost rewrite.",
+    "amends": [
+      {
+        "guide": "The Magic System",
+        "locus": "The Magic System",
+        "operation": "adds"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "documents",
+      "magic-mechanism"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-28, Claude Code chat: ruled directly (the alchemy conversion questionnaire)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "",
+    "superseded_by": []
+  },
+  {
+    "id": "R61-88-INDEX_NAMES_TEACHER_GLOSS",
+    "pack": "Alchemy Conversion Questionnaire 2026-09-28",
+    "pack_number": null,
+    "section": "GL1",
+    "title": "Chains use Index names; Mu-jin glosses his teachers' names in prose",
+    "status": "live",
+    "kind": "mandate",
+    "summary": "Mu-jin and Malphas write glyph chains in Master Glyph Index names, Mu-jin may gloss his teachers' older name once per glyph he explains ('Ie, Perception; I was taught Insight'), and the phoneme table is labelled an older teaching register that drifted.",
+    "verbatim": "Index names in chains; Mu-jin glosses his teachers' names in prose. 'Ie, Perception; I was taught Insight', once per glyph he explains. The Book of Summons' glyph lines move to Index names; the phoneme table stays, labelled an older teaching register that drifted. Malphas writes Index names only.",
+    "amends": [
+      {
+        "guide": "The Magic System",
+        "locus": "The Magic System",
+        "operation": "adds"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "codex",
+      "naming",
+      "magic-mechanism"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-28, Claude Code chat: ruled directly (the alchemy conversion questionnaire)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "Extends R18-4-GLYPH_NAMING_CONTEXTS; the Book of Summons moves to Index names",
+    "superseded_by": []
+  },
+  {
+    "id": "R61-89-CATEGORY_ONE_SEAL_ON_TOPOLOGY",
+    "pack": "Alchemy Conversion Questionnaire 2026-09-28",
+    "pack_number": null,
+    "section": "GL2",
+    "title": "The Category One seal ends on Flux sealed by Topology on a Fixatio chain",
+    "status": "live",
+    "kind": "definition",
+    "summary": "Write Category One's last step as Flx (Flux) sealed by Tp (Topology) on a Fixatio chain, because a Wellspring names the chain and is never itself a glyph.",
+    "verbatim": "'Flx (Flux), sealed by Tp (Topology) on a Fixatio chain'. Names the checkable glyph and the law it runs under in one clause. Topology 'freezes a local outcome grid for a brief window', which suits a field meant to fade cleanly.",
+    "amends": [
+      {
+        "guide": "The Magic System",
+        "locus": "The Magic System",
+        "operation": "adds"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "magic-mechanism",
+      "codex",
+      "documents"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-28, Claude Code chat: ruled directly (the alchemy conversion questionnaire)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "",
+    "superseded_by": []
+  },
+  {
+    "id": "R61-9-WORD_FILES_ARE_CONVERSION_BASE",
+    "pack": "Alchemy Conversion Questionnaire 2026-09-28",
+    "pack_number": null,
+    "section": "K9",
+    "title": "The Word files are the conversion base; wiki pages are regenerated condensations",
+    "status": "live",
+    "kind": "procedure",
+    "summary": "Convert the five texts from the Word files in first person throughout, then rewrite the wiki Codex pages as condensations of the new text that keep their chapter subheads and residue table.",
+    "verbatim": "Word files as base; wiki condensations regenerated afterwards. Every contradiction is visible and decided here. The converted texts are first person throughout, and the wiki's Codex pages are rewritten afterwards as condensations of the new text, keeping their chapter subheads and residue table.",
+    "amends": [
+      {
+        "guide": "NATALIE.md and the wotr-write skill",
+        "locus": "NATALIE.md and the wotr-write skill",
+        "operation": "adds"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "documents",
+      "codex"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-28, Claude Code chat: ruled directly (the alchemy conversion questionnaire)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "",
+    "superseded_by": []
+  },
+  {
+    "id": "R61-90-MORTALIS_SEAL_CLOSES_ON_VOR",
+    "pack": "Alchemy Conversion Questionnaire 2026-09-28",
+    "pack_number": null,
+    "section": "GL3",
+    "title": "The Category Three seal is the Mortalis seal, closing on Vor",
+    "status": "live",
+    "kind": "definition",
+    "summary": "Category Three's seal is written as 'the Mortalis seal' closing on Vor (Return) as its end condition, so it ends when the Trace's decision is delivered, and it opens with 'ena' when spelled out.",
+    "verbatim": "Vor (Return), written as a closing condition. 'The Mortalis seal', closing on Vor: it ends when the Trace's decision is delivered, opened with 'ena' if spelled out. Explains why the Papers' echo ended 'in one breath' after eleven days.",
+    "amends": [
+      {
+        "guide": "The Magic System",
+        "locus": "The Magic System",
+        "operation": "adds"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "magic-mechanism",
+      "codex"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-28, Claude Code chat: ruled directly (the alchemy conversion questionnaire)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "",
+    "superseded_by": []
+  },
+  {
+    "id": "R61-91-MUJIN_AND_MALPHAS_DRAFTCRAFT",
+    "pack": "Alchemy Conversion Questionnaire 2026-09-28",
+    "pack_number": null,
+    "section": "GL4",
+    "title": "Kwon Mu-jin and Malphas both practise Draftcraft",
+    "status": "live",
+    "kind": "definition",
+    "summary": "Both practise Draftcraft: Mu-jin's summons are a spoken call over Draft ground and Malphas pours, so their texts talk in price, vessel, seal and ledger and their work can be traced through provenance.",
+    "verbatim": "Both Draftcraft. Both cards gain a Craft line. Mu-jin's summons are a spoken call over Draft ground; Malphas pours. Their texts write in price, vessel, seal and ledger, and their work is traceable through provenance.",
+    "amends": [
+      {
+        "guide": "Character cards, NATALIE.md and the wotr-npc skill",
+        "locus": "Character cards, NATALIE.md and the wotr-npc skill",
+        "operation": "adds"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "character-sheet",
+      "magic-mechanism",
+      "documents"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-28, Claude Code chat: ruled directly (the alchemy conversion questionnaire)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "adds a Craft line to Kwon Mu-jin's and Malphas's cards",
+    "superseded_by": []
+  },
+  {
+    "id": "R61-92-CATEGORY_THREE_POURED_AND_CUT",
+    "pack": "Alchemy Conversion Questionnaire 2026-09-28",
+    "pack_number": null,
+    "section": "GL5",
+    "title": "A Category Three body is poured and its seal written or cut",
+    "status": "live",
+    "kind": "definition",
+    "summary": "The impression-body is poured and its Mortalis seal is Runecraft, so a failed seal is an unsealed rune that ambient pressure turns into a misfiring haunting until someone finds and breaks it, and the maker's mark and the cutter's hand both lead to De Raits, who holds both crafts.",
+    "verbatim": "Poured body, Mortalis seal written or cut (Runecraft). The failed seal is an unsealed rune: an open wound that ambient pressure completes into a haunting, misfiring until found and broken. Maker's mark and cutter's hand both trace De Raits, who needs both crafts.",
+    "amends": [
+      {
+        "guide": "The Magic System",
+        "locus": "The Magic System",
+        "operation": "adds"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "magic-mechanism",
+      "codex",
+      "character-sheet"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-28, Claude Code chat: ruled directly (the alchemy conversion questionnaire)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "",
+    "superseded_by": []
+  },
+  {
+    "id": "R61-93-WILL_ENTERS_AT_AUTHORIZATION",
+    "pack": "Alchemy Conversion Questionnaire 2026-09-28",
+    "pack_number": null,
+    "section": "GL6",
+    "title": "In Category Three the practitioner enters at the Authorization",
+    "status": "live",
+    "kind": "definition",
+    "summary": "The Continuum reads the practitioner's Attraction Layer into a Category Three working at Authorization, which gives the Mirror Trace its cause at the moment of inscription, and the cure (a third party separating that Attraction Layer) does not change.",
+    "verbatim": "Authorization: the Continuum reads the practitioner into the working. One clause moves. The Mirror Trace gets a canon cause at the moment of inscription, and its cure (a third party separating the practitioner's Attraction Layer) stands unchanged.",
+    "amends": [
+      {
+        "guide": "The Magic System",
+        "locus": "The Magic System",
+        "operation": "adds"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "magic-mechanism",
+      "codex"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-28, Claude Code chat: ruled directly (the alchemy conversion questionnaire)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "",
+    "superseded_by": []
+  },
+  {
+    "id": "R61-94-GRAVEMARK_INK_SEALS_CATEGORY_THREE",
+    "pack": "Alchemy Conversion Questionnaire 2026-09-28",
+    "pack_number": null,
+    "section": "GL7",
+    "title": "The lawful Category Three seal is written in Gravemark Ink",
+    "status": "live",
+    "kind": "definition",
+    "summary": "The lawful Category Three formula names Gravemark Ink, so short or diluted ink is a material cause of Incomplete Sealing, and the ink's short lawful supply is the question Vaughaus Thom's scaling has to answer.",
+    "verbatim": "Yes: the lawful formula names Gravemark Ink. Malphas's formula ties to a priced, scarce reagent that suits a written seal. Short or diluted ink becomes a material cause of the Incomplete Sealing, and the supply gap explains where Vaughaus Thom found enough to scale.",
+    "amends": [
+      {
+        "guide": "The Master Material Ledger",
+        "locus": "The Master Material Ledger",
+        "operation": "adds"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "items",
+      "magic-mechanism",
+      "codex"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-28, Claude Code chat: ruled directly (the alchemy conversion questionnaire)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "",
+    "superseded_by": []
+  },
+  {
+    "id": "R61-95-AETHERIC_BLEED_IS_MECHANICA",
+    "pack": "Alchemy Conversion Questionnaire 2026-09-28",
+    "pack_number": null,
+    "section": "GL8",
+    "title": "The Aetheric Bleed is real Mechanica, filed at Grade V",
+    "status": "live",
+    "kind": "definition",
+    "summary": "The Aetheric Bleed is Extraction from a dead donor and never 'legitimate' work: the practitioner can be treated over months, the worked ground never heals, and it is the one Mortalis failure that becomes a breach at the scale of a civilization.",
+    "verbatim": "Real Mechanica: Extraction from a dead donor, filed at Grade V. Drop 'legitimate'. The practitioner can be treated over months; the worked ground never heals. The one Mortalis failure that crosses into civilizational breach.",
+    "amends": [
+      {
+        "guide": "The Magic System",
+        "locus": "The Magic System",
+        "operation": "adds"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "magic-mechanism",
+      "codex"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-28, Claude Code chat: ruled directly (the alchemy conversion questionnaire)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "",
+    "superseded_by": []
+  },
+  {
+    "id": "R61-96-MORTALIS_HARMONIZATION_BY_OPERATOR",
+    "pack": "Alchemy Conversion Questionnaire 2026-09-28",
+    "pack_number": null,
+    "section": "GL9",
+    "title": "Paracelsus and Gillus hold Mortalis harmonization; Thom outruns his",
+    "status": "live",
+    "kind": "definition",
+    "summary": "Paracelsus and Gillus De Raits are lawfully harmonized for Mortalis and do lawful work well, while Vaughaus Thom's regional scaling tips into Mechanica, which gives the Aetheric Bleed its example and the Papers a concrete breach at Genesio.",
+    "verbatim": "Paracelsus and Gillus harmonized; Thom outruns his at scale. The commission is lawful work done well. Thom's regional scaling tips into Mechanica, giving the Aetheric Bleed its example and the Papers a concrete breach at Genesio.",
+    "amends": [
+      {
+        "guide": "Character cards, NATALIE.md and the wotr-npc skill",
+        "locus": "Character cards, NATALIE.md and the wotr-npc skill",
+        "operation": "adds"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "character-sheet",
+      "magic-mechanism",
+      "codex"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-28, Claude Code chat: ruled directly (the alchemy conversion questionnaire)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "",
+    "superseded_by": []
+  },
+  {
+    "id": "R61-97-PARUNIC_ECHO_IS_SIGNATURE",
+    "pack": "Alchemy Conversion Questionnaire 2026-09-28",
+    "pack_number": null,
+    "section": "GL10",
+    "title": "The Parunic Echo is the Essence Signature carried in residue",
+    "status": "live",
+    "kind": "definition",
+    "summary": "'Parunic Echo' is the trade's word for a practitioner's Essence Signature held in Aetheric Residue, readable from Stage IV, and the word 'glyph-trace' is retired.",
+    "verbatim": "Keep the name; it is the Essence Signature in the Residue. 'Parunic Echo' stays as the trade's word for a practitioner's Essence Signature carried in Aetheric Residue, legible from Stage IV. 'Glyph-trace' goes. Logged as a naming-only extension.",
+    "amends": [
+      {
+        "guide": "Naming guide and the wotr-write skill",
+        "locus": "Naming guide and the wotr-write skill",
+        "operation": "adds"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "naming",
+      "magic-mechanism",
+      "codex"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-28, Claude Code chat: ruled directly (the alchemy conversion questionnaire)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "naming-only extension of the Essence Signature; retires 'glyph-trace'",
+    "superseded_by": []
+  },
+  {
+    "id": "R61-98-JABIR_AMULET_OLD_HIGH_RUNIC",
+    "pack": "Alchemy Conversion Questionnaire 2026-09-28",
+    "pack_number": null,
+    "section": "GL11",
+    "title": "Jabir's amulet is cut in very old Old High Runic that cannot be dated",
+    "status": "live",
+    "kind": "definition",
+    "summary": "The text on the copper amulet is readable Old High Runic of an age no one can place: Mu-jin reads it at once but cannot date it, and the words Jabir recited are his own gloss of the working cut into it.",
+    "verbatim": "Very old Old High Runic, readable but undatable. The overview's 'decipher' becomes 'date'. Jabir's recited words are his gloss of the working cut in the copper. Mu-jin reads it at once and cannot place its age.",
+    "amends": [
+      {
+        "guide": "Character cards, NATALIE.md and the wotr-npc skill",
+        "locus": "Character cards, NATALIE.md and the wotr-npc skill",
+        "operation": "adds"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "items",
+      "character-sheet",
+      "codex"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-28, Claude Code chat: ruled directly (the alchemy conversion questionnaire)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "",
+    "superseded_by": []
+  },
+  {
+    "id": "R61-99-DE_RAITS_REGISTERED_MARK",
+    "pack": "Alchemy Conversion Questionnaire 2026-09-28",
+    "pack_number": null,
+    "section": "GL12",
+    "title": "De Raits's seal carries his registered craft mark",
+    "status": "live",
+    "kind": "definition",
+    "summary": "The sign on Madeleine Ault's wax seal is Gillus De Raits's registered mark (a maker's mark when he pours, an Engraver's mark when he cuts), and the same mark is on his impression-bodies, so an investigator can match the seal to the bodies.",
+    "verbatim": "His registered craft mark, the one struck on his work. 'Glyph' becomes 'mark': a maker's mark if he pours, an Engraver's mark if he cuts. The same mark sits on his impression-bodies, so the investigator can match the seal to the bodies.",
+    "amends": [
+      {
+        "guide": "Character cards, NATALIE.md and the wotr-npc skill",
+        "locus": "Character cards, NATALIE.md and the wotr-npc skill",
+        "operation": "adds"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "character-sheet",
+      "codex",
+      "documents"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-28, Claude Code chat: ruled directly (the alchemy conversion questionnaire)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "",
+    "superseded_by": []
+  },
+  {
     "id": "R1-1-BLACK_AGENT_ASSIGNED",
     "pack": "Pack One",
     "pack_number": 1,
@@ -30949,7 +35074,7 @@
       "file": "WOTR_Companion_Guide_Amendments_Pack_Eighteen.md",
       "lines": "73"
     },
-    "notes": null,
+    "notes": "Amended in part 2026-09-28 (R61-6-CALCINATION_DISTILLATION_BENCH_ONLY, R61-5-SUBLIMATIO_IS_SUBLIMATION): Calcination and Distillation are bench operations, not Wellsprings, and Sublimatio is sublimation while Sublimare is distillation. The binding of workings to Alchemetrica's entries stands.",
     "superseded_by": []
   },
   {

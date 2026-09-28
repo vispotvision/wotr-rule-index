@@ -2259,3 +2259,17 @@ The calendar follow-up (3 answers), Claude Code chat.
 3. The count's three eras keep their names: the Voyager Era (000 to 070 IC), the Long Reckoning (070 to 645 IC) and the Withering Era (645 IC to now). The Withering Era runs on as the present era, and the Imperial Age rises inside it from 690 IC as an overlapping age.
 
 Context: Settles how C-112 (alchemy-conversion answer 131) is applied to the Concordance of Ages and the IC-dated pages.
+
+## 2026-09-28 — alftian-vol1-2026-09-28
+
+Isaac approved the rebuilt Alftian Codex, Volume the First, with no changes. Ratified with it:
+1. The Alftian Codex, Volume the First, is Kwon Mu-jin's memoir, deposited in 696 IC, and stands as published. What he states from a read is canon; what he states in error (that nothing that has been is erased) stays his error.
+2. Mu-jin's own title for the book is Gameung-nok, glossed on the page only as his house's word for correspondence.
+3. Mu-jin crosses into Refraction, Stage VII, in the king's hall, and the first seed of his Domain works as nucleation under Coagulatio.
+4. Volume I's physical descriptions of Malphas living, Furveus, Neros, Penn, Venur, Draycott, Strom, Asclepius and the king are canon.
+5. Venur's amulet is a Charm cut in Old High Runic, chained [Ma] Recall, [Ir] Continuum, [Lei] Binding; its maker paid once and the wearer pays nothing.
+6. Castlefall's ground reads Rill. The hall under Genesio is a Spirit-type site on the Riptide rung.
+7. Weight-bred is a drake-hunters' folk belief: a drake hatched the year the Weight returns to its station is the worst of its kind. Penn Ralfsohn's father Ralf hunted drakes under a guild licence and did not come back from one.
+8. Maelor's edict, "Nothing is lost, only waiting to be remembered", is cut over the door of the Genesio Archivum.
+
+Context: Isaac said 'go' in Claude Code chat on 2026-09-28 after reading the Volume I draft and its list of invented items; no swaps.

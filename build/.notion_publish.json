@@ -959,5 +959,10 @@
     "page_id": "3e958200-eb22-81f7-a813-c1b36ecbce30",
     "title": "The Leveller",
     "hash": "2eb5e2db5b0b5c62"
+  },
+  "scenes/mu_jin_the_readers_oath.md": {
+    "page_id": "3e958200-eb22-81bb-bb22-eb543137c528",
+    "title": "Mu-jin: The Reader's Oath",
+    "hash": "025e9121a15404cf"
   }
 }

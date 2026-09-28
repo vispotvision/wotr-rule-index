@@ -150,3 +150,14 @@
   last_seen: Registry (The Dispensary)
   voice: Wide nib, round broad hand, blotted at each stroke's start.
   last_updated: '2026-09-28'
+- name: Hob and Dunstan Pryor
+  thread: Mu-jin
+  want: 'Hob: to say the rest about Cullen Pit, and doesn''t.'
+  refusal_line: null
+  knows:
+  - Their father was lost at Cullen Pit when the seam 'shifted shut'
+  lied_about: []
+  last_seen: Left the dispensary after the first lecture (After the Lecture)
+  voice: 'Hob: a voice like a coal chute, apologises for asking. Dunstan: watches Hob for permission to
+    speak.'
+  last_updated: '2026-09-28'

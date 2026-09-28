@@ -26,3 +26,5 @@
 **Proctor Wenna Crale** · wants: The night register quiet. · refuses: 'Last bell's the last bell.' Nothing opens after it, for anyone. · last seen: East corridor, an hour before last bell (After the Lecture)
   - knows: Let the Visitation runner in before last bell; Looked at the dry flags in the dispensary
 **Registrar Anselm Pike** · wants: A clean roll. · refuses: Won't amend an entry he didn't make. · last seen: Registry (The Dispensary)
+**Hob and Dunstan Pryor** · wants: Hob: to say the rest about Cullen Pit, and doesn't. · refuses: — · last seen: Left the dispensary after the first lecture (After the Lecture)
+  - knows: Their father was lost at Cullen Pit when the seam 'shifted shut'

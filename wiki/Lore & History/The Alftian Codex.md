@@ -4,7 +4,7 @@ notion_id: "3b258200-eb22-81f9-8cb6-d853b21043b5"
 notion_url: "https://app.notion.com/p/The-Alftian-Codex-3b258200eb2281f98cb6d853b21043b5"
 section: "Lore & History"
 tags: []
-last_edited: "2026-09-28T12:27:00.000Z"
+last_edited: "2026-09-28T17:07:00.000Z"
 verification: "unverified"
 ---
 
@@ -88,3 +88,4 @@ flowchart TD
 - [Volume the Second](The Alftian Codex/Volume the Second.md)
 - [Volume the Third](The Alftian Codex/Volume the Third.md)
 - [The Farrant Papers](The Alftian Codex/The Farrant Papers.md)
+- [The Necrocursica](The Alftian Codex/The Necrocursica.md)

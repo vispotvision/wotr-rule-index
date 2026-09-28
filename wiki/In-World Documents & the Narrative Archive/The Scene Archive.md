@@ -4,7 +4,7 @@ notion_id: "3b258200-eb22-8132-a010-ec6fd17e718b"
 notion_url: "https://app.notion.com/p/The-Scene-Archive-3b258200eb228132a010ec6fd17e718b"
 section: "In-World Documents & the Narrative Archive"
 tags: []
-last_edited: "2026-09-28T13:55:00.000Z"
+last_edited: "2026-09-28T16:28:00.000Z"
 verification: null
 ---
 
@@ -244,3 +244,7 @@ verification: null
 - [[Wystan's Briefing — Aetherion Arena]]
 - [[Shiori's Findings — Aetherion Arena]]
 - [[Malphas on the Line — The Train East]]
+- [[The Leveller]]
+- [[Mu-jin: The Reader's Oath]]
+- [[Mu-jin: The Old Colleague]]
+- [[Mu-jin: The Card]]

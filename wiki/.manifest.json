@@ -1419,7 +1419,7 @@
   },
   "3b258200-eb22-8132-a010-ec6fd17e718b": {
     "rel": "In-World Documents & the Narrative Archive/The Scene Archive.md",
-    "edited": "2026-09-28T13:55:00.000Z",
+    "edited": "2026-09-28T16:28:00.000Z",
     "title": "The Scene Archive",
     "private": true
   },
@@ -1454,7 +1454,7 @@
   },
   "3b258200-eb22-810f-833b-eb3cadadfdc6": {
     "rel": "The Alftian Codex/Volume the Third.md",
-    "edited": "2026-08-04T00:10:00.000Z",
+    "edited": "2026-09-28T16:06:00.000Z",
     "title": "Volume the Third"
   },
   "3b258200-eb22-8143-85ed-ec8e7384b529": {
@@ -1469,7 +1469,7 @@
   },
   "3b258200-eb22-81f9-8cb6-d853b21043b5": {
     "rel": "Lore & History/The Alftian Codex.md",
-    "edited": "2026-09-28T12:27:00.000Z",
+    "edited": "2026-09-28T17:07:00.000Z",
     "title": "The Alftian Codex"
   },
   "3b258200-eb22-810f-91bd-d8e1963f6d05": {
@@ -1629,7 +1629,7 @@
   },
   "3b158200-eb22-8140-a871-e823c3f36d89": {
     "rel": "Materials, Alchemy & Trade/Alchemetrica.md",
-    "edited": "2026-09-28T08:54:00.000Z",
+    "edited": "2026-09-28T17:03:00.000Z",
     "title": "Alchemetrica"
   },
   "3b158200-eb22-8188-a6bd-ead4d9acd561": {
@@ -1664,7 +1664,7 @@
   },
   "3b158200-eb22-81a2-935a-eb6e78c442c2": {
     "rel": "Materials/Materials, Alchemy & Trade.md",
-    "edited": "2026-09-10T10:12:00.000Z",
+    "edited": "2026-09-28T14:55:00.000Z",
     "title": "Materials, Alchemy & Trade"
   },
   "3b158200-eb22-8185-978c-d301ac7be252": {
@@ -3852,6 +3852,22 @@
     "rel": "Volume I — Character Cards/Orin Farrant.md",
     "edited": "2026-09-28T12:28:00.000Z",
     "title": "Orin Farrant",
+    "private": true
+  },
+  "3e958200-eb22-8112-9e70-d4551eb3019f": {
+    "rel": "Materials, Alchemy & Trade/The Real Alchemy.md",
+    "edited": "2026-09-28T14:55:00.000Z",
+    "title": "The Real Alchemy"
+  },
+  "3e958200-eb22-815f-ad64-f1a4d4f45661": {
+    "rel": "The Alftian Codex/The Necrocursica.md",
+    "edited": "2026-09-28T17:07:00.000Z",
+    "title": "The Necrocursica"
+  },
+  "3e958200-eb22-81e9-bec4-dbd04477953c": {
+    "rel": "The Table — Running Pieces/State of Play — Rovhen Talvasciel Aetherion Academy.md",
+    "edited": "2026-09-28T16:24:00.000Z",
+    "title": "State of Play — Rovhen Talvasciel / Aetherion Academy",
     "private": true
   }
 }

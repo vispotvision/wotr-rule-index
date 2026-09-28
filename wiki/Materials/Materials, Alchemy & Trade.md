@@ -4,7 +4,7 @@ notion_id: "3b158200-eb22-81a2-935a-eb6e78c442c2"
 notion_url: "https://app.notion.com/p/Materials-Alchemy-Trade-3b158200eb2281a2935aeb6e78c442c2"
 section: "Materials"
 tags: ["Materials", "Alchemy", "Trade & Economy", "Reference Table"]
-last_edited: "2026-09-10T10:12:00.000Z"
+last_edited: "2026-09-28T14:55:00.000Z"
 verification: "unverified"
 ---
 
@@ -114,3 +114,4 @@ Value, Coin and Trade
 > Everything is built on a counted seed, which is also the flaw, since the Accord's grain is a Western seed. Two parallel systems: **market weight** at sixteen ounces for bulk and **assay weight** at twelve for anything the Bench touches, with the assay pound scaled so a bead reads directly as fineness. Weights carry verification stamps and a false one is **struck** with a six-point mark across them, and struck weights still in circulation are the most reliable indicator of how far the Accord's reach actually extends.
 >
 > Two things worth having in any market scene. A **cased** weight is a bronze shell filled with lead and gives a dull note instead of ringing, so every inspector taps before he does anything else. And the whole grain trade turns on one word, **level or heaped**, which makes the strike-board the most political object in the market.
+- [The Real Alchemy](Materials, Alchemy & Trade/The Real Alchemy.md)

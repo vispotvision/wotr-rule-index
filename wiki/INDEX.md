@@ -1,6 +1,6 @@
 # War of the Realms — Wiki mirror
 
-674 pages, mirrored from Notion by build/notion_export.py. Read-only here; edit in Notion and re-run.
+677 pages, mirrored from Notion by build/notion_export.py. Read-only here; edit in Notion and re-run.
 
 ## Aberrations (1)
 
@@ -141,13 +141,14 @@
 
 - [Materials, Alchemy & Trade](Materials/Materials,%20Alchemy%20&%20Trade.md)
 
-## Materials, Alchemy & Trade (8)
+## Materials, Alchemy & Trade (9)
 
 - [Alchemetrica](Materials,%20Alchemy%20&%20Trade/Alchemetrica.md)
 - [Hide, Horn and Bone](Materials,%20Alchemy%20&%20Trade/Hide,%20Horn%20and%20Bone.md)
 - [The Apparatus of the Age — Equipment and Material Culture](Materials,%20Alchemy%20&%20Trade/The%20Apparatus%20of%20the%20Age%20—%20Equipment%20and%20Material%20Culture.md)
 - [The Heresiology of Alchemy](Materials,%20Alchemy%20&%20Trade/The%20Heresiology%20of%20Alchemy.md)
 - [The Master Material Ledger](Materials,%20Alchemy%20&%20Trade/The%20Master%20Material%20Ledger.md)
+- [The Real Alchemy](Materials,%20Alchemy%20&%20Trade/The%20Real%20Alchemy.md)
 - [The Standing Index](Materials,%20Alchemy%20&%20Trade/The%20Standing%20Index.md)
 - [The Works and Days — Occupations, Trades and Technology](Materials,%20Alchemy%20&%20Trade/The%20Works%20and%20Days%20—%20Occupations,%20Trades%20and%20Technology.md)
 - [Weight, Measure and the Standard](Materials,%20Alchemy%20&%20Trade/Weight,%20Measure%20and%20the%20Standard.md)
@@ -274,9 +275,10 @@
 - [Winter Rend](Techniques/Winter%20Rend.md)
 - [World Echelon](Techniques/World%20Echelon.md)
 
-## The Alftian Codex (4)
+## The Alftian Codex (5)
 
 - [The Farrant Papers](The%20Alftian%20Codex/The%20Farrant%20Papers.md)
+- [The Necrocursica](The%20Alftian%20Codex/The%20Necrocursica.md)
 - [Volume the First](The%20Alftian%20Codex/Volume%20the%20First.md)
 - [Volume the Second](The%20Alftian%20Codex/Volume%20the%20Second.md)
 - [Volume the Third](The%20Alftian%20Codex/Volume%20the%20Third.md)
@@ -505,7 +507,7 @@
 - [The Infinite Summoning Arts](The%20Spirit%20Summoning%20Arts/The%20Infinite%20Summoning%20Arts.md)
 - [The Twelve Stages of Spirit Infusion](The%20Spirit%20Summoning%20Arts/The%20Twelve%20Stages%20of%20Spirit%20Infusion.md)
 
-## The Table — Running Pieces (11)
+## The Table — Running Pieces (12)
 
 - [Fronts](The%20Table%20—%20Running%20Pieces/Fronts.md)
 - [Fronts, as clocks](The%20Table%20—%20Running%20Pieces/Fronts,%20as%20clocks.md)
@@ -515,6 +517,7 @@
 - [State of Play — Ilthára Korvaeth / The New World](The%20Table%20—%20Running%20Pieces/State%20of%20Play%20—%20Ilthára%20Korvaeth%20The%20New%20World.md)
 - [State of Play — Kwon Mu-jin / Aetherion Academy](The%20Table%20—%20Running%20Pieces/State%20of%20Play%20—%20Kwon%20Mu-jin%20Aetherion%20Academy.md)
 - [State of Play — Kwon Mu-jin / Hon-guk](The%20Table%20—%20Running%20Pieces/State%20of%20Play%20—%20Kwon%20Mu-jin%20Hon-guk.md)
+- [State of Play — Rovhen Talvasciel / Aetherion Academy](The%20Table%20—%20Running%20Pieces/State%20of%20Play%20—%20Rovhen%20Talvasciel%20Aetherion%20Academy.md)
 - [State of Play — Sodoku Moto / Kharven](The%20Table%20—%20Running%20Pieces/State%20of%20Play%20—%20Sodoku%20Moto%20Kharven.md)
 - [The Ledger](The%20Table%20—%20Running%20Pieces/The%20Ledger.md)
 - [The Ledger, structured](The%20Table%20—%20Running%20Pieces/The%20Ledger,%20structured.md)

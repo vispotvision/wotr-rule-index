@@ -202,3 +202,14 @@ The Accord's muster camps school war orphans to 'camp standard': benches in a ho
 *Why:* Rovhen's origin; enter in the Accord Standing Inventory if ratified.
 
 *Session:* Aetherion / Rovhen, 2026-09-27
+
+## 2026-09-28 — [Ir] Continuum takes Fulguria / Electromagnetism
+
+**Status:** proposed
+**applies_to:** codex, magic-design
+
+The Master Codex row for [Ir] Continuum ('Preserves causal traceability across time; keeps the record continuous') has no Wellspring, Family or Physics Domain. Proposed: Family Fulguria, Physics Domain Electromagnetism, working as sympathetic resonance between coupled oscillators (a pitch of Essence held in ink rings with the bearer's handling). Wellspring left open.
+
+*Why:* Needed for Rovhen's Tuned Signature; Fulguria answers to charge and resonance.
+
+*Session:* Aetherion / Rovhen, 2026-09-27

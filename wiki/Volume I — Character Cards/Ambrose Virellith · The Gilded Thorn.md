@@ -4,7 +4,7 @@ notion_id: "3bd58200-eb22-81cd-9cea-f61185efd050"
 notion_url: "https://app.notion.com/p/Ambrose-Virellith-The-Gilded-Thorn-3bd58200eb2281cd9ceaf61185efd050"
 section: "Volume I — Character Cards"
 tags: []
-last_edited: "2026-09-26T08:37:00.000Z"
+last_edited: "2026-09-28T08:55:00.000Z"
 verification: null
 ---
 
@@ -12,7 +12,7 @@ verification: null
 
 **Say it** · AM-brohz vih-REL-ith
 > *"I do not mourn who I was. I mourn that they made me forget who I could've been."*
-> **Migrated with all content preserved.** *"Lacrimara / Velure Aetheris / Residual Belladonna"* were not Essence types. **"Aether Class: Bound-turned-Independent Relic"** is not among the eight. **The path "Perfume → Distill → Thornbind → Wither"** is not a Wellspring progression, though *Distillation* alone is a genuine current.
+> **Migrated with all content preserved.** *"Lacrimara / Velure Aetheris / Residual Belladonna"* were not Essence types. **"Aether Class: Bound-turned-Independent Relic"** is not among the eight. **The path "Perfume → Distill → Thornbind → Wither"** is not a Wellspring progression, though *Distill* points at a genuine current, *Sublimare*, the one every distillation draws on.
 
 ---
 
@@ -49,7 +49,7 @@ Over time the essence bindings weakened. **Ambrose fled during the burning of th
 ## III · Wellspring Harmonizations
 
 **Catharsis** · Caloria. Pale rose-gold. Release and purgation — **the mechanism under *Beauty Meant to Break.** Its doctrine: nothing is purified by being merely emptied.*
-**Distillation** · Isolation and purification, separating true signal from noise. **The only element of the legacy path that was a real current**, and appropriate: Ambrose was distilled into a purpose.
+**Sublimare** · Vectoria. Fractional distillation, separating true signal from noise. **The only element of the legacy path that pointed at a real current**, and appropriate: Ambrose was distilled into a purpose.
 **Mirithane** · Limina. Specular reflection — **a true mirror adds nothing, and fidelity is defined by the absence of introduced distortion.** *This is the Lacebind Curse: the harmer is shown their own act, undistorted, and cannot stop looking.*
 **Anima Spirare** · Vitalia. Bright arterial red. The living blade.
 

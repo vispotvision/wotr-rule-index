@@ -4,7 +4,7 @@ notion_id: "3b158200-eb22-81c3-a942-e7f2e6ae29b5"
 notion_url: "https://app.notion.com/p/Kami-no-Kobushi-The-God-Fist-3b158200eb2281c3a942e7f2e6ae29b5"
 section: "The Disciplines"
 tags: []
-last_edited: "2026-09-26T10:18:00.000Z"
+last_edited: "2026-09-28T08:56:00.000Z"
 verification: null
 ---
 
@@ -81,7 +81,7 @@ The Purity Fist treats the body as a sacred structure and every exchange as an a
 
 **Work** · Jikan no Shigoto, the Work of Temporality
 **Type** · Sequence-Fixator · *Anchor the next instant and make it the only instant available.*
-**Wellsprings** · **Fixatio** locks the practitioner's position inside the sequence of events, declaring their current instant the lawfully established present · **Monlithion** ratifies the blow as a causal sentence that the timeline must process before moving forward · **Cymorath** governs temporal transition and sequence shift, reading the gap between instants · **Anamnesis** reads the opponent's combat history as a causal chain · **Transmutatio** alters the sequence weight of a strike, making a slow blow arrive as though it always arrived first.
+**Wellsprings** · **Fixatio** locks the practitioner's position inside the sequence of events, declaring their current instant the lawfully established present · **Monolithion** ratifies the blow as a causal sentence that the timeline must process before moving forward · **Cymorath** governs temporal transition and sequence shift, reading the gap between instants · **Anamnesis** reads the opponent's combat history as a causal chain · **Transmutatio** alters the sequence weight of a strike, making a slow blow arrive as though it always arrived first.
 The Sequence Fist does not move faster than its opponents. **It moves more correctly.** Every blow is delivered at the moment the sequence ratifies it as already having occurred, and the opponent's timeline must process the strike before it can do anything else. It is the art of making the present moment a door that only opens inward, and the practitioner is already on the other side.
 **Core principle** · Sequence is a coordinate. Causality is a ledger, and Anamnesis does not predict — it identifies which earlier decision made *this moment* the only possible outcome, and strikes that outcome. And **slowness is a weapon**: Transmutatio resequences a blow's temporal weight, so the overhead that begins slowly arrives as though it was always the first thing that happened, because inside the locked sequence, it was.
 - ****In practice****
@@ -89,7 +89,7 @@ The Sequence Fist does not move faster than its opponents. **It moves more corre
 
   Against a temporal-acceleration fighter, Fixatio simply refuses the acceleration's claim to the next instant. The fighter moves fast inside their own sequence and finds the practitioner's coordinate has already filled the space they were accelerating into.
 
-  Against anyone relying on reaction speed, the practitioner does not need to be faster. Monlithion ratifies the blow as causal sentence, and the opponent's nervous system must process it as *already having happened* before it can respond.
+  Against anyone relying on reaction speed, the practitioner does not need to be faster. Monolithion ratifies the blow as causal sentence, and the opponent's nervous system must process it as *already having happened* before it can respond.
 > **Philosophical tension.** Recursion — locking a single instant so thoroughly that the sequence cannot advance at all, trapping both practitioner and opponent in a frozen causal loop. Lawful Temporality orders sequence. Obsession Force Temporality **imprisons everyone in one wound.**
 
 ---
@@ -132,7 +132,7 @@ The Scales Fist finds the point in every fight where two forces are pulling agai
 
 **Work** · Zentai-sei no Hataraki, the Work of Totality
 **Type** · Sovereign-Fixator · *Anchor all six Works simultaneously and let the Plane itself deliver the verdict.*
-**Wellsprings** · **Fixatio** is the unifying spine, seating the practitioner as a load-bearing coordinate of the Plane itself · **Monlithion** ratifies the blow as a sovereign sentence drawing from all subordinate Works at once · **Coagulatio** gathers the cumulative mass of every active Work-layer into the single descent · **Judicium** governs the judicial integration of all six prior doctrines into one ranked, irrefutable verdict · **Materia Primordia** calls on the precondition of all reality's coherence to ratify the blow as a law that predates the opponent.
+**Wellsprings** · **Fixatio** is the unifying spine, seating the practitioner as a load-bearing coordinate of the Plane itself · **Monolithion** ratifies the blow as a sovereign sentence drawing from all subordinate Works at once · **Coagulatio** gathers the cumulative mass of every active Work-layer into the single descent · **Judicium** governs the judicial integration of all six prior doctrines into one ranked, irrefutable verdict · **Materia Primordia** calls on the precondition of all reality's coherence to ratify the blow as a law that predates the opponent.
 > The Total Fist is **not a seventh style.** It is what happens when a practitioner has so thoroughly internalized all six prior doctrines that they no longer choose between them. All six Works run simultaneously, each performing its labour in the same instant, and the resulting blow is not a martial technique but a statement of fact delivered by fate itself.
 >
 > **It cannot be taught as a first discipline. It can only be arrived at.**

@@ -4,7 +4,7 @@ notion_id: "3bc58200-eb22-815a-b7e8-d85b69537b18"
 notion_url: "https://app.notion.com/p/The-Counted-Speech-A-Speaker-s-Grammar-of-Parun-3bc58200eb22815ab7e8d85b69537b18"
 section: "The Descent of Parun — The Fourteen Hands"
 tags: ["Magic System", "Peoples", "Reference Table"]
-last_edited: "2026-09-10T11:21:00.000Z"
+last_edited: "2026-09-28T08:24:00.000Z"
 verification: "unverified"
 ---
 
@@ -110,6 +110,7 @@ Add the values of every sound in all four words. **A lawful sentence comes to si
 > **A Warrant that overstates standing does not fail loudly. It seals** — and **the difference between the standing claimed and the standing held is deducted from the speaker at the moment the Seal closes.**
 >
 > *Practitioners who habitually over-warrant are identifiable across a room by their hands.*
+That deduction governs a Warrant spoken in Parun. Vocatia summons by recognition and keeps its own law: a summoner who claims a standing he lacks gets nothing.
 
 ---
 

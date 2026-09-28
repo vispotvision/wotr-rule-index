@@ -4,7 +4,7 @@ notion_id: "3b158200-eb22-8125-b480-d3d9b1cfe547"
 notion_url: "https://app.notion.com/p/The-Concord-Gate-Network-3b158200eb228125b480d3d9b1cfe547"
 section: "The Guild Accord"
 tags: []
-last_edited: "2026-09-26T14:12:00.000Z"
+last_edited: "2026-09-28T08:19:00.000Z"
 verification: "unverified"
 ---
 
@@ -97,4 +97,4 @@ In times of large-scale conflict, Gates become **both weapon and vulnerability.*
 Defensive techniques include **Aether Sink Fields**, which absorb Gate resonance, and **Temporal Locks**, which slow entry and create false exit points.
 *Legends speak of Gatewalkers — rare Paragon operatives capable of stepping between realms without any physical Gate, walking the Lattice Lines themselves.*
 > *"Every journey bends the law. Every return reaffirms it. The Lattice is not a road — it is a memory of where you chose to go."*
-> — Engraved upon the first Gate of Eresse, Imperial Year 003, Voyager Era
+> — Engraved upon the first Gate of Eresse, Year 003 IC, Voyager Era

@@ -4,7 +4,7 @@ notion_id: "3d958200-eb22-81bf-b701-cc96aaffd81a"
 notion_url: "https://app.notion.com/p/Lyssara-Veyn-The-Black-Chrysalis-3d958200eb2281bfb701cc96aaffd81a"
 section: "Volume I — Character Cards"
 tags: []
-last_edited: "2026-09-27T04:16:00.000Z"
+last_edited: "2026-09-28T08:19:00.000Z"
 verification: null
 ---
 
@@ -23,7 +23,7 @@ verification: null
 **Name** · Dr. Lyssara Veyn. **Called** · The Black Chrysalis.
 **Role** · **Senior Necrosophist, Mortalis Branch. Scholar of the Wellspring of Mortalis. Physician to the failed Threshold.**
 **Type** · Mortal. **Realm of origin** · Eresse, New World. *Human, born in an elven polity; Eressean mourning dress is a fact about where she grew up and nothing else.*
-**Era** · Withering Era, Imperial Year 746 to present.
+**Era** · Withering Era, Year 746 IC to present.
 **Gloss rights** · **Yes.** *She explains her own work to anyone who will sit still, and to several who cannot.*
 
 #### Affiliation

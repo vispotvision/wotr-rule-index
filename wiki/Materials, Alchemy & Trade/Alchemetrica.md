@@ -4,7 +4,7 @@ notion_id: "3b158200-eb22-8140-a871-e823c3f36d89"
 notion_url: "https://app.notion.com/p/Alchemetrica-3b158200eb228140a871e823c3f36d89"
 section: "Materials, Alchemy & Trade"
 tags: ["Alchemy", "Materials"]
-last_edited: "2026-09-26T14:13:00.000Z"
+last_edited: "2026-09-28T08:54:00.000Z"
 verification: "unverified"
 ---
 
@@ -20,19 +20,18 @@ verification: "unverified"
 
 ## What Alchemy Is
 
-The sixty Wellsprings are not reservoirs and are not batteries. Each is a living process, a law of transformation encoded into the Continuum since Paru's First Speech — and **eight of them are simultaneously Wellspring, cosmic principle, and alchemical operation.**
+The sixty Wellsprings are not reservoirs and are not batteries. Each is a living process, a law of transformation encoded into the Continuum since Paru's First Speech — and **six of them are simultaneously Wellspring, cosmic principle, and alchemical operation.**
+**That correspondence is not a coincidence and it is not a metaphor the trade adopted for convenience. It is the architecture.** An alchemist working a Coagulation Draft is not performing a procedure that *resembles* the Wellspring. **They are channelling it**, through a material medium rather than through their own resonance.
+**Calcination and Distillation stand outside the six.** They are bench operations, worked at the fire and the still, and neither is a Wellspring: no soul harmonises with either. Each draws on a current all the same. A calcination runs on **Cinerion**, the Ash Veil, and a distillation runs on **Sublimare**, the Rising Breath.
 | Wellspring | Operation |
 |---|---|
-| **Calcination** | Burns away false structure |
 | **Dissolution** | Unravels cohesion into base frequencies |
 | **Coagulatio** | Binds and makes permanent |
-| **Distillation** | Separates and purifies into isolated truth |
-| **Sublimare** | Elevates **without passing through the states between** |
+| **Sublimatio** | Elevates **without passing through the states between** |
 | **Transmutatio** | Reconfigures identity under catalytic force |
 | **Fixatio** | Anchors and seals |
 | **Materia Primordia** | Crystallises Essence into permanent mineral form |
 
-**That correspondence is not a coincidence and it is not a metaphor the trade adopted for convenience. It is the architecture.** An alchemist working a Distillation Draft is not performing a procedure that *resembles* the Wellspring. **They are channelling it**, through a material medium rather than through their own resonance.
 > **The crucible is a Soul Crystal analogue for inanimate matter.**
 >
 > That is the whole trick of the discipline, stated plainly, **and it took four centuries to state plainly.**
@@ -63,7 +62,7 @@ What the alchemist does is arrange conditions and issue an authorisation so that
 > *The best alchemists are not the best theorists. The formula and the practitioner are two halves of one invocation, and half of that invocation cannot be studied into existence*
 > **THE PURE ALCHEMIST**
 >
-> No Soul Crystal, **and works anyway.** By chemistry, by inscription, and by absolute exactness — **no communion to fall back on and no margin to waste.**
+> A Crystal that never woke, **and works anyway.** By chemistry, by inscription, and by absolute exactness, **with no communion to fall back on and no margin to waste.**
 >
 > What they build instead, over decades of reagent exposure, is **a distributed catalyst network**: conditioned tissue that stores and reacts with Essence, conduction channels formed by long habituation, and in rare cases **induced Parunic apertures.**
 >
@@ -99,8 +98,8 @@ What the alchemist does is arrange conditions and issue an authorisation so that
 | Operation | Law | Physical register | Failure mode |
 |---|---|---|---|
 | **Coagulation** *mirrors Coagulatio* `Ur` `Ma` `Th` | Binding, solidifying, making permanent | Precipitation, setting, crystallisation — **the moment a suspension becomes a solid and stops behaving like a liquid.** Thermodynamically the least demanding, and the first any apprentice may run alone | Coagulatio is stable and **deactivates cleanly.** *A collapsed Coagulation leaves you with wasted stock and a lecture* |
-| **Distillation** *mirrors Distillatio* `Ie` `Ur` `Flx` | Isolation and purification — separating a true signal from noise | Vaporisation and recondensation, fractionation. **Also the forensic operation**: high-level Distillation isolates an Essence type back to its root origin, which is how a corrupted vein is identified **and how a lot's Provenance Class is confirmed when the seller's warranty is doubted** | A Distillation without a Direction glyph **separates every signature present, including the ones you meant to keep.** *Technically successful and commercially worthless* |
-| **Sublimation** *mirrors Sublimare* `Xr` `Vael` `Ora` | Elevation without intermediate states — burden converted to clarity | A solid becomes vapour and returns as a purer solid **without ever having been liquid**, and **there is no stage between at which the working can be inspected or corrected.** A harmonised alchemist can attempt workings structurally inaccessible to a purely theoretical one, *because the process already knows them and shortens the road accordingly* | **There is no partial Sublimation.** What did not rise stays in the bottom of the vessel **as a fused mass that has to be broken out with a chisel** |
+| **Distillation** *mirrors Sublimare* `Ie` `Ur` `Flx` | Isolation and purification — separating a true signal from noise | Vaporisation and recondensation, fractionation. **Also the forensic operation**: high-level Distillation isolates an Essence type back to its root origin, which is how a corrupted vein is identified **and how a lot's Provenance Class is confirmed when the seller's warranty is doubted** | A Distillation without a Direction glyph **separates every signature present, including the ones you meant to keep.** *Technically successful and commercially worthless* |
+| **Sublimation** *mirrors Sublimatio* `Xr` `Vael` `Ora` | Elevation without intermediate states — burden converted to clarity | A solid becomes vapour and returns as a purer solid **without ever having been liquid**, and **there is no stage between at which the working can be inspected or corrected.** A harmonised alchemist can attempt workings structurally inaccessible to a purely theoretical one, *because the process already knows them and shortens the road accordingly* | **There is no partial Sublimation.** What did not rise stays in the bottom of the vessel **as a fused mass that has to be broken out with a chisel** |
 | **Conjunction** *no single Wellspring mirror* | The Attraction-aligned law of merging — the same principle governing Synergia, Domain formation, and Essence fusion. **The most dangerous operation in the discipline** | Incompatible Wellsprings forced together without mediation produce **Rupture Events.** The Parunic mediation glyphs **are not decorative. They are the structural buffer the Continuum requires before it will permit two laws to occupy one substrate** | **Rupture.** The two laws do not blend and do not cancel. **They contest, inside a sealed vessel, and the vessel is the first thing to lose.** *Conjunction benches are sited against an outer wall and the outer wall is built light on purpose, so that it goes before the roof does* |
 
 ---
@@ -263,7 +262,7 @@ It looks dark, **because the working is read by colour through glass and bright 
 >
 > This is why a chain missing a Boundary role is refused at the Bench outright, without consideration, without appeal. **It is the only rule in the entire procedure that has never been challenged in six centuries, and it is the closest thing the Bench has to a soul.**
 **Draft Corruption** · The Parunic sentence contains a structural error the Continuum **partially executes before the error propagates.** What comes out of the vessel is a product with **a law-fragment in it**: a piece of a Wellspring process, invoked and abandoned mid-execution, still trying to finish. **Law-fragments do not decay on any schedule the assay houses have been able to establish.** *This is the primary cause of fatalities in Guild-certified workshops, which is a sentence worth reading twice, because the certified workshops are the safe ones.*
-**Preparation Failure** · The practitioner's architecture drops below the threshold needed to sustain the invocation while it is running. **What happens next depends entirely on which Wellspring was invoked.** Coagulatio and Fixatio deactivate cleanly. **Transmutatio, Dissolution and Calcination are volatile and do not deactivate at all.** They complete the nearest available version of their process, *which is almost never the intended one and is occasionally very much worse than nothing.*
+**Preparation Failure** · The practitioner's architecture drops below the threshold needed to sustain the invocation while it is running. **What happens next depends entirely on which Wellspring was invoked.** Coagulatio and Fixatio deactivate cleanly. **Transmutatio and Dissolution are volatile and do not deactivate at all.** They complete the nearest available version of their process, *which is almost never the intended one and is occasionally very much worse than nothing.*
 **Rupture** · Two incompatible laws in one substrate with inadequate mediation. **They contest, and the vessel loses first, and then the bench, and then the wall that was built light on purpose.**
 
 ---

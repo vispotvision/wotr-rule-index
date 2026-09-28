@@ -4,7 +4,7 @@ notion_id: "3b158200-eb22-81d7-9032-ec164a8d6fc5"
 notion_url: "https://app.notion.com/p/The-Concord-Military-3b158200eb2281d79032ec164a8d6fc5"
 section: "The Guild Accord"
 tags: []
-last_edited: "2026-09-26T14:13:00.000Z"
+last_edited: "2026-09-28T08:19:00.000Z"
 verification: "unverified"
 ---
 
@@ -124,4 +124,4 @@ Concord strategy focuses on **harmonic interference — breaking the enemy's rhy
 **Opalis Maethryn**, the Radiant Arbiter — **judged ten nations in silence and restored the law through mercy.**
 Their names are engraved in the **Wall of Resonance**, deep beneath the Concord Citadel, *where only the High Concordant may walk.*
 > *"To hold the law is to become its weapon. To wield the law is to become its wound. We are the first flame and the final breath — the sound between creation and collapse."*
-> — Engraved upon the Hall of the Vanguard, Imperial Year 014, Voyager Era
+> — Engraved upon the Hall of the Vanguard, Year 014 IC, Voyager Era

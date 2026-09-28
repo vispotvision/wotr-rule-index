@@ -4,7 +4,7 @@ notion_id: "3b158200-eb22-81a4-9dc7-ffca7cbec10d"
 notion_url: "https://app.notion.com/p/The-Rites-3b158200eb2281a49dc7ffca7cbec10d"
 section: "The War Cycle"
 tags: []
-last_edited: "2026-08-03T21:52:00.000Z"
+last_edited: "2026-09-28T08:27:00.000Z"
 verification: "unverified"
 ---
 
@@ -54,7 +54,7 @@ Mahuo practice is **the only tradition in the four quarters that does not requir
 **Rendered by the family, deliberately, on the ninth day, and used.**
 > **This is not Class IV rendering and the distinction is absolute and universally misunderstood outside the Expanse.**
 >
-> Goblinoid practice **waits for the diffusion to complete** and then uses what remains, **which is by that point material and nothing else. The Wellspring has been paid in full. Nothing is intercepted.**
+> Goblinoid practice **waits for the diffusion to complete** and then uses what remains, **which is by that point material and nothing else. The Wellspring has been paid in full. Nothing is intercepted.** Any Trait tissue the dead carried is still in the bone, passive, with nothing active in it.
 >
 > The Concord position was for three centuries that the practice was abhorrent. **The Concord position since the Bench established the nine-day figure has been that the practice is lawful, that it has always been lawful, and that the previous position is not discussed.**
 >

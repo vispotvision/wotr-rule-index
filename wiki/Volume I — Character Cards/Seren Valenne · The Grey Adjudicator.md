@@ -4,7 +4,7 @@ notion_id: "3d958200-eb22-81ff-9e6f-eb9b8929c149"
 notion_url: "https://app.notion.com/p/Seren-Valenne-The-Grey-Adjudicator-3d958200eb2281ff9e6feb9b8929c149"
 section: "Volume I — Character Cards"
 tags: []
-last_edited: "2026-09-27T04:16:00.000Z"
+last_edited: "2026-09-28T08:19:00.000Z"
 verification: null
 ---
 
@@ -22,7 +22,7 @@ verification: null
 **As Of** · After the Caedor terms reached the Throne Hall
 **Name** · Seren Valenne. **Called** · The Grey Adjudicator.
 **Role** · **Adjudicator of the Guild Accord's Arbitration Division. Mediator of divine, political and Wellspring-related disputes. A living instrument of Concord Law.**
-**Type** · Mortal. **Era** · Withering Era, Imperial Year 740 to present. **Realm of origin** · Babyl, Inner World *(struck polity; pending re-homing).*
+**Type** · Mortal. **Era** · Withering Era, Year 740 IC to present. **Realm of origin** · Babyl, Inner World *(struck polity; pending re-homing).*
 **Appearance** · The quiet refinement of Babylian nobility tempered by years in the Accord's Neutral Chambers. Silver-white hair braided with precision, falling past the waist like spun moonlight, the Division's mark of neutrality. Robes in muted greys and deep umber, the balance between Light and Shadow law. **Harmonic Adjudicator sigils glow faintly across gloves and mantle, pulsing in rhythm with their breathing.**
 **Gloss rights** · Diagnostic only. *The voice on the card is an instrument's voice; the name of a working reaches the page in a reading, never in narration.*
 

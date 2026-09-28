@@ -4,7 +4,7 @@ notion_id: "3d758200-eb22-8125-b9f4-f85adcd2a482"
 notion_url: "https://app.notion.com/p/VII-Aether-Class-Essence-Typology-Aether-Flow-Parts-Seventeen-Nineteen-3d758200eb228125b9f4f85adcd2a482"
 section: "Fracture of Worlds — The Living System"
 tags: ["Magic System", "Reference Table"]
-last_edited: "2026-09-26T06:44:00.000Z"
+last_edited: "2026-09-28T08:25:00.000Z"
 verification: "unverified"
 ---
 
@@ -156,5 +156,5 @@ The nine Tiers of Standing replace the former lettered Coherence Bands. The η f
 #### Essence Recovery
 
 **Passive Recovery** — baseline absorption of ambient Essence without active effort. Governed by **Tempering Yield** and **Harmonics Synergy**. Faster near active Wellspring veins, slower in depleted or hostile environments, negligible in Silence Realms.
-**Active Recovery** — deliberate absorption through meditation, Wellspring communion or alchemical treatment. Significantly faster, but requires the character to stop fighting and concentrate. Governed by **Harmonics Attunement** and **Tempering Yield**.
+**Active Recovery** — deliberate absorption through meditation, Wellspring communion or alchemical treatment. Significantly faster, but requires the character to stop fighting and concentrate. An alchemical treatment only quickens the draw from the ground and the Wellspring; no Draft carries Essence into a reserve. Governed by **Harmonics Attunement** and **Tempering Yield**.
 **Crisis Recovery** — surges triggered by soul-cost events, Threshold completions or genuine emotional breakthroughs during combat. Not reliable and cannot be manufactured. The Crystal's reward for genuine contact with consequence, the same principle underlying the XP system.

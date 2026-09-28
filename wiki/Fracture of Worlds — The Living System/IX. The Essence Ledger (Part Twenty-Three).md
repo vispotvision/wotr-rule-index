@@ -4,7 +4,7 @@ notion_id: "3e758200-eb22-81d4-9e1d-f161b3ed583a"
 notion_url: "https://app.notion.com/p/IX-The-Essence-Ledger-Part-Twenty-Three-3e758200eb2281d49e1df161b3ed583a"
 section: "Fracture of Worlds — The Living System"
 tags: []
-last_edited: "2026-09-26T14:25:00.000Z"
+last_edited: "2026-09-28T08:25:00.000Z"
 verification: "unverified"
 ---
 
@@ -295,7 +295,7 @@ Traits come and go without pattern under Essence Starvation. A Trait is a standi
 
 Recovery runs by three routes.
 **Passive Recovery** is the baseline absorption of ambient Essence without active effort, governed by **Tempering Yield** and **Harmonics Synergy**. It is faster near active Wellspring veins, slower in depleted or hostile environments, and negligible in Silence Realms.
-**Active Recovery** is deliberate absorption through meditation, Wellspring communion or alchemical treatment. It is significantly faster, but **requires the character to stop fighting and concentrate.**
+**Active Recovery** is deliberate absorption through meditation, Wellspring communion or alchemical treatment. It is significantly faster, but **requires the character to stop fighting and concentrate.** An alchemical treatment only quickens the draw from the ground and the Wellspring; no Draft carries Essence into a reserve.
 **Crisis Recovery** is a surge triggered by a soul-cost event, a Threshold completion or a genuine emotional breakthrough during combat. **It is not reliable and cannot be manufactured.**
 The rates:
 | Condition | Rate |

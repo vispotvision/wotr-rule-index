@@ -4,7 +4,7 @@ notion_id: "3e058200-eb22-816d-b0aa-eeeb5b6499bd"
 notion_url: "https://app.notion.com/p/Lily-Mahuo-3e058200eb22816db0aaeeeb5b6499bd"
 section: "Volume I — Character Cards"
 tags: []
-last_edited: "2026-09-26T10:28:00.000Z"
+last_edited: "2026-09-28T08:23:00.000Z"
 verification: null
 ---
 
@@ -13,7 +13,7 @@ verification: null
 **Say it** · LIL-ee MAH-hoo-oh
 **As Of:** Class X's first week, seven days before the tournament
 **Lineage:** Mahuo (Korean stratum). Daughter of Kwon Mu-jin and Frithia.
-**Age:** 14. A year and two months older than the twins.
+**Age:** 12. The youngest of three.
 **Class:** X, Aetherion Academy.
 
 ### Physical Description
@@ -25,7 +25,7 @@ Academy coat immaculate, pressed, collar starched stiff. Sash tied in the precis
 
 Precise. Evaluative. Grades everything against standards only she can see. Her pen does not stop moving when the room is in chaos; it records. She tracks Frithia with the attention of someone taking notes on a methodology she intends to adopt.
 Monitors Hiromi's eating. Knows he collapsed three times. Corrects him on the number. Drafts letters to their father in her head. The letters are concise.
-Positions herself in corridors before the twins arrive. Always knows where they are going. Takes the side closest to the destination.
+Positions herself in corridors before her brothers arrive. Always knows where they are going. Takes the side closest to the destination.
 **Refuses:** imprecision. Her lapel pin does not move; she adjusts it anyway.
 **Notices first:** systems, methods, who is graded how.
 **What others say when absent:** Hiromi sticks his tongue out. Geturo permits her authority without contesting it.
@@ -37,8 +37,8 @@ Stage, Level, Wellspring, Techniques, Stats: all TBD.
 
 ### Relationships
 
-**Hiromi** (younger brother): she looks at him after his introduction with an expression too complex for pride and too warm for assessment. The pen stops for two seconds. Then resumes.
-**Geturo** (younger brother): they exchange looks. He nods; she steers.
+**Hiromi** (older brother): she looks at him after his introduction with an expression too complex for pride and too warm for assessment. The pen stops for two seconds. Then resumes.
+**Geturo** (older brother): they exchange looks. He nods; she steers.
 **Frithia** (mother): studies her methodology. Inherited her bone structure and sharpened it.
 
 ### Naming Flag

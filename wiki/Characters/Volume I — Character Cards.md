@@ -4,7 +4,7 @@ notion_id: "3b158200-eb22-81da-b471-f9bfac2c784c"
 notion_url: "https://app.notion.com/p/Volume-I-Character-Cards-3b158200eb2281dab471f9bfac2c784c"
 section: "Characters"
 tags: []
-last_edited: "2026-09-26T10:02:00.000Z"
+last_edited: "2026-09-28T12:28:00.000Z"
 verification: null
 ---
 
@@ -137,7 +137,7 @@ verification: null
 - [Velastra Nirellium · The Severed Saint](Volume I — Character Cards/Velastra Nirellium · The Severed Saint.md)
 - [Ristra Lenovira · The Hollow](Volume I — Character Cards/Ristra Lenovira · The Hollow.md)
 - [Saórén Vyrrakal · The Walking Flame](Volume I — Character Cards/Saórén Vyrrakal · The Walking Flame.md)
-- [Rovhen Talvasciel · The Prettier](Volume I — Character Cards/Rovhen Talvasciel · The Prettier.md)
+- [Rovhen Talvasciel · The Inquiry Agent](Volume I — Character Cards/Rovhen Talvasciel · The Inquiry Agent.md)
 - [Spoil · The Butcher](Volume I — Character Cards/Spoil · The Butcher.md)
 - [Renjiro Kaithen · The Pale Fang](Volume I — Character Cards/Renjiro Kaithen · The Pale Fang.md)
 - [Ascella · Wick](Volume I — Character Cards/Ascella · Wick.md)
@@ -294,3 +294,4 @@ verification: null
 - [Emira Moto · Daughter of Muken](Volume I — Character Cards/Emira Moto · Daughter of Muken.md)
 - [Dhaerin Valorin · The Scholar of Vaeloris](Volume I — Character Cards/Dhaerin Valorin · The Scholar of Vaeloris.md)
 - [Seiji Tenrai Moto · The Door](Volume I — Character Cards/Seiji Tenrai Moto · The Door.md)
+- [Orin Farrant](Volume I — Character Cards/Orin Farrant.md)

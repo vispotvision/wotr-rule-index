@@ -4,7 +4,7 @@ notion_id: "3bd58200-eb22-81e5-b855-ca4472a9dbbf"
 notion_url: "https://app.notion.com/p/Vorynth-the-Vatborn-3bd58200eb2281e5b855ca4472a9dbbf"
 section: "Volume I — Character Cards"
 tags: []
-last_edited: "2026-09-26T09:05:00.000Z"
+last_edited: "2026-09-28T08:55:00.000Z"
 verification: null
 ---
 
@@ -13,6 +13,8 @@ verification: null
 **Say it** · VOR-inth
 > *"Let structures rot to dust and spirits curdle into sludge — then watch your enemies drown in their own decomposition."*
 > **Same correction as Malphas, on his own general.** The Wellspring Path lists **"Fermentation (Archon of Flux) · Calcination (Archon of Ash) · Dissolution (Archon of Breakdown)."**
+> 
+> **The Archons are fourteen named beings — Thalen, Auren, Elyndra, Uurgath, Selhar, Urion, Iesara, Zhaeren, Valen, Wyther, Veyra, Kaetra, Irath, Maelor — and none of them is an operation.** *Dissolution is a genuine Wellspring.* **Calcination and Fermentation are Great Work operations and are not among the sixty**, which is exactly the error that ran through Malphas's own sheet.
 >
 > **The Archons are fourteen named beings — Thalen, Auren, Elyndra, Uurgath, Selhar, Urion, Iesara, Zhaeren, Valen, Wyther, Veyra, Kaetra, Irath, Maelor — and none of them is an operation.** *Calcination and Dissolution are genuine Wellsprings.* **Fermentation is a Great Work operation and is not among the sixty**, which is exactly the error that ran through Malphas's own sheet.
 
@@ -40,8 +42,8 @@ verification: null
 
 **Dissolution** · Limina. **Governing.** *Solvation driven by the entropy of mixing — a solid dissolves not because the solvent attacks it but because the mixed state has higher entropy, and the process runs on its own once initiated.*
 > **This is Moldering Presence, exactly.** *He does not corrode a wall. He initiates a process that prefers the wall dissolved, and then stands there while physics finishes.* *Failure: entropy does not consult the practitioner about which structures were load-bearing.*
-**Calcination** · Caloria. **Burns away false structure** — the charring decay, the boneglass slag.
-**Solfatara** · Caloria. **Deep sulphurous red.** The rot-cloud vapour and the fume. *Same-Family compounding with Calcination.*
+**Cinerion** · Caloria. **The Ash Veil**, the charring decay and the boneglass slag. *The current every calcination draws on.*
+**Solfatara** · Caloria. **Deep sulphurous red.** The rot-cloud vapour and the fume. *Same-Family compounding with Cinerion.*
 **Mortalis** · Vitalia. **Governs passage** — *and the vat is an argument with it.*
 
 ---

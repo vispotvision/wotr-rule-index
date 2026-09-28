@@ -4,7 +4,7 @@ notion_id: "3bd58200-eb22-8177-a204-e05388ef8832"
 notion_url: "https://app.notion.com/p/Vaelen-Mourcrix-The-Exculpate-Arbiter-3bd58200eb228177a204e05388ef8832"
 section: "Volume I — Character Cards"
 tags: []
-last_edited: "2026-09-26T10:20:00.000Z"
+last_edited: "2026-09-28T08:55:00.000Z"
 verification: null
 ---
 
@@ -34,7 +34,7 @@ verification: null
 ## III · Wellspring Harmonizations
 
 **Judicium** · Fulguria. **Primary.** Order, measure, consequence. *The Heresiology's caution sits directly on him: law without mercy becomes burnished sadism, and Judicium injury is most visible where either side excuses the other's absence.*
-**Calcination** · Caloria. Burns away false structure — illusions, veils, moral obfuscation.
+**Cinerion** · Caloria. The Ash Veil, the current every calcination draws on. Illusions, veils and moral obfuscation burn, and their ash becomes recovery material for the next working.
 **Catharsis** · Caloria. Release and true clearing. **The Absolve.** *And its own doctrine warns that nothing is purified by being merely emptied: if what is removed has not been rightly transformed, it returns elsewhere and more venomously.*
 **Eclipseron** · Spatium. He reads reality by what is missing from it — **which is how guilt is actually detected. Not by what a soul contains. By the shape of what it has removed.**
 

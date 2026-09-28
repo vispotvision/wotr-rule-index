@@ -4,7 +4,7 @@ notion_id: "3b158200-eb22-811c-b2ec-dee2ebc43a44"
 notion_url: "https://app.notion.com/p/The-Tiered-Path-3b158200eb22811cb2ecdee2ebc43a44"
 section: "The Guild Accord"
 tags: []
-last_edited: "2026-09-23T22:17:00.000Z"
+last_edited: "2026-09-28T08:26:00.000Z"
 verification: "unverified"
 ---
 
@@ -13,6 +13,8 @@ verification: "unverified"
 *Ranks of the Accord*
 > *"The soul does not climb. It deepens."*
 > Each Tier is not merely a title but **a measurable transformation of the Soul Crystal**, verified through harmonic resonance and recorded permanently in the Lattice Ledger. When a practitioner reaches a new Tier, **the web vibrates in recognition**, and the Crystal's surface develops new glyph-lines visible under Concord light.
+> 
+> **The pure alchemist is the one exception.** A Crystal that never woke has no transformation to read, so the Accord certifies such an alchemist at the bench, on the work alone, up to Tier Five, Expert, and no higher. A bench Tier is certified and never read off the Crystal, and it caps what its holder makes exactly as a tempered Tier does.
 
 ---
 

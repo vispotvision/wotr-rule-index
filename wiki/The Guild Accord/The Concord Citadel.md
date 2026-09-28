@@ -4,7 +4,7 @@ notion_id: "3b158200-eb22-81c4-9084-f14837c8b7fd"
 notion_url: "https://app.notion.com/p/The-Concord-Citadel-3b158200eb2281c49084f14837c8b7fd"
 section: "The Guild Accord"
 tags: []
-last_edited: "2026-09-26T09:08:00.000Z"
+last_edited: "2026-09-28T08:18:00.000Z"
 verification: "unverified"
 ---
 
@@ -110,4 +110,4 @@ Sealwrights claim to navigate by tone rather than sight. **If the city sings in 
 ---
 
 > *"Here the world is written, erased, and written again. Here every breath is weighed against eternity. We are the keepers of order, the stewards of Wells, and the witnesses of our own decay. Let the Citadel endure — for while it stands, so too does the Law."*
-> — Final engraving of the Heart Vault's inner seal, Imperial Year 013, Voyager Era
+> — Final engraving of the Heart Vault's inner seal, Year 013 IC, Voyager Era

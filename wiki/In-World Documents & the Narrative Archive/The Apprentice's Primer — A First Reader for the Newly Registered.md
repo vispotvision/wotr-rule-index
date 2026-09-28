@@ -4,8 +4,8 @@ notion_id: "3bc58200-eb22-81e0-be04-e39a67134b0b"
 notion_url: "https://app.notion.com/p/The-Apprentice-s-Primer-A-First-Reader-for-the-Newly-Registered-3bc58200eb2281e0be04e39a67134b0b"
 section: "In-World Documents & the Narrative Archive"
 tags: []
-last_edited: "2026-08-14T23:00:00.000Z"
-verification: "unverified"
+last_edited: "2026-09-28T08:26:00.000Z"
+verification: null
 ---
 
 # The Apprentice's Primer — A First Reader for the Newly Registered
@@ -61,7 +61,7 @@ verification: "unverified"
 
 > *Two practitioners standing in the same room draw from the same ocean and produce entirely different water.*
 **Aetheric Density** · How much medium is present. **It sets the ceiling on the output rate you can achieve in that location** — *which is why battles are fought over ground and not only over people.*
-**Aetheric Residue** · The trace a working leaves. **Permanent, often subtle, always readable by someone patient enough.**
+**Aetheric Residue** · The trace a working leaves. **Permanent, often subtle, always readable by someone patient enough.** *It thins on a schedule the ground sets, toward a floor it never passes.*
 **Aetheric Saturation** · The danger state where Essence floods faster than it disperses. *It produces Crystal Fracture Events in everyone exposed, including the person who caused it.*
 **Essence Signature** · **You cannot forge one and you cannot fully hide one. Only muddy it.**
 | Layer | Function | Failure mode |

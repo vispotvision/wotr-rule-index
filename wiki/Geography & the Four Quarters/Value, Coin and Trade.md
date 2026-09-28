@@ -4,14 +4,14 @@ notion_id: "3b158200-eb22-818e-ab92-e9f212bb0b23"
 notion_url: "https://app.notion.com/p/Value-Coin-and-Trade-3b158200eb22818eab92e9f212bb0b23"
 section: "Geography & the Four Quarters"
 tags: ["Trade & Economy", "Materials"]
-last_edited: "2026-09-26T14:18:00.000Z"
+last_edited: "2026-09-28T08:18:00.000Z"
 verification: "unverified"
 ---
 
 # Value, Coin and Trade
 
 *An Account of What Is Worth Something, and Why*
-> Second edition, revised. Compiled for the Research and Archives Division of the Guild Accord with the assistance of the Guild of Measurewrights. All dates conform to the Concordance of Ages, sealed Year 715 of the Imperial Age. The first edition's era headings are withdrawn.
+> Second edition, revised. Compiled for the Research and Archives Division of the Guild Accord with the assistance of the Guild of Measurewrights. All dates conform to the Concordance of Ages, sealed Year 715 In Concordance, the twenty-fifth year of the Imperial Age. The first edition's era headings are withdrawn.
 
 ---
 
@@ -176,6 +176,10 @@ The Accord's certification is a meritocracy in the strict sense: it measures, it
 > The similarity is that in both cases **a person's output belongs to somebody else and the paperwork says so.**
 **Rank travels; title does not.** A Baron's writ stops at his river. An Accord rank is honoured in every member polity. For a great many people the Accord credential is the only portable legal identity they will ever possess, and it is issued on capability rather than on birth, **which is a genuinely revolutionary fact that the Accord has never once described in those terms.**
 > **And then there is the floor.** Someone with no rank, no Temperance, and no craft has only their body to sell, and the body is worth what a body is worth in a world where the array does the pumping, the ventilating, and the lifting.
+> 
+> The industrialisation of Essence did not raise everybody. **It revalued everybody**, and it revalued ordinary muscle downward, permanently, against a machine that does not tire and does not eat. The un-Tempered labourer of the Imperial Age is worse off in real terms than his Voyager-era ancestor, who at least was needed to turn the screw.
+> 
+> *A meritocracy is an excellent arrangement for people with merit that the instrument can see.*
 >
 > The industrialisation of Essence did not raise everybody. **It revalued everybody**, and it revalued ordinary muscle downward, permanently, against a machine that does not tire and does not eat. The un-Tempered labourer of the late Imperial Age is worse off in real terms than his Imperial-era ancestor, who at least was needed to turn the screw.
 >

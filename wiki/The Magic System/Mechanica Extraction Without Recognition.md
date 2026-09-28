@@ -4,7 +4,7 @@ notion_id: "3d558200-eb22-8114-8002-d6eb5fc4631b"
 notion_url: "https://app.notion.com/p/Mechanica-Extraction-Without-Recognition-3d558200eb2281148002d6eb5fc4631b"
 section: "The Magic System"
 tags: ["Magic System", "Factions"]
-last_edited: "2026-09-10T11:21:00.000Z"
+last_edited: "2026-09-28T08:26:00.000Z"
 verification: "unverified"
 ---
 
@@ -47,7 +47,7 @@ This is the honest reason the Accord's condemnation carries so little weight wit
 
 ### V. Reading a Site That Has Been Worked
 
-**Residue that does not disperse.** Ordinary Aetheric Residue thins on a schedule set by local density. Mechanica residue holds, because the operation that produced it never closed and is in some sense still producing it.
+**Residue that does not disperse.** Ordinary Aetheric Residue thins on a schedule set by local density, toward a floor it never passes. Mechanica residue holds undiminished, because the operation that produced it never closed and is in some sense still producing it.
 **Draw that does not answer.** A lawful practitioner at a tapped site finds Harmonics costs elevated for no visible reason. They are working against a gradient somebody else established and left running.
 **The wrong quiet.** A worked site does not read as dead ground, which would be honest. It reads as ordinary ground with one thing missing, and most surveyors identify the absence about a minute after they should have.
 **Instruments disagree.** The coil reads a field; the gauge reads a density; the two do not reconcile, and the discrepancy is the size of what is being taken. **This is the only reliable detection method and it requires two instruments and someone who can be bothered to compare them.**

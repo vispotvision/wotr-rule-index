@@ -4,7 +4,7 @@ notion_id: "3b158200-eb22-812d-8a74-cb672f94bf76"
 notion_url: "https://app.notion.com/p/The-Black-Concord-3b158200eb22812d8a74cb672f94bf76"
 section: "The Guild Accord"
 tags: []
-last_edited: "2026-09-23T22:17:00.000Z"
+last_edited: "2026-09-28T08:18:00.000Z"
 verification: "unverified"
 ---
 
@@ -102,4 +102,4 @@ The Black Concord operates under one sacred paradox.
 >
 > Their existence is both crime and salvation — **the sin that keeps the law pure.**
 > *"If this record is read, you were meant to. If it is remembered, then silence has failed. May the shadows remain loyal where light cannot."*
-> — Excerpt from the High Concordant's personal Lattice writ, Imperial Year 027, Voyager Era
+> — Excerpt from the High Concordant's personal Lattice writ, Year 027 IC, Voyager Era

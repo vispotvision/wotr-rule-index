@@ -4,7 +4,7 @@ notion_id: "3b158200-eb22-815e-8fe9-fb1a81cf3572"
 notion_url: "https://app.notion.com/p/The-Ketsumy-gan-The-Binding-Fate-Eye-3b158200eb22815e8fe9fb1a81cf3572"
 section: "The Disciplines"
 tags: []
-last_edited: "2026-09-26T10:18:00.000Z"
+last_edited: "2026-09-28T08:56:00.000Z"
 verification: null
 ---
 
@@ -42,7 +42,7 @@ This is why the Yukari are called the Weavers, the Thread-Readers, the Crows of 
 ## Manifestation and Awakening
 
 Unlike the Shingan, which manifests in both eyes simultaneously with a single dominant branch, **the Ketsumyōgan manifests asymmetrically**: one type in the left eye, a different type in the right. The combination produces a paired configuration that defines the bearer's operational identity.
-**Awakening conditions** · Sustained exposure to causal stress, in which the bearer's Monlithion registers Thread-Lock events with sufficient frequency and intensity that the Soul Crystal's ocular pathways reorganize to accommodate the data load. This typically occurs during moments of extreme consequence: a death, a betrayal, a decision that rewrites the bearer's position in the causal web irrevocably.
+**Awakening conditions** · Sustained exposure to causal stress, in which the bearer's Monolithion registers Thread-Lock events with sufficient frequency and intensity that the Soul Crystal's ocular pathways reorganize to accommodate the data load. This typically occurs during moments of extreme consequence: a death, a betrayal, a decision that rewrites the bearer's position in the causal web irrevocably.
 **Visual manifestation** · A deep violet-black corona surrounding the pupil, within which thin luminous thread-like patterns rotate in configurations specific to the active type. The patterns are not decorative. Each corresponds to a different reading mode, and **the rotation speed indicates the depth of planar engagement.** At rest the corona is faint, visible only to those with Resonant Perception or Bifold Existence. When active it brightens, the threads glow crimson, and the bearer's irises darken to near-black as the visual processing pathways redirect from physical light to causal thread data.
 **Asymmetric activation** · Either eye can be engaged independently. Activating both engages the paired configuration, which produces a combined function greater than the sum of its parts at significantly higher Essence cost.
 > Types are **permanent once manifested.** They cannot be changed, traded, or artificially imposed.
@@ -70,7 +70,7 @@ flowchart TD
 ### 1 · Shisen 糸線 — the Sight Thread
 
 *Thread Line · Thread Sight.* Foundational thread perception, and the most common type. It sees the causal threads connecting entities, events, and objects across all three planes. **It does not manipulate. It reads.**
-**Passive** · Continuous visualization within a range determined by Monlithion development, baseline 20 to 40 metres and expandable with training. Threads appear as luminous filaments whose colour, thickness, and tension encode the nature, strength, and plane of origin of the connection. **Physical-plane threads appear silver-white. Soul-plane threads appear deep blue. Fate-plane threads appear gold-violet.** Damaged, corrupted, or artificially severed threads appear frayed, discoloured, or flickering.
+**Passive** · Continuous visualization within a range determined by Monolithion development, baseline 20 to 40 metres and expandable with training. Threads appear as luminous filaments whose colour, thickness, and tension encode the nature, strength, and plane of origin of the connection. **Physical-plane threads appear silver-white. Soul-plane threads appear deep blue. Fate-plane threads appear gold-violet.** Damaged, corrupted, or artificially severed threads appear frayed, discoloured, or flickering.
 **Thread Map** 糸図 · *Shizu.* Reads every thread connected to a single entity simultaneously, producing a comprehensive relational map: allies, enemies, debts, bonds, curses, fate-links, active contracts, dormant obligations, and the relative tension of each. Overwhelming against complex targets, and disorienting without Judicium to sort the input.
 **Tension Read** 張読 · *Haridoku.* Reads the tension gradient of threads in a localized area, identifying which connections are under strain, which are about to break, and which are tightening toward a convergence point. The foundational diagnostic for Thread-Lock identification.
 **In combat** · Primarily defensive and informational. The bearer sees which enemies are coordinated (shared threads), which are isolated (no threads), where causal tension is building toward a decisive event, and which combatant is the thread-hub whose removal would collapse the web. **An intelligence eye, not a combat eye — devastating when paired with a combat-oriented type in the other socket.**

@@ -4,14 +4,14 @@ notion_id: "3b158200-eb22-8189-b4e1-fc17e809c714"
 notion_url: "https://app.notion.com/p/The-Bearing-and-the-Holding-3b158200eb228189b4e1fc17e809c714"
 section: "Geography & the Four Quarters"
 tags: ["Trade & Economy", "Geography", "In-World Document"]
-last_edited: "2026-09-26T14:18:00.000Z"
+last_edited: "2026-09-28T08:17:00.000Z"
 verification: "unverified"
 ---
 
 # The Bearing and the Holding
 
 *A Survey of the Four Quarters, Their Substrate, and What May Be Made Of Them*
-> Fourth revision. Compiled for the Logistics and Supply Division of the Guild Accord under attestation of the Guild of Measurewrights, Hexagonal Oath. Dates conform to the Concordance of Ages, sealed Year 715 of the Imperial Age. Kingdom names struck throughout. Circulated to Division heads, Accord assay houses, and the chartered mining companies of all four quarters. **Not for open sale.**
+> Fourth revision. Compiled for the Logistics and Supply Division of the Guild Accord under attestation of the Guild of Measurewrights, Hexagonal Oath. Dates conform to the Concordance of Ages, sealed Year 715 In Concordance, the twenty-fifth year of the Imperial Age. Kingdom names struck throughout. Circulated to Division heads, Accord assay houses, and the chartered mining companies of all four quarters. **Not for open sale.**
 
 ---
 
@@ -51,10 +51,6 @@ The heat ceiling's fall moved the constraint from the fire to **the vessel**, wh
 > *It is an Accord technology in every respect that matters: laid under a Board's charter, metered at every section, and cut from the signal box like a house at its junction.* **It solves the one obstacle Essence took longest to reach, and it solves it by carrying the tariff to every town on the line.**
 > 
 > The Logistics Division's position is that rail is a haulage convenience. **The Division has not yet costed what happens to a district when a line reaches it and the whole town goes on the meter in a single season.**
->
-> It burns coal, it carries its own water, it answers to nobody's supply grade and it does not care what the local density is doing. *It is not an Accord technology and was not built by anyone the Accord would call an engineer.* **It solves the one obstacle Essence never touched, and it solves it for people who have never held a rank token.**
->
-> The Logistics Division's position is that rail is a haulage convenience. **The Division has not yet costed what happens to a Board's tariff when a rail head reaches a district and coal arrives that can heat it without drawing anything at all.**
 The tenders who work the arrays pay for this in the ordinary way. Long array duty produces the tremor the trade calls **the tender's shake**, a fine persistent palsy of the hands that arrives at about eight years of service and does not leave. Array houses hire young and they hire in numbers.
 
 ---

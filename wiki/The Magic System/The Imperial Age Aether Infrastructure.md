@@ -4,7 +4,7 @@ notion_id: "3d558200-eb22-8137-9996-cafd5d239b2f"
 notion_url: "https://app.notion.com/p/The-Imperial-Age-Aether-Infrastructure-3d558200eb2281379996cafd5d239b2f"
 section: "The Magic System"
 tags: ["Magic System", "Trade & Economy"]
-last_edited: "2026-09-26T14:17:00.000Z"
+last_edited: "2026-09-28T08:17:00.000Z"
 verification: "unverified"
 ---
 
@@ -14,7 +14,7 @@ verification: "unverified"
 
 ### I. The Mains
 
-Aether was always in the ground and always concentrated where the substrate was conductive. **The Imperial Age did not discover this. It plumbed it.**
+Aether was always in the ground and always concentrated where the substrate was conductive. **The Long Reckoning did not discover this. It plumbed it.**
 A **draw main** is sealed conduit running from a harmonised vein to a district, laid in brick culvert beside the sewers because the two trades share an engineering and frequently a workforce. Mains are graded by the density they carry and by the seal that certifies them, and the grade is stamped at intervals on the culvert wall in Accord Chancery Hand so that any inspector in any kingdom reads the same mark.
 **Standpipes** rise from the main at street level: iron, waist-high, capped, and unlovely. A standpipe is a public draw point. In a good district it stands in a railed enclosure and is opened by a Board man. In a bad one it stands in the street and has been opened by everybody.
 **Gauge-housings** sit wherever a main splits, and hold the instruments that report density and flow to whoever reads them. A housing is brass, slate-backed, locked, and inspected quarterly. **The lock is the point. The instrument is honest and the housing is where the argument about what it said takes place.**

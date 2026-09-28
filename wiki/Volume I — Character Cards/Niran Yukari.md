@@ -4,7 +4,7 @@ notion_id: "3b258200-eb22-813a-96bd-f14ad18385f4"
 notion_url: "https://app.notion.com/p/Niran-Yukari-3b258200eb22813a96bdf14ad18385f4"
 section: "Volume I — Character Cards"
 tags: []
-last_edited: "2026-09-27T04:16:00.000Z"
+last_edited: "2026-09-28T08:58:00.000Z"
 verification: null
 ---
 
@@ -35,7 +35,7 @@ verification: null
 > The cost has shifted from physical — headaches, sleepwalking — **to architectural: sustained triplanar perception produces Threadburn that requires deliberate recovery.**
 >
 > ***The Crystal is no longer running hot. It is running deep.***
-**Wellsprings** · **Cymorath** primary — vibration, air pressure, structural resonance, breath rhythm, weapon tension, **Crystal-output signatures.** *60m baseline / 120m open terrain.* **Judicium** — **maintains a priority-ranked tactical map of up to eleven distinct signals without conscious effort.** **Anamnesis** — *identifies technique by preparation alone.* **Fixatio** — pushed to near-secondary depth by Nazil's substrate-listening discipline. **Monlithion** · **Vantabriel** · **Anima Spirare** — *identifies Wellspring usage before technique manifests visually.* Ketsumyōgan **— awakening.** proto-Shisen (left) and proto-Teishi (right).
+**Wellsprings** · **Cymorath** primary — vibration, air pressure, structural resonance, breath rhythm, weapon tension, **Crystal-output signatures.** *60m baseline / 120m open terrain.* **Judicium** — **maintains a priority-ranked tactical map of up to eleven distinct signals without conscious effort.** **Anamnesis** — *identifies technique by preparation alone.* **Fixatio** — pushed to near-secondary depth by Nazil's substrate-listening discipline. **Monolithion** · **Vantabriel** · **Anima Spirare** — *identifies Wellspring usage before technique manifests visually.* Ketsumyōgan **— awakening.** proto-Shisen (left) and proto-Teishi (right).
 
 ---
 
@@ -68,7 +68,11 @@ verification: null
 
 **Crow of Fate** · Innate — detects hostile preparation within 40m, **warning 0.04–0.12s before visible attack completion.** *At Stage VII the passive Thread-Lock component is active:* **registers the causal commitment point of attacks — the instant an incoming strike becomes irreversible, not only the body's physical preparation signal.**
 **Black-Wing Listening** · Tempered — sound, breath, vibration and Essence-pulse to 120m. **Identifies Crystal Wellspring expressions by harmonic before technique manifests visually.**
-> **Thread-Lock Sense** · Disciplined · Monlithion · proto-Teishi
+> **Thread-Lock Sense** · Disciplined · Monolithion · proto-Teishi
+> 
+> Causal compression perception within 14m passive / 22m active. **Distinguishes committed strikes from feints by Thread-Lock signature — *a feint never produces genuine tightening.***
+> 
+> ***Feints no longer function against Niran's primary defence.***
 >
 > Causal compression perception within 14m passive / 22m active. **Distinguishes committed strikes from feints by Thread-Lock signature — *a feint never produces genuine tightening.***
 >

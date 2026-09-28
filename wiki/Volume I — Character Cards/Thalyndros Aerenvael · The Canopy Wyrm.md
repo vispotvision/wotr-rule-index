@@ -4,7 +4,7 @@ notion_id: "3d958200-eb22-81e9-a28c-d242281b996d"
 notion_url: "https://app.notion.com/p/Thalyndros-Aerenvael-The-Canopy-Wyrm-3d958200eb2281e9a28cd242281b996d"
 section: "Volume I — Character Cards"
 tags: []
-last_edited: "2026-09-27T04:16:00.000Z"
+last_edited: "2026-09-28T08:58:00.000Z"
 verification: null
 ---
 
@@ -45,7 +45,7 @@ verification: null
 
 **Verdantia** · Vitalia. **The living bond and the moving ley-knot.** *Leaves shiver and branches bend the same direction beneath his low flight, as if bowing.*
 **Ascensio** · Vectoria. **The ladder of ascent** — the climb that twists clouds into rings in his wake.
-**Sublimare** · Vectoria. **The Rising Breath — elevates without passing through the states between.** *Replacing "Tempestaris," which is not among the sixty; same-Family compounding with Ascensio is why his climb has no visible transition, only before and after.*
+**Sublimatio** · Vectoria. **The Ascending Breath — elevates without passing through the states between.** *Replacing "Tempestaris," which is not among the sixty; same-Family compounding with Ascensio is why his climb has no visible transition, only before and after.*
 **Network** · Arboreum Primordis splinters, plus minor access to **Benediction** (Vitalia) through Vaelorian's link.
 
 ---
@@ -95,9 +95,9 @@ verification: null
 #### Forest-Fall Breath
 
 **Effect** · A compressed gale of burning leaves and razor bark scours a line; where the exhale fades, the ground grows saplings and thorn thickets at accelerated speed, turning open field into terrain hostile to cavalry.
-**Cost** · The Sublimare component cannot be inspected mid-exhale — solid becomes vapor with nothing observable between, so he commits the breath before knowing exactly what the ground will do with it.
+**Cost** · The Sublimatio component cannot be inspected mid-exhale — solid becomes vapor with nothing observable between, so he commits the breath before knowing exactly what the ground will do with it.
 **Limit** · It needs living ground to work on. Stone, ash-waste, or already-cleared terrain takes the fire and gives back nothing green.
-**Counter** · **Burn or salt the field before he exhales.** Ground that cannot support accelerated growth denies Sublimare a state to rise into, and the breath does no more than any ordinary flame would.
+**Counter** · **Burn or salt the field before he exhales.** Ground that cannot support accelerated growth denies Sublimatio a state to rise into, and the breath does no more than any ordinary flame would.
 > **What nobody knows.** Whether the saplings that come up afterward carry any of Thalyndros's own pattern, or only Arboreum Primordis's. No one has waited the years it would take one of them to answer.
 
 ---

@@ -4,7 +4,7 @@ notion_id: "3e758200-eb22-8120-bf53-c42ca25c7058"
 notion_url: "https://app.notion.com/p/The-Mother-3e758200eb228120bf53c42ca25c7058"
 section: "Factions, Bloodlines & Institutions"
 tags: []
-last_edited: "2026-09-26T14:14:00.000Z"
+last_edited: "2026-09-28T08:24:00.000Z"
 verification: "unverified"
 ---
 
@@ -21,6 +21,7 @@ verification: "unverified"
 The Mother is a cult, and it takes its name from the mother of vinegar: the living culture that sours whatever it is added to. Put a spoon of it into good wine and the wine is vinegar within the season, and nothing the vintner does afterward will make it wine again. **The cult means the name exactly.** It does not conquer what it enters. It is added, and the thing it was added to turns.
 Its cells are called **cultures**. A new member is **inoculated**. A culture is small, four or five people and their founder's attention, and it works in a cold place nobody is watching. It does not recruit by sermon. It recruits by offering what the state has refused.
 **The founder is a lich**, the Living Cauldron, called Malphas: expelled from the Pyraeon Forge Academy and declared a metaphysical threat, unbound in life, and bound now only to himself. Beside the cultures he keeps a Rot Host in the field under its own commanders. The cultures are the part of him that does not march.
+**It began as a method and became a faith.** While the founder lived, The Mother was a cult of his rot-method: its cultures learned the work, ran it where nobody drew, and followed him for what the work could do. Greyshaft Nine was a culture of those years. The Becoming turned it. When the founder ran out of body and did not die, the cult became a religion of the Becoming, and its members now seek his path to undeath and worship the rot. It still recruits by offering what the state has refused. The faith is taught to the inoculated and never preached outside.
 
 ---
 

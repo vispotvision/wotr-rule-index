@@ -4,7 +4,7 @@ notion_id: "3bd58200-eb22-8174-8d04-d8dc2c18ae90"
 notion_url: "https://app.notion.com/p/Malphas-Ferment-of-Stars-3bd58200eb2281748d04d8dc2c18ae90"
 section: "Volume I — Character Cards"
 tags: []
-last_edited: "2026-09-26T14:14:00.000Z"
+last_edited: "2026-09-28T09:59:00.000Z"
 verification: null
 ---
 
@@ -41,7 +41,7 @@ Nothing about either body has weight in the way a living thing has weight. Both 
 
 **Essence Core** · Split-housed. The Core was never merely restructured — it was rehearsing. **What now sits in his chest is a seat, not the whole tenant.** The remainder is housed in a second vessel, a golden skeletal remnant carried at his side or worn against him depending on how much of himself he wants in reach.
 **Aether Shell** · **Class VI · Voidic.** Inverted polarity, unchanged in kind and now total. **His Ardency does not deal damage. It removes things — and now it removes them from a body that has nothing left to lose by the exchange.**
-**Crystal State** · Overgrown, held there permanently rather than resolving. **η · 0.78–0.84, Tier of Standing 8, Archmaster.** A living Crystal this overloaded fractures or crystallizes within a season. His does neither. The split housing does not let the pressure resolve — it lets the pressure continue, indefinitely, which is a different thing from surviving it.
+**Crystal State** · Overgrown, held there permanently rather than resolving. A living Crystal this overloaded fractures or crystallizes within a season. His does neither. The split housing does not let the pressure resolve — it lets the pressure continue, indefinitely, which is a different thing from surviving it.
 > **The Heresiology named him without naming him, and the Becoming finished the sentence.** *Fermentation perverted — the corruption that begins to value the rot itself, where crisis becomes laboratory and ruin becomes methodology, and the practitioner preserves instability because instability is productive.*
 >
 > **Its listed civic risk is regional corruption. Its listed tell is that it arrives crowned with achievements. Lichdom is what that methodology looks like once it stops needing a living author to keep running.**
@@ -57,9 +57,60 @@ Nothing about either body has weight in the way a living thing has weight. Both 
 
 ---
 
-## IV · Stats
+## IV · Stats · The Living Man, at Greyshaft Nine
 
-**Stage XIV — Zenith** · **Level 475** · Level Band V · Tier of Standing 8, Archmaster · Grade EX with the array at ceiling on his flagship stat · Ceiling 1,500.
+**As Of** · The Greyshaft Nine coldhouse, the ninth hind going to the table, 706 IC
+**Stage X, Realization** · **Level 350** · Level Band IV, Mythic · Tier of Standing 6, Master · Grade SS · Ceiling 725.
+The First Catalyst is behind him and the Becoming ahead. The Threshold after this one asks him to go willingly into something that could end him. He has not gone yet.
+**η** · ~0.72, placed inside the documented Master band of 0.70 to 0.80. No source figure.
+**Aether Class** · VI · Voidic. Inverted polarity, not yet total.
+**Wellsprings** · Dissolution primary. Mortalis, the decay half of him. Solfatara. Nihiloth, whose null takes the parts of himself he relies on along with everything else inside it.
+**Soul Crystal** · Sovereign. **State** · Refined, and carrying pressure it has not integrated. What he takes in is banked faster than he can turn it. At a Stage transition it goes Overgrown, and a living Crystal cannot stay there.
+**Path** · Spirit dominant, Fate secondary. No Body Path. His Attraction Layer runs under Obsession Force: the Crystal clutches the current rather than harmonising with it, fixed on the rot itself.
+**Pool 11,050** (5,550 leveling + 5,500 Thresholds through Stage X). Allocated 11,000. The other 50 went toward Depth, were refused by its ceiling, and sit as pressure until a Threshold makes room.
+| Stat | Total | Grade | Mean |
+|---|---|---|---|
+| **Ardency** | **2,100** | B | 262.5 |
+| Resilience | 1,720 | B | 215 |
+| Tempering | 1,640 | B | 205 |
+| Gnosis | 1,560 | B | 195 |
+| Vitality | 1,205 | C | 150.625 |
+| Harmonics | 1,190 | C | 148.75 |
+| Dominion | 945 | C | 135 |
+| Dexterity | 640 | D | 80 |
+
+**Ardency.** Depth 725 (SS, at ceiling) / Overchannel 440 (S) / Compression 330 (A) / Cascade 300 (A) / Density 140 (C) / Flux 90 (D) / Alacrity 40 (E) / Penetration 35 (E)
+**Resilience.** Ward 440 (S) / Persistence 400 (A) / Hardening 330 (A) / Integrity 180 (B) / Anchoring 160 (C) / Continuity 120 (C) / Fortification 80 (D) / Oath 10 (Hollow)
+**Tempering.** Yield 440 (S) / Ceiling 280 (A) / Overflow 240 (B) / Capacity 200 (B) / Clarity 180 (B) / Coherence 130 (C) / Maturity 120 (C) / Longevity 50 (E)
+**Gnosis.** Analysis 400 (A) / Fluency 330 (A) / Retention 300 (A) / Cognition 240 (B) / Acuity 140 (C) / Perception 80 (D) / Vigilance 40 (E) / Forecast 30 (E)
+**Vitality.** Filtration 400 (A) / Tolerance 300 (A) / Threshold 160 (C) / Hemostasis 90 (D) / Regeneration 85 (D) / Fortitude 60 (D) / Constitution 60 (D) / Absorption 50 (E)
+**Harmonics.** Suppression 560 (SS) / Stability 290 (A) / Attunement 120 (C) / Breadth 70 (D) / Projection 40 (E) / Empathy 40 (E) / Synergy 40 (E) / Axis 30 (E)
+**Dominion.** Sovereignty 310 (A) / Gravity 200 (B) / Sense 170 (C) / Fate 110 (C) / Command 60 (D) / Pressure 60 (D) / Radius 35 (E) / **Throne: not registered**
+**Dexterity.** Finesse 150 (C) / Feint 130 (C) / Reflex 100 (D) / Sequence 80 (D) / Evasion 60 (D) / Economy 50 (E) / Celerity 40 (E) / Grapple 30 (E)
+**Peaks** · **Depth 725** *(at ceiling)* · Suppression 560 · Overchannel 440 · Ward 440 · Yield 440 · Persistence 400 · Filtration 400 · Analysis 400 · Hardening 330 · Compression 330 · Fluency 330 · Sovereignty 310.
+**Ardency Conversion · 400 · A-Grade**, fixed where it stood at Invocation. He takes in more than he can turn, and every level he gains widens the gap.
+> **Conversion is the part of Overchannel that turns a working's rebound back into use.** The rest of Overchannel runs at 440. That part is held at 400, and the path that could raise it is Body Path at Stage V, which he has never walked. While he lives the requirement is only unmet. At 440 Overchannel carries its own risk, Overflow above D and Backlash above C, and no Path shields him from either.
+> 
+> **Intake at the ceiling, turning frozen, and the difference banked in the Crystal.** Depth is the widest figure on his sheet and Conversion the one that does not move. The institutions would read a man of B- and C-Grade means. What decides the room is the 725 and the 560.
+> 
+> *An assessor who reads a low Attunement and a low Coherence under a Depth at the ceiling knows what he is looking at: a Crystal that holds its current by refusing to let go of it.*
+**Reserve** · 80,241,677.6 EU, set by Level. Stage X's working band runs 9.90 × 10⁵ to 1.84 × 10⁷ EU; his reserve stands 0.64 decades over it and under the gate ceiling of 3.51 × 10⁸. Starvation below 8,024,167.8 EU.
+**Output** · 165,000 AU/s at full, placed at the floor of his Stage's band; no source figure · Flux Density 229,166.7 EU/g. Full output delivers 118.8 GW and sheds 46.2 GW as heat, sound and light. The reserve holds 486.3 seconds at full and 437.7 to Starvation: 72.9 turns. Held suppression runs at a small fraction of that, as sustained work does; no figure is set.
+**Resonant Pairs** · None reached. Attunement and Depth, the pair that would cut his draw, stand four Grades apart.
+**Domain** · A Realm, and an airless one. Nihiloth's law removes, his fixation turns Sovereignty to possession, and the reach has drawn in close around him.
+**Counter** · Volume, and alive he still has a bottom. Feed him past half again what his Crystal is rated to bank and it goes Overgrown; at two and a quarter times it bursts, and the Fracture is his. Make him hold his field down through a long approach and it tires him. Close the distance and what is left is a D-Grade body that has never fought.
+> **In the body.** He is not a large man and has never been shown in a fight. His Dexterity is D-Grade, and the Body Path he never walked holds his frame, his wind and his footwork under their caps. What he strikes, he dissolves.
+> 
+> **Voidic, not yet total.** His Shell takes in, and ordinary channels still run through it outward, so he can still pour, seal and set a working away from himself. Twenty-eight parts in a hundred of what he spends leave at the Shell as heat, sound and light. He held his field down at Genesio and for eleven days at Greyshaft Nine, which is why Vesk could never say what Stage he was.
+> 
+> **What the living man still pays.** Nihiloth's null takes the parts of himself he relies on: his Anchoring stands at C, his Integrity at B. He has sworn nothing: his Oath is Hollow. Mortalis is a current he borrows and could step out of, at a cost to his own Crystal. He ages. Overflow, Overchannel and Persistence stand short of their true ceilings, because he has not passed through Dissonance.
+
+---
+
+## IV.V · Stats · The Lich, after the Becoming
+
+**As Of** · After the Becoming, the living body gone and the Golden Remnant at his hip
+**Stage XIV — Zenith** · **Level 475** · Level Band V · Tier of Standing 8, Archmaster · η 0.78–0.84 · Grade EX with the array at ceiling on his flagship stat · Ceiling 1,500.
 **Pool 23,100** (14,000 leveling + 9,100 Thresholds through Stage XIII). Allocated 23,095.
 | Stat | Value | Grade |
 |---|---|---|

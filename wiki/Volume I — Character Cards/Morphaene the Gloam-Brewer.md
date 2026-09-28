@@ -4,7 +4,7 @@ notion_id: "3bd58200-eb22-81c0-99e6-c003850ec278"
 notion_url: "https://app.notion.com/p/Morphaene-the-Gloam-Brewer-3bd58200eb2281c099e6c003850ec278"
 section: "Volume I — Character Cards"
 tags: []
-last_edited: "2026-09-26T10:32:00.000Z"
+last_edited: "2026-09-28T08:58:00.000Z"
 verification: null
 ---
 
@@ -13,6 +13,8 @@ verification: null
 **Say it** · mor-FAYN
 > *"Look into the mist — see your ruin writ large, then break."*
 > **Same Archon error, and the clearest instance of why it matters.** *This sheet gives "Solution (Archon of Melting)" while Graelith's gives "Silence (Archon of Melting)"* **—** two different operations attributed to the same non-existent Archon.
+> 
+> **Solution and Fermentation are not among the sixty. Sublimatio is.** *Re-sourced below.*
 >
 > **Solution and Fermentation are not among the sixty. Sublimare is.** *Re-sourced below.*
 
@@ -41,7 +43,7 @@ verification: null
 ## III · Wellspring Harmonizations
 
 **Dissolution** · Limina. *Solvation driven by the entropy of mixing.* **The melting of armour, weapons and spiritual defences.**
-**Sublimare** · Vectoria. ***Elevates without passing through the states between*** — solid to vapour, nothing in the middle.
+**Sublimatio** · Vectoria. ***Elevates without passing through the states between*** — solid to vapour, nothing in the middle.
 > **And the risk is the one that defines him:** *there is no stage at which the working can be inspected or corrected.* Once the gloam is up, Morphaene cannot check what is in it either.
 **Oneirion** · Limina. **Configuration space** — *workings reaching targets no line of sight connects.* **This is why the visions find people inside the mist rather than merely appearing in it.**
 **Anamnesis** · Limina. **Perception Rot** — *lingering spores distorting sight and emotion long after dispersal.*
@@ -94,7 +96,7 @@ verification: null
 ### Miasma Spreads
 
 **Effect** · The gloam goes out and finds each person separately. **What they see is accurate** — *their own decomposition, correctly imagined, with the details right* — and the accuracy is what breaks them.
-**Cost** · **Sublimare cannot be inspected mid-working**, and his Shell mirrors his alignment with unnerving precision. *He is broadcasting while he works.*
+**Cost** · **Sublimatio cannot be inspected mid-working**, and his Shell mirrors his alignment with unnerving precision. *He is broadcasting while he works.*
 **Limit** · **He must read them first.** *Gnosis 538 is doing the work, not the mist.*
 **Counter** · **Graelith's silence disrupts him**, and *he adapts by layering thicker smog* — **which is a Fifth General routing around a Fourth General's field, mid-battle, on the same side.**
 

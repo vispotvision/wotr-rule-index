@@ -4,7 +4,7 @@ notion_id: "3b158200-eb22-816a-bcc2-c148358fb25e"
 notion_url: "https://app.notion.com/p/The-Guild-Accord-3b158200eb22816abcc2c148358fb25e"
 section: "Factions, Bloodlines & Institutions"
 tags: ["Factions", "In-World Document"]
-last_edited: "2026-09-26T14:11:00.000Z"
+last_edited: "2026-09-28T08:19:00.000Z"
 verification: "unverified"
 ---
 
@@ -33,7 +33,7 @@ The Guild Accord is the communion of guilds, academies, and Orders, signed circl
 
 The Guild Accord is being made now, and it is being made in circles.
 Within living memory the guilds outran every charter written for them. Hunting monsters became a trade: parties hired by the posting, ventures subscribed in shares, bounties pinned to a board in any town with a hall. A seat that could post a board could raise a hall, and halls went up faster than crowns could license them or the Codex could reach them.
-**The Codex is old.** Its sealing is Year Zero of the Imperial reckoning, and the Citadel, the Divisions, the chancery's formulary and the Bench have run on it for seven centuries, in the Concord heartland and along the chartered routes, binding the practitioners who swore to it and the merchants who chose its courts. **The communion is new.** The Accord proper is the guilds, and the crowns they stand in, signing into the Codex together, one circle at a time.
+**The Codex is old.** Its sealing is Year Zero In Concordance, and the Citadel, the Divisions, the chancery's formulary and the Bench have run on it for seven centuries, in the Concord heartland and along the chartered routes, binding the practitioners who swore to it and the merchants who chose its courts. **The communion is new.** The Accord proper is the guilds, and the crowns they stand in, signing into the Codex together, one circle at a time.
 A circle is drawn and signed in a hall, its names read out one by one, and it binds its signatories under one seal and one body of law. **The first was signed in the lower hall at Kharven-Seat**, by Kharven, the Holy Sea of Alabaster, the Kingdom of Nalūn, and the stretches from the Brine crossing east to the marches of Sum-gol. Others are being argued over in halls and chanceries across the four quarters.
 **Where a circle has signed, the Articles and the Commission framework bind as law**: every hall inside it posts to one board, grades by the same Tiers, answers to the same Divisions and licenses hire by the same examination. **Where no circle has signed, they do not bind yet.** There the halls keep their own charters and their own boards, the chancery's courts sit for the parties who choose them, and the Articles are a custom a merchant may take or leave.
 And the ground is crowded with those who have not signed. **Holdout guilds** keep their own boards and their own grades, and some are older and richer than any circle. **Rival hunting companies**, chartered by a crown or by nobody, bid against the halls for the same bounties. **Unlicensed crews** work cheapest of all, take the postings no licensed party will touch, and are hired by every district that cannot pay a hall's fee.

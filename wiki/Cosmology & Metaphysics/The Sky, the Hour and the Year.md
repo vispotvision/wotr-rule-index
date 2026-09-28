@@ -4,7 +4,7 @@ notion_id: "3d758200-eb22-81c6-b5ae-caad3cabfbb6"
 notion_url: "https://app.notion.com/p/The-Sky-the-Hour-and-the-Year-3d758200eb2281c6b5aecaad3cabfbb6"
 section: "Cosmology & Metaphysics"
 tags: ["Cosmology", "Reference Table"]
-last_edited: "2026-09-11T01:32:00.000Z"
+last_edited: "2026-09-28T08:17:00.000Z"
 verification: "unverified"
 ---
 
@@ -118,7 +118,7 @@ What it is actually used for is identity and record.
 ### VI. Counting the Years
 
 Four systems, all current, all in use, none reconcilable without a table.
-**The Accord count.** A continuous numbered year from a fixed epoch. Year 715 of the Imperial Age is a date every chancery in the four quarters can read, which is exactly what it is for. Nobody dreams in it either.
+**The Accord count.** A continuous numbered year from a fixed epoch. Year 715 In Concordance is a date every chancery in the four quarters can read, which is exactly what it is for. Nobody dreams in it either.
 **The Moto nengo.** An era name declared on accession, and declared again on an omen, a disaster, a great work, or a reading. Years are counted within the era. This means **the Moto date carries an interpretation of the period it names**, and a change of nengo mid-reign is a public statement that something has ended. Concord clerks find this maddening and Moto clerks find the Accord count spiritually illiterate, and both are correct.
 **The hold Tally.** Not a year-count at all. The holds date by entry number, continuously, since the Tally began. A Dawi asked what year it is will tell you the last entry made, which is not an evasion.
 **The Eressean calendar.** A cycle of appointed windows rather than a count of years, kept by the rite calendars and recopied without variation. The Eressean position is that a year is a shape, not a number, and asking which one it is reveals that you do not understand what a year is for.
@@ -134,10 +134,10 @@ The Sohai, being a religion of the Reading, holds that this is not a scheduling 
 | People | Day | Year | Notes |
 |---|---|---|---|
 | **Moto and Sohai households** | stations, the hinge, the Bow | nengo, corrected to the Sower | The only tradition that still checks the sky |
-| **The Accord and the Guild** | equal hours from the wire | continuous Imperial count | Will not correct the drift |
+| **The Accord and the Guild** | equal hours from the wire | continuous Accord count | Will not correct the drift |
 | **The holds** | hold hour for entries, Guild hour for the wire, in parallel columns | the Tally | Two-column ledgers; a term can fall either side |
 | **Eresse** | windows, appointed by calendar | the rite cycle | Has never formally accepted Guild hour and keeps both |
-| **The Mandate** | Guild hour, adopted instantly and completely | Imperial count | A decree read at the same moment everywhere is a better decree |
+| **The Mandate** | Guild hour, adopted instantly and completely | Accord count | A decree read at the same moment everywhere is a better decree |
 | **Kharven** | a fire's length, a broth, the Thin Weeks | the return of the grass | No wire has ever reached the seat |
 
 ### IX. Hooks

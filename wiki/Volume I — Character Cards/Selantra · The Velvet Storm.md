@@ -4,7 +4,7 @@ notion_id: "3bd58200-eb22-8166-82e5-ce41c986085e"
 notion_url: "https://app.notion.com/p/Selantra-The-Velvet-Storm-3bd58200eb22816682e5ce41c986085e"
 section: "Volume I — Character Cards"
 tags: []
-last_edited: "2026-09-26T10:31:00.000Z"
+last_edited: "2026-09-28T08:56:00.000Z"
 verification: null
 ---
 
@@ -19,7 +19,7 @@ verification: null
 
 #### Wellspring Harmonizations
 
-**Transmutatio** · Spatium. Change of basis — **failed workings are not destroyed Essence but Essence in an inconvenient basis.** The refraction and layering. **Distillation** · Isolation and purification. **Coagulatio** · Binds and makes permanent. **Luminalis** · Fulguria. The spectacle.
+**Transmutatio** · Spatium. Change of basis — **failed workings are not destroyed Essence but Essence in an inconvenient basis.** The refraction and layering. **Sublimare** · Vectoria. Isolation and purification by fractional distillation. **Coagulatio** · Binds and makes permanent. **Luminalis** · Fulguria. The spectacle.
 
 #### Stats · Level 240 · Tier of Standing 6, Master · Grade S · Ceiling 550
 

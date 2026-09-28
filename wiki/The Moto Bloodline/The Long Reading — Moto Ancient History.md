@@ -4,7 +4,7 @@ notion_id: "3bc58200-eb22-81b0-810f-d3e421cd9caa"
 notion_url: "https://app.notion.com/p/The-Long-Reading-Moto-Ancient-History-3bc58200eb2281b0810fd3e421cd9caa"
 section: "The Moto Bloodline"
 tags: ["Lore & History", "Bloodlines"]
-last_edited: "2026-09-26T10:18:00.000Z"
+last_edited: "2026-09-28T08:19:00.000Z"
 verification: "unverified"
 ---
 
@@ -166,7 +166,7 @@ Azure Tenrai's argument was that a branch immune to correction becomes tyrannica
 | Ruling | Standing |
 |---|---|
 | **The true name** | The seat's own name is recorded in a glyph the Continuum cannot classify — **one of the thirty unassigned entries in the Master Glyph Index.** Left blank deliberately. **It is the oldest proper noun in the project and it should be Isaac's** |
-| **Dating** | No absolute years given. The Concordance closes the First Eon at Year −900; current reckoning is Year 715 of the Imperial Age. **Where the Refusal and the Recension sit against that spine needs a pass with the Concordance open** |
+| **Dating** | No absolute years given. The Concordance closes the First Eon at Year −900; current reckoning is Year 715 In Concordance, the twenty-fifth year of the Imperial Age. **Where the Refusal and the Recension sit against that spine needs a pass with the Concordance open** |
 | **The Recension's date** | Proposed at two to four generations before Muken. **Near enough that living memory of it exists in the hinterland and nowhere else** |
 | **Bonded labour in Nalūn** | If the salt cuttings run on the undocumented **as an institution rather than an abuse**, it goes into the Nalūn codex and changes how every scene set there reads. *Recommended* |
 | **Sancta Lux** | The Seventh Objection now has an obvious content: **the sacraments are a Moto Work, the Wellspring is a Moto residue, and the Grand Church is a tenant.** Three living readers, one no longer sleeping |

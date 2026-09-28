@@ -4,7 +4,7 @@ notion_id: "3e058200-eb22-81ee-bfa6-ee0785f793ac"
 notion_url: "https://app.notion.com/p/Hiromi-Mahuo-3e058200eb2281eebfa6ee0785f793ac"
 section: "Volume I — Character Cards"
 tags: []
-last_edited: "2026-09-27T04:15:00.000Z"
+last_edited: "2026-09-28T08:23:00.000Z"
 verification: null
 ---
 
@@ -13,13 +13,13 @@ verification: null
 **Say it** · hee-ROH-mee MAH-hoo-oh
 **As Of:** The Arena sand after the duel with Xanelor
 **Lineage:** Mahuo (Korean stratum). Son of Kwon Mu-jin and Frithia.
-**Age:** 13. Twin (younger by minutes than Geturo).
+**Age:** 13. The middle child, younger than Geturo and older than Lily.
 **Title:** The Paragon of Dominion.
 **Class:** X, Aetherion Academy.
 
 ### I. Identity
 
-Son of the summoner Kwon Mu-jin and the weapon instructor Frithia. Twin brother to Geturo (older by minutes), younger brother to Lily (older by a year and two months). Called "Teacher" in public; the family knows. Summoning prodigy: at six performed something in a binding circle none of the adults present could name; at seven, redefined summoning. Connection to the Open Crucible (Mu-jin's Book of Summons) implied, unconfirmed. Goal: to become the greatest summoner to ever live. States it without qualification and believes it.
+Son of the summoner Kwon Mu-jin and the weapon instructor Frithia. Younger brother to Geturo, older brother to Lily. Called "Teacher" in public; the family knows. Summoning prodigy: at six performed something in a binding circle none of the adults present could name; at seven, redefined summoning. Connection to the Open Crucible (Mu-jin's Book of Summons) implied, unconfirmed. Goal: to become the greatest summoner to ever live. States it without qualification and believes it.
 
 ### II. Soul Architecture
 
@@ -87,7 +87,7 @@ Academy-issue. No special gear established.
 
 ### Relationships
 
-**Kwon Mu-jin** (father) · **Frithia** (mother) · **Geturo Mahuo** (twin) · **Lily Mahuo** (older sister) · **Taesyn Valorin** (cousin) · **Verona Mahuo** (cousin)
+**Kwon Mu-jin** (father) · **Frithia** (mother) · **Geturo Mahuo** (older brother) · **Lily Mahuo** (younger sister) · **Taesyn Valorin** (cousin) · **Verona Mahuo** (cousin)
 
 ### Naming Flag
 

@@ -4,7 +4,7 @@ notion_id: "3b258200-eb22-81ab-87c6-c888edd676ff"
 notion_url: "https://app.notion.com/p/Gimbzo-3b258200eb2281ab87c6c888edd676ff"
 section: "Volume I — Character Cards"
 tags: []
-last_edited: "2026-09-27T04:15:00.000Z"
+last_edited: "2026-09-28T08:57:00.000Z"
 verification: null
 ---
 
@@ -44,7 +44,7 @@ verification: null
 > 
 > The ground beneath him **compresses by visible centimetres when he plants.** Air around his shoulders hangs heavier, and **dust caught in his aura drifts down twice as slow as it should** — *as though sequence itself is being told to wait.*
 > **Risk · Sequence Lock.** Prolonged anchoring of his own essence into the Plane's substrate causes ***temporal adhesion*** — where he can become **inseparable from a coordinate of fate** and must be ritually loosened by a Tengan adept **or risk fossilising into the lattice permanently.**
-**Triune Core** · **Fixatio · Monlithion · Coagulatio**
+**Triune Core** · **Fixatio · Monolithion · Coagulatio**
 **Network** · Petralon, Basilithe, Manganthra, Judicium — *acquired posthumously through Hataraki absorption.*
 **Targeted uninfected** · **Thaloré and Chthonica** — *both being slowly drawn toward him by Anchor resonance.*
 > **Temperance Path.** Bara taught him directly. He climbed the early Stages **through pure functional labour rather than insight** — carrying, holding, refusing, enduring.
@@ -65,7 +65,7 @@ verification: null
 | **Attraction Scale** | **A-Tier · Settled Domain** — when he plants, **an invisible vertical column of weighted air drops over a ten-metre radius**, and *lesser combatants find their knees bending without command* |
 
 **Strike Force** 480 GN per overhead with both axes, **scaling to 1.2 TN under full Anchor invocation**
-**Durability** 380 PJ shielding / 220 GJ hardness — *skin and bone reinforced by Monlithion law*
+**Durability** 380 PJ shielding / 220 GJ hardness — *skin and bone reinforced by Monolithion law*
 **Speed** Mach 12 baseline — slow for his tier, **but his Edict Step traverses by** ***declaration*****, not motion.** ***He arrives where the next lawful instant says he should be.***
 **Range** · Two axe-lengths in the flesh. **Continental in the lattice.**
 
@@ -82,7 +82,7 @@ verification: null
 | Discipline | Mechanic | Cost |
 |---|---|---|
 | **Tei no Kugi** *Pillar Nail* | Drives the butt-haft into the ground, **declaring his coordinate the *anchored sequence** *of the field. For thirty heartbeats, no opponent within 40m may benefit from teleportation, flicker-step, fate-skip, or temporal acceleration.* Particularly cruel against **Tengan prophets who rely on the next instant being theirs to claim*** | 4.130 × 10⁴ EU |
-| **Tetsubun Otoshi** *Iron Verdict Drop* | Two-handed overhead cleave in a crossing scissor-arc. Coagulatio gathers his entire downward mass, **Monlithion ratifies the strike as a *structural sentence** *— and the blow lands not as edge-on-flesh but as a vertical column of binding judgment that crushes through wards, Domains and bone in one continuous motion.* Used only against defences **already ranked as exhausted by his Fate Ledger*** | 1.123 × 10⁶ EU |
+| **Tetsubun Otoshi** *Iron Verdict Drop* | Two-handed overhead cleave in a crossing scissor-arc. Coagulatio gathers his entire downward mass, **Monolithion ratifies the strike as a *structural sentence** *— and the blow lands not as edge-on-flesh but as a vertical column of binding judgment that crushes through wards, Domains and bone in one continuous motion.* Used only against defences **already ranked as exhausted by his Fate Ledger*** | 1.123 × 10⁶ EU |
 | **Yō no Soko** *Floor of the Yet-To-Be* | Seats himself cross-legged, palms to the ground. **The earth within a 200m sphere becomes** ***provisional Plane substrate*****.** Every opponent inside is briefly subject to the Plane's own laws: **vows become enforceable, lies become visible, and any technique depending on metaphysical lying-to-oneself begins to fail** | 1.420 × 10⁶ EU |
 
 > **Coordinate Adhesion** · *Every Pillar Nail roots him deeper. Three uses in one engagement and he cannot voluntarily leave the battlefield until the field collapses or another Moto loosens him with Tengan ritual.*
@@ -100,7 +100,7 @@ verification: null
 > > ***What stands, stands. What falls, stays fallen.***
 >
 > **Resurrection, regeneration and rewind effects fail at its threshold. Wounds delivered inside it cannot be undone.**
-**Tsuiji & Tsuiei — The Twin Anchors** · Tier S. Forged in the First Eon from **compressed Monlithion ore wrapped in Coagulatio binding-rite.** *Each weighs as much as a small mountain to anyone who is not Gimbzo.* **Their hafts are bandaged in linen taken from the burial wrappings he was never granted.**
+**Tsuiji & Tsuiei — The Twin Anchors** · Tier S. Forged in the First Eon from **compressed Monolithion ore wrapped in Coagulatio binding-rite.** *Each weighs as much as a small mountain to anyone who is not Gimbzo.* **Their hafts are bandaged in linen taken from the burial wrappings he was never granted.**
 **The Frost-Crest** · The bone-white upright crest of hair — **a residual Hataraki fixture that grew in during his Plane-absorption.** *It hums faintly under his Anchor work and cannot be cut.*
 
 ---

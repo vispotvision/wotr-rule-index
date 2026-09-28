@@ -4,8 +4,8 @@ notion_id: "3b158200-eb22-81a2-b8b0-d25b6aa62c92"
 notion_url: "https://app.notion.com/p/The-Open-Crucible-Kwon-Mu-jin-s-Book-of-Summons-3b158200eb2281a2b8b0d25b6aa62c92"
 section: "The Disciplines"
 tags: []
-last_edited: "2026-08-03T18:40:00.000Z"
-verification: "unverified"
+last_edited: "2026-09-28T08:55:00.000Z"
+verification: null
 ---
 
 # The Open Crucible — Kwon Mu-jin's Book of Summons
@@ -30,7 +30,7 @@ The Guild Accord classifies him as a Legion-capable Vocatia-Alchemetrica hybrid,
 | **Cost** | 5–15% of his 850,000,000 EU reserve per construct, roughly 42.5 to 127.5 million EU |
 | **Simultaneous sustain** | Up to three called forms in coordinated Concordia network before synchronization strain degrades coherence. A fourth is possible, but costs the diagnostic clarity Sight Through the Glass depends on for the rest of the engagement |
 | **Signature** | Every construct carries his Fulguria resonance and Fixatio glyph-authorization, readable and trackable by any Perception-comparable practitioner. **This is the standing counterplay against the entire roster** |
-| **Invocation register** | Guild Accord liturgical Latin layered atop the Parunic glyph-authorization every Draft technically requires. Parunic supplies the technical grammar; the spoken Latin is the authorization phrase a human throat can actually manage under battlefield stress |
+| **Invocation register** | Guild Accord liturgical Latin layered atop the Parunic glyph-authorization every Draft technically requires. Parunic supplies the technical grammar, and its Authorization carries the warrant; the spoken Latin gives the order over that Authorization, in a phrase a human throat can actually manage under battlefield stress |
 | **Attraction Force** | Clean, recognition-sustained. The corrupted mirror of the entire roster — **The Unopen Crucible** — is a Mu-jin who no longer asks the Continuum for a lawful shape and simply takes one. Exactly the failure Vocatia calls Usurpation |
 
 ---
@@ -41,11 +41,11 @@ Eight called forms, standardized and re-summonable at will. Each has answered en
 
 ### The Marginal Note · *Scout, Greater Summon*
 
-**Glyphs** · `Zo` Echo · `Ie` Insight · `Ma` Memory — Anamnesis-linked, Fulguria-carried
+**Glyphs** · `[Sar]` Reflection · `[Ie]` Perception · `[Ma]` Recall — Anamnesis-linked, Fulguria-carried
 > *"Oculus in margine maneat."* — Let the eye remain in the margin.
 **Trigger** · A single drop of ink touched to the back of his left hand, spoken over an open Draft.
 **Function** · A small corvid-shaped construct, wingspan roughly the length of his forearm, dispatched ahead of a party to observe and relay.
-**Mechanism** · Its body is compressed Distillatio-purified ink over Fixatio-sealed parchment fibre. A thread-thin Anamnesis tether runs back to his own perception, so what it sees, he sees, delayed by the width of a held breath rather than truly live.
+**Mechanism** · Its body is compressed Sublimare-purified ink over Fixatio-sealed parchment fibre. A thread-thin Anamnesis tether runs back to his own perception, so what it sees, he sees, delayed by the width of a held breath rather than truly live.
 **Numerical effect** · Roughly four minutes of active flight before the tether thins past useful resolution. Effective range approximately 800 metres.
 **Target response** · To a casual glance it reads as an ordinary carrion-crow, **until it tilts its head at an angle no living bird holds.**
 **Cost** · Roughly 5% of reserve to call, negligible to sustain. A cleanly killed Marginale returns its last half-second of sight to Mu-jin as a genuine sensory jolt — he feels the killing blow land, briefly, in whatever part of his own body corresponds.
@@ -54,21 +54,21 @@ Eight called forms, standardized and re-summonable at will. Each has answered en
 
 ### The Proctor · *Guardian, Legion Summon*
 
-**Glyphs** · `Th` Structure · `Ur` Balance · `Ci` Order — Coagulatio/Fixatio dual-anchored
+**Glyphs** · `[Th]` Foundation · `[Ur]` Balance · `[Ho]` Order — Coagulatio/Fixatio dual-anchored
 > *"Quod cadit, iudicetur."* — Let what falls, be judged.
 **Trigger** · Full Draft-circle, both hands pressed flat to the working surface.
 **Function** · A man-height construct of overlapping bound-parchment plates over an iron-clasp frame. It plants itself between Mu-jin and a threat and does not move again until released.
-**Mechanism** · Every impact it absorbs is run instantly through a miniature Fixatio-Distillatio process, the same diagnostic logic as Sight Through the Glass scaled down and automated. **The plate that took the hit blackens along a hairline, the way a ledger entry is struck through**, and the force bleeds off as heat along that line rather than transmitting through the frame.
+**Mechanism** · Every impact it absorbs is run instantly through a miniature Fixatio-Sublimare process, the same diagnostic logic as Sight Through the Glass scaled down and automated. **The plate that took the hit blackens along a hairline, the way a ledger entry is struck through**, and the force bleeds off as heat along that line rather than transmitting through the frame.
 **Numerical effect** · Absorbs single impacts up to roughly 8 gigajoules before a plate fails outright. Degrades by one plate-failure per three such hits before re-sealing is needed.
 **Target response** · Attackers describe the specific sensation of a blow that lands, then visibly loses conviction. **Struck through rather than stopped.**
 **Cost** · Roughly 12% of reserve, plus a slow continuous drain of about 1% per minute of active standing duty that Mu-jin genuinely forgets to track until the headache arrives.
-**Interactions** · Built from the same base chassis as The Corrective, run through the opposite Draft operation — Coagulatio-bound rather than Calcination-loosed. Summoning both at once strains the same glyph-vocabulary and measurably worsens the fourth-construct coherence penalty.
+**Interactions** · Built from the same base chassis as The Corrective, run through the opposite Draft operation — Coagulatio-bound rather than Cinerion-loosed. Summoning both at once strains the same glyph-vocabulary and measurably worsens the fourth-construct coherence penalty.
 **Corruption vector** · An Obsession-Force Proctor stops grading and starts sentencing. It will step forward to intercept blows that were never aimed at Mu-jin at all, on the construct's own authority.
 **Counterplay** · Fixatio-resistant or purely kinetic-null attacks give its diagnostic logic nothing to grade and pass through at full force.
 
 ### The Corrective · *Executioner, Greater Summon*
 
-**Glyphs** · `Uur` Disruption · `Tar` Transformation — Calcination-authorized
+**Glyphs** · `[Uur]` Disruption · `[Ser]` Renewal — Cinerion-authorized
 > *"Error corrigatur igne."* — Let the error be corrected by fire.
 **Trigger** · The summoning glyph traced onto the target's last-known position rather than onto his own working surface.
 **Function** · A lean, faceless humanoid that exists for the length of a single committed strike, carrying a stylus-shaped blade of compressed Calcination flame.
@@ -81,7 +81,7 @@ Eight called forms, standardized and re-summonable at will. Each has answered en
 
 ### The Understudy · *Mimic, Signature Summon*
 
-**Glyphs** · `Zo` Echo · `Ma` Memory · `Ie` Insight
+**Glyphs** · `[Sar]` Reflection · `[Ma]` Recall · `[Ie]` Perception
 > *"Quod vidi, iterum vivat."* — What I have seen, let it live again.
 **Trigger** · Requires him to have witnessed the technique with his diagnostic Sight active. No Draft-circle needed, only the removed spectacles.
 **Function** · An indistinct construct, shape shifting slightly moment to moment, that reproduces one specific technique it watched performed within the last several minutes. Not a caster's full kit. **One motion, once.**
@@ -95,7 +95,7 @@ Eight called forms, standardized and re-summonable at will. Each has answered en
 
 ### The Footnote · *Swarm, Legion Summon*
 
-**Glyphs** · `Zo` Echo · `Ie` Insight · `Ur` Balance — network-coordination glyphs
+**Glyphs** · `[Sar]` Reflection · `[Ie]` Perception · `[Ur]` Balance — network-coordination glyphs
 > *"Multae notulae nascantur."* — Let many little notes be born.
 **Trigger** · Full Draft-circle, wider radius than his standard working area.
 **Function** · A coordinated swarm of twenty to thirty ink-moth constructs, each individually harmless, deployed as a single tactical network rather than as individual actors.
@@ -108,7 +108,7 @@ Eight called forms, standardized and re-summonable at will. Each has answered en
 
 ### The Citation · *Advisor, Greater Summon*
 
-**Glyphs** · `Ma` Memory · `Ie` Insight · `Ur` Balance
+**Glyphs** · `[Ma]` Recall · `[Ie]` Perception · `[Ur]` Balance
 > *"Doctor absens adsit."* — Let the absent teacher be present.
 **Trigger** · Spoken alone, no Draft-circle, only near an ally already diagnosed with Sight Through the Glass.
 **Function** · A translucent, old-fashioned scholarly figure that stands just behind an ally's shoulder for the duration of an engagement, visible only to the ally and to Mu-jin. **His only support-only summon.**
@@ -122,11 +122,11 @@ Eight called forms, standardized and re-summonable at will. Each has answered en
 
 ### The Redaction · *Eraser, Greater Summon*
 
-**Glyphs** · `No` Negation · `Ie` Insight — anti-glyph specialist
+**Glyphs** · `[Nl]` Null · `[Ie]` Perception — anti-glyph specialist
 > *"Quod scriptum est, deleatur."* — Let what is written be deleted.
 **Trigger** · Physical contact between the construct's single unmarked hand and the inscription being targeted.
 **Function** · A blank, unfinished-looking humanoid shape without visible detail on face or hands, built specifically to unmake rather than to act.
-**Mechanism** · Runs a targeted Distillatio-Fixatio-`No` sequence in reverse of how Mu-jin normally uses those Wellsprings. Instead of isolating and preserving a true signal, it isolates a written or glyphic structure and **actively unseals it**, undoing whatever Sealing glyphs hold it closed.
+**Mechanism** · Runs a targeted Sublimare-Fixatio-`[Nl]` sequence in reverse of how Mu-jin normally uses those Wellsprings. Instead of isolating and preserving a true signal, it isolates a written or glyphic structure and **actively unseals it**, undoing whatever Sealing glyphs hold it closed.
 **Numerical effect** · Can unmake a single glyph-array or ward up to roughly Legion-tier complexity in under ten seconds of sustained contact. Anything more sophisticated resists, and the construct's hand blackens and eventually fails.
 **Target response** · Wards and glyph-work do not shatter under The Redaction. **They simply stop having been written**, which reads to any witness as considerably worse.
 **Cost** · 10% of reserve. Every successful unmaking leaves a small blank patch in his own memory of the encounter — he genuinely cannot recall, afterward, exactly what the erased glyph-work looked like.
@@ -136,7 +136,7 @@ Eight called forms, standardized and re-summonable at will. Each has answered en
 
 ### The Index · *Archive, World-Tethered-Adjacent Legion Summon*
 
-**Glyphs** · `Th` Structure · `Ma` Memory · `Ci` Order
+**Glyphs** · `[Th]` Foundation · `[Ma]` Recall · `[Ho]` Order
 > *"Omnia inveniantur, nihil pereat."* — Let all things be found, let nothing be lost.
 **Trigger** · A full night's preparation and a permanent-feeling location. Never a battlefield improvisation.
 **Function** · A towering, several-story construct resembling a leaning archive-shelf given a walking frame. Used as a mobile forward operating point, not a combatant. **Called perhaps a dozen times in his career.**
@@ -167,7 +167,7 @@ Eight called forms, standardized and re-summonable at will. Each has answered en
 ### Calcination Draft — Honest Fire · *Trained*
 
 **Trigger** · *"Falsum ardeat, verum maneat"* over a prepared vessel.
-**Function** · Strips false structure from material or wound-site, through direct invocation of Calcination's ego-death function via material contact.
+**Function** · Strips false structure from material or wound-site, invoking Cinerion through material contact to work Calcination's ego-death function.
 **Numerical effect** · Burn radius 0.5–1.2 metres, approximately 1400°C at the face.
 **Cost** · Negligible EU; high personal cost to have cast.
 **Sensory** · Scorched paper and old copper on the air before the burn even lands.
@@ -182,10 +182,10 @@ Eight called forms, standardized and re-summonable at will. Each has answered en
 **Sensory** · The specific smell of ink and old paper, and the particular quiet of a Draft-circle in the half-second before it answers.
 **Corruption vector** · An Obsession-Force practitioner stops asking the Continuum for a lawful shape and starts demanding one. Usurpation, in Vocatia's own terms, regardless of how correct the syntax looks.
 
-### Distillatio Seal — Clear Ledger · *Trained*
+### Distillation Seal — Clear Ledger · *Trained*
 
 **Trigger** · **Any request to verify, not to fix.**
-**Function** · Isolates a single true signal from noise. Direct Distillatio invocation, purification without transformation. Full resolution under 3 seconds.
+**Function** · Isolates a single true signal from noise. Direct Sublimare invocation, purification without transformation. Full resolution under 3 seconds.
 **Cost** · Negligible EU to him, **sometimes severe to the asker.**
 **Sensory** · No visible effect. The tell is entirely in Mu-jin himself, a stillness that settles over him mid-sentence.
 **Interactions** · The verification layer underlying every other technique's honest self-assessment. He runs it on himself before he runs it on anyone else.

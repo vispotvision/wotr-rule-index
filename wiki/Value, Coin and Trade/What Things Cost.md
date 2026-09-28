@@ -4,13 +4,13 @@ notion_id: "3e758200-eb22-816b-b71e-dbadda080fd3"
 notion_url: "https://app.notion.com/p/What-Things-Cost-3e758200eb22816bb71edbadda080fd3"
 section: "Value, Coin and Trade"
 tags: []
-last_edited: "2026-09-26T10:03:00.000Z"
+last_edited: "2026-09-28T08:19:00.000Z"
 verification: "unverified"
 ---
 
 # What Things Cost
 
-*Everyday prices and wages in a networked Accord city of the late Imperial Age, at the Accord rate, western standard*
+*Everyday prices and wages in a networked Accord city of the early Imperial Age, at the Accord rate, western standard*
 > **One gold mark is twelve silver marks. One silver mark is twenty-four copper. A gold mark is therefore two hundred and eighty-eight copper**, and almost nobody below a shop's counting-room ever handles one.
 > 
 > A Nalūn salt bar passes for one silver mark, more in a hard winter. Imperial bronze goes by weight.

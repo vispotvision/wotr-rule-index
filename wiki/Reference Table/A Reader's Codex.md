@@ -4,7 +4,7 @@ notion_id: "3db58200-eb22-812a-ad53-c3188d8e5557"
 notion_url: "https://app.notion.com/p/A-Reader-s-Codex-3db58200eb22812aad53c3188d8e5557"
 section: "Reference Table"
 tags: ["Reference Table"]
-last_edited: "2026-09-27T19:50:00.000Z"
+last_edited: "2026-09-28T08:18:00.000Z"
 verification: "unverified"
 ---
 
@@ -125,4 +125,4 @@ But the world's own institutions are honest, in their own dry way, about how muc
 **The Fourteen Archons**: the crowned principles administering meaning between Titanic Law and Wellspring Law.
 **The Fourteen Titans**: load-bearing cosmic laws with no theology, maintained by engineering rather than worship.
 **The Veil**: the threshold running between all three planes wherever their laws border each other.
-**The Withering**: the unexplained, decades-long decline in the West's ambient Essence, ongoing since Year 645 of the Imperial Age.
+**The Withering**: the unexplained, decades-long decline in the West's ambient Essence, ongoing since Year 645 In Concordance.

@@ -4,7 +4,7 @@ notion_id: "3c758200-eb22-81f8-b77d-ff56d9e41528"
 notion_url: "https://app.notion.com/p/The-Spiritual-Seat-Omnis-Florwyn-Dazkar-Nysera-Sylorin-Ilgrimm-3c758200eb2281f8b77dff56d9e41528"
 section: "The Fourteen Titans"
 tags: []
-last_edited: "2026-09-26T10:18:00.000Z"
+last_edited: "2026-09-28T08:18:00.000Z"
 verification: "unverified"
 ---
 
@@ -142,7 +142,7 @@ The boundary between what is imagined and what is real, which prevents creation 
 
 ### The Record
 
-Her whisper taught the Eresse Visionbinding, the storing of prophecy in sleep, and her earliest seers recorded future wars centuries in advance encoded as lullabies. The Hobgoblin Imperium outlawed dream recording after several rulers went mad from sleeping visions, and her worship survived underground as the Cult of Silver Mirrors. When the Crevice opened, the world's dreams turned black and stayed black for a millennium, a shared nightmare the Archives call the Long Sleep. Lucid dreaming returned around Imperial Year 000 and is read as her gradual reawakening.
+Her whisper taught the Eresse Visionbinding, the storing of prophecy in sleep, and her earliest seers recorded future wars centuries in advance encoded as lullabies. The Hobgoblin Imperium outlawed dream recording after several rulers went mad from sleeping visions, and her worship survived underground as the Cult of Silver Mirrors. When the Crevice opened, the world's dreams turned black and stayed black for a millennium, a shared nightmare the Archives call the Long Sleep. Lucid dreaming returned around Year 000 IC and is read as her gradual reawakening.
 
 ### Bonds
 

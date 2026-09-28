@@ -4,7 +4,7 @@ notion_id: "3e058200-eb22-819a-be45-e0609e1102db"
 notion_url: "https://app.notion.com/p/Geturo-Mahuo-3e058200eb22819abe45e0609e1102db"
 section: "Volume I — Character Cards"
 tags: []
-last_edited: "2026-09-26T10:28:00.000Z"
+last_edited: "2026-09-28T08:23:00.000Z"
 verification: null
 ---
 
@@ -13,12 +13,12 @@ verification: null
 **Say it** · geh-TOO-roh MAH-hoo-oh
 **As Of:** After the Arena duel, seven days before the tournament
 **Lineage:** Mahuo (Korean stratum). Son of Kwon Mu-jin and Frithia.
-**Age:** 14. Twin (older by minutes than Hiromi).
+**Age:** 15. The eldest of three.
 **Class:** X, Aetherion Academy.
 
 ### I. Identity
 
-Twin brother to Hiromi (younger by minutes), younger brother to Lily. Studies alchemy under Mu-jin. No title. The responsible counterweight: watches exits, checks for people, permits Hiromi to take the centre and walks the outside.
+Older brother to Hiromi and Lily. Studies alchemy under Mu-jin. No title. The responsible counterweight: watches exits, checks for people, permits Hiromi to take the centre and walks the outside.
 
 ### II. Soul Architecture
 
@@ -47,7 +47,7 @@ All values estimated. No stat breaks his Stage ceiling. Progression is honest, e
 
 ### XIII. Physical Description
 
-Taller than Hiromi by three fingers. Broader through the chest and shoulders, dense and settled. Warm chestnut brown hair (mother's), cut short at the sides, longer on top. Face rounder, jaw heavier, cheekbones less pronounced. Frithia's mouth, wide, set in a line. Hands larger than a boy of fourteen ought to have, knuckled and square, hanging still at his sides. Academy black, buttoned to the collar, cinched at the waist, sleeves rolled.
+Taller than Hiromi by three fingers. Broader through the chest and shoulders, dense and settled. Warm chestnut brown hair (mother's), cut short at the sides, longer on top. Face rounder, jaw heavier, cheekbones less pronounced. Frithia's mouth, wide, set in a line. Hands larger than a boy of fifteen ought to have, knuckled and square, hanging still at his sides. Academy black, buttoned to the collar, cinched at the waist, sleeves rolled.
 
 ### XIV. Psychology
 
@@ -61,7 +61,7 @@ Taller than Hiromi by three fingers. Broader through the chest and shoulders, de
 
 ### Relationships
 
-**Hiromi** (twin) · **Lily** (older sister) · **Mu-jin** (father, alchemy collaborator) · **Frithia** (mother)
+**Hiromi** (younger brother) · **Lily** (younger sister) · **Mu-jin** (father, alchemy collaborator) · **Frithia** (mother)
 
 ### Naming Flag
 

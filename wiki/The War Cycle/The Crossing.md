@@ -4,7 +4,7 @@ notion_id: "3b158200-eb22-8158-834e-d24276e6337d"
 notion_url: "https://app.notion.com/p/The-Crossing-3b158200eb228158834ed24276e6337d"
 section: "The War Cycle"
 tags: []
-last_edited: "2026-08-03T21:52:00.000Z"
+last_edited: "2026-09-28T08:26:00.000Z"
 verification: "unverified"
 ---
 
@@ -52,6 +52,7 @@ Within hours, **and the departure is perceptible to anyone with even passive Vei
 **The residue does not depart. It diffuses**, slowly, back into the Wellspring — **and it diffuses through the body, which remains its medium until the process completes.**
 Nine days is the figure. It varies with Stage, with the Wellspring concerned, with saturation at the site, and with what the body is doing, **but nine is the number the practice is built on and the number the law uses.**
 > On the ninth day the residue is gone, the Wellspring has received what it was owed, **and what remains is meat.**
+**Meat is a body with no Temperance left in it.** The Trait tissue stays. A Trait is laid down in the body itself, mineral into bone, and it does not diffuse with the residue, so the remains of anyone who bore a Crystal go on holding their Traits after the ninth day, as passive carry with nothing active in it. The rendering houses race the nine days for the Temperance. The Trait tissue waits, which is why a Crystal-bearer's grave-dirt and bone-ash still grade Class IV.
 **Everything difficult in this document occurs inside those nine days.**
 
 ### The Name-record files last and does not close

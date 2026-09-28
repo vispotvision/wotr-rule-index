@@ -4,8 +4,8 @@ notion_id: "3b158200-eb22-8125-b16f-c6df559055a5"
 notion_url: "https://app.notion.com/p/The-Spirit-Rune-Arts-3b158200eb228125b16fc6df559055a5"
 section: "The Disciplines"
 tags: []
-last_edited: "2026-08-03T04:42:00.000Z"
-verification: "unverified"
+last_edited: "2026-09-28T08:55:00.000Z"
+verification: null
 ---
 
 # The Spirit Rune Arts
@@ -42,7 +42,7 @@ Most runic accidents begin here. **A transformation without limits continues unt
 
 ### Direction
 
-Specifies vector and focus. Without it, a Calcination rune burns indiscriminately and a Distillatio rune strips every Essence type including what was meant to remain.
+Specifies vector and focus. Without it, a Cinerion rune burns indiscriminately and a Sublimare rune strips every Essence type including what was meant to remain.
 In arrays, Direction also governs flow: which rune activates first, which feeds into which, how the circuit resolves when multiple processes operate simultaneously. A poorly directed array does not just fail. It creates interference patterns between its own elements, producing **Draft Corruption**: law-fragments, Wellspring processes started but not completed, which keep trying to finish themselves in whatever they contact.
 
 ### Sealing
@@ -94,7 +94,7 @@ flowchart TD
 
 ## Parunic Phonemes in Runic Practice
 
-Each phoneme carries a meaning the Continuum reads as an operational instruction.
+Each phoneme carries a meaning the Continuum reads as an operational instruction. The phonemes in this section are given in an older teaching register whose names have drifted from the Master Glyph Index: several codes mean other things there, and some are not attested there at all. A chain written for use quotes its glyphs as the Index gives them.
 | Class | Phonemes |
 |---|---|
 | **Structural** | `Ur` Balance/Continuum · `Ky` Structure · `Th` Foundation · `En` Lattice · `Al` Edge · `Cal` Craft |

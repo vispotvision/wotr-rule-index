@@ -4,7 +4,7 @@ notion_id: "3bd58200-eb22-81ce-ae1e-e024b9b87e12"
 notion_url: "https://app.notion.com/p/Gonju-The-Sage-3bd58200eb2281ceae1ee024b9b87e12"
 section: "Volume I — Character Cards"
 tags: []
-last_edited: "2026-09-26T10:32:00.000Z"
+last_edited: "2026-09-28T08:58:00.000Z"
 verification: null
 ---
 
@@ -41,7 +41,7 @@ verification: null
 ## III · Wellspring Harmonizations
 
 **Verdantia** · Vitalia. **Deep chlorophyll green.** *The groves, the growth, the whole practice.*
-**Sublimare** · Vectoria. **Elevates without passing through the states between** — *and there is no stage at which the working can be inspected or corrected.* **For a rite that lifts corruption out of soil, that is exactly the risk profile.**
+**Sublimatio** · Vectoria. **Elevates without passing through the states between** — *and there is no stage at which the working can be inspected or corrected.* **For a rite that lifts corruption out of soil, that is exactly the risk profile.**
 **Benediction** · **The blessing-resonance**, and *the only sheet in the volume where the term is used correctly — as a resonance rather than a Stage.*
 **Anamnesis** · Limina. **Green Tongue** — *reading memory rings inside plants, pulling emotional echoes, soil history, trauma signatures.* **Objects genuinely store their history in physically readable form, and a tree ring is the clearest example in the setting.**
 

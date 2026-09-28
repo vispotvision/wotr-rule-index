@@ -1,6 +1,6 @@
 # War of the Realms — Wiki mirror
 
-672 pages, mirrored from Notion by build/notion_export.py. Read-only here; edit in Notion and re-run.
+674 pages, mirrored from Notion by build/notion_export.py. Read-only here; edit in Notion and re-run.
 
 ## Aberrations (1)
 
@@ -274,8 +274,9 @@
 - [Winter Rend](Techniques/Winter%20Rend.md)
 - [World Echelon](Techniques/World%20Echelon.md)
 
-## The Alftian Codex (3)
+## The Alftian Codex (4)
 
+- [The Farrant Papers](The%20Alftian%20Codex/The%20Farrant%20Papers.md)
 - [Volume the First](The%20Alftian%20Codex/Volume%20the%20First.md)
 - [Volume the Second](The%20Alftian%20Codex/Volume%20the%20Second.md)
 - [Volume the Third](The%20Alftian%20Codex/Volume%20the%20Third.md)
@@ -552,7 +553,7 @@
 
 - [What Things Cost](Value,%20Coin%20and%20Trade/What%20Things%20Cost.md)
 
-## Volume I — Character Cards (283)
+## Volume I — Character Cards (284)
 
 - [Adalric Vladimer Valen · The Crimson Shade](Volume%20I%20—%20Character%20Cards/Adalric%20Vladimer%20Valen%20·%20The%20Crimson%20Shade.md)
 - [Aeldoris Vanthryx · The Ruthless](Volume%20I%20—%20Character%20Cards/Aeldoris%20Vanthryx%20·%20The%20Ruthless.md)
@@ -729,6 +730,7 @@
 - [Nuvalik](Volume%20I%20—%20Character%20Cards/Nuvalik.md)
 - [Onawa Ashkewe](Volume%20I%20—%20Character%20Cards/Onawa%20Ashkewe.md)
 - [Onawa · Empress of Eresse](Volume%20I%20—%20Character%20Cards/Onawa%20·%20Empress%20of%20Eresse.md)
+- [Orin Farrant](Volume%20I%20—%20Character%20Cards/Orin%20Farrant.md)
 - [Orivane Caelthys · Astral Shepherd](Volume%20I%20—%20Character%20Cards/Orivane%20Caelthys%20·%20Astral%20Shepherd.md)
 - [Orokh Sable-Forge · The Wyrmwright](Volume%20I%20—%20Character%20Cards/Orokh%20Sable-Forge%20·%20The%20Wyrmwright.md)
 - [Orya of the Wheat March · The Dragon Shepard](Volume%20I%20—%20Character%20Cards/Orya%20of%20the%20Wheat%20March%20·%20The%20Dragon%20Shepard.md)

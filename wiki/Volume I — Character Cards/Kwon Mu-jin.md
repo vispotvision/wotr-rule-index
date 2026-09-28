@@ -4,7 +4,7 @@ notion_id: "3b258200-eb22-8188-b889-f849c8cc7c56"
 notion_url: "https://app.notion.com/p/Kwon-Mu-jin-3b258200eb228188b889f849c8cc7c56"
 section: "Volume I — Character Cards"
 tags: []
-last_edited: "2026-09-27T04:16:00.000Z"
+last_edited: "2026-09-28T08:54:00.000Z"
 verification: null
 ---
 
@@ -22,7 +22,7 @@ verification: null
 
 **As Of** With the Zettari war camp, before the Ashgate road
 **Also known as** **The Ledger-Prince** *(court epithet, resented)* · The Open-Handed Alchemist
-**Race / Lineage** Human — **Mahuo court line**, scholar-nobility, Eastern Concord-adjacent enclave
+**Race / Lineage** Human — **Mahuo court line**, scholar-nobility of the house at Sum-gol, Ketsuen
 **Age** 24 · **Sex** Male
 **Standing** Guild Accord, **Division of Alchemetrica, Archmagus-ranked.** Mahuo summoning lineage, formally trained. **Self-bound to the Dawn Guard's teaching vow, embedded with the Zettari war camp**
 > **Catalyst Event.** Presented a corrected Fixation array to the court's Senior Alchemist **at fourteen** — not to embarrass him, *just because the glyph chain was wrong and would have killed the patient.*
@@ -45,7 +45,7 @@ verification: null
 | **Soul Crystal Tier** | **Sovereign Crystal** |
 | **Crystal State** | Refined, dense. **The old Splintering-era fracture is fully integrated** — *per Stage XI's "fractures become features" principle,* *that scar now functions as architecture rather than damage* |
 
-**Wellspring Harmonizations** · **Alchemetrica** — Coagulatio, Distillatio, Fixation, Calcination. *His founding discipline, still the seat of his diagnostic identity.* Vocatia **—** ***trained, not latent.*** The Mahuo family's ancestral summoning art, formally studied once his Stage advancement made ignoring it untenable. Anamnesis **— matured;** reads inherited intention and unfinished formulae with real fluency.
+**Wellspring Harmonizations** · **Alchemetrica** — Coagulatio, Fixatio. *His founding discipline, still the seat of his diagnostic identity.* Vocatia **—** ***trained, not latent.*** The Mahuo family's ancestral summoning art, formally studied once his Stage advancement made ignoring it untenable. Anamnesis **— matured;** reads inherited intention and unfinished formulae with real fluency.
 
 ---
 
@@ -80,7 +80,7 @@ verification: null
 ## VIII–IX · Traits and Domain
 
 **Fixation Anchor Sense** · Innate · Fixatio — **feels a Draft's Sealing Glyphs the way most people feel a held breath.** *Knows instantly when a seal is failing, streets away.*
-**Diegetic Read: "Loose Thread"** · Tempered · Distillatio — **what Analysis shows him when a compound or a person is one honest push from coming undone.**
+**Diegetic Read: "Loose Thread"** · Tempered · Distillation, drawing on Sublimare — **what Analysis shows him when a compound or a person is one honest push from coming undone.**
 **Vocatia Aptitude** · Lineage — the Mahuo summoning capacity, fully trained. **Called constructs arrive already shaped by whatever the working needs.**
 > **Archmagus, Youngest Recorded S-Grade in Accord History** · Resonant
 >
@@ -94,9 +94,9 @@ verification: null
 | Technique | Function and cost | Counterplay |
 |---|---|---|
 | **Sight Through the Glass** · *Signature* | Trigger: **removes and holds his spectacles.** Full diagnostic overlay of Draft integrity, Wellspring drift, structural failure points. Gnosis-Analysis routed through the Attraction Layer, **bypassing Fixation delay.** Reads failure points to a **40-second predictive window.** *Target response: nothing visible —* *the horror is entirely his.* **Cost:** migraine-grade backlash for hours, ~2% of reserve per use | **Active flux still outpaces a 40-second window** |
-| **Calcination Draft** · Honest Fire | Trigger: ***"Falsum ardeat, verum maneat"*** over a prepared vessel. Strips false structure from material or wound-site. Burn radius 0.5–1.2m, **~1400°C at the face.** *Cost: negligible EU,* *high personal cost to have cast* | Requires contact · **a resisting target scatters the glyphs** |
+| **Calcination Draft** · Honest Fire | Trigger: ***"Falsum ardeat, verum maneat"*** over a prepared vessel. Strips false structure from material or wound-site, drawing on Cinerion. Burn radius 0.5–1.2m, **~1400°C at the face.** *Cost: negligible EU,* *high personal cost to have cast* | Requires contact · **a resisting target scatters the glyphs** |
 | **Vocatia** · The Ledger's Summons | Spoken Parunic invocation over an open Draft-circle. **Full readiness under 3 seconds.** Cost: 5–15% of reserve by construct complexity | **Constructs inherit his Fulguria signature, readable by comparable Perception** |
-| **Distillatio Seal** · Clear Ledger | Trigger: **any request to verify, not to fix.** Isolates a single true signal from noise, full resolution under 3 seconds. *Cost: negligible EU to him —* *sometimes severe to the asker* | **Only as good as what is fed into it** |
+| **Distillation Seal** · Clear Ledger | Trigger: **any request to verify, not to fix.** Draws on Sublimare to isolate a single true signal from noise, full resolution under 3 seconds. *Cost: negligible EU to him —* *sometimes severe to the asker* | **Only as good as what is fed into it** |
 
 ---
 

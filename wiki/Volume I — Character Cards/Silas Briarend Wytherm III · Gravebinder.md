@@ -4,14 +4,14 @@ notion_id: "3bd58200-eb22-81cc-9c21-ef8b1417e1bc"
 notion_url: "https://app.notion.com/p/Silas-Briarend-Wytherm-III-Gravebinder-3bd58200eb2281cc9c21ef8b1417e1bc"
 section: "Volume I — Character Cards"
 tags: []
-last_edited: "2026-09-26T10:31:00.000Z"
+last_edited: "2026-09-28T08:55:00.000Z"
 verification: null
 ---
 
 # Silas Briarend Wytherm III · Gravebinder
 
 **Say it** · SY-las BRY-er-end WITH-erm the THIRD
-> **Corrected.** The legacy "Path of Ritual Deathbinding" listed **Putrefactio (II), Cibation (IX), Dissolution (I), Calcination (XII)** with roman numerals implying an ordered sequence. **Dissolution and Calcination are Wellsprings. Putrefactio and Cibation are not** — they are Great Work operations, and the numbering does not correspond to anything in the register. **"Horoscopic Signature: Sh (Reflection)"** has been carried as a glyph reference pending check against the Master Glyph Index.
+> **Corrected.** The legacy "Path of Ritual Deathbinding" listed **Putrefactio (II), Cibation (IX), Dissolution (I), Calcination (XII)** with roman numerals implying an ordered sequence. **Dissolution is a Wellspring. Putrefactio, Cibation and Calcination are not** — they are Great Work operations, and the numbering does not correspond to anything in the register. **"Horoscopic Signature: Sh (Reflection)"** has been carried as a glyph reference pending check against the Master Glyph Index.
 
 ---
 

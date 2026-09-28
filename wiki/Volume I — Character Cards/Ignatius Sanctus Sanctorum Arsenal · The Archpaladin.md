@@ -4,7 +4,7 @@ notion_id: "3bd58200-eb22-8146-9dc8-dac0ece8a344"
 notion_url: "https://app.notion.com/p/Ignatius-Sanctus-Sanctorum-Arsenal-The-Archpaladin-3bd58200eb2281469dc8dac0ece8a344"
 section: "Volume I — Character Cards"
 tags: []
-last_edited: "2026-09-27T19:48:00.000Z"
+last_edited: "2026-09-28T08:55:00.000Z"
 verification: null
 ---
 
@@ -47,7 +47,7 @@ verification: null
 
 ## III · Wellspring Harmonizations
 
-**Calcination** · Caloria. Burns away false structure. **One of the eight currents that are simultaneously Wellspring, cosmic principle and alchemical operation.**
+**Cinerion** · Caloria. The Ash Veil. What the fire leaves becomes recovery material, **and every calcination at the bench draws on it.**
 **Luminalis** · Fulguria. The radiant expression. Near-white, arc-clean, **the visible geometry that forms around him under load.**
 **Judicium** · Fulguria. Order, measure, consequence. *The Heresiology's warning attaches here: law without mercy becomes burnished sadism, and Judicium injury is most visible where either side is used to excuse the other's absence.* **Ignatius is closer to that line than his Order will say aloud.**
 **Fixatio** · Materia. Anchors and seals. The Cradle, and everything that holds.

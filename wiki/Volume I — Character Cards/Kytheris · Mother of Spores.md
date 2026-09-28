@@ -4,7 +4,7 @@ notion_id: "3bd58200-eb22-8137-aec0-fea0928d2dcf"
 notion_url: "https://app.notion.com/p/Kytheris-Mother-of-Spores-3bd58200eb228137aec0fea0928d2dcf"
 section: "Volume I — Character Cards"
 tags: []
-last_edited: "2026-09-26T10:32:00.000Z"
+last_edited: "2026-09-28T08:56:00.000Z"
 verification: null
 ---
 
@@ -13,6 +13,8 @@ verification: null
 **Say it** · KITH-eh-riss
 > *"All flesh is fertile if you break it down enough. The soul? Merely a seedbed."*
 > **Same Archon error.** The path lists **"Fermentation (Archon of Flux) · Sublimation (Archon of Transition) · Harmonic (Archon of Resonance)."**
+> 
+> **None of the three is an Archon.** *Fermentation is a Great Work operation.* **Sublimatio** *is* a genuine Wellspring — *it elevates without passing through the states between* — **and "Harmonic" is Harmonia, a Category, not a current.** *All three re-sourced below.*
 >
 > **None of the three is an Archon.** *Fermentation is a Great Work operation.* **Sublimare** *is* a genuine Wellspring — *it elevates without passing through the states between* — **and "Harmonic" is Harmonia, a Category, not a current.** *All three re-sourced below.*
 
@@ -39,7 +41,7 @@ verification: null
 ## III · Wellspring Harmonizations
 
 **Verdantia** · Vitalia. **The cultivation, the crown, the brood.** *The living half of rot.*
-**Sublimare** · Vectoria. ***Elevates without passing through the states between*** — solid to vapour with nothing in the middle.
+**Sublimatio** · Vectoria. ***Elevates without passing through the states between*** — solid to vapour with nothing in the middle.
 > **This is the airborne conversion, and its risk is the one that matters:** *there is no stage at which the working can be inspected or corrected.* Once her spores go up, nobody — including Kytheris — can check them.
 **Mortalis** · Vitalia. **Governs passage.** *Same-Family compounding with Verdantia — bloom and rot are one operation in her hands.*
 **Anamnesis** · Limina. **The emotional infections, and the seeds embedded in a spiritual lattice waiting for activation.**
@@ -91,7 +93,7 @@ verification: null
 ### The Blooming Silence
 
 **Effect** · She reads a soul's harmonic and releases at that frequency. **The resistance is intact and irrelevant** — *the spore is already inside the lattice, and it does not have to do anything yet.*
-**Cost** · **Sublimare cannot be inspected mid-working.** *What she has released is beyond her reach the instant it is airborne, and she has been releasing for years.*
+**Cost** · **Sublimatio cannot be inspected mid-working.** *What she has released is beyond her reach the instant it is airborne, and she has been releasing for years.*
 **Limit** · **She must read the frequency first.** *A soul she cannot diagnose is a soul she cannot tune to.*
 **Counter** · **Silence.** *Graelith disrupts her tuning and she knows it.*
 > **What nobody knows.** How much of the four quarters is already soil.

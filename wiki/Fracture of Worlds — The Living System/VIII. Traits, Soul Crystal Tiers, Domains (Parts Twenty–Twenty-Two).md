@@ -4,7 +4,7 @@ notion_id: "3d758200-eb22-81d0-a367-f18213037668"
 notion_url: "https://app.notion.com/p/VIII-Traits-Soul-Crystal-Tiers-Domains-Parts-Twenty-Twenty-Two-3d758200eb2281d0a367f18213037668"
 section: "Fracture of Worlds — The Living System"
 tags: ["Magic System", "Reference Table"]
-last_edited: "2026-09-23T23:24:00.000Z"
+last_edited: "2026-09-28T08:26:00.000Z"
 verification: "unverified"
 ---
 
@@ -63,7 +63,7 @@ Traits awaken during Resonance Events.
 ### Part Twenty-One — Soul Crystal Developmental Tiers
 
 *"To refine the soul is not to polish it. It is to remove everything that was never truly part of the design."*
-The Crystal evolves through Developmental Tiers representing the synthesis of all three layers at once. These correlate with but are **not identical to** Temperance Stages or Aether Classes. A Crystal can run ahead of or behind its Shell or Core, and the gap is itself diagnostic.
+The Crystal evolves through Developmental Tiers representing the synthesis of all three layers at once. These correlate with but are **not identical to** Temperance Stages or Aether Classes. A Crystal can run ahead of or behind its Shell or Core, and the gap is itself diagnostic. A pure alchemist works on a Crystal that never woke and reads Dormant on the table below; the Tier of Standing such an alchemist holds, up to Five, is certified at the bench and never read off the Crystal.
 | Tier | Description | Corresponds to |
 |---|---|---|
 | **Dormant** | Sealed and silent. The Crystal exists but does not yet function as a metaphysical organ. | Class Ø, pre-Initiate |

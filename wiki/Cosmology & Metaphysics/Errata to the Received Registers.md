@@ -4,14 +4,14 @@ notion_id: "3b158200-eb22-81fc-834d-d37caa50629f"
 notion_url: "https://app.notion.com/p/Errata-to-the-Received-Registers-3b158200eb2281fc834dd37caa50629f"
 section: "Cosmology & Metaphysics"
 tags: ["Lore & History", "In-World Document"]
-last_edited: "2026-09-10T11:16:00.000Z"
+last_edited: "2026-09-28T08:24:00.000Z"
 verification: "unverified"
 ---
 
 # Errata to the Received Registers
 
 *The Conversion of Superseded Dates, with a Ruling on the Epochs*
-> Issued by the Guild of Measurewrights under the Hexagonal Oath, as a companion instrument to the Concordance of Ages. Year 715 of the Imperial Age, Withering Era.
+> Issued by the Guild of Measurewrights under the Hexagonal Oath, as a companion instrument to the Concordance of Ages. Year 715 In Concordance, Withering Era, the twenty-fifth year of the Imperial Age.
 > 
 > This document does not amend the Concordance. It states how a reader holding an older register is to convert what is in front of them.
 
@@ -36,7 +36,7 @@ This is not a demotion. A bloodline that traces itself to the Second Epoch is ma
 | Finding | Statement |
 |---|---|
 | **The rule** | An Epoch figure is not to be placed on the Age count, subtracted from it, or reconciled with it. A document that gives both is giving a myth and a measurement and expects the reader to know which is which. |
-| **The consequence** | No bloodline codex, no Archonic register, no Path or Wellspring origin account requires amendment under the Concordance. The Guild has examined the principal registers of the Yukari, the Zettari, the Moto, and the Alftian codices and finds that not one of them cites an Age. They were never in conflict with the count. **They were in a different conversation.** |
+| **The consequence** | No bloodline codex, no Archonic register, no Path or Wellspring origin account requires amendment under the Concordance. The Guild has examined the principal registers of the Yukari, the Zettari, and the Moto and finds that not one of them cites an Age. They were never in conflict with the count. **They were in a different conversation.** The Alftian codices do cite one. They are stamped in the early years of the Imperial Age, and they stand on the count as sealed. |
 
 ---
 
@@ -48,7 +48,7 @@ Where a superseded register uses the term at left, the reader substitutes the te
 | The Age of Deliberation | The Reconstruction Age, early | Dates given as "thirty thousand" are withdrawn. The era runs −450 to −225 in the corrected count |
 | The Dragon Empire | The late Reconstruction kingdoms | Dates given as "twelve thousand" are withdrawn. The period runs −225 to −60. No single polity is attested; the received name describes a trading and military region |
 | The Pyrrhean Epidemic | The Antediluvian collapse | Withdrawn as a distinct era. The events attributed to it belong to the closing century of the Antediluvian Calendar, circa −550 to −450 |
-| The Imperial Calendar | The Imperial Age | The count itself is unchanged. Year Zero is Year Zero. Only the name of the age is corrected |
+| The Imperial Calendar | The count In Concordance (IC) | The count itself is unchanged. Year Zero is Year Zero. Only the name is corrected. The Imperial Age is the age of empire and industry that begins in Year 690 |
 | The Withering Age | The Withering Era | Where a register places the Withering before the Voyager Era, the register is inverted and the reading is to be reversed. The Withering opens Year 645 |
 | The Renaissance Era, The Fractured Era | **No corrected term** | Neither appears in any sealed chronology. A register citing them is citing Divisional correspondence and should be read as opinion |
 
@@ -62,7 +62,7 @@ Every number in the old count above about two thousand derives from a single str
 ## IV. Registers Requiring No Action
 
 The Guild has surveyed the principal holdings and records the following as conforming already, so that no clerk spends a season correcting what is not wrong.
-**Documents stamped in the Voyager Era at low Imperial years** · The Concord Codex at Imperial Year 000, the Heart Vault inner seal at Imperial Year 013, the Hall of the Vanguard engraving at Imperial Year 014, and the High Concordant's Lattice writ at Imperial Year 027 are all correct as sealed. The Voyager Era is the opening era of the Imperial Age and runs to Year 070. The apparent paradox in the first edition of the Four Ceilings arose from placing it five centuries late and has been withdrawn.
+**Documents stamped in the Voyager Era at low years of the count** · The Concord Codex at Year 000 IC, the Heart Vault inner seal at Year 013 IC, the Hall of the Vanguard engraving at Year 014 IC, and the High Concordant's Lattice writ at Year 027 IC are all correct as sealed. The Voyager Era is the opening era of the count and runs to Year 070. The apparent paradox in the first edition of the Four Ceilings arose from placing it five centuries late and has been withdrawn.
 **Bloodline and Path registers** · See Section II. None cite an Age.
 **Wellspring registers** · The sixty Wellsprings are described by law and behaviour rather than by date. Where a Wellspring register gives an era of discovery, it is giving the era in which somebody wrote it down, which is a fact about scribes.
 **Technique and glyph registers** · Unaffected. A glyph combination has no date.
@@ -79,4 +79,4 @@ The Guild has no remedy to offer for either. It observes only that the count was
 
 ---
 
-> *Attested and sealed. Guild of Measurewrights, under the Hexagonal Oath, in the Archives Eternal beneath the Council Spire. Year 715 of the Imperial Age, Withering Era.*
+> *Attested and sealed. Guild of Measurewrights, under the Hexagonal Oath, in the Archives Eternal beneath the Council Spire. Year 715 In Concordance, Withering Era, the twenty-fifth year of the Imperial Age.*

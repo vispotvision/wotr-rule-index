@@ -4,7 +4,7 @@ notion_id: "3e758200-eb22-8127-a7c2-ece5680c1889"
 notion_url: "https://app.notion.com/p/X-The-Tier-Ladders-Part-Twenty-Four-3e758200eb228127a7c2ece5680c1889"
 section: "Fracture of Worlds — The Living System"
 tags: []
-last_edited: "2026-09-27T19:51:00.000Z"
+last_edited: "2026-09-28T08:25:00.000Z"
 verification: "unverified"
 ---
 
@@ -145,7 +145,7 @@ The output rung is what you must be able to survive: armour, ward and Grade are 
 #### The Drafts ladder
 
 **Alchemical works and Drafts, on the spine.** Every Draft, salt, oil, powder and charge the trade produces is a working stabilised into a substance, and a substance holds a definite quantity of Essence. The ladder reads that quantity. **A work is placed by the EU one dose holds, converted at one megajoule to the unit, and read on the spine like any other peak output.** Two modifiers, Carry and Fidelity, then move it.
-**What is read is what the dose holds, not what arrives.** The spine is read on the held figure at the constant, before anybody's η touches it. What reaches the drinker is the held figure times the drinker's own η, and whatever reaches the Crystal is banked there at the same constant it would leave at: one EU for every megajoule taken in. **A dose can overfill.** Recovery stops at a practitioner's maximum; what is drunk does not, and a dose larger than the room left in the Crystal leaves its drinker above their own ceiling, holding reserve like any other, spent at the same rate and counted toward the same floor.
+**What is read is what the dose holds, not what arrives.** The spine is read on the held figure at the constant, before anybody's η touches it. What reaches the drinker is the held figure times the drinker's own η, and it is spent where the formula sends it: on the body, on the Shell, or on the pressure a Crystal builds toward its next Threshold. **No dose refills a reserve.** A practitioner is refilled by a Wellspring or not at all, and a Draft drunk on an empty reserve mends the body and steadies the Shell and leaves the reserve as empty as it found it.
 
 #### The nine rungs
 
@@ -213,7 +213,7 @@ The two agree most often through the middle of the trade, where a Threshold rati
 | **Thundercrack Grenade** | T5 | II / — / — | about 1 EU, 10⁶ J: eardrums ruptured within four metres, mortar failed in tension | Tonic | none | **Tonic** |
 | **Deadlight Phial** | T3 | II / B / 7 | about 2 EU: a few watts of cold light for two hundred hours | Tonic | none | **Tonic** |
 | **Hillcarry Salts** | T3 | II / A / 12 | 100 – 600 EU per ration dose | Draught | none | **Draught** |
-| **Mnemonis Solution** | not entered | — | 100 – 500 EU in fifty millilitres, sized to a Stage V reserve of 1,600 EU | Draught | none | **Draught** |
+| **Mnemonis Solution** | not entered | — | 100 – 500 EU in fifty millilitres, spent cycling a Stage V Core toward a second Wellspring bond | Draught | none | **Draught** |
 | **Ascension Ration, Accord Standard** | T4 | III / A / 25 | 2,000 – 10,000 EU: a Journeyman carried to the Flourishing floor | Philter | none | **Philter** |
 | **Splinter Ration** | T5 | III / A / 35 | 5 × 10⁴ – 2 × 10⁵ EU: a Crystal supported through Splintering | Elixir | none | **Elixir** |
 | **Refraction Draught** | T6 | IV / A / 50 | 10⁵ – 10⁶ EU: the dual-sight transition at Stage VII | Elixir | Carry Marked: the donor's way of seeing recorded, no move | **Elixir** |
@@ -229,7 +229,7 @@ The two agree most often through the middle of the trade, where a Threshold rati
 
 #### Counterplay
 
-**The rung says how much a dosed opponent took in, and banked reserve is only reserve.** A Philter or an Elixir drunk before a fight has put that many EU above where the opponent stood, possibly above their own ceiling, and every one of them spends at the same rate as the rest and counts toward the same ten-percent floor. The answer is findable in the arithmetic: make them spend it. **A Draft supplies energy and it can supply a seed; it has never supplied a Catalyst**, so a dosed practitioner holds more than they did and is not a Stage higher than they were. Where the Carry is Heavy, the origin arrived with the energy, and the source's own weaknesses, appetites and habits of mind are in the drinker now and can be found there. Where the Fidelity is C or worse, the dose did not do the same thing twice, and the part that went into the adjacent process is a tell.
+**The rung says how much a dosed opponent took in, and none of it is reserve.** A Philter or an Elixir drunk before a fight has gone into the body and the Shell, and the opponent's reserve stands where it stood, spending at the same rate toward the same ten-percent floor. The answer is findable in the arithmetic, and it is the answer it was before the vial: make them spend it. **A Draft supplies energy and it can supply a seed; it has never supplied a Catalyst**, so a dosed practitioner is mended and steadied, holds no more to spend than they did, and is not a Stage higher than they were. Where the Carry is Heavy, the origin arrived with the energy, and the source's own weaknesses, appetites and habits of mind are in the drinker now and can be found there. Where the Fidelity is C or worse, the dose did not do the same thing twice, and the part that went into the adjacent process is a tell.
 
 #### The Artifacts ladder
 

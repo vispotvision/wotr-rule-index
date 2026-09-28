@@ -4,7 +4,7 @@ notion_id: "3d958200-eb22-8187-aec2-dcf949793255"
 notion_url: "https://app.notion.com/p/Raymond-Montclair-The-Luthier-of-Quiet-Roads-3d958200eb228187aec2dcf949793255"
 section: "Volume I — Character Cards"
 tags: []
-last_edited: "2026-09-27T04:16:00.000Z"
+last_edited: "2026-09-28T08:19:00.000Z"
 verification: null
 ---
 
@@ -19,7 +19,7 @@ verification: null
 
 ### I · Identity
 
-**As Of** · The late Imperial Age, after Burnt Orchard
+**As Of** · The early Imperial Age, after Burnt Orchard
 **Name** · Raymond Montclair. **Called** · The Luthier of Quiet Roads. **Also known as** · Ash-Tone Pilgrim, The Soft-Handed Witness.
 **Race / Lineage** · Mortal human, Verdant-flecked ancestry.
 **Role** · **Wandering Luthier. Memory-Bearer.**
@@ -27,7 +27,7 @@ verification: null
 
 #### Affiliation
 
-Unbound wayfarer, tolerated rather than sponsored by the Guild Accord escorts he travels alongside, in the late Imperial Age. No formal allegiance to any crown or order.
+Unbound wayfarer, tolerated rather than sponsored by the Guild Accord escorts he travels alongside, in the early Imperial Age. No formal allegiance to any crown or order.
 > **Catalyst Event · Stage IV, Flourishing.** *Flourishing asks for a first genuine Spirit Axis bond. Raymond's formed with the ashwood lute itself rather than with a person, which is why the instrument keeps emotional impressions the way most Stage IV bonds keep a face.* **A bond with an object still counts if the object is what steadied him first.**
 
 ---
@@ -148,7 +148,7 @@ He never used the lute to hurt anybody. He never tried to learn how. He took no 
 
 #### Where They Stand
 
-Raymond Montclair walks the border roads in the late Imperial Age with whatever Guild Accord escort will have him. The escorts tolerate him and sponsor nothing. He is useful to them and inconvenient in roughly equal measure. Near him, drivers stay calm. He also leaves the road for any quarrel he hears of, and the escort waits or goes on without him.
+Raymond Montclair walks the border roads in the early Imperial Age with whatever Guild Accord escort will have him. The escorts tolerate him and sponsor nothing. He is useful to them and inconvenient in roughly equal measure. Near him, drivers stay calm. He also leaves the road for any quarrel he hears of, and the escort waits or goes on without him.
 The border villages know him as the man who shows up before the worst of a dispute and leaves before anyone thinks to thank him properly. He is also called the Ash-Tone Pilgrim and the Soft-Handed Witness. Asked a direct question about his craft, he answers it. He does not offer the explanation.
 At Burnt Orchard he restored the chapel's instrument. In the restoring he halted a local Wellspring flare that nobody else had noticed building. He said nothing of it and went on with the escort. The instrument still keeps what it felt, longer than an instrument otherwise keeps anything, and a Pathwarden of the Accord who played in that chapel afterwards heard it there. The two men never met.
 How much of his own grief he has already flattened out of himself, keeping other people steady, nobody knows.

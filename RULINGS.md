@@ -2273,3 +2273,15 @@ Isaac approved the rebuilt Alftian Codex, Volume the First, with no changes. Rat
 8. Maelor's edict, "Nothing is lost, only waiting to be remembered", is cut over the door of the Genesio Archivum.
 
 Context: Isaac said 'go' in Claude Code chat on 2026-09-28 after reading the Volume I draft and its list of invented items; no swaps.
+
+## 2026-09-28 — malphas-living-2026-09-28
+
+Agent ruling under Isaac's direction ("do the Malphas living figures"), applying C-100's two dated loadouts. Malphas's living loadout, on his card as "IV · Stats · The Living Man, at Greyshaft Nine":
+1. Greyshaft Nine is dated 706 IC (the present less the night-watch book's nine years). Malphas was born 667 IC and is 39 there.
+2. At Greyshaft Nine he stands at Stage X, Realization, Level 350, Level Band IV, Tier of Standing 6 Master, Grade ceiling 725; η about 0.72, an estimate inside the Master band.
+3. Pool 11,050 (5,550 levelling and 5,500 Thresholds through Stage X), allocated 11,000 across the Sub-Stats as the card prints them; Depth 725 at ceiling is his widest figure and Dexterity his lowest.
+4. His living Crystal State is Refined, going Overgrown only at a Stage transition; Path Spirit dominant, Fate secondary, no Body Path; his Attraction Layer runs under Obsession Force.
+5. Reserve 80,241,677.6 EU by the Level law; output 165,000 AU/s at full, placed at the floor of Stage X's band.
+Grounds: Part Three and Part Twenty-Three as currently applied, the card's canon lines, the night-watch book and scene, and the published Alftian Codex Volume I; derived and checked three ways (law, canon, design).
+
+Context: Isaac, Claude Code chat 2026-09-28: 'do the Malphas living figures while you wait'. Isaac may overturn any item.

@@ -25,3 +25,4 @@
   - has lied about: Master Kwon caught the arrow bare-handed (believes it); The masked lad put an arrow through the sky-glass (believes it)
 **Proctor Wenna Crale** · wants: The night register quiet. · refuses: 'Last bell's the last bell.' Nothing opens after it, for anyone. · last seen: East corridor, an hour before last bell (After the Lecture)
   - knows: Let the Visitation runner in before last bell; Looked at the dry flags in the dispensary
+**Registrar Anselm Pike** · wants: A clean roll. · refuses: Won't amend an entry he didn't make. · last seen: Registry (The Dispensary)

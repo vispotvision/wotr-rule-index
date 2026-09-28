@@ -141,3 +141,12 @@
   last_seen: East corridor, an hour before last bell (After the Lecture)
   voice: Flat; doesn't wait to be asked.
   last_updated: '2026-09-28'
+- name: Registrar Anselm Pike
+  thread: Mu-jin
+  want: A clean roll.
+  refusal_line: Won't amend an entry he didn't make.
+  knows: []
+  lied_about: []
+  last_seen: Registry (The Dispensary)
+  voice: Wide nib, round broad hand, blotted at each stroke's start.
+  last_updated: '2026-09-28'

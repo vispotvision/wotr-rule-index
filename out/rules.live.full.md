@@ -1,6 +1,6 @@
 # Live rules by domain, with source text
 
-1070 live of 1255 extracted. Newest pack first within each domain; the newer rule governs where two overlap.
+1073 live of 1258 extracted. Newest pack first within each domain; the newer rule governs where two overlap.
 
 ## adjudication (63)
 
@@ -3669,7 +3669,7 @@ Narration refers to characters by POV epithets, the way the viewpoint sees them;
 
 > Narration refers to characters by POV epithets, the way the viewpoint sees them; the naming characterises.
 
-## documents (82)
+## documents (85)
 
 ### R20C-3-SWEEP_TWO_TIERS [Pack Twenty R20C-3]
 
@@ -4115,6 +4115,24 @@ The 76 published technique and Spellcraft write-ups are stripped of usage lines 
 
 > The 76 published technique and Spellcraft write-ups are stripped of usage lines (tactics and fight-count phrasing such as 'three verdicts per fight', 'cheap against mobs'); their numbers stay: costs stay as shares of reserve, and a plain 'reserve covers N uses' stays only where it is a number, not advice.
 
+### R63-1-IC_IS_IN_CONCORDANCE [Calendar Follow-up 2026-09-28 calendar 1]
+
+Date by IC, read as years In Concordance from the sealing of the Concord Codex; never call the count the Imperial Age.
+
+> The count keeps its label: IC means 'In Concordance', years counted from the sealing of the Concord Codex. Pages keep their IC dates; only the Concordance and the lines that call the count 'the Imperial Age' change.
+
+### R63-2-IMPERIAL_AGE_BEGAN_690 [Calendar Follow-up 2026-09-28 calendar 2]
+
+The Imperial Age and its technology, rail included, begin in 690 IC; 715 IC is its twenty-fifth year.
+
+> The Imperial Age began in Year 690 IC. Its technology span (R53-01), rail included, begins then; the present, Year 715 IC, is its twenty-fifth year.
+
+### R63-3-ERAS_KEEP_NAMES_AGE_OVERLAPS [Calendar Follow-up 2026-09-28 calendar 3]
+
+The Voyager Era, the Long Reckoning and the Withering Era keep their names as the count's eras; the Withering Era is the present era and the Imperial Age rises inside it from 690 IC.
+
+> The count's three eras keep their names: the Voyager Era (000 to 070 IC), the Long Reckoning (070 to 645 IC) and the Withering Era (645 IC to now). The Withering Era runs on as the present era, and the Imperial Age rises inside it from 690 IC as an overlapping age.
+
 ### R60-18-ACCORD_FORMING_IN_CIRCLES [Combat, Society and Politics Law 2026-09-26 Combat, society and politics]
 
 The Guild Accord's pages read as forming in circles: the Articles and Commission framework bind where a circle has signed and not yet elsewhere.
@@ -4163,7 +4181,7 @@ Isaac's direction of 2026-09-12 overtakes the two pending rows that kept the pac
 
 > Superseded by Isaac's direction of 2026-09-12 to fold the packs into dated base-guide editions ("yes — start folding the packs in now"); eleven guides are folded, the remaining six follow the same way.
 
-## items (59)
+## items (60)
 
 ### R20C-22-AMMUNITION_TIERS_RATIFIED [Pack Twenty R20C-22]
 
@@ -4374,6 +4392,12 @@ The investigator names the circle's ink as Gravetide Ink only when the Genesio a
 Cards, ability entries, items, lore, in-world documents and exports print stats, Grades, Bands, Stage, EU, AU/s, eta, Crystal State and Category; empty fields stay flagged pending.
 
 > Confirmed and extended to every document: character cards, technique and ability entries, items, lore, in-world documents and exports are fully metaphysical.
+
+### R63-2-IMPERIAL_AGE_BEGAN_690 [Calendar Follow-up 2026-09-28 calendar 2]
+
+The Imperial Age and its technology, rail included, begin in 690 IC; 715 IC is its twenty-fifth year.
+
+> The Imperial Age began in Year 690 IC. Its technology span (R53-01), rail included, begins then; the present, Year 715 IC, is its twenty-fifth year.
 
 ### R59-11-MATERIALS [Era and Apparatus Law 2026-09-26 Era and apparatus]
 
@@ -12343,7 +12367,7 @@ When the partner thinks a beat is drifting or a rule reads wrong, it says so in 
 
 > When the partner thinks a beat is drifting or a rule reads wrong, it says so in one plain line and keeps writing unless stopped.
 
-## worldbuilding (256)
+## worldbuilding (259)
 
 ### R20C-1-BURI_DEAD_EVERYWHERE [Pack Twenty R20C-1]
 
@@ -12986,6 +13010,24 @@ C-088: The Night Register is the Night Watch Society's own desk, not the Guild A
 C-052: Hobgoblin formations signal by Silent Sign-Glyphs as the norm; in deep cold or broken ground a formation falls back to a horn count, which is why the fight at the breach is unusual.
 
 > C-052: Hobgoblin formations signal by Silent Sign-Glyphs as the norm; in deep cold or broken ground a formation falls back to a horn count, which is why the fight at the breach is unusual.
+
+### R63-1-IC_IS_IN_CONCORDANCE [Calendar Follow-up 2026-09-28 calendar 1]
+
+Date by IC, read as years In Concordance from the sealing of the Concord Codex; never call the count the Imperial Age.
+
+> The count keeps its label: IC means 'In Concordance', years counted from the sealing of the Concord Codex. Pages keep their IC dates; only the Concordance and the lines that call the count 'the Imperial Age' change.
+
+### R63-2-IMPERIAL_AGE_BEGAN_690 [Calendar Follow-up 2026-09-28 calendar 2]
+
+The Imperial Age and its technology, rail included, begin in 690 IC; 715 IC is its twenty-fifth year.
+
+> The Imperial Age began in Year 690 IC. Its technology span (R53-01), rail included, begins then; the present, Year 715 IC, is its twenty-fifth year.
+
+### R63-3-ERAS_KEEP_NAMES_AGE_OVERLAPS [Calendar Follow-up 2026-09-28 calendar 3]
+
+The Voyager Era, the Long Reckoning and the Withering Era keep their names as the count's eras; the Withering Era is the present era and the Imperial Age rises inside it from 690 IC.
+
+> The count's three eras keep their names: the Voyager Era (000 to 070 IC), the Long Reckoning (070 to 645 IC) and the Withering Era (645 IC to now). The Withering Era runs on as the present era, and the Imperial Age rises inside it from 690 IC as an overlapping age.
 
 ### R60-04-DEATH_IS_PERMANENT [Combat, Society and Politics Law 2026-09-26 Combat, society and politics]
 

@@ -1,0 +1,86 @@
+# Standing rulings, originated: no source document. Isaac ruled directly on 2026-09-28 in Claude Code
+# chat (the calendar follow-up to C-112). Each verbatim is an exact substring of the RULINGS.md entry
+# "## 2026-09-28 — calendar-2026-09-28". R63 is a free id-numeral bucket. Empty source.file.
+pack: Calendar Follow-up 2026-09-28
+pack_number: null
+source_file: ''
+ratified: 'Isaac, 2026-09-28, Claude Code chat: ruled directly (the calendar follow-up)'
+rules:
+- id: R63-1-IC_IS_IN_CONCORDANCE
+  pack: Calendar Follow-up 2026-09-28
+  pack_number: null
+  section: calendar 1
+  title: IC means In Concordance, counted from the Codex sealing
+  status: live
+  kind: definition
+  summary: Date by IC, read as years In Concordance from the sealing of the Concord Codex; never call
+    the count the Imperial Age.
+  verbatim: 'The count keeps its label: IC means ''In Concordance'', years counted from the sealing of
+    the Concord Codex. Pages keep their IC dates; only the Concordance and the lines that call the count
+    ''the Imperial Age'' change.'
+  amends:
+  - guide: Standing Inventories, NATALIE.md and the wotr-write skill
+    locus: World texture
+    operation: adds
+  supersedes: []
+  applies_to:
+  - worldbuilding
+  - documents
+  verification: []
+  ratified: 'Isaac, 2026-09-28, Claude Code chat: ruled directly (the calendar follow-up)'
+  source:
+    file: ''
+    lines: null
+  notes: ''
+- id: R63-2-IMPERIAL_AGE_BEGAN_690
+  pack: Calendar Follow-up 2026-09-28
+  pack_number: null
+  section: calendar 2
+  title: The Imperial Age began in 690 IC; the present is its twenty-fifth year
+  status: live
+  kind: definition
+  summary: The Imperial Age and its technology, rail included, begin in 690 IC; 715 IC is its twenty-fifth
+    year.
+  verbatim: The Imperial Age began in Year 690 IC. Its technology span (R53-01), rail included, begins
+    then; the present, Year 715 IC, is its twenty-fifth year.
+  amends:
+  - guide: Standing Inventories, NATALIE.md and the wotr-write skill
+    locus: World texture
+    operation: adds
+  supersedes: []
+  applies_to:
+  - worldbuilding
+  - documents
+  - items
+  verification: []
+  ratified: 'Isaac, 2026-09-28, Claude Code chat: ruled directly (the calendar follow-up)'
+  source:
+    file: ''
+    lines: null
+  notes: ''
+- id: R63-3-ERAS_KEEP_NAMES_AGE_OVERLAPS
+  pack: Calendar Follow-up 2026-09-28
+  pack_number: null
+  section: calendar 3
+  title: The count keeps its three eras; the Imperial Age overlaps the Withering Era
+  status: live
+  kind: definition
+  summary: The Voyager Era, the Long Reckoning and the Withering Era keep their names as the count's eras;
+    the Withering Era is the present era and the Imperial Age rises inside it from 690 IC.
+  verbatim: 'The count''s three eras keep their names: the Voyager Era (000 to 070 IC), the Long Reckoning
+    (070 to 645 IC) and the Withering Era (645 IC to now). The Withering Era runs on as the present era,
+    and the Imperial Age rises inside it from 690 IC as an overlapping age.'
+  amends:
+  - guide: Standing Inventories, NATALIE.md and the wotr-write skill
+    locus: World texture
+    operation: adds
+  supersedes: []
+  applies_to:
+  - worldbuilding
+  - documents
+  verification: []
+  ratified: 'Isaac, 2026-09-28, Claude Code chat: ruled directly (the calendar follow-up)'
+  source:
+    file: ''
+    lines: null
+  notes: ''

@@ -1,6 +1,6 @@
 # Live rules by domain
 
-1070 live of 1255 extracted.
+1073 live of 1258 extracted.
 
 ## adjudication (63)
 
@@ -626,7 +626,7 @@
 - **R48-43-SPEECHES** [Writing Law 2026-09-26 Characters and dialogue] Dialogue stays realistic under stress, but a trained speaker may deliver one crafted, eloquent speech at a big moment.
 - **R48-44-NAME_USE** [Writing Law 2026-09-26 Characters and dialogue] Narration refers to characters by POV epithets, the way the viewpoint sees them; the naming characterises.
 
-## documents (82)
+## documents (85)
 
 - **R20C-3-SWEEP_TWO_TIERS** [Pack Twenty R20C-3] The sweep has two tiers. Canon pages get swept — body text, not just titles.
 - **R20C-5-BRIEF_BURI_SECTION_MUST_GO** [Pack Twenty R20C-5] The standing project brief still carries a live THE BÜRI CULTURAL AMENDMENT section and a Büri voice roster. Cannot be edited from here.
@@ -702,6 +702,9 @@
 - **R57-11-MECHANISM_IS_EFFECT** [Rulings Backfill 2026-09-26 2026-09-24 — new (Mechanism and Effect)] A working's Effect is written as its mechanism playing out; no Effect line that another mechanism could produce, no Mechanism line that leaves the Effect separate.
 - **R57-14-RUNG_I3_STALE_STATUS_NOTES** [Rulings Backfill 2026-09-26 2026-09-25 — new (rules for ruling, I-3)] A canon line stating the state of the record, since overtaken, may be updated by any sweep citing what overtook it.
 - **R57-26-USAGE_STRIPPED_NUMBERS_KEPT** [Rulings Backfill 2026-09-26 Ruling audit] The 76 published technique and Spellcraft write-ups are stripped of usage lines (tactics and fight-count phrasing such as 'three verdicts per fight', 'cheap against mobs'); their numbers stay: costs stay as shares of reserve, and a plain...
+- **R63-1-IC_IS_IN_CONCORDANCE** [Calendar Follow-up 2026-09-28 calendar 1] Date by IC, read as years In Concordance from the sealing of the Concord Codex; never call the count the Imperial Age.
+- **R63-2-IMPERIAL_AGE_BEGAN_690** [Calendar Follow-up 2026-09-28 calendar 2] The Imperial Age and its technology, rail included, begin in 690 IC; 715 IC is its twenty-fifth year.
+- **R63-3-ERAS_KEEP_NAMES_AGE_OVERLAPS** [Calendar Follow-up 2026-09-28 calendar 3] The Voyager Era, the Long Reckoning and the Withering Era keep their names as the count's eras; the Withering Era is the present era and the Imperial Age rises inside it from 690 IC.
 - **R60-18-ACCORD_FORMING_IN_CIRCLES** [Combat, Society and Politics Law 2026-09-26 Combat, society and politics] The Guild Accord's pages read as forming in circles: the Articles and Commission framework bind where a circle has signed and not yet elsewhere.
 - **R59-16-APPARATUS_PAGES** [Era and Apparatus Law 2026-09-26 Era and apparatus] These answers are folded into The Apparatus of the Age and The Works and Days as settled text with a regional gradient section; still no decade-by-decade table.
 - **R58-09-BARA_IS_A_CHARACTER** [Follow-up Rulings 2026-09-26 Follow-up answers] Bara is a character: stripped from system pages like the others.
@@ -711,7 +714,7 @@
 - **R54-26-BENCH_OF_ATTRIBUTION** [Queue Questionnaire 2026-09-26 WAR-50] The Bench of Attribution may not keep or compel records of signings.
 - **R39-8-PACKS_FOLDED_INTO_EDITIONS** [Stat System and Scene Rulings 2026-09-13 Folding] Isaac's direction of 2026-09-12 overtakes the two pending rows that kept the packs as unfolded paste-in diffs: each base guide gets a dated edition with every live amendment folded in and a changelog; eleven are done, the remaining six follow the same way.
 
-## items (59)
+## items (60)
 
 - **R20C-22-AMMUNITION_TIERS_RATIFIED** [Pack Twenty R20C-22] The three ammunition tiers ratified, subject to R20C-26.
 - **R18-5-ALCHEMY_SOURCE_ORDER** [Pack Eighteen §5] Alchemy design consults, in order, the Alchemical Index (what exists), Alchemetrica (doctrine), and The Real Alchemy (real-world substrate check on invented process/apparatus/reagent behaviour), loading The Provenance Doctrine, The Standing Index and The Bench of Attribution alongside them; none of the three is optional.
@@ -748,6 +751,7 @@
 - **R61-110-IMPRESSION_BODY_TELLS_COUNTERS** [Alchemy Conversion Questionnaire 2026-09-28 EC11] Beyond the general counters, a Category One reading finds identity-shaped carry with no Soul Crystal behind it, which a trained reader can tell from a person but a mourner cannot, and a ring of Stillgate Ash (Journeyman gate) grounds the body so it can pass, while also bleeding any living Essence at the ring.
 - **R61-114-CASTLEFALL_CIRCLE_GRAVETIDE_INK** [Alchemy Conversion Questionnaire 2026-09-28 EC15] The investigator names the circle's ink as Gravetide Ink only when the Genesio analysis comes back, and the site holds two glyph roles: the circle is the Boundary in Gravetide Ink and the Category Three seal is the Sealing in Gravemark Ink.
 - **R57-07-DOCUMENTS_FULLY_METAPHYSICAL** [Rulings Backfill 2026-09-26 2026-09-24 — R12-3-DESIGN_CHAIN_RETURNS] Cards, ability entries, items, lore, in-world documents and exports print stats, Grades, Bands, Stage, EU, AU/s, eta, Crystal State and Category; empty fields stay flagged pending.
+- **R63-2-IMPERIAL_AGE_BEGAN_690** [Calendar Follow-up 2026-09-28 calendar 2] The Imperial Age and its technology, rail included, begin in 690 IC; 715 IC is its twenty-fifth year.
 - **R59-11-MATERIALS** [Era and Apparatus Law 2026-09-26 Era and apparatus] Materials: cheap steel and iron, rubber and gutta-percha, early plastics in the late span, and the Master Material Ledger's Essence-born materials alongside them.
 - **R46-1-ITEM_TIER_LOWER_OF_TWO** [The Item Tiers 2026-09-25 What an Item Tier Is] An item carries an item Tier, the lower of what its material can hold and the Tier of Standing its maker stood at when it was made; a composite is graded by the material carrying the working; a plain item has no Tier and performs as its physics.
 - **R46-2-NINE_ITEM_TIERS_NAMED** [The Item Tiers 2026-09-25 The Nine Tiers] Plain (T0, Hollow-F, no stamp); 1 Marked/Signatum E; 2 Proofed/Probatum D; 3 Tempered/Temperatum C; 4 Instrument/Instrumentum B; 5 Hallowed/Consecratum A; 6 Storied/Insigne S-SS; 7 Found/Inventum SS-SSS; 8 Numinous/Numinosum X-EX; 9 Proscribed/Interdictum EX+. The upper Grade of a two-Grade Tier needs Class IV or V provenance or a maker at the top of their Tier.
@@ -2108,7 +2112,7 @@
 - **R48-49-CITATIONS** [Writing Law 2026-09-26 Process] Research is cited as a source list at the end of each scene's or ability's notes.
 - **R48-50-PUSHBACK** [Writing Law 2026-09-26 Process] When the partner thinks a beat is drifting or a rule reads wrong, it says so in one plain line and keeps writing unless stopped.
 
-## worldbuilding (256)
+## worldbuilding (259)
 
 - **R20C-1-BURI_DEAD_EVERYWHERE** [Pack Twenty R20C-1] Büri is dead everywhere, without exception. No house, no amendment, no voice roster, no Mongolian register on any Inner World page.
 - **R20C-2-SATULAGI_STAYS_DEAD** [Pack Twenty R20C-2] Sātūlagi stays dead. Struck for a structural reason; reverting the register does not restore a place.
@@ -2217,6 +2221,9 @@
 - **R57-38-RARE_BORN_WITHOUT_A_CRYSTAL** [Rulings Backfill 2026-09-26 Conflicts ruled] C-086: A very few people are born with no Soul Crystal at all; it is rare and remarked on. A Class Ø soul keeps its sealed Shell.
 - **R57-39-NIGHT_REGISTER_IS_THE_SOCIETYS** [Rulings Backfill 2026-09-26 Conflicts ruled] C-088: The Night Register is the Night Watch Society's own desk, not the Guild Accord's Arbitration Division's.
 - **R57-40-HOBGOBLIN_HORN_IN_COLD** [Rulings Backfill 2026-09-26 Conflicts ruled] C-052: Hobgoblin formations signal by Silent Sign-Glyphs as the norm; in deep cold or broken ground a formation falls back to a horn count, which is why the fight at the breach is unusual.
+- **R63-1-IC_IS_IN_CONCORDANCE** [Calendar Follow-up 2026-09-28 calendar 1] Date by IC, read as years In Concordance from the sealing of the Concord Codex; never call the count the Imperial Age.
+- **R63-2-IMPERIAL_AGE_BEGAN_690** [Calendar Follow-up 2026-09-28 calendar 2] The Imperial Age and its technology, rail included, begin in 690 IC; 715 IC is its twenty-fifth year.
+- **R63-3-ERAS_KEEP_NAMES_AGE_OVERLAPS** [Calendar Follow-up 2026-09-28 calendar 3] The Voyager Era, the Long Reckoning and the Withering Era keep their names as the count's eras; the Withering Era is the present era and the Imperial Age rises inside it from 690 IC.
 - **R60-04-DEATH_IS_PERMANENT** [Combat, Society and Politics Law 2026-09-26 Combat, society and politics] Death is almost always permanent; the only exceptions are liches, the undead and their kind.
 - **R60-05-COMPANY_THEN_CROWN** [Combat, Society and Politics Law 2026-09-26 Combat, society and politics] Crowns and chartered houses expand together: the company takes the ground, then the crown claims it.
 - **R60-06-THE_SCRAMBLE** [Combat, Society and Politics Law 2026-09-26 Combat, society and politics] The scramble is for the commercialisation of monster-hunting (hired hunting parties; guild systems spread rapidly, before the full creation of the Guild Accord, which is a communion of guilds), and for Wells and draw, materials, markets ...

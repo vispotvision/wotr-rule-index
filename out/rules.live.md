@@ -1,6 +1,6 @@
 # Live rules by domain
 
-1104 live of 1290 extracted.
+1116 live of 1302 extracted.
 
 ## adjudication (63)
 
@@ -68,7 +68,7 @@
 - **R48-31-STAKES** [Writing Law 2026-09-26 Roleplay partnership] Death can happen, if earned: from real mistakes after clear warning; nothing is safe.
 - **R48-32-NPC_VOICES** [Writing Law 2026-09-26 Roleplay partnership] Isaac may take over any NPC's voice anytime by saying so; the partner hands it back after.
 
-## character-sheet (209)
+## character-sheet (218)
 
 - **R20C-16-SONZAI_RECORD_CARD** [Pack Twenty R20C-16] Sonzai gets a record card, not a character card: identity, standing, the Erasure act as a dated event, relations, reference art. No voice section, no interiority, no dialogue samples.
 - **R20C-32-PRECEDENCE_FOW_WORKBOOK_CARD** [Pack Twenty R20C-32] Precedence: Fracture of Worlds, then the Stat Sheet workbook, then the Notion card. The card is a rendering and it drifts.
@@ -173,6 +173,15 @@
 - **R65-8-SUMGOL_SCHOOL_AND_SCHOOLMASTER** [Alftian Codex Volume II Ratification 2026-09-28 vol2 8] The Sum-gol school runs on the valley's standing; its schoolmaster trained Mu-jin.
 - **R65-9-SEOK_DOYUN_AND_NABI** [Alftian Codex Volume II Ratification 2026-09-28 vol2 9] Doyun is Seok Doyun, entered at thirteen in 699 IC; his cats are Nabi.
 - **R65-11-ARA_CIRCUIT_RING** [Alftian Codex Volume II Ratification 2026-09-28 vol2 11] Ara walks the Sum-gol circuit at twenty with a ring that warms near a savable wound.
+- **R68-2-LEGION_NIGHT_AT_THE_SEAT** [Alftian Codex Volume III Ratification 2026-09-28 vol3 2] The Legion night at the Carver's Seat, where Frithia watched.
+- **R68-3-GETURO_700_HIROMI_702** [Alftian Codex Volume III Ratification 2026-09-28 vol3 3] Geturo born late summer 700 IC; Hiromi summer 702 IC.
+- **R68-4-REGISTERED_NATURAL_TO_ARCHMAGUS** [Alftian Codex Volume III Ratification 2026-09-28 vol3 4] Registered Natural, four reassessments, Archmagus as a licence.
+- **R68-5-POSTINGS_AND_TEACHING_VOW** [Alftian Codex Volume III Ratification 2026-09-28 vol3 5] The three teaching postings and the Dawn Guard's teaching vow.
+- **R68-6-EIGHT_PUPILS_DIED_AT_THE_SEAT** [Alftian Codex Volume III Ratification 2026-09-28 vol3 6] The eight pupils died when the Carver's Seat fell.
+- **R68-8-THREE_FINGERS_CUT_IN_URBIS** [Alftian Codex Volume III Ratification 2026-09-28 vol3 8] Three of Mu-jin's left fingers were cut in Urbis.
+- **R68-10-STROM_UNDER_REVIEW_DRAYCOTT_NO_RANK** [Alftian Codex Volume III Ratification 2026-09-28 vol3 10] Strom under review; Draycott holds no rank; the Submission's title.
+- **R68-11-MUJIN_FRITHIA_MARRIED_702** [Alftian Codex Volume III Ratification 2026-09-28 vol3 11] Frithia proposed and they married in the east room, 702 IC.
+- **R68-12-MUJIN_EIGHTH_VOW** [Alftian Codex Volume III Ratification 2026-09-28 vol3 12] Mu-jin's vow: I will not write down what I have decided not to stop.
 - **R57-01-KWON_MU_JIN_IS_38** [Rulings Backfill 2026-09-26 2026-09-18 — new] Kwon Mu-jin is 38, not 24; his Catalyst Event stays at fourteen and 'ten years since' reads twenty-four years.
 - **R57-05-ROVHEN_INVESTIGATOR** [Rulings Backfill 2026-09-26 2026-09-24 — new] Rovhen Talvasciel is retconned: a human retired private magical investigator, 28, once Edmund Lambert's assistant, now an Aetherion Academy instructor; 'The Prettier' card is superseded.
 - **R57-07-DOCUMENTS_FULLY_METAPHYSICAL** [Rulings Backfill 2026-09-26 2026-09-24 — R12-3-DESIGN_CHAIN_RETURNS] Cards, ability entries, items, lore, in-world documents and exports print stats, Grades, Bands, Stage, EU, AU/s, eta, Crystal State and Category; empty fields stay flagged pending.
@@ -641,7 +650,7 @@
 - **R48-43-SPEECHES** [Writing Law 2026-09-26 Characters and dialogue] Dialogue stays realistic under stress, but a trained speaker may deliver one crafted, eloquent speech at a big moment.
 - **R48-44-NAME_USE** [Writing Law 2026-09-26 Characters and dialogue] Narration refers to characters by POV epithets, the way the viewpoint sees them; the naming characterises.
 
-## documents (93)
+## documents (94)
 
 - **R20C-3-SWEEP_TWO_TIERS** [Pack Twenty R20C-3] The sweep has two tiers. Canon pages get swept — body text, not just titles.
 - **R20C-5-BRIEF_BURI_SECTION_MUST_GO** [Pack Twenty R20C-5] The standing project brief still carries a live THE BÜRI CULTURAL AMENDMENT section and a Büri voice roster. Cannot be edited from here.
@@ -717,6 +726,7 @@
 - **R65-1-VOL2_IS_MUJIN_MEMOIR_700** [Alftian Codex Volume II Ratification 2026-09-28 vol2 1] Volume II is Mu-jin's memoir of 696 to 700 IC, deposited 700 IC.
 - **R65-4-NECROCURSICA_FOOTNOTE_WORDING** [Alftian Codex Volume II Ratification 2026-09-28 vol2 4] The Necrocursica's footnote stands in Volume II's wording.
 - **R65-12-THREE_CORRUPTIONS_NAMED** [Alftian Codex Volume II Ratification 2026-09-28 vol2 12] Volume II names three Corruptions and leaves four to Volume III.
+- **R68-1-VOL3_IS_MUJIN_MEMOIR_702** [Alftian Codex Volume III Ratification 2026-09-28 vol3 1] Volume III is Mu-jin's memoir of 699 to 702 IC, deposited 702 IC.
 - **R57-07-DOCUMENTS_FULLY_METAPHYSICAL** [Rulings Backfill 2026-09-26 2026-09-24 — R12-3-DESIGN_CHAIN_RETURNS] Cards, ability entries, items, lore, in-world documents and exports print stats, Grades, Bands, Stage, EU, AU/s, eta, Crystal State and Category; empty fields stay flagged pending.
 - **R57-08-PHYSICAL_NUMBERS_ONLY_STRUCK** [Rulings Backfill 2026-09-26 2026-09-24 — R8-16-PHYSICAL_NUMBERS_ONLY] R8-16's ban on metaphysical drawback numbers is struck, on R20C-39, R12-1-NUMBER_BAN_STRUCK and the documents-are-fully-metaphysical ruling.
 - **R57-11-MECHANISM_IS_EFFECT** [Rulings Backfill 2026-09-26 2026-09-24 — new (Mechanism and Effect)] A working's Effect is written as its mechanism playing out; no Effect line that another mechanism could produce, no Mechanism line that leaves the Effect separate.
@@ -919,7 +929,7 @@
 - **R48-18-INVENTION** [Writing Law 2026-09-26 Research-grounded techniques] Invention goes one clear step past textbook physics: the real law plus one pinned variable, easy for a player to reason about.
 - **R48-19-BANK** [Writing Law 2026-09-26 Research-grounded techniques] The Phenomenon Bank becomes a growing library: every researched phenomenon (and pseudoscientific idea) is added for future workings and players to draw from.
 
-## magic-mechanism (182)
+## magic-mechanism (185)
 
 - **R20C-17-SITES_RECHARGE_UNHELPFULLY** [Pack Twenty R20C-17] Sites recharge, and it does not help. Decades to centuries, and the rate falls with every working — eighty years the first time, two hundred the second.
 - **R20C-23-ORIGIN_STAYS_MYTHIC** [Pack Twenty R20C-23] Origin stays mythic. Mechanism is fully explicable; where it came from is not.
@@ -1054,6 +1064,9 @@
 - **R65-7-MUJIN_STAGES_VIII_TO_X** [Alftian Codex Volume II Ratification 2026-09-28 vol2 7] Mu-jin reaches VIII in late 697, IX in 698, X in winter 699 to 700 IC.
 - **R65-12-THREE_CORRUPTIONS_NAMED** [Alftian Codex Volume II Ratification 2026-09-28 vol2 12] Volume II names three Corruptions and leaves four to Volume III.
 - **R66-1-VOLITIONAL_TRACE_LAYERED_CREDIT** [Alftian Codex Volume II Credit Correction 2026-09-28 correction 1] Madeleine found the Trace and designed the commission, Strom found it independently, Draycott framed and built the mechanism, Mu-jin named it; supersedes R65-10's wording.
+- **R68-2-LEGION_NIGHT_AT_THE_SEAT** [Alftian Codex Volume III Ratification 2026-09-28 vol3 2] The Legion night at the Carver's Seat, where Frithia watched.
+- **R68-9-GENESIO_TRACE_COMPLETED** [Alftian Codex Volume III Ratification 2026-09-28 vol3 9] The Genesio Trace completed into Mu-jin; the hall fell back to Riptide.
+- **R68-12-MUJIN_EIGHTH_VOW** [Alftian Codex Volume III Ratification 2026-09-28 vol3 12] Mu-jin's vow: I will not write down what I have decided not to stop.
 - **R57-03-JUGGERNAUTS_FIST_CONTACT** [Rulings Backfill 2026-09-26 2026-09-22 — new] Any contact with Hiromi's Juggernaut's Fist counts as a landed strike, parried or blocked included, and each contact deepens a gravity well on the struck body.
 - **R57-11-MECHANISM_IS_EFFECT** [Rulings Backfill 2026-09-26 2026-09-24 — new (Mechanism and Effect)] A working's Effect is written as its mechanism playing out; no Effect line that another mechanism could produce, no Mechanism line that leaves the Effect separate.
 - **R57-20-ABSORBED_ENERGY_BANKS_IN_CRYSTAL** [Rulings Backfill 2026-09-26 2026-09-26 — WAR-3 cards 1 and 2] Energy a practitioner absorbs is banked in their own Soul Crystal.
@@ -2156,7 +2169,7 @@
 - **R48-49-CITATIONS** [Writing Law 2026-09-26 Process] Research is cited as a source list at the end of each scene's or ability's notes.
 - **R48-50-PUSHBACK** [Writing Law 2026-09-26 Process] When the partner thinks a beat is drifting or a rule reads wrong, it says so in one plain line and keeps writing unless stopped.
 
-## worldbuilding (276)
+## worldbuilding (284)
 
 - **R20C-1-BURI_DEAD_EVERYWHERE** [Pack Twenty R20C-1] Büri is dead everywhere, without exception. No house, no amendment, no voice roster, no Mongolian register on any Inner World page.
 - **R20C-2-SATULAGI_STAYS_DEAD** [Pack Twenty R20C-2] Sātūlagi stays dead. Struck for a structural reason; reverting the register does not restore a place.
@@ -2262,6 +2275,14 @@
 - **R65-6-WEIGHT_DRIFT_STOPPED_697** [Alftian Codex Volume II Ratification 2026-09-28 vol2 6] The Weight drifted after the pour and stood still by summer 697 IC.
 - **R65-8-SUMGOL_SCHOOL_AND_SCHOOLMASTER** [Alftian Codex Volume II Ratification 2026-09-28 vol2 8] The Sum-gol school runs on the valley's standing; its schoolmaster trained Mu-jin.
 - **R66-1-VOLITIONAL_TRACE_LAYERED_CREDIT** [Alftian Codex Volume II Credit Correction 2026-09-28 correction 1] Madeleine found the Trace and designed the commission, Strom found it independently, Draycott framed and built the mechanism, Mu-jin named it; supersedes R65-10's wording.
+- **R68-1-VOL3_IS_MUJIN_MEMOIR_702** [Alftian Codex Volume III Ratification 2026-09-28 vol3 1] Volume III is Mu-jin's memoir of 699 to 702 IC, deposited 702 IC.
+- **R68-2-LEGION_NIGHT_AT_THE_SEAT** [Alftian Codex Volume III Ratification 2026-09-28 vol3 2] The Legion night at the Carver's Seat, where Frithia watched.
+- **R68-4-REGISTERED_NATURAL_TO_ARCHMAGUS** [Alftian Codex Volume III Ratification 2026-09-28 vol3 4] Registered Natural, four reassessments, Archmagus as a licence.
+- **R68-5-POSTINGS_AND_TEACHING_VOW** [Alftian Codex Volume III Ratification 2026-09-28 vol3 5] The three teaching postings and the Dawn Guard's teaching vow.
+- **R68-6-EIGHT_PUPILS_DIED_AT_THE_SEAT** [Alftian Codex Volume III Ratification 2026-09-28 vol3 6] The eight pupils died when the Carver's Seat fell.
+- **R68-7-SUMGOL_ORCHARD_DEAD_AND_SAVED** [Alftian Codex Volume III Ratification 2026-09-28 vol3 7] Five of Sum-gol died after the orchard; every child was dug out.
+- **R68-9-GENESIO_TRACE_COMPLETED** [Alftian Codex Volume III Ratification 2026-09-28 vol3 9] The Genesio Trace completed into Mu-jin; the hall fell back to Riptide.
+- **R68-10-STROM_UNDER_REVIEW_DRAYCOTT_NO_RANK** [Alftian Codex Volume III Ratification 2026-09-28 vol3 10] Strom under review; Draycott holds no rank; the Submission's title.
 - **R57-01-KWON_MU_JIN_IS_38** [Rulings Backfill 2026-09-26 2026-09-18 — new] Kwon Mu-jin is 38, not 24; his Catalyst Event stays at fourteen and 'ten years since' reads twenty-four years.
 - **R57-02-MAHUO_CHILDREN_AGES** [Rulings Backfill 2026-09-26 2026-09-18 — new] Mu-jin's children are Geturo 15 (eldest), Hiromi 13, Lily 12 (youngest); no twins.
 - **R57-05-ROVHEN_INVESTIGATOR** [Rulings Backfill 2026-09-26 2026-09-24 — new] Rovhen Talvasciel is retconned: a human retired private magical investigator, 28, once Edmund Lambert's assistant, now an Aetherion Academy instructor; 'The Prettier' card is superseded.

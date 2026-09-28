@@ -1,6 +1,6 @@
 # Live rules by domain, with source text
 
-1104 live of 1290 extracted. Newest pack first within each domain; the newer rule governs where two overlap.
+1116 live of 1302 extracted. Newest pack first within each domain; the newer rule governs where two overlap.
 
 ## adjudication (63)
 
@@ -382,7 +382,7 @@ Isaac may take over any NPC's voice anytime by saying so; the partner hands it b
 
 > Isaac may take over any NPC's voice anytime by saying so; the partner hands it back after.
 
-## character-sheet (209)
+## character-sheet (218)
 
 ### R20C-16-SONZAI_RECORD_CARD [Pack Twenty R20C-16]
 
@@ -1001,6 +1001,60 @@ Doyun is Seok Doyun, entered at thirteen in 699 IC; his cats are Nabi.
 Ara walks the Sum-gol circuit at twenty with a ring that warms near a savable wound.
 
 > Ara, at twenty, walks the Sum-gol circuit with Mu-jin, wearing a ring that warms when a wound nearby can still be saved.
+
+### R68-2-LEGION_NIGHT_AT_THE_SEAT [Alftian Codex Volume III Ratification 2026-09-28 vol3 2]
+
+The Legion night at the Carver's Seat, where Frithia watched.
+
+> The Legion night: the Carver's Seat was testing a Legion-class working for the kingdom's standard when the summoner's hold broke; Mu-jin, there to deliver a correction to the entering grammar, laid a chalk circle and called as what he was, and the hosts stood down one at a time. Frithia watched from the hall door, thirty-four, come south to teach the Seat's wardens.
+
+### R68-3-GETURO_700_HIROMI_702 [Alftian Codex Volume III Ratification 2026-09-28 vol3 3]
+
+Geturo born late summer 700 IC; Hiromi summer 702 IC.
+
+> Geturo was born at the end of the summer of 700 IC, Ara delivering him; Hiromi was born at Sum-gol in the summer of 702 IC while Mu-jin was in Urbis.
+
+### R68-4-REGISTERED_NATURAL_TO_ARCHMAGUS [Alftian Codex Volume III Ratification 2026-09-28 vol3 4]
+
+Registered Natural, four reassessments, Archmagus as a licence.
+
+> After the Legion night the Division of Alchemetrica entered Mu-jin as a Registered Natural and reassessed him four times; the fourth gave him the rank of Archmagus, which he took as a licence to certify teachers and enter pupils for the kingdom's examination in the Draft trade.
+
+### R68-5-POSTINGS_AND_TEACHING_VOW [Alftian Codex Volume III Ratification 2026-09-28 vol3 5]
+
+The three teaching postings and the Dawn Guard's teaching vow.
+
+> The Division posted him to teach: a draw-town's meter house, a settlement past the last warded station, and a river-town infirmary. At the Zettari camp he swore the Dawn Guard's teaching vow at the quench, before the camp's Stone Witness.
+
+### R68-6-EIGHT_PUPILS_DIED_AT_THE_SEAT [Alftian Codex Volume III Ratification 2026-09-28 vol3 6]
+
+The eight pupils died when the Carver's Seat fell.
+
+> The eight pupils he entered for the examination died when the Carver's Seat fell in the late summer of 701 IC: the Hong boy, the Baek boy, the Tak twins, the potter Ahn's two girls, the Yang boy and the Hwang girl. Doyun was with him at the camp and lived.
+
+### R68-8-THREE_FINGERS_CUT_IN_URBIS [Alftian Codex Volume III Ratification 2026-09-28 vol3 8]
+
+Three of Mu-jin's left fingers were cut in Urbis.
+
+> Three fingers of Mu-jin's left hand were cut in Urbis where the line drew itself, with Furveus naming the place.
+
+### R68-10-STROM_UNDER_REVIEW_DRAYCOTT_NO_RANK [Alftian Codex Volume III Ratification 2026-09-28 vol3 10]
+
+Strom under review; Draycott holds no rank; the Submission's title.
+
+> Strom's completions have stopped; he is held under review by the Research and Archives Division's Urbis office on an unheard charge of extraction. Draycott holds no appointment and no rank from any of it. His old paper is titled On a Residue of the Dead That Keeps an Intent.
+
+### R68-11-MUJIN_FRITHIA_MARRIED_702 [Alftian Codex Volume III Ratification 2026-09-28 vol3 11]
+
+Frithia proposed and they married in the east room, 702 IC.
+
+> Frithia asked Mu-jin to marry her in the east room at Sum-gol in the autumn of 702 IC, and they married there before the turn was out; she struck two sentences from the book.
+
+### R68-12-MUJIN_EIGHTH_VOW [Alftian Codex Volume III Ratification 2026-09-28 vol3 12]
+
+Mu-jin's vow: I will not write down what I have decided not to stop.
+
+> Mu-jin swore a vow of his own in the east room before Doyun and Frithia, over a vessel he poured: "I will not write down what I have decided not to stop." It is entered on the room's roll beneath the eight names.
 
 ### R57-01-KWON_MU_JIN_IS_38 [Rulings Backfill 2026-09-26 2026-09-18 — new]
 
@@ -3759,7 +3813,7 @@ Narration refers to characters by POV epithets, the way the viewpoint sees them;
 
 > Narration refers to characters by POV epithets, the way the viewpoint sees them; the naming characterises.
 
-## documents (93)
+## documents (94)
 
 ### R20C-3-SWEEP_TWO_TIERS [Pack Twenty R20C-3]
 
@@ -4204,6 +4258,12 @@ The Necrocursica's footnote stands in Volume II's wording.
 Volume II names three Corruptions and leaves four to Volume III.
 
 > Volume the Second names three of the Seven Cacodaemonic Corruptions (Conviction, Submission, Non-Commitment) and leaves the other four to the third volume.
+
+### R68-1-VOL3_IS_MUJIN_MEMOIR_702 [Alftian Codex Volume III Ratification 2026-09-28 vol3 1]
+
+Volume III is Mu-jin's memoir of 699 to 702 IC, deposited 702 IC.
+
+> Volume the Third is Kwon Mu-jin's memoir of 699 to 702 IC, written to Ara in Urbis from late autumn 701 IC, its last chapter at Sum-gol, deposited at the start of winter 702 IC, the twelfth year of the Imperial Age. What he states from a read is canon; what he states in error stays his error.
 
 ### R57-07-DOCUMENTS_FULLY_METAPHYSICAL [Rulings Backfill 2026-09-26 2026-09-24 — R12-3-DESIGN_CHAIN_RETURNS]
 
@@ -5379,7 +5439,7 @@ The Phenomenon Bank becomes a growing library: every researched phenomenon (and 
 
 > The Phenomenon Bank becomes a growing library: every researched phenomenon (and pseudoscientific idea) is added for future workings and players to draw from.
 
-## magic-mechanism (182)
+## magic-mechanism (185)
 
 ### R20C-17-SITES_RECHARGE_UNHELPFULLY [Pack Twenty R20C-17]
 
@@ -6178,6 +6238,24 @@ Volume II names three Corruptions and leaves four to Volume III.
 Madeleine found the Trace and designed the commission, Strom found it independently, Draycott framed and built the mechanism, Mu-jin named it; supersedes R65-10's wording.
 
 > The credit for the Volitional Trace stands as ST3 (R61-13) gives it: Madeleine Ault found it and designed the commission, Ivor Strom found it independently, Gisli Draycott framed the theory and built the mechanism, and Kwon Mu-jin named it and set its boundary.
+
+### R68-2-LEGION_NIGHT_AT_THE_SEAT [Alftian Codex Volume III Ratification 2026-09-28 vol3 2]
+
+The Legion night at the Carver's Seat, where Frithia watched.
+
+> The Legion night: the Carver's Seat was testing a Legion-class working for the kingdom's standard when the summoner's hold broke; Mu-jin, there to deliver a correction to the entering grammar, laid a chalk circle and called as what he was, and the hosts stood down one at a time. Frithia watched from the hall door, thirty-four, come south to teach the Seat's wardens.
+
+### R68-9-GENESIO_TRACE_COMPLETED [Alftian Codex Volume III Ratification 2026-09-28 vol3 9]
+
+The Genesio Trace completed into Mu-jin; the hall fell back to Riptide.
+
+> At Genesio the Trace in the first coffin, laid by an Elfin astronomer two hundred and sixty years dead and aimed at Mu-jin's signature, completed into him through Anamnesis. He reads it as a correction: correspondence is a law of response. The hall fell from Whirlpool back to Riptide, the lamps pulse again, and nothing left in the stone can be woken.
+
+### R68-12-MUJIN_EIGHTH_VOW [Alftian Codex Volume III Ratification 2026-09-28 vol3 12]
+
+Mu-jin's vow: I will not write down what I have decided not to stop.
+
+> Mu-jin swore a vow of his own in the east room before Doyun and Frithia, over a vessel he poured: "I will not write down what I have decided not to stop." It is entered on the room's roll beneath the eight names.
 
 ### R57-03-JUGGERNAUTS_FIST_CONTACT [Rulings Backfill 2026-09-26 2026-09-22 — new]
 
@@ -12631,7 +12709,7 @@ When the partner thinks a beat is drifting or a rule reads wrong, it says so in 
 
 > When the partner thinks a beat is drifting or a rule reads wrong, it says so in one plain line and keeps writing unless stopped.
 
-## worldbuilding (276)
+## worldbuilding (284)
 
 ### R20C-1-BURI_DEAD_EVERYWHERE [Pack Twenty R20C-1]
 
@@ -13256,6 +13334,54 @@ The Sum-gol school runs on the valley's standing; its schoolmaster trained Mu-ji
 Madeleine found the Trace and designed the commission, Strom found it independently, Draycott framed and built the mechanism, Mu-jin named it; supersedes R65-10's wording.
 
 > The credit for the Volitional Trace stands as ST3 (R61-13) gives it: Madeleine Ault found it and designed the commission, Ivor Strom found it independently, Gisli Draycott framed the theory and built the mechanism, and Kwon Mu-jin named it and set its boundary.
+
+### R68-1-VOL3_IS_MUJIN_MEMOIR_702 [Alftian Codex Volume III Ratification 2026-09-28 vol3 1]
+
+Volume III is Mu-jin's memoir of 699 to 702 IC, deposited 702 IC.
+
+> Volume the Third is Kwon Mu-jin's memoir of 699 to 702 IC, written to Ara in Urbis from late autumn 701 IC, its last chapter at Sum-gol, deposited at the start of winter 702 IC, the twelfth year of the Imperial Age. What he states from a read is canon; what he states in error stays his error.
+
+### R68-2-LEGION_NIGHT_AT_THE_SEAT [Alftian Codex Volume III Ratification 2026-09-28 vol3 2]
+
+The Legion night at the Carver's Seat, where Frithia watched.
+
+> The Legion night: the Carver's Seat was testing a Legion-class working for the kingdom's standard when the summoner's hold broke; Mu-jin, there to deliver a correction to the entering grammar, laid a chalk circle and called as what he was, and the hosts stood down one at a time. Frithia watched from the hall door, thirty-four, come south to teach the Seat's wardens.
+
+### R68-4-REGISTERED_NATURAL_TO_ARCHMAGUS [Alftian Codex Volume III Ratification 2026-09-28 vol3 4]
+
+Registered Natural, four reassessments, Archmagus as a licence.
+
+> After the Legion night the Division of Alchemetrica entered Mu-jin as a Registered Natural and reassessed him four times; the fourth gave him the rank of Archmagus, which he took as a licence to certify teachers and enter pupils for the kingdom's examination in the Draft trade.
+
+### R68-5-POSTINGS_AND_TEACHING_VOW [Alftian Codex Volume III Ratification 2026-09-28 vol3 5]
+
+The three teaching postings and the Dawn Guard's teaching vow.
+
+> The Division posted him to teach: a draw-town's meter house, a settlement past the last warded station, and a river-town infirmary. At the Zettari camp he swore the Dawn Guard's teaching vow at the quench, before the camp's Stone Witness.
+
+### R68-6-EIGHT_PUPILS_DIED_AT_THE_SEAT [Alftian Codex Volume III Ratification 2026-09-28 vol3 6]
+
+The eight pupils died when the Carver's Seat fell.
+
+> The eight pupils he entered for the examination died when the Carver's Seat fell in the late summer of 701 IC: the Hong boy, the Baek boy, the Tak twins, the potter Ahn's two girls, the Yang boy and the Hwang girl. Doyun was with him at the camp and lived.
+
+### R68-7-SUMGOL_ORCHARD_DEAD_AND_SAVED [Alftian Codex Volume III Ratification 2026-09-28 vol3 7]
+
+Five of Sum-gol died after the orchard; every child was dug out.
+
+> At Sum-gol, after the orchard, five of the valley died and every child on the terraces was dug out alive by the line Frithia had drilled.
+
+### R68-9-GENESIO_TRACE_COMPLETED [Alftian Codex Volume III Ratification 2026-09-28 vol3 9]
+
+The Genesio Trace completed into Mu-jin; the hall fell back to Riptide.
+
+> At Genesio the Trace in the first coffin, laid by an Elfin astronomer two hundred and sixty years dead and aimed at Mu-jin's signature, completed into him through Anamnesis. He reads it as a correction: correspondence is a law of response. The hall fell from Whirlpool back to Riptide, the lamps pulse again, and nothing left in the stone can be woken.
+
+### R68-10-STROM_UNDER_REVIEW_DRAYCOTT_NO_RANK [Alftian Codex Volume III Ratification 2026-09-28 vol3 10]
+
+Strom under review; Draycott holds no rank; the Submission's title.
+
+> Strom's completions have stopped; he is held under review by the Research and Archives Division's Urbis office on an unheard charge of extraction. Draycott holds no appointment and no rank from any of it. His old paper is titled On a Residue of the Dead That Keeps an Intent.
 
 ### R57-01-KWON_MU_JIN_IS_38 [Rulings Backfill 2026-09-26 2026-09-18 — new]
 

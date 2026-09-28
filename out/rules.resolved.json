@@ -22627,6 +22627,375 @@
     "superseded_by": []
   },
   {
+    "id": "R68-1-VOL3_IS_MUJIN_MEMOIR_702",
+    "pack": "Alftian Codex Volume III Ratification 2026-09-28",
+    "pack_number": null,
+    "section": "vol3 1",
+    "title": "Volume III is Mu-jin's memoir of 699 to 702 IC, deposited 702 IC",
+    "status": "live",
+    "kind": "definition",
+    "summary": "Volume III is Mu-jin's memoir of 699 to 702 IC, deposited 702 IC.",
+    "verbatim": "Volume the Third is Kwon Mu-jin's memoir of 699 to 702 IC, written to Ara in Urbis from late autumn 701 IC, its last chapter at Sum-gol, deposited at the start of winter 702 IC, the twelfth year of the Imperial Age. What he states from a read is canon; what he states in error stays his error.",
+    "amends": [
+      {
+        "guide": "The Alftian Codex and the cards it names",
+        "locus": "Volume the Third",
+        "operation": "adds"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "documents",
+      "worldbuilding"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-28, Claude Code chat: approved the rebuilt Volume III ('go')",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "",
+    "superseded_by": []
+  },
+  {
+    "id": "R68-10-STROM_UNDER_REVIEW_DRAYCOTT_NO_RANK",
+    "pack": "Alftian Codex Volume III Ratification 2026-09-28",
+    "pack_number": null,
+    "section": "vol3 10",
+    "title": "Strom under review; Draycott holds no rank; the Submission's title",
+    "status": "live",
+    "kind": "definition",
+    "summary": "Strom under review; Draycott holds no rank; the Submission's title.",
+    "verbatim": "Strom's completions have stopped; he is held under review by the Research and Archives Division's Urbis office on an unheard charge of extraction. Draycott holds no appointment and no rank from any of it. His old paper is titled On a Residue of the Dead That Keeps an Intent.",
+    "amends": [
+      {
+        "guide": "The Alftian Codex and the cards it names",
+        "locus": "Volume the Third",
+        "operation": "adds"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "worldbuilding",
+      "character-sheet"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-28, Claude Code chat: approved the rebuilt Volume III ('go')",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "",
+    "superseded_by": []
+  },
+  {
+    "id": "R68-11-MUJIN_FRITHIA_MARRIED_702",
+    "pack": "Alftian Codex Volume III Ratification 2026-09-28",
+    "pack_number": null,
+    "section": "vol3 11",
+    "title": "Frithia proposed and they married in the east room, 702 IC",
+    "status": "live",
+    "kind": "definition",
+    "summary": "Frithia proposed and they married in the east room, 702 IC.",
+    "verbatim": "Frithia asked Mu-jin to marry her in the east room at Sum-gol in the autumn of 702 IC, and they married there before the turn was out; she struck two sentences from the book.",
+    "amends": [
+      {
+        "guide": "The Alftian Codex and the cards it names",
+        "locus": "Volume the Third",
+        "operation": "adds"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "character-sheet"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-28, Claude Code chat: approved the rebuilt Volume III ('go')",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "",
+    "superseded_by": []
+  },
+  {
+    "id": "R68-12-MUJIN_EIGHTH_VOW",
+    "pack": "Alftian Codex Volume III Ratification 2026-09-28",
+    "pack_number": null,
+    "section": "vol3 12",
+    "title": "Mu-jin's vow: I will not write down what I have decided not to stop",
+    "status": "live",
+    "kind": "definition",
+    "summary": "Mu-jin's vow: I will not write down what I have decided not to stop.",
+    "verbatim": "Mu-jin swore a vow of his own in the east room before Doyun and Frithia, over a vessel he poured: \"I will not write down what I have decided not to stop.\" It is entered on the room's roll beneath the eight names.",
+    "amends": [
+      {
+        "guide": "The Alftian Codex and the cards it names",
+        "locus": "Volume the Third",
+        "operation": "adds"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "character-sheet",
+      "magic-mechanism"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-28, Claude Code chat: approved the rebuilt Volume III ('go')",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "",
+    "superseded_by": []
+  },
+  {
+    "id": "R68-2-LEGION_NIGHT_AT_THE_SEAT",
+    "pack": "Alftian Codex Volume III Ratification 2026-09-28",
+    "pack_number": null,
+    "section": "vol3 2",
+    "title": "The Legion night at the Carver's Seat, where Frithia watched",
+    "status": "live",
+    "kind": "definition",
+    "summary": "The Legion night at the Carver's Seat, where Frithia watched.",
+    "verbatim": "The Legion night: the Carver's Seat was testing a Legion-class working for the kingdom's standard when the summoner's hold broke; Mu-jin, there to deliver a correction to the entering grammar, laid a chalk circle and called as what he was, and the hosts stood down one at a time. Frithia watched from the hall door, thirty-four, come south to teach the Seat's wardens.",
+    "amends": [
+      {
+        "guide": "The Alftian Codex and the cards it names",
+        "locus": "Volume the Third",
+        "operation": "adds"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "worldbuilding",
+      "magic-mechanism",
+      "character-sheet"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-28, Claude Code chat: approved the rebuilt Volume III ('go')",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "",
+    "superseded_by": []
+  },
+  {
+    "id": "R68-3-GETURO_700_HIROMI_702",
+    "pack": "Alftian Codex Volume III Ratification 2026-09-28",
+    "pack_number": null,
+    "section": "vol3 3",
+    "title": "Geturo born late summer 700 IC; Hiromi summer 702 IC",
+    "status": "live",
+    "kind": "definition",
+    "summary": "Geturo born late summer 700 IC; Hiromi summer 702 IC.",
+    "verbatim": "Geturo was born at the end of the summer of 700 IC, Ara delivering him; Hiromi was born at Sum-gol in the summer of 702 IC while Mu-jin was in Urbis.",
+    "amends": [
+      {
+        "guide": "The Alftian Codex and the cards it names",
+        "locus": "Volume the Third",
+        "operation": "adds"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "character-sheet"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-28, Claude Code chat: approved the rebuilt Volume III ('go')",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "",
+    "superseded_by": []
+  },
+  {
+    "id": "R68-4-REGISTERED_NATURAL_TO_ARCHMAGUS",
+    "pack": "Alftian Codex Volume III Ratification 2026-09-28",
+    "pack_number": null,
+    "section": "vol3 4",
+    "title": "Registered Natural, four reassessments, Archmagus as a licence",
+    "status": "live",
+    "kind": "definition",
+    "summary": "Registered Natural, four reassessments, Archmagus as a licence.",
+    "verbatim": "After the Legion night the Division of Alchemetrica entered Mu-jin as a Registered Natural and reassessed him four times; the fourth gave him the rank of Archmagus, which he took as a licence to certify teachers and enter pupils for the kingdom's examination in the Draft trade.",
+    "amends": [
+      {
+        "guide": "The Alftian Codex and the cards it names",
+        "locus": "Volume the Third",
+        "operation": "adds"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "character-sheet",
+      "worldbuilding"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-28, Claude Code chat: approved the rebuilt Volume III ('go')",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "",
+    "superseded_by": []
+  },
+  {
+    "id": "R68-5-POSTINGS_AND_TEACHING_VOW",
+    "pack": "Alftian Codex Volume III Ratification 2026-09-28",
+    "pack_number": null,
+    "section": "vol3 5",
+    "title": "The three teaching postings and the Dawn Guard's teaching vow",
+    "status": "live",
+    "kind": "definition",
+    "summary": "The three teaching postings and the Dawn Guard's teaching vow.",
+    "verbatim": "The Division posted him to teach: a draw-town's meter house, a settlement past the last warded station, and a river-town infirmary. At the Zettari camp he swore the Dawn Guard's teaching vow at the quench, before the camp's Stone Witness.",
+    "amends": [
+      {
+        "guide": "The Alftian Codex and the cards it names",
+        "locus": "Volume the Third",
+        "operation": "adds"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "worldbuilding",
+      "character-sheet"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-28, Claude Code chat: approved the rebuilt Volume III ('go')",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "",
+    "superseded_by": []
+  },
+  {
+    "id": "R68-6-EIGHT_PUPILS_DIED_AT_THE_SEAT",
+    "pack": "Alftian Codex Volume III Ratification 2026-09-28",
+    "pack_number": null,
+    "section": "vol3 6",
+    "title": "The eight pupils died when the Carver's Seat fell",
+    "status": "live",
+    "kind": "definition",
+    "summary": "The eight pupils died when the Carver's Seat fell.",
+    "verbatim": "The eight pupils he entered for the examination died when the Carver's Seat fell in the late summer of 701 IC: the Hong boy, the Baek boy, the Tak twins, the potter Ahn's two girls, the Yang boy and the Hwang girl. Doyun was with him at the camp and lived.",
+    "amends": [
+      {
+        "guide": "The Alftian Codex and the cards it names",
+        "locus": "Volume the Third",
+        "operation": "adds"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "worldbuilding",
+      "character-sheet"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-28, Claude Code chat: approved the rebuilt Volume III ('go')",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "",
+    "superseded_by": []
+  },
+  {
+    "id": "R68-7-SUMGOL_ORCHARD_DEAD_AND_SAVED",
+    "pack": "Alftian Codex Volume III Ratification 2026-09-28",
+    "pack_number": null,
+    "section": "vol3 7",
+    "title": "Five of Sum-gol died after the orchard; every child was dug out",
+    "status": "live",
+    "kind": "definition",
+    "summary": "Five of Sum-gol died after the orchard; every child was dug out.",
+    "verbatim": "At Sum-gol, after the orchard, five of the valley died and every child on the terraces was dug out alive by the line Frithia had drilled.",
+    "amends": [
+      {
+        "guide": "The Alftian Codex and the cards it names",
+        "locus": "Volume the Third",
+        "operation": "adds"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "worldbuilding"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-28, Claude Code chat: approved the rebuilt Volume III ('go')",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "",
+    "superseded_by": []
+  },
+  {
+    "id": "R68-8-THREE_FINGERS_CUT_IN_URBIS",
+    "pack": "Alftian Codex Volume III Ratification 2026-09-28",
+    "pack_number": null,
+    "section": "vol3 8",
+    "title": "Three of Mu-jin's left fingers were cut in Urbis",
+    "status": "live",
+    "kind": "definition",
+    "summary": "Three of Mu-jin's left fingers were cut in Urbis.",
+    "verbatim": "Three fingers of Mu-jin's left hand were cut in Urbis where the line drew itself, with Furveus naming the place.",
+    "amends": [
+      {
+        "guide": "The Alftian Codex and the cards it names",
+        "locus": "Volume the Third",
+        "operation": "adds"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "character-sheet"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-28, Claude Code chat: approved the rebuilt Volume III ('go')",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "",
+    "superseded_by": []
+  },
+  {
+    "id": "R68-9-GENESIO_TRACE_COMPLETED",
+    "pack": "Alftian Codex Volume III Ratification 2026-09-28",
+    "pack_number": null,
+    "section": "vol3 9",
+    "title": "The Genesio Trace completed into Mu-jin; the hall fell back to Riptide",
+    "status": "live",
+    "kind": "definition",
+    "summary": "The Genesio Trace completed into Mu-jin; the hall fell back to Riptide.",
+    "verbatim": "At Genesio the Trace in the first coffin, laid by an Elfin astronomer two hundred and sixty years dead and aimed at Mu-jin's signature, completed into him through Anamnesis. He reads it as a correction: correspondence is a law of response. The hall fell from Whirlpool back to Riptide, the lamps pulse again, and nothing left in the stone can be woken.",
+    "amends": [
+      {
+        "guide": "The Alftian Codex and the cards it names",
+        "locus": "Volume the Third",
+        "operation": "adds"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "magic-mechanism",
+      "worldbuilding"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-28, Claude Code chat: approved the rebuilt Volume III ('go')",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "",
+    "superseded_by": []
+  },
+  {
     "id": "R1-1-BLACK_AGENT_ASSIGNED",
     "pack": "Pack One",
     "pack_number": 1,

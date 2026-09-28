@@ -180,3 +180,14 @@ Accord inquiry agents of the Lambert school sort every scene into five kinds of 
 *Why:* Originated for Rovhen Talvasciel's Aetherion course; maps onto the canon Categories and the three-stratum stack.
 
 *Session:* Aetherion / Rovhen, 2026-09-24 to 09-27
+
+## 2026-09-28 — The Grand Mage's Visitation and the Finding of Cause
+
+**Status:** proposed
+**applies_to:** worldbuilding, documents
+
+The Grand Mage's office keeps a small surviving staff, the Visitation, whose Examiners sit in on academy appointments and file a Finding of Cause (Accord form, Latin over plain) on any damage to a chartered house above a set sum. The form's line 'Party answerable' names who pays. The Visitation has no say in hiring and says so.
+
+*Why:* Canon makes the Grand Mage an honorary office that once visited academies and could suspend charters; the Visitation is its residue.
+
+*Session:* Aetherion / Rovhen, 2026-09-24

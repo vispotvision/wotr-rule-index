@@ -592,3 +592,13 @@
   opened_session: 1
   due: 2
   status: open
+- id: L062
+  category: the dead
+  who: Walter Aldery
+  text: Bookkeeper at Hobb and Mercer's, Tallow Street. Found at the foot of the stockroom stair on a
+    Sunday morning by the shutter-boy, lamp upright on the third step, glass whole, burned dry. Entered
+    by Fenwick as a fall in drink; eleven years pledged. His daybook is missing.
+  opened: '2026-09-28'
+  opened_session: 1
+  due: when the inquest papers are read
+  status: open

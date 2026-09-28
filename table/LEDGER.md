@@ -1,6 +1,6 @@
 # The Ledger, structured
 
-59 open lines.
+60 open lines.
 
 ## the dead
 
@@ -11,6 +11,7 @@
 - `L005` **Eleven Tenrai retainers**, on a knee around the boy, refusing in Common so the child would understand. Killed slowly, with Kurosetsu, without the cold.
 - `L035` Egil Vald dies at the twelfth rotation in the breach at the southern reach, a hooked blade under the cuisse and the femoral opened, silently, and the man beside him steps across the gap without being told.  *(due: When anyone counts what the hold at the breach cost Bram's three hundred — Egil Vald is the only one of them counted on the page.)*
 - `L047` The Tenrai officers were already down when Sodoku looked. He counted eleven off the horses before he stopped counting, and the eleven went first and went together, and he had been in enough of these to know what that meant. Eleven is what he counted, not a total, and the page does not say what he took it to mean.  *(due: When the Tenrai officer corps of the Ashgate column is next counted, or when the narrows is entered on a roll.)*
+- `L062` Bookkeeper at Hobb and Mercer's, Tallow Street. Found at the foot of the stockroom stair on a Sunday morning by the shutter-boy, lamp upright on the third step, glass whole, burned dry. Entered by Fenwick as a fall in drink; eleven years pledged. His daybook is missing.  *(due: when the inquest papers are read)*
 
 ## injuries and reserve
 

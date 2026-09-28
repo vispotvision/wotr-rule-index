@@ -1384,3 +1384,21 @@ the author notes."
 **Consequence if unresolved:** A scene or document cannot say how old the Gate network is, or whether the Gates predate the western quarter's thinning.
 **Recommendation:** none.
 **Status:** open
+
+## C-115 — Malphas's Ardency Conversion stands at 400, A-Grade, with no Body Path; Part Seven caps the rebound-recovery component at B without Body Path at Stage V
+
+**Rules:** `wiki/Volume I — Character Cards/Malphas · Ferment of Stars.md` (IV · Stats, both the living and the lich sections) vs `wiki/Fracture of Worlds — The Living System/II. Grades, Gates and Thresholds (Parts Four–Ten).md` (Part Seven, the Ardency gates) and `wiki/Fracture of Worlds — The Living System/IV. The Eight Primaries and the Sixty-Four Sub-Stats (Part Twelve).md` (Overchannel)
+**The clash:** The card fixes Malphas's Conversion at 400, A-Grade, where it stood at Invocation, and says the Body Path at Stage V it would need was never walked. Conversion now lives inside Overchannel as its rebound-recovery component, and Part Seven lets that component exceed B only with Body Path at Stage V. B tops out at 275 at his Stage, so by the gate the figure cannot have reached 400 at all, walked or not.
+**Quotes:** Malphas · Ferment of Stars: "Ardency Conversion · 400" · Malphas · Ferment of Stars: "Body Path at Stage V required, and the requirement is no longer merely unmet." · II. Grades, Gates and Thresholds (Parts Four–Ten): "recovery of rebound as usable output requires Body Path at Stage V to exceed B" · IV. The Eight Primaries and the Sixty-Four Sub-Stats (Part Twelve): "how much of a failed or interrupted working's rebound comes back as usable output rather than damage"
+**Consequence if unresolved:** A scene that turns on Malphas's rebound, or an assessor reading his sheet against the gates, cannot say whether 400 or 275 holds; the card's defining gap (intake at the ceiling, turning frozen) depends on the 400.
+**Recommendation:** none.
+**Status:** open
+
+## C-116 — Malphas's lich block is costed at the retired per-Level rates (Pool 23,100); current law gives 18,900 at Stage XIV, Level 475, and the lich's Peaks cannot be reached from it
+
+**Rules:** `wiki/Volume I — Character Cards/Malphas · Ferment of Stars.md` (IV.V · Stats · The Lich) vs R38-2-ORIGINATED_SHEETS_RECOST_TO_CURRENT_ALLOTMENT (`rules/doc-stat-gates-and-recost-ruling.yaml`)
+**The clash:** The lich block books 14,000 levelling points plus 9,100 Thresholds. At Part Three's current allotment Level 475 gives 8,400 levelling, and the pool through Stage XIV comes to 18,900. The lich's twelve Peaks total 15,324; with the living man's floor on the other 51 Sub-Stats that needs 21,899, which is 2,999 more than current law allows.
+**Quotes:** Malphas · Ferment of Stars: "Pool 23,100" · R38-2: "re-costed to Part Three's current allotment"
+**Consequence if unresolved:** The lich's figures cannot be recosted as R38-2 requires without cutting his Peaks by about 3,000 points in total, and the living and lich tables on one card are costed under two different laws.
+**Recommendation:** none.
+**Status:** open

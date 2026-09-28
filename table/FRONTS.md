@@ -116,12 +116,12 @@
 
 ## Kwon Mu-jin
 
-**The Class Below** ●○○○○ 1/5 · open
+**The Class Below** ●●○○○ 2/5 · open
 - Want: Class S wants Class X's seats. They are talented, hungry, irritated that someone else holds the designation, and will take a place the moment a Class X student's performance drops far enough, most cheaply when that student is injured.
-- Last move: The Hiromi-Xanelor match could not be kept inside the arena. The arrow's double sonic boom was heard across the grounds, the ward cracked across a third of the dome, and a trench and a burn-hole went through the floor. By nightfall Class S knows two Class X students came out of their first week hurt, and that one of them has no bow.
-- Next move: Class S scouts the wounded before the tournament: the infirmary, the practice floors, the bowyer's.
+- Last move: Class S scouts the wounded. Three Class S students sit on the infirmary steps from breakfast, visiting nobody. Five Class S names are added to Rovhen Talvasciel's inquiry roll on the fourth day, in a narrow pen that is not the registrar's. Imogen Pell asks in open class whether the class will examine the arena, and knows Rovhen was in the Visitation Room at noon.
+- Next move: Class S uses the inquiry class to get inside the chained arena, or learns who filed the Finding of Cause.
   - [x] 1. Word of the Hiromi-Xanelor match leaves the arena: the double boom was heard across the grounds, and Class S learns two Class X students came out of their first week injured.
-  - [ ] 2. Class S scouts the wounded before the tournament: the infirmary, the practice floors, the bowyer's.
-  - [ ] 3. A Class S student issues a formal challenge to an injured Class X member before the tournament, timed for the week they cannot refuse cleanly.
+  - [x] 2. Class S scouts the wounded before the tournament: the infirmary, the practice floors, the bowyer's.
+  - [ ] 3. Class S uses the inquiry class to get inside the chained arena, or learns who filed the Finding of Cause.
   - [ ] 4. A Class X seat is contested on the record: the Academy agrees to weigh tournament performance against Class S results.
   - [ ] 5. Resolves: a Class X student who fought hurt or fought badly is moved down, and a Class S student takes the private dormitory and the X designation.

@@ -1,6 +1,6 @@
 # The Ledger, structured
 
-55 open lines.
+54 open lines.
 
 ## the dead
 
@@ -72,6 +72,6 @@
 
 - `L025` **R14-A:** Stage names on cards (Ignition, Temper) against source (Murmuring, Flourishing).
 - `L026` **The Accord circle has no name.** Nothing goes into prose until Isaac picks the word.
-- `L027` **The Onawa collision:** the wiki's Onawa Ashkewe, Queen of the Tsohanto, against the session's Onawa, Empress of Eresse. The proposal on the table is two women, with the Tsohanto silence as Ashkewe's people reacting to a shared name taken in a yard.
+- `L027` ~~**The Onawa collision:** the wiki's Onawa Ashkewe, Queen of the Tsohanto, against the session's Onawa, Empress of Eresse. The proposal on the table is two women, with the Tsohanto silence as Ashkewe's people reacting to a shared name taken in a yard.~~
 - `L028` **Did Ilthára say the name.** The hinge was turned and the arc built on the turn. Confirm or flip.
 - `L029` ~~R14-F closed. Level 198 at Stage IV is legal; Band II covers 101 to 200, Stage VII gate at exit only.~~

@@ -1402,3 +1402,12 @@ the author notes."
 **Consequence if unresolved:** The lich's figures cannot be recosted as R38-2 requires without cutting his Peaks by about 3,000 points in total, and the living and lich tables on one card are costed under two different laws.
 **Recommendation:** none.
 **Status:** open
+
+## C-117 — The Sixteen Stages gives each Stage a fixed Level range (Realization, Levels 276 to 300); Parts One and Twenty-Three make the range typical and only the Band gate hard, and set a Stage X practitioner at Level 355
+
+**Rules:** `wiki/The Magic System/The Sixteen Stages.md` (each Stage's header line; X · Realization) vs `wiki/Fracture of Worlds — The Living System/IX. The Essence Ledger (Part Twenty-Three).md` (the gate ceiling and the cluster band; the worked example), `wiki/Summoned and Bound/Obrenkael · The Mule.md` (Kwon Hae-ryu) and RULINGS.md "malphas-living-2026-09-28" (Malphas at Stage X, Level 350)
+**The clash:** The Sixteen Stages prints a Level span on every Stage's header, as if a Stage sat only in those Levels: Realization is Levels 276 to 300. Part Twenty-Three says the Band's cluster is where a Stage's practitioners usually sit, not where they must, with the Band gate as the only hard ceiling, and its own worked example is a Stage X practitioner at Level 355 in Band IV. Kwon Hae-ryu is ruled at that Level and Stage, and Malphas's living loadout stands at Stage X, Level 350.
+**Quotes:** The Sixteen Stages: "Tier 6 · Master · Grade SS · Ceiling 725 · Levels 276 to 300" · IX. The Essence Ledger (Part Twenty-Three): "That is where a Stage's practitioners usually sit, not where they must" · IX. The Essence Ledger (Part Twenty-Three): "A Stage X Realization practitioner at Level 355, Band IV, holds 90,000,000 EU" · Obrenkael · The Mule: "Level 355 / 500, Band IV Warlord, Temperance Stage X Realization"
+**Consequence if unresolved:** A card or a read cannot say whether a Stage X practitioner above Level 300 is lawful or an outlier; Malphas, Kwon Hae-ryu and any Level read in the Alftian Codex hang on it.
+**Recommendation:** none.
+**Status:** open

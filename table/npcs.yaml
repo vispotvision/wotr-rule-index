@@ -108,3 +108,14 @@
   voice: A clerk reading a figure back to a manager who has already decided not to believe it; reads everything
     twice.
   last_updated: '2026-09-28'
+- name: Imogen Pell
+  thread: Mu-jin
+  want: Get the class, and so Class S, into the arena.
+  refusal_line: Won't show her slate.
+  knows:
+  - The chain on the north gate
+  - Rovhen was in the Visitation Room at noon
+  lied_about: []
+  last_seen: Stopped at the narrow-pen ink on the roll by the dispensary door (After the Lecture)
+  voice: Clear, pitched for a larger room than the one she's in; writes without looking down.
+  last_updated: '2026-09-28'

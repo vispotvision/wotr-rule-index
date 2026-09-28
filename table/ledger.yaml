@@ -553,3 +553,12 @@
   opened_session: 1
   due: while the letter exists
   status: open
+- id: L058
+  category: debts
+  who: Rovhen Talvasciel
+  text: Owes Examiner Harrowgate the Finding of Cause at first bell, blank beside Party answerable. Answers,
+    by his own signature, for Joan Aldery's request to the clerk of inquests.
+  opened: '2026-09-28'
+  opened_session: 1
+  due: 1
+  status: open

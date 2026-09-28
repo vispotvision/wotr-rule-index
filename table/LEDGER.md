@@ -1,6 +1,6 @@
 # The Ledger, structured
 
-55 open lines.
+56 open lines.
 
 ## the dead
 
@@ -40,6 +40,7 @@
 - `L044` Lorn Stark stood in a room with Hild's mother and made an arrangement about the girl; he has kept every part of it, reckons that keeping it has cost him more than any oath he has sworn to anyone with a title, and wants it recorded somewhere. The scene neither dates the arrangement nor states its terms.  *(due: When Sodoku claims the girl, or when anyone besides Lorn learns the arrangement was made and what it obliged him to.)*
 - `L050` Four hundred households put a season of winter wood on the fire in one day on Sodoku's asking, and if the road holds they go through the Thin Weeks on borrowed heat and short rations with the death-house taking whatever the cold takes.  *(due: The Thin Weeks, or the first hard night after the road is decided.)*
 - `L051` Sodoku sends word by Robin Ice that the road is closed and he is not coming back through it, and that Osric holds the gate until he does — a return he has promised against a road he has just declared shut.  *(due: When Sodoku comes back through the narrows, or when the gate is opened by anyone else.)*
+- `L058` Owes Examiner Harrowgate the Finding of Cause at first bell, blank beside Party answerable. Answers, by his own signature, for Joan Aldery's request to the clerk of inquests.  *(due: 1)*
 
 ## who knows what
 

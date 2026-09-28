@@ -1,6 +1,6 @@
 # The Ledger, structured
 
-60 open lines.
+61 open lines.
 
 ## the dead
 
@@ -73,6 +73,7 @@
 - `L045` Wren Greymane claims the Greymane banner and the title Shield of the North aloud in front of six hundred men he chose, and then takes two villages under it before noon.  *(due: When the claim reaches Bram, the Seat, or the roll.)*
 - `L046` The yard at Kharven-Seat goes quiet in a rolling wave as Sodoku crosses it, which Lorn judges is not the quiet of respect; the men who had never seen the beast make a sound that is not a cheer, and he rides out ahead of the whole muster on it.  *(due: 3)*
 - `L056` Sixteen months of every village between here and the Stormfold calling Wren traitor, with the ridge smile repeated to Sodoku three times by three people who each thought they were first, against a turning Sodoku watches him execute at the narrows.  *(due: When anyone outside Sodoku's own head learns who built the turning.)*
+- `L063` 'Lambert's lad' to Tobin Sallow and anyone in Stannvaard who knew Edmund. The Board struck his licence and kept his seal; clerks still honour 'inquiry agent, Lambert's.' Class S has enrolled on his name.  *(due: 3)*
 
 ## canon conflicts on the ledger (blocking)
 

@@ -602,3 +602,13 @@
   opened_session: 1
   due: when the inquest papers are read
   status: open
+- id: L063
+  category: reputation
+  who: Rovhen Talvasciel
+  text: '''Lambert''s lad'' to Tobin Sallow and anyone in Stannvaard who knew Edmund. The Board struck
+    his licence and kept his seal; clerks still honour ''inquiry agent, Lambert''s.'' Class S has enrolled
+    on his name.'
+  opened: '2026-09-28'
+  opened_session: 1
+  due: 3
+  status: open

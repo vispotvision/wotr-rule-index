@@ -44,8 +44,12 @@ patched by block id):
   C-103 coal and boiler paragraphs deleted; C-105 Errata; C-107 residue floor; C-108 Counted Speech;
   C-109 bench Tiers to Five; C-111 Parun carries the warrant.
 - C-106 in scenes: scene 10 and its compiled arc copy "twenty years"; the Arena scene recut to 38.
-- **Still open:** C-100 needs Isaac's living figures for Malphas (Stage IX to XIII, Level ≤ 475, pool,
-  stats, Peaks, Path, η; the card carries only what canon fixes). C-113 (five cards dated 739–746 IC)
+- **Malphas's living loadout is on his card** (agent ruling at Isaac's direction, RULINGS.md
+  "malphas-living-2026-09-28"; derivations in `/tmp/wotr-drafts/malphas-living/final.md`): Greyshaft Nine 706 IC,
+  born 667 IC, Stage X Level 350, Pool 11,050, reserve 8.02×10⁷ EU. fow_line prints both dated sections, living
+  first; a lich scene reads IV.V. New open rows C-115 (Conversion 400 vs the Body V gate) and C-116 (the lich
+  block is on retired rates and 2,999 points short when recosted).
+- **Still open:** C-113 (five cards dated 739–746 IC)
   and C-114 (Gate Network "Withering Age" vs Year 003) are new and open. R18-5's text and the Stat Sheet
   rows for the re-pointed cards are not yet swept. The Five Beastkin Lineages keeps the old glyph names.
 

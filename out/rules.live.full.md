@@ -1,6 +1,6 @@
 # Live rules by domain, with source text
 
-1116 live of 1302 extracted. Newest pack first within each domain; the newer rule governs where two overlap.
+1126 live of 1312 extracted. Newest pack first within each domain; the newer rule governs where two overlap.
 
 ## adjudication (63)
 
@@ -382,7 +382,7 @@ Isaac may take over any NPC's voice anytime by saying so; the partner hands it b
 
 > Isaac may take over any NPC's voice anytime by saying so; the partner hands it back after.
 
-## character-sheet (218)
+## character-sheet (220)
 
 ### R20C-16-SONZAI_RECORD_CARD [Pack Twenty R20C-16]
 
@@ -1374,6 +1374,18 @@ When a Third Name becomes dominant, both the personal name and institutional ran
 
 > When a practitioner's Third Name becomes dominant, the personal name and the institutional rank both recede. Nobody calls Cozbi Mahuo "Grandmaster Mahuo" unless they are reading from a filing. He is The Ledger-Keeper, and the Third Name has consumed the other two. This is the endgame of the naming system: the title becomes the person, the person becomes the title, and the birth name is what the family uses and nobody else remembers.
 
+### R69-8-FIVE_MARGINS_LICH_LINE [The Necrocursica Ratification 2026-09-28 necro 8]
+
+Five later margins, one refusing to treat the lich.
+
+> Five margins in Malphas's later hand step over his own lines, one of them naming the lich as the one dead thing that stays itself, and refusing to treat it.
+
+### R69-10-MALPHAS_SAYING [The Necrocursica Ratification 2026-09-28 necro 10]
+
+Malphas's saying: A melted coin does not testify.
+
+> Malphas's fixed saying is "A melted coin does not testify."
+
 ### R62-1-MUJIN_24_AT_ASHGATE_38_NOW [Open Conflicts 2026-09-28 C-106]
 
 Date Mu-jin 24 on the Ashgate road and 38 now at the Academy; his pre-Ashgate card keeps Age 24.
@@ -1695,7 +1707,7 @@ Room casting is by ear: the partner casts for the scene and fixes voice likeness
 
 > Room casting is by ear: the partner casts for the scene and fixes voice likeness only when the swap test fails.
 
-## codex (112)
+## codex (114)
 
 ### R20C-41-CHANTCRAFT_FIFTH_CRAFT [Pack Twenty R20C-41]
 
@@ -2296,6 +2308,18 @@ Viaforma gains Via Fati for the Fate Path.
 Part Five · Prose Application is lifted out of the Revelation cell.
 
 > The Color of Essence's Revelation cell is restored to its own sentence and the block pasted inside it is lifted out as "Part Five · Prose Application" after Part Four, the same words re-homed; Limina's absence is left visible as a gap rather than papered over.
+
+### R69-3-RESIDUES_TWO_CLOCKS [The Necrocursica Ratification 2026-09-28 necro 3]
+
+Four residues inside the nine days, three after.
+
+> It reads four residues inside the nine days (the Corporeal Residue, the Aetheric Shell, the Noospheric Echo and the Volitional Trace), in that order of reading, and three after them (the Harmonic Imprint, the Sympathetic Bond Trace and the Parunic Echo); a Trace laid in ground that keeps records stays past the nine days.
+
+### R69-5-MORTALIS_CATEGORIES_FLOORS [The Necrocursica Ratification 2026-09-28 necro 5]
+
+The Categories' floors and reservations; Category Four has none.
+
+> The Mortalis Categories bind wherever a circle has signed, each with a floor, a reservation, a cost, a tell and a counter: One at Flourishing and the Adept gate, Two at Glory and the Expert gate, Three at Refraction and the Expert gate with individual review; Category Four has no floor and no gate, and an application is entered against the one who makes it.
 
 ### R62-4-MONOLITHION_SPELLING [Open Conflicts 2026-09-28 C-102]
 
@@ -3813,7 +3837,7 @@ Narration refers to characters by POV epithets, the way the viewpoint sees them;
 
 > Narration refers to characters by POV epithets, the way the viewpoint sees them; the naming characterises.
 
-## documents (94)
+## documents (99)
 
 ### R20C-3-SWEEP_TWO_TIERS [Pack Twenty R20C-3]
 
@@ -4361,6 +4385,36 @@ The Accord files every practitioner under given name, family or patronymic, cult
 
 > The Accord's administrative system files every practitioner under a standardised format: given name, family or patronymic, culture of origin, rank designation.
 
+### R69-1-SEALED_EDITION_703_704 [The Necrocursica Ratification 2026-09-28 necro 1]
+
+The extant Necrocursica is the sealed edition of 703, sealed 704.
+
+> The extant Necrocursica is Malphas's sealed edition, written by order at Genesio in 703 IC and sealed below the gate at the thaw of 704 IC at Tier VI, signed Malphas, Scribe to the Genesio Archivum, by order; its first manuscript was begun in the winter of 694 to 695 IC and finished in the spring of 696 IC, and lies sealed beside it.
+
+### R69-2-THREE_COPIES [The Necrocursica Ratification 2026-09-28 necro 2]
+
+The sealed original, the Zettari copy and the Accord's redacted copy.
+
+> Its copies are the sealed original at Genesio, a second sealed copy in the Zettari archives, and the Accord's copy for the Research and Archives Division's Urbis office, with the completion steps of Category Three struck under redaction.
+
+### R69-7-FOOTNOTE_CUT_AND_RESTORED [The Necrocursica Ratification 2026-09-28 necro 7]
+
+The sealed edition cuts the footnote; Mu-jin's note restores it.
+
+> The sealed edition cuts the first manuscript's footnote, and Kwon Mu-jin's note in the Archivum copy restores it in its own words.
+
+### R69-8-FIVE_MARGINS_LICH_LINE [The Necrocursica Ratification 2026-09-28 necro 8]
+
+Five later margins, one refusing to treat the lich.
+
+> Five margins in Malphas's later hand step over his own lines, one of them naming the lich as the one dead thing that stays itself, and refusing to treat it.
+
+### R69-9-APPENDICES_PROTOCOL_AND_ANSWER [The Necrocursica Ratification 2026-09-28 necro 9]
+
+Appendix I is Furveus's protocol as modified; Appendix II answers Volume III.
+
+> Appendix I is Furveus's stabilisation protocol as Malphas modified it for Mortalis work, with its doses of white arsenic and calomel; Appendix II answers the third volume of Kwon Mu-jin's Codex.
+
 ### R54-11-CARD_HEADER_AT_A_MOMENT [Queue Questionnaire 2026-09-26 WAR-114]
 
 Every card's header states the moment it describes; the Lore section records later events, deaths included.
@@ -4379,7 +4433,7 @@ Isaac's direction of 2026-09-12 overtakes the two pending rows that kept the pac
 
 > Superseded by Isaac's direction of 2026-09-12 to fold the packs into dated base-guide editions ("yes — start folding the packs in now"); eleven guides are folded, the remaining six follow the same way.
 
-## items (65)
+## items (66)
 
 ### R20C-22-AMMUNITION_TIERS_RATIFIED [Pack Twenty R20C-22]
 
@@ -4686,6 +4740,12 @@ Only Kōkan holds a seat and is the only line entitled to the full court present
 Kurosetsu keeps the belt scabbard; that was an equipment ruling, not a naming one, and it survives the reversion.
 
 > Kurosetsu keeps the belt scabbard. That was an equipment ruling, not a naming one, and it survives.
+
+### R69-9-APPENDICES_PROTOCOL_AND_ANSWER [The Necrocursica Ratification 2026-09-28 necro 9]
+
+Appendix I is Furveus's protocol as modified; Appendix II answers Volume III.
+
+> Appendix I is Furveus's stabilisation protocol as Malphas modified it for Mortalis work, with its doses of white arsenic and calomel; Appendix II answers the third volume of Kwon Mu-jin's Codex.
 
 ### R62-5-NO_COAL_BOILERS [Open Conflicts 2026-09-28 C-103]
 
@@ -5439,7 +5499,7 @@ The Phenomenon Bank becomes a growing library: every researched phenomenon (and 
 
 > The Phenomenon Bank becomes a growing library: every researched phenomenon (and pseudoscientific idea) is added for future workings and players to draw from.
 
-## magic-mechanism (185)
+## magic-mechanism (189)
 
 ### R20C-17-SITES_RECHARGE_UNHELPFULLY [Pack Twenty R20C-17]
 
@@ -6389,6 +6449,30 @@ Fusi Vā, the Agamalu binding rite, replaced Saishiki (a Japonic word on a rite 
 
 > Fusi Vā. The Agamalu binding rite. It replaced Saishiki, which was a Japonic word sitting on a rite that is Agamalu in origin and Vāimoana in provenance, and was wrong for both registers on its own terms. The Büri amendment is not what made that change correct. Recommendation: keep.
 
+### R69-3-RESIDUES_TWO_CLOCKS [The Necrocursica Ratification 2026-09-28 necro 3]
+
+Four residues inside the nine days, three after.
+
+> It reads four residues inside the nine days (the Corporeal Residue, the Aetheric Shell, the Noospheric Echo and the Volitional Trace), in that order of reading, and three after them (the Harmonic Imprint, the Sympathetic Bond Trace and the Parunic Echo); a Trace laid in ground that keeps records stays past the nine days.
+
+### R69-4-TRIA_PRIMA_FOR_THE_DEAD [The Necrocursica Ratification 2026-09-28 necro 4]
+
+The Tria Prima mapped for the dead; revenants as stalled Crossings.
+
+> For the dead it maps the Tria Prima as Sulphur to the Volitional Trace, Salt to the Corporeal Residue with the Shell, and Mercury to the Noospheric Echo; a revenant is a stalled Crossing, grounded by Stillgate Ash or by moving the body.
+
+### R69-5-MORTALIS_CATEGORIES_FLOORS [The Necrocursica Ratification 2026-09-28 necro 5]
+
+The Categories' floors and reservations; Category Four has none.
+
+> The Mortalis Categories bind wherever a circle has signed, each with a floor, a reservation, a cost, a tell and a counter: One at Flourishing and the Adept gate, Two at Glory and the Expert gate, Three at Refraction and the Expert gate with individual review; Category Four has no floor and no gate, and an application is entered against the one who makes it.
+
+### R69-6-SEVEN_UNMOORINGS_DRIVERS [The Necrocursica Ratification 2026-09-28 necro 6]
+
+The Seven Unmoorings and their drivers.
+
+> The Seven Unmoorings, with their drivers: the Mirror Trace (Submission), the Worn Habit (none), the Incomplete Sealing (Non-Commitment), the Open Shell (Instrumental Union), the Averted Regard (Catastrophic Germination), the Misnaming (Conviction) and the False Vocation (Tyrannous Finality).
+
 ### R25-1-OBSESSION_SATISFIES_ATTRACTION_GATE [Obsession Force / Attraction Path Gate Ruling Standing Ruling]
 
 A practitioner whose Attraction Layer runs under Obsession Force — the corrupted inversion of Attraction Force — still satisfies an Attraction Path gate for sub-stat purposes. Obsession does not cap Attraction-gated sub-stats hard; this is a setting-wide mechanical rule covering every corrupted practitioner, not a fix scoped to one character.
@@ -6820,7 +6904,7 @@ Wounds in mass-combat scenes are written with the same anatomy as a duel.
 
 > Yes: mass-combat scenes must still carry duel-level wound anatomy.
 
-## naming (166)
+## naming (167)
 
 ### R20C-1-BURI_DEAD_EVERYWHERE [Pack Twenty R20C-1]
 
@@ -7763,6 +7847,12 @@ A foreigner's bent pronunciation of a name is spelled as heard in dialogue (Gimb
 Every character card and place page carries a short pronunciation line.
 
 > Every character card and place page carries a short pronunciation line.
+
+### R69-6-SEVEN_UNMOORINGS_DRIVERS [The Necrocursica Ratification 2026-09-28 necro 6]
+
+The Seven Unmoorings and their drivers.
+
+> The Seven Unmoorings, with their drivers: the Mirror Trace (Submission), the Worn Habit (none), the Incomplete Sealing (Non-Commitment), the Open Shell (Instrumental Union), the Averted Regard (Catastrophic Germination), the Misnaming (Conviction) and the False Vocation (Tyrannous Finality).
 
 ### R62-4-MONOLITHION_SPELLING [Open Conflicts 2026-09-28 C-102]
 
@@ -11322,7 +11412,7 @@ No decade-by-decade technology page: the partner judges what is era-appropriate 
 
 > No decade-by-decade technology page: the partner judges what is era-appropriate in the Imperial Age scene by scene.
 
-## stats (127)
+## stats (128)
 
 ### R20C-30-STAGE_NAMES_FROM_FOW [Pack Twenty R20C-30]
 
@@ -11941,6 +12031,12 @@ Kinjiki's η is ~1.2; his Crystal Tier stays Absolute Crystal.
 The lettered Coherence Band gives way to the Tier of Standing everywhere.
 
 > The retired lettered Coherence Band is replaced, wherever it survives outside the Magic System pages, by the Tier of Standing for the page's Stage, and η is kept as written.
+
+### R69-5-MORTALIS_CATEGORIES_FLOORS [The Necrocursica Ratification 2026-09-28 necro 5]
+
+The Categories' floors and reservations; Category Four has none.
+
+> The Mortalis Categories bind wherever a circle has signed, each with a floor, a reservation, a cost, a tell and a counter: One at Flourishing and the Adept gate, Two at Glory and the Expert gate, Three at Refraction and the Expert gate with individual review; Category Four has no floor and no gate, and an application is entered against the one who makes it.
 
 ### R25-1-OBSESSION_SATISFIES_ATTRACTION_GATE [Obsession Force / Attraction Path Gate Ruling Standing Ruling]
 
@@ -12709,7 +12805,7 @@ When the partner thinks a beat is drifting or a rule reads wrong, it says so in 
 
 > When the partner thinks a beat is drifting or a rule reads wrong, it says so in one plain line and keeps writing unless stopped.
 
-## worldbuilding (284)
+## worldbuilding (286)
 
 ### R20C-1-BURI_DEAD_EVERYWHERE [Pack Twenty R20C-1]
 
@@ -14060,6 +14156,18 @@ The earned Third Name (documented in The Standing and the Title) is conferred in
 Yukari rename at life-stage; Dawi add the oath-name at oath-taking; Elven validate or strip names publicly; Concord freezes bynames into surnames over generations; Beastkin hold name-keeping as a last resort. Which rule applies when a character moves between cultures is always specific to the characters involved and never clean.
 
 > Each culture has different triggers for name-change. The Yukari rename at life-stage transitions. The Dawi add the oath-name at oath-taking. The Elven validate or strip names publicly. The Concord system freezes bynames into surnames over generations. The Beastkin hold their name-keeping as a last resort. When a character moves between cultures, the question of which naming rules apply produces genuine conflict: does a Mahuo practitioner who swears a Dawi oath gain an oath-name? Does a Concord human adopted into a Yukari household receive a new name at coming-of-age? The answer is always specific to the characters involved, and the answer is never clean.
+
+### R69-1-SEALED_EDITION_703_704 [The Necrocursica Ratification 2026-09-28 necro 1]
+
+The extant Necrocursica is the sealed edition of 703, sealed 704.
+
+> The extant Necrocursica is Malphas's sealed edition, written by order at Genesio in 703 IC and sealed below the gate at the thaw of 704 IC at Tier VI, signed Malphas, Scribe to the Genesio Archivum, by order; its first manuscript was begun in the winter of 694 to 695 IC and finished in the spring of 696 IC, and lies sealed beside it.
+
+### R69-2-THREE_COPIES [The Necrocursica Ratification 2026-09-28 necro 2]
+
+The sealed original, the Zettari copy and the Accord's redacted copy.
+
+> Its copies are the sealed original at Genesio, a second sealed copy in the Zettari archives, and the Accord's copy for the Research and Archives Division's Urbis office, with the completion steps of Category Three struck under redaction.
 
 ### R62-3-THE_MOTHER_METHOD_THEN_RELIGION [Open Conflicts 2026-09-28 C-101]
 

@@ -64,7 +64,7 @@ for (const raw of lines) {
     kids.push(new Paragraph({ children: [new TextRun({ text: m[1], color: DIM, size: 28, italics: true })],
       alignment: AlignmentType.CENTER, spacing: { before: 120, after: 1200 } }));
   } else if ((m = s.match(/^## (.*)$/))) {
-    const isChapter = /^(Chapter|Appendix|A Note|To |Entry|Preliminary|Exhibit|Closing|The Case File|Edition|Preface|Book|Part)/.test(m[1]);
+    const isChapter = /^(Chapter|Appendix|A Note|To |On This|The Transcriber|Proem|Cross-References|Colophon|Entry|Preliminary|Exhibit|Closing|The Case File|Edition|Preface|Book|Part)/.test(m[1]);
     if (isChapter) seenChapter = true;
     if (isChapter) {
       kids.push(new Paragraph({ children: [new PageBreak()] }));

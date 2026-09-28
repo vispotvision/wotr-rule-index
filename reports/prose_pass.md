@@ -1,10 +1,10 @@
 # Prose-law pass over the scene archive
-_Run 2026-09-27_
+_Run 2026-09-28_
 
 
 Every FAIL is a hard rule; every WARN needs a read. Nothing was edited. Run `verify_scene` on a scene before revising it.
 
-158 scenes: 268 FAIL, 696 WARN.
+179 scenes: 286 FAIL, 738 WARN.
 
 | scene | FAIL | WARN |
 |---|---|---|
@@ -62,6 +62,7 @@ Every FAIL is a hard rule; every WARN needs a read. Nothing was edited. Run `ver
 | 01_wotr_muster_breach_road_north.md | 2 | 3 |
 | 13_darius_the_holiest_of_holy.md | 2 | 3 |
 | Cozbi_True_Power_Antithesis.md | 2 | 3 |
+| geturo_ignite_tide.md | 2 | 3 |
 | niran_malformation.md | 2 | 3 |
 | sesk_the_report.md | 2 | 3 |
 | the_holy_inquisition_part_1_the_kindling.md | 2 | 3 |
@@ -72,14 +73,19 @@ Every FAIL is a hard rule; every WARN needs a read. Nothing was edited. Run `ver
 | Niran_Awakening_Haruki_Reunion.md | 2 | 2 |
 | Niran_Mira_Awakening.md | 2 | 2 |
 | Nisuke_Titan_Dominion_Strike.md | 2 | 2 |
+| geturo_the_host_line.md | 2 | 2 |
 | kaalabad_the_petition.md | 2 | 2 |
+| mujins_interjection_aetherion_arena.md | 2 | 2 |
 | renard_the_left_of_the_door.md | 2 | 2 |
 | 08_charles_what_a_hand_is_for.md | 2 | 1 |
 | 22_darius_punta.md | 2 | 1 |
 | Cozbi_Dragon_Binding_and_Ashuras_Call.md | 2 | 1 |
 | Cozbi_Pneuma_Unravel_Strike.md | 2 | 1 |
+| rovhen_the_dispensary.md | 2 | 1 |
+| rovhen_the_first_lecture.md | 2 | 1 |
 | sodoku_the_count_supply_report.md | 2 | 1 |
 | xanelor_the_arrow.md | 2 | 1 |
+| rovhen_the_sort.md | 1 | 7 |
 | the_draught.md | 1 | 6 |
 | the_blackmatch.md | 1 | 5 |
 | the_war_in_the_north_iv_the_blank_seal.md | 1 | 5 |
@@ -103,6 +109,8 @@ Every FAIL is a hard rule; every WARN needs a read. Nothing was edited. Run `ver
 | Rengai_Farewell_and_Dhaerin.md | 1 | 3 |
 | Six_Crows_vs_Black_Dragon.md | 1 | 3 |
 | direction_is_not_intention.md | 1 | 3 |
+| rovhen_after_the_lecture.md | 1 | 3 |
+| rovhen_the_letter.md | 1 | 3 |
 | the_brink.md | 1 | 3 |
 | the_terms.md | 1 | 3 |
 | the_vey_elarin.md | 1 | 3 |
@@ -115,6 +123,7 @@ Every FAIL is a hard rule; every WARN needs a read. Nothing was edited. Run `ver
 | Cozbi_Sealed_Retreat.md | 1 | 2 |
 | Dhaerin_Final_Rite_Sacrament_Oblation_Rescind.md | 1 | 2 |
 | aurelian_word_under_the_hammer.md | 1 | 2 |
+| hiromi_the_picnic.md | 1 | 2 |
 | on_foot.md | 1 | 2 |
 | seven_labors.md | 1 | 2 |
 | sodoku_fourteenth_bow_table.md | 1 | 2 |
@@ -123,6 +132,7 @@ Every FAIL is a hard rule; every WARN needs a read. Nothing was edited. Run `ver
 | the_southern_passing.md | 1 | 2 |
 | what_he_spent.md | 1 | 2 |
 | what_we_did_not_do.md | 1 | 2 |
+| xanelor_dallae.md | 1 | 2 |
 | xanelor_rikudoku_and_the_address.md | 1 | 2 |
 | xanelor_seven_days.md | 1 | 2 |
 | xanelor_the_challenge.md | 1 | 2 |
@@ -134,6 +144,9 @@ Every FAIL is a hard rule; every WARN needs a read. Nothing was edited. Run `ver
 | Cozbi_vs_Rengai_Dhaerin_Combat.md | 1 | 1 |
 | Shichi_Karasu_Mission_Awakening.md | 1 | 1 |
 | balance_lesson.md | 1 | 1 |
+| geturo_fire_air.md | 1 | 1 |
+| geturo_gypsum.md | 1 | 1 |
+| geturo_whos_next.md | 1 | 1 |
 | spent_not_dead.md | 1 | 1 |
 | the_overpressure.md | 1 | 1 |
 | xanelor_after_the_crash.md | 1 | 1 |
@@ -151,6 +164,8 @@ Every FAIL is a hard rule; every WARN needs a read. Nothing was edited. Run `ver
 | 15_darius_kill_me_first.md | 0 | 3 |
 | Cozbi_Defensive_Response_to_Dova.md | 0 | 3 |
 | Rui_Trap_Deaths_Ray.md | 0 | 3 |
+| aftermath_hold_the_wall.md | 0 | 3 |
+| hiromi_something_special.md | 0 | 3 |
 | sodoku_true_religion_alabaster.md | 0 | 3 |
 | temur_true_religion_alabaster.md | 0 | 3 |
 | the_holy_inquisition_part_1b_the_empty_chair.md | 0 | 3 |
@@ -160,11 +175,17 @@ Every FAIL is a hard rule; every WARN needs a read. Nothing was edited. Run `ver
 | 03_wren_three_deliveries.md | 0 | 2 |
 | 06_sodoku_the_shallow_seen_unburied.md | 0 | 2 |
 | Niran_Reply_to_Haruki.md | 0 | 2 |
+| geturo_the_slip.md | 0 | 2 |
 | kaalabad_star_crusher.md | 0 | 2 |
 | sodoku_gate_reunion_lambert.md | 0 | 2 |
 | 01_verinus_fire_of_the_undeserving.md | 0 | 1 |
 | Rengai_Confrontation_and_Nirans_Dream.md | 0 | 1 |
 | Six_Crows_Dragon_Fight_Extended.md | 0 | 1 |
+| geturo_constrictor.md | 0 | 1 |
+| geturo_the_elbow.md | 0 | 1 |
+| geturo_the_other_side.md | 0 | 1 |
+| geturo_the_squeeze.md | 0 | 1 |
+| hiromi_the_bench.md | 0 | 1 |
 | the_circus.md | 0 | 1 |
 
 ## commencement_of_the_curia_kujo_arc.md
@@ -886,6 +907,13 @@ Every FAIL is a hard rule; every WARN needs a read. Nothing was edited. Run `ver
 - WARN paragraphs closing on three sentences over 18 words: 1 (R4-14-HARD_CEILINGS says 0)
 - WARN length 794 words, outside the standard band 2500–4500 (Table Rule 2)
 
+## geturo_ignite_tide.md
+- FAIL em dashes: 1 (banned; AI-tells §1, R15-1-AI_TELL_CHECKS_SURVIVE)
+- FAIL countdown negation: "No numbers in prose. Never written: no thought, action or reaction. Only the light bending off him and the fifth band reaching his boots." (AI-tells §1)
+- WARN modern word in narration: "cool" in "...over the patch went thin. Hot air is lighter than cool air, and light moves through..." (R48-13-PERIOD_FEEL, R49-44-MODERN_FLAGS; science sense is exempt, R49-45)
+- WARN paragraphs closing on three sentences over 18 words: 1 (R4-14-HARD_CEILINGS says 0)
+- WARN length 1658 words, outside the standard band 2500–4500 (Table Rule 2)
+
 ## niran_malformation.md
 - FAIL three consecutive sentences over 25 words (R4-14-CHAIN_CEILING)
 - FAIL flat runs: 5 stretches of three sentences within 40% of each other (R4-14-RUN_RULE)
@@ -949,11 +977,23 @@ Every FAIL is a hard rule; every WARN needs a read. Nothing was edited. Run `ver
 - WARN paragraphs closing on three sentences over 18 words: 1 (R4-14-HARD_CEILINGS says 0)
 - WARN length 1033 words, outside the standard band 2500–4500 (Table Rule 2)
 
+## geturo_the_host_line.md
+- FAIL three consecutive sentences over 25 words (R4-14-CHAIN_CEILING)
+- FAIL flat runs: 6 stretches of three sentences within 40% of each other (R4-14-RUN_RULE)
+- WARN modern word in narration: "ok" in "...demy summoning lecturer (pitch name Madam Ha Seol-ok), tiny, green-brown gown, blu..." (R48-13-PERIOD_FEEL, R49-44-MODERN_FLAGS; science sense is exempt, R49-45)
+- WARN length 2024 words, outside the standard band 2500–4500 (Table Rule 2)
+
 ## kaalabad_the_petition.md
 - FAIL three consecutive sentences over 25 words (R4-14-CHAIN_CEILING)
 - FAIL flat runs: 5 stretches of three sentences within 40% of each other (R4-14-RUN_RULE)
 - WARN paragraphs closing on three sentences over 18 words: 1 (R4-14-HARD_CEILINGS says 0)
 - WARN length 2602 words, outside the set-piece band 5000–∞ (Table Rule 2)
+
+## mujins_interjection_aetherion_arena.md
+- FAIL em dashes: 9 (banned; AI-tells §1, R15-1-AI_TELL_CHECKS_SURVIVE)
+- FAIL three consecutive sentences over 25 words (R4-14-CHAIN_CEILING)
+- WARN paragraphs closing on three sentences over 18 words: 1 (R4-14-HARD_CEILINGS says 0)
+- WARN length 2259 words, outside the standard band 2500–4500 (Table Rule 2)
 
 ## renard_the_left_of_the_door.md
 - FAIL three consecutive sentences over 25 words (R4-14-CHAIN_CEILING)
@@ -981,6 +1021,16 @@ Every FAIL is a hard rule; every WARN needs a read. Nothing was edited. Run `ver
 - FAIL hard-ban word: "orbs" in "...ve accommodated.  "Conjunction. Pneuma."  Massive orbs of Pneumosphera bloomed into..." (R51-10-SLOP_WORDS)
 - WARN length 1136 words, outside the standard band 2500–4500 (Table Rule 2)
 
+## rovhen_the_dispensary.md
+- FAIL em dashes: 1 (banned; AI-tells §1, R15-1-AI_TELL_CHECKS_SURVIVE)
+- FAIL flat runs: 4 stretches of three sentences within 40% of each other (R4-14-RUN_RULE)
+- WARN length 2272 words, outside the standard band 2500–4500 (Table Rule 2)
+
+## rovhen_the_first_lecture.md
+- FAIL em dashes: 1 (banned; AI-tells §1, R15-1-AI_TELL_CHECKS_SURVIVE)
+- FAIL flat runs: 4 stretches of three sentences within 40% of each other (R4-14-RUN_RULE)
+- WARN length 2182 words, outside the standard band 2500–4500 (Table Rule 2)
+
 ## sodoku_the_count_supply_report.md
 - FAIL three consecutive sentences over 25 words (R4-14-CHAIN_CEILING)
 - FAIL flat runs: 7 stretches of three sentences within 40% of each other (R4-14-RUN_RULE)
@@ -990,6 +1040,16 @@ Every FAIL is a hard rule; every WARN needs a read. Nothing was edited. Run `ver
 - FAIL em dashes: 1 (banned; AI-tells §1, R15-1-AI_TELL_CHECKS_SURVIVE)
 - FAIL flat runs: 4 stretches of three sentences within 40% of each other (R4-14-RUN_RULE)
 - WARN length 1885 words, outside the standard band 2500–4500 (Table Rule 2)
+
+## rovhen_the_sort.md
+- FAIL em dashes: 1 (banned; AI-tells §1, R15-1-AI_TELL_CHECKS_SURVIVE)
+- WARN Earth calendar word: "Monday" in "...d not wait to be asked.  "You'll have heard about Monday. Whole grounds heard Monday...." (R51-08-CALENDAR; use the culture's own span)
+- WARN Earth calendar word: "Monday" in "...u'll have heard about Monday. Whole grounds heard Monday. The masked lad off the islan..." (R51-08-CALENDAR; use the culture's own span)
+- WARN Earth calendar word: "Monday" in "...itation. She's been down in that ring twice since Monday, before light, on her own. Ni..." (R51-08-CALENDAR; use the culture's own span)
+- WARN Earth calendar word: "Monday" in "...rs," Agnes said, low. "Headmaster wanted it swept Monday night and she put the chain o..." (R51-08-CALENDAR; use the culture's own span)
+- WARN Earth calendar word: "Monday" in "...e it. Two Class X students fought in that ring on Monday and every soul on these groun..." (R51-08-CALENDAR; use the culture's own span)
+- WARN Earth calendar word: "Monday" in "...ring swept after.    - Arena damage is L033 from Monday's Class X match. Nothing here..." (R51-08-CALENDAR; use the culture's own span)
+- WARN length 3843 words, outside the set-piece band 5000–∞ (Table Rule 2)
 
 ## the_draught.md
 - FAIL three consecutive sentences over 25 words (R4-14-CHAIN_CEILING)
@@ -1146,6 +1206,18 @@ Every FAIL is a hard rule; every WARN needs a read. Nothing was edited. Run `ver
 - WARN paragraphs closing on three sentences over 18 words: 3 (R4-14-HARD_CEILINGS says 0)
 - WARN length 3345 words, outside the set-piece band 5000–∞ (Table Rule 2)
 
+## rovhen_after_the_lecture.md
+- FAIL em dashes: 1 (banned; AI-tells §1, R15-1-AI_TELL_CHECKS_SURVIVE)
+- WARN paragraphs closing on three sentences over 18 words: 1 (R4-14-HARD_CEILINGS says 0)
+- WARN length 1321 words, outside the standard band 2500–4500 (Table Rule 2)
+- WARN no anatomical/injury vocabulary found in a combat scene (R13-6-ANATOMY_VOCAB, check 23)
+
+## rovhen_the_letter.md
+- FAIL em dashes: 1 (banned; AI-tells §1, R15-1-AI_TELL_CHECKS_SURVIVE)
+- WARN Earth calendar word: "Sunday" in "...urn at the ninth. He was found at the bottom on a Sunday morning by the boy who takes..." (R51-08-CALENDAR; use the culture's own span)
+- WARN Earth calendar word: "Sunday" in "..., fourteen steps, a turn at the ninth. Found on a Sunday morning by the shutter-boy. -..." (R51-08-CALENDAR; use the culture's own span)
+- WARN length 1666 words, outside the standard band 2500–4500 (Table Rule 2)
+
 ## the_brink.md
 - FAIL flat runs: 5 stretches of three sentences within 40% of each other (R4-14-RUN_RULE)
 - WARN manufactured fragment emphasis: 3 short Not/Never/And/Only fragments (AI-tells §1)
@@ -1211,6 +1283,11 @@ Every FAIL is a hard rule; every WARN needs a read. Nothing was edited. Run `ver
 - WARN paragraphs closing on three sentences over 18 words: 1 (R4-14-HARD_CEILINGS says 0)
 - WARN length 2546 words, outside the set-piece band 5000–∞ (Table Rule 2)
 
+## hiromi_the_picnic.md
+- FAIL flat runs: 5 stretches of three sentences within 40% of each other (R4-14-RUN_RULE)
+- WARN modern word in narration: "cool" in "...f her hand, over the crushed leaves. Her skin was cool. His knuckles were still grey..." (R48-13-PERIOD_FEEL, R49-44-MODERN_FLAGS; science sense is exempt, R49-45)
+- WARN length 835 words, outside the standard band 2500–4500 (Table Rule 2)
+
 ## on_foot.md
 - FAIL three consecutive sentences over 25 words (R4-14-CHAIN_CEILING)
 - WARN length 3147 words, outside the set-piece band 5000–∞ (Table Rule 2)
@@ -1250,6 +1327,11 @@ Every FAIL is a hard rule; every WARN needs a read. Nothing was edited. Run `ver
 - FAIL three consecutive sentences over 25 words (R4-14-CHAIN_CEILING)
 - WARN paragraphs closing on three sentences over 18 words: 3 (R4-14-HARD_CEILINGS says 0)
 - WARN length 3682 words, outside the set-piece band 5000–∞ (Table Rule 2)
+
+## xanelor_dallae.md
+- FAIL em dashes: 1 (banned; AI-tells §1, R15-1-AI_TELL_CHECKS_SURVIVE)
+- WARN emotional signposting: "you were afraid" (AI-tells §4)
+- WARN length 3359 words, outside the set-piece band 5000–∞ (Table Rule 2)
 
 ## xanelor_rikudoku_and_the_address.md
 - FAIL em dashes: 1 (banned; AI-tells §1, R15-1-AI_TELL_CHECKS_SURVIVE)
@@ -1298,6 +1380,18 @@ Every FAIL is a hard rule; every WARN needs a read. Nothing was edited. Run `ver
 ## balance_lesson.md
 - FAIL three consecutive sentences over 25 words (R4-14-CHAIN_CEILING)
 - WARN length 2598 words, outside the set-piece band 5000–∞ (Table Rule 2)
+
+## geturo_fire_air.md
+- FAIL em dashes: 1 (banned; AI-tells §1, R15-1-AI_TELL_CHECKS_SURVIVE)
+- WARN length 1947 words, outside the standard band 2500–4500 (Table Rule 2)
+
+## geturo_gypsum.md
+- FAIL flat runs: 5 stretches of three sentences within 40% of each other (R4-14-RUN_RULE)
+- WARN length 1982 words, outside the standard band 2500–4500 (Table Rule 2)
+
+## geturo_whos_next.md
+- FAIL flat runs: 4 stretches of three sentences within 40% of each other (R4-14-RUN_RULE)
+- WARN length 1583 words, outside the standard band 2500–4500 (Table Rule 2)
 
 ## spent_not_dead.md
 - FAIL three consecutive sentences over 25 words (R4-14-CHAIN_CEILING)
@@ -1386,6 +1480,16 @@ Every FAIL is a hard rule; every WARN needs a read. Nothing was edited. Run `ver
 - WARN length 669 words, outside the standard band 2500–4500 (Table Rule 2)
 - WARN no anatomical/injury vocabulary found in a combat scene (R13-6-ANATOMY_VOCAB, check 23)
 
+## aftermath_hold_the_wall.md
+- WARN question in narration (hypophora?): "Kin to Renard Greymane?" (R49-41-QUESTIONS)
+- WARN competing similes in one paragraph (2): ""The first two, maybe." He turned his right hand over and looked at th..." (R49-18-SIMILE_COUNT: cut one if they share a beat)
+- WARN length 1397 words, outside the standard band 2500–4500 (Table Rule 2)
+
+## hiromi_something_special.md
+- WARN modern word in narration: "cool" in "...d off his knuckle into his palm, and it was still cool, the way a flower is cool fir..." (R48-13-PERIOD_FEEL, R49-44-MODERN_FLAGS; science sense is exempt, R49-45)
+- WARN modern word in narration: "cool" in "...palm, and it was still cool, the way a flower is cool first thing in the morning...." (R48-13-PERIOD_FEEL, R49-44-MODERN_FLAGS; science sense is exempt, R49-45)
+- WARN length 846 words, outside the standard band 2500–4500 (Table Rule 2)
+
 ## sodoku_true_religion_alabaster.md
 - WARN possible Ladder: "is dead and the binding is" in "She is dead and the binding is gone and here we are, three thousand tw..." (Check 18: review by reading)
 - WARN length 2669 words, outside the set-piece band 5000–∞ (Table Rule 2)
@@ -1427,6 +1531,10 @@ Every FAIL is a hard rule; every WARN needs a read. Nothing was edited. Run `ver
 - WARN filter verbs: 2 (5.6 per 1,000 narration words, warn above 5) (R49-42-FILTER_VERBS)
 - WARN length 615 words, outside the standard band 2500–4500 (Table Rule 2)
 
+## geturo_the_slip.md
+- WARN competing similes in one paragraph (2): "It did not stop. It came back up his own arm as though the ground unde..." (R49-18-SIMILE_COUNT: cut one if they share a beat)
+- WARN length 1607 words, outside the standard band 2500–4500 (Table Rule 2)
+
 ## kaalabad_star_crusher.md
 - WARN competing similes in one paragraph (2): "Calling it a wall was wrong. He had broken walls and knew what a wall ..." (R49-18-SIMILE_COUNT: cut one if they share a beat)
 - WARN length 2514 words, outside the set-piece band 5000–∞ (Table Rule 2)
@@ -1443,6 +1551,21 @@ Every FAIL is a hard rule; every WARN needs a read. Nothing was edited. Run `ver
 
 ## Six_Crows_Dragon_Fight_Extended.md
 - WARN length 1783 words, outside the standard band 2500–4500 (Table Rule 2)
+
+## geturo_constrictor.md
+- WARN length 2217 words, outside the standard band 2500–4500 (Table Rule 2)
+
+## geturo_the_elbow.md
+- WARN length 1850 words, outside the standard band 2500–4500 (Table Rule 2)
+
+## geturo_the_other_side.md
+- WARN length 1568 words, outside the standard band 2500–4500 (Table Rule 2)
+
+## geturo_the_squeeze.md
+- WARN length 2095 words, outside the standard band 2500–4500 (Table Rule 2)
+
+## hiromi_the_bench.md
+- WARN length 920 words, outside the standard band 2500–4500 (Table Rule 2)
 
 ## the_circus.md
 - WARN length 3505 words, outside the set-piece band 5000–∞ (Table Rule 2)

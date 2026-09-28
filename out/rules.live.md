@@ -1,6 +1,6 @@
 # Live rules by domain
 
-921 live of 1101 extracted.
+930 live of 1115 extracted.
 
 ## adjudication (53)
 
@@ -58,7 +58,7 @@
 - **R48-31-STAKES** [Writing Law 2026-09-26 Roleplay partnership] Death can happen, if earned: from real mistakes after clear warning; nothing is safe.
 - **R48-32-NPC_VOICES** [Writing Law 2026-09-26 Roleplay partnership] Isaac may take over any NPC's voice anytime by saying so; the partner hands it back after.
 
-## character-sheet (147)
+## character-sheet (150)
 
 - **R20C-16-SONZAI_RECORD_CARD** [Pack Twenty R20C-16] Sonzai gets a record card, not a character card: identity, standing, the Erasure act as a dated event, relations, reference art. No voice section, no interiority, no dialogue samples.
 - **R20C-32-PRECEDENCE_FOW_WORKBOOK_CARD** [Pack Twenty R20C-32] Precedence: Fracture of Worlds, then the Stat Sheet workbook, then the Notion card. The card is a rendering and it drifts.
@@ -121,6 +121,10 @@
 - **R57-13-RUNG_I2_OFF_LADDER_BOTH_WAYS** [Rulings Backfill 2026-09-26 2026-09-25 — new (rules for ruling, I-2)] Permission for a card to sit above a ladder is equally permission to sit below it; the card governs.
 - **R57-17-RUNG_I6_CARD_NUMBERS_BOOK_EVENTS** [Rulings Backfill 2026-09-26 2026-09-25 — new (rules for ruling, I-6)] Where a book and a card disagree, stats and mechanics follow the card and story events follow the book's bible and chapters.
 - **R57-19-RESERVE_SCALING_ONE_FACTOR** [Rulings Backfill 2026-09-26 2026-09-25 — C-059 (WAR-127; amends WAR-70)] An out-of-band EU reserve is moved to the band's geometric-mean set point and every other EU figure on the card takes the same factor; Flux Density, AU/s and eta stand; no stated reserve, no scaling.
+- **R57-32-AYAME_DIED_LATER** [Rulings Backfill 2026-09-26 Conflicts ruled] C-080: Ayame Yuno died later, by her own hand, after the corridor night; she is not among the dead of the corridor night.
+- **R57-33-TOMUKA_AND_EZO** [Rulings Backfill 2026-09-26 Conflicts ruled] C-081: Muken's sons who died on the corridor night are Tomuka and Ezo.
+- **R57-34-MUKENS_HEIR** [Rulings Backfill 2026-09-26 Conflicts ruled] C-082: The Tenrai dubbed Mizuki the heir, because Mizuki was a child Muken had with a woman before Ayame; but the story clearly sets Sodoku up as the heir of Kharven, and Muken never agreed to make Mizuki his heir despite the pressure.
+- **R57-35-IGNATIUS_ALIVE** [Rulings Backfill 2026-09-26 Conflicts ruled] C-083: Ignatius is alive and his whereabouts are known; there was no real report of his death.
 - **R44-1-EU_JOULE_ONE_MEGAJOULE** [Essence Ledger Rulings 2026-09-25 C-034] EU converts to joules at one constant, 1 EU = 1 MJ, everywhere; a card figure that then sits outside its Stage's band is a card error and is corrected in its own issue.
 - **R44-2-AU_FORMULA_GOVERNS** [Essence Ledger Rulings 2026-09-25 C-035] The stated formula is an identity and governs; where a card's AU/s is not Flux Density × η, the card figure is the error and is recomputed in its own issue.
 - **R44-5-CARD_ETA_GOVERNS_PER_CHARACTER** [Essence Ledger Rulings 2026-09-25 WAR-11] A character card's stated η governs for that character, the η tables being typical ranges rather than caps, so an in-world-acknowledged outlier stands.
@@ -167,7 +171,6 @@
 - **R24-1-FLESHSHAPER_SIGNATURES_AND_TELL** [Racial Voice and Dialect Guide Amendment I] Signature lines "That closes" (anything settled) and "Who holds it?" (their first question about any structure); under stress they become more procedural, not less, shortening to pure sequence with the reasons dropped.
 - **R24-3-HOST_CORE_DEVICE** [Racial Voice and Dialect Guide Amendment III] A Host gives an answer that is correct and unusable, aware of this and unable to do anything about it — accurate rather than confident, which is what stops them sounding like scripture.
 - **R26-1-CONCORDANT_CRYSTAL_MECHANISM** [Shared Soul Crystal Mechanism 1] Establishes the Concordant Crystal as the general, reusable mechanism for a Soul Crystal shared by multiple donors: the Essence Cores stay discrete and take turns at the frame's single, non-multiplying Aether Shell; the Attraction Layer alone runs one Wellspring line per donor; Coherence and eta are pooled off the Shell while Tempering Coherence stays per-donor; the frame runs Overgrown by default; and a donor's death or removal either settles the frame toward Refined or, if the survivors will not release it, curdles into Obsession Force -- a failure mode, like single-Shell collapse, that no single-donor Crystal can suffer.
-- **R38-1-COMPONENT_GATES_BIND_WHOLE_SUBSTAT** [Stat Gates and Re-cost Ruling Standing Ruling] Where Part Twelve's Merge Ledger folds several of the old 120-register Sub-Stats into one, and Part Seven gates a component of that Sub-Stat on a Path (Density's inscription and glyph-chain durability on Spirit Path at Stage III, Tolerance's gravitational component on Attraction Path at Stage VI, and the rest), the component gate binds the merged Sub-Stat's whole number: a sheet without that Path commitment cannot carry the merged value above the component's Grade cap. The reading is strict, not lenient. Violating values on existing sheets are lowered to their caps in the same-day re-cost (R38-2).
 - **R38-2-ORIGINATED_SHEETS_RECOST_TO_CURRENT_ALLOTMENT** [Stat Gates and Re-cost Ruling Standing Ruling] Every originated character sheet costed on the pre-cut per-Level allotment (20/25/30 points per Level in Bands I–III, the figures the Volume III/IV sheets show as "Band III at 30 per level") is re-costed to Part Three's current allotment: 12/15/18/21/24 points per Level in Bands I–V, "cut by two fifths", plus the Temperance Threshold grants of Stage × 100. Allocations are trimmed to fit the current pool, Grade letters are re-derived from the trimmed values, and the R38-1 strict caps are applied in the same pass. The Temperance Stage ratifications stand unaffected; only the numbers move.
 - **R39-1-CANON_STAT_MODEL** [Stat System and Scene Rulings 2026-09-13 C-014] The Living System's own model governs every sheet: Sub-Stats are what points are spent on, a Primary is the total of its eight Sub-Stats, and its Grade is read off the mean. The 125 cards that bought Primaries as a second layer of spend are wrong and are re-costed to this shape.
 - **R39-2-DOMINION_MEAN_OF_SEVEN** [Stat System and Scene Rulings 2026-09-13 C-009] Because Throne is excluded from the Dominion total, Dominion's mean is the total divided by seven; Throne sits outside both the total and the mean.
@@ -350,7 +353,7 @@
 - **R48-37-COST_SHOWN** [Writing Law 2026-09-26 Combat and consequence] An ability's cost shows in the body: tremor, heat off the skin, thirst, a Crystal ache.
 - **R48-38-AFTERMATH** [Writing Law 2026-09-26 Combat and consequence] Every duel ends with a full aftermath beat: wounds dressed, what changed between people.
 
-## dialogue (143)
+## dialogue (142)
 
 - **R20C-36-CLEARLY_WINS** [Pack Twenty R20C-36] Clearly wins. Character shows in what a person chooses to explain and what they leave out.
 - **R20C-50-FLESHSHAPER_VOICE** [Pack Twenty R20C-50] Fleshshaper Goblin. Old Vaross substrate.
@@ -433,7 +436,6 @@
 - **R51-09-SPEECH_CAP** [Vocabulary Law 2026-09-26 Vocabulary and diction] How modern a character's speech runs is set on their card; the default is casual, not current.
 - **R51-10-SLOP_WORDS** [Vocabulary Law 2026-09-26 Vocabulary and diction] A hard-ban list separate from the repetition list: tapestry, testament, palpable, visceral, symphony of, a dance of, whisper of, orbs (eyes), ministrations, electric (touch), velvet (voice), shiver down the spine, a breath he didn't know...
 - **R51-11-COLLISIONS** [Vocabulary Law 2026-09-26 Vocabulary and diction] Ordinary words that are also WOTR terms (delve, echo, numinous, sovereign, sanctum, weave, ledger) are used only in their WOTR sense; the plain adjective or verb is banned so the term stays sharp.
-- **R51-12-WORD_BANK** [Vocabulary Law 2026-09-26 Vocabulary and diction] The elevated word bank (eldritch, numinous, chthonic, tenebrous, lambent, sepulchral, incarnadine, stygian, empyreal, ineffable) is used freely, by ear.
 - **R51-13-WORD_STOCK** [Vocabulary Law 2026-09-26 Vocabulary and diction] Narration's word stock (Old English vs Latinate) is by ear: whatever the sentence needs.
 - **R51-14-NEW_TERMS** [Vocabulary Law 2026-09-26 Vocabulary and diction] No ceiling on WOTR terms per page; readers learn by immersion.
 - **R51-15-FIRST_USE** [Vocabulary Law 2026-09-26 Vocabulary and diction] New WOTR terms get meaning from context and use only; no appositive gloss (the zero gloss budget stands).
@@ -496,7 +498,7 @@
 - **R48-43-SPEECHES** [Writing Law 2026-09-26 Characters and dialogue] Dialogue stays realistic under stress, but a trained speaker may deliver one crafted, eloquent speech at a big moment.
 - **R48-44-NAME_USE** [Writing Law 2026-09-26 Characters and dialogue] Narration refers to characters by POV epithets, the way the viewpoint sees them; the naming characterises.
 
-## documents (34)
+## documents (33)
 
 - **R20C-3-SWEEP_TWO_TIERS** [Pack Twenty R20C-3] The sweep has two tiers. Canon pages get swept — body text, not just titles.
 - **R20C-5-BRIEF_BURI_SECTION_MUST_GO** [Pack Twenty R20C-5] The standing project brief still carries a live THE BÜRI CULTURAL AMENDMENT section and a Büri voice roster. Cannot be edited from here.
@@ -515,7 +517,6 @@
 - **R13-9-NOTION_PHYSICS_LINE** [Pack Thirteen §9] The Notion Magical Categories page and Lexicon page each gain a "Physics Domain and real phenomenon" line per entry, giving §3 a wiki home.
 - **R13-9-NOTES_TEMPLATE_SECTIONS** [Pack Thirteen §9] "Added by the gap-fill pass" and "Phenomenon line" become standing sections of the author notes template.
 - **R12-4-VOICE_FOUR_DOCUMENT** [Pack Twelve §4] An in-world register entry, field manual, or codex line dropped in at a scene threshold (the LotM model), using the Mystic Register and setting a rule the scene then breaks.
-- **R4-15-PROCEDURAL_SCENE_BUDGET** [Pack Four Amendment Fifteen] In procedural or ledger scenes, the unlicensed reification budget tightens to one per page, since the Licensed Class is already doing that work there and unlicensed instances would go invisible against it.
 - **R47-1-NO_APPLICATIONS** [Ability Law 2026-09-26 A] An ability entry states the mechanism, what it can act on, its costs, limits, tell and counters, and never how it is used in a fight.
 - **R47-2-FIELD_FORMAT** [Ability Law 2026-09-26 B] New abilities use the field format, in the same look as the card top (Summary card, Codex line, FOW line, Origin): plain headings, short one-line **Field** · value entries in the Physics, Metaphysics, Mechanism, Essence and Counterplay b...
 - **R47-7-NAMES_NOT_NUMBERS** [Ability Law 2026-09-26 G] Tiers of standing and ladder rungs are written by name only, never numbered.
@@ -580,7 +581,7 @@
 - **R33-1-ZETTARI_AGANO_SAND_WITNESSED_TEMPER** [Zettari Forge Culture Ruling Standing Ruling] The Zettari forge culture answers "what makes a thing trustworthy?" with witness and inheritance, not time: a Zettari-forged object is declared reliable once, before a witness older than the speaker, and the bloodline's Material Covenant Resonance holds the declaration in place. The substrate is Agano Sand ("covenant", Swahili-derived, inside the Zettari's own register), a working measure of the Paths' sand -- condensed lineage memory -- folded into the quench. It is access-gated rather than time-gated: it must come from, or through, someone the Paths already recognize. The rite is the Witnessed Temper, a Vow Clause working and not new magic: at the quench the smith or the sovereign the piece is for speaks a bound claim over the object before a Stone Witness (a ruin, an ancestral hall, a Path-linked relic), and the claim becomes a standing law the object runs. Write it as witnessed law, set against the Dawi's brewed endurance; the cross-culture parallel slot is deliberately left open.
 - **R33-2-ZETTARI_WITNESSED_TEMPER_ITEM_BEHAVIOUR** [Zettari Forge Culture Ruling Standing Ruling] A Witnessed-Tempered piece inherits a scaled-down Ancestral Dominion Frame: every significant strain it survives in the hands of whoever it was sworn to makes it measurably more resistant to that same kind of stress thereafter, and the hardening plateaus the way the bloodline's own combat maturity does. If the piece changes hands outside the terms of the oath its accrued memory does not transfer -- the cost falls on the object's recognition of the new holder, not on the oath-breaker's Crystal Coherence as with the Dawi -- and in the worst documented cases Physical Plane Authority's "hold shape" reverses for that bearer alone, making the piece more failure-prone in their hands than an ordinary equivalent. Trade entry, Standing Index format: Agano Sand, T4, provenance restricted, Class III / Fidelity A / Carry 26, price 26.0; sourcing requires a lineage-acknowledged Zettari's sponsorship, and no smith outside Kushara has explained why the sand only "listens" to a claim spoken over stone older than the speaker.
 
-## magic-design (105)
+## magic-design (104)
 
 - **R20C-28-PHENOMENON_BANK_CANDIDATES** [Pack Twenty R20C-28] The Phenomenon Bank's eight seeds are ratified as candidates, not canon. A seed becomes canon the session someone is derived from it — refusal, wound, conviction, then the phenomenon.
 - **R20C-39-PACK_EIGHT_SECTION_ONE_SUPERSEDED** [Pack Twenty R20C-39] Section One superseded. Its sheet-versus-page split was written under Pack Seven.
@@ -609,8 +610,6 @@
 - **R17-5-ARTEFACT_SCOPE** [Pack Seventeen §5] Beyond the Item Guide's existing proof-marks, mass, balance and armour response requirements, any working an artefact performs must carry a full Operation line of its own.
 - **R17-5-BLOODLINE_SCOPE** [Pack Seventeen §5] A bloodline faculty entry must state what quantity the faculty acts on (e.g. what the eye does), what it costs to hold open, and what it cannot resolve; restating the faculty ("the Moto see") is not an entry.
 - **R17-6-MECHANISM_VS_ORIGIN** [Pack Seventeen §6] Entries must state mechanism but never need explain cosmic origin — why a Wellspring answers, where the Sixty came from, how many workings exist, or why the laws are the laws; that permanent gap is where "What nobody knows" lives.
-- **R17-8-CHECK34** [Pack Seventeen §8] Manual check that quantity, law, operation and chain are all present in the Operation line; any absence fails.
-- **R17-8-CHECK35** [Pack Seventeen §8] Manual check: for each of Cost, Limit and Counter, name the sentence in the Operation it follows from; anything untraceable is cut or re-derived.
 - **R17-8-CHECK36** [Pack Seventeen §8] Flags phrases that assert an outcome instead of stating a process (e.g. "is assayed", "is converted", "responds to"); each is replaced with the operation it stands in for, or deleted.
 - **R14-8-ABILITY_GUIDE_FOW_LINE** [Pack Fourteen §8] Every technique entry in the Ability and Technique Design Guide (sixth edition) carries an FOW line beneath the Codex line: governing Primary Stat and Sub-Stats, Stage floor, Grade required, Path gate if any, Resonant Pair if any.
 - **R13-2-THREE_STRATA_MANDATE** [Pack Thirteen §2] Every working explained on the page is explained at three strata (the Aether, the Wellspring, the Essence), in the Technical Register, through one of Pack Twelve's four voices; the strata's causal order need not be the order on the page.
@@ -671,6 +670,7 @@
 - **R57-24-AFTERMATH_IS_THE_TELL** [Rulings Backfill 2026-09-26 2026-09-26 — WAR-3 cards 1 and 2] What a working leaves behind is its tell.
 - **R57-25-UNCARDED_PAGES_READ_TIER_BANDS** [Rulings Backfill 2026-09-26 2026-09-26 — WAR-3 cards 1 and 2] Unpriced Spellcraft discipline pages are priced in EU per gate: each branch at its own Temperance Gates, from the EU-by-Stage table.
 - **R57-26-USAGE_STRIPPED_NUMBERS_KEPT** [Rulings Backfill 2026-09-26 Ruling audit] The 76 published technique and Spellcraft write-ups are stripped of usage lines (tactics and fight-count phrasing such as 'three verdicts per fight', 'cheap against mobs'); their numbers stay: costs stay as shares of reserve, and a plain...
+- **R57-41-CHECKS_34_35_RETIRED** [Rulings Backfill 2026-09-26 Conflicts ruled] C-078: Checks 34 and 35 (defined on the six-line card's Operation line) are retired; the Counterplay block and the fair-play rules cover them.
 - **R60-10-LICENSED_FOR_HIRE** [Combat, Society and Politics Law 2026-09-26 Combat, society and politics] Anyone may practise privately, but taking pay for workings or hunts needs a guild licence; unlicensed hunters are cheap, common and illegal-ish.
 - **R27-1-CYMORATH_AIR_OF_ASCENT_FROST_ON_VOHRIN** [Cymorath Portfolio Ruling Standing Ruling] Cymorath carries exactly the portfolio Fracture of Worlds gives it: the Air of Ascent, Family Fulguria, freedom and motion, strengthening Dexterity Celerity and Gnosis Cartography/Perception. It is not a frost Wellspring. Every frost, cold or stasis working the wiki had been drafting as Cymorath is keyed instead to Vohrin, the Abyssal Depths Titan, Family Caloria, Physics Domain Thermodynamics, on the FOW III reading that cold is heat run backward. There is no dedicated frost Wellspring. Codex lines, Wellspring harmonisation rows and Material Ledger resonance columns that name a cold law write Vohrin · Caloria · Thermodynamics; any surviving Cymorath usage is Fulguria.
 - **R44-4-ETA_PART_SEVENTEEN_GOVERNS** [Essence Ledger Rulings 2026-09-25 C-037] Part Seventeen's Class I figure governs the efficiency conflict — η is 0.60 to 0.70 at Stage VI–VII — and Part Nineteen's Tier 5 Expert row is corrected to match it.
@@ -688,7 +688,7 @@
 - **R48-18-INVENTION** [Writing Law 2026-09-26 Research-grounded techniques] Invention goes one clear step past textbook physics: the real law plus one pinned variable, easy for a player to reason about.
 - **R48-19-BANK** [Writing Law 2026-09-26 Research-grounded techniques] The Phenomenon Bank becomes a growing library: every researched phenomenon (and pseudoscientific idea) is added for future workings and players to draw from.
 
-## magic-mechanism (122)
+## magic-mechanism (124)
 
 - **R20C-17-SITES_RECHARGE_UNHELPFULLY** [Pack Twenty R20C-17] Sites recharge, and it does not help. Decades to centuries, and the rate falls with every working — eighty years the first time, two hundred the second.
 - **R20C-23-ORIGIN_STAYS_MYTHIC** [Pack Twenty R20C-23] Origin stays mythic. Mechanism is fully explicable; where it came from is not.
@@ -777,6 +777,8 @@
 - **R57-24-AFTERMATH_IS_THE_TELL** [Rulings Backfill 2026-09-26 2026-09-26 — WAR-3 cards 1 and 2] What a working leaves behind is its tell.
 - **R57-27-PATH_GATE_BINDS_ITS_COMPONENT** [Rulings Backfill 2026-09-26 Ruling audit] A Path gate binds only the component it names: where a working relies on a Sub-Stat component its declared Path does not open, that component runs capped or absent (Florwyn's Canticle heals but doesn't reinforce); no Path changes.
 - **R57-28-OWN_FIELD_COUNTS_TO_SATURATION** [Rulings Backfill 2026-09-26 Ruling audit] A working's own Essence field counts toward saturation: a threshold is defined in volume and rate, in the new density units, and a working past it triggers the saturation consequence (Crystal Fracture Event for everyone present) like any...
+- **R57-29-PATH_GATE_CAPS_ONLY_ITS_COMPONENT** [Rulings Backfill 2026-09-26 Conflicts ruled] C-089: A Path gate caps only the component it names; the rest of the Sub-Stat runs at full. A healer without Body Path heals fully but cannot reinforce. This supersedes R38-1-COMPONENT_GATES_BIND_WHOLE_SUBSTAT.
+- **R57-38-RARE_BORN_WITHOUT_A_CRYSTAL** [Rulings Backfill 2026-09-26 Conflicts ruled] C-086: A very few people are born with no Soul Crystal at all; it is rare and remarked on. A Class Ø soul keeps its sealed Shell.
 - **R60-13-THE_GATE** [Combat, Society and Politics Law 2026-09-26 Combat, society and politics] Few people lack a Soul Crystal, commoners included, but knowledge of magic is gatekept by administration: the Imperial Age is when nations lock down which kinds of people may use which magics.
 - **R60-14-DORMANT_CRYSTALS** [Combat, Society and Politics Law 2026-09-26 Combat, society and politics] A common person's Crystal is dormant for life unless someone trains them.
 - **R27-1-CYMORATH_AIR_OF_ASCENT_FROST_ON_VOHRIN** [Cymorath Portfolio Ruling Standing Ruling] Cymorath carries exactly the portfolio Fracture of Worlds gives it: the Air of Ascent, Family Fulguria, freedom and motion, strengthening Dexterity Celerity and Gnosis Cartography/Perception. It is not a frost Wellspring. Every frost, cold or stasis working the wiki had been drafting as Cymorath is keyed instead to Vohrin, the Abyssal Depths Titan, Family Caloria, Physics Domain Thermodynamics, on the FOW III reading that cold is heat run backward. There is no dedicated frost Wellspring. Codex lines, Wellspring harmonisation rows and Material Ledger resonance columns that name a cold law write Vohrin · Caloria · Thermodynamics; any surviving Cymorath usage is Fulguria.
@@ -813,7 +815,7 @@
 - **R48-25-AWE** [Writing Law 2026-09-26 WOTR metaphysics on the page] Clarity everywhere: scenes explain Wellsprings, rites, oaths and the Veil as plainly as a sword exchange.
 - **R36-1-YASOSHIMA_SINK_YUNO_SECRET** [Yasoshima Essence Sink / What House Yuno Declined to Disclose What the Research Division Was Not Told] Yasoshima's Essence stability is not natural. For two hundred thousand years House Yuno's Kagura branch has used the island as a sink, gathering and metabolising the world's ambient Essence drift one convergence rite at a time through the deepest reach of Tōbō no Michi; the ore-less islands are the right vessel because nothing in them distorts what is poured in. The working is paid for: the Kagura officiants who hold each convergence spend a sliver of their own selfhood into the pattern (Ritual Self-Dilution, the cost Ayame's own card names for her single-city version at Kharven). The house refuses the Research Division because an outside apparatus measuring the sink changes what it is holding (Kiyome's bar on profane or unstable use), because a partial account is itself a badly formed act, and because the mechanism is the only leverage that has kept the island unconquered. Consequence hook if forced open: the load backs up and discharges violently at Yasoshima, a mainland Measurewright reading spikes for the first time in recorded history, the island becomes the most contested ground in the four quarters, and the house's silence recoils on whoever breaks it like a sealed vow. Reader's knowledge only; no character outside the Kagura officiant line knows it.
 
-## mass-combat (43)
+## mass-combat (44)
 
 - **R3-8-NAVAL_SENSORY_HIERARCHY** [Pack Three Amendment Eight §12] At sea the sensory order runs sight, motion, sound, smell (versus land's sound, pressure, smell, sight), because a ship gives a horizon and takes away footing.
 - **R3-8-NAVAL_SIGHT_HELPLESSNESS** [Pack Three Amendment Eight §12] A sailor's Field Register is available continuously and is rationed by what the character can do about what they see, not by what they can see; write the helplessness of watching rather than the confusion of not seeing.
@@ -853,6 +855,7 @@
 - **R1-3-PLAN_AFTERMATH_FIRST** [Pack One Amendment Three] When planning a battle scene, plan the aftermath first; the engagement exists to produce the conditions of the aftermath. If you cannot state what the aftermath scene is for before writing the battle, the battle has no reason to be in the book.
 - **R1-3-FIVE_STAGE_AFTERMATH** [Pack One Amendment Three] Per the Mass Combat Craft Guide §7: the wounded left where they fell, the stripping, the late and cursory burial, the disease, and the district that does not recover in the season — any aftermath scene should touch at least two.
 - **R1-4-PRECEDENCE_NOTE** [Pack One Amendment Four] The Combat Craft Guide governs duels and small actions; the Mass Combat Craft Guide takes precedence the moment a formation exists, and duel instruments (the three-layer hit model, HEMA vocabulary, armour-tier breakdown) are suspended or replaced accordingly.
+- **R57-40-HOBGOBLIN_HORN_IN_COLD** [Rulings Backfill 2026-09-26 Conflicts ruled] C-052: Hobgoblin formations signal by Silent Sign-Glyphs as the norm; in deep cold or broken ground a formation falls back to a horn count, which is why the fight at the breach is unusual.
 - **R59-12-TRANSITIONAL_MILITARY** [Era and Apparatus Law 2026-09-26 Era and apparatus] Military: transitional. Cavalry, bright uniforms and drill in the early span; khaki, trenches and rare machine guns later; practitioners change everything anyway.
 - **R54-15-AFTERMATH_PAID_LATER** [Queue Questionnaire 2026-09-26 WAR-91] A named later scene covering two of the five aftermath stages discharges a battle scene's aftermath duty.
 - **R54-17-MULTI_PLACE_SET_PIECE** [Queue Questionnaire 2026-09-26 WAR-91] A scene across several places with one mass-combat section is measured as a set piece.
@@ -1090,7 +1093,7 @@
 - **R48-43-SPEECHES** [Writing Law 2026-09-26 Characters and dialogue] Dialogue stays realistic under stress, but a trained speaker may deliver one crafted, eloquent speech at a big moment.
 - **R48-44-NAME_USE** [Writing Law 2026-09-26 Characters and dialogue] Narration refers to characters by POV epithets, the way the viewpoint sees them; the naming characterises.
 
-## prose-law (217)
+## prose-law (218)
 
 - **R20C-29-CATEGORY_NAMING_DIAGNOSTIC** [Pack Twenty R20C-29] Category naming in diagnostic voice: allowed.
 - **R20C-33-RESONANT_PAIRS_DIAGNOSTIC** [Pack Twenty R20C-33] Resonant Pair unlocks may be named in diagnostic voice.
@@ -1165,7 +1168,6 @@
 - **R4-15-CONCRETE_FIRST** [Pack Four Amendment Fifteen] Before reifying, check whether an object already in the room can carry the same freight; the object always wins.
 - **R4-15-NEVER_AT_BEAT** [Pack Four Amendment Fifteen] Reification is atmosphere and a poor delivery vehicle for a turn; the value flips on a body or an object, never on a personified noun.
 - **R4-15-BODIES_EXEMPT** [Pack Four Amendment Fifteen] Concrete nouns doing concrete things (hands shaking, a jaw setting, a tail going still) are not counted against the reification budget.
-- **R4-15-PROCEDURAL_SCENE_BUDGET** [Pack Four Amendment Fifteen] In procedural or ledger scenes, the unlicensed reification budget tightens to one per page, since the Licensed Class is already doing that work there and unlicensed instances would go invisible against it.
 - **R4-15-WATCHLIST_NOUNS** [Pack Four Amendment Fifteen] Recurring reification offenders, kept greppable rather than felt: silence, weight, arithmetic, governance, permission, distance, authority, refusal, grief, history, patience, the question, the cost, the moment, the space between them.
 - **R4-ADD-CHECK15** [Pack Four Addendum] Flags etymological, register and "which meant" constructions; warns rather than fails since the whose-vocabulary test cannot be automated, and every flag gets read.
 - **R4-ADD-CHECK16** [Pack Four Addendum] Fails any chain of 3+ sentences over 25 words, 4+ flat runs, a short-sentence share under 10% (warns under 18%), and reports every paragraph closing long-long-long.
@@ -1176,6 +1178,9 @@
 - **R2-5-SINGLE_ACT_CONDITIONS** [Pack Two Amendment Five] The Single Act must be physical (a thing done with the body under load, not a decision or realisation), unrepeatable (the circumstance does not recur), witnessed but not discussed during the engagement, and ambiguous at the moment it happens to witness, reader and actor alike.
 - **R2-5-RESOLUTION_IN_AFTERMATH** [Pack Two Amendment Five] The relationship change is legible in how the two characters handle an unrelated later scene; if a character ever says what the act meant, the amendment has been violated and the scene has been spent.
 - **R57-09-FULL_KNOWLEDGE** [Rulings Backfill 2026-09-26 2026-09-24 — new (full-knowledge, fair-play)] Natalie writes from all of WOTR: cards, Stat Sheet, FOW, Codex, wiki, scenes, rulings, meta and system knowledge.
+- **R57-30-OZONE_WORD_FREE_PHRASE_BANNED** [Rulings Backfill 2026-09-26 Conflicts ruled] C-090: 'Ozone' is free as a word for any POV; only the stock phrase 'the smell of ozone' stays on the hard-ban list.
+- **R57-31-NUMINOUS_WOTR_SENSE_ONLY** [Rulings Backfill 2026-09-26 Conflicts ruled] C-091: 'Numinous' keeps only its WOTR sense and comes out of the elevated word bank, which is eldritch, chthonic, tenebrous, lambent, sepulchral, incarnadine, stygian, empyreal and ineffable, used freely, by ear. This supersedes R51-12-W...
+- **R57-42-REIFICATION_NO_COUNT_ANYWHERE** [Rulings Backfill 2026-09-26 Conflicts ruled] C-079: Reification has no count anywhere, procedural and ledger scenes included.
 - **R41-1-DISTANCE_IS_TWO_AXES** [Distance Two Axes Ruling C-015] R35-2's register (close, medium, distant/formal) says whose idiom the narration runs in; Pack Twenty's band (1 to 5) says how deep inside the POV it sits. Both assignments stand and neither trades off the other: Cozbi runs distant/formal at band 5.
 - **R23-11-NAME_AVOIDANCE_WAITING** [Inner World Naming Amendment XI] The name of the recently dead is unsayable until given on; the Waiting is the silence — the body waits in the death-house because the ground is frozen, and the name waits with it, leaving a hole in the household's vocabulary that everyone steers around.
 - **R43-3-COLOR_OF_ESSENCE_PART_FIVE** [Magic System Rulings 2026-09-24 C-032] Part Five · Prose Application is lifted out of the Revelation cell.
@@ -1254,7 +1259,6 @@
 - **R51-09-SPEECH_CAP** [Vocabulary Law 2026-09-26 Vocabulary and diction] How modern a character's speech runs is set on their card; the default is casual, not current.
 - **R51-10-SLOP_WORDS** [Vocabulary Law 2026-09-26 Vocabulary and diction] A hard-ban list separate from the repetition list: tapestry, testament, palpable, visceral, symphony of, a dance of, whisper of, orbs (eyes), ministrations, electric (touch), velvet (voice), shiver down the spine, a breath he didn't know...
 - **R51-11-COLLISIONS** [Vocabulary Law 2026-09-26 Vocabulary and diction] Ordinary words that are also WOTR terms (delve, echo, numinous, sovereign, sanctum, weave, ledger) are used only in their WOTR sense; the plain adjective or verb is banned so the term stays sharp.
-- **R51-12-WORD_BANK** [Vocabulary Law 2026-09-26 Vocabulary and diction] The elevated word bank (eldritch, numinous, chthonic, tenebrous, lambent, sepulchral, incarnadine, stygian, empyreal, ineffable) is used freely, by ear.
 - **R51-13-WORD_STOCK** [Vocabulary Law 2026-09-26 Vocabulary and diction] Narration's word stock (Old English vs Latinate) is by ear: whatever the sentence needs.
 - **R51-14-NEW_TERMS** [Vocabulary Law 2026-09-26 Vocabulary and diction] No ceiling on WOTR terms per page; readers learn by immersion.
 - **R51-15-FIRST_USE** [Vocabulary Law 2026-09-26 Vocabulary and diction] New WOTR terms get meaning from context and use only; no appositive gloss (the zero gloss budget stands).
@@ -1383,6 +1387,7 @@
 - **R5-G-STYLE_DIRECTIVE_HUMOUR_POINTER** [Pack Five G] The Master Style Directive's §4 final paragraph (the manhwa-energy humour clause) is deleted and replaced with a pointer to Pack Five Section D.
 - **R5-G-STYLE_DIRECTIVE_EXCLUDED_LIST** [Pack Five G] The Master Style Directive's §10 deliberately-excluded list gains the Manhwa Energy Directive.
 - **R5-G-PROJECT_INSTRUCTIONS_EDIT** [Pack Five G] The Manhwa Energy Directive block is struck in full from project instructions, "manhwa-cinematic" and "manhwa energy" are struck from tone descriptions, and the genre-intersection statement is amended so only the pacing ambition survives.
+- **R57-31-NUMINOUS_WOTR_SENSE_ONLY** [Rulings Backfill 2026-09-26 Conflicts ruled] C-091: 'Numinous' keeps only its WOTR sense and comes out of the elevated word bank, which is eldritch, chthonic, tenebrous, lambent, sepulchral, incarnadine, stygian, empyreal and ineffable, used freely, by ear. This supersedes R51-12-W...
 - **R58-05-SWEARS_AND_SENSE_BANKS_APPROVED** [Follow-up Rulings 2026-09-26 Follow-up answers] The WOTR swears, sense banks, culture inventories, price table and narration registers are approved and canon; completes R51-35's draft-for-approval step.
 - **R23-10-CHINESE_PHONOTACTICS** [Inner World Naming Amendment X] Open syllables, permitted nasal codas, no clusters; avoid the wuxia register the base guide already warns off — no four-syllable given names, no sect-title constructions, no honorific stacking.
 - **R40-2-CELESTIAL_HOST_NAMING_PASS** [Naming Banks 2026-09-13 Celestial Host] The formal pass R20-2 was waiting for. A Celestial's name has three slots: a function-name (a function root and a measure root, coined on the Host's own vocabulary of Vow, Verdict, Boundary, Seal, Record, Tally and Toll), a rank-suffix that changes with promotion and whose loss is a stripping, and a Lawbell-name that is the Archon's own name carried bare, whose loss is the Severance. Obeys the Host's idiom rule. The five working names are kept and read back through the system. Four flags stay open as ratified, two of them canon acts for Isaac.
@@ -1422,7 +1427,6 @@
 - **R51-09-SPEECH_CAP** [Vocabulary Law 2026-09-26 Vocabulary and diction] How modern a character's speech runs is set on their card; the default is casual, not current.
 - **R51-10-SLOP_WORDS** [Vocabulary Law 2026-09-26 Vocabulary and diction] A hard-ban list separate from the repetition list: tapestry, testament, palpable, visceral, symphony of, a dance of, whisper of, orbs (eyes), ministrations, electric (touch), velvet (voice), shiver down the spine, a breath he didn't know...
 - **R51-11-COLLISIONS** [Vocabulary Law 2026-09-26 Vocabulary and diction] Ordinary words that are also WOTR terms (delve, echo, numinous, sovereign, sanctum, weave, ledger) are used only in their WOTR sense; the plain adjective or verb is banned so the term stays sharp.
-- **R51-12-WORD_BANK** [Vocabulary Law 2026-09-26 Vocabulary and diction] The elevated word bank (eldritch, numinous, chthonic, tenebrous, lambent, sepulchral, incarnadine, stygian, empyreal, ineffable) is used freely, by ear.
 - **R51-13-WORD_STOCK** [Vocabulary Law 2026-09-26 Vocabulary and diction] Narration's word stock (Old English vs Latinate) is by ear: whatever the sentence needs.
 - **R51-14-NEW_TERMS** [Vocabulary Law 2026-09-26 Vocabulary and diction] No ceiling on WOTR terms per page; readers learn by immersion.
 - **R51-15-FIRST_USE** [Vocabulary Law 2026-09-26 Vocabulary and diction] New WOTR terms get meaning from context and use only; no appositive gloss (the zero gloss budget stands).
@@ -1627,6 +1631,7 @@
 - **R57-19-RESERVE_SCALING_ONE_FACTOR** [Rulings Backfill 2026-09-26 2026-09-25 — C-059 (WAR-127; amends WAR-70)] An out-of-band EU reserve is moved to the band's geometric-mean set point and every other EU figure on the card takes the same factor; Flux Density, AU/s and eta stand; no stated reserve, no scaling.
 - **R57-25-UNCARDED_PAGES_READ_TIER_BANDS** [Rulings Backfill 2026-09-26 2026-09-26 — WAR-3 cards 1 and 2] Unpriced Spellcraft discipline pages are priced in EU per gate: each branch at its own Temperance Gates, from the EU-by-Stage table.
 - **R57-27-PATH_GATE_BINDS_ITS_COMPONENT** [Rulings Backfill 2026-09-26 Ruling audit] A Path gate binds only the component it names: where a working relies on a Sub-Stat component its declared Path does not open, that component runs capped or absent (Florwyn's Canticle heals but doesn't reinforce); no Path changes.
+- **R57-29-PATH_GATE_CAPS_ONLY_ITS_COMPONENT** [Rulings Backfill 2026-09-26 Conflicts ruled] C-089: A Path gate caps only the component it names; the rest of the Sub-Stat runs at full. A healer without Body Path heals fully but cannot reinforce. This supersedes R38-1-COMPONENT_GATES_BIND_WHOLE_SUBSTAT.
 - **R60-03-HARD_RESERVE_CLOCK** [Combat, Society and Politics Law 2026-09-26 Combat, society and politics] Essence and stamina run on a hard clock by the Ledger's numbers; long fights are won by whoever manages the reserve; Starvation hits mid-fight on overspend.
 - **R44-1-EU_JOULE_ONE_MEGAJOULE** [Essence Ledger Rulings 2026-09-25 C-034] EU converts to joules at one constant, 1 EU = 1 MJ, everywhere; a card figure that then sits outside its Stage's band is a card error and is corrected in its own issue.
 - **R44-2-AU_FORMULA_GOVERNS** [Essence Ledger Rulings 2026-09-25 C-035] The stated formula is an identity and governs; where a card's AU/s is not Flux Density × η, the card figure is the error and is recomputed in its own issue.
@@ -1678,7 +1683,6 @@
 - **R45-1-SPEED_DECIDES_THE_DODGE** [Shot and the Enhanced Weapon 2026-09-25 Part One] A dodge against a projectile is read off the target's Speed Grade (Celerity, Reflex, Sequence) against the projectile's velocity; surviving a hit is read off Resilience. Against a plain .44 at ~235 m/s, D reacts and is hit, C dodges, B dodges with room; against a musket ball, B is where dodging is reliable.
 - **R45-2-CATCHING_A_PROJECTILE** [Shot and the Enhanced Weapon 2026-09-25 Part One] To catch rather than dodge, the catcher's Speed Grade Travel floor must be at least twice the projectile's velocity; B-Grade for a period revolver, A-Grade reliably for a musket ball. Alacrity or Celerity techniques can bring a lower Grade there early at overchannel risk.
 - **R45-3-ENHANCEMENT_CEILING** [Shot and the Enhanced Weapon 2026-09-25 Part Two] Channelled in the moment, the wielder's Grade caps the enhancement; enchanted, glyphed or alchemically worked beforehand, the maker's Grade at the time of making, and a relic keeps its maker's ceiling in any hand.
-- **R38-1-COMPONENT_GATES_BIND_WHOLE_SUBSTAT** [Stat Gates and Re-cost Ruling Standing Ruling] Where Part Twelve's Merge Ledger folds several of the old 120-register Sub-Stats into one, and Part Seven gates a component of that Sub-Stat on a Path (Density's inscription and glyph-chain durability on Spirit Path at Stage III, Tolerance's gravitational component on Attraction Path at Stage VI, and the rest), the component gate binds the merged Sub-Stat's whole number: a sheet without that Path commitment cannot carry the merged value above the component's Grade cap. The reading is strict, not lenient. Violating values on existing sheets are lowered to their caps in the same-day re-cost (R38-2).
 - **R38-2-ORIGINATED_SHEETS_RECOST_TO_CURRENT_ALLOTMENT** [Stat Gates and Re-cost Ruling Standing Ruling] Every originated character sheet costed on the pre-cut per-Level allotment (20/25/30 points per Level in Bands I–III, the figures the Volume III/IV sheets show as "Band III at 30 per level") is re-costed to Part Three's current allotment: 12/15/18/21/24 points per Level in Bands I–V, "cut by two fifths", plus the Temperance Threshold grants of Stage × 100. Allocations are trimmed to fit the current pool, Grade letters are re-derived from the trimmed values, and the R38-1 strict caps are applied in the same pass. The Temperance Stage ratifications stand unaffected; only the numbers move.
 - **R39-1-CANON_STAT_MODEL** [Stat System and Scene Rulings 2026-09-13 C-014] The Living System's own model governs every sheet: Sub-Stats are what points are spent on, a Primary is the total of its eight Sub-Stats, and its Grade is read off the mean. The 125 cards that bought Primaries as a second layer of spend are wrong and are re-costed to this shape.
 - **R39-2-DOMINION_MEAN_OF_SEVEN** [Stat System and Scene Rulings 2026-09-13 C-009] Because Throne is excluded from the Dominion total, Dominion's mean is the total divided by seven; Throne sits outside both the total and the mean.
@@ -1703,8 +1707,6 @@
 - **R18-7-CHECK38** [Pack Eighteen §7] Every bracketed glyph token in a file is validated against the Master Glyph Index; unknown tokens fail.
 - **R18-7-CHECK39** [Pack Eighteen §7] Manual check: for any new working, name the Spell Index rows checked and state whether the working is new, a derivation of a named row, or a duplicate.
 - **R17-2-THE_TEST** [Pack Seventeen §2] A technique must be statable as "it does X to Y, which under Z produces W"; if that sentence cannot be written, the technique is not designed regardless of the prose around it.
-- **R17-8-CHECK34** [Pack Seventeen §8] Manual check that quantity, law, operation and chain are all present in the Operation line; any absence fails.
-- **R17-8-CHECK35** [Pack Seventeen §8] Manual check: for each of Cost, Limit and Counter, name the sentence in the Operation it follows from; anything untraceable is cut or re-derived.
 - **R17-8-CHECK36** [Pack Seventeen §8] Flags phrases that assert an outcome instead of stating a process (e.g. "is assayed", "is converted", "responds to"); each is replaced with the operation it stands in for, or deleted.
 - **R16-2-DELETION_REQUIRES_NOTE** [Pack Sixteen §2] If a rough-draft term does not survive into the finished prose in one of the four routed forms, the author notes must say which term was dropped and why, in one line, or the pass has failed.
 - **R16-6-COINAGE_COLLISION** [Pack Sixteen §6] Where a coinage collides with existing canon, the collision is surfaced and both readings are stated, per the standing rule against silent resolution.
@@ -1768,6 +1770,8 @@
 - **R2-5-DIAGNOSTIC_TEST** [Pack Two Amendment Five] If removing the battle would preserve the relationship change, the Act was not unrepeatable and the battle was decoration; rebuild the Act around something only the engagement made possible.
 - **R57-14-RUNG_I3_STALE_STATUS_NOTES** [Rulings Backfill 2026-09-26 2026-09-25 — new (rules for ruling, I-3)] A canon line stating the state of the record, since overtaken, may be updated by any sweep citing what overtook it.
 - **R57-18-RUNG_I7_AUTHORSHIP_TO_AGENTS** [Rulings Backfill 2026-09-26 2026-09-25 — new (rules for ruling, I-7)] Confirm-or-flip questions on originated material are decided by the agents as logged agent-made canon, which Isaac may overturn.
+- **R57-30-OZONE_WORD_FREE_PHRASE_BANNED** [Rulings Backfill 2026-09-26 Conflicts ruled] C-090: 'Ozone' is free as a word for any POV; only the stock phrase 'the smell of ozone' stays on the hard-ban list.
+- **R57-41-CHECKS_34_35_RETIRED** [Rulings Backfill 2026-09-26 Conflicts ruled] C-078: Checks 34 and 35 (defined on the six-line card's Operation line) are retired; the Counterplay block and the fair-play rules cover them.
 - **R58-04-TITLES_EXEMPT_FROM_BAN_LIST** [Follow-up Rulings 2026-09-26 Follow-up answers] Titles are exempt from the vocabulary ban list; the checker skips the title line ('Verinus: Testament of the Sixty-Fifth' stands).
 - **R23-10-TELLING_APART_KOREAN** [Inner World Naming Amendment X] A hyphen means Mahuo (Korean); no hyphen means the lineage halls (Chinese). A hollow-seat means Mahuo; the halls use the book instead. A courtesy name means the halls; no Mahuo character has one. A two-syllable surname means neither register — that's Japonic.
 - **R22-3-MONGON_DISPUTE_DEAD** [Moto Reversion Ledger III] The Möngön against Mönggön spelling dispute is struck from the docket, since it was an argument about a name that no longer exists.
@@ -1791,7 +1795,7 @@
 - **R48-49-CITATIONS** [Writing Law 2026-09-26 Process] Research is cited as a source list at the end of each scene's or ability's notes.
 - **R48-50-PUSHBACK** [Writing Law 2026-09-26 Process] When the partner thinks a beat is drifting or a rule reads wrong, it says so in one plain line and keeps writing unless stopped.
 
-## worldbuilding (217)
+## worldbuilding (226)
 
 - **R20C-1-BURI_DEAD_EVERYWHERE** [Pack Twenty R20C-1] Büri is dead everywhere, without exception. No house, no amendment, no voice roster, no Mongolian register on any Inner World page.
 - **R20C-2-SATULAGI_STAYS_DEAD** [Pack Twenty R20C-2] Sātūlagi stays dead. Struck for a structural reason; reverting the register does not restore a place.
@@ -1864,6 +1868,15 @@
 - **R57-05-ROVHEN_INVESTIGATOR** [Rulings Backfill 2026-09-26 2026-09-24 — new] Rovhen Talvasciel is retconned: a human retired private magical investigator, 28, once Edmund Lambert's assistant, now an Aetherion Academy instructor; 'The Prettier' card is superseded.
 - **R57-06-EDMUND_LAMBERT** [Rulings Backfill 2026-09-26 2026-09-24 — new] Edmund Lambert is a dead member of the Lambert family, distinct from Edward Lambert; relation unset.
 - **R57-21-RESONANCE_FACET_OF_RESIDUE** [Rulings Backfill 2026-09-26 2026-09-26 — WAR-3 cards 1 and 2] Ambient Resonance is a facet of Residue, not a separate quantity.
+- **R57-32-AYAME_DIED_LATER** [Rulings Backfill 2026-09-26 Conflicts ruled] C-080: Ayame Yuno died later, by her own hand, after the corridor night; she is not among the dead of the corridor night.
+- **R57-33-TOMUKA_AND_EZO** [Rulings Backfill 2026-09-26 Conflicts ruled] C-081: Muken's sons who died on the corridor night are Tomuka and Ezo.
+- **R57-34-MUKENS_HEIR** [Rulings Backfill 2026-09-26 Conflicts ruled] C-082: The Tenrai dubbed Mizuki the heir, because Mizuki was a child Muken had with a woman before Ayame; but the story clearly sets Sodoku up as the heir of Kharven, and Muken never agreed to make Mizuki his heir despite the pressure.
+- **R57-35-IGNATIUS_ALIVE** [Rulings Backfill 2026-09-26 Conflicts ruled] C-083: Ignatius is alive and his whereabouts are known; there was no real report of his death.
+- **R57-36-YEAR_ZERO_IS_THE_CODEX** [Rulings Backfill 2026-09-26 Conflicts ruled] C-084: Year Zero of the Concordance of Ages is the sealing of the Codex, 715 years ago; the Guild Accord as a communion of guilds is what is forming now.
+- **R57-37-INQUISITION_LAWFUL_IN_ITS_LANDS** [Rulings Backfill 2026-09-26 Conflicts ruled] C-085: The Holy Inquisition holds legal standing where the crowns and churches that back it rule, and is outlawed where the Accord's circles have signed; it enforces the Gate in its own territory.
+- **R57-38-RARE_BORN_WITHOUT_A_CRYSTAL** [Rulings Backfill 2026-09-26 Conflicts ruled] C-086: A very few people are born with no Soul Crystal at all; it is rare and remarked on. A Class Ø soul keeps its sealed Shell.
+- **R57-39-NIGHT_REGISTER_IS_THE_SOCIETYS** [Rulings Backfill 2026-09-26 Conflicts ruled] C-088: The Night Register is the Night Watch Society's own desk, not the Guild Accord's Arbitration Division's.
+- **R57-40-HOBGOBLIN_HORN_IN_COLD** [Rulings Backfill 2026-09-26 Conflicts ruled] C-052: Hobgoblin formations signal by Silent Sign-Glyphs as the norm; in deep cold or broken ground a formation falls back to a horn count, which is why the fight at the breach is unusual.
 - **R60-04-DEATH_IS_PERMANENT** [Combat, Society and Politics Law 2026-09-26 Combat, society and politics] Death is almost always permanent; the only exceptions are liches, the undead and their kind.
 - **R60-05-COMPANY_THEN_CROWN** [Combat, Society and Politics Law 2026-09-26 Combat, society and politics] Crowns and chartered houses expand together: the company takes the ground, then the crown claims it.
 - **R60-06-THE_SCRAMBLE** [Combat, Society and Politics Law 2026-09-26 Combat, society and politics] The scramble is for the commercialisation of monster-hunting (hired hunting parties; guild systems spread rapidly, before the full creation of the Guild Accord, which is a communion of guilds), and for Wells and draw, materials, markets ...

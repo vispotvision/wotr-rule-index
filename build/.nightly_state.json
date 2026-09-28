@@ -1,5 +1,5 @@
 {
-"run": "2026-09-27T03:30:14",
+"run": "2026-09-28T03:30:00",
 "findings": {
 "0e0f61e9722d": {
 "file": "commencement_of_the_curia_kujo_arc.md",
@@ -1198,6 +1198,20 @@
 "key": "67ef232d4fd5",
 "first_seen": "2026-09-13"
 },
+"52a0379b76cc": {
+"file": "geturo_ignite_tide.md",
+"check": "prose",
+"text": "em dashes: 1 (banned; AI-tells §1, R15-1-AI_TELL_CHECKS_SURVIVE)",
+"key": "52a0379b76cc",
+"first_seen": "2026-09-28"
+},
+"3420d58e0e34": {
+"file": "geturo_ignite_tide.md",
+"check": "prose",
+"text": "countdown negation: \"No numbers in prose. Never written: no thought, action or reaction. Only the light bending off him and the fifth band reaching his boots.\" (AI-tells §1)",
+"key": "3420d58e0e34",
+"first_seen": "2026-09-28"
+},
 "2566e9c8ae4c": {
 "file": "niran_malformation.md",
 "check": "prose",
@@ -1338,6 +1352,20 @@
 "key": "9e1bf0ff78ca",
 "first_seen": "2026-09-13"
 },
+"2488eba75aae": {
+"file": "geturo_the_host_line.md",
+"check": "prose",
+"text": "three consecutive sentences over 25 words (R4-14-CHAIN_CEILING)",
+"key": "2488eba75aae",
+"first_seen": "2026-09-28"
+},
+"438f7f70eee5": {
+"file": "geturo_the_host_line.md",
+"check": "prose",
+"text": "flat runs: 6 stretches of three sentences within 40% of each other (R4-14-RUN_RULE)",
+"key": "438f7f70eee5",
+"first_seen": "2026-09-28"
+},
 "98d18d22082e": {
 "file": "kaalabad_the_petition.md",
 "check": "prose",
@@ -1351,6 +1379,20 @@
 "text": "flat runs: 5 stretches of three sentences within 40% of each other (R4-14-RUN_RULE)",
 "key": "90a67bb752c1",
 "first_seen": "2026-09-13"
+},
+"7687e67d91c9": {
+"file": "mujins_interjection_aetherion_arena.md",
+"check": "prose",
+"text": "em dashes: 9 (banned; AI-tells §1, R15-1-AI_TELL_CHECKS_SURVIVE)",
+"key": "7687e67d91c9",
+"first_seen": "2026-09-28"
+},
+"183873e8b8ef": {
+"file": "mujins_interjection_aetherion_arena.md",
+"check": "prose",
+"text": "three consecutive sentences over 25 words (R4-14-CHAIN_CEILING)",
+"key": "183873e8b8ef",
+"first_seen": "2026-09-28"
 },
 "c33cb6608edf": {
 "file": "renard_the_left_of_the_door.md",
@@ -1422,6 +1464,34 @@
 "key": "47e44c7d5022",
 "first_seen": "2026-09-27"
 },
+"da4adf4997e2": {
+"file": "rovhen_the_dispensary.md",
+"check": "prose",
+"text": "em dashes: 1 (banned; AI-tells §1, R15-1-AI_TELL_CHECKS_SURVIVE)",
+"key": "da4adf4997e2",
+"first_seen": "2026-09-28"
+},
+"09eb0d107aef": {
+"file": "rovhen_the_dispensary.md",
+"check": "prose",
+"text": "flat runs: 4 stretches of three sentences within 40% of each other (R4-14-RUN_RULE)",
+"key": "09eb0d107aef",
+"first_seen": "2026-09-28"
+},
+"4b59b6a9a5af": {
+"file": "rovhen_the_first_lecture.md",
+"check": "prose",
+"text": "em dashes: 1 (banned; AI-tells §1, R15-1-AI_TELL_CHECKS_SURVIVE)",
+"key": "4b59b6a9a5af",
+"first_seen": "2026-09-28"
+},
+"2dfdae17c7d0": {
+"file": "rovhen_the_first_lecture.md",
+"check": "prose",
+"text": "flat runs: 4 stretches of three sentences within 40% of each other (R4-14-RUN_RULE)",
+"key": "2dfdae17c7d0",
+"first_seen": "2026-09-28"
+},
 "9201b1331f03": {
 "file": "sodoku_the_count_supply_report.md",
 "check": "prose",
@@ -1449,6 +1519,13 @@
 "text": "flat runs: 4 stretches of three sentences within 40% of each other (R4-14-RUN_RULE)",
 "key": "c941ec9f353f",
 "first_seen": "2026-09-23"
+},
+"a22bf3694219": {
+"file": "rovhen_the_sort.md",
+"check": "prose",
+"text": "em dashes: 1 (banned; AI-tells §1, R15-1-AI_TELL_CHECKS_SURVIVE)",
+"key": "a22bf3694219",
+"first_seen": "2026-09-28"
 },
 "9e705c6f07f4": {
 "file": "the_draught.md",
@@ -1611,6 +1688,20 @@
 "key": "c97aceb45309",
 "first_seen": "2026-09-26"
 },
+"d236137316a5": {
+"file": "rovhen_after_the_lecture.md",
+"check": "prose",
+"text": "em dashes: 1 (banned; AI-tells §1, R15-1-AI_TELL_CHECKS_SURVIVE)",
+"key": "d236137316a5",
+"first_seen": "2026-09-28"
+},
+"70a53a064e25": {
+"file": "rovhen_the_letter.md",
+"check": "prose",
+"text": "em dashes: 1 (banned; AI-tells §1, R15-1-AI_TELL_CHECKS_SURVIVE)",
+"key": "70a53a064e25",
+"first_seen": "2026-09-28"
+},
 "d6f131e91fb5": {
 "file": "the_brink.md",
 "check": "prose",
@@ -1695,6 +1786,13 @@
 "key": "4271a9e58819",
 "first_seen": "2026-09-13"
 },
+"018388eed112": {
+"file": "hiromi_the_picnic.md",
+"check": "prose",
+"text": "flat runs: 5 stretches of three sentences within 40% of each other (R4-14-RUN_RULE)",
+"key": "018388eed112",
+"first_seen": "2026-09-28"
+},
 "03fe8bd47337": {
 "file": "on_foot.md",
 "check": "prose",
@@ -1750,6 +1848,13 @@
 "text": "three consecutive sentences over 25 words (R4-14-CHAIN_CEILING)",
 "key": "f0651c65a2f4",
 "first_seen": "2026-09-18"
+},
+"996ff65ada3d": {
+"file": "xanelor_dallae.md",
+"check": "prose",
+"text": "em dashes: 1 (banned; AI-tells §1, R15-1-AI_TELL_CHECKS_SURVIVE)",
+"key": "996ff65ada3d",
+"first_seen": "2026-09-28"
 },
 "45486f29da87": {
 "file": "xanelor_rikudoku_and_the_address.md",
@@ -1827,6 +1932,27 @@
 "text": "three consecutive sentences over 25 words (R4-14-CHAIN_CEILING)",
 "key": "77e4fce38e13",
 "first_seen": "2026-09-13"
+},
+"8eff094571bd": {
+"file": "geturo_fire_air.md",
+"check": "prose",
+"text": "em dashes: 1 (banned; AI-tells §1, R15-1-AI_TELL_CHECKS_SURVIVE)",
+"key": "8eff094571bd",
+"first_seen": "2026-09-28"
+},
+"acdef0d90abe": {
+"file": "geturo_gypsum.md",
+"check": "prose",
+"text": "flat runs: 5 stretches of three sentences within 40% of each other (R4-14-RUN_RULE)",
+"key": "acdef0d90abe",
+"first_seen": "2026-09-28"
+},
+"b55826e97a49": {
+"file": "geturo_whos_next.md",
+"check": "prose",
+"text": "flat runs: 4 stretches of three sentences within 40% of each other (R4-14-RUN_RULE)",
+"key": "b55826e97a49",
+"first_seen": "2026-09-28"
 },
 "f83781d52256": {
 "file": "spent_not_dead.md",

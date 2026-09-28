@@ -3474,7 +3474,7 @@
     "pack_number": null,
     "section": "Standing Ruling",
     "title": "A Part Seven component gate binds the whole merged Sub-Stat",
-    "status": "live",
+    "status": "superseded",
     "kind": "definition",
     "summary": "Where Part Twelve's Merge Ledger folds several of the old 120-register Sub-Stats into one, and Part Seven gates a component of that Sub-Stat on a Path (Density's inscription and glyph-chain durability on Spirit Path at Stage III, Tolerance's gravitational component on Attraction Path at Stage VI, and the rest), the component gate binds the merged Sub-Stat's whole number: a sheet without that Path commitment cannot carry the merged value above the component's Grade cap. The reading is strict, not lenient. Violating values on existing sheets are lowered to their caps in the same-day re-cost (R38-2).",
     "verbatim": "Density requires Body Path at Stage IV to exceed B, with inscription and glyph-chain durability requiring Spirit Path at Stage III to exceed C.",
@@ -3497,7 +3497,9 @@
       "lines": null
     },
     "notes": "The verbatim is Part Seven's Ardency Density clause (wiki/Fracture of Worlds — The Living System/II. Grades, Gates and Thresholds (Parts Four–Ten).md, Part Seven, Ardency Gates), quoted as the exemplar of the text being ruled on; Part Seven opens \"Every Sub-Stat carries a Path Alignment requirement. Certain subs cannot exceed a given Tier Grade without demonstrated Path commitment.\" The question arose because Part Twelve's Merge Ledger (IV. The Eight Primaries and the Sixty-Four Sub-Stats (Part Twelve).md, \"The Merge Ledger\": \"sixty-four entries carry what a hundred and twenty carried, with the restatements collapsed\") folded, for example, Ardency Inscription into Density and Vitality Gravitas and Nullity into Tolerance, so a component Part Seven gates on one Path now lives inside a Sub-Stat whose main gate is on another Path, or is open. Two readings were possible: lenient (the component gate caps only the folded component's share, which no longer exists as a number, so the gate is effectively dead) or strict (the gate caps the merged number). Isaac ruled strict. Consequence for the originated Volume III/IV sheets: any merged Sub-Stat carried above a component's cap on a sheet lacking that component's Path is lowered to the cap in the R38-2 re-cost; the seven Stage ratifications of 2026-09-12 are unaffected.",
-    "superseded_by": []
+    "superseded_by": [
+      "R57-29-PATH_GATE_CAPS_ONLY_ITS_COMPONENT"
+    ]
   },
   {
     "id": "R38-2-ORIGINATED_SHEETS_RECOST_TO_CURRENT_ALLOTMENT",
@@ -9989,7 +9991,7 @@
     "pack_number": null,
     "section": "Vocabulary and diction",
     "title": "Word Bank",
-    "status": "live",
+    "status": "superseded",
     "kind": "mandate",
     "summary": "The elevated word bank (eldritch, numinous, chthonic, tenebrous, lambent, sepulchral, incarnadine, stygian, empyreal, ineffable) is used freely, by ear.",
     "verbatim": "The elevated word bank (eldritch, numinous, chthonic, tenebrous, lambent, sepulchral, incarnadine, stygian, empyreal, ineffable) is used freely, by ear.",
@@ -10013,7 +10015,9 @@
       "lines": null
     },
     "notes": "Corrected 2026-09-27 by the ruling audit (RULINGS.md, ruling-audit-2026-09-27) to state exactly what Isaac chose.",
-    "superseded_by": []
+    "superseded_by": [
+      "R57-31-NUMINOUS_WOTR_SENSE_ONLY"
+    ]
   },
   {
     "id": "R51-13-WORD_STOCK",
@@ -15455,6 +15459,361 @@
     "superseded_by": []
   },
   {
+    "id": "R57-29-PATH_GATE_CAPS_ONLY_ITS_COMPONENT",
+    "pack": "Rulings Backfill 2026-09-26",
+    "pack_number": null,
+    "section": "Conflicts ruled",
+    "title": "Path Gate Caps Only Its Component",
+    "status": "live",
+    "kind": "definition",
+    "summary": "C-089: A Path gate caps only the component it names; the rest of the Sub-Stat runs at full. A healer without Body Path heals fully but cannot reinforce. This supersedes R38-1-COMPONENT_GATES_BIND_WHOLE_SUBSTAT.",
+    "verbatim": "C-089: A Path gate caps only the component it names; the rest of the Sub-Stat runs at full. A healer without Body Path heals fully but cannot reinforce. This supersedes R38-1-COMPONENT_GATES_BIND_WHOLE_SUBSTAT.",
+    "amends": [],
+    "supersedes": [
+      "R38-1-COMPONENT_GATES_BIND_WHOLE_SUBSTAT"
+    ],
+    "applies_to": [
+      "stats",
+      "magic-mechanism"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-27, Claude Code chat: the three conflicts questionnaire (C-089, C-090, C-091)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "",
+    "superseded_by": []
+  },
+  {
+    "id": "R57-30-OZONE_WORD_FREE_PHRASE_BANNED",
+    "pack": "Rulings Backfill 2026-09-26",
+    "pack_number": null,
+    "section": "Conflicts ruled",
+    "title": "Ozone Word Free, Phrase Banned",
+    "status": "live",
+    "kind": "definition",
+    "summary": "C-090: 'Ozone' is free as a word for any POV; only the stock phrase 'the smell of ozone' stays on the hard-ban list.",
+    "verbatim": "C-090: 'Ozone' is free as a word for any POV; only the stock phrase 'the smell of ozone' stays on the hard-ban list.",
+    "amends": [],
+    "supersedes": [],
+    "applies_to": [
+      "prose-law",
+      "verification"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-27, Claude Code chat: the three conflicts questionnaire (C-089, C-090, C-091)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "",
+    "superseded_by": []
+  },
+  {
+    "id": "R57-31-NUMINOUS_WOTR_SENSE_ONLY",
+    "pack": "Rulings Backfill 2026-09-26",
+    "pack_number": null,
+    "section": "Conflicts ruled",
+    "title": "Numinous WOTR Sense Only",
+    "status": "live",
+    "kind": "definition",
+    "summary": "C-091: 'Numinous' keeps only its WOTR sense and comes out of the elevated word bank, which is eldritch, chthonic, tenebrous, lambent, sepulchral, incarnadine, stygian, empyreal and ineffable, used freely, by ear. This supersedes R51-12-W...",
+    "verbatim": "C-091: 'Numinous' keeps only its WOTR sense and comes out of the elevated word bank, which is eldritch, chthonic, tenebrous, lambent, sepulchral, incarnadine, stygian, empyreal and ineffable, used freely, by ear. This supersedes R51-12-WORD_BANK.",
+    "amends": [],
+    "supersedes": [
+      "R51-12-WORD_BANK"
+    ],
+    "applies_to": [
+      "prose-law",
+      "register"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-27, Claude Code chat: the three conflicts questionnaire (C-089, C-090, C-091)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "",
+    "superseded_by": []
+  },
+  {
+    "id": "R57-32-AYAME_DIED_LATER",
+    "pack": "Rulings Backfill 2026-09-26",
+    "pack_number": null,
+    "section": "Conflicts ruled",
+    "title": "Ayame Died Later",
+    "status": "live",
+    "kind": "definition",
+    "summary": "C-080: Ayame Yuno died later, by her own hand, after the corridor night; she is not among the dead of the corridor night.",
+    "verbatim": "C-080: Ayame Yuno died later, by her own hand, after the corridor night; she is not among the dead of the corridor night.",
+    "amends": [],
+    "supersedes": [],
+    "applies_to": [
+      "worldbuilding",
+      "character-sheet"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-27, Claude Code chat: the open-conflicts questionnaire",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "",
+    "superseded_by": []
+  },
+  {
+    "id": "R57-33-TOMUKA_AND_EZO",
+    "pack": "Rulings Backfill 2026-09-26",
+    "pack_number": null,
+    "section": "Conflicts ruled",
+    "title": "Tomuka And Ezo",
+    "status": "live",
+    "kind": "definition",
+    "summary": "C-081: Muken's sons who died on the corridor night are Tomuka and Ezo.",
+    "verbatim": "C-081: Muken's sons who died on the corridor night are Tomuka and Ezo.",
+    "amends": [],
+    "supersedes": [],
+    "applies_to": [
+      "worldbuilding",
+      "character-sheet"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-27, Claude Code chat: the open-conflicts questionnaire",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "",
+    "superseded_by": []
+  },
+  {
+    "id": "R57-34-MUKENS_HEIR",
+    "pack": "Rulings Backfill 2026-09-26",
+    "pack_number": null,
+    "section": "Conflicts ruled",
+    "title": "Mukens Heir",
+    "status": "live",
+    "kind": "definition",
+    "summary": "C-082: The Tenrai dubbed Mizuki the heir, because Mizuki was a child Muken had with a woman before Ayame; but the story clearly sets Sodoku up as the heir of Kharven, and Muken never agreed to make Mizuki his heir despite the pressure.",
+    "verbatim": "C-082: The Tenrai dubbed Mizuki the heir, because Mizuki was a child Muken had with a woman before Ayame; but the story clearly sets Sodoku up as the heir of Kharven, and Muken never agreed to make Mizuki his heir despite the pressure.",
+    "amends": [],
+    "supersedes": [],
+    "applies_to": [
+      "worldbuilding",
+      "character-sheet"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-27, Claude Code chat: the open-conflicts questionnaire",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "",
+    "superseded_by": []
+  },
+  {
+    "id": "R57-35-IGNATIUS_ALIVE",
+    "pack": "Rulings Backfill 2026-09-26",
+    "pack_number": null,
+    "section": "Conflicts ruled",
+    "title": "Ignatius Alive",
+    "status": "live",
+    "kind": "definition",
+    "summary": "C-083: Ignatius is alive and his whereabouts are known; there was no real report of his death.",
+    "verbatim": "C-083: Ignatius is alive and his whereabouts are known; there was no real report of his death.",
+    "amends": [],
+    "supersedes": [],
+    "applies_to": [
+      "worldbuilding",
+      "character-sheet"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-27, Claude Code chat: the open-conflicts questionnaire",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "",
+    "superseded_by": []
+  },
+  {
+    "id": "R57-36-YEAR_ZERO_IS_THE_CODEX",
+    "pack": "Rulings Backfill 2026-09-26",
+    "pack_number": null,
+    "section": "Conflicts ruled",
+    "title": "Year Zero Is The Codex",
+    "status": "live",
+    "kind": "definition",
+    "summary": "C-084: Year Zero of the Concordance of Ages is the sealing of the Codex, 715 years ago; the Guild Accord as a communion of guilds is what is forming now.",
+    "verbatim": "C-084: Year Zero of the Concordance of Ages is the sealing of the Codex, 715 years ago; the Guild Accord as a communion of guilds is what is forming now.",
+    "amends": [],
+    "supersedes": [],
+    "applies_to": [
+      "worldbuilding"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-27, Claude Code chat: the open-conflicts questionnaire",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "",
+    "superseded_by": []
+  },
+  {
+    "id": "R57-37-INQUISITION_LAWFUL_IN_ITS_LANDS",
+    "pack": "Rulings Backfill 2026-09-26",
+    "pack_number": null,
+    "section": "Conflicts ruled",
+    "title": "Inquisition Lawful In Its Lands",
+    "status": "live",
+    "kind": "definition",
+    "summary": "C-085: The Holy Inquisition holds legal standing where the crowns and churches that back it rule, and is outlawed where the Accord's circles have signed; it enforces the Gate in its own territory.",
+    "verbatim": "C-085: The Holy Inquisition holds legal standing where the crowns and churches that back it rule, and is outlawed where the Accord's circles have signed; it enforces the Gate in its own territory.",
+    "amends": [],
+    "supersedes": [],
+    "applies_to": [
+      "worldbuilding"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-27, Claude Code chat: the open-conflicts questionnaire",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "",
+    "superseded_by": []
+  },
+  {
+    "id": "R57-38-RARE_BORN_WITHOUT_A_CRYSTAL",
+    "pack": "Rulings Backfill 2026-09-26",
+    "pack_number": null,
+    "section": "Conflicts ruled",
+    "title": "Rare Born Without A Crystal",
+    "status": "live",
+    "kind": "definition",
+    "summary": "C-086: A very few people are born with no Soul Crystal at all; it is rare and remarked on. A Class Ø soul keeps its sealed Shell.",
+    "verbatim": "C-086: A very few people are born with no Soul Crystal at all; it is rare and remarked on. A Class Ø soul keeps its sealed Shell.",
+    "amends": [],
+    "supersedes": [],
+    "applies_to": [
+      "worldbuilding",
+      "magic-mechanism"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-27, Claude Code chat: the open-conflicts questionnaire",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "",
+    "superseded_by": []
+  },
+  {
+    "id": "R57-39-NIGHT_REGISTER_IS_THE_SOCIETYS",
+    "pack": "Rulings Backfill 2026-09-26",
+    "pack_number": null,
+    "section": "Conflicts ruled",
+    "title": "Night Register Is The Societys",
+    "status": "live",
+    "kind": "definition",
+    "summary": "C-088: The Night Register is the Night Watch Society's own desk, not the Guild Accord's Arbitration Division's.",
+    "verbatim": "C-088: The Night Register is the Night Watch Society's own desk, not the Guild Accord's Arbitration Division's.",
+    "amends": [],
+    "supersedes": [],
+    "applies_to": [
+      "worldbuilding"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-27, Claude Code chat: the open-conflicts questionnaire",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "",
+    "superseded_by": []
+  },
+  {
+    "id": "R57-40-HOBGOBLIN_HORN_IN_COLD",
+    "pack": "Rulings Backfill 2026-09-26",
+    "pack_number": null,
+    "section": "Conflicts ruled",
+    "title": "Hobgoblin Horn In Cold",
+    "status": "live",
+    "kind": "definition",
+    "summary": "C-052: Hobgoblin formations signal by Silent Sign-Glyphs as the norm; in deep cold or broken ground a formation falls back to a horn count, which is why the fight at the breach is unusual.",
+    "verbatim": "C-052: Hobgoblin formations signal by Silent Sign-Glyphs as the norm; in deep cold or broken ground a formation falls back to a horn count, which is why the fight at the breach is unusual.",
+    "amends": [],
+    "supersedes": [],
+    "applies_to": [
+      "worldbuilding",
+      "mass-combat"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-27, Claude Code chat: the open-conflicts questionnaire",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "",
+    "superseded_by": []
+  },
+  {
+    "id": "R57-41-CHECKS_34_35_RETIRED",
+    "pack": "Rulings Backfill 2026-09-26",
+    "pack_number": null,
+    "section": "Conflicts ruled",
+    "title": "Checks 34 35 Retired",
+    "status": "live",
+    "kind": "repeal",
+    "summary": "C-078: Checks 34 and 35 (defined on the six-line card's Operation line) are retired; the Counterplay block and the fair-play rules cover them.",
+    "verbatim": "C-078: Checks 34 and 35 (defined on the six-line card's Operation line) are retired; the Counterplay block and the fair-play rules cover them.",
+    "amends": [],
+    "supersedes": [
+      "R17-8-CHECK34",
+      "R17-8-CHECK35"
+    ],
+    "applies_to": [
+      "verification",
+      "magic-design"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-27, Claude Code chat: the open-conflicts questionnaire",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "",
+    "superseded_by": []
+  },
+  {
+    "id": "R57-42-REIFICATION_NO_COUNT_ANYWHERE",
+    "pack": "Rulings Backfill 2026-09-26",
+    "pack_number": null,
+    "section": "Conflicts ruled",
+    "title": "Reification No Count Anywhere",
+    "status": "live",
+    "kind": "repeal",
+    "summary": "C-079: Reification has no count anywhere, procedural and ledger scenes included.",
+    "verbatim": "C-079: Reification has no count anywhere, procedural and ledger scenes included.",
+    "amends": [],
+    "supersedes": [
+      "R4-15-PROCEDURAL_SCENE_BUDGET"
+    ],
+    "applies_to": [
+      "prose-law"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-27, Claude Code chat: the open-conflicts questionnaire",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "",
+    "superseded_by": []
+  },
+  {
     "id": "R58-01-HILD_TWELVE_AT_DEATH",
     "pack": "Follow-up Rulings 2026-09-26",
     "pack_number": null,
@@ -19698,7 +20057,7 @@
     "pack_number": 4,
     "section": "Amendment Fifteen",
     "title": "One unlicensed reification per page in procedural scenes",
-    "status": "live",
+    "status": "superseded",
     "kind": "budget",
     "summary": "In procedural or ledger scenes, the unlicensed reification budget tightens to one per page, since the Licensed Class is already doing that work there and unlicensed instances would go invisible against it.",
     "verbatim": "One per page in procedural or ledger scenes. The licensed class is already doing this work there, and unlicensed instances go invisible against it.",
@@ -19721,7 +20080,9 @@
       "lines": "175"
     },
     "notes": null,
-    "superseded_by": []
+    "superseded_by": [
+      "R57-42-REIFICATION_NO_COUNT_ANYWHERE"
+    ]
   },
   {
     "id": "R4-15-REIFICATION_DEFINED",
@@ -30224,7 +30585,7 @@
     "pack_number": 17,
     "section": "§8",
     "title": "Check 34 — The four elements",
-    "status": "live",
+    "status": "superseded",
     "kind": "procedure",
     "summary": "Manual check that quantity, law, operation and chain are all present in the Operation line; any absence fails.",
     "verbatim": "Check 34 — The four elements. Quantity, law, operation and chain all present in the Operation line. Any absence is a FAIL.",
@@ -30250,7 +30611,9 @@
       "lines": "114"
     },
     "notes": null,
-    "superseded_by": []
+    "superseded_by": [
+      "R57-41-CHECKS_34_35_RETIRED"
+    ]
   },
   {
     "id": "R17-8-CHECK35",
@@ -30258,7 +30621,7 @@
     "pack_number": 17,
     "section": "§8",
     "title": "Check 35 — Derivation",
-    "status": "live",
+    "status": "superseded",
     "kind": "procedure",
     "summary": "Manual check: for each of Cost, Limit and Counter, name the sentence in the Operation it follows from; anything untraceable is cut or re-derived.",
     "verbatim": "Check 35 — Derivation. For each of Cost, Limit and Counter, name the sentence in the Operation it follows from. Anything that cannot be traced is decoration and is cut or re-derived.",
@@ -30284,7 +30647,9 @@
       "lines": "116"
     },
     "notes": null,
-    "superseded_by": []
+    "superseded_by": [
+      "R57-41-CHECKS_34_35_RETIRED"
+    ]
   },
   {
     "id": "R17-8-CHECK36",

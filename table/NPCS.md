@@ -16,3 +16,6 @@
   - has lied about: The ward was proofed at the quarterly.
 **Tobin Sallow** · wants: Paid for the whole row of ward plates, not only the crack. · refuses: Won't sign off a plate that rings dull. · last seen: Visitation Room, left the cased plate of row six on the desk (The Sort)
   - knows: Six plates on the row are cased; Knew Edmund Lambert; made his hairpin hinge; Knows Rovhen as Lambert's lad from Cooper's Row
+**Joan Aldery** · wants: The truth about the Tallow Street stair. · refuses: Won't show the cuff. · last seen: Old dispensary, carrying Rovhen's letter to the clerk of inquests (The Letter)
+  - knows: Walter's lamp stood upright on the third step; Walter's marbled daybook is missing
+  - has lied about: The cuts in her left cuff came from a nail at the counting-house door.

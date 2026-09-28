@@ -95,3 +95,16 @@
   voice: Gravel, gallows trade talk, 'That's all I'm saying.' Bald, missing the tip of his left little
     finger.
   last_updated: '2026-09-28'
+- name: Joan Aldery
+  thread: Mu-jin
+  want: The truth about the Tallow Street stair.
+  refusal_line: Won't show the cuff.
+  knows:
+  - Walter's lamp stood upright on the third step
+  - Walter's marbled daybook is missing
+  lied_about:
+  - The cuts in her left cuff came from a nail at the counting-house door.
+  last_seen: Old dispensary, carrying Rovhen's letter to the clerk of inquests (The Letter)
+  voice: A clerk reading a figure back to a manager who has already decided not to believe it; reads everything
+    twice.
+  last_updated: '2026-09-28'

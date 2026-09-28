@@ -583,3 +583,12 @@
   opened_session: 1
   due: 3
   status: open
+- id: L061
+  category: who knows what
+  who: Imogen Pell
+  text: Knows about the chain on the north gate and that Rovhen was in the Visitation Room at noon. Somebody
+    told her, not a porter. Her finger stopped on the narrow-pen ink on the roll.
+  opened: '2026-09-28'
+  opened_session: 1
+  due: 2
+  status: open

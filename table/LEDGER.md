@@ -1,6 +1,6 @@
 # The Ledger, structured
 
-58 open lines.
+59 open lines.
 
 ## the dead
 
@@ -61,6 +61,7 @@
 - `L054` Sodoku knows he ordered Osric into the doorway if the wall comes down and knows he never said that part out loud, so the order exists only in the man who gave it.  *(due: If the wall of the inner court comes down.)*
 - `L055` Robin Ice arrived with four things to say, rehearsed in order for six miles on a standing instruction to say them in the order and say nothing else, and had already lost one of them. What the lost item was is not said, and the page does not say how many of the four he got out.  *(due: The next time Robin Ice reports, or when the missing item matters to someone.)*
 - `L060` Holds: the cased plate from row six (PROB EST, quarter punch struck twice, off true) against Harrowgate's quarterly-proofing lie; five Class S names on his roll in a narrow pen not the registrar's; the Visitation meter creeping backward and the dispensary meter dead still; Joan's three mended cuts and her 'nail' lie; Walter Aldery's lamp upright on the third step, glass whole, and the missing marbled daybook; Nyxeria arriving without the door, dry flags, wet hem.  *(due: 3)*
+- `L061` Knows about the chain on the north gate and that Rovhen was in the Visitation Room at noon. Somebody told her, not a porter. Her finger stopped on the narrow-pen ink on the roll.  *(due: 2)*
 
 ## reputation
 

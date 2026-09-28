@@ -944,5 +944,10 @@
     "page_id": "3e958200-eb22-815e-ab07-f330906041b1",
     "title": "Wystan's Briefing — Aetherion Arena",
     "hash": "c9be3b897ac85ba6"
+  },
+  "scenes/shioris_findings_aetherion_arena.md": {
+    "page_id": "3e958200-eb22-8132-af33-ecedcc3060e7",
+    "title": "Shiori's Findings — Aetherion Arena",
+    "hash": "c03d110d9aebf598"
   }
 }

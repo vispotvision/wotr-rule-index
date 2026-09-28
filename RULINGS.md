@@ -2312,3 +2312,9 @@ Isaac's direction for The Alftian Codex, Volume the Third:
 2. In Volume III Mu-jin meets Frithia, his wife, whom he met in Vaeloris.
 
 Context: Isaac, Claude Code chat 2026-09-28, after Volume II was published: 'I do like the idea of the volume three be about he becomes a teacher and teaches sum-gol children and goes from one place to the other teaching people, + him meeting his wife frithia... frithia is someone he met in Vaeloris'.
+
+## 2026-09-28 — alftian-vol2-credit-correction-2026-09-28
+
+Agent ruling correcting item 10 of alftian-vol2-2026-09-28 (R65-10), which overstated Volume II. Volume II's Appendix says the finding came to Mu-jin in Draycott's letter; it does not make Draycott the finder. The credit for the Volitional Trace stands as ST3 (R61-13) gives it: Madeleine Ault found it and designed the commission, Ivor Strom found it independently, Gisli Draycott framed the theory and built the mechanism, and Kwon Mu-jin named it and set its boundary.
+
+Context: Found while filing the Papers' owed conflict rows (C-126): the lead's summary of Isaac's 'go' on Volume II had reworded Volume II's 'The finding came to me in Draycott's letter' as 'the finding is Draycott's'. Grounds: R61-13 (Isaac's ST3 answer) and the published Volume II text. Isaac may overturn.

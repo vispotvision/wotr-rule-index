@@ -949,5 +949,10 @@
     "page_id": "3e958200-eb22-8132-af33-ecedcc3060e7",
     "title": "Shiori's Findings — Aetherion Arena",
     "hash": "c03d110d9aebf598"
+  },
+  "scenes/malphas_on_the_line_the_train_east.md": {
+    "page_id": "3e958200-eb22-816c-a088-e3e8b2c8e30e",
+    "title": "Malphas on the Line — The Train East",
+    "hash": "28597a268e265ebd"
   }
 }

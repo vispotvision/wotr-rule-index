@@ -2285,3 +2285,22 @@ Agent ruling under Isaac's direction ("do the Malphas living figures"), applying
 Grounds: Part Three and Part Twenty-Three as currently applied, the card's canon lines, the night-watch book and scene, and the published Alftian Codex Volume I; derived and checked three ways (law, canon, design).
 
 Context: Isaac, Claude Code chat 2026-09-28: 'do the Malphas living figures while you wait'. Isaac may overturn any item.
+
+## 2026-09-28 — alftian-vol2-2026-09-28
+
+Isaac approved the rebuilt Alftian Codex, Volume the Second, with no changes. Ratified with it:
+1. Volume the Second is Kwon Mu-jin's memoir of his nineteenth to twenty-third years, 696 to 700 IC, deposited in 700 IC, the tenth year of the Imperial Age. What he states from a read is canon; what he states in error stays his error.
+2. The commission's vessel is a Class II Field Substrate Draft, fidelity Sound, Carry Marked, shipped to the eastern lowlands at the turn of 697 IC; the fee was three hundred gold marks, half before the pour and half after.
+3. Draycott's registered craft mark is a ring crossed by three spokes, the lowest longest, with registry letters beneath, pressed in grey wax.
+4. The footnote to the Necrocursica stands in the wording Volume II quotes, and the Necrocursica's conversion matches it.
+5. Malphas's left hand healed into a small repeating lattice, pressed and held by a maker nobody names.
+6. Neros measured the Weight standing out of its place some turns after the pour, always to the same side, and still by the summer of 697 IC.
+7. Mu-jin crosses into Transcendence, Stage VIII, on the Heralds' bridge in late 697 IC, into Invocation, Stage IX, in the summer of 698 IC, and into Realization, Stage X, in the Sum-gol schoolroom in the winter of 699 to 700 IC, where the room keeps his set.
+8. The school at Sum-gol is taught under the valley's standing, without fee; the schoolmaster is a woman of the house who came back from the court and trained Mu-jin in the house art from the winter of 697 IC.
+9. Doyun is Seok Doyun, thirteen when he enters the east room in the spring of 699 IC as its ninth pupil; his cats are both called Nabi.
+10. The fourth residue is the Volitional Trace: the finding is Draycott's, the name and its boundary are Mu-jin's.
+11. Ara, at twenty, walks the Sum-gol circuit with Mu-jin, wearing a ring that warms when a wound nearby can still be saved.
+12. Volume the Second names three of the Seven Cacodaemonic Corruptions (Conviction, Submission, Non-Commitment) and leaves the other four to the third volume.
+The rest of the draft's list of new material, as its author notes set it out, is ratified with the volume.
+
+Context: Isaac said 'go' in Claude Code chat on 2026-09-28 after reading the Volume II draft and its list of 44 invented items; no swaps.

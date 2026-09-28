@@ -2249,3 +2249,13 @@ The alchemy conversion's open conflicts (9 answers), Claude Code chat.
 9. C-095: Mu-jin's card header reads 'of the house at Sum-gol, Ketsuen', matching his Lore, Ara's card and the Ketsuen page; there is no Eastern Concord.
 
 Context: The nine rows the alchemy-conversion answers left open (CONFLICTS.md C-092 to C-112), asked the same day.
+
+## 2026-09-28 — calendar-2026-09-28
+
+The calendar follow-up (3 answers), Claude Code chat.
+
+1. The count keeps its label: IC means 'In Concordance', years counted from the sealing of the Concord Codex. Pages keep their IC dates; only the Concordance and the lines that call the count 'the Imperial Age' change.
+2. The Imperial Age began in Year 690 IC. Its technology span (R53-01), rail included, begins then; the present, Year 715 IC, is its twenty-fifth year.
+3. The count's three eras keep their names: the Voyager Era (000 to 070 IC), the Long Reckoning (070 to 645 IC) and the Withering Era (645 IC to now). The Withering Era runs on as the present era, and the Imperial Age rises inside it from 690 IC as an overlapping age.
+
+Context: Settles how C-112 (alchemy-conversion answer 131) is applied to the Concordance of Ages and the IC-dated pages.

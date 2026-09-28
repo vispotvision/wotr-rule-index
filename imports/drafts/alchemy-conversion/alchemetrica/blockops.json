@@ -1,0 +1,542 @@
+[
+ {
+  "item": "3",
+  "page": "wiki/Materials, Alchemy & Trade/Alchemetrica.md",
+  "patch_block": {
+   "id": "cff508ae-9f55-4d87-b1da-5043ee052bd4",
+   "type": "paragraph",
+   "old": "That is the whole trick of the discipline, stated plainly, **and it took four centuries to state plainly.**",
+   "new": "The discipline took **four centuries** to say it that plainly."
+  }
+ },
+ {
+  "item": "7",
+  "page": "wiki/Materials, Alchemy & Trade/Alchemetrica.md",
+  "patch_block": {
+   "id": "656c441b-e524-4ff9-a736-5f176f46648e",
+   "type": "paragraph",
+   "old": "**Essence Core** · seeds Intention into prepared material rather than projecting it outward. **The material takes up everything the Core is broadcasting**, which is why an alchemist's state during preparation is a working variable and not a superstition. *Grief and clarity produce different seeds and the coil reads the difference.*",
+   "new": "**Essence Core** · seeds Intention inward, into prepared material. **The material takes up everything the Core is broadcasting**, which is why an alchemist's state during preparation is a working variable, as real as heat and weight. *Grief and clarity produce different seeds and the coil reads the difference.*"
+  }
+ },
+ {
+  "item": "8",
+  "page": "wiki/Materials, Alchemy & Trade/Alchemetrica.md",
+  "patch_block": {
+   "id": "22307f63-b732-449c-b212-bca7887077af",
+   "type": "paragraph",
+   "old": "**Aether Shell** · governs precision across duration rather than sharpness in a burst. **A muddy Shell produces muddy Drafts regardless of how perfect the inscription is, and there is no correcting it downstream.**",
+   "new": "**Aether Shell** · governs precision held steady across the whole length of a working, hours or days of it. **A muddy Shell produces muddy Drafts regardless of how perfect the inscription is, and there is no correcting it downstream.**"
+  }
+ },
+ {
+  "item": "9a",
+  "page": "wiki/Materials, Alchemy & Trade/Alchemetrica.md",
+  "patch_block": {
+   "id": "884b9420-a3f7-403f-928d-ea610089f6d0",
+   "type": "paragraph",
+   "old": "*The best alchemists are not the best theorists. The formula and the practitioner are two halves of one invocation, and half of that invocation cannot be studied into existence*",
+   "new": "*The best alchemists are not the best theorists. The formula and the practitioner are two halves of one invocation, and half of that invocation cannot be studied into existence.*"
+  }
+ },
+ {
+  "item": "9b",
+  "page": "wiki/Materials, Alchemy & Trade/Alchemetrica.md",
+  "patch_block": {
+   "id": "a6af102b-9188-4757-b7f5-155d23e9745d",
+   "type": "paragraph",
+   "old": "They are also, by a considerable margin, **the most technically precise practitioners in the discipline.** A harmonised Crystal-bearer can be sloppy and still succeed. **A pure alchemist who is sloppy dies**, and the survivors are consequently the ones the great houses hire to run the dangerous benches",
+   "new": "They are also, by a considerable margin, **the most technically precise practitioners in the discipline.** A harmonised Crystal-bearer can be sloppy and still succeed. **A pure alchemist who is sloppy dies**, and the survivors are consequently the ones the great houses hire to run the dangerous benches."
+  }
+ },
+ {
+  "item": "10",
+  "page": "wiki/Materials, Alchemy & Trade/Alchemetrica.md",
+  "patch_block": {
+   "id": "d3b7ff5f-cf05-4374-8afe-8b957f8fa9aa",
+   "type": "paragraph",
+   "old": "What they build instead, over decades of reagent exposure, is **a distributed catalyst network**: conditioned tissue that stores and reacts with Essence, conduction channels formed by long habituation, and in rare cases **induced Parunic apertures.**",
+   "new": "What they build, over decades of reagent exposure, is **a distributed catalyst network**: conditioned tissue that stores and reacts with Essence, conduction channels formed by long habituation, and in rare cases **induced Parunic apertures.**"
+  }
+ },
+ {
+  "item": "11a",
+  "page": "wiki/Materials, Alchemy & Trade/Alchemetrica.md",
+  "patch_block": {
+   "id": "ae8ca74f-495e-430e-930c-9650aeebe05c",
+   "type": "callout",
+   "old": "The Accord certifies both and ranks them on the same Tiered Path, **which looks equitable and is not.** Every advancement gate above Tier Five consults Temperance, **and a pure alchemist has none to consult.**",
+   "new": "The Accord certifies both and ranks them on the same Tiered Path, **which looks equitable and is not.** A pure alchemist's Tier is certified at the bench, on the work alone, up to Expert and no higher, because every gate above Expert consults Temperance **and a pure alchemist has none to consult.** The Tier is certified and never read off the Crystal, and it caps what its holder makes exactly as a tempered Tier does. *The certificate hangs framed by the workshop door, and it says bench-certified, pure alchemy.*"
+  }
+ },
+ {
+  "item": "11b",
+  "page": "wiki/Materials, Alchemy & Trade/Alchemetrica.md",
+  "patch_block": {
+   "id": "2094e810-05d4-4382-acc2-476b478ee7d6",
+   "type": "paragraph",
+   "old": "So the discipline that most rewards precision is administered by an institution that measures communion, and the four quarters are full of **pure alchemists at Tier Four running the benches that Tier Seven Crystal-bearers put their seals on.**",
+   "new": "So the discipline that most rewards precision is administered by an institution that measures communion, and the four quarters are full of **pure alchemists at Adept running the benches that Grandmaster Crystal-bearers put their seals on.** *The seal is the price of the arrangement: whatever a pure alchemist makes to stand goes out under a Crystal-bearer's seal.*"
+  }
+ },
+ {
+  "item": "12a",
+  "page": "wiki/Materials, Alchemy & Trade/Alchemetrica.md",
+  "patch_block": {
+   "id": "74001ca2-c3f1-4730-a5bc-47934892b289",
+   "type": "callout",
+   "old": "**What a pure alchemist actually is, in the vocabulary of the other registers.** A soul with a Dormant Crystal. **Class Ø.**\n\nWhich means they do not temper and cannot, because Temperance is a melt and a Crystal that never woke is no organ to melt. **What they undergo instead is the Weathering**: refinement under sustained strain with no recasting, the soul hardening in place along the direction it was already being used. The trade word for the result is **grain**.\n\n*The catalyst network is grain, described from the bench rather than from the coil.* Conditioned tissue, conduction channels laid down by habituation, and in rare cases induced apertures. **It is real, it is measurable, it strengthens only in the direction the work pushed it, and it can never be redirected into anything else.** A forty-year Distillation specialist is extraordinary at Distillation and will be extraordinary at nothing else for the rest of his life.\n\n**No instrument in the Accord reads grain.** The gates above Tier Five consult Temperance because Temperance is what the coil can see, and the discipline's most precise practitioners are invisible to the apparatus that ranks them. *This is the same blind spot the Derivation Index carries and the same blind spot the screening seasons carry, and it is one blind spot rather than three.*",
+   "new": "**What a pure alchemist actually is, in the vocabulary of the other registers.** A soul with a Dormant Crystal. **Class Ø.**\n\nThey cannot temper, because Temperance is a melt and a Crystal that never woke is no organ to melt. **They undergo the Weathering**: refinement under sustained strain with no recasting, the soul hardening in place along the direction it was already being used. The trade word for the result is **grain**.\n\n*The catalyst network is the bench's name for grain.* Conditioned tissue, conduction channels laid down by habituation, and in rare cases induced apertures. **It is real, it shows in the work, it strengthens only in the direction the work pushed it, and it can never be redirected into anything else.** A forty-year Distillation specialist is extraordinary at Distillation and will be extraordinary at nothing else for the rest of his life.\n\n**No instrument in the Accord reads grain.** The gates above Expert consult Temperance because Temperance is what the coil can see, and the discipline's most precise practitioners are invisible to the apparatus that ranks them. *The Derivation Index carries the same blind spot, and so do the screening seasons: one blind spot, seen from three desks.*"
+  }
+ },
+ {
+  "item": "22a",
+  "page": "wiki/Materials, Alchemy & Trade/Alchemetrica.md",
+  "patch_block": {
+   "id": "9ebe04db-8711-44de-b9f9-d4e6f499c505",
+   "type": "callout",
+   "old": "**The Rot** · Gentle sustained warmth over weeks, held in a dung-bed or a low bath **because nothing else supplies a steady blood-warmth for that long without watching.**",
+   "new": "**The Rot** · Gentle sustained warmth over several turns, held in a dung-bed or a low bath **because nothing else supplies a steady blood-warmth for that long without watching.**"
+  }
+ },
+ {
+  "item": "22b",
+  "page": "wiki/Materials, Alchemy & Trade/Alchemetrica.md",
+  "append_children": {
+   "parent": "9ebe04db-8711-44de-b9f9-d4e6f499c505",
+   "parent_type": "callout",
+   "after": "40517507-842c-47a0-a32d-08a5b97204cf",
+   "after_text": "The Rot is the Turning folk tradition understands best. **It is death before the thing can be remade**, and the workshops say so without embarrassment, **and it is one of the very few places where the trade's own language and the temple's have never diverged.**",
+   "children": [
+    {
+     "type": "paragraph",
+     "text": ""
+    },
+    {
+     "type": "paragraph",
+     "text": "**Fermentation begins here.** The Rot is the killing half of the stage and the Feeding is the half that grows the work back. The doctrine counts a stage where it completes, so the bench rots before it weds while the Work names Conjunction before Fermentation, and both orders hold."
+    }
+   ]
+  },
+  "note": "new last paragraph of the Rot callout: a spacer and a paragraph appended after its last child (40517507, whose text does not change)"
+ },
+ {
+  "item": "37",
+  "page": "wiki/Materials, Alchemy & Trade/Alchemetrica.md",
+  "patch_block": {
+   "id": "0392a06a-2f81-41cc-b371-4d16d44f84d3",
+   "type": "callout",
+   "old": "The practical consequence of having no instrument is that **heat is a craft skill rather than a specification**, which means it cannot be written into a formula, **which means an entered formula in the Standing Index is never actually sufficient to reproduce the product.**",
+   "new": "The practical consequence of having no instrument is that **heat is a craft skill.**"
+  }
+ },
+ {
+  "item": "39",
+  "page": "wiki/Materials, Alchemy & Trade/Alchemetrica.md",
+  "patch_block": {
+   "id": "41a241b2-efd8-41df-b3f0-5c93c267cd5c",
+   "type": "paragraph",
+   "old": "It is also the task given to the youngest hands, because it is repetitive and requires no communion and no Temperance.",
+   "new": "It is also the task given to the youngest hands permitted near a vessel, because it is repetitive and requires no communion and no Temperance."
+  }
+ },
+ {
+  "item": "43a",
+  "page": "wiki/Materials, Alchemy & Trade/Alchemetrica.md",
+  "patch_block": {
+   "id": "b62403c2-16d0-4795-8ae5-a42d14010f9f",
+   "type": "callout",
+   "old": "**Scribe's Wash** — the one menstruum with **no ordinary chemical analogue.** It strips a Parunic inscription off a substrate without touching the substrate, **leaving the material intact and the sentence gone.**",
+   "new": "**Scribe's Wash** is the one menstruum with **no ordinary chemical analogue.** It strips a Parunic inscription off a substrate without touching the substrate, **leaving the material intact and the sentence gone.**"
+  }
+ },
+ {
+  "item": "43b",
+  "page": "wiki/Materials, Alchemy & Trade/Alchemetrica.md",
+  "patch_block": {
+   "id": "6d50c8f5-d891-4364-bcb6-0d796773d32e",
+   "type": "paragraph",
+   "old": "Enforcement uses it to disarm a working that cannot be safely discharged. Engravers use it to correct a chain before the Sealing. **Forgers use it to lift a legitimate three-mark seal off a spent vessel and put it onto a lot that never earned it** — the single most common high-value fraud in the trade.",
+   "new": "Enforcement uses it to disarm a working that cannot be safely discharged. Engravers use it to correct a chain before the Sealing. **Forgers use it to lift a legitimate three-mark seal off a spent vessel and put it onto a lot that never earned it**, the single most common high-value fraud in the trade."
+  }
+ },
+ {
+  "item": "43c",
+  "page": "wiki/Materials, Alchemy & Trade/Alchemetrica.md",
+  "patch_block": {
+   "id": "212d5d8f-8add-4ec4-9428-c98427e91380",
+   "type": "paragraph",
+   "old": "The Bench's countermeasure is that **Lampblack Register Ink does not lift, and any seal that lifts was never Bench-struck.** *Which is a good countermeasure and works, and does nothing at all for a buyer who cannot tell the difference by eye, which is most buyers.*",
+   "new": "The Bench's countermeasure is that **Lampblack Register Ink does not lift, and any seal that lifts was never Bench-struck.** *It is a good countermeasure and it works, and it does nothing at all for a buyer who cannot tell the difference by eye, which is most buyers.*"
+  }
+ },
+ {
+  "item": "46a",
+  "page": "wiki/Materials, Alchemy & Trade/Alchemetrica.md",
+  "patch_block": {
+   "id": "d472b253-8ffa-450e-8432-bd7e627f4661",
+   "type": "callout",
+   "old": "The economic consequence is that alchemy is **capital-intensive in a way that looks like nothing from outside.** A house's wealth is in what is sitting on its benches doing nothing, tended, for months — and **a house that must realise its stock early will produce inferior product forever and cannot escape by working harder.**",
+   "new": "The economic consequence is that alchemy **ties up money in a way that looks like nothing from outside.** A house's wealth is in what is sitting on its benches doing nothing, tended, for months, and **a house that must realise its stock early will produce inferior product forever and cannot escape by working harder.**"
+  }
+ },
+ {
+  "item": "46b",
+  "page": "wiki/Materials, Alchemy & Trade/Alchemetrica.md",
+  "patch_block": {
+   "id": "eaf051fd-8252-4ca3-aab0-8c139f24ad8c",
+   "type": "paragraph",
+   "old": "**This is why the great houses are old houses. It is not skill. It is the ability to wait.**",
+   "new": "**The great houses are old houses because they could afford to wait.**"
+  }
+ },
+ {
+  "item": "50",
+  "page": "wiki/Materials, Alchemy & Trade/Alchemetrica.md",
+  "patch_block": {
+   "id": "ef81d04e-a7d1-4e07-9752-186de5cc0db7",
+   "type": "paragraph",
+   "old": "A transformation without limits **does not stop when the intended material is consumed.** It continues until it runs out of material to act on — **and the bench is material, and the room is material, and so is whoever is standing in the room.**",
+   "new": "A transformation without limits **does not stop when the intended material is consumed.** It continues until it runs out of material to act on, **and the bench is material, and the room is material, and so is whoever is standing in the room.**"
+  }
+ },
+ {
+  "item": "54",
+  "page": "wiki/Materials, Alchemy & Trade/Alchemetrica.md",
+  "patch_block": {
+   "id": "e15aaeb3-9c74-4c79-9ccd-41f7df37277f",
+   "type": "callout",
+   "old": "**A Mechanica product works. That is the whole difficulty.** It performs, it is reproducible, and to an ordinary buyer **it is indistinguishable from an entered Draft.**",
+   "new": "**A Mechanica product works.** It performs, it is reproducible, and to an ordinary buyer **it is indistinguishable from an entered Draft.**"
+  }
+ },
+ {
+  "item": "55",
+  "page": "wiki/Materials, Alchemy & Trade/Alchemetrica.md",
+  "patch_block": {
+   "id": "a9ea02c1-10e9-4368-9921-e69fdaa5479d",
+   "type": "paragraph",
+   "old": "What it does instead of running the process is **take the output directly**, which creates structural debt in the local Aether field, depletes veins without reciprocal replenishment, and contributes over time to **Realm Rot.**",
+   "new": "It skips the process and **takes the output directly**, from whatever did the conditioning: another practitioner, a site, or a thing that was alive at the time. Output taken from a Crystal that is not the operator's is extraction, and the donor may be dead. Mechanica creates structural debt in the local Aether field, depletes veins without reciprocal replenishment, and contributes over time to **Realm Rot.**"
+  }
+ },
+ {
+  "item": "56",
+  "page": "wiki/Materials, Alchemy & Trade/Alchemetrica.md",
+  "patch_block": {
+   "id": "2d1476dd-09b6-4d81-bc0e-2b0a54890f9a",
+   "type": "paragraph",
+   "old": "**The structural debt has a mechanism and it is a Sealing failure.** The Four Glyph Roles are a sequence, not a checklist: the Seal closes an operation against the warrant that opened it. **A working with no Authorization has no warrant to close against, so it cannot lawfully Seal and therefore does not end.** It is interrupted, abandoned or exhausted, and the boundary it opened stays open. *That open boundary is the debt, the vein depletion and the Rot, described three ways.*",
+   "new": "**The structural debt has a mechanism and it is a Sealing failure.** The Four Glyph Roles run in sequence: the Seal closes an operation against the warrant that opened it. **A working with no Authorization has no warrant to close against, so it cannot lawfully Seal and therefore does not end.** It is interrupted, abandoned or exhausted, and the boundary it opened stays open. *That open boundary is the debt, the vein depletion and the Rot, described three ways, and by Statute XXVI nothing closes an unsealed boundary.*"
+  }
+ },
+ {
+  "item": "57",
+  "page": "wiki/Materials, Alchemy & Trade/Alchemetrica.md",
+  "patch_block": {
+   "id": "a93c8960-f47f-4e0c-b205-52fee1555e57",
+   "type": "paragraph",
+   "old": "It also produces practitioners with real technical skill and **no Wellspring harmonisation at all** — a gap invisible at low tiers and catastrophic at high ones, **because a Mechanica-trained alchemist at Tier Six has never once been recognised by anything and will not be when it matters.**",
+   "new": "It also produces practitioners with real technical skill and **no Wellspring harmonisation at all**, a gap invisible at low tiers and catastrophic at high ones, **because a Mechanica-trained Crystal-bearer at Master has never once been recognised by anything and will not be when it matters.**"
+  }
+ },
+ {
+  "item": "58",
+  "page": "wiki/Materials, Alchemy & Trade/Alchemetrica.md",
+  "append_children": {
+   "parent": "e15aaeb3-9c74-4c79-9ccd-41f7df37277f",
+   "parent_type": "callout",
+   "after": "a93c8960-f47f-4e0c-b205-52fee1555e57",
+   "after_text": "It also produces practitioners with real technical skill and **no Wellspring harmonisation at all** — a gap invisible at low tiers and catastrophic at high ones, **because a Mechanica-trained alchemist at Tier Six has never once been recognised by anything and will not be when it matters.**",
+   "children": [
+    {
+     "type": "paragraph",
+     "text": ""
+    },
+    {
+     "type": "paragraph",
+     "text": "**It leaves a residue that never thins.** An ordinary working's residue is loud for some hours and then thins toward a floor it never passes. Mechanica residue holds where it was left, undiminished. *Finding the taking itself takes two instruments. The coil reads a field and the gauge a density, and where the two will not reconcile, the discrepancy is the size of what is being taken. It also takes somebody who can be bothered to compare them.*"
+    }
+   ]
+  },
+  "note": "new last paragraph of the Mechanica callout: a spacer and a paragraph appended after its last child (a93c8960, patched by item 57)"
+ },
+ {
+  "item": "60",
+  "page": "wiki/Materials, Alchemy & Trade/Alchemetrica.md",
+  "patch_block": {
+   "id": "1d026a6e-0d73-4f5c-b6f1-edc173dc6eec",
+   "type": "paragraph",
+   "old": "**The Standing Index is therefore not a record of what the alchemical trade knows. It is a record of what the alchemical trade was willing to surrender**, and it is heavily weighted toward houses that could afford to lose a secret and toward formulas whose value lay in scale rather than in knowing.",
+   "new": "**The Standing Index is therefore a record of what the alchemical trade was willing to surrender, which is a smaller thing than what it knows**, and it is heavily weighted toward houses that could afford to lose a secret and toward formulas whose value lay in scale, where the secret was worth little."
+  }
+ },
+ {
+  "item": "61",
+  "page": "wiki/Materials, Alchemy & Trade/Alchemetrica.md",
+  "patch_block": {
+   "id": "bd4caa61-70bf-4a47-9784-142315bcdc62",
+   "type": "paragraph",
+   "old": "The Measurewrights record that ninety-six of the last century's hundred and forty-one Strikings originated east of the Ring or in goblinoid workshops, **and offer no explanation. One is available and nobody has entered it:** those are the workshops least able to afford Entry and most likely to be operating on unentered formulas — **which are lawful to hold and unlawful to sell, and the difference between those two states is a matter of who is asking.**",
+   "new": "The Measurewrights record that ninety-six of the last century's hundred and forty-one Strikings originated east of the Ring or in goblinoid workshops, **and offer no explanation. One is available and nobody has entered it:** those are the workshops least able to afford Entry and most likely to be operating on unentered formulas, **which are lawful to hold and unlawful to sell, and the difference between those two states is a matter of who is asking.**"
+  }
+ },
+ {
+  "item": "62",
+  "page": "wiki/Materials, Alchemy & Trade/Alchemetrica.md",
+  "append_children": {
+   "parent": "56adda16-c6a9-4987-81f3-f0816d08940b",
+   "parent_type": "callout",
+   "after": "bd4caa61-70bf-4a47-9784-142315bcdc62",
+   "after_text": "The Measurewrights record that ninety-six of the last century's hundred and forty-one Strikings originated east of the Ring or in goblinoid workshops, **and offer no explanation. One is available and nobody has entered it:** those are the workshops least able to afford Entry and most likely to be operating on unentered formulas — **which are lawful to hold and unlawful to sell, and the difference between those two states is a matter of who is asking.**",
+   "children": [
+    {
+     "type": "paragraph",
+     "text": ""
+    },
+    {
+     "type": "paragraph",
+     "text": "**The breach sits with the seller.** A patron who commissions an unentered working and pays for it breaks no law. The practitioner who sold what he could only hold carries the breach, and if he is a Master of the Circle, he carries his circle's liability on top of it."
+    }
+   ]
+  },
+  "note": "new last paragraph of the petition callout: a spacer and a paragraph appended after its last child (bd4caa61, patched by item 61)"
+ },
+ {
+  "item": "71",
+  "page": "wiki/Materials, Alchemy & Trade/Alchemetrica.md",
+  "patch_block": {
+   "id": "ea1256a0-51d4-4407-80bd-4baa115f9d3b",
+   "type": "paragraph",
+   "old": "**A corrupted operation is sustained by refusal rather than by recognition.** The Continuum has not authorised it and the practitioner is holding it open by fixation. The working will run, and it will cost more every time it is run, **and the practitioner will not stop — because the working is no longer a thing they do. It is a thing they are.**",
+   "new": "**A corrupted operation is sustained by refusal.** The Continuum has neither recognised nor authorised it, and the practitioner is holding it open by fixation. The working will run, and it will cost more every time it is run, **and the practitioner will not stop, because by then the working has become a thing they are.**"
+  }
+ },
+ {
+  "item": "70",
+  "page": "wiki/Materials, Alchemy & Trade/Alchemetrica.md",
+  "patch_block": {
+   "id": "f89b740f-c95c-4380-9292-3006e70e14db",
+   "type": "paragraph",
+   "old": "**Coagulation gone wrong** · Interim form mistaken for completion. A method enthroned as universal law and any further refinement treated as treason. ***Every workshop that has not changed a procedure in three generations should be read for this and almost none are.***",
+   "new": "**Coagulation gone wrong** · The Heresiology's *Tyrannous Finality*, the stage cut from Coagulatio. Interim form mistaken for completion. A method enthroned as universal law and any further refinement treated as treason. ***Every workshop that has not changed a procedure in three generations should be read for this and almost none are.***",
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Coagulation gone wrong"
+     },
+     "annotations": {
+      "bold": true
+     }
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": " · The Heresiology's "
+     }
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": "Tyrannous Finality"
+     },
+     "annotations": {
+      "italic": true
+     }
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": ", the stage cut from Coagulatio. Interim form mistaken for completion. A method enthroned as universal law and any further refinement treated as treason. "
+     }
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": "Every workshop that has not changed a procedure in three generations should be read for this and almost none are."
+     },
+     "annotations": {
+      "bold": true,
+      "italic": true
+     }
+    }
+   ]
+  },
+  "note": "top-level paragraph; send rich_text as given (markdown conversion would break the bold-italic)"
+ },
+ {
+  "item": "12b",
+  "page": "wiki/Materials, Alchemy & Trade/Alchemetrica.md",
+  "delete_blocks": [
+   {
+    "id": "b2019093-6829-4de0-a7c7-bb4e9682c5fc",
+    "text": ""
+   },
+   {
+    "id": "2b7ad8b6-73d7-4871-8c27-1f811de1fdb9",
+    "text": "Which means they do not temper and cannot, because Temperance is a melt and there is no organ to melt. **What they undergo instead is the Weathering**: refinement under sustained strain with no recasting, the soul hardening in place along the direction it was already being used. The trade word for the result is **grain**."
+   },
+   {
+    "id": "4cc44463-31a8-464c-b489-5bbfa3084777",
+    "text": ""
+   },
+   {
+    "id": "c1ef9eb9-df84-4cbe-9aa4-cb4a960df0c6",
+    "text": "*The catalyst network is grain, described from the bench rather than from the coil.* Conditioned tissue, conduction channels laid down by habituation, and in rare cases induced apertures. **It is real, it is measurable, it strengthens only in the direction the work pushed it, and it can never be redirected into anything else.** A forty-year Distillation specialist is extraordinary at Distillation and will be extraordinary at nothing else for the rest of his life."
+   },
+   {
+    "id": "b4bccd01-1443-487c-bf2a-1ade3c76c3a5",
+    "text": ""
+   },
+   {
+    "id": "10ff30e9-a56b-427f-b0e2-0b310d5f7eaa",
+    "text": "**No instrument in the Accord reads grain.** The gates above Tier Five consult Temperance because Temperance is what the coil can see, and the discipline's most precise practitioners are invisible to the apparatus that ranks them. *This is the same blind spot the Derivation Index carries and the same blind spot the screening seasons carry, and it is one blind spot rather than three.*"
+   }
+  ]
+ },
+ {
+  "item": "H1",
+  "page": "wiki/Materials, Alchemy & Trade/Alchemetrica.md",
+  "patch_block": {
+   "id": "3e958200-eb22-818f-81c3-c9a94ff1e142",
+   "type": "heading_2",
+   "old": "What pays for the work",
+   "new": "What pays for the work",
+   "color": "gray"
+  },
+  "note": "colour only: set heading_2 colour to gray, text unchanged"
+ },
+ {
+  "item": "H2",
+  "page": "wiki/Materials, Alchemy & Trade/Alchemetrica.md",
+  "patch_block": {
+   "id": "3e958200-eb22-81f2-9180-e8bd384a49f6",
+   "type": "heading_1",
+   "old": "The Great Work",
+   "new": "The Great Work",
+   "color": "brown"
+  },
+  "note": "colour only: set heading_1 colour to brown, text unchanged"
+ },
+ {
+  "item": "H3",
+  "page": "wiki/Materials, Alchemy & Trade/Alchemetrica.md",
+  "patch_block": {
+   "id": "3e958200-eb22-8158-972c-ce84b20da13f",
+   "type": "heading_2",
+   "old": "The Tria Prima",
+   "new": "The Tria Prima",
+   "color": "gray"
+  },
+  "note": "colour only: set heading_2 colour to gray, text unchanged"
+ },
+ {
+  "item": "H4",
+  "page": "wiki/Materials, Alchemy & Trade/Alchemetrica.md",
+  "patch_block": {
+   "id": "3e958200-eb22-8192-b43b-f172e8b61f09",
+   "type": "heading_2",
+   "old": "Medicine by the dose",
+   "new": "Medicine by the dose",
+   "color": "gray"
+  },
+  "note": "colour only: set heading_2 colour to gray, text unchanged"
+ },
+ {
+  "item": "H5",
+  "page": "wiki/Materials, Alchemy & Trade/Alchemetrica.md",
+  "patch_block": {
+   "id": "3e958200-eb22-81b5-bb40-c9bd8b4ecc6a",
+   "type": "heading_1",
+   "old": "The Four Operations",
+   "new": "The Four Operations",
+   "color": "brown"
+  },
+  "note": "colour only: set heading_1 colour to brown, text unchanged"
+ },
+ {
+  "item": "H6",
+  "page": "wiki/Materials, Alchemy & Trade/Alchemetrica.md",
+  "patch_block": {
+   "id": "3e958200-eb22-8115-b8ac-ca9a3cd635bf",
+   "type": "heading_2",
+   "old": "The stages at the bench",
+   "new": "The stages at the bench",
+   "color": "gray"
+  },
+  "note": "colour only: set heading_2 colour to gray, text unchanged"
+ },
+ {
+  "item": "H7",
+  "page": "wiki/Materials, Alchemy & Trade/Alchemetrica.md",
+  "run": "after plan.json",
+  "patch_block": {
+   "id": null,
+   "find": {
+    "parent": "3b158200-eb22-8140-a871-e823c3f36d89",
+    "type": "heading_1",
+    "text": "The Dead at the Bench"
+   },
+   "type": "heading_1",
+   "old": "The Dead at the Bench",
+   "new": "The Dead at the Bench",
+   "color": "brown"
+  },
+  "note": "block made by plan.json: read its id after the md apply (a top-level heading_1 whose text is exactly 'The Dead at the Bench', unique on the page), then set its colour to brown"
+ },
+ {
+  "item": "H8",
+  "page": "wiki/Materials, Alchemy & Trade/Alchemetrica.md",
+  "run": "after plan.json",
+  "patch_block": {
+   "id": null,
+   "find": {
+    "parent": "3b158200-eb22-8140-a871-e823c3f36d89",
+    "type": "heading_1",
+    "text": "Draftcraft and Provenance"
+   },
+   "type": "heading_1",
+   "old": "Draftcraft and Provenance",
+   "new": "Draftcraft and Provenance",
+   "color": "brown"
+  },
+  "note": "block made by plan.json: read its id after the md apply (a top-level heading_1 whose text is exactly 'Draftcraft and Provenance', unique on the page), then set its colour to brown"
+ },
+ {
+  "item": "H9",
+  "page": "wiki/Materials, Alchemy & Trade/Alchemetrica.md",
+  "run": "after plan.json",
+  "patch_block": {
+   "id": null,
+   "find": {
+    "parent": "3b158200-eb22-8140-a871-e823c3f36d89",
+    "type": "heading_2",
+    "text": "What the bench can read, and what it cannot"
+   },
+   "type": "heading_2",
+   "old": "What the bench can read, and what it cannot",
+   "new": "What the bench can read, and what it cannot",
+   "color": "gray"
+  },
+  "note": "block made by plan.json: read its id after the md apply (a top-level heading_2 whose text is exactly 'What the bench can read, and what it cannot', unique on the page), then set its colour to gray"
+ },
+ {
+  "item": "H10",
+  "page": "wiki/Materials, Alchemy & Trade/Alchemetrica.md",
+  "run": "after plan.json",
+  "patch_block": {
+   "id": null,
+   "find": {
+    "parent": "3b158200-eb22-8140-a871-e823c3f36d89",
+    "type": "heading_1",
+    "text": "The Ladder"
+   },
+   "type": "heading_1",
+   "old": "The Ladder",
+   "new": "The Ladder",
+   "color": "brown"
+  },
+  "note": "block made by plan.json: read its id after the md apply (a top-level heading_1 whose text is exactly 'The Ladder', unique on the page), then set its colour to brown"
+ }
+]

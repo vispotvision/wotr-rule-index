@@ -562,3 +562,12 @@
   opened_session: 1
   due: 1
   status: open
+- id: L059
+  category: debts
+  who: Tobin Sallow
+  text: Wants paying for the whole row of ward plates, not only the crack. The bursar says the Visitation
+    has the ring; the Visitation has not paid.
+  opened: '2026-09-28'
+  opened_session: 1
+  due: 2
+  status: open

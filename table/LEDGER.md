@@ -1,6 +1,6 @@
 # The Ledger, structured
 
-56 open lines.
+57 open lines.
 
 ## the dead
 
@@ -41,6 +41,7 @@
 - `L050` Four hundred households put a season of winter wood on the fire in one day on Sodoku's asking, and if the road holds they go through the Thin Weeks on borrowed heat and short rations with the death-house taking whatever the cold takes.  *(due: The Thin Weeks, or the first hard night after the road is decided.)*
 - `L051` Sodoku sends word by Robin Ice that the road is closed and he is not coming back through it, and that Osric holds the gate until he does — a return he has promised against a road he has just declared shut.  *(due: When Sodoku comes back through the narrows, or when the gate is opened by anyone else.)*
 - `L058` Owes Examiner Harrowgate the Finding of Cause at first bell, blank beside Party answerable. Answers, by his own signature, for Joan Aldery's request to the clerk of inquests.  *(due: 1)*
+- `L059` Wants paying for the whole row of ward plates, not only the crack. The bursar says the Visitation has the ring; the Visitation has not paid.  *(due: 2)*
 
 ## who knows what
 

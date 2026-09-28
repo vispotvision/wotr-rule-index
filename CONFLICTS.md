@@ -1509,7 +1509,7 @@ the author notes."
 **Quotes:** R61-94: "The lawful Category Three seal is written in Gravemark Ink" · Volume the Second: "I call it the Volitional Trace."
 **Consequence if unresolved:** Any in-world document dated before Volume III that numbers a Category contradicts the order in which the framework was made.
 **Recommendation:** none.
-**Status:** open
+**Status:** ruled 2026-09-28 (RULINGS.md "necrocursica-calls-2026-09-28", item 1): no document names who drew or first numbered the Categories; the Necrocursica states them as binding where a circle has signed, and Volume III does not number them. The Papers' silence stands.
 
 ## C-129 — The 701 IC seasons: Rimward comes in autumn after Vaeloris, yet Kaalabad's attack on Sum-gol, told after Rimward, is summer, six weeks before a road under eleven-day snow, and at most three days before it by the Altherion clock
 

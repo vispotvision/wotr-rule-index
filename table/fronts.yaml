@@ -358,3 +358,28 @@
   position: 0
   last_advanced: null
   seeded_from: added at the table
+- id: the-tallow-street-stair
+  name: The Tallow Street Stair
+  thread: Mu-jin
+  status: open
+  want: Whoever killed Walter Aldery on the draper's back stair and took his marbled daybook wants the
+    inquest to stay 'a fall in drink' and the widow to stop asking. Joan Aldery's cuff was cut three times
+    within the week.
+  last_move: ''
+  next_move: Joan takes the letter to the Deputy Coroner's office on a weekday morning.
+  clock:
+  - tick: 1
+    consequence: Joan takes Rovhen's letter to the clerk of inquests; the papers are shown, withheld,
+      or already missing.
+  - tick: 2
+    consequence: Someone learns the widow now has an inquiry agent's letter.
+  - tick: 3
+    consequence: 'The paper moves: Rovhen feels his signature change hands, go somewhere Joan would not,
+      or burn.'
+  - tick: 4
+    consequence: Hobb and Mercer's, Fenwick, or the daybook surfaces with a name in it.
+  - tick: 5
+    consequence: 'Resolved: the stair is read, or Joan Aldery is found at the bottom of one.'
+  position: 0
+  last_advanced: null
+  seeded_from: added at the table

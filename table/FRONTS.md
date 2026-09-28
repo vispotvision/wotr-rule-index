@@ -136,3 +136,12 @@
   - [ ] 3. A name is entered, or the blank is noticed by someone with standing (the Headmaster, the bursar, Kwon Mu-jin).
   - [ ] 4. Sallow's cased plates and the unopened inspector's book reach someone who can read them.
   - [ ] 5. The Visitation files. The finding names a student, the ward-proofing, or nobody, and the charter learns which.
+
+**The Tallow Street Stair** ○○○○○ 0/5 · open
+- Want: Whoever killed Walter Aldery on the draper's back stair and took his marbled daybook wants the inquest to stay 'a fall in drink' and the widow to stop asking. Joan Aldery's cuff was cut three times within the week.
+- Next move: Joan takes the letter to the Deputy Coroner's office on a weekday morning.
+  - [ ] 1. Joan takes Rovhen's letter to the clerk of inquests; the papers are shown, withheld, or already missing.
+  - [ ] 2. Someone learns the widow now has an inquiry agent's letter.
+  - [ ] 3. The paper moves: Rovhen feels his signature change hands, go somewhere Joan would not, or burn.
+  - [ ] 4. Hobb and Mercer's, Fenwick, or the daybook surfaces with a name in it.
+  - [ ] 5. Resolved: the stair is read, or Joan Aldery is found at the bottom of one.

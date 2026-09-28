@@ -1,6 +1,6 @@
 # Live rules by domain
 
-1081 live of 1266 extracted.
+1093 live of 1278 extracted.
 
 ## adjudication (63)
 
@@ -68,7 +68,7 @@
 - **R48-31-STAKES** [Writing Law 2026-09-26 Roleplay partnership] Death can happen, if earned: from real mistakes after clear warning; nothing is safe.
 - **R48-32-NPC_VOICES** [Writing Law 2026-09-26 Roleplay partnership] Isaac may take over any NPC's voice anytime by saying so; the partner hands it back after.
 
-## character-sheet (199)
+## character-sheet (204)
 
 - **R20C-16-SONZAI_RECORD_CARD** [Pack Twenty R20C-16] Sonzai gets a record card, not a character card: identity, standing, the Erasure act as a dated event, relations, reference art. No voice section, no interiority, no dialogue samples.
 - **R20C-32-PRECEDENCE_FOW_WORKBOOK_CARD** [Pack Twenty R20C-32] Precedence: Fracture of Worlds, then the Stat Sheet workbook, then the Notion card. The card is a rendering and it drifts.
@@ -168,6 +168,11 @@
 - **R61-128-CODEX_RENAMES_REGISTERED** [Alchemy Conversion Questionnaire 2026-09-28 ME2] Mu-jin's and Malphas's cards take in the texts' events after a lore check, and the renames registry records Vis Trismegistus to Kwon Mu-jin (full name only), Oren Corrant to the new Papers author, Noxinus Ren to Malphas if Noxinus goes, and ST1's renames, with casting entries after them.
 - **R64-3-MUJIN_REFRACTION_AT_KINGS_HALL** [Alftian Codex Volume I Ratification 2026-09-28 vol1 3] Mu-jin crosses into Refraction in the king's hall; his first Domain seed is nucleation under Coagulatio.
 - **R64-4-VOL1_CAST_INVENTORIES_CANON** [Alftian Codex Volume I Ratification 2026-09-28 vol1 4] Volume I's physical descriptions of its cast are canon.
+- **R65-5-MALPHAS_LATTICE_HAND** [Alftian Codex Volume II Ratification 2026-09-28 vol2 5] Malphas's left hand healed into a pressed lattice.
+- **R65-7-MUJIN_STAGES_VIII_TO_X** [Alftian Codex Volume II Ratification 2026-09-28 vol2 7] Mu-jin reaches VIII in late 697, IX in 698, X in winter 699 to 700 IC.
+- **R65-8-SUMGOL_SCHOOL_AND_SCHOOLMASTER** [Alftian Codex Volume II Ratification 2026-09-28 vol2 8] The Sum-gol school runs on the valley's standing; its schoolmaster trained Mu-jin.
+- **R65-9-SEOK_DOYUN_AND_NABI** [Alftian Codex Volume II Ratification 2026-09-28 vol2 9] Doyun is Seok Doyun, entered at thirteen in 699 IC; his cats are Nabi.
+- **R65-11-ARA_CIRCUIT_RING** [Alftian Codex Volume II Ratification 2026-09-28 vol2 11] Ara walks the Sum-gol circuit at twenty with a ring that warms near a savable wound.
 - **R57-01-KWON_MU_JIN_IS_38** [Rulings Backfill 2026-09-26 2026-09-18 — new] Kwon Mu-jin is 38, not 24; his Catalyst Event stays at fourteen and 'ten years since' reads twenty-four years.
 - **R57-05-ROVHEN_INVESTIGATOR** [Rulings Backfill 2026-09-26 2026-09-24 — new] Rovhen Talvasciel is retconned: a human retired private magical investigator, 28, once Edmund Lambert's assistant, now an Aetherion Academy instructor; 'The Prettier' card is superseded.
 - **R57-07-DOCUMENTS_FULLY_METAPHYSICAL** [Rulings Backfill 2026-09-26 2026-09-24 — R12-3-DESIGN_CHAIN_RETURNS] Cards, ability entries, items, lore, in-world documents and exports print stats, Grades, Bands, Stage, EU, AU/s, eta, Crystal State and Category; empty fields stay flagged pending.
@@ -270,7 +275,7 @@
 - **R52-31-COMIC_NPC** [Voice Law 2026-09-26 NPC voices the partner builds] The partner may invent a comic minor NPC as a comic voice from the start, with no setup-deadpan-reaction beat; the funeral test no longer binds NPC building.
 - **R52-32-ROOM_CAST** [Voice Law 2026-09-26 NPC voices the partner builds] Room casting is by ear: the partner casts for the scene and fixes voice likeness only when the swap test fails.
 
-## codex (110)
+## codex (111)
 
 - **R20C-41-CHANTCRAFT_FIFTH_CRAFT** [Pack Twenty R20C-41] Chantcraft is the fifth craft, Ars Cantus its medium-home. Not folded.
 - **R18-2-CODEX_FIRST_MANDATE** [Pack Eighteen §2] Before naming, pitching, converting or writing a working, the design order is fixed: read the Spell Index for precedent, then the Master Glyph Index, take Wellspring/Family/Physics Domain/Temperance Min/Category/Glyph Class assignment from the Lists sheet (never from memory), route alchemy to the Alchemical Index, and only then design and write.
@@ -366,6 +371,7 @@
 - **R61-126-GENESIO_ANTEDILUVIAN_SITE** [Alchemy Conversion Questionnaire 2026-09-28 SE12] 'The Eressean era' points to the Antediluvian Calendar: Genesio's old hall was built on its Wellspring, it is one of the sites the Guild surveyed, and the unpublished finding on what those sites are now doing explains why Genesio pushes back when drawn.
 - **R61-127-CODEX_SECTION_FIVE_PAGES** [Alchemy Conversion Questionnaire 2026-09-28 ME1] Both converted texts become wiki pages beside the three Codex volumes, so the section holds five pages and the cross-references resolve, and the texts' sealing and clearance labels read as in-world labels on the public pages.
 - **R64-5-VENUR_AMULET_CHARM** [Alftian Codex Volume I Ratification 2026-09-28 vol1 5] Venur's amulet is an Old High Runic Charm chained Recall, Continuum, Binding.
+- **R65-10-VOLITIONAL_TRACE_NAMED** [Alftian Codex Volume II Ratification 2026-09-28 vol2 10] The fourth residue is the Volitional Trace: Draycott's finding, Mu-jin's name.
 - **R27-1-CYMORATH_AIR_OF_ASCENT_FROST_ON_VOHRIN** [Cymorath Portfolio Ruling Standing Ruling] Cymorath carries exactly the portfolio Fracture of Worlds gives it: the Air of Ascent, Family Fulguria, freedom and motion, strengthening Dexterity Celerity and Gnosis Cartography/Perception. It is not a frost Wellspring. Every frost, cold or stasis working the wiki had been drafting as Cymorath is keyed instead to Vohrin, the Abyssal Depths Titan, Family Caloria, Physics Domain Thermodynamics, on the FOW III reading that cold is heat run backward. There is no dedicated frost Wellspring. Codex lines, Wellspring harmonisation rows and Material Ledger resonance columns that name a cold law write Vohrin · Caloria · Thermodynamics; any surviving Cymorath usage is Fulguria.
 - **R42-7-FOUR_PATHS** [Magic System Rulings 2026-09-23 C-025] There are four Paths, Fate included.
 - **R42-14-VIA_FATI** [Magic System Rulings 2026-09-23 follow-up] Viaforma gains Via Fati for the Fate Path.
@@ -629,7 +635,7 @@
 - **R48-43-SPEECHES** [Writing Law 2026-09-26 Characters and dialogue] Dialogue stays realistic under stress, but a trained speaker may deliver one crafted, eloquent speech at a big moment.
 - **R48-44-NAME_USE** [Writing Law 2026-09-26 Characters and dialogue] Narration refers to characters by POV epithets, the way the viewpoint sees them; the naming characterises.
 
-## documents (87)
+## documents (90)
 
 - **R20C-3-SWEEP_TWO_TIERS** [Pack Twenty R20C-3] The sweep has two tiers. Canon pages get swept — body text, not just titles.
 - **R20C-5-BRIEF_BURI_SECTION_MUST_GO** [Pack Twenty R20C-5] The standing project brief still carries a live THE BÜRI CULTURAL AMENDMENT section and a Büri voice roster. Cannot be edited from here.
@@ -702,6 +708,9 @@
 - **R61-131-IMPERIAL_AGE_BEGINS_NOW** [Alchemy Conversion Questionnaire 2026-09-28 Calendar (C-084 follow-up)] The count runs 715 years from the sealing of the Codex, 'the Imperial Age' names only the age of empire and industry now beginning, the Voyager Era, Long Reckoning and Withering Era become the count's earlier ages under new names, and the texts carry Imperial-Age years.
 - **R64-1-VOL1_IS_MUJIN_MEMOIR_696** [Alftian Codex Volume I Ratification 2026-09-28 vol1 1] Volume I is Mu-jin's memoir, deposited 696 IC; his reads are canon, his errors stay errors.
 - **R64-2-VOL1_TITLE_GAMEUNG_NOK** [Alftian Codex Volume I Ratification 2026-09-28 vol1 2] Mu-jin's own title for the book is Gameung-nok.
+- **R65-1-VOL2_IS_MUJIN_MEMOIR_700** [Alftian Codex Volume II Ratification 2026-09-28 vol2 1] Volume II is Mu-jin's memoir of 696 to 700 IC, deposited 700 IC.
+- **R65-4-NECROCURSICA_FOOTNOTE_WORDING** [Alftian Codex Volume II Ratification 2026-09-28 vol2 4] The Necrocursica's footnote stands in Volume II's wording.
+- **R65-12-THREE_CORRUPTIONS_NAMED** [Alftian Codex Volume II Ratification 2026-09-28 vol2 12] Volume II names three Corruptions and leaves four to Volume III.
 - **R57-07-DOCUMENTS_FULLY_METAPHYSICAL** [Rulings Backfill 2026-09-26 2026-09-24 — R12-3-DESIGN_CHAIN_RETURNS] Cards, ability entries, items, lore, in-world documents and exports print stats, Grades, Bands, Stage, EU, AU/s, eta, Crystal State and Category; empty fields stay flagged pending.
 - **R57-08-PHYSICAL_NUMBERS_ONLY_STRUCK** [Rulings Backfill 2026-09-26 2026-09-24 — R8-16-PHYSICAL_NUMBERS_ONLY] R8-16's ban on metaphysical drawback numbers is struck, on R20C-39, R12-1-NUMBER_BAN_STRUCK and the documents-are-fully-metaphysical ruling.
 - **R57-11-MECHANISM_IS_EFFECT** [Rulings Backfill 2026-09-26 2026-09-24 — new (Mechanism and Effect)] A working's Effect is written as its mechanism playing out; no Effect line that another mechanism could produce, no Mechanism line that leaves the Effect separate.
@@ -719,7 +728,7 @@
 - **R54-26-BENCH_OF_ATTRIBUTION** [Queue Questionnaire 2026-09-26 WAR-50] The Bench of Attribution may not keep or compel records of signings.
 - **R39-8-PACKS_FOLDED_INTO_EDITIONS** [Stat System and Scene Rulings 2026-09-13 Folding] Isaac's direction of 2026-09-12 overtakes the two pending rows that kept the packs as unfolded paste-in diffs: each base guide gets a dated edition with every live amendment folded in and a changelog; eleven are done, the remaining six follow the same way.
 
-## items (61)
+## items (64)
 
 - **R20C-22-AMMUNITION_TIERS_RATIFIED** [Pack Twenty R20C-22] The three ammunition tiers ratified, subject to R20C-26.
 - **R18-5-ALCHEMY_SOURCE_ORDER** [Pack Eighteen §5] Alchemy design consults, in order, the Alchemical Index (what exists), Alchemetrica (doctrine), and The Real Alchemy (real-world substrate check on invented process/apparatus/reagent behaviour), loading The Provenance Doctrine, The Standing Index and The Bench of Attribution alongside them; none of the three is optional.
@@ -756,6 +765,9 @@
 - **R61-110-IMPRESSION_BODY_TELLS_COUNTERS** [Alchemy Conversion Questionnaire 2026-09-28 EC11] Beyond the general counters, a Category One reading finds identity-shaped carry with no Soul Crystal behind it, which a trained reader can tell from a person but a mourner cannot, and a ring of Stillgate Ash (Journeyman gate) grounds the body so it can pass, while also bleeding any living Essence at the ring.
 - **R61-114-CASTLEFALL_CIRCLE_GRAVETIDE_INK** [Alchemy Conversion Questionnaire 2026-09-28 EC15] The investigator names the circle's ink as Gravetide Ink only when the Genesio analysis comes back, and the site holds two glyph roles: the circle is the Boundary in Gravetide Ink and the Category Three seal is the Sealing in Gravemark Ink.
 - **R64-5-VENUR_AMULET_CHARM** [Alftian Codex Volume I Ratification 2026-09-28 vol1 5] Venur's amulet is an Old High Runic Charm chained Recall, Continuum, Binding.
+- **R65-2-COMMISSION_VESSEL_AND_FEE** [Alftian Codex Volume II Ratification 2026-09-28 vol2 2] The commission's vessel is Class II Field Substrate, Sound, Marked; the fee was 300 gold marks.
+- **R65-3-DRAYCOTT_REGISTERED_MARK** [Alftian Codex Volume II Ratification 2026-09-28 vol2 3] Draycott's registered mark is a ring crossed by three spokes in grey wax.
+- **R65-11-ARA_CIRCUIT_RING** [Alftian Codex Volume II Ratification 2026-09-28 vol2 11] Ara walks the Sum-gol circuit at twenty with a ring that warms near a savable wound.
 - **R57-07-DOCUMENTS_FULLY_METAPHYSICAL** [Rulings Backfill 2026-09-26 2026-09-24 — R12-3-DESIGN_CHAIN_RETURNS] Cards, ability entries, items, lore, in-world documents and exports print stats, Grades, Bands, Stage, EU, AU/s, eta, Crystal State and Category; empty fields stay flagged pending.
 - **R63-2-IMPERIAL_AGE_BEGAN_690** [Calendar Follow-up 2026-09-28 calendar 2] The Imperial Age and its technology, rail included, begin in 690 IC; 715 IC is its twenty-fifth year.
 - **R59-11-MATERIALS** [Era and Apparatus Law 2026-09-26 Era and apparatus] Materials: cheap steel and iron, rubber and gutta-percha, early plastics in the late span, and the Master Material Ledger's Essence-born materials alongside them.
@@ -897,7 +909,7 @@
 - **R48-18-INVENTION** [Writing Law 2026-09-26 Research-grounded techniques] Invention goes one clear step past textbook physics: the real law plus one pinned variable, easy for a player to reason about.
 - **R48-19-BANK** [Writing Law 2026-09-26 Research-grounded techniques] The Phenomenon Bank becomes a growing library: every researched phenomenon (and pseudoscientific idea) is added for future workings and players to draw from.
 
-## magic-mechanism (177)
+## magic-mechanism (180)
 
 - **R20C-17-SITES_RECHARGE_UNHELPFULLY** [Pack Twenty R20C-17] Sites recharge, and it does not help. Decades to centuries, and the rate falls with every working — eighty years the first time, two hundred the second.
 - **R20C-23-ORIGIN_STAYS_MYTHIC** [Pack Twenty R20C-23] Origin stays mythic. Mechanism is fully explicable; where it came from is not.
@@ -1029,6 +1041,9 @@
 - **R64-3-MUJIN_REFRACTION_AT_KINGS_HALL** [Alftian Codex Volume I Ratification 2026-09-28 vol1 3] Mu-jin crosses into Refraction in the king's hall; his first Domain seed is nucleation under Coagulatio.
 - **R64-5-VENUR_AMULET_CHARM** [Alftian Codex Volume I Ratification 2026-09-28 vol1 5] Venur's amulet is an Old High Runic Charm chained Recall, Continuum, Binding.
 - **R64-6-CASTLEFALL_RILL_GENESIO_RIPTIDE** [Alftian Codex Volume I Ratification 2026-09-28 vol1 6] Castlefall reads Rill; the Genesio hall is a Spirit-type Riptide site.
+- **R65-7-MUJIN_STAGES_VIII_TO_X** [Alftian Codex Volume II Ratification 2026-09-28 vol2 7] Mu-jin reaches VIII in late 697, IX in 698, X in winter 699 to 700 IC.
+- **R65-10-VOLITIONAL_TRACE_NAMED** [Alftian Codex Volume II Ratification 2026-09-28 vol2 10] The fourth residue is the Volitional Trace: Draycott's finding, Mu-jin's name.
+- **R65-12-THREE_CORRUPTIONS_NAMED** [Alftian Codex Volume II Ratification 2026-09-28 vol2 12] Volume II names three Corruptions and leaves four to Volume III.
 - **R57-03-JUGGERNAUTS_FIST_CONTACT** [Rulings Backfill 2026-09-26 2026-09-22 — new] Any contact with Hiromi's Juggernaut's Fist counts as a landed strike, parried or blocked included, and each contact deepens a gravity well on the struck body.
 - **R57-11-MECHANISM_IS_EFFECT** [Rulings Backfill 2026-09-26 2026-09-24 — new (Mechanism and Effect)] A working's Effect is written as its mechanism playing out; no Effect line that another mechanism could produce, no Mechanism line that leaves the Effect separate.
 - **R57-20-ABSORBED_ENERGY_BANKS_IN_CRYSTAL** [Rulings Backfill 2026-09-26 2026-09-26 — WAR-3 cards 1 and 2] Energy a practitioner absorbs is banked in their own Soul Crystal.
@@ -1124,7 +1139,7 @@
 - **R54-19-MASS_NPC_THOUGHT** [Queue Questionnaire 2026-09-26 WAR-92] A POV-locked mass-combat scene still allows one thought per NPC.
 - **R54-20-MASS_WOUND_ANATOMY** [Queue Questionnaire 2026-09-26 WAR-92] Wounds in mass-combat scenes are written with the same anatomy as a duel.
 
-## naming (163)
+## naming (164)
 
 - **R20C-1-BURI_DEAD_EVERYWHERE** [Pack Twenty R20C-1] Büri is dead everywhere, without exception. No house, no amendment, no voice roster, no Mongolian register on any Inner World page.
 - **R20C-2-SATULAGI_STAYS_DEAD** [Pack Twenty R20C-2] Sātūlagi stays dead. Struck for a structural reason; reverting the register does not restore a place.
@@ -1183,6 +1198,7 @@
 - **R61-128-CODEX_RENAMES_REGISTERED** [Alchemy Conversion Questionnaire 2026-09-28 ME2] Mu-jin's and Malphas's cards take in the texts' events after a lore check, and the renames registry records Vis Trismegistus to Kwon Mu-jin (full name only), Oren Corrant to the new Papers author, Noxinus Ren to Malphas if Noxinus goes, and ST1's renames, with casting entries after them.
 - **R61-131-IMPERIAL_AGE_BEGINS_NOW** [Alchemy Conversion Questionnaire 2026-09-28 Calendar (C-084 follow-up)] The count runs 715 years from the sealing of the Codex, 'the Imperial Age' names only the age of empire and industry now beginning, the Voyager Era, Long Reckoning and Withering Era become the count's earlier ages under new names, and the texts carry Imperial-Age years.
 - **R64-2-VOL1_TITLE_GAMEUNG_NOK** [Alftian Codex Volume I Ratification 2026-09-28 vol1 2] Mu-jin's own title for the book is Gameung-nok.
+- **R65-9-SEOK_DOYUN_AND_NABI** [Alftian Codex Volume II Ratification 2026-09-28 vol2 9] Doyun is Seok Doyun, entered at thirteen in 699 IC; his cats are Nabi.
 - **R57-06-EDMUND_LAMBERT** [Rulings Backfill 2026-09-26 2026-09-24 — new] Edmund Lambert is a dead member of the Lambert family, distinct from Edward Lambert; relation unset.
 - **R37-1-MAHUO_ELEMENT_INVENTORY** [Naming Guide Amendment / Element Inventories I. Mahuo] A Mahuo given name is two syllables drawn from a fixed thirty-element inventory in five categories (breath and soul, Ledger and record, house and clan-seat, precision and correction, care and healing); one syllable is the generation-syllable shared across a cohort, the other is personal, either may take either position, and the family name may precede or follow since canon attests both orders. Which syllable is generational in the attested pairs, and whether Kwon is a Mahuo cadet branch, stay open flags.
 - **R37-2-YUKARI_ELEMENT_INVENTORY** [Naming Guide Amendment / Element Inventories II. Yukari] A Yukari name is a two-element compound drawn from a thirty-element inventory in five categories (thread and fate, crow and silence, divine and dream, water/stone/grief, weight and office), and a full name carries up to five life-stage forms: childhood name, adult name taken at the Telling, calling-name, taboo true name, posthumous name. Only Ketsu, En, Jin and Mu are canon-attested; the rest are coined to the register. Whether individuals carry a second topographic surname beside "Yukari" stays an open flag.
@@ -1890,7 +1906,7 @@
 - **R53-31-GONE_LIST** [World Texture Law 2026-09-26 World texture] Each culture's Standing Inventory gets a 'Gone' list of three to five named lost things the culture mourns, for elegy to reach for.
 - **R53-32-TECH_BY_EAR** [World Texture Law 2026-09-26 World texture] No decade-by-decade technology page: the partner judges what is era-appropriate in the Imperial Age scene by scene.
 
-## stats (125)
+## stats (126)
 
 - **R20C-30-STAGE_NAMES_FROM_FOW** [Pack Twenty R20C-30] Fracture of Worlds governs the Stage names. Verified against source.
 - **R20C-32-PRECEDENCE_FOW_WORKBOOK_CARD** [Pack Twenty R20C-32] Precedence: Fracture of Worlds, then the Stat Sheet workbook, then the Notion card. The card is a rendering and it drifts.
@@ -1947,6 +1963,7 @@
 - **R61-109-MORTALIS_CATEGORY_STAGE_FLOORS** [Alchemy Conversion Questionnaire 2026-09-28 EC10] Category One needs Flourishing, Two needs Glory and Three needs Refraction plus individual review, with Bench reservations at Adept, Expert and Expert with review, so Gillus at Stage VII is lawful by rank and unlawful only by review.
 - **R61-112-AUTHORS_STATE_INSTRUMENT_FIGURES** [Alchemy Conversion Questionnaire 2026-09-28 EC13] Mu-jin reads EU, η and site density whenever he takes off his spectacles, Malphas prices each Category as a share of reserve by Stage, and the investigator logs readings at scenes, while the impression-body's cost, Genesio's density and the drift's scale are derived and never invented.
 - **R64-3-MUJIN_REFRACTION_AT_KINGS_HALL** [Alftian Codex Volume I Ratification 2026-09-28 vol1 3] Mu-jin crosses into Refraction in the king's hall; his first Domain seed is nucleation under Coagulatio.
+- **R65-7-MUJIN_STAGES_VIII_TO_X** [Alftian Codex Volume II Ratification 2026-09-28 vol2 7] Mu-jin reaches VIII in late 697, IX in 698, X in winter 699 to 700 IC.
 - **R57-12-RUNG_I1_GENERAL_SENTENCE** [Rulings Backfill 2026-09-26 2026-09-25 — new (rules for ruling, I-1)] Where a ruling's operative sentence is written generally, it applies to every case it describes, not only the question asked.
 - **R57-13-RUNG_I2_OFF_LADDER_BOTH_WAYS** [Rulings Backfill 2026-09-26 2026-09-25 — new (rules for ruling, I-2)] Permission for a card to sit above a ladder is equally permission to sit below it; the card governs.
 - **R57-15-RUNG_I4_TABLE_FALLBACK** [Rulings Backfill 2026-09-26 2026-09-25 — new (rules for ruling, I-4)] A ruling's fallback for one column of a table applies to the whole table.
@@ -2124,7 +2141,7 @@
 - **R48-49-CITATIONS** [Writing Law 2026-09-26 Process] Research is cited as a source list at the end of each scene's or ability's notes.
 - **R48-50-PUSHBACK** [Writing Law 2026-09-26 Process] When the partner thinks a beat is drifting or a rule reads wrong, it says so in one plain line and keeps writing unless stopped.
 
-## worldbuilding (264)
+## worldbuilding (270)
 
 - **R20C-1-BURI_DEAD_EVERYWHERE** [Pack Twenty R20C-1] Büri is dead everywhere, without exception. No house, no amendment, no voice roster, no Mongolian register on any Inner World page.
 - **R20C-2-SATULAGI_STAYS_DEAD** [Pack Twenty R20C-2] Sātūlagi stays dead. Struck for a structural reason; reverting the register does not restore a place.
@@ -2224,6 +2241,12 @@
 - **R64-6-CASTLEFALL_RILL_GENESIO_RIPTIDE** [Alftian Codex Volume I Ratification 2026-09-28 vol1 6] Castlefall reads Rill; the Genesio hall is a Spirit-type Riptide site.
 - **R64-7-WEIGHT_BRED_FOLK_BELIEF** [Alftian Codex Volume I Ratification 2026-09-28 vol1 7] Weight-bred drakes are a hunters' folk belief; Penn's father Ralf died hunting one.
 - **R64-8-MAELOR_EDICT_OVER_ARCHIVUM** [Alftian Codex Volume I Ratification 2026-09-28 vol1 8] Maelor's edict is cut over the Genesio Archivum's door.
+- **R65-1-VOL2_IS_MUJIN_MEMOIR_700** [Alftian Codex Volume II Ratification 2026-09-28 vol2 1] Volume II is Mu-jin's memoir of 696 to 700 IC, deposited 700 IC.
+- **R65-2-COMMISSION_VESSEL_AND_FEE** [Alftian Codex Volume II Ratification 2026-09-28 vol2 2] The commission's vessel is Class II Field Substrate, Sound, Marked; the fee was 300 gold marks.
+- **R65-3-DRAYCOTT_REGISTERED_MARK** [Alftian Codex Volume II Ratification 2026-09-28 vol2 3] Draycott's registered mark is a ring crossed by three spokes in grey wax.
+- **R65-6-WEIGHT_DRIFT_STOPPED_697** [Alftian Codex Volume II Ratification 2026-09-28 vol2 6] The Weight drifted after the pour and stood still by summer 697 IC.
+- **R65-8-SUMGOL_SCHOOL_AND_SCHOOLMASTER** [Alftian Codex Volume II Ratification 2026-09-28 vol2 8] The Sum-gol school runs on the valley's standing; its schoolmaster trained Mu-jin.
+- **R65-10-VOLITIONAL_TRACE_NAMED** [Alftian Codex Volume II Ratification 2026-09-28 vol2 10] The fourth residue is the Volitional Trace: Draycott's finding, Mu-jin's name.
 - **R57-01-KWON_MU_JIN_IS_38** [Rulings Backfill 2026-09-26 2026-09-18 — new] Kwon Mu-jin is 38, not 24; his Catalyst Event stays at fourteen and 'ten years since' reads twenty-four years.
 - **R57-02-MAHUO_CHILDREN_AGES** [Rulings Backfill 2026-09-26 2026-09-18 — new] Mu-jin's children are Geturo 15 (eldest), Hiromi 13, Lily 12 (youngest); no twins.
 - **R57-05-ROVHEN_INVESTIGATOR** [Rulings Backfill 2026-09-26 2026-09-24 — new] Rovhen Talvasciel is retconned: a human retired private magical investigator, 28, once Edmund Lambert's assistant, now an Aetherion Academy instructor; 'The Prettier' card is superseded.

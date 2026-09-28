@@ -21880,6 +21880,377 @@
     "superseded_by": []
   },
   {
+    "id": "R65-1-VOL2_IS_MUJIN_MEMOIR_700",
+    "pack": "Alftian Codex Volume II Ratification 2026-09-28",
+    "pack_number": null,
+    "section": "vol2 1",
+    "title": "Volume II is Mu-jin's memoir of 696 to 700 IC, deposited 700 IC",
+    "status": "live",
+    "kind": "definition",
+    "summary": "Volume II is Mu-jin's memoir of 696 to 700 IC, deposited 700 IC.",
+    "verbatim": "Volume the Second is Kwon Mu-jin's memoir of his nineteenth to twenty-third years, 696 to 700 IC, deposited in 700 IC, the tenth year of the Imperial Age. What he states from a read is canon; what he states in error stays his error.",
+    "amends": [
+      {
+        "guide": "The Alftian Codex and the cards it names",
+        "locus": "Volume the Second",
+        "operation": "adds"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "documents",
+      "worldbuilding"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-28, Claude Code chat: approved the rebuilt Volume II ('go')",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "",
+    "superseded_by": []
+  },
+  {
+    "id": "R65-10-VOLITIONAL_TRACE_NAMED",
+    "pack": "Alftian Codex Volume II Ratification 2026-09-28",
+    "pack_number": null,
+    "section": "vol2 10",
+    "title": "The fourth residue is the Volitional Trace: Draycott's finding, Mu-jin's name",
+    "status": "live",
+    "kind": "definition",
+    "summary": "The fourth residue is the Volitional Trace: Draycott's finding, Mu-jin's name.",
+    "verbatim": "The fourth residue is the Volitional Trace: the finding is Draycott's, the name and its boundary are Mu-jin's.",
+    "amends": [
+      {
+        "guide": "The Alftian Codex and the cards it names",
+        "locus": "Volume the Second",
+        "operation": "adds"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "magic-mechanism",
+      "codex",
+      "worldbuilding"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-28, Claude Code chat: approved the rebuilt Volume II ('go')",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "",
+    "superseded_by": []
+  },
+  {
+    "id": "R65-11-ARA_CIRCUIT_RING",
+    "pack": "Alftian Codex Volume II Ratification 2026-09-28",
+    "pack_number": null,
+    "section": "vol2 11",
+    "title": "Ara walks the Sum-gol circuit at twenty with a ring that warms near a savable wound",
+    "status": "live",
+    "kind": "definition",
+    "summary": "Ara walks the Sum-gol circuit at twenty with a ring that warms near a savable wound.",
+    "verbatim": "Ara, at twenty, walks the Sum-gol circuit with Mu-jin, wearing a ring that warms when a wound nearby can still be saved.",
+    "amends": [
+      {
+        "guide": "The Alftian Codex and the cards it names",
+        "locus": "Volume the Second",
+        "operation": "adds"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "character-sheet",
+      "items"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-28, Claude Code chat: approved the rebuilt Volume II ('go')",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "",
+    "superseded_by": []
+  },
+  {
+    "id": "R65-12-THREE_CORRUPTIONS_NAMED",
+    "pack": "Alftian Codex Volume II Ratification 2026-09-28",
+    "pack_number": null,
+    "section": "vol2 12",
+    "title": "Volume II names three Corruptions and leaves four to Volume III",
+    "status": "live",
+    "kind": "definition",
+    "summary": "Volume II names three Corruptions and leaves four to Volume III.",
+    "verbatim": "Volume the Second names three of the Seven Cacodaemonic Corruptions (Conviction, Submission, Non-Commitment) and leaves the other four to the third volume.",
+    "amends": [
+      {
+        "guide": "The Alftian Codex and the cards it names",
+        "locus": "Volume the Second",
+        "operation": "adds"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "documents",
+      "magic-mechanism"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-28, Claude Code chat: approved the rebuilt Volume II ('go')",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "",
+    "superseded_by": []
+  },
+  {
+    "id": "R65-2-COMMISSION_VESSEL_AND_FEE",
+    "pack": "Alftian Codex Volume II Ratification 2026-09-28",
+    "pack_number": null,
+    "section": "vol2 2",
+    "title": "The commission's vessel is Class II Field Substrate, Sound, Marked; the fee was 300 gold marks",
+    "status": "live",
+    "kind": "definition",
+    "summary": "The commission's vessel is Class II Field Substrate, Sound, Marked; the fee was 300 gold marks.",
+    "verbatim": "The commission's vessel is a Class II Field Substrate Draft, fidelity Sound, Carry Marked, shipped to the eastern lowlands at the turn of 697 IC; the fee was three hundred gold marks, half before the pour and half after.",
+    "amends": [
+      {
+        "guide": "The Alftian Codex and the cards it names",
+        "locus": "Volume the Second",
+        "operation": "adds"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "items",
+      "worldbuilding"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-28, Claude Code chat: approved the rebuilt Volume II ('go')",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "",
+    "superseded_by": []
+  },
+  {
+    "id": "R65-3-DRAYCOTT_REGISTERED_MARK",
+    "pack": "Alftian Codex Volume II Ratification 2026-09-28",
+    "pack_number": null,
+    "section": "vol2 3",
+    "title": "Draycott's registered mark is a ring crossed by three spokes in grey wax",
+    "status": "live",
+    "kind": "definition",
+    "summary": "Draycott's registered mark is a ring crossed by three spokes in grey wax.",
+    "verbatim": "Draycott's registered craft mark is a ring crossed by three spokes, the lowest longest, with registry letters beneath, pressed in grey wax.",
+    "amends": [
+      {
+        "guide": "The Alftian Codex and the cards it names",
+        "locus": "Volume the Second",
+        "operation": "adds"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "items",
+      "worldbuilding"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-28, Claude Code chat: approved the rebuilt Volume II ('go')",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "",
+    "superseded_by": []
+  },
+  {
+    "id": "R65-4-NECROCURSICA_FOOTNOTE_WORDING",
+    "pack": "Alftian Codex Volume II Ratification 2026-09-28",
+    "pack_number": null,
+    "section": "vol2 4",
+    "title": "The Necrocursica's footnote stands in Volume II's wording",
+    "status": "live",
+    "kind": "definition",
+    "summary": "The Necrocursica's footnote stands in Volume II's wording.",
+    "verbatim": "The footnote to the Necrocursica stands in the wording Volume II quotes, and the Necrocursica's conversion matches it.",
+    "amends": [
+      {
+        "guide": "The Alftian Codex and the cards it names",
+        "locus": "Volume the Second",
+        "operation": "adds"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "documents"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-28, Claude Code chat: approved the rebuilt Volume II ('go')",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "",
+    "superseded_by": []
+  },
+  {
+    "id": "R65-5-MALPHAS_LATTICE_HAND",
+    "pack": "Alftian Codex Volume II Ratification 2026-09-28",
+    "pack_number": null,
+    "section": "vol2 5",
+    "title": "Malphas's left hand healed into a pressed lattice",
+    "status": "live",
+    "kind": "definition",
+    "summary": "Malphas's left hand healed into a pressed lattice.",
+    "verbatim": "Malphas's left hand healed into a small repeating lattice, pressed and held by a maker nobody names.",
+    "amends": [
+      {
+        "guide": "The Alftian Codex and the cards it names",
+        "locus": "Volume the Second",
+        "operation": "adds"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "character-sheet"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-28, Claude Code chat: approved the rebuilt Volume II ('go')",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "",
+    "superseded_by": []
+  },
+  {
+    "id": "R65-6-WEIGHT_DRIFT_STOPPED_697",
+    "pack": "Alftian Codex Volume II Ratification 2026-09-28",
+    "pack_number": null,
+    "section": "vol2 6",
+    "title": "The Weight drifted after the pour and stood still by summer 697 IC",
+    "status": "live",
+    "kind": "definition",
+    "summary": "The Weight drifted after the pour and stood still by summer 697 IC.",
+    "verbatim": "Neros measured the Weight standing out of its place some turns after the pour, always to the same side, and still by the summer of 697 IC.",
+    "amends": [
+      {
+        "guide": "The Alftian Codex and the cards it names",
+        "locus": "Volume the Second",
+        "operation": "adds"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "worldbuilding"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-28, Claude Code chat: approved the rebuilt Volume II ('go')",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "",
+    "superseded_by": []
+  },
+  {
+    "id": "R65-7-MUJIN_STAGES_VIII_TO_X",
+    "pack": "Alftian Codex Volume II Ratification 2026-09-28",
+    "pack_number": null,
+    "section": "vol2 7",
+    "title": "Mu-jin reaches VIII in late 697, IX in 698, X in winter 699 to 700 IC",
+    "status": "live",
+    "kind": "definition",
+    "summary": "Mu-jin reaches VIII in late 697, IX in 698, X in winter 699 to 700 IC.",
+    "verbatim": "Mu-jin crosses into Transcendence, Stage VIII, on the Heralds' bridge in late 697 IC, into Invocation, Stage IX, in the summer of 698 IC, and into Realization, Stage X, in the Sum-gol schoolroom in the winter of 699 to 700 IC, where the room keeps his set.",
+    "amends": [
+      {
+        "guide": "The Alftian Codex and the cards it names",
+        "locus": "Volume the Second",
+        "operation": "adds"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "character-sheet",
+      "stats",
+      "magic-mechanism"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-28, Claude Code chat: approved the rebuilt Volume II ('go')",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "",
+    "superseded_by": []
+  },
+  {
+    "id": "R65-8-SUMGOL_SCHOOL_AND_SCHOOLMASTER",
+    "pack": "Alftian Codex Volume II Ratification 2026-09-28",
+    "pack_number": null,
+    "section": "vol2 8",
+    "title": "The Sum-gol school runs on the valley's standing; its schoolmaster trained Mu-jin",
+    "status": "live",
+    "kind": "definition",
+    "summary": "The Sum-gol school runs on the valley's standing; its schoolmaster trained Mu-jin.",
+    "verbatim": "The school at Sum-gol is taught under the valley's standing, without fee; the schoolmaster is a woman of the house who came back from the court and trained Mu-jin in the house art from the winter of 697 IC.",
+    "amends": [
+      {
+        "guide": "The Alftian Codex and the cards it names",
+        "locus": "Volume the Second",
+        "operation": "adds"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "worldbuilding",
+      "character-sheet"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-28, Claude Code chat: approved the rebuilt Volume II ('go')",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "",
+    "superseded_by": []
+  },
+  {
+    "id": "R65-9-SEOK_DOYUN_AND_NABI",
+    "pack": "Alftian Codex Volume II Ratification 2026-09-28",
+    "pack_number": null,
+    "section": "vol2 9",
+    "title": "Doyun is Seok Doyun, entered at thirteen in 699 IC; his cats are Nabi",
+    "status": "live",
+    "kind": "definition",
+    "summary": "Doyun is Seok Doyun, entered at thirteen in 699 IC; his cats are Nabi.",
+    "verbatim": "Doyun is Seok Doyun, thirteen when he enters the east room in the spring of 699 IC as its ninth pupil; his cats are both called Nabi.",
+    "amends": [
+      {
+        "guide": "The Alftian Codex and the cards it names",
+        "locus": "Volume the Second",
+        "operation": "adds"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "naming",
+      "character-sheet"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-28, Claude Code chat: approved the rebuilt Volume II ('go')",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "",
+    "superseded_by": []
+  },
+  {
     "id": "R1-1-BLACK_AGENT_ASSIGNED",
     "pack": "Pack One",
     "pack_number": 1,

@@ -1420,3 +1420,30 @@ the author notes."
 **Consequence if unresolved:** The Codex, the Papers and the Vaeloris scenes cannot settle whether he is written Doyun or Do-yun, and the rule cannot say how any Korean-stratum name outside the Mahuo house is spelled.
 **Recommendation:** none.
 **Status:** open
+
+## C-119 — Mu-jin's card has him stand before a Legion-class working at twenty-two; the Alftian Codex's Volume II, his own record of that year at Sum-gol, holds no such event
+
+**Rules:** `wiki/Volume I — Character Cards/Kwon Mu-jin.md` (Lore) vs `imports/drafts/alchemy-conversion/vol2/alftian-codex-vol2.md` (the published Volume the Second, Chapters the Eleventh and Twelfth; RULINGS.md "alftian-vol2-2026-09-28", R65-7 and R65-9)
+**The clash:** The card says that at twenty-two he faced a Legion-class working with chalk and a book, and it answered him. Volume II covers his twenty-second year at Sum-gol in detail: the east room, Doyun's entering, Ara's letter, the cat, and his reads of his own Stage. It records nothing like a Legion-class working, though it would be the largest thing in the book. The page does not exclude it either.
+**Quotes:** Kwon Mu-jin: "At twenty-two he stood in front of a Legion-class working with a piece of chalk and a book, and the thing answered him." · Volume the Second: "Doyun came into the room the spring I was twenty-two, behind his cat."
+**Consequence if unresolved:** A later volume, the Papers or a scene at Sum-gol cannot say whether the Legion-class answer happened, when, or why Mu-jin never wrote it down.
+**Recommendation:** none.
+**Status:** open
+
+## C-120 — The card and scene 10 give Mu-jin eleven years of school and four Accord assessments by the Ashgate road; Volume II opens his room in 698 IC, three years earlier, and keeps the Accord out of his life until Volume III
+
+**Rules:** `scenes/10_mujin_the_name_of_your_killer.md` and `wiki/Volume I — Character Cards/Kwon Mu-jin.md` (Lore) vs `imports/drafts/alchemy-conversion/vol2/alftian-codex-vol2.md` (Chapter the Eleventh) and RULINGS.md alchemy-conversion-2026-09-28 (MJ10: the Accord appears only from Volume III)
+**The clash:** On the Ashgate road, at twenty-four, scene 10 calls him a man who had run a school for eleven years, which starts the school at thirteen, while he was still at court; Volume II gives him the east room in the autumn of 698 IC, three years before the road. Scene 10 and the card also put four Accord assessments on him by then, where the decisions keep him outside any institution through Volumes I and II. The age recut under C-106 left both lines standing.
+**Quotes:** 10_mujin_the_name_of_your_killer: "the calm man who had run a school for eleven years" · Kwon Mu-jin: "Four separate Accord assessments called Mu-jin temperamentally unsuited to field deployment." · Volume the Second: "In the autumn the schoolmaster gave me the east room."
+**Consequence if unresolved:** The Ashgate scene and the card describe a teaching career and an Accord file that the Codex's own chronology leaves no room for.
+**Recommendation:** none.
+**Status:** open
+
+## C-121 — Mu-jin reads himself at Stage X with about twelve million units in the winter of 699 to 700 IC (Level about 285 by the Level law); his card, dated before the Ashgate road in 701 IC, has him at Level 430 and Stage XII
+
+**Rules:** `imports/drafts/alchemy-conversion/vol2/alftian-codex-vol2.md` (Chapter the Twelfth; R65-7) and `wiki/Fracture of Worlds — The Living System/IX. The Essence Ledger (Part Twenty-Three).md` (the Level law) vs `wiki/Volume I — Character Cards/Kwon Mu-jin.md` (As Of; Temperance; Level)
+**The clash:** Volume II's read in the dark schoolroom gives his reserve as some twelve million units at Realization; by the Level law that is about Level 285. His card, as of the Zettari war camp before the Ashgate road about a year later, puts him at Level 430 and Stage XII, past the Stage XII gate at 400. That is some 145 Levels and two Stages inside a year.
+**Quotes:** Volume the Second: "η 0.78. Some twelve million units." · Kwon Mu-jin: "With the Zettari war camp, before the Ashgate road" · Kwon Mu-jin: "Level 430 at Stage XII"
+**Consequence if unresolved:** Volume III and the Ashgate scenes cannot state his Stage or reserve without breaking either the Codex's read or the card, and the Papers cannot date his rise.
+**Recommendation:** none.
+**Status:** open

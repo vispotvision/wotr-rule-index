@@ -1,6 +1,6 @@
 # Live rules by domain, with source text
 
-1081 live of 1266 extracted. Newest pack first within each domain; the newer rule governs where two overlap.
+1093 live of 1278 extracted. Newest pack first within each domain; the newer rule governs where two overlap.
 
 ## adjudication (63)
 
@@ -382,7 +382,7 @@ Isaac may take over any NPC's voice anytime by saying so; the partner hands it b
 
 > Isaac may take over any NPC's voice anytime by saying so; the partner hands it back after.
 
-## character-sheet (199)
+## character-sheet (204)
 
 ### R20C-16-SONZAI_RECORD_CARD [Pack Twenty R20C-16]
 
@@ -971,6 +971,36 @@ Mu-jin crosses into Refraction in the king's hall; his first Domain seed is nucl
 Volume I's physical descriptions of its cast are canon.
 
 > Volume I's physical descriptions of Malphas living, Furveus, Neros, Penn, Venur, Draycott, Strom, Asclepius and the king are canon.
+
+### R65-5-MALPHAS_LATTICE_HAND [Alftian Codex Volume II Ratification 2026-09-28 vol2 5]
+
+Malphas's left hand healed into a pressed lattice.
+
+> Malphas's left hand healed into a small repeating lattice, pressed and held by a maker nobody names.
+
+### R65-7-MUJIN_STAGES_VIII_TO_X [Alftian Codex Volume II Ratification 2026-09-28 vol2 7]
+
+Mu-jin reaches VIII in late 697, IX in 698, X in winter 699 to 700 IC.
+
+> Mu-jin crosses into Transcendence, Stage VIII, on the Heralds' bridge in late 697 IC, into Invocation, Stage IX, in the summer of 698 IC, and into Realization, Stage X, in the Sum-gol schoolroom in the winter of 699 to 700 IC, where the room keeps his set.
+
+### R65-8-SUMGOL_SCHOOL_AND_SCHOOLMASTER [Alftian Codex Volume II Ratification 2026-09-28 vol2 8]
+
+The Sum-gol school runs on the valley's standing; its schoolmaster trained Mu-jin.
+
+> The school at Sum-gol is taught under the valley's standing, without fee; the schoolmaster is a woman of the house who came back from the court and trained Mu-jin in the house art from the winter of 697 IC.
+
+### R65-9-SEOK_DOYUN_AND_NABI [Alftian Codex Volume II Ratification 2026-09-28 vol2 9]
+
+Doyun is Seok Doyun, entered at thirteen in 699 IC; his cats are Nabi.
+
+> Doyun is Seok Doyun, thirteen when he enters the east room in the spring of 699 IC as its ninth pupil; his cats are both called Nabi.
+
+### R65-11-ARA_CIRCUIT_RING [Alftian Codex Volume II Ratification 2026-09-28 vol2 11]
+
+Ara walks the Sum-gol circuit at twenty with a ring that warms near a savable wound.
+
+> Ara, at twenty, walks the Sum-gol circuit with Mu-jin, wearing a ring that warms when a wound nearby can still be saved.
 
 ### R57-01-KWON_MU_JIN_IS_38 [Rulings Backfill 2026-09-26 2026-09-18 — new]
 
@@ -1581,7 +1611,7 @@ Room casting is by ear: the partner casts for the scene and fixes voice likeness
 
 > Room casting is by ear: the partner casts for the scene and fixes voice likeness only when the swap test fails.
 
-## codex (110)
+## codex (111)
 
 ### R20C-41-CHANTCRAFT_FIFTH_CRAFT [Pack Twenty R20C-41]
 
@@ -2146,6 +2176,12 @@ Both converted texts become wiki pages beside the three Codex volumes, so the se
 Venur's amulet is an Old High Runic Charm chained Recall, Continuum, Binding.
 
 > Venur's amulet is a Charm cut in Old High Runic, chained [Ma] Recall, [Ir] Continuum, [Lei] Binding; its maker paid once and the wearer pays nothing.
+
+### R65-10-VOLITIONAL_TRACE_NAMED [Alftian Codex Volume II Ratification 2026-09-28 vol2 10]
+
+The fourth residue is the Volitional Trace: Draycott's finding, Mu-jin's name.
+
+> The fourth residue is the Volitional Trace: the finding is Draycott's, the name and its boundary are Mu-jin's.
 
 ### R27-1-CYMORATH_AIR_OF_ASCENT_FROST_ON_VOHRIN [Cymorath Portfolio Ruling Standing Ruling]
 
@@ -3687,7 +3723,7 @@ Narration refers to characters by POV epithets, the way the viewpoint sees them;
 
 > Narration refers to characters by POV epithets, the way the viewpoint sees them; the naming characterises.
 
-## documents (87)
+## documents (90)
 
 ### R20C-3-SWEEP_TWO_TIERS [Pack Twenty R20C-3]
 
@@ -4115,6 +4151,24 @@ Mu-jin's own title for the book is Gameung-nok.
 
 > Mu-jin's own title for the book is Gameung-nok, glossed on the page only as his house's word for correspondence.
 
+### R65-1-VOL2_IS_MUJIN_MEMOIR_700 [Alftian Codex Volume II Ratification 2026-09-28 vol2 1]
+
+Volume II is Mu-jin's memoir of 696 to 700 IC, deposited 700 IC.
+
+> Volume the Second is Kwon Mu-jin's memoir of his nineteenth to twenty-third years, 696 to 700 IC, deposited in 700 IC, the tenth year of the Imperial Age. What he states from a read is canon; what he states in error stays his error.
+
+### R65-4-NECROCURSICA_FOOTNOTE_WORDING [Alftian Codex Volume II Ratification 2026-09-28 vol2 4]
+
+The Necrocursica's footnote stands in Volume II's wording.
+
+> The footnote to the Necrocursica stands in the wording Volume II quotes, and the Necrocursica's conversion matches it.
+
+### R65-12-THREE_CORRUPTIONS_NAMED [Alftian Codex Volume II Ratification 2026-09-28 vol2 12]
+
+Volume II names three Corruptions and leaves four to Volume III.
+
+> Volume the Second names three of the Seven Cacodaemonic Corruptions (Conviction, Submission, Non-Commitment) and leaves the other four to the third volume.
+
 ### R57-07-DOCUMENTS_FULLY_METAPHYSICAL [Rulings Backfill 2026-09-26 2026-09-24 — R12-3-DESIGN_CHAIN_RETURNS]
 
 Cards, ability entries, items, lore, in-world documents and exports print stats, Grades, Bands, Stage, EU, AU/s, eta, Crystal State and Category; empty fields stay flagged pending.
@@ -4211,7 +4265,7 @@ Isaac's direction of 2026-09-12 overtakes the two pending rows that kept the pac
 
 > Superseded by Isaac's direction of 2026-09-12 to fold the packs into dated base-guide editions ("yes — start folding the packs in now"); eleven guides are folded, the remaining six follow the same way.
 
-## items (61)
+## items (64)
 
 ### R20C-22-AMMUNITION_TIERS_RATIFIED [Pack Twenty R20C-22]
 
@@ -4422,6 +4476,24 @@ The investigator names the circle's ink as Gravetide Ink only when the Genesio a
 Venur's amulet is an Old High Runic Charm chained Recall, Continuum, Binding.
 
 > Venur's amulet is a Charm cut in Old High Runic, chained [Ma] Recall, [Ir] Continuum, [Lei] Binding; its maker paid once and the wearer pays nothing.
+
+### R65-2-COMMISSION_VESSEL_AND_FEE [Alftian Codex Volume II Ratification 2026-09-28 vol2 2]
+
+The commission's vessel is Class II Field Substrate, Sound, Marked; the fee was 300 gold marks.
+
+> The commission's vessel is a Class II Field Substrate Draft, fidelity Sound, Carry Marked, shipped to the eastern lowlands at the turn of 697 IC; the fee was three hundred gold marks, half before the pour and half after.
+
+### R65-3-DRAYCOTT_REGISTERED_MARK [Alftian Codex Volume II Ratification 2026-09-28 vol2 3]
+
+Draycott's registered mark is a ring crossed by three spokes in grey wax.
+
+> Draycott's registered craft mark is a ring crossed by three spokes, the lowest longest, with registry letters beneath, pressed in grey wax.
+
+### R65-11-ARA_CIRCUIT_RING [Alftian Codex Volume II Ratification 2026-09-28 vol2 11]
+
+Ara walks the Sum-gol circuit at twenty with a ring that warms near a savable wound.
+
+> Ara, at twenty, walks the Sum-gol circuit with Mu-jin, wearing a ring that warms when a wound nearby can still be saved.
 
 ### R57-07-DOCUMENTS_FULLY_METAPHYSICAL [Rulings Backfill 2026-09-26 2026-09-24 — R12-3-DESIGN_CHAIN_RETURNS]
 
@@ -5247,7 +5319,7 @@ The Phenomenon Bank becomes a growing library: every researched phenomenon (and 
 
 > The Phenomenon Bank becomes a growing library: every researched phenomenon (and pseudoscientific idea) is added for future workings and players to draw from.
 
-## magic-mechanism (177)
+## magic-mechanism (180)
 
 ### R20C-17-SITES_RECHARGE_UNHELPFULLY [Pack Twenty R20C-17]
 
@@ -6029,6 +6101,24 @@ Castlefall reads Rill; the Genesio hall is a Spirit-type Riptide site.
 
 > Castlefall's ground reads Rill. The hall under Genesio is a Spirit-type site on the Riptide rung.
 
+### R65-7-MUJIN_STAGES_VIII_TO_X [Alftian Codex Volume II Ratification 2026-09-28 vol2 7]
+
+Mu-jin reaches VIII in late 697, IX in 698, X in winter 699 to 700 IC.
+
+> Mu-jin crosses into Transcendence, Stage VIII, on the Heralds' bridge in late 697 IC, into Invocation, Stage IX, in the summer of 698 IC, and into Realization, Stage X, in the Sum-gol schoolroom in the winter of 699 to 700 IC, where the room keeps his set.
+
+### R65-10-VOLITIONAL_TRACE_NAMED [Alftian Codex Volume II Ratification 2026-09-28 vol2 10]
+
+The fourth residue is the Volitional Trace: Draycott's finding, Mu-jin's name.
+
+> The fourth residue is the Volitional Trace: the finding is Draycott's, the name and its boundary are Mu-jin's.
+
+### R65-12-THREE_CORRUPTIONS_NAMED [Alftian Codex Volume II Ratification 2026-09-28 vol2 12]
+
+Volume II names three Corruptions and leaves four to Volume III.
+
+> Volume the Second names three of the Seven Cacodaemonic Corruptions (Conviction, Submission, Non-Commitment) and leaves the other four to the third volume.
+
 ### R57-03-JUGGERNAUTS_FIST_CONTACT [Rulings Backfill 2026-09-26 2026-09-22 — new]
 
 Any contact with Hiromi's Juggernaut's Fist counts as a landed strike, parried or blocked included, and each contact deepens a gravity well on the struck body.
@@ -6580,7 +6670,7 @@ Wounds in mass-combat scenes are written with the same anatomy as a duel.
 
 > Yes: mass-combat scenes must still carry duel-level wound anatomy.
 
-## naming (163)
+## naming (164)
 
 ### R20C-1-BURI_DEAD_EVERYWHERE [Pack Twenty R20C-1]
 
@@ -6923,6 +7013,12 @@ The count runs 715 years from the sealing of the Codex, 'the Imperial Age' names
 Mu-jin's own title for the book is Gameung-nok.
 
 > Mu-jin's own title for the book is Gameung-nok, glossed on the page only as his house's word for correspondence.
+
+### R65-9-SEOK_DOYUN_AND_NABI [Alftian Codex Volume II Ratification 2026-09-28 vol2 9]
+
+Doyun is Seok Doyun, entered at thirteen in 699 IC; his cats are Nabi.
+
+> Doyun is Seok Doyun, thirteen when he enters the east room in the spring of 699 IC as its ninth pupil; his cats are both called Nabi.
 
 ### R57-06-EDMUND_LAMBERT [Rulings Backfill 2026-09-26 2026-09-24 — new]
 
@@ -11064,7 +11160,7 @@ No decade-by-decade technology page: the partner judges what is era-appropriate 
 
 > No decade-by-decade technology page: the partner judges what is era-appropriate in the Imperial Age scene by scene.
 
-## stats (125)
+## stats (126)
 
 ### R20C-30-STAGE_NAMES_FROM_FOW [Pack Twenty R20C-30]
 
@@ -11395,6 +11491,12 @@ Mu-jin reads EU, η and site density whenever he takes off his spectacles, Malph
 Mu-jin crosses into Refraction in the king's hall; his first Domain seed is nucleation under Coagulatio.
 
 > Mu-jin crosses into Refraction, Stage VII, in the king's hall, and the first seed of his Domain works as nucleation under Coagulatio.
+
+### R65-7-MUJIN_STAGES_VIII_TO_X [Alftian Codex Volume II Ratification 2026-09-28 vol2 7]
+
+Mu-jin reaches VIII in late 697, IX in 698, X in winter 699 to 700 IC.
+
+> Mu-jin crosses into Transcendence, Stage VIII, on the Heralds' bridge in late 697 IC, into Invocation, Stage IX, in the summer of 698 IC, and into Realization, Stage X, in the Sum-gol schoolroom in the winter of 699 to 700 IC, where the room keeps his set.
 
 ### R57-12-RUNG_I1_GENERAL_SENTENCE [Rulings Backfill 2026-09-26 2026-09-25 — new (rules for ruling, I-1)]
 
@@ -12439,7 +12541,7 @@ When the partner thinks a beat is drifting or a rule reads wrong, it says so in 
 
 > When the partner thinks a beat is drifting or a rule reads wrong, it says so in one plain line and keeps writing unless stopped.
 
-## worldbuilding (264)
+## worldbuilding (270)
 
 ### R20C-1-BURI_DEAD_EVERYWHERE [Pack Twenty R20C-1]
 
@@ -13028,6 +13130,42 @@ Weight-bred drakes are a hunters' folk belief; Penn's father Ralf died hunting o
 Maelor's edict is cut over the Genesio Archivum's door.
 
 > Maelor's edict, "Nothing is lost, only waiting to be remembered", is cut over the door of the Genesio Archivum.
+
+### R65-1-VOL2_IS_MUJIN_MEMOIR_700 [Alftian Codex Volume II Ratification 2026-09-28 vol2 1]
+
+Volume II is Mu-jin's memoir of 696 to 700 IC, deposited 700 IC.
+
+> Volume the Second is Kwon Mu-jin's memoir of his nineteenth to twenty-third years, 696 to 700 IC, deposited in 700 IC, the tenth year of the Imperial Age. What he states from a read is canon; what he states in error stays his error.
+
+### R65-2-COMMISSION_VESSEL_AND_FEE [Alftian Codex Volume II Ratification 2026-09-28 vol2 2]
+
+The commission's vessel is Class II Field Substrate, Sound, Marked; the fee was 300 gold marks.
+
+> The commission's vessel is a Class II Field Substrate Draft, fidelity Sound, Carry Marked, shipped to the eastern lowlands at the turn of 697 IC; the fee was three hundred gold marks, half before the pour and half after.
+
+### R65-3-DRAYCOTT_REGISTERED_MARK [Alftian Codex Volume II Ratification 2026-09-28 vol2 3]
+
+Draycott's registered mark is a ring crossed by three spokes in grey wax.
+
+> Draycott's registered craft mark is a ring crossed by three spokes, the lowest longest, with registry letters beneath, pressed in grey wax.
+
+### R65-6-WEIGHT_DRIFT_STOPPED_697 [Alftian Codex Volume II Ratification 2026-09-28 vol2 6]
+
+The Weight drifted after the pour and stood still by summer 697 IC.
+
+> Neros measured the Weight standing out of its place some turns after the pour, always to the same side, and still by the summer of 697 IC.
+
+### R65-8-SUMGOL_SCHOOL_AND_SCHOOLMASTER [Alftian Codex Volume II Ratification 2026-09-28 vol2 8]
+
+The Sum-gol school runs on the valley's standing; its schoolmaster trained Mu-jin.
+
+> The school at Sum-gol is taught under the valley's standing, without fee; the schoolmaster is a woman of the house who came back from the court and trained Mu-jin in the house art from the winter of 697 IC.
+
+### R65-10-VOLITIONAL_TRACE_NAMED [Alftian Codex Volume II Ratification 2026-09-28 vol2 10]
+
+The fourth residue is the Volitional Trace: Draycott's finding, Mu-jin's name.
+
+> The fourth residue is the Volitional Trace: the finding is Draycott's, the name and its boundary are Mu-jin's.
 
 ### R57-01-KWON_MU_JIN_IS_38 [Rulings Backfill 2026-09-26 2026-09-18 — new]
 

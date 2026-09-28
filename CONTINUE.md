@@ -67,9 +67,14 @@ beside the original in the vault (dark ground, gold EB Garamond; builder `import
 run with node after `npm install docx@9` in any scratch dir, NODE_PATH pointing at it); draft, notes, brief, names and rules digest in
 `imports/drafts/alchemy-conversion/vol1/`. Settled there: Gameung-nok; Gillus → Gisli Draycott, Vaughaus Thom →
 Ivor Strom, Jabir → Venur, the claw monk → Penn Ralfsohn; Mu-jin born 677 IC, Volume I covers 14–19, stamped 696 IC.
-**Volume II is in progress** (workflow, drafts in `/tmp/wotr-drafts/alftian-*-vol2*`): the lead's call is that it
-runs 19 to about 23, stamped about 700 IC, before the Ashgate road, carrying Doyun (K3's "about nineteen" was an
-estimate). The Lore & History overview page "The Alftian Codex" still describes Vis's edition; rebuild it after
+**Volume II is published** the same way (Isaac's "go", RULINGS.md "alftian-vol2-2026-09-28", rules R65;
+`THE-ALFTIAN-CODEX-VOLUME-THE-SECOND-KWON-MU-JIN.docx`; files in `imports/drafts/alchemy-conversion/vol2/`): 696 to
+700 IC, ages 19 to 23; Chapters Sixth to Twelfth; Stages VIII (bridge, 697), IX (698), X (Sum-gol schoolroom,
+699–700); Seok Doyun and Nabi; the Volitional Trace named; three Corruptions given, four left to Volume III.
+It opened CONFLICTS C-119 to C-121 against Mu-jin's card and scene 10 (the Legion-class working at 22, eleven
+years of school and four Accord assessments, Level 430 at Stage XII a year after a Level ~285 read), and the
+names pass raised C-118 (Doyun's hyphen). Volume III must put Strom's completion activations in 700 IC or later
+(the Weight stood still from summer 697). **Next: the Papers.** The Lore & History overview page "The Alftian Codex" still describes Vis's edition; rebuild it after
 Volume III.
 
 ## State on 2026-09-26 (the magic docket questionnaire, applied)

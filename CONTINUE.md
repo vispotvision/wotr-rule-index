@@ -82,7 +82,15 @@ Watch's Urbis chapter; her card is on Notion under Volume I Character Cards (pag
 created directly because the sync was mid-publish; the next sync mirrors both) and her casting entry is in
 `build/casting.yaml` (key Farrant, after Mu-jin) with `build/casting/Orin_Farrant.json`. Files in
 `imports/drafts/alchemy-conversion/papers/`. Owed: the renames registry (Oren Corrant → Orin Farrant) with ME2.
-**Volume III is in progress** under Isaac's direction (RULINGS "alftian-vol3-direction-2026-09-28": the teacher on
+**Volume III is published** (Isaac's "go", RULINGS "alftian-vol3-2026-09-28", rules R68; Notion page Volume the
+Third rewritten in place; `THE-ALFTIAN-CODEX-VOLUME-THE-THIRD-KWON-MU-JIN.docx` in the vault; files in
+`imports/drafts/alchemy-conversion/vol3/`; C-135 opened, notes added to C-129/130/131/134).
+**A reboot at ~11:30 wiped /tmp**: drafts now live in `~/wotr-drafts/` (not /tmp). Volume III's text was rebuilt from the
+session transcript. The Alchemetrica update was cut off mid-apply (about half the markdown edits landed; no block
+operations ran); a recovery workflow is re-planning the rest against the live page. The Necrocursica is drafting from
+the recovered groundwork (`~/wotr-drafts/necro-*`). The Real Alchemy is published (Notion, under Materials, Alchemy &
+Trade; files in `imports/drafts/alchemy-conversion/real-alchemy/`), awaiting Isaac's ratification.
+Volume III was built under Isaac's direction (RULINGS "alftian-vol3-direction-2026-09-28": the teacher on
 the road, meeting Frithia) and his Frithia ruling ("frithia-timeline-2026-09-28": met 699 at the Carver's Seat of
 Vaeloris on the Legion night, Geturo born 700, her refusal explains Volume II's silence, the 701 bedside kiss is
 her way back, the Academy's body with her ice-country origin kept, eight pupils dead by 701 told in Volume III,

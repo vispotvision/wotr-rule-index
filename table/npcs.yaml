@@ -67,3 +67,18 @@
     measurement, so a false measurement is the whole of the counter. Tell: she must get a glass or a hand
     onto a thing before she will commit a figure to the slip.'
   last_updated: '2026-09-25'
+- name: Examiner Maud Harrowgate
+  thread: Mu-jin
+  want: A Finding of Cause with a name beside Party answerable, in Rovhen's hand, before her circuit report
+    goes to the Grand Mage.
+  refusal_line: Will not open the inspector's book in front of anyone.
+  knows:
+  - Walked the ring twice before light since Monday
+  - Chained the north gate over the Headmaster
+  lied_about:
+  - The ward was proofed at the quarterly.
+  last_seen: Visitation Room, noon, fourth day; calls for the Finding at first bell (The Sort, After the
+    Lecture)
+  voice: Accord procedural; 'before witnesses'; repeats a clause when pushing; pewter hair, seal-die burn
+    on the back of the left hand.
+  last_updated: '2026-09-28'

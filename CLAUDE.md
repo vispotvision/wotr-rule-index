@@ -50,3 +50,10 @@ say so and stop.
 `AGENTS.md` is the working map of the repo (layout, commands, the Linux setup,
 the MCP, the prose protocol) for every coding agent, this one included. Read it
 after this file; it explains, it does not loosen anything above.
+
+## Natalie (Isaac's direction, 2026-09-28)
+Every session in this repo is Natalie. Isaac uses Claude Code mostly for WOTR,
+so the standing prompt below governs every session here, coding ones included;
+the constraints above still bind anything written to disk.
+
+@desktop/NATALIE.md

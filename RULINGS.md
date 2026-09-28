@@ -2331,3 +2331,21 @@ Isaac's answers on Frithia and the Mahuo children, setting the frame for The Alf
 7. Mu-jin and Frithia marry in 702 IC, after his months in Urbis.
 
 Context: Isaac, Claude Code chat 2026-09-28, answering the Frithia timeline questions (map in /tmp/wotr-drafts/frithia/timeline.md; Option A with the Academy's body).
+
+## 2026-09-28 — farrant-papers-2026-09-28
+
+Isaac approved The Farrant Papers and their author's card with no changes. Ratified with them:
+1. The Papers are the field notes of Orin Farrant (OR-in FARR-unt), a woman, born 659 IC in Urbis, Searcher of the Night Watch Society's Urbis chapter on the crown's warrant, with its chapter house in the Ropewalk; she files as "Farrant, O.". They replace the Corrant Papers and run from the autumn of 700 IC to the late autumn of 701 IC.
+2. Farrant is Class Ø, unwoken: screened at seven with nothing stirring, entered Class Ø by the chapter bench. She reads only by instrument or through a named reader, and leaves no signature to follow.
+3. The case is joint: Halveth, K., head of the Research and Archives Division's Urbis office, opened it, set field notes under the Division's seal as the condition of access, and annotates in the margins.
+4. The crown's warrant runs in the crown's land only; in Ketsuen a Searcher can ask and cannot compel.
+5. The Castlefall circle is drawn in Gravetide Ink and the drop by the old bench is Gravemark Ink, as the Genesio Archivum's assay names them, Dessa Mael of record.
+6. The likeness at the Ault house held eleven days and ended in one breath, having asked for the key to Madeleine's workroom; Draycott's registered mark is on the vessel's lute and on her sealed paper.
+7. The Strom Submission has sat below the gate at Genesio about twelve years; the ground at the passage stair climbs through the seasons where drawn ground should fall.
+8. Malphas answered Farrant in writing and is filed by his title, Scribe to the Genesio Archivum, by order.
+9. At the Castlefall platform in late summer 701 IC Draycott's hold on his weight slipped once when Farrant asked after the treatise's author, and he handed her a packet filed as Volitional Trace, Genesio, active.
+10. Farrant carried Draycott's held letter, Exhibit C, by hand to Kwon Mu-jin's lodging in Urbis in late autumn 701 IC; he set it down unopened.
+11. Orin Farrant's character card stands as published, and her casting entry is as filed.
+The rest of the Papers' and the card's lists of new material, as their notes set them out, are ratified with them.
+
+Context: Isaac said 'Go' in Claude Code chat on 2026-09-28 after reading The Farrant Papers and Orin Farrant's card with their ratify lists; no swaps.

@@ -2378,3 +2378,20 @@ Isaac approved the rebuilt Alftian Codex, Volume the Third, with no changes. Rat
 The rest of the draft's list of new material, as its author notes set it out, is ratified with the volume.
 
 Context: Isaac said 'go' in Claude Code chat on 2026-09-28 after reading the Volume III draft and its list of invented items; no swaps.
+
+## 2026-09-28 — necrocursica-2026-09-28
+
+Isaac approved the Necrocursica's sealed edition. Ratified with it:
+1. The extant Necrocursica is Malphas's sealed edition, written by order at Genesio in 703 IC and sealed below the gate at the thaw of 704 IC at Tier VI, signed Malphas, Scribe to the Genesio Archivum, by order; its first manuscript was begun in the winter of 694 to 695 IC and finished in the spring of 696 IC, and lies sealed beside it.
+2. Its copies are the sealed original at Genesio, a second sealed copy in the Zettari archives, and the Accord's copy for the Research and Archives Division's Urbis office, with the completion steps of Category Three struck under redaction.
+3. It reads four residues inside the nine days (the Corporeal Residue, the Aetheric Shell, the Noospheric Echo and the Volitional Trace), in that order of reading, and three after them (the Harmonic Imprint, the Sympathetic Bond Trace and the Parunic Echo); a Trace laid in ground that keeps records stays past the nine days.
+4. For the dead it maps the Tria Prima as Sulphur to the Volitional Trace, Salt to the Corporeal Residue with the Shell, and Mercury to the Noospheric Echo; a revenant is a stalled Crossing, grounded by Stillgate Ash or by moving the body.
+5. The Mortalis Categories bind wherever a circle has signed, each with a floor, a reservation, a cost, a tell and a counter: One at Flourishing and the Adept gate, Two at Glory and the Expert gate, Three at Refraction and the Expert gate with individual review; Category Four has no floor and no gate, and an application is entered against the one who makes it.
+6. The Seven Unmoorings, with their drivers: the Mirror Trace (Submission), the Worn Habit (none), the Incomplete Sealing (Non-Commitment), the Open Shell (Instrumental Union), the Averted Regard (Catastrophic Germination), the Misnaming (Conviction) and the False Vocation (Tyrannous Finality).
+7. The sealed edition cuts the first manuscript's footnote, and Kwon Mu-jin's note in the Archivum copy restores it in its own words.
+8. Five margins in Malphas's later hand step over his own lines, one of them naming the lich as the one dead thing that stays itself, and refusing to treat it.
+9. Appendix I is Furveus's stabilisation protocol as Malphas modified it for Mortalis work, with its doses of white arsenic and calomel; Appendix II answers the third volume of Kwon Mu-jin's Codex.
+10. Malphas's fixed saying is "A melted coin does not testify."
+The rest of the draft's list of new material, as its author notes set it out, is ratified with it.
+
+Context: Isaac said 'go' in Claude Code chat on 2026-09-28 after reading the Necrocursica sealed edition and its ratify list; no swaps.

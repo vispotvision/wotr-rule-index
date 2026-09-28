@@ -191,3 +191,14 @@ The Grand Mage's office keeps a small surviving staff, the Visitation, whose Exa
 *Why:* Canon makes the Grand Mage an honorary office that once visited academies and could suspend charters; the Visitation is its residue.
 
 *Session:* Aetherion / Rovhen, 2026-09-24
+
+## 2026-09-28 — Muster camps and camp standard
+
+**Status:** proposed
+**applies_to:** worldbuilding, standing-inventory
+
+The Accord's muster camps school war orphans to 'camp standard': benches in a horseshoe around the slate, a water bucket with a ladle chained to its rim, a slate and chalk at every place, a lamp at every second place, the roll nailed at a child's eye height and called standing. Children are sorted in with a tin tag on a string.
+
+*Why:* Rovhen's origin; enter in the Accord Standing Inventory if ratified.
+
+*Session:* Aetherion / Rovhen, 2026-09-27

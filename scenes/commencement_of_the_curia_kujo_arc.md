@@ -4735,7 +4735,7 @@ He knew about the grey wolf on the surcoat. Everybody between here and Sum-gol k
 
 The soul was still coming away.
 
-That was the thing that stopped Mu-jin where he stood. It had begun the parting and had not finished it, and the parting had a shape, and the shape was slow and orderly and going up in a way that souls on a battlefield almost never do, and there was no fear anywhere in it and no confusion in it and a great deal of something that Mu-jin had no name for and had spent forty years being unable to name.
+That was the thing that stopped Mu-jin where he stood. It had begun the parting and had not finished it, and the parting had a shape, and the shape was slow and orderly and going up in a way that souls on a battlefield almost never do, and there was no fear anywhere in it and no confusion in it and a great deal of something that Mu-jin had no name for and had spent twenty years being unable to name.
 
 His eye took it in.
 

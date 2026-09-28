@@ -1248,7 +1248,7 @@ the author notes."
 **Quotes:** RULINGS: "His children's ages are fixed at Geturo 15, Hiromi 13, Lily 12; Geturo is the eldest and Lily the youngest" · doc-backfill-rulings-2026-09-26: "His children's ages are fixed at Geturo 15, Hiromi 13, Lily 12; Geturo is the eldest and Lily" · Hiromi Mahuo: "Twin brother to Geturo (older by minutes), younger brother to Lily (older by a year and two months)." · Hiromi Mahuo: "13. Twin (younger by minutes than Geturo)." · Hiromi Mahuo: "He was the middle of their three children. Geturo came before him and Lily after." · Geturo Mahuo: "14. Twin (older by minutes than Hiromi)." · Lily Mahuo: "14. A year and two months older than the twins."
 **Consequence if unresolved:** A scene or page drawing on the cards cannot state the Mahuo children's ages or birth order without contradicting the ruling, and any date worked from their birth years has two answers.
 **Recommendation:** none.
-**Status:** ruled 2026-09-18 (R57-02): Geturo 15 and eldest, Hiromi 13, Lily 12 and youngest. The Hiromi, Geturo and Lily cards have not been brought into line.
+**Status:** ruled 2026-09-18 (R57-02): Geturo 15 and eldest, Hiromi 13, Lily 12 and youngest. The Hiromi, Geturo and Lily cards were brought into line on 2026-09-28; the struck twin version survives only in `imports/lore/_roster.json`, `proposals/mahuo_family_page_draft.md` and the notes of `scenes/the_great_summoners_morning.md`.
 
 ## C-100 — Malphas's card is As Of the Greyshaft Nine coldhouse, while he is still alive; the same card's stats and body are the lich's after the Becoming (Stage XIV, Level 475)
 
@@ -1428,7 +1428,7 @@ the author notes."
 **Quotes:** Kwon Mu-jin: "At twenty-two he stood in front of a Legion-class working with a piece of chalk and a book, and the thing answered him." · Volume the Second: "Doyun came into the room the spring I was twenty-two, behind his cat."
 **Consequence if unresolved:** A later volume, the Papers or a scene at Sum-gol cannot say whether the Legion-class answer happened, when, or why Mu-jin never wrote it down.
 **Recommendation:** none.
-**Status:** open
+**Status:** ruled 2026-09-28 (RULINGS.md "frithia-timeline-2026-09-28", items 2 and 3): the Legion-class night happened in 699 IC at the Carver's Seat of Vaeloris, where Frithia watched him; Volume II leaves it out because she asked not to be written, and Volume III tells it looking back. It is a separate event from Rimward's answer in 701 IC.
 
 ## C-120 — The card and scene 10 give Mu-jin eleven years of school and four Accord assessments by the Ashgate road; Volume II opens his room in 698 IC, three years earlier, and keeps the Accord out of his life until Volume III
 

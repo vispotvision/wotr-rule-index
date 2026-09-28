@@ -130,7 +130,7 @@ Type: Sequence-Fixator · *Anchor the next instant and make it the only instant 
 
 Primary Wellsprings:
 Fixatio – Locks the practitioner's position inside the sequence of events, declaring their current instant the lawfully established present
-Monlithion – Ratifies the blow as a causal sentence; once committed, the timeline must process it before moving forward
+Monolithion – Ratifies the blow as a causal sentence; once committed, the timeline must process it before moving forward
 Cymorath – Governs temporal transition and sequence shift; the practitioner can read the gap between instants and insert their strike there
 Anamnesis – Reads the opponent's combat history as a causal chain, identifying which past decision made this moment inevitable
 Transmutatio – Allows the practitioner to alter the *sequence weight* of a strike — making a slow blow arrive as though it always arrived first
@@ -153,7 +153,7 @@ In Practice
 
 - Against a temporal-acceleration fighter, Fixatio simply refuses the acceleration's claim to the next instant. The fighter moves fast inside their own sequence and finds the practitioner's coordinate has already filled the space they were accelerating into.
 
-- Against anyone relying on reaction speed, the practitioner does not need to be faster. They deliver the blow and Monlithion ratifies it as causal sentence — the opponent's nervous system must process it as *already having happened* before it can respond.
+- Against anyone relying on reaction speed, the practitioner does not need to be faster. They deliver the blow and Monolithion ratifies it as causal sentence — the opponent's nervous system must process it as *already having happened* before it can respond.
 
 Philosophical Tension
 
@@ -244,7 +244,7 @@ Type: Sovereign-Fixator · *Anchor all six Works simultaneously and let the Plan
 
 Primary Wellsprings:
 Fixatio – The unifying spine; seats the practitioner as a load-bearing coordinate of the Plane itself
-Monlithion – Ratifies the blow as a sovereign sentence drawing from all subordinate Works at once
+Monolithion – Ratifies the blow as a sovereign sentence drawing from all subordinate Works at once
 Coagulatio – Gathers the cumulative mass of every active Work-layer into the single descent
 Judicium – Governs the judicial integration of all six prior doctrines into one ranked, irrefutable verdict
 Materia Primordia – The Totality anchor; calls on the precondition of all reality's coherence to ratify the blow as a law that predates the opponent

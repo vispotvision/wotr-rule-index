@@ -119,3 +119,14 @@
   last_seen: Stopped at the narrow-pen ink on the roll by the dispensary door (After the Lecture)
   voice: Clear, pitched for a larger room than the one she's in; writes without looking down.
   last_updated: '2026-09-28'
+- name: Agnes Tull
+  thread: Mu-jin
+  want: To know things first; knowing things is a porter's only currency.
+  refusal_line: Won't cross the Visitation threshold.
+  knows: []
+  lied_about:
+  - Master Kwon caught the arrow bare-handed (believes it)
+  - The masked lad put an arrow through the sky-glass (believes it)
+  last_seen: Visitation wing door (The Sort)
+  voice: Fast, circles back, 'they say,' a whistle through a missing front tooth.
+  last_updated: '2026-09-28'

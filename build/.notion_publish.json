@@ -939,5 +939,10 @@
     "page_id": "3e958200-eb22-81ea-9492-fb8b7e1a0cf4",
     "title": "Mujin's Interjection — Aetherion Arena",
     "hash": "46e8506436dc4f7a"
+  },
+  "scenes/wystans_briefing_aetherion_arena.md": {
+    "page_id": "3e958200-eb22-815e-ab07-f330906041b1",
+    "title": "Wystan's Briefing — Aetherion Arena",
+    "hash": "c9be3b897ac85ba6"
   }
 }

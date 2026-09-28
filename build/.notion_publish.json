@@ -964,5 +964,10 @@
     "page_id": "3e958200-eb22-81bb-bb22-eb543137c528",
     "title": "Mu-jin: The Reader's Oath",
     "hash": "025e9121a15404cf"
+  },
+  "scenes/mu_jin_the_old_colleague.md": {
+    "page_id": "3e958200-eb22-811f-95fa-c4a426e47dfe",
+    "title": "Mu-jin: The Old Colleague",
+    "hash": "e8cd7310aeddc3b9"
   }
 }

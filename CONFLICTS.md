@@ -1411,3 +1411,12 @@ the author notes."
 **Consequence if unresolved:** A card or a read cannot say whether a Stage X practitioner above Level 300 is lawful or an outlier; Malphas, Kwon Hae-ryu and any Level read in the Alftian Codex hang on it.
 **Recommendation:** none.
 **Status:** open
+
+## C-118 — Doyun, a Korean-stratum boy of Sum-gol, is spelled without a hyphen; R23-10 reads a name without a hyphen as a lineage-hall (Chinese) name
+
+**Rules:** R23-10-TELLING_APART_KOREAN (`rules/` Inner World Naming Amendment, section X) vs `wiki/Volume I — Character Cards/Kwon Mu-jin.md` (Lore; Relationships) and `scenes/WOTR_Vaeloris_Sequence.md`
+**The clash:** R23-10 separates the two strata on the page by the hyphen: a hyphen marks the Mahuo, the Korean stratum, and no hyphen marks the lineage halls. Doyun is a Sum-gol valley boy of the Korean stratum, and canon spells him without a hyphen on Mu-jin's card and eleven times in the Vaeloris Sequence, so by the rule he reads as a lineage-hall name. The rule speaks of the Mahuo and the halls and says nothing of Korean-stratum commoners outside the house, which is where Doyun stands.
+**Quotes:** R23-10: "Hyphen means Mahuo. Kwon Mu-jin. No hyphen means the lineage halls." · Kwon Mu-jin: "One of them was left, Doyun."
+**Consequence if unresolved:** The Codex, the Papers and the Vaeloris scenes cannot settle whether he is written Doyun or Do-yun, and the rule cannot say how any Korean-stratum name outside the Mahuo house is spelled.
+**Recommendation:** none.
+**Status:** open

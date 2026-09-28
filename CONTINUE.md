@@ -59,8 +59,8 @@ one document per commit; each published to Notion in-session with a fresh docx b
 
 **Volume I is published** (Isaac's "go", RULINGS.md "alftian-vol1-2026-09-28", rules R64 ratify its
 inventions): Notion page Volume the First rewritten in place; `THE-ALFTIAN-CODEX-VOLUME-THE-FIRST-KWON-MU-JIN.docx`
-beside the original in the vault (dark ground, gold EB Garamond; builder `codex_docx.js` is a scratch script,
-recreate from the docx skill if needed); draft, notes, brief, names and rules digest in
+beside the original in the vault (dark ground, gold EB Garamond; builder `imports/drafts/alchemy-conversion/codex_docx.js`,
+run with node after `npm install docx@9` in any scratch dir, NODE_PATH pointing at it); draft, notes, brief, names and rules digest in
 `imports/drafts/alchemy-conversion/vol1/`. Settled there: Gameung-nok; Gillus → Gisli Draycott, Vaughaus Thom →
 Ivor Strom, Jabir → Venur, the claw monk → Penn Ralfsohn; Mu-jin born 677 IC, Volume I covers 14–19, stamped 696 IC.
 **Volume II is in progress** (workflow, drafts in `/tmp/wotr-drafts/alftian-*-vol2*`): the lead's call is that it

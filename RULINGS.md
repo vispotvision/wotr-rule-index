@@ -2318,3 +2318,16 @@ Context: Isaac, Claude Code chat 2026-09-28, after Volume II was published: 'I d
 Agent ruling correcting item 10 of alftian-vol2-2026-09-28 (R65-10), which overstated Volume II. Volume II's Appendix says the finding came to Mu-jin in Draycott's letter; it does not make Draycott the finder. The credit for the Volitional Trace stands as ST3 (R61-13) gives it: Madeleine Ault found it and designed the commission, Ivor Strom found it independently, Gisli Draycott framed the theory and built the mechanism, and Kwon Mu-jin named it and set its boundary.
 
 Context: Found while filing the Papers' owed conflict rows (C-126): the lead's summary of Isaac's 'go' on Volume II had reworded Volume II's 'The finding came to me in Draycott's letter' as 'the finding is Draycott's'. Grounds: R61-13 (Isaac's ST3 answer) and the published Volume II text. Isaac may overturn.
+
+## 2026-09-28 — frithia-timeline-2026-09-28
+
+Isaac's answers on Frithia and the Mahuo children, setting the frame for The Alftian Codex, Volume the Third:
+1. Geturo is Frithia's son, born in 700 IC. Mu-jin and Frithia had one winter together, 699 to 700 IC; she refused marriage and asked not to be written down, which is why Volume II never names her.
+2. They met in 699 IC, when Mu-jin was twenty-two, on the night he answered a Legion-class working: she watched him do it. Volume III tells the meeting looking back.
+3. The Legion night was at the Carver's Seat of Vaeloris, the Valorin house's research academy in Ketsuen, which Kujo destroys in the late summer of 701 IC.
+4. The kiss Frithia takes at Mu-jin's bedside in 701 IC, telling him she will never tell him, is her way back to him after refusing him.
+5. Frithia's body is the Academy's: tall, taller than Mu-jin, angular, with brown hair, the bones Lily inherited. The rest of the manuscript's Frithia stays: she is from the ice country, speaks her own tongue before Accord common, wears the ringed-seal hat she made, carries the chin tattoos (three at fourteen, a fourth she added at twenty-two) and the walrus scar.
+6. Eight of the nine pupils in Mu-jin's room at Sum-gol died by 701 IC, leaving Doyun, and Volume III tells how.
+7. Mu-jin and Frithia marry in 702 IC, after his months in Urbis.
+
+Context: Isaac, Claude Code chat 2026-09-28, answering the Frithia timeline questions (map in /tmp/wotr-drafts/frithia/timeline.md; Option A with the Academy's body).

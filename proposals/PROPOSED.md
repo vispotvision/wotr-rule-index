@@ -169,3 +169,14 @@ projectile's speed and hit, armour's proof (stops its Tier and below; one above
 breaks it, two above passes clean), a focus's channelling ceiling. Costs as shares of the maker's reserve (1% per enhanced
 round, 10% a weapon, 25% proofed armour, the whole reserve for a relic). Four
 flags inline.
+
+## 2026-09-28 — Edmund's Sort: the inquiry agent's five kinds of work
+
+**Status:** proposed
+**applies_to:** worldbuilding, magic-mechanism, documents
+
+Accord inquiry agents of the Lambert school sort every scene into five kinds of work before touching anything: Worked (a chosen working, Technical Register; the hand is in the Residue), Spilled (Manifestus; a flare with a smeared signature), Standing (Traitus; the law was in the body), Running (Mystic Register; the world did it), Stolen (Mechanica; the room feels owed), plus a sixth that is not a kind (Phenomena; the trigger has an author, the event has none). Three looks follow in order: the room (Aether), the law (Wellspring), the hand (Essence), last.
+
+*Why:* Originated for Rovhen Talvasciel's Aetherion course; maps onto the canon Categories and the three-stratum stack.
+
+*Session:* Aetherion / Rovhen, 2026-09-24 to 09-27

@@ -227,7 +227,7 @@ rules:
   pack_number: null
   section: vol2 10
   title: 'The fourth residue is the Volitional Trace: Draycott''s finding, Mu-jin''s name'
-  status: live
+  status: superseded
   kind: definition
   summary: 'The fourth residue is the Volitional Trace: Draycott''s finding, Mu-jin''s name.'
   verbatim: 'The fourth residue is the Volitional Trace: the finding is Draycott''s, the name and its boundary are
@@ -246,7 +246,8 @@ rules:
   source:
     file: ''
     lines: null
-  notes: ''
+  notes: 'Superseded by R66-1-VOLITIONAL_TRACE_LAYERED_CREDIT: Volume II says the finding came to Mu-jin in Draycott''s
+    letter, not that Draycott found it.'
 - id: R65-11-ARA_CIRCUIT_RING
   pack: Alftian Codex Volume II Ratification 2026-09-28
   pack_number: null

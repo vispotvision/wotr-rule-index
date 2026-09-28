@@ -1,6 +1,6 @@
 # Live rules by domain, with source text
 
-1093 live of 1278 extracted. Newest pack first within each domain; the newer rule governs where two overlap.
+1093 live of 1279 extracted. Newest pack first within each domain; the newer rule governs where two overlap.
 
 ## adjudication (63)
 
@@ -2177,11 +2177,11 @@ Venur's amulet is an Old High Runic Charm chained Recall, Continuum, Binding.
 
 > Venur's amulet is a Charm cut in Old High Runic, chained [Ma] Recall, [Ir] Continuum, [Lei] Binding; its maker paid once and the wearer pays nothing.
 
-### R65-10-VOLITIONAL_TRACE_NAMED [Alftian Codex Volume II Ratification 2026-09-28 vol2 10]
+### R66-1-VOLITIONAL_TRACE_LAYERED_CREDIT [Alftian Codex Volume II Credit Correction 2026-09-28 correction 1]
 
-The fourth residue is the Volitional Trace: Draycott's finding, Mu-jin's name.
+Madeleine found the Trace and designed the commission, Strom found it independently, Draycott framed and built the mechanism, Mu-jin named it; supersedes R65-10's wording.
 
-> The fourth residue is the Volitional Trace: the finding is Draycott's, the name and its boundary are Mu-jin's.
+> The credit for the Volitional Trace stands as ST3 (R61-13) gives it: Madeleine Ault found it and designed the commission, Ivor Strom found it independently, Gisli Draycott framed the theory and built the mechanism, and Kwon Mu-jin named it and set its boundary.
 
 ### R27-1-CYMORATH_AIR_OF_ASCENT_FROST_ON_VOHRIN [Cymorath Portfolio Ruling Standing Ruling]
 
@@ -6107,17 +6107,17 @@ Mu-jin reaches VIII in late 697, IX in 698, X in winter 699 to 700 IC.
 
 > Mu-jin crosses into Transcendence, Stage VIII, on the Heralds' bridge in late 697 IC, into Invocation, Stage IX, in the summer of 698 IC, and into Realization, Stage X, in the Sum-gol schoolroom in the winter of 699 to 700 IC, where the room keeps his set.
 
-### R65-10-VOLITIONAL_TRACE_NAMED [Alftian Codex Volume II Ratification 2026-09-28 vol2 10]
-
-The fourth residue is the Volitional Trace: Draycott's finding, Mu-jin's name.
-
-> The fourth residue is the Volitional Trace: the finding is Draycott's, the name and its boundary are Mu-jin's.
-
 ### R65-12-THREE_CORRUPTIONS_NAMED [Alftian Codex Volume II Ratification 2026-09-28 vol2 12]
 
 Volume II names three Corruptions and leaves four to Volume III.
 
 > Volume the Second names three of the Seven Cacodaemonic Corruptions (Conviction, Submission, Non-Commitment) and leaves the other four to the third volume.
+
+### R66-1-VOLITIONAL_TRACE_LAYERED_CREDIT [Alftian Codex Volume II Credit Correction 2026-09-28 correction 1]
+
+Madeleine found the Trace and designed the commission, Strom found it independently, Draycott framed and built the mechanism, Mu-jin named it; supersedes R65-10's wording.
+
+> The credit for the Volitional Trace stands as ST3 (R61-13) gives it: Madeleine Ault found it and designed the commission, Ivor Strom found it independently, Gisli Draycott framed the theory and built the mechanism, and Kwon Mu-jin named it and set its boundary.
 
 ### R57-03-JUGGERNAUTS_FIST_CONTACT [Rulings Backfill 2026-09-26 2026-09-22 — new]
 
@@ -13161,11 +13161,11 @@ The Sum-gol school runs on the valley's standing; its schoolmaster trained Mu-ji
 
 > The school at Sum-gol is taught under the valley's standing, without fee; the schoolmaster is a woman of the house who came back from the court and trained Mu-jin in the house art from the winter of 697 IC.
 
-### R65-10-VOLITIONAL_TRACE_NAMED [Alftian Codex Volume II Ratification 2026-09-28 vol2 10]
+### R66-1-VOLITIONAL_TRACE_LAYERED_CREDIT [Alftian Codex Volume II Credit Correction 2026-09-28 correction 1]
 
-The fourth residue is the Volitional Trace: Draycott's finding, Mu-jin's name.
+Madeleine found the Trace and designed the commission, Strom found it independently, Draycott framed and built the mechanism, Mu-jin named it; supersedes R65-10's wording.
 
-> The fourth residue is the Volitional Trace: the finding is Draycott's, the name and its boundary are Mu-jin's.
+> The credit for the Volitional Trace stands as ST3 (R61-13) gives it: Madeleine Ault found it and designed the commission, Ivor Strom found it independently, Gisli Draycott framed the theory and built the mechanism, and Kwon Mu-jin named it and set its boundary.
 
 ### R57-01-KWON_MU_JIN_IS_38 [Rulings Backfill 2026-09-26 2026-09-18 — new]
 

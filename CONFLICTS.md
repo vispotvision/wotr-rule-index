@@ -1474,3 +1474,39 @@ the author notes."
 **Consequence if unresolved:** Every scene where a practitioner lets their weight go near an unwoken investigator, clerk or commoner has to invent the effect, and cards for the unwoken cannot state a resistance to Pressure.
 **Recommendation:** none.
 **Status:** open
+
+## C-125 — No Night Watch file names Malphas (PA2), yet ML4 has him sign the Necrocursica in his own name and re-points every Papers citation to it, and the Codex volumes the Papers hold as exhibits name him
+
+**Rules:** `imports/drafts/alchemy-conversion/decisions.md` PA2 (R61-62) vs ML4 (R61-49), `imports/drafts/alchemy-conversion/fixes.md` (The Papers) and the published Volume the Second (`imports/drafts/alchemy-conversion/vol2/alftian-codex-vol2.md`)
+**The clash:** PA2 binds the Papers to the night-watch book's rule that no file names Malphas. ML4 has Malphas sign the Necrocursica in his own name and says every Codex and Papers citation changes to it, and fixes.md turns the old Papers' "Noxinus Ren" into Malphas line by line. The Codex volumes, which the Papers hold as Exhibits A and B, name him outright. The Papers take the strict reading: no line names him, he is filed by his title at his own written request, and the two volumes are read at the Division's desk and not copied into the file.
+**Quotes:** decisions.md: "the planned book's rule that no file names Malphas binds the Papers too." · RULINGS: "Malphas signs the Necrocursica in his own name, Malphas." · decisions.md: "every Codex and Papers citation changes." · fixes.md: "'Noxinus Ren' at L23, L41, L75, L175 and L255 becomes Malphas" · Volume the Second: "Malphas is my example, and I name him" · Volume the Second: "A fair copy of this volume goes to Malphas, who let me read his."
+**Consequence if unresolved:** No Night Watch file can cite the Necrocursica by its author or hold the Codex as an exhibit without breaking the rule, and the sealed edition's own title page names him.
+**Recommendation:** none.
+**Status:** open
+
+## C-126 — The Volume II ratification gave the Volitional Trace's finding to Draycott (R65-10); ST3 gives the credit in layers (R61-13)
+
+**Rules:** R65-10-VOLITIONAL_TRACE_NAMED (`rules/doc-alftian-vol2-2026-09-28.yaml`) vs R61-13 (`rules/doc-alchemy-conversion-2026-09-28.yaml`, ST3) and the published Volume the Second (Appendix)
+**The clash:** The lead's wording of the Volume II ratification said the finding was Draycott's. ST3 gives Madeleine the finding and the commission's design, Strom an independent finding, Draycott the theory and the mechanism, and Mu-jin the name. Volume II itself says only that the finding came to Mu-jin in Draycott's letter.
+**Quotes:** RULINGS: "the finding is Draycott's, the name and its boundary are Mu-jin's." · RULINGS: "Madeleine found it and designed the commission; Thom found it independently; Gillus framed the theory and built the mechanism; Mu-jin coined the name." · Volume the Second: "The finding came to me in Draycott's letter; the name is mine, and so is its boundary."
+**Consequence if unresolved:** The Papers' Exhibit E ("The finding was hers before it was mine") would read as overruling a ratification, and Volume III would have no single credit to follow.
+**Recommendation:** none.
+**Status:** ruled 2026-09-28 (RULINGS.md "alftian-vol2-credit-correction-2026-09-28", agent ruling; R66-1 supersedes R65-10): the layered credit of ST3 stands.
+
+## C-127 — GL5 traces the maker's mark and the cutter's hand on the vessel to Draycott; Volume II has Furveus pour and seal it; the Castlefall Sealing is in Gravemark Ink, reserved at Expert, and Furveus holds no Tier of Standing
+
+**Rules:** R61-92 (GL5) vs the published Volume the Second (Chapter the Seventh) and `wiki/Materials, Alchemy & Trade/The Standing Index.md` (Gravemark Ink)
+**The clash:** GL5 says both the maker's mark and the cutter's hand on the body trace De Raits (Draycott), who needs both crafts. Volume II has the vessel poured by Furveus, a Master of the Circle who sealed it with his own hand, and shipped with Furveus and Strom. The Papers find the drop by the old bench is Gravemark Ink, which the Standing Index reserves at the Expert gate, and no roster gives Furveus a Tier of Standing. The Papers read the glass's maker's mark as Furveus's and Draycott's registered mark as the consignor's wax over the lute, and leave the reservation question asked and open.
+**Quotes:** RULINGS: "Maker's mark and cutter's hand both trace De Raits, who needs both crafts." · Volume the Second: "It was one working, unentered, done by a Master of the Circle who sealed it with his own hand." · Volume the Second: "the vessel went out on the line in a crate packed with straw, with Furveus on one side of it and Strom on the other." · The Standing Index: "| **Gravemark Ink** · T4 | **IV** / B / 44 · *reserved T5* |"
+**Consequence if unresolved:** The Papers, Volume III and the Necrocursica cannot say whose hand wrote the commission's Sealing or whether it stood at its reservation.
+**Recommendation:** none.
+**Status:** open
+
+## C-128 — The Mortalis Categories carry numerals (Category Three for completion) that depend on a residue named only in 700 IC and a framework Volume III designs later
+
+**Rules:** R61-94 and the EC Category rows (`rules/doc-alchemy-conversion-2026-09-28.yaml`) vs the published Volume the Second (Appendix) and the conversion's order of documents
+**The clash:** The Categories number the Mortalis workings, and the completion working is Category Three. The residue it completes was named only in 700 IC, in Volume II's Appendix, and the framework itself is designed after Volume III. So no document dated before Volume III can cite a Category numeral, though the rulings use them freely. The Papers (700 to 701 IC) cite Mechanica and Statute XXVI and give completion "no instrument yet".
+**Quotes:** R61-94: "The lawful Category Three seal is written in Gravemark Ink" · Volume the Second: "I call it the Volitional Trace."
+**Consequence if unresolved:** Any in-world document dated before Volume III that numbers a Category contradicts the order in which the framework was made.
+**Recommendation:** none.
+**Status:** open

@@ -1,6 +1,6 @@
 # Live rules by domain
 
-1093 live of 1278 extracted.
+1093 live of 1279 extracted.
 
 ## adjudication (63)
 
@@ -371,7 +371,7 @@
 - **R61-126-GENESIO_ANTEDILUVIAN_SITE** [Alchemy Conversion Questionnaire 2026-09-28 SE12] 'The Eressean era' points to the Antediluvian Calendar: Genesio's old hall was built on its Wellspring, it is one of the sites the Guild surveyed, and the unpublished finding on what those sites are now doing explains why Genesio pushes back when drawn.
 - **R61-127-CODEX_SECTION_FIVE_PAGES** [Alchemy Conversion Questionnaire 2026-09-28 ME1] Both converted texts become wiki pages beside the three Codex volumes, so the section holds five pages and the cross-references resolve, and the texts' sealing and clearance labels read as in-world labels on the public pages.
 - **R64-5-VENUR_AMULET_CHARM** [Alftian Codex Volume I Ratification 2026-09-28 vol1 5] Venur's amulet is an Old High Runic Charm chained Recall, Continuum, Binding.
-- **R65-10-VOLITIONAL_TRACE_NAMED** [Alftian Codex Volume II Ratification 2026-09-28 vol2 10] The fourth residue is the Volitional Trace: Draycott's finding, Mu-jin's name.
+- **R66-1-VOLITIONAL_TRACE_LAYERED_CREDIT** [Alftian Codex Volume II Credit Correction 2026-09-28 correction 1] Madeleine found the Trace and designed the commission, Strom found it independently, Draycott framed and built the mechanism, Mu-jin named it; supersedes R65-10's wording.
 - **R27-1-CYMORATH_AIR_OF_ASCENT_FROST_ON_VOHRIN** [Cymorath Portfolio Ruling Standing Ruling] Cymorath carries exactly the portfolio Fracture of Worlds gives it: the Air of Ascent, Family Fulguria, freedom and motion, strengthening Dexterity Celerity and Gnosis Cartography/Perception. It is not a frost Wellspring. Every frost, cold or stasis working the wiki had been drafting as Cymorath is keyed instead to Vohrin, the Abyssal Depths Titan, Family Caloria, Physics Domain Thermodynamics, on the FOW III reading that cold is heat run backward. There is no dedicated frost Wellspring. Codex lines, Wellspring harmonisation rows and Material Ledger resonance columns that name a cold law write Vohrin · Caloria · Thermodynamics; any surviving Cymorath usage is Fulguria.
 - **R42-7-FOUR_PATHS** [Magic System Rulings 2026-09-23 C-025] There are four Paths, Fate included.
 - **R42-14-VIA_FATI** [Magic System Rulings 2026-09-23 follow-up] Viaforma gains Via Fati for the Fate Path.
@@ -1042,8 +1042,8 @@
 - **R64-5-VENUR_AMULET_CHARM** [Alftian Codex Volume I Ratification 2026-09-28 vol1 5] Venur's amulet is an Old High Runic Charm chained Recall, Continuum, Binding.
 - **R64-6-CASTLEFALL_RILL_GENESIO_RIPTIDE** [Alftian Codex Volume I Ratification 2026-09-28 vol1 6] Castlefall reads Rill; the Genesio hall is a Spirit-type Riptide site.
 - **R65-7-MUJIN_STAGES_VIII_TO_X** [Alftian Codex Volume II Ratification 2026-09-28 vol2 7] Mu-jin reaches VIII in late 697, IX in 698, X in winter 699 to 700 IC.
-- **R65-10-VOLITIONAL_TRACE_NAMED** [Alftian Codex Volume II Ratification 2026-09-28 vol2 10] The fourth residue is the Volitional Trace: Draycott's finding, Mu-jin's name.
 - **R65-12-THREE_CORRUPTIONS_NAMED** [Alftian Codex Volume II Ratification 2026-09-28 vol2 12] Volume II names three Corruptions and leaves four to Volume III.
+- **R66-1-VOLITIONAL_TRACE_LAYERED_CREDIT** [Alftian Codex Volume II Credit Correction 2026-09-28 correction 1] Madeleine found the Trace and designed the commission, Strom found it independently, Draycott framed and built the mechanism, Mu-jin named it; supersedes R65-10's wording.
 - **R57-03-JUGGERNAUTS_FIST_CONTACT** [Rulings Backfill 2026-09-26 2026-09-22 — new] Any contact with Hiromi's Juggernaut's Fist counts as a landed strike, parried or blocked included, and each contact deepens a gravity well on the struck body.
 - **R57-11-MECHANISM_IS_EFFECT** [Rulings Backfill 2026-09-26 2026-09-24 — new (Mechanism and Effect)] A working's Effect is written as its mechanism playing out; no Effect line that another mechanism could produce, no Mechanism line that leaves the Effect separate.
 - **R57-20-ABSORBED_ENERGY_BANKS_IN_CRYSTAL** [Rulings Backfill 2026-09-26 2026-09-26 — WAR-3 cards 1 and 2] Energy a practitioner absorbs is banked in their own Soul Crystal.
@@ -2246,7 +2246,7 @@
 - **R65-3-DRAYCOTT_REGISTERED_MARK** [Alftian Codex Volume II Ratification 2026-09-28 vol2 3] Draycott's registered mark is a ring crossed by three spokes in grey wax.
 - **R65-6-WEIGHT_DRIFT_STOPPED_697** [Alftian Codex Volume II Ratification 2026-09-28 vol2 6] The Weight drifted after the pour and stood still by summer 697 IC.
 - **R65-8-SUMGOL_SCHOOL_AND_SCHOOLMASTER** [Alftian Codex Volume II Ratification 2026-09-28 vol2 8] The Sum-gol school runs on the valley's standing; its schoolmaster trained Mu-jin.
-- **R65-10-VOLITIONAL_TRACE_NAMED** [Alftian Codex Volume II Ratification 2026-09-28 vol2 10] The fourth residue is the Volitional Trace: Draycott's finding, Mu-jin's name.
+- **R66-1-VOLITIONAL_TRACE_LAYERED_CREDIT** [Alftian Codex Volume II Credit Correction 2026-09-28 correction 1] Madeleine found the Trace and designed the commission, Strom found it independently, Draycott framed and built the mechanism, Mu-jin named it; supersedes R65-10's wording.
 - **R57-01-KWON_MU_JIN_IS_38** [Rulings Backfill 2026-09-26 2026-09-18 — new] Kwon Mu-jin is 38, not 24; his Catalyst Event stays at fourteen and 'ten years since' reads twenty-four years.
 - **R57-02-MAHUO_CHILDREN_AGES** [Rulings Backfill 2026-09-26 2026-09-18 — new] Mu-jin's children are Geturo 15 (eldest), Hiromi 13, Lily 12 (youngest); no twins.
 - **R57-05-ROVHEN_INVESTIGATOR** [Rulings Backfill 2026-09-26 2026-09-24 — new] Rovhen Talvasciel is retconned: a human retired private magical investigator, 28, once Edmund Lambert's assistant, now an Aetherion Academy instructor; 'The Prettier' card is superseded.

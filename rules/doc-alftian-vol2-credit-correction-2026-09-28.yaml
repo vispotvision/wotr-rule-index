@@ -1,0 +1,37 @@
+# Standing ruling, originated: no source document. Agent ruling of 2026-09-28 correcting R65-10's wording;
+# the verbatim is an exact substring of the RULINGS.md entry "## 2026-09-28 — alftian-vol2-credit-correction-2026-09-28".
+pack: Alftian Codex Volume II Credit Correction 2026-09-28
+pack_number: null
+source_file: ''
+ratified: 'Agent ruling, 2026-09-28: correcting the lead''s wording of Isaac''s Volume II ratification (R65-10);
+  Isaac may overturn'
+rules:
+- id: R66-1-VOLITIONAL_TRACE_LAYERED_CREDIT
+  pack: Alftian Codex Volume II Credit Correction 2026-09-28
+  pack_number: null
+  section: correction 1
+  title: 'The Volitional Trace''s credit is layered: Madeleine, Strom, Draycott, Mu-jin'
+  status: live
+  kind: definition
+  summary: Madeleine found the Trace and designed the commission, Strom found it independently, Draycott framed
+    and built the mechanism, Mu-jin named it; supersedes R65-10's wording.
+  verbatim: 'The credit for the Volitional Trace stands as ST3 (R61-13) gives it: Madeleine Ault found it and designed
+    the commission, Ivor Strom found it independently, Gisli Draycott framed the theory and built the mechanism,
+    and Kwon Mu-jin named it and set its boundary.'
+  amends:
+  - guide: The Alftian Codex and the cards it names
+    locus: Volume the Second, the Papers, Volume III
+    operation: replaces
+  supersedes:
+  - R65-10-VOLITIONAL_TRACE_NAMED
+  applies_to:
+  - magic-mechanism
+  - codex
+  - worldbuilding
+  verification: []
+  ratified: 'Agent ruling, 2026-09-28: correcting the lead''s wording of Isaac''s Volume II ratification (R65-10);
+    Isaac may overturn'
+  source:
+    file: ''
+    lines: null
+  notes: ''

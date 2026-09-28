@@ -21916,7 +21916,7 @@
     "pack_number": null,
     "section": "vol2 10",
     "title": "The fourth residue is the Volitional Trace: Draycott's finding, Mu-jin's name",
-    "status": "live",
+    "status": "superseded",
     "kind": "definition",
     "summary": "The fourth residue is the Volitional Trace: Draycott's finding, Mu-jin's name.",
     "verbatim": "The fourth residue is the Volitional Trace: the finding is Draycott's, the name and its boundary are Mu-jin's.",
@@ -21939,8 +21939,10 @@
       "file": "",
       "lines": null
     },
-    "notes": "",
-    "superseded_by": []
+    "notes": "Superseded by R66-1-VOLITIONAL_TRACE_LAYERED_CREDIT: Volume II says the finding came to Mu-jin in Draycott's letter, not that Draycott found it.",
+    "superseded_by": [
+      "R66-1-VOLITIONAL_TRACE_LAYERED_CREDIT"
+    ]
   },
   {
     "id": "R65-11-ARA_CIRCUIT_RING",
@@ -22243,6 +22245,40 @@
     ],
     "verification": [],
     "ratified": "Isaac, 2026-09-28, Claude Code chat: approved the rebuilt Volume II ('go')",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "",
+    "superseded_by": []
+  },
+  {
+    "id": "R66-1-VOLITIONAL_TRACE_LAYERED_CREDIT",
+    "pack": "Alftian Codex Volume II Credit Correction 2026-09-28",
+    "pack_number": null,
+    "section": "correction 1",
+    "title": "The Volitional Trace's credit is layered: Madeleine, Strom, Draycott, Mu-jin",
+    "status": "live",
+    "kind": "definition",
+    "summary": "Madeleine found the Trace and designed the commission, Strom found it independently, Draycott framed and built the mechanism, Mu-jin named it; supersedes R65-10's wording.",
+    "verbatim": "The credit for the Volitional Trace stands as ST3 (R61-13) gives it: Madeleine Ault found it and designed the commission, Ivor Strom found it independently, Gisli Draycott framed the theory and built the mechanism, and Kwon Mu-jin named it and set its boundary.",
+    "amends": [
+      {
+        "guide": "The Alftian Codex and the cards it names",
+        "locus": "Volume the Second, the Papers, Volume III",
+        "operation": "replaces"
+      }
+    ],
+    "supersedes": [
+      "R65-10-VOLITIONAL_TRACE_NAMED"
+    ],
+    "applies_to": [
+      "magic-mechanism",
+      "codex",
+      "worldbuilding"
+    ],
+    "verification": [],
+    "ratified": "Agent ruling, 2026-09-28: correcting the lead's wording of Isaac's Volume II ratification (R65-10); Isaac may overturn",
     "source": {
       "file": "",
       "lines": null

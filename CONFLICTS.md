@@ -1366,3 +1366,21 @@ the author notes."
 **Consequence if unresolved:** A scene cannot date anything in the present, or name the era a character was born in, without contradicting either the ruling or the Concordance and the pages that follow it.
 **Recommendation:** none.
 **Status:** ruled 2026-09-28 (alchemy-conversion-2026-09-28, answer 131): the count stands and 'the Imperial Age' names the age now beginning; the Concordance of Ages and the pages dating by IC or by the three eras are not yet changed.
+
+## C-113 — Five cards open their characters' careers after the present year (Year 739 to 746); the present is Year 715 of the count
+
+**Rules:** RULINGS.md 2026-09-28 alchemy-conversion-2026-09-28 answer 131 and `wiki/Cosmology & Metaphysics/The Concordance of Ages.md` (The Withering Era) vs `wiki/Volume I — Character Cards/Dr. Vaelion Rhest · The Sleepless Theorist.md` (Era), `wiki/Volume I — Character Cards/Lyssara Veyn · The Black Chrysalis.md` (Era), `wiki/Volume I — Character Cards/Seren Valenne · The Grey Adjudicator.md` (Era), `wiki/Volume I — Character Cards/Elthiré Maen · The Wandering String.md` (Era) and `wiki/Volume I — Character Cards/Varuun Daskorr · The Unbent Crown.md` (Era)
+**The clash:** The count stands at Year 715 and the present is that year. Five cards give their characters an era that begins between Year 739 and Year 746 and runs "to present", so each card's present lies twenty-four to thirty-one years after the world's. The calendar pass changed only the label on these dates ("Imperial Year" to IC) and left the numbers as written.
+**Quotes:** RULINGS: "so the present is Year 715 of the count" · The Concordance of Ages: "#### The Withering Era · 645 IC to open" · Dr. Vaelion Rhest · The Sleepless Theorist: "Year 745" · Lyssara Veyn · The Black Chrysalis: "Year 746" · Seren Valenne · The Grey Adjudicator: "Year 740" · Elthiré Maen · The Wandering String: "active from Year 739" · Varuun Daskorr · The Unbent Crown: "reigning from Year 742"
+**Consequence if unresolved:** None of the five can appear in a present-day scene without either living in the future or having their card's dates overruled on the page.
+**Recommendation:** none.
+**Status:** open
+
+## C-114 — The Concord Gate Network says the first Gates were forged in the Withering Age; its own engraving dates the first Gate of Eresse to the Voyager Era
+
+**Rules:** `wiki/The Guild Accord/The Concord Gate Network.md` (opening; the closing engraving) vs `wiki/Cosmology & Metaphysics/The Concordance of Ages.md` (The Withering Era) and `wiki/Cosmology & Metaphysics/Errata to the Received Registers.md` (the Withering Age row)
+**The clash:** The page's prose puts the forging of the first Gates in the Withering Age. Its closing engraving puts the first Gate of Eresse in the Voyager Era, Year 003. The Errata reads "the Withering Age" as the Withering Era, which opens at Year 645, six centuries after the engraving.
+**Quotes:** The Concord Gate Network: "The first Gates were forged during the **Withering Age**" · The Concord Gate Network: "Engraved upon the first Gate of Eresse" · The Concordance of Ages: "#### The Withering Era · 645 IC to open" · Errata to the Received Registers: "| The Withering Age | The Withering Era |"
+**Consequence if unresolved:** A scene or document cannot say how old the Gate network is, or whether the Gates predate the western quarter's thinning.
+**Recommendation:** none.
+**Status:** open

@@ -542,3 +542,14 @@
   opened_session: 1
   due: When anyone outside Sodoku's own head learns who built the turning.
   status: open
+- id: L057
+  category: injuries and reserve
+  who: Rovhen Talvasciel
+  text: 'The Tuned Signature is live: a second pulse half a beat behind his heartbeat and a hum in the
+    roots of his back teeth for as long as the letter in Joan Aldery''s pocket exists. He cannot set it
+    down to sleep. If it burns he feels a burn. Held Pen cost paid after the lecture (pressure behind
+    left eye, cramp in left hand), healed by morning.'
+  opened: '2026-09-28'
+  opened_session: 1
+  due: while the letter exists
+  status: open

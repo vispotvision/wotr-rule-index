@@ -1,6 +1,6 @@
 # The Ledger, structured
 
-54 open lines.
+55 open lines.
 
 ## the dead
 
@@ -25,6 +25,7 @@
 - `L037` By the fifteenth rotation Bram's three hundred are putting men back into the front rank who cannot lift a shield to head height, because the alternative is a hole.  *(due: 1)*
 - `L048` He is on foot: he put the Titan Droval up the road into another house's fight without weighing it, and the mount was the reason anyone within a mile of him took a step back. The page adds what he sent 'would be enough for the foot, and it would be nothing at all for the thing standing on the road with the purple around it'.  *(due: The next time he is closed with while dismounted, or the moment he needs the Droval at the far end of the road.)*
 - `L049` Opening Reigan costs him ordinary sight while he holds it: eleven seconds blind in the ruts, counted, and letting go puts his stomach in his throat and greys the top and sides of everything for a moment.  *(due: The next time he opens Reigan with anything closing on him — at nine seconds he heard the horse, and the sword came out before he had finished coming back.)*
+- `L057` The Tuned Signature is live: a second pulse half a beat behind his heartbeat and a hum in the roots of his back teeth for as long as the letter in Joan Aldery's pocket exists. He cannot set it down to sleep. If it burns he feels a burn. Held Pen cost paid after the lecture (pressure behind left eye, cramp in left hand), healed by morning.  *(due: while the letter exists)*
 
 ## debts
 

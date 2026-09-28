@@ -82,3 +82,16 @@
   voice: Accord procedural; 'before witnesses'; repeats a clause when pushing; pewter hair, seal-die burn
     on the back of the left hand.
   last_updated: '2026-09-28'
+- name: Tobin Sallow
+  thread: Mu-jin
+  want: Paid for the whole row of ward plates, not only the crack.
+  refusal_line: Won't sign off a plate that rings dull.
+  knows:
+  - Six plates on the row are cased
+  - Knew Edmund Lambert; made his hairpin hinge
+  - Knows Rovhen as Lambert's lad from Cooper's Row
+  lied_about: []
+  last_seen: Visitation Room, left the cased plate of row six on the desk (The Sort)
+  voice: Gravel, gallows trade talk, 'That's all I'm saying.' Bald, missing the tip of his left little
+    finger.
+  last_updated: '2026-09-28'

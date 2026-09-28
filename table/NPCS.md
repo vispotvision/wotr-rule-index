@@ -14,3 +14,5 @@
 **Examiner Maud Harrowgate** · wants: A Finding of Cause with a name beside Party answerable, in Rovhen's hand, before her circuit report goes to the Grand Mage. · refuses: Will not open the inspector's book in front of anyone. · last seen: Visitation Room, noon, fourth day; calls for the Finding at first bell (The Sort, After the Lecture)
   - knows: Walked the ring twice before light since Monday; Chained the north gate over the Headmaster
   - has lied about: The ward was proofed at the quarterly.
+**Tobin Sallow** · wants: Paid for the whole row of ward plates, not only the crack. · refuses: Won't sign off a plate that rings dull. · last seen: Visitation Room, left the cased plate of row six on the desk (The Sort)
+  - knows: Six plates on the row are cased; Knew Edmund Lambert; made his hairpin hinge; Knows Rovhen as Lambert's lad from Cooper's Row

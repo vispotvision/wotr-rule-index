@@ -13,7 +13,10 @@ Code version). The pieces:
 |---|---|
 | `book/<slug>/outline.json`, `bible.md` | the plan: chapters with beat, scene_type, pov, cast, place, front_id, plants/pays; the hooks; the voice note |
 | `book/<slug>/state.json` | the book's memory: `facts`, `hooks` (status), `summaries`. Every brief reads it. **Nothing but this skill writes it after the foundation.** |
-| `book/<slug>/chNN/` | brief, draft_rN, notes_rN, findings_rN, digest_rN, `final.md`, `final_notes.md`, `GATE.md` |
+| `book/<slug>/chNN/` | brief, draft_rN, notes_rN, findings_rN, digest_rN, `reader.md` (a first-time reader's felt experience of the accepted draft), `final.md`, `final_notes.md`, `GATE.md` |
+| `book/<slug>/STYLE.md` | the book's voice, drawn from its approved chapters (§5). Every brief carries it whole |
+| `book/<slug>/ISSUES.md` | faults that recur across chapters (§4). Every brief carries the open ones |
+| `book/<slug>/DIGEST.md` | one careful reading per final chapter, for the audits (§5) |
 | `.claude/workflows/book-chapter.js` | one chapter: foundation (optional), brief, draft, 10 checks, up to 3 revise rounds, gate digest. Writes under `book/` only, never commits |
 | `build/book_next.py` | what comes next, and the gate record (`gates.json`, `GATES.md`). Gates: chapters 1-3, then every fifth (8, 13, ...), and the last. An undecided written gate blocks everything after it |
 | `wotr-book.timer` (02:00) | `build/book_dispatch.sh`: headless Claude runs `book_next --json` and, on write/rewrite, the Workflow; leaves `book/<slug>/DISPATCH.md`; commits `book/` |
@@ -75,7 +78,7 @@ be in `outline.json` (see §3, re-brief).
 ## 3. The gate
 
 Read `chNN/GATE.md`, then `chNN/final.md` in full. Present:
-the verdict and FAIL/WARN counts per round; each remaining FAIL with its quote
+the verdict and FAIL/WARN counts per round; the reader's first paragraph and any CONVERGES line (a place where the reader drifted and a critic found a fault: the strongest signal on the page); each remaining FAIL with its quote
 and the one-line fix; the declared lie and misreading; beat delivered or not;
 hooks planted/paid; the Front ticked; what he is deciding. Offer the prose
 itself if he wants to read it here. Then his call, one of four:
@@ -87,13 +90,17 @@ itself if he wants to read it here. Then his call, one of four:
   characters, lie or misreading; 85-115% words; at least 70% of dialogue lines
   and paragraphs kept). His note is the only finding. Save as the next
   `draft_rN.md`/`notes_rN.md`, run
-  `build/verify.py chNN/draft_rN.md --band set-piece --culture <C> [--combat]`,
+  `build/verify.py chNN/draft_rN.md --band set-piece --culture <C> --echoes [--combat]`,
   copy to `final.md`/`final_notes.md`, append an "Instructed round" section to
   `GATE.md`, and put it back in front of him. Still his gate.
 - **Re-brief** (the beat was wrong: "the clerk asks the king, not the
   Bench"): edit that chapter's row in `outline.json` (beat, cast, place,
   plants/pays), show him the diff, then `book_next.py --reject N --note "..."`
-  on his word. The next run rewrites from the new row.
+  on his word. The next run rewrites from the new row. If he says the beat is
+  wrong but not what is right, offer two or three replacement beats that are
+  truly different choices, each with what it costs downstream (hooks moved,
+  the Front tick, what the next chapter must now do), and let him pick. Do not
+  recommend one.
 - **Drop**: `book_next.py --drop N --note "..."` on his word; the outline row
   stays, the dispatcher moves past it. Say which hooks that chapter carried,
   so he can move them.
@@ -114,16 +121,42 @@ This is what keeps chapter 9 consistent with chapter 2. From `final.md` and
   what, an object moved, a death, a promise, time elapsed, a number) as
   `{"ch": N, "subject", "kind", "fact", "quote"}`; the quote is a verbatim
   sentence from `final.md`. No quote, no fact. The declared lie is recorded
-  with kind `lie` so later chapters do not treat it as true.
+  with kind `lie` so later chapters do not treat it as true. Knowledge splits
+  two ways: kind `knows` (subject = the character, fact = what they now know)
+  and kind `reader_knows` (the reader saw it, the named character did not).
+  The continuity critic fails a character acting on a `reader_knows`.
+  A new fact that contradicts an older one does not replace it: add it, and
+  put both quotes in front of him (a slip to fix by instruct, or a turn the
+  book means).
 - `hooks`: planted, advanced or paid as the notes' hook lines show, with the
   sentence; `"paid_ch": N` when paid.
 
-Show him the added rows in one short list; commit ("Book <slug>: ch NN into
-memory"). JSON stays valid: load and dump with Python, never hand-splice.
+Then `ISSUES.md`: read this chapter's `findings_rN.json` (last round) and
+GATE.md against the earlier chapters'. A fault seen in one chapter is a
+finding; the same fault in a second chapter is an issue (the same echo word,
+the same flat middle, one character's voice drifting, a scene type that keeps
+running long). One `## <issue>` per fault: what it is, the evidence (quotes
+and chapter numbers), its scope, how badly it hurts the reading, `status:
+open`. Add new evidence to an existing entry rather than making a second one.
+When a later chapter no longer shows it, set `status: resolved (ch N)` and
+keep the entry.
+
+Show him the added rows and any new or resolved issue in one short list;
+commit ("Book <slug>: ch NN into memory"). JSON stays valid: load and dump with Python, never hand-splice.
 
 ## 5. Audit (after every fifth chapter, the middle third every third, and the end)
 
-Reports; edits nothing. Write `book/<slug>/AUDIT_chNN.md`:
+Reports; edits no chapter. First bring `DIGEST.md` up to date, so no single
+context has to hold the whole book: for each `final.md` newer than its
+DIGEST.md section (or missing from it), spawn one Agent in parallel that reads
+that chapter alone and returns a careful reading: the beats (3-6), time
+markers, who appears and what each does and wants, places, relationships that
+shifted, setups planted and payoffs paid, and two or three quotes that show
+the prose at its best and worst. Replace those sections in DIGEST.md, in
+chapter order. The audit reads DIGEST.md and state.json, and opens a chapter
+only to check a quote.
+
+Then write `book/<slug>/AUDIT_chNN.md`:
 
 - **Hooks**: overdue (`due_ch` passed, not paid: critical); dormant (no
   event in more than 3 chapters: warn); open hooks over 12: warn.
@@ -133,9 +166,21 @@ Reports; edits nothing. Write `book/<slug>/AUDIT_chNN.md`:
 - **Continuity**: read every summary and fact in order; list cross-chapter
   contradictions with both quotes and chapter numbers. Contradictions cluster
   between 35% and 65% of the book: read that band closest.
-- At the end only: read every `final.md` in order and review it once as a
-  critic and once as a teacher of fiction, with specific, actionable notes by
-  chapter.
+- **Voice**: rewrite `STYLE.md` from the approved chapters: the few
+  principles the narration actually runs on (sentence rhythm and how it
+  moves under strain, how deep the interiority goes, what the POV notices
+  first, how dialogue carries subtext, where the humour lives), each with one
+  or two quoted examples and the chapters that show it. Principles, not a
+  checklist: a writer should take it in one read. A habit the book would not
+  want copied is a tic and goes to ISSUES.md, not STYLE.md. Say where the
+  voice drifted or flattened across chapters, with quotes.
+- At the end only: from DIGEST.md, review the whole book once as a critic and
+  once as a teacher of fiction, with specific, actionable notes by chapter.
+  Then read it once through each lens the table claims (Martin's POV
+  discipline, Abercrombie's brutality and cost, Tolkien's elegiac reach, Lord
+  of the Mysteries' mystic register): where the book keeps that promise and
+  where it doesn't. Then the first-time reader from book-chapter.js, over the
+  whole book: where it held and where it sagged, the middle closest.
 
 He reopens a chapter by instruct (§3) or re-brief; the audit never does.
 

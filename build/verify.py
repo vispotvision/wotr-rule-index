@@ -255,6 +255,25 @@ def run(text: str, combat: bool = False, culture: str | None = None, band: str =
     return {"fails": fails, "warns": warns, "info": info}
 
 
+ECHO_STOP = set("""that this with from have were been they them their there then than when what which while would could should about into over under after before again still just only even very more most some such other each every where here your yours down back through upon onto against between without within being does done said says like made make much many said""".split())
+
+
+def echoes(text: str, window: int = 60, times: int = 4) -> list[str]:
+    """Word echoes in narration (the copy editor's pass, no rule id): one lowercase
+    content word 4+ times inside 60 words. Speech and capitalised names are skipped."""
+    text = re.split(r"(?m)^##\s+Notes\b", text, maxsplit=1)[0]
+    toks = re.findall(r"[A-Za-z][a-z'’]+", QUOTED.sub(" ", strip_md(text)))
+    out, seen = [], set()
+    for i, w in enumerate(toks):
+        if len(w) < 4 or not w.islower() or w in ECHO_STOP or w in seen:
+            continue
+        hits = [j for j in range(i, min(i + window, len(toks))) if toks[j] == w]
+        if len(hits) >= times:
+            seen.add(w)
+            out.append(f"word echo: \"{w}\" {len(hits)}× in {window} words, near \"{' '.join(toks[max(0, i - 4):i + 6])}\" (editor's pass; keep it if the echo is deliberate)")
+    return out
+
+
 def report(res: dict) -> str:
     out = []
     out.append(f"{'FAIL' if res['fails'] else 'PASS'}: {len(res['fails'])} fail, {len(res['warns'])} warn")
@@ -273,11 +292,14 @@ def main() -> int:
     ap.add_argument("--combat", action="store_true")
     ap.add_argument("--culture")
     ap.add_argument("--band", default="standard", choices=list(BANDS))
+    ap.add_argument("--echoes", action="store_true", help="also warn on word echoes (book chapters)")
     a = ap.parse_args()
     if hasattr(sys.stdout, "reconfigure"):
         sys.stdout.reconfigure(encoding="utf-8")
     text = Path(a.file).read_text(encoding="utf-8", errors="replace")
     res = run(text, combat=a.combat, culture=a.culture, band=a.band)
+    if a.echoes:
+        res["warns"] += echoes(text)
     print(report(res))
     return 1 if res["fails"] else 0
 

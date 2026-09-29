@@ -1,5 +1,5 @@
 {
-"run": "2026-09-28T03:30:00",
+"run": "2026-09-29T03:30:00",
 "findings": {
 "0e0f61e9722d": {
 "file": "commencement_of_the_curia_kujo_arc.md",
@@ -1576,6 +1576,13 @@
 "key": "f09c8548c804",
 "first_seen": "2026-09-13"
 },
+"dd04484b85e0": {
+"file": "mu_jin_the_old_colleague.md",
+"check": "prose",
+"text": "three consecutive sentences over 25 words (R4-14-CHAIN_CEILING)",
+"key": "dd04484b85e0",
+"first_seen": "2026-09-29"
+},
 "6876ca5d2716": {
 "file": "the_full_match.md",
 "check": "prose",
@@ -1687,6 +1694,13 @@
 "text": "antithesis 'not X but Y': \"That is not indifference to them, it is\" (R49-40-NOT_X_Y; AI-tells §1)",
 "key": "c97aceb45309",
 "first_seen": "2026-09-26"
+},
+"a8f701e6de4d": {
+"file": "malphas_on_the_line_the_train_east.md",
+"check": "prose",
+"text": "em dashes: 1 (banned; AI-tells §1, R15-1-AI_TELL_CHECKS_SURVIVE)",
+"key": "a8f701e6de4d",
+"first_seen": "2026-09-29"
 },
 "d236137316a5": {
 "file": "rovhen_after_the_lecture.md",
@@ -1849,6 +1863,13 @@
 "key": "f0651c65a2f4",
 "first_seen": "2026-09-18"
 },
+"cb5d7c8cb558": {
+"file": "wystans_briefing_aetherion_arena.md",
+"check": "prose",
+"text": "em dashes: 1 (banned; AI-tells §1, R15-1-AI_TELL_CHECKS_SURVIVE)",
+"key": "cb5d7c8cb558",
+"first_seen": "2026-09-29"
+},
 "996ff65ada3d": {
 "file": "xanelor_dallae.md",
 "check": "prose",
@@ -1953,6 +1974,13 @@
 "text": "flat runs: 4 stretches of three sentences within 40% of each other (R4-14-RUN_RULE)",
 "key": "b55826e97a49",
 "first_seen": "2026-09-28"
+},
+"3c0b97c7b19b": {
+"file": "shioris_findings_aetherion_arena.md",
+"check": "prose",
+"text": "em dashes: 1 (banned; AI-tells §1, R15-1-AI_TELL_CHECKS_SURVIVE)",
+"key": "3c0b97c7b19b",
+"first_seen": "2026-09-29"
 },
 "f83781d52256": {
 "file": "spent_not_dead.md",

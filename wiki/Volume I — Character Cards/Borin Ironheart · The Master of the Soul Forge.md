@@ -1,15 +1,18 @@
 ---
 title: "Borin Ironheart · The Master of the Soul Forge"
 notion_id: "3b758200-eb22-81cb-900e-e420731e32cc"
-notion_url: "https://www.notion.so/3b758200eb2281cb900ee420731e32cc"
+notion_url: "https://app.notion.com/p/Borin-Ironheart-The-Master-of-the-Soul-Forge-3b758200eb2281cb900ee420731e32cc"
 section: "Volume I — Character Cards"
 tags: []
-last_edited: "2026-10-04T01:29:03"
+last_edited: "2026-10-04T05:29:00.000Z"
 verification: null
 ---
+
 # Borin Ironheart · The Master of the Soul Forge
 
-## I. IDENTITY
+## Borin Ironheart · The Master of the Soul Forge
+
+### I. IDENTITY
 
 **Say it** · BOR-in EYE-ern-hart
 **As Of:** Among the six Dawi, after the empire took Stannvaard
@@ -24,7 +27,7 @@ verification: null
 
 ---
 
-## II. SOUL ARCHITECTURE
+### II. SOUL ARCHITECTURE
 
 **Level:** 378/500 · **Level-Band:** IV — Mythic (301–400)
 **Temperance Stage:** XII — Emanation, active. Universal ceiling: 950, max Grade SSS, Tier of Standing 7, Grandmaster.
@@ -40,7 +43,7 @@ verification: null
 
 ---
 
-## III. WELLSPRING ARCHITECTURE
+### III. WELLSPRING ARCHITECTURE
 
 **Materia (Primary Family — Material Science)**
 **Fixatio** — The Binding Flame. Core Wellspring. Permanence through anchoring; what is held by Fixatio stays held. The foundation of every forging technique Borin possesses. His relationship with Fixatio is so deeply integrated that items he handles casually resist degradation for weeks after he sets them down.
@@ -60,7 +63,7 @@ verification: null
 
 ---
 
-## IV. PRIMARY STATS
+### IV. PRIMARY STATS
 
 *All values are estimates pending formal stat sheet verification against Fracture_of_Worlds.pdf. At Level 378, Stage XII Emanation, the point economy yields approximately 18,000 total allocation points. Borin is a specialist craftsman, not a combat architecture — his peaks cluster in diagnostic, endurance, and Domain stats; his valleys are in speed and burst output.*
 | **Stat** | **Value (est.)** | **Grade** | **Note** |
@@ -76,7 +79,7 @@ verification: null
 
 ---
 
-## V. SUB-STAT PEAKS
+### V. SUB-STAT PEAKS
 
 **Gnosis Diagnosis (Material):** SSS — his peak sub-stat. Composition, grain, stress via touch. The Soulwright’s Gift expressed as raw diagnostic capability.
 **Resilience Hardening:** SSS — Ironheart Trait. His Crystal lattice resists hostile intrusion the way High Dwarf stonework resists weather.
@@ -91,14 +94,14 @@ verification: null
 
 ---
 
-## VI. PHYSICAL FORCE
+### VI. PHYSICAL FORCE
 
 **Strike Force (Sustained):** SS-Grade equivalent (est. 55–200 GJ range) — Borin’s combat-relevant output is incidental to his craft. A hammer-stroke designed to reshape S-Grade alloy at the molecular level delivers force sufficient to reshape most opponents at the anatomical level. He does not train for combat. He does not need to. The forge has its own opinions about uninvited guests.
 **Lifting Strength:** SSS-Grade range (est. 100–500 billion tonnes equivalent) — Body Path primary, Dawi constitution, centuries of Basilithe-anchored forge-work. He moves anvils that were not designed to be moved by anything less than the Titan that placed them.
 
 ---
 
-## VII. AETHER FLOW
+### VII. AETHER FLOW
 
 *Estimates. Borin’s architecture is built for sustained heavy industry, not combat burst.*
 **Essence Capacity (EU Reserve):** ~180,000,000 EU (est.) — vast, reflecting centuries of Body Path accumulation and Dawi Crystal density. Borin rarely drains more than 30% in a standard forging session. The Requiem technique is the only working that has ever threatened his reserve floor.
@@ -108,7 +111,7 @@ verification: null
 
 ---
 
-## VIII. TRAITS
+### VIII. TRAITS
 
 **Primary Trait: Ironheart** (Tier 3 — Territorial/Domain Law)
 Unyielding structural resilience of body and soul. Ironheart is a High Dwarf geometric inheritance amplified by Borin’s personal doctrine of permanence. At Tier 3, Ironheart has become local physics within his Domain: spiritual corruption that enters the Adamant Forge’s radius hits geometric lattice resistance proportional to Borin’s Resilience Hardening — SSS-Grade. Hostile intrusion shatters. His will, once set, does not bend. This is an advantage when he is right and a limitation when he is wrong, and he is aware of both.
@@ -119,7 +122,7 @@ Any relic, artifact, or repaired Crystal that passed through the Soul Forge carr
 
 ---
 
-## IX. DOMAIN
+### IX. DOMAIN
 
 **Domain Name:** The Adamant Forge
 **Domain Stage:** Stabilized, radiating (Stage XII Emanation — passive environmental effects without deliberate activation)
@@ -129,7 +132,7 @@ Any relic, artifact, or repaired Crystal that passed through the Soul Forge carr
 
 ---
 
-## X. TECHNIQUES
+### X. TECHNIQUES
 
 **Ability: Permanence** — Root phenomenon. Every technique Borin possesses is an expression of the principle that things can be made to last, and that lasting is worth the cost of making.
 **Disciplines:**
@@ -140,46 +143,43 @@ Any relic, artifact, or repaired Crystal that passed through the Soul Forge carr
 
 ---
 
-**Technique: Anvil of Aeons** (Signature) 
+**Technique: Anvil of Aeons** (Signature)
 **Wellsprings:** Fixatio + Coagulatio + Materia Primordia / **Trigger:** Deliberate invocation within physical forge proximity; sustained contact with worked material; Latin incantation spoken over the anvil face.
 **Function:** Establishes a Fixatio-Coagulatio field over the forge surface; anything tempered within resists metaphysical degradation proportional to time invested.
-
 **Mechanism:** Materia Primordia reads the material’s original crystalline grain and optimal configuration → Coagulatio gathers dispersed Essence into that configuration → Fixatio locks the pattern with covalent-equivalent metaphysical cross-linking.
-
-**Numerical Effect:** Items forged under Anvil of Aeons resist spiritual degradation on a scale of centuries to millennia; structural integrity grade of the finished piece exceeds source material grade by one to two brackets 
-
+**Numerical Effect:** Items forged under Anvil of Aeons resist spiritual degradation on a scale of centuries to millennia; structural integrity grade of the finished piece exceeds source material grade by one to two brackets
 **Target Response:** Worked material’s Essence architecture stabilizes at its most structurally sound configuration.
-**Cost:** Massive EU drain per hour of sustained forging, proportional to item complexity; Borin typically works 16-hour forge sessions and sleeps for two full days afterward 
+**Cost:** Massive EU drain per hour of sustained forging, proportional to item complexity; Borin typically works 16-hour forge sessions and sleeps for two full days afterward
 **Counterplay:** The forge cannot improve what is not brought to it. Hostile materials or souls that resist the process produce dangerous thermal feedback. Errors forged under Anvil of Aeons are permanent errors — the Fixatio binding does not distinguish between the intended pattern and the mistake.
-**Technique: Breath of the Forge-Father** (Signature) 
- **Wellsprings:** Exuroth + Coagula + Basilithe 
-**Trigger:** Ritualistic invocation; requires subject’s consent and physical contact between subject and forge-fire; minimum eight-hour preparation 
-**Function:** Burns away corruption, madness, or fractures in a damaged Soul Crystal by superheating the Crystal’s grain boundaries and allowing Coagula to regather along clean structural lines 
-**Mechanism:** Exuroth quench-temper cycle applied to Soul Crystal lattice — martensitic hardening followed by controlled recovery, repeated until the lattice arrives at a configuration denser and tougher than the original. Coagula gathers scattered fragments. Basilithe locks the patient’s frequency against re-corruption during the process 
-**Numerical Effect:** Can repair Crystal Fracture Events up to SSS-Grade severity if sufficient spiritual core remains intact 
-**Target Response:** Damaged Crystal stabilizes; corruption burns off as thermal waste vented through the Forge’s chimney system 
-**Cost:** Extreme EU drain. Borin absorbs a portion of the corruption through direct contact, requiring recovery time proportional to severity. Each use leaves trace contamination in his own Crystal — the Grief-Seams are partly this. 
+**Technique: Breath of the Forge-Father** (Signature)
+**Wellsprings:** Exuroth + Coagula + Basilithe
+**Trigger:** Ritualistic invocation; requires subject’s consent and physical contact between subject and forge-fire; minimum eight-hour preparation
+**Function:** Burns away corruption, madness, or fractures in a damaged Soul Crystal by superheating the Crystal’s grain boundaries and allowing Coagula to regather along clean structural lines
+**Mechanism:** Exuroth quench-temper cycle applied to Soul Crystal lattice — martensitic hardening followed by controlled recovery, repeated until the lattice arrives at a configuration denser and tougher than the original. Coagula gathers scattered fragments. Basilithe locks the patient’s frequency against re-corruption during the process
+**Numerical Effect:** Can repair Crystal Fracture Events up to SSS-Grade severity if sufficient spiritual core remains intact
+**Target Response:** Damaged Crystal stabilizes; corruption burns off as thermal waste vented through the Forge’s chimney system
+**Cost:** Extreme EU drain. Borin absorbs a portion of the corruption through direct contact, requiring recovery time proportional to severity. Each use leaves trace contamination in his own Crystal — the Grief-Seams are partly this.
 **Counterplay:** Requires enough intact Crystal structure to rebuild from; total Crystal dissolution is beyond repair. The patient’s own Obsession Force can actively resist the process. A soul that does not recognize itself as broken will reject the treatment entirely.
-**Technique: The Binding of Iron Oaths** 
-**Wellsprings:** Coagula + Fixatio + Tarturon 
-**Trigger:** Formal ceremonial invocation within the Soul Forge Domain; both oath-parties present and willing; spoken terms in Lattice Tongue 
-**Function:** Forges a metaphysical oath into the Soul Crystal architecture of both parties, with Tarturon-enforced consequence for betrayal 
-**Mechanism:** Coagula binds the oath’s terms into both parties’ Attraction Layer as a resonance signature → Fixatio locks the binding as a permanent Crystal feature → Tarturon’s ordeal-architecture installs consequence proportional to breach severity 
-**Numerical Effect:** Oath-bound stats receive modest stability bonus (~5–10% Resilience ceiling); betrayal triggers Tarturon-governed Crystal degradation scaling with the severity and deliberateness of the breach 
-**Cost:** Both parties forfeit a small portion of their Resilience ceiling for the oath’s duration; Borin pays the heaviest portion as guarantor 
+**Technique: The Binding of Iron Oaths**
+**Wellsprings:** Coagula + Fixatio + Tarturon
+**Trigger:** Formal ceremonial invocation within the Soul Forge Domain; both oath-parties present and willing; spoken terms in Lattice Tongue
+**Function:** Forges a metaphysical oath into the Soul Crystal architecture of both parties, with Tarturon-enforced consequence for betrayal
+**Mechanism:** Coagula binds the oath’s terms into both parties’ Attraction Layer as a resonance signature → Fixatio locks the binding as a permanent Crystal feature → Tarturon’s ordeal-architecture installs consequence proportional to breach severity
+**Numerical Effect:** Oath-bound stats receive modest stability bonus (~5–10% Resilience ceiling); betrayal triggers Tarturon-governed Crystal degradation scaling with the severity and deliberateness of the breach
+**Cost:** Both parties forfeit a small portion of their Resilience ceiling for the oath’s duration; Borin pays the heaviest portion as guarantor
 **Counterplay:** Requires genuine consent — coerced oaths produce unstable bindings that degrade within months. A practitioner with Resilience Integrity exceeding Borin’s Fixatio can break the oath through raw spiritual authority, though the Tarturon consequence still fires on the breaker.
-**Technique: Adamant Requiem** (Signature — Restricted) 
-**Wellsprings:** Coagula + Monolithion + Fixatio 
-**Trigger:** Extended ritual (minimum three days); requires collected soul-fragments and a suitable physical vessel (construct body or relic-grade housing); Latin liturgy spoken continuously through the final binding phase 
-**Function:** Rebinds a fragmented soul into a construct body or relic vessel, granting renewed purpose and physical permanence 
+**Technique: Adamant Requiem** (Signature — Restricted)
+**Wellsprings:** Coagula + Monolithion + Fixatio
+**Trigger:** Extended ritual (minimum three days); requires collected soul-fragments and a suitable physical vessel (construct body or relic-grade housing); Latin liturgy spoken continuously through the final binding phase
+**Function:** Rebinds a fragmented soul into a construct body or relic vessel, granting renewed purpose and physical permanence
 **Mechanism:** Coagula gathers scattered soul-fragments from wherever they dispersed → Monolithion provides the legacy-structure template (the monument remembers the shape the soul held at its peak) → Fixatio locks the reconstruction into the new vessel as a thermoset cure — irreversible once complete
-**Numerical Effect:** Construct operates at approximately 60–70% of the original soul’s capability; Resilience artificially elevated by the construct body; Harmonics artificially suppressed 
-**Cost:** Borin forfeits a permanent portion of his own EU Reserve for each Requiem performed. He has done this seven times. Each one took something from him that did not grow back. His maximum EU Reserve was higher before the first. 
+**Numerical Effect:** Construct operates at approximately 60–70% of the original soul’s capability; Resilience artificially elevated by the construct body; Harmonics artificially suppressed
+**Cost:** Borin forfeits a permanent portion of his own EU Reserve for each Requiem performed. He has done this seven times. Each one took something from him that did not grow back. His maximum EU Reserve was higher before the first.
 **Counterplay:** The rebuilt soul is not the original. It carries the original’s memory and doctrine but lacks genuine autonomy in areas where soul-fragments were missing — a Requiem construct will repeat its former self rather than grow past it, unless the missing fragments are later recovered. A practitioner capable of reading legacy-structure (Monolithion-attuned) can identify a Requiem construct on sight.
 
 ---
 
-## XI. SPIRIT AXES
+### XI. SPIRIT AXES
 
 **Thurgan Ashmantle** (dead, former apprentice) — Weight: Absolute, foundational. The one he could not save. The Dissonance catalyst. Borin does not speak Thurgan’s name in the Forge.
 **The Seven Requiem Constructs** (bound, operational) — Weight: Heavy, paternal. Each one cost him a permanent slice of himself. He checks on them the way a father checks on children who left home.
@@ -187,7 +187,7 @@ Any relic, artifact, or repaired Crystal that passed through the Soul Forge carr
 
 ---
 
-## XII. RESISTANCES
+### XII. RESISTANCES
 
 **Spiritual corruption resistance:** SSS-Grade structural, via Ironheart Trait and Basilithe-locked frequency. Hostile Essence intrusion meets geometric lattice resistance. The most corruption-resistant Crystal architecture outside of the Deepkin’s Void-scarred variants.
 **Petrification immunity:** Specific and hard-earned. Borin’s familiarity with Materia’s terminal corruption (Petrification Compulsion) — having watched it consume Thurgan — produced a targeted immune response in his own Crystal.
@@ -195,7 +195,7 @@ Any relic, artifact, or repaired Crystal that passed through the Soul Forge carr
 
 ---
 
-## XIII. PHYSICAL DESCRIPTION
+### XIII. PHYSICAL DESCRIPTION
 
 Stocky in the way that implies the skeleton underneath is wider than the flesh suggests, barrel-chested and heavy through the trunk with arms that hang at a slight bow from decades of holding weight at the anvil face. He stands perhaps four foot nine and occupies the space of someone six inches taller. Ruddy complexion, a permanent flush across the bridge of his nose and cheekbones — the kind of color that comes from standing near extreme heat for longer than skin should tolerate, baked in so deep it reads as natural coloring rather than burn. His skin has a faintly mineral quality in direct light, the Stoneblood heritage visible as a subtle granular texture across his forearms and knuckles.
 His hair is dark, iron-grey streaking through black, pulled back from a broad low forehead in functional braids that keep nothing near his eyes or the forge-fire. The beard is the main event: charcoal-black shot through with grey, thick enough to insulate a chimney, braided into three main trunks bound with adamant rings etched in geometric Parun glyphs of endurance. The rings are old. The beard is older. He trims nothing. Length is a record of time served.
@@ -205,7 +205,7 @@ He carries a forge-hammer on a shaft taller than he is — a cruciform head of s
 
 ---
 
-## XIV. PSYCHOLOGY
+### XIV. PSYCHOLOGY
 
 **Desire:** To make things that outlast the hands that made them. To ensure that permanence — of craft, of oath, of repaired soul — remains possible in a world that trends toward entropy.
 **Loop:** He will diagnose what is broken in a person, an object, or an institution with perfect clarity, commit to fixing it, and discover too late that some breaks are load-bearing — that the fracture was holding the two halves in a relationship he destroyed by making them whole again.
@@ -216,7 +216,7 @@ He carries a forge-hammer on a shaft taller than he is — a cruciform head of s
 
 ---
 
-## XV. EQUIPMENT
+### XV. EQUIPMENT
 
 1. **Item:** Ur-Maul ("the walking stick") / **Type:** Forge-hammer, cruciform head, 2.1m shaft / **Wellspring:** Fixatio + Monolithion / **Effect:** Forged by Borin at Stage X. The striking faces carry permanent Fixatio resonance — a blow from Ur-Maul locks whatever it strikes in its current state for the duration of the resonance decay (seconds in combat, hours on a forge surface). Not a weapon by design. Functions as one by accident.
 1. **Item:** Gauntlets of the Forgewright / **Type:** Adamant-alloy articulated gauntlets, Parun-inscribed / **Wellspring:** Fixatio + Coagula + Judicium / **Effect:** Channel Essence directly into forging processes without intermediate tools. Amplify Gnosis Diagnosis (Material) by direct skin-to-material contact through inscribed geometric conductor paths. He has worn them so long the inscription patterns have left permanent marks on his forearms.
@@ -225,7 +225,7 @@ He carries a forge-hammer on a shaft taller than he is — a cruciform head of s
 
 ---
 
-### Voice
+#### Voice
 
 **Notices first** · The material. His hands read a thing before his eyes do, and a blade, a beast or a man gets the same reading: what it is made of, where it will fail, and what it could become in the right hands.
 **Sentence length** · Short at the bench and in anything sworn: one word to close a job, three facts set down one after another like stones in a wall. Off the work he runs medium and warm on a single metalwork analogy, and even in Common his lines fall into the matched halves of the Varun metre.
@@ -239,7 +239,7 @@ He carries a forge-hammer on a shaft taller than he is — a cruciform head of s
 **In joy** · A terrible joke, and he laughs before the punchline lands. His hands go flat and still on the finished piece, and the forge runs warm and even.
 **Sample line** · "My hammer. My forge. My hands. Yours. Until the work is done or the metal breaks, and the metal does not break."
 
-## XVI. TEMPERANCE RECORD
+### XVI. TEMPERANCE RECORD
 
 **Stages I–IV:** Achieved within the Stonehearth Hold training forges, under the instruction of the Geometric Architects. Unremarkable by High Dwarf standards except for the speed of passage — Borin cleared Flourishing forty years ahead of his cohort, not through talent but through the simple fact that he spent more hours at the anvil than anyone else and the Crystal recorded every one.
 **Stages V–VII:** The Splintering came when Borin first attempted soul-repair on a living subject (a mine-collapse survivor with catastrophic Crystal fragmentation) and succeeded, at the cost of three months bedridden and a permanent Grief-Seam in his own lattice. Refraction (VII) was the hardest — High Dwarf geometric architecture resists self-perception with particular stubbornness, and Borin spent decades at the threshold before he managed to look at his own Crystal from outside and see the Forge’s reflection looking back.
@@ -249,7 +249,7 @@ He carries a forge-hammer on a shaft taller than he is — a cruciform head of s
 
 ---
 
-## XVII. FRACTURE LOG
+### XVII. FRACTURE LOG
 
 **Grief-Seam One:** First soul-repair attempt, Stage V catalyst. Permanent. Conducts Coagula resonance 15% more efficiently than surrounding lattice.
 **Grief-Seams Two through Seven:** One per Requiem performed. Permanent. Each conducts residual emotional resonance from the bound soul — Borin occasionally experiences brief flashes of memory or sensation belonging to the seven constructs he has built. He considers this fair.
@@ -258,7 +258,7 @@ He carries a forge-hammer on a shaft taller than he is — a cruciform head of s
 
 ---
 
-### Lore · The Life Behind the Card
+#### Lore · The Life Behind the Card
 
 *Written 2026-09-24 by the character-lore pass from this card, the twelve archived scenes it appears in, and the record of The Kōkan expedition's hands. What those sources do not state is new here.*
 

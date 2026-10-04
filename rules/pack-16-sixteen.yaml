@@ -409,7 +409,10 @@ rules:
     source:
       file: WOTR_Companion_Guide_Amendments_Pack_Sixteen.md
       lines: "119"
-    notes: null
+    notes: >-
+      Stands, confirmed by R70-28-TRADE_SCIENCE_WORDS (style law 2026-10-03):
+      the floor of four WOTR terms and two real science or anatomy terms
+      holds.
 
   - id: R16-8-CHECK31
     pack: Pack Sixteen
@@ -489,7 +492,10 @@ rules:
     source:
       file: WOTR_Companion_Guide_Amendments_Pack_Sixteen.md
       lines: "125"
-    notes: null
+    notes: >-
+      Eased by R70-38-REASONING_SHOWS (style law 2026-10-03) where a reasoning
+      POV sets thinking out as numbered steps, risk lists or tests in italic
+      thought; no new figure is set for the cap.
 
   - id: R16-9-STANDING_TASK
     pack: Pack Sixteen

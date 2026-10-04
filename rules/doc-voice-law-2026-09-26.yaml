@@ -61,7 +61,10 @@ rules:
     lines: null
   notes: 'Question c02: What mostly makes a voice? The live rule says what a person notices, wants and
     refuses, not vocabulary fences. But the newer rules put the sound back: magic is talked about by training
-    (a Measurewrigh'
+    (a Measurewrigh Stands; R70-108-EASTERN_REGISTER_SPEECH_SOUNDS (style law 2026-10-03) adds that Chinese
+    and Korean speakers talk natural English day to day and come out in translated forms (self-reference,
+    set formulas, idioms word for word) at ceremony, challenge, oath, court and insult, the shift itself
+    a beat.'
 - id: R52-03-VOICE_BLOCK
   pack: Voice Law 2026-09-26
   pack_number: null
@@ -93,7 +96,9 @@ rules:
     row, Kujo and Ilthara have no card voice at all. Disfluency and gloss rights are already card fields.
     Should every maj Corrected 2026-09-27 by the ruling audit (RULINGS.md, ruling-audit-2026-09-27) to
     state exactly what Isaac chose. Gloss rights is not a voice-block slot, but it stays a separate card
-    field (R20C-49-GLOSS_RIGHTS_CARD_FIELD).'
+    field (R20C-49-GLOSS_RIGHTS_CARD_FIELD). Unchanged by R70-108-EASTERN_REGISTER_SPEECH_SOUNDS (style
+    law 2026-10-03), which keeps Chinese and Korean speakers in natural English day to day and brings
+    out translated forms only at ceremony, challenge, oath, court and insult.'
 - id: R52-04-CONTRACTIONS
   pack: Voice Law 2026-09-26
   pack_number: null
@@ -149,7 +154,12 @@ rules:
     lines: null
   notes: 'Question c05: Many mouths count out loud: Lambert''s eleven years, Sesk''s five hundred and
     ninety-one, Maren''s count in the yard, Verinus counting the dead back, Ilthara''s eleven months and
-    eleven counts. "Eleven" i'
+    eleven counts. "Eleven" i Read with R70-78-WHERE_SCREEN_COMES_FROM (style law 2026-10-03): a practitioner
+    reading his own Crystal lines counts his own exact figures; another''s still come from an instrument.
+    Confirmed in part by R70-79-CAN_READ_WHOM (style law 2026-10-03): practitioners feel Band and rough
+    Stage, but another''s exact figures still need an instrument. Partly amended by R70-93-BUILD_TALK_DIALOGUE
+    (style law 2026-10-03): R52-05 widens: any ranked practitioner may speak exact figures and argue builds;
+    commoners still round.'
 - id: R52-06-TRIADS
   pack: Voice Law 2026-09-26
   pack_number: null
@@ -399,7 +409,9 @@ rules:
     lines: null
   notes: 'Question c14: An older rule says Sodoku does not make jokes and should not start. The newer
     humour rule says funny characters are funny often and tone flexes with the cast. Does Sodoku ever
-    make a joke?'
+    make a joke? Stands; no carded Moto, Sodoku least of all, takes a comic byname (R70-125-PEOPLES_EASTERN_STRATA,
+    style law 2026-10-03). His humour is Isaac''s to play: R70-113-DOUBLE_ACT_COMIC_BEAT''s full comic
+    beats belong only to voices carded as comic, and no beat is written for him (R49-01-WHOSE_HEAD).'
 - id: R52-15-HILD
   pack: Voice Law 2026-09-26
   pack_number: null
@@ -730,7 +742,9 @@ rules:
     lines: null
   notes: 'Question c26: Nothing decides how grief changes a voice, as distinct from stress. Examples on
     the page: Verinus counting the dead back aloud, Lambert''s three days behind a closed door, Hild smaller
-    and asking quest'
+    and asking quest Stands; R70-115-TEARS_SENTIMENT (style law 2026-10-03) adds the delayed break: restraint
+    holds through the big moment and gives way, fully and openly, at a small unexpected thing, once per
+    character per arc.'
 - id: R52-27-JOY
   pack: Voice Law 2026-09-26
   pack_number: null
@@ -755,7 +769,8 @@ rules:
     file: ''
     lines: null
   notes: 'Question c27: The cast is guarded, and nothing says what a guarded voice sounds like when it''s
-    happy. What''s the default?'
+    happy. What''s the default? Stands; R70-114-GRIMDARK_WARMTH (style law 2026-10-03) lets joy get scenes
+    of its own, and R70-115-TEARS_SENTIMENT''s delayed break leaves this rule unchanged.'
 - id: R52-28-COMPOSURE
   pack: Voice Law 2026-09-26
   pack_number: null
@@ -784,7 +799,9 @@ rules:
     lines: null
   notes: 'Question c28: The live rule says staying composed under stress is an expensive discipline, and
     the scene must show the price. Much of the cast is composed by nature (Lambert''s evenness "is architecture",
-    the Eladri'
+    the Eladri Stands; under R70-115-TEARS_SENTIMENT (style law 2026-10-03) a guarded character''s restraint
+    holds through the big moment and may give way at a small unexpected thing, once per character per
+    arc.'
 - id: R52-29-NPC_RECIPE
   pack: Voice Law 2026-09-26
   pack_number: null
@@ -840,7 +857,11 @@ rules:
     lines: null
   notes: 'Question c30: The NPC builder gives every NPC one fixed saying from the Standing Inventory,
     and Kharven scenes need at least two Inventory recurrences each. Proverbs pile up in every mouth.
-    Should every NPC carry o'
+    Should every NPC carry o Noted by R70-65-SET_IDIOMS_NARRATION (style law 2026-10-03): each Inventory
+    gains four-beat idioms, told once by an elder and then used bare in narration or speech; the one fixed
+    saying per NPC stands. Partly amended by R70-109-PROVERBS_SPEECH (style law 2026-10-03): ''one'' becomes
+    ''several'' for elders, headmen and court speakers, who may argue in sayings at bargain, quarrel and
+    council; the young speak plain, and a youth who quotes above his years is put down for it.'
 - id: R52-31-COMIC_NPC
   pack: Voice Law 2026-09-26
   pack_number: null
@@ -868,7 +889,11 @@ rules:
     lines: null
   notes: 'Question c31: The funeral test is dropped for characters whose humour is their voice. The NPC
     builder still says a minor NPC is funny only if the funeral test passes. Can the partner invent a
-    comic minor NPC?'
+    comic minor NPC? Partly amended by R70-113-DOUBLE_ACT_COMIC_BEAT (style law 2026-10-03): a comic NPC
+    whose card names him a comic voice may play full comic beats, retort and reaction included. Read with
+    R70-122-MAY_CARRY_ONE (recurring minor NPCs may keep comic names; villains and rivals may carry one)
+    and R70-130-WALK_ONS_WITH_COMIC (a walk-on may be named at once only by a nickname in someone else''s
+    mouth).'
 - id: R52-32-ROOM_CAST
   pack: Voice Law 2026-09-26
   pack_number: null

@@ -1,0 +1,306 @@
+[
+ {
+  "old_id": "R49-52-MEASURES",
+  "action": "note",
+  "by": "R70-78-WHERE_SCREEN_COMES_FROM",
+  "r70_quote": "The bearer reads his own Soul Crystal as plain, voiceless lines at thresholds: his own sheet only, exact",
+  "old_text": "Measures: \"Narration measures in the POV's own units; exact minutes and figures come from a trained eye, an instrument, or the notes.\"",
+  "note_text": "Read with R70-78-WHERE_SCREEN_COMES_FROM (style law 2026-10-03): the bearer's own Soul Crystal is a further source of exact figures, for his own sheet only."
+ },
+ {
+  "old_id": "R52-05-COUNTING",
+  "action": "note",
+  "by": "R70-78-WHERE_SCREEN_COMES_FROM",
+  "r70_quote": "his own sheet only, exact, and blind to wounds and to others",
+  "old_text": "Counting: \"Exact-number speech belongs to its owners: Lambert, the Measurewrights, clerks and anyone reading an instrument count; everyone else rounds, guesses or...\"",
+  "note_text": "Read with R70-78-WHERE_SCREEN_COMES_FROM (style law 2026-10-03): a practitioner reading his own Crystal lines counts his own exact figures; another's still come from an instrument."
+ },
+ {
+  "old_id": "R12-5-NEVER_INVENT_NUMBER",
+  "action": "note",
+  "by": "R70-78-WHERE_SCREEN_COMES_FROM",
+  "r70_quote": "his own sheet only, exact",
+  "old_text": "A number is never invented: \"Never invent a number. Unchanged and absolute. Every value checked against source. Unspecified means flagged as estimate.\"",
+  "note_text": "Read with R70-78-WHERE_SCREEN_COMES_FROM (style law 2026-10-03): Crystal lines show the bearer's own sheet, so every figure in them is still checked against source."
+ },
+ {
+  "old_id": "R53-14-FOLK_KNOWLEDGE",
+  "action": "note",
+  "by": "R70-79-CAN_READ_WHOM",
+  "r70_quote": "commoners keep their folk words and their awe",
+  "old_text": "Folk Knowledge: \"Ordinary people know the rough ladder: there are ranks, silver tokens are feared, Pressure is felt as dread; they could not name a Stage and use folk words.\"",
+  "note_text": "Confirmed by R70-79-CAN_READ_WHOM (style law 2026-10-03): commoners keep their folk words and their awe while practitioners feel rank."
+ },
+ {
+  "old_id": "R52-05-COUNTING",
+  "action": "note",
+  "by": "R70-79-CAN_READ_WHOM",
+  "r70_quote": "Another's exact figures need an instrument",
+  "old_text": "Counting: \"Exact-number speech belongs to its owners: Lambert, the Measurewrights, clerks and anyone reading an instrument count; everyone else rounds, guesses or...\"",
+  "note_text": "Confirmed in part by R70-79-CAN_READ_WHOM (style law 2026-10-03): practitioners feel Band and rough Stage, but another's exact figures still need an instrument."
+ },
+ {
+  "old_id": "R49-52-MEASURES",
+  "action": "note",
+  "by": "R70-79-CAN_READ_WHOM",
+  "r70_quote": "Any practitioner feels his own Grades and Stage, and another's Band and rough Stage, with Gnosis setting how close.",
+  "old_text": "Measures: \"Narration measures in the POV's own units; exact minutes and figures come from a trained eye, an instrument, or the notes.\"",
+  "note_text": "Read with R70-79-CAN_READ_WHOM (style law 2026-10-03): a practitioner feels his own Grades and Stage but only another's Band and rough Stage, and another's exact figures still need an instrument."
+ },
+ {
+  "old_id": "R5-F-LIGHT_NOVEL_NOT_KEPT",
+  "action": "note",
+  "by": "R70-80-READOUT_SITS_PAGE",
+  "r70_quote": "Figures inline by default; a set-off block only at a re-assay that moves something, a breakthrough or an arc's end.",
+  "old_text": "What the light novel does not keep: \"- Status screens, panels, HUD-style rendering. Already banned; restated because the light-novel framing invites them back. - Narrator explanation of the...\"",
+  "note_text": "Already superseded by R51-16-OLD_BANS_FALL. Its status-screen clause is now answered in words by R70-80-READOUT_SITS_PAGE (style law 2026-10-03): figures inline by default, a set-off block only at a re-assay that moves something, a breakthrough or an arc's end."
+ },
+ {
+  "old_id": "R51-16-OLD_BANS_FALL",
+  "action": "note",
+  "by": "R70-80-READOUT_SITS_PAGE",
+  "r70_quote": "Figures inline by default; a set-off block only at a re-assay that moves something, a breakthrough or an arc's end.",
+  "old_text": "Old Bans Fall: \"All older limits on stat names, Sub-Stat names, Guild words and sheet vocabulary in narration fall; they are free in narration.\"",
+  "note_text": "Read with R70-80-READOUT_SITS_PAGE (style law 2026-10-03): this row freed the words; R70-80 rules the form figures take on the page."
+ },
+ {
+  "old_id": "R48-07-WHITE_SPACE",
+  "action": "note",
+  "by": "R70-80-READOUT_SITS_PAGE",
+  "r70_quote": "Blocks become events, rare enough to land.",
+  "old_text": "White space: \"Steady paragraphs: medium paragraphs, white space used sparingly so it still means something.\"",
+  "note_text": "Read with R70-80-READOUT_SITS_PAGE (style law 2026-10-03): set-off readout blocks are rare milestone events, so white space keeps its meaning."
+ },
+ {
+  "old_id": "R51-33-DOC_REGISTER",
+  "action": "note",
+  "by": "R70-81-VOICE_READOUT",
+  "r70_quote": "The instrument stays clinical, and any wit lives in the clerk's or Measurewright's note beside it.",
+  "old_text": "Doc Register: \"In-world documents keep a house style per institution: Accord chancery formal and Latinate, the Dawi Tally terse entries, Moto records in the old register...\"",
+  "note_text": "Extended by R70-81-VOICE_READOUT (style law 2026-10-03): an instrument's readout keeps a clinical house style, and wit goes in the clerk's or Measurewright's note."
+ },
+ {
+  "old_id": "R5-D-HUMOUR_BARRED",
+  "action": "note",
+  "by": "R70-81-VOICE_READOUT",
+  "r70_quote": "Humour stays in a person, never in the readout, and R5-D stands.",
+  "old_text": "Humour never gets its own setup/deadpan/reaction rhythm: \"Barred: the beat structure of setup, deadpan and reaction. Humour no longer gets its own rhythm. It arrives inside dialogue and narration already in...\"",
+  "note_text": "Confirmed by R70-81-VOICE_READOUT (style law 2026-10-03): R5-D stands, and a readout never carries humour."
+ },
+ {
+  "old_id": "R5-D-HUMOUR_PERMITTED",
+  "action": "note",
+  "by": "R70-81-VOICE_READOUT",
+  "r70_quote": "Humour stays in a person, never in the readout, and R5-D stands.",
+  "old_text": "Humour is a character property, not a tone exception: \"Permitted: dry understatement, gallows wit from people whose profession earns it, class-inflected contempt, a character being funny without knowing it, and...\"",
+  "note_text": "Confirmed by R70-81-VOICE_READOUT (style law 2026-10-03): R5-D stands; humour stays a property of people, never of a readout."
+ },
+ {
+  "old_id": "R47-7-NAMES_NOT_NUMBERS",
+  "action": "note",
+  "by": "R70-82-NUMERALS_LADDER_RUNGS",
+  "r70_quote": "'Stage V, Splintering' and 'Band II, Awakened', as FOW writes them. Tiers of Standing and item Tiers keep their names alone. R47-7 is amended.",
+  "old_text": "Tiers and rungs by name, never by number: \"Tiers of standing and ladder rungs are written by name only, never as numbers.\"",
+  "note_text": "Partly amended by R70-82-NUMERALS_LADDER_RUNGS (style law 2026-10-03): Stages and Bands may carry the numeral beside the name; Tiers of Standing and item Tiers stay names only."
+ },
+ {
+  "old_id": "R14-4-SUBSTAT_DIAGNOSTIC_ONLY",
+  "action": "supersede",
+  "by": "R70-83-FIGURES_PLAIN_NARRATION",
+  "r70_quote": "R14-4-SUBSTAT retires",
+  "old_text": "Sub-Stat names are reserved to a faculty reading: \"Sub-Stat names are diagnostic-only. They are the finest grain the system has and they are exactly the words a faculty reading uses. Nobody else reaches for...\"",
+  "note_text": "Superseded by R70-83-FIGURES_PLAIN_NARRATION (style law 2026-10-03): 'R14-4-SUBSTAT retires'; Sub-Stat names are free under R51-16, and figures in narration follow R70-83 (the figures the POV holds)."
+ },
+ {
+  "old_id": "R49-47-STAT_WORDS",
+  "action": "note",
+  "by": "R70-83-FIGURES_PLAIN_NARRATION",
+  "r70_quote": "Narration states the figures the POV holds: his own last reading, the card he has seen, what he was told. R49-52 governs R49-47",
+  "old_text": "Stat words: \"All free: narration may state stat names, Grades, Stages, eta, EU figures and Guild words on its own authority.\"",
+  "note_text": "Partly amended by R70-83-FIGURES_PLAIN_NARRATION (style law 2026-10-03): R49-52 governs this row; stat names stay free, but narration states on its own authority only the figures the POV holds."
+ },
+ {
+  "old_id": "R49-52-MEASURES",
+  "action": "note",
+  "by": "R70-83-FIGURES_PLAIN_NARRATION",
+  "r70_quote": "R49-52 governs R49-47",
+  "old_text": "Measures: \"Narration measures in the POV's own units; exact minutes and figures come from a trained eye, an instrument, or the notes.\"",
+  "note_text": "Given priority by R70-83-FIGURES_PLAIN_NARRATION (style law 2026-10-03): this row governs R49-47-STAT_WORDS: narration states the figures the POV holds (his last reading, a card he has seen, what he was told)."
+ },
+ {
+  "old_id": "R48-16-REAL_FIGURES",
+  "action": "note",
+  "by": "R70-85-SCENE_MOMENTS_THAT_EARN",
+  "r70_quote": "Not taken: Pressure.",
+  "old_text": "Real figures: \"Real figures appear whenever measured: anyone with an instrument or trained eye states figures as often as they would.\"",
+  "note_text": "Read with R70-85-SCENE_MOMENTS_THAT_EARN (style law 2026-10-03): in-scene readouts come at an appraisal, a wound and Essence spent, never at Pressure."
+ },
+ {
+  "old_id": "R53-14-FOLK_KNOWLEDGE",
+  "action": "note",
+  "by": "R70-85-SCENE_MOMENTS_THAT_EARN",
+  "r70_quote": "Not taken: Pressure.",
+  "old_text": "Folk Knowledge: \"Ordinary people know the rough ladder: there are ranks, silver tokens are feared, Pressure is felt as dread; they could not name a Stage and use folk words.\"",
+  "note_text": "Confirmed by R70-85-SCENE_MOMENTS_THAT_EARN (style law 2026-10-03): Pressure gets no readout and stays felt as dread."
+ },
+ {
+  "old_id": "R60-03-HARD_RESERVE_CLOCK",
+  "action": "note",
+  "by": "R70-85-SCENE_MOMENTS_THAT_EARN",
+  "r70_quote": "A reserve line after a working: what was drawn and what is left. R60-03's hard reserve clock made visible",
+  "old_text": "Hard Reserve Clock: \"Essence and stamina run on a hard clock by the Ledger's numbers; long fights are won by whoever manages the reserve; Starvation hits mid-fight on overspend.\"",
+  "note_text": "Read with R70-85-SCENE_MOMENTS_THAT_EARN (style law 2026-10-03): a reserve line after a working shows this clock on the page."
+ },
+ {
+  "old_id": "R48-16-REAL_FIGURES",
+  "action": "note",
+  "by": "R70-86-MANY_READOUTS_SCENE_CARRIES",
+  "r70_quote": "Up to three per scene, on R48-20's rhythm; a roleplay turn carries two at most, never two in one exchange.",
+  "old_text": "Real figures: \"Real figures appear whenever measured: anyone with an instrument or trained eye states figures as often as they would.\"",
+  "note_text": "Read with R70-86-MANY_READOUTS_SCENE_CARRIES (style law 2026-10-03): readouts are capped at three a scene and two a roleplay turn; the cap names readouts, not figures in a mouth."
+ },
+ {
+  "old_id": "R48-20-STRATA",
+  "action": "note",
+  "by": "R70-86-MANY_READOUTS_SCENE_CARRIES",
+  "r70_quote": "Up to three per scene, on R48-20's rhythm",
+  "old_text": "Strata: \"The three-layer account (Aether, Wellspring, Essence) shows at a working's first display and at the finisher; lighter touches between.\"",
+  "note_text": "Read with R70-86-MANY_READOUTS_SCENE_CARRIES (style law 2026-10-03): readouts ride this row's display-and-finisher rhythm, plus an aftermath."
+ },
+ {
+  "old_id": "R12-4-VOICE_MIXING_RULE",
+  "action": "note",
+  "by": "R70-87-READOUTS_TWO_VOICE_CAP",
+  "r70_quote": "A readout states figures and explains nothing, so it never counts; two voices still do the explaining",
+  "old_text": "Mix the four explaining voices; at most two per engagement: \"Confirmed by Isaac's ruling: mix, whoever is in the scene. Four carriers. Pick per scene. Do not run more than two in one engagement.\"",
+  "note_text": "Read with R70-87-READOUTS_TWO_VOICE_CAP (style law 2026-10-03): the two-voice cap stands, and a readout never counts toward it."
+ },
+ {
+  "old_id": "R14-6-CHECK29",
+  "action": "note",
+  "by": "R70-88-NUMBERS_INSIDE_FIGHT",
+  "r70_quote": "no running figures. The genre's sizing-up without a log.",
+  "old_text": "Check 29, The loadout: \"Check 29, the loadout. The author notes contain a Stat Ledger for every named practitioner (§7) or the run fails.\"",
+  "note_text": "Confirmed by R70-88-NUMBERS_INSIDE_FIGHT (style law 2026-10-03): running figures inside a fight stay in the Stat Ledger in the notes."
+ },
+ {
+  "old_id": "R60-03-HARD_RESERVE_CLOCK",
+  "action": "note",
+  "by": "R70-88-NUMBERS_INSIDE_FIGHT",
+  "r70_quote": "The POV's read names Grades and gaps before or between exchanges, as estimates in her own terms; no running figures.",
+  "old_text": "Hard Reserve Clock: \"Essence and stamina run on a hard clock by the Ledger's numbers; long fights are won by whoever manages the reserve; Starvation hits mid-fight on overspend.\"",
+  "note_text": "Read with R70-88-NUMBERS_INSIDE_FIGHT (style law 2026-10-03): the clock is never shown as a running count inside a fight."
+ },
+ {
+  "old_id": "R48-37-COST_SHOWN",
+  "action": "note",
+  "by": "R70-89-BODY_FIRST_NUMBER_FIRST",
+  "r70_quote": "The body first and the readout in the same beat, a line after.",
+  "old_text": "Cost shown: \"An ability's cost shows in the body: tremor, heat off the skin, thirst, a Crystal ache.\"",
+  "note_text": "Confirmed by R70-89-BODY_FIRST_NUMBER_FIRST (style law 2026-10-03): the body leads, and a readout may follow a line after in the same beat."
+ },
+ {
+  "old_id": "R14-3-TRACEABILITY",
+  "action": "note",
+  "by": "R70-90-FAST_NUMBERS_CLIMB",
+  "r70_quote": "Numbers move only for a cause the reader was shown: a FOW XP event on the page, or training named in a downtime turn.",
+  "old_text": "Every combat outcome traces to a table row: \"Every outcome in a fight traces to a row in this table, and the author notes say which.\"",
+  "note_text": "Read with R70-90-FAST_NUMBERS_CLIMB (style law 2026-10-03): a character's numbers move only for a shown cause, as fight outcomes trace to a table row."
+ },
+ {
+  "old_id": "R9-3-SCOPE",
+  "action": "note",
+  "by": "R70-91-BREAKTHROUGH_PAGE",
+  "r70_quote": "It happens inside the danger that is its Catalyst, written from the body",
+  "old_text": "The power-display register applies to a narrow beat list only: \"Scope, and it is narrow on purpose. This applies only to Stage-ascension beats, a Pressure drop, and a technique's first display or finisher...\"",
+  "note_text": "Read with R70-91-BREAKTHROUGH_PAGE (style law 2026-10-03): a Stage-ascension beat is written inside its Catalyst crisis, and the line lands as the danger breaks."
+ },
+ {
+  "old_id": "R9-3-EYES_AS_TELL",
+  "action": "note",
+  "by": "R70-91-BREAKTHROUGH_PAGE",
+  "r70_quote": "R9-3's splash beat goes to the crisis.",
+  "old_text": "Eyes as the tell at a Stage threshold: \"Eyes as the tell. At a Stage threshold or a dropped suppression, the eyes go first...\"",
+  "note_text": "Read with R70-91-BREAKTHROUGH_PAGE (style law 2026-10-03): only R9-3's splash beat is moved, to the crisis; the eyes-first tell is untouched."
+ },
+ {
+  "old_id": "R9-3-BODY_UNDER_LOAD",
+  "action": "note",
+  "by": "R70-91-BREAKTHROUGH_PAGE",
+  "r70_quote": "R9-3's splash beat goes to the crisis.",
+  "old_text": "The body under load, one splash-panel beat per scene: \"The body under load. A Pressure spike or a peak-effort feat is rendered as visible physical distortion...\"",
+  "note_text": "Partly amended by R70-91-BREAKTHROUGH_PAGE (style law 2026-10-03), \"R9-3's splash beat goes to the crisis\": at a Stage breakthrough the splash-panel beat sits in the Catalyst crisis rather than at a display; how many such beats a scene carries is R70-73-MANY_DISPLAY_BEATS_PER's call. The body under load as visible distortion stands."
+ },
+ {
+  "old_id": "R53-17-THE_BILL",
+  "action": "note",
+  "by": "R70-91-BREAKTHROUGH_PAGE",
+  "r70_quote": "It happens inside the danger that is its Catalyst, written from the body",
+  "old_text": "The Bill: \"Money before magic holds on the page: any working indoors on a main raises the bill, the meter or the spur, and somebody notices the cost.\"",
+  "note_text": "Read with R70-91-BREAKTHROUGH_PAGE (style law 2026-10-03): a breakthrough is written from the body inside its Catalyst crisis; the world-scale option (this row's bill at scale) was not taken, and this row is unchanged for any working on a main."
+ },
+ {
+  "old_id": "R52-05-COUNTING",
+  "action": "note",
+  "by": "R70-93-BUILD_TALK_DIALOGUE",
+  "r70_quote": "Any ranked practitioner talks his own and others' numbers exactly and argues builds, as in Unbound; commoners still round. R52-05 widens.",
+  "old_text": "Counting: \"Exact-number speech belongs to its owners: Lambert, the Measurewrights, clerks and anyone reading an instrument count; everyone else rounds, guesses or...\"",
+  "note_text": "Partly amended by R70-93-BUILD_TALK_DIALOGUE (style law 2026-10-03): R52-05 widens: any ranked practitioner may speak exact figures and argue builds; commoners still round."
+ },
+ {
+  "old_id": "R48-13-PERIOD_FEEL",
+  "action": "note",
+  "by": "R70-94-GAMER_SLANG",
+  "r70_quote": "Current law: gamer slang in a mouth whose voice would carry it; narration stays timeless.",
+  "old_text": "Period feel: \"Modern words in speech only: characters may talk modern; narration keeps a timeless register.\"",
+  "note_text": "Confirmed by R70-94-GAMER_SLANG (style law 2026-10-03), \"Current law\": gamer slang goes in a mouth whose voice would carry it, narration stays timeless, and verify_scene adds the words to its narration watch-list."
+ },
+ {
+  "old_id": "R51-05-LIST_TECH",
+  "action": "note",
+  "by": "R70-94-GAMER_SLANG",
+  "r70_quote": "narration stays timeless",
+  "old_text": "List Tech: \"Technology and office metaphors are legal only if the POV's own culture has the thing: an Accord fitter may think 'on the main', a Kharven hunter may not.\"",
+  "note_text": "Read with R70-94-GAMER_SLANG (style law 2026-10-03): \"narration stays timeless\", so gamer slang never enters narration, as metaphor or otherwise; this row is unchanged."
+ },
+ {
+  "old_id": "R50-21-THIRD_NAMES",
+  "action": "note",
+  "by": "R70-96-TITLES_ACHIEVEMENTS",
+  "r70_quote": "Third Names carry on as now.",
+  "old_text": "Third Names: \"The partner may coin a Third Name for one of Isaac's characters through an NPC in a scene; it sticks only if Isaac keeps it.\"",
+  "note_text": "Confirmed by R70-96-TITLES_ACHIEVEMENTS (style law 2026-10-03): Third Names carry on; a Guild commendation is a separate, written title with no stat effect."
+ },
+ {
+  "old_id": "R14-6-CHECK29",
+  "action": "note",
+  "by": "R70-98-SHEETS_CHAPTER_ARC_ENDS",
+  "r70_quote": "Each chapter closes with a short block of what moved and why, above the notes; roleplay turns keep it in the notes.",
+  "old_text": "Check 29, The loadout: \"Check 29, the loadout. The author notes contain a Stat Ledger for every named practitioner (§7) or the run fails.\"",
+  "note_text": "Read with R70-98-SHEETS_CHAPTER_ARC_ENDS (style law 2026-10-03): the Stat Ledger stays in the notes; a book chapter also closes with a short changes block above them."
+ },
+ {
+  "old_id": "R12-5-NEVER_INVENT_NUMBER",
+  "action": "note",
+  "by": "R70-99-NUMBER_NOT_YET_CANON",
+  "r70_quote": "The readout prints the figure with the instrument's own hedge (a range, 'uncertain past the third place'), and the notes log it as estimate.",
+  "old_text": "A number is never invented: \"Never invent a number. Unchanged and absolute. Every value checked against source. Unspecified means flagged as estimate.\"",
+  "note_text": "Confirmed by R70-99-NUMBER_NOT_YET_CANON (style law 2026-10-03): an uncanonical figure in a readout prints as a hedged estimate and is logged as one."
+ },
+ {
+  "old_id": "R14-6-NUMBERS_GREP",
+  "action": "note",
+  "by": "R70-99-NUMBER_NOT_YET_CANON",
+  "r70_quote": "the notes log it as estimate",
+  "old_text": "Figures are grepped against Fracture_of_Worlds.md before presenting: \"Numbers. Any figure in the Stat Ledger grepped against Fracture_of_Worlds.md before presenting. If it is not there, it is marked estimate.\"",
+  "note_text": "Read with R70-99-NUMBER_NOT_YET_CANON (style law 2026-10-03): a figure this grep marks estimate may print in a readout with the instrument's own hedge, and the notes log it as estimate."
+ },
+ {
+  "old_id": "R14-2-ESTIMATE_MARKING",
+  "action": "note",
+  "by": "R70-99-NUMBER_NOT_YET_CANON",
+  "r70_quote": "the notes log it as estimate",
+  "old_text": "An unsheeted value is written as a marked estimate, never invented: \"Where a value is not on any sheet, it is written in the author notes as an estimate inside the documented range for that Stage and Band, and marked as such....\"",
+  "note_text": "Read with R70-99-NUMBER_NOT_YET_CANON (style law 2026-10-03): the estimate written in the notes may also print in a readout, hedged by the instrument."
+ }
+]

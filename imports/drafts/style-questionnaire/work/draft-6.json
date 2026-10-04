@@ -1,0 +1,639 @@
+{
+  "sections": [
+    {
+      "key": "NM",
+      "title": "Names: comic, punning and made names",
+      "intro": "How many of WOTR's names carry a joke, which kinds, who carries them, and whether the world or only the reader hears it. Isaac's PC and the other creators' characters sit outside every option here.",
+      "questions": [
+        {
+          "id": "NM1",
+          "title": "How much of the pool is comic",
+          "question": "What share of new names should be comic, punning or plainly made-up fantasy names?",
+          "context": "R50-18 dropped the old budget for outliers (names that fit no naming stratum): they are 'free, no ratio, no reason needed'. The struck R23-5 warned that past a ratio, names read as 'an author picking names he liked'.",
+          "options": [
+            {
+              "key": "A",
+              "label": "A seasoning",
+              "consequence": "About one comic name in any scene with a crowd, mostly a nickname among the commons. Most new names stay strict to their bank (a culture's list of name parts).",
+              "sample": "The sergeant read the roll off a slate at the gate of the Seat, his breath standing white in front of each name. Aldric Hale. Bram Osterby. Dunstan Fenn. Kettle. A short sealer in a hide-coat stepped out at that one, and the column laughed, low, the way men laughed in that cold. The sergeant did not look up. Brida Coll. Nella Ashby. Fern Tolley. The wind came off the rock and took the rest of the laughter with it."
+            },
+            {
+              "key": "B",
+              "label": "Most commons and soldiers",
+              "consequence": "Comic bynames and nicknames become the norm in musters, crews, taverns and markets. Anyone with rank, a house or a card keeps a strict name.",
+              "sample": "The sergeant read the roll off a slate at the gate of the Seat, his breath standing white in front of each name. Aldric Two-Bowls. Bram Wetfoot. Dunstan the Lesser, whose brother had been Dunstan the Least. Kettle. Fern Halfpenny. Hob and Dob Garth, who answered together. Nobody in the column laughed. They had heard the roll every morning since the thaw, and the only name that still made a sound among them was the one he skipped."
+            },
+            {
+              "key": "C",
+              "label": "About a third",
+              "consequence": "Roughly one new name in three carries a joke, at any rank below the carded cast (characters with a wiki card). The rest follow their banks.",
+              "sample": "The sergeant read the roll off a slate at the gate of the Seat, his breath standing white in front of each name. Captain Ambrose Pinchgauge, on the grey. Aldric Hale. Bram Wetfoot. Dunstan Fenn. Kettle. Nella Coll. Hob and Dob Garth, who answered together. The captain heard his own name read out in the cold and touched his hat to it, as his father had, and his grandfather, who had at least been a gauger."
+            },
+            {
+              "key": "D",
+              "label": "Pratchett density",
+              "consequence": "Most new names carry a joke, Discworld fashion, and strict bank names become the exception. Comedy reads as the world's habit.",
+              "sample": "The sergeant read the roll off a slate at the gate of the Seat. Captain Ambrose Pinchgauge, on the grey. Aldric Drinkwater. Bram Wetfoot. Dunstan Gotobed. Kettle. Fern Halfpenny. Nella Breakseal. Hob and Dob Garth, together. Last came Snorin, a Dawi cooper who had signed on for the pay and was asleep on his feet between the shafts of the supply sledge, and the sergeant read his name twice before the man beside him kicked his ankle."
+            }
+          ],
+          "recommended": "B",
+          "rec_reason": "It answers 'a lot' where the commons live, which is where Norse bynames and English phrase surnames grew in fact, and keeps strict names for the people the story leans on.",
+          "multi": false,
+          "depends_on": [],
+          "rules_touched": [
+            "R50-18-OUTLIERS",
+            "R23-5-OUTLIER_BUDGET",
+            "R52-31-COMIC_NPC"
+          ]
+        },
+        {
+          "id": "NM2",
+          "title": "Built comic names",
+          "question": "Which kinds of built comic name should WOTR use?",
+          "context": "R50-17 already lets characters 'sound alike', and their meeting 'becomes a beat'. The Dvergatal, the dwarf-list in the Norse poem Völuspá, chimes Fíli with Kíli; Dickens and Pratchett build surnames one notch past believable, and real English surnames run as odd (Gotobed, Drinkwater).",
+          "options": [
+            {
+              "key": "A",
+              "label": "Rhyming and alliterating sets",
+              "consequence": "Kin, crews and sworn pairs share a name-part and change the sound, Borin and Snorin style, inside each culture's sound rules. When a set meets, it is a beat (R50-17).",
+              "sample": "Torin, Kalrin and Halrin: Kegshard cooper brothers on the shared element Rin (cut).\nHob and Dob Garth: Northern twins, both christened Robert, told apart by the muster.\nLu Anping and Lu Anning: hall cousins sharing the generation syllable An (peace), as the family poem required."
+            },
+            {
+              "key": "B",
+              "label": "Dickensian talking surnames",
+              "consequence": "Surnames that tell a trade or a nature, one notch past believable (Gradgrind, Pumblechook): the Victorian register R53-28 already points to, for Northern and Accord families.",
+              "sample": "Morwen Pinchgauge: a Guild inspector whose readings always came out a hair under the meter.\nTobias Shortloaf: a baker from a family fined for light loaves so often that the fine became the name.\nAmbrose Quillfast: a registry clerk, never once slow."
+            },
+            {
+              "key": "C",
+              "label": "Plausible puns, Pratchett-style",
+              "consequence": "Real-sounding surnames with a pun underneath, or turned against the bearer. Built from words the Draw Age owns: no brand, meme or modern-world reference.",
+              "sample": "Jem Lightfoot: a courier with a ruined knee, still the fastest on the Seat road.\nElias Spendlove: a Guild paymaster who never rounded a sum up.\nWilf Drinkwater: sergeant of the driest column in the north, by his own order."
+            },
+            {
+              "key": "D",
+              "label": "Phrase and sentence names",
+              "consequence": "A verb and its object frozen into a surname (Shakespeare, Gotobed), and a sect that names its children as moral sentences, as the Puritans did (Sorry-for-sin).",
+              "sample": "The Breakseals: three generations of honest gaugers, searched at every gate for the name.\nKit Burnoil: from commons who never held a draw licence and said so.\nAbide-the-Measure Coll: a child of a strict Guild sect, called Bide by everyone who shared her bunk."
+            }
+          ],
+          "recommended": "A, B, C",
+          "rec_reason": "Sets, talking surnames and plausible puns all grow from real naming custom. Sentence names tip into allegory, which tells the reader what to think of a person on entrance, and real phrase surnames arrive anyway under C.",
+          "multi": true,
+          "depends_on": [],
+          "rules_touched": [
+            "R50-17-SHARED_NAMES",
+            "R53-28-VISUAL_REFERENCE",
+            "R23-2-NORTHERN_STRATUM",
+            "R20-3-DAWI_ELEMENTS"
+          ]
+        },
+        {
+          "id": "NM3",
+          "title": "Grown comic names",
+          "question": "Which kinds of comic name that grow out of use should WOTR use?",
+          "context": "A byname is a second name others give for a trade, a look or a deed; R23-2 makes one 'available to anyone' in the Northern stratum, and Far-Northern ones are 'freely coined, and stick'. R50-33 spells a foreigner's version of a name 'as heard in dialogue'.",
+          "options": [
+            {
+              "key": "A",
+              "label": "Soldiers' nicknames",
+              "consequence": "Deed and body bynames from comrades, literal or ironic (Abercrombie's Logen Ninefingers, Forley the Weakest). Peers coin them, so the joke belongs to the characters.",
+              "sample": "Ulf Two-Bowls: took a second bowl in the Thin Weeks; the laughter stopped when he walked in.\nKitten: the biggest man on the Seat's wall, named by men who later stopped saying it to his face.\nKalvak Twelvecasks: a Dawi cooper; the twelve were the casks he soured."
+            },
+            {
+              "key": "B",
+              "label": "Mangled names",
+              "consequence": "A name bent by a foreign mouth and written as heard, a real mishearing each time (R20-4). Canon already does it: the Dawi say Porin, and Common mouths make it Borin.",
+              "sample": "Borin: every Common mouth's version of Porin, which a Dawi ear heard as a name said wrong.\nSolly Transit: the Kharven riders' name for any Accord gate clerk, from 'solutum et transitum' (paid and passed).\nKettle: a sealer the survey clerk entered by the pot in his hands."
+            },
+            {
+              "key": "C",
+              "label": "Sound comedy",
+              "consequence": "Names funny for their noise: hard k sounds, doubled syllables, a goblin's added consonants. Built in the people's own sound rules, mostly goblinoid.",
+              "sample": "Kadukadu: a goblin fence in Old Vaross; kadu is hand, twice over.\nGripsnick and Gripsnack: goblin sapper twins, spelled differently by every clerk who met them.\nOld Croak: Lyraen Callivane's name for Gorrum Vaelseth, canon's own toad's croak."
+            },
+            {
+              "key": "D",
+              "label": "Protective ugly names",
+              "consequence": "A child given a cheap or ugly name so death passes it over, as Chinese and Korean families did (Gousheng, 'dog's leftovers'). Comic to outsiders, grim at home.",
+              "sample": "Wet Wood: a sickly Kharven girl's name through her first winter, since the cold wanted nothing that would not burn.\nGousheng: a hall elder his sister still called 'dog's leftovers' at seventy, in front of the whole hall."
+            }
+          ],
+          "recommended": "A, B, C, D",
+          "rec_reason": "Each grows inside the world out of someone's mouth or custom, so every joke has an owner, which is what keeps it clear of the narration.",
+          "multi": true,
+          "depends_on": [],
+          "rules_touched": [
+            "R23-2-NORTHERN_STRATUM",
+            "R23-2-FAR_NORTHERN_STRATUM_SUMMARY",
+            "R20-4-PRONUNCIATION_ADAPTATION",
+            "R50-33-MISPRONOUNCE",
+            "R20-1-GOBLINOID_ANCHOR"
+          ]
+        },
+        {
+          "id": "NM4",
+          "title": "Who may carry one",
+          "question": "How far up the cast may a comic name reach?",
+          "context": "R52-31 allows 'a comic minor NPC as a comic voice from the start', and R5-D permits 'the joke that is also a threat'. Isaac's PC and the other creators' characters sit outside every option.",
+          "options": [
+            {
+              "key": "A",
+              "label": "Walk-ons and commons",
+              "consequence": "Comic names stay with one-scene people, crowds, musters and markets. Anyone who recurs gets a strict name.",
+              "sample": "Dry Tom: a ferryman met once at the ford.\nHob and Dob Garth: two lines on one muster roll.\nKettle: a sealer at a survey post, never seen again."
+            },
+            {
+              "key": "B",
+              "label": "Plus recurring NPCs",
+              "consequence": "Recurring minor NPCs (the innkeeper, the sergeant, the Guild clerk) may keep comic names across scenes. Villains and major NPCs stay strict.",
+              "sample": "Sergeant Wilf Drinkwater: through a whole campaign.\nMother Gristle: sold windmeat at the Seat's lower gate, every visit.\nMorwen Pinchgauge: at every gauge-housing she inspected."
+            },
+            {
+              "key": "C",
+              "label": "Plus villains",
+              "consequence": "B, plus villains and rivals, in the Jonson and Dickens line (Volpone the fox, Uriah Heep): a comic name on a dangerous person. Major NPCs stay strict.",
+              "sample": "Magister Aulus Tardipes: 'slow-foot', who signed every death warrant late and never once in error.\nSilas Pennywhistle: a Guild factor who bought a district's draw for a song and sold it back by the cup."
+            },
+            {
+              "key": "D",
+              "label": "Any rank Natalie makes",
+              "consequence": "Any character Natalie creates, major NPCs included, may carry a comic name. Isaac's PC and the other creators' characters never.",
+              "sample": "Halfpint: a Banner House heir his own men named, carrying a full arc.\nOld Fumble: a Measurewright across three books, the best reader of Crystals in the north."
+            }
+          ],
+          "recommended": "C",
+          "rec_reason": "A dangerous man with a comic name is the oldest English stage trick and grimdark's best use of the joke that is also a threat; major NPCs keep strict names so the story's weight holds.",
+          "multi": false,
+          "depends_on": [
+            "NM1"
+          ],
+          "rules_touched": [
+            "R52-31-COMIC_NPC",
+            "R5-D-HUMOUR_PERMITTED",
+            "R50-18-OUTLIERS"
+          ]
+        },
+        {
+          "id": "NM5",
+          "title": "Whose ear hears the joke",
+          "question": "Must a comic name be a joke someone inside the world can hear, or may some be the reader's alone?",
+          "context": "R5-C1: 'The narration never winks.' Concord Common, the Accord's trade tongue, is what the page renders as English, so an English pun is heard in a Common mouth; one buried in a Dawi or Moto name reaches the reader alone. R50-01 makes foreign-tongue names 'real, correct phrases'.",
+          "options": [
+            {
+              "key": "A",
+              "label": "In-world jokes only",
+              "consequence": "Every comic name is funny in its bearer's own tongue or in a Common mouth, and a character glosses it once (explains its meaning). Snorin exists only as a Common nickname.",
+              "sample": "The Dawi set his hands flat on the Guild counter and gave his name in his own tongue, Kurlo Tharnsson, hard and clean, as if the clerk were auditing him. The clerk wrote it down and thought it sounded noble. Behind the Dawi his foreman laughed into his beard. \"Kurlo,\" he told the clerk, in Common. \"Unbegun. Never started a thing in his life. Put him on the night casks.\""
+            },
+            {
+              "key": "B",
+              "label": "English puns with a bridge",
+              "consequence": "An English pun is legal where the world supplies a bridge: a Common mouth, a byname rendered in English, or a Common ear mishearing. Reader-only puns in a foreign name stay out.",
+              "sample": "The Dawi set his hands flat on the Guild counter and gave his name in his own tongue, hard and clean, as if the clerk were auditing him. The clerk had not caught a syllable of it. Behind the Dawi the night foreman was already laughing. \"Put him down as Snorin,\" he said. \"Everyone does. Sleeps on the cask-stack between shifts.\" The Dawi did not know the word. He watched the clerk write it in the Concord hand and nodded, gravely, at his new name."
+            },
+            {
+              "key": "C",
+              "label": "English puns anywhere",
+              "consequence": "Any name may carry an English pun, foreign names included (Snorin as a Dawi's given name). The reader hears it and the characters may not. R5-C1 narrows to narrated remarks.",
+              "sample": "The Dawi set his hands flat on the Guild counter. \"Snorin Kalrinsson,\" he said, hard and clean, as if the clerk were auditing him. The clerk wrote it in the Concord hand and asked for his hold. Kegshard, said Snorin. Cooper. Twelve years on the night casks. Behind him the queue shuffled and coughed in the cold of the hall. The clerk blotted the line, slid the token across, and called the next man."
+            }
+          ],
+          "recommended": "B",
+          "rec_reason": "It keeps the no-wink rule, gives Isaac his Snorin today in any Common mouth, and lets the Dawi's own gravity become part of the joke.",
+          "multi": false,
+          "depends_on": [],
+          "rules_touched": [
+            "R5-C1-NARRATION_NEVER_WINKS",
+            "R50-01-REAL_GRAMMAR",
+            "R50-33-MISPRONOUNCE",
+            "R20-4-PRONUNCIATION_ADAPTATION"
+          ]
+        },
+        {
+          "id": "NM6",
+          "title": "Which peoples: West and North",
+          "question": "Among the Dawi, the northern peoples and the goblinoids, which carry comic names?",
+          "context": "Most peoples already have a comic slot: Northern bynames 'available to anyone' (R23-2), Far-Northern bynames 'freely coined', goblinoid bynames 'describing the force that made the person' (R20-1). Dawi given names come from a fixed thirty-part bank (R20-3), and to a Dawi a name said wrong is an insult.",
+          "options": [
+            {
+              "key": "A",
+              "label": "The Dawi",
+              "consequence": "Rhyming sets on a shared bank element, deed bynames rendered in English, and outsiders' mangling. Given names stay bank-built; the joke lives in sets, bynames and other mouths.",
+              "sample": "Torgrim, Kalgrim and Holmgrim: a mining crew on the shared element Grim (craft), the Grims to every foreman.\nKalvak Twelvecasks: the hold recorded the soured casks with a straight face.\nBare-chin: the Dawi insult for a shaven man, already canon."
+            },
+            {
+              "key": "B",
+              "label": "Kharven and Far-Northern",
+              "consequence": "Bynames from the Kharven stock of scarcity insults, protective cheap names, and roll-names (surnames an Accord clerk assigned). Never a joke on the name of the recently dead (R23-11).",
+              "sample": "Ulf Two-Bowls: the second bowl in the Thin Weeks.\nBram Short-Stack: a lazy man's byname, from his neighbours.\nNilak Bucket: a carried name with a clerk's roll-name stuck on behind it."
+            },
+            {
+              "key": "C",
+              "label": "Accord and Northern commons",
+              "consequence": "The richest home: talking and phrase surnames, rhyming pet names (Hob and Dob), soldiers' bynames, and Accord jokes in correct Latin (R50-01).",
+              "sample": "Morwen Pinchgauge: a Guild inspector who read light.\nHob and Dob Garth: two Roberts on one roll.\nMagister Aulus Tardipes: 'slow-foot' in correct Latin, inspector of couriers."
+            },
+            {
+              "key": "D",
+              "label": "Goblinoid peoples",
+              "consequence": "Sound comedy, and bynames whose cause nobody remembers, so a dreaded name can arrive with no story behind it.",
+              "sample": "Kadukadu: 'hand-hand', a fence in Old Vaross.\nGripsnick and Gripsnack: sapper twins.\nGrinmaw the Unexplained: feared through three districts, for reasons nobody alive could give."
+            }
+          ],
+          "recommended": "A, B, C, D",
+          "rec_reason": "Each people already has a native comic slot, so the jokes grow from custom. The Dawi keep their given names grave and take their comedy in sets, bynames and other people's mouths.",
+          "multi": true,
+          "depends_on": [
+            "NM5"
+          ],
+          "rules_touched": [
+            "R20-3-DAWI_ELEMENTS",
+            "R20-1-DAWI_ANCHOR",
+            "R23-2-NORTHERN_STRATUM",
+            "R23-2-FAR_NORTHERN_STRATUM_SUMMARY",
+            "R23-11-NAME_AVOIDANCE_WAITING",
+            "R23-11-ROLL_NAMES_FROM_ACCORD",
+            "R20-1-GOBLINOID_ANCHOR"
+          ]
+        },
+        {
+          "id": "NM7",
+          "title": "Which peoples: the Eastern strata",
+          "question": "Among the Japonic houses, the Mahuo and the Chinese lineage halls, which carry comic names?",
+          "context": "R40-1: a Moto given name 'states what the line expects'. Names show 'romanised only' (R50-31), so a pun that lives in written characters never reaches the page. Canon already holds one real Japanese sound pun: Daigo Tenryū, the Dango Dragon (dango is a rice dumpling).",
+          "options": [
+            {
+              "key": "A",
+              "label": "Japonic commons and retainers",
+              "consequence": "Commons and retainers of the Ketsuen, Yukari and Yuno take real Japanese trait-words worn as names, and sound puns on real words, glossed once by a character.",
+              "sample": "Nebosuke: a gate sentry; the -suke ending made 'sleepyhead' sound like a boy's name.\nKuishinbō: a cook's boy, 'glutton', worn as a name.\nThe Dango Dragon: canon's own pun on Daigo."
+            },
+            {
+              "key": "B",
+              "label": "The Moto and archaic houses",
+              "consequence": "Comic bynames only, coined behind their backs by servants or rivals; given names stay under R40-1. Never on Sodoku Moto, and no Büri form returns in any joke.",
+              "sample": "Lord Lantern: the Shirogane servants' name for a cadet lord nobody saw by day.\nOld Inkstone: a house archivist's name in the kitchen, never above stairs."
+            },
+            {
+              "key": "C",
+              "label": "The Mahuo",
+              "consequence": "Korean-register names chime through the generational syllable (one syllable every cousin of a generation shares), and children may carry ugly milk-names (protective childhood names). Real Korean only (R50-01).",
+              "sample": "Seo-gi: a house secretary whose name sounded exactly like the Korean word for secretary; forty years in the post.\nGaettong-i: a Mahuo heir's milk-name, 'dog dung', kept now only by his old nurse."
+            },
+            {
+              "key": "D",
+              "label": "The Chinese lineage halls",
+              "consequence": "Self-awarded studio names (a scholar's chosen art-name, which other houses mock), insulting posthumous names, cheap child-names and homophone puns spoken aloud. Nothing that needs a written character to land.",
+              "sample": "Fantong: 'rice bucket', a useless eater's nickname, once written on a contract as a cook's legal name.\nMaster of the Hall of Nine Perfect Clouds: a studio name its owner chose for himself.\nShen the Prompt: a posthumous name for a physician late to every death."
+            }
+          ],
+          "recommended": "A, C, D",
+          "rec_reason": "The ruling houses' given names carry what the line expects, and a joke about a Moto belongs unsaid in a clansman's mouth. The commons, the Mahuo and the halls already have real comic customs to draw on.",
+          "multi": true,
+          "depends_on": [
+            "NM5"
+          ],
+          "rules_touched": [
+            "R40-1-MOTO_ELEMENT_INVENTORY",
+            "R22-1-HOUSE_STRUCK",
+            "R50-01-REAL_GRAMMAR",
+            "R50-31-SCRIPT_SHOWN",
+            "R23-2-KOREAN_STRATUM",
+            "R23-10-CHINESE_PHONOTACTICS",
+            "R52-14-SODOKU_JOKE"
+          ]
+        },
+        {
+          "id": "NM8",
+          "title": "Borin Ironheart's rhyming kin",
+          "question": "Should Borin Ironheart gain a rhyming set of kin or companions, and who makes them?",
+          "context": "Borin's card names no kin, patronymic (father's name) or oath-name, and says he 'Tells terrible jokes and laughs at them himself'. His name parses from the Dawi bank as Bor (bear, carry) plus Rin (cut), so rhymes on Rin are legal Dawi; Snorin works only in a Common mouth.",
+          "options": [
+            {
+              "key": "A",
+              "label": "No kin, rhymes elsewhere",
+              "consequence": "Borin's card stays as written. Rhyming Dawi sets appear among new characters, and any set that meets Borin is a beat (R50-17).",
+              "sample": "Torin, Kalrin and Halrin: unrelated Kegshard coopers, whom Borin greeted as long-lost cousins to annoy them.\nBorin: unchanged on his card, still telling the one about the cooper and the cask."
+            },
+            {
+              "key": "B",
+              "label": "Brothers, Snorin included",
+              "consequence": "Natalie invents Borin's brothers on the shared Rin, one called Snorin by every Common mouth. They go on his card's kin line as pending, canon once Isaac reuses them (R50-28).",
+              "sample": "Torin: the eldest, a hold-reeve (a hold's steward) who had not laughed at one of Borin's jokes in three centuries.\nKalrin: the youngest, a cooper who slept on the cask-stacks, Snorin to the Accord.\nBorin: the middle brother, who started the nickname."
+            },
+            {
+              "key": "C",
+              "label": "A rhyming forge crew",
+              "consequence": "Borin's Annex smiths become a rhyming crew, the Dvergatal habit of chiming companies, and his family stays unwritten. Snorin is the crew's sleeper.",
+              "sample": "Ymir Rhok: still Borin's Whetstone.\nTorin, Halrin and Kalrin: the night crew at the Soul Forge.\nSnorin: what the Accord buyers called Kalrin, who slept on the charcoal sacks."
+            },
+            {
+              "key": "D",
+              "label": "Isaac picks from three",
+              "consequence": "Natalie pitches three possible sets in chat (kin, crew, rivals), and nothing reaches the card or the page until Isaac picks one.",
+              "sample": "Set one: brothers on Rin.\nSet two: a forge crew on Rin and Grim.\nSet three: a rival hold's rhyming smiths, who mocked his jokes."
+            }
+          ],
+          "recommended": "B",
+          "rec_reason": "Isaac named the pair himself, the shared Rin makes the rhyme legal Dawi, and a brother known as Snorin in Common gives Borin's terrible jokes a target at home.",
+          "multi": false,
+          "depends_on": [
+            "NM5",
+            "NM6"
+          ],
+          "rules_touched": [
+            "R50-17-SHARED_NAMES",
+            "R20-3-DAWI_ELEMENTS",
+            "R50-28-NEW_WORDS",
+            "R50-02-FIX_OLD_ONES"
+          ]
+        },
+        {
+          "id": "NM9",
+          "title": "A comic name, a grim end",
+          "question": "When someone with a comic name dies badly, how does the page carry the name?",
+          "context": "R49-38 lets 'characters whose humour is their voice' be openly funny, and among the Kharven 'The name of the recently dead is not spoken' (R23-11). Abercrombie's Forley the Weakest dies under his name, and the name makes the death worse.",
+          "options": [
+            {
+              "key": "A",
+              "label": "Straight, as any death",
+              "consequence": "The name is used plainly and nobody remarks on it; the death gets the same clinical weight as any other. The joke was spent while he lived.",
+              "sample": "The sledge went through at the ford's edge and Snorin went with it, under the shafts, under the ice. They had him out inside a minute. Water had frozen in his beard, and his lips were the blue of snow after sundown. The bonesetter worked his chest until her arms shook. Snorin lay on the bank with his eyes half open, as he had slept on the cask-stack all winter, and did not wake."
+            },
+            {
+              "key": "B",
+              "label": "The name turns to grief",
+              "consequence": "Someone says the comic name at the death and the joke becomes the wound. After it, a Kharven mouth falls silent on the name until it is given on (R23-11).",
+              "sample": "The sledge went through at the ford's edge and Snorin went with it, under the shafts, under the ice. They had him out inside a minute, beard frozen solid, lips gone blue. The bonesetter worked his chest until her arms shook. \"Snorin,\" the foreman said, and shook him by the collar. \"Snorin. Up. You've slept enough.\" He went on saying it after the bonesetter had stopped, until the name was only a sound in the cold."
+            },
+            {
+              "key": "C",
+              "label": "Gallows wit at the death",
+              "consequence": "The dying man or his comrades make the joke on his name at the death itself, gallows wit from people whose work earns it (R5-D). The laugh and the death share the beat.",
+              "sample": "The sledge went through at the ford's edge and Snorin came out from under the shafts with his chest stove in. He opened one eye at the foreman. \"Don't,\" he said. \"Don't you say it.\" The foreman said it anyway: that a man called Snorin might have had the manners to die in his sleep. Snorin laughed, once, and blood came up with the laugh, black on the snow, and he did not draw the next breath."
+            }
+          ],
+          "recommended": "B",
+          "rec_reason": "It is the Forley move: the name the column laughed at becomes the one they cannot stop saying, and the laugh that came before makes the death cost more.",
+          "multi": false,
+          "depends_on": [],
+          "rules_touched": [
+            "R49-38-FUNERAL_TEST",
+            "R23-11-NAME_AVOIDANCE_WAITING",
+            "R5-D-HUMOUR_PERMITTED"
+          ]
+        },
+        {
+          "id": "NM10",
+          "title": "Places, inns, ships and gear",
+          "question": "Beyond people, what may carry a comic name?",
+          "context": "R50-22 gives a place 'several names, one per culture that uses it', and R50-13 sets an item's names 'side by side'. Technique names stay under R50-11's 'two words at most' and R8-22's literal gloss (the name's flat English meaning).",
+          "options": [
+            {
+              "key": "A",
+              "label": "Inns, taverns and shops",
+              "consequence": "Signboards and their regulars' nicknames carry the joke, in every culture's towns.",
+              "sample": "The Drowned Gauger: a draw-district alehouse with a gauge-housing for a sign.\nThe Honest Measure, called the Short Pint: a tavern by the proof-house.\nThe Second Bowl: a Kharven eating-house, named in the teeth of the proverb."
+            },
+            {
+              "key": "B",
+              "label": "Streets and places",
+              "consequence": "The commons' names for streets, fords and districts sit beside the official ones, one per culture (R50-22). The Accord's Latin name stays grave.",
+              "sample": "Pinchpenny Row: a street of moneylenders, Via Fenoris (street of interest) on the Accord map.\nDead Horse Ford: no horse had died there in living memory.\nThe Wet Wood: the Kharven name for an Accord barracks that never kept its word."
+            },
+            {
+              "key": "C",
+              "label": "Ships, sledges and engines",
+              "consequence": "Crews' names for vessels, sledge-teams, draw-engines and gun-carriages, beside whatever the registry wrote.",
+              "sample": "Mabel's Mercy: a river dredger, sunk twice and raised twice.\nThe Widow's Pace: a supply sledge-team never once late or early.\nOld Sulk: a draw-engine at a pumping house that would not start in the cold."
+            },
+            {
+              "key": "D",
+              "label": "Weapons and items",
+              "consequence": "Weapons and gear take soldiers' folk names beside their true names (R50-13): the true name in the maker's tongue stays grave, the folk name may joke. Techniques stay out.",
+              "sample": "Mother's Spoon: a Kharven boarding axe.\nThe Argument: a Hallenfeld captain's shotgun, which ended them.\nThe Magistrate's Cough: a proofed fowling piece that settled debts."
+            }
+          ],
+          "recommended": "A, B, C, D",
+          "rec_reason": "Names on things are the commons' humour at its most natural and never land on anyone's dignity, and R50-13 and R50-22 already make room for a folk name beside the true one.",
+          "multi": true,
+          "depends_on": [],
+          "rules_touched": [
+            "R50-22-PLACE_STRATA",
+            "R50-13-ITEM_NAMES",
+            "R50-11-LONG_NAMES",
+            "R8-22-LITERAL_GLOSS",
+            "R50-23-DOUBLETS"
+          ]
+        },
+        {
+          "id": "NM11",
+          "title": "Who notices the joke",
+          "question": "Who on the page may notice that a name is funny?",
+          "context": "R5-C1: 'The narration never winks.' R5-D bars 'the beat structure of setup, deadpan and reaction', a joke staged for a flat face and a reaction shot. In close third person the narration runs through one character's head, so what he notices is his.",
+          "options": [
+            {
+              "key": "A",
+              "label": "Characters aloud only",
+              "consequence": "Narration uses the name like any other and only speech touches the joke: a character laughs, glares or keeps a careful straight face.",
+              "sample": "The inspector came down the conduit stair with her slate under her arm and the Guild seal on a cord at her neck. \"Pinchgauge,\" she said. \"From the proof-house.\" She read the gauge-housing, wrote a figure, and showed it to Bram. It was a hair under the meter. Behind him the stoker made a small noise in his throat and turned it into a cough. Bram did not look round."
+            },
+            {
+              "key": "B",
+              "label": "Close POV may notice",
+              "consequence": "The POV's own head may register the joke in his own idiom, as he would think it. The narrator outside him never remarks; R5-C1 stands.",
+              "sample": "The inspector came down the conduit stair with her slate under her arm and the Guild seal on a cord at her neck. \"Pinchgauge,\" she said. \"From the proof-house.\" Of course she was. Bram watched her read the gauge-housing and write a figure, and when she showed it him it was a hair under the meter, and he thought her grandfather had likely read light as well, and his grandfather before him."
+            },
+            {
+              "key": "C",
+              "label": "Narration may remark once",
+              "consequence": "At first use the narration may note the joke once, dryly, in its own voice. R5-C1 narrows to its core: no line knowing better than the POV.",
+              "sample": "The inspector came down the conduit stair with her slate under her arm and the Guild seal on a cord at her neck. Her name was Pinchgauge, and in four generations no Pinchgauge had read a meter high. She read the gauge-housing, wrote a figure, and showed it to Bram. It was a hair under. The family had kept its record."
+            }
+          ],
+          "recommended": "B",
+          "rec_reason": "A close POV noticing is a character noticing, so the no-wink law holds and the joke still lands where Isaac reads it.",
+          "multi": false,
+          "depends_on": [
+            "NM5"
+          ],
+          "rules_touched": [
+            "R5-C1-NARRATION_NEVER_WINKS",
+            "R5-D-HUMOUR_BARRED",
+            "R5-C1-INFO_TRACKED_PER_POV"
+          ]
+        },
+        {
+          "id": "NM12",
+          "title": "Walk-ons with comic names",
+          "question": "May a one-scene person carry a comic name before he has spoken twice?",
+          "context": "R50-27: a new person is 'a role (the gate-clerk) until they speak twice or matter'. Pratchett and Dickens name walk-ons at once, often with the joke as the whole character.",
+          "options": [
+            {
+              "key": "A",
+              "label": "Role first, as now",
+              "consequence": "R50-27 stands: the walk-on is the gate guard until he speaks twice or matters, and then he gets a name, comic or strict.",
+              "sample": "The gate guard at the lower arch let the cart stand in the wind while he read the seal. He held it upside down for a while, then the right way up, and handed it back with a grunt. \"Through.\" The ox leaned into the traces. Above them on the wall someone bawled down about his supper, and the guard bawled back, and the cart rolled under the arch into the smoke of the outer town."
+            },
+            {
+              "key": "B",
+              "label": "Comic name on sight",
+              "consequence": "A walk-on may carry a comic name in narration from his first line, the Pratchett move, while strict names still wait on R50-27. A walk-on named for a joke does not die in that scene.",
+              "sample": "Dozy Wat, who kept the lower arch, let the cart stand in the wind while he read the seal. He held it upside down for a while, then the right way up, and handed it back with a grunt. \"Through.\" The ox leaned into the traces. Above them on the wall someone bawled down about his supper, and Dozy Wat bawled back, and the cart rolled under the arch into the smoke of the outer town."
+            },
+            {
+              "key": "C",
+              "label": "Nickname in a mouth",
+              "consequence": "A walk-on may be named at once only by a nickname in someone else's mouth; the narration keeps the role until R50-27 is met. A walk-on named for a joke does not die in that scene.",
+              "sample": "The gate guard at the lower arch let the cart stand in the wind while he read the seal. He held it upside down for a while, then the right way up, and handed it back with a grunt. \"Through.\" The ox leaned into the traces. \"Dozy!\" someone bawled from the wall. \"Your broth's gone to ice!\" The guard bawled back, and the cart rolled under the arch into the smoke of the outer town."
+            }
+          ],
+          "recommended": "C",
+          "rec_reason": "Nicknames arrive where soldiers and gate crews really make them, in each other's mouths, and the narration's discipline under R50-27 survives intact.",
+          "multi": false,
+          "depends_on": [
+            "NM4"
+          ],
+          "rules_touched": [
+            "R50-27-NEW_NPC_NAME",
+            "R52-31-COMIC_NPC"
+          ]
+        },
+        {
+          "id": "NM13",
+          "title": "How comic names get made",
+          "question": "How should comic names be produced at the table?",
+          "context": "R50-30 lets Natalie 'name by ear to keep the pace', then checks names against the banks and sound rules at scene end, where a comic outlier would fail. R50-28: a coined word 'becomes canon only if Isaac reuses it'.",
+          "options": [
+            {
+              "key": "A",
+              "label": "A comic bank per culture",
+              "consequence": "Each Standing Inventory (the per-culture texture file) gains a comic-name list of bynames, nicknames, rhyming sets and signboards, built in that culture's sound rules.",
+              "sample": "Kharven: Two-Bowls, Short-Stack, Wet Wood, Full Mouth.\nDawi: sets on Rin, Grim and Tor; Twelvecasks.\nAccord and Northern: Pinchgauge, Spendlove, Tardipes, Hob and Dob."
+            },
+            {
+              "key": "B",
+              "label": "By ear, passed as outliers",
+              "consequence": "Names coined mid-scene stay legal, and the scene-end check passes a comic name as an outlier (R50-18) when it keeps its culture's sound rules.",
+              "sample": "Dozy Wat: coined at the gate, passed.\nSnorin: coined at a Guild counter, passed as a Common nickname.\nGripsnack: passed, since goblin sound rules allowed it."
+            },
+            {
+              "key": "C",
+              "label": "A floor per crowd scene",
+              "consequence": "Every scene with a crowd, muster, market or tavern carries at least one comic name, checked by verify_scene (the MCP's draft checker). Quiet scenes and two-handers owe none.",
+              "sample": "A muster at the Seat: Kettle and the Garth twins.\nA Guild hall queue: Snorin.\nA death-house Waiting: none owed, none used."
+            }
+          ],
+          "recommended": "A, B",
+          "rec_reason": "A bank gives each culture's comedy its own sound and keeps it fast at the table, and the outlier pass stops the scene-end check failing a good joke. A quota would turn comedy into a duty.",
+          "multi": true,
+          "depends_on": [
+            "NM1"
+          ],
+          "rules_touched": [
+            "R50-30-BANK_OR_EAR",
+            "R50-18-OUTLIERS",
+            "R50-28-NEW_WORDS"
+          ]
+        },
+        {
+          "id": "NM14",
+          "title": "How the answers enter the law",
+          "question": "How should this section's answers enter the naming law?",
+          "context": "Naming law today is R50, ruled 2026-09-26, over the older strata rows. These answers would bend at least R50-18, R50-27, R50-30 and R5-C1, and in this repo an amendment is a new ruling that supersedes a row, never an edit to it.",
+          "options": [
+            {
+              "key": "A",
+              "label": "A comic-names block",
+              "consequence": "One new block of rules carries every answer here, each naming the row it amends (R50-27, R50-30, R5-C1 and the rest), and those rows are marked superseded in part."
+            },
+            {
+              "key": "B",
+              "label": "Row by row",
+              "consequence": "Each answer becomes its own ruling superseding the matching row, with no comic-names block. Easier to trace, scattered to read."
+            },
+            {
+              "key": "C",
+              "label": "Craft guidance only",
+              "consequence": "The answers go into the Naming guide and the Standing Inventories as craft guidance; current rows stand, and comic names live inside them as outliers under R50-18."
+            }
+          ],
+          "recommended": "A",
+          "rec_reason": "One block reads as one decision at the table and in load_rules, and naming each amended row keeps the trail Isaac uses to correct the index.",
+          "multi": false,
+          "depends_on": [],
+          "rules_touched": [
+            "R50-18-OUTLIERS",
+            "R50-27-NEW_NPC_NAME",
+            "R50-30-BANK_OR_EAR",
+            "R5-C1-NARRATION_NEVER_WINKS"
+          ]
+        }
+      ]
+    }
+  ],
+  "settled": [
+    {
+      "point": "Isaac's PC Sodoku Moto and the other creators' characters (Haruki, Dova'Kan, Gorgi, Ma'Kovu, Fushigi, Xhem, Sonzai) never carry or receive a comic name, and none of them is renamed.",
+      "rule_ids": [
+        "R52-14-SODOKU_JOKE"
+      ],
+      "why_not_asked": "A standing table rule in NATALIE.md; Sodoku jokes 'only by accident' (R52-14), and the other creators' names belong to them."
+    },
+    {
+      "point": "No comic name revives a Büri or Mongolian-register form; Moto canon governs every joke near the house.",
+      "rule_ids": [
+        "R22-1-HOUSE_STRUCK",
+        "R22-2-NAMED_CHARACTERS_TABLE"
+      ],
+      "why_not_asked": "Ruled 2026-09-12: the Büri register is dead and the sweep of old pages is in progress."
+    },
+    {
+      "point": "Existing names stay as they are; comic names are for new characters, places and things, and Borin Ironheart keeps his name whatever NM8 decides.",
+      "rule_ids": [
+        "R50-02-FIX_OLD_ONES",
+        "R20C-40-NAMING_PASS_SCHEDULED"
+      ],
+      "why_not_asked": "Established names are 'flagged, never renamed' (R20C-40), and old names are fixed for grammar only (R50-02)."
+    },
+    {
+      "point": "A pun in a foreign tongue uses real, correct words with a true gloss, and an Accord Latin joke is real Latin.",
+      "rule_ids": [
+        "R50-01-REAL_GRAMMAR",
+        "R50-12-COINED_LATIN"
+      ],
+      "why_not_asked": "Live law ruled 2026-09-26; a comic name gets no exemption."
+    },
+    {
+      "point": "Names show romanised only, so no joke may depend on written characters.",
+      "rule_ids": [
+        "R50-31-SCRIPT_SHOWN"
+      ],
+      "why_not_asked": "Live law; NM7 asks only which spoken puns the Eastern strata use."
+    },
+    {
+      "point": "No Earth day or month names in any name, and banned modern slang stays out of narration.",
+      "rule_ids": [
+        "R51-08-CALENDAR",
+        "R51-03-LIST_SLANG"
+      ],
+      "why_not_asked": "Live vocabulary law; NM2 option C already keeps brand and meme puns out."
+    },
+    {
+      "point": "Every comic name still gets a pronunciation line on its card.",
+      "rule_ids": [
+        "R50-34-SAY_GUIDE"
+      ],
+      "why_not_asked": "Live law; a joke name is still a name."
+    },
+    {
+      "point": "Epithets in narration, sobriquets, sect titles and honorifics.",
+      "rule_ids": [
+        "R49-10-EPITHETS",
+        "R50-21-THIRD_NAMES"
+      ],
+      "why_not_asked": "Asked in the NE section; this section takes comic names and nicknames only."
+    }
+  ]
+}

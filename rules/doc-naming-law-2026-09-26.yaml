@@ -31,7 +31,13 @@ rules:
     lines: null
   notes: 'Question n01: Real-language names in the wiki are often loose. ''Upanga wa Msimu Nne'' would
     be ''Upanga wa Misimu Minne'' in correct Swahili, ''Kibanda cha Mwanga wa Miti'' says hut, not lantern,
-    and ''Shigoto no Baransu'
+    and ''Shigoto no Baransu Stands beside R70-24-EASTERN_CONCEPT_WORDS_NARRATION (style law 2026-10-03),
+    which licenses the loanword for what the body feels in narration and does not cite this rule. Cited
+    by R70-26-LEARNED_TONGUES_BESIDE_LATIN (style law 2026-10-03): every hanmun, kanbun, wenyan and Latin
+    tag must be real and correct. Cited by R70-34-REAL_LANGUAGE_SWEARS_NARRATION (style law 2026-10-03):
+    real-language swears in narration must be correct. Stands; a reader-only English pun hidden in a foreign
+    name stays out (R70-123-WHOSE_EAR_HEARS_JOKE, style law 2026-10-03), and Korean comic names are real
+    Korean only (R70-125-PEOPLES_EASTERN_STRATA).'
 - id: R50-02-FIX_OLD_ONES
   pack: Naming Law 2026-09-26
   pack_number: null
@@ -56,7 +62,10 @@ rules:
     file: ''
     lines: null
   notes: 'Question n02: If a published name turns out to be wrong in its source language (bad Swahili,
-    odd Japanese), what happens to it? R20C-40 says names established in prose are flagged, never renamed.'
+    odd Japanese), what happens to it? R20C-40 says names established in prose are flagged, never renamed.
+    Stands; R70-126-BORIN_IRONHEART_RHYMING (style law 2026-10-03) renames nobody: Borin Ironheart keeps
+    his name, as the questionnaire settled under this row, and his brothers are new names on the shared
+    Rin.'
 - id: R50-03-EARTH_PLACES
   pack: Naming Law 2026-09-26
   pack_number: null
@@ -258,7 +267,9 @@ rules:
   notes: 'Question n10: The wotr-write naming note says technique names pass ''the one-beat test: the
     name is the thing''. R8-12 repealed ''ability naming equals the phenomenon itself, Ruin is Ruin''.
     Which way should a new tech Corrected 2026-09-27 by the ruling audit (RULINGS.md, ruling-audit-2026-09-27)
-    to state exactly what Isaac chose.'
+    to state exactly what Isaac chose. Noted by R70-74-TECHNIQUE_NAME_LOOKS (style law 2026-10-03): lineage-hall
+    and Korean-stratum arts may carry four-syllable true names, and a school''s art may run as numbered
+    forms; naming by culture stands.'
 - id: R50-11-LONG_NAMES
   pack: Naming Law 2026-09-26
   pack_number: null
@@ -282,7 +293,11 @@ rules:
     lines: null
   notes: 'Question n11: Many wiki techniques are long English compounds (''Celestial Decree Aeon-Shard
     Mandate'', ''Harmonic Null-Ascension'', ''Solarbound Aegoric Knight''). For new ones, is that style
-    still welcome?'
+    still welcome? Clarified by R70-74-TECHNIQUE_NAME_LOOKS (style law 2026-10-03): the two-word cap binds
+    new English names only, so a hall art''s four-syllable true name in Chinese or Korean sits outside
+    it; this rule stands. Stands for technique names, as R70-128-PLACES_INNS_SHIPS_GEAR says (style law
+    2026-10-03); the comic folk names R70-128 allows belong to inns and shops, places, vessels and engines,
+    and weapons and gear, never to techniques.'
 - id: R50-12-COINED_LATIN
   pack: Naming Law 2026-09-26
   pack_number: null
@@ -306,7 +321,10 @@ rules:
     lines: null
   notes: 'Question n12: Many names are invented Latin-flavoured words that are not real Latin (Exuroth,
     Pyreveil, Cryost, Eidolyn, Aegoric). Real Latin also appears (Sigillum Fixatio). Which should new
-    Latinate names be?'
+    Latinate names be? Unchanged by R70-26-LEARNED_TONGUES_BESIDE_LATIN (style law 2026-10-03), which
+    holds the hanmun, kanbun and wenyan tags it adds to the same test: each real and romanised (R50-01,
+    R50-31). Stands; Accord jokes in names are in correct Latin (R70-124-PEOPLES_WEST_NORTH, style law
+    2026-10-03).'
 - id: R50-13-ITEM_NAMES
   pack: Naming Law 2026-09-26
   pack_number: null
@@ -331,7 +349,9 @@ rules:
     file: ''
     lines: null
   notes: 'Question n13: Named items pair a true name with an English by-name (''Kogane Kei · The Soul-Reed
-    Blade''). Whose language gives an item its true name?'
+    Blade''). Whose language gives an item its true name? Extended by R70-128-PLACES_INNS_SHIPS_GEAR (style
+    law 2026-10-03): weapons and gear may take soldiers'' comic folk names beside their true names; the
+    true name in the maker''s tongue stays grave.'
 - id: R50-14-ESCALATION
   pack: Naming Law 2026-09-26
   pack_number: null
@@ -425,7 +445,9 @@ rules:
     file: ''
     lines: null
   notes: 'Question n17: Two Onawas were kept and made into a story. What is the rule for two characters
-    sharing a name or sounding alike?'
+    sharing a name or sounding alike? Stands; R70-120-BUILT_COMIC_NAMES (style law 2026-10-03) builds
+    comic sets on it (kin, crews and sworn pairs sharing a name-part), and R70-126-BORIN_IRONHEART_RHYMING
+    gives Borin Ironheart brothers on the shared Rin.'
 - id: R50-18-OUTLIERS
   pack: Naming Law 2026-09-26
   pack_number: null
@@ -451,7 +473,10 @@ rules:
     file: ''
     lines: null
   notes: 'Question n18: About one named character in eight may carry a name that fits no stratum, each
-    with a reason in the workbook (R23-5). Keep that budget?'
+    with a reason in the workbook (R23-5). Keep that budget? Stands; comic names coined live pass the
+    scene-end check as outliers so long as they keep their culture''s sound rules, and any that break
+    them are flagged (R70-131-COMIC_NAMES_GET_MADE, style law 2026-10-03). Comic bynames and nicknames
+    are the norm among commons and soldiers (R70-119-MUCH_POOL_COMIC).'
 - id: R50-19-ZETTARI_BANK
   pack: Naming Law 2026-09-26
   pack_number: null
@@ -524,7 +549,10 @@ rules:
     file: ''
     lines: null
   notes: 'Question n21: Every practitioner''s Third Name is what the world calls them (The Ledger-Keeper).
-    In play, who coins a Third Name for one of your characters?'
+    In play, who coins a Third Name for one of your characters? Confirmed by R70-96-TITLES_ACHIEVEMENTS
+    (style law 2026-10-03): Third Names carry on; a Guild commendation is a separate, written title with
+    no stat effect. Stands, as R70-117-SOBRIQUETS_HALL_TITLES says (style law 2026-10-03); criers, crowds,
+    ballads and enemies may hang lesser names on any notable fighter.'
 - id: R50-22-PLACE_STRATA
   pack: Naming Law 2026-09-26
   pack_number: null
@@ -547,7 +575,9 @@ rules:
     file: ''
     lines: null
   notes: 'Question n22: People''s names follow institution, never geography. Nothing says how a place
-    is named. Which rule should places follow?'
+    is named. Which rule should places follow? Extended by R70-128-PLACES_INNS_SHIPS_GEAR (style law 2026-10-03):
+    the commons'' comic names for streets, fords and districts sit beside the official ones, one per culture;
+    the Accord''s Latin name stays grave.'
 - id: R50-23-DOUBLETS
   pack: Naming Law 2026-09-26
   pack_number: null
@@ -572,7 +602,9 @@ rules:
     file: ''
     lines: null
   notes: 'Question n23: Every craft term has an Accord Latin name and a common-tongue name, and the choice
-    marks class (R20C-46). Does that doublet stretch to factions, schools and places?'
+    marks class (R20C-46). Does that doublet stretch to factions, schools and places? Stands; the Accord''s
+    Latin place name stays grave beside any comic folk name (R70-128-PLACES_INNS_SHIPS_GEAR, style law
+    2026-10-03).'
 - id: R50-24-SCHOOL_NAMES
   pack: Naming Law 2026-09-26
   pack_number: null
@@ -670,7 +702,10 @@ rules:
     file: ''
     lines: null
   notes: 'Question n27: When the partner puts a new person in a scene (a gate guard, a clerk), when do
-    they get a name?'
+    they get a name? Amended in one line by R70-130-WALK_ONS_WITH_COMIC (NM12, as R70-132-FAR_NAMING_LAW_BENDS
+    directs; style law 2026-10-03): a walk-on may be named at once only by a nickname in someone else''s
+    mouth; the narration keeps the role until this rule is met, and a walk-on named for a joke does not
+    die in that scene.'
 - id: R50-28-NEW_WORDS
   pack: Naming Law 2026-09-26
   pack_number: null
@@ -695,7 +730,13 @@ rules:
     file: ''
     lines: null
   notes: 'Question n28: Your own coinages are kept and docketed (R16-6). When the partner coins a word
-    mid-scene (a slang term, a new drink, a school), what happens to it?'
+    mid-scene (a slang term, a new drink, a school), what happens to it? Stands, confirmed by R70-32-NEW_WORDS_KIND_MANY
+    (style law 2026-10-03): every coinage, whatever its kind, is logged with the scene. Stands beside
+    R70-33-WORD_BANK_PER_CULTURE (style law 2026-10-03): a mid-scene coinage is still logged with the
+    scene; the Words entry holds a culture''s standing words. Read with R70-36-CHECKER_ENFORCES (style
+    law 2026-10-03): words in no culture bank are listed by the checker for the scene log. Unchanged by
+    R70-131-COMIC_NAMES_GET_MADE (style law 2026-10-03), whose comic names coined live are checked at
+    scene end under R50-30-BANK_OR_EAR.'
 - id: R50-29-COLLISION
   pack: Naming Law 2026-09-26
   pack_number: null
@@ -745,7 +786,10 @@ rules:
     file: ''
     lines: null
   notes: 'Question n30: Mid-scene, must the partner build a name from the element banks and sound rules
-    every time, or can they name by ear and fix it later?'
+    every time, or can they name by ear and fix it later? Amended in one line by R70-131-COMIC_NAMES_GET_MADE
+    (NM13, as R70-132-FAR_NAMING_LAW_BENDS directs; style law 2026-10-03): comic names coined by ear pass
+    the scene-end check as outliers so long as they keep their culture''s sound rules, and any that break
+    them are flagged.'
 - id: R50-31-SCRIPT_SHOWN
   pack: Naming Law 2026-09-26
   pack_number: null
@@ -768,7 +812,10 @@ rules:
     file: ''
     lines: null
   notes: 'Question n31: Entries may carry the true name ''in script where the register has one'' (kanji,
-    hangul). Should cards and codex pages show real script?'
+    hangul). Should cards and codex pages show real script? Cited by R70-26-LEARNED_TONGUES_BESIDE_LATIN
+    (style law 2026-10-03): learned tags are romanised, never shown in real script. Stands; no comic name
+    in the Eastern strata may need a written character to land (R70-125-PEOPLES_EASTERN_STRATA, style
+    law 2026-10-03).'
 - id: R50-32-ITALICS
   pack: Naming Law 2026-09-26
   pack_number: null
@@ -790,7 +837,10 @@ rules:
   source:
     file: ''
     lines: null
-  notes: 'Question n32: In prose, are foreign names and borrowed words set in italics?'
+  notes: 'Question n32: In prose, are foreign names and borrowed words set in italics? Stands, confirmed
+    by R70-25-FOREIGN_WORDS_PAGE (style law 2026-10-03): borrowed words stay roman on the page. Cited
+    by R70-34-REAL_LANGUAGE_SWEARS_NARRATION (style law 2026-10-03): real-language swears in narration
+    are never italic.'
 - id: R50-33-MISPRONOUNCE
   pack: Naming Law 2026-09-26
   pack_number: null
@@ -815,7 +865,8 @@ rules:
     file: ''
     lines: null
   notes: 'Question n33: Names said by a foreigner come out bent (a Concord human flattens a Dawi name).
-    How does that show on the page?'
+    How does that show on the page? Stands; a mangled name is spelled as heard (R70-121-GROWN_COMIC_NAMES,
+    style law 2026-10-03), and a Common ear mishearing is one bridge for an English pun (R70-123-WHOSE_EAR_HEARS_JOKE).'
 - id: R50-34-SAY_GUIDE
   pack: Naming Law 2026-09-26
   pack_number: null

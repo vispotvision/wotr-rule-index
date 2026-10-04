@@ -1,0 +1,769 @@
+- id: R70-1-BLEND_MODEL
+  pack: Style Law 2026-10-03
+  pack_number: null
+  section: K1
+  title: One fused house style, tilted by the POV's culture
+  status: live
+  kind: mandate
+  summary: Write every scene in one house style that draws on Western literary fantasy, the Eastern traditions
+    and LitRPG at once, and let the POV's culture tilt the mix (further East in a Moto room, further West
+    in an Accord counting-house).
+  verbatim: 'Fused, tilted by culture. One house style draws on all three strands in every scene, and
+    the POV''s culture tilts the mix: a Moto room leans further East, an Accord counting-house further
+    West. R5-A, R5-E and R11-1 are rewritten.'
+  amends:
+  - guide: WOTR_Master_Style_Directive.md
+    locus: §1
+    operation: replaces
+  - guide: NATALIE.md and the wotr-write skill
+    locus: Who Natalie is (the models line)
+    operation: replaces
+  supersedes:
+  - R5-A-FLESH_CHANGES
+  - R5-E-MARTIN_WINS_RULING
+  - R11-1-TONAL_SPINE_UNCHANGED
+  applies_to:
+  - prose-law
+  - register
+  - pov
+  verification: []
+  ratified: 'Isaac, 2026-10-03, Claude Code chat: ruled directly (the style questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: K1. Supersedes the Western-flesh doctrine rows named in its own words (R5-A, R5-E, R11-1), as
+    R70-7 also does; within those short ids only the doctrine rows are reached, and R5-A-SKELETON_UNCHANGED,
+    R5-E-NARRATION_NEVER_ADJUDICATES, R5-E-ELEGIAC_REGISTER_ALLOWED, R5-E-FREE_INDIRECT_CARVEOUT and the
+    R11-1 visual rows stand. Works with R70-3 (which strand leads which layer) and R70-21 (cadence set
+    by the POV's culture).
+- id: R70-2-LITRPG_WOTR_BECOMES
+  pack: Style Law 2026-10-03
+  pack_number: null
+  section: K2
+  title: 'Full LitRPG: practitioners see their own readouts'
+  status: live
+  kind: mandate
+  summary: 'Treat WOTR as full LitRPG: a practitioner sees his own readouts on the page (a screen at a
+    reading, a notice at a level, a breakthrough or a cost), and every figure in them traces to the sheet.'
+  verbatim: 'Full LitRPG, screens. Practitioners see their own readouts: a screen at a reading, a notice
+    at a level, a breakthrough or a cost. Where the screens come from in the world is LR22''s call; every
+    figure traces to the sheet (R12-5).'
+  amends:
+  - guide: WOTR_Master_Style_Directive.md
+    locus: §5
+    operation: extends
+  - guide: NATALIE.md and the wotr-write skill
+    locus: The Magic Frame (the stats decide)
+    operation: adds
+  supersedes: []
+  applies_to:
+  - prose-law
+  - stats
+  - magic-mechanism
+  verification: []
+  ratified: 'Isaac, 2026-10-03, Claude Code chat: ruled directly (the style questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: 'K2. Carries R49-47 and R51-16 further; R12-5-NEVER_INVENT_NUMBER binds every readout figure.
+    Where the screens come from is R70-78 (LR22: read in the Soul Crystal); how readouts sit and sound
+    is set by the LR rows (R70-80, R70-81, R70-83 and following).'
+- id: R70-3-STRAND_LEADS_LAYER
+  pack: Style Law 2026-10-03
+  pack_number: null
+  section: K3
+  title: Each strand leads its own layer
+  status: live
+  kind: mandate
+  summary: Let the Eastern strand lead narration, interiority and structure, the Western strand lead combat,
+    injury and dialogue, and LitRPG lead progression, so that the narrator is what changes most.
+  verbatim: Eastern voice leads. Eastern leads narration, interiority and structure; Western leads combat,
+    injury and dialogue; LitRPG leads progression. The narrator itself changes most.
+  amends:
+  - guide: WOTR_Master_Style_Directive.md
+    locus: §1
+    operation: replaces
+  - guide: NATALIE.md and the wotr-write skill
+    locus: Who Natalie is (the models line)
+    operation: replaces
+  supersedes: []
+  applies_to:
+  - prose-law
+  - pov
+  - scene-structure
+  - combat
+  - dialogue
+  - stats
+  verification: []
+  ratified: 'Isaac, 2026-10-03, Claude Code chat: ruled directly (the style questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: K3. Replaces the per-layer content of R5-A-FLESH_CHANGES, which R70-1 supersedes. Works with
+    R70-1 (the blend) and R70-9 (the Technical and Mystic registers); R70-9 sets what the Technical register
+    draws on (LitRPG and wuxia) in the combat and injury this row gives the Western strand to lead.
+- id: R70-4-WESTERN_MODELS
+  pack: Style Law 2026-10-03
+  pack_number: null
+  section: K4
+  title: 'Western models: Tolkien, Dickens, Kay; Martin and Abercrombie dropped'
+  status: live
+  kind: definition
+  summary: Name Tolkien (elegy, high style, routes, songs, many-named places), Dickens and the Victorians
+    (the city as organism, money and institutions, the serial hook) and Guy Gavriel Kay as the Western
+    models, plus the Eastern and LitRPG creators Isaac added (Kishimoto, Kubo, anime, Unbound, The Beginning
+    After the End); Martin and Abercrombie are no longer named, and the narrator still passes no moral
+    verdicts.
+  verbatim: 'Yes to: Tolkien (Elegy, high style, routes, songs and many-named places stay named under
+    Tolkien; his moral voice stays barred (R5-E). Unticked, the same register stays legal under R48-05
+    without his name); Dickens and the Victorians (Joins the list: the city as one organism, money and
+    institutions on the page, the serial hook. Fits the Draw Age''s Victorian look (R53-28); the narrator''s
+    moral verdicts stay out); Guy Gavriel Kay (Joins the list: Western craft carried into Chinese-history
+    settings, an elegiac storyteller who looks ahead to what the years will do, courts run on poetry and
+    rank. A ready bridge for the Chinese-register halls and Korean courts). Not taken: Martin and Abercrombie.
+    (Dickens/Victorians, Guy Gavriel Kay, Tolkien kept; Martin and Abercrombie unticked (dropped as named
+    models). Added in his words: ''Other Eastern Writers like Creator of Naruto and Bleach and other animes
+    litRPG light novel etc like unbound and beginning after the end''.)'
+  amends:
+  - guide: WOTR_Master_Style_Directive.md
+    locus: §1
+    operation: replaces
+  - guide: NATALIE.md and the wotr-write skill
+    locus: Who Natalie is (the models line)
+    operation: replaces
+  supersedes: []
+  applies_to:
+  - prose-law
+  - register
+  verification: []
+  ratified: 'Isaac, 2026-10-03, Claude Code chat: ruled directly (the style questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: K4. Tolkien's moral voice stays barred under R5-E-NARRATION_NEVER_ADJUDICATES and R5-E-FREE_INDIRECT_CARVEOUT;
+    high style stays legal under R48-05; the Dickens pick leans on R53-28. Martin and Abercrombie leave
+    the models line with R5-A-FLESH_CHANGES and R5-E-MARTIN_WINS_RULING, both superseded by R70-1 and
+    R70-7.
+- id: R70-5-EASTERN_MODELS
+  pack: Style Law 2026-10-03
+  pack_number: null
+  section: K5
+  title: Eastern models, one per register culture
+  status: live
+  kind: definition
+  summary: Draw on Jin Yong and the chapter novels for the Chinese-register halls, the Heike and the war
+    tales for the Moto and Shirogane, Kawabata and Tanizaki for Japanese restraint, and pansori and sijo
+    for Ketsuen, Hon-guk and the Mahuo.
+  verbatim: 'Yes to: Jin Yong, chapter novels (The Chinese-register halls gain a model: named forms traced
+    to a lineage and a manual, sect politics run like a state''s, the chapter novel''s storyteller and
+    couplet chapter titles); The Heike and war tales (The Moto and Shirogane gain their tradition: the
+    name-declaration before combat, armour catalogued piece by piece, impermanence felt at the fall of
+    a house); Kawabata and Tanizaki (Japanese restraint gains a named model: the scene that breaks off
+    before its point, the season in one exact detail, rooms described by how they hold light and shadow);
+    Pansori and sijo (Ketsuen, Hon-guk and the Mahuo gain a literary voice: tempo matched to feeling,
+    comedy inside tragedy, han (grief held for years, never released), and sijo, three-line verse that
+    turns in its last line).'
+  amends:
+  - guide: WOTR_Master_Style_Directive.md
+    locus: §1
+    operation: adds
+  - guide: NATALIE.md and the wotr-write skill
+    locus: Who Natalie is (the models line)
+    operation: adds
+  supersedes: []
+  applies_to:
+  - prose-law
+  - register
+  - combat
+  verification: []
+  ratified: 'Isaac, 2026-10-03, Claude Code chat: ruled directly (the style questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: 'K5. Joins Naruto and Lord of the Mysteries, which stay named models. Its devices land through
+    other rows: couplet chapter titles (R70-23), break-off endings (R70-17), the season word (R70-16).'
+- id: R70-6-LITRPG_PROGRESSION_MODELS
+  pack: Style Law 2026-10-03
+  pack_number: null
+  section: K6
+  title: LitRPG and progression models
+  status: live
+  kind: definition
+  summary: Take Cradle (rank felt in the room, breakthroughs as set pieces), Reverend Insanity (every
+    gain bought and counted), Solo Leveling (the reassessment, quests with stated penalties, the drill
+    as contract) and The Wandering Inn (the level-up as a quiet verdict, bracketed class and skill names)
+    as progression models beside Unbound.
+  verbatim: 'Yes to: Cradle (Ranks everyone in a room can sense, breakthroughs written as set pieces,
+    little need for screens. Matches how Pressure already works in WOTR); Reverend Insanity (A Chinese
+    cultivation novel run as a ledger: every gain bought, every resource counted, a cold calculating mind
+    at the centre. The grimdark end of cultivation fiction, close to WOTR''s cost law); Solo Leveling
+    (The Korean System novel: the reassessment that overturns a registered rank, quests with stated penalties,
+    the daily drill as a contract. Its escalation and onlooker shock run into the R5-B tells); The Wandering
+    Inn (The level-up as a quiet verdict on who a person became that day, arriving in sleep; bracketed
+    class and skill names inside ordinary sentences).'
+  amends:
+  - guide: WOTR_Master_Style_Directive.md
+    locus: §1
+    operation: adds
+  - guide: NATALIE.md and the wotr-write skill
+    locus: Who Natalie is (the models line)
+    operation: adds
+  supersedes: []
+  applies_to:
+  - prose-law
+  - stats
+  - scene-structure
+  verification: []
+  ratified: 'Isaac, 2026-10-03, Claude Code chat: ruled directly (the style questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: K6. Solo Leveling comes in knowing its escalation and onlooker shock run into the R5-B tells;
+    those tells are re-ruled one by one under R70-7 (the crowd chorus R70-72, escalation inside a duel
+    R70-102, the face-slap R70-112). Scaling vocabulary stays off the page (R13-6-SCALING_VOCAB_RESTRICTED
+    stands).
+- id: R70-7-FAR_MOVE
+  pack: Style Law 2026-10-03
+  pack_number: null
+  section: K7
+  title: A new style pack; the anti-machine hygiene carries over
+  status: live
+  kind: repeal
+  summary: Treat this style law as a new pack that supersedes Pack Five's flesh sections and R11-1, re-rule
+    the Pack Five tells (R5-B, R5-G) one at a time rather than wholesale, and keep every anti-machine
+    check unchanged.
+  verbatim: New pack, old hygiene. A new style pack supersedes Pack Five's flesh sections and R11-1 and
+    re-rules the R5-B and R5-G tells one by one; the anti-machine checks carry over unchanged.
+  amends:
+  - guide: WOTR_Master_Style_Directive.md
+    locus: §1
+    operation: replaces
+  supersedes:
+  - R5-A-FLESH_CHANGES
+  - R5-E-MARTIN_WINS_RULING
+  - R11-1-TONAL_SPINE_UNCHANGED
+  applies_to:
+  - prose-law
+  - verification
+  verification: []
+  ratified: 'Isaac, 2026-10-03, Claude Code chat: ruled directly (the style questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: K7. "Pack Five's flesh sections" is read as the doctrine rows that make the flesh Western (R5-A-FLESH_CHANGES,
+    R5-E-MARTIN_WINS_RULING), the Western-flesh doctrine the K7 question names as R5-A, R5-E and R11-1;
+    the Pack Five craft instruments that later answers keep (R5-C1 per R70-10 and R70-129, R5-C2 per
+    R70-39, R5-D per R70-81 and R70-113, R5-E's moral-voice bar per R70-4) stay live, and R5-C3 now carries
+    cadence as law (R70-21). "R11-1" is read as R11-1-TONAL_SPINE_UNCHANGED (how the page sounds); R11-1-NORTH_STAR_RETIRED
+    and R11-1-REPLACEMENT_REGISTER are the Draw Age look, which R70-4 keeps (R53-28), and stand. R5-B-MANHWA_DIRECTIVE_REPEALED
+    and R5-G-TELL_BANK_ADDITIONS stay live, re-ruled tell by tell (notes on each). Rhythm floors, dash
+    and slop-word bans are untouched except where R70-19 and the VB rows name a narrow licence.
+- id: R70-8-JOBS_STYLE_GOVERNS
+  pack: Style Law 2026-10-03
+  pack_number: null
+  section: K8
+  title: One style law for every job
+  status: live
+  kind: mandate
+  summary: Apply the blend in full, readouts included, to roleplay turns, written scenes, books and in-world
+    documents alike, with documents keeping their institution's house style inside it.
+  verbatim: All four alike. One style law; every job takes the blend in full, readouts included. Documents
+    keep their institution's house style inside it.
+  amends:
+  - guide: NATALIE.md and the wotr-write skill
+    locus: Prose Standards
+    operation: extends
+  supersedes: []
+  applies_to:
+  - prose-law
+  - documents
+  verification: []
+  ratified: 'Isaac, 2026-10-03, Claude Code chat: ruled directly (the style questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: K8. R51-33-DOC_REGISTER stands inside the blend. Tense by job (R49-02) and the length bands are
+    untouched.
+- id: R70-9-TECHNICAL_MYSTIC_REGISTERS
+  pack: Style Law 2026-10-03
+  pack_number: null
+  section: K9
+  title: The Technical and Mystic registers, rewritten by strand
+  status: live
+  kind: definition
+  summary: Draw the Technical register on LitRPG and wuxia (numbers, named forms, the read) and the Mystic
+    on Japanese and Chinese literary craft and the gothic (law, the half-seen), and keep mixing the two
+    freely by ear.
+  verbatim: 'Strands mapped to registers. R12-2 is rewritten: the Technical register draws on LitRPG and
+    wuxia (numbers, named forms, the read); the Mystic on Japanese and Chinese literary craft and the
+    gothic (law, the half-seen). R48-10''s free mixing stays.'
+  amends:
+  - guide: WOTR_Master_Style_Directive.md
+    locus: the Technical and Mystic registers (Pack Twelve §2), the model each register names
+    operation: replaces
+  - guide: NATALIE.md and the wotr-write skill
+    locus: The Magic Frame (two registers)
+    operation: extends
+  supersedes: []
+  applies_to:
+  - prose-law
+  - register
+  - magic-mechanism
+  verification: []
+  ratified: 'Isaac, 2026-10-03, Claude Code chat: ruled directly (the style questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: K9. "R12-2 is rewritten" reaches what each register draws on (Naruto and Lord of the Mysteries
+    give way to the strands named here); R12-2-TECHNICAL_REGISTER_DEF and R12-2-MYSTIC_REGISTER_DEF stay
+    live, partly amended, because R70-76 in the same ruling has "R12-2 governs what the world does" and
+    "People's workings keep full mechanism". R12-2-REGISTER_TEST (chosen act Technical, already running
+    Mystic) and R48-10-MIXING stand. Works with R70-76 (the Mystic's law for what the world does) and
+    R70-3 (Western leads combat and injury).
+- id: R70-10-NARRATOR_STANCE
+  pack: Style Law 2026-10-03
+  pack_number: null
+  section: VO1
+  title: The storyteller at a chapter threshold
+  status: live
+  kind: mandate
+  summary: Let the narrator address the reader, foreshadow or set down a maxim only in a chapter's opening
+    and closing lines, and keep the body of every scene POV-locked.
+  verbatim: Storyteller at thresholds. In a chapter's opening and closing lines the narrator may address
+    the reader, foreshadow or set down a maxim; the body of the scene stays POV-locked. R5-C1 gains a
+    threshold exception.
+  amends:
+  - guide: NATALIE.md and the wotr-write skill
+    locus: POV and interiority
+    operation: adds
+  - guide: WOTR_Master_Style_Directive.md
+    locus: §1
+    operation: extends
+  supersedes: []
+  applies_to:
+  - prose-law
+  - pov
+  - scene-structure
+  verification: []
+  ratified: 'Isaac, 2026-10-03, Claude Code chat: ruled directly (the style questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: VO1. Adds a threshold exception to R5-C1-NARRATION_NEVER_WINKS; R5-E-NARRATION_NEVER_ADJUDICATES
+    and R49-08-MEANING stand inside the scene, and R70-4 keeps the narrator's moral verdicts out. Works
+    with R70-17 (closing modes) and R70-23 (chapter heads).
+- id: R70-11-WIDE_VIEW
+  pack: Style Law 2026-10-03
+  pack_number: null
+  section: VO2
+  title: 'The roll call: marked dips into several heads'
+  status: live
+  kind: mandate
+  summary: In battles and crowds, a scene may run a marked roll call of one line inside each of several
+    heads and then return to the POV lock.
+  verbatim: 'Sweep with marked dips. Battles and crowds may run a marked roll call: one line inside each
+    of several heads, then the lock resumes. R1-3''s name-three rule exempts roll-call lines, and R39-7
+    gains rules for them.'
+  amends:
+  - guide: NATALIE.md and the wotr-write skill
+    locus: POV and interiority
+    operation: adds
+  - guide: Mass Combat Craft Guide
+    locus: interiority in battle (name three)
+    operation: extends
+  supersedes: []
+  applies_to:
+  - prose-law
+  - pov
+  - mass-combat
+  verification: []
+  ratified: 'Isaac, 2026-10-03, Claude Code chat: ruled directly (the style questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: VO2. Roll-call lines are exempt from R1-3-NAME_THREE_RULE, and R39-7-NO_NPC_THOUGHT_UNDER_POV_LOCK
+    and R48-40-NPC_THOUGHTS gain this exception; R49-09-CUTAWAYS stands. Works with R70-106 (the battle
+    cut between hill and ditch) and R70-72 (the crowd chorus in hearing).
+- id: R70-12-FIRST_PERSON
+  pack: Style Law 2026-10-03
+  pack_number: null
+  section: VO3
+  title: Third person only, outside documents
+  status: live
+  kind: mandate
+  summary: Narrate roleplay turns, written scenes and books in third person; first person belongs only
+    to in-world documents.
+  verbatim: Third person only. Third person becomes law for turns, scenes and books; first person stays
+    in documents. Rotating POVs and the lock stay easy.
+  amends:
+  - guide: NATALIE.md and the wotr-write skill
+    locus: POV and interiority
+    operation: adds
+  supersedes: []
+  applies_to:
+  - prose-law
+  - pov
+  - documents
+  verification: []
+  ratified: 'Isaac, 2026-10-03, Claude Code chat: ruled directly (the style questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: VO3. Sets person beside R49-02-TENSE (present for turns, past for scenes and books). R61-9's
+    first-person converted texts are documents and stay first person; R54-13 stands.
+- id: R70-13-EPITHETS_NARRATION
+  pack: Style Law 2026-10-03
+  pack_number: null
+  section: VO4
+  title: Rank and trade epithets
+  status: live
+  kind: mandate
+  summary: When the POV can read rank, a narration epithet may be a rank or trade tag (the Flourishing
+    envoy, the Measurewright), still one per character per scene and changing only when the reading changes.
+  verbatim: Rank and trade tags. An epithet may be a rank or trade tag (the Flourishing envoy, the Measurewright)
+    whenever the POV can read rank; still one per scene, changing when the reading changes.
+  amends:
+  - guide: NATALIE.md and the wotr-write skill
+    locus: POV and interiority
+    operation: extends
+  supersedes: []
+  applies_to:
+  - prose-law
+  - pov
+  verification: []
+  ratified: 'Isaac, 2026-10-03, Claude Code chat: ruled directly (the style questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: VO4. Extends R48-44-NAME_USE and keeps R49-10-EPITHETS' one-per-scene discipline. Works with
+    R70-118 (honorifics in a close POV).
+- id: R70-14-KISHOTENKETSU
+  pack: Style Law 2026-10-03
+  pack_number: null
+  section: SP1
+  title: Kishotenketsu for quiet scenes
+  status: live
+  kind: mandate
+  summary: Quiet, travel, downtime and interlude scenes may run set-up, development, twist and reconciliation
+    with no conflict, while fights, councils and set pieces keep the turn; the scene brief names the shape
+    and a roleplay turn still stops at Isaac's decision.
+  verbatim: Kishōtenketsu for quiet scenes. Quiet, travel, downtime and interlude scenes may run set-up,
+    development, twist, reconciliation with no conflict; fights, councils and set pieces keep the turn.
+    Scene briefs name the shape; roleplay turns still stop at Isaac's decision.
+  amends:
+  - guide: WOTR_Scene_Writing_Process_Guide.md
+    locus: Sec. 2 (scene shape)
+    operation: adds
+  - guide: NATALIE.md and the wotr-write skill
+    locus: Openings, endings, shape
+    operation: adds
+  supersedes: []
+  applies_to:
+  - prose-law
+  - scene-structure
+  verification: []
+  ratified: 'Isaac, 2026-10-03, Claude Code chat: ruled directly (the style questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: SP1. No indexed rule named; Table Rule 1 (stop at his next decision) holds for turns.
+- id: R70-15-TEMPO_STILLNESS
+  pack: Style Law 2026-10-03
+  pack_number: null
+  section: SP2
+  title: Jo-ha-kyu tempo for set pieces
+  status: live
+  kind: mandate
+  summary: Run set pieces and long scenes slow, then breaking, then swift, at scene and paragraph scale;
+    the motion opening becomes one option among several, and the hit still lands short and last.
+  verbatim: Jo-ha-kyū tempo. Set pieces and long scenes run slow, breaking, swift at scene and paragraph
+    scale; R49-25's motion opening becomes one option among others, and the hit still lands short and
+    last (R48-06).
+  amends:
+  - guide: NATALIE.md and the wotr-write skill
+    locus: Openings, endings, shape
+    operation: adds
+  - guide: WOTR_Scene_Writing_Process_Guide.md
+    locus: Sec. 2 (scene shape)
+    operation: adds
+  supersedes: []
+  applies_to:
+  - prose-law
+  - scene-structure
+  - combat
+  verification: []
+  ratified: 'Isaac, 2026-10-03, Claude Code chat: ruled directly (the style questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: SP2. Amends R49-25-OPENINGS (motion becomes optional); R48-06-RHYTHM_LAW's landing stands, with
+    R70-19's cumulative climax (once per scene, set pieces only) as the one named licence against it.
+    Works with R70-16 (opening modes) and R70-102 (duel shape by grammar).
+- id: R70-16-OPENING_MODES
+  pack: Style Law 2026-10-03
+  pack_number: null
+  section: SP3
+  title: Three new opening modes
+  status: live
+  kind: mandate
+  summary: Beside the senses and motion, a scene may open far to near (a long view closing plane by plane
+    on the person), on one culture's season word that fixes time and mood, or on a register entry, readout
+    or document that the scene then tests.
+  verbatim: 'Yes to: Far to near (Arrivals may open on a long view that moves in, plane by plane, to the
+    person, as Chinese landscape painting does. Feeds the archive''s thin landscape); Season word (An
+    opening may fix time and mood with one culture''s season word (Ward-Lighting, the Thin Weeks, Ice-out)
+    instead of a mood statement; each Inventory''s Time field becomes a season list); A reading or document
+    (A scene may open on a register entry, readout or document that the scene then tests (R12-4''s threshold
+    voice), as Lord of the Mysteries and LitRPG chapters do). Not taken: Image linked by mood.'
+  amends:
+  - guide: NATALIE.md and the wotr-write skill
+    locus: Openings, endings, shape
+    operation: extends
+  - guide: Standing Inventories, NATALIE.md and the wotr-write skill
+    locus: Time field (a season list)
+    operation: extends
+  supersedes: []
+  applies_to:
+  - prose-law
+  - scene-structure
+  - standing-inventory
+  - documents
+  verification: []
+  ratified: 'Isaac, 2026-10-03, Claude Code chat: ruled directly (the style questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: 'SP3. Extends R49-25-OPENINGS; the document opening is R12-4-VOICE_FOUR_DOCUMENT''s threshold
+    voice, now able to carry a readout. Each Inventory''s Time field becomes a season list (see R70-61
+    for what a season word carries). Not taken: the image linked by mood.'
+- id: R70-17-CLOSING_MODES
+  pack: Style Law 2026-10-03
+  pack_number: null
+  section: SP4
+  title: Three new closing modes
+  status: live
+  kind: mandate
+  summary: Beside an action, an image or a line, a chapter or scene may stop mid-crisis on a reveal or
+    threat, close on a set-off notice or readout of what the scene cost or earned (figures traced to the
+    sheet), or break off a breath before its emotional payoff, which the next scene then owes.
+  verbatim: 'Yes to: Mid-crisis cliffhanger (Chapters, and turns at the next decision, may stop mid-crisis
+    on a reveal or a threat, web-serial style; R49-26 gains the hook R5-F already wants); A notice or
+    readout (A scene may close on a notice or readout set off from the prose: what the scene cost or earned,
+    in figures traced to the sheet (R12-5)); Break off before payoff (A scene may stop a breath before
+    its emotional point and leave the payoff to the reader or the next scene, as Kawabata does; the next
+    scene owes what was withheld). Not taken: Storyteller''s next chapter.'
+  amends:
+  - guide: NATALIE.md and the wotr-write skill
+    locus: Openings, endings, shape
+    operation: extends
+  supersedes: []
+  applies_to:
+  - prose-law
+  - scene-structure
+  - stats
+  verification: []
+  ratified: 'Isaac, 2026-10-03, Claude Code chat: ruled directly (the style questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: 'SP4. Extends R49-26-ENDINGS and gives R5-F-LIGHT_NOVEL_KEPT''s hook at close a legal ending;
+    R12-5-NEVER_INVENT_NUMBER binds readout closes. A turn still stops at Isaac''s next decision. Not
+    taken: the storyteller''s next chapter. R70-64 adds a closing poem.'
+- id: R70-18-ARC_SHAPES
+  pack: Style Law 2026-10-03
+  pack_number: null
+  section: SP5
+  title: Licensed arc shapes
+  status: live
+  kind: mandate
+  summary: A thread or book may run the tournament or examination arc, the Well delve (deeper ground and
+    worse Well-spawn each stage, each closed on its cost), the training montage (weeks of drill compressed
+    into one passage ending on a reading), and episodic self-contained jobs inside the longer arc.
+  verbatim: 'Yes to: Tournament and examination (Tournaments and examinations become a licensed arc: rounds,
+    brackets, scouts'' odds, a ranking at the close. The Aetherion Academy arc already runs this way;
+    ticking it names the shape); The Well delve (A Well may be worked as an arc, deeper ground and worse
+    spawn at each stage, each stage closed on its cost; Well-spawn (R53-06) supply the threat); The training
+    montage (Weeks of drill may pass in one compressed passage that ends on a reading of what changed;
+    R48-29''s skip gains a form for growth); Episodic jobs (A chapter or session may be one self-contained
+    job, opened and closed in itself, inside the longer arc, as light novels and The Wandering Inn run).'
+  amends:
+  - guide: WOTR_Scene_Writing_Process_Guide.md
+    locus: arc shapes
+    operation: adds
+  - guide: NATALIE.md and the wotr-write skill
+    locus: Roleplay partnership
+    operation: extends
+  supersedes: []
+  applies_to:
+  - prose-law
+  - scene-structure
+  verification: []
+  ratified: 'Isaac, 2026-10-03, Claude Code chat: ruled directly (the style questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: SP5. Gives R48-29-PACING's skip a form for growth (the montage); the delve draws on R53-06-WELL_SPAWN.
+    The tournament and delve arcs run escalation as plot architecture, which R5-B-MANHWA_DIRECTIVE_REPEALED
+    already left legal; escalation inside a duel is R70-102's re-ruling under R70-7.
+- id: R70-19-PAIRED_CUMULATIVE_SENTENCES
+  pack: Style Law 2026-10-03
+  pack_number: null
+  section: RH1
+  title: Paired clauses and a cumulative climax, in set pieces
+  status: live
+  kind: budget
+  summary: In set pieces only, deliberate matched pairs and verse lines are exempt from the run rule,
+    and once per scene the climax may be one long cumulative sentence chained with 'and'; ordinary turns
+    keep the full rhythm law.
+  verbatim: Both, in set pieces. Both licences, in set pieces only; ordinary turns keep the full rhythm
+    law.
+  amends:
+  - guide: NATALIE.md and the wotr-write skill
+    locus: Beautiful prose (rhythm law)
+    operation: extends
+  - guide: WOTR_AI_Writing_Tells_to_Avoid.md
+    locus: §2
+    operation: extends
+  - guide: Manual Verification Guide
+    locus: §13
+    operation: extends
+  supersedes: []
+  applies_to:
+  - prose-law
+  - verification
+  verification:
+  - check-16
+  - --band set-piece
+  ratified: 'Isaac, 2026-10-03, Claude Code chat: ruled directly (the style questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: RH1. The two licences are RH1 options B (paired clauses) and C (one long climax sentence, "breaking
+    R4-14's landing rule"). Partly amends R48-06-RHYTHM_LAW, R4-14-RUN_RULE and R4-14-LANDING_RULE for
+    set pieces; the one climax sentence also bends R4-14-CONJUNCTION_AUDIT, R4-14-CLAUSE_CAP_AT_BEAT and
+    R4-14-HARD_CEILINGS' payoff limit. R4-14-CHAIN_CEILING is not named and still holds (R70-56). Works
+    with R70-15, which keeps the hit short and last under jo-ha-kyu; the climax sentence is the one licence
+    against that, set pieces only.
+- id: R70-20-PARAGRAPH_SHAPE
+  pack: Style Law 2026-10-03
+  pack_number: null
+  section: RH2
+  title: One-line paragraphs at peaks
+  status: live
+  kind: mandate
+  summary: Keep medium paragraphs as the norm, but let reveals, verdicts, notices and a fight's last beats
+    run as one-line paragraphs in a cluster.
+  verbatim: One-liners at peaks. Medium paragraphs stay the norm; reveals, verdicts, notices and a fight's
+    last beats may run as one-line paragraphs in a cluster. R48-07 is amended; R49-14's shape check stays.
+  amends:
+  - guide: NATALIE.md and the wotr-write skill
+    locus: Beautiful prose (white space)
+    operation: extends
+  supersedes: []
+  applies_to:
+  - prose-law
+  verification: []
+  ratified: 'Isaac, 2026-10-03, Claude Code chat: ruled directly (the style questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: RH2. Amends R48-07-WHITE_SPACE; R49-14-PARA_SHAPE's spread check stays. Works with R70-80 (readout
+    blocks at milestones).
+- id: R70-21-CADENCE_CULTURE
+  pack: Style Law 2026-10-03
+  pack_number: null
+  section: RH3
+  title: Cadence set by the POV's culture
+  status: live
+  kind: mandate
+  summary: Let the POV's culture set the narration cadence, stated in each narration register, so a Hallenfeld
+    man keeps his own rhythm in a Moto house and the gap between the two is texture.
+  verbatim: POV's culture sets it. The POV's culture sets cadence, and each narration register states
+    it. A Hallenfeld man stays Hallenfeld in a Moto house, and the gap between his rhythm and the house's
+    is the texture.
+  amends:
+  - guide: NATALIE.md and the wotr-write skill
+    locus: Register and voice
+    operation: adds
+  - guide: WOTR_Master_Style_Directive.md
+    locus: §1.4 (per-culture narration registers)
+    operation: adds
+  supersedes: []
+  applies_to:
+  - prose-law
+  - register
+  - pov
+  verification: []
+  ratified: 'Isaac, 2026-10-03, Claude Code chat: ruled directly (the style questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: RH3. Makes cadence by culture law against R15-1-REGISTER_BY_CULTURE and R20C-58-REGISTERS_FLAVOUR_NOT_LAW
+    (both left live, partly amended, since neither is named), and gives R5-C3-NARRATION_REGISTER_EXTENSION's
+    per-culture narration registers their cadence as law. Works with R70-1 (the culture tilt), R70-27
+    (the diction dial per culture) and R54-13 (no POV without a register).
+- id: R70-22-SOUND_WORDS
+  pack: Style Law 2026-10-03
+  pack_number: null
+  section: RH4
+  title: Native sound and state words
+  status: live
+  kind: mandate
+  summary: Each culture may carry a few native sound and state words in speech and close narration, entered
+    in its Inventory and never set in italics.
+  verbatim: Each culture's own words. Each culture may carry a few native sound and state words in speech
+    and close narration, entered in its Inventory and never italic (R49-49). Moto and Korean-register
+    houses gain most.
+  amends:
+  - guide: Standing Inventories, NATALIE.md and the wotr-write skill
+    locus: Words (sound and state words)
+    operation: adds
+  supersedes: []
+  applies_to:
+  - prose-law
+  - register
+  - dialogue
+  - standing-inventory
+  verification: []
+  ratified: 'Isaac, 2026-10-03, Claude Code chat: ruled directly (the style questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: RH4. Extends R51-31-SENSE_BANK; R49-49-FOREIGN governs the page. Moto and Korean-register houses
+    gain most. Works with R70-33 (a Words entry per Inventory).
+- id: R70-23-CHAPTER_HEADS
+  pack: Style Law 2026-10-03
+  pack_number: null
+  section: RH5
+  title: 'Chapter heads: couplet, epigraph, verse'
+  status: live
+  kind: mandate
+  summary: A book chapter may be headed by a matched couplet naming its two main events, by a short in-world
+    document in its institution's house style that the chapter then tests, or by a short verse in a culture's
+    own form, which verify reads as verse outside the rhythm statistics.
+  verbatim: 'Yes to: Couplet title (A book chapter may be headed by a matched couplet naming its two main
+    events; the table of contents reads as a poem and a promise); In-world epigraph (A chapter may open
+    on a short in-world document (case-book, register, proverb, letter) in its institution''s house style
+    (R51-33), which the chapter then tests (R12-4)); Verse header (A chapter may open on a short verse
+    in a culture''s own form (a Kharven riding-song, a Korean sijo), and verify checks it as verse, outside
+    the rhythm statistics).'
+  amends:
+  - guide: NATALIE.md and the wotr-write skill
+    locus: Openings, endings, shape
+    operation: adds
+  - guide: Manual Verification Guide
+    locus: verse outside the rhythm statistics
+    operation: extends
+  supersedes: []
+  applies_to:
+  - prose-law
+  - scene-structure
+  - documents
+  - verification
+  verification: []
+  ratified: 'Isaac, 2026-10-03, Claude Code chat: ruled directly (the style questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: RH5. The epigraph uses R51-33-DOC_REGISTER and R12-4-VOICE_FOUR_DOCUMENT; the verse check is
+    R70-136's verse marker. Sits beside R5-F-LIGHT_NOVEL_KEPT's fast entry.

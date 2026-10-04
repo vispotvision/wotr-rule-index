@@ -1,0 +1,2631 @@
+[
+ {
+  "n": 1,
+  "qid": "K1",
+  "section": "K",
+  "id": "R70-1-BLEND_MODEL",
+  "title": "The blend model",
+  "verbatim": "Fused, tilted by culture. One house style draws on all three strands in every scene, and the POV's culture tilts the mix: a Moto room leans further East, an Accord counting-house further West. R5-A, R5-E and R11-1 are rewritten.",
+  "question": "How should Western literary fantasy, the Eastern traditions and LitRPG combine in WOTR's prose?",
+  "rules_touched": [
+   "R5-A-FLESH_CHANGES",
+   "R5-E-MARTIN_WINS_RULING",
+   "R11-1-TONAL_SPINE_UNCHANGED",
+   "R20C-58-REGISTERS_FLAVOUR_NOT_LAW"
+  ],
+  "multi": false,
+  "choice": [
+   "C"
+  ],
+  "recommended": "C"
+ },
+ {
+  "n": 2,
+  "qid": "K2",
+  "section": "K",
+  "id": "R70-2-LITRPG_WOTR_BECOMES",
+  "title": "How LitRPG WOTR becomes",
+  "verbatim": "Full LitRPG, screens. Practitioners see their own readouts: a screen at a reading, a notice at a level, a breakthrough or a cost. Where the screens come from in the world is LR22's call; every figure traces to the sheet (R12-5).",
+  "question": "At the top level, how much of LitRPG should WOTR take on?",
+  "rules_touched": [
+   "R49-47-STAT_WORDS",
+   "R51-16-OLD_BANS_FALL",
+   "R14-4-SUBSTAT_DIAGNOSTIC_ONLY",
+   "R12-5-NEVER_INVENT_NUMBER"
+  ],
+  "multi": false,
+  "choice": [
+   "D"
+  ],
+  "recommended": "D"
+ },
+ {
+  "n": 3,
+  "qid": "K3",
+  "section": "K",
+  "id": "R70-3-STRAND_LEADS_LAYER",
+  "title": "Which strand leads which layer",
+  "verbatim": "Eastern voice leads. Eastern leads narration, interiority and structure; Western leads combat, injury and dialogue; LitRPG leads progression. The narrator itself changes most.",
+  "question": "Which strand should lead each layer of the writing?",
+  "rules_touched": [
+   "R5-A-FLESH_CHANGES",
+   "R11-1-TONAL_SPINE_UNCHANGED",
+   "R12-2-TECHNICAL_REGISTER_DEF"
+  ],
+  "multi": false,
+  "choice": [
+   "B"
+  ],
+  "recommended": "A"
+ },
+ {
+  "n": 4,
+  "qid": "K4",
+  "section": "K",
+  "id": "R70-4-WESTERN_MODELS",
+  "title": "Western models",
+  "verbatim": "Yes to: Tolkien (Elegy, high style, routes, songs and many-named places stay named under Tolkien; his moral voice stays barred (R5-E). Unticked, the same register stays legal under R48-05 without his name); Dickens and the Victorians (Joins the list: the city as one organism, money and institutions on the page, the serial hook. Fits the Draw Age's Victorian look (R53-28); the narrator's moral verdicts stay out); Guy Gavriel Kay (Joins the list: Western craft carried into Chinese-history settings, an elegiac storyteller who looks ahead to what the years will do, courts run on poetry and rank. A ready bridge for the Chinese-register halls and Korean courts). Not taken: Martin and Abercrombie. (Dickens/Victorians, Guy Gavriel Kay, Tolkien kept; Martin and Abercrombie unticked (dropped as named models). Added in his words: 'Other Eastern Writers like Creator of Naruto and Bleach and other animes litRPG light novel etc like unbound and beginning after the end'.)",
+  "question": "Which Western works should the law name as models?",
+  "rules_touched": [
+   "R5-A-FLESH_CHANGES",
+   "R5-E-MARTIN_WINS_RULING",
+   "R53-28-VISUAL_REFERENCE"
+  ],
+  "multi": true,
+  "choice": [
+   "B",
+   "C",
+   "D"
+  ],
+  "recommended": "A,C,D"
+ },
+ {
+  "n": 5,
+  "qid": "K5",
+  "section": "K",
+  "id": "R70-5-EASTERN_MODELS",
+  "title": "Eastern models",
+  "verbatim": "Yes to: Jin Yong, chapter novels (The Chinese-register halls gain a model: named forms traced to a lineage and a manual, sect politics run like a state's, the chapter novel's storyteller and couplet chapter titles); The Heike and war tales (The Moto and Shirogane gain their tradition: the name-declaration before combat, armour catalogued piece by piece, impermanence felt at the fall of a house); Kawabata and Tanizaki (Japanese restraint gains a named model: the scene that breaks off before its point, the season in one exact detail, rooms described by how they hold light and shadow); Pansori and sijo (Ketsuen, Hon-guk and the Mahuo gain a literary voice: tempo matched to feeling, comedy inside tragedy, han (grief held for years, never released), and sijo, three-line verse that turns in its last line).",
+  "question": "Which Eastern works should join Naruto and Lord of the Mysteries as named models?",
+  "rules_touched": [
+   "R5-A-FLESH_CHANGES",
+   "R12-2-TECHNICAL_REGISTER_DEF",
+   "R12-2-MYSTIC_REGISTER_DEF"
+  ],
+  "multi": true,
+  "choice": [
+   "A",
+   "B",
+   "C",
+   "D"
+  ],
+  "recommended": "A,B,D"
+ },
+ {
+  "n": 6,
+  "qid": "K6",
+  "section": "K",
+  "id": "R70-6-LITRPG_PROGRESSION_MODELS",
+  "title": "LitRPG and progression models",
+  "verbatim": "Yes to: Cradle (Ranks everyone in a room can sense, breakthroughs written as set pieces, little need for screens. Matches how Pressure already works in WOTR); Reverend Insanity (A Chinese cultivation novel run as a ledger: every gain bought, every resource counted, a cold calculating mind at the centre. The grimdark end of cultivation fiction, close to WOTR's cost law); Solo Leveling (The Korean System novel: the reassessment that overturns a registered rank, quests with stated penalties, the daily drill as a contract. Its escalation and onlooker shock run into the R5-B tells); The Wandering Inn (The level-up as a quiet verdict on who a person became that day, arriving in sleep; bracketed class and skill names inside ordinary sentences).",
+  "question": "Which LitRPG, cultivation and progression works should join Unbound as named models?",
+  "rules_touched": [
+   "R5-B-MANHWA_DIRECTIVE_REPEALED",
+   "R13-6-SCALING_VOCAB_RESTRICTED"
+  ],
+  "multi": true,
+  "choice": [
+   "A",
+   "B",
+   "C",
+   "D"
+  ],
+  "recommended": "A,B,D"
+ },
+ {
+  "n": 7,
+  "qid": "K7",
+  "section": "K",
+  "id": "R70-7-FAR_MOVE",
+  "title": "How far to move",
+  "verbatim": "New pack, old hygiene. A new style pack supersedes Pack Five's flesh sections and R11-1 and re-rules the R5-B and R5-G tells one by one; the anti-machine checks carry over unchanged.",
+  "question": "How far should the new style law move from the current prose law?",
+  "rules_touched": [
+   "R5-A-FLESH_CHANGES",
+   "R5-E-MARTIN_WINS_RULING",
+   "R11-1-TONAL_SPINE_UNCHANGED",
+   "R5-B-MANHWA_DIRECTIVE_REPEALED",
+   "R5-G-TELL_BANK_ADDITIONS"
+  ],
+  "multi": false,
+  "choice": [
+   "B"
+  ],
+  "recommended": "B"
+ },
+ {
+  "n": 8,
+  "qid": "K8",
+  "section": "K",
+  "id": "R70-8-JOBS_STYLE_GOVERNS",
+  "title": "Which jobs the style governs",
+  "verbatim": "All four alike. One style law; every job takes the blend in full, readouts included. Documents keep their institution's house style inside it.",
+  "question": "Should the new style govern roleplay turns, written scenes, books and in-world documents alike?",
+  "rules_touched": [
+   "R51-33-DOC_REGISTER"
+  ],
+  "multi": false,
+  "choice": [
+   "A"
+  ],
+  "recommended": "A"
+ },
+ {
+  "n": 9,
+  "qid": "K9",
+  "section": "K",
+  "id": "R70-9-TECHNICAL_MYSTIC_REGISTERS",
+  "title": "The Technical and Mystic registers",
+  "verbatim": "Strands mapped to registers. R12-2 is rewritten: the Technical register draws on LitRPG and wuxia (numbers, named forms, the read); the Mystic on Japanese and Chinese literary craft and the gothic (law, the half-seen). R48-10's free mixing stays.",
+  "question": "How should the Technical and Mystic registers sit inside the blend?",
+  "rules_touched": [
+   "R12-2-TECHNICAL_REGISTER_DEF",
+   "R12-2-MYSTIC_REGISTER_DEF",
+   "R48-10-MIXING"
+  ],
+  "multi": false,
+  "choice": [
+   "B"
+  ],
+  "recommended": "B"
+ },
+ {
+  "n": 10,
+  "qid": "VO1",
+  "section": "VO",
+  "id": "R70-10-NARRATOR_STANCE",
+  "title": "The narrator's stance",
+  "verbatim": "Storyteller at thresholds. In a chapter's opening and closing lines the narrator may address the reader, foreshadow or set down a maxim; the body of the scene stays POV-locked. R5-C1 gains a threshold exception.",
+  "question": "Should WOTR's narrator ever speak as a storyteller with a voice of its own?",
+  "rules_touched": [
+   "R5-E-NARRATION_NEVER_ADJUDICATES",
+   "R5-C1-NARRATION_NEVER_WINKS",
+   "R5-E-MARTIN_WINS_RULING",
+   "R49-08-MEANING"
+  ],
+  "multi": false,
+  "choice": [
+   "B"
+  ],
+  "recommended": "B"
+ },
+ {
+  "n": 11,
+  "qid": "VO2",
+  "section": "VO",
+  "id": "R70-11-WIDE_VIEW",
+  "title": "The wide view",
+  "verbatim": "Sweep with marked dips. Battles and crowds may run a marked roll call: one line inside each of several heads, then the lock resumes. R1-3's name-three rule exempts roll-call lines, and R39-7 gains rules for them.",
+  "question": "May a scene leave its POV for a sweep across a battlefield, a city or a crowd?",
+  "rules_touched": [
+   "R48-40-NPC_THOUGHTS",
+   "R49-09-CUTAWAYS",
+   "R39-7-NO_NPC_THOUGHT_UNDER_POV_LOCK",
+   "R1-3-NAME_THREE_RULE"
+  ],
+  "multi": false,
+  "choice": [
+   "C"
+  ],
+  "recommended": "C"
+ },
+ {
+  "n": 12,
+  "qid": "VO3",
+  "section": "VO",
+  "id": "R70-12-FIRST_PERSON",
+  "title": "First person",
+  "verbatim": "Third person only. Third person becomes law for turns, scenes and books; first person stays in documents. Rotating POVs and the lock stay easy.",
+  "question": "Should first person ever narrate WOTR outside in-world documents?",
+  "rules_touched": [
+   "R49-02-TENSE",
+   "R54-13-NO_POV_WITHOUT_REGISTER",
+   "R61-9-WORD_FILES_ARE_CONVERSION_BASE"
+  ],
+  "multi": false,
+  "choice": [
+   "A"
+  ],
+  "recommended": "C"
+ },
+ {
+  "n": 13,
+  "qid": "VO4",
+  "section": "VO",
+  "id": "R70-13-EPITHETS_NARRATION",
+  "title": "Epithets in narration",
+  "verbatim": "Rank and trade tags. An epithet may be a rank or trade tag (the Flourishing envoy, the Measurewright) whenever the POV can read rank; still one per scene, changing when the reading changes.",
+  "question": "How should narration refer to the people it is not naming?",
+  "rules_touched": [
+   "R48-44-NAME_USE",
+   "R49-10-EPITHETS"
+  ],
+  "multi": false,
+  "choice": [
+   "D"
+  ],
+  "recommended": "D"
+ },
+ {
+  "n": 14,
+  "qid": "SP1",
+  "section": "SP",
+  "id": "R70-14-KISHOTENKETSU",
+  "title": "Kishōtenketsu",
+  "verbatim": "Kishōtenketsu for quiet scenes. Quiet, travel, downtime and interlude scenes may run set-up, development, twist, reconciliation with no conflict; fights, councils and set pieces keep the turn. Scene briefs name the shape; roleplay turns still stop at Isaac's decision.",
+  "question": "May a scene take the kishōtenketsu shape instead of a conflict and a turn?",
+  "rules_touched": [],
+  "multi": false,
+  "choice": [
+   "B"
+  ],
+  "recommended": "B"
+ },
+ {
+  "n": 15,
+  "qid": "SP2",
+  "section": "SP",
+  "id": "R70-15-TEMPO_STILLNESS",
+  "title": "Tempo and stillness",
+  "verbatim": "Jo-ha-kyū tempo. Set pieces and long scenes run slow, breaking, swift at scene and paragraph scale; R49-25's motion opening becomes one option among others, and the hit still lands short and last (R48-06).",
+  "question": "Should set pieces take an Eastern tempo: slow, then breaking, then swift, with stillness written long?",
+  "rules_touched": [
+   "R49-25-OPENINGS"
+  ],
+  "multi": false,
+  "choice": [
+   "B"
+  ],
+  "recommended": "B"
+ },
+ {
+  "n": 16,
+  "qid": "SP3",
+  "section": "SP",
+  "id": "R70-16-OPENING_MODES",
+  "title": "Opening modes",
+  "verbatim": "Yes to: Far to near (Arrivals may open on a long view that moves in, plane by plane, to the person, as Chinese landscape painting does. Feeds the archive's thin landscape); Season word (An opening may fix time and mood with one culture's season word (Ward-Lighting, the Thin Weeks, Ice-out) instead of a mood statement; each Inventory's Time field becomes a season list); A reading or document (A scene may open on a register entry, readout or document that the scene then tests (R12-4's threshold voice), as Lord of the Mysteries and LitRPG chapters do). Not taken: Image linked by mood.",
+  "question": "Which opening modes should join R49-25's senses and motion?",
+  "rules_touched": [
+   "R49-25-OPENINGS",
+   "R5-F-LIGHT_NOVEL_KEPT"
+  ],
+  "multi": true,
+  "choice": [
+   "A",
+   "B",
+   "D"
+  ],
+  "recommended": "A,B,D"
+ },
+ {
+  "n": 17,
+  "qid": "SP4",
+  "section": "SP",
+  "id": "R70-17-CLOSING_MODES",
+  "title": "Closing modes",
+  "verbatim": "Yes to: Mid-crisis cliffhanger (Chapters, and turns at the next decision, may stop mid-crisis on a reveal or a threat, web-serial style; R49-26 gains the hook R5-F already wants); A notice or readout (A scene may close on a notice or readout set off from the prose: what the scene cost or earned, in figures traced to the sheet (R12-5)); Break off before payoff (A scene may stop a breath before its emotional point and leave the payoff to the reader or the next scene, as Kawabata does; the next scene owes what was withheld). Not taken: Storyteller's next chapter.",
+  "question": "Which closes should join R49-26's action, image or line?",
+  "rules_touched": [
+   "R49-26-ENDINGS",
+   "R5-F-LIGHT_NOVEL_KEPT"
+  ],
+  "multi": true,
+  "choice": [
+   "A",
+   "B",
+   "C"
+  ],
+  "recommended": "A,B,C,D"
+ },
+ {
+  "n": 18,
+  "qid": "SP5",
+  "section": "SP",
+  "id": "R70-18-ARC_SHAPES",
+  "title": "Arc shapes",
+  "verbatim": "Yes to: Tournament and examination (Tournaments and examinations become a licensed arc: rounds, brackets, scouts' odds, a ranking at the close. The Aetherion Academy arc already runs this way; ticking it names the shape); The Well delve (A Well may be worked as an arc, deeper ground and worse spawn at each stage, each stage closed on its cost; Well-spawn (R53-06) supply the threat); The training montage (Weeks of drill may pass in one compressed passage that ends on a reading of what changed; R48-29's skip gains a form for growth); Episodic jobs (A chapter or session may be one self-contained job, opened and closed in itself, inside the longer arc, as light novels and The Wandering Inn run).",
+  "question": "Which arc shapes from progression and cultivation fiction may a thread or book run on?",
+  "rules_touched": [
+   "R48-29-PACING",
+   "R5-B-MANHWA_DIRECTIVE_REPEALED"
+  ],
+  "multi": true,
+  "choice": [
+   "A",
+   "B",
+   "C",
+   "D"
+  ],
+  "recommended": "B,C,D"
+ },
+ {
+  "n": 19,
+  "qid": "RH1",
+  "section": "RH",
+  "id": "R70-19-PAIRED_CUMULATIVE_SENTENCES",
+  "title": "Paired and cumulative sentences",
+  "verbatim": "Both, in set pieces. Both licences, in set pieces only; ordinary turns keep the full rhythm law.",
+  "question": "Where may the rhythm law bend for paired clauses and long cumulative sentences?",
+  "rules_touched": [
+   "R48-06-RHYTHM_LAW",
+   "R4-14-LANDING_RULE",
+   "R4-14-CHAIN_CEILING",
+   "R4-14-RUN_RULE"
+  ],
+  "multi": false,
+  "choice": [
+   "D"
+  ],
+  "recommended": "D"
+ },
+ {
+  "n": 20,
+  "qid": "RH2",
+  "section": "RH",
+  "id": "R70-20-PARAGRAPH_SHAPE",
+  "title": "Paragraph shape",
+  "verbatim": "One-liners at peaks. Medium paragraphs stay the norm; reveals, verdicts, notices and a fight's last beats may run as one-line paragraphs in a cluster. R48-07 is amended; R49-14's shape check stays.",
+  "question": "How should paragraphs be shaped?",
+  "rules_touched": [
+   "R48-07-WHITE_SPACE",
+   "R49-14-PARA_SHAPE"
+  ],
+  "multi": false,
+  "choice": [
+   "B"
+  ],
+  "recommended": "B"
+ },
+ {
+  "n": 21,
+  "qid": "RH3",
+  "section": "RH",
+  "id": "R70-21-CADENCE_CULTURE",
+  "title": "Cadence by culture",
+  "verbatim": "POV's culture sets it. The POV's culture sets cadence, and each narration register states it. A Hallenfeld man stays Hallenfeld in a Moto house, and the gap between his rhythm and the house's is the texture.",
+  "question": "Should narration carry a cadence keyed to culture, and whose culture sets it?",
+  "rules_touched": [
+   "R15-1-REGISTER_BY_CULTURE",
+   "R20C-58-REGISTERS_FLAVOUR_NOT_LAW"
+  ],
+  "multi": false,
+  "choice": [
+   "C"
+  ],
+  "recommended": "C"
+ },
+ {
+  "n": 22,
+  "qid": "RH4",
+  "section": "RH",
+  "id": "R70-22-SOUND_WORDS",
+  "title": "Sound words",
+  "verbatim": "Each culture's own words. Each culture may carry a few native sound and state words in speech and close narration, entered in its Inventory and never italic (R49-49). Moto and Korean-register houses gain most.",
+  "question": "Should sound words and mimetic words carry texture outside explicit scenes?",
+  "rules_touched": [
+   "R51-31-SENSE_BANK"
+  ],
+  "multi": false,
+  "choice": [
+   "C"
+  ],
+  "recommended": "C"
+ },
+ {
+  "n": 23,
+  "qid": "RH5",
+  "section": "RH",
+  "id": "R70-23-CHAPTER_HEADS",
+  "title": "Chapter heads",
+  "verbatim": "Yes to: Couplet title (A book chapter may be headed by a matched couplet naming its two main events; the table of contents reads as a poem and a promise); In-world epigraph (A chapter may open on a short in-world document (case-book, register, proverb, letter) in its institution's house style (R51-33), which the chapter then tests (R12-4)); Verse header (A chapter may open on a short verse in a culture's own form (a Kharven riding-song, a Korean sijo), and verify checks it as verse, outside the rhythm statistics).",
+  "question": "Which of these may stand at the head of a chapter?",
+  "rules_touched": [
+   "R12-4-VOICE_FOUR_DOCUMENT",
+   "R51-33-DOC_REGISTER",
+   "R5-F-LIGHT_NOVEL_KEPT"
+  ],
+  "multi": true,
+  "choice": [
+   "A",
+   "B",
+   "C"
+  ],
+  "recommended": "A,B"
+ },
+ {
+  "n": 24,
+  "qid": "VB1",
+  "section": "VB",
+  "id": "R70-24-EASTERN_CONCEPT_WORDS_NARRATION",
+  "title": "Eastern concept words in narration",
+  "verbatim": "Felt word, measured word. The loanword names what the body feels; the WOTR noun names what a gauge or the Guild measures, in the same POV's narration. The Eastern inside and the LitRPG outside sit side by side.",
+  "question": "When narration needs a word for qi, the Way or the energy centre, which word does it use?",
+  "rules_touched": [
+   "R13-6-WOTR_FIRST",
+   "R13-6-ANIME_GRAMMAR_TRANSLATION_AID",
+   "R48-22-LENS_NAMES",
+   "R51-18-DOUBLET",
+   "R50-01-REAL_GRAMMAR"
+  ],
+  "multi": false,
+  "choice": [
+   "D"
+  ],
+  "recommended": "D"
+ },
+ {
+  "n": 25,
+  "qid": "VB2",
+  "section": "VB",
+  "id": "R70-25-FOREIGN_WORDS_PAGE",
+  "title": "Foreign words on the page",
+  "verbatim": "Context plus a glossary. Prose as in A, plus a glossary at the back of each book and a terms page on the wiki. The page stays clean, and LitRPG readers get the reference they expect. (Option A there reads: Plain, context only. Current law. No italics and no explaining phrase; the scene carries the meaning. Immersive and quick, and now and then a reader guesses wrong for a page.)",
+  "question": "How does a native or borrowed word sit in the sentence the first time a reader meets it?",
+  "rules_touched": [
+   "R49-49-FOREIGN",
+   "R50-32-ITALICS",
+   "R51-15-FIRST_USE",
+   "R4-13-ZERO_BUDGET",
+   "R49-05-ITALICS"
+  ],
+  "multi": false,
+  "choice": [
+   "D"
+  ],
+  "recommended": "D"
+ },
+ {
+  "n": 26,
+  "qid": "VB3",
+  "section": "VB",
+  "id": "R70-26-LEARNED_TONGUES_BESIDE_LATIN",
+  "title": "Learned tongues beside Latin",
+  "verbatim": "A learned tongue each. Hanmun tags for Korean-stratum scholars, kanbun readings in Moto records, wenyan in the lineage halls, Latin for the Accord, each real and romanised (R50-01, R50-31). Every learned culture gets weight; every tag needs checking.",
+  "question": "Does Latin stay the one learned tongue in narration, or does each Eastern stratum get its own?",
+  "rules_touched": [
+   "R51-19-ACCORD_LATIN",
+   "R50-12-COINED_LATIN",
+   "R50-01-REAL_GRAMMAR",
+   "R50-31-SCRIPT_SHOWN",
+   "R51-33-DOC_REGISTER"
+  ],
+  "multi": false,
+  "choice": [
+   "B"
+  ],
+  "recommended": "B"
+ },
+ {
+  "n": 27,
+  "qid": "VB4",
+  "section": "VB",
+  "id": "R70-27-ANTIQUE_NARRATION_RUNS",
+  "title": "How antique the narration runs",
+  "verbatim": "A dial per culture. Each Standing Inventory sets plain, period or archaic as law, amending R20C-58, and narration follows the POV's culture. The sample is a Moto-court steward under an archaic dial; a Kharven POV stays plain.",
+  "question": "How far do narration's words lean toward period and archaic English, and does that change by culture?",
+  "rules_touched": [
+   "R51-01-TIMELESS",
+   "R48-13-PERIOD_FEEL",
+   "R20C-58-REGISTERS_FLAVOUR_NOT_LAW",
+   "R51-22-MOTO_VOICE"
+  ],
+  "multi": false,
+  "choice": [
+   "C"
+  ],
+  "recommended": "C"
+ },
+ {
+  "n": 28,
+  "qid": "VB5",
+  "section": "VB",
+  "id": "R70-28-TRADE_SCIENCE_WORDS",
+  "title": "Trade and science words",
+  "verbatim": "As now, mixed. Narration names apparatus and workings exactly by ear; an untrained POV's own body and his reading of the scene stay plain. Check 30's floor holds.",
+  "question": "How freely does narration name machinery, wounds and workings in their exact technical terms?",
+  "rules_touched": [
+   "R48-09-TECH_WORDS",
+   "R49-46-CHEMISTRY",
+   "R49-50-OWN_BODY",
+   "R16-8-CHECK30",
+   "R13-6-REAL_SCIENCE_VOCAB"
+  ],
+  "multi": false,
+  "choice": [
+   "A"
+  ],
+  "recommended": "A"
+ },
+ {
+  "n": 29,
+  "qid": "VB6",
+  "section": "VB",
+  "id": "R70-29-UNITS_MEASURE",
+  "title": "Units of measure",
+  "verbatim": "The POV's own units. Current law. A Kharven guard counts in bowshots and a pot's boil, a Measurewright in yards, pounds and joules. Units characterise, and the exact figure stays with trained eyes.",
+  "question": "Which units does narration use for distance, weight and time?",
+  "rules_touched": [
+   "R49-52-MEASURES",
+   "R51-07-CLOCK_WORDS",
+   "R53-08-TRAVEL_RATES",
+   "R48-16-REAL_FIGURES"
+  ],
+  "multi": false,
+  "choice": [
+   "A"
+  ],
+  "recommended": "A"
+ },
+ {
+  "n": 30,
+  "qid": "VB7",
+  "section": "VB",
+  "id": "R70-30-NUMBERS_WORDS_DIGITS",
+  "title": "Numbers: words or digits",
+  "verbatim": "Small in words, big digits. Words up to one hundred and for round numbers; digits for exact large counts and every system figure (Level, EU, AU/s). Sourced figures stand out as data.",
+  "question": "In narration, are numbers spelled out or written as digits?",
+  "rules_touched": [
+   "R12-5-NEVER_INVENT_NUMBER",
+   "R49-47-STAT_WORDS",
+   "R48-16-REAL_FIGURES"
+  ],
+  "multi": false,
+  "choice": [
+   "B"
+  ],
+  "recommended": "B"
+ },
+ {
+  "n": 31,
+  "qid": "VB8",
+  "section": "VB",
+  "id": "R70-31-CAPITALS_SYSTEM_TERMS",
+  "title": "Capitals for system terms",
+  "verbatim": "Canonical terms capitalised. The archive's habit fixed as a list: Stage, Band, Grade, Level, Wellspring, Essence, Aether, Pressure and Sub-Stat names capitalised; reserve and the draw lower case. Plain senses (a band of riders) need care.",
+  "question": "Which system terms take a capital letter in narration?",
+  "rules_touched": [
+   "R14-5-CANONICAL_TERMS",
+   "R14-5-NEAR_MISS_FAIL",
+   "R18-7-CHECK37",
+   "R49-47-STAT_WORDS"
+  ],
+  "multi": false,
+  "choice": [
+   "A"
+  ],
+  "recommended": "A"
+ },
+ {
+  "n": 32,
+  "qid": "VB9",
+  "section": "VB",
+  "id": "R70-32-NEW_WORDS_KIND_MANY",
+  "title": "New words: what kind, how many",
+  "verbatim": "All three, by owner. English compounds for common things, a culture's native word where that culture owns the thing, capitalised labels for system and instrument things; no cap, all logged (R50-28). The blend in one rule.",
+  "question": "When a scene needs a word for something new, which kind of coinage does it reach for, and how many may one scene carry?",
+  "rules_touched": [
+   "R51-14-NEW_TERMS",
+   "R50-28-NEW_WORDS",
+   "R51-20-KHARVEN_WORDS",
+   "R51-23-DAWI_WORDS",
+   "R51-24-ELVEN_WORDS"
+  ],
+  "multi": false,
+  "choice": [
+   "A"
+  ],
+  "recommended": "A"
+ },
+ {
+  "n": 33,
+  "qid": "VB10",
+  "section": "VB",
+  "id": "R70-33-WORD_BANK_PER_CULTURE",
+  "title": "A word bank per culture",
+  "verbatim": "A Words entry everywhere. Every Inventory gains a Words entry: native words, trade terms, slang and address forms, each with meaning and who says it. Scenes draw from it first; a checker can spell-check against it.",
+  "question": "Does each culture get a written word bank, the way it already has a senses bank?",
+  "rules_touched": [
+   "R51-31-SENSE_BANK",
+   "R51-20-KHARVEN_WORDS",
+   "R51-23-DAWI_WORDS",
+   "R50-28-NEW_WORDS",
+   "R51-11-COLLISIONS"
+  ],
+  "multi": false,
+  "choice": [
+   "A"
+  ],
+  "recommended": "A"
+ },
+ {
+  "n": 34,
+  "qid": "VB11",
+  "section": "VB",
+  "id": "R70-34-REAL_LANGUAGE_SWEARS_NARRATION",
+  "title": "Real-language swears in narration",
+  "verbatim": "The POV's own tongue. A Japonic, Korean or Chinese-stratum POV may think his own language's swears, romanised, correct and never italic (R50-01, R50-32), beside English and WOTR ones.",
+  "question": "May close-POV narration curse in a real Eastern language, and whose POV may do it?",
+  "rules_touched": [
+   "R51-02-CLOSE_POV_SWEARS",
+   "R51-29-SWEARING",
+   "R51-35-NEW_SWEARS",
+   "R48-12-PROFANITY",
+   "R50-01-REAL_GRAMMAR",
+   "R50-32-ITALICS"
+  ],
+  "multi": false,
+  "choice": [
+   "B"
+  ],
+  "recommended": "B"
+ },
+ {
+  "n": 35,
+  "qid": "VB12",
+  "section": "VB",
+  "id": "R70-35-HARD_BAN_LIST",
+  "title": "The hard-ban list",
+  "verbatim": "Yes to: Cultivation-translation stock (Bans 'qi surged', 'a cold glint flashed', 'sucked in a cold breath' and 'killing intent surged' in narration. The Eastern feel comes from method, never from translated filler); Western fantasy stock (Bans 'the steel sang', 'a grim smile', 'his blood ran cold', 'every fibre of his being' and 'darkness gathered'. Grimdark's own worn phrasing goes out with the imported kind); LitRPG stock (Bans 'power surged through him', 'stronger than ever', 'a wave of power' and 'his stats soared'. Growth shows in the body and on the instrument); Trim the false hits (Narrows three items to their stock sense: a will called a testament passes, 'visceral' passes in anatomy (the visceral pleura, R49-45), 'orbs' passes for lamps and regalia. The stock senses still fail).",
+  "question": "Which stock-phrase families join the hard-ban list, and should any current item be trimmed?",
+  "rules_touched": [
+   "R51-10-SLOP_WORDS",
+   "R49-20-STOCK_PHRASE",
+   "R49-45-SCIENCE"
+  ],
+  "multi": true,
+  "choice": [
+   "A",
+   "B",
+   "C",
+   "D"
+  ],
+  "recommended": "A,B,C,D"
+ },
+ {
+  "n": 36,
+  "qid": "VB13",
+  "section": "VB",
+  "id": "R70-36-CHECKER_ENFORCES",
+  "title": "What the checker enforces",
+  "verbatim": "Yes to: Word-bank spelling check (Native words are matched against the culture banks (VB10); a near-miss FAILs as a misspelt Wellspring does (R14-5-NEAR_MISS_FAIL); unknown words are listed for the scene log (R50-28)); Canonical term list (wotr_terms.txt is built from Fracture of Worlds, the glossary and the Codex; Stage, Band, Wellspring and Family names are checked for spelling and capitals (VB8), and a near-miss FAILs (R14-5-NEAR_MISS_FAIL, Check 37)); New ban families FAIL (The families chosen in VB12 FAIL at first use in narration, as R51-10 does; looser variants of a banned phrase WARN for a read); Style-sheet warnings (WARNs for the house style set here: an italicised loanword (VB2), a digit where words are due (VB7), an archaic word outside its culture's dial (VB4). Holds the style without blocking a reply).",
+  "question": "Which vocabulary checks does verify_scene gain?",
+  "rules_touched": [
+   "R48-45-CHECKS",
+   "R14-5-NEAR_MISS_FAIL",
+   "R14-5-BUILD_TERMS_LIST",
+   "R18-7-CHECK37",
+   "R51-10-SLOP_WORDS",
+   "R49-49-FOREIGN"
+  ],
+  "multi": true,
+  "choice": [
+   "A",
+   "B",
+   "C",
+   "D"
+  ],
+  "recommended": "A,B,C,D"
+ },
+ {
+  "n": 37,
+  "qid": "IN1",
+  "section": "IN",
+  "id": "R70-37-MODERN_IDIOM_THOUGHT",
+  "title": "Modern idiom in thought",
+  "verbatim": "Thought as he speaks. Italic thought may use whatever the POV would say aloud, modern words included; plain narration stays timeless. verify drops italic thought from the modern-word check.",
+  "question": "May a POV's thought carry modern idiom that narration may not?",
+  "rules_touched": [
+   "R48-13-PERIOD_FEEL",
+   "R51-03-LIST_SLANG",
+   "R51-04-LIST_PSYCH"
+  ],
+  "multi": false,
+  "choice": [
+   "B"
+  ],
+  "recommended": "B"
+ },
+ {
+  "n": 38,
+  "qid": "IN2",
+  "section": "IN",
+  "id": "R70-38-REASONING_SHOWS",
+  "title": "How reasoning shows",
+  "verbatim": "Yes to: Stepwise lists (A reasoning POV may set thinking out as numbered steps, risk lists or tests in italic thought; R16-8-CHECK33's cap on technical terms in italics eases); The unsaid (Thought may stop short of its conclusion and leave an action or an image to carry it, as Kawabata does; deep interiority becomes one mode of two, chosen per register); Reasoning from figures (A POV who can read rank or price may reason from readings and figures as evidence, as LitRPG heroes do; every figure still traces to a source (R12-5)).",
+  "question": "Which ways of showing a POV's reasoning should join running interiority, with each register choosing among them?",
+  "rules_touched": [
+   "R48-39-INTERIORITY",
+   "R16-8-CHECK33"
+  ],
+  "multi": true,
+  "choice": [
+   "A",
+   "B",
+   "C"
+  ],
+  "recommended": "A,B,C"
+ },
+ {
+  "n": 39,
+  "qid": "IN3",
+  "section": "IN",
+  "id": "R70-39-CARRYING_FEELING",
+  "title": "Carrying feeling",
+  "verbatim": "Held image, never named. In chosen scenes the feeling is never named and one held, concrete image carries it, as mono no aware and han do; R49-07 gains a register-level exception, and the image obeys R5-C2.",
+  "question": "How should feeling be carried on the page?",
+  "rules_touched": [
+   "R49-07-EMOTIONS",
+   "R5-C2-ELEGY_CONCRETE_THING"
+  ],
+  "multi": false,
+  "choice": [
+   "B"
+  ],
+  "recommended": "B"
+ },
+ {
+  "n": 40,
+  "qid": "DS1",
+  "section": "DS",
+  "id": "R70-40-WIDE_DESCRIPTION_MUST_RANGE",
+  "title": "How wide description must range",
+  "verbatim": "Lead plus two, thread-checked. Each scene brief names one lead subject group and two supporting ones, the lead rotating scene to scene; session end flags any rotation group untouched for six scenes.",
+  "question": "Should the range of subjects a scene describes become law, and in what shape?",
+  "rules_touched": [
+   "R48-02-DENSITY",
+   "R51-31-SENSE_BANK"
+  ],
+  "multi": false,
+  "choice": [
+   "B"
+  ],
+  "recommended": "B"
+ },
+ {
+  "n": 41,
+  "qid": "DS2",
+  "section": "DS",
+  "id": "R70-41-LAND_LIVES_IT",
+  "title": "The land and what lives on it",
+  "verbatim": "Yes to: Land, water and sky (Terrain and ground underfoot, rivers, sea and shore, the long view, and the night sky (Shiro, the five wanderers, the Nail, the aurora) join the rotation); Seasons and weather (Thaw, rain, heat, fog and each culture's signs of the turning year join the rotation, beyond R53-09's actual weather in every outdoor scene); Plants and animals (Trees, crops, herbs, blossom, birds, insects, working beasts, and Well-spawn looked at as creatures join the rotation). Not taken: History in layers.",
+  "question": "Which of these subject groups join the rotation the range rule pulls from?",
+  "rules_touched": [],
+  "multi": true,
+  "choice": [
+   "A",
+   "B",
+   "C"
+  ],
+  "recommended": "A,B,C"
+ },
+ {
+  "n": 42,
+  "qid": "DS3",
+  "section": "DS",
+  "id": "R70-42-PUBLIC_WORLD",
+  "title": "The public world",
+  "verbatim": "Yes to: Architecture as style (Buildings are described for style and ornament as well as use and wear; the Moto 'one thing made that serves no function' finally gets looked at); Dress and adornment (Cloth, cut, colour by rank, wear and repair, jewellery, cosmetics and worn scent join the rotation, past the first-sight inventory); Streets, markets, crowds (Squares, alleys, hawkers, stalls and haggling, arcades and branded goods (R60-07), and the crowd as one body join the rotation); Power on show (Processions and entrances, seating by precedence, courts and punishments (R53-11), Guild halls and academy grounds as displays of standing, and ranking boards join the rotation).",
+  "question": "Which of these subject groups join the rotation the range rule pulls from?",
+  "rules_touched": [],
+  "multi": true,
+  "choice": [
+   "A",
+   "B",
+   "C",
+   "D"
+  ],
+  "recommended": "A,B,C,D"
+ },
+ {
+  "n": 43,
+  "qid": "DS4",
+  "section": "DS",
+  "id": "R70-43-HOME_TABLE_RITE_PLAY",
+  "title": "Home, table, rite and play",
+  "verbatim": "Yes to: Households, young and old (Servants and the order of a house, the rich at home as well as the poor, the child's games and chores, and old age at the fire join the rotation); Food and taste (Ingredients, cooking, street food, drink, hunger and rationing, and taste in the mouth join the rotation. How a meal is written is DS8); Rites and festivals (Rites performed on the page, household observance, funerals and mourning, festivals, and folk taboos acted on join the rotation); Music, art and play (Instruments and songs, carving and painting, theatre and storytellers, games of chance and skill, sport and toys join the rotation).",
+  "question": "Which of these subject groups join the rotation the range rule pulls from?",
+  "rules_touched": [],
+  "multi": true,
+  "choice": [
+   "A",
+   "B",
+   "C",
+   "D"
+  ],
+  "recommended": "A,B,C,D"
+ },
+ {
+  "n": 44,
+  "qid": "DS5",
+  "section": "DS",
+  "id": "R70-44-CULTURE_KEYED_NOTICING",
+  "title": "Culture-keyed noticing",
+  "verbatim": "Place supplies, viewer judges. The place's Inventory sets what is in the room; the POV's culture sets what he makes of it, misreadings included. Each Inventory gains a 'Notices first' line for both jobs.",
+  "question": "Should a culture decide what a description notices, and whose culture: the viewer's, the place's, or both?",
+  "rules_touched": [
+   "R48-04-METAPHORS",
+   "R6-8-STANDING_INVENTORY_CATEGORIES"
+  ],
+  "multi": false,
+  "choice": [
+   "D"
+  ],
+  "recommended": "D"
+ },
+ {
+  "n": 45,
+  "qid": "DS6",
+  "section": "DS",
+  "id": "R70-45-NEW_STANDING_INVENTORY_FIELDS",
+  "title": "New Standing Inventory fields",
+  "verbatim": "Yes to: Land, sky, living things (Each Inventory gains terrain and climate, the sky by its own names, seasons and their signs, and what grows, is kept, hunted and feared; Temperature joins the senses entry); Building, dress, the street (Each Inventory gains architecture and ornament, the house plan, dress by rank (cloth, cut, colour, adornment, worn scent), and its market and street); Music, play, festivals (Each Inventory gains instruments and songs, games and toys, and one or two festivals written as performed: who does what, and in what order); Law, succession, roads (Each Inventory gains law and punishment (R53-11), succession (R60-21), and roads, vehicles and inns).",
+  "question": "Which new fields should every Standing Inventory gain, so description has something to draw on across the range?",
+  "rules_touched": [
+   "R6-8-STANDING_INVENTORY_CATEGORIES",
+   "R51-31-SENSE_BANK",
+   "R53-11-JUSTICE",
+   "R60-21-SUCCESSION_BY_CULTURE"
+  ],
+  "multi": true,
+  "choice": [
+   "A",
+   "B",
+   "C",
+   "D"
+  ],
+  "recommended": "A,B,C,D"
+ },
+ {
+  "n": 46,
+  "qid": "DS7",
+  "section": "DS",
+  "id": "R70-46-CRAFT_LABOUR_PAGE",
+  "title": "Craft and labour on the page",
+  "verbatim": "Process and its beauty. Process as in B, and the finished thing is looked at for its quality: what good work looks like in that craft, through the POV's eye. (Option B there reads: Shown as process. Whenever a craft is on the page, at least one stretch runs as process: tool, material and steps in order, with the worker's body doing them.)",
+  "question": "When a craft or trade is on the page, how much of the work itself gets described?",
+  "rules_touched": [
+   "R6-5-MATERIAL_DENSITY_SURVIVES",
+   "R12-6-RITUAL_SPECIFICATION"
+  ],
+  "multi": false,
+  "choice": [
+   "C"
+  ],
+  "recommended": "C"
+ },
+ {
+  "n": 47,
+  "qid": "DS8",
+  "section": "DS",
+  "id": "R70-47-TABLE",
+  "title": "The table",
+  "verbatim": "Order and taste both. The order of serving and the taste in the mouth are both on the page whenever a meal is.",
+  "question": "When a meal is on the page, what of it gets described?",
+  "rules_touched": [],
+  "multi": false,
+  "choice": [
+   "D"
+  ],
+  "recommended": "D"
+ },
+ {
+  "n": 48,
+  "qid": "DS12",
+  "section": "DS",
+  "id": "R70-48-MONEY_PRICE_PROVENANCE",
+  "title": "Money, price and provenance",
+  "verbatim": "Yes to: Price whenever money moves (Every purchase, wage, fee and bribe on the page names its sum in the culture's money, quoted from the approved price table; north of the arrays, payment in kind is named as exactly); Its life and lineage (A notable object is described through who made, carried, mended and died with it, the way a famous tea bowl keeps its line of owners; Tier and price stay off unless asked). Not taken: Appraisal by a trained eye.",
+  "question": "When money changes hands or a notable object is handled, what of its price, grade and history reaches the prose?",
+  "rules_touched": [
+   "R53-17-THE_BILL",
+   "R53-07-PRICE_TABLE",
+   "R46-2-NINE_ITEM_TIERS_NAMED"
+  ],
+  "multi": true,
+  "choice": [
+   "A",
+   "C"
+  ],
+  "recommended": "A,C"
+ },
+ {
+  "n": 49,
+  "qid": "DS9",
+  "section": "DS",
+  "id": "R70-49-LANDSCAPE_SKY",
+  "title": "Landscape and sky",
+  "verbatim": "One wide view outdoors. Every outdoor scene gets one wide view built far, middle and near, with the people small in it, and the sky in it after dark.",
+  "question": "How much of the land and the sky does an outdoor scene describe?",
+  "rules_touched": [
+   "R53-09-WEATHER"
+  ],
+  "multi": false,
+  "choice": [
+   "B"
+  ],
+  "recommended": "B"
+ },
+ {
+  "n": 50,
+  "qid": "DS10",
+  "section": "DS",
+  "id": "R70-50-BODIES_AFTER_FIRST_SIGHT",
+  "title": "Bodies after first sight",
+  "verbatim": "One changed detail each time. Every return of a person carries one detail of what the body has changed since: a new wound, weight, fatigue, cold damage, a missed shave. The Ledger's costs show.",
+  "question": "Once a person has had their first-sight inventory, how is their body described when they come back?",
+  "rules_touched": [
+   "R49-28-INTROS"
+  ],
+  "multi": false,
+  "choice": [
+   "B"
+  ],
+  "recommended": "B"
+ },
+ {
+  "n": 51,
+  "qid": "DS11",
+  "section": "DS",
+  "id": "R70-51-REPETITION_AGAINST_NOVELTY",
+  "title": "Repetition against novelty",
+  "verbatim": "Recur, and add one. R53-19's two signature items stay; R6-9's 'Novelty is its enemy' is rewritten so every scene also adds one subject the thread has not described, logged as canon (R53-21).",
+  "question": "How should description balance a culture's recurring signature items against new subjects?",
+  "rules_touched": [
+   "R6-9-RECURRENCE_RULE",
+   "R51-31-SENSE_BANK",
+   "R53-19-QUOTA",
+   "R49-54-KHARVEN"
+  ],
+  "multi": false,
+  "choice": [
+   "B"
+  ],
+  "recommended": "B"
+ },
+ {
+  "n": 52,
+  "qid": "DD1",
+  "section": "DD",
+  "id": "R70-52-OVERALL_DENSITY",
+  "title": "Overall density",
+  "verbatim": "Lush throughout (current). R48-02 stands: full sensory layering in every scene, slower and denser. The blend widens what is described and keeps the amount.",
+  "question": "How dense should description run by default?",
+  "rules_touched": [
+   "R48-02-DENSITY"
+  ],
+  "multi": false,
+  "choice": [
+   "A"
+  ],
+  "recommended": "A"
+ },
+ {
+  "n": 53,
+  "qid": "DD2",
+  "section": "DD",
+  "id": "R70-53-WHERE_DESCRIPTION_SITS",
+  "title": "Where description sits",
+  "verbatim": "Woven, pooling in lulls. Texture stays woven through every beat; the longer passages are held for pauses, silences and aftermaths, so the news lands bare and the room is seen in the quiet after.",
+  "question": "Where in a scene should the larger descriptive passages sit?",
+  "rules_touched": [
+   "R53-30-TEXTURE_DENSITY",
+   "R49-25-OPENINGS"
+  ],
+  "multi": false,
+  "choice": [
+   "C"
+  ],
+  "recommended": "C"
+ },
+ {
+  "n": 54,
+  "qid": "DD3",
+  "section": "DD",
+  "id": "R70-54-GETS_FULL_INVENTORY",
+  "title": "Who gets the full inventory",
+  "verbatim": "Places full, minors one stroke. Major people, places, rooms, creatures and significant objects get the full inventory; minor people get one exact stroke.",
+  "question": "Which people, places and things get the full first-sight inventory?",
+  "rules_touched": [
+   "R49-28-INTROS"
+  ],
+  "multi": false,
+  "choice": [
+   "D"
+  ],
+  "recommended": "D"
+ },
+ {
+  "n": 55,
+  "qid": "DD4",
+  "section": "DD",
+  "id": "R70-55-ORDER_FIRST_INVENTORY",
+  "title": "The order of a first inventory",
+  "verbatim": "The POV's order. The inventory stays one passage at first sight but runs in the order this POV would look: a clerk prices first, a surgeon reads wounds first, a rider looks at hands.",
+  "question": "In what order should a first-sight inventory of a person run?",
+  "rules_touched": [
+   "R49-28-INTROS"
+  ],
+  "multi": false,
+  "choice": [
+   "B"
+  ],
+  "recommended": "B"
+ },
+ {
+  "n": 56,
+  "qid": "DD5",
+  "section": "DD",
+  "id": "R70-56-CATALOGUE_TELLING_DETAIL",
+  "title": "Catalogue or telling detail",
+  "verbatim": "Catalogue at set occasions. Arming, feasts, markets, musters, treasuries and loot may run as full catalogues; elsewhere description stays woven. The chain ceiling (R4-14) still holds, so short sentences flank a long list.",
+  "question": "When should description run as a long catalogue, and when as a single telling detail?",
+  "rules_touched": [],
+  "multi": false,
+  "choice": [
+   "B"
+  ],
+  "recommended": "B"
+ },
+ {
+  "n": 57,
+  "qid": "DD6",
+  "section": "DD",
+  "id": "R70-57-DESCRIPTION_INSIDE_FIGHT",
+  "title": "Description inside a fight",
+  "verbatim": "Held instant, then outcome. Exchanges run traced and lean; at the deciding moment the page holds still for a passage of setting before the outcome lands.",
+  "question": "How much of the place around a fight is described while the fight is running?",
+  "rules_touched": [
+   "R53-30-TEXTURE_DENSITY"
+  ],
+  "multi": false,
+  "choice": [
+   "C"
+  ],
+  "recommended": "C"
+ },
+ {
+  "n": 58,
+  "qid": "DD7",
+  "section": "DD",
+  "id": "R70-58-CHECKING_RANGE",
+  "title": "Checking the range",
+  "verbatim": "Census as a WARN. The census WARNs when a scene touches too few groups or one group takes over half, and the signature-item count extends from Kharven to every Inventory.",
+  "question": "How should verify_scene enforce the range rule?",
+  "rules_touched": [
+   "R48-45-CHECKS",
+   "R49-54-KHARVEN",
+   "R53-19-QUOTA"
+  ],
+  "multi": false,
+  "choice": [
+   "C"
+  ],
+  "recommended": "C"
+ },
+ {
+  "n": 59,
+  "qid": "DT1",
+  "section": "DT",
+  "id": "R70-59-WHERE_COMPARISONS_COME_FROM",
+  "title": "Where comparisons come from",
+  "verbatim": "Culture image bank, always. Each Standing Inventory gains eight to twelve set images that any POV of that culture may use whole, unglossed. POV-life comparisons stay the default; R49-20 relaxes for the listed images.",
+  "question": "Where should WOTR's metaphors and similes come from?",
+  "rules_touched": [
+   "R48-04-METAPHORS",
+   "R49-20-STOCK_PHRASE",
+   "R51-31-SENSE_BANK"
+  ],
+  "multi": false,
+  "choice": [
+   "B"
+  ],
+  "recommended": "B"
+ },
+ {
+  "n": 60,
+  "qid": "DT2",
+  "section": "DT",
+  "id": "R70-60-COLOUR_AS_SYMBOL_PER",
+  "title": "Colour as symbol, per culture",
+  "verbatim": "A colour code per culture. Each Inventory gains a colour field: what white, red, black and two or three local colours mean there, and the chartered Northern houses read heraldry. Narration uses it unglossed; two cultures may read one colour two ways.",
+  "question": "Should colours carry fixed meanings that differ by culture?",
+  "rules_touched": [
+   "R51-31-SENSE_BANK",
+   "R53-23-MIXED_ROOM"
+  ],
+  "multi": false,
+  "choice": [
+   "B"
+  ],
+  "recommended": "B"
+ },
+ {
+  "n": 61,
+  "qid": "DT3",
+  "section": "DT",
+  "id": "R70-61-SEASON_WORD_DOES",
+  "title": "What a season word does",
+  "verbatim": "Season words carry mood. As B, and each logged word carries a settled feeling, as kigo do: sap-stop means endings. The scene leans on that feeling and never names it. (Option B there reads: Season words mark time. Each culture's season words may stand in narration and speech, placing the time and weather in one word. Any feeling still comes from the scene itself.)",
+  "question": "Should scenes place themselves in the year with each culture's season words, and should those words carry a fixed feeling?",
+  "rules_touched": [
+   "R53-09-WEATHER",
+   "R51-08-CALENDAR",
+   "R51-31-SENSE_BANK"
+  ],
+  "multi": false,
+  "choice": [
+   "C"
+  ],
+  "recommended": "C"
+ },
+ {
+  "n": 62,
+  "qid": "DT4",
+  "section": "DT",
+  "id": "R70-62-WEATHER_LAND_AS_PERSONS",
+  "title": "Weather and land as persons",
+  "verbatim": "Personify at high moments. R49-22 relaxes at mythic moments (R48-05), in verse and documents, and in close POV for cultures whose speech already gives the sky a will. Everyday narration stays plain.",
+  "question": "May weather and landscape be personified in narration?",
+  "rules_touched": [
+   "R49-22-NATURE",
+   "R48-05-HIGH_STYLE"
+  ],
+  "multi": false,
+  "choice": [
+   "B"
+  ],
+  "recommended": "B"
+ },
+ {
+  "n": 63,
+  "qid": "DT5",
+  "section": "DT",
+  "id": "R70-63-WEAR_AGE_AS_BEAUTY",
+  "title": "Wear and age as beauty",
+  "verbatim": "Beauty, keyed by culture. Each Inventory states what its people prize in age and what they despise. A Moto or Ketsuen POV may see the mend as beautiful while a Kharven guest sees a cracked bowl.",
+  "question": "Should worn, mended and aged things be described as beautiful, or only as a record of use?",
+  "rules_touched": [
+   "R6-5-MATERIAL_DENSITY_SURVIVES",
+   "R51-31-SENSE_BANK",
+   "R53-23-MIXED_ROOM"
+  ],
+  "multi": false,
+  "choice": [
+   "B"
+  ],
+  "recommended": "B"
+ },
+ {
+  "n": 64,
+  "qid": "DT6",
+  "section": "DT",
+  "id": "R70-64-VERSE_INSIDE_PROSE",
+  "title": "Verse inside the prose",
+  "verbatim": "Plus a closing poem. As B, and a scene or chapter may close on a short poem set apart, haibun-style. R49-26's legal endings gain the poem. (Option B there reads: In mouths and documents. Verse appears when a character sings, recites or writes it, or inside an in-world document, set as a quoted block the rhythm checks skip.)",
+  "question": "Where may verse and song appear?",
+  "rules_touched": [
+   "R51-28-CHANT_PAGE",
+   "R49-26-ENDINGS",
+   "R5-E-NARRATION_NEVER_ADJUDICATES"
+  ],
+  "multi": false,
+  "choice": [
+   "C"
+  ],
+  "recommended": "C"
+ },
+ {
+  "n": 65,
+  "qid": "DT7",
+  "section": "DT",
+  "id": "R70-65-SET_IDIOMS_NARRATION",
+  "title": "Set idioms in narration",
+  "verbatim": "Four-beat idioms, told once. Each Inventory gains six to ten four-beat idioms, each a compressed in-world story. An elder tells the story once on the page; after that the idiom is used bare, in narration or speech.",
+  "question": "May narration use each culture's fixed sayings, and should cultures gain chengyu-style four-beat idioms?",
+  "rules_touched": [
+   "R52-30-PROVERBS",
+   "R51-31-SENSE_BANK",
+   "R4-13-ZERO_BUDGET"
+  ],
+  "multi": false,
+  "choice": [
+   "C"
+  ],
+  "recommended": "C"
+ },
+ {
+  "n": 66,
+  "qid": "DT8",
+  "section": "DT",
+  "id": "R70-66-NAMED_DEVICES_ADD",
+  "title": "Named devices to add",
+  "verbatim": "Yes to: Tanizaki light and shadow (Rooms and objects may be described by how they hold low light: lacquer, gold in the dark, oil and paper. Moto shadow and Accord draw-light become a standing contrast); The epic simile (Once per set piece, a held instant may carry a long comparison that grows into its own small scene, and it may reach beyond the POV's life, an exception to R48-04 and R49-19); Ekphrasis, the made object (A made object (a painted screen, a banner, an engraved gorget) may be described at length until it opens onto history or myth, carrying what the narration may not say).",
+  "question": "Which of these named description devices join WOTR's kit?",
+  "rules_touched": [
+   "R48-04-METAPHORS",
+   "R49-19-EXTENDED"
+  ],
+  "multi": true,
+  "choice": [
+   "A",
+   "B",
+   "C"
+  ],
+  "recommended": "A,B,C"
+ },
+ {
+  "n": 67,
+  "qid": "DT9",
+  "section": "DT",
+  "id": "R70-67-FORMS_WORLD_DOCUMENTS",
+  "title": "Forms for in-world documents",
+  "verbatim": "Yes to: Lists and loose notebooks (A document may be a list or loose notebook in the Pillow Book manner, a culture's eye compressed into entries; it moves no plot and packs world-only detail. Suits the Moto and Eresse courts); Records of the strange (A document may set down a strange event as plain witness and close on the recorder's own comment, the zhiguai form; folk belief stays uncorrected (R53-15). Suits Guild archives, Well reports and the lineage halls); Court annals and memorials (A day-record by a court recorder the ruler may not read, as Joseon Korea kept its annals, or a memorial (a set-form petition to the throne). Suits the Mahuo houses and the Moto court); Game-reference entries (Bestiary entries, registry sheets and item ledgers in a Guild hand, LitRPG's reference pages made institutional, each figure traced to canon (R12-5, R57-07). Suits the Guild, the wardens and the proof-houses).",
+  "question": "Which document forms join the institutional house styles as named tools?",
+  "rules_touched": [
+   "R51-33-DOC_REGISTER",
+   "R12-4-VOICE_FOUR_DOCUMENT",
+   "R20C-37-DOCUMENTS_OWE_NOTHING",
+   "R57-07-DOCUMENTS_FULLY_METAPHYSICAL"
+  ],
+  "multi": true,
+  "choice": [
+   "A",
+   "B",
+   "C",
+   "D"
+  ],
+  "recommended": "A,B,C,D"
+ },
+ {
+  "n": 68,
+  "qid": "MY1",
+  "section": "MY",
+  "id": "R70-68-INSIDE_PRACTICE",
+  "title": "Inside practice",
+  "verbatim": "The Crystal as inner map. Practice is written as a walk through the Soul Crystal in Codex nouns, layer by layer, as cultivation maps meridians: where the draw enters, where it pools, where it snags.",
+  "question": "When a practitioner trains, draws or looks inward, how is the inside rendered?",
+  "rules_touched": [
+   "R13-6-WOTR_FIRST",
+   "R48-22-LENS_NAMES",
+   "R13-6-ANIME_GRAMMAR_TRANSLATION_AID"
+  ],
+  "multi": false,
+  "choice": [
+   "B"
+  ],
+  "recommended": "B"
+ },
+ {
+  "n": 69,
+  "qid": "MY2",
+  "section": "MY",
+  "id": "R70-69-PRESSURE_AURA",
+  "title": "Pressure and aura",
+  "verbatim": "Through the room first. Pressure shows first in the room: smoke, frost, lamp flames, the draw-hum, animals; bodies follow. NATALIE's 'a Band gap changes weather' becomes the lead for every gap.",
+  "question": "How should Pressure and a practitioner's aura look and feel on the page?",
+  "rules_touched": [
+   "R9-3-AURA_AS_FRACTURE",
+   "R12-1-PACK_SEVEN_SURVIVORS",
+   "R10-3-PROJECTED_FORM_LICENSE"
+  ],
+  "multi": false,
+  "choice": [
+   "D"
+  ],
+  "recommended": "D"
+ },
+ {
+  "n": 70,
+  "qid": "MY3",
+  "section": "MY",
+  "id": "R70-70-INTENT_FELT_BODY",
+  "title": "Intent felt in the body",
+  "verbatim": "Intent as aimed Pressure. Killing intent becomes Pressure narrowed onto one man through Dominion, felt as cold, sweat and the pull to step back, and answered by suppression. It needs a ruled mechanism before first use.",
+  "question": "Should a fighter's intent to kill be a force others can feel?",
+  "rules_touched": [
+   "R1-1-VERDICT_GRAMMAR",
+   "R12-1-PACK_SEVEN_SURVIVORS"
+  ],
+  "multi": false,
+  "choice": [
+   "B"
+  ],
+  "recommended": "B"
+ },
+ {
+  "n": 71,
+  "qid": "MY4",
+  "section": "MY",
+  "id": "R70-71-EXPLAINING_WORKING_MID_FIGHT",
+  "title": "Explaining a working mid-fight",
+  "verbatim": "Rules shown beforehand. A working's rules are planted earlier (training, a document, talk), so the fight's explaining is mostly recall and the reader does the sum with the fighter. Self-derived techniques are still read live (R12-3).",
+  "question": "How much may a fight stop to explain how a working works?",
+  "rules_touched": [
+   "R12-4-VOICE_MIXING_RULE",
+   "R4-13-ZERO_BUDGET",
+   "R51-15-FIRST_USE",
+   "R49-43-EXPLAINING",
+   "R12-3-NAMED_INVENTOR_RULE"
+  ],
+  "multi": false,
+  "choice": [
+   "D"
+  ],
+  "recommended": "D"
+ },
+ {
+  "n": 72,
+  "qid": "MY5",
+  "section": "MY",
+  "id": "R70-72-WATCHING_CROWD_POWER_REVEAL",
+  "title": "The watching crowd at a power reveal",
+  "verbatim": "Spoken chorus, in hearing. At a reveal the crowd may speak in waves inside the POV's hearing: the breath, the name passed along, an elder's verdict. R5-G's reaction-shot tell is struck for crowds.",
+  "question": "When power shows itself in public, how do the watchers appear?",
+  "rules_touched": [
+   "R5-G-TELL_BANK_ADDITIONS",
+   "R5-B-MANHWA_DIRECTIVE_REPEALED",
+   "R4-13-WHERE_SIGNIFICANCE_LIVES",
+   "R49-09-CUTAWAYS",
+   "R53-18-AWE"
+  ],
+  "multi": false,
+  "choice": [
+   "B"
+  ],
+  "recommended": "B"
+ },
+ {
+  "n": 73,
+  "qid": "MY6",
+  "section": "MY",
+  "id": "R70-73-MANY_DISPLAY_BEATS_PER",
+  "title": "How many display beats per scene",
+  "verbatim": "One per practitioner. Each named practitioner may take one display beat per scene, so a duel can carry two and a battle several. R9-3-SCOPE's list of triggers stays.",
+  "question": "How many power-display beats may one scene carry?",
+  "rules_touched": [
+   "R9-3-BODY_UNDER_LOAD",
+   "R9-3-SCOPE",
+   "R10-3-UNCHANGED_CONSTRAINTS"
+  ],
+  "multi": false,
+  "choice": [
+   "B"
+  ],
+  "recommended": "B"
+ },
+ {
+  "n": 74,
+  "qid": "MY9",
+  "section": "MY",
+  "id": "R70-74-TECHNIQUE_NAME_LOOKS",
+  "title": "How a technique's name looks",
+  "verbatim": "Yes to: Numbered forms by school (A school's art may run as numbered forms (First Form, Second Form), each named, called and counted; mastery reads as forms held, a ladder inside the art at R8-23's form level); Long names for the halls (Lineage-hall and Korean-stratum arts may carry a four-syllable true name in correct Chinese or Korean, glossed literally (R8-22); R50-11's two-word cap binds new English names only). Not taken: Brackets inside sentences.",
+  "question": "Which naming forms may a technique, Trait or title take on the page beyond the current naming law?",
+  "rules_touched": [
+   "R50-10-NAME_STYLE",
+   "R50-11-LONG_NAMES",
+   "R8-23-NAME_HIERARCHY",
+   "R8-22-LITERAL_GLOSS",
+   "R49-48-TECH_NAMES"
+  ],
+  "multi": true,
+  "choice": [
+   "A",
+   "B"
+  ],
+  "recommended": "A,B"
+ },
+ {
+  "n": 75,
+  "qid": "MY7",
+  "section": "MY",
+  "id": "R70-75-RITE_PAGE",
+  "title": "A rite on the page",
+  "verbatim": "Numbered rite, set apart. The rite appears as an in-world form in the Guild's house style (R51-33), numbered and set apart; the scene then performs it, and something departs from it.",
+  "question": "When a rite is performed in a scene, how is it written?",
+  "rules_touched": [
+   "R12-6-RITUAL_SPECIFICATION",
+   "R12-4-VOICE_FOUR_DOCUMENT",
+   "R51-33-DOC_REGISTER",
+   "R48-25-AWE"
+  ],
+  "multi": false,
+  "choice": [
+   "B"
+  ],
+  "recommended": "B"
+ },
+ {
+  "n": 76,
+  "qid": "MY8",
+  "section": "MY",
+  "id": "R70-76-MUCH_WORLD_MAGIC",
+  "title": "How much of the world's magic is shown",
+  "verbatim": "Law stated, reasons kept. R12-2 governs what the world does and R48-25 narrows to what people do: rules in the imperative, prices as prices, taboos unexplained. People's workings keep full mechanism.",
+  "question": "Should what the world does by itself (Wellsprings, sites, the dead, the Veil) be explained as plainly as what people do?",
+  "rules_touched": [
+   "R12-2-MYSTIC_REGISTER_DEF",
+   "R48-25-AWE",
+   "R48-10-MIXING",
+   "R47-12-MYSTERY_STAYS_OPEN"
+  ],
+  "multi": false,
+  "choice": [
+   "B"
+  ],
+  "recommended": "B"
+ },
+ {
+  "n": 77,
+  "qid": "LR1",
+  "section": "LR",
+  "id": "R70-77-INSTRUMENT_CAN_SHOW",
+  "title": "What an instrument can show",
+  "verbatim": "Printing instruments. Assay coils stamp a paper tape or punch a card, as a ticker or tabulator does, so a set-off block on the page is that tape, in the instrument's own type.",
+  "question": "How far can an in-world instrument go in showing figures, inside the Imperial Age's technology?",
+  "rules_touched": [],
+  "multi": false,
+  "choice": [
+   "B"
+  ],
+  "recommended": "B"
+ },
+ {
+  "n": 78,
+  "qid": "LR22",
+  "section": "LR",
+  "id": "R70-78-WHERE_SCREEN_COMES_FROM",
+  "title": "Where a screen comes from",
+  "verbatim": "Read in the Crystal. The bearer reads his own Soul Crystal as plain, voiceless lines at thresholds: his own sheet only, exact, and blind to wounds and to others. Small new canon; instruments still read everyone else.",
+  "question": "If practitioners see their own readouts (K2's D), what in the world shows them the lines?",
+  "rules_touched": [
+   "R49-52-MEASURES",
+   "R52-05-COUNTING",
+   "R12-5-NEVER_INVENT_NUMBER"
+  ],
+  "multi": false,
+  "choice": [
+   "A"
+  ],
+  "recommended": "A"
+ },
+ {
+  "n": 79,
+  "qid": "LR2",
+  "section": "LR",
+  "id": "R70-79-CAN_READ_WHOM",
+  "title": "Who can read whom",
+  "verbatim": "Practitioners feel rank. Any practitioner feels his own Grades and Stage, and another's Band and rough Stage, with Gnosis setting how close. Another's exact figures need an instrument; commoners keep their folk words and their awe.",
+  "question": "Who in the world can read a person's numbers, his own included?",
+  "rules_touched": [
+   "R53-14-FOLK_KNOWLEDGE",
+   "R52-05-COUNTING",
+   "R49-52-MEASURES"
+  ],
+  "multi": false,
+  "choice": [
+   "B"
+  ],
+  "recommended": "B"
+ },
+ {
+  "n": 80,
+  "qid": "LR3",
+  "section": "LR",
+  "id": "R70-80-READOUT_SITS_PAGE",
+  "title": "How a readout sits on the page",
+  "verbatim": "Inline, blocks at milestones. Figures inline by default; a set-off block only at a re-assay that moves something, a breakthrough or an arc's end. Blocks become events, rare enough to land.",
+  "question": "What typographic form does a readout take in the prose?",
+  "rules_touched": [
+   "R5-F-LIGHT_NOVEL_NOT_KEPT",
+   "R51-16-OLD_BANS_FALL",
+   "R48-07-WHITE_SPACE"
+  ],
+  "multi": false,
+  "choice": [
+   "D"
+  ],
+  "recommended": "D"
+ },
+ {
+  "n": 81,
+  "qid": "LR4",
+  "section": "LR",
+  "id": "R70-81-VOICE_READOUT",
+  "title": "The voice of a readout",
+  "verbatim": "Clinical, wit in margins. The instrument stays clinical, and any wit lives in the clerk's or Measurewright's note beside it. Humour stays in a person, never in the readout, and R5-D stands.",
+  "question": "What does readout text sound like?",
+  "rules_touched": [
+   "R51-33-DOC_REGISTER",
+   "R5-D-HUMOUR_BARRED"
+  ],
+  "multi": false,
+  "choice": [
+   "C"
+  ],
+  "recommended": "C"
+ },
+ {
+  "n": 82,
+  "qid": "LR5",
+  "section": "LR",
+  "id": "R70-82-NUMERALS_LADDER_RUNGS",
+  "title": "Numerals for the ladder's rungs",
+  "verbatim": "Numeral beside name. 'Stage V, Splintering' and 'Band II, Awakened', as FOW writes them. Tiers of Standing and item Tiers keep their names alone. R47-7 is amended.",
+  "question": "May Stages, Bands and Tiers appear as numerals, or by name only?",
+  "rules_touched": [
+   "R47-7-NAMES_NOT_NUMBERS"
+  ],
+  "multi": false,
+  "choice": [
+   "B"
+  ],
+  "recommended": "B"
+ },
+ {
+  "n": 83,
+  "qid": "LR6",
+  "section": "LR",
+  "id": "R70-83-FIGURES_PLAIN_NARRATION",
+  "title": "Figures in plain narration",
+  "verbatim": "What the POV knows. Narration states the figures the POV holds: his own last reading, the card he has seen, what he was told. R49-52 governs R49-47; R14-4-SUBSTAT retires; NATALIE.md is rewritten.",
+  "question": "When narration states a figure on its own authority, where must that figure come from?",
+  "rules_touched": [
+   "R49-47-STAT_WORDS",
+   "R49-52-MEASURES",
+   "R14-4-SUBSTAT_DIAGNOSTIC_ONLY"
+  ],
+  "multi": false,
+  "choice": [
+   "B"
+  ],
+  "recommended": "B"
+ },
+ {
+  "n": 84,
+  "qid": "LR7",
+  "section": "LR",
+  "id": "R70-84-GROWTH_MOMENTS_THAT_EARN",
+  "title": "Growth moments that earn a readout",
+  "verbatim": "Yes to: Level gained (A short readout when a Level lands, with the stat points it brought. The genre's heartbeat, and the most frequent of the four); Stage breakthrough (A readout naming the new Stage and its Tier of Standing when the Catalyst completes. The cultivation novel's big moment); New Trait (A readout naming the Trait when it registers. Rare, and each one changes what a character can do); Wellspring contact (A readout at first contact with a new Wellspring current (FOW's Resonant Surge) and at a harmonisation. Growth tied to a place).",
+  "question": "Which moments of growth earn a readout when they happen?",
+  "rules_touched": [],
+  "multi": true,
+  "choice": [
+   "A",
+   "B",
+   "C",
+   "D"
+  ],
+  "recommended": "A,B,C,D"
+ },
+ {
+  "n": 85,
+  "qid": "LR8",
+  "section": "LR",
+  "id": "R70-85-SCENE_MOMENTS_THAT_EARN",
+  "title": "In-scene moments that earn a readout",
+  "verbatim": "Yes to: Appraisal (Reading a person, beast or item: the Measurewright at the rail, the coil at the counter, a faculty. The genre's appraisal in WOTR's hands); A wound (A diagnostic line in a surgeon's terms: the structure struck, the ATLS class, the minutes left. Brida's 'third bowl' as a readout); Essence spent (A reserve line after a working: what was drawn and what is left. R60-03's hard reserve clock made visible). Not taken: Pressure.",
+  "question": "Which in-scene moments may carry a readout?",
+  "rules_touched": [
+   "R48-16-REAL_FIGURES",
+   "R53-14-FOLK_KNOWLEDGE"
+  ],
+  "multi": true,
+  "choice": [
+   "A",
+   "B",
+   "D"
+  ],
+  "recommended": "A,B,D"
+ },
+ {
+  "n": 86,
+  "qid": "LR9",
+  "section": "LR",
+  "id": "R70-86-MANY_READOUTS_SCENE_CARRIES",
+  "title": "How many readouts a scene carries",
+  "verbatim": "Display, finisher, aftermath. Up to three per scene, on R48-20's rhythm; a roleplay turn carries two at most, never two in one exchange.",
+  "question": "How many readouts may one scene or one turn carry?",
+  "rules_touched": [
+   "R48-16-REAL_FIGURES"
+  ],
+  "multi": false,
+  "choice": [
+   "B"
+  ],
+  "recommended": "B"
+ },
+ {
+  "n": 87,
+  "qid": "LR10",
+  "section": "LR",
+  "id": "R70-87-READOUTS_TWO_VOICE_CAP",
+  "title": "Readouts and the two-voice cap",
+  "verbatim": "Outside the cap. A readout states figures and explains nothing, so it never counts; two voices still do the explaining, and the reader checks the call against the figures.",
+  "question": "Does a readout count as one of the two explaining voices an engagement may carry?",
+  "rules_touched": [
+   "R12-4-VOICE_MIXING_RULE"
+  ],
+  "multi": false,
+  "choice": [
+   "B"
+  ],
+  "recommended": "B"
+ },
+ {
+  "n": 88,
+  "qid": "LR11",
+  "section": "LR",
+  "id": "R70-88-NUMBERS_INSIDE_FIGHT",
+  "title": "Numbers inside a fight",
+  "verbatim": "Grades at the read. The POV's read names Grades and gaps before or between exchanges, as estimates in her own terms; no running figures. The genre's sizing-up without a log.",
+  "question": "What figures may a fight show while it is happening?",
+  "rules_touched": [
+   "R14-6-CHECK29",
+   "R60-03-HARD_RESERVE_CLOCK"
+  ],
+  "multi": false,
+  "choice": [
+   "B"
+  ],
+  "recommended": "B"
+ },
+ {
+  "n": 89,
+  "qid": "LR12",
+  "section": "LR",
+  "id": "R70-89-BODY_FIRST_NUMBER_FIRST",
+  "title": "Body first or number first",
+  "verbatim": "Body, then number. The body first and the readout in the same beat, a line after. Both on the page together, with the body always ahead.",
+  "question": "When a cost or a gain lands, which reaches the page first, the body or the number?",
+  "rules_touched": [
+   "R48-37-COST_SHOWN"
+  ],
+  "multi": false,
+  "choice": [
+   "B"
+  ],
+  "recommended": "B"
+ },
+ {
+  "n": 90,
+  "qid": "LR13",
+  "section": "LR",
+  "id": "R70-90-FAST_NUMBERS_CLIMB",
+  "title": "How fast the numbers climb",
+  "verbatim": "Event-bound. Numbers move only for a cause the reader was shown: a FOW XP event on the page, or training named in a downtime turn.",
+  "question": "How often should a character's numbers move across a thread or a book?",
+  "rules_touched": [
+   "R14-3-TRACEABILITY"
+  ],
+  "multi": false,
+  "choice": [
+   "C"
+  ],
+  "recommended": "C"
+ },
+ {
+  "n": 91,
+  "qid": "LR23",
+  "section": "LR",
+  "id": "R70-91-BREAKTHROUGH_PAGE",
+  "title": "A breakthrough on the page",
+  "verbatim": "In the crisis, line after. It happens inside the danger that is its Catalyst, written from the body; the line lands as the danger breaks and the Catalyst completes, never mid-exchange (LR11). R9-3's splash beat goes to the crisis.",
+  "question": "When a practitioner crosses into a new Stage, how is the crossing itself written?",
+  "rules_touched": [
+   "R9-3-SCOPE",
+   "R9-3-EYES_AS_TELL",
+   "R9-3-BODY_UNDER_LOAD",
+   "R53-17-THE_BILL"
+  ],
+  "multi": false,
+  "choice": [
+   "C"
+  ],
+  "recommended": "C"
+ },
+ {
+  "n": 92,
+  "qid": "LR14",
+  "section": "LR",
+  "id": "R70-92-CONFIRMING_NEW_STAGE",
+  "title": "Confirming a new Stage",
+  "verbatim": "A public re-assay. The re-assay is a rite before witnesses, read aloud and entered on the Reckoner's roll: the sect's ranking ceremony, in WOTR's institutions.",
+  "question": "When a practitioner crosses into a new Stage, how is the new Stage confirmed on the page?",
+  "rules_touched": [],
+  "multi": false,
+  "choice": [
+   "C"
+  ],
+  "recommended": "C"
+ },
+ {
+  "n": 93,
+  "qid": "LR15",
+  "section": "LR",
+  "id": "R70-93-BUILD_TALK_DIALOGUE",
+  "title": "Build talk in dialogue",
+  "verbatim": "Ranked practitioners too. Any ranked practitioner talks his own and others' numbers exactly and argues builds, as in Unbound; commoners still round. R52-05 widens.",
+  "question": "Who may talk exact numbers and builds in dialogue?",
+  "rules_touched": [
+   "R52-05-COUNTING"
+  ],
+  "multi": false,
+  "choice": [
+   "B"
+  ],
+  "recommended": "B"
+ },
+ {
+  "n": 94,
+  "qid": "LR16",
+  "section": "LR",
+  "id": "R70-94-GAMER_SLANG",
+  "title": "Gamer slang",
+  "verbatim": "Speech, by ear. Current law: gamer slang in a mouth whose voice would carry it; narration stays timeless. verify_scene adds these words to its narration watch-list.",
+  "question": "Where may gamer slang appear: min-max (pile points into one stat and starve another), dump stat (the one starved), aggro (an enemy's attention), cooldown (the wait before a skill works again)?",
+  "rules_touched": [
+   "R48-13-PERIOD_FEEL",
+   "R51-05-LIST_TECH"
+  ],
+  "multi": false,
+  "choice": [
+   "A"
+  ],
+  "recommended": "A"
+ },
+ {
+  "n": 95,
+  "qid": "LR17",
+  "section": "LR",
+  "id": "R70-95-ITEM_CARDS",
+  "title": "Item cards",
+  "verbatim": "Item card, once. A set-off card at purchase or appraisal: Tier, Latin form, Grade band, maker, stamp, price, one line of lore. Once per item, never reprinted.",
+  "question": "Does an item's Tier and worth ever reach the page as a set-off card?",
+  "rules_touched": [],
+  "multi": false,
+  "choice": [
+   "A"
+  ],
+  "recommended": "A"
+ },
+ {
+  "n": 96,
+  "qid": "LR18",
+  "section": "LR",
+  "id": "R70-96-TITLES_ACHIEVEMENTS",
+  "title": "Titles and achievements",
+  "verbatim": "Guild commendations. The Guild may also enter a commendation on a registration and strike its mark on the token: legal and social weight, no stat effect. Third Names carry on as now.",
+  "question": "Where do titles come from, and do they carry any mechanical weight?",
+  "rules_touched": [
+   "R50-21-THIRD_NAMES"
+  ],
+  "multi": false,
+  "choice": [
+   "B"
+  ],
+  "recommended": "B"
+ },
+ {
+  "n": 97,
+  "qid": "LR19",
+  "section": "LR",
+  "id": "R70-97-QUESTS_CONTRACTS",
+  "title": "Quests and contracts",
+  "verbatim": "Contract boards. Guild and Crown contracts posted with terms, pay and the clearance register: the quest board as a Draw Age notice. Hooks gain a stated reward and penalty.",
+  "question": "Does WOTR have quests, and in what in-world form?",
+  "rules_touched": [],
+  "multi": false,
+  "choice": [
+   "A"
+  ],
+  "recommended": "A"
+ },
+ {
+  "n": 98,
+  "qid": "LR20",
+  "section": "LR",
+  "id": "R70-98-SHEETS_CHAPTER_ARC_ENDS",
+  "title": "Sheets at chapter and arc ends",
+  "verbatim": "Changes at chapter end. Each chapter closes with a short block of what moved and why, above the notes; roleplay turns keep it in the notes.",
+  "question": "Do chapters or arcs end with a character sheet?",
+  "rules_touched": [
+   "R14-6-CHECK29"
+  ],
+  "multi": false,
+  "choice": [
+   "B"
+  ],
+  "recommended": "B"
+ },
+ {
+  "n": 99,
+  "qid": "LR21",
+  "section": "LR",
+  "id": "R70-99-NUMBER_NOT_YET_CANON",
+  "title": "A number not yet in canon",
+  "verbatim": "Print the estimate, marked. The readout prints the figure with the instrument's own hedge (a range, 'uncertain past the third place'), and the notes log it as estimate.",
+  "question": "What does a readout do when the figure it should show is not in canon?",
+  "rules_touched": [
+   "R12-5-NEVER_INVENT_NUMBER",
+   "R14-6-NUMBERS_GREP"
+  ],
+  "multi": false,
+  "choice": [
+   "B"
+  ],
+  "recommended": "B"
+ },
+ {
+  "n": 100,
+  "qid": "CB1",
+  "section": "CB",
+  "id": "R70-100-MARTIAL_VOCABULARY_NAMES_MOVES",
+  "title": "Which martial vocabulary names the moves",
+  "verbatim": "By the POV's own school. Narration names every move in the POV's own training (a Moto POV calls a diagonal cut kesa-giri, a Greymane POV a Zornhau); a foreign school's word arrives in a mouth. verify takes per-school lists.",
+  "question": "Which martial vocabulary traces a duel on the page?",
+  "rules_touched": [
+   "R48-33-CHOREOGRAPHY",
+   "R13-6-HEMA_VOCAB",
+   "R13-4-COMBAT_FLOOR",
+   "R1-1-BLADE_GRAMMAR"
+  ],
+  "multi": false,
+  "choice": [
+   "C"
+  ],
+  "recommended": "C"
+ },
+ {
+  "n": 101,
+  "qid": "CB2",
+  "section": "CB",
+  "id": "R70-101-DECLARING_NAME_LINE_BEFORE",
+  "title": "Declaring name and line before a duel",
+  "verbatim": "Full declaration, with a price. Full declarations are legal but count as the scene's crafted speech under R48-43, and the world does not wait: an opponent may close measure, or shoot, while the recital runs.",
+  "question": "Do fighters declare their name and lineage before a duel, and how much of it reaches the page?",
+  "rules_touched": [
+   "R48-43-SPEECHES"
+  ],
+  "multi": false,
+  "choice": [
+   "D"
+  ],
+  "recommended": "D"
+ },
+ {
+  "n": 102,
+  "qid": "CB3",
+  "section": "CB",
+  "id": "R70-102-STILLNESS_TRACED_PASSES_LONG",
+  "title": "Stillness, traced passes, or the long fight",
+  "verbatim": "Shape follows the grammar. A rule ties duel shape to the four combat grammars: Verdict still then one cut, Blade traced passes, Percussion and Expenditure by attrition; practitioners escalate while reserve lasts. R60-01 holds for the unranked.",
+  "question": "What shape does a duel take on the page: stillness and one decisive cut, several traced passes, or a long escalating fight?",
+  "rules_touched": [
+   "R48-33-CHOREOGRAPHY",
+   "R13-4-DENSITY_BUDGET",
+   "R5-B-MANHWA_DIRECTIVE_REPEALED",
+   "R60-01-BRUTAL_LETHALITY",
+   "R1-1-VERDICT_GRAMMAR"
+  ],
+  "multi": false,
+  "choice": [
+   "D"
+  ],
+  "recommended": "D"
+ },
+ {
+  "n": 103,
+  "qid": "CB4",
+  "section": "CB",
+  "id": "R70-103-MEMORY_INSIDE_FIGHT",
+  "title": "Memory inside a fight",
+  "verbatim": "Full flashback, POV only. The POV may take a full flashback, a page or more, frozen inside one turning exchange, once per fight. The POV lock holds; the opponent's past reaches the page only through what the POV knows.",
+  "question": "May a fight stop for a memory, and whose?",
+  "rules_touched": [
+   "R49-06-MEMORIES",
+   "R48-40-NPC_THOUGHTS"
+  ],
+  "multi": false,
+  "choice": [
+   "C"
+  ],
+  "recommended": "C"
+ },
+ {
+  "n": 104,
+  "qid": "CB5",
+  "section": "CB",
+  "id": "R70-104-RIVAL_BOND",
+  "title": "The rival bond",
+  "verbatim": "Rivals who chose to spare. A rival may recur, but each survival is a choice someone made and paid for on the Ledger: a debt, a scar, a witness to the mercy. R48-31 stands.",
+  "question": "Does WOTR run the recurring rival, the opponent who comes back fight after fight with respect on both sides?",
+  "rules_touched": [
+   "R48-31-STAKES"
+  ],
+  "multi": false,
+  "choice": [
+   "B"
+  ],
+  "recommended": "B"
+ },
+ {
+  "n": 105,
+  "qid": "CB6",
+  "section": "CB",
+  "id": "R70-105-JOINS_WOUND_WHEN_FIGHT",
+  "title": "What joins the wound when a fight ends",
+  "verbatim": "Rites and image, by culture. Both, keyed to culture: Japonic, Korean and Chinese killers carry the rites; the elegiac image belongs to any POV whose culture mourns that way. The clinical floor holds everywhere.",
+  "question": "What joins the clinical wound and the aftermath when someone dies by the blade?",
+  "rules_touched": [
+   "R48-34-WOUNDS",
+   "R48-38-AFTERMATH",
+   "R5-C2-ELEGY_CONCRETE_THING"
+  ],
+  "multi": false,
+  "choice": [
+   "D"
+  ],
+  "recommended": "D"
+ },
+ {
+  "n": 106,
+  "qid": "CB7",
+  "section": "CB",
+  "id": "R70-106-BATTLE_TOLD",
+  "title": "How a battle is told",
+  "verbatim": "Hill and ditch, cut. A battle cuts between the commander's hill and one man in the press at marked breaks, each section POV-locked; the breaks stand in for the guide's rule to 'pass through Line'. R1-3's three heads cover both.",
+  "question": "Where does a battle with formations live on the page: in the ranks, on the commander's hill, or both?",
+  "rules_touched": [
+   "R1-3-NAME_THREE_RULE"
+  ],
+  "multi": false,
+  "choice": [
+   "C"
+  ],
+  "recommended": "C"
+ },
+ {
+  "n": 107,
+  "qid": "DL1",
+  "section": "DL",
+  "id": "R70-107-SPEECH_LEVELS_ADDRESS_KOREAN",
+  "title": "Speech levels and address for the Korean and Chinese strata",
+  "verbatim": "Native words and level shifts. Native address words as in B, and level shifts written as events as in C. R23-10-CHINESE_PHONOTACTICS still bars stacked honorifics inside names. (Option B there reads: Native address words. R51-21 extends: Korean speakers use their own address words (-ssi, polite; -nim, honoured; sunbae), Chinese theirs (shifu, shixiong, qianbei, an elder of another school), romanised and never italic.) (Option C there reads: Levels carried in English. No foreign address words beyond the Japonic houses; speech levels live in English grammar (bare orders against full courteous forms), and a shift of level is written as an event the room hears.)",
+  "question": "How do Korean and Chinese speakers mark rank and relationship in speech?",
+  "rules_touched": [
+   "R51-21-MOTO_WORDS",
+   "R20-5-FORMAL_ADDRESS",
+   "R23-10-CHINESE_PHONOTACTICS"
+  ],
+  "multi": false,
+  "choice": [
+   "D"
+  ],
+  "recommended": "D"
+ },
+ {
+  "n": 108,
+  "qid": "DL2",
+  "section": "DL",
+  "id": "R70-108-EASTERN_REGISTER_SPEECH_SOUNDS",
+  "title": "How Eastern-register speech sounds in English",
+  "verbatim": "Translated forms for ceremony. Natural English in daily talk; the translated forms (self-reference, set formulas, idioms word for word) come out at ceremony, challenge, oath, court and insult, where the shift into them is itself a beat.",
+  "question": "Do Chinese and Korean speakers talk in natural English or with the flavour of a literal translation?",
+  "rules_touched": [
+   "R52-02-VOICE_LEVER",
+   "R52-03-VOICE_BLOCK",
+   "R15-1-RACIAL_VOICE_MENU"
+  ],
+  "multi": false,
+  "choice": [
+   "D"
+  ],
+  "recommended": "D"
+ },
+ {
+  "n": 109,
+  "qid": "DL3",
+  "section": "DL",
+  "id": "R70-109-PROVERBS_SPEECH",
+  "title": "Proverbs in speech",
+  "verbatim": "Duels, by age and standing. B, keyed to standing: elders, headmen and court speakers argue in sayings; the young speak plain, and a youth who quotes above his years is put down for it. (Option B there reads: Proverb duels. NPCs carry several fixed sayings and may argue in them at bargain, quarrel and council, a saying answered by a saying. R52-30's 'one' becomes 'several'.)",
+  "question": "How heavily do fixed sayings carry speech, and whose mouths are they in?",
+  "rules_touched": [
+   "R52-30-PROVERBS"
+  ],
+  "multi": false,
+  "choice": [
+   "C"
+  ],
+  "recommended": "C"
+ },
+ {
+  "n": 110,
+  "qid": "DL4",
+  "section": "DL",
+  "id": "R70-110-VERSE_EXCHANGED_TALK",
+  "title": "Verse exchanged in talk",
+  "verbatim": "Each culture its own contest. B, plus the north's own form: Northern English and Norse-register speakers may answer in alliterative insult verse (flyting). Each culture's verse form is entered in its Inventory. (Option B there reads: Courtly cultures trade verse. The Moto court, Eresse, the Mahuo houses and the lineage halls may offer and answer verse at rites and in court; a weak answer, or a plain one, costs face.)",
+  "question": "May people answer one another in verse: a poem met with a poem, an insult met with an insult stanza?",
+  "rules_touched": [
+   "R51-28-CHANT_PAGE",
+   "R4-14-RUN_RULE"
+  ],
+  "multi": false,
+  "choice": [
+   "C"
+  ],
+  "recommended": "C"
+ },
+ {
+  "n": 111,
+  "qid": "DL5",
+  "section": "DL",
+  "id": "R70-111-LONG_FORMAL_SPEECH_CLIPPED",
+  "title": "Long formal speech and the clipped line",
+  "verbatim": "Long speech at court. Court cultures (the Moto court, the Accord chancery, the Mahuo houses, the lineage halls) argue in long formal speeches as their normal register; Kharven, saga and soldier speech stay short. R48-43's cap holds outside court.",
+  "question": "How long may a speaker hold the floor: formal argument at court, short lines in the north, or length wherever the moment carries it?",
+  "rules_touched": [
+   "R48-43-SPEECHES",
+   "R19-4-REALISTIC_SPEECH"
+  ],
+  "multi": false,
+  "choice": [
+   "B"
+  ],
+  "recommended": "B"
+ },
+ {
+  "n": 112,
+  "qid": "DL6",
+  "section": "DL",
+  "id": "R70-112-FACE_FACE_SLAP",
+  "title": "Face, and the face-slap",
+  "verbatim": "The face-slap, with a bill. C, with a bill: every public reversal opens a Front or a Ledger debt (a vengeful house, a witness, a feud), and the humbled man stays veteran-clever afterward. (Option C there reads: The face-slap licensed. The face-slap becomes a legal payoff: an arrogant scion underestimates, the reversal is public, the room reassesses. R5-C1-WELL_REASONED_WRONG_CONCLUSION and R48-36 relax for the arrogant, who may misjudge badly.)",
+  "question": "Does face run as a social economy in speech, and is the public reversal of an arrogant man (the face-slap) a legal payoff?",
+  "rules_touched": [
+   "R48-36-NPC_WITS",
+   "R5-C1-WELL_REASONED_WRONG_CONCLUSION",
+   "R12-4-VOICE_THREE_OPPONENT"
+  ],
+  "multi": false,
+  "choice": [
+   "D"
+  ],
+  "recommended": "D"
+ },
+ {
+  "n": 113,
+  "qid": "HU1",
+  "section": "HU",
+  "id": "R70-113-DOUBLE_ACT_COMIC_BEAT",
+  "title": "The double act and the comic beat",
+  "verbatim": "Full beats for comic voices. Full comic beats, retort and reaction included, belong to comic voices and double acts named on their cards; everyone else stays under R5-D.",
+  "question": "Does the setup-deadpan-reaction ban hold, or may a comic double act play out on the page?",
+  "rules_touched": [
+   "R5-D-HUMOUR_BARRED",
+   "R52-31-COMIC_NPC",
+   "R5-G-TELL_BANK_ADDITIONS"
+  ],
+  "multi": false,
+  "choice": [
+   "D"
+  ],
+  "recommended": "D"
+ },
+ {
+  "n": 114,
+  "qid": "HU2",
+  "section": "HU",
+  "id": "R70-114-GRIMDARK_WARMTH",
+  "title": "Grimdark and warmth",
+  "verbatim": "Warmth as counterweight. Each live thread carries at least one standing warm bond (found family, master and disciple, sworn kin) written openly warm, and joy may get scenes of its own. Losses still cost.",
+  "question": "How much warmth does WOTR carry beside the grimdark: bonds, found family, hope?",
+  "rules_touched": [
+   "R11-1-TONAL_SPINE_UNCHANGED",
+   "R5-A-FLESH_CHANGES"
+  ],
+  "multi": false,
+  "choice": [
+   "B"
+  ],
+  "recommended": "B"
+ },
+ {
+  "n": 115,
+  "qid": "HU3",
+  "section": "HU",
+  "id": "R70-115-TEARS_SENTIMENT",
+  "title": "Tears and sentiment",
+  "verbatim": "Break at a small thing. A rule adds the delayed break: restraint holds through the big moment and gives way, fully and openly, at a small unexpected thing. Once per character per arc.",
+  "question": "When a guarded character breaks, how openly does the page let them cry?",
+  "rules_touched": [
+   "R52-26-GRIEF",
+   "R49-07-EMOTIONS",
+   "R52-28-COMPOSURE",
+   "R52-27-JOY"
+  ],
+  "multi": false,
+  "choice": [
+   "B"
+  ],
+  "recommended": "B"
+ },
+ {
+  "n": 116,
+  "qid": "HU4",
+  "section": "HU",
+  "id": "R70-116-COMEDY_BESIDE_DANGER",
+  "title": "Comedy beside danger",
+  "verbatim": "Comedy hard against dread. Comedy and dread may be set hard against each other by design (domestic farce, then the thing in the dark), each played straight; jokes inside the danger stay gallows wit.",
+  "question": "May a comic beat sit inside real danger, or hard against it?",
+  "rules_touched": [
+   "R5-B-MANHWA_DIRECTIVE_REPEALED",
+   "R5-D-HUMOUR_PERMITTED"
+  ],
+  "multi": false,
+  "choice": [
+   "C"
+  ],
+  "recommended": "C"
+ },
+ {
+  "n": 117,
+  "qid": "NE1",
+  "section": "NE",
+  "id": "R70-117-SOBRIQUETS_HALL_TITLES",
+  "title": "Sobriquets and hall titles",
+  "verbatim": "Sobriquets and title ladders. B and C together: sobriquets spread by use, and the halls stack their titles in formal address. R23-10 holds for given names only. (Option B there reads: Sobriquets in common use. Criers, crowds, ballads and enemies may hang lesser names on any notable fighter; most fade, and the one that sticks becomes the Third Name. Your characters' names still stick only if you keep them.) (Option C there reads: Hall title ladders. The lineage halls run a full title ladder (Hall Master, Elder, Senior Brother, first disciple) that may stack in formal address; R23-10's bans lift for titles and hold for given names.)",
+  "question": "How freely does the world hand out grand names, and may the lineage halls run title ladders?",
+  "rules_touched": [
+   "R20-4-THIRD_NAME_PROBLEM",
+   "R50-21-THIRD_NAMES",
+   "R23-10-CHINESE_PHONOTACTICS"
+  ],
+  "multi": false,
+  "choice": [
+   "D"
+  ],
+  "recommended": "D"
+ },
+ {
+  "n": 118,
+  "qid": "NE2",
+  "section": "NE",
+  "id": "R70-118-HONORIFICS_NARRATION",
+  "title": "Honorifics in narration",
+  "verbatim": "The POV's own honorific. A close POV from a culture with honorifics carries them into narration (Kaname-sama, Seo-nim) as he would think them, never italic; a Western POV in the same room uses plain names.",
+  "question": "In narration, do Eastern-register characters go by name, by rank, or with the honorific the POV would use?",
+  "rules_touched": [
+   "R48-44-NAME_USE",
+   "R20-5-ON_THE_PAGE",
+   "R51-21-MOTO_WORDS"
+  ],
+  "multi": false,
+  "choice": [
+   "C"
+  ],
+  "recommended": "C"
+ },
+ {
+  "n": 119,
+  "qid": "NM1",
+  "section": "NM",
+  "id": "R70-119-MUCH_POOL_COMIC",
+  "title": "How much of the pool is comic",
+  "verbatim": "Most commons and soldiers. Comic bynames and nicknames become the norm in musters, crews, taverns and markets. Above the commons they thin out, and NM4 sets how high they reach.",
+  "question": "What share of new names should be comic, punning or plainly made-up fantasy names?",
+  "rules_touched": [
+   "R50-18-OUTLIERS",
+   "R23-5-OUTLIER_BUDGET",
+   "R20-3-CONCORD_GIVEN_NAMES"
+  ],
+  "multi": false,
+  "choice": [
+   "B"
+  ],
+  "recommended": "B"
+ },
+ {
+  "n": 120,
+  "qid": "NM2",
+  "section": "NM",
+  "id": "R70-120-BUILT_COMIC_NAMES",
+  "title": "Built comic names",
+  "verbatim": "Yes to: Rhyming and alliterating sets (Kin, crews and sworn pairs share a name-part and change the sound, Borin and Snorin style, inside each culture's own sound rules. A set meeting is a beat (R50-17)); Dickensian talking surnames (Surnames that tell a trade or a nature one notch past believable, as Gradgrind did: the Victorian imperial register R53-28 already sets, for Northern and Accord families); Plausible puns, Pratchett-style (Surnames that pass for real ones, with the pun underneath or turned against the bearer. Built from words the Draw Age owns, so no brand, celebrity or modern-world reference). Not taken: Phrase and sentence names.",
+  "question": "Which kinds of built comic name should WOTR use?",
+  "rules_touched": [
+   "R50-17-SHARED_NAMES",
+   "R53-28-VISUAL_REFERENCE",
+   "R20-1-CONCORD_HUMAN_ANCHOR",
+   "R20-3-DAWI_ELEMENTS",
+   "R23-2-CHINESE_STRATUM_SUMMARY"
+  ],
+  "multi": true,
+  "choice": [
+   "A",
+   "B",
+   "C"
+  ],
+  "recommended": "A, B, C"
+ },
+ {
+  "n": 121,
+  "qid": "NM3",
+  "section": "NM",
+  "id": "R70-121-GROWN_COMIC_NAMES",
+  "title": "Grown comic names",
+  "verbatim": "Yes to: Soldiers' nicknames (Deed and body bynames from comrades, literal or ironic, the way Abercrombie's Logen Ninefingers counts his missing finger. Peers coin them, so the joke belongs to the characters); Mangled names (A name or phrase bent by a foreign mouth and written as heard, a real mishearing every time (R20-4). Canon already does it: the Dawi say Porin, and Common mouths make it Borin); Sound comedy (Names funny for their noise: hard k sounds, doubled syllables, a goblin mouth's extra consonants. Built inside each people's own sound rules, and most at home among the goblinoids); Protective ugly names (A child given a cheap or ugly name so death passes it over, as Chinese and Korean families did; R23-5 already allows a name given 'as an insult or a shield'. Comic to outsiders, grim at home).",
+  "question": "Which kinds of comic name that grow out of use should WOTR use?",
+  "rules_touched": [
+   "R23-2-NORTHERN_STRATUM",
+   "R20-4-PRONUNCIATION_ADAPTATION",
+   "R50-33-MISPRONOUNCE",
+   "R20-1-GOBLINOID_ANCHOR",
+   "R23-5-OUTLIER_DEFINED"
+  ],
+  "multi": true,
+  "choice": [
+   "A",
+   "B",
+   "C",
+   "D"
+  ],
+  "recommended": "A, B, C, D"
+ },
+ {
+  "n": 122,
+  "qid": "NM4",
+  "section": "NM",
+  "id": "R70-122-MAY_CARRY_ONE",
+  "title": "Who may carry one",
+  "verbatim": "Plus villains. B, plus villains and rivals, in the Jonson and Dickens line (Volpone the fox, Uriah Heep): a comic name on a dangerous person. Major NPCs keep strict names. (Option B there reads: Plus recurring NPCs. Recurring minor NPCs (the innkeeper, the sergeant, the Guild clerk) may keep comic names across scenes. Villains and major NPCs stay strict.)",
+  "question": "How far up the cast may a comic name reach?",
+  "rules_touched": [
+   "R52-31-COMIC_NPC",
+   "R5-D-HUMOUR_PERMITTED",
+   "R48-11-HUMOUR"
+  ],
+  "multi": false,
+  "choice": [
+   "C"
+  ],
+  "recommended": "C"
+ },
+ {
+  "n": 123,
+  "qid": "NM5",
+  "section": "NM",
+  "id": "R70-123-WHOSE_EAR_HEARS_JOKE",
+  "title": "Whose ear hears the joke",
+  "verbatim": "English puns with a bridge. An English pun is legal where the world supplies a bridge: a Common mouth, a byname rendered in English, or a Common ear mishearing. Reader-only puns hidden in a foreign name stay out.",
+  "question": "Must a comic name be a joke someone inside the world can hear, or may some be the reader's alone?",
+  "rules_touched": [
+   "R5-C1-NARRATION_NEVER_WINKS",
+   "R50-01-REAL_GRAMMAR",
+   "R50-33-MISPRONOUNCE",
+   "R20-3-DAWI_ELEMENTS"
+  ],
+  "multi": false,
+  "choice": [
+   "B"
+  ],
+  "recommended": "B"
+ },
+ {
+  "n": 124,
+  "qid": "NM6",
+  "section": "NM",
+  "id": "R70-124-PEOPLES_WEST_NORTH",
+  "title": "Which peoples: West and North",
+  "verbatim": "Yes to: The Dawi (Rhyming sets on a shared bank element, deed bynames rendered in English, and outsiders' mangling. Given names stay bank-built; the joke lives in sets, bynames and other people's mouths); Kharven and Far-Northern (Bynames from the Kharven stock of scarcity insults, protective cheap names, and roll-names (surnames an Accord clerk assigned). No joke on the name of the recently dead (R23-11)); Accord and Northern commons (The richest home: talking and phrase surnames, rhyming pet names (Hob and Dob), soldiers' bynames, and Accord jokes in correct Latin (R50-12)); Goblinoid peoples (Sound comedy, and bynames whose cause nobody remembers, so a dreaded name can arrive with no story behind it).",
+  "question": "Among the Dawi, the northern peoples and the goblinoids, which carry comic names?",
+  "rules_touched": [
+   "R20-3-DAWI_ELEMENTS",
+   "R20-1-DAWI_ANCHOR",
+   "R23-2-NORTHERN_STRATUM",
+   "R23-11-ROLL_NAMES_FROM_ACCORD",
+   "R23-11-NAME_AVOIDANCE_WAITING",
+   "R20-1-GOBLINOID_ANCHOR",
+   "R50-12-COINED_LATIN"
+  ],
+  "multi": true,
+  "choice": [
+   "A",
+   "B",
+   "C",
+   "D"
+  ],
+  "recommended": "A, B, C, D"
+ },
+ {
+  "n": 125,
+  "qid": "NM7",
+  "section": "NM",
+  "id": "R70-125-PEOPLES_EASTERN_STRATA",
+  "title": "Which peoples: the Eastern strata",
+  "verbatim": "Yes to: Retainers and household staff (Retainers and servants of the Japonic houses take calling-names from real Japanese trait-words, and sound puns on real words, glossed once by a character); Bloodline cadets, bynames only (Servants and rival Lines coin comic bynames for new cadets of the archaic houses, behind their backs; given names stay under R40-1. No carded Moto is touched, Sodoku least of all, and no Büri form returns); The Mahuo (Korean-register names chime through the generation syllable (one syllable every cousin of a generation shares) and can land on a real Korean word; children may carry ugly milk-names. Real Korean only (R50-01)); The Chinese lineage halls (Self-awarded studio names (a scholar's chosen art-name, which other houses mock), insulting posthumous names, cheap child-names and spoken homophone puns. Nothing that needs a written character to land).",
+  "question": "Among the Japonic houses, the Mahuo and the Chinese lineage halls, which carry comic names?",
+  "rules_touched": [
+   "R23-2-JAPONIC_STRATUM",
+   "R40-1-MOTO_ELEMENT_INVENTORY",
+   "R50-31-SCRIPT_SHOWN",
+   "R50-01-REAL_GRAMMAR",
+   "R37-1-MAHUO_ELEMENT_INVENTORY",
+   "R23-2-CHINESE_STRATUM_SUMMARY",
+   "R52-14-SODOKU_JOKE",
+   "R22-1-HOUSE_STRUCK"
+  ],
+  "multi": true,
+  "choice": [
+   "A",
+   "B",
+   "C",
+   "D"
+  ],
+  "recommended": "A, B, C, D"
+ },
+ {
+  "n": 126,
+  "qid": "NM8",
+  "section": "NM",
+  "id": "R70-126-BORIN_IRONHEART_RHYMING",
+  "title": "Borin Ironheart's rhyming kin",
+  "verbatim": "Brothers, Snorin included. Natalie invents Borin's brothers on the shared Rin, one called Snorin by every Common mouth, and adds them to his card's kin line once you approve the names.",
+  "question": "Should Borin Ironheart gain a rhyming set of kin or companions, and who makes them?",
+  "rules_touched": [
+   "R50-17-SHARED_NAMES",
+   "R20-3-DAWI_ELEMENTS",
+   "R20-1-DAWI_ANCHOR",
+   "R50-02-FIX_OLD_ONES"
+  ],
+  "multi": false,
+  "choice": [
+   "B"
+  ],
+  "recommended": "B"
+ },
+ {
+  "n": 127,
+  "qid": "NM9",
+  "section": "NM",
+  "id": "R70-127-COMIC_NAME_GRIM_END",
+  "title": "A comic name, a grim end",
+  "verbatim": "The name turns to grief. Someone says the comic name at the death and the joke becomes the wound. Among the Kharven the name then goes unspoken until it is given on (R23-11).",
+  "question": "When someone with a comic name dies badly, how does the page carry the name?",
+  "rules_touched": [
+   "R49-38-FUNERAL_TEST",
+   "R23-11-NAME_AVOIDANCE_WAITING",
+   "R5-D-HUMOUR_PERMITTED"
+  ],
+  "multi": false,
+  "choice": [
+   "B"
+  ],
+  "recommended": "B"
+ },
+ {
+  "n": 128,
+  "qid": "NM10",
+  "section": "NM",
+  "id": "R70-128-PLACES_INNS_SHIPS_GEAR",
+  "title": "Places, inns, ships and gear",
+  "verbatim": "Yes to: Inns, taverns and shops (Signboards and their regulars' nicknames carry the joke, in every culture's towns); Streets and places (The commons' names for streets, fords and districts sit beside the official ones, one per culture (R50-22). The Accord's Latin name stays grave); Ships, sledges and engines (Crews' names for vessels, sledge-teams, draw-engines and gun-carriages, beside whatever the registry wrote); Weapons and items (Weapons and gear take soldiers' folk names beside their true names (R50-13): the true name in the maker's tongue stays grave, and the folk name may joke. Technique names keep R50-11 and R8-22).",
+  "question": "Beyond people, what may carry a comic name?",
+  "rules_touched": [
+   "R50-22-PLACE_STRATA",
+   "R50-23-DOUBLETS",
+   "R50-13-ITEM_NAMES",
+   "R50-11-LONG_NAMES",
+   "R8-22-LITERAL_GLOSS"
+  ],
+  "multi": true,
+  "choice": [
+   "A",
+   "B",
+   "C",
+   "D"
+  ],
+  "recommended": "A, B, C, D"
+ },
+ {
+  "n": 129,
+  "qid": "NM11",
+  "section": "NM",
+  "id": "R70-129-NOTICES_JOKE",
+  "title": "Who notices the joke",
+  "verbatim": "Close POV may notice. The POV's own head may register the joke in his own idiom, as he would think it. The narrator outside him never remarks, so R5-C1 stands.",
+  "question": "Who on the page may notice that a name is funny?",
+  "rules_touched": [
+   "R5-C1-NARRATION_NEVER_WINKS",
+   "R5-C1-INFO_TRACKED_PER_POV",
+   "R5-D-HUMOUR_BARRED"
+  ],
+  "multi": false,
+  "choice": [
+   "B"
+  ],
+  "recommended": "B"
+ },
+ {
+  "n": 130,
+  "qid": "NM12",
+  "section": "NM",
+  "id": "R70-130-WALK_ONS_WITH_COMIC",
+  "title": "Walk-ons with comic names",
+  "verbatim": "Nickname in a mouth. A walk-on may be named at once only by a nickname in someone else's mouth; the narration keeps the role until R50-27 is met. A walk-on named for a joke does not die in that scene.",
+  "question": "May a one-scene person carry a comic name before he has spoken twice?",
+  "rules_touched": [
+   "R50-27-NEW_NPC_NAME",
+   "R52-31-COMIC_NPC"
+  ],
+  "multi": false,
+  "choice": [
+   "C"
+  ],
+  "recommended": "C"
+ },
+ {
+  "n": 131,
+  "qid": "NM13",
+  "section": "NM",
+  "id": "R70-131-COMIC_NAMES_GET_MADE",
+  "title": "How comic names get made",
+  "verbatim": "Yes to: A comic bank per culture (Each Standing Inventory (the per-culture texture file) gains a comic-name list of bynames, nicknames, rhyming sets and signboards, built in that culture's sound rules); By ear, sound-checked (Natalie coins comic names live; the scene-end check passes each as an outlier (R50-18) so long as it keeps its culture's sound rules, and flags any that break them). Not taken: A floor per crowd scene, A pitch list per session.",
+  "question": "How should comic names be produced at the table?",
+  "rules_touched": [
+   "R50-30-BANK_OR_EAR",
+   "R50-18-OUTLIERS",
+   "R50-28-NEW_WORDS"
+  ],
+  "multi": true,
+  "choice": [
+   "A",
+   "B"
+  ],
+  "recommended": "A, B"
+ },
+ {
+  "n": 132,
+  "qid": "NM14",
+  "section": "NM",
+  "id": "R70-132-FAR_NAMING_LAW_BENDS",
+  "title": "How far the naming law bends",
+  "verbatim": "Banks gain comic slots. B, plus each culture's naming rows gain a comic-names clause pointing to that culture's comic bank in its Standing Inventory, so load_rules serves the bank with the law. (Option B there reads: Narrow amendments. Only the rows your answers above bend are amended, each in one line naming its answer: R50-30 for the sound check, R50-27 only if NM12 opens walk-ons. Banks and sound rules stand.)",
+  "question": "How far should comic names bend the current naming rows?",
+  "rules_touched": [
+   "R20-3-DAWI_ELEMENTS",
+   "R37-1-MAHUO_ELEMENT_INVENTORY",
+   "R40-1-MOTO_ELEMENT_INVENTORY",
+   "R23-11-PHONOTACTICS",
+   "R23-10-CHINESE_PHONOTACTICS",
+   "R50-27-NEW_NPC_NAME",
+   "R50-30-BANK_OR_EAR",
+   "R50-18-OUTLIERS"
+  ],
+  "multi": false,
+  "choice": [
+   "C"
+  ],
+  "recommended": "C"
+ },
+ {
+  "n": 133,
+  "qid": "XS1",
+  "section": "XS",
+  "id": "R70-133-EASTERN_TECHNIQUES_BESIDE_CLINICAL",
+  "title": "Eastern techniques beside clinical specificity",
+  "verbatim": "Yes to: Season and nature imagery (An explicit scene may set a season or nature image beside the anatomy (frost, snow, blossom, the brazier), carrying mood without replacing the plain words); Held detail at the peak (At chosen moments, usually the peak, one held physical detail may carry the beat; plain specificity governs the rest, and the aftermath is still written); The poem after (An explicit scene may close on a written or spoken exchange (a morning poem, a note, a line answered) as part of its aftermath beat); Mimetic words (Mimetic words for texture and state (the Japanese gitaigo habit, and each culture's own) join table rule 9's onomatopoeia, romanised and never italic).",
+  "question": "Which Eastern techniques may join the plain, clinical specificity of an explicit scene?",
+  "rules_touched": [
+   "R49-51-EXPLICIT"
+  ],
+  "multi": true,
+  "choice": [
+   "A",
+   "B",
+   "C",
+   "D"
+  ],
+  "recommended": "A,B,C"
+ },
+ {
+  "n": 134,
+  "qid": "XS2",
+  "section": "XS",
+  "id": "R70-134-KEYED_CULTURE_FREE",
+  "title": "Keyed to culture or free",
+  "verbatim": "Keyed to the POV. The POV's culture decides: a Moto POV writes with image and the held detail, a Kharven POV blunt, whoever the lover is; the lover's culture shows in what they do and say.",
+  "question": "Are the Eastern explicit techniques keyed to culture, or free in any scene?",
+  "rules_touched": [
+   "R49-51-EXPLICIT"
+  ],
+  "multi": false,
+  "choice": [
+   "C"
+  ],
+  "recommended": "C"
+ },
+ {
+  "n": 135,
+  "qid": "ME1",
+  "section": "ME",
+  "id": "R70-135-WHERE_NEW_LAW_LIVES",
+  "title": "Where the new law lives",
+  "verbatim": "A, plus new guide editions. A, then new editions of the Master Style Directive, Combat Craft Guide, Dialogue Craft Standards and Scene Writing Process Guide, so no companion document still teaches the old law. (Option A there reads: Rule doc and NATALIE rewrite. One dated Style Law doc logged through log_ruling; NATALIE.md's models line and Prose Standards rewritten to it; R5-A-FLESH_CHANGES, R5-E-MARTIN_WINS_RULING and R11-1 superseded or amended as K1 decides.)",
+  "question": "How do your answers land in the repo and in Natalie's standing prompt?",
+  "rules_touched": [
+   "R5-A-FLESH_CHANGES",
+   "R5-E-MARTIN_WINS_RULING",
+   "R11-1-TONAL_SPINE_UNCHANGED"
+  ],
+  "multi": false,
+  "choice": [
+   "C"
+  ],
+  "recommended": "C"
+ },
+ {
+  "n": 136,
+  "qid": "ME2",
+  "section": "ME",
+  "id": "R70-136-NEW_CHECKS_VERIFY_SCENE",
+  "title": "New checks in verify_scene",
+  "verbatim": "Yes to: Combat words by school (verify --combat takes a school (blade, japanese, chinese, korean, percussion) or reads the culture tag, and warns only when a fight carries none of that school's terms); A verse marker (A marked verse block (a poem, a lament, a declaration in lines) is left out of the rhythm statistics and word count; the dash and hard-ban checks still read it); Stock-formula watch (A WARN on translated web-novel formulas (you court death, this junior, this old man, lose face) in narration, and an info line in speech, so the flavour stays where DL2 puts it). Not taken: Address check.",
+  "question": "Which new verify_scene checks should come with the law?",
+  "rules_touched": [
+   "R48-45-CHECKS",
+   "R13-6-HEMA_VOCAB"
+  ],
+  "multi": true,
+  "choice": [
+   "A",
+   "B",
+   "D"
+  ],
+  "recommended": "A,B,D"
+ },
+ {
+  "n": 137,
+  "qid": "ME3",
+  "section": "ME",
+  "id": "R70-137-ARCHIVED_SCENES",
+  "title": "The archived scenes",
+  "verbatim": "Leave them, tag the edition. The archive stays untouched, and scenes/MANIFEST.md gains a law-edition column so the drafting tools and scene_recall stop treating old style as precedent.",
+  "question": "What happens to the scenes archived under the old law?",
+  "rules_touched": [],
+  "multi": false,
+  "choice": [
+   "B"
+  ],
+  "recommended": "B"
+ },
+ {
+  "n": 138,
+  "qid": "ME4",
+  "section": "ME",
+  "id": "R70-138-PROOF_ORDER_WORK",
+  "title": "Proof and the order of work",
+  "verbatim": "Law, test scene, then bank. The law is logged live; one test scene in a live thread follows; anything that reads wrong becomes a dated amendment; then a sample bank for Kharven, Moto, Accord, the Mahuo and the lineage halls.",
+  "question": "In what order does the work run, and is the law proved on a test scene before it binds?",
+  "rules_touched": [],
+  "multi": false,
+  "choice": [
+   "A"
+  ],
+  "recommended": "A"
+ }
+]

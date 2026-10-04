@@ -1,0 +1,682 @@
+{
+ "K1": {
+  "choice": "C",
+  "note": ""
+ },
+ "K2": {
+  "choice": "D",
+  "note": ""
+ },
+ "K3": {
+  "choice": "B",
+  "note": ""
+ },
+ "K7": {
+  "choice": "B",
+  "note": ""
+ },
+ "K4": {
+  "choice": [
+   "B",
+   "C",
+   "D"
+  ],
+  "note": "Dickens/Victorians, Guy Gavriel Kay, Tolkien kept; Martin and Abercrombie unticked (dropped as named models). Added in his words: 'Other Eastern Writers like Creator of Naruto and Bleach and other animes litRPG light novel etc like unbound and beginning after the end'."
+ },
+ "K5": {
+  "choice": [
+   "A",
+   "B",
+   "C",
+   "D"
+  ],
+  "note": ""
+ },
+ "K6": {
+  "choice": [
+   "A",
+   "B",
+   "C",
+   "D"
+  ],
+  "note": "Solo Leveling ticked against the recommendation."
+ },
+ "K8": {
+  "choice": "A",
+  "note": ""
+ },
+ "K9": {
+  "choice": "B",
+  "note": ""
+ },
+ "VO1": {
+  "choice": "B",
+  "note": ""
+ },
+ "VO2": {
+  "choice": "C",
+  "note": ""
+ },
+ "VO3": {
+  "choice": "A",
+  "note": "Third person only, against the recommendation."
+ },
+ "VO4": {
+  "choice": "D",
+  "note": ""
+ },
+ "SP1": {
+  "choice": "B",
+  "note": ""
+ },
+ "SP2": {
+  "choice": "B",
+  "note": ""
+ },
+ "SP3": {
+  "choice": [
+   "A",
+   "B",
+   "D"
+  ],
+  "note": ""
+ },
+ "SP4": {
+  "choice": [
+   "A",
+   "B",
+   "C"
+  ],
+  "note": ""
+ },
+ "SP5": {
+  "choice": [
+   "A",
+   "B",
+   "C",
+   "D"
+  ],
+  "note": "Tournament ticked as well."
+ },
+ "RH1": {
+  "choice": "D",
+  "note": ""
+ },
+ "RH2": {
+  "choice": "B",
+  "note": ""
+ },
+ "RH3": {
+  "choice": "C",
+  "note": ""
+ },
+ "RH4": {
+  "choice": "C",
+  "note": ""
+ },
+ "RH5": {
+  "choice": [
+   "A",
+   "B",
+   "C"
+  ],
+  "note": "Verse header ticked as well."
+ },
+ "IN1": {
+  "choice": "B",
+  "note": ""
+ },
+ "IN2": {
+  "choice": [
+   "A",
+   "B",
+   "C"
+  ],
+  "note": ""
+ },
+ "IN3": {
+  "choice": "B",
+  "note": ""
+ },
+ "VB1": {
+  "choice": "D",
+  "note": ""
+ },
+ "VB2": {
+  "choice": "D",
+  "note": ""
+ },
+ "VB3": {
+  "choice": "B",
+  "note": ""
+ },
+ "VB4": {
+  "choice": "C",
+  "note": ""
+ },
+ "VB5": {
+  "choice": "A",
+  "note": ""
+ },
+ "VB6": {
+  "choice": "A",
+  "note": ""
+ },
+ "VB7": {
+  "choice": "B",
+  "note": ""
+ },
+ "VB8": {
+  "choice": "A",
+  "note": ""
+ },
+ "VB9": {
+  "choice": "A",
+  "note": ""
+ },
+ "VB10": {
+  "choice": "A",
+  "note": ""
+ },
+ "VB11": {
+  "choice": "B",
+  "note": ""
+ },
+ "VB12": {
+  "choice": [
+   "A",
+   "B",
+   "C",
+   "D"
+  ],
+  "note": ""
+ },
+ "VB13": {
+  "choice": [
+   "A",
+   "B",
+   "C",
+   "D"
+  ],
+  "note": ""
+ },
+ "DS1": {
+  "choice": "B",
+  "note": ""
+ },
+ "DS2": {
+  "choice": [
+   "A",
+   "B",
+   "C"
+  ],
+  "note": ""
+ },
+ "DS3": {
+  "choice": [
+   "A",
+   "B",
+   "C",
+   "D"
+  ],
+  "note": ""
+ },
+ "_pace": {
+  "choice": "picker for prose questions with samples; digests for housekeeping",
+  "note": "Isaac's pick at question 40"
+ },
+ "DS5": {
+  "choice": "D",
+  "note": ""
+ },
+ "DD1": {
+  "choice": "A",
+  "note": ""
+ },
+ "DD3": {
+  "choice": "D",
+  "note": ""
+ },
+ "DS4": {
+  "choice": [
+   "A",
+   "B",
+   "C",
+   "D"
+  ],
+  "note": "took the recommendation (digest)"
+ },
+ "DS6": {
+  "choice": [
+   "A",
+   "B",
+   "C",
+   "D"
+  ],
+  "note": "took the recommendation (digest)"
+ },
+ "DS7": {
+  "choice": "C",
+  "note": "took the recommendation (digest)"
+ },
+ "DS8": {
+  "choice": "D",
+  "note": "took the recommendation (digest)"
+ },
+ "DS12": {
+  "choice": [
+   "A",
+   "C"
+  ],
+  "note": "took the recommendation (digest)"
+ },
+ "DS9": {
+  "choice": "B",
+  "note": "took the recommendation (digest)"
+ },
+ "DS10": {
+  "choice": "B",
+  "note": "took the recommendation (digest)"
+ },
+ "DS11": {
+  "choice": "B",
+  "note": "took the recommendation (digest)"
+ },
+ "DD2": {
+  "choice": "C",
+  "note": "took the recommendation (digest)"
+ },
+ "DD4": {
+  "choice": "B",
+  "note": "took the recommendation (digest)"
+ },
+ "DD5": {
+  "choice": "B",
+  "note": "took the recommendation (digest)"
+ },
+ "DD6": {
+  "choice": "C",
+  "note": "took the recommendation (digest)"
+ },
+ "DD7": {
+  "choice": "C",
+  "note": "took the recommendation (digest)"
+ },
+ "DT1": {
+  "choice": "B",
+  "note": ""
+ },
+ "DT3": {
+  "choice": "C",
+  "note": ""
+ },
+ "DT6": {
+  "choice": "C",
+  "note": ""
+ },
+ "DT2": {
+  "choice": "B",
+  "note": "took the recommendation (digest)"
+ },
+ "DT4": {
+  "choice": "B",
+  "note": "took the recommendation (digest)"
+ },
+ "DT5": {
+  "choice": "B",
+  "note": "took the recommendation (digest)"
+ },
+ "DT7": {
+  "choice": "C",
+  "note": "took the recommendation (digest)"
+ },
+ "DT8": {
+  "choice": [
+   "A",
+   "B",
+   "C"
+  ],
+  "note": "took the recommendation (digest)"
+ },
+ "DT9": {
+  "choice": [
+   "A",
+   "B",
+   "C",
+   "D"
+  ],
+  "note": "took the recommendation (digest)"
+ },
+ "MY2": {
+  "choice": "D",
+  "note": ""
+ },
+ "MY4": {
+  "choice": "D",
+  "note": ""
+ },
+ "MY5": {
+  "choice": "B",
+  "note": ""
+ },
+ "MY1": {
+  "choice": "B",
+  "note": "took the recommendation (digest)"
+ },
+ "MY3": {
+  "choice": "B",
+  "note": "took the recommendation (digest)"
+ },
+ "MY6": {
+  "choice": "B",
+  "note": "took the recommendation (digest)"
+ },
+ "MY9": {
+  "choice": [
+   "A",
+   "B"
+  ],
+  "note": "took the recommendation (digest)"
+ },
+ "MY7": {
+  "choice": "B",
+  "note": "took the recommendation (digest)"
+ },
+ "MY8": {
+  "choice": "B",
+  "note": "took the recommendation (digest)"
+ },
+ "LR22": {
+  "choice": "A",
+  "note": ""
+ },
+ "LR3": {
+  "choice": "D",
+  "note": ""
+ },
+ "LR4": {
+  "choice": "C",
+  "note": ""
+ },
+ "LR1": {
+  "choice": "B",
+  "note": "took the recommendation (digest)"
+ },
+ "LR2": {
+  "choice": "B",
+  "note": "took the recommendation (digest)"
+ },
+ "LR5": {
+  "choice": "B",
+  "note": "took the recommendation (digest)"
+ },
+ "LR6": {
+  "choice": "B",
+  "note": "took the recommendation (digest)"
+ },
+ "LR7": {
+  "choice": [
+   "A",
+   "B",
+   "C",
+   "D"
+  ],
+  "note": "took the recommendation (digest)"
+ },
+ "LR8": {
+  "choice": [
+   "A",
+   "B",
+   "D"
+  ],
+  "note": "took the recommendation (digest)"
+ },
+ "LR9": {
+  "choice": "B",
+  "note": "took the recommendation (digest)"
+ },
+ "LR10": {
+  "choice": "B",
+  "note": "took the recommendation (digest)"
+ },
+ "LR11": {
+  "choice": "B",
+  "note": ""
+ },
+ "LR12": {
+  "choice": "B",
+  "note": ""
+ },
+ "LR23": {
+  "choice": "C",
+  "note": ""
+ },
+ "LR13": {
+  "choice": "C",
+  "note": "took the recommendation (digest)"
+ },
+ "LR14": {
+  "choice": "C",
+  "note": "took the recommendation (digest)"
+ },
+ "LR15": {
+  "choice": "B",
+  "note": "took the recommendation (digest)"
+ },
+ "LR16": {
+  "choice": "A",
+  "note": "took the recommendation (digest)"
+ },
+ "LR17": {
+  "choice": "A",
+  "note": "took the recommendation (digest)"
+ },
+ "LR18": {
+  "choice": "B",
+  "note": "took the recommendation (digest)"
+ },
+ "LR19": {
+  "choice": "A",
+  "note": "took the recommendation (digest)"
+ },
+ "LR20": {
+  "choice": "B",
+  "note": "took the recommendation (digest)"
+ },
+ "LR21": {
+  "choice": "B",
+  "note": "took the recommendation (digest)"
+ },
+ "CB1": {
+  "choice": "C",
+  "note": ""
+ },
+ "CB2": {
+  "choice": "D",
+  "note": ""
+ },
+ "CB3": {
+  "choice": "D",
+  "note": ""
+ },
+ "CB4": {
+  "choice": "C",
+  "note": "took the recommendation (digest)"
+ },
+ "CB5": {
+  "choice": "B",
+  "note": "took the recommendation (digest)"
+ },
+ "CB6": {
+  "choice": "D",
+  "note": "took the recommendation (digest)"
+ },
+ "CB7": {
+  "choice": "C",
+  "note": "took the recommendation (digest)"
+ },
+ "DL2": {
+  "choice": "D",
+  "note": ""
+ },
+ "DL6": {
+  "choice": "D",
+  "note": ""
+ },
+ "HU1": {
+  "choice": "D",
+  "note": ""
+ },
+ "DL1": {
+  "choice": "D",
+  "note": "took the recommendation (digest)"
+ },
+ "DL3": {
+  "choice": "C",
+  "note": "took the recommendation (digest)"
+ },
+ "DL4": {
+  "choice": "C",
+  "note": "took the recommendation (digest)"
+ },
+ "DL5": {
+  "choice": "B",
+  "note": "took the recommendation (digest)"
+ },
+ "HU2": {
+  "choice": "B",
+  "note": "took the recommendation (digest)"
+ },
+ "HU3": {
+  "choice": "B",
+  "note": "took the recommendation (digest)"
+ },
+ "HU4": {
+  "choice": "C",
+  "note": "took the recommendation (digest)"
+ },
+ "NM1": {
+  "choice": "B",
+  "note": ""
+ },
+ "NM5": {
+  "choice": "B",
+  "note": ""
+ },
+ "NM8": {
+  "choice": "B",
+  "note": ""
+ },
+ "NM2": {
+  "choice": [
+   "A",
+   "B",
+   "C"
+  ],
+  "note": "took the recommendation (digest)"
+ },
+ "NM3": {
+  "choice": [
+   "A",
+   "B",
+   "C",
+   "D"
+  ],
+  "note": "took the recommendation (digest)"
+ },
+ "NM4": {
+  "choice": "C",
+  "note": "took the recommendation (digest)"
+ },
+ "NM6": {
+  "choice": [
+   "A",
+   "B",
+   "C",
+   "D"
+  ],
+  "note": "took the recommendation (digest)"
+ },
+ "NM7": {
+  "choice": [
+   "A",
+   "B",
+   "C",
+   "D"
+  ],
+  "note": "took the recommendation (digest)"
+ },
+ "NM9": {
+  "choice": "B",
+  "note": "took the recommendation (digest)"
+ },
+ "NM10": {
+  "choice": [
+   "A",
+   "B",
+   "C",
+   "D"
+  ],
+  "note": "took the recommendation (digest)"
+ },
+ "NM11": {
+  "choice": "B",
+  "note": "took the recommendation (digest)"
+ },
+ "NM12": {
+  "choice": "C",
+  "note": "took the recommendation (digest)"
+ },
+ "NM13": {
+  "choice": [
+   "A",
+   "B"
+  ],
+  "note": "took the recommendation (digest)"
+ },
+ "NM14": {
+  "choice": "C",
+  "note": "took the recommendation (digest)"
+ },
+ "NE1": {
+  "choice": "D",
+  "note": "took the recommendation (digest)"
+ },
+ "NE2": {
+  "choice": "C",
+  "note": "took the recommendation (digest)"
+ },
+ "XS1": {
+  "choice": [
+   "A",
+   "B",
+   "C",
+   "D"
+  ],
+  "note": ""
+ },
+ "ME1": {
+  "choice": "C",
+  "note": ""
+ },
+ "ME4": {
+  "choice": "A",
+  "note": ""
+ },
+ "XS2": {
+  "choice": "C",
+  "note": "took the recommendation (digest)"
+ },
+ "ME2": {
+  "choice": [
+   "A",
+   "B",
+   "D"
+  ],
+  "note": "took the recommendation (digest)"
+ },
+ "ME3": {
+  "choice": "B",
+  "note": "took the recommendation (digest)"
+ }
+}

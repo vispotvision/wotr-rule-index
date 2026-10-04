@@ -108,6 +108,9 @@ rules:
     notes: >-
       This is the stratum Moto now belongs to, per the Moto Reversion
       Ledger (R22).
+      Stands; Japonic retainers and servants take calling-names from real
+      Japanese trait-words and sound puns on real words, glossed once by a
+      character (R70-125-PEOPLES_EASTERN_STRATA, style law 2026-10-03).
 
   - id: R23-2-CHINESE_STRATUM_SUMMARY
     pack: Inner World Naming Amendment
@@ -138,6 +141,11 @@ rules:
       lines: "25"
     notes: >-
       Elaborated in full in Section X (R23-10-* rows).
+      Stands; the lineage halls' comic names are mocked studio names,
+      insulting posthumous names, cheap child-names and spoken homophone puns,
+      nothing that needs a written character (R70-125-PEOPLES_EASTERN_STRATA,
+      style law 2026-10-03); comic sets keep this stratum's sound rules
+      (R70-120-BUILT_COMIC_NAMES).
 
   - id: R23-2-FAR_NORTHERN_STRATUM_SUMMARY
     pack: Inner World Naming Amendment
@@ -196,7 +204,14 @@ rules:
     source:
       file: WOTR_Inner_World_Naming_Amendment.md
       lines: "29"
-    notes: null
+    notes: >-
+      Stands; its byname available to anyone carries comrades' deed and body
+      nicknames (R70-121-GROWN_COMIC_NAMES, style law 2026-10-03), and the
+      Northern commons take talking and phrase surnames, rhyming pet names and
+      soldiers' bynames (R70-124-PEOPLES_WEST_NORTH). Comic names
+      (R70-132-FAR_NAMING_LAW_BENDS): listed in the comic-name bank of the
+      culture's Standing Inventory (R70-131-COMIC_NAMES_GET_MADE), inside its
+      sound rules.
 
   - id: R23-3-STRATUM_FOLLOWS_INSTITUTION
     pack: Inner World Naming Amendment
@@ -338,7 +353,10 @@ rules:
     source:
       file: WOTR_Inner_World_Naming_Amendment.md
       lines: "65"
-    notes: null
+    notes: >-
+      Stands; R70-121-GROWN_COMIC_NAMES (style law 2026-10-03) takes its name
+      given as an insult or a shield as the protective ugly name, comic to
+      outsiders, grim at home.
 
   - id: R23-5-OUTLIER_BUDGET
     pack: Inner World Naming Amendment
@@ -371,6 +389,9 @@ rules:
     notes: >-
       Restated as still open/adjustable in §IX and §XII of this same
       document; the ratio is coined here, not yet ratified.
+      Stays superseded (by R50-18-OUTLIERS); R70-119-MUCH_POOL_COMIC (style
+      law 2026-10-03) sets no ratio either: comic bynames and nicknames are
+      the norm among the commons and thin out above them.
 
   - id: R23-6-UNTOUCHED_REGISTERS
     pack: Inner World Naming Amendment
@@ -626,7 +647,15 @@ rules:
     source:
       file: WOTR_Inner_World_Naming_Amendment.md
       lines: "155"
-    notes: null
+    notes: >-
+      Partly amended by R70-117-SOBRIQUETS_HALL_TITLES (style law 2026-10-03):
+      its sect-title and honorific-stacking bans lift for hall titles, which
+      may stack in formal address, and hold for given names
+      (R70-107-SPEECH_LEVELS_ADDRESS_KOREAN keeps stacked honorifics out of
+      names). Comic names (R70-132-FAR_NAMING_LAW_BENDS): this stratum's comic
+      names (R70-125-PEOPLES_EASTERN_STRATA) are listed in the comic-name bank
+      of its Standing Inventory (R70-131-COMIC_NAMES_GET_MADE) and keep this
+      row's sound rules.
 
   - id: R23-10-CHINESE_CONTACT
     pack: Inner World Naming Amendment
@@ -682,7 +711,11 @@ rules:
     source:
       file: WOTR_Inner_World_Naming_Amendment.md
       lines: "169"
-    notes: null
+    notes: >-
+      Stands. The short id R23-11 in R70-127-COMIC_NAME_GRIM_END (style law
+      2026-10-03) reaches this row with R23-11-NAME_AVOIDANCE_WAITING: when a
+      comic-named Kharven dies badly, the comic name, once said at the death,
+      is held unspoken until it is given on.
 
   - id: R23-11-KIN_TURN
     pack: Inner World Naming Amendment
@@ -741,7 +774,11 @@ rules:
     source:
       file: WOTR_Inner_World_Naming_Amendment.md
       lines: "177"
-    notes: null
+    notes: >-
+      Stands; no joke falls on the name of the recently dead
+      (R70-124-PEOPLES_WEST_NORTH, style law 2026-10-03), and when a
+      comic-named Kharven dies badly the name, once said at the death, goes
+      unspoken until it is given on (R70-127-COMIC_NAME_GRIM_END).
 
   - id: R23-11-ROLL_NAMES_FROM_ACCORD
     pack: Inner World Naming Amendment
@@ -772,7 +809,10 @@ rules:
     source:
       file: WOTR_Inner_World_Naming_Amendment.md
       lines: "183"
-    notes: null
+    notes: >-
+      Stands; roll-names an Accord clerk assigned are one of the Kharven and
+      Far-Northern comic names (R70-124-PEOPLES_WEST_NORTH, style law
+      2026-10-03).
 
   - id: R23-11-PHONOTACTICS
     pack: Inner World Naming Amendment
@@ -800,7 +840,14 @@ rules:
     source:
       file: WOTR_Inner_World_Naming_Amendment.md
       lines: "191"
-    notes: null
+    notes: >-
+      Stands (R70-132-FAR_NAMING_LAW_BENDS, style law 2026-10-03: banks and
+      sound rules stand). Comic names (R70-132): a Far-Northern comic name
+      built in this register (R70-124-PEOPLES_WEST_NORTH lists scarcity-insult
+      bynames and protective cheap names) keeps these sound rules and is
+      listed in the comic-name bank of the culture's Standing Inventory
+      (R70-131-COMIC_NAMES_GET_MADE); roll-names are the Accord's
+      (R23-11-ROLL_NAMES_FROM_ACCORD).
 
   - id: R23-11-CONTACT_RULES
     pack: Inner World Naming Amendment

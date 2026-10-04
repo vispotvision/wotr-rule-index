@@ -242,7 +242,11 @@ rules:
     source:
       file: WOTR_Companion_Guide_Amendments_Pack_Twelve.md
       lines: "22"
-    notes: null
+    notes: >-
+      Noted by R70-69-PRESSURE_AURA and R70-70-INTENT_FELT_BODY (style law
+      2026-10-03): Pressure is rendered through the room first, and killing
+      intent becomes aimed Pressure once ruled; the economy and the
+      felt-before-seen ladder stand.
 
   - id: R12-2-TECHNICAL_REGISTER_DEF
     pack: Pack Twelve
@@ -273,7 +277,21 @@ rules:
     source:
       file: WOTR_Companion_Guide_Amendments_Pack_Twelve.md
       lines: "30"
-    notes: null
+    notes: >-
+      Partly amended by R70-9-TECHNICAL_MYSTIC_REGISTERS (style law
+      2026-10-03): "R12-2 is rewritten" as to the strands the register draws
+      on, now LitRPG and wuxia (numbers, named forms, the read) in place of
+      "It is Naruto". Not superseded whole: the same ruling still leans on
+      R12-2 (R70-76-MUCH_WORLD_MAGIC: "R12-2 governs what the world does" and
+      "People's workings keep full mechanism"), so the register's ground (what
+      a practitioner does on purpose) and its exhaustive, tactical, in-fight
+      explanation stand. Read with R70-3 (Western leads combat and injury).
+      Noted by R70-71-EXPLAINING_WORKING_MID_FIGHT and R70-76-MUCH_WORLD_MAGIC
+      (style law 2026-10-03): a working's rules are planted before the fight,
+      so the explaining this register delivers in-fight is mostly recall,
+      self-derived techniques still read live; people's workings keep full
+      mechanism. Neither names this rule; R70-9-TECHNICAL_MYSTIC_REGISTERS is
+      the R70 row that rewrites R12-2.
 
   - id: R12-2-MYSTIC_REGISTER_DEF
     pack: Pack Twelve
@@ -311,6 +329,19 @@ rules:
       strike is partial (this register survives for documents that want to
       withhold), so no supersedes link is set here; a full supersedes would
       incorrectly kill this still-live definition.
+      Partly amended by R70-9-TECHNICAL_MYSTIC_REGISTERS (style law
+      2026-10-03): "R12-2 is rewritten" as to the strands the register draws
+      on, now Japanese and Chinese literary craft and the gothic (law, the
+      half-seen) in place of "It is Lord of the Mysteries". Not superseded
+      whole: R70-76-MUCH_WORLD_MAGIC says "R12-2 governs what the world does"
+      and restates its law (rules in the imperative, prices as prices, taboos
+      unexplained), so its ground and its statement as law stand. Noted by
+      R70-76-MUCH_WORLD_MAGIC (style law 2026-10-03): 'R12-2 governs what the
+      world does and R48-25 narrows to what people do', so this register's
+      statement as law (rules in the imperative, prices as prices, taboos
+      unexplained) governs what the world does by itself, and R48-25-AWE no
+      longer reaches it. R70-9-TECHNICAL_MYSTIC_REGISTERS rewrites R12-2 (what
+      each register draws on); R70-76 carries this stated-law clause forward.
 
   - id: R12-2-REGISTER_TEST
     pack: Pack Twelve
@@ -334,7 +365,10 @@ rules:
     source:
       file: WOTR_Companion_Guide_Amendments_Pack_Twelve.md
       lines: "34"
-    notes: null
+    notes: >-
+      Stands: R70-9-TECHNICAL_MYSTIC_REGISTERS (style law 2026-10-03) rewrites
+      what each register draws on but keeps two registers, so this test still
+      decides which one a passage is in.
 
   - id: R12-2-NO_MIXING
     pack: Pack Twelve
@@ -512,7 +546,12 @@ rules:
     source:
       file: WOTR_Companion_Guide_Amendments_Pack_Twelve.md
       lines: "56"
-    notes: null
+    notes: >-
+      Kept by R70-71-EXPLAINING_WORKING_MID_FIGHT (style law 2026-10-03):
+      'Self-derived techniques are still read live (R12-3)'. A working's rules
+      are otherwise planted before the fight (training, a document, talk), so
+      a fight's explaining is mostly recall; the live read of a self-derived
+      technique stands under this rule.
 
   - id: R12-4-VOICE_MIXING_RULE
     pack: Pack Twelve
@@ -539,7 +578,12 @@ rules:
     source:
       file: WOTR_Companion_Guide_Amendments_Pack_Twelve.md
       lines: "62"
-    notes: null
+    notes: >-
+      Noted by R70-71-EXPLAINING_WORKING_MID_FIGHT (style law 2026-10-03): a
+      working's rules are planted before the fight, so explaining in it is
+      mostly recall; the two-voice cap per engagement stands. Read with
+      R70-87-READOUTS_TWO_VOICE_CAP (style law 2026-10-03): the two-voice cap
+      stands, and a readout never counts toward it.
 
   - id: R12-4-VOICE_ONE_POV
     pack: Pack Twelve
@@ -622,7 +666,10 @@ rules:
     source:
       file: WOTR_Companion_Guide_Amendments_Pack_Twelve.md
       lines: "68"
-    notes: null
+    notes: >-
+      Stands; read with R70-112-FACE_FACE_SLAP (style law 2026-10-03), which
+      licenses the public reversal of an arrogant man with a bill and keeps
+      the humbled man veteran-clever afterward.
 
   - id: R12-4-VOICE_FOUR_DOCUMENT
     pack: Pack Twelve
@@ -647,7 +694,16 @@ rules:
     source:
       file: WOTR_Companion_Guide_Amendments_Pack_Twelve.md
       lines: "70"
-    notes: null
+    notes: >-
+      Extended by R70-16-OPENING_MODES and R70-23-CHAPTER_HEADS (style law
+      2026-10-03): the threshold document may be a readout, and a chapter may
+      open on an in-world epigraph that the chapter then tests. The Mystic
+      Register it uses now draws on the strands R70-9 names. Noted by
+      R70-75-RITE_PAGE and R70-67-FORMS_WORLD_DOCUMENTS (style law
+      2026-10-03): a rite performed on the page appears as a numbered in-world
+      form set apart, which the scene performs and something departs from, and
+      in-world documents gain four named forms. Neither names this voice,
+      which stands.
 
   - id: R12-4-VOICE_DISCIPLINE
     pack: Pack Twelve
@@ -737,7 +793,21 @@ rules:
     source:
       file: WOTR_Companion_Guide_Amendments_Pack_Twelve.md
       lines: "84"
-    notes: null
+    notes: >-
+      Stands and binds the readouts: R70-2-LITRPG_WOTR_BECOMES and
+      R70-17-CLOSING_MODES (style law 2026-10-03) require every readout figure
+      to trace to the sheet. Stands beside R70-30-NUMBERS_WORDS_DIGITS (style
+      law 2026-10-03), which sets only how a sourced figure is written (digits
+      for every system figure), never where it comes from. Cited by
+      R70-38-REASONING_SHOWS (style law 2026-10-03): a POV reasoning from
+      readings and figures uses only figures that trace to a source. Applied
+      by R70-67-FORMS_WORLD_DOCUMENTS (style law 2026-10-03): figures in Guild
+      reference entries are traced to canon under this rule. Read with
+      R70-78-WHERE_SCREEN_COMES_FROM (style law 2026-10-03): Crystal lines
+      show the bearer's own sheet, so every figure in them is still checked
+      against source. Confirmed by R70-99-NUMBER_NOT_YET_CANON (style law
+      2026-10-03): an uncanonical figure in a readout prints as a hedged
+      estimate and is logged as one.
 
   - id: R12-6-RULES_AS_RULES
     pack: Pack Twelve
@@ -830,7 +900,12 @@ rules:
     source:
       file: WOTR_Companion_Guide_Amendments_Pack_Twelve.md
       lines: "101"
-    notes: null
+    notes: >-
+      Extended by R70-75-RITE_PAGE (style law 2026-10-03): a rite performed in
+      a scene appears as an in-world form in the Guild's house style, numbered
+      and set apart, then the scene performs it and something departs from it.
+      The bill of goods, order of operations and list of errors this rule
+      specifies stand.
 
   - id: R12-A
     pack: Pack Twelve

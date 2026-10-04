@@ -165,8 +165,10 @@ rules:
   source:
     file: ''
     lines: null
-  notes: The same entry's 'the full Design Chain' clause is overtaken by R47-2-FIELD_FORMAT (Design Chain
-    retired as a page format); never-invent-numbers still holds.
+  notes: 'The same entry''s ''the full Design Chain'' clause is overtaken by R47-2-FIELD_FORMAT (Design
+    Chain retired as a page format); never-invent-numbers still holds. Applied by R70-67-FORMS_WORLD_DOCUMENTS
+    (style law 2026-10-03): Guild reference entries (bestiary, registry, item ledger) trace each figure
+    to canon under this rule.'
 - id: R57-08-PHYSICAL_NUMBERS_ONLY_STRUCK
   pack: Rulings Backfill 2026-09-26
   pack_number: null

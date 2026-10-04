@@ -331,7 +331,8 @@ rules:
   source:
     file: ''
     lines: null
-  notes: ''
+  notes: 'Stands: under R70-12-FIRST_PERSON (style law 2026-10-03) every narration register is a third-person
+    register, and under R70-21 each states its culture''s cadence.'
 - id: R54-14-REGISTER_STAYS_WITH_POV
   pack: Queue Questionnaire 2026-09-26
   pack_number: null

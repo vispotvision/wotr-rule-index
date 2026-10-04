@@ -51,7 +51,9 @@ rules:
     file: ''
     lines: null
   notes: 'Question w02: How thick should description run? Example: a tavern gets one sharp detail,
-    or a full paragraph of smell, light and noise.'
+    or a full paragraph of smell, light and noise. Kept by R70-52-OVERALL_DENSITY (style law
+    2026-10-03): R48-02 stands; the blend widens what is described (the R70-40 range rule) and
+    keeps the amount.'
 - id: R48-03-SIMILES
   pack: Writing Law 2026-09-26
   pack_number: null
@@ -99,7 +101,11 @@ rules:
     file: ''
     lines: null
   notes: 'Question w04: Where should narration''s metaphors come from? Example: a Kharven hunter''s
-    POV sees a wound ''opened like a split seal'' versus ''like a torn page''.'
+    POV sees a wound ''opened like a split seal'' versus ''like a torn page''. Partly amended
+    by R70-59-WHERE_COMPARISONS_COME_FROM (style law 2026-10-03): POV-life comparisons stay
+    the default, and each culture''s listed set images may be used whole; R70-66-NAMED_DEVICES_ADD
+    makes the epic simile an exception, and R70-44-CULTURE_KEYED_NOTICING keys what a POV notices
+    to his culture.'
 - id: R48-05-HIGH_STYLE
   pack: Writing Law 2026-09-26
   pack_number: null
@@ -125,7 +131,10 @@ rules:
     lines: null
   notes: 'Question w05: The high, mythic cadence (Tolkien-style invocation) is limited to in-world
     documents and myth; scene narration may only go elegiac. Should narration be allowed that
-    high style at rare peaks?'
+    high style at rare peaks? Stands: R70-4-WESTERN_MODELS (style law 2026-10-03) keeps Tolkien
+    named for elegy and high style, and this row keeps that register legal in narration. Noted
+    by R70-62-WEATHER_LAND_AS_PERSONS (style law 2026-10-03): personified weather and land is
+    allowed at the mythic moments this rule licenses; it stands.'
 - id: R48-06-RHYTHM_LAW
   pack: Writing Law 2026-09-26
   pack_number: null
@@ -150,7 +159,10 @@ rules:
     lines: null
   notes: 'Question w06: The rhythm rules are strict: the emotional hit is the shortest sentence
     and sits last, payoff sentences stay under 10 words, no more than two long sentences in
-    a row. Do they help the music or cramp i'
+    a row. Do they help the music or cramp i Partly amended by R70-19-PAIRED_CUMULATIVE_SENTENCES
+    (style law 2026-10-03): in set pieces only, matched pairs and verse lines are exempt from
+    the run rule and once per scene the climax may be one long cumulative sentence; ordinary
+    turns keep the full rhythm law. R70-15 keeps the hit short and last under jo-ha-kyu tempo.'
 - id: R48-07-WHITE_SPACE
   pack: Writing Law 2026-09-26
   pack_number: null
@@ -173,7 +185,11 @@ rules:
   source:
     file: ''
     lines: null
-  notes: 'Question w07: How should the page breathe?'
+  notes: 'Question w07: How should the page breathe? Partly amended by R70-20-PARAGRAPH_SHAPE
+    (style law 2026-10-03): medium paragraphs stay the norm, but reveals, verdicts, notices
+    and a fight''s last beats may run as one-line paragraphs in a cluster. Read with R70-80-READOUT_SITS_PAGE
+    (style law 2026-10-03): set-off readout blocks are rare milestone events, so white space
+    keeps its meaning.'
 - id: R48-08-NEW_POVS
   pack: Writing Law 2026-09-26
   pack_number: null
@@ -221,7 +237,9 @@ rules:
     file: ''
     lines: null
   notes: 'Question w09: When a working fires, may the narration itself use technical words (pressure
-    differential, the Shell, Harmonics), or only a character, instrument or document?'
+    differential, the Shell, Harmonics), or only a character, instrument or document? Stands,
+    confirmed by R70-28-TRADE_SCIENCE_WORDS (style law 2026-10-03): narration names apparatus
+    and workings exactly, by ear.'
 - id: R48-10-MIXING
   pack: Writing Law 2026-09-26
   pack_number: null
@@ -244,7 +262,10 @@ rules:
     file: ''
     lines: null
   notes: 'Question w10: A passage must be either Technical (a choice someone makes) or Mystic
-    (what the world does); the two never mix. Keep that?'
+    (what the world does); the two never mix. Keep that? Stands, confirmed by R70-9-TECHNICAL_MYSTIC_REGISTERS
+    (style law 2026-10-03): "R48-10''s free mixing stays". Noted by R70-76-MUCH_WORLD_MAGIC
+    (style law 2026-10-03): the world''s magic is stated as law and people''s workings keep
+    full mechanism; free mixing by ear is not touched there and stands.'
 - id: R48-11-HUMOUR
   pack: Writing Law 2026-09-26
   pack_number: null
@@ -268,7 +289,9 @@ rules:
     file: ''
     lines: null
   notes: 'Question w11: Humour belongs to characters, never to a setup-punchline rhythm. How
-    often should a scene have a laugh in it?'
+    often should a scene have a laugh in it? Stands; R70-122-MAY_CARRY_ONE (style law 2026-10-03)
+    lets comic names reach recurring minor NPCs, villains and rivals, while major NPCs keep
+    strict names.'
 - id: R48-12-PROFANITY
   pack: Writing Law 2026-09-26
   pack_number: null
@@ -290,7 +313,8 @@ rules:
     file: ''
     lines: null
   notes: 'Question w12: Your own dialogue is never altered. How much swearing should NPCs and
-    narration carry?'
+    narration carry? Read with R70-34-REAL_LANGUAGE_SWEARS_NARRATION (style law 2026-10-03):
+    close-POV profanity may be in an Eastern-stratum POV''s own language.'
 - id: R48-13-PERIOD_FEEL
   pack: Writing Law 2026-09-26
   pack_number: null
@@ -315,7 +339,14 @@ rules:
     file: ''
     lines: null
   notes: 'Question w13: Modern words and ideas are legal everywhere, narration included (''okay'',
-    ''adrenaline'', ''trauma''), and ''reads modern'' is never flagged. Still right?'
+    ''adrenaline'', ''trauma''), and ''reads modern'' is never flagged. Still right? Unchanged
+    by R70-27-ANTIQUE_NARRATION_RUNS (style law 2026-10-03): the dial sets how antique narration''s
+    words run (plain, period or archaic) and does not touch the modern-word bar. Partly amended
+    by R70-37-MODERN_IDIOM_THOUGHT (style law 2026-10-03): italic thought may also carry the
+    modern words the POV would say aloud; plain narration keeps the timeless register. Confirmed
+    by R70-94-GAMER_SLANG (style law 2026-10-03), "Current law": gamer slang goes in a mouth
+    whose voice would carry it, narration stays timeless, and verify_scene adds the words to
+    its narration watch-list.'
 - id: R48-14-DEPTH
   pack: Writing Law 2026-09-26
   pack_number: null
@@ -386,7 +417,14 @@ rules:
     file: ''
     lines: null
   notes: 'Question w16: Real-world figures (joules, metres per second, degrees) are legal in
-    a diagnostic voice. How often should they show up in a scene?'
+    a diagnostic voice. How often should they show up in a scene? Stands, confirmed by R70-29-UNITS_MEASURE
+    (style law 2026-10-03): the exact figure stays with trained eyes. Read with R70-30-NUMBERS_WORDS_DIGITS
+    (style law 2026-10-03): a stated figure is written in words up to one hundred and for round
+    numbers, in digits for exact large counts and system figures. Read with R70-85-SCENE_MOMENTS_THAT_EARN
+    (style law 2026-10-03): in-scene readouts come at an appraisal, a wound and Essence spent,
+    never at Pressure. Read with R70-86-MANY_READOUTS_SCENE_CARRIES (style law 2026-10-03):
+    readouts are capped at three a scene and two a roleplay turn; the cap names readouts, not
+    figures in a mouth.'
 - id: R48-17-NO_CLOSURE
   pack: Writing Law 2026-09-26
   pack_number: null
@@ -490,7 +528,8 @@ rules:
     file: ''
     lines: null
   notes: 'Question w20: A working''s full account runs through three layers (Aether, Wellspring,
-    Essence). How often should that show in prose?'
+    Essence). How often should that show in prose? Read with R70-86-MANY_READOUTS_SCENE_CARRIES
+    (style law 2026-10-03): readouts ride this row''s display-and-finisher rhythm, plus an aftermath.'
 - id: R48-21-NAMING
   pack: Writing Law 2026-09-26
   pack_number: null
@@ -538,7 +577,10 @@ rules:
     file: ''
     lines: null
   notes: 'Question w22: When a school borrows a real idea (Stoic pneuma, alchemy''s solve et
-    coagula), how does it appear on the page?'
+    coagula), how does it appear on the page? Read with R70-24-EASTERN_CONCEPT_WORDS_NARRATION
+    (style law 2026-10-03): in narration a loanword names what the body feels and the WOTR noun
+    what a gauge or the Guild measures. Noted by R70-68-INSIDE_PRACTICE (style law 2026-10-03):
+    the inner map is drawn in Codex nouns; borrowed idea-names stand where they fit.'
 - id: R48-23-LENS_COUNT
   pack: Writing Law 2026-09-26
   pack_number: null
@@ -609,7 +651,10 @@ rules:
     file: ''
     lines: null
   notes: 'Question w25: Wellsprings, rites, oaths, the Veil: should scenes treat them with awe
-    (rules stated, never explained) or with the same clarity as combat?'
+    (rules stated, never explained) or with the same clarity as combat? Partly amended by R70-76-MUCH_WORLD_MAGIC
+    (style law 2026-10-03): R48-25 narrows to what people do, and what the world does by itself
+    is stated as law under R12-2-MYSTIC_REGISTER_DEF, taboos unexplained. A rite performed on
+    the page follows R70-75-RITE_PAGE.'
 - id: R48-26-INVENTION
   pack: Writing Law 2026-09-26
   pack_number: null
@@ -702,7 +747,9 @@ rules:
   source:
     file: ''
     lines: null
-  notes: 'Question w29: How much time may the partner skip in one turn without asking?'
+  notes: 'Question w29: How much time may the partner skip in one turn without asking? Extended
+    by R70-18-ARC_SHAPES (style law 2026-10-03): weeks of drill may pass in one compressed training-montage
+    passage that ends on a reading of what changed.'
 - id: R48-30-SURPRISES
   pack: Writing Law 2026-09-26
   pack_number: null
@@ -750,7 +797,9 @@ rules:
     file: ''
     lines: null
   notes: 'Question w31: Play is meant to be fair and a real challenge. Can a fight kill your
-    character outright?'
+    character outright? Stands, as R70-104-RIVAL_BOND says (style law 2026-10-03); a rival recurs
+    only by a mercy someone chose and paid for on the Ledger (a debt, a scar, a witness to the
+    mercy).'
 - id: R48-32-NPC_VOICES
   pack: Writing Law 2026-09-26
   pack_number: null
@@ -796,7 +845,12 @@ rules:
   source:
     file: ''
     lines: null
-  notes: 'Question w33: How much blow-by-blow do you want in a duel?'
+  notes: 'Question w33: How much blow-by-blow do you want in a duel? Partly amended by R70-100-MARTIAL_VOCABULARY_NAMES_MOVES
+    (style law 2026-10-03): ''the move by its fencing name'' is the name in the POV''s own school
+    (kesa-giri for a Moto POV, Zornhau for a Greymane POV), and a foreign school''s word arrives
+    only in a mouth; and by R70-102-STILLNESS_TRACED_PASSES_LONG: duel shape follows the combat
+    grammar (Verdict still then one cut, Blade traced passes, Percussion and Expenditure by
+    attrition).'
 - id: R48-34-WOUNDS
   pack: Writing Law 2026-09-26
   pack_number: null
@@ -819,7 +873,9 @@ rules:
   source:
     file: ''
     lines: null
-  notes: 'Question w34: How graphic should wounds be?'
+  notes: 'Question w34: How graphic should wounds be? Stands everywhere, as R70-105-JOINS_WOUND_WHEN_FIGHT
+    says (style law 2026-10-03); that row adds the killing rites for Japonic, Korean and Chinese
+    killers and an elegiac image for a POV whose culture mourns that way.'
 - id: R48-35-USES
   pack: Writing Law 2026-09-26
   pack_number: null
@@ -866,7 +922,9 @@ rules:
   source:
     file: ''
     lines: null
-  notes: 'Question w36: How clever should an NPC be with its own abilities?'
+  notes: 'Question w36: How clever should an NPC be with its own abilities? Relaxed by R70-112-FACE_FACE_SLAP
+    (style law 2026-10-03) for an arrogant scion before a public reversal, who may misjudge
+    badly; the humbled man stays veteran-clever afterward.'
 - id: R48-37-COST_SHOWN
   pack: Writing Law 2026-09-26
   pack_number: null
@@ -889,7 +947,9 @@ rules:
   source:
     file: ''
     lines: null
-  notes: 'Question w37: How should an ability''s cost show in the prose?'
+  notes: 'Question w37: How should an ability''s cost show in the prose? Confirmed by R70-89-BODY_FIRST_NUMBER_FIRST
+    (style law 2026-10-03): the body leads, and a readout may follow a line after in the same
+    beat.'
 - id: R48-38-AFTERMATH
   pack: Writing Law 2026-09-26
   pack_number: null
@@ -913,7 +973,10 @@ rules:
     file: ''
     lines: null
   notes: 'Question w38: Battles must plan the aftermath first. After a duel, how much page goes
-    to the aftermath?'
+    to the aftermath? Extended by R70-105-JOINS_WOUND_WHEN_FIGHT (style law 2026-10-03): when
+    someone dies by the blade, a Japonic, Korean or Chinese killer carries the killing rites,
+    and a POV whose culture mourns that way adds an elegiac image; the clinical floor holds
+    everywhere.'
 - id: R48-39-INTERIORITY
   pack: Writing Law 2026-09-26
   pack_number: null
@@ -939,7 +1002,10 @@ rules:
   source:
     file: ''
     lines: null
-  notes: 'Question w39: How much of your POV character''s inner thought do you want on the page?'
+  notes: 'Question w39: How much of your POV character''s inner thought do you want on the page?
+    Partly amended by R70-38-REASONING_SHOWS (style law 2026-10-03): deep running interiority
+    becomes one mode of two, chosen per register, beside the unsaid; stepwise lists and reasoning
+    from figures join it.'
 - id: R48-40-NPC_THOUGHTS
   pack: Writing Law 2026-09-26
   pack_number: null
@@ -963,7 +1029,12 @@ rules:
     file: ''
     lines: null
   notes: 'Question w40: The table rules give each NPC one italic private thought per scene,
-    while a later rule bars NPC thoughts inside a locked-POV scene. Which should hold?'
+    while a later rule bars NPC thoughts inside a locked-POV scene. Which should hold? Partly
+    amended by R70-11-WIDE_VIEW (style law 2026-10-03): battles and crowds may run a marked
+    roll call, one line inside each of several heads, before the lock resumes; outside a roll
+    call a locked written scene still carries no NPC thoughts. Stands, as R70-103-MEMORY_INSIDE_FIGHT
+    confirms (style law 2026-10-03): no flashback runs inside an opponent; his past reaches
+    the page only through what the POV knows.'
 - id: R48-41-MAGIC_TALK
   pack: Writing Law 2026-09-26
   pack_number: null
@@ -1031,7 +1102,11 @@ rules:
     file: ''
     lines: null
   notes: 'Question w43: Invented dialogue must stumble (false starts, self-repair) and never
-    sound polished under stress. Keep, or allow set speeches?'
+    sound polished under stress. Keep, or allow set speeches? Partly amended by R70-111-LONG_FORMAL_SPEECH_CLIPPED
+    (style law 2026-10-03): court cultures (the Moto court, the Accord chancery, the Mahuo houses,
+    the lineage halls) argue in long formal speeches at court as their normal register, and
+    this cap holds outside court. Under R70-101-DECLARING_NAME_LINE_BEFORE a full pre-duel declaration
+    counts as the scene''s crafted speech.'
 - id: R48-44-NAME_USE
   pack: Writing Law 2026-09-26
   pack_number: null
@@ -1055,7 +1130,11 @@ rules:
     file: ''
     lines: null
   notes: 'Question w44: How often should narration use a character''s name versus ''he''/''she''
-    or an epithet (''the Dawi'', ''the old man'')?'
+    or an epithet (''the Dawi'', ''the old man'')? Extended by R70-13-EPITHETS_NARRATION (style
+    law 2026-10-03): a POV epithet may be a rank or trade tag whenever the POV can read rank.
+    Extended by R70-118-HONORIFICS_NARRATION (style law 2026-10-03): a close POV from a culture
+    with honorifics carries them into narration (Kaname-sama, Seo-nim), never italic; a Western
+    POV in the same room narrates plain names.'
 - id: R48-45-CHECKS
   pack: Writing Law 2026-09-26
   pack_number: null
@@ -1078,7 +1157,13 @@ rules:
   source:
     file: ''
     lines: null
-  notes: 'Question w45: The checker runs on every piece. How strict for roleplay turns?'
+  notes: 'Question w45: The checker runs on every piece. How strict for roleplay turns? Read
+    with R70-36-CHECKER_ENFORCES (style law 2026-10-03): the full checker gains word-bank spelling,
+    the canonical term list, the new ban families and the style-sheet warnings. Noted by R70-58-CHECKING_RANGE
+    (style law 2026-10-03): the description census runs as a WARN, not a FAIL; the full check
+    on every turn stands. Stands; R70-136-NEW_CHECKS_VERIFY_SCENE (style law 2026-10-03) adds
+    combat words by school, a verse marker that keeps marked verse out of the rhythm statistics
+    and word count, and a WARN on translated web-novel formulas in narration.'
 - id: R48-46-WORD_FLOOR
   pack: Writing Law 2026-09-26
   pack_number: null

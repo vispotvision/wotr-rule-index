@@ -1,0 +1,1130 @@
+{
+  "sections": [
+    {
+      "key": "CB",
+      "title": "Combat on the page",
+      "intro": "How a fight reads, blow by blow, and what surrounds it. Damage numbers and stat readouts inside a fight belong to the LitRPG section; these settle the choreography, the ceremony and what a fight leaves behind.",
+      "questions": [
+        {
+          "id": "CB1",
+          "title": "Which martial vocabulary names the moves",
+          "question": "Which martial vocabulary traces a duel on the page?",
+          "context": "This reopens R48-33, ruled 2026-09-26: 'the move by its fencing name', with HEMA (Historical European Martial Arts, the Liechtenauer and Fiore longsword manuals) as the skeleton (R13-6); verify warns on zero HEMA terms. Japanese swordsmanship has its own words (kamae, a guard; ma-ai, fighting distance; kiri-otoshi, cutting down through the enemy's cut), as do Chinese boxing forms.",
+          "options": [
+            {
+              "key": "A",
+              "label": "HEMA for everyone",
+              "consequence": "R48-33 and R13-6 stand: German and English fencing names trace every duel, a Shirogane or lineage-hall fighter's included. verify keeps its HEMA word list.",
+              "sample": "The Greymane rider opened from Vom Tag and threw a Zornhau at the crown, heavy in the shoulder from years of cutting down off a saddle. The Shirogane duellist went up into the same guard and cut Indes on the rider's own line. The blades met in the bind. His rode over and kept going, and opened the left forearm to the bone a hand above the wrist. The rider's grip failed. From the gallery the armsmaster had counted the measure at two paces, and the Shirogane man had stolen half of it before the Zornhau left the shoulder."
+            },
+            {
+              "key": "B",
+              "label": "By the fighter's culture",
+              "consequence": "Each fighter's moves carry his own tradition's names whoever is watching: Japanese for the Shirogane, HEMA for Greymane, hall forms for the lineage halls. verify --combat takes a word list per culture.",
+              "sample": "The Greymane rider opened from Vom Tag and threw a Zornhau at the crown, heavy in the shoulder from years of cutting down off a saddle. The Shirogane duellist rose into jōdan and gave him kiri-otoshi on his own line, sen no sen, as the cut committed. The blades met. His rode over and kept going, and opened the left forearm to the bone a hand above the wrist. The rider's grip failed. From the gallery the armsmaster had counted the ma-ai at two paces, and the Shirogane man had stolen half of it before the Zornhau left the shoulder."
+            },
+            {
+              "key": "C",
+              "label": "By the POV's own school",
+              "consequence": "Narration names every move in the POV's training (a Moto POV in Japanese terms, a Greymane POV in HEMA), and a foreign school's word arrives in a mouth. verify takes a word list per school.",
+              "sample": "The Greymane rider came up into a horseman's jōdan, elbows wide, and threw kesa-giri at the neck, heavy in the shoulder from years of cutting down off a saddle. The Shirogane duellist rose into the same kamae and gave him kiri-otoshi on his own line. The blades met. His rode over and opened the left forearm to the bone a hand above the wrist, and the rider's grip failed. On the rail the Greymane men were still roaring Zornhau at a cut that had already lost. The armsmaster had counted the ma-ai at two paces. The Shirogane man had stolen half of it."
+            },
+            {
+              "key": "D",
+              "label": "Plain English mechanics",
+              "consequence": "School names leave the page; moves are traced in plain words for height, line, distance and timing. R48-33's 'fencing name' clause is struck and the HEMA warning retired.",
+              "sample": "The Greymane rider lifted his sword high and threw a cut at the crown, heavy in the shoulder from years of cutting down off a saddle. The Shirogane duellist lifted his own and cut straight down onto the rider's line as it came. The blades met. His rode over and kept going, and opened the left forearm to the bone a hand above the wrist. The rider's grip failed. From the gallery the armsmaster had judged the distance at two paces, and the Shirogane man had stolen half of it before the rider's cut left the shoulder."
+            }
+          ],
+          "recommended": "C",
+          "rec_reason": "It puts Japanese, Chinese and Korean fencing words on the page whenever an Eastern-trained POV is fighting or watching, and keeps WOTR's POV discipline: nobody's narration knows a school it never trained in.",
+          "multi": false,
+          "depends_on": [
+            "K1"
+          ],
+          "rules_touched": [
+            "R48-33-CHOREOGRAPHY",
+            "R13-6-HEMA_VOCAB",
+            "R13-4-COMBAT_FLOOR",
+            "R1-1-BLADE_GRAMMAR"
+          ]
+        },
+        {
+          "id": "CB2",
+          "title": "Declaring name and line before a duel",
+          "question": "Do fighters declare their name and lineage before a duel, and how much of it reaches the page?",
+          "context": "Nanori is the Japanese war-tale custom of calling out your name, father, grandfather, province and deeds before single combat; Korean and Chinese martial fiction, and Homer's heroes, do the same. No rule covers it. R48-43 allows 'one crafted, eloquent speech at a big moment', and R60-01 says most fights end 'in the first seconds'.",
+          "options": [
+            {
+              "key": "A",
+              "label": "No declaration",
+              "consequence": "No rule changes. Fights open cold; a fighter's line comes out later, in talk or in a document.",
+              "sample": "The Greymane rider walked his horse into the ford until the water came to its knees, and stopped there, and drew. Across the water the Shirogane duellist stepped off the bank onto the ice shelf with his sandals in his hand and set them down behind him in a neat pair. Neither man spoke. The horse blew; its breath stood white between them and thinned. The Shirogane man came forward through it at a walk, and the rider put his heels in."
+            },
+            {
+              "key": "B",
+              "label": "Name and house, one line",
+              "consequence": "A new rule allows a one-sentence declaration (name, house, at most one deed) before a duel in any culture. Longer recitals are cut.",
+              "sample": "The Greymane rider walked his horse into the ford until the water came to its knees. \"Aldric Greymane, of the west ridge,\" he called, and drew. Across the water the Shirogane duellist stepped off the bank onto the ice shelf and set his sandals down behind him in a neat pair. \"Shirogane,\" he said. He gave the house and kept the rest. The horse blew; its breath stood white between them and thinned. The Shirogane man came forward through it at a walk, and the rider put his heels in."
+            },
+            {
+              "key": "C",
+              "label": "Full declaration, free",
+              "consequence": "Full declarations become legal wherever the culture keeps the custom (Japonic, Korean, Chinese, Norse), outside R48-43's one-speech allowance. A refusal to answer, or a nameless opponent, is written as a beat.",
+              "sample": "The Greymane rider walked his horse into the ford until the water came to its knees. \"I am Aldric, son of Osgar, son of Wulfstan, who rode under the grey banner before the Banner Houses broke. I took the Hallenfeld road at nineteen and I have held it since. Send me a man worth the cold.\" Across the water the Shirogane duellist set his sandals down on the ice shelf in a neat pair. \"Shirogane Kaname, second son of Hideaki, third of our line to stand at the Seat. I have cut better riders on worse ice. Get off the horse.\""
+            },
+            {
+              "key": "D",
+              "label": "Full declaration, with a price",
+              "consequence": "Full declarations are legal but count as the scene's one crafted speech under R48-43, and the world does not wait: an opponent may close measure, or shoot, while the recital runs.",
+              "sample": "The Greymane rider walked his horse into the ford until the water came to its knees. \"I am Aldric, son of Osgar, son of Wulfstan, who rode under the grey banner before the Banner Houses broke. I took the Hallenfeld road at nineteen...\" The Shirogane duellist had left his sandals on the bank while the rider was still on his grandfather. By the Hallenfeld road he was on the ice shelf, and before the rider could ask for anyone worth the cold he was inside the horse's reach. \"Your line is long,\" Kaname said. \"Mine is shorter.\""
+            }
+          ],
+          "recommended": "D",
+          "rec_reason": "It gives the war-tale and saga ceremony its full voice and keeps R60-01's lethality: the recital costs time, and an enemy who spends that time well is the grimdark answer to it.",
+          "multi": false,
+          "depends_on": [],
+          "rules_touched": [
+            "R48-43-SPEECHES"
+          ]
+        },
+        {
+          "id": "CB3",
+          "title": "Stillness, traced passes, or the long fight",
+          "question": "What shape does a duel take on the page: stillness and one decisive cut, several traced passes, or a long escalating fight?",
+          "context": "This reopens R48-33, ruled 2026-09-26 ('every exchange traced'). R60-01 ends most fights 'in the first seconds', and Verdict Grammar (R1-1) already makes the beat before the strike longer than the strike. Japanese sword films (chanbara) hold stillness, then one draw; shōnen manga (action comics for boys) escalate one fight for chapters, which R5-B lists as a tell.",
+          "options": [
+            {
+              "key": "A",
+              "label": "Traced passes, as now",
+              "consequence": "R48-33 and R13-4 stand: every duel runs traced passes, each meaningful exchange carrying the floor. Length follows the density budget, and nothing escalates for its own sake.",
+              "sample": "Aldric opened from the high guard with a cut to the head, and Kaname took it near his own hilt, bound, and wound his point in toward the throat. Aldric stepped off the line; the point went past his ear. Second pass. Aldric feinted low, came over the top, and caught the Shirogane man's left shoulder through the quilted coat, a shallow cut that bled into the cloth. Kaname changed his grip. On the third pass Aldric was a hair late, and the cut opened the inside of his thigh high, over the femoral, and the blood came out of him in pulses onto the snow."
+            },
+            {
+              "key": "B",
+              "label": "Stillness, then one cut",
+              "consequence": "Duels between trained fighters default to a long read and one sentence of strike; R13-4's floor is packed into the read before and the aftermath after. Multi-pass fights become the exception.",
+              "sample": "They stood in the yard for as long as a broth takes to go cold. Snow settled on Aldric's shoulders and stayed. Kaname held his sword low and to the right, and his weight sat in neither foot that anyone in the gallery could find. Aldric's breath went out white, came back, went out. On the fourth breath his front heel lifted to take the step. Kaname was already through. The cut opened the inside of Aldric's thigh high, over the femoral, and the blood reached the snow before Aldric knew to look down."
+            },
+            {
+              "key": "C",
+              "label": "Long escalating duels",
+              "consequence": "Practitioners may duel at length, trading named forms and deeper reveals across a scene or a chapter. R5-B's escalation tell is struck for duels, and R60-03's reserve clock is what ends them.",
+              "sample": "By the twentieth pass both men were steaming in the cold. Aldric had a cut across the scalp that ran blood into his left eye, and Kaname had stopped using his left hand. Twice the Shirogane man had shown a form of his house and twice Aldric had answered it, and the betting in the gallery had stopped. Then Kaname showed the third. His blade went low and came up inside the bind. Aldric's reserve was near the bottom now; the Pressure off him had thinned to a draught. He had one answer left, and he spent it."
+            },
+            {
+              "key": "D",
+              "label": "Shape follows the grammar",
+              "consequence": "A rule ties duel shape to the four grammars: Verdict still then one cut, Blade traced passes, Percussion and Expenditure by attrition, practitioners escalating while reserve lasts. R60-01 holds for the unranked.",
+              "sample": "Aldric fenced. He opened from the high guard, bound, wound, came round again, and each pass cost him breath in the cold. Kaname answered none of it with a pass of his own. He gave ground, took a shallow cut across the shoulder through the quilting, and kept his attention on Aldric's front heel. On the fifth pass the heel lifted early. Kaname went through on that beat, once, and the cut opened the inside of the thigh over the femoral. Aldric sat down in the snow with both hands on the wound."
+            }
+          ],
+          "recommended": "D",
+          "rec_reason": "WOTR already has four combat grammars; letting the shape follow them gives chanbara stillness to Verdict fighters, HEMA passes to Blade fighters and the long shōnen fight to practitioners whose reserve can pay for it, while ordinary men still die fast.",
+          "multi": false,
+          "depends_on": [],
+          "rules_touched": [
+            "R48-33-CHOREOGRAPHY",
+            "R13-4-DENSITY_BUDGET",
+            "R5-B-MANHWA_DIRECTIVE_REPEALED",
+            "R60-01-BRUTAL_LETHALITY"
+          ]
+        },
+        {
+          "id": "CB4",
+          "title": "Memory inside a fight",
+          "question": "May a fight stop for a memory, and whose?",
+          "context": "R49-06 lets memories run 'a page or more when they matter', but a combat turn is six seconds (R47-11) and written scenes keep the POV lock (R48-40). Shōnen manga freeze a fight for a page of the fighter's past, or the dying opponent's, to reframe the clash; Western grimdark stays in the present and lets the past arrive in the aftermath.",
+          "options": [
+            {
+              "key": "A",
+              "label": "Memory after, never during",
+              "consequence": "Inside a fight, memory is held to a clause; flashbacks sit before or after it. R49-06 stands but does not reach mid-exchange.",
+              "sample": "The blade went low and came up inside the bind, and Aldric knew the form before it finished. He turned his hips and took it across the ribs instead of the belly. The cut grated on bone. He gave a pace, and another, and kept his point on the Shirogane man's eyes while the blood ran warm into his belt. Whoever had taught him that turn could wait for the cot and the lamp. Here there was the snow, the measure, and the next pass."
+            },
+            {
+              "key": "B",
+              "label": "A few lines of memory",
+              "consequence": "A memory of a few lines may open inside a held instant, tied to the move on the page (where it was learned, who taught it); the fight resumes at once.",
+              "sample": "The blade went low and came up inside the bind, and Aldric knew the form before it finished. His uncle Edmund in the long barn at home, a hay-fork for a sword, laughing as the tines came up under the boy's guard for the ninth time: *the low ones always come back up.* He turned his hips and took it across the ribs instead of the belly. The cut grated on bone. He gave a pace and kept his point on the Shirogane man's eyes while the blood ran warm into his belt."
+            },
+            {
+              "key": "C",
+              "label": "Full flashback, POV only",
+              "consequence": "The POV may take a full flashback, a page or more, frozen inside one turning exchange, once per fight. The POV lock holds; the opponent's past reaches the page only through what the POV knows.",
+              "sample": "The blade went low and came up inside the bind. Aldric was ten, in the long barn at home, and the barn smelled of wet hay and of the dog that slept in the oat bin. Uncle Edmund held a hay-fork for a sword. He was laughing. Nine times the tines came up under the boy's guard. Nine times Edmund put him on his back in the chaff, and the ninth time he left him there and said, The low ones always come back up. Then Aldric was in the yard again with the blade already in him, turning his hips too late to save the ribs."
+            },
+            {
+              "key": "D",
+              "label": "The opponent's past too",
+              "consequence": "C, plus the opponent's past as a marked passage inside his head, usually as he strikes or falls. This breaks R48-40's POV lock for that passage only.",
+              "sample": "The cut grated on Aldric's ribs and Kaname drew the blade back to finish it.\n\n*Twenty winters gone, in the Shirogane hall at the Seat, a boy knelt on boards cold enough to take the skin off his knees and held a practice sword over his head until his arms shook, because his father was watching and his elder brother had held it longer. Second son, the house said every morning, with its seating and its rice.*\n\nIn the yard Kaname brought the blade down, and Aldric's met it a finger's width from his collarbone."
+            }
+          ],
+          "recommended": "C",
+          "rec_reason": "It takes the shōnen reframe at full length, which R49-06 already licenses, and keeps the POV lock, so the opponent stays someone the reader has to read from outside.",
+          "multi": false,
+          "depends_on": [],
+          "rules_touched": [
+            "R49-06-MEMORIES",
+            "R48-40-NPC_THOUGHTS"
+          ]
+        },
+        {
+          "id": "CB5",
+          "title": "The rival bond",
+          "question": "Does WOTR run the recurring rival, the opponent who comes back fight after fight with respect on both sides?",
+          "context": "Shōnen manga build a series on the rival who returns; Chinese martial fiction has the honoured enemy and the sworn brother; the Japanese war tales mourn the enemy killed. WOTR's law leans the other way: 'Death can happen, if earned' (R48-31), most fights end in seconds (R60-01), and a battle changes one relationship by a 'single unrepeatable act' (R2-5).",
+          "options": [
+            {
+              "key": "A",
+              "label": "No standing rivals",
+              "consequence": "No rule changes. Enemies who live are rare and unplanned; respect for an opponent shows once, in the aftermath, and death stays on the table every fight."
+            },
+            {
+              "key": "B",
+              "label": "Rivals who chose to spare",
+              "consequence": "A rival may recur, but each survival is a choice someone made and paid for on the Ledger: a debt, a scar, a witness who saw the mercy. R48-31 stands."
+            },
+            {
+              "key": "C",
+              "label": "Rival as a thread's spine",
+              "consequence": "Each POV thread may carry a named rival whose fights run across arcs as a relationship, with rematches planned as Fronts. Death stays possible, though the thread pulls against it."
+            },
+            {
+              "key": "D",
+              "label": "Rival pairs among NPCs",
+              "consequence": "Rival pairs run between NPCs as world texture (two duellists the Seat bets on), never aimed at Isaac's characters unless his play makes one."
+            }
+          ],
+          "recommended": "B",
+          "rec_reason": "It keeps the Eastern rival bond and makes every rematch cost something on the Ledger, which is the grimdark price of the trope.",
+          "multi": false,
+          "depends_on": [],
+          "rules_touched": [
+            "R48-31-STAKES"
+          ]
+        },
+        {
+          "id": "CB6",
+          "title": "What joins the wound when a fight ends",
+          "question": "What joins the clinical wound and the aftermath when someone dies by the blade?",
+          "context": "R48-34's 'full clinical gore' and R48-38's aftermath beat stay in every option. Japanese sword drama adds rites around a kill (chiburi, the flick that throws blood off the blade; resheathing; courtesies owed the dead), and the war tales give the fallen grief and beauty (mono no aware, the sadness of passing things). Grimdark keeps the stink.",
+          "options": [
+            {
+              "key": "A",
+              "label": "Clinical, as now",
+              "consequence": "R48-34 and R48-38 stand alone: wounds by anatomy and blood-loss class, the stink, the dressing. No ceremony or elegiac image is asked for after a kill.",
+              "sample": "Aldric sat down in the snow with both hands clamped on his thigh, and the femoral put blood through his fingers in pulses until the pulses slowed. The third bowl, Brida would have called it, inside a minute. His lips went grey. He tried to say something about his horse and lost the end of it. The yard smelled of hot iron and of his bowels, which had let go. Kaname stood three paces off with his own sleeve red from the shoulder cut, breathing hard, and waited for it to finish."
+            },
+            {
+              "key": "B",
+              "label": "Add the killing rites",
+              "consequence": "A rule adds the rites of the kill where the fighter's culture keeps them (the blood-flick, resheathing, courtesies to the dead, a name asked and kept), on top of the full clinical floor.",
+              "sample": "Aldric sat down in the snow with both hands clamped on his thigh, and the femoral put blood through his fingers in pulses until the pulses slowed. His lips went grey. The yard smelled of hot iron and of his bowels, which had let go. Kaname flicked the blade once, hard, and a line of red dots crossed the snow. He wiped the rest on folded paper, slid the steel home, and knelt at the edge of the blood. \"Your grandfather's name,\" he said. \"Once more. I will carry it.\""
+            },
+            {
+              "key": "C",
+              "label": "Add the elegiac image",
+              "consequence": "A rule adds one elegiac image after a death, tied to a concrete thing (R5-C2), on top of the clinical floor. The rot and the stink stay in.",
+              "sample": "Aldric sat down in the snow with both hands clamped on his thigh, and the femoral put blood through his fingers in pulses until the pulses slowed. He tried to say something about his horse and lost the end of it. The yard smelled of hot iron and of his bowels, which had let go. When it was over the blood lay round him wide and dark at the middle, thinning to pink at its edge. Frost was already standing on his eyelashes. Over the Seat the aurora had come up green, and on the line the grey horse went on blowing at the cold."
+            },
+            {
+              "key": "D",
+              "label": "Rites and image, by culture",
+              "consequence": "Both, keyed to culture: Japonic, Korean and Chinese fighters carry the rites; the elegiac image belongs to any POV whose culture mourns that way. The clinical floor holds everywhere.",
+              "sample": "Aldric sat down in the snow with both hands clamped on his thigh, and the femoral put blood through his fingers until the pulses slowed. He tried to say something about his horse and lost the end of it. The yard smelled of hot iron and of his bowels, which had let go. Kaname flicked the blade once and a line of red dots crossed the snow; he wiped the steel on folded paper, slid it home, and laid the paper on the dead man's chest. Frost was already standing on Aldric's eyelashes. On the line the grey horse went on blowing at the cold."
+            }
+          ],
+          "recommended": "D",
+          "rec_reason": "It adds the two things the Eastern sword tradition does best around a killing, ceremony and grief, without letting either wash the blood off.",
+          "multi": false,
+          "depends_on": [],
+          "rules_touched": [
+            "R48-34-WOUNDS",
+            "R48-38-AFTERMATH",
+            "R5-C2-ELEGY_CONCRETE_THING"
+          ]
+        },
+        {
+          "id": "CB7",
+          "title": "How a battle is told",
+          "question": "How is a battle with formations told: from the ditch, from the map, or both?",
+          "context": "The Mass Combat Craft Guide runs three registers (the Field, a commander's map; the Line, the unit's condition; the Close, one man in the press) and caps interiority at three characters (R1-3). Romance of the Three Kingdoms and the manga Kingdom tell war as catalogue and stratagem: banners, generals, ruses unfolding. Abercrombie and Erikson tell it from the ditch.",
+          "options": [
+            {
+              "key": "A",
+              "label": "Soldier's eye, as now",
+              "consequence": "R1-3 and the Mass Combat Guide stand: battles run in the Close and Line registers, the Field is rationed, three heads at most. A stratagem is felt as confusion.",
+              "sample": "All Genta had of the battle was the back of the man in front of him and a strip of grey sky. The riders hit somewhere off to the left, a noise like a cart going over a bridge, and the whole block shoved sideways and his straw boots slid on the ice. Somebody's pike came down across his helmet. Blood ran into his collar, his own or not. The file-leader was shouting a word he could not hear, then a different word, and the ranks in front came back onto him all at once, and Genta went down under their weight with the ice ringing against his ear."
+            },
+            {
+              "key": "B",
+              "label": "Catalogue and stratagem",
+              "consequence": "Battles open in the Field register as an order of battle (banners, houses, blocks, generals), and the stratagem is told as it unfolds. Roving omniscient narration is legal in battle sections.",
+              "sample": "At the ford the Shirogane foot stood in three blocks under their white banners, pikes upright on the ice like a winter reed-bed; on the west bank Greymane rode in two wings, grey on grey, with the wagons behind them in ox-blood paint. Old Hideaki had sent his left block forward with its colours furled, so the riders would take it for the reserve. They did, and charged. At forty paces the banners opened and the block went to one knee, and the ice it had stood on, sawn through in the night and packed over with snow, gave under the first rank of horses."
+            },
+            {
+              "key": "C",
+              "label": "Map, head and ditch, cut",
+              "consequence": "A battle cuts between three layers (the commander's plan, the field, one man in the press) at marked breaks, each section POV-locked. R1-3's three-head cap counts the layers.",
+              "sample": "On the ridge, with the grey wings shaking out below him, Hideaki said, \"Now the left.\" The left block went forward with its colours furled.\n\nAt the ford all Genta had of the battle was the back of the man in front and a strip of grey sky. The ice under his straw boots had been sawn in the night and packed over with snow, and he stood where he was put and tried to weigh nothing.\n\nThe Greymane riders took the furled block for a reserve and came at it. At forty paces the banners opened. Genta went to one knee with the rest, and the ice went."
+            },
+            {
+              "key": "D",
+              "label": "Council plan, ditch battle",
+              "consequence": "The stratagem is told in full in the council before the battle (the commander's head, the cups on the map); the battle itself stays in the ditch, where the plan meets the ice.",
+              "sample": "In the tent the night before, Hideaki had laid it out with three cups on the map: the left block forward with its colours furled, the ice sawn and packed over, the riders drawn onto it. Every officer there had nodded.\n\nAt the ford all Genta had of the battle was the back of the man in front and a strip of grey sky. Somewhere to the left the horses hit, a sound like a cart going over a bridge. The block shoved sideways. Someone was shouting kneel, kneel, and the ice under Genta's own knees, which nobody had sawn, cracked anyway."
+            }
+          ],
+          "recommended": "C",
+          "rec_reason": "It is the one form that puts the Three Kingdoms map and Abercrombie's ditch in the same chapter, and the marked breaks keep every section's POV clean.",
+          "multi": false,
+          "depends_on": [],
+          "rules_touched": [
+            "R1-3-NAME_THREE_RULE",
+            "R39-7-NO_NPC_THOUGHT_UNDER_POV_LOCK",
+            "R5-E-NARRATION_NEVER_ADJUDICATES"
+          ]
+        }
+      ]
+    },
+    {
+      "key": "DL",
+      "title": "Dialogue and speech",
+      "intro": "How people talk, and how Eastern speech sounds once it is English. The Japonic honorific rule (R51-21) is already law; these settle the rest.",
+      "questions": [
+        {
+          "id": "DL1",
+          "title": "Speech levels and address for the Korean and Chinese strata",
+          "question": "How do Korean and Chinese speakers mark rank and relationship in speech, now that only the Japonic houses have a rule?",
+          "context": "R51-21 gives the Japonic houses 'Japanese honorifics and address forms in speech'; the Korean and Chinese strata have no rule, and R23-10 bans 'honorific stacking' in hall names. Korean marks relationship in every verb ending (speech levels, from formal down to the intimate banmal) and in titles like sunbae (senior); Chinese martial speech uses shifu (master) and shixiong (senior brother).",
+          "options": [
+            {
+              "key": "A",
+              "label": "English titles only",
+              "consequence": "R51-21 stays the only honorific rule. Korean and Chinese characters use English titles (Master, Elder, Teacher); rank shows in who speaks first and who stands.",
+              "sample": "Before the bout Elder Seo had called him \"boy\" twice and his name once, and only to correct his stance. Now she came down off the dais on her stick and stood where his blood was drying on the boards. \"Master Yun,\" she said. Nobody in the hall moved. His second, who had been unwinding the wraps from his hands, stopped unwinding them. The elder studied the cut over his eye and the hand he was holding wrong. \"Master Yun will want that stitched before the swelling sets.\""
+            },
+            {
+              "key": "B",
+              "label": "Native address words",
+              "consequence": "R51-21 extends to the other strata: Korean speakers use their own address words (-ssi, -nim, hyung, sunbae), Chinese speakers theirs (shifu, shixiong, qianbei), romanised and never italic.",
+              "sample": "Before the bout Elder Seo had called him \"ya, Tae-sik-a\" and only to correct his stance. Now she came down off the dais on her stick and stood where his blood was drying on the boards. \"Yun Tae-sik-ssi,\" she said. Nobody in the hall moved. His second, who had been unwinding the wraps from his hands, stopped. Down the bench a sunbae from the old school said it back under his breath, ssi, as if he had dropped something. The elder studied the cut over his eye. \"Have that stitched, Tae-sik-ssi, before the swelling sets.\""
+            },
+            {
+              "key": "C",
+              "label": "Levels carried in English",
+              "consequence": "No foreign address words beyond the Japonic houses; speech levels live in English grammar (bare orders against full courteous forms), and a shift of level is written as an event the room hears.",
+              "sample": "Before the bout Elder Seo had spoken to him in the short bare forms a house keeps for its children, the verbs left off her orders. \"Feet. Wider. Again.\" Now she came down off the dais on her stick and stood where his blood was drying on the boards, and gave him the whole sentence. \"Yun Tae-sik will have this cut stitched before the swelling sets, if it would please him.\" Nobody in the hall moved. His second stopped unwinding the wraps from his hands. The elder had added the ending that asks, and every man on the bench had heard it."
+            },
+            {
+              "key": "D",
+              "label": "Native words and level shifts",
+              "consequence": "Native address words as in B, and level shifts written as events as in C. R23-10's ban on honorific stacking stays for names only.",
+              "sample": "Before the bout Elder Seo had called him \"ya\" and left the verbs off her orders. \"Feet. Wider. Again.\" Now she came down off the dais on her stick and stood where his blood was drying on the boards. \"Yun Tae-sik-ssi,\" she said, and then, in the full form with the ending that asks, \"would you have this cut stitched before the swelling sets?\" Nobody in the hall moved. His second stopped unwinding the wraps from his hands. Down the bench a sunbae from the old school sat with his mouth a little open."
+            }
+          ],
+          "recommended": "D",
+          "rec_reason": "It gives the Korean and Chinese strata what the Moto already have, and makes a change of address a dramatic event, which is the strongest thing these speech systems offer fiction.",
+          "multi": false,
+          "depends_on": [],
+          "rules_touched": [
+            "R51-21-MOTO_WORDS",
+            "R20-5-FORMAL_ADDRESS",
+            "R23-10-CHINESE_PHONOTACTICS"
+          ]
+        },
+        {
+          "id": "DL2",
+          "title": "How Eastern-register speech sounds in English",
+          "question": "Do Chinese and Korean speakers talk in natural English or with the flavour of a literal translation?",
+          "context": "Pack Fifteen repealed register by culture (R15-1); voices differ by mind and sound (R52-02), and Aurelian's dropped copula (R52-20) is the only translated grammar in law. Translated Chinese and Korean web fiction keeps a literal flavour: humble self-reference ('this one', 'this old man'), stock threats ('you court death'), idioms rendered word for word, face named aloud.",
+          "options": [
+            {
+              "key": "A",
+              "label": "Natural English",
+              "consequence": "No change: Eastern-register characters speak natural English, told apart by what they notice, want and refuse (R52-02); no translated self-reference or stock formulas.",
+              "sample": "\"You've had forty years to show anyone that sword,\" the young man said. \"I'm asking for one afternoon.\" Master Lu went on sweeping the step. \"I showed it to a guest once,\" he said. \"Younger than you and better mannered, and he asked the same thing. We buried him behind the salt store.\" He leaned the broom on the gatepost. \"Go home. Tell your hall I'm old and slow, and keep your afternoon.\""
+            },
+            {
+              "key": "B",
+              "label": "Self-reference as a voice slot",
+              "consequence": "Translated self-reference becomes a slot on the voice block ('this one', 'this old man', 'this seat'), chosen per character; the rest of the speech stays natural English.",
+              "sample": "\"This one has walked nine days to ask for one afternoon,\" the young man said. Master Lu went on sweeping the step. \"This old man showed that sword to a guest once,\" he said. \"Younger than you, better mannered, same question. We buried him behind the salt store.\" He leaned the broom on the gatepost. \"Go home. Tell your hall the old man is slow, and keep your afternoon.\""
+            },
+            {
+              "key": "C",
+              "label": "Full translated flavour",
+              "consequence": "Literal-translation flavour becomes the register for Chinese and Korean speakers: humble and arrogant self-reference, stock threats, idioms word for word, face named in speech. R15-1's repeal is reversed for these strata.",
+              "sample": "\"Old thing, you dare hide behind a broom? This junior has walked nine days to court your sword.\" Master Lu went on sweeping the step. \"Little friend, you are courting death,\" he said. \"This old man showed that sword to a guest once. His eyes also sat on top of his head. The grass behind the salt store has grown over him three times.\" He leaned the broom on the gatepost. \"Go home. Your master's face is already lost. Do not throw your own after it.\""
+            },
+            {
+              "key": "D",
+              "label": "Translated forms for ceremony",
+              "consequence": "Natural English in daily talk; the literal translated forms (self-reference, set formulas, idioms word for word) come out in ceremony, challenge, oath, court and insult, where the shift into them is itself a beat.",
+              "sample": "\"You've had forty years to show anyone that sword,\" the young man said. \"I'm asking for one afternoon.\" Master Lu went on sweeping the step. \"Go home,\" he said. \"It's cold and you're young.\" The young man went down on both knees on the frozen step and set his forehead to the stone. \"This junior begs instruction,\" he said, in the old form, the one no hall may refuse at its own gate. Master Lu stopped sweeping. \"Then this old man must give it,\" he said, and leaned the broom on the gatepost."
+            }
+          ],
+          "recommended": "D",
+          "rec_reason": "It keeps everyday talk sharp and natural, which the voice law rests on, and spends the strange formal translated forms where they carry weight: challenge, oath, court and insult.",
+          "multi": false,
+          "depends_on": [
+            "K1"
+          ],
+          "rules_touched": [
+            "R15-1-REGISTER_BY_CULTURE",
+            "R52-02-VOICE_LEVER",
+            "R52-03-VOICE_BLOCK"
+          ]
+        },
+        {
+          "id": "DL3",
+          "title": "Proverbs and set idioms in mouths",
+          "question": "How heavily do sayings and set idioms carry speech?",
+          "context": "R52-30 (ruled 2026-09-26) gives every NPC 'one fixed saying from the Standing Inventory'. Chinese speech chains chengyu (four-character idioms, each a compressed story); Korean and Japanese elders argue in proverbs. The Kharven Inventory already holds compressed insults (empty saddle, cracked bowl, short stack) that work the same way.",
+          "options": [
+            {
+              "key": "A",
+              "label": "One saying each, as now",
+              "consequence": "R52-30 stands: one fixed saying per NPC, from the Inventory, used where it fits.",
+              "sample": "\"He came in the Thin Weeks with nothing on his back,\" the old drover said. \"A man like that eats out of every pot in the camp.\" The widow went on stacking the split rounds, pale ends out. \"The first bowl goes to the one who cannot fill it themselves,\" she said. The drover spat into the snow. He had no answer to that, and she knew it. She set another round on the stack, and after a while he went to fetch the stranger in."
+            },
+            {
+              "key": "B",
+              "label": "Proverb duels",
+              "consequence": "NPCs may carry several fixed sayings and argue in them, a saying answered by a saying; an elder may tell a saying's source story once, after which the short form carries it.",
+              "sample": "\"He came in the Thin Weeks with nothing on his back,\" the old drover said. \"Don't saddle a horse you cannot feed.\" He spat in the snow. The widow kept stacking. She set each round pale end out. \"The first bowl goes to the one who cannot fill it themselves.\" \"Wet wood burns eventually,\" he said. \"A liar never dries.\" \"Then let him dry at my fire, and we'll learn which he is.\" The drover chewed on that. \"The dead can wait,\" he said at last, sour. \"The cold cannot.\" He went to fetch the stranger in."
+            },
+            {
+              "key": "C",
+              "label": "Idioms in every mouth",
+              "consequence": "Each culture gets a bank of short set idioms (the chengyu model: a compressed story in a few fixed words) used freely in ordinary talk; an educated or sharp speaker chains them.",
+              "sample": "\"Empty saddle, full mouth,\" the old drover said of the stranger. \"Cracked bowl, most like.\" The widow went on stacking the split rounds, pale ends out. \"Wet wood,\" she said, \"till it's dried.\" \"Qatuq take him, then.\" \"Qatuq takes the unready. He walked here in the Thin Weeks; that's ready enough.\" She set another round on the stack. \"Short stack, short memory. You ate at my fire the winter your mare went through the ice.\" The drover went to fetch the stranger in."
+            },
+            {
+              "key": "D",
+              "label": "Duels and idiom banks",
+              "consequence": "Both: several sayings per NPC argued as duels, and a per-culture bank of set idioms in common use.",
+              "sample": "\"Empty saddle, full mouth,\" the old drover said of the stranger. \"Don't saddle a horse you cannot feed.\" He spat in the snow. The widow kept stacking. \"The first bowl goes to the one who cannot fill it themselves.\" \"Wet wood burns eventually. A liar never dries.\" \"Then let him dry at my fire. Short stack, short memory, drover: you ate here the winter your mare went through the ice.\" He chewed on that. \"The dead can wait,\" he said at last, sour. \"The cold cannot.\" He went to fetch the stranger in."
+            }
+          ],
+          "recommended": "D",
+          "rec_reason": "The Inventories already hold compressed sayings and insults; letting people argue in them and chain them is the chengyu habit done with WOTR's own words, and it keeps the narrator out of the preaching.",
+          "multi": false,
+          "depends_on": [],
+          "rules_touched": [
+            "R52-30-PROVERBS"
+          ]
+        },
+        {
+          "id": "DL4",
+          "title": "Verse in a mouth",
+          "question": "Do characters speak in verse: poems exchanged, a line capped by a line, a lament sung over the dead?",
+          "context": "No rule covers verse in a mouth: chant law (R51-28) covers workings only, and verify reads a quoted poem as prose, so its lines can trip the rhythm rules (R4-14). In Genji, lovers converse in waka (31-syllable poems); Chinese banquets cap couplets; Korean sijo (three-line verse that turns in its last line) are sung; the sagas give a dying man his stanza.",
+          "options": [
+            {
+              "key": "A",
+              "label": "No verse in speech",
+              "consequence": "A song or lament is named and described, never quoted; chant law stays the only verse on the page.",
+              "sample": "The Shirogane envoy bowed at the edge of the opened ground and said his house grieved with her. The widow kept her face toward the hole. \"Your house was at the ford when he died,\" she said. \"It may grieve from there.\" The envoy straightened slowly. Behind her the reader went on through the winter's dead in the order they had died, and the frozen clods knocked down onto the lid, one after another, while the envoy's servants stood and waited for him in the snow."
+            },
+            {
+              "key": "B",
+              "label": "Verse at rites only",
+              "consequence": "Short verse may be quoted at rites (laments, oaths, death-stanzas, festival songs) in any culture. verify skips lines marked as verse when it measures rhythm.",
+              "sample": "The Shirogane envoy bowed at the edge of the opened ground and said his house grieved with her. The widow kept her face toward the hole. Behind her the reader reached her husband's name and sang his three lines the old way:\n\n*Snow on the bowstring, snow on the sill;\nthe ground opens late this year and takes the winter whole.\nAh, the cold room: his cup still set, still full.*\n\nThe envoy straightened slowly. The frozen clods knocked down onto the lid."
+            },
+            {
+              "key": "C",
+              "label": "Verse as conversation",
+              "consequence": "Courtly cultures (the Moto court, Eresse, the Mahuo houses, the lineage halls) may converse in verse: a poem offered, a line capped, a poor answer costing face. Quoted verse is exempt from the rhythm checks.",
+              "sample": "The Shirogane envoy bowed at the edge of the opened ground and gave his condolence in verse, as his house gives it:\n\n*The far bank lost a pine to the ice.\nThe near bank weeps for its shadow.*\n\nThe widow kept her face toward the hole and answered in the same measure, without a pause:\n\n*The near bank put the ice there.\nLet it keep its tears for the thaw.*\n\nThe envoy straightened slowly. Behind her the frozen clods knocked down onto the lid."
+            },
+            {
+              "key": "D",
+              "label": "Rites and courtly exchange",
+              "consequence": "Both: verse at rites in every culture, verse exchange in the courtly ones, all exempt from the rhythm checks.",
+              "sample": "The Shirogane envoy bowed at the edge of the opened ground and gave his condolence in verse:\n\n*The far bank lost a pine to the ice.\nThe near bank weeps for its shadow.*\n\nThe widow answered in the same measure, without a pause:\n\n*The near bank put the ice there.\nLet it keep its tears for the thaw.*\n\nThe envoy straightened slowly. Behind her the reader reached her husband's name and sang his three lines the old way, *snow on the bowstring, snow on the sill,* and the frozen clods knocked down onto the lid."
+            }
+          ],
+          "recommended": "D",
+          "rec_reason": "Verse in a mouth is the most Eastern thing dialogue can do, and WOTR's courts and funerals are where it already belongs; exempting marked verse keeps the checker from fighting it.",
+          "multi": false,
+          "depends_on": [],
+          "rules_touched": [
+            "R51-28-CHANT_PAGE",
+            "R4-14-RUN_RULE",
+            "R4-14-CHAIN_CEILING"
+          ]
+        },
+        {
+          "id": "DL5",
+          "title": "Long formal speech and the clipped line",
+          "question": "How long may a speaker hold the floor: formal argument at court, short lines in the north, or length wherever the moment carries it?",
+          "context": "This reopens R48-43, ruled 2026-09-26: 'one crafted, eloquent speech at a big moment'. R19-5 also bars balanced clauses under duress, narrowed by R52-06. Chinese court and council scenes run long formal argument in matched clauses, and wuxia villains boast at length; the sagas and the Kharven speak in short declaratives.",
+          "options": [
+            {
+              "key": "A",
+              "label": "One speech per scene",
+              "consequence": "R48-43 stands: dialogue stays realistic and short under pressure, and one trained speaker gets one crafted speech at a big moment.",
+              "sample": "\"The hall has grain and the Seat has the road,\" Envoy Shen said. \"You need the one and we need the other. I don't see much here to argue.\" He waited. Nobody spoke. The clan chief turned his cup on the table a quarter turn and back. Smoke from the blubber lamp hung under the roof-beam, and somewhere outside a man was splitting rounds for the woodpile, steady as a clock. \"You'll take the skin first,\" the chief said, and pushed the sealskin across."
+            },
+            {
+              "key": "B",
+              "label": "Long speech at court",
+              "consequence": "Court cultures (the Moto court, the Accord chancery, the Mahuo houses, the lineage halls) may argue in long formal speeches as their normal register; Kharven, saga and soldier speech stay short. R48-43's cap holds outside court.",
+              "sample": "Envoy Shen rose, set both hands flat on the table, and spoke as a hall speaks before a throne. \"The hall has grain and no road. The Seat has the road and no grain. A granary without a road feeds rats; a road without a granary carries only the dead. My master asks the Seat to count. Count the winters since the grass went. Count the bowls. Count the children who reached the spring, and the ones who lay in the death-house till Ice-out.\" The clan chief turned his cup a quarter turn and back. \"You'll take the skin first,\" he said."
+            },
+            {
+              "key": "C",
+              "label": "Long speech anywhere earned",
+              "consequence": "Anyone may hold the floor at length when the moment carries it: council, challenge, boast, lament. R48-43's cap is struck; R19-5's realism under fear still governs the frightened.",
+              "sample": "Envoy Shen rose and laid it out in the hall's long manner: grain and no road, road and no grain, the winters counted, the children counted. The clan chief heard him to the end. Then he stood, and the hall went quiet, because he did not often stand. \"Count, he says. My grandfather rode to Muken with forty horses and came home with nine, and he never asked a stranger to count them for him. We counted the grass when it went. We counted our dead into the cold. Your master may keep his abacus. You'll take the skin first.\""
+            }
+          ],
+          "recommended": "B",
+          "rec_reason": "Keying length to culture makes the courts sound like courts and the north sound like the north, which is the Eastern court tradition and the saga tradition each in its own room.",
+          "multi": false,
+          "depends_on": [],
+          "rules_touched": [
+            "R48-43-SPEECHES",
+            "R19-5-COMPOSURE_BAN"
+          ]
+        },
+        {
+          "id": "DL6",
+          "title": "Face, and the face-slap",
+          "question": "Does face run as a social economy in speech, and is the public reversal of an arrogant man (the face-slap) a legal payoff?",
+          "context": "Face is public standing, given, saved or lost before witnesses. Chinese web fiction runs on it: an arrogant scion humiliates a hidden-strength hero, who reverses it in public (the face-slap, paid off as shuang, the reader's rush of satisfaction). WOTR's NPCs are 'never omniscient, never dumb' (R48-36), and only those with 'the standing to be arrogant' may gloat (R12-4).",
+          "options": [
+            {
+              "key": "A",
+              "label": "Face unnamed, as now",
+              "consequence": "No rule: status shows in bows, seats and the order of speech; nobody names face, and no scene is built around a humiliation reversed.",
+              "sample": "Lu Pei came in out of the snow with four of his father's men behind him and took the seat nearest the brazier, which was the master's. The hall went on eating. Old Master Lu finished his broth, set the bowl down, and asked after the boy's father's health, in full, by every title the man held. It took some time. When it was done Lu Pei was the only one in the hall still sitting, and he stood."
+            },
+            {
+              "key": "B",
+              "label": "Face as currency",
+              "consequence": "Face becomes a named social economy, given, saved, borrowed and owed in speech and tracked like debt. Humiliators stay clever (R48-36); there is no ritual reversal payoff.",
+              "sample": "\"You give me no face, uncle,\" Lu Pei said, and took the seat nearest the brazier. The hall went on eating. Old Master Lu finished his broth. \"I gave your father face for thirty years,\" he said. \"He spent it. You came here to borrow against his account.\" He set the bowl down. \"Sit, then. I'll lend you this much: nobody here will say what they saw. Tomorrow you'll owe me for their silence.\" Lu Pei sat. Every man at the table had heard the price."
+            },
+            {
+              "key": "C",
+              "label": "The face-slap licensed",
+              "consequence": "The face-slap becomes a legal payoff: an arrogant scion underestimates, the reversal is public, the room reassesses. R5-C1 and R48-36 relax for the arrogant, who may misjudge badly.",
+              "sample": "\"Old man, your hall is a kennel,\" Lu Pei said, and took the seat nearest the brazier. One of his father's men laughed. Old Master Lu finished his broth, set the bowl down, and flicked the spoon. It took the laughing man in the throat under the jaw, and he sat down hard by the door with his mouth working and no air coming in. Lu Pei looked at the spoon in the snow, and at the old man's hands, and got up out of the master's seat with his face gone the colour of the coals."
+            },
+            {
+              "key": "D",
+              "label": "The face-slap, with a bill",
+              "consequence": "C, with a bill: every public reversal opens a Front or a Ledger debt (a vengeful house, a witness, a feud), and the humbled man stays veteran-clever afterward.",
+              "sample": "\"Old man, your hall is a kennel,\" Lu Pei said, and took the master's seat. One of his men laughed. Old Master Lu flicked his spoon. It took the laughing man under the jaw, and he sat down by the door with his mouth working and no air coming in. Lu Pei got up out of the seat with his face gone the colour of the coals. That night a rider left for the Lu hall in the south carrying the dead man's name, the price of a funeral, and the old master's name written underneath, twice."
+            }
+          ],
+          "recommended": "D",
+          "rec_reason": "It keeps the strongest pleasure of Chinese web fiction and makes it pay grimdark rent: the reversal lands, and the world sends the invoice.",
+          "multi": false,
+          "depends_on": [],
+          "rules_touched": [
+            "R48-36-NPC_WITS",
+            "R5-C1-WELL_REASONED_WRONG_CONCLUSION",
+            "R12-4-VOICE_THREE_OPPONENT"
+          ]
+        }
+      ]
+    },
+    {
+      "key": "HU",
+      "title": "Humour and tone",
+      "intro": "What makes WOTR funny, warm or wet-eyed under the blend. Gallows wit survives every option; the questions are what joins it.",
+      "questions": [
+        {
+          "id": "HU1",
+          "title": "The double act and the comic beat",
+          "question": "Does the setup-deadpan-reaction ban hold, or may a comic double act play out on the page?",
+          "context": "R5-D bars 'the beat structure of setup, deadpan and reaction', and R52-31 (ruled 2026-09-26) allows comic NPCs only without it. Japanese manzai comedy is a double act: the boke (the fool) says something absurd and the tsukkomi (the straight man) cuts him down, often with a smack; manga add the gag reaction, an exaggerated body response.",
+          "options": [
+            {
+              "key": "A",
+              "label": "The ban holds",
+              "consequence": "R5-D stands: no comic beat is built to land; humour arrives in talk already moving and never pauses the scene. Comic NPCs keep R52-31's limit.",
+              "sample": "\"I can smell a Well-spawn at a mile,\" Dunn said, sniffing at the wind as they walked the wagons down to the ford. \"Hot pennies and wet dog.\" \"That's the mule,\" Garside said, without turning round. \"You've been smelling the mule since the last post-house.\" Dunn sniffed again, less sure of himself, and kept walking. Ahead of them the ice at the ford's edge was broken in a wide ring, from beneath."
+            },
+            {
+              "key": "B",
+              "label": "Double act in dialogue",
+              "consequence": "The fool-and-straight-man exchange becomes legal in dialogue for anyone; narration may not stop for a reaction shot. R5-D narrows to narrated beats.",
+              "sample": "\"I can smell a Well-spawn at a mile,\" Dunn said. \"Hot pennies and wet dog.\" \"That's the mule.\" \"The mule smells of mule. This is under the mule.\" \"Under the mule is also the mule.\" \"I've a gift, Garside.\" \"You've a nose like a cellar door and a head to match. Walk.\" Dunn walked, sniffing. Ahead of them the ice at the ford's edge was broken in a wide ring, from beneath."
+            },
+            {
+              "key": "C",
+              "label": "Full comic beats",
+              "consequence": "R5-D is struck: setup, retort and a narrated physical reaction (the cuff, the gaping pause) are legal comic beats wherever a scene can carry them.",
+              "sample": "\"I can smell a Well-spawn at a mile,\" Dunn said, nose up into the wind like a hound at a kitchen door. \"Hot pennies and wet dog.\" Garside let three full paces go by. Then he reached over and cuffed him across the back of the head, hard enough to tip his hat into the snow. \"That's the mule, you article.\" Dunn stood with his hat in his hand and his mouth open, sniffing at the mule, at the air, at the mule again, while Garside walked on. Ahead of them the ice at the ford's edge was broken in a wide ring, from beneath."
+            },
+            {
+              "key": "D",
+              "label": "Full beats for comic voices",
+              "consequence": "Full comic beats, retort and reaction included, belong to comic voices and double acts named on their cards; everyone else stays under R5-D.",
+              "sample": "\"I can smell a Well-spawn at a mile,\" Dunn said, nose up into the wind. \"Hot pennies and wet dog.\" Garside let three full paces go by, then cuffed him across the back of the head hard enough to tip his hat into the snow. \"That's the mule, you article.\" Dunn stood sniffing at the mule, at the air, at the mule again. At the head of the line the wagon-master never turned round. He had seen the ring in the ice at the ford's edge, wide, broken from beneath, and he was easing the shotgun out of its boot."
+            }
+          ],
+          "recommended": "D",
+          "rec_reason": "It gives the manzai double act and the gag beat to the people built for them and keeps the grim cast clean, so the comedy sharpens the danger beside it.",
+          "multi": false,
+          "depends_on": [
+            "K1"
+          ],
+          "rules_touched": [
+            "R5-D-HUMOUR_BARRED",
+            "R52-31-COMIC_NPC",
+            "R5-G-TELL_BANK_ADDITIONS"
+          ]
+        },
+        {
+          "id": "HU2",
+          "title": "Grimdark and warmth",
+          "question": "How much warmth does WOTR carry beside the grimdark: bonds, found family, hope?",
+          "context": "NATALIE.md says victories cost and 'Hope is small and hard-won'; R11-1 keeps Pack Five's tonal spine. Progression fantasy is an optimistic climb; shōnen and murim (Korean martial-world fiction) run on found family and loyalty; cultivation novels on master and disciple. The house prose today is grief, cost and dry wit, with joy and wonder rare.",
+          "options": [
+            {
+              "key": "A",
+              "label": "Grimdark spine, as now",
+              "consequence": "NATALIE.md's grimdark line and R11-1 stand: warmth is small and paid for, joy is rare, and most scenes end on a cost."
+            },
+            {
+              "key": "B",
+              "label": "Warmth as counterweight",
+              "consequence": "Each live thread carries at least one standing warm bond (found family, master and disciple, sworn kin) that may be openly warm on the page, and joy may get scenes of its own. Losses still cost."
+            },
+            {
+              "key": "C",
+              "label": "Even split, hope can grow",
+              "consequence": "Warm and grim scenes run in rough balance; hope may grow across an arc, and the POV's progression is a real climb with real wins, though the world stays dangerous."
+            },
+            {
+              "key": "D",
+              "label": "Tone set per thread",
+              "consequence": "Tone is set per thread on its State of Play (the Kharven war grim, an academy thread warmer), and a thread may shift when the story earns it."
+            }
+          ],
+          "recommended": "B",
+          "rec_reason": "Warmth gives grief something to take; the Eastern bonds of master, disciple, sworn kin and house are the blend's best gift to tone, and the costs still land.",
+          "multi": false,
+          "depends_on": [
+            "K1"
+          ],
+          "rules_touched": [
+            "R11-1-TONAL_SPINE_UNCHANGED",
+            "R5-A-FLESH_CHANGES"
+          ]
+        },
+        {
+          "id": "HU3",
+          "title": "Tears and sentiment",
+          "question": "When a guarded character breaks, how openly does the page let them cry?",
+          "context": "R52-27 (ruled 2026-09-26) keeps a guarded voice steady in joy, with feeling in 'hands, face and breath', and R49-07 puts emotion in the body first. Shōnen and Korean drama let strong men weep openly at a bond's peak; han (Korean long-held grief) breaks at a small trigger after long restraint; Kawabata's Japanese restraint cuts away before the tears.",
+          "options": [
+            {
+              "key": "A",
+              "label": "Held, as now",
+              "consequence": "R52-27 and R49-07 stand: a guarded character's grief shows in hands, breath and what they do; open weeping is rare and small.",
+              "sample": "The old rider sat the Waiting for his son with the rest of them, back straight, hands on his knees, through the night. When the women brought out the boy's things he took the belt and turned it over once. It was worn soft where the hand goes. His fingers found the place. They stayed there. His breath went out white, came back short, went out again. In the morning he gave the belt to his grandson and went to split wood."
+            },
+            {
+              "key": "B",
+              "label": "Break at a small thing",
+              "consequence": "A rule adds the delayed break: restraint holds through the big moment and gives way, fully and openly, at a small unexpected thing. Once per character per arc.",
+              "sample": "The old rider sat the Waiting for his son with the rest of them, back straight, hands on his knees, through the night. When the women brought out the boy's things he turned the belt over once and handed it on without a sound. It was the bowl that broke him. Someone had set out the boy's bowl with the others for the morning broth, from habit, and the old man saw the chip in its rim the boy had made at six. He put his face in his hands in front of the whole death-house and wept aloud, until the women came."
+            },
+            {
+              "key": "C",
+              "label": "Open tears at the bond",
+              "consequence": "Strong characters may weep openly at the peaks of a bond (a death, a reunion, a teacher's praise), in front of others, and the room may answer it.",
+              "sample": "The old rider sat the Waiting for his son with the rest of them, and when the women brought out the boy's belt he took it in both hands and wept over it openly, and left his face unwiped. \"He held the ford,\" he said, to the room, to the dead. \"He held it till the horses came. My boy held it.\" The tears ran into his beard and froze there. Across the death-house the other riders stood, one by one, and put their fists to their chests."
+            },
+            {
+              "key": "D",
+              "label": "Cut away before the break",
+              "consequence": "Restraint goes further: the scene leaves before the break, and the reader gets only what it left behind (frost in a beard, a barred door).",
+              "sample": "The old rider sat the Waiting for his son with the rest of them, back straight, hands on his knees, through the night. When the women brought out the boy's things he took the belt, turned it over once, and stood. \"I'll see to the horses,\" he said, and went out into the dark. In the morning the grandson found the stable door barred from inside and waited by it a long time. When the old man came out, the front of his beard was stiff with frost, and the boy's belt was buckled round his own coat."
+            }
+          ],
+          "recommended": "B",
+          "rec_reason": "It is the han shape and suits WOTR's guarded cast: the restraint the law already writes becomes the setup for one break that lands harder for coming late.",
+          "multi": false,
+          "depends_on": [],
+          "rules_touched": [
+            "R52-27-JOY",
+            "R52-26-GRIEF",
+            "R49-07-EMOTIONS",
+            "R52-28-COMPOSURE"
+          ]
+        },
+        {
+          "id": "HU4",
+          "title": "Comedy beside danger",
+          "question": "May a comic beat sit inside real danger, or hard against it?",
+          "context": "R5-B lists absurdist comedy beside genuine stakes as a tell; R5-D permits gallows wit 'from people whose profession earns it' and 'the joke that is also a threat'. Shōnen and murim fiction drop a gag into a deadly fight; Lord of the Mysteries, already a named WOTR model, puts horror straight after domestic comedy.",
+          "options": [
+            {
+              "key": "A",
+              "label": "Gallows wit only, as now",
+              "consequence": "R5-B and R5-D stand: inside real danger the only humour is gallows wit and the joke that is a threat, from someone whose work has earned it.",
+              "sample": "The flusher had his lamp turned down to a bead and his back against the wet brick. \"Lad,\" he said, very low, \"if it takes me first, my debts are yours. Four silver at the gin-shop on Tanner's Row. Mind you pay it; they've long memories.\" The boy did not laugh. Down the culvert the water changed its note, as if something wide had stepped into it, and stopped."
+            },
+            {
+              "key": "B",
+              "label": "A comic beat mid-danger",
+              "consequence": "A short comic beat may break inside a fight or a crisis (a pratfall, an absurd turn) so long as the danger is unchanged when it ends; R5-B's absurdism tell narrows.",
+              "sample": "Down the culvert something wide stepped into the water. The flusher raised his lamp, and the thing raised its head into the light, and it was a sow, an ordinary grey sow plastered in sewer muck and furious, and she came straight between the boy's legs and dumped him flat in the run-off. The flusher laughed so hard he had to hold the wall. Then he stopped laughing. Behind the sow, at the edge of the lamp, something taller stood in the water, and it had been driving her."
+            },
+            {
+              "key": "C",
+              "label": "Comedy hard against dread",
+              "consequence": "Comedy and dread may be set hard against each other by design (domestic farce, then the thing in the dark), each played straight; jokes inside the danger stay gallows wit.",
+              "sample": "At supper the flusher's wife had made him wear the new collar to the culvert in case the Board man came, and he had argued it all through the pie. \"It's starched, woman. I'll be strangled.\" \"Then you'll be strangled clean.\" The boy had laughed till gravy came down his nose. Now the collar was black with sewer water and the flusher stood very still with his lamp turned down to a bead, because down the culvert something wide had stepped into the run and stopped, and it was breathing."
+            }
+          ],
+          "recommended": "C",
+          "rec_reason": "It is the Lord of the Mysteries move WOTR already names as a model: the comedy makes the dread land harder, and the fight itself stays deadly.",
+          "multi": false,
+          "depends_on": [],
+          "rules_touched": [
+            "R5-B-MANHWA_DIRECTIVE_REPEALED",
+            "R5-D-HUMOUR_PERMITTED"
+          ]
+        }
+      ]
+    },
+    {
+      "key": "NE",
+      "title": "Names, titles and epithets in narration",
+      "intro": "What the narration calls people, and what the world calls them.",
+      "questions": [
+        {
+          "id": "NE1",
+          "title": "How the narration varies a character's epithet",
+          "question": "How freely may the narration vary what it calls a character inside one scene?",
+          "context": "This reopens R49-10, ruled 2026-09-26: 'One epithet per character per scene', changing only when the POV's view changes. Chinese web fiction rotates descriptive epithets (the youth, the grey-robed elder); Homer fixes one tag to a name for the whole poem (swift-footed Achilles). R48-44 makes the narration's naming characterise.",
+          "options": [
+            {
+              "key": "A",
+              "label": "One per scene, as now",
+              "consequence": "R49-10 stands: one epithet per character per scene, changing only when the POV's view of them changes, which is itself the beat.",
+              "sample": "The Shirogane man came in off the yard with snow on his shoulders and stood at the door until the steward noticed him. The Shirogane man took no seat that was offered. He chose one by the wall, with both doors in view, and laid his sword across his knees. When the steward brought broth the Shirogane man thanked him in the old form and drank it standing, his back to the plaster and his eyes on the room."
+            },
+            {
+              "key": "B",
+              "label": "Rotating epithets",
+              "consequence": "Narration may rotate several descriptive epithets for one character within a scene, following what the POV notices; R49-10 is struck.",
+              "sample": "The Shirogane man came in off the yard with snow on his shoulders and stood at the door until the steward noticed him. The swordsman took no seat that was offered. The stranger chose one by the wall, with both doors in view, and laid his sword across his knees. When the steward brought broth the young lord thanked him in the old form, and the grey-eyed guest drank it standing, his back to the plaster."
+            },
+            {
+              "key": "C",
+              "label": "A standing Homeric epithet",
+              "consequence": "Each major character carries one standing epithet on the card, reused across scenes like a refrain; in scene it replaces the POV's own epithet.",
+              "sample": "Kaname of the still hands came in off the yard with snow on his shoulders and stood at the door until the steward noticed him. He took no seat that was offered. He chose one by the wall, with both doors in view, and laid his sword across his knees, and when the steward brought broth Kaname of the still hands thanked him in the old form and drank it standing, his back to the plaster."
+            },
+            {
+              "key": "D",
+              "label": "Rotate until named",
+              "consequence": "Unnamed figures may rotate epithets (the swordsman, the stranger, the grey-eyed guest) until they are named; once named, R49-10's one-epithet rule governs.",
+              "sample": "The Shirogane man came in off the yard with snow on his shoulders and stood at the door until the steward noticed him. The swordsman took no seat that was offered; the stranger chose one by the wall, with both doors in view, and laid his sword across his knees. \"Shirogane Kaname,\" he told the steward, when asked. After that Kaname thanked him for the broth in the old form and drank it standing, his back to the plaster."
+            }
+          ],
+          "recommended": "D",
+          "rec_reason": "Strangers get the rotating, descriptive naming of Chinese web fiction, which suits figures the POV can only describe, and known people keep the one-epithet discipline that makes each change of epithet mean something.",
+          "multi": false,
+          "depends_on": [],
+          "rules_touched": [
+            "R49-10-EPITHETS",
+            "R48-44-NAME_USE",
+            "R50-27-NEW_NPC_NAME"
+          ]
+        },
+        {
+          "id": "NE2",
+          "title": "Sobriquets and sect titles",
+          "question": "How freely does the world hand out grand names, and may the lineage halls run sect titles?",
+          "context": "R50-21 lets an NPC coin a Third Name (a title the world gives a practitioner) for Isaac's characters. Wuxia and murim hang sobriquets on every notable fighter and run sect hierarchies (Hall Master, Elder, Senior Brother) with titles stacked. R23-10 bans 'sect-title constructions' and 'honorific stacking' in the Chinese stratum.",
+          "options": [
+            {
+              "key": "A",
+              "label": "Rare and earned, as now",
+              "consequence": "R50-21 and R23-10 stand: grand titles are rare, coined by an NPC and kept only if Isaac keeps them; the halls use plain kin and teaching titles, never stacked.",
+              "sample": "The gate-clerk read the delegation off the hall's own letter: Master Shen of the Shen lineage hall, his nephew, two students, four servants, six mules. He read it in the voice he kept for salt manifests. On the wall the clansmen counted the mules and lost interest. The thin old man on the lead mule kept his hands in his sleeves and studied the old courses at the base of the gate, darker than the stone above them, as if he were pricing them."
+            },
+            {
+              "key": "B",
+              "label": "Sobriquets in common use",
+              "consequence": "Crowds, criers, enemies and ballads may hang sobriquets on any notable fighter or house, and they stick by use. R23-10 still bans sect-title constructions and stacking in the halls.",
+              "sample": "The gate-clerk read the delegation off the hall's own letter, and the crier took it up for the yard: \"Shen Guowei, called the Quiet Abacus, who broke the salt market at Hallenfeld with a counting-board and never drew steel!\" The yard knew the name. Men came out of the smithy to look at the thin old man on the lead mule, who kept his hands in his sleeves and let them look."
+            },
+            {
+              "key": "C",
+              "label": "Sobriquets and hall titles",
+              "consequence": "B, plus the lineage halls run a full title ladder (Hall Master, Elder, Senior Brother, first disciple) that may stack in formal address; R23-10's bans lift for titles and stay for given names.",
+              "sample": "\"Hall Master Shen Guowei, Third Elder of the Shen lineage hall, Keeper of the Western Abacus, called the Quiet Abacus,\" the crier called, and then the nephew, \"Senior Brother Shen Lian, first disciple of the Hall Master,\" and then the two students by generation, junior to junior. The yard counted the titles under its breath. The thin old man on the lead mule had more words to his name than the gate had heard in a month, and kept his hands in his sleeves while they were read."
+            }
+          ],
+          "recommended": "C",
+          "rec_reason": "Titles and sobriquets are the heraldry of the Chinese martial world, and the given-name rules that keep the halls distinct from the Korean stratum survive untouched.",
+          "multi": false,
+          "depends_on": [],
+          "rules_touched": [
+            "R50-21-THIRD_NAMES",
+            "R23-10-CHINESE_PHONOTACTICS"
+          ]
+        },
+        {
+          "id": "NE3",
+          "title": "Names and honorifics in narration",
+          "question": "In narration, do Eastern-register characters go by name, by title or rank, or with the honorific the POV would use?",
+          "context": "R48-44 (ruled 2026-09-26) names characters 'the way the viewpoint sees them'; honorifics are law in Japonic speech (R51-21) and unruled in narration. Japanese and Chinese narration often names a lord by office and a teacher by title; Korean puts the family name first; Western close third uses the given name for intimacy.",
+          "options": [
+            {
+              "key": "A",
+              "label": "Plain names, as now",
+              "consequence": "Narration uses the name or epithet the POV would use, in plain form, with no honorific suffixes; honorifics live in speech (R51-21).",
+              "sample": "Old Tobe had served the Shirogane forty winters. When Kaname came in off the yard with blood on his sleeve, Tobe took the sword from him and turned it in the lamplight, reading the edge for nicks. Kaname stood over him while he read it. \"His,\" Kaname said, of the blood. Tobe nodded and went for the paper and the oil, and when he came back Kaname was asleep sitting up, as his father used to sleep after a duel."
+            },
+            {
+              "key": "B",
+              "label": "By rank and place",
+              "consequence": "Narration names Eastern-register characters by their culture's custom whatever the POV: Japonic houses by office or place in the house, Korean family name first, hall members by title and family name.",
+              "sample": "Old Tobe had served the Shirogane forty winters. When the second son came in off the yard with blood on his sleeve, Tobe took the sword from him and turned it in the lamplight, reading the edge for nicks. The second son stood over him while he read it. \"His,\" the second son said, of the blood. Tobe nodded and went for the paper and the oil, and when he came back the young lord was asleep sitting up, as his father used to sleep after a duel."
+            },
+            {
+              "key": "C",
+              "label": "The POV's own honorific",
+              "consequence": "A close POV from a culture with honorifics carries them into narration (Kaname-sama, Seo-nim) as he would think them, never italic; a Western POV in the same room uses plain names.",
+              "sample": "Old Tobe had served the Shirogane forty winters. When Kaname-sama came in off the yard with blood on his sleeve, Tobe took the sword from him and turned it in the lamplight, reading the edge for nicks. Kaname-sama stood over him while he read it. \"His,\" he said, of the blood. Tobe nodded and went for the paper and the oil, and when he came back Kaname-sama was asleep sitting up, as his father used to sleep after a duel."
+            }
+          ],
+          "recommended": "C",
+          "rec_reason": "It brings Eastern address into the narration through close POV, where WOTR's law already wants the naming to characterise, and a Western POV in the same scene shows the gap between the two.",
+          "multi": false,
+          "depends_on": [],
+          "rules_touched": [
+            "R48-44-NAME_USE",
+            "R51-21-MOTO_WORDS"
+          ]
+        }
+      ]
+    },
+    {
+      "key": "XS",
+      "title": "Explicit scenes under the blend",
+      "intro": "Two questions. R49-51's plain, crude naming stays the floor; these ask what the Eastern traditions add to it, and where.",
+      "questions": [
+        {
+          "id": "XS1",
+          "title": "Eastern techniques beside clinical specificity",
+          "question": "Which Eastern techniques may join the plain, clinical specificity of an explicit scene?",
+          "context": "This reopens R49-51, ruled 2026-09-26: explicit narration stays 'plain and crude', 'blunt in naming'; table rule 9 tracks positions and commits onomatopoeia. Japanese and Chinese erotic writing works through season and nature imagery, restraint and the unsaid, and poems exchanged after; Japanese gitaigo are mimetic words for textures and states that make no sound.",
+          "options": [
+            {
+              "key": "A",
+              "label": "Season and nature imagery",
+              "consequence": "An explicit scene may set a season or nature image beside the anatomy (frost, snow, blossom, the brazier), carrying mood without replacing the plain words.",
+              "sample": "Frost had grown ferns across the inside of the shutter, and the brazier had burned down to one red eye in the ash. Sae lay back on the quilts and drew Toma down by the hips, and he went into her slowly, the cold of the room on his back and the heat of her cunt close round his cock. Outside, a long slide of snow went off the eaves. She hooked a heel behind his thigh. Where their breath reached the shutter the ferns blurred, and ran."
+            },
+            {
+              "key": "B",
+              "label": "Held detail at the peak",
+              "consequence": "At chosen moments, usually the peak, one held physical detail may stand in for the act; plain specificity governs the rest, and the aftermath is still written.",
+              "sample": "Sae lay back on the quilts and drew Toma down by the hips, and he went into her slowly, the cold of the room on his back and the heat of her cunt close round his cock. She set the pace with a heel hooked behind his thigh, and he let her. When it came for her she reached past his head and closed her hand on the brazier's iron rim, which was hot, and held on. Afterward there were two red lines across her palm, and she would not let him dress them."
+            },
+            {
+              "key": "C",
+              "label": "The poem after",
+              "consequence": "An explicit scene may close on a written or spoken exchange (a morning poem, a note, a line answered) as part of its aftermath beat.",
+              "sample": "Toma had gone into her slowly, the cold of the room on his back, and Sae had held him there with a heel behind his thigh until neither of them could keep quiet. Afterward he slept. She rose in the grey before the Bow, knelt at the low table, and wrote on the back of a ration slip in her small house hand:\n\n*The brazier is ash. Still the quilts\nhold a heat that is not the fire's.*\n\nShe left it under his cup and went out to weigh the bread."
+            },
+            {
+              "key": "D",
+              "label": "Mimetic words",
+              "consequence": "Mimetic words for texture and state (the Japanese gitaigo habit, and each culture's own) join table rule 9's onomatopoeia, romanised and never italic.",
+              "sample": "Sae lay back on the quilts and drew Toma down by the hips, and he went into her slowly, nuru-nuru, slick and close, the cold of the room on his back. She set the pace with a heel behind his thigh. The quilts hissed under them, shu, shu, and her breath came in small catches against his throat, hah, hah. When she came she pulled him in hard and held, and her whole body went biku-biku round him, again and again, until it let go."
+            }
+          ],
+          "recommended": "A,B,C",
+          "rec_reason": "Image, the held detail and the morning poem each add what the Eastern tradition does best without taking the blunt words away; mimetic words read as comic-book sound effects in English and would undercut the plain register.",
+          "multi": true,
+          "depends_on": [],
+          "rules_touched": [
+            "R49-51-EXPLICIT"
+          ]
+        },
+        {
+          "id": "XS2",
+          "title": "Keyed to culture or free",
+          "question": "Are the Eastern explicit techniques keyed to culture, or free in any scene?",
+          "context": "R49-51 applies one register to every culture. The Moto court and Eresse carry courtly restraint in their Inventories and voices; Kharven, Dawi and the Northern English run blunt. Keying keeps cultures distinct in bed as everywhere else; freeing the techniques gives every scene the whole kit.",
+          "options": [
+            {
+              "key": "A",
+              "label": "Free in any scene",
+              "consequence": "The techniques chosen in XS1 are open to every explicit scene, whatever the cultures in the room."
+            },
+            {
+              "key": "B",
+              "label": "Keyed to the culture",
+              "consequence": "Courtly cultures (the Moto court, Eresse, the Mahuo houses, the lineage halls) take the Eastern techniques; Kharven, Dawi, Accord and Northern scenes stay plain, crude and clinical."
+            },
+            {
+              "key": "C",
+              "label": "Keyed to the POV",
+              "consequence": "The POV's culture decides the register: a Moto POV writes with image and the held detail, a Kharven POV blunt, whoever the lover is; the lover's culture shows in what they do."
+            }
+          ],
+          "recommended": "C",
+          "rec_reason": "It follows WOTR's POV discipline: narration sees through its viewpoint, so a scene between two cultures carries both, one in the prose and one in the body of the other person.",
+          "multi": false,
+          "depends_on": [],
+          "rules_touched": [
+            "R49-51-EXPLICIT"
+          ]
+        }
+      ]
+    },
+    {
+      "key": "ME",
+      "title": "Method and output",
+      "intro": "How your answers become law, and what gets written first.",
+      "questions": [
+        {
+          "id": "ME1",
+          "title": "Where the new law lives",
+          "question": "How do your answers land in the repo and in Natalie's standing prompt?",
+          "context": "Rulings enter the index through log_ruling as dated rule rows. NATALIE.md still calls WOTR an 'Eastern skeleton' under 'Western flesh' and names Martin, Tolkien and Abercrombie; R5-A-FLESH_CHANGES says the same in law. The companion craft guides are 2026-09-12 editions, older than the 09-26 law, and the Master Style Directive still bans status screens.",
+          "options": [
+            {
+              "key": "A",
+              "label": "Rule doc and NATALIE rewrite",
+              "consequence": "One dated Style Law rule doc logged through log_ruling; NATALIE.md's models line and Prose Standards rewritten to it; R5-A-FLESH_CHANGES, R5-E-MARTIN_WINS_RULING and R11-1 marked superseded."
+            },
+            {
+              "key": "B",
+              "label": "Rule doc only",
+              "consequence": "The rule doc is logged and served by load_rules; NATALIE.md gains only a pointer, so its 'Western flesh' line and older craft lines stay until a later pass."
+            },
+            {
+              "key": "C",
+              "label": "A, plus new guide editions",
+              "consequence": "A, then new editions of the Combat Craft Guide, Dialogue Craft Standards and Master Style Directive, so no companion document still teaches the old law."
+            }
+          ],
+          "recommended": "C",
+          "rec_reason": "Natalie reads NATALIE.md and the guides at every session; if any of them still teaches 'Western flesh' or bans status screens, the old law keeps writing scenes after the new one is logged.",
+          "multi": false,
+          "depends_on": [
+            "K1"
+          ],
+          "rules_touched": [
+            "R5-A-FLESH_CHANGES",
+            "R5-E-MARTIN_WINS_RULING",
+            "R11-1-TONAL_SPINE_UNCHANGED"
+          ]
+        },
+        {
+          "id": "ME2",
+          "title": "New checks in verify_scene",
+          "question": "Which new verify_scene checks should come with the law?",
+          "context": "verify_scene fails dashes, antithesis and the hard-ban words, and warns on rhythm; with --combat it warns when a fight has no HEMA terms. It reads a quoted poem as prose, knows no honorifics, and let fragment antithesis ('Not alarm. Assessment.') through in the Night Register scenes.",
+          "options": [
+            {
+              "key": "A",
+              "label": "Combat words by school",
+              "consequence": "verify --combat takes a school (blade, japanese, chinese, korean, percussion) or reads the culture tag, and warns only when a fight carries none of that school's terms."
+            },
+            {
+              "key": "B",
+              "label": "A verse marker",
+              "consequence": "A marked verse block (a poem, a lament, a declaration in lines) is left out of the rhythm statistics and word count; the dash and hard-ban checks still read it."
+            },
+            {
+              "key": "C",
+              "label": "Address check",
+              "consequence": "A WARN when a speaker uses another stratum's honorifics, or when narration carries a suffix in a scene whose POV culture has none."
+            },
+            {
+              "key": "D",
+              "label": "Fragment antithesis",
+              "consequence": "The antithesis FAIL extends to fragment pairs ('Not regret. Recognition.') that the current pattern lets through."
+            }
+          ],
+          "recommended": "A,B,D",
+          "rec_reason": "The school lists and the verse marker stop the checker fighting the blend, and the fragment catch closes a hole already found; an address check would throw false alarms on every mixed room.",
+          "multi": true,
+          "depends_on": [],
+          "rules_touched": [
+            "R48-45-CHECKS",
+            "R13-6-HEMA_VOCAB",
+            "R49-40-NOT_X_Y"
+          ]
+        },
+        {
+          "id": "ME3",
+          "title": "The archived scenes",
+          "question": "What happens to the scenes archived under the old law?",
+          "context": "The archive holds about 180 scenes written under 'Western flesh', a few still carrying em dashes and Büri-era names. Archived scenes are canon of their day, and scene_recall and the drafting tools read them as precedent, so old style can leak forward if nothing marks it.",
+          "options": [
+            {
+              "key": "A",
+              "label": "Leave them as written",
+              "consequence": "The archive stays untouched; the new law governs what is written from now on."
+            },
+            {
+              "key": "B",
+              "label": "Leave them, tag the edition",
+              "consequence": "The archive stays untouched, and scenes/MANIFEST.md gains a law-edition column so the drafting tools and scene_recall stop treating old style as precedent."
+            },
+            {
+              "key": "C",
+              "label": "Revise the live threads",
+              "consequence": "Scenes in the live threads are revised to the new law, prose only, with events and Isaac's lines unchanged; the rest stay as written."
+            },
+            {
+              "key": "D",
+              "label": "Revise everything",
+              "consequence": "Every archived scene is revised to the new law, events and Isaac's lines unchanged: a large pass across about 180 files."
+            }
+          ],
+          "recommended": "B",
+          "rec_reason": "The scenes stay true to what was played, and the tag stops the old style teaching new drafts, at almost no cost.",
+          "multi": false,
+          "depends_on": [],
+          "rules_touched": []
+        },
+        {
+          "id": "ME4",
+          "title": "Proof and the order of work",
+          "question": "In what order does the work run, and is the law proved on a test scene before it binds?",
+          "context": "The law can bind at once and be proved by the next real turn, be tried first on a test scene in a live thread, or ship with a bank of sample passages per culture showing the blend. No such bank exists yet; this questionnaire's samples are the nearest thing.",
+          "options": [
+            {
+              "key": "A",
+              "label": "Law, test scene, then bank",
+              "consequence": "The law is logged live; one test scene in a live thread follows; anything that reads wrong becomes a dated amendment; then a sample bank for Kharven, Moto, Accord, the Mahuo and the lineage halls."
+            },
+            {
+              "key": "B",
+              "label": "Test scene first",
+              "consequence": "The law stays a draft until a test scene written under it has been read; then it is logged and the bank built from what the test showed."
+            },
+            {
+              "key": "C",
+              "label": "Law and bank together",
+              "consequence": "The law is logged with a sample bank of five beats per live-thread culture (fight, council, quiet, explicit, system moment), and the bank serves as the proof."
+            },
+            {
+              "key": "D",
+              "label": "Law only",
+              "consequence": "The law is logged and binds at once; the next real turn is the test, and no sample bank is written."
+            }
+          ],
+          "recommended": "A",
+          "rec_reason": "It puts the law to work at once, catches what reads wrong in a real scene, and builds the bank from a law that has already been tested.",
+          "multi": false,
+          "depends_on": [],
+          "rules_touched": []
+        }
+      ]
+    }
+  ],
+  "settled": [
+    {
+      "point": "Dashes in speech, including the manga cut-off shout",
+      "rule_ids": [
+        "R48-03-SIMILES",
+        "R15-1-AI_TELL_CHECKS_SURVIVE",
+        "R49-32-CUT_OFFS"
+      ],
+      "why_not_asked": "The dash ban targets failing prose in every culture and period; a shout cut off mid-word stays an ellipsis."
+    },
+    {
+      "point": "The clinical floor for wounds and exchanges",
+      "rule_ids": [
+        "R48-34-WOUNDS",
+        "R13-4-COMBAT_FLOOR"
+      ],
+      "why_not_asked": "Every combat option keeps full clinical gore and the exchange floor; the blend only adds rites, images and shapes around them (CB3, CB6)."
+    },
+    {
+      "point": "Death is permanent",
+      "rule_ids": [
+        "R60-04-DEATH_IS_PERMANENT"
+      ],
+      "why_not_asked": "The rival bond and the mid-fight flashback both work inside it, so nothing in the blend needs it reopened."
+    },
+    {
+      "point": "Japonic honorifics in speech",
+      "rule_ids": [
+        "R51-21-MOTO_WORDS"
+      ],
+      "why_not_asked": "Already law; DL1 asks only about the Korean and Chinese strata, NE3 about narration."
+    },
+    {
+      "point": "Nobody translates their own technique aloud",
+      "rule_ids": [
+        "R8-26-NO_SELF_TRANSLATION",
+        "R12-4-VOICE_THREE_OPPONENT"
+      ],
+      "why_not_asked": "The opponent's contempt-as-instruction voice already carries the shōnen habit of explaining a technique mid-fight."
+    },
+    {
+      "point": "How many release calls a scene may carry",
+      "rule_ids": [
+        "R50-09-ONE_RELEASE",
+        "R8-26-ONE_RELEASE_PER_SCENE"
+      ],
+      "why_not_asked": "R50-09 (no limit) is the later rule; the still-live R8-26 cap is a stale row to record in CONFLICTS.md and rule on the docket."
+    },
+    {
+      "point": "Swearing",
+      "rule_ids": [
+        "R51-29-SWEARING",
+        "R51-30-HOLY_OATHS"
+      ],
+      "why_not_asked": "Each culture's own oaths first, English swears allowed and Earth holy swears out already suit any blend."
+    },
+    {
+      "point": "Foreign words and names on the page",
+      "rule_ids": [
+        "R50-31-SCRIPT_SHOWN",
+        "R50-32-ITALICS",
+        "R50-15-DIACRITICS"
+      ],
+      "why_not_asked": "Romanised, never italic, macrons kept: this already serves honorifics, idioms and verse in every Eastern register."
+    },
+    {
+      "point": "Isaac's characters, their lines and Sodoku's humour",
+      "rule_ids": [
+        "R52-08-PC_IDIOM",
+        "R52-10-CROSSOVER",
+        "R52-14-SODOKU_JOKE"
+      ],
+      "why_not_asked": "Every option here governs NPCs and narration; his characters speak, choose and joke as he plays them."
+    },
+    {
+      "point": "Dialogue tags and profanity",
+      "rule_ids": [
+        "R49-31-TAGS",
+        "R48-12-PROFANITY"
+      ],
+      "why_not_asked": "Mostly untagged dialogue, and swearing in mouths and close POV, hold under any blend."
+    },
+    {
+      "point": "Damage numbers, reserve readouts and stat talk inside a fight",
+      "rule_ids": [
+        "R49-47-STAT_WORDS",
+        "R52-05-COUNTING"
+      ],
+      "why_not_asked": "The LitRPG section asks it; this draft settles only the choreography around the numbers."
+    }
+  ]
+}

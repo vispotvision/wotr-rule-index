@@ -31,7 +31,9 @@ rules:
   source:
     file: ''
     lines: null
-  notes: ''
+  notes: 'Partly amended by R70-27-ANTIQUE_NARRATION_RUNS (style law 2026-10-03): how antique narration
+    runs is now set per culture by each Standing Inventory''s dial (plain, period or archaic); a Kharven
+    POV stays plain.'
 - id: R51-02-CLOSE_POV_SWEARS
   pack: Vocabulary Law 2026-09-26
   pack_number: null
@@ -59,8 +61,10 @@ rules:
   source:
     file: ''
     lines: null
-  notes: Corrected 2026-09-27 by the ruling audit (RULINGS.md, ruling-audit-2026-09-27) to state exactly
-    what Isaac chose.
+  notes: 'Corrected 2026-09-27 by the ruling audit (RULINGS.md, ruling-audit-2026-09-27) to state exactly
+    what Isaac chose. Extended by R70-34-REAL_LANGUAGE_SWEARS_NARRATION (style law 2026-10-03): a Japonic,
+    Korean or Chinese-stratum POV may also think his own language''s real swears, romanised, correct and
+    never italic.'
 - id: R51-03-LIST_SLANG
   pack: Vocabulary Law 2026-09-26
   pack_number: null
@@ -86,7 +90,9 @@ rules:
   source:
     file: ''
     lines: null
-  notes: ''
+  notes: 'Partly amended by R70-37-MODERN_IDIOM_THOUGHT (style law 2026-10-03): the ban covers plain narration
+    only; italic thought may carry these words when the POV would say them, and verify drops italic thought
+    from the check.'
 - id: R51-04-LIST_PSYCH
   pack: Vocabulary Law 2026-09-26
   pack_number: null
@@ -112,7 +118,9 @@ rules:
   source:
     file: ''
     lines: null
-  notes: ''
+  notes: 'Partly amended by R70-37-MODERN_IDIOM_THOUGHT (style law 2026-10-03): the ban covers plain narration
+    only; italic thought may carry these words when the POV would say them, and verify drops italic thought
+    from the check.'
 - id: R51-05-LIST_TECH
   pack: Vocabulary Law 2026-09-26
   pack_number: null
@@ -138,7 +146,8 @@ rules:
   source:
     file: ''
     lines: null
-  notes: ''
+  notes: 'Read with R70-94-GAMER_SLANG (style law 2026-10-03): "narration stays timeless", so gamer slang
+    never enters narration, as metaphor or otherwise; this row is unchanged.'
 - id: R51-06-EARTH_WORDS
   pack: Vocabulary Law 2026-09-26
   pack_number: null
@@ -190,7 +199,8 @@ rules:
   source:
     file: ''
     lines: null
-  notes: ''
+  notes: Unchanged by R70-29-UNITS_MEASURE (style law 2026-10-03), which keeps narration in the POV's
+    own units.
 - id: R51-08-CALENDAR
   pack: Vocabulary Law 2026-09-26
   pack_number: null
@@ -216,7 +226,8 @@ rules:
   source:
     file: ''
     lines: null
-  notes: ''
+  notes: 'Noted by R70-61-SEASON_WORD_DOES (style law 2026-10-03): each culture''s logged season words
+    may stand in narration and speech and carry a settled feeling; Earth day and month names stay out.'
 - id: R51-09-SPEECH_CAP
   pack: Vocabulary Law 2026-09-26
   pack_number: null
@@ -269,7 +280,11 @@ rules:
   source:
     file: ''
     lines: null
-  notes: Titles are exempt (R58-04); 'the smell of ozone' sits in tension with R51-32 (C-090).
+  notes: 'Titles are exempt (R58-04); ''the smell of ozone'' sits in tension with R51-32 (C-090). Partly
+    amended by R70-35-HARD_BAN_LIST (style law 2026-10-03): the cultivation-translation, Western fantasy
+    and LitRPG stock families join the list for narration, and testament, visceral and orbs now fail only
+    in their stock senses. Read with R70-36-CHECKER_ENFORCES (style law 2026-10-03): the families R70-35-HARD_BAN_LIST
+    adds FAIL at first use in narration as this list does, and looser variants WARN.'
 - id: R51-11-COLLISIONS
   pack: Vocabulary Law 2026-09-26
   pack_number: null
@@ -297,7 +312,8 @@ rules:
   source:
     file: ''
     lines: null
-  notes: ''
+  notes: Unchanged by R70-33-WORD_BANK_PER_CULTURE (style law 2026-10-03), which adds per-culture Words
+    entries.
 - id: R51-12-WORD_BANK
   pack: Vocabulary Law 2026-09-26
   pack_number: null
@@ -372,7 +388,8 @@ rules:
   source:
     file: ''
     lines: null
-  notes: ''
+  notes: 'Stands, confirmed by R70-32-NEW_WORDS_KIND_MANY (style law 2026-10-03): no cap on new words
+    per scene.'
 - id: R51-15-FIRST_USE
   pack: Vocabulary Law 2026-09-26
   pack_number: null
@@ -398,7 +415,10 @@ rules:
   source:
     file: ''
     lines: null
-  notes: ''
+  notes: 'Stands, confirmed by R70-25-FOREIGN_WORDS_PAGE (style law 2026-10-03): no explaining phrase
+    in the sentence; the lookup lives in the book''s glossary and the wiki terms page. Noted by R70-71-EXPLAINING_WORKING_MID_FIGHT
+    (style law 2026-10-03): a working''s rules are planted before the fight through training, a document
+    or talk; meaning by context and the zero gloss stand.'
 - id: R51-16-OLD_BANS_FALL
   pack: Vocabulary Law 2026-09-26
   pack_number: null
@@ -427,7 +447,9 @@ rules:
   source:
     file: ''
     lines: null
-  notes: ''
+  notes: 'Stands and is carried further by R70-2-LITRPG_WOTR_BECOMES (style law 2026-10-03): full LitRPG,
+    with readouts set on the page. Read with R70-80-READOUT_SITS_PAGE (style law 2026-10-03): this row
+    freed the words; R70-80 rules the form figures take on the page.'
 - id: R51-17-MID_ACTION
   pack: Vocabulary Law 2026-09-26
   pack_number: null
@@ -480,7 +502,8 @@ rules:
   source:
     file: ''
     lines: null
-  notes: ''
+  notes: 'Read with R70-24-EASTERN_CONCEPT_WORDS_NARRATION (style law 2026-10-03): concept words split
+    in the same POV''s narration, the loanword for what the body feels and the WOTR noun for what is measured.'
 - id: R51-19-ACCORD_LATIN
   pack: Vocabulary Law 2026-09-26
   pack_number: null
@@ -505,7 +528,9 @@ rules:
   source:
     file: ''
     lines: null
-  notes: ''
+  notes: 'Extended by R70-26-LEARNED_TONGUES_BESIDE_LATIN (style law 2026-10-03): Latin stays the Accord''s
+    learned tongue, and hanmun, kanbun and wenyan tags join it for the Korean stratum, Moto records and
+    the lineage halls.'
 - id: R51-20-KHARVEN_WORDS
   pack: Vocabulary Law 2026-09-26
   pack_number: null
@@ -531,7 +556,9 @@ rules:
   source:
     file: ''
     lines: null
-  notes: ''
+  notes: 'Read with R70-32-NEW_WORDS_KIND_MANY (style law 2026-10-03): a new thing the Kharven own takes
+    a Kharven native word. Read with R70-33-WORD_BANK_PER_CULTURE (style law 2026-10-03): Kharven native
+    words are listed in the Kharven Inventory''s Words entry with meaning and speaker.'
 - id: R51-21-MOTO_WORDS
   pack: Vocabulary Law 2026-09-26
   pack_number: null
@@ -557,7 +584,10 @@ rules:
   source:
     file: ''
     lines: null
-  notes: ''
+  notes: 'Extended by R70-107-SPEECH_LEVELS_ADDRESS_KOREAN (style law 2026-10-03): Korean and Chinese
+    speakers use their own address words, romanised and never italic, and a level shift is written as
+    an event; and by R70-118-HONORIFICS_NARRATION: a close POV from a culture with honorifics carries
+    them into narration as he would think them.'
 - id: R51-22-MOTO_VOICE
   pack: Vocabulary Law 2026-09-26
   pack_number: null
@@ -583,7 +613,9 @@ rules:
   source:
     file: ''
     lines: null
-  notes: ''
+  notes: 'Read with R70-27-ANTIQUE_NARRATION_RUNS (style law 2026-10-03): the Moto narration''s antique-word
+    dial (plain, period or archaic) is set as law in the Moto Standing Inventory; the answer''s sample
+    shows a Moto-court steward under an archaic dial.'
 - id: R51-23-DAWI_WORDS
   pack: Vocabulary Law 2026-09-26
   pack_number: null
@@ -607,7 +639,9 @@ rules:
   source:
     file: ''
     lines: null
-  notes: ''
+  notes: 'Read with R70-32-NEW_WORDS_KIND_MANY (style law 2026-10-03): a new thing the Dawi own takes
+    a Dawi native word. Read with R70-33-WORD_BANK_PER_CULTURE (style law 2026-10-03): Dawi words are
+    listed in the Dawi Inventory''s Words entry with meaning and speaker.'
 - id: R51-24-ELVEN_WORDS
   pack: Vocabulary Law 2026-09-26
   pack_number: null
@@ -633,7 +667,9 @@ rules:
   source:
     file: ''
     lines: null
-  notes: ''
+  notes: 'Read with R70-32-NEW_WORDS_KIND_MANY (style law 2026-10-03): a new thing the Elves own takes
+    a native word, built from the root bank as here; this rule''s few loanwords in Elven speech are not
+    named by the answer and stand.'
 - id: R51-25-BEASTKIN
   pack: Vocabulary Law 2026-09-26
   pack_number: null
@@ -733,7 +769,10 @@ rules:
   source:
     file: ''
     lines: null
-  notes: ''
+  notes: 'Noted by R70-64-VERSE_INSIDE_PROSE (style law 2026-10-03): verse in mouths and documents is
+    set as a quoted block, and a scene may close on a short poem; chants in their own language stand.
+    Stands for chants; verse traded as talk under R70-110-VERSE_EXCHANGED_TALK (style law 2026-10-03)
+    follows each culture''s own verse form, entered in its Inventory.'
 - id: R51-29-SWEARING
   pack: Vocabulary Law 2026-09-26
   pack_number: null
@@ -759,7 +798,8 @@ rules:
   source:
     file: ''
     lines: null
-  notes: ''
+  notes: 'Stands beside R70-34-REAL_LANGUAGE_SWEARS_NARRATION (style law 2026-10-03): an Eastern-stratum
+    POV''s real swears sit beside the English and WOTR ones.'
 - id: R51-30-HOLY_OATHS
   pack: Vocabulary Law 2026-09-26
   pack_number: null
@@ -811,7 +851,14 @@ rules:
   source:
     file: ''
     lines: null
-  notes: ''
+  notes: 'Extended by R70-22-SOUND_WORDS (style law 2026-10-03): each culture''s Inventory may also carry
+    a few native sound and state words for speech and close narration. Extended by R70-33-WORD_BANK_PER_CULTURE
+    (style law 2026-10-03): each Inventory also gains a Words entry (native words, trade terms, slang
+    and address forms, with meaning and speaker), drawn from first like the senses. Extended by R70-45-NEW_STANDING_INVENTORY_FIELDS
+    (style law 2026-10-03): temperature joins the senses entry. Each Inventory also gains an image bank
+    (R70-59), a colour code (R70-60), season words with a mood (R70-61), what age is prized and despised
+    (R70-63) and four-beat idioms (R70-65); R70-51 adds one new subject per scene. Scenes still draw from
+    the bank first.'
 - id: R51-32-SMELL_WORDS
   pack: Vocabulary Law 2026-09-26
   pack_number: null
@@ -861,7 +908,15 @@ rules:
   source:
     file: ''
     lines: null
-  notes: ''
+  notes: 'Stands inside the blend: R70-8-JOBS_STYLE_GOVERNS (style law 2026-10-03) puts documents under
+    the one style law while they keep their institution''s house style; R70-23 uses that house style for
+    in-world chapter epigraphs. Read with R70-26-LEARNED_TONGUES_BESIDE_LATIN (style law 2026-10-03):
+    Moto records may carry kanbun readings inside their old register. Extended by R70-67-FORMS_WORLD_DOCUMENTS
+    (style law 2026-10-03): documents gain four named forms (lists and notebooks, records of the strange,
+    court annals and memorials, Guild reference entries), and R70-75-RITE_PAGE sets a rite as a numbered
+    form in the Guild''s house style; the house styles stand. Extended by R70-81-VOICE_READOUT (style
+    law 2026-10-03): an instrument''s readout keeps a clinical house style, and wit goes in the clerk''s
+    or Measurewright''s note.'
 - id: R51-34-DOC_MODERN
   pack: Vocabulary Law 2026-09-26
   pack_number: null
@@ -915,4 +970,5 @@ rules:
   source:
     file: ''
     lines: null
-  notes: ''
+  notes: 'Unchanged by R70-34-REAL_LANGUAGE_SWEARS_NARRATION (style law 2026-10-03): the WOTR-invented
+    sets stand beside real Eastern swears.'

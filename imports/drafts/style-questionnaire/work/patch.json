@@ -1,0 +1,553 @@
+{
+ "lede": "You asked to change how WOTR is written: prose that truly mixes Western fantasy with Chinese, Japanese and Korean writing, cultivation and web fiction included; description that ranges over a wide variety of things; and, in your follow-up, WOTR written like a LitRPG, with levels and readouts on the page. These 138 questions turn that into a new style law, each with a recommendation and, where the prose is at stake, samples to compare. Answer the Keystones first: every later section leans on them.",
+ "section_order": [
+  "K",
+  "VO",
+  "SP",
+  "RH",
+  "VB",
+  "IN",
+  "DS",
+  "DD",
+  "DT",
+  "MY",
+  "LR",
+  "CB",
+  "DL",
+  "HU",
+  "NE",
+  "NM",
+  "XS",
+  "ME"
+ ],
+ "drop": [],
+ "add": [
+  {
+   "section_key": "DS",
+   "after_id": "DS8",
+   "question": {
+    "id": "DS12",
+    "title": "Money, price and provenance",
+    "question": "When money changes hands or a notable object is handled, what of its price, grade and history reaches the prose?",
+    "context": "R53-17 keeps money before magic and R53-07 has scenes quote the approved price table, yet the archive seldom prices or traces a thing. LR17 asks the set-off item card; this asks the prose. Balzac and Dickens put a price on everything; cultivation novels stage an appraisal; Japanese tea-ware records a famous bowl's owners. Tick none to keep current practice: objects carry what the POV notices.",
+    "options": [
+     {
+      "key": "A",
+      "label": "Price whenever money moves",
+      "consequence": "Every purchase, wage, fee and bribe on the page names its sum in the culture's money, quoted from the approved price table; north of the arrays, payment in kind is named as exactly.",
+      "sample": "The dealer laid the sword on a fold of green baize. Five gold, he said. The courier had paid eighteen for the horse tied outside and did the sum before he could stop himself: better than a quarter of a horse, for a blade. A trooper's sabre on the rack behind was ticketed at eight silver. North of the arrays nobody would take his gold at all; up there it was salt, a bar to the silver mark and more in a hard winter. He counted out five. He kept his face still."
+     },
+     {
+      "key": "B",
+      "label": "Appraisal by a trained eye",
+      "consequence": "A dealer, smith or Measurewright reads grade, maker and age aloud in his trade's words, cultivation's appraisal scene in prose; the POV follows only as far as his own eye. Serves LR17's C.",
+      "sample": "The dealer turned the blade to the lamp so the courier could see the stamp at the ricasso, the Hallenfeld proof-house's mark struck once and clean. \"Proofed,\" he said. \"Probatum. Stannvaard steel, by the grain in the flat, and the edge never reground, so whoever carried it never had to lean on it.\" He sighted down the spine with one eye shut. \"Forty years old, near enough. The cord is new.\" The courier could see the stamp. Everything else the man saw stayed in the man."
+     },
+     {
+      "key": "C",
+      "label": "Its life and lineage",
+      "consequence": "A notable object is described through who made, carried, mended and died with it, the way a famous tea bowl keeps its line of owners; Tier and price stay off unless asked.",
+      "sample": "The sword had passed through three pairs of hands before it reached the dealer's baize. A captain of the Hallenfeld road had it made, and his initials were still on the pommel, half worn away by a palm. His son had it reground after a bad notch, and the new bevel caught the lamp a shade brighter than the old one near the guard. The third man rewound the grip in black cord and died of the Thin Weeks with it on his hip. The courier drew it a few inches and felt all three of them in the balance."
+     }
+    ],
+    "recommended": "A,C",
+    "rec_reason": "Money before magic gets its figure every time coin moves, which costs a clause, and lineage gives notable objects the history a card cannot carry. Appraisal already has its forms in LR8 and LR17; B stays the prose route if LR17 goes to C.",
+    "multi": true,
+    "depends_on": [],
+    "rules_touched": [
+     "R53-17-THE_BILL",
+     "R53-07-PRICE_TABLE",
+     "R46-2-NINE_ITEM_TIERS_NAMED"
+    ]
+   }
+  },
+  {
+   "section_key": "DT",
+   "after_id": "DT8",
+   "question": {
+    "id": "DT9",
+    "title": "Forms for in-world documents",
+    "question": "Which document forms join the institutional house styles as named tools?",
+    "context": "R51-33 gives each institution a house style (Accord chancery Latinate, Dawi Tally terse, Moto records in the old register). RH5 asks epigraphs, MY7 rites and LR readouts; this asks the forms. Eastern writing offers the Pillow Book's lists (a Japanese court lady's notebook, around 1000) and zhiguai (Chinese records of the strange, closed by the recorder's comment); LitRPG offers the bestiary entry. Tick none to keep current law.",
+    "options": [
+     {
+      "key": "A",
+      "label": "Lists and loose notebooks",
+      "consequence": "A document may be a list or loose notebook in the Pillow Book manner, a culture's eye compressed into entries; it moves no plot and packs world-only detail. Suits the Moto and Eresse courts.",
+      "sample": "> From the notebook a lady of the Kōkan household kept at the Seat:\n> Things colder than the cold. A Shirogane envoy's bow, held one breath too long. The night-stone, the morning after the fire was let die on purpose. A clansman's eyes fixed on one's sash, as they are taught, so that one is spoken to like a doorpost. Ink frozen in the stone while one was choosing a word."
+     },
+     {
+      "key": "B",
+      "label": "Records of the strange",
+      "consequence": "A document may set down a strange event as plain witness and close on the recorder's own comment, the zhiguai form; folk belief stays uncorrected (R53-15). Suits Guild archives, Well reports and the lineage halls.",
+      "sample": "> At the sealing station below the Seat, in the Thin Weeks, a boy went under the ice after a dropped harpoon and came up with the current's hum in him. For nine nights the dogs would not lie on his side of the tent. On the tenth the station gauge stood off its mark at noon with nothing drawing on the line, and came back at dusk.\n> The recorder says: I have seen the gauge. What the dogs knew I do not know, and I have entered nothing against it."
+     },
+     {
+      "key": "C",
+      "label": "Court annals and memorials",
+      "consequence": "A day-record by a court recorder the ruler may not read, as Joseon Korea kept its annals, or a memorial (a set-form petition to the throne). Suits the Mahuo houses and the Moto court.",
+      "sample": "> Day-record of the Mahuo house. Third day of the thaw. The head of the house rode to the north gate and was thrown at the ford. Rising, he said to those near him: let the recorder not write this. The recorder writes it.\n> Fourth day. Rain. The head of the house asked to see the record of the third day and was refused, as the custom is."
+     },
+     {
+      "key": "D",
+      "label": "Game-reference entries",
+      "consequence": "Bestiary entries, registry sheets and item ledgers in a Guild hand, LitRPG's reference pages made institutional, each figure traced to canon (R12-5, R57-07). Suits the Guild, the wardens and the proof-houses.",
+      "sample": "> CULVERT SPAWN. Guild bestiary, Seat copy.\n> Found: below the district mains, in standing water.\n> Danger: read it on the coil before engaging; unread, treat it as above your Stage.\n> Tell: the water changes its note before it moves.\n> Counter: drain the culvert. It has not been seen to cross dry brick.\n> Entered by the Seat's well-wardens. Seen alive by the enterer: once."
+     }
+    ],
+    "recommended": "A,B,C,D",
+    "rec_reason": "Each gives one strand or one court a document of its own, documents are where form already runs free (R20C-37), and the list and the bestiary carry wide description in bulk without slowing a scene.",
+    "multi": true,
+    "depends_on": [
+     "K1"
+    ],
+    "rules_touched": [
+     "R51-33-DOC_REGISTER",
+     "R12-4-VOICE_FOUR_DOCUMENT",
+     "R20C-37-DOCUMENTS_OWE_NOTHING",
+     "R57-07-DOCUMENTS_FULLY_METAPHYSICAL"
+    ]
+   }
+  },
+  {
+   "section_key": "MY",
+   "after_id": "MY6",
+   "question": {
+    "id": "MY9",
+    "title": "How a technique's name looks",
+    "question": "Which naming forms may a technique, Trait or title take on the page beyond the current naming law?",
+    "context": "R50-10 gives houses with a register true names and common-tongue fighters plain English, R50-11 caps new English names at two words, and R8-23 runs art, technique, then form. Calling a name aloud is settled (R8-24, R50-09). Wuxia (Chinese martial-hero fiction) gives forms long poetic names, Demon Slayer (a Japanese sword manga) numbers them, and The Wandering Inn brackets skills. Tick none to keep current law.",
+    "options": [
+     {
+      "key": "A",
+      "label": "Numbered forms by school",
+      "consequence": "A school's art may run as numbered forms (First Form, Second Form), each named, called and counted; mastery reads as forms held, a ladder inside the art at R8-23's form level.",
+      "sample": "The Sum-gol woman came off the line low and fast. \"Second Form,\" she told her own hands, the way her school says it, and slid off the bind under the Shirogane man's guard. He gave ground. At three paces she set her feet. \"Third.\" Frost cracked up his blade from point to guard, and his fingers opened on the grip. She held three Forms of Bingnyeol, and her master held seven, and the Third was the one that paid."
+     },
+     {
+      "key": "B",
+      "label": "Long names for the halls",
+      "consequence": "Lineage-hall and Korean-stratum arts may carry a four-syllable true name in correct Chinese or Korean, glossed literally (R8-22); R50-11's two-word cap binds new English names only.",
+      "sample": "The old man from the Shen hall did not draw. He lifted his empty right hand, palm down, and let it fall the width of a finger, and the four syllables came out of him like a price read off a slate: Xue Ya Cang Song. Snow Presses Green Pine. The Shirogane man's blade went down with the hand under a weight nobody could see, and his wrists followed it, and then his knees."
+     },
+     {
+      "key": "C",
+      "label": "Brackets inside sentences",
+      "consequence": "Technique, Trait and title names sit in square brackets wherever narration names them, The Wandering Inn's habit; codex_check learns to skip them, and the page reads most like a game.",
+      "sample": "The Sum-gol woman came off the line low and fast and took the bind, and at three paces she set her feet and gave him [Ice-Crack]. Frost ran up his blade from point to guard. His fingers opened. She had held [Ice-Crack] for two winters and [Thaw-Step] for one, and her master said [Long Thaw] was in her too, if she would stop flinching from it."
+     }
+    ],
+    "recommended": "A,B",
+    "rec_reason": "Numbered forms put the LitRPG ladder and the shōnen count inside an art WOTR already names down to the form, and long hall names give the Chinese and Korean strata their poetry. K6's Wandering Inn stands for the level-up as verdict; brackets in running sentences would make a Victorian page read like a log, and LR3 already sets readouts apart.",
+    "multi": true,
+    "depends_on": [
+     "K1"
+    ],
+    "rules_touched": [
+     "R50-10-NAME_STYLE",
+     "R50-11-LONG_NAMES",
+     "R8-23-NAME_HIERARCHY",
+     "R8-22-LITERAL_GLOSS",
+     "R49-48-TECH_NAMES"
+    ]
+   }
+  },
+  {
+   "section_key": "LR",
+   "after_id": "LR1",
+   "question": {
+    "id": "LR22",
+    "title": "Where a screen comes from",
+    "question": "If practitioners see their own readouts (K2's D), what in the world shows them the lines?",
+    "context": "K2's D leaves the source to this section; LR1 sets instruments and LR2 who reads another. Canon's Apprentice's Primer calls a practitioner's numbers 'the Continuum's honest assessment' but never says how he reads them. Korean System novels (web fiction where a game-like System messages the hero) give an inner screen; The Wandering Inn's levels arrive as a voice in sleep.",
+    "options": [
+     {
+      "key": "A",
+      "label": "Read in the Crystal",
+      "consequence": "The bearer reads his own Soul Crystal as plain, voiceless lines at thresholds: his own sheet only, exact, and blind to wounds and to others. Small new canon; instruments still read everyone else.",
+      "sample": "Yoko woke in the dark before the fires were lit with the reading already standing behind her breastbone, in no voice at all, plain as a tally cut in wood.\n\n[Harmonics 345. Grade A. Past the instability line.]\n\nIt said nothing about the cut on her forearm, which had opened in the night and glued her sleeve to the blanket. The Crystal kept its own count and nobody else's. She lay still until the line faded, then peeled the sleeve free."
+     },
+     {
+      "key": "B",
+      "label": "The Continuum speaks",
+      "consequence": "The Continuum sets lines in a practitioner's mind at thresholds, the System novel made cosmology. It never lies, so Table Rule 8's lies come from people and instruments; LR18's and LR19's C become possible.",
+      "sample": "Yoko woke in the dark before the fires were lit, and something was already speaking in the place behind her breastbone where nothing had spoken before. It used no voice she knew. The lines arrived whole, the way a smell arrives.\n\n[The Continuum enters: Harmonics 345. Grade A. Past the instability line.]\n\nShe lay still and let it finish. It had never lied to anyone, the Primer said, and it did not ask whether she was ready. Her tail had wound itself twice round her ankle in her sleep, and she unwound it before anyone could see."
+     },
+     {
+      "key": "C",
+      "label": "Opened by Guild registry",
+      "consequence": "The screen opens at a practitioner's first Guild registry, the coil tuning him to his own sheet; the unregistered have none. The Guild becomes the System, and a struck registry could close it.",
+      "sample": "The registry coil had tuned her to her own sheet on the day the Guild entered her name, and the clerk had warned her it would come at thresholds and never between. It came now, in the dark before the fires were lit.\n\n[Registry, Seat copy. Mishiro, Y. Harmonics 345. Grade A. Past the instability line.]\n\nEven behind her breastbone it kept the Guild's order of fields. Somewhere in the Seat a ledger agreed with her. She lay still until it faded."
+     },
+     {
+      "key": "D",
+      "label": "For the reader only",
+      "consequence": "Set-off readouts with no in-world source: nobody in the story sees them, and narration never mentions the box. No new canon; characters still learn their figures from instruments.",
+      "sample": "Yoko came down to the kitchen with her ears flat and her tail held close, and took a bowl of broth from Brida without a word. The fox-fire had gone out of her hands in the night and left the room too loud: the kettle's tick, the dog on the flags, the woodpile settling against the outer wall.\n\n> MISHIRO, Y. · Harmonics 345 · Grade A · past the instability line\n\nBrida ladled the second bowl and watched the hands."
+     }
+    ],
+    "recommended": "A",
+    "rec_reason": "It gives the genre's private screen without a speaking System or new cosmology, keeps every figure in the Crystal that FOW already measures, and leaves instruments their work: reading others, wounds and anyone who lies about himself. A figure canon lacks reads as an estimate there, as on a tape (LR21).",
+    "multi": false,
+    "depends_on": [
+     "K2"
+    ],
+    "rules_touched": [
+     "R49-52-MEASURES",
+     "R52-05-COUNTING",
+     "R12-5-NEVER_INVENT_NUMBER"
+    ]
+   }
+  },
+  {
+   "section_key": "LR",
+   "after_id": "LR13",
+   "question": {
+    "id": "LR23",
+    "title": "A breakthrough on the page",
+    "question": "When a practitioner crosses into a new Stage, how is the crossing itself written?",
+    "context": "FOW raises Stage only by Catalyst (Welling's is 'first genuine contact with a Wellspring current under personal pressure'), and R9-3 gives the crossing the display register: eyes first, the body under load, one splash-panel beat (a comic's full-page image). Cultivation novels give a breakthrough a whole scene, sometimes a heavenly tribulation (heaven's lightning sent against the climber). LR14 asks how the new Stage is then confirmed.",
+    "options": [
+     {
+      "key": "A",
+      "label": "One display beat (current)",
+      "consequence": "R9-3 stands: the crossing is one beat inside a larger scene, eyes first, body under load, the cost after. It never gets a scene of its own.",
+      "sample": "They had him half out of the hole when it came on him, and the men on the rope saw it first: light behind his eyes, taking the iris and then the white, so that the nearest of them let go of his collar. Every tendon in Qanik's neck stood out. Something in his chest gave, cleanly, a seam letting out under load. Then he was flat on the ice with blood running from his nose, and Welling was in him, and the rest of the morning was rope and cold."
+     },
+     {
+      "key": "B",
+      "label": "Cultivation set piece",
+      "consequence": "The crossing gets its own scene in stages: the plateau, the Catalyst worked through, the body remade sense by sense, the Stage named, the price. Once per character per arc.",
+      "sample": "For nine days after the lake the current he had touched would not leave him and would not finish. It sat under his breastbone like a held note. On the tenth Qanik went out alone to the hole they had cut for him and sat on the ice beside it with his hands bare, and let it run where it wanted, which was down every fear he owned, the drowning first. By noon his sweat had frozen on him in a crust. By dusk the current under the whole lake was sounding in his teeth, and he knew its name, and his own Stage, and what both had cost."
+     },
+     {
+      "key": "C",
+      "label": "In the crisis, line after",
+      "consequence": "It happens inside the danger that is its Catalyst, written from the body; the line lands as the danger breaks and the Catalyst completes, never mid-exchange (LR11). R9-3's splash beat goes to the crisis.",
+      "sample": "Under the ice the current found him before the cold did. It came in through the soles with a direction to it, and the hum Qanik had lived with since boyhood stopped being noise and pointed up. He followed it. His hands found the edge of the hole by a pull he could not have named, and the men hauled him out blue. On the ice, with a hide-coat round him and seal fat in his mouth, the line came.\n\n[Stage II, Welling. Apprentice.]"
+     },
+     {
+      "key": "D",
+      "label": "The world answers",
+      "consequence": "The crossing is a Mystic-register event the place records: gauges jump, lamps dim, beasts and people react at a distance. WOTR's heavenly tribulation, with R53-17's bill at scale.",
+      "sample": "At the hour Qanik went under, the one Guild gauge at the sealing station jumped off its mark, and the dogs on the lines went flat on their bellies and would not get up. Women came out of the hide tents and stood in the snow looking at the lake, which had done nothing anyone could see. Out on the ice the men on the rope felt it come up the rope into their hands like a fish taking. Then they were hauling, and the boy came up blue with Welling in him, and every blubber lamp in the station had burned down a finger in the time it took."
+     }
+    ],
+    "recommended": "C",
+    "rec_reason": "FOW's Catalysts already happen in danger, so the crossing stays in the body where grimdark wants it, R9-3's one splash beat lands on the crisis, and the line arrives where LR7, LR11 and LR12 put it, with LR14's hall to follow.",
+    "multi": false,
+    "depends_on": [
+     "K2"
+    ],
+    "rules_touched": [
+     "R9-3-SCOPE",
+     "R9-3-EYES_AS_TELL",
+     "R9-3-BODY_UNDER_LOAD",
+     "R53-17-THE_BILL"
+    ]
+   }
+  }
+ ],
+ "rec_changes": [
+  {
+   "id": "SP4",
+   "recommended": "A,B,C,D",
+   "rec_reason": "VO1's recommended B already lets a chapter's closing line look ahead, which is D; with it each strand gets its close: the serial hook, LitRPG's notice, Japanese restraint, and the chapter novel's turn to what comes next."
+  },
+  {
+   "id": "MY1",
+   "recommended": "B",
+   "rec_reason": "It is cultivation's inner map drawn in WOTR's own nouns: the Shell, the Layer and the Core are the map every POV walks. Under VB1's D an Eastern-trained POV names what he feels moving through it in his school's word (gi, ki) while the layers keep their Codex names, so C's lens arrives through VB1 without a second rendering mode."
+  },
+  {
+   "id": "VB1",
+   "recommended": "D",
+   "rec_reason": "The felt inside gets its Eastern words and the measured outside its LitRPG nouns, so both traditions show in one paragraph. The Crystal's layers keep their Codex names as the map MY1's B walks; the loanword names only what moves through them and where it is felt."
+  },
+  {
+   "id": "XS1",
+   "recommended": "A,B,C",
+   "rec_reason": "Image, the held detail and the morning poem each add what the Eastern tradition does best without taking the blunt words away. RH4's few Inventory sound words still reach an explicit scene as they reach any other; D's stacked texture mimetics (the sample's nuru-nuru) read as comic-book effects in English and would undercut the plain register."
+  },
+  {
+   "id": "RH5",
+   "recommended": "A,B",
+   "rec_reason": "The couplet title is the Chinese chapter novel's signature and doubles as the chapter hook; the document epigraph is the Lord of the Mysteries threshold voice WOTR already owns. A verse header beside a couplet title crowds the chapter head, and DT6's closing poem and DL4's exchanges give verse its own places."
+  },
+  {
+   "id": "K7",
+   "recommended": "B",
+   "rec_reason": "The doctrine is the part that blocks the blend, and the tells list mixes real faults with Eastern habits; a new pack can sort them while the checks that catch machine prose carry over, bent only where a later answer names a narrow licence (RH1's set-piece rhythm, VB12's trims)."
+  },
+  {
+   "id": "K8",
+   "recommended": "A",
+   "rec_reason": "Roleplay becomes scenes and scenes become books; one style across all of them means nothing is rewritten on the way up, documents already have their own house styles, and the LR answers scale readouts to a turn's length (LR9, LR20) without a lighter law."
+  },
+  {
+   "id": "DD1",
+   "recommended": "A",
+   "rec_reason": "You ruled lush a week ago and the new ask is width. Widening what lush description covers delivers the blend, and the spare Eastern stroke still reaches the page through one-stroke minor people (DD3) and culture-keyed noticing (DS5)."
+  },
+  {
+   "id": "LR1",
+   "recommended": "B",
+   "rec_reason": "It gives a set-off block a real Victorian object to be and stays inside R53-01, while every instrument reading still passes a Measurewright's hands, so a forged, stale or misread tape stays possible. A practitioner's view of his own sheet is LR22's question."
+  },
+  {
+   "id": "LR2",
+   "recommended": "B",
+   "rec_reason": "It gives the cultivation novel's felt pecking order and the LitRPG pleasure of sizing up a stranger, while another's exact figures stay rare and commoners keep the awe R53-18 asks for. With K2 at D, a practitioner's own exact figures come from LR22's source."
+  },
+  {
+   "id": "LR3",
+   "recommended": "D",
+   "rec_reason": "Inline figures carry the everyday crunch without breaking the Victorian page, and a block set apart only at an event becomes the genre's level-up moment instead of wallpaper. The events are the ones this section and SP4 name: a growth moment (LR7), a re-assay that moves something, an item's card (LR17), a scene's closing notice (SP4) and a chapter's changes (LR20)."
+  },
+  {
+   "id": "LR11",
+   "recommended": "B",
+   "rec_reason": "Grades at the read give a fight its LitRPG sizing-up without running figures the card cannot supply, and R60-01's fights end too fast for a log. Inside a fight this read is LR9's display readout; LR8's reserve line and LR12's number for a cost wait for the finisher or the aftermath. A gauge at the rail (C) still suits sanctioned bouts where one would stand."
+  },
+  {
+   "id": "LR12",
+   "recommended": "B",
+   "rec_reason": "It keeps R48-37's law that the body pays first and still gives the reader the genre's number in the same breath, which R16-3 already asks of mechanism and system term. Inside a fight, LR11 holds the number until the finisher or the aftermath."
+  },
+  {
+   "id": "LR14",
+   "recommended": "C",
+   "rec_reason": "The bearer's own line already lands as the Catalyst completes (LR7's B, LR23), so this asks how the world learns it. Stages move rarely, so each can afford a hall: the cultivation sect's ceremony and the LitRPG reveal at once, through the Reckoner's roll WOTR already keeps, while the crossing itself stays in the body."
+  }
+ ],
+ "intros": {
+  "DT": "How WOTR describes: where its comparisons come from, what colours and season words mean, whether the land may act, how wear, verse, set sayings and in-world documents sit on the page, and which named devices join the kit. What description covers and how much, landscape views, sound words and the held pause are asked in DS, DD, SP and RH.",
+  "MY": "How practice, Pressure, intent, a reveal, a technique's name, a rite and the world's own magic read in prose. Numbers, screens, breakthroughs and levelling belong to LR; the choreography of a fight belongs to CB.",
+  "DL": "How people talk, and how Eastern speech sounds once it is English. The Japonic honorific rule (R51-21) is already law; idiom banks and sayings in narration are DT7's, verse on the page DT6's, and honorifics in narration NE2's. These settle the rest.",
+  "LR": "You asked for WOTR written like a LitRPG (fiction where a game-like system of levels, stats and status screens shows on the page); K2 sets how far, and these questions set the detail. A readout is any set of figures shown on the page, whether a tape, a slate or a screen. Stat words are already free in narration (R49-47, R51-16), so what is left is a readout's source, look, voice and frequency, its place beside the cost in the body, and how a breakthrough reads.",
+  "ME": "How your answers become law: where the rulings live, which general checks verify_scene gains, what happens to the archived scenes, and the order of work. The vocabulary checks are VB13 and the range check is DD7."
+ },
+ "settled_extra": [
+  {
+   "point": "How Draw Age technology looks: the whole Imperial Age span of hardware, rich districts clean and humming, no factory chimneys, the big city Victorian-Edwardian.",
+   "rule_ids": [
+    "R53-01-IMPERIAL_AGE_SPAN",
+    "R53-02-POOR_FIRES",
+    "R53-28-VISUAL_REFERENCE",
+    "R59-07-VICTORIAN_EDWARDIAN_CITY"
+   ],
+   "why_not_asked": "Ruled 2026-09-26 and neutral between the strands, and machinery already runs heavy in the archive. LR1 asks what an instrument can show, VB5 how exactly machines are named, and DS5 and DS6 how each culture's eye and buildings bend the look."
+  },
+  {
+   "point": "Sound and smell in description: each culture's sense bank comes first, technical smell words are free, and land and sea keep their own sense order.",
+   "rule_ids": [
+    "R51-31-SENSE_BANK",
+    "R51-32-SMELL_WORDS",
+    "R3-8-NAVAL_SENSORY_HIERARCHY"
+   ],
+   "why_not_asked": "Ruled, and every strand works inside it. RH4 asks sound words, SP3 widens openings past the house habit of smell first, and DS6's A adds Temperature to the senses entry."
+  },
+  {
+   "point": "Dress is class-layered, each culture bent by its Inventory.",
+   "rule_ids": [
+    "R59-08-CLASS_LAYERED_DRESS"
+   ],
+   "why_not_asked": "Ruled 2026-09-26. DS3's B asks whether dress joins the rotation, DS6's B whether each Inventory gains a dress-by-rank field, and DD3 and DD4 who gets a first-sight inventory and in what order."
+  }
+ ],
+ "notes": "1. Seven group files, not five: group-6 (NM, comic names, 14 questions) landed at 22:18 during this pass and group-7 (VB, vocabulary, 13) also exists; assemble.py globs all of them, so both were read and checked. Final count after this patch: 133 existing plus 5 added, 0 dropped, 138 questions in 18 sections. 2. No drops: no two questions ask the same thing. Overlaps kept on purpose, each scoped by its own context: SP3's D and RH5's B (a document at a scene head and a chapter head); VO2's B, SP3's A and DS9's B (the far-to-near view as sweep, opening and outdoor rule); ME2's D and VB12's A (translated stock in narration, WARN against FAIL); MY1's C and VB1 (cultivation words, reconciled in both rec_reasons); ME2, VB13 and DD7 (three checker questions, each holding its own section). 3. Gaps filled: DS12 money and provenance (two settled rows already pointed at a DS12 that had been dropped); DT9 document forms; MY9 technique-name forms (research-law-new flagged bracket typography and the two-word cap on translated names); LR22 the in-world source of K2's screens (K2 deferred it to LR and LR1 deferred it back to K2); LR23 how a breakthrough is written (dropped by both the MY and LR revisers, each pointing at the other). LR22 and LR23 keep out-of-sequence ids so no reference moves; the assembler places them after LR1 and LR13. 4. The one recommendation value changed is SP4 (A,B,C to A,B,C,D, to match VO1's B). The other thirteen rec_changes keep the value and rewrite the reason so the LR cluster agrees with itself under K2's D: own figures by LR22, fights hold figures to the finisher (LR11 over LR8's D and LR12's B), set-off blocks at named events (LR3 against LR17, LR20 and SP4), the bearer's line at the Catalyst with the hall to follow (LR14 against LR7's B); plus MY1 against VB1, XS1 against RH4, RH5 against DT6, K7 against RH1 and VB12, K8 against LR9 and LR20, DD1 citing DD3 for the spare stroke. 5. text_fixes is an extra key assemble.py ignores: 32 exact old to new string replacements for stale cross-references (DT9 for DT7, DT8 for DT6, LR15, LR18, DS10, NE3, MY2, LR6, LR7, LR12, LR16, LR17, DT11), one settled row that contradicted VB2 (group-4's foreign words), ME2's context (build/verify.py already skips '>' and '|' paragraphs at line 94), LR2's option B wording under K2's D, and a double comma in VB2's B sample. Each old string occurs exactly once in its file. Apply them to the group files before running assemble.py, or the questionnaire will send Isaac to questions that do not exist. 6. Load to know about: at the recommended answers every Standing Inventory gains about a dozen new fields (DS6's four, DS5 notices-first, DT1 images, DT2 colours, DT3 season moods, DT5 what age is prized for, DT7 idioms, RH4 sound words, DL4 verse form, VB4 dial, VB10 words, NM13 comic names). DS6 already says each culture's fields are drafted when it next reaches the page; ME4's order should say so too. 7. If Isaac answers K2 with C instead of D, LR22 lapses, LR14's A and LR12's samples lose their in-head lines, and LR3's set-off events shrink to instruments. 8. NM recommendations are written 'A, B, C' with spaces; the assembler splits on commas with optional spaces, so they check clean.",
+ "text_fixes": [
+  {
+   "file": "group-1.json",
+   "where": "K2 option D consequence",
+   "old": "Where the screens come from in the world is LR's call",
+   "new": "Where the screens come from in the world is LR22's call"
+  },
+  {
+   "file": "group-1.json",
+   "where": "settled: Tense",
+   "old": "The tense of a status block inside past-tense prose is the LR section's question.",
+   "new": "A readout keeps its own form whatever the tense around it (LR3, LR4)."
+  },
+  {
+   "file": "group-2.json",
+   "where": "settled: Prices on the page",
+   "old": "how an item's Tier and worth reach the page is asked in LR18.",
+   "new": "how price, grade and provenance reach the prose is DS12, and the set-off item card is LR17."
+  },
+  {
+   "file": "group-3.json",
+   "where": "DT3 context",
+   "old": "DS7 and SP3 ask whether",
+   "new": "DS6 and SP3 ask whether"
+  },
+  {
+   "file": "group-3.json",
+   "where": "settled: landscape view",
+   "old": "Asked in DS10 (the wide view",
+   "new": "Asked in DS9 (the wide view"
+  },
+  {
+   "file": "group-3.json",
+   "where": "settled: Stage breakthrough",
+   "old": "Asked in LR15.",
+   "new": "Asked in LR23, with LR14 for how the new Stage is confirmed."
+  },
+  {
+   "file": "group-3.json",
+   "where": "settled: appraising an object",
+   "old": "and LR18 (tiers and tooltips).",
+   "new": "and LR17 (the item card)."
+  },
+  {
+   "file": "group-3.json",
+   "where": "settled: technique names spoken aloud",
+   "old": "R8-26-ONE_RELEASE_PER_SCENE is stale and should be marked superseded by R50-09.",
+   "new": "R8-26-ONE_RELEASE_PER_SCENE is stale and should be marked superseded by R50-09. MY9 asks only what form a name takes on the page."
+  },
+  {
+   "file": "group-4.json",
+   "where": "DL3 context",
+   "old": "DT9 decides idiom banks",
+   "new": "DT7 decides idiom banks"
+  },
+  {
+   "file": "group-4.json",
+   "where": "DL4 context",
+   "old": "DT8 decides whether verse reaches the page",
+   "new": "DT6 decides whether verse reaches the page"
+  },
+  {
+   "file": "group-4.json",
+   "where": "DL4 option A consequence",
+   "old": "where DT8 allows",
+   "new": "where DT6 allows"
+  },
+  {
+   "file": "group-4.json",
+   "where": "ME2 context",
+   "old": "It reads a quoted poem as prose and knows",
+   "new": "It already leaves '>' quote blocks and '|' tables out of the rhythm counts but reads verse set any other way (italic lines, verse in speech) as prose, and knows"
+  },
+  {
+   "file": "group-4.json",
+   "where": "settled: damage numbers",
+   "old": "LR12 and LR16 ask them",
+   "new": "LR11 and LR15 ask them"
+  },
+  {
+   "file": "group-4.json",
+   "where": "settled: named attacks",
+   "old": "MY5, MY6 and MY7 ask them, including the stale one-release row R50-09 replaced.",
+   "new": "MY4 and MY5 ask mid-fight explanation and the crowd, MY6 the display beats and MY9 the form a name takes; the named attack itself is settled law (R8-24, R50-09)."
+  },
+  {
+   "file": "group-4.json",
+   "where": "settled: idiom banks",
+   "old": "DT9 and DT8 ask them",
+   "new": "DT7 and DT6 ask them"
+  },
+  {
+   "file": "group-4.json",
+   "where": "settled: mimetic words",
+   "old": "RH4 and DT11 ask it",
+   "new": "RH4 asks it"
+  },
+  {
+   "file": "group-4.json",
+   "where": "settled: foreign words",
+   "old": "Romanised, never italic, macrons kept: this already serves honorifics, idioms and verse in every Eastern register.",
+   "new": "Romanisation and kept macrons already serve every Eastern register; whether a new word is italicised, glossed or listed in a glossary is asked in VB2."
+  },
+  {
+   "file": "group-5.json",
+   "where": "LR1 context",
+   "old": "A screen inside the head is K2's question; this one is about objects.",
+   "new": "A screen inside the head is K2's and LR22's question; this one is about objects."
+  },
+  {
+   "file": "group-5.json",
+   "where": "LR2 option B consequence",
+   "old": "Exact figures still need an instrument;",
+   "new": "Another's exact figures need an instrument;"
+  },
+  {
+   "file": "group-5.json",
+   "where": "LR14 context",
+   "old": "The magic section asks how the crossing itself is written;",
+   "new": "LR23 asks how the crossing itself is written;"
+  },
+  {
+   "file": "group-5.json",
+   "where": "LR17 context",
+   "old": "How objects read in prose is asked in the description and magic sections.",
+   "new": "How price, grade and provenance read in prose is DS12."
+  },
+  {
+   "file": "group-5.json",
+   "where": "LR17 option C consequence",
+   "old": "as the description and magic sections decide",
+   "new": "as DS12 decides"
+  },
+  {
+   "file": "group-5.json",
+   "where": "LR18 option C consequence",
+   "old": "it needs K2's Crystal screens",
+   "new": "it needs K2's D with LR22's B"
+  },
+  {
+   "file": "group-7.json",
+   "where": "VB1 context",
+   "old": "MY2 asks how practice is rendered",
+   "new": "MY1 asks how practice is rendered"
+  },
+  {
+   "file": "group-7.json",
+   "where": "VB7 context",
+   "old": "rung numerals are LR6's",
+   "new": "rung numerals are LR5's"
+  },
+  {
+   "file": "group-7.json",
+   "where": "VB10 context",
+   "old": "DS7 asks the other new fields",
+   "new": "DS6 asks the other new fields"
+  },
+  {
+   "file": "group-7.json",
+   "where": "VB2 option B sample",
+   "old": "a corpse nobody sat with,, and",
+   "new": "a corpse nobody sat with, and"
+  },
+  {
+   "file": "group-7.json",
+   "where": "settled: slang lists",
+   "old": "gamer words are LR17's",
+   "new": "gamer words are LR16's"
+  },
+  {
+   "file": "group-7.json",
+   "where": "settled: stat names in narration",
+   "old": "LR7 asks it; VB7 sets",
+   "new": "LR6 asks it; VB7 sets"
+  },
+  {
+   "file": "group-7.json",
+   "where": "settled: honorifics in narration",
+   "old": "NE3 asks it",
+   "new": "NE2 asks it"
+  },
+  {
+   "file": "group-7.json",
+   "where": "settled: technique names",
+   "old": "how techniques are named belongs to the names sections.",
+   "new": "MY9 asks what form a technique's name takes on the page."
+  },
+  {
+   "file": "group-7.json",
+   "where": "settled: documents",
+   "old": "documents are their own section's matter.",
+   "new": "DT9 asks which further forms join them."
+  }
+ ]
+}

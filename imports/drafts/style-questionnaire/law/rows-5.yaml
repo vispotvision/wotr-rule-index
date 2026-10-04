@@ -1,0 +1,1251 @@
+- id: R70-100-MARTIAL_VOCABULARY_NAMES_MOVES
+  pack: Style Law 2026-10-03
+  pack_number: null
+  section: CB1
+  title: Duel moves named in the POV's own school
+  status: live
+  kind: mandate
+  summary: Narration names every move of a duel in the fencing vocabulary the POV himself trained in (kesa-giri
+    for a Moto POV, Zornhau for a Greymane POV), and a foreign school's term reaches the page only in
+    a character's mouth.
+  verbatim: By the POV's own school. Narration names every move in the POV's own training (a Moto POV
+    calls a diagonal cut kesa-giri, a Greymane POV a Zornhau); a foreign school's word arrives in a mouth.
+    verify takes per-school lists.
+  amends:
+  - guide: WOTR_Combat_Craft_Guide.md
+    locus: HEMA vocabulary and choreography
+    operation: extends
+  - guide: NATALIE.md and the wotr-write skill
+    locus: 'Set pieces: ''HEMA vocabulary as choreography skeleton'''
+    operation: replaces
+  - guide: Manual Verification Guide
+    locus: verify --combat word lists
+    operation: extends
+  supersedes: []
+  applies_to:
+  - prose-law
+  - combat
+  - pov
+  - register
+  verification:
+  - --combat
+  ratified: 'Isaac, 2026-10-03, Claude Code chat: ruled directly (the style questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: Partly amends R48-33-CHOREOGRAPHY ('the move by its fencing name' now means the name in the POV's
+    own school) and R13-6-HEMA_VOCAB (HEMA stays the vocabulary for Western-trained POVs). R13-4-COMBAT_FLOOR
+    and R1-1-BLADE_GRAMMAR stand; the moves they trace are named in the POV's school. Works with R70-74-TECHNIQUE_NAME_LOOKS
+    and R70-136-NEW_CHECKS_VERIFY_SCENE (verify --combat by school).
+- id: R70-101-DECLARING_NAME_LINE_BEFORE
+  pack: Style Law 2026-10-03
+  pack_number: null
+  section: CB2
+  title: A full pre-duel declaration counts as the scene's speech and costs time
+  status: live
+  kind: budget
+  summary: A fighter may declare his full name and line before a duel, but the recital spends the scene's
+    one crafted speech under R48-43, and the opponent may close measure or shoot while it runs.
+  verbatim: 'Full declaration, with a price. Full declarations are legal but count as the scene''s crafted
+    speech under R48-43, and the world does not wait: an opponent may close measure, or shoot, while the
+    recital runs.'
+  amends:
+  - guide: WOTR_Combat_Craft_Guide.md
+    locus: Opening a duel
+    operation: adds
+  - guide: Dialogue Craft Standards
+    locus: Set speeches
+    operation: extends
+  supersedes: []
+  applies_to:
+  - combat
+  - dialogue
+  - adjudication
+  - prose-law
+  verification: []
+  ratified: 'Isaac, 2026-10-03, Claude Code chat: ruled directly (the style questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: R48-43-SPEECHES stands; the declaration counts as its one crafted speech. Read with R60-01-BRUTAL_LETHALITY
+    (most fights end in the first seconds), since the opponent may close or shoot while the recital runs.
+    Works with R70-5-EASTERN_MODELS (the war tales' name-declaration) and R70-111-LONG_FORMAL_SPEECH_CLIPPED.
+- id: R70-102-STILLNESS_TRACED_PASSES_LONG
+  pack: Style Law 2026-10-03
+  pack_number: null
+  section: CB3
+  title: Duel shape follows the combat grammar
+  status: live
+  kind: mandate
+  summary: Write a Verdict duel as stillness then one cut, a Blade duel as traced passes and a Percussion
+    or Expenditure duel as attrition, let practitioners escalate only while their reserve lasts, and keep
+    unranked fighters under R60-01's fast, brutal lethality.
+  verbatim: 'Shape follows the grammar. A rule ties duel shape to the four combat grammars: Verdict still
+    then one cut, Blade traced passes, Percussion and Expenditure by attrition; practitioners escalate
+    while reserve lasts. R60-01 holds for the unranked.'
+  amends:
+  - guide: WOTR_Combat_Craft_Guide.md
+    locus: 'The four grammars: duel shape'
+    operation: adds
+  - guide: WOTR_Scene_Writing_Process_Guide.md
+    locus: 'Sec. 2: escalation'
+    operation: extends
+  supersedes: []
+  applies_to:
+  - combat
+  - adjudication
+  - scene-structure
+  - prose-law
+  verification: []
+  ratified: 'Isaac, 2026-10-03, Claude Code chat: ruled directly (the style questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: 'Partly amends R48-33-CHOREOGRAPHY: ''every exchange traced'' now runs inside the shape each
+    grammar sets (R1-1-VERDICT_GRAMMAR still then one cut). Re-rules one R5-B-MANHWA_DIRECTIVE_REPEALED
+    tell for practitioners only: escalation inside a duel is legal while reserve lasts, and R60-03-HARD_RESERVE_CLOCK
+    ends it. R60-01-BRUTAL_LETHALITY holds for the unranked; R13-4-DENSITY_BUDGET stands. Works with R70-57-DESCRIPTION_INSIDE_FIGHT
+    and R70-15-TEMPO_STILLNESS.'
+- id: R70-103-MEMORY_INSIDE_FIGHT
+  pack: Style Law 2026-10-03
+  pack_number: null
+  section: CB4
+  title: One full flashback per fight, the POV's own
+  status: live
+  kind: budget
+  summary: Once per fight the POV may freeze one turning exchange for a full flashback of his own, a page
+    or more, and the opponent's past reaches the page only through what the POV knows.
+  verbatim: Full flashback, POV only. The POV may take a full flashback, a page or more, frozen inside
+    one turning exchange, once per fight. The POV lock holds; the opponent's past reaches the page only
+    through what the POV knows.
+  amends:
+  - guide: WOTR_Combat_Craft_Guide.md
+    locus: Interiority inside a fight
+    operation: adds
+  supersedes: []
+  applies_to:
+  - combat
+  - pov
+  - prose-law
+  - scene-structure
+  verification: []
+  ratified: 'Isaac, 2026-10-03, Claude Code chat: ruled directly (the style questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: 'Places R49-06-MEMORIES inside a fight: once per fight, at one turning exchange. R48-40-NPC_THOUGHTS
+    and the POV lock stand, so no flashback runs inside the opponent. Never chosen for Isaac''s PC unless
+    his play takes it there (R49-01-WHOSE_HEAD).'
+- id: R70-104-RIVAL_BOND
+  pack: Style Law 2026-10-03
+  pack_number: null
+  section: CB5
+  title: A rival recurs only by a mercy paid for on the Ledger
+  status: live
+  kind: mandate
+  summary: A rival may come back fight after fight, but every survival must be a choice someone made and
+    paid for on the Ledger with a debt, a scar or a witness to the mercy.
+  verbatim: 'Rivals who chose to spare. A rival may recur, but each survival is a choice someone made
+    and paid for on the Ledger: a debt, a scar, a witness to the mercy. R48-31 stands.'
+  amends:
+  - guide: NATALIE.md and the wotr-write skill
+    locus: 'Table rule 7: the ledger'
+    operation: extends
+  supersedes: []
+  applies_to:
+  - combat
+  - adjudication
+  - session-protocol
+  verification: []
+  ratified: 'Isaac, 2026-10-03, Claude Code chat: ruled directly (the style questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: 'R48-31-STAKES stands: death stays possible in every fight. When Isaac''s PC is the one sparing
+    or spared, the choice is his (R49-01-WHOSE_HEAD).'
+- id: R70-105-JOINS_WOUND_WHEN_FIGHT
+  pack: Style Law 2026-10-03
+  pack_number: null
+  section: CB6
+  title: Killing rites and the elegiac image, by culture
+  status: live
+  kind: mandate
+  summary: After a death by the blade, add the killing rites when the killer is Japonic, Korean or Chinese
+    and an elegiac image when the POV's culture mourns that way, on top of the full clinical floor.
+  verbatim: 'Rites and image, by culture. Both, keyed to culture: Japonic, Korean and Chinese killers
+    carry the rites; the elegiac image belongs to any POV whose culture mourns that way. The clinical
+    floor holds everywhere.'
+  amends:
+  - guide: WOTR_Combat_Craft_Guide.md
+    locus: Aftermath of a kill
+    operation: extends
+  supersedes: []
+  applies_to:
+  - combat
+  - prose-law
+  - standing-inventory
+  - pov
+  verification: []
+  ratified: 'Isaac, 2026-10-03, Claude Code chat: ruled directly (the style questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: R48-34-WOUNDS and R48-38-AFTERMATH stand ('The clinical floor holds everywhere'). R5-C2-ELEGY_CONCRETE_THING
+    still applies to the elegiac image. The rites follow the killer's culture; the image follows the POV's.
+- id: R70-106-BATTLE_TOLD
+  pack: Style Law 2026-10-03
+  pack_number: null
+  section: CB7
+  title: Battles cut between the commander's hill and the man in the press
+  status: live
+  kind: mandate
+  summary: Tell a formation battle in POV-locked sections that cut, at marked breaks, between a commander
+    on the hill and one man in the press, with R1-3's three heads covering both.
+  verbatim: Hill and ditch, cut. A battle cuts between the commander's hill and one man in the press at
+    marked breaks, each section POV-locked; the breaks stand in for the guide's rule to 'pass through
+    Line'. R1-3's three heads cover both.
+  amends:
+  - guide: Mass Combat Craft Guide
+    locus: The rule to 'pass through Line'
+    operation: replaces
+  supersedes: []
+  applies_to:
+  - mass-combat
+  - pov
+  - scene-structure
+  - prose-law
+  verification: []
+  ratified: 'Isaac, 2026-10-03, Claude Code chat: ruled directly (the style questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: R1-3-NAME_THREE_RULE stands across both vantage points. The guide's 'pass through Line' rule
+    has no row of its own in the index; the marked breaks replace it in the Mass Combat Craft Guide. Works
+    with R70-11-WIDE_VIEW, whose marked roll call is exempt from the three heads.
+- id: R70-107-SPEECH_LEVELS_ADDRESS_KOREAN
+  pack: Style Law 2026-10-03
+  pack_number: null
+  section: DL1
+  title: Korean and Chinese address words, and level shifts as events
+  status: live
+  kind: mandate
+  summary: Korean speakers use their own address words (-ssi, -nim, sunbae) and Chinese speakers theirs
+    (shifu, shixiong, qianbei), romanised and never italic, and any shift in speech level is written as
+    an event the room hears.
+  verbatim: 'Native words and level shifts. Native address words as in B, and level shifts written as
+    events as in C. R23-10-CHINESE_PHONOTACTICS still bars stacked honorifics inside names. (Option B
+    there reads: Native address words. R51-21 extends: Korean speakers use their own address words (-ssi,
+    polite; -nim, honoured; sunbae), Chinese theirs (shifu, shixiong, qianbei, an elder of another school),
+    romanised and never italic.) (Option C there reads: Levels carried in English. No foreign address
+    words beyond the Japonic houses; speech levels live in English grammar (bare orders against full courteous
+    forms), and a shift of level is written as an event the room hears.)'
+  amends:
+  - guide: Dialogue Craft Standards
+    locus: Address and rank
+    operation: extends
+  supersedes: []
+  applies_to:
+  - dialogue
+  - register
+  - naming
+  verification: []
+  ratified: 'Isaac, 2026-10-03, Claude Code chat: ruled directly (the style questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: Extends R51-21-MOTO_WORDS to the Korean and Chinese strata in speech; R20-5-FORMAL_ADDRESS stands.
+    R23-10-CHINESE_PHONOTACTICS still bars stacked honorifics inside names (R70-117-SOBRIQUETS_HALL_TITLES
+    lifts its bans for titles only). Address forms enter each Inventory's Words entry (R70-33-WORD_BANK_PER_CULTURE).
+    ME2 did not take an address check.
+- id: R70-108-EASTERN_REGISTER_SPEECH_SOUNDS
+  pack: Style Law 2026-10-03
+  pack_number: null
+  section: DL2
+  title: Natural English day to day, translated forms at ceremony
+  status: live
+  kind: mandate
+  summary: Chinese and Korean speakers talk natural English in daily speech and shift into translated
+    forms (humble self-reference, set formulas, word-for-word idioms) only at ceremony, challenge, oath,
+    court and insult, where the shift itself is a beat.
+  verbatim: Translated forms for ceremony. Natural English in daily talk; the translated forms (self-reference,
+    set formulas, idioms word for word) come out at ceremony, challenge, oath, court and insult, where
+    the shift into them is itself a beat.
+  amends:
+  - guide: Dialogue Craft Standards
+    locus: Eastern-register speech
+    operation: adds
+  supersedes: []
+  applies_to:
+  - dialogue
+  - register
+  verification:
+  - 'verify: stock-formula watch'
+  ratified: 'Isaac, 2026-10-03, Claude Code chat: ruled directly (the style questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: R52-02-VOICE_LEVER stands, R52-03-VOICE_BLOCK is unchanged and R15-1-RACIAL_VOICE_MENU stays
+    a menu. R70-136-NEW_CHECKS_VERIFY_SCENE WARNs on the stock formulas in narration and logs an info
+    line in speech; R70-35-HARD_BAN_LIST bans cultivation-translation stock in narration.
+- id: R70-109-PROVERBS_SPEECH
+  pack: Style Law 2026-10-03
+  pack_number: null
+  section: DL3
+  title: Proverb duels belong to elders and court speakers
+  status: live
+  kind: mandate
+  summary: Elders, headmen and court speakers carry several fixed sayings and may argue in them at bargain,
+    quarrel and council, a saying answered by a saying, while the young speak plain and a youth who quotes
+    above his years is put down for it.
+  verbatim: 'Duels, by age and standing. B, keyed to standing: elders, headmen and court speakers argue
+    in sayings; the young speak plain, and a youth who quotes above his years is put down for it. (Option
+    B there reads: Proverb duels. NPCs carry several fixed sayings and may argue in them at bargain, quarrel
+    and council, a saying answered by a saying. R52-30''s ''one'' becomes ''several''.)'
+  amends:
+  - guide: Character cards, NATALIE.md and the wotr-npc skill
+    locus: NPC fixed saying
+    operation: extends
+  - guide: Dialogue Craft Standards
+    locus: Proverbs in speech
+    operation: adds
+  supersedes: []
+  applies_to:
+  - dialogue
+  - standing-inventory
+  - register
+  verification: []
+  ratified: 'Isaac, 2026-10-03, Claude Code chat: ruled directly (the style questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: 'Partly amends R52-30-PROVERBS: its ''one'' becomes ''several'', keyed to age and standing; the
+    sayings still come from the Standing Inventory. Works with R70-65-SET_IDIOMS_NARRATION.'
+- id: R70-110-VERSE_EXCHANGED_TALK
+  pack: Style Law 2026-10-03
+  pack_number: null
+  section: DL4
+  title: Verse traded as talk, each culture in its own form
+  status: live
+  kind: mandate
+  summary: At rites and in court the Moto court, Eresse, the Mahuo houses and the lineage halls may offer
+    and answer verse, a weak or plain answer costing face; Northern English and Norse-register speakers
+    may trade alliterative insult verse (flyting); each culture's verse form is entered in its Inventory.
+  verbatim: 'Each culture its own contest. B, plus the north''s own form: Northern English and Norse-register
+    speakers may answer in alliterative insult verse (flyting). Each culture''s verse form is entered
+    in its Inventory. (Option B there reads: Courtly cultures trade verse. The Moto court, Eresse, the
+    Mahuo houses and the lineage halls may offer and answer verse at rites and in court; a weak answer,
+    or a plain one, costs face.)'
+  amends:
+  - guide: Standing Inventories, NATALIE.md and the wotr-write skill
+    locus: Verse form per culture
+    operation: adds
+  - guide: Dialogue Craft Standards
+    locus: Verse in talk
+    operation: adds
+  supersedes: []
+  applies_to:
+  - dialogue
+  - standing-inventory
+  - register
+  verification:
+  - 'verify: verse marker'
+  ratified: 'Isaac, 2026-10-03, Claude Code chat: ruled directly (the style questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: R51-28-CHANT_PAGE stands for chants. verify leaves a marked verse block out of its rhythm statistics
+    (R70-136-NEW_CHECKS_VERIFY_SCENE), so the checker does not count traded verse toward R4-14-RUN_RULE's
+    runs. Works with R70-64-VERSE_INSIDE_PROSE, which sets where verse reaches the page.
+- id: R70-111-LONG_FORMAL_SPEECH_CLIPPED
+  pack: Style Law 2026-10-03
+  pack_number: null
+  section: DL5
+  title: Long formal speech at court, short speech elsewhere
+  status: live
+  kind: mandate
+  summary: Court cultures (the Moto court, the Accord chancery, the Mahuo houses, the lineage halls) argue
+    in long formal speeches at court as their normal register, Kharven, saga and soldier speech stays
+    short, and R48-43's one-speech cap holds everywhere outside court.
+  verbatim: Long speech at court. Court cultures (the Moto court, the Accord chancery, the Mahuo houses,
+    the lineage halls) argue in long formal speeches as their normal register; Kharven, saga and soldier
+    speech stay short. R48-43's cap holds outside court.
+  amends:
+  - guide: Dialogue Craft Standards
+    locus: Speech length
+    operation: extends
+  supersedes: []
+  applies_to:
+  - dialogue
+  - register
+  - scene-structure
+  verification: []
+  ratified: 'Isaac, 2026-10-03, Claude Code chat: ruled directly (the style questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: 'Partly amends R48-43-SPEECHES: its cap holds outside court. R19-4-REALISTIC_SPEECH stands beside
+    it. Works with R70-101-DECLARING_NAME_LINE_BEFORE, under which a duel declaration counts as the crafted
+    speech.'
+- id: R70-112-FACE_FACE_SLAP
+  pack: Style Law 2026-10-03
+  pack_number: null
+  section: DL6
+  title: The face-slap, with a bill
+  status: live
+  kind: mandate
+  summary: An arrogant scion may underestimate and be reversed in public while the room reassesses, but
+    every such reversal opens a Front or a Ledger debt (a vengeful house, a witness, a feud), and the
+    humbled man stays veteran-clever afterward.
+  verbatim: 'The face-slap, with a bill. C, with a bill: every public reversal opens a Front or a Ledger
+    debt (a vengeful house, a witness, a feud), and the humbled man stays veteran-clever afterward. (Option
+    C there reads: The face-slap licensed. The face-slap becomes a legal payoff: an arrogant scion underestimates,
+    the reversal is public, the room reassesses. R5-C1-WELL_REASONED_WRONG_CONCLUSION and R48-36 relax
+    for the arrogant, who may misjudge badly.)'
+  amends:
+  - guide: NATALIE.md and the wotr-write skill
+    locus: 'Table rules 3, 4 and 7: NPC agency, Fronts, the ledger'
+    operation: extends
+  - guide: Character cards, NATALIE.md and the wotr-npc skill
+    locus: NPC wits
+    operation: extends
+  supersedes: []
+  applies_to:
+  - dialogue
+  - adjudication
+  - session-protocol
+  - scene-structure
+  verification: []
+  ratified: 'Isaac, 2026-10-03, Claude Code chat: ruled directly (the style questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: Relaxes R48-36-NPC_WITS and R5-C1-WELL_REASONED_WRONG_CONCLUSION for the arrogant before the
+    reversal only; R12-4-VOICE_THREE_OPPONENT stands. Names no R5-B or R5-G tell; the room's reassessment
+    is where it meets the reaction-shot tell, which R70-72-WATCHING_CROWD_POWER_REVEAL strikes for crowds.
+    Where Isaac's PC reverses or is reversed, his play decides (R49-01-WHOSE_HEAD).
+- id: R70-113-DOUBLE_ACT_COMIC_BEAT
+  pack: Style Law 2026-10-03
+  pack_number: null
+  section: HU1
+  title: Full comic beats for carded comic voices and double acts
+  status: live
+  kind: mandate
+  summary: Comic voices and double acts named as such on their cards may play full comic beats, retort
+    and reaction included, while every other character stays under R5-D's bar on the setup, deadpan and
+    reaction rhythm.
+  verbatim: Full beats for comic voices. Full comic beats, retort and reaction included, belong to comic
+    voices and double acts named on their cards; everyone else stays under R5-D.
+  amends:
+  - guide: Character cards, NATALIE.md and the wotr-npc skill
+    locus: Comic voice and double-act field
+    operation: adds
+  - guide: WOTR_AI_Writing_Tells_to_Avoid.md
+    locus: Comedic beat structure tell
+    operation: extends
+  supersedes: []
+  applies_to:
+  - prose-law
+  - dialogue
+  - character-sheet
+  verification: []
+  ratified: 'Isaac, 2026-10-03, Claude Code chat: ruled directly (the style questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: R5-D-HUMOUR_BARRED stands for everyone not carded as a comic voice. Re-rules the comedic-beat
+    tell of R5-G-TELL_BANK_ADDITIONS for carded comic voices and double acts only. Relaxes R52-31-COMIC_NPC's
+    'no setup-deadpan-reaction beat' for comic NPCs whose card names them a comic voice. Isaac's PC is
+    never written into a beat (R49-01-WHOSE_HEAD), so R52-14-SODOKU_JOKE stands and the Yoko-against-Sodoku
+    foil (R5-B-YOKO_SODOKU_SURVIVES) does not become a double act under this row.
+- id: R70-114-GRIMDARK_WARMTH
+  pack: Style Law 2026-10-03
+  pack_number: null
+  section: HU2
+  title: Each live thread carries an openly warm bond
+  status: live
+  kind: mandate
+  summary: Every live thread carries at least one standing warm bond (found family, master and disciple,
+    sworn kin) written openly warm, joy may get scenes of its own, and losses still cost.
+  verbatim: Warmth as counterweight. Each live thread carries at least one standing warm bond (found family,
+    master and disciple, sworn kin) written openly warm, and joy may get scenes of its own. Losses still
+    cost.
+  amends:
+  - guide: NATALIE.md and the wotr-write skill
+    locus: 'Prose Standards: Grimdark'
+    operation: extends
+  supersedes: []
+  applies_to:
+  - prose-law
+  - scene-structure
+  - session-protocol
+  verification: []
+  ratified: 'Isaac, 2026-10-03, Claude Code chat: ruled directly (the style questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: Bears on R11-1-TONAL_SPINE_UNCHANGED and R5-A-FLESH_CHANGES, whose status R70-1-BLEND_MODEL and
+    R70-7-FAR_MOVE set. NATALIE.md's 'Hope is small and hard-won' gains the counterweight; victories still
+    cost. A bond that involves Isaac's PC is his to play (R49-01-WHOSE_HEAD).
+- id: R70-115-TEARS_SENTIMENT
+  pack: Style Law 2026-10-03
+  pack_number: null
+  section: HU3
+  title: The delayed break at a small thing
+  status: live
+  kind: budget
+  summary: A guarded character's restraint holds through the big moment and gives way fully and openly
+    at a small, unexpected thing, once per character per arc.
+  verbatim: 'Break at a small thing. A rule adds the delayed break: restraint holds through the big moment
+    and gives way, fully and openly, at a small unexpected thing. Once per character per arc.'
+  amends:
+  - guide: NATALIE.md and the wotr-write skill
+    locus: 'Table rule 10: body language'
+    operation: extends
+  supersedes: []
+  applies_to:
+  - prose-law
+  - pov
+  - dialogue
+  verification: []
+  ratified: 'Isaac, 2026-10-03, Claude Code chat: ruled directly (the style questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: R52-26-GRIEF, R49-07-EMOTIONS, R52-28-COMPOSURE and R52-27-JOY stand; the break is added on top.
+    Works with R70-39-CARRYING_FEELING and the han of R70-5-EASTERN_MODELS. Never imposed on Isaac's PC
+    (R49-01-WHOSE_HEAD).
+- id: R70-116-COMEDY_BESIDE_DANGER
+  pack: Style Law 2026-10-03
+  pack_number: null
+  section: HU4
+  title: Comedy set hard against dread
+  status: live
+  kind: mandate
+  summary: Comedy and dread may be placed hard against each other by design (domestic farce, then the
+    thing in the dark), each played straight, while any joke inside the danger itself stays gallows wit.
+  verbatim: Comedy hard against dread. Comedy and dread may be set hard against each other by design (domestic
+    farce, then the thing in the dark), each played straight; jokes inside the danger stay gallows wit.
+  amends:
+  - guide: WOTR_Scene_Writing_Process_Guide.md
+    locus: Tonal sequencing
+    operation: adds
+  supersedes: []
+  applies_to:
+  - prose-law
+  - scene-structure
+  verification: []
+  ratified: 'Isaac, 2026-10-03, Claude Code chat: ruled directly (the style questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: 'Re-rules part of R5-B-MANHWA_DIRECTIVE_REPEALED''s absurdism tell: comedy may sit hard against
+    dread by design; inside the danger only gallows wit is legal, so the tell still holds there. R5-D-HUMOUR_PERMITTED
+    stands; the gallows wit it permits is the humour left inside the danger.'
+- id: R70-117-SOBRIQUETS_HALL_TITLES
+  pack: Style Law 2026-10-03
+  pack_number: null
+  section: NE1
+  title: Sobriquets by use, and hall title ladders
+  status: live
+  kind: mandate
+  summary: Criers, crowds, ballads and enemies may hang lesser names on any notable fighter, most fading
+    and the one that sticks becoming the Third Name, and the lineage halls may stack titles (Hall Master,
+    Elder, Senior Brother, first disciple) in formal address.
+  verbatim: 'Sobriquets and title ladders. B and C together: sobriquets spread by use, and the halls stack
+    their titles in formal address. R23-10 holds for given names only. (Option B there reads: Sobriquets
+    in common use. Criers, crowds, ballads and enemies may hang lesser names on any notable fighter; most
+    fade, and the one that sticks becomes the Third Name. Your characters'' names still stick only if
+    you keep them.) (Option C there reads: Hall title ladders. The lineage halls run a full title ladder
+    (Hall Master, Elder, Senior Brother, first disciple) that may stack in formal address; R23-10''s bans
+    lift for titles and hold for given names.)'
+  amends:
+  - guide: Naming guide and the wotr-write skill
+    locus: Third Names and titles
+    operation: extends
+  supersedes: []
+  applies_to:
+  - naming
+  - dialogue
+  - worldbuilding
+  verification: []
+  ratified: 'Isaac, 2026-10-03, Claude Code chat: ruled directly (the style questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: 'Partly amends R23-10-CHINESE_PHONOTACTICS: its sect-title and honorific-stacking bans lift for
+    titles and hold for given names. R20-4-THIRD_NAME_PROBLEM stands, and so does R50-21-THIRD_NAMES:
+    a name sticks to Isaac''s characters only if he keeps it.'
+- id: R70-118-HONORIFICS_NARRATION
+  pack: Style Law 2026-10-03
+  pack_number: null
+  section: NE2
+  title: The POV's own honorifics in close narration
+  status: live
+  kind: mandate
+  summary: A close POV from a culture with honorifics carries them into narration as he would think them
+    (Kaname-sama, Seo-nim), never italic, while a Western POV in the same room narrates plain names.
+  verbatim: The POV's own honorific. A close POV from a culture with honorifics carries them into narration
+    (Kaname-sama, Seo-nim) as he would think them, never italic; a Western POV in the same room uses plain
+    names.
+  amends:
+  - guide: NATALIE.md and the wotr-write skill
+    locus: 'Prose Standards: names in narration'
+    operation: adds
+  - guide: Naming guide and the wotr-write skill
+    locus: On the page
+    operation: extends
+  supersedes: []
+  applies_to:
+  - pov
+  - naming
+  - register
+  - prose-law
+  verification: []
+  ratified: 'Isaac, 2026-10-03, Claude Code chat: ruled directly (the style questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: Extends R48-44-NAME_USE and R20-5-ON_THE_PAGE (the name the POV would use now includes his honorific)
+    and carries R51-21-MOTO_WORDS from speech into close narration. Works with R70-13-EPITHETS_NARRATION
+    and R70-107-SPEECH_LEVELS_ADDRESS_KOREAN.
+- id: R70-119-MUCH_POOL_COMIC
+  pack: Style Law 2026-10-03
+  pack_number: null
+  section: NM1
+  title: Comic bynames are the norm among commons and soldiers
+  status: live
+  kind: budget
+  summary: Comic bynames and nicknames are the norm in musters, crews, taverns and markets and thin out
+    above the commons, as high as R70-122 lets them reach.
+  verbatim: Most commons and soldiers. Comic bynames and nicknames become the norm in musters, crews,
+    taverns and markets. Above the commons they thin out, and NM4 sets how high they reach.
+  amends:
+  - guide: Naming guide and the wotr-write skill
+    locus: Comic names
+    operation: adds
+  supersedes: []
+  applies_to:
+  - naming
+  - worldbuilding
+  verification: []
+  ratified: 'Isaac, 2026-10-03, Claude Code chat: ruled directly (the style questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: R50-18-OUTLIERS stands (no ratio); R23-5-OUTLIER_BUDGET stays superseded. R20-3-CONCORD_GIVEN_NAMES
+    stands. Isaac's PC and the other creators' characters never carry or receive a comic name (settled
+    in the questionnaire, R52-14-SODOKU_JOKE).
+- id: R70-120-BUILT_COMIC_NAMES
+  pack: Style Law 2026-10-03
+  pack_number: null
+  section: NM2
+  title: Rhyming sets, talking surnames and plausible puns
+  status: live
+  kind: mandate
+  summary: Build comic names as rhyming or alliterating sets among kin, crews and sworn pairs inside each
+    culture's sound rules, as Dickensian talking surnames for Northern and Accord families, and as plausible
+    puns built from words the Draw Age owns, never from a brand, celebrity or modern-world reference.
+  verbatim: 'Yes to: Rhyming and alliterating sets (Kin, crews and sworn pairs share a name-part and change
+    the sound, Borin and Snorin style, inside each culture''s own sound rules. A set meeting is a beat
+    (R50-17)); Dickensian talking surnames (Surnames that tell a trade or a nature one notch past believable,
+    as Gradgrind did: the Victorian imperial register R53-28 already sets, for Northern and Accord families);
+    Plausible puns, Pratchett-style (Surnames that pass for real ones, with the pun underneath or turned
+    against the bearer. Built from words the Draw Age owns, so no brand, celebrity or modern-world reference).
+    Not taken: Phrase and sentence names.'
+  amends:
+  - guide: Naming guide and the wotr-write skill
+    locus: 'Comic names: built'
+    operation: adds
+  supersedes: []
+  applies_to:
+  - naming
+  - worldbuilding
+  verification: []
+  ratified: 'Isaac, 2026-10-03, Claude Code chat: ruled directly (the style questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: 'R50-17-SHARED_NAMES stands: a set meeting is a beat. Talking surnames ride R53-28-VISUAL_REFERENCE''s
+    Victorian imperial register and R20-1-CONCORD_HUMAN_ANCHOR; sets keep R20-3-DAWI_ELEMENTS and each
+    stratum''s sound rules, R23-2-CHINESE_STRATUM_SUMMARY included. Phrase and sentence names were not
+    taken as a built type, though R70-124-PEOPLES_WEST_NORTH lists phrase surnames among the Accord and
+    Northern commons.'
+- id: R70-121-GROWN_COMIC_NAMES
+  pack: Style Law 2026-10-03
+  pack_number: null
+  section: NM3
+  title: Nicknames, mangled names, sound comedy and protective names
+  status: live
+  kind: mandate
+  summary: 'Let comic names grow from use: comrades'' deed and body nicknames, names bent by a foreign
+    mouth and spelled as heard, names funny for their noise inside a people''s sound rules, and cheap
+    or ugly names given so that death passes a child over.'
+  verbatim: 'Yes to: Soldiers'' nicknames (Deed and body bynames from comrades, literal or ironic, the
+    way Abercrombie''s Logen Ninefingers counts his missing finger. Peers coin them, so the joke belongs
+    to the characters); Mangled names (A name or phrase bent by a foreign mouth and written as heard,
+    a real mishearing every time (R20-4). Canon already does it: the Dawi say Porin, and Common mouths
+    make it Borin); Sound comedy (Names funny for their noise: hard k sounds, doubled syllables, a goblin
+    mouth''s extra consonants. Built inside each people''s own sound rules, and most at home among the
+    goblinoids); Protective ugly names (A child given a cheap or ugly name so death passes it over, as
+    Chinese and Korean families did; R23-5 already allows a name given ''as an insult or a shield''. Comic
+    to outsiders, grim at home).'
+  amends:
+  - guide: Naming guide and the wotr-write skill
+    locus: 'Comic names: grown'
+    operation: adds
+  supersedes: []
+  applies_to:
+  - naming
+  - dialogue
+  - worldbuilding
+  verification: []
+  ratified: 'Isaac, 2026-10-03, Claude Code chat: ruled directly (the style questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: Rides R23-2-NORTHERN_STRATUM's byname 'available to anyone', R20-4-PRONUNCIATION_ADAPTATION and
+    R50-33-MISPRONOUNCE (a real mishearing every time), R20-1-GOBLINOID_ANCHOR for sound comedy, and R23-5-OUTLIER_DEFINED's
+    name given 'as an insult or a shield'. All stand.
+- id: R70-122-MAY_CARRY_ONE
+  pack: Style Law 2026-10-03
+  pack_number: null
+  section: NM4
+  title: Comic names reach recurring minor NPCs, villains and rivals
+  status: live
+  kind: mandate
+  summary: Recurring minor NPCs may keep comic names across scenes and villains and rivals may carry one,
+    a comic name on a dangerous person, while major NPCs keep strict names.
+  verbatim: 'Plus villains. B, plus villains and rivals, in the Jonson and Dickens line (Volpone the fox,
+    Uriah Heep): a comic name on a dangerous person. Major NPCs keep strict names. (Option B there reads:
+    Plus recurring NPCs. Recurring minor NPCs (the innkeeper, the sergeant, the Guild clerk) may keep
+    comic names across scenes. Villains and major NPCs stay strict.)'
+  amends:
+  - guide: Character cards, NATALIE.md and the wotr-npc skill
+    locus: Naming an NPC
+    operation: extends
+  supersedes: []
+  applies_to:
+  - naming
+  - character-sheet
+  verification: []
+  ratified: 'Isaac, 2026-10-03, Claude Code chat: ruled directly (the style questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: Read with R52-31-COMIC_NPC and R5-D-HUMOUR_PERMITTED; R48-11-HUMOUR stands. Isaac's PC and the
+    other creators' characters sit outside it (settled in the questionnaire).
+- id: R70-123-WHOSE_EAR_HEARS_JOKE
+  pack: Style Law 2026-10-03
+  pack_number: null
+  section: NM5
+  title: An English pun needs an in-world bridge
+  status: live
+  kind: mandate
+  summary: An English pun in a name is legal only where the world supplies a bridge (a Common mouth, a
+    byname rendered in English, a Common ear mishearing), and a pun hidden in a foreign name for the reader
+    alone stays out.
+  verbatim: 'English puns with a bridge. An English pun is legal where the world supplies a bridge: a
+    Common mouth, a byname rendered in English, or a Common ear mishearing. Reader-only puns hidden in
+    a foreign name stay out.'
+  amends:
+  - guide: Naming guide and the wotr-write skill
+    locus: 'Comic names: whose ear'
+    operation: adds
+  supersedes: []
+  applies_to:
+  - naming
+  - pov
+  - register
+  verification: []
+  ratified: 'Isaac, 2026-10-03, Claude Code chat: ruled directly (the style questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: R5-C1-NARRATION_NEVER_WINKS and R50-01-REAL_GRAMMAR stand; R50-33-MISPRONOUNCE supplies the mishearing
+    bridge. Dawi given names stay bank-built (R20-3-DAWI_ELEMENTS), so Snorin lives in Common mouths.
+- id: R70-124-PEOPLES_WEST_NORTH
+  pack: Style Law 2026-10-03
+  pack_number: null
+  section: NM6
+  title: Comic names among the Dawi, the North and the goblinoids
+  status: live
+  kind: mandate
+  summary: The Dawi joke in rhyming sets, English-rendered deed bynames and outsiders' mangling with given
+    names kept bank-built; the Kharven and Far-Northern in scarcity-insult bynames, protective cheap names
+    and Accord roll-names, never on the recently dead; the Accord and Northern commons in talking and
+    phrase surnames, rhyming pet names, soldiers' bynames and correct Latin; the goblinoids in sound comedy
+    and bynames whose cause nobody remembers.
+  verbatim: 'Yes to: The Dawi (Rhyming sets on a shared bank element, deed bynames rendered in English,
+    and outsiders'' mangling. Given names stay bank-built; the joke lives in sets, bynames and other people''s
+    mouths); Kharven and Far-Northern (Bynames from the Kharven stock of scarcity insults, protective
+    cheap names, and roll-names (surnames an Accord clerk assigned). No joke on the name of the recently
+    dead (R23-11)); Accord and Northern commons (The richest home: talking and phrase surnames, rhyming
+    pet names (Hob and Dob), soldiers'' bynames, and Accord jokes in correct Latin (R50-12)); Goblinoid
+    peoples (Sound comedy, and bynames whose cause nobody remembers, so a dreaded name can arrive with
+    no story behind it).'
+  amends:
+  - guide: Naming guide and the wotr-write skill
+    locus: Comic names by people
+    operation: adds
+  supersedes: []
+  applies_to:
+  - naming
+  - standing-inventory
+  - worldbuilding
+  verification: []
+  ratified: 'Isaac, 2026-10-03, Claude Code chat: ruled directly (the style questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: R20-3-DAWI_ELEMENTS, R20-1-DAWI_ANCHOR, R23-2-NORTHERN_STRATUM, R23-11-ROLL_NAMES_FROM_ACCORD,
+    R20-1-GOBLINOID_ANCHOR and R50-12-COINED_LATIN stand. R23-11-NAME_AVOIDANCE_WAITING bars any joke
+    on the name of the recently dead; see R70-127-COMIC_NAME_GRIM_END.
+- id: R70-125-PEOPLES_EASTERN_STRATA
+  pack: Style Law 2026-10-03
+  pack_number: null
+  section: NM7
+  title: Comic names in the Japonic, Mahuo and lineage-hall strata
+  status: live
+  kind: mandate
+  summary: Japonic retainers and servants take calling-names from real Japanese trait-words and sound
+    puns glossed once by a character; servants and rival Lines coin comic bynames for new bloodline cadets
+    behind their backs, given names untouched; Mahuo names may chime through the generation syllable onto
+    a real Korean word and children may carry ugly milk-names; the lineage halls run mocked studio names,
+    insulting posthumous names, cheap child-names and spoken homophone puns, never a joke that needs a
+    written character.
+  verbatim: 'Yes to: Retainers and household staff (Retainers and servants of the Japonic houses take
+    calling-names from real Japanese trait-words, and sound puns on real words, glossed once by a character);
+    Bloodline cadets, bynames only (Servants and rival Lines coin comic bynames for new cadets of the
+    archaic houses, behind their backs; given names stay under R40-1. No carded Moto is touched, Sodoku
+    least of all, and no Büri form returns); The Mahuo (Korean-register names chime through the generation
+    syllable (one syllable every cousin of a generation shares) and can land on a real Korean word; children
+    may carry ugly milk-names. Real Korean only (R50-01)); The Chinese lineage halls (Self-awarded studio
+    names (a scholar''s chosen art-name, which other houses mock), insulting posthumous names, cheap child-names
+    and spoken homophone puns. Nothing that needs a written character to land).'
+  amends:
+  - guide: Naming guide and the wotr-write skill
+    locus: Comic names by people
+    operation: adds
+  supersedes: []
+  applies_to:
+  - naming
+  - worldbuilding
+  verification: []
+  ratified: 'Isaac, 2026-10-03, Claude Code chat: ruled directly (the style questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: R23-2-JAPONIC_STRATUM, R40-1-MOTO_ELEMENT_INVENTORY (given names), R37-1-MAHUO_ELEMENT_INVENTORY,
+    R23-2-CHINESE_STRATUM_SUMMARY, R50-01-REAL_GRAMMAR and R50-31-SCRIPT_SHOWN stand. No carded Moto is
+    touched, Sodoku least of all (R52-14-SODOKU_JOKE), and no Büri form returns (R22-1-HOUSE_STRUCK).
+- id: R70-126-BORIN_IRONHEART_RHYMING
+  pack: Style Law 2026-10-03
+  pack_number: null
+  section: NM8
+  title: Borin Ironheart's brothers on the shared Rin
+  status: live
+  kind: procedure
+  summary: Natalie invents Borin Ironheart's brothers on the shared Dawi element Rin, one called Snorin
+    by every Common mouth, and enters them on his card's kin line only after Isaac approves the names.
+  verbatim: Brothers, Snorin included. Natalie invents Borin's brothers on the shared Rin, one called
+    Snorin by every Common mouth, and adds them to his card's kin line once you approve the names.
+  amends:
+  - guide: Character cards, NATALIE.md and the wotr-npc skill
+    locus: 'Borin Ironheart card: kin line'
+    operation: adds
+  supersedes: []
+  applies_to:
+  - naming
+  - character-sheet
+  verification: []
+  ratified: 'Isaac, 2026-10-03, Claude Code chat: ruled directly (the style questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: Borin keeps his name, as the questionnaire settled under R50-02-FIX_OLD_ONES. The brothers are
+    built on R20-3-DAWI_ELEMENTS under R20-1-DAWI_ANCHOR; Snorin is the Common mouth's name (R70-123-WHOSE_EAR_HEARS_JOKE).
+    A meeting of the set is a beat (R50-17-SHARED_NAMES).
+- id: R70-127-COMIC_NAME_GRIM_END
+  pack: Style Law 2026-10-03
+  pack_number: null
+  section: NM9
+  title: A comic name turns to grief at a bad death
+  status: live
+  kind: mandate
+  summary: When someone with a comic name dies badly, someone says the comic name at the death so the
+    joke becomes the wound, and among the Kharven the name then goes unspoken until it is given on.
+  verbatim: The name turns to grief. Someone says the comic name at the death and the joke becomes the
+    wound. Among the Kharven the name then goes unspoken until it is given on (R23-11).
+  amends:
+  - guide: NATALIE.md and the wotr-write skill
+    locus: 'Prose Standards: Grimdark'
+    operation: extends
+  supersedes: []
+  applies_to:
+  - naming
+  - prose-law
+  - standing-inventory
+  verification: []
+  ratified: 'Isaac, 2026-10-03, Claude Code chat: ruled directly (the style questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: R49-38-FUNERAL_TEST, R23-11-NAME_AVOIDANCE_WAITING, R23-11-CARRIED_NAME_MECHANISM (the name held
+    unspoken until given on; the short id R23-11 reaches both) and R5-D-HUMOUR_PERMITTED stand.
+- id: R70-128-PLACES_INNS_SHIPS_GEAR
+  pack: Style Law 2026-10-03
+  pack_number: null
+  section: NM10
+  title: Comic folk names for inns, places, vessels and gear
+  status: live
+  kind: mandate
+  summary: Inns, taverns and shops, the commons' streets, fords and districts, vessels, sledge-teams,
+    draw-engines and gun-carriages, and weapons and gear may carry comic folk names beside their official
+    or true names, while the Accord's Latin place name and an item's true name stay grave and technique
+    names keep their own law.
+  verbatim: 'Yes to: Inns, taverns and shops (Signboards and their regulars'' nicknames carry the joke,
+    in every culture''s towns); Streets and places (The commons'' names for streets, fords and districts
+    sit beside the official ones, one per culture (R50-22). The Accord''s Latin name stays grave); Ships,
+    sledges and engines (Crews'' names for vessels, sledge-teams, draw-engines and gun-carriages, beside
+    whatever the registry wrote); Weapons and items (Weapons and gear take soldiers'' folk names beside
+    their true names (R50-13): the true name in the maker''s tongue stays grave, and the folk name may
+    joke. Technique names keep R50-11 and R8-22).'
+  amends:
+  - guide: Naming guide and the wotr-write skill
+    locus: Places and things
+    operation: extends
+  supersedes: []
+  applies_to:
+  - naming
+  - worldbuilding
+  - items
+  verification: []
+  ratified: 'Isaac, 2026-10-03, Claude Code chat: ruled directly (the style questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: Extends R50-22-PLACE_STRATA and R50-13-ITEM_NAMES with a folk name beside the official one; R50-23-DOUBLETS'
+    Accord Latin form stays grave; R50-11-LONG_NAMES, R8-22-LITERAL_GLOSS and R8-22-BY_NAME_POETRY (the
+    short id R8-22 reaches both) stand for technique names.
+- id: R70-129-NOTICES_JOKE
+  pack: Style Law 2026-10-03
+  pack_number: null
+  section: NM11
+  title: Only the close POV may notice a name's joke
+  status: live
+  kind: mandate
+  summary: The POV may register a name's joke in his own head and idiom, as he would think it, but the
+    narrator outside him never remarks on it.
+  verbatim: Close POV may notice. The POV's own head may register the joke in his own idiom, as he would
+    think it. The narrator outside him never remarks, so R5-C1 stands.
+  amends:
+  - guide: Naming guide and the wotr-write skill
+    locus: 'Comic names: who notices'
+    operation: adds
+  supersedes: []
+  applies_to:
+  - pov
+  - naming
+  - prose-law
+  verification: []
+  ratified: 'Isaac, 2026-10-03, Claude Code chat: ruled directly (the style questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: R5-C1-NARRATION_NEVER_WINKS stands, as the answer says; R5-C1-INFO_TRACKED_PER_POV and R5-D-HUMOUR_BARRED
+    stand.
+- id: R70-130-WALK_ONS_WITH_COMIC
+  pack: Style Law 2026-10-03
+  pack_number: null
+  section: NM12
+  title: A walk-on's comic name lives in another's mouth
+  status: live
+  kind: mandate
+  summary: A walk-on may be named at once only by a nickname someone else says, the narration keeps calling
+    him by his role until R50-27 is met, and a walk-on named for a joke does not die in that scene.
+  verbatim: Nickname in a mouth. A walk-on may be named at once only by a nickname in someone else's mouth;
+    the narration keeps the role until R50-27 is met. A walk-on named for a joke does not die in that
+    scene.
+  amends:
+  - guide: Naming guide and the wotr-write skill
+    locus: New NPC names
+    operation: extends
+  supersedes: []
+  applies_to:
+  - naming
+  - dialogue
+  - pov
+  verification: []
+  ratified: 'Isaac, 2026-10-03, Claude Code chat: ruled directly (the style questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: Amends R50-27-NEW_NPC_NAME in one line, as R70-132-FAR_NAMING_LAW_BENDS directs; the narration
+    still waits on it. Extends R52-31-COMIC_NPC.
+- id: R70-131-COMIC_NAMES_GET_MADE
+  pack: Style Law 2026-10-03
+  pack_number: null
+  section: NM13
+  title: A comic-name bank per culture, and coining by ear
+  status: live
+  kind: procedure
+  summary: Each Standing Inventory gains a comic-name list of bynames, nicknames, rhyming sets and signboards
+    in that culture's sound rules, and Natalie may coin comic names live, each passed at scene end as
+    an outlier if it keeps its culture's sound rules and flagged if it breaks them.
+  verbatim: 'Yes to: A comic bank per culture (Each Standing Inventory (the per-culture texture file)
+    gains a comic-name list of bynames, nicknames, rhyming sets and signboards, built in that culture''s
+    sound rules); By ear, sound-checked (Natalie coins comic names live; the scene-end check passes each
+    as an outlier (R50-18) so long as it keeps its culture''s sound rules, and flags any that break them).
+    Not taken: A floor per crowd scene, A pitch list per session.'
+  amends:
+  - guide: Standing Inventories, NATALIE.md and the wotr-write skill
+    locus: Comic-name bank
+    operation: adds
+  - guide: Naming guide and the wotr-write skill
+    locus: Bank or ear
+    operation: extends
+  supersedes: []
+  applies_to:
+  - naming
+  - standing-inventory
+  - verification
+  verification: []
+  ratified: 'Isaac, 2026-10-03, Claude Code chat: ruled directly (the style questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: 'Amends R50-30-BANK_OR_EAR in one line (the scene-end check gains the comic sound check) and
+    leans on R50-18-OUTLIERS; R50-28-NEW_WORDS is unchanged. Not taken: a comic-name floor per crowd scene,
+    a pitch list per session. R70-132-FAR_NAMING_LAW_BENDS points each culture''s naming rows at its bank.'
+- id: R70-132-FAR_NAMING_LAW_BENDS
+  pack: Style Law 2026-10-03
+  pack_number: null
+  section: NM14
+  title: Each culture's naming rows point to its comic bank
+  status: live
+  kind: consequential_edit
+  summary: Amend only the naming rows the comic-name answers bend, each in one line naming its answer
+    (R50-30 for the sound check, R50-27 for walk-on nicknames), and give each culture's naming rows a
+    clause pointing to its comic bank in its Standing Inventory so load_rules serves the bank with the
+    law; banks and sound rules otherwise stand.
+  verbatim: 'Banks gain comic slots. B, plus each culture''s naming rows gain a comic-names clause pointing
+    to that culture''s comic bank in its Standing Inventory, so load_rules serves the bank with the law.
+    (Option B there reads: Narrow amendments. Only the rows your answers above bend are amended, each
+    in one line naming its answer: R50-30 for the sound check, R50-27 only if NM12 opens walk-ons. Banks
+    and sound rules stand.)'
+  amends:
+  - guide: Naming guide and the wotr-write skill
+    locus: Each culture's naming rows
+    operation: extends
+  - guide: Standing Inventories, NATALIE.md and the wotr-write skill
+    locus: Comic-name bank
+    operation: extends
+  supersedes: []
+  applies_to:
+  - naming
+  - standing-inventory
+  verification: []
+  ratified: 'Isaac, 2026-10-03, Claude Code chat: ruled directly (the style questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: The one-line amendments land as notes on R50-30-BANK_OR_EAR (by R70-131) and R50-27-NEW_NPC_NAME
+    (by R70-130). The comic-names clause lands as a note on R20-3-DAWI_ELEMENTS, R37-1-MAHUO_ELEMENT_INVENTORY,
+    R40-1-MOTO_ELEMENT_INVENTORY, R23-11-PHONOTACTICS, R23-10-CHINESE_PHONOTACTICS, R20-1-CONCORD_HUMAN_ANCHOR,
+    R23-2-NORTHERN_STRATUM and R20-1-GOBLINOID_ANCHOR. R50-18-OUTLIERS stands.
+- id: R70-133-EASTERN_TECHNIQUES_BESIDE_CLINICAL
+  pack: Style Law 2026-10-03
+  pack_number: null
+  section: XS1
+  title: Season image, held detail, morning poem and mimetic words in explicit scenes
+  status: live
+  kind: mandate
+  summary: An explicit scene may set a season or nature image beside the anatomy, hold one physical detail
+    at chosen moments such as the peak, close its aftermath on a written or spoken exchange such as a
+    morning poem, and use mimetic words for texture and state, romanised and never italic, all without
+    displacing the plain anatomical words.
+  verbatim: 'Yes to: Season and nature imagery (An explicit scene may set a season or nature image beside
+    the anatomy (frost, snow, blossom, the brazier), carrying mood without replacing the plain words);
+    Held detail at the peak (At chosen moments, usually the peak, one held physical detail may carry the
+    beat; plain specificity governs the rest, and the aftermath is still written); The poem after (An
+    explicit scene may close on a written or spoken exchange (a morning poem, a note, a line answered)
+    as part of its aftermath beat); Mimetic words (Mimetic words for texture and state (the Japanese gitaigo
+    habit, and each culture''s own) join table rule 9''s onomatopoeia, romanised and never italic).'
+  amends:
+  - guide: NATALIE.md and the wotr-write skill
+    locus: 'Table rule 9: explicit scenes'
+    operation: extends
+  supersedes: []
+  applies_to:
+  - prose-law
+  - scene-structure
+  - register
+  - pov
+  verification: []
+  ratified: 'Isaac, 2026-10-03, Claude Code chat: ruled directly (the style questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: 'Partly amends R49-51-EXPLICIT: the plain, crude register stays and these techniques sit beside
+    it. Mimetic words join table rule 9''s onomatopoeia (ticked against the recommendation); R50-32-ITALICS
+    keeps them roman. R70-134-KEYED_CULTURE_FREE keys all four to the POV''s culture. Works with R70-22-SOUND_WORDS.'
+- id: R70-134-KEYED_CULTURE_FREE
+  pack: Style Law 2026-10-03
+  pack_number: null
+  section: XS2
+  title: Explicit techniques keyed to the POV's culture
+  status: live
+  kind: mandate
+  summary: The POV's culture decides which explicit-scene techniques the narration uses (a Moto POV writes
+    with image and the held detail, a Kharven POV blunt, whoever the lover is), and the lover's culture
+    shows in what they do and say.
+  verbatim: 'Keyed to the POV. The POV''s culture decides: a Moto POV writes with image and the held detail,
+    a Kharven POV blunt, whoever the lover is; the lover''s culture shows in what they do and say.'
+  amends:
+  - guide: NATALIE.md and the wotr-write skill
+    locus: 'Table rule 9: explicit scenes'
+    operation: extends
+  supersedes: []
+  applies_to:
+  - prose-law
+  - pov
+  - register
+  - scene-structure
+  verification: []
+  ratified: 'Isaac, 2026-10-03, Claude Code chat: ruled directly (the style questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: Read with R70-133-EASTERN_TECHNIQUES_BESIDE_CLINICAL; a POV whose culture runs blunt (a Kharven
+    POV) writes blunt under R49-51-EXPLICIT. Follows R70-1-BLEND_MODEL's tilt by culture.
+- id: R70-135-WHERE_NEW_LAW_LIVES
+  pack: Style Law 2026-10-03
+  pack_number: null
+  section: ME1
+  title: The law lands in a rule doc, NATALIE.md and new guide editions
+  status: live
+  kind: procedure
+  summary: Log the style law as one dated rule doc, rewrite NATALIE.md's models line and Prose Standards
+    to it, and issue new editions of the Master Style Directive, Combat Craft Guide, Dialogue Craft Standards
+    and Scene Writing Process Guide so no companion document still teaches the old law.
+  verbatim: 'A, plus new guide editions. A, then new editions of the Master Style Directive, Combat Craft
+    Guide, Dialogue Craft Standards and Scene Writing Process Guide, so no companion document still teaches
+    the old law. (Option A there reads: Rule doc and NATALIE rewrite. One dated Style Law doc logged through
+    log_ruling; NATALIE.md''s models line and Prose Standards rewritten to it; R5-A-FLESH_CHANGES, R5-E-MARTIN_WINS_RULING
+    and R11-1 superseded or amended as K1 decides.)'
+  amends:
+  - guide: NATALIE.md and the wotr-write skill
+    locus: Who Natalie is (the models line) and Prose Standards
+    operation: replaces
+  - guide: WOTR_Master_Style_Directive.md
+    locus: New edition
+    operation: replaces
+  - guide: WOTR_Combat_Craft_Guide.md
+    locus: New edition
+    operation: replaces
+  - guide: Dialogue Craft Standards
+    locus: New edition
+    operation: replaces
+  - guide: WOTR_Scene_Writing_Process_Guide.md
+    locus: New edition
+    operation: replaces
+  supersedes: []
+  applies_to:
+  - prose-law
+  - documents
+  verification: []
+  ratified: 'Isaac, 2026-10-03, Claude Code chat: ruled directly (the style questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: 'Supersedes nothing itself: the status of R5-A-FLESH_CHANGES, R5-E-MARTIN_WINS_RULING and R11-1-TONAL_SPINE_UNCHANGED
+    is set ''as K1 decides'', by R70-1-BLEND_MODEL and R70-7-FAR_MOVE. The verbatim''s short id R11-1
+    resolves to R11-1-TONAL_SPINE_UNCHANGED; the other live R11-1 rows (NORTH_STAR_RETIRED, REPLACEMENT_REGISTER)
+    govern the look and are not reached. The rule doc is rules/doc-style-law-2026-10-03.yaml.'
+- id: R70-136-NEW_CHECKS_VERIFY_SCENE
+  pack: Style Law 2026-10-03
+  pack_number: null
+  section: ME2
+  title: verify_scene gains school word lists, a verse marker and a formula watch
+  status: live
+  kind: procedure
+  summary: verify --combat takes a school (blade, japanese, chinese, korean, percussion) or reads the
+    culture tag and warns only when a fight carries none of that school's terms; a marked verse block
+    is left out of the rhythm statistics and word count but still read for dashes and hard bans; translated
+    web-novel formulas WARN in narration and log an info line in speech.
+  verbatim: 'Yes to: Combat words by school (verify --combat takes a school (blade, japanese, chinese,
+    korean, percussion) or reads the culture tag, and warns only when a fight carries none of that school''s
+    terms); A verse marker (A marked verse block (a poem, a lament, a declaration in lines) is left out
+    of the rhythm statistics and word count; the dash and hard-ban checks still read it); Stock-formula
+    watch (A WARN on translated web-novel formulas (you court death, this junior, this old man, lose face)
+    in narration, and an info line in speech, so the flavour stays where DL2 puts it). Not taken: Address
+    check.'
+  amends:
+  - guide: Manual Verification Guide
+    locus: verify --combat, rhythm statistics, formula watch
+    operation: extends
+  supersedes: []
+  applies_to:
+  - verification
+  - combat
+  - dialogue
+  - prose-law
+  verification:
+  - --combat
+  - 'verify: verse marker'
+  - 'verify: stock-formula watch'
+  ratified: 'Isaac, 2026-10-03, Claude Code chat: ruled directly (the style questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: 'R48-45-CHECKS stands. verify''s HEMA list (R13-6-HEMA_VOCAB) becomes the blade school''s list.
+    verify does not count a marked verse block toward R4-14-RUN_RULE''s runs. Not taken: an address check.
+    Enforces R70-100-MARTIAL_VOCABULARY_NAMES_MOVES, R70-110-VERSE_EXCHANGED_TALK and R70-108-EASTERN_REGISTER_SPEECH_SOUNDS.'
+- id: R70-137-ARCHIVED_SCENES
+  pack: Style Law 2026-10-03
+  pack_number: null
+  section: ME3
+  title: Archived scenes untouched, tagged by law edition
+  status: live
+  kind: procedure
+  summary: Leave every archived scene as written and add a law-edition column to scenes/MANIFEST.md so
+    the drafting tools and scene_recall stop treating old-style scenes as precedent.
+  verbatim: Leave them, tag the edition. The archive stays untouched, and scenes/MANIFEST.md gains a law-edition
+    column so the drafting tools and scene_recall stop treating old style as precedent.
+  amends: []
+  supersedes: []
+  applies_to:
+  - session-protocol
+  - documents
+  verification: []
+  ratified: 'Isaac, 2026-10-03, Claude Code chat: ruled directly (the style questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: No rule row is touched. The tag governs style precedent only; what happened in an archived scene
+    stays canon.
+- id: R70-138-PROOF_ORDER_WORK
+  pack: Style Law 2026-10-03
+  pack_number: null
+  section: ME4
+  title: Law first, then a test scene, then the sample bank
+  status: live
+  kind: procedure
+  summary: The style law binds as logged, one test scene in a live thread follows, anything that reads
+    wrong becomes a dated amendment, and only then is a sample bank written for Kharven, Moto, Accord,
+    the Mahuo and the lineage halls.
+  verbatim: Law, test scene, then bank. The law is logged live; one test scene in a live thread follows;
+    anything that reads wrong becomes a dated amendment; then a sample bank for Kharven, Moto, Accord,
+    the Mahuo and the lineage halls.
+  amends: []
+  supersedes: []
+  applies_to:
+  - session-protocol
+  - prose-law
+  verification: []
+  ratified: 'Isaac, 2026-10-03, Claude Code chat: ruled directly (the style questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: No rule row is touched. A fix found in the test scene is a new dated ruling, never a silent edit
+    (CLAUDE.md).

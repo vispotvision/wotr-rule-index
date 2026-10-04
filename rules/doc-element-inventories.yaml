@@ -64,6 +64,12 @@ rules:
       header; the flags there (generational syllable in Ara/Min and Mu/Jin;
       Kwon as cadet branch or unrelated clan) were ratified as flags and are
       not resolved by this row.
+      Stands; banks and sound rules stand (R70-132-FAR_NAMING_LAW_BENDS, style
+      law 2026-10-03). Comic names (R70-132): Mahuo names may chime through
+      the generation syllable onto a real Korean word, and children may carry
+      ugly milk-names (R70-125-PEOPLES_EASTERN_STRATA); they are listed in the
+      comic-name bank of the Standing Inventory that carries the Mahuo
+      (R70-131-COMIC_NAMES_GET_MADE).
 
   - id: R37-2-YUKARI_ELEMENT_INVENTORY
     pack: Naming Guide Amendment / Element Inventories

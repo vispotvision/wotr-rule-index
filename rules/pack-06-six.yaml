@@ -261,7 +261,13 @@ rules:
     source:
       file: WOTR_Companion_Guide_Amendments_Pack_Six.md
       lines: "74"
-    notes: null
+    notes: >-
+      Extended by R70-46-CRAFT_LABOUR_PAGE and R70-63-WEAR_AGE_AS_BEAUTY
+      (style law 2026-10-03): material density stays in full; a craft on the
+      page also runs as process and its finished work is looked at for its
+      quality through the POV's eye, and each culture's Inventory states what
+      its people prize and despise in age. The interpret-at-zero clause was
+      already struck (R6-5-INTERPRET_AT_ZERO_STRUCK).
 
   - id: R6-5-INTERPRET_AT_ZERO_STRUCK
     pack: Pack Six
@@ -346,7 +352,12 @@ rules:
     source:
       file: WOTR_Companion_Guide_Amendments_Pack_Six.md
       lines: "96-108"
-    notes: null
+    notes: >-
+      Extended by R70-45-NEW_STANDING_INVENTORY_FIELDS (style law 2026-10-03):
+      the categories gain land, sky and living things; building, dress and the
+      street; music, play and festivals; and law, succession and roads. R70-44
+      adds a Notices first line, and R70-59, R70-60, R70-61, R70-63 and R70-65
+      add further fields. The nine categories stand.
 
   - id: R6-9-RECURRENCE_RULE
     pack: Pack Six
@@ -374,7 +385,12 @@ rules:
     source:
       file: WOTR_Companion_Guide_Amendments_Pack_Six.md
       lines: "112-120"
-    notes: null
+    notes: >-
+      Partly amended by R70-51-REPETITION_AGAINST_NOVELTY (style law
+      2026-10-03): the sentence 'Novelty is its enemy' is rewritten, so every
+      scene also adds one subject the thread has not described, logged as
+      canon; 'Identity is repetition', Inventory first and the Recurrence
+      Ledger stand.
 
   - id: R6-10-INVENTORY_AND_ELEGY
     pack: Pack Six

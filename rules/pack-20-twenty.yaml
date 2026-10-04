@@ -752,7 +752,7 @@ rules:
     source:
       file: WOTR_Companion_Guide_Amendments_Pack_Twenty_Clearance.md
       lines: "68"
-    notes: "Ratifies R15-C."
+    notes: "Ratifies R15-C. Noted by R70-67-FORMS_WORLD_DOCUMENTS (style law 2026-10-03): documents gain four named forms; this rule stands."
 
   - id: R20C-38-PACK_EIGHT_SECTION_TWO_ENTIRE
     pack: Pack Twenty
@@ -1151,7 +1151,7 @@ rules:
     source:
       file: WOTR_Companion_Guide_Amendments_Pack_Twenty_Clearance.md
       lines: "133"
-    notes: null
+    notes: "Partly amended by R70-21-CADENCE_CULTURE (style law 2026-10-03): cadence keyed to the POV's culture is now law and each narration register states it, and under R70-1 the POV's culture tilts the strand mix. R70-27 amends this row for the diction dial per culture. Partly amended by R70-27-ANTIQUE_NARRATION_RUNS (style law 2026-10-03), in its words 'amending R20C-58': each Standing Inventory now sets its culture's narration dial (plain, period or archaic) as law. R70-27 leaves the rest of this ruling, the Moto exception included, as it was."
 
   - id: R20C-59-THE_FOLD_BUILD_ORDER
     pack: Pack Twenty

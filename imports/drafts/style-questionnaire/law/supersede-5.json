@@ -1,0 +1,690 @@
+[
+  {
+    "old_id": "R48-33-CHOREOGRAPHY",
+    "action": "note",
+    "by": "R70-100-MARTIAL_VOCABULARY_NAMES_MOVES",
+    "r70_quote": "Narration names every move in the POV's own training",
+    "old_text": "Choreography: \"the move by its fencing name\"",
+    "note_text": "Partly amended by R70-100-MARTIAL_VOCABULARY_NAMES_MOVES (style law 2026-10-03): 'the move by its fencing name' is the name in the POV's own school (kesa-giri for a Moto POV, Zornhau for a Greymane POV), and a foreign school's word arrives only in a mouth; and by R70-102-STILLNESS_TRACED_PASSES_LONG: duel shape follows the combat grammar (Verdict still then one cut, Blade traced passes, Percussion and Expenditure by attrition)."
+  },
+  {
+    "old_id": "R13-6-HEMA_VOCAB",
+    "action": "note",
+    "by": "R70-100-MARTIAL_VOCABULARY_NAMES_MOVES",
+    "r70_quote": "a Greymane POV a Zornhau); a foreign school's word arrives in a mouth",
+    "old_text": "HEMA vocabulary extends past the longsword: \"HEMA, extended past the longsword\"",
+    "note_text": "Partly amended by R70-100-MARTIAL_VOCABULARY_NAMES_MOVES (style law 2026-10-03): HEMA names the moves when the POV trained in a Western school; an Eastern-trained POV narrates in his own school's words. R70-136-NEW_CHECKS_VERIFY_SCENE makes verify's HEMA list the blade school's list beside japanese, chinese, korean and percussion lists."
+  },
+  {
+    "old_id": "R13-4-COMBAT_FLOOR",
+    "action": "note",
+    "by": "R70-100-MARTIAL_VOCABULARY_NAMES_MOVES",
+    "r70_quote": "Narration names every move in the POV's own training",
+    "old_text": "The combat technical floor, eight required elements: \"Every meaningful exchange\"",
+    "note_text": "Stands; under R70-100-MARTIAL_VOCABULARY_NAMES_MOVES (style law 2026-10-03) the moves the floor traces are named in the POV's own school."
+  },
+  {
+    "old_id": "R1-1-BLADE_GRAMMAR",
+    "action": "note",
+    "by": "R70-100-MARTIAL_VOCABULARY_NAMES_MOVES",
+    "r70_quote": "a foreign school's word arrives in a mouth",
+    "old_text": "Blade Grammar, the existing Liechtenauer/Fiore framework: \"Full existing framework applies without change.\"",
+    "note_text": "Stands; under R70-100-MARTIAL_VOCABULARY_NAMES_MOVES (style law 2026-10-03) a Blade Grammar fight is narrated in the POV's own school's words, so an Eastern-trained POV names a Liechtenauer fencer's moves in his own training and the HEMA word arrives in a mouth; R70-102-STILLNESS_TRACED_PASSES_LONG gives Blade duels traced passes."
+  },
+  {
+    "old_id": "R48-43-SPEECHES",
+    "action": "note",
+    "by": "R70-111-LONG_FORMAL_SPEECH_CLIPPED",
+    "r70_quote": "R48-43's cap holds outside court.",
+    "old_text": "Speeches: \"one crafted, eloquent speech at a big moment\"",
+    "note_text": "Partly amended by R70-111-LONG_FORMAL_SPEECH_CLIPPED (style law 2026-10-03): court cultures (the Moto court, the Accord chancery, the Mahuo houses, the lineage halls) argue in long formal speeches at court as their normal register, and this cap holds outside court. Under R70-101-DECLARING_NAME_LINE_BEFORE a full pre-duel declaration counts as the scene's crafted speech."
+  },
+  {
+    "old_id": "R13-4-DENSITY_BUDGET",
+    "action": "note",
+    "by": "R70-102-STILLNESS_TRACED_PASSES_LONG",
+    "r70_quote": "Verdict still then one cut, Blade traced passes, Percussion and Expenditure by attrition",
+    "old_text": "Combat floor density by scene length: \"A duel of 2,500 words carries the full floor at first display and finisher\"",
+    "note_text": "Stands; read with R70-102-STILLNESS_TRACED_PASSES_LONG (style law 2026-10-03): a duel's shape now follows its combat grammar (Verdict still then one cut, Blade traced passes, Percussion and Expenditure by attrition)."
+  },
+  {
+    "old_id": "R5-B-MANHWA_DIRECTIVE_REPEALED",
+    "action": "note",
+    "by": "R70-102-STILLNESS_TRACED_PASSES_LONG",
+    "r70_quote": "practitioners escalate while reserve lasts",
+    "old_text": "The Manhwa Energy Directive is struck in full: \"should be treated as active tells if they appear in a draft\"",
+    "note_text": "Partly re-ruled, tell by tell as R70-7-FAR_MOVE directs (style law 2026-10-03); not superseded. Re-ruled within R70-100 to R70-138: escalation as a pacing register is legal inside a practitioner's duel while reserve lasts (R70-102-STILLNESS_TRACED_PASSES_LONG; R60-03-HARD_RESERVE_CLOCK ends it); absurdist method beside genuine stakes gives way to comedy set hard against dread by design, each played straight, while inside the danger only gallows wit is legal, so that tell still holds there (R70-116-COMEDY_BESIDE_DANGER). R70-112-FACE_FACE_SLAP licenses the face-slap (a public reversal the room reassesses, with a bill) but names no tell on this list; the room's reassessment is where it meets reaction shots as characterisation, which R70-72 re-rules for crowds. Still tells as far as R70-100 to R70-138 reach: personality vomiting, reaction shots as characterisation, loud opinions as a default register, bizarre or exaggerated minor NPCs (R70-122-MAY_CARRY_ONE gives minor NPCs comic names, not exaggerated conduct) and humour as a tone exception (R70-113-DOUBLE_ACT_COMIC_BEAT keeps full comic beats a property of carded comic voices)."
+  },
+  {
+    "old_id": "R60-01-BRUTAL_LETHALITY",
+    "action": "note",
+    "by": "R70-102-STILLNESS_TRACED_PASSES_LONG",
+    "r70_quote": "R60-01 holds for the unranked.",
+    "old_text": "Brutal Lethality: \"most fights end in the first seconds\"",
+    "note_text": "Stands for the unranked, as R70-102-STILLNESS_TRACED_PASSES_LONG says (style law 2026-10-03); practitioners' duels take the shape of their combat grammar and may escalate while reserve lasts."
+  },
+  {
+    "old_id": "R1-1-VERDICT_GRAMMAR",
+    "action": "note",
+    "by": "R70-102-STILLNESS_TRACED_PASSES_LONG",
+    "r70_quote": "Verdict still then one cut",
+    "old_text": "Verdict Grammar, read-rank-commit: \"the tension lives in the read rather than in the exchange\"",
+    "note_text": "Stands; under R70-102-STILLNESS_TRACED_PASSES_LONG (style law 2026-10-03) a Verdict duel's shape on the page is stillness, then one cut."
+  },
+  {
+    "old_id": "R49-06-MEMORIES",
+    "action": "note",
+    "by": "R70-103-MEMORY_INSIDE_FIGHT",
+    "r70_quote": "The POV may take a full flashback, a page or more, frozen inside one turning exchange, once per fight.",
+    "old_text": "Memories: \"Memories may run as full flashbacks\"",
+    "note_text": "Placed inside a fight by R70-103-MEMORY_INSIDE_FIGHT (style law 2026-10-03): the POV may take one full flashback per fight, frozen inside one turning exchange; the POV lock holds."
+  },
+  {
+    "old_id": "R48-40-NPC_THOUGHTS",
+    "action": "note",
+    "by": "R70-103-MEMORY_INSIDE_FIGHT",
+    "r70_quote": "The POV lock holds; the opponent's past reaches the page only through what the POV knows.",
+    "old_text": "NPC thoughts: \"written scenes keep the POV lock\"",
+    "note_text": "Stands, as R70-103-MEMORY_INSIDE_FIGHT confirms (style law 2026-10-03): no flashback runs inside an opponent; his past reaches the page only through what the POV knows."
+  },
+  {
+    "old_id": "R48-31-STAKES",
+    "action": "note",
+    "by": "R70-104-RIVAL_BOND",
+    "r70_quote": "R48-31 stands.",
+    "old_text": "Stakes: \"Death can happen, if earned\"",
+    "note_text": "Stands, as R70-104-RIVAL_BOND says (style law 2026-10-03); a rival recurs only by a mercy someone chose and paid for on the Ledger (a debt, a scar, a witness to the mercy)."
+  },
+  {
+    "old_id": "R48-34-WOUNDS",
+    "action": "note",
+    "by": "R70-105-JOINS_WOUND_WHEN_FIGHT",
+    "r70_quote": "The clinical floor holds everywhere.",
+    "old_text": "Wounds: \"full clinical gore\"",
+    "note_text": "Stands everywhere, as R70-105-JOINS_WOUND_WHEN_FIGHT says (style law 2026-10-03); that row adds the killing rites for Japonic, Korean and Chinese killers and an elegiac image for a POV whose culture mourns that way."
+  },
+  {
+    "old_id": "R48-38-AFTERMATH",
+    "action": "note",
+    "by": "R70-105-JOINS_WOUND_WHEN_FIGHT",
+    "r70_quote": "Japonic, Korean and Chinese killers carry the rites; the elegiac image belongs to any POV whose culture mourns that way.",
+    "old_text": "Aftermath: \"Every duel ends with a full aftermath beat\"",
+    "note_text": "Extended by R70-105-JOINS_WOUND_WHEN_FIGHT (style law 2026-10-03): when someone dies by the blade, a Japonic, Korean or Chinese killer carries the killing rites, and a POV whose culture mourns that way adds an elegiac image; the clinical floor holds everywhere."
+  },
+  {
+    "old_id": "R5-C2-ELEGY_CONCRETE_THING",
+    "action": "note",
+    "by": "R70-105-JOINS_WOUND_WHEN_FIGHT",
+    "r70_quote": "the elegiac image belongs to any POV whose culture mourns that way",
+    "old_text": "Elegy attaches to a named concrete thing that is gone: \"Elegy attaches to a named concrete thing that is gone.\"",
+    "note_text": "Stands, and still applies to the elegiac image that R70-105-JOINS_WOUND_WHEN_FIGHT (style law 2026-10-03) adds after a death by the blade for a POV whose culture mourns that way (the questionnaire's image option tied it to a concrete thing under this row)."
+  },
+  {
+    "old_id": "R1-3-NAME_THREE_RULE",
+    "action": "note",
+    "by": "R70-106-BATTLE_TOLD",
+    "r70_quote": "R1-3's three heads cover both.",
+    "old_text": "In mass combat, name three characters carry interiority: \"Replacement standard: name three.\"",
+    "note_text": "Stands across a battle cut between the commander's hill and one man in the press, as R70-106-BATTLE_TOLD says (style law 2026-10-03)."
+  },
+  {
+    "old_id": "R51-21-MOTO_WORDS",
+    "action": "note",
+    "by": "R70-107-SPEECH_LEVELS_ADDRESS_KOREAN",
+    "r70_quote": "R51-21 extends: Korean speakers use their own address words",
+    "old_text": "Moto Words: \"Moto and other Japonic houses use Japanese honorifics and address forms in speech\"",
+    "note_text": "Extended by R70-107-SPEECH_LEVELS_ADDRESS_KOREAN (style law 2026-10-03): Korean and Chinese speakers use their own address words, romanised and never italic, and a level shift is written as an event; and by R70-118-HONORIFICS_NARRATION: a close POV from a culture with honorifics carries them into narration as he would think them."
+  },
+  {
+    "old_id": "R20-5-FORMAL_ADDRESS",
+    "action": "note",
+    "by": "R70-107-SPEECH_LEVELS_ADDRESS_KOREAN",
+    "r70_quote": "Native address words as in B, and level shifts written as events as in C.",
+    "old_text": "Formal address follows the addressing institution or culture: \"follows the convention of the institution or the culture that is doing the addressing\"",
+    "note_text": "Stands; R70-107-SPEECH_LEVELS_ADDRESS_KOREAN (style law 2026-10-03) supplies the Korean and Chinese address words and makes a shift of speech level an event the room hears."
+  },
+  {
+    "old_id": "R23-10-CHINESE_PHONOTACTICS",
+    "action": "note",
+    "by": "R70-117-SOBRIQUETS_HALL_TITLES",
+    "r70_quote": "R23-10's bans lift for titles and hold for given names.",
+    "old_text": "Chinese stratum phonotactics avoid the wuxia register: \"no sect-title constructions, no honorific stacking\"",
+    "note_text": "Partly amended by R70-117-SOBRIQUETS_HALL_TITLES (style law 2026-10-03): its sect-title and honorific-stacking bans lift for hall titles, which may stack in formal address, and hold for given names (R70-107-SPEECH_LEVELS_ADDRESS_KOREAN keeps stacked honorifics out of names). Comic names (R70-132-FAR_NAMING_LAW_BENDS): this stratum's comic names (R70-125-PEOPLES_EASTERN_STRATA) are listed in the comic-name bank of its Standing Inventory (R70-131-COMIC_NAMES_GET_MADE) and keep this row's sound rules."
+  },
+  {
+    "old_id": "R52-02-VOICE_LEVER",
+    "action": "note",
+    "by": "R70-108-EASTERN_REGISTER_SPEECH_SOUNDS",
+    "r70_quote": "Natural English in daily talk",
+    "old_text": "Voice lever: \"A voice is mind and sound in equal measure\"",
+    "note_text": "Stands; R70-108-EASTERN_REGISTER_SPEECH_SOUNDS (style law 2026-10-03) adds that Chinese and Korean speakers talk natural English day to day and come out in translated forms (self-reference, set formulas, idioms word for word) at ceremony, challenge, oath, court and insult, the shift itself a beat."
+  },
+  {
+    "old_id": "R52-03-VOICE_BLOCK",
+    "action": "note",
+    "by": "R70-108-EASTERN_REGISTER_SPEECH_SOUNDS",
+    "r70_quote": "Natural English in daily talk; the translated forms (self-reference, set formulas, idioms word for word) come out at ceremony, challenge, oath, court and insult",
+    "old_text": "Voice block: \"Every major card carries a full voice block\"",
+    "note_text": "Unchanged by R70-108-EASTERN_REGISTER_SPEECH_SOUNDS (style law 2026-10-03), which keeps Chinese and Korean speakers in natural English day to day and brings out translated forms only at ceremony, challenge, oath, court and insult."
+  },
+  {
+    "old_id": "R15-1-RACIAL_VOICE_MENU",
+    "action": "note",
+    "by": "R70-108-EASTERN_REGISTER_SPEECH_SOUNDS",
+    "r70_quote": "the translated forms (self-reference, set formulas, idioms word for word) come out at ceremony, challenge, oath, court and insult",
+    "old_text": "Racial Voice and Dialect Guide demoted from enforcement to menu: \"They become a menu of options a writer can reach for.\"",
+    "note_text": "Stays a menu; R70-108-EASTERN_REGISTER_SPEECH_SOUNDS (style law 2026-10-03) sets where Chinese and Korean speakers' translated forms come out: ceremony, challenge, oath, court and insult."
+  },
+  {
+    "old_id": "R52-30-PROVERBS",
+    "action": "note",
+    "by": "R70-109-PROVERBS_SPEECH",
+    "r70_quote": "R52-30's 'one' becomes 'several'.",
+    "old_text": "Proverbs: \"Every NPC carries one fixed saying from the Standing Inventory\"",
+    "note_text": "Partly amended by R70-109-PROVERBS_SPEECH (style law 2026-10-03): 'one' becomes 'several' for elders, headmen and court speakers, who may argue in sayings at bargain, quarrel and council; the young speak plain, and a youth who quotes above his years is put down for it."
+  },
+  {
+    "old_id": "R51-28-CHANT_PAGE",
+    "action": "note",
+    "by": "R70-110-VERSE_EXCHANGED_TALK",
+    "r70_quote": "Each culture's verse form is entered in its Inventory.",
+    "old_text": "Chant Page: \"A chant appears in its own language\"",
+    "note_text": "Stands for chants; verse traded as talk under R70-110-VERSE_EXCHANGED_TALK (style law 2026-10-03) follows each culture's own verse form, entered in its Inventory."
+  },
+  {
+    "old_id": "R4-14-RUN_RULE",
+    "action": "note",
+    "by": "R70-136-NEW_CHECKS_VERIFY_SCENE",
+    "r70_quote": "A marked verse block (a poem, a lament, a declaration in lines) is left out of the rhythm statistics and word count",
+    "old_text": "The run rule, no three same-length sentences in a row: \"No three consecutive sentences within forty percent of each other\"",
+    "note_text": "Stands for prose. Read with R70-136-NEW_CHECKS_VERIFY_SCENE (style law 2026-10-03): verify leaves a marked verse block (a poem, a lament, a declaration in lines, such as verse traded in talk under R70-110-VERSE_EXCHANGED_TALK) out of its rhythm statistics and word count, so the checker does not count those lines toward a run."
+  },
+  {
+    "old_id": "R19-4-REALISTIC_SPEECH",
+    "action": "note",
+    "by": "R70-111-LONG_FORMAL_SPEECH_CLIPPED",
+    "r70_quote": "Kharven, saga and soldier speech stay short. R48-43's cap holds outside court.",
+    "old_text": "Originated dialogue must show real-time speech production: \"Speech is not prose.\"",
+    "note_text": "Stands beside R70-111-LONG_FORMAL_SPEECH_CLIPPED (style law 2026-10-03), under which court cultures argue in long formal speeches at court as their normal register while Kharven, saga and soldier speech stay short."
+  },
+  {
+    "old_id": "R48-36-NPC_WITS",
+    "action": "note",
+    "by": "R70-112-FACE_FACE_SLAP",
+    "r70_quote": "R5-C1-WELL_REASONED_WRONG_CONCLUSION and R48-36 relax for the arrogant, who may misjudge badly.",
+    "old_text": "NPC wits: \"never omniscient, never dumb\"",
+    "note_text": "Relaxed by R70-112-FACE_FACE_SLAP (style law 2026-10-03) for an arrogant scion before a public reversal, who may misjudge badly; the humbled man stays veteran-clever afterward."
+  },
+  {
+    "old_id": "R5-C1-WELL_REASONED_WRONG_CONCLUSION",
+    "action": "note",
+    "by": "R70-112-FACE_FACE_SLAP",
+    "r70_quote": "R5-C1-WELL_REASONED_WRONG_CONCLUSION and R48-36 relax for the arrogant, who may misjudge badly.",
+    "old_text": "A POV's wrong conclusion must be well-reasoned: \"The POV's wrong conclusion must be well-reasoned.\"",
+    "note_text": "Relaxed by R70-112-FACE_FACE_SLAP (style law 2026-10-03) for the arrogant, who may misjudge badly before a public reversal; every such reversal opens a Front or a Ledger debt."
+  },
+  {
+    "old_id": "R12-4-VOICE_THREE_OPPONENT",
+    "action": "note",
+    "by": "R70-112-FACE_FACE_SLAP",
+    "r70_quote": "the humbled man stays veteran-clever afterward",
+    "old_text": "Voice three: the opponent: \"barred to anyone who does not have the standing to be arrogant\"",
+    "note_text": "Stands; read with R70-112-FACE_FACE_SLAP (style law 2026-10-03), which licenses the public reversal of an arrogant man with a bill and keeps the humbled man veteran-clever afterward."
+  },
+  {
+    "old_id": "R5-D-HUMOUR_BARRED",
+    "action": "note",
+    "by": "R70-113-DOUBLE_ACT_COMIC_BEAT",
+    "r70_quote": "everyone else stays under R5-D.",
+    "old_text": "Humour never gets its own setup/deadpan/reaction rhythm: \"Barred: the beat structure of setup, deadpan and reaction.\"",
+    "note_text": "Stands for everyone but the comic voices and double acts named on their cards, who may play full comic beats, retort and reaction included (R70-113-DOUBLE_ACT_COMIC_BEAT, style law 2026-10-03)."
+  },
+  {
+    "old_id": "R52-31-COMIC_NPC",
+    "action": "note",
+    "by": "R70-113-DOUBLE_ACT_COMIC_BEAT",
+    "r70_quote": "Full comic beats, retort and reaction included, belong to comic voices and double acts named on their cards",
+    "old_text": "Comic NPC: \"with no setup-deadpan-reaction beat\"",
+    "note_text": "Partly amended by R70-113-DOUBLE_ACT_COMIC_BEAT (style law 2026-10-03): a comic NPC whose card names him a comic voice may play full comic beats, retort and reaction included. Read with R70-122-MAY_CARRY_ONE (recurring minor NPCs may keep comic names; villains and rivals may carry one) and R70-130-WALK_ONS_WITH_COMIC (a walk-on may be named at once only by a nickname in someone else's mouth)."
+  },
+  {
+    "old_id": "R5-G-TELL_BANK_ADDITIONS",
+    "action": "note",
+    "by": "R70-113-DOUBLE_ACT_COMIC_BEAT",
+    "r70_quote": "Full comic beats, retort and reaction included, belong to comic voices and double acts named on their cards",
+    "old_text": "Four new active tells added: \"the comedic beat structure\"",
+    "note_text": "Partly re-ruled, tell by tell as R70-7-FAR_MOVE directs (style law 2026-10-03); not superseded. The comedic beat structure stops being a tell for comic voices and double acts named on their cards, everyone else staying under R5-D-HUMOUR_BARRED (R70-113-DOUBLE_ACT_COMIC_BEAT). Within R70-100 to R70-138 the other three stand: declarative characterisation, the reaction-shot cutaway (R70-112-FACE_FACE_SLAP's reassessing room names no tell; R70-72 strikes the cutaway for crowds) and narrator moral adjudication."
+  },
+  {
+    "old_id": "R11-1-TONAL_SPINE_UNCHANGED",
+    "action": "note",
+    "by": "R70-114-GRIMDARK_WARMTH",
+    "r70_quote": "Each live thread carries at least one standing warm bond",
+    "old_text": "Pack Eleven widens the look, not the sound: \"Pack Five stands in full.\"",
+    "note_text": "Read with R70-114-GRIMDARK_WARMTH (style law 2026-10-03): each live thread carries at least one standing warm bond written openly warm, and joy may get scenes of its own. Its status is set by R70-1-BLEND_MODEL and R70-7-FAR_MOVE; R70-135-WHERE_NEW_LAW_LIVES carries the result into NATALIE.md and new guide editions."
+  },
+  {
+    "old_id": "R5-A-FLESH_CHANGES",
+    "action": "note",
+    "by": "R70-135-WHERE_NEW_LAW_LIVES",
+    "r70_quote": "superseded or amended as K1 decides",
+    "old_text": "Prose flesh derives from the Western tradition: \"now derive from the Western tradition\"",
+    "note_text": "Its status is set by R70-1-BLEND_MODEL and R70-7-FAR_MOVE ('as K1 decides', R70-135-WHERE_NEW_LAW_LIVES, style law 2026-10-03), and R70-135 carries the result into NATALIE.md and new editions of the Master Style Directive, Combat Craft Guide, Dialogue Craft Standards and Scene Writing Process Guide. R70-114-GRIMDARK_WARMTH adds an openly warm bond to every live thread."
+  },
+  {
+    "old_id": "R5-E-MARTIN_WINS_RULING",
+    "action": "note",
+    "by": "R70-135-WHERE_NEW_LAW_LIVES",
+    "r70_quote": "superseded or amended as K1 decides",
+    "old_text": "Martin wins on narration authority: \"Martin wins on narration authority.\"",
+    "note_text": "Its status is set by R70-1-BLEND_MODEL and R70-7-FAR_MOVE ('as K1 decides', R70-135-WHERE_NEW_LAW_LIVES, style law 2026-10-03), and R70-135 carries the result into NATALIE.md and new editions of the Master Style Directive, Combat Craft Guide, Dialogue Craft Standards and Scene Writing Process Guide."
+  },
+  {
+    "old_id": "R52-26-GRIEF",
+    "action": "note",
+    "by": "R70-115-TEARS_SENTIMENT",
+    "r70_quote": "restraint holds through the big moment and gives way, fully and openly, at a small unexpected thing. Once per character per arc.",
+    "old_text": "Grief: \"Grief takes a voice back to its root\"",
+    "note_text": "Stands; R70-115-TEARS_SENTIMENT (style law 2026-10-03) adds the delayed break: restraint holds through the big moment and gives way, fully and openly, at a small unexpected thing, once per character per arc."
+  },
+  {
+    "old_id": "R49-07-EMOTIONS",
+    "action": "note",
+    "by": "R70-115-TEARS_SENTIMENT",
+    "r70_quote": "gives way, fully and openly, at a small unexpected thing",
+    "old_text": "Emotions: \"show it in the body first\"",
+    "note_text": "Stands; R70-115-TEARS_SENTIMENT (style law 2026-10-03) adds the delayed break, full and open, at a small unexpected thing, once per character per arc."
+  },
+  {
+    "old_id": "R52-28-COMPOSURE",
+    "action": "note",
+    "by": "R70-115-TEARS_SENTIMENT",
+    "r70_quote": "restraint holds through the big moment",
+    "old_text": "Composure: \"composure is free\"",
+    "note_text": "Stands; under R70-115-TEARS_SENTIMENT (style law 2026-10-03) a guarded character's restraint holds through the big moment and may give way at a small unexpected thing, once per character per arc."
+  },
+  {
+    "old_id": "R52-27-JOY",
+    "action": "note",
+    "by": "R70-114-GRIMDARK_WARMTH",
+    "r70_quote": "joy may get scenes of its own",
+    "old_text": "Joy: \"the joy shows in hands, face and breath\"",
+    "note_text": "Stands; R70-114-GRIMDARK_WARMTH (style law 2026-10-03) lets joy get scenes of its own, and R70-115-TEARS_SENTIMENT's delayed break leaves this rule unchanged."
+  },
+  {
+    "old_id": "R5-D-HUMOUR_PERMITTED",
+    "action": "note",
+    "by": "R70-116-COMEDY_BESIDE_DANGER",
+    "r70_quote": "jokes inside the danger stay gallows wit",
+    "old_text": "Humour is a character property, not a tone exception: \"gallows wit from people whose profession earns it\"",
+    "note_text": "Stands (style law 2026-10-03). Under R70-116-COMEDY_BESIDE_DANGER comedy may be set hard against dread by design, while jokes inside the danger stay gallows wit, which this row permits from people whose profession earns it. R70-122-MAY_CARRY_ONE puts comic names on villains and rivals (a comic name on a dangerous person), and R70-127-COMIC_NAME_GRIM_END turns a comic name to grief at a bad death."
+  },
+  {
+    "old_id": "R20-4-THIRD_NAME_PROBLEM",
+    "action": "note",
+    "by": "R70-117-SOBRIQUETS_HALL_TITLES",
+    "r70_quote": "the one that sticks becomes the Third Name",
+    "old_text": "The Third Name exists outside all cultural naming conventions: \"the earned title that the world assigns\"",
+    "note_text": "Stands; under R70-117-SOBRIQUETS_HALL_TITLES (style law 2026-10-03) lesser sobriquets spread by use, most fade, and the one that sticks becomes the Third Name."
+  },
+  {
+    "old_id": "R50-21-THIRD_NAMES",
+    "action": "note",
+    "by": "R70-117-SOBRIQUETS_HALL_TITLES",
+    "r70_quote": "Your characters' names still stick only if you keep them.",
+    "old_text": "Third Names: \"it sticks only if Isaac keeps it\"",
+    "note_text": "Stands, as R70-117-SOBRIQUETS_HALL_TITLES says (style law 2026-10-03); criers, crowds, ballads and enemies may hang lesser names on any notable fighter."
+  },
+  {
+    "old_id": "R48-44-NAME_USE",
+    "action": "note",
+    "by": "R70-118-HONORIFICS_NARRATION",
+    "r70_quote": "A close POV from a culture with honorifics carries them into narration (Kaname-sama, Seo-nim) as he would think them, never italic",
+    "old_text": "Name use: \"the way the viewpoint sees them\"",
+    "note_text": "Extended by R70-118-HONORIFICS_NARRATION (style law 2026-10-03): a close POV from a culture with honorifics carries them into narration (Kaname-sama, Seo-nim), never italic; a Western POV in the same room narrates plain names."
+  },
+  {
+    "old_id": "R20-5-ON_THE_PAGE",
+    "action": "note",
+    "by": "R70-118-HONORIFICS_NARRATION",
+    "r70_quote": "carries them into narration (Kaname-sama, Seo-nim) as he would think them",
+    "old_text": "A character is introduced by whatever name the POV would use: \"introduce a character by whatever name the POV character would use\"",
+    "note_text": "Extended by R70-118-HONORIFICS_NARRATION (style law 2026-10-03): the name the POV would use includes his own honorific when his culture has them."
+  },
+  {
+    "old_id": "R50-18-OUTLIERS",
+    "action": "note",
+    "by": "R70-131-COMIC_NAMES_GET_MADE",
+    "r70_quote": "the scene-end check passes each as an outlier (R50-18) so long as it keeps its culture's sound rules",
+    "old_text": "Outliers: \"outlier names are free, no ratio, no reason needed\"",
+    "note_text": "Stands; comic names coined live pass the scene-end check as outliers so long as they keep their culture's sound rules, and any that break them are flagged (R70-131-COMIC_NAMES_GET_MADE, style law 2026-10-03). Comic bynames and nicknames are the norm among commons and soldiers (R70-119-MUCH_POOL_COMIC)."
+  },
+  {
+    "old_id": "R23-5-OUTLIER_BUDGET",
+    "action": "note",
+    "by": "R70-119-MUCH_POOL_COMIC",
+    "r70_quote": "Comic bynames and nicknames become the norm in musters, crews, taverns and markets.",
+    "old_text": "Roughly one outlier name in eight, each with a workbook reason: \"roughly one outlier in eight named characters\"",
+    "note_text": "Stays superseded (by R50-18-OUTLIERS); R70-119-MUCH_POOL_COMIC (style law 2026-10-03) sets no ratio either: comic bynames and nicknames are the norm among the commons and thin out above them."
+  },
+  {
+    "old_id": "R20-3-CONCORD_GIVEN_NAMES",
+    "action": "note",
+    "by": "R70-119-MUCH_POOL_COMIC",
+    "r70_quote": "Comic bynames and nicknames become the norm in musters, crews, taverns and markets.",
+    "old_text": "The Concord Human given-name pool is deliberately small: \"Repetition is the feature, not the bug.\"",
+    "note_text": "Stands; under R70-119-MUCH_POOL_COMIC (style law 2026-10-03) comic bynames and nicknames are the norm among commons and soldiers, as high as R70-122-MAY_CARRY_ONE lets them reach."
+  },
+  {
+    "old_id": "R50-17-SHARED_NAMES",
+    "action": "note",
+    "by": "R70-120-BUILT_COMIC_NAMES",
+    "r70_quote": "Kin, crews and sworn pairs share a name-part and change the sound, Borin and Snorin style",
+    "old_text": "Shared names: \"when they meet, it becomes a beat\"",
+    "note_text": "Stands; R70-120-BUILT_COMIC_NAMES (style law 2026-10-03) builds comic sets on it (kin, crews and sworn pairs sharing a name-part), and R70-126-BORIN_IRONHEART_RHYMING gives Borin Ironheart brothers on the shared Rin."
+  },
+  {
+    "old_id": "R53-28-VISUAL_REFERENCE",
+    "action": "note",
+    "by": "R70-120-BUILT_COMIC_NAMES",
+    "r70_quote": "the Victorian imperial register R53-28 already sets, for Northern and Accord families",
+    "old_text": "Visual Reference: \"Lord of the Mysteries and Victorian imperial-age fantasy\"",
+    "note_text": "Stands; R70-120-BUILT_COMIC_NAMES (style law 2026-10-03) hangs Dickensian talking surnames for Northern and Accord families on its Victorian imperial register."
+  },
+  {
+    "old_id": "R20-1-CONCORD_HUMAN_ANCHOR",
+    "action": "note",
+    "by": "R70-120-BUILT_COMIC_NAMES",
+    "r70_quote": "Surnames that tell a trade or a nature one notch past believable",
+    "old_text": "Concord Human naming, medieval byname freezing: \"Medieval European byname freezing\"",
+    "note_text": "Stands; R70-120-BUILT_COMIC_NAMES (style law 2026-10-03) adds Dickensian talking surnames and plausible puns for Northern and Accord families, and R70-124-PEOPLES_WEST_NORTH names the Accord and Northern commons the richest home of comic names. Comic names (R70-132-FAR_NAMING_LAW_BENDS): this culture's comic names are listed in the comic-name bank of its Standing Inventory (R70-131-COMIC_NAMES_GET_MADE) and keep its sound rules."
+  },
+  {
+    "old_id": "R20-3-DAWI_ELEMENTS",
+    "action": "note",
+    "by": "R70-132-FAR_NAMING_LAW_BENDS",
+    "r70_quote": "each culture's naming rows gain a comic-names clause pointing to that culture's comic bank in its Standing Inventory",
+    "old_text": "The Dawi element inventory, 30 morphemes for on-the-fly naming: \"Two-element compounds.\"",
+    "note_text": "Stands; banks and sound rules stand (R70-132-FAR_NAMING_LAW_BENDS, style law 2026-10-03). Comic names (R70-132): Dawi comic names live in rhyming sets on a shared bank element, deed bynames rendered in English and outsiders' mangling (R70-124-PEOPLES_WEST_NORTH), listed in the comic-name bank of the Dawi Standing Inventory (R70-131-COMIC_NAMES_GET_MADE); given names stay bank-built, and an English pun on a Dawi name needs an in-world bridge, a Common mouth, an English-rendered byname or a Common ear mishearing (R70-123-WHOSE_EAR_HEARS_JOKE)."
+  },
+  {
+    "old_id": "R23-2-CHINESE_STRATUM_SUMMARY",
+    "action": "note",
+    "by": "R70-125-PEOPLES_EASTERN_STRATA",
+    "r70_quote": "Self-awarded studio names (a scholar's chosen art-name, which other houses mock), insulting posthumous names, cheap child-names and spoken homophone puns",
+    "old_text": "The Chinese stratum: lineage-hall institutional logic: \"an optional studio name for scholars\"",
+    "note_text": "Stands; the lineage halls' comic names are mocked studio names, insulting posthumous names, cheap child-names and spoken homophone puns, nothing that needs a written character (R70-125-PEOPLES_EASTERN_STRATA, style law 2026-10-03); comic sets keep this stratum's sound rules (R70-120-BUILT_COMIC_NAMES)."
+  },
+  {
+    "old_id": "R23-2-NORTHERN_STRATUM",
+    "action": "note",
+    "by": "R70-121-GROWN_COMIC_NAMES",
+    "r70_quote": "Deed and body bynames from comrades, literal or ironic",
+    "old_text": "The Northern stratum: English and Norse filing: \"an earned byname available to anyone\"",
+    "note_text": "Stands; its byname available to anyone carries comrades' deed and body nicknames (R70-121-GROWN_COMIC_NAMES, style law 2026-10-03), and the Northern commons take talking and phrase surnames, rhyming pet names and soldiers' bynames (R70-124-PEOPLES_WEST_NORTH). Comic names (R70-132-FAR_NAMING_LAW_BENDS): listed in the comic-name bank of the culture's Standing Inventory (R70-131-COMIC_NAMES_GET_MADE), inside its sound rules."
+  },
+  {
+    "old_id": "R20-4-PRONUNCIATION_ADAPTATION",
+    "action": "note",
+    "by": "R70-121-GROWN_COMIC_NAMES",
+    "r70_quote": "A name or phrase bent by a foreign mouth and written as heard, a real mishearing every time (R20-4).",
+    "old_text": "Cross-cultural mispronunciation is characterisation, not error: \"the speaker's phonology imposes itself\"",
+    "note_text": "Stands; R70-121-GROWN_COMIC_NAMES (style law 2026-10-03) makes a name bent by a foreign mouth a comic name, a real mishearing every time."
+  },
+  {
+    "old_id": "R50-33-MISPRONOUNCE",
+    "action": "note",
+    "by": "R70-121-GROWN_COMIC_NAMES",
+    "r70_quote": "A name or phrase bent by a foreign mouth and written as heard",
+    "old_text": "Mispronounce: \"is spelled as heard in dialogue\"",
+    "note_text": "Stands; a mangled name is spelled as heard (R70-121-GROWN_COMIC_NAMES, style law 2026-10-03), and a Common ear mishearing is one bridge for an English pun (R70-123-WHOSE_EAR_HEARS_JOKE)."
+  },
+  {
+    "old_id": "R20-1-GOBLINOID_ANCHOR",
+    "action": "note",
+    "by": "R70-124-PEOPLES_WEST_NORTH",
+    "r70_quote": "Sound comedy, and bynames whose cause nobody remembers",
+    "old_text": "Goblinoid naming, Germanic compounding with heavy phonotactics: \"Germanic compounding with heavy phonotactics\"",
+    "note_text": "Stands; goblinoid comic names are sound comedy and bynames whose cause nobody remembers (R70-124-PEOPLES_WEST_NORTH, style law 2026-10-03), built inside goblinoid sound rules (R70-121-GROWN_COMIC_NAMES). Comic names (R70-132-FAR_NAMING_LAW_BENDS): listed in the comic-name bank of the culture's Standing Inventory (R70-131-COMIC_NAMES_GET_MADE)."
+  },
+  {
+    "old_id": "R23-5-OUTLIER_DEFINED",
+    "action": "note",
+    "by": "R70-121-GROWN_COMIC_NAMES",
+    "r70_quote": "R23-5 already allows a name given 'as an insult or a shield'",
+    "old_text": "An outlier name fits no stratum, and needs no justification: \"a bloodline child given a Northern name as an insult or a shield\"",
+    "note_text": "Stands; R70-121-GROWN_COMIC_NAMES (style law 2026-10-03) takes its name given as an insult or a shield as the protective ugly name, comic to outsiders, grim at home."
+  },
+  {
+    "old_id": "R48-11-HUMOUR",
+    "action": "note",
+    "by": "R70-122-MAY_CARRY_ONE",
+    "r70_quote": "B, plus villains and rivals, in the Jonson and Dickens line",
+    "old_text": "Humour: \"Humour wherever it's earned\"",
+    "note_text": "Stands; R70-122-MAY_CARRY_ONE (style law 2026-10-03) lets comic names reach recurring minor NPCs, villains and rivals, while major NPCs keep strict names."
+  },
+  {
+    "old_id": "R5-C1-NARRATION_NEVER_WINKS",
+    "action": "note",
+    "by": "R70-129-NOTICES_JOKE",
+    "r70_quote": "The narrator outside him never remarks, so R5-C1 stands.",
+    "old_text": "The narration never winks at the reader: \"The narration never winks.\"",
+    "note_text": "Stands, as R70-129-NOTICES_JOKE says (style law 2026-10-03): a close POV may register a name's joke in his own idiom, and the narrator outside him never remarks; a reader-only pun hidden in a foreign name stays out (R70-123-WHOSE_EAR_HEARS_JOKE)."
+  },
+  {
+    "old_id": "R50-01-REAL_GRAMMAR",
+    "action": "note",
+    "by": "R70-123-WHOSE_EAR_HEARS_JOKE",
+    "r70_quote": "Reader-only puns hidden in a foreign name stay out.",
+    "old_text": "Real grammar: \"must be real, correct phrases in that language\"",
+    "note_text": "Stands; a reader-only English pun hidden in a foreign name stays out (R70-123-WHOSE_EAR_HEARS_JOKE, style law 2026-10-03), and Korean comic names are real Korean only (R70-125-PEOPLES_EASTERN_STRATA)."
+  },
+  {
+    "old_id": "R20-1-DAWI_ANCHOR",
+    "action": "note",
+    "by": "R70-124-PEOPLES_WEST_NORTH",
+    "r70_quote": "deed bynames rendered in English",
+    "old_text": "Dawi naming, Norse dithematic compounding and Finnish phonology: \"Norse dithematic compounding with Finnish phonology\"",
+    "note_text": "Stands; Dawi deed bynames may be rendered in English as comic names (R70-124-PEOPLES_WEST_NORTH, style law 2026-10-03), and Borin Ironheart's brothers are built on the shared Rin (R70-126-BORIN_IRONHEART_RHYMING)."
+  },
+  {
+    "old_id": "R23-11-ROLL_NAMES_FROM_ACCORD",
+    "action": "note",
+    "by": "R70-124-PEOPLES_WEST_NORTH",
+    "r70_quote": "roll-names (surnames an Accord clerk assigned)",
+    "old_text": "Far-Northern surnames were assigned by the Accord's filing system: \"a frozen surname taken off the nearest legible thing\"",
+    "note_text": "Stands; roll-names an Accord clerk assigned are one of the Kharven and Far-Northern comic names (R70-124-PEOPLES_WEST_NORTH, style law 2026-10-03)."
+  },
+  {
+    "old_id": "R23-11-NAME_AVOIDANCE_WAITING",
+    "action": "note",
+    "by": "R70-127-COMIC_NAME_GRIM_END",
+    "r70_quote": "Among the Kharven the name then goes unspoken until it is given on (R23-11).",
+    "old_text": "Name-avoidance interlocks with Kharven's Waiting: \"The name of the recently dead is not spoken until it has been given on.\"",
+    "note_text": "Stands; no joke falls on the name of the recently dead (R70-124-PEOPLES_WEST_NORTH, style law 2026-10-03), and when a comic-named Kharven dies badly the name, once said at the death, goes unspoken until it is given on (R70-127-COMIC_NAME_GRIM_END)."
+  },
+  {
+    "old_id": "R23-11-CARRIED_NAME_MECHANISM",
+    "action": "note",
+    "by": "R70-127-COMIC_NAME_GRIM_END",
+    "r70_quote": "Among the Kharven the name then goes unspoken until it is given on (R23-11).",
+    "old_text": "The carried name: \"When someone dies the name is held, unspoken, until it is given on to a child, and the child carries it.\"",
+    "note_text": "Stands. The short id R23-11 in R70-127-COMIC_NAME_GRIM_END (style law 2026-10-03) reaches this row with R23-11-NAME_AVOIDANCE_WAITING: when a comic-named Kharven dies badly, the comic name, once said at the death, is held unspoken until it is given on."
+  },
+  {
+    "old_id": "R50-12-COINED_LATIN",
+    "action": "note",
+    "by": "R70-124-PEOPLES_WEST_NORTH",
+    "r70_quote": "Accord jokes in correct Latin (R50-12)",
+    "old_text": "Coined Latin: \"New Latinate names use real, correct Latin.\"",
+    "note_text": "Stands; Accord jokes in names are in correct Latin (R70-124-PEOPLES_WEST_NORTH, style law 2026-10-03)."
+  },
+  {
+    "old_id": "R23-2-JAPONIC_STRATUM",
+    "action": "note",
+    "by": "R70-125-PEOPLES_EASTERN_STRATA",
+    "r70_quote": "Retainers and servants of the Japonic houses take calling-names from real Japanese trait-words",
+    "old_text": "The Japonic stratum: Archaic Bloodline institutional logic: \"name-taboo on the living\"",
+    "note_text": "Stands; Japonic retainers and servants take calling-names from real Japanese trait-words and sound puns on real words, glossed once by a character (R70-125-PEOPLES_EASTERN_STRATA, style law 2026-10-03)."
+  },
+  {
+    "old_id": "R40-1-MOTO_ELEMENT_INVENTORY",
+    "action": "note",
+    "by": "R70-132-FAR_NAMING_LAW_BENDS",
+    "r70_quote": "each culture's naming rows gain a comic-names clause pointing to that culture's comic bank in its Standing Inventory",
+    "old_text": "Moto element inventory, Japonic stratum, thirty elements and the Given + Line + Moto slot: \"Given name + Line name + Moto.\"",
+    "note_text": "Stands; given names stay under it (R70-125-PEOPLES_EASTERN_STRATA, style law 2026-10-03). Comic names (R70-132-FAR_NAMING_LAW_BENDS): retainers' calling-names and the comic bynames servants and rival Lines coin behind new cadets' backs are listed in the comic-name bank of the Moto Standing Inventory (R70-131-COMIC_NAMES_GET_MADE); no carded Moto is touched."
+  },
+  {
+    "old_id": "R50-31-SCRIPT_SHOWN",
+    "action": "note",
+    "by": "R70-125-PEOPLES_EASTERN_STRATA",
+    "r70_quote": "Nothing that needs a written character to land",
+    "old_text": "Script shown: \"True names are romanised only\"",
+    "note_text": "Stands; no comic name in the Eastern strata may need a written character to land (R70-125-PEOPLES_EASTERN_STRATA, style law 2026-10-03)."
+  },
+  {
+    "old_id": "R37-1-MAHUO_ELEMENT_INVENTORY",
+    "action": "note",
+    "by": "R70-132-FAR_NAMING_LAW_BENDS",
+    "r70_quote": "each culture's naming rows gain a comic-names clause pointing to that culture's comic bank in its Standing Inventory",
+    "old_text": "Mahuo element inventory, breath, soul and the Ledger: \"One syllable is the generation-syllable\"",
+    "note_text": "Stands; banks and sound rules stand (R70-132-FAR_NAMING_LAW_BENDS, style law 2026-10-03). Comic names (R70-132): Mahuo names may chime through the generation syllable onto a real Korean word, and children may carry ugly milk-names (R70-125-PEOPLES_EASTERN_STRATA); they are listed in the comic-name bank of the Standing Inventory that carries the Mahuo (R70-131-COMIC_NAMES_GET_MADE)."
+  },
+  {
+    "old_id": "R52-14-SODOKU_JOKE",
+    "action": "note",
+    "by": "R70-125-PEOPLES_EASTERN_STRATA",
+    "r70_quote": "No carded Moto is touched, Sodoku least of all",
+    "old_text": "Sodoku joke: \"Sodoku makes jokes only by accident\"",
+    "note_text": "Stands; no carded Moto, Sodoku least of all, takes a comic byname (R70-125-PEOPLES_EASTERN_STRATA, style law 2026-10-03). His humour is Isaac's to play: R70-113-DOUBLE_ACT_COMIC_BEAT's full comic beats belong only to voices carded as comic, and no beat is written for him (R49-01-WHOSE_HEAD)."
+  },
+  {
+    "old_id": "R22-1-HOUSE_STRUCK",
+    "action": "note",
+    "by": "R70-125-PEOPLES_EASTERN_STRATA",
+    "r70_quote": "no Büri form returns",
+    "old_text": "Büri struck; Moto governs, house and bloodline: \"the Moto bloodline\"",
+    "note_text": "Stands; no comic name revives a Büri form (R70-125-PEOPLES_EASTERN_STRATA, style law 2026-10-03)."
+  },
+  {
+    "old_id": "R50-02-FIX_OLD_ONES",
+    "action": "note",
+    "by": "R70-126-BORIN_IRONHEART_RHYMING",
+    "r70_quote": "Natalie invents Borin's brothers on the shared Rin",
+    "old_text": "Fix old ones: \"the rest stays\"",
+    "note_text": "Stands; R70-126-BORIN_IRONHEART_RHYMING (style law 2026-10-03) renames nobody: Borin Ironheart keeps his name, as the questionnaire settled under this row, and his brothers are new names on the shared Rin."
+  },
+  {
+    "old_id": "R49-38-FUNERAL_TEST",
+    "action": "note",
+    "by": "R70-127-COMIC_NAME_GRIM_END",
+    "r70_quote": "Someone says the comic name at the death and the joke becomes the wound.",
+    "old_text": "Funeral test: \"characters whose humour is their voice may be openly funny\"",
+    "note_text": "Stands; when a comic-named character dies badly, someone says the comic name at the death and the joke becomes the wound (R70-127-COMIC_NAME_GRIM_END, style law 2026-10-03)."
+  },
+  {
+    "old_id": "R50-22-PLACE_STRATA",
+    "action": "note",
+    "by": "R70-128-PLACES_INNS_SHIPS_GEAR",
+    "r70_quote": "The commons' names for streets, fords and districts sit beside the official ones, one per culture (R50-22).",
+    "old_text": "Place strata: \"A place carries several names, one per culture that uses it\"",
+    "note_text": "Extended by R70-128-PLACES_INNS_SHIPS_GEAR (style law 2026-10-03): the commons' comic names for streets, fords and districts sit beside the official ones, one per culture; the Accord's Latin name stays grave."
+  },
+  {
+    "old_id": "R50-23-DOUBLETS",
+    "action": "note",
+    "by": "R70-128-PLACES_INNS_SHIPS_GEAR",
+    "r70_quote": "The Accord's Latin name stays grave",
+    "old_text": "Doublets: \"schools, factions and places get both\"",
+    "note_text": "Stands; the Accord's Latin place name stays grave beside any comic folk name (R70-128-PLACES_INNS_SHIPS_GEAR, style law 2026-10-03)."
+  },
+  {
+    "old_id": "R50-13-ITEM_NAMES",
+    "action": "note",
+    "by": "R70-128-PLACES_INNS_SHIPS_GEAR",
+    "r70_quote": "Weapons and gear take soldiers' folk names beside their true names (R50-13)",
+    "old_text": "Item names: \"each culture names it in its own tongue\"",
+    "note_text": "Extended by R70-128-PLACES_INNS_SHIPS_GEAR (style law 2026-10-03): weapons and gear may take soldiers' comic folk names beside their true names; the true name in the maker's tongue stays grave."
+  },
+  {
+    "old_id": "R50-11-LONG_NAMES",
+    "action": "note",
+    "by": "R70-128-PLACES_INNS_SHIPS_GEAR",
+    "r70_quote": "Technique names keep R50-11 and R8-22",
+    "old_text": "Long names: \"New English technique names are short\"",
+    "note_text": "Stands for technique names, as R70-128-PLACES_INNS_SHIPS_GEAR says (style law 2026-10-03); the comic folk names R70-128 allows belong to inns and shops, places, vessels and engines, and weapons and gear, never to techniques."
+  },
+  {
+    "old_id": "R8-22-LITERAL_GLOSS",
+    "action": "note",
+    "by": "R70-128-PLACES_INNS_SHIPS_GEAR",
+    "r70_quote": "Technique names keep R50-11 and R8-22",
+    "old_text": "The gloss is flat and literal, never poetic: \"Flat, literal, no poetry, no interpretation.\"",
+    "note_text": "Stands for technique names, as R70-128-PLACES_INNS_SHIPS_GEAR says (style law 2026-10-03)."
+  },
+  {
+    "old_id": "R8-22-BY_NAME_POETRY",
+    "action": "note",
+    "by": "R70-128-PLACES_INNS_SHIPS_GEAR",
+    "r70_quote": "Technique names keep R50-11 and R8-22",
+    "old_text": "By-name: \"The by-name, where an art has one, sits after the gloss and is what other characters call it.\"",
+    "note_text": "Stands for technique names, as R70-128-PLACES_INNS_SHIPS_GEAR says (style law 2026-10-03); the short id R8-22 reaches this row and R8-22-LITERAL_GLOSS. The comic folk names R70-128 allows for weapons and gear do not reach a technique's by-name."
+  },
+  {
+    "old_id": "R5-C1-INFO_TRACKED_PER_POV",
+    "action": "note",
+    "by": "R70-129-NOTICES_JOKE",
+    "r70_quote": "The POV's own head may register the joke in his own idiom, as he would think it.",
+    "old_text": "Information is tracked per POV, not per reader: \"Information is tracked per POV, not per reader.\"",
+    "note_text": "Stands; under R70-129-NOTICES_JOKE (style law 2026-10-03) the POV's own head may register a name's joke in his own idiom."
+  },
+  {
+    "old_id": "R50-27-NEW_NPC_NAME",
+    "action": "note",
+    "by": "R70-130-WALK_ONS_WITH_COMIC",
+    "r70_quote": "A walk-on may be named at once only by a nickname in someone else's mouth; the narration keeps the role until R50-27 is met.",
+    "old_text": "New NPC name: \"is a role (the gate-clerk) until they speak twice or matter\"",
+    "note_text": "Amended in one line by R70-130-WALK_ONS_WITH_COMIC (NM12, as R70-132-FAR_NAMING_LAW_BENDS directs; style law 2026-10-03): a walk-on may be named at once only by a nickname in someone else's mouth; the narration keeps the role until this rule is met, and a walk-on named for a joke does not die in that scene."
+  },
+  {
+    "old_id": "R50-30-BANK_OR_EAR",
+    "action": "note",
+    "by": "R70-131-COMIC_NAMES_GET_MADE",
+    "r70_quote": "Natalie coins comic names live; the scene-end check passes each as an outlier (R50-18) so long as it keeps its culture's sound rules, and flags any that break them",
+    "old_text": "Bank or ear: \"names are checked against the banks and sound rules at the scene's end\"",
+    "note_text": "Amended in one line by R70-131-COMIC_NAMES_GET_MADE (NM13, as R70-132-FAR_NAMING_LAW_BENDS directs; style law 2026-10-03): comic names coined by ear pass the scene-end check as outliers so long as they keep their culture's sound rules, and any that break them are flagged."
+  },
+  {
+    "old_id": "R50-28-NEW_WORDS",
+    "action": "note",
+    "by": "R70-131-COMIC_NAMES_GET_MADE",
+    "r70_quote": "Not taken: A floor per crowd scene, A pitch list per session.",
+    "old_text": "New words: \"it becomes canon only if Isaac reuses it\"",
+    "note_text": "Unchanged by R70-131-COMIC_NAMES_GET_MADE (style law 2026-10-03), whose comic names coined live are checked at scene end under R50-30-BANK_OR_EAR."
+  },
+  {
+    "old_id": "R23-11-PHONOTACTICS",
+    "action": "note",
+    "by": "R70-132-FAR_NAMING_LAW_BENDS",
+    "r70_quote": "Banks and sound rules stand.",
+    "old_text": "Far-Northern phonotactics for coining names: \"Uvulars are the signature\"",
+    "note_text": "Stands (R70-132-FAR_NAMING_LAW_BENDS, style law 2026-10-03: banks and sound rules stand). Comic names (R70-132): a Far-Northern comic name built in this register (R70-124-PEOPLES_WEST_NORTH lists scarcity-insult bynames and protective cheap names) keeps these sound rules and is listed in the comic-name bank of the culture's Standing Inventory (R70-131-COMIC_NAMES_GET_MADE); roll-names are the Accord's (R23-11-ROLL_NAMES_FROM_ACCORD)."
+  },
+  {
+    "old_id": "R48-45-CHECKS",
+    "action": "note",
+    "by": "R70-136-NEW_CHECKS_VERIFY_SCENE",
+    "r70_quote": "Combat words by school",
+    "old_text": "Checks: \"every turn passes the full checker\"",
+    "note_text": "Stands; R70-136-NEW_CHECKS_VERIFY_SCENE (style law 2026-10-03) adds combat words by school, a verse marker that keeps marked verse out of the rhythm statistics and word count, and a WARN on translated web-novel formulas in narration."
+  },
+  {
+    "old_id": "R49-51-EXPLICIT",
+    "action": "note",
+    "by": "R70-133-EASTERN_TECHNIQUES_BESIDE_CLINICAL",
+    "r70_quote": "carrying mood without replacing the plain words",
+    "old_text": "Explicit: \"Explicit narration stays plain and crude\"",
+    "note_text": "Partly amended by R70-133-EASTERN_TECHNIQUES_BESIDE_CLINICAL (style law 2026-10-03): season and nature imagery, one held detail at chosen moments, a closing exchange such as a morning poem in the aftermath, and mimetic words (romanised, never italic) may sit beside its plain, crude words without replacing them. R70-134-KEYED_CULTURE_FREE keys them to the POV's culture: a Moto POV writes with image and the held detail, a Kharven POV blunt, whoever the lover is."
+  }
+]

@@ -1,0 +1,554 @@
+[
+ {
+  "old_id": "R1-1-VERDICT_GRAMMAR",
+  "action": "note",
+  "by": "R70-70-INTENT_FELT_BODY",
+  "r70_quote": "Killing intent becomes Pressure narrowed onto one man through Dominion",
+  "old_text": "Verdict Grammar, read-rank-commit: \"Verdict Grammar. Applies to characters whose combat is a reading followed by a conclusion. There is no conversation because a conclusion does not converse. The prose...\"",
+  "note_text": "Noted by R70-70-INTENT_FELT_BODY (style law 2026-10-03): killing intent may be felt as aimed Pressure once its mechanism is ruled; the read-rank-commit skeleton stands."
+ },
+ {
+  "old_id": "R10-3-PROJECTED_FORM_LICENSE",
+  "action": "note",
+  "by": "R70-69-PRESSURE_AURA",
+  "r70_quote": "Pressure shows first in the room: smoke, frost, lamp flames, the draw-hum, animals; bodies follow.",
+  "old_text": "Ability Effect may render as an externalised shape: \"This is the change Isaac asked for directly. Ability Effect fields may now render a working as an externalized shape...\"",
+  "note_text": "Noted by R70-69-PRESSURE_AURA (style law 2026-10-03): Pressure shows first through the room, then bodies; the projected-shape licence is untouched."
+ },
+ {
+  "old_id": "R10-3-UNCHANGED_CONSTRAINTS",
+  "action": "note",
+  "by": "R70-73-MANY_DISPLAY_BEATS_PER",
+  "r70_quote": "Each named practitioner may take one display beat per scene, so a duel can carry two and a battle several.",
+  "old_text": "Splash-panel, read budget and ignorance quota still govern: \"- One splash-panel beat per scene (Pack Nine) still governs the moment the shape is at its most visually loud. - One diagnostic read per scene (Part Two above) still...\"",
+  "note_text": "Partly amended by R70-73-MANY_DISPLAY_BEATS_PER (style law 2026-10-03): the one splash-panel beat per scene becomes one per named practitioner per scene; the diagnostic-read and ignorance clauses stand."
+ },
+ {
+  "old_id": "R12-1-PACK_SEVEN_SURVIVORS",
+  "action": "note",
+  "by": "R70-69-PRESSURE_AURA",
+  "r70_quote": "Pressure shows first in the room",
+  "old_text": "What Pack Seven got right survives the repeal: \"The economy is still a hard rail: power is finite, spent, and the spending shows on the page or it did not happen. The ladder is still real and higher is still felt...\"",
+  "note_text": "Noted by R70-69-PRESSURE_AURA and R70-70-INTENT_FELT_BODY (style law 2026-10-03): Pressure is rendered through the room first, and killing intent becomes aimed Pressure once ruled; the economy and the felt-before-seen ladder stand."
+ },
+ {
+  "old_id": "R12-2-MYSTIC_REGISTER_DEF",
+  "action": "note",
+  "by": "R70-76-MUCH_WORLD_MAGIC",
+  "r70_quote": "R12-2 governs what the world does and R48-25 narrows to what people do: rules in the imperative, prices as prices, taboos unexplained.",
+  "old_text": "The Mystic Register, defined: \"The Mystic Register governs Wellsprings, sites, rites, oaths, the Veil, and anything the world does regardless of who is watching. It is Lord of the Mysteries. It is...\"",
+  "note_text": "Noted by R70-76-MUCH_WORLD_MAGIC (style law 2026-10-03): 'R12-2 governs what the world does and R48-25 narrows to what people do', so this register's statement as law (rules in the imperative, prices as prices, taboos unexplained) governs what the world does by itself, and R48-25-AWE no longer reaches it. R70-9-TECHNICAL_MYSTIC_REGISTERS rewrites R12-2 (what each register draws on); R70-76 carries this stated-law clause forward."
+ },
+ {
+  "old_id": "R12-2-TECHNICAL_REGISTER_DEF",
+  "action": "note",
+  "by": "R70-71-EXPLAINING_WORKING_MID_FIGHT",
+  "r70_quote": "A working's rules are planted earlier (training, a document, talk), so the fight's explaining is mostly recall and the reader does the sum with the fighter.",
+  "old_text": "The Technical Register, defined: \"The Technical Register governs combat, craft, injury, and anything a practitioner does on purpose. It is Naruto. It is exhaustive, tactical, and delivered in-fight...\"",
+  "note_text": "Noted by R70-71-EXPLAINING_WORKING_MID_FIGHT and R70-76-MUCH_WORLD_MAGIC (style law 2026-10-03): a working's rules are planted before the fight, so the explaining this register delivers in-fight is mostly recall, self-derived techniques still read live; people's workings keep full mechanism. Neither names this rule; R70-9-TECHNICAL_MYSTIC_REGISTERS is the R70 row that rewrites R12-2."
+ },
+ {
+  "old_id": "R12-3-NAMED_INVENTOR_RULE",
+  "action": "note",
+  "by": "R70-71-EXPLAINING_WORKING_MID_FIGHT",
+  "r70_quote": "Self-derived techniques are still read live (R12-3).",
+  "old_text": "Documented techniques are counterable by study; originals by live read: \"The named inventor rule. Every technique was derived by somebody, in a specific place, for a specific problem, and the text may say so. A documented technique is...\"",
+  "note_text": "Kept by R70-71-EXPLAINING_WORKING_MID_FIGHT (style law 2026-10-03): 'Self-derived techniques are still read live (R12-3)'. A working's rules are otherwise planted before the fight (training, a document, talk), so a fight's explaining is mostly recall; the live read of a self-derived technique stands under this rule."
+ },
+ {
+  "old_id": "R12-4-VOICE_FOUR_DOCUMENT",
+  "action": "note",
+  "by": "R70-75-RITE_PAGE",
+  "r70_quote": "the scene then performs it, and something departs from it.",
+  "old_text": "Voice four: the document: \"The document. The LotM model. An in-world register entry, field manual, or codex line dropped into the narrative at the threshold of a scene. Uses the Mystic Register...\"",
+  "note_text": "Noted by R70-75-RITE_PAGE and R70-67-FORMS_WORLD_DOCUMENTS (style law 2026-10-03): a rite performed on the page appears as a numbered in-world form set apart, which the scene performs and something departs from, and in-world documents gain four named forms. Neither names this voice, which stands."
+ },
+ {
+  "old_id": "R12-4-VOICE_MIXING_RULE",
+  "action": "note",
+  "by": "R70-71-EXPLAINING_WORKING_MID_FIGHT",
+  "r70_quote": "so the fight's explaining is mostly recall and the reader does the sum with the fighter.",
+  "old_text": "Mix the four explaining voices; at most two per engagement: \"Confirmed by Isaac's ruling: mix, whoever is in the scene. Four carriers. Pick per scene. Do not run more than two in one engagement.\"",
+  "note_text": "Noted by R70-71-EXPLAINING_WORKING_MID_FIGHT (style law 2026-10-03): a working's rules are planted before the fight, so explaining in it is mostly recall; the two-voice cap per engagement stands."
+ },
+ {
+  "old_id": "R12-5-NEVER_INVENT_NUMBER",
+  "action": "note",
+  "by": "R70-67-FORMS_WORLD_DOCUMENTS",
+  "r70_quote": "each figure traced to canon (R12-5, R57-07)",
+  "old_text": "A number is never invented: \"Never invent a number. Unchanged and absolute. Every value checked against source. Unspecified means flagged as estimate.\"",
+  "note_text": "Applied by R70-67-FORMS_WORLD_DOCUMENTS (style law 2026-10-03): figures in Guild reference entries are traced to canon under this rule."
+ },
+ {
+  "old_id": "R12-6-RITUAL_SPECIFICATION",
+  "action": "note",
+  "by": "R70-75-RITE_PAGE",
+  "r70_quote": "The rite appears as an in-world form in the Guild's house style (R51-33), numbered and set apart",
+  "old_text": "A ritual specifies its materials, sequence and errors: \"Ritual gets its materials, its sequence, and its errors. A rite has a bill of goods, an order of operations, and a list of ways it goes wrong, all specified.\"",
+  "note_text": "Extended by R70-75-RITE_PAGE (style law 2026-10-03): a rite performed in a scene appears as an in-world form in the Guild's house style, numbered and set apart, then the scene performs it and something departs from it. The bill of goods, order of operations and list of errors this rule specifies stand."
+ },
+ {
+  "old_id": "R13-6-ANIME_GRAMMAR_TRANSLATION_AID",
+  "action": "note",
+  "by": "R70-68-INSIDE_PRACTICE",
+  "r70_quote": "Practice is written as a walk through the Soul Crystal in Codex nouns",
+  "old_text": "Anime grammar is a translation aid, never page vocabulary: \"Anime grammar as a translation aid, never as page vocabulary. Nen's shroud, stop, output, expression, and their refinements; Naruto's split of shape from nature; JJK's...\"",
+  "note_text": "Noted by R70-68-INSIDE_PRACTICE (style law 2026-10-03): inner practice is mapped in Codex nouns, in WOTR's own words as this rule asks; it stands."
+ },
+ {
+  "old_id": "R13-6-WOTR_FIRST",
+  "action": "note",
+  "by": "R70-68-INSIDE_PRACTICE",
+  "r70_quote": "Practice is written as a walk through the Soul Crystal in Codex nouns, layer by layer",
+  "old_text": "WOTR nouns are used in preference to borrowed ones: \"WOTR first. The glossary and the Codex already own the nouns and they are used in preference to anything borrowed: the three Planes, the Veil, Aether and its Density...\"",
+  "note_text": "Applied by R70-68-INSIDE_PRACTICE (style law 2026-10-03): inner practice is written as a walk through the Soul Crystal in Codex nouns; this rule stands."
+ },
+ {
+  "old_id": "R20C-37-DOCUMENTS_OWE_NOTHING",
+  "action": "note",
+  "by": "R70-67-FORMS_WORLD_DOCUMENTS",
+  "r70_quote": "Yes to: Lists and loose notebooks",
+  "old_text": "In-world documents owe nothing to sounding in-world: \"In-world documents owe nothing to sounding in-world.\"",
+  "note_text": "Noted by R70-67-FORMS_WORLD_DOCUMENTS (style law 2026-10-03): documents gain four named forms; this rule stands."
+ },
+ {
+  "old_id": "R4-13-WHERE_SIGNIFICANCE_LIVES",
+  "action": "note",
+  "by": "R70-72-WATCHING_CROWD_POWER_REVEAL",
+  "r70_quote": "At a reveal the crowd may speak in waves inside the POV's hearing: the breath, the name passed along, an elder's verdict.",
+  "old_text": "Significance lives in three places, never in narration: \"Three places, and narration is not one of them. 1. A physical tell adjacent to the line. Hild's hand on the arm of the chair. Whether it opens or closes. 2. The other...\"",
+  "note_text": "Noted by R70-72-WATCHING_CROWD_POWER_REVEAL (style law 2026-10-03): at a power reveal the crowd may speak in waves inside the POV's hearing. R70-72 does not name this rule; its three places for significance, and narration not being one, stand."
+ },
+ {
+  "old_id": "R4-13-ZERO_BUDGET",
+  "action": "note",
+  "by": "R70-65-SET_IDIOMS_NARRATION",
+  "r70_quote": "An elder tells the story once on the page; after that the idiom is used bare, in narration or speech.",
+  "old_text": "Zero glosses per scene, not rationed: \"Zero glosses per scene. Not rationed. There is no acceptable first instance.\"",
+  "note_text": "Noted by R70-65-SET_IDIOMS_NARRATION and R70-71-EXPLAINING_WORKING_MID_FIGHT (style law 2026-10-03): an elder tells an idiom's story once on the page before the idiom is used bare, and a working's rules are planted before a fight through training, a document or talk. Neither names this rule, and the zero gloss budget stands."
+ },
+ {
+  "old_id": "R4-14-CHAIN_CEILING",
+  "action": "note",
+  "by": "R70-56-CATALOGUE_TELLING_DETAIL",
+  "r70_quote": "The chain ceiling (R4-14) still holds, so short sentences flank a long list.",
+  "old_text": "The chain ceiling, no more than two long sentences in a row: \"The chain ceiling. No more than two consecutive sentences over 25 words. The third breaks, or the paragraph does.\"",
+  "note_text": "Kept by R70-56-CATALOGUE_TELLING_DETAIL (style law 2026-10-03): catalogues at set occasions still obey the chain ceiling."
+ },
+ {
+  "old_id": "R46-2-NINE_ITEM_TIERS_NAMED",
+  "action": "note",
+  "by": "R70-48-MONEY_PRICE_PROVENANCE",
+  "r70_quote": "Tier and price stay off unless asked",
+  "old_text": "Nine item Tiers, Marked to Proscribed, each held by material tier n and level with Tier of Standing n: \"Material tier n holds a working up to item Tier n, level with Tier of Standing n.\"",
+  "note_text": "Noted by R70-48-MONEY_PRICE_PROVENANCE (style law 2026-10-03): a notable object is described in prose by its lineage, with its Tier kept off unless asked; the Tiers stand."
+ },
+ {
+  "old_id": "R47-12-MYSTERY_STAYS_OPEN",
+  "action": "note",
+  "by": "R70-76-MUCH_WORLD_MAGIC",
+  "r70_quote": "Law stated, reasons kept.",
+  "old_text": "What nobody knows stays open; answers are one school's reading: \"A What nobody knows question is never answered as fact on the page; a proposed answer is one in-world school's reading and the mystery stays open.\"",
+  "note_text": "Noted by R70-76-MUCH_WORLD_MAGIC (style law 2026-10-03): what the world does is stated as law with its reasons kept ('Law stated, reasons kept'). R70-76 does not name this rule, which stands."
+ },
+ {
+  "old_id": "R48-02-DENSITY",
+  "action": "note",
+  "by": "R70-52-OVERALL_DENSITY",
+  "r70_quote": "R48-02 stands: full sensory layering in every scene, slower and denser.",
+  "old_text": "Density: \"Lush throughout: every scene gets full sensory layering; slower, denser, more immersive.\"",
+  "note_text": "Kept by R70-52-OVERALL_DENSITY (style law 2026-10-03): R48-02 stands; the blend widens what is described (the R70-40 range rule) and keeps the amount."
+ },
+ {
+  "old_id": "R48-04-METAPHORS",
+  "action": "note",
+  "by": "R70-59-WHERE_COMPARISONS_COME_FROM",
+  "r70_quote": "POV-life comparisons stay the default",
+  "old_text": "Metaphors: \"Metaphors come from the POV's own life: trade, homeland, body; metaphor doubles as characterisation.\"",
+  "note_text": "Partly amended by R70-59-WHERE_COMPARISONS_COME_FROM (style law 2026-10-03): POV-life comparisons stay the default, and each culture's listed set images may be used whole; R70-66-NAMED_DEVICES_ADD makes the epic simile an exception, and R70-44-CULTURE_KEYED_NOTICING keys what a POV notices to his culture."
+ },
+ {
+  "old_id": "R48-05-HIGH_STYLE",
+  "action": "note",
+  "by": "R70-62-WEATHER_LAND_AS_PERSONS",
+  "r70_quote": "R49-22 relaxes at mythic moments (R48-05)",
+  "old_text": "High style: \"High mythic style is allowed freely in narration whenever the moment calls for it (not only in documents).\"",
+  "note_text": "Noted by R70-62-WEATHER_LAND_AS_PERSONS (style law 2026-10-03): personified weather and land is allowed at the mythic moments this rule licenses; it stands."
+ },
+ {
+  "old_id": "R48-10-MIXING",
+  "action": "note",
+  "by": "R70-76-MUCH_WORLD_MAGIC",
+  "r70_quote": "People's workings keep full mechanism.",
+  "old_text": "Mixing: \"Drop the Technical/Mystic no-mixing rule: registers mix freely by ear.\"",
+  "note_text": "Noted by R70-76-MUCH_WORLD_MAGIC (style law 2026-10-03): the world's magic is stated as law and people's workings keep full mechanism; free mixing by ear is not touched there and stands."
+ },
+ {
+  "old_id": "R48-22-LENS_NAMES",
+  "action": "note",
+  "by": "R70-68-INSIDE_PRACTICE",
+  "r70_quote": "Practice is written as a walk through the Soul Crystal in Codex nouns",
+  "old_text": "Lens names: \"Real-world names and terms for borrowed ideas (Stoic pneuma, solve et coagula) may appear anywhere they fit, scenes included.\"",
+  "note_text": "Noted by R70-68-INSIDE_PRACTICE (style law 2026-10-03): the inner map is drawn in Codex nouns; borrowed idea-names stand where they fit."
+ },
+ {
+  "old_id": "R48-25-AWE",
+  "action": "note",
+  "by": "R70-76-MUCH_WORLD_MAGIC",
+  "r70_quote": "R48-25 narrows to what people do",
+  "old_text": "Awe: \"Clarity everywhere: scenes explain Wellsprings, rites, oaths and the Veil as plainly as a sword exchange.\"",
+  "note_text": "Partly amended by R70-76-MUCH_WORLD_MAGIC (style law 2026-10-03): R48-25 narrows to what people do, and what the world does by itself is stated as law under R12-2-MYSTIC_REGISTER_DEF, taboos unexplained. A rite performed on the page follows R70-75-RITE_PAGE."
+ },
+ {
+  "old_id": "R48-45-CHECKS",
+  "action": "note",
+  "by": "R70-58-CHECKING_RANGE",
+  "r70_quote": "Census as a WARN.",
+  "old_text": "Checks: \"Full check on every roleplay turn: every turn passes the full checker.\"",
+  "note_text": "Noted by R70-58-CHECKING_RANGE (style law 2026-10-03): the description census runs as a WARN, not a FAIL; the full check on every turn stands."
+ },
+ {
+  "old_id": "R49-09-CUTAWAYS",
+  "action": "note",
+  "by": "R70-72-WATCHING_CROWD_POWER_REVEAL",
+  "r70_quote": "the crowd may speak in waves inside the POV's hearing",
+  "old_text": "Cutaways: \"A turn may close with a short, clearly marked cut to something the POV cannot see (a Front advancing, an NPC plotting).\"",
+  "note_text": "Noted by R70-72-WATCHING_CROWD_POWER_REVEAL (style law 2026-10-03): a crowd's chorus at a reveal stays inside the POV's hearing and is not a cutaway; this rule stands."
+ },
+ {
+  "old_id": "R49-19-EXTENDED",
+  "action": "note",
+  "by": "R70-66-NAMED_DEVICES_ADD",
+  "r70_quote": "it may reach beyond the POV's life, an exception to R48-04 and R49-19",
+  "old_text": "Extended: \"Extended and stacked metaphors are both allowed by ear when they come from the POV's life.\"",
+  "note_text": "Partly amended by R70-66-NAMED_DEVICES_ADD (style law 2026-10-03): once per set piece an epic simile at a held instant may reach beyond the POV's life; otherwise this rule stands."
+ },
+ {
+  "old_id": "R49-20-STOCK_PHRASE",
+  "action": "note",
+  "by": "R70-59-WHERE_COMPARISONS_COME_FROM",
+  "r70_quote": "R49-20 relaxes for the listed images.",
+  "old_text": "Stock phrase: \"Dead metaphors are always rebuilt from the POV's own life, even when a rough POV would think the cliche.\"",
+  "note_text": "Partly amended by R70-59-WHERE_COMPARISONS_COME_FROM (style law 2026-10-03): R49-20 relaxes for each culture's listed set images, which may be used whole; every other dead metaphor is still rebuilt."
+ },
+ {
+  "old_id": "R49-22-NATURE",
+  "action": "note",
+  "by": "R70-62-WEATHER_LAND_AS_PERSONS",
+  "r70_quote": "R49-22 relaxes at mythic moments (R48-05), in verse and documents, and in close POV for cultures whose speech already gives the sky a will. Everyday narration stays plain.",
+  "old_text": "Nature: \"Avoid personifying weather and landscape: the world is described, not personified.\"",
+  "note_text": "Partly amended by R70-62-WEATHER_LAND_AS_PERSONS (style law 2026-10-03): personification is allowed at mythic moments, in verse and documents, and in close POV for cultures whose speech gives the sky a will; everyday narration stays plain under this rule."
+ },
+ {
+  "old_id": "R49-25-OPENINGS",
+  "action": "note",
+  "by": "R70-53-WHERE_DESCRIPTION_SITS",
+  "r70_quote": "the longer passages are held for pauses, silences and aftermaths",
+  "old_text": "Openings: \"Openings vary by scene: arrivals open on the senses; tense scenes open in motion.\"",
+  "note_text": "Noted by R70-53-WHERE_DESCRIPTION_SITS (style law 2026-10-03): longer descriptive passages pool in lulls while texture stays woven; openings themselves are addressed by R70-15 and R70-16, not here."
+ },
+ {
+  "old_id": "R49-26-ENDINGS",
+  "action": "note",
+  "by": "R70-64-VERSE_INSIDE_PROSE",
+  "r70_quote": "R49-26's legal endings gain the poem.",
+  "old_text": "Endings: \"Written scenes may end on an action, a concrete image, or a line of dialogue; never a summary or a question.\"",
+  "note_text": "Extended by R70-64-VERSE_INSIDE_PROSE (style law 2026-10-03): a scene or chapter may also close on a short poem set apart; the other endings and the bans stand."
+ },
+ {
+  "old_id": "R49-28-INTROS",
+  "action": "note",
+  "by": "R70-54-GETS_FULL_INVENTORY",
+  "r70_quote": "Major people, places, rooms, creatures and significant objects get the full inventory; minor people get one exact stroke.",
+  "old_text": "Intros: \"First introductions get the full physical inventory all at first sight, in one descriptive passage.\"",
+  "note_text": "Partly amended by R70-54-GETS_FULL_INVENTORY (style law 2026-10-03): the full inventory now reaches places, rooms, creatures and significant objects, and minor people get one exact stroke. R70-55-ORDER_FIRST_INVENTORY keeps the one passage but runs it in the POV's order; R70-50-BODIES_AFTER_FIRST_SIGHT adds one changed detail on each return."
+ },
+ {
+  "old_id": "R49-43-EXPLAINING",
+  "action": "note",
+  "by": "R70-71-EXPLAINING_WORKING_MID_FIGHT",
+  "r70_quote": "A working's rules are planted earlier (training, a document, talk)",
+  "old_text": "Explaining: \"Narration may explain causes anywhere, in the POV's reasoning and vocabulary; the mouth-only rules for the why of a working are struck.\"",
+  "note_text": "Noted by R70-71-EXPLAINING_WORKING_MID_FIGHT (style law 2026-10-03): a working's rules are planted before the fight; narration may still explain causes in the POV's terms."
+ },
+ {
+  "old_id": "R49-48-TECH_NAMES",
+  "action": "note",
+  "by": "R70-74-TECHNIQUE_NAME_LOOKS",
+  "r70_quote": "Numbered forms by school",
+  "old_text": "Tech names: \"Technique names and their translations are free in narration.\"",
+  "note_text": "Noted by R70-74-TECHNIQUE_NAME_LOOKS (style law 2026-10-03): numbered forms and long hall names join the naming forms; names and translations stay free in narration."
+ },
+ {
+  "old_id": "R49-54-KHARVEN",
+  "action": "note",
+  "by": "R70-58-CHECKING_RANGE",
+  "r70_quote": "the signature-item count extends from Kharven to every Inventory",
+  "old_text": "Kharven: \"Kharven signature items: two of the five per session instead of per turn.\"",
+  "note_text": "Noted by R70-58-CHECKING_RANGE and R70-51-REPETITION_AGAINST_NOVELTY (style law 2026-10-03): the signature-item count extends from Kharven to every Inventory, and each scene also adds one subject the thread has not described. Two per session stands."
+ },
+ {
+  "old_id": "R5-B-MANHWA_DIRECTIVE_REPEALED",
+  "action": "note",
+  "by": "R70-72-WATCHING_CROWD_POWER_REVEAL",
+  "r70_quote": "R5-G's reaction-shot tell is struck for crowds.",
+  "old_text": "The Manhwa Energy Directive is struck in full: \"Struck in full from the project instructions and from Section 4's sanctioned-exception clause. The following are no longer craft law and should be treated as active...\"",
+  "note_text": "Partly re-ruled by R70-72-WATCHING_CROWD_POWER_REVEAL (style law 2026-10-03), one of the tell-by-tell re-rulings R70-7 calls for: 'R5-G's reaction-shot tell is struck for crowds', and that tell (R5-G-TELL_BANK_ADDITIONS) comes from this list's reaction shots as characterisation, so at a reveal a crowd may speak in waves inside the POV's hearing. R70-72 reaches no other case and none of the other listed tells."
+ },
+ {
+  "old_id": "R5-E-NARRATION_NEVER_ADJUDICATES",
+  "action": "note",
+  "by": "R70-64-VERSE_INSIDE_PROSE",
+  "r70_quote": "a scene or chapter may close on a short poem set apart, haibun-style",
+  "old_text": "Third-person narration is POV-locked and never adjudicates: \"Third-person scene narration is POV-locked and never adjudicates. No line tells the reader what to think of a character's choice.\"",
+  "note_text": "Noted by R70-64-VERSE_INSIDE_PROSE (style law 2026-10-03): a scene or chapter may close on a short poem set apart; R70-64 does not name this rule, which stands as far as R70-64 goes."
+ },
+ {
+  "old_id": "R5-G-TELL_BANK_ADDITIONS",
+  "action": "note",
+  "by": "R70-72-WATCHING_CROWD_POWER_REVEAL",
+  "r70_quote": "R5-G's reaction-shot tell is struck for crowds.",
+  "old_text": "Four new active tells added: \"Add as active tells: declarative characterisation, the reaction-shot cutaway, the comedic beat structure, narrator moral adjudication.\"",
+  "note_text": "Partly re-ruled by R70-72-WATCHING_CROWD_POWER_REVEAL (style law 2026-10-03), one of the tell-by-tell re-rulings R70-7 calls for: 'R5-G's reaction-shot tell is struck for crowds', so at a reveal the crowd may speak in waves inside the POV's hearing. R70-72 reaches no other case of the reaction-shot cutaway (R70-113 re-rules the comic beat, reaction included, for named comic voices), and it does not reach declarative characterisation, the comedic beat structure or narrator moral adjudication."
+ },
+ {
+  "old_id": "R50-10-NAME_STYLE",
+  "action": "note",
+  "by": "R70-74-TECHNIQUE_NAME_LOOKS",
+  "r70_quote": "Lineage-hall and Korean-stratum arts may carry a four-syllable true name in correct Chinese or Korean",
+  "old_text": "Name style: \"Technique naming leans by culture: plain English names for common-tongue fighters, true names for houses with a register.\"",
+  "note_text": "Noted by R70-74-TECHNIQUE_NAME_LOOKS (style law 2026-10-03): lineage-hall and Korean-stratum arts may carry four-syllable true names, and a school's art may run as numbered forms; naming by culture stands."
+ },
+ {
+  "old_id": "R50-11-LONG_NAMES",
+  "action": "note",
+  "by": "R70-74-TECHNIQUE_NAME_LOOKS",
+  "r70_quote": "R50-11's two-word cap binds new English names only",
+  "old_text": "Long names: \"New English technique names are short: two words at most, no stacked modifiers.\"",
+  "note_text": "Clarified by R70-74-TECHNIQUE_NAME_LOOKS (style law 2026-10-03): the two-word cap binds new English names only, so a hall art's four-syllable true name in Chinese or Korean sits outside it; this rule stands."
+ },
+ {
+  "old_id": "R51-08-CALENDAR",
+  "action": "note",
+  "by": "R70-61-SEASON_WORD_DOES",
+  "r70_quote": "Season words carry mood.",
+  "old_text": "Calendar: \"Earth day and month names never appear; 'week' becomes the culture's own span (a turn, a quarter-moon); all go on the list.\"",
+  "note_text": "Noted by R70-61-SEASON_WORD_DOES (style law 2026-10-03): each culture's logged season words may stand in narration and speech and carry a settled feeling; Earth day and month names stay out."
+ },
+ {
+  "old_id": "R51-15-FIRST_USE",
+  "action": "note",
+  "by": "R70-71-EXPLAINING_WORKING_MID_FIGHT",
+  "r70_quote": "A working's rules are planted earlier (training, a document, talk)",
+  "old_text": "First Use: \"New WOTR terms get meaning from context and use only; no appositive gloss (the zero gloss budget stands).\"",
+  "note_text": "Noted by R70-71-EXPLAINING_WORKING_MID_FIGHT (style law 2026-10-03): a working's rules are planted before the fight through training, a document or talk; meaning by context and the zero gloss stand."
+ },
+ {
+  "old_id": "R51-28-CHANT_PAGE",
+  "action": "note",
+  "by": "R70-64-VERSE_INSIDE_PROSE",
+  "r70_quote": "Verse appears when a character sings, recites or writes it, or inside an in-world document, set as a quoted block the rhythm checks skip.",
+  "old_text": "Chant Page: \"A chant appears in its own language; a POV who understands it may think the meaning in his own words.\"",
+  "note_text": "Noted by R70-64-VERSE_INSIDE_PROSE (style law 2026-10-03): verse in mouths and documents is set as a quoted block, and a scene may close on a short poem; chants in their own language stand."
+ },
+ {
+  "old_id": "R51-31-SENSE_BANK",
+  "action": "note",
+  "by": "R70-45-NEW_STANDING_INVENTORY_FIELDS",
+  "r70_quote": "Temperature joins the senses entry",
+  "old_text": "Sense Bank: \"Each culture's Standing Inventory gains a senses entry (smells, sounds, colours, textures); scenes draw from it first.\"",
+  "note_text": "Extended by R70-45-NEW_STANDING_INVENTORY_FIELDS (style law 2026-10-03): temperature joins the senses entry. Each Inventory also gains an image bank (R70-59), a colour code (R70-60), season words with a mood (R70-61), what age is prized and despised (R70-63) and four-beat idioms (R70-65); R70-51 adds one new subject per scene. Scenes still draw from the bank first."
+ },
+ {
+  "old_id": "R51-33-DOC_REGISTER",
+  "action": "note",
+  "by": "R70-67-FORMS_WORLD_DOCUMENTS",
+  "r70_quote": "Court annals and memorials",
+  "old_text": "Doc Register: \"In-world documents keep a house style per institution: Accord chancery formal and Latinate, the Dawi Tally terse entries, Moto records in the old register, letters in...\"",
+  "note_text": "Extended by R70-67-FORMS_WORLD_DOCUMENTS (style law 2026-10-03): documents gain four named forms (lists and notebooks, records of the strange, court annals and memorials, Guild reference entries), and R70-75-RITE_PAGE sets a rite as a numbered form in the Guild's house style; the house styles stand."
+ },
+ {
+  "old_id": "R52-30-PROVERBS",
+  "action": "note",
+  "by": "R70-65-SET_IDIOMS_NARRATION",
+  "r70_quote": "after that the idiom is used bare, in narration or speech",
+  "old_text": "Proverbs: \"Every NPC carries one fixed saying from the Standing Inventory; the sayings are the culture's texture.\"",
+  "note_text": "Noted by R70-65-SET_IDIOMS_NARRATION (style law 2026-10-03): each Inventory gains four-beat idioms, told once by an elder and then used bare in narration or speech; the one fixed saying per NPC stands."
+ },
+ {
+  "old_id": "R53-07-PRICE_TABLE",
+  "action": "note",
+  "by": "R70-48-MONEY_PRICE_PROVENANCE",
+  "r70_quote": "Every purchase, wage, fee and bribe on the page names its sum in the culture's money, quoted from the approved price table",
+  "old_text": "Price Table: \"A short table of everyday prices and wages is drafted from real period ratios for Isaac to approve; scenes then quote it.\"",
+  "note_text": "Extended by R70-48-MONEY_PRICE_PROVENANCE (style law 2026-10-03): every purchase, wage, fee and bribe on the page names its sum from the approved table, and payment in kind is named as exactly."
+ },
+ {
+  "old_id": "R53-09-WEATHER",
+  "action": "note",
+  "by": "R70-49-LANDSCAPE_SKY",
+  "r70_quote": "Every outdoor scene gets one wide view built far, middle and near, with the people small in it, and the sky in it after dark.",
+  "old_text": "Weather: \"Weather and season are tracked like a clock: the State of Play carries the date and season; every outdoor scene shows the actual weather, and cold, wet and thaw change...\"",
+  "note_text": "Extended by R70-49-LANDSCAPE_SKY (style law 2026-10-03): every outdoor scene also gets one wide view in three planes, with the sky in it after dark; R70-41 puts seasons and weather in the rotation beyond this rule's actual weather, and R70-61 gives season words a mood. This rule stands."
+ },
+ {
+  "old_id": "R53-11-JUSTICE",
+  "action": "note",
+  "by": "R70-45-NEW_STANDING_INVENTORY_FIELDS",
+  "r70_quote": "Law, succession, roads (Each Inventory gains law and punishment (R53-11)",
+  "old_text": "Justice: \"Ground-level justice borrows each culture's real-world analogue (fines and branding in Accord cities, labour-debt in Kharven, public shaming in Eresse), looked up and...\"",
+  "note_text": "Extended by R70-45-NEW_STANDING_INVENTORY_FIELDS (style law 2026-10-03): law and punishment become an Inventory field, and R70-42 puts courts and punishments in the rotation; this rule stands."
+ },
+ {
+  "old_id": "R53-15-FOLK_BELIEFS",
+  "action": "note",
+  "by": "R70-67-FORMS_WORLD_DOCUMENTS",
+  "r70_quote": "folk belief stays uncorrected (R53-15)",
+  "old_text": "Folk Beliefs: \"Each culture's Inventory gets a few named false folk beliefs about magic, some half-true; characters act on them and the narration never corrects them.\"",
+  "note_text": "Kept by R70-67-FORMS_WORLD_DOCUMENTS (style law 2026-10-03): a record of the strange leaves folk belief uncorrected."
+ },
+ {
+  "old_id": "R53-17-THE_BILL",
+  "action": "note",
+  "by": "R70-48-MONEY_PRICE_PROVENANCE",
+  "r70_quote": "Price whenever money moves",
+  "old_text": "The Bill: \"Money before magic holds on the page: any working indoors on a main raises the bill, the meter or the spur, and somebody notices the cost.\"",
+  "note_text": "Noted by R70-48-MONEY_PRICE_PROVENANCE (style law 2026-10-03): every sum that moves on the page is named; money before magic stands."
+ },
+ {
+  "old_id": "R53-18-AWE",
+  "action": "note",
+  "by": "R70-72-WATCHING_CROWD_POWER_REVEAL",
+  "r70_quote": "At a reveal the crowd may speak in waves",
+  "old_text": "Awe: \"Commoners regard practitioners with awe and worship: a ranked practitioner is half a saint to ordinary people.\"",
+  "note_text": "Noted by R70-72-WATCHING_CROWD_POWER_REVEAL (style law 2026-10-03): the commoners' awe may be voiced as a crowd chorus at a reveal, inside the POV's hearing; this rule stands."
+ },
+ {
+  "old_id": "R53-19-QUOTA",
+  "action": "note",
+  "by": "R70-51-REPETITION_AGAINST_NOVELTY",
+  "r70_quote": "R53-19's two signature items stay",
+  "old_text": "Quota: \"Every culture's signature-item quota is two per session, like Kharven's.\"",
+  "note_text": "Kept by R70-51-REPETITION_AGAINST_NOVELTY (style law 2026-10-03): 'R53-19's two signature items stay', and each scene also adds one new subject. R70-58-CHECKING_RANGE extends the signature-item count from Kharven to every Inventory."
+ },
+ {
+  "old_id": "R53-21-CANON_GATE",
+  "action": "note",
+  "by": "R70-51-REPETITION_AGAINST_NOVELTY",
+  "r70_quote": "logged as canon (R53-21)",
+  "old_text": "Canon Gate: \"Texture the partner invents in play is canon once logged; Isaac can strike it later.\"",
+  "note_text": "Applied by R70-51-REPETITION_AGAINST_NOVELTY (style law 2026-10-03): the one new subject each scene adds is logged as canon under this rule."
+ },
+ {
+  "old_id": "R53-23-MIXED_ROOM",
+  "action": "note",
+  "by": "R70-60-COLOUR_AS_SYMBOL_PER",
+  "r70_quote": "two cultures may read one colour two ways",
+  "old_text": "Mixed Room: \"A mixed room layers every culture present in roughly equal measure.\"",
+  "note_text": "Noted by R70-60-COLOUR_AS_SYMBOL_PER and R70-63-WEAR_AGE_AS_BEAUTY (style law 2026-10-03): in a mixed room one colour or one worn object may carry each culture's own reading; equal layering stands."
+ },
+ {
+  "old_id": "R53-30-TEXTURE_DENSITY",
+  "action": "note",
+  "by": "R70-53-WHERE_DESCRIPTION_SITS",
+  "r70_quote": "Texture stays woven through every beat",
+  "old_text": "Texture Density: \"Every beat carries at least one detail that could only exist in this world; sensory layers sit around it.\"",
+  "note_text": "Kept by R70-53-WHERE_DESCRIPTION_SITS (style law 2026-10-03): texture stays woven through every beat, with the longer passages held for pauses, silences and aftermaths. R70-57-DESCRIPTION_INSIDE_FIGHT runs a fight's exchanges lean and holds a passage of setting at the deciding moment; it does not name this rule, which stands."
+ },
+ {
+  "old_id": "R57-07-DOCUMENTS_FULLY_METAPHYSICAL",
+  "action": "note",
+  "by": "R70-67-FORMS_WORLD_DOCUMENTS",
+  "r70_quote": "each figure traced to canon (R12-5, R57-07)",
+  "old_text": "Every document is fully metaphysical: \"Confirmed and extended to every document: character cards, technique and ability entries, items, lore, in-world documents and exports are fully metaphysical.\"",
+  "note_text": "Applied by R70-67-FORMS_WORLD_DOCUMENTS (style law 2026-10-03): Guild reference entries (bestiary, registry, item ledger) trace each figure to canon under this rule."
+ },
+ {
+  "old_id": "R6-5-MATERIAL_DENSITY_SURVIVES",
+  "action": "note",
+  "by": "R70-46-CRAFT_LABOUR_PAGE",
+  "r70_quote": "the finished thing is looked at for its quality: what good work looks like in that craft, through the POV's eye.",
+  "old_text": "Material density stays; described at full density, interpreted at zero: \"The material density stays. Seven of thirty-two structures burned. Hanuri re-spinning thread from an older garment. Bedding planes in limestone. The rust described in...\"",
+  "note_text": "Extended by R70-46-CRAFT_LABOUR_PAGE and R70-63-WEAR_AGE_AS_BEAUTY (style law 2026-10-03): material density stays in full; a craft on the page also runs as process and its finished work is looked at for its quality through the POV's eye, and each culture's Inventory states what its people prize and despise in age. The interpret-at-zero clause was already struck (R6-5-INTERPRET_AT_ZERO_STRUCK)."
+ },
+ {
+  "old_id": "R6-8-STANDING_INVENTORY_CATEGORIES",
+  "action": "note",
+  "by": "R70-45-NEW_STANDING_INVENTORY_FIELDS",
+  "r70_quote": "Each Inventory gains terrain and climate",
+  "old_text": "The Standing Inventory's nine required categories: \"A per-culture register of non-magical material idiom, built and maintained as canon. Nine required categories:\"",
+  "note_text": "Extended by R70-45-NEW_STANDING_INVENTORY_FIELDS (style law 2026-10-03): the categories gain land, sky and living things; building, dress and the street; music, play and festivals; and law, succession and roads. R70-44 adds a Notices first line, and R70-59, R70-60, R70-61, R70-63 and R70-65 add further fields. The nine categories stand."
+ },
+ {
+  "old_id": "R6-9-RECURRENCE_RULE",
+  "action": "note",
+  "by": "R70-51-REPETITION_AGAINST_NOVELTY",
+  "r70_quote": "R6-9's 'Novelty is its enemy' is rewritten so every scene also adds one subject the thread has not described, logged as canon (R53-21).",
+  "old_text": "Identity is repetition; every scene draws from the Inventory first: \"Identity is repetition. Novelty is its enemy.\"",
+  "note_text": "Partly amended by R70-51-REPETITION_AGAINST_NOVELTY (style law 2026-10-03): the sentence 'Novelty is its enemy' is rewritten, so every scene also adds one subject the thread has not described, logged as canon; 'Identity is repetition', Inventory first and the Recurrence Ledger stand."
+ },
+ {
+  "old_id": "R60-07-COMMERCE_ON_THE_PAGE",
+  "action": "note",
+  "by": "R70-42-PUBLIC_WORLD",
+  "r70_quote": "arcades and branded goods (R60-07)",
+  "old_text": "Commerce On The Page: \"Commerce shows on the page as branded goods and advertising, chartered share-holding companies with exchanges, speculation and crashes, arcades and department stores...\"",
+  "note_text": "Noted by R70-42-PUBLIC_WORLD (style law 2026-10-03): streets, markets and crowds, arcades and branded goods included, join the description rotation; this rule stands."
+ },
+ {
+  "old_id": "R60-21-SUCCESSION_BY_CULTURE",
+  "action": "note",
+  "by": "R70-45-NEW_STANDING_INVENTORY_FIELDS",
+  "r70_quote": "succession (R60-21)",
+  "old_text": "Succession By Culture: \"Succession follows each culture's own law, set on its Inventory.\"",
+  "note_text": "Applied by R70-45-NEW_STANDING_INVENTORY_FIELDS (style law 2026-10-03): succession becomes a field on every Inventory."
+ },
+ {
+  "old_id": "R8-22-LITERAL_GLOSS",
+  "action": "note",
+  "by": "R70-74-TECHNIQUE_NAME_LOOKS",
+  "r70_quote": "glossed literally (R8-22)",
+  "old_text": "The gloss is flat and literal, never poetic: \"True name, then plain English meaning in parentheses. Kagemusha reads Shadow Warrior. It does not read the technique of hidden purpose. Flat, literal, no poetry, no...\"",
+  "note_text": "Applied by R70-74-TECHNIQUE_NAME_LOOKS (style law 2026-10-03): four-syllable hall names in Chinese or Korean are glossed literally under this rule."
+ },
+ {
+  "old_id": "R8-23-NAME_HIERARCHY",
+  "action": "note",
+  "by": "R70-74-TECHNIQUE_NAME_LOOKS",
+  "r70_quote": "a ladder inside the art at R8-23's form level",
+  "old_text": "Art carries the character; techniques do not: \"Art, then technique, then form. The art carries the character. Individual techniques may not. An art is spoken once at release and thereafter assumed. Techniques are...\"",
+  "note_text": "Extended by R70-74-TECHNIQUE_NAME_LOOKS (style law 2026-10-03): a school's art may run as named, numbered forms at this rule's form level, mastery read as forms held."
+ },
+ {
+  "old_id": "R9-3-AURA_AS_FRACTURE",
+  "action": "note",
+  "by": "R70-69-PRESSURE_AURA",
+  "r70_quote": "Pressure shows first in the room: smoke, frost, lamp flames, the draw-hum, animals; bodies follow.",
+  "old_text": "Aura reads as fracture, not glow: \"Aura as fracture, not glow. Where Essence discharge needs a visual, it reads as broken geometry around the body...\"",
+  "note_text": "Noted by R70-69-PRESSURE_AURA (style law 2026-10-03): Pressure leads through the room, then bodies; fracture, not glow, for a display's discharge stands."
+ },
+ {
+  "old_id": "R9-3-BODY_UNDER_LOAD",
+  "action": "note",
+  "by": "R70-73-MANY_DISPLAY_BEATS_PER",
+  "r70_quote": "Each named practitioner may take one display beat per scene, so a duel can carry two and a battle several.",
+  "old_text": "The body under load, one splash-panel beat per scene: \"The body under load. A Pressure spike or a peak-effort feat is rendered as visible physical distortion...\"",
+  "note_text": "Partly amended by R70-73-MANY_DISPLAY_BEATS_PER (style law 2026-10-03): exactly one splash-panel beat per scene becomes one per named practitioner per scene; the body under load as visible distortion stands."
+ },
+ {
+  "old_id": "R9-3-EYES_AS_TELL",
+  "action": "note",
+  "by": "R70-69-PRESSURE_AURA",
+  "r70_quote": "Pressure shows first in the room: smoke, frost, lamp flames, the draw-hum, animals; bodies follow.",
+  "old_text": "Eyes as the tell at a Stage threshold: \"Eyes as the tell. At a Stage threshold or a dropped suppression, the eyes go first...\"",
+  "note_text": "Noted by R70-69-PRESSURE_AURA (style law 2026-10-03): Pressure shows first in the room, and the bodies under it follow. R70-69 does not name this tell, so at a Stage threshold or a dropped suppression the eyes-first tell stands beside the room's lead."
+ },
+ {
+  "old_id": "R9-3-SCOPE",
+  "action": "note",
+  "by": "R70-73-MANY_DISPLAY_BEATS_PER",
+  "r70_quote": "R9-3-SCOPE's list of triggers stays.",
+  "old_text": "The power-display register applies to a narrow beat list only: \"Scope, and it is narrow on purpose. This applies only to Stage-ascension beats, a Pressure drop, and a technique's first display or finisher...\"",
+  "note_text": "Kept by R70-73-MANY_DISPLAY_BEATS_PER (style law 2026-10-03): the list of triggers stays, with one display beat per named practitioner per scene."
+ }
+]

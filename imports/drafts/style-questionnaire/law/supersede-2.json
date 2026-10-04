@@ -1,0 +1,578 @@
+[
+  {
+    "old_id": "R13-6-WOTR_FIRST",
+    "action": "note",
+    "by": "R70-24-EASTERN_CONCEPT_WORDS_NARRATION",
+    "r70_quote": "The loanword names what the body feels; the WOTR noun names what a gauge or the Guild measures, in the same POV's narration.",
+    "old_text": "WOTR nouns are used in preference to borrowed ones: \"WOTR first. The glossary and the Codex already own the nouns and they are used in preference to anything borrowed: the three Planes, the Veil, Aether...\"",
+    "note_text": "Partly amended by R70-24-EASTERN_CONCEPT_WORDS_NARRATION (style law 2026-10-03): in narration the loanword now names what the body feels, and the WOTR noun names what a gauge or the Guild measures."
+  },
+  {
+    "old_id": "R13-6-ANIME_GRAMMAR_TRANSLATION_AID",
+    "action": "note",
+    "by": "R70-24-EASTERN_CONCEPT_WORDS_NARRATION",
+    "r70_quote": "The loanword names what the body feels",
+    "old_text": "Anime grammar is a translation aid, never page vocabulary: \"Anime grammar as a translation aid, never as page vocabulary.\"",
+    "note_text": "Stands beside R70-24-EASTERN_CONCEPT_WORDS_NARRATION (style law 2026-10-03): the loanword that names what the body feels is licensed in narration; anime system grammar stays a translation aid, never page vocabulary."
+  },
+  {
+    "old_id": "R48-22-LENS_NAMES",
+    "action": "note",
+    "by": "R70-24-EASTERN_CONCEPT_WORDS_NARRATION",
+    "r70_quote": "The Eastern inside and the LitRPG outside sit side by side.",
+    "old_text": "Lens names: \"Real-world names and terms for borrowed ideas (Stoic pneuma, solve et coagula) may appear anywhere they fit, scenes included.\"",
+    "note_text": "Read with R70-24-EASTERN_CONCEPT_WORDS_NARRATION (style law 2026-10-03): in narration a loanword names what the body feels and the WOTR noun what a gauge or the Guild measures."
+  },
+  {
+    "old_id": "R51-18-DOUBLET",
+    "action": "note",
+    "by": "R70-24-EASTERN_CONCEPT_WORDS_NARRATION",
+    "r70_quote": "The loanword names what the body feels; the WOTR noun names what a gauge or the Guild measures, in the same POV's narration.",
+    "old_text": "Doublet: \"Narration uses whichever form of a craft term the POV would say: an Engraver's scene says 'the cutting', an Accord examiner's says 'Runecraft'.\"",
+    "note_text": "Read with R70-24-EASTERN_CONCEPT_WORDS_NARRATION (style law 2026-10-03): concept words split in the same POV's narration, the loanword for what the body feels and the WOTR noun for what is measured."
+  },
+  {
+    "old_id": "R50-01-REAL_GRAMMAR",
+    "action": "note",
+    "by": "R70-24-EASTERN_CONCEPT_WORDS_NARRATION",
+    "r70_quote": "The loanword names what the body feels",
+    "old_text": "Real grammar: \"Borrowed real-language names must be real, correct phrases in that language, and the gloss must match what the words actually mean.\"",
+    "note_text": "Stands beside R70-24-EASTERN_CONCEPT_WORDS_NARRATION (style law 2026-10-03), which licenses the loanword for what the body feels in narration and does not cite this rule."
+  },
+  {
+    "old_id": "R49-49-FOREIGN",
+    "action": "note",
+    "by": "R70-25-FOREIGN_WORDS_PAGE",
+    "r70_quote": "No italics and no explaining phrase; the scene carries the meaning.",
+    "old_text": "Foreign: \"Foreign in-world words appear plain, no italics; meaning comes from context.\"",
+    "note_text": "Stands, confirmed by R70-25-FOREIGN_WORDS_PAGE (style law 2026-10-03): foreign words stay plain and roman; each book adds a glossary at the back and the wiki a terms page."
+  },
+  {
+    "old_id": "R50-32-ITALICS",
+    "action": "note",
+    "by": "R70-25-FOREIGN_WORDS_PAGE",
+    "r70_quote": "No italics and no explaining phrase; the scene carries the meaning.",
+    "old_text": "Italics: \"Foreign names and borrowed words are never italic in prose.\"",
+    "note_text": "Stands, confirmed by R70-25-FOREIGN_WORDS_PAGE (style law 2026-10-03): borrowed words stay roman on the page."
+  },
+  {
+    "old_id": "R51-15-FIRST_USE",
+    "action": "note",
+    "by": "R70-25-FOREIGN_WORDS_PAGE",
+    "r70_quote": "No italics and no explaining phrase; the scene carries the meaning.",
+    "old_text": "First Use: \"New WOTR terms get meaning from context and use only; no appositive gloss (the zero gloss budget stands).\"",
+    "note_text": "Stands, confirmed by R70-25-FOREIGN_WORDS_PAGE (style law 2026-10-03): no explaining phrase in the sentence; the lookup lives in the book's glossary and the wiki terms page."
+  },
+  {
+    "old_id": "R4-13-ZERO_BUDGET",
+    "action": "note",
+    "by": "R70-25-FOREIGN_WORDS_PAGE",
+    "r70_quote": "No italics and no explaining phrase; the scene carries the meaning.",
+    "old_text": "Zero glosses per scene, not rationed: \"Zero glosses per scene. Not rationed. There is no acceptable first instance.\"",
+    "note_text": "Stands, confirmed by R70-25-FOREIGN_WORDS_PAGE (style law 2026-10-03): a foreign or native word still takes no gloss in the prose; the glossary at the back of each book carries the lookup."
+  },
+  {
+    "old_id": "R49-05-ITALICS",
+    "action": "note",
+    "by": "R70-25-FOREIGN_WORDS_PAGE",
+    "r70_quote": "No italics and no explaining phrase",
+    "old_text": "Italics: \"Italic direct thought appears often, whenever the POV talks to himself; more voice.\"",
+    "note_text": "Unchanged by R70-25-FOREIGN_WORDS_PAGE (style law 2026-10-03): foreign words stay roman, so italics keep carrying thought."
+  },
+  {
+    "old_id": "R51-19-ACCORD_LATIN",
+    "action": "note",
+    "by": "R70-26-LEARNED_TONGUES_BESIDE_LATIN",
+    "r70_quote": "Hanmun tags for Korean-stratum scholars, kanbun readings in Moto records, wenyan in the lineage halls, Latin for the Accord, each real and romanised (R50-01, R50-31).",
+    "old_text": "Accord Latin: \"Accord Latin may appear anywhere by ear: speech, narration or documents.\"",
+    "note_text": "Extended by R70-26-LEARNED_TONGUES_BESIDE_LATIN (style law 2026-10-03): Latin stays the Accord's learned tongue, and hanmun, kanbun and wenyan tags join it for the Korean stratum, Moto records and the lineage halls."
+  },
+  {
+    "old_id": "R50-12-COINED_LATIN",
+    "action": "note",
+    "by": "R70-26-LEARNED_TONGUES_BESIDE_LATIN",
+    "r70_quote": "each real and romanised (R50-01, R50-31)",
+    "old_text": "Coined Latin: \"New Latinate names use real, correct Latin.\"",
+    "note_text": "Unchanged by R70-26-LEARNED_TONGUES_BESIDE_LATIN (style law 2026-10-03), which holds the hanmun, kanbun and wenyan tags it adds to the same test: each real and romanised (R50-01, R50-31)."
+  },
+  {
+    "old_id": "R50-01-REAL_GRAMMAR",
+    "action": "note",
+    "by": "R70-26-LEARNED_TONGUES_BESIDE_LATIN",
+    "r70_quote": "each real and romanised (R50-01, R50-31)",
+    "old_text": "Real grammar: \"Borrowed real-language names must be real, correct phrases in that language, and the gloss must match what the words actually mean.\"",
+    "note_text": "Cited by R70-26-LEARNED_TONGUES_BESIDE_LATIN (style law 2026-10-03): every hanmun, kanbun, wenyan and Latin tag must be real and correct."
+  },
+  {
+    "old_id": "R50-31-SCRIPT_SHOWN",
+    "action": "note",
+    "by": "R70-26-LEARNED_TONGUES_BESIDE_LATIN",
+    "r70_quote": "each real and romanised (R50-01, R50-31)",
+    "old_text": "Script shown: \"True names are romanised only: no real script (kanji, hangul) on cards, pages or prose.\"",
+    "note_text": "Cited by R70-26-LEARNED_TONGUES_BESIDE_LATIN (style law 2026-10-03): learned tags are romanised, never shown in real script."
+  },
+  {
+    "old_id": "R51-33-DOC_REGISTER",
+    "action": "note",
+    "by": "R70-26-LEARNED_TONGUES_BESIDE_LATIN",
+    "r70_quote": "kanbun readings in Moto records",
+    "old_text": "Doc Register: \"In-world documents keep a house style per institution: Accord chancery formal and Latinate, the Dawi Tally terse entries, Moto records in the old...\"",
+    "note_text": "Read with R70-26-LEARNED_TONGUES_BESIDE_LATIN (style law 2026-10-03): Moto records may carry kanbun readings inside their old register."
+  },
+  {
+    "old_id": "R20C-58-REGISTERS_FLAVOUR_NOT_LAW",
+    "action": "note",
+    "by": "R70-27-ANTIQUE_NARRATION_RUNS",
+    "r70_quote": "Each Standing Inventory sets plain, period or archaic as law, amending R20C-58, and narration follows the POV's culture.",
+    "old_text": "Per-culture narration registers are flavour, not law (Pack Fifteen §1 stands): \"Per-culture narration registers are flavour, not law (Pack Fifteen §1 stands).\"",
+    "note_text": "Partly amended by R70-27-ANTIQUE_NARRATION_RUNS (style law 2026-10-03), in its words 'amending R20C-58': each Standing Inventory now sets its culture's narration dial (plain, period or archaic) as law. R70-27 leaves the rest of this ruling, the Moto exception included, as it was."
+  },
+  {
+    "old_id": "R51-01-TIMELESS",
+    "action": "note",
+    "by": "R70-27-ANTIQUE_NARRATION_RUNS",
+    "r70_quote": "A dial per culture. Each Standing Inventory sets plain, period or archaic as law",
+    "old_text": "Timeless: \"Timeless narration varies by culture: plain, undated English by default; some cultures' scenes (Eresse, the Moto court) may take a more antique...\"",
+    "note_text": "Partly amended by R70-27-ANTIQUE_NARRATION_RUNS (style law 2026-10-03): how antique narration runs is now set per culture by each Standing Inventory's dial (plain, period or archaic); a Kharven POV stays plain."
+  },
+  {
+    "old_id": "R48-13-PERIOD_FEEL",
+    "action": "note",
+    "by": "R70-27-ANTIQUE_NARRATION_RUNS",
+    "r70_quote": "Each Standing Inventory sets plain, period or archaic as law",
+    "old_text": "Period feel: \"Modern words in speech only: characters may talk modern; narration keeps a timeless register.\"",
+    "note_text": "Unchanged by R70-27-ANTIQUE_NARRATION_RUNS (style law 2026-10-03): the dial sets how antique narration's words run (plain, period or archaic) and does not touch the modern-word bar."
+  },
+  {
+    "old_id": "R51-22-MOTO_VOICE",
+    "action": "note",
+    "by": "R70-27-ANTIQUE_NARRATION_RUNS",
+    "r70_quote": "The sample is a Moto-court steward under an archaic dial",
+    "old_text": "Moto Voice: \"The Moto narration register is drafted by the partner from The Muster's prose and put to Isaac to rule on.\"",
+    "note_text": "Read with R70-27-ANTIQUE_NARRATION_RUNS (style law 2026-10-03): the Moto narration's antique-word dial (plain, period or archaic) is set as law in the Moto Standing Inventory; the answer's sample shows a Moto-court steward under an archaic dial."
+  },
+  {
+    "old_id": "R5-C3-NARRATION_REGISTER_EXTENSION",
+    "action": "note",
+    "by": "R70-27-ANTIQUE_NARRATION_RUNS",
+    "r70_quote": "Each Standing Inventory sets plain, period or archaic as law, amending R20C-58, and narration follows the POV's culture.",
+    "old_text": "Per-culture narration registers, extended from dialogue: \"The extension raises it from a per-character instruction to a per-culture one. Proposed narration registers, to be built out per culture as POVs arriv...\"",
+    "note_text": "Read with R70-27-ANTIQUE_NARRATION_RUNS (style law 2026-10-03): how antique narration's words run (plain, period or archaic) is now law per culture, set in each Standing Inventory; the rest of this per-culture register is not named by the answer."
+  },
+  {
+    "old_id": "R48-09-TECH_WORDS",
+    "action": "note",
+    "by": "R70-28-TRADE_SCIENCE_WORDS",
+    "r70_quote": "As now, mixed. Narration names apparatus and workings exactly by ear",
+    "old_text": "Tech words: \"Narration may use technical words freely on its own authority whenever it helps.\"",
+    "note_text": "Stands, confirmed by R70-28-TRADE_SCIENCE_WORDS (style law 2026-10-03): narration names apparatus and workings exactly, by ear."
+  },
+  {
+    "old_id": "R49-46-CHEMISTRY",
+    "action": "note",
+    "by": "R70-28-TRADE_SCIENCE_WORDS",
+    "r70_quote": "an untrained POV's own body and his reading of the scene stay plain",
+    "old_text": "Chemistry: \"The chemistry ban is lifted for trained POVs: any POV with the training may read the world in science terms, scenery included.\"",
+    "note_text": "Stands, confirmed by R70-28-TRADE_SCIENCE_WORDS (style law 2026-10-03): an untrained POV's reading of the scene stays plain."
+  },
+  {
+    "old_id": "R49-50-OWN_BODY",
+    "action": "note",
+    "by": "R70-28-TRADE_SCIENCE_WORDS",
+    "r70_quote": "an untrained POV's own body and his reading of the scene stay plain",
+    "old_text": "Own body: \"A trained POV (medical or fighting training) names his own wound exactly; an untrained POV keeps his own body in plain words.\"",
+    "note_text": "Stands, confirmed by R70-28-TRADE_SCIENCE_WORDS (style law 2026-10-03): an untrained POV's own body stays in plain words."
+  },
+  {
+    "old_id": "R16-8-CHECK30",
+    "action": "note",
+    "by": "R70-28-TRADE_SCIENCE_WORDS",
+    "r70_quote": "Check 30's floor holds.",
+    "old_text": "Check 30: Conversion density: \"A scene containing a working, an exchange, or an injury carries at least four terms from the WOTR technical lexicon and at least two correctly-used...\"",
+    "note_text": "Stands, confirmed by R70-28-TRADE_SCIENCE_WORDS (style law 2026-10-03): the floor of four WOTR terms and two real science or anatomy terms holds."
+  },
+  {
+    "old_id": "R13-6-REAL_SCIENCE_VOCAB",
+    "action": "note",
+    "by": "R70-28-TRADE_SCIENCE_WORDS",
+    "r70_quote": "Narration names apparatus and workings exactly by ear",
+    "old_text": "Real science vocabulary explains the WOTR noun, by Physics Domain: \"Real science, by Physics Domain, to explain what the WOTR noun is doing: pressure differential, gradient, latent heat, phase transition, adiabatic...\"",
+    "note_text": "Stands, confirmed by R70-28-TRADE_SCIENCE_WORDS (style law 2026-10-03): narration names workings exactly, in this vocabulary, by ear."
+  },
+  {
+    "old_id": "R49-52-MEASURES",
+    "action": "note",
+    "by": "R70-29-UNITS_MEASURE",
+    "r70_quote": "The POV's own units. Current law.",
+    "old_text": "Measures: \"Narration measures in the POV's own units; exact minutes and figures come from a trained eye, an instrument, or the notes.\"",
+    "note_text": "Stands, confirmed by R70-29-UNITS_MEASURE (style law 2026-10-03): units characterise, and the exact figure stays with trained eyes."
+  },
+  {
+    "old_id": "R51-07-CLOCK_WORDS",
+    "action": "note",
+    "by": "R70-29-UNITS_MEASURE",
+    "r70_quote": "The POV's own units. Current law.",
+    "old_text": "Clock Words: \"Seconds and minutes are plain English and free everywhere in narration; in-world time units add flavour.\"",
+    "note_text": "Unchanged by R70-29-UNITS_MEASURE (style law 2026-10-03), which keeps narration in the POV's own units."
+  },
+  {
+    "old_id": "R53-08-TRAVEL_RATES",
+    "action": "note",
+    "by": "R70-29-UNITS_MEASURE",
+    "r70_quote": "Units characterise, and the exact figure stays with trained eyes.",
+    "old_text": "Travel Rates: \"Travel uses real period rates by mode (foot about 20 miles a day, mounted 30 to 40, rail where it runs, less in snow and passes), stated by trained...\"",
+    "note_text": "Stands, confirmed by R70-29-UNITS_MEASURE (style law 2026-10-03, current law): travel figures stay with trained eyes and messengers."
+  },
+  {
+    "old_id": "R48-16-REAL_FIGURES",
+    "action": "note",
+    "by": "R70-29-UNITS_MEASURE",
+    "r70_quote": "Units characterise, and the exact figure stays with trained eyes.",
+    "old_text": "Real figures: \"Real figures appear whenever measured: anyone with an instrument or trained eye states figures as often as they would.\"",
+    "note_text": "Stands, confirmed by R70-29-UNITS_MEASURE (style law 2026-10-03): the exact figure stays with trained eyes."
+  },
+  {
+    "old_id": "R12-5-NEVER_INVENT_NUMBER",
+    "action": "note",
+    "by": "R70-30-NUMBERS_WORDS_DIGITS",
+    "r70_quote": "digits for exact large counts and every system figure (Level, EU, AU/s). Sourced figures stand out as data.",
+    "old_text": "A number is never invented: \"Never invent a number. Unchanged and absolute.\"",
+    "note_text": "Stands beside R70-30-NUMBERS_WORDS_DIGITS (style law 2026-10-03), which sets only how a sourced figure is written (digits for every system figure), never where it comes from."
+  },
+  {
+    "old_id": "R49-47-STAT_WORDS",
+    "action": "note",
+    "by": "R70-30-NUMBERS_WORDS_DIGITS",
+    "r70_quote": "digits for exact large counts and every system figure (Level, EU, AU/s)",
+    "old_text": "Stat words: \"All free: narration may state stat names, Grades, Stages, eta, EU figures and Guild words on its own authority.\"",
+    "note_text": "Read with R70-30-NUMBERS_WORDS_DIGITS (style law 2026-10-03): a system figure stated in narration (Level, EU, AU/s) is written in digits."
+  },
+  {
+    "old_id": "R48-16-REAL_FIGURES",
+    "action": "note",
+    "by": "R70-30-NUMBERS_WORDS_DIGITS",
+    "r70_quote": "Words up to one hundred and for round numbers; digits for exact large counts and every system figure (Level, EU, AU/s).",
+    "old_text": "Real figures: \"Real figures appear whenever measured: anyone with an instrument or trained eye states figures as often as they would.\"",
+    "note_text": "Read with R70-30-NUMBERS_WORDS_DIGITS (style law 2026-10-03): a stated figure is written in words up to one hundred and for round numbers, in digits for exact large counts and system figures."
+  },
+  {
+    "old_id": "R14-5-CANONICAL_TERMS",
+    "action": "note",
+    "by": "R70-31-CAPITALS_SYSTEM_TERMS",
+    "r70_quote": "Canonical terms capitalised. The archive's habit fixed as a list",
+    "old_text": "System terminology is used exactly, never approximated: \"Canonical, used exactly, no approximation: the sixteen Stages by number and source name; the five Bands with Level ranges; the thirteen Tier Grades...\"",
+    "note_text": "Read with R70-31-CAPITALS_SYSTEM_TERMS (style law 2026-10-03): in narration Stage, Band, Grade, Level, Wellspring, Essence, Aether, Pressure and the Sub-Stat names are capitalised; reserve and the draw stay lower case."
+  },
+  {
+    "old_id": "R14-5-NEAR_MISS_FAIL",
+    "action": "note",
+    "by": "R70-31-CAPITALS_SYSTEM_TERMS",
+    "r70_quote": "Canonical terms capitalised.",
+    "old_text": "A near-miss term is a verification fail, not a warning: \"A term not in the source is originated, and flagged as originated in the notes.\"",
+    "note_text": "Stands beside R70-31-CAPITALS_SYSTEM_TERMS (style law 2026-10-03): a misspelt term still FAILs; the capitals list is checked under R70-36-CHECKER_ENFORCES."
+  },
+  {
+    "old_id": "R18-7-CHECK37",
+    "action": "note",
+    "by": "R70-31-CAPITALS_SYSTEM_TERMS",
+    "r70_quote": "Canonical terms capitalised.",
+    "old_text": "Check 37: Controlled vocabulary: \"Every Wellspring, Family, Physics Domain, Temperance stage, Archon, Titan, Glyph Class, alchemical Tier and alchemical Type named in the file is...\"",
+    "note_text": "Read with R70-31-CAPITALS_SYSTEM_TERMS (style law 2026-10-03): R70-36-CHECKER_ENFORCES checks Stage, Band, Wellspring and Family names for the capitals R70-31 fixes; this check's validation against the Lists sheet stands."
+  },
+  {
+    "old_id": "R49-47-STAT_WORDS",
+    "action": "note",
+    "by": "R70-31-CAPITALS_SYSTEM_TERMS",
+    "r70_quote": "Stage, Band, Grade, Level, Wellspring, Essence, Aether, Pressure and Sub-Stat names capitalised",
+    "old_text": "Stat words: \"All free: narration may state stat names, Grades, Stages, eta, EU figures and Guild words on its own authority.\"",
+    "note_text": "Read with R70-31-CAPITALS_SYSTEM_TERMS (style law 2026-10-03): stat words stated in narration take its capitals (Stage, Band, Grade, Level, the Sub-Stat names)."
+  },
+  {
+    "old_id": "R51-14-NEW_TERMS",
+    "action": "note",
+    "by": "R70-32-NEW_WORDS_KIND_MANY",
+    "r70_quote": "no cap, all logged (R50-28)",
+    "old_text": "New Terms: \"No ceiling on WOTR terms per page; readers learn by immersion.\"",
+    "note_text": "Stands, confirmed by R70-32-NEW_WORDS_KIND_MANY (style law 2026-10-03): no cap on new words per scene."
+  },
+  {
+    "old_id": "R50-28-NEW_WORDS",
+    "action": "note",
+    "by": "R70-32-NEW_WORDS_KIND_MANY",
+    "r70_quote": "no cap, all logged (R50-28)",
+    "old_text": "New words: \"A word the partner coins mid-scene is logged with the scene, not docketed; it becomes canon only if Isaac reuses it.\"",
+    "note_text": "Stands, confirmed by R70-32-NEW_WORDS_KIND_MANY (style law 2026-10-03): every coinage, whatever its kind, is logged with the scene."
+  },
+  {
+    "old_id": "R51-20-KHARVEN_WORDS",
+    "action": "note",
+    "by": "R70-32-NEW_WORDS_KIND_MANY",
+    "r70_quote": "a culture's native word where that culture owns the thing",
+    "old_text": "Kharven Words: \"New Kharven words may be native words, built freely on the Far-Northern sound rules; Kharven speech carries its own words.\"",
+    "note_text": "Read with R70-32-NEW_WORDS_KIND_MANY (style law 2026-10-03): a new thing the Kharven own takes a Kharven native word."
+  },
+  {
+    "old_id": "R51-23-DAWI_WORDS",
+    "action": "note",
+    "by": "R70-32-NEW_WORDS_KIND_MANY",
+    "r70_quote": "a culture's native word where that culture owns the thing",
+    "old_text": "Dawi Words: \"Dawi drop into their own tongue freely; context carries it.\"",
+    "note_text": "Read with R70-32-NEW_WORDS_KIND_MANY (style law 2026-10-03): a new thing the Dawi own takes a Dawi native word."
+  },
+  {
+    "old_id": "R51-24-ELVEN_WORDS",
+    "action": "note",
+    "by": "R70-32-NEW_WORDS_KIND_MANY",
+    "r70_quote": "a culture's native word where that culture owns the thing",
+    "old_text": "Elven Words: \"Elves speak English plus a few Vey-Elarin loanwords for things with no English equivalent, built from the root bank.\"",
+    "note_text": "Read with R70-32-NEW_WORDS_KIND_MANY (style law 2026-10-03): a new thing the Elves own takes a native word, built from the root bank as here; this rule's few loanwords in Elven speech are not named by the answer and stand."
+  },
+  {
+    "old_id": "R51-31-SENSE_BANK",
+    "action": "note",
+    "by": "R70-33-WORD_BANK_PER_CULTURE",
+    "r70_quote": "Every Inventory gains a Words entry: native words, trade terms, slang and address forms, each with meaning and who says it. Scenes draw from it first",
+    "old_text": "Sense Bank: \"Each culture's Standing Inventory gains a senses entry (smells, sounds, colours, textures); scenes draw from it first.\"",
+    "note_text": "Extended by R70-33-WORD_BANK_PER_CULTURE (style law 2026-10-03): each Inventory also gains a Words entry (native words, trade terms, slang and address forms, with meaning and speaker), drawn from first like the senses."
+  },
+  {
+    "old_id": "R51-20-KHARVEN_WORDS",
+    "action": "note",
+    "by": "R70-33-WORD_BANK_PER_CULTURE",
+    "r70_quote": "Every Inventory gains a Words entry",
+    "old_text": "Kharven Words: \"New Kharven words may be native words, built freely on the Far-Northern sound rules; Kharven speech carries its own words.\"",
+    "note_text": "Read with R70-33-WORD_BANK_PER_CULTURE (style law 2026-10-03): Kharven native words are listed in the Kharven Inventory's Words entry with meaning and speaker."
+  },
+  {
+    "old_id": "R51-23-DAWI_WORDS",
+    "action": "note",
+    "by": "R70-33-WORD_BANK_PER_CULTURE",
+    "r70_quote": "Every Inventory gains a Words entry",
+    "old_text": "Dawi Words: \"Dawi drop into their own tongue freely; context carries it.\"",
+    "note_text": "Read with R70-33-WORD_BANK_PER_CULTURE (style law 2026-10-03): Dawi words are listed in the Dawi Inventory's Words entry with meaning and speaker."
+  },
+  {
+    "old_id": "R50-28-NEW_WORDS",
+    "action": "note",
+    "by": "R70-33-WORD_BANK_PER_CULTURE",
+    "r70_quote": "Every Inventory gains a Words entry",
+    "old_text": "New words: \"A word the partner coins mid-scene is logged with the scene, not docketed; it becomes canon only if Isaac reuses it.\"",
+    "note_text": "Stands beside R70-33-WORD_BANK_PER_CULTURE (style law 2026-10-03): a mid-scene coinage is still logged with the scene; the Words entry holds a culture's standing words."
+  },
+  {
+    "old_id": "R51-11-COLLISIONS",
+    "action": "note",
+    "by": "R70-33-WORD_BANK_PER_CULTURE",
+    "r70_quote": "Every Inventory gains a Words entry",
+    "old_text": "Collisions: \"Ordinary words that are also WOTR terms (delve, echo, numinous, sovereign, sanctum, weave, ledger) are used only in their WOTR sense; the plain...\"",
+    "note_text": "Unchanged by R70-33-WORD_BANK_PER_CULTURE (style law 2026-10-03), which adds per-culture Words entries."
+  },
+  {
+    "old_id": "R51-02-CLOSE_POV_SWEARS",
+    "action": "note",
+    "by": "R70-34-REAL_LANGUAGE_SWEARS_NARRATION",
+    "r70_quote": "A Japonic, Korean or Chinese-stratum POV may think his own language's swears, romanised, correct and never italic (R50-01, R50-32), beside English and WOTR ones.",
+    "old_text": "Close Pov Swears: \"Profanity may bleed into close-POV narration, using timeless profanities plus swears invented deliberately for WOTR.\"",
+    "note_text": "Extended by R70-34-REAL_LANGUAGE_SWEARS_NARRATION (style law 2026-10-03): a Japonic, Korean or Chinese-stratum POV may also think his own language's real swears, romanised, correct and never italic."
+  },
+  {
+    "old_id": "R51-29-SWEARING",
+    "action": "note",
+    "by": "R70-34-REAL_LANGUAGE_SWEARS_NARRATION",
+    "r70_quote": "beside English and WOTR ones",
+    "old_text": "Swearing: \"Swearing uses both: English swears are fine, and each culture has its own oaths and insults and uses those first.\"",
+    "note_text": "Stands beside R70-34-REAL_LANGUAGE_SWEARS_NARRATION (style law 2026-10-03): an Eastern-stratum POV's real swears sit beside the English and WOTR ones."
+  },
+  {
+    "old_id": "R51-35-NEW_SWEARS",
+    "action": "note",
+    "by": "R70-34-REAL_LANGUAGE_SWEARS_NARRATION",
+    "r70_quote": "beside English and WOTR ones",
+    "old_text": "New Swears: \"A starter set of WOTR-invented swears is drafted per culture (Kharven, Moto, Dawi, Accord, Elven, Zettari) from each culture's gods, weather, work...\"",
+    "note_text": "Unchanged by R70-34-REAL_LANGUAGE_SWEARS_NARRATION (style law 2026-10-03): the WOTR-invented sets stand beside real Eastern swears."
+  },
+  {
+    "old_id": "R48-12-PROFANITY",
+    "action": "note",
+    "by": "R70-34-REAL_LANGUAGE_SWEARS_NARRATION",
+    "r70_quote": "A Japonic, Korean or Chinese-stratum POV may think his own language's swears",
+    "old_text": "Profanity: \"Profanity in mouths and in close-POV narration when the POV would think it.\"",
+    "note_text": "Read with R70-34-REAL_LANGUAGE_SWEARS_NARRATION (style law 2026-10-03): close-POV profanity may be in an Eastern-stratum POV's own language."
+  },
+  {
+    "old_id": "R50-01-REAL_GRAMMAR",
+    "action": "note",
+    "by": "R70-34-REAL_LANGUAGE_SWEARS_NARRATION",
+    "r70_quote": "romanised, correct and never italic (R50-01, R50-32)",
+    "old_text": "Real grammar: \"Borrowed real-language names must be real, correct phrases in that language, and the gloss must match what the words actually mean.\"",
+    "note_text": "Cited by R70-34-REAL_LANGUAGE_SWEARS_NARRATION (style law 2026-10-03): real-language swears in narration must be correct."
+  },
+  {
+    "old_id": "R50-32-ITALICS",
+    "action": "note",
+    "by": "R70-34-REAL_LANGUAGE_SWEARS_NARRATION",
+    "r70_quote": "romanised, correct and never italic (R50-01, R50-32)",
+    "old_text": "Italics: \"Foreign names and borrowed words are never italic in prose.\"",
+    "note_text": "Cited by R70-34-REAL_LANGUAGE_SWEARS_NARRATION (style law 2026-10-03): real-language swears in narration are never italic."
+  },
+  {
+    "old_id": "R51-10-SLOP_WORDS",
+    "action": "note",
+    "by": "R70-35-HARD_BAN_LIST",
+    "r70_quote": "Trim the false hits (Narrows three items to their stock sense: a will called a testament passes, 'visceral' passes in anatomy (the visceral pleura, R49-45), 'orbs' passes for lamps and regalia. The stock senses still fail)",
+    "old_text": "Slop Words: \"A hard-ban list separate from the repetition list: tapestry, testament, palpable, visceral, symphony of, a dance of, whisper of, orbs (eyes),...\"",
+    "note_text": "Partly amended by R70-35-HARD_BAN_LIST (style law 2026-10-03): the cultivation-translation, Western fantasy and LitRPG stock families join the list for narration, and testament, visceral and orbs now fail only in their stock senses."
+  },
+  {
+    "old_id": "R49-20-STOCK_PHRASE",
+    "action": "note",
+    "by": "R70-35-HARD_BAN_LIST",
+    "r70_quote": "Western fantasy stock (Bans 'the steel sang', 'a grim smile', 'his blood ran cold', 'every fibre of his being' and 'darkness gathered'.",
+    "old_text": "Stock phrase: \"Dead metaphors are always rebuilt from the POV's own life, even when a rough POV would think the cliche.\"",
+    "note_text": "Stands beside R70-35-HARD_BAN_LIST (style law 2026-10-03): the stock phrases R70-35 lists, 'his blood ran cold' among them, now FAIL in narration as hard-ban items, whatever the POV."
+  },
+  {
+    "old_id": "R49-45-SCIENCE",
+    "action": "note",
+    "by": "R70-35-HARD_BAN_LIST",
+    "r70_quote": "'visceral' passes in anatomy (the visceral pleura, R49-45)",
+    "old_text": "Science: \"Real science and anatomy terms are exempt from timeless narration: they are the technical register, legal in narration and off the modern-word list.\"",
+    "note_text": "Cited by R70-35-HARD_BAN_LIST (style law 2026-10-03): visceral in its anatomical sense passes the hard-ban list."
+  },
+  {
+    "old_id": "R48-45-CHECKS",
+    "action": "note",
+    "by": "R70-36-CHECKER_ENFORCES",
+    "r70_quote": "Yes to: Word-bank spelling check",
+    "old_text": "Checks: \"Full check on every roleplay turn: every turn passes the full checker.\"",
+    "note_text": "Read with R70-36-CHECKER_ENFORCES (style law 2026-10-03): the full checker gains word-bank spelling, the canonical term list, the new ban families and the style-sheet warnings."
+  },
+  {
+    "old_id": "R14-5-NEAR_MISS_FAIL",
+    "action": "note",
+    "by": "R70-36-CHECKER_ENFORCES",
+    "r70_quote": "a near-miss FAILs as a misspelt Wellspring does (R14-5-NEAR_MISS_FAIL)",
+    "old_text": "A near-miss term is a verification fail, not a warning: \"A term not in the source is originated, and flagged as originated in the notes.\"",
+    "note_text": "Extended by R70-36-CHECKER_ENFORCES (style law 2026-10-03): a near-miss on a culture word-bank entry FAILs as a misspelt Wellspring does."
+  },
+  {
+    "old_id": "R14-5-BUILD_TERMS_LIST",
+    "action": "note",
+    "by": "R70-36-CHECKER_ENFORCES",
+    "r70_quote": "wotr_terms.txt is built from Fracture of Worlds, the glossary and the Codex",
+    "old_text": "Build wotr_terms.txt as the canonical term list: \"The build task. A canonical term list, wotr_terms.txt, extracted from Fracture_of_Worlds.md, the glossary, the Codex Lists sheet, and the Categories...\"",
+    "note_text": "Taken up by R70-36-CHECKER_ENFORCES (style law 2026-10-03): wotr_terms.txt is built and checks Stage, Band, Wellspring and Family names for spelling and capitals."
+  },
+  {
+    "old_id": "R18-7-CHECK37",
+    "action": "note",
+    "by": "R70-36-CHECKER_ENFORCES",
+    "r70_quote": "Stage, Band, Wellspring and Family names are checked for spelling and capitals (VB8), and a near-miss FAILs (R14-5-NEAR_MISS_FAIL, Check 37)",
+    "old_text": "Check 37: Controlled vocabulary: \"Every Wellspring, Family, Physics Domain, Temperance stage, Archon, Titan, Glyph Class, alchemical Tier and alchemical Type named in the file is...\"",
+    "note_text": "Read with R70-36-CHECKER_ENFORCES (style law 2026-10-03): Stage, Band, Wellspring and Family names are checked against wotr_terms.txt for spelling and capitals, and a near-miss FAILs."
+  },
+  {
+    "old_id": "R51-10-SLOP_WORDS",
+    "action": "note",
+    "by": "R70-36-CHECKER_ENFORCES",
+    "r70_quote": "The families chosen in VB12 FAIL at first use in narration, as R51-10 does; looser variants of a banned phrase WARN for a read",
+    "old_text": "Slop Words: \"A hard-ban list separate from the repetition list: tapestry, testament, palpable, visceral, symphony of, a dance of, whisper of, orbs (eyes),...\"",
+    "note_text": "Read with R70-36-CHECKER_ENFORCES (style law 2026-10-03): the families R70-35-HARD_BAN_LIST adds FAIL at first use in narration as this list does, and looser variants WARN."
+  },
+  {
+    "old_id": "R49-49-FOREIGN",
+    "action": "note",
+    "by": "R70-36-CHECKER_ENFORCES",
+    "r70_quote": "an italicised loanword (VB2)",
+    "old_text": "Foreign: \"Foreign in-world words appear plain, no italics; meaning comes from context.\"",
+    "note_text": "Enforced by R70-36-CHECKER_ENFORCES (style law 2026-10-03): an italicised loanword WARNs."
+  },
+  {
+    "old_id": "R50-28-NEW_WORDS",
+    "action": "note",
+    "by": "R70-36-CHECKER_ENFORCES",
+    "r70_quote": "unknown words are listed for the scene log (R50-28)",
+    "old_text": "New words: \"A word the partner coins mid-scene is logged with the scene, not docketed; it becomes canon only if Isaac reuses it.\"",
+    "note_text": "Read with R70-36-CHECKER_ENFORCES (style law 2026-10-03): words in no culture bank are listed by the checker for the scene log."
+  },
+  {
+    "old_id": "R14-6-CHECK27",
+    "action": "note",
+    "by": "R70-36-CHECKER_ENFORCES",
+    "r70_quote": "wotr_terms.txt is built from Fracture of Worlds, the glossary and the Codex; Stage, Band, Wellspring and Family names are checked for spelling and capitals (VB8), and a near-miss FAILs (R14-5-NEAR_MISS_FAIL, Check 37)",
+    "old_text": "Check 27: Terminology audit: \"Check 27, terminology audit. Every capitalised system term in the draft matched against wotr_terms.txt. Unknown terms listed. Near-misses (edit distan...\"",
+    "note_text": "Read with R70-36-CHECKER_ENFORCES (style law 2026-10-03): the wotr_terms.txt this audit runs on is built from Fracture of Worlds, the glossary and the Codex, Stage, Band, Wellspring and Family names are checked against it for spelling and capitals (R70-31-CAPITALS_SYSTEM_TERMS), and a near-miss FAILs as here."
+  },
+  {
+    "old_id": "R48-13-PERIOD_FEEL",
+    "action": "note",
+    "by": "R70-37-MODERN_IDIOM_THOUGHT",
+    "r70_quote": "Italic thought may use whatever the POV would say aloud, modern words included; plain narration stays timeless.",
+    "old_text": "Period feel: \"Modern words in speech only: characters may talk modern; narration keeps a timeless register.\"",
+    "note_text": "Partly amended by R70-37-MODERN_IDIOM_THOUGHT (style law 2026-10-03): italic thought may also carry the modern words the POV would say aloud; plain narration keeps the timeless register."
+  },
+  {
+    "old_id": "R51-03-LIST_SLANG",
+    "action": "note",
+    "by": "R70-37-MODERN_IDIOM_THOUGHT",
+    "r70_quote": "Italic thought may use whatever the POV would say aloud, modern words included; plain narration stays timeless. verify drops italic thought from the modern-word check.",
+    "old_text": "List Slang: \"Modern-word list, slang: ban only the worst in narration (okay, OK, vibe, awesome, cool); the rest by ear.\"",
+    "note_text": "Partly amended by R70-37-MODERN_IDIOM_THOUGHT (style law 2026-10-03): the ban covers plain narration only; italic thought may carry these words when the POV would say them, and verify drops italic thought from the check."
+  },
+  {
+    "old_id": "R51-04-LIST_PSYCH",
+    "action": "note",
+    "by": "R70-37-MODERN_IDIOM_THOUGHT",
+    "r70_quote": "Italic thought may use whatever the POV would say aloud, modern words included; plain narration stays timeless. verify drops italic thought from the modern-word check.",
+    "old_text": "List Psych: \"Modern-word list, psychology: ban only the obvious pop-psych jargon in narration (triggered, toxic, closure, mindset, boundaries); anxiety and stress...\"",
+    "note_text": "Partly amended by R70-37-MODERN_IDIOM_THOUGHT (style law 2026-10-03): the ban covers plain narration only; italic thought may carry these words when the POV would say them, and verify drops italic thought from the check."
+  },
+  {
+    "old_id": "R49-44-MODERN_FLAGS",
+    "action": "note",
+    "by": "R70-37-MODERN_IDIOM_THOUGHT",
+    "r70_quote": "verify drops italic thought from the modern-word check.",
+    "old_text": "Modern flags: \"Modern words in narration are caught by a checker word list of banned modern words, checked automatically in narration.\"",
+    "note_text": "Partly amended by R70-37-MODERN_IDIOM_THOUGHT (style law 2026-10-03): verify drops italic thought from the modern-word check; plain narration is still checked against the list."
+  },
+  {
+    "old_id": "R48-39-INTERIORITY",
+    "action": "note",
+    "by": "R70-38-REASONING_SHOWS",
+    "r70_quote": "deep interiority becomes one mode of two, chosen per register",
+    "old_text": "Interiority: \"POV interiority is deep and running: thoughts, memories and reasoning flow through the narration.\"",
+    "note_text": "Partly amended by R70-38-REASONING_SHOWS (style law 2026-10-03): deep running interiority becomes one mode of two, chosen per register, beside the unsaid; stepwise lists and reasoning from figures join it."
+  },
+  {
+    "old_id": "R16-8-CHECK33",
+    "action": "note",
+    "by": "R70-38-REASONING_SHOWS",
+    "r70_quote": "R16-8-CHECK33's cap on technical terms in italics eases",
+    "old_text": "Check 33: Italic quarantine: \"Fewer than half of a scene's technical terms sit inside italic thought.\"",
+    "note_text": "Eased by R70-38-REASONING_SHOWS (style law 2026-10-03) where a reasoning POV sets thinking out as numbered steps, risk lists or tests in italic thought; no new figure is set for the cap."
+  },
+  {
+    "old_id": "R12-5-NEVER_INVENT_NUMBER",
+    "action": "note",
+    "by": "R70-38-REASONING_SHOWS",
+    "r70_quote": "every figure still traces to a source (R12-5)",
+    "old_text": "A number is never invented: \"Never invent a number. Unchanged and absolute.\"",
+    "note_text": "Cited by R70-38-REASONING_SHOWS (style law 2026-10-03): a POV reasoning from readings and figures uses only figures that trace to a source."
+  },
+  {
+    "old_id": "R49-07-EMOTIONS",
+    "action": "note",
+    "by": "R70-39-CARRYING_FEELING",
+    "r70_quote": "R49-07 gains a register-level exception",
+    "old_text": "Emotions: \"Emotion: show it in the body first; the POV may then name it in his own word.\"",
+    "note_text": "Partly amended by R70-39-CARRYING_FEELING (style law 2026-10-03): in chosen scenes the feeling is never named and one held, concrete image carries it; elsewhere this rule stands."
+  },
+  {
+    "old_id": "R5-C2-ELEGY_CONCRETE_THING",
+    "action": "note",
+    "by": "R70-39-CARRYING_FEELING",
+    "r70_quote": "the image obeys R5-C2",
+    "old_text": "Elegy attaches to a named concrete thing that is gone: \"Elegy attaches to a named concrete thing that is gone.\"",
+    "note_text": "Cited by R70-39-CARRYING_FEELING (style law 2026-10-03): the held image that carries an unnamed feeling obeys this rule."
+  }
+]

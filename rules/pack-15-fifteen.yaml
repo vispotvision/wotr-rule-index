@@ -92,6 +92,10 @@ rules:
       Backfilled: demotes R5-C3-NARRATION_REGISTER_EXTENSION (Pack Five
       §C.3) from law to available flavour. A demotion, not a full strike
       (flavour use remains available), so no supersedes link is set.
+      Partly amended by R70-21-CADENCE_CULTURE (style law 2026-10-03): cadence
+      by the POV's culture is now law, stated in each narration register;
+      R70-27 sets a diction dial per culture. The rest of register by culture
+      stays flavour.
 
   - id: R15-1-VOICE_DIFFERENTIATION
     pack: Pack Fifteen
@@ -243,6 +247,9 @@ rules:
       untouched." The separate WOTR_Racial_Voice_Guide_Amendment.md source in
       this corpus is not this base guide; see that source's own extraction
       in Phase 4.
+      Stays a menu; R70-108-EASTERN_REGISTER_SPEECH_SOUNDS (style law
+      2026-10-03) sets where Chinese and Korean speakers' translated forms
+      come out: ceremony, challenge, oath, court and insult.
 
   - id: R15-1-ELEVATED_VOCAB_OPTIONAL
     pack: Pack Fifteen

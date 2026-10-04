@@ -1,0 +1,749 @@
+- id: R70-77-INSTRUMENT_CAN_SHOW
+  pack: Style Law 2026-10-03
+  pack_number: null
+  section: LR1
+  title: Assay instruments print their readings
+  status: live
+  kind: definition
+  summary: Assay coils may stamp their figures on a paper tape or punch them on a card, like a ticker or
+    tabulator, and any set-off readout block on the page is written as that tape in the instrument's own
+    type.
+  verbatim: Printing instruments. Assay coils stamp a paper tape or punch a card, as a ticker or tabulator
+    does, so a set-off block on the page is that tape, in the instrument's own type.
+  amends:
+  - guide: NATALIE.md and the wotr-write skill
+    locus: 'The Magic Frame: Pack Eleven, the Draw Age'
+    operation: adds
+  - guide: WOTR_Item_and_Equipment_Writing_Guide.md
+    locus: instruments and gauges
+    operation: adds
+  supersedes: []
+  applies_to:
+  - worldbuilding
+  - documents
+  - stats
+  verification: []
+  ratified: 'Isaac, 2026-10-03, Claude Code chat: ruled directly (the style questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: 'Works with R70-80-READOUT_SITS_PAGE (when a block may appear) and R70-78-WHERE_SCREEN_COMES_FROM
+    (instruments read everyone; the bearer reads only his own sheet). Stays inside R53-01-IMPERIAL_AGE_SPAN:
+    the ticker tape and the tabulator card are the models. No older rule is reached.'
+- id: R70-78-WHERE_SCREEN_COMES_FROM
+  pack: Style Law 2026-10-03
+  pack_number: null
+  section: LR22
+  title: The bearer reads his own Crystal
+  status: live
+  kind: definition
+  summary: A practitioner sees his own figures as plain, voiceless lines read in his Soul Crystal at thresholds,
+    exact and limited to his own sheet, never showing wounds or anyone else, while instruments read everyone
+    else.
+  verbatim: 'Read in the Crystal. The bearer reads his own Soul Crystal as plain, voiceless lines at thresholds:
+    his own sheet only, exact, and blind to wounds and to others. Small new canon; instruments still read
+    everyone else.'
+  amends:
+  - guide: NATALIE.md and the wotr-write skill
+    locus: 'The Magic Frame: the stats decide'
+    operation: adds
+  - guide: The Magic System
+    locus: The Magic System
+    operation: adds
+  supersedes: []
+  applies_to:
+  - stats
+  - magic-mechanism
+  - pov
+  - worldbuilding
+  verification: []
+  ratified: 'Isaac, 2026-10-03, Claude Code chat: ruled directly (the style questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: 'Small new canon: the in-world source R70-2-LITRPG_WOTR_BECOMES left to this question. Adds one
+    source to R49-52-MEASURES and R52-05-COUNTING, the bearer''s own Crystal for his own sheet; R12-5-NEVER_INVENT_NUMBER
+    still binds every line. The Crystal is blind to wounds, so a wound''s readout is a surgeon''s line
+    (R70-85-SCENE_MOMENTS_THAT_EARN).
+    The lines are ''exact'', while R70-99-NUMBER_NOT_YET_CANON has a readout hedge an uncanonical figure
+    ''with the instrument''s own hedge''; how a Crystal line, which is no instrument, shows an estimate
+    is not stated and is flagged for the conflict log, not settled here.'
+- id: R70-79-CAN_READ_WHOM
+  pack: Style Law 2026-10-03
+  pack_number: null
+  section: LR2
+  title: Practitioners feel rank
+  status: live
+  kind: definition
+  summary: Every practitioner feels his own Grades and Stage and senses another's Band and rough Stage
+    as closely as his Gnosis allows, but another's exact figures need an instrument, and commoners keep
+    their folk words and their awe.
+  verbatim: Practitioners feel rank. Any practitioner feels his own Grades and Stage, and another's Band
+    and rough Stage, with Gnosis setting how close. Another's exact figures need an instrument; commoners
+    keep their folk words and their awe.
+  amends:
+  - guide: NATALIE.md and the wotr-write skill
+    locus: 'The Magic Frame: Pressure'
+    operation: adds
+  - guide: The Magic System
+    locus: The Magic System
+    operation: adds
+  supersedes: []
+  applies_to:
+  - stats
+  - pov
+  - worldbuilding
+  - adjudication
+  verification: []
+  ratified: 'Isaac, 2026-10-03, Claude Code chat: ruled directly (the style questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: 'Confirms R53-14-FOLK_KNOWLEDGE for commoners and keeps R52-05-COUNTING''s point that a stranger''s
+    exact figures come from an instrument. Gnosis is the read stat of R14-3-STATS_DECIDE_TABLE. Read with
+    R70-93-BUILD_TALK_DIALOGUE, which lets a ranked practitioner talk others'' numbers exactly: by this
+    row his own sense gives him only Band and rough Stage, so exact figures he speaks of another come
+    from an instrument or what he was told (R70-83-FIGURES_PLAIN_NARRATION).'
+- id: R70-80-READOUT_SITS_PAGE
+  pack: Style Law 2026-10-03
+  pack_number: null
+  section: LR3
+  title: Inline figures, set-off blocks at milestones
+  status: live
+  kind: mandate
+  summary: Figures sit inline in ordinary sentences by default, and a set-off readout block appears only
+    at a re-assay that changes something, a breakthrough or the end of an arc.
+  verbatim: Inline, blocks at milestones. Figures inline by default; a set-off block only at a re-assay
+    that moves something, a breakthrough or an arc's end. Blocks become events, rare enough to land.
+  amends:
+  - guide: WOTR_Master_Style_Directive.md
+    locus: §4.6, the status-screen ban
+    operation: replaces
+  - guide: NATALIE.md and the wotr-write skill
+    locus: Prose standards
+    operation: adds
+  - guide: Dialogue Craft Standards
+    locus: §3.H, system text 'not as interruption blocks'
+    operation: extends
+  supersedes: []
+  applies_to:
+  - prose-law
+  - documents
+  - stats
+  verification: []
+  ratified: 'Isaac, 2026-10-03, Claude Code chat: ruled directly (the style questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: 'Rules in words what R5-F-LIGHT_NOVEL_NOT_KEPT had banned (''Status screens, panels, HUD-style
+    rendering'') and R51-16-OLD_BANS_FALL, which spoke only of vocabulary, left silent. Keeps R48-07-WHITE_SPACE:
+    blocks are rare events. The block is the instrument''s tape (R70-77-INSTRUMENT_CAN_SHOW). Other answers
+    in the same ruling name further set-off occasions: a scene closing on a notice or readout (R70-17-CLOSING_MODES),
+    the item card at purchase or appraisal (R70-95-ITEM_CARDS) and the chapter-end changes block (R70-98-SHEETS_CHAPTER_ARC_ENDS).
+    Whether those sit inside this row''s ''only'' is not settled here and is flagged for the conflict
+    log.'
+- id: R70-81-VOICE_READOUT
+  pack: Style Law 2026-10-03
+  pack_number: null
+  section: LR4
+  title: Readouts clinical, wit in the margin
+  status: live
+  kind: mandate
+  summary: Readout text stays clinical and carries no humour; any wit belongs to the clerk's or Measurewright's
+    note beside it.
+  verbatim: Clinical, wit in margins. The instrument stays clinical, and any wit lives in the clerk's
+    or Measurewright's note beside it. Humour stays in a person, never in the readout, and R5-D stands.
+  amends:
+  - guide: NATALIE.md and the wotr-write skill
+    locus: Documents
+    operation: adds
+  supersedes: []
+  applies_to:
+  - documents
+  - register
+  - prose-law
+  verification: []
+  ratified: 'Isaac, 2026-10-03, Claude Code chat: ruled directly (the style questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: 'Extends R51-33-DOC_REGISTER''s institutional house style to instruments. ''R5-D stands'': R5-D-HUMOUR_PERMITTED
+    and R5-D-HUMOUR_BARRED stay live; R5-D-FUNERAL_TEST and R5-D-HUMOUR_CASTING were already superseded
+    and are not revived. Full comic beats for named comic voices are R70-113-DOUBLE_ACT_COMIC_BEAT''s
+    ruling; this row keeps only the readout itself humourless.'
+- id: R70-82-NUMERALS_LADDER_RUNGS
+  pack: Style Law 2026-10-03
+  pack_number: null
+  section: LR5
+  title: Stage and Band numerals beside the name
+  status: live
+  kind: mandate
+  summary: Stages and Bands may carry their Roman numeral beside the name, as Fracture of Worlds writes
+    them ('Stage V, Splintering'), while Tiers of Standing and item Tiers are still written by name alone.
+  verbatim: Numeral beside name. 'Stage V, Splintering' and 'Band II, Awakened', as FOW writes them. Tiers
+    of Standing and item Tiers keep their names alone. R47-7 is amended.
+  amends:
+  - guide: Ability and Technique Design Guide
+    locus: names, not numbers (R47-7), for Stages and Bands
+    operation: replaces
+  - guide: NATALIE.md and the wotr-write skill
+    locus: Prose standards
+    operation: adds
+  supersedes: []
+  applies_to:
+  - stats
+  - prose-law
+  - documents
+  - items
+  verification: []
+  ratified: 'Isaac, 2026-10-03, Claude Code chat: ruled directly (the style questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: '''R47-7 is amended'': R47-7-NAMES_NOT_NUMBERS stays live for Tiers of Standing and item Tiers
+    and loses its hold on Stages and Bands; a bare numeral without the name is not licensed (the ''Numerals
+    free'' option was not taken). Level and other system figures take digits under R70-30-NUMBERS_WORDS_DIGITS.
+    An item card prints the item Tier by name (R70-95-ITEM_CARDS).'
+- id: R70-83-FIGURES_PLAIN_NARRATION
+  pack: Style Law 2026-10-03
+  pack_number: null
+  section: LR6
+  title: Narration states the figures the POV holds
+  status: live
+  kind: mandate
+  summary: Narration may state on its own authority only the figures the POV actually holds, such as his
+    own last reading, a card he has seen or what he was told.
+  verbatim: 'What the POV knows. Narration states the figures the POV holds: his own last reading, the
+    card he has seen, what he was told. R49-52 governs R49-47; R14-4-SUBSTAT retires; NATALIE.md is rewritten.'
+  amends:
+  - guide: NATALIE.md and the wotr-write skill
+    locus: Table Rule 5 and The Magic Frame ('names only in a mouth, an instrument, a document, or a private
+      count')
+    operation: replaces
+  - guide: WOTR_Master_Style_Directive.md
+    locus: §1, §4.6 and §6.1, stat words in narration
+    operation: replaces
+  supersedes:
+  - R14-4-SUBSTAT_DIAGNOSTIC_ONLY
+  applies_to:
+  - prose-law
+  - stats
+  - pov
+  - register
+  verification: []
+  ratified: 'Isaac, 2026-10-03, Claude Code chat: ruled directly (the style questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: '''R49-52 governs R49-47'': R49-47-STAT_WORDS stays live for stat names, Grades and Stages in
+    narration, but a figure narration states on its own authority must be one the POV holds under R49-52-MEASURES,
+    read with the Crystal source of R70-78-WHERE_SCREEN_COMES_FROM. ''R14-4-SUBSTAT retires'': R14-4-SUBSTAT_DIAGNOSTIC_ONLY,
+    the only R14-4 row on Sub-Stats, is superseded. ''NATALIE.md is rewritten'': Table Rule 5''s ''in
+    a mouth, never in narration'' and the Magic Frame''s ''names only in a mouth'' line are owed the rewrite.'
+- id: R70-84-GROWTH_MOMENTS_THAT_EARN
+  pack: Style Law 2026-10-03
+  pack_number: null
+  section: LR7
+  title: Growth moments that earn a readout
+  status: live
+  kind: mandate
+  summary: A readout may mark a Level gained with the stat points it brought, a Stage breakthrough naming
+    the new Stage and its Tier of Standing, a new Trait as it registers, and first contact with or harmonisation
+    to a Wellspring current.
+  verbatim: 'Yes to: Level gained (A short readout when a Level lands, with the stat points it brought.
+    The genre''s heartbeat, and the most frequent of the four); Stage breakthrough (A readout naming the
+    new Stage and its Tier of Standing when the Catalyst completes. The cultivation novel''s big moment);
+    New Trait (A readout naming the Trait when it registers. Rare, and each one changes what a character
+    can do); Wellspring contact (A readout at first contact with a new Wellspring current (FOW''s Resonant
+    Surge) and at a harmonisation. Growth tied to a place).'
+  amends:
+  - guide: NATALIE.md and the wotr-write skill
+    locus: 'Prose standards: readouts'
+    operation: adds
+  supersedes: []
+  applies_to:
+  - stats
+  - prose-law
+  - scene-structure
+  verification: []
+  ratified: 'Isaac, 2026-10-03, Claude Code chat: ruled directly (the style questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: Works with R70-89-BODY_FIRST_NUMBER_FIRST (body first, line after), R70-91-BREAKTHROUGH_PAGE
+    (when the breakthrough line lands), R70-80-READOUT_SITS_PAGE (a breakthrough earns a set-off block),
+    R70-86-MANY_READOUTS_SCENE_CARRIES (the per-scene cap) and R70-90-FAST_NUMBERS_CLIMB (each gain needs
+    a shown cause). Every figure traces to the sheet (R12-5-NEVER_INVENT_NUMBER). No older rule is reached.
+- id: R70-85-SCENE_MOMENTS_THAT_EARN
+  pack: Style Law 2026-10-03
+  pack_number: null
+  section: LR8
+  title: 'In-scene readouts: appraisal, wound, Essence spent'
+  status: live
+  kind: mandate
+  summary: Inside a scene a readout may come from an appraisal of a person, beast or item, a surgeon's
+    diagnostic line on a wound, or a reserve line after a working, but never from Pressure.
+  verbatim: 'Yes to: Appraisal (Reading a person, beast or item: the Measurewright at the rail, the coil
+    at the counter, a faculty. The genre''s appraisal in WOTR''s hands); A wound (A diagnostic line in
+    a surgeon''s terms: the structure struck, the ATLS class, the minutes left. Brida''s ''third bowl''
+    as a readout); Essence spent (A reserve line after a working: what was drawn and what is left. R60-03''s
+    hard reserve clock made visible). Not taken: Pressure.'
+  amends:
+  - guide: NATALIE.md and the wotr-write skill
+    locus: 'Prose standards: readouts'
+    operation: adds
+  supersedes: []
+  applies_to:
+  - stats
+  - prose-law
+  - combat
+  - documents
+  verification: []
+  ratified: 'Isaac, 2026-10-03, Claude Code chat: ruled directly (the style questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: Pressure was not taken, so R53-14-FOLK_KNOWLEDGE's 'Pressure is felt as dread' stays how Pressure
+    reaches the page. The reserve line makes R60-03-HARD_RESERVE_CLOCK visible without changing it. Gives
+    R48-16-REAL_FIGURES a set form at these three moments; R70-86-MANY_READOUTS_SCENE_CARRIES caps them.
+    The wound line is a surgeon's, not the Crystal's, which is blind to wounds (R70-78-WHERE_SCREEN_COMES_FROM).
+    An appraisal by 'a faculty' sits beside R70-79-CAN_READ_WHOM ('Another's exact figures need an instrument';
+    LR2's faculty option was not taken); whether a faculty appraisal may print exact figures is not settled
+    here and is flagged for the conflict log.
+- id: R70-86-MANY_READOUTS_SCENE_CARRIES
+  pack: Style Law 2026-10-03
+  pack_number: null
+  section: LR9
+  title: Three readouts a scene, two a turn
+  status: live
+  kind: budget
+  summary: A scene carries at most three readouts, at the display, the finisher and the aftermath, and
+    a roleplay turn at most two, never two in one exchange.
+  verbatim: Display, finisher, aftermath. Up to three per scene, on R48-20's rhythm; a roleplay turn carries
+    two at most, never two in one exchange.
+  amends:
+  - guide: NATALIE.md and the wotr-write skill
+    locus: 'Prose standards: readouts'
+    operation: adds
+  supersedes: []
+  applies_to:
+  - prose-law
+  - scene-structure
+  - stats
+  verification: []
+  ratified: 'Isaac, 2026-10-03, Claude Code chat: ruled directly (the style questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: Rides R48-20-STRATA's display-and-finisher rhythm and adds the aftermath. Counts the readouts
+    of R70-84-GROWTH_MOMENTS_THAT_EARN and R70-85-SCENE_MOMENTS_THAT_EARN. The cap names readouts; R48-16-REAL_FIGURES's
+    figures in a mouth are not named by it.
+- id: R70-87-READOUTS_TWO_VOICE_CAP
+  pack: Style Law 2026-10-03
+  pack_number: null
+  section: LR10
+  title: Readouts sit outside the two-voice cap
+  status: live
+  kind: definition
+  summary: A readout states figures and explains nothing, so it never counts toward the two explaining
+    voices an engagement may carry.
+  verbatim: Outside the cap. A readout states figures and explains nothing, so it never counts; two voices
+    still do the explaining, and the reader checks the call against the figures.
+  amends:
+  - guide: NATALIE.md and the wotr-write skill
+    locus: 'The Magic Frame: four explaining voices'
+    operation: extends
+  supersedes: []
+  applies_to:
+  - magic-mechanism
+  - prose-law
+  - dialogue
+  verification: []
+  ratified: 'Isaac, 2026-10-03, Claude Code chat: ruled directly (the style questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: R12-4-VOICE_MIXING_RULE's cap of two explaining voices stands; a readout explains nothing, so
+    it takes no slot even where it is printed like an in-world document (R12-4-VOICE_FOUR_DOCUMENT is
+    the explaining document). The figures let the reader check the call, in aid of R13-8-RECONSTRUCTIBLE_ADJUDICATION.
+- id: R70-88-NUMBERS_INSIDE_FIGHT
+  pack: Style Law 2026-10-03
+  pack_number: null
+  section: LR11
+  title: Grades at the read, no running log
+  status: live
+  kind: mandate
+  summary: During a fight the POV's read may name Grades and gaps as her own estimates before or between
+    exchanges, but the page never runs a log of figures.
+  verbatim: Grades at the read. The POV's read names Grades and gaps before or between exchanges, as estimates
+    in her own terms; no running figures. The genre's sizing-up without a log.
+  amends:
+  - guide: WOTR_Combat_Craft_Guide.md
+    locus: the read
+    operation: adds
+  supersedes: []
+  applies_to:
+  - combat
+  - stats
+  - pov
+  - adjudication
+  verification: []
+  ratified: 'Isaac, 2026-10-03, Claude Code chat: ruled directly (the style questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: 'R14-6-CHECK29 stands: running figures stay in the Stat Ledger in the author notes. R60-03-HARD_RESERVE_CLOCK
+    still runs on the Ledger''s numbers and shows on the page as the body and the reserve line after a
+    working (R70-85-SCENE_MOMENTS_THAT_EARN), never as a running count. R70-91-BREAKTHROUGH_PAGE cites
+    this row as ''never mid-exchange''. The read is an estimate, so a confident wrong read (R12-4-VOICE_ONE_POV)
+    stays legal.'
+- id: R70-89-BODY_FIRST_NUMBER_FIRST
+  pack: Style Law 2026-10-03
+  pack_number: null
+  section: LR12
+  title: The body first, the number a line after
+  status: live
+  kind: mandate
+  summary: When a cost or a gain lands, the body shows it first and the readout follows a line later in
+    the same beat, both on the page together.
+  verbatim: Body, then number. The body first and the readout in the same beat, a line after. Both on
+    the page together, with the body always ahead.
+  amends:
+  - guide: NATALIE.md and the wotr-write skill
+    locus: 'The Magic Frame: mechanism is on the page'
+    operation: extends
+  - guide: WOTR_Combat_Craft_Guide.md
+    locus: cost in the body
+    operation: extends
+  supersedes: []
+  applies_to:
+  - prose-law
+  - combat
+  - stats
+  verification: []
+  ratified: 'Isaac, 2026-10-03, Claude Code chat: ruled directly (the style questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: 'R48-37-COST_SHOWN stands and leads: the tremor, heat, thirst or Crystal ache comes first and
+    the figure after. Sets the order for R70-84-GROWTH_MOMENTS_THAT_EARN and R70-85-SCENE_MOMENTS_THAT_EARN.'
+- id: R70-90-FAST_NUMBERS_CLIMB
+  pack: Style Law 2026-10-03
+  pack_number: null
+  section: LR13
+  title: Numbers move only for a shown cause
+  status: live
+  kind: mandate
+  summary: A character's numbers change only for a cause the reader has seen, a Fracture of Worlds XP
+    event on the page or training named in a downtime turn.
+  verbatim: 'Event-bound. Numbers move only for a cause the reader was shown: a FOW XP event on the page,
+    or training named in a downtime turn.'
+  amends:
+  - guide: NATALIE.md and the wotr-write skill
+    locus: Downtime
+    operation: adds
+  - guide: character sheet template
+    locus: Fracture Log
+    operation: adds
+  supersedes: []
+  applies_to:
+  - stats
+  - character-sheet
+  - session-protocol
+  verification: []
+  ratified: 'Isaac, 2026-10-03, Claude Code chat: ruled directly (the style questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: Carries R14-3-TRACEABILITY's logic from fight outcomes to growth; R14-3-TRACEABILITY itself is
+    unchanged. The training montage of R70-18-ARC_SHAPES is one way to name training.
+- id: R70-91-BREAKTHROUGH_PAGE
+  pack: Style Law 2026-10-03
+  pack_number: null
+  section: LR23
+  title: Breakthrough inside the crisis, line after
+  status: live
+  kind: mandate
+  summary: A Stage breakthrough is written from the body inside the danger that is its Catalyst, and its
+    readout line lands only as the danger breaks and the Catalyst completes, never in the middle of an
+    exchange.
+  verbatim: In the crisis, line after. It happens inside the danger that is its Catalyst, written from
+    the body; the line lands as the danger breaks and the Catalyst completes, never mid-exchange (LR11).
+    R9-3's splash beat goes to the crisis.
+  amends:
+  - guide: WOTR_Visual_Aesthetic_Guide.md
+    locus: Section 4a
+    operation: extends
+  - guide: NATALIE.md and the wotr-write skill
+    locus: The Magic Frame
+    operation: adds
+  supersedes: []
+  applies_to:
+  - magic-mechanism
+  - stats
+  - scene-structure
+  - combat
+  - prose-law
+  verification: []
+  ratified: 'Isaac, 2026-10-03, Claude Code chat: ruled directly (the style questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: '''R9-3''s splash beat goes to the crisis'': R9-3-BODY_UNDER_LOAD stays live, its one splash-panel
+    beat placed in the Catalyst crisis at a breakthrough (R70-73-MANY_DISPLAY_BEATS_PER also reaches display
+    beats per scene). R9-3-SCOPE still lists Stage ascension and R9-3-EYES_AS_TELL is untouched. The world-scale
+    option (the bill at scale) was not taken; R53-17-THE_BILL still applies to any working on a main.
+    ''(LR11)'' is R70-88-NUMBERS_INSIDE_FIGHT. Confirmation follows at a public re-assay (R70-92-CONFIRMING_NEW_STAGE).'
+- id: R70-92-CONFIRMING_NEW_STAGE
+  pack: Style Law 2026-10-03
+  pack_number: null
+  section: LR14
+  title: A new Stage confirmed at a public re-assay
+  status: live
+  kind: procedure
+  summary: A new Stage is confirmed at a re-assay held as a rite before witnesses, read aloud and entered
+    on the Reckoner's roll.
+  verbatim: 'A public re-assay. The re-assay is a rite before witnesses, read aloud and entered on the
+    Reckoner''s roll: the sect''s ranking ceremony, in WOTR''s institutions.'
+  amends:
+  - guide: NATALIE.md and the wotr-write skill
+    locus: The Magic Frame
+    operation: adds
+  supersedes: []
+  applies_to:
+  - worldbuilding
+  - stats
+  - scene-structure
+  - documents
+  verification: []
+  ratified: 'Isaac, 2026-10-03, Claude Code chat: ruled directly (the style questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: Works with R70-91-BREAKTHROUGH_PAGE (the crossing) and R70-80-READOUT_SITS_PAGE (a re-assay that
+    moves something earns a set-off block). The Reckoner already appears in canon as a recording office
+    (wiki cards and the Standing Inventories); the answer does not say which office keeps the roll in
+    each culture. No older rule is reached.
+- id: R70-93-BUILD_TALK_DIALOGUE
+  pack: Style Law 2026-10-03
+  pack_number: null
+  section: LR15
+  title: Ranked practitioners talk numbers and builds
+  status: live
+  kind: mandate
+  summary: Any ranked practitioner may speak his own and others' figures exactly and argue builds in dialogue,
+    as in Unbound, while commoners still round.
+  verbatim: Ranked practitioners too. Any ranked practitioner talks his own and others' numbers exactly
+    and argues builds, as in Unbound; commoners still round. R52-05 widens.
+  amends:
+  - guide: Character cards, NATALIE.md and the wotr-npc skill
+    locus: How distinct voices must be
+    operation: extends
+  - guide: Dialogue Craft Standards
+    locus: §3.H, system text in speech
+    operation: extends
+  supersedes: []
+  applies_to:
+  - dialogue
+  - stats
+  - register
+  verification: []
+  ratified: 'Isaac, 2026-10-03, Claude Code chat: ruled directly (the style questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: '''R52-05 widens'': R52-05-COUNTING stays live with ranked practitioners added to its owners
+    of exact-number speech; commoners still round, guess or do not count. Carries Isaac''s 2026-09-12
+    Unbound ruling on R14-B. Read with R70-79-CAN_READ_WHOM: exact figures of another come from an instrument
+    or a report, not from feel. R13-6-SCALING_VOCAB_RESTRICTED (powerscaling terms in the notes only)
+    is not reached by build talk in FOW''s own terms.'
+- id: R70-94-GAMER_SLANG
+  pack: Style Law 2026-10-03
+  pack_number: null
+  section: LR16
+  title: Gamer slang in speech only
+  status: live
+  kind: mandate
+  summary: Gamer slang such as min-max, dump stat, aggro and cooldown may appear in a mouth whose voice
+    would carry it but never in narration, and the checker watches narration for it.
+  verbatim: 'Speech, by ear. Current law: gamer slang in a mouth whose voice would carry it; narration
+    stays timeless. verify_scene adds these words to its narration watch-list.'
+  amends:
+  - guide: NATALIE.md and the wotr-write skill
+    locus: Register (Pack Fifteen)
+    operation: extends
+  - guide: Manual Verification Guide
+    locus: modern-word watch
+    operation: extends
+  - guide: Dialogue Craft Standards
+    locus: §3.H, LitRPG vocabulary (aggro, cooldown) in speech
+    operation: extends
+  supersedes: []
+  applies_to:
+  - register
+  - dialogue
+  - prose-law
+  - verification
+  verification:
+  - 'verify: modern-word check'
+  ratified: 'Isaac, 2026-10-03, Claude Code chat: ruled directly (the style questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: 'Applies R48-13-PERIOD_FEEL as it stands (''Current law''). R51-05-LIST_TECH stands: no WOTR
+    culture has the video game, so these words are never a narration metaphor. Italic thought follows
+    R70-37-MODERN_IDIOM_THOUGHT. The watch is build/verify.py''s MODERN list, which has no check number;
+    the four words are owed to it.'
+- id: R70-95-ITEM_CARDS
+  pack: Style Law 2026-10-03
+  pack_number: null
+  section: LR17
+  title: One set-off card per item
+  status: live
+  kind: mandate
+  summary: An item may get one set-off card at purchase or appraisal giving its Tier, Latin form, Grade
+    band, maker, stamp, price and a line of lore, and that card is never printed again.
+  verbatim: 'Item card, once. A set-off card at purchase or appraisal: Tier, Latin form, Grade band, maker,
+    stamp, price, one line of lore. Once per item, never reprinted.'
+  amends:
+  - guide: WOTR_Item_and_Equipment_Writing_Guide.md
+    locus: item entry
+    operation: adds
+  supersedes: []
+  applies_to:
+  - items
+  - documents
+  - prose-law
+  verification: []
+  ratified: 'Isaac, 2026-10-03, Claude Code chat: ruled directly (the style questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: The Tier is a rung of the item ladder of R46-2-NINE_ITEM_TIERS_NAMED and prints by name (R70-82-NUMERALS_LADDER_RUNGS).
+    Read with R70-48-MONEY_PRICE_PROVENANCE ('Tier and price stay off unless asked'). A set-off occasion
+    beside R70-80-READOUT_SITS_PAGE's list; see that row's note.
+- id: R70-96-TITLES_ACHIEVEMENTS
+  pack: Style Law 2026-10-03
+  pack_number: null
+  section: LR18
+  title: Guild commendations as titles
+  status: live
+  kind: definition
+  summary: Besides Third Names, the Guild may enter a commendation on a practitioner's registration and
+    strike its mark on his token, which carries legal and social weight but changes no stat.
+  verbatim: 'Guild commendations. The Guild may also enter a commendation on a registration and strike
+    its mark on the token: legal and social weight, no stat effect. Third Names carry on as now.'
+  amends:
+  - guide: Naming guide and the wotr-write skill
+    locus: Third Names
+    operation: extends
+  - guide: The Guild Accord
+    locus: The Guild Accord
+    operation: extends
+  supersedes: []
+  applies_to:
+  - naming
+  - worldbuilding
+  - items
+  verification: []
+  ratified: 'Isaac, 2026-10-03, Claude Code chat: ruled directly (the style questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: '''Third Names carry on as now'': R50-21-THIRD_NAMES stands. Canon''s rank token, which bore
+    the certified rank only, may now also carry a commendation mark.'
+- id: R70-97-QUESTS_CONTRACTS
+  pack: Style Law 2026-10-03
+  pack_number: null
+  section: LR19
+  title: Contract boards for quests
+  status: live
+  kind: definition
+  summary: Quests take the form of Guild and Crown contracts posted with terms, pay and the clearance
+    register, and every hook offered at the table states its reward and penalty.
+  verbatim: 'Contract boards. Guild and Crown contracts posted with terms, pay and the clearance register:
+    the quest board as a Draw Age notice. Hooks gain a stated reward and penalty.'
+  amends:
+  - guide: NATALIE.md and the wotr-write skill
+    locus: 'The Running Pieces: Scene Menu'
+    operation: extends
+  - guide: The Guild Accord
+    locus: The Guild Accord
+    operation: extends
+  supersedes: []
+  applies_to:
+  - worldbuilding
+  - session-protocol
+  - documents
+  verification: []
+  ratified: 'Isaac, 2026-10-03, Claude Code chat: ruled directly (the style questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: Builds on canon's contracted bounty work and the Guild's clearance register on the Well roads.
+    The Scene Menu's hooks now carry a stated reward and penalty. Fits the episodic job arc of R70-18-ARC_SHAPES.
+    No older rule is reached.
+- id: R70-98-SHEETS_CHAPTER_ARC_ENDS
+  pack: Style Law 2026-10-03
+  pack_number: null
+  section: LR20
+  title: A changes block at chapter end
+  status: live
+  kind: procedure
+  summary: Each book chapter closes, above the notes, with a short block of what moved on the sheet and
+    why, while a roleplay turn keeps that block in its notes.
+  verbatim: Changes at chapter end. Each chapter closes with a short block of what moved and why, above
+    the notes; roleplay turns keep it in the notes.
+  amends:
+  - guide: author notes template
+    locus: Stat Ledger
+    operation: extends
+  - guide: NATALIE.md and the wotr-write skill
+    locus: 'Documents: scenes as markdown files with author notes'
+    operation: adds
+  supersedes: []
+  applies_to:
+  - scene-structure
+  - stats
+  - character-sheet
+  verification: []
+  ratified: 'Isaac, 2026-10-03, Claude Code chat: ruled directly (the style questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: 'R14-6-CHECK29 stands: the full Stat Ledger stays in the author notes. The changes block sits
+    above the author-notes heading, inside the text the prose checker measures (R54-12-CHECKER_STOPS_AT_NOTES).
+    The block lists changes only, each with the shown cause R70-90-FAST_NUMBERS_CLIMB requires. A set-off occasion beside R70-80-READOUT_SITS_PAGE''s list; see that row''s note.'
+- id: R70-99-NUMBER_NOT_YET_CANON
+  pack: Style Law 2026-10-03
+  pack_number: null
+  section: LR21
+  title: Uncanonical figures print as hedged estimates
+  status: live
+  kind: procedure
+  summary: When a readout needs a figure canon does not give, it prints an estimate with the instrument's
+    own hedge, such as a range or a stated uncertainty, and the author notes log it as an estimate.
+  verbatim: Print the estimate, marked. The readout prints the figure with the instrument's own hedge
+    (a range, 'uncertain past the third place'), and the notes log it as estimate.
+  amends:
+  - guide: Manual Verification Guide
+    locus: numbers
+    operation: extends
+  - guide: author notes template
+    locus: Stat Ledger
+    operation: extends
+  supersedes: []
+  applies_to:
+  - stats
+  - documents
+  - verification
+  verification: []
+  ratified: 'Isaac, 2026-10-03, Claude Code chat: ruled directly (the style questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: 'R12-5-NEVER_INVENT_NUMBER stands: the hedge on the page is its ''flagged as estimate'' made
+    visible. R14-6-NUMBERS_GREP still decides what is an estimate, and R14-2-ESTIMATE_MARKING''s documented
+    range for the Stage and Band still bounds it. The hedge is an instrument''s; R70-78-WHERE_SCREEN_COMES_FROM
+    makes the bearer''s Crystal lines ''exact'', and how they show an estimate is flagged for the conflict
+    log.'

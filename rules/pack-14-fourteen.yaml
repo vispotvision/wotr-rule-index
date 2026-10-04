@@ -69,7 +69,10 @@ rules:
     source:
       file: WOTR_Companion_Guide_Amendments_Pack_Fourteen.md
       lines: "32"
-    notes: null
+    notes: >-
+      Read with R70-99-NUMBER_NOT_YET_CANON (style law 2026-10-03): the
+      estimate written in the notes may also print in a readout, hedged by the
+      instrument.
 
   - id: R14-3-STATS_DECIDE_TABLE
     pack: Pack Fourteen
@@ -124,7 +127,10 @@ rules:
     source:
       file: WOTR_Companion_Guide_Amendments_Pack_Fourteen.md
       lines: "53"
-    notes: null
+    notes: >-
+      Read with R70-90-FAST_NUMBERS_CLIMB (style law 2026-10-03): a
+      character's numbers move only for a shown cause, as fight outcomes trace
+      to a table row.
 
   - id: R14-4-EFFECTS_CHANNEL
     pack: Pack Fourteen
@@ -182,7 +188,7 @@ rules:
     pack_number: 14
     section: "§4"
     title: Sub-Stat names are reserved to a faculty reading
-    status: live
+    status: superseded
     kind: ban
     summary: >-
       Sub-Stat names are the finest grain the system has, and only a
@@ -199,7 +205,14 @@ rules:
     source:
       file: WOTR_Companion_Guide_Amendments_Pack_Fourteen.md
       lines: "63"
-    notes: null
+    notes: >-
+      Touched by R70-2-LITRPG_WOTR_BECOMES (style law 2026-10-03): a
+      practitioner's own readout now reaches the page. Retiring this row is
+      R70-83-FIGURES_PLAIN_NARRATION's call ("R14-4-SUBSTAT retires"), not
+      R70-2's. Superseded by R70-83-FIGURES_PLAIN_NARRATION (style law
+      2026-10-03): 'R14-4-SUBSTAT retires'; Sub-Stat names are free under
+      R51-16, and figures in narration follow R70-83 (the figures the POV
+      holds).
 
   - id: R14-5-CANONICAL_TERMS
     pack: Pack Fourteen
@@ -229,7 +242,11 @@ rules:
     source:
       file: WOTR_Companion_Guide_Amendments_Pack_Fourteen.md
       lines: "69"
-    notes: null
+    notes: >-
+      Read with R70-31-CAPITALS_SYSTEM_TERMS (style law 2026-10-03): in
+      narration Stage, Band, Grade, Level, Wellspring, Essence, Aether,
+      Pressure and the Sub-Stat names are capitalised; reserve and the draw
+      stay lower case.
 
   - id: R14-5-NEAR_MISS_FAIL
     pack: Pack Fourteen
@@ -255,7 +272,12 @@ rules:
     source:
       file: WOTR_Companion_Guide_Amendments_Pack_Fourteen.md
       lines: "71"
-    notes: null
+    notes: >-
+      Stands beside R70-31-CAPITALS_SYSTEM_TERMS (style law 2026-10-03): a
+      misspelt term still FAILs; the capitals list is checked under
+      R70-36-CHECKER_ENFORCES. Extended by R70-36-CHECKER_ENFORCES (style law
+      2026-10-03): a near-miss on a culture word-bank entry FAILs as a
+      misspelt Wellspring does.
 
   - id: R14-5-BUILD_TERMS_LIST
     pack: Pack Fourteen
@@ -282,7 +304,10 @@ rules:
     source:
       file: WOTR_Companion_Guide_Amendments_Pack_Fourteen.md
       lines: "73"
-    notes: null
+    notes: >-
+      Taken up by R70-36-CHECKER_ENFORCES (style law 2026-10-03):
+      wotr_terms.txt is built and checks Stage, Band, Wellspring and Family
+      names for spelling and capitals.
 
   - id: R14-6-CHECK27
     pack: Pack Fourteen
@@ -310,7 +335,12 @@ rules:
     source:
       file: WOTR_Companion_Guide_Amendments_Pack_Fourteen.md
       lines: "81"
-    notes: null
+    notes: >-
+      Read with R70-36-CHECKER_ENFORCES (style law 2026-10-03): the
+      wotr_terms.txt this audit runs on is built from Fracture of Worlds, the
+      glossary and the Codex, Stage, Band, Wellspring and Family names are
+      checked against it for spelling and capitals
+      (R70-31-CAPITALS_SYSTEM_TERMS), and a near-miss FAILs as here.
 
   - id: R14-6-CHECK28
     pack: Pack Fourteen
@@ -364,7 +394,12 @@ rules:
     source:
       file: WOTR_Companion_Guide_Amendments_Pack_Fourteen.md
       lines: "83"
-    notes: null
+    notes: >-
+      Confirmed by R70-88-NUMBERS_INSIDE_FIGHT (style law 2026-10-03): running
+      figures inside a fight stay in the Stat Ledger in the notes. Read with
+      R70-98-SHEETS_CHAPTER_ARC_ENDS (style law 2026-10-03): the Stat Ledger
+      stays in the notes; a book chapter also closes with a short changes
+      block above them.
 
   - id: R14-6-NUMBERS_GREP
     pack: Pack Fourteen
@@ -388,7 +423,10 @@ rules:
     source:
       file: WOTR_Companion_Guide_Amendments_Pack_Fourteen.md
       lines: "84"
-    notes: null
+    notes: >-
+      Read with R70-99-NUMBER_NOT_YET_CANON (style law 2026-10-03): a figure
+      this grep marks estimate may print in a readout with the instrument's
+      own hedge, and the notes log it as estimate.
 
   - id: R14-7-STAT_LEDGER_CONTENTS
     pack: Pack Fourteen

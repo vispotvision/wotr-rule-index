@@ -1,0 +1,859 @@
+{
+ "sections": [
+  {
+   "key": "LR",
+   "title": "LitRPG: the numbers and progression on the page",
+   "intro": "You asked for WOTR written like a LitRPG (fiction where a game-like system of levels, stats and status screens shows on the page); K2 sets how far, and these questions set the detail of a readout, meaning any set of figures shown on the page, whether a tape, a slate or a screen. Stat words are already free in narration (R49-47, R51-16), so what is left is a readout's source, look, voice and frequency, and its place beside the cost in the body.",
+   "questions": [
+    {
+     "id": "LR1",
+     "title": "What an instrument can show",
+     "question": "How far can an in-world instrument go in showing figures, inside the Imperial Age's technology?",
+     "context": "R53-01 runs the Imperial Age 'into the middle of the 1900s', past NATALIE.md's old 1900 line, and canon's holding coil already gives 'a figure to three places'. The span offers needle dials, the stock ticker's paper tape (1867), Hollerith's punched cards (1890) and number-wheel counters behind glass (1890s). A screen inside the head is K2's and LR22's question; this one is about objects.",
+     "options": [
+      {
+       "key": "A",
+       "label": "Needles read by hand",
+       "consequence": "Coils and gauges show a needle on a dial, and a Measurewright writes the figure on a slip or slate. Current practice: every figure on the page passes through a person's hand or mouth."
+      },
+      {
+       "key": "B",
+       "label": "Printing instruments",
+       "consequence": "Assay coils stamp a paper tape or punch a card, as a ticker or tabulator does, so a set-off block on the page is that tape, in the instrument's own type."
+      },
+      {
+       "key": "C",
+       "label": "Counter windows",
+       "consequence": "Coils show figures on number wheels behind glass, so anyone standing at the instrument reads them without a Measurewright. Readings stop being a trade secret, which widens LR2."
+      },
+      {
+       "key": "D",
+       "label": "Printed, and on tokens",
+       "consequence": "B, plus the last certified figures struck on the silver rank token at each re-assay, so a person carries his reading at his throat. Canon's token carries rank only today."
+      }
+     ],
+     "recommended": "B",
+     "rec_reason": "It gives a set-off block a real Victorian object to be and stays inside R53-01, while every reading still passes a Measurewright's hands, so a forged, stale or misread tape stays possible.",
+     "multi": false,
+     "depends_on": [
+      "K2"
+     ],
+     "rules_touched": []
+    },
+    {
+     "id": "LR2",
+     "title": "Who can read whom",
+     "question": "Who in the world can read a person's numbers, his own included?",
+     "context": "R53-14: ordinary people 'could not name a Stage and use folk words'; R52-05 keeps exact-number speech to Lambert, Measurewrights, clerks and instrument readers. Cultivation novels (Chinese fantasy of climbing realms of inner power) let any cultivator sense another's realm; Cradle, a progression series, makes rank a felt pecking order. FOW: 'The institutions measure the mean. The fight is decided by the peak.'",
+     "options": [
+      {
+       "key": "A",
+       "label": "Licensed readers only",
+       "consequence": "Current law: exact figures need an instrument and a Measurewright. Everyone else, the practitioner included, reads behaviour and feels Pressure, and a stranger's numbers are a secret worth buying.",
+       "sample": "The fox-woman came in out of the sleet with a silver token at her throat, and Aske Thorpe put down his pen. From the counter he could read the token's stamp and nothing past it. The room did the rest. By the stove the carter stopped talking. What came off her was faint, a heaviness at the back of Aske's head like a headache coming on, and he had no word for it but his mother's, weather. Whatever she stood at on the Guild's books, the Guild was keeping it."
+      },
+      {
+       "key": "B",
+       "label": "Practitioners feel rank",
+       "consequence": "Any practitioner feels his own Grades and Stage, and another's Band and rough Stage, with Gnosis setting how close. Another's exact figures need an instrument; commoners keep their folk words and their awe.",
+       "sample": "The fox-woman came in out of the sleet, and Aske Thorpe had her measure before the door shut. He had scraped through Welling twenty years ago and stopped there, and it was enough. Band II. He would have bet a month's pay on it. The Stage was harder. It sat on him like a wet coat, heavier than any Flourishing man he had met and lighter than the Greymane captain who came through at harvest. Perhaps Splintering. He wrote her in as a guest of rank and left the figure column empty."
+      },
+      {
+       "key": "C",
+       "label": "Registration is public",
+       "consequence": "Guild registers are posted like a shipping list, so any literate person can know a registered practitioner's Level. R53-14 narrows to the unlettered, and rank becomes gossip and price.",
+       "sample": "The fox-woman came in out of the sleet, and Aske Thorpe knew her before she gave a name. Mishiro, Y., Level 145, Band II. The Seat's register had come down the corridor in the autumn post with every ranked name in the north on it, and the posting houses kept it nailed up by the stove. The carter sitting there had read it too. He moved his chair. Aske wrote her into the book, copied the Level into the figure column from memory, and the carter watched him do it."
+      },
+      {
+       "key": "D",
+       "label": "Faculties read numbers",
+       "consequence": "Bloodline faculties (the Moto eyes, Yoko's nose) give exact figures, and nobody else gets them. Reading becomes a rare power with a price in the body.",
+       "sample": "The fox-woman came in out of the sleet, and Aske Thorpe got only weather at the back of his head. The Moto retainer drinking by the stove looked up once, into her face. His eyes went still. \"Hundred and forty-five,\" he told his cup. \"Harmonics past anything her Level should hold.\" He paid for the reading in his house's ordinary coin, a thin red thread from the left nostril, and wiped it away with his thumb. Aske went back to the book and wrote nothing in the figure column at all."
+      }
+     ],
+     "recommended": "B",
+     "rec_reason": "It gives the cultivation novel's felt pecking order and the LitRPG pleasure of sizing up a stranger, while exact figures stay rare and commoners keep the awe R53-18 asks for.",
+     "multi": false,
+     "depends_on": [
+      "K2"
+     ],
+     "rules_touched": [
+      "R53-14-FOLK_KNOWLEDGE",
+      "R52-05-COUNTING",
+      "R49-52-MEASURES"
+     ]
+    },
+    {
+     "id": "LR3",
+     "title": "How a readout sits on the page",
+     "question": "What typographic form does a readout take in the prose?",
+     "context": "Pack Five banned 'Status screens, panels, HUD-style rendering' (a HUD is a game's heads-up display); R51-16 superseded that row but speaks only of words, so no live rule allows or bans a set-off block. The Wandering Inn brackets its level-ups; Solo Leveling, a Korean System novel (web fiction where a game-like System messages the hero), boxes them; He Who Fights With Monsters prints whole sheets.",
+     "options": [
+      {
+       "key": "A",
+       "label": "Bracketed lines",
+       "consequence": "Short readouts sit in square brackets on their own lines. codex_check's glyph test fails a one-word bracket like [Title] as an unknown glyph, so it learns to skip readout lines.",
+       "sample": "The Measurewright tore the tape from the coil and read it aloud before he handed it over, because the Guild required both.\n\n[Level 145. Band II, Awakened.]\n[Harmonics 345, A. Past the instability line.]\n[Stage V, Splintering. Active.]\n\nYoko folded the tape twice along the coil's creases and put it inside her glove. Her tail had told the room already. It lay flat along the bench, and it stayed flat while he wound the leads, wiped the brass and packed the coil away in its felt."
+      },
+      {
+       "key": "B",
+       "label": "Set-off blocks",
+       "consequence": "Several fields at once in a quoted block or table, in the instrument's type. verify_scene already leaves '>' and '|' paragraphs out of the rhythm counts and still runs the bans on them.",
+       "sample": "The Measurewright tore the tape from the coil and laid it on the bench where Yoko could read it.\n\n> ASSAY · KHARVEN-SEAT · MISHIRO, Y.\n> Level 145 · Band II, Awakened · Stage V, Splintering (active)\n> Harmonics 345 A · Gnosis 260 B · Dexterity 245 B · Vitality 210 B\n> Resilience 195 B · Tempering 180 B · Ardency 155 C · Dominion 150 C\n\nShe smelled the wet ink before she read a word. Her ears went down at the line that mattered and stayed down while he wrote the copy for the Seat."
+      },
+      {
+       "key": "C",
+       "label": "Inline only",
+       "consequence": "Figures live inside ordinary sentences and are never set apart, so the page looks like a novel with numbers in it. No checker change.",
+       "sample": "The Measurewright read the tape aloud while Yoko sat with her wrist still in the winding. Level 145, Band II. Stage V, Splintering, active. Her Harmonics stood at 345, an A and past the instability line, over a row of plain B-Grades, with Ardency and Dominion down at C where they had always been. On that tape the A stood out like a lit window in a dark street. Yoko slid her wrist from the coil. She rubbed the place where the copper had been cold."
+      },
+      {
+       "key": "D",
+       "label": "Inline, blocks at milestones",
+       "consequence": "Figures inline by default; a set-off block only at a re-assay that moves something, a breakthrough or an arc's end. Blocks become events, rare enough to land.",
+       "sample": "The Measurewright read the ordinary lines aloud as they came: Gnosis 260, Dexterity 245, the B-Grades holding where they had held, Ardency and Dominion still at C. Then he stopped. He turned the tape round so she could read the one line that had moved.\n\n> MISHIRO, Y. · Harmonics 345 A · past the instability line\n\nYoko folded it into her glove. Her tail lay flat along the bench and stayed there until he had packed the coil away in its felt."
+      }
+     ],
+     "recommended": "D",
+     "rec_reason": "Inline figures carry the everyday crunch without breaking the Victorian page, and a block that appears only when something moves becomes the genre's level-up moment instead of wallpaper.",
+     "multi": false,
+     "depends_on": [
+      "K2"
+     ],
+     "rules_touched": [
+      "R5-F-LIGHT_NOVEL_NOT_KEPT",
+      "R51-16-OLD_BANS_FALL",
+      "R48-07-WHITE_SPACE"
+     ]
+    },
+    {
+     "id": "LR4",
+     "title": "The voice of a readout",
+     "question": "What does readout text sound like?",
+     "context": "The Apprentice's Primer makes the system honest: 'Your numbers are the Continuum's honest assessment'. Solo Leveling's System is clinical, The Wandering Inn's ceremonial, and Dungeon Crawler Carl's (a comic LitRPG) sardonic, which leans on the setup-deadpan-reaction beat R5-D-HUMOUR_BARRED bans. R51-33 gives each institution a document house style; a Crystal screen, if K2 opens one, stays voiceless.",
+     "options": [
+      {
+       "key": "A",
+       "label": "Clinical Guild register",
+       "consequence": "Field names and figures in capitals, no adjectives and no comment: R51-33's house style for the Guild. A readout states and never interprets.",
+       "sample": "The tape came off the coil in the Guild's capitals.\n\n> MISHIRO, Y. LEVEL 145. BAND II. STAGE V, SPLINTERING, ACTIVE.\n> HARMONICS 345, A. PAST INSTABILITY LINE.\n> NO FRACTURE ENTERED. READING ONLY.\n\nThe Measurewright initialled it without looking at her. Yoko had met that manner before, in the pens, from the far side of the bars: men who wrote down what you were and would not say what it meant."
+      },
+      {
+       "key": "B",
+       "label": "Archaic attestation",
+       "consequence": "Readouts in the Guild's sealed formula, numbers in words and 'Attested and sealed' at the foot, as the Concordance of Ages is written. Grander and slower; best at milestones.",
+       "sample": "The tape came off the coil, and the Measurewright copied it into the register in the full form the Accord required above the first Band.\n\n> Be it entered that the bearer, Mishiro of the fox line, read this day at Level one hundred and forty-five, in the Second Band, the Fifth Stage open upon her. Harmonics three hundred and forty-five, graded A. Attested and sealed, under the Hexagonal Oath.\n\nHe pressed the seal twice to be sure of the wax. Yoko waited while it set and did not ask for a copy."
+      },
+      {
+       "key": "C",
+       "label": "Clinical, wit in margins",
+       "consequence": "The instrument stays clinical, and any wit lives in the clerk's or Measurewright's note beside it. Humour stays in a person, never in the readout, and R5-D stands.",
+       "sample": "The tape said what tapes said: Level 145, Band II, Stage V, Splintering, Harmonics 345, A. Under it the Measurewright had written in his own small hand, Coil checked twice. Then checked on myself, which I do not recommend. He passed it across the table with his face arranged for a funeral. Yoko read the note. She folded the tape into her glove with the note inside, and thanked him in the formal Accord manner, which took some time."
+      },
+      {
+       "key": "D",
+       "label": "Bare figures",
+       "consequence": "No words beyond field names: a table of numbers that the scene around it must make mean something.",
+       "sample": "The tape came off the coil and the Measurewright laid it flat between them.\n\n| Level | Band | Stage | Harmonics | Grade |\n|---|---|---|---|---|\n| 145 | II | V, active | 345 | A |\n\nNeither of them spoke. Outside, the split halves knocked onto the woodpile one after another, a full stack going up against the wall for the Thin Weeks, and Yoko counted six of them before she picked up the tape and put it inside her glove."
+      }
+     ],
+     "recommended": "C",
+     "rec_reason": "It keeps the readout as honest as the Primer makes the Continuum and gives the LitRPG reader the genre's humour from people who have earned it, which R5-D allows.",
+     "multi": false,
+     "depends_on": [
+      "K2"
+     ],
+     "rules_touched": [
+      "R51-33-DOC_REGISTER",
+      "R5-D-HUMOUR_BARRED"
+     ]
+    },
+    {
+     "id": "LR5",
+     "title": "Numerals for the ladder's rungs",
+     "question": "May Stages, Bands and Tiers appear as numerals, or by name only?",
+     "context": "This reopens R47-7, ruled 2026-09-26: rungs 'are written by name only, never as numbers'. Level is a number by nature, and FOW's own tables pair numeral and name (V beside Splintering; '5 · Expert'). LitRPG numbers its levels; cultivation novels name their realms and number the layers inside them; Cradle names its ranks and never numbers them.",
+     "options": [
+      {
+       "key": "A",
+       "label": "Names only",
+       "consequence": "Keeps R47-7: Splintering, Awakened, Expert, never V or II or 5. Level and stat figures stay numerals, and readouts print the names.",
+       "sample": "The Reckoner read the roll in the cold hall with his breath standing in front of the page. \"Ashwell, Brida. Level forty-five. Murmuring, Mortal Foundation, Initiate.\" Brida said \"Here\" from the bench by the door. \"Mishiro, Yoko. Level a hundred and forty-five. Splintering, Awakened, Expert.\" The clerks wrote it as he said it. Half the hall could not have told you which of those words was the bigger. The Reckoner had them by heart."
+      },
+      {
+       "key": "B",
+       "label": "Numeral beside name",
+       "consequence": "'Stage V, Splintering' and 'Band II, Awakened', as FOW writes them. Tiers of Standing and item Tiers keep their names alone. R47-7 is amended.",
+       "sample": "The Reckoner read the roll in the cold hall with his breath standing in front of the page. \"Ashwell, Brida. Level forty-five. Stage I, Murmuring. Band I.\" Brida said \"Here\" from the bench by the door. \"Mishiro, Yoko. Level a hundred and forty-five. Stage V, Splintering. Band II.\" The clerks wrote the numerals large and the names small, as the Guild's form had them. Even the kitchen girls at the back could follow that much. One of them counted the gap on her fingers."
+      },
+      {
+       "key": "C",
+       "label": "Numerals free",
+       "consequence": "Rungs may stand as bare numerals anywhere ('a Stage Five', 'Tier Two shot'), the genre's habit. R47-7 is repealed.",
+       "sample": "The Reckoner read the roll in the cold hall with his breath standing in front of the page. \"Ashwell. Forty-five, a Stage One.\" Brida said \"Here\" from the bench by the door. \"Mishiro. A hundred and forty-five, a Stage Five, Band Two.\" The clerks wrote it down in figures. Brida was a One and Yoko a Five, and by supper every kitchen girl in the Seat knew it and had an opinion on what a Five could do to a man who spoke to her wrong."
+      }
+     ],
+     "recommended": "B",
+     "rec_reason": "It is how FOW itself writes the ladder, it gives the LitRPG reader a number to hold, and it keeps the names that carry what each Stage means.",
+     "multi": false,
+     "depends_on": [],
+     "rules_touched": [
+      "R47-7-NAMES_NOT_NUMBERS"
+     ]
+    },
+    {
+     "id": "LR6",
+     "title": "Figures in plain narration",
+     "question": "When narration states a figure on its own authority, where must that figure come from?",
+     "context": "R49-47 (2026-09-26) lets narration state 'stat names, Grades, Stages, eta, EU figures and Guild words on its own authority', and R51-16 frees Sub-Stat names. Still live against them: R49-52 (figures 'from a trained eye, an instrument, or the notes'), R14-4-SUBSTAT_DIAGNOSTIC_ONLY ('Nobody else reaches for them') and NATALIE.md's 'names only in a mouth'. LitRPG narrators quote the sheet freely.",
+     "options": [
+      {
+       "key": "A",
+       "label": "Fully free",
+       "consequence": "Narration states any figure from the card whenever it likes. R49-52 narrows to speech, R14-4-SUBSTAT retires, and NATALIE.md's Magic Frame and Table Rule 5 are rewritten.",
+       "sample": "Yoko's Harmonics stood at 345 that morning, an A on a Level of 145, and past the instability line. The ears showed it first. They turned to the kettle before the kettle ticked, and to the door a moment before the dog lifted its head from the flags by the woodpile. Ardency and Dominion sat where they always sat, down at C. The hands round the bowl were no stronger than yesterday's. Brida ladled the broth and pushed the first bowl across."
+      },
+      {
+       "key": "B",
+       "label": "What the POV knows",
+       "consequence": "Narration states the figures the POV holds: his own last reading, the card he has seen, what he was told. R49-52 governs R49-47; R14-4-SUBSTAT retires; NATALIE.md is rewritten.",
+       "sample": "Brida knew the figures the Seat kept on file, because she had copied them out herself: Level 145, Harmonics an A, a row of B-Grades under it, and Ardency and Dominion down at C. This morning the A had moved. It showed in the ears, which turned to the kettle before the kettle ticked and to the door before the dog lifted its head. By how much, she could not have said. That would wait for the coil."
+      },
+      {
+       "key": "C",
+       "label": "Only with a scene source",
+       "consequence": "Names and Grades are free, but an exact figure appears only when something in the scene supplies it: a readout, an instrument, a trained eye. The strictest reading of R49-52.",
+       "sample": "Brida had no tape and needed none to know the Harmonics had moved. It showed in the ears, which turned to the kettle before the kettle ticked and to the door before the dog lifted its head. An A, she would have said, and climbing. The tape, when Yoko pushed it across between the bread and the salt, said 345. Brida read it twice. Then she pushed it back."
+      }
+     ],
+     "recommended": "B",
+     "rec_reason": "Narration reads like LitRPG, figures and all, while every exact figure is one a person in the scene could hold, which keeps the numbers fair and the POV's ignorance real.",
+     "multi": false,
+     "depends_on": [
+      "K2"
+     ],
+     "rules_touched": [
+      "R49-47-STAT_WORDS",
+      "R49-52-MEASURES",
+      "R14-4-SUBSTAT_DIAGNOSTIC_ONLY"
+     ]
+    },
+    {
+     "id": "LR7",
+     "title": "Growth moments that earn a readout",
+     "question": "Which moments of growth earn a readout when they happen?",
+     "context": "Each is a FOW threshold with canon behind it: Levels from XP; Stage only by Catalyst (the Primer: 'Only a Catalyst raises Stage'); Traits; and first contact with a Wellspring current, a one-off Resonant Surge of roughly 500 XP for minor contact at Band I. LitRPG chimes at every level; cultivation novels save the fanfare for a realm breakthrough.",
+     "options": [
+      {
+       "key": "A",
+       "label": "Level gained",
+       "consequence": "A short readout when a Level lands, with the stat points it brought. The genre's heartbeat, and the most frequent of the four."
+      },
+      {
+       "key": "B",
+       "label": "Stage breakthrough",
+       "consequence": "A readout naming the new Stage and its Tier of Standing when the Catalyst completes. The cultivation novel's big moment."
+      },
+      {
+       "key": "C",
+       "label": "New Trait",
+       "consequence": "A readout naming the Trait when it registers. Rare, and each one changes what a character can do."
+      },
+      {
+       "key": "D",
+       "label": "Wellspring contact",
+       "consequence": "A readout at first contact with a new Wellspring current (FOW's Resonant Surge) and at a harmonisation. Growth tied to a place."
+      }
+     ],
+     "recommended": "A,B,C,D",
+     "rec_reason": "Each is a real FOW threshold with canon figures behind it, so none needs inventing, and LR9's cap keeps the total from turning into wallpaper.",
+     "multi": true,
+     "depends_on": [
+      "K2"
+     ],
+     "rules_touched": []
+    },
+    {
+     "id": "LR8",
+     "title": "In-scene moments that earn a readout",
+     "question": "Which in-scene moments may carry a readout?",
+     "context": "R48-16 lets 'anyone with an instrument or trained eye' state figures 'as often as they would'. LitRPG gives heroes appraisal (a skill that shows a target's stats) and shows damage and mana; WOTR keeps wounds in ATLS classes (the trauma-medicine scale of blood loss, Class I to IV) and Pressure as something 'felt as dread' (R53-14).",
+     "options": [
+      {
+       "key": "A",
+       "label": "Appraisal",
+       "consequence": "Reading a person, beast or item: the Measurewright at the rail, the coil at the counter, a faculty. The genre's appraisal in WOTR's hands."
+      },
+      {
+       "key": "B",
+       "label": "A wound",
+       "consequence": "A diagnostic line in a surgeon's terms: the structure struck, the ATLS class, the minutes left. Brida's 'third bowl' as a readout."
+      },
+      {
+       "key": "C",
+       "label": "Pressure",
+       "consequence": "A Stage-gap line when Pressure lands, putting a number on what R53-14 makes a dread. Ordinary people still feel it first."
+      },
+      {
+       "key": "D",
+       "label": "Essence spent",
+       "consequence": "A reserve line after a working: what was drawn and what is left. R60-03's hard reserve clock made visible."
+      }
+     ],
+     "recommended": "A,B,D",
+     "rec_reason": "Appraisal, wounds and reserve are what an instrument or trained eye really measures. Pressure stays in the body, the one thing canon makes felt before it is seen.",
+     "multi": true,
+     "depends_on": [
+      "K2"
+     ],
+     "rules_touched": [
+      "R48-16-REAL_FIGURES",
+      "R53-14-FOLK_KNOWLEDGE"
+     ]
+    },
+    {
+     "id": "LR9",
+     "title": "How many readouts a scene carries",
+     "question": "How many readouts may one scene or one turn carry?",
+     "context": "No rule caps them today. Web-serial LitRPG runs several boxes a chapter and draws its commonest complaint, bloat; Cradle shows almost none. R48-20 already gives WOTR a rhythm: the full three-layer account 'at a working's first display and at the finisher; lighter touches between'.",
+     "options": [
+      {
+       "key": "A",
+       "label": "One per scene",
+       "consequence": "A single readout, saved for the scene's milestone. Readouts stay rare and heavy."
+      },
+      {
+       "key": "B",
+       "label": "Display, finisher, aftermath",
+       "consequence": "Up to three per scene, on R48-20's rhythm; a roleplay turn carries two at most, never two in one exchange."
+      },
+      {
+       "key": "C",
+       "label": "As an instrument would",
+       "consequence": "No cap: a readout appears whenever a reader in the scene would read, per R48-16. Instrument-heavy scenes carry many."
+      },
+      {
+       "key": "D",
+       "label": "Thresholds only",
+       "consequence": "Readouts only at a scene's threshold or after it, never inside the action, as R12-4's document voice already sits."
+      }
+     ],
+     "recommended": "B",
+     "rec_reason": "It borrows a rhythm WOTR already writes by, gives a fight its crunch at the moments that matter, and keeps the box from replacing the body between them.",
+     "multi": false,
+     "depends_on": [
+      "K2"
+     ],
+     "rules_touched": [
+      "R48-16-REAL_FIGURES"
+     ]
+    },
+    {
+     "id": "LR10",
+     "title": "Readouts and the two-voice cap",
+     "question": "Does a readout count as one of the two explaining voices an engagement may carry?",
+     "context": "R12-4-VOICE_MIXING_RULE: of the four explaining voices (the POV's read, the knowledgeable second, the opponent, the document), 'Do not run more than two in one engagement.' A LitRPG screen is either a fifth voice or the document voice in a new shape. Figures also let a reader rebuild the call himself, which R13-8 asks of every fight.",
+     "options": [
+      {
+       "key": "A",
+       "label": "Counts as the document",
+       "consequence": "A readout fills the document slot, so with one on the page only one other voice may explain. Engagements stay lean."
+      },
+      {
+       "key": "B",
+       "label": "Outside the cap",
+       "consequence": "A readout states figures and explains nothing, so it never counts; two voices still do the explaining, and the reader checks the call against the figures."
+      },
+      {
+       "key": "C",
+       "label": "Cap rises to three",
+       "consequence": "When one voice is a readout, three may run. More crunch, more voices, more words per exchange."
+      }
+     ],
+     "recommended": "B",
+     "rec_reason": "The cap exists to stop over-explaining, and a bare figure explains nothing on its own; outside the cap it keeps R12-4's discipline and gives R13-8 a page the reader can check.",
+     "multi": false,
+     "depends_on": [
+      "K2"
+     ],
+     "rules_touched": [
+      "R12-4-VOICE_MIXING_RULE"
+     ]
+    },
+    {
+     "id": "LR11",
+     "title": "Numbers inside a fight",
+     "question": "What figures may a fight show while it is happening?",
+     "context": "R60-01: 'most fights end in the first seconds'; R60-03 runs Essence and stamina 'on a hard clock'; a combat turn is six seconds (R47-11); the Stat Ledger sits in the author notes (R14-6-CHECK29). LitRPG logs damage and mana per hit; The King's Avatar, a Chinese pro-gaming novel, has commentators call the play live; Western grimdark shows no figures at all.",
+     "options": [
+      {
+       "key": "A",
+       "label": "Nothing until after",
+       "consequence": "Current practice: no figures inside a fight. Cost shows in the body, and the Stat Ledger in the notes carries the numbers.",
+       "sample": "The Shirogane man came in high from his guard, and Yoko took the bind on the strong of her blade. His intent reached her nose before her eyes caught up: oil, old sweat, the sour edge of hurry. He meant to wind. She went Indes, in the same instant as his turn, and slid down his steel to the cross until her point rested on his collar. The working behind it was small. It left a thin cold ache under her sternum, and her fingers wanted to shake."
+      },
+      {
+       "key": "B",
+       "label": "Grades at the read",
+       "consequence": "The POV's read names Grades and gaps before or between exchanges, as estimates in her own terms; no running figures. The genre's sizing-up without a log.",
+       "sample": "Her nose gave her the read before the bind closed. His Dexterity sat a Grade over hers, an A against her B by the smell of a man whose hands had been fast all his life, and his Harmonics far under. Any exchange that speed decided, she would lose. So she took the bind on the strong of her blade. She went Indes as he began to wind and kept the fight where the steel touched, where his wrists told her what they meant before they did it, until her point rested on his collar."
+      },
+      {
+       "key": "C",
+       "label": "A second calls them",
+       "consequence": "A Measurewright or second at the rail reads a gauge aloud between exchanges, so figures arrive in a mouth, as R12-4's knowledgeable second.",
+       "sample": "\"Ninety on the draw,\" said the Measurewright at the rail, reading the yard gauge without looking up, and the Shirogane man came in high from his guard. Yoko took the bind on the strong of her blade, smelled the hurry on him, and went Indes as he began to wind. Her point came off his cross and rested on his collar. \"Still ninety,\" the Measurewright said. \"She never pushed it. Stop there.\" The men along the fence let their breath go."
+      },
+      {
+       "key": "D",
+       "label": "Exchange log",
+       "consequence": "Set-off lines per exchange: the action, the draw, the reserve. The full LitRPG combat log, every figure from the card or marked estimate.",
+       "sample": "The Shirogane man came in high from his guard. Yoko took the bind, smelled the hurry on him, and went Indes as he began to wind.\n\n[Exchange 2 · bind, Indes · draw about 90 AU/s · η 0.60]\n[Reserve about 185,000 EU, estimate]\n\nHer point came off his cross and rested on his collar. The cold ache under her sternum arrived a breath after the line, and her fingers wanted to shake."
+      }
+     ],
+     "recommended": "B",
+     "rec_reason": "Grades at the read give a fight its LitRPG sizing-up without running figures the card cannot supply, and R60-01's fights end too fast for a log. A gauge at the rail (C) still suits sanctioned bouts where one would stand.",
+     "multi": false,
+     "depends_on": [
+      "K2"
+     ],
+     "rules_touched": [
+      "R14-6-CHECK29",
+      "R60-03-HARD_RESERVE_CLOCK"
+     ]
+    },
+    {
+     "id": "LR12",
+     "title": "Body first or number first",
+     "question": "When a cost or a gain lands, which reaches the page first, the body or the number?",
+     "context": "R48-37: 'An ability's cost shows in the body: tremor, heat off the skin, thirst, a Crystal ache.' R16-3 wants 'the real mechanism and the system term in the same breath'. Korean System novels put the message first and the body after; Western grimdark keeps the body and drops the number; cultivation novels give both at a breakthrough.",
+     "options": [
+      {
+       "key": "A",
+       "label": "Body now, number later",
+       "consequence": "The cost lands in the body in the scene; the figure arrives at the next re-assay or in the notes. Grit leads and crunch follows.",
+       "sample": "The fox-fire came up her arms in the dark like a fever looking for a way out. Her knuckles lit cold amber, then her wrists, and the heat came off her in a sheet that dried her lips. Her tail beat once against the bedframe. She held still. She counted breaths until the light sank back under the skin. The figure waited three days for the Measurewright's coil, and when the coil came at last its needle stopped past the red scratch somebody had cut at the instability line."
+      },
+      {
+       "key": "B",
+       "label": "Body, then number",
+       "consequence": "The body first and the readout in the same beat, a line after. Both on the page together, with the body always ahead.",
+       "sample": "The fox-fire came up her arms in the dark like a fever looking for a way out. Her knuckles lit cold amber, then her wrists. Heat came off her in a sheet and dried her lips, and her tail beat once against the bedframe hard enough to shift it on the boards. The line came when the light began to sink.\n\n[Harmonics 345. Past the instability line.]\n\nShe held still. She counted breaths until the light was gone from her wrists and the bedframe stopped creaking."
+      },
+      {
+       "key": "C",
+       "label": "Number first",
+       "consequence": "The readout lands at the instant of change and the body catches up after it: the System novel's order.",
+       "sample": "[Harmonics 345. Past the instability line.]\n\nThe line came first, cold and exact, and Yoko's body caught up a heartbeat later. The fox-fire came up her arms in the dark and lit her knuckles cold amber, then her wrists. Heat came off her in a sheet that dried her lips. Her tail beat once against the bedframe. She held still. Then she counted breaths, slowly, until the light sank back under the skin and the room was only dark again."
+      },
+      {
+       "key": "D",
+       "label": "Gains ding, costs bleed",
+       "consequence": "Growth gets a readout; costs get only the body. Rewards feel like LitRPG and losses like grimdark.",
+       "sample": "[Harmonics 345. Grade A.]\n\nThe line came for the gain, cold and exact, while the fox-fire stood cold amber on her knuckles in the dark. The price came with no line at all. It came as a dry ache under the sternum that was still there at breakfast, as lips split from the heat off her own skin, as a tail that would not lie still for a day. She had to work the cost out herself."
+      }
+     ],
+     "recommended": "B",
+     "rec_reason": "It keeps R48-37's law that the body pays first and still gives the reader the genre's number in the same breath, which is what R16-3 already asks of mechanism and system term.",
+     "multi": false,
+     "depends_on": [
+      "K2"
+     ],
+     "rules_touched": [
+      "R48-37-COST_SHOWN"
+     ]
+    },
+    {
+     "id": "LR13",
+     "title": "How fast the numbers climb",
+     "question": "How often should a character's numbers move across a thread or a book?",
+     "context": "FOW: Band I growth 'is the fastest in a character's life', returns then diminish ('The Crystal has already solved that shape'), Stages move only by Catalyst, and a stalled practitioner builds Residual Strain. Progression fantasy (fiction where measurable growth drives the plot) pays a small reward every few chapters; cultivation novels add bottlenecks, long plateaus broken by a breakthrough.",
+     "options": [
+      {
+       "key": "A",
+       "label": "Slow and heavy",
+       "consequence": "Levels move a handful per arc and Stages once a book at most, with long plateaus. Each gain is rare enough to be an event."
+      },
+      {
+       "key": "B",
+       "label": "Genre rhythm",
+       "consequence": "A small gain every few chapters, a large one at each arc's close, a Stage breakthrough as an arc's climax."
+      },
+      {
+       "key": "C",
+       "label": "Event-bound",
+       "consequence": "Numbers move only for a cause the reader was shown: a FOW XP event on the page, or training named in a downtime turn."
+      },
+      {
+       "key": "D",
+       "label": "Fast young, slow old",
+       "consequence": "Band I characters climb visibly every arc; veterans plateau and fight for single Levels, FOW's curve made plain."
+      }
+     ],
+     "recommended": "C",
+     "rec_reason": "Every gain then points at a cause the reader watched, which keeps the numbers fair and traceable (R14-3), and FOW's own curve produces B's rhythm for the young and D's plateaus for the old without a quota.",
+     "multi": false,
+     "depends_on": [
+      "K2"
+     ],
+     "rules_touched": [
+      "R14-3-TRACEABILITY"
+     ]
+    },
+    {
+     "id": "LR14",
+     "title": "Confirming a new Stage",
+     "question": "When a practitioner crosses into a new Stage, how is the new Stage confirmed on the page?",
+     "context": "FOW's Catalyst for Welling is 'first genuine contact with a Wellspring current under personal pressure'. LR23 asks how the crossing itself is written; this asks how it is confirmed. System novels flash the notice at once; Solo Leveling's drama is a re-measurement that contradicts the record; cultivation sects announce a breakthrough before the whole hall.",
+     "options": [
+      {
+       "key": "A",
+       "label": "The line in the moment",
+       "consequence": "The readout lands as the Catalyst completes: the Crystal's line if K2 opens screens, a trained count if not. The System novel's notice.",
+       "sample": "Qanik came up through the hole on a pull he could not have named. He lay on the ice. The cold went into him through the hide, and the line arrived before his breath did, whole and plain.\n\n[Stage II, Welling. Apprentice.]\n\nThen the men had him, rolling him into a hide-coat and rubbing his feet, and somebody put seal fat in his mouth and said wet wood burns eventually. He held the line behind his breastbone all the way to the fire."
+      },
+      {
+       "key": "B",
+       "label": "A private re-assay",
+       "consequence": "Nobody knows for days; the body hints, and a Measurewright's coil confirms it in a kitchen or an office. The re-measure beat, quiet and personal.",
+       "sample": "Qanik came out of the lake blue and coughing, and they put him by the fire with seal fat in his mouth and said wet wood burns eventually. Over the next week it was the cups that gave him away. He set every one down too hard. On the eighth day the Measurewright put the boy's wrist in the coil, and the needle went past the place it had stopped in the autumn. \"Welling,\" the man said, and wrote it, and Qanik's mother sat down."
+      },
+      {
+       "key": "C",
+       "label": "A public re-assay",
+       "consequence": "The re-assay is a rite before witnesses, read aloud and entered on the Reckoner's roll: the sect's ranking ceremony, in WOTR's institutions.",
+       "sample": "They held the re-assay in the Seat's hall with the doors open, because a boy who came back from under the ice was a matter for everyone. Qanik stood on the cold flags in a borrowed hide-coat. The Measurewright read the coil and spoke it to the room: \"Stage II. Welling. Apprentice.\" The Reckoner wrote it on the roll. An old woman by the door said, \"By the fire,\" and then the whole hall was saying it, and his mother was saying it loudest."
+      },
+      {
+       "key": "D",
+       "label": "Unconfirmed, only shown",
+       "consequence": "No readout: the new Stage shows in what he can now do and in what people start calling him, with the figures left to the notes. The Western way.",
+       "sample": "Qanik came out of the lake blue and coughing, and they put him by the fire with seal fat in his mouth and said wet wood burns eventually. Nobody brought a coil. Over the winter the camp marked other things: that he set cups down too hard, that the dogs went quiet when he crossed the lines, that the old sealers had started asking him where the current ran. By the Thin Weeks the girls were calling him Underice. Nobody wrote anything down."
+      }
+     ],
+     "recommended": "C",
+     "rec_reason": "Stages move rarely, so each can afford a hall: it pays the cultivation sect's ceremony and the LitRPG reveal at once through the Reckoner's roll WOTR already keeps, while the crossing itself stays in the body.",
+     "multi": false,
+     "depends_on": [
+      "K2"
+     ],
+     "rules_touched": []
+    },
+    {
+     "id": "LR15",
+     "title": "Build talk in dialogue",
+     "question": "Who may talk exact numbers and builds in dialogue?",
+     "context": "Your 2026-09-12 ruling on R14-B: stats 'can be named, but do it like how people talk about stats in LitRPGs like Unbound'. R52-05 keeps exact-number speech to 'Lambert, the Measurewrights, clerks and anyone reading an instrument'; 'everyone else rounds'. The Primer already talks builds (a build is a chosen spread of stats): specialists 'produce peaks by accepting valleys elsewhere'.",
+     "options": [
+      {
+       "key": "A",
+       "label": "Counters only",
+       "consequence": "Keeps R52-05: Lambert, Measurewrights, clerks and instrument readers say exact figures; everyone else talks in Grades, rounds or guesses.",
+       "sample": "Lambert read the tape twice and set it down square to the table's edge. \"Harmonics three hundred and forty-five. On a Level of a hundred and forty-five. Ardency a hundred and fifty-five. Dominion a hundred and fifty.\" Lorn did not look at the figures. \"So she hears like a saint and couldn't hit a door.\" \"Roughly.\" \"Then she stays off the wall,\" Lorn said, \"and on the stair, where she can hear them coming up it.\""
+      },
+      {
+       "key": "B",
+       "label": "Ranked practitioners too",
+       "consequence": "Any ranked practitioner talks his own and others' numbers exactly and argues builds, as in Unbound; commoners still round. R52-05 widens.",
+       "sample": "Lambert read the tape twice and set it square to the table's edge. \"Harmonics three hundred and forty-five, on a Level of a hundred and forty-five.\" \"Two-forty-five Dexterity,\" Lorn said. \"One-fifty-five Ardency. She's put everything into hearing and paid for it with her hands. Peaks bought with valleys.\" \"The Primer says the valleys are where they die.\" \"The Primer never fought on a stair,\" Lorn said. \"Put her on the stair.\""
+      },
+      {
+       "key": "C",
+       "label": "Theorycraft scenes",
+       "consequence": "B, plus whole scenes where a party theorycrafts (plans builds and pairings from the numbers) at length, as the LitRPG serials Delve and He Who Fights With Monsters do.",
+       "sample": "Lambert laid the tape between them and Lorn turned it with one finger. \"Three-forty-five Harmonics. She hears a man's wrists before he moves them. One-fifty-five Ardency, so she can't finish what she hears. Pair her with a hitter.\" \"Ardency at B or better,\" Lambert said, \"and Resilience to take what she can't ward, because her Dominion is a hundred and fifty and covers nobody but herself.\" \"Then the hitter stands where she points.\" \"And she points first,\" Lambert said, writing it down. \"Every time.\""
+      }
+     ],
+     "recommended": "B",
+     "rec_reason": "It carries your Unbound ruling through: the people whose lives turn on these numbers talk them, while commoners keep their folk words and R53-18's awe. Whole planning scenes (C) earn their length only when a stake rides on them.",
+     "multi": false,
+     "depends_on": [
+      "K2"
+     ],
+     "rules_touched": [
+      "R52-05-COUNTING"
+     ]
+    },
+    {
+     "id": "LR16",
+     "title": "Gamer slang",
+     "question": "Where may gamer slang appear: min-max (pile points into one stat and starve another), dump stat (the one starved), aggro (an enemy's attention), cooldown (the wait before a skill works again)?",
+     "context": "R48-13 (2026-09-26): 'characters may talk modern; narration keeps a timeless register', and R51-05 allows technology metaphors only 'if the POV's own culture has the thing'; no WOTR culture has a video game. LitRPG narrators use this slang freely. verify_scene's modern-word list does not include it yet. Slang in thought is asked in the interiority section.",
+     "options": [
+      {
+       "key": "A",
+       "label": "Speech, by ear",
+       "consequence": "Current law: gamer slang in a mouth whose voice would carry it; narration stays timeless. verify_scene adds these words to its narration watch-list.",
+       "sample": "Do-hyun sat on the edge of the proving floor with his wrist in a basin of snowmelt. \"You min-maxed,\" Ha-eun said, crouching beside him. \"Every point in your hands and nothing in your legs. He walked round you.\" \"He was fast.\" \"He was one step to the left. You had no floor.\" The hall's old steward went past with his broom and did not look at either of them, and the straw matting he swept smelled of sweat and lamp-oil."
+      },
+      {
+       "key": "B",
+       "label": "Narration too",
+       "consequence": "Close-POV narration may carry gamer slang: the LitRPG narrator's voice. R48-13 and R51-05 give way for these words, and verify_scene leaves them alone.",
+       "sample": "Do-hyun had min-maxed himself into a corner, every point in his hands and nothing in his legs, and the other boy had simply walked round him. Now he sat on the edge of the proving floor with his wrist in a basin of snowmelt and his best technique on a long cooldown. \"He was fast,\" he said. \"He was one step to the left,\" Ha-eun said. The hall's old steward went past with his broom, and the straw matting smelled of sweat and lamp-oil."
+      },
+      {
+       "key": "C",
+       "label": "The world's own words",
+       "consequence": "WOTR coins its own phrases and uses them even in speech: 'peaks bought with valleys' for min-maxing, 'on the floor' for a dump stat. The slang never appears.",
+       "sample": "Do-hyun sat on the edge of the proving floor with his wrist in a basin of snowmelt. \"You put it all in the hands,\" Ha-eun said, crouching beside him. \"Peaks bought with valleys, and he walked through the valley. Your legs are on the floor.\" \"He was fast.\" \"He was one step to the left.\" The hall's old steward went past with his broom and did not look at either of them, and the straw matting he swept smelled of sweat and lamp-oil."
+      }
+     ],
+     "recommended": "A",
+     "rec_reason": "Speech is where the genre's banter lives and R48-13 already allows it there, while narration keeps the Victorian surface that gamer slang would crack, which is the job R51-05 does.",
+     "multi": false,
+     "depends_on": [
+      "K2"
+     ],
+     "rules_touched": [
+      "R48-13-PERIOD_FEEL",
+      "R51-05-LIST_TECH"
+     ]
+    },
+    {
+     "id": "LR17",
+     "title": "Item cards",
+     "question": "Does an item's Tier and worth ever reach the page as a set-off card?",
+     "context": "R46-2 names the item ladder, each Tier with a Latin form and a Grade band (Proofed, Probatum, Grade D), and proof-marks are standing texture. LitRPG gives loot a tooltip (a small panel of name, rarity, numbers and a line of lore), a habit the game Dark Souls made famous for its lore. How price, grade and provenance read in prose is DS12.",
+     "options": [
+      {
+       "key": "A",
+       "label": "Item card, once",
+       "consequence": "A set-off card at purchase or appraisal: Tier, Latin form, Grade band, maker, stamp, price, one line of lore. Once per item, never reprinted.",
+       "sample": "The gunsmith set a paper of rounds on the counter and broke one out for her to see. The brass carried the Guild's stamp under the rim, a small square with the probatum bar through it.\n\n> PROOFED SHOT · Probatum · Grade D\n> Guild-stamped at the Hallenfeld proof-house. 1 silver the round.\n> Tested in a cold barrel by a man who signed for it.\n\nCaptain Sallow counted out twelve silver and did not haggle. Nobody haggled over proofed shot in a winter like this one."
+      },
+      {
+       "key": "B",
+       "label": "In-world slip only",
+       "consequence": "The tooltip exists only as a document read in the scene (an issue slip, an auction lot, an assay certificate) in its institution's house style (R51-33).",
+       "sample": "The gunsmith wrote the issue slip in his fair hand while she waited: Shot, proofed. Probatum. Grade D. Hallenfeld proof-house, stamp entered. Twelve rounds at one silver the round. He blotted it, turned it to face her, and waited for her mark. Captain Sallow signed. She folded the slip into her pocket-book behind the wire from the Seat and took the paper of rounds without looking inside it, because nobody haggled over proofed shot in a winter like this one."
+      },
+      {
+       "key": "C",
+       "label": "No card",
+       "consequence": "Tier and worth reach the page only through prose, as DS12 decides. Nothing is set off.",
+       "sample": "The gunsmith broke a round out of the paper and turned it under the lamp so she could read the base. The Guild's stamp sat under the rim with the probatum bar through it: Proofed, Grade D, tested at the Hallenfeld proof-house by a man who had signed for it. One silver the round. Captain Sallow counted out twelve and did not haggle. Nobody haggled over proofed shot in a winter like this one."
+      }
+     ],
+     "recommended": "A",
+     "rec_reason": "The tooltip is one of the genre's real pleasures, and R46-2 has already built every field it needs from canon; once per item, at the moment of buying or appraising, keeps it an event.",
+     "multi": false,
+     "depends_on": [
+      "K2"
+     ],
+     "rules_touched": []
+    },
+    {
+     "id": "LR18",
+     "title": "Titles and achievements",
+     "question": "Where do titles come from, and do they carry any mechanical weight?",
+     "context": "R50-21 lets an NPC coin a Third Name (the title the world gives a practitioner), and it sticks only if you keep it. Canon's rank token bears 'the holder's certified rank' and nothing else. LitRPG Systems award titles at feats, often with stat bonuses, as The Primal Hunter does; cultivation novels spread titles by rumour and sect decree.",
+     "options": [
+      {
+       "key": "A",
+       "label": "People's names only",
+       "consequence": "Current practice: titles are Third Names and epithets that people give and use. No notice and no effect.",
+       "sample": "By the end of the Thin Weeks the posting houses were calling him Snowpost, and the name reached Hallenfeld before he did. Nobody entered it anywhere. The quartermaster used it to his face. The girls in the Seat's kitchen used it behind his back. The boy himself, who was fifteen and had lost two toes to the road, never once said it aloud. He signed the courier book with his mark, as he always had."
+      },
+      {
+       "key": "B",
+       "label": "Guild commendations",
+       "consequence": "The Guild may also enter a commendation on a registration and strike its mark on the token: legal and social weight, no stat effect. Third Names carry on as now.",
+       "sample": "The commendation came down the corridor in the spring post: Entered for service, the Thin Weeks, the Seat road. The proof-house at Hallenfeld struck a small mark on the back of his token beside the rank. It bought him nothing at a counter. At every posting house on the road, though, the keeper turned the token over, read the mark, and gave him the bed nearest the stove, and he was fifteen and slept there like the dead."
+      },
+      {
+       "key": "C",
+       "label": "Continuum titles",
+       "consequence": "The Continuum grants a title at a feat, with a stated effect on the sheet, as LitRPG Systems do. New canon, and it needs K2's D with LR22's B.",
+       "sample": "On the last night of the Thin Weeks, alone at a posting house with the fire nearly out, the boy felt a line arrive behind his breastbone.\n\n[Title: Snowpost. Endurance on the road; the cold counts lighter.]\n\nHe lay awake a long time after it, trying to feel his toes, the eight he still had, and could not tell whether they were any warmer than they had been the night before."
+      }
+     ],
+     "recommended": "B",
+     "rec_reason": "It gives the genre's achievement a real object inside WOTR's own institutions and keeps power in the Crystal, where FOW puts it, while Third Names keep working as they do.",
+     "multi": false,
+     "depends_on": [
+      "K2"
+     ],
+     "rules_touched": [
+      "R50-21-THIRD_NAMES"
+     ]
+    },
+    {
+     "id": "LR19",
+     "title": "Quests and contracts",
+     "question": "Does WOTR have quests, and in what in-world form?",
+     "context": "Canon already has 'contracted bounty work' and the Guild's 'register of who cleared the gallery' on the Well roads. Solo Leveling issues quests with an objective, a reward and a penalty; xianxia sects (orders in Chinese immortal-cultivation fiction) post tasks for contribution points; Western grimdark has jobs and debts. The table's Fronts and Scene Menu already throw up hooks.",
+     "options": [
+      {
+       "key": "A",
+       "label": "Contract boards",
+       "consequence": "Guild and Crown contracts posted with terms, pay and the clearance register: the quest board as a Draw Age notice. Hooks gain a stated reward and penalty."
+      },
+      {
+       "key": "B",
+       "label": "Named commissions",
+       "consequence": "Sealed Guild commissions to a named practitioner, with objective, fee and penalty for failure: Solo Leveling's quest window as a letter."
+      },
+      {
+       "key": "C",
+       "label": "Continuum tasks",
+       "consequence": "The Continuum itself sets tasks with stated rewards. New canon, and it makes the world's cosmology a quest-giver."
+      },
+      {
+       "key": "D",
+       "label": "No quests",
+       "consequence": "Work arrives as people asking, Fronts moving and debts coming due, as now."
+      }
+     ],
+     "recommended": "A",
+     "rec_reason": "Bounty contracts and a clearance register are already canon, so a board costs no new cosmology, and posted terms give the LitRPG reader a reward and a penalty to reckon with.",
+     "multi": false,
+     "depends_on": [
+      "K2"
+     ],
+     "rules_touched": []
+    },
+    {
+     "id": "LR20",
+     "title": "Sheets at chapter and arc ends",
+     "question": "Do chapters or arcs end with a character sheet?",
+     "context": "WOTR's figures live in the author notes as a Stat Ledger (R14-6-CHECK29), below the Notes heading the checker never reads (R54-12). Progression fantasy often closes a chapter or volume with the hero's updated sheet, set outside the scene for the reader; Western novels keep appendices for a book's end, as Tolkien did. R20C-32 warns that cards drift.",
+     "options": [
+      {
+       "key": "A",
+       "label": "Full sheet at arc end",
+       "consequence": "Each arc closes with the POV's full sheet from the card, in the Guild's tape style. Book mode only."
+      },
+      {
+       "key": "B",
+       "label": "Changes at chapter end",
+       "consequence": "Each chapter closes with a short block of what moved and why, above the notes; roleplay turns keep it in the notes."
+      },
+      {
+       "key": "C",
+       "label": "Both",
+       "consequence": "Changes per chapter and the full sheet at each arc's end. The most LitRPG, and the most figures to source."
+      },
+      {
+       "key": "D",
+       "label": "None in the text",
+       "consequence": "Sheets stay on the wiki cards and in the notes; the text carries only what scenes show."
+      }
+     ],
+     "recommended": "B",
+     "rec_reason": "A short changes block shows the climb at the genre's steady rate and sources only what moved; a full sheet freezes figures the cards are still revising.",
+     "multi": false,
+     "depends_on": [
+      "K2"
+     ],
+     "rules_touched": [
+      "R14-6-CHECK29"
+     ]
+    },
+    {
+     "id": "LR21",
+     "title": "A number not yet in canon",
+     "question": "What does a readout do when the figure it should show is not in canon?",
+     "context": "R12-5: 'Never invent a number. Unchanged and absolute... Unspecified means flagged as estimate.' A mouth can hedge ('call it four hundred'); a printed readout cannot. Yoko's card gives her reserve as about 185,000 EU, marked estimate with no exact source. In So I'm a Spider, So What?, a Japanese light novel, appraisal lines fill in as the skill grows.",
+     "options": [
+      {
+       "key": "A",
+       "label": "Blank the field",
+       "consequence": "The instrument prints what canon has and marks the rest beyond reading, like an appraisal still growing. Gaps become texture, and the notes log them.",
+       "sample": "The coil's tape ran out its lines and stopped short on the last.\n\n> Harmonics 345 A · past the instability line\n> η 0.60\n> Reserve: BEYOND READING\n\nThe Measurewright tapped the last line with his pencil. \"Field coil,\" he said. \"The big one at Hallenfeld would reach it. This one runs out of winding.\" Yoko had not asked. She folded the tape into her glove anyway, last line inward."
+      },
+      {
+       "key": "B",
+       "label": "Print the estimate, marked",
+       "consequence": "The readout prints the figure with the instrument's own hedge (a range, 'uncertain past the third place'), and the notes log it as estimate.",
+       "sample": "The coil's tape ran out its lines.\n\n> Harmonics 345 A · past the instability line\n> η 0.60\n> Reserve ~185,000 EU · uncertain past the third place\n\nThe Measurewright tapped the last line with his pencil. \"That one's a guess with a stamp on it,\" he said. \"Any coil this size would tell you the same lie and swear to it.\" Yoko folded the tape into her glove, last line inward, and carried it back out into the cold yard, where the split halves were knocking onto the woodpile one after another for the Thin Weeks."
+      },
+      {
+       "key": "C",
+       "label": "Drop the line",
+       "consequence": "A readout prints only sourced fields; estimates stay in the notes, and the box is shorter.",
+       "sample": "The coil's tape ran out two lines and stopped.\n\n> Harmonics 345 A · past the instability line\n> η 0.60\n\nThe Measurewright tore it off and handed it across. He said nothing about her reserve. Yoko, who could smell what a man left out of a sentence, did not ask him to. She folded the tape into her glove and went back out into the cold yard, where the woodpile was going up against the wall."
+      },
+      {
+       "key": "D",
+       "label": "Derive, then print",
+       "consequence": "The figure is worked out from FOW's tables (the Essence Ledger bands for the Stage) before posting, printed plain, and logged in the notes as derived. R12-5's on-page flag gives way.",
+       "sample": "The coil's tape ran out its lines.\n\n> Harmonics 345 A · past the instability line\n> η 0.60\n> Reserve 185,000 EU\n\nThe Measurewright read all three aloud in the same flat voice, the reserve no differently from the rest, and initialled the tape at the foot. Yoko folded it into her glove, last line inward, and went back out into the cold yard."
+      }
+     ],
+     "recommended": "B",
+     "rec_reason": "An instrument with an error bar is honest period texture: it keeps R12-5's flag on the page where the reader can see it, and the hedge feeds the world's well-earned distrust of readings.",
+     "multi": false,
+     "depends_on": [
+      "K2"
+     ],
+     "rules_touched": [
+      "R12-5-NEVER_INVENT_NUMBER",
+      "R14-6-NUMBERS_GREP"
+     ]
+    }
+   ]
+  }
+ ],
+ "settled": [
+  {
+   "point": "Where figures come from: every number on the page traces to Fracture of Worlds, then the Stat Sheet workbook, then the card.",
+   "rule_ids": [
+    "R12-5-NEVER_INVENT_NUMBER",
+    "R20C-32-PRECEDENCE_FOW_WORKBOOK_CARD"
+   ],
+   "why_not_asked": "Live law and the canon hierarchy. The blend changes how figures show, never their source; LR21 asks only what a readout does with a gap."
+  },
+  {
+   "point": "Readouts print Fracture of Worlds' Stage names (Murmuring, Welling, Splintering), never the cards' older names.",
+   "rule_ids": [
+    "R20C-30-STAGE_NAMES_FROM_FOW"
+   ],
+   "why_not_asked": "Ruled 2026-09-12; a readout is one more place the ruling applies."
+  },
+  {
+   "point": "Readout text keeps the document rules: timeless wording, the modern-word list and the hard-ban words all apply to it.",
+   "rule_ids": [
+    "R51-34-DOC_MODERN",
+    "R51-10-SLOP_WORDS"
+   ],
+   "why_not_asked": "Ruled 2026-09-26; a readout is one more in-world text, and every voice LR4 offers is already timeless."
+  },
+  {
+   "point": "Cost always shows in the body, whatever the readouts do.",
+   "rule_ids": [
+    "R48-37-COST_SHOWN",
+    "R60-03-HARD_RESERVE_CLOCK"
+   ],
+   "why_not_asked": "This is grimdark's half of the blend and nothing in LitRPG argues against it; LR12 asks only the order of body and number."
+  },
+  {
+   "point": "Readouts never think, decide or speak for your player character, and his figures come from his own card.",
+   "rule_ids": [
+    "R49-01-WHOSE_HEAD"
+   ],
+   "why_not_asked": "Table law (NATALIE.md and R49-01) that the blend gives no reason to touch."
+  },
+  {
+   "point": "A technique or Trait shown as a card on the page says what it is (mechanism, costs, limits, tell, counters), never how to use it.",
+   "rule_ids": [
+    "R47-1-NO_APPLICATIONS"
+   ],
+   "why_not_asked": "LitRPG skill tooltips already describe effect rather than tactics, so live law fits the genre as written."
+  },
+  {
+   "point": "Item readouts use R46-2's Tier names, Latin forms and Grade bands.",
+   "rule_ids": [
+    "R46-2-NINE_ITEM_TIERS_NAMED"
+   ],
+   "why_not_asked": "The ladder was set 2026-09-25; LR17 asks only how it reaches the page."
+  },
+  {
+   "point": "A combat turn is six seconds, so any per-turn readout counts in that unit.",
+   "rule_ids": [
+    "R47-11-TIME_AND_ENERGY"
+   ],
+   "why_not_asked": "Ruled 2026-09-26 and neutral between the traditions."
+  }
+ ]
+}

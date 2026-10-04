@@ -316,7 +316,10 @@ rules:
     source:
       file: WOTR_Companion_Guide_Amendments_Pack_Thirteen.md
       lines: "72"
-    notes: null
+    notes: >-
+      Stands; under R70-100-MARTIAL_VOCABULARY_NAMES_MOVES (style law
+      2026-10-03) the moves the floor traces are named in the POV's own
+      school.
 
   - id: R13-4-DENSITY_BUDGET
     pack: Pack Thirteen
@@ -344,7 +347,11 @@ rules:
     source:
       file: WOTR_Companion_Guide_Amendments_Pack_Thirteen.md
       lines: "83"
-    notes: null
+    notes: >-
+      Stands; read with R70-102-STILLNESS_TRACED_PASSES_LONG (style law
+      2026-10-03): a duel's shape now follows its combat grammar (Verdict
+      still then one cut, Blade traced passes, Percussion and Expenditure by
+      attrition).
 
   - id: R13-4-THREE_EXPLANATIONS
     pack: Pack Thirteen
@@ -437,7 +444,12 @@ rules:
     source:
       file: WOTR_Companion_Guide_Amendments_Pack_Thirteen.md
       lines: "106"
-    notes: null
+    notes: >-
+      Partly amended by R70-24-EASTERN_CONCEPT_WORDS_NARRATION (style law
+      2026-10-03): in narration the loanword now names what the body feels,
+      and the WOTR noun names what a gauge or the Guild measures. Applied by
+      R70-68-INSIDE_PRACTICE (style law 2026-10-03): inner practice is written
+      as a walk through the Soul Crystal in Codex nouns; this rule stands.
 
   - id: R13-6-REAL_SCIENCE_VOCAB
     pack: Pack Thirteen
@@ -470,7 +482,9 @@ rules:
     source:
       file: WOTR_Companion_Guide_Amendments_Pack_Thirteen.md
       lines: "108"
-    notes: null
+    notes: >-
+      Stands, confirmed by R70-28-TRADE_SCIENCE_WORDS (style law 2026-10-03):
+      narration names workings exactly, in this vocabulary, by ear.
 
   - id: R13-6-METAPHYSICS_VOCAB
     pack: Pack Thirteen
@@ -528,7 +542,12 @@ rules:
     source:
       file: WOTR_Companion_Guide_Amendments_Pack_Thirteen.md
       lines: "112"
-    notes: null
+    notes: >-
+      Partly amended by R70-100-MARTIAL_VOCABULARY_NAMES_MOVES (style law
+      2026-10-03): HEMA names the moves when the POV trained in a Western
+      school; an Eastern-trained POV narrates in his own school's words.
+      R70-136-NEW_CHECKS_VERIFY_SCENE makes verify's HEMA list the blade
+      school's list beside japanese, chinese, korean and percussion lists.
 
   - id: R13-6-ANATOMY_VOCAB
     pack: Pack Thirteen
@@ -593,6 +612,10 @@ rules:
       leaving this author-notes-only restriction standing ("Scaling
       vocabulary remains author-notes-first because it is adjudication
       vocabulary, not because it is modern").
+      Stands: R70-6-LITRPG_PROGRESSION_MODELS (style law 2026-10-03) names
+      progression models whose ranks everyone in a room can sense; it says
+      nothing of scaling vocabulary, which stays in author notes and
+      adjudication.
 
   - id: R13-6-HAX_DIALOGUE_BAN
     pack: Pack Thirteen
@@ -652,7 +675,13 @@ rules:
     source:
       file: WOTR_Companion_Guide_Amendments_Pack_Thirteen.md
       lines: "118"
-    notes: null
+    notes: >-
+      Stands beside R70-24-EASTERN_CONCEPT_WORDS_NARRATION (style law
+      2026-10-03): the loanword that names what the body feels is licensed in
+      narration; anime system grammar stays a translation aid, never page
+      vocabulary. Noted by R70-68-INSIDE_PRACTICE (style law 2026-10-03):
+      inner practice is mapped in Codex nouns, in WOTR's own words as this
+      rule asks; it stands.
 
   - id: R13-6-CHEMISTRY_BAN_SCOPE
     pack: Pack Thirteen

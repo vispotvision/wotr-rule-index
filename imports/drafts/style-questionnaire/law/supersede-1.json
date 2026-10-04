@@ -1,0 +1,434 @@
+[
+  {
+    "old_id": "R5-A-FLESH_CHANGES",
+    "action": "supersede",
+    "by": "R70-1-BLEND_MODEL",
+    "r70_quote": "R5-A, R5-E and R11-1 are rewritten",
+    "old_text": "Prose flesh derives from the Western tradition: \"The flesh changes.\"",
+    "note_text": "Superseded by R70-1-BLEND_MODEL (style law 2026-10-03): \"R5-A, R5-E and R11-1 are rewritten\", and R70-7-FAR_MOVE's new style pack \"supersedes Pack Five's flesh sections\". The prose is now one fused house style drawing on Western, Eastern and LitRPG strands and tilted by the POV's culture (R70-1); which strand leads each layer is R70-3, the named models R70-4 to R70-6."
+  },
+  {
+    "old_id": "R5-E-MARTIN_WINS_RULING",
+    "action": "supersede",
+    "by": "R70-1-BLEND_MODEL",
+    "r70_quote": "R5-A, R5-E and R11-1 are rewritten",
+    "old_text": "Martin wins on narration authority: \"Ruling proposed: Martin wins on narration authority.\"",
+    "note_text": "Superseded by R70-1-BLEND_MODEL (style law 2026-10-03): \"R5-A, R5-E and R11-1 are rewritten\", with R70-7-FAR_MOVE superseding \"Pack Five's flesh sections\"; R70-4 drops Martin as a named model (\"Not taken: Martin and Abercrombie\") and R70-3 has the Eastern voice lead narration. The rest of the row is carried by R70-4: Tolkien's elegy and high style stay named, and \"his moral voice stays barred (R5-E)\", which R5-E-NARRATION_NEVER_ADJUDICATES and R5-E-FREE_INDIRECT_CARVEOUT carry; both stand."
+  },
+  {
+    "old_id": "R11-1-TONAL_SPINE_UNCHANGED",
+    "action": "supersede",
+    "by": "R70-1-BLEND_MODEL",
+    "r70_quote": "R5-A, R5-E and R11-1 are rewritten",
+    "old_text": "Pack Eleven widens the look, not the sound: \"Tonal spine unchanged.\"",
+    "note_text": "Superseded by R70-1-BLEND_MODEL (style law 2026-10-03): \"R5-A, R5-E and R11-1 are rewritten\", and R70-7-FAR_MOVE's new style pack \"supersedes Pack Five's flesh sections and R11-1\". Pack Five no longer stands in full and the Western Register no longer governs how the page sounds. Both answers reach R11-1 as to how the page sounds, which is this row; the R11-1 rows on how the page looks (R11-1-NORTH_STAR_RETIRED, R11-1-REPLACEMENT_REGISTER) stand."
+  },
+  {
+    "old_id": "R5-A-SKELETON_UNCHANGED",
+    "action": "note",
+    "by": "R70-1-BLEND_MODEL",
+    "r70_quote": "One house style draws on all three strands in every scene",
+    "old_text": "The Eastern mechanical skeleton stays exactly as it is: \"WOTR runs an Eastern skeleton under Western flesh.\"",
+    "note_text": "Partly amended by R70-1-BLEND_MODEL (style law 2026-10-03): the rewrite of R5-A reaches the flesh, not the skeleton. The system's density stands as written, but the frame \"Eastern skeleton under Western flesh\" gives way to one house style drawing on all three strands, and LitRPG readouts now bring the system onto the page (R70-2)."
+  },
+  {
+    "old_id": "R5-E-NARRATION_NEVER_ADJUDICATES",
+    "action": "note",
+    "by": "R70-10-NARRATOR_STANCE",
+    "r70_quote": "the body of the scene stays POV-locked",
+    "old_text": "Third-person narration is POV-locked and never adjudicates: \"Third-person scene narration is POV-locked and never adjudicates.\"",
+    "note_text": "Stands, with a threshold licence from R70-10-NARRATOR_STANCE (style law 2026-10-03): in a chapter's opening and closing lines the narrator may address the reader, foreshadow or set down a maxim, while the body of the scene stays POV-locked; R70-4 keeps \"the narrator's moral verdicts\" out, so no line tells the reader what to think of a character's choice. Not reached by R70-1's rewrite of R5-E."
+  },
+  {
+    "old_id": "R5-E-ELEGIAC_REGISTER_ALLOWED",
+    "action": "note",
+    "by": "R70-4-WESTERN_MODELS",
+    "r70_quote": "Elegy, high style, routes, songs and many-named places stay named under Tolkien",
+    "old_text": "The elegiac register is allowed in scene narration: \"The elegiac register is available to scene narration, because elegy in the saga mode reports a loss rather than judging it.\"",
+    "note_text": "Stands: R70-4-WESTERN_MODELS (style law 2026-10-03) keeps elegy named under Tolkien. Not reached by R70-1's rewrite of R5-E."
+  },
+  {
+    "old_id": "R5-E-FREE_INDIRECT_CARVEOUT",
+    "action": "note",
+    "by": "R70-4-WESTERN_MODELS",
+    "r70_quote": "his moral voice stays barred (R5-E)",
+    "old_text": "Free indirect discourse remains the carve-out: \"Free indirect discourse remains the carve-out and Pack Four's gloss test still governs.\"",
+    "note_text": "Stands: R70-4-WESTERN_MODELS (style law 2026-10-03) keeps Tolkien's \"moral voice\" barred, so a verdict in the narrator's neutral register is still cut while one in the POV's own idiom is characterisation. Not reached by R70-1's rewrite of R5-E."
+  },
+  {
+    "old_id": "R11-1-NORTH_STAR_RETIRED",
+    "action": "note",
+    "by": "R70-1-BLEND_MODEL",
+    "r70_quote": "R5-A, R5-E and R11-1 are rewritten",
+    "old_text": "The Berserk/Vinland visual North Star is retired: \"Confirmed by Isaac's direction.\"",
+    "note_text": "Stands: K1's \"R11-1 ... rewritten\" (R70-1-BLEND_MODEL) and R70-7-FAR_MOVE's style pack that \"supersedes ... R11-1\" (style law 2026-10-03) reach how the page sounds (R11-1-TONAL_SPINE_UNCHANGED, superseded), not how it looks. R70-4 keeps \"the Draw Age's Victorian look (R53-28)\", and R53-28-VISUAL_REFERENCE retires the Berserk and Vinland references in its own words."
+  },
+  {
+    "old_id": "R11-1-REPLACEMENT_REGISTER",
+    "action": "note",
+    "by": "R70-4-WESTERN_MODELS",
+    "r70_quote": "Fits the Draw Age's Victorian look (R53-28)",
+    "old_text": "The Draw-Age visual register: \"An imperial age built on a resource nobody can see, administered by a guild that measures it, defended by men in proofed plate who carry both a sword and a firearm...\"",
+    "note_text": "Stands: the style law rewrites R11-1 as to how the page sounds (R70-1, R70-7; R11-1-TONAL_SPINE_UNCHANGED, superseded), not the Draw Age look; R70-4-WESTERN_MODELS (style law 2026-10-03) adds Dickens and the Victorians because they fit \"the Draw Age's Victorian look\"."
+  },
+  {
+    "old_id": "R20C-58-REGISTERS_FLAVOUR_NOT_LAW",
+    "action": "note",
+    "by": "R70-21-CADENCE_CULTURE",
+    "r70_quote": "The POV's culture sets cadence, and each narration register states it.",
+    "old_text": "Per-culture narration registers are flavour, not law (Pack Fifteen §1 stands): \"Per-culture narration registers are flavour, not law (Pack Fifteen §1 stands).\"",
+    "note_text": "Partly amended by R70-21-CADENCE_CULTURE (style law 2026-10-03): cadence keyed to the POV's culture is now law and each narration register states it, and under R70-1 the POV's culture tilts the strand mix. R70-27 amends this row for the diction dial per culture."
+  },
+  {
+    "old_id": "R5-B-MANHWA_DIRECTIVE_REPEALED",
+    "action": "note",
+    "by": "R70-7-FAR_MOVE",
+    "r70_quote": "re-rules the R5-B and R5-G tells one by one",
+    "old_text": "The Manhwa Energy Directive is struck in full: \"Struck in full from the project instructions and from Section 4's sanctioned-exception clause.\"",
+    "note_text": "Re-ruled tell by tell under R70-7-FAR_MOVE (style law 2026-10-03), not superseded whole. Re-ruled: reaction shots as characterisation are struck for a crowd speaking in waves within the POV's hearing at a reveal (R70-72-WATCHING_CROWD_POWER_REVEAL), and a public reversal before a reassessing room is a licensed payoff that opens a Front or a Ledger debt (R70-112-FACE_FACE_SLAP); humour as a tone exception gives way in part, comedy and dread being set hard against each other by design, each played straight, while jokes inside the danger stay gallows wit (R70-116-COMEDY_BESIDE_DANGER); escalation as a pacing register is legal inside a practitioner's duel while reserve lasts (R70-102-STILLNESS_TRACED_PASSES_LONG), and R70-18-ARC_SHAPES' tournament and delve arcs run escalation as plot architecture, which this row already left legal. R70-6 takes Solo Leveling knowing its escalation and onlooker shock run into these tells. Still tells: personality vomiting, loud opinions as a default register, bizarre or exaggerated minor NPCs (R52-31's comic minor NPCs aside), and absurdist method alongside genuine stakes."
+  },
+  {
+    "old_id": "R5-G-TELL_BANK_ADDITIONS",
+    "action": "note",
+    "by": "R70-7-FAR_MOVE",
+    "r70_quote": "re-rules the R5-B and R5-G tells one by one",
+    "old_text": "Four new active tells added: \"Add as active tells: declarative characterisation, the reaction-shot cutaway, the comedic beat structure, narrator moral adjudication.\"",
+    "note_text": "Re-ruled tell by tell under R70-7-FAR_MOVE (style law 2026-10-03), not superseded whole. The reaction-shot cutaway is struck for a crowd speaking within the POV's hearing at a reveal (R70-72-WATCHING_CROWD_POWER_REVEAL: \"R5-G's reaction-shot tell is struck for crowds\") and stands everywhere else; the comedic beat structure stops being a tell for comic voices and double acts named on their cards (R70-113-DOUBLE_ACT_COMIC_BEAT), everyone else staying under R5-D. Declarative characterisation and narrator moral adjudication stand as tells (R70-4 keeps the narrator's moral verdicts out; R70-10 allows only a threshold maxim)."
+  },
+  {
+    "old_id": "R12-2-TECHNICAL_REGISTER_DEF",
+    "action": "note",
+    "by": "R70-9-TECHNICAL_MYSTIC_REGISTERS",
+    "r70_quote": "R12-2 is rewritten: the Technical register draws on LitRPG and wuxia (numbers, named forms, the read)",
+    "old_text": "The Technical Register, defined: \"The Technical Register governs combat, craft, injury, and anything a practitioner does on purpose.\"",
+    "note_text": "Partly amended by R70-9-TECHNICAL_MYSTIC_REGISTERS (style law 2026-10-03): \"R12-2 is rewritten\" as to the strands the register draws on, now LitRPG and wuxia (numbers, named forms, the read) in place of \"It is Naruto\". Not superseded whole: the same ruling still leans on R12-2 (R70-76-MUCH_WORLD_MAGIC: \"R12-2 governs what the world does\" and \"People's workings keep full mechanism\"), so the register's ground (what a practitioner does on purpose) and its exhaustive, tactical, in-fight explanation stand. Read with R70-3 (Western leads combat and injury)."
+  },
+  {
+    "old_id": "R12-2-MYSTIC_REGISTER_DEF",
+    "action": "note",
+    "by": "R70-9-TECHNICAL_MYSTIC_REGISTERS",
+    "r70_quote": "R12-2 is rewritten: the Technical register draws on LitRPG and wuxia (numbers, named forms, the read); the Mystic on Japanese and Chinese literary craft and the gothic (law, the half-seen)",
+    "old_text": "The Mystic Register, defined: \"The Mystic Register governs Wellsprings, sites, rites, oaths, the Veil, and anything the world does regardless of who is watching.\"",
+    "note_text": "Partly amended by R70-9-TECHNICAL_MYSTIC_REGISTERS (style law 2026-10-03): \"R12-2 is rewritten\" as to the strands the register draws on, now Japanese and Chinese literary craft and the gothic (law, the half-seen) in place of \"It is Lord of the Mysteries\". Not superseded whole: R70-76-MUCH_WORLD_MAGIC says \"R12-2 governs what the world does\" and restates its law (rules in the imperative, prices as prices, taboos unexplained), so its ground and its statement as law stand."
+  },
+  {
+    "old_id": "R12-2-REGISTER_TEST",
+    "action": "note",
+    "by": "R70-9-TECHNICAL_MYSTIC_REGISTERS",
+    "r70_quote": "R48-10's free mixing stays.",
+    "old_text": "The test for which register a passage is in: \"The test for which register a passage is in: if a person chose to do it, Technical.\"",
+    "note_text": "Stands: R70-9-TECHNICAL_MYSTIC_REGISTERS (style law 2026-10-03) rewrites what each register draws on but keeps two registers, so this test still decides which one a passage is in."
+  },
+  {
+    "old_id": "R48-10-MIXING",
+    "action": "note",
+    "by": "R70-9-TECHNICAL_MYSTIC_REGISTERS",
+    "r70_quote": "R48-10's free mixing stays.",
+    "old_text": "Mixing: \"Drop the Technical/Mystic no-mixing rule: registers mix freely by ear.\"",
+    "note_text": "Stands, confirmed by R70-9-TECHNICAL_MYSTIC_REGISTERS (style law 2026-10-03): \"R48-10's free mixing stays\"."
+  },
+  {
+    "old_id": "R49-47-STAT_WORDS",
+    "action": "note",
+    "by": "R70-2-LITRPG_WOTR_BECOMES",
+    "r70_quote": "Practitioners see their own readouts: a screen at a reading, a notice at a level, a breakthrough or a cost.",
+    "old_text": "Stat words: \"All free: narration may state stat names, Grades, Stages, eta, EU figures and Guild words on its own authority.\"",
+    "note_text": "Extended by R70-2-LITRPG_WOTR_BECOMES (style law 2026-10-03): beyond free stat words in narration, practitioners now see their own readouts as screens and notices; R70-78 and the other LR rows set the details."
+  },
+  {
+    "old_id": "R51-16-OLD_BANS_FALL",
+    "action": "note",
+    "by": "R70-2-LITRPG_WOTR_BECOMES",
+    "r70_quote": "Full LitRPG, screens.",
+    "old_text": "Old Bans Fall: \"All older limits on stat names, Sub-Stat names, Guild words and sheet vocabulary in narration fall; they are free in narration.\"",
+    "note_text": "Stands and is carried further by R70-2-LITRPG_WOTR_BECOMES (style law 2026-10-03): full LitRPG, with readouts set on the page."
+  },
+  {
+    "old_id": "R14-4-SUBSTAT_DIAGNOSTIC_ONLY",
+    "action": "note",
+    "by": "R70-2-LITRPG_WOTR_BECOMES",
+    "r70_quote": "Practitioners see their own readouts",
+    "old_text": "Sub-Stat names are reserved to a faculty reading: \"Sub-Stat names are diagnostic-only.\"",
+    "note_text": "Touched by R70-2-LITRPG_WOTR_BECOMES (style law 2026-10-03): a practitioner's own readout now reaches the page. Retiring this row is R70-83-FIGURES_PLAIN_NARRATION's call (\"R14-4-SUBSTAT retires\"), not R70-2's."
+  },
+  {
+    "old_id": "R12-5-NEVER_INVENT_NUMBER",
+    "action": "note",
+    "by": "R70-2-LITRPG_WOTR_BECOMES",
+    "r70_quote": "every figure traces to the sheet (R12-5)",
+    "old_text": "A number is never invented: \"Never invent a number.\"",
+    "note_text": "Stands and binds the readouts: R70-2-LITRPG_WOTR_BECOMES and R70-17-CLOSING_MODES (style law 2026-10-03) require every readout figure to trace to the sheet."
+  },
+  {
+    "old_id": "R13-6-SCALING_VOCAB_RESTRICTED",
+    "action": "note",
+    "by": "R70-6-LITRPG_PROGRESSION_MODELS",
+    "r70_quote": "Ranks everyone in a room can sense",
+    "old_text": "Scaling vocabulary stays in author notes, never on the page: \"Scaling vocabulary, author-notes and adjudication only, never on the page: Attack Potency (energy of one attack, not its area), durability, hax (a working that bypasses...\"",
+    "note_text": "Stands: R70-6-LITRPG_PROGRESSION_MODELS (style law 2026-10-03) names progression models whose ranks everyone in a room can sense; it says nothing of scaling vocabulary, which stays in author notes and adjudication."
+  },
+  {
+    "old_id": "R53-28-VISUAL_REFERENCE",
+    "action": "note",
+    "by": "R70-4-WESTERN_MODELS",
+    "r70_quote": "Fits the Draw Age's Victorian look (R53-28)",
+    "old_text": "Visual Reference: \"The visual reference is Lord of the Mysteries and Victorian imperial-age fantasy; the Berserk and Vinland Saga references are retired everywhere.\"",
+    "note_text": "Stands: R70-4-WESTERN_MODELS (style law 2026-10-03) adds Dickens and the Victorians as named prose models because they fit this look."
+  },
+  {
+    "old_id": "R48-05-HIGH_STYLE",
+    "action": "note",
+    "by": "R70-4-WESTERN_MODELS",
+    "r70_quote": "Unticked, the same register stays legal under R48-05 without his name",
+    "old_text": "High style: \"High mythic style is allowed freely in narration whenever the moment calls for it (not only in documents).\"",
+    "note_text": "Stands: R70-4-WESTERN_MODELS (style law 2026-10-03) keeps Tolkien named for elegy and high style, and this row keeps that register legal in narration."
+  },
+  {
+    "old_id": "R51-33-DOC_REGISTER",
+    "action": "note",
+    "by": "R70-8-JOBS_STYLE_GOVERNS",
+    "r70_quote": "Documents keep their institution's house style inside it.",
+    "old_text": "Doc Register: \"In-world documents keep a house style per institution: Accord chancery formal and Latinate, the Dawi Tally terse entries, Moto records in the old register, letters in...\"",
+    "note_text": "Stands inside the blend: R70-8-JOBS_STYLE_GOVERNS (style law 2026-10-03) puts documents under the one style law while they keep their institution's house style; R70-23 uses that house style for in-world chapter epigraphs."
+  },
+  {
+    "old_id": "R5-C1-NARRATION_NEVER_WINKS",
+    "action": "note",
+    "by": "R70-10-NARRATOR_STANCE",
+    "r70_quote": "R5-C1 gains a threshold exception.",
+    "old_text": "The narration never winks at the reader: \"The narration never winks.\"",
+    "note_text": "Partly amended by R70-10-NARRATOR_STANCE (style law 2026-10-03): \"R5-C1 gains a threshold exception\". In a chapter's opening and closing lines the narrator may address the reader, foreshadow or set down a maxim; inside the scene the narration still never winks."
+  },
+  {
+    "old_id": "R49-08-MEANING",
+    "action": "note",
+    "by": "R70-10-NARRATOR_STANCE",
+    "r70_quote": "the body of the scene stays POV-locked",
+    "old_text": "Meaning: \"After a beat lands the POV may reflect on what it meant in his own idiom, and may be wrong; neutral narrator summaries stay banned.\"",
+    "note_text": "Stands: R70-10-NARRATOR_STANCE (style law 2026-10-03) lets the narrator set down a maxim only in a chapter's opening and closing lines, so neutral summaries of a beat's meaning stay banned inside the scene."
+  },
+  {
+    "old_id": "R48-40-NPC_THOUGHTS",
+    "action": "note",
+    "by": "R70-11-WIDE_VIEW",
+    "r70_quote": "Battles and crowds may run a marked roll call: one line inside each of several heads, then the lock resumes.",
+    "old_text": "NPC thoughts: \"NPC italic thoughts: roleplay turns keep the one-thought-per-NPC allowance; written scenes keep the POV lock (no NPC thoughts under a lock).\"",
+    "note_text": "Partly amended by R70-11-WIDE_VIEW (style law 2026-10-03): battles and crowds may run a marked roll call, one line inside each of several heads, before the lock resumes; outside a roll call a locked written scene still carries no NPC thoughts."
+  },
+  {
+    "old_id": "R49-09-CUTAWAYS",
+    "action": "note",
+    "by": "R70-11-WIDE_VIEW",
+    "r70_quote": "Battles and crowds may run a marked roll call",
+    "old_text": "Cutaways: \"A turn may close with a short, clearly marked cut to something the POV cannot see (a Front advancing, an NPC plotting).\"",
+    "note_text": "Stands, and R70-11-WIDE_VIEW (style law 2026-10-03) adds the marked roll call in battles and crowds beside the closing cut."
+  },
+  {
+    "old_id": "R39-7-NO_NPC_THOUGHT_UNDER_POV_LOCK",
+    "action": "note",
+    "by": "R70-11-WIDE_VIEW",
+    "r70_quote": "R39-7 gains rules for them.",
+    "old_text": "No NPC italic thought inside a locked-POV scene: \"The narration-distance rule wins: no NPC italic thought inside a locked-POV scene.\"",
+    "note_text": "Partly amended by R70-11-WIDE_VIEW (style law 2026-10-03): \"R39-7 gains rules for them\". Marked roll-call lines in battles and crowds are an exception to the lock, one line per head, after which the lock resumes."
+  },
+  {
+    "old_id": "R1-3-NAME_THREE_RULE",
+    "action": "note",
+    "by": "R70-11-WIDE_VIEW",
+    "r70_quote": "R1-3's name-three rule exempts roll-call lines",
+    "old_text": "In mass combat, name three characters carry interiority: \"The one-private-italic-thought-per-named-NPC standard is suspended in mass combat.\"",
+    "note_text": "Partly amended by R70-11-WIDE_VIEW (style law 2026-10-03): roll-call lines do not count against the three heads that carry interiority. R70-106 also cites this row for the battle cut between hill and ditch."
+  },
+  {
+    "old_id": "R49-02-TENSE",
+    "action": "note",
+    "by": "R70-12-FIRST_PERSON",
+    "r70_quote": "Third person becomes law for turns, scenes and books; first person stays in documents.",
+    "old_text": "Tense: \"Tense depends on the job: roleplay turns, and work improved for a roleplay, are written in present tense; written scenes and books are written in past tense.\"",
+    "note_text": "Stands: R70-12-FIRST_PERSON (style law 2026-10-03) sets person beside tense, third person for turns, scenes and books and first person only in documents."
+  },
+  {
+    "old_id": "R54-13-NO_POV_WITHOUT_REGISTER",
+    "action": "note",
+    "by": "R70-12-FIRST_PERSON",
+    "r70_quote": "Third person becomes law for turns, scenes and books",
+    "old_text": "No point of view without a register: \"No POV without a register: Bram Greymane and Lorn Stark get registers.\"",
+    "note_text": "Stands: under R70-12-FIRST_PERSON (style law 2026-10-03) every narration register is a third-person register, and under R70-21 each states its culture's cadence."
+  },
+  {
+    "old_id": "R61-9-WORD_FILES_ARE_CONVERSION_BASE",
+    "action": "note",
+    "by": "R70-12-FIRST_PERSON",
+    "r70_quote": "first person stays in documents",
+    "old_text": "The Word files are the conversion base; wiki pages are regenerated condensations: \"Word files as base; wiki condensations regenerated afterwards.\"",
+    "note_text": "Stands: the converted texts are in-world documents, where R70-12-FIRST_PERSON (style law 2026-10-03) keeps first person."
+  },
+  {
+    "old_id": "R48-44-NAME_USE",
+    "action": "note",
+    "by": "R70-13-EPITHETS_NARRATION",
+    "r70_quote": "An epithet may be a rank or trade tag (the Flourishing envoy, the Measurewright) whenever the POV can read rank",
+    "old_text": "Name use: \"Narration refers to characters by POV epithets, the way the viewpoint sees them; the naming characterises.\"",
+    "note_text": "Extended by R70-13-EPITHETS_NARRATION (style law 2026-10-03): a POV epithet may be a rank or trade tag whenever the POV can read rank."
+  },
+  {
+    "old_id": "R49-10-EPITHETS",
+    "action": "note",
+    "by": "R70-13-EPITHETS_NARRATION",
+    "r70_quote": "still one per scene, changing when the reading changes",
+    "old_text": "Epithets: \"One epithet per character per scene: the POV's epithet changes only when the POV's view of them changes, which is itself the beat.\"",
+    "note_text": "Stands, extended by R70-13-EPITHETS_NARRATION (style law 2026-10-03): still one epithet per character per scene, and it may be a rank or trade tag that changes when the reading changes."
+  },
+  {
+    "old_id": "R49-25-OPENINGS",
+    "action": "note",
+    "by": "R70-15-TEMPO_STILLNESS",
+    "r70_quote": "R49-25's motion opening becomes one option among others",
+    "old_text": "Openings: \"Openings vary by scene: arrivals open on the senses; tense scenes open in motion.\"",
+    "note_text": "Partly amended by R70-15-TEMPO_STILLNESS (style law 2026-10-03): the motion opening for tense scenes becomes one option among others; R70-16-OPENING_MODES adds far to near, a season word, and a reading or document beside the senses and motion."
+  },
+  {
+    "old_id": "R48-06-RHYTHM_LAW",
+    "action": "note",
+    "by": "R70-19-PAIRED_CUMULATIVE_SENTENCES",
+    "r70_quote": "Both licences, in set pieces only; ordinary turns keep the full rhythm law.",
+    "old_text": "Rhythm law: \"Keep all rhythm rules: the hit is the shortest sentence and sits last, payoffs under 10 words, at most two long sentences in a row; the checker fails anything else.\"",
+    "note_text": "Partly amended by R70-19-PAIRED_CUMULATIVE_SENTENCES (style law 2026-10-03): in set pieces only, matched pairs and verse lines are exempt from the run rule and once per scene the climax may be one long cumulative sentence; ordinary turns keep the full rhythm law. R70-15 keeps the hit short and last under jo-ha-kyu tempo."
+  },
+  {
+    "old_id": "R4-14-RUN_RULE",
+    "action": "note",
+    "by": "R70-19-PAIRED_CUMULATIVE_SENTENCES",
+    "r70_quote": "Both licences, in set pieces only",
+    "old_text": "The run rule, no three same-length sentences in a row: \"The run rule.\"",
+    "note_text": "Partly amended by R70-19-PAIRED_CUMULATIVE_SENTENCES (style law 2026-10-03): in set pieces, deliberate matched pairs and verse lines are exempt from the run rule; ordinary turns keep it in full."
+  },
+  {
+    "old_id": "R4-14-LANDING_RULE",
+    "action": "note",
+    "by": "R70-19-PAIRED_CUMULATIVE_SENTENCES",
+    "r70_quote": "Both licences, in set pieces only",
+    "old_text": "The landing rule, the hit is the shortest sentence and sits last: \"The landing rule.\"",
+    "note_text": "Partly amended by R70-19-PAIRED_CUMULATIVE_SENTENCES (style law 2026-10-03): in set pieces, once per scene, the climax may be one long cumulative sentence chained with 'and', breaking the landing rule; everywhere else the hit stays shortest and last (R70-15)."
+  },
+  {
+    "old_id": "R4-14-CHAIN_CEILING",
+    "action": "note",
+    "by": "R70-19-PAIRED_CUMULATIVE_SENTENCES",
+    "r70_quote": "ordinary turns keep the full rhythm law",
+    "old_text": "The chain ceiling, no more than two long sentences in a row: \"The chain ceiling.\"",
+    "note_text": "Stands: R70-19-PAIRED_CUMULATIVE_SENTENCES (style law 2026-10-03) licenses, in set pieces only, matched pairs against the run rule and one cumulative climax sentence against the landing rule; neither licence names the chain ceiling, and R70-56 says \"The chain ceiling (R4-14) still holds\"."
+  },
+  {
+    "old_id": "R48-07-WHITE_SPACE",
+    "action": "note",
+    "by": "R70-20-PARAGRAPH_SHAPE",
+    "r70_quote": "R48-07 is amended",
+    "old_text": "White space: \"Steady paragraphs: medium paragraphs, white space used sparingly so it still means something.\"",
+    "note_text": "Partly amended by R70-20-PARAGRAPH_SHAPE (style law 2026-10-03): medium paragraphs stay the norm, but reveals, verdicts, notices and a fight's last beats may run as one-line paragraphs in a cluster."
+  },
+  {
+    "old_id": "R49-14-PARA_SHAPE",
+    "action": "note",
+    "by": "R70-20-PARAGRAPH_SHAPE",
+    "r70_quote": "R49-14's shape check stays.",
+    "old_text": "Para shape: \"Paragraph-length spread check stays as is (guide wants 50%+, checker warns under 35%); steady, medium paragraphs keep drawing the warning.\"",
+    "note_text": "Stands, confirmed by R70-20-PARAGRAPH_SHAPE (style law 2026-10-03): \"R49-14's shape check stays\"."
+  },
+  {
+    "old_id": "R15-1-REGISTER_BY_CULTURE",
+    "action": "note",
+    "by": "R70-21-CADENCE_CULTURE",
+    "r70_quote": "The POV's culture sets cadence, and each narration register states it.",
+    "old_text": "Register by culture in narration repealed: \"Register by culture in narration (Pack Five): Dawi POV as stressed monosyllables, Eresse POV as latinate subordination, and the rest.\"",
+    "note_text": "Partly amended by R70-21-CADENCE_CULTURE (style law 2026-10-03): cadence by the POV's culture is now law, stated in each narration register; R70-27 sets a diction dial per culture. The rest of register by culture stays flavour."
+  },
+  {
+    "old_id": "R51-31-SENSE_BANK",
+    "action": "note",
+    "by": "R70-22-SOUND_WORDS",
+    "r70_quote": "entered in its Inventory and never italic (R49-49)",
+    "old_text": "Sense Bank: \"Each culture's Standing Inventory gains a senses entry (smells, sounds, colours, textures); scenes draw from it first.\"",
+    "note_text": "Extended by R70-22-SOUND_WORDS (style law 2026-10-03): each culture's Inventory may also carry a few native sound and state words for speech and close narration."
+  },
+  {
+    "old_id": "R49-49-FOREIGN",
+    "action": "note",
+    "by": "R70-22-SOUND_WORDS",
+    "r70_quote": "never italic (R49-49)",
+    "old_text": "Foreign: \"Foreign in-world words appear plain, no italics; meaning comes from context.\"",
+    "note_text": "Stands and covers the native sound and state words R70-22-SOUND_WORDS (style law 2026-10-03) admits: never italic."
+  },
+  {
+    "old_id": "R5-F-LIGHT_NOVEL_KEPT",
+    "action": "note",
+    "by": "R70-17-CLOSING_MODES",
+    "r70_quote": "R49-26 gains the hook R5-F already wants",
+    "old_text": "What the light novel keeps: \"The chapter as a hard unit with one clear objective and a hook at close.\"",
+    "note_text": "Stands: R70-17-CLOSING_MODES (style law 2026-10-03) gives its hook at close a legal ending (the mid-crisis cliffhanger); its fast entry now sits beside R70-16's far to near, season-word and document openings and R70-23's chapter heads."
+  },
+  {
+    "old_id": "R12-4-VOICE_FOUR_DOCUMENT",
+    "action": "note",
+    "by": "R70-16-OPENING_MODES",
+    "r70_quote": "A scene may open on a register entry, readout or document that the scene then tests (R12-4's threshold voice)",
+    "old_text": "Voice four: the document: \"The document.\"",
+    "note_text": "Extended by R70-16-OPENING_MODES and R70-23-CHAPTER_HEADS (style law 2026-10-03): the threshold document may be a readout, and a chapter may open on an in-world epigraph that the chapter then tests. The Mystic Register it uses now draws on the strands R70-9 names."
+  },
+  {
+    "old_id": "R49-26-ENDINGS",
+    "action": "note",
+    "by": "R70-17-CLOSING_MODES",
+    "r70_quote": "R49-26 gains the hook R5-F already wants",
+    "old_text": "Endings: \"Written scenes may end on an action, a concrete image, or a line of dialogue; never a summary or a question.\"",
+    "note_text": "Extended by R70-17-CLOSING_MODES (style law 2026-10-03): a scene or chapter may also stop mid-crisis on a reveal or threat, close on a set-off notice or readout traced to the sheet, or break off a breath before its emotional payoff."
+  },
+  {
+    "old_id": "R48-29-PACING",
+    "action": "note",
+    "by": "R70-18-ARC_SHAPES",
+    "r70_quote": "R48-29's skip gains a form for growth",
+    "old_text": "Pacing: \"The partner may skip dull stretches: travel and waiting pass in a line when nothing is at stake; the world keeps moving.\"",
+    "note_text": "Extended by R70-18-ARC_SHAPES (style law 2026-10-03): weeks of drill may pass in one compressed training-montage passage that ends on a reading of what changed."
+  },
+  {
+    "old_id": "R53-06-WELL_SPAWN",
+    "action": "note",
+    "by": "R70-18-ARC_SHAPES",
+    "r70_quote": "Well-spawn (R53-06) supply the threat",
+    "old_text": "Well Spawn: \"Well-spawn exist: Wells breed hostile creatures, and the Bestiary gains a Well-spawn category.\"",
+    "note_text": "Stands: R70-18-ARC_SHAPES (style law 2026-10-03) makes the Well delve a licensed arc, with Well-spawn as the threat at each deeper stage."
+  },
+  {
+    "old_id": "R5-C3-NARRATION_REGISTER_EXTENSION",
+    "action": "note",
+    "by": "R70-21-CADENCE_CULTURE",
+    "r70_quote": "The POV's culture sets cadence, and each narration register states it.",
+    "old_text": "Per-culture narration registers, extended from dialogue: \"The extension raises it from a per-character instruction to a per-culture one. Proposed narration registers, to be built out per culture as POVs arrive...\"",
+    "note_text": "Partly amended by R70-21-CADENCE_CULTURE (style law 2026-10-03): cadence keyed to the POV's culture is now law and each narration register states it; the rest of this row stays flavour under R15-1-REGISTER_BY_CULTURE. Under R70-1 the POV's culture also tilts the strand mix, and R70-27 adds a diction dial per culture."
+  },
+  {
+    "old_id": "R4-14-CONJUNCTION_AUDIT",
+    "action": "note",
+    "by": "R70-19-PAIRED_CUMULATIVE_SENTENCES",
+    "r70_quote": "Both licences, in set pieces only",
+    "old_text": "The conjunction audit at a beat: \"Count coordinators per sentence: and, as, while, which, because. Two or more inside a sentence carrying a beat is a fail.\"",
+    "note_text": "Bent for one sentence by R70-19-PAIRED_CUMULATIVE_SENTENCES (style law 2026-10-03): in set pieces, once per scene, the climax may be one long cumulative sentence chained with 'and', which this audit would fail; every other beat sentence keeps the audit, and ordinary turns keep it in full."
+  },
+  {
+    "old_id": "R4-14-CLAUSE_CAP_AT_BEAT",
+    "action": "note",
+    "by": "R70-19-PAIRED_CUMULATIVE_SENTENCES",
+    "r70_quote": "Both licences, in set pieces only",
+    "old_text": "The clause cap at the beat: \"Within the three sentences bracketing a value turn, no sentence carries more than one subordinate or coordinate clause.\"",
+    "note_text": "Bent for one sentence by R70-19-PAIRED_CUMULATIVE_SENTENCES (style law 2026-10-03): in set pieces, once per scene, the climax itself may be one long cumulative sentence chained with 'and'; the cap holds for every other sentence at a beat, and ordinary turns keep it in full."
+  },
+  {
+    "old_id": "R4-14-HARD_CEILINGS",
+    "action": "note",
+    "by": "R70-19-PAIRED_CUMULATIVE_SENTENCES",
+    "r70_quote": "Both licences, in set pieces only",
+    "old_text": "Hard ceilings on payoff sentences and paragraph shape: \"Words in the payoff sentence | 10 | ...\"",
+    "note_text": "Bent for one sentence by R70-19-PAIRED_CUMULATIVE_SENTENCES (style law 2026-10-03): in set pieces, once per scene, the climax may be one long cumulative sentence past the 10-word payoff ceiling; the other ceilings hold, and ordinary turns keep all of them."
+  }
+]

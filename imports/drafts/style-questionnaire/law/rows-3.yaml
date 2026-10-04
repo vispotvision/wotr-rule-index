@@ -1,0 +1,1088 @@
+- id: R70-40-WIDE_DESCRIPTION_MUST_RANGE
+  pack: Style Law 2026-10-03
+  pack_number: null
+  section: DS1
+  title: 'Description range: one lead group and two supporting'
+  status: live
+  kind: procedure
+  summary: Every scene brief names one lead subject group and two supporting groups from the rotation,
+    the lead changing from scene to scene, and session end flags any rotation group a thread has left
+    untouched for six scenes.
+  verbatim: Lead plus two, thread-checked. Each scene brief names one lead subject group and two supporting
+    ones, the lead rotating scene to scene; session end flags any rotation group untouched for six scenes.
+  amends:
+  - guide: NATALIE.md and the wotr-write skill
+    locus: 'Scene brief and session end: description range'
+    operation: adds
+  supersedes: []
+  applies_to:
+  - prose-law
+  - scene-structure
+  - session-protocol
+  - worldbuilding
+  verification: []
+  ratified: 'Isaac, 2026-10-03, Claude Code chat: ruled directly (the style questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: 'The rotation groups are R70-41, R70-42 and R70-43; R70-58 adds the census WARN. Sets range,
+    not amount: R48-02-DENSITY stands (R70-52).'
+- id: R70-41-LAND_LIVES_IT
+  pack: Style Law 2026-10-03
+  pack_number: null
+  section: DS2
+  title: 'Rotation groups: land, sky, seasons, living things'
+  status: live
+  kind: definition
+  summary: Land, water and sky (the night sky included), seasons and weather, and plants and animals (Well-spawn
+    looked at as creatures) are rotation groups the range rule draws on; history in layers is not one.
+  verbatim: 'Yes to: Land, water and sky (Terrain and ground underfoot, rivers, sea and shore, the long
+    view, and the night sky (Shiro, the five wanderers, the Nail, the aurora) join the rotation); Seasons
+    and weather (Thaw, rain, heat, fog and each culture''s signs of the turning year join the rotation,
+    beyond R53-09''s actual weather in every outdoor scene); Plants and animals (Trees, crops, herbs,
+    blossom, birds, insects, working beasts, and Well-spawn looked at as creatures join the rotation).
+    Not taken: History in layers.'
+  amends:
+  - guide: NATALIE.md and the wotr-write skill
+    locus: 'Description range: the rotation groups'
+    operation: adds
+  supersedes: []
+  applies_to:
+  - prose-law
+  - worldbuilding
+  verification: []
+  ratified: 'Isaac, 2026-10-03, Claude Code chat: ruled directly (the style questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: Works with R70-40 (lead plus two) and R70-49 (one wide view outdoors); R53-09-WEATHER's actual
+    weather in every outdoor scene stands beneath it. Inventory supply for these groups is R70-45.
+- id: R70-42-PUBLIC_WORLD
+  pack: Style Law 2026-10-03
+  pack_number: null
+  section: DS3
+  title: 'Rotation groups: architecture, dress, streets, power on show'
+  status: live
+  kind: definition
+  summary: Architecture as style, dress and adornment past the first-sight inventory, streets, markets
+    and crowds, and power on show (processions, precedence, courts and punishments, Guild halls, ranking
+    boards) are rotation groups the range rule draws on.
+  verbatim: 'Yes to: Architecture as style (Buildings are described for style and ornament as well as
+    use and wear; the Moto ''one thing made that serves no function'' finally gets looked at); Dress and
+    adornment (Cloth, cut, colour by rank, wear and repair, jewellery, cosmetics and worn scent join the
+    rotation, past the first-sight inventory); Streets, markets, crowds (Squares, alleys, hawkers, stalls
+    and haggling, arcades and branded goods (R60-07), and the crowd as one body join the rotation); Power
+    on show (Processions and entrances, seating by precedence, courts and punishments (R53-11), Guild
+    halls and academy grounds as displays of standing, and ranking boards join the rotation).'
+  amends:
+  - guide: NATALIE.md and the wotr-write skill
+    locus: 'Description range: the rotation groups'
+    operation: adds
+  supersedes: []
+  applies_to:
+  - prose-law
+  - worldbuilding
+  verification: []
+  ratified: 'Isaac, 2026-10-03, Claude Code chat: ruled directly (the style questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: Works with R70-40; draws on R60-07-COMMERCE_ON_THE_PAGE and R53-11-JUSTICE, both unchanged. Inventory
+    fields for these groups come from R70-45.
+- id: R70-43-HOME_TABLE_RITE_PLAY
+  pack: Style Law 2026-10-03
+  pack_number: null
+  section: DS4
+  title: 'Rotation groups: households, food, rites, music and play'
+  status: live
+  kind: definition
+  summary: Households young and old, food and taste, rites and festivals performed on the page, and music,
+    art and play are rotation groups the range rule draws on.
+  verbatim: 'Yes to: Households, young and old (Servants and the order of a house, the rich at home as
+    well as the poor, the child''s games and chores, and old age at the fire join the rotation); Food
+    and taste (Ingredients, cooking, street food, drink, hunger and rationing, and taste in the mouth
+    join the rotation. How a meal is written is DS8); Rites and festivals (Rites performed on the page,
+    household observance, funerals and mourning, festivals, and folk taboos acted on join the rotation);
+    Music, art and play (Instruments and songs, carving and painting, theatre and storytellers, games
+    of chance and skill, sport and toys join the rotation).'
+  amends:
+  - guide: NATALIE.md and the wotr-write skill
+    locus: 'Description range: the rotation groups'
+    operation: adds
+  supersedes: []
+  applies_to:
+  - prose-law
+  - worldbuilding
+  verification: []
+  ratified: 'Isaac, 2026-10-03, Claude Code chat: ruled directly (the style questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: Works with R70-40; how a meal is written is R70-47, how a rite is written is R70-75.
+- id: R70-44-CULTURE_KEYED_NOTICING
+  pack: Style Law 2026-10-03
+  pack_number: null
+  section: DS5
+  title: The place supplies, the viewer's culture judges
+  status: live
+  kind: mandate
+  summary: Take what is in the room from the place's Standing Inventory and let the POV's culture decide
+    what he makes of it, misreadings included, with every Inventory gaining a 'Notices first' line for
+    both jobs.
+  verbatim: Place supplies, viewer judges. The place's Inventory sets what is in the room; the POV's culture
+    sets what he makes of it, misreadings included. Each Inventory gains a 'Notices first' line for both
+    jobs.
+  amends:
+  - guide: Standing Inventories, NATALIE.md and the wotr-write skill
+    locus: Notices first (every Inventory)
+    operation: adds
+  supersedes: []
+  applies_to:
+  - prose-law
+  - pov
+  - standing-inventory
+  verification: []
+  ratified: 'Isaac, 2026-10-03, Claude Code chat: ruled directly (the style questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: Adds a field beside R6-8-STANDING_INVENTORY_CATEGORIES (see R70-45). R48-04-METAPHORS still keys
+    metaphor to the POV's own life (R70-59). A misread folk belief about magic stays uncorrected under
+    R53-15-FOLK_BELIEFS. Works with R70-1's culture tilt.
+- id: R70-45-NEW_STANDING_INVENTORY_FIELDS
+  pack: Style Law 2026-10-03
+  pack_number: null
+  section: DS6
+  title: New Standing Inventory fields
+  status: live
+  kind: mandate
+  summary: Every Standing Inventory gains fields for land, sky, seasons and living things (with temperature
+    in the senses entry), for building, house plan, dress by rank and the street, for music, games and
+    one or two festivals written as performed, and for law and punishment, succession, and roads, vehicles
+    and inns.
+  verbatim: 'Yes to: Land, sky, living things (Each Inventory gains terrain and climate, the sky by its
+    own names, seasons and their signs, and what grows, is kept, hunted and feared; Temperature joins
+    the senses entry); Building, dress, the street (Each Inventory gains architecture and ornament, the
+    house plan, dress by rank (cloth, cut, colour, adornment, worn scent), and its market and street);
+    Music, play, festivals (Each Inventory gains instruments and songs, games and toys, and one or two
+    festivals written as performed: who does what, and in what order); Law, succession, roads (Each Inventory
+    gains law and punishment (R53-11), succession (R60-21), and roads, vehicles and inns).'
+  amends:
+  - guide: Standing Inventories, NATALIE.md and the wotr-write skill
+    locus: Inventory fields
+    operation: extends
+  supersedes: []
+  applies_to:
+  - standing-inventory
+  - worldbuilding
+  verification: []
+  ratified: 'Isaac, 2026-10-03, Claude Code chat: ruled directly (the style questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: Extends R6-8-STANDING_INVENTORY_CATEGORIES and R51-31-SENSE_BANK (temperature joins the senses
+    entry); gives R53-11-JUSTICE and R60-21-SUCCESSION_BY_CULTURE a field. Supplies the rotation groups
+    of R70-41 to R70-43. Further fields come from R70-44, R70-59, R70-60, R70-61, R70-63 and R70-65.
+- id: R70-46-CRAFT_LABOUR_PAGE
+  pack: Style Law 2026-10-03
+  pack_number: null
+  section: DS7
+  title: Craft shown as process, and the finished work looked at
+  status: live
+  kind: mandate
+  summary: Whenever a craft is on the page, run at least one stretch as process (tool, material and steps
+    in order, done by the worker's body), and look at the finished thing for its quality through the POV's
+    eye.
+  verbatim: 'Process and its beauty. Process as in B, and the finished thing is looked at for its quality:
+    what good work looks like in that craft, through the POV''s eye. (Option B there reads: Shown as process.
+    Whenever a craft is on the page, at least one stretch runs as process: tool, material and steps in
+    order, with the worker''s body doing them.)'
+  amends:
+  - guide: WOTR_Master_Style_Directive.md
+    locus: §1.2 material density
+    operation: extends
+  supersedes: []
+  applies_to:
+  - prose-law
+  - worldbuilding
+  - pov
+  verification: []
+  ratified: 'Isaac, 2026-10-03, Claude Code chat: ruled directly (the style questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: 'Extends R6-5-MATERIAL_DENSITY_SURVIVES, which stands: wear and work stay described in full,
+    and finished work is also looked at for its quality through the POV. Rites get their own page form
+    in R70-75 (R12-6-RITUAL_SPECIFICATION). Works with R70-63.'
+- id: R70-47-TABLE
+  pack: Style Law 2026-10-03
+  pack_number: null
+  section: DS8
+  title: A meal shows its serving order and its taste
+  status: live
+  kind: mandate
+  summary: Whenever a meal is on the page, write both the order of serving and the taste in the mouth.
+  verbatim: Order and taste both. The order of serving and the taste in the mouth are both on the page
+    whenever a meal is.
+  amends:
+  - guide: NATALIE.md and the wotr-write skill
+    locus: 'Description: meals'
+    operation: adds
+  supersedes: []
+  applies_to:
+  - prose-law
+  - worldbuilding
+  verification: []
+  ratified: 'Isaac, 2026-10-03, Claude Code chat: ruled directly (the style questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: Food and taste is a rotation group (R70-43); each culture's food sits in its Standing Inventory
+    (R6-8-STANDING_INVENTORY_CATEGORIES).
+- id: R70-48-MONEY_PRICE_PROVENANCE
+  pack: Style Law 2026-10-03
+  pack_number: null
+  section: DS12
+  title: Price whenever money moves; notable objects by lineage
+  status: live
+  kind: mandate
+  summary: Name the sum of every purchase, wage, fee and bribe on the page in the culture's money from
+    the approved price table (payment in kind named as exactly), and describe a notable object through
+    who made, carried, mended and died with it, with Tier and price kept off unless asked.
+  verbatim: 'Yes to: Price whenever money moves (Every purchase, wage, fee and bribe on the page names
+    its sum in the culture''s money, quoted from the approved price table; north of the arrays, payment
+    in kind is named as exactly); Its life and lineage (A notable object is described through who made,
+    carried, mended and died with it, the way a famous tea bowl keeps its line of owners; Tier and price
+    stay off unless asked). Not taken: Appraisal by a trained eye.'
+  amends:
+  - guide: Standing Inventories, NATALIE.md and the wotr-write skill
+    locus: 'World texture: money before magic and the price table'
+    operation: extends
+  - guide: WOTR_Item_and_Equipment_Writing_Guide.md
+    locus: 'Notable objects: provenance'
+    operation: adds
+  supersedes: []
+  applies_to:
+  - prose-law
+  - worldbuilding
+  - items
+  - standing-inventory
+  verification: []
+  ratified: 'Isaac, 2026-10-03, Claude Code chat: ruled directly (the style questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: Extends R53-07-PRICE_TABLE (quoted whenever coin moves); R53-17-THE_BILL stands. The lineage clause
+    keeps R46-2 Tiers out of the prose unless asked; the set-off item card is R70-95 and appraisal is
+    R70-85. Appraisal by a trained eye was not taken here.
+- id: R70-49-LANDSCAPE_SKY
+  pack: Style Law 2026-10-03
+  pack_number: null
+  section: DS9
+  title: One wide view in every outdoor scene
+  status: live
+  kind: mandate
+  summary: Give every outdoor scene one wide view built in far, middle and near planes with the people
+    small in it, and put the sky in it after dark.
+  verbatim: One wide view outdoors. Every outdoor scene gets one wide view built far, middle and near,
+    with the people small in it, and the sky in it after dark.
+  amends:
+  - guide: NATALIE.md and the wotr-write skill
+    locus: 'Description: outdoor scenes'
+    operation: adds
+  supersedes: []
+  applies_to:
+  - prose-law
+  - worldbuilding
+  - scene-structure
+  verification: []
+  ratified: 'Isaac, 2026-10-03, Claude Code chat: ruled directly (the style questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: Adds to R53-09-WEATHER, which stands. Works with R70-41 (land and sky in the rotation) and R70-16
+    (far-to-near openings).
+- id: R70-50-BODIES_AFTER_FIRST_SIGHT
+  pack: Style Law 2026-10-03
+  pack_number: null
+  section: DS10
+  title: Each return shows one changed detail of the body
+  status: live
+  kind: mandate
+  summary: Every time a person returns after their first-sight inventory, show one detail of what the
+    body has changed since (a new wound, weight, fatigue, cold damage, a missed shave), so the Ledger's
+    costs show.
+  verbatim: 'One changed detail each time. Every return of a person carries one detail of what the body
+    has changed since: a new wound, weight, fatigue, cold damage, a missed shave. The Ledger''s costs
+    show.'
+  amends:
+  - guide: NATALIE.md and the wotr-write skill
+    locus: 'Table Rule 11 and first introductions: returns'
+    operation: adds
+  supersedes: []
+  applies_to:
+  - prose-law
+  - scene-structure
+  verification: []
+  ratified: 'Isaac, 2026-10-03, Claude Code chat: ruled directly (the style questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: Follows R49-28-INTROS, which governs first sight (as amended by R70-54 and R70-55). Draws on
+    the Ledger.
+- id: R70-51-REPETITION_AGAINST_NOVELTY
+  pack: Style Law 2026-10-03
+  pack_number: null
+  section: DS11
+  title: Recur the signature items, and add one new subject
+  status: live
+  kind: mandate
+  summary: Keep each culture's two signature items per session, and in every scene also add one subject
+    the thread has not yet described, logging it as canon.
+  verbatim: Recur, and add one. R53-19's two signature items stay; R6-9's 'Novelty is its enemy' is rewritten
+    so every scene also adds one subject the thread has not described, logged as canon (R53-21).
+  amends:
+  - guide: Standing Inventories, NATALIE.md and the wotr-write skill
+    locus: 'Recurrence rule: ''Novelty is its enemy'''
+    operation: replaces
+  supersedes: []
+  applies_to:
+  - standing-inventory
+  - worldbuilding
+  - prose-law
+  verification: []
+  ratified: 'Isaac, 2026-10-03, Claude Code chat: ruled directly (the style questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: Rewrites the 'Novelty is its enemy' sentence of R6-9-RECURRENCE_RULE; the rest of R6-9 (Identity
+    is repetition, Inventory first, the Recurrence Ledger) and R53-19-QUOTA stand, so R6-9 is noted, not
+    superseded. New subjects are logged under R53-21-CANON_GATE. The census WARN is R70-58.
+- id: R70-52-OVERALL_DENSITY
+  pack: Style Law 2026-10-03
+  pack_number: null
+  section: DD1
+  title: Lush density stays; the blend widens subjects
+  status: live
+  kind: mandate
+  summary: Keep full sensory layering in every scene, slower and denser, and spend the blend on a wider
+    range of subjects rather than on more or less description.
+  verbatim: 'Lush throughout (current). R48-02 stands: full sensory layering in every scene, slower and
+    denser. The blend widens what is described and keeps the amount.'
+  amends:
+  - guide: NATALIE.md and the wotr-write skill
+    locus: 'Beautiful prose: density'
+    operation: extends
+  supersedes: []
+  applies_to:
+  - prose-law
+  verification: []
+  ratified: 'Isaac, 2026-10-03, Claude Code chat: ruled directly (the style questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: Confirms R48-02-DENSITY, which stands. Width comes from R70-40 to R70-45; the one exact stroke
+    for minor people is R70-54.
+- id: R70-53-WHERE_DESCRIPTION_SITS
+  pack: Style Law 2026-10-03
+  pack_number: null
+  section: DD2
+  title: Woven texture, longer passages in the lulls
+  status: live
+  kind: mandate
+  summary: Keep texture woven through every beat, and hold the longer descriptive passages for pauses,
+    silences and aftermaths so news lands bare and the room is seen in the quiet after.
+  verbatim: Woven, pooling in lulls. Texture stays woven through every beat; the longer passages are held
+    for pauses, silences and aftermaths, so the news lands bare and the room is seen in the quiet after.
+  amends:
+  - guide: NATALIE.md and the wotr-write skill
+    locus: 'Openings, endings, shape: where description sits'
+    operation: adds
+  supersedes: []
+  applies_to:
+  - prose-law
+  - scene-structure
+  verification: []
+  ratified: 'Isaac, 2026-10-03, Claude Code chat: ruled directly (the style questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: R53-30-TEXTURE_DENSITY stands. R49-25-OPENINGS is not changed here; openings are R70-15 and R70-16.
+    Works with R70-57 (the held instant in a fight).
+- id: R70-54-GETS_FULL_INVENTORY
+  pack: Style Law 2026-10-03
+  pack_number: null
+  section: DD3
+  title: Full inventory for major people and places; minor people in one stroke
+  status: live
+  kind: mandate
+  summary: Give the full first-sight inventory to major people, places, rooms, creatures and significant
+    objects, and catch a minor person in one exact stroke.
+  verbatim: Places full, minors one stroke. Major people, places, rooms, creatures and significant objects
+    get the full inventory; minor people get one exact stroke.
+  amends:
+  - guide: NATALIE.md and the wotr-write skill
+    locus: Table Rule 11 (first introductions)
+    operation: extends
+  supersedes: []
+  applies_to:
+  - prose-law
+  - scene-structure
+  verification: []
+  ratified: 'Isaac, 2026-10-03, Claude Code chat: ruled directly (the style questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: 'Partly amends R49-28-INTROS: the full inventory now reaches places, rooms, creatures and objects,
+    and minor people drop to one stroke. Order of the inventory is R70-55; returns are R70-50.'
+- id: R70-55-ORDER_FIRST_INVENTORY
+  pack: Style Law 2026-10-03
+  pack_number: null
+  section: DD4
+  title: A first inventory runs in the POV's order
+  status: live
+  kind: mandate
+  summary: Keep a first-sight inventory as one passage, but run it in the order this POV would look (a
+    clerk prices first, a surgeon reads wounds first, a rider looks at hands) instead of a fixed order.
+  verbatim: 'The POV''s order. The inventory stays one passage at first sight but runs in the order this
+    POV would look: a clerk prices first, a surgeon reads wounds first, a rider looks at hands.'
+  amends:
+  - guide: NATALIE.md and the wotr-write skill
+    locus: 'Table Rule 11: the order of the inventory'
+    operation: replaces
+  supersedes: []
+  applies_to:
+  - prose-law
+  - pov
+  - scene-structure
+  verification: []
+  ratified: 'Isaac, 2026-10-03, Claude Code chat: ruled directly (the style questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: Replaces Table Rule 11's fixed order (hair, face, body, clothing, marks); R49-28-INTROS's one
+    passage at first sight stands. Works with R70-44 and R70-54.
+- id: R70-56-CATALOGUE_TELLING_DETAIL
+  pack: Style Law 2026-10-03
+  pack_number: null
+  section: DD5
+  title: Catalogues at set occasions only
+  status: live
+  kind: mandate
+  summary: Let arming, feasts, markets, musters, treasuries and loot run as full catalogues, keep description
+    woven everywhere else, and flank a long list with short sentences so the chain ceiling still holds.
+  verbatim: Catalogue at set occasions. Arming, feasts, markets, musters, treasuries and loot may run
+    as full catalogues; elsewhere description stays woven. The chain ceiling (R4-14) still holds, so short
+    sentences flank a long list.
+  amends:
+  - guide: NATALIE.md and the wotr-write skill
+    locus: 'Description: catalogues'
+    operation: adds
+  supersedes: []
+  applies_to:
+  - prose-law
+  - scene-structure
+  - items
+  verification: []
+  ratified: 'Isaac, 2026-10-03, Claude Code chat: ruled directly (the style questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: R4-14-CHAIN_CEILING stands inside a catalogue (the other R4-14 rows are not named). R70-19 governs
+    paired and cumulative sentences in set pieces.
+- id: R70-57-DESCRIPTION_INSIDE_FIGHT
+  pack: Style Law 2026-10-03
+  pack_number: null
+  section: DD6
+  title: A fight holds still at the deciding instant
+  status: live
+  kind: mandate
+  summary: Run a fight's exchanges traced and lean, and at the deciding moment hold the page still for
+    a passage of setting before the outcome lands.
+  verbatim: Held instant, then outcome. Exchanges run traced and lean; at the deciding moment the page
+    holds still for a passage of setting before the outcome lands.
+  amends:
+  - guide: WOTR_Combat_Craft_Guide.md
+    locus: Description inside a fight
+    operation: adds
+  supersedes: []
+  applies_to:
+  - prose-law
+  - combat
+  - scene-structure
+  verification: []
+  ratified: 'Isaac, 2026-10-03, Claude Code chat: ruled directly (the style questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: R53-30-TEXTURE_DENSITY is not named here and stands. Works with R70-53 and R70-103 (a flashback
+    frozen in one exchange).
+- id: R70-58-CHECKING_RANGE
+  pack: Style Law 2026-10-03
+  pack_number: null
+  section: DD7
+  title: verify_scene census of description range, as a WARN
+  status: live
+  kind: procedure
+  summary: verify_scene WARNs, never FAILs, when a scene touches too few rotation groups or one group
+    takes more than half, and the signature-item count runs for every culture's Inventory, not only Kharven's.
+  verbatim: Census as a WARN. The census WARNs when a scene touches too few groups or one group takes
+    over half, and the signature-item count extends from Kharven to every Inventory.
+  amends:
+  - guide: Manual Verification Guide
+    locus: 'verify_scene: the description census'
+    operation: adds
+  supersedes: []
+  applies_to:
+  - verification
+  - standing-inventory
+  verification:
+  - --culture
+  ratified: 'Isaac, 2026-10-03, Claude Code chat: ruled directly (the style questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: The census is still to be built in build/verify.py; today only Kharven's signature items are
+    counted (R49-54-KHARVEN). The quota stays two per session (R53-19-QUOTA); a WARN does not block a
+    reply under R48-45-CHECKS.
+- id: R70-59-WHERE_COMPARISONS_COME_FROM
+  pack: Style Law 2026-10-03
+  pack_number: null
+  section: DT1
+  title: A culture image bank beside the POV's own life
+  status: live
+  kind: mandate
+  summary: Draw comparisons from the POV's own life by default, and let any POV of a culture use that
+    culture's eight to twelve set images, listed in its Standing Inventory, whole and unglossed.
+  verbatim: Culture image bank, always. Each Standing Inventory gains eight to twelve set images that
+    any POV of that culture may use whole, unglossed. POV-life comparisons stay the default; R49-20 relaxes
+    for the listed images.
+  amends:
+  - guide: Standing Inventories, NATALIE.md and the wotr-write skill
+    locus: Image bank (every Inventory)
+    operation: adds
+  - guide: NATALIE.md and the wotr-write skill
+    locus: Figurative language
+    operation: extends
+  supersedes: []
+  applies_to:
+  - prose-law
+  - standing-inventory
+  - register
+  verification: []
+  ratified: 'Isaac, 2026-10-03, Claude Code chat: ruled directly (the style questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: Partly amends R48-04-METAPHORS (POV-life stays the default) and relaxes R49-20-STOCK_PHRASE for
+    the listed images only. Adds a field beside R51-31-SENSE_BANK.
+- id: R70-60-COLOUR_AS_SYMBOL_PER
+  pack: Style Law 2026-10-03
+  pack_number: null
+  section: DT2
+  title: A colour code for each culture
+  status: live
+  kind: mandate
+  summary: Give each Standing Inventory a colour field saying what white, red, black and two or three
+    local colours mean there (the chartered Northern houses read heraldry), use it unglossed in narration,
+    and let two cultures read one colour two ways.
+  verbatim: 'A colour code per culture. Each Inventory gains a colour field: what white, red, black and
+    two or three local colours mean there, and the chartered Northern houses read heraldry. Narration
+    uses it unglossed; two cultures may read one colour two ways.'
+  amends:
+  - guide: Standing Inventories, NATALIE.md and the wotr-write skill
+    locus: Colour field (every Inventory)
+    operation: adds
+  supersedes: []
+  applies_to:
+  - prose-law
+  - standing-inventory
+  - worldbuilding
+  verification: []
+  ratified: 'Isaac, 2026-10-03, Claude Code chat: ruled directly (the style questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: Sits beside R51-31-SENSE_BANK's colours as seen. In a mixed room (R53-23-MIXED_ROOM) one colour
+    may carry two readings.
+- id: R70-61-SEASON_WORD_DOES
+  pack: Style Law 2026-10-03
+  pack_number: null
+  section: DT3
+  title: Season words mark time and carry a fixed mood
+  status: live
+  kind: mandate
+  summary: Let each culture's season words place time and weather in one word in narration and speech,
+    give each logged word a settled feeling, and lean the scene on that feeling without ever naming it.
+  verbatim: 'Season words carry mood. As B, and each logged word carries a settled feeling, as kigo do:
+    sap-stop means endings. The scene leans on that feeling and never names it. (Option B there reads:
+    Season words mark time. Each culture''s season words may stand in narration and speech, placing the
+    time and weather in one word. Any feeling still comes from the scene itself.)'
+  amends:
+  - guide: Standing Inventories, NATALIE.md and the wotr-write skill
+    locus: Season words (every Inventory)
+    operation: adds
+  supersedes: []
+  applies_to:
+  - prose-law
+  - standing-inventory
+  - register
+  verification: []
+  ratified: 'Isaac, 2026-10-03, Claude Code chat: ruled directly (the style questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: Works under R53-09-WEATHER (season tracked like a clock) and R51-08-CALENDAR (no Earth month
+    names), both unchanged. R70-16's season-word opening draws on the same words.
+- id: R70-62-WEATHER_LAND_AS_PERSONS
+  pack: Style Law 2026-10-03
+  pack_number: null
+  section: DT4
+  title: Weather and land may be personified at high moments
+  status: live
+  kind: mandate
+  summary: Personify weather and landscape only at mythic moments, in verse and documents, and in close
+    POV for cultures whose speech already gives the sky a will; keep everyday narration plain.
+  verbatim: Personify at high moments. R49-22 relaxes at mythic moments (R48-05), in verse and documents,
+    and in close POV for cultures whose speech already gives the sky a will. Everyday narration stays
+    plain.
+  amends:
+  - guide: NATALIE.md and the wotr-write skill
+    locus: 'Figurative language: nature'
+    operation: extends
+  supersedes: []
+  applies_to:
+  - prose-law
+  - register
+  - pov
+  verification: []
+  ratified: 'Isaac, 2026-10-03, Claude Code chat: ruled directly (the style questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: Relaxes R49-22-NATURE, which stands for everyday narration; the mythic moments are R48-05-HIGH_STYLE's.
+- id: R70-63-WEAR_AGE_AS_BEAUTY
+  pack: Style Law 2026-10-03
+  pack_number: null
+  section: DT5
+  title: Whether age is beautiful depends on the culture
+  status: live
+  kind: mandate
+  summary: State in each Standing Inventory what its people prize and despise in age, and let a POV see
+    wear, mends and age through that culture's eye, so one object may be beautiful to one guest and shameful
+    to another.
+  verbatim: Beauty, keyed by culture. Each Inventory states what its people prize in age and what they
+    despise. A Moto or Ketsuen POV may see the mend as beautiful while a Kharven guest sees a cracked
+    bowl.
+  amends:
+  - guide: Standing Inventories, NATALIE.md and the wotr-write skill
+    locus: What age is prized and despised (every Inventory)
+    operation: adds
+  supersedes: []
+  applies_to:
+  - prose-law
+  - standing-inventory
+  - pov
+  verification: []
+  ratified: 'Isaac, 2026-10-03, Claude Code chat: ruled directly (the style questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: 'Extends R6-5-MATERIAL_DENSITY_SURVIVES, which stands: wear is still described in full, and a
+    culture''s eye may find it beautiful. Gives R53-23-MIXED_ROOM a second reading of one object. Works
+    with R70-44 and R70-46.'
+- id: R70-64-VERSE_INSIDE_PROSE
+  pack: Style Law 2026-10-03
+  pack_number: null
+  section: DT6
+  title: Verse in mouths and documents, and a closing poem
+  status: live
+  kind: mandate
+  summary: Set verse apart as a quoted block when a character sings, recites or writes it or when it sits
+    in an in-world document, and let a scene or chapter close on a short poem set apart.
+  verbatim: 'Plus a closing poem. As B, and a scene or chapter may close on a short poem set apart, haibun-style.
+    R49-26''s legal endings gain the poem. (Option B there reads: In mouths and documents. Verse appears
+    when a character sings, recites or writes it, or inside an in-world document, set as a quoted block
+    the rhythm checks skip.)'
+  amends:
+  - guide: NATALIE.md and the wotr-write skill
+    locus: 'Openings, endings, shape: endings'
+    operation: extends
+  supersedes: []
+  applies_to:
+  - prose-law
+  - scene-structure
+  - documents
+  verification: []
+  ratified: 'Isaac, 2026-10-03, Claude Code chat: ruled directly (the style questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: Extends R49-26-ENDINGS with the poem. R51-28-CHANT_PAGE and R5-E-NARRATION_NEVER_ADJUDICATES
+    are not named and stand. The verse marker that keeps these blocks out of the rhythm statistics is
+    R70-136.
+- id: R70-65-SET_IDIOMS_NARRATION
+  pack: Style Law 2026-10-03
+  pack_number: null
+  section: DT7
+  title: Four-beat idioms, told once and then used bare
+  status: live
+  kind: mandate
+  summary: Give each Standing Inventory six to ten four-beat idioms, each compressing an in-world story
+    that an elder tells once on the page, and use the idiom bare in narration or speech after that.
+  verbatim: Four-beat idioms, told once. Each Inventory gains six to ten four-beat idioms, each a compressed
+    in-world story. An elder tells the story once on the page; after that the idiom is used bare, in narration
+    or speech.
+  amends:
+  - guide: Standing Inventories, NATALIE.md and the wotr-write skill
+    locus: Four-beat idioms (every Inventory)
+    operation: adds
+  supersedes: []
+  applies_to:
+  - prose-law
+  - standing-inventory
+  - dialogue
+  - register
+  verification: []
+  ratified: 'Isaac, 2026-10-03, Claude Code chat: ruled directly (the style questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: Sits beside R52-30-PROVERBS's one fixed saying per NPC, which stands. R4-13-ZERO_BUDGET is not
+    named and stands. Sayings in speech by standing are R70-109.
+- id: R70-66-NAMED_DEVICES_ADD
+  pack: Style Law 2026-10-03
+  pack_number: null
+  section: DT8
+  title: 'Three named devices: low light, the epic simile, ekphrasis'
+  status: live
+  kind: definition
+  summary: Rooms and objects may be described by how they hold low light, once per set piece a held instant
+    may carry a long comparison that grows into its own small scene and may reach beyond the POV's life,
+    and a made object may be described at length until it opens onto history or myth.
+  verbatim: 'Yes to: Tanizaki light and shadow (Rooms and objects may be described by how they hold low
+    light: lacquer, gold in the dark, oil and paper. Moto shadow and Accord draw-light become a standing
+    contrast); The epic simile (Once per set piece, a held instant may carry a long comparison that grows
+    into its own small scene, and it may reach beyond the POV''s life, an exception to R48-04 and R49-19);
+    Ekphrasis, the made object (A made object (a painted screen, a banner, an engraved gorget) may be
+    described at length until it opens onto history or myth, carrying what the narration may not say).'
+  amends:
+  - guide: NATALIE.md and the wotr-write skill
+    locus: 'Figurative language: named devices'
+    operation: adds
+  supersedes: []
+  applies_to:
+  - prose-law
+  - register
+  verification: []
+  ratified: 'Isaac, 2026-10-03, Claude Code chat: ruled directly (the style questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: The epic simile is a stated exception to R48-04-METAPHORS and R49-19-EXTENDED, which otherwise
+    stand. Moto shadow against Accord draw-light becomes a standing contrast.
+- id: R70-67-FORMS_WORLD_DOCUMENTS
+  pack: Style Law 2026-10-03
+  pack_number: null
+  section: DT9
+  title: Four new forms for in-world documents
+  status: live
+  kind: definition
+  summary: An in-world document may be a list or loose notebook, a record of the strange closed on the
+    recorder's comment, a court annal or memorial, or a Guild reference entry (bestiary, registry sheet,
+    item ledger) with every figure traced to canon.
+  verbatim: 'Yes to: Lists and loose notebooks (A document may be a list or loose notebook in the Pillow
+    Book manner, a culture''s eye compressed into entries; it moves no plot and packs world-only detail.
+    Suits the Moto and Eresse courts); Records of the strange (A document may set down a strange event
+    as plain witness and close on the recorder''s own comment, the zhiguai form; folk belief stays uncorrected
+    (R53-15). Suits Guild archives, Well reports and the lineage halls); Court annals and memorials (A
+    day-record by a court recorder the ruler may not read, as Joseon Korea kept its annals, or a memorial
+    (a set-form petition to the throne). Suits the Mahuo houses and the Moto court); Game-reference entries
+    (Bestiary entries, registry sheets and item ledgers in a Guild hand, LitRPG''s reference pages made
+    institutional, each figure traced to canon (R12-5, R57-07). Suits the Guild, the wardens and the proof-houses).'
+  amends:
+  - guide: NATALIE.md and the wotr-write skill
+    locus: 'Vocabulary and diction: in-world document house styles'
+    operation: extends
+  supersedes: []
+  applies_to:
+  - documents
+  - register
+  verification: []
+  ratified: 'Isaac, 2026-10-03, Claude Code chat: ruled directly (the style questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: Extends R51-33-DOC_REGISTER's house styles with forms. Records of the strange leave folk belief
+    uncorrected (R53-15-FOLK_BELIEFS); reference entries trace figures under R12-5-NEVER_INVENT_NUMBER
+    and R57-07-DOCUMENTS_FULLY_METAPHYSICAL. R12-4-VOICE_FOUR_DOCUMENT and R20C-37-DOCUMENTS_OWE_NOTHING
+    stand.
+- id: R70-68-INSIDE_PRACTICE
+  pack: Style Law 2026-10-03
+  pack_number: null
+  section: MY1
+  title: Practice written as a walk through the Soul Crystal
+  status: live
+  kind: mandate
+  summary: When a practitioner trains, draws or looks inward, write it as a walk through the Soul Crystal
+    layer by layer in Codex nouns, showing where the draw enters, where it pools and where it snags.
+  verbatim: 'The Crystal as inner map. Practice is written as a walk through the Soul Crystal in Codex
+    nouns, layer by layer, as cultivation maps meridians: where the draw enters, where it pools, where
+    it snags.'
+  amends:
+  - guide: NATALIE.md and the wotr-write skill
+    locus: 'WOTR metaphysics on the page: inside practice'
+    operation: adds
+  supersedes: []
+  applies_to:
+  - prose-law
+  - magic-mechanism
+  - pov
+  verification: []
+  ratified: 'Isaac, 2026-10-03, Claude Code chat: ruled directly (the style questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: Applies R13-6-WOTR_FIRST, which stands. R70-24 lets the POV's own felt word stand beside the
+    Codex noun; R48-22-LENS_NAMES and R13-6-ANIME_GRAMMAR_TRANSLATION_AID are unchanged here.
+- id: R70-69-PRESSURE_AURA
+  pack: Style Law 2026-10-03
+  pack_number: null
+  section: MY2
+  title: Pressure shows first in the room, then in bodies
+  status: live
+  kind: mandate
+  summary: Render Pressure first through the room (smoke, frost, lamp flames, the draw-hum, animals) and
+    then through bodies, leading with the room for every gap.
+  verbatim: 'Through the room first. Pressure shows first in the room: smoke, frost, lamp flames, the
+    draw-hum, animals; bodies follow. NATALIE''s ''a Band gap changes weather'' becomes the lead for every
+    gap.'
+  amends:
+  - guide: NATALIE.md and the wotr-write skill
+    locus: 'The Magic Frame: Pressure'
+    operation: extends
+  supersedes: []
+  applies_to:
+  - prose-law
+  - magic-mechanism
+  - combat
+  verification: []
+  ratified: 'Isaac, 2026-10-03, Claude Code chat: ruled directly (the style questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: Extends NATALIE's 'a Band gap changes weather' to lead every gap. R12-1-PACK_SEVEN_SURVIVORS
+    (felt before seen), R9-3-AURA_AS_FRACTURE, R9-3-EYES_AS_TELL and R10-3-PROJECTED_FORM_LICENSE are
+    not named and stand. Aimed Pressure is R70-70.
+- id: R70-70-INTENT_FELT_BODY
+  pack: Style Law 2026-10-03
+  pack_number: null
+  section: MY3
+  title: Killing intent as Pressure aimed through Dominion
+  status: live
+  kind: definition
+  summary: Killing intent is Pressure narrowed onto one man through Dominion, felt as cold, sweat and
+    the pull to step back and answered by suppression, and it is not written until its mechanism has been
+    ruled.
+  verbatim: Intent as aimed Pressure. Killing intent becomes Pressure narrowed onto one man through Dominion,
+    felt as cold, sweat and the pull to step back, and answered by suppression. It needs a ruled mechanism
+    before first use.
+  amends:
+  - guide: WOTR_Combat_Craft_Guide.md
+    locus: Killing intent
+    operation: adds
+  supersedes: []
+  applies_to:
+  - magic-mechanism
+  - combat
+  - adjudication
+  - stats
+  verification: []
+  ratified: 'Isaac, 2026-10-03, Claude Code chat: ruled directly (the style questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: The mechanism is owed before first use. R1-1-VERDICT_GRAMMAR and R12-1-PACK_SEVEN_SURVIVORS stand.
+    Builds on R70-69.
+- id: R70-71-EXPLAINING_WORKING_MID_FIGHT
+  pack: Style Law 2026-10-03
+  pack_number: null
+  section: MY4
+  title: Plant a working's rules before the fight
+  status: live
+  kind: mandate
+  summary: Plant a working's rules earlier through training, a document or talk, so a fight's explaining
+    is mostly recall and the reader does the sum with the fighter, while self-derived techniques are still
+    read live.
+  verbatim: Rules shown beforehand. A working's rules are planted earlier (training, a document, talk),
+    so the fight's explaining is mostly recall and the reader does the sum with the fighter. Self-derived
+    techniques are still read live (R12-3).
+  amends:
+  - guide: WOTR_Combat_Craft_Guide.md
+    locus: Explaining a working mid-fight
+    operation: adds
+  supersedes: []
+  applies_to:
+  - combat
+  - magic-mechanism
+  - scene-structure
+  verification: []
+  ratified: 'Isaac, 2026-10-03, Claude Code chat: ruled directly (the style questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: R12-3-NAMED_INVENTOR_RULE stands for self-derived techniques. R12-4-VOICE_MIXING_RULE (two voices
+    per engagement), R4-13-ZERO_BUDGET, R51-15-FIRST_USE and R49-43-EXPLAINING are unchanged; readouts
+    sit outside the voice cap (R70-87). Moves most of the in-fight explaining of R12-2-TECHNICAL_REGISTER_DEF
+    into recall; R70-9 is the row that rewrites R12-2.
+- id: R70-72-WATCHING_CROWD_POWER_REVEAL
+  pack: Style Law 2026-10-03
+  pack_number: null
+  section: MY5
+  title: A crowd at a power reveal speaks as a chorus in hearing
+  status: live
+  kind: mandate
+  summary: At a power reveal let the watching crowd speak in waves inside the POV's hearing (the breath,
+    the name passed along, an elder's verdict); the reaction-shot tell no longer applies to crowds.
+  verbatim: 'Spoken chorus, in hearing. At a reveal the crowd may speak in waves inside the POV''s hearing:
+    the breath, the name passed along, an elder''s verdict. R5-G''s reaction-shot tell is struck for crowds.'
+  amends:
+  - guide: WOTR_AI_Writing_Tells_to_Avoid.md
+    locus: The reaction-shot cutaway (R5-G), for crowds
+    operation: strikes
+  - guide: NATALIE.md and the wotr-write skill
+    locus: POV and interiority
+    operation: adds
+  supersedes: []
+  applies_to:
+  - prose-law
+  - pov
+  - combat
+  - verification
+  verification: []
+  ratified: 'Isaac, 2026-10-03, Claude Code chat: ruled directly (the style questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: Strikes R5-G-TELL_BANK_ADDITIONS's reaction-shot cutaway for crowds only (the same tell as
+    R5-B-MANHWA_DIRECTIVE_REPEALED's reaction shots as characterisation), one of the tell-by-tell re-rulings
+    R70-7 calls for; both rows stay live with notes, and R70-72 reaches no other case. The chorus stays
+    inside the POV's hearing, so it is no cutaway under R49-09-CUTAWAYS; marked roll calls are R70-11.
+    Sits with R53-18-AWE and R4-13-WHERE_SIGNIFICANCE_LIVES.
+- id: R70-73-MANY_DISPLAY_BEATS_PER
+  pack: Style Law 2026-10-03
+  pack_number: null
+  section: MY6
+  title: One display beat per named practitioner per scene
+  status: live
+  kind: budget
+  summary: Each named practitioner may take one power-display beat per scene, so a duel may carry two
+    and a battle several, still only at a Stage ascension, a Pressure drop, or a technique's first display
+    or finisher.
+  verbatim: One per practitioner. Each named practitioner may take one display beat per scene, so a duel
+    can carry two and a battle several. R9-3-SCOPE's list of triggers stays.
+  amends:
+  - guide: WOTR_Visual_Aesthetic_Guide.md
+    locus: 'Section 4a: the splash-panel beat cap'
+    operation: replaces
+  supersedes: []
+  applies_to:
+  - prose-law
+  - combat
+  - magic-mechanism
+  verification: []
+  ratified: 'Isaac, 2026-10-03, Claude Code chat: ruled directly (the style questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: 'Partly amends R9-3-BODY_UNDER_LOAD and R10-3-UNCHANGED_CONSTRAINTS: their one-per-scene cap
+    becomes one per named practitioner; the rendering of the body under load stands. R9-3-SCOPE stands.'
+- id: R70-74-TECHNIQUE_NAME_LOOKS
+  pack: Style Law 2026-10-03
+  pack_number: null
+  section: MY9
+  title: Numbered forms and long hall names
+  status: live
+  kind: definition
+  summary: A school's art may run as named, numbered forms called and counted as a ladder of mastery,
+    and lineage-hall and Korean-stratum arts may carry a four-syllable true name in correct Chinese or
+    Korean with a literal gloss; the bracket form inside sentences was not taken.
+  verbatim: 'Yes to: Numbered forms by school (A school''s art may run as numbered forms (First Form,
+    Second Form), each named, called and counted; mastery reads as forms held, a ladder inside the art
+    at R8-23''s form level); Long names for the halls (Lineage-hall and Korean-stratum arts may carry
+    a four-syllable true name in correct Chinese or Korean, glossed literally (R8-22); R50-11''s two-word
+    cap binds new English names only). Not taken: Brackets inside sentences.'
+  amends:
+  - guide: Naming guide and the wotr-write skill
+    locus: Techniques, arts and items
+    operation: extends
+  supersedes: []
+  applies_to:
+  - naming
+  - magic-design
+  - register
+  verification: []
+  ratified: 'Isaac, 2026-10-03, Claude Code chat: ruled directly (the style questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: Numbered forms sit at R8-23-NAME_HIERARCHY's form level; the gloss follows R8-22-LITERAL_GLOSS.
+    R50-11-LONG_NAMES's two-word cap binds new English names only, as its wording already says. R50-10-NAME_STYLE
+    and R49-48-TECH_NAMES stand.
+- id: R70-75-RITE_PAGE
+  pack: Style Law 2026-10-03
+  pack_number: null
+  section: MY7
+  title: A rite set apart as a numbered form, then performed
+  status: live
+  kind: procedure
+  summary: Set a rite on the page as a numbered in-world form in the Guild's house style, then have the
+    scene perform it, with something departing from the form.
+  verbatim: Numbered rite, set apart. The rite appears as an in-world form in the Guild's house style
+    (R51-33), numbered and set apart; the scene then performs it, and something departs from it.
+  amends:
+  - guide: NATALIE.md and the wotr-write skill
+    locus: 'WOTR metaphysics on the page: rites'
+    operation: adds
+  supersedes: []
+  applies_to:
+  - magic-mechanism
+  - documents
+  - scene-structure
+  verification: []
+  ratified: 'Isaac, 2026-10-03, Claude Code chat: ruled directly (the style questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: Gives the rite R12-6-RITUAL_SPECIFICATION specifies a page form; R12-6 stands. The departure
+    echoes R12-4-VOICE_FOUR_DOCUMENT's rule the scene then breaks. House style per R51-33-DOC_REGISTER.
+    R48-25-AWE is narrowed by R70-76.
+- id: R70-76-MUCH_WORLD_MAGIC
+  pack: Style Law 2026-10-03
+  pack_number: null
+  section: MY8
+  title: The world's magic stated as law, its reasons kept
+  status: live
+  kind: mandate
+  summary: Write what the world does by itself as stated law, with rules in the imperative, prices as
+    prices and taboos unexplained, while people's workings keep their full mechanism.
+  verbatim: 'Law stated, reasons kept. R12-2 governs what the world does and R48-25 narrows to what people
+    do: rules in the imperative, prices as prices, taboos unexplained. People''s workings keep full mechanism.'
+  amends:
+  - guide: NATALIE.md and the wotr-write skill
+    locus: 'WOTR metaphysics on the page: clarity everywhere (R48-25)'
+    operation: replaces
+  supersedes: []
+  applies_to:
+  - magic-mechanism
+  - register
+  - worldbuilding
+  verification: []
+  ratified: 'Isaac, 2026-10-03, Claude Code chat: ruled directly (the style questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: Narrows R48-25-AWE to what people do, a partial amendment, so R48-25 stays live with a note.
+    R12-2-MYSTIC_REGISTER_DEF's stated-law clause governs what the world does; R70-9 rewrites R12-2 (what
+    each register draws on) and this row carries that clause forward. R48-10-MIXING and R47-12-MYSTERY_STAYS_OPEN
+    are not named and stand.

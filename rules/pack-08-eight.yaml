@@ -421,7 +421,11 @@ rules:
     source:
       file: WOTR_Companion_Guide_Amendments_Pack_Eight.md
       lines: "92"
-    notes: null
+    notes: >-
+      Applied by R70-74-TECHNIQUE_NAME_LOOKS (style law 2026-10-03):
+      four-syllable hall names in Chinese or Korean are glossed literally
+      under this rule. Stands for technique names, as
+      R70-128-PLACES_INNS_SHIPS_GEAR says (style law 2026-10-03).
 
   - id: R8-22-BY_NAME_POETRY
     pack: Pack Eight
@@ -448,7 +452,11 @@ rules:
     source:
       file: WOTR_Companion_Guide_Amendments_Pack_Eight.md
       lines: "94"
-    notes: null
+    notes: >-
+      Stands for technique names, as R70-128-PLACES_INNS_SHIPS_GEAR says
+      (style law 2026-10-03); the short id R8-22 reaches this row and
+      R8-22-LITERAL_GLOSS. The comic folk names R70-128 allows for weapons and
+      gear do not reach a technique's by-name.
 
   - id: R8-23-NAME_HIERARCHY
     pack: Pack Eight
@@ -476,7 +484,10 @@ rules:
     source:
       file: WOTR_Companion_Guide_Amendments_Pack_Eight.md
       lines: "98"
-    notes: null
+    notes: >-
+      Extended by R70-74-TECHNIQUE_NAME_LOOKS (style law 2026-10-03): a
+      school's art may run as named, numbered forms at this rule's form level,
+      mastery read as forms held.
 
   - id: R8-24-RELEASE_MECHANIC
     pack: Pack Eight

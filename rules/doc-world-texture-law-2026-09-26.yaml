@@ -161,7 +161,8 @@ rules:
   source:
     file: ''
     lines: null
-  notes: ''
+  notes: 'Stands: R70-18-ARC_SHAPES (style law 2026-10-03) makes the Well delve a licensed arc,
+    with Well-spawn as the threat at each deeper stage.'
 - id: R53-07-PRICE_TABLE
   pack: World Texture Law 2026-09-26
   pack_number: null
@@ -186,7 +187,9 @@ rules:
   source:
     file: ''
     lines: null
-  notes: ''
+  notes: 'Extended by R70-48-MONEY_PRICE_PROVENANCE (style law 2026-10-03): every purchase,
+    wage, fee and bribe on the page names its sum from the approved table, and payment in kind
+    is named as exactly.'
 - id: R53-08-TRAVEL_RATES
   pack: World Texture Law 2026-09-26
   pack_number: null
@@ -211,7 +214,8 @@ rules:
   source:
     file: ''
     lines: null
-  notes: ''
+  notes: 'Stands, confirmed by R70-29-UNITS_MEASURE (style law 2026-10-03, current law): travel
+    figures stay with trained eyes and messengers.'
 - id: R53-09-WEATHER
   pack: World Texture Law 2026-09-26
   pack_number: null
@@ -238,7 +242,10 @@ rules:
   source:
     file: ''
     lines: null
-  notes: ''
+  notes: 'Extended by R70-49-LANDSCAPE_SKY (style law 2026-10-03): every outdoor scene also
+    gets one wide view in three planes, with the sky in it after dark; R70-41 puts seasons and
+    weather in the rotation beyond this rule''s actual weather, and R70-61 gives season words
+    a mood. This rule stands.'
 - id: R53-10-MEDICINE
   pack: World Texture Law 2026-09-26
   pack_number: null
@@ -288,7 +295,9 @@ rules:
   source:
     file: ''
     lines: null
-  notes: ''
+  notes: 'Extended by R70-45-NEW_STANDING_INVENTORY_FIELDS (style law 2026-10-03): law and punishment
+    become an Inventory field, and R70-42 puts courts and punishments in the rotation; this
+    rule stands.'
 - id: R53-12-LITERACY
   pack: World Texture Law 2026-09-26
   pack_number: null
@@ -363,7 +372,9 @@ rules:
   source:
     file: ''
     lines: null
-  notes: ''
+  notes: 'Confirmed by R70-79-CAN_READ_WHOM (style law 2026-10-03): commoners keep their folk
+    words and their awe while practitioners feel rank. Confirmed by R70-85-SCENE_MOMENTS_THAT_EARN
+    (style law 2026-10-03): Pressure gets no readout and stays felt as dread.'
 - id: R53-15-FOLK_BELIEFS
   pack: World Texture Law 2026-09-26
   pack_number: null
@@ -388,7 +399,8 @@ rules:
   source:
     file: ''
     lines: null
-  notes: ''
+  notes: 'Kept by R70-67-FORMS_WORLD_DOCUMENTS (style law 2026-10-03): a record of the strange
+    leaves folk belief uncorrected.'
 - id: R53-16-GUILD_WORDS
   pack: World Texture Law 2026-09-26
   pack_number: null
@@ -438,7 +450,11 @@ rules:
   source:
     file: ''
     lines: null
-  notes: ''
+  notes: 'Noted by R70-48-MONEY_PRICE_PROVENANCE (style law 2026-10-03): every sum that moves
+    on the page is named; money before magic stands. Read with R70-91-BREAKTHROUGH_PAGE (style
+    law 2026-10-03): a breakthrough is written from the body inside its Catalyst crisis; the
+    world-scale option (this row''s bill at scale) was not taken, and this row is unchanged
+    for any working on a main.'
 - id: R53-18-AWE
   pack: World Texture Law 2026-09-26
   pack_number: null
@@ -463,7 +479,8 @@ rules:
   source:
     file: ''
     lines: null
-  notes: ''
+  notes: 'Noted by R70-72-WATCHING_CROWD_POWER_REVEAL (style law 2026-10-03): the commoners''
+    awe may be voiced as a crowd chorus at a reveal, inside the POV''s hearing; this rule stands.'
 - id: R53-19-QUOTA
   pack: World Texture Law 2026-09-26
   pack_number: null
@@ -486,7 +503,9 @@ rules:
   source:
     file: ''
     lines: null
-  notes: ''
+  notes: 'Kept by R70-51-REPETITION_AGAINST_NOVELTY (style law 2026-10-03): ''R53-19''s two
+    signature items stay'', and each scene also adds one new subject. R70-58-CHECKING_RANGE
+    extends the signature-item count from Kharven to every Inventory.'
 - id: R53-20-MISSING_INVENTORY
   pack: World Texture Law 2026-09-26
   pack_number: null
@@ -534,7 +553,8 @@ rules:
   source:
     file: ''
     lines: null
-  notes: ''
+  notes: 'Applied by R70-51-REPETITION_AGAINST_NOVELTY (style law 2026-10-03): the one new subject
+    each scene adds is logged as canon under this rule.'
 - id: R53-22-CAUSAL_TEST
   pack: World Texture Law 2026-09-26
   pack_number: null
@@ -582,7 +602,9 @@ rules:
   source:
     file: ''
     lines: null
-  notes: ''
+  notes: 'Noted by R70-60-COLOUR_AS_SYMBOL_PER and R70-63-WEAR_AGE_AS_BEAUTY (style law 2026-10-03):
+    in a mixed room one colour or one worn object may carry each culture''s own reading; equal
+    layering stands.'
 - id: R53-24-TEXTURE_AND_MECHANISM
   pack: World Texture Law 2026-09-26
   pack_number: null
@@ -715,7 +737,10 @@ rules:
   source:
     file: ''
     lines: null
-  notes: ''
+  notes: 'Stands: R70-4-WESTERN_MODELS (style law 2026-10-03) adds Dickens and the Victorians
+    as named prose models because they fit this look. Stands; R70-120-BUILT_COMIC_NAMES (style
+    law 2026-10-03) hangs Dickensian talking surnames for Northern and Accord families on its
+    Victorian imperial register.'
 - id: R53-29-LOOK_UP
   pack: World Texture Law 2026-09-26
   pack_number: null
@@ -765,7 +790,10 @@ rules:
   source:
     file: ''
     lines: null
-  notes: ''
+  notes: 'Kept by R70-53-WHERE_DESCRIPTION_SITS (style law 2026-10-03): texture stays woven
+    through every beat, with the longer passages held for pauses, silences and aftermaths. R70-57-DESCRIPTION_INSIDE_FIGHT
+    runs a fight''s exchanges lean and holds a passage of setting at the deciding moment; it
+    does not name this rule, which stands.'
 - id: R53-31-GONE_LIST
   pack: World Texture Law 2026-09-26
   pack_number: null

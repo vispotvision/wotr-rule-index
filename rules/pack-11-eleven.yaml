@@ -37,7 +37,13 @@ rules:
     source:
       file: WOTR_Companion_Guide_Amendments_Pack_Eleven.md
       lines: "14"
-    notes: null
+    notes: >-
+      Stands: K1's "R11-1 ... rewritten" (R70-1-BLEND_MODEL) and
+      R70-7-FAR_MOVE's style pack that "supersedes ... R11-1" (style law
+      2026-10-03) reach how the page sounds (R11-1-TONAL_SPINE_UNCHANGED,
+      superseded), not how it looks. R70-4 keeps "the Draw Age's Victorian
+      look (R53-28)", and R53-28-VISUAL_REFERENCE retires the Berserk and
+      Vinland references in its own words.
 
   - id: R11-1-REPLACEMENT_REGISTER
     pack: Pack Eleven
@@ -65,7 +71,11 @@ rules:
     source:
       file: WOTR_Companion_Guide_Amendments_Pack_Eleven.md
       lines: "18"
-    notes: null
+    notes: >-
+      Stands: the style law rewrites R11-1 as to how the page sounds (R70-1,
+      R70-7; R11-1-TONAL_SPINE_UNCHANGED, superseded), not the Draw Age look;
+      R70-4-WESTERN_MODELS (style law 2026-10-03) adds Dickens and the
+      Victorians because they fit "the Draw Age's Victorian look".
 
   - id: R11-1-REFERENCE_TRIANGLE
     pack: Pack Eleven
@@ -105,7 +115,7 @@ rules:
     pack_number: 11
     section: "§1"
     title: Pack Eleven widens the look, not the sound
-    status: live
+    status: superseded
     kind: definition
     summary: >-
       Pack Five stands in full; the Western Register still governs
@@ -128,6 +138,18 @@ rules:
       Confirms Pack Five's non-register-by-culture provisions (dramatic
       irony, elegiac mode, humour, narration authority) as still governing;
       consistent with R15-4-PACK_FIVE_SCOPE, no conflict.
+      Superseded by R70-1-BLEND_MODEL (style law 2026-10-03): "R5-A, R5-E and
+      R11-1 are rewritten", and R70-7-FAR_MOVE's new style pack "supersedes
+      Pack Five's flesh sections and R11-1". Pack Five no longer stands in
+      full and the Western Register no longer governs how the page sounds.
+      Both answers reach R11-1 as to how the page sounds, which is this row;
+      the R11-1 rows on how the page looks (R11-1-NORTH_STAR_RETIRED,
+      R11-1-REPLACEMENT_REGISTER) stand. Read with R70-114-GRIMDARK_WARMTH
+      (style law 2026-10-03): each live thread carries at least one standing
+      warm bond written openly warm, and joy may get scenes of its own. Its
+      status is set by R70-1-BLEND_MODEL and R70-7-FAR_MOVE;
+      R70-135-WHERE_NEW_LAW_LIVES carries the result into NATALIE.md and new
+      guide editions.
 
   - id: R11-2-HYDROLOGY_MODEL
     pack: Pack Eleven

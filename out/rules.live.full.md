@@ -1,8 +1,8 @@
 # Live rules by domain, with source text
 
-1126 live of 1312 extracted. Newest pack first within each domain; the newer rule governs where two overlap.
+1260 live of 1450 extracted. Newest pack first within each domain; the newer rule governs where two overlap.
 
-## adjudication (63)
+## adjudication (70)
 
 ### R15-4-THIRTEEN_HAX_STRUCK [Pack Fifteen §4]
 
@@ -334,6 +334,48 @@ A Sub-Stat may not be allocated past the top of the Stage's Max Grade bracket (V
 
 > The Max Grade letter binds: a Sub-Stat may not exceed the top of the Stage's Max Grade bracket (Stage V 275, VII 400, IX 550, XI 725); the band from there up to the Stage's numeric ceiling is the flagged instability zone, reachable only under strain, never by allocation.
 
+### R70-70-INTENT_FELT_BODY [Style Law 2026-10-03 MY3]
+
+Killing intent is Pressure narrowed onto one man through Dominion, felt as cold, sweat and the pull to step back and answered by suppression, and it is not written until its mechanism has been ruled.
+
+> Intent as aimed Pressure. Killing intent becomes Pressure narrowed onto one man through Dominion, felt as cold, sweat and the pull to step back, and answered by suppression. It needs a ruled mechanism before first use.
+
+### R70-79-CAN_READ_WHOM [Style Law 2026-10-03 LR2]
+
+Every practitioner feels his own Grades and Stage and senses another's Band and rough Stage as closely as his Gnosis allows, but another's exact figures need an instrument, and commoners keep their folk words and their awe.
+
+> Practitioners feel rank. Any practitioner feels his own Grades and Stage, and another's Band and rough Stage, with Gnosis setting how close. Another's exact figures need an instrument; commoners keep their folk words and their awe.
+
+### R70-88-NUMBERS_INSIDE_FIGHT [Style Law 2026-10-03 LR11]
+
+During a fight the POV's read may name Grades and gaps as her own estimates before or between exchanges, but the page never runs a log of figures.
+
+> Grades at the read. The POV's read names Grades and gaps before or between exchanges, as estimates in her own terms; no running figures. The genre's sizing-up without a log.
+
+### R70-101-DECLARING_NAME_LINE_BEFORE [Style Law 2026-10-03 CB2]
+
+A fighter may declare his full name and line before a duel, but the recital spends the scene's one crafted speech under R48-43, and the opponent may close measure or shoot while it runs.
+
+> Full declaration, with a price. Full declarations are legal but count as the scene's crafted speech under R48-43, and the world does not wait: an opponent may close measure, or shoot, while the recital runs.
+
+### R70-102-STILLNESS_TRACED_PASSES_LONG [Style Law 2026-10-03 CB3]
+
+Write a Verdict duel as stillness then one cut, a Blade duel as traced passes and a Percussion or Expenditure duel as attrition, let practitioners escalate only while their reserve lasts, and keep unranked fighters under R60-01's fast, brutal lethality.
+
+> Shape follows the grammar. A rule ties duel shape to the four combat grammars: Verdict still then one cut, Blade traced passes, Percussion and Expenditure by attrition; practitioners escalate while reserve lasts. R60-01 holds for the unranked.
+
+### R70-104-RIVAL_BOND [Style Law 2026-10-03 CB5]
+
+A rival may come back fight after fight, but every survival must be a choice someone made and paid for on the Ledger with a debt, a scar or a witness to the mercy.
+
+> Rivals who chose to spare. A rival may recur, but each survival is a choice someone made and paid for on the Ledger: a debt, a scar, a witness to the mercy. R48-31 stands.
+
+### R70-112-FACE_FACE_SLAP [Style Law 2026-10-03 DL6]
+
+An arrogant scion may underestimate and be reversed in public while the room reassesses, but every such reversal opens a Front or a Ledger debt (a vengeful house, a witness, a feud), and the humbled man stays veteran-clever afterward.
+
+> The face-slap, with a bill. C, with a bill: every public reversal opens a Front or a Ledger debt (a vengeful house, a witness, a feud), and the humbled man stays veteran-clever afterward. (Option C there reads: The face-slap licensed. The face-slap becomes a legal payoff: an arrogant scion underestimates, the reversal is public, the room reassesses. R5-C1-WELL_REASONED_WRONG_CONCLUSION and R48-36 relax for the arrogant, who may misjudge badly.)
+
 ### R28-1-BLACK_STONES_SHALE_ANALOGUE [Voidfall Stone / Black Stones Ruling Standing Ruling]
 
 The black stones that fell across four worlds when Verinus completed the Void are Voidfall Stone, a distinct T8 material: matte, made not emplaced, and indistinguishable from Crevice Shale to Measurewright instruments at a distance. They are not Crevice Shale. Article III names Crevice Shale specifically and does not name Voidfall Stone, so Enforcement acting under Article III against the stones is acting on a misreading; write it that way. Never put the word "shale" on the narrative page of the Verinus scenes for these stones. The Crevice Shale ledger rows stand unchanged.
@@ -382,7 +424,7 @@ Isaac may take over any NPC's voice anytime by saying so; the partner hands it b
 
 > Isaac may take over any NPC's voice anytime by saying so; the partner hands it back after.
 
-## character-sheet (220)
+## character-sheet (225)
 
 ### R20C-16-SONZAI_RECORD_CARD [Pack Twenty R20C-16]
 
@@ -1515,6 +1557,36 @@ The Dissonance-gated Sub-Stats are Overflow, Overchannel and Persistence; Part S
 
 > The Sub-Stats that reach their true ceiling only through Dissonance are Overflow, Overchannel and Persistence (Part Eight and The Sixteen Stages agree); Part Sixteen's list is corrected to match.
 
+### R70-90-FAST_NUMBERS_CLIMB [Style Law 2026-10-03 LR13]
+
+A character's numbers change only for a cause the reader has seen, a Fracture of Worlds XP event on the page or training named in a downtime turn.
+
+> Event-bound. Numbers move only for a cause the reader was shown: a FOW XP event on the page, or training named in a downtime turn.
+
+### R70-98-SHEETS_CHAPTER_ARC_ENDS [Style Law 2026-10-03 LR20]
+
+Each book chapter closes, above the notes, with a short block of what moved on the sheet and why, while a roleplay turn keeps that block in its notes.
+
+> Changes at chapter end. Each chapter closes with a short block of what moved and why, above the notes; roleplay turns keep it in the notes.
+
+### R70-113-DOUBLE_ACT_COMIC_BEAT [Style Law 2026-10-03 HU1]
+
+Comic voices and double acts named as such on their cards may play full comic beats, retort and reaction included, while every other character stays under R5-D's bar on the setup, deadpan and reaction rhythm.
+
+> Full beats for comic voices. Full comic beats, retort and reaction included, belong to comic voices and double acts named on their cards; everyone else stays under R5-D.
+
+### R70-122-MAY_CARRY_ONE [Style Law 2026-10-03 NM4]
+
+Recurring minor NPCs may keep comic names across scenes and villains and rivals may carry one, a comic name on a dangerous person, while major NPCs keep strict names.
+
+> Plus villains. B, plus villains and rivals, in the Jonson and Dickens line (Volpone the fox, Uriah Heep): a comic name on a dangerous person. Major NPCs keep strict names. (Option B there reads: Plus recurring NPCs. Recurring minor NPCs (the innkeeper, the sergeant, the Guild clerk) may keep comic names across scenes. Villains and major NPCs stay strict.)
+
+### R70-126-BORIN_IRONHEART_RHYMING [Style Law 2026-10-03 NM8]
+
+Natalie invents Borin Ironheart's brothers on the shared Dawi element Rin, one called Snorin by every Common mouth, and enters them on his card's kin line only after Isaac approves the names.
+
+> Brothers, Snorin included. Natalie invents Borin's brothers on the shared Rin, one called Snorin by every Common mouth, and adds them to his card's kin line once you approve the names.
+
 ### R52-01-SAME_MAN [Voice Law 2026-09-26 How distinct voices must be]
 
 The quiet, controlled older man is the setting's taste: leave the archetype; the swap test catches clashes scene by scene.
@@ -2393,7 +2465,7 @@ Vohrin is one power at two levels, Titan and Wellspring; frost workings drawing 
 
 > Vohrin is one power at two levels, Titan and Wellspring; the four frost workings become Titan-derived, likely raising their standing and cost.
 
-## combat (90)
+## combat (111)
 
 ### R20C-22-AMMUNITION_TIERS_RATIFIED [Pack Twenty R20C-22]
 
@@ -2887,6 +2959,132 @@ Each enhanced round or arrow draws on the enhancer's reserve (wielder if channel
 
 > An enhanced round or arrow is paid for per shot and consumed when fired,
 
+### R70-3-STRAND_LEADS_LAYER [Style Law 2026-10-03 K3]
+
+Let the Eastern strand lead narration, interiority and structure, the Western strand lead combat, injury and dialogue, and LitRPG lead progression, so that the narrator is what changes most.
+
+> Eastern voice leads. Eastern leads narration, interiority and structure; Western leads combat, injury and dialogue; LitRPG leads progression. The narrator itself changes most.
+
+### R70-5-EASTERN_MODELS [Style Law 2026-10-03 K5]
+
+Draw on Jin Yong and the chapter novels for the Chinese-register halls, the Heike and the war tales for the Moto and Shirogane, Kawabata and Tanizaki for Japanese restraint, and pansori and sijo for Ketsuen, Hon-guk and the Mahuo.
+
+> Yes to: Jin Yong, chapter novels (The Chinese-register halls gain a model: named forms traced to a lineage and a manual, sect politics run like a state's, the chapter novel's storyteller and couplet chapter titles); The Heike and war tales (The Moto and Shirogane gain their tradition: the name-declaration before combat, armour catalogued piece by piece, impermanence felt at the fall of a house); Kawabata and Tanizaki (Japanese restraint gains a named model: the scene that breaks off before its point, the season in one exact detail, rooms described by how they hold light and shadow); Pansori and sijo (Ketsuen, Hon-guk and the Mahuo gain a literary voice: tempo matched to feeling, comedy inside tragedy, han (grief held for years, never released), and sijo, three-line verse that turns in its last line).
+
+### R70-15-TEMPO_STILLNESS [Style Law 2026-10-03 SP2]
+
+Run set pieces and long scenes slow, then breaking, then swift, at scene and paragraph scale; the motion opening becomes one option among several, and the hit still lands short and last.
+
+> Jo-ha-kyū tempo. Set pieces and long scenes run slow, breaking, swift at scene and paragraph scale; R49-25's motion opening becomes one option among others, and the hit still lands short and last (R48-06).
+
+### R70-28-TRADE_SCIENCE_WORDS [Style Law 2026-10-03 VB5]
+
+Narration names apparatus and workings in their exact terms by ear, keeps an untrained POV's own body and his reading of the scene in plain words, and still meets Check 30's floor.
+
+> As now, mixed. Narration names apparatus and workings exactly by ear; an untrained POV's own body and his reading of the scene stay plain. Check 30's floor holds.
+
+### R70-57-DESCRIPTION_INSIDE_FIGHT [Style Law 2026-10-03 DD6]
+
+Run a fight's exchanges traced and lean, and at the deciding moment hold the page still for a passage of setting before the outcome lands.
+
+> Held instant, then outcome. Exchanges run traced and lean; at the deciding moment the page holds still for a passage of setting before the outcome lands.
+
+### R70-69-PRESSURE_AURA [Style Law 2026-10-03 MY2]
+
+Render Pressure first through the room (smoke, frost, lamp flames, the draw-hum, animals) and then through bodies, leading with the room for every gap.
+
+> Through the room first. Pressure shows first in the room: smoke, frost, lamp flames, the draw-hum, animals; bodies follow. NATALIE's 'a Band gap changes weather' becomes the lead for every gap.
+
+### R70-70-INTENT_FELT_BODY [Style Law 2026-10-03 MY3]
+
+Killing intent is Pressure narrowed onto one man through Dominion, felt as cold, sweat and the pull to step back and answered by suppression, and it is not written until its mechanism has been ruled.
+
+> Intent as aimed Pressure. Killing intent becomes Pressure narrowed onto one man through Dominion, felt as cold, sweat and the pull to step back, and answered by suppression. It needs a ruled mechanism before first use.
+
+### R70-71-EXPLAINING_WORKING_MID_FIGHT [Style Law 2026-10-03 MY4]
+
+Plant a working's rules earlier through training, a document or talk, so a fight's explaining is mostly recall and the reader does the sum with the fighter, while self-derived techniques are still read live.
+
+> Rules shown beforehand. A working's rules are planted earlier (training, a document, talk), so the fight's explaining is mostly recall and the reader does the sum with the fighter. Self-derived techniques are still read live (R12-3).
+
+### R70-72-WATCHING_CROWD_POWER_REVEAL [Style Law 2026-10-03 MY5]
+
+At a power reveal let the watching crowd speak in waves inside the POV's hearing (the breath, the name passed along, an elder's verdict); the reaction-shot tell no longer applies to crowds.
+
+> Spoken chorus, in hearing. At a reveal the crowd may speak in waves inside the POV's hearing: the breath, the name passed along, an elder's verdict. R5-G's reaction-shot tell is struck for crowds.
+
+### R70-73-MANY_DISPLAY_BEATS_PER [Style Law 2026-10-03 MY6]
+
+Each named practitioner may take one power-display beat per scene, so a duel may carry two and a battle several, still only at a Stage ascension, a Pressure drop, or a technique's first display or finisher.
+
+> One per practitioner. Each named practitioner may take one display beat per scene, so a duel can carry two and a battle several. R9-3-SCOPE's list of triggers stays.
+
+### R70-85-SCENE_MOMENTS_THAT_EARN [Style Law 2026-10-03 LR8]
+
+Inside a scene a readout may come from an appraisal of a person, beast or item, a surgeon's diagnostic line on a wound, or a reserve line after a working, but never from Pressure.
+
+> Yes to: Appraisal (Reading a person, beast or item: the Measurewright at the rail, the coil at the counter, a faculty. The genre's appraisal in WOTR's hands); A wound (A diagnostic line in a surgeon's terms: the structure struck, the ATLS class, the minutes left. Brida's 'third bowl' as a readout); Essence spent (A reserve line after a working: what was drawn and what is left. R60-03's hard reserve clock made visible). Not taken: Pressure.
+
+### R70-88-NUMBERS_INSIDE_FIGHT [Style Law 2026-10-03 LR11]
+
+During a fight the POV's read may name Grades and gaps as her own estimates before or between exchanges, but the page never runs a log of figures.
+
+> Grades at the read. The POV's read names Grades and gaps before or between exchanges, as estimates in her own terms; no running figures. The genre's sizing-up without a log.
+
+### R70-89-BODY_FIRST_NUMBER_FIRST [Style Law 2026-10-03 LR12]
+
+When a cost or a gain lands, the body shows it first and the readout follows a line later in the same beat, both on the page together.
+
+> Body, then number. The body first and the readout in the same beat, a line after. Both on the page together, with the body always ahead.
+
+### R70-91-BREAKTHROUGH_PAGE [Style Law 2026-10-03 LR23]
+
+A Stage breakthrough is written from the body inside the danger that is its Catalyst, and its readout line lands only as the danger breaks and the Catalyst completes, never in the middle of an exchange.
+
+> In the crisis, line after. It happens inside the danger that is its Catalyst, written from the body; the line lands as the danger breaks and the Catalyst completes, never mid-exchange (LR11). R9-3's splash beat goes to the crisis.
+
+### R70-100-MARTIAL_VOCABULARY_NAMES_MOVES [Style Law 2026-10-03 CB1]
+
+Narration names every move of a duel in the fencing vocabulary the POV himself trained in (kesa-giri for a Moto POV, Zornhau for a Greymane POV), and a foreign school's term reaches the page only in a character's mouth.
+
+> By the POV's own school. Narration names every move in the POV's own training (a Moto POV calls a diagonal cut kesa-giri, a Greymane POV a Zornhau); a foreign school's word arrives in a mouth. verify takes per-school lists.
+
+### R70-101-DECLARING_NAME_LINE_BEFORE [Style Law 2026-10-03 CB2]
+
+A fighter may declare his full name and line before a duel, but the recital spends the scene's one crafted speech under R48-43, and the opponent may close measure or shoot while it runs.
+
+> Full declaration, with a price. Full declarations are legal but count as the scene's crafted speech under R48-43, and the world does not wait: an opponent may close measure, or shoot, while the recital runs.
+
+### R70-102-STILLNESS_TRACED_PASSES_LONG [Style Law 2026-10-03 CB3]
+
+Write a Verdict duel as stillness then one cut, a Blade duel as traced passes and a Percussion or Expenditure duel as attrition, let practitioners escalate only while their reserve lasts, and keep unranked fighters under R60-01's fast, brutal lethality.
+
+> Shape follows the grammar. A rule ties duel shape to the four combat grammars: Verdict still then one cut, Blade traced passes, Percussion and Expenditure by attrition; practitioners escalate while reserve lasts. R60-01 holds for the unranked.
+
+### R70-103-MEMORY_INSIDE_FIGHT [Style Law 2026-10-03 CB4]
+
+Once per fight the POV may freeze one turning exchange for a full flashback of his own, a page or more, and the opponent's past reaches the page only through what the POV knows.
+
+> Full flashback, POV only. The POV may take a full flashback, a page or more, frozen inside one turning exchange, once per fight. The POV lock holds; the opponent's past reaches the page only through what the POV knows.
+
+### R70-104-RIVAL_BOND [Style Law 2026-10-03 CB5]
+
+A rival may come back fight after fight, but every survival must be a choice someone made and paid for on the Ledger with a debt, a scar or a witness to the mercy.
+
+> Rivals who chose to spare. A rival may recur, but each survival is a choice someone made and paid for on the Ledger: a debt, a scar, a witness to the mercy. R48-31 stands.
+
+### R70-105-JOINS_WOUND_WHEN_FIGHT [Style Law 2026-10-03 CB6]
+
+After a death by the blade, add the killing rites when the killer is Japonic, Korean or Chinese and an elegiac image when the POV's culture mourns that way, on top of the full clinical floor.
+
+> Rites and image, by culture. Both, keyed to culture: Japonic, Korean and Chinese killers carry the rites; the elegiac image belongs to any POV whose culture mourns that way. The clinical floor holds everywhere.
+
+### R70-136-NEW_CHECKS_VERIFY_SCENE [Style Law 2026-10-03 ME2]
+
+verify --combat takes a school (blade, japanese, chinese, korean, percussion) or reads the culture tag and warns only when a fight carries none of that school's terms; a marked verse block is left out of the rhythm statistics and word count but still read for dashes and hard bans; translated web-novel formulas WARN in narration and log an info line in speech.
+
+> Yes to: Combat words by school (verify --combat takes a school (blade, japanese, chinese, korean, percussion) or reads the culture tag, and warns only when a fight carries none of that school's terms); A verse marker (A marked verse block (a poem, a lament, a declaration in lines) is left out of the rhythm statistics and word count; the dash and hard-ban checks still read it); Stock-formula watch (A WARN on translated web-novel formulas (you court death, this junior, this old man, lose face) in narration, and an info line in speech, so the flavour stays where DL2 puts it). Not taken: Address check.
+
 ### R55-7-HARMONIC_IMMUNITY_BY_STAGE [System Accounts Questionnaire 2026-09-26 Harmonic Null-Ascension; Celestial Harmonic Shear; Celestial Decree; Obelisk]
 
 Anyone at the caster's Stage or higher is immune to these harmonic workings.
@@ -2935,7 +3133,7 @@ Every duel ends with a full aftermath beat: wounds dressed, what changed between
 
 > Every duel ends with a full aftermath beat: wounds dressed, what changed between people.
 
-## dialogue (150)
+## dialogue (168)
 
 ### R20C-36-CLEARLY_WINS [Pack Twenty R20C-36]
 
@@ -3098,12 +3296,6 @@ Pack Thirteen §6's ban on a character saying "hax" is struck; a character may s
 Memory entries thirteen, fourteen, twenty-nine and thirty (accent calibration, phonetic markers, Racial Voice guide, elevated vocabulary) are superseded as mandates and retained only as available technique; flagged for the memory sweep.
 
 > Memory entries thirteen, fourteen, twenty-nine, thirty (accent calibration, phonetic markers, Racial Voice guide, elevated vocabulary): superseded as mandates; retained as available technique. Flag for the memory sweep.
-
-### R14-4-SUBSTAT_DIAGNOSTIC_ONLY [Pack Fourteen §4]
-
-Sub-Stat names are the finest grain the system has, and only a faculty reading reaches for them; nobody else does.
-
-> Sub-Stat names are diagnostic-only. They are the finest grain the system has and they are exactly the words a faculty reading uses. Nobody else reaches for them.
 
 ### R12-4-VOICE_MIXING_RULE [Pack Twelve §4]
 
@@ -3404,6 +3596,120 @@ Any Host line that could appear on a temple wall has failed; if it scans as a ma
 All three registers are originations contradicting no existing lore (none existed); if any culture has established speech in an unreached document, these are overridden by it.
 
 > All three are originations and none contradicts existing lore, because no lore existed. If any of these cultures has established speech in a document I did not reach, these are overridden by it and I would rather be told than have it discovered in prose.
+
+### R70-3-STRAND_LEADS_LAYER [Style Law 2026-10-03 K3]
+
+Let the Eastern strand lead narration, interiority and structure, the Western strand lead combat, injury and dialogue, and LitRPG lead progression, so that the narrator is what changes most.
+
+> Eastern voice leads. Eastern leads narration, interiority and structure; Western leads combat, injury and dialogue; LitRPG leads progression. The narrator itself changes most.
+
+### R70-22-SOUND_WORDS [Style Law 2026-10-03 RH4]
+
+Each culture may carry a few native sound and state words in speech and close narration, entered in its Inventory and never set in italics.
+
+> Each culture's own words. Each culture may carry a few native sound and state words in speech and close narration, entered in its Inventory and never italic (R49-49). Moto and Korean-register houses gain most.
+
+### R70-65-SET_IDIOMS_NARRATION [Style Law 2026-10-03 DT7]
+
+Give each Standing Inventory six to ten four-beat idioms, each compressing an in-world story that an elder tells once on the page, and use the idiom bare in narration or speech after that.
+
+> Four-beat idioms, told once. Each Inventory gains six to ten four-beat idioms, each a compressed in-world story. An elder tells the story once on the page; after that the idiom is used bare, in narration or speech.
+
+### R70-87-READOUTS_TWO_VOICE_CAP [Style Law 2026-10-03 LR10]
+
+A readout states figures and explains nothing, so it never counts toward the two explaining voices an engagement may carry.
+
+> Outside the cap. A readout states figures and explains nothing, so it never counts; two voices still do the explaining, and the reader checks the call against the figures.
+
+### R70-93-BUILD_TALK_DIALOGUE [Style Law 2026-10-03 LR15]
+
+Any ranked practitioner may speak his own and others' figures exactly and argue builds in dialogue, as in Unbound, while commoners still round.
+
+> Ranked practitioners too. Any ranked practitioner talks his own and others' numbers exactly and argues builds, as in Unbound; commoners still round. R52-05 widens.
+
+### R70-94-GAMER_SLANG [Style Law 2026-10-03 LR16]
+
+Gamer slang such as min-max, dump stat, aggro and cooldown may appear in a mouth whose voice would carry it but never in narration, and the checker watches narration for it.
+
+> Speech, by ear. Current law: gamer slang in a mouth whose voice would carry it; narration stays timeless. verify_scene adds these words to its narration watch-list.
+
+### R70-101-DECLARING_NAME_LINE_BEFORE [Style Law 2026-10-03 CB2]
+
+A fighter may declare his full name and line before a duel, but the recital spends the scene's one crafted speech under R48-43, and the opponent may close measure or shoot while it runs.
+
+> Full declaration, with a price. Full declarations are legal but count as the scene's crafted speech under R48-43, and the world does not wait: an opponent may close measure, or shoot, while the recital runs.
+
+### R70-107-SPEECH_LEVELS_ADDRESS_KOREAN [Style Law 2026-10-03 DL1]
+
+Korean speakers use their own address words (-ssi, -nim, sunbae) and Chinese speakers theirs (shifu, shixiong, qianbei), romanised and never italic, and any shift in speech level is written as an event the room hears.
+
+> Native words and level shifts. Native address words as in B, and level shifts written as events as in C. R23-10-CHINESE_PHONOTACTICS still bars stacked honorifics inside names. (Option B there reads: Native address words. R51-21 extends: Korean speakers use their own address words (-ssi, polite; -nim, honoured; sunbae), Chinese theirs (shifu, shixiong, qianbei, an elder of another school), romanised and never italic.) (Option C there reads: Levels carried in English. No foreign address words beyond the Japonic houses; speech levels live in English grammar (bare orders against full courteous forms), and a shift of level is written as an event the room hears.)
+
+### R70-108-EASTERN_REGISTER_SPEECH_SOUNDS [Style Law 2026-10-03 DL2]
+
+Chinese and Korean speakers talk natural English in daily speech and shift into translated forms (humble self-reference, set formulas, word-for-word idioms) only at ceremony, challenge, oath, court and insult, where the shift itself is a beat.
+
+> Translated forms for ceremony. Natural English in daily talk; the translated forms (self-reference, set formulas, idioms word for word) come out at ceremony, challenge, oath, court and insult, where the shift into them is itself a beat.
+
+### R70-109-PROVERBS_SPEECH [Style Law 2026-10-03 DL3]
+
+Elders, headmen and court speakers carry several fixed sayings and may argue in them at bargain, quarrel and council, a saying answered by a saying, while the young speak plain and a youth who quotes above his years is put down for it.
+
+> Duels, by age and standing. B, keyed to standing: elders, headmen and court speakers argue in sayings; the young speak plain, and a youth who quotes above his years is put down for it. (Option B there reads: Proverb duels. NPCs carry several fixed sayings and may argue in them at bargain, quarrel and council, a saying answered by a saying. R52-30's 'one' becomes 'several'.)
+
+### R70-110-VERSE_EXCHANGED_TALK [Style Law 2026-10-03 DL4]
+
+At rites and in court the Moto court, Eresse, the Mahuo houses and the lineage halls may offer and answer verse, a weak or plain answer costing face; Northern English and Norse-register speakers may trade alliterative insult verse (flyting); each culture's verse form is entered in its Inventory.
+
+> Each culture its own contest. B, plus the north's own form: Northern English and Norse-register speakers may answer in alliterative insult verse (flyting). Each culture's verse form is entered in its Inventory. (Option B there reads: Courtly cultures trade verse. The Moto court, Eresse, the Mahuo houses and the lineage halls may offer and answer verse at rites and in court; a weak answer, or a plain one, costs face.)
+
+### R70-111-LONG_FORMAL_SPEECH_CLIPPED [Style Law 2026-10-03 DL5]
+
+Court cultures (the Moto court, the Accord chancery, the Mahuo houses, the lineage halls) argue in long formal speeches at court as their normal register, Kharven, saga and soldier speech stays short, and R48-43's one-speech cap holds everywhere outside court.
+
+> Long speech at court. Court cultures (the Moto court, the Accord chancery, the Mahuo houses, the lineage halls) argue in long formal speeches as their normal register; Kharven, saga and soldier speech stay short. R48-43's cap holds outside court.
+
+### R70-112-FACE_FACE_SLAP [Style Law 2026-10-03 DL6]
+
+An arrogant scion may underestimate and be reversed in public while the room reassesses, but every such reversal opens a Front or a Ledger debt (a vengeful house, a witness, a feud), and the humbled man stays veteran-clever afterward.
+
+> The face-slap, with a bill. C, with a bill: every public reversal opens a Front or a Ledger debt (a vengeful house, a witness, a feud), and the humbled man stays veteran-clever afterward. (Option C there reads: The face-slap licensed. The face-slap becomes a legal payoff: an arrogant scion underestimates, the reversal is public, the room reassesses. R5-C1-WELL_REASONED_WRONG_CONCLUSION and R48-36 relax for the arrogant, who may misjudge badly.)
+
+### R70-113-DOUBLE_ACT_COMIC_BEAT [Style Law 2026-10-03 HU1]
+
+Comic voices and double acts named as such on their cards may play full comic beats, retort and reaction included, while every other character stays under R5-D's bar on the setup, deadpan and reaction rhythm.
+
+> Full beats for comic voices. Full comic beats, retort and reaction included, belong to comic voices and double acts named on their cards; everyone else stays under R5-D.
+
+### R70-115-TEARS_SENTIMENT [Style Law 2026-10-03 HU3]
+
+A guarded character's restraint holds through the big moment and gives way fully and openly at a small, unexpected thing, once per character per arc.
+
+> Break at a small thing. A rule adds the delayed break: restraint holds through the big moment and gives way, fully and openly, at a small unexpected thing. Once per character per arc.
+
+### R70-117-SOBRIQUETS_HALL_TITLES [Style Law 2026-10-03 NE1]
+
+Criers, crowds, ballads and enemies may hang lesser names on any notable fighter, most fading and the one that sticks becoming the Third Name, and the lineage halls may stack titles (Hall Master, Elder, Senior Brother, first disciple) in formal address.
+
+> Sobriquets and title ladders. B and C together: sobriquets spread by use, and the halls stack their titles in formal address. R23-10 holds for given names only. (Option B there reads: Sobriquets in common use. Criers, crowds, ballads and enemies may hang lesser names on any notable fighter; most fade, and the one that sticks becomes the Third Name. Your characters' names still stick only if you keep them.) (Option C there reads: Hall title ladders. The lineage halls run a full title ladder (Hall Master, Elder, Senior Brother, first disciple) that may stack in formal address; R23-10's bans lift for titles and hold for given names.)
+
+### R70-121-GROWN_COMIC_NAMES [Style Law 2026-10-03 NM3]
+
+Let comic names grow from use: comrades' deed and body nicknames, names bent by a foreign mouth and spelled as heard, names funny for their noise inside a people's sound rules, and cheap or ugly names given so that death passes a child over.
+
+> Yes to: Soldiers' nicknames (Deed and body bynames from comrades, literal or ironic, the way Abercrombie's Logen Ninefingers counts his missing finger. Peers coin them, so the joke belongs to the characters); Mangled names (A name or phrase bent by a foreign mouth and written as heard, a real mishearing every time (R20-4). Canon already does it: the Dawi say Porin, and Common mouths make it Borin); Sound comedy (Names funny for their noise: hard k sounds, doubled syllables, a goblin mouth's extra consonants. Built inside each people's own sound rules, and most at home among the goblinoids); Protective ugly names (A child given a cheap or ugly name so death passes it over, as Chinese and Korean families did; R23-5 already allows a name given 'as an insult or a shield'. Comic to outsiders, grim at home).
+
+### R70-130-WALK_ONS_WITH_COMIC [Style Law 2026-10-03 NM12]
+
+A walk-on may be named at once only by a nickname someone else says, the narration keeps calling him by his role until R50-27 is met, and a walk-on named for a joke does not die in that scene.
+
+> Nickname in a mouth. A walk-on may be named at once only by a nickname in someone else's mouth; the narration keeps the role until R50-27 is met. A walk-on named for a joke does not die in that scene.
+
+### R70-136-NEW_CHECKS_VERIFY_SCENE [Style Law 2026-10-03 ME2]
+
+verify --combat takes a school (blade, japanese, chinese, korean, percussion) or reads the culture tag and warns only when a fight carries none of that school's terms; a marked verse block is left out of the rhythm statistics and word count but still read for dashes and hard bans; translated web-novel formulas WARN in narration and log an info line in speech.
+
+> Yes to: Combat words by school (verify --combat takes a school (blade, japanese, chinese, korean, percussion) or reads the culture tag, and warns only when a fight carries none of that school's terms); A verse marker (A marked verse block (a poem, a lament, a declaration in lines) is left out of the rhythm statistics and word count; the dash and hard-ban checks still read it); Stock-formula watch (A WARN on translated web-novel formulas (you court death, this junior, this old man, lose face) in narration, and an info line in speech, so the flavour stays where DL2 puts it). Not taken: Address check.
 
 ### R51-01-TIMELESS [Vocabulary Law 2026-09-26 Vocabulary and diction]
 
@@ -3837,7 +4143,7 @@ Narration refers to characters by POV epithets, the way the viewpoint sees them;
 
 > Narration refers to characters by POV epithets, the way the viewpoint sees them; the naming characterises.
 
-## documents (99)
+## documents (119)
 
 ### R20C-3-SWEEP_TWO_TIERS [Pack Twenty R20C-3]
 
@@ -4433,7 +4739,127 @@ Isaac's direction of 2026-09-12 overtakes the two pending rows that kept the pac
 
 > Superseded by Isaac's direction of 2026-09-12 to fold the packs into dated base-guide editions ("yes — start folding the packs in now"); eleven guides are folded, the remaining six follow the same way.
 
-## items (66)
+### R70-8-JOBS_STYLE_GOVERNS [Style Law 2026-10-03 K8]
+
+Apply the blend in full, readouts included, to roleplay turns, written scenes, books and in-world documents alike, with documents keeping their institution's house style inside it.
+
+> All four alike. One style law; every job takes the blend in full, readouts included. Documents keep their institution's house style inside it.
+
+### R70-12-FIRST_PERSON [Style Law 2026-10-03 VO3]
+
+Narrate roleplay turns, written scenes and books in third person; first person belongs only to in-world documents.
+
+> Third person only. Third person becomes law for turns, scenes and books; first person stays in documents. Rotating POVs and the lock stay easy.
+
+### R70-16-OPENING_MODES [Style Law 2026-10-03 SP3]
+
+Beside the senses and motion, a scene may open far to near (a long view closing plane by plane on the person), on one culture's season word that fixes time and mood, or on a register entry, readout or document that the scene then tests.
+
+> Yes to: Far to near (Arrivals may open on a long view that moves in, plane by plane, to the person, as Chinese landscape painting does. Feeds the archive's thin landscape); Season word (An opening may fix time and mood with one culture's season word (Ward-Lighting, the Thin Weeks, Ice-out) instead of a mood statement; each Inventory's Time field becomes a season list); A reading or document (A scene may open on a register entry, readout or document that the scene then tests (R12-4's threshold voice), as Lord of the Mysteries and LitRPG chapters do). Not taken: Image linked by mood.
+
+### R70-23-CHAPTER_HEADS [Style Law 2026-10-03 RH5]
+
+A book chapter may be headed by a matched couplet naming its two main events, by a short in-world document in its institution's house style that the chapter then tests, or by a short verse in a culture's own form, which verify reads as verse outside the rhythm statistics.
+
+> Yes to: Couplet title (A book chapter may be headed by a matched couplet naming its two main events; the table of contents reads as a poem and a promise); In-world epigraph (A chapter may open on a short in-world document (case-book, register, proverb, letter) in its institution's house style (R51-33), which the chapter then tests (R12-4)); Verse header (A chapter may open on a short verse in a culture's own form (a Kharven riding-song, a Korean sijo), and verify checks it as verse, outside the rhythm statistics).
+
+### R70-25-FOREIGN_WORDS_PAGE [Style Law 2026-10-03 VB2]
+
+A native or borrowed word sits plain in the sentence, with no italics and no explaining phrase, and each book carries a glossary at the back while the wiki keeps a terms page.
+
+> Context plus a glossary. Prose as in A, plus a glossary at the back of each book and a terms page on the wiki. The page stays clean, and LitRPG readers get the reference they expect. (Option A there reads: Plain, context only. Current law. No italics and no explaining phrase; the scene carries the meaning. Immersive and quick, and now and then a reader guesses wrong for a page.)
+
+### R70-26-LEARNED_TONGUES_BESIDE_LATIN [Style Law 2026-10-03 VB3]
+
+Each learned culture may carry tags in its own learned tongue as the Accord carries Latin (hanmun for Korean-stratum scholars, kanbun readings in Moto records, wenyan in the lineage halls), every tag real, romanised and checked.
+
+> A learned tongue each. Hanmun tags for Korean-stratum scholars, kanbun readings in Moto records, wenyan in the lineage halls, Latin for the Accord, each real and romanised (R50-01, R50-31). Every learned culture gets weight; every tag needs checking.
+
+### R70-64-VERSE_INSIDE_PROSE [Style Law 2026-10-03 DT6]
+
+Set verse apart as a quoted block when a character sings, recites or writes it or when it sits in an in-world document, and let a scene or chapter close on a short poem set apart.
+
+> Plus a closing poem. As B, and a scene or chapter may close on a short poem set apart, haibun-style. R49-26's legal endings gain the poem. (Option B there reads: In mouths and documents. Verse appears when a character sings, recites or writes it, or inside an in-world document, set as a quoted block the rhythm checks skip.)
+
+### R70-67-FORMS_WORLD_DOCUMENTS [Style Law 2026-10-03 DT9]
+
+An in-world document may be a list or loose notebook, a record of the strange closed on the recorder's comment, a court annal or memorial, or a Guild reference entry (bestiary, registry sheet, item ledger) with every figure traced to canon.
+
+> Yes to: Lists and loose notebooks (A document may be a list or loose notebook in the Pillow Book manner, a culture's eye compressed into entries; it moves no plot and packs world-only detail. Suits the Moto and Eresse courts); Records of the strange (A document may set down a strange event as plain witness and close on the recorder's own comment, the zhiguai form; folk belief stays uncorrected (R53-15). Suits Guild archives, Well reports and the lineage halls); Court annals and memorials (A day-record by a court recorder the ruler may not read, as Joseon Korea kept its annals, or a memorial (a set-form petition to the throne). Suits the Mahuo houses and the Moto court); Game-reference entries (Bestiary entries, registry sheets and item ledgers in a Guild hand, LitRPG's reference pages made institutional, each figure traced to canon (R12-5, R57-07). Suits the Guild, the wardens and the proof-houses).
+
+### R70-75-RITE_PAGE [Style Law 2026-10-03 MY7]
+
+Set a rite on the page as a numbered in-world form in the Guild's house style, then have the scene perform it, with something departing from the form.
+
+> Numbered rite, set apart. The rite appears as an in-world form in the Guild's house style (R51-33), numbered and set apart; the scene then performs it, and something departs from it.
+
+### R70-77-INSTRUMENT_CAN_SHOW [Style Law 2026-10-03 LR1]
+
+Assay coils may stamp their figures on a paper tape or punch them on a card, like a ticker or tabulator, and any set-off readout block on the page is written as that tape in the instrument's own type.
+
+> Printing instruments. Assay coils stamp a paper tape or punch a card, as a ticker or tabulator does, so a set-off block on the page is that tape, in the instrument's own type.
+
+### R70-80-READOUT_SITS_PAGE [Style Law 2026-10-03 LR3]
+
+Figures sit inline in ordinary sentences by default, and a set-off readout block appears only at a re-assay that changes something, a breakthrough or the end of an arc.
+
+> Inline, blocks at milestones. Figures inline by default; a set-off block only at a re-assay that moves something, a breakthrough or an arc's end. Blocks become events, rare enough to land.
+
+### R70-81-VOICE_READOUT [Style Law 2026-10-03 LR4]
+
+Readout text stays clinical and carries no humour; any wit belongs to the clerk's or Measurewright's note beside it.
+
+> Clinical, wit in margins. The instrument stays clinical, and any wit lives in the clerk's or Measurewright's note beside it. Humour stays in a person, never in the readout, and R5-D stands.
+
+### R70-82-NUMERALS_LADDER_RUNGS [Style Law 2026-10-03 LR5]
+
+Stages and Bands may carry their Roman numeral beside the name, as Fracture of Worlds writes them ('Stage V, Splintering'), while Tiers of Standing and item Tiers are still written by name alone.
+
+> Numeral beside name. 'Stage V, Splintering' and 'Band II, Awakened', as FOW writes them. Tiers of Standing and item Tiers keep their names alone. R47-7 is amended.
+
+### R70-85-SCENE_MOMENTS_THAT_EARN [Style Law 2026-10-03 LR8]
+
+Inside a scene a readout may come from an appraisal of a person, beast or item, a surgeon's diagnostic line on a wound, or a reserve line after a working, but never from Pressure.
+
+> Yes to: Appraisal (Reading a person, beast or item: the Measurewright at the rail, the coil at the counter, a faculty. The genre's appraisal in WOTR's hands); A wound (A diagnostic line in a surgeon's terms: the structure struck, the ATLS class, the minutes left. Brida's 'third bowl' as a readout); Essence spent (A reserve line after a working: what was drawn and what is left. R60-03's hard reserve clock made visible). Not taken: Pressure.
+
+### R70-92-CONFIRMING_NEW_STAGE [Style Law 2026-10-03 LR14]
+
+A new Stage is confirmed at a re-assay held as a rite before witnesses, read aloud and entered on the Reckoner's roll.
+
+> A public re-assay. The re-assay is a rite before witnesses, read aloud and entered on the Reckoner's roll: the sect's ranking ceremony, in WOTR's institutions.
+
+### R70-95-ITEM_CARDS [Style Law 2026-10-03 LR17]
+
+An item may get one set-off card at purchase or appraisal giving its Tier, Latin form, Grade band, maker, stamp, price and a line of lore, and that card is never printed again.
+
+> Item card, once. A set-off card at purchase or appraisal: Tier, Latin form, Grade band, maker, stamp, price, one line of lore. Once per item, never reprinted.
+
+### R70-97-QUESTS_CONTRACTS [Style Law 2026-10-03 LR19]
+
+Quests take the form of Guild and Crown contracts posted with terms, pay and the clearance register, and every hook offered at the table states its reward and penalty.
+
+> Contract boards. Guild and Crown contracts posted with terms, pay and the clearance register: the quest board as a Draw Age notice. Hooks gain a stated reward and penalty.
+
+### R70-99-NUMBER_NOT_YET_CANON [Style Law 2026-10-03 LR21]
+
+When a readout needs a figure canon does not give, it prints an estimate with the instrument's own hedge, such as a range or a stated uncertainty, and the author notes log it as an estimate.
+
+> Print the estimate, marked. The readout prints the figure with the instrument's own hedge (a range, 'uncertain past the third place'), and the notes log it as estimate.
+
+### R70-135-WHERE_NEW_LAW_LIVES [Style Law 2026-10-03 ME1]
+
+Log the style law as one dated rule doc, rewrite NATALIE.md's models line and Prose Standards to it, and issue new editions of the Master Style Directive, Combat Craft Guide, Dialogue Craft Standards and Scene Writing Process Guide so no companion document still teaches the old law.
+
+> A, plus new guide editions. A, then new editions of the Master Style Directive, Combat Craft Guide, Dialogue Craft Standards and Scene Writing Process Guide, so no companion document still teaches the old law. (Option A there reads: Rule doc and NATALIE rewrite. One dated Style Law doc logged through log_ruling; NATALIE.md's models line and Prose Standards rewritten to it; R5-A-FLESH_CHANGES, R5-E-MARTIN_WINS_RULING and R11-1 superseded or amended as K1 decides.)
+
+### R70-137-ARCHIVED_SCENES [Style Law 2026-10-03 ME3]
+
+Leave every archived scene as written and add a law-edition column to scenes/MANIFEST.md so the drafting tools and scene_recall stop treating old-style scenes as precedent.
+
+> Leave them, tag the edition. The archive stays untouched, and scenes/MANIFEST.md gains a law-edition column so the drafting tools and scene_recall stop treating old style as precedent.
+
+## items (72)
 
 ### R20C-22-AMMUNITION_TIERS_RATIFIED [Pack Twenty R20C-22]
 
@@ -4813,6 +5239,42 @@ Each enhanced round or arrow draws on the enhancer's reserve (wielder if channel
 
 > An enhanced round or arrow is paid for per shot and consumed when fired,
 
+### R70-48-MONEY_PRICE_PROVENANCE [Style Law 2026-10-03 DS12]
+
+Name the sum of every purchase, wage, fee and bribe on the page in the culture's money from the approved price table (payment in kind named as exactly), and describe a notable object through who made, carried, mended and died with it, with Tier and price kept off unless asked.
+
+> Yes to: Price whenever money moves (Every purchase, wage, fee and bribe on the page names its sum in the culture's money, quoted from the approved price table; north of the arrays, payment in kind is named as exactly); Its life and lineage (A notable object is described through who made, carried, mended and died with it, the way a famous tea bowl keeps its line of owners; Tier and price stay off unless asked). Not taken: Appraisal by a trained eye.
+
+### R70-56-CATALOGUE_TELLING_DETAIL [Style Law 2026-10-03 DD5]
+
+Let arming, feasts, markets, musters, treasuries and loot run as full catalogues, keep description woven everywhere else, and flank a long list with short sentences so the chain ceiling still holds.
+
+> Catalogue at set occasions. Arming, feasts, markets, musters, treasuries and loot may run as full catalogues; elsewhere description stays woven. The chain ceiling (R4-14) still holds, so short sentences flank a long list.
+
+### R70-82-NUMERALS_LADDER_RUNGS [Style Law 2026-10-03 LR5]
+
+Stages and Bands may carry their Roman numeral beside the name, as Fracture of Worlds writes them ('Stage V, Splintering'), while Tiers of Standing and item Tiers are still written by name alone.
+
+> Numeral beside name. 'Stage V, Splintering' and 'Band II, Awakened', as FOW writes them. Tiers of Standing and item Tiers keep their names alone. R47-7 is amended.
+
+### R70-95-ITEM_CARDS [Style Law 2026-10-03 LR17]
+
+An item may get one set-off card at purchase or appraisal giving its Tier, Latin form, Grade band, maker, stamp, price and a line of lore, and that card is never printed again.
+
+> Item card, once. A set-off card at purchase or appraisal: Tier, Latin form, Grade band, maker, stamp, price, one line of lore. Once per item, never reprinted.
+
+### R70-96-TITLES_ACHIEVEMENTS [Style Law 2026-10-03 LR18]
+
+Besides Third Names, the Guild may enter a commendation on a practitioner's registration and strike its mark on his token, which carries legal and social weight but changes no stat.
+
+> Guild commendations. The Guild may also enter a commendation on a registration and strike its mark on the token: legal and social weight, no stat effect. Third Names carry on as now.
+
+### R70-128-PLACES_INNS_SHIPS_GEAR [Style Law 2026-10-03 NM10]
+
+Inns, taverns and shops, the commons' streets, fords and districts, vessels, sledge-teams, draw-engines and gun-carriages, and weapons and gear may carry comic folk names beside their official or true names, while the Accord's Latin place name and an item's true name stay grave and technique names keep their own law.
+
+> Yes to: Inns, taverns and shops (Signboards and their regulars' nicknames carry the joke, in every culture's towns); Streets and places (The commons' names for streets, fords and districts sit beside the official ones, one per culture (R50-22). The Accord's Latin name stays grave); Ships, sledges and engines (Crews' names for vessels, sledge-teams, draw-engines and gun-carriages, beside whatever the registry wrote); Weapons and items (Weapons and gear take soldiers' folk names beside their true names (R50-13): the true name in the maker's tongue stays grave, and the folk name may joke. Technique names keep R50-11 and R8-22).
+
 ### R28-1-BLACK_STONES_SHALE_ANALOGUE [Voidfall Stone / Black Stones Ruling Standing Ruling]
 
 The black stones that fell across four worlds when Verinus completed the Void are Voidfall Stone, a distinct T8 material: matte, made not emplaced, and indistinguishable from Crevice Shale to Measurewright instruments at a distance. They are not Crevice Shale. Article III names Crevice Shale specifically and does not name Voidfall Stone, so Enforcement acting under Article III against the stones is acting on a misreading; write it that way. Never put the word "shale" on the narrative page of the Verinus scenes for these stones. The Crevice Shale ledger rows stand unchanged.
@@ -4831,7 +5293,7 @@ A Witnessed-Tempered piece inherits a scaled-down Ancestral Dominion Frame: ever
 
 > If the piece changes hands outside the terms of the oath, its accrued memory does not transfer. This is not the Dawi's Crystal-Coherence self-punishment, a cost paid by the oath-breaker's own soul; it is closer to the Weight of the Blood, where failure feels ancestral rather than personal. The object simply stops recognizing the new holder as a party the law was made for. In the worst documented cases, Physical Plane Authority's "hold shape" reverses for that bearer alone, and the piece becomes more failure-prone in their hands than an ordinary equivalent.
 
-## magic-design (111)
+## magic-design (112)
 
 ### R20C-28-PHENOMENON_BANK_CANDIDATES [Pack Twenty R20C-28]
 
@@ -5445,6 +5907,12 @@ The lettered Coherence Band gives way to the Tier of Standing everywhere.
 
 > The retired lettered Coherence Band is replaced, wherever it survives outside the Magic System pages, by the Tier of Standing for the page's Stage, and η is kept as written.
 
+### R70-74-TECHNIQUE_NAME_LOOKS [Style Law 2026-10-03 MY9]
+
+A school's art may run as named, numbered forms called and counted as a ladder of mastery, and lineage-hall and Korean-stratum arts may carry a four-syllable true name in correct Chinese or Korean with a literal gloss; the bracket form inside sentences was not taken.
+
+> Yes to: Numbered forms by school (A school's art may run as numbered forms (First Form, Second Form), each named, called and counted; mastery reads as forms held, a ladder inside the art at R8-23's form level); Long names for the halls (Lineage-hall and Korean-stratum arts may carry a four-syllable true name in correct Chinese or Korean, glossed literally (R8-22); R50-11's two-word cap binds new English names only). Not taken: Brackets inside sentences.
+
 ### R55-1-SUBSTANCE_COSTS_PERMANENT [System Accounts Questionnaire 2026-09-26 Dirge Ascension; Final Mercy; Imprinta]
 
 A cost paid in Crystal mass, memory or Essence Core is permanent and cumulative, with a hard lifetime limit.
@@ -5499,7 +5967,7 @@ The Phenomenon Bank becomes a growing library: every researched phenomenon (and 
 
 > The Phenomenon Bank becomes a growing library: every researched phenomenon (and pseudoscientific idea) is added for future workings and players to draw from.
 
-## magic-mechanism (189)
+## magic-mechanism (203)
 
 ### R20C-17-SITES_RECHARGE_UNHELPFULLY [Pack Twenty R20C-17]
 
@@ -6542,6 +7010,90 @@ Each enhanced round or arrow draws on the enhancer's reserve (wielder if channel
 
 > An enhanced round or arrow is paid for per shot and consumed when fired,
 
+### R70-2-LITRPG_WOTR_BECOMES [Style Law 2026-10-03 K2]
+
+Treat WOTR as full LitRPG: a practitioner sees his own readouts on the page (a screen at a reading, a notice at a level, a breakthrough or a cost), and every figure in them traces to the sheet.
+
+> Full LitRPG, screens. Practitioners see their own readouts: a screen at a reading, a notice at a level, a breakthrough or a cost. Where the screens come from in the world is LR22's call; every figure traces to the sheet (R12-5).
+
+### R70-9-TECHNICAL_MYSTIC_REGISTERS [Style Law 2026-10-03 K9]
+
+Draw the Technical register on LitRPG and wuxia (numbers, named forms, the read) and the Mystic on Japanese and Chinese literary craft and the gothic (law, the half-seen), and keep mixing the two freely by ear.
+
+> Strands mapped to registers. R12-2 is rewritten: the Technical register draws on LitRPG and wuxia (numbers, named forms, the read); the Mystic on Japanese and Chinese literary craft and the gothic (law, the half-seen). R48-10's free mixing stays.
+
+### R70-24-EASTERN_CONCEPT_WORDS_NARRATION [Style Law 2026-10-03 VB1]
+
+In narration an Eastern loanword names what the body feels and the WOTR noun names what a gauge or the Guild measures, the two side by side in the same POV's narration.
+
+> Felt word, measured word. The loanword names what the body feels; the WOTR noun names what a gauge or the Guild measures, in the same POV's narration. The Eastern inside and the LitRPG outside sit side by side.
+
+### R70-28-TRADE_SCIENCE_WORDS [Style Law 2026-10-03 VB5]
+
+Narration names apparatus and workings in their exact terms by ear, keeps an untrained POV's own body and his reading of the scene in plain words, and still meets Check 30's floor.
+
+> As now, mixed. Narration names apparatus and workings exactly by ear; an untrained POV's own body and his reading of the scene stay plain. Check 30's floor holds.
+
+### R70-68-INSIDE_PRACTICE [Style Law 2026-10-03 MY1]
+
+When a practitioner trains, draws or looks inward, write it as a walk through the Soul Crystal layer by layer in Codex nouns, showing where the draw enters, where it pools and where it snags.
+
+> The Crystal as inner map. Practice is written as a walk through the Soul Crystal in Codex nouns, layer by layer, as cultivation maps meridians: where the draw enters, where it pools, where it snags.
+
+### R70-69-PRESSURE_AURA [Style Law 2026-10-03 MY2]
+
+Render Pressure first through the room (smoke, frost, lamp flames, the draw-hum, animals) and then through bodies, leading with the room for every gap.
+
+> Through the room first. Pressure shows first in the room: smoke, frost, lamp flames, the draw-hum, animals; bodies follow. NATALIE's 'a Band gap changes weather' becomes the lead for every gap.
+
+### R70-70-INTENT_FELT_BODY [Style Law 2026-10-03 MY3]
+
+Killing intent is Pressure narrowed onto one man through Dominion, felt as cold, sweat and the pull to step back and answered by suppression, and it is not written until its mechanism has been ruled.
+
+> Intent as aimed Pressure. Killing intent becomes Pressure narrowed onto one man through Dominion, felt as cold, sweat and the pull to step back, and answered by suppression. It needs a ruled mechanism before first use.
+
+### R70-71-EXPLAINING_WORKING_MID_FIGHT [Style Law 2026-10-03 MY4]
+
+Plant a working's rules earlier through training, a document or talk, so a fight's explaining is mostly recall and the reader does the sum with the fighter, while self-derived techniques are still read live.
+
+> Rules shown beforehand. A working's rules are planted earlier (training, a document, talk), so the fight's explaining is mostly recall and the reader does the sum with the fighter. Self-derived techniques are still read live (R12-3).
+
+### R70-73-MANY_DISPLAY_BEATS_PER [Style Law 2026-10-03 MY6]
+
+Each named practitioner may take one power-display beat per scene, so a duel may carry two and a battle several, still only at a Stage ascension, a Pressure drop, or a technique's first display or finisher.
+
+> One per practitioner. Each named practitioner may take one display beat per scene, so a duel can carry two and a battle several. R9-3-SCOPE's list of triggers stays.
+
+### R70-75-RITE_PAGE [Style Law 2026-10-03 MY7]
+
+Set a rite on the page as a numbered in-world form in the Guild's house style, then have the scene perform it, with something departing from the form.
+
+> Numbered rite, set apart. The rite appears as an in-world form in the Guild's house style (R51-33), numbered and set apart; the scene then performs it, and something departs from it.
+
+### R70-76-MUCH_WORLD_MAGIC [Style Law 2026-10-03 MY8]
+
+Write what the world does by itself as stated law, with rules in the imperative, prices as prices and taboos unexplained, while people's workings keep their full mechanism.
+
+> Law stated, reasons kept. R12-2 governs what the world does and R48-25 narrows to what people do: rules in the imperative, prices as prices, taboos unexplained. People's workings keep full mechanism.
+
+### R70-78-WHERE_SCREEN_COMES_FROM [Style Law 2026-10-03 LR22]
+
+A practitioner sees his own figures as plain, voiceless lines read in his Soul Crystal at thresholds, exact and limited to his own sheet, never showing wounds or anyone else, while instruments read everyone else.
+
+> Read in the Crystal. The bearer reads his own Soul Crystal as plain, voiceless lines at thresholds: his own sheet only, exact, and blind to wounds and to others. Small new canon; instruments still read everyone else.
+
+### R70-87-READOUTS_TWO_VOICE_CAP [Style Law 2026-10-03 LR10]
+
+A readout states figures and explains nothing, so it never counts toward the two explaining voices an engagement may carry.
+
+> Outside the cap. A readout states figures and explains nothing, so it never counts; two voices still do the explaining, and the reader checks the call against the figures.
+
+### R70-91-BREAKTHROUGH_PAGE [Style Law 2026-10-03 LR23]
+
+A Stage breakthrough is written from the body inside the danger that is its Catalyst, and its readout line lands only as the danger breaks and the Catalyst completes, never in the middle of an exchange.
+
+> In the crisis, line after. It happens inside the danger that is its Catalyst, written from the body; the line lands as the danger breaks and the Catalyst completes, never mid-exchange (LR11). R9-3's splash beat goes to the crisis.
+
 ### R55-1-SUBSTANCE_COSTS_PERMANENT [System Accounts Questionnaire 2026-09-26 Dirge Ascension; Final Mercy; Imprinta]
 
 A cost paid in Crystal mass, memory or Essence Core is permanent and cumulative, with a hard lifetime limit.
@@ -6638,7 +7190,7 @@ Yasoshima's Essence stability is not natural. For two hundred thousand years Hou
 
 > It is stable because House Yuno has spent two hundred thousand years making it a drain. Every fracture, every fanning-out of chaotic Essence that the rest of the four quarters absorbs and calls weather — the ordinary drift that keeps Measurewrights employed everywhere else in the world — the Kagura branch has been quietly gathering to itself and metabolising, one convergence rite at a time, through the deepest reach of Tōbō no Michi. Yasoshima does not merely tolerate Essence better than anywhere else. It is where a portion of the world's disorder goes to stop being disorder.
 
-## mass-combat (44)
+## mass-combat (46)
 
 ### R3-8-NAVAL_SENSORY_HIERARCHY [Pack Three Amendment Eight §12]
 
@@ -6904,7 +7456,19 @@ Wounds in mass-combat scenes are written with the same anatomy as a duel.
 
 > Yes: mass-combat scenes must still carry duel-level wound anatomy.
 
-## naming (167)
+### R70-11-WIDE_VIEW [Style Law 2026-10-03 VO2]
+
+In battles and crowds, a scene may run a marked roll call of one line inside each of several heads and then return to the POV lock.
+
+> Sweep with marked dips. Battles and crowds may run a marked roll call: one line inside each of several heads, then the lock resumes. R1-3's name-three rule exempts roll-call lines, and R39-7 gains rules for them.
+
+### R70-106-BATTLE_TOLD [Style Law 2026-10-03 CB7]
+
+Tell a formation battle in POV-locked sections that cut, at marked breaks, between a commander on the hill and one man in the press, with R1-3's three heads covering both.
+
+> Hill and ditch, cut. A battle cuts between the commander's hill and one man in the press at marked breaks, each section POV-locked; the breaks stand in for the guide's rule to 'pass through Line'. R1-3's three heads cover both.
+
+## naming (189)
 
 ### R20C-1-BURI_DEAD_EVERYWHERE [Pack Twenty R20C-1]
 
@@ -7890,6 +8454,138 @@ Fleshshaper Goblin register is governed by the fact that they are surgeons who t
 
 > The governing principle: they are surgeons, and they talk like surgeons who have never been told to be squeamish about it.
 
+### R70-26-LEARNED_TONGUES_BESIDE_LATIN [Style Law 2026-10-03 VB3]
+
+Each learned culture may carry tags in its own learned tongue as the Accord carries Latin (hanmun for Korean-stratum scholars, kanbun readings in Moto records, wenyan in the lineage halls), every tag real, romanised and checked.
+
+> A learned tongue each. Hanmun tags for Korean-stratum scholars, kanbun readings in Moto records, wenyan in the lineage halls, Latin for the Accord, each real and romanised (R50-01, R50-31). Every learned culture gets weight; every tag needs checking.
+
+### R70-32-NEW_WORDS_KIND_MANY [Style Law 2026-10-03 VB9]
+
+A new thing gets an English compound if it is common, the owning culture's native word if a culture owns it, and a capitalised label if it belongs to the system or an instrument, with no cap per scene and every coinage logged.
+
+> All three, by owner. English compounds for common things, a culture's native word where that culture owns the thing, capitalised labels for system and instrument things; no cap, all logged (R50-28). The blend in one rule.
+
+### R70-33-WORD_BANK_PER_CULTURE [Style Law 2026-10-03 VB10]
+
+Every Standing Inventory gains a Words entry listing native words, trade terms, slang and address forms, each with its meaning and who says it, and scenes draw from it first.
+
+> A Words entry everywhere. Every Inventory gains a Words entry: native words, trade terms, slang and address forms, each with meaning and who says it. Scenes draw from it first; a checker can spell-check against it.
+
+### R70-74-TECHNIQUE_NAME_LOOKS [Style Law 2026-10-03 MY9]
+
+A school's art may run as named, numbered forms called and counted as a ladder of mastery, and lineage-hall and Korean-stratum arts may carry a four-syllable true name in correct Chinese or Korean with a literal gloss; the bracket form inside sentences was not taken.
+
+> Yes to: Numbered forms by school (A school's art may run as numbered forms (First Form, Second Form), each named, called and counted; mastery reads as forms held, a ladder inside the art at R8-23's form level); Long names for the halls (Lineage-hall and Korean-stratum arts may carry a four-syllable true name in correct Chinese or Korean, glossed literally (R8-22); R50-11's two-word cap binds new English names only). Not taken: Brackets inside sentences.
+
+### R70-96-TITLES_ACHIEVEMENTS [Style Law 2026-10-03 LR18]
+
+Besides Third Names, the Guild may enter a commendation on a practitioner's registration and strike its mark on his token, which carries legal and social weight but changes no stat.
+
+> Guild commendations. The Guild may also enter a commendation on a registration and strike its mark on the token: legal and social weight, no stat effect. Third Names carry on as now.
+
+### R70-107-SPEECH_LEVELS_ADDRESS_KOREAN [Style Law 2026-10-03 DL1]
+
+Korean speakers use their own address words (-ssi, -nim, sunbae) and Chinese speakers theirs (shifu, shixiong, qianbei), romanised and never italic, and any shift in speech level is written as an event the room hears.
+
+> Native words and level shifts. Native address words as in B, and level shifts written as events as in C. R23-10-CHINESE_PHONOTACTICS still bars stacked honorifics inside names. (Option B there reads: Native address words. R51-21 extends: Korean speakers use their own address words (-ssi, polite; -nim, honoured; sunbae), Chinese theirs (shifu, shixiong, qianbei, an elder of another school), romanised and never italic.) (Option C there reads: Levels carried in English. No foreign address words beyond the Japonic houses; speech levels live in English grammar (bare orders against full courteous forms), and a shift of level is written as an event the room hears.)
+
+### R70-117-SOBRIQUETS_HALL_TITLES [Style Law 2026-10-03 NE1]
+
+Criers, crowds, ballads and enemies may hang lesser names on any notable fighter, most fading and the one that sticks becoming the Third Name, and the lineage halls may stack titles (Hall Master, Elder, Senior Brother, first disciple) in formal address.
+
+> Sobriquets and title ladders. B and C together: sobriquets spread by use, and the halls stack their titles in formal address. R23-10 holds for given names only. (Option B there reads: Sobriquets in common use. Criers, crowds, ballads and enemies may hang lesser names on any notable fighter; most fade, and the one that sticks becomes the Third Name. Your characters' names still stick only if you keep them.) (Option C there reads: Hall title ladders. The lineage halls run a full title ladder (Hall Master, Elder, Senior Brother, first disciple) that may stack in formal address; R23-10's bans lift for titles and hold for given names.)
+
+### R70-118-HONORIFICS_NARRATION [Style Law 2026-10-03 NE2]
+
+A close POV from a culture with honorifics carries them into narration as he would think them (Kaname-sama, Seo-nim), never italic, while a Western POV in the same room narrates plain names.
+
+> The POV's own honorific. A close POV from a culture with honorifics carries them into narration (Kaname-sama, Seo-nim) as he would think them, never italic; a Western POV in the same room uses plain names.
+
+### R70-119-MUCH_POOL_COMIC [Style Law 2026-10-03 NM1]
+
+Comic bynames and nicknames are the norm in musters, crews, taverns and markets and thin out above the commons, as high as R70-122 lets them reach.
+
+> Most commons and soldiers. Comic bynames and nicknames become the norm in musters, crews, taverns and markets. Above the commons they thin out, and NM4 sets how high they reach.
+
+### R70-120-BUILT_COMIC_NAMES [Style Law 2026-10-03 NM2]
+
+Build comic names as rhyming or alliterating sets among kin, crews and sworn pairs inside each culture's sound rules, as Dickensian talking surnames for Northern and Accord families, and as plausible puns built from words the Draw Age owns, never from a brand, celebrity or modern-world reference.
+
+> Yes to: Rhyming and alliterating sets (Kin, crews and sworn pairs share a name-part and change the sound, Borin and Snorin style, inside each culture's own sound rules. A set meeting is a beat (R50-17)); Dickensian talking surnames (Surnames that tell a trade or a nature one notch past believable, as Gradgrind did: the Victorian imperial register R53-28 already sets, for Northern and Accord families); Plausible puns, Pratchett-style (Surnames that pass for real ones, with the pun underneath or turned against the bearer. Built from words the Draw Age owns, so no brand, celebrity or modern-world reference). Not taken: Phrase and sentence names.
+
+### R70-121-GROWN_COMIC_NAMES [Style Law 2026-10-03 NM3]
+
+Let comic names grow from use: comrades' deed and body nicknames, names bent by a foreign mouth and spelled as heard, names funny for their noise inside a people's sound rules, and cheap or ugly names given so that death passes a child over.
+
+> Yes to: Soldiers' nicknames (Deed and body bynames from comrades, literal or ironic, the way Abercrombie's Logen Ninefingers counts his missing finger. Peers coin them, so the joke belongs to the characters); Mangled names (A name or phrase bent by a foreign mouth and written as heard, a real mishearing every time (R20-4). Canon already does it: the Dawi say Porin, and Common mouths make it Borin); Sound comedy (Names funny for their noise: hard k sounds, doubled syllables, a goblin mouth's extra consonants. Built inside each people's own sound rules, and most at home among the goblinoids); Protective ugly names (A child given a cheap or ugly name so death passes it over, as Chinese and Korean families did; R23-5 already allows a name given 'as an insult or a shield'. Comic to outsiders, grim at home).
+
+### R70-122-MAY_CARRY_ONE [Style Law 2026-10-03 NM4]
+
+Recurring minor NPCs may keep comic names across scenes and villains and rivals may carry one, a comic name on a dangerous person, while major NPCs keep strict names.
+
+> Plus villains. B, plus villains and rivals, in the Jonson and Dickens line (Volpone the fox, Uriah Heep): a comic name on a dangerous person. Major NPCs keep strict names. (Option B there reads: Plus recurring NPCs. Recurring minor NPCs (the innkeeper, the sergeant, the Guild clerk) may keep comic names across scenes. Villains and major NPCs stay strict.)
+
+### R70-123-WHOSE_EAR_HEARS_JOKE [Style Law 2026-10-03 NM5]
+
+An English pun in a name is legal only where the world supplies a bridge (a Common mouth, a byname rendered in English, a Common ear mishearing), and a pun hidden in a foreign name for the reader alone stays out.
+
+> English puns with a bridge. An English pun is legal where the world supplies a bridge: a Common mouth, a byname rendered in English, or a Common ear mishearing. Reader-only puns hidden in a foreign name stay out.
+
+### R70-124-PEOPLES_WEST_NORTH [Style Law 2026-10-03 NM6]
+
+The Dawi joke in rhyming sets, English-rendered deed bynames and outsiders' mangling with given names kept bank-built; the Kharven and Far-Northern in scarcity-insult bynames, protective cheap names and Accord roll-names, never on the recently dead; the Accord and Northern commons in talking and phrase surnames, rhyming pet names, soldiers' bynames and correct Latin; the goblinoids in sound comedy and bynames whose cause nobody remembers.
+
+> Yes to: The Dawi (Rhyming sets on a shared bank element, deed bynames rendered in English, and outsiders' mangling. Given names stay bank-built; the joke lives in sets, bynames and other people's mouths); Kharven and Far-Northern (Bynames from the Kharven stock of scarcity insults, protective cheap names, and roll-names (surnames an Accord clerk assigned). No joke on the name of the recently dead (R23-11)); Accord and Northern commons (The richest home: talking and phrase surnames, rhyming pet names (Hob and Dob), soldiers' bynames, and Accord jokes in correct Latin (R50-12)); Goblinoid peoples (Sound comedy, and bynames whose cause nobody remembers, so a dreaded name can arrive with no story behind it).
+
+### R70-125-PEOPLES_EASTERN_STRATA [Style Law 2026-10-03 NM7]
+
+Japonic retainers and servants take calling-names from real Japanese trait-words and sound puns glossed once by a character; servants and rival Lines coin comic bynames for new bloodline cadets behind their backs, given names untouched; Mahuo names may chime through the generation syllable onto a real Korean word and children may carry ugly milk-names; the lineage halls run mocked studio names, insulting posthumous names, cheap child-names and spoken homophone puns, never a joke that needs a written character.
+
+> Yes to: Retainers and household staff (Retainers and servants of the Japonic houses take calling-names from real Japanese trait-words, and sound puns on real words, glossed once by a character); Bloodline cadets, bynames only (Servants and rival Lines coin comic bynames for new cadets of the archaic houses, behind their backs; given names stay under R40-1. No carded Moto is touched, Sodoku least of all, and no Büri form returns); The Mahuo (Korean-register names chime through the generation syllable (one syllable every cousin of a generation shares) and can land on a real Korean word; children may carry ugly milk-names. Real Korean only (R50-01)); The Chinese lineage halls (Self-awarded studio names (a scholar's chosen art-name, which other houses mock), insulting posthumous names, cheap child-names and spoken homophone puns. Nothing that needs a written character to land).
+
+### R70-126-BORIN_IRONHEART_RHYMING [Style Law 2026-10-03 NM8]
+
+Natalie invents Borin Ironheart's brothers on the shared Dawi element Rin, one called Snorin by every Common mouth, and enters them on his card's kin line only after Isaac approves the names.
+
+> Brothers, Snorin included. Natalie invents Borin's brothers on the shared Rin, one called Snorin by every Common mouth, and adds them to his card's kin line once you approve the names.
+
+### R70-127-COMIC_NAME_GRIM_END [Style Law 2026-10-03 NM9]
+
+When someone with a comic name dies badly, someone says the comic name at the death so the joke becomes the wound, and among the Kharven the name then goes unspoken until it is given on.
+
+> The name turns to grief. Someone says the comic name at the death and the joke becomes the wound. Among the Kharven the name then goes unspoken until it is given on (R23-11).
+
+### R70-128-PLACES_INNS_SHIPS_GEAR [Style Law 2026-10-03 NM10]
+
+Inns, taverns and shops, the commons' streets, fords and districts, vessels, sledge-teams, draw-engines and gun-carriages, and weapons and gear may carry comic folk names beside their official or true names, while the Accord's Latin place name and an item's true name stay grave and technique names keep their own law.
+
+> Yes to: Inns, taverns and shops (Signboards and their regulars' nicknames carry the joke, in every culture's towns); Streets and places (The commons' names for streets, fords and districts sit beside the official ones, one per culture (R50-22). The Accord's Latin name stays grave); Ships, sledges and engines (Crews' names for vessels, sledge-teams, draw-engines and gun-carriages, beside whatever the registry wrote); Weapons and items (Weapons and gear take soldiers' folk names beside their true names (R50-13): the true name in the maker's tongue stays grave, and the folk name may joke. Technique names keep R50-11 and R8-22).
+
+### R70-129-NOTICES_JOKE [Style Law 2026-10-03 NM11]
+
+The POV may register a name's joke in his own head and idiom, as he would think it, but the narrator outside him never remarks on it.
+
+> Close POV may notice. The POV's own head may register the joke in his own idiom, as he would think it. The narrator outside him never remarks, so R5-C1 stands.
+
+### R70-130-WALK_ONS_WITH_COMIC [Style Law 2026-10-03 NM12]
+
+A walk-on may be named at once only by a nickname someone else says, the narration keeps calling him by his role until R50-27 is met, and a walk-on named for a joke does not die in that scene.
+
+> Nickname in a mouth. A walk-on may be named at once only by a nickname in someone else's mouth; the narration keeps the role until R50-27 is met. A walk-on named for a joke does not die in that scene.
+
+### R70-131-COMIC_NAMES_GET_MADE [Style Law 2026-10-03 NM13]
+
+Each Standing Inventory gains a comic-name list of bynames, nicknames, rhyming sets and signboards in that culture's sound rules, and Natalie may coin comic names live, each passed at scene end as an outlier if it keeps its culture's sound rules and flagged if it breaks them.
+
+> Yes to: A comic bank per culture (Each Standing Inventory (the per-culture texture file) gains a comic-name list of bynames, nicknames, rhyming sets and signboards, built in that culture's sound rules); By ear, sound-checked (Natalie coins comic names live; the scene-end check passes each as an outlier (R50-18) so long as it keeps its culture's sound rules, and flags any that break them). Not taken: A floor per crowd scene, A pitch list per session.
+
+### R70-132-FAR_NAMING_LAW_BENDS [Style Law 2026-10-03 NM14]
+
+Amend only the naming rows the comic-name answers bend, each in one line naming its answer (R50-30 for the sound check, R50-27 for walk-on nicknames), and give each culture's naming rows a clause pointing to its comic bank in its Standing Inventory so load_rules serves the bank with the law; banks and sound rules otherwise stand.
+
+> Banks gain comic slots. B, plus each culture's naming rows gain a comic-names clause pointing to that culture's comic bank in its Standing Inventory, so load_rules serves the bank with the law. (Option B there reads: Narrow amendments. Only the rows your answers above bend are amended, each in one line naming its answer: R50-30 for the sound check, R50-27 only if NM12 opens walk-ons. Banks and sound rules stand.)
+
 ### R33-1-ZETTARI_AGANO_SAND_WITNESSED_TEMPER [Zettari Forge Culture Ruling Standing Ruling]
 
 The Zettari forge culture answers "what makes a thing trustworthy?" with witness and inheritance, not time: a Zettari-forged object is declared reliable once, before a witness older than the speaker, and the bloodline's Material Covenant Resonance holds the declaration in place. The substrate is Agano Sand ("covenant", Swahili-derived, inside the Zettari's own register), a working measure of the Paths' sand -- condensed lineage memory -- folded into the quench. It is access-gated rather than time-gated: it must come from, or through, someone the Paths already recognize. The rite is the Witnessed Temper, a Vow Clause working and not new magic: at the quench the smith or the sovereign the piece is for speaks a bound claim over the object before a Stone Witness (a ruin, an ancestral hall, a Path-linked relic), and the claim becomes a standing law the object runs. Write it as witnessed law, set against the Dawi's brewed endurance; the cross-culture parallel slot is deliberately left open.
@@ -7908,7 +8604,7 @@ The Zettari bloodline's names, titles and technique names are built in a Swahili
 
 > The Zettari speak their own tongue. Their names and their arts are Swahili, Bantu and Arabic in flavour — Kafa-Karim, Habl Flow-Bind, Sarmad Fracture, Sukun Maji, Dawam Soul-Still Art, Kumi-na-Mbili Seal; Zuberi, Ma'Kovu, N'Kharu, Malani, Jomari, N'Yari, Zembari — and that register stands. The five-strata naming convention assigns the archaic bloodlines to the Japonic stratum; the Zettari are carved out of it as a register of their own, and the Japonic assignment continues to govern every other archaic line. Ruled by Isaac, 2026-09-12.
 
-## pov (97)
+## pov (132)
 
 ### R20C-49-GLOSS_RIGHTS_CARD_FIELD [Pack Twenty R20C-49]
 
@@ -8035,12 +8731,6 @@ No line acknowledges that the reader knows better than the POV.
 Free indirect discourse's per-character register licence is raised to a per-culture one: proposed narration registers include Dawi (stressed monosyllables, concrete nouns, sentence-level distrust of abstraction), Eresse (subordination, latinate diction, periodic sentences), Concord human (the house baseline), and Moto (to be built, highest-priority gap).
 
 > The extension raises it from a per-character instruction to a per-culture one. Proposed narration registers, to be built out per culture as POVs arrive: - Dawi POV. Stressed monosyllables, short clauses, concrete nouns, tools named by their proper names. Abstractions distrusted at sentence level as well as in dialogue. - Eresse POV. Subordination, latinate diction, periodic sentences that withhold the verb. Time referenced in long units. - Concord human POV. The house baseline. Everything else is measured against it. - Moto POV. To be built. Flagged as the highest-priority gap since it carries the current arc.
-
-### R5-E-MARTIN_WINS_RULING [Pack Five E]
-
-Martin wins on narration authority: Tolkien's elevated and elegiac register is available, his moral voice is not.
-
-> Ruling proposed: Martin wins on narration authority. Tolkien's elevated and elegiac register is available, his moral voice is not.
 
 ### R5-E-NARRATION_NEVER_ADJUDICATES [Pack Five E]
 
@@ -8263,6 +8953,222 @@ A POV-locked mass-combat scene still allows one thought per NPC.
 The narration-distance rule wins over Pack One's Scene Standards carve-out: a named NPC gets no private italic thought in a scene with a POV lock. The carve-out survives only where there is no lock — omniscient narration and mass combat.
 
 > The narration-distance rule wins: no NPC italic thought inside a locked-POV scene. Pack One's "one private italic thought per named NPC" carve-out survives only for scenes with no POV lock (omniscient and mass combat).
+
+### R70-1-BLEND_MODEL [Style Law 2026-10-03 K1]
+
+Write every scene in one house style that draws on Western literary fantasy, the Eastern traditions and LitRPG at once, and let the POV's culture tilt the mix (further East in a Moto room, further West in an Accord counting-house).
+
+> Fused, tilted by culture. One house style draws on all three strands in every scene, and the POV's culture tilts the mix: a Moto room leans further East, an Accord counting-house further West. R5-A, R5-E and R11-1 are rewritten.
+
+### R70-3-STRAND_LEADS_LAYER [Style Law 2026-10-03 K3]
+
+Let the Eastern strand lead narration, interiority and structure, the Western strand lead combat, injury and dialogue, and LitRPG lead progression, so that the narrator is what changes most.
+
+> Eastern voice leads. Eastern leads narration, interiority and structure; Western leads combat, injury and dialogue; LitRPG leads progression. The narrator itself changes most.
+
+### R70-10-NARRATOR_STANCE [Style Law 2026-10-03 VO1]
+
+Let the narrator address the reader, foreshadow or set down a maxim only in a chapter's opening and closing lines, and keep the body of every scene POV-locked.
+
+> Storyteller at thresholds. In a chapter's opening and closing lines the narrator may address the reader, foreshadow or set down a maxim; the body of the scene stays POV-locked. R5-C1 gains a threshold exception.
+
+### R70-11-WIDE_VIEW [Style Law 2026-10-03 VO2]
+
+In battles and crowds, a scene may run a marked roll call of one line inside each of several heads and then return to the POV lock.
+
+> Sweep with marked dips. Battles and crowds may run a marked roll call: one line inside each of several heads, then the lock resumes. R1-3's name-three rule exempts roll-call lines, and R39-7 gains rules for them.
+
+### R70-12-FIRST_PERSON [Style Law 2026-10-03 VO3]
+
+Narrate roleplay turns, written scenes and books in third person; first person belongs only to in-world documents.
+
+> Third person only. Third person becomes law for turns, scenes and books; first person stays in documents. Rotating POVs and the lock stay easy.
+
+### R70-13-EPITHETS_NARRATION [Style Law 2026-10-03 VO4]
+
+When the POV can read rank, a narration epithet may be a rank or trade tag (the Flourishing envoy, the Measurewright), still one per character per scene and changing only when the reading changes.
+
+> Rank and trade tags. An epithet may be a rank or trade tag (the Flourishing envoy, the Measurewright) whenever the POV can read rank; still one per scene, changing when the reading changes.
+
+### R70-21-CADENCE_CULTURE [Style Law 2026-10-03 RH3]
+
+Let the POV's culture set the narration cadence, stated in each narration register, so a Hallenfeld man keeps his own rhythm in a Moto house and the gap between the two is texture.
+
+> POV's culture sets it. The POV's culture sets cadence, and each narration register states it. A Hallenfeld man stays Hallenfeld in a Moto house, and the gap between his rhythm and the house's is the texture.
+
+### R70-27-ANTIQUE_NARRATION_RUNS [Style Law 2026-10-03 VB4]
+
+Each Standing Inventory sets its culture's narration dial to plain, period or archaic as law, and narration's words follow the dial of the POV's culture.
+
+> A dial per culture. Each Standing Inventory sets plain, period or archaic as law, amending R20C-58, and narration follows the POV's culture. The sample is a Moto-court steward under an archaic dial; a Kharven POV stays plain.
+
+### R70-28-TRADE_SCIENCE_WORDS [Style Law 2026-10-03 VB5]
+
+Narration names apparatus and workings in their exact terms by ear, keeps an untrained POV's own body and his reading of the scene in plain words, and still meets Check 30's floor.
+
+> As now, mixed. Narration names apparatus and workings exactly by ear; an untrained POV's own body and his reading of the scene stay plain. Check 30's floor holds.
+
+### R70-29-UNITS_MEASURE [Style Law 2026-10-03 VB6]
+
+Narration measures distance, weight and time in the POV's own units (bowshots and a pot's boil for a Kharven guard; yards, pounds and joules for a Measurewright), and the exact figure stays with trained eyes.
+
+> The POV's own units. Current law. A Kharven guard counts in bowshots and a pot's boil, a Measurewright in yards, pounds and joules. Units characterise, and the exact figure stays with trained eyes.
+
+### R70-34-REAL_LANGUAGE_SWEARS_NARRATION [Style Law 2026-10-03 VB11]
+
+Close-POV narration for a Japonic, Korean or Chinese-stratum POV may carry his own language's real swears, romanised, correct and never italic, beside English and WOTR swears.
+
+> The POV's own tongue. A Japonic, Korean or Chinese-stratum POV may think his own language's swears, romanised, correct and never italic (R50-01, R50-32), beside English and WOTR ones.
+
+### R70-37-MODERN_IDIOM_THOUGHT [Style Law 2026-10-03 IN1]
+
+Italic thought may use any word the POV would say aloud, modern words included, while plain narration keeps its timeless register and verify drops italic thought from the modern-word check.
+
+> Thought as he speaks. Italic thought may use whatever the POV would say aloud, modern words included; plain narration stays timeless. verify drops italic thought from the modern-word check.
+
+### R70-38-REASONING_SHOWS [Style Law 2026-10-03 IN2]
+
+A reasoning POV may set his thinking out in italic thought as numbered steps, risk lists or tests; thought may stop short and leave an action or image to carry it, deep interiority becoming one of two modes chosen per register; and a POV who can read rank or price may reason from readings and figures, each traced to a source.
+
+> Yes to: Stepwise lists (A reasoning POV may set thinking out as numbered steps, risk lists or tests in italic thought; R16-8-CHECK33's cap on technical terms in italics eases); The unsaid (Thought may stop short of its conclusion and leave an action or an image to carry it, as Kawabata does; deep interiority becomes one mode of two, chosen per register); Reasoning from figures (A POV who can read rank or price may reason from readings and figures as evidence, as LitRPG heroes do; every figure still traces to a source (R12-5)).
+
+### R70-39-CARRYING_FEELING [Style Law 2026-10-03 IN3]
+
+In scenes chosen for it, the feeling is never named and one held, concrete image carries it, and that image obeys the elegy rule of R5-C2 (a named concrete thing, never an abstraction).
+
+> Held image, never named. In chosen scenes the feeling is never named and one held, concrete image carries it, as mono no aware and han do; R49-07 gains a register-level exception, and the image obeys R5-C2.
+
+### R70-44-CULTURE_KEYED_NOTICING [Style Law 2026-10-03 DS5]
+
+Take what is in the room from the place's Standing Inventory and let the POV's culture decide what he makes of it, misreadings included, with every Inventory gaining a 'Notices first' line for both jobs.
+
+> Place supplies, viewer judges. The place's Inventory sets what is in the room; the POV's culture sets what he makes of it, misreadings included. Each Inventory gains a 'Notices first' line for both jobs.
+
+### R70-46-CRAFT_LABOUR_PAGE [Style Law 2026-10-03 DS7]
+
+Whenever a craft is on the page, run at least one stretch as process (tool, material and steps in order, done by the worker's body), and look at the finished thing for its quality through the POV's eye.
+
+> Process and its beauty. Process as in B, and the finished thing is looked at for its quality: what good work looks like in that craft, through the POV's eye. (Option B there reads: Shown as process. Whenever a craft is on the page, at least one stretch runs as process: tool, material and steps in order, with the worker's body doing them.)
+
+### R70-55-ORDER_FIRST_INVENTORY [Style Law 2026-10-03 DD4]
+
+Keep a first-sight inventory as one passage, but run it in the order this POV would look (a clerk prices first, a surgeon reads wounds first, a rider looks at hands) instead of a fixed order.
+
+> The POV's order. The inventory stays one passage at first sight but runs in the order this POV would look: a clerk prices first, a surgeon reads wounds first, a rider looks at hands.
+
+### R70-62-WEATHER_LAND_AS_PERSONS [Style Law 2026-10-03 DT4]
+
+Personify weather and landscape only at mythic moments, in verse and documents, and in close POV for cultures whose speech already gives the sky a will; keep everyday narration plain.
+
+> Personify at high moments. R49-22 relaxes at mythic moments (R48-05), in verse and documents, and in close POV for cultures whose speech already gives the sky a will. Everyday narration stays plain.
+
+### R70-63-WEAR_AGE_AS_BEAUTY [Style Law 2026-10-03 DT5]
+
+State in each Standing Inventory what its people prize and despise in age, and let a POV see wear, mends and age through that culture's eye, so one object may be beautiful to one guest and shameful to another.
+
+> Beauty, keyed by culture. Each Inventory states what its people prize in age and what they despise. A Moto or Ketsuen POV may see the mend as beautiful while a Kharven guest sees a cracked bowl.
+
+### R70-68-INSIDE_PRACTICE [Style Law 2026-10-03 MY1]
+
+When a practitioner trains, draws or looks inward, write it as a walk through the Soul Crystal layer by layer in Codex nouns, showing where the draw enters, where it pools and where it snags.
+
+> The Crystal as inner map. Practice is written as a walk through the Soul Crystal in Codex nouns, layer by layer, as cultivation maps meridians: where the draw enters, where it pools, where it snags.
+
+### R70-72-WATCHING_CROWD_POWER_REVEAL [Style Law 2026-10-03 MY5]
+
+At a power reveal let the watching crowd speak in waves inside the POV's hearing (the breath, the name passed along, an elder's verdict); the reaction-shot tell no longer applies to crowds.
+
+> Spoken chorus, in hearing. At a reveal the crowd may speak in waves inside the POV's hearing: the breath, the name passed along, an elder's verdict. R5-G's reaction-shot tell is struck for crowds.
+
+### R70-78-WHERE_SCREEN_COMES_FROM [Style Law 2026-10-03 LR22]
+
+A practitioner sees his own figures as plain, voiceless lines read in his Soul Crystal at thresholds, exact and limited to his own sheet, never showing wounds or anyone else, while instruments read everyone else.
+
+> Read in the Crystal. The bearer reads his own Soul Crystal as plain, voiceless lines at thresholds: his own sheet only, exact, and blind to wounds and to others. Small new canon; instruments still read everyone else.
+
+### R70-79-CAN_READ_WHOM [Style Law 2026-10-03 LR2]
+
+Every practitioner feels his own Grades and Stage and senses another's Band and rough Stage as closely as his Gnosis allows, but another's exact figures need an instrument, and commoners keep their folk words and their awe.
+
+> Practitioners feel rank. Any practitioner feels his own Grades and Stage, and another's Band and rough Stage, with Gnosis setting how close. Another's exact figures need an instrument; commoners keep their folk words and their awe.
+
+### R70-83-FIGURES_PLAIN_NARRATION [Style Law 2026-10-03 LR6]
+
+Narration may state on its own authority only the figures the POV actually holds, such as his own last reading, a card he has seen or what he was told.
+
+> What the POV knows. Narration states the figures the POV holds: his own last reading, the card he has seen, what he was told. R49-52 governs R49-47; R14-4-SUBSTAT retires; NATALIE.md is rewritten.
+
+### R70-88-NUMBERS_INSIDE_FIGHT [Style Law 2026-10-03 LR11]
+
+During a fight the POV's read may name Grades and gaps as her own estimates before or between exchanges, but the page never runs a log of figures.
+
+> Grades at the read. The POV's read names Grades and gaps before or between exchanges, as estimates in her own terms; no running figures. The genre's sizing-up without a log.
+
+### R70-100-MARTIAL_VOCABULARY_NAMES_MOVES [Style Law 2026-10-03 CB1]
+
+Narration names every move of a duel in the fencing vocabulary the POV himself trained in (kesa-giri for a Moto POV, Zornhau for a Greymane POV), and a foreign school's term reaches the page only in a character's mouth.
+
+> By the POV's own school. Narration names every move in the POV's own training (a Moto POV calls a diagonal cut kesa-giri, a Greymane POV a Zornhau); a foreign school's word arrives in a mouth. verify takes per-school lists.
+
+### R70-103-MEMORY_INSIDE_FIGHT [Style Law 2026-10-03 CB4]
+
+Once per fight the POV may freeze one turning exchange for a full flashback of his own, a page or more, and the opponent's past reaches the page only through what the POV knows.
+
+> Full flashback, POV only. The POV may take a full flashback, a page or more, frozen inside one turning exchange, once per fight. The POV lock holds; the opponent's past reaches the page only through what the POV knows.
+
+### R70-105-JOINS_WOUND_WHEN_FIGHT [Style Law 2026-10-03 CB6]
+
+After a death by the blade, add the killing rites when the killer is Japonic, Korean or Chinese and an elegiac image when the POV's culture mourns that way, on top of the full clinical floor.
+
+> Rites and image, by culture. Both, keyed to culture: Japonic, Korean and Chinese killers carry the rites; the elegiac image belongs to any POV whose culture mourns that way. The clinical floor holds everywhere.
+
+### R70-106-BATTLE_TOLD [Style Law 2026-10-03 CB7]
+
+Tell a formation battle in POV-locked sections that cut, at marked breaks, between a commander on the hill and one man in the press, with R1-3's three heads covering both.
+
+> Hill and ditch, cut. A battle cuts between the commander's hill and one man in the press at marked breaks, each section POV-locked; the breaks stand in for the guide's rule to 'pass through Line'. R1-3's three heads cover both.
+
+### R70-115-TEARS_SENTIMENT [Style Law 2026-10-03 HU3]
+
+A guarded character's restraint holds through the big moment and gives way fully and openly at a small, unexpected thing, once per character per arc.
+
+> Break at a small thing. A rule adds the delayed break: restraint holds through the big moment and gives way, fully and openly, at a small unexpected thing. Once per character per arc.
+
+### R70-118-HONORIFICS_NARRATION [Style Law 2026-10-03 NE2]
+
+A close POV from a culture with honorifics carries them into narration as he would think them (Kaname-sama, Seo-nim), never italic, while a Western POV in the same room narrates plain names.
+
+> The POV's own honorific. A close POV from a culture with honorifics carries them into narration (Kaname-sama, Seo-nim) as he would think them, never italic; a Western POV in the same room uses plain names.
+
+### R70-123-WHOSE_EAR_HEARS_JOKE [Style Law 2026-10-03 NM5]
+
+An English pun in a name is legal only where the world supplies a bridge (a Common mouth, a byname rendered in English, a Common ear mishearing), and a pun hidden in a foreign name for the reader alone stays out.
+
+> English puns with a bridge. An English pun is legal where the world supplies a bridge: a Common mouth, a byname rendered in English, or a Common ear mishearing. Reader-only puns hidden in a foreign name stay out.
+
+### R70-129-NOTICES_JOKE [Style Law 2026-10-03 NM11]
+
+The POV may register a name's joke in his own head and idiom, as he would think it, but the narrator outside him never remarks on it.
+
+> Close POV may notice. The POV's own head may register the joke in his own idiom, as he would think it. The narrator outside him never remarks, so R5-C1 stands.
+
+### R70-130-WALK_ONS_WITH_COMIC [Style Law 2026-10-03 NM12]
+
+A walk-on may be named at once only by a nickname someone else says, the narration keeps calling him by his role until R50-27 is met, and a walk-on named for a joke does not die in that scene.
+
+> Nickname in a mouth. A walk-on may be named at once only by a nickname in someone else's mouth; the narration keeps the role until R50-27 is met. A walk-on named for a joke does not die in that scene.
+
+### R70-133-EASTERN_TECHNIQUES_BESIDE_CLINICAL [Style Law 2026-10-03 XS1]
+
+An explicit scene may set a season or nature image beside the anatomy, hold one physical detail at chosen moments such as the peak, close its aftermath on a written or spoken exchange such as a morning poem, and use mimetic words for texture and state, romanised and never italic, all without displacing the plain anatomical words.
+
+> Yes to: Season and nature imagery (An explicit scene may set a season or nature image beside the anatomy (frost, snow, blossom, the brazier), carrying mood without replacing the plain words); Held detail at the peak (At chosen moments, usually the peak, one held physical detail may carry the beat; plain specificity governs the rest, and the aftermath is still written); The poem after (An explicit scene may close on a written or spoken exchange (a morning poem, a note, a line answered) as part of its aftermath beat); Mimetic words (Mimetic words for texture and state (the Japanese gitaigo habit, and each culture's own) join table rule 9's onomatopoeia, romanised and never italic).
+
+### R70-134-KEYED_CULTURE_FREE [Style Law 2026-10-03 XS2]
+
+The POV's culture decides which explicit-scene techniques the narration uses (a Moto POV writes with image and the held detail, a Kharven POV blunt, whoever the lover is), and the lover's culture shows in what they do and say.
+
+> Keyed to the POV. The POV's culture decides: a Moto POV writes with image and the held detail, a Kharven POV blunt, whoever the lover is; the lover's culture shows in what they do and say.
 
 ### R52-01-SAME_MAN [Voice Law 2026-09-26 How distinct voices must be]
 
@@ -8492,7 +9398,7 @@ Narration refers to characters by POV epithets, the way the viewpoint sees them;
 
 > Narration refers to characters by POV epithets, the way the viewpoint sees them; the naming characterises.
 
-## prose-law (218)
+## prose-law (313)
 
 ### R20C-29-CATEGORY_NAMING_DIAGNOSTIC [Pack Twenty R20C-29]
 
@@ -8722,12 +9628,6 @@ Added to the AI tells checklist and retained in full per Pack Twelve §7 — the
 
 > The Ladder in all forms. - The apparatus as grammatical subject. - Scientific vocabulary explaining an ambient sensory impression.
 
-### R5-A-FLESH_CHANGES [Pack Five A]
-
-Prose register, humour, characterisation method, narration authority and tonal architecture derive from the Western tradition (Martin's POV discipline, Tolkien's cultural register and elegiac capacity, Abercrombie's dry brutality).
-
-> The flesh changes. Prose register, humour, characterisation method, narration authority and tonal architecture now derive from the Western tradition: Martin's POV discipline, Tolkien's cultural register and elegiac capacity, Abercrombie's dry brutality.
-
 ### R5-B-MANHWA_DIRECTIVE_REPEALED [Pack Five B]
 
 Personality vomiting, reaction shots as characterisation, loud opinions as a default register, bizarre/exaggerated minor NPCs, absurdist method alongside genuine stakes, humour as a tone exception, and escalation as a prose-level pacing register are no longer craft law and become active tells; escalation survives only as plot architecture (Scene Writing Process Guide §2).
@@ -8763,12 +9663,6 @@ Humour is no longer an exception to tone but a property of specific characters i
 The beat structure of setup, deadpan and reaction is barred; humour arrives inside dialogue and narration already in progress and never pauses the scene to land.
 
 > Barred: the beat structure of setup, deadpan and reaction. Humour no longer gets its own rhythm. It arrives inside dialogue and narration already in progress and does not pause the scene to land.
-
-### R5-E-MARTIN_WINS_RULING [Pack Five E]
-
-Martin wins on narration authority: Tolkien's elevated and elegiac register is available, his moral voice is not.
-
-> Ruling proposed: Martin wins on narration authority. Tolkien's elevated and elegiac register is available, his moral voice is not.
 
 ### R5-E-NARRATION_NEVER_ADJUDICATES [Pack Five E]
 
@@ -9412,6 +10306,588 @@ The narration-distance rule wins over Pack One's Scene Standards carve-out: a na
 
 > The narration-distance rule wins: no NPC italic thought inside a locked-POV scene. Pack One's "one private italic thought per named NPC" carve-out survives only for scenes with no POV lock (omniscient and mass combat).
 
+### R70-1-BLEND_MODEL [Style Law 2026-10-03 K1]
+
+Write every scene in one house style that draws on Western literary fantasy, the Eastern traditions and LitRPG at once, and let the POV's culture tilt the mix (further East in a Moto room, further West in an Accord counting-house).
+
+> Fused, tilted by culture. One house style draws on all three strands in every scene, and the POV's culture tilts the mix: a Moto room leans further East, an Accord counting-house further West. R5-A, R5-E and R11-1 are rewritten.
+
+### R70-2-LITRPG_WOTR_BECOMES [Style Law 2026-10-03 K2]
+
+Treat WOTR as full LitRPG: a practitioner sees his own readouts on the page (a screen at a reading, a notice at a level, a breakthrough or a cost), and every figure in them traces to the sheet.
+
+> Full LitRPG, screens. Practitioners see their own readouts: a screen at a reading, a notice at a level, a breakthrough or a cost. Where the screens come from in the world is LR22's call; every figure traces to the sheet (R12-5).
+
+### R70-3-STRAND_LEADS_LAYER [Style Law 2026-10-03 K3]
+
+Let the Eastern strand lead narration, interiority and structure, the Western strand lead combat, injury and dialogue, and LitRPG lead progression, so that the narrator is what changes most.
+
+> Eastern voice leads. Eastern leads narration, interiority and structure; Western leads combat, injury and dialogue; LitRPG leads progression. The narrator itself changes most.
+
+### R70-4-WESTERN_MODELS [Style Law 2026-10-03 K4]
+
+Name Tolkien (elegy, high style, routes, songs, many-named places), Dickens and the Victorians (the city as organism, money and institutions, the serial hook) and Guy Gavriel Kay as the Western models, plus the Eastern and LitRPG creators Isaac added (Kishimoto, Kubo, anime, Unbound, The Beginning After the End); Martin and Abercrombie are no longer named, and the narrator still passes no moral verdicts.
+
+> Yes to: Tolkien (Elegy, high style, routes, songs and many-named places stay named under Tolkien; his moral voice stays barred (R5-E). Unticked, the same register stays legal under R48-05 without his name); Dickens and the Victorians (Joins the list: the city as one organism, money and institutions on the page, the serial hook. Fits the Draw Age's Victorian look (R53-28); the narrator's moral verdicts stay out); Guy Gavriel Kay (Joins the list: Western craft carried into Chinese-history settings, an elegiac storyteller who looks ahead to what the years will do, courts run on poetry and rank. A ready bridge for the Chinese-register halls and Korean courts). Not taken: Martin and Abercrombie. (Dickens/Victorians, Guy Gavriel Kay, Tolkien kept; Martin and Abercrombie unticked (dropped as named models). Added in his words: 'Other Eastern Writers like Creator of Naruto and Bleach and other animes litRPG light novel etc like unbound and beginning after the end'.)
+
+### R70-5-EASTERN_MODELS [Style Law 2026-10-03 K5]
+
+Draw on Jin Yong and the chapter novels for the Chinese-register halls, the Heike and the war tales for the Moto and Shirogane, Kawabata and Tanizaki for Japanese restraint, and pansori and sijo for Ketsuen, Hon-guk and the Mahuo.
+
+> Yes to: Jin Yong, chapter novels (The Chinese-register halls gain a model: named forms traced to a lineage and a manual, sect politics run like a state's, the chapter novel's storyteller and couplet chapter titles); The Heike and war tales (The Moto and Shirogane gain their tradition: the name-declaration before combat, armour catalogued piece by piece, impermanence felt at the fall of a house); Kawabata and Tanizaki (Japanese restraint gains a named model: the scene that breaks off before its point, the season in one exact detail, rooms described by how they hold light and shadow); Pansori and sijo (Ketsuen, Hon-guk and the Mahuo gain a literary voice: tempo matched to feeling, comedy inside tragedy, han (grief held for years, never released), and sijo, three-line verse that turns in its last line).
+
+### R70-6-LITRPG_PROGRESSION_MODELS [Style Law 2026-10-03 K6]
+
+Take Cradle (rank felt in the room, breakthroughs as set pieces), Reverend Insanity (every gain bought and counted), Solo Leveling (the reassessment, quests with stated penalties, the drill as contract) and The Wandering Inn (the level-up as a quiet verdict, bracketed class and skill names) as progression models beside Unbound.
+
+> Yes to: Cradle (Ranks everyone in a room can sense, breakthroughs written as set pieces, little need for screens. Matches how Pressure already works in WOTR); Reverend Insanity (A Chinese cultivation novel run as a ledger: every gain bought, every resource counted, a cold calculating mind at the centre. The grimdark end of cultivation fiction, close to WOTR's cost law); Solo Leveling (The Korean System novel: the reassessment that overturns a registered rank, quests with stated penalties, the daily drill as a contract. Its escalation and onlooker shock run into the R5-B tells); The Wandering Inn (The level-up as a quiet verdict on who a person became that day, arriving in sleep; bracketed class and skill names inside ordinary sentences).
+
+### R70-7-FAR_MOVE [Style Law 2026-10-03 K7]
+
+Treat this style law as a new pack that supersedes Pack Five's flesh sections and R11-1, re-rule the Pack Five tells (R5-B, R5-G) one at a time rather than wholesale, and keep every anti-machine check unchanged.
+
+> New pack, old hygiene. A new style pack supersedes Pack Five's flesh sections and R11-1 and re-rules the R5-B and R5-G tells one by one; the anti-machine checks carry over unchanged.
+
+### R70-8-JOBS_STYLE_GOVERNS [Style Law 2026-10-03 K8]
+
+Apply the blend in full, readouts included, to roleplay turns, written scenes, books and in-world documents alike, with documents keeping their institution's house style inside it.
+
+> All four alike. One style law; every job takes the blend in full, readouts included. Documents keep their institution's house style inside it.
+
+### R70-9-TECHNICAL_MYSTIC_REGISTERS [Style Law 2026-10-03 K9]
+
+Draw the Technical register on LitRPG and wuxia (numbers, named forms, the read) and the Mystic on Japanese and Chinese literary craft and the gothic (law, the half-seen), and keep mixing the two freely by ear.
+
+> Strands mapped to registers. R12-2 is rewritten: the Technical register draws on LitRPG and wuxia (numbers, named forms, the read); the Mystic on Japanese and Chinese literary craft and the gothic (law, the half-seen). R48-10's free mixing stays.
+
+### R70-10-NARRATOR_STANCE [Style Law 2026-10-03 VO1]
+
+Let the narrator address the reader, foreshadow or set down a maxim only in a chapter's opening and closing lines, and keep the body of every scene POV-locked.
+
+> Storyteller at thresholds. In a chapter's opening and closing lines the narrator may address the reader, foreshadow or set down a maxim; the body of the scene stays POV-locked. R5-C1 gains a threshold exception.
+
+### R70-11-WIDE_VIEW [Style Law 2026-10-03 VO2]
+
+In battles and crowds, a scene may run a marked roll call of one line inside each of several heads and then return to the POV lock.
+
+> Sweep with marked dips. Battles and crowds may run a marked roll call: one line inside each of several heads, then the lock resumes. R1-3's name-three rule exempts roll-call lines, and R39-7 gains rules for them.
+
+### R70-12-FIRST_PERSON [Style Law 2026-10-03 VO3]
+
+Narrate roleplay turns, written scenes and books in third person; first person belongs only to in-world documents.
+
+> Third person only. Third person becomes law for turns, scenes and books; first person stays in documents. Rotating POVs and the lock stay easy.
+
+### R70-13-EPITHETS_NARRATION [Style Law 2026-10-03 VO4]
+
+When the POV can read rank, a narration epithet may be a rank or trade tag (the Flourishing envoy, the Measurewright), still one per character per scene and changing only when the reading changes.
+
+> Rank and trade tags. An epithet may be a rank or trade tag (the Flourishing envoy, the Measurewright) whenever the POV can read rank; still one per scene, changing when the reading changes.
+
+### R70-14-KISHOTENKETSU [Style Law 2026-10-03 SP1]
+
+Quiet, travel, downtime and interlude scenes may run set-up, development, twist and reconciliation with no conflict, while fights, councils and set pieces keep the turn; the scene brief names the shape and a roleplay turn still stops at Isaac's decision.
+
+> Kishōtenketsu for quiet scenes. Quiet, travel, downtime and interlude scenes may run set-up, development, twist, reconciliation with no conflict; fights, councils and set pieces keep the turn. Scene briefs name the shape; roleplay turns still stop at Isaac's decision.
+
+### R70-15-TEMPO_STILLNESS [Style Law 2026-10-03 SP2]
+
+Run set pieces and long scenes slow, then breaking, then swift, at scene and paragraph scale; the motion opening becomes one option among several, and the hit still lands short and last.
+
+> Jo-ha-kyū tempo. Set pieces and long scenes run slow, breaking, swift at scene and paragraph scale; R49-25's motion opening becomes one option among others, and the hit still lands short and last (R48-06).
+
+### R70-16-OPENING_MODES [Style Law 2026-10-03 SP3]
+
+Beside the senses and motion, a scene may open far to near (a long view closing plane by plane on the person), on one culture's season word that fixes time and mood, or on a register entry, readout or document that the scene then tests.
+
+> Yes to: Far to near (Arrivals may open on a long view that moves in, plane by plane, to the person, as Chinese landscape painting does. Feeds the archive's thin landscape); Season word (An opening may fix time and mood with one culture's season word (Ward-Lighting, the Thin Weeks, Ice-out) instead of a mood statement; each Inventory's Time field becomes a season list); A reading or document (A scene may open on a register entry, readout or document that the scene then tests (R12-4's threshold voice), as Lord of the Mysteries and LitRPG chapters do). Not taken: Image linked by mood.
+
+### R70-17-CLOSING_MODES [Style Law 2026-10-03 SP4]
+
+Beside an action, an image or a line, a chapter or scene may stop mid-crisis on a reveal or threat, close on a set-off notice or readout of what the scene cost or earned (figures traced to the sheet), or break off a breath before its emotional payoff, which the next scene then owes.
+
+> Yes to: Mid-crisis cliffhanger (Chapters, and turns at the next decision, may stop mid-crisis on a reveal or a threat, web-serial style; R49-26 gains the hook R5-F already wants); A notice or readout (A scene may close on a notice or readout set off from the prose: what the scene cost or earned, in figures traced to the sheet (R12-5)); Break off before payoff (A scene may stop a breath before its emotional point and leave the payoff to the reader or the next scene, as Kawabata does; the next scene owes what was withheld). Not taken: Storyteller's next chapter.
+
+### R70-18-ARC_SHAPES [Style Law 2026-10-03 SP5]
+
+A thread or book may run the tournament or examination arc, the Well delve (deeper ground and worse Well-spawn each stage, each closed on its cost), the training montage (weeks of drill compressed into one passage ending on a reading), and episodic self-contained jobs inside the longer arc.
+
+> Yes to: Tournament and examination (Tournaments and examinations become a licensed arc: rounds, brackets, scouts' odds, a ranking at the close. The Aetherion Academy arc already runs this way; ticking it names the shape); The Well delve (A Well may be worked as an arc, deeper ground and worse spawn at each stage, each stage closed on its cost; Well-spawn (R53-06) supply the threat); The training montage (Weeks of drill may pass in one compressed passage that ends on a reading of what changed; R48-29's skip gains a form for growth); Episodic jobs (A chapter or session may be one self-contained job, opened and closed in itself, inside the longer arc, as light novels and The Wandering Inn run).
+
+### R70-19-PAIRED_CUMULATIVE_SENTENCES [Style Law 2026-10-03 RH1]
+
+In set pieces only, deliberate matched pairs and verse lines are exempt from the run rule, and once per scene the climax may be one long cumulative sentence chained with 'and'; ordinary turns keep the full rhythm law.
+
+> Both, in set pieces. Both licences, in set pieces only; ordinary turns keep the full rhythm law.
+
+### R70-20-PARAGRAPH_SHAPE [Style Law 2026-10-03 RH2]
+
+Keep medium paragraphs as the norm, but let reveals, verdicts, notices and a fight's last beats run as one-line paragraphs in a cluster.
+
+> One-liners at peaks. Medium paragraphs stay the norm; reveals, verdicts, notices and a fight's last beats may run as one-line paragraphs in a cluster. R48-07 is amended; R49-14's shape check stays.
+
+### R70-21-CADENCE_CULTURE [Style Law 2026-10-03 RH3]
+
+Let the POV's culture set the narration cadence, stated in each narration register, so a Hallenfeld man keeps his own rhythm in a Moto house and the gap between the two is texture.
+
+> POV's culture sets it. The POV's culture sets cadence, and each narration register states it. A Hallenfeld man stays Hallenfeld in a Moto house, and the gap between his rhythm and the house's is the texture.
+
+### R70-22-SOUND_WORDS [Style Law 2026-10-03 RH4]
+
+Each culture may carry a few native sound and state words in speech and close narration, entered in its Inventory and never set in italics.
+
+> Each culture's own words. Each culture may carry a few native sound and state words in speech and close narration, entered in its Inventory and never italic (R49-49). Moto and Korean-register houses gain most.
+
+### R70-23-CHAPTER_HEADS [Style Law 2026-10-03 RH5]
+
+A book chapter may be headed by a matched couplet naming its two main events, by a short in-world document in its institution's house style that the chapter then tests, or by a short verse in a culture's own form, which verify reads as verse outside the rhythm statistics.
+
+> Yes to: Couplet title (A book chapter may be headed by a matched couplet naming its two main events; the table of contents reads as a poem and a promise); In-world epigraph (A chapter may open on a short in-world document (case-book, register, proverb, letter) in its institution's house style (R51-33), which the chapter then tests (R12-4)); Verse header (A chapter may open on a short verse in a culture's own form (a Kharven riding-song, a Korean sijo), and verify checks it as verse, outside the rhythm statistics).
+
+### R70-24-EASTERN_CONCEPT_WORDS_NARRATION [Style Law 2026-10-03 VB1]
+
+In narration an Eastern loanword names what the body feels and the WOTR noun names what a gauge or the Guild measures, the two side by side in the same POV's narration.
+
+> Felt word, measured word. The loanword names what the body feels; the WOTR noun names what a gauge or the Guild measures, in the same POV's narration. The Eastern inside and the LitRPG outside sit side by side.
+
+### R70-25-FOREIGN_WORDS_PAGE [Style Law 2026-10-03 VB2]
+
+A native or borrowed word sits plain in the sentence, with no italics and no explaining phrase, and each book carries a glossary at the back while the wiki keeps a terms page.
+
+> Context plus a glossary. Prose as in A, plus a glossary at the back of each book and a terms page on the wiki. The page stays clean, and LitRPG readers get the reference they expect. (Option A there reads: Plain, context only. Current law. No italics and no explaining phrase; the scene carries the meaning. Immersive and quick, and now and then a reader guesses wrong for a page.)
+
+### R70-26-LEARNED_TONGUES_BESIDE_LATIN [Style Law 2026-10-03 VB3]
+
+Each learned culture may carry tags in its own learned tongue as the Accord carries Latin (hanmun for Korean-stratum scholars, kanbun readings in Moto records, wenyan in the lineage halls), every tag real, romanised and checked.
+
+> A learned tongue each. Hanmun tags for Korean-stratum scholars, kanbun readings in Moto records, wenyan in the lineage halls, Latin for the Accord, each real and romanised (R50-01, R50-31). Every learned culture gets weight; every tag needs checking.
+
+### R70-27-ANTIQUE_NARRATION_RUNS [Style Law 2026-10-03 VB4]
+
+Each Standing Inventory sets its culture's narration dial to plain, period or archaic as law, and narration's words follow the dial of the POV's culture.
+
+> A dial per culture. Each Standing Inventory sets plain, period or archaic as law, amending R20C-58, and narration follows the POV's culture. The sample is a Moto-court steward under an archaic dial; a Kharven POV stays plain.
+
+### R70-28-TRADE_SCIENCE_WORDS [Style Law 2026-10-03 VB5]
+
+Narration names apparatus and workings in their exact terms by ear, keeps an untrained POV's own body and his reading of the scene in plain words, and still meets Check 30's floor.
+
+> As now, mixed. Narration names apparatus and workings exactly by ear; an untrained POV's own body and his reading of the scene stay plain. Check 30's floor holds.
+
+### R70-29-UNITS_MEASURE [Style Law 2026-10-03 VB6]
+
+Narration measures distance, weight and time in the POV's own units (bowshots and a pot's boil for a Kharven guard; yards, pounds and joules for a Measurewright), and the exact figure stays with trained eyes.
+
+> The POV's own units. Current law. A Kharven guard counts in bowshots and a pot's boil, a Measurewright in yards, pounds and joules. Units characterise, and the exact figure stays with trained eyes.
+
+### R70-30-NUMBERS_WORDS_DIGITS [Style Law 2026-10-03 VB7]
+
+Narration spells out numbers up to one hundred and round numbers, and writes exact large counts and every system figure (Level, EU, AU/s) in digits.
+
+> Small in words, big digits. Words up to one hundred and for round numbers; digits for exact large counts and every system figure (Level, EU, AU/s). Sourced figures stand out as data.
+
+### R70-31-CAPITALS_SYSTEM_TERMS [Style Law 2026-10-03 VB8]
+
+Narration capitalises the canonical system terms on a fixed list (Stage, Band, Grade, Level, Wellspring, Essence, Aether, Pressure and the Sub-Stat names), writes reserve and the draw in lower case, and takes care with plain senses such as a band of riders.
+
+> Canonical terms capitalised. The archive's habit fixed as a list: Stage, Band, Grade, Level, Wellspring, Essence, Aether, Pressure and Sub-Stat names capitalised; reserve and the draw lower case. Plain senses (a band of riders) need care.
+
+### R70-32-NEW_WORDS_KIND_MANY [Style Law 2026-10-03 VB9]
+
+A new thing gets an English compound if it is common, the owning culture's native word if a culture owns it, and a capitalised label if it belongs to the system or an instrument, with no cap per scene and every coinage logged.
+
+> All three, by owner. English compounds for common things, a culture's native word where that culture owns the thing, capitalised labels for system and instrument things; no cap, all logged (R50-28). The blend in one rule.
+
+### R70-34-REAL_LANGUAGE_SWEARS_NARRATION [Style Law 2026-10-03 VB11]
+
+Close-POV narration for a Japonic, Korean or Chinese-stratum POV may carry his own language's real swears, romanised, correct and never italic, beside English and WOTR swears.
+
+> The POV's own tongue. A Japonic, Korean or Chinese-stratum POV may think his own language's swears, romanised, correct and never italic (R50-01, R50-32), beside English and WOTR ones.
+
+### R70-35-HARD_BAN_LIST [Style Law 2026-10-03 VB12]
+
+Narration may not use the listed cultivation-translation, Western fantasy and LitRPG stock phrases (qi surged, a grim smile, power surged through him and the rest the answer names), while testament for a will, visceral in anatomy and orbs for lamps and regalia now pass and the stock senses of those three still fail.
+
+> Yes to: Cultivation-translation stock (Bans 'qi surged', 'a cold glint flashed', 'sucked in a cold breath' and 'killing intent surged' in narration. The Eastern feel comes from method, never from translated filler); Western fantasy stock (Bans 'the steel sang', 'a grim smile', 'his blood ran cold', 'every fibre of his being' and 'darkness gathered'. Grimdark's own worn phrasing goes out with the imported kind); LitRPG stock (Bans 'power surged through him', 'stronger than ever', 'a wave of power' and 'his stats soared'. Growth shows in the body and on the instrument); Trim the false hits (Narrows three items to their stock sense: a will called a testament passes, 'visceral' passes in anatomy (the visceral pleura, R49-45), 'orbs' passes for lamps and regalia. The stock senses still fail).
+
+### R70-36-CHECKER_ENFORCES [Style Law 2026-10-03 VB13]
+
+verify_scene matches native words against the culture word banks (a near-miss FAILs, unknown words are listed for the scene log), checks Stage, Band, Wellspring and Family names for spelling and capitals against a wotr_terms.txt built from Fracture of Worlds, the glossary and the Codex, FAILs the new ban families at first use in narration (looser variants WARN), and WARNs on an italicised loanword, a digit where words are due and an archaic word outside its culture's dial.
+
+> Yes to: Word-bank spelling check (Native words are matched against the culture banks (VB10); a near-miss FAILs as a misspelt Wellspring does (R14-5-NEAR_MISS_FAIL); unknown words are listed for the scene log (R50-28)); Canonical term list (wotr_terms.txt is built from Fracture of Worlds, the glossary and the Codex; Stage, Band, Wellspring and Family names are checked for spelling and capitals (VB8), and a near-miss FAILs (R14-5-NEAR_MISS_FAIL, Check 37)); New ban families FAIL (The families chosen in VB12 FAIL at first use in narration, as R51-10 does; looser variants of a banned phrase WARN for a read); Style-sheet warnings (WARNs for the house style set here: an italicised loanword (VB2), a digit where words are due (VB7), an archaic word outside its culture's dial (VB4). Holds the style without blocking a reply).
+
+### R70-37-MODERN_IDIOM_THOUGHT [Style Law 2026-10-03 IN1]
+
+Italic thought may use any word the POV would say aloud, modern words included, while plain narration keeps its timeless register and verify drops italic thought from the modern-word check.
+
+> Thought as he speaks. Italic thought may use whatever the POV would say aloud, modern words included; plain narration stays timeless. verify drops italic thought from the modern-word check.
+
+### R70-38-REASONING_SHOWS [Style Law 2026-10-03 IN2]
+
+A reasoning POV may set his thinking out in italic thought as numbered steps, risk lists or tests; thought may stop short and leave an action or image to carry it, deep interiority becoming one of two modes chosen per register; and a POV who can read rank or price may reason from readings and figures, each traced to a source.
+
+> Yes to: Stepwise lists (A reasoning POV may set thinking out as numbered steps, risk lists or tests in italic thought; R16-8-CHECK33's cap on technical terms in italics eases); The unsaid (Thought may stop short of its conclusion and leave an action or an image to carry it, as Kawabata does; deep interiority becomes one mode of two, chosen per register); Reasoning from figures (A POV who can read rank or price may reason from readings and figures as evidence, as LitRPG heroes do; every figure still traces to a source (R12-5)).
+
+### R70-39-CARRYING_FEELING [Style Law 2026-10-03 IN3]
+
+In scenes chosen for it, the feeling is never named and one held, concrete image carries it, and that image obeys the elegy rule of R5-C2 (a named concrete thing, never an abstraction).
+
+> Held image, never named. In chosen scenes the feeling is never named and one held, concrete image carries it, as mono no aware and han do; R49-07 gains a register-level exception, and the image obeys R5-C2.
+
+### R70-40-WIDE_DESCRIPTION_MUST_RANGE [Style Law 2026-10-03 DS1]
+
+Every scene brief names one lead subject group and two supporting groups from the rotation, the lead changing from scene to scene, and session end flags any rotation group a thread has left untouched for six scenes.
+
+> Lead plus two, thread-checked. Each scene brief names one lead subject group and two supporting ones, the lead rotating scene to scene; session end flags any rotation group untouched for six scenes.
+
+### R70-41-LAND_LIVES_IT [Style Law 2026-10-03 DS2]
+
+Land, water and sky (the night sky included), seasons and weather, and plants and animals (Well-spawn looked at as creatures) are rotation groups the range rule draws on; history in layers is not one.
+
+> Yes to: Land, water and sky (Terrain and ground underfoot, rivers, sea and shore, the long view, and the night sky (Shiro, the five wanderers, the Nail, the aurora) join the rotation); Seasons and weather (Thaw, rain, heat, fog and each culture's signs of the turning year join the rotation, beyond R53-09's actual weather in every outdoor scene); Plants and animals (Trees, crops, herbs, blossom, birds, insects, working beasts, and Well-spawn looked at as creatures join the rotation). Not taken: History in layers.
+
+### R70-42-PUBLIC_WORLD [Style Law 2026-10-03 DS3]
+
+Architecture as style, dress and adornment past the first-sight inventory, streets, markets and crowds, and power on show (processions, precedence, courts and punishments, Guild halls, ranking boards) are rotation groups the range rule draws on.
+
+> Yes to: Architecture as style (Buildings are described for style and ornament as well as use and wear; the Moto 'one thing made that serves no function' finally gets looked at); Dress and adornment (Cloth, cut, colour by rank, wear and repair, jewellery, cosmetics and worn scent join the rotation, past the first-sight inventory); Streets, markets, crowds (Squares, alleys, hawkers, stalls and haggling, arcades and branded goods (R60-07), and the crowd as one body join the rotation); Power on show (Processions and entrances, seating by precedence, courts and punishments (R53-11), Guild halls and academy grounds as displays of standing, and ranking boards join the rotation).
+
+### R70-43-HOME_TABLE_RITE_PLAY [Style Law 2026-10-03 DS4]
+
+Households young and old, food and taste, rites and festivals performed on the page, and music, art and play are rotation groups the range rule draws on.
+
+> Yes to: Households, young and old (Servants and the order of a house, the rich at home as well as the poor, the child's games and chores, and old age at the fire join the rotation); Food and taste (Ingredients, cooking, street food, drink, hunger and rationing, and taste in the mouth join the rotation. How a meal is written is DS8); Rites and festivals (Rites performed on the page, household observance, funerals and mourning, festivals, and folk taboos acted on join the rotation); Music, art and play (Instruments and songs, carving and painting, theatre and storytellers, games of chance and skill, sport and toys join the rotation).
+
+### R70-44-CULTURE_KEYED_NOTICING [Style Law 2026-10-03 DS5]
+
+Take what is in the room from the place's Standing Inventory and let the POV's culture decide what he makes of it, misreadings included, with every Inventory gaining a 'Notices first' line for both jobs.
+
+> Place supplies, viewer judges. The place's Inventory sets what is in the room; the POV's culture sets what he makes of it, misreadings included. Each Inventory gains a 'Notices first' line for both jobs.
+
+### R70-46-CRAFT_LABOUR_PAGE [Style Law 2026-10-03 DS7]
+
+Whenever a craft is on the page, run at least one stretch as process (tool, material and steps in order, done by the worker's body), and look at the finished thing for its quality through the POV's eye.
+
+> Process and its beauty. Process as in B, and the finished thing is looked at for its quality: what good work looks like in that craft, through the POV's eye. (Option B there reads: Shown as process. Whenever a craft is on the page, at least one stretch runs as process: tool, material and steps in order, with the worker's body doing them.)
+
+### R70-47-TABLE [Style Law 2026-10-03 DS8]
+
+Whenever a meal is on the page, write both the order of serving and the taste in the mouth.
+
+> Order and taste both. The order of serving and the taste in the mouth are both on the page whenever a meal is.
+
+### R70-48-MONEY_PRICE_PROVENANCE [Style Law 2026-10-03 DS12]
+
+Name the sum of every purchase, wage, fee and bribe on the page in the culture's money from the approved price table (payment in kind named as exactly), and describe a notable object through who made, carried, mended and died with it, with Tier and price kept off unless asked.
+
+> Yes to: Price whenever money moves (Every purchase, wage, fee and bribe on the page names its sum in the culture's money, quoted from the approved price table; north of the arrays, payment in kind is named as exactly); Its life and lineage (A notable object is described through who made, carried, mended and died with it, the way a famous tea bowl keeps its line of owners; Tier and price stay off unless asked). Not taken: Appraisal by a trained eye.
+
+### R70-49-LANDSCAPE_SKY [Style Law 2026-10-03 DS9]
+
+Give every outdoor scene one wide view built in far, middle and near planes with the people small in it, and put the sky in it after dark.
+
+> One wide view outdoors. Every outdoor scene gets one wide view built far, middle and near, with the people small in it, and the sky in it after dark.
+
+### R70-50-BODIES_AFTER_FIRST_SIGHT [Style Law 2026-10-03 DS10]
+
+Every time a person returns after their first-sight inventory, show one detail of what the body has changed since (a new wound, weight, fatigue, cold damage, a missed shave), so the Ledger's costs show.
+
+> One changed detail each time. Every return of a person carries one detail of what the body has changed since: a new wound, weight, fatigue, cold damage, a missed shave. The Ledger's costs show.
+
+### R70-51-REPETITION_AGAINST_NOVELTY [Style Law 2026-10-03 DS11]
+
+Keep each culture's two signature items per session, and in every scene also add one subject the thread has not yet described, logging it as canon.
+
+> Recur, and add one. R53-19's two signature items stay; R6-9's 'Novelty is its enemy' is rewritten so every scene also adds one subject the thread has not described, logged as canon (R53-21).
+
+### R70-52-OVERALL_DENSITY [Style Law 2026-10-03 DD1]
+
+Keep full sensory layering in every scene, slower and denser, and spend the blend on a wider range of subjects rather than on more or less description.
+
+> Lush throughout (current). R48-02 stands: full sensory layering in every scene, slower and denser. The blend widens what is described and keeps the amount.
+
+### R70-53-WHERE_DESCRIPTION_SITS [Style Law 2026-10-03 DD2]
+
+Keep texture woven through every beat, and hold the longer descriptive passages for pauses, silences and aftermaths so news lands bare and the room is seen in the quiet after.
+
+> Woven, pooling in lulls. Texture stays woven through every beat; the longer passages are held for pauses, silences and aftermaths, so the news lands bare and the room is seen in the quiet after.
+
+### R70-54-GETS_FULL_INVENTORY [Style Law 2026-10-03 DD3]
+
+Give the full first-sight inventory to major people, places, rooms, creatures and significant objects, and catch a minor person in one exact stroke.
+
+> Places full, minors one stroke. Major people, places, rooms, creatures and significant objects get the full inventory; minor people get one exact stroke.
+
+### R70-55-ORDER_FIRST_INVENTORY [Style Law 2026-10-03 DD4]
+
+Keep a first-sight inventory as one passage, but run it in the order this POV would look (a clerk prices first, a surgeon reads wounds first, a rider looks at hands) instead of a fixed order.
+
+> The POV's order. The inventory stays one passage at first sight but runs in the order this POV would look: a clerk prices first, a surgeon reads wounds first, a rider looks at hands.
+
+### R70-56-CATALOGUE_TELLING_DETAIL [Style Law 2026-10-03 DD5]
+
+Let arming, feasts, markets, musters, treasuries and loot run as full catalogues, keep description woven everywhere else, and flank a long list with short sentences so the chain ceiling still holds.
+
+> Catalogue at set occasions. Arming, feasts, markets, musters, treasuries and loot may run as full catalogues; elsewhere description stays woven. The chain ceiling (R4-14) still holds, so short sentences flank a long list.
+
+### R70-57-DESCRIPTION_INSIDE_FIGHT [Style Law 2026-10-03 DD6]
+
+Run a fight's exchanges traced and lean, and at the deciding moment hold the page still for a passage of setting before the outcome lands.
+
+> Held instant, then outcome. Exchanges run traced and lean; at the deciding moment the page holds still for a passage of setting before the outcome lands.
+
+### R70-59-WHERE_COMPARISONS_COME_FROM [Style Law 2026-10-03 DT1]
+
+Draw comparisons from the POV's own life by default, and let any POV of a culture use that culture's eight to twelve set images, listed in its Standing Inventory, whole and unglossed.
+
+> Culture image bank, always. Each Standing Inventory gains eight to twelve set images that any POV of that culture may use whole, unglossed. POV-life comparisons stay the default; R49-20 relaxes for the listed images.
+
+### R70-60-COLOUR_AS_SYMBOL_PER [Style Law 2026-10-03 DT2]
+
+Give each Standing Inventory a colour field saying what white, red, black and two or three local colours mean there (the chartered Northern houses read heraldry), use it unglossed in narration, and let two cultures read one colour two ways.
+
+> A colour code per culture. Each Inventory gains a colour field: what white, red, black and two or three local colours mean there, and the chartered Northern houses read heraldry. Narration uses it unglossed; two cultures may read one colour two ways.
+
+### R70-61-SEASON_WORD_DOES [Style Law 2026-10-03 DT3]
+
+Let each culture's season words place time and weather in one word in narration and speech, give each logged word a settled feeling, and lean the scene on that feeling without ever naming it.
+
+> Season words carry mood. As B, and each logged word carries a settled feeling, as kigo do: sap-stop means endings. The scene leans on that feeling and never names it. (Option B there reads: Season words mark time. Each culture's season words may stand in narration and speech, placing the time and weather in one word. Any feeling still comes from the scene itself.)
+
+### R70-62-WEATHER_LAND_AS_PERSONS [Style Law 2026-10-03 DT4]
+
+Personify weather and landscape only at mythic moments, in verse and documents, and in close POV for cultures whose speech already gives the sky a will; keep everyday narration plain.
+
+> Personify at high moments. R49-22 relaxes at mythic moments (R48-05), in verse and documents, and in close POV for cultures whose speech already gives the sky a will. Everyday narration stays plain.
+
+### R70-63-WEAR_AGE_AS_BEAUTY [Style Law 2026-10-03 DT5]
+
+State in each Standing Inventory what its people prize and despise in age, and let a POV see wear, mends and age through that culture's eye, so one object may be beautiful to one guest and shameful to another.
+
+> Beauty, keyed by culture. Each Inventory states what its people prize in age and what they despise. A Moto or Ketsuen POV may see the mend as beautiful while a Kharven guest sees a cracked bowl.
+
+### R70-64-VERSE_INSIDE_PROSE [Style Law 2026-10-03 DT6]
+
+Set verse apart as a quoted block when a character sings, recites or writes it or when it sits in an in-world document, and let a scene or chapter close on a short poem set apart.
+
+> Plus a closing poem. As B, and a scene or chapter may close on a short poem set apart, haibun-style. R49-26's legal endings gain the poem. (Option B there reads: In mouths and documents. Verse appears when a character sings, recites or writes it, or inside an in-world document, set as a quoted block the rhythm checks skip.)
+
+### R70-65-SET_IDIOMS_NARRATION [Style Law 2026-10-03 DT7]
+
+Give each Standing Inventory six to ten four-beat idioms, each compressing an in-world story that an elder tells once on the page, and use the idiom bare in narration or speech after that.
+
+> Four-beat idioms, told once. Each Inventory gains six to ten four-beat idioms, each a compressed in-world story. An elder tells the story once on the page; after that the idiom is used bare, in narration or speech.
+
+### R70-66-NAMED_DEVICES_ADD [Style Law 2026-10-03 DT8]
+
+Rooms and objects may be described by how they hold low light, once per set piece a held instant may carry a long comparison that grows into its own small scene and may reach beyond the POV's life, and a made object may be described at length until it opens onto history or myth.
+
+> Yes to: Tanizaki light and shadow (Rooms and objects may be described by how they hold low light: lacquer, gold in the dark, oil and paper. Moto shadow and Accord draw-light become a standing contrast); The epic simile (Once per set piece, a held instant may carry a long comparison that grows into its own small scene, and it may reach beyond the POV's life, an exception to R48-04 and R49-19); Ekphrasis, the made object (A made object (a painted screen, a banner, an engraved gorget) may be described at length until it opens onto history or myth, carrying what the narration may not say).
+
+### R70-68-INSIDE_PRACTICE [Style Law 2026-10-03 MY1]
+
+When a practitioner trains, draws or looks inward, write it as a walk through the Soul Crystal layer by layer in Codex nouns, showing where the draw enters, where it pools and where it snags.
+
+> The Crystal as inner map. Practice is written as a walk through the Soul Crystal in Codex nouns, layer by layer, as cultivation maps meridians: where the draw enters, where it pools, where it snags.
+
+### R70-69-PRESSURE_AURA [Style Law 2026-10-03 MY2]
+
+Render Pressure first through the room (smoke, frost, lamp flames, the draw-hum, animals) and then through bodies, leading with the room for every gap.
+
+> Through the room first. Pressure shows first in the room: smoke, frost, lamp flames, the draw-hum, animals; bodies follow. NATALIE's 'a Band gap changes weather' becomes the lead for every gap.
+
+### R70-72-WATCHING_CROWD_POWER_REVEAL [Style Law 2026-10-03 MY5]
+
+At a power reveal let the watching crowd speak in waves inside the POV's hearing (the breath, the name passed along, an elder's verdict); the reaction-shot tell no longer applies to crowds.
+
+> Spoken chorus, in hearing. At a reveal the crowd may speak in waves inside the POV's hearing: the breath, the name passed along, an elder's verdict. R5-G's reaction-shot tell is struck for crowds.
+
+### R70-73-MANY_DISPLAY_BEATS_PER [Style Law 2026-10-03 MY6]
+
+Each named practitioner may take one power-display beat per scene, so a duel may carry two and a battle several, still only at a Stage ascension, a Pressure drop, or a technique's first display or finisher.
+
+> One per practitioner. Each named practitioner may take one display beat per scene, so a duel can carry two and a battle several. R9-3-SCOPE's list of triggers stays.
+
+### R70-80-READOUT_SITS_PAGE [Style Law 2026-10-03 LR3]
+
+Figures sit inline in ordinary sentences by default, and a set-off readout block appears only at a re-assay that changes something, a breakthrough or the end of an arc.
+
+> Inline, blocks at milestones. Figures inline by default; a set-off block only at a re-assay that moves something, a breakthrough or an arc's end. Blocks become events, rare enough to land.
+
+### R70-81-VOICE_READOUT [Style Law 2026-10-03 LR4]
+
+Readout text stays clinical and carries no humour; any wit belongs to the clerk's or Measurewright's note beside it.
+
+> Clinical, wit in margins. The instrument stays clinical, and any wit lives in the clerk's or Measurewright's note beside it. Humour stays in a person, never in the readout, and R5-D stands.
+
+### R70-82-NUMERALS_LADDER_RUNGS [Style Law 2026-10-03 LR5]
+
+Stages and Bands may carry their Roman numeral beside the name, as Fracture of Worlds writes them ('Stage V, Splintering'), while Tiers of Standing and item Tiers are still written by name alone.
+
+> Numeral beside name. 'Stage V, Splintering' and 'Band II, Awakened', as FOW writes them. Tiers of Standing and item Tiers keep their names alone. R47-7 is amended.
+
+### R70-83-FIGURES_PLAIN_NARRATION [Style Law 2026-10-03 LR6]
+
+Narration may state on its own authority only the figures the POV actually holds, such as his own last reading, a card he has seen or what he was told.
+
+> What the POV knows. Narration states the figures the POV holds: his own last reading, the card he has seen, what he was told. R49-52 governs R49-47; R14-4-SUBSTAT retires; NATALIE.md is rewritten.
+
+### R70-84-GROWTH_MOMENTS_THAT_EARN [Style Law 2026-10-03 LR7]
+
+A readout may mark a Level gained with the stat points it brought, a Stage breakthrough naming the new Stage and its Tier of Standing, a new Trait as it registers, and first contact with or harmonisation to a Wellspring current.
+
+> Yes to: Level gained (A short readout when a Level lands, with the stat points it brought. The genre's heartbeat, and the most frequent of the four); Stage breakthrough (A readout naming the new Stage and its Tier of Standing when the Catalyst completes. The cultivation novel's big moment); New Trait (A readout naming the Trait when it registers. Rare, and each one changes what a character can do); Wellspring contact (A readout at first contact with a new Wellspring current (FOW's Resonant Surge) and at a harmonisation. Growth tied to a place).
+
+### R70-85-SCENE_MOMENTS_THAT_EARN [Style Law 2026-10-03 LR8]
+
+Inside a scene a readout may come from an appraisal of a person, beast or item, a surgeon's diagnostic line on a wound, or a reserve line after a working, but never from Pressure.
+
+> Yes to: Appraisal (Reading a person, beast or item: the Measurewright at the rail, the coil at the counter, a faculty. The genre's appraisal in WOTR's hands); A wound (A diagnostic line in a surgeon's terms: the structure struck, the ATLS class, the minutes left. Brida's 'third bowl' as a readout); Essence spent (A reserve line after a working: what was drawn and what is left. R60-03's hard reserve clock made visible). Not taken: Pressure.
+
+### R70-86-MANY_READOUTS_SCENE_CARRIES [Style Law 2026-10-03 LR9]
+
+A scene carries at most three readouts, at the display, the finisher and the aftermath, and a roleplay turn at most two, never two in one exchange.
+
+> Display, finisher, aftermath. Up to three per scene, on R48-20's rhythm; a roleplay turn carries two at most, never two in one exchange.
+
+### R70-87-READOUTS_TWO_VOICE_CAP [Style Law 2026-10-03 LR10]
+
+A readout states figures and explains nothing, so it never counts toward the two explaining voices an engagement may carry.
+
+> Outside the cap. A readout states figures and explains nothing, so it never counts; two voices still do the explaining, and the reader checks the call against the figures.
+
+### R70-89-BODY_FIRST_NUMBER_FIRST [Style Law 2026-10-03 LR12]
+
+When a cost or a gain lands, the body shows it first and the readout follows a line later in the same beat, both on the page together.
+
+> Body, then number. The body first and the readout in the same beat, a line after. Both on the page together, with the body always ahead.
+
+### R70-91-BREAKTHROUGH_PAGE [Style Law 2026-10-03 LR23]
+
+A Stage breakthrough is written from the body inside the danger that is its Catalyst, and its readout line lands only as the danger breaks and the Catalyst completes, never in the middle of an exchange.
+
+> In the crisis, line after. It happens inside the danger that is its Catalyst, written from the body; the line lands as the danger breaks and the Catalyst completes, never mid-exchange (LR11). R9-3's splash beat goes to the crisis.
+
+### R70-94-GAMER_SLANG [Style Law 2026-10-03 LR16]
+
+Gamer slang such as min-max, dump stat, aggro and cooldown may appear in a mouth whose voice would carry it but never in narration, and the checker watches narration for it.
+
+> Speech, by ear. Current law: gamer slang in a mouth whose voice would carry it; narration stays timeless. verify_scene adds these words to its narration watch-list.
+
+### R70-95-ITEM_CARDS [Style Law 2026-10-03 LR17]
+
+An item may get one set-off card at purchase or appraisal giving its Tier, Latin form, Grade band, maker, stamp, price and a line of lore, and that card is never printed again.
+
+> Item card, once. A set-off card at purchase or appraisal: Tier, Latin form, Grade band, maker, stamp, price, one line of lore. Once per item, never reprinted.
+
+### R70-100-MARTIAL_VOCABULARY_NAMES_MOVES [Style Law 2026-10-03 CB1]
+
+Narration names every move of a duel in the fencing vocabulary the POV himself trained in (kesa-giri for a Moto POV, Zornhau for a Greymane POV), and a foreign school's term reaches the page only in a character's mouth.
+
+> By the POV's own school. Narration names every move in the POV's own training (a Moto POV calls a diagonal cut kesa-giri, a Greymane POV a Zornhau); a foreign school's word arrives in a mouth. verify takes per-school lists.
+
+### R70-101-DECLARING_NAME_LINE_BEFORE [Style Law 2026-10-03 CB2]
+
+A fighter may declare his full name and line before a duel, but the recital spends the scene's one crafted speech under R48-43, and the opponent may close measure or shoot while it runs.
+
+> Full declaration, with a price. Full declarations are legal but count as the scene's crafted speech under R48-43, and the world does not wait: an opponent may close measure, or shoot, while the recital runs.
+
+### R70-102-STILLNESS_TRACED_PASSES_LONG [Style Law 2026-10-03 CB3]
+
+Write a Verdict duel as stillness then one cut, a Blade duel as traced passes and a Percussion or Expenditure duel as attrition, let practitioners escalate only while their reserve lasts, and keep unranked fighters under R60-01's fast, brutal lethality.
+
+> Shape follows the grammar. A rule ties duel shape to the four combat grammars: Verdict still then one cut, Blade traced passes, Percussion and Expenditure by attrition; practitioners escalate while reserve lasts. R60-01 holds for the unranked.
+
+### R70-103-MEMORY_INSIDE_FIGHT [Style Law 2026-10-03 CB4]
+
+Once per fight the POV may freeze one turning exchange for a full flashback of his own, a page or more, and the opponent's past reaches the page only through what the POV knows.
+
+> Full flashback, POV only. The POV may take a full flashback, a page or more, frozen inside one turning exchange, once per fight. The POV lock holds; the opponent's past reaches the page only through what the POV knows.
+
+### R70-105-JOINS_WOUND_WHEN_FIGHT [Style Law 2026-10-03 CB6]
+
+After a death by the blade, add the killing rites when the killer is Japonic, Korean or Chinese and an elegiac image when the POV's culture mourns that way, on top of the full clinical floor.
+
+> Rites and image, by culture. Both, keyed to culture: Japonic, Korean and Chinese killers carry the rites; the elegiac image belongs to any POV whose culture mourns that way. The clinical floor holds everywhere.
+
+### R70-106-BATTLE_TOLD [Style Law 2026-10-03 CB7]
+
+Tell a formation battle in POV-locked sections that cut, at marked breaks, between a commander on the hill and one man in the press, with R1-3's three heads covering both.
+
+> Hill and ditch, cut. A battle cuts between the commander's hill and one man in the press at marked breaks, each section POV-locked; the breaks stand in for the guide's rule to 'pass through Line'. R1-3's three heads cover both.
+
+### R70-113-DOUBLE_ACT_COMIC_BEAT [Style Law 2026-10-03 HU1]
+
+Comic voices and double acts named as such on their cards may play full comic beats, retort and reaction included, while every other character stays under R5-D's bar on the setup, deadpan and reaction rhythm.
+
+> Full beats for comic voices. Full comic beats, retort and reaction included, belong to comic voices and double acts named on their cards; everyone else stays under R5-D.
+
+### R70-114-GRIMDARK_WARMTH [Style Law 2026-10-03 HU2]
+
+Every live thread carries at least one standing warm bond (found family, master and disciple, sworn kin) written openly warm, joy may get scenes of its own, and losses still cost.
+
+> Warmth as counterweight. Each live thread carries at least one standing warm bond (found family, master and disciple, sworn kin) written openly warm, and joy may get scenes of its own. Losses still cost.
+
+### R70-115-TEARS_SENTIMENT [Style Law 2026-10-03 HU3]
+
+A guarded character's restraint holds through the big moment and gives way fully and openly at a small, unexpected thing, once per character per arc.
+
+> Break at a small thing. A rule adds the delayed break: restraint holds through the big moment and gives way, fully and openly, at a small unexpected thing. Once per character per arc.
+
+### R70-116-COMEDY_BESIDE_DANGER [Style Law 2026-10-03 HU4]
+
+Comedy and dread may be placed hard against each other by design (domestic farce, then the thing in the dark), each played straight, while any joke inside the danger itself stays gallows wit.
+
+> Comedy hard against dread. Comedy and dread may be set hard against each other by design (domestic farce, then the thing in the dark), each played straight; jokes inside the danger stay gallows wit.
+
+### R70-118-HONORIFICS_NARRATION [Style Law 2026-10-03 NE2]
+
+A close POV from a culture with honorifics carries them into narration as he would think them (Kaname-sama, Seo-nim), never italic, while a Western POV in the same room narrates plain names.
+
+> The POV's own honorific. A close POV from a culture with honorifics carries them into narration (Kaname-sama, Seo-nim) as he would think them, never italic; a Western POV in the same room uses plain names.
+
+### R70-127-COMIC_NAME_GRIM_END [Style Law 2026-10-03 NM9]
+
+When someone with a comic name dies badly, someone says the comic name at the death so the joke becomes the wound, and among the Kharven the name then goes unspoken until it is given on.
+
+> The name turns to grief. Someone says the comic name at the death and the joke becomes the wound. Among the Kharven the name then goes unspoken until it is given on (R23-11).
+
+### R70-129-NOTICES_JOKE [Style Law 2026-10-03 NM11]
+
+The POV may register a name's joke in his own head and idiom, as he would think it, but the narrator outside him never remarks on it.
+
+> Close POV may notice. The POV's own head may register the joke in his own idiom, as he would think it. The narrator outside him never remarks, so R5-C1 stands.
+
+### R70-133-EASTERN_TECHNIQUES_BESIDE_CLINICAL [Style Law 2026-10-03 XS1]
+
+An explicit scene may set a season or nature image beside the anatomy, hold one physical detail at chosen moments such as the peak, close its aftermath on a written or spoken exchange such as a morning poem, and use mimetic words for texture and state, romanised and never italic, all without displacing the plain anatomical words.
+
+> Yes to: Season and nature imagery (An explicit scene may set a season or nature image beside the anatomy (frost, snow, blossom, the brazier), carrying mood without replacing the plain words); Held detail at the peak (At chosen moments, usually the peak, one held physical detail may carry the beat; plain specificity governs the rest, and the aftermath is still written); The poem after (An explicit scene may close on a written or spoken exchange (a morning poem, a note, a line answered) as part of its aftermath beat); Mimetic words (Mimetic words for texture and state (the Japanese gitaigo habit, and each culture's own) join table rule 9's onomatopoeia, romanised and never italic).
+
+### R70-134-KEYED_CULTURE_FREE [Style Law 2026-10-03 XS2]
+
+The POV's culture decides which explicit-scene techniques the narration uses (a Moto POV writes with image and the held detail, a Kharven POV blunt, whoever the lover is), and the lover's culture shows in what they do and say.
+
+> Keyed to the POV. The POV's culture decides: a Moto POV writes with image and the held detail, a Kharven POV blunt, whoever the lover is; the lover's culture shows in what they do and say.
+
+### R70-135-WHERE_NEW_LAW_LIVES [Style Law 2026-10-03 ME1]
+
+Log the style law as one dated rule doc, rewrite NATALIE.md's models line and Prose Standards to it, and issue new editions of the Master Style Directive, Combat Craft Guide, Dialogue Craft Standards and Scene Writing Process Guide so no companion document still teaches the old law.
+
+> A, plus new guide editions. A, then new editions of the Master Style Directive, Combat Craft Guide, Dialogue Craft Standards and Scene Writing Process Guide, so no companion document still teaches the old law. (Option A there reads: Rule doc and NATALIE rewrite. One dated Style Law doc logged through log_ruling; NATALIE.md's models line and Prose Standards rewritten to it; R5-A-FLESH_CHANGES, R5-E-MARTIN_WINS_RULING and R11-1 superseded or amended as K1 decides.)
+
+### R70-136-NEW_CHECKS_VERIFY_SCENE [Style Law 2026-10-03 ME2]
+
+verify --combat takes a school (blade, japanese, chinese, korean, percussion) or reads the culture tag and warns only when a fight carries none of that school's terms; a marked verse block is left out of the rhythm statistics and word count but still read for dashes and hard bans; translated web-novel formulas WARN in narration and log an info line in speech.
+
+> Yes to: Combat words by school (verify --combat takes a school (blade, japanese, chinese, korean, percussion) or reads the culture tag, and warns only when a fight carries none of that school's terms); A verse marker (A marked verse block (a poem, a lament, a declaration in lines) is left out of the rhythm statistics and word count; the dash and hard-ban checks still read it); Stock-formula watch (A WARN on translated web-novel formulas (you court death, this junior, this old man, lose face) in narration, and an info line in speech, so the flavour stays where DL2 puts it). Not taken: Address check.
+
+### R70-138-PROOF_ORDER_WORK [Style Law 2026-10-03 ME4]
+
+The style law binds as logged, one test scene in a live thread follows, anything that reads wrong becomes a dated amendment, and only then is a sample bank written for Kharven, Moto, Accord, the Mahuo and the lineage halls.
+
+> Law, test scene, then bank. The law is logged live; one test scene in a live thread follows; anything that reads wrong becomes a dated amendment; then a sample bank for Kharven, Moto, Accord, the Mahuo and the lineage halls.
+
 ### R51-01-TIMELESS [Vocabulary Law 2026-09-26 Vocabulary and diction]
 
 Timeless narration varies by culture: plain, undated English by default; some cultures' scenes (Eresse, the Moto court) may take a more antique narration.
@@ -9802,7 +11278,7 @@ Narration refers to characters by POV epithets, the way the viewpoint sees them;
 
 > Narration refers to characters by POV epithets, the way the viewpoint sees them; the naming characterises.
 
-## register (151)
+## register (191)
 
 ### R20C-21-WELL_NAMES_CLASS_MARKED [Pack Twenty R20C-21]
 
@@ -10104,12 +11580,6 @@ A Measurewright, a Kharven hunter and an Accord officer explain the same phenome
 
 > Voice discipline. The explanation is characterised. A Measurewright, a Kharven hunter, and an Accord officer explain the same phenomenon in three different vocabularies, and which words a mouth reaches for remains class-marking, per Pack Nine.
 
-### R11-1-TONAL_SPINE_UNCHANGED [Pack Eleven §1]
-
-Pack Five stands in full; the Western Register still governs characterisation, humour and narration authority. Pack Eleven widens what the page may look like, not what it may sound like.
-
-> Tonal spine unchanged. Pack Five stands in full. The Western Register governs characterisation, humour, and narration authority. Pack Eleven widens what the page may look like. It does not reopen what the page may sound like. Temür still does not make jokes.
-
 ### R11-4-WELL_NAMING [Pack Eleven §4]
 
 Guild register calls it a Core Concentration; common tongue calls it a Well; going in is a descent, and the people who do it are delvers or well-rats.
@@ -10164,12 +11634,6 @@ WOTR runs an Eastern skeleton under Western flesh; the systematic density (Stage
 
 > WOTR runs an Eastern skeleton under Western flesh. The skeleton stays exactly as it is. Sixteen Temperance Stages, sixty Wellsprings, Bands and Grades and Coherence and eta, the Master Codex glyph grammar, Family and Physics Domain assignment, the seventeen-section character sheet, Trigger through Counterplay, EU costs to the unit. That systematic density is a light-novel and xianxia inheritance and it is the correct engine for this project. It does not get diluted, softened, or made impressionistic. Section 3.3's division of hard and soft labour stands untouched.
 
-### R5-A-FLESH_CHANGES [Pack Five A]
-
-Prose register, humour, characterisation method, narration authority and tonal architecture derive from the Western tradition (Martin's POV discipline, Tolkien's cultural register and elegiac capacity, Abercrombie's dry brutality).
-
-> The flesh changes. Prose register, humour, characterisation method, narration authority and tonal architecture now derive from the Western tradition: Martin's POV discipline, Tolkien's cultural register and elegiac capacity, Abercrombie's dry brutality.
-
 ### R5-B-MANHWA_DIRECTIVE_REPEALED [Pack Five B]
 
 Personality vomiting, reaction shots as characterisation, loud opinions as a default register, bizarre/exaggerated minor NPCs, absurdist method alongside genuine stakes, humour as a tone exception, and escalation as a prose-level pacing register are no longer craft law and become active tells; escalation survives only as plot architecture (Scene Writing Process Guide §2).
@@ -10199,12 +11663,6 @@ Free indirect discourse's per-character register licence is raised to a per-cult
 Humour is no longer an exception to tone but a property of specific characters in the Abercrombie register: dry understatement, gallows wit from those whose profession earns it, class-inflected contempt, a character being funny without knowing it, and the joke that is also a threat.
 
 > Permitted: dry understatement, gallows wit from people whose profession earns it, class-inflected contempt, a character being funny without knowing it, and the joke that is also a threat.
-
-### R5-E-MARTIN_WINS_RULING [Pack Five E]
-
-Martin wins on narration authority: Tolkien's elevated and elegiac register is available, his moral voice is not.
-
-> Ruling proposed: Martin wins on narration authority. Tolkien's elevated and elegiac register is available, his moral voice is not.
 
 ### R5-E-ELEGIAC_REGISTER_ALLOWED [Pack Five E]
 
@@ -10427,6 +11885,264 @@ Idiom draws on measure, position and law (out of position, standing, no place, r
 All three registers are originations contradicting no existing lore (none existed); if any culture has established speech in an unreached document, these are overridden by it.
 
 > All three are originations and none contradicts existing lore, because no lore existed. If any of these cultures has established speech in a document I did not reach, these are overridden by it and I would rather be told than have it discovered in prose.
+
+### R70-1-BLEND_MODEL [Style Law 2026-10-03 K1]
+
+Write every scene in one house style that draws on Western literary fantasy, the Eastern traditions and LitRPG at once, and let the POV's culture tilt the mix (further East in a Moto room, further West in an Accord counting-house).
+
+> Fused, tilted by culture. One house style draws on all three strands in every scene, and the POV's culture tilts the mix: a Moto room leans further East, an Accord counting-house further West. R5-A, R5-E and R11-1 are rewritten.
+
+### R70-4-WESTERN_MODELS [Style Law 2026-10-03 K4]
+
+Name Tolkien (elegy, high style, routes, songs, many-named places), Dickens and the Victorians (the city as organism, money and institutions, the serial hook) and Guy Gavriel Kay as the Western models, plus the Eastern and LitRPG creators Isaac added (Kishimoto, Kubo, anime, Unbound, The Beginning After the End); Martin and Abercrombie are no longer named, and the narrator still passes no moral verdicts.
+
+> Yes to: Tolkien (Elegy, high style, routes, songs and many-named places stay named under Tolkien; his moral voice stays barred (R5-E). Unticked, the same register stays legal under R48-05 without his name); Dickens and the Victorians (Joins the list: the city as one organism, money and institutions on the page, the serial hook. Fits the Draw Age's Victorian look (R53-28); the narrator's moral verdicts stay out); Guy Gavriel Kay (Joins the list: Western craft carried into Chinese-history settings, an elegiac storyteller who looks ahead to what the years will do, courts run on poetry and rank. A ready bridge for the Chinese-register halls and Korean courts). Not taken: Martin and Abercrombie. (Dickens/Victorians, Guy Gavriel Kay, Tolkien kept; Martin and Abercrombie unticked (dropped as named models). Added in his words: 'Other Eastern Writers like Creator of Naruto and Bleach and other animes litRPG light novel etc like unbound and beginning after the end'.)
+
+### R70-5-EASTERN_MODELS [Style Law 2026-10-03 K5]
+
+Draw on Jin Yong and the chapter novels for the Chinese-register halls, the Heike and the war tales for the Moto and Shirogane, Kawabata and Tanizaki for Japanese restraint, and pansori and sijo for Ketsuen, Hon-guk and the Mahuo.
+
+> Yes to: Jin Yong, chapter novels (The Chinese-register halls gain a model: named forms traced to a lineage and a manual, sect politics run like a state's, the chapter novel's storyteller and couplet chapter titles); The Heike and war tales (The Moto and Shirogane gain their tradition: the name-declaration before combat, armour catalogued piece by piece, impermanence felt at the fall of a house); Kawabata and Tanizaki (Japanese restraint gains a named model: the scene that breaks off before its point, the season in one exact detail, rooms described by how they hold light and shadow); Pansori and sijo (Ketsuen, Hon-guk and the Mahuo gain a literary voice: tempo matched to feeling, comedy inside tragedy, han (grief held for years, never released), and sijo, three-line verse that turns in its last line).
+
+### R70-9-TECHNICAL_MYSTIC_REGISTERS [Style Law 2026-10-03 K9]
+
+Draw the Technical register on LitRPG and wuxia (numbers, named forms, the read) and the Mystic on Japanese and Chinese literary craft and the gothic (law, the half-seen), and keep mixing the two freely by ear.
+
+> Strands mapped to registers. R12-2 is rewritten: the Technical register draws on LitRPG and wuxia (numbers, named forms, the read); the Mystic on Japanese and Chinese literary craft and the gothic (law, the half-seen). R48-10's free mixing stays.
+
+### R70-21-CADENCE_CULTURE [Style Law 2026-10-03 RH3]
+
+Let the POV's culture set the narration cadence, stated in each narration register, so a Hallenfeld man keeps his own rhythm in a Moto house and the gap between the two is texture.
+
+> POV's culture sets it. The POV's culture sets cadence, and each narration register states it. A Hallenfeld man stays Hallenfeld in a Moto house, and the gap between his rhythm and the house's is the texture.
+
+### R70-22-SOUND_WORDS [Style Law 2026-10-03 RH4]
+
+Each culture may carry a few native sound and state words in speech and close narration, entered in its Inventory and never set in italics.
+
+> Each culture's own words. Each culture may carry a few native sound and state words in speech and close narration, entered in its Inventory and never italic (R49-49). Moto and Korean-register houses gain most.
+
+### R70-24-EASTERN_CONCEPT_WORDS_NARRATION [Style Law 2026-10-03 VB1]
+
+In narration an Eastern loanword names what the body feels and the WOTR noun names what a gauge or the Guild measures, the two side by side in the same POV's narration.
+
+> Felt word, measured word. The loanword names what the body feels; the WOTR noun names what a gauge or the Guild measures, in the same POV's narration. The Eastern inside and the LitRPG outside sit side by side.
+
+### R70-25-FOREIGN_WORDS_PAGE [Style Law 2026-10-03 VB2]
+
+A native or borrowed word sits plain in the sentence, with no italics and no explaining phrase, and each book carries a glossary at the back while the wiki keeps a terms page.
+
+> Context plus a glossary. Prose as in A, plus a glossary at the back of each book and a terms page on the wiki. The page stays clean, and LitRPG readers get the reference they expect. (Option A there reads: Plain, context only. Current law. No italics and no explaining phrase; the scene carries the meaning. Immersive and quick, and now and then a reader guesses wrong for a page.)
+
+### R70-26-LEARNED_TONGUES_BESIDE_LATIN [Style Law 2026-10-03 VB3]
+
+Each learned culture may carry tags in its own learned tongue as the Accord carries Latin (hanmun for Korean-stratum scholars, kanbun readings in Moto records, wenyan in the lineage halls), every tag real, romanised and checked.
+
+> A learned tongue each. Hanmun tags for Korean-stratum scholars, kanbun readings in Moto records, wenyan in the lineage halls, Latin for the Accord, each real and romanised (R50-01, R50-31). Every learned culture gets weight; every tag needs checking.
+
+### R70-27-ANTIQUE_NARRATION_RUNS [Style Law 2026-10-03 VB4]
+
+Each Standing Inventory sets its culture's narration dial to plain, period or archaic as law, and narration's words follow the dial of the POV's culture.
+
+> A dial per culture. Each Standing Inventory sets plain, period or archaic as law, amending R20C-58, and narration follows the POV's culture. The sample is a Moto-court steward under an archaic dial; a Kharven POV stays plain.
+
+### R70-28-TRADE_SCIENCE_WORDS [Style Law 2026-10-03 VB5]
+
+Narration names apparatus and workings in their exact terms by ear, keeps an untrained POV's own body and his reading of the scene in plain words, and still meets Check 30's floor.
+
+> As now, mixed. Narration names apparatus and workings exactly by ear; an untrained POV's own body and his reading of the scene stay plain. Check 30's floor holds.
+
+### R70-29-UNITS_MEASURE [Style Law 2026-10-03 VB6]
+
+Narration measures distance, weight and time in the POV's own units (bowshots and a pot's boil for a Kharven guard; yards, pounds and joules for a Measurewright), and the exact figure stays with trained eyes.
+
+> The POV's own units. Current law. A Kharven guard counts in bowshots and a pot's boil, a Measurewright in yards, pounds and joules. Units characterise, and the exact figure stays with trained eyes.
+
+### R70-30-NUMBERS_WORDS_DIGITS [Style Law 2026-10-03 VB7]
+
+Narration spells out numbers up to one hundred and round numbers, and writes exact large counts and every system figure (Level, EU, AU/s) in digits.
+
+> Small in words, big digits. Words up to one hundred and for round numbers; digits for exact large counts and every system figure (Level, EU, AU/s). Sourced figures stand out as data.
+
+### R70-31-CAPITALS_SYSTEM_TERMS [Style Law 2026-10-03 VB8]
+
+Narration capitalises the canonical system terms on a fixed list (Stage, Band, Grade, Level, Wellspring, Essence, Aether, Pressure and the Sub-Stat names), writes reserve and the draw in lower case, and takes care with plain senses such as a band of riders.
+
+> Canonical terms capitalised. The archive's habit fixed as a list: Stage, Band, Grade, Level, Wellspring, Essence, Aether, Pressure and Sub-Stat names capitalised; reserve and the draw lower case. Plain senses (a band of riders) need care.
+
+### R70-32-NEW_WORDS_KIND_MANY [Style Law 2026-10-03 VB9]
+
+A new thing gets an English compound if it is common, the owning culture's native word if a culture owns it, and a capitalised label if it belongs to the system or an instrument, with no cap per scene and every coinage logged.
+
+> All three, by owner. English compounds for common things, a culture's native word where that culture owns the thing, capitalised labels for system and instrument things; no cap, all logged (R50-28). The blend in one rule.
+
+### R70-33-WORD_BANK_PER_CULTURE [Style Law 2026-10-03 VB10]
+
+Every Standing Inventory gains a Words entry listing native words, trade terms, slang and address forms, each with its meaning and who says it, and scenes draw from it first.
+
+> A Words entry everywhere. Every Inventory gains a Words entry: native words, trade terms, slang and address forms, each with meaning and who says it. Scenes draw from it first; a checker can spell-check against it.
+
+### R70-34-REAL_LANGUAGE_SWEARS_NARRATION [Style Law 2026-10-03 VB11]
+
+Close-POV narration for a Japonic, Korean or Chinese-stratum POV may carry his own language's real swears, romanised, correct and never italic, beside English and WOTR swears.
+
+> The POV's own tongue. A Japonic, Korean or Chinese-stratum POV may think his own language's swears, romanised, correct and never italic (R50-01, R50-32), beside English and WOTR ones.
+
+### R70-35-HARD_BAN_LIST [Style Law 2026-10-03 VB12]
+
+Narration may not use the listed cultivation-translation, Western fantasy and LitRPG stock phrases (qi surged, a grim smile, power surged through him and the rest the answer names), while testament for a will, visceral in anatomy and orbs for lamps and regalia now pass and the stock senses of those three still fail.
+
+> Yes to: Cultivation-translation stock (Bans 'qi surged', 'a cold glint flashed', 'sucked in a cold breath' and 'killing intent surged' in narration. The Eastern feel comes from method, never from translated filler); Western fantasy stock (Bans 'the steel sang', 'a grim smile', 'his blood ran cold', 'every fibre of his being' and 'darkness gathered'. Grimdark's own worn phrasing goes out with the imported kind); LitRPG stock (Bans 'power surged through him', 'stronger than ever', 'a wave of power' and 'his stats soared'. Growth shows in the body and on the instrument); Trim the false hits (Narrows three items to their stock sense: a will called a testament passes, 'visceral' passes in anatomy (the visceral pleura, R49-45), 'orbs' passes for lamps and regalia. The stock senses still fail).
+
+### R70-36-CHECKER_ENFORCES [Style Law 2026-10-03 VB13]
+
+verify_scene matches native words against the culture word banks (a near-miss FAILs, unknown words are listed for the scene log), checks Stage, Band, Wellspring and Family names for spelling and capitals against a wotr_terms.txt built from Fracture of Worlds, the glossary and the Codex, FAILs the new ban families at first use in narration (looser variants WARN), and WARNs on an italicised loanword, a digit where words are due and an archaic word outside its culture's dial.
+
+> Yes to: Word-bank spelling check (Native words are matched against the culture banks (VB10); a near-miss FAILs as a misspelt Wellspring does (R14-5-NEAR_MISS_FAIL); unknown words are listed for the scene log (R50-28)); Canonical term list (wotr_terms.txt is built from Fracture of Worlds, the glossary and the Codex; Stage, Band, Wellspring and Family names are checked for spelling and capitals (VB8), and a near-miss FAILs (R14-5-NEAR_MISS_FAIL, Check 37)); New ban families FAIL (The families chosen in VB12 FAIL at first use in narration, as R51-10 does; looser variants of a banned phrase WARN for a read); Style-sheet warnings (WARNs for the house style set here: an italicised loanword (VB2), a digit where words are due (VB7), an archaic word outside its culture's dial (VB4). Holds the style without blocking a reply).
+
+### R70-37-MODERN_IDIOM_THOUGHT [Style Law 2026-10-03 IN1]
+
+Italic thought may use any word the POV would say aloud, modern words included, while plain narration keeps its timeless register and verify drops italic thought from the modern-word check.
+
+> Thought as he speaks. Italic thought may use whatever the POV would say aloud, modern words included; plain narration stays timeless. verify drops italic thought from the modern-word check.
+
+### R70-39-CARRYING_FEELING [Style Law 2026-10-03 IN3]
+
+In scenes chosen for it, the feeling is never named and one held, concrete image carries it, and that image obeys the elegy rule of R5-C2 (a named concrete thing, never an abstraction).
+
+> Held image, never named. In chosen scenes the feeling is never named and one held, concrete image carries it, as mono no aware and han do; R49-07 gains a register-level exception, and the image obeys R5-C2.
+
+### R70-59-WHERE_COMPARISONS_COME_FROM [Style Law 2026-10-03 DT1]
+
+Draw comparisons from the POV's own life by default, and let any POV of a culture use that culture's eight to twelve set images, listed in its Standing Inventory, whole and unglossed.
+
+> Culture image bank, always. Each Standing Inventory gains eight to twelve set images that any POV of that culture may use whole, unglossed. POV-life comparisons stay the default; R49-20 relaxes for the listed images.
+
+### R70-61-SEASON_WORD_DOES [Style Law 2026-10-03 DT3]
+
+Let each culture's season words place time and weather in one word in narration and speech, give each logged word a settled feeling, and lean the scene on that feeling without ever naming it.
+
+> Season words carry mood. As B, and each logged word carries a settled feeling, as kigo do: sap-stop means endings. The scene leans on that feeling and never names it. (Option B there reads: Season words mark time. Each culture's season words may stand in narration and speech, placing the time and weather in one word. Any feeling still comes from the scene itself.)
+
+### R70-62-WEATHER_LAND_AS_PERSONS [Style Law 2026-10-03 DT4]
+
+Personify weather and landscape only at mythic moments, in verse and documents, and in close POV for cultures whose speech already gives the sky a will; keep everyday narration plain.
+
+> Personify at high moments. R49-22 relaxes at mythic moments (R48-05), in verse and documents, and in close POV for cultures whose speech already gives the sky a will. Everyday narration stays plain.
+
+### R70-65-SET_IDIOMS_NARRATION [Style Law 2026-10-03 DT7]
+
+Give each Standing Inventory six to ten four-beat idioms, each compressing an in-world story that an elder tells once on the page, and use the idiom bare in narration or speech after that.
+
+> Four-beat idioms, told once. Each Inventory gains six to ten four-beat idioms, each a compressed in-world story. An elder tells the story once on the page; after that the idiom is used bare, in narration or speech.
+
+### R70-66-NAMED_DEVICES_ADD [Style Law 2026-10-03 DT8]
+
+Rooms and objects may be described by how they hold low light, once per set piece a held instant may carry a long comparison that grows into its own small scene and may reach beyond the POV's life, and a made object may be described at length until it opens onto history or myth.
+
+> Yes to: Tanizaki light and shadow (Rooms and objects may be described by how they hold low light: lacquer, gold in the dark, oil and paper. Moto shadow and Accord draw-light become a standing contrast); The epic simile (Once per set piece, a held instant may carry a long comparison that grows into its own small scene, and it may reach beyond the POV's life, an exception to R48-04 and R49-19); Ekphrasis, the made object (A made object (a painted screen, a banner, an engraved gorget) may be described at length until it opens onto history or myth, carrying what the narration may not say).
+
+### R70-67-FORMS_WORLD_DOCUMENTS [Style Law 2026-10-03 DT9]
+
+An in-world document may be a list or loose notebook, a record of the strange closed on the recorder's comment, a court annal or memorial, or a Guild reference entry (bestiary, registry sheet, item ledger) with every figure traced to canon.
+
+> Yes to: Lists and loose notebooks (A document may be a list or loose notebook in the Pillow Book manner, a culture's eye compressed into entries; it moves no plot and packs world-only detail. Suits the Moto and Eresse courts); Records of the strange (A document may set down a strange event as plain witness and close on the recorder's own comment, the zhiguai form; folk belief stays uncorrected (R53-15). Suits Guild archives, Well reports and the lineage halls); Court annals and memorials (A day-record by a court recorder the ruler may not read, as Joseon Korea kept its annals, or a memorial (a set-form petition to the throne). Suits the Mahuo houses and the Moto court); Game-reference entries (Bestiary entries, registry sheets and item ledgers in a Guild hand, LitRPG's reference pages made institutional, each figure traced to canon (R12-5, R57-07). Suits the Guild, the wardens and the proof-houses).
+
+### R70-74-TECHNIQUE_NAME_LOOKS [Style Law 2026-10-03 MY9]
+
+A school's art may run as named, numbered forms called and counted as a ladder of mastery, and lineage-hall and Korean-stratum arts may carry a four-syllable true name in correct Chinese or Korean with a literal gloss; the bracket form inside sentences was not taken.
+
+> Yes to: Numbered forms by school (A school's art may run as numbered forms (First Form, Second Form), each named, called and counted; mastery reads as forms held, a ladder inside the art at R8-23's form level); Long names for the halls (Lineage-hall and Korean-stratum arts may carry a four-syllable true name in correct Chinese or Korean, glossed literally (R8-22); R50-11's two-word cap binds new English names only). Not taken: Brackets inside sentences.
+
+### R70-76-MUCH_WORLD_MAGIC [Style Law 2026-10-03 MY8]
+
+Write what the world does by itself as stated law, with rules in the imperative, prices as prices and taboos unexplained, while people's workings keep their full mechanism.
+
+> Law stated, reasons kept. R12-2 governs what the world does and R48-25 narrows to what people do: rules in the imperative, prices as prices, taboos unexplained. People's workings keep full mechanism.
+
+### R70-81-VOICE_READOUT [Style Law 2026-10-03 LR4]
+
+Readout text stays clinical and carries no humour; any wit belongs to the clerk's or Measurewright's note beside it.
+
+> Clinical, wit in margins. The instrument stays clinical, and any wit lives in the clerk's or Measurewright's note beside it. Humour stays in a person, never in the readout, and R5-D stands.
+
+### R70-83-FIGURES_PLAIN_NARRATION [Style Law 2026-10-03 LR6]
+
+Narration may state on its own authority only the figures the POV actually holds, such as his own last reading, a card he has seen or what he was told.
+
+> What the POV knows. Narration states the figures the POV holds: his own last reading, the card he has seen, what he was told. R49-52 governs R49-47; R14-4-SUBSTAT retires; NATALIE.md is rewritten.
+
+### R70-93-BUILD_TALK_DIALOGUE [Style Law 2026-10-03 LR15]
+
+Any ranked practitioner may speak his own and others' figures exactly and argue builds in dialogue, as in Unbound, while commoners still round.
+
+> Ranked practitioners too. Any ranked practitioner talks his own and others' numbers exactly and argues builds, as in Unbound; commoners still round. R52-05 widens.
+
+### R70-94-GAMER_SLANG [Style Law 2026-10-03 LR16]
+
+Gamer slang such as min-max, dump stat, aggro and cooldown may appear in a mouth whose voice would carry it but never in narration, and the checker watches narration for it.
+
+> Speech, by ear. Current law: gamer slang in a mouth whose voice would carry it; narration stays timeless. verify_scene adds these words to its narration watch-list.
+
+### R70-100-MARTIAL_VOCABULARY_NAMES_MOVES [Style Law 2026-10-03 CB1]
+
+Narration names every move of a duel in the fencing vocabulary the POV himself trained in (kesa-giri for a Moto POV, Zornhau for a Greymane POV), and a foreign school's term reaches the page only in a character's mouth.
+
+> By the POV's own school. Narration names every move in the POV's own training (a Moto POV calls a diagonal cut kesa-giri, a Greymane POV a Zornhau); a foreign school's word arrives in a mouth. verify takes per-school lists.
+
+### R70-107-SPEECH_LEVELS_ADDRESS_KOREAN [Style Law 2026-10-03 DL1]
+
+Korean speakers use their own address words (-ssi, -nim, sunbae) and Chinese speakers theirs (shifu, shixiong, qianbei), romanised and never italic, and any shift in speech level is written as an event the room hears.
+
+> Native words and level shifts. Native address words as in B, and level shifts written as events as in C. R23-10-CHINESE_PHONOTACTICS still bars stacked honorifics inside names. (Option B there reads: Native address words. R51-21 extends: Korean speakers use their own address words (-ssi, polite; -nim, honoured; sunbae), Chinese theirs (shifu, shixiong, qianbei, an elder of another school), romanised and never italic.) (Option C there reads: Levels carried in English. No foreign address words beyond the Japonic houses; speech levels live in English grammar (bare orders against full courteous forms), and a shift of level is written as an event the room hears.)
+
+### R70-108-EASTERN_REGISTER_SPEECH_SOUNDS [Style Law 2026-10-03 DL2]
+
+Chinese and Korean speakers talk natural English in daily speech and shift into translated forms (humble self-reference, set formulas, word-for-word idioms) only at ceremony, challenge, oath, court and insult, where the shift itself is a beat.
+
+> Translated forms for ceremony. Natural English in daily talk; the translated forms (self-reference, set formulas, idioms word for word) come out at ceremony, challenge, oath, court and insult, where the shift into them is itself a beat.
+
+### R70-109-PROVERBS_SPEECH [Style Law 2026-10-03 DL3]
+
+Elders, headmen and court speakers carry several fixed sayings and may argue in them at bargain, quarrel and council, a saying answered by a saying, while the young speak plain and a youth who quotes above his years is put down for it.
+
+> Duels, by age and standing. B, keyed to standing: elders, headmen and court speakers argue in sayings; the young speak plain, and a youth who quotes above his years is put down for it. (Option B there reads: Proverb duels. NPCs carry several fixed sayings and may argue in them at bargain, quarrel and council, a saying answered by a saying. R52-30's 'one' becomes 'several'.)
+
+### R70-110-VERSE_EXCHANGED_TALK [Style Law 2026-10-03 DL4]
+
+At rites and in court the Moto court, Eresse, the Mahuo houses and the lineage halls may offer and answer verse, a weak or plain answer costing face; Northern English and Norse-register speakers may trade alliterative insult verse (flyting); each culture's verse form is entered in its Inventory.
+
+> Each culture its own contest. B, plus the north's own form: Northern English and Norse-register speakers may answer in alliterative insult verse (flyting). Each culture's verse form is entered in its Inventory. (Option B there reads: Courtly cultures trade verse. The Moto court, Eresse, the Mahuo houses and the lineage halls may offer and answer verse at rites and in court; a weak answer, or a plain one, costs face.)
+
+### R70-111-LONG_FORMAL_SPEECH_CLIPPED [Style Law 2026-10-03 DL5]
+
+Court cultures (the Moto court, the Accord chancery, the Mahuo houses, the lineage halls) argue in long formal speeches at court as their normal register, Kharven, saga and soldier speech stays short, and R48-43's one-speech cap holds everywhere outside court.
+
+> Long speech at court. Court cultures (the Moto court, the Accord chancery, the Mahuo houses, the lineage halls) argue in long formal speeches as their normal register; Kharven, saga and soldier speech stay short. R48-43's cap holds outside court.
+
+### R70-118-HONORIFICS_NARRATION [Style Law 2026-10-03 NE2]
+
+A close POV from a culture with honorifics carries them into narration as he would think them (Kaname-sama, Seo-nim), never italic, while a Western POV in the same room narrates plain names.
+
+> The POV's own honorific. A close POV from a culture with honorifics carries them into narration (Kaname-sama, Seo-nim) as he would think them, never italic; a Western POV in the same room uses plain names.
+
+### R70-123-WHOSE_EAR_HEARS_JOKE [Style Law 2026-10-03 NM5]
+
+An English pun in a name is legal only where the world supplies a bridge (a Common mouth, a byname rendered in English, a Common ear mishearing), and a pun hidden in a foreign name for the reader alone stays out.
+
+> English puns with a bridge. An English pun is legal where the world supplies a bridge: a Common mouth, a byname rendered in English, or a Common ear mishearing. Reader-only puns hidden in a foreign name stay out.
+
+### R70-133-EASTERN_TECHNIQUES_BESIDE_CLINICAL [Style Law 2026-10-03 XS1]
+
+An explicit scene may set a season or nature image beside the anatomy, hold one physical detail at chosen moments such as the peak, close its aftermath on a written or spoken exchange such as a morning poem, and use mimetic words for texture and state, romanised and never italic, all without displacing the plain anatomical words.
+
+> Yes to: Season and nature imagery (An explicit scene may set a season or nature image beside the anatomy (frost, snow, blossom, the brazier), carrying mood without replacing the plain words); Held detail at the peak (At chosen moments, usually the peak, one held physical detail may carry the beat; plain specificity governs the rest, and the aftermath is still written); The poem after (An explicit scene may close on a written or spoken exchange (a morning poem, a note, a line answered) as part of its aftermath beat); Mimetic words (Mimetic words for texture and state (the Japanese gitaigo habit, and each culture's own) join table rule 9's onomatopoeia, romanised and never italic).
+
+### R70-134-KEYED_CULTURE_FREE [Style Law 2026-10-03 XS2]
+
+The POV's culture decides which explicit-scene techniques the narration uses (a Moto POV writes with image and the held detail, a Kharven POV blunt, whoever the lover is), and the lover's culture shows in what they do and say.
+
+> Keyed to the POV. The POV's culture decides: a Moto POV writes with image and the held detail, a Kharven POV blunt, whoever the lover is; the lover's culture shows in what they do and say.
 
 ### R51-01-TIMELESS [Vocabulary Law 2026-09-26 Vocabulary and diction]
 
@@ -10710,7 +12426,7 @@ The Zettari bloodline's names, titles and technique names are built in a Swahili
 
 > The Zettari speak their own tongue. Their names and their arts are Swahili, Bantu and Arabic in flavour — Kafa-Karim, Habl Flow-Bind, Sarmad Fracture, Sukun Maji, Dawam Soul-Still Art, Kumi-na-Mbili Seal; Zuberi, Ma'Kovu, N'Kharu, Malani, Jomari, N'Yari, Zembari — and that register stands. The five-strata naming convention assigns the archaic bloodlines to the Japonic stratum; the Zettari are carved out of it as a register of their own, and the Japonic assignment continues to govern every other archaic line. Ruled by Isaac, 2026-09-12.
 
-## scene-structure (32)
+## scene-structure (67)
 
 ### R19-2-BUILT_AROUND [Pack Nineteen §2]
 
@@ -10904,7 +12620,217 @@ The narration-distance rule wins over Pack One's Scene Standards carve-out: a na
 
 > The narration-distance rule wins: no NPC italic thought inside a locked-POV scene. Pack One's "one private italic thought per named NPC" carve-out survives only for scenes with no POV lock (omniscient and mass combat).
 
-## session-protocol (30)
+### R70-3-STRAND_LEADS_LAYER [Style Law 2026-10-03 K3]
+
+Let the Eastern strand lead narration, interiority and structure, the Western strand lead combat, injury and dialogue, and LitRPG lead progression, so that the narrator is what changes most.
+
+> Eastern voice leads. Eastern leads narration, interiority and structure; Western leads combat, injury and dialogue; LitRPG leads progression. The narrator itself changes most.
+
+### R70-6-LITRPG_PROGRESSION_MODELS [Style Law 2026-10-03 K6]
+
+Take Cradle (rank felt in the room, breakthroughs as set pieces), Reverend Insanity (every gain bought and counted), Solo Leveling (the reassessment, quests with stated penalties, the drill as contract) and The Wandering Inn (the level-up as a quiet verdict, bracketed class and skill names) as progression models beside Unbound.
+
+> Yes to: Cradle (Ranks everyone in a room can sense, breakthroughs written as set pieces, little need for screens. Matches how Pressure already works in WOTR); Reverend Insanity (A Chinese cultivation novel run as a ledger: every gain bought, every resource counted, a cold calculating mind at the centre. The grimdark end of cultivation fiction, close to WOTR's cost law); Solo Leveling (The Korean System novel: the reassessment that overturns a registered rank, quests with stated penalties, the daily drill as a contract. Its escalation and onlooker shock run into the R5-B tells); The Wandering Inn (The level-up as a quiet verdict on who a person became that day, arriving in sleep; bracketed class and skill names inside ordinary sentences).
+
+### R70-10-NARRATOR_STANCE [Style Law 2026-10-03 VO1]
+
+Let the narrator address the reader, foreshadow or set down a maxim only in a chapter's opening and closing lines, and keep the body of every scene POV-locked.
+
+> Storyteller at thresholds. In a chapter's opening and closing lines the narrator may address the reader, foreshadow or set down a maxim; the body of the scene stays POV-locked. R5-C1 gains a threshold exception.
+
+### R70-14-KISHOTENKETSU [Style Law 2026-10-03 SP1]
+
+Quiet, travel, downtime and interlude scenes may run set-up, development, twist and reconciliation with no conflict, while fights, councils and set pieces keep the turn; the scene brief names the shape and a roleplay turn still stops at Isaac's decision.
+
+> Kishōtenketsu for quiet scenes. Quiet, travel, downtime and interlude scenes may run set-up, development, twist, reconciliation with no conflict; fights, councils and set pieces keep the turn. Scene briefs name the shape; roleplay turns still stop at Isaac's decision.
+
+### R70-15-TEMPO_STILLNESS [Style Law 2026-10-03 SP2]
+
+Run set pieces and long scenes slow, then breaking, then swift, at scene and paragraph scale; the motion opening becomes one option among several, and the hit still lands short and last.
+
+> Jo-ha-kyū tempo. Set pieces and long scenes run slow, breaking, swift at scene and paragraph scale; R49-25's motion opening becomes one option among others, and the hit still lands short and last (R48-06).
+
+### R70-16-OPENING_MODES [Style Law 2026-10-03 SP3]
+
+Beside the senses and motion, a scene may open far to near (a long view closing plane by plane on the person), on one culture's season word that fixes time and mood, or on a register entry, readout or document that the scene then tests.
+
+> Yes to: Far to near (Arrivals may open on a long view that moves in, plane by plane, to the person, as Chinese landscape painting does. Feeds the archive's thin landscape); Season word (An opening may fix time and mood with one culture's season word (Ward-Lighting, the Thin Weeks, Ice-out) instead of a mood statement; each Inventory's Time field becomes a season list); A reading or document (A scene may open on a register entry, readout or document that the scene then tests (R12-4's threshold voice), as Lord of the Mysteries and LitRPG chapters do). Not taken: Image linked by mood.
+
+### R70-17-CLOSING_MODES [Style Law 2026-10-03 SP4]
+
+Beside an action, an image or a line, a chapter or scene may stop mid-crisis on a reveal or threat, close on a set-off notice or readout of what the scene cost or earned (figures traced to the sheet), or break off a breath before its emotional payoff, which the next scene then owes.
+
+> Yes to: Mid-crisis cliffhanger (Chapters, and turns at the next decision, may stop mid-crisis on a reveal or a threat, web-serial style; R49-26 gains the hook R5-F already wants); A notice or readout (A scene may close on a notice or readout set off from the prose: what the scene cost or earned, in figures traced to the sheet (R12-5)); Break off before payoff (A scene may stop a breath before its emotional point and leave the payoff to the reader or the next scene, as Kawabata does; the next scene owes what was withheld). Not taken: Storyteller's next chapter.
+
+### R70-18-ARC_SHAPES [Style Law 2026-10-03 SP5]
+
+A thread or book may run the tournament or examination arc, the Well delve (deeper ground and worse Well-spawn each stage, each closed on its cost), the training montage (weeks of drill compressed into one passage ending on a reading), and episodic self-contained jobs inside the longer arc.
+
+> Yes to: Tournament and examination (Tournaments and examinations become a licensed arc: rounds, brackets, scouts' odds, a ranking at the close. The Aetherion Academy arc already runs this way; ticking it names the shape); The Well delve (A Well may be worked as an arc, deeper ground and worse spawn at each stage, each stage closed on its cost; Well-spawn (R53-06) supply the threat); The training montage (Weeks of drill may pass in one compressed passage that ends on a reading of what changed; R48-29's skip gains a form for growth); Episodic jobs (A chapter or session may be one self-contained job, opened and closed in itself, inside the longer arc, as light novels and The Wandering Inn run).
+
+### R70-23-CHAPTER_HEADS [Style Law 2026-10-03 RH5]
+
+A book chapter may be headed by a matched couplet naming its two main events, by a short in-world document in its institution's house style that the chapter then tests, or by a short verse in a culture's own form, which verify reads as verse outside the rhythm statistics.
+
+> Yes to: Couplet title (A book chapter may be headed by a matched couplet naming its two main events; the table of contents reads as a poem and a promise); In-world epigraph (A chapter may open on a short in-world document (case-book, register, proverb, letter) in its institution's house style (R51-33), which the chapter then tests (R12-4)); Verse header (A chapter may open on a short verse in a culture's own form (a Kharven riding-song, a Korean sijo), and verify checks it as verse, outside the rhythm statistics).
+
+### R70-39-CARRYING_FEELING [Style Law 2026-10-03 IN3]
+
+In scenes chosen for it, the feeling is never named and one held, concrete image carries it, and that image obeys the elegy rule of R5-C2 (a named concrete thing, never an abstraction).
+
+> Held image, never named. In chosen scenes the feeling is never named and one held, concrete image carries it, as mono no aware and han do; R49-07 gains a register-level exception, and the image obeys R5-C2.
+
+### R70-40-WIDE_DESCRIPTION_MUST_RANGE [Style Law 2026-10-03 DS1]
+
+Every scene brief names one lead subject group and two supporting groups from the rotation, the lead changing from scene to scene, and session end flags any rotation group a thread has left untouched for six scenes.
+
+> Lead plus two, thread-checked. Each scene brief names one lead subject group and two supporting ones, the lead rotating scene to scene; session end flags any rotation group untouched for six scenes.
+
+### R70-49-LANDSCAPE_SKY [Style Law 2026-10-03 DS9]
+
+Give every outdoor scene one wide view built in far, middle and near planes with the people small in it, and put the sky in it after dark.
+
+> One wide view outdoors. Every outdoor scene gets one wide view built far, middle and near, with the people small in it, and the sky in it after dark.
+
+### R70-50-BODIES_AFTER_FIRST_SIGHT [Style Law 2026-10-03 DS10]
+
+Every time a person returns after their first-sight inventory, show one detail of what the body has changed since (a new wound, weight, fatigue, cold damage, a missed shave), so the Ledger's costs show.
+
+> One changed detail each time. Every return of a person carries one detail of what the body has changed since: a new wound, weight, fatigue, cold damage, a missed shave. The Ledger's costs show.
+
+### R70-53-WHERE_DESCRIPTION_SITS [Style Law 2026-10-03 DD2]
+
+Keep texture woven through every beat, and hold the longer descriptive passages for pauses, silences and aftermaths so news lands bare and the room is seen in the quiet after.
+
+> Woven, pooling in lulls. Texture stays woven through every beat; the longer passages are held for pauses, silences and aftermaths, so the news lands bare and the room is seen in the quiet after.
+
+### R70-54-GETS_FULL_INVENTORY [Style Law 2026-10-03 DD3]
+
+Give the full first-sight inventory to major people, places, rooms, creatures and significant objects, and catch a minor person in one exact stroke.
+
+> Places full, minors one stroke. Major people, places, rooms, creatures and significant objects get the full inventory; minor people get one exact stroke.
+
+### R70-55-ORDER_FIRST_INVENTORY [Style Law 2026-10-03 DD4]
+
+Keep a first-sight inventory as one passage, but run it in the order this POV would look (a clerk prices first, a surgeon reads wounds first, a rider looks at hands) instead of a fixed order.
+
+> The POV's order. The inventory stays one passage at first sight but runs in the order this POV would look: a clerk prices first, a surgeon reads wounds first, a rider looks at hands.
+
+### R70-56-CATALOGUE_TELLING_DETAIL [Style Law 2026-10-03 DD5]
+
+Let arming, feasts, markets, musters, treasuries and loot run as full catalogues, keep description woven everywhere else, and flank a long list with short sentences so the chain ceiling still holds.
+
+> Catalogue at set occasions. Arming, feasts, markets, musters, treasuries and loot may run as full catalogues; elsewhere description stays woven. The chain ceiling (R4-14) still holds, so short sentences flank a long list.
+
+### R70-57-DESCRIPTION_INSIDE_FIGHT [Style Law 2026-10-03 DD6]
+
+Run a fight's exchanges traced and lean, and at the deciding moment hold the page still for a passage of setting before the outcome lands.
+
+> Held instant, then outcome. Exchanges run traced and lean; at the deciding moment the page holds still for a passage of setting before the outcome lands.
+
+### R70-64-VERSE_INSIDE_PROSE [Style Law 2026-10-03 DT6]
+
+Set verse apart as a quoted block when a character sings, recites or writes it or when it sits in an in-world document, and let a scene or chapter close on a short poem set apart.
+
+> Plus a closing poem. As B, and a scene or chapter may close on a short poem set apart, haibun-style. R49-26's legal endings gain the poem. (Option B there reads: In mouths and documents. Verse appears when a character sings, recites or writes it, or inside an in-world document, set as a quoted block the rhythm checks skip.)
+
+### R70-71-EXPLAINING_WORKING_MID_FIGHT [Style Law 2026-10-03 MY4]
+
+Plant a working's rules earlier through training, a document or talk, so a fight's explaining is mostly recall and the reader does the sum with the fighter, while self-derived techniques are still read live.
+
+> Rules shown beforehand. A working's rules are planted earlier (training, a document, talk), so the fight's explaining is mostly recall and the reader does the sum with the fighter. Self-derived techniques are still read live (R12-3).
+
+### R70-75-RITE_PAGE [Style Law 2026-10-03 MY7]
+
+Set a rite on the page as a numbered in-world form in the Guild's house style, then have the scene perform it, with something departing from the form.
+
+> Numbered rite, set apart. The rite appears as an in-world form in the Guild's house style (R51-33), numbered and set apart; the scene then performs it, and something departs from it.
+
+### R70-84-GROWTH_MOMENTS_THAT_EARN [Style Law 2026-10-03 LR7]
+
+A readout may mark a Level gained with the stat points it brought, a Stage breakthrough naming the new Stage and its Tier of Standing, a new Trait as it registers, and first contact with or harmonisation to a Wellspring current.
+
+> Yes to: Level gained (A short readout when a Level lands, with the stat points it brought. The genre's heartbeat, and the most frequent of the four); Stage breakthrough (A readout naming the new Stage and its Tier of Standing when the Catalyst completes. The cultivation novel's big moment); New Trait (A readout naming the Trait when it registers. Rare, and each one changes what a character can do); Wellspring contact (A readout at first contact with a new Wellspring current (FOW's Resonant Surge) and at a harmonisation. Growth tied to a place).
+
+### R70-86-MANY_READOUTS_SCENE_CARRIES [Style Law 2026-10-03 LR9]
+
+A scene carries at most three readouts, at the display, the finisher and the aftermath, and a roleplay turn at most two, never two in one exchange.
+
+> Display, finisher, aftermath. Up to three per scene, on R48-20's rhythm; a roleplay turn carries two at most, never two in one exchange.
+
+### R70-91-BREAKTHROUGH_PAGE [Style Law 2026-10-03 LR23]
+
+A Stage breakthrough is written from the body inside the danger that is its Catalyst, and its readout line lands only as the danger breaks and the Catalyst completes, never in the middle of an exchange.
+
+> In the crisis, line after. It happens inside the danger that is its Catalyst, written from the body; the line lands as the danger breaks and the Catalyst completes, never mid-exchange (LR11). R9-3's splash beat goes to the crisis.
+
+### R70-92-CONFIRMING_NEW_STAGE [Style Law 2026-10-03 LR14]
+
+A new Stage is confirmed at a re-assay held as a rite before witnesses, read aloud and entered on the Reckoner's roll.
+
+> A public re-assay. The re-assay is a rite before witnesses, read aloud and entered on the Reckoner's roll: the sect's ranking ceremony, in WOTR's institutions.
+
+### R70-98-SHEETS_CHAPTER_ARC_ENDS [Style Law 2026-10-03 LR20]
+
+Each book chapter closes, above the notes, with a short block of what moved on the sheet and why, while a roleplay turn keeps that block in its notes.
+
+> Changes at chapter end. Each chapter closes with a short block of what moved and why, above the notes; roleplay turns keep it in the notes.
+
+### R70-102-STILLNESS_TRACED_PASSES_LONG [Style Law 2026-10-03 CB3]
+
+Write a Verdict duel as stillness then one cut, a Blade duel as traced passes and a Percussion or Expenditure duel as attrition, let practitioners escalate only while their reserve lasts, and keep unranked fighters under R60-01's fast, brutal lethality.
+
+> Shape follows the grammar. A rule ties duel shape to the four combat grammars: Verdict still then one cut, Blade traced passes, Percussion and Expenditure by attrition; practitioners escalate while reserve lasts. R60-01 holds for the unranked.
+
+### R70-103-MEMORY_INSIDE_FIGHT [Style Law 2026-10-03 CB4]
+
+Once per fight the POV may freeze one turning exchange for a full flashback of his own, a page or more, and the opponent's past reaches the page only through what the POV knows.
+
+> Full flashback, POV only. The POV may take a full flashback, a page or more, frozen inside one turning exchange, once per fight. The POV lock holds; the opponent's past reaches the page only through what the POV knows.
+
+### R70-106-BATTLE_TOLD [Style Law 2026-10-03 CB7]
+
+Tell a formation battle in POV-locked sections that cut, at marked breaks, between a commander on the hill and one man in the press, with R1-3's three heads covering both.
+
+> Hill and ditch, cut. A battle cuts between the commander's hill and one man in the press at marked breaks, each section POV-locked; the breaks stand in for the guide's rule to 'pass through Line'. R1-3's three heads cover both.
+
+### R70-111-LONG_FORMAL_SPEECH_CLIPPED [Style Law 2026-10-03 DL5]
+
+Court cultures (the Moto court, the Accord chancery, the Mahuo houses, the lineage halls) argue in long formal speeches at court as their normal register, Kharven, saga and soldier speech stays short, and R48-43's one-speech cap holds everywhere outside court.
+
+> Long speech at court. Court cultures (the Moto court, the Accord chancery, the Mahuo houses, the lineage halls) argue in long formal speeches as their normal register; Kharven, saga and soldier speech stay short. R48-43's cap holds outside court.
+
+### R70-112-FACE_FACE_SLAP [Style Law 2026-10-03 DL6]
+
+An arrogant scion may underestimate and be reversed in public while the room reassesses, but every such reversal opens a Front or a Ledger debt (a vengeful house, a witness, a feud), and the humbled man stays veteran-clever afterward.
+
+> The face-slap, with a bill. C, with a bill: every public reversal opens a Front or a Ledger debt (a vengeful house, a witness, a feud), and the humbled man stays veteran-clever afterward. (Option C there reads: The face-slap licensed. The face-slap becomes a legal payoff: an arrogant scion underestimates, the reversal is public, the room reassesses. R5-C1-WELL_REASONED_WRONG_CONCLUSION and R48-36 relax for the arrogant, who may misjudge badly.)
+
+### R70-114-GRIMDARK_WARMTH [Style Law 2026-10-03 HU2]
+
+Every live thread carries at least one standing warm bond (found family, master and disciple, sworn kin) written openly warm, joy may get scenes of its own, and losses still cost.
+
+> Warmth as counterweight. Each live thread carries at least one standing warm bond (found family, master and disciple, sworn kin) written openly warm, and joy may get scenes of its own. Losses still cost.
+
+### R70-116-COMEDY_BESIDE_DANGER [Style Law 2026-10-03 HU4]
+
+Comedy and dread may be placed hard against each other by design (domestic farce, then the thing in the dark), each played straight, while any joke inside the danger itself stays gallows wit.
+
+> Comedy hard against dread. Comedy and dread may be set hard against each other by design (domestic farce, then the thing in the dark), each played straight; jokes inside the danger stay gallows wit.
+
+### R70-133-EASTERN_TECHNIQUES_BESIDE_CLINICAL [Style Law 2026-10-03 XS1]
+
+An explicit scene may set a season or nature image beside the anatomy, hold one physical detail at chosen moments such as the peak, close its aftermath on a written or spoken exchange such as a morning poem, and use mimetic words for texture and state, romanised and never italic, all without displacing the plain anatomical words.
+
+> Yes to: Season and nature imagery (An explicit scene may set a season or nature image beside the anatomy (frost, snow, blossom, the brazier), carrying mood without replacing the plain words); Held detail at the peak (At chosen moments, usually the peak, one held physical detail may carry the beat; plain specificity governs the rest, and the aftermath is still written); The poem after (An explicit scene may close on a written or spoken exchange (a morning poem, a note, a line answered) as part of its aftermath beat); Mimetic words (Mimetic words for texture and state (the Japanese gitaigo habit, and each culture's own) join table rule 9's onomatopoeia, romanised and never italic).
+
+### R70-134-KEYED_CULTURE_FREE [Style Law 2026-10-03 XS2]
+
+The POV's culture decides which explicit-scene techniques the narration uses (a Moto POV writes with image and the held detail, a Kharven POV blunt, whoever the lover is), and the lover's culture shows in what they do and say.
+
+> Keyed to the POV. The POV's culture decides: a Moto POV writes with image and the held detail, a Kharven POV blunt, whoever the lover is; the lover's culture shows in what they do and say.
+
+## session-protocol (38)
 
 ### R20C-5-BRIEF_BURI_SECTION_MUST_GO [Pack Twenty R20C-5]
 
@@ -11008,6 +12934,54 @@ Isaac's direction of 2026-09-12 overtakes the two pending rows that kept the pac
 
 > Superseded by Isaac's direction of 2026-09-12 to fold the packs into dated base-guide editions ("yes — start folding the packs in now"); eleven guides are folded, the remaining six follow the same way.
 
+### R70-40-WIDE_DESCRIPTION_MUST_RANGE [Style Law 2026-10-03 DS1]
+
+Every scene brief names one lead subject group and two supporting groups from the rotation, the lead changing from scene to scene, and session end flags any rotation group a thread has left untouched for six scenes.
+
+> Lead plus two, thread-checked. Each scene brief names one lead subject group and two supporting ones, the lead rotating scene to scene; session end flags any rotation group untouched for six scenes.
+
+### R70-90-FAST_NUMBERS_CLIMB [Style Law 2026-10-03 LR13]
+
+A character's numbers change only for a cause the reader has seen, a Fracture of Worlds XP event on the page or training named in a downtime turn.
+
+> Event-bound. Numbers move only for a cause the reader was shown: a FOW XP event on the page, or training named in a downtime turn.
+
+### R70-97-QUESTS_CONTRACTS [Style Law 2026-10-03 LR19]
+
+Quests take the form of Guild and Crown contracts posted with terms, pay and the clearance register, and every hook offered at the table states its reward and penalty.
+
+> Contract boards. Guild and Crown contracts posted with terms, pay and the clearance register: the quest board as a Draw Age notice. Hooks gain a stated reward and penalty.
+
+### R70-104-RIVAL_BOND [Style Law 2026-10-03 CB5]
+
+A rival may come back fight after fight, but every survival must be a choice someone made and paid for on the Ledger with a debt, a scar or a witness to the mercy.
+
+> Rivals who chose to spare. A rival may recur, but each survival is a choice someone made and paid for on the Ledger: a debt, a scar, a witness to the mercy. R48-31 stands.
+
+### R70-112-FACE_FACE_SLAP [Style Law 2026-10-03 DL6]
+
+An arrogant scion may underestimate and be reversed in public while the room reassesses, but every such reversal opens a Front or a Ledger debt (a vengeful house, a witness, a feud), and the humbled man stays veteran-clever afterward.
+
+> The face-slap, with a bill. C, with a bill: every public reversal opens a Front or a Ledger debt (a vengeful house, a witness, a feud), and the humbled man stays veteran-clever afterward. (Option C there reads: The face-slap licensed. The face-slap becomes a legal payoff: an arrogant scion underestimates, the reversal is public, the room reassesses. R5-C1-WELL_REASONED_WRONG_CONCLUSION and R48-36 relax for the arrogant, who may misjudge badly.)
+
+### R70-114-GRIMDARK_WARMTH [Style Law 2026-10-03 HU2]
+
+Every live thread carries at least one standing warm bond (found family, master and disciple, sworn kin) written openly warm, joy may get scenes of its own, and losses still cost.
+
+> Warmth as counterweight. Each live thread carries at least one standing warm bond (found family, master and disciple, sworn kin) written openly warm, and joy may get scenes of its own. Losses still cost.
+
+### R70-137-ARCHIVED_SCENES [Style Law 2026-10-03 ME3]
+
+Leave every archived scene as written and add a law-edition column to scenes/MANIFEST.md so the drafting tools and scene_recall stop treating old-style scenes as precedent.
+
+> Leave them, tag the edition. The archive stays untouched, and scenes/MANIFEST.md gains a law-edition column so the drafting tools and scene_recall stop treating old style as precedent.
+
+### R70-138-PROOF_ORDER_WORK [Style Law 2026-10-03 ME4]
+
+The style law binds as logged, one test scene in a live thread follows, anything that reads wrong becomes a dated amendment, and only then is a sample bank written for Kharven, Moto, Accord, the Mahuo and the lineage halls.
+
+> Law, test scene, then bank. The law is logged live; one test scene in a live thread follows; anything that reads wrong becomes a dated amendment; then a sample bank for Kharven, Moto, Accord, the Mahuo and the lineage halls.
+
 ### R48-26-INVENTION [Writing Law 2026-09-26 Roleplay partnership]
 
 The partner may invent NPCs, places and texture mid-scene without asking, logged; bigger things wait for Isaac.
@@ -11086,7 +13060,7 @@ When the partner thinks a beat is drifting or a rule reads wrong, it says so in 
 
 > When the partner thinks a beat is drifting or a rule reads wrong, it says so in one plain line and keeps writing unless stopped.
 
-## standing-inventory (54)
+## standing-inventory (75)
 
 ### R20C-47-CRAFTS_OWE_THE_INVENTORY [Pack Twenty R20C-47]
 
@@ -11219,6 +13193,132 @@ The name of the recently dead is unsayable until given on; the Waiting is the si
 The Kharven Standing Inventory (airag, borts, aaruul, the deel, the night-stone, blubber lamp, woodpile count, death-house/Waiting, sky burial, eight proverbs) is Mongolian-Inuit material culture, not naming register, and is load-bearing in every scene written this session; recommendation is to keep it.
 
 > The Kharven Standing Inventory. Airag, borts, aaruul, the deel, the night-stone, the blubber lamp, the woodpile count, the death-house and the Waiting, sky burial, and all eight proverbs. This is Mongolian-Inuit material culture, derived from permafrost and scarcity, and it is load-bearing in every scene written this session. Reverting it would strand the execution scene, the council, the wall scene and the manor scene all at once, and it would cost more than it bought. Recommendation: keep.
+
+### R70-16-OPENING_MODES [Style Law 2026-10-03 SP3]
+
+Beside the senses and motion, a scene may open far to near (a long view closing plane by plane on the person), on one culture's season word that fixes time and mood, or on a register entry, readout or document that the scene then tests.
+
+> Yes to: Far to near (Arrivals may open on a long view that moves in, plane by plane, to the person, as Chinese landscape painting does. Feeds the archive's thin landscape); Season word (An opening may fix time and mood with one culture's season word (Ward-Lighting, the Thin Weeks, Ice-out) instead of a mood statement; each Inventory's Time field becomes a season list); A reading or document (A scene may open on a register entry, readout or document that the scene then tests (R12-4's threshold voice), as Lord of the Mysteries and LitRPG chapters do). Not taken: Image linked by mood.
+
+### R70-22-SOUND_WORDS [Style Law 2026-10-03 RH4]
+
+Each culture may carry a few native sound and state words in speech and close narration, entered in its Inventory and never set in italics.
+
+> Each culture's own words. Each culture may carry a few native sound and state words in speech and close narration, entered in its Inventory and never italic (R49-49). Moto and Korean-register houses gain most.
+
+### R70-27-ANTIQUE_NARRATION_RUNS [Style Law 2026-10-03 VB4]
+
+Each Standing Inventory sets its culture's narration dial to plain, period or archaic as law, and narration's words follow the dial of the POV's culture.
+
+> A dial per culture. Each Standing Inventory sets plain, period or archaic as law, amending R20C-58, and narration follows the POV's culture. The sample is a Moto-court steward under an archaic dial; a Kharven POV stays plain.
+
+### R70-33-WORD_BANK_PER_CULTURE [Style Law 2026-10-03 VB10]
+
+Every Standing Inventory gains a Words entry listing native words, trade terms, slang and address forms, each with its meaning and who says it, and scenes draw from it first.
+
+> A Words entry everywhere. Every Inventory gains a Words entry: native words, trade terms, slang and address forms, each with meaning and who says it. Scenes draw from it first; a checker can spell-check against it.
+
+### R70-44-CULTURE_KEYED_NOTICING [Style Law 2026-10-03 DS5]
+
+Take what is in the room from the place's Standing Inventory and let the POV's culture decide what he makes of it, misreadings included, with every Inventory gaining a 'Notices first' line for both jobs.
+
+> Place supplies, viewer judges. The place's Inventory sets what is in the room; the POV's culture sets what he makes of it, misreadings included. Each Inventory gains a 'Notices first' line for both jobs.
+
+### R70-45-NEW_STANDING_INVENTORY_FIELDS [Style Law 2026-10-03 DS6]
+
+Every Standing Inventory gains fields for land, sky, seasons and living things (with temperature in the senses entry), for building, house plan, dress by rank and the street, for music, games and one or two festivals written as performed, and for law and punishment, succession, and roads, vehicles and inns.
+
+> Yes to: Land, sky, living things (Each Inventory gains terrain and climate, the sky by its own names, seasons and their signs, and what grows, is kept, hunted and feared; Temperature joins the senses entry); Building, dress, the street (Each Inventory gains architecture and ornament, the house plan, dress by rank (cloth, cut, colour, adornment, worn scent), and its market and street); Music, play, festivals (Each Inventory gains instruments and songs, games and toys, and one or two festivals written as performed: who does what, and in what order); Law, succession, roads (Each Inventory gains law and punishment (R53-11), succession (R60-21), and roads, vehicles and inns).
+
+### R70-48-MONEY_PRICE_PROVENANCE [Style Law 2026-10-03 DS12]
+
+Name the sum of every purchase, wage, fee and bribe on the page in the culture's money from the approved price table (payment in kind named as exactly), and describe a notable object through who made, carried, mended and died with it, with Tier and price kept off unless asked.
+
+> Yes to: Price whenever money moves (Every purchase, wage, fee and bribe on the page names its sum in the culture's money, quoted from the approved price table; north of the arrays, payment in kind is named as exactly); Its life and lineage (A notable object is described through who made, carried, mended and died with it, the way a famous tea bowl keeps its line of owners; Tier and price stay off unless asked). Not taken: Appraisal by a trained eye.
+
+### R70-51-REPETITION_AGAINST_NOVELTY [Style Law 2026-10-03 DS11]
+
+Keep each culture's two signature items per session, and in every scene also add one subject the thread has not yet described, logging it as canon.
+
+> Recur, and add one. R53-19's two signature items stay; R6-9's 'Novelty is its enemy' is rewritten so every scene also adds one subject the thread has not described, logged as canon (R53-21).
+
+### R70-58-CHECKING_RANGE [Style Law 2026-10-03 DD7]
+
+verify_scene WARNs, never FAILs, when a scene touches too few rotation groups or one group takes more than half, and the signature-item count runs for every culture's Inventory, not only Kharven's.
+
+> Census as a WARN. The census WARNs when a scene touches too few groups or one group takes over half, and the signature-item count extends from Kharven to every Inventory.
+
+### R70-59-WHERE_COMPARISONS_COME_FROM [Style Law 2026-10-03 DT1]
+
+Draw comparisons from the POV's own life by default, and let any POV of a culture use that culture's eight to twelve set images, listed in its Standing Inventory, whole and unglossed.
+
+> Culture image bank, always. Each Standing Inventory gains eight to twelve set images that any POV of that culture may use whole, unglossed. POV-life comparisons stay the default; R49-20 relaxes for the listed images.
+
+### R70-60-COLOUR_AS_SYMBOL_PER [Style Law 2026-10-03 DT2]
+
+Give each Standing Inventory a colour field saying what white, red, black and two or three local colours mean there (the chartered Northern houses read heraldry), use it unglossed in narration, and let two cultures read one colour two ways.
+
+> A colour code per culture. Each Inventory gains a colour field: what white, red, black and two or three local colours mean there, and the chartered Northern houses read heraldry. Narration uses it unglossed; two cultures may read one colour two ways.
+
+### R70-61-SEASON_WORD_DOES [Style Law 2026-10-03 DT3]
+
+Let each culture's season words place time and weather in one word in narration and speech, give each logged word a settled feeling, and lean the scene on that feeling without ever naming it.
+
+> Season words carry mood. As B, and each logged word carries a settled feeling, as kigo do: sap-stop means endings. The scene leans on that feeling and never names it. (Option B there reads: Season words mark time. Each culture's season words may stand in narration and speech, placing the time and weather in one word. Any feeling still comes from the scene itself.)
+
+### R70-63-WEAR_AGE_AS_BEAUTY [Style Law 2026-10-03 DT5]
+
+State in each Standing Inventory what its people prize and despise in age, and let a POV see wear, mends and age through that culture's eye, so one object may be beautiful to one guest and shameful to another.
+
+> Beauty, keyed by culture. Each Inventory states what its people prize in age and what they despise. A Moto or Ketsuen POV may see the mend as beautiful while a Kharven guest sees a cracked bowl.
+
+### R70-65-SET_IDIOMS_NARRATION [Style Law 2026-10-03 DT7]
+
+Give each Standing Inventory six to ten four-beat idioms, each compressing an in-world story that an elder tells once on the page, and use the idiom bare in narration or speech after that.
+
+> Four-beat idioms, told once. Each Inventory gains six to ten four-beat idioms, each a compressed in-world story. An elder tells the story once on the page; after that the idiom is used bare, in narration or speech.
+
+### R70-105-JOINS_WOUND_WHEN_FIGHT [Style Law 2026-10-03 CB6]
+
+After a death by the blade, add the killing rites when the killer is Japonic, Korean or Chinese and an elegiac image when the POV's culture mourns that way, on top of the full clinical floor.
+
+> Rites and image, by culture. Both, keyed to culture: Japonic, Korean and Chinese killers carry the rites; the elegiac image belongs to any POV whose culture mourns that way. The clinical floor holds everywhere.
+
+### R70-109-PROVERBS_SPEECH [Style Law 2026-10-03 DL3]
+
+Elders, headmen and court speakers carry several fixed sayings and may argue in them at bargain, quarrel and council, a saying answered by a saying, while the young speak plain and a youth who quotes above his years is put down for it.
+
+> Duels, by age and standing. B, keyed to standing: elders, headmen and court speakers argue in sayings; the young speak plain, and a youth who quotes above his years is put down for it. (Option B there reads: Proverb duels. NPCs carry several fixed sayings and may argue in them at bargain, quarrel and council, a saying answered by a saying. R52-30's 'one' becomes 'several'.)
+
+### R70-110-VERSE_EXCHANGED_TALK [Style Law 2026-10-03 DL4]
+
+At rites and in court the Moto court, Eresse, the Mahuo houses and the lineage halls may offer and answer verse, a weak or plain answer costing face; Northern English and Norse-register speakers may trade alliterative insult verse (flyting); each culture's verse form is entered in its Inventory.
+
+> Each culture its own contest. B, plus the north's own form: Northern English and Norse-register speakers may answer in alliterative insult verse (flyting). Each culture's verse form is entered in its Inventory. (Option B there reads: Courtly cultures trade verse. The Moto court, Eresse, the Mahuo houses and the lineage halls may offer and answer verse at rites and in court; a weak answer, or a plain one, costs face.)
+
+### R70-124-PEOPLES_WEST_NORTH [Style Law 2026-10-03 NM6]
+
+The Dawi joke in rhyming sets, English-rendered deed bynames and outsiders' mangling with given names kept bank-built; the Kharven and Far-Northern in scarcity-insult bynames, protective cheap names and Accord roll-names, never on the recently dead; the Accord and Northern commons in talking and phrase surnames, rhyming pet names, soldiers' bynames and correct Latin; the goblinoids in sound comedy and bynames whose cause nobody remembers.
+
+> Yes to: The Dawi (Rhyming sets on a shared bank element, deed bynames rendered in English, and outsiders' mangling. Given names stay bank-built; the joke lives in sets, bynames and other people's mouths); Kharven and Far-Northern (Bynames from the Kharven stock of scarcity insults, protective cheap names, and roll-names (surnames an Accord clerk assigned). No joke on the name of the recently dead (R23-11)); Accord and Northern commons (The richest home: talking and phrase surnames, rhyming pet names (Hob and Dob), soldiers' bynames, and Accord jokes in correct Latin (R50-12)); Goblinoid peoples (Sound comedy, and bynames whose cause nobody remembers, so a dreaded name can arrive with no story behind it).
+
+### R70-127-COMIC_NAME_GRIM_END [Style Law 2026-10-03 NM9]
+
+When someone with a comic name dies badly, someone says the comic name at the death so the joke becomes the wound, and among the Kharven the name then goes unspoken until it is given on.
+
+> The name turns to grief. Someone says the comic name at the death and the joke becomes the wound. Among the Kharven the name then goes unspoken until it is given on (R23-11).
+
+### R70-131-COMIC_NAMES_GET_MADE [Style Law 2026-10-03 NM13]
+
+Each Standing Inventory gains a comic-name list of bynames, nicknames, rhyming sets and signboards in that culture's sound rules, and Natalie may coin comic names live, each passed at scene end as an outlier if it keeps its culture's sound rules and flagged if it breaks them.
+
+> Yes to: A comic bank per culture (Each Standing Inventory (the per-culture texture file) gains a comic-name list of bynames, nicknames, rhyming sets and signboards, built in that culture's sound rules); By ear, sound-checked (Natalie coins comic names live; the scene-end check passes each as an outlier (R50-18) so long as it keeps its culture's sound rules, and flags any that break them). Not taken: A floor per crowd scene, A pitch list per session.
+
+### R70-132-FAR_NAMING_LAW_BENDS [Style Law 2026-10-03 NM14]
+
+Amend only the naming rows the comic-name answers bend, each in one line naming its answer (R50-30 for the sound check, R50-27 for walk-on nicknames), and give each culture's naming rows a clause pointing to its comic bank in its Standing Inventory so load_rules serves the bank with the law; banks and sound rules otherwise stand.
+
+> Banks gain comic slots. B, plus each culture's naming rows gain a comic-names clause pointing to that culture's comic bank in its Standing Inventory, so load_rules serves the bank with the law. (Option B there reads: Narrow amendments. Only the rows your answers above bend are amended, each in one line naming its answer: R50-30 for the sound check, R50-27 only if NM12 opens walk-ons. Banks and sound rules stand.)
 
 ### R53-01-IMPERIAL_AGE_SPAN [World Texture Law 2026-09-26 World texture]
 
@@ -11412,7 +13512,7 @@ No decade-by-decade technology page: the partner judges what is era-appropriate 
 
 > No decade-by-decade technology page: the partner judges what is era-appropriate in the Imperial Age scene by scene.
 
-## stats (128)
+## stats (152)
 
 ### R20C-30-STAGE_NAMES_FROM_FOW [Pack Twenty R20C-30]
 
@@ -11467,12 +13567,6 @@ Names which stat answers each Table Rule 5 adjudication question (who bends the 
 Every outcome in a fight must trace to a row in the §3 table, and the author notes must say which.
 
 > Every outcome in a fight traces to a row in this table, and the author notes say which.
-
-### R14-4-SUBSTAT_DIAGNOSTIC_ONLY [Pack Fourteen §4]
-
-Sub-Stat names are the finest grain the system has, and only a faculty reading reaches for them; nobody else does.
-
-> Sub-Stat names are diagnostic-only. They are the finest grain the system has and they are exactly the words a faculty reading uses. Nobody else reaches for them.
 
 ### R14-5-CANONICAL_TERMS [Pack Fourteen §5]
 
@@ -12179,13 +14273,163 @@ The Dissonance-gated Sub-Stats are Overflow, Overchannel and Persistence; Part S
 
 > The Sub-Stats that reach their true ceiling only through Dissonance are Overflow, Overchannel and Persistence (Part Eight and The Sixteen Stages agree); Part Sixteen's list is corrected to match.
 
+### R70-2-LITRPG_WOTR_BECOMES [Style Law 2026-10-03 K2]
+
+Treat WOTR as full LitRPG: a practitioner sees his own readouts on the page (a screen at a reading, a notice at a level, a breakthrough or a cost), and every figure in them traces to the sheet.
+
+> Full LitRPG, screens. Practitioners see their own readouts: a screen at a reading, a notice at a level, a breakthrough or a cost. Where the screens come from in the world is LR22's call; every figure traces to the sheet (R12-5).
+
+### R70-3-STRAND_LEADS_LAYER [Style Law 2026-10-03 K3]
+
+Let the Eastern strand lead narration, interiority and structure, the Western strand lead combat, injury and dialogue, and LitRPG lead progression, so that the narrator is what changes most.
+
+> Eastern voice leads. Eastern leads narration, interiority and structure; Western leads combat, injury and dialogue; LitRPG leads progression. The narrator itself changes most.
+
+### R70-6-LITRPG_PROGRESSION_MODELS [Style Law 2026-10-03 K6]
+
+Take Cradle (rank felt in the room, breakthroughs as set pieces), Reverend Insanity (every gain bought and counted), Solo Leveling (the reassessment, quests with stated penalties, the drill as contract) and The Wandering Inn (the level-up as a quiet verdict, bracketed class and skill names) as progression models beside Unbound.
+
+> Yes to: Cradle (Ranks everyone in a room can sense, breakthroughs written as set pieces, little need for screens. Matches how Pressure already works in WOTR); Reverend Insanity (A Chinese cultivation novel run as a ledger: every gain bought, every resource counted, a cold calculating mind at the centre. The grimdark end of cultivation fiction, close to WOTR's cost law); Solo Leveling (The Korean System novel: the reassessment that overturns a registered rank, quests with stated penalties, the daily drill as a contract. Its escalation and onlooker shock run into the R5-B tells); The Wandering Inn (The level-up as a quiet verdict on who a person became that day, arriving in sleep; bracketed class and skill names inside ordinary sentences).
+
+### R70-17-CLOSING_MODES [Style Law 2026-10-03 SP4]
+
+Beside an action, an image or a line, a chapter or scene may stop mid-crisis on a reveal or threat, close on a set-off notice or readout of what the scene cost or earned (figures traced to the sheet), or break off a breath before its emotional payoff, which the next scene then owes.
+
+> Yes to: Mid-crisis cliffhanger (Chapters, and turns at the next decision, may stop mid-crisis on a reveal or a threat, web-serial style; R49-26 gains the hook R5-F already wants); A notice or readout (A scene may close on a notice or readout set off from the prose: what the scene cost or earned, in figures traced to the sheet (R12-5)); Break off before payoff (A scene may stop a breath before its emotional point and leave the payoff to the reader or the next scene, as Kawabata does; the next scene owes what was withheld). Not taken: Storyteller's next chapter.
+
+### R70-30-NUMBERS_WORDS_DIGITS [Style Law 2026-10-03 VB7]
+
+Narration spells out numbers up to one hundred and round numbers, and writes exact large counts and every system figure (Level, EU, AU/s) in digits.
+
+> Small in words, big digits. Words up to one hundred and for round numbers; digits for exact large counts and every system figure (Level, EU, AU/s). Sourced figures stand out as data.
+
+### R70-31-CAPITALS_SYSTEM_TERMS [Style Law 2026-10-03 VB8]
+
+Narration capitalises the canonical system terms on a fixed list (Stage, Band, Grade, Level, Wellspring, Essence, Aether, Pressure and the Sub-Stat names), writes reserve and the draw in lower case, and takes care with plain senses such as a band of riders.
+
+> Canonical terms capitalised. The archive's habit fixed as a list: Stage, Band, Grade, Level, Wellspring, Essence, Aether, Pressure and Sub-Stat names capitalised; reserve and the draw lower case. Plain senses (a band of riders) need care.
+
+### R70-38-REASONING_SHOWS [Style Law 2026-10-03 IN2]
+
+A reasoning POV may set his thinking out in italic thought as numbered steps, risk lists or tests; thought may stop short and leave an action or image to carry it, deep interiority becoming one of two modes chosen per register; and a POV who can read rank or price may reason from readings and figures, each traced to a source.
+
+> Yes to: Stepwise lists (A reasoning POV may set thinking out as numbered steps, risk lists or tests in italic thought; R16-8-CHECK33's cap on technical terms in italics eases); The unsaid (Thought may stop short of its conclusion and leave an action or an image to carry it, as Kawabata does; deep interiority becomes one mode of two, chosen per register); Reasoning from figures (A POV who can read rank or price may reason from readings and figures as evidence, as LitRPG heroes do; every figure still traces to a source (R12-5)).
+
+### R70-70-INTENT_FELT_BODY [Style Law 2026-10-03 MY3]
+
+Killing intent is Pressure narrowed onto one man through Dominion, felt as cold, sweat and the pull to step back and answered by suppression, and it is not written until its mechanism has been ruled.
+
+> Intent as aimed Pressure. Killing intent becomes Pressure narrowed onto one man through Dominion, felt as cold, sweat and the pull to step back, and answered by suppression. It needs a ruled mechanism before first use.
+
+### R70-77-INSTRUMENT_CAN_SHOW [Style Law 2026-10-03 LR1]
+
+Assay coils may stamp their figures on a paper tape or punch them on a card, like a ticker or tabulator, and any set-off readout block on the page is written as that tape in the instrument's own type.
+
+> Printing instruments. Assay coils stamp a paper tape or punch a card, as a ticker or tabulator does, so a set-off block on the page is that tape, in the instrument's own type.
+
+### R70-78-WHERE_SCREEN_COMES_FROM [Style Law 2026-10-03 LR22]
+
+A practitioner sees his own figures as plain, voiceless lines read in his Soul Crystal at thresholds, exact and limited to his own sheet, never showing wounds or anyone else, while instruments read everyone else.
+
+> Read in the Crystal. The bearer reads his own Soul Crystal as plain, voiceless lines at thresholds: his own sheet only, exact, and blind to wounds and to others. Small new canon; instruments still read everyone else.
+
+### R70-79-CAN_READ_WHOM [Style Law 2026-10-03 LR2]
+
+Every practitioner feels his own Grades and Stage and senses another's Band and rough Stage as closely as his Gnosis allows, but another's exact figures need an instrument, and commoners keep their folk words and their awe.
+
+> Practitioners feel rank. Any practitioner feels his own Grades and Stage, and another's Band and rough Stage, with Gnosis setting how close. Another's exact figures need an instrument; commoners keep their folk words and their awe.
+
+### R70-80-READOUT_SITS_PAGE [Style Law 2026-10-03 LR3]
+
+Figures sit inline in ordinary sentences by default, and a set-off readout block appears only at a re-assay that changes something, a breakthrough or the end of an arc.
+
+> Inline, blocks at milestones. Figures inline by default; a set-off block only at a re-assay that moves something, a breakthrough or an arc's end. Blocks become events, rare enough to land.
+
+### R70-82-NUMERALS_LADDER_RUNGS [Style Law 2026-10-03 LR5]
+
+Stages and Bands may carry their Roman numeral beside the name, as Fracture of Worlds writes them ('Stage V, Splintering'), while Tiers of Standing and item Tiers are still written by name alone.
+
+> Numeral beside name. 'Stage V, Splintering' and 'Band II, Awakened', as FOW writes them. Tiers of Standing and item Tiers keep their names alone. R47-7 is amended.
+
+### R70-83-FIGURES_PLAIN_NARRATION [Style Law 2026-10-03 LR6]
+
+Narration may state on its own authority only the figures the POV actually holds, such as his own last reading, a card he has seen or what he was told.
+
+> What the POV knows. Narration states the figures the POV holds: his own last reading, the card he has seen, what he was told. R49-52 governs R49-47; R14-4-SUBSTAT retires; NATALIE.md is rewritten.
+
+### R70-84-GROWTH_MOMENTS_THAT_EARN [Style Law 2026-10-03 LR7]
+
+A readout may mark a Level gained with the stat points it brought, a Stage breakthrough naming the new Stage and its Tier of Standing, a new Trait as it registers, and first contact with or harmonisation to a Wellspring current.
+
+> Yes to: Level gained (A short readout when a Level lands, with the stat points it brought. The genre's heartbeat, and the most frequent of the four); Stage breakthrough (A readout naming the new Stage and its Tier of Standing when the Catalyst completes. The cultivation novel's big moment); New Trait (A readout naming the Trait when it registers. Rare, and each one changes what a character can do); Wellspring contact (A readout at first contact with a new Wellspring current (FOW's Resonant Surge) and at a harmonisation. Growth tied to a place).
+
+### R70-85-SCENE_MOMENTS_THAT_EARN [Style Law 2026-10-03 LR8]
+
+Inside a scene a readout may come from an appraisal of a person, beast or item, a surgeon's diagnostic line on a wound, or a reserve line after a working, but never from Pressure.
+
+> Yes to: Appraisal (Reading a person, beast or item: the Measurewright at the rail, the coil at the counter, a faculty. The genre's appraisal in WOTR's hands); A wound (A diagnostic line in a surgeon's terms: the structure struck, the ATLS class, the minutes left. Brida's 'third bowl' as a readout); Essence spent (A reserve line after a working: what was drawn and what is left. R60-03's hard reserve clock made visible). Not taken: Pressure.
+
+### R70-86-MANY_READOUTS_SCENE_CARRIES [Style Law 2026-10-03 LR9]
+
+A scene carries at most three readouts, at the display, the finisher and the aftermath, and a roleplay turn at most two, never two in one exchange.
+
+> Display, finisher, aftermath. Up to three per scene, on R48-20's rhythm; a roleplay turn carries two at most, never two in one exchange.
+
+### R70-88-NUMBERS_INSIDE_FIGHT [Style Law 2026-10-03 LR11]
+
+During a fight the POV's read may name Grades and gaps as her own estimates before or between exchanges, but the page never runs a log of figures.
+
+> Grades at the read. The POV's read names Grades and gaps before or between exchanges, as estimates in her own terms; no running figures. The genre's sizing-up without a log.
+
+### R70-89-BODY_FIRST_NUMBER_FIRST [Style Law 2026-10-03 LR12]
+
+When a cost or a gain lands, the body shows it first and the readout follows a line later in the same beat, both on the page together.
+
+> Body, then number. The body first and the readout in the same beat, a line after. Both on the page together, with the body always ahead.
+
+### R70-90-FAST_NUMBERS_CLIMB [Style Law 2026-10-03 LR13]
+
+A character's numbers change only for a cause the reader has seen, a Fracture of Worlds XP event on the page or training named in a downtime turn.
+
+> Event-bound. Numbers move only for a cause the reader was shown: a FOW XP event on the page, or training named in a downtime turn.
+
+### R70-91-BREAKTHROUGH_PAGE [Style Law 2026-10-03 LR23]
+
+A Stage breakthrough is written from the body inside the danger that is its Catalyst, and its readout line lands only as the danger breaks and the Catalyst completes, never in the middle of an exchange.
+
+> In the crisis, line after. It happens inside the danger that is its Catalyst, written from the body; the line lands as the danger breaks and the Catalyst completes, never mid-exchange (LR11). R9-3's splash beat goes to the crisis.
+
+### R70-92-CONFIRMING_NEW_STAGE [Style Law 2026-10-03 LR14]
+
+A new Stage is confirmed at a re-assay held as a rite before witnesses, read aloud and entered on the Reckoner's roll.
+
+> A public re-assay. The re-assay is a rite before witnesses, read aloud and entered on the Reckoner's roll: the sect's ranking ceremony, in WOTR's institutions.
+
+### R70-93-BUILD_TALK_DIALOGUE [Style Law 2026-10-03 LR15]
+
+Any ranked practitioner may speak his own and others' figures exactly and argue builds in dialogue, as in Unbound, while commoners still round.
+
+> Ranked practitioners too. Any ranked practitioner talks his own and others' numbers exactly and argues builds, as in Unbound; commoners still round. R52-05 widens.
+
+### R70-98-SHEETS_CHAPTER_ARC_ENDS [Style Law 2026-10-03 LR20]
+
+Each book chapter closes, above the notes, with a short block of what moved on the sheet and why, while a roleplay turn keeps that block in its notes.
+
+> Changes at chapter end. Each chapter closes with a short block of what moved and why, above the notes; roleplay turns keep it in the notes.
+
+### R70-99-NUMBER_NOT_YET_CANON [Style Law 2026-10-03 LR21]
+
+When a readout needs a figure canon does not give, it prints an estimate with the instrument's own hedge, such as a range or a stated uncertainty, and the author notes log it as an estimate.
+
+> Print the estimate, marked. The readout prints the figure with the instrument's own hedge (a range, 'uncertain past the third place'), and the notes log it as estimate.
+
 ### R55-4-SPLINTERING_EXPERT_BAND [System Accounts Questionnaire 2026-09-26 Transposition; Veil of Verdant Pact]
 
 Stage V reads the Expert row's η of 0.60–0.70.
 
 > Splintering takes the 0.60-0.70 efficiency band; the whole Expert row reads 0.60-0.70.
 
-## verification (103)
+## verification (114)
 
 ### R20C-3-SWEEP_TWO_TIERS [Pack Twenty R20C-3]
 
@@ -12733,6 +14977,72 @@ Any Host line that could appear on a temple wall has failed; if it scans as a ma
 
 > Any Host line that could appear on a temple wall has failed. If it scans as a maxim, cut it and replace it with a report.
 
+### R70-7-FAR_MOVE [Style Law 2026-10-03 K7]
+
+Treat this style law as a new pack that supersedes Pack Five's flesh sections and R11-1, re-rule the Pack Five tells (R5-B, R5-G) one at a time rather than wholesale, and keep every anti-machine check unchanged.
+
+> New pack, old hygiene. A new style pack supersedes Pack Five's flesh sections and R11-1 and re-rules the R5-B and R5-G tells one by one; the anti-machine checks carry over unchanged.
+
+### R70-19-PAIRED_CUMULATIVE_SENTENCES [Style Law 2026-10-03 RH1]
+
+In set pieces only, deliberate matched pairs and verse lines are exempt from the run rule, and once per scene the climax may be one long cumulative sentence chained with 'and'; ordinary turns keep the full rhythm law.
+
+> Both, in set pieces. Both licences, in set pieces only; ordinary turns keep the full rhythm law.
+
+### R70-23-CHAPTER_HEADS [Style Law 2026-10-03 RH5]
+
+A book chapter may be headed by a matched couplet naming its two main events, by a short in-world document in its institution's house style that the chapter then tests, or by a short verse in a culture's own form, which verify reads as verse outside the rhythm statistics.
+
+> Yes to: Couplet title (A book chapter may be headed by a matched couplet naming its two main events; the table of contents reads as a poem and a promise); In-world epigraph (A chapter may open on a short in-world document (case-book, register, proverb, letter) in its institution's house style (R51-33), which the chapter then tests (R12-4)); Verse header (A chapter may open on a short verse in a culture's own form (a Kharven riding-song, a Korean sijo), and verify checks it as verse, outside the rhythm statistics).
+
+### R70-35-HARD_BAN_LIST [Style Law 2026-10-03 VB12]
+
+Narration may not use the listed cultivation-translation, Western fantasy and LitRPG stock phrases (qi surged, a grim smile, power surged through him and the rest the answer names), while testament for a will, visceral in anatomy and orbs for lamps and regalia now pass and the stock senses of those three still fail.
+
+> Yes to: Cultivation-translation stock (Bans 'qi surged', 'a cold glint flashed', 'sucked in a cold breath' and 'killing intent surged' in narration. The Eastern feel comes from method, never from translated filler); Western fantasy stock (Bans 'the steel sang', 'a grim smile', 'his blood ran cold', 'every fibre of his being' and 'darkness gathered'. Grimdark's own worn phrasing goes out with the imported kind); LitRPG stock (Bans 'power surged through him', 'stronger than ever', 'a wave of power' and 'his stats soared'. Growth shows in the body and on the instrument); Trim the false hits (Narrows three items to their stock sense: a will called a testament passes, 'visceral' passes in anatomy (the visceral pleura, R49-45), 'orbs' passes for lamps and regalia. The stock senses still fail).
+
+### R70-36-CHECKER_ENFORCES [Style Law 2026-10-03 VB13]
+
+verify_scene matches native words against the culture word banks (a near-miss FAILs, unknown words are listed for the scene log), checks Stage, Band, Wellspring and Family names for spelling and capitals against a wotr_terms.txt built from Fracture of Worlds, the glossary and the Codex, FAILs the new ban families at first use in narration (looser variants WARN), and WARNs on an italicised loanword, a digit where words are due and an archaic word outside its culture's dial.
+
+> Yes to: Word-bank spelling check (Native words are matched against the culture banks (VB10); a near-miss FAILs as a misspelt Wellspring does (R14-5-NEAR_MISS_FAIL); unknown words are listed for the scene log (R50-28)); Canonical term list (wotr_terms.txt is built from Fracture of Worlds, the glossary and the Codex; Stage, Band, Wellspring and Family names are checked for spelling and capitals (VB8), and a near-miss FAILs (R14-5-NEAR_MISS_FAIL, Check 37)); New ban families FAIL (The families chosen in VB12 FAIL at first use in narration, as R51-10 does; looser variants of a banned phrase WARN for a read); Style-sheet warnings (WARNs for the house style set here: an italicised loanword (VB2), a digit where words are due (VB7), an archaic word outside its culture's dial (VB4). Holds the style without blocking a reply).
+
+### R70-58-CHECKING_RANGE [Style Law 2026-10-03 DD7]
+
+verify_scene WARNs, never FAILs, when a scene touches too few rotation groups or one group takes more than half, and the signature-item count runs for every culture's Inventory, not only Kharven's.
+
+> Census as a WARN. The census WARNs when a scene touches too few groups or one group takes over half, and the signature-item count extends from Kharven to every Inventory.
+
+### R70-72-WATCHING_CROWD_POWER_REVEAL [Style Law 2026-10-03 MY5]
+
+At a power reveal let the watching crowd speak in waves inside the POV's hearing (the breath, the name passed along, an elder's verdict); the reaction-shot tell no longer applies to crowds.
+
+> Spoken chorus, in hearing. At a reveal the crowd may speak in waves inside the POV's hearing: the breath, the name passed along, an elder's verdict. R5-G's reaction-shot tell is struck for crowds.
+
+### R70-94-GAMER_SLANG [Style Law 2026-10-03 LR16]
+
+Gamer slang such as min-max, dump stat, aggro and cooldown may appear in a mouth whose voice would carry it but never in narration, and the checker watches narration for it.
+
+> Speech, by ear. Current law: gamer slang in a mouth whose voice would carry it; narration stays timeless. verify_scene adds these words to its narration watch-list.
+
+### R70-99-NUMBER_NOT_YET_CANON [Style Law 2026-10-03 LR21]
+
+When a readout needs a figure canon does not give, it prints an estimate with the instrument's own hedge, such as a range or a stated uncertainty, and the author notes log it as an estimate.
+
+> Print the estimate, marked. The readout prints the figure with the instrument's own hedge (a range, 'uncertain past the third place'), and the notes log it as estimate.
+
+### R70-131-COMIC_NAMES_GET_MADE [Style Law 2026-10-03 NM13]
+
+Each Standing Inventory gains a comic-name list of bynames, nicknames, rhyming sets and signboards in that culture's sound rules, and Natalie may coin comic names live, each passed at scene end as an outlier if it keeps its culture's sound rules and flagged if it breaks them.
+
+> Yes to: A comic bank per culture (Each Standing Inventory (the per-culture texture file) gains a comic-name list of bynames, nicknames, rhyming sets and signboards, built in that culture's sound rules); By ear, sound-checked (Natalie coins comic names live; the scene-end check passes each as an outlier (R50-18) so long as it keeps its culture's sound rules, and flags any that break them). Not taken: A floor per crowd scene, A pitch list per session.
+
+### R70-136-NEW_CHECKS_VERIFY_SCENE [Style Law 2026-10-03 ME2]
+
+verify --combat takes a school (blade, japanese, chinese, korean, percussion) or reads the culture tag and warns only when a fight carries none of that school's terms; a marked verse block is left out of the rhythm statistics and word count but still read for dashes and hard bans; translated web-novel formulas WARN in narration and log an info line in speech.
+
+> Yes to: Combat words by school (verify --combat takes a school (blade, japanese, chinese, korean, percussion) or reads the culture tag, and warns only when a fight carries none of that school's terms); A verse marker (A marked verse block (a poem, a lament, a declaration in lines) is left out of the rhythm statistics and word count; the dash and hard-ban checks still read it); Stock-formula watch (A WARN on translated web-novel formulas (you court death, this junior, this old man, lose face) in narration, and an info line in speech, so the flavour stays where DL2 puts it). Not taken: Address check.
+
 ### R48-14-DEPTH [Writing Law 2026-09-26 Research-grounded techniques]
 
 Research depth: name the real phenomenon and its fault; lighter scenes, less time per working.
@@ -12805,7 +15115,7 @@ When the partner thinks a beat is drifting or a rule reads wrong, it says so in 
 
 > When the partner thinks a beat is drifting or a rule reads wrong, it says so in one plain line and keeps writing unless stopped.
 
-## worldbuilding (286)
+## worldbuilding (313)
 
 ### R20C-1-BURI_DEAD_EVERYWHERE [Pack Twenty R20C-1]
 
@@ -12932,12 +15242,6 @@ The grounded Berserk/Vinland Saga visual North Star in the Visual Aesthetic Guid
 The new visual register is an imperial age built on a resource nobody can see, administered by a measuring guild, defended by men in proofed plate carrying both sword and firearm.
 
 > An imperial age built on a resource nobody can see, administered by a guild that measures it, defended by men in proofed plate who carry both a sword and a firearm because each answers a different threat.
-
-### R11-1-TONAL_SPINE_UNCHANGED [Pack Eleven §1]
-
-Pack Five stands in full; the Western Register still governs characterisation, humour and narration authority. Pack Eleven widens what the page may look like, not what it may sound like.
-
-> Tonal spine unchanged. Pack Five stands in full. The Western Register governs characterisation, humour, and narration authority. Pack Eleven widens what the page may look like. It does not reopen what the page may sound like. Temür still does not make jokes.
 
 ### R11-2-HYDROLOGY_MODEL [Pack Eleven §2]
 
@@ -14300,6 +16604,174 @@ The Host is not speaking scripture; they report accurately, and their difficulty
 All three registers are originations contradicting no existing lore (none existed); if any culture has established speech in an unreached document, these are overridden by it.
 
 > All three are originations and none contradicts existing lore, because no lore existed. If any of these cultures has established speech in a document I did not reach, these are overridden by it and I would rather be told than have it discovered in prose.
+
+### R70-29-UNITS_MEASURE [Style Law 2026-10-03 VB6]
+
+Narration measures distance, weight and time in the POV's own units (bowshots and a pot's boil for a Kharven guard; yards, pounds and joules for a Measurewright), and the exact figure stays with trained eyes.
+
+> The POV's own units. Current law. A Kharven guard counts in bowshots and a pot's boil, a Measurewright in yards, pounds and joules. Units characterise, and the exact figure stays with trained eyes.
+
+### R70-32-NEW_WORDS_KIND_MANY [Style Law 2026-10-03 VB9]
+
+A new thing gets an English compound if it is common, the owning culture's native word if a culture owns it, and a capitalised label if it belongs to the system or an instrument, with no cap per scene and every coinage logged.
+
+> All three, by owner. English compounds for common things, a culture's native word where that culture owns the thing, capitalised labels for system and instrument things; no cap, all logged (R50-28). The blend in one rule.
+
+### R70-33-WORD_BANK_PER_CULTURE [Style Law 2026-10-03 VB10]
+
+Every Standing Inventory gains a Words entry listing native words, trade terms, slang and address forms, each with its meaning and who says it, and scenes draw from it first.
+
+> A Words entry everywhere. Every Inventory gains a Words entry: native words, trade terms, slang and address forms, each with meaning and who says it. Scenes draw from it first; a checker can spell-check against it.
+
+### R70-40-WIDE_DESCRIPTION_MUST_RANGE [Style Law 2026-10-03 DS1]
+
+Every scene brief names one lead subject group and two supporting groups from the rotation, the lead changing from scene to scene, and session end flags any rotation group a thread has left untouched for six scenes.
+
+> Lead plus two, thread-checked. Each scene brief names one lead subject group and two supporting ones, the lead rotating scene to scene; session end flags any rotation group untouched for six scenes.
+
+### R70-41-LAND_LIVES_IT [Style Law 2026-10-03 DS2]
+
+Land, water and sky (the night sky included), seasons and weather, and plants and animals (Well-spawn looked at as creatures) are rotation groups the range rule draws on; history in layers is not one.
+
+> Yes to: Land, water and sky (Terrain and ground underfoot, rivers, sea and shore, the long view, and the night sky (Shiro, the five wanderers, the Nail, the aurora) join the rotation); Seasons and weather (Thaw, rain, heat, fog and each culture's signs of the turning year join the rotation, beyond R53-09's actual weather in every outdoor scene); Plants and animals (Trees, crops, herbs, blossom, birds, insects, working beasts, and Well-spawn looked at as creatures join the rotation). Not taken: History in layers.
+
+### R70-42-PUBLIC_WORLD [Style Law 2026-10-03 DS3]
+
+Architecture as style, dress and adornment past the first-sight inventory, streets, markets and crowds, and power on show (processions, precedence, courts and punishments, Guild halls, ranking boards) are rotation groups the range rule draws on.
+
+> Yes to: Architecture as style (Buildings are described for style and ornament as well as use and wear; the Moto 'one thing made that serves no function' finally gets looked at); Dress and adornment (Cloth, cut, colour by rank, wear and repair, jewellery, cosmetics and worn scent join the rotation, past the first-sight inventory); Streets, markets, crowds (Squares, alleys, hawkers, stalls and haggling, arcades and branded goods (R60-07), and the crowd as one body join the rotation); Power on show (Processions and entrances, seating by precedence, courts and punishments (R53-11), Guild halls and academy grounds as displays of standing, and ranking boards join the rotation).
+
+### R70-43-HOME_TABLE_RITE_PLAY [Style Law 2026-10-03 DS4]
+
+Households young and old, food and taste, rites and festivals performed on the page, and music, art and play are rotation groups the range rule draws on.
+
+> Yes to: Households, young and old (Servants and the order of a house, the rich at home as well as the poor, the child's games and chores, and old age at the fire join the rotation); Food and taste (Ingredients, cooking, street food, drink, hunger and rationing, and taste in the mouth join the rotation. How a meal is written is DS8); Rites and festivals (Rites performed on the page, household observance, funerals and mourning, festivals, and folk taboos acted on join the rotation); Music, art and play (Instruments and songs, carving and painting, theatre and storytellers, games of chance and skill, sport and toys join the rotation).
+
+### R70-45-NEW_STANDING_INVENTORY_FIELDS [Style Law 2026-10-03 DS6]
+
+Every Standing Inventory gains fields for land, sky, seasons and living things (with temperature in the senses entry), for building, house plan, dress by rank and the street, for music, games and one or two festivals written as performed, and for law and punishment, succession, and roads, vehicles and inns.
+
+> Yes to: Land, sky, living things (Each Inventory gains terrain and climate, the sky by its own names, seasons and their signs, and what grows, is kept, hunted and feared; Temperature joins the senses entry); Building, dress, the street (Each Inventory gains architecture and ornament, the house plan, dress by rank (cloth, cut, colour, adornment, worn scent), and its market and street); Music, play, festivals (Each Inventory gains instruments and songs, games and toys, and one or two festivals written as performed: who does what, and in what order); Law, succession, roads (Each Inventory gains law and punishment (R53-11), succession (R60-21), and roads, vehicles and inns).
+
+### R70-46-CRAFT_LABOUR_PAGE [Style Law 2026-10-03 DS7]
+
+Whenever a craft is on the page, run at least one stretch as process (tool, material and steps in order, done by the worker's body), and look at the finished thing for its quality through the POV's eye.
+
+> Process and its beauty. Process as in B, and the finished thing is looked at for its quality: what good work looks like in that craft, through the POV's eye. (Option B there reads: Shown as process. Whenever a craft is on the page, at least one stretch runs as process: tool, material and steps in order, with the worker's body doing them.)
+
+### R70-47-TABLE [Style Law 2026-10-03 DS8]
+
+Whenever a meal is on the page, write both the order of serving and the taste in the mouth.
+
+> Order and taste both. The order of serving and the taste in the mouth are both on the page whenever a meal is.
+
+### R70-48-MONEY_PRICE_PROVENANCE [Style Law 2026-10-03 DS12]
+
+Name the sum of every purchase, wage, fee and bribe on the page in the culture's money from the approved price table (payment in kind named as exactly), and describe a notable object through who made, carried, mended and died with it, with Tier and price kept off unless asked.
+
+> Yes to: Price whenever money moves (Every purchase, wage, fee and bribe on the page names its sum in the culture's money, quoted from the approved price table; north of the arrays, payment in kind is named as exactly); Its life and lineage (A notable object is described through who made, carried, mended and died with it, the way a famous tea bowl keeps its line of owners; Tier and price stay off unless asked). Not taken: Appraisal by a trained eye.
+
+### R70-49-LANDSCAPE_SKY [Style Law 2026-10-03 DS9]
+
+Give every outdoor scene one wide view built in far, middle and near planes with the people small in it, and put the sky in it after dark.
+
+> One wide view outdoors. Every outdoor scene gets one wide view built far, middle and near, with the people small in it, and the sky in it after dark.
+
+### R70-51-REPETITION_AGAINST_NOVELTY [Style Law 2026-10-03 DS11]
+
+Keep each culture's two signature items per session, and in every scene also add one subject the thread has not yet described, logging it as canon.
+
+> Recur, and add one. R53-19's two signature items stay; R6-9's 'Novelty is its enemy' is rewritten so every scene also adds one subject the thread has not described, logged as canon (R53-21).
+
+### R70-60-COLOUR_AS_SYMBOL_PER [Style Law 2026-10-03 DT2]
+
+Give each Standing Inventory a colour field saying what white, red, black and two or three local colours mean there (the chartered Northern houses read heraldry), use it unglossed in narration, and let two cultures read one colour two ways.
+
+> A colour code per culture. Each Inventory gains a colour field: what white, red, black and two or three local colours mean there, and the chartered Northern houses read heraldry. Narration uses it unglossed; two cultures may read one colour two ways.
+
+### R70-76-MUCH_WORLD_MAGIC [Style Law 2026-10-03 MY8]
+
+Write what the world does by itself as stated law, with rules in the imperative, prices as prices and taboos unexplained, while people's workings keep their full mechanism.
+
+> Law stated, reasons kept. R12-2 governs what the world does and R48-25 narrows to what people do: rules in the imperative, prices as prices, taboos unexplained. People's workings keep full mechanism.
+
+### R70-77-INSTRUMENT_CAN_SHOW [Style Law 2026-10-03 LR1]
+
+Assay coils may stamp their figures on a paper tape or punch them on a card, like a ticker or tabulator, and any set-off readout block on the page is written as that tape in the instrument's own type.
+
+> Printing instruments. Assay coils stamp a paper tape or punch a card, as a ticker or tabulator does, so a set-off block on the page is that tape, in the instrument's own type.
+
+### R70-78-WHERE_SCREEN_COMES_FROM [Style Law 2026-10-03 LR22]
+
+A practitioner sees his own figures as plain, voiceless lines read in his Soul Crystal at thresholds, exact and limited to his own sheet, never showing wounds or anyone else, while instruments read everyone else.
+
+> Read in the Crystal. The bearer reads his own Soul Crystal as plain, voiceless lines at thresholds: his own sheet only, exact, and blind to wounds and to others. Small new canon; instruments still read everyone else.
+
+### R70-79-CAN_READ_WHOM [Style Law 2026-10-03 LR2]
+
+Every practitioner feels his own Grades and Stage and senses another's Band and rough Stage as closely as his Gnosis allows, but another's exact figures need an instrument, and commoners keep their folk words and their awe.
+
+> Practitioners feel rank. Any practitioner feels his own Grades and Stage, and another's Band and rough Stage, with Gnosis setting how close. Another's exact figures need an instrument; commoners keep their folk words and their awe.
+
+### R70-92-CONFIRMING_NEW_STAGE [Style Law 2026-10-03 LR14]
+
+A new Stage is confirmed at a re-assay held as a rite before witnesses, read aloud and entered on the Reckoner's roll.
+
+> A public re-assay. The re-assay is a rite before witnesses, read aloud and entered on the Reckoner's roll: the sect's ranking ceremony, in WOTR's institutions.
+
+### R70-96-TITLES_ACHIEVEMENTS [Style Law 2026-10-03 LR18]
+
+Besides Third Names, the Guild may enter a commendation on a practitioner's registration and strike its mark on his token, which carries legal and social weight but changes no stat.
+
+> Guild commendations. The Guild may also enter a commendation on a registration and strike its mark on the token: legal and social weight, no stat effect. Third Names carry on as now.
+
+### R70-97-QUESTS_CONTRACTS [Style Law 2026-10-03 LR19]
+
+Quests take the form of Guild and Crown contracts posted with terms, pay and the clearance register, and every hook offered at the table states its reward and penalty.
+
+> Contract boards. Guild and Crown contracts posted with terms, pay and the clearance register: the quest board as a Draw Age notice. Hooks gain a stated reward and penalty.
+
+### R70-117-SOBRIQUETS_HALL_TITLES [Style Law 2026-10-03 NE1]
+
+Criers, crowds, ballads and enemies may hang lesser names on any notable fighter, most fading and the one that sticks becoming the Third Name, and the lineage halls may stack titles (Hall Master, Elder, Senior Brother, first disciple) in formal address.
+
+> Sobriquets and title ladders. B and C together: sobriquets spread by use, and the halls stack their titles in formal address. R23-10 holds for given names only. (Option B there reads: Sobriquets in common use. Criers, crowds, ballads and enemies may hang lesser names on any notable fighter; most fade, and the one that sticks becomes the Third Name. Your characters' names still stick only if you keep them.) (Option C there reads: Hall title ladders. The lineage halls run a full title ladder (Hall Master, Elder, Senior Brother, first disciple) that may stack in formal address; R23-10's bans lift for titles and hold for given names.)
+
+### R70-119-MUCH_POOL_COMIC [Style Law 2026-10-03 NM1]
+
+Comic bynames and nicknames are the norm in musters, crews, taverns and markets and thin out above the commons, as high as R70-122 lets them reach.
+
+> Most commons and soldiers. Comic bynames and nicknames become the norm in musters, crews, taverns and markets. Above the commons they thin out, and NM4 sets how high they reach.
+
+### R70-120-BUILT_COMIC_NAMES [Style Law 2026-10-03 NM2]
+
+Build comic names as rhyming or alliterating sets among kin, crews and sworn pairs inside each culture's sound rules, as Dickensian talking surnames for Northern and Accord families, and as plausible puns built from words the Draw Age owns, never from a brand, celebrity or modern-world reference.
+
+> Yes to: Rhyming and alliterating sets (Kin, crews and sworn pairs share a name-part and change the sound, Borin and Snorin style, inside each culture's own sound rules. A set meeting is a beat (R50-17)); Dickensian talking surnames (Surnames that tell a trade or a nature one notch past believable, as Gradgrind did: the Victorian imperial register R53-28 already sets, for Northern and Accord families); Plausible puns, Pratchett-style (Surnames that pass for real ones, with the pun underneath or turned against the bearer. Built from words the Draw Age owns, so no brand, celebrity or modern-world reference). Not taken: Phrase and sentence names.
+
+### R70-121-GROWN_COMIC_NAMES [Style Law 2026-10-03 NM3]
+
+Let comic names grow from use: comrades' deed and body nicknames, names bent by a foreign mouth and spelled as heard, names funny for their noise inside a people's sound rules, and cheap or ugly names given so that death passes a child over.
+
+> Yes to: Soldiers' nicknames (Deed and body bynames from comrades, literal or ironic, the way Abercrombie's Logen Ninefingers counts his missing finger. Peers coin them, so the joke belongs to the characters); Mangled names (A name or phrase bent by a foreign mouth and written as heard, a real mishearing every time (R20-4). Canon already does it: the Dawi say Porin, and Common mouths make it Borin); Sound comedy (Names funny for their noise: hard k sounds, doubled syllables, a goblin mouth's extra consonants. Built inside each people's own sound rules, and most at home among the goblinoids); Protective ugly names (A child given a cheap or ugly name so death passes it over, as Chinese and Korean families did; R23-5 already allows a name given 'as an insult or a shield'. Comic to outsiders, grim at home).
+
+### R70-124-PEOPLES_WEST_NORTH [Style Law 2026-10-03 NM6]
+
+The Dawi joke in rhyming sets, English-rendered deed bynames and outsiders' mangling with given names kept bank-built; the Kharven and Far-Northern in scarcity-insult bynames, protective cheap names and Accord roll-names, never on the recently dead; the Accord and Northern commons in talking and phrase surnames, rhyming pet names, soldiers' bynames and correct Latin; the goblinoids in sound comedy and bynames whose cause nobody remembers.
+
+> Yes to: The Dawi (Rhyming sets on a shared bank element, deed bynames rendered in English, and outsiders' mangling. Given names stay bank-built; the joke lives in sets, bynames and other people's mouths); Kharven and Far-Northern (Bynames from the Kharven stock of scarcity insults, protective cheap names, and roll-names (surnames an Accord clerk assigned). No joke on the name of the recently dead (R23-11)); Accord and Northern commons (The richest home: talking and phrase surnames, rhyming pet names (Hob and Dob), soldiers' bynames, and Accord jokes in correct Latin (R50-12)); Goblinoid peoples (Sound comedy, and bynames whose cause nobody remembers, so a dreaded name can arrive with no story behind it).
+
+### R70-125-PEOPLES_EASTERN_STRATA [Style Law 2026-10-03 NM7]
+
+Japonic retainers and servants take calling-names from real Japanese trait-words and sound puns glossed once by a character; servants and rival Lines coin comic bynames for new bloodline cadets behind their backs, given names untouched; Mahuo names may chime through the generation syllable onto a real Korean word and children may carry ugly milk-names; the lineage halls run mocked studio names, insulting posthumous names, cheap child-names and spoken homophone puns, never a joke that needs a written character.
+
+> Yes to: Retainers and household staff (Retainers and servants of the Japonic houses take calling-names from real Japanese trait-words, and sound puns on real words, glossed once by a character); Bloodline cadets, bynames only (Servants and rival Lines coin comic bynames for new cadets of the archaic houses, behind their backs; given names stay under R40-1. No carded Moto is touched, Sodoku least of all, and no Büri form returns); The Mahuo (Korean-register names chime through the generation syllable (one syllable every cousin of a generation shares) and can land on a real Korean word; children may carry ugly milk-names. Real Korean only (R50-01)); The Chinese lineage halls (Self-awarded studio names (a scholar's chosen art-name, which other houses mock), insulting posthumous names, cheap child-names and spoken homophone puns. Nothing that needs a written character to land).
+
+### R70-128-PLACES_INNS_SHIPS_GEAR [Style Law 2026-10-03 NM10]
+
+Inns, taverns and shops, the commons' streets, fords and districts, vessels, sledge-teams, draw-engines and gun-carriages, and weapons and gear may carry comic folk names beside their official or true names, while the Accord's Latin place name and an item's true name stay grave and technique names keep their own law.
+
+> Yes to: Inns, taverns and shops (Signboards and their regulars' nicknames carry the joke, in every culture's towns); Streets and places (The commons' names for streets, fords and districts sit beside the official ones, one per culture (R50-22). The Accord's Latin name stays grave); Ships, sledges and engines (Crews' names for vessels, sledge-teams, draw-engines and gun-carriages, beside whatever the registry wrote); Weapons and items (Weapons and gear take soldiers' folk names beside their true names (R50-13): the true name in the maker's tongue stays grave, and the folk name may joke. Technique names keep R50-11 and R8-22).
 
 ### R55-10-VOHRIN_TWO_LEVELS [System Accounts Questionnaire 2026-09-26 Hunter's Breath; Maw of Crystalline Stasis; Bloodbind Surge; Cryost Ascendant]
 

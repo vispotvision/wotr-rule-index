@@ -1,0 +1,524 @@
+- id: R70-24-EASTERN_CONCEPT_WORDS_NARRATION
+  pack: Style Law 2026-10-03
+  pack_number: null
+  section: VB1
+  title: Felt word in a loanword, measured word in a WOTR noun
+  status: live
+  kind: mandate
+  summary: In narration an Eastern loanword names what the body feels and the WOTR noun names what a gauge
+    or the Guild measures, the two side by side in the same POV's narration.
+  verbatim: Felt word, measured word. The loanword names what the body feels; the WOTR noun names what
+    a gauge or the Guild measures, in the same POV's narration. The Eastern inside and the LitRPG outside
+    sit side by side.
+  amends:
+  - guide: NATALIE.md and the wotr-write skill
+    locus: Vocabulary and diction
+    operation: extends
+  - guide: WOTR_Master_Style_Directive.md
+    locus: §6
+    operation: extends
+  supersedes: []
+  applies_to:
+  - prose-law
+  - register
+  - magic-mechanism
+  verification:
+  - 'verify: word-bank spelling'
+  ratified: 'Isaac, 2026-10-03, Claude Code chat: ruled directly (the style questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: Partly amends R13-6-WOTR_FIRST for what the body feels; R50-01-REAL_GRAMMAR stands beside it
+    (the answer does not cite it). Works with R70-68-INSIDE_PRACTICE, which walks the Crystal in Codex
+    nouns, and R70-33-WORD_BANK_PER_CULTURE.
+- id: R70-25-FOREIGN_WORDS_PAGE
+  pack: Style Law 2026-10-03
+  pack_number: null
+  section: VB2
+  title: Foreign words plain on the page, defined in a glossary
+  status: live
+  kind: mandate
+  summary: A native or borrowed word sits plain in the sentence, with no italics and no explaining phrase,
+    and each book carries a glossary at the back while the wiki keeps a terms page.
+  verbatim: 'Context plus a glossary. Prose as in A, plus a glossary at the back of each book and a terms
+    page on the wiki. The page stays clean, and LitRPG readers get the reference they expect. (Option
+    A there reads: Plain, context only. Current law. No italics and no explaining phrase; the scene carries
+    the meaning. Immersive and quick, and now and then a reader guesses wrong for a page.)'
+  amends:
+  - guide: NATALIE.md and the wotr-write skill
+    locus: Word choice
+    operation: extends
+  supersedes: []
+  applies_to:
+  - prose-law
+  - register
+  - documents
+  verification:
+  - 'verify: style-sheet warnings'
+  ratified: 'Isaac, 2026-10-03, Claude Code chat: ruled directly (the style questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: Keeps current law (R49-49-FOREIGN, R50-32-ITALICS, R51-15-FIRST_USE and R4-13-ZERO_BUDGET stand)
+    and adds the back-of-book glossary and the wiki terms page. R70-36-CHECKER_ENFORCES WARNs on an italicised
+    loanword.
+- id: R70-26-LEARNED_TONGUES_BESIDE_LATIN
+  pack: Style Law 2026-10-03
+  pack_number: null
+  section: VB3
+  title: A learned tongue for each learned culture, beside Accord Latin
+  status: live
+  kind: mandate
+  summary: Each learned culture may carry tags in its own learned tongue as the Accord carries Latin (hanmun
+    for Korean-stratum scholars, kanbun readings in Moto records, wenyan in the lineage halls), every
+    tag real, romanised and checked.
+  verbatim: A learned tongue each. Hanmun tags for Korean-stratum scholars, kanbun readings in Moto records,
+    wenyan in the lineage halls, Latin for the Accord, each real and romanised (R50-01, R50-31). Every
+    learned culture gets weight; every tag needs checking.
+  amends:
+  - guide: NATALIE.md and the wotr-write skill
+    locus: Vocabulary and diction
+    operation: extends
+  - guide: Naming guide and the wotr-write skill
+    locus: Borrowing from real languages
+    operation: extends
+  supersedes: []
+  applies_to:
+  - prose-law
+  - register
+  - naming
+  - documents
+  verification: []
+  ratified: 'Isaac, 2026-10-03, Claude Code chat: ruled directly (the style questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: Extends R51-19-ACCORD_LATIN to the Eastern strata; every tag is real and romanised under R50-01-REAL_GRAMMAR
+    and R50-31-SCRIPT_SHOWN. Kanbun in Moto records sits inside R51-33-DOC_REGISTER's old register.
+- id: R70-27-ANTIQUE_NARRATION_RUNS
+  pack: Style Law 2026-10-03
+  pack_number: null
+  section: VB4
+  title: An antique-word dial per culture
+  status: live
+  kind: mandate
+  summary: Each Standing Inventory sets its culture's narration dial to plain, period or archaic as law,
+    and narration's words follow the dial of the POV's culture.
+  verbatim: A dial per culture. Each Standing Inventory sets plain, period or archaic as law, amending
+    R20C-58, and narration follows the POV's culture. The sample is a Moto-court steward under an archaic
+    dial; a Kharven POV stays plain.
+  amends:
+  - guide: Standing Inventories, NATALIE.md and the wotr-write skill
+    locus: World texture
+    operation: adds
+  - guide: NATALIE.md and the wotr-write skill
+    locus: Vocabulary and diction
+    operation: extends
+  supersedes: []
+  applies_to:
+  - prose-law
+  - register
+  - standing-inventory
+  - pov
+  verification:
+  - 'verify: style-sheet warnings'
+  ratified: 'Isaac, 2026-10-03, Claude Code chat: ruled directly (the style questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: Amends R20C-58-REGISTERS_FLAVOUR_NOT_LAW (the answer's own word) for the word dial only, and
+    partly amends R51-01-TIMELESS, whose plain default and two antique exceptions are now set per culture.
+    Read with R5-C3-NARRATION_REGISTER_EXTENSION. Modern words stay out of narration outside italic thought
+    (R48-13-PERIOD_FEEL, R70-37-MODERN_IDIOM_THOUGHT). Works with R70-21-CADENCE_CULTURE; R70-36-CHECKER_ENFORCES
+    WARNs on an archaic word outside its culture's dial.
+- id: R70-28-TRADE_SCIENCE_WORDS
+  pack: Style Law 2026-10-03
+  pack_number: null
+  section: VB5
+  title: Exact terms for apparatus and workings, plain words for an untrained body
+  status: live
+  kind: mandate
+  summary: Narration names apparatus and workings in their exact terms by ear, keeps an untrained POV's
+    own body and his reading of the scene in plain words, and still meets Check 30's floor.
+  verbatim: As now, mixed. Narration names apparatus and workings exactly by ear; an untrained POV's own
+    body and his reading of the scene stay plain. Check 30's floor holds.
+  amends: []
+  supersedes: []
+  applies_to:
+  - prose-law
+  - register
+  - pov
+  - magic-mechanism
+  - combat
+  verification:
+  - check-30
+  ratified: 'Isaac, 2026-10-03, Claude Code chat: ruled directly (the style questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: 'Confirms current law: R48-09-TECH_WORDS, R49-46-CHEMISTRY, R49-50-OWN_BODY, R16-8-CHECK30 and
+    R13-6-REAL_SCIENCE_VOCAB stand unchanged.'
+- id: R70-29-UNITS_MEASURE
+  pack: Style Law 2026-10-03
+  pack_number: null
+  section: VB6
+  title: Narration measures in the POV's own units
+  status: live
+  kind: mandate
+  summary: Narration measures distance, weight and time in the POV's own units (bowshots and a pot's boil
+    for a Kharven guard; yards, pounds and joules for a Measurewright), and the exact figure stays with
+    trained eyes.
+  verbatim: The POV's own units. Current law. A Kharven guard counts in bowshots and a pot's boil, a Measurewright
+    in yards, pounds and joules. Units characterise, and the exact figure stays with trained eyes.
+  amends: []
+  supersedes: []
+  applies_to:
+  - prose-law
+  - register
+  - pov
+  - worldbuilding
+  verification: []
+  ratified: 'Isaac, 2026-10-03, Claude Code chat: ruled directly (the style questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: 'Confirms current law: R49-52-MEASURES, R51-07-CLOCK_WORDS, R53-08-TRAVEL_RATES and R48-16-REAL_FIGURES
+    stand. Works with R70-30-NUMBERS_WORDS_DIGITS on how a figure is written.'
+- id: R70-30-NUMBERS_WORDS_DIGITS
+  pack: Style Law 2026-10-03
+  pack_number: null
+  section: VB7
+  title: Numbers in words to one hundred, digits for large counts and system figures
+  status: live
+  kind: mandate
+  summary: Narration spells out numbers up to one hundred and round numbers, and writes exact large counts
+    and every system figure (Level, EU, AU/s) in digits.
+  verbatim: Small in words, big digits. Words up to one hundred and for round numbers; digits for exact
+    large counts and every system figure (Level, EU, AU/s). Sourced figures stand out as data.
+  amends:
+  - guide: NATALIE.md and the wotr-write skill
+    locus: Word choice
+    operation: adds
+  supersedes: []
+  applies_to:
+  - prose-law
+  - register
+  - stats
+  verification:
+  - 'verify: style-sheet warnings'
+  ratified: 'Isaac, 2026-10-03, Claude Code chat: ruled directly (the style questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: 'New house style; no earlier rule set it. Governs only how a figure is written: every figure
+    still traces to a source (R12-5-NEVER_INVENT_NUMBER). Works with R70-82-NUMERALS_LADDER_RUNGS and
+    R70-36-CHECKER_ENFORCES, which WARNs on a digit where words are due.'
+- id: R70-31-CAPITALS_SYSTEM_TERMS
+  pack: Style Law 2026-10-03
+  pack_number: null
+  section: VB8
+  title: A fixed list of capitalised system terms
+  status: live
+  kind: mandate
+  summary: Narration capitalises the canonical system terms on a fixed list (Stage, Band, Grade, Level,
+    Wellspring, Essence, Aether, Pressure and the Sub-Stat names), writes reserve and the draw in lower
+    case, and takes care with plain senses such as a band of riders.
+  verbatim: 'Canonical terms capitalised. The archive''s habit fixed as a list: Stage, Band, Grade, Level,
+    Wellspring, Essence, Aether, Pressure and Sub-Stat names capitalised; reserve and the draw lower case.
+    Plain senses (a band of riders) need care.'
+  amends:
+  - guide: NATALIE.md and the wotr-write skill
+    locus: Word choice
+    operation: adds
+  supersedes: []
+  applies_to:
+  - prose-law
+  - register
+  - stats
+  verification:
+  - check-37
+  - 'verify: canonical term list (wotr_terms.txt)'
+  ratified: 'Isaac, 2026-10-03, Claude Code chat: ruled directly (the style questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: Fixes the archive's habit as law beside R14-5-CANONICAL_TERMS and R49-47-STAT_WORDS. R70-36-CHECKER_ENFORCES
+    checks the capitals against wotr_terms.txt.
+- id: R70-32-NEW_WORDS_KIND_MANY
+  pack: Style Law 2026-10-03
+  pack_number: null
+  section: VB9
+  title: New words coined by owner, uncapped and logged
+  status: live
+  kind: mandate
+  summary: A new thing gets an English compound if it is common, the owning culture's native word if a
+    culture owns it, and a capitalised label if it belongs to the system or an instrument, with no cap
+    per scene and every coinage logged.
+  verbatim: All three, by owner. English compounds for common things, a culture's native word where that
+    culture owns the thing, capitalised labels for system and instrument things; no cap, all logged (R50-28).
+    The blend in one rule.
+  amends:
+  - guide: Naming guide and the wotr-write skill
+    locus: Naming things mid-scene
+    operation: extends
+  supersedes: []
+  applies_to:
+  - prose-law
+  - naming
+  - register
+  - worldbuilding
+  verification:
+  - 'verify: word-bank spelling'
+  ratified: 'Isaac, 2026-10-03, Claude Code chat: ruled directly (the style questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: Keeps R51-14-NEW_TERMS (no ceiling) and R50-28-NEW_WORDS (logged with the scene). Native coinages
+    follow R51-20-KHARVEN_WORDS, R51-23-DAWI_WORDS and R51-24-ELVEN_WORDS. Works with R70-33-WORD_BANK_PER_CULTURE.
+- id: R70-33-WORD_BANK_PER_CULTURE
+  pack: Style Law 2026-10-03
+  pack_number: null
+  section: VB10
+  title: Every Standing Inventory gains a Words entry
+  status: live
+  kind: mandate
+  summary: Every Standing Inventory gains a Words entry listing native words, trade terms, slang and address
+    forms, each with its meaning and who says it, and scenes draw from it first.
+  verbatim: 'A Words entry everywhere. Every Inventory gains a Words entry: native words, trade terms,
+    slang and address forms, each with meaning and who says it. Scenes draw from it first; a checker can
+    spell-check against it.'
+  amends:
+  - guide: Standing Inventories, NATALIE.md and the wotr-write skill
+    locus: World texture
+    operation: adds
+  supersedes: []
+  applies_to:
+  - standing-inventory
+  - naming
+  - register
+  - worldbuilding
+  verification:
+  - 'verify: word-bank spelling'
+  ratified: 'Isaac, 2026-10-03, Claude Code chat: ruled directly (the style questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: Sits beside the senses entry of R51-31-SENSE_BANK. R70-36-CHECKER_ENFORCES spell-checks native
+    words against these banks. Works with R70-22-SOUND_WORDS and R70-45-NEW_STANDING_INVENTORY_FIELDS.
+- id: R70-34-REAL_LANGUAGE_SWEARS_NARRATION
+  pack: Style Law 2026-10-03
+  pack_number: null
+  section: VB11
+  title: An Eastern-stratum POV may think his own tongue's swears
+  status: live
+  kind: mandate
+  summary: Close-POV narration for a Japonic, Korean or Chinese-stratum POV may carry his own language's
+    real swears, romanised, correct and never italic, beside English and WOTR swears.
+  verbatim: The POV's own tongue. A Japonic, Korean or Chinese-stratum POV may think his own language's
+    swears, romanised, correct and never italic (R50-01, R50-32), beside English and WOTR ones.
+  amends:
+  - guide: NATALIE.md and the wotr-write skill
+    locus: Vocabulary and diction
+    operation: extends
+  supersedes: []
+  applies_to:
+  - prose-law
+  - register
+  - pov
+  verification:
+  - 'verify: style-sheet warnings'
+  ratified: 'Isaac, 2026-10-03, Claude Code chat: ruled directly (the style questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: Extends R51-02-CLOSE_POV_SWEARS to real Eastern-language swears, for a POV of that stratum only
+    (swears borrowed across cultures were not taken). Each is correct under R50-01-REAL_GRAMMAR and roman
+    under R50-32-ITALICS; R51-29-SWEARING's culture-first order stands.
+- id: R70-35-HARD_BAN_LIST
+  pack: Style Law 2026-10-03
+  pack_number: null
+  section: VB12
+  title: Three stock-phrase families join the hard-ban list; three items trimmed
+  status: live
+  kind: ban
+  summary: Narration may not use the listed cultivation-translation, Western fantasy and LitRPG stock
+    phrases (qi surged, a grim smile, power surged through him and the rest the answer names), while testament
+    for a will, visceral in anatomy and orbs for lamps and regalia now pass and the stock senses of those
+    three still fail.
+  verbatim: 'Yes to: Cultivation-translation stock (Bans ''qi surged'', ''a cold glint flashed'', ''sucked
+    in a cold breath'' and ''killing intent surged'' in narration. The Eastern feel comes from method,
+    never from translated filler); Western fantasy stock (Bans ''the steel sang'', ''a grim smile'', ''his
+    blood ran cold'', ''every fibre of his being'' and ''darkness gathered''. Grimdark''s own worn phrasing
+    goes out with the imported kind); LitRPG stock (Bans ''power surged through him'', ''stronger than
+    ever'', ''a wave of power'' and ''his stats soared''. Growth shows in the body and on the instrument);
+    Trim the false hits (Narrows three items to their stock sense: a will called a testament passes, ''visceral''
+    passes in anatomy (the visceral pleura, R49-45), ''orbs'' passes for lamps and regalia. The stock
+    senses still fail).'
+  amends:
+  - guide: NATALIE.md and the wotr-write skill
+    locus: Vocabulary and diction
+    operation: extends
+  supersedes: []
+  applies_to:
+  - prose-law
+  - register
+  - verification
+  verification:
+  - 'verify: hard-ban list'
+  - 'verify: hard-ban families'
+  ratified: 'Isaac, 2026-10-03, Claude Code chat: ruled directly (the style questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: 'Partly amends R51-10-SLOP_WORDS. Cultivation: qi surged, a cold glint flashed, sucked in a cold
+    breath, killing intent surged. Western: the steel sang, a grim smile, his blood ran cold, every fibre
+    of his being, darkness gathered. LitRPG: power surged through him, stronger than ever, a wave of power,
+    his stats soared. R70-36-CHECKER_ENFORCES FAILs the families at first use in narration; speech formulas
+    are R70-108-EASTERN_REGISTER_SPEECH_SOUNDS'' and R70-136-NEW_CHECKS_VERIFY_SCENE''s.'
+- id: R70-36-CHECKER_ENFORCES
+  pack: Style Law 2026-10-03
+  pack_number: null
+  section: VB13
+  title: verify_scene gains four vocabulary checks
+  status: live
+  kind: procedure
+  summary: verify_scene matches native words against the culture word banks (a near-miss FAILs, unknown
+    words are listed for the scene log), checks Stage, Band, Wellspring and Family names for spelling
+    and capitals against a wotr_terms.txt built from Fracture of Worlds, the glossary and the Codex, FAILs
+    the new ban families at first use in narration (looser variants WARN), and WARNs on an italicised
+    loanword, a digit where words are due and an archaic word outside its culture's dial.
+  verbatim: 'Yes to: Word-bank spelling check (Native words are matched against the culture banks (VB10);
+    a near-miss FAILs as a misspelt Wellspring does (R14-5-NEAR_MISS_FAIL); unknown words are listed for
+    the scene log (R50-28)); Canonical term list (wotr_terms.txt is built from Fracture of Worlds, the
+    glossary and the Codex; Stage, Band, Wellspring and Family names are checked for spelling and capitals
+    (VB8), and a near-miss FAILs (R14-5-NEAR_MISS_FAIL, Check 37)); New ban families FAIL (The families
+    chosen in VB12 FAIL at first use in narration, as R51-10 does; looser variants of a banned phrase
+    WARN for a read); Style-sheet warnings (WARNs for the house style set here: an italicised loanword
+    (VB2), a digit where words are due (VB7), an archaic word outside its culture''s dial (VB4). Holds
+    the style without blocking a reply).'
+  amends:
+  - guide: Manual Verification Guide
+    locus: Manual Verification Guide
+    operation: adds
+  - guide: NATALIE.md and the wotr-write skill
+    locus: The checker
+    operation: adds
+  supersedes: []
+  applies_to:
+  - verification
+  - prose-law
+  - register
+  verification:
+  - check-37
+  - 'verify: word-bank spelling'
+  - 'verify: canonical term list (wotr_terms.txt)'
+  - 'verify: hard-ban families'
+  - 'verify: style-sheet warnings'
+  ratified: 'Isaac, 2026-10-03, Claude Code chat: ruled directly (the style questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: Enforces R70-25-FOREIGN_WORDS_PAGE, R70-27-ANTIQUE_NARRATION_RUNS, R70-30-NUMBERS_WORDS_DIGITS,
+    R70-31-CAPITALS_SYSTEM_TERMS, R70-33-WORD_BANK_PER_CULTURE and R70-35-HARD_BAN_LIST. Carries out R14-5-BUILD_TERMS_LIST
+    and the wotr_terms.txt audit of R14-6-CHECK27; near-misses FAIL under R14-5-NEAR_MISS_FAIL and R18-7-CHECK37.
+    Works with R70-136-NEW_CHECKS_VERIFY_SCENE.
+- id: R70-37-MODERN_IDIOM_THOUGHT
+  pack: Style Law 2026-10-03
+  pack_number: null
+  section: IN1
+  title: Italic thought may talk the way the POV talks
+  status: live
+  kind: mandate
+  summary: Italic thought may use any word the POV would say aloud, modern words included, while plain
+    narration keeps its timeless register and verify drops italic thought from the modern-word check.
+  verbatim: Thought as he speaks. Italic thought may use whatever the POV would say aloud, modern words
+    included; plain narration stays timeless. verify drops italic thought from the modern-word check.
+  amends:
+  - guide: NATALIE.md and the wotr-write skill
+    locus: Register and voice
+    operation: extends
+  - guide: NATALIE.md and the wotr-write skill
+    locus: The checker
+    operation: adds
+  supersedes: []
+  applies_to:
+  - prose-law
+  - register
+  - pov
+  verification:
+  - 'verify: modern-word check (italic thought exempt)'
+  ratified: 'Isaac, 2026-10-03, Claude Code chat: ruled directly (the style questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: Partly amends R48-13-PERIOD_FEEL (modern words now in speech and italic thought), narrows R51-03-LIST_SLANG
+    and R51-04-LIST_PSYCH to plain narration, and takes italic thought out of the R49-44-MODERN_FLAGS
+    checker list. Gamer words are R70-94-GAMER_SLANG's.
+- id: R70-38-REASONING_SHOWS
+  pack: Style Law 2026-10-03
+  pack_number: null
+  section: IN2
+  title: Stepwise lists, the unsaid and figures join running interiority
+  status: live
+  kind: mandate
+  summary: A reasoning POV may set his thinking out in italic thought as numbered steps, risk lists or
+    tests; thought may stop short and leave an action or image to carry it, deep interiority becoming
+    one of two modes chosen per register; and a POV who can read rank or price may reason from readings
+    and figures, each traced to a source.
+  verbatim: 'Yes to: Stepwise lists (A reasoning POV may set thinking out as numbered steps, risk lists
+    or tests in italic thought; R16-8-CHECK33''s cap on technical terms in italics eases); The unsaid
+    (Thought may stop short of its conclusion and leave an action or an image to carry it, as Kawabata
+    does; deep interiority becomes one mode of two, chosen per register); Reasoning from figures (A POV
+    who can read rank or price may reason from readings and figures as evidence, as LitRPG heroes do;
+    every figure still traces to a source (R12-5)).'
+  amends:
+  - guide: NATALIE.md and the wotr-write skill
+    locus: POV and interiority
+    operation: extends
+  supersedes: []
+  applies_to:
+  - prose-law
+  - pov
+  - stats
+  verification:
+  - check-33
+  ratified: 'Isaac, 2026-10-03, Claude Code chat: ruled directly (the style questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: Partly amends R48-39-INTERIORITY (deep interiority becomes one mode of two, chosen per register)
+    and eases R16-8-CHECK33 for stepwise lists; the answer sets no new figure for the cap. Its 'R12-5'
+    is R12-5-NEVER_INVENT_NUMBER (R12-5-NUMBERS_DIAGNOSTIC_ONLY is already superseded). Works with R70-2-LITRPG_WOTR_BECOMES
+    and R70-3-STRAND_LEADS_LAYER.
+- id: R70-39-CARRYING_FEELING
+  pack: Style Law 2026-10-03
+  pack_number: null
+  section: IN3
+  title: In chosen scenes, a held image carries the unnamed feeling
+  status: live
+  kind: mandate
+  summary: In scenes chosen for it, the feeling is never named and one held, concrete image carries it,
+    and that image obeys the elegy rule of R5-C2 (a named concrete thing, never an abstraction).
+  verbatim: Held image, never named. In chosen scenes the feeling is never named and one held, concrete
+    image carries it, as mono no aware and han do; R49-07 gains a register-level exception, and the image
+    obeys R5-C2.
+  amends:
+  - guide: NATALIE.md and the wotr-write skill
+    locus: POV and interiority
+    operation: extends
+  supersedes: []
+  applies_to:
+  - prose-law
+  - pov
+  - register
+  - scene-structure
+  verification:
+  - 'verify: emotional signposting warning'
+  ratified: 'Isaac, 2026-10-03, Claude Code chat: ruled directly (the style questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: Gives R49-07-EMOTIONS a register-level exception; elsewhere body first, then the POV's own word,
+    stands. Its 'R5-C2' is R5-C2-ELEGY_CONCRETE_THING, the section's live rule an image can obey (R5-C2-FLAT_DELIVERY
+    and R5-C2-ONE_PASSAGE_BUDGET are already superseded; R5-C2-IRREVERSIBLE_NOBODYS_FAULT defines the
+    loss). Works with R70-1-BLEND_MODEL.

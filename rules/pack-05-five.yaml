@@ -44,14 +44,19 @@ rules:
     source:
       file: WOTR_Companion_Guide_Amendments_Pack_Five.md
       lines: "16-18"
-    notes: null
+    notes: >-
+      Partly amended by R70-1-BLEND_MODEL (style law 2026-10-03): the rewrite
+      of R5-A reaches the flesh, not the skeleton. The system's density stands
+      as written, but the frame "Eastern skeleton under Western flesh" gives
+      way to one house style drawing on all three strands, and LitRPG readouts
+      now bring the system onto the page (R70-2).
 
   - id: R5-A-FLESH_CHANGES
     pack: Pack Five
     pack_number: 5
     section: "A"
     title: Prose flesh derives from the Western tradition
-    status: live
+    status: superseded
     kind: mandate
     summary: >-
       Prose register, humour, characterisation method, narration authority
@@ -74,7 +79,18 @@ rules:
     source:
       file: WOTR_Companion_Guide_Amendments_Pack_Five.md
       lines: "20"
-    notes: null
+    notes: >-
+      Superseded by R70-1-BLEND_MODEL (style law 2026-10-03): "R5-A, R5-E and
+      R11-1 are rewritten", and R70-7-FAR_MOVE's new style pack "supersedes
+      Pack Five's flesh sections". The prose is now one fused house style
+      drawing on Western, Eastern and LitRPG strands and tilted by the POV's
+      culture (R70-1); which strand leads each layer is R70-3, the named
+      models R70-4 to R70-6. Its status is set by R70-1-BLEND_MODEL and
+      R70-7-FAR_MOVE ('as K1 decides', R70-135-WHERE_NEW_LAW_LIVES, style law
+      2026-10-03), and R70-135 carries the result into NATALIE.md and new
+      editions of the Master Style Directive, Combat Craft Guide, Dialogue
+      Craft Standards and Scene Writing Process Guide. R70-114-GRIMDARK_WARMTH
+      adds an openly warm bond to every live thread.
 
   - id: R5-A-OPERATIVE_CONSEQUENCE
     pack: Pack Five
@@ -138,7 +154,47 @@ rules:
     source:
       file: WOTR_Companion_Guide_Amendments_Pack_Five.md
       lines: "28-36"
-    notes: null
+    notes: >-
+      Re-ruled tell by tell under R70-7-FAR_MOVE (style law 2026-10-03), not
+      superseded whole. Re-ruled: reaction shots as characterisation are
+      struck for a crowd speaking in waves within the POV's hearing at a
+      reveal (R70-72-WATCHING_CROWD_POWER_REVEAL), and a public reversal
+      before a reassessing room is a licensed payoff that opens a Front or a
+      Ledger debt (R70-112-FACE_FACE_SLAP); humour as a tone exception gives
+      way in part, comedy and dread being set hard against each other by
+      design, each played straight, while jokes inside the danger stay gallows
+      wit (R70-116-COMEDY_BESIDE_DANGER); escalation as a pacing register is
+      legal inside a practitioner's duel while reserve lasts
+      (R70-102-STILLNESS_TRACED_PASSES_LONG), and R70-18-ARC_SHAPES'
+      tournament and delve arcs run escalation as plot architecture, which
+      this row already left legal. R70-6 takes Solo Leveling knowing its
+      escalation and onlooker shock run into these tells. Still tells:
+      personality vomiting, loud opinions as a default register, bizarre or
+      exaggerated minor NPCs (R52-31's comic minor NPCs aside), and absurdist
+      method alongside genuine stakes. Partly re-ruled by
+      R70-72-WATCHING_CROWD_POWER_REVEAL (style law 2026-10-03), one of the
+      tell-by-tell re-rulings R70-7 calls for: 'R5-G's reaction-shot tell is
+      struck for crowds', and that tell (R5-G-TELL_BANK_ADDITIONS) comes from
+      this list's reaction shots as characterisation, so at a reveal a crowd
+      may speak in waves inside the POV's hearing. R70-72 reaches no other
+      case and none of the other listed tells. Partly re-ruled, tell by tell
+      as R70-7-FAR_MOVE directs (style law 2026-10-03); not superseded.
+      Re-ruled within R70-100 to R70-138: escalation as a pacing register is
+      legal inside a practitioner's duel while reserve lasts
+      (R70-102-STILLNESS_TRACED_PASSES_LONG; R60-03-HARD_RESERVE_CLOCK ends
+      it); absurdist method beside genuine stakes gives way to comedy set hard
+      against dread by design, each played straight, while inside the danger
+      only gallows wit is legal, so that tell still holds there
+      (R70-116-COMEDY_BESIDE_DANGER). R70-112-FACE_FACE_SLAP licenses the
+      face-slap (a public reversal the room reassesses, with a bill) but names
+      no tell on this list; the room's reassessment is where it meets reaction
+      shots as characterisation, which R70-72 re-rules for crowds. Still tells
+      as far as R70-100 to R70-138 reach: personality vomiting, reaction shots
+      as characterisation, loud opinions as a default register, bizarre or
+      exaggerated minor NPCs (R70-122-MAY_CARRY_ONE gives minor NPCs comic
+      names, not exaggerated conduct) and humour as a tone exception
+      (R70-113-DOUBLE_ACT_COMIC_BEAT keeps full comic beats a property of
+      carded comic voices).
 
   - id: R5-B-FOIL_FUNCTION_SURVIVES
     pack: Pack Five
@@ -252,6 +308,8 @@ rules:
       lines: "64"
     notes: >-
       Elevated to status:live: Pack Fifteen §4 (already ratified, live) explicitly confirms this instrument "stands," following the same precedent used for Pack Seven content Pack Twelve confirms survives.
+      Stands; under R70-129-NOTICES_JOKE (style law 2026-10-03) the POV's own
+      head may register a name's joke in his own idiom.
 
   - id: R5-C1-WRITE_FROM_LEAST_KNOWING
     pack: Pack Five
@@ -308,6 +366,9 @@ rules:
       lines: "66"
     notes: >-
       Elevated to status:live: Pack Fifteen §4 (already ratified, live) explicitly confirms this instrument "stands," following the same precedent used for Pack Seven content Pack Twelve confirms survives.
+      Relaxed by R70-112-FACE_FACE_SLAP (style law 2026-10-03) for the
+      arrogant, who may misjudge badly before a public reversal; every such
+      reversal opens a Front or a Ledger debt.
 
   - id: R5-C1-NARRATION_NEVER_WINKS
     pack: Pack Five
@@ -334,6 +395,14 @@ rules:
       lines: "67"
     notes: >-
       Elevated to status:live: Pack Fifteen §4 (already ratified, live) explicitly confirms this instrument "stands," following the same precedent used for Pack Seven content Pack Twelve confirms survives.
+      Partly amended by R70-10-NARRATOR_STANCE (style law 2026-10-03): "R5-C1
+      gains a threshold exception". In a chapter's opening and closing lines
+      the narrator may address the reader, foreshadow or set down a maxim;
+      inside the scene the narration still never winks. Stands, as
+      R70-129-NOTICES_JOKE says (style law 2026-10-03): a close POV may
+      register a name's joke in his own idiom, and the narrator outside him
+      never remarks; a reader-only pun hidden in a foreign name stays out
+      (R70-123-WHOSE_EAR_HEARS_JOKE).
 
   - id: R5-C2-ELEGY_CONCRETE_THING
     pack: Pack Five
@@ -365,6 +434,12 @@ rules:
       lines: "81"
     notes: >-
       Elevated to status:live: Pack Fifteen §4 (already ratified, live) explicitly confirms this instrument "stands," following the same precedent used for Pack Seven content Pack Twelve confirms survives.
+      Cited by R70-39-CARRYING_FEELING (style law 2026-10-03): the held image
+      that carries an unnamed feeling obeys this rule. Stands, and still
+      applies to the elegiac image that R70-105-JOINS_WOUND_WHEN_FIGHT (style
+      law 2026-10-03) adds after a death by the blade for a POV whose culture
+      mourns that way (the questionnaire's image option tied it to a concrete
+      thing under this row).
 
   - id: R5-C2-FLAT_DELIVERY
     pack: Pack Five
@@ -493,6 +568,14 @@ rules:
       R15-1-REGISTER_BY_CULTURE, which should be backfilled to reference
       this row by id (a demotion since flavour use remains available, so no
       supersedes link — same policy as other demotions in this corpus).
+      Partly amended by R70-21-CADENCE_CULTURE (style law 2026-10-03): cadence
+      keyed to the POV's culture is now law and each narration register states
+      it; the rest of this row stays flavour under R15-1-REGISTER_BY_CULTURE.
+      Under R70-1 the POV's culture also tilts the strand mix, and R70-27 adds
+      a diction dial per culture. Read with R70-27-ANTIQUE_NARRATION_RUNS
+      (style law 2026-10-03): how antique narration's words run (plain, period
+      or archaic) is now law per culture, set in each Standing Inventory; the
+      rest of this per-culture register is not named by the answer.
 
   - id: R5-D-HUMOUR_PERMITTED
     pack: Pack Five
@@ -524,6 +607,14 @@ rules:
       lines: "109"
     notes: >-
       Elevated to status:live: Pack Fifteen §4 (already ratified, live) explicitly confirms this instrument "stands," following the same precedent used for Pack Seven content Pack Twelve confirms survives.
+      Confirmed by R70-81-VOICE_READOUT (style law 2026-10-03): R5-D stands;
+      humour stays a property of people, never of a readout. Stands (style law
+      2026-10-03). Under R70-116-COMEDY_BESIDE_DANGER comedy may be set hard
+      against dread by design, while jokes inside the danger stay gallows wit,
+      which this row permits from people whose profession earns it.
+      R70-122-MAY_CARRY_ONE puts comic names on villains and rivals (a comic
+      name on a dangerous person), and R70-127-COMIC_NAME_GRIM_END turns a
+      comic name to grief at a bad death.
 
   - id: R5-D-HUMOUR_BARRED
     pack: Pack Five
@@ -553,6 +644,11 @@ rules:
       lines: "111"
     notes: >-
       Elevated to status:live: Pack Fifteen §4 (already ratified, live) explicitly confirms this instrument "stands," following the same precedent used for Pack Seven content Pack Twelve confirms survives.
+      Confirmed by R70-81-VOICE_READOUT (style law 2026-10-03): R5-D stands,
+      and a readout never carries humour. Stands for everyone but the comic
+      voices and double acts named on their cards, who may play full comic
+      beats, retort and reaction included (R70-113-DOUBLE_ACT_COMIC_BEAT,
+      style law 2026-10-03).
 
   - id: R5-D-FUNERAL_TEST
     pack: Pack Five
@@ -611,7 +707,7 @@ rules:
     pack_number: 5
     section: "E"
     title: Martin wins on narration authority
-    status: live
+    status: superseded
     kind: mandate
     summary: >-
       Martin wins on narration authority: Tolkien's elevated and elegiac
@@ -635,6 +731,18 @@ rules:
       (R5-H-NARRATION_AUTHORITY_PENDING); kept here as the concrete
       proposed rule and separately as the open ruling, matching how other
       packs record a proposed answer alongside its own pending status.
+      Superseded by R70-1-BLEND_MODEL (style law 2026-10-03): "R5-A, R5-E and
+      R11-1 are rewritten", with R70-7-FAR_MOVE superseding "Pack Five's flesh
+      sections"; R70-4 drops Martin as a named model ("Not taken: Martin and
+      Abercrombie") and R70-3 has the Eastern voice lead narration. The rest
+      of the row is carried by R70-4: Tolkien's elegy and high style stay
+      named, and "his moral voice stays barred (R5-E)", which
+      R5-E-NARRATION_NEVER_ADJUDICATES and R5-E-FREE_INDIRECT_CARVEOUT carry;
+      both stand. Its status is set by R70-1-BLEND_MODEL and R70-7-FAR_MOVE
+      ('as K1 decides', R70-135-WHERE_NEW_LAW_LIVES, style law 2026-10-03),
+      and R70-135 carries the result into NATALIE.md and new editions of the
+      Master Style Directive, Combat Craft Guide, Dialogue Craft Standards and
+      Scene Writing Process Guide.
 
   - id: R5-E-NARRATION_NEVER_ADJUDICATES
     pack: Pack Five
@@ -662,6 +770,15 @@ rules:
       lines: "129"
     notes: >-
       Elevated to status:live: Pack Fifteen §4 (already ratified, live) explicitly confirms this instrument "stands," following the same precedent used for Pack Seven content Pack Twelve confirms survives.
+      Stands, with a threshold licence from R70-10-NARRATOR_STANCE (style law
+      2026-10-03): in a chapter's opening and closing lines the narrator may
+      address the reader, foreshadow or set down a maxim, while the body of
+      the scene stays POV-locked; R70-4 keeps "the narrator's moral verdicts"
+      out, so no line tells the reader what to think of a character's choice.
+      Not reached by R70-1's rewrite of R5-E. Noted by
+      R70-64-VERSE_INSIDE_PROSE (style law 2026-10-03): a scene or chapter may
+      close on a short poem set apart; R70-64 does not name this rule, which
+      stands as far as R70-64 goes.
 
   - id: R5-E-ELEVATED_REGISTER_QUARANTINED
     pack: Pack Five
@@ -726,6 +843,8 @@ rules:
       lines: "131"
     notes: >-
       Elevated to status:live: Pack Fifteen §4 (already ratified, live) explicitly confirms this instrument "stands," following the same precedent used for Pack Seven content Pack Twelve confirms survives.
+      Stands: R70-4-WESTERN_MODELS (style law 2026-10-03) keeps elegy named
+      under Tolkien. Not reached by R70-1's rewrite of R5-E.
 
   - id: R5-E-FREE_INDIRECT_CARVEOUT
     pack: Pack Five
@@ -756,6 +875,10 @@ rules:
       lines: "132"
     notes: >-
       Elevated to status:live: Pack Fifteen §4 (already ratified, live) explicitly confirms this instrument "stands," following the same precedent used for Pack Seven content Pack Twelve confirms survives.
+      Stands: R70-4-WESTERN_MODELS (style law 2026-10-03) keeps Tolkien's
+      "moral voice" barred, so a verdict in the narrator's neutral register is
+      still cut while one in the POV's own idiom is characterisation. Not
+      reached by R70-1's rewrite of R5-E.
 
   - id: R5-F-LIGHT_NOVEL_KEPT
     pack: Pack Five
@@ -786,7 +909,11 @@ rules:
     source:
       file: WOTR_Companion_Guide_Amendments_Pack_Five.md
       lines: "142-144"
-    notes: null
+    notes: >-
+      Stands: R70-17-CLOSING_MODES (style law 2026-10-03) gives its hook at
+      close a legal ending (the mid-crisis cliffhanger); its fast entry now
+      sits beside R70-16's far to near, season-word and document openings and
+      R70-23's chapter heads.
 
   - id: R5-F-LIGHT_NOVEL_NOT_KEPT
     pack: Pack Five
@@ -821,7 +948,11 @@ rules:
     source:
       file: WOTR_Companion_Guide_Amendments_Pack_Five.md
       lines: "148-151"
-    notes: null
+    notes: >-
+      Already superseded by R51-16-OLD_BANS_FALL. Its status-screen clause is
+      now answered in words by R70-80-READOUT_SITS_PAGE (style law
+      2026-10-03): figures inline by default, a set-off block only at a
+      re-assay that moves something, a breakthrough or an arc's end.
 
   - id: R5-G-STYLE_DIRECTIVE_HUMOUR_POINTER
     pack: Pack Five
@@ -935,6 +1066,31 @@ rules:
       confirmed Section B repeal, since the other two trace to still-proposed
       Sections D and E; a conservative bundling rather than splitting into
       four rows.
+      Re-ruled tell by tell under R70-7-FAR_MOVE (style law 2026-10-03), not
+      superseded whole. The reaction-shot cutaway is struck for a crowd
+      speaking within the POV's hearing at a reveal
+      (R70-72-WATCHING_CROWD_POWER_REVEAL: "R5-G's reaction-shot tell is
+      struck for crowds") and stands everywhere else; the comedic beat
+      structure stops being a tell for comic voices and double acts named on
+      their cards (R70-113-DOUBLE_ACT_COMIC_BEAT), everyone else staying under
+      R5-D. Declarative characterisation and narrator moral adjudication stand
+      as tells (R70-4 keeps the narrator's moral verdicts out; R70-10 allows
+      only a threshold maxim). Partly re-ruled by
+      R70-72-WATCHING_CROWD_POWER_REVEAL (style law 2026-10-03), one of the
+      tell-by-tell re-rulings R70-7 calls for: 'R5-G's reaction-shot tell is
+      struck for crowds', so at a reveal the crowd may speak in waves inside
+      the POV's hearing. R70-72 reaches no other case of the reaction-shot
+      cutaway (R70-113 re-rules the comic beat, reaction included, for named
+      comic voices), and it does not reach declarative characterisation, the
+      comedic beat structure or narrator moral adjudication. Partly re-ruled,
+      tell by tell as R70-7-FAR_MOVE directs (style law 2026-10-03); not
+      superseded. The comedic beat structure stops being a tell for comic
+      voices and double acts named on their cards, everyone else staying under
+      R5-D-HUMOUR_BARRED (R70-113-DOUBLE_ACT_COMIC_BEAT). Within R70-100 to
+      R70-138 the other three stand: declarative characterisation, the
+      reaction-shot cutaway (R70-112-FACE_FACE_SLAP's reassessing room names
+      no tell; R70-72 strikes the cutaway for crowds) and narrator moral
+      adjudication.
 
   - id: R5-H-NARRATION_AUTHORITY_PENDING
     pack: Pack Five

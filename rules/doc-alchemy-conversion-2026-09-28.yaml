@@ -257,7 +257,8 @@ rules:
   source:
     file: ''
     lines: null
-  notes: ''
+  notes: 'Stands: the converted texts are in-world documents, where R70-12-FIRST_PERSON (style law 2026-10-03)
+    keeps first person.'
 - id: R61-10-CONVERSION_IS_FULL_REBUILD
   pack: Alchemy Conversion Questionnaire 2026-09-28
   pack_number: null

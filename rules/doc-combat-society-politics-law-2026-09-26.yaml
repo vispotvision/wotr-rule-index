@@ -29,7 +29,8 @@ rules:
   source:
     file: ''
     lines: null
-  notes: ''
+  notes: Stands for the unranked, as R70-102-STILLNESS_TRACED_PASSES_LONG says (style law 2026-10-03);
+    practitioners' duels take the shape of their combat grammar and may escalate while reserve lasts.
 - id: R60-02-REAL_HEALING_TIMES
   pack: Combat, Society and Politics Law 2026-09-26
   pack_number: null
@@ -73,7 +74,9 @@ rules:
   source:
     file: ''
     lines: null
-  notes: ''
+  notes: 'Read with R70-85-SCENE_MOMENTS_THAT_EARN (style law 2026-10-03): a reserve line after a working
+    shows this clock on the page. Read with R70-88-NUMBERS_INSIDE_FIGHT (style law 2026-10-03): the clock
+    is never shown as a running count inside a fight.'
 - id: R60-04-DEATH_IS_PERMANENT
   pack: Combat, Society and Politics Law 2026-09-26
   pack_number: null
@@ -161,7 +164,8 @@ rules:
   source:
     file: ''
     lines: null
-  notes: ''
+  notes: 'Noted by R70-42-PUBLIC_WORLD (style law 2026-10-03): streets, markets and crowds, arcades and
+    branded goods included, join the description rotation; this rule stands.'
 - id: R60-08-WHO_PAYS
   pack: Combat, Society and Politics Law 2026-09-26
   pack_number: null
@@ -463,7 +467,8 @@ rules:
   source:
     file: ''
     lines: null
-  notes: ''
+  notes: 'Applied by R70-45-NEW_STANDING_INVENTORY_FIELDS (style law 2026-10-03): succession becomes a
+    field on every Inventory.'
 - id: R60-22-THE_NIGHT_WATCH
   pack: Combat, Society and Politics Law 2026-09-26
   pack_number: null

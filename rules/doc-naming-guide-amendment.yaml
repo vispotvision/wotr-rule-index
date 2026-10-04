@@ -133,7 +133,11 @@ rules:
     source:
       file: WOTR_Naming_Guide_Amendment.docx
       lines: "48"
-    notes: null
+    notes: >-
+      Stands; Dawi deed bynames may be rendered in English as comic names
+      (R70-124-PEOPLES_WEST_NORTH, style law 2026-10-03), and Borin
+      Ironheart's brothers are built on the shared Rin
+      (R70-126-BORIN_IRONHEART_RHYMING).
 
   - id: R20-1-GOBLINOID_ANCHOR
     pack: Naming Guide Amendment
@@ -162,7 +166,12 @@ rules:
     source:
       file: WOTR_Naming_Guide_Amendment.docx
       lines: "56"
-    notes: null
+    notes: >-
+      Stands; goblinoid comic names are sound comedy and bynames whose cause
+      nobody remembers (R70-124-PEOPLES_WEST_NORTH, style law 2026-10-03),
+      built inside goblinoid sound rules (R70-121-GROWN_COMIC_NAMES). Comic
+      names (R70-132-FAR_NAMING_LAW_BENDS): listed in the comic-name bank of
+      the culture's Standing Inventory (R70-131-COMIC_NAMES_GET_MADE).
 
   - id: R20-1-BEASTKIN_ANCHOR
     pack: Naming Guide Amendment
@@ -221,7 +230,14 @@ rules:
     source:
       file: WOTR_Naming_Guide_Amendment.docx
       lines: "72"
-    notes: null
+    notes: >-
+      Stands; R70-120-BUILT_COMIC_NAMES (style law 2026-10-03) adds Dickensian
+      talking surnames and plausible puns for Northern and Accord families,
+      and R70-124-PEOPLES_WEST_NORTH names the Accord and Northern commons the
+      richest home of comic names. Comic names (R70-132-FAR_NAMING_LAW_BENDS):
+      this culture's comic names are listed in the comic-name bank of its
+      Standing Inventory (R70-131-COMIC_NAMES_GET_MADE) and keep its sound
+      rules.
 
   - id: R20-2-MOTO_POLYNESIAN_STRUCK
     pack: Naming Guide Amendment
@@ -409,6 +425,15 @@ rules:
       The 30 individual morphemes are reference data (a word bank), not
       extracted row by row, consistent with how other packs' lexicon
       tables are treated.
+      Stands; banks and sound rules stand (R70-132-FAR_NAMING_LAW_BENDS, style
+      law 2026-10-03). Comic names (R70-132): Dawi comic names live in rhyming
+      sets on a shared bank element, deed bynames rendered in English and
+      outsiders' mangling (R70-124-PEOPLES_WEST_NORTH), listed in the
+      comic-name bank of the Dawi Standing Inventory
+      (R70-131-COMIC_NAMES_GET_MADE); given names stay bank-built, and an
+      English pun on a Dawi name needs an in-world bridge, a Common mouth, an
+      English-rendered byname or a Common ear mishearing
+      (R70-123-WHOSE_EAR_HEARS_JOKE).
 
   - id: R20-3-CONCORD_GIVEN_NAMES
     pack: Naming Guide Amendment
@@ -439,6 +464,9 @@ rules:
     notes: >-
       The 40 individual names are reference data (a word bank), not
       extracted row by row.
+      Stands; under R70-119-MUCH_POOL_COMIC (style law 2026-10-03) comic
+      bynames and nicknames are the norm among commons and soldiers, as high
+      as R70-122-MAY_CARRY_ONE lets them reach.
 
   - id: R20-3-MOTO_ELEMENTS_STRUCK
     pack: Naming Guide Amendment
@@ -500,7 +528,9 @@ rules:
     source:
       file: WOTR_Naming_Guide_Amendment.docx
       lines: "184"
-    notes: null
+    notes: >-
+      Stands; R70-121-GROWN_COMIC_NAMES (style law 2026-10-03) makes a name
+      bent by a foreign mouth a comic name, a real mishearing every time.
 
   - id: R20-4-ACCORD_FILING_CONVENTION
     pack: Naming Guide Amendment
@@ -559,7 +589,10 @@ rules:
     source:
       file: WOTR_Naming_Guide_Amendment.docx
       lines: "190"
-    notes: null
+    notes: >-
+      Stands; under R70-117-SOBRIQUETS_HALL_TITLES (style law 2026-10-03)
+      lesser sobriquets spread by use, most fade, and the one that sticks
+      becomes the Third Name.
 
   - id: R20-4-WHEN_NAMES_CHANGE
     pack: Naming Guide Amendment
@@ -625,7 +658,10 @@ rules:
     source:
       file: WOTR_Naming_Guide_Amendment.docx
       lines: "202"
-    notes: null
+    notes: >-
+      Stands; R70-107-SPEECH_LEVELS_ADDRESS_KOREAN (style law 2026-10-03)
+      supplies the Korean and Chinese address words and makes a shift of
+      speech level an event the room hears.
 
   - id: R20-5-THIRD_NAME_SUPERSEDING
     pack: Naming Guide Amendment
@@ -692,7 +728,10 @@ rules:
     source:
       file: WOTR_Naming_Guide_Amendment.docx
       lines: "212"
-    notes: null
+    notes: >-
+      Extended by R70-118-HONORIFICS_NARRATION (style law 2026-10-03): the
+      name the POV would use includes his own honorific when his culture has
+      them.
 
   - id: R20-CO-REMAINING_GAPS
     pack: Naming Guide Amendment

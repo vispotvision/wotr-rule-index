@@ -123,7 +123,11 @@ rules:
     source:
       file: WOTR_Companion_Guide_Amendments_Pack_Four.md
       lines: "44-48"
-    notes: null
+    notes: >-
+      Noted by R70-72-WATCHING_CROWD_POWER_REVEAL (style law 2026-10-03): at a
+      power reveal the crowd may speak in waves inside the POV's hearing.
+      R70-72 does not name this rule; its three places for significance, and
+      narration not being one, stand.
 
   - id: R4-13-THIRD_RECURRENCE
     pack: Pack Four
@@ -216,7 +220,15 @@ rules:
     source:
       file: WOTR_Companion_Guide_Amendments_Pack_Four.md
       lines: "73"
-    notes: null
+    notes: >-
+      Stands, confirmed by R70-25-FOREIGN_WORDS_PAGE (style law 2026-10-03): a
+      foreign or native word still takes no gloss in the prose; the glossary
+      at the back of each book carries the lookup. Noted by
+      R70-65-SET_IDIOMS_NARRATION and R70-71-EXPLAINING_WORKING_MID_FIGHT
+      (style law 2026-10-03): an elder tells an idiom's story once on the page
+      before the idiom is used bare, and a working's rules are planted before
+      a fight through training, a document or talk. Neither names this rule,
+      and the zero gloss budget stands.
 
   - id: R4-13-GLOSS_RIGHTS_PENDING
     pack: Pack Four
@@ -304,7 +316,15 @@ rules:
     source:
       file: WOTR_Companion_Guide_Amendments_Pack_Four.md
       lines: "102"
-    notes: null
+    notes: >-
+      Partly amended by R70-19-PAIRED_CUMULATIVE_SENTENCES (style law
+      2026-10-03): in set pieces, deliberate matched pairs and verse lines are
+      exempt from the run rule; ordinary turns keep it in full. Stands for
+      prose. Read with R70-136-NEW_CHECKS_VERIFY_SCENE (style law 2026-10-03):
+      verify leaves a marked verse block (a poem, a lament, a declaration in
+      lines, such as verse traded in talk under R70-110-VERSE_EXCHANGED_TALK)
+      out of its rhythm statistics and word count, so the checker does not
+      count those lines toward a run.
 
   - id: R4-14-CHAIN_CEILING
     pack: Pack Four
@@ -330,7 +350,13 @@ rules:
     source:
       file: WOTR_Companion_Guide_Amendments_Pack_Four.md
       lines: "104"
-    notes: null
+    notes: >-
+      Stands: R70-19-PAIRED_CUMULATIVE_SENTENCES (style law 2026-10-03)
+      licenses, in set pieces only, matched pairs against the run rule and one
+      cumulative climax sentence against the landing rule; neither licence
+      names the chain ceiling, and R70-56 says "The chain ceiling (R4-14)
+      still holds". Kept by R70-56-CATALOGUE_TELLING_DETAIL (style law
+      2026-10-03): catalogues at set occasions still obey the chain ceiling.
 
   - id: R4-14-CLAUSE_CAP_AT_BEAT
     pack: Pack Four
@@ -358,7 +384,11 @@ rules:
     source:
       file: WOTR_Companion_Guide_Amendments_Pack_Four.md
       lines: "106"
-    notes: null
+    notes: >-
+      Bent for one sentence by R70-19-PAIRED_CUMULATIVE_SENTENCES (style law
+      2026-10-03): in set pieces, once per scene, the climax itself may be one
+      long cumulative sentence chained with 'and'; the cap holds for every
+      other sentence at a beat, and ordinary turns keep it in full.
 
   - id: R4-14-LANDING_RULE
     pack: Pack Four
@@ -386,7 +416,11 @@ rules:
     source:
       file: WOTR_Companion_Guide_Amendments_Pack_Four.md
       lines: "108"
-    notes: null
+    notes: >-
+      Partly amended by R70-19-PAIRED_CUMULATIVE_SENTENCES (style law
+      2026-10-03): in set pieces, once per scene, the climax may be one long
+      cumulative sentence chained with 'and', breaking the landing rule;
+      everywhere else the hit stays shortest and last (R70-15).
 
   - id: R4-14-APPROACH_LADDER
     pack: Pack Four
@@ -445,7 +479,11 @@ rules:
     source:
       file: WOTR_Companion_Guide_Amendments_Pack_Four.md
       lines: "126-132"
-    notes: null
+    notes: >-
+      Bent for one sentence by R70-19-PAIRED_CUMULATIVE_SENTENCES (style law
+      2026-10-03): in set pieces, once per scene, the climax may be one long
+      cumulative sentence past the 10-word payoff ceiling; the other ceilings
+      hold, and ordinary turns keep all of them.
 
   - id: R4-14-CONJUNCTION_AUDIT
     pack: Pack Four
@@ -473,7 +511,12 @@ rules:
     source:
       file: WOTR_Companion_Guide_Amendments_Pack_Four.md
       lines: "136"
-    notes: null
+    notes: >-
+      Bent for one sentence by R70-19-PAIRED_CUMULATIVE_SENTENCES (style law
+      2026-10-03): in set pieces, once per scene, the climax may be one long
+      cumulative sentence chained with 'and', which this audit would fail;
+      every other beat sentence keeps the audit, and ordinary turns keep it in
+      full.
 
   - id: R4-15-REIFICATION_DEFINED
     pack: Pack Four

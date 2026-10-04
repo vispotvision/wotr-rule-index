@@ -69,7 +69,12 @@ rules:
     source:
       file: WOTR_Companion_Guide_Amendments.md
       lines: "27-28"
-    notes: null
+    notes: >-
+      Stands; under R70-100-MARTIAL_VOCABULARY_NAMES_MOVES (style law
+      2026-10-03) a Blade Grammar fight is narrated in the POV's own school's
+      words, so an Eastern-trained POV names a Liechtenauer fencer's moves in
+      his own training and the HEMA word arrives in a mouth;
+      R70-102-STILLNESS_TRACED_PASSES_LONG gives Blade duels traced passes.
 
   - id: R1-1-VERDICT_GRAMMAR
     pack: Pack One
@@ -101,7 +106,12 @@ rules:
     source:
       file: WOTR_Companion_Guide_Amendments.md
       lines: "31-32"
-    notes: null
+    notes: >-
+      Noted by R70-70-INTENT_FELT_BODY (style law 2026-10-03): killing intent
+      may be felt as aimed Pressure once its mechanism is ruled; the
+      read-rank-commit skeleton stands. Stands; under
+      R70-102-STILLNESS_TRACED_PASSES_LONG (style law 2026-10-03) a Verdict
+      duel's shape on the page is stillness, then one cut.
 
   - id: R1-1-PERCUSSION_VS_BLADE
     pack: Pack One
@@ -658,7 +668,12 @@ rules:
     source:
       file: WOTR_Companion_Guide_Amendments.md
       lines: "104-107"
-    notes: null
+    notes: >-
+      Partly amended by R70-11-WIDE_VIEW (style law 2026-10-03): roll-call
+      lines do not count against the three heads that carry interiority.
+      R70-106 also cites this row for the battle cut between hill and ditch.
+      Stands across a battle cut between the commander's hill and one man in
+      the press, as R70-106-BATTLE_TOLD says (style law 2026-10-03).
 
   - id: R1-3-WORD_FLOOR_INCLUDES_AFTERMATH
     pack: Pack One

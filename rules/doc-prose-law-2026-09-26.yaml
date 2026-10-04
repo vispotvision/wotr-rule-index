@@ -58,7 +58,9 @@ rules:
     file: ''
     lines: null
   notes: 'Question p02: No rule sets person or tense. Which should roleplay turns use? Example: ''He steps
-    into the death-house'' vs ''You step into the death-house'' vs ''He stepped into the death-house''.'
+    into the death-house'' vs ''You step into the death-house'' vs ''He stepped into the death-house''.
+    Stands: R70-12-FIRST_PERSON (style law 2026-10-03) sets person beside tense, third person for turns,
+    scenes and books and first person only in documents.'
 - id: R49-03-BAND_CAPS
   pack: Prose Law 2026-09-26
   pack_number: null
@@ -130,7 +132,8 @@ rules:
     lines: null
   notes: 'Question p05: With running interiority, how much of the POV''s thought is italic direct thought
     (''*Too far. He''ll never make the gate.*'') vs free indirect narration (''Too far. He would never
-    make the gate.'')?'
+    make the gate.'')? Unchanged by R70-25-FOREIGN_WORDS_PAGE (style law 2026-10-03): foreign words stay
+    roman, so italics keep carrying thought.'
 - id: R49-06-MEMORIES
   pack: Prose Law 2026-09-26
   pack_number: null
@@ -151,7 +154,9 @@ rules:
   source:
     file: ''
     lines: null
-  notes: 'Question p06: Deep interiority now includes memories. How should a memory enter the page?'
+  notes: 'Question p06: Deep interiority now includes memories. How should a memory enter the page? Placed
+    inside a fight by R70-103-MEMORY_INSIDE_FIGHT (style law 2026-10-03): the POV may take one full flashback
+    per fight, frozen inside one turning exchange; the POV lock holds.'
 - id: R49-07-EMOTIONS
   pack: Prose Law 2026-09-26
   pack_number: null
@@ -173,7 +178,10 @@ rules:
     file: ''
     lines: null
   notes: 'Question p07: The checker warns on named emotion (''he felt afraid'', ''a wave of relief'').
-    In deep close POV, may the narration name what the POV feels?'
+    In deep close POV, may the narration name what the POV feels? Partly amended by R70-39-CARRYING_FEELING
+    (style law 2026-10-03): in chosen scenes the feeling is never named and one held, concrete image carries
+    it; elsewhere this rule stands. Stands; R70-115-TEARS_SENTIMENT (style law 2026-10-03) adds the delayed
+    break, full and open, at a small unexpected thing, once per character per arc.'
 - id: R49-08-MEANING
   pack: Prose Law 2026-09-26
   pack_number: null
@@ -197,7 +205,9 @@ rules:
     file: ''
     lines: null
   notes: 'Question p08: Glosses are banned (a sentence that only states what the last one meant) and significance
-    never lives in narration. After a beat lands, may the POV think about what it meant?'
+    never lives in narration. After a beat lands, may the POV think about what it meant? Stands: R70-10-NARRATOR_STANCE
+    (style law 2026-10-03) lets the narrator set down a maxim only in a chapter''s opening and closing
+    lines, so neutral summaries of a beat''s meaning stay banned inside the scene.'
 - id: R49-09-CUTAWAYS
   pack: Prose Law 2026-09-26
   pack_number: null
@@ -222,7 +232,10 @@ rules:
     lines: null
   notes: 'Question p09: The world moves whether or not your character is looking, but narration is POV-locked
     and never winks at the reader. May a turn cut away to something he cannot see (a Front advancing,
-    an NPC plotting)'
+    an NPC plotting) Stands, and R70-11-WIDE_VIEW (style law 2026-10-03) adds the marked roll call in
+    battles and crowds beside the closing cut. Noted by R70-72-WATCHING_CROWD_POWER_REVEAL (style law
+    2026-10-03): a crowd''s chorus at a reveal stays inside the POV''s hearing and is not a cutaway; this
+    rule stands.'
 - id: R49-10-EPITHETS
   pack: Prose Law 2026-09-26
   pack_number: null
@@ -247,7 +260,9 @@ rules:
     lines: null
   notes: 'Question p10: Narration now names characters by POV epithets, but a live naming rule says the
     narrator ''does not switch without a reason''. How freely may epithets vary in one scene? Example:
-    ''the Dawi'', then ''the o'
+    ''the Dawi'', then ''the o Stands, extended by R70-13-EPITHETS_NARRATION (style law 2026-10-03): still
+    one epithet per character per scene, and it may be a rank or trade tag that changes when the reading
+    changes.'
 - id: R49-11-NOT_KNOWING
   pack: Prose Law 2026-09-26
   pack_number: null
@@ -351,7 +366,8 @@ rules:
     lines: null
   notes: 'Question p14: You chose steady, medium paragraphs. The guide still calls paragraph-length spread
     under 30% ''a tell'' and wants 50%+; the checker warns under 35%. Adjust? Corrected 2026-09-27 by
-    the ruling audit (RULINGS.md, ruling-audit-2026-09-27) to state exactly what Isaac chose.'
+    the ruling audit (RULINGS.md, ruling-audit-2026-09-27) to state exactly what Isaac chose. Stands,
+    confirmed by R70-20-PARAGRAPH_SHAPE (style law 2026-10-03): "R49-14''s shape check stays".'
 - id: R49-15-FRAGMENTS
   pack: Prose Law 2026-09-26
   pack_number: null
@@ -468,7 +484,8 @@ rules:
     lines: null
   notes: 'Question p19: May one metaphor run across a paragraph? Example: a Kharven hunter reading a battlefield
     as a butchered carcass, joint by joint. ''Stacked metaphors'' (several images in one sentence) are
-    on the tell li'
+    on the tell li Partly amended by R70-66-NAMED_DEVICES_ADD (style law 2026-10-03): once per set piece
+    an epic simile at a held instant may reach beyond the POV''s life; otherwise this rule stands.'
 - id: R49-20-STOCK_PHRASE
   pack: Prose Law 2026-09-26
   pack_number: null
@@ -492,7 +509,11 @@ rules:
     file: ''
     lines: null
   notes: 'Question p20: Dead metaphors (''his blood ran cold'', ''heart pounding'') are a listed tell.
-    When a rough soldier''s POV would think exactly that cliché, keep it?'
+    When a rough soldier''s POV would think exactly that cliché, keep it? Stands beside R70-35-HARD_BAN_LIST
+    (style law 2026-10-03): the stock phrases R70-35 lists, ''his blood ran cold'' among them, now FAIL
+    in narration as hard-ban items, whatever the POV. Partly amended by R70-59-WHERE_COMPARISONS_COME_FROM
+    (style law 2026-10-03): R49-20 relaxes for each culture''s listed set images, which may be used whole;
+    every other dead metaphor is still rebuilt.'
 - id: R49-21-REIFICATION
   pack: Prose Law 2026-09-26
   pack_number: null
@@ -540,7 +561,10 @@ rules:
     file: ''
     lines: null
   notes: 'Question p22: Is personified weather and landscape (''the wind clawed at the tent'', ''the river
-    swallowed him'') on the same budget, or free as lush description?'
+    swallowed him'') on the same budget, or free as lush description? Partly amended by R70-62-WEATHER_LAND_AS_PERSONS
+    (style law 2026-10-03): personification is allowed at mythic moments, in verse and documents, and
+    in close POV for cultures whose speech gives the sky a will; everyday narration stays plain under
+    this rule.'
 - id: R49-23-HIGH_STYLE
   pack: Prose Law 2026-09-26
   pack_number: null
@@ -612,7 +636,12 @@ rules:
     file: ''
     lines: null
   notes: 'Question p25: Two rules pull on openings: the Scene Standards want a layered sensory opening
-    (smell, texture, sound); the light-novel rule wants chapters to open inside the situation. Which leads?'
+    (smell, texture, sound); the light-novel rule wants chapters to open inside the situation. Which leads?
+    Partly amended by R70-15-TEMPO_STILLNESS (style law 2026-10-03): the motion opening for tense scenes
+    becomes one option among others; R70-16-OPENING_MODES adds far to near, a season word, and a reading
+    or document beside the senses and motion. Noted by R70-53-WHERE_DESCRIPTION_SITS (style law 2026-10-03):
+    longer descriptive passages pool in lulls while texture stays woven; openings themselves are addressed
+    by R70-15 and R70-16, not here.'
 - id: R49-26-ENDINGS
   pack: Prose Law 2026-09-26
   pack_number: null
@@ -637,7 +666,10 @@ rules:
     lines: null
   notes: 'Question p26: Scenes must end on physical action, turns may also stop on an NPC line or a thing
     he can now see, chapters want a hook, and you find beauty in what goes unsaid. How should written
-    scenes end?'
+    scenes end? Extended by R70-17-CLOSING_MODES (style law 2026-10-03): a scene or chapter may also stop
+    mid-crisis on a reveal or threat, close on a set-off notice or readout traced to the sheet, or break
+    off a breath before its emotional payoff. Extended by R70-64-VERSE_INSIDE_PROSE (style law 2026-10-03):
+    a scene or chapter may also close on a short poem set apart; the other endings and the bans stand.'
 - id: R49-27-SCENE_BREAKS
   pack: Prose Law 2026-09-26
   pack_number: null
@@ -683,7 +715,10 @@ rules:
     file: ''
     lines: null
   notes: 'Question p28: A first introduction gets a full physical inventory on first sight (hair, face,
-    body, clothes and wear, marks). Should it land all at once?'
+    body, clothes and wear, marks). Should it land all at once? Partly amended by R70-54-GETS_FULL_INVENTORY
+    (style law 2026-10-03): the full inventory now reaches places, rooms, creatures and significant objects,
+    and minor people get one exact stroke. R70-55-ORDER_FIRST_INVENTORY keeps the one passage but runs
+    it in the POV''s order; R70-50-BODIES_AFTER_FIRST_SIGHT adds one changed detail on each return.'
 - id: R49-29-TURN_FILL
   pack: Prose Law 2026-09-26
   pack_number: null
@@ -920,7 +955,9 @@ rules:
     file: ''
     lines: null
   notes: 'Question p38: Humour is now ''wherever it''s earned; funny characters are funny often''. The
-    funeral test still cuts any joke that needs a comedic frame. Keep it?'
+    funeral test still cuts any joke that needs a comedic frame. Keep it? Stands; when a comic-named character
+    dies badly, someone says the comic name at the death and the joke becomes the wound (R70-127-COMIC_NAME_GRIM_END,
+    style law 2026-10-03).'
 - id: R49-39-TALK_SHARE
   pack: Prose Law 2026-09-26
   pack_number: null
@@ -1042,7 +1079,8 @@ rules:
     lines: null
   notes: 'Question p43: Narration may now use technical words freely and scenes explain the world plainly,
     but older live rules still say explanation of why a working worked needs a mouth, ''because/so that''
-    belong only in a '
+    belong only in a Noted by R70-71-EXPLAINING_WORKING_MID_FIGHT (style law 2026-10-03): a working''s
+    rules are planted before the fight; narration may still explain causes in the POV''s terms.'
 - id: R49-44-MODERN_FLAGS
   pack: Prose Law 2026-09-26
   pack_number: null
@@ -1072,7 +1110,8 @@ rules:
     lines: null
   notes: 'Question p44: You now want narration timeless, with modern words in speech only. But live rules
     still say ''reads modern'' is never raised and register is never fixed in an edit pass. Who catches
-    a modern word in nar'
+    a modern word in nar Partly amended by R70-37-MODERN_IDIOM_THOUGHT (style law 2026-10-03): verify
+    drops italic thought from the modern-word check; plain narration is still checked against the list.'
 - id: R49-45-SCIENCE
   pack: Prose Law 2026-09-26
   pack_number: null
@@ -1096,7 +1135,9 @@ rules:
     file: ''
     lines: null
   notes: 'Question p45: Timeless narration and technical words ''freely'' meet at terms like ''adrenaline'',
-    ''hypovolaemic'', ''pressure differential''. Are real science terms exempt from timelessness?'
+    ''hypovolaemic'', ''pressure differential''. Are real science terms exempt from timelessness? Cited
+    by R70-35-HARD_BAN_LIST (style law 2026-10-03): visceral in its anatomical sense passes the hard-ban
+    list.'
 - id: R49-46-CHEMISTRY
   pack: Prose Law 2026-09-26
   pack_number: null
@@ -1123,7 +1164,8 @@ rules:
     lines: null
   notes: 'Question p46: The chemistry ban bars science explaining ordinary sensory description unless
     the POV practises that craft. Example banned: ''the lime gave up its heat as calcium oxide slaked
-    in the rain'' in a scene a'
+    in the rain'' in a scene a Stands, confirmed by R70-28-TRADE_SCIENCE_WORDS (style law 2026-10-03):
+    an untrained POV''s reading of the scene stays plain.'
 - id: R49-47-STAT_WORDS
   pack: Prose Law 2026-09-26
   pack_number: null
@@ -1152,7 +1194,14 @@ rules:
     lines: null
   notes: 'Question p47: Wellspring and glyph names are now free in narration, but stat names, Grade letters,
     Stages, eta, EU figures and Guild words like ''coupling'' still fail outside a mouth, italics or a
-    document. Keep tha'
+    document. Keep tha Extended by R70-2-LITRPG_WOTR_BECOMES (style law 2026-10-03): beyond free stat
+    words in narration, practitioners now see their own readouts as screens and notices; R70-78 and the
+    other LR rows set the details. Read with R70-30-NUMBERS_WORDS_DIGITS (style law 2026-10-03): a system
+    figure stated in narration (Level, EU, AU/s) is written in digits. Read with R70-31-CAPITALS_SYSTEM_TERMS
+    (style law 2026-10-03): stat words stated in narration take its capitals (Stage, Band, Grade, Level,
+    the Sub-Stat names). Partly amended by R70-83-FIGURES_PLAIN_NARRATION (style law 2026-10-03): R49-52
+    governs this row; stat names stay free, but narration states on its own authority only the figures
+    the POV holds.'
 - id: R49-48-TECH_NAMES
   pack: Prose Law 2026-09-26
   pack_number: null
@@ -1176,7 +1225,9 @@ rules:
     file: ''
     lines: null
   notes: 'Question p48: A technique''s true name is ''spoken, never narrated'', and its translation (gloss)
-    never appears in prose. With narration now naming Wellsprings freely, keep that for techniques?'
+    never appears in prose. With narration now naming Wellsprings freely, keep that for techniques? Noted
+    by R70-74-TECHNIQUE_NAME_LOOKS (style law 2026-10-03): numbered forms and long hall names join the
+    naming forms; names and translations stay free in narration.'
 - id: R49-49-FOREIGN
   pack: Prose Law 2026-09-26
   pack_number: null
@@ -1198,7 +1249,11 @@ rules:
     file: ''
     lines: null
   notes: 'Question p49: No rule covers foreign words in narration (Japonic, Kharven, Latin). Example:
-    ''She offered him the skin'' vs ''She offered him *airag*''.'
+    ''She offered him the skin'' vs ''She offered him *airag*''. Stands and covers the native sound and
+    state words R70-22-SOUND_WORDS (style law 2026-10-03) admits: never italic. Stands, confirmed by R70-25-FOREIGN_WORDS_PAGE
+    (style law 2026-10-03): foreign words stay plain and roman; each book adds a glossary at the back
+    and the wiki a terms page. Enforced by R70-36-CHECKER_ENFORCES (style law 2026-10-03): an italicised
+    loanword WARNs.'
 - id: R49-50-OWN_BODY
   pack: Prose Law 2026-09-26
   pack_number: null
@@ -1223,7 +1278,9 @@ rules:
     file: ''
     lines: null
   notes: 'Question p50: Wounds are now full clinical gore with anatomy named, but a live rule keeps the
-    POV''s own body in plain words (''Chest, hands, gut. Story first''). When the POV is the one wounded?'
+    POV''s own body in plain words (''Chest, hands, gut. Story first''). When the POV is the one wounded?
+    Stands, confirmed by R70-28-TRADE_SCIENCE_WORDS (style law 2026-10-03): an untrained POV''s own body
+    stays in plain words.'
 - id: R49-51-EXPLICIT
   pack: Prose Law 2026-09-26
   pack_number: null
@@ -1247,7 +1304,12 @@ rules:
     file: ''
     lines: null
   notes: 'Question p51: Explicit scenes use plain anatomical vocabulary and committed sound words. With
-    narration now timeless, lush and image-led, what register should explicit narration take?'
+    narration now timeless, lush and image-led, what register should explicit narration take? Partly amended
+    by R70-133-EASTERN_TECHNIQUES_BESIDE_CLINICAL (style law 2026-10-03): season and nature imagery, one
+    held detail at chosen moments, a closing exchange such as a morning poem in the aftermath, and mimetic
+    words (romanised, never italic) may sit beside its plain, crude words without replacing them. R70-134-KEYED_CULTURE_FREE
+    keys them to the POV''s culture: a Moto POV writes with image and the held detail, a Kharven POV blunt,
+    whoever the lover is.'
 - id: R49-52-MEASURES
   pack: Prose Law 2026-09-26
   pack_number: null
@@ -1271,7 +1333,14 @@ rules:
     file: ''
     lines: null
   notes: 'Question p52: Blood loss is tracked minute by minute and figures appear when measured, but a
-    Kharven POV counts time in ''a fire''s length'' and ''a broth''. How does narration measure?'
+    Kharven POV counts time in ''a fire''s length'' and ''a broth''. How does narration measure? Stands,
+    confirmed by R70-29-UNITS_MEASURE (style law 2026-10-03): units characterise, and the exact figure
+    stays with trained eyes. Read with R70-78-WHERE_SCREEN_COMES_FROM (style law 2026-10-03): the bearer''s
+    own Soul Crystal is a further source of exact figures, for his own sheet only. Read with R70-79-CAN_READ_WHOM
+    (style law 2026-10-03): a practitioner feels his own Grades and Stage but only another''s Band and
+    rough Stage, and another''s exact figures still need an instrument. Given priority by R70-83-FIGURES_PLAIN_NARRATION
+    (style law 2026-10-03): this row governs R49-47-STAT_WORDS: narration states the figures the POV holds
+    (his last reading, a card he has seen, what he was told).'
 - id: R49-53-BUDGETS
   pack: Prose Law 2026-09-26
   pack_number: null
@@ -1320,7 +1389,9 @@ rules:
     lines: null
   notes: 'Question p54: Every Kharven scene must show two of five signature items (the woodpile, the night-stone,
     ''wet wood'', the Thin Weeks, the death-house) or the checker fails it. On every 3,500-word turn,
-    that risks a t'
+    that risks a t Noted by R70-58-CHECKING_RANGE and R70-51-REPETITION_AGAINST_NOVELTY (style law 2026-10-03):
+    the signature-item count extends from Kharven to every Inventory, and each scene also adds one subject
+    the thread has not described. Two per session stands.'
 - id: R49-55-TIC_WORDS
   pack: Prose Law 2026-09-26
   pack_number: null

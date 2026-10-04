@@ -229,6 +229,9 @@ rules:
       one craft-law header; kept as one row rather than eight since the
       source treats them as one checklist, not eight separately verified
       rules.
+      Stands beside R70-111-LONG_FORMAL_SPEECH_CLIPPED (style law 2026-10-03),
+      under which court cultures argue in long formal speeches at court as
+      their normal register while Kharven, saga and soldier speech stay short.
 
   - id: R19-4-REGISTER_UNDER_STRESS
     pack: Pack Nineteen

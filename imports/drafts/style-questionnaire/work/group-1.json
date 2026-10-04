@@ -1,0 +1,1180 @@
+{
+  "sections": [
+    {
+      "key": "K",
+      "title": "Keystones",
+      "intro": "Answer these first. They set how the three strands meet, how far WOTR goes toward LitRPG, which works the law names as models, and how much of the current law is rewritten. Every later section leans on them.",
+      "questions": [
+        {
+          "id": "K1",
+          "title": "The blend model",
+          "question": "How should Western literary fantasy, the Eastern traditions and LitRPG combine in WOTR's prose?",
+          "context": "R5-A-FLESH_CHANGES has prose register, humour and narration authority 'derive from the Western tradition', and R11-1 keeps 'The Western Register' in charge, so Eastern craft (Chinese, Japanese and Korean literature and web fiction) enters only as system and content. LitRPG puts game-style levels, stats and readouts on the page. This decides whether the mix is one voice everywhere or shifts by culture or by scene.",
+          "options": [
+            {
+              "key": "A",
+              "label": "Western flesh, grafts",
+              "consequence": "R5-A and R11-1 stand, amended: Eastern techniques and LitRPG readouts become licensed tools inside Western close third. Least change to the archive; the blend shows in moments while the voice stays Western.",
+              "sample": "The registry clerk had read four hundred tokens since Ice-out and could tell a frightened mother by her mittens. This one had taken hers off. She stood at the rail with her bare hands folded, red to the knuckle, while her boy laid his new token in the cradle of the registry coil. The needle climbed. It stopped. The clerk wrote what it said in the house hand: Murmuring, Crystal Overgrown, draw under the main. Nothing in it was bad. He let the silence run a breath longer than it needed, because the woman had walked two days for it, and gave the boy his token back."
+            },
+            {
+              "key": "B",
+              "label": "Keyed to culture",
+              "consequence": "Japonic, Korean and Chinese-register POVs are narrated with their own tradition's techniques; Kharven, Accord and other Northern POVs stay Western. Readouts run everywhere. Moto and Ketsuen scenes change most; the Kharven thread barely moves.",
+              "sample": "Ice-out. Meltwater ticking in the gutter under the registry window. The boy laid his new token in the cradle of the coil and the needle rose, and stopped, and the clerk entered it in the house hand: Murmuring, the Crystal Overgrown, the draw under the main. He did not look up. The mother had taken off her mittens to wait, and her knuckles had gone red in the cold of the room. A long while the clerk let the brush rest above the paper. Then the token, returned across the table, warm from the coil."
+            },
+            {
+              "key": "C",
+              "label": "Fused, tilted by culture",
+              "consequence": "One house style draws on all three strands in every scene, and the POV's culture tilts the mix: a Moto room leans further East, an Accord counting-house further West. R5-A, R5-E and R11-1 are rewritten.",
+              "sample": "The clerk had a saying from his grandfather, that a coil tells the truth and a mother hears a verdict. Ice-out water ticked in the gutter. The boy laid his token in the cradle.\n[Registry coil, Kharven-Seat. Stage: Murmuring. Crystal: Overgrown. Draw: under the main.]\nThe clerk copied it in the house hand, brush slow, and let the room stay quiet long enough for the woman to learn that quiet meant nothing bad in this house. She had walked two days on frozen ruts for one line of ink. He gave the boy the token back, warm."
+            },
+            {
+              "key": "D",
+              "label": "Keyed by scene type",
+              "consequence": "The scene's job picks the lead strand: readings and fights lean LitRPG, quiet and courtly scenes lean Eastern, councils and travel lean Western. Each scene brief names its type and its lead.",
+              "sample": "[Registry coil, Kharven-Seat. Bearer: Kharven, not of the house. Stage: Murmuring. Crystal: Overgrown. Harmonics: under the district main. Grades: unread.]\nThe needle stopped where the slate said it would. The clerk copied the block line for line into the register, checked the seal on the coil's housing and initialled the margin. Behind the rail the boy's mother asked whether that was good.\n'It is a Stage,' the clerk said. 'Most of the Seat never reads one.'\nHe slid the token back across the table."
+            }
+          ],
+          "recommended": "C",
+          "rec_reason": "Isaac asked for the prose itself to blend, and two of the three live threads are Kharven, which culture-keying would leave Western. Fusion with a culture tilt reaches every thread and still lets a Moto room sound unlike a Hallenfeld counting-house.",
+          "multi": false,
+          "depends_on": [],
+          "rules_touched": [
+            "R5-A-FLESH_CHANGES",
+            "R5-E-MARTIN_WINS_RULING",
+            "R11-1-TONAL_SPINE_UNCHANGED",
+            "R20C-58-REGISTERS_FLAVOUR_NOT_LAW"
+          ]
+        },
+        {
+          "id": "K2",
+          "title": "How LitRPG WOTR becomes",
+          "question": "At the top level, how much of LitRPG should WOTR take on?",
+          "context": "R49-47 and R51-16 (2026-09-26) already free stat names and figures in narration, but no rule licenses a status screen (a block of stats set off from the prose) since R5-F-LIGHT_NOVEL_NOT_KEPT, which banned them, was superseded. GameLit is the light, game-flavoured end; full LitRPG shows screens and level-up notices. This sets the headline; the LR section sets the details.",
+          "options": [
+            {
+              "key": "A",
+              "label": "Keep current law",
+              "consequence": "Stat words stay free in narration (R49-47) and no blocks appear; numbers live in mouths, on instruments read aloud and in the author notes, as the archive does now.",
+              "sample": "Amos Thorne lay on the culvert flags with sewer water in his collar and waited for himself to come back. It came in the hands first. The tremor went out of them by degrees, then the sour taste of the gas left the back of his throat, and under the sternum the hollow where his reserve lived began, slowly, to fill. A quarter hour dry. Two men of his gang had gone up the ladder feet first from less. His forearm still bled into the cuff, and that would take longer than the rest."
+            },
+            {
+              "key": "B",
+              "label": "GameLit seasoning",
+              "consequence": "Narration and talk use stat names, Stages and Crystal states often, the way LitRPG characters talk, but no blocks appear and nothing new enters the world.",
+              "sample": "Amos Thorne lay on the culvert flags with sewer water in his collar and counted himself back. Reserve first: the hollow under the sternum filling slow, then all at once, like a cistern when the main comes on. Then Filtration. It had always been the one Sub-Stat anybody praised him for, and it came on again now so that the gas stopped tasting of anything. A Murmuring man does not get long below the Starvation line. He had spent most of it. His Vitality had always been the better half of him, and he lay there and let it work."
+            },
+            {
+              "key": "C",
+              "label": "In-world readouts, no System",
+              "consequence": "Readout blocks appear whenever an instrument, token or record is read: a coil, a gauge, a Measurewright's slate. Nobody sees his numbers unmeasured, and no game System speaks.",
+              "sample": "The ganger set the field coil on Thorne's chest and read the dial aloud, and the lad wrote it into the leveller's book while Thorne lay on the culvert flags with sewer water in his collar.\n[Thorne, A. After immersion. Stage: Murmuring. Crystal: Refined. Filtration: returning. Reserve: under the Starvation line, rising.]\n'Rising,' the ganger said again, as if Thorne could not read his own entry upside down. He could. He kept his eyes on the needle creeping off the stop, and his hands quit shaking a breath before it reached the next mark."
+            },
+            {
+              "key": "D",
+              "label": "Full LitRPG, screens",
+              "consequence": "Practitioners see their own readouts: a screen at a reading, a notice at a level, a breakthrough or a cost. Where the screens come from in the world is LR22's call; every figure traces to the sheet (R12-5).",
+              "sample": "Amos Thorne lay on the culvert flags with sewer water in his collar, and the readout came up behind his eyes as it did for every ranked man, without asking his leave.\n[Starvation lifted. Filtration restored. Reserve rising.]\n[Amos Thorne. Stage: Murmuring, Initiate. Crystal: Refined.]\nHe let the lines stand in the dark and did the sum anyway, out of habit. His forearm was bleeding into the cuff, and no notice had come about that, nor would one. Whatever kept the count kept only what it owned."
+            }
+          ],
+          "recommended": "D",
+          "rec_reason": "Isaac asked for WOTR written like a LitRPG, which a seasoning does not deliver. The Apprentice's Primer already calls a practitioner's numbers 'the Continuum's honest assessment', so letting the bearer see them extends canon instead of adding a joking System voice.",
+          "multi": false,
+          "depends_on": [],
+          "rules_touched": [
+            "R49-47-STAT_WORDS",
+            "R51-16-OLD_BANS_FALL",
+            "R14-4-SUBSTAT_DIAGNOSTIC_ONLY",
+            "R12-5-NEVER_INVENT_NUMBER"
+          ]
+        },
+        {
+          "id": "K3",
+          "title": "Which strand leads which layer",
+          "question": "Which strand should lead each layer of the writing?",
+          "context": "Today the Western tradition leads every layer of the prose, and Eastern craft supplies the system and some content (R5-A-FLESH_CHANGES). A layer is one job the writing does: narration, dialogue, structure, description, combat, magic, progression. All three strands still contribute everywhere; the lead sets the default when they pull apart.",
+          "options": [
+            {
+              "key": "A",
+              "label": "West voice, East eye",
+              "consequence": "Western leads narration, dialogue and combat realism; Eastern leads structure, pacing and description; LitRPG leads progression and magic readouts. Combat keeps traced exchanges and gains readable thresholds."
+            },
+            {
+              "key": "B",
+              "label": "Eastern voice leads",
+              "consequence": "Eastern leads narration, interiority and structure; Western leads combat, injury and dialogue; LitRPG leads progression. The narrator itself changes most."
+            },
+            {
+              "key": "C",
+              "label": "Game-first",
+              "consequence": "LitRPG leads progression, combat, magic and chapter structure; Western leads narration and dialogue; Eastern leads description. Reads closest to Royal Road progression fiction (the English web-serial home of LitRPG)."
+            },
+            {
+              "key": "D",
+              "label": "No leads, by ear",
+              "consequence": "Every layer draws on all three and the writer chooses per beat. Most freedom, least predictable, and the hardest to correct by rule id."
+            }
+          ],
+          "recommended": "A",
+          "rec_reason": "WOTR's strongest assets are its POV discipline and clinical combat. Eastern structure and description fill the archive's thin spots (landscape, season, ritual, wonder), and a game spine under progression is where the LitRPG pleasure lives.",
+          "multi": false,
+          "depends_on": [
+            "K1",
+            "K2"
+          ],
+          "rules_touched": [
+            "R5-A-FLESH_CHANGES",
+            "R11-1-TONAL_SPINE_UNCHANGED",
+            "R12-2-TECHNICAL_REGISTER_DEF"
+          ]
+        },
+        {
+          "id": "K4",
+          "title": "Western models",
+          "question": "Which Western works should the law name as models?",
+          "context": "R5-A-FLESH_CHANGES names Martin (POV discipline), Tolkien (cultural register, elegy) and Abercrombie (dry brutality); R5-E-MARTIN_WINS_RULING gives Martin narration authority. The archive's texture (railway hotels, Chancery Hand, bills paid) sits nearer the Victorian novel than Tolkien. Guy Gavriel Kay writes Western fantasy set in lightly altered Tang and Song China. Leave a current model unticked to drop its name.",
+          "options": [
+            {
+              "key": "A",
+              "label": "Martin and Abercrombie",
+              "consequence": "Martin's POV lock, Abercrombie's free indirect voice (narration in the character's own idiom) and gallows wit stay named. Martin's ruling on narration authority stands unless VO1 changes it."
+            },
+            {
+              "key": "B",
+              "label": "Tolkien",
+              "consequence": "Elegy, high style, routes, songs and many-named places stay named under Tolkien; his moral voice stays barred (R5-E). Unticked, the same register stays legal under R48-05 without his name."
+            },
+            {
+              "key": "C",
+              "label": "Dickens and the Victorians",
+              "consequence": "Joins the list: the city as one organism, money and institutions on the page, the serial hook. Fits the Draw Age's Victorian look (R53-28); the narrator's moral verdicts stay out."
+            },
+            {
+              "key": "D",
+              "label": "Guy Gavriel Kay",
+              "consequence": "Joins the list: Western craft carried into Chinese-history settings, an elegiac storyteller who looks ahead to what the years will do, courts run on poetry and rank. A ready bridge for the Chinese-register halls and Korean courts."
+            }
+          ],
+          "recommended": "A,C,D",
+          "rec_reason": "Martin and Abercrombie are what the archive already does well, Dickens is the Draw Age's own century, and Kay is the one Western writer who has already fused Chinese history with Western fantasy craft. Tolkien's high style and elegy are free in law (R48-05, R49-24) without his name.",
+          "multi": true,
+          "depends_on": [
+            "K1"
+          ],
+          "rules_touched": [
+            "R5-A-FLESH_CHANGES",
+            "R5-E-MARTIN_WINS_RULING",
+            "R53-28-VISUAL_REFERENCE"
+          ]
+        },
+        {
+          "id": "K5",
+          "title": "Eastern models",
+          "question": "Which Eastern works should join Naruto and Lord of the Mysteries as named models?",
+          "context": "R12-2 names Naruto (the Technical register's tactical read) and Lord of the Mysteries (the Mystic register); both stay. Wuxia is Chinese martial-hero fiction, and the chapter novel (Three Kingdoms, Water Margin) is its ancestor; the gunki monogatari are Japanese war tales; pansori is Korean sung storytelling. R23-10 currently warns the wuxia register off Chinese-stratum names.",
+          "options": [
+            {
+              "key": "A",
+              "label": "Jin Yong, chapter novels",
+              "consequence": "The Chinese-register halls gain a model: named forms traced to a lineage and a manual, sect politics run like a state's, the chapter novel's storyteller and couplet chapter titles."
+            },
+            {
+              "key": "B",
+              "label": "The Heike and war tales",
+              "consequence": "The Moto and Shirogane gain their tradition: the name-declaration before combat, armour catalogued piece by piece, impermanence felt at the fall of a house."
+            },
+            {
+              "key": "C",
+              "label": "Kawabata and Tanizaki",
+              "consequence": "Japanese restraint gains a named model: the scene that breaks off before its point, the season in one exact detail, rooms described by how they hold light and shadow."
+            },
+            {
+              "key": "D",
+              "label": "Pansori and sijo",
+              "consequence": "Ketsuen, Hon-guk and the Mahuo gain a literary voice: tempo matched to feeling, comedy inside tragedy, han (grief held for years, never released), and sijo, three-line verse that turns in its last line."
+            }
+          ],
+          "recommended": "A,B,D",
+          "rec_reason": "Each gives one Eastern-register culture its own tradition: Chinese halls, Japonic houses, Korean houses. Kawabata's methods enter through IN2, IN3 and SP4 as techniques without needing his name.",
+          "multi": true,
+          "depends_on": [
+            "K1"
+          ],
+          "rules_touched": [
+            "R5-A-FLESH_CHANGES",
+            "R12-2-TECHNICAL_REGISTER_DEF",
+            "R12-2-MYSTIC_REGISTER_DEF"
+          ]
+        },
+        {
+          "id": "K6",
+          "title": "LitRPG and progression models",
+          "question": "Which LitRPG, cultivation and progression works should join Unbound as named models?",
+          "context": "Isaac's 2026-09-12 ruling on R14-B named Unbound for how characters talk stats, and that stands. Progression fantasy is fiction driven by a character growing measurably stronger; cultivation novels climb realms of inner energy; a System novel gives its hero game messages. Each candidate puts numbers on the page a different way without losing the cost.",
+          "options": [
+            {
+              "key": "A",
+              "label": "Cradle",
+              "consequence": "Ranks everyone in a room can sense, breakthroughs written as set pieces, little need for screens. Matches how Pressure already works in WOTR."
+            },
+            {
+              "key": "B",
+              "label": "Reverend Insanity",
+              "consequence": "A Chinese cultivation novel run as a ledger: every gain bought, every resource counted, a cold calculating mind at the centre. The grimdark end of cultivation fiction, close to WOTR's cost law."
+            },
+            {
+              "key": "C",
+              "label": "Solo Leveling",
+              "consequence": "The Korean System novel: the reassessment that overturns a registered rank, quests with stated penalties, the daily drill as a contract. Its escalation and onlooker shock run into the R5-B tells."
+            },
+            {
+              "key": "D",
+              "label": "The Wandering Inn",
+              "consequence": "The level-up as a quiet verdict on who a person became that day, arriving in sleep; bracketed class and skill names inside ordinary sentences."
+            }
+          ],
+          "recommended": "A,B,D",
+          "rec_reason": "Cradle for rank felt in the body, Reverend Insanity for a climb priced in full, The Wandering Inn for the level-up as an emotional verdict; together they keep cost and character inside every gain. Solo Leveling's escalation fights grimdark.",
+          "multi": true,
+          "depends_on": [
+            "K2"
+          ],
+          "rules_touched": [
+            "R5-B-MANHWA_DIRECTIVE_REPEALED",
+            "R13-6-SCALING_VOCAB_RESTRICTED"
+          ]
+        },
+        {
+          "id": "K7",
+          "title": "How far to move",
+          "question": "How far should the new style law move from the current prose law?",
+          "context": "The 2026-09-26 laws (R48 to R53) were written while Pack Five's Western-flesh doctrine stood (R5-A, R5-E, R11-1), and Pack Five also lists manhwa (Korean comics) habits as active tells (R5-B, R5-G). The rhythm floors (R48-06, R4-14) and the bans on dashes and slop words are anti-machine hygiene, neutral between traditions (R15-1: 'about prose failing, not about period').",
+          "options": [
+            {
+              "key": "A",
+              "label": "Amend in place",
+              "consequence": "Only the doctrine rows (R5-A, R5-E, R11-1) and the rules each later answer names are rewritten; every other R48 to R53 rule stands. Smallest change; old scenes still pass."
+            },
+            {
+              "key": "B",
+              "label": "New pack, old hygiene",
+              "consequence": "A new style pack supersedes Pack Five's flesh sections and R11-1 and re-rules the R5-B and R5-G tells one by one; the anti-machine checks carry over unchanged."
+            },
+            {
+              "key": "C",
+              "label": "Rewrite from the ground",
+              "consequence": "Every prose rule from Pack Five to R53 is re-ruled against the blend, the checker included. Cleanest result; the longest re-verification, and the archive drifts out of law."
+            }
+          ],
+          "recommended": "B",
+          "rec_reason": "The doctrine is the part that blocks the blend, and the tells list mixes real faults with Eastern habits; a new pack can sort them while keeping the checks that catch machine prose.",
+          "multi": false,
+          "depends_on": [
+            "K1"
+          ],
+          "rules_touched": [
+            "R5-A-FLESH_CHANGES",
+            "R5-E-MARTIN_WINS_RULING",
+            "R11-1-TONAL_SPINE_UNCHANGED",
+            "R5-B-MANHWA_DIRECTIVE_REPEALED",
+            "R5-G-TELL_BANK_ADDITIONS"
+          ]
+        },
+        {
+          "id": "K8",
+          "title": "Which jobs the style governs",
+          "question": "Should the new style govern roleplay turns, written scenes, books and in-world documents alike?",
+          "context": "WOTR writes roleplay turns (present tense, about 3,500 words: R49-02, R48-28), written scenes, books, and in-world documents, which keep a house style per institution (R51-33). Readouts and a storyteller voice land differently at the table, where Isaac decides each beat, than in a book chapter read straight through.",
+          "options": [
+            {
+              "key": "A",
+              "label": "All four alike",
+              "consequence": "One style law; every job takes the blend in full, readouts included. Documents keep their institution's house style inside it."
+            },
+            {
+              "key": "B",
+              "label": "Table lighter",
+              "consequence": "Books and written scenes take the blend in full; roleplay turns take it lighter (readouts at measured moments, fewer storyteller lines) so Isaac's decisions stay in front."
+            },
+            {
+              "key": "C",
+              "label": "Books lighter",
+              "consequence": "Roleplay turns take the full LitRPG and Eastern blend; books keep a more literary Western spine with the blend as seasoning."
+            }
+          ],
+          "recommended": "A",
+          "rec_reason": "Roleplay becomes scenes and scenes become books; one style across all of them means nothing is rewritten on the way up, and documents already have their own house styles.",
+          "multi": false,
+          "depends_on": [
+            "K1",
+            "K2"
+          ],
+          "rules_touched": [
+            "R51-33-DOC_REGISTER"
+          ]
+        },
+        {
+          "id": "K9",
+          "title": "The Technical and Mystic registers",
+          "question": "How should the Technical and Mystic registers sit inside the blend?",
+          "context": "R12-2 defines the Technical register (Naruto: exhaustive and tactical, for what a practitioner does on purpose) and the Mystic (Lord of the Mysteries: 'stated as law, never as physics', for what the world does regardless). R48-10 lets them 'mix freely by ear'; this reopens it, ruled 2026-09-26. A LitRPG readout is a voice neither definition covers.",
+          "options": [
+            {
+              "key": "A",
+              "label": "Two, mixed by ear",
+              "consequence": "R12-2 and R48-10 stand as written; readouts and Eastern devices fall under whichever register the beat already uses.",
+              "sample": "The carver laid her palm flat on the post at Senri's Gate and listened. Cedar, still weeping sap, and under the sap the ward's outer face, its Authorization layer cracked along the grain where frost had worked in. The draw came through late. She knew the cause as well as her own pulse: water in the cut, a layer swollen out of true, the oldest fault a post has. The gate cared nothing for causes. A post nobody keeps is no post to the stones, and by the thaw they would forget the village behind it, its hearths and its dead and the road in."
+            },
+            {
+              "key": "B",
+              "label": "Strands mapped to registers",
+              "consequence": "R12-2 is rewritten: the Technical register draws on LitRPG and wuxia (numbers, named forms, the read); the Mystic on Japanese and Chinese literary craft and the gothic (law, the half-seen). R48-10's free mixing stays.",
+              "sample": "The carver laid her palm on the post at Senri's Gate and read it as her hall had taught, layer by layer: outer face sound, Authorization layer cracked along the grain, the draw from the stones arriving late by a hand-count. Frost in the cut. The second Sum-gol repair, then, the shallow one. Above her the stones stood as they had always stood. They take the village behind a kept post, the old carvers say, and they forget the rest, and nobody has ever said where the forgotten go."
+            },
+            {
+              "key": "C",
+              "label": "One fused register",
+              "consequence": "R12-2's two definitions retire; one register states law and mechanism in the same breath, as the archive already often does.",
+              "sample": "The carver laid her palm on the post at Senri's Gate. Sap under her hand, and under the sap the ward's outer face, and under that the Authorization layer with a crack in it the width of a frost-line, the grain swollen like a wet barrel stave. The stones would not answer a cracked layer. That was their law, and it was also, she had always thought, plain mechanics: a circuit with a gap in it. She set the burin to the crack, and the pressure at her temples eased a hair."
+            },
+            {
+              "key": "D",
+              "label": "Add a System register",
+              "consequence": "A third register joins for readouts and notices only: flat, honest, set in its own typography. Its sound and look are settled in the LR section.",
+              "sample": "The carver laid her palm on the post at Senri's Gate, and the reading came up behind her eyes in the plain cut letters of the Proving record:\n[Gate post, Senri's Gate. Kept by: the Sum-gol station. Outer face: sound. Authorization layer: cracked. Draw from the stones: late.]\nThe stones above her said nothing. Frost had got into the cut, and the cedar smelled wet and sweet where the layer had split along its grain. She set the burin to the crack. The pressure at her temples eased a hair."
+            }
+          ],
+          "recommended": "B",
+          "rec_reason": "It keeps the useful split Isaac ruled in Pack Twelve and gives each strand a home: game logic and named forms where people choose, half-seen Eastern law where the world acts.",
+          "multi": false,
+          "depends_on": [
+            "K1",
+            "K2"
+          ],
+          "rules_touched": [
+            "R12-2-TECHNICAL_REGISTER_DEF",
+            "R12-2-MYSTIC_REGISTER_DEF",
+            "R48-10-MIXING"
+          ]
+        }
+      ]
+    },
+    {
+      "key": "VO",
+      "title": "Narrative voice and POV",
+      "intro": "Who tells the story and from where. Current law is Martin's: close third person, one head per scene, and a narrator with no voice of its own.",
+      "questions": [
+        {
+          "id": "VO1",
+          "title": "The narrator's stance",
+          "question": "Should WOTR's narrator ever speak as a storyteller with a voice of its own?",
+          "context": "R5-E-NARRATION_NEVER_ADJUDICATES and R5-C1-NARRATION_NEVER_WINKS keep the narrator invisible; only R35-1's distant register allows an 'omniscient, epigrammatic narratorial voice'. The Chinese chapter novel's storyteller addresses listeners and foreshadows; Western prolepsis (a flash-forward inside a sentence) does the same; light-novel (Japanese serial novel) and LitRPG narrators make wry asides about the world's rules.",
+          "options": [
+            {
+              "key": "A",
+              "label": "Invisible narrator (current)",
+              "consequence": "R5-E and R5-C1 stand; every line belongs to the POV. Foreshadowing lives only in planted detail.",
+              "sample": "The courier captain took the north road out of the Seat an hour before light, with the wire case strapped under his hide-coat and the horse blowing white. Frozen ruts rang under the hooves. He had done this road nine times in the Thin Weeks and counted it easy, because the ice held and the Keld camps let a Hallenfeld seal pass. At the last standpipe he looked back once at the grey rock and the smoke over the outer town, then put his heel in."
+            },
+            {
+              "key": "B",
+              "label": "Storyteller at thresholds",
+              "consequence": "In a chapter's opening and closing lines the narrator may address the reader, foreshadow or set down a maxim; the body of the scene stays POV-locked. R5-C1 gains a threshold exception.",
+              "sample": "Of all the couriers who rode north that winter, keep your eye on this one. The captain took the north road out of the Seat an hour before light, wire case under his hide-coat, horse blowing white. Frozen ruts rang under the hooves. He had done this road nine times in the Thin Weeks and called it easy, because the ice held and the Keld let a Hallenfeld seal pass. At the last standpipe he looked back once at the grey rock and the smoke. Then he put his heel in."
+            },
+            {
+              "key": "C",
+              "label": "Storyteller throughout",
+              "consequence": "A Chinese and Korean-style storyteller runs the whole telling: addresses listeners, foreshadows, knows every head. R5-E, R5-C1 and R5-E-MARTIN_WINS_RULING are repealed for narration.",
+              "sample": "Now hear how the courier captain left the Seat. He went an hour before light with the wire case under his hide-coat, and the horse blew white as a kettle. Nine winters on this road. Easy, he called it, for the ice held and the Keld let a Hallenfeld seal through. Had he known what waited at the third camp, he would have kept that seal in his boot. He did not know. He looked back once at the grey rock and the smoke over the outer town, and put his heel in, and the Seat did not see him again for a month."
+            },
+            {
+              "key": "D",
+              "label": "Wry LitRPG narrator",
+              "consequence": "The narrator comments drily on how the world and its rules work, as light novels and LitRPG do. R5-C1 falls, and the old isekai-commentary ban gains a licence in its place.",
+              "sample": "The courier captain took the north road out of the Seat an hour before light, which in the Thin Weeks is a courier's idea of sleeping late. Wire case under the hide-coat. Horse blowing white. Nine runs on this road and nine Hallenfeld seals honoured by the Keld, a record he considered proof of competence and the Keld considered proof that he paid. Frozen ruts rang under the hooves. At the last standpipe he looked back at the grey rock, decided against sentiment, and put his heel in."
+            }
+          ],
+          "recommended": "B",
+          "rec_reason": "It buys the storyteller's pleasures (the address, the foreshadowing, the maxim) where they cost least, and keeps the POV lock inside the scene, where WOTR's grimdark lives.",
+          "multi": false,
+          "depends_on": [
+            "K1",
+            "K4"
+          ],
+          "rules_touched": [
+            "R5-E-NARRATION_NEVER_ADJUDICATES",
+            "R5-C1-NARRATION_NEVER_WINKS",
+            "R5-E-MARTIN_WINS_RULING",
+            "R49-08-MEANING"
+          ]
+        },
+        {
+          "id": "VO2",
+          "title": "The wide view",
+          "question": "May a scene leave its POV for a sweep across a battlefield, a city or a crowd?",
+          "context": "R48-40 keeps written scenes POV-locked and R49-09 allows 'a short, clearly marked cut' at a turn's close; this reopens both, ruled 2026-09-26. Shanshui painting (Chinese mountain-and-water landscape) layers far, middle and near planes; in pansori (Korean sung storytelling) the Red Cliff song gives common soldiers a lament each; Dickens and Abercrombie sweep whole cities and fields.",
+          "options": [
+            {
+              "key": "A",
+              "label": "POV lock (current)",
+              "consequence": "R48-40 and R49-09 stand: one head per scene and at most a short marked cutaway. A battle is as large as one man can see.",
+              "sample": "Bram had the wall from the north tower to the gate, and he could see about a third of it. Breath stood white in front of every face along the walk. Somebody down the line was eating windmeat, and the chewing carried. Below the parapet the snow had gone blue in the hour before the sun, and out on it, past the frozen ruts, nothing moved yet. His right flank was a guess. He knew the sergeant on it, and that would have to do."
+            },
+            {
+              "key": "B",
+              "label": "Sweep at thresholds",
+              "consequence": "A set piece may open or close on a marked far-to-near sweep with no thoughts in it, then lock to the POV. R49-09 widens to openings.",
+              "sample": "From the Seat's grey rock the plain ran south under snow gone blue before the sun, and the enemy's fires lay on it in three rows, stitched across the white. Nearer, the outer town put up its smoke from a hundred stacks. Nearer still the wall, and along the wall six hundred men breathing, a tide coming in under a pier, and on the north tower one man in a Greymane coat with his hand on the merlon. Bram could see a third of his line. He did not know what was on his right flank."
+            },
+            {
+              "key": "C",
+              "label": "Sweep with marked dips",
+              "consequence": "Battles and crowds may run a marked roll call: one line inside each of several heads, then the lock resumes. R1-3's name-three rule exempts roll-call lines, and R39-7 gains rules for them.",
+              "sample": "Along the wall six hundred men waited, and each of them carried something the Seat would never hear about. A Keld archer had a chip of night-stone sewn into his collar for a sick daughter at home. The boy beside him thought about the skin-seller's girl. An old rider counted the woodpile he had left half-split behind his house, and reckoned that his widow, if it came to that, could finish it with the short axe. On the north tower Bram Greymane could see a third of his line."
+            },
+            {
+              "key": "D",
+              "label": "Free roving omniscience",
+              "consequence": "Battle, crowd and court scenes may rove between heads freely, and the narrator may say who is right. R48-40, R5-E and R5-C1-WRITE_FROM_LEAST_KNOWING fall for those scenes.",
+              "sample": "On the wall Bram counted a third of his line and worried about the right flank. He was right to worry. Two hundred paces out, under a white cloak, the besiegers' captain was thinking that Greymane men held gates well and flanks badly, and had planned his morning around it. Behind them both, in the outer town, a woman banked her fire and lay down beside it to see whether the wall would wake her. Over all of it the sky went blue, then grey, then the thin gold of a cold sun."
+            }
+          ],
+          "recommended": "C",
+          "rec_reason": "The pansori roll call is the most grimdark of the Eastern devices: each man gets one concrete line of what he carries and stands to lose, which suits WOTR's cost and the Kharven Inventory, while the lock still governs the fight itself.",
+          "multi": false,
+          "depends_on": [
+            "K1"
+          ],
+          "rules_touched": [
+            "R48-40-NPC_THOUGHTS",
+            "R49-09-CUTAWAYS",
+            "R39-7-NO_NPC_THOUGHT_UNDER_POV_LOCK",
+            "R1-3-NAME_THREE_RULE"
+          ]
+        },
+        {
+          "id": "VO3",
+          "title": "First person",
+          "question": "Should first person ever narrate WOTR outside in-world documents?",
+          "context": "No rule sets person; third person is practice, and the converted in-world texts are 'first person throughout' (R61-9). Light novels, Korean web novels and much LitRPG are told in first person, as are Hobb's Fitz books and Wolfe's Book of the New Sun in the West. First person suits a practitioner reading his own screen, and it gives up rotating heads.",
+          "options": [
+            {
+              "key": "A",
+              "label": "Third person only",
+              "consequence": "Third person becomes law for turns, scenes and books; first person stays in documents. Rotating POVs and the lock stay easy.",
+              "sample": "The apprentice knelt on the boards of the Proving hall at Senri's Gate with her burin laid in front of her, point toward the stones. The examiner read her work back from the record in a flat voice: three posts kept since the last Proving, one cracked layer caught early, one stroke late on the second post. Sap, and lamp oil, and the press at her temples that never stopped. She kept her eyes on the burin. When he reached the late stroke her hands went still on her knees."
+            },
+            {
+              "key": "B",
+              "label": "First person in memoirs",
+              "consequence": "A thread or book may be framed as one character's written memoir, past tense and looking back, as the Alftian Codex is; everything else stays third.",
+              "sample": "I knelt on the boards of the Proving hall at Senri's Gate with my burin in front of me, point toward the stones, and I remember the sap smell better than the words. The examiner read my work back in a flat voice. Three posts kept. One cracked layer caught early. One stroke late on the second post. I was nineteen, and I thought a late stroke was the end of the world. My hands went still on my knees and stayed still, and that stillness was what passed me."
+            },
+            {
+              "key": "C",
+              "label": "First person by POV",
+              "consequence": "Any POV whose narration register calls for it may narrate in first person, past or present by the job (R49-02); never Isaac's own characters. The register file says which.",
+              "sample": "I knelt on the boards of the Proving hall with my burin in front of me, point toward the stones. Sap, lamp oil, and the press at my temples that has not let up since I came north. The examiner read my work back from the record. Three posts kept. A cracked layer caught early. A stroke late on the second post, and I heard the late stroke coming before he reached it, as you hear your own name across a crowded room. I kept my hands flat on my knees."
+            },
+            {
+              "key": "D",
+              "label": "First person with readouts",
+              "consequence": "Progression threads default to first person paired with readouts, as light novels and Korean web novels do; other threads stay third.",
+              "sample": "I knelt on the boards of the Proving hall with my burin in front of me and waited for the record to tell me what I was.\n[Proving record, Senri's Gate. Posts kept: three. Layers caught: one. Strokes late: one.]\nOne late stroke. I could live with one. The examiner read it aloud anyway, flat as a ledger, and the press at my temples climbed a notch, which it does when I am frightened and pretending to be bored."
+            }
+          ],
+          "recommended": "C",
+          "rec_reason": "It opens a door for the LitRPG and light-novel voice without making it the default, and R54-13 already requires a register before a POV, so the choice is made per character, where it belongs.",
+          "multi": false,
+          "depends_on": [
+            "K1",
+            "K2"
+          ],
+          "rules_touched": [
+            "R49-02-TENSE",
+            "R54-13-NO_POV_WITHOUT_REGISTER",
+            "R61-9-WORD_FILES_ARE_CONVERSION_BASE"
+          ]
+        },
+        {
+          "id": "VO4",
+          "title": "Epithets in narration",
+          "question": "How should narration refer to the people it is not naming?",
+          "context": "R48-44 has narration call characters 'by POV epithets', and R49-10 allows 'One epithet per character per scene'; this reopens both, ruled 2026-09-26. Chinese and Korean web fiction rotates descriptions ('the grey-robed elder'); Homer fixes one epithet for life; LitRPG sums a stranger up by rank in two words.",
+          "options": [
+            {
+              "key": "A",
+              "label": "One per scene (current)",
+              "consequence": "R48-44 and R49-10 stand: one epithet per scene, changed only when the POV's view changes.",
+              "sample": "The envoy came in out of the snow with frost in the fur of his collar and two men behind him carrying nothing. The door-warden kept his eyes on the envoy's chest, as he would have with a Moto, to be safe. Good wool, Shirogane white, a seal-cord at the belt. The envoy asked for the steward by title. The warden sent a boy. While they waited the envoy drew off one glove, finger by finger, and the warden marked the bare hand and decided he did not like it."
+            },
+            {
+              "key": "B",
+              "label": "Fixed lifelong epithets",
+              "consequence": "Major characters carry one fixed epithet into every scene and book, as Homer does; the POV's own epithets still apply to everyone else.",
+              "sample": "The white-sleeved envoy came in out of the snow with frost in the fur of his collar and two men behind him carrying nothing. The door-warden kept his eyes on the man's chest, as he would have with a Moto, to be safe. The white-sleeved envoy asked for the steward by title. A boy was sent. While they waited, the white-sleeved envoy drew off one glove, finger by finger, and the warden marked the bare hand and decided he did not like it."
+            },
+            {
+              "key": "C",
+              "label": "Rotating epithets",
+              "consequence": "R49-10 falls: narration rotates descriptive epithets inside a scene, as Chinese and Korean web fiction does, to vary the name and add a detail each time.",
+              "sample": "The envoy came in out of the snow with frost in the fur of his collar. The door-warden kept his eyes on the white-robed man's chest, as he would have with a Moto, to be safe. The Shirogane asked for the steward by title. A boy was sent. While they waited the young lord drew off one glove, finger by finger, and the warden marked how the soft-handed stranger looked at nothing in the room and at everything in it, and decided he did not like him."
+            },
+            {
+              "key": "D",
+              "label": "Rank and trade tags",
+              "consequence": "An epithet may be a rank or trade tag (the Flourishing envoy, the Measurewright) whenever the POV can read rank; still one per scene, changing when the reading changes.",
+              "sample": "The Flourishing envoy came in out of the snow with frost in the fur of his collar. The door-warden, Murmuring himself and a Guild man before the wall, had the weight of him in his sinuses before he had the white wool in his eye: three Stages over him, folded down small, and still enough leaking to put sweat on his lip. He kept his eyes on the man's chest. The Flourishing envoy asked for the steward by title. By the door the envoy's two Murmuring escorts stood carrying nothing, and the warden decided he liked them better."
+            }
+          ],
+          "recommended": "D",
+          "rec_reason": "It is LitRPG's inline taxonomy in WOTR's own words, sums a stranger up as Pressure already does, and keeps R49-10's discipline that a changed epithet is a beat.",
+          "multi": false,
+          "depends_on": [
+            "K2"
+          ],
+          "rules_touched": [
+            "R48-44-NAME_USE",
+            "R49-10-EPITHETS"
+          ]
+        }
+      ]
+    },
+    {
+      "key": "SP",
+      "title": "Structure and pacing",
+      "intro": "How scenes and arcs are shaped and timed. Today a scene opens on the senses or in motion, turns on friction, and ends on an action, an image or a line.",
+      "questions": [
+        {
+          "id": "SP1",
+          "title": "Kishōtenketsu",
+          "question": "May a scene take the kishōtenketsu shape instead of a conflict and a turn?",
+          "context": "Table Rule 1 has every turn 'move the world, stop at his next decision', and the Scene Writing Process Guide builds scenes on conflict and a turn; no indexed rule forbids another shape. Kishōtenketsu (a four-part shape from Chinese and Japanese poetics: set-up, development, twist, reconciliation) needs no conflict; its third part brings in something seemingly unrelated that recasts the rest. It suits quiet, travel and downtime scenes.",
+          "options": [
+            {
+              "key": "A",
+              "label": "Conflict and turn (current)",
+              "consequence": "Every scene keeps conflict and a turn; quiet scenes are still built on friction.",
+              "sample": "The quartermaster came to count the widow's woodpile on the first morning of the Thin Weeks, slate in hand, because the Hallenfeld ration went by the stack. Hers was short. He wrote it short. She told him her husband had cut for the Seat's wall all autumn and the wall had his wood, and he wrote that too, in the margin, where it would do nothing. 'Then it's the half ration,' he said. She looked at the stack, and at him, and went inside for the skin, because a guest in her yard was offered the skin whatever he had written."
+            },
+            {
+              "key": "B",
+              "label": "Kishōtenketsu for quiet scenes",
+              "consequence": "Quiet, travel, downtime and interlude scenes may run set-up, development, twist, reconciliation with no conflict; fights, councils and set pieces keep the turn. Scene briefs name the shape; roleplay turns still stop at Isaac's decision.",
+              "sample": "The quartermaster came to count the widow's woodpile on the first morning of the Thin Weeks. They counted it together, round by round, her breath and his standing white between them, and it came out short, and he wrote it short. A boy went past up the lane at a run, a chip of night-stone wrapped in felt and held against his chest for a sick brother. The chip was from her hearth. She had cut it for him that morning. When the boy had gone, the quartermaster took a round off the Hallenfeld cart, set it on her stack, and changed the slate."
+            }
+          ],
+          "recommended": "B",
+          "rec_reason": "The archive's quiet scenes are thin and all built on friction; kishōtenketsu gives them a shape that recognises rather than fights, while every scene with stakes keeps the Western turn.",
+          "multi": false,
+          "depends_on": [
+            "K1",
+            "K3"
+          ],
+          "rules_touched": []
+        },
+        {
+          "id": "SP2",
+          "title": "Tempo and stillness",
+          "question": "Should set pieces take an Eastern tempo: slow, then breaking, then swift, with stillness written long?",
+          "context": "R49-25 has tense scenes 'open in motion' and R48-06 puts the hit shortest and last; this reopens R49-25, ruled 2026-09-26. Jo-ha-kyū (Noh drama's tempo: slow opening, breaking, swift close) nests at every scale; ma (the meaningful pause) treats silence as an event; Kurosawa's duels hold stillness long, then cut once. R1-1-VERDICT_GRAMMAR already puts the tension 'in the read' for some fighters.",
+          "options": [
+            {
+              "key": "A",
+              "label": "Open in motion (current)",
+              "consequence": "R49-25 and R48-06 stand; tense scenes start mid-action and land on the short hit.",
+              "sample": "The rider was on his knee before the steward had finished the call, his palm flat on the cold stone of the oath-floor, and the words came out of him fast, by the sky that covers us, the old form. Torches spat. Two hundred clansmen stood along the walls in hide-coats that creaked at the elbow when they shifted. He finished. Nothing in the floor answered him, because nothing had answered anyone since the Queen died. He stood. The steward entered him, and the next man knelt."
+            },
+            {
+              "key": "B",
+              "label": "Jo-ha-kyū tempo",
+              "consequence": "Set pieces and long scenes run slow, breaking, swift at scene and paragraph scale; R49-25's motion opening becomes one option among others, and the hit still lands short and last (R48-06).",
+              "sample": "The oath-floor was old stone, darker than the walls above it, and for a long time nobody stood on it. Torches. Breath standing white along both walls. Two hundred hide-coats creaking when their wearers shifted, then quiet. The steward called the rider's line. The rider came forward quicker than the room, and knelt, and put his palm flat, and the old form came out of him in a run: by the sky that covers us. He waited for the floor. The floor had not answered anyone since the Queen. He stood."
+            },
+            {
+              "key": "C",
+              "label": "Ma, stillness written long",
+              "consequence": "Before a decisive act (a strike, an oath, a verdict) the pause is written long through ambient detail and the act takes one sentence; any scene may open still. R49-25's motion opening becomes optional.",
+              "sample": "The rider knelt, set his palm on the oath-floor and said the old form, by the sky that covers us, and then nobody moved. A torch spat. Somewhere down the wall a man's stomach turned over, loud in the quiet, and nobody laughed. The steward's brush stayed above the register. Snow ticked against the high window. In the Queen's time the floor would have taken the word by now, and the rider's hand would have felt it go down into the stone. He kept his hand there a long while. Then he stood."
+            }
+          ],
+          "recommended": "B",
+          "rec_reason": "Jo-ha-kyū gives every set piece a shape the archive lacks (it opens nearly everything at one pitch), and it holds ma inside its slow opening, while the hit still lands short and last.",
+          "multi": false,
+          "depends_on": [
+            "K1",
+            "K3"
+          ],
+          "rules_touched": [
+            "R49-25-OPENINGS"
+          ]
+        },
+        {
+          "id": "SP3",
+          "title": "Opening modes",
+          "question": "Which opening modes should join R49-25's senses and motion?",
+          "context": "R49-25: 'arrivals open on the senses; tense scenes open in motion'; this reopens it, ruled 2026-09-26. Most big scenes now climb smell, sound, sight and start alike. Chinese landscape painting reads far to near; Japanese poetry opens on a kigo (a season word fixing the time of year and its mood); xing opens on an image linked only by mood; LitRPG chapters open on a reading.",
+          "options": [
+            {
+              "key": "A",
+              "label": "Far to near",
+              "consequence": "Arrivals may open on a long view that moves in, plane by plane, to the person, as Chinese landscape painting does. Feeds the archive's thin landscape.",
+              "sample": "The Uplands stood white along the north, ridge behind ridge going blue with distance. Below them the forest of the Crow's Reach ran down to the lakes, and out of the forest came the new road, mostly bad, and on the road a cart. At the standing stones of Senri's Gate the cart stopped. The assayer from the Accord climbed down with his case held against his chest, and the ground came up into his temples and pressed there, and stayed."
+            },
+            {
+              "key": "B",
+              "label": "Season word",
+              "consequence": "An opening may fix time and mood with one culture's season word (Ward-Lighting, the Thin Weeks, Ice-out) instead of a mood statement; each Inventory's Time field becomes a season list.",
+              "sample": "Ward-Lighting week. Every post along the road had a lamp hung on it, burning in broad daylight, and the children of Senri's Gate had been told not to touch them and were touching them. The assayer from the Accord climbed down from the cart with his case held against his chest. Cedar sap. Lamp oil. Before he had his footing the ground came up into his temples and pressed there, and stayed."
+            },
+            {
+              "key": "C",
+              "label": "Image linked by mood",
+              "consequence": "A scene may open on an image tied to what follows only by mood (xing, from the Book of Songs, the oldest Chinese poetry anthology), which the scene never explains.",
+              "sample": "A crow sat on a cut stump at the roadside, working at something caught in the sap, and could not get it free. Half a mile on, the cart stopped at the standing stones of Senri's Gate, and the assayer from the Accord climbed down with his case held against his chest. Cedar and lamp oil. Mallets past the stones. Before he had his footing the ground came up into his temples and pressed there, and stayed."
+            },
+            {
+              "key": "D",
+              "label": "A reading or document",
+              "consequence": "A scene may open on a register entry, readout or document that the scene then tests (R12-4's threshold voice), as Lord of the Mysteries and LitRPG chapters do.",
+              "sample": "[Gate register, Senri's Gate. Arrival: one assayer, Accord licence, case sealed. Unproven. Station answering for him: none.]\nThe clerk wrote it while the assayer was still climbing down from the cart. Cedar sap. Somewhere past the stones a carver's mallet went on and on. The assayer held his case against his chest and read his own entry upside down across the clerk's table, and before he had finished it the ground came up into his temples and pressed there, and stayed."
+            }
+          ],
+          "recommended": "A,B,D",
+          "rec_reason": "Far-to-near and the season word fill the archive's thin landscape and seasons, and the readout opening serves the LitRPG turn; with R49-25's two that makes five openings for the scene brief to rotate, so big scenes stop starting alike.",
+          "multi": true,
+          "depends_on": [
+            "K1",
+            "K2"
+          ],
+          "rules_touched": [
+            "R49-25-OPENINGS",
+            "R5-F-LIGHT_NOVEL_KEPT"
+          ]
+        },
+        {
+          "id": "SP4",
+          "title": "Closing modes",
+          "question": "Which closes should join R49-26's action, image or line?",
+          "context": "R49-26 lets written scenes end on 'an action, a concrete image, or a line of dialogue; never a summary or a question', and R5-F-LIGHT_NOVEL_KEPT wants 'a hook at close'; this reopens R49-26, ruled 2026-09-26. Web serials stop mid-crisis; LitRPG chapters often end on a level-up notice; Kawabata breaks off before the emotional point; the Chinese chapter novel closes on the storyteller's 'hear the next chapter'.",
+          "options": [
+            {
+              "key": "A",
+              "label": "Mid-crisis cliffhanger",
+              "consequence": "Chapters, and turns at the next decision, may stop mid-crisis on a reveal or a threat, web-serial style; R49-26 gains the hook R5-F already wants.",
+              "sample": "Brida had the bleeding stopped and the third bowl counted, and she was washing her forearms in snowmelt gone pink when the man on the table opened his eyes and looked straight past her at the door. She turned. Nobody was there. The lamp spat. Behind her the man said, quite clearly, in a voice nothing like his own, 'He's on the north stair.'"
+            },
+            {
+              "key": "B",
+              "label": "A notice or readout",
+              "consequence": "A scene may close on a notice or readout set off from the prose: what the scene cost or earned, in figures traced to the sheet (R12-5).",
+              "sample": "Brida had the bleeding stopped and the third bowl counted, and she was washing her forearms in snowmelt gone pink when the man on the table let out a long breath and his colour came back under the grey. She dried her hands. Two fingers on his throat: the pulse steady, slow, a working man's pulse again.\n[Patient, the surgery at the Seat. Blood lost: Class III. Bleeding: stopped. Fever: watch by morning.]"
+            },
+            {
+              "key": "C",
+              "label": "Break off before payoff",
+              "consequence": "A scene may stop a breath before its emotional point and leave the payoff to the reader or the next scene, as Kawabata does; the next scene owes what was withheld.",
+              "sample": "Brida had the bleeding stopped and the third bowl counted, and she was washing her forearms in snowmelt gone pink when the man on the table said her name. He had never known her name. She turned with her hands still dripping. He was looking at her as a man looks at someone he has decided to tell a thing, and he drew the breath to tell it."
+            },
+            {
+              "key": "D",
+              "label": "Storyteller's next chapter",
+              "consequence": "A chapter may close on the storyteller's turn to what comes next, naming it without telling it; needs VO1's storyteller at thresholds.",
+              "sample": "Brida had the bleeding stopped and the third bowl counted, and she was washing her forearms in snowmelt gone pink when the man on the table said her name, which he had never known. She turned with her hands still dripping. What he told her then, and what it cost the Seat before the thaw, belongs to the next chapter."
+            }
+          ],
+          "recommended": "A,B,C",
+          "rec_reason": "Each serves a strand: the cliffhanger is the serial hook R5-F already keeps, the notice is LitRPG's reward rhythm, the break-off is Japanese restraint. The storyteller's close only works if VO1 admits a storyteller.",
+          "multi": true,
+          "depends_on": [
+            "K1",
+            "K2"
+          ],
+          "rules_touched": [
+            "R49-26-ENDINGS",
+            "R5-F-LIGHT_NOVEL_KEPT"
+          ]
+        },
+        {
+          "id": "SP5",
+          "title": "Arc shapes",
+          "question": "Which arc shapes from progression and cultivation fiction may a thread or book run on?",
+          "context": "No rule shapes arcs: Fronts advance between sessions (Table Rule 4), dull stretches pass in a line (R48-29), and R5-B lets escalation survive only as plot architecture. Progression fiction (stories driven by measurable growth in power) and cultivation novels run on set arcs: the tournament, the delve floor by floor, the examination, the training montage. Light novels often run episodic, one job a chapter.",
+          "options": [
+            {
+              "key": "A",
+              "label": "Tournament and examination",
+              "consequence": "Tournaments and examinations become a licensed arc: rounds, brackets, scouts' odds, a ranking at the close. The Aetherion Academy arc already runs this way; ticking it names the shape."
+            },
+            {
+              "key": "B",
+              "label": "The Well delve",
+              "consequence": "A Well may be worked as an arc, deeper ground and worse spawn at each stage, each stage closed on its cost; Well-spawn (R53-06) supply the threat."
+            },
+            {
+              "key": "C",
+              "label": "The training montage",
+              "consequence": "Weeks of drill may pass in one compressed passage that ends on a reading of what changed; R48-29's skip gains a form for growth."
+            },
+            {
+              "key": "D",
+              "label": "Episodic jobs",
+              "consequence": "A chapter or session may be one self-contained job, opened and closed in itself, inside the longer arc, as light novels and The Wandering Inn run."
+            }
+          ],
+          "recommended": "B,C,D",
+          "rec_reason": "The delve and the montage are the progression genre's two engines and both have WOTR sources (Well-spawn, the drill-list); episodic jobs suit session play and the Scene Menu. The tournament already runs at Aetherion and loses nothing unticked.",
+          "multi": true,
+          "depends_on": [
+            "K2",
+            "K3"
+          ],
+          "rules_touched": [
+            "R48-29-PACING",
+            "R5-B-MANHWA_DIRECTIVE_REPEALED"
+          ]
+        }
+      ]
+    },
+    {
+      "key": "RH",
+      "title": "Sentence and rhythm",
+      "intro": "The sentence, the paragraph and the chapter head. The rhythm floors in R48-06 and R4-14 were built to catch machine-written prose; these questions ask where Eastern and LitRPG forms may bend them.",
+      "questions": [
+        {
+          "id": "RH1",
+          "title": "Paired and cumulative sentences",
+          "question": "Where may the rhythm law bend for paired clauses and long cumulative sentences?",
+          "context": "R48-06 and R4-14 keep the hit shortest and last, allow at most two sentences over 25 words in a row, and flag flat runs (three sentences within forty percent of each other's length; verify fails four); this reopens R48-06, ruled 2026-09-26. Chinese parallel prose (pianwen) pairs clauses of matched length and grammar; McCarthy and Malory chain clauses with 'and' (polysyndeton). Both trip today's floors.",
+          "options": [
+            {
+              "key": "A",
+              "label": "Keep the rhythm law",
+              "consequence": "R48-06 and R4-14 stand in full; verify keeps failing a third long sentence in a row and four flat runs.",
+              "sample": "The riders came over the frozen ruts at a canter. Ice rang under the hooves, and the sound came up through the horses into every rider's knees. The first man fell at sixty paces. His horse kept going without him. Snow took the blood off his sleeve and went black with it, and behind him the line closed the gap he had left without anyone giving the word. Then they were at the wall."
+            },
+            {
+              "key": "B",
+              "label": "Paired clauses allowed",
+              "consequence": "Deliberate matched pairs and verse lines are exempt from the run rule, as in Chinese parallel prose; verify learns to skip a sentence split by a semicolon into a matched pair.",
+              "sample": "The riders came over the frozen ruts at a canter. Ice rang under iron; breath stood over bone. The banners went forward in the grey; the dead lay back in the white. Behind the first man who fell the line closed without a word, and his horse ran on without him. Snow took the blood from his sleeve. Hide took the frost from the wind. Then they were at the wall."
+            },
+            {
+              "key": "C",
+              "label": "One long climax sentence",
+              "consequence": "Once per scene the climax itself may be one long cumulative sentence chained with 'and', breaking R4-14's landing rule (shortest sentence last).",
+              "sample": "The riders came over the frozen ruts at a canter. Then the ice was ringing under them and the sound was coming up through the horses into their knees and the first man fell at sixty paces and his horse ran on without him and the snow took his blood and went black with it and the line closed over the gap without a word from anyone and the wall came up grey out of the grey morning and the first ladder hit the stone."
+            },
+            {
+              "key": "D",
+              "label": "Both, in set pieces",
+              "consequence": "Both licences, in set pieces only; ordinary turns keep the full rhythm law.",
+              "sample": "Ice rang under iron; breath stood over bone. The riders came over the frozen ruts at a canter and the sound came up through the horses into their knees and the first man fell at sixty paces and his horse ran on without him and the line closed the gap without a word from anyone. Snow took the blood. Hide took the frost. Then the wall."
+            }
+          ],
+          "recommended": "D",
+          "rec_reason": "Parallel prose and the long chain are the strongest Eastern and Western rhythm tools the law blocks; keeping them to set pieces leaves the anti-machine floors working everywhere else.",
+          "multi": false,
+          "depends_on": [
+            "K7"
+          ],
+          "rules_touched": [
+            "R48-06-RHYTHM_LAW",
+            "R4-14-LANDING_RULE",
+            "R4-14-CHAIN_CEILING",
+            "R4-14-RUN_RULE"
+          ]
+        },
+        {
+          "id": "RH2",
+          "title": "Paragraph shape",
+          "question": "How should paragraphs be shaped?",
+          "context": "R48-07: 'Steady paragraphs: medium paragraphs, white space used sparingly so it still means something'; this reopens it, ruled 2026-09-26. The archive averages about 40 words a paragraph. Gu Long (a wuxia novelist famous for one-line paragraphs) and Korean and Chinese web fiction run one sentence per paragraph, for speed and for phone screens; LitRPG sets each notice on its own line.",
+          "options": [
+            {
+              "key": "A",
+              "label": "Steady paragraphs (current)",
+              "consequence": "R48-07 stands: medium paragraphs, white space rationed so a one-line paragraph still lands.",
+              "sample": "The man at the gate said he had come from the Keld camps, and Yoko's ears went back before she had decided anything. Seal fat on him, yes, and smoke. Under it, coal tar and the sweet rot of a southern harbour, three weeks old at least, carried in the wool of his coat where a sea-wind had worked it in.\n'From the camps,' she said.\n'Since the first snow.'\nHer tail stayed still. She let him watch her nose work, and waited for his hands to tell her the rest."
+            },
+            {
+              "key": "B",
+              "label": "One-liners at peaks",
+              "consequence": "Medium paragraphs stay the norm; reveals, verdicts, notices and a fight's last beats may run as one-line paragraphs in a cluster. R48-07 is amended; R49-14's shape check stays.",
+              "sample": "The man at the gate said he had come from the Keld camps, and Yoko's ears went back before she had decided anything. Seal fat on him, yes, and smoke.\nUnder it, coal tar.\nThe sweet rot of a southern harbour, three weeks old, worked into the wool by a sea-wind.\n'From the camps,' she said.\n'Since the first snow.'\nShe let him watch her nose work, and waited for his hands."
+            },
+            {
+              "key": "C",
+              "label": "Web-serial lines",
+              "consequence": "R48-07 falls: action, reveals and dialogue run one sentence per paragraph, as Gu Long and the web serials do; description keeps longer blocks.",
+              "sample": "The man at the gate said he came from the Keld camps.\nYoko's ears went back.\nSeal fat on him. Smoke.\nUnder that, coal tar.\nA southern harbour, three weeks old, in the wool of his coat.\n'From the camps,' she said.\n'Since the first snow.'\nHer tail went still.\nShe let him watch her nose work.\nHe watched it.\nHis hand moved toward his belt."
+            }
+          ],
+          "recommended": "B",
+          "rec_reason": "It takes the web serial's speed where speed is the point, gives LitRPG notices their own lines, and keeps white space meaningful, which is why R48-07 exists.",
+          "multi": false,
+          "depends_on": [
+            "K2",
+            "K7"
+          ],
+          "rules_touched": [
+            "R48-07-WHITE_SPACE",
+            "R49-14-PARA_SHAPE"
+          ]
+        },
+        {
+          "id": "RH3",
+          "title": "Cadence by culture",
+          "question": "Should narration carry a cadence keyed to culture, and whose culture sets it?",
+          "context": "R15-1 left register by culture 'Available as flavour. Not law', and R20C-58 excepts only the Moto register. A blend gives cadence a job: counted, paratactic restraint for Japonic houses (parataxis: clauses laid side by side with 'and'), pansori (Korean sung storytelling) tempo for Korean houses, paired clauses for Chinese halls, Victorian periodic sentences (the main clause held to the end) for the Accord.",
+          "options": [
+            {
+              "key": "A",
+              "label": "Flavour only (current)",
+              "consequence": "R15-1 and R20C-58 stand: cadence by culture is chosen by ear; only the Moto register binds.",
+              "sample": "The courier waited at the Moto gate with the wire case under his arm while the door-servant went in. The gatehouse was cold. It smelled of lamp oil and floor wax, and somebody was sweeping the inner yard; he could hear the broom and nothing else. He had been told not to look anyone of the house in the eye, so he looked at the lintel, which had a single crane carved on it, and waited the better part of an hour before the servant came back and bowed him in."
+            },
+            {
+              "key": "B",
+              "label": "Setting's culture sets it",
+              "consequence": "The culture of the place sets narration cadence, whoever's head we are in, and each Inventory gains a cadence line. A Northern courier in a Moto house is narrated in Moto rhythm.",
+              "sample": "The courier waited at the Moto gate, wire case under his arm. Lamp oil, floor wax, cold. In the inner yard a broom, and nothing besides the broom. He looked at the lintel, as he had been told, and the lintel had one crane cut into it, and the crane was the only thing in the gatehouse made for no use. The servant did not come. Then the servant came, and bowed him in, and the hour he had waited was entered somewhere he would never see."
+            },
+            {
+              "key": "C",
+              "label": "POV's culture sets it",
+              "consequence": "The POV's culture sets cadence, and each narration register states it. A Hallenfeld man stays Hallenfeld in a Moto house, and the gap between his rhythm and the house's is the texture.",
+              "sample": "Having been told at Hallenfeld that the Moto received couriers at their own pace and charged nothing for the privilege, the courier waited at the gate with the wire case under his arm, reckoning the hour against the Company's time, while somewhere in the inner yard a broom went back and forth over stone that could not possibly need it. He looked at the lintel, as instructed. One carved crane, unpriced. The servant came back and bowed him in."
+            }
+          ],
+          "recommended": "C",
+          "rec_reason": "It keeps POV discipline (the sentence belongs to the viewpoint), makes every register carry its tradition's rhythm, and turns a mixed room into a clash of cadences, which R53-23 already asks description to show.",
+          "multi": false,
+          "depends_on": [
+            "K1"
+          ],
+          "rules_touched": [
+            "R15-1-REGISTER_BY_CULTURE",
+            "R20C-58-REGISTERS_FLAVOUR_NOT_LAW"
+          ]
+        },
+        {
+          "id": "RH4",
+          "title": "Sound words",
+          "question": "Should sound words and mimetic words carry texture outside explicit scenes?",
+          "context": "Table Rule 9 commits onomatopoeia (words that imitate a sound) in explicit scenes; elsewhere the archive uses English verbs, apart from one 'Thruum.' in the root file. Japanese and Korean are rich in mimetics: giongo imitate sounds, gitaigo render soundless states (shiin, the 'sound' of silence). Manga (Japanese comics) draws them into the picture; in English prose they can read as comic-book.",
+          "options": [
+            {
+              "key": "A",
+              "label": "English verbs (current)",
+              "consequence": "Sounds stay verbs and nouns outside explicit scenes; Table Rule 9 keeps its onomatopoeia.",
+              "sample": "The draw-hum had been in the Moto house all evening, in the lamp-glass and the iron kettles and the frames of the beds, and at the tenth bell it stopped. The lamps went brown, then out. A dog started up two streets over and quit again. In the kitchen a girl stood with a match still burning in her fingers until it reached them, and along the wall the cooling pipes began to tick, joint after joint, all the way to the gate."
+            },
+            {
+              "key": "B",
+              "label": "English sound words",
+              "consequence": "English sound words (thrum, crack, tick) may stand in narration as texture in any scene, sparingly, as the root file's 'Thruum.' did.",
+              "sample": "Thrum, in the Moto house all evening, in the lamp-glass and the iron kettles and the frames of the beds. At the tenth bell it went thrum, thrum, thr, and stopped. The lamps went brown, then out. Two streets over a dog started up, wuff, wuff, and quit. In the kitchen a girl stood with a match burning down in her fingers. Tick, went the cooling pipes along the wall. Tick. Tick."
+            },
+            {
+              "key": "C",
+              "label": "Each culture's own words",
+              "consequence": "Each culture may carry a few native sound and state words in speech and close narration, entered in its Inventory and never italic (R49-49). Moto and Korean-register houses gain most.",
+              "sample": "The draw-hum had been in the Moto house all evening, in the lamp-glass and the iron kettles, and at the tenth bell it cut. The household had a word for what came after. Shiin, the old servants called it, the sound a room makes when the main lets go of it, and they said it as flatly as weather. The lamps went brown, then out. In the kitchen a girl stood with a match still burning in her fingers until it reached them."
+            },
+            {
+              "key": "D",
+              "label": "Set-off sound lines",
+              "consequence": "Sound words may sit on lines of their own, in capitals or as dotted silence, as manga and web novels set them; verify counts them as short sentences.",
+              "sample": "The draw-hum had been in the Moto house all evening, in the lamp-glass and the iron kettles.\nTHRMMMM.\nAt the tenth bell the main let go.\n. . . . .\nThe lamps went brown, then out. In the kitchen a girl stood with a match still burning in her fingers, and in the dark the cooling pipes began to tick along the wall, one joint after another, all the way to the gate."
+            }
+          ],
+          "recommended": "C",
+          "rec_reason": "It brings the Japanese and Korean mimetic tradition in as world texture, under the same rules as Dawi and Kharven native words, and avoids the comic-book look that bare English sound words and set-off lines risk.",
+          "multi": false,
+          "depends_on": [
+            "K1"
+          ],
+          "rules_touched": [
+            "R51-31-SENSE_BANK"
+          ]
+        },
+        {
+          "id": "RH5",
+          "title": "Chapter heads",
+          "question": "Which of these may stand at the head of a chapter?",
+          "context": "No rule covers chapter titles or epigraphs (a short quotation at a chapter's head); long pieces use Roman-numeral headers such as 'I. THE CUT'. The Chinese chapter novel heads each chapter with a matched couplet naming its two events (huimu); Erikson, Hobb and Lord of the Mysteries open on an in-world document; a sijo (Korean three-line verse) can stand at the head of prose.",
+          "options": [
+            {
+              "key": "A",
+              "label": "Couplet title",
+              "consequence": "A book chapter may be headed by a matched couplet naming its two main events; the table of contents reads as a poem and a promise.",
+              "sample": "CHAPTER THREE\nBrida counts the third bowl by lamplight;\nA stranger climbs the north stair by snowlight.\nShe had the first of them on the table before the gate was barred, a Keld archer with a crossbow bolt through the meat of the thigh and his hide trousers black to the knee. She cut the leather away. The femoral had been missed by the width of a finger, and she told him so, because men bleed slower when they believe they will live."
+            },
+            {
+              "key": "B",
+              "label": "In-world epigraph",
+              "consequence": "A chapter may open on a short in-world document (case-book, register, proverb, letter) in its institution's house style (R51-33), which the chapter then tests (R12-4).",
+              "sample": "III.\n> A man who has lost the third bowl may be saved by a surgeon who does not hurry. A man who has lost the fourth belongs to the death-house. Do not hurry the third.\n> From Brida's case-book, the winter of the wall\nShe had the first of them on the table before the gate was barred, a Keld archer with a crossbow bolt through the meat of the thigh and his hide trousers black to the knee. She cut the leather away."
+            },
+            {
+              "key": "C",
+              "label": "Verse header",
+              "consequence": "A chapter may open on a short verse in a culture's own form (a Kharven riding-song, a Korean sijo), and verify checks it as verse, outside the rhythm statistics.",
+              "sample": "III. THE THIRD BOWL\nBank the fire; the cold is at the door.\nThe stack is full, the bowls are full of red.\nThe first bowl goes to the one who cannot lift it.\nBrida had the first of them on the table before the gate was barred, a Keld archer with a crossbow bolt through the meat of the thigh and his hide trousers black to the knee. She cut the leather away."
+            }
+          ],
+          "recommended": "A,B",
+          "rec_reason": "The couplet title is the Chinese chapter novel's signature and doubles as the chapter hook; the document epigraph is the Lord of the Mysteries threshold voice WOTR already owns. Verse fits better inside a scene, in a mouth.",
+          "multi": true,
+          "depends_on": [
+            "K5"
+          ],
+          "rules_touched": [
+            "R12-4-VOICE_FOUR_DOCUMENT",
+            "R51-33-DOC_REGISTER",
+            "R5-F-LIGHT_NOVEL_KEPT"
+          ]
+        }
+      ]
+    },
+    {
+      "key": "IN",
+      "title": "Interiority",
+      "intro": "What the POV thinks and feels on the page. Current law runs deep: running interiority, frequent italic thought, and emotion shown in the body first, then named in the POV's own word.",
+      "questions": [
+        {
+          "id": "IN1",
+          "title": "Modern idiom in thought",
+          "question": "May a POV's thought carry modern idiom that narration may not?",
+          "context": "R48-13 keeps modern words to speech ('narration keeps a timeless register'), and verify warns on them in italic thought too; this reopens it for thought, ruled 2026-09-26. Korean web-novel and LitRPG (game-stat fiction) heroes think in a running, joking modern idiom; Lord of the Mysteries' hero, a modern man reborn, keeps his modern asides. Gamer words (build, dump stat) are asked in the LR section.",
+          "options": [
+            {
+              "key": "A",
+              "label": "Timeless thought (current)",
+              "consequence": "R48-13 holds for thought: italic thought keeps narration's timeless register, and verify keeps warning on modern words in italics.",
+              "sample": "The journeyman sat on the cold step of the Sum-gol station with the season's drill-list on his knee and argued with himself. *Tempering, again. The master says Tempering, and the master has outlived three men who drilled their hands instead.* His hands were good. Everyone said so. *Good hands and a short wind. That is how the river took Jae-won.* He crossed out the hand-drills one by one, slowly, as if each line cost him something he would have to find again in the spring."
+            },
+            {
+              "key": "B",
+              "label": "Thought as he speaks",
+              "consequence": "Italic thought may use whatever the POV would say aloud, modern words included; plain narration stays timeless. verify drops italic thought from the modern-word check.",
+              "sample": "The journeyman sat on the cold step of the Sum-gol station with the drill-list on his knee. *Right. Tempering, again. The master's whole philosophy is don't die, which, fine, hard to argue with from a man who's buried three students.* His hands were good; everyone said so. *Good hands, no wind. Great combination. That's how the river got Jae-won. Okay.* He crossed out the hand-drills one by one and tasted every line of it in his teeth."
+            },
+            {
+              "key": "C",
+              "label": "Close narration too",
+              "consequence": "In a close register, narration fused with the POV's idiom may carry his modern words as well; medium and distant registers stay timeless. R48-13 is amended for close POVs.",
+              "sample": "The journeyman sat on the cold step of the Sum-gol station with the drill-list on his knee. Tempering, again. The master's whole philosophy came down to don't die, which, fine, was hard to argue with from a man who'd buried three students. His hands were good, everyone said so, and good hands with no wind were a great way to end up like Jae-won, face down in the river with an excellent grip on nothing. He crossed out the hand-drills one by one. Okay. Tempering it was."
+            }
+          ],
+          "recommended": "B",
+          "rec_reason": "It gives the web-novel and LitRPG inner voice to the POVs who would talk that way, while narration keeps the timeless register R48-13 protects.",
+          "multi": false,
+          "depends_on": [
+            "K2"
+          ],
+          "rules_touched": [
+            "R48-13-PERIOD_FEEL",
+            "R51-03-LIST_SLANG",
+            "R51-04-LIST_PSYCH"
+          ]
+        },
+        {
+          "id": "IN2",
+          "title": "How reasoning shows",
+          "question": "Which ways of showing a POV's reasoning should join running interiority, with each register choosing among them?",
+          "context": "R48-39 (ruled 2026-09-26) makes interiority 'deep and running'; this only adds modes beside it. Lord of the Mysteries (a Chinese web novel) has its hero plan in explicit steps and risk lists; LitRPG heroes reason from figures like a puzzle; Kawabata stops thought short of its point and lets an image carry it. The approved Moto register already leans toward the unsaid.",
+          "options": [
+            {
+              "key": "A",
+              "label": "Stepwise lists",
+              "consequence": "A reasoning POV may set thinking out as numbered steps, risk lists or tests in italic thought; R16-8-CHECK33's cap on technical terms in italics eases.",
+              "sample": "The scout said the Keld had moved their camp off the north road. Lorn laid it out while the man drank.\n*One. Moved camps mean moved herds, and there has been no moss on that road since the grass.\nTwo. So somebody moved the herds for them, or bought them.\nThree. Or he is saying what he was paid to say.\nTest: the boots.*\nGood boots. Better than a scout's pay. *Three, then, until it isn't.* He poured the man a second cup and said nothing yet."
+            },
+            {
+              "key": "B",
+              "label": "The unsaid",
+              "consequence": "Thought may stop short of its conclusion and leave an action or an image to carry it, as Kawabata does; deep interiority becomes one mode of two, chosen per register.",
+              "sample": "The scout said the Keld had moved their camp off the north road. Lorn let him drink. Outside, an axe was splitting rounds for the woodpile, and the halves knocked onto the stack, one, then the other. Lorn looked at the scout's boots for some time. They were very good boots, Stannvaard-welted, oiled that week. He poured the man a second cup, and moved the jug a little nearer to himself."
+            },
+            {
+              "key": "C",
+              "label": "Reasoning from figures",
+              "consequence": "A POV who can read rank or price may reason from readings and figures as evidence, as LitRPG heroes do; every figure still traces to a source (R12-5).",
+              "sample": "The scout said the Keld had moved their camp off the north road. Lorn did the sum while the man drank. The token at the scout's throat was a Murmuring disc, Seat-stamped, and a Murmuring scout drew a scout's pay. The boots on him were Stannvaard-welted, a season's wage at the least. *Pay, less boots, leaves a man somebody gave boots to.* He poured the scout a second cup and said nothing yet."
+            }
+          ],
+          "recommended": "A,B,C",
+          "rec_reason": "Each belongs to one strand (Lord of the Mysteries' planner, Kawabata's restraint, LitRPG's figures), and letting the POV's register choose among them and running reasoning keeps every head distinct.",
+          "multi": true,
+          "depends_on": [
+            "K2",
+            "K3"
+          ],
+          "rules_touched": [
+            "R48-39-INTERIORITY",
+            "R16-8-CHECK33"
+          ]
+        },
+        {
+          "id": "IN3",
+          "title": "Carrying feeling",
+          "question": "How should feeling be carried on the page?",
+          "context": "R49-07: 'show it in the body first; the POV may then name it in his own word'; this reopens it, ruled 2026-09-26. Japanese mono no aware (the gentle sadness of passing things) and Korean han (grief held for years without release) are carried by held images and seldom named; the Icelandic sagas show feeling only in deeds; LitRPG names states plainly.",
+          "options": [
+            {
+              "key": "A",
+              "label": "Body, then named (current)",
+              "consequence": "R49-07 stands: the body first, then the POV's own word if he has one.",
+              "sample": "The old woman sat the Waiting for her son in the unheated death-house with her hands in her lap, and by the second night her knuckles had locked and she could not open them. She did not try. Near dawn she found the word for the thing under her breastbone. Rage, she thought, and was surprised by it. At the wall, at the cold, at the boy for going up the north stair when he had been told twice. She sat with it until the light came."
+            },
+            {
+              "key": "B",
+              "label": "Held image, never named",
+              "consequence": "In chosen scenes the feeling is never named and one held, concrete image carries it, as mono no aware and han do; R49-07 gains a register-level exception, and the image obeys R5-C2.",
+              "sample": "The old woman sat the Waiting for her son in the unheated death-house with her hands in her lap, and by the second night her knuckles had locked. Frost stood on the stone under the bier. Through the door she could see his woodpile across the yard, split to the height of her shoulder and no higher, the axe still sunk in the last round where he had left it for the morning. Snow was filling the cut around the blade. She sat until the light came."
+            },
+            {
+              "key": "C",
+              "label": "Deeds only, saga-style",
+              "consequence": "Feeling appears only as deed and terse speech, as the Icelandic sagas show it; interiority falls silent at grief and shock.",
+              "sample": "The old woman sat the Waiting for her son in the death-house. On the second night her knuckles locked. She left them locked. On the third morning she went out to his woodpile, worked the axe free of the last round where he had sunk it, and split the rest of the stack herself before noon, every round, without stopping to eat. Then she gave the first bowl to the neighbour's boy, as is done. The elder asked how she did. The stack was full, she said."
+            },
+            {
+              "key": "D",
+              "label": "Named plainly",
+              "consequence": "Narration may name the state outright, before or without the body, as LitRPG does; verify's named-emotion warning is retired.",
+              "sample": "The old woman sat the Waiting for her son in the unheated death-house, and she was grieving, and she was angry, and under both she was afraid of the spring, when the ground would thaw and there would be no reason left to sit. By the second night her knuckles had locked. She knew all three feelings by name, had known them since the first hour, and the names did nothing about the cold. She sat until the light came."
+            }
+          ],
+          "recommended": "B",
+          "rec_reason": "It is the Eastern contribution the archive lacks, grief carried by a thing left unsaid, which WOTR's Gone lists and R5-C2's elegy-on-a-concrete-thing already point toward, and it enters as an extra mode inside current law.",
+          "multi": false,
+          "depends_on": [
+            "K1"
+          ],
+          "rules_touched": [
+            "R49-07-EMOTIONS",
+            "R5-C2-ELEGY_CONCRETE_THING"
+          ]
+        }
+      ]
+    }
+  ],
+  "settled": [
+    {
+      "point": "Unreliable narration: whether the POV's narration may be wrong",
+      "rule_ids": [
+        "R35-1-NARRATION_DISTANCE_BANDS",
+        "R49-08-MEANING"
+      ],
+      "why_not_asked": "Live law already allows it: close narration 'can be wrong the way the character is wrong', the POV's reflection 'may be wrong', and Table Rule 8 keeps lies uncorrected. Every blend option keeps this."
+    },
+    {
+      "point": "Psychic distance per POV",
+      "rule_ids": [
+        "R35-1-NARRATION_DISTANCE_BANDS",
+        "R41-1-DISTANCE_IS_TWO_AXES",
+        "R49-03-BAND_CAPS",
+        "R48-08-NEW_POVS"
+      ],
+      "why_not_asked": "Each POV's distance is set by its register and by the 2026-09-26 lift toward deep. The blend's wide shots are asked in VO2 and the storyteller in VO1; neither moves the per-POV bands."
+    },
+    {
+      "point": "Free indirect discourse (narration in the POV's own idiom, verdicts included)",
+      "rule_ids": [
+        "R5-E-FREE_INDIRECT_CARVEOUT",
+        "R4-13-FID_CARVEOUT"
+      ],
+      "why_not_asked": "Legal in every option, and the house's present-tense laws of the world inside past narration rest on it."
+    },
+    {
+      "point": "Tense: present for roleplay turns, past for written scenes and books",
+      "rule_ids": [
+        "R49-02-TENSE"
+      ],
+      "why_not_asked": "Isaac ruled it by job on 2026-09-26 and no tradition in the blend argues against it. A readout keeps its own form whatever the tense around it (LR3, LR4)."
+    },
+    {
+      "point": "Memory flashbacks inside a scene",
+      "rule_ids": [
+        "R49-06-MEMORIES"
+      ],
+      "why_not_asked": "Full flashbacks of a page or more are already legal. A flashback into an opponent's past mid-fight breaks the POV lock, which VO2 covers, and is a combat device, which the CB section covers."
+    },
+    {
+      "point": "Turn and set-piece length",
+      "rule_ids": [
+        "R48-28-TURN_LENGTH",
+        "R49-30-SHORT_BEATS",
+        "R48-46-WORD_FLOOR"
+      ],
+      "why_not_asked": "Isaac set these numbers himself on 2026-09-26 (about 3,500 words a turn, 5,000+ for a set piece); the blend changes how the words are spent, not how many. The book pipeline's 3,500-word chapter already sits near web-serial length."
+    },
+    {
+      "point": "The chapter as a hard unit with one objective and a hook, opening inside the situation",
+      "rule_ids": [
+        "R5-F-LIGHT_NOVEL_KEPT"
+      ],
+      "why_not_asked": "This is already a light-novel inheritance kept in law, and it suits web-serial and LitRPG chapters as it stands. SP4 widens the kinds of hook."
+    },
+    {
+      "point": "Marking a real jump in time or place",
+      "rule_ids": [
+        "R49-27-SCENE_BREAKS"
+      ],
+      "why_not_asked": "A blank line or ornament is already allowed; every tradition in the blend uses the same device."
+    },
+    {
+      "point": "How often italic thought appears, and NPC thoughts in roleplay turns",
+      "rule_ids": [
+        "R49-05-ITALICS",
+        "R48-40-NPC_THOUGHTS"
+      ],
+      "why_not_asked": "Italic thought 'appears often' and roleplay keeps one thought per NPC; both already fit light-novel and LitRPG interiority. Lock breaks in written scenes are asked in VO2."
+    },
+    {
+      "point": "High mythic style and full elegy in narration",
+      "rule_ids": [
+        "R48-05-HIGH_STYLE",
+        "R49-24-ELEGY"
+      ],
+      "why_not_asked": "Already free whenever the moment calls for it, which covers the war tales' lament and pansori's slow cadence as well as Tolkien."
+    },
+    {
+      "point": "Anaphora and the triad",
+      "rule_ids": [
+        "R49-23-HIGH_STYLE"
+      ],
+      "why_not_asked": "Repeated openings and three-part lists are legal everywhere; RH1 asks only about matched pairs and the long chain, which the run rule and landing rule still catch."
+    },
+    {
+      "point": "Unbound as the model for stat talk in a mouth",
+      "rule_ids": [
+        "R14-B"
+      ],
+      "why_not_asked": "Ruled 2026-09-12 in Isaac's words, 'like how people talk about stats in LitRPGs like Unbound'; K6 asks only which works join it."
+    },
+    {
+      "point": "The anti-machine bans: dashes, not-X-but-Y, the Ladder, the hard-ban words",
+      "rule_ids": [
+        "R48-03-SIMILES",
+        "R49-40-NOT_X_Y",
+        "R6-1-LADDER_BAN",
+        "R51-10-SLOP_WORDS",
+        "R15-1-AI_TELL_CHECKS_SURVIVE"
+      ],
+      "why_not_asked": "These catch machine-written prose and are neutral between traditions (R15-1: 'about prose failing, not about period'); every option in this group keeps them."
+    },
+    {
+      "point": "Isaac's characters are never thought, voiced or acted for",
+      "rule_ids": [
+        "R49-01-WHOSE_HEAD"
+      ],
+      "why_not_asked": "Standing law for every job; any first-person or interiority option here applies to NPCs and Natalie's POVs only, and Isaac overrules any thought in his own character's head."
+    }
+  ]
+}

@@ -6,6 +6,43 @@ direction: inside work he has asked for, make the calls; no "pending" slots.
 append a dated block, do not rewrite older ones (two sessions write this repo
 at once — `git pull` before editing, and commit only your own files).
 
+## State on 2026-10-03 (the style questionnaire: answered, law not yet written)
+
+**Isaac is changing how WOTR is written**: a fused blend of Western literary fantasy, the Eastern traditions
+(Chinese, Japanese, Korean, cultivation and web fiction) and LitRPG, with description ranging wide, many comic
+names (Borin and Snorin), and a vocabulary policy. He answered all 138 questions in chat on 2026-10-03.
+Everything is in `imports/drafts/style-questionnaire/`: `decisions.md` (readable), `questions.json` +
+`answers.json`, `work/` (eight research reports, the seven revised section files, the cross-check patch),
+`assemble.py` and `record.py`.
+
+**Keystones:** K1 fused, tilted by the POV's culture; K2 full LitRPG with screens (LR22: read in the Crystal,
+voiceless, own sheet only); K3 Eastern voice leads narration, interiority and structure, Western leads combat,
+injury and dialogue, LitRPG leads progression; K4 models Dickens, Kay, Tolkien plus his own add (Kishimoto,
+Kubo, anime, LitRPG light novels like Unbound and The Beginning After the End), Martin and Abercrombie dropped
+as named models; K5 Kawabata/Tanizaki, Jin Yong and the chapter novels, the Heike, pansori/sijo; K6 Cradle,
+Reverend Insanity, The Wandering Inn, Solo Leveling; K7 a new style pack, anti-machine hygiene kept; K8 all
+jobs alike; K9 strands mapped to the two registers. VO3 third person only. Nine answers differ from the
+recommendation (listed at the foot of decisions.md).
+
+**The law is landed (same day, Isaac's "go"):** RULINGS.md "style-law-2026-10-03" (logged through log_ruling,
+`ff1ce38`); `rules/doc-style-law-2026-10-03.yaml`, R70-1 to R70-138, id numeral = answer number, ids fixed in
+`imports/drafts/style-questionnaire/law/idmap.json`. Superseded on quotable words: R5-A-FLESH_CHANGES,
+R5-E-MARTIN_WINS_RULING, R11-1-TONAL_SPINE_UNCHANGED (R70-1, R70-7) and R14-4-SUBSTAT_DIAGNOSTIC_ONLY (R70-83);
+222 other old rows carry a dated "Partly amended by R70-x" note. NATALIE.md and the wotr-* skills rewritten to it
+(+407 words); new 2026-10-03 editions of the Master Style Directive, Scene Writing Process Guide, Dialogue Craft
+Standards, Mass Combat Craft Guide, Visual Aesthetic Guide, AI Writing Tells (all in `~/wotr-vault/true-canon/`)
+and the Combat Craft Guide (`desktop/`). verify.py gains the R70 checks (new ban families, formula and gamer-slang
+watches, italic thought, bracketed readouts, combat schools, digits, the description census, R49-40's "Not X. Y.").
+MANIFEST.md has a law-edition column and scene_recall tags pre-R70 scenes (the MCP server needs a restart to show
+it). CONFLICTS C-155 and C-156 are ruled by R70; C-157 (Primer pool figures against R38-2), C-158 (NATALIE's
+1800 to 1900 ceiling against R53-01) and C-159 (R8-26 against R50-09) are open.
+
+**Test scene (ME4 A):** `~/wotr-drafts/the-drawing-off.md`, Varrak-Thur, Kalrin's POV, passes verify. Not archived.
+Waiting on Isaac: the names of Borin's brothers (Torin, Kalrin "Snorin", R70-126) before they go on his card;
+whether the scene reads right (anything wrong becomes a dated R70 amendment); then the per-culture sample bank.
+Still owed by the law: each Standing Inventory's new fields (DS6, DT1 to DT7, VB4, VB10, NM13, RH4) are drafted
+when that culture next reaches the page; the Words banks and the canonical terms list the checker leaves as TODOs.
+
 ## State on 2026-09-28 (the alchemy conversion: rulings logged, Volume I in progress)
 
 **Isaac is rebuilding the five alchemy texts under new authors**: Kwon Mu-jin writes the Alftian Codex

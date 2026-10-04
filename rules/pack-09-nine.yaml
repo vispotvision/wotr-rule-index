@@ -230,6 +230,11 @@ rules:
       (R11-1-NORTH_STAR_RETIRED); no supersedes link is set since Eleven's
       text retires the North Star generally and never cites Pack Nine PART
       THREE by name.
+      Kept by R70-73-MANY_DISPLAY_BEATS_PER (style law 2026-10-03): the list
+      of triggers stays, with one display beat per named practitioner per
+      scene. Read with R70-91-BREAKTHROUGH_PAGE (style law 2026-10-03): a
+      Stage-ascension beat is written inside its Catalyst crisis, and the line
+      lands as the danger breaks.
 
   - id: R9-3-EYES_AS_TELL
     pack: Pack Nine
@@ -258,7 +263,13 @@ rules:
     source:
       file: WOTR_Companion_Guide_Amendments_Pack_Nine.md
       lines: "37"
-    notes: null
+    notes: >-
+      Noted by R70-69-PRESSURE_AURA (style law 2026-10-03): Pressure shows
+      first in the room, and the bodies under it follow. R70-69 does not name
+      this tell, so at a Stage threshold or a dropped suppression the
+      eyes-first tell stands beside the room's lead. Read with
+      R70-91-BREAKTHROUGH_PAGE (style law 2026-10-03): only R9-3's splash beat
+      is moved, to the crisis; the eyes-first tell is untouched.
 
   - id: R9-3-AURA_AS_FRACTURE
     pack: Pack Nine
@@ -289,7 +300,10 @@ rules:
     source:
       file: WOTR_Companion_Guide_Amendments_Pack_Nine.md
       lines: "38"
-    notes: null
+    notes: >-
+      Noted by R70-69-PRESSURE_AURA (style law 2026-10-03): Pressure leads
+      through the room, then bodies; fracture, not glow, for a display's
+      discharge stands.
 
   - id: R9-3-BODY_UNDER_LOAD
     pack: Pack Nine
@@ -319,7 +333,16 @@ rules:
     source:
       file: WOTR_Companion_Guide_Amendments_Pack_Nine.md
       lines: "39"
-    notes: null
+    notes: >-
+      Partly amended by R70-73-MANY_DISPLAY_BEATS_PER (style law 2026-10-03):
+      exactly one splash-panel beat per scene becomes one per named
+      practitioner per scene; the body under load as visible distortion
+      stands. Partly amended by R70-91-BREAKTHROUGH_PAGE (style law
+      2026-10-03), "R9-3's splash beat goes to the crisis": at a Stage
+      breakthrough the splash-panel beat sits in the Catalyst crisis rather
+      than at a display; how many such beats a scene carries is
+      R70-73-MANY_DISPLAY_BEATS_PER's call. The body under load as visible
+      distortion stands.
 
   - id: R9-3-SILHOUETTE_ENTRANCE
     pack: Pack Nine

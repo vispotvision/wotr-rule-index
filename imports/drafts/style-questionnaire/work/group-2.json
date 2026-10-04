@@ -1,0 +1,791 @@
+{
+  "sections": [
+    {
+      "key": "DS",
+      "title": "What description covers",
+      "intro": "Today's law sets how dense description runs and almost nothing about how wide it ranges, so the page keeps returning to bodies, rooms, papers and wounds. These questions decide whether range becomes law, which thin subjects it pushes, and whose eye picks them out.",
+      "questions": [
+        {
+          "id": "DS1",
+          "title": "How wide description must range",
+          "question": "Should the range of subjects a scene describes become law, and in what shape?",
+          "context": "R48-02 asks 'Lush throughout' and R51-31 sends scenes to the sense bank first; nothing sets range, and the archive leans on bodies, rooms, documents and wounds. Chinese and Japanese prose rotate landscape, season and household; the Victorian novel ranges over money, streets and institutions; LitRPG describes gear, loot and monsters.",
+          "options": [
+            {
+              "key": "A",
+              "label": "Range by ear (current)",
+              "consequence": "No range rule. Lush density (R48-02) and the sense bank first (R51-31) stand, and Natalie widens by judgement. Nothing new is checked.",
+              "sample": "The quartermaster's store smelled of seal fat and wet felt. Hob Varley stamped the snow off his boots and waited. The man behind the trestle was finishing a count and did not look up for it: broad, grey at the temples, his knuckles split by the cold and greased against it. A blubber lamp spat on the shelf over his head. Even indoors his breath stood white. \"Courier,\" he said at last. \"How's your stack?\" Hob had no stack. He had a satchel of Hallenfeld paper and two feet he could no longer feel."
+            },
+            {
+              "key": "B",
+              "label": "Lead plus two, thread-checked",
+              "consequence": "Each scene brief names one lead subject group and two supporting ones, the lead rotating scene to scene; session end flags any rotation group untouched for six scenes.",
+              "sample": "Salt bought a bench and broth at the quartermaster's store, and Hob Varley had brought Accord silver, which nobody north of the arrays would take. A carter let him have one gritty bar for two marks. Twice its price. He paid. Outside the door a boy was splitting rounds for the woodpile, setting each on the block with its checks toward him so the axe found the crack and the halves fell clean. Over the grey rock of the Seat the aurora had come up green. The quartermaster scraped the bar with a thumbnail to see it was salt all through, and let him in."
+            },
+            {
+              "key": "C",
+              "label": "Five groups every scene",
+              "consequence": "Every scene or full turn touches at least five subject groups, one of them from the rotation list. The widest page, with some risk of reading as a survey.",
+              "sample": "Snow came sideways off the rock as Hob Varley reached the outer town. Over the Seat the aurora stood in two green folds. Six hundred men were breathing in the yard, and a woman ladled broth; the first bowl went to an old rider whose hands had gone in the Thin Weeks, and she held it to his mouth herself. A boy split rounds. He stacked them pale ends outward. At the store the quartermaster took Hob's salt, scraped it with a thumbnail and gave him a bench. On a nail above it hung a child's sling of plaited horsehair."
+            },
+            {
+              "key": "D",
+              "label": "Thread count only",
+              "consequence": "Scenes stay free. Session end lists every rotation group untouched for six scenes, and the next scene brief must draw on them.",
+              "sample": "Hob Varley came in along the horse lines, where the Seat kept its riding stock under hide awnings. Steppe horses, shaggy for the winter. Frost in their manes. A grey mare stood hipshot with her eyes half shut and one ear turned to him, and dung steamed in the cold behind her. Where the wind had scoured the rock bare, moss showed black. It was the only growing thing for a day's ride, and when the clans said \"when the grass comes,\" this was what came. The store stood at the end of the lines. The seal fat reached him before he found the door."
+            }
+          ],
+          "recommended": "B",
+          "rec_reason": "It turns your ask into something a brief can carry: one subject the scene is built around, two at its edges, and a thread check so nothing goes dark for long. A floor of five per scene reads like a survey.",
+          "multi": false,
+          "depends_on": [],
+          "rules_touched": [
+            "R48-02-DENSITY",
+            "R51-31-SENSE_BANK"
+          ]
+        },
+        {
+          "id": "DS2",
+          "title": "The land and what lives on it",
+          "question": "Which of these subject groups join the rotation the range rule pulls from?",
+          "context": "Heavy groups (bodies, interiors, documents, wounds, machinery) need no push; the rotation lists the thin ones. No Inventory has a land, sky, plant or animal field, plants come up about 0.5 times per 1,000 words, and the moon never reaches the page. Chinese shanshui (mountain-and-water painting) and Japanese season poetry put this group first; Tolkien walks the road.",
+          "options": [
+            {
+              "key": "A",
+              "label": "Land, water and sky",
+              "consequence": "Terrain and ground underfoot, rivers, sea and shore, the long view, and the night sky (Shiro, the five wanderers, the Nail, the aurora) join the rotation."
+            },
+            {
+              "key": "B",
+              "label": "Seasons and weather",
+              "consequence": "Thaw, rain, heat, fog and each culture's signs of the turning year join the rotation, beyond R53-09's actual weather in every outdoor scene."
+            },
+            {
+              "key": "C",
+              "label": "Plants and animals",
+              "consequence": "Trees, crops, herbs, blossom, birds, insects, working beasts, and Well-spawn looked at as creatures join the rotation."
+            },
+            {
+              "key": "D",
+              "label": "History in layers",
+              "consequence": "Ruins, re-used stone, a road laid over an older road, and heirlooms with their makers join the rotation, beside the Gone lists (R53-31)."
+            }
+          ],
+          "recommended": "A,B,C",
+          "rec_reason": "These three are the first subjects of the Eastern half and the thinnest in the archive. History already reaches the page through the Gone lists (R53-31) and elegy, so it needs no rotation slot.",
+          "multi": true,
+          "depends_on": [],
+          "rules_touched": []
+        },
+        {
+          "id": "DS3",
+          "title": "The public world",
+          "question": "Which of these subject groups join the rotation the range rule pulls from?",
+          "context": "Interiors run heavy; architecture as style, dress after first sight, streets and crowds run thin (crowds about 0.3 per 1,000 words). R59-07 and R59-08 set the Victorian city and class-layered dress. Dickens reads a city whole; the Japanese war tale reads rank in armour lacing; cultivation novels (Chinese fiction of climbing toward immortality) make a sect's grounds display its power.",
+          "options": [
+            {
+              "key": "A",
+              "label": "Architecture as style",
+              "consequence": "Buildings are described for style and ornament as well as use and wear; the Moto 'one thing made that serves no function' finally gets looked at."
+            },
+            {
+              "key": "B",
+              "label": "Dress and adornment",
+              "consequence": "Cloth, cut, colour by rank, wear and repair, jewellery, cosmetics and worn scent join the rotation, past the first-sight inventory."
+            },
+            {
+              "key": "C",
+              "label": "Streets, markets, crowds",
+              "consequence": "Squares, alleys, hawkers, stalls and haggling, arcades and branded goods (R60-07), and the crowd as one body join the rotation."
+            },
+            {
+              "key": "D",
+              "label": "Power on show",
+              "consequence": "Processions and entrances, seating by precedence, courts and punishments (R53-11), Guild halls and academy grounds as displays of standing, and ranking boards join the rotation."
+            }
+          ],
+          "recommended": "A,B,C,D",
+          "rec_reason": "Dress and streets are where class shows without a word, and power on show is common ground for Martin's courts, the cultivation sect and the LitRPG ranking board.",
+          "multi": true,
+          "depends_on": [],
+          "rules_touched": []
+        },
+        {
+          "id": "DS4",
+          "title": "Home, table, rite and play",
+          "question": "Which of these subject groups join the rotation the range rule pulls from?",
+          "context": "No festival has reached the page, no instrument, game or toy is attested for any culture, and children and the rich are nearly absent. R59-15 licenses theatre, music hall, sport and fairs. Pansori (Korean sung storytelling), the court arts of The Tale of Genji and the great household of Dream of the Red Chamber (classic Japanese and Chinese novels) make this group a world's texture.",
+          "options": [
+            {
+              "key": "A",
+              "label": "Households, young and old",
+              "consequence": "Servants and the order of a house, the rich at home as well as the poor, the child's games and chores, and old age at the fire join the rotation."
+            },
+            {
+              "key": "B",
+              "label": "Food and taste",
+              "consequence": "Ingredients, cooking, street food, drink, hunger and rationing, and taste in the mouth join the rotation. How a meal is written is DS8."
+            },
+            {
+              "key": "C",
+              "label": "Rites and festivals",
+              "consequence": "Rites performed on the page, household observance, funerals and mourning, festivals, and folk taboos acted on join the rotation."
+            },
+            {
+              "key": "D",
+              "label": "Music, art and play",
+              "consequence": "Instruments and songs, carving and painting, theatre and storytellers, games of chance and skill, sport and toys join the rotation."
+            }
+          ],
+          "recommended": "A,B,C,D",
+          "rec_reason": "A world with no song, no game and no festival reads as all work and grief, and grimdark lands harder once the reader has seen what there was to lose.",
+          "multi": true,
+          "depends_on": [],
+          "rules_touched": []
+        },
+        {
+          "id": "DS5",
+          "title": "Culture-keyed noticing",
+          "question": "Should a culture decide what a description notices, and whose culture: the viewer's, the place's, or both?",
+          "context": "No rule keys what a POV notices to culture; R48-04 keys only metaphor, to 'the POV's own life'. Tanizaki (Japanese novelist, In Praise of Shadows) reads a room through shadow and lacquer; the Victorian novel reads one through price. The Inventories already imply each eye: Moto accuracy, Accord weight and seal, Kharven scarcity.",
+          "options": [
+            {
+              "key": "A",
+              "label": "Plain sensory eye (current)",
+              "consequence": "Rooms are described through the senses and the sense bank; only metaphor is keyed, to the POV's own life (R48-04). No culture decides what gets noticed.",
+              "sample": "The hall was cold and dim, and Tobias Kell stood where the steward had left him while his eyes caught up. Lamps burned low along the walls. Bare stone underfoot, swept. At the far end a dais held a low table and nothing else. Somewhere behind a screen a man was cutting at wood with a small knife: a scratch, a pause, a scratch. The steward came back. He bowed from the waist and said the lord would see Kell after the bread."
+            },
+            {
+              "key": "B",
+              "label": "The viewer's culture decides",
+              "consequence": "The POV notices what his culture's eye catches wherever he stands: an Accord clerk prices a Moto hall, a Kharven rider counts its fuel. Each Inventory gains a 'Notices first' line.",
+              "sample": "Tobias Kell priced the hall before his eyes had finished adjusting. There was no meter by the door. So the lamps burned oil, and dear oil by the smell, the kind an Accord house would have metered and billed by the quarter. The lacquer on the dais was a clerk's wages for a year. No board hung anywhere. There was no seal and no register in sight, and that troubled him more than the cold, because nothing said in a room with nothing written in it would ever be entered. The steward bowed and told him to wait for the bread."
+            },
+            {
+              "key": "C",
+              "label": "The place's culture decides",
+              "consequence": "A place is described through the eye of the culture that built it, whoever enters: a Moto hall reads through shadow, lacquer and silence. Each Inventory gains a 'Notices first' line.",
+              "sample": "The hall kept its light low on purpose. Lacquer on the dais was a red so dark it read black until a lamp guttered, and then a seam of garnet ran along the edge and went out. Fourteen scratches stood in the doorpost at hand height. The oldest were worn smooth by thumbs. The floor had been swept twice. In a niche sat one carved bird that served no purpose Tobias Kell could find, and the steward, bowing once from the waist with nothing moving but the cloth of his sleeves, left him a silence to fill."
+            },
+            {
+              "key": "D",
+              "label": "Place supplies, viewer judges",
+              "consequence": "The place's Inventory sets what is in the room; the POV's culture sets what he makes of it, misreadings included. Each Inventory gains a 'Notices first' line for both jobs.",
+              "sample": "Lacquer on the dais was a red so dark it read black until a lamp guttered, and Tobias Kell's first thought was what it had cost. Fourteen scratches stood in the doorpost at hand height. A tally of debts, he decided, and looked along the walls for the register that matched it. There was none. In a niche sat one carved bird doing nothing at all, which any Accord house would long since have sold. The steward bowed and left him a silence. Kell filled it by counting the lamps."
+            }
+          ],
+          "recommended": "D",
+          "rec_reason": "The place supplies the subjects and the outsider supplies the misreading, so one pass characterises both cultures, and the folk error stays uncorrected as R53-15 wants.",
+          "multi": false,
+          "depends_on": [
+            "K1"
+          ],
+          "rules_touched": [
+            "R48-04-METAPHORS",
+            "R6-8-STANDING_INVENTORY_CATEGORIES"
+          ]
+        },
+        {
+          "id": "DS6",
+          "title": "New Standing Inventory fields",
+          "question": "Which new fields should every Standing Inventory gain, so description has something to draw on across the range?",
+          "context": "R6-8 set nine categories (food, greeting, oaths, time, the dead, objects, exchange, proverbs, body); later rulings added senses, Gone, folk beliefs and literacy. Nothing supplies land, building, dress, living things, music or law, though R60-21 sets succession 'on its Inventory'. New fields are looked up from the wiki (R53-29), each culture's when it next reaches the page.",
+          "options": [
+            {
+              "key": "A",
+              "label": "Land, sky, living things",
+              "consequence": "Each Inventory gains terrain and climate, the sky by its own names, seasons and their signs, and what grows, is kept, hunted and feared; Temperature joins the senses entry."
+            },
+            {
+              "key": "B",
+              "label": "Building, dress, the street",
+              "consequence": "Each Inventory gains architecture and ornament, the house plan, dress by rank (cloth, cut, colour, adornment, worn scent), and its market and street."
+            },
+            {
+              "key": "C",
+              "label": "Music, play, festivals",
+              "consequence": "Each Inventory gains instruments and songs, games and toys, and one or two festivals written as performed: who does what, and in what order."
+            },
+            {
+              "key": "D",
+              "label": "Law, succession, roads",
+              "consequence": "Each Inventory gains law and punishment (R53-11), succession (R60-21), and roads, vehicles and inns."
+            }
+          ],
+          "recommended": "A,B,C,D",
+          "rec_reason": "Range needs supply: without these fields every culture keeps being described through what it eats, swears and owns. Drafting each culture's fields when it next appears spreads the cost.",
+          "multi": true,
+          "depends_on": [],
+          "rules_touched": [
+            "R6-8-STANDING_INVENTORY_CATEGORIES",
+            "R51-31-SENSE_BANK",
+            "R53-11-JUSTICE",
+            "R60-21-SUCCESSION_BY_CULTURE"
+          ]
+        },
+        {
+          "id": "DS7",
+          "title": "Craft and labour on the page",
+          "question": "When a craft or trade is on the page, how much of the work itself gets described?",
+          "context": "R6-5 keeps 'The rust described in full' and R12-6 gives a rite 'an order of operations', but the archive names crafts more than it shows them and never looks at finished work for its quality. O'Brian's sea novels and the Japanese master-craftsman story give work step by step; wabi-sabi (the beauty of the worn and imperfect) looks at what it made; LitRPG crafting gives recipe and grade.",
+          "options": [
+            {
+              "key": "A",
+              "label": "Named when used (current)",
+              "consequence": "Crafts appear when the plot uses them and pass in a line or two. Nothing new is required.",
+              "sample": "The carver cut the ward into the new doorpost while the courier watered his horse, and by the time the horse had drunk it was done. The groove showed nothing. Ketsuen wards never do. He wiped sap off the chisel on his thigh, tapped the post once with the mallet handle and listened, head on one side. Then he nodded. The courier paid him in dried fish and rode on before the light went."
+            },
+            {
+              "key": "B",
+              "label": "Shown as process",
+              "consequence": "Whenever a craft is on the page, at least one stretch runs as process: tool, material and steps in order, with the worker's body doing them.",
+              "sample": "The carver laid his palm flat on the cedar and left it there until the sap under the bark stopped feeling cold. Then the awl. He scored the outline shallow, along the grain. The chisel went in at the top of each stroke and came out at the bottom, three passes to a stroke, each deeper than the last, and he blew the chips clear between them. Sap rose in the cut. He let it rise. When the last groove was done he tapped the post with the mallet handle and listened to the note it gave back."
+            },
+            {
+              "key": "C",
+              "label": "Process and its beauty",
+              "consequence": "Process as in B, and the finished thing is looked at for its quality: what good work looks like in that craft, through the POV's eye.",
+              "sample": "He scored the outline with an awl and cut each stroke in three passes, blowing the chips clear. Then he stepped back. The courier understood at last why people walked a day to see the old wards at the valley gate: the grooves ran with the grain so cleanly that the glyph might have grown there. Sap welled in the deepest stroke. It hung, amber on pale timber. There was no colour in the ward and no ornament, since a Ketsuen ward shows nothing, and this one showed nothing down to the last hair of the cut."
+            },
+            {
+              "key": "D",
+              "label": "Full craft set piece",
+              "consequence": "Once per arc a craft gets a passage at set-piece length: choosing tools, judging material, each step, the risks, the finished thing and its price.",
+              "sample": "He chose the chisel by its handle, the one worn dark where his thumb went, and stropped it on his boot. Then the awl. Then a pot of lamp-black for the line, because his teacher had never let him trust the eye on green timber. The cedar had to be wet enough to take a clean groove and dry enough not to tear. He pressed a thumbnail into the post. Too warm. He sat down on his kit to wait for the sun to come off the wood, since a ward cut in a warm post wanders, and the station paid a meal and a dry bed either way."
+            }
+          ],
+          "recommended": "C",
+          "rec_reason": "It fills the gap the archive shows most clearly, the beauty of finished work, where the Japanese and Western craft traditions meet; a full set piece stays available whenever a craft is the plot.",
+          "multi": false,
+          "depends_on": [],
+          "rules_touched": [
+            "R6-5-MATERIAL_DENSITY_SURVIVES",
+            "R12-6-RITUAL_SPECIFICATION"
+          ]
+        },
+        {
+          "id": "DS8",
+          "title": "The table",
+          "question": "When a meal is on the page, what of it gets described?",
+          "context": "Food is named in the archive and rarely tasted (about 1.5 mentions per 1,000 words), and table customs appear as a line. Dream of the Red Chamber spends pages on dishes and seating; Martin lists a feast course by course; Japanese prose gives a small portion and its vessel full attention. WOTR tables already carry laws: the skin at a Kharven door, the Moto host's three days.",
+          "options": [
+            {
+              "key": "A",
+              "label": "Named, as now",
+              "consequence": "Meals and customs appear as a line: what was served and who ate first. The archive's current habit.",
+              "sample": "At the door the woman held out the skin and the courier drank, because every Hallenfeld man who rode north was warned what it meant to refuse it. Inside there was broth and windmeat and a place on the bench. He ate what he was given. The old man in the corner had the first bowl. The courier had the third, and was glad of it."
+            },
+            {
+              "key": "B",
+              "label": "Tasted in the mouth",
+              "consequence": "Every meal on the page gets taste: what the food does in the mouth, its heat, fat and sourness, how long it chews. The order of serving stays a line.",
+              "sample": "The skin came first, at the door. It was sour and faintly fizzing, and it left a film on his teeth that tasted of yeast and the inside of a seal. Then the broth, with the fat still floating, hot enough to scald the roof of his mouth; he kept drinking. The windmeat was hard as bark. It softened slowly. Salt came out of it, and game, a little at a time and more the longer he chewed."
+            },
+            {
+              "key": "C",
+              "label": "Served in its order",
+              "consequence": "The table is shown as a rite: who is served first and by whom, from what vessel, who eats last, and what goes unsaid about it. Taste stays a line.",
+              "sample": "The woman met him on the step with the skin unstoppered and did not move until he had drunk. She took it back without wiping the mouth. Inside, the bowls came off the hearth in their order: the first to her husband's father, whose hands had gone in the Thin Weeks and who was fed by the youngest girl; the second to her husband; the third to the courier. She ate last, standing, from the bottom of the pot. Nobody remarked on it."
+            },
+            {
+              "key": "D",
+              "label": "Order and taste both",
+              "consequence": "The order of serving and the taste in the mouth are both on the page whenever a meal is.",
+              "sample": "The woman held the skin out on the step until he drank. Sour, fizzing. It coated his teeth with yeast. Inside, the bowls came off the hearth in their order, and the first went to her husband's father, whose hands had gone in the Thin Weeks, so the youngest girl fed him. The second went to her husband. The third came to the courier: broth with the fat still floating, salt and marrow under the scorch, hot enough to scald. She ate last, standing, from the bottom of the pot."
+            }
+          ],
+          "recommended": "D",
+          "rec_reason": "The order of serving is the cheapest way to show who matters in a house, and taste is the sense the archive uses least; WOTR's tables already have the customs to fill both.",
+          "multi": false,
+          "depends_on": [],
+          "rules_touched": []
+        },
+        {
+          "id": "DS9",
+          "title": "Landscape and sky",
+          "question": "How much of the land and the sky does an outdoor scene describe?",
+          "context": "R53-09 shows 'the actual weather' in every outdoor scene and R49-22 keeps the world 'described, not personified'; past that, the archive sees land through windows and the sky almost never. Chinese shanshui builds a view in far, middle and near planes with the person small; Tolkien gives the road its miles; canon names Shiro, the five wanderers and the Nail.",
+          "options": [
+            {
+              "key": "A",
+              "label": "Weather and near ground (current)",
+              "consequence": "The actual weather (R53-09) and the ground near the POV; wider land and sky only when the plot needs them.",
+              "sample": "The snow had stopped by the time they topped the ridge, and the cold came down hard behind it. The scout reined in. Below, the Seat's walls showed darker grey on the grey rock, with lamps in the gatehouse and smoke standing over the outer town. The courier's horse blew and stamped. He had lost the feeling in his face an hour back. \"Keep to the ruts,\" the scout said. \"They're frozen hard enough to ring.\""
+            },
+            {
+              "key": "B",
+              "label": "One wide view outdoors",
+              "consequence": "Every outdoor scene gets one wide view built far, middle and near, with the people small in it, and the sky in it after dark.",
+              "sample": "From the ridge the whole north lay open. Far out, the plain ran white and level to a line of low black hills, and over them the aurora hung in two green folds. Nearer, the rock rose grey. The Seat sat on it, its old courses darker than the new stone above. Nearer still, the outer town's stacks put their smoke straight up into the still air. On the ridge two horses stood blowing. The courier, very small against all of it, could not feel his face."
+            },
+            {
+              "key": "C",
+              "label": "Land as route",
+              "consequence": "Ground that is travelled is described as route: distance, slope, footing, what the road is made of, and the time it takes at a walk (R53-08 rates).",
+              "sample": "The last nine miles had taken the light. A mile back the road had come off the moss plain onto bare rock, and the ruts there were frozen hard enough to ring under the hooves, so the scout kept to the crown, where the ice lay thinnest. From the ridge it ran downhill all the way. A long slope of wind-scoured stone. The Seat at its foot. Two hours at a walk, the scout said, if the grey held."
+            },
+            {
+              "key": "D",
+              "label": "The sky every night",
+              "consequence": "Every night scene names the sky: the moon's phase (Shiro, the Lamp), which wanderers are up, the Nail, the aurora, and what people read in them.",
+              "sample": "The Lamp stood a hand above the black hills, a night past full, and behind the Seat the aurora moved in two green folds without a sound. The Nail held still overhead. Low in the south the Red Ox burned dull. The scout pointed it out with his whip: it was going backwards this season, he said, and nobody sane started anything under it. Under all that light the Seat was a grey rock with a few lamps on it. The courier's breath stood white."
+            }
+          ],
+          "recommended": "B",
+          "rec_reason": "One wide view per outdoor scene is the clearest Eastern gain on the page and fills the thinnest gap; the sky comes into it after dark, and the route stays available whenever the road matters.",
+          "multi": false,
+          "depends_on": [],
+          "rules_touched": [
+            "R53-09-WEATHER"
+          ]
+        },
+        {
+          "id": "DS10",
+          "title": "Bodies after first sight",
+          "question": "Once a person has had their first-sight inventory, how is their body described when they come back?",
+          "context": "R49-28 gives everyone 'the full physical inventory all at first sight'; after that the archive's bodies are mostly hands. Abercrombie and Mantel keep a body changing under wear; cultivation novels dwell on a body's beauty; Holmes reads a life off a frame; LitRPG tracks the body as numbers, which the LitRPG section asks. The Ledger carries injury between scenes.",
+          "options": [
+            {
+              "key": "A",
+              "label": "When the plot needs (current)",
+              "consequence": "After the first-sight inventory, a body comes back on the page only when the action uses it: a hand, a limp, a wound.",
+              "sample": "The horse-master was at the lines again before light, forking hay with his back to the wind. He nodded when the courier came out. \"Your grey's lame,\" he said. \"Near fore. Stone bruise, likely.\" He bent, took the hoof between his knees, and showed the courier the sole, where a dark bloom of blood sat under the horn. \"Three days off it,\" he said. \"Four if you want her to carry you home.\""
+            },
+            {
+              "key": "B",
+              "label": "One changed detail each time",
+              "consequence": "Every return of a person carries one detail of what the body has changed since: a new wound, weight, fatigue, cold damage, a missed shave. The Ledger's costs show.",
+              "sample": "The horse-master was at the lines again before light. Something had gone in his back since yesterday; he forked the hay from the hip in short strokes, and straightened in two stages with a hand on the post. Frost had got into the cracks of his knuckles in the night. They had bled and dried black. He had not shaved. \"Your grey's lame,\" he said. \"Near fore.\" When he bent to take the hoof he did it slowly, and breathed out hard through his nose before he looked."
+            },
+            {
+              "key": "C",
+              "label": "Beauty dwelt on",
+              "consequence": "Any POV may dwell on a returning body as something to look at, man or woman, young or old, at length, in the terms of his own life.",
+              "sample": "In the blue hour before light the horse-master's face had the colour and grain of old harness, every crease laid down by weather and kept supple with grease. He worked bare-forearmed in the cold. Each time he lifted the fork the long muscle along the bone ran clean under the skin, rope through a greased block. The courier had come out to see to his grey and stood watching longer than he meant to. \"Your grey's lame,\" the horse-master said, without turning. \"Near fore.\""
+            },
+            {
+              "key": "D",
+              "label": "The body as record",
+              "consequence": "A returning person's body is read like a document: trade, age, old injuries and habits read off the frame by any POV with the eye for it.",
+              "sample": "By daylight the courier could read the horse-master's life off him. A rider once. The knees were bowed and the inside of each calf worn hairless by the saddle, and thirty winters of forking hay had built the right shoulder higher than the left. Two fingers on the bridle hand had set crooked after some old kick. The frost-scars on both cheeks were waxy white and old, the kind one bad night leaves. \"Your grey's lame,\" he said. \"Near fore.\""
+            }
+          ],
+          "recommended": "B",
+          "rec_reason": "It keeps every body under the Ledger's cost, one changed detail at a time, which is grimdark's strength; beauty and the read-a-life eye stay open to any POV whose life gives him them.",
+          "multi": false,
+          "depends_on": [],
+          "rules_touched": [
+            "R49-28-INTROS"
+          ]
+        },
+        {
+          "id": "DS11",
+          "title": "Repetition against novelty",
+          "question": "How should description balance a culture's recurring signature items against new subjects?",
+          "context": "R6-9 reads 'Identity is repetition. Novelty is its enemy.', R51-31 sends scenes to the sense bank first, and R53-19 asks two signature items per culture per session. The archive shows the cost: repeated key-rings, stained fingers and closing lines. Homeric and pansori refrains make repetition carry identity; web serials and your 'wide variety of things' pull toward the new.",
+          "options": [
+            {
+              "key": "A",
+              "label": "Recurrence first (current)",
+              "consequence": "Scenes draw on the Inventory and sense bank first, with two signature items per culture per session (R53-19); invention is logged and secondary.",
+              "sample": "The household sat down once the woodpile had been counted and the count called through the door. Somebody asked the courier how his stack was. He had none. They laughed. The night-stone sat warm at the edge of the hearth where the fire had been. The old man said the boy who had gone down the Hallenfeld road was wet wood, and the woman told him to hush. Outside, the Thin Weeks were coming. Everybody said so, and nobody said it twice."
+            },
+            {
+              "key": "B",
+              "label": "Recur, and add one",
+              "consequence": "R53-19's two signature items stay; R6-9's 'Novelty is its enemy' is rewritten so every scene also adds one subject the thread has not described, logged as canon (R53-21).",
+              "sample": "The household sat down once the woodpile had been counted and the count called through the door. The night-stone sat warm at the hearth's edge. The two youngest had a game the courier had never seen: five knucklebones from a seal's flipper, tossed and caught on the back of the hand, the loser fetching snow for the pot. The girl won three times running. She made her brother fetch it bare-handed. The old man called him wet wood, and he went anyway."
+            },
+            {
+              "key": "C",
+              "label": "Novelty first",
+              "consequence": "The Inventory becomes a floor: Natalie invents texture freely and logs it, the quota drops to one signature item, and R6-9 is struck.",
+              "sample": "The household sat down to a supper the courier had not met before: seal liver sliced thin and eaten frozen, a pinch of salt on each piece. A bone flute lay on the shelf. Three holes. When the old man had eaten he played a tune on it with no ending, round and round, while the girls plaited horsehair into rope for the spring. The dogs had been let in for the night. They lay against the door in a heap, steaming, and nobody counted anything."
+            },
+            {
+              "key": "D",
+              "label": "Recur, changed each time",
+              "consequence": "Signature items keep coming back, and each return shows how they have changed since the last: the woodpile lower, the stone cooler, the insult quieter.",
+              "sample": "The woodpile was counted again and the count called through the door. Lower than last night, by more than a night's burning. The night-stone at the hearth's edge was cooler under the woman's palm than it had been yesterday, because they were banking the fire earlier now. The old man called the absent boy wet wood again. More quietly. Nobody mentioned the Thin Weeks. That was new, and the courier had stayed long enough to mark it."
+            }
+          ],
+          "recommended": "B",
+          "rec_reason": "Signature items keep a culture recognisable and the quota stays; each scene also adds one thing nobody has described yet, logged under R53-21, so the world widens as it repeats.",
+          "multi": false,
+          "depends_on": [],
+          "rules_touched": [
+            "R6-9-RECURRENCE_RULE",
+            "R51-31-SENSE_BANK",
+            "R53-19-QUOTA",
+            "R49-54-KHARVEN"
+          ]
+        }
+      ]
+    },
+    {
+      "key": "DD",
+      "title": "How much and where",
+      "intro": "How much description a page carries, where it sits, who and what gets the full inventory, and how any of it is checked. Live law says lush throughout and a full inventory at first sight; these questions decide whether that holds as the blend widens.",
+      "questions": [
+        {
+          "id": "DD1",
+          "title": "Overall density",
+          "question": "How dense should description run by default?",
+          "context": "This reopens R48-02 ('Lush throughout'), ruled 2026-09-26. Chinese baimiao (plain line drawing: a subject caught in one or two exact strokes) and Japanese ellipsis run spare; web serials and LitRPG run light and fast; the Victorian novel runs dense. Your new ask is about width, which density alone does not settle.",
+          "options": [
+            {
+              "key": "A",
+              "label": "Lush throughout (current)",
+              "consequence": "R48-02 stands: full sensory layering in every scene, slower and denser. The blend widens what is described and keeps the amount.",
+              "sample": "The gauge-house at the end of Tallow Row held the smell of lamp oil and brass polish, and under both, damp iron from the standpipe in the corner, which wept a slow bead at its cap. It was the maintenance hour. The district's hum had dropped to the low note it kept while the Board ran its checks. Mary Coyle hung her coat on the peg. Behind the gauge glass the slate still carried yesterday's readings in the inspector's square hand, and the needle sat just off the stop. It was trembling."
+            },
+            {
+              "key": "B",
+              "label": "Spare base, lush peaks",
+              "consequence": "R48-02 is rewritten: one exact stroke per beat in talk, travel and routine work; full layering at arrivals that matter, quiet scenes, set pieces and aftermaths.",
+              "sample": "Mary Coyle let herself into the gauge-house at the maintenance hour and hung her coat on the peg. Lamp oil, brass polish. She lit the lamp and read the needle. It sat just off the stop, where it always sat at this hour, and it was trembling, and in nine years she had never once seen it tremble."
+            },
+            {
+              "key": "C",
+              "label": "Light, web-serial pace",
+              "consequence": "R48-02 is repealed: one or two details per beat, short paragraphs, the weight carried by action and dialogue, as web serials and LitRPG read.",
+              "sample": "Mary Coyle unlocked the gauge-house a little after three and hung her coat on its peg. Lamp lit. Kettle on. Nine years of this and she could have done it asleep. Then she looked at the needle and stopped with the match still burning in her fingers. It was trembling. \"That's wrong,\" she said, to nobody, and reached for the book."
+            },
+            {
+              "key": "D",
+              "label": "Set by the POV's culture",
+              "consequence": "Density follows the POV's culture: Moto and Yukari spare, Accord and Stannvaard dense with figures and seals, Kharven counted. Each Inventory gains a density line.",
+              "sample": "Mary Coyle entered the gauge-house at fourteen counts past the third hour by the wire clock and signed the book under the inspector's seal, green wax, unbroken. Standpipe capped; one bead weeping at the cap. Lamp oil a third down the reservoir. Six readings on the slate from yesterday, each initialled in the square hand. The needle sat just off the stop, correct for the hour. It trembled. She entered that too, with the count, before she let herself think about what it was."
+            }
+          ],
+          "recommended": "A",
+          "rec_reason": "You ruled lush a week ago and the new ask is width. Widening what lush description covers delivers the blend, and the spare Eastern stroke still reaches the page through the telling detail (DD5) and culture-keyed noticing (DS5).",
+          "multi": false,
+          "depends_on": [
+            "K1",
+            "K8"
+          ],
+          "rules_touched": [
+            "R48-02-DENSITY"
+          ]
+        },
+        {
+          "id": "DD2",
+          "title": "Where description sits",
+          "question": "Where in a scene should the larger descriptive passages sit?",
+          "context": "Today texture runs through every beat (R53-30) and arrivals open on the senses (R49-25). Modern Western prose weaves; the Victorian novel front-loads the room; Japanese ma (the meaningful pause) and the held moment of wuxia (Chinese martial-hero fiction) pool description in a lull; chanbara (the Japanese sword film) and Gu Long (a terse wuxia novelist) keep it for the aftermath, where LitRPG puts its loot.",
+          "options": [
+            {
+              "key": "A",
+              "label": "Woven through (current)",
+              "consequence": "Texture runs through every beat (R53-30) and arrivals open on the senses (R49-25). No passage is held back for a pause.",
+              "sample": "The messenger came in with snow still on his shoulders and went to one knee on the swept stone, and the steward let him kneel there while the lamp by the door finished guttering. \"The Shirogane envoy turned back at the pass,\" the messenger said. Melt ran off his collar and dotted the floor. The steward's hand went to his sash and stayed there. Behind the screen the knife that had been cutting at wood all morning stopped. \"Turned back,\" the steward said. \"Or was sent back.\""
+            },
+            {
+              "key": "B",
+              "label": "Front-loaded",
+              "consequence": "The place gets its full description at the entrance and threshold; after that the scene runs on action and talk with single details.",
+              "sample": "The audience hall kept its light low: oil lamps along the walls, lacquer on the dais so dark a red it read black, fourteen scratches in the doorpost worn smooth at the bottom, a stone floor swept twice and cold enough to ache through a boot. A knife scratched at wood behind a screen. The messenger came in and knelt. \"The Shirogane envoy turned back at the pass.\" The steward looked at him. \"Turned back,\" he said. \"Or was sent back.\" \"I don't know.\" \"Then find out.\""
+            },
+            {
+              "key": "C",
+              "label": "Woven, pooling in lulls",
+              "consequence": "Texture stays woven through every beat; the longer passages are held for pauses, silences and aftermaths, so the news lands bare and the room is seen in the quiet after.",
+              "sample": "The messenger came in with snow on his shoulders, knelt, and said it. \"The Shirogane envoy turned back at the pass.\" Nobody answered him. In the quiet the lamp by the door guttered and steadied, and melt ran off his collar and dotted the swept stone in a line toward the dais. Behind the screen the knife that had been cutting at wood all morning had stopped. The lacquer on the dais held one seam of garnet where the lamp found it. The steward let the silence run until the messenger's knee began to shake. \"Turned back,\" he said. \"Or was sent back.\""
+            },
+            {
+              "key": "D",
+              "label": "Held for the aftermath",
+              "consequence": "While the beat runs, description is bare, amending R53-30 for that stretch; when it is over, the scene looks at what is left.",
+              "sample": "The messenger came in, knelt, and said it: the Shirogane envoy had turned back at the pass. The steward asked whether turned or sent. The messenger did not know. He was told to find out, and went. Afterwards the hall kept the marks of it. Melt from his collar lay in a dotted line from the door to the dais. The lamp by the door had guttered out and nobody relit it. Behind the screen the knife had stopped, and the bird it had been making sat half-finished on the bench, one wing still in the wood."
+            }
+          ],
+          "recommended": "C",
+          "rec_reason": "Woven texture keeps the immersion you ruled for, and letting the larger passages pool in pauses and aftermaths gives the page Japanese ma and the wuxia held moment without slowing the action.",
+          "multi": false,
+          "depends_on": [],
+          "rules_touched": [
+            "R53-30-TEXTURE_DENSITY",
+            "R49-25-OPENINGS"
+          ]
+        },
+        {
+          "id": "DD3",
+          "title": "Who gets the full inventory",
+          "question": "Which people, places and things get the full first-sight inventory?",
+          "context": "R49-28 and Table Rule 11 give a person the full inventory (hair by comparison, face, body by area, clothes, marks) at first sight; places, creatures and objects have no such rule. Baimiao catches a minor figure in one stroke; cultivation novels and the gothic give a sect ground or a castle a full entrance; LitRPG gives every monster its entry. Each inventory costs words in a turn.",
+          "options": [
+            {
+              "key": "A",
+              "label": "People only (current)",
+              "consequence": "Every person gets the full inventory at first sight; places and things get what the scene needs.",
+              "sample": "The gatehouse was a stone throat with a brazier in it. The sergeant who stepped out to meet him had hair the grey of old felt, cropped to the skull, and a broad flat face burned dark across the cheekbones by the wind. He was short and heavy through the chest and belly, bandy in the leg: a rider gone to ground. His hide-coat had been patched at both elbows with sealskin and greased black at the cuffs. A frost-scar crossed his nose. He held out a hand."
+            },
+            {
+              "key": "B",
+              "label": "People, places, creatures, objects",
+              "consequence": "Every person, place, room, creature and significant object gets a full inventory at first sight, each in one passage.",
+              "sample": "The gatehouse was a stone throat two horses wide, the old dark courses at its foot and new grey stone above, an iron grate overhead with its teeth rimed white, a brazier of seal fat smoking in a niche, and a bench worn hollow by sitting. The sergeant who came out of it had hair the grey of old felt, cropped close, and a flat face burned dark across the cheekbones. He was short and heavy. Bandy from the saddle. His hide-coat was patched with sealskin at the elbows, and a frost-scar whitened his nose. He held out his hand for the papers."
+            },
+            {
+              "key": "C",
+              "label": "Major full, minor one stroke",
+              "consequence": "Major people keep the full inventory; minor people (a role until they speak twice or matter, R50-27) get one exact stroke. Places stay as now.",
+              "sample": "The gatehouse was a stone throat with a brazier in it. A sergeant came out, bandy-legged, a frost-scar white across his nose, and held out his hand for the papers without a word. He read them upside down, which told the courier he could not read at all, and handed them back. \"Go up,\" he said. \"Lead the horse. The ruts will break her legs.\""
+            },
+            {
+              "key": "D",
+              "label": "Places full, minors one stroke",
+              "consequence": "Major people, places, rooms, creatures and significant objects get the full inventory; minor people get one exact stroke.",
+              "sample": "The gatehouse was a stone throat two horses wide, the old dark courses at its foot and new grey stone above them, an iron grate overhead with its teeth rimed white. A brazier of seal fat smoked in a niche beside a bench worn hollow by forty years of sitting. Smoke had blacked the walls head-high. A sergeant came out. Bandy-legged, a frost-scar white across his nose, he held out his hand for the papers, read them upside down and gave them back."
+            }
+          ],
+          "recommended": "D",
+          "rec_reason": "Places and creatures earn the full entrance the cultivation, gothic and LitRPG traditions give them, and one-stroke minor people end the identity-card sameness the archive shows; major people keep the full inventory.",
+          "multi": false,
+          "depends_on": [],
+          "rules_touched": [
+            "R49-28-INTROS"
+          ]
+        },
+        {
+          "id": "DD4",
+          "title": "The order of a first inventory",
+          "question": "In what order should a first-sight inventory of a person run?",
+          "context": "Table Rule 11 sets the order: hair by comparison, face, body, clothes, marks, then want and voice. The archive runs it the same way every time, so introductions read like identity cards. The Japanese war tale starts a fighter at his armour; cultivation novels and LitRPG start with standing (realm or level); a culture-keyed eye starts where its culture looks.",
+          "options": [
+            {
+              "key": "A",
+              "label": "Fixed order (current)",
+              "consequence": "Table Rule 11's order stands: hair by comparison, face, body by area, clothes, marks, then want and voice, in one passage.",
+              "sample": "The Reckoner's hair was the flat unlit white of old bone, bound back in one black cord, and her face beneath it was long and narrow, grey-violet as a four-day bruise, the eyes set deep under a heavy brow. She was tall. Narrow shoulders, a deep chest, hands too large for the arms. Her coat was dark wool, cut close, the cuffs shiny with wear. A callus stood on her right forefinger, yellow and hard. She came in with both hands open."
+            },
+            {
+              "key": "B",
+              "label": "The POV's order",
+              "consequence": "The inventory stays one passage at first sight but runs in the order this POV would look: a clerk prices first, a surgeon reads wounds first, a rider looks at hands.",
+              "sample": "He priced her coat before he looked at her face. Dark wool, close-cut, good cloth kept long, the cuffs gone shiny. Then her hands, shown open as she came in. A callus on the right forefinger, yellow and hard where a nib had ridden for thirty years, and no ink anywhere on them, so a careful one. The face came last, because it was worth least to him: long, narrow, grey-violet as a four-day bruise, under hair the flat white of old bone bound in one black cord."
+            },
+            {
+              "key": "C",
+              "label": "Standing first",
+              "consequence": "The inventory opens on standing as the POV reads it (token, seal, bearing, Pressure if a practitioner), then runs the body in Rule 11's order. The cultivation and LitRPG habit, kept in prose.",
+              "sample": "Her standing came into the room ahead of her face. The Reckoner's case rode on its strap at her hip with the seal hung beside it, and the clerks at the long table set down their nibs before she had said a word. Then the hands, shown open. Then the rest. Hair the flat white of old bone, bound in one black cord. A long narrow face, grey-violet as a four-day bruise. Tall, narrow in the shoulder, deep in the chest, her hands too large for her arms."
+            },
+            {
+              "key": "D",
+              "label": "Their culture's order",
+              "consequence": "The inventory runs in the order the described person's culture presents itself: Korvaeth hands first, Moto eyes first, Accord token first.",
+              "sample": "Her hands came first, as a Korvaeth's do: shown open at the door, palms out, then turned, to show there was nothing in them and a callus on the right forefinger hard as horn. Then the cord, one black cord binding the flat white hair. Then she stood still and let him look. That was the face, long and narrow, grey-violet as a four-day bruise. The coat he took in only when she sat: dark wool, close-cut, shiny at the cuffs."
+            }
+          ],
+          "recommended": "B",
+          "rec_reason": "It keeps your full inventory in one passage and ends the identity-card sameness, and the order itself characterises the POV: an Accord clerk prices the coat before he sees the face.",
+          "multi": false,
+          "depends_on": [],
+          "rules_touched": [
+            "R49-28-INTROS"
+          ]
+        },
+        {
+          "id": "DD5",
+          "title": "Catalogue or telling detail",
+          "question": "When should description run as a long catalogue, and when as a single telling detail?",
+          "context": "No rule governs the long list. Homer's catalogue of ships, Malory's arming, the Japanese war tale's armour list, the Chinese fu (a rhapsody listing a palace or park exhaustively) and the LitRPG inventory make length the point; Chekhov and baimiao trust one telling detail. Lambert already falls into inventory under stress (R52-16).",
+          "options": [
+            {
+              "key": "A",
+              "label": "By ear (current)",
+              "consequence": "No rule; lush layering decides, and lists appear when the moment seems to want one.",
+              "sample": "The rider armed in the yard with the wall above him. He belted the hide-coat tight, pulled the mail over it, and settled the iron cap with its fur lining down over his ears. His breath stood white. Sword on the left hip. Knife at the small of the back. A boy held the horse, and when he was done he grunted, took the reins and swung up, and the frozen ground rang under the hooves as the horse turned."
+            },
+            {
+              "key": "B",
+              "label": "Catalogue at set occasions",
+              "consequence": "Arming, feasts, markets, musters, treasuries and loot may run as full catalogues; elsewhere description stays woven. The chain ceiling (R4-14) still holds, so short sentences flank a long list.",
+              "sample": "He armed in the yard, piece by piece, and the boy handed each piece up. The quilted under-shirt, gone stiff with old sweat; the hide-coat, greased black at the cuffs; the mail shirt, rebound at the left hip in new lacing; the belt, worn shiny where his hand went to it; the iron cap lined with fox fur; the mittens on a cord through both sleeves; the sabre, Hallenfeld steel bought with two winters' salt; the knife; the horn cup; the twist of windmeat for the wall. Last the horse. A grey with a torn ear, who blew at him."
+            },
+            {
+              "key": "C",
+              "label": "Telling detail, rare lists",
+              "consequence": "One exact detail is the default; a catalogue is allowed at most once per scene, and kept short.",
+              "sample": "He armed in the yard without hurry, and the only thing the boy remembered after was the mittens: threaded on a cord through both sleeves of the hide-coat, the way his mother had done them when he was small, so he could not lose them on the wall. He swung up. The frozen ground rang under the hooves, and he did not look back at the yard."
+            },
+            {
+              "key": "D",
+              "label": "Catalogue by culture",
+              "consequence": "Counting cultures (Kharven, Korvaeth, Accord, Dawi) catalogue in counts; cultures of restraint (Moto, Yukari, Eresse) give the one detail.",
+              "sample": "He counted it on as he armed, as every Kharven counts what he carries north. One under-shirt. One hide-coat, one mail shirt rebound at the hip, one belt, one cap with fox fur, two mittens on one cord, one sabre, one knife, one horn cup, three twists of windmeat: a day and a half of eating or a week of going short. The boy counted with him under his breath. They came to the same number, and he swung up."
+            }
+          ],
+          "recommended": "B",
+          "rec_reason": "The catalogue is shared ground for Homer, the war tale, the Chinese fu and the LitRPG inventory, and tying it to set occasions keeps it from swallowing ordinary scenes.",
+          "multi": false,
+          "depends_on": [],
+          "rules_touched": []
+        },
+        {
+          "id": "DD6",
+          "title": "Description inside a fight",
+          "question": "How much of the place around a fight is described while the fight is running?",
+          "context": "R48-33 traces every exchange and R53-30 asks one world-only detail per beat; in practice fights carry body and mechanism and little else, and R5-G lists 'the reaction-shot cutaway' as a tell. Homer and wuxia hold a frozen instant mid-battle; chanbara runs the exchange bare and spends its stillness before and after. Choreography itself is the combat section's question.",
+          "options": [
+            {
+              "key": "A",
+              "label": "Body and mechanism (current)",
+              "consequence": "Inside a fight, description stays on bodies, blades and the mechanism of the hit; the setting returns when the fight ends.",
+              "sample": "The Shirogane man came into measure on the sergeant's left, and the sergeant cut from the shoulder too early. The Shirogane blade met his in the bind, rode down it, and took him across the back of the forearm as he tried to recover. The tendons parted. His fingers opened. The sabre turned in his hand and dropped, and blood came in pulses down the inside of his wrist, bright in the cold, while he stepped back holding the arm against his chest."
+            },
+            {
+              "key": "B",
+              "label": "The room keeps living",
+              "consequence": "Every exchange carries one detail of the place going on around it (snow, a sound, a watcher as the POV sees him): R53-30 applied inside fights, never a cut to faces.",
+              "sample": "The Shirogane man came into measure on the sergeant's left, the snow squeaking under him, and the sergeant cut from the shoulder too early. Along the gallery rail a line of riders leaned out. Breath hung white over them. The blades met in the bind; the Shirogane edge rode down and took the sergeant across the back of the forearm, and the tendons parted. Behind the wall an axe kept splitting rounds, steady. The sabre dropped. Blood ran bright down the sergeant's wrist and steamed where it hit the snow."
+            },
+            {
+              "key": "C",
+              "label": "Held instant, then outcome",
+              "consequence": "Exchanges run traced and lean; at the deciding moment the page holds still for a passage of setting before the outcome lands.",
+              "sample": "They came together once and parted, and for a moment nothing in the yard moved. The sergeant stood with his sabre still high. Snow had begun again, fine as flour, settling on the Shirogane man's shoulders and on the black lacquer of his scabbard. On the gallery a rider had his cup halfway to his mouth. The axe behind the wall had stopped. Then the sergeant's fingers opened. The sabre turned in his hand and fell, and the blood came down the inside of his wrist in pulses, bright, steaming where it struck."
+            },
+            {
+              "key": "D",
+              "label": "Bare inside, full around",
+              "consequence": "The exchange itself runs bare; the full description of the place sits before the first cut and after the last.",
+              "sample": "The Shirogane man came into measure. The sergeant cut early. Bind, slide, the edge across the back of the forearm, and the sabre was on the ground. Afterwards the yard took it in. A line of riders stood along the gallery rail with their breath hanging. The axe behind the wall had stopped. Blood ran down the sergeant's wrist in pulses and steamed in the snow, and the Shirogane man flicked his blade once, so that a line of red dots crossed the white, and sheathed it with a small sound."
+            }
+          ],
+          "recommended": "C",
+          "rec_reason": "A held instant at the deciding exchange gives the blend the wuxia and Homeric pause, keeps the traced exchange clean, and gives R53-30's world detail somewhere to live in a fight.",
+          "multi": false,
+          "depends_on": [],
+          "rules_touched": [
+            "R53-30-TEXTURE_DENSITY"
+          ]
+        },
+        {
+          "id": "DD7",
+          "title": "Checking the range",
+          "question": "How should verify_scene enforce the range rule?",
+          "context": "verify_scene counts subjects for one culture only: Kharven's signature items, per file, when the Kharven flag is set, though R49-54 and R53-19 count per session and for every culture. R48-45 says 'every turn passes the full checker', and the Stop hook blocks a reply on any FAIL. Keyword counts are rough: 'seal' catches wax and animal alike.",
+          "options": [
+            {
+              "key": "A",
+              "label": "No checker change",
+              "consequence": "Range rests on the scene brief and session end as DS1 sets them, and on your reading; verify_scene stays as it is."
+            },
+            {
+              "key": "B",
+              "label": "Census as info",
+              "consequence": "verify_scene prints which subject groups a scene touched, from a keyword list per group, and never warns or blocks."
+            },
+            {
+              "key": "C",
+              "label": "Census as a WARN",
+              "consequence": "The census WARNs when a scene touches too few groups or one group takes over half, and the signature-item count extends from Kharven to every Inventory."
+            },
+            {
+              "key": "D",
+              "label": "Census as a FAIL",
+              "consequence": "The same census FAILs, so the Stop hook blocks a reply that misses the range until it is fixed."
+            }
+          ],
+          "recommended": "C",
+          "rec_reason": "Keyword counts are rough, so they should ask for a read and never block a reply; the WARN also closes the gap where only Kharven's signature items are counted.",
+          "multi": false,
+          "depends_on": [],
+          "rules_touched": [
+            "R48-45-CHECKS",
+            "R49-54-KHARVEN",
+            "R53-19-QUOTA"
+          ]
+        }
+      ]
+    }
+  ],
+  "settled": [
+    {
+      "point": "Every outdoor scene shows the actual weather, tracked like a clock.",
+      "rule_ids": [
+        "R53-09-WEATHER"
+      ],
+      "why_not_asked": "Live law already requires it, and every landscape option above builds on it."
+    },
+    {
+      "point": "Every beat carries at least one detail that could only exist in this world.",
+      "rule_ids": [
+        "R53-30-TEXTURE_DENSITY"
+      ],
+      "why_not_asked": "Every tradition in the blend agrees with it; it is the floor any range rule stands on. DD2 and DD6 decide only where the larger passages sit."
+    },
+    {
+      "point": "A mixed room layers every culture present in roughly equal measure.",
+      "rule_ids": [
+        "R53-23-MIXED_ROOM"
+      ],
+      "why_not_asked": "Culture-keyed noticing (DS5) works inside it; the blend gives no reason to change the measure."
+    },
+    {
+      "point": "World facts are looked up and gaps flagged; a culture with no Inventory gets one drafted from the wiki before its scene.",
+      "rule_ids": [
+        "R53-29-LOOK_UP",
+        "R53-20-MISSING_INVENTORY"
+      ],
+      "why_not_asked": "New Inventory fields (DS6) and the missing Mahuo, Hon-guk, lineage-hall, chartered-household and tundra Inventories are drafted under these rules as each culture reaches the page."
+    },
+    {
+      "point": "Texture invented in play is canon once logged.",
+      "rule_ids": [
+        "R48-26-INVENTION",
+        "R53-21-CANON_GATE"
+      ],
+      "why_not_asked": "Wider description needs exactly this licence, and it already stands."
+    },
+    {
+      "point": "Wear, rust, weathering and labour are described in full.",
+      "rule_ids": [
+        "R6-5-MATERIAL_DENSITY_SURVIVES"
+      ],
+      "why_not_asked": "It agrees with wabi-sabi and with the Victorian eye alike; DS7 builds on it."
+    },
+    {
+      "point": "Travel and waiting pass in a line when nothing is at stake.",
+      "rule_ids": [
+        "R48-29-PACING"
+      ],
+      "why_not_asked": "The range rules govern what is on the page; skipping dull stretches stays, and a route described in full (DS9) is for roads that matter."
+    },
+    {
+      "point": "Real history is taken exactly and bent one step, and real cultures may be blended into one WOTR culture.",
+      "rule_ids": [
+        "R53-26-HOW_CLOSE",
+        "R53-27-MIX_SOURCES"
+      ],
+      "why_not_asked": "These already license Eastern and Western subjects alike in every Inventory."
+    },
+    {
+      "point": "Prices on the page are quoted from the approved price table.",
+      "rule_ids": [
+        "R53-07-PRICE_TABLE",
+        "R58-05-SWEARS_AND_SENSE_BANKS_APPROVED"
+      ],
+      "why_not_asked": "Live law decides it and the table is approved; how price, grade and provenance reach the prose is DS12, and the set-off item card is LR17."
+    },
+    {
+      "point": "A person's first-sight inventory lands all at once, in one descriptive passage.",
+      "rule_ids": [
+        "R49-28-INTROS"
+      ],
+      "why_not_asked": "You ruled exactly this on 2026-09-26, and the blend backs it: the Victorian portrait, the cultivation appearance paragraph and the war-tale armour list all land at once. DD3 and DD4 ask who gets one and in what order."
+    },
+    {
+      "point": "A 3,500-word turn is filled about half texture and talk, half the world moving.",
+      "rule_ids": [
+        "R49-29-TURN_FILL",
+        "R48-28-TURN_LENGTH"
+      ],
+      "why_not_asked": "Live law decides the split; where a turn's description sits is DD2, and whether turns take the blend lighter than books is K8."
+    }
+  ]
+}

@@ -1,0 +1,708 @@
+{
+ "sections": [
+  {
+   "key": "VB",
+   "title": "Vocabulary: the words themselves",
+   "intro": "These questions set the words narration uses across the blend: which Eastern, Western and game words reach the page, how they look there, and how the checker holds them. Honorifics in narration, martial terms, sound words, set phrases and numbers on readouts are asked in their own sections.",
+   "questions": [
+    {
+     "id": "VB1",
+     "title": "Eastern concept words in narration",
+     "question": "When narration needs a word for qi, the Way or the energy centre, which word does it use?",
+     "context": "R13-6-WOTR_FIRST puts WOTR's nouns 'in preference to anything borrowed', and borrowed anime systems stay 'never as page vocabulary' (R13-6-ANIME_GRAMMAR_TRANSLATION_AID); R48-22 lets real idea-names appear 'anywhere they fit'. Qi is vital energy (Korean gi, Japanese ki); the dao is the Way; the dantian (Korean danjeon) is an energy centre below the navel. MY1 asks how practice is rendered; this sets the words.",
+     "options": [
+      {
+       "key": "A",
+       "label": "WOTR nouns only",
+       "consequence": "Essence, the Crystal, reserve and the draw everywhere; qi, dao and dantian never reach narration. Eastern houses sound Eastern through names and custom, and the system keeps one vocabulary.",
+       "sample": "The master laid two fingers below the boy's navel and pressed until it hurt. The Essence that had pooled high under his ribs went down to the Crystal in one cold slide, and his knees shook with it. His reserve had run thin since the night before, and the Guild coil would read it thin at the next registry. Iron at the back of his mouth. \"Again,\" the master said, and went back to the brazier."
+      },
+      {
+       "key": "B",
+       "label": "Real loanwords, by culture",
+       "consequence": "The POV's own tradition supplies the word, as R51-18 does for craft terms: a Hon-guk boy thinks gi and danjeon, a Moto pupil ki, an Accord examiner Essence. Every word must be correct (R50-01).",
+       "sample": "The master laid two fingers below the boy's navel and pressed until it hurt. The gi that had pooled high under his ribs went down to the danjeon in one cold slide, and his knees shook with it. His gi had run thin since the night before, and the master's fingers would find it thin again tomorrow. Iron at the back of his mouth. \"Again,\" the master said, and went back to the brazier."
+      },
+      {
+       "key": "C",
+       "label": "Plain English renderings",
+       "consequence": "Narration translates: breath, the Way, the cinnabar field (the literal sense of dantian). No foreign word and no WOTR noun for the felt idea; any reader follows at once, and some system precision goes.",
+       "sample": "The master laid two fingers below the boy's navel and pressed until it hurt. The breath that had pooled high under his ribs went down to the cinnabar field in one cold slide, and his knees shook with it. His store of breath had run thin since the night before, and the master's fingers would find it thin again tomorrow. Iron at the back of his mouth. \"Again,\" the master said, and went back to the brazier."
+      },
+      {
+       "key": "D",
+       "label": "Felt word, measured word",
+       "consequence": "The loanword names what the body feels; the WOTR noun names what a gauge or the Guild measures, in the same POV's narration. The Eastern inside and the LitRPG outside sit side by side.",
+       "sample": "The master laid two fingers below the boy's navel and pressed until it hurt. The gi that had pooled high under his ribs went down to the danjeon in one cold slide, and his knees shook with it. His reserve had run thin since the night before, and the Guild coil would read it thin at the next registry. Iron at the back of his mouth. \"Again,\" the master said, and went back to the brazier."
+      }
+     ],
+     "recommended": "D",
+     "rec_reason": "The felt inside gets its Eastern words and the measured outside its LitRPG nouns, so both traditions show in one paragraph while the system keeps a single vocabulary.",
+     "multi": false,
+     "depends_on": [],
+     "rules_touched": [
+      "R13-6-WOTR_FIRST",
+      "R13-6-ANIME_GRAMMAR_TRANSLATION_AID",
+      "R48-22-LENS_NAMES",
+      "R51-18-DOUBLET",
+      "R50-01-REAL_GRAMMAR"
+     ]
+    },
+    {
+     "id": "VB2",
+     "title": "Foreign words on the page",
+     "question": "How does a native or borrowed word sit in the sentence the first time a reader meets it?",
+     "context": "Foreign words appear 'plain, no italics' (R49-49, R50-32), and new terms take meaning 'from context and use only' with 'no appositive gloss' (R51-15), a gloss being a phrase that explains a word in passing. Translated web fiction often italicises or glosses; Western literary fantasy trusts context; LitRPG readers expect a lookup.",
+     "options": [
+      {
+       "key": "A",
+       "label": "Plain, context only",
+       "consequence": "Current law. No italics and no explaining phrase; the scene carries the meaning. Immersive and quick, and now and then a reader guesses wrong for a page.",
+       "sample": "Three nights nobody had sat with him. The keeper had put him in the far niche and gone home to his own fire. Brida took the stool by the door and folded her hands into her sleeves. One more empty night and he would have been kiilut, and every woman in the yard would have known whose house had left him there. She stayed until the lamp guttered."
+      },
+      {
+       "key": "B",
+       "label": "Glossed once, then bare",
+       "consequence": "A short explaining phrase at the word's first use in each book, bare after. Lifts R51-15's gloss ban for foreign and native words only. No reader stalls; literary readers notice the hand.",
+       "sample": "Three nights nobody had sat with him. The keeper had put him in the far niche and gone home to his own fire. Brida took the stool by the door and folded her hands into her sleeves. One more empty night and he would have been kiilut, a corpse nobody sat with, and every woman in the yard would have known whose house had left him there. She stayed until the lamp guttered."
+      },
+      {
+       "key": "C",
+       "label": "Italic at first use",
+       "consequence": "Italic at the first appearance marks the word as foreign, roman after, no gloss. Lifts R49-49 and R50-32; italics then carry thought (R49-05), emphasis and new words on one mark.",
+       "sample": "Three nights nobody had sat with him. The keeper had put him in the far niche and gone home to his own fire. Brida took the stool by the door and folded her hands into her sleeves. One more empty night and he would have been *kiilut*, and every woman in the yard would have known whose house had left him there. She stayed until the lamp guttered."
+      },
+      {
+       "key": "D",
+       "label": "Context plus a glossary",
+       "consequence": "Prose as in A, plus a glossary at the back of each book and a terms page on the wiki. The page stays clean, and LitRPG readers get the reference they expect.",
+       "sample": "Three nights nobody had sat with him. The keeper had put him in the far niche and gone home to his own fire. Brida took the stool by the door and folded her hands into her sleeves. One more empty night and he would have been kiilut, and every woman in the yard would have known whose house had left him there. She stayed until the lamp guttered. [Glossary, back of the book: kiilut (Kharven), one of the dead left without the Waiting; the worst thing one Kharven can call another.]"
+      }
+     ],
+     "recommended": "D",
+     "rec_reason": "It keeps the immersive page the law already has and adds the lookup that LitRPG and translated-fiction readers rely on, without a gloss inside any sentence.",
+     "multi": false,
+     "depends_on": [],
+     "rules_touched": [
+      "R49-49-FOREIGN",
+      "R50-32-ITALICS",
+      "R51-15-FIRST_USE",
+      "R4-13-ZERO_BUDGET",
+      "R49-05-ITALICS"
+     ]
+    },
+    {
+     "id": "VB3",
+     "title": "Learned tongues beside Latin",
+     "question": "Does Latin stay the one learned tongue in narration, or does each Eastern stratum get its own?",
+     "context": "Accord Latin 'may appear anywhere by ear: speech, narration or documents' (R51-19), and new Latin must be real (R50-12). Eastern scholars wrote Classical Chinese, read as hanmun in Korea, kanbun in Japan and wenyan in China. Mahuo is a Korean-stratum house.",
+     "options": [
+      {
+       "key": "A",
+       "label": "Latin only",
+       "consequence": "Accord Latin stays the one learned register on the page; Eastern learning shows in plain English. R51-19 as written, and Eastern scholars sound less learned than Accord clerks.",
+       "sample": "The Accord examiner wrote Relatum in acta under the reading and sanded it. The Mahuo examiner took the pen after him, wrote four characters in his own hand, and read them out for the room in plain words: knowing and doing are one. The candidate kept his eyes on the table. Ink, sand, and the stove ticking as it cooled."
+      },
+      {
+       "key": "B",
+       "label": "A learned tongue each",
+       "consequence": "Hanmun tags for Korean-stratum scholars, kanbun readings in Moto records, wenyan in the lineage halls, Latin for the Accord, each real and romanised (R50-01, R50-31). Every learned culture gets weight; every tag needs checking.",
+       "sample": "The Accord examiner wrote Relatum in acta under the reading and sanded it. The Mahuo examiner took the pen after him, wrote four characters in his own hand, and read them out the old way for the room: jihaeng habil. The candidate kept his eyes on the table. Ink, sand, and the stove ticking as it cooled."
+      },
+      {
+       "key": "C",
+       "label": "Narration translates them all",
+       "consequence": "Learned tags stay in mouths and documents; narration renders them in English, Latin included. Lifts R51-19 for narration. Even-handed and plain; the Accord loses its Latin colour.",
+       "sample": "The Accord examiner wrote the old entry formula under the reading and sanded it: entered in the records. The Mahuo examiner took the pen after him and wrote four characters in his own hand. Knowing and doing are one. The candidate kept his eyes on the table. Ink, sand, and the stove ticking as it cooled."
+      }
+     ],
+     "recommended": "B",
+     "rec_reason": "The blend needs Eastern scholarship to carry the same authority on the page that Accord Latin already has, and a real classical tag does that in a few syllables.",
+     "multi": false,
+     "depends_on": [],
+     "rules_touched": [
+      "R51-19-ACCORD_LATIN",
+      "R50-12-COINED_LATIN",
+      "R50-01-REAL_GRAMMAR",
+      "R50-31-SCRIPT_SHOWN",
+      "R51-33-DOC_REGISTER"
+     ]
+    },
+    {
+     "id": "VB4",
+     "title": "How antique the narration runs",
+     "question": "How far do narration's words lean toward period and archaic English, and does that change by culture?",
+     "context": "R51-01: narration is 'plain, undated English by default', and Eresse and the Moto court 'may take a more antique narration'; R20C-58 keeps other culture registers 'flavour, not law'. LitRPG narration runs plain and current; Victorian prose leans period (whilst, upon, presently); Tolkien reaches for old words (ere, nigh, rime) at high moments. RH3 asks cadence; this asks words.",
+     "options": [
+      {
+       "key": "A",
+       "label": "Plain, two exceptions",
+       "consequence": "Current law: plain undated English everywhere but Eresse and the Moto court. Readable and timeless; the period feel comes from objects and prices more than from words.",
+       "sample": "The rider came in at dusk with frost in his beard and his horse blowing white. Smoke stood over every stack in the outer town. He gave his name at the gate, took the skin when it was offered, and drank without wiping the neck. The guard counted his arrows while he drank. Nineteen. He had ridden out with forty, before the first snow."
+      },
+      {
+       "key": "B",
+       "label": "Light period wash",
+       "consequence": "Victorian-literary words wherever they fit (whilst, upon, a good deal, presently), heavier at the Moto court and Eresse. Every scene sounds of the Draw Age; overdone, it reads as costume.",
+       "sample": "The rider came in at dusk with frost upon his beard and his horse blowing white. Smoke stood over every stack in the outer town. He gave his name at the gate, took the skin when it was offered him, and drank a good deal of it without wiping the neck. Whilst he drank, the guard counted his arrows. Nineteen. He had ridden out with forty, before the first snow."
+      },
+      {
+       "key": "C",
+       "label": "A dial per culture",
+       "consequence": "Each Standing Inventory sets plain, period or archaic as law, amending R20C-58, and narration follows the POV's culture. The sample is a Moto-court steward under an archaic dial; a Kharven POV stays plain.",
+       "sample": "The rider came in at dusk with rime in his beard and his horse blowing white. Smoke stood over every stack in the outer town. He gave his name at the gate, took the skin when it was proffered, and drank deep of it, the neck unwiped. The steward counted his shafts whilst he drank. Nineteen. He had borne forty north, ere the first snow."
+      },
+      {
+       "key": "D",
+       "label": "Plain modern literary",
+       "consequence": "Contemporary literary English everywhere, contractions in narration, plain idiom short of slang; antique words only in mouths and documents. Closest to LitRPG; drops R51-01's two antique exceptions.",
+       "sample": "The rider came in at dusk, frost in his beard, his horse blowing white. Smoke hung over every stack in the outer town. He gave his name at the gate and took the skin when they offered it. Didn't wipe the neck. The guard counted his arrows while he drank. Nineteen. He'd gone out with forty, back before the first snow."
+      }
+     ],
+     "recommended": "C",
+     "rec_reason": "A dial lets the Moto court sound archaic, the Accord Victorian and the Kharven plain, so the words themselves tell East, West and North apart.",
+     "multi": false,
+     "depends_on": [],
+     "rules_touched": [
+      "R51-01-TIMELESS",
+      "R48-13-PERIOD_FEEL",
+      "R20C-58-REGISTERS_FLAVOUR_NOT_LAW",
+      "R51-22-MOTO_VOICE"
+     ]
+    },
+    {
+     "id": "VB5",
+     "title": "Trade and science words",
+     "question": "How freely does narration name machinery, wounds and workings in their exact technical terms?",
+     "context": "Narration 'may use technical words freely on its own authority' (R48-09), but reading the world in science terms needs a trained POV (R49-46), and an untrained POV keeps his own body 'in plain words' (R49-50). Check 30 wants two real science or anatomy terms where a working, exchange or injury happens (R16-8-CHECK30). Patrick O'Brian's sea novels name every rope unglossed; LitRPG loves the crunch.",
+     "options": [
+      {
+       "key": "A",
+       "label": "As now, mixed",
+       "consequence": "Narration names apparatus and workings exactly by ear; an untrained POV's own body and his reading of the scene stay plain. Check 30's floor holds.",
+       "sample": "The winch boiler's safety valve chattered, then lifted with a shriek, and steam came sideways off the dome. It caught the carter across the back of the hand. For a breath there was nothing. Then the skin went white and puckered, and a blister rose there, fat and shining. He put the hand in the snow to the wrist and swore at the brass thing until his voice gave out."
+      },
+      {
+       "key": "B",
+       "label": "Exact terms everywhere",
+       "consequence": "Every apparatus, wound and working gets its exact trade or clinical term whatever the POV, the O'Brian and LitRPG crunch. Lifts the training gates in R49-46 and R49-50; the narrator knows more than the man.",
+       "sample": "The winch boiler's spring-loaded safety valve chattered at its set pressure, then lifted, and saturated steam came sideways off the dome. It caught the carter across the dorsum of the hand: a deep partial-thickness scald, the skin blanched white, a bulla rising fat and shining over the metacarpals. He put the hand in the snow to the wrist and swore at the brass thing until his voice gave out."
+      },
+      {
+       "key": "C",
+       "label": "Through trained eyes only",
+       "consequence": "Exact terms only where the POV has the training, or in a mouth; an untrained POV's narration stays in his own words throughout. Narrows R48-09, and Check 30 counts only trained-POV scenes.",
+       "sample": "The brass pot on the winch rattled its little lid, then screamed, and white breath came sideways off the top of it. It caught the carter across the back of the hand. For a breath there was nothing. Then the skin went white and puckered, and a blister rose there, fat and shining. He put the hand in the snow to the wrist and swore at the brass thing until his voice gave out."
+      }
+     ],
+     "recommended": "A",
+     "rec_reason": "The machine and the working get LitRPG and O'Brian precision while the man's own body stays in his own words, which keeps Martin's POV discipline inside the crunch.",
+     "multi": false,
+     "depends_on": [],
+     "rules_touched": [
+      "R48-09-TECH_WORDS",
+      "R49-46-CHEMISTRY",
+      "R49-50-OWN_BODY",
+      "R16-8-CHECK30",
+      "R13-6-REAL_SCIENCE_VOCAB"
+     ]
+    },
+    {
+     "id": "VB6",
+     "title": "Units of measure",
+     "question": "Which units does narration use for distance, weight and time?",
+     "context": "R49-52: narration 'measures in the POV's own units', with exact figures from 'a trained eye, an instrument, or the notes'; seconds and minutes are free (R51-07); travel runs in miles (R53-08). The archive measures in feet, yards, miles and stone, beside in-world units such as a fire's length (Kharven) and the ikke, one turn of a process (Dawi); SI is the metric system.",
+     "options": [
+      {
+       "key": "A",
+       "label": "The POV's own units",
+       "consequence": "Current law. A Kharven guard counts in bowshots and a pot's boil, a Measurewright in yards, pounds and joules. Units characterise, and the exact figure stays with trained eyes.",
+       "sample": "The standpipe stood two bowshots past the last stack, its housing furred with frost. The Measurewright walked out to it in the time a pot takes to boil and set her case on the step. She hung the test weight from the hoist, cast iron the size of a man's head, a thing two riders had grunted to lift. The needle took a long breath to move."
+      },
+      {
+       "key": "B",
+       "label": "Imperial for everyone",
+       "consequence": "Miles, yards, pounds, stone and hours in all narration, with EU and AU/s (Essence Units, and Aether Units per second) for any practitioner. Victorian and familiar; local units fade to flavour in mouths.",
+       "sample": "The standpipe stood four hundred yards past the last stack, its housing furred with frost. The Measurewright walked out to it in six minutes and set her case on the step. She hung the test weight from the hoist, eight stone of cast iron that two riders had grunted to lift. The needle took a full second to move."
+      },
+      {
+       "key": "C",
+       "label": "Metric and SI",
+       "consequence": "Metres, kilograms and joules in all narration, the science and LitRPG default and easy to compare across books. Least period-sounding; the Victorian look must carry the period alone.",
+       "sample": "The standpipe stood three hundred and sixty metres past the last stack, its housing furred with frost. The Measurewright walked out to it in six minutes and set her case on the step. She hung the test weight from the hoist, fifty kilograms of cast iron that two riders had grunted to lift. The needle took a full second to move."
+      },
+      {
+       "key": "D",
+       "label": "Imperial street, SI instruments",
+       "consequence": "Narration measures in Imperial units; instruments, Measurewrights and Guild papers read in metres and joules, as Victorian science did. Two systems on the page, and the gap marks who is trained.",
+       "sample": "The standpipe stood four hundred yards past the last stack, its housing furred with frost. The Measurewright walked out to it in six minutes and set her case on the step. She hung the test weight from the hoist, eight stone of cast iron that two riders had grunted to lift. Her dial was lettered in metres and joules, the Guild's measure. The needle took a full second to move."
+      }
+     ],
+     "recommended": "A",
+     "rec_reason": "It keeps units as characterisation, gives the trained eye the crisp figures LitRPG readers want, and leaves the north and the East their own measures.",
+     "multi": false,
+     "depends_on": [],
+     "rules_touched": [
+      "R49-52-MEASURES",
+      "R51-07-CLOCK_WORDS",
+      "R53-08-TRAVEL_RATES",
+      "R48-16-REAL_FIGURES"
+     ]
+    },
+    {
+     "id": "VB7",
+     "title": "Numbers: words or digits",
+     "question": "In narration, are numbers spelled out or written as digits?",
+     "context": "No rule sets it: the archive spells numbers out almost everywhere and keeps system figures such as '3,332 EU' in the author notes, with a few in prose. Book style (the Chicago Manual, a standard style guide) spells out up to one hundred; LitRPG prints digits. Readouts are the LitRPG section's, and rung numerals are LR5's.",
+     "options": [
+      {
+       "key": "A",
+       "label": "Words always",
+       "consequence": "Every number in narration spelled out, however large; digits only in documents, instruments and notes. Literary and period; a big exact figure runs long on the page.",
+       "sample": "The quartermaster walked the stack twice and wrote nothing until the second pass. The stack came to four hundred and twelve rounds, split. Thirty-one sacks of salt stood against the wall, two of them wet through. He did the sum on the board with his thumbnail: forty-six days at the ration, or a hundred and nine at the ration they would all be on by the Thin Weeks."
+      },
+      {
+       "key": "B",
+       "label": "Small in words, big digits",
+       "consequence": "Words up to one hundred and for round numbers; digits for exact large counts and every system figure (Level, EU, AU/s). Sourced figures stand out as data.",
+       "sample": "The quartermaster walked the stack twice and wrote nothing until the second pass. The stack came to 412 rounds, split. Thirty-one sacks of salt stood against the wall, two of them wet through. He did the sum on the board with his thumbnail: forty-six days at the ration, or 109 at the ration they would all be on by the Thin Weeks."
+      },
+      {
+       "key": "C",
+       "label": "Digits for every measure",
+       "consequence": "Digits for every count, measure and system figure; words only for rough numbers (a dozen, a few hundred). Crunchy and scannable, LitRPG-style; the prose starts to read like a report.",
+       "sample": "The quartermaster walked the stack twice and wrote nothing until the second pass. The stack came to 412 rounds, split. 31 sacks of salt stood against the wall, 2 of them wet through. He did the sum on the board with his thumbnail: 46 days at the ration, or 109 at the ration they would all be on by the Thin Weeks."
+      }
+     ],
+     "recommended": "B",
+     "rec_reason": "The prose stays literary, and wherever a sourced system figure appears it reads as hard data, the LitRPG pleasure without turning narration into a report.",
+     "multi": false,
+     "depends_on": [],
+     "rules_touched": [
+      "R12-5-NEVER_INVENT_NUMBER",
+      "R49-47-STAT_WORDS",
+      "R48-16-REAL_FIGURES"
+     ]
+    },
+    {
+     "id": "VB8",
+     "title": "Capitals for system terms",
+     "question": "Which system terms take a capital letter in narration?",
+     "context": "The archive capitalises Wellspring, Essence, Aether, Stage and Level, and writes reserve and the draw lower case. Canonical terms are 'used exactly, no approximation' (R14-5-CANONICAL_TERMS), and Check 37 is meant to validate Wellspring and Family names (R18-7-CHECK37); verify.py runs neither. LitRPG capitalises every system noun; literary fantasy capitalises proper names only.",
+     "options": [
+      {
+       "key": "A",
+       "label": "Canonical terms capitalised",
+       "consequence": "The archive's habit fixed as a list: Stage, Band, Grade, Level, Wellspring, Essence, Aether, Pressure and Sub-Stat names capitalised; reserve and the draw lower case. Plain senses (a band of riders) need care.",
+       "sample": "The clerk's pen stopped when the man's Pressure reached the desk. That put him well past Murmuring. The coil on the counter gave his Band and his Grade before he had his gloves off, and his Level after that, the needle settling by hairs. He had taken the draw at a Wellspring that morning; the Essence on him smelled flat and metallic, a cut wire left in rain."
+      },
+      {
+       "key": "B",
+       "label": "Proper names only",
+       "consequence": "Named Stages, named Wellsprings, Archons and Sub-Stat names capitalised; common system nouns lower case (stage, band, grade, level, wellspring, essence). A calmer literary page; a checker must tell term from word by context.",
+       "sample": "The clerk's pen stopped when the man's pressure reached the desk. That put him well past Murmuring. The coil on the counter gave his band and his grade before he had his gloves off, and his level after that, the needle settling by hairs. He had taken the draw at a wellspring that morning; the essence on him smelled flat and metallic, a cut wire left in rain."
+      },
+      {
+       "key": "C",
+       "label": "Caps follow the POV",
+       "consequence": "A Guild or practitioner POV capitalises system terms; a commoner's narration lowers them and reaches for folk words, because to him they are plain words. Uneven across a book by design. The sample is the gate-boy's POV.",
+       "sample": "The clerk's pen stopped when the man's weight reached the desk, the push the old men called a stage. The brass coil on the counter twitched and settled, and the clerk wrote band, grade and level, words the gate-boy knew the way he knew the names of far cities. The man had been at a wellspring that morning; the essence on him smelled flat and metallic, a cut wire left in rain."
+      },
+      {
+       "key": "D",
+       "label": "Full LitRPG capitals",
+       "consequence": "Every system-touched noun capitalised: Reserve, the Draw, the Main, Breakthrough, Traits, Paths. Strongest game feel and easiest to scan; heavy on the eye, and a capital no longer marks a name.",
+       "sample": "The clerk's pen stopped when the man's Pressure reached the desk. That put him well past Murmuring. The Holding Coil gave his Band and his Grade before he had his gloves off, then his Level, then his Reserve, the needle settling by hairs. He had taken the Draw at a Wellspring that morning; the Essence on him smelled flat and metallic, a cut wire left in rain."
+      }
+     ],
+     "recommended": "A",
+     "rec_reason": "It is the house habit already, gives the system a visible LitRPG surface without capitalising every noun, and yields a fixed list a checker can hold.",
+     "multi": false,
+     "depends_on": [],
+     "rules_touched": [
+      "R14-5-CANONICAL_TERMS",
+      "R14-5-NEAR_MISS_FAIL",
+      "R18-7-CHECK37",
+      "R49-47-STAT_WORDS"
+     ]
+    },
+    {
+     "id": "VB9",
+     "title": "New words: what kind, how many",
+     "question": "When a scene needs a word for something new, which kind of coinage does it reach for, and how many may one scene carry?",
+     "context": "R51-14: 'No ceiling on WOTR terms per page'; a mid-scene coinage is logged and becomes canon only if Isaac reuses it (R50-28). WOTR coins three ways: English compounds (night-stone, draw-hum), native words (kiilut, tallut) and capitalised labels. A portmanteau fuses two words into one, as smog fuses smoke and fog.",
+     "options": [
+      {
+       "key": "A",
+       "label": "All three, by owner",
+       "consequence": "English compounds for common things, a culture's native word where that culture owns the thing, capitalised labels for system and instrument things; no cap, all logged (R50-28). The blend in one rule.",
+       "sample": "At the second bell the main went dead. The draw-hum quit in every wall at once and left the main-quiet behind it. In the Moto lane they called it shizumari and put up their shutters. A lampwright on the corner swore and went for his tallow. On the gauge-housing the needle lay against CUTOFF, and across the river the rich side kept its lights."
+      },
+      {
+       "key": "B",
+       "label": "English compounds, sparing",
+       "consequence": "Old-English-style compounds and the odd portmanteau first (night-stone, main-quiet), two or three new words a scene at most, each placed so context carries it. Amends R51-14; less strangeness per page.",
+       "sample": "At the second bell the main went dead. The draw-hum quit in every wall at once and the main-quiet came down on the street. Kettles stopped ticking. Dogs lifted their heads. A lampwright on the corner swore and went for his tallow. On the gauge-housing the needle lay flat, and across the river the rich side kept its lights."
+      },
+      {
+       "key": "C",
+       "label": "Native words, freely",
+       "consequence": "Each culture's own tongue first, as many words as the scene's cultures supply: Moto, Dawi and Kharven words for new things. Strongest culture and Eastern flavour; the heaviest reading load.",
+       "sample": "At the second bell the main went dead. The draw-hum quit in every wall at once. The Moto lane said shizumari and put up its shutters, and the Dawi cooper at the end of the row cut a tallut on his door-post for the hour. A lampwright on the corner swore and went for his tallow. Across the river the rich side kept its lights."
+      },
+      {
+       "key": "D",
+       "label": "Plain capitalised labels",
+       "consequence": "New things get plain English names with a capital, LitRPG-style: Cutoff, Draw Rate, Main Silence. Instantly clear and game-flavoured; little poetry in the coinages.",
+       "sample": "At the second bell the main went dead. The draw-hum quit in every wall at once and the street went into Cutoff, the Board's word, painted on every gauge-housing in the quarter. Kettles stopped ticking. A lampwright on the corner swore and went for his tallow. Across the river the rich side kept its lights, its Draw Rate a copper dearer on the bill."
+      }
+     ],
+     "recommended": "A",
+     "rec_reason": "Each tradition coins its own way, compounds for the West, native words for the East and labels for the game layer, and giving each its own territory blends them without a muddle.",
+     "multi": false,
+     "depends_on": [],
+     "rules_touched": [
+      "R51-14-NEW_TERMS",
+      "R50-28-NEW_WORDS",
+      "R51-20-KHARVEN_WORDS",
+      "R51-23-DAWI_WORDS",
+      "R51-24-ELVEN_WORDS"
+     ]
+    },
+    {
+     "id": "VB10",
+     "title": "A word bank per culture",
+     "question": "Does each culture get a written word bank, the way it already has a senses bank?",
+     "context": "Each Standing Inventory carries senses, objects, oaths and proverbs, and scenes 'draw from it first' (R51-31). Native words sit scattered: Kharven kiilut and hulluk among the swears, Dawi tallut (the entry) and kaas (the cask) among the objects. A word bank lists a culture's own words and trade terms with meaning and speaker; DS6 asks the other new fields.",
+     "options": [
+      {
+       "key": "A",
+       "label": "A Words entry everywhere",
+       "consequence": "Every Inventory gains a Words entry: native words, trade terms, slang and address forms, each with meaning and who says it. Scenes draw from it first; a checker can spell-check against it.",
+       "sample": "Dawi, Words. tallut: the entry in the Tally. kaas: the cask. thrus: the cut rune. nikkat: the angle-set. ikke: one turn of a process. Speaker for each: any Dawi. In a scene: The tallyman cut the tallut before the kaas was off the cart, and told the Accord quartermaster the brew wanted one more ikke."
+      },
+      {
+       "key": "B",
+       "label": "Only cultures with tongues",
+       "consequence": "Banks for cultures that keep their own language (Kharven, Dawi, Moto, Elven, the Korean and Chinese strata); English-speaking cultures keep trade slang under Objects and Exchange. Less to build; Accord slang stays unlisted.",
+       "sample": "Dawi, Words: tallut, kaas, thrus, nikkat, ikke, each with meaning and speaker, as for every culture that keeps its own tongue. Accord: no Words entry; its trade terms stay under Objects and Exchange (the cut plate, mine scrip, the split tally). In a scene: The tallyman cut the tallut before the kaas was off the cart. The quartermaster paid in mine scrip."
+      },
+      {
+       "key": "C",
+       "label": "One shared lexicon",
+       "consequence": "One WOTR lexicon file, every culture's words in one list tagged by culture and linked from each Inventory. One place to check spelling and collisions (R51-11); scenes filter it by culture.",
+       "sample": "WOTR Lexicon, one file. hulluk (Kharven): wet wood, the older word. kaas (Dawi): the cask. kiilut (Kharven): one of the dead left without the Waiting. tallut (Dawi): the entry in the Tally. Each Inventory links to its own rows. In a scene: The tallyman cut the tallut before the kaas was off the cart."
+      },
+      {
+       "key": "D",
+       "label": "No bank, by ear",
+       "consequence": "Words borrowed or coined in the scene and logged (R50-28), with no standing list. Freest drafting; spellings drift, and a checker has nothing to hold.",
+       "sample": "No standing list. Scene log, the Seat cellars: tallut and kaas, already in the Dawi Inventory; keg-quiet, coined this scene, canon if Isaac reuses it. In the scene: The tallyman cut the tallut before the kaas was off the cart, and the cellar went keg-quiet while he counted."
+      }
+     ],
+     "recommended": "A",
+     "rec_reason": "A bank per culture keeps Eastern and Northern words consistent from scene to scene and gives the checker a list to hold, the way the senses bank already works.",
+     "multi": false,
+     "depends_on": [],
+     "rules_touched": [
+      "R51-31-SENSE_BANK",
+      "R51-20-KHARVEN_WORDS",
+      "R51-23-DAWI_WORDS",
+      "R50-28-NEW_WORDS",
+      "R51-11-COLLISIONS"
+     ]
+    },
+    {
+     "id": "VB11",
+     "title": "Real-language swears in narration",
+     "question": "May close-POV narration curse in a real Eastern language, and whose POV may do it?",
+     "context": "Close-POV narration may carry 'timeless profanities plus swears invented deliberately for WOTR' (R51-02), each culture's own first (R51-29); neither says in which language. Real swears: Japanese kuso (shit), Korean jenjang (damn it), Chinese tamade (damn it; Lu Xun wrote an essay on it in 1925). English and WOTR swears stay whatever is chosen.",
+     "options": [
+      {
+       "key": "A",
+       "label": "English and WOTR only",
+       "consequence": "R51-02 read narrowly: English hard words and WOTR-invented swears (Kharven canon, the other cultures' drafted sets once approved, R51-35). Real Eastern words stay out of the POV's head.",
+       "sample": "His heel went on the yard ice and the rest of him followed. He landed on the dispatch case, ribs first. Shit. He lay there a breath with the cold coming up through his coat, then got a thumb to the seal. Whole. Frozen piss, but it was whole, and the ribs would tell him about it by morning."
+      },
+      {
+       "key": "B",
+       "label": "The POV's own tongue",
+       "consequence": "A Japonic, Korean or Chinese-stratum POV may think his own language's swears, romanised, correct and never italic (R50-01, R50-32), beside English and WOTR ones.",
+       "sample": "His heel went on the yard ice and the rest of him followed. He landed on the dispatch case, ribs first. Kuso. He lay there a breath with the cold coming up through his coat, then got a thumb to the seal. Whole. Kuso, but it was whole, and the ribs would tell him about it by morning."
+      },
+      {
+       "key": "C",
+       "label": "Borrowed across cultures",
+       "consequence": "Any POV may curse in a language he has lived among, the way soldiers pick up each other's swears: a Hallenfeld courier who rode with Moto riders thinks kuso. Each word still correct.",
+       "sample": "His heel went on the yard ice and the rest of him followed. He landed on the dispatch case, ribs first. Kuso, the one Moto word he had kept from the riders. He lay there a breath with the cold coming up through his coat, then got a thumb to the seal. Whole. Shit, but it was whole, and the ribs would tell him about it by morning."
+      }
+     ],
+     "recommended": "B",
+     "rec_reason": "An Eastern POV gets real heat in his own tongue while each culture's own swears still come first, which is the blend in a single word.",
+     "multi": false,
+     "depends_on": [],
+     "rules_touched": [
+      "R51-02-CLOSE_POV_SWEARS",
+      "R51-29-SWEARING",
+      "R51-35-NEW_SWEARS",
+      "R48-12-PROFANITY",
+      "R50-01-REAL_GRAMMAR",
+      "R50-32-ITALICS"
+     ]
+    },
+    {
+     "id": "VB12",
+     "title": "The hard-ban list",
+     "question": "Which stock-phrase families join the hard-ban list, and should any current item be trimmed?",
+     "context": "R51-10's fifteen hard-ban items FAIL at first use in narration and speech. Speech formulas such as 'you court death' are DL2's, so new families bind narration only. Pick none to keep the list as it is; each sample shows a flagged line, then the same beat clean.",
+     "options": [
+      {
+       "key": "A",
+       "label": "Cultivation-translation stock",
+       "consequence": "Bans 'qi surged', 'a cold glint flashed', 'sucked in a cold breath' and 'killing intent surged' in narration. The Eastern feel comes from method, never from translated filler.",
+       "sample": "Flagged: The elder sucked in a cold breath, and a cold glint flashed in his eyes. Clean: The elder set his cup down without looking at it. Tea ran over the lip and along the table, and he let it run. His eyes stayed on the boy's feet, where the floorboards had split along the grain."
+      },
+      {
+       "key": "B",
+       "label": "Western fantasy stock",
+       "consequence": "Bans 'the steel sang', 'a grim smile', 'his blood ran cold', 'every fibre of his being' and 'darkness gathered'. Grimdark's own worn phrasing goes out with the imported kind.",
+       "sample": "Flagged: A grim smile touched the elder's lips, and the boy's blood ran cold. Clean: The elder set his cup down without looking at it. Tea ran over the lip and along the table, and he let it run. His eyes stayed on the boy's feet, where the floorboards had split along the grain."
+      },
+      {
+       "key": "C",
+       "label": "LitRPG stock",
+       "consequence": "Bans 'power surged through him', 'stronger than ever', 'a wave of power' and 'his stats soared'. Growth shows in the body and on the instrument.",
+       "sample": "Flagged: Power surged through the boy, and he was stronger than ever. Clean: The boy's hands had stopped shaking. Under him the floorboards had split along the grain, and across the hall the elder set his cup down without looking at it and let the tea run."
+      },
+      {
+       "key": "D",
+       "label": "Trim the false hits",
+       "consequence": "Narrows three items to their stock sense: a will called a testament passes, 'visceral' passes in anatomy (the visceral pleura, R49-45), 'orbs' passes for lamps and regalia. The stock senses still fail.",
+       "sample": "Flagged today: The elder set his cup down on his testament, sealed that morning in grey wax, and let the tea run along the table. After the trim the same line passes, since a testament here is a will; the stock sense still fails."
+      }
+     ],
+     "recommended": "A,B,C,D",
+     "rec_reason": "A blend imports each tradition's filler along with its strengths, so banning all three families keeps the borrowing at the level of method, and the trim stops the list catching honest words.",
+     "multi": true,
+     "depends_on": [],
+     "rules_touched": [
+      "R51-10-SLOP_WORDS",
+      "R49-20-STOCK_PHRASE",
+      "R49-45-SCIENCE"
+     ]
+    },
+    {
+     "id": "VB13",
+     "title": "What the checker enforces",
+     "question": "Which vocabulary checks does verify_scene gain?",
+     "context": "verify_scene (build/verify.py, the house prose checker) FAILs the hard-ban list and WARNs on modern words in narration, Earth calendar words and holy swears. Spelling, loanwords, italics, capitals and number style go unchecked; wotr_terms.txt, the canonical list Pack Fourteen calls for (R14-5-BUILD_TERMS_LIST), was never built. A FAIL blocks a Natalie reply; a WARN asks for a read.",
+     "options": [
+      {
+       "key": "A",
+       "label": "Word-bank spelling check",
+       "consequence": "Native words are matched against the culture banks (VB10); a near-miss FAILs as a misspelt Wellspring does (R14-5-NEAR_MISS_FAIL); unknown words are listed for the scene log (R50-28).",
+       "sample": "FAIL near-miss: \"kilut\" in \"...he would have been kilut, and every woman...\" (bank: kiilut, Kharven; R14-5-NEAR_MISS_FAIL)\ninfo words in no bank: main-quiet, shizumari (log with the scene, R50-28)"
+      },
+      {
+       "key": "B",
+       "label": "Canonical term list",
+       "consequence": "wotr_terms.txt is built from Fracture of Worlds, the glossary and the Codex; Stage, Band, Wellspring and Family names are checked for spelling and capitals (VB8), and a near-miss FAILs (R14-5-NEAR_MISS_FAIL, Check 37).",
+       "sample": "FAIL near-miss: \"Murmering\" (canonical: Murmuring, a Stage; R14-5-NEAR_MISS_FAIL)\nWARN capitals: \"his band\" where Band is a system term (VB8)"
+      },
+      {
+       "key": "C",
+       "label": "New ban families FAIL",
+       "consequence": "The families chosen in VB12 FAIL at first use in narration, as R51-10 does; looser variants of a banned phrase WARN for a read.",
+       "sample": "FAIL hard-ban phrase: \"a cold glint flashed\" in \"...breath, and a cold glint flashed in his eyes...\" (cultivation family, VB12)\nWARN stock watch: \"a grim little smile\" (Western family; keep only if it is the POV's own idiom)"
+      },
+      {
+       "key": "D",
+       "label": "Style-sheet warnings",
+       "consequence": "WARNs for the house style set here: an italicised loanword (VB2), a digit where words are due (VB7), an archaic word outside its culture's dial (VB4). Holds the style without blocking a reply.",
+       "sample": "WARN italic loanword: \"*kiilut*\" (R49-49-FOREIGN)\nWARN number style: \"31 sacks\" (words up to one hundred, VB7)\nWARN archaic word in a plain-dial scene: \"ere\" (Kharven dial, VB4)"
+      }
+     ],
+     "recommended": "A,B,C,D",
+     "rec_reason": "Each check holds one of this section's choices in place mechanically, so the blend's vocabulary survives long sessions instead of drifting back to defaults.",
+     "multi": true,
+     "depends_on": [
+      "VB2",
+      "VB4",
+      "VB7",
+      "VB8",
+      "VB10",
+      "VB12"
+     ],
+     "rules_touched": [
+      "R48-45-CHECKS",
+      "R14-5-NEAR_MISS_FAIL",
+      "R14-5-BUILD_TERMS_LIST",
+      "R18-7-CHECK37",
+      "R51-10-SLOP_WORDS",
+      "R49-49-FOREIGN"
+     ]
+    }
+   ]
+  }
+ ],
+ "settled": [
+  {
+   "point": "Earth day and month names never appear, and 'week' becomes the culture's own span.",
+   "rule_ids": [
+    "R51-08-CALENDAR"
+   ],
+   "why_not_asked": "Ruled 2026-09-26 and already warned by the checker; the blend changes nothing about the calendar."
+  },
+  {
+   "point": "Earth holy swears are replaced by the world's own powers.",
+   "rule_ids": [
+    "R51-30-HOLY_OATHS"
+   ],
+   "why_not_asked": "Ruled and warned by the checker; VB11 asks only which language a POV may curse in."
+  },
+  {
+   "point": "The short slang and pop-psych lists stay out of narration, and the checker warns on them.",
+   "rule_ids": [
+    "R51-03-LIST_SLANG",
+    "R51-04-LIST_PSYCH",
+    "R49-44-MODERN_FLAGS"
+   ],
+   "why_not_asked": "Ruled and checked; gamer words are LR16's, the idiom of thought is IN1's, and VB4 asks how antique narration runs."
+  },
+  {
+   "point": "Collision words (delve, echo, numinous, sovereign, sanctum, weave, ledger) keep only their WOTR sense.",
+   "rule_ids": [
+    "R51-11-COLLISIONS",
+    "R57-31-NUMINOUS_WOTR_SENSE_ONLY"
+   ],
+   "why_not_asked": "Ruled; no blend choice touches it."
+  },
+  {
+   "point": "Borrowed words are real, correct and romanised, with no kanji or hangul on the page and diacritics kept.",
+   "rule_ids": [
+    "R50-01-REAL_GRAMMAR",
+    "R50-12-COINED_LATIN",
+    "R50-31-SCRIPT_SHOWN",
+    "R50-15-DIACRITICS"
+   ],
+   "why_not_asked": "Ruled; every loanword option in this section inherits these conditions."
+  },
+  {
+   "point": "English swears and each culture's own oaths and insults are legal in close-POV narration, the culture's own first.",
+   "rule_ids": [
+    "R51-02-CLOSE_POV_SWEARS",
+    "R51-29-SWEARING",
+    "R48-12-PROFANITY"
+   ],
+   "why_not_asked": "Ruled 2026-09-26; VB11 asks only whether real Eastern-language swears join them."
+  },
+  {
+   "point": "Real names for borrowed real objects stand where the culture is built on them: a katana is a katana.",
+   "rule_ids": [
+    "R53-25-REAL_OBJECT_NAMES"
+   ],
+   "why_not_asked": "Ruled; VB1 asks only about concept words such as qi and the dao."
+  },
+  {
+   "point": "Real science and anatomy terms are exempt from timeless narration and from the modern-word list.",
+   "rule_ids": [
+    "R49-45-SCIENCE",
+    "R13-6-REAL_SCIENCE_VOCAB"
+   ],
+   "why_not_asked": "Ruled; VB5 asks how freely narration uses them, never whether they are legal."
+  },
+  {
+   "point": "Technique names and their translations are free in narration, and mechanism terms may stand bare mid-action.",
+   "rule_ids": [
+    "R49-48-TECH_NAMES",
+    "R51-17-MID_ACTION"
+   ],
+   "why_not_asked": "Ruled; MY9 asks what form a technique's name takes on the page."
+  },
+  {
+   "point": "A chant appears in its own language, each practitioner's own.",
+   "rule_ids": [
+    "R51-28-CHANT_PAGE",
+    "R50-26-CHANT_TONGUE"
+   ],
+   "why_not_asked": "Ruled; VB3 asks only about learned tags in narration."
+  },
+  {
+   "point": "Old English or Latinate word stock is by ear, the elevated word bank is by ear, and Earth-derived words (herculean, Achilles heel) are legal.",
+   "rule_ids": [
+    "R51-13-WORD_STOCK",
+    "R57-31-NUMINOUS_WOTR_SENSE_ONLY",
+    "R51-06-EARTH_WORDS"
+   ],
+   "why_not_asked": "Ruled by ear; VB4 asks how antique the words run, which these rows leave open."
+  },
+  {
+   "point": "Technology and office metaphors appear only where the POV's culture has the thing.",
+   "rule_ids": [
+    "R51-05-LIST_TECH"
+   ],
+   "why_not_asked": "Ruled; it already scales to any culture the blend adds."
+  },
+  {
+   "point": "Seconds and minutes are free in narration.",
+   "rule_ids": [
+    "R51-07-CLOCK_WORDS"
+   ],
+   "why_not_asked": "Ruled; VB6 asks the other units, and clock words feel no blend pressure."
+  },
+  {
+   "point": "In-world documents keep a house style per institution and take the modern-word list.",
+   "rule_ids": [
+    "R51-33-DOC_REGISTER",
+    "R51-34-DOC_MODERN"
+   ],
+   "why_not_asked": "Ruled; DT9 asks which further forms join them."
+  },
+  {
+   "point": "'Ozone' and other technical smell words are free; only the stock ozone phrase stays banned.",
+   "rule_ids": [
+    "R57-30-OZONE_WORD_FREE_PHRASE_BANNED",
+    "R51-32-SMELL_WORDS"
+   ],
+   "why_not_asked": "Ruled in C-090; VB12 extends and trims the ban list without touching it."
+  },
+  {
+   "point": "The repetition tic-word list stays as it is.",
+   "rule_ids": [
+    "R49-55-TIC_WORDS"
+   ],
+   "why_not_asked": "Ruled; VB12 handles the separate hard-ban list."
+  },
+  {
+   "point": "Explicit narration stays plain and crude, in working-man anatomical words.",
+   "rule_ids": [
+    "R49-51-EXPLICIT"
+   ],
+   "why_not_asked": "Ruled; the explicit-scene section asks what the blend adds."
+  },
+  {
+   "point": "Whether stat names and figures appear in plain narration.",
+   "rule_ids": [
+    "R49-47-STAT_WORDS",
+    "R51-16-OLD_BANS_FALL"
+   ],
+   "why_not_asked": "LR6 asks it; VB7 sets only how numbers are written and VB8 how terms are capitalised."
+  },
+  {
+   "point": "Which martial vocabulary names the moves in a duel, and the combat checker's word lists.",
+   "rule_ids": [
+    "R48-33-CHOREOGRAPHY",
+    "R13-6-HEMA_VOCAB"
+   ],
+   "why_not_asked": "CB1 asks the vocabulary and ME2 the checker lists."
+  },
+  {
+   "point": "Honorifics and titles in narration.",
+   "rule_ids": [
+    "R51-21-MOTO_WORDS",
+    "R48-44-NAME_USE"
+   ],
+   "why_not_asked": "NE2 asks it; VB1 covers only concept words such as qi and the dao."
+  }
+ ]
+}

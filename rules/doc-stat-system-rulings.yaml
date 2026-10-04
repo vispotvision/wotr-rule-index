@@ -216,6 +216,9 @@ rules:
       Closes CONFLICTS.md C-008. Narrows R1-3-SCENE_STANDARDS_DEFINED's
       carve-out rather than repealing it: that row stays live for unlocked
       scenes.
+      Partly amended by R70-11-WIDE_VIEW (style law 2026-10-03): "R39-7 gains
+      rules for them". Marked roll-call lines in battles and crowds are an
+      exception to the lock, one line per head, after which the lock resumes.
 
   - id: R39-8-PACKS_FOLDED_INTO_EDITIONS
     pack: Stat System and Scene Rulings 2026-09-13

@@ -1,0 +1,868 @@
+{
+  "sections": [
+    {
+      "key": "DT",
+      "title": "Description technique and imagery",
+      "intro": "How WOTR describes: where its comparisons come from, what colour and season mean, how country is composed, what is left unsaid, and which named devices join the kit. What description covers, and how much of it there is, belongs to DS and DD.",
+      "questions": [
+        {
+          "id": "DT1",
+          "title": "Where comparisons come from",
+          "question": "Where should WOTR's metaphors and similes come from?",
+          "context": "R48-04 (ruled 2026-09-26) takes metaphors 'from the POV's own life', and R49-20 rebuilds every stock image from it; this reopens both. Classical Chinese, Japanese and Korean writing draws on a shared image bank (plum in snow, the crane, the autumn moon) whose force is that everyone knows it. Western epic has one too: Homer's hearth, field and sea.",
+          "options": [
+            {
+              "key": "A",
+              "label": "POV's own life only",
+              "consequence": "R48-04 and R49-20 stand. Every comparison is rebuilt from the viewpoint's trade, homeland or body, so no two POVs share an image.",
+              "sample": "Snow came down on the Seat at dusk and settled first on the old courses at the foot of the walls, the dark stone Muken's masons had left. The steward watched it fill the joints. He had kept stores most of his life and knew the look of it: an old debt carried forward in a careful hand, a little smaller each year and never cleared. By full dark the old stone was white to the height of a man. The new stone above, dressed smooth, held none."
+            },
+            {
+              "key": "B",
+              "label": "Culture image bank, always",
+              "consequence": "Each Standing Inventory gains eight to twelve set images that any POV of that culture may use whole, unglossed. POV-life comparisons stay the default; R49-20 relaxes for the listed images.",
+              "sample": "Snow came down on the Seat at dusk and settled first on the old courses at the foot of the walls, the dark stone Muken's masons had left. Snow on the old courses. Every Moto letter-writer had used the phrase since the burning, for a debt that outlives the man who owed it, and the steward could not look at the walls now without it arriving whole. By full dark the old stone was white to the height of a man. The new stone above, dressed smooth, held none."
+            },
+            {
+              "key": "C",
+              "label": "Shared images at peaks",
+              "consequence": "Shared images (the culture's own, and the Western epic stock of hearth, field and sea) are licensed at mythic moments, in elegy and in verse only. Everywhere else R48-04 holds.",
+              "sample": "Snow came down on the Seat at dusk and settled first on the old courses at the foot of the walls, the dark stone Muken's masons had left. It came the way snow comes to a cold hearth in the Kharven grave-songs, softly, filling the ring of stones a family left when the grass went, until by morning nobody can say whose fire it was. By full dark the old stone was white to the height of a man. The new stone above, dressed smooth, held none."
+            }
+          ],
+          "recommended": "B",
+          "rec_reason": "A culture's image bank is the Eastern method built from WOTR's own images, and it widens description without losing POV colour, because the POV still chooses when a set image arrives.",
+          "multi": false,
+          "depends_on": ["K1"],
+          "rules_touched": ["R48-04-METAPHORS", "R49-20-STOCK_PHRASE", "R51-31-SENSE_BANK"]
+        },
+        {
+          "id": "DT2",
+          "title": "Colour as symbol, per culture",
+          "question": "Should colours carry fixed meanings that differ by culture?",
+          "context": "No rule gives colour a meaning; the sense banks list colours as seen (aurora green, lacquered red near black, Greymane grey). Korea's obangsaek (five cardinal colours) and China's five-colour scheme make white the colour of mourning; Heian Japan layered robe colours by season; Western heraldry fixes its tinctures. A code lets one room read one colour two ways.",
+          "options": [
+            {
+              "key": "A",
+              "label": "Colour as seen (current)",
+              "consequence": "No change. Colours are named exactly and mean only what a POV knows about the wearer, case by case.",
+              "sample": "The Shirogane envoy came through the gate in white from collar to boot, white wool, white felt, a white silk cord at the throat, and the yard went quiet in a wave from the gate inward. The woodpile-keeper set down her axe. In the grey of the afternoon he was the brightest thing on the rock. The snow on the near roofs had gone blue with the hour, and against it the envoy's coat looked new, costly and recently brushed."
+            },
+            {
+              "key": "B",
+              "label": "A colour code per culture",
+              "consequence": "Each Inventory gains a colour field: what white, red, black and two or three local colours mean there. Narration uses it unglossed, and two cultures may read one colour two ways.",
+              "sample": "The Shirogane envoy came through the gate in white from collar to boot, white wool, white felt, a white silk cord at the throat, and the yard went quiet in a wave from the gate inward. The woodpile-keeper set down her axe. White was the death-house colour, the colour you wrapped a man in for the Waiting, and he had worn it into a yard full of the living. She knew what it meant to the house on the steps, where white meant the eye, and she watched their heads come up to read him."
+            },
+            {
+              "key": "C",
+              "label": "Code for rites and rank",
+              "consequence": "Colour meanings attach only to dress at rites, mourning, weddings and rank, set per Inventory. Everyday colour stays as seen, and there are fewer fields to build.",
+              "sample": "The Shirogane envoy came through the gate in white from collar to boot, and the yard went quiet in a wave from the gate inward. The woodpile-keeper set down her axe. She knew the cut before the colour: a Shirogane mourning coat, buttoned to the throat until the mourning was done. Somebody of theirs was dead, then, and lately. In the grey of the afternoon he was the brightest thing on the rock, and every Moto on the steps had already begun counting which cousin it might be."
+            },
+            {
+              "key": "D",
+              "label": "Code plus heraldic blazons",
+              "consequence": "As B, and the chartered Northern families (Greymane, Stark, Hallenfeld) gain blazons in heraldry's fixed language, read off banners and harness at a glance.",
+              "sample": "The Shirogane envoy came through the gate in white from collar to boot, and the yard went quiet in a wave from the gate inward. The woodpile-keeper set down her axe. White was the death-house colour, the colour you wrapped a man in for the Waiting. Over the gate the Greymane banner hung wet, grey upon grey, the device a shade darker than its field, so that from the yard it read as weather. Under it the white coat was an insult in every tongue the yard spoke."
+            }
+          ],
+          "recommended": "B",
+          "rec_reason": "It turns colour into a reading the reader learns, which is how Chinese, Korean and Japanese description uses it, and it gives every mixed room (R53-23) something to misread.",
+          "multi": false,
+          "depends_on": ["K1"],
+          "rules_touched": ["R51-31-SENSE_BANK", "R53-23-MIXED_ROOM", "R53-30-TEXTURE_DENSITY"]
+        },
+        {
+          "id": "DT3",
+          "title": "How a landscape is laid out",
+          "question": "When a POV looks out over country, how is the view composed?",
+          "context": "Recent scenes show little landscape, mostly through windows; R53-09 requires the actual weather outdoors. Chinese shanshui (mountain-and-water painting) builds a view in planes, far to near, with a small human figure and a deliberate blank of mist or snow (liubai, 'leaving white'). The Western route view (Tolkien, McCarthy) gives distance, rock, slope and the day's march.",
+          "options": [
+            {
+              "key": "A",
+              "label": "Close, through the body",
+              "consequence": "No new rule. Country arrives as what the POV's feet, horse and eyes meet, near things first, and the wide view stays rare.",
+              "sample": "The road up to the Seat was frozen ruts the whole last league, hard as cast iron under the horse, and every rut rang up through the courier's knees. Snow had blown into the low side of the track. He kept his eyes on the horse's ears and the next ten yards. When he looked up at last the walls were already over him, grey stone on grey rock, and the smoke of the outer town lay flat across the road where he had to ride through it."
+            },
+            {
+              "key": "B",
+              "label": "Shanshui planes, far to near",
+              "consequence": "When a POV stops to look, the view is built in planes (far, middle, near), one per clause or sentence, with a named blank and a small figure for scale.",
+              "sample": "Far up, the Seat sat on its grey rock under the first green of the aurora, its wall-lamps small as seeds. Below the walls the outer town put up its smoke, a hundred grey threads leaning one way. Between town and road the snowfield lay unbroken for a long mile, and nothing was on it. On the near rise a single rider had stopped to look, his breath standing white in front of his face, and the courier, coming up behind him, stopped too."
+            },
+            {
+              "key": "C",
+              "label": "Route and ground",
+              "consequence": "Country is told as a route: distance in leagues and stations, rock and soil, which way water runs, what a horse can make in this snow (R53-08).",
+              "sample": "From the last way-hut the north road climbed four leagues to the Seat, and the courier knew each of them by the horse's breathing. The first ran over gravel the thaw had sorted. The second crossed a frozen stream on a causeway of fitted stone older than anyone's name for it. After that it was ruts and permafrost, and a horse made walking pace on it in this cold and no better. The Seat's grey rock showed at the third league, and its smoke at the fourth."
+            },
+            {
+              "key": "D",
+              "label": "Route, then planes at stops",
+              "consequence": "Travel is told as route and ground; when the POV stops at a rise, a gate or a parting, the view is composed in planes. Each tradition where it works best.",
+              "sample": "From the last way-hut the north road climbed four leagues to the Seat over gravel, then ruts, then permafrost that rang under the horse. The courier rode it with his eyes on the next ten yards. At the top of the last rise he stopped. Far up, the Seat sat on its grey rock under the first green of the aurora. Below it the outer town put up its smoke. Between town and road lay a long mile of unbroken snow, and the only thing on it was his own track."
+            }
+          ],
+          "recommended": "D",
+          "rec_reason": "It keeps the Western route for travel, where the road is the story, and borrows the composed Eastern view for the moments a POV stops, which is when country earns a paragraph.",
+          "multi": false,
+          "depends_on": [],
+          "rules_touched": ["R53-09-WEATHER", "R53-08-TRAVEL_RATES"]
+        },
+        {
+          "id": "DT4",
+          "title": "Season words and season lists",
+          "question": "Should each culture keep a list of season words that place a scene in the year?",
+          "context": "R53-09 tracks weather and season 'like a clock', and Kharven already talks in seasons ('when the grass comes', the Thin Weeks). Japanese haiku uses kigo (season words: cicadas mean high summer), collected in a saijiki (an almanac of them), so one word sets time, weather and mood at once. R51-08 already keeps Earth month names out.",
+          "options": [
+            {
+              "key": "A",
+              "label": "Weather and date (current)",
+              "consequence": "No new field. The State of Play carries the date and season, and scenes show the weather and name each culture's festivals and times as they come.",
+              "sample": "It was nine days to the Ward-Lighting and the nights had turned cold. The carver walked the perimeter at first light with his mallet in his belt, tapping each post low and listening. Frost stood on the north faces of the posts and was already gone from the south faces. The cedar of the new houses had stopped weeping. At the fourth post he crouched, put his ear to the wood, and stayed there a long time."
+            },
+            {
+              "key": "B",
+              "label": "Season list per culture",
+              "consequence": "Each Inventory gains a season-word list of about twenty entries, four or five per season. A scene may anchor its time in one listed word in place of a date; new words are logged to the list.",
+              "sample": "Sap-stop. The cedar of the new houses had quit weeping overnight, and on the frontier that meant nine days to the Ward-Lighting whatever anyone's almanac said. The carver walked the perimeter at first light with his mallet in his belt, tapping each post low and listening. Frost stood on the north faces of the posts. At the fourth post he crouched, put his ear to the wood, and stayed there a long time."
+            },
+            {
+              "key": "C",
+              "label": "Season word carries mood",
+              "consequence": "As B, and each listed word also carries a feeling, as kigo do: sap-stop means endings, first lake-ice means waiting. The scene never names the mood. R49-22 still bars personifying.",
+              "sample": "Sap-stop. The cedar of the new houses had quit weeping overnight, and every carver on the frontier knew what the season was for: finishing what you could, and writing down what you could not. The carver walked the perimeter at first light with his mallet in his belt, tapping each post low and listening. Frost stood on the north faces. At the fourth post he crouched, put his ear to the wood, and stayed there long after the sound had told him."
+            }
+          ],
+          "recommended": "C",
+          "rec_reason": "One word doing time, weather and feeling at once is the most economical Eastern device there is, WOTR's cultures already speak this way, and a list stops the words being invented fresh each scene.",
+          "multi": false,
+          "depends_on": [],
+          "rules_touched": ["R53-09-WEATHER", "R51-31-SENSE_BANK", "R51-08-CALENDAR"]
+        },
+        {
+          "id": "DT5",
+          "title": "Feeling carried by the scene",
+          "question": "May weather and landscape carry a POV's feeling, and may they be personified?",
+          "context": "R49-22 (ruled 2026-09-26) says 'the world is described, not personified', and this reopens it. Chinese poetics fuses feeling and scene (qingjing jiaorong), and Japanese mono no aware (the sadness of passing things) lets one chosen image carry an unnamed feeling, mostly without personifying. Western pathetic fallacy (nature mirroring feeling) and much Eastern verse personify outright.",
+          "options": [
+            {
+              "key": "A",
+              "label": "Described, never personified",
+              "consequence": "R49-22 stands. Weather is reported plainly, and feeling stays in the body and the POV's own words.",
+              "sample": "The morning after the Waiting she went out to the woodpile before light. It was thirty below and still. Her breath stood in front of her face and hung there. She counted the stack by the rows, as he had, and it came to what he had said it would, enough to see the house to the grass. Her hands were steady on the axe. She split four rounds and stopped, and stood with the haft across her palms."
+            },
+            {
+              "key": "B",
+              "label": "Scene carries it, unnamed",
+              "consequence": "R49-22 stands for personifying, and a standing technique joins it: at a grief, a parting or a return, the scene is chosen so one held image carries the unnamed feeling.",
+              "sample": "The morning after the Waiting she went out to the woodpile before light. It was thirty below and still. The stack was full, the rows straight, each round split the way he split them, small enough for a child to carry in. Snow had fallen in the night and lay on the top row unbroken. She looked at it for a while. Then she took a round from the end, where the gap would not show, and went back in to the fire."
+            },
+            {
+              "key": "C",
+              "label": "Personify in high style",
+              "consequence": "R49-22 relaxes at mythic moments, in verse and documents, and for POVs whose culture speaks of weather as a person: the sky may withhold, the cold may stand at the door. Everyday narration stays plain.",
+              "sample": "The morning after the Waiting she went out to the woodpile before light. The cold was at the door before her, as it was at every door in the Thin Weeks, and the sky over the Seat had shut its hand on the stars. The stack was full, the rows straight, each round split small the way he split them. Snow lay on the top row unbroken. She took a round from the end, where the gap would not show, and went back in."
+            }
+          ],
+          "recommended": "B",
+          "rec_reason": "It takes the Eastern method whole without personifying anything, and it suits WOTR's grief, which goes back to the root (R52-26) and lives in objects.",
+          "multi": false,
+          "depends_on": [],
+          "rules_touched": ["R49-22-NATURE", "R48-01-BEAUTY"]
+        },
+        {
+          "id": "DT6",
+          "title": "The pause and the cut before the payoff",
+          "question": "Should silence and the unsaid become standing tools of description?",
+          "context": "R48-01 puts beauty partly in 'what goes unsaid', and Table Rule 8 leaves one thing a turn unexplained. Japanese ma is the meaningful interval: a pause measured by one ambient sound. Kawabata cuts a scene before its emotional point lands. Hemingway's iceberg is the Western cousin. R48-38 requires a full aftermath beat after every duel.",
+          "options": [
+            {
+              "key": "A",
+              "label": "Silence by need (current)",
+              "consequence": "No change. Silences happen as the scene needs them; payoffs land on the page and the full aftermath follows (R48-38).",
+              "sample": "Brida wiped her hands before she spoke, and that told him most of it. 'He went at the third bowl, near morning,' she said. 'There was no stopping it from inside him.' The quartermaster nodded. He asked where the boy was and she showed him, behind the hide curtain, and he sat on the stool beside the cot and took his son's hand, which was cold, and held it, and said the boy's name twice in the voice he used for counting."
+            },
+            {
+              "key": "B",
+              "label": "Ma: the measured pause",
+              "consequence": "One silence per scene is held on the page and measured by one ambient sound that is not the plot, with no interior gloss, before speech resumes.",
+              "sample": "Brida wiped her hands before she spoke. 'He went at the third bowl, near morning.' The quartermaster said nothing. Outside, someone was splitting rounds for the woodpile, and they listened to the axe go in, and the halves knock onto the stack, and the axe go in again. The blubber lamp spat once. Four rounds. Five. Then he asked where the boy was, and she showed him."
+            },
+            {
+              "key": "C",
+              "label": "Cut before the payoff",
+              "consequence": "A scene or section may end before its emotional point lands, on a held image, and the next opens later. The aftermath may happen off the page, carried by what changed.",
+              "sample": "Brida wiped her hands before she spoke. 'He went at the third bowl, near morning.' The quartermaster looked past her at the hide curtain. Lamplight came through the gap at its edge and lay in a line across the floor to his boots, and he looked at the line.\n\nIn the spring he asked to be posted south with the wagons, and Hallenfeld let him go."
+            },
+            {
+              "key": "D",
+              "label": "Both, by ear",
+              "consequence": "Both tools, chosen by ear, with at most one cut per scene so R48-38's full aftermath stays the default.",
+              "sample": "Brida wiped her hands before she spoke. 'He went at the third bowl, near morning.' The quartermaster said nothing. Outside, someone was splitting rounds for the woodpile, and they listened to the axe go in, and the halves knock onto the stack. The blubber lamp spat once. Lamplight came through the gap at the curtain's edge and lay across the floor to his boots, and he looked at it.\n\nIn the spring he asked to be posted south with the wagons."
+            }
+          ],
+          "recommended": "B",
+          "rec_reason": "Ma is already half in the house's Moto register and costs nothing the grimdark law values; the Kawabata cut fights the standing law that the aftermath is never skipped (R48-38).",
+          "multi": false,
+          "depends_on": [],
+          "rules_touched": ["R48-01-BEAUTY", "R48-38-AFTERMATH", "R1-3-AFTERMATH_IS_WHERE_IT_HAPPENS"]
+        },
+        {
+          "id": "DT7",
+          "title": "Wear and age as beauty",
+          "question": "Should worn, mended and aged things be described as beautiful, or only as a record of use?",
+          "context": "R6-5 keeps 'the rust described in full', and house prose reads wear for what it says about use and cost. Japanese wabi-sabi finds beauty in the worn and impermanent, and kintsugi mends a broken bowl with gold so the break shows. The Western gothic reads the same decay as dread. In Kharven, 'cracked bowl' is an insult.",
+          "options": [
+            {
+              "key": "A",
+              "label": "Wear as record (current)",
+              "consequence": "No change. Wear is described exactly, as evidence of use, age and money; any beauty in it is the POV's own judgement in his own words.",
+              "sample": "The steward set the bowl before the clan elder with both hands. It was old Seat ware, the grey glaze gone to crackle, broken once across the lip and mended with lacquer and gold dust along the break. The mending had cost more than the bowl. It had been done in the winter after the burning, when the house had little else to spend on, and the gold line was worn thinner where a generation of mouths had drunk over it."
+            },
+            {
+              "key": "B",
+              "label": "Beauty, keyed by culture",
+              "consequence": "Each Inventory states what its people prize in age and what they despise. A Moto or Ketsuen POV may see the mend as beautiful while a Kharven guest sees a cracked bowl, and the clash becomes description.",
+              "sample": "The steward set the bowl before the clan elder with both hands. It was old Seat ware, broken once across the lip and mended with gold along the break, and to the steward's eye it was the best thing on the table: the gold line was the bowl's whole history, and it had been drunk from through all of it. He watched the elder's eyes go to the mend and stay there. A cracked bowl, the clans said, of a man who took the first bowl from the one who could not fill it. The elder kept his hands in his lap."
+            },
+            {
+              "key": "C",
+              "label": "Wear as beauty everywhere",
+              "consequence": "Narration may linger on patina, the hand-worn hollow and the honest mend in any POV with the eye for it, and R6-5's rust, described in full, may be beautiful.",
+              "sample": "The steward set the bowl before the clan elder with both hands. It was old Seat ware, the grey glaze gone to a fine crackle that caught the lamplight in a thousand small lines, broken once across the lip and mended with gold. The gold ran the length of the break and thinned where a generation of mouths had drunk over it, so that the line was brightest where no lip had ever touched it, down near the foot."
+            }
+          ],
+          "recommended": "B",
+          "rec_reason": "It gives the Eastern aesthetic a home in the cultures that would hold it, and every mixed table gains a second reading of the same object.",
+          "multi": false,
+          "depends_on": ["K1"],
+          "rules_touched": ["R6-5-MATERIAL_DENSITY_SURVIVES", "R51-31-SENSE_BANK", "R53-23-MIXED_ROOM"]
+        },
+        {
+          "id": "DT8",
+          "title": "Verse inside the prose",
+          "question": "Where may verse and song appear?",
+          "context": "No rule covers verse; R51-28 sets chants in their own language, and verify reads inserted lines as prose. The Chinese chapter novel stops for 'a poem as witness'; Japanese haibun closes prose passages with a haiku; Korean sijo (three-line verse that turns in its last line) is sung; Tolkien inserts whole songs.",
+          "options": [
+            {
+              "key": "A",
+              "label": "No verse (current)",
+              "consequence": "No change. A song is reported, never quoted, and the narration never breaks into verse.",
+              "sample": "They sat the Waiting in the death-house through the night, twelve of them on the cold floor, and nobody spoke. The rider lay on the stone shelf in his hide-coat. Near morning the oldest of the women put out her hand and laid it flat on his chest, the way you lay a hand on a horse to tell it you are there, and took it back. At first light they came out onto the step, and she stood a while with her face to the sky before she went home."
+            },
+            {
+              "key": "B",
+              "label": "In mouths and documents",
+              "consequence": "Verse appears when a character sings, recites or writes it, or inside an in-world document, set as a quoted block the rhythm checks skip.",
+              "sample": "They sat the Waiting in the death-house through the night, twelve of them on the cold floor, and nobody spoke. At first light they came out onto the step, and the oldest of the women sang, low, the old way:\n\n> Snow on the woodpile, snow on the saddle, snow on the road he took north.\n> The stack is full this winter; we cut his share as well.\n> Ah, the night-stone: warm still, and nobody beside it.\n\nShe sang it through three times. Nobody joined her. It was a song for one voice."
+            },
+            {
+              "key": "C",
+              "label": "Plus a closing poem",
+              "consequence": "As B, and a scene or chapter may close on a short poem set apart, haibun-style. R49-26's legal endings gain the poem.",
+              "sample": "They sat the Waiting in the death-house through the night, twelve of them on the cold floor, and nobody spoke. Near morning the oldest of the women laid her hand flat on the rider's chest and took it back. At first light they came out onto the step into the cold and went home, each to their own fire.\n\n> First light on the step.\n> Twelve breaths go white in the cold;\n> inside, the stone shelf."
+            },
+            {
+              "key": "D",
+              "label": "Plus verse as witness",
+              "consequence": "As C, and the narration itself may stop at a peak for verse introduced as witness. R5-E-NARRATION_NEVER_ADJUDICATES gains a carve-out for verse.",
+              "sample": "They sat the Waiting in the death-house through the night, twelve of them on the cold floor, and nobody spoke. At first light they came out onto the step and went home, each to their own fire. The north keeps a verse for such mornings, and it stands here as witness:\n\n> The sky takes the riders and leaves the saddles.\n> The cold takes the saddles and leaves the stack.\n> We burn the stack, and the sky keeps the riders."
+            }
+          ],
+          "recommended": "C",
+          "rec_reason": "Songs in mouths are already the Kharven and Korean way, and a short closing poem set apart gives chapters an Eastern seal without handing the narrator a verdict.",
+          "multi": false,
+          "depends_on": ["K1"],
+          "rules_touched": ["R51-28-CHANT_PAGE", "R49-26-ENDINGS", "R5-E-NARRATION_NEVER_ADJUDICATES", "R48-05-HIGH_STYLE"]
+        },
+        {
+          "id": "DT9",
+          "title": "Set idioms in narration",
+          "question": "May narration use each culture's fixed sayings, and should cultures gain chengyu-style four-beat idioms?",
+          "context": "R52-30 gives every NPC one fixed saying, and the Inventories keep proverbs in fixed wording; narration rarely uses them. Chinese chengyu are four-character idioms, each compressing a known story ('draw a snake and add feet': spoil a thing by overdoing it). Ketsuen's 'third stroke late' already works this way. Western epic has fixed epithets and kennings (whale-road for the sea).",
+          "options": [
+            {
+              "key": "A",
+              "label": "Sayings in mouths (current)",
+              "consequence": "No change. Fixed sayings live in speech, and narration describes in its own plain words.",
+              "sample": "The inspector ran his thumb down the journeyman's glyph chain on the practice stone and stopped at the fifth cut. The groove there was a hair shallower than the four before it, and the line of the layer stepped where it should have flowed. 'Third stroke late,' he said, loud enough for the yard. The journeyman's ears went red. Behind them a mallet kept on at another stone, steady, every stroke landing where it should."
+            },
+            {
+              "key": "B",
+              "label": "Sayings in POV narration",
+              "consequence": "A POV may think in his culture's fixed sayings in free indirect narration, unglossed, as the Moto register already does. No new idiom form is built.",
+              "sample": "The inspector ran his thumb down the journeyman's glyph chain on the practice stone and stopped at the fifth cut. Third stroke late. The groove was a hair shallower than the four before it, and the line of the layer stepped where it should have flowed, and the whole yard would know it by the evening meal. A holding that is maintained holds. He had said it to the boy a hundred times, and the boy had nodded every time."
+            },
+            {
+              "key": "C",
+              "label": "Four-beat idioms, told once",
+              "consequence": "Each Inventory gains six to ten four-beat idioms, each a compressed in-world story. An elder tells the story once on the page; after that the idiom is used bare, in narration or speech.",
+              "sample": "The inspector ran his thumb down the journeyman's glyph chain on the practice stone and stopped at the fifth cut. Mallet late, post leans. Every carver on the frontier carried the story inside those four words, the Rimward gate that let a winter in because one apprentice struck behind the count, and the inspector had no need to tell it here. The groove was a hair shallower than the four before it. He looked up. The boy had gone white to the ears."
+            }
+          ],
+          "recommended": "C",
+          "rec_reason": "WOTR's cultures already compress stories into fixed words; making it a form carries description into folklore and gives every culture a phrase bank to draw on.",
+          "multi": false,
+          "depends_on": ["K1"],
+          "rules_touched": ["R52-30-PROVERBS", "R51-31-SENSE_BANK", "R4-13-ZERO_BUDGET"]
+        },
+        {
+          "id": "DT10",
+          "title": "Ornate or spare",
+          "question": "Where on the ornate-to-spare scale should description sit, and does it move?",
+          "context": "R48-02 asks for 'Lush throughout' and R49-16 lets adjectives stack by ear; the house hand is plain parataxis (clauses joined by 'and') ending on hard stops. Mishima stacks sensual metaphor and treats the body as an aesthetic object; Gu Long writes one-line paragraphs and lets white space work. DD sets how much description there is; this sets its grain.",
+          "options": [
+            {
+              "key": "A",
+              "label": "Lush, plain-built (current)",
+              "consequence": "R48-02 and R49-16 stand as practised: dense concrete detail in plain-built sentences, metaphor from the POV's life, the house's and-chains and hard stops.",
+              "sample": "The Shirogane man finished his last cut at full extension and held it until the arm shook. Then he lowered the blade and looked at his forearm. Sweat had run down it and dried in the cold, and the tendons stood up from wrist to elbow in two hard cords. A vein crossed them near the joint. He turned the arm to the light, flexed the hand twice, and watched the cords move under the skin and settle."
+            },
+            {
+              "key": "B",
+              "label": "Ornate, the Mishima end",
+              "consequence": "Set pieces may run ornate: stacked and extended metaphor, sensual abstraction, the body as an aesthetic object. R48-06's rhythm caps bend for one such passage per scene.",
+              "sample": "The Shirogane man finished his last cut at full extension and held it until the arm shook, and then he lowered the blade and studied his forearm the way an assayer studies a bar he suspects of being too good. The tendons stood from wrist to elbow, two drawn cords strung on a frame of bone, and the vein that crossed them was a river seen from a high pass, blue, deliberate, carrying its freight somewhere he would never be shown. Flesh lied in speech. Here, in the cold, at the end of four hundred cuts, it could not."
+            },
+            {
+              "key": "C",
+              "label": "Spare, the Gu Long end",
+              "consequence": "Description may run spare: one exact stroke per paragraph, one-line paragraphs, white space doing the work. R48-07's steady paragraphs and R48-02's lushness relax for the scene.",
+              "sample": "The last cut. He held it at full extension until the arm shook.\n\nThen he looked at his forearm.\n\nTwo cords, wrist to elbow. A vein across them.\n\nThe yard was empty. Snow on the rail. Somewhere below, a kettle starting.\n\nFour hundred cuts since the lamps were lit.\n\nHe flexed the hand twice, and the cords moved and settled, and he put the blade away."
+            },
+            {
+              "key": "D",
+              "label": "Moves by culture and moment",
+              "consequence": "Each culture's register sets a default (Moto court and Eresse ornate, Kharven and Dawi spare, Accord plain), and any scene may go ornate at its peak and spare after it.",
+              "sample": "The Shirogane man finished his last cut at full extension and held it until the arm shook, and when he lowered the blade the forearm under his rolled sleeve was a thing a sculptor would have paid to see, the tendons drawn from wrist to elbow in two hard cords strung over the bone, a blue vein crossing them like a river crossing a plain seen from a pass. He flexed the hand twice.\n\nThe cords settled.\n\nHe put the blade away."
+            }
+          ],
+          "recommended": "D",
+          "rec_reason": "A true blend needs both ends of the scale, and tying them to culture and moment keeps either one from turning into a tic.",
+          "multi": false,
+          "depends_on": ["K1"],
+          "rules_touched": ["R48-02-DENSITY", "R49-16-MODIFIERS", "R48-06-RHYTHM_LAW", "R48-07-WHITE_SPACE"]
+        },
+        {
+          "id": "DT11",
+          "title": "Sound words",
+          "question": "Where may sound words and mimetic words be used?",
+          "context": "Onomatopoeia is ruled only for explicit scenes (Table Rule 9: 'onomatopoeia committed'); house prose turns sound into English verbs. Japanese has giongo (words that imitate a sound) and gitaigo (words for silent states: shiin is the sound of silence); Korean has the same pair. Manga sets them inside the picture; English readers often hear comic-book.",
+          "options": [
+            {
+              "key": "A",
+              "label": "Explicit scenes only (current)",
+              "consequence": "No change. Table Rule 9's onomatopoeia stays in explicit scenes; everywhere else sound becomes English verbs and nouns.",
+              "sample": "At the half hour the Seat's main was cut. The yard-hand knew it first through the soles of his boots, the steady tremor of the draw going out of the flagstones, and then the lamps on the gate-housing dropped from white to amber to nothing. The standpipe stopped ticking. The whole hill went quiet at once, house by house up the rock, until the only sound left was the horses blowing on the lines."
+            },
+            {
+              "key": "B",
+              "label": "Native mimetic words",
+              "consequence": "Each culture may coin a few mimetic words for sounds and silent states, logged to its Inventory and used unitalicized (R50-32) in narration and speech.",
+              "sample": "At the half hour the Seat's main was cut, and the yard went kiiqa. The clans had the word before they ever had a draw to lose: the stillness after a herd stops, when the ground is still ringing and nothing is making it ring. The lamps on the gate-housing dropped from white to amber to nothing. The standpipe stopped ticking. Up the rock, house by house, every room went kiiqa in its turn, and the horses on the lines began to blow."
+            },
+            {
+              "key": "C",
+              "label": "English sound paragraphs",
+              "consequence": "An English sound word may stand as its own one-line paragraph at a peak of action or a cut-off, manga-style. Used sparingly, and never in quiet scenes.",
+              "sample": "At the half hour the Seat's main was cut.\n\nThruum.\n\nThe lamps on the gate-housing dropped from white to amber to nothing. The standpipe stopped ticking. The yard-hand stood in the sudden dark with a bucket in each hand and listened to the silence run up the rock, house by house, as every room on the hill lost the hum it had lived inside since it was built."
+            },
+            {
+              "key": "D",
+              "label": "Both, by culture",
+              "consequence": "B and C together: native mimetic words where a culture has them, English sound paragraphs at action peaks. Explicit scenes keep Table Rule 9.",
+              "sample": "At the half hour the Seat's main was cut.\n\nThruum.\n\nThen the yard went kiiqa, the quiet the clans named before they ever had a draw to lose: the stillness after a herd stops, when the ground is still ringing and nothing is making it ring. The lamps on the gate-housing dropped from white to amber to nothing. Up the rock every room went kiiqa in its turn, and the horses on the lines began to blow."
+            }
+          ],
+          "recommended": "B",
+          "rec_reason": "Native mimetic words are the most Eastern of the sound tools and read as culture rather than comic-book; Kharven and Dawi native words are already free.",
+          "multi": false,
+          "depends_on": [],
+          "rules_touched": ["R50-32-ITALICS", "R51-31-SENSE_BANK"]
+        },
+        {
+          "id": "DT12",
+          "title": "Named devices to add",
+          "question": "Which of these named description devices join WOTR's kit?",
+          "context": "Each is a named device from one tradition. Tanizaki's In Praise of Shadows describes things by how they hold low light. McCarthy chains clauses with 'and' in a biblical cadence. Homer and the Chinese storytellers stop the action for a long comparison that becomes its own small scene. Ekphrasis describes a made object (a shield, a painted screen) until it opens a window.",
+          "options": [
+            {
+              "key": "A",
+              "label": "Tanizaki light and shadow",
+              "consequence": "Rooms and objects may be described by how they hold low light: lacquer, gold in the dark, oil and paper. Moto shadow and Accord draw-light become a standing contrast.",
+              "sample": "The Shirogane hall was kept off the draw at night, and the Accord envoy crossed it by brazier-light. The lacquer of the floor took the coals and gave them back from somewhere under its surface, a red so dark it read black until a step brought the fire round. At the dais the old lord was a shape and nothing more. When a servant fed the brazier, a crest in silver thread showed for a moment on his sleeve and went out again, and the envoy stopped where he stood."
+            },
+            {
+              "key": "B",
+              "label": "McCarthy's and-chain",
+              "consequence": "Polysyndeton (clauses chained with 'and') becomes a named tool for violence, travel and catastrophe, one passage per scene, inside R4-14-CHAIN_CEILING.",
+              "sample": "The Accord envoy crossed the Shirogane hall in the dark and his boots rang on the lacquer and the braziers ticked as they cooled and the retainers along both walls knelt with their hands on their knees and turned no heads, and he went on past them toward the dais where the old lord sat, and he did not slow, and the clerk behind him carried his papers in a case of oiled hide that creaked at every step. At the dais he knelt."
+            },
+            {
+              "key": "C",
+              "label": "The extended simile",
+              "consequence": "Once per set piece, a held instant may carry a long comparison that grows into its own small scene. R49-19 already allows it from the POV's life; this makes it a set-piece device.",
+              "sample": "The Accord envoy crossed the Shirogane hall toward the dais, and the retainers along both walls let him come. He walked the way a sealer walks out on spring ice once the floe has begun to talk, every step set down whole and the weight held back until the ice has answered, because a man who has heard ice go under another man never again walks anywhere without listening for it. At the dais the old lord waited. The envoy knelt."
+            },
+            {
+              "key": "D",
+              "label": "Ekphrasis, the made object",
+              "consequence": "A made object (a painted screen, a banner, an engraved gorget) may be described at length until it opens onto history or myth, carrying what the narration may not say.",
+              "sample": "The Accord envoy crossed the Shirogane hall toward the dais and the painted screen behind it. Six panels, ink and silver leaf: on the first a coast, low and white, and boats drawn up; on the second the same boats at sea in a storm drawn as one stroke of the brush; on the third a shelf of white stone and men reading it; on the last three, nothing, the silk left bare, as if the painter had been told to stop. The envoy knelt below the bare panels."
+            }
+          ],
+          "recommended": "A,C,D",
+          "rec_reason": "The and-chain is already the house's habit and needs no licence; light, the long comparison and the made object are all thin on the page today, and each widens what description reaches.",
+          "multi": true,
+          "depends_on": [],
+          "rules_touched": ["R49-19-EXTENDED", "R4-14-CHAIN_CEILING", "R48-06-RHYTHM_LAW", "R53-28-VISUAL_REFERENCE"]
+        }
+      ]
+    },
+    {
+      "key": "MY",
+      "title": "Magic, power and cultivation on the page",
+      "intro": "How a working, a breakthrough, Pressure and a power reveal read in prose. Numbers, screens and levelling pace belong to LR; the choreography of a fight belongs to CB.",
+      "questions": [
+        {
+          "id": "MY1",
+          "title": "The Stage-advance scene",
+          "question": "How should a Stage advance be written?",
+          "context": "Fracture of Worlds raises Stage only through a Catalyst (Splintering's: surviving a force more than two full Tiers above you). R9-3-SCOPE gives a Stage ascension the display register: eyes first, the body under load, one splash-panel beat (a comic's full-page image). Cultivation novels give a breakthrough a whole scene; shōnen gives it a splash; Western fantasy often keeps it off the page.",
+          "options": [
+            {
+              "key": "A",
+              "label": "One display beat (current)",
+              "consequence": "R9-3 stands: the crossing is one beat inside a larger scene, eyes first, body under load, cost after. It never gets a scene of its own.",
+              "sample": "It came on him in the yard, nine days after the thing in the culvert had put its hand through him and let him go, in the middle of the third form. The light went into his eyes from behind and took the iris and then the white, and the men at the rail stepped back. Every tendon in his sword arm stood out. Something in his chest gave, cleanly, a beam letting go under snow. Then he was on his knees in the frost, blood running from his nose, and Splintering was in him."
+            },
+            {
+              "key": "B",
+              "label": "Cultivation set piece",
+              "consequence": "The crossing is a full scene in stages: the plateau, the retreat, the Catalyst worked through, the body remade sense by sense, the Stage named, the price. One per character per arc.",
+              "sample": "He had lived through the thing in the culvert, and for nineteen days after it the crack in him had widened a hair a day and would not finish. On the twentieth he stopped holding it shut. He sat with his back to the cold-room wall and let it run where it wanted, which was along every old grief he owned, his mother's first. The Crystal broke at the Shell. Black sweat came out of him all morning, rank as a tannery, and by noon he could hear snow settle on the roof. Splintering. He had it, and it had him."
+            },
+            {
+              "key": "C",
+              "label": "Off the page, read after",
+              "consequence": "The crossing happens between scenes, and the reader learns it from after-effects: how bodies near him change, what the meter does, what he can no longer do.",
+              "sample": "He came down to the evening meal on the twentieth day and sat in his place. The steward set his bowl before him and stepped back a pace further than he had stepped back for nineteen years, without seeming to know he had done it, and the dogs under the table got up and went to the far wall. His sister put her cup down. Across the yard, the gauge on the standpipe had moved off its mark at noon and had not come back."
+            },
+            {
+              "key": "D",
+              "label": "The world answers",
+              "consequence": "The crossing is a Mystic-register event the world records: the main dips, gauges jump, beasts and people react at a distance. WOTR's version of the heavenly tribulation, with R53-17's bill at scale.",
+              "sample": "At noon on the twentieth day every gauge on the Shirogane side of the Seat jumped off its mark at once, and the draw-hum in the walls dropped half a tone and stayed there. The horses on the lines went down on their knees. In the outer town women came to their doors and stood in the snow looking up at the house, which had done nothing anyone could see. In a cold room inside it the heir had crossed into Splintering, and the whole hill had paid a little of the bill."
+            }
+          ],
+          "recommended": "B",
+          "rec_reason": "The breakthrough is the progression genre's central pleasure, and WOTR's Catalysts already make each one a story about what the character had to survive; a full scene pays that off.",
+          "multi": false,
+          "depends_on": ["K1"],
+          "rules_touched": ["R9-3-SCOPE", "R9-3-BODY_UNDER_LOAD", "R9-3-EYES_AS_TELL", "R53-17-THE_BILL"]
+        },
+        {
+          "id": "MY2",
+          "title": "Inside practice",
+          "question": "When a practitioner trains, draws or looks inward, how is the inside rendered?",
+          "context": "R13-6-WOTR_FIRST puts the Codex's nouns (Soul Crystal, Aether Shell, Attraction Layer, Essence Core) ahead of borrowed ones, and R48-22 allows real idea-names such as Stoic pneuma. Cultivation novels map an inner body of qi (vital energy), dantian (an energy centre below the navel) and meridians (its channels); Japanese practice writing stays in breath and posture.",
+          "options": [
+            {
+              "key": "A",
+              "label": "Breath and body (current)",
+              "consequence": "The inside is written as sensation, breath and posture, with Codex nouns only where the POV would think them. No inner map.",
+              "sample": "Before the first cut the carver sat on the practice stone with his mallet across his knees and breathed until the valley came into him. It arrived at the temples first, the pressure every visitor complained of, then lower, a warmth behind the breastbone that filled and filled and did not spill. He let it fill. When his hands had stopped being cold he picked up the mallet, set the chisel to the line, and struck."
+            },
+            {
+              "key": "B",
+              "label": "The Crystal as inner map",
+              "consequence": "Practice is written as a walk through the Soul Crystal in Codex nouns, layer by layer, as cultivation maps meridians: where the draw enters, where it pools, where it snags.",
+              "sample": "Before the first cut the carver sat on the practice stone and went in. The draw came through the Aether Shell at the temples, thin and cold, as it always did in this valley, and he walked it down to the Attraction Layer and felt it catch there on the old snag, the place a bad winter had left. He eased it round. Below that the Essence Core sat warm and slow. He filled it to the line he trusted and no further, opened his eyes, and struck."
+            },
+            {
+              "key": "C",
+              "label": "Cultivation words, by school",
+              "consequence": "Lineage halls and Korean-register schools may name the inside in real cultivation terms in their own language (qi and dantian; Korean gi and danjeon) as a school's lens under R48-22, with WOTR mechanism underneath.",
+              "sample": "Before the first cut the carver sat on the practice stone and breathed the way the hall in Sum-gol had taught him, nine breaths down to the danjeon and three held. The valley's gi came in at the temples, heavy here, and he walked it down the channels as his master had drawn them on oiled paper, though the Guild books called the same road the Shell and the Layer and laughed at the drawing. It pooled warm under the navel. He picked up the mallet, and struck."
+            },
+            {
+              "key": "D",
+              "label": "The inner world as place",
+              "consequence": "The inside may be a fixed symbolic place per character (a lake, a house, a road) in the Mystic register, which Stage VI's dual sight later makes literal.",
+              "sample": "Before the first cut the carver sat on the practice stone and went in, and inside was the lake it had been since his Proving: grey water under a low sky, a cedar jetty running out into it. This morning the water stood high against the piles. Where the jetty met the shore a post had cracked in the winter, and the water slid through there and went somewhere he could not follow. He watched it a while. Then he opened his eyes, and struck."
+            }
+          ],
+          "recommended": "B",
+          "rec_reason": "It is cultivation's inner map drawn in WOTR's own nouns, so description gains a whole interior subject without importing qi wholesale; C can follow for the halls once their Inventory exists.",
+          "multi": false,
+          "depends_on": [],
+          "rules_touched": ["R13-6-WOTR_FIRST", "R48-22-LENS_NAMES", "R13-6-ANIME_GRAMMAR_TRANSLATION_AID", "R49-47-STAT_WORDS"]
+        },
+        {
+          "id": "MY3",
+          "title": "Pressure and aura",
+          "question": "How should Pressure and a practitioner's aura look and feel on the page?",
+          "context": "Law writes Pressure into the body of whoever stands under it (one Stage up bends attention, two brings sweat and nausea, three drops people), and R9-3-AURA_AS_FRACTURE keeps 'It glowed' banned. Cultivation novels make aura visible and coloured by element; the manga Kingdom draws a great general as a giant looming over the men he breaks.",
+          "options": [
+            {
+              "key": "A",
+              "label": "In their bodies (current)",
+              "consequence": "No change. Pressure is physiology by Stage gap: sweat, nausea, knees, bowels. Aura appears only at a display beat, as broken geometry.",
+              "sample": "The inspector-general rode in at a walk with his suppression down, and the yard learned it in its bodies. The rider by the woodpile broke into a sweat under his hide-coat at thirty below. His stomach turned over once and settled wrong. Two of the younger men sat down in the snow without deciding to, and a horse on the lines began to scream and would not stop. Nobody looked at the man's face. Children at the Seat learned that before they learned the forearm grip."
+            },
+            {
+              "key": "B",
+              "label": "Visible, coloured aura",
+              "consequence": "Aura becomes visible to trained eyes, coloured and shaped by Family and Category, and may glow; 'It glowed' leaves the ban list. Each Family gets an aura colour in the Codex.",
+              "sample": "The inspector-general rode in at a walk with his suppression down, and anyone in the yard with a trained eye could see it on him: a pale amber haze standing a hand's width off his shoulders, brightening at the edges where the cold touched it, the colour every Fluxia practitioner the rider had ever met gave off at full draw. It glowed against the snow-light. The rider by the woodpile broke into a sweat under his hide-coat. A horse on the lines began to scream."
+            },
+            {
+              "key": "C",
+              "label": "The looming presence",
+              "consequence": "Under a large gap, a practitioner reads to the people beneath him as bigger and nearer than he is. It is perception, written in their bodies; R10-3's projected forms stay for real workings.",
+              "sample": "The inspector-general rode in at a walk with his suppression down, and the yard got smaller. To the rider by the woodpile the man looked tall as the gate, though he sat an ordinary horse, and nearer than he was, so that each step of the horse seemed to bring him a stride closer than the last. The rider's knees told him to kneel. Two of the younger men did. The rider fixed his eyes on the woodpile and counted the rows until his knees agreed to stay straight."
+            },
+            {
+              "key": "D",
+              "label": "Through the room first",
+              "consequence": "Pressure shows first in the room: smoke, frost, lamp flames, the draw-hum, animals; bodies follow. NATALIE's 'a Band gap changes weather' becomes the lead for every gap.",
+              "sample": "The inspector-general rode in at a walk with his suppression down, and the yard changed around him. The smoke over the stacks stopped leaning and stood straight up. Frost came out on the iron of the gate, white, in a ring that spread from the hinge. Every blubber lamp in the guardhouse window bent its flame toward him and held it there. The draw-hum in the standpipe climbed a note. On the lines the horses turned their tails to him all together and stood."
+            }
+          ],
+          "recommended": "C",
+          "rec_reason": "It brings the manga's looming great man while keeping Pressure as something felt, which R12-1 calls the ladder being 'felt before it is seen'.",
+          "multi": false,
+          "depends_on": [],
+          "rules_touched": ["R9-3-AURA_AS_FRACTURE", "R53-14-FOLK_KNOWLEDGE", "R12-1-PACK_SEVEN_SURVIVORS", "R10-3-PROJECTED_FORM_LICENSE"]
+        },
+        {
+          "id": "MY4",
+          "title": "Intent felt in the body",
+          "question": "Should a fighter's intent to kill be a force others can feel?",
+          "context": "No rule covers it: fighters are read through tells, and R1-1-VERDICT_GRAMMAR puts the tension in the read. Wuxia gives swordsmen sword-intent and killing intent (shaqi, 'killing air'), a will the body feels before the blade moves. Musashi split kan (perceiving intent) from ken (seeing surfaces). Western fiction reads menace in stance, eyes and breath.",
+          "options": [
+            {
+              "key": "A",
+              "label": "Tells only (current)",
+              "consequence": "No change. Intent is read off breath, weight, eyes and grip; nothing passes between bodies that a trained eye could not see.",
+              "sample": "The two men stood eight paces apart in the trodden snow and neither moved. The second watched the Shirogane man, since that was the one he had money against. His breathing had dropped low into his belly and slowed to a count of six. His weight sat on the back foot. His eyes were on the captain's chest and nowhere near the blade, and his grip had eased on the hilt the way a grip eases a moment before it means to close."
+            },
+            {
+              "key": "B",
+              "label": "Intent as aimed Pressure",
+              "consequence": "Killing intent becomes Pressure narrowed onto one man through Dominion, felt by him as cold, sweat and the pull to step back, and counterable by suppression. It needs a Codex line before first use.",
+              "sample": "The two men stood eight paces apart in the trodden snow and neither moved. Then the Shirogane man narrowed, and the second, standing off the captain's shoulder, caught the edge of it: a cold that went in at the nape and down into the bowels, aimed past him at the captain and still enough to send his own hand to his belt. The captain's breath plumed short and fast. He took half a step back before he caught himself, and the Shirogane man smiled."
+            },
+            {
+              "key": "C",
+              "label": "School word, tells shown",
+              "consequence": "Intent is a word fighters use, by school, in speech and close POV, as Musashi wrote of kan. The narration renders only tells, and the reader decides whether it is real.",
+              "sample": "The two men stood eight paces apart in the trodden snow and neither moved. 'He has put his intent on you,' the second said under his breath, the old way his fencing master had said it, and the captain's jaw tightened. Whatever it was, the second could read it in the Shirogane man: breath gone low and slow, weight back, eyes on the captain's chest and nowhere near the blade. The captain's own breath was coming short."
+            }
+          ],
+          "recommended": "B",
+          "rec_reason": "It turns wuxia's killing intent into mechanism WOTR already owns (Dominion for Pressure), so it costs something, it can be countered, and the body gains a new thing to feel.",
+          "multi": false,
+          "depends_on": [],
+          "rules_touched": ["R1-1-VERDICT_GRAMMAR", "R12-1-PACK_SEVEN_SURVIVORS", "R53-14-FOLK_KNOWLEDGE"]
+        },
+        {
+          "id": "MY5",
+          "title": "Technique names spoken aloud",
+          "question": "When should a technique's name be spoken in a fight?",
+          "context": "R8-24 lets an art carry a release call (an imperative verb plus its name) that costs a beat; R50-09 (ruled 2026-09-26) lifts any limit, though R8-26-ONE_RELEASE_PER_SCENE is still marked live. Shōnen manga names every attack aloud and Demon Slayer numbers its Forms; wuxia lets an onlooker name the form; Abercrombie names nothing.",
+          "options": [
+            {
+              "key": "A",
+              "label": "Call legal, costs a beat",
+              "consequence": "R50-09 governs and R8-26-ONE_RELEASE_PER_SCENE retires. A fighter may call an art as often as a beat allows; each call buys output and costs the beat.",
+              "sample": "The Sum-gol woman came off the line low and fast and the Shirogane man met her in the bind. She broke out of it, gave ground, gave more, and at three paces said it clearly, the way her school said it, as an order to her own hands: 'Open, Bingnyeol.' The half-second it cost her was the half-second he used. His point came through. Her answer came through harder, frost cracking up his blade to the guard, and his fingers opened on the grip."
+            },
+            {
+              "key": "B",
+              "label": "Every technique, every time",
+              "consequence": "Shōnen grammar: every technique is named aloud at use, and schools number their Forms, so a duel reads as a sequence of named moves. Each call still costs its beat.",
+              "sample": "The Sum-gol woman came off the line low and fast. 'Bingnyeol. First Form.' Her blade went in high and the Shirogane man took it in the bind. 'Second Form.' She slid off the bind under his hands and he gave ground. At three paces she set her feet. 'Third Form.' Frost cracked up his blade to the guard, and his fingers opened on the grip, and the sword went down into the snow point first."
+            },
+            {
+              "key": "C",
+              "label": "The onlooker names it",
+              "consequence": "Fighters work in silence; a knowing onlooker or the opponent names the form as it comes, wuxia-style. It counts as one of R12-4's explaining voices.",
+              "sample": "The Sum-gol woman came off the line low and fast, silent, and the Shirogane man met her in the bind. At the rail the old fencing master took his pipe out of his mouth. 'Bingnyeol,' he said, to nobody. 'The ice-crack. She'll give two steps, and then the third form.' She gave two steps. On the third she set her feet, and frost cracked up the Shirogane blade to the guard, and his fingers opened on the grip."
+            },
+            {
+              "key": "D",
+              "label": "Never spoken",
+              "consequence": "Names live in notes, documents and talk afterwards. In the fight the working is shown and never called, and R8-24's release call falls out of use.",
+              "sample": "The Sum-gol woman came off the line low and fast and the Shirogane man met her in the bind. She broke out of it, gave ground, gave more. At three paces she set her feet and her blade came round flat and fast, and a white crack of frost ran up his steel from the point to the guard, and his fingers opened on the grip before he understood his hand was cold. The sword went into the snow point first."
+            }
+          ],
+          "recommended": "A",
+          "rec_reason": "R50-09 already chose this on 2026-09-26, and the cost of a beat per call keeps named attacks fair; the stale one-per-scene row is the only thing left to clean up.",
+          "multi": false,
+          "depends_on": [],
+          "rules_touched": ["R8-24-RELEASE_MECHANIC", "R50-09-ONE_RELEASE", "R8-26-ONE_RELEASE_PER_SCENE", "R8-23-NAME_HIERARCHY", "R8-26-NO_SELF_TRANSLATION"]
+        },
+        {
+          "id": "MY6",
+          "title": "Explaining a working mid-fight",
+          "question": "How much may a fight stop to explain how a working works?",
+          "context": "R12-4 gives four explaining voices (the POV's read, a knowing second, the opponent, a document) and runs no more than two per engagement; R49-43 lets narration explain causes in the POV's terms; R4-13 bans the gloss (a sentence that only defines). Naruto and Hunter x Hunter pause a fight to lay a power's rules out whole, often in a narrator's voice-over.",
+          "options": [
+            {
+              "key": "A",
+              "label": "Two voices, no gloss",
+              "consequence": "No change. At most two explaining voices per engagement, each capped at what that mind or mouth would know, and no sentence whose only job is to define.",
+              "sample": "The raider hit the line between the posts and stopped as if he had walked into packed snow. The carver had not moved from the gate post. His palm was flat on the wood. 'Keep your hand on it, then,' the raider said, and drew his knife, 'and see what you do with the other.' He thought he had it. A ward that wanted a hand on it was a ward with one man holding it, and men tire."
+            },
+            {
+              "key": "B",
+              "label": "Every voice at first display",
+              "consequence": "At a working's first display the two-voice cap lifts: the fight may hold while every present voice says what it knows, in mouths and the POV's head. Later uses keep the cap.",
+              "sample": "The raider hit the line between the posts and stopped dead. The carver had not moved from the gate post; his palm was flat on the wood. 'It holds while I touch it,' the carver said. 'Lift my hand and you're through.' Behind the raider his partner was shouting the same from the road, he's tied to it, he's tied to the post, and the raider could see it for himself now, the glyph grooves filling with frost wherever the man's fingers lay. A ward on a leash. He drew his knife."
+            },
+            {
+              "key": "C",
+              "label": "Narrator lays out rule",
+              "consequence": "Narration may state a working's rule plainly on its own authority, Hunter x Hunter style, with figures from the card. The zero-gloss budget (R4-13, R51-15) lifts for mechanism.",
+              "sample": "The raider hit the line between the posts and stopped dead. The carver's palm was flat on the gate post. A Ketsuen perimeter ward of this cut held any body that crossed its line for as long as the carver who set it kept skin on the post, and for a breath or two after he lifted it, while the grooves drained. Its reach was the gap between two posts. It did nothing at all to a thrown knife. The raider had not been told the last part. His partner on the road had."
+            },
+            {
+              "key": "D",
+              "label": "Rules shown beforehand",
+              "consequence": "A working's rules are planted earlier (training, a document, talk), so the fight's explaining is mostly recall and the reader does the sum with the fighter. Self-derived techniques are still read live (R12-3).",
+              "sample": "The raider hit the line between the posts and stopped dead. The carver had not moved from the gate post, his palm flat on the wood, and the raider remembered the woman at the way-station laughing about it a week back: they can hold the line all night, so long as they keep a hand on the post. He looked at the hand. He looked at the knife in his belt and the space between them. Then he drew it and threw."
+            }
+          ],
+          "recommended": "D",
+          "rec_reason": "It is the LitRPG pleasure of the computable threshold in prose: the reader knows the rule before the fight and watches someone use it, the fight stays fast, and counters stay findable.",
+          "multi": false,
+          "depends_on": [],
+          "rules_touched": ["R12-4-VOICE_MIXING_RULE", "R4-13-ZERO_BUDGET", "R51-15-FIRST_USE", "R49-43-EXPLAINING", "R12-3-NAMED_INVENTOR_RULE"]
+        },
+        {
+          "id": "MY7",
+          "title": "The watching crowd at a power reveal",
+          "question": "When power shows itself in public, how do the watchers appear?",
+          "context": "R5-G lists 'the reaction-shot cutaway' as an active tell, yet R4-13 lets significance live in 'the other character's reaction', and R53-18 makes a ranked practitioner 'half a saint to ordinary people'. Cultivation novels answer a reveal with a chorus: gasps in waves, whispered names, an elder's verdict. Shōnen has the explaining spectator.",
+          "options": [
+            {
+              "key": "A",
+              "label": "Bodies in sight (current)",
+              "consequence": "No change. Watchers show only as bodies within the POV's sight and hearing, never as a cut to them and never as comment on what it meant.",
+              "sample": "The test mallet came down on the boy's post with the full weight of the Warden's arm, and the post took it, and rang, and stood. Around the fisher at the rope the crowd went still. The woman beside her had a hand over her mouth. Further down, an old carver took off his cap and held it against his chest and kept it there. Nobody cheered. The Warden looked at the post a long moment and then wrote something on the roll."
+            },
+            {
+              "key": "B",
+              "label": "Spoken chorus, in hearing",
+              "consequence": "At a reveal the crowd may speak in waves inside the POV's hearing: the breath, the name passed along, an elder's verdict. R5-G's reaction-shot tell is struck for crowds.",
+              "sample": "The test mallet came down on the boy's post with the full weight of the Warden's arm, and the post took it, and rang, and stood. Along the rope the crowd drew one breath. 'It held.' 'The Unproven's held.' 'Whose boy is that?' The name went down the rope ahead of the sound. Beside the fisher an old carver took off his cap. 'That's Dhaerin's grammar,' he said, loudly, to nobody. 'I've not seen that cut since I was younger than him.'"
+            },
+            {
+              "key": "C",
+              "label": "Marked cutaway to watchers",
+              "consequence": "The narration may leave the POV for a short marked cut across several watchers, then return. R49-09's cutaway widens from a turn's close to any reveal.",
+              "sample": "The test mallet came down on the boy's post with the full weight of the Warden's arm, and the post took it, and rang, and stood.\n\n* * *\n\nAt the rope, a fisher put her hand over her mouth. On the Academy steps two instructors who had failed the boy last season looked at each other and away. In the Archive of Provings a clerk who had heard the ring through two walls set down her pen. Far up the valley a woman cutting sap-wood straightened and listened."
+            },
+            {
+              "key": "D",
+              "label": "Told by the rumour after",
+              "consequence": "The reveal stays bare; its size shows next scene, through rumour, prices, invitations and who now uses the name. The Rumor Mill carries the chorus.",
+              "sample": "The test mallet came down on the boy's post with the full weight of the Warden's arm, and the post took it, and rang, and stood. The Warden wrote on the roll and called the next name.\n\nBy the evening meal there were three versions of it at the way-station, one with a dragon in it. The innkeeper had stopped charging the boy's mother for her broth. Two stations up the road a carver with forty years on the frontier asked a courier, twice, to say the boy's name again."
+            }
+          ],
+          "recommended": "B",
+          "rec_reason": "The crowd is the cultivation and shōnen engine of awe, and R53-18 already says ordinary people treat practitioners as half-saints; keeping the chorus inside the POV's hearing keeps the lock.",
+          "multi": false,
+          "depends_on": ["K1"],
+          "rules_touched": ["R5-G-TELL_BANK_ADDITIONS", "R5-B-MANHWA_DIRECTIVE_REPEALED", "R4-13-WHERE_SIGNIFICANCE_LIVES", "R49-09-CUTAWAYS", "R53-18-AWE"]
+        },
+        {
+          "id": "MY8",
+          "title": "How many display beats per scene",
+          "question": "How many power-display beats may one scene carry?",
+          "context": "R9-3-BODY_UNDER_LOAD licenses 'exactly one splash-panel beat per scene, at the display, never twice', and R9-3-SCOPE limits that register to Stage ascensions, Pressure drops and a technique's first display or finisher. Cultivation and shōnen fights stack escalating reveals, and a blend with frequent breakthroughs would hit the cap often.",
+          "options": [
+            {
+              "key": "A",
+              "label": "One per scene (current)",
+              "consequence": "R9-3 stands: one splash-panel beat per scene, and any second display in the same scene is written in the grounded register."
+            },
+            {
+              "key": "B",
+              "label": "One per practitioner",
+              "consequence": "Each named practitioner may take one display beat per scene, so a duel can carry two and a battle several. R9-3-SCOPE's list of triggers stays."
+            },
+            {
+              "key": "C",
+              "label": "Every trigger, by ear",
+              "consequence": "Every listed trigger (ascension, Pressure drop, first display, finisher) may take the full register, judged by ear. The cap goes."
+            },
+            {
+              "key": "D",
+              "label": "Up to three, escalating",
+              "consequence": "A scene may carry up to three display beats if each is larger than the last, shōnen escalation as structure; any fourth is written grounded."
+            }
+          ],
+          "recommended": "B",
+          "rec_reason": "A duel has two fighters and each has earned a moment; one per practitioner keeps the beat rare without silencing the second fighter.",
+          "multi": false,
+          "depends_on": [],
+          "rules_touched": ["R9-3-BODY_UNDER_LOAD", "R9-3-SCOPE"]
+        },
+        {
+          "id": "MY9",
+          "title": "Appraising an object of power",
+          "question": "When an object of power is examined and graded, how does the appraisal read?",
+          "context": "R46-2 names the item Tiers (Plain, Marked, Proofed, Tempered and up), the Holding Coil reads quality, provenance and price at once, and proof-marks are standing texture. Cultivation novels stage appraisal as a scene: the expert names grade, age, origin and use while the room reacts. LitRPG prints a tooltip; LR decides any card format.",
+          "options": [
+            {
+              "key": "A",
+              "label": "Expert's read, aloud",
+              "consequence": "The Measurewright reads it aloud in his trade's words (R48-41): marks, wear, the coil's needle, the price. The POV follows as far as his competence goes.",
+              "sample": "The Measurewright turned the cuirass over on the felt and put his glass to the proof-mark under the left arm. 'Probatum. Stannvaard stamp, the old die, before they recut the hammer.' He ran a finger round a dent over the heart. 'That's shot. Common ball, stopped clean, and the working took it.' He laid the field coil against the plate, and the needle went over and stayed. 'Proofed all through. I'd not sell it for less than the tag, and I'd not pay the tag.'"
+            },
+            {
+              "key": "B",
+              "label": "The auction set piece",
+              "consequence": "Appraisal becomes a public set piece: the appraiser announces Tier, maker, age, history and use, and the bidding is the room's reaction. About one per arc.",
+              "sample": "'Lot nine.' The Measurewright lifted the cuirass onto the stand so the lamps found it. 'Proofed, Probatum, Stannvaard stamp, the old die. Carried north through two winters. One ball stopped over the heart, there, and the wearer walked home.' He laid the field coil against the plate and turned it so the room could watch the needle go over. The bidding opened at the back, and the Greymane quartermaster, who had come for a saddle, put his hand up before he knew he meant to."
+            },
+            {
+              "key": "C",
+              "label": "The object tells its story",
+              "consequence": "The object's history is read off its marks and wear, item lore written as prose, each scratch a sentence, with the Tier arriving last as a sourced fact.",
+              "sample": "The cuirass had been made in Stannvaard under the old die, before they recut the hammer, and somebody had carried it a long way north. Salt had got into the left strap and been oiled out, twice. The dent over the heart was a ball, stopped clean; the scorch round it was the working taking the shot, so the steel underneath had never been asked. Somebody had scratched a tally of five on the inside of the backplate. Proofed, the coil said, all through."
+            }
+          ],
+          "recommended": "C",
+          "rec_reason": "It gives every object of power a history on the page, the LitRPG flavour line written as prose, and keeps the grade a sourced fact that arrives last.",
+          "multi": false,
+          "depends_on": [],
+          "rules_touched": ["R46-2-NINE_ITEM_TIERS_NAMED", "R48-41-MAGIC_TALK", "R53-30-TEXTURE_DENSITY"]
+        },
+        {
+          "id": "MY10",
+          "title": "A rite on the page",
+          "question": "When a rite is performed in a scene, how is it written?",
+          "context": "R12-6 gives every rite 'a bill of goods, an order of operations, and a list of ways it goes wrong', and R48-25 explains rites 'as plainly as a sword exchange'; in the archive rites are named, rarely shown. Lord of the Mysteries writes ritual as a recipe; Noh and the Korean shaman's gut (a sung rite) write it as performance.",
+          "options": [
+            {
+              "key": "A",
+              "label": "Inside ordinary prose (current)",
+              "consequence": "R12-6 as written: goods, steps and failure points arrive through the POV's eyes and the officiant's talk, inside ordinary paragraphs.",
+              "sample": "The Measurewright chalked the ring round the standpipe first, a full turn without lifting the chalk, because a broken ring let the residue out sideways. The apprentice held the lamp. Three oil lamps went down at the bearings, north first. Salt along the seam of the gauge-housing. Then the old man put his palm on the brass and said the Wellspring's three names, folk, true and keeper's, in that order, and they both watched the needle."
+            },
+            {
+              "key": "B",
+              "label": "Numbered rite, set apart",
+              "consequence": "The rite appears as an in-world form in the Guild's house style (R51-33), numbered and set apart; the scene then performs it, and something departs from it.",
+              "sample": "> RESEALING A DISTRICT GAUGE AFTER BREACH. Guild form, standing.\n> 1. Chalk the ring entire. A broken ring vents residue sideways.\n> 2. Three lamps at the bearings, north first.\n> 3. Salt the housing seam.\n> 4. Palm to brass. The three names, folk, true and keeper's, in that order.\n> 5. Wait for the needle. Speak only when it rests.\n\nThe Measurewright did all five. On the fifth the needle came round, and rested, and then, while the apprentice held the lamp, began to come back."
+            },
+            {
+              "key": "C",
+              "label": "Performance, procedure beneath",
+              "consequence": "The rite is written as sound, gesture and the officiant's body, Noh or the gut in Draw Age dress; the bill of goods sits in the notes and surfaces only where it fails.",
+              "sample": "The old man walked the chalk round the standpipe without lifting it, slowly, his lips moving, and the apprentice walked behind him with the lamp and kept his feet off the line. At each bearing the old man bent and set down a lamp and straightened with a hand to his back. He salted the seam. Then he laid his palm on the brass and spoke into it, low, three times, three different names, and the third came out of him in a voice the apprentice had never heard him use."
+            }
+          ],
+          "recommended": "B",
+          "rec_reason": "It is Lord of the Mysteries, WOTR's named model, and it sets a rule the scene then breaks, which R12-4 already asks of a document.",
+          "multi": false,
+          "depends_on": [],
+          "rules_touched": ["R12-6-RITUAL_SPECIFICATION", "R12-4-VOICE_FOUR_DOCUMENT", "R51-33-DOC_REGISTER", "R48-25-AWE"]
+        },
+        {
+          "id": "MY11",
+          "title": "How much of the world's magic is shown",
+          "question": "Should what the world does by itself (Wellsprings, sites, the dead, the Veil) be shown as plainly as what people do?",
+          "context": "R12-2 splits the Technical Register (what a person chooses) from the Mystic (what was running before anyone noticed); R48-25 (ruled 2026-09-26) asks for 'Clarity everywhere', which this reopens. Japanese yūgen is the beauty of the half-seen; xianxia states the heavenly dao (the cosmic way) as law; Lord of the Mysteries states rules and keeps their reasons.",
+          "options": [
+            {
+              "key": "A",
+              "label": "Clarity everywhere (current)",
+              "consequence": "R48-25 stands: sites, rites and the Veil are explained as plainly as a sword exchange, in mechanism where it exists and stated law where it does not.",
+              "sample": "The hunter reached the Core at the hour the clans said it woke, and waited at the cairn. Worked sites recharged, and this one had been drawn hard all autumn by the Seat's licence-men and was filling again from below, the way a spring fills a cut well. The Aether over it thickened until his breath came slow. Snow on the cairn went to water and froze again. In the middle of the hollow the air shook, steadily, at a pitch he felt in his teeth."
+            },
+            {
+              "key": "B",
+              "label": "Law stated, reasons kept",
+              "consequence": "What the world does is given the way Lord of the Mysteries gives it: rules in the imperative, prices as prices, taboos unexplained. What people do keeps full mechanism.",
+              "sample": "The hunter reached the Core at the hour the clans said it woke, and waited at the cairn. You do not step into the hollow while it fills. You do not speak your name over it. You leave the first meat on the cairn and take none back, and if the meat is gone in the morning you do not ask where. He knew the rules the way he knew the cold. The air over the hollow shook at a pitch he felt in his teeth, and he kept his name in his mouth."
+            },
+            {
+              "key": "C",
+              "label": "Half-shown, yūgen",
+              "consequence": "For what the world does on its own, description may stop at a partial sight, a sound, a change in the snow, with no account. People's workings stay fully explained.",
+              "sample": "The hunter reached the Core at the hour the clans said it woke, and waited at the cairn. Snow was falling into the hollow and not reaching the bottom. He watched that for a long time. Once, near midnight, something at the centre of the hollow moved the way a deep fish moves under ice, a slow turning of the dark, and then there was only the snow again, falling, and not arriving."
+            }
+          ],
+          "recommended": "B",
+          "rec_reason": "Stated law keeps the world legible, which LitRPG readers want, and leaves the why under the surface, which R47-12 already protects.",
+          "multi": false,
+          "depends_on": [],
+          "rules_touched": ["R12-2-MYSTIC_REGISTER_DEF", "R48-25-AWE", "R48-10-MIXING", "R47-12-MYSTERY_STAYS_OPEN"]
+        }
+      ]
+    }
+  ],
+  "settled": [
+    {
+      "point": "Every working costs something visible in the body.",
+      "rule_ids": ["R12-1-PACK_SEVEN_SURVIVORS", "R48-37-COST_SHOWN"],
+      "why_not_asked": "Live law decides it, and cultivation and LitRPG both price power too, so the blend gives no reason to reopen it."
+    },
+    {
+      "point": "No figure on the page is invented.",
+      "rule_ids": ["R12-5-NEVER_INVENT_NUMBER", "R14-6-NUMBERS_GREP"],
+      "why_not_asked": "Absolute in law; the form numbers take on the page is LR's question."
+    },
+    {
+      "point": "Stat names, Grades, Stages and EU figures in narration.",
+      "rule_ids": ["R49-47-STAT_WORDS", "R51-16-OLD_BANS_FALL"],
+      "why_not_asked": "Already free since 2026-09-26; screens and frequency are LR's. NATALIE.md's Magic Frame line ('names only in a mouth...') is stale and should be rewritten to match."
+    },
+    {
+      "point": "The three-layer account (Aether, Wellspring, Essence) at a working's first display and finisher.",
+      "rule_ids": ["R48-20-STRATA", "R13-2-THREE_STRATA_MANDATE"],
+      "why_not_asked": "It governs how much mechanism appears, which the blend does not change; MY asks only how that mechanism sounds."
+    },
+    {
+      "point": "A faculty as the grammatical subject (the Eastern eye-technique convention).",
+      "rule_ids": ["R54-21-FACULTY_AS_SUBJECT", "R6-2-FACULTY_NEVER_SUBJECT"],
+      "why_not_asked": "R54-21 already allows it inside a close register; R6-2 is the older row and should be marked as narrowed by it."
+    },
+    {
+      "point": "Real idea-names from Earth's traditions in scenes.",
+      "rule_ids": ["R48-22-LENS_NAMES"],
+      "why_not_asked": "Already legal anywhere they fit; MY2 asks only whether cultivation words become a school's own register."
+    },
+    {
+      "point": "Elegy attaches to a named concrete thing that is gone.",
+      "rule_ids": ["R5-C2-ELEGY_CONCRETE_THING", "R53-31-GONE_LIST", "R49-24-ELEGY"],
+      "why_not_asked": "Mono no aware and han already fit it; the Gone lists supply the objects."
+    },
+    {
+      "point": "Chants appear in their own language.",
+      "rule_ids": ["R51-28-CHANT_PAGE"],
+      "why_not_asked": "DT8 covers verse; chants stay as ruled."
+    },
+    {
+      "point": "Similes have no rate; only two competing over one beat are flagged.",
+      "rule_ids": ["R49-18-SIMILE_COUNT", "R49-19-EXTENDED"],
+      "why_not_asked": "Live law already allows the long comparison; DT12 asks only whether it becomes a named set-piece device."
+    },
+    {
+      "point": "Folk beliefs about magic stand uncorrected by the narration.",
+      "rule_ids": ["R53-15-FOLK_BELIEFS", "R53-14-FOLK_KNOWLEDGE"],
+      "why_not_asked": "Live law, and it suits every option in MY11; commoners keep their folk words whatever the register."
+    },
+    {
+      "point": "The one-release-per-scene row.",
+      "rule_ids": ["R8-26-ONE_RELEASE_PER_SCENE", "R50-09-ONE_RELEASE"],
+      "why_not_asked": "R50-09 (2026-09-26) already lifted the limit; the older row is stale whatever MY5 decides and should be marked superseded."
+    }
+  ]
+}

@@ -1484,7 +1484,8 @@ the author notes."
 **Quotes:** decisions.md: "the planned book's rule that no file names Malphas binds the Papers too." · RULINGS: "Malphas signs the Necrocursica in his own name, Malphas." · decisions.md: "every Codex and Papers citation changes." · fixes.md: "'Noxinus Ren' at L23, L41, L75, L175 and L255 becomes Malphas" · Volume the Second: "Malphas is my example, and I name him" · Volume the Second: "A fair copy of this volume goes to Malphas, who let me read his."
 **Consequence if unresolved:** No Night Watch file can cite the Necrocursica by its author or hold the Codex as an exhibit without breaking the rule, and the sealed edition's own title page names him.
 **Recommendation:** none.
-**Status:** open
+**Status:** ruled 2026-10-04 (RULINGS.md "mystery-law-2026-10-04", answer 25, MY15): option A, title only, everywhere. The strict reading the published Papers already take is the one kept.
+**Addendum, 2026-10-04:** ruled 2026-10-04 (RULINGS.md, mystery-law-2026-10-04, answer 25, MY15), whose preamble names this row: "MY15 rules CONFLICTS C-125." The rule is R74-25-NAMING_MALPHAS_IN_FILE (`rules/doc-mystery-law-2026-10-04.yaml`, as the preamble names it; the R74 merge is held), on the question "May a Night Watch file name Malphas, now that he signs the Necrocursica in his own name?" Isaac's words: "Title only, everywhere. No Watch file names him; he is filed by his title at his own written request, and named volumes are read at the desk, never copied in. The Papers stand." Rules touched: R61-62-PAPERS_AUTHOR_NIGHT_WATCH, R61-49-NECROCURSICA_SIGNED_MALPHAS.
 
 ## C-126 — The Volume II ratification gave the Volitional Trace's finding to Draycott (R65-10); ST3 gives the credit in layers (R61-13)
 

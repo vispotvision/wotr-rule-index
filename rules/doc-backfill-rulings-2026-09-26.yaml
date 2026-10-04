@@ -241,7 +241,10 @@ rules:
   source:
     file: ''
     lines: null
-  notes: Overlaps R48-36-NPC_WITS (NPC side only); this row adds the writer-side and never-rigged halves.
+  notes: 'Overlaps R48-36-NPC_WITS (NPC side only); this row adds the writer-side and never-rigged halves.
+    Extended by R74-2-FAIRPLAY_TERMS (mystery law 2026-10-04): ''R57-10''s ban on rigging made a procedure'':
+    in every mystery, written or played, the truth (who, how, why) is written in the notes before the
+    first clue is placed and never moves to fit a guess. The ban itself stands as written.'
 - id: R57-11-MECHANISM_IS_EFFECT
   pack: Rulings Backfill 2026-09-26
   pack_number: null

@@ -251,7 +251,10 @@ rules:
     D); how far a turn runs is R71-5-ROLEPLAY_TURNS_AGAINST_WRITTEN. Extended by R72-6-WORLD_WRITES_HIM
     (table law 2026-10-04): carried outside fights, his involuntary responses land on his body as facts,
     as wounds do under this row, and in talk and investigation Natalie lays the tells and never draws
-    his conclusion, the deduction being his post.'
+    his conclusion, the deduction being his post. Extended by R74-28-FEAR_IN_PC (mystery law 2026-10-04):
+    at a horror, outside a fight too, where a field, Pressure, a working, the cold or a sudden shock acts
+    on his body, its signs are written as world facts, as a wound is under this row; what he feels about
+    them and does stays his. This row stands.'
 - id: R71-7-READER_SEES_CALL
   pack: Combat Law 2026-10-04
   pack_number: null
@@ -822,9 +825,11 @@ rules:
   source:
     file: ''
     lines: null
-  notes: CW13. Gallows wit as the only joke inside the danger is already R70-116-COMEDY_BESIDE_DANGER's
+  notes: 'CW13. Gallows wit as the only joke inside the danger is already R70-116-COMEDY_BESIDE_DANGER''s
     line, and R5-D-HUMOUR_PERMITTED stands. R12-4-VOICE_THREE_OPPONENT (contempt as instruction) stands
-    beside it. R70-113-DOUBLE_ACT_COMIC_BEAT and R48-43-SPEECHES are unchanged.
+    beside it. R70-113-DOUBLE_ACT_COMIC_BEAT and R48-43-SPEECHES are unchanged. Extended by R74-13-INTERROGATION
+    (mystery law 2026-10-04): ''R71-22''s accounting extends past fights'': in a questioning each question
+    aims at a tell and the page shows what it bought or cost. Inside a fight this rule stands as written.'
 - id: R71-23-TELL_READ
   pack: Combat Law 2026-10-04
   pack_number: null
@@ -1096,7 +1101,11 @@ rules:
     the words limit the reopening to held reveals; R70-71-EXPLAINING_WORKING_MID_FIGHT still plants a
     working''s rules beforehand everywhere else. The planted evidence is the foreshadowing R48-30-SURPRISES
     asks for, so that row stands and is met. R12-4-VOICE_MIXING_RULE''s two-voice cap binds the telling
-    at the reveal; R12-3-NAMED_INVENTOR_RULE''s live read of a self-derived technique stands.'
+    at the reveal; R12-3-NAMED_INVENTOR_RULE''s live read of a self-derived technique stands. Extended
+    by R74-2-FAIRPLAY_TERMS (mystery law 2026-10-04): ''one that falsifies perception is planted (R71-30)
+    or barred'': this fight rule now reaches a case''s solution, so a working that falsifies perception
+    is planted as a held reveal is, its signs listed in the notes, or it is barred, and no working is
+    invented to solve a case. Held reveals in fights stand as written.'
 - id: R71-31-COUNTERS_DUEL_SCALE
   pack: Combat Law 2026-10-04
   pack_number: null
@@ -1875,7 +1884,10 @@ rules:
     marked break, each half POV-locked. Uses R49-09-CUTAWAYS for the shooter''s half in roleplay; that
     row stands. R48-30-SURPRISES (foreshadowing a player could have caught) is not named and stands. R11-3-BALLISTICS_RULING,
     R11-3-AMMO_TIERS and R45-5-PAID_PER_SHOT_AND_FINDABLE are not changed. Options A (the target alone,
-    tell planted) and B (the shooter alone) were not taken.'
+    tell planted) and B (the shooter alone) were not taken. Partly amended by R74-7-CUTTING_AWAY_INSIDE_CASE
+    (mystery law 2026-10-04): when the ambush belongs to a case his PC works, the shooter''s half played
+    as a turn''s closing cutaway shows the hand and the deed, never his face or name, and never the answer.
+    The split at a marked break stands, and outside a case the rule stands as written.'
 - id: R71-53-BRAWLS_FOLK_SCHOOLS
   pack: Combat Law 2026-10-04
   pack_number: null
@@ -2865,7 +2877,12 @@ rules:
     these figures sit outside R70-86-MANY_READOUTS_SCENE_CARRIES''s cap, as that row''s note already reads
     it (the cap names readouts, not figures in a mouth); the cap is unchanged (note filed there). R48-16-REAL_FIGURES
     and R61-112-AUTHORS_STATE_INSTRUMENT_FIGURES stand; the investigator is R61-62-PAPERS_AUTHOR_NIGHT_WATCH''s.
-    Option B (field-book lines set in, the notebook form of R70-67-FORMS_WORLD_DOCUMENTS) was not taken.'
+    Option B (field-book lines set in, the notebook form of R70-67-FORMS_WORLD_DOCUMENTS) was not taken.
+    Extended by R74-12-REST_OF_WATCH_SEARCH (mystery law 2026-10-04): ''As A, and the search closes on
+    its docket line set off from the prose'': its protocol as action now reaches every Night Watch search,
+    rooms, bodies and seals playing step by step as action, figures in a mouth, nothing summarised, and
+    the search closes on its docket line set off from the prose. Its figures outside R70-86-MANY_READOUTS_SCENE_CARRIES''s
+    cap and the instruments'' contradiction as the turn stand.'
 - id: R71-82-CORRUPTION_SHOWN_BODY
   pack: Combat Law 2026-10-04
   pack_number: null
@@ -3615,7 +3632,11 @@ rules:
     clocks are R61-7-RESIDUES_ON_TWO_CLOCKS''. Extends R53-11-JUSTICE: a killer who does not declare before
     witnesses by the next dawn is a murderer in every culture that keeps witnesses, Kharven and Korvaeth
     first; read with the law field of R70-45-NEW_STANDING_INVENTORY_FIELDS. Not taken: option B, standing
-    buys terms (a Guild or company warrant turning a practitioner''s killing into a clerk''s entry).'
+    buys terms (a Guild or company warrant turning a practitioner''s killing into a clerk''s entry). Partly
+    amended by R74-42-WHEN_PROCESS_BOUGHT (mystery law 2026-10-04): courts and files can be bought, lost
+    or sealed, so a corruption may hold against proof until its trail is found; every corruption leaves
+    a findable trail (a payment, a hand, a gap in a numbered series), and finding it reopens the case.
+    The court fight and the declaration by dawn stand.'
 - id: R71-102-WHERE_COMBAT_LAW_LANDS
   pack: Combat Law 2026-10-04
   pack_number: null

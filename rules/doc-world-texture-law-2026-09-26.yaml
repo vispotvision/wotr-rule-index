@@ -415,7 +415,14 @@ rules:
     file: ''
     lines: null
   notes: 'Kept by R70-67-FORMS_WORLD_DOCUMENTS (style law 2026-10-03): a record of the strange
-    leaves folk belief uncorrected.'
+    leaves folk belief uncorrected.
+    Extended by R74-17-HOW_WITNESSES_ERR (mystery law 2026-10-04): ''Errors come by either road'':
+    this row reaches testimony, so a witness may misread by his culture''s folk belief, and his
+    honest error is logged on the roster under ''errs about'' beside ''lied about'' and owes no
+    liar''s tell. The row stands. Extended by R74-30-DEAD_FOLK_BELIEF (mystery law 2026-10-04): when
+    a folk belief about the dead meets the dead, events may show where it holds and where it fails,
+    each traced in the notes to canon mechanism; the people keep their reading, and the narration
+    still never corrects them. This row stands.'
 - id: R53-16-GUILD_WORDS
   pack: World Texture Law 2026-09-26
   pack_number: null

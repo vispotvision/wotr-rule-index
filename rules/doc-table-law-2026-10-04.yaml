@@ -255,7 +255,10 @@ rules:
     an NPC plotting''): the cut now shows the act and its actor and keeps the reason, as R70-76-MUCH_WORLD_MAGIC
     keeps the world''s reasons. R71-52-AMBUSH_NAMED_ROUND''s shooter half works as written. A Front''s
     tick may surface as a marked cutaway (R72-21-FRONT_SIGNS_SEEN). Table Rule 6 (the read is the game)
-    and the iceberg hold, and R48-48-EXPLAIN is not changed. A cut inside a case is the mystery questionnaire''s.'
+    and the iceberg hold, and R48-48-EXPLAIN is not changed. A cut inside a case is the mystery questionnaire''s.
+    Partly amended by R74-7-CUTTING_AWAY_INSIDE_CASE (mystery law 2026-10-04): inside a case his PC works,
+    the cut shows the act (a hand, a room, a deed) but never the actor''s face or name, and never the
+    answer. Outside a case the cut still shows who acts and what they do, reason kept.'
 - id: R72-8-OPENING_TURN
   pack: Table Law 2026-10-04
   pack_number: null

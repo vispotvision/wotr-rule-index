@@ -44,7 +44,10 @@ rules:
     Partly amended by R73-19-YOUR_CHARACTER_IN_BED (intimacy law 2026-10-04): in an explicit
     roleplay scene contact, position and what the partner does to Isaac''s character are world facts
     once his post sets the act, and ''his arousal, pleasure, pain and climax, and how he bears them,
-    stay yours'': the narration does not write them for him.'
+    stay yours'': the narration does not write them for him.
+    Partly amended by R74-28-FEAR_IN_PC (mystery law 2026-10-04): at a horror, the signs a field,
+    Pressure, a working, the cold or a sudden shock puts in his body are written as world facts, and
+    what he feels about them and does stays his; Isaac still overrules any thought that is not his.'
 - id: R49-02-TENSE
   pack: Prose Law 2026-09-26
   pack_number: null
@@ -250,7 +253,10 @@ rules:
     2026-10-03): a crowd''s chorus at a reveal stays inside the POV''s hearing and is not a cutaway; this
     rule stands.
     Partly amended by R72-7-CUTAWAY_SHOWS (table law 2026-10-04): the cut shows who acts and what
-    they do and keeps the reason, so the player sees the move and his PC still has to read the why.'
+    they do and keeps the reason, so the player sees the move and his PC still has to read the why.
+    Partly amended by R74-7-CUTTING_AWAY_INSIDE_CASE (mystery law 2026-10-04): while his PC works a
+    case, a closing cut to the other side shows it moving (a hand, a room, a deed) and may carry a
+    clue, but never a face, a name or the answer. Outside a case this rule stands.'
 - id: R49-10-EPITHETS
   pack: Prose Law 2026-09-26
   pack_number: null
@@ -305,7 +311,11 @@ rules:
     lines: null
   notes: 'Question p11: Scenes now explain Wellsprings and rites plainly, yet every scene still owes one
     thing the POV notices and cannot interpret, and one confident wrong inference left standing. Keep
-    both quotas?'
+    both quotas?
+    Extended by R74-19-THING_LEFT_UNEXPLAINED (mystery law 2026-10-04): ''R49-11 carried to the
+    table'': no count is owed in roleplay turns either, so Table Rule 8''s one a turn is gone; at
+    the table an unexplained notice comes when a scene has one worth leaving, and the notes mark
+    each one texture or seed. The row stands.'
 - id: R49-12-SHORT_FLOOR
   pack: Prose Law 2026-09-26
   pack_number: null
@@ -733,7 +743,11 @@ rules:
     body, clothes and wear, marks). Should it land all at once? Partly amended by R70-54-GETS_FULL_INVENTORY
     (style law 2026-10-03): the full inventory now reaches places, rooms, creatures and significant objects,
     and minor people get one exact stroke. R70-55-ORDER_FIRST_INVENTORY keeps the one passage but runs
-    it in the POV''s order; R70-50-BODIES_AFTER_FIRST_SIGHT adds one changed detail on each return.'
+    it in the POV''s order; R70-50-BODIES_AFTER_FIRST_SIGHT adds one changed detail on each return.
+    Partly amended by R74-27-THING_SEEN (mystery law 2026-10-04): a horror''s first introduction is
+    half-seen, effects and outline through the room and the bodies, and its full inventory lands
+    when the thing is understood, appraised or fought, not all at first sight. Every other first
+    introduction stands as written.'
 - id: R49-29-TURN_FILL
   pack: Prose Law 2026-09-26
   pack_number: null

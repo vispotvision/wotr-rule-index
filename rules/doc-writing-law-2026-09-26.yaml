@@ -783,7 +783,13 @@ rules:
     file: ''
     lines: null
   notes: 'Question w30: How big can the partner''s surprises be without warning (a betrayal,
-    an ambush, a death)?'
+    an ambush, a death)?
+    Partly amended by R74-36-FEINTS_WITHIN_FEINTS (mystery law 2026-10-04): a scheme may nest as
+    deep as its faction can afford, and every layer leaves at least one sign a player could catch
+    before that layer turns, so the foreshadowing is owed layer by layer. Partly amended by
+    R74-37-BETRAYAL_TRUSTED (mystery law 2026-10-04): for a betrayal the foreshadowing is the signs
+    shown twice before the turn, on R71-23-TELL_READ''s rhythm, and the thread''s standing warm bond
+    never betrays by choice.'
 - id: R48-31-STAKES
   pack: Writing Law 2026-09-26
   pack_number: null
@@ -904,7 +910,11 @@ rules:
     killers and an elegiac image for a POV whose culture mourns that way.
     Partly amended by R71-86-REVENANT_FIGHT (combat law 2026-10-04): a revenant''s wounds are
     written by structure with no blood-loss class, so no blood loss is tracked for it. Full clinical
-    gore and named anatomy stand.'
+    gore and named anatomy stand.
+    Partly amended by R74-33-BODY_HORROR_OUTSIDE_FIGHT (mystery law 2026-10-04): "R48-34 extends to
+    horror", so body horror outside a fight is written the same way: anatomy named, colour, texture
+    and the absent smell, nothing looked away from, in the POV''s flat, exact eye, and documents may
+    carry it too. Wounds stand as written.'
 - id: R48-35-USES
   pack: Writing Law 2026-09-26
   pack_number: null
@@ -1123,7 +1133,11 @@ rules:
     Partly amended by R72-25-HOW_MANY_LIES (table law 2026-10-04): ''many NPCs lie'' gains a floor,
     so every roster NPC with a want carries at least one live lie, told when it serves them and
     logged with its tell; the player still has to catch them. Table Rule 8 (NATALIE.md text, no
-    indexed row) folds into R72-25-HOW_MANY_LIES and is retired.'
+    indexed row) folds into R72-25-HOW_MANY_LIES and is retired.
+    Partly amended by R74-5-WHAT_CATCHING_LIE_IS (mystery law 2026-10-04): ''the player has to catch
+    them'' now means his PC catching them: a lie is caught when his PC acts on the truth or names
+    the lie in play, and Isaac spotting it in chat changes nothing in the world until his PC moves.
+    Frequent lies stand.'
 - id: R48-43-SPEECHES
   pack: Writing Law 2026-09-26
   pack_number: null

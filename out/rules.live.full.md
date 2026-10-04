@@ -1,8 +1,8 @@
 # Live rules by domain, with source text
 
-1449 live of 1641 extracted. Newest pack first within each domain; the newer rule governs where two overlap.
+1495 live of 1687 extracted. Newest pack first within each domain; the newer rule governs where two overlap.
 
-## adjudication (133)
+## adjudication (145)
 
 ### R15-4-THIRTEEN_HAX_STRUCK [Pack Fifteen §4]
 
@@ -609,6 +609,78 @@ The Accord executes only its own sworn members; in the New World it is the law.
 Dissonance Sub-Stats per C-013: Overflow, Overchannel, Persistence.
 
 > Closed by the existing C-013 ruling of 2026-09-13: the Sub-Stats that reach their true ceiling only through Dissonance are Overflow, Overchannel and Persistence.
+
+### R74-4-WHAT_KNOWING_COSTS [Mystery Law 2026-10-04 K4]
+
+Knowledge is dangerous through who notices that Isaac's PC knows (the Gate punishing unlicensed knowledge, the Mother reading the Watch's inserts, a witness becoming a target); every secret learned opens a Ledger line on who knows he knows; and a few records held in objects (Mnemata) act on whoever touches them through canon mechanism, priced by Resilience with the counter named in the notes and no invented figure.
+
+> Records that act. B, plus a few records act on whoever touches them through canon mechanism (Mnemata, records held in objects, R61-70), priced by Resilience with the counter named in the notes. No invented figure.
+
+### R74-6-FINDING_CLUES_AT_TABLE [Mystery Law 2026-10-04 K6]
+
+When Isaac's PC searches, each conclusion's core clue comes to any sensible look, and the further clues that sharpen it, speed it or name the purse (who paid) come only to the right question or instrument.
+
+> Core found, extras earned. Each conclusion's core clue comes to any sensible look; the further clues that sharpen it, speed it or name the purse (who paid) come only to the right question or instrument.
+
+### R74-11-WHEN_CLUES_MISSED [Mystery Law 2026-10-04 MY4]
+
+When a case's clues go unread, its Front ticks and a costlier road opens, each miss spending something (a witness, a Trace read once, a life), so the case stays solvable and the delay shows on the Ledger.
+
+> Both, at a price. The Front ticks and a costlier road opens: each miss spends something (a witness, a Trace read once, a life), so the case stays solvable and the delay shows on the Ledger.
+
+### R74-20-WHAT_INSTRUMENTS_PROVE [Mystery Law 2026-10-04 MY11]
+
+A sound instrument prints true, and a case lives in what one was not built to read (below its floor, behind a ward, or asked the wrong question), the notes saying which.
+
+> Never lies, may miss. A sound instrument prints true. A case lives in what one was not built to read: below its floor, behind a ward, or asked the wrong question. The notes say which.
+
+### R74-24-RIVAL_ON_CASE [Mystery Law 2026-10-04 MY18]
+
+An NPC working the same case as Isaac's PC voices his own confident, often wrong theories, a right one spoken only after the PC has held every clue it rests on, and runs the case as a Front that may close it first, right or wrong, from clues the page has shown, a wrong close able to hang an innocent and a right one taking the credit and the fee.
+
+> A rival on his own clock. B, and an NPC on the same case runs it as a Front and may close it first, right or wrong, from clues the page has shown; a wrong close can hang an innocent, a right one takes the credit and the fee.
+
+### R74-29-WHAT_HORROR_LEAVES [Mystery Law 2026-10-04 HO4]
+
+A seen horror may leave one Ledger mark with a due condition that fades on its clock, and a mark struck again before it fades deepens to a standing condition with a named counter (rest, a person, a rite), fraying by stages with no meter and no number.
+
+> Marks that compound. B, and a mark struck again before it fades deepens to a standing condition with a named counter (rest, a person, a rite): fraying by stages, still no meter and no number.
+
+### R74-35-WHAT_TURNS_COUNCIL [Mystery Law 2026-10-04 IN1]
+
+By default a council or court scene turns on arithmetic or paper (a date that does not fit, a column, a seal) found on the page where a player could find it first, and speech and reads colour the turn.
+
+> The dated fact. The turn is arithmetic or paper: a date that does not fit, a column, a seal, found on the page where a player could find it first. Speech and reads colour it.
+
+### R74-36-FEINTS_WITHIN_FEINTS [Mystery Law 2026-10-04 IN2]
+
+A scheme may nest as deep as its faction can afford, and every layer leaves at least one sign a player could catch before that layer turns.
+
+> Any depth, each planted. Schemes nest as deep as the faction can afford, and every layer leaves at least one sign a player could catch before that layer turns.
+
+### R74-37-BETRAYAL_TRUSTED [Mystery Law 2026-10-04 IN3]
+
+The thread's standing warm bond never betrays by choice, and anyone else may betray only with the signs shown twice before the turn.
+
+> The warm bond is safe. The thread's standing warm bond never betrays by choice; anyone else may, with the signs shown twice before the turn (R71-23's rhythm).
+
+### R74-38-LEVERAGE_BLACKMAIL [Mystery Law 2026-10-04 IN4]
+
+A secret works as leverage while it stays unspoken and breaks when spoken openly, opening the victim's Front against whoever spoke it, and every held secret is also a Ledger risk against its holder: someone wants the secret, or the man who holds it, gone.
+
+> Held, it marks the holder. As B, and every held secret is also a Ledger risk against its holder, on the same line as K4's B: someone wants the secret, or the man who holds it, gone.
+
+### R74-40-ONE_MAN_TWO_FACES [Mystery Law 2026-10-04 IN8]
+
+When an NPC lives two lives, at least one link between the faces (a shared habit or a link in the record) is planted before the unmasking, and a face held by a working has its Codex line and leaks a seam, as an impression-body does.
+
+> Either road; masks leak. A or B, at least one link planted before the unmasking; a face held by a working has its Codex line and leaks a seam, as an impression-body (a dead man's likeness worked from his Trace) does under R71-87.
+
+### R74-42-WHEN_PROCESS_BOUGHT [Mystery Law 2026-10-04 IN7]
+
+Courts and files can be bought, lost or sealed, and every such corruption leaves a findable trail (a payment, a hand, a gap in a numbered series) whose finding reopens the case.
+
+> Bought, with a trail. Courts and files can be bought, lost or sealed, and every corruption leaves a findable trail (a payment, a hand, a gap in a numbered series), as R71-84 makes forgeries; finding it reopens the case.
 
 ### R54-8-UNMEASURED_FROM_ZENITH [Queue Questionnaire 2026-09-26 WAR-142]
 
@@ -2199,7 +2271,7 @@ Room casting is by ear: the partner casts for the scene and fixes voice likeness
 
 > Room casting is by ear: the partner casts for the scene and fixes voice likeness only when the swap test fails.
 
-## codex (116)
+## codex (118)
 
 ### R20C-41-CHANTCRAFT_FIFTH_CRAFT [Pack Twenty R20C-41]
 
@@ -2812,6 +2884,18 @@ Viaforma gains Via Fati for the Fate Path.
 Part Five · Prose Application is lifted out of the Revelation cell.
 
 > The Color of Essence's Revelation cell is restored to its own sentence and the block pasted inside it is lifted out as "Part Five · Prose Application" after Part Four, the same words re-homed; Limina's absence is left visible as a gap rather than papered over.
+
+### R74-2-FAIRPLAY_TERMS [Mystery Law 2026-10-04 K2]
+
+Every mystery, written or played, rests its solution only on what the reader or player was shown, a clue the investigator held and the page withheld voiding it and the notes listing every clue used; any working in the solution has a Codex line and its rule acted on the page first, none is invented to solve the case, and one that falsifies perception is planted as a held reveal or barred; the truth (who, how, why) is written in the notes before the first clue is placed and never moves to fit a guess; and a book marks the point where every clue is on the page, as a chapter-head line or a set-off notice, before the solution.
+
+> Yes to: Nothing unseen (The solution rests only on what the reader or player was shown. A clue the investigator held and the page withheld voids the solution; the notes list every clue used); Codex-backed solutions (Any working in a solution has a Codex line and its rule acted on the page first. No working is invented to solve a case; one that falsifies perception is planted (R71-30) or barred); Sealed solution (The truth (who, how, why) is written in the notes before the first clue is placed and never moves to fit a guess: R57-10's ban on rigging made a procedure); A challenge mark (Ellery Queen's device: a book marks the point where every clue is on the page, as a chapter-head line or a set-off notice, before the solution).
+
+### R74-40-ONE_MAN_TWO_FACES [Mystery Law 2026-10-04 IN8]
+
+When an NPC lives two lives, at least one link between the faces (a shared habit or a link in the record) is planted before the unmasking, and a face held by a working has its Codex line and leaks a seam, as an impression-body does.
+
+> Either road; masks leak. A or B, at least one link planted before the unmasking; a face held by a working has its Codex line and leaks a seam, as an impression-body (a dead man's likeness worked from his Trace) does under R71-87.
 
 ### R69-3-RESIDUES_TWO_CLOCKS [The Necrocursica Ratification 2026-09-28 necro 3]
 
@@ -4099,7 +4183,7 @@ Every duel ends with a full aftermath beat: wounds dressed, what changed between
 
 > Every duel ends with a full aftermath beat: wounds dressed, what changed between people.
 
-## dialogue (191)
+## dialogue (199)
 
 ### R20C-36-CLEARLY_WINS [Pack Twenty R20C-36]
 
@@ -4484,6 +4568,54 @@ Mahuo courtship is a verse exchange in which the suitor's three lines are answer
 A Dawi match is made backward, with no betrothal, by entering in the Tally in metre the acts the pair have already done for each other, the entry being the marriage, and courtship is 'Kurlo' said alone between two people with the 'Ei kurme' that would end a bargain left off, a thing unbegun and not refused.
 
 > Yes to: Entered, never promised (A Dawi match is made backward: the acts already done for each other are entered in the Tally in metre, and the entry is the marriage. There is no betrothal); Kurlo, the refusal unsaid (Courtship is 'Kurlo' said alone between two people, with the 'Ei kurme' that would end a bargain left off: a thing unbegun and not refused, the nearest the tongue comes to hope).
+
+### R74-5-WHAT_CATCHING_LIE_IS [Mystery Law 2026-10-04 K5]
+
+An NPC's lie counts as caught only when Isaac's PC acts on the truth or names the lie in play, and Isaac spotting it in chat changes nothing in the world until his PC moves.
+
+> His PC acts on it. Caught when his PC acts on the truth or names the lie in play. Isaac spotting it in chat changes nothing in the world until his PC moves.
+
+### R74-13-INTERROGATION [Mystery Law 2026-10-04 MY6]
+
+When a witness is questioned, each question aims at a tell and the page shows what it bought or cost, the accounting of talk inside a fight carried past fights.
+
+> A duel of tells. R71-22's accounting extends past fights: each question aims at a tell, and the page shows what it bought or cost.
+
+### R74-14-TRUE_WORDS_THAT_DECEIVE [Mystery Law 2026-10-04 MY16]
+
+A true sentence built to deceive owes no body tell, since its deceit lives in what it leaves out, and the page carries a fact that turns its meaning where a careful player can line it up, the notes naming that fact.
+
+> The fact is the tell. No body tell, since the speaker tells the truth; the deceit lives in what the sentence leaves out, and the page carries a fact that turns its meaning where a careful player can line it up. The notes name that fact.
+
+### R74-17-HOW_WITNESSES_ERR [Mystery Law 2026-10-04 MY9]
+
+A witness who is wrong without lying errs by real memory science or by his culture's misreading and folk belief, and the roster gains an 'errs about' field beside 'lied about', so an honest error never owes a liar's tell.
+
+> Both, logged apart. Errors come by either road, and the roster gains an 'errs about' field beside 'lied about', so an honest error never owes a liar's tell.
+
+### R74-18-LIE_NEVER_CAUGHT [Mystery Law 2026-10-04 MY10]
+
+The first time Isaac's PC acts on a lie he has not caught, it opens a Ledger line, and the truth arrives as that line's cost when it bites, the tell already behind him to find.
+
+> It comes due. The first time his PC acts on it, the lie opens a Ledger line; the truth arrives as that line's cost when it bites, the tell already behind him to find.
+
+### R74-21-SOLUTION_SCENE [Mystery Law 2026-10-04 MY12]
+
+A case's solution scene may take three forms: a hearing (court, inquest or Register) turned where a statement meets the exhibit that breaks it, each culture keeping its own justice; a procedure, a test or instrument proving it on the page as action with the result as the verdict; or a document, a filing, docket or set-off notice whose last line is the verdict.
+
+> Yes to: The hearing (A court, inquest or Register hearing, turned where a statement meets the exhibit that breaks it; each culture keeps its own justice (R53-11)); The procedure (A test or instrument proves it on the page as action (R71-81), and the result is the verdict); The document (The case closes as a filing, a docket or a set-off notice (R70-67, R70-17), its last line the verdict).
+
+### R74-24-RIVAL_ON_CASE [Mystery Law 2026-10-04 MY18]
+
+An NPC working the same case as Isaac's PC voices his own confident, often wrong theories, a right one spoken only after the PC has held every clue it rests on, and runs the case as a Front that may close it first, right or wrong, from clues the page has shown, a wrong close able to hang an innocent and a right one taking the credit and the fee.
+
+> A rival on his own clock. B, and an NPC on the same case runs it as a Front and may close it first, right or wrong, from clues the page has shown; a wrong close can hang an innocent, a right one takes the credit and the fee.
+
+### R74-35-WHAT_TURNS_COUNCIL [Mystery Law 2026-10-04 IN1]
+
+By default a council or court scene turns on arithmetic or paper (a date that does not fit, a column, a seal) found on the page where a player could find it first, and speech and reads colour the turn.
+
+> The dated fact. The turn is arithmetic or paper: a date that does not fit, a column, a seal, found on the page where a player could find it first. Speech and reads colour it.
 
 ### R20-4-PRONUNCIATION_ADAPTATION [Naming Guide Amendment Part Four]
 
@@ -5247,7 +5379,7 @@ Narration refers to characters by POV epithets, the way the viewpoint sees them;
 
 > Narration refers to characters by POV epithets, the way the viewpoint sees them; the naming characterises.
 
-## documents (127)
+## documents (133)
 
 ### R20C-3-SWEEP_TWO_TIERS [Pack Twenty R20C-3]
 
@@ -5824,6 +5956,42 @@ There never was an inherited surname; the Accord's registers assigned a frozen s
 The intimacy answers land as one dated Intimacy Law rule doc logged through log_ruling and served by load_rules, Table Rule 9 in NATALIE.md rewritten to cite R49-51, R70-133, R70-134 and the new rows, the wotr-rp skill and the wotr-write scene pipeline brought to one wording, the courtship and mores fields drafted for the six cultures and entered on Isaac's word, and an intimacy section in the Dialogue Craft Standards and the Scene Writing Process Guide.
 
 > B, plus the Inventories. B, plus the courtship and mores fields drafted for the six cultures from these answers and entered on your word, and an intimacy section in the Dialogue Craft Standards and Scene Writing Process Guide.
+
+### R74-12-REST_OF_WATCH_SEARCH [Mystery Law 2026-10-04 MY5]
+
+A Night Watch search of a room, a body or a seal plays step by step as action, figures in a mouth and nothing summarised, and closes on its docket line set off from the prose, the Register's flat record against the long hour.
+
+> Protocol, closed on filing. As A, and the search closes on its docket line set off from the prose: the Register's flat record against the long hour, the Lord of the Mysteries document turned to a close.
+
+### R74-21-SOLUTION_SCENE [Mystery Law 2026-10-04 MY12]
+
+A case's solution scene may take three forms: a hearing (court, inquest or Register) turned where a statement meets the exhibit that breaks it, each culture keeping its own justice; a procedure, a test or instrument proving it on the page as action with the result as the verdict; or a document, a filing, docket or set-off notice whose last line is the verdict.
+
+> Yes to: The hearing (A court, inquest or Register hearing, turned where a statement meets the exhibit that breaks it; each culture keeps its own justice (R53-11)); The procedure (A test or instrument proves it on the page as action (R71-81), and the result is the verdict); The document (The case closes as a filing, a docket or a set-off notice (R70-67, R70-17), its last line the verdict).
+
+### R74-25-NAMING_MALPHAS_IN_FILE [Mystery Law 2026-10-04 MY15]
+
+No Night Watch file names Malphas: he is filed by his title at his own written request, named volumes are read at the desk and never copied into a file, and the Farrant Papers stand.
+
+> Title only, everywhere. No Watch file names him; he is filed by his title at his own written request, and named volumes are read at the desk, never copied in. The Papers stand.
+
+### R74-33-BODY_HORROR_OUTSIDE_FIGHT [Mystery Law 2026-10-04 HO8]
+
+Body horror where nobody is fighting is written full and clinical in the POV's flat, exact eye (anatomy named, colour, texture and the absent smell, nothing looked away from), and documents may carry it too.
+
+> Full and clinical. R48-34 extends to horror: anatomy named, colour, texture and the absent smell, nothing looked away from, in the POV's flat, exact eye. Documents may carry it too.
+
+### R74-39-SPIES_INFORMATION_TRADE [Mystery Law 2026-10-04 IN5]
+
+The table runs the information trade three ways: inserts, bulletins and the penny press carry public intelligence both ways; intercepted letters, wires and dockets appear in full as documents with seal, hand and paper described as clues; and each service gets working words for agents, drops and watchers in its Inventory's Words entry.
+
+> Yes to: The press as intelligence (Inserts, bulletins and the penny press carry public intelligence both ways: whoever reads them learns something, and is learned about by whoever filed them); Letters as exhibits (Intercepted letters, wires and dockets appear in full as documents Isaac can read (R70-67), with seal, hand and paper described as clues); Tradecraft per service (Each service (the Watch, the Mother's cultures, the Moto court, the Mahuo houses) gets working words for agents, drops and watchers in its Inventory's Words entry (R70-33)).
+
+### R74-43-WHERE_MYSTERY_LAW_LANDS [Mystery Law 2026-10-04 ME1]
+
+The answers land as one dated rule doc served by load_rules, with NATALIE.md's table rules and Iceberg lines rewritten to agree with it, plus a new Mystery, Horror and Intrigue Craft Guide in desktop/ for Natalie to read before a dark or scheming scene.
+
+> Doc, NATALIE, a guide. B, plus a new Mystery, Horror and Intrigue Craft Guide in desktop/, so Natalie has one document to read before a dark or scheming scene.
 
 ### R20-4-ACCORD_FILING_CONVENTION [Naming Guide Amendment Part Four]
 
@@ -7275,7 +7443,7 @@ The Phenomenon Bank becomes a growing library: every researched phenomenon (and 
 
 > The Phenomenon Bank becomes a growing library: every researched phenomenon (and pseudoscientific idea) is added for future workings and players to draw from.
 
-## magic-mechanism (250)
+## magic-mechanism (259)
 
 ### R20C-17-SITES_RECHARGE_UNHELPFULLY [Pack Twenty R20C-17]
 
@@ -8507,6 +8675,60 @@ Fusi Vā, the Agamalu binding rite, replaced Saishiki (a Japonic word on a rite 
 
 > Fusi Vā. The Agamalu binding rite. It replaced Saishiki, which was a Japonic word sitting on a rite that is Agamalu in origin and Vāimoana in provenance, and was wrong for both registers on its own terms. The Büri amendment is not what made that change correct. Recommendation: keep.
 
+### R74-2-FAIRPLAY_TERMS [Mystery Law 2026-10-04 K2]
+
+Every mystery, written or played, rests its solution only on what the reader or player was shown, a clue the investigator held and the page withheld voiding it and the notes listing every clue used; any working in the solution has a Codex line and its rule acted on the page first, none is invented to solve the case, and one that falsifies perception is planted as a held reveal or barred; the truth (who, how, why) is written in the notes before the first clue is placed and never moves to fit a guess; and a book marks the point where every clue is on the page, as a chapter-head line or a set-off notice, before the solution.
+
+> Yes to: Nothing unseen (The solution rests only on what the reader or player was shown. A clue the investigator held and the page withheld voids the solution; the notes list every clue used); Codex-backed solutions (Any working in a solution has a Codex line and its rule acted on the page first. No working is invented to solve a case; one that falsifies perception is planted (R71-30) or barred); Sealed solution (The truth (who, how, why) is written in the notes before the first clue is placed and never moves to fit a guess: R57-10's ban on rigging made a procedure); A challenge mark (Ellery Queen's device: a book marks the point where every clue is on the page, as a chapter-head line or a set-off notice, before the solution).
+
+### R74-4-WHAT_KNOWING_COSTS [Mystery Law 2026-10-04 K4]
+
+Knowledge is dangerous through who notices that Isaac's PC knows (the Gate punishing unlicensed knowledge, the Mother reading the Watch's inserts, a witness becoming a target); every secret learned opens a Ledger line on who knows he knows; and a few records held in objects (Mnemata) act on whoever touches them through canon mechanism, priced by Resilience with the counter named in the notes and no invented figure.
+
+> Records that act. B, plus a few records act on whoever touches them through canon mechanism (Mnemata, records held in objects, R61-70), priced by Resilience with the counter named in the notes. No invented figure.
+
+### R74-12-REST_OF_WATCH_SEARCH [Mystery Law 2026-10-04 MY5]
+
+A Night Watch search of a room, a body or a seal plays step by step as action, figures in a mouth and nothing summarised, and closes on its docket line set off from the prose, the Register's flat record against the long hour.
+
+> Protocol, closed on filing. As A, and the search closes on its docket line set off from the prose: the Register's flat record against the long hour, the Lord of the Mysteries document turned to a close.
+
+### R74-20-WHAT_INSTRUMENTS_PROVE [Mystery Law 2026-10-04 MY11]
+
+A sound instrument prints true, and a case lives in what one was not built to read (below its floor, behind a ward, or asked the wrong question), the notes saying which.
+
+> Never lies, may miss. A sound instrument prints true. A case lives in what one was not built to read: below its floor, behind a ward, or asked the wrong question. The notes say which.
+
+### R74-28-FEAR_IN_PC [Mystery Law 2026-10-04 HO3]
+
+Where a field, Pressure, a working, the cold or a sudden shock acts on Isaac's PC, its signs in his body are written as world facts, and what he feels about them and does stays his.
+
+> Caused signs, his read. Where a field, Pressure, a working, the cold or a sudden shock acts on his body (the Pike's weight, the Lamp-drinker's chill, a startle), its signs are world facts; what he feels about them and does stays his.
+
+### R74-30-DEAD_FOLK_BELIEF [Mystery Law 2026-10-04 HO5]
+
+When a folk belief about the dead meets the dead, events may show where it holds and where it fails, each traced in the notes to canon mechanism, while the people keep their reading and the narration corrects nothing.
+
+> Half true, by mechanism. Events show where a belief holds and where it fails, both traced in the notes to canon mechanism; the people keep their reading, and the narration still corrects nothing.
+
+### R74-31-VEIL_AND_PC_GRIEF [Mystery Law 2026-10-04 HO6]
+
+At a Veil-thin place, grief or rage that Isaac's PC carried in may condense too, shaped only from what his archived scenes and card already show, with no mind to voice, and his response stays his.
+
+> His, from canon only. What he carried may condense too, shaped only from grief or rage his archived scenes and card already show; the beast has no mind to voice, and his response stays his.
+
+### R74-32-COSMIC_SCALE_ON_PAGE [Mystery Law 2026-10-04 HO7]
+
+Epoch-scale horror reaches the page through its effects by default, and at an arc's peak one such thing may stand in frame in full, stated as law with its reasons kept, changing no plot.
+
+> In frame at a peak. Effects carry it by default; at an arc's peak one may stand in frame in full, as stated law with reasons kept (R70-76), changing no plot (R7-2).
+
+### R74-40-ONE_MAN_TWO_FACES [Mystery Law 2026-10-04 IN8]
+
+When an NPC lives two lives, at least one link between the faces (a shared habit or a link in the record) is planted before the unmasking, and a face held by a working has its Codex line and leaks a seam, as an impression-body does.
+
+> Either road; masks leak. A or B, at least one link planted before the unmasking; a face held by a working has its Codex line and leaks a seam, as an impression-body (a dead man's likeness worked from his Trace) does under R71-87.
+
 ### R69-3-RESIDUES_TWO_CLOCKS [The Necrocursica Ratification 2026-09-28 necro 3]
 
 Four residues inside the nine days, three after.
@@ -9112,7 +9334,7 @@ Tell a formation battle in POV-locked sections that cut, at marked breaks, betwe
 
 > Hill and ditch, cut. A battle cuts between the commander's hill and one man in the press at marked breaks, each section POV-locked; the breaks stand in for the guide's rule to 'pass through Line'. R1-3's three heads cover both.
 
-## naming (191)
+## naming (192)
 
 ### R20C-1-BURI_DEAD_EVERYWHERE [Pack Twenty R20C-1]
 
@@ -9744,6 +9966,12 @@ Fusi Vā, the Agamalu binding rite, replaced Saishiki (a Japonic word on a rite 
 
 > Fusi Vā. The Agamalu binding rite. It replaced Saishiki, which was a Japonic word sitting on a rite that is Agamalu in origin and Vāimoana in provenance, and was wrong for both registers on its own terms. The Büri amendment is not what made that change correct. Recommendation: keep.
 
+### R74-25-NAMING_MALPHAS_IN_FILE [Mystery Law 2026-10-04 MY15]
+
+No Night Watch file names Malphas: he is filed by his title at his own written request, named volumes are read at the desk and never copied into a file, and the Farrant Papers stand.
+
+> Title only, everywhere. No Watch file names him; he is filed by his title at his own written request, and named volumes are read at the desk, never copied in. The Papers stand.
+
 ### R40-1-MOTO_ELEMENT_INVENTORY [Naming Banks 2026-09-13 Moto]
 
 The Moto get the element bank the Polynesian strike left them without: thirty elements in five categories (crown & seat, metal & line, sky & weather, severance & exile, water & the Works), two-element compounds of two to four syllables, vowel-forward, no clusters. Twenty-six elements are lifted from attested names and the seven Lines; the glosses and the other four are coined. The slot is Given + Line + Moto, the Line named for the six landless Great Lines and omitted for Kōkan. Four flags stay open as ratified.
@@ -10260,7 +10488,7 @@ The Zettari bloodline's names, titles and technique names are built in a Swahili
 
 > The Zettari speak their own tongue. Their names and their arts are Swahili, Bantu and Arabic in flavour — Kafa-Karim, Habl Flow-Bind, Sarmad Fracture, Sukun Maji, Dawam Soul-Still Art, Kumi-na-Mbili Seal; Zuberi, Ma'Kovu, N'Kharu, Malani, Jomari, N'Yari, Zembari — and that register stands. The five-strata naming convention assigns the archaic bloodlines to the Japonic stratum; the Zettari are carved out of it as a register of their own, and the Japonic assignment continues to govern every other archaic line. Ruled by Isaac, 2026-09-12.
 
-## pov (169)
+## pov (185)
 
 ### R20C-49-GLOSS_RIGHTS_CARD_FIELD [Pack Twenty R20C-49]
 
@@ -10681,6 +10909,102 @@ Once the player's post sets the act, Natalie writes contact, position and what t
 When an NPC would coerce or force the player's character, Natalie sets the threat in the room (the grip, the bargain, the Draft in the cup) and stops, and the act reaches the page only through the player's post.
 
 > Threat placed, his post decides. Natalie sets the threat in the room (the grip, the bargain, the Draft in the cup) and stops; the act reaches the page only through your post.
+
+### R74-1-HOW_MUCH_READER_SOLVES [Mystery Law 2026-10-04 K1]
+
+Each book or thread bible names its mystery mode (inverted, fair puzzle, or the split, where the reader knows who but never how or why), and work that declares none runs inverted, the house mode.
+
+> Each book declares. Each book or thread bible names its mode: inverted, fair puzzle, or the split (the reader knows who, never how or why). Undeclared work defaults to inverted, the house mode.
+
+### R74-2-FAIRPLAY_TERMS [Mystery Law 2026-10-04 K2]
+
+Every mystery, written or played, rests its solution only on what the reader or player was shown, a clue the investigator held and the page withheld voiding it and the notes listing every clue used; any working in the solution has a Codex line and its rule acted on the page first, none is invented to solve the case, and one that falsifies perception is planted as a held reveal or barred; the truth (who, how, why) is written in the notes before the first clue is placed and never moves to fit a guess; and a book marks the point where every clue is on the page, as a chapter-head line or a set-off notice, before the solution.
+
+> Yes to: Nothing unseen (The solution rests only on what the reader or player was shown. A clue the investigator held and the page withheld voids the solution; the notes list every clue used); Codex-backed solutions (Any working in a solution has a Codex line and its rule acted on the page first. No working is invented to solve a case; one that falsifies perception is planted (R71-30) or barred); Sealed solution (The truth (who, how, why) is written in the notes before the first clue is placed and never moves to fit a guess: R57-10's ban on rigging made a procedure); A challenge mark (Ellery Queen's device: a book marks the point where every clue is on the page, as a chapter-head line or a set-off notice, before the solution).
+
+### R74-5-WHAT_CATCHING_LIE_IS [Mystery Law 2026-10-04 K5]
+
+An NPC's lie counts as caught only when Isaac's PC acts on the truth or names the lie in play, and Isaac spotting it in chat changes nothing in the world until his PC moves.
+
+> His PC acts on it. Caught when his PC acts on the truth or names the lie in play. Isaac spotting it in chat changes nothing in the world until his PC moves.
+
+### R74-6-FINDING_CLUES_AT_TABLE [Mystery Law 2026-10-04 K6]
+
+When Isaac's PC searches, each conclusion's core clue comes to any sensible look, and the further clues that sharpen it, speed it or name the purse (who paid) come only to the right question or instrument.
+
+> Core found, extras earned. Each conclusion's core clue comes to any sensible look; the further clues that sharpen it, speed it or name the purse (who paid) come only to the right question or instrument.
+
+### R74-7-CUTTING_AWAY_INSIDE_CASE [Mystery Law 2026-10-04 K7]
+
+While Isaac's PC works a case, a turn may close on a short marked cut to the other side moving (a hand, a room, a deed) that may carry a clue, but the cut never shows a face, a name or the answer.
+
+> Cut to the hand. A turn may close on a short marked cut to the other side moving (a hand, a room, a deed) that may carry a clue, never a face, a name or the answer.
+
+### R74-10-RED_HERRINGS [Mystery Law 2026-10-04 MY3]
+
+A red herring is built from true facts that point the wrong way, is refutable on the page, and is listed as a herring in the notes.
+
+> True facts, refutable. A herring is built from true facts that point the wrong way, is refutable on the page, and is listed as a herring in the notes.
+
+### R74-14-TRUE_WORDS_THAT_DECEIVE [Mystery Law 2026-10-04 MY16]
+
+A true sentence built to deceive owes no body tell, since its deceit lives in what it leaves out, and the page carries a fact that turns its meaning where a careful player can line it up, the notes naming that fact.
+
+> The fact is the tell. No body tell, since the speaker tells the truth; the deceit lives in what the sentence leaves out, and the page carries a fact that turns its meaning where a careful player can line it up. The notes name that fact.
+
+### R74-16-INVESTIGATOR_HEAD [Mystery Law 2026-10-04 MY8]
+
+When the POV is the investigator, every fact she notices reaches the page plainly while her conclusion waits, carried by her next act as Holmes keeps his, and numbered steps stay legal at the solution.
+
+> Facts shown, conclusion held. Every fact she notices reaches the page plainly; the conclusion waits, carried by her next act, as Holmes keeps his. Numbered steps stay legal at the solution.
+
+### R74-17-HOW_WITNESSES_ERR [Mystery Law 2026-10-04 MY9]
+
+A witness who is wrong without lying errs by real memory science or by his culture's misreading and folk belief, and the roster gains an 'errs about' field beside 'lied about', so an honest error never owes a liar's tell.
+
+> Both, logged apart. Errors come by either road, and the roster gains an 'errs about' field beside 'lied about', so an honest error never owes a liar's tell.
+
+### R74-19-THING_LEFT_UNEXPLAINED [Mystery Law 2026-10-04 MY17]
+
+Table Rule 8's unexplained notice no longer comes every turn: as prose already has it, no count is owed, one comes when a scene has one worth leaving, and the notes mark it texture or seed.
+
+> When a scene has one. R49-11 carried to the table: no count; an unexplained notice comes when a scene has one worth leaving, marked texture or seed in the notes as in C.
+
+### R74-27-THING_SEEN [Mystery Law 2026-10-04 HO2]
+
+A horror first reaches the page as effects and outline, through the room and then the bodies, and its full inventory waits until the thing is understood, appraised or fought.
+
+> Half-seen, then full. R9-3 extends to horrors: effects and outline first, through the room and the bodies (R70-69's order); the full inventory lands when the thing is understood, appraised or fought.
+
+### R74-28-FEAR_IN_PC [Mystery Law 2026-10-04 HO3]
+
+Where a field, Pressure, a working, the cold or a sudden shock acts on Isaac's PC, its signs in his body are written as world facts, and what he feels about them and does stays his.
+
+> Caused signs, his read. Where a field, Pressure, a working, the cold or a sudden shock acts on his body (the Pike's weight, the Lamp-drinker's chill, a startle), its signs are world facts; what he feels about them and does stays his.
+
+### R74-29-WHAT_HORROR_LEAVES [Mystery Law 2026-10-04 HO4]
+
+A seen horror may leave one Ledger mark with a due condition that fades on its clock, and a mark struck again before it fades deepens to a standing condition with a named counter (rest, a person, a rite), fraying by stages with no meter and no number.
+
+> Marks that compound. B, and a mark struck again before it fades deepens to a standing condition with a named counter (rest, a person, a rite): fraying by stages, still no meter and no number.
+
+### R74-31-VEIL_AND_PC_GRIEF [Mystery Law 2026-10-04 HO6]
+
+At a Veil-thin place, grief or rage that Isaac's PC carried in may condense too, shaped only from what his archived scenes and card already show, with no mind to voice, and his response stays his.
+
+> His, from canon only. What he carried may condense too, shaped only from grief or rage his archived scenes and card already show; the beast has no mind to voice, and his response stays his.
+
+### R74-33-BODY_HORROR_OUTSIDE_FIGHT [Mystery Law 2026-10-04 HO8]
+
+Body horror where nobody is fighting is written full and clinical in the POV's flat, exact eye (anatomy named, colour, texture and the absent smell, nothing looked away from), and documents may carry it too.
+
+> Full and clinical. R48-34 extends to horror: anatomy named, colour, texture and the absent smell, nothing looked away from, in the POV's flat, exact eye. Documents may carry it too.
+
+### R74-34-WITNESS_FACE [Mystery Law 2026-10-04 HO9]
+
+In a horror beat one witness's face may come before the thing itself, once a scene, and the reaction shot used as characterisation stays a tell everywhere else.
+
+> One witness, horror only. In a horror beat, one witness's face may come before the thing, once a scene; the reaction shot used as characterisation stays a tell everywhere else.
 
 ### R20-5-ON_THE_PAGE [Naming Guide Amendment Part Five]
 
@@ -11276,7 +11600,7 @@ Narration refers to characters by POV epithets, the way the viewpoint sees them;
 
 > Narration refers to characters by POV epithets, the way the viewpoint sees them; the naming characterises.
 
-## prose-law (371)
+## prose-law (382)
 
 ### R20C-29-CATEGORY_NAMING_DIAGNOSTIC [Pack Twenty R20C-29]
 
@@ -12135,6 +12459,72 @@ The intimacy work runs in order: log the law and build the new verify checks, wr
 Part Five · Prose Application is lifted out of the Revelation cell.
 
 > The Color of Essence's Revelation cell is restored to its own sentence and the block pasted inside it is lifted out as "Part Five · Prose Application" after Part Four, the same words re-homed; Limina's absence is left visible as a gap rather than papered over.
+
+### R74-16-INVESTIGATOR_HEAD [Mystery Law 2026-10-04 MY8]
+
+When the POV is the investigator, every fact she notices reaches the page plainly while her conclusion waits, carried by her next act as Holmes keeps his, and numbered steps stay legal at the solution.
+
+> Facts shown, conclusion held. Every fact she notices reaches the page plainly; the conclusion waits, carried by her next act, as Holmes keeps his. Numbered steps stay legal at the solution.
+
+### R74-22-REVEAL [Mystery Law 2026-10-04 MY13]
+
+A case's answer lands as a short cluster of one-line paragraphs at the moment of proof, and the explanation comes later or never.
+
+> Cold, in a cluster. The answer lands as a short cluster of one-line paragraphs at the moment of proof; the explanation comes later or never.
+
+### R74-26-DREAD_PACING [Mystery Law 2026-10-04 HO1]
+
+A horror scene keeps a long build and spends at most one hard shock, a single sudden sight set as a cluster of one-line paragraphs, after which the scene moves on.
+
+> Long build, one hard shock. The build stays long; the swift beat is one sudden sight set as a cluster of one-line paragraphs (R70-20), then the scene moves. One shock per horror scene at most.
+
+### R74-27-THING_SEEN [Mystery Law 2026-10-04 HO2]
+
+A horror first reaches the page as effects and outline, through the room and then the bodies, and its full inventory waits until the thing is understood, appraised or fought.
+
+> Half-seen, then full. R9-3 extends to horrors: effects and outline first, through the room and the bodies (R70-69's order); the full inventory lands when the thing is understood, appraised or fought.
+
+### R74-28-FEAR_IN_PC [Mystery Law 2026-10-04 HO3]
+
+Where a field, Pressure, a working, the cold or a sudden shock acts on Isaac's PC, its signs in his body are written as world facts, and what he feels about them and does stays his.
+
+> Caused signs, his read. Where a field, Pressure, a working, the cold or a sudden shock acts on his body (the Pike's weight, the Lamp-drinker's chill, a startle), its signs are world facts; what he feels about them and does stays his.
+
+### R74-30-DEAD_FOLK_BELIEF [Mystery Law 2026-10-04 HO5]
+
+When a folk belief about the dead meets the dead, events may show where it holds and where it fails, each traced in the notes to canon mechanism, while the people keep their reading and the narration corrects nothing.
+
+> Half true, by mechanism. Events show where a belief holds and where it fails, both traced in the notes to canon mechanism; the people keep their reading, and the narration still corrects nothing.
+
+### R74-33-BODY_HORROR_OUTSIDE_FIGHT [Mystery Law 2026-10-04 HO8]
+
+Body horror where nobody is fighting is written full and clinical in the POV's flat, exact eye (anatomy named, colour, texture and the absent smell, nothing looked away from), and documents may carry it too.
+
+> Full and clinical. R48-34 extends to horror: anatomy named, colour, texture and the absent smell, nothing looked away from, in the POV's flat, exact eye. Documents may carry it too.
+
+### R74-34-WITNESS_FACE [Mystery Law 2026-10-04 HO9]
+
+In a horror beat one witness's face may come before the thing itself, once a scene, and the reaction shot used as characterisation stays a tell everywhere else.
+
+> One witness, horror only. In a horror beat, one witness's face may come before the thing, once a scene; the reaction shot used as characterisation stays a tell everywhere else.
+
+### R74-43-WHERE_MYSTERY_LAW_LANDS [Mystery Law 2026-10-04 ME1]
+
+The answers land as one dated rule doc served by load_rules, with NATALIE.md's table rules and Iceberg lines rewritten to agree with it, plus a new Mystery, Horror and Intrigue Craft Guide in desktop/ for Natalie to read before a dark or scheming scene.
+
+> Doc, NATALIE, a guide. B, plus a new Mystery, Horror and Intrigue Craft Guide in desktop/, so Natalie has one document to read before a dark or scheming scene.
+
+### R74-45-MYSTERY_CHECKS_VERIFY [Mystery Law 2026-10-04 ME3]
+
+verify_scene FAILs 'unnameable', 'eldritch', 'indescribable', 'unspeakable' and 'nameless dread' in narration as a fourth hard-ban stock family (the Nameless day stays legal), WARNs past one a scene on stale not-knowing lines such as 'could make nothing of it', and FAILs a scene whose notes mark a reveal, a betrayal or a case's solution without listing an earlier planted sign.
+
+> Yes to: Cosmic stock words ('Unnameable', 'eldritch', 'indescribable', 'unspeakable' and 'nameless dread' join the hard-ban list as a fourth stock family, FAIL in narration; the Nameless day stays legal); Stale not-knowing lines (WARN past one a scene on 'could make nothing of it', 'did not know what that meant' and their kin, as the combat stale-device watch does for fights); Planted signs for turns (A scene whose notes mark a reveal, a betrayal or a case's solution FAILs unless the notes list an earlier planted sign (R48-30, R71-30)).
+
+### R74-46-HORROR_INTRIGUE_SAMPLE_BANK [Mystery Law 2026-10-04 ME4]
+
+A new sample bank holds a Well descent, a body found, a death-house night, a council turn, an interrogation, a hearing and a record of the strange, each with notes, and each culture file in the style bank gains one dark scene so the voice and the type meet.
+
+> Both. B as the new bank, and each culture file gains one dark scene so the voice and the type meet.
 
 ### R20-4-PRONUNCIATION_ADAPTATION [Naming Guide Amendment Part Four]
 
@@ -13504,7 +13894,7 @@ Narration refers to characters by POV epithets, the way the viewpoint sees them;
 
 > Narration refers to characters by POV epithets, the way the viewpoint sees them; the naming characterises.
 
-## register (196)
+## register (198)
 
 ### R20C-21-WELL_NAMES_CLASS_MARKED [Pack Twenty R20C-21]
 
@@ -13985,6 +14375,18 @@ In every POV, narration keeps one crude English for the words for the body, and 
 Mahuo courtship is a verse exchange in which the suitor's three lines are answered with three whose last clause turns, a plain answer costing standing as at court, and the proposal is a change of speech, one of them dropping from the high forms to the plain speech kept for kin and spouses and the other answering in kind as the yes.
 
 > Yes to: A sijo owed a sijo (Courtship is a verse exchange: the suitor's three lines are answered with three, and the last clause turns. A plain answer costs standing, as R70-110 rules at court); The speech level drops (The proposal is a change of speech: one of them drops from the high forms to the plain speech kept for kin and spouses, and the other answering in kind is the yes).
+
+### R74-32-COSMIC_SCALE_ON_PAGE [Mystery Law 2026-10-04 HO7]
+
+Epoch-scale horror reaches the page through its effects by default, and at an arc's peak one such thing may stand in frame in full, stated as law with its reasons kept, changing no plot.
+
+> In frame at a peak. Effects carry it by default; at an arc's peak one may stand in frame in full, as stated law with reasons kept (R70-76), changing no plot (R7-2).
+
+### R74-45-MYSTERY_CHECKS_VERIFY [Mystery Law 2026-10-04 ME3]
+
+verify_scene FAILs 'unnameable', 'eldritch', 'indescribable', 'unspeakable' and 'nameless dread' in narration as a fourth hard-ban stock family (the Nameless day stays legal), WARNs past one a scene on stale not-knowing lines such as 'could make nothing of it', and FAILs a scene whose notes mark a reveal, a betrayal or a case's solution without listing an earlier planted sign.
+
+> Yes to: Cosmic stock words ('Unnameable', 'eldritch', 'indescribable', 'unspeakable' and 'nameless dread' join the hard-ban list as a fourth stock family, FAIL in narration; the Nameless day stays legal); Stale not-knowing lines (WARN past one a scene on 'could make nothing of it', 'did not know what that meant' and their kin, as the combat stale-device watch does for fights); Planted signs for turns (A scene whose notes mark a reveal, a betrayal or a case's solution FAILs unless the notes list an earlier planted sign (R48-30, R71-30)).
 
 ### R40-2-CELESTIAL_HOST_NAMING_PASS [Naming Banks 2026-09-13 Celestial Host]
 
@@ -14682,7 +15084,7 @@ The Zettari bloodline's names, titles and technique names are built in a Swahili
 
 > The Zettari speak their own tongue. Their names and their arts are Swahili, Bantu and Arabic in flavour — Kafa-Karim, Habl Flow-Bind, Sarmad Fracture, Sukun Maji, Dawam Soul-Still Art, Kumi-na-Mbili Seal; Zuberi, Ma'Kovu, N'Kharu, Malani, Jomari, N'Yari, Zembari — and that register stands. The five-strata naming convention assigns the archaic bloodlines to the Japonic stratum; the Zettari are carved out of it as a register of their own, and the Japonic assignment continues to govern every other archaic line. Ruled by Isaac, 2026-09-12.
 
-## scene-structure (116)
+## scene-structure (137)
 
 ### R19-2-BUILT_AROUND [Pack Nineteen §2]
 
@@ -15019,6 +15421,132 @@ A bond gets scenes of its own joy before a loss may land on it, and a love that 
 The intimacy sample bank holds both an intimate beat in each culture file where Natalie already loads them and a bank of the kinds the archive lacks, this questionnaire's samples becoming their first drafts.
 
 > Both. A and B: culture beats where Natalie already loads them, and the kinds the archive lacks; this questionnaire's samples become their first drafts.
+
+### R74-1-HOW_MUCH_READER_SOLVES [Mystery Law 2026-10-04 K1]
+
+Each book or thread bible names its mystery mode (inverted, fair puzzle, or the split, where the reader knows who but never how or why), and work that declares none runs inverted, the house mode.
+
+> Each book declares. Each book or thread bible names its mode: inverted, fair puzzle, or the split (the reader knows who, never how or why). Undeclared work defaults to inverted, the house mode.
+
+### R74-2-FAIRPLAY_TERMS [Mystery Law 2026-10-04 K2]
+
+Every mystery, written or played, rests its solution only on what the reader or player was shown, a clue the investigator held and the page withheld voiding it and the notes listing every clue used; any working in the solution has a Codex line and its rule acted on the page first, none is invented to solve the case, and one that falsifies perception is planted as a held reveal or barred; the truth (who, how, why) is written in the notes before the first clue is placed and never moves to fit a guess; and a book marks the point where every clue is on the page, as a chapter-head line or a set-off notice, before the solution.
+
+> Yes to: Nothing unseen (The solution rests only on what the reader or player was shown. A clue the investigator held and the page withheld voids the solution; the notes list every clue used); Codex-backed solutions (Any working in a solution has a Codex line and its rule acted on the page first. No working is invented to solve a case; one that falsifies perception is planted (R71-30) or barred); Sealed solution (The truth (who, how, why) is written in the notes before the first clue is placed and never moves to fit a guess: R57-10's ban on rigging made a procedure); A challenge mark (Ellery Queen's device: a book marks the point where every clue is on the page, as a chapter-head line or a set-off notice, before the solution).
+
+### R74-3-WHEN_SECRETS_PAY [Mystery Law 2026-10-04 K3]
+
+A secret pays when Isaac's PC catches it or when its Front resolves, never on a timer, and a few secrets are marked 'kept' and never pay on the page, as the one-word letter does.
+
+> Caught or clocked. A secret pays when his PC catches it or its Front (a faction's clock of moves) resolves, never on a timer. A few are marked 'kept' and never pay on the page, as the one-word letter.
+
+### R74-7-CUTTING_AWAY_INSIDE_CASE [Mystery Law 2026-10-04 K7]
+
+While Isaac's PC works a case, a turn may close on a short marked cut to the other side moving (a hand, a room, a deed) that may carry a clue, but the cut never shows a face, a name or the answer.
+
+> Cut to the hand. A turn may close on a short marked cut to the other side moving (a hand, a room, a deed) that may carry a clue, never a face, a name or the answer.
+
+### R74-8-CLUES_PER_CONCLUSION [Mystery Law 2026-10-04 MY1]
+
+Every conclusion a case needs reached gets at least three clues, one in the room, one in a mouth and one on paper or an instrument, so no single kind of looking is required, and the notes list all three.
+
+> Three, by three roads. At least three clues per conclusion: one in the room, one in a mouth, one on paper or an instrument, so no single kind of looking is required. The notes list all three.
+
+### R74-9-WHERE_TRUTH_KEPT [Mystery Law 2026-10-04 MY2]
+
+Every open mystery keeps one sealed entry under table/ (who, how, why, what each NPC knows, what stays kept) that Natalie reads each session and play never quotes, in one file with any sealed Front file, and every scene's author notes list each clue planted, found or missed and the conclusion it serves, so fairness can be audited after.
+
+> Yes to: A sealed truth file (One entry per open mystery under table/: who, how, why, what each NPC knows, what stays kept. Natalie reads it each session; play never quotes it. One file with any sealed Front file); Clue list in the notes (Every scene's author notes list each clue planted, found or missed, and the conclusion it serves, so fairness can be audited after).
+
+### R74-10-RED_HERRINGS [Mystery Law 2026-10-04 MY3]
+
+A red herring is built from true facts that point the wrong way, is refutable on the page, and is listed as a herring in the notes.
+
+> True facts, refutable. A herring is built from true facts that point the wrong way, is refutable on the page, and is listed as a herring in the notes.
+
+### R74-12-REST_OF_WATCH_SEARCH [Mystery Law 2026-10-04 MY5]
+
+A Night Watch search of a room, a body or a seal plays step by step as action, figures in a mouth and nothing summarised, and closes on its docket line set off from the prose, the Register's flat record against the long hour.
+
+> Protocol, closed on filing. As A, and the search closes on its docket line set off from the prose: the Register's flat record against the long hour, the Lord of the Mysteries document turned to a close.
+
+### R74-13-INTERROGATION [Mystery Law 2026-10-04 MY6]
+
+When a witness is questioned, each question aims at a tell and the page shows what it bought or cost, the accounting of talk inside a fight carried past fights.
+
+> A duel of tells. R71-22's accounting extends past fights: each question aims at a tell, and the page shows what it bought or cost.
+
+### R74-15-CLUE_OBJECTS [Mystery Law 2026-10-04 MY7]
+
+Each Standing Inventory gains a 'Clue beds' line beside 'Notices first' (Kharven counts and the woodpile, Accord meters and wax, Moto seals and court verse), and a case draws its clues from its culture.
+
+> By culture. Each Standing Inventory gains a 'Clue beds' line beside 'Notices first': Kharven counts and the woodpile, Accord meters and wax, Moto seals and court verse. A case draws its clues from its culture.
+
+### R74-19-THING_LEFT_UNEXPLAINED [Mystery Law 2026-10-04 MY17]
+
+Table Rule 8's unexplained notice no longer comes every turn: as prose already has it, no count is owed, one comes when a scene has one worth leaving, and the notes mark it texture or seed.
+
+> When a scene has one. R49-11 carried to the table: no count; an unexplained notice comes when a scene has one worth leaving, marked texture or seed in the notes as in C.
+
+### R74-21-SOLUTION_SCENE [Mystery Law 2026-10-04 MY12]
+
+A case's solution scene may take three forms: a hearing (court, inquest or Register) turned where a statement meets the exhibit that breaks it, each culture keeping its own justice; a procedure, a test or instrument proving it on the page as action with the result as the verdict; or a document, a filing, docket or set-off notice whose last line is the verdict.
+
+> Yes to: The hearing (A court, inquest or Register hearing, turned where a statement meets the exhibit that breaks it; each culture keeps its own justice (R53-11)); The procedure (A test or instrument proves it on the page as action (R71-81), and the result is the verdict); The document (The case closes as a filing, a docket or a set-off notice (R70-67, R70-17), its last line the verdict).
+
+### R74-22-REVEAL [Mystery Law 2026-10-04 MY13]
+
+A case's answer lands as a short cluster of one-line paragraphs at the moment of proof, and the explanation comes later or never.
+
+> Cold, in a cluster. The answer lands as a short cluster of one-line paragraphs at the moment of proof; the explanation comes later or never.
+
+### R74-26-DREAD_PACING [Mystery Law 2026-10-04 HO1]
+
+A horror scene keeps a long build and spends at most one hard shock, a single sudden sight set as a cluster of one-line paragraphs, after which the scene moves on.
+
+> Long build, one hard shock. The build stays long; the swift beat is one sudden sight set as a cluster of one-line paragraphs (R70-20), then the scene moves. One shock per horror scene at most.
+
+### R74-27-THING_SEEN [Mystery Law 2026-10-04 HO2]
+
+A horror first reaches the page as effects and outline, through the room and then the bodies, and its full inventory waits until the thing is understood, appraised or fought.
+
+> Half-seen, then full. R9-3 extends to horrors: effects and outline first, through the room and the bodies (R70-69's order); the full inventory lands when the thing is understood, appraised or fought.
+
+### R74-32-COSMIC_SCALE_ON_PAGE [Mystery Law 2026-10-04 HO7]
+
+Epoch-scale horror reaches the page through its effects by default, and at an arc's peak one such thing may stand in frame in full, stated as law with its reasons kept, changing no plot.
+
+> In frame at a peak. Effects carry it by default; at an arc's peak one may stand in frame in full, as stated law with reasons kept (R70-76), changing no plot (R7-2).
+
+### R74-34-WITNESS_FACE [Mystery Law 2026-10-04 HO9]
+
+In a horror beat one witness's face may come before the thing itself, once a scene, and the reaction shot used as characterisation stays a tell everywhere else.
+
+> One witness, horror only. In a horror beat, one witness's face may come before the thing, once a scene; the reaction shot used as characterisation stays a tell everywhere else.
+
+### R74-35-WHAT_TURNS_COUNCIL [Mystery Law 2026-10-04 IN1]
+
+By default a council or court scene turns on arithmetic or paper (a date that does not fit, a column, a seal) found on the page where a player could find it first, and speech and reads colour the turn.
+
+> The dated fact. The turn is arithmetic or paper: a date that does not fit, a column, a seal, found on the page where a player could find it first. Speech and reads colour it.
+
+### R74-37-BETRAYAL_TRUSTED [Mystery Law 2026-10-04 IN3]
+
+The thread's standing warm bond never betrays by choice, and anyone else may betray only with the signs shown twice before the turn.
+
+> The warm bond is safe. The thread's standing warm bond never betrays by choice; anyone else may, with the signs shown twice before the turn (R71-23's rhythm).
+
+### R74-40-ONE_MAN_TWO_FACES [Mystery Law 2026-10-04 IN8]
+
+When an NPC lives two lives, at least one link between the faces (a shared habit or a link in the record) is planted before the unmasking, and a face held by a working has its Codex line and leaks a seam, as an impression-body does.
+
+> Either road; masks leak. A or B, at least one link planted before the unmasking; a face held by a working has its Codex line and leaks a seam, as an impression-body (a dead man's likeness worked from his Trace) does under R71-87.
+
+### R74-46-HORROR_INTRIGUE_SAMPLE_BANK [Mystery Law 2026-10-04 ME4]
+
+A new sample bank holds a Well descent, a body found, a death-house night, a council turn, an interrogation, a hearing and a record of the strange, each with notes, and each culture file in the style bank gains one dark scene so the voice and the type meet.
+
+> Both. B as the new bank, and each culture file gains one dark scene so the voice and the type meet.
 
 ### R49-25-OPENINGS [Prose Law 2026-09-26 Openings, endings, shape]
 
@@ -15380,7 +15908,7 @@ Players post freely in talk and travel, while fights and contests run in a fixed
 
 > Order when it matters. Free posting in talk and travel; in fights and contests a fixed round order with a reply window the Judger sets, after which the round moves on and standing orders (R71-5) play for the absent.
 
-## session-protocol (94)
+## session-protocol (113)
 
 ### R20C-5-BRIEF_BURI_SECTION_MUST_GO [Pack Twenty R20C-5]
 
@@ -15603,6 +16131,120 @@ A bond gets scenes of its own joy before a loss may land on it, and a love that 
 The intimacy work runs in order: log the law and build the new verify checks, write one explicit scene between adult NPCs on the Kharven ground of Isaac's thread, a Kharven half and a Moto half split by a break mark, amend, and only then write the guides, the Inventories and the bank.
 
 > Law, checks, NPC test. Log the law and build ME2's checks; write one explicit scene between adult NPCs on your thread's Kharven ground, a Kharven half and a Moto half split by a break mark (R49-27); amend; then guides, Inventories and bank.
+
+### R74-3-WHEN_SECRETS_PAY [Mystery Law 2026-10-04 K3]
+
+A secret pays when Isaac's PC catches it or when its Front resolves, never on a timer, and a few secrets are marked 'kept' and never pay on the page, as the one-word letter does.
+
+> Caught or clocked. A secret pays when his PC catches it or its Front (a faction's clock of moves) resolves, never on a timer. A few are marked 'kept' and never pay on the page, as the one-word letter.
+
+### R74-4-WHAT_KNOWING_COSTS [Mystery Law 2026-10-04 K4]
+
+Knowledge is dangerous through who notices that Isaac's PC knows (the Gate punishing unlicensed knowledge, the Mother reading the Watch's inserts, a witness becoming a target); every secret learned opens a Ledger line on who knows he knows; and a few records held in objects (Mnemata) act on whoever touches them through canon mechanism, priced by Resilience with the counter named in the notes and no invented figure.
+
+> Records that act. B, plus a few records act on whoever touches them through canon mechanism (Mnemata, records held in objects, R61-70), priced by Resilience with the counter named in the notes. No invented figure.
+
+### R74-5-WHAT_CATCHING_LIE_IS [Mystery Law 2026-10-04 K5]
+
+An NPC's lie counts as caught only when Isaac's PC acts on the truth or names the lie in play, and Isaac spotting it in chat changes nothing in the world until his PC moves.
+
+> His PC acts on it. Caught when his PC acts on the truth or names the lie in play. Isaac spotting it in chat changes nothing in the world until his PC moves.
+
+### R74-6-FINDING_CLUES_AT_TABLE [Mystery Law 2026-10-04 K6]
+
+When Isaac's PC searches, each conclusion's core clue comes to any sensible look, and the further clues that sharpen it, speed it or name the purse (who paid) come only to the right question or instrument.
+
+> Core found, extras earned. Each conclusion's core clue comes to any sensible look; the further clues that sharpen it, speed it or name the purse (who paid) come only to the right question or instrument.
+
+### R74-8-CLUES_PER_CONCLUSION [Mystery Law 2026-10-04 MY1]
+
+Every conclusion a case needs reached gets at least three clues, one in the room, one in a mouth and one on paper or an instrument, so no single kind of looking is required, and the notes list all three.
+
+> Three, by three roads. At least three clues per conclusion: one in the room, one in a mouth, one on paper or an instrument, so no single kind of looking is required. The notes list all three.
+
+### R74-9-WHERE_TRUTH_KEPT [Mystery Law 2026-10-04 MY2]
+
+Every open mystery keeps one sealed entry under table/ (who, how, why, what each NPC knows, what stays kept) that Natalie reads each session and play never quotes, in one file with any sealed Front file, and every scene's author notes list each clue planted, found or missed and the conclusion it serves, so fairness can be audited after.
+
+> Yes to: A sealed truth file (One entry per open mystery under table/: who, how, why, what each NPC knows, what stays kept. Natalie reads it each session; play never quotes it. One file with any sealed Front file); Clue list in the notes (Every scene's author notes list each clue planted, found or missed, and the conclusion it serves, so fairness can be audited after).
+
+### R74-11-WHEN_CLUES_MISSED [Mystery Law 2026-10-04 MY4]
+
+When a case's clues go unread, its Front ticks and a costlier road opens, each miss spending something (a witness, a Trace read once, a life), so the case stays solvable and the delay shows on the Ledger.
+
+> Both, at a price. The Front ticks and a costlier road opens: each miss spends something (a witness, a Trace read once, a life), so the case stays solvable and the delay shows on the Ledger.
+
+### R74-18-LIE_NEVER_CAUGHT [Mystery Law 2026-10-04 MY10]
+
+The first time Isaac's PC acts on a lie he has not caught, it opens a Ledger line, and the truth arrives as that line's cost when it bites, the tell already behind him to find.
+
+> It comes due. The first time his PC acts on it, the lie opens a Ledger line; the truth arrives as that line's cost when it bites, the tell already behind him to find.
+
+### R74-19-THING_LEFT_UNEXPLAINED [Mystery Law 2026-10-04 MY17]
+
+Table Rule 8's unexplained notice no longer comes every turn: as prose already has it, no count is owed, one comes when a scene has one worth leaving, and the notes mark it texture or seed.
+
+> When a scene has one. R49-11 carried to the table: no count; an unexplained notice comes when a scene has one worth leaving, marked texture or seed in the notes as in C.
+
+### R74-23-WATCH_AT_TABLE [Mystery Law 2026-10-04 MY14]
+
+To a live thread the Night Watch is a patron where the crown's warrant runs and Isaac's PC is neither the hand (who did it) nor the purse (who paid), a rival where he is either, and in Ketsuen it can only ask.
+
+> Both, by where. Patron where the crown's warrant runs and his PC is neither the hand (who did it) nor the purse (who paid); rival where he is either. In Ketsuen it can only ask.
+
+### R74-24-RIVAL_ON_CASE [Mystery Law 2026-10-04 MY18]
+
+An NPC working the same case as Isaac's PC voices his own confident, often wrong theories, a right one spoken only after the PC has held every clue it rests on, and runs the case as a Front that may close it first, right or wrong, from clues the page has shown, a wrong close able to hang an innocent and a right one taking the credit and the fee.
+
+> A rival on his own clock. B, and an NPC on the same case runs it as a Front and may close it first, right or wrong, from clues the page has shown; a wrong close can hang an innocent, a right one takes the credit and the fee.
+
+### R74-29-WHAT_HORROR_LEAVES [Mystery Law 2026-10-04 HO4]
+
+A seen horror may leave one Ledger mark with a due condition that fades on its clock, and a mark struck again before it fades deepens to a standing condition with a named counter (rest, a person, a rite), fraying by stages with no meter and no number.
+
+> Marks that compound. B, and a mark struck again before it fades deepens to a standing condition with a named counter (rest, a person, a rite): fraying by stages, still no meter and no number.
+
+### R74-36-FEINTS_WITHIN_FEINTS [Mystery Law 2026-10-04 IN2]
+
+A scheme may nest as deep as its faction can afford, and every layer leaves at least one sign a player could catch before that layer turns.
+
+> Any depth, each planted. Schemes nest as deep as the faction can afford, and every layer leaves at least one sign a player could catch before that layer turns.
+
+### R74-37-BETRAYAL_TRUSTED [Mystery Law 2026-10-04 IN3]
+
+The thread's standing warm bond never betrays by choice, and anyone else may betray only with the signs shown twice before the turn.
+
+> The warm bond is safe. The thread's standing warm bond never betrays by choice; anyone else may, with the signs shown twice before the turn (R71-23's rhythm).
+
+### R74-38-LEVERAGE_BLACKMAIL [Mystery Law 2026-10-04 IN4]
+
+A secret works as leverage while it stays unspoken and breaks when spoken openly, opening the victim's Front against whoever spoke it, and every held secret is also a Ledger risk against its holder: someone wants the secret, or the man who holds it, gone.
+
+> Held, it marks the holder. As B, and every held secret is also a Ledger risk against its holder, on the same line as K4's B: someone wants the secret, or the man who holds it, gone.
+
+### R74-41-INTRIGUE_FRONT_FILE_SHOWS [Mystery Law 2026-10-04 IN6]
+
+For mystery and intrigue Fronts only, the clock and its ticks show while the Want and Next move live in a sealed file Natalie reads, opened to Isaac when the Front resolves or when he asks.
+
+> Clock shown, contents sealed. For mystery and intrigue Fronts only, the clock and its ticks show; the Want and Next move live in a sealed file Natalie reads, opened to Isaac when the Front resolves or he asks.
+
+### R74-42-WHEN_PROCESS_BOUGHT [Mystery Law 2026-10-04 IN7]
+
+Courts and files can be bought, lost or sealed, and every such corruption leaves a findable trail (a payment, a hand, a gap in a numbered series) whose finding reopens the case.
+
+> Bought, with a trail. Courts and files can be bought, lost or sealed, and every corruption leaves a findable trail (a payment, a hand, a gap in a numbered series), as R71-84 makes forgeries; finding it reopens the case.
+
+### R74-43-WHERE_MYSTERY_LAW_LANDS [Mystery Law 2026-10-04 ME1]
+
+The answers land as one dated rule doc served by load_rules, with NATALIE.md's table rules and Iceberg lines rewritten to agree with it, plus a new Mystery, Horror and Intrigue Craft Guide in desktop/ for Natalie to read before a dark or scheming scene.
+
+> Doc, NATALIE, a guide. B, plus a new Mystery, Horror and Intrigue Craft Guide in desktop/, so Natalie has one document to read before a dark or scheming scene.
+
+### R74-44-WHAT_TABLE_KEEPS_PAPER [Mystery Law 2026-10-04 ME2]
+
+Every faction with a Front gets a sheet on the Powers page model (wants, holds, fights by, set against, fears, its method and its seam), and the roster's knows line gains a running entry, updated at session end, of what each NPC in an intrigue knows or believes about the PC.
+
+> Yes to: Faction sheets (Every faction with a Front gets a sheet on the Powers page model: wants, holds, fights by, set against, fears, its method, and its seam); What NPCs know of him (The roster's knows line gains a running entry, updated at session end, of what each NPC in an intrigue knows or believes about the PC).
 
 ### R39-8-PACKS_FOLDED_INTO_EDITIONS [Stat System and Scene Rulings 2026-09-13 Folding]
 
@@ -15946,7 +16588,7 @@ When the partner thinks a beat is drifting or a rule reads wrong, it says so in 
 
 > When the partner thinks a beat is drifting or a rule reads wrong, it says so in one plain line and keeps writing unless stopped.
 
-## standing-inventory (97)
+## standing-inventory (101)
 
 ### R20C-47-CRAFTS_OWE_THE_INVENTORY [Pack Twenty R20C-47]
 
@@ -16205,6 +16847,30 @@ The intimacy answers land as one dated Intimacy Law rule doc logged through log_
 The Kharven Standing Inventory (airag, borts, aaruul, the deel, the night-stone, blubber lamp, woodpile count, death-house/Waiting, sky burial, eight proverbs) is Mongolian-Inuit material culture, not naming register, and is load-bearing in every scene written this session; recommendation is to keep it.
 
 > The Kharven Standing Inventory. Airag, borts, aaruul, the deel, the night-stone, the blubber lamp, the woodpile count, the death-house and the Waiting, sky burial, and all eight proverbs. This is Mongolian-Inuit material culture, derived from permafrost and scarcity, and it is load-bearing in every scene written this session. Reverting it would strand the execution scene, the council, the wall scene and the manor scene all at once, and it would cost more than it bought. Recommendation: keep.
+
+### R74-15-CLUE_OBJECTS [Mystery Law 2026-10-04 MY7]
+
+Each Standing Inventory gains a 'Clue beds' line beside 'Notices first' (Kharven counts and the woodpile, Accord meters and wax, Moto seals and court verse), and a case draws its clues from its culture.
+
+> By culture. Each Standing Inventory gains a 'Clue beds' line beside 'Notices first': Kharven counts and the woodpile, Accord meters and wax, Moto seals and court verse. A case draws its clues from its culture.
+
+### R74-17-HOW_WITNESSES_ERR [Mystery Law 2026-10-04 MY9]
+
+A witness who is wrong without lying errs by real memory science or by his culture's misreading and folk belief, and the roster gains an 'errs about' field beside 'lied about', so an honest error never owes a liar's tell.
+
+> Both, logged apart. Errors come by either road, and the roster gains an 'errs about' field beside 'lied about', so an honest error never owes a liar's tell.
+
+### R74-30-DEAD_FOLK_BELIEF [Mystery Law 2026-10-04 HO5]
+
+When a folk belief about the dead meets the dead, events may show where it holds and where it fails, each traced in the notes to canon mechanism, while the people keep their reading and the narration corrects nothing.
+
+> Half true, by mechanism. Events show where a belief holds and where it fails, both traced in the notes to canon mechanism; the people keep their reading, and the narration still corrects nothing.
+
+### R74-39-SPIES_INFORMATION_TRADE [Mystery Law 2026-10-04 IN5]
+
+The table runs the information trade three ways: inserts, bulletins and the penny press carry public intelligence both ways; intercepted letters, wires and dockets appear in full as documents with seal, hand and paper described as clues; and each service gets working words for agents, drops and watchers in its Inventory's Words entry.
+
+> Yes to: The press as intelligence (Inserts, bulletins and the penny press carry public intelligence both ways: whoever reads them learns something, and is learned about by whoever filed them); Letters as exhibits (Intercepted letters, wires and dockets appear in full as documents Isaac can read (R70-67), with seal, hand and paper described as clues); Tradecraft per service (Each service (the Watch, the Mother's cultures, the Moto court, the Mahuo houses) gets working words for agents, drops and watchers in its Inventory's Words entry (R70-33)).
 
 ### R70-16-OPENING_MODES [Style Law 2026-10-03 SP3]
 
@@ -16530,7 +17196,7 @@ No decade-by-decade technology page: the partner judges what is era-appropriate 
 
 > No decade-by-decade technology page: the partner judges what is era-appropriate in the Imperial Age scene by scene.
 
-## stats (181)
+## stats (183)
 
 ### R20C-30-STAGE_NAMES_FROM_FOW [Pack Twenty R20C-30]
 
@@ -17318,6 +17984,18 @@ The lettered Coherence Band gives way to the Tier of Standing everywhere.
 
 > The retired lettered Coherence Band is replaced, wherever it survives outside the Magic System pages, by the Tier of Standing for the page's Stage, and η is kept as written.
 
+### R74-4-WHAT_KNOWING_COSTS [Mystery Law 2026-10-04 K4]
+
+Knowledge is dangerous through who notices that Isaac's PC knows (the Gate punishing unlicensed knowledge, the Mother reading the Watch's inserts, a witness becoming a target); every secret learned opens a Ledger line on who knows he knows; and a few records held in objects (Mnemata) act on whoever touches them through canon mechanism, priced by Resilience with the counter named in the notes and no invented figure.
+
+> Records that act. B, plus a few records act on whoever touches them through canon mechanism (Mnemata, records held in objects, R61-70), priced by Resilience with the counter named in the notes. No invented figure.
+
+### R74-20-WHAT_INSTRUMENTS_PROVE [Mystery Law 2026-10-04 MY11]
+
+A sound instrument prints true, and a case lives in what one was not built to read (below its floor, behind a ward, or asked the wrong question), the notes saying which.
+
+> Never lies, may miss. A sound instrument prints true. A case lives in what one was not built to read: below its floor, behind a ward, or asked the wrong question. The notes say which.
+
 ### R69-5-MORTALIS_CATEGORIES_FLOORS [The Necrocursica Ratification 2026-09-28 necro 5]
 
 The Categories' floors and reservations; Category Four has none.
@@ -17621,7 +18299,7 @@ Stage V reads the Expert row's η of 0.60–0.70.
 
 > Splintering takes the 0.60-0.70 efficiency band; the whole Expert row reads 0.60-0.70.
 
-## verification (123)
+## verification (125)
 
 ### R20C-3-SWEEP_TWO_TIERS [Pack Twenty R20C-3]
 
@@ -18175,6 +18853,18 @@ The Möngön against Mönggön spelling dispute is struck from the docket, since
 
 > The Möngön against Mönggön dispute is dead. It was a spelling argument about a name that no longer exists. Struck from the docket.
 
+### R74-34-WITNESS_FACE [Mystery Law 2026-10-04 HO9]
+
+In a horror beat one witness's face may come before the thing itself, once a scene, and the reaction shot used as characterisation stays a tell everywhere else.
+
+> One witness, horror only. In a horror beat, one witness's face may come before the thing, once a scene; the reaction shot used as characterisation stays a tell everywhere else.
+
+### R74-45-MYSTERY_CHECKS_VERIFY [Mystery Law 2026-10-04 ME3]
+
+verify_scene FAILs 'unnameable', 'eldritch', 'indescribable', 'unspeakable' and 'nameless dread' in narration as a fourth hard-ban stock family (the Nameless day stays legal), WARNs past one a scene on stale not-knowing lines such as 'could make nothing of it', and FAILs a scene whose notes mark a reveal, a betrayal or a case's solution without listing an earlier planted sign.
+
+> Yes to: Cosmic stock words ('Unnameable', 'eldritch', 'indescribable', 'unspeakable' and 'nameless dread' join the hard-ban list as a fourth stock family, FAIL in narration; the Nameless day stays legal); Stale not-knowing lines (WARN past one a scene on 'could make nothing of it', 'did not know what that meant' and their kin, as the combat stale-device watch does for fights); Planted signs for turns (A scene whose notes mark a reveal, a betrayal or a case's solution FAILs unless the notes list an earlier planted sign (R48-30, R71-30)).
+
 ### R49-53-BUDGETS [Prose Law 2026-09-26 The checker]
 
 Per-scene budgets stay per scene (not scaled to turn length): longer turns simply run tighter.
@@ -18361,7 +19051,7 @@ When the partner thinks a beat is drifting or a rule reads wrong, it says so in 
 
 > When the partner thinks a beat is drifting or a rule reads wrong, it says so in one plain line and keeps writing unless stopped.
 
-## worldbuilding (348)
+## worldbuilding (357)
 
 ### R20C-1-BURI_DEAD_EVERYWHERE [Pack Twenty R20C-1]
 
@@ -19826,6 +20516,60 @@ The Kharven Standing Inventory (airag, borts, aaruul, the deel, the night-stone,
 Fusi Vā, the Agamalu binding rite, replaced Saishiki (a Japonic word on a rite that is Agamalu in origin and Vāimoana in provenance, wrong for both registers on its own terms); the Büri amendment isn't what made that change correct, so it stays kept.
 
 > Fusi Vā. The Agamalu binding rite. It replaced Saishiki, which was a Japonic word sitting on a rite that is Agamalu in origin and Vāimoana in provenance, and was wrong for both registers on its own terms. The Büri amendment is not what made that change correct. Recommendation: keep.
+
+### R74-15-CLUE_OBJECTS [Mystery Law 2026-10-04 MY7]
+
+Each Standing Inventory gains a 'Clue beds' line beside 'Notices first' (Kharven counts and the woodpile, Accord meters and wax, Moto seals and court verse), and a case draws its clues from its culture.
+
+> By culture. Each Standing Inventory gains a 'Clue beds' line beside 'Notices first': Kharven counts and the woodpile, Accord meters and wax, Moto seals and court verse. A case draws its clues from its culture.
+
+### R74-23-WATCH_AT_TABLE [Mystery Law 2026-10-04 MY14]
+
+To a live thread the Night Watch is a patron where the crown's warrant runs and Isaac's PC is neither the hand (who did it) nor the purse (who paid), a rival where he is either, and in Ketsuen it can only ask.
+
+> Both, by where. Patron where the crown's warrant runs and his PC is neither the hand (who did it) nor the purse (who paid); rival where he is either. In Ketsuen it can only ask.
+
+### R74-30-DEAD_FOLK_BELIEF [Mystery Law 2026-10-04 HO5]
+
+When a folk belief about the dead meets the dead, events may show where it holds and where it fails, each traced in the notes to canon mechanism, while the people keep their reading and the narration corrects nothing.
+
+> Half true, by mechanism. Events show where a belief holds and where it fails, both traced in the notes to canon mechanism; the people keep their reading, and the narration still corrects nothing.
+
+### R74-31-VEIL_AND_PC_GRIEF [Mystery Law 2026-10-04 HO6]
+
+At a Veil-thin place, grief or rage that Isaac's PC carried in may condense too, shaped only from what his archived scenes and card already show, with no mind to voice, and his response stays his.
+
+> His, from canon only. What he carried may condense too, shaped only from grief or rage his archived scenes and card already show; the beast has no mind to voice, and his response stays his.
+
+### R74-32-COSMIC_SCALE_ON_PAGE [Mystery Law 2026-10-04 HO7]
+
+Epoch-scale horror reaches the page through its effects by default, and at an arc's peak one such thing may stand in frame in full, stated as law with its reasons kept, changing no plot.
+
+> In frame at a peak. Effects carry it by default; at an arc's peak one may stand in frame in full, as stated law with reasons kept (R70-76), changing no plot (R7-2).
+
+### R74-36-FEINTS_WITHIN_FEINTS [Mystery Law 2026-10-04 IN2]
+
+A scheme may nest as deep as its faction can afford, and every layer leaves at least one sign a player could catch before that layer turns.
+
+> Any depth, each planted. Schemes nest as deep as the faction can afford, and every layer leaves at least one sign a player could catch before that layer turns.
+
+### R74-39-SPIES_INFORMATION_TRADE [Mystery Law 2026-10-04 IN5]
+
+The table runs the information trade three ways: inserts, bulletins and the penny press carry public intelligence both ways; intercepted letters, wires and dockets appear in full as documents with seal, hand and paper described as clues; and each service gets working words for agents, drops and watchers in its Inventory's Words entry.
+
+> Yes to: The press as intelligence (Inserts, bulletins and the penny press carry public intelligence both ways: whoever reads them learns something, and is learned about by whoever filed them); Letters as exhibits (Intercepted letters, wires and dockets appear in full as documents Isaac can read (R70-67), with seal, hand and paper described as clues); Tradecraft per service (Each service (the Watch, the Mother's cultures, the Moto court, the Mahuo houses) gets working words for agents, drops and watchers in its Inventory's Words entry (R70-33)).
+
+### R74-42-WHEN_PROCESS_BOUGHT [Mystery Law 2026-10-04 IN7]
+
+Courts and files can be bought, lost or sealed, and every such corruption leaves a findable trail (a payment, a hand, a gap in a numbered series) whose finding reopens the case.
+
+> Bought, with a trail. Courts and files can be bought, lost or sealed, and every corruption leaves a findable trail (a payment, a hand, a gap in a numbered series), as R71-84 makes forgeries; finding it reopens the case.
+
+### R74-44-WHAT_TABLE_KEEPS_PAPER [Mystery Law 2026-10-04 ME2]
+
+Every faction with a Front gets a sheet on the Powers page model (wants, holds, fights by, set against, fears, its method and its seam), and the roster's knows line gains a running entry, updated at session end, of what each NPC in an intrigue knows or believes about the PC.
+
+> Yes to: Faction sheets (Every faction with a Front gets a sheet on the Powers page model: wants, holds, fights by, set against, fears, its method, and its seam); What NPCs know of him (The roster's knows line gains a running entry, updated at session end, of what each NPC in an intrigue knows or believes about the PC).
 
 ### R20-1-MAHUO_ANCHOR [Naming Guide Amendment Part One]
 

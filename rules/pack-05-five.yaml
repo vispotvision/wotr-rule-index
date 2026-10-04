@@ -195,6 +195,11 @@ rules:
       names, not exaggerated conduct) and humour as a tone exception
       (R70-113-DOUBLE_ACT_COMIC_BEAT keeps full comic beats a property of
       carded comic voices).
+      Partly re-ruled by R74-34-WITNESS_FACE (mystery law 2026-10-04): reaction
+      shots as characterisation (the tell R5-G-TELL_BANK_ADDITIONS carries)
+      give way for one witness's face before the thing in a horror beat, once a
+      scene, and stay a tell everywhere else. The rest of this list stands as
+      already re-ruled.
 
   - id: R5-B-FOIL_FUNCTION_SURVIVES
     pack: Pack Five
@@ -343,6 +348,12 @@ rules:
       ambush or assassination is split at a marked break between the wait and
       the shot, each half POV-locked, instead of given whole to whoever knows
       least; the default stands for every other scene.
+      Partly amended by R74-1-HOW_MUCH_READER_SOLVES (mystery law 2026-10-04):
+      'Undeclared work defaults to inverted, the house mode': each book or
+      thread bible names its mystery mode (inverted, fair puzzle, or the
+      split), and in an inverted book the villain's room is shown and the
+      reader knows who and how, so there this default yields to the declared
+      mode. It stands for every other scene, breakable with reason as written.
 
   - id: R5-C1-WELL_REASONED_WRONG_CONCLUSION
     pack: Pack Five
@@ -1096,6 +1107,10 @@ rules:
       reaction-shot cutaway (R70-112-FACE_FACE_SLAP's reassessing room names
       no tell; R70-72 strikes the cutaway for crowds) and narrator moral
       adjudication.
+      Partly re-ruled by R74-34-WITNESS_FACE (mystery law 2026-10-04): the
+      reaction-shot cutaway is re-ruled for one case more: in a horror beat one
+      witness's face may come before the thing, once a scene. It stays a tell
+      everywhere else, as do the other three tells here.
 
   - id: R5-H-NARRATION_AUTHORITY_PENDING
     pack: Pack Five

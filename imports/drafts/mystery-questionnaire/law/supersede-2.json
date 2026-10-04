@@ -1,0 +1,146 @@
+[
+ {
+  "old_id": "R70-20-PARAGRAPH_SHAPE",
+  "action": "note",
+  "by": "R74-26-DREAD_PACING",
+  "r74_quote": "the swift beat is one sudden sight set as a cluster of one-line paragraphs (R70-20)",
+  "old_text": "One-liners at peaks. Medium paragraphs stay the norm; reveals, verdicts, notices and a fight's last beats may run as one-line paragraphs in a cluster. R48-07 is amended; R49-14's shape check stays.",
+  "note_text": "Partly amended by R74-26-DREAD_PACING (mystery law 2026-10-04): a horror scene's one hard shock, a single sudden sight, may also run as a cluster of one-line paragraphs, beside the reveals, verdicts, notices and a fight's last beats named here; one shock per horror scene at most. Medium paragraphs stay the norm."
+ },
+ {
+  "old_id": "R9-3-SILHOUETTE_ENTRANCE",
+  "action": "note",
+  "by": "R74-27-THING_SEEN",
+  "r74_quote": "R9-3 extends to horrors: effects and outline first, through the room and the bodies (R70-69's order)",
+  "old_text": "Silhouette-first entrance. A practitioner arriving at a Pressure the room hasn't classified yet is staged backlit, shape before detail — the existing silhouette tool in Section 3, now explicitly licensed for a power-arrival rather than rationed to dread generally.",
+  "note_text": "Partly amended by R74-27-THING_SEEN (mystery law 2026-10-04): \"R9-3 extends to horrors\", so a horror too is shown shape before detail, effects and outline first through the room and the bodies, its full inventory landing when it is understood, appraised or fought. The power-arrival licence stands."
+ },
+ {
+  "old_id": "R70-54-GETS_FULL_INVENTORY",
+  "action": "note",
+  "by": "R74-27-THING_SEEN",
+  "r74_quote": "the full inventory lands when the thing is understood, appraised or fought",
+  "old_text": "Places full, minors one stroke. Major people, places, rooms, creatures and significant objects get the full inventory; minor people get one exact stroke.",
+  "note_text": "Partly amended by R74-27-THING_SEEN (mystery law 2026-10-04): a horror is half-seen first, effects and outline through the room and the bodies, and its full inventory lands when the thing is understood, appraised or fought, not at first sight. Everyone and everything else keeps the full inventory or the one stroke as written."
+ },
+ {
+  "old_id": "R70-55-ORDER_FIRST_INVENTORY",
+  "action": "note",
+  "by": "R74-27-THING_SEEN",
+  "r74_quote": "the full inventory lands when the thing is understood, appraised or fought",
+  "old_text": "The POV's order. The inventory stays one passage at first sight but runs in the order this POV would look: a clerk prices first, a surgeon reads wounds first, a rider looks at hands.",
+  "note_text": "Partly amended by R74-27-THING_SEEN (mystery law 2026-10-04): for a horror the one inventory passage waits until the thing is understood, appraised or fought instead of coming at first sight. The POV's order stands."
+ },
+ {
+  "old_id": "R49-28-INTROS",
+  "action": "note",
+  "by": "R74-27-THING_SEEN",
+  "r74_quote": "the full inventory lands when the thing is understood, appraised or fought",
+  "old_text": "First introductions get the full physical inventory all at first sight, in one descriptive passage.",
+  "note_text": "Partly amended by R74-27-THING_SEEN (mystery law 2026-10-04): a horror's first introduction is half-seen, effects and outline through the room and the bodies, and its full inventory lands when the thing is understood, appraised or fought, not all at first sight. Every other first introduction stands as written."
+ },
+ {
+  "old_id": "R71-6-PLAYER_FIGHTER_PAGE",
+  "action": "note",
+  "by": "R74-28-FEAR_IN_PC",
+  "r74_quote": "Where a field, Pressure, a working, the cold or a sudden shock acts on his body (the Pike's weight, the Lamp-drinker's chill, a startle), its signs are world facts; what he feels about them and does stays his.",
+  "old_text": "Yes to: Wounds as world facts (Once your stated move resolves, the hit, the wound by structure, its ATLS class (the trauma surgeons' blood-loss scale) and what the hand can no longer do are written as world facts; how he bears it stays yours); The tell placed, the read his (Natalie puts the evidence in the room (the heel, the smell, the needle) and never draws the conclusion; the deduction, floor item 3, is your post, as CW14's D already leaves the reading to you); Felt from across the room (From an NPC's POV a player's fighter is only what that NPC's eyes, body and room register, the Geturo model; his reasons and his Crystal stay dark. It covers guest players at the Discord table too); Outward cost only (Natalie shows what his working costs where others could see it (heat off the skin, thaw at his boots, R48-37) and keeps the spend in the Stat Ledger (the running figures in the notes); the inside is yours).",
+  "note_text": "Extended by R74-28-FEAR_IN_PC (mystery law 2026-10-04): at a horror, outside a fight too, where a field, Pressure, a working, the cold or a sudden shock acts on his body, its signs are written as world facts, as a wound is under this row; what he feels about them and does stays his. This row stands."
+ },
+ {
+  "old_id": "R49-01-WHOSE_HEAD",
+  "action": "note",
+  "by": "R74-28-FEAR_IN_PC",
+  "r74_quote": "Where a field, Pressure, a working, the cold or a sudden shock acts on his body (the Pike's weight, the Lamp-drinker's chill, a startle), its signs are world facts; what he feels about them and does stays his.",
+  "old_text": "In roleplay turns the narration may go to full depth inside Isaac's character; Isaac overrules any thought that isn't his.",
+  "note_text": "Partly amended by R74-28-FEAR_IN_PC (mystery law 2026-10-04): at a horror, the signs a field, Pressure, a working, the cold or a sudden shock puts in his body are written as world facts, and what he feels about them and does stays his; Isaac still overrules any thought that is not his."
+ },
+ {
+  "old_id": "R53-15-FOLK_BELIEFS",
+  "action": "note",
+  "by": "R74-30-DEAD_FOLK_BELIEF",
+  "r74_quote": "Events show where a belief holds and where it fails, both traced in the notes to canon mechanism; the people keep their reading, and the narration still corrects nothing.",
+  "old_text": "Each culture's Inventory gets a few named false folk beliefs about magic, some half-true; characters act on them and the narration never corrects them.",
+  "note_text": "Extended by R74-30-DEAD_FOLK_BELIEF (mystery law 2026-10-04): when a folk belief about the dead meets the dead, events may show where it holds and where it fails, each traced in the notes to canon mechanism; the people keep their reading, and the narration still never corrects them. This row stands."
+ },
+ {
+  "old_id": "R48-34-WOUNDS",
+  "action": "note",
+  "by": "R74-33-BODY_HORROR_OUTSIDE_FIGHT",
+  "r74_quote": "R48-34 extends to horror: anatomy named, colour, texture and the absent smell, nothing looked away from, in the POV's flat, exact eye. Documents may carry it too.",
+  "old_text": "Wounds: full clinical gore, anatomy named, blood loss tracked minute by minute, nothing looked away from.",
+  "note_text": "Partly amended by R74-33-BODY_HORROR_OUTSIDE_FIGHT (mystery law 2026-10-04): \"R48-34 extends to horror\", so body horror outside a fight is written the same way: anatomy named, colour, texture and the absent smell, nothing looked away from, in the POV's flat, exact eye, and documents may carry it too. Wounds stand as written."
+ },
+ {
+  "old_id": "R5-G-TELL_BANK_ADDITIONS",
+  "action": "note",
+  "by": "R74-34-WITNESS_FACE",
+  "r74_quote": "In a horror beat, one witness's face may come before the thing, once a scene; the reaction shot used as characterisation stays a tell everywhere else.",
+  "old_text": "Add as active tells: declarative characterisation, the reaction-shot cutaway, the comedic beat structure, narrator moral adjudication.",
+  "note_text": "Partly re-ruled by R74-34-WITNESS_FACE (mystery law 2026-10-04): the reaction-shot cutaway is re-ruled for one case more: in a horror beat one witness's face may come before the thing, once a scene. It stays a tell everywhere else, as do the other three tells here."
+ },
+ {
+  "old_id": "R5-B-MANHWA_DIRECTIVE_REPEALED",
+  "action": "note",
+  "by": "R74-34-WITNESS_FACE",
+  "r74_quote": "In a horror beat, one witness's face may come before the thing, once a scene; the reaction shot used as characterisation stays a tell everywhere else.",
+  "old_text": "Struck in full from the project instructions and from Section 4's sanctioned-exception clause. The following are no longer craft law and should be treated as active tells if they appear in a draft.",
+  "note_text": "Partly re-ruled by R74-34-WITNESS_FACE (mystery law 2026-10-04): reaction shots as characterisation (the tell R5-G-TELL_BANK_ADDITIONS carries) give way for one witness's face before the thing in a horror beat, once a scene, and stay a tell everywhere else. The rest of this list stands as already re-ruled."
+ },
+ {
+  "old_id": "R48-30-SURPRISES",
+  "action": "note",
+  "by": "R74-36-FEINTS_WITHIN_FEINTS",
+  "r74_quote": "every layer leaves at least one sign a player could catch before that layer turns",
+  "old_text": "Big surprises (betrayal, ambush, death) only after foreshadowing a player could have caught.",
+  "note_text": "Partly amended by R74-36-FEINTS_WITHIN_FEINTS (mystery law 2026-10-04): a scheme may nest as deep as its faction can afford, and every layer leaves at least one sign a player could catch before that layer turns, so the foreshadowing is owed layer by layer."
+ },
+ {
+  "old_id": "R48-30-SURPRISES",
+  "action": "note",
+  "by": "R74-37-BETRAYAL_TRUSTED",
+  "r74_quote": "The thread's standing warm bond never betrays by choice; anyone else may, with the signs shown twice before the turn (R71-23's rhythm).",
+  "old_text": "Big surprises (betrayal, ambush, death) only after foreshadowing a player could have caught.",
+  "note_text": "Partly amended by R74-37-BETRAYAL_TRUSTED (mystery law 2026-10-04): for a betrayal the foreshadowing is the signs shown twice before the turn, on R71-23-TELL_READ's rhythm, and the thread's standing warm bond never betrays by choice."
+ },
+ {
+  "old_id": "R70-114-GRIMDARK_WARMTH",
+  "action": "note",
+  "by": "R74-37-BETRAYAL_TRUSTED",
+  "r74_quote": "The thread's standing warm bond never betrays by choice",
+  "old_text": "Warmth as counterweight. Each live thread carries at least one standing warm bond (found family, master and disciple, sworn kin) written openly warm, and joy may get scenes of its own. Losses still cost.",
+  "note_text": "Partly amended by R74-37-BETRAYAL_TRUSTED (mystery law 2026-10-04): the standing warm bond each live thread carries never betrays by choice; anyone else may betray, with the signs shown twice before the turn. Losses still cost."
+ },
+ {
+  "old_id": "R70-33-WORD_BANK_PER_CULTURE",
+  "action": "note",
+  "by": "R74-39-SPIES_INFORMATION_TRADE",
+  "r74_quote": "Each service (the Watch, the Mother's cultures, the Moto court, the Mahuo houses) gets working words for agents, drops and watchers in its Inventory's Words entry (R70-33)",
+  "old_text": "A Words entry everywhere. Every Inventory gains a Words entry: native words, trade terms, slang and address forms, each with meaning and who says it. Scenes draw from it first; a checker can spell-check against it.",
+  "note_text": "Partly amended by R74-39-SPIES_INFORMATION_TRADE (mystery law 2026-10-04): each service (the Watch, the Mother's cultures, the Moto court, the Mahuo houses) gets working words for agents, drops and watchers in its Inventory's Words entry."
+ },
+ {
+  "old_id": "R71-101-LAW_TURNS",
+  "action": "note",
+  "by": "R74-42-WHEN_PROCESS_BOUGHT",
+  "r74_quote": "Courts and files can be bought, lost or sealed, and every corruption leaves a findable trail (a payment, a hand, a gap in a numbered series), as R71-84 makes forgeries; finding it reopens the case.",
+  "old_text": "Yes to: Proof decides (Law moves only on a witness or a reading inside the residue clocks (R61-7); R60-11's trace proof reaches blade killings too. An unread killing sits on the Ledger as a risk); Courts fight over it (Every practitioner's killing opens a jurisdiction contest between crown, company and guild (R60-19) as a Front, and the killer's fate turns on which layer wins it); Declare it, or murder (A killer who does not declare before witnesses by the next dawn is a murderer in every culture that keeps witnesses, Kharven and Korvaeth first. The declaration is its own short scene). Not taken: Standing buys terms.",
+  "note_text": "Partly amended by R74-42-WHEN_PROCESS_BOUGHT (mystery law 2026-10-04): courts and files can be bought, lost or sealed, so a corruption may hold against proof until its trail is found; every corruption leaves a findable trail (a payment, a hand, a gap in a numbered series), and finding it reopens the case. The court fight and the declaration by dawn stand."
+ },
+ {
+  "old_id": "R70-35-HARD_BAN_LIST",
+  "action": "note",
+  "by": "R74-45-MYSTERY_CHECKS_VERIFY",
+  "r74_quote": "'Unnameable', 'eldritch', 'indescribable', 'unspeakable' and 'nameless dread' join the hard-ban list as a fourth stock family, FAIL in narration; the Nameless day stays legal",
+  "old_text": "Yes to: Cultivation-translation stock (Bans 'qi surged', 'a cold glint flashed', 'sucked in a cold breath' and 'killing intent surged' in narration. The Eastern feel comes from method, never from translated filler); Western fantasy stock (Bans 'the steel sang', 'a grim smile', 'his blood ran cold', 'every fibre of his being' and 'darkness gathered'. Grimdark's own worn phrasing goes out with the imported kind); LitRPG stock (Bans 'power surged through him', 'stronger than ever', 'a wave of power' and 'his stats soared'. Growth shows in the body and on the instrument); Trim the false hits (Narrows three items to their stock sense: a will called a testament passes, 'visceral' passes in anatomy (the visceral pleura, R49-45), 'orbs' passes for lamps and regalia. The stock senses still fail).",
+  "note_text": "Partly amended by R74-45-MYSTERY_CHECKS_VERIFY (mystery law 2026-10-04): a fourth stock family, cosmic stock ('unnameable', 'eldritch', 'indescribable', 'unspeakable', 'nameless dread'), joins the three here and FAILs in narration; the Nameless day stays legal."
+ },
+ {
+  "old_id": "R51-10-SLOP_WORDS",
+  "action": "note",
+  "by": "R74-45-MYSTERY_CHECKS_VERIFY",
+  "r74_quote": "'Unnameable', 'eldritch', 'indescribable', 'unspeakable' and 'nameless dread' join the hard-ban list as a fourth stock family, FAIL in narration; the Nameless day stays legal",
+  "old_text": "A hard-ban list separate from the repetition list: tapestry, testament, palpable, visceral, symphony of, a dance of, whisper of, orbs (eyes), ministrations, electric (touch), velvet (voice), shiver down the spine, a breath he didn't know he was holding, the coppery tang of blood, the smell of ozone; each fails the checker at first use, narration and dialogue.",
+  "note_text": "Partly amended by R74-45-MYSTERY_CHECKS_VERIFY (mystery law 2026-10-04): the hard-ban list gains a fourth stock family, cosmic stock ('unnameable', 'eldritch', 'indescribable', 'unspeakable', 'nameless dread'), which FAILs in narration; the Nameless day stays legal."
+ }
+]

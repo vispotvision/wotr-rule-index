@@ -1,0 +1,122 @@
+[
+ {
+  "old_id": "R5-C1-WRITE_FROM_LEAST_KNOWING",
+  "action": "note",
+  "by": "R74-1-HOW_MUCH_READER_SOLVES",
+  "r74_quote": "Undeclared work defaults to inverted, the house mode.",
+  "old_text": "Where a scene could be written from two POVs, write it from whoever knows least about what is coming. This is a default, breakable with reason.",
+  "note_text": "Partly amended by R74-1-HOW_MUCH_READER_SOLVES (mystery law 2026-10-04): 'Undeclared work defaults to inverted, the house mode': each book or thread bible names its mystery mode (inverted, fair puzzle, or the split), and in an inverted book the villain's room is shown and the reader knows who and how, so there this default yields to the declared mode. It stands for every other scene, breakable with reason as written."
+ },
+ {
+  "old_id": "R57-10-NEVER_RIGGED",
+  "action": "note",
+  "by": "R74-2-FAIRPLAY_TERMS",
+  "r74_quote": "The truth (who, how, why) is written in the notes before the first clue is placed and never moves to fit a guess: R57-10's ban on rigging made a procedure",
+  "old_text": "Knowledge is accessible, including meta knowledge, but is never used to outrageous advantage: NPCs and opponents fight with what they could plausibly know and do, abilities stay grounded in real physics principles, and every engagement is built to be fun and a genuine challenge for the PC, never rigged in either direction.",
+  "note_text": "Extended by R74-2-FAIRPLAY_TERMS (mystery law 2026-10-04): 'R57-10's ban on rigging made a procedure': in every mystery, written or played, the truth (who, how, why) is written in the notes before the first clue is placed and never moves to fit a guess. The ban itself stands as written."
+ },
+ {
+  "old_id": "R71-30-HELD_BACK_REVEAL",
+  "action": "note",
+  "by": "R74-2-FAIRPLAY_TERMS",
+  "r74_quote": "No working is invented to solve a case; one that falsifies perception is planted (R71-30) or barred",
+  "old_text": "Shown before, told at reveal. This reopens R70-71 for held reveals: the rule may act earlier, unexplained, as evidence a reader could catch, and a voice tells it at the reveal. The notes list each planted sign.",
+  "note_text": "Extended by R74-2-FAIRPLAY_TERMS (mystery law 2026-10-04): 'one that falsifies perception is planted (R71-30) or barred': this fight rule now reaches a case's solution, so a working that falsifies perception is planted as a held reveal is, its signs listed in the notes, or it is barred, and no working is invented to solve a case. Held reveals in fights stand as written."
+ },
+ {
+  "old_id": "R48-42-LIES",
+  "action": "note",
+  "by": "R74-5-WHAT_CATCHING_LIE_IS",
+  "r74_quote": "Caught when his PC acts on the truth or names the lie in play. Isaac spotting it in chat changes nothing in the world until his PC moves.",
+  "old_text": "Frequent lies: many NPCs lie for their own reasons; the player has to catch them.",
+  "note_text": "Partly amended by R74-5-WHAT_CATCHING_LIE_IS (mystery law 2026-10-04): 'the player has to catch them' now means his PC catching them: a lie is caught when his PC acts on the truth or names the lie in play, and Isaac spotting it in chat changes nothing in the world until his PC moves. Frequent lies stand."
+ },
+ {
+  "old_id": "R49-09-CUTAWAYS",
+  "action": "note",
+  "by": "R74-7-CUTTING_AWAY_INSIDE_CASE",
+  "r74_quote": "A turn may close on a short marked cut to the other side moving (a hand, a room, a deed) that may carry a clue, never a face, a name or the answer.",
+  "old_text": "A turn may close with a short, clearly marked cut to something the POV cannot see (a Front advancing, an NPC plotting).",
+  "note_text": "Partly amended by R74-7-CUTTING_AWAY_INSIDE_CASE (mystery law 2026-10-04): while his PC works a case, a closing cut to the other side shows it moving (a hand, a room, a deed) and may carry a clue, but never a face, a name or the answer. Outside a case this rule stands."
+ },
+ {
+  "old_id": "R72-7-CUTAWAY_SHOWS",
+  "action": "note",
+  "by": "R74-7-CUTTING_AWAY_INSIDE_CASE",
+  "r74_quote": "A turn may close on a short marked cut to the other side moving (a hand, a room, a deed) that may carry a clue, never a face, a name or the answer.",
+  "old_text": "The act, reason kept. The cut shows who acts and what they do, and keeps the reason, as R70-76 does for the world's magic. You see the move; your PC still has to read the why.",
+  "note_text": "Partly amended by R74-7-CUTTING_AWAY_INSIDE_CASE (mystery law 2026-10-04): inside a case his PC works, the cut shows the act (a hand, a room, a deed) but never the actor's face or name, and never the answer. Outside a case the cut still shows who acts and what they do, reason kept."
+ },
+ {
+  "old_id": "R71-52-AMBUSH_NAMED_ROUND",
+  "action": "note",
+  "by": "R74-7-CUTTING_AWAY_INSIDE_CASE",
+  "r74_quote": "A turn may close on a short marked cut to the other side moving (a hand, a room, a deed) that may carry a clue, never a face, a name or the answer.",
+  "old_text": "Both, split by a break. A marked break splits the wait from the shot, each half POV-locked. In roleplay the shooter's half is one turn's closing cutaway (R49-09), and the shot lands in the next turn.",
+  "note_text": "Partly amended by R74-7-CUTTING_AWAY_INSIDE_CASE (mystery law 2026-10-04): when the ambush belongs to a case his PC works, the shooter's half played as a turn's closing cutaway shows the hand and the deed, never his face or name, and never the answer. The split at a marked break stands, and outside a case the rule stands as written."
+ },
+ {
+  "old_id": "R71-81-FORENSIC_READING_PAGE",
+  "action": "note",
+  "by": "R74-12-REST_OF_WATCH_SEARCH",
+  "r74_quote": "Protocol, closed on filing. As A, and the search closes on its docket line set off from the prose",
+  "old_text": "Protocol as action. The pair, the stands and the withdrawal play as action, and figures enter in a mouth, read aloud at every stand, outside R70-86's cap. The contradiction between the instruments is the scene's turn.",
+  "note_text": "Extended by R74-12-REST_OF_WATCH_SEARCH (mystery law 2026-10-04): 'As A, and the search closes on its docket line set off from the prose': its protocol as action now reaches every Night Watch search, rooms, bodies and seals playing step by step as action, figures in a mouth, nothing summarised, and the search closes on its docket line set off from the prose. Its figures outside R70-86-MANY_READOUTS_SCENE_CARRIES's cap and the instruments' contradiction as the turn stand."
+ },
+ {
+  "old_id": "R71-22-TALK_INSIDE_FIGHT",
+  "action": "note",
+  "by": "R74-13-INTERROGATION",
+  "r74_quote": "A duel of tells. R71-22's accounting extends past fights: each question aims at a tell, and the page shows what it bought or cost.",
+  "old_text": "Talk as a weapon. Taunts, lies and accusations are moves: each line aims to break the read or the temper, and the page shows what it bought or cost in tempo. Gallows wit stays the only joke.",
+  "note_text": "Extended by R74-13-INTERROGATION (mystery law 2026-10-04): 'R71-22's accounting extends past fights': in a questioning each question aims at a tell and the page shows what it bought or cost. Inside a fight this rule stands as written."
+ },
+ {
+  "old_id": "R6-8-STANDING_INVENTORY_CATEGORIES",
+  "action": "note",
+  "by": "R74-15-CLUE_OBJECTS",
+  "r74_quote": "Each Standing Inventory gains a 'Clue beds' line beside 'Notices first': Kharven counts and the woodpile, Accord meters and wax, Moto seals and court verse. A case draws its clues from its culture.",
+  "old_text": "A per-culture register of non-magical material idiom, built and maintained as canon. Nine required categories:",
+  "note_text": "Extended by R74-15-CLUE_OBJECTS (mystery law 2026-10-04): every Inventory gains a 'Clue beds' line beside 'Notices first' (Kharven counts and the woodpile, Accord meters and wax, Moto seals and court verse), and a case draws its clues from its culture. The nine categories stand."
+ },
+ {
+  "old_id": "R70-38-REASONING_SHOWS",
+  "action": "note",
+  "by": "R74-16-INVESTIGATOR_HEAD",
+  "r74_quote": "Every fact she notices reaches the page plainly; the conclusion waits, carried by her next act, as Holmes keeps his. Numbered steps stay legal at the solution.",
+  "old_text": "Yes to: Stepwise lists (A reasoning POV may set thinking out as numbered steps, risk lists or tests in italic thought; R16-8-CHECK33's cap on technical terms in italics eases); The unsaid (Thought may stop short of its conclusion and leave an action or an image to carry it, as Kawabata does; deep interiority becomes one mode of two, chosen per register); Reasoning from figures (A POV who can read rank or price may reason from readings and figures as evidence, as LitRPG heroes do; every figure still traces to a source (R12-5)).",
+  "note_text": "Partly amended by R74-16-INVESTIGATOR_HEAD (mystery law 2026-10-04): when the POV is the investigator, no fact she notices is held back under the unsaid, her conclusion waits, carried by her next act, and numbered steps stay legal at the solution. Elsewhere the three modes stand."
+ },
+ {
+  "old_id": "R70-44-CULTURE_KEYED_NOTICING",
+  "action": "note",
+  "by": "R74-17-HOW_WITNESSES_ERR",
+  "r74_quote": "Errors come by either road, and the roster gains an 'errs about' field beside 'lied about', so an honest error never owes a liar's tell.",
+  "old_text": "Place supplies, viewer judges. The place's Inventory sets what is in the room; the POV's culture sets what he makes of it, misreadings included. Each Inventory gains a 'Notices first' line for both jobs.",
+  "note_text": "Extended by R74-17-HOW_WITNESSES_ERR (mystery law 2026-10-04): 'Errors come by either road': this row reaches testimony, so a witness may misread what he saw by his culture, and his honest error is logged on the roster under 'errs about' beside 'lied about' and owes no liar's tell. The row stands."
+ },
+ {
+  "old_id": "R53-15-FOLK_BELIEFS",
+  "action": "note",
+  "by": "R74-17-HOW_WITNESSES_ERR",
+  "r74_quote": "Errors come by either road, and the roster gains an 'errs about' field beside 'lied about', so an honest error never owes a liar's tell.",
+  "old_text": "Each culture's Inventory gets a few named false folk beliefs about magic, some half-true; characters act on them and the narration never corrects them.",
+  "note_text": "Extended by R74-17-HOW_WITNESSES_ERR (mystery law 2026-10-04): 'Errors come by either road': this row reaches testimony, so a witness may misread by his culture's folk belief, and his honest error is logged on the roster under 'errs about' beside 'lied about' and owes no liar's tell. The row stands."
+ },
+ {
+  "old_id": "R49-11-NOT_KNOWING",
+  "action": "note",
+  "by": "R74-19-THING_LEFT_UNEXPLAINED",
+  "r74_quote": "R49-11 carried to the table: no count; an unexplained notice comes when a scene has one worth leaving, marked texture or seed in the notes as in C.",
+  "old_text": "The not-knowing quotas (one thing the POV cannot interpret, one confident wrong inference) become optional; no per-scene minimum.",
+  "note_text": "Extended by R74-19-THING_LEFT_UNEXPLAINED (mystery law 2026-10-04): 'R49-11 carried to the table': no count is owed in roleplay turns either, so Table Rule 8's one a turn is gone; at the table an unexplained notice comes when a scene has one worth leaving, and the notes mark each one texture or seed. The row stands."
+ },
+ {
+  "old_id": "R67-8-MALPHAS_FILED_BY_TITLE",
+  "action": "note",
+  "by": "R74-25-NAMING_MALPHAS_IN_FILE",
+  "r74_quote": "No Watch file names him; he is filed by his title at his own written request, and named volumes are read at the desk, never copied in. The Papers stand.",
+  "old_text": "Malphas answered Farrant in writing and is filed by his title, Scribe to the Genesio Archivum, by order.",
+  "note_text": "Extended by R74-25-NAMING_MALPHAS_IN_FILE (mystery law 2026-10-04): 'No Watch file names him': the title filing reaches every Night Watch file, not the Papers alone; he is filed by his title at his own written request, and named volumes are read at the desk, never copied in. The Papers stand."
+ }
+]

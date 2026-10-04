@@ -1,0 +1,704 @@
+- id: R74-26-DREAD_PACING
+  pack: Mystery Law 2026-10-04
+  pack_number: null
+  section: HO1
+  title: A horror scene builds long and spends one hard shock
+  status: live
+  kind: budget
+  summary: A horror scene keeps a long build and spends at most one hard shock, a single sudden sight
+    set as a cluster of one-line paragraphs, after which the scene moves on.
+  verbatim: Long build, one hard shock. The build stays long; the swift beat is one sudden sight set as
+    a cluster of one-line paragraphs (R70-20), then the scene moves. One shock per horror scene at most.
+  amends:
+  - guide: NATALIE.md and the wotr-write skill
+    locus: 'Openings, endings, shape: horror pacing'
+    operation: adds
+  - guide: WOTR_Scene_Writing_Process_Guide.md
+    locus: 'Sec. 2 (scene shape): horror'
+    operation: adds
+  supersedes: []
+  applies_to:
+  - prose-law
+  - scene-structure
+  verification: []
+  ratified: 'Isaac, 2026-10-04, Claude Code chat: ruled directly (the mystery questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: 'HO1. The shock uses R70-20-PARAGRAPH_SHAPE''s cluster of one-line paragraphs, which adds a horror
+    scene''s one shock to the peaks that row names (reveals, verdicts, notices, a fight''s last beats);
+    note filed there. R70-15-TEMPO_STILLNESS (jo-ha-kyu) stands and is read with it. "Then the scene moves":
+    the shock need not close the scene, and R70-17-CLOSING_MODES stands. R11-4-DESCENT_PROSE_LAW (a descent''s
+    sensory opening) stands. Options not taken: A (long build, small turn), C (shock first, dread after).'
+- id: R74-27-THING_SEEN
+  pack: Mystery Law 2026-10-04
+  pack_number: null
+  section: HO2
+  title: A horror is half-seen first and gets its full inventory when understood
+  status: live
+  kind: mandate
+  summary: A horror first reaches the page as effects and outline, through the room and then the bodies,
+    and its full inventory waits until the thing is understood, appraised or fought.
+  verbatim: 'Half-seen, then full. R9-3 extends to horrors: effects and outline first, through the room
+    and the bodies (R70-69''s order); the full inventory lands when the thing is understood, appraised
+    or fought.'
+  amends:
+  - guide: NATALIE.md and the wotr-write skill
+    locus: 'Table Rule 11 (first introductions): horrors'
+    operation: extends
+  - guide: WOTR_Visual_Aesthetic_Guide.md
+    locus: 'Section 3 (the silhouette tool): horrors'
+    operation: extends
+  supersedes: []
+  applies_to:
+  - prose-law
+  - scene-structure
+  - pov
+  verification: []
+  ratified: 'Isaac, 2026-10-04, Claude Code chat: ruled directly (the mystery questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: 'HO2. "R9-3 extends to horrors": R9-3-SILHOUETTE_ENTRANCE (shape before detail, licensed for
+    a practitioner''s arrival) reaches horrors too; note filed there. Partly amends R70-54-GETS_FULL_INVENTORY,
+    which gives creatures the full inventory, and R70-55-ORDER_FIRST_INVENTORY''s one passage at first
+    sight: for a horror the inventory lands when the thing is understood, appraised or fought; notes filed
+    on both, and on R49-28-INTROS, whose "all at first sight" R70-54 carried to creatures. The order of what shows first is R70-69-PRESSURE_AURA''s (the room, then the bodies), which
+    stands. An appraisal is one of the moments the inventory may land; R71-57-APPRAISING_BEAST stands.
+    Options not taken: A (full sight at once), C (never wholly seen).'
+- id: R74-28-FEAR_IN_PC
+  pack: Mystery Law 2026-10-04
+  pack_number: null
+  section: HO3
+  title: At a horror, caused signs on Isaac's PC are world facts and his read is his
+  status: live
+  kind: mandate
+  summary: Where a field, Pressure, a working, the cold or a sudden shock acts on Isaac's PC, its signs
+    in his body are written as world facts, and what he feels about them and does stays his.
+  verbatim: Caused signs, his read. Where a field, Pressure, a working, the cold or a sudden shock acts
+    on his body (the Pike's weight, the Lamp-drinker's chill, a startle), its signs are world facts; what
+    he feels about them and does stays his.
+  amends:
+  - guide: NATALIE.md and the wotr-write skill
+    locus: 'POV and interiority: Isaac''s PC at a horror'
+    operation: adds
+  supersedes: []
+  applies_to:
+  - pov
+  - prose-law
+  - magic-mechanism
+  verification: []
+  ratified: 'Isaac, 2026-10-04, Claude Code chat: ruled directly (the mystery questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: HO3. Carries R71-6-PLAYER_FIGHTER_PAGE's world facts ("how he bears it stays yours") from a fight's
+    wounds to the signs a cause leaves in his body at a horror, an extension that leaves R71-6 standing
+    (note filed there, as R72-6 did); partly amends R49-01-WHOSE_HEAD at a horror, since what he feels
+    stays his (note filed there). The answer's examples are the Pike's weight, the Lamp-drinker's chill and a startle.
+    Option C (fear's own signs, such as cold sweat or hair rising, written into his body as a world fact)
+    was not taken, nor option A (the room, never him). R71-17-FEAR_BODY (fear in a fight) and R71-41-PRESSURE_UNWOKEN
+    (Pressure on the unwoken by Grade) stand. Read with R72-6-WORLD_WRITES_HIM (table law 2026-10-04),
+    whose reflexes as world facts cover the same ground outside horror. What a horror leaves afterward
+    is R74-29-WHAT_HORROR_LEAVES.
+- id: R74-29-WHAT_HORROR_LEAVES
+  pack: Mystery Law 2026-10-04
+  pack_number: null
+  section: HO4
+  title: A seen horror leaves a Ledger mark, and a mark struck again compounds
+  status: live
+  kind: mandate
+  summary: A seen horror may leave one Ledger mark with a due condition that fades on its clock, and a
+    mark struck again before it fades deepens to a standing condition with a named counter (rest, a person,
+    a rite), fraying by stages with no meter and no number.
+  verbatim: 'Marks that compound. B, and a mark struck again before it fades deepens to a standing condition
+    with a named counter (rest, a person, a rite): fraying by stages, still no meter and no number.'
+  amends:
+  - guide: NATALIE.md and the wotr-write skill
+    locus: 'Table Rule 7 (the ledger): what a horror leaves'
+    operation: adds
+  supersedes: []
+  applies_to:
+  - session-protocol
+  - adjudication
+  - pov
+  verification: []
+  ratified: 'Isaac, 2026-10-04, Claude Code chat: ruled directly (the mystery questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: 'HO4 (depends on HO3). Option B there reads: Sight leaves a mark. A seen horror may leave one
+    Ledger mark with a due condition (a flinch, a refusal, lost sleep) that fades on its clock. No meter,
+    no number; on Isaac''s PC only as HO3 allows. So on his PC a mark shows only as R74-28-FEAR_IN_PC
+    allows. New ground: canon had priced contact, never sight (option A, not taken). "No number" holds
+    under R12-5-NEVER_INVENT_NUMBER. R71-17-FEAR_BODY, R71-6-PLAYER_FIGHTER_PAGE and R57-10-NEVER_RIGGED
+    stand.'
+- id: R74-30-DEAD_FOLK_BELIEF
+  pack: Mystery Law 2026-10-04
+  pack_number: null
+  section: HO5
+  title: Events may show a folk belief about the dead half true, by canon mechanism
+  status: live
+  kind: mandate
+  summary: When a folk belief about the dead meets the dead, events may show where it holds and where
+    it fails, each traced in the notes to canon mechanism, while the people keep their reading and the
+    narration corrects nothing.
+  verbatim: Half true, by mechanism. Events show where a belief holds and where it fails, both traced
+    in the notes to canon mechanism; the people keep their reading, and the narration still corrects nothing.
+  amends:
+  - guide: Standing Inventories, NATALIE.md and the wotr-write skill
+    locus: 'World texture: folk beliefs'
+    operation: extends
+  supersedes: []
+  applies_to:
+  - worldbuilding
+  - standing-inventory
+  - magic-mechanism
+  - prose-law
+  verification: []
+  ratified: 'Isaac, 2026-10-04, Claude Code chat: ruled directly (the mystery questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: 'HO5. Extends R53-15-FOLK_BELIEFS, which stands: events, never the narration, may now show where
+    a belief holds and where it fails, a question that row left open; "the narration still corrects nothing"
+    keeps its ban; note filed there. The mechanism is canon''s, such as R61-77-REVENANT_IS_STALLED_CROSSING (a revenant is a Crossing
+    that stalls on sealed ground or saturated battlefields), which stands; the question''s example is
+    the Kharven belief that the cold keeps the dead quiet. R70-44-CULTURE_KEYED_NOTICING (the viewer''s
+    culture judges, misreadings included) and R70-67-FORMS_WORLD_DOCUMENTS''s records of the strange stand.
+    Options not taken: A (never settled), C (the world may break it).'
+- id: R74-31-VEIL_AND_PC_GRIEF
+  pack: Mystery Law 2026-10-04
+  pack_number: null
+  section: HO6
+  title: At a Veil-thin place his own grief may take shape, from canon only
+  status: live
+  kind: mandate
+  summary: At a Veil-thin place, grief or rage that Isaac's PC carried in may condense too, shaped only
+    from what his archived scenes and card already show, with no mind to voice, and his response stays
+    his.
+  verbatim: His, from canon only. What he carried may condense too, shaped only from grief or rage his
+    archived scenes and card already show; the beast has no mind to voice, and his response stays his.
+  amends:
+  - guide: NATALIE.md and the wotr-write skill
+    locus: 'WOTR metaphysics on the page: the Veil and Isaac''s PC'
+    operation: adds
+  supersedes: []
+  applies_to:
+  - magic-mechanism
+  - pov
+  - worldbuilding
+  verification: []
+  ratified: 'Isaac, 2026-10-04, Claude Code chat: ruled directly (the mystery questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: 'HO6. The beast is canon''s Echo Beast ("Unprocessed grief, rage and trauma given temporary autonomous
+    form", On Walking Into the Current; "keeping the character of what formed it and none of its mind",
+    The Veil); canon did not say whose grief, and this answers it for his PC. Drawn only from what his
+    archived scenes and card already show, so nothing new is written into his inside: R71-6-PLAYER_FIGHTER_PAGE
+    and R49-01-WHOSE_HEAD stand, and R57-10-NEVER_RIGGED holds both ways. The Veil is R12-2-MYSTIC_REGISTER_DEF''s
+    ground, which stands. Options not taken: A (others'' grief only), C (his, only if Isaac names it on
+    entering).'
+- id: R74-32-COSMIC_SCALE_ON_PAGE
+  pack: Mystery Law 2026-10-04
+  pack_number: null
+  section: HO7
+  title: Epoch-scale horror works by effects and stands in frame only at an arc's peak
+  status: live
+  kind: mandate
+  summary: Epoch-scale horror reaches the page through its effects by default, and at an arc's peak one
+    such thing may stand in frame in full, stated as law with its reasons kept, changing no plot.
+  verbatim: In frame at a peak. Effects carry it by default; at an arc's peak one may stand in frame in
+    full, as stated law with reasons kept (R70-76), changing no plot (R7-2).
+  amends:
+  - guide: NATALIE.md and the wotr-write skill
+    locus: 'WOTR metaphysics on the page: Epoch-scale horror'
+    operation: adds
+  - guide: WOTR_Master_Style_Directive.md
+    locus: §3.3 (Epoch scale)
+    operation: extends
+  supersedes: []
+  applies_to:
+  - worldbuilding
+  - magic-mechanism
+  - register
+  - scene-structure
+  verification: []
+  ratified: 'Isaac, 2026-10-04, Claude Code chat: ruled directly (the mystery questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: 'HO7. Epoch scale is the question''s: the Titans, the Archons, the Crevice. R7-2-EPOCH_SCALE_SURVIVES
+    stands and binds the peak ("changing no plot (R7-2)"): such things generate problems, dread and awe
+    and never resolve a plot. The full sight is stated under R70-76-MUCH_WORLD_MAGIC (law stated, reasons
+    kept), which stands with R12-2-MYSTIC_REGISTER_DEF. R70-67-FORMS_WORLD_DOCUMENTS stands. Options not
+    taken: A (effects only), B (effects, and the record at one remove). Supersedes nothing.'
+- id: R74-33-BODY_HORROR_OUTSIDE_FIGHT
+  pack: Mystery Law 2026-10-04
+  pack_number: null
+  section: HO8
+  title: Body horror outside a fight is full and clinical
+  status: live
+  kind: mandate
+  summary: Body horror where nobody is fighting is written full and clinical in the POV's flat, exact
+    eye (anatomy named, colour, texture and the absent smell, nothing looked away from), and documents
+    may carry it too.
+  verbatim: 'Full and clinical. R48-34 extends to horror: anatomy named, colour, texture and the absent
+    smell, nothing looked away from, in the POV''s flat, exact eye. Documents may carry it too.'
+  amends:
+  - guide: NATALIE.md and the wotr-write skill
+    locus: 'Combat and consequence: body horror outside a fight'
+    operation: extends
+  supersedes: []
+  applies_to:
+  - prose-law
+  - pov
+  - documents
+  verification: []
+  ratified: 'Isaac, 2026-10-04, Claude Code chat: ruled directly (the mystery questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: 'HO8. "R48-34 extends to horror": R48-34-WOUNDS''s full clinical gore, named anatomy and nothing
+    looked away from reach body horror outside a fight; note filed there. Documents may carry it, in the
+    forms of R70-67-FORMS_WORLD_DOCUMENTS, which stands. R71-82-CORRUPTION_SHOWN_BODY (a corrupt master''s
+    signs in the body) stands. Options not taken: B (one exact detail), C (in the record''s voice only).'
+- id: R74-34-WITNESS_FACE
+  pack: Mystery Law 2026-10-04
+  pack_number: null
+  section: HO9
+  title: One witness's face may come before a horror, once a scene
+  status: live
+  kind: budget
+  summary: In a horror beat one witness's face may come before the thing itself, once a scene, and the
+    reaction shot used as characterisation stays a tell everywhere else.
+  verbatim: One witness, horror only. In a horror beat, one witness's face may come before the thing,
+    once a scene; the reaction shot used as characterisation stays a tell everywhere else.
+  amends:
+  - guide: WOTR_AI_Writing_Tells_to_Avoid.md
+    locus: The reaction-shot cutaway (R5-G), for one horror witness
+    operation: strikes
+  - guide: NATALIE.md and the wotr-write skill
+    locus: 'Prose Standards: the reaction-shot cutaway'
+    operation: extends
+  supersedes: []
+  applies_to:
+  - prose-law
+  - pov
+  - scene-structure
+  - verification
+  verification: []
+  ratified: 'Isaac, 2026-10-04, Claude Code chat: ruled directly (the mystery questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: HO9. Partly re-rules R5-G-TELL_BANK_ADDITIONS's reaction-shot cutaway, the tell that R5-B-MANHWA_DIRECTIVE_REPEALED
+    lists as reaction shots as characterisation, for one horror witness a scene; both stay live with notes,
+    and the tell stands everywhere else. Sits beside R70-72-WATCHING_CROWD_POWER_REVEAL (struck for crowds
+    at a reveal), which stands; R70-69-PRESSURE_AURA's room-first order stands. Option C (the room as
+    the face) was not taken. ME3's option D (a WARN on more than one face before the thing) was not taken,
+    so verify_scene does not count it (R74-45-MYSTERY_CHECKS_VERIFY).
+- id: R74-35-WHAT_TURNS_COUNCIL
+  pack: Mystery Law 2026-10-04
+  pack_number: null
+  section: IN1
+  title: A council turns on a dated fact found on the page
+  status: live
+  kind: mandate
+  summary: By default a council or court scene turns on arithmetic or paper (a date that does not fit,
+    a column, a seal) found on the page where a player could find it first, and speech and reads colour
+    the turn.
+  verbatim: 'The dated fact. The turn is arithmetic or paper: a date that does not fit, a column, a seal,
+    found on the page where a player could find it first. Speech and reads colour it.'
+  amends:
+  - guide: Dialogue Craft Standards
+    locus: 'Councils and courts: what turns the room'
+    operation: adds
+  supersedes: []
+  applies_to:
+  - dialogue
+  - scene-structure
+  - adjudication
+  verification: []
+  ratified: 'Isaac, 2026-10-04, Claude Code chat: ruled directly (the mystery questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: 'IN1. The house''s own councils already turn this way (the question cites Charles leaving "fourteen
+    days before I wrote" and grain bought in the first week). R70-111-LONG_FORMAL_SPEECH_CLIPPED (long
+    speech at court) and R70-112-FACE_FACE_SLAP (a public reversal opens a Front or a Ledger debt) stand
+    and colour the turn. "Where a player could find it first" meets R48-30-SURPRISES, which stands; R60-20-HOW_POWERS_FIGHT
+    stands. Options not taken: B (the move made), C (the man read).'
+- id: R74-36-FEINTS_WITHIN_FEINTS
+  pack: Mystery Law 2026-10-04
+  pack_number: null
+  section: IN2
+  title: Schemes nest at any depth, each layer planted
+  status: live
+  kind: mandate
+  summary: A scheme may nest as deep as its faction can afford, and every layer leaves at least one sign
+    a player could catch before that layer turns.
+  verbatim: Any depth, each planted. Schemes nest as deep as the faction can afford, and every layer leaves
+    at least one sign a player could catch before that layer turns.
+  amends:
+  - guide: NATALIE.md and the wotr-write skill
+    locus: 'Roleplay partnership: schemes'
+    operation: adds
+  supersedes: []
+  applies_to:
+  - adjudication
+  - session-protocol
+  - worldbuilding
+  verification: []
+  ratified: 'Isaac, 2026-10-04, Claude Code chat: ruled directly (the mystery questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: 'IN2 (digest). Partly amends R48-30-SURPRISES: in a nested scheme the foreshadowing a player
+    could catch is owed layer by layer, before each layer turns; note filed there. R60-20-HOW_POWERS_FIGHT
+    (intrigue among the ways the powers fight), R48-36-NPC_WITS and R57-10-NEVER_RIGGED stand. ME2''s
+    option C (a layer list per scheme as a table record) was not taken. R74-45-MYSTERY_CHECKS_VERIFY''s
+    planted-sign check reaches a layer''s turn where the notes mark it as a reveal or a betrayal. Options
+    not taken: A (two layers at most), C (any depth, audited after).'
+- id: R74-37-BETRAYAL_TRUSTED
+  pack: Mystery Law 2026-10-04
+  pack_number: null
+  section: IN3
+  title: The standing warm bond never betrays by choice; anyone else after signs shown twice
+  status: live
+  kind: ban
+  summary: The thread's standing warm bond never betrays by choice, and anyone else may betray only with
+    the signs shown twice before the turn.
+  verbatim: The warm bond is safe. The thread's standing warm bond never betrays by choice; anyone else
+    may, with the signs shown twice before the turn (R71-23's rhythm).
+  amends:
+  - guide: NATALIE.md and the wotr-write skill
+    locus: 'Roleplay partnership: betrayal'
+    operation: extends
+  supersedes: []
+  applies_to:
+  - adjudication
+  - session-protocol
+  - scene-structure
+  verification: []
+  ratified: 'Isaac, 2026-10-04, Claude Code chat: ruled directly (the mystery questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: 'IN3. Partly amends R48-30-SURPRISES for betrayal: the foreshadowing is the signs shown twice
+    before the turn, on R71-23-TELL_READ''s rhythm, which stands; and partly amends R70-114-GRIMDARK_WARMTH:
+    the standing warm bond it requires never betrays by choice; notes filed on both. The bar is on betrayal
+    by choice; the answer does not rule a turn under compulsion. Each thread''s warm bonds go on the Ledger
+    by name under R72-24-NEW_LINES_LEDGER (table law 2026-10-04). Options not taken: B (anyone, warm bond
+    included), C (never by choice, from anyone trusted).'
+- id: R74-38-LEVERAGE_BLACKMAIL
+  pack: Mystery Law 2026-10-04
+  pack_number: null
+  section: IN4
+  title: A held secret bends while unspoken and marks its holder
+  status: live
+  kind: mandate
+  summary: 'A secret works as leverage while it stays unspoken and breaks when spoken openly, opening
+    the victim''s Front against whoever spoke it, and every held secret is also a Ledger risk against
+    its holder: someone wants the secret, or the man who holds it, gone.'
+  verbatim: 'Held, it marks the holder. As B, and every held secret is also a Ledger risk against its
+    holder, on the same line as K4''s B: someone wants the secret, or the man who holds it, gone.'
+  amends:
+  - guide: NATALIE.md and the wotr-write skill
+    locus: 'Table rules 4 and 7: Fronts, the ledger (leverage)'
+    operation: extends
+  supersedes: []
+  applies_to:
+  - session-protocol
+  - adjudication
+  verification: []
+  ratified: 'Isaac, 2026-10-04, Claude Code chat: ruled directly (the mystery questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: 'IN4 (digest). Option B there reads: Held, it bends. A secret works while it stays unspoken;
+    spoken openly it breaks, and the victim''s Front opens against whoever spoke it. K4''s B, carried
+    inside R74-4-WHAT_KNOWING_COSTS ("B, plus"), reads: Being known to know. The danger is who notices:
+    the Gate punishes unlicensed knowledge, The Mother reads the Watch''s inserts, a witness becomes a
+    target. Every secret learned opens a Ledger line on who knows he knows. The holder''s risk is a line
+    of that kind. R70-112-FACE_FACE_SLAP and R71-101-LAW_TURNS (an unread killing sits on the Ledger as
+    a risk) stand; R48-36-NPC_WITS stands. Option A (spent when used) was not taken.'
+- id: R74-39-SPIES_INFORMATION_TRADE
+  pack: Mystery Law 2026-10-04
+  pack_number: null
+  section: IN5
+  title: 'The information trade: the press both ways, letters as exhibits, tradecraft words per service'
+  status: live
+  kind: mandate
+  summary: 'The table runs the information trade three ways: inserts, bulletins and the penny press carry
+    public intelligence both ways; intercepted letters, wires and dockets appear in full as documents
+    with seal, hand and paper described as clues; and each service gets working words for agents, drops
+    and watchers in its Inventory''s Words entry.'
+  verbatim: 'Yes to: The press as intelligence (Inserts, bulletins and the penny press carry public intelligence
+    both ways: whoever reads them learns something, and is learned about by whoever filed them); Letters
+    as exhibits (Intercepted letters, wires and dockets appear in full as documents Isaac can read (R70-67),
+    with seal, hand and paper described as clues); Tradecraft per service (Each service (the Watch, the
+    Mother''s cultures, the Moto court, the Mahuo houses) gets working words for agents, drops and watchers
+    in its Inventory''s Words entry (R70-33)).'
+  amends:
+  - guide: Standing Inventories, NATALIE.md and the wotr-write skill
+    locus: 'Words entry (R70-33): tradecraft per service'
+    operation: extends
+  - guide: NATALIE.md and the wotr-write skill
+    locus: 'Vocabulary and diction: in-world documents (letters as exhibits)'
+    operation: extends
+  supersedes: []
+  applies_to:
+  - worldbuilding
+  - documents
+  - standing-inventory
+  verification: []
+  ratified: 'Isaac, 2026-10-04, Claude Code chat: ruled directly (the mystery questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: 'IN5, three of four options (B, C, D; digest). Option A (an informant per thread) was not taken.
+    The press both ways builds on the Night Watch''s bulletin office (R60-26-NIGHT_WATCH_SOCIETY), which
+    stands. Letters as exhibits use the documents of R70-67-FORMS_WORLD_DOCUMENTS, which stands. Partly
+    amends R70-33-WORD_BANK_PER_CULTURE: a service''s Inventory''s Words entry gains its tradecraft words;
+    note filed there. Logged as ambiguous, not resolved here: the Watch, the Mother''s cultures and the
+    Mahuo houses have no Standing Inventory file of their own in desktop/inventories/, so which Inventory
+    carries their words is left to the guide edition. Words are coined and logged under R48-26-INVENTION. Read with R72-15-CARRIES_RUMOR_MILL''s
+    print and notice (table law 2026-10-04), the same press seen as news.'
+- id: R74-40-ONE_MAN_TWO_FACES
+  pack: Mystery Law 2026-10-04
+  pack_number: null
+  section: IN8
+  title: Two faces tied by a planted link; a worked mask leaks a seam
+  status: live
+  kind: mandate
+  summary: When an NPC lives two lives, at least one link between the faces (a shared habit or a link
+    in the record) is planted before the unmasking, and a face held by a working has its Codex line and
+    leaks a seam, as an impression-body does.
+  verbatim: Either road; masks leak. A or B, at least one link planted before the unmasking; a face held
+    by a working has its Codex line and leaks a seam, as an impression-body (a dead man's likeness worked
+    from his Trace) does under R71-87.
+  amends:
+  - guide: Character cards, NATALIE.md and the wotr-npc skill
+    locus: 'NPC agency: aliases and masks'
+    operation: adds
+  supersedes: []
+  applies_to:
+  - adjudication
+  - magic-mechanism
+  - codex
+  - scene-structure
+  verification: []
+  ratified: 'Isaac, 2026-10-04, Claude Code chat: ruled directly (the mystery questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: 'IN8 (digest). Option A there reads: A habit carries over. The two faces share one tell (a hand,
+    a habit, a smell, a turn of phrase), shown in each face before the unmasking, on R71-23''s twice-shown
+    rhythm. Option B there reads: The paper links them. The link lives in the record (a hand, a seal,
+    a payment, a lodging), the house''s clue bed; the body and the voice may be perfect. The seam is R71-87-IMPRESSION_BODY_VOICE''s
+    (one planted habit of the maker leaks through the likeness), which stands. R71-23-TELL_READ, R60-23-THE_MOTHER,
+    R67-8-MALPHAS_FILED_BY_TITLE and R57-10-NEVER_RIGGED stand. The question leaves his PC''s own identities
+    Isaac''s. Option D (nothing owed) was not taken.'
+- id: R74-41-INTRIGUE_FRONT_FILE_SHOWS
+  pack: Mystery Law 2026-10-04
+  pack_number: null
+  section: IN6
+  title: A mystery or intrigue Front shows its clock and seals its contents
+  status: live
+  kind: procedure
+  summary: For mystery and intrigue Fronts only, the clock and its ticks show while the Want and Next
+    move live in a sealed file Natalie reads, opened to Isaac when the Front resolves or when he asks.
+  verbatim: Clock shown, contents sealed. For mystery and intrigue Fronts only, the clock and its ticks
+    show; the Want and Next move live in a sealed file Natalie reads, opened to Isaac when the Front resolves
+    or he asks.
+  amends:
+  - guide: NATALIE.md and the wotr-write skill
+    locus: 'Table rules 4 and 7: Fronts (sealed Front files)'
+    operation: extends
+  supersedes: []
+  applies_to:
+  - session-protocol
+  verification: []
+  ratified: 'Isaac, 2026-10-04, Claude Code chat: ruled directly (the mystery questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: 'IN6 (digest). Fronts sit in table/FRONTS.md with a readable Want and Next move; other Fronts
+    stay as they are. The sealed file is the one R74-9-WHERE_TRUTH_KEPT names ("One file with any sealed
+    Front file"). Read with R72-21-FRONT_SIGNS_SEEN (table law 2026-10-04): clocks are never printed in
+    play and the files stay Isaac''s to open, here by asking. R49-09-CUTAWAYS, R5-C1-INFO_TRACKED_PER_POV
+    and R57-10-NEVER_RIGGED stand. Options not taken: A (open, as now), C (hidden Fronts with no visible
+    clock).'
+- id: R74-42-WHEN_PROCESS_BOUGHT
+  pack: Mystery Law 2026-10-04
+  pack_number: null
+  section: IN7
+  title: A bought court or file leaves a findable trail
+  status: live
+  kind: mandate
+  summary: Courts and files can be bought, lost or sealed, and every such corruption leaves a findable
+    trail (a payment, a hand, a gap in a numbered series) whose finding reopens the case.
+  verbatim: Bought, with a trail. Courts and files can be bought, lost or sealed, and every corruption
+    leaves a findable trail (a payment, a hand, a gap in a numbered series), as R71-84 makes forgeries;
+    finding it reopens the case.
+  amends:
+  - guide: Standing Inventories, NATALIE.md and the wotr-write skill
+    locus: 'Law and punishment (R70-45): bought process'
+    operation: extends
+  supersedes: []
+  applies_to:
+  - worldbuilding
+  - adjudication
+  - session-protocol
+  verification: []
+  ratified: 'Isaac, 2026-10-04, Claude Code chat: ruled directly (the mystery questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: 'IN7 (digest). Partly amends R71-101-LAW_TURNS: the strict reading of "Proof decides" (option
+    A, a bought clerk can delay a case but never defeat it) was not taken, so a bought court or file may
+    hold until its trail is found, and finding it reopens the case; note filed there. The trail is findable
+    as R71-84-TRADE_PAPER_SCENE makes forgeries, which stands; R60-19-LAYERED_RULE and R57-10-NEVER_RIGGED
+    stand. Option C (bought, and it holds for good) was not taken.'
+- id: R74-43-WHERE_MYSTERY_LAW_LANDS
+  pack: Mystery Law 2026-10-04
+  pack_number: null
+  section: ME1
+  title: The law lands in a rule doc, NATALIE.md and a new craft guide
+  status: live
+  kind: procedure
+  summary: The answers land as one dated rule doc served by load_rules, with NATALIE.md's table rules
+    and Iceberg lines rewritten to agree with it, plus a new Mystery, Horror and Intrigue Craft Guide
+    in desktop/ for Natalie to read before a dark or scheming scene.
+  verbatim: Doc, NATALIE, a guide. B, plus a new Mystery, Horror and Intrigue Craft Guide in desktop/,
+    so Natalie has one document to read before a dark or scheming scene.
+  amends:
+  - guide: NATALIE.md and the wotr-write skill
+    locus: The Table Rules and the Iceberg
+    operation: replaces
+  supersedes: []
+  applies_to:
+  - prose-law
+  - documents
+  - session-protocol
+  verification: []
+  ratified: 'Isaac, 2026-10-04, Claude Code chat: ruled directly (the mystery questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: 'ME1 (digest). Option B there reads: Rule doc and NATALIE. A, plus NATALIE.md''s table rules
+    and Iceberg lines rewritten to agree with it, so the standing prompt and the index say the same thing.
+    Option A there reads: Rule doc only. One dated Mystery, Horror and Intrigue Law doc through log_ruling,
+    served by load_rules; NATALIE.md stays as it is. The new guide is not named in amends because it does
+    not exist in the project yet (CLAUDE.md: no guide named in amends that does not exist). Follows R70-135-WHERE_NEW_LAW_LIVES
+    and R71-102-WHERE_COMBAT_LAW_LANDS, which are not changed. The rule doc is rules/doc-mystery-law-2026-10-04.yaml.
+    Supersedes nothing.'
+- id: R74-44-WHAT_TABLE_KEEPS_PAPER
+  pack: Mystery Law 2026-10-04
+  pack_number: null
+  section: ME2
+  title: Faction sheets for every Front, and a running record of what NPCs know of him
+  status: live
+  kind: procedure
+  summary: Every faction with a Front gets a sheet on the Powers page model (wants, holds, fights by,
+    set against, fears, its method and its seam), and the roster's knows line gains a running entry, updated
+    at session end, of what each NPC in an intrigue knows or believes about the PC.
+  verbatim: 'Yes to: Faction sheets (Every faction with a Front gets a sheet on the Powers page model:
+    wants, holds, fights by, set against, fears, its method, and its seam); What NPCs know of him (The
+    roster''s knows line gains a running entry, updated at session end, of what each NPC in an intrigue
+    knows or believes about the PC).'
+  amends:
+  - guide: Character cards, NATALIE.md and the wotr-npc skill
+    locus: 'The roster: the knows line'
+    operation: extends
+  - guide: NATALIE.md and the wotr-write skill
+    locus: 'Table rules 4 and 7: Fronts (faction sheets)'
+    operation: adds
+  supersedes: []
+  applies_to:
+  - session-protocol
+  - worldbuilding
+  verification: []
+  ratified: 'Isaac, 2026-10-04, Claude Code chat: ruled directly (the mystery questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: ME2, two of three options (A, B; digest). Option C (a layer list per scheme) was not taken. The
+    sheets write out the "different interests" R60-20-HOW_POWERS_FIGHT asks for, which stands. The knows
+    entry keeps knowledge per NPC as R5-C1-INFO_TRACKED_PER_POV keeps it per POV, which stands; R48-36-NPC_WITS
+    (never omniscient) stands. Read with R72-26-NPCS_OFF_PAGE (the "doing now" and "stands with him" lines
+    at each close) and R72-40-PLAYERS_CAN_LOOK_UP (what NPCs know stays with the Judger), table law 2026-10-04.
+- id: R74-45-MYSTERY_CHECKS_VERIFY
+  pack: Mystery Law 2026-10-04
+  pack_number: null
+  section: ME3
+  title: verify_scene gains cosmic stock bans, a not-knowing watch and a planted-sign check
+  status: live
+  kind: procedure
+  summary: verify_scene FAILs 'unnameable', 'eldritch', 'indescribable', 'unspeakable' and 'nameless dread'
+    in narration as a fourth hard-ban stock family (the Nameless day stays legal), WARNs past one a scene
+    on stale not-knowing lines such as 'could make nothing of it', and FAILs a scene whose notes mark
+    a reveal, a betrayal or a case's solution without listing an earlier planted sign.
+  verbatim: 'Yes to: Cosmic stock words (''Unnameable'', ''eldritch'', ''indescribable'', ''unspeakable''
+    and ''nameless dread'' join the hard-ban list as a fourth stock family, FAIL in narration; the Nameless
+    day stays legal); Stale not-knowing lines (WARN past one a scene on ''could make nothing of it'',
+    ''did not know what that meant'' and their kin, as the combat stale-device watch does for fights);
+    Planted signs for turns (A scene whose notes mark a reveal, a betrayal or a case''s solution FAILs
+    unless the notes list an earlier planted sign (R48-30, R71-30)).'
+  amends:
+  - guide: Manual Verification Guide
+    locus: Hard-ban list, stale not-knowing watch, planted signs for turns
+    operation: extends
+  - guide: NATALIE.md and the wotr-write skill
+    locus: Vocabulary and diction
+    operation: extends
+  supersedes: []
+  applies_to:
+  - verification
+  - prose-law
+  - register
+  verification:
+  - 'verify: hard-ban list (cosmic stock)'
+  - 'verify: stale not-knowing watch'
+  - 'verify: planted signs for turns'
+  ratified: 'Isaac, 2026-10-04, Claude Code chat: ruled directly (the mystery questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: 'ME3, three of four options (A, B, C; digest). Partly amends R70-35-HARD_BAN_LIST and R51-10-SLOP_WORDS:
+    a fourth stock family joins the hard-ban list, failing in narration as R70-36-CHECKER_ENFORCES has
+    the other families fail; notes filed on both. The not-knowing watch follows R71-103-COMBAT_CHECKS_VERIFY_SCENE''s
+    stale-device watch, which stands; R49-11-NOT_KNOWING is not changed. The planted-sign check enforces
+    R48-30-SURPRISES and R71-30-HELD_BACK_REVEAL''s "The notes list each planted sign", both standing.
+    These checks join R70-136-NEW_CHECKS_VERIFY_SCENE''s and change none of them, so that row and R48-45-CHECKS
+    stand without a note. Option D (a WARN when a horror scene puts more than one face before the thing, carrying R74-34-WITNESS_FACE)
+    was not taken. R5-G-TELL_BANK_ADDITIONS is not changed by this row.'
+- id: R74-46-HORROR_INTRIGUE_SAMPLE_BANK
+  pack: Mystery Law 2026-10-04
+  pack_number: null
+  section: ME4
+  title: 'The horror and intrigue sample bank: by scene type, and one dark scene per culture'
+  status: live
+  kind: procedure
+  summary: A new sample bank holds a Well descent, a body found, a death-house night, a council turn,
+    an interrogation, a hearing and a record of the strange, each with notes, and each culture file in
+    the style bank gains one dark scene so the voice and the type meet.
+  verbatim: Both. B as the new bank, and each culture file gains one dark scene so the voice and the type
+    meet.
+  amends: []
+  supersedes: []
+  applies_to:
+  - prose-law
+  - scene-structure
+  verification: []
+  ratified: 'Isaac, 2026-10-04, Claude Code chat: ruled directly (the mystery questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: 'ME4 (digest). Option B there reads: A bank by scene type. One new bank: a Well descent, a body
+    found, a death-house night, a council turn, an interrogation, a hearing and a record of the strange,
+    each with notes. The culture files are R70-138-PROOF_ORDER_WORK''s style bank in desktop/style-bank/
+    (Kharven, Moto, Accord, the Mahuo and the lineage halls), and that row is not changed; R71-104-COMBAT_SAMPLE_BANK
+    is the same shape for fights. Option A (one horror and one intrigue passage per culture) was not taken.'

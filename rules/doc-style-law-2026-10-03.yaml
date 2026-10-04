@@ -689,8 +689,11 @@ rules:
   source:
     file: ''
     lines: null
-  notes: RH2. Amends R48-07-WHITE_SPACE; R49-14-PARA_SHAPE's spread check stays. Works with R70-80 (readout
-    blocks at milestones).
+  notes: 'RH2. Amends R48-07-WHITE_SPACE; R49-14-PARA_SHAPE''s spread check stays. Works with R70-80 (readout
+    blocks at milestones). Partly amended by R74-26-DREAD_PACING (mystery law 2026-10-04): a horror scene''s
+    one hard shock, a single sudden sight, may also run as a cluster of one-line paragraphs, beside the
+    reveals, verdicts, notices and a fight''s last beats named here; one shock per horror scene at most.
+    Medium paragraphs stay the norm.'
 - id: R70-21-CADENCE_CULTURE
   pack: Style Law 2026-10-03
   pack_number: null
@@ -1103,7 +1106,10 @@ rules:
     words against these banks. Works with R70-22-SOUND_WORDS and R70-45-NEW_STANDING_INVENTORY_FIELDS.
     Partly amended by R71-53-BRAWLS_FOLK_SCHOOLS (combat law 2026-10-04): "Each Standing Inventory''s
     Words entry gains its wrestling and fist words, entered and logged" Each Words entry also carries
-    its culture''s folk wrestling and fist words, and a POV raised in them names his moves in them.'
+    its culture''s folk wrestling and fist words, and a POV raised in them names his moves in them. Partly
+    amended by R74-39-SPIES_INFORMATION_TRADE (mystery law 2026-10-04): each service (the Watch, the Mother''s
+    cultures, the Moto court, the Mahuo houses) gets working words for agents, drops and watchers in its
+    Inventory''s Words entry.'
 - id: R70-34-REAL_LANGUAGE_SWEARS_NARRATION
   pack: Style Law 2026-10-03
   pack_number: null
@@ -1173,7 +1179,10 @@ rules:
     breath, killing intent surged. Western: the steel sang, a grim smile, his blood ran cold, every fibre
     of his being, darkness gathered. LitRPG: power surged through him, stronger than ever, a wave of power,
     his stats soared. R70-36-CHECKER_ENFORCES FAILs the families at first use in narration; speech formulas
-    are R70-108-EASTERN_REGISTER_SPEECH_SOUNDS'' and R70-136-NEW_CHECKS_VERIFY_SCENE''s.'
+    are R70-108-EASTERN_REGISTER_SPEECH_SOUNDS'' and R70-136-NEW_CHECKS_VERIFY_SCENE''s. Partly amended
+    by R74-45-MYSTERY_CHECKS_VERIFY (mystery law 2026-10-04): a fourth stock family, cosmic stock (''unnameable'',
+    ''eldritch'', ''indescribable'', ''unspeakable'', ''nameless dread''), joins the three here and FAILs
+    in narration; the Nameless day stays legal.'
 - id: R70-36-CHECKER_ENFORCES
   pack: Style Law 2026-10-03
   pack_number: null
@@ -1285,10 +1294,13 @@ rules:
   source:
     file: ''
     lines: null
-  notes: Partly amends R48-39-INTERIORITY (deep interiority becomes one mode of two, chosen per register)
-    and eases R16-8-CHECK33 for stepwise lists; the answer sets no new figure for the cap. Its 'R12-5'
+  notes: 'Partly amends R48-39-INTERIORITY (deep interiority becomes one mode of two, chosen per register)
+    and eases R16-8-CHECK33 for stepwise lists; the answer sets no new figure for the cap. Its ''R12-5''
     is R12-5-NEVER_INVENT_NUMBER (R12-5-NUMBERS_DIAGNOSTIC_ONLY is already superseded). Works with R70-2-LITRPG_WOTR_BECOMES
-    and R70-3-STRAND_LEADS_LAYER.
+    and R70-3-STRAND_LEADS_LAYER. Partly amended by R74-16-INVESTIGATOR_HEAD (mystery law 2026-10-04):
+    when the POV is the investigator, no fact she notices is held back under the unsaid, her conclusion
+    waits, carried by her next act, and numbered steps stay legal at the solution. Elsewhere the three
+    modes stand.'
 - id: R70-39-CARRYING_FEELING
   pack: Style Law 2026-10-03
   pack_number: null
@@ -1469,9 +1481,12 @@ rules:
   source:
     file: ''
     lines: null
-  notes: Adds a field beside R6-8-STANDING_INVENTORY_CATEGORIES (see R70-45). R48-04-METAPHORS still keys
-    metaphor to the POV's own life (R70-59). A misread folk belief about magic stays uncorrected under
-    R53-15-FOLK_BELIEFS. Works with R70-1's culture tilt.
+  notes: 'Adds a field beside R6-8-STANDING_INVENTORY_CATEGORIES (see R70-45). R48-04-METAPHORS still
+    keys metaphor to the POV''s own life (R70-59). A misread folk belief about magic stays uncorrected
+    under R53-15-FOLK_BELIEFS. Works with R70-1''s culture tilt. Extended by R74-17-HOW_WITNESSES_ERR
+    (mystery law 2026-10-04): ''Errors come by either road'': this row reaches testimony, so a witness
+    may misread what he saw by his culture, and his honest error is logged on the roster under ''errs
+    about'' beside ''lied about'' and owes no liar''s tell. The row stands.'
 - id: R70-45-NEW_STANDING_INVENTORY_FIELDS
   pack: Style Law 2026-10-03
   pack_number: null
@@ -1773,7 +1788,11 @@ rules:
     file: ''
     lines: null
   notes: 'Partly amends R49-28-INTROS: the full inventory now reaches places, rooms, creatures and objects,
-    and minor people drop to one stroke. Order of the inventory is R70-55; returns are R70-50.'
+    and minor people drop to one stroke. Order of the inventory is R70-55; returns are R70-50. Partly
+    amended by R74-27-THING_SEEN (mystery law 2026-10-04): a horror is half-seen first, effects and outline
+    through the room and the bodies, and its full inventory lands when the thing is understood, appraised
+    or fought, not at first sight. Everyone and everything else keeps the full inventory or the one stroke
+    as written.'
 - id: R70-55-ORDER_FIRST_INVENTORY
   pack: Style Law 2026-10-03
   pack_number: null
@@ -1799,8 +1818,10 @@ rules:
   source:
     file: ''
     lines: null
-  notes: Replaces Table Rule 11's fixed order (hair, face, body, clothing, marks); R49-28-INTROS's one
-    passage at first sight stands. Works with R70-44 and R70-54.
+  notes: 'Replaces Table Rule 11''s fixed order (hair, face, body, clothing, marks); R49-28-INTROS''s
+    one passage at first sight stands. Works with R70-44 and R70-54. Partly amended by R74-27-THING_SEEN
+    (mystery law 2026-10-04): for a horror the one inventory passage waits until the thing is understood,
+    appraised or fought instead of coming at first sight. The POV''s order stands.'
 - id: R70-56-CATALOGUE_TELLING_DETAIL
   pack: Style Law 2026-10-03
   pack_number: null
@@ -3717,7 +3738,10 @@ rules:
     Obsession leaves warmth standing. Its ''written openly warm'' and the rest of the row are not reached
     by this answer. Partly amended by R73-38-LOVE_MOURNED_OR_LIVED (intimacy law 2026-10-04): joy that
     ''may get scenes of its own'' is owed to a bond before a loss may land on it, and a love that dies
-    before the reader has seen it lived is a fault to fix. ''Losses still cost'' stands.'
+    before the reader has seen it lived is a fault to fix. ''Losses still cost'' stands. Partly amended
+    by R74-37-BETRAYAL_TRUSTED (mystery law 2026-10-04): the standing warm bond each live thread carries
+    never betrays by choice; anyone else may betray, with the signs shown twice before the turn. Losses
+    still cost.'
 - id: R70-115-TEARS_SENTIMENT
   pack: Style Law 2026-10-03
   pack_number: null

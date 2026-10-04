@@ -1,0 +1,883 @@
+- id: R74-1-HOW_MUCH_READER_SOLVES
+  pack: Mystery Law 2026-10-04
+  pack_number: null
+  section: K1
+  title: Each book declares its mystery mode; undeclared work runs inverted
+  status: live
+  kind: mandate
+  summary: Each book or thread bible names its mystery mode (inverted, fair puzzle, or the split, where
+    the reader knows who but never how or why), and work that declares none runs inverted, the house mode.
+  verbatim: 'Each book declares. Each book or thread bible names its mode: inverted, fair puzzle, or the
+    split (the reader knows who, never how or why). Undeclared work defaults to inverted, the house mode.'
+  amends:
+  - guide: NATALIE.md and the wotr-write skill
+    locus: 'Mysteries: the declared mode (book and thread bibles)'
+    operation: adds
+  - guide: WOTR_Scene_Writing_Process_Guide.md
+    locus: 'POV lock and dramatic irony: the mystery mode'
+    operation: adds
+  supersedes: []
+  applies_to:
+  - pov
+  - scene-structure
+  verification: []
+  ratified: 'Isaac, 2026-10-04, Claude Code chat: ruled directly (the mystery questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: 'K1, option C (as recommended). The modes come from the options: inverted is option A''s form
+    (the villain''s room shown, the reader knowing who and how, the pleasure being the catch and its cost,
+    Columbo''s form) and fair puzzle is option B''s (the villain''s room shut until the solution, the
+    reader holding what the investigator holds). Partly amends R5-C1-WRITE_FROM_LEAST_KNOWING, a default
+    its own words make breakable with reason: in an inverted book (the house mode) the villain''s room
+    is shown and the reader knows who and how, so the default yields there to the declared mode, and it
+    stands for every other scene (note filed there). R5-C1-INFO_TRACKED_PER_POV (what the reader knows
+    that the POV does not) is the instrument a declared mode runs on and stands. R5-C1-NARRATION_NEVER_WINKS
+    stands with R70-10-NARRATOR_STANCE''s threshold exception: an inverted book''s irony lives in what
+    its scenes show. What a closing cut may show while his PC works a case is R74-7-CUTTING_AWAY_INSIDE_CASE;
+    R49-09-CUTAWAYS is not changed here. The Mystery, Horror and Intrigue Craft Guide owed under R74-43-WHERE_MYSTERY_LAW_LANDS
+    writes the modes in.'
+- id: R74-2-FAIRPLAY_TERMS
+  pack: Mystery Law 2026-10-04
+  pack_number: null
+  section: K2
+  title: 'Fair play for every mystery: nothing unseen, Codex-backed, sealed, a challenge mark'
+  status: live
+  kind: mandate
+  summary: Every mystery, written or played, rests its solution only on what the reader or player was
+    shown, a clue the investigator held and the page withheld voiding it and the notes listing every clue
+    used; any working in the solution has a Codex line and its rule acted on the page first, none is invented
+    to solve the case, and one that falsifies perception is planted as a held reveal or barred; the truth
+    (who, how, why) is written in the notes before the first clue is placed and never moves to fit a guess;
+    and a book marks the point where every clue is on the page, as a chapter-head line or a set-off notice,
+    before the solution.
+  verbatim: 'Yes to: Nothing unseen (The solution rests only on what the reader or player was shown. A
+    clue the investigator held and the page withheld voids the solution; the notes list every clue used);
+    Codex-backed solutions (Any working in a solution has a Codex line and its rule acted on the page
+    first. No working is invented to solve a case; one that falsifies perception is planted (R71-30) or
+    barred); Sealed solution (The truth (who, how, why) is written in the notes before the first clue
+    is placed and never moves to fit a guess: R57-10''s ban on rigging made a procedure); A challenge
+    mark (Ellery Queen''s device: a book marks the point where every clue is on the page, as a chapter-head
+    line or a set-off notice, before the solution).'
+  amends:
+  - guide: NATALIE.md and the wotr-write skill
+    locus: 'Mysteries: the fair-play terms'
+    operation: adds
+  - guide: author notes template
+    locus: Clues used and the sealed solution
+    operation: adds
+  - guide: WOTR_Scene_Writing_Process_Guide.md
+    locus: The challenge mark (books)
+    operation: adds
+  supersedes: []
+  applies_to:
+  - scene-structure
+  - pov
+  - magic-mechanism
+  - codex
+  verification: []
+  ratified: 'Isaac, 2026-10-04, Claude Code chat: ruled directly (the mystery questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: 'K2, all four options; Isaac added D, the challenge mark, to the recommended A, B and C. Carries
+    R48-30-SURPRISES (foreshadowing a player could have caught) to every solution; that row stands and
+    is met. B carries R70-71-EXPLAINING_WORKING_MID_FIGHT''s rules shown beforehand into cases, which
+    stands, and R12-3-NAMED_INVENTOR_RULE stands. Extends R71-30-HELD_BACK_REVEAL, a fight rule, to a
+    case''s solution: a working that falsifies perception is planted as its held reveal is, signs listed
+    in the notes, or it is barred (note filed there). C is R57-10-NEVER_RIGGED ''made a procedure'' in
+    the answer''s own words (note filed there); the ban stands. D, Ellery Queen''s challenge to the reader,
+    sits at a chapter head (R70-23-CHAPTER_HEADS, inside R70-10-NARRATOR_STANCE''s threshold) or as a
+    set-off notice outside the prose; inside a scene R5-C1-NARRATION_NEVER_WINKS stands. Read with R74-9-WHERE_TRUTH_KEPT,
+    whose sealed truth file holds who, how and why for an open table mystery and whose clue list sits
+    in every scene''s notes; at the Desktop table the full notes are written at archive (R72-12-TABLE_TALK_NOTES).
+    Codex lines come from the Master Codex, and no figure is invented (R12-5-NEVER_INVENT_NUMBER). R74-45-MYSTERY_CHECKS_VERIFY
+    adds a verify_scene check that a marked solution lists an earlier planted sign.'
+- id: R74-3-WHEN_SECRETS_PAY
+  pack: Mystery Law 2026-10-04
+  pack_number: null
+  section: K3
+  title: A secret pays when caught or when its Front resolves; a few are kept
+  status: live
+  kind: mandate
+  summary: A secret pays when Isaac's PC catches it or when its Front resolves, never on a timer, and
+    a few secrets are marked 'kept' and never pay on the page, as the one-word letter does.
+  verbatim: Caught or clocked. A secret pays when his PC catches it or its Front (a faction's clock of
+    moves) resolves, never on a timer. A few are marked 'kept' and never pay on the page, as the one-word
+    letter.
+  amends:
+  - guide: NATALIE.md and the wotr-write skill
+    locus: 'Secrets: when they pay'
+    operation: adds
+  supersedes: []
+  applies_to:
+  - session-protocol
+  - scene-structure
+  verification: []
+  ratified: 'Isaac, 2026-10-04, Claude Code chat: ruled directly (the mystery questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: K3, option B (as recommended). Options A (something paid every session, no secret dormant past
+    two sessions) and C (large secrets only at an arc's end, none kept) were not taken, so no cadence
+    is owed. The one-word letter in Isaac's Part 16, a Kharven-thread secret, is the archive's one secret
+    kept from the reader as well. Catching is R74-5-WHAT_CATCHING_LIE_IS's act; Fronts tick on R72-20-MOVES_FRONT's
+    calendar and show by R72-21-FRONT_SIGNS_SEEN's signs. A kept secret sits beside R47-12-MYSTERY_STAYS_OPEN,
+    which stands. R70-17-CLOSING_MODES' break-off, whose next scene owes what was withheld, governs a
+    scene's emotional payoff and is not changed. Each secret and its kept mark are recorded in R74-9-WHERE_TRUTH_KEPT's
+    truth file ('what stays kept'); an unexplained notice marked seed is R74-19-THING_LEFT_UNEXPLAINED's.
+- id: R74-4-WHAT_KNOWING_COSTS
+  pack: Mystery Law 2026-10-04
+  pack_number: null
+  section: K4
+  title: Knowing is dangerous through who knows he knows and through records that act
+  status: live
+  kind: definition
+  summary: Knowledge is dangerous through who notices that Isaac's PC knows (the Gate punishing unlicensed
+    knowledge, the Mother reading the Watch's inserts, a witness becoming a target); every secret learned
+    opens a Ledger line on who knows he knows; and a few records held in objects (Mnemata) act on whoever
+    touches them through canon mechanism, priced by Resilience with the counter named in the notes and
+    no invented figure.
+  verbatim: Records that act. B, plus a few records act on whoever touches them through canon mechanism
+    (Mnemata, records held in objects, R61-70), priced by Resilience with the counter named in the notes.
+    No invented figure.
+  amends:
+  - guide: NATALIE.md and the wotr-write skill
+    locus: 'Table Rule 7 (the ledger): who knows he knows'
+    operation: adds
+  - guide: The Magic System
+    locus: 'Anamnesis and the Mnemata: records that act on the toucher'
+    operation: adds
+  supersedes: []
+  applies_to:
+  - session-protocol
+  - magic-mechanism
+  - adjudication
+  - stats
+  verification: []
+  ratified: 'Isaac, 2026-10-04, Claude Code chat: ruled directly (the mystery questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: 'K4, option C (as recommended), which takes option B whole: the danger is who notices (the Gate
+    punishes unlicensed knowledge, The Mother reads the Watch''s inserts, a witness becomes a target),
+    and every secret learned opens a Ledger line on who knows he knows. Options A (only bare-fingered
+    contact with a residue costs) and D (names that call, the Lord of the Mysteries device) were not taken,
+    so speaking a name draws nothing. The canon mechanism is R61-70-ANAMNESIS_READS_NOT_STORES (records
+    live in ground and objects as Mnemata, which Anamnesis reads and wakes) and R61-108-MORTALIS_FULL_COST_STACK
+    (every read erasing what it takes); both stand. Resilience is Pack Fourteen''s stat for what a working
+    does to the Crystal (R14-3-STATS_DECIDE_TABLE); no figure is invented (R12-5-NEVER_INVENT_NUMBER),
+    and a figure canon lacks prints as a marked estimate (R70-99-NUMBER_NOT_YET_CANON). The Gate is R60-13-THE_GATE,
+    with unlicensed high magic punished like treason under R60-17-LEARNING_ANYWAY; The Mother is R60-23-THE_MOTHER;
+    all stand. R12-2-MYSTIC_REGISTER_DEF is not changed. A held secret marks its holder the same way under
+    R74-38-LEVERAGE_BLACKMAIL.'
+- id: R74-5-WHAT_CATCHING_LIE_IS
+  pack: Mystery Law 2026-10-04
+  pack_number: null
+  section: K5
+  title: A lie is caught when his PC acts on the truth or names it in play
+  status: live
+  kind: definition
+  summary: An NPC's lie counts as caught only when Isaac's PC acts on the truth or names the lie in play,
+    and Isaac spotting it in chat changes nothing in the world until his PC moves.
+  verbatim: His PC acts on it. Caught when his PC acts on the truth or names the lie in play. Isaac spotting
+    it in chat changes nothing in the world until his PC moves.
+  amends:
+  - guide: NATALIE.md and the wotr-write skill
+    locus: 'Lies: what catching is'
+    operation: adds
+  supersedes: []
+  applies_to:
+  - dialogue
+  - session-protocol
+  - pov
+  verification: []
+  ratified: 'Isaac, 2026-10-04, Claude Code chat: ruled directly (the mystery questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: 'K5, option A (as recommended). Options B (caught when Isaac names it, in character or out) and
+    C (caught once a fact that breaks it is on the page) were not taken. Partly amends R48-42-LIES: its
+    ''the player has to catch them'' now means his PC acting on the truth or naming the lie in play (note
+    filed there); R72-25-HOW_MANY_LIES''s floor of one live lie for every roster NPC with a want stands.
+    R49-36-LIE_TELLS (every lie leaves a catchable tell) stands, and R71-6-PLAYER_FIGHTER_PAGE''s tell
+    placed, read his, holds. What an uncaught lie becomes is R74-18-LIE_NEVER_CAUGHT; a true sentence
+    built to deceive is R74-14-TRUE_WORDS_THAT_DECEIVE.'
+- id: R74-6-FINDING_CLUES_AT_TABLE
+  pack: Mystery Law 2026-10-04
+  pack_number: null
+  section: K6
+  title: The core clue comes to any sensible look; the extras to the right question
+  status: live
+  kind: procedure
+  summary: When Isaac's PC searches, each conclusion's core clue comes to any sensible look, and the further
+    clues that sharpen it, speed it or name the purse (who paid) come only to the right question or instrument.
+  verbatim: Core found, extras earned. Each conclusion's core clue comes to any sensible look; the further
+    clues that sharpen it, speed it or name the purse (who paid) come only to the right question or instrument.
+  amends:
+  - guide: NATALIE.md and the wotr-write skill
+    locus: 'Table Rule 6 (the read is the game): finding clues'
+    operation: adds
+  supersedes: []
+  applies_to:
+  - adjudication
+  - session-protocol
+  - pov
+  verification: []
+  ratified: 'Isaac, 2026-10-04, Claude Code chat: ruled directly (the mystery questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: 'K6, option C (as recommended): GUMSHOE (Robin Laws''s investigation system, in which the right
+    look always finds the core clue) for the core, the extras earned. Options A (GUMSHOE whole) and B
+    (only the right question, missed clues staying missed) were not taken. Finding is the table''s and
+    reading stays his: R71-6-PLAYER_FIGHTER_PAGE (the tell placed, the read his) and R71-23-TELL_READ
+    stand, and R48-48-EXPLAIN is not changed. A faculty''s read still delivers a bare fact (R6-2-READ_DELIVERS_FACT),
+    which stands. How many clues a conclusion carries is R74-8-CLUES_PER_CONCLUSION; what a miss costs
+    is R74-11-WHEN_CLUES_MISSED.'
+- id: R74-7-CUTTING_AWAY_INSIDE_CASE
+  pack: Mystery Law 2026-10-04
+  pack_number: null
+  section: K7
+  title: Inside a case a closing cut shows the hand, never a face, a name or the answer
+  status: live
+  kind: mandate
+  summary: While Isaac's PC works a case, a turn may close on a short marked cut to the other side moving
+    (a hand, a room, a deed) that may carry a clue, but the cut never shows a face, a name or the answer.
+  verbatim: Cut to the hand. A turn may close on a short marked cut to the other side moving (a hand,
+    a room, a deed) that may carry a clue, never a face, a name or the answer.
+  amends:
+  - guide: NATALIE.md and the wotr-write skill
+    locus: 'POV and interiority (cutaways): inside a case'
+    operation: adds
+  supersedes: []
+  applies_to:
+  - pov
+  - scene-structure
+  verification: []
+  ratified: 'Isaac, 2026-10-04, Claude Code chat: ruled directly (the mystery questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: 'K7, option B (as recommended). Options A (no cut touching his case) and C (cut freely, the culprit
+    and his reasons shown) were not taken. Partly amends R49-09-CUTAWAYS and R72-7-CUTAWAY_SHOWS inside
+    a case his PC works: the closing cut to the other side shows a hand, a room or a deed, never the actor''s
+    face or name, which R72-7-CUTAWAY_SHOWS otherwise shows, and never the answer (notes filed there).
+    Partly amends R71-52-AMBUSH_NAMED_ROUND the same way when the ambush belongs to that case: the shooter''s
+    half, played as a turn''s closing cutaway, shows the hand and the deed, never his face or name (note
+    filed there). Outside a case all three stand. R5-C1-WRITE_FROM_LEAST_KNOWING and R71-6-PLAYER_FIGHTER_PAGE
+    stand. A clue a cut carries is shown on the page, so it may serve a solution under R74-2-FAIRPLAY_TERMS,
+    and the notes list it (R74-9-WHERE_TRUTH_KEPT). A written book''s mode is R74-1-HOW_MUCH_READER_SOLVES.'
+- id: R74-8-CLUES_PER_CONCLUSION
+  pack: Mystery Law 2026-10-04
+  pack_number: null
+  section: MY1
+  title: At least three clues per conclusion, by three roads
+  status: live
+  kind: budget
+  summary: Every conclusion a case needs reached gets at least three clues, one in the room, one in a
+    mouth and one on paper or an instrument, so no single kind of looking is required, and the notes list
+    all three.
+  verbatim: 'Three, by three roads. At least three clues per conclusion: one in the room, one in a mouth,
+    one on paper or an instrument, so no single kind of looking is required. The notes list all three.'
+  amends:
+  - guide: NATALIE.md and the wotr-write skill
+    locus: 'Mysteries: clues per conclusion'
+    operation: adds
+  - guide: author notes template
+    locus: Clues used and the sealed solution
+    operation: adds
+  supersedes: []
+  applies_to:
+  - scene-structure
+  - session-protocol
+  verification: []
+  ratified: 'Isaac, 2026-10-04, Claude Code chat: ruled directly (the mystery questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: MY1, option A (digest). Justin Alexander's Three Clue Rule from tabletop practice, set on the
+    archive's three roads (the room, a mouth, paper). Options B (three by any road), C (two sightings,
+    R71-23-TELL_READ extended to investigation) and D (one clear clue) were not taken; R71-23-TELL_READ's
+    shown twice, read at the third, stays the rhythm of a fighting tell and is not changed. Which clue
+    comes to a sensible look and which only to the right question is R74-6-FINDING_CLUES_AT_TABLE; the
+    list sits with R74-9-WHERE_TRUTH_KEPT's clue list and R74-2-FAIRPLAY_TERMS's clues used. R48-30-SURPRISES
+    stands.
+- id: R74-9-WHERE_TRUTH_KEPT
+  pack: Mystery Law 2026-10-04
+  pack_number: null
+  section: MY2
+  title: A sealed truth file per open mystery and a clue list in every scene's notes
+  status: live
+  kind: procedure
+  summary: Every open mystery keeps one sealed entry under table/ (who, how, why, what each NPC knows,
+    what stays kept) that Natalie reads each session and play never quotes, in one file with any sealed
+    Front file, and every scene's author notes list each clue planted, found or missed and the conclusion
+    it serves, so fairness can be audited after.
+  verbatim: 'Yes to: A sealed truth file (One entry per open mystery under table/: who, how, why, what
+    each NPC knows, what stays kept. Natalie reads it each session; play never quotes it. One file with
+    any sealed Front file); Clue list in the notes (Every scene''s author notes list each clue planted,
+    found or missed, and the conclusion it serves, so fairness can be audited after).'
+  amends:
+  - guide: Session Start Protocol
+    locus: The sealed truth file, read each session
+    operation: adds
+  - guide: author notes template
+    locus: Clue list (planted, found, missed)
+    operation: adds
+  - guide: NATALIE.md and the wotr-write skill
+    locus: 'The Running Pieces: the sealed truth file'
+    operation: adds
+  supersedes: []
+  applies_to:
+  - session-protocol
+  - scene-structure
+  verification: []
+  ratified: 'Isaac, 2026-10-04, Claude Code chat: ruled directly (the mystery questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: MY2, options A and B (digest). Options C (a clue column on Fronts) and D (the Ledger's who-knows-what)
+    were not taken. The sealed Front file that shares the truth file is R74-41-INTRIGUE_FRONT_FILE_SHOWS's.
+    The clue list carries R71-30-HELD_BACK_REVEAL's planted-sign list from fights to every scene; that
+    row's own change is filed under R74-2-FAIRPLAY_TERMS. R5-C1-INFO_TRACKED_PER_POV stands. At the Desktop
+    table the full notes, the clue list with them, are written at archive (R72-12-TABLE_TALK_NOTES). The
+    truth file is where a table mystery's sealed solution (R74-2-FAIRPLAY_TERMS) and its kept secrets
+    (R74-3-WHEN_SECRETS_PAY) are written; herrings are listed with the clues (R74-10-RED_HERRINGS), and
+    R74-19-THING_LEFT_UNEXPLAINED marks each unexplained notice texture or seed in the notes.
+- id: R74-10-RED_HERRINGS
+  pack: Mystery Law 2026-10-04
+  pack_number: null
+  section: MY3
+  title: Red herrings built from true facts, refutable on the page and listed
+  status: live
+  kind: mandate
+  summary: A red herring is built from true facts that point the wrong way, is refutable on the page,
+    and is listed as a herring in the notes.
+  verbatim: True facts, refutable. A herring is built from true facts that point the wrong way, is refutable
+    on the page, and is listed as a herring in the notes.
+  amends:
+  - guide: NATALIE.md and the wotr-write skill
+    locus: 'Mysteries: red herrings'
+    operation: adds
+  - guide: author notes template
+    locus: Clue list (planted, found, missed)
+    operation: adds
+  supersedes: []
+  applies_to:
+  - scene-structure
+  - pov
+  verification: []
+  ratified: 'Isaac, 2026-10-04, Claude Code chat: ruled directly (the mystery questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: MY3, option B (digest), the fair-play practice from Christie on. Options A (no herrings), C (NPCs'
+    wrong theories only) and D (any lead, a planted object or staged room among them, so long as the solution
+    refutes it) were not taken. Misdirection by NPC lies (R49-36-LIE_TELLS) and by confident wrong theories
+    (R12-4-VOICE_ONE_POV, R5-C1-WELL_REASONED_WRONG_CONCLUSION) stands beside it, and R48-36-NPC_WITS
+    is not changed. The herring is listed with the clues under R74-9-WHERE_TRUTH_KEPT.
+- id: R74-11-WHEN_CLUES_MISSED
+  pack: Mystery Law 2026-10-04
+  pack_number: null
+  section: MY4
+  title: Missed clues tick the Front and open a costlier road
+  status: live
+  kind: procedure
+  summary: When a case's clues go unread, its Front ticks and a costlier road opens, each miss spending
+    something (a witness, a Trace read once, a life), so the case stays solvable and the delay shows on
+    the Ledger.
+  verbatim: 'Both, at a price. The Front ticks and a costlier road opens: each miss spends something (a
+    witness, a Trace read once, a life), so the case stays solvable and the delay shows on the Ledger.'
+  amends:
+  - guide: NATALIE.md and the wotr-write skill
+    locus: 'Table rules 4 and 7: Fronts, the ledger'
+    operation: adds
+  supersedes: []
+  applies_to:
+  - session-protocol
+  - adjudication
+  verification: []
+  ratified: 'Isaac, 2026-10-04, Claude Code chat: ruled directly (the mystery questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: MY4, option C (digest). Options A (the culprit wins) and B (a second road at no extra cost) were
+    not taken. The case's counterpart of R71-8-CORE_PROMISE's findable way out, which stands for fights.
+    A Trace read once is R61-108-MORTALIS_FULL_COST_STACK's every read erasing what it takes. R71-101-LAW_TURNS
+    (an unread killing sits on the Ledger as a risk) and R48-31-STAKES stand. Fronts tick on R72-20-MOVES_FRONT
+    and show by R72-21-FRONT_SIGNS_SEEN; the Ledger line carries a thread and a date or trigger (R72-22-WHEN_BILL_COMES).
+    A rival who closes the case first is R74-24-RIVAL_ON_CASE.
+- id: R74-12-REST_OF_WATCH_SEARCH
+  pack: Mystery Law 2026-10-04
+  pack_number: null
+  section: MY5
+  title: Every Night Watch search as protocol, closed on its docket line
+  status: live
+  kind: procedure
+  summary: A Night Watch search of a room, a body or a seal plays step by step as action, figures in a
+    mouth and nothing summarised, and closes on its docket line set off from the prose, the Register's
+    flat record against the long hour.
+  verbatim: 'Protocol, closed on filing. As A, and the search closes on its docket line set off from the
+    prose: the Register''s flat record against the long hour, the Lord of the Mysteries document turned
+    to a close.'
+  amends:
+  - guide: NATALIE.md and the wotr-write skill
+    locus: 'Prose standards: readouts (forensic readings)'
+    operation: extends
+  supersedes: []
+  applies_to:
+  - scene-structure
+  - documents
+  - magic-mechanism
+  verification: []
+  ratified: 'Isaac, 2026-10-04, Claude Code chat: ruled directly (the mystery questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: 'MY5, option C (as recommended), which takes option A: R71-81-FORENSIC_READING_PAGE extends to
+    every Watch search, rooms, bodies and seals playing step by step as action, figures in a mouth, nothing
+    summarised. That row''s protocol as action now reaches every Night Watch search and not the residue
+    reading alone (note filed there); its figures outside R70-86-MANY_READOUTS_SCENE_CARRIES''s cap and
+    the instruments'' contradiction as the turn stand. Option B (instruments only as protocol, the rest
+    as the carrier''s noticing) was not taken; R70-44-CULTURE_KEYED_NOTICING still sets what she makes
+    of the room. The docket close is R70-17-CLOSING_MODES'' notice set off from the prose, in a Watch
+    form under R70-67-FORMS_WORLD_DOCUMENTS and R12-4-VOICE_FOUR_DOCUMENT, the Lord of the Mysteries document
+    turned to a close; R12-5-NEVER_INVENT_NUMBER binds any figure in it. The Night Register is the Society''s
+    own desk (R60-26-NIGHT_WATCH_SOCIETY).'
+- id: R74-13-INTERROGATION
+  pack: Mystery Law 2026-10-04
+  pack_number: null
+  section: MY6
+  title: An interrogation as a duel of tells
+  status: live
+  kind: mandate
+  summary: When a witness is questioned, each question aims at a tell and the page shows what it bought
+    or cost, the accounting of talk inside a fight carried past fights.
+  verbatim: 'A duel of tells. R71-22''s accounting extends past fights: each question aims at a tell,
+    and the page shows what it bought or cost.'
+  amends:
+  - guide: Dialogue Craft Standards
+    locus: 'Interrogation: a duel of tells'
+    operation: adds
+  supersedes: []
+  applies_to:
+  - dialogue
+  - scene-structure
+  verification: []
+  ratified: 'Isaac, 2026-10-04, Claude Code chat: ruled directly (the mystery questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: 'MY6, option A (as recommended). Extends R71-22-TALK_INSIDE_FIGHT in the answer''s words, ''R71-22''s
+    accounting extends past fights'': in a questioning each question aims at a tell and the page shows
+    what it bought or cost (note filed there); inside a fight that row stands as written. Options B (the
+    quiet interview, courtesy as the threat, Mantel''s Cromwell) and C (summary, then the line) were not
+    taken. R72-10-ROUTINE_TALK_SUMMARY still quotes in full any line that carries a lie or a tell. R49-36-LIE_TELLS
+    gives the liar''s tell and R19-4-ICEBERG_DIALOGUE holds. A witness''s honest error owes no liar''s
+    tell (R74-17-HOW_WITNESSES_ERR), and a deceiving truth''s tell is a fact on the page (R74-14-TRUE_WORDS_THAT_DECEIVE).'
+- id: R74-14-TRUE_WORDS_THAT_DECEIVE
+  pack: Mystery Law 2026-10-04
+  pack_number: null
+  section: MY16
+  title: 'A true sentence that deceives: the fact is the tell'
+  status: live
+  kind: mandate
+  summary: A true sentence built to deceive owes no body tell, since its deceit lives in what it leaves
+    out, and the page carries a fact that turns its meaning where a careful player can line it up, the
+    notes naming that fact.
+  verbatim: The fact is the tell. No body tell, since the speaker tells the truth; the deceit lives in
+    what the sentence leaves out, and the page carries a fact that turns its meaning where a careful player
+    can line it up. The notes name that fact.
+  amends:
+  - guide: Dialogue Craft Standards
+    locus: 'Deceiving truths: the fact is the tell'
+    operation: adds
+  - guide: NATALIE.md and the wotr-write skill
+    locus: 'Lies: true words that deceive'
+    operation: adds
+  supersedes: []
+  applies_to:
+  - dialogue
+  - pov
+  verification: []
+  ratified: 'Isaac, 2026-10-04, Claude Code chat: ruled directly (the mystery questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: 'MY16, option B (as recommended). Options A (a body tell owed, as a lie) and C (no tell owed)
+    were not taken. R49-36-LIE_TELLS is not changed: it binds lies, a true sentence is not one, and its
+    ''a fact that doesn''t fit'' stays one of a lie''s tells. R48-42-LIES stands. Hild''s ''a third thing''
+    (Edward''s truth, built to make her act) is the archive''s named case. Where there is a case, the
+    fact is listed with its clues (R74-9-WHERE_TRUTH_KEPT). R71-84-TRADE_PAPER_SCENE is not changed.'
+- id: R74-15-CLUE_OBJECTS
+  pack: Mystery Law 2026-10-04
+  pack_number: null
+  section: MY7
+  title: 'Clue beds by culture: a line in every Standing Inventory'
+  status: live
+  kind: mandate
+  summary: Each Standing Inventory gains a 'Clue beds' line beside 'Notices first' (Kharven counts and
+    the woodpile, Accord meters and wax, Moto seals and court verse), and a case draws its clues from
+    its culture.
+  verbatim: 'By culture. Each Standing Inventory gains a ''Clue beds'' line beside ''Notices first'':
+    Kharven counts and the woodpile, Accord meters and wax, Moto seals and court verse. A case draws its
+    clues from its culture.'
+  amends:
+  - guide: Standing Inventories, NATALIE.md and the wotr-write skill
+    locus: Clue beds (every Inventory)
+    operation: adds
+  supersedes: []
+  applies_to:
+  - standing-inventory
+  - worldbuilding
+  - scene-structure
+  verification: []
+  ratified: 'Isaac, 2026-10-04, Claude Code chat: ruled directly (the mystery questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: MY7, option B (digest). Options A (lamps, wax, seals and ledgers leading every culture's cases)
+    and C (no clue object leading two cases running) were not taken. Adds a field beside R70-44-CULTURE_KEYED_NOTICING's
+    Notices first line, which stands; R6-8-STANDING_INVENTORY_CATEGORIES gains the line (note filed there),
+    and R70-45-NEW_STANDING_INVENTORY_FIELDS stands. The archive's best clues are priced in the economy
+    (oil where tallow burns, a salve too good for the kitchen); R71-84-TRADE_PAPER_SCENE's registered
+    marks and lots stand. The line is owed to every Inventory in desktop/inventories/ and to NATALIE.md's
+    inline Kharven Inventory.
+- id: R74-16-INVESTIGATOR_HEAD
+  pack: Mystery Law 2026-10-04
+  pack_number: null
+  section: MY8
+  title: The investigator's facts on the page, her conclusion held
+  status: live
+  kind: mandate
+  summary: When the POV is the investigator, every fact she notices reaches the page plainly while her
+    conclusion waits, carried by her next act as Holmes keeps his, and numbered steps stay legal at the
+    solution.
+  verbatim: Facts shown, conclusion held. Every fact she notices reaches the page plainly; the conclusion
+    waits, carried by her next act, as Holmes keeps his. Numbered steps stay legal at the solution.
+  amends:
+  - guide: WOTR_Scene_Writing_Process_Guide.md
+    locus: 'POV and psychic distance: the investigator''s head'
+    operation: adds
+  - guide: NATALIE.md and the wotr-write skill
+    locus: POV and interiority
+    operation: adds
+  supersedes: []
+  applies_to:
+  - pov
+  - prose-law
+  verification: []
+  ratified: 'Isaac, 2026-10-04, Claude Code chat: ruled directly (the mystery questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: 'MY8, option C (as recommended). Options A (the notice withheld, legal under R70-38-REASONING_SHOWS''s
+    unsaid and unfair by Knox''s eighth rule) and B (every inference aloud in numbered italic thought)
+    were not taken. Partly amends R70-38-REASONING_SHOWS for an investigator POV: no fact she notices
+    is held back under the unsaid, her conclusion takes the unsaid''s form, carried by her next act, and
+    the stepwise list stays legal at the solution (note filed there); its reasoning from figures is unchanged.
+    Serves R74-2-FAIRPLAY_TERMS''s nothing unseen. R12-4-VOICE_ONE_POV stands. How the answer lands is
+    R74-22-REVEAL.'
+- id: R74-17-HOW_WITNESSES_ERR
+  pack: Mystery Law 2026-10-04
+  pack_number: null
+  section: MY9
+  title: Honest witness error by memory or by culture, logged apart from lies
+  status: live
+  kind: mandate
+  summary: A witness who is wrong without lying errs by real memory science or by his culture's misreading
+    and folk belief, and the roster gains an 'errs about' field beside 'lied about', so an honest error
+    never owes a liar's tell.
+  verbatim: Both, logged apart. Errors come by either road, and the roster gains an 'errs about' field
+    beside 'lied about', so an honest error never owes a liar's tell.
+  amends:
+  - guide: Character cards, NATALIE.md and the wotr-npc skill
+    locus: 'The NPC roster: ''errs about'' beside ''lied about'''
+    operation: adds
+  supersedes: []
+  applies_to:
+  - dialogue
+  - pov
+  - standing-inventory
+  verification: []
+  ratified: 'Isaac, 2026-10-04, Claude Code chat: ruled directly (the mystery questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: 'MY9, option C (digest), both roads. A reads: each honest error follows real memory science,
+    and a careful questioner can find it by the pattern (Elizabeth Loftus''s eyewitness findings: short
+    events remembered as long, the weapon remembered over the face, details planted by a leading question).
+    B reads: each witness misreads by his Standing Inventory and folk belief. In B''s own words this extends
+    R70-44-CULTURE_KEYED_NOTICING and R53-15-FOLK_BELIEFS to testimony; both stand (notes filed there).
+    R49-36-LIE_TELLS binds lies only, and R72-25-HOW_MANY_LIES''s lie and its tell stay in ''lied about'';
+    an honest error filed there now, such as Josse Osricsson''s believed error, belongs in ''errs about''.'
+- id: R74-18-LIE_NEVER_CAUGHT
+  pack: Mystery Law 2026-10-04
+  pack_number: null
+  section: MY10
+  title: An uncaught lie comes due on the Ledger
+  status: live
+  kind: procedure
+  summary: The first time Isaac's PC acts on a lie he has not caught, it opens a Ledger line, and the
+    truth arrives as that line's cost when it bites, the tell already behind him to find.
+  verbatim: It comes due. The first time his PC acts on it, the lie opens a Ledger line; the truth arrives
+    as that line's cost when it bites, the tell already behind him to find.
+  amends:
+  - guide: NATALIE.md and the wotr-write skill
+    locus: 'Table rules 4 and 7: Fronts, the ledger'
+    operation: adds
+  supersedes: []
+  applies_to:
+  - session-protocol
+  - dialogue
+  verification: []
+  ratified: 'Isaac, 2026-10-04, Claude Code chat: ruled directly (the mystery questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: MY10, option B (as recommended), Apocalypse World's hard move on a missed chance (the tabletop
+    game WOTR's Fronts come from). Options A (it stands and never costs him), C (a Front carries it) and
+    D (told to Isaac at an arc's end) were not taken. R48-42-LIES and R49-36-LIE_TELLS stand; the tell
+    is the one R72-25-HOW_MANY_LIES logs beside the lie on the roster. Caught is R74-5-WHAT_CATCHING_LIE_IS.
+    The Ledger line carries a thread and a date or trigger (R72-22-WHEN_BILL_COMES). Joan Aldery's nail
+    in the Rovhen run is the standing case.
+- id: R74-19-THING_LEFT_UNEXPLAINED
+  pack: Mystery Law 2026-10-04
+  pack_number: null
+  section: MY17
+  title: 'The unexplained notice at the table: no count, marked texture or seed'
+  status: live
+  kind: budget
+  summary: 'Table Rule 8''s unexplained notice no longer comes every turn: as prose already has it, no
+    count is owed, one comes when a scene has one worth leaving, and the notes mark it texture or seed.'
+  verbatim: 'When a scene has one. R49-11 carried to the table: no count; an unexplained notice comes
+    when a scene has one worth leaving, marked texture or seed in the notes as in C.'
+  amends:
+  - guide: NATALIE.md and the wotr-write skill
+    locus: 'Table Rule 8 (ignorance and lies): the unexplained notice'
+    operation: replaces
+  supersedes: []
+  applies_to:
+  - pov
+  - scene-structure
+  - session-protocol
+  verification: []
+  ratified: 'Isaac, 2026-10-04, Claude Code chat: ruled directly (the mystery questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: 'MY17, option D (as recommended). Table Rule 8''s per-turn clause (''One thing per turn his PC
+    notices and you don''t explain'') lives only in NATALIE.md, has no indexed row, and was retired into
+    R72-25-HOW_MANY_LIES; this answer settles the notice half: no count. Extends R49-11-NOT_KNOWING in
+    the answer''s words, ''R49-11 carried to the table'': its no-minimum rule now governs roleplay turns
+    too, and at the table each notice left is marked texture or seed in the notes (note filed there).
+    C, whose marking D takes, logs seeds in MY2''s records (R74-9-WHERE_TRUTH_KEPT) to pay under K3 (R74-3-WHEN_SECRETS_PAY)
+    and texture never, the page never saying which. Options A to C (one a turn) were not taken. R6-3-IGNORANCE_QUOTA
+    is already superseded by R49-11-NOT_KNOWING and is not touched, and R54-18-IGNORANCE_PER_SCENE (how
+    the old quota counted across viewpoints) is not changed. R53-30-TEXTURE_DENSITY''s world-only detail
+    every beat stands, and R47-12-MYSTERY_STAYS_OPEN is not changed. NATALIE.md''s Rule 8 rewrite is owed
+    under R72-41-WHERE_TABLE_LAW_LANDS and R74-43-WHERE_MYSTERY_LAW_LANDS.'
+- id: R74-20-WHAT_INSTRUMENTS_PROVE
+  pack: Mystery Law 2026-10-04
+  pack_number: null
+  section: MY11
+  title: A sound instrument never lies but may miss
+  status: live
+  kind: definition
+  summary: A sound instrument prints true, and a case lives in what one was not built to read (below its
+    floor, behind a ward, or asked the wrong question), the notes saying which.
+  verbatim: 'Never lies, may miss. A sound instrument prints true. A case lives in what one was not built
+    to read: below its floor, behind a ward, or asked the wrong question. The notes say which.'
+  amends:
+  - guide: NATALIE.md and the wotr-write skill
+    locus: 'Prose standards: readouts (forensic readings)'
+    operation: adds
+  supersedes: []
+  applies_to:
+  - magic-mechanism
+  - stats
+  - adjudication
+  verification: []
+  ratified: 'Isaac, 2026-10-04, Claude Code chat: ruled directly (the mystery questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: 'MY11, option A (digest). Option B (calibration drift and tampering, R71-84-TRADE_PAPER_SCENE''s
+    forgery law reaching instruments) was not taken. The Night Watch page''s clean assay, which means
+    only that nothing signed above the Bureau''s floor, is the model. R70-78-WHERE_SCREEN_COMES_FROM (instruments
+    read everyone else) and R71-44-FACULTY_READ_MAN (a faculty prints exact figures unless warded) stand.
+    R60-11-TRACE_EVIDENCE_AND_JURISDICTION, as R71-101-LAW_TURNS amends it, stands, and R71-84-TRADE_PAPER_SCENE
+    stands: a forged lot stays findable by mark, assay or the Index''s own failure. The contradiction
+    between instruments stays R71-81-FORENSIC_READING_PAGE''s turn.'
+- id: R74-21-SOLUTION_SCENE
+  pack: Mystery Law 2026-10-04
+  pack_number: null
+  section: MY12
+  title: A case solves at a hearing, by a procedure, or in a document
+  status: live
+  kind: definition
+  summary: 'A case''s solution scene may take three forms: a hearing (court, inquest or Register) turned
+    where a statement meets the exhibit that breaks it, each culture keeping its own justice; a procedure,
+    a test or instrument proving it on the page as action with the result as the verdict; or a document,
+    a filing, docket or set-off notice whose last line is the verdict.'
+  verbatim: 'Yes to: The hearing (A court, inquest or Register hearing, turned where a statement meets
+    the exhibit that breaks it; each culture keeps its own justice (R53-11)); The procedure (A test or
+    instrument proves it on the page as action (R71-81), and the result is the verdict); The document
+    (The case closes as a filing, a docket or a set-off notice (R70-67, R70-17), its last line the verdict).'
+  amends:
+  - guide: NATALIE.md and the wotr-write skill
+    locus: 'Mysteries: the solution scene'
+    operation: adds
+  - guide: WOTR_Scene_Writing_Process_Guide.md
+    locus: 'Scene shapes: the solution scene'
+    operation: adds
+  supersedes: []
+  applies_to:
+  - scene-structure
+  - documents
+  - dialogue
+  verification: []
+  ratified: 'Isaac, 2026-10-04, Claude Code chat: ruled directly (the mystery questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: MY12, options B, C and D (digest). Option A, the drawing-room summation (one voice laying out
+    the case, spending the scene's crafted speech), was not taken. The hearing is Ace Attorney's turn
+    and keeps R53-11-JUSTICE's culture-by-culture justice, which stands; court speech runs long where
+    R70-111-LONG_FORMAL_SPEECH_CLIPPED says, and R48-43-SPEECHES and R19-4-ICEBERG_DIALOGUE stand. The
+    procedure is R71-81-FORENSIC_READING_PAGE's protocol as action. The document takes R70-67-FORMS_WORLD_DOCUMENTS'
+    forms and R70-17-CLOSING_MODES' notice close; all three stand. A Watch search's docket close is R74-12-REST_OF_WATCH_SEARCH.
+    How the answer lands is R74-22-REVEAL; whether a court or file can be bought is R74-42-WHEN_PROCESS_BOUGHT.
+- id: R74-22-REVEAL
+  pack: Mystery Law 2026-10-04
+  pack_number: null
+  section: MY13
+  title: The answer lands cold, in a cluster of one-line paragraphs at the proof
+  status: live
+  kind: mandate
+  summary: A case's answer lands as a short cluster of one-line paragraphs at the moment of proof, and
+    the explanation comes later or never.
+  verbatim: Cold, in a cluster. The answer lands as a short cluster of one-line paragraphs at the moment
+    of proof; the explanation comes later or never.
+  amends:
+  - guide: NATALIE.md and the wotr-write skill
+    locus: 'Mysteries: the reveal'
+    operation: adds
+  supersedes: []
+  applies_to:
+  - prose-law
+  - scene-structure
+  verification: []
+  ratified: 'Isaac, 2026-10-04, Claude Code chat: ruled directly (the mystery questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: MY13, option A (as recommended). Options B (the chain walked back link by link) and C (the object,
+    then silence) were not taken. Uses R70-20-PARAGRAPH_SHAPE's one-line cluster at a reveal, which stands;
+    Junji Ito's reveal held for the page turn and drawn calm and complete is the model. R74-16-INVESTIGATOR_HEAD
+    keeps numbered steps legal at the solution; the cluster lands at the moment of proof, and any explanation
+    comes after it. R70-38-REASONING_SHOWS and R70-17-CLOSING_MODES are not changed here. The forms a
+    solution scene may take are R74-21-SOLUTION_SCENE.
+- id: R74-23-WATCH_AT_TABLE
+  pack: Mystery Law 2026-10-04
+  pack_number: null
+  section: MY14
+  title: 'The Night Watch at the table: patron or rival by where and by his part'
+  status: live
+  kind: definition
+  summary: To a live thread the Night Watch is a patron where the crown's warrant runs and Isaac's PC
+    is neither the hand (who did it) nor the purse (who paid), a rival where he is either, and in Ketsuen
+    it can only ask.
+  verbatim: Both, by where. Patron where the crown's warrant runs and his PC is neither the hand (who
+    did it) nor the purse (who paid); rival where he is either. In Ketsuen it can only ask.
+  amends:
+  - guide: NATALIE.md and the wotr-write skill
+    locus: 'The Running Pieces: the Night Watch at the table'
+    operation: adds
+  supersedes: []
+  applies_to:
+  - worldbuilding
+  - session-protocol
+  verification: []
+  ratified: 'Isaac, 2026-10-04, Claude Code chat: ruled directly (the mystery questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: 'MY14, option C (as recommended), which takes A and B by where. A reads: the Register posts closed
+    filings as contracts with a fee and a penalty (R70-97-QUESTS_CONTRACTS), his PC may take one, and
+    the Watch''s file follows him after. B reads: the Watch files on what PCs do (unlicensed high working,
+    undeclared killings) and arrives as a Front when they do it. Option D (book lens only) was not taken.
+    R60-22-THE_NIGHT_WATCH and R60-26-NIGHT_WATCH_SOCIETY stand; R67-4-CROWN_WARRANT_NOT_IN_KETSUEN (a
+    Searcher can ask and cannot compel) stands and is restated. R70-97-QUESTS_CONTRACTS and R71-97-CONTRACT_FIGHTS
+    (posting, binding clause, the clerk''s counter) stand. Undeclared killings are R71-101-LAW_TURNS'';
+    unlicensed high magic is punished like treason (R60-17-LEARNING_ANYWAY). No live thread yet carries
+    a Watch character.'
+- id: R74-24-RIVAL_ON_CASE
+  pack: Mystery Law 2026-10-04
+  pack_number: null
+  section: MY18
+  title: An NPC rival on the same case runs it on his own clock
+  status: live
+  kind: mandate
+  summary: An NPC working the same case as Isaac's PC voices his own confident, often wrong theories,
+    a right one spoken only after the PC has held every clue it rests on, and runs the case as a Front
+    that may close it first, right or wrong, from clues the page has shown, a wrong close able to hang
+    an innocent and a right one taking the credit and the fee.
+  verbatim: A rival on his own clock. B, and an NPC on the same case runs it as a Front and may close
+    it first, right or wrong, from clues the page has shown; a wrong close can hang an innocent, a right
+    one takes the credit and the fee.
+  amends:
+  - guide: NATALIE.md and the wotr-write skill
+    locus: 'Table Rule 3 (NPC agency): a rival on the case'
+    operation: adds
+  supersedes: []
+  applies_to:
+  - session-protocol
+  - adjudication
+  - dialogue
+  verification: []
+  ratified: 'Isaac, 2026-10-04, Claude Code chat: ruled directly (the mystery questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: 'MY18, option C (as recommended), which takes B: NPCs voice their own theories in their own voices,
+    confident and often wrong (R12-4-VOICE_ONE_POV), and a right one is spoken only after his PC has held
+    every clue it rests on. Option A (evidence only, handed over as a bare fact) was not taken. R71-6-PLAYER_FIGHTER_PAGE
+    stands: the rival draws his own conclusion, never the PC''s. R12-4-VOICE_ONE_POV, R6-2-READ_DELIVERS_FACT,
+    R48-36-NPC_WITS and R57-10-NEVER_RIGGED stand; the rival closes only from clues the page has shown,
+    as R74-2-FAIRPLAY_TERMS asks. His Front ticks on R72-20-MOVES_FRONT. A Watch Searcher such as Orin
+    Farrant is the questionnaire''s example (R74-23-WATCH_AT_TABLE); Hunter x Hunter''s rival hunters
+    racing the hero are the model.'
+- id: R74-25-NAMING_MALPHAS_IN_FILE
+  pack: Mystery Law 2026-10-04
+  pack_number: null
+  section: MY15
+  title: No Night Watch file names Malphas; he is filed by his title
+  status: live
+  kind: ban
+  summary: 'No Night Watch file names Malphas: he is filed by his title at his own written request, named
+    volumes are read at the desk and never copied into a file, and the Farrant Papers stand.'
+  verbatim: Title only, everywhere. No Watch file names him; he is filed by his title at his own written
+    request, and named volumes are read at the desk, never copied in. The Papers stand.
+  amends:
+  - guide: The Farrant Papers and the cards they name
+    locus: Malphas filed by his title (every Watch file)
+    operation: extends
+  supersedes: []
+  applies_to:
+  - naming
+  - documents
+  verification: []
+  ratified: 'Isaac, 2026-10-04, Claude Code chat: ruled directly (the mystery questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: 'MY15, option A (as recommended). Rules CONFLICTS C-125 (the RULINGS preamble: ''MY15 rules CONFLICTS
+    C-125''): the strict reading the published Papers take is kept. R61-62-PAPERS_AUTHOR_NIGHT_WATCH stands
+    (''The Papers stand''), and R61-49-NECROCURSICA_SIGNED_MALPHAS stands: the book is signed Malphas,
+    and its named volumes are read at the desk, never copied into a file. Extends R67-8-MALPHAS_FILED_BY_TITLE,
+    which filed him by his title (Scribe to the Genesio Archivum, by order) in the Papers: the rule now
+    binds every Watch file (note filed there). Options B (named as author only, in a bibliography line)
+    and C (only Wystan Ashmore''s own case file kept clean) were not taken. The night-watch book''s rule
+    that no file names him is this one.'

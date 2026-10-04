@@ -284,7 +284,10 @@ rules:
     amended by R70-35-HARD_BAN_LIST (style law 2026-10-03): the cultivation-translation, Western fantasy
     and LitRPG stock families join the list for narration, and testament, visceral and orbs now fail only
     in their stock senses. Read with R70-36-CHECKER_ENFORCES (style law 2026-10-03): the families R70-35-HARD_BAN_LIST
-    adds FAIL at first use in narration as this list does, and looser variants WARN.'
+    adds FAIL at first use in narration as this list does, and looser variants WARN. Partly amended by
+    R74-45-MYSTERY_CHECKS_VERIFY (mystery law 2026-10-04): the hard-ban list gains a fourth stock family,
+    cosmic stock (''unnameable'', ''eldritch'', ''indescribable'', ''unspeakable'', ''nameless dread''),
+    which FAILs in narration; the Nameless day stays legal.'
 - id: R51-11-COLLISIONS
   pack: Vocabulary Law 2026-09-26
   pack_number: null

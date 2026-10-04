@@ -358,6 +358,10 @@ rules:
       street; music, play and festivals; and law, succession and roads. R70-44
       adds a Notices first line, and R70-59, R70-60, R70-61, R70-63 and R70-65
       add further fields. The nine categories stand.
+      Extended by R74-15-CLUE_OBJECTS (mystery law 2026-10-04): every Inventory
+      gains a 'Clue beds' line beside 'Notices first' (Kharven counts and the
+      woodpile, Accord meters and wax, Moto seals and court verse), and a case
+      draws its clues from its culture. The nine categories stand.
 
   - id: R6-9-RECURRENCE_RULE
     pack: Pack Six

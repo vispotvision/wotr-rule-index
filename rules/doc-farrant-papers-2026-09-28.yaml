@@ -197,7 +197,9 @@ rules:
   source:
     file: ''
     lines: null
-  notes: ''
+  notes: 'Extended by R74-25-NAMING_MALPHAS_IN_FILE (mystery law 2026-10-04): ''No Watch file names him'':
+    the title filing reaches every Night Watch file, not the Papers alone; he is filed by his title at
+    his own written request, and named volumes are read at the desk, never copied in. The Papers stand.'
 - id: R67-9-CASTLEFALL_PLATFORM_SLIP
   pack: The Farrant Papers Ratification 2026-09-28
   pack_number: null

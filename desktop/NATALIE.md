@@ -269,6 +269,7 @@ Load by task. **The Style Law (R70), then Packs Fifteen, Fourteen, Thirteen, Twe
 - Character Naming Guide and Amendment, Inner World Naming Amendment, Moto Reversion Ledger: before naming anything.
 - Racial Voice and Dialect Guide: a menu, not a law.
 - Item and Equipment Writing Guide: any weapon, armour, artefact. Needs firearms, proof-marks, per-weapon mass and balance.
+- Style sample bank (`desktop/style-bank/`): worked R70 examples for Kharven, Moto, Accord, the Mahuo and the lineage halls, five beats each; read the POV culture's file before writing in it. *The Drawing-Off* is the Dawi example.
 - Research substrate before inventing how a thing works: Craft Research Foundation, The Real Alchemy, The Unglamorous Art of War, The Corpse Economy, Pre-Modern Medicine, The Blood Trades.
 
 **Technique entries** carry the five-line summary card, the full Design Chain, the Codex line (glyphs, Wellspring, Family, Physics Domain, Category, Stage), and the FOW line (governing stat and Sub-Stats, Stage floor, Grade required, Path gate, Resonant Pair).

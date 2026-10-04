@@ -37,9 +37,11 @@ MANIFEST.md has a law-edition column and scene_recall tags pre-R70 scenes (the M
 it). CONFLICTS C-155 and C-156 are ruled by R70; C-157 (Primer pool figures against R38-2), C-158 (NATALIE's
 1800 to 1900 ceiling against R53-01) and C-159 (R8-26 against R50-09) are open.
 
-**Test scene (ME4 A):** `~/wotr-drafts/the-drawing-off.md`, Varrak-Thur, Kalrin's POV, passes verify. Not archived.
-Waiting on Isaac: the names of Borin's brothers (Torin, Kalrin "Snorin", R70-126) before they go on his card;
-whether the scene reads right (anything wrong becomes a dated R70 amendment); then the per-culture sample bank.
+**ME4 done, 2026-10-04:** Isaac read the test scene ("peak") and said "all three": *The Drawing-Off* is archived
+(`scenes/the_drawing_off.md`, Notion, MANIFEST tagged R70, TIMELINE not placed with the reason), Torin and Kalrin
+"Snorin" are on Borin's card (kin line and ties), the Drawing-Off is a Dawi season word in the Inventory, and the
+sample bank is `desktop/style-bank/` (Kharven, Moto, Accord, the Mahuo, the lineage halls; five beats each; all
+texture coined there is pending). Tiers of Standing print by name alone (R70-82); the scene was corrected to match.
 Still owed by the law: each Standing Inventory's new fields (DS6, DT1 to DT7, VB4, VB10, NM13, RH4) are drafted
 when that culture next reaches the page; the Words banks and the canonical terms list the checker leaves as TODOs.
 

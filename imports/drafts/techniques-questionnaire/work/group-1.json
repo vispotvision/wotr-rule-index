@@ -1,0 +1,1011 @@
+{
+ "sections": [
+  {
+   "key": "K",
+   "title": "Keystones",
+   "intro": "What a technique card must hold, how much is built before play, how the Crystal relates to the card, what fairness means, and what opens a new art.",
+   "questions": [
+    {
+     "id": "K1",
+     "title": "Where a technique is written",
+     "question": "Where does a character's technique entry live: on its own page, inside the card, or split by kind?",
+     "context": "R47-2's field format (Summary card, Codex and FOW lines, five blocks) is met by the 56 Techniques pages; no card links to one, and cards carry five older formats. Canon's Permission office (a Trait as a working's prerequisite) makes a Signature technique one soul's alone; R12-3 makes a documented school art counterable by study. Pages price cost by Stage band; a signature could use its owner's exact reserve.",
+     "options": [
+      {
+       "key": "A",
+       "label": "Every technique its page",
+       "consequence": "Each technique, signature or school art, gets its own R47-2 page naming its owner or school; the character card carries one row per technique and the link."
+      },
+      {
+       "key": "B",
+       "label": "Full entry on the card",
+       "consequence": "The whole R47-2 entry sits inside the character card; the Techniques pages keep school arts only. Major cards run far past NATALIE's 16,348-character cap."
+      },
+      {
+       "key": "C",
+       "label": "Signatures own, arts shared",
+       "consequence": "A signature, or any art one person derived alone, gets its own page priced at its owner's exact reserve; a school art lives once on its school's page, priced by Stage band. The card's rows link to either."
+      }
+     ],
+     "recommended": "C",
+     "rec_reason": "It follows canon's own split between what one soul permits and what a school documents, keeps counters where R12-3 wants them, and keeps cards short.",
+     "multi": false,
+     "depends_on": [],
+     "rules_touched": [
+      "R47-2-FIELD_FORMAT",
+      "R47-4-LEDGER_COSTS",
+      "R12-3-NAMED_INVENTOR_RULE",
+      "R18-3-ENTRY_AS_CANDIDATE_ROW"
+     ]
+    },
+    {
+     "id": "K2",
+     "title": "Designed first or found in play",
+     "question": "How much of a technique must exist on its card before it first fires on the page?",
+     "context": "R71-28: 'Nothing waits on figures, and precision grows as cards are filled.' R12-3 reads a self-derived technique live, which needs a real mechanism and tell behind the evidence. Hunter x Hunter states an ability's conditions when it first appears; The Wandering Inn hands out Skills as surprises. This sets the floor a technique meets before its debut.",
+     "options": [
+      {
+       "key": "A",
+       "label": "Fully carded first",
+       "consequence": "No technique fires until its whole R47-2 entry exists, figures read off the Essence Ledger. Slowest to start; nothing is ever retrofitted."
+      },
+      {
+       "key": "B",
+       "label": "Core first, rest found",
+       "consequence": "Before first fire the card holds mechanism, cost, limit, tell and counter. Name, forms, Readiness (its casting-time figure), evolutions and What nobody knows fill in from what play showed."
+      },
+      {
+       "key": "C",
+       "label": "Sketched, carded after",
+       "consequence": "A technique may debut from a sketch, its cost read off the Stage band; the card is written at session end from what the page did."
+      }
+     ],
+     "recommended": "B",
+     "rec_reason": "The counter and tell must be real before a fight or the live read is a cheat; everything else can grow from play, as R71-28 already says of figures.",
+     "multi": false,
+     "depends_on": [],
+     "rules_touched": [
+      "R17-3-COUNTER_MANDATORY",
+      "R12-3-NAMED_INVENTOR_RULE",
+      "R71-28-DECIDES_CASTING_SPEED",
+      "R71-30-HELD_BACK_REVEAL",
+      "R12-5-NEVER_INVENT_NUMBER"
+     ]
+    },
+    {
+     "id": "K3",
+     "title": "Your sketch to a card",
+     "question": "When you sketch an ability for your own character, what comes back?",
+     "context": "NATALIE.md has Natalie supply how an ability works 'the moment Isaac sketches one'. R48-35 leaves its uses in a fight to you, and R50-21 lets a Third Name (an earned by-name) coined for your character stick 'only if Isaac keeps it'. This sets how much Natalie writes for you before you see it.",
+     "options": [
+      {
+       "key": "A",
+       "label": "Whole card, yours to keep",
+       "consequence": "Natalie returns the full R47-2 entry at once, a proposed true name in your character's tongue included; every choice on it (name, call, vow) sticks only when you keep it."
+      },
+      {
+       "key": "B",
+       "label": "Mechanism only, choices yours",
+       "consequence": "Natalie writes Physics, Metaphysics, Mechanism, Essence and Counterplay; the name, the release call and any vow stay blank for you to write."
+      },
+      {
+       "key": "C",
+       "label": "Two or three builds",
+       "consequence": "Natalie returns two or three short mechanisms with different costs and counters; you pick one, and only then is it carded."
+      }
+     ],
+     "recommended": "A",
+     "rec_reason": "Your standing direction is that delegated work makes the call and you edit it; R50-21's keep-or-strike already governs names coined for your characters.",
+     "multi": false,
+     "depends_on": [
+      "K2"
+     ],
+     "rules_touched": [
+      "R48-35-USES",
+      "R50-21-THIRD_NAMES",
+      "R49-01-WHOSE_HEAD",
+      "R47-1-NO_APPLICATIONS"
+     ]
+    },
+    {
+     "id": "K4",
+     "title": "Techniques on the Crystal",
+     "question": "Does the bearer's Crystal ever print a technique?",
+     "context": "R70-78: the bearer reads his own Crystal 'at thresholds'. R70-84 earns a readout for a Level, a Stage, a new Trait and Wellspring contact, and names no technique. Canon gives a Trait a Permission office: a Signature technique is one only that person's Traits permit. Solo Leveling and Unbound print every skill; Cradle prints almost nothing.",
+     "options": [
+      {
+       "key": "A",
+       "label": "Signatures print once",
+       "consequence": "Adds a fifth growth moment to R70-84: the first time a Trait-permitted signature holds, one inline Crystal line names it, its Trait and its Grade. School arts never print.",
+       "sample": "The stone under Edda's palms gave its heat back on the third try, slow, the way a hearth gave it up at the end of a long night, and the frost on the death-house lintel ran to water. Her breath-plume thinned to nothing. Behind her eyes the Crystal set down a line it had never held before: Banked Fire, permitted by Hearth-Keeper, Grade E. She went over it twice. Her hands were shaking, and the room was warm."
+      },
+      {
+       "key": "B",
+       "label": "Never on the Crystal",
+       "consequence": "Techniques are craft, never soul: the Crystal prints Level, stats, Traits, Stage and Wellsprings only, as R70-84 stands. A technique's record lives on the card and the Guild registration.",
+       "sample": "The stone under Edda's palms gave its heat back on the third try, slow, the way a hearth gave it up at the end of a long night, and the frost on the death-house lintel ran to water. Her breath-plume thinned to nothing. The Crystal behind her eyes stayed dark. It kept her Level, her Traits and her stats, and it had never kept a list of what she could do with them. That would go into the Guild's book at the Seat under her own name for it, once she could pay the fee."
+      },
+      {
+       "key": "C",
+       "label": "Every technique listed",
+       "consequence": "The Crystal keeps a technique list under the Traits, LitRPG style: every technique held, new ones marked, printed inline at growth moments and in the chapter-end block (R70-98).",
+       "sample": "The stone under Edda's palms gave its heat back on the third try, slow, the way a hearth gave it up at the end of a long night, and the frost on the death-house lintel ran to water. Her breath-plume thinned to nothing. Behind her eyes the Crystal added a third line to the short list it kept beneath her Traits: Hearth-Speech, held; Long Ember, held; Banked Fire, new, Grade E. She knew the first two as well as her own name. She held the third in her mind until the frost came back."
+      }
+     ],
+     "recommended": "A",
+     "rec_reason": "It gives you the LitRPG skill-gain beat at the one moment the soul itself changes, grounded in canon's Permission office, and keeps readouts rare under R70-80.",
+     "multi": false,
+     "depends_on": [
+      "K1"
+     ],
+     "rules_touched": [
+      "R70-78-WHERE_SCREEN_COMES_FROM",
+      "R70-84-GROWTH_MOMENTS_THAT_EARN",
+      "R70-80-READOUT_SITS_PAGE",
+      "R70-98-SHEETS_CHAPTER_ARC_ENDS",
+      "R70-86-MANY_READOUTS_SCENE_CARRIES"
+     ]
+    },
+    {
+     "id": "K5",
+     "title": "The fairness test",
+     "question": "Which tests must a technique's Counter pass before its card stands?",
+     "context": "R17-3 makes a counter mandatory and fails one that reads 'hit him harder'; R47-3 writes counters as facts; R71-23 already shows every tell twice before the read. The archive bends it: one card's counter reads 'None documented once contact is made'. You want findable counters; this turns 'findable' into tests a card must pass. Rank still decides contests through Pressure and Grade.",
+     "options": [
+      {
+       "key": "A",
+       "label": "Same Stage can answer",
+       "consequence": "The written counter is within reach of a prepared practitioner of the technique's own Stage; a counter that needs a higher Stage or a rare Wellspring fails the card."
+      },
+      {
+       "key": "B",
+       "label": "Counter on known law",
+       "consequence": "The counter rests on law someone already knows (a Wellspring's recorded failure, a school's teaching, a Family's weakness), so a player can study toward it before he meets the technique."
+      },
+      {
+       "key": "C",
+       "label": "A counter at each phase",
+       "consequence": "The card names a counter before, during and after contact; 'none once contact is made' fails and the card is rebuilt."
+      }
+     ],
+     "recommended": "A,B",
+     "rec_reason": "A and B make 'findable' literal and put R47-9's inherited failures to work; C would outlaw the grimdark one-touch art whose fairness is never letting it touch.",
+     "multi": true,
+     "depends_on": [],
+     "rules_touched": [
+      "R17-3-COUNTER_MANDATORY",
+      "R47-3-COUNTERS_AS_FACTS",
+      "R47-9-INHERITED_FAILURES",
+      "R12-3-NAMED_INVENTOR_RULE",
+      "R71-31-COUNTERS_DUEL_SCALE"
+     ]
+    },
+    {
+     "id": "K6",
+     "title": "What opens a new technique",
+     "question": "What lets a character gain a technique he did not have?",
+     "context": "R70-90: 'Numbers move only for a cause the reader was shown'. R12-3: every technique was 'derived by somebody, in a specific place, for a specific problem'. R14-8's FOW line (the stats a working needs) sets a Stage floor, Grade, Path gate and Resonant Pair. Cradle's arts come with a written Path manual; Naruto's from teachers and scrolls.",
+     "options": [
+      {
+       "key": "A",
+       "label": "The FOW line alone",
+       "consequence": "Meet the FOW line and any Trait the art needs, and a technique may be learned or derived in downtime whenever he wants it."
+      },
+      {
+       "key": "B",
+       "label": "Numbers plus a cause",
+       "consequence": "The FOW line must be met, and the technique arrives only with a cause on the page: a teacher named, a book studied, or the problem it answers met in a fight."
+      },
+      {
+       "key": "C",
+       "label": "Stages open forms",
+       "consequence": "A school's numbered forms open by Stage; passing a Threshold opens the next form, and the breakthrough line names it."
+      }
+     ],
+     "recommended": "B",
+     "rec_reason": "It carries R70-90's event-bound growth over to techniques and keeps R12-3's inventor-and-problem trail on every new art.",
+     "multi": false,
+     "depends_on": [],
+     "rules_touched": [
+      "R70-90-FAST_NUMBERS_CLIMB",
+      "R12-3-NAMED_INVENTOR_RULE",
+      "R14-8-ABILITY_GUIDE_FOW_LINE",
+      "R70-18-ARC_SHAPES"
+     ]
+    }
+   ]
+  },
+  {
+   "key": "TE",
+   "title": "Techniques and Traits",
+   "intro": "Forms, chants and growth; vows on the card; how Traits form, are written and evolve; Resonant Pairs, Synergia and combined arts; what schools keep back and what watching can teach.",
+   "questions": [
+    {
+     "id": "TE1",
+     "title": "How long a ladder of forms",
+     "question": "How many numbered forms does a school's art run?",
+     "context": "R70-74 lets a school's art run as 'numbered forms (First Form, Second Form), each named, called and counted', mastery read as forms held. It does not say how long a ladder runs. Johannes Liechtenauer's German longsword taught five master cuts (Meisterhäue); Bleach numbers its spells 1 to 99; wuxia (Chinese martial-arts fiction) sects count their arts by the dozen.",
+     "options": [
+      {
+       "key": "A",
+       "label": "Short named ladders",
+       "consequence": "Every school runs a short ladder, three to nine named forms, each carded as its own technique and each a step most students never pass.",
+       "sample": "Aske let the spearman come. Frost ticked in the ruts of the yard, and the man's breath stood white in front of his face. When the point dipped, Aske took the Third Form of the Greymane sword, Kingsfall, the long edge dropped from the roof guard through the ash haft and on into the hands behind it. The whole art fitted on one hand. Boys on the Ridgewall learned Kingsfall in their second winter, and most of them were buried holding three."
+      },
+      {
+       "key": "B",
+       "label": "Long ranked catalogues",
+       "consequence": "Forms run up to the nineties, Bleach's way: the number ranks difficulty, gaps are lost or untaught forms, and a card lists the numbers its holder can call.",
+       "sample": "Aske let the spearman come. Frost ticked in the ruts of the yard, and the man's breath stood white in front of his face. When the point dipped, Aske went to the Thirty-First of the Greymane book, Kingsfall, the long edge dropped from the roof guard through the ash haft and on into the hands behind it. The book ran past ninety. Its numbers ranked difficulty, the gaps were forms nobody living held, and a swordsman on the Ridgewall was known by the highest number he could call."
+      },
+      {
+       "key": "C",
+       "label": "By the school's culture",
+       "consequence": "Western and Kharven schools run short ladders like Liechtenauer's; the lineage halls and the Korean-stratum houses keep long catalogues. Each school's page sets its count.",
+       "sample": "Aske let the spearman come. Frost ticked in the ruts of the yard, and the man's breath stood white in front of his face. When the point dipped, Aske took the Third Form of the Greymane sword, Kingsfall, the long edge dropped from the roof guard through the ash haft and on into the hands behind it. Northern schools kept short books. The hall master watching from the gallery came from a house whose book ran past a hundred, and he had called the Greymane art a child's primer until the Third Form came down."
+      }
+     ],
+     "recommended": "C",
+     "rec_reason": "It tilts by culture as the whole style law does (R70-1), keeps the HEMA (historical European martial arts) tradition's few master cuts and the halls' long books, and gives both kinds of pride a voice.",
+     "multi": false,
+     "depends_on": [],
+     "rules_touched": [
+      "R70-74-TECHNIQUE_NAME_LOOKS",
+      "R8-23-NAME_HIERARCHY",
+      "R50-24-SCHOOL_NAMES",
+      "R70-1-BLEND_MODEL",
+      "R70-100-MARTIAL_VOCABULARY_NAMES_MOVES"
+     ]
+    },
+    {
+     "id": "TE2",
+     "title": "Cutting a chant short",
+     "question": "What happens when a caster cuts her chant short?",
+     "context": "R20C-42: below Refraction (Stage VII) a working needs 'voice, hand, ink or blood'. R71-27 cuts a chant into the exchange, each clause costing the opponent a step; R8-24's release call costs a beat and buys output. Nothing says what a clipped chant does. In Bleach a skipped incantation costs power; in D&D a spell's spoken parts are fixed.",
+     "options": [
+      {
+       "key": "A",
+       "label": "Clip it, lose output",
+       "consequence": "A chant's length sets its output: each line dropped costs a share of output and buys Readiness (casting time), both figures set on the card.",
+       "sample": "The spawn came over the drift on too many legs, and Agnes had two lines of the four still to say. She dropped the third. \"Sequere manum,\" she said, and the heat left the hearthstone in her fist early and thin. It took the thing at the knees. Frost went to steam on the forelegs and they folded, and the body behind them came on over the stumps, slower, with its mouth open. She had bought the beat with the fire the third line would have carried."
+      },
+      {
+       "key": "B",
+       "label": "Whole or nothing",
+       "consequence": "A spoken working takes its whole chant or fails; the chant's length is its Readiness. Casters below Refraction fight from cover and behind partners.",
+       "sample": "The spawn came over the drift on too many legs, and Agnes had two lines of the four still to say. A working below the seventh Stage wanted its whole voice, and hers had been taught to her whole. She said the third line with the thing ten paces off and the fourth with it at three. The heat left the hearthstone in her fist complete and took the spawn through the chest. A foreleg reached her anyway and laid her coat open from elbow to wrist, and the arm inside it."
+      },
+      {
+       "key": "C",
+       "label": "One word is enough",
+       "consequence": "Below Refraction one spoken word meets R20C-42's medium and chant length changes nothing; the release call stays the only spoken lever on output.",
+       "sample": "The spawn came over the drift on too many legs, and Agnes had two lines of the four still to say. She let them go. One word was voice enough to carry a working, and the chant had only ever been her teacher's way of keeping her hands steady. \"Ignis,\" she said, and the heat left the hearthstone in her fist whole and took the spawn through the chest. She spent the next breath on the release, \"Expergiscere, Calor Lapidis,\" and the second heat lifted what was left of it off the drift."
+      }
+     ],
+     "recommended": "A",
+     "rec_reason": "It gives casters the choice under pressure you like in Kubo, keeps the cost visible in the working itself, and puts the trade on the card beside R71-28's Readiness.",
+     "multi": false,
+     "depends_on": [],
+     "rules_touched": [
+      "R20C-42-LAW_V_STAGE_GATE_REFRACTION",
+      "R71-27-SPOKEN_WORKING_EXCHANGE",
+      "R8-24-RELEASE_MECHANIC",
+      "R71-28-DECIDES_CASTING_SPEED",
+      "R50-26-CHANT_TONGUE",
+      "R51-28-CHANT_PAGE"
+     ]
+    },
+    {
+     "id": "TE3",
+     "title": "Does a technique grow on its own",
+     "question": "As a character climbs Levels, does his technique's output climb with him?",
+     "context": "R47-4 bills a technique as a share of full reserve, read off its Stage's band, and the Essence Ledger's Level law raises the reserve every Level, so a fixed share buys more joules as a man climbs. R50-14 gives a stronger form a suffix (Kurosetsu becomes Kurosetsu-Kai). Nothing says whether output grows untouched or waits on a reworking.",
+     "options": [
+      {
+       "key": "A",
+       "label": "Grows with the reserve",
+       "consequence": "The card states a share and the output rises with every Level; the card prints its figures by Band. Old techniques stay deadly forever."
+      },
+      {
+       "key": "B",
+       "label": "Fixed until reworked",
+       "consequence": "Output is fixed at design; to grow, the technique is reworked into an escalated form with its suffix, for a shown cause."
+      },
+      {
+       "key": "C",
+       "label": "Grows to its Grade",
+       "consequence": "Output rises with the reserve until it reaches the top of the Grade it was designed in; past that it needs an escalated form, with its suffix and a shown cause."
+      }
+     ],
+     "recommended": "C",
+     "rec_reason": "It lets old arts keep pace without free power forever, and makes R50-14's suffix the visible moment a man outgrows his own technique.",
+     "multi": false,
+     "depends_on": [],
+     "rules_touched": [
+      "R47-4-LEDGER_COSTS",
+      "R50-14-ESCALATION",
+      "R8-25-ESCALATION_SUFFIX",
+      "R70-90-FAST_NUMBERS_CLIMB"
+     ]
+    },
+    {
+     "id": "TE4",
+     "title": "Drill and mastery",
+     "question": "Can drill make a technique itself faster or cheaper?",
+     "context": "R70-74 reads mastery as forms held. Nothing lets a technique get faster or cheaper with practice. Unbound levels skills by use; Mother of Learning makes skill a matter of drills; Cradle keeps techniques fixed and grows the person. R70-90 still asks a shown cause for any figure that moves.",
+     "options": [
+      {
+       "key": "A",
+       "label": "No technique levels",
+       "consequence": "Mastery shows only as forms held and as stats; a technique's figures change only when it is reworked."
+      },
+      {
+       "key": "B",
+       "label": "Mastery marks on the card",
+       "consequence": "Three named marks, Held, Drilled and Mastered; each lowers Readiness and cost share by figures set on that card, each crossing a shown cause entered in the chapter-end block."
+      },
+      {
+       "key": "C",
+       "label": "Levels by use",
+       "consequence": "A technique carries its own level that climbs with use, Unbound's way, and the Crystal prints it."
+      }
+     ],
+     "recommended": "B",
+     "rec_reason": "It gives you Unbound's and Mother of Learning's drill reward in a form that never invents a number and never adds a readout moment.",
+     "multi": false,
+     "depends_on": [
+      "TE3"
+     ],
+     "rules_touched": [
+      "R70-74-TECHNIQUE_NAME_LOOKS",
+      "R70-90-FAST_NUMBERS_CLIMB",
+      "R70-98-SHEETS_CHAPTER_ARC_ENDS",
+      "R71-28-DECIDES_CASTING_SPEED"
+     ]
+    },
+    {
+     "id": "TE5",
+     "title": "What a vow is worth",
+     "question": "How is the output a vow buys measured?",
+     "context": "R71-32: a narrowing vow raises output 'by a figure you set on that card'; with no scale, a vow buys nothing until a figure is set. Canon's Grade table (Hollow to EX+, each a joule band) already ranks output. GURPS (a tabletop role-playing system) prices a vow minor, major or great by how much of life it closes off.",
+     "options": [
+      {
+       "key": "A",
+       "label": "Capped at its Grade",
+       "consequence": "A vow lifts delivered output up to the top of the technique's own Grade band, never across it; where inside the band is set on the card. A release call stacks on top."
+      },
+      {
+       "key": "B",
+       "label": "A great vow, one Grade",
+       "consequence": "As A, and a great vow, one that stakes life, a limb's use or Crystal mass, may lift output one full Grade; nothing lifts it further. A release call stacks on top."
+      },
+      {
+       "key": "C",
+       "label": "Set card by card",
+       "consequence": "No scale and no cap: each vow's figure is set on its own card, as R71-32 reads now. A release call stacks on top."
+      }
+     ],
+     "recommended": "B",
+     "rec_reason": "It uses canon's Grade table so no figure is invented, caps the gain the way GURPS does, and lets a great vow be the findable gamble Hunter x Hunter makes of Kurapika's chain.",
+     "multi": false,
+     "depends_on": [],
+     "rules_touched": [
+      "R71-32-VOWS_LIMITS",
+      "R12-5-NEVER_INVENT_NUMBER",
+      "R8-24-RELEASE_MECHANIC",
+      "R39-4-MAX_GRADE_LETTER_BINDS"
+     ]
+    },
+    {
+     "id": "TE6",
+     "title": "What else a vow may be",
+     "question": "Beyond a permanent narrowing broken by Shear Break, what may a vow be?",
+     "context": "Canon's Votia entry (the vow Category) calls a vow 'a restriction accepted permanently', priced 'in the rest of your life'. Jujutsu Kaisen also has vows for a single fight and contracts between two people; Hunter x Hunter's Kurapika staked his life on his. R71-32 names only Shear Break (the Trait turning on its bearer) as the price of breaking. Pick any that join.",
+     "options": [
+      {
+       "key": "A",
+       "label": "A vow for one fight",
+       "consequence": "A battle vow, sworn mid-fight, ends with the fight and buys less than the same vow held for life; it departs from Votia's 'accepted permanently'."
+      },
+      {
+       "key": "B",
+       "label": "A stake beyond Shear Break",
+       "consequence": "A vow may stake life, a limb's use or Crystal mass; broken, the stake is paid at once and for good (R55-1). Under TE5's B, only a staked vow reaches a full Grade."
+      },
+      {
+       "key": "C",
+       "label": "A vow between two",
+       "consequence": "Two people bind each other; each card carries the terms, and whoever breaks them takes the Shear Break."
+      }
+     ],
+     "recommended": "B,C",
+     "rec_reason": "Both keep vows priced 'in the rest of your life', as canon says, and give you Kurapika's stake and Jujutsu Kaisen's contracts without cheap one-fight power.",
+     "multi": true,
+     "depends_on": [
+      "TE5"
+     ],
+     "rules_touched": [
+      "R71-32-VOWS_LIMITS",
+      "R55-1-SUBSTANCE_COSTS_PERMANENT",
+      "R17-3-LIMIT_MECHANICAL"
+     ]
+    },
+    {
+     "id": "TE7",
+     "title": "How a vow is sworn",
+     "question": "What must a vow be to bind: witnessed at a stone, spoken aloud, or held in silence?",
+     "context": "R71-32: a vow's terms 'are its findable counter'. Canon's Votia entry calls a vow 'a declared and irrevocable price'; Fracture of Worlds pays oath experience only for swearing 'before a Witness Stone or Continuum-recognized binding' (one the world's law accepts). Jujutsu Kaisen's self-imposed vows need no witness at all. Telling the opponent buys nothing under any option: R71-32 did not take disclosure as a binding.",
+     "options": [
+      {
+       "key": "A",
+       "label": "Before a Witness Stone",
+       "consequence": "A vow binds only before a stone or a recognised rite; it is written down, earns oath experience, and anyone who reads the record knows its counter.",
+       "sample": "There was a Witness Stone set in the Seat's old courses, darker than the wall above it, and Hakon went down on one knee before it in the blue hour after the sun. \"By the sky that covers us,\" he said, \"I draw the Long Cut on the gate's ground and nowhere else.\" The stone took nothing anyone could see. The Hallenfeld quartermaster wrote the words in the gate-book with Hakon's mark beneath them, and by supper every man on the wall knew where Hakon could be beaten."
+      },
+      {
+       "key": "B",
+       "label": "Aloud, any witness",
+       "consequence": "A vow binds when spoken before any living witness, the opponent included; it earns oath experience only at a stone. Somebody always heard, so the counter can be found by asking.",
+       "sample": "Hakon said it on the wall with the wind in his face and four riders near enough to hear. \"By the sky that covers us, I draw the Long Cut on the gate's ground and nowhere else.\" Nothing marked it. The Fusi Vā had gone with the Queen, and the oath had nothing under it now but his own Core, and the Core took it all the same. By supper the whole wall knew where Hakon could be beaten, and so did the man who had been listening on the stair."
+      },
+      {
+       "key": "C",
+       "label": "Silent, in the Core",
+       "consequence": "A vow binds held silent; nobody need hear it. Its terms must be read live from behaviour, the way R12-3 reads a self-derived technique.",
+       "sample": "Hakon said nothing. He stood on the wall with the wind in his face and four riders around him and settled it in himself the way a man settled a debt he meant never to mention: the Long Cut on the gate's ground and nowhere else. His Core took it. Nobody on the wall knew, and a man who meant to beat him would have to watch where he drew and where he held back, and count."
+      }
+     ],
+     "recommended": "B",
+     "rec_reason": "Canon says a vow is 'declared'; speaking it before anyone keeps the counter findable while letting a vow be sworn on a wall or in a fight.",
+     "multi": false,
+     "depends_on": [
+      "TE6"
+     ],
+     "rules_touched": [
+      "R71-32-VOWS_LIMITS",
+      "R12-3-NAMED_INVENTOR_RULE",
+      "R47-3-COUNTERS_AS_FACTS"
+     ]
+    },
+    {
+     "id": "TE8",
+     "title": "When a new Trait forms",
+     "question": "What may form a new Trait in play, and how often?",
+     "context": "Canon names four Resonance Events that awaken a Trait: trauma survived, Wellspring convergence, Temperance Insight (an inner conflict resolved so completely it becomes law), and rite or lineage invocation. R70-84 gives a new Trait its readout and calls it rare. Nothing sets a rate, or whether a Threshold (a Stage breakthrough) is required.",
+     "options": [
+      {
+       "key": "A",
+       "label": "Canon's four, on the page",
+       "consequence": "A new Trait forms only at one of the four events, written as its own scene; no count cap, the scale of the event is the limit."
+      },
+      {
+       "key": "B",
+       "label": "One per Stage at most",
+       "consequence": "The four events, and at most one new Trait between two Thresholds; a second waits for the next Stage."
+      },
+      {
+       "key": "C",
+       "label": "Only at a Threshold",
+       "consequence": "Traits form or change only as the Crystal melts at a Temperance Threshold, so every new Trait arrives with a breakthrough."
+      }
+     ],
+     "recommended": "A",
+     "rec_reason": "It is canon as written, keeps the cause on the page as R70-90 asks, and lets a hard life earn its laws without a bookkeeping cap.",
+     "multi": false,
+     "depends_on": [],
+     "rules_touched": [
+      "R70-84-GROWTH_MOMENTS_THAT_EARN",
+      "R70-90-FAST_NUMBERS_CLIMB",
+      "R71-37-TRAITS_THEY_FIRE",
+      "R17-5-TRAIT_SCOPE"
+     ]
+    },
+    {
+     "id": "TE9",
+     "title": "Who writes your character's Trait",
+     "question": "When a Trait forms in your own character, who writes it?",
+     "context": "A Trait is the soul's law, so it reads as the world's verdict, yet it states a belief only you play. R50-21 lets a Third Name coined for your character stick 'only if Isaac keeps it'; R49-01 keeps his choices yours. NPCs' Traits are Natalie's to write either way.",
+     "options": [
+      {
+       "key": "A",
+       "label": "Natalie writes, you keep",
+       "consequence": "At the event Natalie writes name, Reflection (its kind) and Lattice property; it sticks only when you keep it, as a Third Name does."
+      },
+      {
+       "key": "B",
+       "label": "You write it",
+       "consequence": "Natalie marks that the event could form a Trait and what law it might write; you write the Trait."
+      },
+      {
+       "key": "C",
+       "label": "The event writes it",
+       "consequence": "Natalie cards it as fact the moment it forms, like an agent ruling; you may overturn it afterwards."
+      }
+     ],
+     "recommended": "A",
+     "rec_reason": "It keeps the soul's verdict in the world's hands and the last word in yours, the pattern R50-21 already set for Third Names.",
+     "multi": false,
+     "depends_on": [
+      "TE8"
+     ],
+     "rules_touched": [
+      "R50-21-THIRD_NAMES",
+      "R49-01-WHOSE_HEAD",
+      "R1-1-RESTRICTED_CHARACTERS_EXCLUDED",
+      "R17-5-TRAIT_SCOPE"
+     ]
+    },
+    {
+     "id": "TE10",
+     "title": "What a Trait entry carries",
+     "question": "Beside R17-5's Lattice property, which lines does every Trait entry carry?",
+     "context": "R17-5: a Trait names 'the Lattice property altered' (what it changes in the Crystal's structure). Canon adds a Reflection (Innate, Tempered, Lineage or Resonant), four offices (Bias, Permission, Nucleation, Ceiling: the jobs a Trait does), the Rigidity Effect, and Shear Break when the bearer denies 'the truth that birthed it'. Cards rarely record those.",
+     "options": [
+      {
+       "key": "A",
+       "label": "Founding sentence",
+       "consequence": "The statement the Continuum accepted, in the bearer's words, yours to write for your characters as in TE11. Denying it is the Shear Break, so every Trait carries a findable counter."
+      },
+      {
+       "key": "B",
+       "label": "Rigidity line",
+       "consequence": "What the bearer cannot safely contradict, as a fact. NPCs play it on the page; for your characters it stays a fact for you to play."
+      },
+      {
+       "key": "C",
+       "label": "Offices held",
+       "consequence": "Which of Bias, Permission, Nucleation and Ceiling it serves; a Permission line lists the signatures it allows."
+      },
+      {
+       "key": "D",
+       "label": "Its mark and when",
+       "consequence": "The bodily signature its Reflection gives, and for a Traitus mark (a standing sign that shows only under a condition) the condition that shows it (R10-3)."
+      }
+     ],
+     "recommended": "A,B,C",
+     "rec_reason": "The founding sentence and rigidity line turn canon's risks into counters and character, and the offices tie signatures to their Traits; the mark already lives in the description.",
+     "multi": true,
+     "depends_on": [],
+     "rules_touched": [
+      "R17-5-TRAIT_SCOPE",
+      "R10-3-TRAITUS_SHAPE",
+      "R47-3-COUNTERS_AS_FACTS",
+      "R49-01-WHOSE_HEAD"
+     ]
+    },
+    {
+     "id": "TE11",
+     "title": "How a Trait evolves",
+     "question": "When a Trait fuses or ascends, what decides the shape it takes?",
+     "context": "Canon names three evolutions: Fusion (two Traits merge into one law), Overgrowth (a Trait outgrows its bearer, a failure) and Ascension (a Trait becomes Domain Law). Cradle's great rank needs a true sentence about oneself; The Primal Hunter offers a choice of evolutions. Overgrowth stays a failure under every option.",
+     "options": [
+      {
+       "key": "A",
+       "label": "The melt decides",
+       "consequence": "Fusion and Ascension come out of the crisis as the seeds allow; nobody chooses, and the readout tells the bearer what he became."
+      },
+      {
+       "key": "B",
+       "label": "The bearer's sentence",
+       "consequence": "The evolved law takes the shape of the sentence the bearer holds in the crisis; for your characters you write that sentence, and the Crystal prints the result."
+      },
+      {
+       "key": "C",
+       "label": "Two branches offered",
+       "consequence": "The Crystal offers two possible laws, LitRPG style, and the bearer takes one; for your characters you pick."
+      }
+     ],
+     "recommended": "B",
+     "rec_reason": "Canon's epigraph is 'Belief, once survived, becomes law'; Cradle's revelation is the same idea, and it gives you the call without a game menu.",
+     "multi": false,
+     "depends_on": [
+      "TE10"
+     ],
+     "rules_touched": [
+      "R70-91-BREAKTHROUGH_PAGE",
+      "R70-84-GROWTH_MOMENTS_THAT_EARN",
+      "R49-01-WHOSE_HEAD",
+      "R17-5-TRAIT_SCOPE"
+     ]
+    },
+    {
+     "id": "TE12",
+     "title": "New Resonant Pairs",
+     "question": "May new Resonant Pairs be designed beyond canon's ten?",
+     "context": "Fracture of Worlds Part Nine lists ten Resonant Pairs: two Sub-Stats from different Primaries at the same Grade give a passive bonus (Alacrity and Celerity at B: Reactive Cast). R18-2's test (read the list, show the absence) covers Wellsprings, Families and Tiers and names no Pairs. Nothing says whether the ten are closed.",
+     "options": [
+      {
+       "key": "A",
+       "label": "Canon's ten only",
+       "consequence": "The list is closed; a build that wants more finds it in Traits and techniques."
+      },
+      {
+       "key": "B",
+       "label": "New, by R18-2's test",
+       "consequence": "R18-2 extends to Pairs: a new one may be proposed when a build reaches a combination the ten lack, with real mechanism, Grade and effect; it binds once ratified."
+      },
+      {
+       "key": "C",
+       "label": "Personal Pairs",
+       "consequence": "A Pair unique to one person's Trait architecture, carded as that Trait's Permission and never general."
+      }
+     ],
+     "recommended": "B",
+     "rec_reason": "It keeps the canon list as the base and lets Unbound-style build discovery grow it under the same check every Codex entry passes.",
+     "multi": false,
+     "depends_on": [],
+     "rules_touched": [
+      "R18-2-NO_NEW_CATEGORY_WITHOUT_CHECK",
+      "R20C-33-RESONANT_PAIRS_DIAGNOSTIC",
+      "R71-38-RESONANT_PAIR_UNDER_STRAIN",
+      "R14-8-ABILITY_GUIDE_FOW_LINE"
+     ]
+    },
+    {
+     "id": "TE13",
+     "title": "Carding a Synergia",
+     "question": "How is a pair's drilled Synergia carded, and what binds the pair?",
+     "context": "R71-39: a fusion exists 'only as a carded Synergia technique the pair learned together, with its own cost split and counter'; no improvised fusion. Synergia is the Category for workings several Crystals share. Canon's Lexicon requires the two Attraction Layers to be compatible. Your character enters one only by your choice (R49-01).",
+     "options": [
+      {
+       "key": "A",
+       "label": "Drilled, one shared page",
+       "consequence": "One technique page carries both partners, the drill that made it, the cost split and the counter; both cards link to it; no vow."
+      },
+      {
+       "key": "B",
+       "label": "Drilled, a half each",
+       "consequence": "Each partner's card carries his half (cost share, role, Readiness), and a short page joins them; no vow."
+      },
+      {
+       "key": "C",
+       "label": "Drilled and vowed",
+       "consequence": "One shared page as in A, and the pair also bind each other by a two-party vow; breaking it is the breaker's Shear Break."
+      }
+     ],
+     "recommended": "A",
+     "rec_reason": "One page keeps the split and counter in one place a rival can study, and drill named in downtime meets R70-90.",
+     "multi": false,
+     "depends_on": [
+      "K1"
+     ],
+     "rules_touched": [
+      "R71-39-ALLIES_WORKING_TOGETHER",
+      "R70-90-FAST_NUMBERS_CLIMB",
+      "R49-01-WHOSE_HEAD",
+      "R17-3-COUNTER_MANDATORY"
+     ]
+    },
+    {
+     "id": "TE14",
+     "title": "Naming a two-tongue art",
+     "question": "When a Synergia's partners speak different tongues, what is it called?",
+     "context": "R8-21: a true name is 'in the practitioner's own language'. A Synergia between a Kharven rider and a Moto retainer, or a Dawi smith and an Accord caster, has two owners and two tongues. R8-22's literal gloss and R50-11's two-word cap for English names hold either way.",
+     "options": [
+      {
+       "key": "A",
+       "label": "The deriver's tongue",
+       "consequence": "Named by whichever partner led the derivation; the other learns to call it in a foreign word."
+      },
+      {
+       "key": "B",
+       "label": "Each calls his own",
+       "consequence": "The card carries both names, each glossed; in a fight each partner calls it in his own tongue, two calls in one beat."
+      },
+      {
+       "key": "C",
+       "label": "The tongue they drilled in",
+       "consequence": "Named in the language the pair trained in, often Accord Latin for a Guild unit."
+      }
+     ],
+     "recommended": "B",
+     "rec_reason": "It honours R8-21 for both owners, and two tongues calling one working in the same beat is texture no other option gives.",
+     "multi": false,
+     "depends_on": [
+      "TE13"
+     ],
+     "rules_touched": [
+      "R8-21-NAME_IN_OWN_LANGUAGE",
+      "R8-22-LITERAL_GLOSS",
+      "R50-11-LONG_NAMES",
+      "R70-74-TECHNIQUE_NAME_LOOKS"
+     ]
+    },
+    {
+     "id": "TE15",
+     "title": "One man's techniques combined",
+     "question": "May one practitioner fuse two of his own techniques into a third?",
+     "context": "R71-39 rules fusion between allies only. Reverend Insanity combines a cultivator's own Gu (living ability insects) into killer moves; Unbound weaves skills into arrays. R8-25 keeps new names for new arts. Nothing says whether one man's own techniques may fuse.",
+     "options": [
+      {
+       "key": "A",
+       "label": "A carded composite art",
+       "consequence": "Two of his techniques may be derived into a third, carded art with its own cost, counter and new name; it costs at least the sum of its parts. Chaining stays free."
+      },
+      {
+       "key": "B",
+       "label": "Chaining only",
+       "consequence": "His techniques chain in sequence and never fuse; fusion belongs to allied Synergia."
+      },
+      {
+       "key": "C",
+       "label": "Only through a Trait",
+       "consequence": "A composite exists only where a Compound Trait (two Reflections fused into one law) permits it, so it is always a signature."
+      }
+     ],
+     "recommended": "A",
+     "rec_reason": "It gives you Reverend Insanity's killer move and Unbound's arrays as derived, priced arts, with a counter and a cause like any other.",
+     "multi": false,
+     "depends_on": [],
+     "rules_touched": [
+      "R71-39-ALLIES_WORKING_TOGETHER",
+      "R8-25-ESCALATION_SUFFIX",
+      "R12-3-NAMED_INVENTOR_RULE",
+      "R17-3-COST_DERIVED"
+     ]
+    },
+    {
+     "id": "TE16",
+     "title": "What a school keeps back",
+     "question": "How much of a school's art can an outsider study?",
+     "context": "R12-3: 'A documented technique is counterable by anyone who studied it'; a self-derived one must be read live. Naruto's clans keep hiden (secret family arts); old Japanese schools kept their deepest teaching as kuden (oral transmission) and okuden (inner teaching). This sets which forms count as documented.",
+     "options": [
+      {
+       "key": "A",
+       "label": "Every form documented",
+       "consequence": "A school writes all its forms in its book; anyone who studied the book can counter any of them."
+      },
+      {
+       "key": "B",
+       "label": "The last form withheld",
+       "consequence": "A school writes its lower forms and teaches its last form mouth to ear; outside the school that form counts as self-derived and is read live."
+      },
+      {
+       "key": "C",
+       "label": "House arts kept inside",
+       "consequence": "A house documents its arts only inside the house; outsiders treat every one as self-derived until a book is stolen or a holder is read."
+      }
+     ],
+     "recommended": "B",
+     "rec_reason": "It gives every school a feared last form and a reason to guard its students, while its lower forms stay studiable and fair.",
+     "multi": false,
+     "depends_on": [
+      "TE1"
+     ],
+     "rules_touched": [
+      "R12-3-NAMED_INVENTOR_RULE",
+      "R70-74-TECHNIQUE_NAME_LOOKS",
+      "R50-24-SCHOOL_NAMES",
+      "R71-30-HELD_BACK_REVEAL"
+     ]
+    },
+    {
+     "id": "TE17",
+     "title": "Learning by watching",
+     "question": "Can watching a technique teach it?",
+     "context": "R47-10: governing Sub-Stats 'belong to the practitioner'; R47-9 has a working inherit its Wellsprings' failures. Naruto's Sharingan copies what it sees, yet its holder still needs the right chakra nature to run it. R12-3 lets anyone who studied a documented technique counter it.",
+     "options": [
+      {
+       "key": "A",
+       "label": "Never by watching",
+       "consequence": "Watching gives the read and the counter, never the art; techniques come from a teacher, a book or a derivation."
+      },
+      {
+       "key": "B",
+       "label": "Re-derived after watching",
+       "consequence": "A witnessed technique may be re-derived in downtime if the watcher holds its Wellsprings and meets its FOW line; it runs at his stats and becomes his own, with his own name."
+      },
+      {
+       "key": "C",
+       "label": "Only through a Trait",
+       "consequence": "Copying is a Permission a Trait grants; without one, watching yields the read and the counter alone."
+      }
+     ],
+     "recommended": "B",
+     "rec_reason": "It honours the copy fights you love while R47-9 and R47-10 keep the copy honest: his Wellsprings, his stats, his failures.",
+     "multi": false,
+     "depends_on": [
+      "K6"
+     ],
+     "rules_touched": [
+      "R47-10-STATS_ARE_THE_CASTERS",
+      "R47-9-INHERITED_FAILURES",
+      "R12-3-NAMED_INVENTOR_RULE",
+      "R70-90-FAST_NUMBERS_CLIMB"
+     ]
+    }
+   ]
+  }
+ ],
+ "settled": [
+  {
+   "point": "A technique entry says what the ability is, never how to use it, in R47-2's field format (Summary card, Codex line, FOW line, Origin, then Physics, Metaphysics, Mechanism, Essence, Counterplay); the Design Chain and six-line card are retired.",
+   "rule_ids": [
+    "R47-1-NO_APPLICATIONS",
+    "R47-2-FIELD_FORMAT",
+    "R14-8-ABILITY_GUIDE_FOW_LINE",
+    "R17-3-CODEX_LINE_ORDER"
+   ],
+   "why_not_asked": "Ability Law 2026-09-26. The converter and template in build/mcp_server.py still prescribe the Design Chain and 'pending Isaac' placeholders: stale text to fix, not a question."
+  },
+  {
+   "point": "Design order: character first, then the researched phenomenon, one pinned variable past real physics, pseudoscience where physics cannot close; cost, limit and counter are read off the mechanism; Effect and mechanism are one thing.",
+   "rule_ids": [
+    "R7-1-CHARACTER_FIRST",
+    "R13-3-PHENOMENON_MANDATE",
+    "R48-18-INVENTION",
+    "R48-17-NO_CLOSURE",
+    "R17-4-OUTPUTS_NOT_INPUTS",
+    "R57-11-MECHANISM_IS_EFFECT"
+   ],
+   "why_not_asked": "Long-standing design law; every option above sits on it."
+  },
+  {
+   "point": "Cost is a share of full reserve off the Essence Ledger, derived from the mechanism; costs in the practitioner's own substance are permanent; no consumable refills a reserve.",
+   "rule_ids": [
+    "R47-4-LEDGER_COSTS",
+    "R17-3-COST_DERIVED",
+    "R55-1-SUBSTANCE_COSTS_PERMANENT",
+    "R2-6-REPLENISHMENT_RULE"
+   ],
+   "why_not_asked": "Ruled; TE3 asks only how output moves as the reserve grows."
+  },
+  {
+   "point": "Counters and tells are stated as facts; a counter is mandatory and 'hit him harder' is no counter; documented techniques are counterable by study and self-derived ones read live; every tell is shown twice and read at the third; the deciding fact shows in the read before the blow; every fight Natalie stages carries a planted way out; What nobody knows asks why the law holds and stays open.",
+   "rule_ids": [
+    "R47-3-COUNTERS_AS_FACTS",
+    "R17-3-COUNTER_MANDATORY",
+    "R12-3-NAMED_INVENTOR_RULE",
+    "R71-23-TELL_READ",
+    "R71-7-READER_SEES_CALL",
+    "R71-8-CORE_PROMISE",
+    "R17-3-WHAT_NOBODY_KNOWS_SCOPE",
+    "R47-12-MYSTERY_STAYS_OPEN"
+   ],
+   "why_not_asked": "Ruled, and the combat law's CW14, K6 and K7 (not this questionnaire's K6); a 'tell comes first' test was already law, so K5 asks only what a card's Counter must pass."
+  },
+  {
+   "point": "A soft Family counter chart raises price and lowers delivery; the card's Counter stays the hard answer. The chart is owed and binds once ratified.",
+   "rule_ids": [
+    "R71-31-COUNTERS_DUEL_SCALE"
+   ],
+   "why_not_asked": "Combat Law MC5, 2026-10-04."
+  },
+  {
+   "point": "A card's Readiness figure governs a casting race where filled, the Alacrity row otherwise; each card names its combat grammar (Verdict, Blade, Percussion, Expenditure), no fifth.",
+   "rule_ids": [
+    "R71-28-DECIDES_CASTING_SPEED",
+    "R71-69-GRAMMAR_GUN_BENCH_FIELD"
+   ],
+   "why_not_asked": "Combat Law MC2 and FT19; both are card fields now, so only their neighbours are asked (TE2, TE4)."
+  },
+  {
+   "point": "Naming: the true name is in the practitioner's own tongue with a flat literal gloss; art, then technique, then form; the optional release call costs a beat and buys output; a stronger form takes a suffix; nobody translates his own art; new English names two words at most; real Latin; numbered forms by school and four-syllable hall names; names free in narration; no comic folk names for techniques.",
+   "rule_ids": [
+    "R8-21-NAME_IN_OWN_LANGUAGE",
+    "R8-22-LITERAL_GLOSS",
+    "R8-23-NAME_HIERARCHY",
+    "R8-24-RELEASE_MECHANIC",
+    "R50-14-ESCALATION",
+    "R8-26-NO_SELF_TRANSLATION",
+    "R50-11-LONG_NAMES",
+    "R50-12-COINED_LATIN",
+    "R70-74-TECHNIQUE_NAME_LOOKS",
+    "R49-48-TECH_NAMES",
+    "R70-128-PLACES_INNS_SHIPS_GEAR"
+   ],
+   "why_not_asked": "Naming Law 2026-09-26 and Style Law 2026-10-03; TE1 asks only how long a ladder runs, TE14 only the two-tongue case."
+  },
+  {
+   "point": "An art may be called as often as the fight gives a beat; each call costs the beat.",
+   "rule_ids": [
+    "R71-29-OFTEN_ART_RELEASED",
+    "R50-09-ONE_RELEASE"
+   ],
+   "why_not_asked": "Combat Law MC3; closes C-159."
+  },
+  {
+   "point": "A narrowing vow raises output through Attraction Force by a figure set on its card; breaking it is a Shear Break; its terms are its counter; disclosure to the opponent is not a binding.",
+   "rule_ids": [
+    "R71-32-VOWS_LIMITS"
+   ],
+   "why_not_asked": "Combat Law MC6; TE5 to TE7 ask only its scale, its kinds and how it is sworn. It also answers Pack Seven's orphaned vow clause (R7-7-VOW_CLAUSE_OPEN, now superseded)."
+  },
+  {
+   "point": "Who vows: canon's Votia page has vows cluster where Drafts cannot be bought (soldiers, hedge-workers, the orders, the poor), so NPCs vow by that pattern.",
+   "rule_ids": [
+    "R71-32-VOWS_LIMITS"
+   ],
+   "why_not_asked": "Canon already says it; nothing to rule."
+  },
+  {
+   "point": "A held Trait is named in narration the first time it fires in a scene; a new Trait earns a readout as it registers; a Trait states the Lattice property it alters.",
+   "rule_ids": [
+    "R71-37-TRAITS_THEY_FIRE",
+    "R70-84-GROWTH_MOMENTS_THAT_EARN",
+    "R17-5-TRAIT_SCOPE"
+   ],
+   "why_not_asked": "Combat Law MC11, Style Law (R70-84), Pack Seventeen; TE8 to TE11 ask only cause, authorship, entry lines and evolution."
+  },
+  {
+   "point": "A Signature technique is one only its bearer's Trait architecture permits (canon's Permission office).",
+   "rule_ids": [
+    "R17-5-TRAIT_SCOPE"
+   ],
+   "why_not_asked": "Canon defines it on the Trait System page; K1 and K4 build on it."
+  },
+  {
+   "point": "Strain may switch on a Resonant Pair for a crisis only, and Pair unlocks may be named in diagnostic voice.",
+   "rule_ids": [
+    "R71-38-RESONANT_PAIR_UNDER_STRAIN",
+    "R20C-33-RESONANT_PAIRS_DIAGNOSTIC"
+   ],
+   "why_not_asked": "Combat Law MC12; TE12 asks only whether the list of Pairs is closed."
+  },
+  {
+   "point": "Allies chain by default; fusion exists only as a carded Synergia the pair drilled together, with its own cost split and counter; no improvised fusion.",
+   "rule_ids": [
+    "R71-39-ALLIES_WORKING_TOGETHER"
+   ],
+   "why_not_asked": "Combat Law MC13; the drilling is ruled, so TE13 asks only whose card holds it, TE14 its name, TE15 whether one man may fuse his own."
+  },
+  {
+   "point": "A working's rules are planted before a fight; a held reveal may act unexplained first and be told at the reveal.",
+   "rule_ids": [
+    "R70-71-EXPLAINING_WORKING_MID_FIGHT",
+    "R71-30-HELD_BACK_REVEAL"
+   ],
+   "why_not_asked": "Style Law and Combat Law MC4."
+  },
+  {
+   "point": "Growth is event-bound: numbers move only for a shown cause; a breakthrough lands inside its Catalyst crisis and is confirmed at a public re-assay; sheet changes block at chapter end; uncanonical figures print as hedged estimates; ranked practitioners talk builds.",
+   "rule_ids": [
+    "R70-90-FAST_NUMBERS_CLIMB",
+    "R70-91-BREAKTHROUGH_PAGE",
+    "R70-92-CONFIRMING_NEW_STAGE",
+    "R70-98-SHEETS_CHAPTER_ARC_ENDS",
+    "R70-99-NUMBER_NOT_YET_CANON",
+    "R70-93-BUILD_TALK_DIALOGUE"
+   ],
+   "why_not_asked": "Style Law 2026-10-03; K6, TE3 and TE4 apply it to techniques."
+  },
+  {
+   "point": "Each side invents its own uses in a fight; your character's choices and his live read are yours; the other creators' characters are excluded.",
+   "rule_ids": [
+    "R48-35-USES",
+    "R49-01-WHOSE_HEAD",
+    "R71-23-TELL_READ",
+    "R1-1-RESTRICTED_CHARACTERS_EXCLUDED"
+   ],
+   "why_not_asked": "Standing law; K3, TE9 and TE11 are written to it."
+  },
+  {
+   "point": "A chant is in the practitioner's own tongue and appears on the page in it; Chantcraft is its own choral craft (Ars Cantus), and a lone caster's chant is a Spellcraft medium below Refraction; a spoken chain is cut into the exchange, each clause costing the opponent a step.",
+   "rule_ids": [
+    "R50-26-CHANT_TONGUE",
+    "R51-28-CHANT_PAGE",
+    "R20C-41-CHANTCRAFT_FIFTH_CRAFT",
+    "R20C-42-LAW_V_STAGE_GATE_REFRACTION",
+    "R71-27-SPOKEN_WORKING_EXCHANGE"
+   ],
+   "why_not_asked": "Ruled, and canon's Four Crafts page calls Chantcraft 'the only craft that cannot be practised alone'. NATALIE.md's line calling Chantcraft 'a delivery of Spellcraft' is stale text to fix, not a question. TE2 asks only what clipping a chant does."
+  },
+  {
+   "point": "No new Codex category without reading the list and showing the absence; stats in a working are the caster's; a working inherits its Wellsprings' failures.",
+   "rule_ids": [
+    "R18-2-NO_NEW_CATEGORY_WITHOUT_CHECK",
+    "R47-10-STATS_ARE_THE_CASTERS",
+    "R47-9-INHERITED_FAILURES"
+   ],
+   "why_not_asked": "Ruled; TE12 asks whether R18-2's test reaches Resonant Pairs, and TE17 applies R47-9 and R47-10 to copying."
+  },
+  {
+   "point": "A Lineage Trait may carry a whole latent technique and runs whether or not the bearer consents (Fracture of Worlds Part Twenty); a bloodline faculty states the quantity it acts on and what it cannot resolve; a house art that is documented is counterable by anyone who studied it.",
+   "rule_ids": [
+    "R17-5-BLOODLINE_SCOPE",
+    "R12-3-NAMED_INVENTOR_RULE"
+   ],
+   "why_not_asked": "Canon's Lineage Reflection already lists 'latent technique' among its forms, so whether a bloodline passes on a permission only or a whole working is not asked."
+  }
+ ]
+}

@@ -1,0 +1,221 @@
+{
+ "K1": {
+  "choice": "C",
+  "note": ""
+ },
+ "K2": {
+  "choice": "B",
+  "note": ""
+ },
+ "K3": {
+  "choice": "A",
+  "note": ""
+ },
+ "K7": {
+  "choice": "A",
+  "note": ""
+ },
+ "K4": {
+  "choice": "A",
+  "note": ""
+ },
+ "K5": {
+  "choice": [
+   "A",
+   "B",
+   "C"
+  ],
+  "note": "adds C, a counter at each phase, to the recommendation"
+ },
+ "K6": {
+  "choice": "B",
+  "note": ""
+ },
+ "TE7": {
+  "choice": "B",
+  "note": ""
+ },
+ "TE1": {
+  "choice": "C",
+  "note": ""
+ },
+ "TE2": {
+  "choice": "A",
+  "note": ""
+ },
+ "CH1": {
+  "choice": "B",
+  "note": ""
+ },
+ "CH2": {
+  "choice": "B",
+  "note": ""
+ },
+ "CH6": {
+  "choice": "A",
+  "note": ""
+ },
+ "CH13": {
+  "choice": "B",
+  "note": ""
+ },
+ "CH14": {
+  "choice": "C",
+  "note": ""
+ },
+ "CH5": {
+  "choice": "A",
+  "note": ""
+ },
+ "CH7": {
+  "choice": "A",
+  "note": ""
+ },
+ "CH11": {
+  "choice": "A",
+  "note": ""
+ },
+ "CH12": {
+  "choice": "A",
+  "note": ""
+ },
+ "TE5": {
+  "choice": "B",
+  "note": ""
+ },
+ "TE3": {
+  "choice": "C",
+  "note": "took the recommendation (digest)"
+ },
+ "TE4": {
+  "choice": "B",
+  "note": "took the recommendation (digest)"
+ },
+ "TE6": {
+  "choice": [
+   "B",
+   "C"
+  ],
+  "note": "took the recommendation (digest)"
+ },
+ "TE8": {
+  "choice": "A",
+  "note": "took the recommendation (digest)"
+ },
+ "TE9": {
+  "choice": "A",
+  "note": "took the recommendation (digest)"
+ },
+ "TE10": {
+  "choice": [
+   "A",
+   "B",
+   "C"
+  ],
+  "note": "took the recommendation (digest)"
+ },
+ "TE11": {
+  "choice": "B",
+  "note": "took the recommendation (digest)"
+ },
+ "TE12": {
+  "choice": "B",
+  "note": "took the recommendation (digest)"
+ },
+ "TE13": {
+  "choice": "A",
+  "note": "took the recommendation (digest)"
+ },
+ "TE14": {
+  "choice": "B",
+  "note": "took the recommendation (digest)"
+ },
+ "TE15": {
+  "choice": "A",
+  "note": "took the recommendation (digest)"
+ },
+ "TE16": {
+  "choice": "B",
+  "note": "took the recommendation (digest)"
+ },
+ "TE17": {
+  "choice": "B",
+  "note": "took the recommendation (digest)"
+ },
+ "CH3": {
+  "choice": [
+   "A",
+   "C",
+   "D"
+  ],
+  "note": "took the recommendation (digest)"
+ },
+ "CH4": {
+  "choice": "B",
+  "note": "took the recommendation (digest)"
+ },
+ "CH8": {
+  "choice": [
+   "A",
+   "B",
+   "C"
+  ],
+  "note": "took the recommendation (digest)"
+ },
+ "CH9": {
+  "choice": "A",
+  "note": "took the recommendation (digest)"
+ },
+ "CH10": {
+  "choice": [
+   "A",
+   "B",
+   "D"
+  ],
+  "note": "took the recommendation (digest)"
+ },
+ "CH18": {
+  "choice": "B",
+  "note": "took the recommendation (digest)"
+ },
+ "CH15": {
+  "choice": "B",
+  "note": "took the recommendation (digest)"
+ },
+ "CH16": {
+  "choice": [
+   "A",
+   "B",
+   "C"
+  ],
+  "note": "took the recommendation (digest)"
+ },
+ "CH17": {
+  "choice": "A",
+  "note": "took the recommendation (digest)"
+ },
+ "ME1": {
+  "choice": "B",
+  "note": "took the recommendation (digest)"
+ },
+ "ME2": {
+  "choice": [
+   "A",
+   "B",
+   "D"
+  ],
+  "note": "took the recommendation (digest)"
+ },
+ "ME3": {
+  "choice": "A",
+  "note": "took the recommendation (digest)"
+ },
+ "ME5": {
+  "choice": "B",
+  "note": "took the recommendation (digest)"
+ },
+ "ME4": {
+  "choice": "B",
+  "note": "took the recommendation (digest)"
+ }
+}

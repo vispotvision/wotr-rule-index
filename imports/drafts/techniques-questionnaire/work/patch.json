@@ -1,0 +1,245 @@
+{
+ "lede": "You asked for a questionnaire on building abilities and people under the new law: technique cards with readouts, vows and Traits, naming forms, how a new character or NPC card is made, and progression arcs, with three research passes (the live law, the house's own cards and technique pages, and how Naruto, Hunter x Hunter, Jujutsu Kaisen, Bleach, Cradle, Unbound, the LitRPG shelf and tabletop design build abilities and people) behind every option. There are 47 questions in four sections, and nothing the Style Law or the Combat Law ruled is asked again: the settled list at the end says what was left alone and why. Answer the seven Keystones first, then CH1 and CH2, which set the card's shape and its rungs, since most later questions lean on them; every question carries a recommendation you can take as it stands.",
+ "section_order": [
+  "K",
+  "TE",
+  "CH",
+  "ME"
+ ],
+ "drop": [],
+ "add": [
+  {
+   "section_key": "K",
+   "after_id": "K3",
+   "question": {
+    "id": "K7",
+    "title": "Your price against the law",
+    "question": "When your sketch names its own cost and the mechanism derives another, which stands?",
+    "context": "R17-4: 'Cost, Limit and Counter are outputs, not inputs.' R17-3 calls a cost decoration if it 'could be swapped for a different cost without changing the mechanism'. Your direction heads NATALIE.md's canon hierarchy, and R48-50 has Natalie disagree 'in one plain line' and keep writing. A sketch may name its price first (a sense lost, years off a life); the derivation may land elsewhere.",
+    "options": [
+     {
+      "key": "A",
+      "label": "Your price, new mechanism",
+      "consequence": "The cost and limit you named stand; Natalie reworks the mechanism until they fall out of it, so R17-4 holds. If no lawful mechanism yields them, she says so in one line and offers the nearest."
+     },
+     {
+      "key": "B",
+      "label": "The derived price stands",
+      "consequence": "The mechanism is built from your sketch's effect, and its derived cost and limit replace the ones you named; Natalie shows the step that set them."
+     },
+     {
+      "key": "C",
+      "label": "Both builds offered",
+      "consequence": "Natalie returns two builds, one keeping your price on a reworked mechanism, one keeping your mechanism at its derived price; you pick before it is carded."
+     }
+    ],
+    "recommended": "A",
+    "rec_reason": "Your call governs and the law still holds: a price you chose becomes an output once the input is changed to produce it, and one plain line is already how Natalie disagrees.",
+    "multi": false,
+    "depends_on": [
+     "K3"
+    ],
+    "rules_touched": [
+     "R17-4-OUTPUTS_NOT_INPUTS",
+     "R17-3-COST_DERIVED",
+     "R17-3-LIMIT_MECHANICAL",
+     "R48-50-PUSHBACK"
+    ]
+   }
+  },
+  {
+   "section_key": "CH",
+   "after_id": "CH10",
+   "question": {
+    "id": "CH18",
+    "title": "Skills on the card",
+    "question": "Where does a skill that is not a working sit on a card, and does drill raise it?",
+    "context": "R17-5: 'Skills state their operating principle at the level of the body'; a read names its cues, a martial skill its 'mechanics, measure and tempo'. No card carries a Skills section and the seventeen have no slot for one, though much of the Kharven room fights and heals by skill. Sub-Stats already price measure and the read (Dexterity, Gnosis); Unbound levels its skills by use.",
+    "options": [
+     {
+      "key": "A",
+      "label": "Skills section, unranked",
+      "consequence": "A section after Techniques; each skill names its cues or mechanics (R17-5), where it was learned, and the Sub-Stats that price it. It grows only as those Sub-Stats grow."
+     },
+     {
+      "key": "B",
+      "label": "Skills section, with marks",
+      "consequence": "As A, and each skill carries TE4's three marks (Held, Drilled, Mastered), each crossing a shown cause entered in the chapter-end block. The Crystal never prints them."
+     },
+     {
+      "key": "C",
+      "label": "No skill entries",
+      "consequence": "A skill is its Sub-Stats; the trade is named in Identity, and R17-5's cues are written on the page where the skill is used."
+     }
+    ],
+    "recommended": "B",
+    "rec_reason": "R17-5 already asks for the entry, a section puts it where Table Rule 5 reads, and the marks give drill the same named reward TE4 gives a technique, with no second ladder and no new readout.",
+    "multi": false,
+    "depends_on": [
+     "TE4"
+    ],
+    "rules_touched": [
+     "R17-5-SKILL_SCOPE",
+     "R14-3-STATS_DECIDE_TABLE",
+     "R70-90-FAST_NUMBERS_CLIMB",
+     "R70-98-SHEETS_CHAPTER_ARC_ENDS"
+    ]
+   }
+  },
+  {
+   "section_key": "ME",
+   "after_id": "ME3",
+   "question": {
+    "id": "ME5",
+    "title": "Old entries that fail the law",
+    "question": "When a carded technique's cost, counter or What nobody knows line fails live law, how is it put right?",
+    "context": "R7-5 finds 'sixty percent of existing technique entries fail' the cost test and calls the audit 'the largest and most valuable job on the docket'. The cards bear it out: a cost of 'Massive EU drain', a counter of 'None confirmed', What nobody knows lines (the open question why a law holds) drifted into character notes. Lines that pass, Borin's Requiems among them, stay. Your characters' lines come to you as proposals.",
+    "options": [
+     {
+      "key": "A",
+      "label": "Rebuilt with its card",
+      "consequence": "Each failing line is re-derived from its mechanism when ME3's order reaches its card, the old line quoted in that rebuild's report, never on the card."
+     },
+     {
+      "key": "B",
+      "label": "Each card an agent ruling",
+      "consequence": "As A, and each card's changed lines go through log_ruling as one agent ruling that quotes them and names its grounds, so you read them in CONTINUE.md and may overturn any."
+     },
+     {
+      "key": "C",
+      "label": "Fixed when it fires",
+      "consequence": "A failing line stands until its technique next reaches the page; K2's floor then requires a real cost, tell and counter before it fires, and the fix is logged then."
+     }
+    ],
+    "recommended": "B",
+    "rec_reason": "It is the house's standing way to change canon without waiting on you or hiding the change, one ruling a card keeps RULINGS.md readable, and waiting for each fire would leave most of the shelf wrong.",
+    "multi": false,
+    "depends_on": [
+     "K5",
+     "ME3"
+    ],
+    "rules_touched": [
+     "R7-5-COST_AUDIT",
+     "R17-3-COST_DERIVED",
+     "R17-3-COUNTER_MANDATORY",
+     "R17-3-WHAT_NOBODY_KNOWS_SCOPE",
+     "R47-3-COUNTERS_AS_FACTS"
+    ]
+   }
+  }
+ ],
+ "rec_changes": [
+  {
+   "id": "CH7",
+   "recommended": "A",
+   "rec_reason": "One mark keeps the card clean and easy to sweep; R14-2 already keeps each estimate's basis in the author notes, and a published card carries no process note. A source figure replaces the mark on contact."
+  }
+ ],
+ "intros": {
+  "K": "Answer these first, with CH1 and CH2, which set the card's shape and its rungs: where a technique entry lives and how much of it exists before play, what comes back when you sketch one and whose price stands, how the Crystal relates to the card, what fairness means, and what opens a new art.",
+  "CH": "How a person reaches paper under the new law: the card's shape and rungs, its numbers and estimates, the voice, story and skill fields, comic names, rivals, feats from old material, and how a climb is earned and recorded. FOW is Fracture of Worlds, the stat system; samples use Borin Ironheart's and Renard Greymane's real cards and two invented men, a rival, Halvard Rask, and a rider, Osbert Tarr.",
+  "ME": "How the answers become law and reach the tools, the guides and the 284 cards: where the law lands, what joins the sweep, which cards go first, how old entries that fail the law are put right, and in what order the work runs and is proved."
+ },
+ "settled_extra": [
+  {
+   "point": "Hollow is 'the unawakened baseline' (Part Four), and Orin Farrant's card, under R67-2, carries no Level, Stage, Band or Pool; Tabitha Hallenfeld's and Dunstan the Brine's cards print 'Stage 0' and 'Band 0', which no Fracture of Worlds table holds.",
+   "rule_ids": [
+    "R67-2-FARRANT_CLASS_ZERO",
+    "R20C-32-PRECEDENCE_FOW_WORKBOOK_CARD",
+    "R12-5-NEVER_INVENT_NUMBER"
+   ],
+   "why_not_asked": "Two cards against Fracture of Worlds and a ruled card: a CONFLICTS.md row for the docket and the sweep's cross-read (ME2 B), not a question."
+  },
+  {
+   "point": "Who can hide his rank is the Suppression Sub-Stat, 'a skill that tires the user for as long as it is held' (Part Twelve), and how it shows is R71-43; the suppression profile the character-sheet reference still asks for came from R7-7, which fell with Pack Seven.",
+   "rule_ids": [
+    "R71-43-SUPPRESSION_PAGE",
+    "R12-1-PACK_SEVEN_REPEALED"
+   ],
+   "why_not_asked": "Stat and page are ruled; the reference's 'pitch one, label it' line is stale text for ME1, not a question."
+  }
+ ],
+ "text_fixes": [
+  {
+   "file": "group-1.json",
+   "old": "Combat Law CW14, K6 and K7; the draft's 'tell comes first' test was already law and left K5. K5 asks only what a card's Counter must pass.",
+   "new": "the combat law's CW14, K6 and K7 (not this questionnaire's K6); a 'tell comes first' test was already law, so K5 asks only what a card's Counter must pass."
+  },
+  {
+   "file": "group-1.json",
+   "old": "so the draft's bloodline question (permission only, or a whole inherited working) was answered before it was asked.",
+   "new": "so whether a bloodline passes on a permission only or a whole working is not asked."
+  },
+  {
+   "file": "group-1.json",
+   "old": "canon's Four Crafts page calls Chantcraft the craft that 'cannot be practiced by one person alone'",
+   "new": "canon's Four Crafts page calls Chantcraft 'the only craft that cannot be practised alone'"
+  },
+  {
+   "file": "group-1.json",
+   "old": "A signature gets its own page priced at its owner's exact reserve;",
+   "new": "A signature, or any art one person derived alone, gets its own page priced at its owner's exact reserve;"
+  },
+  {
+   "file": "group-1.json",
+   "old": "Jujutsu Kaisen's self-imposed vows need no witness at all.",
+   "new": "Jujutsu Kaisen's self-imposed vows need no witness at all. Telling the opponent buys nothing under any option: R71-32 did not take disclosure as a binding."
+  },
+  {
+   "file": "group-1.json",
+   "old": "The statement the Continuum accepted, in the bearer's words. Denying it is the Shear Break, so every Trait carries a findable counter.",
+   "new": "The statement the Continuum accepted, in the bearer's words, yours to write for your characters as in TE11. Denying it is the Shear Break, so every Trait carries a findable counter."
+  },
+  {
+   "file": "group-2.json",
+   "old": "Ruled; the draft's 'Converting old numbers' question offered fresh derivation against it and was cut. CH13 asks only about feats the new numbers cannot carry.",
+   "new": "Ruled, so no question offers fresh derivation; CH4 asks only how unset Sub-Stats are filled inside the re-costed totals, and CH13 only about feats the new numbers cannot carry."
+  },
+  {
+   "file": "group-2.json",
+   "old": "Asked there (its downtime, offscreen NPC and Front questions)",
+   "new": "Asked there (WD1 on what moves a Front, WD7 on NPCs off the page, WD8 on downtime)"
+  },
+  {
+   "file": "group-2.json",
+   "old": "are never thought, voiced or built for,",
+   "new": "are never thought or voiced for,"
+  },
+  {
+   "file": "group-2.json",
+   "old": "Standing law; CH5 and CH17 keep your characters' builds and gates in your hands.",
+   "new": "Standing law; CH4, CH5 and CH17 ask how far your characters' builds and gates are yours."
+  },
+  {
+   "file": "group-2.json",
+   "old": "on old cards the never-set Sub-Stats are spent fresh along the card's Path and logged.",
+   "new": "on old cards the unset Sub-Stats are spent inside the re-costed totals along the Path and logged, your characters' as CH5 decides."
+  },
+  {
+   "file": "group-2.json",
+   "old": "unset ones spent fresh along the Path and logged;",
+   "new": "unset ones spent inside the re-costed totals along the Path and logged, your characters' as CH5 decides;"
+  },
+  {
+   "file": "group-2.json",
+   "old": "whether he acts there is the table questionnaire's.",
+   "new": "whether he acts there is the table questionnaire's WD7."
+  },
+  {
+   "file": "group-2.json",
+   "old": "How downtime runs is the table questionnaire's; this asks the yield.",
+   "new": "How downtime runs is the table questionnaire's WD8; this asks the yield."
+  },
+  {
+   "file": "group-2.json",
+   "old": "XP held and XP to the next Level, from the tally, so",
+   "new": "XP held and XP to the next Level, from CH14's tally where the card keeps one, so"
+  },
+  {
+   "file": "group-2.json",
+   "old": "This pass has the law (ME1), the tools, the sweep (ME2) and the card rebuilds (ME3).",
+   "new": "This pass has the law (ME1), the tools, the sweep (ME2), the card rebuilds (ME3) and the old entries put right (ME5)."
+  }
+ ],
+ "notes": "1. Read group-1 (K1 to K6, TE1 to TE17, 20 settled rows) and group-2 (CH1 to CH17, ME1 to ME4, 27 settled rows) in full, and the three research files. All 140 rule ids in rules_touched and settled rows resolve live in out/rules.resolved.json; the combat law ids cited (CW14, K6, K7, MC2 to MC6, MC11 to MC13, FT19) and the style law's CB5 match the two decisions.md files. Facts spot-checked against canon and cards: ten Resonant Pairs in Part Nine (group-1 is right; research-law's 'eight' is stale), the four Resonance Events and three evolutions in Part Twenty, Part Ten's Strain figures and the 'Lorn and Heisuke owe one step' arithmetic in CH6, Part Three's per-Level caps in CH5, the Kharven Levels and Stages, Borin's figures in the CH7 samples (all from his card, the reserve by the Level law), and the 48 and 8 cards over the cap in CH9 (counted without front matter). No sample voices Isaac's characters or another creator's; neither file carries an em or en dash. 2. No drops: no two questions ask the same thing. Close pairs kept on purpose: TE6 C and TE13 C (a vow between two, and that vow on a Synergia); TE10 A and CH10 B (a Trait's founding sentence, and a card's conviction); TE4 and CH15 (a technique's own figures, and a Level's XP); CH7 and ME2 A (the mark, and the sweep applying it); CH12 and the table questionnaire's WD7 (numbers between meetings, and acts off the page). 3. Three additions, each a gap the research flagged and no question asked: K7 after K3, whose price stands when your sketch and the derivation disagree (research-law section 2 open; R17-4 makes cost an output, so A keeps your price by reworking the mechanism); CH18 after CH10, skills on the card (R17-5-SKILL_SCOPE is live, no card has a Skills section, research-trad item 23); ME5 after ME3, the old entries that fail the law (R7-5-COST_AUDIT, live, 'the largest and most valuable job on the docket', research-law sections 3 and 13 and research-house section 5). Ids run out of sequence as the earlier patches did. Total 44 plus 3 is 47. 4. One rec change: CH7 from B to A. B's 'Derived figures' footer puts each estimate's basis on the published card, where R14-2-ESTIMATE_MARKING keeps it in the author notes and the character-sheet reference bars any estimator or process note; A keeps the one sweepable mark. Recs checked across groups and found aligned: K1 C with CH1 B, CH2 B and CH9 A; K3 A with K7 A, TE9 A and TE11 B; TE5 B with TE6 B,C and TE13 A; TE7 B with CH15 B (Part Two's oath XP at a stone, broken oath a Temperance strain event, so 'strain event' in CH15 B is canon); TE4 B with CH18 B; CH14 C with CH16 A,B,C; CH3 A,C,D with CH12 A and CH14 C; ME2 B and ME5 B with CLAUDE.md's conflict and agent-ruling routes. 5. Sixteen text_fixes, each old string checked to occur exactly once in its file: three settled rows that spoke of 'the draft' (Isaac never sees it) and the combat K6 now told from this questionnaire's K6; the Chantcraft quote, which is the Reader's Codex wording, now quotes the Four Crafts page itself; the boundary row, CH12 and CH15 now name the table questionnaire's WD1, WD7 and WD8; the group-2 settled row's 'never built for' overreached R49-01 and contradicted CH5's own options B and C; CH4 A and B now fill unset Sub-Stats inside the re-costed totals (the settled re-cost row bars fresh derivation) and leave your characters' to CH5; TE10 A gives you the founding sentence for your characters, as TE11 B does for an evolved law, since the belief is in your character's head; CH16 A's XP bar reads CH14's tally only where a card keeps one; K1 C now houses a personal art that is not a Trait signature, which none of its three options placed; TE7's context says disclosure buys nothing, so B's 'the opponent included' cannot be read as reopening R71-32's untaken option; ME4's context names ME5. 6. Two settled_extra rows: the unwoken (Orin Farrant's card under R67-2 and Part Four's Hollow against Tabitha Hallenfeld's and Dunstan the Brine's 'Stage 0' and 'Band 0'), routed to CONFLICTS.md and the sweep rather than asked; and suppression (the Suppression Sub-Stat and R71-43 rule it; R7-7's profile fell with Pack Seven). Left for whoever owns the files, not this patch: a CONFLICTS.md row for the two 'Stage 0' cards; NATALIE.md's 'Chantcraft is a delivery of Spellcraft' line against R20C-41 (Isaac-confirmed 2026-09-13) and the character-sheet reference's suppression-profile line, both for ME1's guide pass; the Fallacy model's Codex line repeating its FOW line without glyphs (research-law section 1); the Phenomenon Bank has no named home (R48-19). Settled rows overlap a little across the two groups (growth law, R71 card fields, chant tongue); each is scoped to its own section's questions, so none was cut. Every TE5 option says a release call stacks on a vow's gain; answering TE5 rules that too."
+}

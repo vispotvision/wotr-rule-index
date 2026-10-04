@@ -1,0 +1,1032 @@
+{
+ "sections": [
+  {
+   "key": "CH",
+   "title": "Characters and NPCs",
+   "intro": "How a person reaches paper under the new law: the card's shape and rungs, its numbers and estimates, the voice and story fields, comic names, rivals, feats from old material, and how a climb is earned and recorded. FOW is Fracture of Worlds, the stat system; samples use Borin Ironheart's and Renard Greymane's real cards and two invented men, a rival, Halvard Rask, and a rider, Osbert Tarr.",
+   "questions": [
+    {
+     "id": "CH1",
+     "title": "One card shape",
+     "question": "Which shape should every full character card take?",
+     "context": "Three skeletons disagree: the converter's fourteen headings, NATALIE.md's seventeen sections 'Identity through Fracture Log', and Cozbi Mahuo's merged layout, which the converter names as its format reference. The 284 cards fall into five shapes. R14-8 keeps the sections and adds each technique's FOW line (its stat requirement).",
+     "options": [
+      {
+       "key": "A",
+       "label": "Seventeen sections, updated",
+       "consequence": "NATALIE.md's seventeen sections in roman order, each ruled field slotted where it belongs (pronunciation and As Of lines in Identity, voice block after Psychology), Lore after the Fracture Log."
+      },
+      {
+       "key": "B",
+       "label": "A table head, then sections",
+       "consequence": "A one-screen head above the seventeen: header, stat line, combat grammar (Verdict, Blade, Percussion or Expenditure), Traits and techniques by name with tell and counter, the voice sample line. Natalie fights from the head."
+      },
+      {
+       "key": "C",
+       "label": "Cozbi's merged layout",
+       "consequence": "Paired sections and tables in the 'Card N' style the converter already points to; the twenty-five or so cards in that shape stay, the rest move toward it."
+      }
+     ],
+     "recommended": "B",
+     "rec_reason": "Table Rule 5 settles a fight from named stat rows, and the head puts them on one screen; the seventeen sections R14-8 keeps stay whole underneath, so nothing on an old card is lost.",
+     "multi": false,
+     "depends_on": [],
+     "rules_touched": [
+      "R14-8-CHARACTER_SHEET_FOW_LINE",
+      "R14-3-STATS_DECIDE_TABLE",
+      "R58-12-AS_OF_LINE_ON_EVERY_CARD",
+      "R52-03-VOICE_BLOCK",
+      "R71-69-GRAMMAR_GUN_BENCH_FIELD"
+     ]
+    },
+    {
+     "id": "CH2",
+     "title": "The rungs of a person",
+     "question": "How many rungs should a person climb between a walk-on and a full card?",
+     "context": "R50-27: a new person is 'a role (the gate-clerk) until they speak twice or matter'. Then comes the roster entry the wotr-npc skill builds (want, refusal, knows, lie, voice, body, stat line). Past that, cases were ruled one by one (R61-16 a roster entry, R61-17 a full card). The archive's hundred-odd compact cards and the Kharven header cards sit between, unnamed.",
+     "options": [
+      {
+       "key": "A",
+       "label": "Two rungs",
+       "consequence": "Roster entry, then full card, nothing between; compact and header cards are filled out to full cards as they are touched."
+      },
+      {
+       "key": "B",
+       "label": "Three rungs",
+       "consequence": "Roster entry; a short card (header, FOW line, Traits by name, one signature technique with tell and counter, voice block, Lore); a full card. Today's compact cards become short cards."
+      },
+      {
+       "key": "C",
+       "label": "Shape by role",
+       "consequence": "Weight sets depth and role sets shape: fighters get stat-first cards, talkers and scholars story-first cards, at whatever length their part needs."
+      }
+     ],
+     "recommended": "B",
+     "rec_reason": "It names what already exists, and a short card is the quickest way to give Bram, Lambert and the rest of the Kharven room the rows a fight needs.",
+     "multi": false,
+     "depends_on": [],
+     "rules_touched": [
+      "R50-27-NEW_NPC_NAME",
+      "R61-16-FURVEUS_IS_A_ROSTER_NPC",
+      "R61-17-GILLUS_GETS_FULL_CARD",
+      "R61-23-CASSIAN_AULT_ROSTER_NPC"
+     ]
+    },
+    {
+     "id": "CH3",
+     "title": "What lifts a person a rung",
+     "question": "What should lift a person from the roster to a card, or from a short card to a full one?",
+     "context": "Promotion is case by case today. A rung matters at the table: Table Rule 5 settles a fight from stat rows, and a roster entry's line holds only a Stage, a Path (Body, Spirit, Attraction or Fate) and one or two stats. Your word lifts anyone at any time, whatever is chosen here.",
+     "options": [
+      {
+       "key": "A",
+       "label": "Stats decide a scene",
+       "consequence": "The first time his stats must decide an outcome on the page, he gets at least a short card before that scene is written."
+      },
+      {
+       "key": "B",
+       "label": "A third scene",
+       "consequence": "A third scene on the page lifts him one rung, whatever he does in it."
+      },
+      {
+       "key": "C",
+       "label": "Becomes a rival",
+       "consequence": "A rival under R70-104, spared and returning, gets a full card, since his growth and his debts must be traced."
+      },
+      {
+       "key": "D",
+       "label": "Holds a POV",
+       "consequence": "Anyone whose head a scene sits in gets a full card first, since his readouts come from his own sheet."
+      }
+     ],
+     "recommended": "A,C,D",
+     "rec_reason": "Each is a moment when the card is read: a fight reads the rows, a rival's growth must be traced, a POV's readouts come from his own sheet (R70-78). A scene count lifts people who never need numbers.",
+     "multi": true,
+     "depends_on": [
+      "CH2"
+     ],
+     "rules_touched": [
+      "R14-3-STATS_DECIDE_TABLE",
+      "R70-104-RIVAL_BOND",
+      "R70-78-WHERE_SCREEN_COMES_FROM",
+      "R42-7-FOUR_PATHS"
+     ]
+    },
+    {
+     "id": "CH4",
+     "title": "How much of the sheet",
+     "question": "How much of the stat sheet should a card carry?",
+     "context": "R39-1: points buy Sub-Stats only (sixty-four, eight under each Primary); a Primary 'is the total of its eight', its Grade (letter rank) read off the mean. Readouts print Sub-Stat names (R70-83). Only Malphas's living sheet carries all sixty-four; build/recost.py keeps the rest at Primaries and listed peaks and will not invent the unlisted values.",
+     "options": [
+      {
+       "key": "A",
+       "label": "All sixty-four, everywhere",
+       "consequence": "Every carded practitioner's whole spend, with the Pool (the points his Level and Stage earned) worked out; on old cards the unset Sub-Stats are spent inside the re-costed totals along the Path and logged, your characters' as CH5 decides."
+      },
+      {
+       "key": "B",
+       "label": "Sixty-four on full cards",
+       "consequence": "Full cards carry all sixty-four and the Pool, unset ones spent inside the re-costed totals along the Path and logged, your characters' as CH5 decides; short cards carry Primary totals and the peaks a scene will stress."
+      },
+      {
+       "key": "C",
+       "label": "Totals and peaks",
+       "consequence": "Every card shows each Primary's total and its listed peaks; an unlisted Sub-Stat is set inside that total only when a scene needs it, and logged then."
+      }
+     ],
+     "recommended": "B",
+     "rec_reason": "A full card is someone who fights or holds a POV, where exact readouts and build talk need every Sub-Stat; a short card is for the fast read, and a full spend there is work nobody reads.",
+     "multi": false,
+     "depends_on": [
+      "CH2"
+     ],
+     "rules_touched": [
+      "R39-1-CANON_STAT_MODEL",
+      "R39-3-STAGE_ONE_THRESHOLD_COUNTS",
+      "R38-2-ORIGINATED_SHEETS_RECOST_TO_CURRENT_ALLOTMENT",
+      "R70-83-FIGURES_PLAIN_NARRATION",
+      "R70-93-BUILD_TALK_DIALOGUE"
+     ]
+    },
+    {
+     "id": "CH5",
+     "title": "Who spends a Level's points",
+     "question": "When a Level lands, who spends the points it brings?",
+     "context": "R70-84 gives a Level its readout 'with the stat points it brought'. FOW Part Three caps what one Sub-Stat may take per Level (five in Bands I and II, eight in III, ten in IV, twelve in V). Nothing says who chooses. R52-08: when your play and a card disagree, 'his play wins'.",
+     "options": [
+      {
+       "key": "A",
+       "label": "He builds his own",
+       "consequence": "You spend your characters' points at each Level, build talk welcome; Natalie spends each NPC's where the Level was earned (a Level won by the sword feeds the sword), logged in the changes block."
+      },
+      {
+       "key": "B",
+       "label": "Spent by the deed",
+       "consequence": "Everyone's points, your characters' included, land where the cause was; you may move your own inside the per-Level cap afterward."
+      },
+      {
+       "key": "C",
+       "label": "Banked to chapter end",
+       "consequence": "Points wait unspent until the chapter-end changes block, then are spent as in A, so no fight pauses for a build."
+      }
+     ],
+     "recommended": "A",
+     "rec_reason": "A build is the player's to make, as Unbound's builds are, and R52-08 already puts your play over the card; spending NPC points by the deed keeps their growth traceable to what the reader saw.",
+     "multi": false,
+     "depends_on": [],
+     "rules_touched": [
+      "R70-84-GROWTH_MOMENTS_THAT_EARN",
+      "R70-98-SHEETS_CHAPTER_ARC_ENDS",
+      "R52-08-PC_IDIOM",
+      "R70-90-FAST_NUMBERS_CLIMB",
+      "R39-1-CANON_STAT_MODEL"
+     ]
+    },
+    {
+     "id": "CH6",
+     "title": "Four cards past the gate",
+     "question": "Four Kharven cast cards stand past a Band gate their Stage has not opened. How are they read?",
+     "context": "FOW Part One halts the Level counter at a Band gate until its Stage is reached (IV before Level 100, VII before 200). Lorn Stark is Level 168 at Stage III, Edward Lambert 142 at III, Bram Greymane 224 at IV, Heisuke 278 at V. R56-4 kept Sodoku's and Krothar's Levels past theirs 'as in-world outliers' with standing Residual Strain (pressure from a held gate).",
+     "options": [
+      {
+       "key": "A",
+       "label": "Outliers with Strain",
+       "consequence": "R56-4 extended: each keeps his Level with standing Residual Strain, priced by Part Ten (XP five percent lower, Overchannel and Backlash risk two percent higher, per fifty Levels past). Lorn and Heisuke owe one step now."
+      },
+      {
+       "key": "B",
+       "label": "Raise the Stage",
+       "consequence": "Each Stage moves up to what his Level needs (Lorn and Lambert to IV, Bram and Heisuke to VII), with the Catalysts written into their Temperance Records."
+      },
+      {
+       "key": "C",
+       "label": "Lower the Level",
+       "consequence": "FOW's halt read strictly: each Level drops to his gate (100 or 200), the XP past it held as Strain, and his reserve follows the Level law down."
+      }
+     ],
+     "recommended": "A",
+     "rec_reason": "It is how canon already read Sodoku and Krothar, Part Ten prices it, and a man stuck at his gate is a story these cards already tell: Lambert's calls his Level the ceiling of a man who trained daily.",
+     "multi": false,
+     "depends_on": [],
+     "rules_touched": [
+      "R56-4-PAST_THE_GATE_WITH_STRAIN",
+      "R20C-30-STAGE_NAMES_FROM_FOW",
+      "R12-5-NEVER_INVENT_NUMBER"
+     ]
+    },
+    {
+     "id": "CH7",
+     "title": "Marking an estimate",
+     "question": "How should a card mark a figure canon does not supply?",
+     "context": "Cards mark estimates six ways, from '~850' to 'Incomplete in the Record'. R14-2 puts an unsheeted value 'in the author notes'; the wotr-write skill bars any estimate note from a published card; R70-99 lets a readout print one hedged; R20C-34 makes it canon on use until a source figure beats it. η is efficiency, EU reserve.",
+     "options": [
+      {
+       "key": "A",
+       "label": "Tag it inline",
+       "consequence": "One mark, '(est.)', after the figure and nothing more; the six styles collapse into one.",
+       "sample": "Borin Ironheart · BOR-in EYE-ern-hart\nLevel 378 · Band IV, Mythic\nStage XII, Emanation · Tier of Standing, Grandmaster\nPath · Body 55%, Spirit 35%, Attraction 10%\nReserve · 183,288,830 EU\nFlux Density · 11,000 EU/g (est.)\nη · 0.91 (est.)\nAether Class · IV, Luminous (est.)"
+      },
+      {
+       "key": "B",
+       "label": "Tag and a footer",
+       "consequence": "'(est.)' inline, and a Derived figures footer gives each estimate's basis; a source figure replaces it on contact and its footer line goes.",
+       "sample": "Borin Ironheart · BOR-in EYE-ern-hart\nLevel 378 · Band IV, Mythic\nStage XII, Emanation · Tier of Standing, Grandmaster\nPath · Body 55%, Spirit 35%, Attraction 10%\nReserve · 183,288,830 EU\nFlux Density · 11,000 EU/g (est.)\nη · 0.91 (est.)\nAether Class · IV, Luminous (est.)\n\nDerived figures. Flux Density: no source figure; read from output that sinks into worked metal. η: no source figure; set from four centuries at one craft. Aether Class: read from output that is sustained and dense."
+      },
+      {
+       "key": "C",
+       "label": "The instrument's hedge",
+       "consequence": "The card prints as a readout would, with R70-99's hedge, so the sheet and a tape of it read alike; the notes log the estimate.",
+       "sample": "Borin Ironheart · BOR-in EYE-ern-hart\nLevel 378 · Band IV, Mythic\nStage XII, Emanation · Tier of Standing, Grandmaster\nPath · Body 55%, Spirit 35%, Attraction 10%\nReserve · 183,288,830 EU\nFlux Density · 11,000 EU/g, uncertain past the second figure\nη · 0.91, uncertain in the second place\nAether Class · IV, Luminous, uncertain by one class"
+      },
+      {
+       "key": "D",
+       "label": "Off the card",
+       "consequence": "R14-2 read strictly: the card prints sourced figures only, and estimates live in the author notes and the Stat Ledger.",
+       "sample": "Borin Ironheart · BOR-in EYE-ern-hart\nLevel 378 · Band IV, Mythic\nStage XII, Emanation · Tier of Standing, Grandmaster\nPath · Body 55%, Spirit 35%, Attraction 10%\nReserve · 183,288,830 EU\nFlux Density · unread\nη · unread\nAether Class · unread\n(Estimates kept in the Stat Ledger: Flux Density 11,000 EU/g, η 0.91, Aether Class IV.)"
+      }
+     ],
+     "recommended": "B",
+     "rec_reason": "One mark keeps the card usable at the table, the footer makes R14-2's basis checkable, and a sweep can find every estimate and retire the ones canon has since supplied.",
+     "multi": false,
+     "depends_on": [],
+     "rules_touched": [
+      "R14-2-ESTIMATE_MARKING",
+      "R70-99-NUMBER_NOT_YET_CANON",
+      "R20C-34-ESTIMATES_CANON_ON_USE",
+      "R56-8-LEVEL_LAW_SETS_RESERVE_BAND",
+      "R12-5-NEVER_INVENT_NUMBER"
+     ]
+    },
+    {
+     "id": "CH8",
+     "title": "New voice block slots",
+     "question": "Which slots should join the voice block?",
+     "context": "R52-03 fixes ten slots, from 'notices first' to 'one sample line'; gloss rights is a separate card field (R20C-49), and alchemists may add a 'reads first' line (R71-72). Twenty-eight cards carry the block. Each NPC voice's real-world model is 'credited in the notes' (R52-29) only, and no slot says what tongue a chant runs in.",
+     "options": [
+      {
+       "key": "A",
+       "label": "Speaker type",
+       "consequence": "The researched real-world model (a customs clerk, a field surgeon, a drover) moves from the notes onto the card, so every return starts from the same voice."
+      },
+      {
+       "key": "B",
+       "label": "Chant tongue",
+       "consequence": "The tongue his chants and release calls run in (his own under R50-26, or a learned one under R70-26, as Kwon's Accord Latin), so Borin's Latin forge-liturgy is caught and fixed."
+      },
+      {
+       "key": "C",
+       "label": "Lying tell",
+       "consequence": "What his body does when he lies or withholds, the body kind of R49-36's three tells, so the frequent lies of R48-42 can be caught by a player who reads bodies."
+      },
+      {
+       "key": "D",
+       "label": "Swap partner",
+       "consequence": "The one voice his lines must never be confused with, named, so the swap test (cover the speech tags and sort the lines by ear) has a fixed partner."
+      }
+     ],
+     "recommended": "A,B,C",
+     "rec_reason": "A keeps a voice from drifting between sessions, B closes a leftover the house survey found, and C makes Table Rule 6, the read is the game, work on lies; the swap test already runs by ear against everyone in the scene.",
+     "multi": true,
+     "depends_on": [],
+     "rules_touched": [
+      "R52-03-VOICE_BLOCK",
+      "R52-29-NPC_RECIPE",
+      "R50-26-CHANT_TONGUE",
+      "R70-26-LEARNED_TONGUES_BESIDE_LATIN",
+      "R49-36-LIE_TELLS",
+      "R48-42-LIES",
+      "R52-07-SWAP_CHECK",
+      "R71-72-ALCHEMIST_VOICE",
+      "R20C-49-GLOSS_RIGHTS_CARD_FIELD"
+     ]
+    },
+    {
+     "id": "CH9",
+     "title": "Lore and the length cap",
+     "question": "What should the 16,348-character cap bind, now that Lore sections run long?",
+     "context": "NATALIE.md: 'seventeen sections, Identity through Fracture Log, under 16,348 characters', a Trello card limit by the wotr-write skill's note. On 2026-09-24, 282 cards gained a Lore section (origin, the making, the cost, where they stand, ties), often their best prose. Forty-eight cards now run past the cap with Lore, eight without; Cozbi's, the format reference, is over before its Lore.",
+     "options": [
+      {
+       "key": "A",
+       "label": "The seventeen only",
+       "consequence": "The cap binds Identity through Fracture Log; Lore runs free below it. The eight cards over without Lore are trimmed in the sweep."
+      },
+      {
+       "key": "B",
+       "label": "The whole page",
+       "consequence": "Lore counts. Forty-eight cards are cut back, Lore first, until each page is under 16,348."
+      },
+      {
+       "key": "C",
+       "label": "Lore on its own page",
+       "consequence": "Each Lore moves to a linked page of its own; the card keeps a two-line pointer and stays under the cap."
+      },
+      {
+       "key": "D",
+       "label": "Retire the cap",
+       "consequence": "No length limit on a card; length follows the person, and the table head (CH1) keeps the fast read fast."
+      }
+     ],
+     "recommended": "A",
+     "rec_reason": "It is what NATALIE.md's sentence already says, it keeps the Lore where Natalie reads it, and only eight cards need trimming.",
+     "multi": false,
+     "depends_on": [
+      "CH1"
+     ],
+     "rules_touched": [
+      "R54-11-CARD_HEADER_AT_A_MOMENT"
+     ]
+    },
+    {
+     "id": "CH10",
+     "title": "Story fields on the card",
+     "question": "Which story fields should a full card gain?",
+     "context": "R7-1: 'Refusal, wound and conviction produce the phenomenon.' The converter's Psychology brief asks for all three, but the cards' psychology table holds only the wound (Core Wound) with Flaw, Desire, Loop, Foil and Stress Default; the refusal lives on roster entries alone. Novelists add a Need (what would heal him) and an arc kind (where the arc bends).",
+     "options": [
+      {
+       "key": "A",
+       "label": "Refusal line",
+       "consequence": "The thing he will not do whatever is offered, as the roster already carries; Table Rule 3's refusals read straight off the card."
+      },
+      {
+       "key": "B",
+       "label": "Conviction",
+       "consequence": "The belief that costs him, named; the Trait System's 'Belief, once survived, becomes law' gets the belief it grows from, and a Shear Break has a truth to break against."
+      },
+      {
+       "key": "C",
+       "label": "Need",
+       "consequence": "What would actually heal him, beside Desire (what he chases), so the gap between them can drive his arc."
+      },
+      {
+       "key": "D",
+       "label": "Arc kind",
+       "consequence": "Positive, flat, negative or corruption, after K. M. Weiland's arc types: set when the card is made, revised at each arc's end."
+      }
+     ],
+     "recommended": "A,B,D",
+     "rec_reason": "A and B put all three of R7-1's sources on the card, B feeds the Trait law, and D tells Natalie where a grimdark arc is heading; Need mostly restates what Loop and Desire already hold.",
+     "multi": true,
+     "depends_on": [],
+     "rules_touched": [
+      "R7-1-CHARACTER_FIRST",
+      "R52-02-VOICE_LEVER",
+      "R17-5-TRAIT_SCOPE"
+     ]
+    },
+    {
+     "id": "CH11",
+     "title": "A comic name on the card",
+     "question": "How should a card carry a comic name?",
+     "context": "R70-122 lets recurring minor NPCs, villains and rivals carry a comic name; R70-121's soldiers' nicknames are coined by comrades; at a bad death someone says it and 'the joke becomes the wound' (R70-127), and a Kharven name then waits unspoken until given on. A card can record the joke's making, or only the name. Samples: a Kharven rider with an ironic byname.",
+     "options": [
+      {
+       "key": "A",
+       "label": "Byname with its making",
+       "consequence": "Byname, who coined it and when, its bank or sound rule, and the given name under it, so a grief beat and the Kharven giving-on have both names to work with.",
+       "sample": "Rider, Greymane file, Kharven-Seat · As Of: the muster\nWant · a second horse before the Thin Weeks\nRefusal · will not take the first bowl while a child at the fire goes unfed\nByname · Short Stack. Coined by the men of his file at the muster for the biggest woodpile in the outer town, the stack insult turned on its head.\nGiven name · Osbert Tarr, which nobody at the woodpile uses.\nSay it · SHORT STAK; OZ-bert TAR\nComic voice · no"
+      },
+      {
+       "key": "B",
+       "label": "Byname as the name",
+       "consequence": "The card is titled by the byname; a given name appears only where canon has one, as the outer town would know him.",
+       "sample": "Short Stack\nRider, Greymane file, Kharven-Seat · As Of: the muster\nWant · a second horse before the Thin Weeks\nRefusal · will not take the first bowl while a child at the fire goes unfed\nSay it · SHORT STAK\nThe outer town has used no other name for him since the muster, and nobody at the woodpile could tell you his father's.\nComic voice · no"
+      },
+      {
+       "key": "C",
+       "label": "Name and say-line",
+       "consequence": "The byname and its pronunciation line, nothing more; the making lives in the scene that coined it.",
+       "sample": "Rider, Greymane file, Kharven-Seat · As Of: the muster\nWant · a second horse before the Thin Weeks\nRefusal · will not take the first bowl while a child at the fire goes unfed\nByname · Short Stack\nSay it · SHORT STAK\nComic voice · no"
+      }
+     ],
+     "recommended": "A",
+     "rec_reason": "Every part of it is used at the table: the making is a tie between comrades, and the given name under the joke is what R70-127's grief beat and the Kharven Waiting turn on.",
+     "multi": false,
+     "depends_on": [],
+     "rules_touched": [
+      "R70-122-MAY_CARRY_ONE",
+      "R70-121-GROWN_COMIC_NAMES",
+      "R70-127-COMIC_NAME_GRIM_END",
+      "R70-131-COMIC_NAMES_GET_MADE",
+      "R50-34-SAY_GUIDE",
+      "R23-11-NAME_AVOIDANCE_WAITING"
+     ]
+    },
+    {
+     "id": "CH12",
+     "title": "A rival between meetings",
+     "question": "When a recurring NPC, a spared rival above all, comes back, how has he grown since?",
+     "context": "R70-104: a rival recurs only by a mercy 'paid for on the Ledger'. R70-90 moves numbers only for a cause the reader saw, and R70-50 shows one changed detail at each return. Nothing says whether an NPC climbs off the page; whether he acts there is the table questionnaire's WD7. Samples: Renard meets the rival he spared, in Kharven-Seat's yard.",
+     "options": [
+      {
+       "key": "A",
+       "label": "His own clock, shown",
+       "consequence": "A rival's growth runs on a Front (a world clock that ticks between sessions); each tick names its cause, and his return shows it in the room and in what the POV was told.",
+       "sample": "Halvard Rask rode in through the north gate while the woodpiles were being counted, and the horses on the line turned their heads to him before any gate-man did. The pull of it settled behind Renard's eyes, the way a compass needle leans toward iron. A courier had told it over the broth two nights back: nine men down the Well under the coast road, three up again, and Rask read out at a re-assay before witnesses. The scar Renard had given him in the yard still ran white across his left forearm."
+      },
+      {
+       "key": "B",
+       "label": "Matched to his rival",
+       "consequence": "A rival climbs in step with the man he rivals, so the gap between them holds, the shonen way (boys' adventure manga such as Naruto); each climb still gets a named cause.",
+       "sample": "Halvard Rask rode in through the north gate while the woodpiles were being counted, and Renard read him from the wall the way a rider reads weather. By the feel of him Rask stood one rung below Renard, as he had in the yard. Each time Renard had climbed, word came up the coast road a season later that Rask had climbed too. The scar Renard had given him that day still ran white across his left forearm, and the gap between them sat exactly where it had sat then."
+      },
+      {
+       "key": "C",
+       "label": "Fixed until shown",
+       "consequence": "A rival grows only on the page; off it he waits where he was left, and only the scar and the debt have moved.",
+       "sample": "Halvard Rask rode in through the north gate while the woodpiles were being counted. The horses on the line went on pulling at their hay. The Reckoner's roll still had him where it had put him the winter Renard spared him, and the Guild token at his belt hung unstruck since. He sat his horse a little heavier. The scar Renard had given him in the yard ran white across his left forearm, and every hearth in the outer town knew whose mercy it was and what Rask owed for it."
+      },
+      {
+       "key": "D",
+       "label": "Growth as a held reveal",
+       "consequence": "His growth is hidden on return, signs planted in the room (R71-30), and the new rank is told only when the fight reveals it.",
+       "sample": "Halvard Rask rode in through the north gate while the woodpiles were being counted, and the Reckoner's roll still had him where Renard had left him. He crossed the yard at a walk. Frost was settling on every shoulder in the file except Rask's, and in the gatehouse the blubber lamp laid its flame over toward him as he passed, then stood up straight again. Renard marked both things and kept them to himself. The scar he had given Rask in the yard still ran white across the left forearm."
+      }
+     ],
+     "recommended": "A",
+     "rec_reason": "It meets R70-90 through the named cause, keeps the world moving between sessions (Table Rule 4), and gives a fair read before steel is drawn; D can ride on it when a reveal is worth holding.",
+     "multi": false,
+     "depends_on": [],
+     "rules_touched": [
+      "R70-104-RIVAL_BOND",
+      "R70-90-FAST_NUMBERS_CLIMB",
+      "R70-50-BODIES_AFTER_FIRST_SIGHT",
+      "R71-30-HELD_BACK_REVEAL",
+      "R70-83-FIGURES_PLAIN_NARRATION",
+      "R70-79-CAN_READ_WHOM"
+     ]
+    },
+    {
+     "id": "CH13",
+     "title": "An old feat too big",
+     "question": "When converted material claims a feat the new numbers cannot carry, what gives?",
+     "context": "R54-9 let twelve card Strike Force figures outside their Stage's band stand 'as that character's own outlier'. R70-137 keeps archived scenes as precedent for events. FOW Part Eleven lets Overchannel (forcing output past the safe ceiling) spike Strike Force and Lifting Strength two to five times the sustainable figure, at Crystal Fracture risk.",
+     "options": [
+      {
+       "key": "A",
+       "label": "An outlier, as R54-9",
+       "consequence": "The figure stands as that person's own outlier, as the twelve Strike Force figures did; no mechanism is owed."
+      },
+      {
+       "key": "B",
+       "label": "Keep it, explain it",
+       "consequence": "The feat stays and the card names how (an Overchannel spike, a Domain, a site's Wellspring) and the cost it charged, logged on the Ledger."
+      },
+      {
+       "key": "C",
+       "label": "Make it legend",
+       "consequence": "The feat lives in mouths as exaggeration, the outer town's awe and the ballads; the card prints the true figure and nobody corrects the talk."
+      },
+      {
+       "key": "D",
+       "label": "Scale it down",
+       "consequence": "The feat is rewritten to what the numbers allow, on the card and in every later reference; an archived scene that shows it stays as written (R70-137)."
+      }
+     ],
+     "recommended": "B",
+     "rec_reason": "It honours the material as you wrote it and keeps 'everything came from somewhere traceable'; Part Eleven's spike gives most feats a lawful road with a price, and R54-9's outlier stays for what nothing explains.",
+     "multi": false,
+     "depends_on": [],
+     "rules_touched": [
+      "R54-9-STRIKE_FORCE_OUTLIERS_STAND",
+      "R70-137-ARCHIVED_SCENES",
+      "R53-18-AWE",
+      "R53-15-FOLK_BELIEFS"
+     ]
+    },
+    {
+     "id": "CH14",
+     "title": "XP as arithmetic",
+     "question": "Should XP bind as arithmetic, or only set the scale?",
+     "context": "FOW Part Two prices some XP events (minor Wellspring contact at Band I, 'roughly 500 XP') and leaves others at 'Moderate XP'; its table gives each Band's XP per Level. R70-90 moves numbers only for a seen cause, and R70-6 took Reverend Insanity, 'every gain bought', as a progression model.",
+     "options": [
+      {
+       "key": "A",
+       "label": "Arithmetic, logged",
+       "consequence": "Every Level is paid in priced XP events tallied on the card; an unpriced event gets a marked estimate once, and that price is reused after."
+      },
+      {
+       "key": "B",
+       "label": "Scale, not sums",
+       "consequence": "The XP table sets how fast each Band moves; a Level lands on a seen cause with no tally kept."
+      },
+      {
+       "key": "C",
+       "label": "Sums for the carded",
+       "consequence": "Arithmetic for your characters and full cards, the scale for everyone else."
+      }
+     ],
+     "recommended": "C",
+     "rec_reason": "The tally makes your climb and your rivals' honest in the Reverend Insanity way you chose, and keeping it off minor NPCs spares work nobody reads.",
+     "multi": false,
+     "depends_on": [
+      "CH2"
+     ],
+     "rules_touched": [
+      "R70-90-FAST_NUMBERS_CLIMB",
+      "R70-6-LITRPG_PROGRESSION_MODELS",
+      "R70-99-NUMBER_NOT_YET_CANON",
+      "R12-5-NEVER_INVENT_NUMBER"
+     ]
+    },
+    {
+     "id": "CH15",
+     "title": "What training pays",
+     "question": "When a downtime turn names training, what does it pay?",
+     "context": "R70-90 moves numbers for 'training named in a downtime turn', yet FOW prices no training: Part Two rewards 'contact with consequence', decays repeated work to ten percent by the fifth time, and pays an oath sworn before a Witness Stone. Solo Leveling, one of your models, makes the daily drill a contract with a penalty. How downtime runs is the table questionnaire's WD8; this asks the yield.",
+     "options": [
+      {
+       "key": "A",
+       "label": "Only training at the edge",
+       "consequence": "Drill pays XP only where it carries real risk (sparring above his Tier, a working pushed toward Overchannel), at Part Two's own rates; comfortable repetition decays toward nothing. No new number."
+      },
+      {
+       "key": "B",
+       "label": "Edge, or a sworn drill",
+       "consequence": "A, and a drill sworn as an oath before a Witness Stone pays Part Two's oath XP on swearing and on fulfilment; a broken drill is a strain event. Solo Leveling's contract in FOW's terms."
+      },
+      {
+       "key": "C",
+       "label": "One rate, set once",
+       "consequence": "You set one XP rate per span of training at each Band, logged once and reused, so every downtime climb is plain arithmetic whatever the drill."
+      }
+     ],
+     "recommended": "B",
+     "rec_reason": "Both roads use rates FOW already prints, so nothing is invented, and the sworn drill brings in the Solo Leveling contract you chose with a price the grimdark can collect; a flat rate would pay safe work the Crystal, by canon, ignores.",
+     "multi": false,
+     "depends_on": [
+      "CH14"
+     ],
+     "rules_touched": [
+      "R70-90-FAST_NUMBERS_CLIMB",
+      "R70-6-LITRPG_PROGRESSION_MODELS",
+      "R70-18-ARC_SHAPES",
+      "R12-5-NEVER_INVENT_NUMBER"
+     ]
+    },
+    {
+     "id": "CH16",
+     "title": "The record of a climb",
+     "question": "What should a card record of a character's climb?",
+     "context": "Cards keep a Temperance Record (each Stage reached: prose on old cards, a line a Stage on new ones) and a Fracture Log (the Crystal's scars); none records Levels, XP or dates. R70-98 closes each chapter with 'a short block of what moved and why'; R70-92 enters a new Stage on the Reckoner's roll (the register of rank) before witnesses.",
+     "options": [
+      {
+       "key": "A",
+       "label": "XP bar",
+       "consequence": "XP held and XP to the next Level, from CH14's tally where the card keeps one, so a reader of the card knows how near the next readout is."
+      },
+      {
+       "key": "B",
+       "label": "Level log",
+       "consequence": "Each Level with its cause and the scene it happened in, fed from the chapter-end changes blocks."
+      },
+      {
+       "key": "C",
+       "label": "Stage ledger",
+       "consequence": "Each Stage with its Catalyst, re-assay, witnesses and date, one line of story each, set above the prose Temperance Record, which stays."
+      },
+      {
+       "key": "D",
+       "label": "Path drift",
+       "consequence": "The Path split (Body, Spirit, Attraction, Fate) with each change and the behaviour that moved it."
+      }
+     ],
+     "recommended": "A,B,C",
+     "rec_reason": "Together they make the card the place a LitRPG reader would look: where he stands, how he got there, and what he survived on the way, with the old prose kept; Path drift reads better as a line in the Stage ledger.",
+     "multi": true,
+     "depends_on": [
+      "CH14"
+     ],
+     "rules_touched": [
+      "R70-98-SHEETS_CHAPTER_ARC_ENDS",
+      "R70-92-CONFIRMING_NEW_STAGE",
+      "R70-90-FAST_NUMBERS_CLIMB",
+      "R42-7-FOUR_PATHS"
+     ]
+    },
+    {
+     "id": "CH17",
+     "title": "The next gate",
+     "question": "Should a card name the gate its bearer faces next?",
+     "context": "FOW names a Catalyst (the crisis that opens a Stage) for each Stage; R70-91 lands a breakthrough 'inside the danger that is its Catalyst', and R71-30 lets a sign be planted before it is told. Renard Greymane is Level 198 at Stage IV, two Levels short of a Band gate that asks Stage VII.",
+     "options": [
+      {
+       "key": "A",
+       "label": "Next gate, every card",
+       "consequence": "A line names the next Stage, its FOW Catalyst and any Band gate ahead. NPC cards add the crisis the Fronts are building; your characters' cards name only FOW's Catalyst."
+      },
+      {
+       "key": "B",
+       "label": "Found in play",
+       "consequence": "No line. The gate arrives when the story brings it, and the Temperance Record notes it after."
+      },
+      {
+       "key": "C",
+       "label": "NPCs only",
+       "consequence": "The line sits on NPC cards only; your characters' gates stay off the card, yours to seek."
+      }
+     ],
+     "recommended": "A",
+     "rec_reason": "A planted gate is the fair version of a breakthrough, seen coming as Cradle plants its advancements; the crisis being built for your character stays in the Fronts, out of his card.",
+     "multi": false,
+     "depends_on": [],
+     "rules_touched": [
+      "R70-91-BREAKTHROUGH_PAGE",
+      "R71-30-HELD_BACK_REVEAL",
+      "R70-6-LITRPG_PROGRESSION_MODELS",
+      "R49-01-WHOSE_HEAD"
+     ]
+    }
+   ]
+  },
+  {
+   "key": "ME",
+   "title": "Method",
+   "intro": "How the answers become law and reach the tools, the guides and the 284 cards, and in what order the work runs and is proved.",
+   "questions": [
+    {
+     "id": "ME1",
+     "title": "Where the law lands",
+     "question": "Where should the techniques-and-characters answers land?",
+     "context": "Answers enter through log_ruling as dated rule rows; the style and combat laws each landed as a doc plus guide editions. The converter's retired Design Chain and 'pending Isaac' placeholders are fixed in any case, the roster schema lacks body and stat-line fields, and NATALIE.md already asks for a sixth edition of the Ability and Technique Design Guide.",
+     "options": [
+      {
+       "key": "A",
+       "label": "Doc and tools now",
+       "consequence": "One dated law doc through log_ruling; the converter, create_character, the card skeleton and the roster schema rebuilt to it. Guides and skills follow in a later pass."
+      },
+      {
+       "key": "B",
+       "label": "Doc, tools and guides",
+       "consequence": "A, plus the sixth edition of the Ability and Technique Design Guide, the wotr-npc, wotr-stat-line and wotr-write references rewritten, and NATALIE.md's character-sheet line updated, all in this pass."
+      },
+      {
+       "key": "C",
+       "label": "Guides after the test",
+       "consequence": "A now; the guide edition and skill rewrites wait until the test cards of ME4 have been played, so they teach only what survived the test."
+      }
+     ],
+     "recommended": "B",
+     "rec_reason": "Both earlier laws landed with their guides at once, and Natalie reads the skills every session; a skill still teaching the six-line card would undo this law the day it lands.",
+     "multi": false,
+     "depends_on": [],
+     "rules_touched": [
+      "R70-135-WHERE_NEW_LAW_LIVES",
+      "R47-2-FIELD_FORMAT"
+     ]
+    },
+    {
+     "id": "ME2",
+     "title": "What joins the card sweep",
+     "question": "Live law already owes a sweep of names and numbers across all 284 cards; what else should it carry?",
+     "context": "Owed and settled: FOW Stage names, Büri leftovers, Sub-Stat names Part Twelve merged away (Diagnosis on sixty cards), Tiers by name, Pools re-costed, reserves by the Level law. The survey also found six estimate styles, Lore that contradicts its own card body, cards in five shapes, and dashes all through card bodies, where the prose ban has never reached.",
+     "options": [
+      {
+       "key": "A",
+       "label": "One estimate mark",
+       "consequence": "CH7's answer applied to every card, and flags the Level law has since made exact (Borin's, Yoko's reserves) dropped."
+      },
+      {
+       "key": "B",
+       "label": "Lore against body",
+       "consequence": "Each Lore read against its card body; name drift is fixed, and any other contradiction goes to CONFLICTS.md for the docket."
+      },
+      {
+       "key": "C",
+       "label": "Template, all at once",
+       "consequence": "Every card brought to CH1's shape in one pass, missing fields written in, instead of card by card in ME3's order."
+      },
+      {
+       "key": "D",
+       "label": "Dashes out",
+       "consequence": "Em and en dashes taken out of card bodies and Lore, carrying the prose ban from the page to the sheet."
+      }
+     ],
+     "recommended": "A,B,D",
+     "rec_reason": "The mark, the cross-read and the dashes are mechanical and checkable; reshaping and filling every card is writing, which goes card by card in the order ME3 sets.",
+     "multi": true,
+     "depends_on": [
+      "CH1",
+      "CH7"
+     ],
+     "rules_touched": [
+      "R20C-30-STAGE_NAMES_FROM_FOW",
+      "R20C-1-BURI_DEAD_EVERYWHERE",
+      "R38-2-ORIGINATED_SHEETS_RECOST_TO_CURRENT_ALLOTMENT",
+      "R39-1-CANON_STAT_MODEL",
+      "R56-8-LEVEL_LAW_SETS_RESERVE_BAND",
+      "R70-99-NUMBER_NOT_YET_CANON"
+     ]
+    },
+    {
+     "id": "ME3",
+     "title": "Which cards first",
+     "question": "Which cards are rebuilt first?",
+     "context": "The Kharven room holds the thinnest cards in the archive: header cards with no stats, Traits or techniques, so Table Rule 5 cannot name the row that decided a fight. The other live threads (Kwon Mu-jin's and the New World's Korvaeth War) have fuller cards, and cast_index ranks everyone by appearances.",
+     "options": [
+      {
+       "key": "A",
+       "label": "The Kharven room first",
+       "consequence": "Lambert, Bram, Brida, Tabitha Hallenfeld and the rest of the room at Kharven-Seat get their cards first, then the other live threads, then the archive by appearances."
+      },
+      {
+       "key": "B",
+       "label": "All live threads together",
+       "consequence": "Every named person in every live State of Play at once, then the archive."
+      },
+      {
+       "key": "C",
+       "label": "By appearance count",
+       "consequence": "cast_index's ranking from the top, whatever the thread."
+      }
+     ],
+     "recommended": "A",
+     "rec_reason": "Kharven is where the Fronts land first and where the table plays; its people are the ones a fight will need next.",
+     "multi": false,
+     "depends_on": [
+      "CH2"
+     ],
+     "rules_touched": [
+      "R14-3-STATS_DECIDE_TABLE"
+     ]
+    },
+    {
+     "id": "ME4",
+     "title": "Proof and the order of work",
+     "question": "In what order does the work run, and what proves it?",
+     "context": "R70-138 ran the style law as 'Law, test scene, then bank', and the combat law took 'Law and checks, then test'. This pass has the law (ME1), the tools, the sweep (ME2), the card rebuilds (ME3) and the old entries put right (ME5). A real test needs one card of each rung built under the new law and then used in play.",
+     "options": [
+      {
+       "key": "A",
+       "label": "Law, test, then the rest",
+       "consequence": "Log the law; build a full card, a short card and a conversion by hand; play a scene with them; amend; then tools, sweep and rebuilds."
+      },
+      {
+       "key": "B",
+       "label": "Law and tools, then test",
+       "consequence": "Log the law and rebuild the converter and skeleton; make the three test cards through them; play a scene where one decides a fight; amend; then sweep and rebuilds."
+      },
+      {
+       "key": "C",
+       "label": "Everything, then test",
+       "consequence": "Law, tools, sweep and rebuilds all done first; one scene proves the lot, and every amendment touches all of it."
+      }
+     ],
+     "recommended": "B",
+     "rec_reason": "Building the test cards through the new tools tests the tools too, and a fight settled from a new card's rows is the real proof of Table Rule 5; the sweep and rebuilds, the slow work, then run once.",
+     "multi": false,
+     "depends_on": [
+      "ME1",
+      "ME2",
+      "ME3"
+     ],
+     "rules_touched": [
+      "R70-138-PROOF_ORDER_WORK"
+     ]
+    }
+   ]
+  }
+ ],
+ "settled": [
+  {
+   "point": "How readouts sit on the page: the bearer reads his own sheet in his Crystal, instruments print everyone else's, figures inline with set-off blocks only at milestones, body before number.",
+   "rule_ids": [
+    "R70-78-WHERE_SCREEN_COMES_FROM",
+    "R70-77-INSTRUMENT_CAN_SHOW",
+    "R70-80-READOUT_SITS_PAGE",
+    "R70-89-BODY_FIRST_NUMBER_FIRST"
+   ],
+   "why_not_asked": "Style law, ruled 2026-10-03; the questions here ask only what the card records."
+  },
+  {
+   "point": "Growth that earns a readout: a Level gained with its points, a Stage, a new Trait, Wellspring contact.",
+   "rule_ids": [
+    "R70-84-GROWTH_MOMENTS_THAT_EARN"
+   ],
+   "why_not_asked": "Style law, ruled 2026-10-03; CH5 asks only who spends the points."
+  },
+  {
+   "point": "Numbers move only for a cause the reader saw; a breakthrough lands inside its Catalyst crisis; a new Stage is confirmed at a public re-assay; each chapter closes with a changes block.",
+   "rule_ids": [
+    "R70-90-FAST_NUMBERS_CLIMB",
+    "R70-91-BREAKTHROUGH_PAGE",
+    "R70-92-CONFIRMING_NEW_STAGE",
+    "R70-98-SHEETS_CHAPTER_ARC_ENDS"
+   ],
+   "why_not_asked": "Style law, ruled 2026-10-03; CH14 to CH17 build the card's records and the training yield on them."
+  },
+  {
+   "point": "Ranked practitioners speak exact figures and argue builds; commoners round.",
+   "rule_ids": [
+    "R70-93-BUILD_TALK_DIALOGUE"
+   ],
+   "why_not_asked": "Style law, ruled 2026-10-03."
+  },
+  {
+   "point": "Progression models (Cradle, Reverend Insanity, Solo Leveling, The Wandering Inn beside Unbound) and the licensed arc shapes (tournament, Well delve, training montage, episodic jobs).",
+   "rule_ids": [
+    "R70-6-LITRPG_PROGRESSION_MODELS",
+    "R70-18-ARC_SHAPES"
+   ],
+   "why_not_asked": "Style law, ruled 2026-10-03; the questions here ask what a card records of an arc and what training pays, never an arc's shape."
+  },
+  {
+   "point": "Guild commendations carry legal and social weight and no stat effect; a Third Name coined for your character sticks only if you keep it.",
+   "rule_ids": [
+    "R70-96-TITLES_ACHIEVEMENTS",
+    "R50-21-THIRD_NAMES"
+   ],
+   "why_not_asked": "Style law, and R50-21 stands."
+  },
+  {
+   "point": "Comic names: the norm among commons and soldiers, who may carry one, how they are built and grown, a bank per culture, walk-ons named only in a mouth, the joke turning to grief at a bad death, and full comic beats only for carded comic voices.",
+   "rule_ids": [
+    "R70-119-MUCH_POOL_COMIC",
+    "R70-120-BUILT_COMIC_NAMES",
+    "R70-121-GROWN_COMIC_NAMES",
+    "R70-122-MAY_CARRY_ONE",
+    "R70-127-COMIC_NAME_GRIM_END",
+    "R70-130-WALK_ONS_WITH_COMIC",
+    "R70-131-COMIC_NAMES_GET_MADE",
+    "R70-113-DOUBLE_ACT_COMIC_BEAT"
+   ],
+   "why_not_asked": "The style law's naming and humour sections, ruled 2026-10-03; CH11 asks only how the card records it."
+  },
+  {
+   "point": "Your PC Sodoku Moto and the other creators' characters are never thought or voiced for, never carry a comic name, and Sonzai gets a record card only.",
+   "rule_ids": [
+    "R49-01-WHOSE_HEAD",
+    "R52-14-SODOKU_JOKE",
+    "R20C-16-SONZAI_RECORD_CARD"
+   ],
+   "why_not_asked": "Standing law; CH4, CH5 and CH17 ask how far your characters' builds and gates are yours."
+  },
+  {
+   "point": "A rival recurs only by a mercy paid for on the Ledger.",
+   "rule_ids": [
+    "R70-104-RIVAL_BOND"
+   ],
+   "why_not_asked": "CB5 of the style law; CH12 asks only how a rival grows between meetings."
+  },
+  {
+   "point": "Character first: refusal, wound and conviction produce the phenomenon, and the Codex files it afterward.",
+   "rule_ids": [
+    "R7-1-CHARACTER_FIRST"
+   ],
+   "why_not_asked": "Standing law; CH10 asks only which of the three get card fields."
+  },
+  {
+   "point": "Every major card carries the fixed voice block; gloss rights is a card field; your play beats your character's card.",
+   "rule_ids": [
+    "R52-03-VOICE_BLOCK",
+    "R20C-49-GLOSS_RIGHTS_CARD_FIELD",
+    "R52-08-PC_IDIOM"
+   ],
+   "why_not_asked": "Ruled; CH8 asks only about new slots."
+  },
+  {
+   "point": "Every card carries a pronunciation line and a dated As Of line; the header describes a stated moment and the Lore carries later events, deaths included.",
+   "rule_ids": [
+    "R50-34-SAY_GUIDE",
+    "R58-12-AS_OF_LINE_ON_EVERY_CARD",
+    "R54-11-CARD_HEADER_AT_A_MOMENT"
+   ],
+   "why_not_asked": "Ruled; the sweep applies them where missing."
+  },
+  {
+   "point": "A new person is a role until they speak twice or matter.",
+   "rule_ids": [
+    "R50-27-NEW_NPC_NAME"
+   ],
+   "why_not_asked": "Naming law 2026-09-26; CH2 builds the rungs above it."
+  },
+  {
+   "point": "The stat model: points buy Sub-Stats only, a Primary is the total of its eight and its Grade the mean, the Stage's Max Grade letter caps allocation, Pools follow Part Three's allotment with Stage I counting, and older sheets are re-costed to it.",
+   "rule_ids": [
+    "R39-1-CANON_STAT_MODEL",
+    "R39-4-MAX_GRADE_LETTER_BINDS",
+    "R39-3-STAGE_ONE_THRESHOLD_COUNTS",
+    "R38-2-ORIGINATED_SHEETS_RECOST_TO_CURRENT_ALLOTMENT"
+   ],
+   "why_not_asked": "Ruled; CH4 asks only how much of it a card shows."
+  },
+  {
+   "point": "Never invent a number; Fracture of Worlds, then the Stat Sheet workbook, then the card; an estimate is printed, marked, and canon on use until a source figure beats it.",
+   "rule_ids": [
+    "R12-5-NEVER_INVENT_NUMBER",
+    "R20C-32-PRECEDENCE_FOW_WORKBOOK_CARD",
+    "R70-99-NUMBER_NOT_YET_CANON",
+    "R20C-34-ESTIMATES_CANON_ON_USE"
+   ],
+   "why_not_asked": "Standing law; CH7 asks only the card's mark. The wotr-stat-line skill's different order is a text fix."
+  },
+  {
+   "point": "Stage names come from Fracture of Worlds (Ignition, Hold, Temper and Surge are dead); the Tier of Standing replaces the lettered Coherence Band; Tiers by name only, Stage and Band numerals beside their names.",
+   "rule_ids": [
+    "R20C-30-STAGE_NAMES_FROM_FOW",
+    "R43-4-LETTERED_BAND_SWEPT",
+    "R70-82-NUMERALS_LADDER_RUNGS",
+    "R47-7-NAMES_NOT_NUMBERS"
+   ],
+   "why_not_asked": "Ruled; the sweep (ME2) applies them, Cozbi's 'Tier of Standing 8' header included."
+  },
+  {
+   "point": "Sodoku's and Krothar's Levels past their Band gates stand as outliers with standing Residual Strain.",
+   "rule_ids": [
+    "R56-4-PAST_THE_GATE_WITH_STRAIN"
+   ],
+   "why_not_asked": "Ruled 2026-09-26 (C-041); CH6 asks only about the four Kharven cards never put."
+  },
+  {
+   "point": "Card fields the combat law already requires: each card names its grammar, a filled Readiness (casting-time) figure governs a casting race, a vow's output figure sits on its card, fusion exists only as a carded Synergia (joint-working) technique, alchemists may take a 'reads first' line.",
+   "rule_ids": [
+    "R71-69-GRAMMAR_GUN_BENCH_FIELD",
+    "R71-28-DECIDES_CASTING_SPEED",
+    "R71-32-VOWS_LIMITS",
+    "R71-39-ALLIES_WORKING_TOGETHER",
+    "R71-72-ALCHEMIST_VOICE"
+   ],
+   "why_not_asked": "Combat law, ruled 2026-10-04; how a technique entry carries them is asked in the Keystones and Techniques sections."
+  },
+  {
+   "point": "An item carries its ladder rung and gets one card on the page; a technique entry says what an ability is, never how to use it.",
+   "rule_ids": [
+    "R47-5-LADDER_RUNG",
+    "R70-95-ITEM_CARDS",
+    "R47-1-NO_APPLICATIONS"
+   ],
+   "why_not_asked": "Ability law 2026-09-26 and the style law; no question here reopens them."
+  },
+  {
+   "point": "Archived scenes stay untouched and are precedent for events, not prose; commoners hold practitioners in awe, and folk beliefs about magic go uncorrected.",
+   "rule_ids": [
+    "R70-137-ARCHIVED_SCENES",
+    "R53-18-AWE",
+    "R53-15-FOLK_BELIEFS"
+   ],
+   "why_not_asked": "Ruled; CH13 leans on them."
+  },
+  {
+   "point": "Boundary: how downtime runs, whether NPCs act on their wants off the page, and what makes a Front tick belong to the table questionnaire.",
+   "rule_ids": [
+    "R70-18-ARC_SHAPES",
+    "R70-90-FAST_NUMBERS_CLIMB"
+   ],
+   "why_not_asked": "Asked there (WD1 on what moves a Front, WD7 on NPCs off the page, WD8 on downtime); this questionnaire keeps card content, the yield of training (CH15) and how a rival's numbers climb (CH12)."
+  },
+  {
+   "point": "Fix, not ask: the converter's 'pending Isaac' placeholders, its Design Chain brief and Coherence Band; create_character's 'marked pending'; the roster schema's missing body and stat-line fields; Earth day names in roster entries; duplicated header blocks.",
+   "rule_ids": [
+    "R70-99-NUMBER_NOT_YET_CANON",
+    "R47-2-FIELD_FORMAT",
+    "R43-4-LETTERED_BAND_SWEPT",
+    "R51-08-CALENDAR"
+   ],
+   "why_not_asked": "Stale text against live law; corrected in the build (ME1), not put to you."
+  },
+  {
+   "point": "Converted and old sheets are re-costed by scaling the source's own allocation to Part Three's current allotment on the canon model, Grade letters re-derived; fresh derivation is not the method.",
+   "rule_ids": [
+    "R38-2-ORIGINATED_SHEETS_RECOST_TO_CURRENT_ALLOTMENT",
+    "R39-1-CANON_STAT_MODEL",
+    "R39-3-STAGE_ONE_THRESHOLD_COUNTS"
+   ],
+   "why_not_asked": "Ruled, so no question offers fresh derivation; CH4 asks only how unset Sub-Stats are filled inside the re-costed totals, and CH13 only about feats the new numbers cannot carry."
+  },
+  {
+   "point": "The card sweep owes, under live law: FOW Stage names, Büri forms (Yoko's card body still says Temür), Sub-Stat names retired by Part Twelve's merge, Tiers by name, every Pool re-costed, and reserves set by the Level law.",
+   "rule_ids": [
+    "R20C-30-STAGE_NAMES_FROM_FOW",
+    "R20C-1-BURI_DEAD_EVERYWHERE",
+    "R70-82-NUMERALS_LADDER_RUNGS",
+    "R38-2-ORIGINATED_SHEETS_RECOST_TO_CURRENT_ALLOTMENT",
+    "R39-1-CANON_STAT_MODEL",
+    "R56-8-LEVEL_LAW_SETS_RESERVE_BAND"
+   ],
+   "why_not_asked": "Owed already; ME2 asks only what joins it."
+  },
+  {
+   "point": "Every lie leaves a catchable tell (a body tell, a fact that does not fit, or a detail changed later), and NPCs lie often.",
+   "rule_ids": [
+    "R49-36-LIE_TELLS",
+    "R48-42-LIES"
+   ],
+   "why_not_asked": "Live; CH8 asks only whether a card records its bearer's body tell."
+  },
+  {
+   "point": "Each practitioner chants in his own tongue; learned cultures carry a learned tongue (Latin for the Accord, hanmun, kanbun, wenyan).",
+   "rule_ids": [
+    "R50-26-CHANT_TONGUE",
+    "R70-26-LEARNED_TONGUES_BESIDE_LATIN"
+   ],
+   "why_not_asked": "Live; CH8 asks only whether the card gets a slot that records which tongue."
+  },
+  {
+   "point": "Comic voices and double acts are named on their cards, and only they play full comic beats.",
+   "rule_ids": [
+    "R70-113-DOUBLE_ACT_COMIC_BEAT"
+   ],
+   "why_not_asked": "Style law; CH11's samples carry the field."
+  }
+ ]
+}

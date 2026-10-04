@@ -36,7 +36,11 @@ rules:
     the tell and never draws the conclusion for Isaac''s fighter, how he bears a wound stays his,
     and the inside of his working''s cost is his. Partly amended by R71-23-TELL_READ (combat law
     2026-10-04): when the POV is Isaac''s PC, the reading of a tell is his; the narration shows the
-    tell and does not read it for him.'
+    tell and does not read it for him.
+    Partly amended by R72-6-WORLD_WRITES_HIM (table law 2026-10-04): outside a fight too, the PC''s
+    involuntary responses (sweat and nausea under Pressure, a startle, cold shakes, a drug taking
+    hold) land on his body as facts, Natalie lays the tells and never draws his conclusion, and what
+    he would know comes as plain recall from his card and canon only, never a new memory.'
 - id: R49-02-TENSE
   pack: Prose Law 2026-09-26
   pack_number: null
@@ -240,7 +244,9 @@ rules:
     an NPC plotting) Stands, and R70-11-WIDE_VIEW (style law 2026-10-03) adds the marked roll call in
     battles and crowds beside the closing cut. Noted by R70-72-WATCHING_CROWD_POWER_REVEAL (style law
     2026-10-03): a crowd''s chorus at a reveal stays inside the POV''s hearing and is not a cutaway; this
-    rule stands.'
+    rule stands.
+    Partly amended by R72-7-CUTAWAY_SHOWS (table law 2026-10-04): the cut shows who acts and what
+    they do and keeps the reason, so the player sees the move and his PC still has to read the why.'
 - id: R49-10-EPITHETS
   pack: Prose Law 2026-09-26
   pack_number: null
@@ -751,7 +757,13 @@ rules:
     Read with R71-5-ROLEPLAY_TURNS_AGAINST_WRITTEN (combat law 2026-10-04): in a roleplay fight
     Isaac may post standing orders, which Natalie runs exchange by exchange until the first branch
     they do not cover, so the stop at the next decision falls on that threat; Table Rule 1 gains
-    this exception.'
+    this exception.
+    Partly amended by R72-4-WHERE_TURN_STOPS (table law 2026-10-04): the stop at the next decision
+    falls at the first pressure on him (a question to him, an offer, a threat, a clock); the turn
+    runs past pauses he would let pass, and a line aimed at him always stops it. Read with
+    R72-5-STANDING_ORDERS_OUTSIDE_FIGHTS (table law 2026-10-04): standing orders now run in every
+    scene type, so wherever Isaac has posted conditions the stop at the next decision falls at the
+    first branch they miss.'
 - id: R49-30-SHORT_BEATS
   pack: Prose Law 2026-09-26
   pack_number: null
@@ -773,7 +785,11 @@ rules:
     file: ''
     lines: null
   notes: 'Question p30: Turns are about 3,500 words. When you ask a quick in-character question or say
-    one line, does the reply still run long?'
+    one line, does the reply still run long?
+    Partly amended by R72-3-REPLIES_RUN_LONG (table law 2026-10-04): ''This reopens R49-30 for
+    Discord''. At the Desktop table an in-fiction reply is still a full turn of about 3,500 words,
+    even to a quick line or question; an out-of-character answer is plain, and a Discord post runs
+    about 1,500 words, the house median, unless the beat asks for more.'
 - id: R49-31-TAGS
   pack: Prose Law 2026-09-26
   pack_number: null
@@ -819,7 +835,10 @@ rules:
     file: ''
     lines: null
   notes: 'Question p32: Em dashes are banned everywhere, dialogue included. How is interrupted speech
-    shown? Example: ''I didn''t—'' is illegal.'
+    shown? Example: ''I didn''t—'' is illegal.
+    Partly amended by R72-11-WORLD_INTERRUPTS (table law 2026-10-04): every line Isaac''s PC speaks
+    is said in full, though NPCs may react while he speaks, so an interrupted line shown this way is
+    never his.'
 - id: R49-33-CALM_SPEECH
   pack: Prose Law 2026-09-26
   pack_number: null

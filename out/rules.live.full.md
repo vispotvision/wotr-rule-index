@@ -1,8 +1,8 @@
 # Live rules by domain, with source text
 
-1363 live of 1555 extracted. Newest pack first within each domain; the newer rule governs where two overlap.
+1406 live of 1598 extracted. Newest pack first within each domain; the newer rule governs where two overlap.
 
-## adjudication (114)
+## adjudication (124)
 
 ### R15-4-THIRTEEN_HAX_STRUCK [Pack Fifteen §4]
 
@@ -640,6 +640,66 @@ An arrogant scion may underestimate and be reversed in public while the room rea
 
 > The face-slap, with a bill. C, with a bill: every public reversal opens a Front or a Ledger debt (a vengeful house, a witness, a feud), and the humbled man stays veteran-clever afterward. (Option C there reads: The face-slap licensed. The face-slap becomes a legal payoff: an arrogant scion underestimates, the reversal is public, the room reassesses. R5-C1-WELL_REASONED_WRONG_CONCLUSION and R48-36 relax for the arrogant, who may misjudge badly.)
 
+### R72-2-IMPROVISE_OR_ASK [Table Law 2026-10-04 K2]
+
+Natalie makes every call at the table herself, a carded NPC's death or a new faction included, and logs each one under the turn as an agent ruling Isaac may overturn.
+
+> Natalie decides everything. "Bigger things wait" is struck. Natalie makes every call, even a carded NPC's death or a new faction, and logs each as an agent ruling (a call you may overturn) under the turn.
+
+### R72-6-WORLD_WRITES_HIM [Table Law 2026-10-04 K6]
+
+Outside a fight a turn writes the PC's involuntary responses (sweat and nausea under Pressure, a startle, cold shakes, a drug taking hold) on his body as facts, lays the evidence in the room without drawing his conclusion, and gives what he would know only as plain recall from his card and canon, never a new memory.
+
+> Yes to: Reflexes as world facts (Involuntary responses (sweat and nausea under Pressure, a startle at a shot, cold shakes, a drug taking hold) land on his body as facts, as wounds do under R71-6; what he does next stays yours); Evidence, never the conclusion (In talk and investigation too, Natalie lays the tells in the room and never draws his conclusion; the deduction is your post, R71-6's "the read his" carried outside fights); What he would know (What your PC knows and you might not (a custom, a Guild form, a law of his own court) comes as plain recall from his card and canon only, never a new memory).
+
+### R72-11-WORLD_INTERRUPTS [Table Law 2026-10-04 TU4]
+
+A posted chain of actions stops at the first point the world pushes back and the later actions never happen, while every line the PC speaks is said in full, NPCs free to react as he speaks.
+
+> Actions cut, speech whole. A chain of actions stops at the first point the world pushes back, and the later actions never happen; every line he speaks is said in full, though NPCs may react while he speaks.
+
+### R72-13-FOOT_CARRIES [Table Law 2026-10-04 TU6]
+
+The OOC foot under a turn carries one line per call Natalie made that turn, marked as an agent ruling Isaac may overturn, one line per Ledger line and Front tick the turn caused, and two to four rule ids that bound it with the stat row behind any adjudicated outcome.
+
+> Yes to: Calls made (One line per call Natalie made this turn (a new NPC, a fact, an estimate), each marked as an agent ruling you may overturn); What it cost (The Ledger lines and Front ticks the turn caused, one line each, so nothing is lost before the session close); Rules and the deciding row (Two to four rule ids that bound the turn and, for any adjudicated outcome, the stat row that decided it (R14-3, R71-7)).
+
+### R72-27-SWAYS_NPC [Table Law 2026-10-04 WD13]
+
+A Stage gap felt as Pressure and a commoner's awe of a ranked practitioner can make an NPC yield what its want alone would refuse, a ranked NPC weighing them less; the Ledger's reputation and who-saw-what lines reach the NPC, so it answers what his PC did in public and the notes name the line that weighed; and an NPC catches his PC's lie only on a tell in his body, a fact it holds or a read its Gnosis earns, the lie holding otherwise.
+
+> Yes to: Rank bends it (A Stage gap felt as Pressure (R70-69) and a commoner's awe of a ranked practitioner (R53-18) can make an NPC yield what its want alone would refuse; a ranked NPC weighs them less); His name goes before him (Ledger lines for reputation and who saw what reach the NPC: it answers what your PC did in public, for good or ill, and the notes name the line that weighed); His lies caught on evidence (An NPC catches your PC's lie only on what it can check: a tell in his body, a fact it holds, or a read its Gnosis earns (R14-3's read row). Otherwise the lie holds).
+
+### R72-29-ROAD_AT_STAKE [Table Law 2026-10-04 WD9]
+
+A journey that matters gets a clock of four to six (weather, horses, food) ticked by miles and calendar, each tick a beat on the page, and if the clock fills before the journey is done the road takes a horse, a hand or the season.
+
+> The road as a clock. The journey gets a clock of four to six (weather, horses, food), ticked by miles and calendar, each tick a beat on the page; if it fills first, the road takes a horse, a hand or the season.
+
+### R72-31-LAST_WARNING [Table Law 2026-10-04 WD11]
+
+Before a choice that can kill his character the warning is signs, tells and exits on the page, the death standing if he misses them all, and one plain out-of-character line is added only when the danger is one his character could not read, such as Pressure from far above him or a Well's own law.
+
+> Plain only when unreadable. As A, plus the OOC line only when the danger is one his character could not read: Pressure (the felt weight of a higher Stage) from far above him, or a Well's own law.
+
+### R72-37-PLAYER_AGAINST_PLAYER [Table Law 2026-10-04 MP3]
+
+Before two players' characters make contact in any contest both players post terms (what counts as a loss, what is off the table), and inside those terms the Judger decides on Table Rule 5's four inputs and posts an adjudication card naming the stat rows, any post the ruling contradicts being marked struck in the archive.
+
+> Terms first, then Judger. Before contact both players post terms (what counts as a loss, what is off the table), R71-54 widened to every contest; inside those terms the Judger rules by card, as in B.
+
+### R72-38-GUEST_OWN_LINES [Table Law 2026-10-04 MP4]
+
+On joining a thread each guest lists lines and veils on their character's card for the Judger and Natalie to honour in that player's scenes, the Floor binding everyone, marks their character mortal or not (one marked not mortal can be maimed, captured or ruined, never killed), and explicit scenes run only in age-restricted channels with only opted-in players present, anyone else's character seeing a door close.
+
+> Yes to: Lines and veils (Each guest lists lines and veils on their character's card; the Judger and Natalie honour them in that player's scenes, and the Floor binds everyone); Mortal or not (Each guest marks their character mortal or not. One marked not mortal can be maimed, captured or ruined, never killed; this narrows R48-31 for that character only); Explicit scenes opt in (Explicit scenes run only in age-restricted channels with only players who opted in present; anyone else's character sees a door close).
+
+### R72-40-PLAYERS_CAN_LOOK_UP [Table Law 2026-10-04 MP6]
+
+On Discord the bot's /due and /ledger show a player only the Ledger lines about their own characters, /roster and /npc show an NPC's public face only (name, look, voice, role) while wants, lies and what it knows stay with the Judger, and each ruling's adjudication card is posted in the scene's thread so any player can see which stat rows decided it.
+
+> Yes to: Their own Ledger lines (/due and /ledger show a player only the lines about their own characters); Public faces on the roster (/roster and /npc show what is public: name, look, voice, role. Wants, lies and what they know stay with the Judger); Adjudication cards (Each ruling's card is posted in the scene's thread, so any player can see which stat rows decided it).
+
 ### R28-1-BLACK_STONES_SHALE_ANALOGUE [Voidfall Stone / Black Stones Ruling Standing Ruling]
 
 The black stones that fell across four worlds when Verinus completed the Void are Voidfall Stone, a distinct T8 material: matte, made not emplaced, and indistinguishable from Crevice Shale to Measurewright instruments at a distance. They are not Crevice Shale. Article III names Crevice Shale specifically and does not name Voidfall Stone, so Enforcement acting under Article III against the stones is acting on a misreading; write it that way. Never put the word "shale" on the narrative page of the Verinus scenes for these stones. The Crevice Shale ledger rows stand unchanged.
@@ -688,7 +748,7 @@ Isaac may take over any NPC's voice anytime by saying so; the partner hands it b
 
 > Isaac may take over any NPC's voice anytime by saying so; the partner hands it back after.
 
-## character-sheet (230)
+## character-sheet (231)
 
 ### R20C-16-SONZAI_RECORD_CARD [Pack Twenty R20C-16]
 
@@ -1881,6 +1941,12 @@ Natalie invents Borin Ironheart's brothers on the shared Dawi element Rin, one c
 
 > Brothers, Snorin included. Natalie invents Borin's brothers on the shared Rin, one called Snorin by every Common mouth, and adds them to his card's kin line once you approve the names.
 
+### R72-38-GUEST_OWN_LINES [Table Law 2026-10-04 MP4]
+
+On joining a thread each guest lists lines and veils on their character's card for the Judger and Natalie to honour in that player's scenes, the Floor binding everyone, marks their character mortal or not (one marked not mortal can be maimed, captured or ruined, never killed), and explicit scenes run only in age-restricted channels with only opted-in players present, anyone else's character seeing a door close.
+
+> Yes to: Lines and veils (Each guest lists lines and veils on their character's card; the Judger and Natalie honour them in that player's scenes, and the Floor binds everyone); Mortal or not (Each guest marks their character mortal or not. One marked not mortal can be maimed, captured or ruined, never killed; this narrows R48-31 for that character only); Explicit scenes opt in (Explicit scenes run only in age-restricted channels with only players who opted in present; anyone else's character sees a door close).
+
 ### R52-01-SAME_MAN [Voice Law 2026-09-26 How distinct voices must be]
 
 The quiet, controlled older man is the setting's taste: leave the archetype; the swap test catches clashes scene by scene.
@@ -2765,7 +2831,7 @@ Vohrin is one power at two levels, Titan and Wellspring; frost workings drawing 
 
 > Vohrin is one power at two levels, Titan and Wellspring; the four frost workings become Titan-derived, likely raising their standing and cost.
 
-## combat (198)
+## combat (200)
 
 ### R20C-22-AMMUNITION_TIERS_RATIFIED [Pack Twenty R20C-22]
 
@@ -3919,6 +3985,18 @@ An area working spares allies only while the caster's judgement holds; if it sli
 
 > Area workings sort friend from foe by the caster's judgement/attention; if it slips, allies are caught (Locus, Coagula, Obelisk).
 
+### R72-36-WHO_POSTS_WHEN [Table Law 2026-10-04 MP2]
+
+Players post freely in talk and travel, while fights and contests run in a fixed round order with a reply window the Judger sets, after which the round moves on and an absent player's standing orders play for them.
+
+> Order when it matters. Free posting in talk and travel; in fights and contests a fixed round order with a reply window the Judger sets, after which the round moves on and standing orders (R71-5) play for the absent.
+
+### R72-37-PLAYER_AGAINST_PLAYER [Table Law 2026-10-04 MP3]
+
+Before two players' characters make contact in any contest both players post terms (what counts as a loss, what is off the table), and inside those terms the Judger decides on Table Rule 5's four inputs and posts an adjudication card naming the stat rows, any post the ruling contradicts being marked struck in the archive.
+
+> Terms first, then Judger. Before contact both players post terms (what counts as a loss, what is off the table), R71-54 widened to every contest; inside those terms the Judger rules by card, as in B.
+
 ### R48-33-CHOREOGRAPHY [Writing Law 2026-09-26 Combat and consequence]
 
 Duels: every exchange traced (measure, guard and the move by its fencing name).
@@ -3955,7 +4033,7 @@ Every duel ends with a full aftermath beat: wounds dressed, what changed between
 
 > Every duel ends with a full aftermath beat: wounds dressed, what changed between people.
 
-## dialogue (174)
+## dialogue (183)
 
 ### R20C-36-CLEARLY_WINS [Pack Twenty R20C-36]
 
@@ -4569,6 +4647,60 @@ verify --combat takes a school (blade, japanese, chinese, korean, percussion) or
 
 > Yes to: Combat words by school (verify --combat takes a school (blade, japanese, chinese, korean, percussion) or reads the culture tag, and warns only when a fight carries none of that school's terms); A verse marker (A marked verse block (a poem, a lament, a declaration in lines) is left out of the rhythm statistics and word count; the dash and hard-ban checks still read it); Stock-formula watch (A WARN on translated web-novel formulas (you court death, this junior, this old man, lose face) in narration, and an info line in speech, so the flavour stays where DL2 puts it). Not taken: Address check.
 
+### R72-5-STANDING_ORDERS_OUTSIDE_FIGHTS [Table Law 2026-10-04 K5]
+
+In any scene, not only a fight, Isaac may post conditions such as 'if she names the stair, I ask for the daybook'; Natalie runs them to the first branch they miss, and his PC speaks only the words Isaac posted.
+
+> Every scene type. Post conditions anywhere ("if she names the stair, I ask for the daybook"). Natalie runs them to the first branch they miss, and any line your PC speaks is only your posted words.
+
+### R72-9-SEVERAL_NPCS_ONE_TURN [Table Law 2026-10-04 TU2]
+
+When several NPCs share a room they talk to each other, interrupt and score points, the PC overhears what none would tell him, and the turn stops when the room turns to him.
+
+> The room talks. NPCs talk to each other, interrupt and score points, and your PC overhears what they would never tell him; the turn stops when the room turns to him.
+
+### R72-10-ROUTINE_TALK_SUMMARY [Table Law 2026-10-04 TU3]
+
+Routine exchange such as prices, directions, greetings and haggling is told in a sentence or two, and any line that carries a want, a lie, a refusal or a tell is quoted in full.
+
+> Summary, then the line. Routine exchange (prices, directions, greetings, haggling) is told in a sentence or two; any line that carries a want, a lie, a refusal or a tell is quoted in full.
+
+### R72-11-WORLD_INTERRUPTS [Table Law 2026-10-04 TU4]
+
+A posted chain of actions stops at the first point the world pushes back and the later actions never happen, while every line the PC speaks is said in full, NPCs free to react as he speaks.
+
+> Actions cut, speech whole. A chain of actions stops at the first point the world pushes back, and the later actions never happen; every line he speaks is said in full, though NPCs may react while he speaks.
+
+### R72-15-CARRIES_RUMOR_MILL [Table Law 2026-10-04 TU8]
+
+The Rumor Mill's news may come from one NPC who wants to know things first and gets some of it wrong, from a notice or print where the Inventory gives literacy (never in the north), or from people the PC overhears talking among themselves.
+
+> Yes to: A gossip's mouth (One NPC who wants to know things first tells it and gets some of it wrong. NATALIE.md's form, and the teller becomes a standing face); Print and notice (Where the Inventory gives literacy, news arrives as a Board notice, a broadsheet or a porter's slate, and print can be wrong too. Never in the north); Overheard (Your PC passes people talking among themselves and catches the news in pieces, mixed in with their own business).
+
+### R72-19-NEW_LINES_HIS_POSTS [Table Law 2026-10-04 TU12]
+
+When Isaac's beat for a Discord post gives his character no words, Natalie drafts the line in that character's voice and marks it as a draft for him to keep, change or cut before he posts.
+
+> Drafted, marked. R52-09 reaches the posts: Natalie drafts the line in his voice, marked as a draft for you to keep, change or cut before you post.
+
+### R72-25-HOW_MANY_LIES [Table Law 2026-10-04 WD6]
+
+Every NPC on the roster who has a want carries at least one live lie, told when it serves them and logged with its tell, and Table Rule 8 is retired into this rule.
+
+> A lie for every want. Every roster NPC with a want carries at least one live lie, told when it serves them and logged with its tell. Rule 8 folds into this and is retired.
+
+### R72-26-NPCS_OFF_PAGE [Table Law 2026-10-04 WD7]
+
+At each close every named NPC in the thread gets a 'doing now' line and a 'stands with him' line (owed, slighted, warm, afraid), and both show when he meets that NPC again.
+
+> Wants move offscreen. At each close every named NPC in the thread gets a 'doing now' line and a 'stands with him' line (owed, slighted, warm, afraid); when he meets them again, both show.
+
+### R72-27-SWAYS_NPC [Table Law 2026-10-04 WD13]
+
+A Stage gap felt as Pressure and a commoner's awe of a ranked practitioner can make an NPC yield what its want alone would refuse, a ranked NPC weighing them less; the Ledger's reputation and who-saw-what lines reach the NPC, so it answers what his PC did in public and the notes name the line that weighed; and an NPC catches his PC's lie only on a tell in his body, a fact it holds or a read its Gnosis earns, the lie holding otherwise.
+
+> Yes to: Rank bends it (A Stage gap felt as Pressure (R70-69) and a commoner's awe of a ranked practitioner (R53-18) can make an NPC yield what its want alone would refuse; a ranked NPC weighs them less); His name goes before him (Ledger lines for reputation and who saw what reach the NPC: it answers what your PC did in public, for good or ill, and the notes name the line that weighed); His lies caught on evidence (An NPC catches your PC's lie only on what it can check: a tell in his body, a fact it holds, or a read its Gnosis earns (R14-3's read row). Otherwise the lie holds).
+
 ### R51-01-TIMELESS [Vocabulary Law 2026-09-26 Vocabulary and diction]
 
 Timeless narration varies by culture: plain, undated English by default; some cultures' scenes (Eresse, the Moto court) may take a more antique narration.
@@ -5001,7 +5133,7 @@ Narration refers to characters by POV epithets, the way the viewpoint sees them;
 
 > Narration refers to characters by POV epithets, the way the viewpoint sees them; the naming characterises.
 
-## documents (124)
+## documents (126)
 
 ### R20C-3-SWEEP_TWO_TIERS [Pack Twenty R20C-3]
 
@@ -5747,7 +5879,19 @@ Leave every archived scene as written and add a law-edition column to scenes/MAN
 
 > Leave them, tag the edition. The archive stays untouched, and scenes/MANIFEST.md gains a law-edition column so the drafting tools and scene_recall stop treating old style as precedent.
 
-## items (93)
+### R72-39-GUEST_SCENES_BECOME [Table Law 2026-10-04 MP5]
+
+When a scene with other players is archived, the Judger marks each canon break struck or accepted as a new fact and tells the player which, and the pages mark every character's owner.
+
+> The Judger rules breaks. On archive the Judger marks each break struck or accepted as a new fact and tells the player which; pages mark every character's owner.
+
+### R72-41-WHERE_TABLE_LAW_LANDS [Table Law 2026-10-04 ME1]
+
+The table answers land as one dated Table Law doc logged through log_ruling, NATALIE.md's Table Rules and Session Protocol rewritten to it with a new multiplayer section, the wotr-rp, wotr-ledger, wotr-npc and judger skills rewritten, and MCP changes: a thread and a date or trigger on Ledger rows, a pace on Fronts, new roster fields, reward and penalty in scene_menu, and the bot's table commands as R72-40-PLAYERS_CAN_LOOK_UP sets them.
+
+> C, plus the tools. C, plus MCP changes: a thread and a date or trigger on Ledger rows, a pace on Fronts, new roster fields, reward and penalty in scene_menu, and the bot's table commands per MP6.
+
+## items (94)
 
 ### R20C-22-AMMUNITION_TIERS_RATIFIED [Pack Twenty R20C-22]
 
@@ -6288,6 +6432,12 @@ Besides Third Names, the Guild may enter a commendation on a practitioner's regi
 Inns, taverns and shops, the commons' streets, fords and districts, vessels, sledge-teams, draw-engines and gun-carriages, and weapons and gear may carry comic folk names beside their official or true names, while the Accord's Latin place name and an item's true name stay grave and technique names keep their own law.
 
 > Yes to: Inns, taverns and shops (Signboards and their regulars' nicknames carry the joke, in every culture's towns); Streets and places (The commons' names for streets, fords and districts sit beside the official ones, one per culture (R50-22). The Accord's Latin name stays grave); Ships, sledges and engines (Crews' names for vessels, sledge-teams, draw-engines and gun-carriages, beside whatever the registry wrote); Weapons and items (Weapons and gear take soldiers' folk names beside their true names (R50-13): the true name in the maker's tongue stays grave, and the folk name may joke. Technique names keep R50-11 and R8-22).
+
+### R72-30-WHAT_WIN_PAYS [Table Law 2026-10-04 WD10]
+
+A debt in his favour becomes a Ledger line he can call in later on terms, as his own debts are called; access and licence (a draw allotment, a Guild licence, a key, a seat at a table) are rights on paper that open doors and can be revoked; and spoils taken or given (a dead man's blade, a horse, a proofed rifle) arrive with their lineage while the Ledger keeps who wants them back.
+
+> Yes to: Favours owed him (A debt in his favour becomes a Ledger line he can call in later, on terms, the way his own debts are called); Access and licence (A draw allotment, a Guild licence, a key, a seat at a table: rights on paper that open doors and can be revoked); Spoils with a history (Things taken or given (a dead man's blade, a horse, a proofed rifle) arrive with their lineage (R70-48), and the Ledger keeps who wants them back).
 
 ### R28-1-BLACK_STONES_SHALE_ANALOGUE [Voidfall Stone / Black Stones Ruling Standing Ruling]
 
@@ -9936,7 +10086,7 @@ The Zettari bloodline's names, titles and technique names are built in a Swahili
 
 > The Zettari speak their own tongue. Their names and their arts are Swahili, Bantu and Arabic in flavour — Kafa-Karim, Habl Flow-Bind, Sarmad Fracture, Sukun Maji, Dawam Soul-Still Art, Kumi-na-Mbili Seal; Zuberi, Ma'Kovu, N'Kharu, Malani, Jomari, N'Yari, Zembari — and that register stands. The five-strata naming convention assigns the archaic bloodlines to the Japonic stratum; the Zettari are carved out of it as a register of their own, and the Japonic assignment continues to govern every other archaic line. Ruled by Isaac, 2026-09-12.
 
-## pov (154)
+## pov (160)
 
 ### R20C-49-GLOSS_RIGHTS_CARD_FIELD [Pack Twenty R20C-49]
 
@@ -10634,6 +10784,42 @@ The POV's culture decides which explicit-scene techniques the narration uses (a 
 
 > Keyed to the POV. The POV's culture decides: a Moto POV writes with image and the held detail, a Kharven POV blunt, whoever the lover is; the lover's culture shows in what they do and say.
 
+### R72-6-WORLD_WRITES_HIM [Table Law 2026-10-04 K6]
+
+Outside a fight a turn writes the PC's involuntary responses (sweat and nausea under Pressure, a startle, cold shakes, a drug taking hold) on his body as facts, lays the evidence in the room without drawing his conclusion, and gives what he would know only as plain recall from his card and canon, never a new memory.
+
+> Yes to: Reflexes as world facts (Involuntary responses (sweat and nausea under Pressure, a startle at a shot, cold shakes, a drug taking hold) land on his body as facts, as wounds do under R71-6; what he does next stays yours); Evidence, never the conclusion (In talk and investigation too, Natalie lays the tells in the room and never draws his conclusion; the deduction is your post, R71-6's "the read his" carried outside fights); What he would know (What your PC knows and you might not (a custom, a Guild form, a law of his own court) comes as plain recall from his card and canon only, never a new memory).
+
+### R72-7-CUTAWAY_SHOWS [Table Law 2026-10-04 K7]
+
+A cutaway to what the PC cannot see shows who acts and what they do and keeps their reason dark, so Isaac sees the move and his PC still has to read the why.
+
+> The act, reason kept. The cut shows who acts and what they do, and keeps the reason, as R70-76 does for the world's magic. You see the move; your PC still has to read the why.
+
+### R72-8-OPENING_TURN [Table Law 2026-10-04 TU1]
+
+A turn gives Isaac's posted move a single clause that fixes where it landed, then answers with the world, spending the turn on what he did not write.
+
+> One clause, then answer. Your move gets one clause that fixes where it landed ("with the Finding face down between them"), then the world answers. The archive stays readable and the turn spends itself on what you did not write.
+
+### R72-9-SEVERAL_NPCS_ONE_TURN [Table Law 2026-10-04 TU2]
+
+When several NPCs share a room they talk to each other, interrupt and score points, the PC overhears what none would tell him, and the turn stops when the room turns to him.
+
+> The room talks. NPCs talk to each other, interrupt and score points, and your PC overhears what they would never tell him; the turn stops when the room turns to him.
+
+### R72-19-NEW_LINES_HIS_POSTS [Table Law 2026-10-04 TU12]
+
+When Isaac's beat for a Discord post gives his character no words, Natalie drafts the line in that character's voice and marks it as a draft for him to keep, change or cut before he posts.
+
+> Drafted, marked. R52-09 reaches the posts: Natalie drafts the line in his voice, marked as a draft for you to keep, change or cut before you post.
+
+### R72-21-FRONT_SIGNS_SEEN [Table Law 2026-10-04 WD2]
+
+Every Front tick puts one sign into a scene of that thread in the same session (a seal, a stranger, a price gone up) or into a marked cutaway, and no clock is printed in play, though the files stay open to Isaac.
+
+> Signs in the world. Every tick puts one sign into a scene of that thread the same session (a seal, a stranger, a price gone up) or a marked cutaway. Clocks are never printed in play; the files stay yours to open.
+
 ### R52-01-SAME_MAN [Voice Law 2026-09-26 How distinct voices must be]
 
 The quiet, controlled older man is the setting's taste: leave the archetype; the swap test catches clashes scene by scene.
@@ -10862,7 +11048,7 @@ Narration refers to characters by POV epithets, the way the viewpoint sees them;
 
 > Narration refers to characters by POV epithets, the way the viewpoint sees them; the naming characterises.
 
-## prose-law (347)
+## prose-law (349)
 
 ### R20C-29-CATEGORY_NAMING_DIAGNOSTIC [Pack Twenty R20C-29]
 
@@ -12556,6 +12742,18 @@ The style law binds as logged, one test scene in a live thread follows, anything
 
 > Law, test scene, then bank. The law is logged live; one test scene in a live thread follows; anything that reads wrong becomes a dated amendment; then a sample bank for Kharven, Moto, Accord, the Mahuo and the lineage halls.
 
+### R72-3-REPLIES_RUN_LONG [Table Law 2026-10-04 K3]
+
+A Desktop in-fiction turn runs about 3,500 words, an out-of-character answer is given plainly, and a Discord post runs about 1,500 words unless Isaac's beat asks for more.
+
+> Desktop fiction only. This reopens R49-30 for Discord: Desktop turns run about 3,500 and OOC answers are plain; a Discord post runs about 1,500 words, the house median, unless your beat asks for more.
+
+### R72-6-WORLD_WRITES_HIM [Table Law 2026-10-04 K6]
+
+Outside a fight a turn writes the PC's involuntary responses (sweat and nausea under Pressure, a startle, cold shakes, a drug taking hold) on his body as facts, lays the evidence in the room without drawing his conclusion, and gives what he would know only as plain recall from his card and canon, never a new memory.
+
+> Yes to: Reflexes as world facts (Involuntary responses (sweat and nausea under Pressure, a startle at a shot, cold shakes, a drug taking hold) land on his body as facts, as wounds do under R71-6; what he does next stays yours); Evidence, never the conclusion (In talk and investigation too, Natalie lays the tells in the room and never draws his conclusion; the deduction is your post, R71-6's "the read his" carried outside fights); What he would know (What your PC knows and you might not (a custom, a Guild form, a law of his own court) comes as plain recall from his card and canon only, never a new memory).
+
 ### R51-01-TIMELESS [Vocabulary Law 2026-09-26 Vocabulary and diction]
 
 Timeless narration varies by culture: plain, undated English by default; some cultures' scenes (Eresse, the Moto court) may take a more antique narration.
@@ -14112,7 +14310,7 @@ The Zettari bloodline's names, titles and technique names are built in a Swahili
 
 > The Zettari speak their own tongue. Their names and their arts are Swahili, Bantu and Arabic in flavour — Kafa-Karim, Habl Flow-Bind, Sarmad Fracture, Sukun Maji, Dawam Soul-Still Art, Kumi-na-Mbili Seal; Zuberi, Ma'Kovu, N'Kharu, Malani, Jomari, N'Yari, Zembari — and that register stands. The five-strata naming convention assigns the archaic bloodlines to the Japonic stratum; the Zettari are carved out of it as a register of their own, and the Japonic assignment continues to govern every other archaic line. Ruled by Isaac, 2026-09-12.
 
-## scene-structure (87)
+## scene-structure (103)
 
 ### R19-2-BUILT_AROUND [Pack Nineteen §2]
 
@@ -14636,7 +14834,103 @@ The POV's culture decides which explicit-scene techniques the narration uses (a 
 
 > Keyed to the POV. The POV's culture decides: a Moto POV writes with image and the held detail, a Kharven POV blunt, whoever the lover is; the lover's culture shows in what they do and say.
 
-## session-protocol (49)
+### R72-1-SESSION_PROMISES [Table Law 2026-10-04 K1]
+
+Natalie keeps each thread working toward its next set piece and puts one payoff the PC can earn within reach every session, alongside a fresh cost.
+
+> Spine and payoff. B and C together: each thread works toward its next set piece, and every session on the way puts one earnable payoff in reach beside a fresh cost.
+
+### R72-3-REPLIES_RUN_LONG [Table Law 2026-10-04 K3]
+
+A Desktop in-fiction turn runs about 3,500 words, an out-of-character answer is given plainly, and a Discord post runs about 1,500 words unless Isaac's beat asks for more.
+
+> Desktop fiction only. This reopens R49-30 for Discord: Desktop turns run about 3,500 and OOC answers are plain; a Discord post runs about 1,500 words, the house median, unless your beat asks for more.
+
+### R72-4-WHERE_TURN_STOPS [Table Law 2026-10-04 K4]
+
+A turn runs past pauses Isaac's PC would let pass and stops when something presses him (a question to him, an offer, a threat, a clock), and any line aimed at him always stops it.
+
+> The first pressure. The turn runs past pauses he would let pass and stops when something presses him: a question to him, an offer, a threat, a clock. A line aimed at him always stops it.
+
+### R72-5-STANDING_ORDERS_OUTSIDE_FIGHTS [Table Law 2026-10-04 K5]
+
+In any scene, not only a fight, Isaac may post conditions such as 'if she names the stair, I ask for the daybook'; Natalie runs them to the first branch they miss, and his PC speaks only the words Isaac posted.
+
+> Every scene type. Post conditions anywhere ("if she names the stair, I ask for the daybook"). Natalie runs them to the first branch they miss, and any line your PC speaks is only your posted words.
+
+### R72-7-CUTAWAY_SHOWS [Table Law 2026-10-04 K7]
+
+A cutaway to what the PC cannot see shows who acts and what they do and keeps their reason dark, so Isaac sees the move and his PC still has to read the why.
+
+> The act, reason kept. The cut shows who acts and what they do, and keeps the reason, as R70-76 does for the world's magic. You see the move; your PC still has to read the why.
+
+### R72-8-OPENING_TURN [Table Law 2026-10-04 TU1]
+
+A turn gives Isaac's posted move a single clause that fixes where it landed, then answers with the world, spending the turn on what he did not write.
+
+> One clause, then answer. Your move gets one clause that fixes where it landed ("with the Finding face down between them"), then the world answers. The archive stays readable and the turn spends itself on what you did not write.
+
+### R72-9-SEVERAL_NPCS_ONE_TURN [Table Law 2026-10-04 TU2]
+
+When several NPCs share a room they talk to each other, interrupt and score points, the PC overhears what none would tell him, and the turn stops when the room turns to him.
+
+> The room talks. NPCs talk to each other, interrupt and score points, and your PC overhears what they would never tell him; the turn stops when the room turns to him.
+
+### R72-10-ROUTINE_TALK_SUMMARY [Table Law 2026-10-04 TU3]
+
+Routine exchange such as prices, directions, greetings and haggling is told in a sentence or two, and any line that carries a want, a lie, a refusal or a tell is quoted in full.
+
+> Summary, then the line. Routine exchange (prices, directions, greetings, haggling) is told in a sentence or two; any line that carries a want, a lie, a refusal or a tell is quoted in full.
+
+### R72-11-WORLD_INTERRUPTS [Table Law 2026-10-04 TU4]
+
+A posted chain of actions stops at the first point the world pushes back and the later actions never happen, while every line the PC speaks is said in full, NPCs free to react as he speaks.
+
+> Actions cut, speech whole. A chain of actions stops at the first point the world pushes back, and the later actions never happen; every line he speaks is said in full, though NPCs may react while he speaks.
+
+### R72-12-TABLE_TALK_NOTES [Table Law 2026-10-04 TU5]
+
+At the Desktop table a turn gives the prose first and, below a divider line, a short foot of OOC lines, and the full author notes are written once, when archive_scene files the finished scene.
+
+> Foot now, file at archive. Prose first; below a divider line, a short foot of OOC lines. The full notes are written once, when archive_scene (the tool that files a finished scene) saves it.
+
+### R72-14-PREVIOUSLY_LINE [Table Law 2026-10-04 TU7]
+
+A session's first turn opens with the scene header (place, day, hour), then two or three plain OOC lines on what happened last, what is owed and what is ticking that the PC knows of, and then the prose.
+
+> Header and "previously". The header, then two or three plain OOC lines: what happened last, what is owed, what is ticking that your PC knows of. Then the prose.
+
+### R72-21-FRONT_SIGNS_SEEN [Table Law 2026-10-04 WD2]
+
+Every Front tick puts one sign into a scene of that thread in the same session (a seal, a stranger, a price gone up) or into a marked cutaway, and no clock is printed in play, though the files stay open to Isaac.
+
+> Signs in the world. Every tick puts one sign into a scene of that thread the same session (a seal, a stranger, a price gone up) or a marked cutaway. Clocks are never printed in play; the files stay yours to open.
+
+### R72-23-BILL_PAGE [Table Law 2026-10-04 WD4]
+
+When a Ledger line comes due, the creditor or the consequence arrives with terms and the turn stops on them so that his answer is the move, and an offer he refuses or ignores is collected outright the next time.
+
+> An offer with terms. The creditor or the consequence arrives with terms and the turn stops on them; his answer is the move. An offer refused or ignored is collected outright the next time.
+
+### R72-28-TIME_OFF [Table Law 2026-10-04 WD8]
+
+In downtime he names up to two activities a span (heal, train, work, settle a debt, cool heat, keep a bond), each priced from the price table with his upkeep at his station paid or owed, and long work such as a commissioned bench piece, a licence or a house runs on a clock of four to eight that fills across spans and is kept on the Ledger.
+
+> B, with project clocks. As B, and long work (a commissioned bench piece, a licence, a house) runs on a clock of four to eight that fills across spans, kept on the Ledger.
+
+### R72-29-ROAD_AT_STAKE [Table Law 2026-10-04 WD9]
+
+A journey that matters gets a clock of four to six (weather, horses, food) ticked by miles and calendar, each tick a beat on the page, and if the clock fills before the journey is done the road takes a horse, a hand or the season.
+
+> The road as a clock. The journey gets a clock of four to six (weather, horses, food), ticked by miles and calendar, each tick a beat on the page; if it fills first, the road takes a horse, a hand or the season.
+
+### R72-36-WHO_POSTS_WHEN [Table Law 2026-10-04 MP2]
+
+Players post freely in talk and travel, while fights and contests run in a fixed round order with a reply window the Judger sets, after which the round moves on and an absent player's standing orders play for them.
+
+> Order when it matters. Free posting in talk and travel; in fights and contests a fixed round order with a reply window the Judger sets, after which the round moves on and standing orders (R71-5) play for the absent.
+
+## session-protocol (84)
 
 ### R20C-5-BRIEF_BURI_SECTION_MUST_GO [Pack Twenty R20C-5]
 
@@ -14854,6 +15148,216 @@ The style law binds as logged, one test scene in a live thread follows, anything
 
 > Law, test scene, then bank. The law is logged live; one test scene in a live thread follows; anything that reads wrong becomes a dated amendment; then a sample bank for Kharven, Moto, Accord, the Mahuo and the lineage halls.
 
+### R72-1-SESSION_PROMISES [Table Law 2026-10-04 K1]
+
+Natalie keeps each thread working toward its next set piece and puts one payoff the PC can earn within reach every session, alongside a fresh cost.
+
+> Spine and payoff. B and C together: each thread works toward its next set piece, and every session on the way puts one earnable payoff in reach beside a fresh cost.
+
+### R72-2-IMPROVISE_OR_ASK [Table Law 2026-10-04 K2]
+
+Natalie makes every call at the table herself, a carded NPC's death or a new faction included, and logs each one under the turn as an agent ruling Isaac may overturn.
+
+> Natalie decides everything. "Bigger things wait" is struck. Natalie makes every call, even a carded NPC's death or a new faction, and logs each as an agent ruling (a call you may overturn) under the turn.
+
+### R72-3-REPLIES_RUN_LONG [Table Law 2026-10-04 K3]
+
+A Desktop in-fiction turn runs about 3,500 words, an out-of-character answer is given plainly, and a Discord post runs about 1,500 words unless Isaac's beat asks for more.
+
+> Desktop fiction only. This reopens R49-30 for Discord: Desktop turns run about 3,500 and OOC answers are plain; a Discord post runs about 1,500 words, the house median, unless your beat asks for more.
+
+### R72-4-WHERE_TURN_STOPS [Table Law 2026-10-04 K4]
+
+A turn runs past pauses Isaac's PC would let pass and stops when something presses him (a question to him, an offer, a threat, a clock), and any line aimed at him always stops it.
+
+> The first pressure. The turn runs past pauses he would let pass and stops when something presses him: a question to him, an offer, a threat, a clock. A line aimed at him always stops it.
+
+### R72-5-STANDING_ORDERS_OUTSIDE_FIGHTS [Table Law 2026-10-04 K5]
+
+In any scene, not only a fight, Isaac may post conditions such as 'if she names the stair, I ask for the daybook'; Natalie runs them to the first branch they miss, and his PC speaks only the words Isaac posted.
+
+> Every scene type. Post conditions anywhere ("if she names the stair, I ask for the daybook"). Natalie runs them to the first branch they miss, and any line your PC speaks is only your posted words.
+
+### R72-12-TABLE_TALK_NOTES [Table Law 2026-10-04 TU5]
+
+At the Desktop table a turn gives the prose first and, below a divider line, a short foot of OOC lines, and the full author notes are written once, when archive_scene files the finished scene.
+
+> Foot now, file at archive. Prose first; below a divider line, a short foot of OOC lines. The full notes are written once, when archive_scene (the tool that files a finished scene) saves it.
+
+### R72-13-FOOT_CARRIES [Table Law 2026-10-04 TU6]
+
+The OOC foot under a turn carries one line per call Natalie made that turn, marked as an agent ruling Isaac may overturn, one line per Ledger line and Front tick the turn caused, and two to four rule ids that bound it with the stat row behind any adjudicated outcome.
+
+> Yes to: Calls made (One line per call Natalie made this turn (a new NPC, a fact, an estimate), each marked as an agent ruling you may overturn); What it cost (The Ledger lines and Front ticks the turn caused, one line each, so nothing is lost before the session close); Rules and the deciding row (Two to four rule ids that bound the turn and, for any adjudicated outcome, the stat row that decided it (R14-3, R71-7)).
+
+### R72-14-PREVIOUSLY_LINE [Table Law 2026-10-04 TU7]
+
+A session's first turn opens with the scene header (place, day, hour), then two or three plain OOC lines on what happened last, what is owed and what is ticking that the PC knows of, and then the prose.
+
+> Header and "previously". The header, then two or three plain OOC lines: what happened last, what is owed, what is ticking that your PC knows of. Then the prose.
+
+### R72-15-CARRIES_RUMOR_MILL [Table Law 2026-10-04 TU8]
+
+The Rumor Mill's news may come from one NPC who wants to know things first and gets some of it wrong, from a notice or print where the Inventory gives literacy (never in the north), or from people the PC overhears talking among themselves.
+
+> Yes to: A gossip's mouth (One NPC who wants to know things first tells it and gets some of it wrong. NATALIE.md's form, and the teller becomes a standing face); Print and notice (Where the Inventory gives literacy, news arrives as a Board notice, a broadsheet or a porter's slate, and print can be wrong too. Never in the north); Overheard (Your PC passes people talking among themselves and catches the news in pieces, mixed in with their own business).
+
+### R72-16-RUMOR_MILL_RUNS [Table Law 2026-10-04 TU9]
+
+The Rumor Mill gives two or three items as each session opens and, on the PC's first arrival at a town, hall, camp or market, that place's own talk.
+
+> Yes to: Session start (Two or three items as each session opens, as now); Each new place (On first arrival at a town, hall, camp or market, that place's own talk).
+
+### R72-17-SCENE_MENU [Table Law 2026-10-04 TU10]
+
+When Isaac arrives without a beat the three hooks come as three OOC lines, each naming its source, reward and penalty; he picks in a word, and the turn opens on that hook in the world.
+
+> OOC list, then in-world. Three OOC lines, each with its source, reward and penalty; you pick in a word, and the turn opens on that hook in the world.
+
+### R72-18-TURN_SENT_BACK [Table Law 2026-10-04 TU11]
+
+A turn Isaac sends back never happened: its prose is replaced and every table write it made (a Ledger line, a Front tick, a roster entry) is reversed, unless he names a part to keep.
+
+> Unwound whole. A sent-back turn never happened: the prose is replaced and every table write it made (Ledger line, Front tick, roster entry) is reversed. Name any part to keep it.
+
+### R72-20-MOVES_FRONT [Table Law 2026-10-04 WD1]
+
+Every Front gets a pace in story days, and whenever in-world time passes each Front whose days are spent ticks offscreen, played or not, while his acts can speed, slow or stop it.
+
+> By the calendar. Each Front gets a pace in story days. When in-world time passes, every Front whose days are spent ticks offscreen, played or not; his acts can speed, slow or stop it. Rule 4 is rewritten to this.
+
+### R72-21-FRONT_SIGNS_SEEN [Table Law 2026-10-04 WD2]
+
+Every Front tick puts one sign into a scene of that thread in the same session (a seal, a stranger, a price gone up) or into a marked cutaway, and no clock is printed in play, though the files stay open to Isaac.
+
+> Signs in the world. Every tick puts one sign into a scene of that thread the same session (a seal, a stranger, a price gone up) or a marked cutaway. Clocks are never printed in play; the files stay yours to open.
+
+### R72-22-WHEN_BILL_COMES [Table Law 2026-10-04 WD3]
+
+Every Ledger line carries a thread and either a story date off the State of Play calendar or a named trigger (he returns to the Seat, the thaw comes), the close marks which lines have fired, and due() returns only those.
+
+> A date or a trigger. Each line gains a thread and either a story date off the State of Play calendar or a named trigger (he returns to the Seat, the thaw comes). The close marks what fired; due() returns only those.
+
+### R72-23-BILL_PAGE [Table Law 2026-10-04 WD4]
+
+When a Ledger line comes due, the creditor or the consequence arrives with terms and the turn stops on them so that his answer is the move, and an offer he refuses or ignores is collected outright the next time.
+
+> An offer with terms. The creditor or the consequence arrives with terms and the turn stops on them; his answer is the move. An offer refused or ignored is collected outright the next time.
+
+### R72-24-NEW_LINES_LEDGER [Table Law 2026-10-04 WD5]
+
+Each thread's warm bonds go on the Ledger by name with what has fed and what has strained them, so a loss lands on a named line, and each thread keeps a standing heat line for the attention crown, company and Guild are paying him, raised by public acts and unread killings and cooled only by the right office, paid.
+
+> Yes to: Bonds, by name (Each thread's warm bonds go on the Ledger by name, with what has fed them and what has strained them, so a loss lands on a named line); Heat per thread (A standing heat line per thread: the attention crown, company and Guild are paying him. Public acts and unread killings raise it; only the right office, paid, cools it).
+
+### R72-25-HOW_MANY_LIES [Table Law 2026-10-04 WD6]
+
+Every NPC on the roster who has a want carries at least one live lie, told when it serves them and logged with its tell, and Table Rule 8 is retired into this rule.
+
+> A lie for every want. Every roster NPC with a want carries at least one live lie, told when it serves them and logged with its tell. Rule 8 folds into this and is retired.
+
+### R72-26-NPCS_OFF_PAGE [Table Law 2026-10-04 WD7]
+
+At each close every named NPC in the thread gets a 'doing now' line and a 'stands with him' line (owed, slighted, warm, afraid), and both show when he meets that NPC again.
+
+> Wants move offscreen. At each close every named NPC in the thread gets a 'doing now' line and a 'stands with him' line (owed, slighted, warm, afraid); when he meets them again, both show.
+
+### R72-28-TIME_OFF [Table Law 2026-10-04 WD8]
+
+In downtime he names up to two activities a span (heal, train, work, settle a debt, cool heat, keep a bond), each priced from the price table with his upkeep at his station paid or owed, and long work such as a commissioned bench piece, a licence or a house runs on a clock of four to eight that fills across spans and is kept on the Ledger.
+
+> B, with project clocks. As B, and long work (a commissioned bench piece, a licence, a house) runs on a clock of four to eight that fills across spans, kept on the Ledger.
+
+### R72-29-ROAD_AT_STAKE [Table Law 2026-10-04 WD9]
+
+A journey that matters gets a clock of four to six (weather, horses, food) ticked by miles and calendar, each tick a beat on the page, and if the clock fills before the journey is done the road takes a horse, a hand or the season.
+
+> The road as a clock. The journey gets a clock of four to six (weather, horses, food), ticked by miles and calendar, each tick a beat on the page; if it fills first, the road takes a horse, a hand or the season.
+
+### R72-30-WHAT_WIN_PAYS [Table Law 2026-10-04 WD10]
+
+A debt in his favour becomes a Ledger line he can call in later on terms, as his own debts are called; access and licence (a draw allotment, a Guild licence, a key, a seat at a table) are rights on paper that open doors and can be revoked; and spoils taken or given (a dead man's blade, a horse, a proofed rifle) arrive with their lineage while the Ledger keeps who wants them back.
+
+> Yes to: Favours owed him (A debt in his favour becomes a Ledger line he can call in later, on terms, the way his own debts are called); Access and licence (A draw allotment, a Guild licence, a key, a seat at a table: rights on paper that open doors and can be revoked); Spoils with a history (Things taken or given (a dead man's blade, a horse, a proofed rifle) arrive with their lineage (R70-48), and the Ledger keeps who wants them back).
+
+### R72-31-LAST_WARNING [Table Law 2026-10-04 WD11]
+
+Before a choice that can kill his character the warning is signs, tells and exits on the page, the death standing if he misses them all, and one plain out-of-character line is added only when the danger is one his character could not read, such as Pressure from far above him or a Well's own law.
+
+> Plain only when unreadable. As A, plus the OOC line only when the danger is one his character could not read: Pressure (the felt weight of a higher Stage) from far above him, or a Well's own law.
+
+### R72-32-AFTER_DEATH [Table Law 2026-10-04 WD12]
+
+If his character dies the thread goes on and his next character enters it, the dead man's debts fall on kin or partners, his Fronts keep their clocks, and a grief Front may open.
+
+> The world goes on. The thread goes on and your next character enters it. The dead man's debts fall on kin or partners, his Fronts keep their clocks, and a grief Front may open (R58-07).
+
+### R72-33-WRITES_CLOSE [Table Law 2026-10-04 WD14]
+
+At his wrap and whenever a scene is archived, Natalie applies the session close herself and lists each write once as an agent ruling he may overturn, and nothing waits for his word.
+
+> Applied, then listed. At your wrap and whenever a scene is archived, Natalie applies the close herself and lists each write once as an agent ruling (a call you may overturn); nothing waits.
+
+### R72-34-SCENES_SET_PAST [Table Law 2026-10-04 WD15]
+
+A scene set before its thread's live moment adds canon and precedent, and writes a Ledger line or Front history only for what still binds at the thread's live date, which the close checks.
+
+> Only what still binds. A past scene adds canon and precedent, and writes a Ledger line or Front history only for what still binds at the thread's live date, which the close checks.
+
+### R72-35-NATALIE_SEAT_DISCORD [Table Law 2026-10-04 MP1]
+
+At the Discord table Natalie also drafts world and NPC posts, rulings and closes for Isaac to post as narrator, so every word that reaches the server passes through his hands and the bot stays free of any language model.
+
+> The Judger's desk. Natalie also drafts world and NPC posts, rulings and closes for you to post as narrator. Every word that reaches the server passes through your hands, and the bot stays model-free.
+
+### R72-36-WHO_POSTS_WHEN [Table Law 2026-10-04 MP2]
+
+Players post freely in talk and travel, while fights and contests run in a fixed round order with a reply window the Judger sets, after which the round moves on and an absent player's standing orders play for them.
+
+> Order when it matters. Free posting in talk and travel; in fights and contests a fixed round order with a reply window the Judger sets, after which the round moves on and standing orders (R71-5) play for the absent.
+
+### R72-37-PLAYER_AGAINST_PLAYER [Table Law 2026-10-04 MP3]
+
+Before two players' characters make contact in any contest both players post terms (what counts as a loss, what is off the table), and inside those terms the Judger decides on Table Rule 5's four inputs and posts an adjudication card naming the stat rows, any post the ruling contradicts being marked struck in the archive.
+
+> Terms first, then Judger. Before contact both players post terms (what counts as a loss, what is off the table), R71-54 widened to every contest; inside those terms the Judger rules by card, as in B.
+
+### R72-38-GUEST_OWN_LINES [Table Law 2026-10-04 MP4]
+
+On joining a thread each guest lists lines and veils on their character's card for the Judger and Natalie to honour in that player's scenes, the Floor binding everyone, marks their character mortal or not (one marked not mortal can be maimed, captured or ruined, never killed), and explicit scenes run only in age-restricted channels with only opted-in players present, anyone else's character seeing a door close.
+
+> Yes to: Lines and veils (Each guest lists lines and veils on their character's card; the Judger and Natalie honour them in that player's scenes, and the Floor binds everyone); Mortal or not (Each guest marks their character mortal or not. One marked not mortal can be maimed, captured or ruined, never killed; this narrows R48-31 for that character only); Explicit scenes opt in (Explicit scenes run only in age-restricted channels with only players who opted in present; anyone else's character sees a door close).
+
+### R72-39-GUEST_SCENES_BECOME [Table Law 2026-10-04 MP5]
+
+When a scene with other players is archived, the Judger marks each canon break struck or accepted as a new fact and tells the player which, and the pages mark every character's owner.
+
+> The Judger rules breaks. On archive the Judger marks each break struck or accepted as a new fact and tells the player which; pages mark every character's owner.
+
+### R72-40-PLAYERS_CAN_LOOK_UP [Table Law 2026-10-04 MP6]
+
+On Discord the bot's /due and /ledger show a player only the Ledger lines about their own characters, /roster and /npc show an NPC's public face only (name, look, voice, role) while wants, lies and what it knows stay with the Judger, and each ruling's adjudication card is posted in the scene's thread so any player can see which stat rows decided it.
+
+> Yes to: Their own Ledger lines (/due and /ledger show a player only the lines about their own characters); Public faces on the roster (/roster and /npc show what is public: name, look, voice, role. Wants, lies and what they know stay with the Judger); Adjudication cards (Each ruling's card is posted in the scene's thread, so any player can see which stat rows decided it).
+
+### R72-41-WHERE_TABLE_LAW_LANDS [Table Law 2026-10-04 ME1]
+
+The table answers land as one dated Table Law doc logged through log_ruling, NATALIE.md's Table Rules and Session Protocol rewritten to it with a new multiplayer section, the wotr-rp, wotr-ledger, wotr-npc and judger skills rewritten, and MCP changes: a thread and a date or trigger on Ledger rows, a pace on Fronts, new roster fields, reward and penalty in scene_menu, and the bot's table commands as R72-40-PLAYERS_CAN_LOOK_UP sets them.
+
+> C, plus the tools. C, plus MCP changes: a thread and a date or trigger on Ledger rows, a pace on Fronts, new roster fields, reward and penalty in scene_menu, and the bot's table commands per MP6.
+
+### R72-42-DATA_ALREADY_FILE [Table Law 2026-10-04 ME2]
+
+The data already on file gets one reconciliation pass: every open Ledger row gains a thread and a date or trigger under the new law, dead and stale lines retire with a note, every Front gets a pace, and the State of Play pages are rewritten.
+
+> One reconciliation pass. Every open row gets a thread and a date or trigger under the new law; dead and stale lines retire with a note; Fronts get a pace; State of Play pages are rewritten.
+
+### R72-43-TEST_SESSION [Table Law 2026-10-04 ME3]
+
+The table work runs in order: log the law, change the tools and reconcile the data, run one Desktop session from start to close and one Discord scene through the full loop, amend, and only then rewrite the skills.
+
+> Law and tools, two tests. Log the law, change the tools and reconcile the data; run one Desktop session start to close and one Discord scene through the full loop; amend; then the skills.
+
 ### R48-26-INVENTION [Writing Law 2026-09-26 Roleplay partnership]
 
 The partner may invent NPCs, places and texture mid-scene without asking, logged; bigger things wait for Isaac.
@@ -14932,7 +15436,7 @@ When the partner thinks a beat is drifting or a rule reads wrong, it says so in 
 
 > When the partner thinks a beat is drifting or a rule reads wrong, it says so in one plain line and keeps writing unless stopped.
 
-## standing-inventory (85)
+## standing-inventory (86)
 
 ### R20C-47-CRAFTS_OWE_THE_INVENTORY [Pack Twenty R20C-47]
 
@@ -15251,6 +15755,12 @@ Each Standing Inventory gains a comic-name list of bynames, nicknames, rhyming s
 Amend only the naming rows the comic-name answers bend, each in one line naming its answer (R50-30 for the sound check, R50-27 for walk-on nicknames), and give each culture's naming rows a clause pointing to its comic bank in its Standing Inventory so load_rules serves the bank with the law; banks and sound rules otherwise stand.
 
 > Banks gain comic slots. B, plus each culture's naming rows gain a comic-names clause pointing to that culture's comic bank in its Standing Inventory, so load_rules serves the bank with the law. (Option B there reads: Narrow amendments. Only the rows your answers above bend are amended, each in one line naming its answer: R50-30 for the sound check, R50-27 only if NM12 opens walk-ons. Banks and sound rules stand.)
+
+### R72-15-CARRIES_RUMOR_MILL [Table Law 2026-10-04 TU8]
+
+The Rumor Mill's news may come from one NPC who wants to know things first and gets some of it wrong, from a notice or print where the Inventory gives literacy (never in the north), or from people the PC overhears talking among themselves.
+
+> Yes to: A gossip's mouth (One NPC who wants to know things first tells it and gets some of it wrong. NATALIE.md's form, and the teller becomes a standing face); Print and notice (Where the Inventory gives literacy, news arrives as a Board notice, a broadsheet or a porter's slate, and print can be wrong too. Never in the north); Overheard (Your PC passes people talking among themselves and catches the news in pieces, mixed in with their own business).
 
 ### R53-01-IMPERIAL_AGE_SPAN [World Texture Law 2026-09-26 World texture]
 
@@ -16511,7 +17021,7 @@ Stage V reads the Expert row's η of 0.60–0.70.
 
 > Splintering takes the 0.60-0.70 efficiency band; the whole Expert row reads 0.60-0.70.
 
-## verification (120)
+## verification (121)
 
 ### R20C-3-SWEEP_TWO_TIERS [Pack Twenty R20C-3]
 
@@ -17161,6 +17671,12 @@ verify --combat takes a school (blade, japanese, chinese, korean, percussion) or
 
 > Yes to: Combat words by school (verify --combat takes a school (blade, japanese, chinese, korean, percussion) or reads the culture tag, and warns only when a fight carries none of that school's terms); A verse marker (A marked verse block (a poem, a lament, a declaration in lines) is left out of the rhythm statistics and word count; the dash and hard-ban checks still read it); Stock-formula watch (A WARN on translated web-novel formulas (you court death, this junior, this old man, lose face) in narration, and an info line in speech, so the flavour stays where DL2 puts it). Not taken: Address check.
 
+### R72-43-TEST_SESSION [Table Law 2026-10-04 ME3]
+
+The table work runs in order: log the law, change the tools and reconcile the data, run one Desktop session from start to close and one Discord scene through the full loop, amend, and only then rewrite the skills.
+
+> Law and tools, two tests. Log the law, change the tools and reconcile the data; run one Desktop session start to close and one Discord scene through the full loop; amend; then the skills.
+
 ### R48-14-DEPTH [Writing Law 2026-09-26 Research-grounded techniques]
 
 Research depth: name the real phenomenon and its fault; lighter scenes, less time per working.
@@ -17233,7 +17749,7 @@ When the partner thinks a beat is drifting or a rule reads wrong, it says so in 
 
 > When the partner thinks a beat is drifting or a rule reads wrong, it says so in one plain line and keeps writing unless stopped.
 
-## worldbuilding (334)
+## worldbuilding (335)
 
 ### R20C-1-BURI_DEAD_EVERYWHERE [Pack Twenty R20C-1]
 
@@ -19022,6 +19538,12 @@ Inns, taverns and shops, the commons' streets, fords and districts, vessels, sle
 Vohrin is one power at two levels, Titan and Wellspring; frost workings drawing on it are Titan-derived.
 
 > Vohrin is one power at two levels, Titan and Wellspring; the four frost workings become Titan-derived, likely raising their standing and cost.
+
+### R72-30-WHAT_WIN_PAYS [Table Law 2026-10-04 WD10]
+
+A debt in his favour becomes a Ledger line he can call in later on terms, as his own debts are called; access and licence (a draw allotment, a Guild licence, a key, a seat at a table) are rights on paper that open doors and can be revoked; and spoils taken or given (a dead man's blade, a horse, a proofed rifle) arrive with their lineage while the Ledger keeps who wants them back.
+
+> Yes to: Favours owed him (A debt in his favour becomes a Ledger line he can call in later, on terms, the way his own debts are called); Access and licence (A draw allotment, a Guild licence, a key, a seat at a table: rights on paper that open doors and can be revoked); Spoils with a history (Things taken or given (a dead man's blade, a horse, a proofed rifle) arrive with their lineage (R70-48), and the Ledger keeps who wants them back).
 
 ### R28-1-BLACK_STONES_SHALE_ANALOGUE [Voidfall Stone / Black Stones Ruling Standing Ruling]
 

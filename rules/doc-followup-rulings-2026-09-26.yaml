@@ -153,7 +153,10 @@ rules:
   source:
     file: ''
     lines: null
-  notes: ''
+  notes: 'Partly amended by R72-20-MOVES_FRONT (table law 2026-10-04): like every Front, the grief Front
+    gets a pace in story days and ticks offscreen when its days are spent, played or not, and his acts
+    can speed, slow or stop it; the answer does not say how ''who blames whom'' bears on that pace. The
+    grief Front stands.'
 - id: R58-09-BARA_IS_A_CHARACTER
   pack: Follow-up Rulings 2026-09-26
   pack_number: null

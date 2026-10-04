@@ -270,7 +270,9 @@ rules:
     file: ''
     lines: null
   notes: 'Question c09: In a written scene (not a roleplay turn) you give a beat without words: "Sodoku
-    tells Osric the road is closed." May the partner write the words he says?'
+    tells Osric the road is closed." May the partner write the words he says? Extended by R72-19-NEW_LINES_HIS_POSTS
+    (table law 2026-10-04): the drafted, marked line now reaches the Discord posts Natalie writes from
+    Isaac''s beat, not only written scenes; he keeps, changes or cuts it before he posts.'
 - id: R52-10-CROSSOVER
   pack: Voice Law 2026-09-26
   pack_number: null

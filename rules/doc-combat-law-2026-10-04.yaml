@@ -196,7 +196,13 @@ rules:
     with R49-29-TURN_FILL: in a fight run on standing orders, the stop at the next decision falls on the
     threat at the first branch the orders do not cover. R48-35-USES stands: the conditions are Isaac''s
     own uses, the NPC''s answers Natalie''s. R47-11-TIME_AND_ENERGY (the six-second turn) and R48-28-TURN_LENGTH
-    are unchanged. What the run may write of his fighter is R71-6-PLAYER_FIGHTER_PAGE.'
+    are unchanged. What the run may write of his fighter is R71-6-PLAYER_FIGHTER_PAGE. Extended by R72-5-STANDING_ORDERS_OUTSIDE_FIGHTS
+    (table law 2026-10-04): standing orders now run in every scene type, talk, travel and investigation
+    included; Natalie runs them to the first branch they miss, and any line the PC speaks is only Isaac''s
+    posted words. Partly amended by R72-36-WHO_POSTS_WHEN (table law 2026-10-04): at the Discord table,
+    in fights and contests run in a fixed round order, a player who misses the reply window the Judger
+    sets has their posted standing orders play for them and the round moves on; free posting holds in
+    talk and travel.'
 - id: R71-6-PLAYER_FIGHTER_PAGE
   pack: Combat Law 2026-10-04
   pack_number: null
@@ -236,13 +242,16 @@ rules:
   source:
     file: ''
     lines: null
-  notes: K9, all four options (digest). Partly amends R49-01-WHOSE_HEAD in a fight (the read's conclusion,
-    how he bears a wound and the inside of his cost are the player's), R13-4-COMBAT_FLOOR for a player's
-    fighter (item 3's deduction is his post; item 7 shows only outwardly, the figures going to R14-7-STAT_LEDGER_CONTENTS's
-    Stat Ledger) and R48-37-COST_SHOWN (only the cost others could see reaches the page). From an NPC's
+  notes: 'K9, all four options (digest). Partly amends R49-01-WHOSE_HEAD in a fight (the read''s conclusion,
+    how he bears a wound and the inside of his cost are the player''s), R13-4-COMBAT_FLOOR for a player''s
+    fighter (item 3''s deduction is his post; item 7 shows only outwardly, the figures going to R14-7-STAT_LEDGER_CONTENTS''s
+    Stat Ledger) and R48-37-COST_SHOWN (only the cost others could see reaches the page). From an NPC''s
     POV his reasons and his Crystal stay dark, the Geturo model; this covers guest players at the Discord
-    table. R1-1-RESTRICTED_CHARACTERS_EXCLUDED stands. The reading half matches R71-23-TELL_READ (CW14's
-    D); how far a turn runs is R71-5-ROLEPLAY_TURNS_AGAINST_WRITTEN.
+    table. R1-1-RESTRICTED_CHARACTERS_EXCLUDED stands. The reading half matches R71-23-TELL_READ (CW14''s
+    D); how far a turn runs is R71-5-ROLEPLAY_TURNS_AGAINST_WRITTEN. Extended by R72-6-WORLD_WRITES_HIM
+    (table law 2026-10-04): carried outside fights, his involuntary responses land on his body as facts,
+    as wounds do under this row, and in talk and investigation Natalie lays the tells and never draws
+    his conclusion, the deduction being his post.'
 - id: R71-7-READER_SEES_CALL
   pack: Combat Law 2026-10-04
   pack_number: null
@@ -1930,10 +1939,14 @@ rules:
   source:
     file: ''
     lines: null
-  notes: FT4. Gives R70-18-ARC_SHAPES's tournament arc its bout rule; R70-18 stands. The chalked terms
+  notes: 'FT4. Gives R70-18-ARC_SHAPES''s tournament arc its bout rule; R70-18 stands. The chalked terms
     read beside R70-71-EXPLAINING_WORKING_MID_FIGHT (rules planted before the fight), which stands. R60-01-BRUTAL_LETHALITY
-    and R60-02-REAL_HEALING_TIMES are not named and stand for any wound a bout prices. Who hears the rail's
-    reading is WT9 (R71-98-HEARS_RAIL). Options A (the warden's call) and C (to incapacity) were not taken.
+    and R60-02-REAL_HEALING_TIMES are not named and stand for any wound a bout prices. Who hears the rail''s
+    reading is WT9 (R71-98-HEARS_RAIL). Options A (the warden''s call) and C (to incapacity) were not
+    taken. Partly amended by R72-37-PLAYER_AGAINST_PLAYER (table law 2026-10-04): ''R71-54 widened to
+    every contest'' between players'' characters: before contact both players post terms (what counts
+    as a loss, what is off the table), and inside them the Judger rules by card. The chalked terms and
+    the warden''s backstop stand for sanctioned bouts.'
 - id: R71-55-DUELS_FIRST_BLOOD
   pack: Combat Law 2026-10-04
   pack_number: null

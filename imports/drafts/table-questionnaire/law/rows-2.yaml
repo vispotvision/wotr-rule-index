@@ -1,0 +1,794 @@
+- id: R72-20-MOVES_FRONT
+  pack: Table Law 2026-10-04
+  pack_number: null
+  section: WD1
+  title: Fronts tick on a pace in story days
+  status: live
+  kind: procedure
+  summary: Every Front gets a pace in story days, and whenever in-world time passes each Front whose days
+    are spent ticks offscreen, played or not, while his acts can speed, slow or stop it.
+  verbatim: By the calendar. Each Front gets a pace in story days. When in-world time passes, every Front
+    whose days are spent ticks offscreen, played or not; his acts can speed, slow or stop it. Rule 4 is
+    rewritten to this.
+  amends:
+  - guide: NATALIE.md and the wotr-write skill
+    locus: Table Rule 4 (the world moves)
+    operation: replaces
+  supersedes: []
+  applies_to:
+  - session-protocol
+  verification: []
+  ratified: 'Isaac, 2026-10-04, Claude Code chat: ruled directly (the table questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: 'WD1. ''Rule 4 is rewritten to this'': Table Rule 4 (''Between turns and sessions, Fronts advance'')
+    lives only in NATALIE.md and has no indexed row, so nothing is marked superseded; the rewrite is owed
+    to NATALIE.md (R72-41-WHERE_TABLE_LAW_LANDS). The calendar is the State of Play''s date and season
+    under R53-09-WEATHER, which stands. Session start step 3 (''Advance one Front'') and advance_front''s
+    one-a-session floor are not named; the pace lands on Fronts in the tools (R72-41-WHERE_TABLE_LAW_LANDS)
+    and every Front on file gets one in the reconciliation pass (R72-42-DATA_ALREADY_FILE). Partly amends
+    R58-07-WREN_GRIEF_FRONT, whose ticks were ''driven by who blames whom'': that Front gets a pace in
+    story days like every other, and the answer does not say how blame bears on the pace. R48-29-PACING
+    (''the world keeps moving''), R49-09-CUTAWAYS and R71-101-LAW_TURNS (a jurisdiction contest run as
+    a Front) are not changed by this answer. What a tick shows is R72-21-FRONT_SIGNS_SEEN; a journey''s
+    clock runs on the same calendar (R72-29-ROAD_AT_STAKE). Options A (one a session, chosen), C (by his
+    acts only) and D (a faction turn at close) were not taken.'
+- id: R72-21-FRONT_SIGNS_SEEN
+  pack: Table Law 2026-10-04
+  pack_number: null
+  section: WD2
+  title: A Front tick shows as a sign in play; clocks stay off the page
+  status: live
+  kind: mandate
+  summary: Every Front tick puts one sign into a scene of that thread in the same session (a seal, a stranger,
+    a price gone up) or into a marked cutaway, and no clock is printed in play, though the files stay
+    open to Isaac.
+  verbatim: Signs in the world. Every tick puts one sign into a scene of that thread the same session
+    (a seal, a stranger, a price gone up) or a marked cutaway. Clocks are never printed in play; the files
+    stay yours to open.
+  amends:
+  - guide: NATALIE.md and the wotr-write skill
+    locus: 'Table Rule 4 (the world moves): what a tick shows'
+    operation: adds
+  supersedes: []
+  applies_to:
+  - session-protocol
+  - scene-structure
+  - pov
+  verification: []
+  ratified: 'Isaac, 2026-10-04, Claude Code chat: ruled directly (the table questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: WD2 (digest). The marked cutaway is R49-09-CUTAWAYS' closing cut to 'a Front advancing', which
+    this answer leaves as it is; what such a cut shows is R72-7-CUTAWAY_SHOWS (the act, reason kept).
+    Clocks kept out of play hold with R48-48-EXPLAIN, which is not changed. Ticks come from R72-20-MOVES_FRONT;
+    the bot shows players no Fronts (R72-40-PLAYERS_CAN_LOOK_UP did not take Front signs). Options B (signs,
+    named at close) and C (open clocks) were not taken.
+- id: R72-22-WHEN_BILL_COMES
+  pack: Table Law 2026-10-04
+  pack_number: null
+  section: WD3
+  title: A Ledger line comes due on a story date or a named trigger
+  status: live
+  kind: procedure
+  summary: Every Ledger line carries a thread and either a story date off the State of Play calendar or
+    a named trigger (he returns to the Seat, the thaw comes), the close marks which lines have fired,
+    and due() returns only those.
+  verbatim: A date or a trigger. Each line gains a thread and either a story date off the State of Play
+    calendar or a named trigger (he returns to the Seat, the thaw comes). The close marks what fired;
+    due() returns only those.
+  amends:
+  - guide: NATALIE.md and the wotr-write skill
+    locus: Table Rule 7 (the ledger) and session start step 2 (what comes due)
+    operation: extends
+  supersedes: []
+  applies_to:
+  - session-protocol
+  verification: []
+  ratified: 'Isaac, 2026-10-04, Claude Code chat: ruled directly (the table questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: WD3 (digest). The calendar is the State of Play's date under R53-09-WEATHER, which stands. The
+    due field's session count or condition in words, as the tools keep it now, gives way to the date or
+    trigger; the field and due()'s filter land in the tools (R72-41-WHERE_TABLE_LAW_LANDS), and every
+    open line on file gets a thread and a date or trigger in the reconciliation pass (R72-42-DATA_ALREADY_FILE).
+    How a fired line reaches the page is R72-23-BILL_PAGE; a scene set before its thread's live date writes
+    only what still binds (R72-34-SCENES_SET_PAST). No indexed rule is changed. Options A (as built) and
+    C (Natalie's judgement) were not taken.
+- id: R72-23-BILL_PAGE
+  pack: Table Law 2026-10-04
+  pack_number: null
+  section: WD4
+  title: A bill come due arrives as an offer with terms
+  status: live
+  kind: mandate
+  summary: When a Ledger line comes due, the creditor or the consequence arrives with terms and the turn
+    stops on them so that his answer is the move, and an offer he refuses or ignores is collected outright
+    the next time.
+  verbatim: An offer with terms. The creditor or the consequence arrives with terms and the turn stops
+    on them; his answer is the move. An offer refused or ignored is collected outright the next time.
+  amends:
+  - guide: NATALIE.md and the wotr-write skill
+    locus: 'Table Rule 7 (the ledger): a line come due'
+    operation: extends
+  supersedes: []
+  applies_to:
+  - session-protocol
+  - scene-structure
+  verification: []
+  ratified: 'Isaac, 2026-10-04, Claude Code chat: ruled directly (the table questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: WD4. Gives every Ledger line come due the person-or-paper shape R71-99-BILL_AFTER_FIGHT gives
+    a fight's costs in the aftermath; that row is not changed. A sum in the terms is named from the price
+    table under R70-48-MONEY_PRICE_PROVENANCE, which stands, and the refused offer collected outright
+    keeps R48-31-STAKES' 'nothing is safe'. The stop on the terms is Table Rule 1's stop on an NPC line;
+    where a turn stops is R72-4-WHERE_TURN_STOPS (an offer is one of its pressures). A favour owed to
+    him is called the same way (R72-30-WHAT_WIN_PAYS). Options B (collected outright) and C (a sign first)
+    were not taken.
+- id: R72-24-NEW_LINES_LEDGER
+  pack: Table Law 2026-10-04
+  pack_number: null
+  section: WD5
+  title: The Ledger keeps bonds by name and a heat line per thread
+  status: live
+  kind: mandate
+  summary: Each thread's warm bonds go on the Ledger by name with what has fed and what has strained them,
+    so a loss lands on a named line, and each thread keeps a standing heat line for the attention crown,
+    company and Guild are paying him, raised by public acts and unread killings and cooled only by the
+    right office, paid.
+  verbatim: 'Yes to: Bonds, by name (Each thread''s warm bonds go on the Ledger by name, with what has
+    fed them and what has strained them, so a loss lands on a named line); Heat per thread (A standing
+    heat line per thread: the attention crown, company and Guild are paying him. Public acts and unread
+    killings raise it; only the right office, paid, cools it).'
+  amends:
+  - guide: NATALIE.md and the wotr-write skill
+    locus: 'Table Rule 7 (the ledger): kinds of line'
+    operation: adds
+  supersedes: []
+  applies_to:
+  - session-protocol
+  verification: []
+  ratified: 'Isaac, 2026-10-04, Claude Code chat: ruled directly (the table questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: WD5 (digest), A and B. Table Rule 7's list (injuries, exhaustion, reserve, debts, reputation,
+    who saw what) gains bonds and heat. The bonds are the standing warm bonds of R70-114-GRIMDARK_WARMTH,
+    now kept by name; that row is not changed, and a bond involving his PC stays his to play (R49-01-WHOSE_HEAD).
+    An unread killing already sits on the Ledger as a risk under R71-101-LAW_TURNS, which stands; heat
+    gives the crown, company and guild layers a running line. Cooling heat and keeping a bond are downtime
+    activities under R72-28-TIME_OFF. Option C (his word given) was not taken.
+- id: R72-25-HOW_MANY_LIES
+  pack: Table Law 2026-10-04
+  pack_number: null
+  section: WD6
+  title: Every roster NPC with a want carries a live lie
+  status: live
+  kind: mandate
+  summary: Every NPC on the roster who has a want carries at least one live lie, told when it serves them
+    and logged with its tell, and Table Rule 8 is retired into this rule.
+  verbatim: A lie for every want. Every roster NPC with a want carries at least one live lie, told when
+    it serves them and logged with its tell. Rule 8 folds into this and is retired.
+  amends:
+  - guide: Character cards, NATALIE.md and the wotr-npc skill
+    locus: 'The NPC roster: the lie and its tell'
+    operation: adds
+  - guide: NATALIE.md and the wotr-write skill
+    locus: Table Rule 8 (ignorance and lies)
+    operation: replaces
+  supersedes: []
+  applies_to:
+  - dialogue
+  - session-protocol
+  verification: []
+  ratified: 'Isaac, 2026-10-04, Claude Code chat: ruled directly (the table questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: 'WD6. ''Rule 8 folds into this and is retired'': Table Rule 8 lives only in NATALIE.md and has
+    no indexed row, so nothing is marked superseded; the rewrite is owed to NATALIE.md (R72-41-WHERE_TABLE_LAW_LANDS).
+    Rule 8 also carries a per-turn clause (''One thing per turn his PC notices and you don''t explain'');
+    that not-knowing quota was already made optional by R49-11-NOT_KNOWING, which is not named and stands,
+    so retiring Rule 8 leaves the device optional, not gone. Partly amends R48-42-LIES: its ''many NPCs
+    lie'' gains a floor of one live lie for every roster NPC with a want; the player still has to catch
+    them. R49-36-LIE_TELLS (every lie leaves a catchable tell) stands, and the tell is now logged beside
+    the lie on the roster. Catching a lie, honest error and the uncaught lie belong to the mystery questionnaire.
+    Options A (Rule 8 as the floor) and C (liars marked, some honest) were not taken.'
+- id: R72-26-NPCS_OFF_PAGE
+  pack: Table Law 2026-10-04
+  pack_number: null
+  section: WD7
+  title: 'Named NPCs move offscreen: ''doing now'' and ''stands with him'''
+  status: live
+  kind: procedure
+  summary: At each close every named NPC in the thread gets a 'doing now' line and a 'stands with him'
+    line (owed, slighted, warm, afraid), and both show when he meets that NPC again.
+  verbatim: Wants move offscreen. At each close every named NPC in the thread gets a 'doing now' line
+    and a 'stands with him' line (owed, slighted, warm, afraid); when he meets them again, both show.
+  amends:
+  - guide: Character cards, NATALIE.md and the wotr-npc skill
+    locus: 'The NPC roster: ''doing now'' and ''stands with him'''
+    operation: adds
+  - guide: NATALIE.md and the wotr-write skill
+    locus: Table Rule 3 (NPC agency) and session end
+    operation: extends
+  supersedes: []
+  applies_to:
+  - session-protocol
+  - dialogue
+  verification: []
+  ratified: 'Isaac, 2026-10-04, Claude Code chat: ruled directly (the table questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: WD7 (digest). Carries Table Rule 3 ('NPCs want things and pursue them') off the page. The two
+    lines land as new roster fields in the tools (R72-41-WHERE_TABLE_LAW_LANDS), and the close that writes
+    them is applied, then listed (R72-33-WRITES_CLOSE). R48-36-NPC_WITS (veteran-clever) and R52-29-NPC_RECIPE
+    (a voice from a real speaker type) are not changed; on a return R70-50-BODIES_AFTER_FIRST_SIGHT's
+    changed body detail sits beside the two lines. Options A (on the page only) and C (only through Fronts)
+    were not taken.
+- id: R72-27-SWAYS_NPC
+  pack: Table Law 2026-10-04
+  pack_number: null
+  section: WD13
+  title: Rank, his name and evidence weigh on an NPC's answer
+  status: live
+  kind: mandate
+  summary: A Stage gap felt as Pressure and a commoner's awe of a ranked practitioner can make an NPC
+    yield what its want alone would refuse, a ranked NPC weighing them less; the Ledger's reputation and
+    who-saw-what lines reach the NPC, so it answers what his PC did in public and the notes name the line
+    that weighed; and an NPC catches his PC's lie only on a tell in his body, a fact it holds or a read
+    its Gnosis earns, the lie holding otherwise.
+  verbatim: 'Yes to: Rank bends it (A Stage gap felt as Pressure (R70-69) and a commoner''s awe of a ranked
+    practitioner (R53-18) can make an NPC yield what its want alone would refuse; a ranked NPC weighs
+    them less); His name goes before him (Ledger lines for reputation and who saw what reach the NPC:
+    it answers what your PC did in public, for good or ill, and the notes name the line that weighed);
+    His lies caught on evidence (An NPC catches your PC''s lie only on what it can check: a tell in his
+    body, a fact it holds, or a read its Gnosis earns (R14-3''s read row). Otherwise the lie holds).'
+  amends:
+  - guide: NATALIE.md and the wotr-write skill
+    locus: Table Rule 3 (NPC agency) and Table Rule 5 (adjudication) in talk
+    operation: extends
+  supersedes: []
+  applies_to:
+  - adjudication
+  - dialogue
+  verification: []
+  ratified: 'Isaac, 2026-10-04, Claude Code chat: ruled directly (the table questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: WD13 (digest), A, B and C. Rank that makes an NPC yield what its want alone would refuse reaches
+    past Table Rule 3's 'If an NPC would refuse, they refuse' (NATALIE.md text, no indexed row). Uses
+    R70-69-PRESSURE_AURA and R53-18-AWE as they stand, the Ledger's reputation and who-saw-what lines
+    (Table Rule 7), and the read row of R14-3-STATS_DECIDE_TABLE (Gnosis) for an NPC reading his lie in
+    talk; R14-3-STATS_DECIDE_TABLE and R13-8-RECONSTRUCTIBLE_ADJUDICATION are not changed. R71-22-TALK_INSIDE_FIGHT
+    keeps pricing a lie inside a fight, and R49-36-LIE_TELLS (an NPC's lie leaves a catchable tell) stands.
+- id: R72-28-TIME_OFF
+  pack: Table Law 2026-10-04
+  pack_number: null
+  section: WD8
+  title: 'Downtime: two priced activities a span, long work on a clock'
+  status: live
+  kind: procedure
+  summary: In downtime he names up to two activities a span (heal, train, work, settle a debt, cool heat,
+    keep a bond), each priced from the price table with his upkeep at his station paid or owed, and long
+    work such as a commissioned bench piece, a licence or a house runs on a clock of four to eight that
+    fills across spans and is kept on the Ledger.
+  verbatim: B, with project clocks. As B, and long work (a commissioned bench piece, a licence, a house)
+    runs on a clock of four to eight that fills across spans, kept on the Ledger.
+  amends:
+  - guide: NATALIE.md and the wotr-write skill
+    locus: 'The Running Pieces: Downtime'
+    operation: extends
+  supersedes: []
+  applies_to:
+  - session-protocol
+  - scene-structure
+  verification: []
+  ratified: 'Isaac, 2026-10-04, Claude Code chat: ruled directly (the table questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: 'WD8. (Option B there reads: Named activities, priced. You name up to two activities a span (heal,
+    train, work, settle a debt, cool heat, keep a bond); each is priced from the price table, and his
+    upkeep at his station is paid or owed.) NATALIE.md''s ''When time passes, run it in one turn'' is
+    not named and stands. Training named here is R70-90-FAST_NUMBERS_CLIMB''s ''training named in a downtime
+    turn'', which stands; what a span of training buys is the techniques questionnaire''s, and no number
+    is set here. Healing runs on R60-02-REAL_HEALING_TIMES; prices come from R53-07-PRICE_TABLE as R70-48-MONEY_PRICE_PROVENANCE
+    asks; R53-17-THE_BILL and R70-14-KISHOTENKETSU (downtime may run set-up, development, twist, reconciliation)
+    stand. Cooling heat and keeping a bond act on the lines R72-24-NEW_LINES_LEDGER adds. Option A (free
+    narrative) was not taken.'
+- id: R72-29-ROAD_AT_STAKE
+  pack: Table Law 2026-10-04
+  pack_number: null
+  section: WD9
+  title: A journey with something at stake runs on a clock
+  status: live
+  kind: procedure
+  summary: A journey that matters gets a clock of four to six (weather, horses, food) ticked by miles
+    and calendar, each tick a beat on the page, and if the clock fills before the journey is done the
+    road takes a horse, a hand or the season.
+  verbatim: The road as a clock. The journey gets a clock of four to six (weather, horses, food), ticked
+    by miles and calendar, each tick a beat on the page; if it fills first, the road takes a horse, a
+    hand or the season.
+  amends:
+  - guide: NATALIE.md and the wotr-write skill
+    locus: 'Roleplay partnership: travel'
+    operation: adds
+  supersedes: []
+  applies_to:
+  - session-protocol
+  - scene-structure
+  - adjudication
+  verification: []
+  ratified: 'Isaac, 2026-10-04, Claude Code chat: ruled directly (the table questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: 'WD9 (digest). Covers what R48-29-PACING leaves open: travel with nothing at stake still passes
+    in a line, and that row stands. Miles come from R53-08-TRAVEL_RATES and the calendar and weather from
+    R53-09-WEATHER, both unchanged; it is the calendar Fronts tick on (R72-20-MOVES_FRONT). Options A
+    (a turn per leg) and C (one turn, one hazard) were not taken.'
+- id: R72-30-WHAT_WIN_PAYS
+  pack: Table Law 2026-10-04
+  pack_number: null
+  section: WD10
+  title: A win pays in favours, access and spoils with a history
+  status: live
+  kind: definition
+  summary: A debt in his favour becomes a Ledger line he can call in later on terms, as his own debts
+    are called; access and licence (a draw allotment, a Guild licence, a key, a seat at a table) are rights
+    on paper that open doors and can be revoked; and spoils taken or given (a dead man's blade, a horse,
+    a proofed rifle) arrive with their lineage while the Ledger keeps who wants them back.
+  verbatim: 'Yes to: Favours owed him (A debt in his favour becomes a Ledger line he can call in later,
+    on terms, the way his own debts are called); Access and licence (A draw allotment, a Guild licence,
+    a key, a seat at a table: rights on paper that open doors and can be revoked); Spoils with a history
+    (Things taken or given (a dead man''s blade, a horse, a proofed rifle) arrive with their lineage (R70-48),
+    and the Ledger keeps who wants them back).'
+  amends:
+  - guide: NATALIE.md and the wotr-write skill
+    locus: 'Table Rule 7 (the ledger): what he is owed'
+    operation: adds
+  supersedes: []
+  applies_to:
+  - session-protocol
+  - worldbuilding
+  - items
+  verification: []
+  ratified: 'Isaac, 2026-10-04, Claude Code chat: ruled directly (the table questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: WD10 (digest), A, B and C. Coin on a contract stays R70-97-QUESTS_CONTRACTS and R71-97-CONTRACT_FIGHTS;
+    the Reckoner's roll and Guild commendations stay R71-100-ROLL_AFTER_PUBLIC_FIGHT and R70-96-TITLES_ACHIEVEMENTS;
+    spoils' lineage is the 'Its life and lineage' clause of R70-48-MONEY_PRICE_PROVENANCE. None of these
+    rows is changed, nor R70-90-FAST_NUMBERS_CLIMB. A favour owed him is called the way R72-23-BILL_PAGE
+    calls his own debts. Option D (a true answer, knowledge as pay) was not taken, and R48-48-EXPLAIN
+    stands.
+- id: R72-31-LAST_WARNING
+  pack: Table Law 2026-10-04
+  pack_number: null
+  section: WD11
+  title: 'The last warning: in the world, a plain line only for the unreadable'
+  status: live
+  kind: mandate
+  summary: Before a choice that can kill his character the warning is signs, tells and exits on the page,
+    the death standing if he misses them all, and one plain out-of-character line is added only when the
+    danger is one his character could not read, such as Pressure from far above him or a Well's own law.
+  verbatim: 'Plain only when unreadable. As A, plus the OOC line only when the danger is one his character
+    could not read: Pressure (the felt weight of a higher Stage) from far above him, or a Well''s own
+    law.'
+  amends:
+  - guide: NATALIE.md and the wotr-write skill
+    locus: Roleplay partnership (stakes)
+    operation: extends
+  supersedes: []
+  applies_to:
+  - adjudication
+  - session-protocol
+  verification: []
+  ratified: 'Isaac, 2026-10-04, Claude Code chat: ruled directly (the table questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: 'WD11. (Option A there reads: In the world only. Signs, tells and exits on the page, and nothing
+    else. If he misses all of them, the death stands (R60-04).) Partly amends R48-31-STAKES: its ''clear
+    warning'' is signs, tells and exits on the page, and one plain OOC line joins them only for a danger
+    his character could not read; ''Death can happen, if earned'' stands. Inside a fight R71-67-CLEAR_WARNING_BEFORE_LOSS''s
+    plain sign and shown exit stand unchanged. The plain line is option B''s OOC line in the foot under
+    the turn (R72-12-TABLE_TALK_NOTES); it states the danger and asks nothing, so Table Rule 1''s ban
+    on stopping on an out-of-character question holds. R60-04-DEATH_IS_PERMANENT stands. Option B (one
+    plain line before every deadly move) was not taken.'
+- id: R72-32-AFTER_DEATH
+  pack: Table Law 2026-10-04
+  pack_number: null
+  section: WD12
+  title: After his death the thread goes on
+  status: live
+  kind: procedure
+  summary: If his character dies the thread goes on and his next character enters it, the dead man's debts
+    fall on kin or partners, his Fronts keep their clocks, and a grief Front may open.
+  verbatim: The world goes on. The thread goes on and your next character enters it. The dead man's debts
+    fall on kin or partners, his Fronts keep their clocks, and a grief Front may open (R58-07).
+  amends:
+  - guide: NATALIE.md and the wotr-write skill
+    locus: 'Roleplay partnership (stakes): after a death'
+    operation: adds
+  supersedes: []
+  applies_to:
+  - session-protocol
+  verification: []
+  ratified: 'Isaac, 2026-10-04, Claude Code chat: ruled directly (the table questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: WD12. Answers what R60-04-DEATH_IS_PERMANENT leaves open; that row and R48-31-STAKES stand. The
+    grief Front follows R58-07-WREN_GRIEF_FRONT's model. The next character is his ('your next character').
+    Options B (the thread closes) and C (his heir takes it) were not taken.
+- id: R72-33-WRITES_CLOSE
+  pack: Table Law 2026-10-04
+  pack_number: null
+  section: WD14
+  title: Natalie applies the close and lists each write as an agent ruling
+  status: live
+  kind: procedure
+  summary: At his wrap and whenever a scene is archived, Natalie applies the session close herself and
+    lists each write once as an agent ruling he may overturn, and nothing waits for his word.
+  verbatim: Applied, then listed. At your wrap and whenever a scene is archived, Natalie applies the close
+    herself and lists each write once as an agent ruling (a call you may overturn); nothing waits.
+  amends:
+  - guide: NATALIE.md and the wotr-write skill
+    locus: Session end (the close)
+    operation: replaces
+  - guide: Character cards, NATALIE.md and the wotr-npc skill
+    locus: Roster entries written at the close
+    operation: replaces
+  supersedes: []
+  applies_to:
+  - session-protocol
+  verification: []
+  ratified: 'Isaac, 2026-10-04, Claude Code chat: ruled directly (the table questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: WD14. Ends the item-by-item approval the wotr-ledger and judger skills teach ('a proposal Isaac
+    approves item by item'); the skills are rewritten under R72-41-WHERE_TABLE_LAW_LANDS, after the tests
+    (R72-43-TEST_SESSION). Matches K2 (R72-2-IMPROVISE_OR_ASK), which strikes R48-26-INVENTION's 'bigger
+    things wait' for calls in play; this row does the same for the close and leaves R48-26 to K2. Option
+    C (a write that sets a fact about his own characters waits for one word from him) was not taken; R52-08-PC_IDIOM
+    (his play wins over a card) stands, and an overturn is a new ruling, never a silent edit (CLAUDE.md).
+    R20C-34-ESTIMATES_CANON_ON_USE (estimates do not wait) agrees; R70-40-WIDE_DESCRIPTION_MUST_RANGE's
+    session-end flag and R48-47-NOTES are not changed by this answer (where notes go at the table is R72-12-TABLE_TALK_NOTES).
+    A sent-back turn's writes are reversed under R72-18-TURN_SENT_BACK. Option A (each item waits) was
+    not taken.
+- id: R72-34-SCENES_SET_PAST
+  pack: Table Law 2026-10-04
+  pack_number: null
+  section: WD15
+  title: A scene set in the past writes only what still binds
+  status: live
+  kind: procedure
+  summary: A scene set before its thread's live moment adds canon and precedent, and writes a Ledger line
+    or Front history only for what still binds at the thread's live date, which the close checks.
+  verbatim: Only what still binds. A past scene adds canon and precedent, and writes a Ledger line or
+    Front history only for what still binds at the thread's live date, which the close checks.
+  amends:
+  - guide: NATALIE.md and the wotr-write skill
+    locus: 'Session end (the close): scenes set in the past'
+    operation: adds
+  supersedes: []
+  applies_to:
+  - session-protocol
+  verification: []
+  ratified: 'Isaac, 2026-10-04, Claude Code chat: ruled directly (the table questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: 'WD15 (digest). The thread''s live date is its State of Play''s (R53-09-WEATHER). Precedent here
+    is precedent for events: R70-137-ARCHIVED_SCENES keeps what happened in an archived scene canon, and
+    its law-edition tag for style is not changed. Sets the rule going forward; the backfill lines already
+    on file are sorted by the reconciliation pass (R72-42-DATA_ALREADY_FILE). Options B (dated, then retired)
+    and C (canon only) were not taken.'
+- id: R72-35-NATALIE_SEAT_DISCORD
+  pack: Table Law 2026-10-04
+  pack_number: null
+  section: MP1
+  title: Natalie's seat on Discord is the Judger's desk
+  status: live
+  kind: procedure
+  summary: At the Discord table Natalie also drafts world and NPC posts, rulings and closes for Isaac
+    to post as narrator, so every word that reaches the server passes through his hands and the bot stays
+    free of any language model.
+  verbatim: The Judger's desk. Natalie also drafts world and NPC posts, rulings and closes for you to
+    post as narrator. Every word that reaches the server passes through your hands, and the bot stays
+    model-free.
+  amends:
+  - guide: NATALIE.md and the wotr-write skill
+    locus: 'The Discord table (a new multiplayer section): Natalie''s seat'
+    operation: adds
+  supersedes: []
+  applies_to:
+  - session-protocol
+  verification: []
+  ratified: 'Isaac, 2026-10-04, Claude Code chat: ruled directly (the table questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: 'MP1. ''Also'' builds on her seat now (option A: His ghostwriter only. As now: Natalie writes
+    your posts for your own characters and the walk-ons around them; the world''s voice on the server
+    belongs to whoever posts it.); a new line in his posts is drafted and marked under R72-19-NEW_LINES_HIS_POSTS.
+    Keeps the 2026-09-13 decision that the WOTR bot is deterministic, with no language model. A guest''s
+    character is shown as R71-6-PLAYER_FIGHTER_PAGE shows it (''It covers guest players at the Discord
+    table too''), and his own characters stay his under R52-10-CROSSOVER; this answer changes neither
+    row, and R1-1-RESTRICTED_CHARACTERS_EXCLUDED stands. Options A (his ghostwriter only) and C (a live
+    narrator) were not taken.'
+- id: R72-36-WHO_POSTS_WHEN
+  pack: Table Law 2026-10-04
+  pack_number: null
+  section: MP2
+  title: Free posting in talk, a round order in fights and contests
+  status: live
+  kind: procedure
+  summary: Players post freely in talk and travel, while fights and contests run in a fixed round order
+    with a reply window the Judger sets, after which the round moves on and an absent player's standing
+    orders play for them.
+  verbatim: Order when it matters. Free posting in talk and travel; in fights and contests a fixed round
+    order with a reply window the Judger sets, after which the round moves on and standing orders (R71-5)
+    play for the absent.
+  amends:
+  - guide: NATALIE.md and the wotr-write skill
+    locus: 'The Discord table: post order'
+    operation: adds
+  supersedes: []
+  applies_to:
+  - session-protocol
+  - scene-structure
+  - combat
+  verification: []
+  ratified: 'Isaac, 2026-10-04, Claude Code chat: ruled directly (the table questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: 'MP2 (digest). Partly amends R71-5-ROLEPLAY_TURNS_AGAINST_WRITTEN: its standing orders reach
+    every player at the Discord table and play for a player who misses the reply window, so the round
+    moves on without them; K5 (R72-5-STANDING_ORDERS_OUTSIDE_FIGHTS) lets conditions be posted in any
+    scene type. How long a Discord post runs is K3 (R72-3-REPLIES_RUN_LONG). Options A (free posting)
+    and C (a lead per scene) were not taken.'
+- id: R72-37-PLAYER_AGAINST_PLAYER
+  pack: Table Law 2026-10-04
+  pack_number: null
+  section: MP3
+  title: 'Player against player: terms first, then the Judger rules by card'
+  status: live
+  kind: procedure
+  summary: Before two players' characters make contact in any contest both players post terms (what counts
+    as a loss, what is off the table), and inside those terms the Judger decides on Table Rule 5's four
+    inputs and posts an adjudication card naming the stat rows, any post the ruling contradicts being
+    marked struck in the archive.
+  verbatim: Terms first, then Judger. Before contact both players post terms (what counts as a loss, what
+    is off the table), R71-54 widened to every contest; inside those terms the Judger rules by card, as
+    in B.
+  amends:
+  - guide: NATALIE.md and the wotr-write skill
+    locus: 'The Discord table: player against player'
+    operation: adds
+  - guide: WOTR_Combat_Craft_Guide.md
+    locus: Sanctioned bouts
+    operation: extends
+  supersedes: []
+  applies_to:
+  - adjudication
+  - combat
+  - session-protocol
+  verification: []
+  ratified: 'Isaac, 2026-10-04, Claude Code chat: ruled directly (the table questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: 'MP3. (Option B there reads: The Judger rules. The Judger decides on Table Rule 5''s four inputs
+    and posts an adjudication card naming the stat rows. A post the ruling contradicts is marked struck
+    in the archive.) Partly amends R71-54-BOUTS_AETHERION: ''R71-54 widened to every contest'' between
+    players'' characters, so terms come before contact in any such contest, not only a sanctioned Aetherion
+    bout; the bout rule stands for bouts. The card keeps R13-8-RECONSTRUCTIBLE_ADJUDICATION and R14-3-STATS_DECIDE_TABLE,
+    which are not changed; players see the cards under R72-40-PLAYERS_CAN_LOOK_UP. Neither player''s character
+    is written by the other (R71-6-PLAYER_FIGHTER_PAGE). Option A (players settle it) was not taken. A
+    post marked struck is the case R72-39-GUEST_SCENES_BECOME notes on R70-137-ARCHIVED_SCENES.'
+- id: R72-38-GUEST_OWN_LINES
+  pack: Table Law 2026-10-04
+  pack_number: null
+  section: MP4
+  title: Each guest sets lines and veils, mortality and an explicit opt-in
+  status: live
+  kind: procedure
+  summary: On joining a thread each guest lists lines and veils on their character's card for the Judger
+    and Natalie to honour in that player's scenes, the Floor binding everyone, marks their character mortal
+    or not (one marked not mortal can be maimed, captured or ruined, never killed), and explicit scenes
+    run only in age-restricted channels with only opted-in players present, anyone else's character seeing
+    a door close.
+  verbatim: 'Yes to: Lines and veils (Each guest lists lines and veils on their character''s card; the
+    Judger and Natalie honour them in that player''s scenes, and the Floor binds everyone); Mortal or
+    not (Each guest marks their character mortal or not. One marked not mortal can be maimed, captured
+    or ruined, never killed; this narrows R48-31 for that character only); Explicit scenes opt in (Explicit
+    scenes run only in age-restricted channels with only players who opted in present; anyone else''s
+    character sees a door close).'
+  amends:
+  - guide: Character cards, NATALIE.md and the wotr-npc skill
+    locus: 'Guest characters: lines and veils, mortal or not'
+    operation: adds
+  - guide: NATALIE.md and the wotr-write skill
+    locus: The Floor and the Discord table
+    operation: extends
+  supersedes: []
+  applies_to:
+  - session-protocol
+  - adjudication
+  - character-sheet
+  verification: []
+  ratified: 'Isaac, 2026-10-04, Claude Code chat: ruled directly (the table questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: 'MP4 (digest), A, B and C. Partly amends R48-31-STAKES: ''this narrows R48-31 for that character
+    only'', so a guest character marked not mortal can be maimed, captured or ruined and never killed;
+    death if earned stands for every other character. The Floor is NATALIE.md''s. Lines are never on the
+    page and veils are kept off it, as dark tables use them. R71-6-PLAYER_FIGHTER_PAGE and R49-51-EXPLICIT
+    (the register of explicit narration) are not changed by this answer; what an explicit scene holds
+    is the intimacy questionnaire''s. Option D (a pause sign) was not taken.'
+- id: R72-39-GUEST_SCENES_BECOME
+  pack: Table Law 2026-10-04
+  pack_number: null
+  section: MP5
+  title: On archive the Judger rules each break struck or accepted
+  status: live
+  kind: procedure
+  summary: When a scene with other players is archived, the Judger marks each canon break struck or accepted
+    as a new fact and tells the player which, and the pages mark every character's owner.
+  verbatim: The Judger rules breaks. On archive the Judger marks each break struck or accepted as a new
+    fact and tells the player which; pages mark every character's owner.
+  amends:
+  - guide: NATALIE.md and the wotr-write skill
+    locus: 'The Discord table: archiving guest scenes'
+    operation: adds
+  supersedes: []
+  applies_to:
+  - session-protocol
+  - documents
+  verification: []
+  ratified: 'Isaac, 2026-10-04, Claude Code chat: ruled directly (the table questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: 'MP5 (digest). Ends the practice of flagging a break in the notes with nobody ruling on it. Notes
+    R70-137-ARCHIVED_SCENES: its archive left as written and its law-edition tag stand, but its reading
+    that what happened in an archived scene stays canon now holds for a scene with other players only
+    as the Judger rules: a break marked struck is not carried as fact, and one accepted enters as a new
+    fact. R72-37-PLAYER_AGAINST_PLAYER likewise marks struck a post a ruling contradicts. Owner marks
+    keep other players'' characters from being written by mistake; R52-10-CROSSOVER and R1-1-RESTRICTED_CHARACTERS_EXCLUDED
+    stand. Options A (as posted, flagged) and C (only his threads count) were not taken.'
+- id: R72-40-PLAYERS_CAN_LOOK_UP
+  pack: Table Law 2026-10-04
+  pack_number: null
+  section: MP6
+  title: 'What the bot shows players: their own lines, public faces, the cards'
+  status: live
+  kind: procedure
+  summary: On Discord the bot's /due and /ledger show a player only the Ledger lines about their own characters,
+    /roster and /npc show an NPC's public face only (name, look, voice, role) while wants, lies and what
+    it knows stay with the Judger, and each ruling's adjudication card is posted in the scene's thread
+    so any player can see which stat rows decided it.
+  verbatim: 'Yes to: Their own Ledger lines (/due and /ledger show a player only the lines about their
+    own characters); Public faces on the roster (/roster and /npc show what is public: name, look, voice,
+    role. Wants, lies and what they know stay with the Judger); Adjudication cards (Each ruling''s card
+    is posted in the scene''s thread, so any player can see which stat rows decided it).'
+  amends: []
+  supersedes: []
+  applies_to:
+  - session-protocol
+  - adjudication
+  verification: []
+  ratified: 'Isaac, 2026-10-04, Claude Code chat: ruled directly (the table questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: 'MP6 (digest), A, B and C. The bot''s table commands are built to this row (R72-41-WHERE_TABLE_LAW_LANDS);
+    the bot plan had offered them to anyone. The cards put R13-8-RECONSTRUCTIBLE_ADJUDICATION and R14-3-TRACEABILITY
+    in front of the players; this answer changes neither row. Option D (Front signs, not clocks) was not
+    taken, so the bot shows players no Fronts. No guide is amended: the change lands in the bot.'
+- id: R72-41-WHERE_TABLE_LAW_LANDS
+  pack: Table Law 2026-10-04
+  pack_number: null
+  section: ME1
+  title: The table law lands in a rule doc, NATALIE.md, the skills and the tools
+  status: live
+  kind: procedure
+  summary: 'The table answers land as one dated Table Law doc logged through log_ruling, NATALIE.md''s
+    Table Rules and Session Protocol rewritten to it with a new multiplayer section, the wotr-rp, wotr-ledger,
+    wotr-npc and judger skills rewritten, and MCP changes: a thread and a date or trigger on Ledger rows,
+    a pace on Fronts, new roster fields, reward and penalty in scene_menu, and the bot''s table commands
+    as R72-40-PLAYERS_CAN_LOOK_UP sets them.'
+  verbatim: 'C, plus the tools. C, plus MCP changes: a thread and a date or trigger on Ledger rows, a
+    pace on Fronts, new roster fields, reward and penalty in scene_menu, and the bot''s table commands
+    per MP6.'
+  amends:
+  - guide: NATALIE.md and the wotr-write skill
+    locus: Table Rules and Session Protocol, with a new multiplayer section
+    operation: replaces
+  - guide: Character cards, NATALIE.md and the wotr-npc skill
+    locus: the wotr-npc skill
+    operation: replaces
+  supersedes: []
+  applies_to:
+  - session-protocol
+  - documents
+  verification: []
+  ratified: 'Isaac, 2026-10-04, Claude Code chat: ruled directly (the table questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: 'ME1, option D, whose label is ''C, plus the tools''. (Option C there reads: B, plus the skills.
+    B, plus wotr-rp, wotr-ledger, wotr-npc and judger rewritten, so no skill still teaches dead table
+    law.) (Option B there reads: Rule doc and NATALIE.md. A, plus NATALIE.md''s Table Rules and Session
+    Protocol rewritten to it, with a new multiplayer section and the stale lines gone.) (Option A there
+    reads: Rule doc only. One dated Table Law doc through log_ruling, served by load_rules. NATALIE.md
+    and the skills stay as they are until a later pass.) Follows R70-135-WHERE_NEW_LAW_LIVES and R71-102-WHERE_COMBAT_LAW_LANDS;
+    neither is changed. The order of the work is R72-43-TEST_SESSION, which puts the skills after the
+    two tests. The wotr-rp, wotr-ledger and judger skills have no guide entry in the index. The rule doc
+    is rules/doc-table-law-2026-10-04.yaml. Supersedes nothing.'
+- id: R72-42-DATA_ALREADY_FILE
+  pack: Table Law 2026-10-04
+  pack_number: null
+  section: ME2
+  title: One reconciliation pass over the Fronts, Ledger and State of Play on file
+  status: live
+  kind: procedure
+  summary: 'The data already on file gets one reconciliation pass: every open Ledger row gains a thread
+    and a date or trigger under the new law, dead and stale lines retire with a note, every Front gets
+    a pace, and the State of Play pages are rewritten.'
+  verbatim: One reconciliation pass. Every open row gets a thread and a date or trigger under the new
+    law; dead and stale lines retire with a note; Fronts get a pace; State of Play pages are rewritten.
+  amends: []
+  supersedes: []
+  applies_to:
+  - session-protocol
+  verification: []
+  ratified: 'Isaac, 2026-10-04, Claude Code chat: ruled directly (the table questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: ME2 (digest). Applies R72-22-WHEN_BILL_COMES and R72-20-MOVES_FRONT to the data on file (table/ledger.yaml,
+    table/fronts.yaml and the State of Play pages); lines from scenes set before their thread's live date
+    are sorted on R72-34-SCENES_SET_PAST's test. No rule row is touched. Options A (apply going forward)
+    and C (fresh start per thread) were not taken.
+- id: R72-43-TEST_SESSION
+  pack: Table Law 2026-10-04
+  pack_number: null
+  section: ME3
+  title: Law, tools and data, then a Desktop and a Discord test, then the skills
+  status: live
+  kind: procedure
+  summary: 'The table work runs in order: log the law, change the tools and reconcile the data, run one
+    Desktop session from start to close and one Discord scene through the full loop, amend, and only then
+    rewrite the skills.'
+  verbatim: Law and tools, two tests. Log the law, change the tools and reconcile the data; run one Desktop
+    session start to close and one Discord scene through the full loop; amend; then the skills.
+  amends: []
+  supersedes: []
+  applies_to:
+  - session-protocol
+  - verification
+  verification: []
+  ratified: 'Isaac, 2026-10-04, Claude Code chat: ruled directly (the table questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: ME3. Follows the law-then-test pattern of R70-138-PROOF_ORDER_WORK and R71-105-PROOF_ORDER_WORK,
+    with the tools and the data changed before the tests so the tests run on them; neither row is changed.
+    The Discord loop is post, ruling, archive and the Judger's close. A test session uses NPCs or leaves
+    his character's moves to him. An amendment found in a test enters as a new dated ruling (CLAUDE.md).
+    Options A (law, Desktop test, rest) and C (everything, then test) were not taken.

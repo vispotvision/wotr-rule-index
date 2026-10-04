@@ -189,7 +189,10 @@ rules:
     file: ''
     lines: null
   notes: 'Question n07: The partner may reach for a real language no stratum covers yet (Persian for a
-    desert court, Nahuatl for a jungle people). Who may open a new naming register?'
+    desert court, Nahuatl for a jungle people). Who may open a new naming register?
+    Read with R72-2-IMPROVISE_OR_ASK (table law 2026-10-04): at the table Natalie makes every call,
+    even a new faction, and logs each under the turn as an agent ruling Isaac may overturn, so a
+    register she opens in play is logged as such a ruling.'
 - id: R50-08-GLOSS_CLASH
   pack: Naming Law 2026-09-26
   pack_number: null
@@ -555,7 +558,11 @@ rules:
     In play, who coins a Third Name for one of your characters? Confirmed by R70-96-TITLES_ACHIEVEMENTS
     (style law 2026-10-03): Third Names carry on; a Guild commendation is a separate, written title with
     no stat effect. Stands, as R70-117-SOBRIQUETS_HALL_TITLES says (style law 2026-10-03); criers, crowds,
-    ballads and enemies may hang lesser names on any notable fighter.'
+    ballads and enemies may hang lesser names on any notable fighter.
+    Read with R72-2-IMPROVISE_OR_ASK (table law 2026-10-04): at the table Natalie makes every call
+    and logs each under the turn as an agent ruling Isaac may overturn, his own characters included,
+    since the option that would have held facts about them for his word was not taken; a Third Name
+    coined at the table is logged that way, and Isaac keeps it or overturns it.'
 - id: R50-22-PLACE_STRATA
   pack: Naming Law 2026-09-26
   pack_number: null

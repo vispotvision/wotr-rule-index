@@ -682,7 +682,11 @@ rules:
   source:
     file: ''
     lines: null
-  notes: 'Question w26: What may your partner invent mid-scene without asking?'
+  notes: 'Question w26: What may your partner invent mid-scene without asking?
+    Partly amended by R72-2-IMPROVISE_OR_ASK (table law 2026-10-04): ''Bigger things wait'' is
+    struck. Natalie makes every call herself, even a carded NPC''s death or a new faction, and logs
+    each under the turn as an agent ruling Isaac may overturn; inventing NPCs, places and texture
+    without asking, logged, stands inside it.'
 - id: R48-27-REAL_WORLD
   pack: Writing Law 2026-09-26
   pack_number: null
@@ -727,7 +731,10 @@ rules:
   source:
     file: ''
     lines: null
-  notes: 'Question w28: Roleplay turns run 300 to 700 words. Is that the right size?'
+  notes: 'Question w28: Roleplay turns run 300 to 700 words. Is that the right size?
+    Partly amended by R72-3-REPLIES_RUN_LONG (table law 2026-10-04): Desktop turns still run about
+    3,500 words; a Discord post Natalie writes from Isaac''s beat runs about 1,500, the house
+    median, unless the beat asks for more, and an out-of-character answer is plain.'
 - id: R48-29-PACING
   pack: Writing Law 2026-09-26
   pack_number: null
@@ -807,7 +814,14 @@ rules:
     out shown before the killing exchange (ground, a door, a yield, a price). A death means the exit
     was missed or refused, and the notes cite both sign and exit." The clear warning is a plain sign
     the fight is lost, landing an exchange or more before the killing one, plus a way out shown
-    before that exchange; death if earned stands.'
+    before that exchange; death if earned stands.
+    Partly amended by R72-31-LAST_WARNING (table law 2026-10-04): before a choice that can kill his
+    character, the clear warning is signs, tells and exits on the page, and one plain OOC line joins
+    them only when the danger is one his character could not read (Pressure from far above him, a
+    Well''s own law); if he misses them all the death stands. ''Death can happen, if earned''
+    stands. Partly amended by R72-38-GUEST_OWN_LINES (table law 2026-10-04): a guest player''s
+    character marked not mortal can be maimed, captured or ruined, never killed; ''this narrows
+    R48-31 for that character only'', and the row stands for every other character.'
 - id: R48-32-NPC_VOICES
   pack: Writing Law 2026-09-26
   pack_number: null
@@ -1105,7 +1119,11 @@ rules:
   source:
     file: ''
     lines: null
-  notes: 'Question w42: How much should people lie or talk around things?'
+  notes: 'Question w42: How much should people lie or talk around things?
+    Partly amended by R72-25-HOW_MANY_LIES (table law 2026-10-04): ''many NPCs lie'' gains a floor,
+    so every roster NPC with a want carries at least one live lie, told when it serves them and
+    logged with its tell; the player still has to catch them. Table Rule 8 (NATALIE.md text, no
+    indexed row) folds into R72-25-HOW_MANY_LIES and is retired.'
 - id: R48-43-SPEECHES
   pack: Writing Law 2026-09-26
   pack_number: null
@@ -1234,7 +1252,10 @@ rules:
   source:
     file: ''
     lines: null
-  notes: 'Question w47: How much author notes after a written scene?'
+  notes: 'Question w47: How much author notes after a written scene?
+    Partly amended by R72-12-TABLE_TALK_NOTES (table law 2026-10-04): at the Desktop table the
+    chat''s short summary is a foot of OOC lines below a divider under the prose, and the full notes
+    are written once, when archive_scene files the finished scene.'
 - id: R48-48-EXPLAIN
   pack: Writing Law 2026-09-26
   pack_number: null

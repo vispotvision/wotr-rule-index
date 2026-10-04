@@ -482,7 +482,10 @@ rules:
   source:
     file: ''
     lines: null
-  notes: SP1. No indexed rule named; Table Rule 1 (stop at his next decision) holds for turns.
+  notes: 'SP1. No indexed rule named; Table Rule 1 (stop at his next decision) holds for turns. Read with
+    R72-5-STANDING_ORDERS_OUTSIDE_FIGHTS (table law 2026-10-04): Isaac may post standing orders in every
+    scene type, quiet, travel and downtime scenes among them, and Natalie runs them to the first branch
+    they miss, where the roleplay turn stops.'
 - id: R70-15-TEMPO_STILLNESS
   pack: Style Law 2026-10-03
   pack_number: null
@@ -4432,8 +4435,12 @@ rules:
   source:
     file: ''
     lines: null
-  notes: No rule row is touched. The tag governs style precedent only; what happened in an archived scene
-    stays canon.
+  notes: 'No rule row is touched. The tag governs style precedent only; what happened in an archived scene
+    stays canon. Noted by R72-39-GUEST_SCENES_BECOME (table law 2026-10-04): when a scene with other players
+    is archived, the Judger marks each canon break struck or accepted as a new fact and tells the player
+    which, so a struck break is not carried as fact; R72-37-PLAYER_AGAINST_PLAYER likewise marks struck
+    a post a player-against-player ruling contradicts. Leaving archived scenes as written and the law-edition
+    tag stand.'
 - id: R70-138-PROOF_ORDER_WORK
   pack: Style Law 2026-10-03
   pack_number: null

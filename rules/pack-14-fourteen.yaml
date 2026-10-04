@@ -140,6 +140,10 @@ rules:
       Read with R70-90-FAST_NUMBERS_CLIMB (style law 2026-10-03): a
       character's numbers move only for a shown cause, as fight outcomes trace
       to a table row.
+      Extended by R72-13-FOOT_CARRIES (table law 2026-10-04): at the table the
+      OOC foot under a turn also names the stat row that decided any
+      adjudicated outcome, beside two to four rule ids that bound the turn;
+      the author notes still say which row.
 
   - id: R14-4-EFFECTS_CHANNEL
     pack: Pack Fourteen

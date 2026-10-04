@@ -1,0 +1,130 @@
+[
+ {
+  "old_id": "R48-26-INVENTION",
+  "action": "note",
+  "by": "R72-2-IMPROVISE_OR_ASK",
+  "r72_quote": "\"Bigger things wait\" is struck. Natalie makes every call, even a carded NPC's death or a new faction, and logs each as an agent ruling (a call you may overturn) under the turn.",
+  "old_text": "The partner may invent NPCs, places and texture mid-scene without asking, logged; bigger things wait for Isaac.",
+  "note_text": "Partly amended by R72-2-IMPROVISE_OR_ASK (table law 2026-10-04): 'Bigger things wait' is struck. Natalie makes every call herself, even a carded NPC's death or a new faction, and logs each under the turn as an agent ruling Isaac may overturn; inventing NPCs, places and texture without asking, logged, stands inside it."
+ },
+ {
+  "old_id": "R50-21-THIRD_NAMES",
+  "action": "note",
+  "by": "R72-2-IMPROVISE_OR_ASK",
+  "r72_quote": "Natalie makes every call, even a carded NPC's death or a new faction, and logs each as an agent ruling (a call you may overturn) under the turn.",
+  "old_text": "The partner may coin a Third Name for one of Isaac's characters through an NPC in a scene; it sticks only if Isaac keeps it.",
+  "note_text": "Read with R72-2-IMPROVISE_OR_ASK (table law 2026-10-04): at the table Natalie makes every call and logs each under the turn as an agent ruling Isaac may overturn, his own characters included, since the option that would have held facts about them for his word was not taken; a Third Name coined at the table is logged that way, and Isaac keeps it or overturns it."
+ },
+ {
+  "old_id": "R50-07-NEW_TONGUES",
+  "action": "note",
+  "by": "R72-2-IMPROVISE_OR_ASK",
+  "r72_quote": "Natalie makes every call, even a carded NPC's death or a new faction, and logs each as an agent ruling (a call you may overturn) under the turn.",
+  "old_text": "The partner may open a new real-language naming register for a new people, logged as pending.",
+  "note_text": "Read with R72-2-IMPROVISE_OR_ASK (table law 2026-10-04): at the table Natalie makes every call, even a new faction, and logs each under the turn as an agent ruling Isaac may overturn, so a register she opens in play is logged as such a ruling."
+ },
+ {
+  "old_id": "R49-30-SHORT_BEATS",
+  "action": "note",
+  "by": "R72-3-REPLIES_RUN_LONG",
+  "r72_quote": "This reopens R49-30 for Discord: Desktop turns run about 3,500 and OOC answers are plain; a Discord post runs about 1,500 words, the house median, unless your beat asks for more.",
+  "old_text": "Every reply is a full turn of about 3,500 words, even to a quick line or question.",
+  "note_text": "Partly amended by R72-3-REPLIES_RUN_LONG (table law 2026-10-04): 'This reopens R49-30 for Discord'. At the Desktop table an in-fiction reply is still a full turn of about 3,500 words, even to a quick line or question; an out-of-character answer is plain, and a Discord post runs about 1,500 words, the house median, unless the beat asks for more."
+ },
+ {
+  "old_id": "R48-28-TURN_LENGTH",
+  "action": "note",
+  "by": "R72-3-REPLIES_RUN_LONG",
+  "r72_quote": "Desktop turns run about 3,500 and OOC answers are plain; a Discord post runs about 1,500 words, the house median, unless your beat asks for more.",
+  "old_text": "Roleplay turns run about 3,500 words (Isaac's answer: \"3500\").",
+  "note_text": "Partly amended by R72-3-REPLIES_RUN_LONG (table law 2026-10-04): Desktop turns still run about 3,500 words; a Discord post Natalie writes from Isaac's beat runs about 1,500, the house median, unless the beat asks for more, and an out-of-character answer is plain."
+ },
+ {
+  "old_id": "R49-29-TURN_FILL",
+  "action": "note",
+  "by": "R72-4-WHERE_TURN_STOPS",
+  "r72_quote": "The turn runs past pauses he would let pass and stops when something presses him: a question to him, an offer, a threat, a clock. A line aimed at him always stops it.",
+  "old_text": "A 3,500-word turn is filled balanced: about half texture and talk, half the world moving, before the stop at the next decision.",
+  "note_text": "Partly amended by R72-4-WHERE_TURN_STOPS (table law 2026-10-04): the stop at the next decision falls at the first pressure on him (a question to him, an offer, a threat, a clock); the turn runs past pauses he would let pass, and a line aimed at him always stops it."
+ },
+ {
+  "old_id": "R71-5-ROLEPLAY_TURNS_AGAINST_WRITTEN",
+  "action": "note",
+  "by": "R72-5-STANDING_ORDERS_OUTSIDE_FIGHTS",
+  "r72_quote": "Every scene type. Post conditions anywhere (\"if she names the stair, I ask for the daybook\"). Natalie runs them to the first branch they miss, and any line your PC speaks is only your posted words.",
+  "old_text": "Standing orders honoured. You may post conditions ('if he closes, I cut low'). Natalie runs them exchange by exchange until the first branch they do not cover, then stops on that threat. Table Rule 1 gains this exception.",
+  "note_text": "Extended by R72-5-STANDING_ORDERS_OUTSIDE_FIGHTS (table law 2026-10-04): standing orders now run in every scene type, talk, travel and investigation included; Natalie runs them to the first branch they miss, and any line the PC speaks is only Isaac's posted words."
+ },
+ {
+  "old_id": "R49-29-TURN_FILL",
+  "action": "note",
+  "by": "R72-5-STANDING_ORDERS_OUTSIDE_FIGHTS",
+  "r72_quote": "Every scene type. Post conditions anywhere (\"if she names the stair, I ask for the daybook\"). Natalie runs them to the first branch they miss",
+  "old_text": "A 3,500-word turn is filled balanced: about half texture and talk, half the world moving, before the stop at the next decision.",
+  "note_text": "Read with R72-5-STANDING_ORDERS_OUTSIDE_FIGHTS (table law 2026-10-04): standing orders now run in every scene type, so wherever Isaac has posted conditions the stop at the next decision falls at the first branch they miss."
+ },
+ {
+  "old_id": "R70-14-KISHOTENKETSU",
+  "action": "note",
+  "by": "R72-5-STANDING_ORDERS_OUTSIDE_FIGHTS",
+  "r72_quote": "Every scene type. Post conditions anywhere (\"if she names the stair, I ask for the daybook\"). Natalie runs them to the first branch they miss",
+  "old_text": "Kishōtenketsu for quiet scenes. Quiet, travel, downtime and interlude scenes may run set-up, development, twist, reconciliation with no conflict; fights, councils and set pieces keep the turn. Scene briefs name the shape; roleplay turns still stop at Isaac's decision.",
+  "note_text": "Read with R72-5-STANDING_ORDERS_OUTSIDE_FIGHTS (table law 2026-10-04): Isaac may post standing orders in every scene type, quiet, travel and downtime scenes among them, and Natalie runs them to the first branch they miss, where the roleplay turn stops."
+ },
+ {
+  "old_id": "R49-01-WHOSE_HEAD",
+  "action": "note",
+  "by": "R72-6-WORLD_WRITES_HIM",
+  "r72_quote": "Involuntary responses (sweat and nausea under Pressure, a startle at a shot, cold shakes, a drug taking hold) land on his body as facts",
+  "old_text": "In roleplay turns the narration may go to full depth inside Isaac's character; Isaac overrules any thought that isn't his.",
+  "note_text": "Partly amended by R72-6-WORLD_WRITES_HIM (table law 2026-10-04): outside a fight too, the PC's involuntary responses (sweat and nausea under Pressure, a startle, cold shakes, a drug taking hold) land on his body as facts, Natalie lays the tells and never draws his conclusion, and what he would know comes as plain recall from his card and canon only, never a new memory."
+ },
+ {
+  "old_id": "R71-6-PLAYER_FIGHTER_PAGE",
+  "action": "note",
+  "by": "R72-6-WORLD_WRITES_HIM",
+  "r72_quote": "In talk and investigation too, Natalie lays the tells in the room and never draws his conclusion; the deduction is your post, R71-6's \"the read his\" carried outside fights",
+  "old_text": "Yes to: Wounds as world facts (Once your stated move resolves, the hit, the wound by structure, its ATLS class (the trauma surgeons' blood-loss scale) and what the hand can no longer do are written as world facts; how he bears it stays yours); The tell placed, the read his (Natalie puts the evidence in the room (the heel, the smell, the needle) and never draws the conclusion; the deduction, floor item 3, is your post, as CW14's D already leaves the reading to you); Felt from across the room (From an NPC's POV a player's fighter is only what that NPC's eyes, body and room register, the Geturo model; his reasons and his Crystal stay dark. It covers guest players at the Discord table too); Outward cost only (Natalie shows what his working costs where others could see it (heat off the skin, thaw at his boots, R48-37) and keeps the spend in the Stat Ledger (the running figures in the notes); the inside is yours).",
+  "note_text": "Extended by R72-6-WORLD_WRITES_HIM (table law 2026-10-04): carried outside fights, his involuntary responses land on his body as facts, as wounds do under this row, and in talk and investigation Natalie lays the tells and never draws his conclusion, the deduction being his post."
+ },
+ {
+  "old_id": "R49-09-CUTAWAYS",
+  "action": "note",
+  "by": "R72-7-CUTAWAY_SHOWS",
+  "r72_quote": "The cut shows who acts and what they do, and keeps the reason, as R70-76 does for the world's magic. You see the move; your PC still has to read the why.",
+  "old_text": "A turn may close with a short, clearly marked cut to something the POV cannot see (a Front advancing, an NPC plotting).",
+  "note_text": "Partly amended by R72-7-CUTAWAY_SHOWS (table law 2026-10-04): the cut shows who acts and what they do and keeps the reason, so the player sees the move and his PC still has to read the why."
+ },
+ {
+  "old_id": "R49-32-CUT_OFFS",
+  "action": "note",
+  "by": "R72-11-WORLD_INTERRUPTS",
+  "r72_quote": "every line he speaks is said in full, though NPCs may react while he speaks.",
+  "old_text": "Interrupted speech is shown with an ellipsis ('I didn't...') and the interrupter's line follows.",
+  "note_text": "Partly amended by R72-11-WORLD_INTERRUPTS (table law 2026-10-04): every line Isaac's PC speaks is said in full, though NPCs may react while he speaks, so an interrupted line shown this way is never his."
+ },
+ {
+  "old_id": "R48-47-NOTES",
+  "action": "note",
+  "by": "R72-12-TABLE_TALK_NOTES",
+  "r72_quote": "Prose first; below a divider line, a short foot of OOC lines. The full notes are written once, when archive_scene (the tool that files a finished scene) saves it.",
+  "old_text": "Full author notes go in the scene file (rule ids, stat ledger, research, costs); chat gets a short summary.",
+  "note_text": "Partly amended by R72-12-TABLE_TALK_NOTES (table law 2026-10-04): at the Desktop table the chat's short summary is a foot of OOC lines below a divider under the prose, and the full notes are written once, when archive_scene files the finished scene."
+ },
+ {
+  "old_id": "R14-3-TRACEABILITY",
+  "action": "note",
+  "by": "R72-13-FOOT_CARRIES",
+  "r72_quote": "Two to four rule ids that bound the turn and, for any adjudicated outcome, the stat row that decided it (R14-3, R71-7)",
+  "old_text": "Every outcome in a fight traces to a row in this table, and the author notes say which.",
+  "note_text": "Extended by R72-13-FOOT_CARRIES (table law 2026-10-04): at the table the OOC foot under a turn also names the stat row that decided any adjudicated outcome, beside two to four rule ids that bound the turn; the author notes still say which row."
+ },
+ {
+  "old_id": "R52-09-NO_LINE",
+  "action": "note",
+  "by": "R72-19-NEW_LINES_HIS_POSTS",
+  "r72_quote": "R52-09 reaches the posts: Natalie drafts the line in his voice, marked as a draft for you to keep, change or cut before you post.",
+  "old_text": "When Isaac gives a wordless beat in a written scene, the partner writes the line in his character's voice, marked as a draft for him to keep, change or cut.",
+  "note_text": "Extended by R72-19-NEW_LINES_HIS_POSTS (table law 2026-10-04): the drafted, marked line now reaches the Discord posts Natalie writes from Isaac's beat, not only written scenes; he keeps, changes or cuts it before he posts."
+ }
+]

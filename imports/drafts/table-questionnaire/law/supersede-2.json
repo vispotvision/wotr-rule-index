@@ -1,0 +1,58 @@
+[
+ {
+  "old_id": "R48-42-LIES",
+  "action": "note",
+  "by": "R72-25-HOW_MANY_LIES",
+  "r72_quote": "Every roster NPC with a want carries at least one live lie, told when it serves them and logged with its tell.",
+  "old_text": "Frequent lies: many NPCs lie for their own reasons; the player has to catch them.",
+  "note_text": "Partly amended by R72-25-HOW_MANY_LIES (table law 2026-10-04): 'many NPCs lie' gains a floor, so every roster NPC with a want carries at least one live lie, told when it serves them and logged with its tell; the player still has to catch them. Table Rule 8 (NATALIE.md text, no indexed row) folds into R72-25-HOW_MANY_LIES and is retired."
+ },
+ {
+  "old_id": "R58-07-WREN_GRIEF_FRONT",
+  "action": "note",
+  "by": "R72-20-MOVES_FRONT",
+  "r72_quote": "Each Front gets a pace in story days. When in-world time passes, every Front whose days are spent ticks offscreen, played or not; his acts can speed, slow or stop it.",
+  "old_text": "Wren Greymane's Front becomes a grief Front: the aftermath of his death, Bram and the ridge carrying it, ticks driven by who blames whom.",
+  "note_text": "Partly amended by R72-20-MOVES_FRONT (table law 2026-10-04): like every Front, the grief Front gets a pace in story days and ticks offscreen when its days are spent, played or not, and his acts can speed, slow or stop it; the answer does not say how 'who blames whom' bears on that pace. The grief Front stands."
+ },
+ {
+  "old_id": "R48-31-STAKES",
+  "action": "note",
+  "by": "R72-31-LAST_WARNING",
+  "r72_quote": "As A, plus the OOC line only when the danger is one his character could not read: Pressure (the felt weight of a higher Stage) from far above him, or a Well's own law.",
+  "old_text": "Death can happen, if earned: from real mistakes after clear warning; nothing is safe.",
+  "note_text": "Partly amended by R72-31-LAST_WARNING (table law 2026-10-04): before a choice that can kill his character, the clear warning is signs, tells and exits on the page, and one plain OOC line joins them only when the danger is one his character could not read (Pressure from far above him, a Well's own law); if he misses them all the death stands. 'Death can happen, if earned' stands."
+ },
+ {
+  "old_id": "R48-31-STAKES",
+  "action": "note",
+  "by": "R72-38-GUEST_OWN_LINES",
+  "r72_quote": "One marked not mortal can be maimed, captured or ruined, never killed; this narrows R48-31 for that character only",
+  "old_text": "Death can happen, if earned: from real mistakes after clear warning; nothing is safe.",
+  "note_text": "Partly amended by R72-38-GUEST_OWN_LINES (table law 2026-10-04): a guest player's character marked not mortal can be maimed, captured or ruined, never killed; 'this narrows R48-31 for that character only', and the row stands for every other character."
+ },
+ {
+  "old_id": "R71-5-ROLEPLAY_TURNS_AGAINST_WRITTEN",
+  "action": "note",
+  "by": "R72-36-WHO_POSTS_WHEN",
+  "r72_quote": "after which the round moves on and standing orders (R71-5) play for the absent",
+  "old_text": "Standing orders honoured. You may post conditions ('if he closes, I cut low'). Natalie runs them exchange by exchange until the first branch they do not cover, then stops on that threat. Table Rule 1 gains this exception.",
+  "note_text": "Partly amended by R72-36-WHO_POSTS_WHEN (table law 2026-10-04): at the Discord table, in fights and contests run in a fixed round order, a player who misses the reply window the Judger sets has their posted standing orders play for them and the round moves on; free posting holds in talk and travel."
+ },
+ {
+  "old_id": "R71-54-BOUTS_AETHERION",
+  "action": "note",
+  "by": "R72-37-PLAYER_AGAINST_PLAYER",
+  "r72_quote": "Before contact both players post terms (what counts as a loss, what is off the table), R71-54 widened to every contest",
+  "old_text": "Posted terms, warden backstop. Each bout's terms are chalked before it (yield, ring-out, a wound by class). Fighters may push right up to them, and the warden's gauge stops only what the terms never priced.",
+  "note_text": "Partly amended by R72-37-PLAYER_AGAINST_PLAYER (table law 2026-10-04): 'R71-54 widened to every contest' between players' characters: before contact both players post terms (what counts as a loss, what is off the table), and inside them the Judger rules by card. The chalked terms and the warden's backstop stand for sanctioned bouts."
+ },
+ {
+  "old_id": "R70-137-ARCHIVED_SCENES",
+  "action": "note",
+  "by": "R72-39-GUEST_SCENES_BECOME",
+  "r72_quote": "On archive the Judger marks each break struck or accepted as a new fact and tells the player which",
+  "old_text": "Leave them, tag the edition. The archive stays untouched, and scenes/MANIFEST.md gains a law-edition column so the drafting tools and scene_recall stop treating old style as precedent.",
+  "note_text": "Noted by R72-39-GUEST_SCENES_BECOME (table law 2026-10-04): when a scene with other players is archived, the Judger marks each canon break struck or accepted as a new fact and tells the player which, so a struck break is not carried as fact; R72-37-PLAYER_AGAINST_PLAYER likewise marks struck a post a player-against-player ruling contradicts. Leaving archived scenes as written and the law-edition tag stand."
+ }
+]

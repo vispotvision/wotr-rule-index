@@ -7,6 +7,10 @@
   opened_session: 0
   due: null
   status: open
+  thread: Sodoku Moto / Kharven
+  reconciled: '2026-10-04, R72-42 reconciliation, agent ruling (K2, a call Isaac may overturn): standing:
+    the dead never come due by date or trigger (R72-22 as the tools read it). Her own thread is closed;
+    her consequence is carried on the Kharven page.'
 - id: L002
   category: the dead
   who: Muken Moto.
@@ -16,6 +20,9 @@
   opened_session: 0
   due: null
   status: open
+  thread: Sodoku Moto / Kharven
+  reconciled: '2026-10-04, R72-42 reconciliation, agent ruling (K2, a call Isaac may overturn): standing:
+    the dead never come due by date or trigger (R72-22 as the tools read it).'
 - id: L003
   category: the dead
   who: Freya.
@@ -26,6 +33,9 @@
   opened_session: 0
   due: null
   status: open
+  thread: Sodoku Moto / Kharven
+  reconciled: '2026-10-04, R72-42 reconciliation, agent ruling (K2, a call Isaac may overturn): standing:
+    the dead never come due by date or trigger (R72-22 as the tools read it).'
 - id: L004
   category: the dead
   who: Seiji Tenrai Moto.
@@ -35,6 +45,9 @@
   opened_session: 0
   due: null
   status: open
+  thread: Sodoku Moto / Kharven
+  reconciled: '2026-10-04, R72-42 reconciliation, agent ruling (K2, a call Isaac may overturn): standing:
+    the dead never come due by date or trigger (R72-22 as the tools read it).'
 - id: L005
   category: the dead
   who: Eleven Tenrai retainers
@@ -44,6 +57,9 @@
   opened_session: 0
   due: null
   status: open
+  thread: Sodoku Moto / Kharven
+  reconciled: '2026-10-04, R72-42 reconciliation, agent ruling (K2, a call Isaac may overturn): standing:
+    the dead never come due by date or trigger (R72-22 as the tools read it).'
 - id: L006
   category: injuries and reserve
   who: Sodoku Moto
@@ -51,8 +67,13 @@
     remembering costs a vibration (Borin). Standing.'
   opened: '2026-09-10'
   opened_session: 0
-  due: 1
+  due: null
   status: open
+  thread: Sodoku Moto / Kharven
+  due_trigger: Kurosetsu is next asked to remember, or a scene runs him past another night's waking
+  reconciled: '2026-10-04, R72-42 reconciliation, agent ruling (K2, a call Isaac may overturn): standing
+    exhaustion at the live date (''had still not slept a full night since the ninth hour'', What the Ground
+    Was Owed); the cost lands when the blade is asked to remember. Was due: 1.'
 - id: L007
   category: injuries and reserve
   who: Bram Greymane
@@ -60,8 +81,13 @@
     and would not sit down.'
   opened: '2026-09-10'
   opened_session: 0
-  due: 1
+  due: null
   status: open
+  thread: Sodoku Moto / Kharven
+  due_trigger: Bram next fights, rides hard, or is kept standing through a long sitting
+  reconciled: '2026-10-04, R72-42 reconciliation, agent ruling (K2, a call Isaac may overturn): healed
+    hard at eleven months (What the Ground Was Owed); the hand and the hip show whenever he is pressed.
+    Was due: 1.'
 - id: L008
   category: injuries and reserve
   who: Brida
@@ -69,8 +95,13 @@
     minutes.'
   opened: '2026-09-10'
   opened_session: 0
-  due: 1
+  due: null
   status: open
+  thread: Sodoku Moto / Kharven
+  due_trigger: the first frost comes round a year on and the stick may come off, or she is sent on foot
+    any distance before then
+  reconciled: '2026-10-04, R72-42 reconciliation, agent ruling (K2, a call Isaac may overturn): ''walking
+    with a stick and would be for a year'' (What the Ground Was Owed). Was due: 1.'
 - id: L009
   category: injuries and reserve
   who: Renard Greymane
@@ -78,8 +109,17 @@
     unknown. Reserve about a third down.'
   opened: '2026-09-10'
   opened_session: 0
-  due: 1
-  status: open
+  due: null
+  status: collected
+  thread: Sodoku Moto / Kharven
+  collected:
+    session: 1
+    date: '2026-10-04'
+    how: 'retired by the R72-42 reconciliation, agent ruling (K2, a call Isaac may overturn): backfill
+      under R72-34: the Held Boil''s residue was taken in the Thin Weeks before the muster, more than
+      a year before the live date, and no record carries it forward (''No record carries Renard past that
+      day'', his card); if he returns to the page his card governs'
+    was_due: 1
 - id: L010
   category: injuries and reserve
   who: Vresk Dokkan of Kaadre-Six
@@ -87,32 +127,57 @@
     things, entered against names on a roll. Alive. Returned.'
   opened: '2026-09-10'
   opened_session: 0
-  due: 1
+  due: null
   status: open
+  thread: Sodoku Moto / Kharven
+  due_trigger: the Keth-Gorrum addresses Vresk Dokkan by his new compound (the-keth-gorrum-of-undaar-keth
+    tick 2)
+  reconciled: '2026-10-04, R72-42 reconciliation, agent ruling (K2, a call Isaac may overturn): alive
+    and returned (What the Ground Was Owed); what his body carries shows when he is next seen. Was due:
+    1.'
 - id: L011
   category: debts
   who: ''
   text: 'Sodoku to Borin: eleven days of forge-work on the crossing, still unpriced.'
   opened: '2026-09-10'
   opened_session: 0
-  due: 2
+  due: null
   status: open
+  thread: Sodoku Moto / Kharven
+  due_trigger: Borin names his price, or Sodoku next stands at Borin's forge
+  reconciled: '2026-10-04, R72-42 reconciliation, agent ruling (K2, a call Isaac may overturn): still
+    unpriced at the live date; The Drawing-Off (unplaced) has Borin''s burn from eleven days at the anvil
+    for ''a customer upstairs who had not yet paid'', which keeps it open. Was due: 2.'
 - id: L012
   category: debts
   who: ''
   text: 'Kharven to Stannvaard: the grain.'
   opened: '2026-09-10'
   opened_session: 0
-  due: 2
+  due: null
   status: open
+  thread: Sodoku Moto / Kharven
+  due_trigger: a Stannvaard debt reaches the circle (the-accord-circle-unnamed tick 4), or a Stannvaard
+    factor comes to the Seat for the grain
+  reconciled: '2026-10-04, R72-42 reconciliation, agent ruling (K2, a call Isaac may overturn): open at
+    the live date; canon fixes ahead of the table that Stannvaard comes under the empire on the morning
+    the empire is born (The Revolution of the Inner World), and the debt stands under that. Was due: 2.'
 - id: L013
   category: debts
   who: ''
   text: 'Renard to Brida: an explanation, and a body before morning.'
   opened: '2026-09-10'
   opened_session: 0
-  due: 2
-  status: open
+  due: null
+  status: collected
+  thread: Sodoku Moto / Kharven
+  collected:
+    session: 1
+    date: '2026-10-04'
+    how: 'retired by the R72-42 reconciliation, agent ruling (K2, a call Isaac may overturn): backfill
+      under R72-34: ''a body before morning'' named a morning in the Thin Weeks before the muster; the
+      ninth hour and Brida''s eleven days in the third bowl overtook it, and nothing carries it'
+    was_due: 2
 - id: L014
   category: debts
   who: The four hundred and six
@@ -121,40 +186,67 @@
     the path four seconds, said *aye*, and did it.'
   opened: '2026-09-10'
   opened_session: 0
-  due: 2
+  due: null
   status: open
+  thread: Sodoku Moto / Kharven
+  due_trigger: Lambert lays the southern registers before the king to re-enter under the circle's seal
+    (the-accord-circle-unnamed tick 2)
+  fired: '2026-09-22'
+  reconciled: '2026-10-04, R72-42 reconciliation, agent ruling (K2, a call Isaac may overturn): the bill
+    is on the table: the Front''s last move (2026-09-22) is Lambert''s paper, which would pass the four
+    hundred and six from his office to the circle. It arrives as an offer with terms (R72-23); the brush
+    is his. Was due: 2.'
 - id: L015
   category: who knows what
   who: ''
   text: Renard knows a dead man said Lambert opened the west postern. Nobody else does.
   opened: '2026-09-10'
   opened_session: 0
-  due: 3
+  due: null
   status: open
+  thread: Sodoku Moto / Kharven
+  due_trigger: Renard speaks Lambert's name to anyone, or the west postern is examined
+  reconciled: '2026-10-04, R72-42 reconciliation, agent ruling (K2, a call Isaac may overturn): still
+    binds at the live date under R72-34: the dying man''s claim ''stands without an answer'' (Renard''s
+    card) and ''stands uncorrected'' (Lambert''s card). Was due: 3.'
 - id: L016
   category: who knows what
   who: ''
   text: Renard holds a brass token and a sealed packet nobody has read.
   opened: '2026-09-10'
   opened_session: 0
-  due: 3
+  due: null
   status: open
+  thread: Sodoku Moto / Kharven
+  due_trigger: the brass token or the sealed packet is read by anyone
+  reconciled: '2026-10-04, R72-42 reconciliation, agent ruling (K2, a call Isaac may overturn): still
+    binds under R72-34: ''No record says who has read the token'' (Renard''s card). Was due: 3.'
 - id: L017
   category: who knows what
   who: ''
   text: Tabitha has the question, written and dated, and two refusals.
   opened: '2026-09-10'
   opened_session: 0
-  due: 3
+  due: null
   status: open
+  thread: Sodoku Moto / Kharven
+  due_trigger: Tabitha stops asking Lambert and starts asking the factors (tabitha-hallenfeld tick 1)
+  reconciled: '2026-10-04, R72-42 reconciliation, agent ruling (K2, a call Isaac may overturn): live (What
+    the Ground Was Owed); canon fixes ahead that the Ashwell Register prints the question in the sixth
+    year''s third month, not by her (The Revolution of the Inner World). Was due: 3.'
 - id: L018
   category: who knows what
   who: ''
   text: Yoko's four lines exist. The Bench has never been permitted to see them.
   opened: '2026-09-10'
   opened_session: 0
-  due: 3
+  due: null
   status: open
+  thread: Sodoku Moto / Kharven
+  due_trigger: anyone asks Yoko for her record of the signing night, or the Bench demands it
+  reconciled: '2026-10-04, R72-42 reconciliation, agent ruling (K2, a call Isaac may overturn): unseen
+    at the live date; canon fixes ahead that it is still unshown in the sixth year, when the Silver Objection
+    reaches the same sentence from outside (The Revolution of the Inner World). Was due: 3.'
 - id: L019
   category: who knows what
   who: ''
@@ -162,8 +254,14 @@
     on the road. Everyone in the Seat knew what it was. Nobody recorded it.
   opened: '2026-09-10'
   opened_session: 0
-  due: 3
+  due: null
   status: open
+  thread: Sodoku Moto / Kharven
+  due_trigger: anyone enters the difference between the two counts, or the southern registers are re-entered
+    under the circle's seal
+  reconciled: '2026-10-04, R72-42 reconciliation, agent ruling (K2, a call Isaac may overturn): live:
+    ''nobody made a record of it'' (What the Ground Was Owed), and Lambert''s paper would re-enter those
+    registers. Was due: 3.'
 - id: L020
   category: who knows what
   who: ''
@@ -171,8 +269,14 @@
     eleventh year that this was the whole answer.
   opened: '2026-09-10'
   opened_session: 0
-  due: 3
+  due: null
   status: open
+  thread: Ilthára Korvaeth / The New World
+  due_trigger: Aeldros works out that the challenge form is two words long and legal (the-thing-nobody-has-done
+    tick 1)
+  reconciled: '2026-10-04, R72-42 reconciliation, agent ruling (K2, a call Isaac may overturn): the Korvaeth
+    live year is the eleventh; the year-eleven scenes (Coldwater to the ridge) have not put the form to
+    her. Was due: 3.'
 - id: L021
   category: reputation
   who: Sodoku
@@ -180,16 +284,25 @@
     depositions notice he never thanked the boy.'
   opened: '2026-09-10'
   opened_session: 0
-  due: 3
+  due: null
   status: open
+  thread: Sodoku Moto / Kharven
+  due_trigger: a house, court or column that heard the three depositions receives him
+  reconciled: '2026-10-04, R72-42 reconciliation, agent ruling (K2, a call Isaac may overturn): the Brine
+    crossing at the live date (What the Ground Was Owed); reputation reaches an NPC under R72-27 and the
+    notes name this line. Was due: 3.'
 - id: L022
   category: reputation
   who: Bram
   text: '**Bram:** did not maim a commander, made a nation invent a word.'
   opened: '2026-09-10'
   opened_session: 0
-  due: 3
+  due: null
   status: open
+  thread: Sodoku Moto / Kharven
+  due_trigger: the Keth-Gorrum coins the word for Vresk Dokkan (the-keth-gorrum-of-undaar-keth tick 1)
+  reconciled: '2026-10-04, R72-42 reconciliation, agent ruling (K2, a call Isaac may overturn): the word
+    is what this reputation rests on. Was due: 3.'
 - id: L023
   category: reputation
   who: Lambert
@@ -197,8 +310,13 @@
     order, and cannot be thanked for it in public.'
   opened: '2026-09-10'
   opened_session: 0
-  due: 3
+  due: null
   status: open
+  thread: Sodoku Moto / Kharven
+  due_trigger: Tabitha's question is put in public again (tabitha-hallenfeld tick 3)
+  reconciled: '2026-10-04, R72-42 reconciliation, agent ruling (K2, a call Isaac may overturn): canon
+    fixes ahead that the Register prints it in the sixth year and he reads it at breakfast and asks for
+    the returns (The Revolution of the Inner World). Was due: 3.'
 - id: L024
   category: reputation
   who: Ilthára Korvaeth
@@ -206,8 +324,12 @@
     is a ledger rather than raving.'
   opened: '2026-09-10'
   opened_session: 0
-  due: 3
+  due: null
   status: open
+  thread: Ilthára Korvaeth / The New World
+  due_trigger: a court or the archive reads the yard's ledger aloud (velthaeir tick 1)
+  reconciled: '2026-10-04, R72-42 reconciliation, agent ruling (K2, a call Isaac may overturn): standing
+    at the Korvaeth live date. Was due: 3.'
 - id: L025
   category: canon conflicts on the ledger (blocking)
   who: R14-A
@@ -215,7 +337,14 @@
   opened: '2026-09-10'
   opened_session: 0
   due: null
-  status: open
+  status: collected
+  thread: Sodoku Moto / Kharven
+  collected:
+    session: 1
+    date: '2026-10-04'
+    how: 'retired by the R72-42 reconciliation, agent ruling (K2, a call Isaac may overturn): ruled: R20C-30-STAGE_NAMES_FROM_FOW
+      is live (''Ignition and Temper appear nowhere in FOW and are not Stage names''), as NATALIE.md''s
+      2026-09-12 ruling says; Gimbzo''s numeral against name is its own CONFLICTS row under WAR-15'
 - id: L026
   category: canon conflicts on the ledger (blocking)
   who: The Accord circle has no name.
@@ -223,7 +352,17 @@
   opened: '2026-09-10'
   opened_session: 0
   due: null
-  status: open
+  status: collected
+  thread: Sodoku Moto / Kharven
+  collected:
+    session: 1
+    date: '2026-10-04'
+    how: 'retired by the R72-42 reconciliation, agent ruling (K2, a call Isaac may overturn): the archive
+      names it: the empire of Whitemere, Emira''s word for the mere under the ridge, chosen in a room
+      of four at Kharven-Seat eleven days before the Stannvaard announcement, the morning the empire is
+      born (The Revolution of the Inner World, archived 2026-09-22, revised at Isaac''s direction 2026-09-26).
+      At the live date the naming has not yet happened in play; the-accord-circle-unnamed carries it,
+      and pages still saying ''unnamed'' are a sweep, not a bill'
 - id: L027
   category: canon conflicts on the ledger (blocking)
   who: The Onawa collision
@@ -243,6 +382,12 @@
   opened_session: 0
   due: null
   status: open
+  thread: Ilthára Korvaeth / The New World
+  due_trigger: the docket rules whether Ilthára said the name, as an agents' authorship call (RULINGS
+    2026-09-25, rung 7)
+  reconciled: '2026-10-04, R72-42 reconciliation, agent ruling (K2, a call Isaac may overturn): an authorship
+    question the 2026-09-25 rung sends to the agents; not yet ruled, so the line stays (this pass rules
+    no canon conflict).'
 - id: L029
   category: canon conflicts on the ledger (blocking)
   who: ''
@@ -255,18 +400,31 @@
 - id: L030
   category: injuries and reserve
   who: Xanelor Rafiminar
-  text: 'Hairline fractures of the radius and ulna in both forearms, from shoving essence against the
-    Juggernaut''s Fist pressure well (Fusion Rule, equal and opposite on his own skeleton). Left wrist
+  text: 'Xanelor Rafiminar: Both forearms bridged with set mineral where the radius and ulna cracked,
+    not yet bone: Dallae''s cement takes about six days to incorporate and the tournament is seven days
+    from the duel. Three draw fingers of the right hand cut to the bone, wrapped and left unhealed on
+    Mu-jin''s order. Left wrist strained over the scaphoid, palms raw and burned, boot soles scorched.
+    Reserve: the first raw pressure release left him hollowed and shaking, and he does not know how to
+    call it again or whether he can.'
+  opened: '2026-09-22'
+  opened_session: 1
+  due: null
+  status: open
+  thread: Kwon Mu-jin / Aetherion Academy
+  due_trigger: the Class X Open Tournament comes (day eight of term), or Xanelor next draws a bow or takes
+    a blow on either forearm
+  text_was: 'Hairline fractures of the radius and ulna in both forearms, from shoving essence against
+    the Juggernaut''s Fist pressure well (Fusion Rule, equal and opposite on his own skeleton). Left wrist
     strained along the radial side over the scaphoid (part one). Three draw fingers of the right hand
     cut to the bone by the string at the overdraw. Right palm raw from the warden''s shield, left palm
     friction-burned under the split glove. Boot soles scorched by the essence jets. Reserve: the first
     raw pressure release left him hollowed and shaking in both legs; he does not know how to call it again
     or whether he can.'
-  opened: '2026-09-22'
-  opened_session: 1
-  due: Before or at the Class X Open Tournament (seven days out, mandatory). Nothing heals on its own
-    by then; if he fights, the forearms are what an opponent aims at.
-  status: open
+  reconciled: '2026-10-04, R72-42 reconciliation, agent ruling (K2, a call Isaac may overturn): updated
+    as Xanelor: Dallae''s own notes say (''Ledger (L030 updated)''), which never reached the file; the
+    old text is kept under text_was. Was due: Before or at the Class X Open Tournament (seven days out,
+    mandatory). Nothing heals on its own by then; if he fights, the forearms are what an opponent aims
+    at..'
 - id: L031
   category: debts
   who: Xanelor Rafiminar
@@ -275,8 +433,15 @@
     bowyer, a debt to someone, or going without.
   opened: '2026-09-22'
   opened_session: 1
-  due: Before the Class X Open Tournament. An archer with no bow is a masked boy with a dagger.
+  due: null
   status: open
+  thread: Kwon Mu-jin / Aetherion Academy
+  due_trigger: the Class X Open Tournament comes, or Xanelor takes a bow from the Academy bowyer or anyone
+    else
+  reconciled: '2026-10-04, R72-42 reconciliation, agent ruling (K2, a call Isaac may overturn): still
+    no bow: Mu-jin handed the broken one back to him grip first (Xanelor: Dallae), and the bowyer has
+    no blackwood before Ice-out (roster). Was due: Before the Class X Open Tournament. An archer with
+    no bow is a masked boy with a dagger..'
 - id: L032
   category: who knows what
   who: Xanelor Rafiminar
@@ -288,8 +453,13 @@
     book that describes it.
   opened: '2026-09-22'
   opened_session: 1
-  due: When the tournament bracket is seeded, or when anyone at the Academy re-examines his intake sheet.
+  due: null
   status: open
+  thread: Kwon Mu-jin / Aetherion Academy
+  due_trigger: the tournament bracket is seeded, or anyone at the Academy re-examines his intake sheet
+  reconciled: '2026-10-04, R72-42 reconciliation, agent ruling (K2, a call Isaac may overturn): converted
+    from its own condition. Was due: When the tournament bracket is seeded, or when anyone at the Academy
+    re-examines his intake sheet..'
 - id: L033
   category: debts
   who: Kwon Mu-jin
@@ -300,20 +470,31 @@
     and for why it was allowed to go that far.
   opened: '2026-09-22'
   opened_session: 1
-  due: 1
+  due: null
   status: open
+  thread: Kwon Mu-jin / Aetherion Academy
+  due_trigger: Harrowgate calls for the Finding of Cause at first bell (the-finding-of-cause tick 1)
+  reconciled: '2026-10-04, R72-42 reconciliation, agent ruling (K2, a call Isaac may overturn): the Visitation''s
+    Finding is how the floor is answered for: Harrowgate wants a name beside Party answerable (Rovhen:
+    The Sort). Was due: 1.'
 - id: L034
   category: injuries and reserve
   who: Hiromi Mahuo
-  text: Bleeding from both nostrils (anterior septal vessels) under the load of the constellation net;
+  text: 'Bleeding from both nostrils (anterior septal vessels) under the load of the constellation net;
     went grey when the recursive warden poured back into him; contusion over the point of the right shoulder
     and split lip from the ward in part one; coat torn open across the chest. A boy who forgets to eat
-    and has gone down on a practice floor three times this year, now emptied.
+    and has gone down on a practice floor three times this year, now emptied. The draught closed the fresh
+    septum bleed (Xanelor: Dallae).'
   opened: '2026-09-22'
   opened_session: 1
-  due: 'Next time he calls anything: every draw from here costs first-call price, and he has already paid
-    for an imprint, a constellation net, a recursive warden and Juggernaut''s Fist in one fight.'
+  due: null
   status: open
+  thread: Kwon Mu-jin / Aetherion Academy
+  due_trigger: Hiromi next calls anything
+  reconciled: '2026-10-04, R72-42 reconciliation, agent ruling (K2, a call Isaac may overturn): converted
+    from its own condition; the septum bleed closed by Dallae''s draught is added to the text. Was due:
+    Next time he calls anything: every draw from here costs first-call price, and he has already paid
+    for an imprint, a constellation net, a recursive warden and Juggernaut''s Fist in one fight..'
 - id: L035
   category: the dead
   who: Egil Vald
@@ -322,9 +503,14 @@
     told.
   opened: '2026-09-25'
   opened_session: 1
-  due: When anyone counts what the hold at the breach cost Bram's three hundred — Egil Vald is the only
-    one of them counted on the page.
+  due: null
   status: open
+  thread: Sodoku Moto / Kharven
+  reconciled: '2026-10-04, R72-42 reconciliation, agent ruling (K2, a call Isaac may overturn): standing:
+    the dead never come due by date or trigger (R72-22 as the tools read it). Backfill kept under R72-34:
+    the dead stand, and Bram''s roll names him (What the Ground Was Owed), which was the line''s own condition.
+    Was due: When anyone counts what the hold at the breach cost Bram''s three hundred — Egil Vald is
+    the only one of them counted on the page..'
 - id: L036
   category: injuries and reserve
   who: Bram Greymane
@@ -333,8 +519,15 @@
     gap.
   opened: '2026-09-25'
   opened_session: 1
-  due: 1
-  status: open
+  due: null
+  status: collected
+  thread: Sodoku Moto / Kharven
+  collected:
+    session: 1
+    date: '2026-10-04'
+    how: 'retired by the R72-42 reconciliation, agent ruling (K2, a call Isaac may overturn): backfill
+      (the ninth hour): superseded at the live date by L007, the hand and the hip'
+    was_due: 1
 - id: L037
   category: injuries and reserve
   who: Bram's three hundred
@@ -342,8 +535,15 @@
     lift a shield to head height, because the alternative is a hole.
   opened: '2026-09-25'
   opened_session: 1
-  due: 1
-  status: open
+  due: null
+  status: collected
+  thread: Sodoku Moto / Kharven
+  collected:
+    session: 1
+    date: '2026-10-04'
+    how: 'retired by the R72-42 reconciliation, agent ruling (K2, a call Isaac may overturn): backfill:
+      the breach held, and the three hundred''s state was one day''s; nothing carries it to the live date'
+    was_due: 1
 - id: L038
   category: debts
   who: Wren Greymane
@@ -352,9 +552,17 @@
     their own kin.'
   opened: '2026-09-25'
   opened_session: 1
-  due: When the six hundred learn what the sixteen months bought, or when anyone outside the column is
-    told the cover was ordered.
-  status: open
+  due: null
+  status: collected
+  thread: Sodoku Moto / Kharven
+  collected:
+    session: 1
+    date: '2026-10-04'
+    how: 'retired by the R72-42 reconciliation, agent ruling (K2, a call Isaac may overturn): backfill:
+      Wren is dead on the ditch bank and the sixteen depositions reached Bram in the eighth month (What
+      the Ground Was Owed); the grief Front wren-greymane carries what the six hundred''s houses want'
+    was_due: When the six hundred learn what the sixteen months bought, or when anyone outside the column
+      is told the cover was ordered.
 - id: L039
   category: who knows what
   who: Wren Greymane
@@ -362,9 +570,18 @@
     their own kin entered in it; he has told nobody.
   opened: '2026-09-25'
   opened_session: 1
-  due: When anyone opens the saddlebag. Bram is the one man who would read it and hand it back without
-    a word.
-  status: open
+  due: null
+  status: collected
+  thread: Sodoku Moto / Kharven
+  collected:
+    session: 1
+    date: '2026-10-04'
+    how: 'retired by the R72-42 reconciliation, agent ruling (K2, a call Isaac may overturn): backfill:
+      the knower is dead and the book''s contents reached the record through the depositions (''Three
+      killed by their own kin, entered in a book'', What the Ground Was Owed); whatever is still in the
+      saddlebag lies with the body on the ditch bank, which is wren-greymane tick 4'
+    was_due: When anyone opens the saddlebag. Bram is the one man who would read it and hand it back without
+      a word.
 - id: L040
   category: who knows what
   who: Seiji Tenrai Moto
@@ -374,9 +591,16 @@
     the seventh hour. The column marches directly at the Seat.'
   opened: '2026-09-25'
   opened_session: 1
-  due: When the Seat commits to a road on the strength of one of the four. Seiji intends two of them to
-    be believed, not four.
-  status: open
+  due: null
+  status: collected
+  thread: Sodoku Moto / Kharven
+  collected:
+    session: 1
+    date: '2026-10-04'
+    how: 'retired by the R72-42 reconciliation, agent ruling (K2, a call Isaac may overturn): backfill:
+      the road was decided at the ninth hour and Seiji is dead, revoked (L004)'
+    was_due: When the Seat commits to a road on the strength of one of the four. Seiji intends two of
+      them to be believed, not four.
 - id: L041
   category: who knows what
   who: Lorn Stark
@@ -384,9 +608,17 @@
     two, and the lie stands uncorrected when the muster marches out.
   opened: '2026-09-25'
   opened_session: 1
-  due: When the Seat commits to the Stormfold road or the Brine crossing on the strength of one of the
-    three.
-  status: open
+  due: null
+  status: collected
+  thread: Sodoku Moto / Kharven
+  collected:
+    session: 1
+    date: '2026-10-04'
+    how: 'retired by the R72-42 reconciliation, agent ruling (K2, a call Isaac may overturn): backfill:
+      Lorn Stark is dead (''Lorn Stark is dead'', What the Ground Was Owed) and the road was decided at
+      the ninth hour'
+    was_due: When the Seat commits to the Stormfold road or the Brine crossing on the strength of one
+      of the three.
 - id: L042
   category: who knows what
   who: Edward Lambert
@@ -395,9 +627,16 @@
     is nine days old and from a man he does not trust.
   opened: '2026-09-25'
   opened_session: 1
-  due: When a channel north of the Ashgate road reports again, or when the Stormfold road is confirmed
-    closed.
-  status: open
+  due: null
+  status: collected
+  thread: Sodoku Moto / Kharven
+  collected:
+    session: 1
+    date: '2026-10-04'
+    how: 'retired by the R72-42 reconciliation, agent ruling (K2, a call Isaac may overturn): backfill:
+      a day''s silence north of the Ashgate road at the ninth hour; nothing carries it to the live date'
+    was_due: When a channel north of the Ashgate road reports again, or when the Stormfold road is confirmed
+      closed.
 - id: L043
   category: debts
   who: Edward Lambert
@@ -405,9 +644,17 @@
     on his own terms: if he is not back in five days Lorn assumes the road is closed and acts accordingly.'
   opened: '2026-09-25'
   opened_session: 1
-  due: 'Five days from the morning the Kharven muster marched out: Edward is back, or the Stormfold road
-    is assumed closed.'
-  status: open
+  due: null
+  status: collected
+  thread: Sodoku Moto / Kharven
+  collected:
+    session: 1
+    date: '2026-10-04'
+    how: 'retired by the R72-42 reconciliation, agent ruling (K2, a call Isaac may overturn): backfill:
+      the five days ran out more than a year before the live date, and Lambert is at the Seat (What the
+      Ground Was Owed)'
+    was_due: 'Five days from the morning the Kharven muster marched out: Edward is back, or the Stormfold
+      road is assumed closed.'
 - id: L044
   category: debts
   who: Lorn Stark
@@ -416,9 +663,18 @@
     a title, and wants it recorded somewhere. The scene neither dates the arrangement nor states its terms.
   opened: '2026-09-25'
   opened_session: 1
-  due: When Sodoku claims the girl, or when anyone besides Lorn learns the arrangement was made and what
-    it obliged him to.
-  status: open
+  due: null
+  status: collected
+  thread: Sodoku Moto / Kharven
+  collected:
+    session: 1
+    date: '2026-10-04'
+    how: 'retired by the R72-42 reconciliation, agent ruling (K2, a call Isaac may overturn): backfill:
+      Lorn and Hild are both dead, and the arrangement is entered at their stones: ''Lorn Stark, who had
+      made an arrangement about that girl twelve years ago and had kept every part of it'' (What the Ground
+      Was Owed)'
+    was_due: When Sodoku claims the girl, or when anyone besides Lorn learns the arrangement was made
+      and what it obliged him to.
 - id: L045
   category: reputation
   who: Wren Greymane
@@ -426,8 +682,16 @@
     hundred men he chose, and then takes two villages under it before noon.
   opened: '2026-09-25'
   opened_session: 1
-  due: When the claim reaches Bram, the Seat, or the roll.
-  status: open
+  due: null
+  status: collected
+  thread: Sodoku Moto / Kharven
+  collected:
+    session: 1
+    date: '2026-10-04'
+    how: 'retired by the R72-42 reconciliation, agent ruling (K2, a call Isaac may overturn): backfill:
+      the claim reached Bram with the sixteen depositions in the eighth month and his dedication answered
+      it in the roll (What the Ground Was Owed); the grief Front carries the rest'
+    was_due: When the claim reaches Bram, the Seat, or the roll.
 - id: L046
   category: reputation
   who: Sodoku Moto
@@ -436,8 +700,15 @@
     and he rides out ahead of the whole muster on it.
   opened: '2026-09-25'
   opened_session: 1
-  due: 3
-  status: open
+  due: null
+  status: collected
+  thread: Sodoku Moto / Kharven
+  collected:
+    session: 1
+    date: '2026-10-04'
+    how: 'retired by the R72-42 reconciliation, agent ruling (K2, a call Isaac may overturn): backfill:
+      superseded at the live date by L021, the Brine crossing'
+    was_due: 3
 - id: L047
   category: the dead
   who: Tenrai officers of the turned column, eleven counted
@@ -447,9 +718,17 @@
     took it to mean.
   opened: '2026-09-25'
   opened_session: 1
-  due: When the Tenrai officer corps of the Ashgate column is next counted, or when the narrows is entered
-    on a roll.
-  status: open
+  due: null
+  status: collected
+  thread: Sodoku Moto / Kharven
+  collected:
+    session: 1
+    date: '2026-10-04'
+    how: 'retired by the R72-42 reconciliation, agent ruling (K2, a call Isaac may overturn): backfill:
+      the narrows went onto the Reckoner''s list of the dead that reached the Stormfold hall in the eighth
+      month (What the Ground Was Owed), which was the line''s own condition'
+    was_due: When the Tenrai officer corps of the Ashgate column is next counted, or when the narrows
+      is entered on a roll.
 - id: L048
   category: injuries and reserve
   who: Sodoku Moto
@@ -459,9 +738,16 @@
     road with the purple around it''.'
   opened: '2026-09-25'
   opened_session: 1
-  due: The next time he is closed with while dismounted, or the moment he needs the Droval at the far
-    end of the road.
-  status: open
+  due: null
+  status: collected
+  thread: Sodoku Moto / Kharven
+  collected:
+    session: 1
+    date: '2026-10-04'
+    how: 'retired by the R72-42 reconciliation, agent ruling (K2, a call Isaac may overturn): backfill:
+      at the Brine crossing he rides the Droval again (What the Ground Was Owed)'
+    was_due: The next time he is closed with while dismounted, or the moment he needs the Droval at the
+      far end of the road.
 - id: L049
   category: injuries and reserve
   who: Sodoku Moto
@@ -470,9 +756,17 @@
     a moment.'
   opened: '2026-09-25'
   opened_session: 1
-  due: The next time he opens Reigan with anything closing on him — at nine seconds he heard the horse,
-    and the sword came out before he had finished coming back.
-  status: open
+  due: null
+  status: collected
+  thread: Sodoku Moto / Kharven
+  collected:
+    session: 1
+    date: '2026-10-04'
+    how: 'retired by the R72-42 reconciliation, agent ruling (K2, a call Isaac may overturn): backfill:
+      the cost of opening Reigan is the working''s own law and recurs at every use; it is shown in the
+      read each time, not carried as a bill'
+    was_due: The next time he opens Reigan with anything closing on him — at nine seconds he heard the
+      horse, and the sword came out before he had finished coming back.
 - id: L050
   category: debts
   who: The outer town of Kharven-Seat (four hundred households) against Sodoku Moto
@@ -481,8 +775,16 @@
     taking whatever the cold takes.
   opened: '2026-09-25'
   opened_session: 1
-  due: The Thin Weeks, or the first hard night after the road is decided.
+  due: null
   status: open
+  thread: Sodoku Moto / Kharven
+  due_trigger: the next Thin Weeks at Kharven-Seat, or the outer town's households come to the Seat about
+    the wood
+  reconciled: '2026-10-04, R72-42 reconciliation, agent ruling (K2, a call Isaac may overturn): backfill
+    kept under R72-34: the Thin Weeks it named came and went before the live date and nothing on the page
+    repays the four hundred households; the Kharven keep a count of what comes down from the Seat, which
+    they call the Stack (The Revolution of the Inner World). Was due: The Thin Weeks, or the first hard
+    night after the road is decided..'
 - id: L051
   category: debts
   who: Sodoku Moto to Osric of Hallenfeld
@@ -491,8 +793,16 @@
     shut.
   opened: '2026-09-25'
   opened_session: 1
-  due: When Sodoku comes back through the narrows, or when the gate is opened by anyone else.
-  status: open
+  due: null
+  status: collected
+  thread: Sodoku Moto / Kharven
+  collected:
+    session: 1
+    date: '2026-10-04'
+    how: 'retired by the R72-42 reconciliation, agent ruling (K2, a call Isaac may overturn): backfill:
+      Osric is dead, having put himself in a doorway (What the Ground Was Owed); there is no one left
+      holding the gate for the return'
+    was_due: When Sodoku comes back through the narrows, or when the gate is opened by anyone else.
 - id: L052
   category: who knows what
   who: Sodoku Moto, alone
@@ -501,8 +811,17 @@
     not find, and he can do nothing at all with the knowing.
   opened: '2026-09-25'
   opened_session: 1
-  due: When Sodoku next has anyone to tell it to, or when word arrives from the northwest.
-  status: open
+  due: null
+  status: collected
+  thread: Sodoku Moto / Kharven
+  collected:
+    session: 1
+    date: '2026-10-04'
+    how: 'retired by the R72-42 reconciliation, agent ruling (K2, a call Isaac may overturn): backfill:
+      the fight four hundred miles out was the ninth hour''s, and by the live date his living brother
+      Sonzai is back in the north (the Reckoner''s entry of Seiji''s revocation in the ninth month; What
+      the Ground Was Owed, notes: ''Sonzai is written strictly from outside'')'
+    was_due: When Sodoku next has anyone to tell it to, or when word arrives from the northwest.
 - id: L053
   category: who knows what
   who: Sodoku Moto about Sonzai
@@ -511,8 +830,15 @@
     or corrects it.
   opened: '2026-09-25'
   opened_session: 1
-  due: When Sodoku says Sonzai's name to anyone who knows who actually built the turning.
+  due: null
   status: open
+  thread: Sodoku Moto / Kharven
+  due_trigger: Sodoku says Sonzai's name to anyone who knows who built the turning, or the Seat is asked
+    in writing who knew what Wren was doing (wren-greymane tick 3)
+  reconciled: '2026-10-04, R72-42 reconciliation, agent ruling (K2, a call Isaac may overturn): backfill
+    kept under R72-34: nothing at the live date corrects it, and the sixteen depositions never say why
+    nobody was told (What the Ground Was Owed). Was due: When Sodoku says Sonzai''s name to anyone who
+    knows who actually built the turning..'
 - id: L054
   category: who knows what
   who: Sodoku Moto about Osric of Hallenfeld
@@ -520,8 +846,16 @@
     that part out loud, so the order exists only in the man who gave it.
   opened: '2026-09-25'
   opened_session: 1
-  due: If the wall of the inner court comes down.
-  status: open
+  due: null
+  status: collected
+  thread: Sodoku Moto / Kharven
+  collected:
+    session: 1
+    date: '2026-10-04'
+    how: 'retired by the R72-42 reconciliation, agent ruling (K2, a call Isaac may overturn): backfill,
+      paid: the order was carried out; Osric put himself in the doorway and died there with Hild (What
+      the Ground Was Owed; Renard''s card)'
+    was_due: If the wall of the inner court comes down.
 - id: L055
   category: who knows what
   who: Robin Ice
@@ -530,8 +864,16 @@
     was is not said, and the page does not say how many of the four he got out.
   opened: '2026-09-25'
   opened_session: 1
-  due: The next time Robin Ice reports, or when the missing item matters to someone.
-  status: open
+  due: null
+  status: collected
+  thread: Sodoku Moto / Kharven
+  collected:
+    session: 1
+    date: '2026-10-04'
+    how: 'retired by the R72-42 reconciliation, agent ruling (K2, a call Isaac may overturn): backfill:
+      Robin Ice has reported many times since (What the Ground Was Owed has him report the Goblin Senate
+      hanged); the muster''s message the lost item belonged to is more than a year past'
+    was_due: The next time Robin Ice reports, or when the missing item matters to someone.
 - id: L056
   category: reputation
   who: Wren Greymane
@@ -540,8 +882,16 @@
     a turning Sodoku watches him execute at the narrows.
   opened: '2026-09-25'
   opened_session: 1
-  due: When anyone outside Sodoku's own head learns who built the turning.
-  status: open
+  due: null
+  status: collected
+  thread: Sodoku Moto / Kharven
+  collected:
+    session: 1
+    date: '2026-10-04'
+    how: 'retired by the R72-42 reconciliation, agent ruling (K2, a call Isaac may overturn): backfill:
+      Bram''s dedication, entered in the roll before his own name, answered the word in public in the
+      eighth month (What the Ground Was Owed); what the ridge still says is wren-greymane''s'
+    was_due: When anyone outside Sodoku's own head learns who built the turning.
 - id: L057
   category: injuries and reserve
   who: Rovhen Talvasciel
@@ -551,8 +901,13 @@
     left eye, cramp in left hand), healed by morning.'
   opened: '2026-09-28'
   opened_session: 1
-  due: while the letter exists
+  due: null
   status: open
+  thread: Kwon Mu-jin / Aetherion Academy
+  due_trigger: the letter burns, changes hands or is read (the-tallow-street-stair tick 3)
+  reconciled: '2026-10-04, R72-42 reconciliation, agent ruling (K2, a call Isaac may overturn): converted
+    from ''while the letter exists''; the letter is with Joan (Rovhen: The Letter). Was due: while the
+    letter exists.'
 - id: L058
   category: debts
   who: Rovhen Talvasciel
@@ -560,8 +915,13 @@
     by his own signature, for Joan Aldery's request to the clerk of inquests.
   opened: '2026-09-28'
   opened_session: 1
-  due: 1
+  due: null
   status: open
+  thread: Kwon Mu-jin / Aetherion Academy
+  due_trigger: 'first bell, the fifth day of term: Harrowgate calls for the Finding (the-finding-of-cause
+    tick 1)'
+  reconciled: '2026-10-04, R72-42 reconciliation, agent ruling (K2, a call Isaac may overturn): the green-sealed
+    note says she calls for it at first bell (Rovhen: After the Lecture). Was due: 1.'
 - id: L059
   category: debts
   who: Tobin Sallow
@@ -569,8 +929,13 @@
     has the ring; the Visitation has not paid.
   opened: '2026-09-28'
   opened_session: 1
-  due: 2
+  due: null
   status: open
+  thread: Kwon Mu-jin / Aetherion Academy
+  due_trigger: the Visitation files its finding, or Sallow comes for his bill (the-finding-of-cause tick
+    5)
+  reconciled: '2026-10-04, R72-42 reconciliation, agent ruling (K2, a call Isaac may overturn): converted
+    from a session count. Was due: 2.'
 - id: L060
   category: who knows what
   who: Rovhen Talvasciel
@@ -581,8 +946,13 @@
     marbled daybook; Nyxeria arriving without the door, dry flags, wet hem.'
   opened: '2026-09-28'
   opened_session: 1
-  due: 3
+  due: null
   status: open
+  thread: Kwon Mu-jin / Aetherion Academy
+  due_trigger: the cased plate, the meters or the daybook are shown to someone with standing (the-finding-of-cause
+    tick 4, the-tallow-street-stair tick 4)
+  reconciled: '2026-10-04, R72-42 reconciliation, agent ruling (K2, a call Isaac may overturn): converted
+    from a session count. Was due: 3.'
 - id: L061
   category: who knows what
   who: Imogen Pell
@@ -590,8 +960,13 @@
     told her, not a porter. Her finger stopped on the narrow-pen ink on the roll.
   opened: '2026-09-28'
   opened_session: 1
-  due: 2
+  due: null
   status: open
+  thread: Kwon Mu-jin / Aetherion Academy
+  due_trigger: Class S gets inside the chained arena or learns who filed the Finding (the-class-below
+    tick 3)
+  reconciled: '2026-10-04, R72-42 reconciliation, agent ruling (K2, a call Isaac may overturn): converted
+    from a session count. Was due: 2.'
 - id: L062
   category: the dead
   who: Walter Aldery
@@ -600,8 +975,14 @@
     by Fenwick as a fall in drink; eleven years pledged. His daybook is missing.
   opened: '2026-09-28'
   opened_session: 1
-  due: when the inquest papers are read
+  due: null
   status: open
+  thread: Kwon Mu-jin / Aetherion Academy
+  due_trigger: 'the inquest papers are read: Joan takes the letter to the clerk of inquests (the-tallow-street-stair
+    tick 1)'
+  reconciled: '2026-10-04, R72-42 reconciliation, agent ruling (K2, a call Isaac may overturn): converted
+    from its own condition; a dead man whose papers have a bill in them keeps the trigger. Was due: when
+    the inquest papers are read.'
 - id: L063
   category: reputation
   who: Rovhen Talvasciel
@@ -610,8 +991,12 @@
     on his name.'
   opened: '2026-09-28'
   opened_session: 1
-  due: 3
+  due: null
   status: open
+  thread: Kwon Mu-jin / Aetherion Academy
+  due_trigger: someone who knew Edmund, or the Board's striking of his licence, is raised before witnesses
+  reconciled: '2026-10-04, R72-42 reconciliation, agent ruling (K2, a call Isaac may overturn): converted
+    from a session count. Was due: 3.'
 - id: L064
   category: injuries and reserve
   who: Geturo Mahuo
@@ -620,8 +1005,16 @@
     55, Band I, values estimated).'
   opened: '2026-09-28'
   opened_session: 1
-  due: 1
-  status: open
+  due: null
+  status: collected
+  thread: Kwon Mu-jin / Aetherion Academy
+  collected:
+    session: 1
+    date: '2026-10-04'
+    how: 'retired by the R72-42 reconciliation, agent ruling (K2, a call Isaac may overturn): superseded:
+      the match closed (''Enough. That''s the match.'', Geturo: Gypsum) and the tide was let go; his state
+      after it is L066'
+    was_due: 1
 - id: L065
   category: who knows what
   who: Kwon Mu-jin
@@ -629,5 +1022,139 @@
     as shimmer. Whether [Let] pulled at the seam is Isaac's call.
   opened: '2026-09-28'
   opened_session: 1
-  due: 1
+  due: null
   status: open
+  thread: Kwon Mu-jin / Aetherion Academy
+  due_trigger: the draw-inspector reports on the dome seam, or Mu-jin looks at the seam himself
+  reconciled: '2026-10-04, R72-42 reconciliation, agent ruling (K2, a call Isaac may overturn): converted
+    from a session count; the inspector was on the seam with a brass instrument at the close (Aftermath:
+    Hold the Wall). What pulled at it is an adjudication for the table, not this pass. Was due: 1.'
+- id: L066
+  category: injuries and reserve
+  who: Geturo Mahuo
+  text: 'Geturo Mahuo: Right shoulder subluxed and reduced, the capsule likely torn, slung in calico with
+    the arm dead against his ribs. Left thigh bruised on the outside with an adductor kick on top. Right
+    wrist burned with the skin sheared, a glass sliver in the right palm, numbness in three fingers on
+    the ulnar side. Eyebrows gone; nosebleeds. His Crystal cold and hollow where the borrowed Essence
+    was taken back. Blue Draft spent; vials 3, 7 and 8 remain.'
+  opened: '2026-10-04'
+  opened_session: 1
+  due: null
+  status: open
+  thread: Kwon Mu-jin / Aetherion Academy
+  due_trigger: Geturo next fights, draws or reaches with the right arm
+  source: 'Geturo: Gypsum (its notes, ''Ledger (Geturo)''); Aftermath: Hold the Wall'
+  reconciled: '2026-10-04, R72-42 reconciliation, agent ruling (K2, a call Isaac may overturn): replaces
+    L064, which the close of the match superseded.'
+- id: L067
+  category: heat
+  who: Sodoku Moto
+  text: 'Sodoku Moto: The attention paid to the king at the live date: the eleven at the Brine crossing,
+    killed slowly in front of the column and entered in three depositions; the Tenrai refugee intake,
+    made alone against the advice of every officer in his service and the most contested decision of the
+    post-war; Seiji''s revocation, sealed in a Reckoner''s entry. Public acts raise it; only the right
+    office, paid, cools it.'
+  opened: '2026-10-04'
+  opened_session: 1
+  due: null
+  status: open
+  thread: Sodoku Moto / Kharven
+  level: high
+  source: What the Ground Was Owed
+  reconciled: '2026-10-04, R72-42 reconciliation, agent ruling (K2, a call Isaac may overturn): R72-24:
+    one standing heat line per live thread; the level is a word, no figure.'
+- id: L068
+  category: heat
+  who: the Class X match and the Finding (Mu-jin, Xanelor, Hiromi, Rovhen)
+  text: 'Aetherion Academy (Mu-jin, Xanelor, Hiromi, Rovhen): The Grand Mage''s Visitation holds the arena
+    under chain and wants a name beside Party answerable before Harrowgate''s circuit report goes up;
+    every soul on the grounds heard the end of Monday''s match; Class S is taking notes on the Class X
+    students who came out of it hurt; the Night Register has had the Academy''s three faculty losses in
+    eighteen months on file for three months. Cools only by the right office, paid: a Finding filed, the
+    ward-proofing answered, the row paid for.'
+  opened: '2026-10-04'
+  opened_session: 1
+  due: null
+  status: open
+  thread: Kwon Mu-jin / Aetherion Academy
+  level: warm and rising
+  source: 'Rovhen: The Sort; Xanelor: The Arrow; Geturo: Gypsum; Wystan''s Briefing'
+  reconciled: '2026-10-04, R72-42 reconciliation, agent ruling (K2, a call Isaac may overturn): R72-24:
+    one standing heat line per live thread; the level is a word, no figure.'
+- id: L069
+  category: bonds
+  who: Sodoku Moto and Yoko Mishiro
+  text: 'Sodoku Moto and Yoko Mishiro: nine years beside him. The thread''s standing warm bond (R70-114).'
+  opened: '2026-10-04'
+  opened_session: 1
+  due: null
+  status: open
+  thread: Sodoku Moto / Kharven
+  fed:
+  - Her hand on his arm at the narrows, 'the one bond remaining at that magnitude' (Recalescence)
+  - Her word for his state, solace, used once and never again (What the Ground Was Owed)
+  - Her four lines on the night of the signing, never shown to anyone (What the Ground Was Owed)
+  strained:
+  - Her entry that his refusal to use the cold at the Brine crossing was the worst thing about it (What
+    the Ground Was Owed)
+  source: Recalescence; What the Ground Was Owed
+  reconciled: '2026-10-04, R72-42 reconciliation, agent ruling (K2, a call Isaac may overturn): R72-24:
+    the thread''s warm bonds go on the Ledger by name.'
+- id: L070
+  category: bonds
+  who: Sodoku Moto and Emira Moto
+  text: 'Sodoku Moto and Emira Moto: his sister, who had been watching men lie to themselves since she
+    was four.'
+  opened: '2026-10-04'
+  opened_session: 1
+  due: null
+  status: open
+  thread: Sodoku Moto / Kharven
+  fed:
+  - Eleven times she went looking for the place where her brother ended and the work began (What the Ground
+    Was Owed)
+  strained:
+  - She stopped looking, because looking had begun to feel like an accusation, and told Yoko so in the
+    third month (What the Ground Was Owed)
+  source: What the Ground Was Owed
+  reconciled: '2026-10-04, R72-42 reconciliation, agent ruling (K2, a call Isaac may overturn): R72-24:
+    the thread''s warm bonds go on the Ledger by name.'
+- id: L071
+  category: bonds
+  who: Hiromi Mahuo and Geturo Mahuo
+  text: 'Hiromi Mahuo and Geturo Mahuo: brothers, Geturo the elder, fifteen to Hiromi''s thirteen. The
+    Academy thread''s openly warm bond (R70-114).'
+  opened: '2026-10-04'
+  opened_session: 1
+  due: null
+  status: open
+  thread: Kwon Mu-jin / Aetherion Academy
+  fed:
+  - 'Hiromi watched his brother refuse the stretcher and stand (Hiromi: The Bench)'
+  - 'He will ask tonight with the door shut, and Geturo will say something flat and then, much later,
+    tell him everything (Hiromi: The Bench)'
+  strained:
+  - 'Geturo kept the snake from him, and from everyone, for eleven months (Hiromi: The Bench)'
+  source: 'Hiromi: The Bench; Aftermath: Hold the Wall'
+  reconciled: '2026-10-04, R72-42 reconciliation, agent ruling (K2, a call Isaac may overturn): R72-24
+    and R70-114: the Academy thread''s openly warm bond.'
+- id: L072
+  category: bonds
+  who: Hiromi Mahuo and Saeloria
+  text: 'Hiromi Mahuo and Saeloria: a first crush between two young students. Saeloria belongs to another
+    player; this line records only what Hiromi gave, took and found, nothing of hers.'
+  opened: '2026-10-04'
+  opened_session: 1
+  due: null
+  status: open
+  thread: Kwon Mu-jin / Aetherion Academy
+  fed:
+  - 'He practised the invitation twice in the mirror and asked her to the picnic properly (Hiromi: The
+    Picnic)'
+  - 'He took the paste and the sapling from her, the sapling cupped in both hands (Hiromi: Something Special)'
+  - 'Petals on the back of his hand where his fingers had rested on hers; he kept one in his closed hand
+    (Hiromi: Something Special)'
+  strained: []
+  source: 'Hiromi: The Picnic; Hiromi: Something Special'
+  reconciled: '2026-10-04, R72-42 reconciliation, agent ruling (K2, a call Isaac may overturn): R72-24:
+    warm bonds by name.'

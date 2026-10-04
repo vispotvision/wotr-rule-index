@@ -1,6 +1,6 @@
 - id: the-tenrai
   name: The Tenrai
-  thread: Kharven thread, the year after
+  thread: Sodoku Moto / Kharven
   status: closed
   want: Seiji revoked and entered *elar-ama*. The eleven retainers killed in front of the boy. Miku Tenrai,
     fourteen, seated at the Accord table. The Line as a power is finished; what survives is a child with
@@ -15,7 +15,7 @@
   seeded_from: Fronts page, 2026-09-10 rebuild
 - id: the-keth-gorrum-of-undaar-keth
   name: The Keth-Gorrum of Undaar-Keth
-  thread: Kharven thread, the year after
+  thread: Sodoku Moto / Kharven
   status: open
   want: a word for what came back through the gate in a cart, because a returning officer is renamed and
     there is no provision for declining to.
@@ -41,9 +41,14 @@
   position: 0
   last_advanced: null
   seeded_from: Fronts page, 2026-09-10 rebuild; clock written by Claude Code 2026-09-12 at Isaac's direction
+  pace_days: 56
+  days_banked: 0
+  reconciled: '2026-10-04, R72-42 reconciliation, agent ruling (K2, a call Isaac may overturn): pace 56
+    story days a tick because Vresk came back in the tenth month and by the spring signing no compound
+    has been coined (State of Play), so the Keth-Gorrum moves at a chancery''s pace, two months a tick.'
 - id: the-accord-circle-unnamed
   name: The Accord circle, unnamed
-  thread: Kharven thread, the year after
+  thread: Sodoku Moto / Kharven
   status: open
   want: four constituents with every reason to hate each other each want the instrument read their way.
   last_move: 'Lambert brought the first test of the instrument to Sodoku''s room at night, dressed as
@@ -72,9 +77,18 @@
   position: 2
   last_advanced: '2026-09-22'
   seeded_from: Fronts page, 2026-09-10 rebuild; clock written by Claude Code 2026-09-12 at Isaac's direction
+  pace_days: 19
+  days_banked: 0
+  reconciled: '2026-10-04, R72-42 reconciliation, agent ruling (K2, a call Isaac may overturn): pace 19
+    story days a tick because the circle sits nineteen days after Lambert''s drafted reading (the Front''s
+    first record of this move, 2026-09-22). Tick 3 is his brush: if he answers, his answer is the tick,
+    and the calendar only ever reads an unanswered paper, which leaves Lambert''s seal on the four hundred
+    and six (R72-23). Canon fixes ahead of the table (The Revolution of the Inner World): the circle is
+    named Whitemere in a room of four at Kharven-Seat, Emira''s word, eleven days before Stannvaard''s
+    annexation, the morning the empire is born, and tick 5 resolves toward that name.'
 - id: tabitha-hallenfeld
   name: Tabitha Hallenfeld
-  thread: Kharven thread, the year after
+  thread: Sodoku Moto / Kharven
   status: open
   want: Lambert's answer to why the grain was bought in the first week.
   last_move: asked, dated, refused twice.
@@ -85,7 +99,7 @@
   - tick: 2
     consequence: A factor gives her a date, and the date is a week before the first refugee count.
   - tick: 3
-    consequence: She puts the dated question in front of Hild rather than Lambert, in writing, with the
+    consequence: She puts the dated question before the Bench rather than Lambert, in writing, with the
       two refusals attached.
   - tick: 4
     consequence: Lambert answers, and the answer is arithmetic rather than a confession, which is worse.
@@ -95,9 +109,20 @@
   position: 0
   last_advanced: null
   seeded_from: Fronts page, 2026-09-10 rebuild; clock written by Claude Code 2026-09-12 at Isaac's direction
+  pace_days: 504
+  days_banked: 0
+  reconciled: '2026-10-04, R72-42 reconciliation, agent ruling (K2, a call Isaac may overturn): pace 504
+    story days a tick because eighteen months of twenty-eight days. Canon fixes ahead: through the sixth
+    year''s fourth month Lambert has never answered it; the Ashwell Register prints the question in the
+    sixth year''s third month and she did not give it to them (The Revolution of the Inner World). At
+    this pace tick 4 falls after that, so the calendar alone cannot break canon; his acts may still speed
+    ticks 1 to 3. Tick 3 rewritten: it put the question ''in front of Hild'', who is dead at the live
+    date; it now goes before the Bench, which she sits by the sixth year.'
+  tick3_was: She puts the dated question in front of Hild rather than Lambert, in writing, with the two
+    refusals attached.
 - id: bram-greymane
   name: Bram Greymane
-  thread: Kharven thread, the year after
+  thread: Sodoku Moto / Kharven
   status: open
   want: nobody asks him about Wren's omission from the roll.
   last_move: walked in from Stormfold for the signing and would not sit.
@@ -120,9 +145,15 @@
   position: 0
   last_advanced: null
   seeded_from: Fronts page, 2026-09-10 rebuild; clock written by Claude Code 2026-09-12 at Isaac's direction
+  pace_days: 56
+  days_banked: 0
+  reconciled: '2026-10-04, R72-42 reconciliation, agent ruling (K2, a call Isaac may overturn): pace 56
+    story days a tick because nobody wants to be the one to ask (the Greymane manner, which ''people had
+    begun to find restful'', The Revolution of the Inner World), and the grief Front ticks faster and
+    feeds this one.'
 - id: wren-greymane
   name: Wren Greymane, the grief
-  thread: Kharven thread, the year after
+  thread: Sodoku Moto / Kharven
   status: open
   want: somewhere to set the blame down. Wren died on the Ashgate road, body not recovered, after sixteen
     months of being called traitor on the ridge and by his brother. Bram's dedication stands before his
@@ -156,9 +187,15 @@
   last_advanced: null
   seeded_from: Fronts page, 2026-09-10 rebuild; clock written by Claude Code 2026-09-12 at Isaac's direction;
     recast as a grief Front 2026-09-26 (Wren dead from What the Sky Does Not Ask on)
+  pace_days: 28
+  days_banked: 0
+  reconciled: '2026-10-04, R72-42 reconciliation, agent ruling (K2, a call Isaac may overturn): pace 28
+    story days a tick because Auren''s day to Auren''s day: the day the dead are sat with comes once a
+    month (The Sky, the Hour and the Year), and tick 1 is his name read among the Waiting at Coldbeck''s
+    death-house.'
 - id: the-sunroot-regency-under-ovaeren
   name: The Sunroot Regency under Ovaeren
-  thread: New World, the Korvaeth War
+  thread: Ilthára Korvaeth / The New World
   status: open
   want: to hold a regency that split name from office, the thinnest argument in the record of the war.
   last_move: voted, and it has held eleven years.
@@ -181,9 +218,15 @@
   position: 0
   last_advanced: null
   seeded_from: Fronts page, 2026-09-10 rebuild; clock written by Claude Code 2026-09-12 at Isaac's direction
+  pace_days: 91
+  days_banked: 0
+  reconciled: '2026-10-04, R72-42 reconciliation, agent ruling (K2, a call Isaac may overturn): pace 91
+    story days a tick because a season: tick 1 is a bad winter or a regent''s new want, and the Regency
+    has held eleven years. The New World keeps its own count; set its date with pass_time(story_date=...)
+    rather than trusting the Accord arithmetic.'
 - id: korrindal-and-the-vessel-road
   name: Korrindal and the Vessel road
-  thread: New World, the Korvaeth War
+  thread: Ilthára Korvaeth / The New World
   status: open
   want: ''
   last_move: the road opened in four days at two hundred and eleven lives, entered as the Vessel Assize
@@ -206,9 +249,14 @@
   position: 0
   last_advanced: null
   seeded_from: Fronts page, 2026-09-10 rebuild; clock written by Claude Code 2026-09-12 at Isaac's direction
+  pace_days: 28
+  days_banked: 0
+  reconciled: '2026-10-04, R72-42 reconciliation, agent ruling (K2, a call Isaac may overturn): pace 28
+    story days a tick because the road has to be held through a winter, and weather takes convoys month
+    by month.'
 - id: thela-ess-vaelen
   name: Thela Ess-Vaelen
-  thread: New World, the Korvaeth War
+  thread: Ilthára Korvaeth / The New World
   status: open
   want: unclear even to her, which is the point.
   last_move: taken alive, named in the field at eleven hundred witness-fees, released.
@@ -229,9 +277,14 @@
   position: 0
   last_advanced: null
   seeded_from: Fronts page, 2026-09-10 rebuild; clock written by Claude Code 2026-09-12 at Isaac's direction
+  pace_days: 91
+  days_banked: 0
+  reconciled: '2026-10-04, R72-42 reconciliation, agent ruling (K2, a call Isaac may overturn): pace 91
+    story days a tick because she holds the name and has not used it, and what she wants is unclear even
+    to her.'
 - id: velthaeir
   name: Velthaeir
-  thread: New World, the Korvaeth War
+  thread: Ilthára Korvaeth / The New World
   status: open
   want: the record legible for four quarters.
   last_move: entered the finding that started the war.
@@ -254,9 +307,13 @@
   position: 0
   last_advanced: null
   seeded_from: Fronts page, 2026-09-10 rebuild; clock written by Claude Code 2026-09-12 at Isaac's direction
+  pace_days: 91
+  days_banked: 0
+  reconciled: '2026-10-04, R72-42 reconciliation, agent ruling (K2, a call Isaac may overturn): pace 91
+    story days a tick because an archive that keeps the record for four quarters moves by the quarter.'
 - id: the-tsohanto-reach
   name: The Tsohanto Reach
-  thread: New World, the Korvaeth War
+  thread: Ilthára Korvaeth / The New World
   status: open
   want: Silent four years, nobody counting it, no delegation to either party in eleven. The silence is
     the Tsohanto's answer to the Empress of Eresse, who shares their queen's name, Onawa.
@@ -278,9 +335,13 @@
   position: 0
   last_advanced: null
   seeded_from: Fronts page, 2026-09-10 rebuild; clock written by Claude Code 2026-09-12 at Isaac's direction
+  pace_days: 182
+  days_banked: 0
+  reconciled: '2026-10-04, R72-42 reconciliation, agent ruling (K2, a call Isaac may overturn): pace 182
+    story days a tick because silent four years and uncounted; a silence ticks by the half year.'
 - id: the-thing-nobody-has-done
   name: The thing nobody has done
-  thread: New World, the Korvaeth War
+  thread: Ilthára Korvaeth / The New World
   status: open
   want: The challenge form is two words long and any commoner in any market could say it to her face without
     breaking a law. In thirty years not one person ever has. Aeldros works this out in the eleventh year.
@@ -301,9 +362,14 @@
   position: 0
   last_advanced: null
   seeded_from: Fronts page, 2026-09-10 rebuild; clock written by Claude Code 2026-09-12 at Isaac's direction
+  pace_days: 56
+  days_banked: 0
+  reconciled: '2026-10-04, R72-42 reconciliation, agent ruling (K2, a call Isaac may overturn): pace 56
+    story days a tick because Aeldros works it out in the eleventh year, the thread''s live year; the
+    year-eleven scenes (Coldwater to the ridge) have not put the form to her.'
 - id: the-class-below
   name: The Class Below
-  thread: Kwon Mu-jin
+  thread: Kwon Mu-jin / Aetherion Academy
   status: open
   want: Class S wants Class X's seats. They are talented, hungry, irritated that someone else holds the
     designation, and will take a place the moment a Class X student's performance drops far enough, most
@@ -333,9 +399,17 @@
   position: 2
   last_advanced: '2026-09-28'
   seeded_from: added at the table
+  pace_days: 2
+  days_banked: 0
+  reconciled: '2026-10-04, R72-42 reconciliation, agent ruling (K2, a call Isaac may overturn): pace 2
+    story days a tick because the tournament is seven days after Monday''s duel, day eight of term: at
+    this pace tick 3 falls on day six, tick 4 (a seat contested on the record) on tournament day and tick
+    5 after it. Signs already in the archive: the Class S girl with the silver cord taking notes at the
+    tunnel mouth (Xanelor: Dallae), Lance Greymane deciding to climb (Aftermath: Hold the Wall), Class
+    S leaving with its notes (Geturo: Gypsum).'
 - id: the-finding-of-cause
   name: The Finding of Cause
-  thread: Mu-jin
+  thread: Kwon Mu-jin / Aetherion Academy
   status: open
   want: Examiner Maud Harrowgate wants a name on the blank line beside Party answerable for the arena
     damage, drawn in Rovhen's hand as his first demonstration, before her circuit report goes to the Grand
@@ -358,9 +432,15 @@
   position: 0
   last_advanced: null
   seeded_from: added at the table
+  pace_days: 1
+  days_banked: 0
+  reconciled: '2026-10-04, R72-42 reconciliation, agent ruling (K2, a call Isaac may overturn): pace 1
+    story days a tick because Harrowgate calls for the Finding at first bell, the morning after the live
+    date (Rovhen: After the Lecture), and wants it before her circuit report goes up. Tick 1 is Rovhen''s
+    answer if he gives it; the calendar reads only an unanswered call, which is ''stalled''.'
 - id: the-tallow-street-stair
   name: The Tallow Street Stair
-  thread: Mu-jin
+  thread: Kwon Mu-jin / Aetherion Academy
   status: open
   want: Whoever killed Walter Aldery on the draper's back stair and took his marbled daybook wants the
     inquest to stay 'a fall in drink' and the widow to stop asking. Joan Aldery's cuff was cut three times
@@ -383,3 +463,9 @@
   position: 0
   last_advanced: null
   seeded_from: added at the table
+  pace_days: 2
+  days_banked: 0
+  reconciled: '2026-10-04, R72-42 reconciliation, agent ruling (K2, a call Isaac may overturn): pace 2
+    story days a tick because Joan takes the letter on a weekday morning, and whoever took the daybook
+    wants the inquest left at ''a fall in drink''; an inquiry agent''s letter in the widow''s hand is
+    news that travels in days.'

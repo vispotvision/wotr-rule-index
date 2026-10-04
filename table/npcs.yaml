@@ -1,5 +1,5 @@
 - name: Josse Osricsson
-  thread: Kwon Mu-jin
+  thread: Kwon Mu-jin / Aetherion Academy
   want: 'His Academy bow-contract renewed at the Ice-out audit, which means a clean book: every bow on
     the Academy''s roll repaired, or written off with a signature against it. Xanelor''s split Omoro recurve
     is a bow on nobody''s roll — island-built, never proofed by him, now broken on Academy sand — and
@@ -29,9 +29,19 @@
     does not. Gloss rights: diagnostic only — he may name what a limb is doing, because that is his trade,
     and nothing else. Swap test: not Mu-jin (who explains), not Frithia (who commands), not Xanelor (who
     reads before he speaks). No line — not a practitioner.'
-  last_updated: '2026-09-25'
+  last_updated: '2026-10-04'
+  lie: Tells anyone who asks that the overdraw split the Omoro and the wood was sound, so the failure
+    is a student's draw and not a bow on the Academy's roll, while his thumb knows the blackwood had dried
+    out of true (his own knows) (agent ruling)
+  tell: He calls the wood good. He never calls a weapon good or bad, only that it holds or does not (his
+    voice line) (agent ruling)
+  doing_now: At the bowyer's counter with the repair shelf; no blackwood before Ice-out, and the split
+    Omoro still on nobody's roll (agent ruling)
+  stands_with: 'Unmet: none of Isaac''s people has been to his counter. Xanelor''s split bow (L031) is
+    the thing between them (agent ruling)'
 - name: Lei Yanshu
-  thread: Kwon Mu-jin
+  thread: Kwon Mu-jin / Aetherion Academy
+  age: 14
   want: A Class X seat before the Ice-out audit — specifically the seat the Academy will have to vacate
     if a Class X student cannot take the tournament floor. Not the designation. She wants to be measured
     in the bracket where measurement counts, because her lineage's answer to every question is the book
@@ -66,9 +76,17 @@
     Path, Essence Family and Aether Class are null, no source. Counterplay: everything she holds is a
     measurement, so a false measurement is the whole of the counter. Tell: she must get a glass or a hand
     onto a thing before she will commit a figure to the slip.'
-  last_updated: '2026-09-25'
+  last_updated: '2026-10-04'
+  lie: Says Class S's own instructor sent her to take the assessment; she wrote the order slip herself
+    (from the record, lied_about)
+  tell: The only sentence she says with no figure in it and no 'To be exact' before it (her voice line)
+    (agent ruling)
+  doing_now: In Class S, holding the arena-ward figure she took at the anchor from the gallery, unsubmitted,
+    and writing her own order slips (agent ruling)
+  stands_with: Unmet. She holds the one number on Xanelor's arrow and an open question on his Crystal
+    (L032, L033) (agent ruling)
 - name: Examiner Maud Harrowgate
-  thread: Mu-jin
+  thread: Kwon Mu-jin / Aetherion Academy
   want: A Finding of Cause with a name beside Party answerable, in Rovhen's hand, before her circuit report
     goes to the Grand Mage.
   refusal_line: Will not open the inspector's book in front of anyone.
@@ -81,9 +99,17 @@
     Lecture)
   voice: Accord procedural; 'before witnesses'; repeats a clause when pushing; pewter hair, seal-die burn
     on the back of the left hand.
-  last_updated: '2026-09-28'
+  last_updated: '2026-10-04'
+  lie: '''The ward was proofed at the quarterly'' (from the record, lied_about; Rovhen: The Sort)'
+  tell: 'Her palm laid flat on the inspector''s book at her left hand, which she does not open (Rovhen:
+    The Sort) (agent ruling)'
+  doing_now: 'In the Visitation Room with the inspector''s book shut under her hand; her runner has carried
+    the green-sealed note to Rovhen and she calls for the Finding at first bell (Rovhen: After the Lecture)
+    (agent ruling)'
+  stands_with: 'Rovhen: pressing. She has laid the pen across the blank line, nib toward him, and discredited
+    the one man who spoke up for Edmund (agent ruling)'
 - name: Tobin Sallow
-  thread: Mu-jin
+  thread: Kwon Mu-jin / Aetherion Academy
   want: Paid for the whole row of ward plates, not only the crack.
   refusal_line: Won't sign off a plate that rings dull.
   knows:
@@ -94,9 +120,16 @@
   last_seen: Visitation Room, left the cased plate of row six on the desk (The Sort)
   voice: Gravel, gallows trade talk, 'That's all I'm saying.' Bald, missing the tip of his left little
     finger.
-  last_updated: '2026-09-28'
+  last_updated: '2026-10-04'
+  lie: '''Rest of the row''s the same, give or take a plate'': he bills for the whole row and knows six
+    plates on it are cased (Rovhen: The Sort; his knows) (agent ruling)'
+  tell: 'He wipes his palms down his apron one at a time after he says it (Rovhen: The Sort) (agent ruling)'
+  doing_now: Between the bursar and the Visitation with his bill for the row; the scaffold is down and
+    the ring swept (agent ruling)
+  stands_with: 'Rovhen: warm, for Edmund''s sake. ''You''re Lambert''s lad.'' He is owed for the row by
+    somebody, not by Rovhen (agent ruling)'
 - name: Joan Aldery
-  thread: Mu-jin
+  thread: Kwon Mu-jin / Aetherion Academy
   want: The truth about the Tallow Street stair.
   refusal_line: Won't show the cuff.
   knows:
@@ -107,9 +140,17 @@
   last_seen: Old dispensary, carrying Rovhen's letter to the clerk of inquests (The Letter)
   voice: A clerk reading a figure back to a manager who has already decided not to believe it; reads everything
     twice.
-  last_updated: '2026-09-28'
+  last_updated: '2026-10-04'
+  lie: '''Nail. At the counting-house door.'' The three mended cuts in her left cuff (from the record,
+    lied_about; Rovhen: The Letter)'
+  tell: 'She answers before she is asked, and turns the cuff under again with two fingers (Rovhen: The
+    Letter) (agent ruling)'
+  doing_now: Holding Rovhen's letter for the clerk of inquests, a weekday morning ahead (the-tallow-street-stair
+    tick 1) (agent ruling)
+  stands_with: 'Rovhen: owed. She carries his letter and his signature, and has told him one lie he has
+    not caught (agent ruling)'
 - name: Imogen Pell
-  thread: Mu-jin
+  thread: Kwon Mu-jin / Aetherion Academy
   want: Get the class, and so Class S, into the arena.
   refusal_line: Won't show her slate.
   knows:
@@ -118,9 +159,17 @@
   lied_about: []
   last_seen: Stopped at the narrow-pen ink on the roll by the dispensary door (After the Lecture)
   voice: Clear, pitched for a larger room than the one she's in; writes without looking down.
-  last_updated: '2026-09-28'
+  last_updated: '2026-10-04'
+  lie: '''Everyone says'' the Visitation has chained the north gate and that he was in the Visitation
+    Room at noon; one person told her, not a porter (Rovhen: The First Lecture; L061) (agent ruling)'
+  tell: 'She turns her slate face down on her knee and lays her palm flat on it before she speaks, and
+    does not smile (Rovhen: The First Lecture) (agent ruling)'
+  doing_now: 'Back with Class S with what she read on the roll at the dispensary door: the five names
+    in a narrow pen (agent ruling)'
+  stands_with: 'Rovhen: using him. She wants his class in the arena and knows where he was at noon (agent
+    ruling)'
 - name: Agnes Tull
-  thread: Mu-jin
+  thread: Kwon Mu-jin / Aetherion Academy
   want: To know things first; knowing things is a porter's only currency.
   refusal_line: Won't cross the Visitation threshold.
   knows: []
@@ -129,9 +178,15 @@
   - The masked lad put an arrow through the sky-glass (believes it)
   last_seen: Visitation wing door (The Sort)
   voice: Fast, circles back, 'they say,' a whistle through a missing front tooth.
-  last_updated: '2026-09-28'
+  last_updated: '2026-10-04'
+  lie: Says she saw it herself when it reached her as talk; what she passes on as her own eyes is what
+    she most wants to be first with (agent ruling)
+  tell: She drops 'they say', which is in every other sentence she speaks (her voice line) (agent ruling)
+  doing_now: On the Visitation wing door, trading what she heard today for what anyone heard tonight (agent
+    ruling)
+  stands_with: 'Rovhen: curious. He is the newest thing on the grounds to know first (agent ruling)'
 - name: Proctor Wenna Crale
-  thread: Mu-jin
+  thread: Kwon Mu-jin / Aetherion Academy
   want: The night register quiet.
   refusal_line: '''Last bell''s the last bell.'' Nothing opens after it, for anyone.'
   knows:
@@ -140,18 +195,32 @@
   lied_about: []
   last_seen: East corridor, an hour before last bell (After the Lecture)
   voice: Flat; doesn't wait to be asked.
-  last_updated: '2026-09-28'
+  last_updated: '2026-10-04'
+  lie: If asked, nobody came by the east corridor before last bell but the Visitation runner; she looked
+    at the dry flags in the dispensary and means the night register to stay quiet (agent ruling)
+  tell: 'She waits to be asked, when on everything else she does not wait, and her eyes go once along
+    the floor between the door and the back bench (Rovhen: After the Lecture) (agent ruling)'
+  doing_now: At the end of the east corridor until last bell with the night keys; the dry flags not entered
+    (agent ruling)
+  stands_with: 'Rovhen: civil and watching. Last bell is the last bell, for him too (agent ruling)'
 - name: Registrar Anselm Pike
-  thread: Mu-jin
+  thread: Kwon Mu-jin / Aetherion Academy
   want: A clean roll.
   refusal_line: Won't amend an entry he didn't make.
   knows: []
   lied_about: []
   last_seen: Registry (The Dispensary)
   voice: Wide nib, round broad hand, blotted at each stroke's start.
-  last_updated: '2026-09-28'
+  last_updated: '2026-10-04'
+  lie: 'If asked about the five Class S names, says they are in order, late enrolments come through the
+    Visitation; he did not make them, has not asked who did, and calling them regular keeps his roll clean
+    (the five are in a narrow pen and his nib is wide, Rovhen: The Dispensary) (agent ruling)'
+  tell: He says it without looking at the five, with a finger resting on his own round, blotted entries
+    (agent ruling)
+  doing_now: In the Registry with the roll; nobody has yet asked him about the narrow pen (agent ruling)
+  stands_with: 'Rovhen: neutral. He keeps the roll and Rovhen has not yet asked him anything (agent ruling)'
 - name: Hob and Dunstan Pryor
-  thread: Mu-jin
+  thread: Kwon Mu-jin / Aetherion Academy
   want: 'Hob: to say the rest about Cullen Pit, and doesn''t.'
   refusal_line: null
   knows:
@@ -160,4 +229,11 @@
   last_seen: Left the dispensary after the first lecture (After the Lecture)
   voice: 'Hob: a voice like a coal chute, apologises for asking. Dunstan: watches Hob for permission to
     speak.'
-  last_updated: '2026-09-28'
+  last_updated: '2026-10-04'
+  lie: 'Hob: that there is no more to Cullen Pit than ''They said the seam shifted''; he has the rest
+    and does not say it (Rovhen: The First Lecture) (agent ruling)'
+  tell: 'Hob rubs his thumb along the grain of the bench, and Dunstan looks to him and he does not look
+    back (Rovhen: The First Lecture) (agent ruling)'
+  doing_now: Back on the porters' rota; Hob still carrying the rest of Cullen Pit (agent ruling)
+  stands_with: 'Rovhen: warm and wary. Hob said half of Cullen Pit in his room and kept the rest (agent
+    ruling)'

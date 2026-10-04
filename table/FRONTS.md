@@ -1,12 +1,13 @@
 # Fronts, as clocks
 
-## Kharven thread, the year after
+## Sodoku Moto / Kharven
 
 **The Tenrai** ○ 0/1 · closed
 - Want: Seiji revoked and entered *elar-ama*. The eleven retainers killed in front of the boy. Miku Tenrai, fourteen, seated at the Accord table. The Line as a power is finished; what survives is a child with a temporal and a chair.
   - [ ] 1. Closed. Kept for the record; Miku Tenrai's chair is a separate Front if it moves.
 
 **The Keth-Gorrum of Undaar-Keth** ○○○○○ 0/5 · open
+- Pace: a tick every 56 story days, 0 spent
 - Want: a word for what came back through the gate in a cart, because a returning officer is renamed and there is no provision for declining to.
 - Last move: received Vresk Dokkan alive.
 - Next move: The compound is coined, and the coining is a political act in the Expanse before it is a linguistic one.
@@ -17,6 +18,7 @@
   - [ ] 5. Resolves: the word is either entered in Kharven's roll or refused in writing, and whichever it is, the Expanse remembers who signed.
 
 **The Accord circle, unnamed** ●●○○○ 2/5 · open
+- Pace: a tick every 19 story days, 0 spent
 - Want: four constituents with every reason to hate each other each want the instrument read their way.
 - Last move: Lambert brought the first test of the instrument to Sodoku's room at night, dressed as housekeeping: re-enter every southern register under the circle's seal, the relocation schedule and its sub-entries among them, so the four hundred and six pass from his office to the circle without anyone saying so. The paper is on the table. Sodoku has not answered.
 - Next move: Whatever Sodoku does with the brush is the reading. If he signs, the four hundred and six are the circle's and one constituent finds the instrument read Lambert's way. If he refuses, Lambert's seal stays on them and Tabitha's factors have a document to ask about.
@@ -27,16 +29,18 @@
   - [ ] 5. Resolves: the circle has a name and a first precedent, or it has split along the reading and the instrument is two documents.
 
 **Tabitha Hallenfeld** ○○○○○ 0/5 · open
+- Pace: a tick every 504 story days, 0 spent
 - Want: Lambert's answer to why the grain was bought in the first week.
 - Last move: asked, dated, refused twice.
 - Next move: She stops asking Lambert and starts asking the factors.
   - [ ] 1. She stops asking Lambert and starts asking the factors.
   - [ ] 2. A factor gives her a date, and the date is a week before the first refugee count.
-  - [ ] 3. She puts the dated question in front of Hild rather than Lambert, in writing, with the two refusals attached.
+  - [ ] 3. She puts the dated question before the Bench rather than Lambert, in writing, with the two refusals attached.
   - [ ] 4. Lambert answers, and the answer is arithmetic rather than a confession, which is worse.
   - [ ] 5. Resolves: the grain purchase is entered as foresight or as complicity, and Tabitha's own name is on whichever it is.
 
 **Bram Greymane** ○○○○○ 0/5 · open
+- Pace: a tick every 56 story days, 0 spent
 - Want: nobody asks him about Wren's omission from the roll.
 - Last move: walked in from Stormfold for the signing and would not sit.
 - Next move: Somebody asks.
@@ -47,6 +51,7 @@
   - [ ] 5. Resolves: the omission is corrected in Bram's hand or in someone else's, and the difference is what the Greymane name is worth afterward.
 
 **Wren Greymane, the grief** ○○○○○ 0/5 · open
+- Pace: a tick every 28 story days, 0 spent
 - Want: somewhere to set the blame down. Wren died on the Ashgate road, body not recovered, after sixteen months of being called traitor on the ridge and by his brother. Bram's dedication stands before his own name in the Stormfold book, Wren is not on the roll, and every house that lost a son in his column wants the dead of the narrows to be somebody's.
 - Last move: Bram read the depositions behind a shut door, entered the dedication before his own name, and left Wren off the roll.
 - Next move: The ridge blames Wren. At Coldbeck's death-house his name is read among the Waiting with no body behind it, and a ridge house that lost a son in his column asks for it to be struck, in front of a Greymane.
@@ -56,9 +61,10 @@
   - [ ] 4. Someone rides to the ditch bank on the Ashgate road to bring Wren home, and the ridge splits over whose ground he goes into, or whether he goes into any.
   - [ ] 5. Resolves: the blame is set down in writing. The ridge enters Wren with its dead or keeps him off its stones, and the Greymane name is worth afterward whatever the ridge decided he was.
 
-## New World, the Korvaeth War
+## Ilthára Korvaeth / The New World
 
 **The Sunroot Regency under Ovaeren** ○○○○○ 0/5 · open
+- Pace: a tick every 91 story days, 0 spent
 - Want: to hold a regency that split name from office, the thinnest argument in the record of the war.
 - Last move: voted, and it has held eleven years.
 - Next move: A bad winter, or a regent with no claim discovering he wants one.
@@ -69,6 +75,7 @@
   - [ ] 5. Resolves: the Regency is confirmed as an office without a name, or the name and the office are rejoined in one person, and the war changes shape.
 
 **Korrindal and the Vessel road** ○○○○○ 0/5 · open
+- Pace: a tick every 28 story days, 0 spent
 - Last move: the road opened in four days at two hundred and eleven lives, entered as the Vessel Assize because the Regency has never called anything in this war a battle.
 - Next move: The road is open and now has to be held through a winter by a man who was trained as a jurist.
   - [ ] 1. The road is open and now has to be held through a winter by a man who was trained as a jurist.
@@ -78,6 +85,7 @@
   - [ ] 5. Resolves: the road is held, or it closes, and the two hundred and eleven are entered against whichever.
 
 **Thela Ess-Vaelen** ○○○○○ 0/5 · open
+- Pace: a tick every 91 story days, 0 spent
 - Want: unclear even to her, which is the point.
 - Last move: taken alive, named in the field at eleven hundred witness-fees, released.
 - Next move: She holds a validated name usable against Ilthára in any court and has not used it.
@@ -88,6 +96,7 @@
   - [ ] 5. Resolves: the name is used against Ilthára, sold, or surrendered, and Thela finds out what she wanted.
 
 **Velthaeir** ○○○○○ 0/5 · open
+- Pace: a tick every 91 story days, 0 spent
 - Want: the record legible for four quarters.
 - Last move: entered the finding that started the war.
 - Next move: Asked to read two registers aloud in the same room.
@@ -98,6 +107,7 @@
   - [ ] 5. Resolves: the archive stands as the common record for four quarters, or it is captured by one side and the war loses its referee.
 
 **The Tsohanto Reach** ○○○○ 0/4 · open
+- Pace: a tick every 182 story days, 0 spent
 - Want: Silent four years, nobody counting it, no delegation to either party in eleven. The silence is the Tsohanto's answer to the Empress of Eresse, who shares their queen's name, Onawa.
 - Next move: A count is taken of the silence: someone in the Regency notices no delegation has come in eleven years and asks why.
   - [ ] 1. A count is taken of the silence: someone in the Regency notices no delegation has come in eleven years and asks why.
@@ -106,6 +116,7 @@
   - [ ] 4. Resolves: the Reach re-enters the war as the party that was insulted in a yard.
 
 **The thing nobody has done** ○○○○○ 0/5 · open
+- Pace: a tick every 56 story days, 0 spent
 - Want: The challenge form is two words long and any commoner in any market could say it to her face without breaking a law. In thirty years not one person ever has. Aeldros works this out in the eleventh year.
 - Next move: Aeldros works out that the challenge form is two words long and legal.
   - [ ] 1. Aeldros works out that the challenge form is two words long and legal.
@@ -114,9 +125,10 @@
   - [ ] 4. Someone says the two words to Ilthára's face.
   - [ ] 5. Resolves: the challenge is answered, and thirty years of nobody saying it are explained by what happens next.
 
-## Kwon Mu-jin
+## Kwon Mu-jin / Aetherion Academy
 
 **The Class Below** ●●○○○ 2/5 · open
+- Pace: a tick every 2 story days, 0 spent
 - Want: Class S wants Class X's seats. They are talented, hungry, irritated that someone else holds the designation, and will take a place the moment a Class X student's performance drops far enough, most cheaply when that student is injured.
 - Last move: Class S scouts the wounded. Three Class S students sit on the infirmary steps from breakfast, visiting nobody. Five Class S names are added to Rovhen Talvasciel's inquiry roll on the fourth day, in a narrow pen that is not the registrar's. Imogen Pell asks in open class whether the class will examine the arena, and knows Rovhen was in the Visitation Room at noon.
 - Next move: Class S uses the inquiry class to get inside the chained arena, or learns who filed the Finding of Cause.
@@ -126,9 +138,8 @@
   - [ ] 4. A Class X seat is contested on the record: the Academy agrees to weigh tournament performance against Class S results.
   - [ ] 5. Resolves: a Class X student who fought hurt or fought badly is moved down, and a Class S student takes the private dormitory and the X designation.
 
-## Mu-jin
-
 **The Finding of Cause** ○○○○○ 0/5 · open
+- Pace: a tick every 1 story days, 0 spent
 - Want: Examiner Maud Harrowgate wants a name on the blank line beside Party answerable for the arena damage, drawn in Rovhen's hand as his first demonstration, before her circuit report goes to the Grand Mage. The ward was never proofed at the quarterly, and a named student protects the charter and her.
 - Next move: First bell: Harrowgate calls for the Finding.
   - [ ] 1. First bell: Harrowgate calls for the Finding. Signed, refused, or stalled.
@@ -138,6 +149,7 @@
   - [ ] 5. The Visitation files. The finding names a student, the ward-proofing, or nobody, and the charter learns which.
 
 **The Tallow Street Stair** ○○○○○ 0/5 · open
+- Pace: a tick every 2 story days, 0 spent
 - Want: Whoever killed Walter Aldery on the draper's back stair and took his marbled daybook wants the inquest to stay 'a fall in drink' and the widow to stop asking. Joan Aldery's cuff was cut three times within the week.
 - Next move: Joan takes the letter to the Deputy Coroner's office on a weekday morning.
   - [ ] 1. Joan takes Rovhen's letter to the clerk of inquests; the papers are shown, withheld, or already missing.

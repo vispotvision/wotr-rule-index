@@ -1,0 +1,58 @@
+[
+ {
+  "old_id": "R70-45-NEW_STANDING_INVENTORY_FIELDS",
+  "action": "note",
+  "by": "R73-22-WHERE_COURTSHIP_CUSTOM_LIVES",
+  "r73_quote": "A, plus a Mores field: what the culture holds shameful and what it boasts of, nakedness and bathing, the pleasure trade (CO18), and what its law does to adultery and to rape, written beside R70-45's law field.",
+  "old_text": "Yes to: Land, sky, living things (Each Inventory gains terrain and climate, the sky by its own names, seasons and their signs, and what grows, is kept, hunted and feared; Temperature joins the senses entry); Building, dress, the street (Each Inventory gains architecture and ornament, the house plan, dress by rank (cloth, cut, colour, adornment, worn scent), and its market and street); Music, play, festivals (Each Inventory gains instruments and songs, games and toys, and one or two festivals written as performed: who does what, and in what order); Law, succession, roads (Each Inventory gains law and punishment (R53-11), succession (R60-21), and roads, vehicles and inns).",
+  "note_text": "Extended by R73-22-WHERE_COURTSHIP_CUSTOM_LIVES (intimacy law 2026-10-04): every Standing Inventory also gains a Courtship and Marriage field (the approach, the go-between, the gift or price, the vow, who may refuse, how a match ends, widowhood) and a Mores field written beside the law field (what the culture holds shameful and boasts of, nakedness and bathing, the pleasure trade, what its law does to adultery and to rape). The fields here stand."
+ },
+ {
+  "old_id": "R70-110-VERSE_EXCHANGED_TALK",
+  "action": "note",
+  "by": "R73-26-MAHUO_COURTSHIP",
+  "r73_quote": "Courtship is a verse exchange: the suitor's three lines are answered with three, and the last clause turns. A plain answer costs standing, as R70-110 rules at court",
+  "old_text": "Each culture its own contest. B, plus the north's own form: Northern English and Norse-register speakers may answer in alliterative insult verse (flyting). Each culture's verse form is entered in its Inventory. (Option B there reads: Courtly cultures trade verse. The Moto court, Eresse, the Mahuo houses and the lineage halls may offer and answer verse at rites and in court; a weak answer, or a plain one, costs face.)",
+  "note_text": "Extended by R73-26-MAHUO_COURTSHIP (intimacy law 2026-10-04): the Mahuo houses' verse, offered and answered here at rites and in court, also makes a courtship (three lines answered with three, the last clause turning), and a plain answer there costs standing. Verse at rites and in court, flyting, and each culture's verse form in its Inventory stand."
+ },
+ {
+  "old_id": "R70-104-RIVAL_BOND",
+  "action": "note",
+  "by": "R73-32-JEALOUSY_RIVALS",
+  "r73_quote": "a love rival who recurs is paid for as R70-104 rules",
+  "old_text": "Rivals who chose to spare. A rival may recur, but each survival is a choice someone made and paid for on the Ledger: a debt, a scar, a witness to the mercy. R48-31 stands.",
+  "note_text": "Extended by R73-32-JEALOUSY_RIVALS (intimacy law 2026-10-04): 'a love rival who recurs is paid for as R70-104 rules', so a rival in love who recurs is paid for on the Ledger as a rival in a fight is. R48-31-STAKES and the rest of this row stand."
+ },
+ {
+  "old_id": "R70-114-GRIMDARK_WARMTH",
+  "action": "note",
+  "by": "R73-36-LOVERS_WARM_BOND",
+  "r73_quote": "Lovers count, but each thread also keeps a warm bond that is not romantic",
+  "old_text": "Warmth as counterweight. Each live thread carries at least one standing warm bond (found family, master and disciple, sworn kin) written openly warm, and joy may get scenes of its own. Losses still cost.",
+  "note_text": "Partly amended by R73-36-LOVERS_WARM_BOND (intimacy law 2026-10-04): a romance counts as a standing warm bond, but each live thread also keeps a warm bond that is not romantic, so a romance that dies, sours or turns to Obsession leaves warmth standing. 'Written openly warm' and the rest of the row are not reached by this answer."
+ },
+ {
+  "old_id": "R70-114-GRIMDARK_WARMTH",
+  "action": "note",
+  "by": "R73-38-LOVE_MOURNED_OR_LIVED",
+  "r73_quote": "A bond gets scenes of its own joy before a loss may land on it",
+  "old_text": "Warmth as counterweight. Each live thread carries at least one standing warm bond (found family, master and disciple, sworn kin) written openly warm, and joy may get scenes of its own. Losses still cost.",
+  "note_text": "Partly amended by R73-38-LOVE_MOURNED_OR_LIVED (intimacy law 2026-10-04): joy that 'may get scenes of its own' is owed to a bond before a loss may land on it, and a love that dies before the reader has seen it lived is a fault to fix. 'Losses still cost' stands."
+ },
+ {
+  "old_id": "R70-84-GROWTH_MOMENTS_THAT_EARN",
+  "action": "note",
+  "by": "R73-37-BOND_GROWS",
+  "r73_quote": "The breakthrough readout R70-84 already owes at Flourishing also names its Catalyst, the first Spirit Axis, with no figure (R12-5); no other bond prints",
+  "old_text": "Yes to: Level gained (A short readout when a Level lands, with the stat points it brought. The genre's heartbeat, and the most frequent of the four); Stage breakthrough (A readout naming the new Stage and its Tier of Standing when the Catalyst completes. The cultivation novel's big moment); New Trait (A readout naming the Trait when it registers. Rare, and each one changes what a character can do); Wellspring contact (A readout at first contact with a new Wellspring current (FOW's Resonant Surge) and at a harmonisation. Growth tied to a place).",
+  "note_text": "Partly amended by R73-37-BOND_GROWS (intimacy law 2026-10-04): at the Stage IV, Flourishing breakthrough the readout also names its Catalyst, the first Spirit Axis, with no figure; no other bond prints. The four moments here stand."
+ },
+ {
+  "old_id": "R71-103-COMBAT_CHECKS_VERIFY_SCENE",
+  "action": "note",
+  "by": "R73-41-INTIMACY_CHECKS_VERIFY",
+  "r73_quote": "as R71-103 does for fight devices",
+  "old_text": "Yes to: Truer school lists (Percussion gets a hammer-and-haft list, boxing becomes its own school, and firearms and Kharven lists are added, so a gunfight or a hall fight is checked in its own words); Readout and beat counts (WARN past three readout lines a scene or two a turn, on two in one exchange, and on a figure carried from one exchange to the next (R70-86, R70-88)); Stale-device watch (WARN past one a scene on the archive's tired fight devices: the default 'eleven', the knock-back furrow, the overdraw nosebleed, 'without deciding to' and 'the particular X of Y'). Not taken: Checks 24 to 26.",
+  "note_text": "Noted by R73-41-INTIMACY_CHECKS_VERIFY (intimacy law 2026-10-04): its stale-touch watch (the hand on the arm, the jaw held, the kiss on the hair) runs 'as R71-103 does for fight devices', and verify --explicit 'stops counting 'cock' as gun vocabulary'. This row names no firearms term, and the firearms list built for it (build/verify.py at HEAD) holds no bare 'cock', so nothing here changes. The school lists, the counts and the stale-device watch stand."
+ }
+]

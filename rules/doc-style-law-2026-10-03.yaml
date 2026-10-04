@@ -587,7 +587,10 @@ rules:
     lines: null
   notes: 'SP4. Extends R49-26-ENDINGS and gives R5-F-LIGHT_NOVEL_KEPT''s hook at close a legal ending;
     R12-5-NEVER_INVENT_NUMBER binds readout closes. A turn still stops at Isaac''s next decision. Not
-    taken: the storyteller''s next chapter. R70-64 adds a closing poem.'
+    taken: the storyteller''s next chapter. R70-64 adds a closing poem. Partly amended by R73-2-PAGE_OR_CUT
+    (intimacy law 2026-10-04): ''Any sex that happens inside a scene is written explicitly, start to finish,
+    with no cut and no fade''. The break-off before payoff may not cut away from sex inside a scene, written
+    or played; the other closes, and the break-off for any other beat, stand.'
 - id: R70-18-ARC_SHAPES
   pack: Style Law 2026-10-03
   pack_number: null
@@ -916,11 +919,14 @@ rules:
   source:
     file: ''
     lines: null
-  notes: Amends R20C-58-REGISTERS_FLAVOUR_NOT_LAW (the answer's own word) for the word dial only, and
+  notes: 'Amends R20C-58-REGISTERS_FLAVOUR_NOT_LAW (the answer''s own word) for the word dial only, and
     partly amends R51-01-TIMELESS, whose plain default and two antique exceptions are now set per culture.
     Read with R5-C3-NARRATION_REGISTER_EXTENSION. Modern words stay out of narration outside italic thought
     (R48-13-PERIOD_FEEL, R70-37-MODERN_IDIOM_THOUGHT). Works with R70-21-CADENCE_CULTURE; R70-36-CHECKER_ENFORCES
-    WARNs on an archaic word outside its culture's dial.
+    WARNs on an archaic word outside its culture''s dial. Partly amended by R73-6-BED_WORDS_BY_CULTURE
+    (intimacy law 2026-10-04): ''Narration keeps one crude English''. In explicit narration the words
+    for the body are that one crude English whatever the POV culture''s dial; the dial governs the rest
+    of the narration as written.'
 - id: R70-28-TRADE_SCIENCE_WORDS
   pack: Style Law 2026-10-03
   pack_number: null
@@ -1502,7 +1508,11 @@ rules:
     of R70-41 to R70-43. Further fields come from R70-44, R70-59, R70-60, R70-61, R70-63 and R70-65. Extended
     by R71-77-POISON_DUEL (combat law 2026-10-04): every Standing Inventory also gains a line on coated
     weapons and poison, taken from the culture''s real analogue, the Accord''s munitions class first.
-    The fields here stand.'
+    The fields here stand. Extended by R73-22-WHERE_COURTSHIP_CUSTOM_LIVES (intimacy law 2026-10-04):
+    every Standing Inventory also gains a Courtship and Marriage field (the approach, the go-between,
+    the gift or price, the vow, who may refuse, how a match ends, widowhood) and a Mores field written
+    beside the law field (what the culture holds shameful and boasts of, nakedness and bathing, the pleasure
+    trade, what its law does to adultery and to rape). The fields here stand.'
 - id: R70-46-CRAFT_LABOUR_PAGE
   pack: Style Law 2026-10-03
   pack_number: null
@@ -2703,10 +2713,13 @@ rules:
   source:
     file: ''
     lines: null
-  notes: Works with R70-89-BODY_FIRST_NUMBER_FIRST (body first, line after), R70-91-BREAKTHROUGH_PAGE
+  notes: 'Works with R70-89-BODY_FIRST_NUMBER_FIRST (body first, line after), R70-91-BREAKTHROUGH_PAGE
     (when the breakthrough line lands), R70-80-READOUT_SITS_PAGE (a breakthrough earns a set-off block),
     R70-86-MANY_READOUTS_SCENE_CARRIES (the per-scene cap) and R70-90-FAST_NUMBERS_CLIMB (each gain needs
     a shown cause). Every figure traces to the sheet (R12-5-NEVER_INVENT_NUMBER). No older rule is reached.
+    Partly amended by R73-37-BOND_GROWS (intimacy law 2026-10-04): at the Stage IV, Flourishing breakthrough
+    the readout also names its Catalyst, the first Spirit Axis, with no figure; no other bond prints.
+    The four moments here stand.'
 - id: R70-85-SCENE_MOMENTS_THAT_EARN
   pack: Style Law 2026-10-03
   pack_number: null
@@ -3369,7 +3382,9 @@ rules:
     file: ''
     lines: null
   notes: 'R48-31-STAKES stands: death stays possible in every fight. When Isaac''s PC is the one sparing
-    or spared, the choice is his (R49-01-WHOSE_HEAD).'
+    or spared, the choice is his (R49-01-WHOSE_HEAD). Extended by R73-32-JEALOUSY_RIVALS (intimacy law
+    2026-10-04): ''a love rival who recurs is paid for as R70-104 rules'', so a rival in love who recurs
+    is paid for on the Ledger as a rival in a fight is. R48-31-STAKES and the rest of this row stand.'
 - id: R70-105-JOINS_WOUND_WHEN_FIGHT
   pack: Style Law 2026-10-03
   pack_number: null
@@ -3560,9 +3575,13 @@ rules:
   source:
     file: ''
     lines: null
-  notes: R51-28-CHANT_PAGE stands for chants. verify leaves a marked verse block out of its rhythm statistics
-    (R70-136-NEW_CHECKS_VERIFY_SCENE), so the checker does not count traded verse toward R4-14-RUN_RULE's
-    runs. Works with R70-64-VERSE_INSIDE_PROSE, which sets where verse reaches the page.
+  notes: 'R51-28-CHANT_PAGE stands for chants. verify leaves a marked verse block out of its rhythm statistics
+    (R70-136-NEW_CHECKS_VERIFY_SCENE), so the checker does not count traded verse toward R4-14-RUN_RULE''s
+    runs. Works with R70-64-VERSE_INSIDE_PROSE, which sets where verse reaches the page. Extended by R73-26-MAHUO_COURTSHIP
+    (intimacy law 2026-10-04): the Mahuo houses'' verse, offered and answered here at rites and in court,
+    also makes a courtship (three lines answered with three, the last clause turning), and a plain answer
+    there costs standing. Verse at rites and in court, flyting, and each culture''s verse form in its
+    Inventory stand.'
 - id: R70-111-LONG_FORMAL_SPEECH_CLIPPED
   pack: Style Law 2026-10-03
   pack_number: null
@@ -3690,9 +3709,15 @@ rules:
   source:
     file: ''
     lines: null
-  notes: Bears on R11-1-TONAL_SPINE_UNCHANGED and R5-A-FLESH_CHANGES, whose status R70-1-BLEND_MODEL and
-    R70-7-FAR_MOVE set. NATALIE.md's 'Hope is small and hard-won' gains the counterweight; victories still
-    cost. A bond that involves Isaac's PC is his to play (R49-01-WHOSE_HEAD).
+  notes: 'Bears on R11-1-TONAL_SPINE_UNCHANGED and R5-A-FLESH_CHANGES, whose status R70-1-BLEND_MODEL
+    and R70-7-FAR_MOVE set. NATALIE.md''s ''Hope is small and hard-won'' gains the counterweight; victories
+    still cost. A bond that involves Isaac''s PC is his to play (R49-01-WHOSE_HEAD). Partly amended by
+    R73-36-LOVERS_WARM_BOND (intimacy law 2026-10-04): a romance counts as a standing warm bond, but each
+    live thread also keeps a warm bond that is not romantic, so a romance that dies, sours or turns to
+    Obsession leaves warmth standing. Its ''written openly warm'' and the rest of the row are not reached
+    by this answer. Partly amended by R73-38-LOVE_MOURNED_OR_LIVED (intimacy law 2026-10-04): joy that
+    ''may get scenes of its own'' is owed to a bond before a loss may land on it, and a love that dies
+    before the reader has seen it lived is a fault to fix. ''Losses still cost'' stands.'
 - id: R70-115-TEARS_SENTIMENT
   pack: Style Law 2026-10-03
   pack_number: null

@@ -1,0 +1,722 @@
+- id: R73-1-EXPLICIT_SCENE_EARNS
+  pack: Intimacy Law 2026-10-04
+  pack_number: null
+  section: K1
+  title: An explicit scene shows a hunger by default; a settled pair's night may be joy alone
+  status: live
+  kind: mandate
+  summary: 'By default each explicit scene shows something about one partner''s desire or refusal the
+    reader did not know, whether or not a thread moves, with Rule 9''s consequence still landing afterward,
+    and a settled pair may have a night that is only pleasure and warmth, its consequence small: a habit,
+    a mark, a witness.'
+  verbatim: 'B, and joy may stand. B by default, and a settled pair may have a night that is only pleasure
+    and warmth, its consequence small: a habit, a mark, a witness.'
+  amends:
+  - guide: NATALIE.md and the wotr-write skill
+    locus: 'Table rule 9: explicit scenes (what the scene earns)'
+    operation: extends
+  supersedes: []
+  applies_to:
+  - prose-law
+  - scene-structure
+  verification: []
+  ratified: 'Isaac, 2026-10-04, Claude Code chat: ruled directly (the intimacy questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: 'K1, option C as recommended, which takes option B as the default. B reads: each scene shows
+    something about one partner''s desire or refusal the reader did not know; a thread may move or not,
+    and Rule 9''s consequence still lands afterward. Option A (every explicit scene turns a thread, no
+    sex for its own sake) was not taken. Carries R70-114-GRIMDARK_WARMTH''s ''joy may get scenes of its
+    own'' into the bed; R70-114 is not changed by this row (lovers and the warm bond are R73-36-LOVERS_WARM_BOND,
+    CO14). Table Rule 9''s ''a consequence afterward'' (NATALIE.md text, no indexed row) stands; what
+    the Ledger keeps of it is R73-5-WHAT_LEDGER_KEEPS.'
+- id: R73-2-PAGE_OR_CUT
+  pack: Intimacy Law 2026-10-04
+  pack_number: null
+  section: K2
+  title: Sex inside a scene is always on the page, start to finish
+  status: live
+  kind: mandate
+  summary: Any sex that happens inside a scene is written explicitly from start to finish, with no cut
+    and no fade, and the aftermath follows on the page.
+  verbatim: Always on the page. Any sex that happens inside a scene is written explicitly, start to finish,
+    with no cut and no fade; the aftermath follows on the page.
+  amends:
+  - guide: NATALIE.md and the wotr-write skill
+    locus: 'Table rule 9: explicit scenes (on the page or cut)'
+    operation: extends
+  - guide: WOTR_Scene_Writing_Process_Guide.md
+    locus: Intimacy (on the page or cut)
+    operation: adds
+  supersedes: []
+  applies_to:
+  - prose-law
+  - scene-structure
+  verification: []
+  ratified: 'Isaac, 2026-10-04, Claude Code chat: ruled directly (the intimacy questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: 'K2, option A; Isaac''s pick differs from the recommendation (B, which would have let a written
+    chapter break off before the act under R70-17 as a named choice, roleplay never cutting). Option C
+    (a Moto or courtly POV skipping the act the Genji way) was not taken either, so no form and no culture
+    is excepted. Partly amends R70-17-CLOSING_MODES: its break-off before payoff may not cut away from
+    sex that happens inside a scene; its other closes, and the break-off for any other beat, stand. Kawabata''s
+    break-off (R70-5-EASTERN_MODELS) lands through R70-17 and is bounded the same way. R70-133-EASTERN_TECHNIQUES_BESIDE_CLINICAL
+    stands: the season image, the held detail and the poem after sit inside a scene written start to finish,
+    the poem closing the aftermath. The answer''s scope is sex that happens inside a scene. R72-38-GUEST_OWN_LINES
+    (at the Discord table an explicit scene runs only with players who opted in, and anyone else''s character
+    sees a door close) is not named and stands. Table Rule 9''s ''aftermath never skipped'' stands.'
+- id: R73-3-FIRST_TIME_COMES
+  pack: Intimacy Law 2026-10-04
+  pack_number: null
+  section: K3
+  title: No pacing rule for a pair's first time
+  status: live
+  kind: mandate
+  summary: 'A pair''s first explicit scene comes when the people would: no pacing rule holds it, NPCs
+    act on their wants and refusal lines under Table Rule 3, and sex may come first and the bond after,
+    or never.'
+  verbatim: 'When the people would. No pacing rule: NPCs act on their wants and refusal lines, so sex
+    may come first and the bond after, or never. Table Rule 3 decides.'
+  amends:
+  - guide: NATALIE.md and the wotr-write skill
+    locus: 'Table rules 3 and 9: NPC agency and explicit scenes (when the first time comes)'
+    operation: extends
+  supersedes: []
+  applies_to:
+  - scene-structure
+  - session-protocol
+  verification: []
+  ratified: 'Isaac, 2026-10-04, Claude Code chat: ruled directly (the intimacy questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: K3, option B as recommended. Options A (slow burn by default, sex never opening a relationship)
+    and C (a carded character's first time waits on a bond, minor NPCs act at once) were not taken, so
+    a carded character runs on no clock either. Table Rule 3 (NPCs want things and pursue them; if an
+    NPC would refuse, they refuse) has no indexed row and decides. R52-02-VOICE_LEVER (a voice is what
+    a person notices, wants and refuses) stands. The lover's desire, refusal and hinge fields are R73-4-LOVER_DESIRE_REFUSAL.
+- id: R73-4-LOVER_DESIRE_REFUSAL
+  pack: Intimacy Law 2026-10-04
+  pack_number: null
+  section: K4
+  title: Desire, refusal and hinge fields for anyone who may share a bed
+  status: live
+  kind: mandate
+  summary: Every card and roster row for anyone who may share a bed carries three fields (what they want
+    in bed, what they will not do, and what would change their mind either way), so Rule 9's change of
+    mind has a planted cause a player can find.
+  verbatim: 'Desire, refusal, and the hinge. As B, plus a third field: what would change their mind, either
+    way. Rule 9''s change of mind then has a planted cause a player can find.'
+  amends:
+  - guide: Character cards, NATALIE.md and the wotr-npc skill
+    locus: Desire, refusal and hinge fields (anyone who may share a bed)
+    operation: adds
+  - guide: NATALIE.md and the wotr-write skill
+    locus: 'Table rule 9: explicit scenes (the NPC''s desire and refusal line, the change of mind)'
+    operation: extends
+  supersedes: []
+  applies_to:
+  - character-sheet
+  - dialogue
+  verification: []
+  ratified: 'Isaac, 2026-10-04, Claude Code chat: ruled directly (the intimacy questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: 'K4, option C as recommended, which takes option B''s two fields and adds the hinge. B reads:
+    every card and roster row for anyone who may share a bed gains two fields, what they want in bed and
+    what they will not do. Option A (the existing refusal line covers it, no new field) was not taken,
+    so the bed fields sit beside the roster''s existing refusal line. The hinge serves Table Rule 9''s
+    ''can change their mind'' (the wotr-rp skill: ''either way''). R52-02-VOICE_LEVER (notice, want, refuse)
+    stands. R48-30-SURPRISES (big surprises only after foreshadowing a player could have caught) is not
+    changed; the planted hinge is the kind of foreshadowing it asks for. How consent shows in the scene
+    is R73-12-CONSENT_ON_PAGE.'
+- id: R73-5-WHAT_LEDGER_KEEPS
+  pack: Intimacy Law 2026-10-04
+  pack_number: null
+  section: K5
+  title: What an intimate scene puts on the Ledger
+  status: live
+  kind: procedure
+  summary: After an intimate scene the Ledger enters whatever was promised, owed, bargained or betrayed
+    in bed (to come due like any debt), who heard, saw or will talk (as who-saw-what, able to open a Front),
+    marks on the body (carried on real healing times and visible to whoever looks), and what was learned
+    (knowledge the other now holds and may use).
+  verbatim: 'Yes to: Debts and promises (Whatever was promised, owed, bargained or betrayed in bed is
+    entered and comes due like any other debt); Witnesses and reputation (Who heard, who saw, who will
+    talk: gossip, scandal and a rival''s leverage, entered as who-saw-what, and able to open a Front);
+    Marks on the body (Bites, bruises, beard-burn, a strained hip, another''s scent on the skin: entered
+    and carried on real healing times (R60-02), visible to whoever looks); What was learned (A secret
+    told, a scar seen, a weakness found in bed is entered as knowledge the other now holds, and may use).'
+  amends:
+  - guide: NATALIE.md and the wotr-write skill
+    locus: 'Table rule 7: the ledger (after an intimate scene)'
+    operation: extends
+  supersedes: []
+  applies_to:
+  - session-protocol
+  - adjudication
+  verification: []
+  ratified: 'Isaac, 2026-10-04, Claude Code chat: ruled directly (the intimacy questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: K5, all four options taken; the recommendation was A, B and D, and Isaac added C (marks on the
+    body). Table Rule 7's Ledger (injuries, exhaustion, reserve, debts, reputation, who saw what; NATALIE.md
+    text, no indexed row) gains these four after an intimate scene, and Table Rule 9's consequence afterward
+    is entered here. Marks run on R60-02-REAL_HEALING_TIMES, which stands. Conception and the pox are
+    R73-33-CONCEPTION_AND_POX (CO11); a non-con scene's bill to the world is R73-17-CARRYING_FORWARD;
+    a worked read taken unasked is entered once found (R73-13-READING_LOVER).
+- id: R73-6-BED_WORDS_BY_CULTURE
+  pack: Intimacy Law 2026-10-04
+  pack_number: null
+  section: SC1
+  title: One crude English in narration; each culture's body words in mouths
+  status: live
+  kind: mandate
+  summary: In every POV, narration keeps one crude English for the words for the body, and each culture's
+    own words for the body arrive in speech and italic thought, the way its swears do.
+  verbatim: Crude English, native in mouths. Narration keeps one crude English; each culture's own words
+    for the body arrive in speech and italic thought, as its swears do.
+  amends:
+  - guide: NATALIE.md and the wotr-write skill
+    locus: 'Table rule 9: explicit scenes (plain anatomical vocabulary)'
+    operation: extends
+  - guide: Dialogue Craft Standards
+    locus: Intimacy (a culture's words for the body in a mouth)
+    operation: adds
+  supersedes: []
+  applies_to:
+  - prose-law
+  - register
+  - dialogue
+  - pov
+  verification: []
+  ratified: 'Isaac, 2026-10-04, Claude Code chat: ruled directly (the intimacy questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: 'SC1, option C; Isaac''s pick differs from the recommendation (B, a bed-words bank in each Inventory''s
+    Words entry, used in narration too). Option A (one crude English everywhere, the culture''s dial bending
+    only syntax and image) was not taken, so a culture''s own body words do reach the page, in speech
+    and italic thought. Read with R49-51-EXPLICIT, which it does not change: its working-man anatomical
+    words are the one crude English, in every POV''s narration. Partly amends R70-27-ANTIQUE_NARRATION_RUNS:
+    in explicit narration the words for the body are that one crude English whatever the POV culture''s
+    dial. R70-134-KEYED_CULTURE_FREE stands (the explicit techniques stay keyed to the POV''s culture,
+    and the lover''s culture shows in what they say). R70-34-REAL_LANGUAGE_SWEARS_NARRATION stands for
+    swears; it does not carry a culture''s body words into narration. R70-33-WORD_BANK_PER_CULTURE, R51-02-CLOSE_POV_SWEARS,
+    R51-29-SWEARING and R48-12-PROFANITY are not changed. Italic thought takes the words the POV would
+    say (R70-37-MODERN_IDIOM_THOUGHT).'
+- id: R73-7-HOW_LONG_IT_RUNS
+  pack: Intimacy Law 2026-10-04
+  pack_number: null
+  section: SC2
+  title: Explicit scene length by weight
+  status: live
+  kind: budget
+  summary: In a written scene or chapter a first time, a turning point or a dark explicit scene runs as
+    a set piece, a returning pair's night inside a chapter runs on that chapter's length, and the aftermath
+    is always written.
+  verbatim: By weight. A first time, a turning point or a dark scene runs as a set piece; a returning
+    pair's night inside a chapter runs on that chapter's length, the aftermath always written.
+  amends:
+  - guide: WOTR_Scene_Writing_Process_Guide.md
+    locus: Intimacy (length by weight)
+    operation: adds
+  supersedes: []
+  applies_to:
+  - scene-structure
+  - prose-law
+  verification: []
+  ratified: 'Isaac, 2026-10-04, Claude Code chat: ruled directly (the intimacy questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: SC2, option B as recommended. A set-piece explicit scene takes R48-46-WORD_FLOOR's set-piece
+    floor, which stands. Option A (every explicit scene a set piece, the aftermath counted inside the
+    floor as R1-3 counts a battle's) was not taken, so R1-3-WORD_FLOOR_INCLUDES_AFTERMATH stays a battle
+    rule and is not changed. Option C (the act short and dense inside a longer scene) was not taken. The
+    question asks of written scenes and chapters; a roleplay turn runs on R49-29-TURN_FILL and R73-20-EXPLICIT_ROLEPLAY_TURN.
+- id: R73-8-TRACKING_BODIES
+  pack: Intimacy Law 2026-10-04
+  pack_number: null
+  section: SC3
+  title: Bodies fixed in one sentence at each new pose
+  status: live
+  kind: mandate
+  summary: Fix each new arrangement of the bodies in one clear sentence as it forms, and between poses
+    let sensation lead and the geometry blur; this is the one wording of Rule 9's 'positions tracked'
+    for both skills.
+  verbatim: Fixed at each new pose. Each new arrangement is fixed in one clear sentence as it forms; between
+    poses, sensation leads and the geometry may blur. This settles the two skills' wording.
+  amends:
+  - guide: NATALIE.md and the wotr-write skill
+    locus: 'Table rule 9: explicit scenes (positions tracked: the wotr-rp skill''s ''every movement''
+      and the scene pipeline''s ''every significant movement'')'
+    operation: replaces
+  supersedes: []
+  applies_to:
+  - prose-law
+  - pov
+  verification: []
+  ratified: 'Isaac, 2026-10-04, Claude Code chat: ruled directly (the intimacy questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: 'SC3, option B as recommended. Table Rule 9''s ''positions tracked'' stands and this row is how
+    it is done: the wotr-rp skill''s ''every movement'' and the scene pipeline''s ''every significant
+    movement'' are brought to this one wording. Options A (every movement on the page) and C (opening
+    and peak only, which would have loosened ''positions tracked'') were not taken. The fight rule it
+    mirrors, R71-12-KEEPING_SPACE_TRACKABLE (fixed at the deciders), is not changed.'
+- id: R73-9-SENSE_LEADS
+  pack: Intimacy Law 2026-10-04
+  pack_number: null
+  section: SC4
+  title: The POV's own body and trade order the senses in bed
+  status: live
+  kind: mandate
+  summary: In an explicit scene the POV's own body and trade decide which sense leads (a beastkin nose
+    first, a Moto eye first, a sealer's hands first), and Rule 9's arousal scents still appear in every
+    scene.
+  verbatim: 'The POV''s own order. The POV''s body and trade decide: a beastkin nose first, a Moto eye
+    first, a sealer''s hands first. Rule 9''s scents still appear in every scene.'
+  amends:
+  - guide: NATALIE.md and the wotr-write skill
+    locus: 'Table rule 9: explicit scenes (arousal scents layered)'
+    operation: extends
+  supersedes: []
+  applies_to:
+  - prose-law
+  - pov
+  verification: []
+  ratified: 'Isaac, 2026-10-04, Claude Code chat: ruled directly (the intimacy questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: 'SC4, option C as recommended; options A (touch leads) and B (smell leads) were not taken. Carries
+    R70-55-ORDER_FIRST_INVENTORY''s POV order (a first sight run in the order this POV would look) into
+    desire; R70-55 is not changed. R51-31-SENSE_BANK (a scene draws on its culture''s senses entry first)
+    and R71-63-BEASTKIN_SENSES_FOX_FIRE (a scenting POV reads by smell) stand. Table Rule 9''s ''arousal
+    scents layered'' stands: smell appears in every explicit scene, whichever sense leads.'
+- id: R73-10-TALK_IN_BED
+  pack: Intimacy Law 2026-10-04
+  pack_number: null
+  section: SC5
+  title: Lovers talk in bed in their own full voice
+  status: live
+  kind: mandate
+  summary: Each partner talks in bed the way their card talks out of it, crude, teasing, bargaining or
+    tender, and the talk is part of the act.
+  verbatim: Full voice, talk as play. Each partner talks in bed the way their card talks out of it, crude,
+    teasing, bargaining or tender, and the talk is part of the act.
+  amends:
+  - guide: Dialogue Craft Standards
+    locus: Intimacy (talk in bed)
+    operation: adds
+  - guide: NATALIE.md and the wotr-write skill
+    locus: 'Table rule 9: explicit scenes (talk in bed)'
+    operation: extends
+  supersedes: []
+  applies_to:
+  - dialogue
+  - prose-law
+  verification: []
+  ratified: 'Isaac, 2026-10-04, Claude Code chat: ruled directly (the intimacy questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: SC5, option B as recommended; options A (a few loaded lines, silence carrying the rest) and C
+    (talk only after) were not taken. R52-02-VOICE_LEVER and the voice test (lines two people could swap
+    fail the scene) stand, as does R48-12-PROFANITY (profanity in mouths). R71-22-TALK_INSIDE_FIGHT (talk
+    as a weapon) is a fight rule and is not changed. A culture's own words for the body come in these
+    mouths (R73-6-BED_WORDS_BY_CULTURE).
+- id: R73-11-POWER_GAMES_FRAMED
+  pack: Intimacy Law 2026-10-04
+  pack_number: null
+  section: SC6
+  title: Power games framed by each culture's form of agreement
+  status: live
+  kind: mandate
+  summary: When lovers play at power, the terms take their culture's form (the Accord seals them on paper,
+    the Moto enter a word in form, Kharven takes a word before witnesses), the stop-word carries that
+    culture's weight, and breaking it is answered under that culture's own law.
+  verbatim: By each culture's form. The Accord seals terms on paper, the Moto enter a word in form, Kharven
+    takes a word before witnesses; the stop-word carries that culture's weight, and breaking it is answered
+    under that culture's own law (R53-11).
+  amends:
+  - guide: Standing Inventories, NATALIE.md and the wotr-write skill
+    locus: Intimacy (a power game's terms and the law on a broken stop-word)
+    operation: adds
+  - guide: NATALIE.md and the wotr-write skill
+    locus: 'Table rule 9: explicit scenes (power games)'
+    operation: extends
+  supersedes: []
+  applies_to:
+  - worldbuilding
+  - standing-inventory
+  - dialogue
+  verification: []
+  ratified: 'Isaac, 2026-10-04, Claude Code chat: ruled directly (the intimacy questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: SC6, option B as recommended; options A (terms agreed between the two only, no institution) and
+    C (unframed, refusal line the only brake) were not taken. The law that answers a broken stop-word
+    is each culture's real analogue under R53-11-JUSTICE, entered in the law and punishment field R70-45-NEW_STANDING_INVENTORY_FIELDS
+    gave every Inventory; both stand. The answer names only the Accord, Moto and Kharven forms. Modern
+    words such as safeword and aftercare stay legal in speech and italic thought and out of plain narration
+    (R48-13-PERIOD_FEEL, R70-37-MODERN_IDIOM_THOUGHT), which this answer does not change.
+- id: R73-12-CONSENT_ON_PAGE
+  pack: Intimacy Law 2026-10-04
+  pack_number: null
+  section: SC7
+  title: Consent read in words and body together
+  status: live
+  kind: mandate
+  summary: 'Consent in an explicit scene is carried by words and body together: a refusal in either is
+    a refusal, and where the two disagree the scene has become dubcon (dubious consent) and is written
+    as dubcon.'
+  verbatim: Both, read together. Words and body both carry it. A refusal in either channel is a refusal;
+    where the two disagree the scene has become dubcon (dubious consent) and is written as dubcon (SC9).
+  amends:
+  - guide: NATALIE.md and the wotr-write skill
+    locus: 'Table rule 9: explicit scenes (consent on the page)'
+    operation: extends
+  - guide: Dialogue Craft Standards
+    locus: Intimacy (consent in words and body)
+    operation: adds
+  supersedes: []
+  applies_to:
+  - prose-law
+  - dialogue
+  - pov
+  verification: []
+  ratified: 'Isaac, 2026-10-04, Claude Code chat: ruled directly (the intimacy questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: 'SC7, option C as recommended; options A (consent asked and answered in words) and B (consent
+    in the body, speech optional) were not taken. A dubcon scene is written under R73-16-BODY_UNDER_COERCION
+    (SC9) and Table Rule 9''s same specificity. R24-2-ELADRIN_THREE_CHANNELS (the Winter Eladrin''s speech,
+    distance and stillness) stands as one culture''s grammar of the body channel. R51-04-LIST_PSYCH stands:
+    ''boundaries'' stays out of plain narration. The partner''s desire, refusal and hinge are R73-4-LOVER_DESIRE_REFUSAL.'
+- id: R73-13-READING_LOVER
+  pack: Intimacy Law 2026-10-04
+  pack_number: null
+  section: SC15
+  title: Senses read a lover freely; a worked read needs leave
+  status: live
+  kind: mandate
+  summary: What cannot shut, a beastkin nose or ears, reads a lover freely, but a worked read, by Gnosis
+    or a Moto's eyes, needs leave, and one taken unasked is a trespass with a tell, a counter and a debt.
+  verbatim: Senses free, workings by leave. What cannot shut, a beastkin nose or ears, reads freely; a
+    worked read, by Gnosis or a Moto's eyes, needs leave, and one taken unasked is B's trespass, with
+    B's tell, counter and debt.
+  amends:
+  - guide: NATALIE.md and the wotr-write skill
+    locus: 'Table rule 9: explicit scenes (reading a lover)'
+    operation: extends
+  supersedes: []
+  applies_to:
+  - pov
+  - magic-mechanism
+  - adjudication
+  - prose-law
+  verification: []
+  ratified: 'Isaac, 2026-10-04, Claude Code chat: ruled directly (the intimacy questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: 'SC15, option C as recommended; option A (lovers read freely) was not taken. The trespass, tell,
+    counter and debt are option B''s, which reads: any read past the ordinary senses waits on leave, in
+    words or body; one taken unasked is trespass, felt by the one read as its tell, stopped by a Ward,
+    and entered on the Ledger once found (K5, R73-5-WHAT_LEDGER_KEEPS). R71-44-FACULTY_READ_MAN (a faculty
+    prints exact figures unless the target''s Ward outranks it) stands; the Ward is also what stops a
+    trespass. R71-63-BEASTKIN_SENSES_FOX_FIRE, R12-3-COUNTER_MANDATORY and R70-85-SCENE_MOMENTS_THAT_EARN
+    stand. Read with R53-15-FOLK_BELIEFS: the answer names a Moto''s eyes as a worked read; it does not
+    rule that the Kharven belief (''the Moto read through the eyes'') holds for every Moto, and narration
+    still never corrects that belief.'
+- id: R73-14-WORKINGS_DESIRE
+  pack: Intimacy Law 2026-10-04
+  pack_number: null
+  section: SC8
+  title: A working may make desire, with a tell, a counter, a cost and a reckoning
+  status: live
+  kind: mandate
+  summary: An Obsession or Attraction working, a charm or a Draft may make someone want, and when it does
+    it shows a tell, has a findable counter, costs its user, and the aftermath knows the desire was made.
+  verbatim: Desire, with tell and counter. An Obsession or Attraction working, a charm or a Draft may
+    make someone want; it shows a tell, has a findable counter, costs its user, and the aftermath knows
+    it was made.
+  amends:
+  - guide: WOTR_Ability_Technique_Design_Guide.md
+    locus: Workings on desire
+    operation: adds
+  - guide: NATALIE.md and the wotr-write skill
+    locus: 'Table rule 9: explicit scenes (workings on desire)'
+    operation: extends
+  supersedes: []
+  applies_to:
+  - magic-mechanism
+  - magic-design
+  - adjudication
+  - prose-law
+  verification: []
+  ratified: 'Isaac, 2026-10-04, Claude Code chat: ruled directly (the intimacy questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: 'SC8, option B as recommended; options A (compliance, never desire) and C (magic barred from
+    the bed) were not taken. Canon precedent from the question: Obsession Force steered a queen toward
+    marriage in the Kujo arc. R29-1-SACRAMENT_BOND_ANCHOR_BY_DECLARATION (an anchor fixed regardless of
+    consent) and R25-1-OBSESSION_SATISFIES_ATTRACTION_GATE stand. R12-3-COUNTER_MANDATORY and R47-3-COUNTERS_AS_FACTS
+    (tells and counters stated as facts) stand and bind the working''s entry. Option A''s ''dubcon or
+    non-con by definition'' was not taken, and B does not itself class a scene under such a working; R73-15-BEDCHAMBER_ARTS
+    cites SC8 for the dubcon or non-con of an art that draws unasked. Pressure in bed is R73-35-PRESSURE_IN_BED
+    (CO13).'
+- id: R73-15-BEDCHAMBER_ARTS
+  pack: Intimacy Law 2026-10-04
+  pack_number: null
+  section: SC16
+  title: Bedchamber arts are techniques, given or drawn, fully priced
+  status: live
+  kind: mandate
+  summary: An art that gives or draws Essence through the act is a technique, with a Codex line, a cost
+    in both bodies, a tell, a counter and no figure until canon holds one, and one that draws unasked
+    is a Claim and makes the scene dubcon or non-con.
+  verbatim: 'Given or drawn, fully priced. A bedchamber art is a technique: a Codex line, a cost in both
+    bodies, a tell, a counter, no figure until canon holds one. One drawing unasked is a Claim, and the
+    scene dubcon or non-con (SC8).'
+  amends:
+  - guide: WOTR_Ability_Technique_Design_Guide.md
+    locus: Bedchamber arts
+    operation: adds
+  supersedes: []
+  applies_to:
+  - magic-design
+  - codex
+  - magic-mechanism
+  - stats
+  verification: []
+  ratified: 'Isaac, 2026-10-04, Claude Code chat: ruled directly (the intimacy questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: 'SC16, option C as recommended; options A (sex moves no Essence) and B (given or pooled, never
+    drawn) were not taken. The question''s models: China''s fangzhongshu (the arts of the bedchamber)
+    and xianxia dual cultivation. A Claim is a drawing of Essence out of a target, as Yorime''s Claim
+    works by touch. R12-3-COUNTER_MANDATORY, R47-1-NO_APPLICATIONS (the entry says what the art is, never
+    how to use it), R47-3-COUNTERS_AS_FACTS, R12-3-NAMED_INVENTOR_RULE, R48-37-COST_SHOWN and R12-5-NEVER_INVENT_NUMBER
+    stand and bind every such art. A working that makes desire is R73-14-WORKINGS_DESIRE (SC8); how a
+    bond grows outside an art is R73-37-BOND_GROWS (CO15).'
+- id: R73-16-BODY_UNDER_COERCION
+  pack: Intimacy Law 2026-10-04
+  pack_number: null
+  section: SC9
+  title: Arousal under coercion shown, and known by the POV as reflex
+  status: live
+  kind: mandate
+  summary: In a dubcon or non-con scene the victim's arousal may be written, and the POV knows it for
+    the body's reflex, apart from her will, and carries that knowledge into the aftermath.
+  verbatim: Shown, known as reflex. Arousal may be written, and the POV knows it for the body's reflex,
+    apart from her will; she carries that knowledge into the aftermath.
+  amends:
+  - guide: NATALIE.md and the wotr-write skill
+    locus: 'Table rule 9: explicit scenes (non-con and dubcon)'
+    operation: extends
+  supersedes: []
+  applies_to:
+  - prose-law
+  - pov
+  verification: []
+  ratified: 'Isaac, 2026-10-04, Claude Code chat: ruled directly (the intimacy questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: 'SC9, option B as recommended; options A (fear and shutdown only, no arousal written) and C (shown,
+    left unread) were not taken. The question''s research: arousal non-concordance (genital response and
+    felt desire running apart; Chivers, Nagoski) and tonic immobility (freezing under threat) are real,
+    and the 1970s bodice-ripper used the response as proof of wanting. The knowing is the POV''s own,
+    so R5-E-FREE_INDIRECT_CARVEOUT stands and the narrator gives no verdict. R71-17-FEAR_BODY (fear effects
+    in an untrained fighter''s body) is a fight rule and is not changed. How the act carries forward is
+    R73-17-CARRYING_FORWARD.'
+- id: R73-17-CARRYING_FORWARD
+  pack: Intimacy Law 2026-10-04
+  pack_number: null
+  section: SC10
+  title: A coerced act carries forward in the body and in the world
+  status: live
+  kind: mandate
+  summary: After a non-con or coerced scene the survivor's later scenes carry it physically (the startle,
+    sleep that will not come, the seat with its back to the wall) until the thread resolves it, and the
+    act opens or advances a Front (feud, blood-debt, pregnancy, scandal or a case at law), the perpetrator's
+    own account of it a lie in his mouth.
+  verbatim: 'Yes to: In the body and habit (The survivor''s later scenes carry it physically (the startle,
+    sleep that will not come, the seat with its back to the wall) until the thread resolves it); The bill
+    reaches the world (The act opens or advances a Front: feud, blood-debt, pregnancy, scandal or a case
+    at law; the perpetrator''s own account is a lie in his mouth (Rule 8)).'
+  amends:
+  - guide: NATALIE.md and the wotr-write skill
+    locus: 'Table rules 4, 8 and 9: Fronts, lies and explicit scenes (after a coerced act)'
+    operation: extends
+  supersedes: []
+  applies_to:
+  - session-protocol
+  - pov
+  - prose-law
+  - scene-structure
+  verification: []
+  ratified: 'Isaac, 2026-10-04, Claude Code chat: ruled directly (the intimacy questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: 'SC10, options A and B taken as recommended (digest); option C (recovery logged in stages: safe,
+    remembering, reconnecting) was not taken, so no recovery stage goes on the Ledger. The answer''s ''Rule
+    8'' is Table Rule 8 (one wrong thing per session, uncorrected until he catches it), which has no indexed
+    row and which R72-25-HOW_MANY_LIES (table law 2026-10-04) folds in and retires; R48-42-LIES (frequent
+    lies the player has to catch), as R72-25-HOW_MANY_LIES amends it, and R49-36-LIE_TELLS (a catchable
+    tell) stand. R70-115-TEARS_SENTIMENT (the delayed break at a small thing) stands. The Ledger entries
+    follow R73-5-WHAT_LEDGER_KEEPS.'
+- id: R73-18-AFTERMATH_BEAT
+  pack: Intimacy Law 2026-10-04
+  pack_number: null
+  section: SC11
+  title: The aftermath is the small work after, its meaning unsaid
+  status: live
+  kind: mandate
+  summary: Write an explicit scene's aftermath as the small work after (washing, the fire fed, clothes
+    found, the door), with neither partner saying what it meant and the change showing in how they do
+    it.
+  verbatim: Procedure, meaning unsaid. The aftermath is the small work after (washing, the fire fed, clothes
+    found, the door), and neither partner says what it meant; the change shows in how they do it.
+  amends:
+  - guide: NATALIE.md and the wotr-write skill
+    locus: 'Table rule 9: explicit scenes (aftermath)'
+    operation: extends
+  - guide: WOTR_Scene_Writing_Process_Guide.md
+    locus: Intimacy (the aftermath beat)
+    operation: adds
+  supersedes: []
+  applies_to:
+  - prose-law
+  - scene-structure
+  - dialogue
+  verification: []
+  ratified: 'Isaac, 2026-10-04, Claude Code chat: ruled directly (the intimacy questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: SC11, option A as recommended; options B (pillow talk, truths traded) and C (a shape named on
+    each pair's card) were not taken. Table Rule 9's 'aftermath never skipped' stands. Carries R71-21-AFTERMATH_PAGE's
+    procedure as craft and R2-5-RESOLUTION_IN_AFTERMATH's silence (a character who says what the act meant
+    has spent the scene) into the bed; both stay as written for their own scenes, as does R48-38-AFTERMATH.
+    R70-133-EASTERN_TECHNIQUES_BESIDE_CLINICAL's poem after is not named and stands; the question's context
+    read it as able to close the aftermath under any option.
+- id: R73-19-YOUR_CHARACTER_IN_BED
+  pack: Intimacy Law 2026-10-04
+  pack_number: null
+  section: SC12
+  title: Contact on the player's character is world fact; his response is his
+  status: live
+  kind: mandate
+  summary: Once the player's post sets the act, Natalie writes contact, position and what the partner
+    does to his character as world facts, and leaves his arousal, pleasure, pain and climax, and how he
+    bears them, to the player.
+  verbatim: Contact as world fact. Once your post sets the act, contact, position and what the partner
+    does to him are world facts; his arousal, pleasure, pain and climax, and how he bears them, stay yours.
+  amends:
+  - guide: NATALIE.md and the wotr-write skill
+    locus: 'Who Natalie is (never for his PC) and Table rule 9: explicit scenes (the player''s character
+      in bed)'
+    operation: extends
+  supersedes: []
+  applies_to:
+  - pov
+  - prose-law
+  - scene-structure
+  verification: []
+  ratified: 'Isaac, 2026-10-04, Claude Code chat: ruled directly (the intimacy questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: 'SC12, option B as recommended. Option C (what the partner can see or feel of him, hardness,
+    breath, sweat, a flinch, written as she registers it) was not taken; the recommendation''s reason
+    reads ''the response, seen or felt, waits on your post''. Option A (only the partner and the room,
+    the turn stopping wherever his body would next move) was not taken either. Partly amends R49-01-WHOSE_HEAD
+    in bed: the narration does not write his arousal, pleasure, pain or climax, or how he bears them.
+    R71-6-PLAYER_FIGHTER_PAGE is the fight version and is not changed. R72-6-WORLD_WRITES_HIM (his reflexes
+    land as world facts outside a fight) leaves the bed to SC12 in its own notes and is not changed. R52-10-CROSSOVER
+    and the standing line that Natalie never thinks, speaks or acts for his PC or the other creators''
+    characters (NATALIE.md; R1-1-RESTRICTED_CHARACTERS_EXCLUDED) stand. How far the turn runs is R73-20-EXPLICIT_ROLEPLAY_TURN;
+    an NPC who would force him is R73-21-NPC_WOULD_FORCE_HIM.'
+- id: R73-20-EXPLICIT_ROLEPLAY_TURN
+  pack: Intimacy Law 2026-10-04
+  pack_number: null
+  section: SC13
+  title: Standing orders in an explicit roleplay turn
+  status: live
+  kind: procedure
+  summary: In an explicit roleplay turn the player may post the course of the encounter, a pace, a limit
+    or a stop for his character, and Natalie runs it to the first branch it does not cover and stops there.
+  verbatim: Standing orders in bed. You may post the course of the encounter, a pace, a limit or a stop
+    for your character, and Natalie runs it to the first branch it does not cover, then stops there.
+  amends:
+  - guide: NATALIE.md and the wotr-write skill
+    locus: 'Table rule 1: turn shape (standing orders in bed)'
+    operation: adds
+  supersedes: []
+  applies_to:
+  - scene-structure
+  - session-protocol
+  verification: []
+  ratified: 'Isaac, 2026-10-04, Claude Code chat: ruled directly (the intimacy questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: 'SC13, option B as recommended; options A (partner and world fill the turn up to his next decision)
+    and C (short turns in bed, which would have reopened R49-30-SHORT_BEATS) were not taken, so this answer
+    leaves turn length alone (R49-30-SHORT_BEATS, and R72-3-REPLIES_RUN_LONG for Discord). The bed''s
+    version of R71-5-ROLEPLAY_TURNS_AGAINST_WRITTEN (standing orders in a fight) and R72-5-STANDING_ORDERS_OUTSIDE_FIGHTS
+    (standing orders in every scene type), neither changed; the orders it names for the bed are the course
+    of the encounter, a pace, a limit or a stop for his character. Table Rule 1 (stop at his next decision)
+    has no indexed row. Read with R49-29-TURN_FILL and R72-4-WHERE_TURN_STOPS: in a turn run on standing
+    orders the stop falls at the first branch the orders do not cover. What the run may write of his character
+    is R73-19-YOUR_CHARACTER_IN_BED.'
+- id: R73-21-NPC_WOULD_FORCE_HIM
+  pack: Intimacy Law 2026-10-04
+  pack_number: null
+  section: SC14
+  title: An NPC's force is placed as a threat; the act comes only through the player's post
+  status: live
+  kind: procedure
+  summary: When an NPC would coerce or force the player's character, Natalie sets the threat in the room
+    (the grip, the bargain, the Draft in the cup) and stops, and the act reaches the page only through
+    the player's post.
+  verbatim: Threat placed, his post decides. Natalie sets the threat in the room (the grip, the bargain,
+    the Draft in the cup) and stops; the act reaches the page only through your post.
+  amends:
+  - guide: NATALIE.md and the wotr-write skill
+    locus: 'Table rules 1 and 3: turn shape and NPC agency (an NPC who would force his character)'
+    operation: extends
+  supersedes: []
+  applies_to:
+  - scene-structure
+  - pov
+  - adjudication
+  verification: []
+  ratified: 'Isaac, 2026-10-04, Claude Code chat: ruled directly (the intimacy questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: SC14, option B as recommended; options A (lands like a blow, R71-6's fight model) and C (never
+    against a PC) were not taken. Table Rules 1 and 3 have no indexed rows; this keeps Rule 3's dangerous
+    NPC and Rule 1's stop at his decision together. R71-6-PLAYER_FIGHTER_PAGE (a blow lands as world fact
+    once his move resolves) is a fight rule and is not changed. The question's context says the line covers
+    guest players at the Discord table too, and the recommendation's reason gives a guest the same say;
+    the answer itself speaks of 'your post'. A Draft that makes desire follows R73-14-WORKINGS_DESIRE,
+    and is read with R72-6-WORLD_WRITES_HIM, whose reflexes as world facts include 'a drug taking hold'
+    outside a fight and whose notes leave the bed to SC12; what Natalie writes of his body once his post
+    sets an act is R73-19-YOUR_CHARACTER_IN_BED.

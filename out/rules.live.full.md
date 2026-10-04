@@ -1,8 +1,8 @@
 # Live rules by domain, with source text
 
-1406 live of 1598 extracted. Newest pack first within each domain; the newer rule governs where two overlap.
+1449 live of 1641 extracted. Newest pack first within each domain; the newer rule governs where two overlap.
 
-## adjudication (124)
+## adjudication (133)
 
 ### R15-4-THIRTEEN_HAX_STRUCK [Pack Fifteen §4]
 
@@ -532,6 +532,60 @@ Part Seventeen's Class I figure governs the efficiency conflict — η is 0.60 t
 
 > Part Seventeen governs: η reads 0.60 to 0.70 at Stage VI–VII. Part Nineteen's Tier 5 row is corrected to match.
 
+### R73-5-WHAT_LEDGER_KEEPS [Intimacy Law 2026-10-04 K5]
+
+After an intimate scene the Ledger enters whatever was promised, owed, bargained or betrayed in bed (to come due like any debt), who heard, saw or will talk (as who-saw-what, able to open a Front), marks on the body (carried on real healing times and visible to whoever looks), and what was learned (knowledge the other now holds and may use).
+
+> Yes to: Debts and promises (Whatever was promised, owed, bargained or betrayed in bed is entered and comes due like any other debt); Witnesses and reputation (Who heard, who saw, who will talk: gossip, scandal and a rival's leverage, entered as who-saw-what, and able to open a Front); Marks on the body (Bites, bruises, beard-burn, a strained hip, another's scent on the skin: entered and carried on real healing times (R60-02), visible to whoever looks); What was learned (A secret told, a scar seen, a weakness found in bed is entered as knowledge the other now holds, and may use).
+
+### R73-13-READING_LOVER [Intimacy Law 2026-10-04 SC15]
+
+What cannot shut, a beastkin nose or ears, reads a lover freely, but a worked read, by Gnosis or a Moto's eyes, needs leave, and one taken unasked is a trespass with a tell, a counter and a debt.
+
+> Senses free, workings by leave. What cannot shut, a beastkin nose or ears, reads freely; a worked read, by Gnosis or a Moto's eyes, needs leave, and one taken unasked is B's trespass, with B's tell, counter and debt.
+
+### R73-14-WORKINGS_DESIRE [Intimacy Law 2026-10-04 SC8]
+
+An Obsession or Attraction working, a charm or a Draft may make someone want, and when it does it shows a tell, has a findable counter, costs its user, and the aftermath knows the desire was made.
+
+> Desire, with tell and counter. An Obsession or Attraction working, a charm or a Draft may make someone want; it shows a tell, has a findable counter, costs its user, and the aftermath knows it was made.
+
+### R73-21-NPC_WOULD_FORCE_HIM [Intimacy Law 2026-10-04 SC14]
+
+When an NPC would coerce or force the player's character, Natalie sets the threat in the room (the grip, the bargain, the Draft in the cup) and stops, and the act reaches the page only through the player's post.
+
+> Threat placed, his post decides. Natalie sets the threat in the room (the grip, the bargain, the Draft in the cup) and stops; the act reaches the page only through your post.
+
+### R73-32-JEALOUSY_RIVALS [Intimacy Law 2026-10-04 CO10]
+
+Jealousy acts (slander, theft, a duel, poison), each act landing on the Ledger as a debt or a witness and a love rival who recurs being paid for as R70-104 rules, and fed long enough it turns to Obsession Force, Breadth collapsing and Empathy running one way, which an instrument or a good Gnosis read can find as its fair counter.
+
+> Yes to: A feud with a bill (Jealousy acts: slander, theft, a duel, poison. Each act lands on the Ledger as a debt or a witness, and a love rival who recurs is paid for as R70-104 rules); The road to Obsession (Fed long enough, jealousy turns to Obsession Force: Breadth collapses and Empathy runs one way. An instrument or a good Gnosis read can find it, which is its fair counter).
+
+### R73-33-CONCEPTION_AND_POX [Intimacy Law 2026-10-04 CO11]
+
+Every bed between partners who could conceive records its precaution (sheath, sponge, timing, a Draft, or none) in the notes, Natalie rules conception and the pox by period medicine and names what decided, and a pregnancy opens a Front.
+
+> Ruled openly, every time. Each bed between partners who could conceive records its precaution (sheath, sponge, timing, a Draft, or none) in the notes; Natalie rules conception and the pox by period medicine, names what decided, and a pregnancy opens a Front.
+
+### R73-34-LOVE_ACROSS_STAGE_GAP [Intimacy Law 2026-10-04 CO12]
+
+In a couple across a Stage gap the higher partner suppresses his Pressure at home every waking hour, his jaw, collar and temper carrying it and the household learning to read the bill, and a partner who holds a draining art may take the Pressure off by touch at that art's own price, traced to Fracture of Worlds before first use, love alone drawing nothing.
+
+> Yes to: He holds it, and pays (The higher partner suppresses at home every waking hour; his jaw, collar and temper carry it, and the household learns to read the bill); Drawn off by an art (A partner who holds a draining art, as Yorime does, may take the Pressure off by touch at that art's own price, traced to Fracture of Worlds before first use; love alone draws nothing).
+
+### R73-35-PRESSURE_IN_BED [Intimacy Law 2026-10-04 CO13]
+
+Pressure in bed brings weight, sweat and nausea and never desire, any wanting on the page being the person's own and a slipped hold ending the moment, but a lover may ask him to stop holding it in, letting go being the most intimate thing a practitioner can give and she paying in sweat and nausea she chose.
+
+> Let go, by leave. A, plus: a lover may ask him to stop holding it in. Letting go is the most intimate thing a practitioner can give, and she pays in sweat and nausea she chose.
+
+### R73-39-BOND_AFTER_DEATH [Intimacy Law 2026-10-04 CO17]
+
+A lover's death leaves the survivor's bond clean and reciprocal, the Spirit Axis holding, felt at thresholds and readable by instrument with no figure, grief its tax, but grief fed long enough tips the bond into Obsession, which an instrument or a good Gnosis read can find, and a Crystal grown dependent on the dead risks Fracture of Worlds' fracture events.
+
+> Clean or a cage. A, plus the turn: grief fed long enough tips the bond into Obsession, which an instrument or a good Gnosis read can find, and a Crystal grown dependent on the dead risks FOW's fracture events.
+
 ### R46-3-ARMOUR_TIER_IS_ITS_PROOF [The Item Tiers 2026-09-25 What the Tier Caps, by Kind]
 
 Each kind of item reads its Tier against a table (weapon: added hit; projectile: speed and hit; focus: channelling ceiling). Armour stops strikes at or below its Tier's Grade; a strike one Tier above breaks it, two Tiers above passes as if it were not there.
@@ -748,7 +802,7 @@ Isaac may take over any NPC's voice anytime by saying so; the partner hands it b
 
 > Isaac may take over any NPC's voice anytime by saying so; the partner hands it back after.
 
-## character-sheet (231)
+## character-sheet (232)
 
 ### R20C-16-SONZAI_RECORD_CARD [Pack Twenty R20C-16]
 
@@ -1614,6 +1668,12 @@ A name is an outlier when it fits no stratum (foreign fostering, a mother's whim
 
 > A name is an outlier when it fits no stratum: a foreign fostering, a mother's whim, a name bought off a dying man, a bloodline child given a Northern name as an insult or a shield. Bram is the standing example and needs no justification on the page.
 
+### R73-4-LOVER_DESIRE_REFUSAL [Intimacy Law 2026-10-04 K4]
+
+Every card and roster row for anyone who may share a bed carries three fields (what they want in bed, what they will not do, and what would change their mind either way), so Rule 9's change of mind has a planted cause a player can find.
+
+> Desire, refusal, and the hinge. As B, plus a third field: what would change their mind, either way. Rule 9's change of mind then has a planted cause a player can find.
+
 ### R56-1-ZENITH_STRIKE_UNQUANTIFIED [Magic Docket Questionnaire 2026-09-26 C-061, C-069]
 
 A Stage XIV card states no joule figure for Striking Force; a blow delivers an event the local physics must accommodate.
@@ -2139,7 +2199,7 @@ Room casting is by ear: the partner casts for the scene and fixes voice likeness
 
 > Room casting is by ear: the partner casts for the scene and fixes voice likeness only when the swap test fails.
 
-## codex (115)
+## codex (116)
 
 ### R20C-41-CHANTCRAFT_FIFTH_CRAFT [Pack Twenty R20C-41]
 
@@ -2728,6 +2788,12 @@ Cymorath carries exactly the portfolio Fracture of Worlds gives it: the Air of A
 The Castlefall circle is Gravetide Ink and the bench drop Gravemark Ink.
 
 > The Castlefall circle is drawn in Gravetide Ink and the drop by the old bench is Gravemark Ink, as the Genesio Archivum's assay names them, Dessa Mael of record.
+
+### R73-15-BEDCHAMBER_ARTS [Intimacy Law 2026-10-04 SC16]
+
+An art that gives or draws Essence through the act is a technique, with a Codex line, a cost in both bodies, a tell, a counter and no figure until canon holds one, and one that draws unasked is a Claim and makes the scene dubcon or non-con.
+
+> Given or drawn, fully priced. A bedchamber art is a technique: a Codex line, a cost in both bodies, a tell, a counter, no figure until canon holds one. One drawing unasked is a Claim, and the scene dubcon or non-con (SC8).
 
 ### R42-7-FOUR_PATHS [Magic System Rulings 2026-09-23 C-025]
 
@@ -4033,7 +4099,7 @@ Every duel ends with a full aftermath beat: wounds dressed, what changed between
 
 > Every duel ends with a full aftermath beat: wounds dressed, what changed between people.
 
-## dialogue (183)
+## dialogue (191)
 
 ### R20C-36-CLEARLY_WINS [Pack Twenty R20C-36]
 
@@ -4370,6 +4436,54 @@ At a sanctioned bout the Measurewright says her reading aloud as she takes it, s
 The WOTR swears, sense banks, culture inventories, price table and narration registers are approved and canon; completes R51-35's draft-for-approval step.
 
 > Approved to publish: the price table, the culture inventories (five new sheets plus Gone lists, folk beliefs and literacy for the seven existing cultures), the swears and sense banks, and the Moto, Bram Greymane and Lorn Stark narration registers.
+
+### R73-4-LOVER_DESIRE_REFUSAL [Intimacy Law 2026-10-04 K4]
+
+Every card and roster row for anyone who may share a bed carries three fields (what they want in bed, what they will not do, and what would change their mind either way), so Rule 9's change of mind has a planted cause a player can find.
+
+> Desire, refusal, and the hinge. As B, plus a third field: what would change their mind, either way. Rule 9's change of mind then has a planted cause a player can find.
+
+### R73-6-BED_WORDS_BY_CULTURE [Intimacy Law 2026-10-04 SC1]
+
+In every POV, narration keeps one crude English for the words for the body, and each culture's own words for the body arrive in speech and italic thought, the way its swears do.
+
+> Crude English, native in mouths. Narration keeps one crude English; each culture's own words for the body arrive in speech and italic thought, as its swears do.
+
+### R73-10-TALK_IN_BED [Intimacy Law 2026-10-04 SC5]
+
+Each partner talks in bed the way their card talks out of it, crude, teasing, bargaining or tender, and the talk is part of the act.
+
+> Full voice, talk as play. Each partner talks in bed the way their card talks out of it, crude, teasing, bargaining or tender, and the talk is part of the act.
+
+### R73-11-POWER_GAMES_FRAMED [Intimacy Law 2026-10-04 SC6]
+
+When lovers play at power, the terms take their culture's form (the Accord seals them on paper, the Moto enter a word in form, Kharven takes a word before witnesses), the stop-word carries that culture's weight, and breaking it is answered under that culture's own law.
+
+> By each culture's form. The Accord seals terms on paper, the Moto enter a word in form, Kharven takes a word before witnesses; the stop-word carries that culture's weight, and breaking it is answered under that culture's own law (R53-11).
+
+### R73-12-CONSENT_ON_PAGE [Intimacy Law 2026-10-04 SC7]
+
+Consent in an explicit scene is carried by words and body together: a refusal in either is a refusal, and where the two disagree the scene has become dubcon (dubious consent) and is written as dubcon.
+
+> Both, read together. Words and body both carry it. A refusal in either channel is a refusal; where the two disagree the scene has become dubcon (dubious consent) and is written as dubcon (SC9).
+
+### R73-18-AFTERMATH_BEAT [Intimacy Law 2026-10-04 SC11]
+
+Write an explicit scene's aftermath as the small work after (washing, the fire fed, clothes found, the door), with neither partner saying what it meant and the change showing in how they do it.
+
+> Procedure, meaning unsaid. The aftermath is the small work after (washing, the fire fed, clothes found, the door), and neither partner says what it meant; the change shows in how they do it.
+
+### R73-26-MAHUO_COURTSHIP [Intimacy Law 2026-10-04 CO5]
+
+Mahuo courtship is a verse exchange in which the suitor's three lines are answered with three whose last clause turns, a plain answer costing standing as at court, and the proposal is a change of speech, one of them dropping from the high forms to the plain speech kept for kin and spouses and the other answering in kind as the yes.
+
+> Yes to: A sijo owed a sijo (Courtship is a verse exchange: the suitor's three lines are answered with three, and the last clause turns. A plain answer costs standing, as R70-110 rules at court); The speech level drops (The proposal is a change of speech: one of them drops from the high forms to the plain speech kept for kin and spouses, and the other answering in kind is the yes).
+
+### R73-28-DAWI_COURTSHIP [Intimacy Law 2026-10-04 CO7]
+
+A Dawi match is made backward, with no betrothal, by entering in the Tally in metre the acts the pair have already done for each other, the entry being the marriage, and courtship is 'Kurlo' said alone between two people with the 'Ei kurme' that would end a bargain left off, a thing unbegun and not refused.
+
+> Yes to: Entered, never promised (A Dawi match is made backward: the acts already done for each other are entered in the Tally in metre, and the entry is the marriage. There is no betrothal); Kurlo, the refusal unsaid (Courtship is 'Kurlo' said alone between two people, with the 'Ei kurme' that would end a bargain left off: a thing unbegun and not refused, the nearest the tongue comes to hope).
 
 ### R20-4-PRONUNCIATION_ADAPTATION [Naming Guide Amendment Part Four]
 
@@ -5133,7 +5247,7 @@ Narration refers to characters by POV epithets, the way the viewpoint sees them;
 
 > Narration refers to characters by POV epithets, the way the viewpoint sees them; the naming characterises.
 
-## documents (126)
+## documents (127)
 
 ### R20C-3-SWEEP_TWO_TIERS [Pack Twenty R20C-3]
 
@@ -5704,6 +5818,12 @@ Bara is a character: stripped from system pages like the others.
 There never was an inherited surname; the Accord's registers assigned a frozen surname off the nearest legible thing (Ice, Foss), so a Far-Northern character has a roll-name the Accord/muster/tax survey use and a separate carried name the household uses.
 
 > The Accord's registers cannot file a person who has no fixed name. So the filing system assigned them: a frozen surname taken off the nearest legible thing, a trade, a landmark, a factor's guess at a sound, handed down in a ledger to people who had never used one and mostly still do not among themselves.
+
+### R73-40-WHERE_INTIMACY_LAW_LANDS [Intimacy Law 2026-10-04 ME1]
+
+The intimacy answers land as one dated Intimacy Law rule doc logged through log_ruling and served by load_rules, Table Rule 9 in NATALIE.md rewritten to cite R49-51, R70-133, R70-134 and the new rows, the wotr-rp skill and the wotr-write scene pipeline brought to one wording, the courtship and mores fields drafted for the six cultures and entered on Isaac's word, and an intimacy section in the Dialogue Craft Standards and the Scene Writing Process Guide.
+
+> B, plus the Inventories. B, plus the courtship and mores fields drafted for the six cultures from these answers and entered on your word, and an intimacy section in the Dialogue Craft Standards and Scene Writing Process Guide.
 
 ### R20-4-ACCORD_FILING_CONVENTION [Naming Guide Amendment Part Four]
 
@@ -6457,7 +6577,7 @@ A Witnessed-Tempered piece inherits a scaled-down Ancestral Dominion Frame: ever
 
 > If the piece changes hands outside the terms of the oath, its accrued memory does not transfer. This is not the Dawi's Crystal-Coherence self-punishment, a cost paid by the oath-breaker's own soul; it is closer to the Weight of the Blood, where failure feels ancestral rather than personal. The object simply stops recognizing the new holder as a party the law was made for. In the worst documented cases, Physical Plane Authority's "hold shape" reverses for that bearer alone, and the piece becomes more failure-prone in their hands than an ordinary equivalent.
 
-## magic-design (114)
+## magic-design (116)
 
 ### R20C-28-PHENOMENON_BANK_CANDIDATES [Pack Twenty R20C-28]
 
@@ -7071,6 +7191,18 @@ Bara is a character: stripped from system pages like the others.
 
 > Bara is a character: stripped from system pages like the others.
 
+### R73-14-WORKINGS_DESIRE [Intimacy Law 2026-10-04 SC8]
+
+An Obsession or Attraction working, a charm or a Draft may make someone want, and when it does it shows a tell, has a findable counter, costs its user, and the aftermath knows the desire was made.
+
+> Desire, with tell and counter. An Obsession or Attraction working, a charm or a Draft may make someone want; it shows a tell, has a findable counter, costs its user, and the aftermath knows it was made.
+
+### R73-15-BEDCHAMBER_ARTS [Intimacy Law 2026-10-04 SC16]
+
+An art that gives or draws Essence through the act is a technique, with a Codex line, a cost in both bodies, a tell, a counter and no figure until canon holds one, and one that draws unasked is a Claim and makes the scene dubcon or non-con.
+
+> Given or drawn, fully priced. A bedchamber art is a technique: a Codex line, a cost in both bodies, a tell, a counter, no figure until canon holds one. One drawing unasked is a Claim, and the scene dubcon or non-con (SC8).
+
 ### R42-7-FOUR_PATHS [Magic System Rulings 2026-09-23 C-025]
 
 There are four Paths, Fate included.
@@ -7143,7 +7275,7 @@ The Phenomenon Bank becomes a growing library: every researched phenomenon (and 
 
 > The Phenomenon Bank becomes a growing library: every researched phenomenon (and pseudoscientific idea) is added for future workings and players to draw from.
 
-## magic-mechanism (243)
+## magic-mechanism (250)
 
 ### R20C-17-SITES_RECHARGE_UNHELPFULLY [Pack Twenty R20C-17]
 
@@ -8284,6 +8416,48 @@ The Ault likeness held eleven days and ended in one breath.
 The Strom Submission sits at Genesio; the ground at the stair climbs.
 
 > The Strom Submission has sat below the gate at Genesio about twelve years; the ground at the passage stair climbs through the seasons where drawn ground should fall.
+
+### R73-13-READING_LOVER [Intimacy Law 2026-10-04 SC15]
+
+What cannot shut, a beastkin nose or ears, reads a lover freely, but a worked read, by Gnosis or a Moto's eyes, needs leave, and one taken unasked is a trespass with a tell, a counter and a debt.
+
+> Senses free, workings by leave. What cannot shut, a beastkin nose or ears, reads freely; a worked read, by Gnosis or a Moto's eyes, needs leave, and one taken unasked is B's trespass, with B's tell, counter and debt.
+
+### R73-14-WORKINGS_DESIRE [Intimacy Law 2026-10-04 SC8]
+
+An Obsession or Attraction working, a charm or a Draft may make someone want, and when it does it shows a tell, has a findable counter, costs its user, and the aftermath knows the desire was made.
+
+> Desire, with tell and counter. An Obsession or Attraction working, a charm or a Draft may make someone want; it shows a tell, has a findable counter, costs its user, and the aftermath knows it was made.
+
+### R73-15-BEDCHAMBER_ARTS [Intimacy Law 2026-10-04 SC16]
+
+An art that gives or draws Essence through the act is a technique, with a Codex line, a cost in both bodies, a tell, a counter and no figure until canon holds one, and one that draws unasked is a Claim and makes the scene dubcon or non-con.
+
+> Given or drawn, fully priced. A bedchamber art is a technique: a Codex line, a cost in both bodies, a tell, a counter, no figure until canon holds one. One drawing unasked is a Claim, and the scene dubcon or non-con (SC8).
+
+### R73-32-JEALOUSY_RIVALS [Intimacy Law 2026-10-04 CO10]
+
+Jealousy acts (slander, theft, a duel, poison), each act landing on the Ledger as a debt or a witness and a love rival who recurs being paid for as R70-104 rules, and fed long enough it turns to Obsession Force, Breadth collapsing and Empathy running one way, which an instrument or a good Gnosis read can find as its fair counter.
+
+> Yes to: A feud with a bill (Jealousy acts: slander, theft, a duel, poison. Each act lands on the Ledger as a debt or a witness, and a love rival who recurs is paid for as R70-104 rules); The road to Obsession (Fed long enough, jealousy turns to Obsession Force: Breadth collapses and Empathy runs one way. An instrument or a good Gnosis read can find it, which is its fair counter).
+
+### R73-34-LOVE_ACROSS_STAGE_GAP [Intimacy Law 2026-10-04 CO12]
+
+In a couple across a Stage gap the higher partner suppresses his Pressure at home every waking hour, his jaw, collar and temper carrying it and the household learning to read the bill, and a partner who holds a draining art may take the Pressure off by touch at that art's own price, traced to Fracture of Worlds before first use, love alone drawing nothing.
+
+> Yes to: He holds it, and pays (The higher partner suppresses at home every waking hour; his jaw, collar and temper carry it, and the household learns to read the bill); Drawn off by an art (A partner who holds a draining art, as Yorime does, may take the Pressure off by touch at that art's own price, traced to Fracture of Worlds before first use; love alone draws nothing).
+
+### R73-35-PRESSURE_IN_BED [Intimacy Law 2026-10-04 CO13]
+
+Pressure in bed brings weight, sweat and nausea and never desire, any wanting on the page being the person's own and a slipped hold ending the moment, but a lover may ask him to stop holding it in, letting go being the most intimate thing a practitioner can give and she paying in sweat and nausea she chose.
+
+> Let go, by leave. A, plus: a lover may ask him to stop holding it in. Letting go is the most intimate thing a practitioner can give, and she pays in sweat and nausea she chose.
+
+### R73-39-BOND_AFTER_DEATH [Intimacy Law 2026-10-04 CO17]
+
+A lover's death leaves the survivor's bond clean and reciprocal, the Spirit Axis holding, felt at thresholds and readable by instrument with no figure, grief its tax, but grief fed long enough tips the bond into Obsession, which an instrument or a good Gnosis read can find, and a Crystal grown dependent on the dead risks Fracture of Worlds' fracture events.
+
+> Clean or a cage. A, plus the turn: grief fed long enough tips the bond into Obsession, which an instrument or a good Gnosis read can find, and a Crystal grown dependent on the dead risks FOW's fracture events.
 
 ### R46-1-ITEM_TIER_LOWER_OF_TWO [The Item Tiers 2026-09-25 What an Item Tier Is]
 
@@ -10086,7 +10260,7 @@ The Zettari bloodline's names, titles and technique names are built in a Swahili
 
 > The Zettari speak their own tongue. Their names and their arts are Swahili, Bantu and Arabic in flavour — Kafa-Karim, Habl Flow-Bind, Sarmad Fracture, Sukun Maji, Dawam Soul-Still Art, Kumi-na-Mbili Seal; Zuberi, Ma'Kovu, N'Kharu, Malani, Jomari, N'Yari, Zembari — and that register stands. The five-strata naming convention assigns the archaic bloodlines to the Japonic stratum; the Zettari are carved out of it as a register of their own, and the Japonic assignment continues to govern every other archaic line. Ruled by Isaac, 2026-09-12.
 
-## pov (160)
+## pov (169)
 
 ### R20C-49-GLOSS_RIGHTS_CARD_FIELD [Pack Twenty R20C-49]
 
@@ -10453,6 +10627,60 @@ At a sanctioned bout the Measurewright says her reading aloud as she takes it, s
 R35-2's register (close, medium, distant/formal) says whose idiom the narration runs in; Pack Twenty's band (1 to 5) says how deep inside the POV it sits. Both assignments stand and neither trades off the other: Cozbi runs distant/formal at band 5.
 
 > Both stand as two axes. R35-2's narration register says whose idiom the narration runs in (close, medium, distant/formal); Pack Twenty's psychic-distance band (1 most distant, 5 deepest interior) says how deep inside the POV the narration sits. They are read together, never traded off: Cozbi runs in a distant/formal idiom AND at band 5 — the narration becomes him, in a formal register. No row struck.
+
+### R73-6-BED_WORDS_BY_CULTURE [Intimacy Law 2026-10-04 SC1]
+
+In every POV, narration keeps one crude English for the words for the body, and each culture's own words for the body arrive in speech and italic thought, the way its swears do.
+
+> Crude English, native in mouths. Narration keeps one crude English; each culture's own words for the body arrive in speech and italic thought, as its swears do.
+
+### R73-8-TRACKING_BODIES [Intimacy Law 2026-10-04 SC3]
+
+Fix each new arrangement of the bodies in one clear sentence as it forms, and between poses let sensation lead and the geometry blur; this is the one wording of Rule 9's 'positions tracked' for both skills.
+
+> Fixed at each new pose. Each new arrangement is fixed in one clear sentence as it forms; between poses, sensation leads and the geometry may blur. This settles the two skills' wording.
+
+### R73-9-SENSE_LEADS [Intimacy Law 2026-10-04 SC4]
+
+In an explicit scene the POV's own body and trade decide which sense leads (a beastkin nose first, a Moto eye first, a sealer's hands first), and Rule 9's arousal scents still appear in every scene.
+
+> The POV's own order. The POV's body and trade decide: a beastkin nose first, a Moto eye first, a sealer's hands first. Rule 9's scents still appear in every scene.
+
+### R73-12-CONSENT_ON_PAGE [Intimacy Law 2026-10-04 SC7]
+
+Consent in an explicit scene is carried by words and body together: a refusal in either is a refusal, and where the two disagree the scene has become dubcon (dubious consent) and is written as dubcon.
+
+> Both, read together. Words and body both carry it. A refusal in either channel is a refusal; where the two disagree the scene has become dubcon (dubious consent) and is written as dubcon (SC9).
+
+### R73-13-READING_LOVER [Intimacy Law 2026-10-04 SC15]
+
+What cannot shut, a beastkin nose or ears, reads a lover freely, but a worked read, by Gnosis or a Moto's eyes, needs leave, and one taken unasked is a trespass with a tell, a counter and a debt.
+
+> Senses free, workings by leave. What cannot shut, a beastkin nose or ears, reads freely; a worked read, by Gnosis or a Moto's eyes, needs leave, and one taken unasked is B's trespass, with B's tell, counter and debt.
+
+### R73-16-BODY_UNDER_COERCION [Intimacy Law 2026-10-04 SC9]
+
+In a dubcon or non-con scene the victim's arousal may be written, and the POV knows it for the body's reflex, apart from her will, and carries that knowledge into the aftermath.
+
+> Shown, known as reflex. Arousal may be written, and the POV knows it for the body's reflex, apart from her will; she carries that knowledge into the aftermath.
+
+### R73-17-CARRYING_FORWARD [Intimacy Law 2026-10-04 SC10]
+
+After a non-con or coerced scene the survivor's later scenes carry it physically (the startle, sleep that will not come, the seat with its back to the wall) until the thread resolves it, and the act opens or advances a Front (feud, blood-debt, pregnancy, scandal or a case at law), the perpetrator's own account of it a lie in his mouth.
+
+> Yes to: In the body and habit (The survivor's later scenes carry it physically (the startle, sleep that will not come, the seat with its back to the wall) until the thread resolves it); The bill reaches the world (The act opens or advances a Front: feud, blood-debt, pregnancy, scandal or a case at law; the perpetrator's own account is a lie in his mouth (Rule 8)).
+
+### R73-19-YOUR_CHARACTER_IN_BED [Intimacy Law 2026-10-04 SC12]
+
+Once the player's post sets the act, Natalie writes contact, position and what the partner does to his character as world facts, and leaves his arousal, pleasure, pain and climax, and how he bears them, to the player.
+
+> Contact as world fact. Once your post sets the act, contact, position and what the partner does to him are world facts; his arousal, pleasure, pain and climax, and how he bears them, stay yours.
+
+### R73-21-NPC_WOULD_FORCE_HIM [Intimacy Law 2026-10-04 SC14]
+
+When an NPC would coerce or force the player's character, Natalie sets the threat in the room (the grip, the bargain, the Draft in the cup) and stops, and the act reaches the page only through the player's post.
+
+> Threat placed, his post decides. Natalie sets the threat in the room (the grip, the bargain, the Draft in the cup) and stops; the act reaches the page only through your post.
 
 ### R20-5-ON_THE_PAGE [Naming Guide Amendment Part Five]
 
@@ -11048,7 +11276,7 @@ Narration refers to characters by POV epithets, the way the viewpoint sees them;
 
 > Narration refers to characters by POV epithets, the way the viewpoint sees them; the naming characterises.
 
-## prose-law (349)
+## prose-law (371)
 
 ### R20C-29-CATEGORY_NAMING_DIAGNOSTIC [Pack Twenty R20C-29]
 
@@ -11769,6 +11997,138 @@ R35-2's register (close, medium, distant/formal) says whose idiom the narration 
 The name of the recently dead is unsayable until given on; the Waiting is the silence — the body waits in the death-house because the ground is frozen, and the name waits with it, leaving a hole in the household's vocabulary that everyone steers around.
 
 > Name-avoidance. The name of the recently dead is not spoken until it has been given on. This interlocks with the Standing Inventory at no cost: the Waiting is the silence.
+
+### R73-1-EXPLICIT_SCENE_EARNS [Intimacy Law 2026-10-04 K1]
+
+By default each explicit scene shows something about one partner's desire or refusal the reader did not know, whether or not a thread moves, with Rule 9's consequence still landing afterward, and a settled pair may have a night that is only pleasure and warmth, its consequence small: a habit, a mark, a witness.
+
+> B, and joy may stand. B by default, and a settled pair may have a night that is only pleasure and warmth, its consequence small: a habit, a mark, a witness.
+
+### R73-2-PAGE_OR_CUT [Intimacy Law 2026-10-04 K2]
+
+Any sex that happens inside a scene is written explicitly from start to finish, with no cut and no fade, and the aftermath follows on the page.
+
+> Always on the page. Any sex that happens inside a scene is written explicitly, start to finish, with no cut and no fade; the aftermath follows on the page.
+
+### R73-6-BED_WORDS_BY_CULTURE [Intimacy Law 2026-10-04 SC1]
+
+In every POV, narration keeps one crude English for the words for the body, and each culture's own words for the body arrive in speech and italic thought, the way its swears do.
+
+> Crude English, native in mouths. Narration keeps one crude English; each culture's own words for the body arrive in speech and italic thought, as its swears do.
+
+### R73-7-HOW_LONG_IT_RUNS [Intimacy Law 2026-10-04 SC2]
+
+In a written scene or chapter a first time, a turning point or a dark explicit scene runs as a set piece, a returning pair's night inside a chapter runs on that chapter's length, and the aftermath is always written.
+
+> By weight. A first time, a turning point or a dark scene runs as a set piece; a returning pair's night inside a chapter runs on that chapter's length, the aftermath always written.
+
+### R73-8-TRACKING_BODIES [Intimacy Law 2026-10-04 SC3]
+
+Fix each new arrangement of the bodies in one clear sentence as it forms, and between poses let sensation lead and the geometry blur; this is the one wording of Rule 9's 'positions tracked' for both skills.
+
+> Fixed at each new pose. Each new arrangement is fixed in one clear sentence as it forms; between poses, sensation leads and the geometry may blur. This settles the two skills' wording.
+
+### R73-9-SENSE_LEADS [Intimacy Law 2026-10-04 SC4]
+
+In an explicit scene the POV's own body and trade decide which sense leads (a beastkin nose first, a Moto eye first, a sealer's hands first), and Rule 9's arousal scents still appear in every scene.
+
+> The POV's own order. The POV's body and trade decide: a beastkin nose first, a Moto eye first, a sealer's hands first. Rule 9's scents still appear in every scene.
+
+### R73-10-TALK_IN_BED [Intimacy Law 2026-10-04 SC5]
+
+Each partner talks in bed the way their card talks out of it, crude, teasing, bargaining or tender, and the talk is part of the act.
+
+> Full voice, talk as play. Each partner talks in bed the way their card talks out of it, crude, teasing, bargaining or tender, and the talk is part of the act.
+
+### R73-12-CONSENT_ON_PAGE [Intimacy Law 2026-10-04 SC7]
+
+Consent in an explicit scene is carried by words and body together: a refusal in either is a refusal, and where the two disagree the scene has become dubcon (dubious consent) and is written as dubcon.
+
+> Both, read together. Words and body both carry it. A refusal in either channel is a refusal; where the two disagree the scene has become dubcon (dubious consent) and is written as dubcon (SC9).
+
+### R73-13-READING_LOVER [Intimacy Law 2026-10-04 SC15]
+
+What cannot shut, a beastkin nose or ears, reads a lover freely, but a worked read, by Gnosis or a Moto's eyes, needs leave, and one taken unasked is a trespass with a tell, a counter and a debt.
+
+> Senses free, workings by leave. What cannot shut, a beastkin nose or ears, reads freely; a worked read, by Gnosis or a Moto's eyes, needs leave, and one taken unasked is B's trespass, with B's tell, counter and debt.
+
+### R73-14-WORKINGS_DESIRE [Intimacy Law 2026-10-04 SC8]
+
+An Obsession or Attraction working, a charm or a Draft may make someone want, and when it does it shows a tell, has a findable counter, costs its user, and the aftermath knows the desire was made.
+
+> Desire, with tell and counter. An Obsession or Attraction working, a charm or a Draft may make someone want; it shows a tell, has a findable counter, costs its user, and the aftermath knows it was made.
+
+### R73-16-BODY_UNDER_COERCION [Intimacy Law 2026-10-04 SC9]
+
+In a dubcon or non-con scene the victim's arousal may be written, and the POV knows it for the body's reflex, apart from her will, and carries that knowledge into the aftermath.
+
+> Shown, known as reflex. Arousal may be written, and the POV knows it for the body's reflex, apart from her will; she carries that knowledge into the aftermath.
+
+### R73-17-CARRYING_FORWARD [Intimacy Law 2026-10-04 SC10]
+
+After a non-con or coerced scene the survivor's later scenes carry it physically (the startle, sleep that will not come, the seat with its back to the wall) until the thread resolves it, and the act opens or advances a Front (feud, blood-debt, pregnancy, scandal or a case at law), the perpetrator's own account of it a lie in his mouth.
+
+> Yes to: In the body and habit (The survivor's later scenes carry it physically (the startle, sleep that will not come, the seat with its back to the wall) until the thread resolves it); The bill reaches the world (The act opens or advances a Front: feud, blood-debt, pregnancy, scandal or a case at law; the perpetrator's own account is a lie in his mouth (Rule 8)).
+
+### R73-18-AFTERMATH_BEAT [Intimacy Law 2026-10-04 SC11]
+
+Write an explicit scene's aftermath as the small work after (washing, the fire fed, clothes found, the door), with neither partner saying what it meant and the change showing in how they do it.
+
+> Procedure, meaning unsaid. The aftermath is the small work after (washing, the fire fed, clothes found, the door), and neither partner says what it meant; the change shows in how they do it.
+
+### R73-19-YOUR_CHARACTER_IN_BED [Intimacy Law 2026-10-04 SC12]
+
+Once the player's post sets the act, Natalie writes contact, position and what the partner does to his character as world facts, and leaves his arousal, pleasure, pain and climax, and how he bears them, to the player.
+
+> Contact as world fact. Once your post sets the act, contact, position and what the partner does to him are world facts; his arousal, pleasure, pain and climax, and how he bears them, stay yours.
+
+### R73-35-PRESSURE_IN_BED [Intimacy Law 2026-10-04 CO13]
+
+Pressure in bed brings weight, sweat and nausea and never desire, any wanting on the page being the person's own and a slipped hold ending the moment, but a lover may ask him to stop holding it in, letting go being the most intimate thing a practitioner can give and she paying in sweat and nausea she chose.
+
+> Let go, by leave. A, plus: a lover may ask him to stop holding it in. Letting go is the most intimate thing a practitioner can give, and she pays in sweat and nausea she chose.
+
+### R73-36-LOVERS_WARM_BOND [Intimacy Law 2026-10-04 CO14]
+
+A romance may count as a thread's standing warm bond, but each thread also keeps a warm bond that is not romantic, so that a romance that dies, sours or turns to Obsession leaves warmth standing.
+
+> Never the only one. Lovers count, but each thread also keeps a warm bond that is not romantic, so a romance that dies, sours or turns to Obsession leaves warmth standing.
+
+### R73-37-BOND_GROWS [Intimacy Law 2026-10-04 CO15]
+
+A bond grows by what is mended, fed and carried (the coat, the comb, the bowl), one added each scene for the reader to count, and by shared cost, chosen or not, which binds even enemies who accrue it, while the only bond that prints is the first Spirit Axis, named with no figure as the Catalyst in the breakthrough readout R70-84 already owes at Flourishing, and nothing says whether she loves him.
+
+> Yes to: Tokens and maintenance (A bond grows by what is mended, fed and carried: the coat, the comb, the bowl. Each scene adds one, and the reader counts them); Jeong through hardship (A bond grows from shared cost, chosen or not: a night in a collapsed gallery, a winter of short rations. Enemies can accrue it, and it binds them anyway); Crystal fact, no figure (The breakthrough readout R70-84 already owes at Flourishing also names its Catalyst, the first Spirit Axis, with no figure (R12-5); no other bond prints, and nothing says whether she loves him).
+
+### R73-38-LOVE_MOURNED_OR_LIVED [Intimacy Law 2026-10-04 CO16]
+
+A bond gets scenes of its own joy before a loss may land on it, and a love that dies before the reader has seen it lived is a fault to fix.
+
+> Lived first, then cost. A bond gets scenes of its own joy before a loss may land on it; a love that dies before the reader has seen it lived is a fault to fix.
+
+### R73-40-WHERE_INTIMACY_LAW_LANDS [Intimacy Law 2026-10-04 ME1]
+
+The intimacy answers land as one dated Intimacy Law rule doc logged through log_ruling and served by load_rules, Table Rule 9 in NATALIE.md rewritten to cite R49-51, R70-133, R70-134 and the new rows, the wotr-rp skill and the wotr-write scene pipeline brought to one wording, the courtship and mores fields drafted for the six cultures and entered on Isaac's word, and an intimacy section in the Dialogue Craft Standards and the Scene Writing Process Guide.
+
+> B, plus the Inventories. B, plus the courtship and mores fields drafted for the six cultures from these answers and entered on your word, and an intimacy section in the Dialogue Craft Standards and Scene Writing Process Guide.
+
+### R73-41-INTIMACY_CHECKS_VERIFY [Intimacy Law 2026-10-04 ME2]
+
+verify --explicit WARNs on a scene with no smell word, no sound or mimetic word, an italic mimetic word, or notes without a consequence line, and stops counting 'cock' as gun vocabulary; verify FAILs an explicit scene that names anyone whose card or roster gives an age under eighteen and WARNs when a named partner has no age on file, the body's age counting and never a soul's; bed euphemisms that dodge R49-51 (his member, her sex, manhood, her core) FAIL in narration and pass in a mouth; and it WARNs past one a scene on the archive's repeated touches (the hand on the arm, the jaw held, the kiss on the hair).
+
+> Yes to: An explicit mode (verify --explicit WARNs on a scene with no smell word, no sound or mimetic word, an italic mimetic word, or notes without a consequence line, and stops counting 'cock' as gun vocabulary); A floor guard (FAIL when an explicit scene names anyone whose card or roster gives an age under eighteen; WARN when a named partner has no age on file. The body's age counts, never a soul's); Euphemism bans (Bed euphemisms that dodge R49-51 (his member, her sex, manhood, her core) FAIL in narration like the hard-ban words; in a mouth they pass, since a character may be coy); Stale-touch watch (WARN past one a scene on the archive's repeated touches: the hand on the arm, the jaw held, the kiss on the hair, as R71-103 does for fight devices).
+
+### R73-42-INTIMACY_SAMPLE_BANK [Intimacy Law 2026-10-04 ME3]
+
+The intimacy sample bank holds both an intimate beat in each culture file where Natalie already loads them and a bank of the kinds the archive lacks, this questionnaire's samples becoming their first drafts.
+
+> Both. A and B: culture beats where Natalie already loads them, and the kinds the archive lacks; this questionnaire's samples become their first drafts.
+
+### R73-43-PROOF_TEST_SCENE [Intimacy Law 2026-10-04 ME4]
+
+The intimacy work runs in order: log the law and build the new verify checks, write one explicit scene between adult NPCs on the Kharven ground of Isaac's thread, a Kharven half and a Moto half split by a break mark, amend, and only then write the guides, the Inventories and the bank.
+
+> Law, checks, NPC test. Log the law and build ME2's checks; write one explicit scene between adult NPCs on your thread's Kharven ground, a Kharven half and a Moto half split by a break mark (R49-27); amend; then guides, Inventories and bank.
 
 ### R43-3-COLOR_OF_ESSENCE_PART_FIVE [Magic System Rulings 2026-09-24 C-032]
 
@@ -13144,7 +13504,7 @@ Narration refers to characters by POV epithets, the way the viewpoint sees them;
 
 > Narration refers to characters by POV epithets, the way the viewpoint sees them; the naming characterises.
 
-## register (194)
+## register (196)
 
 ### R20C-21-WELL_NAMES_CLASS_MARKED [Pack Twenty R20C-21]
 
@@ -13613,6 +13973,18 @@ The WOTR swears, sense banks, culture inventories, price table and narration reg
 Open syllables, permitted nasal codas, no clusters; avoid the wuxia register the base guide already warns off — no four-syllable given names, no sect-title constructions, no honorific stacking.
 
 > Open syllables, permitted nasal codas, no clusters. Avoid the wuxia register the base guide already warns off: no four-syllable given names, no sect-title constructions, no honorific stacking.
+
+### R73-6-BED_WORDS_BY_CULTURE [Intimacy Law 2026-10-04 SC1]
+
+In every POV, narration keeps one crude English for the words for the body, and each culture's own words for the body arrive in speech and italic thought, the way its swears do.
+
+> Crude English, native in mouths. Narration keeps one crude English; each culture's own words for the body arrive in speech and italic thought, as its swears do.
+
+### R73-26-MAHUO_COURTSHIP [Intimacy Law 2026-10-04 CO5]
+
+Mahuo courtship is a verse exchange in which the suitor's three lines are answered with three whose last clause turns, a plain answer costing standing as at court, and the proposal is a change of speech, one of them dropping from the high forms to the plain speech kept for kin and spouses and the other answering in kind as the yes.
+
+> Yes to: A sijo owed a sijo (Courtship is a verse exchange: the suitor's three lines are answered with three, and the last clause turns. A plain answer costs standing, as R70-110 rules at court); The speech level drops (The proposal is a change of speech: one of them drops from the high forms to the plain speech kept for kin and spouses, and the other answering in kind is the yes).
 
 ### R40-2-CELESTIAL_HOST_NAMING_PASS [Naming Banks 2026-09-13 Celestial Host]
 
@@ -14310,7 +14682,7 @@ The Zettari bloodline's names, titles and technique names are built in a Swahili
 
 > The Zettari speak their own tongue. Their names and their arts are Swahili, Bantu and Arabic in flavour — Kafa-Karim, Habl Flow-Bind, Sarmad Fracture, Sukun Maji, Dawam Soul-Still Art, Kumi-na-Mbili Seal; Zuberi, Ma'Kovu, N'Kharu, Malani, Jomari, N'Yari, Zembari — and that register stands. The five-strata naming convention assigns the archaic bloodlines to the Japonic stratum; the Zettari are carved out of it as a register of their own, and the Japonic assignment continues to govern every other archaic line. Ruled by Isaac, 2026-09-12.
 
-## scene-structure (103)
+## scene-structure (116)
 
 ### R19-2-BUILT_AROUND [Pack Nineteen §2]
 
@@ -14569,6 +14941,84 @@ After a fight each cost arrives in the aftermath as a person or a paper (the fee
 When a fight ends in a death, law moves only on a witness or a reading inside the residue clocks (an unread killing sits on the Ledger as a risk), every practitioner's killing opens a jurisdiction contest between crown, company and guild as a Front, and a killer who does not declare before witnesses by the next dawn is a murderer in every culture that keeps witnesses, the declaration being its own short scene.
 
 > Yes to: Proof decides (Law moves only on a witness or a reading inside the residue clocks (R61-7); R60-11's trace proof reaches blade killings too. An unread killing sits on the Ledger as a risk); Courts fight over it (Every practitioner's killing opens a jurisdiction contest between crown, company and guild (R60-19) as a Front, and the killer's fate turns on which layer wins it); Declare it, or murder (A killer who does not declare before witnesses by the next dawn is a murderer in every culture that keeps witnesses, Kharven and Korvaeth first. The declaration is its own short scene). Not taken: Standing buys terms.
+
+### R73-1-EXPLICIT_SCENE_EARNS [Intimacy Law 2026-10-04 K1]
+
+By default each explicit scene shows something about one partner's desire or refusal the reader did not know, whether or not a thread moves, with Rule 9's consequence still landing afterward, and a settled pair may have a night that is only pleasure and warmth, its consequence small: a habit, a mark, a witness.
+
+> B, and joy may stand. B by default, and a settled pair may have a night that is only pleasure and warmth, its consequence small: a habit, a mark, a witness.
+
+### R73-2-PAGE_OR_CUT [Intimacy Law 2026-10-04 K2]
+
+Any sex that happens inside a scene is written explicitly from start to finish, with no cut and no fade, and the aftermath follows on the page.
+
+> Always on the page. Any sex that happens inside a scene is written explicitly, start to finish, with no cut and no fade; the aftermath follows on the page.
+
+### R73-3-FIRST_TIME_COMES [Intimacy Law 2026-10-04 K3]
+
+A pair's first explicit scene comes when the people would: no pacing rule holds it, NPCs act on their wants and refusal lines under Table Rule 3, and sex may come first and the bond after, or never.
+
+> When the people would. No pacing rule: NPCs act on their wants and refusal lines, so sex may come first and the bond after, or never. Table Rule 3 decides.
+
+### R73-7-HOW_LONG_IT_RUNS [Intimacy Law 2026-10-04 SC2]
+
+In a written scene or chapter a first time, a turning point or a dark explicit scene runs as a set piece, a returning pair's night inside a chapter runs on that chapter's length, and the aftermath is always written.
+
+> By weight. A first time, a turning point or a dark scene runs as a set piece; a returning pair's night inside a chapter runs on that chapter's length, the aftermath always written.
+
+### R73-17-CARRYING_FORWARD [Intimacy Law 2026-10-04 SC10]
+
+After a non-con or coerced scene the survivor's later scenes carry it physically (the startle, sleep that will not come, the seat with its back to the wall) until the thread resolves it, and the act opens or advances a Front (feud, blood-debt, pregnancy, scandal or a case at law), the perpetrator's own account of it a lie in his mouth.
+
+> Yes to: In the body and habit (The survivor's later scenes carry it physically (the startle, sleep that will not come, the seat with its back to the wall) until the thread resolves it); The bill reaches the world (The act opens or advances a Front: feud, blood-debt, pregnancy, scandal or a case at law; the perpetrator's own account is a lie in his mouth (Rule 8)).
+
+### R73-18-AFTERMATH_BEAT [Intimacy Law 2026-10-04 SC11]
+
+Write an explicit scene's aftermath as the small work after (washing, the fire fed, clothes found, the door), with neither partner saying what it meant and the change showing in how they do it.
+
+> Procedure, meaning unsaid. The aftermath is the small work after (washing, the fire fed, clothes found, the door), and neither partner says what it meant; the change shows in how they do it.
+
+### R73-19-YOUR_CHARACTER_IN_BED [Intimacy Law 2026-10-04 SC12]
+
+Once the player's post sets the act, Natalie writes contact, position and what the partner does to his character as world facts, and leaves his arousal, pleasure, pain and climax, and how he bears them, to the player.
+
+> Contact as world fact. Once your post sets the act, contact, position and what the partner does to him are world facts; his arousal, pleasure, pain and climax, and how he bears them, stay yours.
+
+### R73-20-EXPLICIT_ROLEPLAY_TURN [Intimacy Law 2026-10-04 SC13]
+
+In an explicit roleplay turn the player may post the course of the encounter, a pace, a limit or a stop for his character, and Natalie runs it to the first branch it does not cover and stops there.
+
+> Standing orders in bed. You may post the course of the encounter, a pace, a limit or a stop for your character, and Natalie runs it to the first branch it does not cover, then stops there.
+
+### R73-21-NPC_WOULD_FORCE_HIM [Intimacy Law 2026-10-04 SC14]
+
+When an NPC would coerce or force the player's character, Natalie sets the threat in the room (the grip, the bargain, the Draft in the cup) and stops, and the act reaches the page only through the player's post.
+
+> Threat placed, his post decides. Natalie sets the threat in the room (the grip, the bargain, the Draft in the cup) and stops; the act reaches the page only through your post.
+
+### R73-36-LOVERS_WARM_BOND [Intimacy Law 2026-10-04 CO14]
+
+A romance may count as a thread's standing warm bond, but each thread also keeps a warm bond that is not romantic, so that a romance that dies, sours or turns to Obsession leaves warmth standing.
+
+> Never the only one. Lovers count, but each thread also keeps a warm bond that is not romantic, so a romance that dies, sours or turns to Obsession leaves warmth standing.
+
+### R73-37-BOND_GROWS [Intimacy Law 2026-10-04 CO15]
+
+A bond grows by what is mended, fed and carried (the coat, the comb, the bowl), one added each scene for the reader to count, and by shared cost, chosen or not, which binds even enemies who accrue it, while the only bond that prints is the first Spirit Axis, named with no figure as the Catalyst in the breakthrough readout R70-84 already owes at Flourishing, and nothing says whether she loves him.
+
+> Yes to: Tokens and maintenance (A bond grows by what is mended, fed and carried: the coat, the comb, the bowl. Each scene adds one, and the reader counts them); Jeong through hardship (A bond grows from shared cost, chosen or not: a night in a collapsed gallery, a winter of short rations. Enemies can accrue it, and it binds them anyway); Crystal fact, no figure (The breakthrough readout R70-84 already owes at Flourishing also names its Catalyst, the first Spirit Axis, with no figure (R12-5); no other bond prints, and nothing says whether she loves him).
+
+### R73-38-LOVE_MOURNED_OR_LIVED [Intimacy Law 2026-10-04 CO16]
+
+A bond gets scenes of its own joy before a loss may land on it, and a love that dies before the reader has seen it lived is a fault to fix.
+
+> Lived first, then cost. A bond gets scenes of its own joy before a loss may land on it; a love that dies before the reader has seen it lived is a fault to fix.
+
+### R73-42-INTIMACY_SAMPLE_BANK [Intimacy Law 2026-10-04 ME3]
+
+The intimacy sample bank holds both an intimate beat in each culture file where Natalie already loads them and a bank of the kinds the archive lacks, this questionnaire's samples becoming their first drafts.
+
+> Both. A and B: culture beats where Natalie already loads them, and the kinds the archive lacks; this questionnaire's samples become their first drafts.
 
 ### R49-25-OPENINGS [Prose Law 2026-09-26 Openings, endings, shape]
 
@@ -14930,7 +15380,7 @@ Players post freely in talk and travel, while fights and contests run in a fixed
 
 > Order when it matters. Free posting in talk and travel; in fights and contests a fixed round order with a reply window the Judger sets, after which the round moves on and standing orders (R71-5) play for the absent.
 
-## session-protocol (84)
+## session-protocol (94)
 
 ### R20C-5-BRIEF_BURI_SECTION_MUST_GO [Pack Twenty R20C-5]
 
@@ -15093,6 +15543,66 @@ The combat work runs in order: log the law and build the new checks, run the tes
 Wren Greymane's Front becomes a grief Front: the aftermath of his death, Bram and the ridge carrying it, ticks driven by who blames whom.
 
 > Wren Greymane's Front becomes a grief Front: the aftermath of his death, Bram and the ridge carrying it, ticks driven by who blames whom.
+
+### R73-3-FIRST_TIME_COMES [Intimacy Law 2026-10-04 K3]
+
+A pair's first explicit scene comes when the people would: no pacing rule holds it, NPCs act on their wants and refusal lines under Table Rule 3, and sex may come first and the bond after, or never.
+
+> When the people would. No pacing rule: NPCs act on their wants and refusal lines, so sex may come first and the bond after, or never. Table Rule 3 decides.
+
+### R73-5-WHAT_LEDGER_KEEPS [Intimacy Law 2026-10-04 K5]
+
+After an intimate scene the Ledger enters whatever was promised, owed, bargained or betrayed in bed (to come due like any debt), who heard, saw or will talk (as who-saw-what, able to open a Front), marks on the body (carried on real healing times and visible to whoever looks), and what was learned (knowledge the other now holds and may use).
+
+> Yes to: Debts and promises (Whatever was promised, owed, bargained or betrayed in bed is entered and comes due like any other debt); Witnesses and reputation (Who heard, who saw, who will talk: gossip, scandal and a rival's leverage, entered as who-saw-what, and able to open a Front); Marks on the body (Bites, bruises, beard-burn, a strained hip, another's scent on the skin: entered and carried on real healing times (R60-02), visible to whoever looks); What was learned (A secret told, a scar seen, a weakness found in bed is entered as knowledge the other now holds, and may use).
+
+### R73-17-CARRYING_FORWARD [Intimacy Law 2026-10-04 SC10]
+
+After a non-con or coerced scene the survivor's later scenes carry it physically (the startle, sleep that will not come, the seat with its back to the wall) until the thread resolves it, and the act opens or advances a Front (feud, blood-debt, pregnancy, scandal or a case at law), the perpetrator's own account of it a lie in his mouth.
+
+> Yes to: In the body and habit (The survivor's later scenes carry it physically (the startle, sleep that will not come, the seat with its back to the wall) until the thread resolves it); The bill reaches the world (The act opens or advances a Front: feud, blood-debt, pregnancy, scandal or a case at law; the perpetrator's own account is a lie in his mouth (Rule 8)).
+
+### R73-20-EXPLICIT_ROLEPLAY_TURN [Intimacy Law 2026-10-04 SC13]
+
+In an explicit roleplay turn the player may post the course of the encounter, a pace, a limit or a stop for his character, and Natalie runs it to the first branch it does not cover and stops there.
+
+> Standing orders in bed. You may post the course of the encounter, a pace, a limit or a stop for your character, and Natalie runs it to the first branch it does not cover, then stops there.
+
+### R73-31-MARRIAGE_POLITICS [Intimacy Law 2026-10-04 CO9]
+
+A political match in play runs as a Front whose ticks are betrothal, settlement, wedding and first heir, and a broken match fires the Front, so that someone pays.
+
+> A Front with a clock. A political match in play runs as a Front: betrothal, settlement, wedding and first heir are its ticks. A broken match fires the Front, and someone pays.
+
+### R73-32-JEALOUSY_RIVALS [Intimacy Law 2026-10-04 CO10]
+
+Jealousy acts (slander, theft, a duel, poison), each act landing on the Ledger as a debt or a witness and a love rival who recurs being paid for as R70-104 rules, and fed long enough it turns to Obsession Force, Breadth collapsing and Empathy running one way, which an instrument or a good Gnosis read can find as its fair counter.
+
+> Yes to: A feud with a bill (Jealousy acts: slander, theft, a duel, poison. Each act lands on the Ledger as a debt or a witness, and a love rival who recurs is paid for as R70-104 rules); The road to Obsession (Fed long enough, jealousy turns to Obsession Force: Breadth collapses and Empathy runs one way. An instrument or a good Gnosis read can find it, which is its fair counter).
+
+### R73-33-CONCEPTION_AND_POX [Intimacy Law 2026-10-04 CO11]
+
+Every bed between partners who could conceive records its precaution (sheath, sponge, timing, a Draft, or none) in the notes, Natalie rules conception and the pox by period medicine and names what decided, and a pregnancy opens a Front.
+
+> Ruled openly, every time. Each bed between partners who could conceive records its precaution (sheath, sponge, timing, a Draft, or none) in the notes; Natalie rules conception and the pox by period medicine, names what decided, and a pregnancy opens a Front.
+
+### R73-36-LOVERS_WARM_BOND [Intimacy Law 2026-10-04 CO14]
+
+A romance may count as a thread's standing warm bond, but each thread also keeps a warm bond that is not romantic, so that a romance that dies, sours or turns to Obsession leaves warmth standing.
+
+> Never the only one. Lovers count, but each thread also keeps a warm bond that is not romantic, so a romance that dies, sours or turns to Obsession leaves warmth standing.
+
+### R73-38-LOVE_MOURNED_OR_LIVED [Intimacy Law 2026-10-04 CO16]
+
+A bond gets scenes of its own joy before a loss may land on it, and a love that dies before the reader has seen it lived is a fault to fix.
+
+> Lived first, then cost. A bond gets scenes of its own joy before a loss may land on it; a love that dies before the reader has seen it lived is a fault to fix.
+
+### R73-43-PROOF_TEST_SCENE [Intimacy Law 2026-10-04 ME4]
+
+The intimacy work runs in order: log the law and build the new verify checks, write one explicit scene between adult NPCs on the Kharven ground of Isaac's thread, a Kharven half and a Moto half split by a break mark, amend, and only then write the guides, the Inventories and the bank.
+
+> Law, checks, NPC test. Log the law and build ME2's checks; write one explicit scene between adult NPCs on your thread's Kharven ground, a Kharven half and a Moto half split by a break mark (R49-27); amend; then guides, Inventories and bank.
 
 ### R39-8-PACKS_FOLDED_INTO_EDITIONS [Stat System and Scene Rulings 2026-09-13 Folding]
 
@@ -15436,7 +15946,7 @@ When the partner thinks a beat is drifting or a rule reads wrong, it says so in 
 
 > When the partner thinks a beat is drifting or a rule reads wrong, it says so in one plain line and keeps writing unless stopped.
 
-## standing-inventory (86)
+## standing-inventory (97)
 
 ### R20C-47-CRAFTS_OWE_THE_INVENTORY [Pack Twenty R20C-47]
 
@@ -15623,6 +16133,72 @@ The Kharven Standing Inventory is material culture downstream of permafrost and 
 The name of the recently dead is unsayable until given on; the Waiting is the silence — the body waits in the death-house because the ground is frozen, and the name waits with it, leaving a hole in the household's vocabulary that everyone steers around.
 
 > Name-avoidance. The name of the recently dead is not spoken until it has been given on. This interlocks with the Standing Inventory at no cost: the Waiting is the silence.
+
+### R73-11-POWER_GAMES_FRAMED [Intimacy Law 2026-10-04 SC6]
+
+When lovers play at power, the terms take their culture's form (the Accord seals them on paper, the Moto enter a word in form, Kharven takes a word before witnesses), the stop-word carries that culture's weight, and breaking it is answered under that culture's own law.
+
+> By each culture's form. The Accord seals terms on paper, the Moto enter a word in form, Kharven takes a word before witnesses; the stop-word carries that culture's weight, and breaking it is answered under that culture's own law (R53-11).
+
+### R73-22-WHERE_COURTSHIP_CUSTOM_LIVES [Intimacy Law 2026-10-04 CO1]
+
+Every Standing Inventory gains a Courtship and Marriage field (the approach, the go-between, the gift or price, the vow, who may refuse, how a match ends, widowhood), entered on Isaac's word, and, beside R70-45's law field, a Mores field holding what the culture holds shameful and boasts of, nakedness and bathing, its pleasure trade, and what its law does to adultery and to rape.
+
+> Courtship field, plus mores. A, plus a Mores field: what the culture holds shameful and what it boasts of, nakedness and bathing, the pleasure trade (CO18), and what its law does to adultery and to rape, written beside R70-45's law field.
+
+### R73-23-KHARVEN_COURTSHIP [Intimacy Law 2026-10-04 CO2]
+
+A Kharven suitor proves himself by splitting unasked for her household's woodpile and asks when the stack is full and her kin say so, her household answers at the hearth when she drinks from the sealskin and passes it across the fire for him to drink after her before everyone (a withheld skin being the no), and on the nameless day a man may ride off with a woman, her kin naming a price on the first named morning and whether she went willing being hers to tell.
+
+> Yes to: The stack proves him (A suitor splits for her household's woodpile unasked, labour-debt run in reverse; the asking comes when the stack is full and her kin say so. Entered in the Kharven field); The skin answers (Her household answers at the hearth: she drinks from the sealskin and passes it across the fire, and he drinks after her before everyone. A withheld skin is the no, said without a word); Ridden off, priced after (On the nameless day a man may ride off with a woman, and her kin name a price on the first named morning. Whether she went willing is hers to tell; the custom never asks).
+
+### R73-24-MOTO_COURTSHIP [Intimacy Law 2026-10-04 CO3]
+
+A Moto match is asked in form at the hinge of the day and is real only when the register holds it in the house's own hand (an unentered lover being nobody to the house), and a suitor from outside the line courts by lifting his eyes to a Moto and leaving them there to be read, whether she reads him, and how far, being her answer.
+
+> Yes to: Asked in form, entered (A match is asked in form at the hinge of the day and is real only when the register holds it in the house's own hand; an unentered lover is nobody to the house); The eyes offered (A suitor outside the line courts by lifting his eyes to a Moto and leaving them there, offering himself to be read; whether she reads him, and how far, is her answer).
+
+### R73-25-ACCORD_COURTSHIP [Intimacy Law 2026-10-04 CO4]
+
+An Accord match is a settlement drawn by an advocate, pledged 'Ita spondeo' and entered in ink with what stays in her name written in, so that courtship is the negotiation and love shows in the clauses, and a broken engagement may be sued at the Assize, where the letters are read aloud in open court and the Bench prices the jilt.
+
+> Yes to: Terms under seal (A match is a settlement drawn by an advocate, pledged 'Ita spondeo' and entered in ink, with what stays in her name written in. Courtship is the negotiation, and love shows in the clauses); Breach of promise sued (A broken engagement is actionable at the Assize: the letters are read aloud in open court and the Bench prices the jilt. Every love letter in the Accord is also evidence).
+
+### R73-26-MAHUO_COURTSHIP [Intimacy Law 2026-10-04 CO5]
+
+Mahuo courtship is a verse exchange in which the suitor's three lines are answered with three whose last clause turns, a plain answer costing standing as at court, and the proposal is a change of speech, one of them dropping from the high forms to the plain speech kept for kin and spouses and the other answering in kind as the yes.
+
+> Yes to: A sijo owed a sijo (Courtship is a verse exchange: the suitor's three lines are answered with three, and the last clause turns. A plain answer costs standing, as R70-110 rules at court); The speech level drops (The proposal is a change of speech: one of them drops from the high forms to the plain speech kept for kin and spouses, and the other answering in kind is the yes).
+
+### R73-27-COURTSHIP_LINEAGE_HALLS [Intimacy Law 2026-10-04 CO6]
+
+In the lineage halls a marriage is real when the husband's hall enters her in its book as 'of' her father's hall (a secondary wife entered lower, an unentered woman without standing in the hall), and a hall marries for a skill it lacks, its bride-gifts coming with a schedule of what her children will be taught, so that love is a clause and the halls say so.
+
+> Yes to: Entered in the book (A marriage is real when the husband's hall enters her in its book as 'of' her father's hall; a secondary wife is entered lower, and an unentered woman has no standing in the hall); Bought for the book (A hall marries for a skill it lacks, and the bride-gifts come with a schedule of what her children will be taught. Love is a clause, and the halls say so).
+
+### R73-28-DAWI_COURTSHIP [Intimacy Law 2026-10-04 CO7]
+
+A Dawi match is made backward, with no betrothal, by entering in the Tally in metre the acts the pair have already done for each other, the entry being the marriage, and courtship is 'Kurlo' said alone between two people with the 'Ei kurme' that would end a bargain left off, a thing unbegun and not refused.
+
+> Yes to: Entered, never promised (A Dawi match is made backward: the acts already done for each other are entered in the Tally in metre, and the entry is the marriage. There is no betrothal); Kurlo, the refusal unsaid (Courtship is 'Kurlo' said alone between two people, with the 'Ei kurme' that would end a bargain left off: a thing unbegun and not refused, the nearest the tongue comes to hope).
+
+### R73-29-CONSORTS_CONCUBINES_WIDOWS [Intimacy Law 2026-10-04 CO8]
+
+The lineage halls and the Moto enter a secondary wife or consort below the wife with her children's standing written there, the Accord allows one spouse and keeps a kept woman or man on an allowance quoted from the price table with children sine sigillo, a Kharven widow and her stack may pass to her dead man's brother if she takes the skin from him (refusing being her right and her hunger), and the Dawi Tally holds one marriage entry, a second partner being 'kurnur', unentered.
+
+> Yes to: Entered lower, in book (The lineage halls and the Moto enter a secondary wife or consort below the wife in the book or register; her children's standing is written there, and an unentered child is 'written in the wrong hand'); Accord: off the books (One spouse in Accord law. A kept woman or kept man lives on an allowance quoted from the price table, a scandal with a sum on it, and their children are sine sigillo); Kharven: the brother's widow (A Kharven widow and her stack may pass to her dead man's brother, wife or no wife, if she takes the skin from him, so no hearth goes cold; refusing is her right, and her hunger); Dawi: one entry only (The Tally holds one marriage entry. A second partner is an act nobody will stand behind, 'kurnur', unentered, and carries that swear in the hold).
+
+### R73-30-PLEASURE_TRADE [Intimacy Law 2026-10-04 CO18]
+
+The Draw Age keeps a trade in sex in each culture's own form (the Accord licensing houses under seal and inspection, Eastern courts keeping ranked quarters or verse-trained entertainers, the north keeping no house and trading in kind), entered in each Inventory's Mores field, its fees becoming price-table rows on Isaac's word.
+
+> Each culture's own form. The Accord licenses houses under seal and inspection, Eastern courts keep ranked quarters or verse-trained entertainers, the north keeps no house and trades in kind; entered in CO1's Mores field, fees as price-table rows on your word.
+
+### R73-40-WHERE_INTIMACY_LAW_LANDS [Intimacy Law 2026-10-04 ME1]
+
+The intimacy answers land as one dated Intimacy Law rule doc logged through log_ruling and served by load_rules, Table Rule 9 in NATALIE.md rewritten to cite R49-51, R70-133, R70-134 and the new rows, the wotr-rp skill and the wotr-write scene pipeline brought to one wording, the courtship and mores fields drafted for the six cultures and entered on Isaac's word, and an intimacy section in the Dialogue Craft Standards and the Scene Writing Process Guide.
+
+> B, plus the Inventories. B, plus the courtship and mores fields drafted for the six cultures from these answers and entered on your word, and an intimacy section in the Dialogue Craft Standards and Scene Writing Process Guide.
 
 ### R22-7-KHARVEN_INVENTORY_KEPT [Moto Reversion Ledger VII]
 
@@ -15954,7 +16530,7 @@ No decade-by-decade technology page: the partner judges what is era-appropriate 
 
 > No decade-by-decade technology page: the partner judges what is era-appropriate in the Imperial Age scene by scene.
 
-## stats (177)
+## stats (181)
 
 ### R20C-30-STAGE_NAMES_FROM_FOW [Pack Twenty R20C-30]
 
@@ -16544,6 +17120,30 @@ Dougou: re-derive his joule figures from his restored EU costs (4.752 GJ, 7.326 
 
 > Dougou: re-derive his joule figures from his restored EU costs (4.752 GJ, 7.326 GJ, 2.772 to 8.811 GJ, B-Grade); the newton figures are dropped, since no contact distance is stated.
 
+### R73-15-BEDCHAMBER_ARTS [Intimacy Law 2026-10-04 SC16]
+
+An art that gives or draws Essence through the act is a technique, with a Codex line, a cost in both bodies, a tell, a counter and no figure until canon holds one, and one that draws unasked is a Claim and makes the scene dubcon or non-con.
+
+> Given or drawn, fully priced. A bedchamber art is a technique: a Codex line, a cost in both bodies, a tell, a counter, no figure until canon holds one. One drawing unasked is a Claim, and the scene dubcon or non-con (SC8).
+
+### R73-32-JEALOUSY_RIVALS [Intimacy Law 2026-10-04 CO10]
+
+Jealousy acts (slander, theft, a duel, poison), each act landing on the Ledger as a debt or a witness and a love rival who recurs being paid for as R70-104 rules, and fed long enough it turns to Obsession Force, Breadth collapsing and Empathy running one way, which an instrument or a good Gnosis read can find as its fair counter.
+
+> Yes to: A feud with a bill (Jealousy acts: slander, theft, a duel, poison. Each act lands on the Ledger as a debt or a witness, and a love rival who recurs is paid for as R70-104 rules); The road to Obsession (Fed long enough, jealousy turns to Obsession Force: Breadth collapses and Empathy runs one way. An instrument or a good Gnosis read can find it, which is its fair counter).
+
+### R73-37-BOND_GROWS [Intimacy Law 2026-10-04 CO15]
+
+A bond grows by what is mended, fed and carried (the coat, the comb, the bowl), one added each scene for the reader to count, and by shared cost, chosen or not, which binds even enemies who accrue it, while the only bond that prints is the first Spirit Axis, named with no figure as the Catalyst in the breakthrough readout R70-84 already owes at Flourishing, and nothing says whether she loves him.
+
+> Yes to: Tokens and maintenance (A bond grows by what is mended, fed and carried: the coat, the comb, the bowl. Each scene adds one, and the reader counts them); Jeong through hardship (A bond grows from shared cost, chosen or not: a night in a collapsed gallery, a winter of short rations. Enemies can accrue it, and it binds them anyway); Crystal fact, no figure (The breakthrough readout R70-84 already owes at Flourishing also names its Catalyst, the first Spirit Axis, with no figure (R12-5); no other bond prints, and nothing says whether she loves him).
+
+### R73-39-BOND_AFTER_DEATH [Intimacy Law 2026-10-04 CO17]
+
+A lover's death leaves the survivor's bond clean and reciprocal, the Spirit Axis holding, felt at thresholds and readable by instrument with no figure, grief its tax, but grief fed long enough tips the bond into Obsession, which an instrument or a good Gnosis read can find, and a Crystal grown dependent on the dead risks Fracture of Worlds' fracture events.
+
+> Clean or a cage. A, plus the turn: grief fed long enough tips the bond into Obsession, which an instrument or a good Gnosis read can find, and a Crystal grown dependent on the dead risks FOW's fracture events.
+
 ### R46-1-ITEM_TIER_LOWER_OF_TWO [The Item Tiers 2026-09-25 What an Item Tier Is]
 
 An item carries an item Tier, the lower of what its material can hold and the Tier of Standing its maker stood at when it was made; a composite is graded by the material carrying the working; a plain item has no Tier and performs as its physics.
@@ -17021,7 +17621,7 @@ Stage V reads the Expert row's η of 0.60–0.70.
 
 > Splintering takes the 0.60-0.70 efficiency band; the whole Expert row reads 0.60-0.70.
 
-## verification (121)
+## verification (123)
 
 ### R20C-3-SWEEP_TWO_TIERS [Pack Twenty R20C-3]
 
@@ -17557,6 +18157,18 @@ A hyphen means Mahuo (Korean); no hyphen means the lineage halls (Chinese). A ho
 
 > Hyphen means Mahuo. Kwon Mu-jin. No hyphen means the lineage halls.
 
+### R73-41-INTIMACY_CHECKS_VERIFY [Intimacy Law 2026-10-04 ME2]
+
+verify --explicit WARNs on a scene with no smell word, no sound or mimetic word, an italic mimetic word, or notes without a consequence line, and stops counting 'cock' as gun vocabulary; verify FAILs an explicit scene that names anyone whose card or roster gives an age under eighteen and WARNs when a named partner has no age on file, the body's age counting and never a soul's; bed euphemisms that dodge R49-51 (his member, her sex, manhood, her core) FAIL in narration and pass in a mouth; and it WARNs past one a scene on the archive's repeated touches (the hand on the arm, the jaw held, the kiss on the hair).
+
+> Yes to: An explicit mode (verify --explicit WARNs on a scene with no smell word, no sound or mimetic word, an italic mimetic word, or notes without a consequence line, and stops counting 'cock' as gun vocabulary); A floor guard (FAIL when an explicit scene names anyone whose card or roster gives an age under eighteen; WARN when a named partner has no age on file. The body's age counts, never a soul's); Euphemism bans (Bed euphemisms that dodge R49-51 (his member, her sex, manhood, her core) FAIL in narration like the hard-ban words; in a mouth they pass, since a character may be coy); Stale-touch watch (WARN past one a scene on the archive's repeated touches: the hand on the arm, the jaw held, the kiss on the hair, as R71-103 does for fight devices).
+
+### R73-43-PROOF_TEST_SCENE [Intimacy Law 2026-10-04 ME4]
+
+The intimacy work runs in order: log the law and build the new verify checks, write one explicit scene between adult NPCs on the Kharven ground of Isaac's thread, a Kharven half and a Moto half split by a break mark, amend, and only then write the guides, the Inventories and the bank.
+
+> Law, checks, NPC test. Log the law and build ME2's checks; write one explicit scene between adult NPCs on your thread's Kharven ground, a Kharven half and a Moto half split by a break mark (R49-27); amend; then guides, Inventories and bank.
+
 ### R22-3-MONGON_DISPUTE_DEAD [Moto Reversion Ledger III]
 
 The Möngön against Mönggön spelling dispute is struck from the docket, since it was an argument about a name that no longer exists.
@@ -17749,7 +18361,7 @@ When the partner thinks a beat is drifting or a rule reads wrong, it says so in 
 
 > When the partner thinks a beat is drifting or a rule reads wrong, it says so in one plain line and keeps writing unless stopped.
 
-## worldbuilding (335)
+## worldbuilding (348)
 
 ### R20C-1-BURI_DEAD_EVERYWHERE [Pack Twenty R20C-1]
 
@@ -19070,6 +19682,84 @@ There never was an inherited surname; the Accord's registers assigned a frozen s
 A Far-Northern child fostered south keeps the carried name but simply stops hearing it used, and the kin-turns lapse; giving a carried name to an outsider makes them a specific dead person, with all the kin-turns, binding the household without individual consent.
 
 > A carried name does not transfer out. A Far-Northern child fostered south keeps it and simply stops hearing it used, and the kin-turns lapse, and that lapse is one of the quieter griefs available in the setting.
+
+### R73-11-POWER_GAMES_FRAMED [Intimacy Law 2026-10-04 SC6]
+
+When lovers play at power, the terms take their culture's form (the Accord seals them on paper, the Moto enter a word in form, Kharven takes a word before witnesses), the stop-word carries that culture's weight, and breaking it is answered under that culture's own law.
+
+> By each culture's form. The Accord seals terms on paper, the Moto enter a word in form, Kharven takes a word before witnesses; the stop-word carries that culture's weight, and breaking it is answered under that culture's own law (R53-11).
+
+### R73-22-WHERE_COURTSHIP_CUSTOM_LIVES [Intimacy Law 2026-10-04 CO1]
+
+Every Standing Inventory gains a Courtship and Marriage field (the approach, the go-between, the gift or price, the vow, who may refuse, how a match ends, widowhood), entered on Isaac's word, and, beside R70-45's law field, a Mores field holding what the culture holds shameful and boasts of, nakedness and bathing, its pleasure trade, and what its law does to adultery and to rape.
+
+> Courtship field, plus mores. A, plus a Mores field: what the culture holds shameful and what it boasts of, nakedness and bathing, the pleasure trade (CO18), and what its law does to adultery and to rape, written beside R70-45's law field.
+
+### R73-23-KHARVEN_COURTSHIP [Intimacy Law 2026-10-04 CO2]
+
+A Kharven suitor proves himself by splitting unasked for her household's woodpile and asks when the stack is full and her kin say so, her household answers at the hearth when she drinks from the sealskin and passes it across the fire for him to drink after her before everyone (a withheld skin being the no), and on the nameless day a man may ride off with a woman, her kin naming a price on the first named morning and whether she went willing being hers to tell.
+
+> Yes to: The stack proves him (A suitor splits for her household's woodpile unasked, labour-debt run in reverse; the asking comes when the stack is full and her kin say so. Entered in the Kharven field); The skin answers (Her household answers at the hearth: she drinks from the sealskin and passes it across the fire, and he drinks after her before everyone. A withheld skin is the no, said without a word); Ridden off, priced after (On the nameless day a man may ride off with a woman, and her kin name a price on the first named morning. Whether she went willing is hers to tell; the custom never asks).
+
+### R73-24-MOTO_COURTSHIP [Intimacy Law 2026-10-04 CO3]
+
+A Moto match is asked in form at the hinge of the day and is real only when the register holds it in the house's own hand (an unentered lover being nobody to the house), and a suitor from outside the line courts by lifting his eyes to a Moto and leaving them there to be read, whether she reads him, and how far, being her answer.
+
+> Yes to: Asked in form, entered (A match is asked in form at the hinge of the day and is real only when the register holds it in the house's own hand; an unentered lover is nobody to the house); The eyes offered (A suitor outside the line courts by lifting his eyes to a Moto and leaving them there, offering himself to be read; whether she reads him, and how far, is her answer).
+
+### R73-25-ACCORD_COURTSHIP [Intimacy Law 2026-10-04 CO4]
+
+An Accord match is a settlement drawn by an advocate, pledged 'Ita spondeo' and entered in ink with what stays in her name written in, so that courtship is the negotiation and love shows in the clauses, and a broken engagement may be sued at the Assize, where the letters are read aloud in open court and the Bench prices the jilt.
+
+> Yes to: Terms under seal (A match is a settlement drawn by an advocate, pledged 'Ita spondeo' and entered in ink, with what stays in her name written in. Courtship is the negotiation, and love shows in the clauses); Breach of promise sued (A broken engagement is actionable at the Assize: the letters are read aloud in open court and the Bench prices the jilt. Every love letter in the Accord is also evidence).
+
+### R73-26-MAHUO_COURTSHIP [Intimacy Law 2026-10-04 CO5]
+
+Mahuo courtship is a verse exchange in which the suitor's three lines are answered with three whose last clause turns, a plain answer costing standing as at court, and the proposal is a change of speech, one of them dropping from the high forms to the plain speech kept for kin and spouses and the other answering in kind as the yes.
+
+> Yes to: A sijo owed a sijo (Courtship is a verse exchange: the suitor's three lines are answered with three, and the last clause turns. A plain answer costs standing, as R70-110 rules at court); The speech level drops (The proposal is a change of speech: one of them drops from the high forms to the plain speech kept for kin and spouses, and the other answering in kind is the yes).
+
+### R73-27-COURTSHIP_LINEAGE_HALLS [Intimacy Law 2026-10-04 CO6]
+
+In the lineage halls a marriage is real when the husband's hall enters her in its book as 'of' her father's hall (a secondary wife entered lower, an unentered woman without standing in the hall), and a hall marries for a skill it lacks, its bride-gifts coming with a schedule of what her children will be taught, so that love is a clause and the halls say so.
+
+> Yes to: Entered in the book (A marriage is real when the husband's hall enters her in its book as 'of' her father's hall; a secondary wife is entered lower, and an unentered woman has no standing in the hall); Bought for the book (A hall marries for a skill it lacks, and the bride-gifts come with a schedule of what her children will be taught. Love is a clause, and the halls say so).
+
+### R73-28-DAWI_COURTSHIP [Intimacy Law 2026-10-04 CO7]
+
+A Dawi match is made backward, with no betrothal, by entering in the Tally in metre the acts the pair have already done for each other, the entry being the marriage, and courtship is 'Kurlo' said alone between two people with the 'Ei kurme' that would end a bargain left off, a thing unbegun and not refused.
+
+> Yes to: Entered, never promised (A Dawi match is made backward: the acts already done for each other are entered in the Tally in metre, and the entry is the marriage. There is no betrothal); Kurlo, the refusal unsaid (Courtship is 'Kurlo' said alone between two people, with the 'Ei kurme' that would end a bargain left off: a thing unbegun and not refused, the nearest the tongue comes to hope).
+
+### R73-29-CONSORTS_CONCUBINES_WIDOWS [Intimacy Law 2026-10-04 CO8]
+
+The lineage halls and the Moto enter a secondary wife or consort below the wife with her children's standing written there, the Accord allows one spouse and keeps a kept woman or man on an allowance quoted from the price table with children sine sigillo, a Kharven widow and her stack may pass to her dead man's brother if she takes the skin from him (refusing being her right and her hunger), and the Dawi Tally holds one marriage entry, a second partner being 'kurnur', unentered.
+
+> Yes to: Entered lower, in book (The lineage halls and the Moto enter a secondary wife or consort below the wife in the book or register; her children's standing is written there, and an unentered child is 'written in the wrong hand'); Accord: off the books (One spouse in Accord law. A kept woman or kept man lives on an allowance quoted from the price table, a scandal with a sum on it, and their children are sine sigillo); Kharven: the brother's widow (A Kharven widow and her stack may pass to her dead man's brother, wife or no wife, if she takes the skin from him, so no hearth goes cold; refusing is her right, and her hunger); Dawi: one entry only (The Tally holds one marriage entry. A second partner is an act nobody will stand behind, 'kurnur', unentered, and carries that swear in the hold).
+
+### R73-30-PLEASURE_TRADE [Intimacy Law 2026-10-04 CO18]
+
+The Draw Age keeps a trade in sex in each culture's own form (the Accord licensing houses under seal and inspection, Eastern courts keeping ranked quarters or verse-trained entertainers, the north keeping no house and trading in kind), entered in each Inventory's Mores field, its fees becoming price-table rows on Isaac's word.
+
+> Each culture's own form. The Accord licenses houses under seal and inspection, Eastern courts keep ranked quarters or verse-trained entertainers, the north keeps no house and trades in kind; entered in CO1's Mores field, fees as price-table rows on your word.
+
+### R73-31-MARRIAGE_POLITICS [Intimacy Law 2026-10-04 CO9]
+
+A political match in play runs as a Front whose ticks are betrothal, settlement, wedding and first heir, and a broken match fires the Front, so that someone pays.
+
+> A Front with a clock. A political match in play runs as a Front: betrothal, settlement, wedding and first heir are its ticks. A broken match fires the Front, and someone pays.
+
+### R73-33-CONCEPTION_AND_POX [Intimacy Law 2026-10-04 CO11]
+
+Every bed between partners who could conceive records its precaution (sheath, sponge, timing, a Draft, or none) in the notes, Natalie rules conception and the pox by period medicine and names what decided, and a pregnancy opens a Front.
+
+> Ruled openly, every time. Each bed between partners who could conceive records its precaution (sheath, sponge, timing, a Draft, or none) in the notes; Natalie rules conception and the pox by period medicine, names what decided, and a pregnancy opens a Front.
+
+### R73-34-LOVE_ACROSS_STAGE_GAP [Intimacy Law 2026-10-04 CO12]
+
+In a couple across a Stage gap the higher partner suppresses his Pressure at home every waking hour, his jaw, collar and temper carrying it and the household learning to read the bill, and a partner who holds a draining art may take the Pressure off by touch at that art's own price, traced to Fracture of Worlds before first use, love alone drawing nothing.
+
+> Yes to: He holds it, and pays (The higher partner suppresses at home every waking hour; his jaw, collar and temper carry it, and the household learns to read the bill); Drawn off by an art (A partner who holds a draining art, as Yorime does, may take the Pressure off by touch at that art's own price, traced to Fracture of Worlds before first use; love alone draws nothing).
 
 ### R46-2-NINE_ITEM_TIERS_NAMED [The Item Tiers 2026-09-25 The Nine Tiers]
 

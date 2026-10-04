@@ -3704,7 +3704,11 @@ rules:
     Not taken: option C, checks 24 to 26 (causal density, a stated fault, a reserve account) as WARN-level
     guesses, so R13-9-VERIFY_CHECKS_22_26''s checks 24 to 26 stay a manual read. R48-45-CHECKS is unchanged.
     R71-89-ITEM_CARD_FIGHT''s WARN on a set-off block between exchanges is built alongside, before the
-    test fight (R71-105-PROOF_ORDER_WORK).'
+    test fight (R71-105-PROOF_ORDER_WORK). Noted by R73-41-INTIMACY_CHECKS_VERIFY (intimacy law 2026-10-04):
+    its stale-touch watch (the hand on the arm, the jaw held, the kiss on the hair) runs ''as R71-103
+    does for fight devices'', and verify --explicit ''stops counting ''cock'' as gun vocabulary''. This
+    row names no firearms term, and the firearms list built for it (build/verify.py at HEAD) holds no
+    bare ''cock'', so nothing here changes. The school lists, the counts and the stale-device watch stand.'
 - id: R71-104-COMBAT_SAMPLE_BANK
   pack: Combat Law 2026-10-04
   pack_number: null

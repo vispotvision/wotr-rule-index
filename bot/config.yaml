@@ -25,3 +25,9 @@ page_size: 3600
 
 # Out-of-character dice. Avrae already lives in #dice-tray, so this stays off.
 ooc_dice: false
+
+# R72-40: whose Ledger lines a player sees on /ledger and /due. Discord user id (quoted) to the
+# characters they own, named as the Ledger's who field names them, e.g.
+#   "123456789012345678": [Their Character, Their Second Character]
+# Empty until the Judger fills it; a player with no entry sees nothing, the Judger and a Scribe see every line.
+players: {}

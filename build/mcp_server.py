@@ -580,7 +580,7 @@ def session_start(thread: str, scene_type: str = "standard", culture: str = "Kha
         import table as _T
         parts.append("# FRONTS AS CLOCKS\n\n" + _fronts_text(thread.split("/")[0].strip().split()[0] if thread else None))
         d = _T.due(2, None)
-        parts.append("# COMES DUE\n\n" + ("\n".join(f"[{r['id']}] ({r['category']}) {r['text']}" for r in d[:6]) if d else "nothing has aged enough yet; log sessions with session_end"))
+        parts.append("# COMES DUE\n\n" + ("\n".join(f"[{r['id']}] ({r['category']}) {r['text']}  why: {r['why']}" for r in d[:6]) if d else "nothing has come due (R72-22)"))
     except Exception as e:  # noqa: BLE001
         parts.append(f"# FRONTS AS CLOCKS\n\n(table unavailable: {e})")
     parts.append("# STANDING INVENTORY\n\n" + _inventory(culture))
@@ -595,7 +595,8 @@ def session_start(thread: str, scene_type: str = "standard", culture: str = "Kha
 
 
 @server.tool()
-def verify_scene(markdown: str, combat: bool = False, culture: str = "", band: str = "standard", school: str = "", turn: bool = False) -> str:
+def verify_scene(markdown: str, combat: bool = False, culture: str = "", band: str = "standard", school: str = "", turn: bool = False,
+                 explicit: bool = False) -> str:
     """Mechanical prose checks on a draft before it is posted: em dashes, antithesis,
     countdown negation, the Ladder, apparatus-as-subject, gloss watch, signposting,
     reification budget, sentence and paragraph variance (R4-14), length band,
@@ -604,10 +605,11 @@ def verify_scene(markdown: str, combat: bool = False, culture: str = "", band: s
     POV's school vocabulary (school: blade, japanese, chinese, korean, percussion,
     boxing, firearms, kharven; default from culture). turn=True caps readouts at
     two, for a roleplay turn.
+    explicit=True adds the explicit scene checks (R73-41): senses, consequence, floor guard, euphemisms.
     Fix every FAIL, read every WARN, then post."""
     import verify
     return verify.report(verify.run(markdown, combat=combat, culture=culture or None, band=band,
-                                    school=school or None, turn=turn))
+                                    school=school or None, turn=turn, explicit=explicit))
 
 
 @server.tool()
@@ -1191,7 +1193,7 @@ import table as T
 def _table_commit(msg: str) -> str:
     T.render()
     _git("add", "--", "table")
-    _git("commit", "-q", "-m", msg + "\n\nRecorded from the table via WOTR MCP.")
+    _git("commit", "-q", "-m", msg + "\n\nRecorded from the table via WOTR MCP.", "--", "table")  # only table/, never what another session staged
     code, out = _git("push", "-q", "origin", "master")
     return "pushed" if code == 0 else f"push failed: {out[-200:]}"
 
@@ -1204,23 +1206,24 @@ def _fronts_text(thread: str | None = None) -> str:
     for r in rows:
         pos, n = int(r.get("position", 0)), len(r["clock"])
         nxt = next((t["consequence"] for t in r["clock"] if t["tick"] == pos + 1), r.get("next_move", ""))
-        out.append(f"[{r['id']}] {r['name']} — {'●' * pos}{'○' * (n - pos)} {pos}/{n}\n  want: {r.get('want', '')}\n  last: {r.get('last_move', '')}\n  next tick: {nxt}")
+        pace = (f"a tick every {r['pace_days']} story days, {r.get('days_banked', 0)} spent" if r.get("pace_days")
+                else "none set, so the calendar never ticks it (R72-20)")
+        out.append(f"[{r['id']}] {r['name']} · {'●' * pos}{'○' * (n - pos)} {pos}/{n}\n  want: {r.get('want', '')}\n  last: {r.get('last_move', '')}\n  next tick: {nxt}\n  pace: {pace}")
     return "\n\n".join(out)
 
 
 @server.tool()
 def fronts(thread: str = "", include_closed: bool = False) -> str:
-    """The Fronts as clocks: each with its want, last move, position on its clock and
-    what the next tick does. Filter by thread ('Kharven', 'Korvaeth', 'Mu-jin')."""
+    """The Fronts as clocks: want, last move, position, the next tick and the pace in story days (R72-20).
+    Filter by thread ('Kharven', 'Korvaeth', 'Mu-jin'); clocks are never printed in play (R72-21)."""
     rows = T.fronts_for(thread or None, include_closed)
     return _fronts_text(thread or None) if rows else f"no Fronts match '{thread}'"
 
 
 @server.tool()
 def advance_front(front_id: str, what_happened: str, next_move: str = "") -> str:
-    """Tick a Front's clock by one: record what happened (the consequence the PC saw)
-    and, if you know it, what the next tick will be. At least one Front advances every
-    session (Table Rule 4). Resolves the Front when the clock fills."""
+    """Tick a Front's clock by one by hand, for a move his acts caused or sped, with the next tick if known.
+    The calendar ticks come from pass_time (R72-20); the Front resolves when its clock fills."""
     try:
         r = T.advance(front_id, what_happened, next_move)
     except KeyError:
@@ -1230,41 +1233,91 @@ def advance_front(front_id: str, what_happened: str, next_move: str = "") -> str
 
 
 @server.tool()
-def set_front_clock(front_id: str, ticks: list[str]) -> str:
-    """Write the consequences for each tick of a Front's clock (4 to 6 strings, the
-    last being how the Front resolves or breaks). Use it when a Front's clock needs rewriting after the story moves."""
+def set_front_clock(front_id: str, ticks: list[str] | None = None, pace_days: int | None = None) -> str:
+    """Rewrite a Front's clock (4 to 6 consequences, the last how it resolves or breaks) and/or its pace in story days per tick.
+    His acts can speed, slow or stop a Front (R72-20): pace_days=0 stops the calendar ticking it."""
     try:
-        r = T.set_clock(front_id, ticks)
+        r = T.set_clock(front_id, ticks, pace_days)
     except KeyError:
         return f"no Front with id '{front_id}'"
-    return f"{r['name']}: clock set, {len(ticks)} ticks; " + _table_commit(f"Front clock set: {r['name']}")
+    pace = f"pace {r['pace_days']} days" if r.get("pace_days") else "no pace"
+    return f"{r['name']}: {len(r['clock'])} ticks, {pace}; " + _table_commit(f"Front clock set: {r['name']}")
 
 
 @server.tool()
-def add_front(name: str, thread: str, want: str, ticks: list[str], next_move: str = "") -> str:
-    """Open a new Front: name, thread, what it wants, and its clock (4 to 6 consequences)."""
-    r = T.add_front(name, thread, want, ticks, next_move)
+def add_front(name: str, thread: str, want: str, ticks: list[str], next_move: str = "", pace_days: int | None = None) -> str:
+    """Open a new Front: name, thread, what it wants, its clock (4 to 6 consequences) and its pace in story days per tick (R72-20)."""
+    r = T.add_front(name, thread, want, ticks, next_move, pace_days)
     return f"opened Front [{r['id']}] {name} in {thread}; " + _table_commit(f"Front opened: {name}")
 
 
+def _offscreen_lines(ticks: list) -> list[str]:
+    return [f"agent ruling: Front ticked offscreen: [{r['id']}] {r['name']} {r['position']}/{len(r['clock'])} ({r['status']}): {r['last_move']}" for r in ticks]
+
+
 @server.tool()
-def due(sessions_old: int = 2, thread: str = "") -> str:
-    """What comes due tonight: open Ledger lines that have waited at least sessions_old
-    sessions (debts, who-knows-what, injuries, reputation), or whose stated due
-    condition should be judged now. Pick at least one per session (Table Rule 7)."""
-    rows = T.due(sessions_old, thread or None)
+def pass_time(thread: str, days: int = 0, story_date: str = "") -> str:
+    """Story time passes on a thread: every open Front there with a pace banks the days and ticks offscreen once per pace spent (R72-20).
+    story_date (Y-M-D in the Accord count, month 1 to 13, day 1 to 28) sets the thread's date, and given alone passes the days since the last one."""
+    if days < 0:
+        return "time does not run back; to correct a date, pass story_date alone"
+    try:
+        row, ticks = T.pass_time(thread, days, story_date)
+    except ValueError as e:
+        return f"not passed: {e}"
+    lines = [f"{row['thread']}: story date {row.get('story_date') or 'unset (pass story_date to hold one)'}"]
+    lines += _offscreen_lines(ticks) or ["no Front's days are spent"]
+    return "\n".join(lines) + "\n" + _table_commit(f"Time passes on {row['thread']}: {len(ticks)} offscreen tick(s)")
+
+
+@server.tool()
+def due(sessions_old: int = 2, thread: str = "", today: str = "") -> str:
+    """What has come due: Ledger lines whose story date has come (today, Y-M-D, or the thread's held date), whose trigger was marked fired, or whose clock is full (R72-22).
+    A line with neither (every row from before R72) keeps the old reading by sessions_old, marked 'no date or trigger yet'; the bill arrives as an offer with terms (R72-23)."""
+    rows = T.due(sessions_old, thread or None, today or None)
     if not rows:
-        return f"nothing older than {sessions_old} session(s) is waiting; {sum(1 for r in T.load('ledger') if r['status'] == 'open')} lines open. Session count is {T.session_count()}: log sessions with session_end so age accrues."
-    return "\n".join(f"[{r['id']}] ({r['category']}, {r['age_sessions']} session(s) old) {r['text']}" + (f"  due: {r['due']}" if r.get('due') and r['due'] != 'pending Natalie' else "") for r in rows[:12])
+        held = T.thread_date(thread) if thread else None
+        when = f"; story date {held}" if held else ("; no story date held for this thread (pass_time sets it)" if thread else "")
+        return f"nothing has come due; {sum(1 for r in T.load('ledger') if r['status'] == 'open')} lines open{when}"
+    return "\n".join(f"[{r['id']}] ({r['category']}, {r.get('thread') or 'no thread'}) {r['text']}\n  why: {r['why']}" for r in rows[:12])
 
 
 @server.tool()
-def ledger_add(category: str, who: str, text: str, due_after_sessions: int | None = None, due_condition: str = "") -> str:
-    """Enter a line on the Ledger: category (the dead | injuries and reserve | debts |
-    who knows what | reputation | canon conflicts), who, the line, and either a number of
-    sessions after which it comes due or a stated condition."""
-    r = T.ledger_add(category, who, text, due_after_sessions if due_after_sessions is not None else (due_condition or None))
-    return f"entered {r['id']} under '{category}'; " + _table_commit(f"Ledger: {r['id']} {who}")
+def ledger_add(category: str, who: str, text: str, due_after_sessions: int | None = None, due_condition: str = "",
+               thread: str = "", due_date: str = "", due_trigger: str = "", ticks: int | None = None, level: str = "") -> str:
+    """Enter a Ledger line with its thread and a due_date (story date, Y-M-D) or a named due_trigger (R72-22); due_condition is the old name for a trigger.
+    Categories: the dead, injuries and reserve, debts, who knows what, reputation, canon conflicts, bonds, heat (one per thread, level in words), projects (ticks 4 to 8), roads (ticks 4 to 6)."""
+    trig = due_trigger or due_condition
+    try:
+        r = T.ledger_add(category, who, text, due_after_sessions, thread, due_date, trig, ticks, level)
+    except ValueError as e:
+        return f"not entered: {e}"
+    gaps = ([] if thread else ["no thread"]) + ([] if r["category"] in T.STANDING or due_date or trig or ticks else ["no story date or trigger"])
+    return (f"entered {r['id']} under '{r['category']}'" + (f" ({', '.join(gaps)}, which R72-22 wants)" if gaps else "")
+            + "; " + _table_commit(f"Ledger: {r['id']} {who}"))
+
+
+@server.tool()
+def ledger_mark(entry_id: str, fed: str = "", strained: str = "", level: str = "", tick: int = 0, how: str = "") -> str:
+    """Mark a standing Ledger line: what fed or strained a bond (R72-24), heat raised or cooled to a level in words, or ticks filled on a project or road clock (R72-28, R72-29).
+    A full clock comes due through due(); how says what moved it."""
+    try:
+        r = T.ledger_mark(entry_id, fed, strained, level, tick, how)
+    except KeyError:
+        return f"no ledger line '{entry_id}'"
+    except ValueError as e:
+        return f"not marked: {e}"
+    return f"{r['id']}: {'; '.join(T._terms(r)) or r['category']}; " + _table_commit(f"Ledger marked: {r['id']}")
+
+
+@server.tool()
+def fire_trigger(trigger: str, thread: str = "") -> str:
+    """Mark a named trigger fired (words from it, or a line id): every open Ledger line waiting on it comes due (R72-22).
+    The close does this through session_end's fired list; call this when it fires mid-session."""
+    hit = T.fire(trigger, thread or None)
+    if not hit:
+        return f"no open line waits on '{trigger}'" + (f" in {thread}" if thread else "")
+    return "\n".join(f"fired [{r['id']}] {r['due_trigger']}: {r['text'][:120]}" for r in hit) + "\n" + _table_commit(f"Ledger fired: {trigger}")
 
 
 @server.tool()
@@ -1278,28 +1331,38 @@ def ledger_collect(entry_id: str, how: str) -> str:
 
 
 @server.tool()
-def roster(thread: str = "") -> str:
-    """The NPC roster for a thread: want, refusal line, what they know, what they have
-    lied about, last seen. Empty until npc_set fills it."""
+def roster(thread: str = "", public: bool = False) -> str:
+    """The NPC roster for a thread: want, refusal, what they know, the live lie and its tell, doing now and where they stand with him (R72-25, R72-26).
+    public=True prints only name, look, voice and role, the face a player may see (R72-40)."""
     rows = T.roster(thread or None)
     if not rows:
         return "roster empty" + (f" for '{thread}'" if thread else "") + "; use npc_set after a session to fill it"
-    return "\n".join(f"{r['name']} ({r.get('thread', '')}): wants {r.get('want') or '—'}; refuses {r.get('refusal_line') or '—'}; knows {'; '.join(r.get('knows') or []) or '—'}; lied about {'; '.join(r.get('lied_about') or []) or '—'}; last seen {r.get('last_seen') or '—'}" for r in rows)
+    if public:
+        return "\n".join(f"{r['name']}: " + ("; ".join(f"{k} {v}" for k, v in T.public_face(r).items()) or "no public face set") for r in rows)
+
+    def one(r):
+        s = (f"{r['name']} ({r.get('thread', '')}): wants {r.get('want') or 'unset'}; refuses {r.get('refusal_line') or 'unset'}; "
+             f"knows {'; '.join(r.get('knows') or []) or 'nothing logged'}; live lie {r.get('lie') or 'unset'} (tell: {r.get('tell') or 'unset'}); "
+             f"lied about {'; '.join(r.get('lied_about') or []) or 'nothing logged'}; doing now {r.get('doing_now') or 'unset'}; "
+             f"stands with him {r.get('stands_with') or 'unset'}; last seen {r.get('last_seen') or 'unset'}")
+        gap = "a want and no live lie" if r.get("want") and not r.get("lie") else "a live lie and no tell" if r.get("lie") and not r.get("tell") else ""
+        return s + (f"\n  R72-25: {gap}" if gap else "")
+    return "\n".join(one(r) for r in rows)
 
 
 @server.tool()
-def npc_set(name: str, thread: str, want: str = "", refusal_line: str = "", knows: list[str] | None = None, lied_about: list[str] | None = None, last_seen: str = "", voice: str = "") -> str:
-    """Create or update an NPC on the roster. Only the fields you pass change."""
-    r = T.npc_set(name, thread, want=want or None, refusal_line=refusal_line or None, knows=knows, lied_about=lied_about, last_seen=last_seen or None, voice=voice or None)
+def npc_set(name: str, thread: str, want: str = "", refusal_line: str = "", knows: list[str] | None = None, lied_about: list[str] | None = None, last_seen: str = "", voice: str = "",
+            lie: str = "", tell: str = "", doing_now: str = "", stands_with: str = "", look: str = "", role: str = "") -> str:
+    """Create or update an NPC on the roster; only the fields you pass change. lie and tell are the live lie and how it shows (R72-25); doing_now and stands_with (owed, slighted, warm, afraid, or words) are set at each close (R72-26); look and role are the public face."""
+    r = T.npc_set(name, thread, want=want or None, refusal_line=refusal_line or None, knows=knows, lied_about=lied_about, last_seen=last_seen or None, voice=voice or None,
+                  lie=lie or None, tell=tell or None, doing_now=doing_now or None, stands_with=stands_with or None, look=look or None, role=role or None)
     return f"roster: {r['name']} ({thread}) updated; " + _table_commit(f"Roster: {name}")
 
 
 @server.tool()
 def scene_menu(thread: str, culture: str = "Kharven") -> str:
-    """Three hooks when Isaac opens without a beat: one from a Front (the clock closest
-    to ticking), one from the Ledger (what is oldest and open), one fresh (a character
-    the archive has not seen lately plus a Standing Inventory item). The fresh hook is
-    yours to write; the first two are pulled from the table."""
+    """Three OOC hooks when Isaac opens without a beat, each with its source, reward and penalty (R72-17, R70-97): a Front, the Ledger, and a fresh one whose terms Natalie writes.
+    He picks in a word and the turn opens on that hook in the world."""
     fr = T.fronts_for(thread)
     fr.sort(key=lambda r: (-int(r.get("position", 0)), r.get("last_advanced") or ""))
     f = fr[0] if fr else None
@@ -1314,24 +1377,81 @@ def scene_menu(thread: str, culture: str = "Kharven") -> str:
     inv = _inventory(culture)
     m = re.search(r"\*\*Recurrence.*?:\*\*(.*?)(?:\.\s|\n)", inv, re.S)
     rec = m.group(1).strip() if m else ""
+    if f:
+        nxt = next((t["consequence"] for t in f["clock"] if t["tick"] == int(f.get("position", 0)) + 1), f.get("next_move", ""))
+        when = (f"within {int(f['pace_days']) - int(f.get('days_banked', 0))} story days" if f.get("pace_days") else "the next time story time passes")
+        hook1 = (f"(source: Front, {f['name']}) {nxt.rstrip('.')}. Reward: his hand on the clock, since what he does here can slow or stop it (R72-20). "
+                 f"Penalty: left alone, it ticks offscreen {when}.")
+    else:
+        hook1 = "(source: Front) no open Front on this thread; open one with add_front"
+    hook2 = (f"(source: Ledger, [{dl['id']}], {dl['why']}) {dl['text'].rstrip('.')}. Reward: he meets the bill on his own terms, and his answer to the offer is the move (R72-23). "
+             "Penalty: refused or ignored, it is collected outright the next time (R72-23)." if dl else "(source: Ledger) nothing has come due; pick the line closest to its date or trigger")
     return "\n".join([
-        f"# Scene Menu — {thread}",
+        f"# Scene Menu: {thread} (OOC)",
         "",
-        "1. FROM A FRONT: " + (f"{f['name']} — next tick: {next((t['consequence'] for t in f['clock'] if t['tick'] == int(f.get('position', 0)) + 1), f.get('next_move', ''))}" if f else "no open Front on this thread; open one with add_front"),
-        f"2. FROM THE LEDGER: " + (f"[{dl['id']}] {dl['text']}" if dl else "nothing due; pick the oldest open line by hand"),
-        f"3. FRESH: a character the archive has barely seen ({stale or 'run cast_index'}), through one of: {rec or 'the Standing Inventory'}. Write this one.",
+        f"1. {hook1}",
+        f"2. {hook2}",
+        f"3. (source: fresh) a character the archive has barely seen ({stale or 'run cast_index'}), through one of: {rec or 'the Standing Inventory'}. Reward: ____. Penalty: ____. Natalie writes the hook and both terms.",
         "",
-        "Rumor Mill: two or three pieces of world news in an NPC's mouth, some wrong, one of them hook 1 or 2.",
+        "He picks in a word; the turn opens on that hook in the world (R72-17).",
+        "Rumor Mill at session start and on each new place (R72-15, R72-16): a gossip's mouth, print where the Inventory gives literacy, or talk overheard; some of it wrong, one item hook 1 or 2.",
     ])
 
 
 @server.tool()
-def session_end(thread: str, scene_markdown: str, rulings: list[str] | None = None, notes: str = "") -> str:
-    """Draft the session close from the scene text: candidate Ledger lines (injuries,
-    debts, who-knows-what) with their sentences, a State of Play skeleton (where the PC
-    is, open questions), Front prompts, docket additions, Inventory entries; logs the
-    session so Ledger ages accrue. Returns the drafts for you to confirm and write to
-    Notion; nothing is written to the Notion pages by this tool."""
+def session_end(thread: str, scene_markdown: str, rulings: list[str] | None = None, notes: str = "",
+                ledger: list[dict] | None = None, fronts: list[dict] | None = None, npcs: list[dict] | None = None,
+                fired: list[str] | None = None, days: int = 0, story_date: str = "") -> str:
+    """Apply the session close and list each write once as an agent ruling, a call Isaac may overturn (R72-33, R72-2): days or story_date pass story time as pass_time does, fired marks triggers, ledger takes ledger_add fields, fronts takes front_id, what_happened and next_move, npcs takes npc_set fields with doing_now and stands_with for each named NPC (R72-26).
+    Logs the session and returns the writes, then a State of Play skeleton and what the scene text suggests that was not passed."""
+    applied, ticked, came = [], [], []
+
+    def act(label, fn):
+        try:
+            applied.append("agent ruling: " + fn())
+        except KeyError as e:
+            applied.append(f"not applied: {label}: unknown or missing {e}")
+        except (ValueError, TypeError) as e:
+            applied.append(f"not applied: {label}: {e}")
+
+    if days < 0:
+        applied.append("not applied: story time does not run back")
+    elif days or story_date:
+        try:
+            row, tk = T.pass_time(thread, days, story_date)
+            applied.append(f"agent ruling: story time on {row['thread']}: date now {row.get('story_date') or 'unset'}")
+            applied += _offscreen_lines(tk)
+            ticked += [r["id"] for r in tk]
+        except ValueError as e:
+            applied.append(f"not applied: story time: {e}")
+    for trig in fired or []:
+        hit = T.fire(trig, thread)
+        came += [r["id"] for r in hit]
+        applied.append(f"agent ruling: fired '{trig}': {', '.join(r['id'] for r in hit)}" if hit else f"not applied: no open line waits on '{trig}'")
+    for a in ledger or []:
+        def w(a=a):
+            r = T.ledger_add(a["category"], a.get("who", ""), a["text"], a.get("due_after_sessions"), a.get("thread") or thread,
+                             a.get("due_date", ""), a.get("due_trigger") or a.get("due_condition", ""), a.get("ticks"), a.get("level", ""))
+            return f"Ledger {r['id']} entered ({r['category']}; {'; '.join(T._terms(r))}): {r['text'][:160]}"
+        act(f"Ledger line '{str(a.get('text', ''))[:60]}'", w)
+    for a in fronts or []:
+        def w(a=a):
+            r = T.advance(a["front_id"], a["what_happened"], a.get("next_move", ""))
+            ticked.append(r["id"])
+            return f"Front advanced: [{r['id']}] {r['name']} {r['position']}/{len(r['clock'])} ({r['status']}): {r['last_move']}"
+        act(f"Front '{a.get('front_id')}'", w)
+    keys = ("want", "refusal_line", "knows", "lied_about", "last_seen", "voice", "lie", "tell", "doing_now", "stands_with", "look", "role")
+    for a in npcs or []:
+        def w(a=a):
+            f = {k: a[k] for k in keys if a.get(k)}
+            r = T.npc_set(a["name"], a.get("thread") or thread, **f)
+            return f"roster: {r['name']}: " + "; ".join(f"{k} {v if isinstance(v, str) else '; '.join(v)}" for k, v in f.items())
+        act(f"roster '{a.get('name')}'", w)
+    named = {str(a.get("name", "")).lower() for a in npcs or []}
+    owed = [r["name"] for r in T.roster(thread) if r["name"].lower() not in named]
+    log = T.session_log(thread, ticked, came, notes, rulings=[x for x in applied if x.startswith("agent ruling")])
+    pushed = _table_commit(f"Session {log['n']} closed: {thread}, {len(applied)} write(s)")
+
     text = scene_markdown
     sents = [s.strip() for s in re.split(r"(?<=[.!?])\s+", re.sub(r"\s+", " ", text)) if s.strip()]
     def pick(rx):
@@ -1349,28 +1469,29 @@ def session_end(thread: str, scene_markdown: str, rulings: list[str] | None = No
             if re.search(r"(?<!\w)" + re.escape(n.split()[0]) + r"(?!\w)", text):
                 names.append(n)
     last_par = [p for p in re.split(r"\n\s*\n", text) if p.strip()][-1].strip() if text.strip() else ""
-    fr = T.fronts_for(thread)
-    log = T.session_log(thread, [], [], notes)
-    out = [f"# Session {log['n']} close — {thread} — {log['date']}", "",
-           "## State of Play (rewrite the page from this skeleton)",
-           f"- Where the PC is: {last_par[:300]}",
-           "- Open questions the scene raised: " + ("; ".join(q[:120] for q in questions) or "none caught"),
-           f"- Named characters present: {', '.join(names) or 'none matched the cast index'}",
-           "",
-           "## Ledger candidates (enter the ones that are real with ledger_add)"]
+    out = [f"# Session {log['n']} close: {thread}, {log['date']}", "",
+           "## Applied (each an agent ruling, a call Isaac may overturn: R72-2, R72-33)"]
+    out += [f"- {x}" for x in applied] or ["- nothing passed: give ledger, fronts, npcs, fired, days or story_date to apply the close"]
+    if owed:
+        out += ["", "## Owed a doing_now and stands_with line at this close (R72-26)", "- " + ", ".join(owed)]
+    out += ["", "## State of Play (rewrite the page from this skeleton)",
+            f"- Where the PC is: {last_par[:300]}",
+            "- Open questions the scene raised: " + ("; ".join(q[:120] for q in questions) or "none caught"),
+            f"- Named characters present: {', '.join(names) or 'none matched the cast index'}",
+            "",
+            "## In the scene text and not passed above (enter any that still bind)"]
     for label, rows in (("injuries and reserve", injuries), ("debts", debts), ("who knows what", knows), ("reputation", reputation)):
         out.append(f"### {label}")
-        out += [f"- {s[:200]}" for s in rows] or ["- (none caught; add by hand)"]
-    out += ["", "## Ignorance and lies (Table Rule 8)", "- The one thing the PC noticed and you did not explain: ____",
-            "- The lie an NPC told that stays uncorrected: " + ("; ".join(l[:120] for l in lies) or "____"),
-            "", "## Fronts (advance at least one with advance_front)"]
-    out += [f"- [{r['id']}] {r['name']}: at {r.get('position', 0)}/{len(r['clock'])}; next tick: {next((t['consequence'] for t in r['clock'] if t['tick'] == int(r.get('position', 0)) + 1), '')}" for r in fr] or ["- no Fronts on this thread"]
-    out += ["", "## Docket additions (log_ruling for rulings Isaac made; propose_rule for anything you originated)"]
+        out += [f"- {s[:200]}" for s in rows] or ["- none caught"]
+    out += ["", "## Lies (R72-25: every roster NPC with a want carries a live lie and its tell; roster flags the gaps)",
+            "- Lies the text names: " + ("; ".join(l[:120] for l in lies) or "none caught"),
+            "", "## Fronts now"]
+    out += [f"- [{r['id']}] {r['name']}: at {r.get('position', 0)}/{len(r['clock'])}; next tick: {next((t['consequence'] for t in r['clock'] if t['tick'] == int(r.get('position', 0)) + 1), '')}" for r in T.fronts_for(thread)] or ["- no Fronts on this thread"]
+    out += ["", "## Docket additions (log_ruling for rulings; propose_rule for anything you originated)"]
     out += [f"- {r}" for r in (rulings or [])] or ["- none stated"]
     out += ["", "## Standing Inventory: anything invented this scene gets entered the same session (R6-9-RECURRENCE_RULE): ____",
             "", "## Archive: archive_scene(title, markdown, author_notes) when the scene is final.",
-            "", f"Session logged (n={log['n']}); Ledger ages now accrue against it."]
-    _table_commit(f"Session {log['n']} logged: {thread}")
+            "", f"Session logged (n={log['n']}); table {pushed}."]
     return "\n".join(out)
 
 

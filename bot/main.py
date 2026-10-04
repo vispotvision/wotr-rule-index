@@ -25,7 +25,7 @@ sys.path.insert(0, str(BOT_DIR.parent / "build"))
 import common  # noqa: E402,F401  (reads ~/.config/wotr/env into the environment at import)
 
 CFG = yaml.safe_load((BOT_DIR / "config.yaml").read_text(encoding="utf-8"))
-COGS = ["cogs.lookup", "cogs.build", "cogs.audio", "cogs.scenes", "cogs.sheets", "cogs.craft"]
+COGS = ["cogs.lookup", "cogs.build", "cogs.audio", "cogs.scenes", "cogs.sheets", "cogs.craft", "cogs.table"]
 
 log = logging.getLogger("wotr")
 

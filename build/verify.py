@@ -2,7 +2,7 @@
 """Mechanical prose checks derived from the rule index and the AI-tells guide.
 
   python build/verify.py draft.md [--combat] [--school blade|japanese|chinese|korean|percussion|boxing|firearms|kharven]
-                         [--culture Kharven] [--band standard|set-piece|conversational] [--turn]
+                         [--culture Kharven] [--band standard|set-piece|conversational] [--turn] [--explicit]
 
 Every check names the rule it enforces. FAIL is a rule with a hard number or an
 outright ban; WARN is a pattern that needs a human read (the FID carve-out, the
@@ -12,6 +12,7 @@ import argparse
 import re
 import statistics
 import sys
+from functools import lru_cache
 from pathlib import Path
 
 EM_DASH = re.compile(r"[—–]|(?<!-)--(?!-)")
@@ -129,6 +130,7 @@ SCHOOLS = {
                              r"|rebound\w*|poll|spikes?|(?-i:the (?:Settling|Sweep|Shove|Return)))\b", re.I),
     "boxing": re.compile(r"\b(?:jab(?:s|bed|bing)?|cross|hooks?|uppercuts?|haymakers?|overhands?|clinch\w*|southpaw|orthodox|teeps?|plum|body shots?|liver shots?|counterpunch\w*|combinations?"
                          r"|footwork|bob(?:bed|bing)?|weav(?:e|ed|ing)|slip(?:s|ped|ping)?|roundhouse|feints?|guard|pivot\w*|(?:elbow|knee) strikes?|straight (?:right|left)|short (?:right|left))\b", re.I),
+    # R73-41 (ME2 A): 'cock' is the body's word and stays off this list ('cocked the hammer' counts the hammer).
     "firearms": re.compile(r"\b(?:guns?|gun(?:fire|powder|shots?|smoke)|hammers?|percussion caps?|muzzles?|cylinders?|volleys?|reload\w*|ramrods?|rifle[ds]?|revolvers?|flintlocks?|muskets?|pistols?"
                            r"|carbines?|cartridges?|powder|priming|frizzen|breech\w*|barrels?|wad(?:ding)?|trigger\w*|misfire[ds]?)\b", re.I),
     # The Kharven Standing Inventory (desktop/NATALIE.md) and the hall fights in the archive; R71-53's
@@ -177,6 +179,43 @@ STALE = {
     "'without deciding to'": re.compile(r"\bwithout (?:(?:his|her|their|my|its) )?(?:having )?(?:deciding|decided) to\b", re.I),
     "'the particular X of Y'": re.compile(r"\bthe particular (?:[\w'’-]+ ){1,3}?of\b", re.I),
 }
+# R73-41 (ME2 D): the archive's repeated touches (imports/drafts/intimacy-questionnaire/work/
+# research-house.md §12), WARN past one a scene like STALE. A resting hand, not a grip on 'the arm of'
+# a chair; a fist or a palm-heel to the jaw is a blow and passes.
+_POSS = r"(?:" + _P + r"|[A-Z][\w'’-]*['’]s)"
+STALE_TOUCH = {
+    "the hand on the arm": re.compile(r"\bhands?\b(?: [\w'’-]+){0,3}? on " + _POSS + r" (?:fore)?arm\b(?! of\b)"),
+    "the jaw held": re.compile(r"\b(?:took|takes?|taking|held|holds?|holding|cupp\w*|cradl\w*)(?: hold of)? " + _POSS + r" jaw\b|\bby the jaw\b"
+                               r"|\b(?:fingers?|thumbs?)\b(?: [\w'’-]+){0,2}? (?:to|on|along|under|beneath|against) (?:a |" + _POSS + r" )jaw\b"
+                               r"|\b(?:hands?|palms?)\b(?: [\w'’-]+){0,2}? (?:on|along|around|cupping|under|beneath) " + _POSS + r" jaw\b"),
+    "the kiss on the hair": re.compile(r"\bkiss\w*\b(?: [\w'’-]+){0,4}? (?:" + _POSS + r"|the) (?:hair|(?:top|crown) of (?:" + _POSS + r"|the) head)\b"
+                                       r"|\blips\b(?: [\w'’-]+){0,3}? (?:to|on|against|into) " + _POSS + r" hair\b"),
+}
+# R73-41 (ME2 A), --explicit: Rule 9's scents in every scene (R73-9), its onomatopoeia committed with
+# R70-133's mimetic words beside it, kept roman, and a consequence in the notes (Rule 9, R73-18).
+# TODO R70-22: add each Inventory's sound and state words once the Inventories carry them (none do
+# yet); until then a reduplicated romanised word (nuru-nuru, dugeun-dugeun) counts as mimetic.
+SMELL = re.compile(r"\b(?:smell\w*|smelt|scent\w*|stink\w*|stank|stench|reek\w*|musk\w*|odou?rs?|aromas?|whiffs?|sniff\w*|perfume\w*|fragran\w*)\b", re.I)
+SOUND = re.compile(r"\b(?:slap\w*|smack\w*|squelch\w*|squish\w*|creak\w*|thud\w*|thump\w*|gasp\w*|moan\w*|groan\w*|grunt\w*|whimper\w*|hiss\w*|rasp\w*|pant(?:ed|ing)"
+                   r"|sigh(?:s|ed|ing)?|slurp\w*|sob(?:s|bed|bing)?|mewl\w*|keen(?:ed|ing)|yelp\w*|growl\w*|purr\w*|rustl\w*|crackl\w*|click\w*|pop(?:s|ped|ping)?|wet sound)\b", re.I)
+MIMETIC = re.compile(r"\b([a-z]{2,7})-\1\b|\b(?:kyun|dokun)\b", re.I)
+CONSEQUENCE = re.compile(r"\bconsequen", re.I)
+# R73-41 (ME2 C), R49-51: bed euphemisms FAIL in narration; a mouth or an italic thought may be coy.
+# 'his length' is on, judged a plain euphemism ('his length of rope' passes). --explicit only: the
+# archive has 'her core' for an Essence Core and 'toward manhood' for age, and 'of manhood' passes.
+EUPHEMISM = re.compile(r"\b[Hh]is member\b|\b[Hh]er sex\b|(?<!into )(?<!toward )(?<!towards )(?<!of )\b[Mm]anhood\b|\b[Hh]er core\b|\b[Hh]is length\b(?! of\b)")
+# R73-41 (ME2 B), the floor guard: each card or table roster entry named in an explicit scene, by full
+# name or a first name no other shares, and the age its Age field (a roster 'age:' line) gives. The
+# roster carries no ages yet, so its people WARN as unaged until it does.
+WIKI = Path(__file__).resolve().parent.parent / "wiki"
+ROSTER = WIKI.parent / "table" / "npcs.yaml"
+CARD_DIRS = ("Volume I \u2014 Character Cards", "Characters")
+NAME_TITLES = {"The", "Lord", "Lady", "Sir", "Ser", "Dr.", "Commander", "Elder", "Captain"}
+AGE_FIELD = re.compile(r"\*\*Age(?:\s*/\s*\w+)?[:.]?\*\*[ \t]*[:.·|]?[ \t]*([^·|\n]+)|(?:^|\.[ \t])Age (\d{1,4})\.", re.M)
+_NUM = "zero one two three four five six seven eight nine ten eleven twelve thirteen fourteen fifteen sixteen seventeen eighteen nineteen".split()
+_TENS = {w: 10 * i for i, w in enumerate("twenty thirty forty fifty sixty seventy eighty ninety".split(), 2)}
+AGE_NUM = (r"(?:(\d[\d,]*)(?![\d,])|\b(" + "|".join(_TENS) + r")(?:-(" + "|".join(_NUM[1:10]) + r"))?(?!-)\b|\b(" + "|".join(_NUM) + r")\b)"
+           r"(?:\s+(hundred|thousand))?(?!\s+years?\s+(?:older|younger))")
 
 KHARVEN_RECURRENCE = {
     "the woodpile / how's your stack": re.compile(r"woodpile|how['’]s your stack|your stack", re.I),
@@ -213,6 +252,47 @@ def school_for(culture: str | None) -> str:
     return next((s for s, keys in SCHOOL_CULTURES.items() if any(k in c for k in keys)), "blade")
 
 
+def card_age(field: str) -> int | None:
+    """The body's age from a card's Age field, never a soul's (R73-41, ME2 B): a figure tagged body or
+    vessel first ('body 16', '17 (body)'), else a figure leading the field's first sentence ('Late
+    twenties', '~50', 'Roughly 1,600 years') when it names no soul. 'Three years older than his
+    brother', '400 (soul)', 'Not recorded' and the like give None."""
+    v = re.sub(r"ies\b", "y", field.replace("*", "").split(". ")[0].lower())
+    m = (re.search(r"\b(?:body|vessel)\W+(?:age\W+)?" + AGE_NUM, v) or re.search(AGE_NUM + r"\W+(?:body|vessel)\b", v)
+         or "soul" not in v and re.match(r"(?:[\s~(-]|\b(?:about|around|roughly|nearly|apparently|appears|looks|indeterminate|early|mid|late)\b)*" + AGE_NUM, v))
+    if not m:
+        return None
+    d, tens, unit, small, mult = m.groups()
+    n = int(d.replace(",", "")) if d else _TENS[tens] + _NUM.index(unit or "zero") if tens else _NUM.index(small)
+    return n * {"hundred": 100, "thousand": 1000}.get(mult, 1)
+
+
+@lru_cache(maxsize=None)
+def cards() -> tuple:
+    """(regex, {name or first name: [(name, age)]}) over the character cards and the table roster, read once a run."""
+    found = []
+    for d in CARD_DIRS:
+        for p in sorted((WIKI / d).glob("*.md")):
+            name = re.split(r" · | \u2014 | \(|, ", p.stem)[0].strip()
+            if name.split()[0] == "Volume":
+                continue
+            m = AGE_FIELD.search(p.read_text(encoding="utf-8", errors="replace"))
+            found.append((name, None if not m else card_age(m.group(1)) if m.group(1) is not None else int(m.group(2))))
+    for e in re.split(r"(?m)^- ", ROSTER.read_text(encoding="utf-8")) if ROSTER.exists() else ():
+        if n := re.search(r"(?m)^ *name: *['\"]?(.+?)['\"]? *$", e):
+            m = re.search(r"(?m)^ *age: *(.+)$", e)
+            found.append((n.group(1), m and card_age(m.group(1))))
+    by_key, firsts = {}, {}
+    for name, age in found:
+        by_key.setdefault(name, []).append((name, age))
+        firsts.setdefault(name.split()[0], set()).add(name)
+    for f, names in firsts.items():
+        if len(names) == 1 and len(f) > 2 and f not in NAME_TITLES and f not in by_key:
+            by_key[f] = by_key[next(iter(names))]
+    rx = re.compile(r"\b(?:" + "|".join(map(re.escape, sorted(by_key, key=len, reverse=True))) + r")\b") if by_key else None
+    return rx, by_key
+
+
 def readouts(body: str) -> list[tuple[str, bool]]:
     """One (paragraph, near) per readout (R70-86): a whole-line bracket line or a '>' block with a
     figure in it; readout lines split only by blank lines are one readout. near: one prose paragraph
@@ -235,9 +315,10 @@ def readouts(body: str) -> list[tuple[str, bool]]:
     return out
 
 
-def run(text: str, combat: bool = False, culture: str | None = None, band: str = "standard", school: str | None = None, turn: bool = False) -> dict:
+def run(text: str, combat: bool = False, culture: str | None = None, band: str = "standard", school: str | None = None, turn: bool = False,
+        explicit: bool = False) -> dict:
     fails, warns, info = [], [], []
-    text = NOTES.split(text, maxsplit=1)[0]  # author notes are not measured
+    text, *notes = NOTES.split(text, maxsplit=1)  # author notes are not measured; --explicit reads them for the consequence
     raw = text
     body = strip_md(text)
     paragraphs = [p.strip() for p in re.split(r"\n\s*\n", READOUT.sub("", body)) if p.strip()]
@@ -463,11 +544,12 @@ def run(text: str, combat: bool = False, culture: str | None = None, band: str =
     for p, near in ro:
         if near:
             warns.append(f"two readouts in one exchange (one prose paragraph or less apart): \"{' '.join(p.split())[:90]}...\" (R70-86-MANY_READOUTS_SCENE_CARRIES, R71-103-COMBAT_CHECKS_VERIFY_SCENE)")
-    for name, rx in STALE.items():
-        hits = [(x, m) for x in narr_sents if (m := rx.search(x))]
-        if len(hits) > 1:
-            x, m = hits[0]
-            warns.append(f"stale device: {name} in {len(hits)} sentences of narration, past one a scene, first \"...{x[max(0, m.end() - 70):m.end() + 20]}...\" (R71-103-COMBAT_CHECKS_VERIFY_SCENE)")
+    for kind, devices, rid in (("device", STALE, "R71-103-COMBAT_CHECKS_VERIFY_SCENE"), ("touch", STALE_TOUCH, "R73-41-INTIMACY_CHECKS_VERIFY")):
+        for name, rx in devices.items():
+            hits = [(x, m) for x in narr_sents if (m := rx.search(x))]
+            if len(hits) > 1:
+                x, m = hits[0]
+                warns.append(f"stale {kind}: {name} in {len(hits)} sentences of narration, past one a scene, first \"...{x[max(0, m.end() - 70):m.end() + 20]}...\" ({rid})")
 
     # --- culture recurrence (R6-9) -----------------------------------------
     if culture and culture.lower() == "kharven":
@@ -492,6 +574,33 @@ def run(text: str, combat: bool = False, culture: str | None = None, band: str =
             s_ = p[max(0, m.start() - 50):m.end() + 10].replace("\n", " ")
             warns.append(f"figure carried between exchanges: {len(run_)} paragraphs carry a reserve figure (EU, AU/s, eta), first \"...{s_.strip()}...\"; "
                          "read whether it runs a count (R70-88-NUMBERS_INSIDE_FIGHT, R71-103-COMBAT_CHECKS_VERIFY_SCENE)")
+
+    # --- explicit mode (R73-41, ME2 A, B and C) --------------------------------
+    if explicit:
+        if not SMELL.search(body):
+            warns.append("no smell word in an explicit scene: Rule 9's scents appear in every scene (R73-9-SENSE_LEADS, R73-41-INTIMACY_CHECKS_VERIFY)")
+        if not (SOUND.search(body) or MIMETIC.search(body)):
+            warns.append("no sound or mimetic word in an explicit scene: onomatopoeia committed (Table Rule 9, R70-133-EASTERN_TECHNIQUES_BESIDE_CLINICAL, R73-41-INTIMACY_CHECKS_VERIFY)")
+        for m in ITALIC.finditer(body):
+            if MIMETIC.fullmatch(m.group(1).strip(" .,;:!?")):
+                warns.append(f"italicised mimetic word: \"*{m.group(1)}*\" (R70-133-EASTERN_TECHNIQUES_BESIDE_CLINICAL: romanised and never italic, R73-41-INTIMACY_CHECKS_VERIFY)")
+        if not any(CONSEQUENCE.search(n) for n in notes):
+            warns.append("no consequence line in the author notes: the scene has a consequence afterward (Table Rule 9, R73-41-INTIMACY_CHECKS_VERIFY)")
+        seen = set()
+        for m in EUPHEMISM.finditer(narr_plain):
+            if m.group(0).lower() not in seen:
+                seen.add(m.group(0).lower())
+                s_ = narr_plain[max(0, m.start() - 50):m.end() + 30].replace("\n", " ")
+                fails.append(f"bed euphemism in narration: \"{m.group(0)}\" in \"...{s_.strip()}...\" (R49-51-EXPLICIT, R73-41-INTIMACY_CHECKS_VERIFY; free in a mouth)")
+        rx, by_key = cards()
+        named = {n: a for k in (set(rx.findall(raw)) if rx else ()) for n, a in by_key[k]}
+        for n, a in sorted(named.items()):
+            if a is not None and a < 18:
+                fails.append(f"floor guard: {n} is {a} on file, under eighteen, named in an explicit scene (R73-41-INTIMACY_CHECKS_VERIFY, NATALIE.md floor)")
+        if unaged := sorted(n for n, a in named.items() if a is None):
+            warns.append(f"floor guard: no age on file for {', '.join(unaged)}; a partner's card or roster entry needs the body's adult age before drafting (R73-41-INTIMACY_CHECKS_VERIFY)")
+        if named:
+            info.append("floor guard, named on file: " + ", ".join(f"{n} {'?' if a is None else a}" for n, a in sorted(named.items())))
 
     return {"fails": fails, "warns": warns, "info": info}
 
@@ -536,11 +645,12 @@ def main() -> int:
     ap.add_argument("--band", default="standard", choices=list(BANDS))
     ap.add_argument("--echoes", action="store_true", help="also warn on word echoes (book chapters)")
     ap.add_argument("--turn", action="store_true", help="the text is a roleplay turn: two readouts, not three (R70-86)")
+    ap.add_argument("--explicit", action="store_true", help="an explicit scene: Rule 9's senses and consequence, the floor guard, bed euphemisms (R73-41)")
     a = ap.parse_args()
     if hasattr(sys.stdout, "reconfigure"):
         sys.stdout.reconfigure(encoding="utf-8")
     text = Path(a.file).read_text(encoding="utf-8", errors="replace")
-    res = run(text, combat=a.combat, culture=a.culture, band=a.band, school=a.school, turn=a.turn)
+    res = run(text, combat=a.combat, culture=a.culture, band=a.band, school=a.school, turn=a.turn, explicit=a.explicit)
     if a.echoes:
         res["warns"] += echoes(text)
     print(report(res))

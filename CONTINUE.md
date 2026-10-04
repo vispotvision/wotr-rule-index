@@ -6,6 +6,41 @@ direction: inside work he has asked for, make the calls; no "pending" slots.
 append a dated block, do not rewrite older ones (two sessions write this repo
 at once — `git pull` before editing, and commit only your own files).
 
+## State on 2026-10-04, night (four more laws landed: R72 to R75)
+
+**Isaac answered all four questionnaires in chat** and they are law, each logged through log_ruling, rowed,
+adversarially checked and merged. No old row was superseded by any of them; every change is a note on the row it
+amends. Validate: 1,734 rules across 75 files. Records in `imports/drafts/{table,intimacy,mystery,techniques}-questionnaire/`.
+
+- **R72, the Table Law** (`rules/doc-table-law-2026-10-04.yaml`, 43 rows). Natalie makes every call herself and
+  logs it as an agent ruling (K2); the session close is applied, not proposed (WD14); Desktop turns about 3,500,
+  Discord posts about 1,500 (K3); standing orders in any scene (K5); Fronts tick by the calendar (WD1); Ledger lines
+  carry a thread and a date or trigger (WD3). Tools (fdbed93): `ledger_mark`, `fire_trigger`, `pass_time`, paced
+  Fronts, roster lie and tell, doing-now and stands-with, public faces; table writes commit only `table/`. Bot:
+  `/ledger`, `/due`, `/roster`, `/npc` (`bot/cogs/table.py`); the bot was NOT restarted and `players:` in
+  `bot/config.yaml` is empty, so players see nothing yet. Data reconciled (e3cb180): see
+  `imports/drafts/table-questionnaire/reconciliation.md`. State of Play drafts in `state-of-play/`, NOT published
+  (one closes Hild Ice's page; one folds Mu-jin and Hon-guk into one Academy thread).
+- **R73, the Intimacy Law** (43 rows). Explicit scenes always on the page (K2); one crude English in narration,
+  culture words in mouths (SC1); marks on the body go on the Ledger (K5). verify.py `--explicit` (ac74410): senses,
+  consequence line, euphemism bans, stale touches, and the floor guard (card or roster age under eighteen FAILs).
+  Lei Yanshu's roster entry now carries `age: 14`.
+- **R74, the Mystery Law** (46 rows). Fair-play terms plus the challenge mark (K2); C-125 ruled by MY15 (no Watch file
+  names Malphas). Its verify checks (ME3: cosmic stock words, stale not-knowing lines, planted signs for reveals) are
+  NOT built yet.
+- **R75, the Techniques Law** (47 rows). Signatures on their own pages, school arts on the school's (K1); a counter at
+  every phase of contact (K5); a table head over the seventeen sections (CH1); three rungs (CH2).
+
+**Test scenes, not archived, waiting on Isaac's read:** `~/wotr-drafts/the-tolling.md` (R71) and
+`~/wotr-drafts/beads-on-the-night-stone.md` (R73, 5,007 words, a Kharven half and a Moto half, 0 FAIL 0 WARN with
+`--explicit`).
+
+**Next, each law's own method order:** R72 two tests (one Desktop session start to close, one Discord scene through
+the loop), then NATALIE.md and the four table skills; R73 amend after Isaac's read, then Inventory courtship and
+mores fields, guide sections and the bank; R74 its checks, the craft guide and NATALIE.md; R75 the converter and
+skeleton, three test cards and a fight they decide, then the card sweep. Combat (R71) still owes its guide editions
+and bank after Isaac reads The Tolling.
+
 ## State on 2026-10-04, later (the Combat Law R71 landed; four questionnaires in build)
 
 **R71 is law.** `rules/doc-combat-law-2026-10-04.yaml`, R71-1 to R71-105 (commit 957dd2b). Two rows superseded on

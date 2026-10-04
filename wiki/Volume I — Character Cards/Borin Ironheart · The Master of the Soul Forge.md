@@ -1,13 +1,12 @@
 ---
 title: "Borin Ironheart · The Master of the Soul Forge"
 notion_id: "3b758200-eb22-81cb-900e-e420731e32cc"
-notion_url: "https://app.notion.com/p/Borin-Ironheart-The-Master-of-the-Soul-Forge-3b758200eb2281cb900ee420731e32cc"
+notion_url: "https://www.notion.so/3b758200eb2281cb900ee420731e32cc"
 section: "Volume I — Character Cards"
 tags: []
-last_edited: "2026-09-27T04:14:00.000Z"
+last_edited: "2026-10-04T01:29:03"
 verification: null
 ---
-
 # Borin Ironheart · The Master of the Soul Forge
 
 ## I. IDENTITY
@@ -19,6 +18,7 @@ verification: null
 **Race:** Dwarf — High Dawi (Varūn Descent), Rune-Forger lineage
 **Age:** 487 (estimate — High Dawi aging is geological; he has been forging since before most human kingdoms existed and considers anyone under two centuries a child)
 **Sex:** Male
+**Kin:** Torin, the eldest brother, hold-reeve of Varrak-Thur and keeper of its Tally; Kalrin, the youngest, a cooper of the cask-hall, called Snorin by every Common mouth. Borin is the middle brother. (Named by Isaac, 2026-10-04, R70-126.)
 **Realm / Faction:** Forgehold of Varrak-Thur, deep halls beneath the Guild Seat of Stannvaard. Operates the Soul Forge within the Adamant Vaults — a sealed chamber-complex predating the Guild Accord’s founding, accessible only through the High Dawi tunnel-network. Politically neutral by long-standing tradition; kings, Guild factors, and condemned men alike petition the Forge on equal footing. Borin answers to the Dawi geometric law and to Varūn’s principle of endurance, and to nothing else with a shorter pedigree.
 **Catalyst Event (Stage XII — Emanation):** Borin attempted to reforge the Soul Crystal of his former apprentice Thurgan Ashmantle, who had suffered catastrophic Materia corruption — Petrification Compulsion in its terminal expression, the flesh mineralizing from the extremities inward. Thurgan’s Crystal still held structure. Borin was certain the Forge could save him. It could not. Thurgan’s remaining consciousness chose dissolution over reconstruction, and Borin had to hold the quench steady while the Forge consumed his apprentice rather than saved him. The Dissonance was the collision between Borin’s fundamental principle — permanence, endurance, things made to last — and the universe’s answer that some things reach a state where lasting is the cruelty. He emerged understanding that permanence is a gift offered, not a sentence imposed. The fractures in his Crystal are the places where he stopped insisting.
 
@@ -309,4 +309,6 @@ He sits among the six. Every record leaves his oath-name empty. Beneath the Guil
 - **Sonzai** · sworn to. Borin worked his chains inside the bounds he set and left what slept beneath them asleep.
 - **Thurgan Ashmantle** · apprentice, dead. The Forge could not save him. He chose dissolution while Borin held the quench.
 - **The seven Requiem constructs** · bound by him. Each cost Borin something that did not grow back. He checks on them the way a father checks on children who have left home.
+- **Torin** · eldest brother. Hold-reeve of Varrak-Thur, who enters the hold's acts in the Tally in the old metre. He has not laughed at one of Borin's jokes in three hundred years, and the cask-hall keeps the count cut in a rack post.
+- **Kalrin, called Snorin** · youngest brother. A cooper who slept on the cask-stack for three centuries at Murmuring and Welled holding it up when the main burst at the Drawing-Off (*The Drawing-Off*).
 - **Varūn the Deepwright** · doctrine. Borin's practice argues that Varūn's principle of endurance was correct. He has never asked Varūn to confirm it.

@@ -110,7 +110,7 @@ The current let go of him a moment later. His knees came unlocked and he sat dow
 
 The line came when the shaking reached his jaw.
 
-[Stage II, Welling. Tier of Standing 2, Apprentice.]
+[Stage II, Welling. Apprentice.]
 [Grade ceiling D. Level ceiling 100.]
 
 It stood behind his breastbone in no voice at all, plain as a rune cut in stone, and it had nothing to say about his hand.
@@ -166,7 +166,7 @@ Later, when the crew had carried the carter up the stair, Torin entered the nigh
 > The angles are true. The entry holds.
 
 > CHANGES · KALRIN OF VARRAK-THUR
-> Stage I, Murmuring, to Stage II, Welling. Tier of Standing 2, Apprentice.
+> Stage I, Murmuring, to Stage II, Welling. Tier of Standing: Apprentice.
 > Catalyst: first contact with a Wellspring current under load, the burst main, the third bell.
 > Left palm set by the current. Borin's read: four days, or not at all.
 
@@ -192,7 +192,7 @@ Later, when the crew had carried the carter up the stair, Torin entered the nigh
 
 **Phenomenon line (Thirteen §2).** Aether: the Guild main under the Seat, burst at the collar; the current floods worked stone. Wellspring: **Petralon** (Stone / Reinforcement), the Ring's primary territorial Wellspring per the Stannvaard page. That the main beneath Varrak-Thur carries Petralon current is an estimate, flagged. Real phenomenon: pressure-driven cementation and strain hardening, stone and structure growing stronger in proportion to the load they bear. Boundary condition: the law acts only on what bears load, so the cooper bracing the stack is what it reinforces. Fault, falling out of the mechanism: it locks what it reinforces (the knees lock, the palm sets). Essence: Kalrin's Crystal takes the current at first contact under personal pressure, which is Welling's Catalyst in FOW. **Open:** Petralon's Physics Domain, Category and Mechanism Vocabulary term are not quoted here; check the Codex before this is archived.
 
-**Stat ledger.** Kalrin: Stage I Murmuring to Stage II Welling. Tier of Standing 2, Apprentice; Grade ceiling D; Level ceiling 100, all from FOW's Stage table. No Level is printed because Kalrin has no card. Borin: Level 378/500, Stage XII Emanation, Tier of Standing 7 Grandmaster, from his card. Pressure gap of ten Stages and more drops people (NATALIE.md); the Dawi crew, raised under him, sweat instead. No reserve or AU/s figure appears anywhere on the page.
+**Stat ledger.** Kalrin: Stage I Murmuring to Stage II Welling. Tier of Standing Apprentice (printed by name alone, R70-82); Grade ceiling D; Level ceiling 100, all from FOW's Stage table. No Level is printed because Kalrin has no card. Borin: Level 378/500, Stage XII Emanation, Tier of Standing 7 Grandmaster, from his card. Pressure gap of ten Stages and more drops people (NATALIE.md); the Dawi crew, raised under him, sweat instead. No reserve or AU/s figure appears anywhere on the page.
 
 **Narrative ledger.** Gorrgorr dead under the end kaas; the Reckoning says no life settles it. Twelve kaas cracked, penalty against the hold. Two salt bars entered against Spigot for the double draw. Ned Halfturn's turn of the wheel was witnessed and entered. Kalrin's left palm is set: four days, or not at all. Borin's silence, and the cold he left in the hall. Nine kaas hang in the cage halfway up the shaft. Spigot carries no pitch up to the rim.
 

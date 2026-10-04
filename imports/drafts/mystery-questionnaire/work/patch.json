@@ -1,0 +1,340 @@
+{
+ "lede": "You asked whether anything else deserved a questionnaire and picked four; this one is mystery, horror and intrigue: the Lord of the Mysteries register and the Night Watch, fair clues, how secrets surface, horror pacing, court and faction intrigue, and lies that stay uncorrected. Three research passes (the house archive, the current law, and the traditions from Knox and Holmes to Junji Ito and le Carré) stand behind 46 questions in five sections, each with a recommendation you can take as it stands, and nothing the Style Law or the Combat Law settled is asked again: the settled list at the end says what was left alone and why. Answer the seven Keystones first, since most later questions lean on them.",
+ "section_order": [
+  "K",
+  "MY",
+  "HO",
+  "IN",
+  "ME"
+ ],
+ "drop": [],
+ "add": [
+  {
+   "section_key": "MY",
+   "after_id": "MY6",
+   "question": {
+    "id": "MY16",
+    "title": "True words that deceive",
+    "question": "Does a true sentence built to deceive owe a tell, as a lie does?",
+    "context": "R49-36: 'Every lie leaves a catchable tell'; nothing rules the literal truth built to mislead, intrigue's sharpest tool and Mantel's Cromwell's daily work. Hild names it in the archive: Edward's truth 'built to make me act, which is a third thing'. Samples: written scene, past tense; at a Kharven fire Arnbjorn asks after an old man's death, and Hrolf's answer is true.",
+    "options": [
+     {
+      "key": "A",
+      "label": "Tell owed, as a lie",
+      "consequence": "R49-36 extends to deceiving truths: the speaker shows a body tell, as a liar would.",
+      "sample": "\"I was at my own woodpile all that night,\" Hrolf said. \"Ask anyone on the row.\" Arnbjorn did not need to ask. Half the row had heard the axe going till the small hours. He kept his eyes on the rider's breath-plume instead, and it came short and quick through the nose, the way a man breathes who has run up a slope, though Hrolf had been sitting at the fire since the skin went round. A full stack speaks louder than a full mouth. Hrolf's mouth was full tonight."
+     },
+     {
+      "key": "B",
+      "label": "The fact is the tell",
+      "consequence": "No body tell, since the speaker tells the truth; the deceit lives in what the sentence leaves out, and the page carries a fact that turns its meaning where a careful player can line it up. The notes name that fact.",
+      "sample": "\"I was at my own woodpile all that night,\" Hrolf said. \"Ask anyone on the row.\" Arnbjorn did not need to ask. Half the row had heard the axe going till the small hours, and Hrolf's breath came easy, and his hands lay still on his knees. It stayed true until the boy who kept the horse lines said, later and to nobody in particular, that Hrolf had moved his stack in the autumn, round behind the old man's house, where the wind was better."
+     },
+     {
+      "key": "C",
+      "label": "No tell owed",
+      "consequence": "A deceiving truth owes nothing; the player must parse the words, and the sentence may mislead for good.",
+      "sample": "\"I was at my own woodpile all that night,\" Hrolf said. \"Ask anyone on the row.\" Arnbjorn did not need to ask. Half the row had heard the axe going till the small hours. Hrolf's breath came easy and his hands lay still on his knees, and when the skin came round he drank and passed it on as a man does with nothing behind his teeth. Arnbjorn thanked him, struck him off the slate he kept in his head, and went to ask the next man."
+     }
+    ],
+    "recommended": "B",
+    "rec_reason": "A man telling the truth has nothing to sweat, so a body tell would be false to him; the fair catch is a fact on the record, the house's own clue bed, which keeps every deception findable as MY3's herrings and R71-84's forgeries already are.",
+    "multi": false,
+    "depends_on": [],
+    "rules_touched": [
+     "R49-36-LIE_TELLS",
+     "R48-42-LIES",
+     "R71-84-TRADE_PAPER_SCENE"
+    ]
+   }
+  },
+  {
+   "section_key": "MY",
+   "after_id": "MY10",
+   "question": {
+    "id": "MY17",
+    "title": "The thing left unexplained",
+    "question": "What does Table Rule 8's unexplained notice owe now, and does it still come every turn?",
+    "context": "Table Rule 8: 'One thing per turn his PC notices and you don't explain.' Prose made the same quota optional (R49-11: 'no per-scene minimum'), and its ancestor R6-3 had each notice resolve later. The lie half of Rule 8 is the table questionnaire's WD6, and K3 sets when secrets pay. The Kharven oil lamp and burn-salve sit in no record.",
+    "options": [
+     {
+      "key": "A",
+      "label": "Every turn, texture only",
+      "consequence": "One a turn, as now; each is a world-only detail (R53-30) left unread that owes no payoff and is never a clue, so clues come only by a case's own roads."
+     },
+     {
+      "key": "B",
+      "label": "Every turn, each a seed",
+      "consequence": "One a turn; each is logged in MY2's records and pays under K3: Chekhov's gun (the playwright's rule that a thing shown must be used) applied to the iceberg."
+     },
+     {
+      "key": "C",
+      "label": "Every turn, marked in notes",
+      "consequence": "One a turn; the notes mark each as texture or seed, seeds logged in MY2's records to pay under K3 and texture never, and the page never says which."
+     },
+     {
+      "key": "D",
+      "label": "When a scene has one",
+      "consequence": "R49-11 carried to the table: no count; an unexplained notice comes when a scene has one worth leaving, marked texture or seed in the notes as in C."
+     }
+    ],
+    "recommended": "D",
+    "rec_reason": "It matches the prose law he ruled on 2026-09-26 (R49-11) and the table questionnaire's lean on Rule 8's lie half (WD6), ends the per-turn quota behind the archive's 'could make nothing of it' habit (ME3's B), and the notes still mark seed from texture, so every planted mystery is on record and can pay.",
+    "multi": false,
+    "depends_on": [
+     "K3",
+     "MY2"
+    ],
+    "rules_touched": [
+     "R49-11-NOT_KNOWING",
+     "R6-3-IGNORANCE_QUOTA",
+     "R53-30-TEXTURE_DENSITY",
+     "R47-12-MYSTERY_STAYS_OPEN"
+    ]
+   }
+  },
+  {
+   "section_key": "MY",
+   "after_id": "MY14",
+   "question": {
+    "id": "MY18",
+    "title": "A rival on the case",
+    "question": "When an NPC works the same case as Isaac's PC, may the NPC solve it?",
+    "context": "R71-6 has Natalie place the tell and never draw his PC's conclusion, while Table Rule 3 has NPCs pursue their own wants, and a Watch Searcher (an investigator on the crown's warrant) such as Orin Farrant works cases of her own. R12-4 makes a confident wrong theory the kit's best tool. Hunter x Hunter's rival hunters race the hero to the prize.",
+    "options": [
+     {
+      "key": "A",
+      "label": "Evidence only",
+      "consequence": "An NPC beside his PC finds and hands over evidence as a bare fact (R6-2) and never says what it means; every conclusion is Isaac's to draw."
+     },
+     {
+      "key": "B",
+      "label": "Theories, often wrong",
+      "consequence": "NPCs voice their own theories in their own voices, confident and often wrong (R12-4); a right one is spoken only after his PC has held every clue it rests on."
+     },
+     {
+      "key": "C",
+      "label": "A rival on his own clock",
+      "consequence": "B, and an NPC on the same case runs it as a Front and may close it first, right or wrong, from clues the page has shown; a wrong close can hang an innocent, a right one takes the credit and the fee."
+     }
+    ],
+    "recommended": "C",
+    "rec_reason": "NPCs who want things pursue them (Table Rule 3) and the world moves without him (Rule 4); a rival who can win or blunder gives every case a clock and a cost, as MY4's misses do, and since he reasons only from what the page has shown, nothing is rigged (R57-10).",
+    "multi": false,
+    "depends_on": [
+     "MY4",
+     "MY14"
+    ],
+    "rules_touched": [
+     "R71-6-PLAYER_FIGHTER_PAGE",
+     "R12-4-VOICE_ONE_POV",
+     "R6-2-READ_DELIVERS_FACT",
+     "R48-36-NPC_WITS",
+     "R57-10-NEVER_RIGGED"
+    ]
+   }
+  },
+  {
+   "section_key": "IN",
+   "after_id": "IN5",
+   "question": {
+    "id": "IN8",
+    "title": "One man, two faces",
+    "question": "When an NPC lives two lives (an alias, a cell name, a mask at a gathering), what must tie the faces together for a player to catch?",
+    "context": "Lord of the Mysteries runs on layered identities: its hero presides over a gathering whose members know each other only by card names. WOTR has the pieces (The Mother's cultures go by chosen names; Malphas is filed by his title, R67-8; Wren wrote under a blank seal in a hand not his) but no rule for them. His PC's own identities stay Isaac's.",
+    "options": [
+     {
+      "key": "A",
+      "label": "A habit carries over",
+      "consequence": "The two faces share one tell (a hand, a habit, a smell, a turn of phrase), shown in each face before the unmasking, on R71-23's twice-shown rhythm."
+     },
+     {
+      "key": "B",
+      "label": "The paper links them",
+      "consequence": "The link lives in the record (a hand, a seal, a payment, a lodging), the house's clue bed; the body and the voice may be perfect."
+     },
+     {
+      "key": "C",
+      "label": "Either road; masks leak",
+      "consequence": "A or B, at least one link planted before the unmasking; a face held by a working has its Codex line and leaks a seam, as an impression-body (a dead man's likeness worked from his Trace) does under R71-87."
+     },
+     {
+      "key": "D",
+      "label": "Nothing owed",
+      "consequence": "A second identity may hold for good; its truth sits in MY2's file, and the world owes the player no link."
+     }
+    ],
+    "recommended": "C",
+    "rec_reason": "It takes the Lord of the Mysteries masks he picked on WOTR's fair-counter terms: a habit for the reader who watches people, a paper for the one who reads ledgers, and no working hides a face for free. D lets a disguise win with nothing to catch (R57-10).",
+    "multi": false,
+    "depends_on": [],
+    "rules_touched": [
+     "R60-23-THE_MOTHER",
+     "R67-8-MALPHAS_FILED_BY_TITLE",
+     "R71-87-IMPRESSION_BODY_VOICE",
+     "R71-23-TELL_READ",
+     "R57-10-NEVER_RIGGED"
+    ]
+   }
+  }
+ ],
+ "rec_changes": [
+  {
+   "id": "HO3",
+   "recommended": "B",
+   "rec_reason": "It is R71-6's line moved from wounds to dread, agrees with R71-17's trained composure and with the table questionnaire's reflexes as world facts, and every sign has a cause in the room he can find and answer, which is his fair-counter rule; the fear itself stays his."
+  },
+  {
+   "id": "ME2",
+   "recommended": "A,B",
+   "rec_reason": "The seam is the intrigue form of a findable counter, and an NPC's record of what he knows of the PC keeps that NPC from acting on more than he could know (R48-36); B is the roster's half of K4's Ledger line on who knows he knows. C duplicates the Front's own numbered steps and the planted-sign list in the notes."
+  }
+ ],
+ "intros": {
+  "MY": "How a case is built, worked and closed: clue counts and records, false leads and the fail state, the Night Watch on the page, interrogation and true words that deceive, witnesses, instruments and the investigator's head, the lie never caught and the thing left unexplained, the solution and the reveal, and the Watch and its rivals at the table. MY16 to MY18 were added in the cross-check and sit beside the questions they answer.",
+  "IN": "How councils turn, how deep schemes nest, who may betray, how leverage and spies work, what ties one man's two faces together, how much of a Front (a faction's clock of moves) Isaac sees, and whether a court or a file can be bought. Interrogation and true words that deceive are asked under Mystery (MY6, MY16). In the samples a factor is a merchant's agent who buys on commission, and the Assistants are a livery company's governing court."
+ },
+ "settled_extra": [
+  {
+   "point": "Every beat carries at least one detail that could only exist in this world, and in written scenes the not-knowing quotas (one thing the POV cannot interpret, one confident wrong inference) are optional, with no per-scene minimum.",
+   "rule_ids": [
+    "R53-30-TEXTURE_DENSITY",
+    "R49-11-NOT_KNOWING"
+   ],
+   "why_not_asked": "Live prose law; MY17 asks only what Table Rule 8's unexplained notice owes in a roleplay turn."
+  }
+ ],
+ "text_fixes": [
+  {
+   "file": "group-1.json",
+   "old": "The intrigue section asks a hearing's own shape.",
+   "new": "Whether the court itself can be bought is IN7's question."
+  },
+  {
+   "file": "group-1.json",
+   "old": "\"why_not_asked\": \"Live law; this questionnaire extends it to cases through K2 and MY1 rather than reopening it.\"",
+   "new": "\"why_not_asked\": \"Live law; this questionnaire extends it to cases through K2 and MY1, and to schemes and betrayals through IN2 and IN3, rather than reopening it.\""
+  },
+  {
+   "file": "group-1.json",
+   "old": "\"why_not_asked\": \"Style law and older live law; MY7 and MY9 extend them to clue beds and testimony.\"",
+   "new": "\"why_not_asked\": \"Style law and older live law; MY7 and MY9 extend them to clue beds and testimony, and HO5 asks only whether events may settle a belief about the dead.\""
+  },
+  {
+   "file": "group-1.json",
+   "old": "and the table questionnaire sets cutaways in general.\"",
+   "new": "the table questionnaire sets cutaways in general, and IN6 asks only what a Front's file shows Isaac.\""
+  },
+  {
+   "file": "group-1.json",
+   "old": "\"R70-17-CLOSING_MODES\"\n   ],\n   \"why_not_asked\": \"Style law, ruled 2026-10-03.\"",
+   "new": "\"R70-17-CLOSING_MODES\"\n   ],\n   \"why_not_asked\": \"Style law, ruled 2026-10-03; HO1 paces dread inside the POV lock.\""
+  },
+  {
+   "file": "group-1.json",
+   "old": "\"why_not_asked\": \"Style law; MY5 and MY12 ask only where documents sit in a case.\"",
+   "new": "\"why_not_asked\": \"Style law; MY5 and MY12 ask only where documents sit in a case, and HO7 and HO8 offer them as options.\""
+  },
+  {
+   "file": "group-1.json",
+   "old": "\"why_not_asked\": \"Live law; a case solves a person's act, never the world's own mysteries.\"",
+   "new": "\"why_not_asked\": \"Live law; a case solves a person's act, never the world's own mysteries, and HO7 asks only how close Epoch-scale things come to the page.\""
+  },
+  {
+   "file": "group-1.json",
+   "old": "\"why_not_asked\": \"Combat law AL15, AL13 and AL18.\"",
+   "new": "\"why_not_asked\": \"Combat law AL15, AL13 and AL18; IN7 asks whether a bought court or a lost file follows the forgery rule.\""
+  },
+  {
+   "file": "group-1.json",
+   "old": "\"why_not_asked\": \"Combat law WT12 and older live law; MY12 asks only the solution scene's form.\"",
+   "new": "\"why_not_asked\": \"Combat law WT12 and older live law; MY12 asks only the solution scene's form, and IN7 only whether the process can be bought.\""
+  },
+  {
+   "file": "group-1.json",
+   "old": "comedy may sit hard against dread.\"",
+   "new": "comedy may sit hard against dread, each played straight, with only gallows wit inside danger.\""
+  },
+  {
+   "file": "group-1.json",
+   "old": "  {\n   \"point\": \"NPCs lie often and for their own reasons, and every lie leaves a catchable tell (a body tell, a fact that does not fit, a detail changed later).\",\n   \"rule_ids\": [\n    \"R48-42-LIES\",\n    \"R49-36-LIE_TELLS\"\n   ],\n   \"why_not_asked\": \"Live law; K5 asks only what catching is and MY10 what an uncaught lie becomes.\"\n  },\n",
+   "new": ""
+  },
+  {
+   "file": "group-1.json",
+   "old": "  {\n   \"point\": \"Lies, taunts and accusations inside a fight are moves with a price in tempo.\",\n   \"rule_ids\": [\n    \"R71-22-TALK_INSIDE_FIGHT\"\n   ],\n   \"why_not_asked\": \"Combat law CW13; MY6 asks whether the accounting reaches interrogation.\"\n  },\n",
+   "new": ""
+  },
+  {
+   "file": "group-2.json",
+   "old": "\"label\": \"Only contact costs\"",
+   "new": "\"label\": \"Sight leaves nothing\""
+  },
+  {
+   "file": "group-2.json",
+   "old": "The archive's one horror scene for the PC made him a witness who could not act.",
+   "new": "The archive's one horror scene for the PC made him a witness who could not act. Outside horror, the table questionnaire's K6 asks the same of reflexes."
+  },
+  {
+   "file": "group-2.json",
+   "old": "Where a field, Pressure, a working or the cold acts on his body (the Pike's weight, the Lamp-drinker's chill), its signs are world facts",
+   "new": "Where a field, Pressure, a working, the cold or a sudden shock acts on his body (the Pike's weight, the Lamp-drinker's chill, a startle), its signs are world facts"
+  },
+  {
+   "file": "group-2.json",
+   "old": "As B, and every held secret is also a Ledger risk against its holder: someone wants",
+   "new": "As B, and every held secret is also a Ledger risk against its holder, on the same line as K4's B: someone wants"
+  },
+  {
+   "file": "group-2.json",
+   "old": "He is author and player at once. R5-C1 tracks knowledge per POV, and a scheme is hidden only if its next move is sealed.",
+   "new": "He is author and player at once, and a scheme is hidden only if its next move is sealed. What reaches him in play is the table questionnaire's WD2; this asks what the file itself shows."
+  },
+  {
+   "file": "group-2.json",
+   "old": "\"why_not_asked\": \"Live; whether a true sentence built to deceive owes a tell is MY7.\"",
+   "new": "\"why_not_asked\": \"Live; K5 asks what catching a lie is, MY10 what an uncaught lie becomes, and MY16 whether a true sentence built to deceive owes a tell.\""
+  },
+  {
+   "file": "group-2.json",
+   "old": "  {\n   \"point\": \"Folk beliefs stand and the narration never corrects them; the POV's culture decides what he makes of a room, misreadings included.\",\n   \"rule_ids\": [\n    \"R53-15-FOLK_BELIEFS\",\n    \"R70-44-CULTURE_KEYED_NOTICING\"\n   ],\n   \"why_not_asked\": \"Live; HO5 keeps the narration silent and asks only about events.\"\n  },\n",
+   "new": ""
+  },
+  {
+   "file": "group-2.json",
+   "old": "  {\n   \"point\": \"Epoch-scale things make problems, dread and awe and never resolve a plot.\",\n   \"rule_ids\": [\n    \"R7-2-EPOCH_SCALE_SURVIVES\"\n   ],\n   \"why_not_asked\": \"Load-bearing and unchanged; HO7 asks only how close they come to the page.\"\n  },\n",
+   "new": ""
+  },
+  {
+   "file": "group-2.json",
+   "old": "  {\n   \"point\": \"Comedy may sit hard against dread, each played straight; inside danger only gallows wit.\",\n   \"rule_ids\": [\n    \"R70-116-COMEDY_BESIDE_DANGER\"\n   ],\n   \"why_not_asked\": \"Ruled 2026-10-03.\"\n  },\n",
+   "new": ""
+  },
+  {
+   "file": "group-2.json",
+   "old": "  {\n   \"point\": \"Big surprises, betrayal included, only after foreshadowing a player could have caught; a tell is shown twice, then read.\",\n   \"rule_ids\": [\n    \"R48-30-SURPRISES\",\n    \"R71-23-TELL_READ\",\n    \"R71-30-HELD_BACK_REVEAL\"\n   ],\n   \"why_not_asked\": \"Live; IN2 and IN3 build schemes and betrayals on this floor.\"\n  },\n",
+   "new": ""
+  },
+  {
+   "file": "group-2.json",
+   "old": "  {\n   \"point\": \"Law moves on proof inside the residue clocks, courts fight over a killing as a Front, an undeclared killing by dawn is murder, and each culture keeps its own justice; a forensic reading plays as protocol and turns on contradicting instruments.\",\n   \"rule_ids\": [\n    \"R71-101-LAW_TURNS\",\n    \"R60-11-TRACE_EVIDENCE_AND_JURISDICTION\",\n    \"R60-19-LAYERED_RULE\",\n    \"R53-11-JUSTICE\",\n    \"R71-81-FORENSIC_READING_PAGE\"\n   ],\n   \"why_not_asked\": \"Ruled 2026-10-04 and earlier; IN7 asks only whether the process can be bought, and a hearing's shape is MY13.\"\n  },\n",
+   "new": ""
+  },
+  {
+   "file": "group-2.json",
+   "old": "  {\n   \"point\": \"Documents may open a scene that then tests them, and may be records of the strange, court annals, notebooks or reference entries.\",\n   \"rule_ids\": [\n    \"R70-16-OPENING_MODES\",\n    \"R70-67-FORMS_WORLD_DOCUMENTS\",\n    \"R12-4-VOICE_FOUR_DOCUMENT\"\n   ],\n   \"why_not_asked\": \"Style Law; HO7 and HO8 use these forms as options without reopening them.\"\n  },\n",
+   "new": ""
+  },
+  {
+   "file": "group-2.json",
+   "old": ",\n  {\n   \"point\": \"The narrator may foreshadow only in a chapter's opening and closing lines; the body of the scene stays POV-locked.\",\n   \"rule_ids\": [\n    \"R70-10-NARRATOR_STANCE\"\n   ],\n   \"why_not_asked\": \"Style Law; HO1 paces dread inside that lock.\"\n  },\n  {\n   \"point\": \"A turn may close on a short, clearly marked cut to something the POV cannot see, a Front advancing or an NPC plotting.\",\n   \"rule_ids\": [\n    \"R49-09-CUTAWAYS\"\n   ],\n   \"why_not_asked\": \"Live; IN6 asks only what the Front file shows Isaac, and the cutaway inside a case is K7.\"\n  },\n  {\n   \"point\": \"Every forgery is findable by mark, assay or the Index's own failure.\",\n   \"rule_ids\": [\n    \"R71-84-TRADE_PAPER_SCENE\"\n   ],\n   \"why_not_asked\": \"Combat Law; IN7 asks whether a bought court or a lost file follows the same rule.\"\n  }",
+   "new": ""
+  },
+  {
+   "file": "group-2.json",
+   "old": "\"why_not_asked\": \"Settled worldbuilding; ME2 asks only what paper the table keeps on factions.\"",
+   "new": "\"why_not_asked\": \"Settled worldbuilding; ME2 asks only what paper the table keeps on factions, and IN8 what ties a chosen name back to its man.\""
+  }
+ ],
+ "notes": "1. Read in full: group-1 (K and MY, 22 questions), group-2 (HO, IN and ME, 20), the three research passes, draft-1 and draft-2 (to trace what the revisers cut), and the table questionnaire's two groups (built in parallel, for overlap). Final count after this patch: 42 existing plus 4 added, 0 dropped, 46 questions in 5 sections (K 7, MY 18, HO 9, IN 8, ME 4); settled rows 44 to 34 (11 duplicates folded, 1 added). 2. No question drops: no two ask the same thing. Overlaps kept, each scoped: K4 and HO4 (knowing against fear; HO4's A relabelled 'Sight leaves nothing' so the two A labels no longer read alike); K4's B, IN4's C and ME2's B (one Ledger line on who knows he knows, now said in IN4's C and ME2's reason so the table keeps one record, not three); MY5's C and MY12's D (a search's filing against a case's close); HO2's B and HO9's C (the room first, for two different beats). Against the table questionnaire: this K7 is scoped to a case and the table's K7 sets cutaways in general; IN6's context now says the table's WD2 sets what reaches him in play and IN6 only what a mystery Front's file shows; HO3's B now counts a startle as a caused sign, matching the table's K6 A, and its context names that K6; lie counts stay with the table's WD6. 3. Gaps filled (4, the cap). MY16 True words that deceive: draft-1 MY7 and draft-2 IN8 both asked it and both revisers cut it, each pointing at the other (the IN intro said MY6, MY7 and a group-2 settled row said 'is MY7', but MY7 is now Clue objects); restored from IN8 with its Kharven samples, after MY6. MY17 The thing left unexplained: Table Rule 8's first half (one unexplained notice a turn), flagged by all three research passes as drifted from R49-11; the table questionnaire asks only the lie half (WD6, whose recommended B would retire Rule 8 whole with this half never asked); placed after MY10, the lie half. MY18 A rival on the case: whether an NPC investigator may solve first (research-law section 3, open 3); Rovhen Talvasciel is not named, since the archive's 'Rovhen run' leaves open whether he is a player's character; Orin Farrant (carded NPC) stands in. IN8 One man, two faces: the Lord of the Mysteries device of layered identities and masked gatherings, which research-house section 7 and research-law section 4 both name as unruled; after IN5. New ids sit out of sequence so no existing reference moves, and the MY intro says so. 4. Recommendations: no existing value changed. HO3 and ME2 keep their values with reasons aligned (table K6's reflexes; K4's Ledger line). New: MY16 B, MY17 D (matches R49-11 and the table's lean on Rule 8, and ends the per-turn quota behind the 'could make nothing of it' habit ME3's B watches for), MY18 C, IN8 C. 5. text_fixes (26, exact, each old string occurs once in the original file, no two overlap, and both files parse after applying them in order): stale MY12 context ('The intrigue section asks a hearing's own shape': draft-2's IN9 hearing was cut and MY12's B carries it) now points at IN7; the group-2 settled row saying 'a hearing's shape is MY13' goes with its duplicate; 'is MY7' becomes MY16 in the merged lies row; the IN and MY intros are replaced through intros. Settled dedupe: 11 rows whose rule ids nest inside another row are removed (group-1 rows 1 and 16; group-2 rows 4, 5, 9, 12, 14, 17, 19, 20, 21), and their pointers (HO1, HO5, HO7, HO8, IN2, IN3, IN6, IN7, MY16) move onto the surviving rows; removal fixes carry their joining comma, and the last three group-2 rows go in one fix. Apply text_fixes to the group files before assembling. Simulated with the combat assembler's logic: 46 questions, 5 sections, 34 settled, checks clean (no em or en dashes, every recommendation a real option, depends_on resolved, at most 4 options, labels at most 28 characters, samples at most 100 words, every rule id present in out/rules.resolved.json, no cross-reference to a missing id). 6. imports/drafts/mystery-questionnaire/ has no assemble.py or record.py yet; the combat pair works as is (its NM and VB order shim is inert here). 7. Not added, by choice: combat's proof-order question (combat ME4, R70-138: law and checks, then a test scene, then the bank) has no twin in ME; ME4's context cites R70-138, so the order can ride on ME1's answer. Considered and left: divination inside a case, the occult detective's fraud-or-real ratio (MY3, K2's B and HO5 cover it), the nine-day residue clock shown as a clock (IN6 and the table's WD2 cover clock display), the PC on trial (R71-101's 'proof decides' already governs a verdict), and the Lord of the Mysteries masquerade (a boundary, not a choice: WOTR magic is public and licensed, as K4's context says). 8. MY15 asks Isaac to rule C-125, an open CONFLICTS.md row; his answer should be logged with log_ruling and close it."
+}

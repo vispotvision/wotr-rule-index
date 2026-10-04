@@ -1,0 +1,666 @@
+[
+ {
+  "n": 1,
+  "qid": "K1",
+  "section": "K",
+  "id": "R74-1-HOW_MUCH_READER_SOLVES",
+  "title": "How much the reader may solve",
+  "verbatim": "Each book declares. Each book or thread bible names its mode: inverted, fair puzzle, or the split (the reader knows who, never how or why). Undeclared work defaults to inverted, the house mode.",
+  "question": "In written work, does the reader stand ahead of the investigator, beside him, or does each book choose?",
+  "rules_touched": [
+   "R5-C1-WRITE_FROM_LEAST_KNOWING",
+   "R5-C1-INFO_TRACKED_PER_POV",
+   "R5-C1-NARRATION_NEVER_WINKS",
+   "R49-09-CUTAWAYS"
+  ]
+ },
+ {
+  "n": 2,
+  "qid": "K2",
+  "section": "K",
+  "id": "R74-2-FAIRPLAY_TERMS",
+  "title": "The fair-play terms",
+  "verbatim": "Yes to: Nothing unseen (The solution rests only on what the reader or player was shown. A clue the investigator held and the page withheld voids the solution; the notes list every clue used); Codex-backed solutions (Any working in a solution has a Codex line and its rule acted on the page first. No working is invented to solve a case; one that falsifies perception is planted (R71-30) or barred); Sealed solution (The truth (who, how, why) is written in the notes before the first clue is placed and never moves to fit a guess: R57-10's ban on rigging made a procedure); A challenge mark (Ellery Queen's device: a book marks the point where every clue is on the page, as a chapter-head line or a set-off notice, before the solution).",
+  "question": "Which fair-play terms become law for every mystery, written or played?",
+  "rules_touched": [
+   "R48-30-SURPRISES",
+   "R57-10-NEVER_RIGGED",
+   "R71-30-HELD_BACK_REVEAL",
+   "R12-3-NAMED_INVENTOR_RULE",
+   "R70-71-EXPLAINING_WORKING_MID_FIGHT"
+  ]
+ },
+ {
+  "n": 3,
+  "qid": "K3",
+  "section": "K",
+  "id": "R74-3-WHEN_SECRETS_PAY",
+  "title": "When secrets pay",
+  "verbatim": "Caught or clocked. A secret pays when his PC catches it or its Front (a faction's clock of moves) resolves, never on a timer. A few are marked 'kept' and never pay on the page, as the one-word letter.",
+  "question": "How often does a thread pay one of its secrets, and may one stay unpaid for good?",
+  "rules_touched": [
+   "R70-17-CLOSING_MODES",
+   "R47-12-MYSTERY_STAYS_OPEN"
+  ]
+ },
+ {
+  "n": 4,
+  "qid": "K4",
+  "section": "K",
+  "id": "R74-4-WHAT_KNOWING_COSTS",
+  "title": "What knowing costs",
+  "verbatim": "Records that act. B, plus a few records act on whoever touches them through canon mechanism (Mnemata, records held in objects, R61-70), priced by Resilience with the counter named in the notes. No invented figure.",
+  "question": "Is knowledge itself dangerous in WOTR, and through what?",
+  "rules_touched": [
+   "R61-70-ANAMNESIS_READS_NOT_STORES",
+   "R61-108-MORTALIS_FULL_COST_STACK",
+   "R60-13-THE_GATE",
+   "R12-2-MYSTIC_REGISTER_DEF"
+  ]
+ },
+ {
+  "n": 5,
+  "qid": "K5",
+  "section": "K",
+  "id": "R74-5-WHAT_CATCHING_LIE_IS",
+  "title": "What catching a lie is",
+  "verbatim": "His PC acts on it. Caught when his PC acts on the truth or names the lie in play. Isaac spotting it in chat changes nothing in the world until his PC moves.",
+  "question": "What counts as catching an NPC's lie?",
+  "rules_touched": [
+   "R48-42-LIES",
+   "R49-36-LIE_TELLS",
+   "R71-6-PLAYER_FIGHTER_PAGE"
+  ]
+ },
+ {
+  "n": 6,
+  "qid": "K6",
+  "section": "K",
+  "id": "R74-6-FINDING_CLUES_AT_TABLE",
+  "title": "Finding clues at the table",
+  "verbatim": "Core found, extras earned. Each conclusion's core clue comes to any sensible look; the further clues that sharpen it, speed it or name the purse (who paid) come only to the right question or instrument.",
+  "question": "When Isaac's PC searches, how are clues found?",
+  "rules_touched": [
+   "R71-6-PLAYER_FIGHTER_PAGE",
+   "R71-23-TELL_READ",
+   "R48-48-EXPLAIN",
+   "R6-2-READ_DELIVERS_FACT"
+  ]
+ },
+ {
+  "n": 7,
+  "qid": "K7",
+  "section": "K",
+  "id": "R74-7-CUTTING_AWAY_INSIDE_CASE",
+  "title": "Cutting away inside a case",
+  "verbatim": "Cut to the hand. A turn may close on a short marked cut to the other side moving (a hand, a room, a deed) that may carry a clue, never a face, a name or the answer.",
+  "question": "While Isaac's PC works a case, may a turn cut away to the other side?",
+  "rules_touched": [
+   "R49-09-CUTAWAYS",
+   "R71-52-AMBUSH_NAMED_ROUND",
+   "R5-C1-WRITE_FROM_LEAST_KNOWING",
+   "R71-6-PLAYER_FIGHTER_PAGE"
+  ]
+ },
+ {
+  "n": 8,
+  "qid": "MY1",
+  "section": "MY",
+  "id": "R74-8-CLUES_PER_CONCLUSION",
+  "title": "Clues per conclusion",
+  "verbatim": "Three, by three roads. At least three clues per conclusion: one in the room, one in a mouth, one on paper or an instrument, so no single kind of looking is required. The notes list all three.",
+  "question": "How many clues must point to each conclusion a case needs reached?",
+  "rules_touched": [
+   "R71-23-TELL_READ",
+   "R48-30-SURPRISES"
+  ]
+ },
+ {
+  "n": 9,
+  "qid": "MY2",
+  "section": "MY",
+  "id": "R74-9-WHERE_TRUTH_KEPT",
+  "title": "Where the truth is kept",
+  "verbatim": "Yes to: A sealed truth file (One entry per open mystery under table/: who, how, why, what each NPC knows, what stays kept. Natalie reads it each session; play never quotes it. One file with any sealed Front file); Clue list in the notes (Every scene's author notes list each clue planted, found or missed, and the conclusion it serves, so fairness can be audited after).",
+  "question": "Which records does every open mystery keep?",
+  "rules_touched": [
+   "R71-30-HELD_BACK_REVEAL",
+   "R5-C1-INFO_TRACKED_PER_POV"
+  ]
+ },
+ {
+  "n": 10,
+  "qid": "MY3",
+  "section": "MY",
+  "id": "R74-10-RED_HERRINGS",
+  "title": "Red herrings",
+  "verbatim": "True facts, refutable. A herring is built from true facts that point the wrong way, is refutable on the page, and is listed as a herring in the notes.",
+  "question": "Are red herrings (false leads planted on purpose) legal, and what may they be built from?",
+  "rules_touched": [
+   "R49-36-LIE_TELLS",
+   "R12-4-VOICE_ONE_POV",
+   "R5-C1-WELL_REASONED_WRONG_CONCLUSION",
+   "R48-36-NPC_WITS"
+  ]
+ },
+ {
+  "n": 11,
+  "qid": "MY4",
+  "section": "MY",
+  "id": "R74-11-WHEN_CLUES_MISSED",
+  "title": "When the clues are missed",
+  "verbatim": "Both, at a price. The Front ticks and a costlier road opens: each miss spends something (a witness, a Trace read once, a life), so the case stays solvable and the delay shows on the Ledger.",
+  "question": "If a case's clues go unread, what happens?",
+  "rules_touched": [
+   "R71-8-CORE_PROMISE",
+   "R71-101-LAW_TURNS",
+   "R48-31-STAKES"
+  ]
+ },
+ {
+  "n": 12,
+  "qid": "MY5",
+  "section": "MY",
+  "id": "R74-12-REST_OF_WATCH_SEARCH",
+  "title": "The rest of a Watch search",
+  "verbatim": "Protocol, closed on filing. As A, and the search closes on its docket line set off from the prose: the Register's flat record against the long hour, the Lord of the Mysteries document turned to a close.",
+  "question": "Beyond the residue reading the combat law rules, how does a Night Watch search of a room, a body or a seal read on the page?",
+  "rules_touched": [
+   "R71-81-FORENSIC_READING_PAGE",
+   "R70-44-CULTURE_KEYED_NOTICING",
+   "R70-17-CLOSING_MODES",
+   "R70-67-FORMS_WORLD_DOCUMENTS",
+   "R60-26-NIGHT_WATCH_SOCIETY"
+  ]
+ },
+ {
+  "n": 13,
+  "qid": "MY6",
+  "section": "MY",
+  "id": "R74-13-INTERROGATION",
+  "title": "The interrogation",
+  "verbatim": "A duel of tells. R71-22's accounting extends past fights: each question aims at a tell, and the page shows what it bought or cost.",
+  "question": "How does a questioning read when the witness is lying?",
+  "rules_touched": [
+   "R71-22-TALK_INSIDE_FIGHT",
+   "R49-36-LIE_TELLS",
+   "R19-4-ICEBERG_DIALOGUE"
+  ]
+ },
+ {
+  "n": 14,
+  "qid": "MY16",
+  "section": "MY",
+  "id": "R74-14-TRUE_WORDS_THAT_DECEIVE",
+  "title": "True words that deceive",
+  "verbatim": "The fact is the tell. No body tell, since the speaker tells the truth; the deceit lives in what the sentence leaves out, and the page carries a fact that turns its meaning where a careful player can line it up. The notes name that fact.",
+  "question": "Does a true sentence built to deceive owe a tell, as a lie does?",
+  "rules_touched": [
+   "R49-36-LIE_TELLS",
+   "R48-42-LIES",
+   "R71-84-TRADE_PAPER_SCENE"
+  ]
+ },
+ {
+  "n": 15,
+  "qid": "MY7",
+  "section": "MY",
+  "id": "R74-15-CLUE_OBJECTS",
+  "title": "Clue objects",
+  "verbatim": "By culture. Each Standing Inventory gains a 'Clue beds' line beside 'Notices first': Kharven counts and the woodpile, Accord meters and wax, Moto seals and court verse. A case draws its clues from its culture.",
+  "question": "Which objects carry the clues, case to case?",
+  "rules_touched": [
+   "R70-44-CULTURE_KEYED_NOTICING",
+   "R71-84-TRADE_PAPER_SCENE"
+  ]
+ },
+ {
+  "n": 16,
+  "qid": "MY8",
+  "section": "MY",
+  "id": "R74-16-INVESTIGATOR_HEAD",
+  "title": "The investigator's head",
+  "verbatim": "Facts shown, conclusion held. Every fact she notices reaches the page plainly; the conclusion waits, carried by her next act, as Holmes keeps his. Numbered steps stay legal at the solution.",
+  "question": "When the POV is the investigator, how much of her thinking does the reader get?",
+  "rules_touched": [
+   "R70-38-REASONING_SHOWS",
+   "R12-4-VOICE_ONE_POV"
+  ]
+ },
+ {
+  "n": 17,
+  "qid": "MY9",
+  "section": "MY",
+  "id": "R74-17-HOW_WITNESSES_ERR",
+  "title": "How witnesses err",
+  "verbatim": "Both, logged apart. Errors come by either road, and the roster gains an 'errs about' field beside 'lied about', so an honest error never owes a liar's tell.",
+  "question": "When a witness is wrong without lying, how is the error built?",
+  "rules_touched": [
+   "R70-44-CULTURE_KEYED_NOTICING",
+   "R53-15-FOLK_BELIEFS",
+   "R49-36-LIE_TELLS"
+  ]
+ },
+ {
+  "n": 18,
+  "qid": "MY10",
+  "section": "MY",
+  "id": "R74-18-LIE_NEVER_CAUGHT",
+  "title": "The lie never caught",
+  "verbatim": "It comes due. The first time his PC acts on it, the lie opens a Ledger line; the truth arrives as that line's cost when it bites, the tell already behind him to find.",
+  "question": "What becomes of a lie his PC never catches?",
+  "rules_touched": [
+   "R48-42-LIES",
+   "R49-36-LIE_TELLS"
+  ]
+ },
+ {
+  "n": 19,
+  "qid": "MY17",
+  "section": "MY",
+  "id": "R74-19-THING_LEFT_UNEXPLAINED",
+  "title": "The thing left unexplained",
+  "verbatim": "When a scene has one. R49-11 carried to the table: no count; an unexplained notice comes when a scene has one worth leaving, marked texture or seed in the notes as in C.",
+  "question": "What does Table Rule 8's unexplained notice owe now, and does it still come every turn?",
+  "rules_touched": [
+   "R49-11-NOT_KNOWING",
+   "R6-3-IGNORANCE_QUOTA",
+   "R53-30-TEXTURE_DENSITY",
+   "R47-12-MYSTERY_STAYS_OPEN"
+  ]
+ },
+ {
+  "n": 20,
+  "qid": "MY11",
+  "section": "MY",
+  "id": "R74-20-WHAT_INSTRUMENTS_PROVE",
+  "title": "What instruments prove",
+  "verbatim": "Never lies, may miss. A sound instrument prints true. A case lives in what one was not built to read: below its floor, behind a ward, or asked the wrong question. The notes say which.",
+  "question": "Can an instrument's reading be wrong in a case?",
+  "rules_touched": [
+   "R70-78-WHERE_SCREEN_COMES_FROM",
+   "R71-44-FACULTY_READ_MAN",
+   "R60-11-TRACE_EVIDENCE_AND_JURISDICTION",
+   "R71-84-TRADE_PAPER_SCENE"
+  ]
+ },
+ {
+  "n": 21,
+  "qid": "MY12",
+  "section": "MY",
+  "id": "R74-21-SOLUTION_SCENE",
+  "title": "The solution scene",
+  "verbatim": "Yes to: The hearing (A court, inquest or Register hearing, turned where a statement meets the exhibit that breaks it; each culture keeps its own justice (R53-11)); The procedure (A test or instrument proves it on the page as action (R71-81), and the result is the verdict); The document (The case closes as a filing, a docket or a set-off notice (R70-67, R70-17), its last line the verdict).",
+  "question": "Which forms may a case's solution scene take?",
+  "rules_touched": [
+   "R48-43-SPEECHES",
+   "R19-4-ICEBERG_DIALOGUE",
+   "R71-81-FORENSIC_READING_PAGE",
+   "R70-67-FORMS_WORLD_DOCUMENTS",
+   "R70-111-LONG_FORMAL_SPEECH_CLIPPED",
+   "R53-11-JUSTICE",
+   "R70-17-CLOSING_MODES"
+  ]
+ },
+ {
+  "n": 22,
+  "qid": "MY13",
+  "section": "MY",
+  "id": "R74-22-REVEAL",
+  "title": "The reveal",
+  "verbatim": "Cold, in a cluster. The answer lands as a short cluster of one-line paragraphs at the moment of proof; the explanation comes later or never.",
+  "question": "How does the answer land on the page?",
+  "rules_touched": [
+   "R70-20-PARAGRAPH_SHAPE",
+   "R70-38-REASONING_SHOWS",
+   "R70-17-CLOSING_MODES"
+  ]
+ },
+ {
+  "n": 23,
+  "qid": "MY14",
+  "section": "MY",
+  "id": "R74-23-WATCH_AT_TABLE",
+  "title": "The Watch at the table",
+  "verbatim": "Both, by where. Patron where the crown's warrant runs and his PC is neither the hand (who did it) nor the purse (who paid); rival where he is either. In Ketsuen it can only ask.",
+  "question": "What is the Night Watch to a live thread?",
+  "rules_touched": [
+   "R60-22-THE_NIGHT_WATCH",
+   "R60-26-NIGHT_WATCH_SOCIETY",
+   "R67-4-CROWN_WARRANT_NOT_IN_KETSUEN",
+   "R70-97-QUESTS_CONTRACTS"
+  ]
+ },
+ {
+  "n": 24,
+  "qid": "MY18",
+  "section": "MY",
+  "id": "R74-24-RIVAL_ON_CASE",
+  "title": "A rival on the case",
+  "verbatim": "A rival on his own clock. B, and an NPC on the same case runs it as a Front and may close it first, right or wrong, from clues the page has shown; a wrong close can hang an innocent, a right one takes the credit and the fee.",
+  "question": "When an NPC works the same case as Isaac's PC, may the NPC solve it?",
+  "rules_touched": [
+   "R71-6-PLAYER_FIGHTER_PAGE",
+   "R12-4-VOICE_ONE_POV",
+   "R6-2-READ_DELIVERS_FACT",
+   "R48-36-NPC_WITS",
+   "R57-10-NEVER_RIGGED"
+  ]
+ },
+ {
+  "n": 25,
+  "qid": "MY15",
+  "section": "MY",
+  "id": "R74-25-NAMING_MALPHAS_IN_FILE",
+  "title": "Naming Malphas in a file",
+  "verbatim": "Title only, everywhere. No Watch file names him; he is filed by his title at his own written request, and named volumes are read at the desk, never copied in. The Papers stand.",
+  "question": "May a Night Watch file name Malphas, now that he signs the Necrocursica in his own name?",
+  "rules_touched": [
+   "R61-62-PAPERS_AUTHOR_NIGHT_WATCH",
+   "R61-49-NECROCURSICA_SIGNED_MALPHAS"
+  ]
+ },
+ {
+  "n": 26,
+  "qid": "HO1",
+  "section": "HO",
+  "id": "R74-26-DREAD_PACING",
+  "title": "Dread pacing",
+  "verbatim": "Long build, one hard shock. The build stays long; the swift beat is one sudden sight set as a cluster of one-line paragraphs (R70-20), then the scene moves. One shock per horror scene at most.",
+  "question": "How should a horror scene spend its tempo?",
+  "rules_touched": [
+   "R70-15-TEMPO_STILLNESS",
+   "R70-17-CLOSING_MODES",
+   "R70-20-PARAGRAPH_SHAPE",
+   "R11-4-DESCENT_PROSE_LAW"
+  ]
+ },
+ {
+  "n": 27,
+  "qid": "HO2",
+  "section": "HO",
+  "id": "R74-27-THING_SEEN",
+  "title": "The thing seen",
+  "verbatim": "Half-seen, then full. R9-3 extends to horrors: effects and outline first, through the room and the bodies (R70-69's order); the full inventory lands when the thing is understood, appraised or fought.",
+  "question": "How much of a horror shows the first time it is on the page?",
+  "rules_touched": [
+   "R70-54-GETS_FULL_INVENTORY",
+   "R9-3-SILHOUETTE_ENTRANCE",
+   "R70-69-PRESSURE_AURA",
+   "R71-57-APPRAISING_BEAST"
+  ]
+ },
+ {
+  "n": 28,
+  "qid": "HO3",
+  "section": "HO",
+  "id": "R74-28-FEAR_IN_PC",
+  "title": "Fear in Isaac's PC",
+  "verbatim": "Caused signs, his read. Where a field, Pressure, a working, the cold or a sudden shock acts on his body (the Pike's weight, the Lamp-drinker's chill, a startle), its signs are world facts; what he feels about them and does stays his.",
+  "question": "When horror reaches Isaac's own PC, what may the page put in his body?",
+  "rules_touched": [
+   "R71-6-PLAYER_FIGHTER_PAGE",
+   "R71-17-FEAR_BODY",
+   "R49-01-WHOSE_HEAD",
+   "R71-41-PRESSURE_UNWOKEN"
+  ]
+ },
+ {
+  "n": 29,
+  "qid": "HO4",
+  "section": "HO",
+  "id": "R74-29-WHAT_HORROR_LEAVES",
+  "title": "What horror leaves",
+  "verbatim": "Marks that compound. B, and a mark struck again before it fades deepens to a standing condition with a named counter (rest, a person, a rite): fraying by stages, still no meter and no number.",
+  "question": "What does a horror leave in the one who saw it?",
+  "rules_touched": [
+   "R71-17-FEAR_BODY",
+   "R71-6-PLAYER_FIGHTER_PAGE",
+   "R57-10-NEVER_RIGGED"
+  ]
+ },
+ {
+  "n": 30,
+  "qid": "HO5",
+  "section": "HO",
+  "id": "R74-30-DEAD_FOLK_BELIEF",
+  "title": "The dead and the folk belief",
+  "verbatim": "Half true, by mechanism. Events show where a belief holds and where it fails, both traced in the notes to canon mechanism; the people keep their reading, and the narration still corrects nothing.",
+  "question": "When a folk belief about the dead meets the dead, may the page show it true, false or half true?",
+  "rules_touched": [
+   "R53-15-FOLK_BELIEFS",
+   "R61-77-REVENANT_IS_STALLED_CROSSING",
+   "R70-44-CULTURE_KEYED_NOTICING"
+  ]
+ },
+ {
+  "n": 31,
+  "qid": "HO6",
+  "section": "HO",
+  "id": "R74-31-VEIL_AND_PC_GRIEF",
+  "title": "The Veil and his own grief",
+  "verbatim": "His, from canon only. What he carried may condense too, shaped only from grief or rage his archived scenes and card already show; the beast has no mind to voice, and his response stays his.",
+  "question": "At a Veil-thin place, may what Isaac's PC carried in take a shape?",
+  "rules_touched": [
+   "R71-6-PLAYER_FIGHTER_PAGE",
+   "R57-10-NEVER_RIGGED",
+   "R49-01-WHOSE_HEAD",
+   "R12-2-MYSTIC_REGISTER_DEF"
+  ]
+ },
+ {
+  "n": 32,
+  "qid": "HO7",
+  "section": "HO",
+  "id": "R74-32-COSMIC_SCALE_ON_PAGE",
+  "title": "Cosmic scale on the page",
+  "verbatim": "In frame at a peak. Effects carry it by default; at an arc's peak one may stand in frame in full, as stated law with reasons kept (R70-76), changing no plot (R7-2).",
+  "question": "How close may Epoch-scale horror (the Titans, the Archons, the Crevice) come to the page?",
+  "rules_touched": [
+   "R7-2-EPOCH_SCALE_SURVIVES",
+   "R70-76-MUCH_WORLD_MAGIC",
+   "R70-67-FORMS_WORLD_DOCUMENTS",
+   "R12-2-MYSTIC_REGISTER_DEF"
+  ]
+ },
+ {
+  "n": 33,
+  "qid": "HO8",
+  "section": "HO",
+  "id": "R74-33-BODY_HORROR_OUTSIDE_FIGHT",
+  "title": "Body horror outside a fight",
+  "verbatim": "Full and clinical. R48-34 extends to horror: anatomy named, colour, texture and the absent smell, nothing looked away from, in the POV's flat, exact eye. Documents may carry it too.",
+  "question": "How does body horror read when nobody is fighting?",
+  "rules_touched": [
+   "R48-34-WOUNDS",
+   "R70-67-FORMS_WORLD_DOCUMENTS",
+   "R71-82-CORRUPTION_SHOWN_BODY"
+  ]
+ },
+ {
+  "n": 34,
+  "qid": "HO9",
+  "section": "HO",
+  "id": "R74-34-WITNESS_FACE",
+  "title": "The witness's face",
+  "verbatim": "One witness, horror only. In a horror beat, one witness's face may come before the thing, once a scene; the reaction shot used as characterisation stays a tell everywhere else.",
+  "question": "May a horror beat show one witness's face before the thing itself?",
+  "rules_touched": [
+   "R5-G-TELL_BANK_ADDITIONS",
+   "R70-72-WATCHING_CROWD_POWER_REVEAL",
+   "R70-69-PRESSURE_AURA"
+  ]
+ },
+ {
+  "n": 35,
+  "qid": "IN1",
+  "section": "IN",
+  "id": "R74-35-WHAT_TURNS_COUNCIL",
+  "title": "What turns a council",
+  "verbatim": "The dated fact. The turn is arithmetic or paper: a date that does not fit, a column, a seal, found on the page where a player could find it first. Speech and reads colour it.",
+  "question": "What should a council or court scene turn on by default?",
+  "rules_touched": [
+   "R70-111-LONG_FORMAL_SPEECH_CLIPPED",
+   "R70-112-FACE_FACE_SLAP",
+   "R48-30-SURPRISES",
+   "R60-20-HOW_POWERS_FIGHT"
+  ]
+ },
+ {
+  "n": 36,
+  "qid": "IN2",
+  "section": "IN",
+  "id": "R74-36-FEINTS_WITHIN_FEINTS",
+  "title": "Feints within feints",
+  "verbatim": "Any depth, each planted. Schemes nest as deep as the faction can afford, and every layer leaves at least one sign a player could catch before that layer turns.",
+  "question": "How deep may a scheme nest, and what must each layer leave behind?",
+  "rules_touched": [
+   "R48-30-SURPRISES",
+   "R60-20-HOW_POWERS_FIGHT",
+   "R48-36-NPC_WITS",
+   "R57-10-NEVER_RIGGED"
+  ]
+ },
+ {
+  "n": 37,
+  "qid": "IN3",
+  "section": "IN",
+  "id": "R74-37-BETRAYAL_TRUSTED",
+  "title": "Betrayal by the trusted",
+  "verbatim": "The warm bond is safe. The thread's standing warm bond never betrays by choice; anyone else may, with the signs shown twice before the turn (R71-23's rhythm).",
+  "question": "May an NPC Isaac's PC trusts betray him, and who is off limits?",
+  "rules_touched": [
+   "R48-30-SURPRISES",
+   "R70-114-GRIMDARK_WARMTH",
+   "R71-23-TELL_READ"
+  ]
+ },
+ {
+  "n": 38,
+  "qid": "IN4",
+  "section": "IN",
+  "id": "R74-38-LEVERAGE_BLACKMAIL",
+  "title": "Leverage and blackmail",
+  "verbatim": "Held, it marks the holder. As B, and every held secret is also a Ledger risk against its holder, on the same line as K4's B: someone wants the secret, or the man who holds it, gone.",
+  "question": "How does a held secret work as leverage?",
+  "rules_touched": [
+   "R70-112-FACE_FACE_SLAP",
+   "R71-101-LAW_TURNS",
+   "R48-36-NPC_WITS"
+  ]
+ },
+ {
+  "n": 39,
+  "qid": "IN5",
+  "section": "IN",
+  "id": "R74-39-SPIES_INFORMATION_TRADE",
+  "title": "Spies and the information trade",
+  "verbatim": "Yes to: The press as intelligence (Inserts, bulletins and the penny press carry public intelligence both ways: whoever reads them learns something, and is learned about by whoever filed them); Letters as exhibits (Intercepted letters, wires and dockets appear in full as documents Isaac can read (R70-67), with seal, hand and paper described as clues); Tradecraft per service (Each service (the Watch, the Mother's cultures, the Moto court, the Mahuo houses) gets working words for agents, drops and watchers in its Inventory's Words entry (R70-33)).",
+  "question": "Which pieces of the information trade should the table run?",
+  "rules_touched": [
+   "R60-26-NIGHT_WATCH_SOCIETY",
+   "R70-67-FORMS_WORLD_DOCUMENTS",
+   "R70-33-WORD_BANK_PER_CULTURE",
+   "R48-26-INVENTION"
+  ]
+ },
+ {
+  "n": 40,
+  "qid": "IN8",
+  "section": "IN",
+  "id": "R74-40-ONE_MAN_TWO_FACES",
+  "title": "One man, two faces",
+  "verbatim": "Either road; masks leak. A or B, at least one link planted before the unmasking; a face held by a working has its Codex line and leaks a seam, as an impression-body (a dead man's likeness worked from his Trace) does under R71-87.",
+  "question": "When an NPC lives two lives (an alias, a cell name, a mask at a gathering), what must tie the faces together for a player to catch?",
+  "rules_touched": [
+   "R60-23-THE_MOTHER",
+   "R67-8-MALPHAS_FILED_BY_TITLE",
+   "R71-87-IMPRESSION_BODY_VOICE",
+   "R71-23-TELL_READ",
+   "R57-10-NEVER_RIGGED"
+  ]
+ },
+ {
+  "n": 41,
+  "qid": "IN6",
+  "section": "IN",
+  "id": "R74-41-INTRIGUE_FRONT_FILE_SHOWS",
+  "title": "How much of a Front Isaac sees",
+  "verbatim": "Clock shown, contents sealed. For mystery and intrigue Fronts only, the clock and its ticks show; the Want and Next move live in a sealed file Natalie reads, opened to Isaac when the Front resolves or he asks.",
+  "question": "How much of a mystery or intrigue Front does Isaac see?",
+  "rules_touched": [
+   "R49-09-CUTAWAYS",
+   "R5-C1-INFO_TRACKED_PER_POV",
+   "R57-10-NEVER_RIGGED"
+  ]
+ },
+ {
+  "n": 42,
+  "qid": "IN7",
+  "section": "IN",
+  "id": "R74-42-WHEN_PROCESS_BOUGHT",
+  "title": "When the process is bought",
+  "verbatim": "Bought, with a trail. Courts and files can be bought, lost or sealed, and every corruption leaves a findable trail (a payment, a hand, a gap in a numbered series), as R71-84 makes forgeries; finding it reopens the case.",
+  "question": "May a faction buy a court or a file (a clerk paid, papers lost, a docket sealed), and what must that leave?",
+  "rules_touched": [
+   "R71-101-LAW_TURNS",
+   "R71-84-TRADE_PAPER_SCENE",
+   "R60-19-LAYERED_RULE",
+   "R57-10-NEVER_RIGGED"
+  ]
+ },
+ {
+  "n": 43,
+  "qid": "ME1",
+  "section": "ME",
+  "id": "R74-43-WHERE_MYSTERY_LAW_LANDS",
+  "title": "Where the law lands",
+  "verbatim": "Doc, NATALIE, a guide. B, plus a new Mystery, Horror and Intrigue Craft Guide in desktop/, so Natalie has one document to read before a dark or scheming scene.",
+  "question": "How do these answers land in the repo?",
+  "rules_touched": [
+   "R70-135-WHERE_NEW_LAW_LIVES"
+  ]
+ },
+ {
+  "n": 44,
+  "qid": "ME2",
+  "section": "ME",
+  "id": "R74-44-WHAT_TABLE_KEEPS_PAPER",
+  "title": "What the table keeps on paper",
+  "verbatim": "Yes to: Faction sheets (Every faction with a Front gets a sheet on the Powers page model: wants, holds, fights by, set against, fears, its method, and its seam); What NPCs know of him (The roster's knows line gains a running entry, updated at session end, of what each NPC in an intrigue knows or believes about the PC).",
+  "question": "What should the table keep on paper for intrigue?",
+  "rules_touched": [
+   "R60-20-HOW_POWERS_FIGHT",
+   "R48-36-NPC_WITS",
+   "R5-C1-INFO_TRACKED_PER_POV"
+  ]
+ },
+ {
+  "n": 45,
+  "qid": "ME3",
+  "section": "ME",
+  "id": "R74-45-MYSTERY_CHECKS_VERIFY",
+  "title": "Checks in verify_scene",
+  "verbatim": "Yes to: Cosmic stock words ('Unnameable', 'eldritch', 'indescribable', 'unspeakable' and 'nameless dread' join the hard-ban list as a fourth stock family, FAIL in narration; the Nameless day stays legal); Stale not-knowing lines (WARN past one a scene on 'could make nothing of it', 'did not know what that meant' and their kin, as the combat stale-device watch does for fights); Planted signs for turns (A scene whose notes mark a reveal, a betrayal or a case's solution FAILs unless the notes list an earlier planted sign (R48-30, R71-30)).",
+  "question": "Which checks should verify_scene gain with this law?",
+  "rules_touched": [
+   "R70-35-HARD_BAN_LIST",
+   "R70-136-NEW_CHECKS_VERIFY_SCENE",
+   "R48-30-SURPRISES",
+   "R71-30-HELD_BACK_REVEAL",
+   "R5-G-TELL_BANK_ADDITIONS"
+  ]
+ },
+ {
+  "n": 46,
+  "qid": "ME4",
+  "section": "ME",
+  "id": "R74-46-HORROR_INTRIGUE_SAMPLE_BANK",
+  "title": "The sample bank",
+  "verbatim": "Both. B as the new bank, and each culture file gains one dark scene so the voice and the type meet.",
+  "question": "What should the horror and intrigue sample bank hold?",
+  "rules_touched": [
+   "R70-138-PROOF_ORDER_WORK"
+  ]
+ }
+]

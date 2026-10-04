@@ -1,0 +1,936 @@
+{
+ "sections": [
+  {
+   "key": "K",
+   "title": "Keystones",
+   "intro": "The calls that set how a mystery works in WOTR at all: how much the reader may solve, how secrets are kept and paid, what knowing costs, how lies are caught, and how a case plays at the table against the page.",
+   "questions": [
+    {
+     "id": "K1",
+     "title": "How much the reader may solve",
+     "question": "In written work, does the reader stand ahead of the investigator, beside him, or does each book choose?",
+     "context": "R5-C1 defaults to writing 'from whoever knows least'. Isaac's own manuscripts run dramatic irony (the reader knows what a character does not): Malphas's coldhouse shown in full, then Wystan's catch. The Golden Age puzzle and honkaku (Japan's 'orthodox' fair-play mystery) keep the villain's room shut so the reader can race the detective.",
+     "options": [
+      {
+       "key": "A",
+       "label": "Reader ahead, inverted",
+       "consequence": "The villain's room is shown; the reader knows who and how, and the pleasure is the catch and its cost (the howcatchem, Columbo's form). R5-C1's least-knowing default narrows to the investigator's own scenes."
+      },
+      {
+       "key": "B",
+       "label": "Reader beside, fair puzzle",
+       "consequence": "The villain's room stays shut until the solution; the reader holds exactly what the investigator holds and may beat him to it. Cutaways to the other side end inside a mystery."
+      },
+      {
+       "key": "C",
+       "label": "Each book declares",
+       "consequence": "Each book or thread bible names its mode: inverted, fair puzzle, or the split (the reader knows who, never how or why). Undeclared work defaults to inverted, the house mode."
+      }
+     ],
+     "recommended": "C",
+     "rec_reason": "Isaac's own work is inverted and the Night Watch book depends on it, but Mother of Learning and Death Note show the race pays too; declaring per book keeps both honest.",
+     "multi": false,
+     "depends_on": [],
+     "rules_touched": [
+      "R5-C1-WRITE_FROM_LEAST_KNOWING",
+      "R5-C1-INFO_TRACKED_PER_POV",
+      "R5-C1-NARRATION_NEVER_WINKS",
+      "R49-09-CUTAWAYS"
+     ]
+    },
+    {
+     "id": "K2",
+     "title": "The fair-play terms",
+     "question": "Which fair-play terms become law for every mystery, written or played?",
+     "context": "R48-30 wants surprises 'a player could have caught' and R71-30 lists each planted sign, but only for fights. Ronald Knox's 1929 commandments and S. S. Van Dine's rules bar unseen clues and the 'undiscovered poison' explained by a lecture. Magic already breaks Knox's ban on the supernatural, so WOTR needs its own version.",
+     "options": [
+      {
+       "key": "A",
+       "label": "Nothing unseen",
+       "consequence": "The solution rests only on what the reader or player was shown. A clue the investigator held and the page withheld voids the solution; the notes list every clue used."
+      },
+      {
+       "key": "B",
+       "label": "Codex-backed solutions",
+       "consequence": "Any working in a solution has a Codex line and its rule acted on the page first. No working is invented to solve a case; one that falsifies perception is planted (R71-30) or barred."
+      },
+      {
+       "key": "C",
+       "label": "Sealed solution",
+       "consequence": "The truth (who, how, why) is written in the notes before the first clue is placed and never moves to fit a guess, as R57-10 already bars rigging."
+      },
+      {
+       "key": "D",
+       "label": "A challenge mark",
+       "consequence": "Ellery Queen's device: a book marks the point where every clue is on the page, as a chapter-head line or a set-off notice, before the solution."
+      }
+     ],
+     "recommended": "A,B,C",
+     "rec_reason": "These three are 'fair abilities with findable counters' applied to secrets; the challenge mark is a parlour-game device that sits badly in a grimdark chancery.",
+     "multi": true,
+     "depends_on": [],
+     "rules_touched": [
+      "R48-30-SURPRISES",
+      "R57-10-NEVER_RIGGED",
+      "R71-30-HELD_BACK_REVEAL",
+      "R12-3-NAMED_INVENTOR_RULE",
+      "R70-71-EXPLAINING_WORKING_MID_FIGHT"
+     ]
+    },
+    {
+     "id": "K3",
+     "title": "When secrets pay",
+     "question": "How often does a thread pay one of its secrets, and may one stay unpaid for good?",
+     "context": "Nothing rules it. R70-17 lets a scene break off so the next owes what was withheld; R47-12 keeps the world's own mysteries open. The night-watch book's chapter-ten audit found 23 open hooks, seven dormant. Isaac's one-word letter for Valdís is the archive's only secret withheld from the reader as well.",
+     "options": [
+      {
+       "key": "A",
+       "label": "Something every session",
+       "consequence": "Each session pays one piece of an open secret, small or large, in the web-serial manner; no secret lies dormant more than two sessions without a new sign."
+      },
+      {
+       "key": "B",
+       "label": "Caught or clocked",
+       "consequence": "A secret pays when the PC catches it or its Front resolves, never on a timer. A few are marked 'kept' and never pay on the page, as the one-word letter."
+      },
+      {
+       "key": "C",
+       "label": "Big ones at arc ends",
+       "consequence": "Small pieces pay whenever caught; the large secrets (a hidden hand, a true parentage) pay only at an arc's end, staged as set pieces."
+      }
+     ],
+     "recommended": "B",
+     "rec_reason": "It keeps the solve in Isaac's hands and lets the Fronts pay what he misses; a kept secret or two is what makes the rest of the world feel deep.",
+     "multi": false,
+     "depends_on": [],
+     "rules_touched": [
+      "R70-17-CLOSING_MODES",
+      "R47-12-MYSTERY_STAYS_OPEN"
+     ]
+    },
+    {
+     "id": "K4",
+     "title": "What knowing costs",
+     "question": "Is knowledge itself dangerous in WOTR, and through what?",
+     "context": "Canon prices contact only: every Anamnesis read 'erasing what it takes' (R61-108), and an artificer who spent his last months answering to the wrong name. Lord of the Mysteries lets names and texts harm their reader. WOTR's magic is public and licensed (R60-13), so that novel's hidden-world premise cannot carry. The mind fraying under fear is the Horror section's.",
+     "options": [
+      {
+       "key": "A",
+       "label": "Only contact costs",
+       "consequence": "Status quo: knowing is safe, and reading a residue by bare-fingered contact is the one priced act. Forbidden texts are dangerous only because the Gate punishes holding them."
+      },
+      {
+       "key": "B",
+       "label": "Being known to know",
+       "consequence": "The danger is who notices: the Gate punishes unlicensed knowledge, The Mother reads the inserts, a witness becomes a target. Every secret learned opens a Ledger line on who knows he knows."
+      },
+      {
+       "key": "C",
+       "label": "Records that act",
+       "consequence": "B, plus a few records act on whoever touches them through canon mechanism (a record held in an object, R61-70), priced by Resilience, the counter named in the notes. No invented figure."
+      },
+      {
+       "key": "D",
+       "label": "Names that call",
+       "consequence": "C, plus speaking certain true names draws the owner's attention, the Lord of the Mysteries device, given a WOTR mechanism and a findable counter before it is ever used."
+      }
+     ],
+     "recommended": "C",
+     "rec_reason": "Isaac picked the Lord of the Mysteries register, and C gives its dangerous texts on canon mechanism with a counter, while B's danger fits a world where magic is administered.",
+     "multi": false,
+     "depends_on": [],
+     "rules_touched": [
+      "R61-108-MORTALIS_FULL_COST_STACK",
+      "R61-70-ANAMNESIS_READS_NOT_STORES",
+      "R60-13-THE_GATE",
+      "R12-2-MYSTIC_REGISTER_DEF"
+     ]
+    },
+    {
+     "id": "K5",
+     "title": "Catching a lie",
+     "question": "What counts as catching an NPC's lie, and what becomes of one never caught?",
+     "context": "Table Rule 8 keeps a wrong NPC statement 'uncorrected until he catches it', and R48-42 says 'the player has to catch them'; neither says what catching is. Rovhen's notes log the lie as uncorrected, and Josse's stands for good. How many lies a session carries is the table questionnaire's question.",
+     "options": [
+      {
+       "key": "A",
+       "label": "Caught by acting on it",
+       "consequence": "Caught when his PC acts on the truth or names the lie in play. An uncaught lie pays out in the world: a Front ticks on it, and the notes log both."
+      },
+      {
+       "key": "B",
+       "label": "Caught when named",
+       "consequence": "Caught when Isaac names it, in or out of character. An uncaught lie stands for good and lives only in the notes, as Josse's 'I have not sold you' does."
+      },
+      {
+       "key": "C",
+       "label": "Caught by the page",
+       "consequence": "A fact on the page that breaks it counts as caught, taken up or not. An uncaught lie surfaces in the State of Play at the arc's end."
+      }
+     ],
+     "recommended": "A",
+     "rec_reason": "Grimdark wants the bill: a lie that costs nothing when missed is decoration, and acting on the truth is how a player shows he caught it.",
+     "multi": false,
+     "depends_on": [],
+     "rules_touched": [
+      "R48-42-LIES",
+      "R49-36-LIE_TELLS",
+      "R49-11-NOT_KNOWING"
+     ]
+    },
+    {
+     "id": "K6",
+     "title": "Finding clues at the table",
+     "question": "When Isaac's PC searches, how are clues found?",
+     "context": "R71-6 has Natalie place the tell and never draw the deduction; R48-48 explains only when asked. GUMSHOE (Robin Laws's investigation system for tabletop play) rules that the right look always finds the core clue, so the drama is reading it. Older tabletop makes finding the test, and a missed clue stays missed.",
+     "options": [
+      {
+       "key": "A",
+       "label": "The right look finds",
+       "consequence": "GUMSHOE whole: his PC looking in the right place with the right means finds every clue there; nothing hides behind luck or phrasing."
+      },
+      {
+       "key": "B",
+       "label": "Only the right question",
+       "consequence": "A clue is found only when Isaac names where to look or what to test; a vague search finds the room's surface, and missed clues stay missed."
+      },
+      {
+       "key": "C",
+       "label": "Core found, extras earned",
+       "consequence": "Each conclusion's core clue comes to any sensible look; the further clues that sharpen it, speed it or name the purse come only to the right question or instrument."
+      }
+     ],
+     "recommended": "C",
+     "rec_reason": "It never strands a case on phrasing, and it still rewards Isaac for reading the Standing Inventory the way the archive's best clues (oil where tallow burns) demand.",
+     "multi": false,
+     "depends_on": [],
+     "rules_touched": [
+      "R71-6-PLAYER_FIGHTER_PAGE",
+      "R71-23-TELL_READ",
+      "R48-48-EXPLAIN",
+      "R6-2-READ_DELIVERS_FACT"
+     ]
+    },
+    {
+     "id": "K7",
+     "title": "Cutting away at the table",
+     "question": "While Isaac's PC works a case, may a turn cut away to the other side?",
+     "context": "R49-09 lets a turn close on 'an NPC plotting'. In written work that is the house's dramatic irony; at the table it can hand Isaac the answer his PC is hunting. Samples: a roleplay turn's last lines, present tense, in a Board gauge-house where the clerk Pell died at his book.",
+     "options": [
+      {
+       "key": "A",
+       "label": "No cut in his case",
+       "consequence": "While his PC works a case, no cutaway touches it; the turn ends on what he can see. Cutaways stay legal for every other Front.",
+       "sample": "The gauge book lies open under the lamp where Pell's cheek last rested on it. Every entry runs the same brown-black down the column, draughts and hours in a clerk's square hand, until the last line, which is grey. *Housing sound. Seal entire.* On the brass housing behind the desk the Board's seal stands a little proud of the slate, and under the reek of lamp oil there is a smell of hot wax that ought to have gone cold a day ago."
+      },
+      {
+       "key": "B",
+       "label": "Cut to the hand",
+       "consequence": "A turn may close on a short marked cut to the other side moving (a hand, a room, a deed) that may carry a clue, never a face, a name or the answer.",
+       "sample": "The last line in the gauge book is grey where every line above it has gone brown-black. *Housing sound. Seal entire.*\n\n*Two streets over.* A gloved hand writes *Seal entire* on a sheet of scrap in a clerk's square hand, and again below it, and again, until the last could pass a Board audit. Then it feeds the sheet to the stove a corner at a time and holds the poker on the ash until it breaks."
+      },
+      {
+       "key": "C",
+       "label": "Cut freely",
+       "consequence": "Dramatic irony at the table: a cutaway may name the culprit and show his reasons, and Isaac plays his PC's ignorance as an actor does.",
+       "sample": "The last line in the gauge book is grey where every line above it has gone brown-black. *Housing sound. Seal entire.*\n\n*Two streets over.* Orrin Vass, Board inspector for the Cutler Row split, feeds the stove a sheet of scrap a corner at a time. Twenty lines of *Seal entire* curl brown in a clerk's square hand, and the last of them could pass an audit. *A melted coin does not testify,* he thinks, and holds the poker on the ash."
+      }
+     ],
+     "recommended": "B",
+     "rec_reason": "It keeps the Front moving and the dread live, can plant a fair clue, and leaves the solve with Isaac, which is the whole game at the table (R71-6).",
+     "multi": false,
+     "depends_on": [
+      "K1"
+     ],
+     "rules_touched": [
+      "R49-09-CUTAWAYS",
+      "R5-C1-WRITE_FROM_LEAST_KNOWING",
+      "R71-6-PLAYER_FIGHTER_PAGE"
+     ]
+    }
+   ]
+  },
+  {
+   "key": "MY",
+   "title": "Mystery and investigation",
+   "intro": "How a case is built, worked and closed: clue counts and records, false leads and the fail state, the Night Watch on the page, interrogation, witnesses and instruments, the investigator's head, the reveal and the solution.",
+   "questions": [
+    {
+     "id": "MY1",
+     "title": "Clues per conclusion",
+     "question": "How many clues must point to each conclusion a case needs reached?",
+     "context": "Nothing rules it. Justin Alexander's Three Clue Rule (from tabletop practice) plants at least three for every conclusion, because players miss, misread and forget. R71-23 shows a fighting tell twice before it is read. The archive's clues come through three roads: the room, a mouth, and paper.",
+     "options": [
+      {
+       "key": "A",
+       "label": "Three, by three roads",
+       "consequence": "At least three clues per conclusion: one in the room, one in a mouth, one on paper or an instrument, so no single kind of looking is required. The notes list all three."
+      },
+      {
+       "key": "B",
+       "label": "Three, any road",
+       "consequence": "At least three clues per conclusion, by whatever roads the case offers; the notes list them."
+      },
+      {
+       "key": "C",
+       "label": "Two sightings",
+       "consequence": "R71-23 extended to investigation: each conclusion's clue shows plainly twice before it can be read, and one road is enough."
+      },
+      {
+       "key": "D",
+       "label": "One clear clue",
+       "consequence": "One clue per conclusion, placed fairly; the case is a test, and missing it is a real failure."
+      }
+     ],
+     "recommended": "A",
+     "rec_reason": "The house's clues already live in rooms, mouths and ledgers, and three roads let Isaac solve by his PC's strengths instead of by Natalie's favourite door.",
+     "multi": false,
+     "depends_on": [
+      "K6"
+     ],
+     "rules_touched": [
+      "R71-23-TELL_READ",
+      "R48-30-SURPRISES"
+     ]
+    },
+    {
+     "id": "MY2",
+     "title": "Where the truth is kept",
+     "question": "Which records does every open mystery keep?",
+     "context": "The truth behind each open mystery is scattered across villain-POV scenes, cards and CONTINUITY.md. The night-watch book tracks 32 hooks, but the Kharven thread's oil lamp, burn-salve and one-word letter sit in no Front, Ledger line or bible. R71-30 lists planted signs, for fights only.",
+     "options": [
+      {
+       "key": "A",
+       "label": "A sealed truth file",
+       "consequence": "One entry per open mystery under table/: who, how, why, what each NPC knows, and what is kept for good. Natalie reads it each session; recaps and player-safe text never quote it."
+      },
+      {
+       "key": "B",
+       "label": "Clue list in the notes",
+       "consequence": "Every scene's author notes list each clue planted, found or missed, and the conclusion it serves, so fairness can be audited after."
+      },
+      {
+       "key": "C",
+       "label": "A clue column on Fronts",
+       "consequence": "Each mystery's Front carries planted, found and missed clue lines beside its Want and Next move."
+      },
+      {
+       "key": "D",
+       "label": "Ledger's who-knows-what",
+       "consequence": "The Ledger's existing 'who knows what' section gains a line for every PC-facing secret, with its due condition."
+      }
+     ],
+     "recommended": "A,B",
+     "rec_reason": "A gives the sealed solution a home and B makes every scene auditable; the Ledger and Fronts already carry enough, and a third copy drifts.",
+     "multi": true,
+     "depends_on": [
+      "K2"
+     ],
+     "rules_touched": [
+      "R71-30-HELD_BACK_REVEAL",
+      "R5-C1-INFO_TRACKED_PER_POV"
+     ]
+    },
+    {
+     "id": "MY3",
+     "title": "Red herrings",
+     "question": "Are red herrings (false leads planted on purpose) legal, and what may they be built from?",
+     "context": "R49-36 governs lies, and R12-4 makes a confident wrong explanation 'the most valuable tool in the kit'. Christie built her false leads only from true facts pointing the wrong way; a planted false object no reader could refute breaks fair play. No WOTR rule names them.",
+     "options": [
+      {
+       "key": "A",
+       "label": "None at all",
+       "consequence": "Every planted clue points true; misdirection comes only from what the POV fails to weigh and from NPC lies, which already owe a tell."
+      },
+      {
+       "key": "B",
+       "label": "True facts, refutable",
+       "consequence": "A herring is built from true facts that point the wrong way, is refutable on the page, and is listed as a herring in the notes."
+      },
+      {
+       "key": "C",
+       "label": "Wrong theories only",
+       "consequence": "The only false leads are NPCs' confident wrong theories (R12-4); no object or document is planted to mislead."
+      }
+     ],
+     "recommended": "B",
+     "rec_reason": "It is Christie's fair method, it gives veteran-clever NPCs (R48-36) room to frame someone, and the notes keep it auditable.",
+     "multi": false,
+     "depends_on": [],
+     "rules_touched": [
+      "R12-4-VOICE_ONE_POV",
+      "R5-C1-WELL_REASONED_WRONG_CONCLUSION",
+      "R48-36-NPC_WITS"
+     ]
+    },
+    {
+     "id": "MY4",
+     "title": "When the clues are missed",
+     "question": "If a case's clues go unread, what happens?",
+     "context": "R71-8 promises every fight 'a findable line out'; nothing says what a missed case does. Tabletop designers warn against the dead end, a case that stalls for good when one clue is missed. R71-101 already puts an unread killing on the Ledger as a risk.",
+     "options": [
+      {
+       "key": "A",
+       "label": "The culprit wins",
+       "consequence": "A missed case lets its Front resolve against the PC; the world moves on and the truth stays in the file."
+      },
+      {
+       "key": "B",
+       "label": "A second road opens",
+       "consequence": "The world moves and opens a new route: another body, a letter, a witness who comes forward. The case stays solvable at no extra cost."
+      },
+      {
+       "key": "C",
+       "label": "Both, at a price",
+       "consequence": "The Front ticks and a costlier road opens: each miss spends something (a witness, a Trace read once, a life), so the case stays solvable and the delay shows on the Ledger."
+      }
+     ],
+     "recommended": "C",
+     "rec_reason": "Grimdark charges for every miss, and a case that can always be solved for a price keeps the table moving without ever being rigged.",
+     "multi": false,
+     "depends_on": [
+      "K6"
+     ],
+     "rules_touched": [
+      "R71-8-CORE_PROMISE",
+      "R71-101-LAW_TURNS",
+      "R48-31-STAKES"
+     ]
+    },
+    {
+     "id": "MY5",
+     "title": "The Night Watch at work",
+     "question": "How does a Night Watch search read on the page?",
+     "context": "R71-81 plays a residue reading 'as action', and R12-4's document voice drops a register entry at a threshold. The Watch's page has coils walked along walls, Fixatio-anchored tins under chapter wax, and dockets. Samples: written scene, past tense; a coil-carrier searches the gauge-house where the Board's clerk died.",
+     "options": [
+      {
+       "key": "A",
+       "label": "Protocol as action",
+       "consequence": "R71-81 extended to every Watch search (rooms, bodies, seals): each step plays as action with figures spoken aloud, and the docket never appears.",
+       "sample": "Quail read ambient at the door and said it aloud, and Pegg wrote it on his cuff. Then she walked the coil along the slate at chest height, watching the wire and not the room. It lay quiet past the meter and the stopcock. At the brass housing it leaned. She held it there. Pegg had the tin open before she asked. She scraped the Board's seal with her nail-knife, and the wax came away in two layers, an old red under a newer one."
+      },
+      {
+       "key": "B",
+       "label": "The docket tells it",
+       "consequence": "The search reaches the page as the Register's own filing (R70-67's forms): exhibits, readings and the carrier's remark, the action left implied.",
+       "sample": "EXHIBIT C. One tin, Fixatio-anchored. Contents: wax scraped from the Board's seal on the gauge-housing at the Cutler Row split, taken standing, sealed under chapter wax inside the hour, struck with the Register's brass on receipt. Ambient read before and after by the carrier, figures attached. Coil quiet at meter and stopcock, leaning at the housing. Carrier's remark: the wax lifts in two layers, an old red under a newer one, as a seal broken and struck again will. Assay of record: Quail, H."
+      },
+      {
+       "key": "C",
+       "label": "Docket, then the room",
+       "consequence": "A one-line docket entry opens the scene at its threshold (R70-16), and the search then plays as action, testing it.",
+       "sample": "*Register exhibit C, Cutler Row split: wax from the housing seal, taken standing.*\n\nThat was all the docket would say of it. The search took most of an hour. Quail walked the coil along the slate with her eyes on the wire, past the meter, past the stopcock, and at the brass housing it leaned like a dog at a door. Pegg held the tin. She scraped the Board's seal with her nail-knife, and the wax came away in two layers, an old red under a newer one."
+      }
+     ],
+     "recommended": "C",
+     "rec_reason": "It is the Lord of the Mysteries threshold and the shape of Isaac's own Night's Watch, keeps R71-81's action, and lets the clerk's flat line and the long hour argue with each other.",
+     "multi": false,
+     "depends_on": [],
+     "rules_touched": [
+      "R71-81-FORENSIC_READING_PAGE",
+      "R12-4-VOICE_FOUR_DOCUMENT",
+      "R70-67-FORMS_WORLD_DOCUMENTS",
+      "R70-16-OPENING_MODES",
+      "R60-26-NIGHT_WATCH_SOCIETY"
+     ]
+    },
+    {
+     "id": "MY6",
+     "title": "The interrogation",
+     "question": "How does a questioning read when the witness is lying?",
+     "context": "The archive has reports and councils but no interrogation written out; Josse's runs two sentences. R71-22 makes a lie inside a fight a move with a price. Mantel's Cromwell makes every courtesy a threat. Samples: written scene, past tense; a Society man questions the lamp boy who found the body, and the boy lies about the hour.",
+     "options": [
+      {
+       "key": "A",
+       "label": "A duel of tells",
+       "consequence": "R71-22's accounting extends past fights: each question aims at a tell, and the page shows what it bought or cost.",
+       "sample": "\"When did the hum stop?\"\n\n\"Third hour. Same as always.\" Tam said it before the question was done.\n\nPegg turned his own lamp up so the boy's hands showed: lamp-black on the fingers, as there should be, and a new copper turning over and over in the right one. \"Then you lit the Row twice,\" he said, \"since your can's half empty and it's a short row.\" The coin stopped. That bought him the boy's eyes, and cost him the boy's mouth for the rest of the night."
+      },
+      {
+       "key": "B",
+       "label": "The quiet interview",
+       "consequence": "Courtesy is the threat, Mantel's way: the questioner asks after the witness's life, writes the lie down as if true, and the reader feels what went unsaid.",
+       "sample": "Pegg gave the boy the stool and took the step himself, so that Tam had to look up at him. He asked after Tam's mother, and her chest, and whether the Board had cut her plate yet for the arrears. Tam said not yet. Pegg said that was a mercy, the Board being slow in a cold quarter. Then he asked when the hum had stopped, and Tam said the third hour, same as always, and Pegg wrote it down in his good hand and thanked him."
+      },
+      {
+       "key": "C",
+       "label": "Summary, then the line",
+       "consequence": "The archive's habit kept: the questioning is summarised, and only the line that matters is played, with its tell.",
+       "sample": "Pegg had the boy on the step for most of an hour and got the shape of the night out of him: the lamps on the Row, oil because the main was down, the gauge-house door standing open, Pell at his book with his cheek on the page. Tam told it twice and both tellings matched. At the end Pegg asked when the hum had stopped.\n\n\"Third hour,\" Tam said. \"Same as always.\"\n\nHe said it before Pegg had finished asking."
+      }
+     ],
+     "recommended": "A",
+     "rec_reason": "It is the interrogation the archive has never written, it gives Isaac's PC a fair read of every tell, and it matches the combat law he has just ruled.",
+     "multi": false,
+     "depends_on": [],
+     "rules_touched": [
+      "R71-22-TALK_INSIDE_FIGHT",
+      "R49-36-LIE_TELLS",
+      "R19-4-ICEBERG_DIALOGUE"
+     ]
+    },
+    {
+     "id": "MY7",
+     "title": "True words that deceive",
+     "question": "Does a statement that is true but built to deceive owe the listener a tell?",
+     "context": "R49-36: 'Every lie leaves a catchable tell.' Intrigue's sharpest tool is the literal truth that misleads, and Hild names it in the archive: Edward's truth 'built to make me act, which is a third thing'. Nothing rules whether such a statement counts as a lie under the law.",
+     "options": [
+      {
+       "key": "A",
+       "label": "Owes a tell",
+       "consequence": "R49-36 extends: a deceiving truth leaves a body tell, a fact that does not fit, or a detail changed later, as a lie does."
+      },
+      {
+       "key": "B",
+       "label": "Owes a gap",
+       "consequence": "It must be literally true and checkable; the deceit lies in what it leaves out, and one precise question breaks it. The notes name that question."
+      },
+      {
+       "key": "C",
+       "label": "Owes nothing",
+       "consequence": "A true statement is fair play; catching what it hides is entirely the player's craft."
+      }
+     ],
+     "recommended": "B",
+     "rec_reason": "It keeps the honest-word trick that courts and oath cultures live on, and it stays fair, because the hole is always findable by a sharp question.",
+     "multi": false,
+     "depends_on": [],
+     "rules_touched": [
+      "R49-36-LIE_TELLS",
+      "R48-42-LIES"
+     ]
+    },
+    {
+     "id": "MY8",
+     "title": "Clue objects",
+     "question": "Which objects carry the clues, case to case?",
+     "context": "The archive's best clues are priced in the economy: oil where tallow burns, a salve too good for the kitchen, a grain date that does not fit. But lamps, wax and ledgers lead nearly every case. R70-44 already gives each Standing Inventory a 'Notices first' line.",
+     "options": [
+      {
+       "key": "A",
+       "label": "Keep the house signature",
+       "consequence": "Lamps, wax, seals and ledgers stay the leading clue beds in every culture, the Draw Age's paperwork as every case's spine."
+      },
+      {
+       "key": "B",
+       "label": "By culture",
+       "consequence": "Each Standing Inventory gains a 'Clue beds' line beside 'Notices first': Kharven counts and the woodpile, Accord meters and wax, Moto seals and court verse. A case draws its clues from its culture."
+      },
+      {
+       "key": "C",
+       "label": "Rotate per case",
+       "consequence": "No clue object leads two cases running in one thread; the notes log which objects led, and the next case picks another."
+      }
+     ],
+     "recommended": "B",
+     "rec_reason": "It keeps money-before-magic detection fair to anyone who reads the Inventory, and it breaks the lamp-and-wax habit without banning it.",
+     "multi": false,
+     "depends_on": [],
+     "rules_touched": [
+      "R70-44-CULTURE_KEYED_NOTICING",
+      "R71-84-TRADE_PAPER_SCENE"
+     ]
+    },
+    {
+     "id": "MY9",
+     "title": "The investigator's head",
+     "question": "When the POV is the investigator, how much of her thinking does the reader get?",
+     "context": "R70-38 allows both numbered steps in italic thought and 'the unsaid'. Knox bars a narrator who hides his thoughts; Holmes keeps his to the end. Samples: written scene, past tense; the coil-carrier finds the dead clerk's last line in fresher ink (iron-gall ink writes pale and darkens over hours as it oxidises).",
+     "options": [
+      {
+       "key": "A",
+       "label": "Holmes's silence",
+       "consequence": "The investigator may notice what the page withholds; the reader sees her act on it and learns why at the solution. Legal under R70-38, unfair by Knox.",
+       "sample": "Quail turned the gauge book to the lamp and read down the column slowly, and when she reached the foot of it she read the last line again. She stood a while with one finger on the margin beside it. Pegg coughed. She closed the book without marking the page and asked him who held the Board's seal press for the Cutler Row split."
+      },
+      {
+       "key": "B",
+       "label": "Every step aloud",
+       "consequence": "Every inference reaches the page as she makes it, in numbered italic thought (R70-38); the reader always knows what the investigator thinks.",
+       "sample": "The last line was grey where every line above it had gone brown-black. *One: iron-gall writes pale and darkens in the air, a night to go black. Two: the column above is a night old. Three: so this line went in hours after the rest, perhaps after his cheek was on the page. Four: someone wrote Seal entire in his hand.* She closed the book and asked Pegg who held the Board's seal press for the Cutler Row split."
+      },
+      {
+       "key": "C",
+       "label": "Facts shown, conclusion held",
+       "consequence": "Every fact she notices reaches the page plainly; the conclusion waits, carried by her next act. Numbered steps stay legal at the solution.",
+       "sample": "Every line in the column had gone the brown-black that iron-gall goes when it has had a night in the air. The last line was grey. *Housing sound. Seal entire.* Quail tipped the book toward the lamp and the grey stayed grey, and the sour vinegar smell of fresh ink still came off the page. She closed it and asked Pegg who held the Board's seal press for the Cutler Row split."
+      }
+     ],
+     "recommended": "C",
+     "rec_reason": "It meets Knox's fairness and keeps Kawabata's unsaid, so the reader races the investigator on equal facts; the stepwise list then pays off at the solution, Death Note style.",
+     "multi": false,
+     "depends_on": [],
+     "rules_touched": [
+      "R70-38-REASONING_SHOWS",
+      "R12-4-VOICE_ONE_POV"
+     ]
+    },
+    {
+     "id": "MY10",
+     "title": "How witnesses err",
+     "question": "When a witness is wrong without lying, how is the error built?",
+     "context": "The roster files believed errors and lies under one 'lied about' field (Josse Osricsson's honest error sits there). Elizabeth Loftus's eyewitness research shows real patterns: time squeezed, the weapon remembered over the face, details planted by a leading question. R70-44 already lets a culture misread a room.",
+     "options": [
+      {
+       "key": "A",
+       "label": "As memory really errs",
+       "consequence": "Each witness's honest error follows real memory science, and a careful questioner can find it by the pattern."
+      },
+      {
+       "key": "B",
+       "label": "As their culture misreads",
+       "consequence": "Each witness misreads by his Standing Inventory and folk belief (R70-44 and R53-15 extended to testimony)."
+      },
+      {
+       "key": "C",
+       "label": "Both, logged apart",
+       "consequence": "Every witness carries one honest error, real or cultural, and the roster gains an 'errs about' field beside 'lied about', so the two never share a budget."
+      }
+     ],
+     "recommended": "C",
+     "rec_reason": "Isaac wants real science and culture-keyed worlds both, and splitting error from lie keeps R49-36's tell owed only where someone chose to deceive.",
+     "multi": false,
+     "depends_on": [],
+     "rules_touched": [
+      "R70-44-CULTURE_KEYED_NOTICING",
+      "R53-15-FOLK_BELIEFS",
+      "R49-36-LIE_TELLS"
+     ]
+    },
+    {
+     "id": "MY11",
+     "title": "What instruments prove",
+     "question": "Can an instrument's reading be wrong in a case?",
+     "context": "Readouts are law (R70-2), and R71-44 prints exact figures 'unless warded'. The Watch's page: a clean assay means only that nothing signed above the Bureau's floor. Umineko's 'red truth' (a statement the story guarantees true) makes a mystery fair by fixing some facts beyond doubt.",
+     "options": [
+      {
+       "key": "A",
+       "label": "Never lies, may miss",
+       "consequence": "Instruments print true. A case lives in what one was not built to read: below its floor, behind a ward, or asked the wrong question. The notes say which."
+      },
+      {
+       "key": "B",
+       "label": "May be wrong, findably",
+       "consequence": "Calibration drift and tampering exist; every wrong reading is findable by the chapter bench's standard or a second instrument, and R71-84's forgery law covers instruments too."
+      }
+     ],
+     "recommended": "A",
+     "rec_reason": "It gives every case a floor of hard truth to reason from, matches the Watch's own creed, and makes the cheat a matter of what was asked, which is fairer and stranger.",
+     "multi": false,
+     "depends_on": [],
+     "rules_touched": [
+      "R70-78-WHERE_SCREEN_COMES_FROM",
+      "R71-44-FACULTY_READ_MAN",
+      "R60-11-TRACE_EVIDENCE_AND_JURISDICTION",
+      "R71-84-TRADE_PAPER_SCENE"
+     ]
+    },
+    {
+     "id": "MY12",
+     "title": "The reveal",
+     "question": "How does the answer land on the page?",
+     "context": "R70-20 lets reveals run as clustered one-line paragraphs; Junji Ito holds a reveal for the page turn and draws it calm and complete. Samples: written scene, past tense; the coil-carrier proves the Board inspector sealed the dead clerk's gauge-housing twice in one night.",
+     "options": [
+      {
+       "key": "A",
+       "label": "Cold, in a cluster",
+       "consequence": "The answer lands as a short cluster of one-line paragraphs at the moment of proof; the explanation comes later or never.",
+       "sample": "Quail laid the scraped wax on Vass's bench and lowered his die onto it.\n\nIt went home.\n\nEvery ridge of the Board's arms sat in the old red, and the new wax over it had taken the same die a hair off true, the way a seal takes a hurried hand.\n\nOrrin Vass had sealed the Cutler Row housing twice in one night, and only one of those was in his book."
+      },
+      {
+       "key": "B",
+       "label": "The chain walked back",
+       "consequence": "The investigator lays the chain out link by link, each planted clue named, as for a hearing; the reader checks it against what he saw.",
+       "sample": "Quail set it out for the Warden as she would for a hearing. The ferrule at the split ran wider than the standard bore, so the house had drawn more than its book billed for as long as nobody measured it. The wax came off in two layers. Someone had struck the seal twice. Pell's last line was grey, hours younger than the rest, and it said the seal was entire. One man on the split carried the Board's die. She put Vass's press on the desk."
+      },
+      {
+       "key": "C",
+       "label": "The object, then silence",
+       "consequence": "The proof is a thing done in the room; nobody explains, and the chain reaches the reader in the next scene's docket or not at all.",
+       "sample": "The press was in the second drawer of Vass's bench, wrapped in a shammy that smelled of brass polish and hot wax. Quail unwrapped it without a word, turned the die to the lamp, and pressed it into the scrape of new wax from the Cutler Row housing. It went home to the last ridge. Vass looked at it for a long moment and then sat down on his own stool, carefully, like a man who has just been told the price of something."
+      }
+     ],
+     "recommended": "A",
+     "rec_reason": "Isaac's own reversals land as the record overturned in a line, R70-20 already licenses the cluster, and the full chain has its natural home in the hearing or docket that follows.",
+     "multi": false,
+     "depends_on": [
+      "MY13"
+     ],
+     "rules_touched": [
+      "R70-20-PARAGRAPH_SHAPE",
+      "R70-38-REASONING_SHOWS",
+      "R70-17-CLOSING_MODES"
+     ]
+    },
+    {
+     "id": "MY13",
+     "title": "The solution scene",
+     "question": "Which forms may a case's solution scene take?",
+     "context": "A drawing-room summation is one long voice, capped by R48-43's one crafted speech and R19-4's ban on telling people what they already know. Ace Attorney (a courtroom game) turns where a statement meets the exhibit that contradicts it. R71-81 already makes the instruments' contradiction a forensic scene's turn.",
+     "options": [
+      {
+       "key": "A",
+       "label": "The summation",
+       "consequence": "One voice lays out the case to the room, spending the scene's crafted speech (R48-43); the room must not already know what it hears."
+      },
+      {
+       "key": "B",
+       "label": "The hearing",
+       "consequence": "A court, inquest or Register hearing, turned where a statement meets the exhibit that breaks it; each culture's court keeps its own form (R70-111)."
+      },
+      {
+       "key": "C",
+       "label": "The procedure",
+       "consequence": "A test or instrument proves it on the page as action (R71-81), and the result is the verdict."
+      },
+      {
+       "key": "D",
+       "label": "The document",
+       "consequence": "The case closes as a filing, a docket or a set-off notice (R70-67, R70-17), its last line the verdict."
+      }
+     ],
+     "recommended": "B,C,D",
+     "rec_reason": "Isaac's world is a chancery with instruments, and these three solve through it; the summation drifts toward telling a room what it already heard.",
+     "multi": true,
+     "depends_on": [],
+     "rules_touched": [
+      "R48-43-SPEECHES",
+      "R19-4-ICEBERG_DIALOGUE",
+      "R71-81-FORENSIC_READING_PAGE",
+      "R70-67-FORMS_WORLD_DOCUMENTS",
+      "R70-111-LONG_FORMAL_SPEECH_CLIPPED"
+     ]
+    },
+    {
+     "id": "MY14",
+     "title": "The Watch at the table",
+     "question": "What is the Night Watch to a live thread?",
+     "context": "No live thread carries a Watch character. The Watch holds the crown's warrant, prints its walkers' names on every insert, and in Ketsuen a Searcher 'can ask and cannot compel' (R67-4). R70-97 already gives contract hooks a reward and a penalty.",
+     "options": [
+      {
+       "key": "A",
+       "label": "A patron with contracts",
+       "consequence": "The Register posts closed filings as contracts with a fee and a penalty (R70-97); a PC may take one, and the Watch's file follows him after."
+      },
+      {
+       "key": "B",
+       "label": "A rival office",
+       "consequence": "The Watch files on what PCs do (unlicensed high working, undeclared killings) and arrives as a Front when they do it."
+      },
+      {
+       "key": "C",
+       "label": "Both, by where",
+       "consequence": "Patron where the crown's warrant runs and the PC is neither the hand nor the purse; rival where he is either. In Ketsuen it can only ask."
+      },
+      {
+       "key": "D",
+       "label": "Book lens only",
+       "consequence": "The Watch stays in written work; a live thread meets it only as news in the Rumor Mill."
+      }
+     ],
+     "recommended": "C",
+     "rec_reason": "The Watch's own law decides which face it shows, which is fair and findable, and it gives every thread a standing mystery engine without a Watch PC.",
+     "multi": false,
+     "depends_on": [],
+     "rules_touched": [
+      "R60-22-THE_NIGHT_WATCH",
+      "R60-26-NIGHT_WATCH_SOCIETY",
+      "R67-4-CROWN_WARRANT_NOT_IN_KETSUEN",
+      "R70-97-QUESTS_CONTRACTS"
+     ]
+    },
+    {
+     "id": "MY15",
+     "title": "Naming Malphas in a file",
+     "question": "May a Night Watch file name Malphas, now that he signs the Necrocursica in his own name?",
+     "context": "C-125, open: the night-watch book's rule that no file names him binds the Farrant Papers (R61-62), yet he signs the Necrocursica 'in his own name' (R61-49), and the Codex volumes the Papers hold as exhibits name him. The Papers take the strict reading.",
+     "options": [
+      {
+       "key": "A",
+       "label": "Title only, everywhere",
+       "consequence": "No Watch file names him; he is filed by his title at his own written request, and named volumes are read at the desk, never copied in. The Papers stand."
+      },
+      {
+       "key": "B",
+       "label": "Named as author only",
+       "consequence": "A file may cite the Necrocursica by its signed author, as a bibliography line; no file connects that author to a case's hand, so the book's spine holds."
+      },
+      {
+       "key": "C",
+       "label": "Files name him freely",
+       "consequence": "The book's rule narrows to Wystan Ashmore's own case file; every other Watch record may name him."
+      }
+     ],
+     "recommended": "A",
+     "rec_reason": "The Papers already carry it, a villain choosing his own filing name is canon character, and the night-watch book's irony depends on the gap; it closes C-125 without rewriting a published page.",
+     "multi": false,
+     "depends_on": [],
+     "rules_touched": [
+      "R61-62-PAPERS_AUTHOR_NIGHT_WATCH",
+      "R61-49-NECROCURSICA_SIGNED_MALPHAS"
+     ]
+    }
+   ]
+  }
+ ],
+ "settled": [
+  {
+   "point": "Big surprises (betrayal, ambush, death) come only after foreshadowing a player could have caught, and a loss shows a sign and an exit first.",
+   "rule_ids": [
+    "R48-30-SURPRISES",
+    "R71-67-CLEAR_WARNING_BEFORE_LOSS"
+   ],
+   "why_not_asked": "Live law; this questionnaire extends it to cases through K2 and MY1 rather than reopening it."
+  },
+  {
+   "point": "NPCs lie often and for their own reasons, and every lie leaves a catchable tell.",
+   "rule_ids": [
+    "R48-42-LIES",
+    "R49-36-LIE_TELLS"
+   ],
+   "why_not_asked": "Live law; K5 asks only what catching is and what an uncaught lie does, and MY7 asks about true words that deceive."
+  },
+  {
+   "point": "A wrong conclusion is well reasoned, and the confident wrong explanation is the main tool of misdirection.",
+   "rule_ids": [
+    "R5-C1-WELL_REASONED_WRONG_CONCLUSION",
+    "R12-4-VOICE_ONE_POV"
+   ],
+   "why_not_asked": "Live law; MY3 builds red herrings on it."
+  },
+  {
+   "point": "Folk beliefs stand uncorrected by narration, and the POV's culture decides what he makes of a room, misreadings included.",
+   "rule_ids": [
+    "R53-15-FOLK_BELIEFS",
+    "R70-44-CULTURE_KEYED_NOTICING"
+   ],
+   "why_not_asked": "Style law and older live law; MY8 and MY10 extend them to clue beds and testimony."
+  },
+  {
+   "point": "Natalie places the tell and never draws the deduction for Isaac's PC; a tell shows plainly twice and is read at the third.",
+   "rule_ids": [
+    "R71-6-PLAYER_FIGHTER_PAGE",
+    "R71-23-TELL_READ"
+   ],
+   "why_not_asked": "Combat law K9 and CW14, ruled 2026-10-04; K6 and MY1 build the table's clue economy on them."
+  },
+  {
+   "point": "A held reveal may act early as evidence a reader could catch, with the notes listing each planted sign; the deciding fact shows beforehand; every fight has a findable way out.",
+   "rule_ids": [
+    "R71-30-HELD_BACK_REVEAL",
+    "R71-7-READER_SEES_CALL",
+    "R71-8-CORE_PROMISE",
+    "R70-71-EXPLAINING_WORKING_MID_FIGHT"
+   ],
+   "why_not_asked": "Combat law MC4, K6 and K7; K2 carries the principle from fights to cases."
+  },
+  {
+   "point": "Secrets reach the page through the four explaining voices, at most two per engagement; the document voice sets a rule the scene then breaks.",
+   "rule_ids": [
+    "R12-4-VOICE_MIXING_RULE",
+    "R12-4-VOICE_FOUR_DOCUMENT",
+    "R12-4-VOICE_TWO_SECOND"
+   ],
+   "why_not_asked": "Ruled by Isaac in Pack Twelve; MY5 and MY13 use the document voice as given."
+  },
+  {
+   "point": "The narrator foreshadows only in a chapter's opening and closing lines and never winks at the reader who knows better; a scene may open on a document it then tests and close by breaking off before the payoff.",
+   "rule_ids": [
+    "R70-10-NARRATOR_STANCE",
+    "R5-C1-NARRATION_NEVER_WINKS",
+    "R70-16-OPENING_MODES",
+    "R70-17-CLOSING_MODES"
+   ],
+   "why_not_asked": "Style law, ruled 2026-10-03."
+  },
+  {
+   "point": "In-world documents may be lists and notebooks, records of the strange, court annals and memorials, or Guild reference entries.",
+   "rule_ids": [
+    "R70-67-FORMS_WORLD_DOCUMENTS"
+   ],
+   "why_not_asked": "Style law; MY5 and MY13 ask only where documents sit in a case."
+  },
+  {
+   "point": "A reasoning POV may set out numbered steps in italic thought, or leave the conclusion unsaid.",
+   "rule_ids": [
+    "R70-38-REASONING_SHOWS"
+   ],
+   "why_not_asked": "Both are legal by the style law; MY9 asks only which is fair for an investigator's POV."
+  },
+  {
+   "point": "A 'What nobody knows' question is never answered as fact; Epoch-scale things make dread and never resolve a plot.",
+   "rule_ids": [
+    "R47-12-MYSTERY_STAYS_OPEN",
+    "R7-2-EPOCH_SCALE_SURVIVES"
+   ],
+   "why_not_asked": "Live law; a case solves a person's act, never the world's own mysteries."
+  },
+  {
+   "point": "A forensic reading plays as protocol in action with figures aloud, and the contradiction between instruments is its turn; poisons are proved by the real tests where the gradient puts them.",
+   "rule_ids": [
+    "R71-81-FORENSIC_READING_PAGE",
+    "R71-80-PROVING_POISON"
+   ],
+   "why_not_asked": "Combat law AL11 and AL12; MY5 asks only how far the form extends to other searches."
+  },
+  {
+   "point": "A forgery is always findable by mark, assay or the Index's own failure; a corrupt alchemist shows one planted sign a scene; an impression-body leaks a seam the reader can catch.",
+   "rule_ids": [
+    "R71-84-TRADE_PAPER_SCENE",
+    "R71-82-CORRUPTION_SHOWN_BODY",
+    "R71-87-IMPRESSION_BODY_VOICE"
+   ],
+   "why_not_asked": "Combat law AL13, AL15 and AL18."
+  },
+  {
+   "point": "Law moves on proof (a witness or a reading inside the residue clocks); every practitioner's killing opens a jurisdiction contest as a Front; an undeclared killing by next dawn is murder.",
+   "rule_ids": [
+    "R71-101-LAW_TURNS",
+    "R60-11-TRACE_EVIDENCE_AND_JURISDICTION",
+    "R60-19-LAYERED_RULE"
+   ],
+   "why_not_asked": "Combat law WT12 and the society law of 2026-09-26; MY13 asks only the solution scene's form."
+  },
+  {
+   "point": "The Night Watch is a crown-chartered society with walkers, coil-carriers, a bulletin office and the Night Register; residue runs on two clocks and every Anamnesis read spends the Trace it reads.",
+   "rule_ids": [
+    "R60-22-THE_NIGHT_WATCH",
+    "R60-26-NIGHT_WATCH_SOCIETY",
+    "R61-7-RESIDUES_ON_TWO_CLOCKS",
+    "R61-108-MORTALIS_FULL_COST_STACK"
+   ],
+   "why_not_asked": "Canon; MY14 asks only the Watch's place at a live thread."
+  },
+  {
+   "point": "Lies, taunts and accusations inside a fight are moves with a price in tempo.",
+   "rule_ids": [
+    "R71-22-TALK_INSIDE_FIGHT"
+   ],
+   "why_not_asked": "Combat law CW13; MY6 asks whether the accounting reaches interrogation."
+  },
+  {
+   "point": "Meta knowledge informs Natalie and never rigs an engagement either way; the partner explains physics only when asked.",
+   "rule_ids": [
+    "R57-10-NEVER_RIGGED",
+    "R48-48-EXPLAIN"
+   ],
+   "why_not_asked": "Live law; K2's sealed solution rests on it."
+  },
+  {
+   "point": "A faculty's read delivers a bare fact, never an interpretation; a faculty reads exact unless the target is warded.",
+   "rule_ids": [
+    "R6-2-READ_DELIVERS_FACT",
+    "R71-44-FACULTY_READ_MAN"
+   ],
+   "why_not_asked": "Live law; MY11 asks only whether instruments may be wrong."
+  },
+  {
+   "point": "Every public reversal or face-slap opens a Front or a Ledger debt; comedy may sit hard against dread.",
+   "rule_ids": [
+    "R70-112-FACE_FACE_SLAP",
+    "R70-116-COMEDY_BESIDE_DANGER"
+   ],
+   "why_not_asked": "Style law, ruled 2026-10-03."
+  }
+ ]
+}

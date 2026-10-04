@@ -1,0 +1,209 @@
+{
+ "K1": {
+  "choice": "C",
+  "note": ""
+ },
+ "K2": {
+  "choice": [
+   "A",
+   "B",
+   "C",
+   "D"
+  ],
+  "note": "adds D, the challenge mark, to the recommendation"
+ },
+ "K3": {
+  "choice": "B",
+  "note": ""
+ },
+ "K4": {
+  "choice": "C",
+  "note": ""
+ },
+ "K5": {
+  "choice": "A",
+  "note": ""
+ },
+ "K6": {
+  "choice": "C",
+  "note": ""
+ },
+ "K7": {
+  "choice": "B",
+  "note": ""
+ },
+ "MY6": {
+  "choice": "A",
+  "note": ""
+ },
+ "MY5": {
+  "choice": "C",
+  "note": ""
+ },
+ "MY16": {
+  "choice": "B",
+  "note": ""
+ },
+ "MY8": {
+  "choice": "C",
+  "note": ""
+ },
+ "MY13": {
+  "choice": "A",
+  "note": ""
+ },
+ "HO1": {
+  "choice": "B",
+  "note": ""
+ },
+ "HO2": {
+  "choice": "B",
+  "note": ""
+ },
+ "HO4": {
+  "choice": "C",
+  "note": ""
+ },
+ "HO5": {
+  "choice": "B",
+  "note": ""
+ },
+ "HO7": {
+  "choice": "C",
+  "note": ""
+ },
+ "HO8": {
+  "choice": "A",
+  "note": ""
+ },
+ "HO9": {
+  "choice": "B",
+  "note": ""
+ },
+ "IN1": {
+  "choice": "A",
+  "note": ""
+ },
+ "HO3": {
+  "choice": "B",
+  "note": ""
+ },
+ "HO6": {
+  "choice": "B",
+  "note": ""
+ },
+ "IN3": {
+  "choice": "A",
+  "note": ""
+ },
+ "MY10": {
+  "choice": "B",
+  "note": ""
+ },
+ "MY17": {
+  "choice": "D",
+  "note": ""
+ },
+ "MY15": {
+  "choice": "A",
+  "note": ""
+ },
+ "MY14": {
+  "choice": "C",
+  "note": ""
+ },
+ "MY18": {
+  "choice": "C",
+  "note": "picked C in chat; the second option shown in the picker was a paraphrase, not B as filed"
+ },
+ "MY1": {
+  "choice": "A",
+  "note": "took the recommendation (digest)"
+ },
+ "MY2": {
+  "choice": [
+   "A",
+   "B"
+  ],
+  "note": "took the recommendation (digest)"
+ },
+ "MY3": {
+  "choice": "B",
+  "note": "took the recommendation (digest)"
+ },
+ "MY4": {
+  "choice": "C",
+  "note": "took the recommendation (digest)"
+ },
+ "MY7": {
+  "choice": "B",
+  "note": "took the recommendation (digest)"
+ },
+ "MY9": {
+  "choice": "C",
+  "note": "took the recommendation (digest)"
+ },
+ "MY11": {
+  "choice": "A",
+  "note": "took the recommendation (digest)"
+ },
+ "MY12": {
+  "choice": [
+   "B",
+   "C",
+   "D"
+  ],
+  "note": "took the recommendation (digest)"
+ },
+ "IN2": {
+  "choice": "B",
+  "note": "took the recommendation (digest)"
+ },
+ "IN4": {
+  "choice": "C",
+  "note": "took the recommendation (digest)"
+ },
+ "IN5": {
+  "choice": [
+   "B",
+   "C",
+   "D"
+  ],
+  "note": "took the recommendation (digest)"
+ },
+ "IN6": {
+  "choice": "B",
+  "note": "took the recommendation (digest)"
+ },
+ "IN7": {
+  "choice": "B",
+  "note": "took the recommendation (digest)"
+ },
+ "IN8": {
+  "choice": "C",
+  "note": "took the recommendation (digest)"
+ },
+ "ME1": {
+  "choice": "C",
+  "note": "took the recommendation (digest)"
+ },
+ "ME2": {
+  "choice": [
+   "A",
+   "B"
+  ],
+  "note": "took the recommendation (digest)"
+ },
+ "ME3": {
+  "choice": [
+   "A",
+   "B",
+   "C"
+  ],
+  "note": "took the recommendation (digest)"
+ },
+ "ME4": {
+  "choice": "C",
+  "note": "took the recommendation (digest)"
+ }
+}

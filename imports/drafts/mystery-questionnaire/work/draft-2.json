@@ -1,0 +1,955 @@
+{
+ "sections": [
+  {
+   "key": "HO",
+   "title": "Horror",
+   "intro": "How dread is paced and shown, what the unseen, the dead and the Veil do on the page, how far body and cosmic horror go, and what horror costs the one who sees it, Isaac's PC included. In the samples the Lamp-drinker is the Vantabriel Well-spawn (a beast bred by a Well) that shows only as a place the light stops, the Mourning Pike the Thaloré one whose field weighs grief, and the Tolling Crab the Basilithe one that rings a single note.",
+   "questions": [
+    {
+     "id": "HO1",
+     "title": "Dread pacing",
+     "question": "How should a horror scene spend its tempo?",
+     "context": "R70-15 gives set pieces jo-ha-kyū (slow, breaking, swift) and R70-17 lets a scene stop mid-crisis, but nothing paces horror. The archive builds dread long and closes on a small turn, never a staged scare. Junji Ito, the Japanese horror manga artist, holds his reveal for one page turn and then draws it whole.",
+     "options": [
+      {
+       "key": "A",
+       "label": "Long build, small turn",
+       "consequence": "Horror runs slow and ends on a turn of the knife: a light failing in a shape, a pen taken up. No scare is staged; the thing is felt more than met.",
+       "sample": "The third lamp went the way of the first two. Its flame shrank to a blue bead on the wick while the glass stayed clear and the oil stayed full, and the cold came along the gallery floor ahead of anything that could have carried it. Tolley Halfpenny had stopped whistling. Nobody told him to start again. He cupped his hand round the bead to keep it, and the bead lost its left edge, then its middle, though the lamp hung still on its hook and nothing in the gallery had passed in front of it."
+      },
+      {
+       "key": "B",
+       "label": "Long build, one hard shock",
+       "consequence": "The build stays long; the swift beat is one sudden sight set as a cluster of one-line paragraphs (R70-20), then the scene moves. One shock per horror scene at most.",
+       "sample": "The third lamp went the way of the first two, down to a blue bead with the oil still full, and the cold came along the floor ahead of anything that could carry it. Tolley Halfpenny had stopped whistling. Nobody told him to start again.\n\nHe lifted the lamp.\n\nHalf the gallery ended a pace from his knee.\n\nA shape the size of a big dog stood in the cut, and the only edge it had was the place where his light stopped going."
+      },
+      {
+       "key": "C",
+       "label": "Shock first, dread after",
+       "consequence": "The thing arrives at once and fast; the dread is built afterward, in what the survivors work out about how long it had been there.",
+       "sample": "The Lamp-drinker was on them before the second lamp failed, a hole in the light a pace from Tolley Halfpenny's knee, and Gant's flare went into it and came back as nothing. They ran. Afterward, in the cage going up, nobody could say how long it had stood in the cut before anyone looked. Tolley's lamp had burned blue for half the shift. He had trimmed the wick twice and blamed the oil, and he went on thinking about the oil all the way to the surface, and for a week after."
+      }
+     ],
+     "recommended": "B",
+     "rec_reason": "It keeps the archive's long build, its best horror, and gives the thing one moment of full sight, which every one of his anime models pays (Jujutsu Kaisen's curses, Bleach's Hollows); A stays right for scenes whose horror is an absence.",
+     "multi": false,
+     "depends_on": [],
+     "rules_touched": [
+      "R70-15-TEMPO_STILLNESS",
+      "R70-17-CLOSING_MODES",
+      "R70-20-PARAGRAPH_SHAPE",
+      "R11-4-DESCENT_PROSE_LAW"
+     ]
+    },
+    {
+     "id": "HO2",
+     "title": "The thing seen",
+     "question": "How much of a horror shows the first time it is on the page?",
+     "context": "Table Rule 11 and R70-54 give creatures 'the full inventory' at first sight; R9-3's shape-before-detail is licensed only for a practitioner's arrival. The Bestiary writes its worst entries as effects first: a bank above the Mourning Pike is one where everyone wants to sit down. Horror film withholds the monster; anime shows it whole.",
+     "options": [
+      {
+       "key": "A",
+       "label": "Full sight at once",
+       "consequence": "R70-54 stands for horrors too: the thing gets its full inventory the moment it is seen, and the dread lives in what it does next.",
+       "sample": "Lanky Dunn came down to the jetty to fetch Widow Pell home, and the pike rose under her while he was still on the planks. It came up slow, the length of his own boat and deep in the body, slate-dark along the back and pale under the jaw, with an eye like a flat brass coin and weed trailing from its gill covers. The water over it lay smooth while the rest of the pool chopped in the wind. The widow did not look round. She was too tired to lift her head."
+      },
+      {
+       "key": "B",
+       "label": "Half-seen, then full",
+       "consequence": "R9-3 extends to horrors: effects and outline first, through the room and the bodies (R70-69's order); the full inventory lands when the thing is understood, appraised or fought.",
+       "sample": "Lanky Dunn came down to fetch Widow Pell home, and before he reached her he wanted to sit. The planks were dry. He sat anyway. Out past her boots the pool chopped grey in the wind, all but one long patch below the jetty that lay flat as poured lead, and in the middle of the flatness something darker than the water hung still, with no end to it he could find. The widow had stopped crying an hour since. She had not stopped sitting."
+      },
+      {
+       "key": "C",
+       "label": "Never wholly seen",
+       "consequence": "Some horrors are shown only by what they do, on every page they appear; the notes carry the full description so the counter stays findable.",
+       "sample": "Lanky Dunn came down to fetch Widow Pell home, and before he reached her he wanted to sit. He sat. The pool chopped grey in the wind except below the jetty, where a patch the length of a boat lay flat, and the gulls would not settle on it. He thought of his mother, nine winters dead, and found he could not lift his hand off the planks. Beside the water the widow had stopped weeping. Weeping took more than she had left."
+      }
+     ],
+     "recommended": "B",
+     "rec_reason": "It is how the Bestiary already writes its worst things and how R70-69 already stages Pressure, and it still pays R70-54's full inventory at the moment the appraisal (R71-57) or the fight needs it, so the counter is never hidden.",
+     "multi": false,
+     "depends_on": [],
+     "rules_touched": [
+      "R70-54-GETS_FULL_INVENTORY",
+      "R9-3-SILHOUETTE_ENTRANCE",
+      "R70-69-PRESSURE_AURA",
+      "R71-57-APPRAISING_BEAST"
+     ]
+    },
+    {
+     "id": "HO3",
+     "title": "Fear in Isaac's PC",
+     "question": "When horror reaches Isaac's own PC, what may the page put in his body?",
+     "context": "R71-6 writes a player's wounds 'as world facts' while 'how he bears it stays yours'; R71-17 owes fear in the body only to the untrained, and trained composure shows 'only under real strain or Pressure'. The archive's one horror scene for the PC made him a witness who could not act.",
+     "options": [
+      {
+       "key": "A",
+       "label": "The room, never him",
+       "consequence": "Horror lands on the room and the NPCs; nothing involuntary is written into his PC's body or mind, and Isaac supplies any fear himself."
+      },
+      {
+       "key": "B",
+       "label": "Caused signs, his read",
+       "consequence": "Where a field, Pressure, a working or the cold acts on his body (the Pike's weight, the Lamp-drinker's chill), its signs are world facts; what he feels about them and does stays his."
+      },
+      {
+       "key": "C",
+       "label": "Fear as a world fact",
+       "consequence": "Fear's own signs (cold sweat, hair rising, the gut turning) may be written into his body at a horror, as a wound is; his thoughts and choices stay his."
+      }
+     ],
+     "recommended": "B",
+     "rec_reason": "It is R71-6's line moved from wounds to dread and agrees with R71-17's trained composure, and every sign has a cause in the room he can find and answer, which is his fair-counter rule.",
+     "multi": false,
+     "depends_on": [],
+     "rules_touched": [
+      "R71-6-PLAYER_FIGHTER_PAGE",
+      "R71-17-FEAR_BODY",
+      "R49-01-WHOSE_HEAD",
+      "R71-41-PRESSURE_UNWOKEN"
+     ]
+    },
+    {
+     "id": "HO4",
+     "title": "What horror costs",
+     "question": "What does horror cost the one who sees it?",
+     "context": "Contact is priced (R61-108: every read of Anamnesis, the Wellspring that reads what places keep, 'erasing what it takes'; canon's artificer spent his last months correcting people who called him by the wrong name), but sight alone costs nothing that persists. Lord of the Mysteries makes knowing itself dangerous; WOTR has one such case, the Misnaming (R69-6), where wrong words spread through every reader taught them.",
+     "options": [
+      {
+       "key": "A",
+       "label": "Sight leaves a mark",
+       "consequence": "What is seen may leave a logged mark with a due condition (a flinch, a refusal, a lost week of sleep), entered on the Ledger. No sanity meter and no number, ever.",
+       "sample": "Annis Coldwell ate no breakfast at the chapter house. Nobody remarked on it, because she had eaten none the morning before either, and the morning before that she had stood in a coldhouse among hinds that had hung on the rail a fortnight without a smell. At the bench she loaded the sample dry. When the porter carried the mutton through for the chapter's dinner she went out into the yard until he had passed, though it had smelled of mutton. That was the trouble. She trusted meat now only when it smelled."
+      },
+      {
+       "key": "B",
+       "label": "Only contact costs",
+       "consequence": "A cost persists only where a working, a field or a contact touches the Crystal, as canon already prices them; what is merely seen leaves nothing the Ledger tracks.",
+       "sample": "Annis Coldwell ate a full breakfast at the chapter house and went to the bench. The coldhouse was two days behind her, and it had cost her nothing she could enter on a form. The contact had. She had laid bare fingers on the tin against advice, and the minutes it left in her belonged to whoever had opened the carcasses: she knew the weight of his knife, and the cold of the rail on the back of his hand, though she had held neither. She entered the minutes on the contact sheet."
+      },
+      {
+       "key": "C",
+       "label": "Marks, and knowing bites",
+       "consequence": "A, and some knowledge is a hazard in itself, on the Misnaming's model: a named text or a wrong grammar marks whoever takes it in, logged, and countered by the right words or a teacher.",
+       "sample": "Annis Coldwell ate no breakfast and went to the bench. The culture's daybook had come out of the coldhouse with the tins, and she had read it through by lamplight, every page in the grammar of the living: the hind wanted the boundary, the Trace remembered the hand. At the bench she wrote her assay and found the same grammar in her own docket. *The residue resists.* She struck the line and wrote what the residue did. By noon she had struck four lines, and the senior had begun reading her pages before they went to the wax."
+      }
+     ],
+     "recommended": "C",
+     "rec_reason": "It is the Lord of the Mysteries register he picked, built on a case canon already has, and every cost is a Ledger line with a findable counter, never an invented number.",
+     "multi": false,
+     "depends_on": [],
+     "rules_touched": [
+      "R61-108-MORTALIS_FULL_COST_STACK",
+      "R61-70-ANAMNESIS_READS_NOT_STORES",
+      "R69-6-SEVEN_UNMOORINGS_DRIVERS",
+      "R53-17-THE_BILL"
+     ]
+    },
+    {
+     "id": "HO5",
+     "title": "The dead and the folk belief",
+     "question": "When a folk belief about the dead meets the dead, may the page show it true, false or half true?",
+     "context": "R53-15 keeps folk beliefs, 'some half-true', and 'the narration never corrects them'; Kharven holds that the cold keeps the dead quiet. R61-77 makes a revenant a Crossing (the nine days a body's residues take to return) that stalls on sealed ground or saturated battlefields. Nothing rules whether events may settle a belief.",
+     "options": [
+      {
+       "key": "A",
+       "label": "Never settled",
+       "consequence": "Events stay consistent with the belief and with its denial; the dead keep their ambiguity and the reader never learns which.",
+       "sample": "The thaw came to Coldbeck in the Thin Weeks, a month before anyone wanted it, and the death-house began to drip. Ragna kept the Waiting by the door on the bench her mother and her mother's mother had worn hollow before her. The dead lay under hide. Toward the third hour something in the long room knocked once, the sound green wood makes in a stove. She did not get up. Ice settles. In the morning the hides lay as they had lain, and she could not have sworn they had ever lain otherwise."
+      },
+      {
+       "key": "B",
+       "label": "Half true, by mechanism",
+       "consequence": "Events show where a belief holds and where it fails, both traced in the notes to canon mechanism; the people keep their reading, and the narration still corrects nothing.",
+       "sample": "The thaw came to Coldbeck in the Thin Weeks, and the death-house began to drip. Ragna kept the Waiting. Inside, the winter's dead lay under hide and did not stir, as the cold had promised. The one who stirred lay out on the old ridge field, packed in snow because the death-house had been full since the first hard frost, in ground where her grandfather's whole war was still buried and the plough turned up buckles every spring. Her nephew found him at dawn, standing. 'The snow failed him,' her nephew said, and went for more."
+      },
+      {
+       "key": "C",
+       "label": "The world may break it",
+       "consequence": "Events may prove or break a belief outright, its cause in the notes from canon; characters react, and the narration stays silent.",
+       "sample": "The thaw came to Coldbeck in the Thin Weeks, and the death-house began to drip. Ragna kept the Waiting by the door with her mittens on. Toward the third hour a hide in the long room slid to the floor, and the man under it, who had lain in the cold since the first snow, sat up with his hands in his lap. Frost stood in his eyebrows. He turned his face toward the woodpile, where he had split rounds every morning of his life. The cold had kept him all winter. Ragna sat very still."
+      }
+     ],
+     "recommended": "B",
+     "rec_reason": "R53-15 already calls some beliefs half true; B shows the true half and the false half on the page and ties both to R61-77, so the folk keep their wrong reason and the counter stays findable.",
+     "multi": false,
+     "depends_on": [],
+     "rules_touched": [
+      "R53-15-FOLK_BELIEFS",
+      "R61-77-REVENANT_IS_STALLED_CROSSING",
+      "R70-44-CULTURE_KEYED_NOTICING"
+     ]
+    },
+    {
+     "id": "HO6",
+     "title": "The Veil and his own grief",
+     "question": "At a Veil-thin place, may what Isaac's PC carried in take a shape?",
+     "context": "At a Veil-Thin Nexus, where the membrane between planes thins, canon has Echo Beasts condense from visitors' 'unprocessed grief, rage and trauma', keeping 'the character of what formed it and none of its mind'. R71-6 leaves the PC's inside to Isaac; R57-10 forbids rigging either way.",
+     "options": [
+      {
+       "key": "A",
+       "label": "Others' grief only",
+       "consequence": "Echo Beasts condense from the place's dead and the NPCs present; nothing Isaac's PC carried in takes a shape, and the Veil's law bends around him."
+      },
+      {
+       "key": "B",
+       "label": "His, from canon only",
+       "consequence": "What he carried may condense too, shaped only from grief or rage his archived scenes and card already show; the beast has no mind to voice, and his response stays his."
+      },
+      {
+       "key": "C",
+       "label": "His, if he brings it",
+       "consequence": "His grief takes shape only when Isaac's own turn names what weighs on the PC as he enters; otherwise others' grief alone condenses."
+      }
+     ],
+     "recommended": "B",
+     "rec_reason": "The Veil's law applies to every visitor, so exempting him rigs the world (R57-10); drawing the shape only from what canon already holds keeps his inside his, and canon gives the beast no mind to speak for him.",
+     "multi": false,
+     "depends_on": [],
+     "rules_touched": [
+      "R71-6-PLAYER_FIGHTER_PAGE",
+      "R57-10-NEVER_RIGGED",
+      "R49-01-WHOSE_HEAD",
+      "R12-2-MYSTIC_REGISTER_DEF"
+     ]
+    },
+    {
+     "id": "HO7",
+     "title": "Cosmic scale on the page",
+     "question": "How close may Epoch-scale horror (the Titans, the Archons, the Crevice) come to the page?",
+     "context": "R7-2: Epoch-scale things 'generate problems, dread and awe. They never resolve a plot.' No archived scene has used them for dread. Valmir, the Titan of the Crevice, is canon as cracked glass and lava whose voice is 'heard through bone'. Lord of the Mysteries keeps its gods mostly offstage; Bleach and Solo Leveling show the colossal whole.",
+     "options": [
+      {
+       "key": "A",
+       "label": "Effects only",
+       "consequence": "An Epoch-scale thing never stands in frame, in prose or document: a tremor, a sky gone wrong, the draw-hum flattening, and the town's explanations.",
+       "sample": "The tremor came up through the floor of the gauge-house a little after the second hour, so low that it reached Mags Tallow's teeth before the needles moved. Every lamp on the bench leaned the same way. The draw-hum stopped, came back a half-tone flat, and stayed flat. Out on the shield the dogs had gone under the carts. Nobody in town said the Titan's name. They said the ground was settling, and the old men said their grandfathers had called it an omen, and by morning the needles read clean and the hum was still flat."
+      },
+      {
+       "key": "B",
+       "label": "Effects, and the record",
+       "consequence": "Live scenes keep to effects; a document or a witness's account (R70-67's record of the strange) may describe the thing itself, at one remove.",
+       "sample": "Entered at the gauge-house, the night of the tremor. A little after the second hour the floor carried a sound below hearing, felt in the teeth. All lamps on the bench leaned one way. The draw-hum stopped and resumed a half-tone flat. Dogs under the carts. The ferryman's widow, who keeps the toll, states that she looked on him once, as a girl: a man of cracked glass taller than the hills, lit from inside, the ground bending up to meet his feet. The recorder enters her account as given."
+      },
+      {
+       "key": "C",
+       "label": "In frame at a peak",
+       "consequence": "Effects carry it by default; at an arc's peak one may stand in frame in full, as stated law with reasons kept (R70-76), changing no plot (R7-2).",
+       "sample": "Below the lip of the Crevice the slabs drifted apart along seams of gold, and the thing between them stood up out of the heat while Mags Tallow lay flat on the rock. It was made of cracked glass and running stone, and it split and closed again as it rose, and inside the breaks small lights went on and off like lamps in a far town. Its voice came up through her shins. The ground bent toward it. What has endured enough is permitted to end, the catechism said. She lay on ground that had not yet been permitted."
+      }
+     ],
+     "recommended": "C",
+     "rec_reason": "His models all show the colossal once and make it the payoff; R7-2 keeps it from deciding anything and R70-76 keeps its reasons back, so the awe lands without an explanation, and effects carry it the rest of the time.",
+     "multi": false,
+     "depends_on": [],
+     "rules_touched": [
+      "R7-2-EPOCH_SCALE_SURVIVES",
+      "R70-76-MUCH_WORLD_MAGIC",
+      "R70-67-FORMS_WORLD_DOCUMENTS",
+      "R12-2-MYSTIC_REGISTER_DEF"
+     ]
+    },
+    {
+     "id": "HO8",
+     "title": "Body horror outside a fight",
+     "question": "How does body horror read when nobody is fighting?",
+     "context": "R48-34 wants 'full clinical gore', 'nothing looked away from', but it was written for wounds in a fight. The archive's body horror lives in documents (Sesk's ledger of torture, the Necrocursica's cases) and in The Mother's tells, such as 'growth under a sealed lid'. M. R. James restrains to one exact detail; Junji Ito draws everything, calmly.",
+     "options": [
+      {
+       "key": "A",
+       "label": "Full and clinical",
+       "consequence": "R48-34 extends to horror: anatomy named, colour, texture and the absent smell, nothing looked away from, in the POV's flat, exact eye. Documents may carry it too.",
+       "sample": "Jory Fenwick cut the chapter wax and lifted the lid. The section he had sealed on the ninth had been a thumb's width of hide with the meat beneath it, and now it filled the tin. Grey-green growth had come up off the hide in close folds and pressed against the lid. Under it the muscle was red and wet and undecayed, the fibres still striated, and at the cut margin a severed vessel held a bead of bright blood with no heart behind it. The inner gasket had lifted. There was no smell."
+      },
+      {
+       "key": "B",
+       "label": "One exact detail",
+       "consequence": "Outside a fight the page holds on one precise detail and leaves the rest; the notes carry the full anatomy so nothing is unfounded.",
+       "sample": "Jory Fenwick cut the chapter wax, lifted the lid, and set it back down. He stood with both palms flat on it. The section he had sealed on the ninth had been a thumb's width of hide and the meat beneath, and in the moment the lid was up he had taken in one thing only: a bead of blood at the cut edge, round and bright and new, on meat a fortnight out of the animal. He went to fetch the senior. He did not lift the lid again, and he washed his hands twice before he knocked."
+      },
+      {
+       "key": "C",
+       "label": "In the record's voice",
+       "consequence": "Full detail, delivered through a docket, a report or a ledger voice (R70-67), never the POV's live sensations; the calm of the form carries the horror.",
+       "sample": "Docket entry, chapter bench. Tin opened under the senior's eye. Contents: section of hide and underlying muscle sealed in the field on the ninth, now filling the tin. Grey-green growth on the hide surface, folded, raised to the lid. Muscle red, moist, striated, undecayed. Fresh blood at the cut margin, uncoagulated. No odour. Inner gasket lifted. Fixatio anchor reads intact. Coil-carrier Fenwick asks that the docket record that he sealed nothing that was growing, and that the anchor held."
+      }
+     ],
+     "recommended": "A",
+     "rec_reason": "He already rules full clinical gore and never looking away; Ito's calm catalogue is that same eye turned on horror, and the archive's gap is horror on the live page, since documents are already legal under R70-67.",
+     "multi": false,
+     "depends_on": [],
+     "rules_touched": [
+      "R48-34-WOUNDS",
+      "R70-67-FORMS_WORLD_DOCUMENTS",
+      "R71-82-CORRUPTION_SHOWN_BODY"
+     ]
+    },
+    {
+     "id": "HO9",
+     "title": "The witness's face",
+     "question": "May a horror beat show one witness's face before the thing itself?",
+     "context": "R5-G-TELL_BANK_ADDITIONS keeps 'the reaction-shot cutaway' as a tell; R70-72 struck it only for crowds at a reveal. Horror's oldest device is the face that sees the thing before the reader does, as in Jaws or an Ito page turn. R70-69 already puts the room before the bodies for Pressure.",
+     "options": [
+      {
+       "key": "A",
+       "label": "The thing before faces",
+       "consequence": "The tell stands: the thing comes first, then whoever sees it; no face is held up as a signal of what is coming.",
+       "sample": "The note came down the gallery, one clear tone, the same as before. Agnes Pole turned with the lamp. The crab filled the cut from wall to wall, its shell grown through with the same grey stone as the rock around it, so that for a breath the wall itself seemed to have stepped out to meet her, and a claw the size of a barrow came up off the floor. Behind her the pick rang on the rail where Cobb had dropped it. She did not look round."
+      },
+      {
+       "key": "B",
+       "label": "One witness, horror only",
+       "consequence": "In a horror beat, one witness's face may come before the thing, once a scene; the reaction shot used as characterisation stays a tell everywhere else.",
+       "sample": "The note came down the gallery, one clear tone, the same as before. Cobb was facing the far end and Agnes Pole was facing Cobb. The colour went out of his face from the lips outward while she looked at him, and his pick slid through his fingers and rang on the rail, and he did not bend for it. Then she turned with the lamp. The crab filled the cut from wall to wall, stone grown through its shell, and a claw the size of a barrow came up off the floor."
+      },
+      {
+       "key": "C",
+       "label": "The room as the face",
+       "consequence": "No faces first: the room reacts before the thing is seen (flame, grit, animals, the hum), R70-69's order made horror's reaction shot.",
+       "sample": "The note came down the gallery, one clear tone, the same as before. The flame on Agnes Pole's lamp stood up straight and shivered at the tip. Grit ran down the timbering in a thin line. At the end of the rail the pit pony, which had stood through blasting, put its head down and backed into its traces until the tub knocked the wall. Then she turned with the lamp. The crab filled the cut from wall to wall, stone grown through its shell, and a claw the size of a barrow came up off the floor."
+      }
+     ],
+     "recommended": "B",
+     "rec_reason": "The tell R5-G bans is the reaction used to tell the reader who someone is; a witness's face before the thing builds suspense instead, and anime uses it constantly. One a scene keeps it sharp.",
+     "multi": false,
+     "depends_on": [],
+     "rules_touched": [
+      "R5-G-TELL_BANK_ADDITIONS",
+      "R70-72-WATCHING_CROWD_POWER_REVEAL",
+      "R70-69-PRESSURE_AURA"
+     ]
+    }
+   ]
+  },
+  {
+   "key": "IN",
+   "title": "Intrigue",
+   "intro": "How councils turn, how deep schemes nest, who may betray, how leverage and spies work, how much of a Front (a faction's clock of moves) Isaac sees, and how interrogations, deceiving truths and hearings play. In the samples a factor is a merchant's agent who buys on commission, the Assistants are a livery company's governing court, and the skin is the Kharven fermented milk passed at the fire.",
+   "questions": [
+    {
+     "id": "IN1",
+     "title": "What turns a council",
+     "question": "What should a council or court scene turn on by default?",
+     "context": "R70-111 gives court cultures long formal speech and R70-112 bills every public reversal, but nothing says what turns the room. Isaac's own councils turn on a dated discrepancy: Charles left 'fourteen days before I wrote'; the grain was bought in the first week. Wolf Hall turns on a reading of the man; Chinese palace drama on a move.",
+     "options": [
+      {
+       "key": "A",
+       "label": "The dated fact",
+       "consequence": "The turn is arithmetic or paper: a date that does not fit, a column, a seal, found on the page where a player could find it first. Speech and reads colour it.",
+       "sample": "Abel Shortweight gave his account of the wastage standing, and gave it well: a wet season, a split cask at the wharf, a carter who drank. The Assistants nodded. Nathaniel Quill kept the minute until the factor had done, then turned back two pages in the company's book, wet his thumb, and turned back one more. 'The cask split on the fourth,' he said. 'The draw was entered as wastage on the second.' He laid his pen across the page. Nobody spoke. The Prime Warden looked at the factor, and the factor looked at the pen."
+      },
+      {
+       "key": "B",
+       "label": "The move made",
+       "consequence": "The turn is a move in speech or ceremony: a speech, a concession, a token laid down, a public reversal. Whoever wins the room wins the scene.",
+       "sample": "Abel Shortweight gave his account of the wastage standing: a wet season, a split cask at the wharf, a carter who drank. Then, before any Assistant could put a question, he went on in the High, the verb held back, through twenty years of his own service and his father's before him, to the honour of the company, which he would not hear doubted before tradesmen, and he laid his own token on the baize and invited the Court to take it. Nobody reached for it. The Prime Warden, who had come to break him, moved to the next business."
+      },
+      {
+       "key": "C",
+       "label": "The man read",
+       "consequence": "The turn is a tell under pressure: a hand, a breath, a word out of place, caught by someone in the room and left for the player to weigh.",
+       "sample": "Abel Shortweight gave his account of the wastage standing, and gave it well: a wet season, a split cask at the wharf, a carter who drank. Nathaniel Quill, keeping the minute, looked up only once, when the factor named the carter. Shortweight's thumb had gone to his watch-chain and turned the fob over, the way a man turns a coin he means to spend. It had stayed still for the season and the cask. Quill made a small mark in the margin beside the carter and went on writing."
+      }
+     ],
+     "recommended": "A",
+     "rec_reason": "It is Isaac's own signature at the Seat and the fairest turn there is, because the deciding fact sits on the page before anyone speaks it (R48-30); B and C stay legal as the colour around it.",
+     "multi": false,
+     "depends_on": [],
+     "rules_touched": [
+      "R70-111-LONG_FORMAL_SPEECH_CLIPPED",
+      "R70-112-FACE_FACE_SLAP",
+      "R48-30-SURPRISES",
+      "R60-20-HOW_POWERS_FIGHT"
+     ]
+    },
+    {
+     "id": "IN2",
+     "title": "Feints within feints",
+     "question": "How deep may a scheme nest, and what must each layer leave behind?",
+     "context": "R60-20 wants factions fighting by intrigue with 'different interests written out'; R48-30 allows a big surprise only after foreshadowing 'a player could have caught'. The archive nests two layers (Seiji's four riders, two meant to be believed; Wren's forged hand under a blank seal). Dune nests plans within plans, and depth is where fairness usually breaks.",
+     "options": [
+      {
+       "key": "A",
+       "label": "Two layers at most",
+       "consequence": "A scheme has a visible move and a real one; anything deeper is a separate scheme with its own Front and its own signs."
+      },
+      {
+       "key": "B",
+       "label": "Any depth, each planted",
+       "consequence": "Schemes nest as deep as the faction can afford, and every layer leaves at least one sign a player could catch before that layer turns."
+      },
+      {
+       "key": "C",
+       "label": "Any depth, audited after",
+       "consequence": "Layers nest freely; fairness is checked after the reveal, from the notes, and the page owes no sign per layer."
+      }
+     ],
+     "recommended": "B",
+     "rec_reason": "Veteran-clever factions (R48-36) and Death Note or Dune depth are what he reads for, and a sign per layer keeps every turn findable, which is his fair-play rule applied to schemes.",
+     "multi": false,
+     "depends_on": [],
+     "rules_touched": [
+      "R48-30-SURPRISES",
+      "R60-20-HOW_POWERS_FIGHT",
+      "R48-36-NPC_WITS",
+      "R57-10-NEVER_RIGGED"
+     ]
+    },
+    {
+     "id": "IN3",
+     "title": "Betrayal by the trusted",
+     "question": "May an NPC Isaac's PC trusts betray him, and who is off limits?",
+     "context": "R48-30 allows betrayal after catchable foreshadowing; R70-114 gives each thread 'at least one standing warm bond'. Le Carré makes betrayal personal before political; the house's own reversal ran the other way, Wren the 'traitor' who was a deep-cover patriot. A betrayal by the warm bond spends the counterweight R70-114 protects.",
+     "options": [
+      {
+       "key": "A",
+       "label": "The warm bond is safe",
+       "consequence": "The thread's standing warm bond never betrays by choice; anyone else may, with the signs shown twice before the turn (R71-23's rhythm)."
+      },
+      {
+       "key": "B",
+       "label": "Anyone, signs twice",
+       "consequence": "Anyone may betray, warm bond included, with signs shown twice first; if the warm bond breaks, the thread must build a new one in play."
+      },
+      {
+       "key": "C",
+       "label": "Never by choice",
+       "consequence": "Trusted NPCs turn only under compulsion, leverage or a lie told to them; a betrayal by free choice comes only from NPCs the PC already doubts."
+      }
+     ],
+     "recommended": "A",
+     "rec_reason": "Grimdark with warmth is his stated balance; A keeps the one bond that carries it and leaves every other ally fair game under the twice-shown rule.",
+     "multi": false,
+     "depends_on": [],
+     "rules_touched": [
+      "R48-30-SURPRISES",
+      "R70-114-GRIMDARK_WARMTH",
+      "R71-23-TELL_READ"
+     ]
+    },
+    {
+     "id": "IN4",
+     "title": "Leverage and blackmail",
+     "question": "How does a held secret work as leverage?",
+     "context": "Nothing rules leverage. The Ledger keeps a 'who knows what' section with due conditions, and Thela Ess-Vaelen's Front is a validated name usable in any court that she has not used. In Bleak House, Tulkinghorn hoards secrets as capital and is killed for them. A Trace already spends when read (R61-108).",
+     "options": [
+      {
+       "key": "A",
+       "label": "Spent when used",
+       "consequence": "A secret buys one concession, then it is out; its Ledger line closes."
+      },
+      {
+       "key": "B",
+       "label": "Held, it bends",
+       "consequence": "A secret works while it stays unspoken; spoken openly it breaks, and the victim's Front opens against whoever spoke it."
+      },
+      {
+       "key": "C",
+       "label": "Held, it marks the holder",
+       "consequence": "As B, and every held secret is also a Ledger risk against its holder: someone wants the secret, or the man who holds it, gone."
+      }
+     ],
+     "recommended": "C",
+     "rec_reason": "Everything in the world costs, the holder included; it gives every blackmailer a findable enemy and every secret a bill, which is how R70-112 already treats a public humiliation.",
+     "multi": false,
+     "depends_on": [],
+     "rules_touched": [
+      "R70-112-FACE_FACE_SLAP",
+      "R61-108-MORTALIS_FULL_COST_STACK",
+      "R71-101-LAW_TURNS"
+     ]
+    },
+    {
+     "id": "IN5",
+     "title": "Spies and the information trade",
+     "question": "Which pieces of the information trade should the table run?",
+     "context": "R60-20 lists intrigue among the ways the powers fight, and the Night Watch page warns that whoever reads the inserts 'knows where to find him'. The second Gillus letter survives as 'intercepted, held in the case file'. Le Carré coined tradecraft words (pavement artists, lamplighters) that sound true because a service would need them.",
+     "options": [
+      {
+       "key": "A",
+       "label": "An informant per thread",
+       "consequence": "Each live thread carries one paid informant in the roster, with a price, a want and a lie, as the PC's standing source."
+      },
+      {
+       "key": "B",
+       "label": "The press as intelligence",
+       "consequence": "Inserts, bulletins and the penny press carry public intelligence both ways: whoever reads them learns something, and is learned about by whoever filed them."
+      },
+      {
+       "key": "C",
+       "label": "Letters as exhibits",
+       "consequence": "Intercepted letters, wires and dockets appear in full as documents Isaac can read (R70-67), with seal, hand and paper described as clues."
+      },
+      {
+       "key": "D",
+       "label": "Tradecraft per service",
+       "consequence": "Each service (the Watch, the Mother's cultures, the Moto court, the Mahuo houses) gets working words for agents, drops and watchers in its Inventory's Words entry (R70-33)."
+      }
+     ],
+     "recommended": "B,C,D",
+     "rec_reason": "Paperwork is the house's clue bed and canon already makes the inserts cut both ways; coined tradecraft is le Carré's gift and fits the Words entries, while a standing informant per thread adds an NPC nobody asked for.",
+     "multi": true,
+     "depends_on": [],
+     "rules_touched": [
+      "R60-26-NIGHT_WATCH_SOCIETY",
+      "R70-67-FORMS_WORLD_DOCUMENTS",
+      "R70-33-WORD_BANK_PER_CULTURE",
+      "R48-26-INVENTION"
+     ]
+    },
+    {
+     "id": "IN6",
+     "title": "How much of a Front Isaac sees",
+     "question": "How much of a mystery or intrigue Front does Isaac see?",
+     "context": "Fronts (each faction's clock of moves) sit in table/FRONTS.md with a Want and a Next move Isaac can read; Tabitha's says 'She stops asking Lambert and starts asking the factors.' He is author and player at once. R5-C1 tracks knowledge per POV, and a scheme is hidden only if its next move is sealed.",
+     "options": [
+      {
+       "key": "A",
+       "label": "Open, as now",
+       "consequence": "Every Front's Want, Next move and steps stay readable; Isaac plays his PC's ignorance himself."
+      },
+      {
+       "key": "B",
+       "label": "Clock shown, contents sealed",
+       "consequence": "For mystery and intrigue Fronts only, the clock and its ticks show; the Want and Next move live in a sealed file Natalie reads, opened to Isaac when the Front resolves or he asks."
+      },
+      {
+       "key": "C",
+       "label": "Hidden Fronts allowed",
+       "consequence": "B, and a faction may run a Front with no visible clock at all until its first sign reaches the page."
+      }
+     ],
+     "recommended": "B",
+     "rec_reason": "A visible clock keeps Table Rule 4 honest, since he sees the world move, while sealed contents let a scheme surprise the player inside the author; C lets a faction move with nothing on the board, which reads as rigging (R57-10).",
+     "multi": false,
+     "depends_on": [],
+     "rules_touched": [
+      "R49-09-CUTAWAYS",
+      "R5-C1-INFO_TRACKED_PER_POV",
+      "R57-10-NEVER_RIGGED"
+     ]
+    },
+    {
+     "id": "IN7",
+     "title": "The interrogation",
+     "question": "How does an interrogation play on the page?",
+     "context": "R71-22 makes talk a weapon inside a fight, each line a move 'to break the read'; R49-36 gives every lie a catchable tell. The archive has councils and contact readings but no interrogation written out; Josse's runs two sentences. Columbo and Ace Attorney play questioning as a duel; le Carré gives the debrief.",
+     "options": [
+      {
+       "key": "A",
+       "label": "As a duel",
+       "consequence": "R71-22 extends past fights: exchange by exchange, each question a move and each answer a parry, the tell read on the page and the cost shown in tempo.",
+       "sample": "'You keep the night book,' Ruth Ingle said.\n\n'I keep it honest.'\n\n'I didn't ask how.' She turned the book so its columns faced him. 'The main was off from the eleventh division. Somebody drew at the third hour.'\n\nToby Fretwell looked at the column and not at her. 'Then the meter's wrong.'\n\n'The meter was sealed on the first. Your hand's on the seal.' His fingers went flat on the counter, which they had not done for the book. That was the question he had been waiting for, and so the wrong one."
+      },
+      {
+       "key": "B",
+       "label": "Summary, one exchange",
+       "consequence": "The hour is summarised; the single exchange that changes it is played in full and the rest is counted back.",
+       "sample": "Ruth Ingle had Toby Fretwell at the counter for most of an hour, and most of it went the way such hours go: the night book, the meter seal, the hours he kept, the boy who brought his supper. He answered everything and offered nothing. Only once did the hour change. She asked who else held a key to the meter cupboard, and he said, 'Nobody,' a breath before she had finished asking. She wrote the word down, and the time beside it, and let him go home."
+      },
+      {
+       "key": "C",
+       "label": "As a transcript",
+       "consequence": "The interview reaches the page as a document in the office's form, questions and answers with the officer's note; the reader catches the tell.",
+       "sample": "Interview at the meter-house, Lantern Row, taken by Searcher Ingle. Clerk Fretwell present.\n\nQ. You keep the night book.\nA. I keep it honest.\nQ. The main was off from the eleventh division. The meter shows a draw at the third hour.\nA. Then the meter's wrong.\nQ. The meter was sealed on the first. Your hand on the seal.\nA. It's my hand.\nQ. Who else holds a key to the meter cupboard.\nA. Nobody.\n\nSearcher's note: the answer came before the question was finished."
+      }
+     ],
+     "recommended": "A",
+     "rec_reason": "Talk as a weapon is already his law inside a fight, and an interrogation is a duel of tells with no blade; played this way, his PC reads the clerk exactly as he reads a swordsman (R71-6).",
+     "multi": false,
+     "depends_on": [],
+     "rules_touched": [
+      "R71-22-TALK_INSIDE_FIGHT",
+      "R49-36-LIE_TELLS",
+      "R70-67-FORMS_WORLD_DOCUMENTS"
+     ]
+    },
+    {
+     "id": "IN8",
+     "title": "The deceiving truth",
+     "question": "Does a true sentence built to deceive owe a tell, as a lie does?",
+     "context": "R49-36: 'Every lie leaves a catchable tell: a body tell, a fact that doesn't fit, or a detail changed later.' A true statement shaped to mislead is intrigue's sharpest tool (Mantel's Cromwell; the Aes Sedai of The Wheel of Time, who cannot lie) and no row covers it. Same beat: a Kharven headman asks after an old man's death.",
+     "options": [
+      {
+       "key": "A",
+       "label": "Tell owed, as a lie",
+       "consequence": "R49-36 extends to deceiving truths: the speaker shows a body tell, as a liar would.",
+       "sample": "'I was at my own woodpile all that night,' Hrolf said. 'Ask anyone on the row.' Arnbjorn did not need to ask. Half the row had heard the axe going till the small hours. He kept his eyes on the rider's breath-plume instead, and it came short and quick through the nose, the way a man breathes who has run up a slope, though Hrolf had been sitting at the fire since the skin went round. A full stack speaks louder than a full mouth. Hrolf's mouth was full tonight."
+      },
+      {
+       "key": "B",
+       "label": "The fact is the tell",
+       "consequence": "No body tell, since the speaker tells the truth; the page must carry a fact that turns the sentence's meaning, where a careful player can line it up.",
+       "sample": "'I was at my own woodpile all that night,' Hrolf said. 'Ask anyone on the row.' Arnbjorn did not need to ask. Half the row had heard the axe going till the small hours, and Hrolf's breath came easy, and his hands lay still on his knees. It stayed true until the boy who kept the horse lines said, later and to nobody in particular, that Hrolf had moved his stack in the autumn, round behind the old man's house, where the wind was better."
+      },
+      {
+       "key": "C",
+       "label": "No tell owed",
+       "consequence": "A deceiving truth owes nothing; the player must parse the words, and the sentence may mislead for good.",
+       "sample": "'I was at my own woodpile all that night,' Hrolf said. 'Ask anyone on the row.' Arnbjorn did not need to ask. Half the row had heard the axe going till the small hours. Hrolf's breath came easy and his hands lay still on his knees, and when the skin came round he drank and passed it on as a man does with nothing behind his teeth. Arnbjorn thanked him, struck him off the slate he kept in his head, and went to ask the next man."
+      }
+     ],
+     "recommended": "B",
+     "rec_reason": "A man telling the truth has nothing to sweat, so a body tell would be false to him; the fair catch is the record, which is the house's own clue bed and keeps his rule that every deception is findable.",
+     "multi": false,
+     "depends_on": [],
+     "rules_touched": [
+      "R49-36-LIE_TELLS",
+      "R48-42-LIES"
+     ]
+    },
+    {
+     "id": "IN9",
+     "title": "The hearing",
+     "question": "What shape does a hearing or trial take on the page?",
+     "context": "R71-101: 'Proof decides', courts fight over a killing 'as a Front', and an undeclared killing by dawn is murder; R53-11 gives each culture its own justice. The only hearing worked out sits in the Night Watch book's plan. Ace Attorney turns a trial where a statement meets the exhibit that contradicts it, as R71-81 turns a reading on instruments that disagree.",
+     "options": [
+      {
+       "key": "A",
+       "label": "The contradiction, live",
+       "consequence": "Every hearing plays live and turns where a statement meets an exhibit that contradicts it, whatever the culture."
+      },
+      {
+       "key": "B",
+       "label": "Culture's form, contradiction turn",
+       "consequence": "A hearing takes its culture's form (Kharven witnesses at the hearth, an Accord chancery's papers, a Moto memorial) and turns where that form lets a contradicting proof in."
+      },
+      {
+       "key": "C",
+       "label": "Summary to the verdict",
+       "consequence": "Hearings run in summary; only the moment of proof is played, and the verdict lands by proof (R71-101) and ticks or opens a Front."
+      }
+     ],
+     "recommended": "B",
+     "rec_reason": "It keeps R53-11's justice by culture and the Ace Attorney turn he would enjoy, and if his PC ever stands accused, the verdict follows the proof on the page and nothing else (R57-10).",
+     "multi": false,
+     "depends_on": [],
+     "rules_touched": [
+      "R71-101-LAW_TURNS",
+      "R53-11-JUSTICE",
+      "R71-81-FORENSIC_READING_PAGE",
+      "R60-19-LAYERED_RULE"
+     ]
+    }
+   ]
+  },
+  {
+   "key": "ME",
+   "title": "Method",
+   "intro": "Where the answers land, what the table keeps on paper, what verify_scene learns, and what the sample bank holds.",
+   "questions": [
+    {
+     "id": "ME1",
+     "title": "Where the law lands",
+     "question": "How do these answers land in the repo?",
+     "context": "Rulings enter through log_ruling as dated rule rows. No companion guide covers horror, mystery or intrigue, and NATALIE.md carries the Iceberg and the table rules as standing prompt text outside the index. The Style Law landed as a rule doc plus new guide editions (R70-135); the Combat Law chose a rule doc and three guides.",
+     "options": [
+      {
+       "key": "A",
+       "label": "Rule doc only",
+       "consequence": "One dated Mystery, Horror and Intrigue Law doc through log_ruling, served by load_rules; NATALIE.md stays as it is."
+      },
+      {
+       "key": "B",
+       "label": "Rule doc and NATALIE",
+       "consequence": "A, plus NATALIE.md's table rules and Iceberg lines rewritten to agree with it, so the standing prompt and the index say the same thing."
+      },
+      {
+       "key": "C",
+       "label": "Doc, NATALIE, a guide",
+       "consequence": "B, plus a new Mystery, Horror and Intrigue Craft Guide in desktop/, so Natalie has one document to read before a dark or scheming scene."
+      }
+     ],
+     "recommended": "C",
+     "rec_reason": "Nothing in the companion docs teaches this ground yet, and he has chosen guide editions for both earlier laws; a guide is where the samples and the planted-sign practice can live.",
+     "multi": false,
+     "depends_on": [],
+     "rules_touched": [
+      "R70-135-WHERE_NEW_LAW_LIVES"
+     ]
+    },
+    {
+     "id": "ME2",
+     "title": "What the table keeps on paper",
+     "question": "What should the table track for intrigue?",
+     "context": "R60-20 wants faction interests 'written out', yet a Front carries one Want line; the roster holds each NPC's want, refusal, knowledge and lie, and the Ledger keeps a 'who knows what' section. The Powers page already writes each power as wants, holds, fights by, set against, fears and 'the seam', the lever someone can find.",
+     "options": [
+      {
+       "key": "A",
+       "label": "Faction sheets",
+       "consequence": "Every faction with a Front gets a sheet on the Powers page model: wants, holds, fights by, set against, fears, its method, and its seam."
+      },
+      {
+       "key": "B",
+       "label": "What NPCs know of him",
+       "consequence": "The roster gains a running line, updated at session end, of what each NPC in an intrigue knows or believes about the PC."
+      },
+      {
+       "key": "C",
+       "label": "A leverage ledger",
+       "consequence": "The Ledger gains a section of who holds what on whom, with its risk to the holder, carrying IN4's answer."
+      },
+      {
+       "key": "D",
+       "label": "The sealed Front file",
+       "consequence": "A file Natalie reads and Isaac opens on resolution, carrying IN6's answer for mystery and intrigue Fronts."
+      }
+     ],
+     "recommended": "A,B,C,D",
+     "rec_reason": "Each is the paper behind an answer above: the seam is the intrigue form of a findable counter, and NPC knowledge, leverage and sealed moves are what keep a veteran-clever NPC from acting on more than he could know (R48-36).",
+     "multi": true,
+     "depends_on": [
+      "IN4",
+      "IN6"
+     ],
+     "rules_touched": [
+      "R60-20-HOW_POWERS_FIGHT",
+      "R48-26-INVENTION",
+      "R5-C1-INFO_TRACKED_PER_POV",
+      "R48-36-NPC_WITS"
+     ]
+    },
+    {
+     "id": "ME3",
+     "title": "Checks in verify_scene",
+     "question": "Which checks should verify_scene gain with this law?",
+     "context": "R70-35 bans stock phrasing by family but not the cosmic-horror stock: unnameable, eldritch, indescribable. The archive survey finds 'could make nothing of it' and its kin closing beats in at least eleven scene files, and the lamp and the wax are close to the only clue objects. The Combat Law's stale-device watch covers fights only.",
+     "options": [
+      {
+       "key": "A",
+       "label": "Cosmic stock words",
+       "consequence": "'Unnameable', 'eldritch', 'indescribable', 'unspeakable' and 'nameless dread' join the hard-ban list as a fourth stock family, FAIL in narration."
+      },
+      {
+       "key": "B",
+       "label": "The witness count",
+       "consequence": "WARN when a horror scene puts more than one face before the thing it fears; carries HO9's answer."
+      },
+      {
+       "key": "C",
+       "label": "Stale clue habits",
+       "consequence": "WARN past one a scene on 'could make nothing of it', 'did not know what that meant', and a lamp or wax as the clue in consecutive scenes of a thread."
+      },
+      {
+       "key": "D",
+       "label": "Planted signs for turns",
+       "consequence": "FAIL a scene that turns a betrayal or a scheme's reveal when its notes list no earlier planted sign (R48-30), as R71-30 already asks of held reveals."
+      }
+     ],
+     "recommended": "A,B,C,D",
+     "rec_reason": "A strips Lovecraft's worst habit before it arrives, B and C make two answers mechanical, and D turns the foreshadowing floor into something the checker can catch.",
+     "multi": true,
+     "depends_on": [
+      "HO9"
+     ],
+     "rules_touched": [
+      "R70-35-HARD_BAN_LIST",
+      "R70-136-NEW_CHECKS_VERIFY_SCENE",
+      "R5-G-TELL_BANK_ADDITIONS",
+      "R48-30-SURPRISES",
+      "R71-30-HELD_BACK_REVEAL"
+     ]
+    },
+    {
+     "id": "ME4",
+     "title": "The sample bank",
+     "question": "What should the horror and intrigue sample bank hold?",
+     "context": "R70-138 ran law, a test scene, then a bank by culture (desktop/style-bank/); the Combat Law chose a bank by culture and by type. The archive has no Well descent played as fear, no interrogation, no hearing and one PC horror scene. Horror and intrigue are scene types first, though each culture fears and schemes in its own way.",
+     "options": [
+      {
+       "key": "A",
+       "label": "One per culture",
+       "consequence": "Each style-bank file gains one horror passage and one intrigue passage in its culture's voice."
+      },
+      {
+       "key": "B",
+       "label": "A bank by scene type",
+       "consequence": "One new bank: a Well descent, a body found, a death-house night, a council turn, an interrogation, a hearing and a record of the strange, each with notes."
+      },
+      {
+       "key": "C",
+       "label": "Both",
+       "consequence": "B as the new bank, and each culture file gains one dark scene so the voice and the type meet."
+      }
+     ],
+     "recommended": "C",
+     "rec_reason": "It matches what he chose for combat and covers the gap twice: the types the archive has never written, and the cultural eye that decides what each people fears.",
+     "multi": false,
+     "depends_on": [],
+     "rules_touched": [
+      "R70-138-PROOF_ORDER_WORK"
+     ]
+    }
+   ]
+  }
+ ],
+ "settled": [
+  {
+   "point": "Pressure reaches the room first and bodies after; the unwoken take the Aura table (dread from F to D, weight from C, knees from A); ordinary people feel Pressure as dread.",
+   "rule_ids": [
+    "R70-69-PRESSURE_AURA",
+    "R71-41-PRESSURE_UNWOKEN",
+    "R53-14-FOLK_KNOWLEDGE"
+   ],
+   "why_not_asked": "Ruled 2026-10-03 and 2026-10-04; HO2 and HO9 build on the room-first order rather than reopen it."
+  },
+  {
+   "point": "Inside a Well ignorance is the ambient condition and the one read is usually spent wrong; a misidentified encounter is the setting's best disaster.",
+   "rule_ids": [
+    "R11-4-DESCENT_PROSE_LAW",
+    "R11-4-SURVEY_PROTOCOL"
+   ],
+   "why_not_asked": "Live descent law; the horror questions pace and show what it already makes."
+  },
+  {
+   "point": "Well-spawn breed only at Wells, carry fair counters, and are fought as a hunt by procedure with rung and tier appraised and the gap named.",
+   "rule_ids": [
+    "R53-06-WELL_SPAWN",
+    "R58-06-WELL_SPAWN_WELLS_ONLY",
+    "R71-56-SHAPE_MONSTER_FIGHT",
+    "R71-57-APPRAISING_BEAST"
+   ],
+   "why_not_asked": "Settled by the Bestiary rulings and the Combat Law; HO1 and HO2 ask only how dread shows before the hunt."
+  },
+  {
+   "point": "Revenants are stalled Crossings that obey anatomy; corruption shows one bodily sign a scene, planted; an impression-body leaks a seam the reader catches.",
+   "rule_ids": [
+    "R61-77-REVENANT_IS_STALLED_CROSSING",
+    "R71-86-REVENANT_FIGHT",
+    "R71-82-CORRUPTION_SHOWN_BODY",
+    "R71-87-IMPRESSION_BODY_VOICE"
+   ],
+   "why_not_asked": "The dead and the corrupt already have mechanisms and counters; HO5 asks only whether events may settle a folk belief about them."
+  },
+  {
+   "point": "Folk beliefs stand and the narration never corrects them; the POV's culture decides what he makes of a room, misreadings included.",
+   "rule_ids": [
+    "R53-15-FOLK_BELIEFS",
+    "R70-44-CULTURE_KEYED_NOTICING"
+   ],
+   "why_not_asked": "Live; HO5 keeps the narration silent and asks only about events."
+  },
+  {
+   "point": "Epoch-scale things make problems, dread and awe and never resolve a plot.",
+   "rule_ids": [
+    "R7-2-EPOCH_SCALE_SURVIVES"
+   ],
+   "why_not_asked": "Load-bearing and unchanged; HO7 asks only how close they come to the page."
+  },
+  {
+   "point": "The world's magic is stated law with reasons kept, in the Mystic register; people's workings keep full mechanism.",
+   "rule_ids": [
+    "R12-2-MYSTIC_REGISTER_DEF",
+    "R70-76-MUCH_WORLD_MAGIC",
+    "R70-9-TECHNICAL_MYSTIC_REGISTERS"
+   ],
+   "why_not_asked": "Ruled 2026-10-03; it is the horror register these answers sit inside."
+  },
+  {
+   "point": "Set pieces run jo-ha-kyū; scenes may close mid-crisis, on a notice, or a breath before the payoff; one-liners cluster at reveals.",
+   "rule_ids": [
+    "R70-15-TEMPO_STILLNESS",
+    "R70-17-CLOSING_MODES",
+    "R70-20-PARAGRAPH_SHAPE"
+   ],
+   "why_not_asked": "Style Law; HO1 decides how horror spends that tempo, not whether it exists."
+  },
+  {
+   "point": "Wounds in a fight are full clinical gore, nothing looked away from.",
+   "rule_ids": [
+    "R48-34-WOUNDS"
+   ],
+   "why_not_asked": "Live for fights; HO8 asks only about horror outside a fight."
+  },
+  {
+   "point": "Comedy may sit hard against dread, each played straight; inside danger only gallows wit.",
+   "rule_ids": [
+    "R70-116-COMEDY_BESIDE_DANGER"
+   ],
+   "why_not_asked": "Ruled 2026-10-03."
+  },
+  {
+   "point": "A player's fighter: wounds as world facts, the tell placed and the read his, outward cost only; trained composure is free and fear in the body is owed only to the untrained.",
+   "rule_ids": [
+    "R71-6-PLAYER_FIGHTER_PAGE",
+    "R71-17-FEAR_BODY"
+   ],
+   "why_not_asked": "Combat Law; HO3 and HO6 carry its line into horror without reopening it."
+  },
+  {
+   "point": "Lies are frequent, motivated and always leave a catchable tell; NPCs are veteran-clever, never omniscient; nothing is rigged either way.",
+   "rule_ids": [
+    "R48-42-LIES",
+    "R49-36-LIE_TELLS",
+    "R48-36-NPC_WITS",
+    "R57-10-NEVER_RIGGED"
+   ],
+   "why_not_asked": "Live; IN8 asks only about true sentences built to deceive, which no row covers."
+  },
+  {
+   "point": "Big surprises, betrayal included, only after foreshadowing a player could have caught; a tell is shown twice, then read.",
+   "rule_ids": [
+    "R48-30-SURPRISES",
+    "R71-23-TELL_READ",
+    "R71-30-HELD_BACK_REVEAL"
+   ],
+   "why_not_asked": "Live; IN2 and IN3 build schemes and betrayals on this floor."
+  },
+  {
+   "point": "Court cultures argue in long formal speech while Kharven and soldier speech stays short; every public reversal opens a Front or a Ledger debt; talk is a weapon inside a fight.",
+   "rule_ids": [
+    "R70-111-LONG_FORMAL_SPEECH_CLIPPED",
+    "R70-112-FACE_FACE_SLAP",
+    "R71-22-TALK_INSIDE_FIGHT"
+   ],
+   "why_not_asked": "Style and Combat Law; IN1 and IN7 ask what turns a council and whether the fight rule reaches interrogation."
+  },
+  {
+   "point": "Law moves on proof inside the residue clocks, courts fight over a killing as a Front, an undeclared killing by dawn is murder, and each culture keeps its own justice; a forensic reading plays as protocol and turns on contradicting instruments.",
+   "rule_ids": [
+    "R71-101-LAW_TURNS",
+    "R60-11-TRACE_EVIDENCE_AND_JURISDICTION",
+    "R60-19-LAYERED_RULE",
+    "R53-11-JUSTICE",
+    "R71-81-FORENSIC_READING_PAGE"
+   ],
+   "why_not_asked": "Ruled 2026-10-04 and earlier; IN9 asks only the hearing's shape on the page."
+  },
+  {
+   "point": "The powers fight by proxy, economy and intrigue with interests written out; The Mother's cells are cultures, keep the hand and the purse apart, and choose their own names; the Night Watch's institutions, seals and Register are canon.",
+   "rule_ids": [
+    "R60-20-HOW_POWERS_FIGHT",
+    "R60-23-THE_MOTHER",
+    "R60-24-THE_MOTHER_IS_A_CULT",
+    "R60-22-THE_NIGHT_WATCH",
+    "R60-26-NIGHT_WATCH_SOCIETY"
+   ],
+   "why_not_asked": "Settled worldbuilding; ME2 asks only what paper the table keeps on factions."
+  },
+  {
+   "point": "Each live thread keeps at least one standing warm bond, written openly warm.",
+   "rule_ids": [
+    "R70-114-GRIMDARK_WARMTH"
+   ],
+   "why_not_asked": "Ruled 2026-10-03; IN3 asks only whether that bond may betray."
+  },
+  {
+   "point": "Documents may open a scene that then tests them, and may be records of the strange, court annals, notebooks or reference entries.",
+   "rule_ids": [
+    "R70-16-OPENING_MODES",
+    "R70-67-FORMS_WORLD_DOCUMENTS",
+    "R12-4-VOICE_FOUR_DOCUMENT"
+   ],
+   "why_not_asked": "Style Law; HO7, HO8 and IN7 use these forms as options without reopening them."
+  },
+  {
+   "point": "A Trace can be used once: every Anamnesis read erases what it takes.",
+   "rule_ids": [
+    "R61-108-MORTALIS_FULL_COST_STACK",
+    "R61-70-ANAMNESIS_READS_NOT_STORES"
+   ],
+   "why_not_asked": "Canon cost; HO4 asks only whether sight and knowledge cost too."
+  }
+ ]
+}

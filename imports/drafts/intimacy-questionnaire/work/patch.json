@@ -1,0 +1,245 @@
+{
+ "lede": "You asked for a questionnaire on intimacy and explicit scenes: courtship and relationships by culture, desire and refusal lines, dubcon handling, aftermath, how bonds grow and the new style in bed, with three research passes (the current law, the house archive, and erotic and romantic craft across Western, Eastern and LitRPG writing) behind every option and sample. There are 43 questions in four sections, every sample is between adults, and nothing the Style Law or the Combat Law ruled is asked again: the settled list at the end says what was left alone and why. Answer the five Keystones first, since most later questions lean on them; every question carries a recommendation you can take as it stands.",
+ "section_order": [
+  "K",
+  "SC",
+  "CO",
+  "ME"
+ ],
+ "drop": [],
+ "add": [
+  {
+   "section_key": "SC",
+   "after_id": "SC7",
+   "question": {
+    "id": "SC15",
+    "title": "Reading a lover",
+    "question": "When a lover can read the other by faculty, nose or eye, may that read run in bed without leave?",
+    "context": "The archive's commonest intimate device is a lover read as an instrument: a nose, fate threads, a pulse counted down. A faculty read prints exact figures when the reader's Gnosis Perception outranks the target's Resilience Ward by Grade (R71-44); a scenting POV reads by smell (R71-63); clansmen believe the Moto read through the eyes (R53-15). Nothing says whether reading a lover unasked is intimacy or trespass.",
+    "options": [
+     {
+      "key": "A",
+      "label": "Lovers read freely",
+      "consequence": "Any sense or faculty runs in bed as it runs anywhere; the read is part of how desire and refusal show (SC7), and being read is part of being a lover.",
+      "sample": "Wenna had Ansel on his back with his cock deep in her, and rode him slow while the draw-hum ran under the floorboards. Her faculty opened as easily as her thighs had, and his figures came up behind her eyes in the Guild's own columns: reserve low from the day's work, his Ward lying open. She had not asked. Lovers didn't. She bent and set her teeth to the side of his throat, and he came with a sound like a man struck."
+     },
+     {
+      "key": "B",
+      "label": "Every read by leave",
+      "consequence": "Any read past the ordinary senses waits on leave, in words or body; one taken unasked is trespass, felt by the one read as its tell, stopped by a Ward, and entered on the Ledger once found (K5).",
+      "sample": "Wenna had Ansel on his back with his cock deep in her, and rode him slow while the draw-hum ran under the floorboards. She touched two fingers to his temple. \"May I?\" He thought about it with his hips still moving under her. \"Go on.\" Her faculty opened, and his figures came up behind her eyes in the Guild's own columns: reserve low from the day's work, his Ward lying open because he had laid it open. She said nothing of what she saw."
+     },
+     {
+      "key": "C",
+      "label": "Senses free, workings by leave",
+      "consequence": "What cannot shut, a beastkin nose or ears, reads freely; a worked read, by Gnosis or a Moto's eyes, needs leave, and one taken unasked is B's trespass, with B's tell, counter and debt.",
+      "sample": "Wenna's nose had told her Ansel wanted her before the door was shut, and nobody asks leave of a nose. The faculty was another matter. With his cock deep in her and her hips slowing, she touched two fingers to his temple. \"May I?\" \"No,\" said Ansel. She took her fingers away, and her ears came forward. She smelled the fear go out of his sweat and the want come back into it, and rode him harder for the answer."
+     }
+    ],
+    "recommended": "C",
+    "rec_reason": "A nose cannot be asked to stop, so B would make every beastkin lover a trespasser by breathing; a worked read is a choice, so it can carry the tell, the counter and the bill that every ability owes.",
+    "multi": false,
+    "depends_on": [
+     "SC7"
+    ],
+    "rules_touched": [
+     "R71-44-FACULTY_READ_MAN",
+     "R71-63-BEASTKIN_SENSES_FOX_FIRE",
+     "R53-15-FOLK_BELIEFS",
+     "R12-3-COUNTER_MANDATORY",
+     "R70-85-SCENE_MOMENTS_THAT_EARN"
+    ]
+   }
+  },
+  {
+   "section_key": "SC",
+   "after_id": "SC8",
+   "question": {
+    "id": "SC16",
+    "title": "Bedchamber arts",
+    "question": "May the act itself carry a working, Essence given, pooled or drawn between the partners?",
+    "context": "China's fangzhongshu (the arts of the bedchamber) treat sex as cultivation: conserve jing (vital essence) and draw on the partner's; xianxia (immortal-cultivation fiction) turns it into dual cultivation, a power-up. Fracture of Worlds gives bonds mechanical weight (the Axis Sub-Stat, the Spirit Axis) but no working through the act, and Yorime's Claim (drawing Essence out of a target) works by touch. SC8 asks only about desire.",
+    "options": [
+     {
+      "key": "A",
+      "label": "Never through the act",
+      "consequence": "Sex moves no Essence. Bonds grow only by CO15's routes, the Crystal takes no notice of a bed, and a Claim by touch stays a Claim, never a lovers' art."
+     },
+     {
+      "key": "B",
+      "label": "Given, never drawn",
+      "consequence": "A bedchamber art may give or pool what both partners offer, built under ability law with a cost in both bodies, a tell and a counter; no art draws from a partner in bed."
+     },
+     {
+      "key": "C",
+      "label": "Given or drawn, fully priced",
+      "consequence": "A bedchamber art is a technique: a Codex line, a cost in both bodies, a tell, a counter, no figure until canon holds one. One drawing unasked is a Claim, and the scene dubcon or non-con (SC8)."
+     }
+    ],
+    "recommended": "C",
+    "rec_reason": "Your xianxia and progression models live on such arts, and C holds them to the fairness every ability meets, a cost, a tell, a counter and no invented figure, while a drawing art becomes a dark engine a player can find and stop.",
+    "multi": false,
+    "depends_on": [
+     "SC8"
+    ],
+    "rules_touched": [
+     "R12-3-COUNTER_MANDATORY",
+     "R47-1-NO_APPLICATIONS",
+     "R47-3-COUNTERS_AS_FACTS",
+     "R12-3-NAMED_INVENTOR_RULE",
+     "R48-37-COST_SHOWN",
+     "R12-5-NEVER_INVENT_NUMBER"
+    ]
+   }
+  },
+  {
+   "section_key": "CO",
+   "after_id": "CO8",
+   "question": {
+    "id": "CO18",
+    "title": "The pleasure trade",
+    "question": "Does the Draw Age keep a trade in sex on the page, and in what form?",
+    "context": "Nothing in canon names a brothel, a courtesan or a bathhouse, and the price table has no row for one, though money comes before magic (R53-17). Victorian Britain inspected women under the Contagious Diseases Acts (1864 to 1869, repealed 1886) and held them in lock hospitals (locked venereal wards); Edo's Yoshiwara ranked its courtesans; Joseon's gisaeng were state-registered entertainers trained in verse.",
+    "options": [
+     {
+      "key": "A",
+      "label": "Each culture's own form",
+      "consequence": "The Accord licenses houses under seal and inspection, Eastern courts keep ranked quarters or verse-trained entertainers, the north keeps no house and trades in kind; entered in CO1's Mores field, fees as price-table rows on your word.",
+      "sample": "Mother Fettle's house on Tallow Row kept its licence framed by the door under green wax, with the inspector's last mark inked beside it, and a girl would show her own card if a man asked. Dunstan didn't ask. He paid the fee chalked over the hatch and went up. North of the arrays there was no house and no paper. The same bargain was a skin of seal fat at somebody's fire, with nobody's mark on it."
+     },
+     {
+      "key": "B",
+      "label": "One licence everywhere",
+      "consequence": "A single licence, seal and inspection runs wherever the licensing Guilds' conduit runs: proof-marked houses, one fee list, inspectors who take bribes; a cheaper unlicensed trade works beside it.",
+      "sample": "Mother Fettle's house on Tallow Row kept its licence framed by the door under green wax, the same seal that hung in every licensed house from the Accord's ports to the Seat. Dunstan paid the fee chalked over the hatch, the Guild's own figure, and went up. Out past the last conduit the women who would not pay for a seal worked the inn yards for less, and the inspectors drank there free."
+     },
+     {
+      "key": "C",
+      "label": "Texture, never a house",
+      "consequence": "The trade lives in talk, the Rumor Mill and a scene's edges; no house is entered, no fee priced, and no explicit scene is set in one.",
+      "sample": "Dunstan knew the house on Tallow Row the way everyone in the ward knew it: from the draymen's talk at the standpipe, from the chaplain's sermons, from the green lamp that burned there after the meters were read. He walked past it twice that winter with his hands in his pockets. What went on behind the lamp stayed a thing men said, and some of what they said was wrong."
+     }
+    ],
+    "recommended": "A",
+    "rec_reason": "It answers CO1's Mores field with each culture's own form, gives money before magic a trade it has ignored, and puts fees, debts, the pox and gossip where the Ledger can collect them; B flattens every culture into the Accord.",
+    "multi": false,
+    "depends_on": [
+     "CO1"
+    ],
+    "rules_touched": [
+     "R53-17-THE_BILL",
+     "R70-48-MONEY_PRICE_PROVENANCE",
+     "R53-07-PRICE_TABLE",
+     "R70-45-NEW_STANDING_INVENTORY_FIELDS",
+     "R53-11-JUSTICE",
+     "R53-10-MEDICINE"
+    ]
+   }
+  }
+ ],
+ "rec_changes": [],
+ "intros": {
+  "SC": "How the explicit scene reads line by line, how consent, a lover's read and a working show in bed, how dark material is handled, and how a live turn works with your character in it.",
+  "CO": "How people court, marry, keep, lose and grieve each other, culture by culture, what the pleasure trade looks like, and what love costs across a Stage gap. The explicit register is settled law (R49-51, R70-133, R70-134); the Ledger, workings on desire and the coerced body are K5, SC8 and SC9."
+ },
+ "settled_extra": [
+  {
+   "point": "A faculty prints exact figures only when the reader's Gnosis Perception outranks the target's Resilience Ward by Grade, a hedged range otherwise, the Ward being the counter; a scenting POV may read by smell stated as evidence.",
+   "rule_ids": [
+    "R71-44-FACULTY_READ_MAN",
+    "R71-63-BEASTKIN_SENSES_FOX_FIRE"
+   ],
+   "why_not_asked": "Combat law, and it reaches a bed as it reaches a fight; SC15 asks only whether reading a lover needs leave."
+  },
+  {
+   "point": "Every ability states its mechanism, cost, tell and counter as facts and never how it is used, and every technique was derived by somebody.",
+   "rule_ids": [
+    "R12-3-COUNTER_MANDATORY",
+    "R47-1-NO_APPLICATIONS",
+    "R47-3-COUNTERS_AS_FACTS",
+    "R12-3-NAMED_INVENTOR_RULE"
+   ],
+   "why_not_asked": "Ability law; SC16 asks only whether an art may work through the act itself, and holds any such art to this law."
+  },
+  {
+   "point": "Money before magic: a working indoors on a main raises the bill, and somebody notices the cost.",
+   "rule_ids": [
+    "R53-17-THE_BILL"
+   ],
+   "why_not_asked": "World texture law; CO18 asks only whether the Draw Age keeps a trade in sex and in what form."
+  }
+ ],
+ "text_fixes": [
+  {
+   "file": "group-1.json",
+   "old": "Conception and the pox are asked in the courtship and bonds group; this asks what else a bed leaves on the record.",
+   "new": "Conception and the pox are CO11; this asks what else a bed leaves on the record."
+  },
+  {
+   "file": "group-1.json",
+   "old": "Pressure in bed is asked separately.",
+   "new": "Pressure in bed is CO13, and an art worked through the act itself is SC16."
+  },
+  {
+   "file": "group-1.json",
+   "old": "Whether verify enforces it with a word list belongs with the checks question in the method group.",
+   "new": "ME2 C asks only whether verify enforces it with a word list."
+  },
+  {
+   "file": "group-1.json",
+   "old": "and conception and the pox are asked in the courtship and bonds group.",
+   "new": "and conception and the pox are CO11."
+  },
+  {
+   "file": "group-1.json",
+   "old": "and what a Stage gap costs a couple, are asked in the courtship and bonds group.",
+   "new": "and what a Stage gap costs a couple, are CO13 and CO12."
+  },
+  {
+   "file": "group-1.json",
+   "old": "Isaac's PC and the other creators' characters are never thought, voiced or acted for; Isaac may voice any NPC, a lover included.",
+   "new": "Your PC and the other creators' characters are never thought, voiced or acted for; you may voice any NPC, a lover included."
+  },
+  {
+   "file": "group-1.json",
+   "old": "\"VO3 and the prose law.\"",
+   "new": "\"VO3 of the style law, and the prose law.\""
+  },
+  {
+   "file": "group-1.json",
+   "old": "\"IN3 and DT6.\"",
+   "new": "\"IN3 and DT6 of the style law.\""
+  },
+  {
+   "file": "group-1.json",
+   "old": "RH4; the bed draws on the same banks.",
+   "new": "RH4 of the style law; the bed draws on the same banks."
+  },
+  {
+   "file": "group-1.json",
+   "old": "and breaking it is a crime there.",
+   "new": "and breaking it is answered under that culture's own law (R53-11)."
+  },
+  {
+   "file": "group-2.json",
+   "old": "Asked in the first group (K5, SC8, SC9, SC12 to SC14).",
+   "new": "Asked under the Keystones and the explicit scene (K5, SC8, SC9, SC12 to SC14)."
+  },
+  {
+   "file": "group-2.json",
+   "old": "Bride-prices, settlements and allowances in these answers take their sums from the table; no question sets a price.",
+   "new": "Bride-prices, settlements, allowances and any house's fee take their sums from the table; no question sets a price, and CO18 asks only whether the trade gets rows."
+  },
+  {
+   "file": "group-2.json",
+   "old": "nakedness and bathing, and what its law does to adultery, written beside R70-45's law field.",
+   "new": "nakedness and bathing, the pleasure trade (CO18), and what its law does to adultery and to rape, written beside R70-45's law field."
+  },
+  {
+   "file": "group-2.json",
+   "old": "C belongs in the culture answers above.",
+   "new": "C belongs in the culture answers, CO2 to CO7."
+  }
+ ],
+ "notes": "1. Read group-1 (K1 to K5, SC1 to SC14, 23 settled rows) and group-2 (CO1 to CO17, ME1 to ME4, 14 settled rows) in full, and the three research files (law, house, traditions). Every rule id cited in rules_touched and settled rows resolves in out/rules.resolved.json; the style-law ids cited in settled rows (XS1, XS2, VO3, SP1, SP2, RH4, IN3, DT6) match imports/drafts/style-questionnaire/decisions.md; Stage names in CO13 and CO15 (III Ascension, IV Flourishing with Tier 4 Adept, V Splintering) match Fracture of Worlds; Yorime's Veil of the Last Hand, the Dawi Kurlo, Ei kurme, Cask-Oath and kurnur, the Moto hinge of the day and the Bow, the Accord almanac, Ita spondeo and Sine sigillo, and Sandalphon as consort all trace to the wiki or Inventories. No sample names a minor, Isaac's PC or another creator's character; neither file carries an em or en dash. 2. No drops: no two questions ask the same thing. Close pairs kept on purpose: SC9 and CO13 (the coerced body, and whether Pressure can cause it; CO13 already depends_on SC9); K5 and CO11 (the Ledger, and conception and the pox); SC8 and CO10 C and CO17 B (Obsession by working, by jealousy, by grief); CO15 C and CO2 to CO7 (CO15's rec already sends custom ladders to the culture answers). 3. Three additions, each a gap all three research files flagged and no question asked: SC15 reading a lover (the archive's dominant intimate device, a lover read as an instrument, against R71-44's faculty read and the Moto eye belief; whether it needs leave), placed after SC7; SC16 bedchamber arts (whether the act itself may give, pool or draw Essence, the xianxia dual-cultivation question research-trad item 18 and research-house missing item 8 raised), placed after SC8; CO18 the pleasure trade (no brothel, courtesan or bathhouse anywhere in canon or the price table, flagged by research-law open 3, research-house missing 10, research-trad item 4), placed after CO8. Ids are out of sequence as the style and combat patches did. 4. Recommendations: no rec_changes needed. Checked across groups: K1 C with CO14 B and CO16 B (joy may stand, lovers losable, lived before lost); SC12 B with SC13 B and SC14 B (contact as world fact, his response his); SC8 B with CO13 C (CO13's rec_reason already leans on SC8); SC9 B with CO13; CO12 A,B with CO13 C; CO1 B with ME1 C; ME2 B with the floor row. New recs checked against old: SC15 C against SC7 C and K4 C (a planted hinge a read can find); SC16 C against SC8 B and R12-3; CO18 A against CO1 B, CO8 B and CO11 A. 5. Stale cross-references fixed (14 text_fixes, each old string checked to occur exactly once): group-1's 'the courtship and bonds group' (K5 context and two settled rows) and 'the method group' now name CO11, CO12, CO13 and ME2 C; SC8's 'asked separately' now names CO13 and SC16; group-2's settled 'the first group' now names the Keystones and the explicit scene section; CO15's 'answers above' names CO2 to CO7; the style-law ids VO3, IN3, DT6 and RH4 are marked as the style law's. The CO intro, which also said 'the first group', is replaced through intros, not a text_fix. 6. Voice: one group-1 settled row spoke of 'Isaac' in the third person while every question says 'you'; fixed. 7. Two content fixes: SC6 B said breaking a stop-word 'is a crime there', which overstates Kharven, where a word is only as strong as the man who gives it and justice runs by labour-debt; now 'answered under that culture's own law (R53-11)'. CO1 B's Mores field now names the pleasure trade (CO18) and what each culture's law does to rape as well as adultery, research-law open item 12, which no question asked. 8. Intros updated for SC and CO to name the additions; settled_extra adds three rows the additions lean on (R71-44 and R71-63, the ability law, R53-17). 9. Final count: 40 questions in the groups, no drops, 3 additions, 43 in all (K 5, SC 16, CO 18, ME 4). 10. Left open, not added: content notes for books and guest players (research-trad item 11); whether a morning poem may lie about the night (item 15); a body grammar of consent per culture beyond the Eladrin (research-law item 8, partly carried by SC6 B and CO1 B); an NPC POV in a written scene in bed with your character (research-law section 4, SC12 asks only the roleplay turn); same-sex and multi-partner configurations by culture (research-house missing 12, left to CO1 B's Mores field and CO8)."
+}

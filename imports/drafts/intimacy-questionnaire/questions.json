@@ -1,0 +1,1878 @@
+{
+ "lede": "You asked for a questionnaire on intimacy and explicit scenes: courtship and relationships by culture, desire and refusal lines, dubcon handling, aftermath, how bonds grow and the new style in bed, with three research passes (the current law, the house archive, and erotic and romantic craft across Western, Eastern and LitRPG writing) behind every option and sample. There are 43 questions in four sections, every sample is between adults, and nothing the Style Law or the Combat Law ruled is asked again: the settled list at the end says what was left alone and why. Answer the five Keystones first, since most later questions lean on them; every question carries a recommendation you can take as it stands.",
+ "sections": [
+  {
+   "key": "K",
+   "title": "Keystones",
+   "intro": "What an intimate scene is for, when it reaches the page, and what it leaves behind. The explicit-scene rules sit inside these.",
+   "questions": [
+    {
+     "id": "K1",
+     "title": "What an explicit scene earns",
+     "question": "Beyond Rule 9's consequence afterward, what must every explicit scene do for the story?",
+     "context": "Table Rule 9 owes 'a consequence afterward' but names no purpose. Anaïs Nin (the 1940s erotica writer) made each scene show one person's hunger in its exact shape; romance makes each scene turn the relationship; R70-114 lets joy have 'scenes of its own'. This decides whether a bed may hold pleasure alone.",
+     "options": [
+      {
+       "key": "A",
+       "label": "Turns a thread, always",
+       "consequence": "Each explicit scene must move a plot or relationship thread: a debt made, a secret out, a power shift, a betrayal planted. No scene is sex for its own sake."
+      },
+      {
+       "key": "B",
+       "label": "Shows the hunger's shape",
+       "consequence": "Each scene shows something about one partner's desire or refusal the reader did not know; a thread may move or not. Rule 9's consequence still lands afterward."
+      },
+      {
+       "key": "C",
+       "label": "B, and joy may stand",
+       "consequence": "B by default, and a settled pair may have a night that is only pleasure and warmth, its consequence small: a habit, a mark, a witness."
+      }
+     ],
+     "recommended": "C",
+     "rec_reason": "Nin's rule keeps every scene revealing someone, and R70-114 already lets joy have scenes of its own, so a happy couple's night may earn its page by warmth alone.",
+     "multi": false,
+     "depends_on": [],
+     "rules_touched": [
+      "R70-114-GRIMDARK_WARMTH"
+     ]
+    },
+    {
+     "id": "K2",
+     "title": "On the page or cut",
+     "question": "May an explicit scene ever cut away before the act, to the morning or the next scene?",
+     "context": "Rule 9 says how an explicit scene is written, never whether one may cut. R70-17 lets any scene 'stop a breath before its emotional point', the next scene owing it. Genji (the Heian court novel, Japan's classical era) skips every night between arrival and the morning poem. The floor bars 'a silent stall' when a flag trips.",
+     "options": [
+      {
+       "key": "A",
+       "label": "Always on the page",
+       "consequence": "Any sex that happens inside a scene is written explicitly, start to finish, with no cut and no fade; the aftermath follows on the page.",
+       "sample": "Chiyo set the lamp on the floor and knelt astride Rokuro on the quilts. His cock stood hard against her belly until she took it in her hand and sank down onto it, wet enough that it went in to the root on one slow breath. Frost furred the inside of the shutter. She rode him slowly with her palms flat on his chest, and he held her hips and let her set the pace. Each time she came down, the lamp flame leaned and righted."
+      },
+      {
+       "key": "B",
+       "label": "Cut as a named choice",
+       "consequence": "On the page by default. A written chapter may break off before the act under R70-17 when its point lies elsewhere, named in the author notes, and the next scene owes it; roleplay never cuts.",
+       "sample": "Chiyo set the lamp on the floor and knelt astride Rokuro on the quilts, and drew his hands to her hips.\n\nBy the hinge of the day the lamp had drowned in its own oil. She woke cold on one side and warm on the other, his arm heavy across her ribs, and lay listening to the house make the Bow without her: cloth moving fourteen times in the next room, and no voice. Her thighs ached. She left his arm where it was."
+      },
+      {
+       "key": "C",
+       "label": "Cut keyed to culture",
+       "consequence": "A Moto or courtly POV may skip the act the Genji way, the night a gap between arrival and the morning poem; a blunt culture's POV always writes it.",
+       "sample": "Chiyo set the lamp on the floor and knelt astride Rokuro on the quilts, and drew his hands to her hips.\n\nHe was gone before the house made the Bow. His note came under her door folded small, a pine needle through the fold, in the plain hand retainers keep for the house:\n\n> The frost on your shutter\n> has my breath in it.\n\nShe read it twice, and wrote her answer before she put up her hair."
+      }
+     ],
+     "recommended": "B",
+     "rec_reason": "You write explicit fiction and the floor bars a flinch, so the page is the default; R70-17's break-off is already your law for every scene, and naming each cut in the notes keeps it a choice and never a habit.",
+     "multi": false,
+     "depends_on": [],
+     "rules_touched": [
+      "R70-17-CLOSING_MODES",
+      "R70-133-EASTERN_TECHNIQUES_BESIDE_CLINICAL"
+     ]
+    },
+    {
+     "id": "K3",
+     "title": "When the first time comes",
+     "question": "Across a thread, when does a pair's first explicit scene arrive?",
+     "context": "No law sets the pace, and every archived pair stops at the threshold. Romantasy (fantasy romance) runs the slow burn, desire delayed across many near-misses; Nin's erotica and dark romance (love stories built on captivity and obsession) open with the act and grow the bond after. Table Rule 3 has NPCs pursue what they want.",
+     "options": [
+      {
+       "key": "A",
+       "label": "Slow burn by default",
+       "consequence": "A pair's first explicit scene comes only after several scenes of near-miss and want, each logged on the Ledger as a debt between them; sex never opens a relationship."
+      },
+      {
+       "key": "B",
+       "label": "When the people would",
+       "consequence": "No pacing rule: NPCs act on their wants and refusal lines, so sex may come first and the bond after, or never. Table Rule 3 decides."
+      },
+      {
+       "key": "C",
+       "label": "Carded slow, the rest free",
+       "consequence": "A carded character's first time waits on a bond built across scenes; minor NPCs act on want at once, so a tavern night and a long love run at different speeds."
+      }
+     ],
+     "recommended": "B",
+     "rec_reason": "NPC agency is the table's engine; a fixed slow burn would make every lover coy on schedule, and C would make a carded character's wants run on a clock their card never set.",
+     "multi": false,
+     "depends_on": [],
+     "rules_touched": [
+      "R52-02-VOICE_LEVER"
+     ]
+    },
+    {
+     "id": "K4",
+     "title": "The lover's desire and refusal",
+     "question": "Where does a lover's own desire and refusal line live, and what does it hold?",
+     "context": "Rule 9 gives the NPC 'their own desire and refusal line' and the right to change their mind. The roster's refusal_line is professional on all ten rows, and no card or roster row has a desire field. Your fair-play line asks every power for a findable counter; nothing yet asks a change of mind for a findable cause.",
+     "options": [
+      {
+       "key": "A",
+       "label": "Refusal line covers it",
+       "consequence": "No new field: the existing refusal line on card and roster reaches the bed, desire is shown in play, and either is logged only when it matters."
+      },
+      {
+       "key": "B",
+       "label": "Desire and refusal fields",
+       "consequence": "Every card and roster row for anyone who may share a bed gains two fields: what they want in bed, and what they will not do."
+      },
+      {
+       "key": "C",
+       "label": "Desire, refusal, and the hinge",
+       "consequence": "As B, plus a third field: what would change their mind, either way. Rule 9's change of mind then has a planted cause a player can find."
+      }
+     ],
+     "recommended": "C",
+     "rec_reason": "It turns 'can change their mind' from a coin toss into a hinge a player can find, the same fairness the combat law built into every tell, and B's two fields come with it.",
+     "multi": false,
+     "depends_on": [],
+     "rules_touched": [
+      "R52-02-VOICE_LEVER",
+      "R48-30-SURPRISES"
+     ]
+    },
+    {
+     "id": "K5",
+     "title": "What the Ledger keeps",
+     "question": "After an intimate scene, which consequences go on the Ledger and persist?",
+     "context": "Table Rule 7's Ledger keeps 'injuries, exhaustion, reserve, debts, reputation, who saw what'. Rule 9 owes a consequence, yet no intimate act has ever been entered. Conception and the pox are CO11; this asks what else a bed leaves on the record.",
+     "options": [
+      {
+       "key": "A",
+       "label": "Debts and promises",
+       "consequence": "Whatever was promised, owed, bargained or betrayed in bed is entered and comes due like any other debt."
+      },
+      {
+       "key": "B",
+       "label": "Witnesses and reputation",
+       "consequence": "Who heard, who saw, who will talk: gossip, scandal and a rival's leverage, entered as who-saw-what, and able to open a Front."
+      },
+      {
+       "key": "C",
+       "label": "Marks on the body",
+       "consequence": "Bites, bruises, beard-burn, a strained hip, another's scent on the skin: entered and carried on real healing times (R60-02), visible to whoever looks."
+      },
+      {
+       "key": "D",
+       "label": "What was learned",
+       "consequence": "A secret told, a scar seen, a weakness found in bed is entered as knowledge the other now holds, and may use."
+      }
+     ],
+     "recommended": "A,B,D",
+     "rec_reason": "Each is a cost the world can collect or use; a mark matters only when someone sees it, which B already enters as who-saw-what, so logging every bruise would bury the Ledger.",
+     "multi": true,
+     "depends_on": [],
+     "rules_touched": [
+      "R60-02-REAL_HEALING_TIMES"
+     ]
+    }
+   ]
+  },
+  {
+   "key": "SC",
+   "title": "The explicit scene",
+   "intro": "How the explicit scene reads line by line, how consent, a lover's read and a working show in bed, how dark material is handled, and how a live turn works with your character in it.",
+   "questions": [
+    {
+     "id": "SC1",
+     "title": "The words, by culture",
+     "question": "Are the plain words for the body one crude English in every POV, or does each culture carry its own?",
+     "context": "R49-51 fixes 'working-man anatomical words'. R70-33 gives each Inventory a Words entry and R70-34 lets an Eastern POV think his own tongue's swears, yet no Inventory holds a word for sex. Victorian erotica (The Pearl, My Secret Life) kept its own blunt stock: prick, quim, frig.",
+     "options": [
+      {
+       "key": "A",
+       "label": "One crude English",
+       "consequence": "Every POV uses the same plain crude stock (cock, cunt, arse, fuck); the culture's dial bends syntax and image only.",
+       "sample": "Prue hitched her skirts to her waist, sat her lodger down on the edge of the bed and straddled him. His cock was hard in her fist. She rubbed the head of it along her cunt until it was wet, then sank onto him and stayed there, full, while the draw-hum ran under the floorboards. He put his face between her breasts. She rode him slowly and made him wait, the way a good house makes a debtor wait."
+      },
+      {
+       "key": "B",
+       "label": "A bed-words bank each",
+       "consequence": "Each Inventory's Words entry gains the culture's own blunt words for the body and the act: period English for the Accord, native words for Kharven and Dawi. Never a euphemism.",
+       "sample": "Prue hitched her skirts to her waist, sat her lodger down on the edge of the bed and straddled him. His prick stood stiff in her fist. She rubbed the knob of it along her quim until she was wet through, then sank onto him and stayed there, full, while the draw-hum ran under the floorboards. He put his face between her bubbies. She rode him slowly and made him wait, the way a good house makes a debtor wait."
+      },
+      {
+       "key": "C",
+       "label": "Crude English, native in mouths",
+       "consequence": "Narration keeps one crude English; each culture's own words for the body arrive in speech and italic thought, as its swears do.",
+       "sample": "Prue hitched her skirts to her waist, sat her lodger down on the edge of the bed and straddled him. His cock was hard in her fist. She rubbed the head of it along her cunt until it was wet, then sank onto him and stayed there, full.\n\n\"There's a stiff prick paid up to the quarter,\" she said into his ear. \"Frig me with your thumb, Mister Hobday, or I call in the debt.\""
+      }
+     ],
+     "recommended": "B",
+     "rec_reason": "It fills the Words entry R70-33 already owes, keeps two cultures distinct in bed as R70-134 wants, and the no-euphemism clause holds R49-51 whole.",
+     "multi": false,
+     "depends_on": [],
+     "rules_touched": [
+      "R49-51-EXPLICIT",
+      "R70-134-KEYED_CULTURE_FREE",
+      "R70-33-WORD_BANK_PER_CULTURE",
+      "R70-34-REAL_LANGUAGE_SWEARS_NARRATION",
+      "R70-27-ANTIQUE_NARRATION_RUNS",
+      "R51-02-CLOSE_POV_SWEARS"
+     ]
+    },
+    {
+     "id": "SC2",
+     "title": "How long it runs",
+     "question": "In a written scene or chapter, how long does an explicit scene run?",
+     "context": "Set pieces run 5,000 words and up (R48-46), and R1-3 counts a battle's aftermath inside its floor. Explicit scenes have no band of their own; the archive's nearest page runs from a kiss to a leg over his thigh in about ninety words.",
+     "options": [
+      {
+       "key": "A",
+       "label": "Always a set piece",
+       "consequence": "Every explicit scene runs at set-piece standard, 5,000 words and up, with the aftermath counted inside the floor as R1-3 counts a battle's."
+      },
+      {
+       "key": "B",
+       "label": "By weight",
+       "consequence": "A first time, a turning point or a dark scene runs as a set piece; a returning pair's night inside a chapter runs on that chapter's length, the aftermath always written."
+      },
+      {
+       "key": "C",
+       "label": "Short and hot",
+       "consequence": "The act itself is a short, dense passage inside a longer scene; the length lives in what comes before and after."
+      }
+     ],
+     "recommended": "B",
+     "rec_reason": "It gives the scenes that change things full room and keeps a married couple's ordinary night from swelling a chapter.",
+     "multi": false,
+     "depends_on": [],
+     "rules_touched": [
+      "R48-46-WORD_FLOOR",
+      "R1-3-WORD_FLOOR_INCLUDES_AFTERMATH"
+     ]
+    },
+    {
+     "id": "SC3",
+     "title": "Tracking the bodies",
+     "question": "How closely does the page track where the bodies are?",
+     "context": "Rule 9 says 'positions tracked'; the roleplay skill reads 'every movement', the writing pipeline 'every significant movement'. For fights you fixed bodies 'at the deciders' and let a scramble blur (R71-12). Shunga (Edo-period Japanese erotic prints) frames each pose so plainly the eye never loses whose limb is whose.",
+     "options": [
+      {
+       "key": "A",
+       "label": "Every movement",
+       "consequence": "Each shift of weight, hand, hip and leg is on the page as it happens; a reader could draw the scene at any line.",
+       "sample": "Signy rolled off him onto her knees on the hides, elbows down, and Kaare came up behind her. He set his left hand on her hip and his right on the small of her back, fitted the head of his cock to her and pushed in. Her knees slid a hand's width apart on the hide. She braced her right palm on the end of the hearth stack and pushed back onto him, and he moved his grip from her back to her shoulder and pulled her onto him."
+      },
+      {
+       "key": "B",
+       "label": "Fixed at each new pose",
+       "consequence": "Each new arrangement is fixed in one clear sentence as it forms; between poses, sensation leads and the geometry may blur. This settles the two skills' wording.",
+       "sample": "Signy rolled off him onto her knees on the hides, elbows down, and Kaare took her from behind with one hand on her hip. After that there was the heat of him, and the slap of it, and the smell of seal fat and sweat and her own wetness thick in the cold air. The hide burned her knees. She pushed back to meet him, harder, until he swore by the fire and caught her by the hair."
+      },
+      {
+       "key": "C",
+       "label": "Opening and peak only",
+       "consequence": "The bodies are placed when the act begins and again at the peak; in between the page follows sensation and speech. This loosens Rule 9's 'positions tracked'.",
+       "sample": "When they began, Signy lay on her back on the hides with Kaare between her thighs. After that there was the heat of him, and the slap of it, and the smell of seal fat and sweat and her own wetness thick in the cold air. She swore at him. She laughed. At the end she was on her knees with her face in the hide and his hand fisted in her hair, and could not have said how she got there."
+      }
+     ],
+     "recommended": "B",
+     "rec_reason": "It is your combat answer moved to the bed: the reader is never lost at a turn, yet the middle can run on sensation.",
+     "multi": false,
+     "depends_on": [],
+     "rules_touched": [
+      "R71-12-KEEPING_SPACE_TRACKABLE"
+     ]
+    },
+    {
+     "id": "SC4",
+     "title": "Which sense leads",
+     "question": "In an explicit scene, which sense leads the layering?",
+     "context": "Rule 9 asks for 'arousal scents layered'; R51-31 draws a scene's senses from its culture's bank first; R70-55 runs a first sight in the order this POV would look, and a scenting POV may read by smell (R71-63). Tanizaki (the Japanese novelist of shadow and fixation) builds desire from shadow and texture.",
+     "options": [
+      {
+       "key": "A",
+       "label": "Touch leads",
+       "consequence": "Heat, wet, weight, grip and texture carry each beat first; smell and sound layer on top.",
+       "sample": "Isao's palms were cold and his cock was hot, and both reached Kozue at once as he pushed into her: the chill of his hands closing on her waist, the thick heat sliding in until his hips met hers. The quilt was rough silk under her shoulders. His weight settled on her. After that came the smell of him, lamp oil and the iron in his coat seams, and her own musk rising between them, and the small wet sound each time he drew back."
+      },
+      {
+       "key": "B",
+       "label": "Smell leads",
+       "consequence": "Rule 9's arousal scents open each beat, then touch, then sound; the bed is smelled before it is felt.",
+       "sample": "The room smelled of lamp oil and the iron in his coat seams, and under that of her own musk, sharp and salt, rising off the quilt where Kozue had lain wet and waiting. Then Isao pushed into her. His palms were cold on her waist and his cock was hot, the thick heat sliding in until his hips met hers, and the wet sound of it was very loud in the cold room."
+      },
+      {
+       "key": "C",
+       "label": "The POV's own order",
+       "consequence": "The POV's body and trade decide: a beastkin nose first, a Moto eye first, a sealer's hands first. Rule 9's scents still appear in every scene.",
+       "sample": "The lamp came to Kozue's eyes first. It gilded the sweat along Isao's collarbone and left his face in shadow, and when he lowered himself her eyes went down the length of him to his cock going into her, dark against the pale of her thigh, until his hips met hers and the shadow took them both. Then the heat of him reached her, and the cold of his palms on her waist, and her own musk, salt and sharp, rising off the quilt."
+      }
+     ],
+     "recommended": "C",
+     "rec_reason": "It is the R70-55 order you chose for first sight, applied to desire, so a fox-kin lover and a Kharven rider never read the same bed the same way.",
+     "multi": false,
+     "depends_on": [],
+     "rules_touched": [
+      "R51-31-SENSE_BANK",
+      "R70-55-ORDER_FIRST_INVENTORY",
+      "R71-63-BEASTKIN_SENSES_FOX_FIRE"
+     ]
+    },
+    {
+     "id": "SC5",
+     "title": "Talk in bed",
+     "question": "How much talk does an explicit scene carry, and what kind?",
+     "context": "R52-02 builds a voice from what a person notices, wants and refuses, and a scene fails if two people's lines could be swapped; for fights you made talk 'a weapon' (R71-22). Shunga (Edo-period erotic prints) carry the lovers' banter in the margins; Story of O (1954, French erotica of submission) is nearly silent.",
+     "options": [
+      {
+       "key": "A",
+       "label": "Few lines, each loaded",
+       "consequence": "A handful of lines a scene, each a want, a refusal, a bargain or a lie; silence carries the rest.",
+       "sample": "Jessamy rode him with her hands braced on the iron bedstead and her hair coming down. Piers reached for her breast, and she caught his wrist and put it back on the sheet.\n\n\"Earn it,\" she said.\n\nHe did not try again. She ground down on his cock in long slow rolls until his breath went ragged and his heels dug at the mattress, and then she took his hand herself and set it where she wanted it."
+      },
+      {
+       "key": "B",
+       "label": "Full voice, talk as play",
+       "consequence": "Each partner talks in bed the way their card talks out of it, crude, teasing, bargaining or tender, and the talk is part of the act.",
+       "sample": "Jessamy rode him with her hands braced on the iron bedstead and her hair coming down. Piers reached for her breast, and she caught his wrist.\n\n\"That's Board property, that is. Sealed and entered.\"\n\n\"I'll pay the fee.\"\n\n\"You'll pay the arrears first.\" She ground down on his cock until he groaned. \"Hear that? That's interest.\" She let go. \"Go on, then. Touch it like you're signing for it.\""
+      },
+      {
+       "key": "C",
+       "label": "Talk only after",
+       "consequence": "Bodies speak during the act; words come only in the aftermath, and the reader learns what was felt from what is done.",
+       "sample": "Jessamy rode him with her hands braced on the iron bedstead and her hair coming down. Piers reached for her breast, and she caught his wrist and put it back on the sheet. Neither spoke. She ground down on his cock in long slow rolls until his breath went ragged, and set his hand where she wanted it herself. He left it there.\n\nAfterward, with the draw-hum loud in the dark, he said, \"You never let a man reach.\"\n\n\"No,\" she said, and turned on her side."
+      }
+     ],
+     "recommended": "B",
+     "rec_reason": "Your voice test fails any scene where lines could be swapped, and a silent bed swaps easily; 'crude where crude fits' is the table's own voice line.",
+     "multi": false,
+     "depends_on": [],
+     "rules_touched": [
+      "R52-02-VOICE_LEVER",
+      "R71-22-TALK_INSIDE_FIGHT",
+      "R48-12-PROFANITY"
+     ]
+    },
+    {
+     "id": "SC6",
+     "title": "Power games, framed",
+     "question": "When lovers play at power (binding, command, pain by agreement), how is the game framed in the world?",
+     "context": "Modern kink frames it with a safeword (an agreed stop-word) and aftercare (care after a hard scene), words legal in speech and italic thought (R48-13, R70-37). Kushiel's Dart (Jacqueline Carey's 2001 courtesan fantasy) gives its courtesans a signale, a stop-word with legal force. WOTR's cultures already run on sealed terms and oaths before witnesses.",
+     "options": [
+      {
+       "key": "A",
+       "label": "Between the two only",
+       "consequence": "Terms are agreed privately, a word or a token, shown once in the scene; no culture has an institution for it.",
+       "sample": "Lettice looped the curtain cord twice round his wrists and knotted it to the bedstead, and sat back on her heels to look at him.\n\n\"Say it,\" she said.\n\n\"Brass,\" said Edwin. They had chosen it because nobody says brass in bed by accident.\n\n\"And if you say it?\"\n\n\"You stop.\"\n\nShe nodded, and took the strop off the washstand."
+      },
+      {
+       "key": "B",
+       "label": "By each culture's form",
+       "consequence": "The Accord seals terms on paper, the Moto enter a word in form, Kharven takes a word before witnesses; the stop-word carries that culture's weight, and breaking it is answered under that culture's own law (R53-11).",
+       "sample": "Lettice set the paper on the washstand beside the strop: three clauses in a clerk's fair hand, the stop-word written out in full, both their marks under it and a blot of green wax. Edwin had read it twice. Under the Accord a sealed term held, and a woman who strapped a man past his word could be taken before the assize. She looped the curtain cord round his wrists and knotted it to the bedstead.\n\n\"Brass,\" he said, to hear it.\n\n\"Entered,\" said Lettice."
+      },
+      {
+       "key": "C",
+       "label": "Unframed, played straight",
+       "consequence": "The game runs with no negotiation on the page; the terms are implied by who the people are, and Rule 9's refusal line is the only brake.",
+       "sample": "Lettice looped the curtain cord twice round his wrists and knotted it to the bedstead without a word, and Edwin let her. He was her landlord, and owned the bed she tied him to. She took the strop off the washstand and laid it across his thighs, cold leather on bare skin, and watched his cock stir against his belly at the weight of it, and smiled for the first time that evening."
+      }
+     ],
+     "recommended": "B",
+     "rec_reason": "It makes the game part of the world, paper and wax in the Accord and the given word in the north, and puts a real bill on breaking it.",
+     "multi": false,
+     "depends_on": [],
+     "rules_touched": [
+      "R48-13-PERIOD_FEEL",
+      "R70-37-MODERN_IDIOM_THOUGHT",
+      "R70-45-NEW_STANDING_INVENTORY_FIELDS"
+     ]
+    },
+    {
+     "id": "SC7",
+     "title": "Consent on the page",
+     "question": "How does consent show in an explicit scene: in words, in the body, or both?",
+     "context": "Rule 9 gives the partner a refusal line and the right to change their mind, and the Winter Eladrin show it in three channels: 'approach is agreement', a half-step back objects, turning in place refuses (R24-2). R51-04 bars 'boundaries' from narration, so the narrator never talks like a manual. The archive's best tell is a body that refuses before the voice.",
+     "options": [
+      {
+       "key": "A",
+       "label": "Asked and answered",
+       "consequence": "Consent is spoken, in the speaker's own register, at the start and at each new act; the narration never glosses it.",
+       "sample": "Rokuro turned her by the hip, and stopped with his hand there.\n\n\"Like this?\" he said. \"Or is that a thing you do not do?\"\n\n\"I do it,\" Chiyo said. \"Slowly. If I say the house's word, you stop.\"\n\n\"Which word?\"\n\n\"Incorrect.\"\n\nHe laughed once into her shoulder, and she let him lay her face down on the quilt."
+      },
+      {
+       "key": "B",
+       "label": "In the body",
+       "consequence": "Consent shows in approach, stillness, a hand moved away, a hip that follows; speech is optional, and a refusal in the body stops the act like a spoken one.",
+       "sample": "Rokuro turned her by the hip, and stopped with his hand there. Chiyo lay still for a breath. Then she drew her knees under her and lowered her shoulders to the quilt, and her hair slid forward over her face. He laid his palm flat between her shoulder blades. She pushed back against his thigh, once, to say yes, and he fitted himself to her slowly."
+      },
+      {
+       "key": "C",
+       "label": "Both, read together",
+       "consequence": "Words and body both carry it. A refusal in either channel is a refusal; where the two disagree the scene has become dubcon (dubious consent) and is written as dubcon (SC9).",
+       "sample": "Rokuro turned her by the hip, and stopped with his hand there.\n\n\"Yes,\" Chiyo said.\n\nShe did not move. Her hand had closed on the quilt's edge, and the knuckles stood white. Rokuro took his hand from her hip and lay down facing her instead, and waited until she reached for him. When she did, she drew him on top of her the old way, and held his eyes the whole time."
+      }
+     ],
+     "recommended": "C",
+     "rec_reason": "It uses the archive's best device, the body that answers before the mouth, and gives dubcon a clean trigger in the scene instead of a narrator's verdict.",
+     "multi": false,
+     "depends_on": [],
+     "rules_touched": [
+      "R24-2-ELADRIN_THREE_CHANNELS",
+      "R51-04-LIST_PSYCH"
+     ]
+    },
+    {
+     "id": "SC15",
+     "title": "Reading a lover",
+     "question": "When a lover can read the other by faculty, nose or eye, may that read run in bed without leave?",
+     "context": "The archive's commonest intimate device is a lover read as an instrument: a nose, fate threads, a pulse counted down. A faculty read prints exact figures when the reader's Gnosis Perception outranks the target's Resilience Ward by Grade (R71-44); a scenting POV reads by smell (R71-63); clansmen believe the Moto read through the eyes (R53-15). Nothing says whether reading a lover unasked is intimacy or trespass.",
+     "options": [
+      {
+       "key": "A",
+       "label": "Lovers read freely",
+       "consequence": "Any sense or faculty runs in bed as it runs anywhere; the read is part of how desire and refusal show (SC7), and being read is part of being a lover.",
+       "sample": "Wenna had Ansel on his back with his cock deep in her, and rode him slow while the draw-hum ran under the floorboards. Her faculty opened as easily as her thighs had, and his figures came up behind her eyes in the Guild's own columns: reserve low from the day's work, his Ward lying open. She had not asked. Lovers didn't. She bent and set her teeth to the side of his throat, and he came with a sound like a man struck."
+      },
+      {
+       "key": "B",
+       "label": "Every read by leave",
+       "consequence": "Any read past the ordinary senses waits on leave, in words or body; one taken unasked is trespass, felt by the one read as its tell, stopped by a Ward, and entered on the Ledger once found (K5).",
+       "sample": "Wenna had Ansel on his back with his cock deep in her, and rode him slow while the draw-hum ran under the floorboards. She touched two fingers to his temple. \"May I?\" He thought about it with his hips still moving under her. \"Go on.\" Her faculty opened, and his figures came up behind her eyes in the Guild's own columns: reserve low from the day's work, his Ward lying open because he had laid it open. She said nothing of what she saw."
+      },
+      {
+       "key": "C",
+       "label": "Senses free, workings by leave",
+       "consequence": "What cannot shut, a beastkin nose or ears, reads freely; a worked read, by Gnosis or a Moto's eyes, needs leave, and one taken unasked is B's trespass, with B's tell, counter and debt.",
+       "sample": "Wenna's nose had told her Ansel wanted her before the door was shut, and nobody asks leave of a nose. The faculty was another matter. With his cock deep in her and her hips slowing, she touched two fingers to his temple. \"May I?\" \"No,\" said Ansel. She took her fingers away, and her ears came forward. She smelled the fear go out of his sweat and the want come back into it, and rode him harder for the answer."
+      }
+     ],
+     "recommended": "C",
+     "rec_reason": "A nose cannot be asked to stop, so B would make every beastkin lover a trespasser by breathing; a worked read is a choice, so it can carry the tell, the counter and the bill that every ability owes.",
+     "multi": false,
+     "depends_on": [
+      "SC7"
+     ],
+     "rules_touched": [
+      "R71-44-FACULTY_READ_MAN",
+      "R71-63-BEASTKIN_SENSES_FOX_FIRE",
+      "R53-15-FOLK_BELIEFS",
+      "R12-3-COUNTER_MANDATORY",
+      "R70-85-SCENE_MOMENTS_THAT_EARN"
+     ]
+    },
+    {
+     "id": "SC8",
+     "title": "Workings on desire",
+     "question": "May a working, a charm or a Draft create desire or bend consent on the page?",
+     "context": "Canon already lets magic cut across consent: a Sacrament anchor holds 'regardless of whether the anchor consents' (R29-1), and Obsession Force (Fracture of Worlds' law of possessive fixation) steered a queen toward marriage in the Kujo arc. Ability law keeps a counter mandatory (R12-3). Pressure in bed is CO13, and an art worked through the act itself is SC16.",
+     "options": [
+      {
+       "key": "A",
+       "label": "Compliance, never desire",
+       "consequence": "A working or a Draft can bend a body to stillness or compliance, but desire stays the person's own; any scene under one is dubcon or non-con by definition."
+      },
+      {
+       "key": "B",
+       "label": "Desire, with tell and counter",
+       "consequence": "An Obsession or Attraction working, a charm or a Draft may make someone want; it shows a tell, has a findable counter, costs its user, and the aftermath knows it was made."
+      },
+      {
+       "key": "C",
+       "label": "Barred from the bed",
+       "consequence": "No working or Draft touches desire or consent in an intimate scene; magic stays out of the bed entirely."
+      }
+     ],
+     "recommended": "B",
+     "rec_reason": "Canon has already done it (the Kujo arc, R29-1), and B holds it to the fairness every ability meets: a tell, a counter, a cost and a reckoning after.",
+     "multi": false,
+     "depends_on": [],
+     "rules_touched": [
+      "R29-1-SACRAMENT_BOND_ANCHOR_BY_DECLARATION",
+      "R25-1-OBSESSION_SATISFIES_ATTRACTION_GATE",
+      "R12-3-COUNTER_MANDATORY",
+      "R47-3-COUNTERS_AS_FACTS"
+     ]
+    },
+    {
+     "id": "SC16",
+     "title": "Bedchamber arts",
+     "question": "May the act itself carry a working, Essence given, pooled or drawn between the partners?",
+     "context": "China's fangzhongshu (the arts of the bedchamber) treat sex as cultivation: conserve jing (vital essence) and draw on the partner's; xianxia (immortal-cultivation fiction) turns it into dual cultivation, a power-up. Fracture of Worlds gives bonds mechanical weight (the Axis Sub-Stat, the Spirit Axis) but no working through the act, and Yorime's Claim (drawing Essence out of a target) works by touch. SC8 asks only about desire.",
+     "options": [
+      {
+       "key": "A",
+       "label": "Never through the act",
+       "consequence": "Sex moves no Essence. Bonds grow only by CO15's routes, the Crystal takes no notice of a bed, and a Claim by touch stays a Claim, never a lovers' art."
+      },
+      {
+       "key": "B",
+       "label": "Given, never drawn",
+       "consequence": "A bedchamber art may give or pool what both partners offer, built under ability law with a cost in both bodies, a tell and a counter; no art draws from a partner in bed."
+      },
+      {
+       "key": "C",
+       "label": "Given or drawn, fully priced",
+       "consequence": "A bedchamber art is a technique: a Codex line, a cost in both bodies, a tell, a counter, no figure until canon holds one. One drawing unasked is a Claim, and the scene dubcon or non-con (SC8)."
+      }
+     ],
+     "recommended": "C",
+     "rec_reason": "Your xianxia and progression models live on such arts, and C holds them to the fairness every ability meets, a cost, a tell, a counter and no invented figure, while a drawing art becomes a dark engine a player can find and stop.",
+     "multi": false,
+     "depends_on": [
+      "SC8"
+     ],
+     "rules_touched": [
+      "R12-3-COUNTER_MANDATORY",
+      "R47-1-NO_APPLICATIONS",
+      "R47-3-COUNTERS_AS_FACTS",
+      "R12-3-NAMED_INVENTOR_RULE",
+      "R48-37-COST_SHOWN",
+      "R12-5-NEVER_INVENT_NUMBER"
+     ]
+    },
+    {
+     "id": "SC9",
+     "title": "The body under coercion",
+     "question": "In a dubcon or non-con scene, may the victim's body respond with arousal on the page, and how is it framed?",
+     "context": "Rule 9 writes dubcon (dubious consent) and non-con (none at all) 'with the same specificity'. Arousal non-concordance (genital response and felt desire running apart; Chivers, Nagoski) and tonic immobility (freezing under threat) are real; the 1970s bodice-ripper romance used that response as proof of wanting. The narrator never adjudicates (R5-E).",
+     "options": [
+      {
+       "key": "A",
+       "label": "Fear only",
+       "consequence": "Under coercion the body shows fear and shutdown only (freezing, nausea, a held object); no arousal is written.",
+       "sample": "Thordis split rounds until the light went, because the stack was low and the axe asked nothing of her. Twice she stood with the blade raised and could not bring it down. The night came back in pieces: his weight, her arms gone to lead, the blubber lamp guttering on the shelf and her eyes fixed on it, counting its spits, while the rest of her went far away and cold."
+      },
+      {
+       "key": "B",
+       "label": "Shown, known as reflex",
+       "consequence": "Arousal may be written, and the POV knows it for the body's reflex, apart from her will; she carries that knowledge into the aftermath.",
+       "sample": "Thordis split rounds until the light went, because the stack was low and the axe asked nothing of her. Twice she stood with the blade raised and could not bring it down. The night came back in pieces: his weight, her arms gone to lead, and her own cunt gone slick under him as if it belonged to some other woman. She knew what that was. A struck knee kicks. Wet wood, her mother would have said of a liar, and her body had lied."
+      },
+      {
+       "key": "C",
+       "label": "Shown, left unread",
+       "consequence": "Arousal may be written and nobody names what it means; the reader decides, and the ambiguity is the scene's weight.",
+       "sample": "Thordis split rounds until the light went, because the stack was low and the axe asked nothing of her. Twice she stood with the blade raised and could not bring it down. The night came back in pieces: his weight, her arms gone to lead, and her own cunt gone slick under him. She split another round. At the door her neighbour asked how her stack was, and she said full, and went in to sit by the night-stone with her back to the wall."
+      }
+     ],
+     "recommended": "B",
+     "rec_reason": "It writes the truth of the body at Rule 9's specificity while keeping the bodice-ripper's lie out, and the knowledge is the aftermath's sharpest edge.",
+     "multi": false,
+     "depends_on": [],
+     "rules_touched": [
+      "R5-E-FREE_INDIRECT_CARVEOUT",
+      "R71-17-FEAR_BODY"
+     ]
+    },
+    {
+     "id": "SC10",
+     "title": "Carrying it forward",
+     "question": "After a non-con or coerced scene, how does it carry into later scenes?",
+     "context": "Rule 9 never skips the aftermath, and R70-115 lets restraint break 'at a small, unexpected thing'. Judith Herman's Trauma and Recovery (1992) maps recovery as safety, remembrance, then reconnection. Much dark fiction drops the matter after a chapter; grimdark sends a bill to the world: feud, pregnancy, scandal, blood-debt.",
+     "options": [
+      {
+       "key": "A",
+       "label": "In the body and habit",
+       "consequence": "The survivor's later scenes carry it physically (the startle, sleep that will not come, the seat with its back to the wall) until the thread resolves it."
+      },
+      {
+       "key": "B",
+       "label": "The bill reaches the world",
+       "consequence": "The act opens or advances a Front: feud, blood-debt, pregnancy, scandal or a case at law; the perpetrator's own account is a lie in his mouth (Rule 8)."
+      },
+      {
+       "key": "C",
+       "label": "Recovery logged in stages",
+       "consequence": "The Ledger tracks where the survivor stands (safe, remembering, reconnecting) so each scene knows what she can bear; the stages are never named on the page."
+      }
+     ],
+     "recommended": "A,B",
+     "rec_reason": "Both are WOTR's own method, cost in the body and a bill in the world; C's stages are a therapist's map and would make the Ledger read like a case file.",
+     "multi": true,
+     "depends_on": [],
+     "rules_touched": [
+      "R70-115-TEARS_SENTIMENT",
+      "R48-42-LIES"
+     ]
+    },
+    {
+     "id": "SC11",
+     "title": "The aftermath beat",
+     "question": "What shape does the aftermath of an explicit scene take on the page?",
+     "context": "Rule 9: 'aftermath never skipped'. For fights you chose 'procedure as craft' (R71-21); R2-5 rules that after a Single Act (a battle's one unrepeatable deed) nobody says what it meant. R70-133's poem after may close any option here. The archive's best aftermaths are care for small things: a coat mended, a pulse counted again.",
+     "options": [
+      {
+       "key": "A",
+       "label": "Procedure, meaning unsaid",
+       "consequence": "The aftermath is the small work after (washing, the fire fed, clothes found, the door), and neither partner says what it meant; the change shows in how they do it.",
+       "sample": "Afterward Hrefna got up first. She wiped herself with a rag from the shelf, pulled her shirt down and fed the blubber lamp from the jar, and when it caught she held her hands to it. Bjarki lay on the hides and watched her. She found his belt where she had thrown it, coiled it, and set it by his boots. Then she went out into the cold and brought in an armful from the woodpile, and stacked it at the hearth, three more rounds than the night needed."
+      },
+      {
+       "key": "B",
+       "label": "Pillow talk, truths traded",
+       "consequence": "The aftermath is the one time guarded people talk: secrets, plans, a confession, and what is said goes on the Ledger (K5).",
+       "sample": "Afterward they lay in the hides with the lamp low and her head on his arm, and Bjarki told her about the winter he had eaten his own horse on the Ridgewall, which he had told nobody. Hrefna listened. When he was done she told him where her husband's silver lay buried, under the night-stone, and that the headman's son had asked her twice. Bjarki said nothing to that. He drew the hide over her shoulder and kept his hand there."
+      },
+      {
+       "key": "C",
+       "label": "By the pair",
+       "consequence": "Each pair's card names its shape, procedure or talk, and the aftermath keeps to it; a change of shape is itself a beat.",
+       "sample": "They always talked after, these two; it was the part Hrefna liked best. Tonight Bjarki got up as soon as he had come, wiped himself on his shirt-tail and went out to the woodpile in his bare feet. The axe started up outside. She lay in the hides and counted the strokes, and when he came back with an armful and stacked it at the hearth without looking at her, she knew he had said yes to the headman's road."
+      }
+     ],
+     "recommended": "A",
+     "rec_reason": "It is your fight aftermath and the archive's own strongest note, love as maintenance, and R2-5's silence makes every later scene carry the change.",
+     "multi": false,
+     "depends_on": [],
+     "rules_touched": [
+      "R71-21-AFTERMATH_PAGE",
+      "R2-5-RESOLUTION_IN_AFTERMATH",
+      "R48-38-AFTERMATH"
+     ]
+    },
+    {
+     "id": "SC12",
+     "title": "Your character in the bed",
+     "question": "In a roleplay turn, what may Natalie write of your character's body during an explicit scene?",
+     "context": "Natalie never thinks, speaks or acts for your PC (player character; R49-01, R52-10). For fights you ruled 'wounds as world facts', with 'how he bears it' yours (R71-6). Yoko Mishiro, his canon wife, is an NPC Natalie voices, so the bed needs the same line drawn before it is needed.",
+     "options": [
+      {
+       "key": "A",
+       "label": "His post, her answer",
+       "consequence": "Natalie writes only the partner and the room; every act of his body, and every response in it, comes from your post, and the turn stops wherever his body would next move."
+      },
+      {
+       "key": "B",
+       "label": "Contact as world fact",
+       "consequence": "Once your post sets the act, contact, position and what the partner does to him are world facts; his arousal, pleasure, pain and climax, and how he bears them, stay yours."
+      },
+      {
+       "key": "C",
+       "label": "B, plus the outward signs",
+       "consequence": "As B, and what the partner can see or feel of him (hardness, breath, sweat, a flinch) is written as the partner registers it, R71-6's outward model; what he feels and when he comes stay yours."
+      }
+     ],
+     "recommended": "B",
+     "rec_reason": "In a fight a wound is the world's doing; in bed his body's answer is his character, so contact runs as world fact while the response, seen or felt, waits on your post.",
+     "multi": false,
+     "depends_on": [],
+     "rules_touched": [
+      "R49-01-WHOSE_HEAD",
+      "R52-10-CROSSOVER",
+      "R71-6-PLAYER_FIGHTER_PAGE"
+     ]
+    },
+    {
+     "id": "SC13",
+     "title": "The explicit roleplay turn",
+     "question": "How does a full roleplay turn run when the scene in it is explicit?",
+     "context": "Every reply is a full turn of about 3,500 words (R49-30), and every turn stops at your next decision (Table Rule 1); in bed the decisions come fast. For fights you allowed standing orders, conditions Natalie runs 'until the first branch they do not cover' (R71-5).",
+     "options": [
+      {
+       "key": "A",
+       "label": "Partner and world fill it",
+       "consequence": "The turn runs on the partner's side and the world beyond the door (the house, the watch, the weather) up to his next decision, half texture and talk, half the world moving (R49-29)."
+      },
+      {
+       "key": "B",
+       "label": "Standing orders in bed",
+       "consequence": "You may post the course of the encounter, a pace, a limit or a stop for your character, and Natalie runs it to the first branch it does not cover, then stops there."
+      },
+      {
+       "key": "C",
+       "label": "Short turns in bed",
+       "consequence": "This reopens R49-30: an explicit turn may run short and stop at each decision, so the exchange moves at the speed of the act."
+      }
+     ],
+     "recommended": "B",
+     "rec_reason": "It keeps your full-length turn and your character in your hands at once, the same answer you gave for fights; A's world beyond the door still fills what the orders leave.",
+     "multi": false,
+     "depends_on": [
+      "SC12"
+     ],
+     "rules_touched": [
+      "R49-30-SHORT_BEATS",
+      "R49-29-TURN_FILL",
+      "R71-5-ROLEPLAY_TURNS_AGAINST_WRITTEN"
+     ]
+    },
+    {
+     "id": "SC14",
+     "title": "An NPC who would force him",
+     "question": "If an NPC would coerce or force your character, how far does the turn go?",
+     "context": "NPCs pursue their wants (Table Rule 3), and some will want to take what is not offered. In a fight an NPC's blow lands as world fact once your move resolves (R71-6). Coercion of a player's own character is where tables most need a clear line, and it covers guest players at the Discord table too.",
+     "options": [
+      {
+       "key": "A",
+       "label": "Lands like a blow",
+       "consequence": "The NPC's act is written as a world fact, as a wound would be; how he bears it is yours."
+      },
+      {
+       "key": "B",
+       "label": "Threat placed, his post decides",
+       "consequence": "Natalie sets the threat in the room (the grip, the bargain, the Draft in the cup) and stops; the act reaches the page only through your post."
+      },
+      {
+       "key": "C",
+       "label": "Never against a PC",
+       "consequence": "NPCs may want it and say so; no NPC forces or coerces a player's character on the page."
+      }
+     ],
+     "recommended": "B",
+     "rec_reason": "It keeps Rule 3's dangerous NPC and Rule 1's stop at your decision together, and gives a guest player at the Discord table the same say you have.",
+     "multi": false,
+     "depends_on": [
+      "SC12"
+     ],
+     "rules_touched": [
+      "R71-6-PLAYER_FIGHTER_PAGE",
+      "R49-01-WHOSE_HEAD"
+     ]
+    }
+   ]
+  },
+  {
+   "key": "CO",
+   "title": "Courtship and bonds",
+   "intro": "How people court, marry, keep, lose and grieve each other, culture by culture, what the pleasure trade looks like, and what love costs across a Stage gap. The explicit register is settled law (R49-51, R70-133, R70-134); the Ledger, workings on desire and the coerced body are K5, SC8 and SC9.",
+   "questions": [
+    {
+     "id": "CO1",
+     "title": "Where courtship custom lives",
+     "question": "Where does each culture's courtship and marriage custom live?",
+     "context": "R70-45 owes every Inventory fields for 'law and punishment' and 'succession' (R60-21), but none holds courtship, marriage or widowhood, and no Inventory has a wedding, a bride-price or a word for a lover. R70-134 says the lover's culture 'shows in what they do and say', which needs custom on file to show.",
+     "options": [
+      {
+       "key": "A",
+       "label": "One courtship field",
+       "consequence": "Every Inventory gains a Courtship and Marriage field: the approach, the go-between, the gift or price, the vow, who may refuse, how a match ends, and widowhood. Entered on your word, culture by culture."
+      },
+      {
+       "key": "B",
+       "label": "Courtship field, plus mores",
+       "consequence": "A, plus a Mores field: what the culture holds shameful and what it boasts of, nakedness and bathing, the pleasure trade (CO18), and what its law does to adultery and to rape, written beside R70-45's law field."
+      },
+      {
+       "key": "C",
+       "label": "Inside the owed fields",
+       "consequence": "No new field. Marriage law goes in R70-45's law and succession fields and a wedding in its festival field, written as performed; courtship rides on those and on each scene's notes."
+      }
+     ],
+     "recommended": "B",
+     "rec_reason": "R70-134 keys a lover's conduct to culture, and conduct needs a shame line as much as a vow; a field of its own is what Natalie loads before a scene, where C scatters custom across three.",
+     "multi": false,
+     "depends_on": [],
+     "rules_touched": [
+      "R70-45-NEW_STANDING_INVENTORY_FIELDS",
+      "R60-21-SUCCESSION_BY_CULTURE",
+      "R70-134-KEYED_CULTURE_FREE"
+     ]
+    },
+    {
+     "id": "CO2",
+     "title": "Kharven courtship",
+     "question": "Which customs make a Kharven match?",
+     "context": "The Fusi Vā (the Queen's binding under clan oaths) is gone, so a northern word is 'only as strong as the man who says it'. Canon gives labour-debt, meat-sharing, the skin (fermented milk in sealskin; refusing it insults the host) and the nameless day, when 'nothing binds'. Steppe peoples on Earth used bride-price and, some, bride-capture. No Kharven courtship is on file.",
+     "options": [
+      {
+       "key": "A",
+       "label": "The stack proves him",
+       "consequence": "A suitor splits for her household's woodpile unasked, labour-debt run in reverse; the asking comes when the stack is full and her kin say so. Entered in the Kharven field.",
+       "sample": "Halvar had split for Gunnhild's house since the first snow, and nobody had asked him to. Every third day her stack stood higher, and every third day the old woman said nothing about it. In the Thin Weeks he came in, stamped the frost off his boots and stood by the fire. \"How's your stack?\" he said. \"Full,\" said Gunnhild. \"Somebody's been at it.\" Her daughter Sigrun, three winters a widow, ladled the broth and put her own bowl in his hands. The word he gave her that night was only as strong as he was."
+      },
+      {
+       "key": "B",
+       "label": "The skin answers",
+       "consequence": "Her household answers at the hearth: she drinks from the sealskin and passes it across the fire, and he drinks after her before everyone. A withheld skin is the no, said without a word.",
+       "sample": "Halvar came in the Thin Weeks with frost in his beard and stood just inside the door, which was as far as a man got before he was offered anything. Gunnhild looked at him a long while. Then she took the sealskin from its peg and unstoppered it, and the hut filled with the sour smell of the skin. She handed it to her widowed daughter. Sigrun drank, wiped the mouth with her thumb and held it out across the fire, and Halvar drank after her with the whole hearth watching."
+      },
+      {
+       "key": "C",
+       "label": "Ridden off, priced after",
+       "consequence": "On the nameless day a man may ride off with a woman, and her kin name a price on the first named morning. Whether she went willing is hers to tell; the custom never asks.",
+       "sample": "On the nameless day Halvar rode to Gunnhild's door with a led horse, and her widowed daughter Sigrun came out in her hide-coat and got up on it. Nothing bound on that day, so nothing was broken. On the first named morning Gunnhild walked to his father's fire and named the price: two skins of seal fat, a salt bar, and a winter of splitting. His father paid it in front of the headman. Whether Sigrun had gone willing was hers to tell, and over the years she told it two ways."
+      }
+     ],
+     "recommended": "A,B,C",
+     "rec_reason": "A and B are one custom in two halves, the proof and then the answer, and C is the old road around a withheld skin, built on canon's nameless day; together they make northern courtship cost work, with a dark road beside it.",
+     "multi": true,
+     "depends_on": [
+      "CO1"
+     ],
+     "rules_touched": [
+      "R70-134-KEYED_CULTURE_FREE",
+      "R53-15-FOLK_BELIEFS",
+      "R70-48-MONEY_PRICE_PROVENANCE",
+      "R53-11-JUSTICE"
+     ]
+    },
+    {
+     "id": "CO3",
+     "title": "Moto courtship",
+     "question": "Which customs make a Moto match?",
+     "context": "Moto canon: a thing that matters is 'asked in form, in the old register' and 'entered' in the family's own hand, and Muken signed the approval for a match. Clansmen keep their eyes off a Moto's because the Moto read through the eyes (a folk belief, R53-15). R70-110 already gives the court verse at rites, and R70-133 the poem after the night.",
+     "options": [
+      {
+       "key": "A",
+       "label": "Asked in form, entered",
+       "consequence": "A match is asked in form at the hinge of the day and is real only when the register holds it in the house's own hand; an unentered lover is nobody to the house.",
+       "sample": "Masatoki asked for her in form, at the hinge of the day, in the old register, with the steward standing witness and the bread not yet broken. Sayo-sama did not look at him. She watched the register on its stand while the steward wet the brush, and the room listened to it move: her name, his, the line, the day, in the family's own hand. Until the ink took, he had asked for nothing. When it had taken, she went to the table and broke the bread for two."
+      },
+      {
+       "key": "B",
+       "label": "Letters, graded by speed",
+       "consequence": "Courtship runs by three-line letters with a token through the knot, and the speed of an answer is read as regard, as at the Heian court (Japan's classical court era).",
+       "sample": "His letter came before the court was swept, folded small, with a sprig of larch through the knot and three lines in a soldier's square hand. Sayo read it once and laid it face down on the lacquer, and all morning it lay there. A quick answer would tell the household too much. A slow one would tell him. At the hinge of the day she took the brush, wrote her three lines beneath his last, and sent it back by the same runner before the bread."
+      },
+      {
+       "key": "C",
+       "label": "The eyes offered",
+       "consequence": "A suitor outside the line courts by lifting his eyes to a Moto and leaving them there, offering himself to be read; whether she reads him, and how far, is her answer.",
+       "sample": "Every retainer at the Seat kept his eyes below the line's, and for a year Masatoki had kept his on Sayo-sama's collar. This morning, while the scale's beam settled over the ration, he lifted them and let them stay. The outer ring of her iris flared once. He held still under it and could not tell how far down she went. Neither of them spoke. When she looked away she said his name and nothing after it, and he understood that she had gone in only as far as that."
+      }
+     ],
+     "recommended": "A,C",
+     "rec_reason": "The register and the read through the eyes are the Moto's own canon objects; letters would double R70-133's poem after and the court verse R70-110 already gives the house.",
+     "multi": true,
+     "depends_on": [
+      "CO1"
+     ],
+     "rules_touched": [
+      "R53-15-FOLK_BELIEFS",
+      "R70-110-VERSE_EXCHANGED_TALK",
+      "R70-133-EASTERN_TECHNIQUES_BESIDE_CLINICAL",
+      "R70-118-HONORIFICS_NARRATION",
+      "R23-2-JAPONIC_STRATUM"
+     ]
+    },
+    {
+     "id": "CO4",
+     "title": "Accord courtship",
+     "question": "Which customs make an Accord match?",
+     "context": "The Accord is the Victorian-Edwardian city (R59-07), money and paper on every page (R70-48). Its canon has the almanac's marrying days, 'Ita spondeo' (thus I pledge) and 'Sine sigillo' (without seal) for a bastard. Victorian England married by settlement (a contract fixing the wife's property), courted by calls under a chaperone, and let a jilted party sue for breach of promise.",
+     "options": [
+      {
+       "key": "A",
+       "label": "Terms under seal",
+       "consequence": "A match is a settlement drawn by an advocate, pledged 'Ita spondeo' and entered in ink, with what stays in her name written in. Courtship is the negotiation, and love shows in the clauses.",
+       "sample": "Abel Tobin got his answer in Mrs Crane's front parlour, and it came on foolscap. Mr Pruett of Pruett and Vole had drawn the settlement overnight. Lettice's draw-licence stayed in her own name, and so did the lease on the upper room, and the clause said so twice. Tobin read it through with his hat on his knee while Lettice watched him read. At the foot stood Ita spondeo, a space for the attesting clerk's seal and a space beside it for his hand, and the ink on the stand was fresh."
+      },
+      {
+       "key": "B",
+       "label": "Calls, cards, a chaperone",
+       "consequence": "Courtship runs by the parlour: calls at set hours, a card left with its corner turned, a chaperone who never leaves the room. A yes is said with the card.",
+       "sample": "Abel Tobin made his eighth call, and Mrs Crane sat through it with her sewing, as she had sat through the other seven. The parlour clock ticked over the draw-hum from the street. Lettice poured. When he rose to go, the maid brought his card back on the salver with its corner turned down in Lettice's own hand, and under his name, in pencil, the hour of his next call. Mrs Crane bit off her thread. It was as far as a daughter could say yes in a parlour."
+      },
+      {
+       "key": "C",
+       "label": "Breach of promise sued",
+       "consequence": "A broken engagement is actionable at the Assize: the letters are read aloud in open court and the Bench prices the jilt. Every love letter in the Accord is also evidence.",
+       "sample": "Abel Tobin got his answer in Mrs Crane's front parlour, in writing, because Lettice had been told to give it no other way. Every letter he had sent her lay on the table in a ribboned bundle, numbered by her mother in red ink. If he cried off now, they would be read aloud at the Assize, every endearment of them, and the Bench would put a price on her. He knew it. She knew it. The ribbon sat between them with the weight of a seal."
+      }
+     ],
+     "recommended": "A,C",
+     "rec_reason": "Money and paper are the Accord's tilt; a settlement and a suit put a price on love, which the city's narration already counts, while the parlour ritual is period dress any culture could wear.",
+     "multi": true,
+     "depends_on": [
+      "CO1"
+     ],
+     "rules_touched": [
+      "R59-07-VICTORIAN_EDWARDIAN_CITY",
+      "R70-48-MONEY_PRICE_PROVENANCE",
+      "R53-11-JUSTICE"
+     ]
+    },
+    {
+     "id": "CO5",
+     "title": "Mahuo courtship",
+     "question": "Which customs make a Mahuo match?",
+     "context": "The Mahuo bank writes 'A verse was owed a verse', turns a sentence in its last clause as a sijo (a three-line Korean lyric) does, and writes a drop in speech level as an event (R70-107). Joseon houses matched by go-between and exchanged saju, the four pillars of birth hour, day, month and year. Nothing on file says how a Mahuo courts.",
+     "options": [
+      {
+       "key": "A",
+       "label": "Pillars by go-between",
+       "consequence": "A go-between carries the households' four pillars, and the elders read the match before the pair have a say. Love, if it comes, comes after, as jeong: attachment that grows with shared years.",
+       "sample": "Widow Pyeon brought the paper into the lower hall folded five times and wrapped in red and blue cloth, the old houses' way. In it were Do-gyeom's four pillars: the hour, day, month and year of his first breath. The house elder read them twice. Eun-ha knelt at the far end of the boards and kept her eyes off the cloth. Her grandmother laid his pillars beside Eun-ha's and counted on her fingers, and the house hummed under them, ung-ung, while she counted."
+      },
+      {
+       "key": "B",
+       "label": "A sijo owed a sijo",
+       "consequence": "Courtship is a verse exchange: the suitor's three lines are answered with three, and the last clause turns. A plain answer costs standing, as R70-110 rules at court.",
+       "sample": "The verse came up from Do-gyeom's household in his own brush: three lines, the river in the first, the ford in the second, and in the third a turn on a ferryman who would not cross without his fare. The whole lower hall had read it by noon. A verse was owed a verse. Eun-ha took the brush at the recorder's wall and answered in three lines of her own, and her last clause turned on the fare. A ferry, she wrote, is paid on the far bank."
+      },
+      {
+       "key": "C",
+       "label": "The speech level drops",
+       "consequence": "The proposal is a change of speech: one of them drops from the high forms to the plain speech kept for kin and spouses, and the other answering in kind is the yes.",
+       "sample": "For two years Do-gyeom had spoken to her in the high forms, as a carver's son speaks to a house with its own ward-posts, and she had answered him in kind. In the lower hall that evening she poured his tea and said, \"Drink it before it goes cold,\" in the plain speech a woman keeps for her brothers and her husband. The cousins at the table went quiet. Do-gyeom set down the cup. He answered her in the same plain speech, and the house took it as done."
+      }
+     ],
+     "recommended": "B,C",
+     "rec_reason": "Both are Mahuo law already, turned to love: the verse owed a verse and speech levels as events. A go-between is real but belongs to every Eastern house; the speech drop belongs to the Korean register alone.",
+     "multi": true,
+     "depends_on": [
+      "CO1"
+     ],
+     "rules_touched": [
+      "R70-107-SPEECH_LEVELS_ADDRESS_KOREAN",
+      "R70-110-VERSE_EXCHANGED_TALK",
+      "R70-118-HONORIFICS_NARRATION",
+      "R23-2-KOREAN_STRATUM"
+     ]
+    },
+    {
+     "id": "CO6",
+     "title": "Courtship in the lineage halls",
+     "question": "Which customs make a match in the lineage halls?",
+     "context": "In the halls the book is the house (R23-2), and verse answered plainly at court costs face (R70-110). Value, Coin and Trade makes marriage the way a lineage acquires certified capability. Chinese houses wed by go-between and the 'eight characters' (birth hour, day, month and year, two characters each), and entered a wife in the husband's genealogy by her family name.",
+     "options": [
+      {
+       "key": "A",
+       "label": "Entered in the book",
+       "consequence": "A marriage is real when the husband's hall enters her in its book as 'of' her father's hall; a secondary wife is entered lower, and an unentered woman has no standing in the hall.",
+       "sample": "Nothing was settled until the Fang book said so, and the Fang book lay in the tablet room under the eyes of the Fang dead. The hall elder opened it at his grandson's leaf. Beneath Zhiyuan's line, in a small even hand, he wrote the two characters that meant 'of the Lu', and the date, and blotted them. Qingyan's own name did not go in. She had known since childhood that it would not. She watched the blotter lift from the two characters that would be all of her on that page."
+      },
+      {
+       "key": "B",
+       "label": "A couplet matched",
+       "consequence": "Her hall sets the first line of a couplet on its gate, and the suitor must match it on the spot, in public, or forfeit the match. The halls' court verse turned to courtship.",
+       "sample": "The Lu set the first line of the couplet on the hall gate: The river owes the sea each drop it carries. Fang Zhiyuan read it from the street with his hands in his sleeves, while the Lu cousins watched from the steps to see the Fang shamed. A plain answer would cost him the match. He asked for a brush and wrote the second line beneath it where he stood: The sea returns each drop as rain, and keeps no book. Behind the screen, Lu Qingyan laughed once."
+      },
+      {
+       "key": "C",
+       "label": "Bought for the book",
+       "consequence": "A hall marries for a skill it lacks, and the bride-gifts come with a schedule of what her children will be taught. Love is a clause, and the halls say so.",
+       "sample": "The Fang wanted the Lu hand, and they meant it plainly: three generations of Measurewrights who read a gauge to its last division, and a daughter who had learned at her father's bench. The bride-gifts came into the courtyard on carrying poles, and with them came a schedule, in the Fang clerk's hand, of what her children would be taught and by whom. Qingyan read the schedule before she looked at the silk. The schedule was the letter. The silk was its envelope."
+      }
+     ],
+     "recommended": "A,C",
+     "rec_reason": "The book and the purchase of capability are both canon; a couplet at the gate is already legal at court under R70-110, so it needs no ruling to appear.",
+     "multi": true,
+     "depends_on": [
+      "CO1"
+     ],
+     "rules_touched": [
+      "R23-2-CHINESE_STRATUM_SUMMARY",
+      "R70-110-VERSE_EXCHANGED_TALK"
+     ]
+    },
+    {
+     "id": "CO7",
+     "title": "Dawi courtship",
+     "question": "Which customs make a Dawi match?",
+     "context": "The Dawi tongue has no future tense: a Dawi cannot say 'I will', so he swears ('Kurme') or calls a thing 'Kurlo', unbegun, and 'Kurlo. Ei kurme.' ends a bargain. Nothing in trade exists until entered in the Tally (their record of completed acts), a name's grade shows a broken oath, and the Cask-Oath (sworn over a barrel) binds while the brew lives and after.",
+     "options": [
+      {
+       "key": "A",
+       "label": "Entered, never promised",
+       "consequence": "A Dawi match is made backward: the acts already done for each other are entered in the Tally in metre, and the entry is the marriage. There is no betrothal.",
+       "sample": "Haldekk could not tell her what he would do, because no Dawi can. So he told the clerk what he had done. He had stood her shifts in the lower gallery through the fever winter, and he had carried her brother's casket home from the Ring unopened. The clerk entered each act in metre while Ruutti listened for the grade in his name. It held strong. When the last line closed on \"on\", she laid her hand flat on the Tally beside his. The entry held, and that was the marriage."
+      },
+      {
+       "key": "B",
+       "label": "A cask laid down",
+       "consequence": "The pair swear the Cask-Oath over a cask they lay down together, binding while the brew lives and after. A broken marriage is a broken cask oath, with its line on the Oath-Breakers' wall.",
+       "sample": "They laid the cask down together in the deep hall, each with a hand on the stave, and sang the Cask-Oath over it while the pitch was still tacky: Ollu elaa, kaasme elaa. Haldekk drove the bung. Ruutti cut both their names into the head in doubled strokes, the strong grade. Years on, at the Drawing-Off, the cask would go up the shaft with the rest, and the oath would stay down here with them. The brew dies, and the oath does not die."
+      },
+      {
+       "key": "C",
+       "label": "Kurlo, the refusal unsaid",
+       "consequence": "Courtship is 'Kurlo' said alone between two people, with the 'Ei kurme' that would end a bargain left off: a thing unbegun and not refused, the nearest the tongue comes to hope.",
+       "sample": "Every Dawi knew how a bargain ended: Kurlo. Ei kurme. Unbegun, not undertaken. In the cask-hall, low, with the brew working in the staves, Haldekk said the first word to Ruutti and stopped there. \"Kurlo.\" She waited for the second word, and he left it unsaid. She took his beard-ring between finger and thumb and turned it once. \"Kurlo,\" she said back, and left it off too. The clerk had nothing to enter. Two unbegun things stood in one dark hall, and neither had refused."
+      }
+     ],
+     "recommended": "A,C",
+     "rec_reason": "Both fall straight out of the no-future grammar, the Dawi's defining fact. B is strong, but it puts every failed marriage on the Oath-Breakers' wall; take it too if you want that cost.",
+     "multi": true,
+     "depends_on": [
+      "CO1"
+     ],
+     "rules_touched": [
+      "R70-45-NEW_STANDING_INVENTORY_FIELDS",
+      "R70-134-KEYED_CULTURE_FREE"
+     ]
+    },
+    {
+     "id": "CO8",
+     "title": "Consorts, concubines, widows",
+     "question": "Which marriage laws beyond one spouse for life go into the Inventories?",
+     "context": "No law on file covers concubines or consorts, though the Eressean court keeps a consort (Sandalphon). Bastardy already has words: the Accord's 'Sine sigillo', the Moto 'Written in the wrong hand', northern law's 'Ice' for a child born before a recognised union. Chinese and Japanese lineages entered secondary wives; Victorian law allowed one wife and tolerated the kept woman.",
+     "options": [
+      {
+       "key": "A",
+       "label": "Entered lower, in book",
+       "consequence": "The lineage halls and the Moto enter a secondary wife or consort below the wife in the book or register; her children's standing is written there, and an unentered child is 'written in the wrong hand'."
+      },
+      {
+       "key": "B",
+       "label": "Accord: off the books",
+       "consequence": "One spouse in Accord law. A kept woman or kept man lives on an allowance quoted from the price table, a scandal with a sum on it, and their children are sine sigillo."
+      },
+      {
+       "key": "C",
+       "label": "Kharven: the brother's widow",
+       "consequence": "A Kharven widow and her stack may pass to her dead man's brother, wife or no wife, if she takes the skin from him, so no hearth goes cold; refusing is her right, and her hunger."
+      },
+      {
+       "key": "D",
+       "label": "Dawi: one entry only",
+       "consequence": "The Tally holds one marriage entry. A second partner is an act nobody will stand behind, 'kurnur', unentered, and carries that swear in the hold."
+      }
+     ],
+     "recommended": "A,B,C,D",
+     "rec_reason": "Each falls out of a canon object (the book and register, the seal, the stack, the Tally), so each culture's law is its own and the owed law field fills with no invention beyond it.",
+     "multi": true,
+     "depends_on": [
+      "CO1"
+     ],
+     "rules_touched": [
+      "R70-45-NEW_STANDING_INVENTORY_FIELDS",
+      "R60-21-SUCCESSION_BY_CULTURE",
+      "R53-11-JUSTICE",
+      "R70-48-MONEY_PRICE_PROVENANCE"
+     ]
+    },
+    {
+     "id": "CO18",
+     "title": "The pleasure trade",
+     "question": "Does the Draw Age keep a trade in sex on the page, and in what form?",
+     "context": "Nothing in canon names a brothel, a courtesan or a bathhouse, and the price table has no row for one, though money comes before magic (R53-17). Victorian Britain inspected women under the Contagious Diseases Acts (1864 to 1869, repealed 1886) and held them in lock hospitals (locked venereal wards); Edo's Yoshiwara ranked its courtesans; Joseon's gisaeng were state-registered entertainers trained in verse.",
+     "options": [
+      {
+       "key": "A",
+       "label": "Each culture's own form",
+       "consequence": "The Accord licenses houses under seal and inspection, Eastern courts keep ranked quarters or verse-trained entertainers, the north keeps no house and trades in kind; entered in CO1's Mores field, fees as price-table rows on your word.",
+       "sample": "Mother Fettle's house on Tallow Row kept its licence framed by the door under green wax, with the inspector's last mark inked beside it, and a girl would show her own card if a man asked. Dunstan didn't ask. He paid the fee chalked over the hatch and went up. North of the arrays there was no house and no paper. The same bargain was a skin of seal fat at somebody's fire, with nobody's mark on it."
+      },
+      {
+       "key": "B",
+       "label": "One licence everywhere",
+       "consequence": "A single licence, seal and inspection runs wherever the licensing Guilds' conduit runs: proof-marked houses, one fee list, inspectors who take bribes; a cheaper unlicensed trade works beside it.",
+       "sample": "Mother Fettle's house on Tallow Row kept its licence framed by the door under green wax, the same seal that hung in every licensed house from the Accord's ports to the Seat. Dunstan paid the fee chalked over the hatch, the Guild's own figure, and went up. Out past the last conduit the women who would not pay for a seal worked the inn yards for less, and the inspectors drank there free."
+      },
+      {
+       "key": "C",
+       "label": "Texture, never a house",
+       "consequence": "The trade lives in talk, the Rumor Mill and a scene's edges; no house is entered, no fee priced, and no explicit scene is set in one.",
+       "sample": "Dunstan knew the house on Tallow Row the way everyone in the ward knew it: from the draymen's talk at the standpipe, from the chaplain's sermons, from the green lamp that burned there after the meters were read. He walked past it twice that winter with his hands in his pockets. What went on behind the lamp stayed a thing men said, and some of what they said was wrong."
+      }
+     ],
+     "recommended": "A",
+     "rec_reason": "It answers CO1's Mores field with each culture's own form, gives money before magic a trade it has ignored, and puts fees, debts, the pox and gossip where the Ledger can collect them; B flattens every culture into the Accord.",
+     "multi": false,
+     "depends_on": [
+      "CO1"
+     ],
+     "rules_touched": [
+      "R53-17-THE_BILL",
+      "R70-48-MONEY_PRICE_PROVENANCE",
+      "R53-07-PRICE_TABLE",
+      "R70-45-NEW_STANDING_INVENTORY_FIELDS",
+      "R53-11-JUSTICE",
+      "R53-10-MEDICINE"
+     ]
+    },
+    {
+     "id": "CO9",
+     "title": "Marriage as politics",
+     "question": "When a match is political, how does the table run it?",
+     "context": "Canon makes marriage 'the standard instrument by which a lineage acquires certified capability' (Value, Coin and Trade), Muken signed the approval for a match, and Obsession Force steered the Stannvaard Queen toward one in the Kujo arc. Fronts are the table's threat clocks (Table Rule 4); nothing says whether a betrothal is one.",
+     "options": [
+      {
+       "key": "A",
+       "label": "A Front with a clock",
+       "consequence": "A political match in play runs as a Front: betrothal, settlement, wedding and first heir are its ticks. A broken match fires the Front, and someone pays."
+      },
+      {
+       "key": "B",
+       "label": "A debt on the Ledger",
+       "consequence": "A match is a debt between houses on the Ledger (Table Rule 7), called in when it comes due: a dowry unpaid, an heir owed, a promise outstanding."
+      },
+      {
+       "key": "C",
+       "label": "News only",
+       "consequence": "Political marriages happen offscreen and reach the table through the Rumor Mill, some of it wrong; only a match your character touches comes onto the page."
+      }
+     ],
+     "recommended": "A",
+     "rec_reason": "A clock makes a match something the world moves on whether or not your character is looking, which Table Rule 4 asks of everything; the debt lives inside the Front anyway.",
+     "multi": false,
+     "depends_on": [],
+     "rules_touched": [
+      "R60-21-SUCCESSION_BY_CULTURE",
+      "R48-30-SURPRISES"
+     ]
+    },
+    {
+     "id": "CO10",
+     "title": "Jealousy and rivals",
+     "question": "What does jealousy do in WOTR?",
+     "context": "R70-39 carries feeling by one held image, and R70-104 makes a recurring rival's survival a Ledger debt. Obsession Force (FOW's law of possessive fixation) collapses Breadth (how many Wellsprings a soul can hold) and turns Empathy into 'a one-directional parasitic channel'. Jin Ping Mei, the Ming household novel, runs a whole plot on wives' rivalry, poison included. The archive has no jealous scene.",
+     "options": [
+      {
+       "key": "A",
+       "label": "Carried, never acted",
+       "consequence": "Jealousy stays in the body and the habits, carried by a held image; it is seldom acted on, and the cost falls on the one who carries it.",
+       "sample": "At the meat-sharing Kolbein cut the widow Asdis the rib piece, and Torunn watched him do it from across the fire. She said nothing. She finished her bowl. That night she split rounds at the woodpile until the moon was down and stacked them a hand's breadth tighter than she ever had, and in the morning she brought his broth to him the way she always did. The stack stayed tight all winter. Kolbein never asked her why."
+      },
+      {
+       "key": "B",
+       "label": "A feud with a bill",
+       "consequence": "Jealousy acts: slander, theft, a duel, poison. Each act lands on the Ledger as a debt or a witness, and a love rival who recurs is paid for as R70-104 rules.",
+       "sample": "At the meat-sharing Kolbein cut the widow Asdis the rib piece, and Torunn watched him do it from across the fire. By the Thin Weeks the whole outer town had heard that Asdis was wet wood. Before the thaw her stack went short twice in the night, and nobody could say who had carried it off. Asdis went to the headman. The headman named a labour-debt against Torunn's hearth, a day's splitting for every round, and Torunn paid it round by round and called it cheap."
+      },
+      {
+       "key": "C",
+       "label": "The road to Obsession",
+       "consequence": "Fed long enough, jealousy turns to Obsession Force: Breadth collapses and Empathy runs one way. An instrument or a good Gnosis read can find it, which is its fair counter.",
+       "sample": "At the meat-sharing Kolbein cut the widow Asdis the rib piece, and Torunn watched him do it across the fire, and went on watching. All that winter the rest of her life went thin. Kin, stack and horses fell out of her thoughts one by one until only the one man was left in them. At the spring muster the Hallenfeld Measurewright put his coil to her wrist, as to every woken rider's, and frowned at the needle. \"Your Breadth is down,\" he said, \"and your Empathy runs one way. That is how Obsession starts.\""
+      }
+     ],
+     "recommended": "B,C",
+     "rec_reason": "Grimdark wants jealousy to cost someone, and FOW already supplies its ruin with a price and a counter a player can find; A stays open to any quiet scene under R70-39 without a ruling.",
+     "multi": true,
+     "depends_on": [],
+     "rules_touched": [
+      "R70-104-RIVAL_BOND",
+      "R70-39-CARRYING_FEELING",
+      "R25-1-OBSESSION_SATISFIES_ATTRACTION_GATE",
+      "R71-44-FACULTY_READ_MAN",
+      "R53-11-JUSTICE",
+      "R70-85-SCENE_MOMENTS_THAT_EARN"
+     ]
+    },
+    {
+     "id": "CO11",
+     "title": "Conception and the pox",
+     "question": "Do conception and the pox ride on every bed?",
+     "context": "Table Rule 9 owes 'a consequence afterward' and medicine runs 'by place and purse' (R71-79), but contraception, pregnancy and the pox (syphilis) appear nowhere in law, the Inventories or the price table. The period had the sheath, the sponge, poisonous herbs such as pennyroyal, and mercury for the pox. No pregnancy has ever reached the Ledger.",
+     "options": [
+      {
+       "key": "A",
+       "label": "Ruled openly, every time",
+       "consequence": "Each bed between partners who could conceive records its precaution (sheath, sponge, timing, a Draft, or none) in the notes; Natalie rules conception and the pox by period medicine, names what decided, and a pregnancy opens a Front."
+      },
+      {
+       "key": "B",
+       "label": "Story's call, planted first",
+       "consequence": "No bookkeeping: a pregnancy or the pox arrives when the story wants it, planted in an earlier scene so a reader could have seen it coming (R48-30)."
+      },
+      {
+       "key": "C",
+       "label": "Only by choice",
+       "consequence": "A child comes when a couple decides, on the page or off, and the pox appears only where a scene sets out to put it there."
+      }
+     ],
+     "recommended": "A",
+     "rec_reason": "It is Table Rule 5's adjudication without dice brought to the bed: the cost is visible and traceable, period medicine decides, and a child or a dose of mercury becomes the bill that comes due.",
+     "multi": false,
+     "depends_on": [],
+     "rules_touched": [
+      "R53-10-MEDICINE",
+      "R71-79-MEDICINE_PLACE_PURSE",
+      "R48-30-SURPRISES"
+     ]
+    },
+    {
+     "id": "CO12",
+     "title": "Love across a Stage gap",
+     "question": "What does a Stage gap cost a couple over the years?",
+     "context": "Pressure shows in the room first (R70-69); holding it in 'tires him in named places, jaw, collar, temper' (R71-43); the unwoken feel a practitioner by the Aura table (R71-41). Canon's one precedent is Yorime Seikai's Veil of the Last Hand, a Claim art (drawing Essence out of a target) that lets her 'draw off limited pressure' from Dougou. No rule prices a marriage across the gap.",
+     "options": [
+      {
+       "key": "A",
+       "label": "He holds it, and pays",
+       "consequence": "The higher partner suppresses at home every waking hour; his jaw, collar and temper carry it, and the household learns to read the bill.",
+       "sample": "Hale came down to breakfast holding it in, as he had every morning of their marriage, and Mary watched what it cost him. His jaw went first, set a shade too hard while he buttered his toast. Then two fingers went to his collar, hooked in it, eased it and let go. The kettle sang. He was short with the maid over nothing. Mary poured his tea and set it at his elbow and said nothing about the jaw, because if he let go to answer her, the lamp would lie down and so would she."
+      },
+      {
+       "key": "B",
+       "label": "Drawn off by an art",
+       "consequence": "A partner who holds a draining art, as Yorime does, may take the Pressure off by touch at that art's own price, traced to Fracture of Worlds before first use; love alone draws nothing.",
+       "sample": "Hale came down to breakfast with the night's work still on him, and the flame under the kettle leaned away from his chair. Mary came round the table behind him, peeled off her right glove and laid her bare palm flat between his shoulder blades. The draining art was the one thing her mother had left her. It came up her arm cold as well water. Her fingers ached to the second knuckle. The flame stood up straight. Hale ate his eggs, and Mary sat down to hers and ate them left-handed."
+      },
+      {
+       "key": "C",
+       "label": "The houses forbid it",
+       "consequence": "Houses and the Guild bar or tax a match across a wide gap for the heirs' sake; such marriages run in secret, or pay.",
+       "sample": "Hale came down to breakfast and found a letter from his House beside his plate, sealed in grey wax. Mary knew the seal. It was the third since the wedding. The House did not object to her, the letter said. It objected to the heirs, who would be born to a man of his Stage from a woman of none, and whom no Measurewright could promise to assay. Hale read it with his jaw set. Mary poured his tea, and the lamp stayed where it was."
+      },
+      {
+       "key": "D",
+       "label": "The awe never leaves",
+       "consequence": "An unwoken spouse keeps the commoner's awe (R53-18) for life: the body stands, bows or flinches before the mind can stop it, and the marriage keeps that distance.",
+       "sample": "Hale came down to breakfast, and Mary stood up when he came in. She had done it every morning for six years and could not stop. Her knees knew him before she did. Once he had asked her, gently, not to, and she had tried, and her body had stood her up anyway, out of the chair, hands flat on the cloth. He touched her cheek with one knuckle and sat. She sat when he had. Her tea had gone cold by then, and neither of them mentioned it."
+      }
+     ],
+     "recommended": "A,B",
+     "rec_reason": "A is R71-43 brought home and costs the stronger partner; B keeps Yorime's art rare and priced, a fair counter with canon behind it. C and D would make every such love a tragedy by rule.",
+     "multi": true,
+     "depends_on": [],
+     "rules_touched": [
+      "R71-43-SUPPRESSION_PAGE",
+      "R71-41-PRESSURE_UNWOKEN",
+      "R70-69-PRESSURE_AURA",
+      "R53-18-AWE"
+     ]
+    },
+    {
+     "id": "CO13",
+     "title": "Pressure in bed",
+     "question": "Can Pressure reach desire in bed?",
+     "context": "Two Stages up brings sweat and nausea, the room showing it first (R70-69), and holding it in costs the holder's body (R71-43). Here she is Stage III, Ascension, he Stage V, Splintering. Arousal non-concordance (a body answering what the mind did not choose) is documented in sex research. SC9 asks how a coerced body is framed; this asks whether Pressure can cause it.",
+     "options": [
+      {
+       "key": "A",
+       "label": "Weight, never wanting",
+       "consequence": "Pressure brings weight, sweat and nausea and never desire; any wanting on the page is the person's own, and a slipped hold ends the moment.",
+       "sample": "Lenz was deep in her and holding it in, and Ragnhild, who had buried one husband already, knew that jaw. At the peak his hold slipped. The blubber lamp lay down flat in its bowl. Frost crossed the inside of the shutter in one breath. Then it hit her: sweat everywhere at once, her stomach rolling, her cunt gone slack and dry around him. Whatever she had wanted a moment ago was gone under the weight. She shoved at his chest. He pulled out and got his hold back, swearing."
+      },
+      {
+       "key": "B",
+       "label": "Weight the body mistakes",
+       "consequence": "Pressure cannot make desire, but a body under it may answer as it answers fear, and the POV knows the difference: a dubcon (dubious consent) engine, the room its tell, distance or suppression its counter.",
+       "sample": "Lenz was deep in her and holding it in, and Ragnhild, who had buried one husband already, knew that jaw. At the peak his hold slipped. The blubber lamp lay down flat in its bowl, and frost crossed the shutter in one breath. Sweat broke all over her. Her stomach rolled. Her cunt clenched on him, wet, hard, again, and some cold part of her watched it happen and knew it for the clench of a hand on a knife in the dark. Her body had answered the weight. She never had."
+      },
+      {
+       "key": "C",
+       "label": "Let go, by leave",
+       "consequence": "A, plus: a lover may ask him to stop holding it in. Letting go is the most intimate thing a practitioner can give, and she pays in sweat and nausea she chose.",
+       "sample": "Lenz was deep in her and holding it in, and Ragnhild, who had buried one husband already, knew that jaw. \"Let it go,\" she said. He looked down at her. \"All of it.\" He let it go. The blubber lamp lay down flat in its bowl. Frost crossed the shutter in one breath. Sweat broke over her and her stomach rolled, and she held on through it with her heels locked in the small of his back, because she had asked for all of him, and this was the part he gave nobody else."
+      }
+     ],
+     "recommended": "C",
+     "rec_reason": "It keeps desire honest, which fair play asks of any power, and turns R71-43's suppression into something a practitioner can give; B's darker engine stays open through Obsession workings, which carry their own tells and counters (SC8).",
+     "multi": false,
+     "depends_on": [
+      "CO12",
+      "SC9"
+     ],
+     "rules_touched": [
+      "R70-69-PRESSURE_AURA",
+      "R71-43-SUPPRESSION_PAGE",
+      "R49-51-EXPLICIT"
+     ]
+    },
+    {
+     "id": "CO14",
+     "title": "Lovers and the warm bond",
+     "question": "Does a romance count as a thread's standing warm bond?",
+     "context": "R70-114: 'Each live thread carries at least one standing warm bond (found family, master and disciple, sworn kin)', written openly warm. Lovers are not named. The archive's love is mostly mourned, and FOW warns a bond can rot into Obsession, so a thread whose only warmth is a romance can lose all of it at once.",
+     "options": [
+      {
+       "key": "A",
+       "label": "Lovers count",
+       "consequence": "A romance may be a thread's warm bond on its own."
+      },
+      {
+       "key": "B",
+       "label": "Never the only one",
+       "consequence": "Lovers count, but each thread also keeps a warm bond that is not romantic, so a romance that dies, sours or turns to Obsession leaves warmth standing."
+      },
+      {
+       "key": "C",
+       "label": "Lovers never count",
+       "consequence": "The warm bond is found family, master and disciple, or sworn kin; romance comes on top and may run cold."
+      }
+     ],
+     "recommended": "B",
+     "rec_reason": "Grimdark needs love to be losable, and R70-114 exists so that a loss never empties a thread; B lets lovers be warm and still keeps a floor under them.",
+     "multi": false,
+     "depends_on": [],
+     "rules_touched": [
+      "R70-114-GRIMDARK_WARMTH"
+     ]
+    },
+    {
+     "id": "CO15",
+     "title": "How a bond grows",
+     "question": "How does a bond show itself growing across scenes?",
+     "context": "The archive grows love by gesture: 'love expressed as maintenance', tokens carried for years. Korean jeong is attachment that accrues through shared time and hardship, chosen or not. In Fracture of Worlds the Catalyst (the event that completes a breakthrough) for Stage IV, Flourishing, is 'formation of the first genuine Spirit Axis bond', a tie between two Crystals with mechanical weight. No rule says whether a bond prints.",
+     "options": [
+      {
+       "key": "A",
+       "label": "Tokens and maintenance",
+       "consequence": "A bond grows by what is mended, fed and carried: the coat, the comb, the bowl. Each scene adds one, and the reader counts them.",
+       "sample": "Corin came back from the Well on the ninth day with his coat in ribbons, and Nell took it off him at the door without a word and sat down with it under the lamp. She had mended it four times now, and each time the stitches were smaller. He slept. When he woke the coat hung on the chair, whole, and in the inside pocket where he kept his half of the split tally she had sewn a square of her own blue flannel, which nobody would ever see but him."
+      },
+      {
+       "key": "B",
+       "label": "Jeong through hardship",
+       "consequence": "A bond grows from shared cost, chosen or not: a night in a collapsed gallery, a winter of short rations. Enemies can accrue it, and it binds them anyway.",
+       "sample": "Corin came back from the Well on the ninth day, and Nell came back with him, because she had gone down too as his lamp-bearer. Neither had much liked the other at the top of the shaft. At the bottom something had come up the gallery, and they had held the one lamp between them, shaking, until it went past. Now they sat in her kitchen with the same cold in their bones and passed one pot of tea back and forth, and neither of them needed to talk."
+      },
+      {
+       "key": "C",
+       "label": "A ladder by culture",
+       "consequence": "Each culture has steps a bond must climb (visits, calls, nights, days at the table), entered in its Courtship field; a step skipped is a scandal or an insult.",
+       "sample": "Corin came back from the Well on the ninth day and went round to Nell's for the third time. The first time she had let him in and given him the chair and nothing else. The second time she had given him tea, and her name. Tonight, by the custom of the lower wards, the asking was owed, and so was the answer, and both of them knew which step they stood on as well as they knew the steps up to her door. She took his wet coat and hung it on her own peg."
+      },
+      {
+       "key": "D",
+       "label": "Crystal fact, no figure",
+       "consequence": "The breakthrough readout R70-84 already owes at Flourishing also names its Catalyst, the first Spirit Axis, with no figure (R12-5); no other bond prints, and nothing says whether she loves him.",
+       "sample": "Corin came back from the Well on the ninth day with the Crystal's line still in him. It had come at the bottom of the shaft, as the thing in the gallery went past and Nell's hand closed on his over the one lamp: Stage IV, Flourishing. Tier of Standing: Adept. Catalyst: first Spirit Axis formed. No figure stood beside the bond, and nothing in it said whether she loved him. That night he sat up by her fire while she slept in the other chair, read the line again, and looked at her face."
+      }
+     ],
+     "recommended": "A,B,D",
+     "rec_reason": "A is the house's best habit, B gives grimdark a bond nobody chose, and D puts the LitRPG layer exactly where Fracture of Worlds already has it, the Flourishing Catalyst, while leaving the read of her heart to the player; C belongs in the culture answers, CO2 to CO7.",
+     "multi": true,
+     "depends_on": [],
+     "rules_touched": [
+      "R70-84-GROWTH_MOMENTS_THAT_EARN",
+      "R70-78-WHERE_SCREEN_COMES_FROM",
+      "R70-91-BREAKTHROUGH_PAGE",
+      "R70-82-NUMERALS_LADDER_RUNGS",
+      "R12-5-NEVER_INVENT_NUMBER",
+      "R70-114-GRIMDARK_WARMTH"
+     ]
+    },
+    {
+     "id": "CO16",
+     "title": "Love mourned or lived",
+     "question": "How much of WOTR's love is lived before it is lost?",
+     "context": "The house survey found more love mourned than lived: most couples are established offscreen, shown once, and ended by death or duty. R70-114 lets joy have scenes of its own, death is permanent (R60-04), and grief takes a voice back to its roots (R52-26). The question is the balance, not whether loss costs.",
+     "options": [
+      {
+       "key": "A",
+       "label": "Mourned more than lived",
+       "consequence": "The house default stands: bonds mostly arrive established, and their scenes are partings, tokens and grief.",
+       "sample": "The horn comb came back with his horse, tied to the pommel with a bit of her own blue thread. Inga untied it standing in the snow. She had carved it the winter before they were married and had never once seen him use it. The teeth were worn smooth on one side. She went into the death-house to begin the Waiting and took the comb with her, and did not let the other women see it."
+      },
+      {
+       "key": "B",
+       "label": "Lived first, then cost",
+       "consequence": "A bond gets scenes of its own joy before a loss may land on it; a love that dies before the reader has seen it lived is a fault to fix.",
+       "sample": "The horn comb came back with his horse, tied to the pommel with a bit of her own blue thread. Inga untied it standing in the snow. She had carved it the winter they laughed through at the Seat, when he raced the Thornwall men on the ice and lost his hat and both mittens, and every night since she had watched him comb his beard with it, badly, to please her. The teeth were worn smooth on one side. She went into the death-house to begin the Waiting."
+      },
+      {
+       "key": "C",
+       "label": "Ended by choice",
+       "consequence": "Heartbreak comes more from leaving, refusal and betrayal than from death; fewer lovers die, and more walk away alive.",
+       "sample": "The horn comb came back by a carter from the south, tied with her own blue thread, and no word with it. Bjarke was alive. The whole outer town knew whose fire he sat at now, and that he would not be splitting for this one again. Inga untied the thread standing in the snow. The teeth were worn smooth on one side. She laid the comb on the night-stone, where it would stay warm. In the morning she put it out on the woodpile for the cold to have, and at dark she fetched it back."
+      }
+     ],
+     "recommended": "B",
+     "rec_reason": "Grimdark costs only what was shown to be worth something; the archive's habit of mourning loves it never lived spends grief it has not earned.",
+     "multi": false,
+     "depends_on": [],
+     "rules_touched": [
+      "R70-114-GRIMDARK_WARMTH",
+      "R60-04-DEATH_IS_PERMANENT",
+      "R52-26-GRIEF"
+     ]
+    },
+    {
+     "id": "CO17",
+     "title": "A bond after death",
+     "question": "What does a lover's death do to the survivor's Crystal?",
+     "context": "Fracture of Worlds: through Attraction Force (the law of recognition) 'spiritual relations survive time, death, distance and change', and 'grief is the lawful tax on every covenant ended'. Obsession keeps 'bonds preserved past death in broken, predatory form', and losing its object 'produces fracture events'. No rule says how any of this shows on the page.",
+     "options": [
+      {
+       "key": "A",
+       "label": "Carried clean",
+       "consequence": "The bond survives death clean and reciprocal: the survivor's Spirit Axis holds, felt at thresholds and readable by instrument, with no figure, and grief is its tax.",
+       "sample": "A year after the funeral the Measurewright put his coil to Widow Fenn's wrist for her licence renewal and watched the needle a long while. \"There's a bond on you still,\" he said. \"Spirit Axis, held, and the far end of it quiet. It reads clean.\" She asked him what that meant. \"That he's still recognised,\" he said. \"The Guild calls it a covenant carried. The old women call it grief. It's the same tax.\" He wrote her up fit."
+      },
+      {
+       "key": "B",
+       "label": "Clean or a cage",
+       "consequence": "A, plus the turn: grief fed long enough tips the bond into Obsession, which an instrument or a good Gnosis read can find, and a Crystal grown dependent on the dead risks FOW's fracture events.",
+       "sample": "A year after the funeral the Measurewright put his coil to Widow Fenn's wrist for her licence renewal and did not like the needle. \"There's a bond on you still,\" he said. \"Spirit Axis, held hard, and everything else on you thinned to make room for it.\" She asked him what that meant. \"That you've kept him the wrong way,\" he said, and he wrote it on the form in plain words, because a Crystal that leans on a dead man can crack, and the Board liked to know first."
+      },
+      {
+       "key": "C",
+       "label": "Human only",
+       "consequence": "A lost love is grief in the body and the life; the Crystal says nothing, and no instrument reads it.",
+       "sample": "A year after the funeral the Measurewright put his coil to Widow Fenn's wrist for her licence renewal and read her clean, with nothing out of true and nothing held that should not be. He wrote her up fit. On the stair going down she stopped, because the third step still creaked as it had under her husband's weight, and she stood on it a while with her hand on the rail. The coil had nothing to say about that."
+      }
+     ],
+     "recommended": "B",
+     "rec_reason": "It is FOW's own law, both halves, and it gives grief a danger with a tell and a counter a player can find, which is fair; C would leave canon metaphysics unused.",
+     "multi": false,
+     "depends_on": [
+      "CO15"
+     ],
+     "rules_touched": [
+      "R12-5-NEVER_INVENT_NUMBER",
+      "R25-1-OBSESSION_SATISFIES_ATTRACTION_GATE",
+      "R52-26-GRIEF",
+      "R71-44-FACULTY_READ_MAN",
+      "R70-85-SCENE_MOMENTS_THAT_EARN"
+     ]
+    }
+   ]
+  },
+  {
+   "key": "ME",
+   "title": "Method",
+   "intro": "How the intimacy answers become law and get proved: where they land, what verify_scene learns to check, what the sample bank holds, and the test scene.",
+   "questions": [
+    {
+     "id": "ME1",
+     "title": "Where the intimacy law lands",
+     "question": "How do your intimacy answers land in the repo?",
+     "context": "The style and combat laws each landed as a rule doc plus rewritten guides (R70-135, R71-102). Table Rule 9 lives only in NATALIE.md and two skills, which differ ('every movement' against 'every significant movement') and cite none of R49-51, R70-133 or R70-134. No Inventory has a courtship field.",
+     "options": [
+      {
+       "key": "A",
+       "label": "Rule doc only",
+       "consequence": "One dated Intimacy Law doc through log_ruling, served by load_rules. NATALIE.md, the skills and the Inventories stay as they are until a later pass."
+      },
+      {
+       "key": "B",
+       "label": "Rule doc, Rule 9 rewritten",
+       "consequence": "A, plus Table Rule 9 in NATALIE.md rewritten to cite R49-51, R70-133, R70-134 and the new rows, and wotr-rp and the wotr-write scene pipeline brought to one wording."
+      },
+      {
+       "key": "C",
+       "label": "B, plus the Inventories",
+       "consequence": "B, plus the courtship and mores fields drafted for the six cultures from these answers and entered on your word, and an intimacy section in the Dialogue Craft Standards and Scene Writing Process Guide."
+      }
+     ],
+     "recommended": "C",
+     "rec_reason": "Natalie reads NATALIE.md, the skills and the Inventories every session; a culture rule with nowhere to live is a rule nobody loads, which is why R70-135 and R71-102 both went the full distance.",
+     "multi": false,
+     "depends_on": [
+      "CO1"
+     ],
+     "rules_touched": [
+      "R70-135-WHERE_NEW_LAW_LIVES",
+      "R71-102-WHERE_COMBAT_LAW_LANDS",
+      "R70-45-NEW_STANDING_INVENTORY_FIELDS"
+     ]
+    },
+    {
+     "id": "ME2",
+     "title": "Intimacy checks in verify_scene",
+     "question": "Which checks should verify_scene gain with this law?",
+     "context": "verify_scene has no explicit mode: nothing checks scent, sound or mimetic words (words for texture and state, roman under R70-133), the consequence Rule 9 owes, or a partner's age, and its firearms list counts 'cock' as gun vocabulary. R71-103 watches the archive's tired fight devices; its tired touches (the hand on the arm, the jaw held, the kiss on the hair) have no watch.",
+     "options": [
+      {
+       "key": "A",
+       "label": "An explicit mode",
+       "consequence": "verify --explicit WARNs on a scene with no smell word, no sound or mimetic word, an italic mimetic word, or notes without a consequence line, and stops counting 'cock' as gun vocabulary."
+      },
+      {
+       "key": "B",
+       "label": "A floor guard",
+       "consequence": "FAIL when an explicit scene names anyone whose card or roster gives an age under eighteen; WARN when a named partner has no age on file. The body's age counts, never a soul's."
+      },
+      {
+       "key": "C",
+       "label": "Euphemism bans",
+       "consequence": "Bed euphemisms that dodge R49-51 (his member, her sex, manhood, her core) FAIL in narration like the hard-ban words; in a mouth they pass, since a character may be coy."
+      },
+      {
+       "key": "D",
+       "label": "Stale-touch watch",
+       "consequence": "WARN past one a scene on the archive's repeated touches: the hand on the arm, the jaw held, the kiss on the hair, as R71-103 does for fight devices."
+      }
+     ],
+     "recommended": "A,B,C,D",
+     "rec_reason": "B guards the floor itself and costs nothing to run; A and C make Rule 9 and R49-51 visible to a script, and D catches the three touches the house survey counted before they become the only moves.",
+     "multi": true,
+     "depends_on": [],
+     "rules_touched": [
+      "R70-136-NEW_CHECKS_VERIFY_SCENE",
+      "R71-103-COMBAT_CHECKS_VERIFY_SCENE",
+      "R48-45-CHECKS",
+      "R70-133-EASTERN_TECHNIQUES_BESIDE_CLINICAL",
+      "R49-51-EXPLICIT"
+     ]
+    },
+    {
+     "id": "ME3",
+     "title": "The intimacy sample bank",
+     "question": "What should the intimacy sample bank hold?",
+     "context": "R70-138 built a style bank of five beats per culture, and R71-104 gave combat a passage per culture plus a bank by fight type. No bank has an intimate beat, and the archive has no explicit scene; the nearest, The Blank Seal, stops at the threshold.",
+     "options": [
+      {
+       "key": "A",
+       "label": "An intimate beat per culture",
+       "consequence": "Each of the five style-bank files gains a sixth beat, intimate, in that culture's POV register (R70-134), from courtship to aftermath."
+      },
+      {
+       "key": "B",
+       "label": "A bank by kind",
+       "consequence": "One new file with the kinds the archive has never written: a courtship, a first night, a marriage bed years in, a night across a Stage gap, a dubcon aftermath, a heartbreak."
+      },
+      {
+       "key": "C",
+       "label": "Both",
+       "consequence": "A and B: culture beats where Natalie already loads them, and the kinds the archive lacks; this questionnaire's samples become their first drafts."
+      }
+     ],
+     "recommended": "C",
+     "rec_reason": "It is the answer R71-104 gave combat, for the same reason: the culture files carry register, and the kind bank fills what the archive has never tried.",
+     "multi": false,
+     "depends_on": [],
+     "rules_touched": [
+      "R70-138-PROOF_ORDER_WORK",
+      "R71-104-COMBAT_SAMPLE_BANK",
+      "R70-134-KEYED_CULTURE_FREE"
+     ]
+    },
+    {
+     "id": "ME4",
+     "title": "Proof and the test scene",
+     "question": "In what order does the work run, and who is in the test scene?",
+     "context": "R70-138 and R71-105 ran law and checks, then a test, amendment, then guides and bank. This test must prove Rule 9 and R70-134 at both ends, a blunt Kharven POV and an image-led Moto one. A test with your character leaves his body and choices to you; a canon couple puts the night into a book thread.",
+     "options": [
+      {
+       "key": "A",
+       "label": "Law, checks, NPC test",
+       "consequence": "Log the law and build ME2's checks; write one explicit scene between adult NPCs on your thread's Kharven ground, a Kharven half and a Moto half split by a break mark (R49-27); amend; then guides, Inventories and bank."
+      },
+      {
+       "key": "B",
+       "label": "Law, checks, played test",
+       "consequence": "The same order, but the test is played: your character with an NPC partner, Natalie writing only the partner and the room, and you writing him."
+      },
+      {
+       "key": "C",
+       "label": "Law, checks, canon couple",
+       "consequence": "The same order, but the test is the night The Blank Seal broke off, Wren Greymane and Yūgiri Yukari, written in full as a book scene."
+      }
+     ],
+     "recommended": "A",
+     "rec_reason": "A proves both ends of R70-134 in one night with nothing canon at stake; a played test proves the turn shape only once SC12 and SC13 settle what is yours in bed, and the Blank Seal's stop is its point.",
+     "multi": false,
+     "depends_on": [
+      "ME2",
+      "SC12"
+     ],
+     "rules_touched": [
+      "R70-138-PROOF_ORDER_WORK",
+      "R71-105-PROOF_ORDER_WORK",
+      "R70-134-KEYED_CULTURE_FREE",
+      "R49-27-SCENE_BREAKS"
+     ]
+    }
+   ]
+  }
+ ],
+ "settled": [
+  {
+   "point": "The floor: adults only, nothing sexual involving minors ever, no explicit sex on real living people, no bestiality. Canon treats adult beastkin as people who marry (Yoko Mishiro's card); an animal, a Well-spawn or a summoned creature is never a partner.",
+   "rule_ids": [],
+   "why_not_asked": "NATALIE.md's floor is fixed and never on a questionnaire; it is not a rule row. Every sample here is between adults."
+  },
+  {
+   "point": "Table Rule 9's clauses: plain anatomical vocabulary, clinical specificity, positions tracked, arousal scents, onomatopoeia, the NPC's own desire and refusal line and change of mind, a consequence, dubcon and non-con at the same specificity, aftermath never skipped.",
+   "rule_ids": [
+    "R70-133-EASTERN_TECHNIQUES_BESIDE_CLINICAL",
+    "R70-134-KEYED_CULTURE_FREE"
+   ],
+   "why_not_asked": "Standing law in NATALIE.md, extended by R70-133 and R70-134; K4, SC3 and SC11 ask only how its clauses are carried out."
+  },
+  {
+   "point": "Explicit narration is plain and crude: working-man anatomical words, lush in sensation, blunt in naming.",
+   "rule_ids": [
+    "R49-51-EXPLICIT"
+   ],
+   "why_not_asked": "Ruled 2026-09-26 and kept by the style law; SC1 asks only whose words."
+  },
+  {
+   "point": "Which strand leads in bed: the POV's culture keys it (a Moto POV writes with image and the held detail, a Kharven POV blunt), the anatomy stays plain under every strand, and LitRPG reaches the bed only at a readout moment.",
+   "rule_ids": [
+    "R70-134-KEYED_CULTURE_FREE",
+    "R70-3-STRAND_LEADS_LAYER",
+    "R49-51-EXPLICIT",
+    "R70-85-SCENE_MOMENTS_THAT_EARN"
+   ],
+   "why_not_asked": "XS2 already answered which strand leads in bed, by the POV's culture; asking it again for every POV would have re-asked R70-134."
+  },
+  {
+   "point": "Euphemism in explicit narration (his member, her sex, manhood) is out.",
+   "rule_ids": [
+    "R49-51-EXPLICIT"
+   ],
+   "why_not_asked": "R49-51 is 'blunt in naming'. ME2 C asks only whether verify enforces it with a word list."
+  },
+  {
+   "point": "Season imagery, the held detail at the peak, the poem after, and mimetic words romanised and never italic, all beside the plain words.",
+   "rule_ids": [
+    "R70-133-EASTERN_TECHNIQUES_BESIDE_CLINICAL"
+   ],
+   "why_not_asked": "XS1, ruled 2026-10-03."
+  },
+  {
+   "point": "The techniques are keyed to the POV's culture; the lover's culture shows in what they do and say.",
+   "rule_ids": [
+    "R70-134-KEYED_CULTURE_FREE"
+   ],
+   "why_not_asked": "XS2, ruled 2026-10-03."
+  },
+  {
+   "point": "Your PC and the other creators' characters are never thought, voiced or acted for; you may voice any NPC, a lover included.",
+   "rule_ids": [
+    "R49-01-WHOSE_HEAD",
+    "R52-08-PC_IDIOM",
+    "R52-10-CROSSOVER",
+    "R48-32-NPC_VOICES"
+   ],
+   "why_not_asked": "Standing law; SC12 to SC14 ask only where the line falls in bed."
+  },
+  {
+   "point": "NPC thought: one italic thought per NPC in a roleplay turn, none under a written scene's POV lock, so a partner's desire shows through body and speech there.",
+   "rule_ids": [
+    "R48-40-NPC_THOUGHTS",
+    "R39-7-NO_NPC_THOUGHT_UNDER_POV_LOCK"
+   ],
+   "why_not_asked": "Prose law, unchanged in bed."
+  },
+  {
+   "point": "Third person only; roleplay turns in present tense, written scenes in past.",
+   "rule_ids": [
+    "R70-12-FIRST_PERSON",
+    "R49-02-TENSE"
+   ],
+   "why_not_asked": "VO3 of the style law, and the prose law."
+  },
+  {
+   "point": "The narrator never passes a moral verdict on what happens in bed; a verdict lives only in the POV's own idiom.",
+   "rule_ids": [
+    "R5-E-FREE_INDIRECT_CARVEOUT"
+   ],
+   "why_not_asked": "Standing anti-machine law; SC9 builds on it."
+  },
+  {
+   "point": "Pop-psych words (boundaries, triggered, closure) stay out of narration; modern words, safeword and aftercare among them, are legal in speech and italic thought.",
+   "rule_ids": [
+    "R51-04-LIST_PSYCH",
+    "R48-13-PERIOD_FEEL",
+    "R70-37-MODERN_IDIOM_THOUGHT"
+   ],
+   "why_not_asked": "Vocabulary law; SC6 asks only how a game is framed in the world."
+  },
+  {
+   "point": "Profanity in speech and close POV, each culture's own swears first.",
+   "rule_ids": [
+    "R48-12-PROFANITY",
+    "R51-02-CLOSE_POV_SWEARS",
+    "R51-29-SWEARING"
+   ],
+   "why_not_asked": "Settled by the vocabulary law."
+  },
+  {
+   "point": "Jo-ha-kyū tempo for set pieces and kishōtenketsu (set-up, development, twist, reconciliation) for quiet scenes reach explicit scenes as they reach any other.",
+   "rule_ids": [
+    "R70-15-TEMPO_STILLNESS",
+    "R70-14-KISHOTENKETSU"
+   ],
+   "why_not_asked": "SP1 and SP2 of the style law; nothing here reopens them."
+  },
+  {
+   "point": "Feeling carried by one held image and never named; a scene may close on verse set apart.",
+   "rule_ids": [
+    "R70-39-CARRYING_FEELING",
+    "R70-64-VERSE_INSIDE_PROSE"
+   ],
+   "why_not_asked": "IN3 and DT6 of the style law."
+  },
+  {
+   "point": "A lover gets the full first-sight inventory in the POV's own order, and one changed detail on each return.",
+   "rule_ids": [
+    "R70-54-GETS_FULL_INVENTORY",
+    "R70-55-ORDER_FIRST_INVENTORY",
+    "R70-50-BODIES_AFTER_FIRST_SIGHT"
+   ],
+   "why_not_asked": "Description law applies to lovers as to anyone."
+  },
+  {
+   "point": "Turns run about 3,500 words and set pieces 5,000 and up.",
+   "rule_ids": [
+    "R48-28-TURN_LENGTH",
+    "R49-30-SHORT_BEATS",
+    "R48-46-WORD_FLOOR"
+   ],
+   "why_not_asked": "Prose law; SC2 and SC13 ask only how explicit scenes use those lengths."
+  },
+  {
+   "point": "Every working costs something visible in the body, and no figure is invented.",
+   "rule_ids": [
+    "R48-37-COST_SHOWN",
+    "R12-5-NEVER_INVENT_NUMBER"
+   ],
+   "why_not_asked": "Standing law; SC8 builds on it."
+  },
+  {
+   "point": "Each culture's own sound and state words, entered in its Inventory and never italic.",
+   "rule_ids": [
+    "R70-22-SOUND_WORDS",
+    "R50-32-ITALICS"
+   ],
+   "why_not_asked": "RH4 of the style law; the bed draws on the same banks."
+  },
+  {
+   "point": "NPCs lie, refuse and pursue their wants, and a betrayal is foreshadowed so a player could catch it.",
+   "rule_ids": [
+    "R48-42-LIES",
+    "R48-30-SURPRISES",
+    "R52-02-VOICE_LEVER"
+   ],
+   "why_not_asked": "Table Rules 3 and 8 and the play law; a lover is an NPC like any other."
+  },
+  {
+   "point": "Medicine is true to place and purse.",
+   "rule_ids": [
+    "R53-10-MEDICINE",
+    "R71-79-MEDICINE_PLACE_PURSE"
+   ],
+   "why_not_asked": "World texture and combat law; K5 asks only what the Ledger keeps, and conception and the pox are CO11."
+  },
+  {
+   "point": "Humour in bed: anyone may be funny inside the act, the joke arriving in progress and never as setup, deadpan and reaction; full comic beats belong to carded comic voices; inside danger, a coerced scene included, only gallows wit.",
+   "rule_ids": [
+    "R48-11-HUMOUR",
+    "R5-D-HUMOUR_BARRED",
+    "R70-113-DOUBLE_ACT_COMIC_BEAT",
+    "R70-116-COMEDY_BESIDE_DANGER"
+   ],
+   "why_not_asked": "The humour law already reaches every scene, beds included."
+  },
+  {
+   "point": "Readouts and Pressure in bed: a readout comes only at an appraisal, a wound line or Essence spent, never from Pressure and never with a joke in it; Pressure shows in the room first; holding it in costs the holder's jaw, collar and temper.",
+   "rule_ids": [
+    "R70-85-SCENE_MOMENTS_THAT_EARN",
+    "R70-81-VOICE_READOUT",
+    "R70-69-PRESSURE_AURA",
+    "R71-43-SUPPRESSION_PAGE",
+    "R12-5-NEVER_INVENT_NUMBER"
+   ],
+   "why_not_asked": "Style and combat law already answer it; whether Pressure can reach desire, and what a Stage gap costs a couple, are CO13 and CO12."
+  },
+  {
+   "point": "The lover's culture shows in what they do and say, whatever the POV's culture does to the narration.",
+   "rule_ids": [
+    "R70-134-KEYED_CULTURE_FREE"
+   ],
+   "why_not_asked": "XS2 of the style law. CO2 to CO7 ask only the customs that give a lover's culture something to do and say."
+  },
+  {
+   "point": "The Moto court, Eresse, the Mahuo houses and the lineage halls offer and answer verse at rites and in court, a plain answer costing face; each culture's verse form goes in its Inventory.",
+   "rule_ids": [
+    "R70-110-VERSE_EXCHANGED_TALK"
+   ],
+   "why_not_asked": "Ruled 2026-10-03. CO3, CO5 and CO6 ask only whether verse also courts."
+  },
+  {
+   "point": "Native address words and speech-level shifts written as events the room hears; a close POV carries its own culture's honorifics into narration, a Western POV plain names.",
+   "rule_ids": [
+    "R70-107-SPEECH_LEVELS_ADDRESS_KOREAN",
+    "R70-118-HONORIFICS_NARRATION"
+   ],
+   "why_not_asked": "Style law. CO5 C asks only whether such a shift is the Mahuo proposal; the Moto samples follow the POV's honorifics."
+  },
+  {
+   "point": "Each Inventory owes fields for law and punishment, succession, and festivals written as performed; succession follows each culture's law.",
+   "rule_ids": [
+    "R70-45-NEW_STANDING_INVENTORY_FIELDS",
+    "R60-21-SUCCESSION_BY_CULTURE"
+   ],
+   "why_not_asked": "Already law. CO1 asks only whether courtship gets a field of its own, CO8 what fills the law field for more than one partner."
+  },
+  {
+   "point": "Folk beliefs stand uncorrected by narration; ground-level justice borrows each culture's real analogue (labour-debt in Kharven, fines in Accord cities).",
+   "rule_ids": [
+    "R53-15-FOLK_BELIEFS",
+    "R53-11-JUSTICE"
+   ],
+   "why_not_asked": "World texture law. CO3 C builds on the Moto eye belief and CO10 B on labour-debt without reopening either."
+  },
+  {
+   "point": "Every sum on the page is quoted from the approved price table, and payment in kind north of the arrays is named as exactly.",
+   "rule_ids": [
+    "R70-48-MONEY_PRICE_PROVENANCE",
+    "R53-07-PRICE_TABLE"
+   ],
+   "why_not_asked": "Settled. Bride-prices, settlements, allowances and any house's fee take their sums from the table; no question sets a price, and CO18 asks only whether the trade gets rows."
+  },
+  {
+   "point": "Pressure shows in the room before the body; holding it in costs the holder's jaw, collar and temper and leaks; the unwoken feel a practitioner by the Aura table by Grade; commoners hold practitioners in awe.",
+   "rule_ids": [
+    "R70-69-PRESSURE_AURA",
+    "R71-43-SUPPRESSION_PAGE",
+    "R71-41-PRESSURE_UNWOKEN",
+    "R53-18-AWE"
+   ],
+   "why_not_asked": "Style, combat and world law. CO12 asks only what they cost a marriage, CO13 only whether Pressure reaches desire."
+  },
+  {
+   "point": "A breakthrough prints a readout naming the new Stage and its Tier of Standing as the Catalyst completes, inside the crisis; the bearer reads only his own Crystal; Stage numerals sit beside the name; no figure is invented.",
+   "rule_ids": [
+    "R70-84-GROWTH_MOMENTS_THAT_EARN",
+    "R70-91-BREAKTHROUGH_PAGE",
+    "R70-78-WHERE_SCREEN_COMES_FROM",
+    "R70-82-NUMERALS_LADDER_RUNGS",
+    "R12-5-NEVER_INVENT_NUMBER"
+   ],
+   "why_not_asked": "LitRPG law. CO15 D asks only whether that readout names a bond as its Catalyst; CO17 is written with no figure."
+  },
+  {
+   "point": "Every live thread keeps a standing warm bond written openly warm; joy may have scenes; grief goes back to the root; tears break once per arc at a small thing; death is permanent.",
+   "rule_ids": [
+    "R70-114-GRIMDARK_WARMTH",
+    "R52-26-GRIEF",
+    "R52-27-JOY",
+    "R70-115-TEARS_SENTIMENT",
+    "R60-04-DEATH_IS_PERMANENT"
+   ],
+   "why_not_asked": "Style and voice law. CO14 asks only whether lovers count as the warm bond, CO16 only the balance of lived and mourned."
+  },
+  {
+   "point": "Obsession Force satisfies an Attraction gate; a Sacrament anchor is fixed by declaration whether or not the anchor consents.",
+   "rule_ids": [
+    "R25-1-OBSESSION_SATISFIES_ATTRACTION_GATE",
+    "R29-1-SACRAMENT_BOND_ANCHOR_BY_DECLARATION"
+   ],
+   "why_not_asked": "Ruled 2026-09-12. CO10 and CO17 build on them and do not reopen them."
+  },
+  {
+   "point": "A recurring rival's survival is paid for on the Ledger with a debt, a scar or a witness.",
+   "rule_ids": [
+    "R70-104-RIVAL_BOND"
+   ],
+   "why_not_asked": "Style law. CO10 B applies it to rivals in love."
+  },
+  {
+   "point": "An intimate uses the personal name, and the narrator does not switch names without a reason.",
+   "rule_ids": [
+    "R20-5-ON_THE_PAGE"
+   ],
+   "why_not_asked": "Naming law; a courtship's change of name is already governed by it."
+  },
+  {
+   "point": "The order of proof: law and checks, a test scene, amendment, then the guides and the bank.",
+   "rule_ids": [
+    "R70-138-PROOF_ORDER_WORK",
+    "R71-105-PROOF_ORDER_WORK"
+   ],
+   "why_not_asked": "Precedent from both earlier laws. ME4 keeps the order and asks only who is in the test."
+  },
+  {
+   "point": "What the Ledger keeps beyond the body, workings that bend desire, the coerced body, and your character in bed.",
+   "rule_ids": [],
+   "why_not_asked": "Asked under the Keystones and the explicit scene (K5, SC8, SC9, SC12 to SC14). CO13 leans on SC9 and does not ask it twice."
+  },
+  {
+   "point": "A faculty prints exact figures only when the reader's Gnosis Perception outranks the target's Resilience Ward by Grade, a hedged range otherwise, the Ward being the counter; a scenting POV may read by smell stated as evidence.",
+   "rule_ids": [
+    "R71-44-FACULTY_READ_MAN",
+    "R71-63-BEASTKIN_SENSES_FOX_FIRE"
+   ],
+   "why_not_asked": "Combat law, and it reaches a bed as it reaches a fight; SC15 asks only whether reading a lover needs leave."
+  },
+  {
+   "point": "Every ability states its mechanism, cost, tell and counter as facts and never how it is used, and every technique was derived by somebody.",
+   "rule_ids": [
+    "R12-3-COUNTER_MANDATORY",
+    "R47-1-NO_APPLICATIONS",
+    "R47-3-COUNTERS_AS_FACTS",
+    "R12-3-NAMED_INVENTOR_RULE"
+   ],
+   "why_not_asked": "Ability law; SC16 asks only whether an art may work through the act itself, and holds any such art to this law."
+  },
+  {
+   "point": "Money before magic: a working indoors on a main raises the bill, and somebody notices the cost.",
+   "rule_ids": [
+    "R53-17-THE_BILL"
+   ],
+   "why_not_asked": "World texture law; CO18 asks only whether the Draw Age keeps a trade in sex and in what form."
+  }
+ ]
+}

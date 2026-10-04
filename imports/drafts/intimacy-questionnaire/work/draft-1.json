@@ -1,0 +1,946 @@
+{
+ "sections": [
+  {
+   "key": "K",
+   "title": "Keystones",
+   "intro": "What an intimate scene is for, when it reaches the page, and what it leaves behind. The explicit-scene rules sit inside these.",
+   "questions": [
+    {
+     "id": "K1",
+     "title": "What an explicit scene earns",
+     "question": "Beyond Rule 9's consequence afterward, what must every explicit scene do for the story?",
+     "context": "Table Rule 9 owes 'a consequence afterward' but names no purpose. Anaïs Nin (the 1940s erotica writer) held that each scene shows one person's hunger in its exact shape, romance makes each scene turn the relationship, and R70-114 lets joy have 'scenes of its own'. This decides whether a bed may hold pleasure alone.",
+     "options": [
+      {
+       "key": "A",
+       "label": "Turns a thread, always",
+       "consequence": "Each explicit scene must move a plot or relationship thread: a debt made, a secret out, a power shift, a betrayal planted. No scene is sex for its own sake."
+      },
+      {
+       "key": "B",
+       "label": "Shows the hunger's shape",
+       "consequence": "Each scene shows something about one partner's desire or refusal the reader did not know; a thread may move or not. Rule 9's consequence still lands afterward."
+      },
+      {
+       "key": "C",
+       "label": "B, and joy may stand",
+       "consequence": "B is the default, and a standing warm pair (R70-114) may have a scene that is only pleasure and warmth, its consequence small: a habit, a mark, a witness."
+      }
+     ],
+     "recommended": "C",
+     "rec_reason": "It keeps Nin's rule as the default, so every scene reveals someone, and honours the warm bond you asked every thread to carry, which a bed made only of cost would starve.",
+     "multi": false,
+     "depends_on": [],
+     "rules_touched": [
+      "R70-114-GRIMDARK_WARMTH"
+     ]
+    },
+    {
+     "id": "K2",
+     "title": "On the page or cut",
+     "question": "May an explicit scene ever cut away before the act, to the morning or the next scene?",
+     "context": "Rule 9 says how an explicit scene is written, not whether one may cut; R70-17 lets a scene 'break off a breath before its emotional point'. Genji (the Heian court novel, Japan's classical era) skips every night between arrival and the morning poem. The floor bars 'a silent stall', and no archived scene has yet gone past the threshold.",
+     "options": [
+      {
+       "key": "A",
+       "label": "Always on the page",
+       "consequence": "Any sex that happens inside a scene is written explicitly, start to finish, with no cut and no fade; the aftermath follows on the page.",
+       "sample": "Chiyo set the lamp on the floor and knelt astride Rokuro on the quilts. His cock stood hard against her belly until she took it in her hand and sank down onto it, wet enough that it went in to the root on one slow breath. Frost furred the inside of the shutter. She rode him slowly with her palms flat on his chest, and he held her hips and let her set the pace. Each time she came down, the lamp flame leaned and righted."
+      },
+      {
+       "key": "B",
+       "label": "Cut as a named choice",
+       "consequence": "On the page by default. A written chapter may break off before the act under R70-17 when its point lies elsewhere, named in the author notes, and the next scene owes it; roleplay never cuts.",
+       "sample": "Chiyo set the lamp on the floor and knelt astride Rokuro on the quilts, and drew his hands to her hips.\n\nBy the hinge of the day the lamp had drowned in its own oil. She woke cold on one side and warm on the other, his arm heavy across her ribs, and lay listening to the house make the Bow without her: cloth moving fourteen times in the next room, and no voice. Her thighs ached. She left his arm where it was."
+      },
+      {
+       "key": "C",
+       "label": "Cut keyed to culture",
+       "consequence": "A Moto or courtly POV may skip the act the Genji way, the night a gap between arrival and the morning poem; a blunt culture's POV always writes it.",
+       "sample": "Chiyo set the lamp on the floor and knelt astride Rokuro on the quilts, and drew his hands to her hips.\n\nHe was gone before the house made the Bow. His note came under her door folded small, a pine needle through the fold, in the plain hand retainers keep for the house:\n\n> The frost on your shutter\n> has my breath in it.\n\nShe read it twice, and wrote her answer before she put up her hair."
+      }
+     ],
+     "recommended": "B",
+     "rec_reason": "You write explicit fiction and the floor bars a flinch, so the page is the default; but R70-17's break-off is your own law, a book needs the occasional cut, and the author note keeps each one honest.",
+     "multi": false,
+     "depends_on": [],
+     "rules_touched": [
+      "R70-17-CLOSING_MODES",
+      "R70-133-EASTERN_TECHNIQUES_BESIDE_CLINICAL"
+     ]
+    },
+    {
+     "id": "K3",
+     "title": "Which strand leads in bed",
+     "question": "Inside an explicit scene, which strand of the blend leads the body, and which leads the feeling?",
+     "context": "R70-3 gives the Western strand 'combat, injury and dialogue' and the Eastern 'narration, interiority and structure'; for fights you chose 'Western body, Eastern read' (R71-1). R49-51 keeps the words plain and R70-134 keys the Eastern techniques to the POV. This says which strand carries the act itself.",
+     "options": [
+      {
+       "key": "A",
+       "label": "Western body, Eastern feeling",
+       "consequence": "The act is written like a wound: anatomy, position and sensation exact. Desire, the unsaid and the scene's shape run Eastern: the held image, the stillness, the break.",
+       "sample": "Hrefna pulled Bjarki down onto the hides by his belt and opened her legs for him, and he pushed his cock into her in one long stroke that drove the breath out of her. She was slick and hot round him. Her heels dug into the backs of his thighs. He fucked her hard and steady, his weight on his forearms either side of her head, while she gripped the hide in both fists. She kept her eyes on the woodpile through the open door, squared to the eaves, and came with her mouth shut."
+      },
+      {
+       "key": "B",
+       "label": "Eastern leads, words kept",
+       "consequence": "Structure, tempo and image lead the whole scene, jo-ha-kyū (slow, breaking, swift) from first touch to peak; the plain words land inside that shape, fewer and heavier.",
+       "sample": "The lamp had burned low before either of them moved. Hrefna lay on the hides and watched frost climb the doorpost. When Bjarki came to her at last she drew him in slowly, his cock thick and hot inside her, and they lay joined and still while the lamp spat twice. Then the stillness broke. He drove into her hard and fast, the hides sliding under them, and at the end she held the woodpile in her eye, squared to the eaves, and came with her mouth shut."
+      },
+      {
+       "key": "C",
+       "label": "Western leads it all",
+       "consequence": "Blunt, physical and continuous from first touch to aftermath in every POV; the R70-133 techniques appear only at the peak and the close.",
+       "sample": "Hrefna pulled Bjarki down onto the hides by his belt and opened her legs for him. He pushed his cock into her in one stroke, and she grunted and grabbed his arse in both hands to pull him deeper. The hides creaked and slapped wet under them, and her heels drummed on the backs of his thighs. He fucked her hard. She bit his shoulder through the shirt, swore by the fire, and came clenching round him, and he came three strokes later with his face in her hair."
+      }
+     ],
+     "recommended": "A",
+     "rec_reason": "It moves your fight answer into the bed: R49-51's bluntness stays on the body, and the R70-133 techniques get the feeling, where they do their best work.",
+     "multi": false,
+     "depends_on": [],
+     "rules_touched": [
+      "R70-3-STRAND_LEADS_LAYER",
+      "R49-51-EXPLICIT",
+      "R70-134-KEYED_CULTURE_FREE",
+      "R71-1-WHERE_LINE_FALLS_FIGHT"
+     ]
+    },
+    {
+     "id": "K4",
+     "title": "When the first time comes",
+     "question": "Across a thread, when does a pair's first explicit scene arrive, and how do later ones differ?",
+     "context": "No law sets the pace, and every archived pair stops at the threshold. Romantasy (fantasy romance) runs the slow burn, desire delayed across many near-misses; Nin and dark romance open with the act and let the bond grow after. R70-51 already has each scene 'recur, and add one' new thing.",
+     "options": [
+      {
+       "key": "A",
+       "label": "Slow burn by default",
+       "consequence": "A pair's first explicit scene comes only after several scenes of near-miss, each entered on the Ledger as a debt; the first time runs as a set piece."
+      },
+      {
+       "key": "B",
+       "label": "When the people would",
+       "consequence": "No pacing rule: NPCs act on their wants and refusal lines, so sex may come first and the bond after, or never. Table Rule 3 decides."
+      },
+      {
+       "key": "C",
+       "label": "B, plus a set piece",
+       "consequence": "As B, and the first explicit scene between two carded characters runs at set-piece standard (5,000 words and up, full scene standards); each later scene adds one new thing (R70-51)."
+      }
+     ],
+     "recommended": "C",
+     "rec_reason": "NPC agency is the table's engine, so a fixed slow burn would make every lover coy on schedule; a set piece for the first time between carded characters gives that night its weight.",
+     "multi": false,
+     "depends_on": [],
+     "rules_touched": [
+      "R48-46-WORD_FLOOR",
+      "R70-51-REPETITION_AGAINST_NOVELTY"
+     ]
+    },
+    {
+     "id": "K5",
+     "title": "The lover's desire and refusal",
+     "question": "Where does a lover's own desire and refusal line live, and what does it hold?",
+     "context": "Rule 9 gives the NPC 'their own desire and refusal line' and the right to change their mind. The roster's refusal_line is professional on all ten rows, and no card or roster row has a desire field. Your fair-play line asks that a change of mind have a cause a player could find.",
+     "options": [
+      {
+       "key": "A",
+       "label": "Refusal line covers it",
+       "consequence": "No new field: the existing refusal line on card and roster reaches the bed, desire is shown in play, and either is logged only when it matters."
+      },
+      {
+       "key": "B",
+       "label": "Desire and refusal fields",
+       "consequence": "Every card and roster row for anyone who may share a bed gains two fields: what they want in bed, and what they will not do."
+      },
+      {
+       "key": "C",
+       "label": "Desire, refusal, and the hinge",
+       "consequence": "As B, plus a third field: what would change their mind, either way. Rule 9's change of mind then has a planted cause a player can find."
+      }
+     ],
+     "recommended": "C",
+     "rec_reason": "It turns 'can change their mind' from a coin toss into a findable hinge, the same fairness the combat law built into every tell.",
+     "multi": false,
+     "depends_on": [],
+     "rules_touched": [
+      "R52-02-VOICE_LEVER",
+      "R48-30-SURPRISES"
+     ]
+    },
+    {
+     "id": "K6",
+     "title": "What the Ledger keeps",
+     "question": "After an intimate scene, which consequences go on the Ledger and persist?",
+     "context": "Table Rule 7's Ledger keeps 'injuries, exhaustion, reserve, debts, reputation, who saw what'. Rule 9 owes a consequence, yet no intimate act has ever been entered. Contraception, pregnancy and the pox (syphilis) appear nowhere in the law; R53-10 and R71-79 keep medicine true to place and purse.",
+     "options": [
+      {
+       "key": "A",
+       "label": "Debts and promises",
+       "consequence": "Whatever was promised, owed, bargained or betrayed in bed is entered and comes due like any other debt."
+      },
+      {
+       "key": "B",
+       "label": "Witnesses and reputation",
+       "consequence": "Who heard, who saw, who will talk: gossip, scandal and a rival's leverage, entered as who-saw-what, and able to open a Front."
+      },
+      {
+       "key": "C",
+       "label": "The body and its bill",
+       "consequence": "Marks, soreness, pregnancy and the pox are live, met by the period means each place and purse affords (sheath, sponge, poisonous herbs, mercury); a pregnancy runs in real time."
+      },
+      {
+       "key": "D",
+       "label": "What was learned",
+       "consequence": "A secret told, a scar seen, a weakness found in bed is entered as knowledge the other now holds, and may use."
+      }
+     ],
+     "recommended": "A,B,C,D",
+     "rec_reason": "Each is a cost the world can collect, which keeps intimacy grimdark instead of free, and together they make every bed a place the plot can move.",
+     "multi": true,
+     "depends_on": [],
+     "rules_touched": [
+      "R53-10-MEDICINE",
+      "R71-79-MEDICINE_PLACE_PURSE"
+     ]
+    }
+   ]
+  },
+  {
+   "key": "SC",
+   "title": "The explicit scene",
+   "intro": "How the explicit scene reads line by line, how dark material is handled, and how a live turn works with your character in the bed.",
+   "questions": [
+    {
+     "id": "SC1",
+     "title": "The words, by culture",
+     "question": "Are the plain words for the body one crude English in every POV, or does each culture carry its own?",
+     "context": "R49-51 fixes 'working-man anatomical words' and R70-134 keys technique to the POV's culture, but no Inventory holds a single word for sex. Victorian erotica (The Pearl, My Secret Life) had its own blunt stock: prick, quim, frig. You gave every culture a word bank (VB10) and own-tongue swearing in narration (VB11).",
+     "options": [
+      {
+       "key": "A",
+       "label": "One crude English",
+       "consequence": "Every POV uses the same plain crude stock (cock, cunt, arse, fuck); the culture's dial bends syntax and image only.",
+       "sample": "Prue hitched her skirts to her waist, sat her lodger down on the edge of the bed and straddled him. His cock was hard in her fist. She rubbed the head of it along her cunt until it was wet, then sank onto him and stayed there, full, while the draw-hum ran under the floorboards. He put his face between her breasts. She rode him slowly and made him wait, the way a good house makes a debtor wait."
+      },
+      {
+       "key": "B",
+       "label": "A bed-words bank each",
+       "consequence": "Each Inventory's Words entry gains the culture's own blunt words for the body and the act: period English for the Accord, native words for Kharven and Dawi. Never a euphemism.",
+       "sample": "Prue hitched her skirts to her waist, sat her lodger down on the edge of the bed and straddled him. His prick stood stiff in her fist. She rubbed the knob of it along her quim until she was wet through, then sank onto him and stayed there, full, while the draw-hum ran under the floorboards. He put his face between her bubbies. She rode him slowly and made him wait, the way a good house makes a debtor wait."
+      },
+      {
+       "key": "C",
+       "label": "Crude English, native in mouths",
+       "consequence": "Narration keeps one crude English; each culture's own words for the body arrive in speech and italic thought, as its swears do.",
+       "sample": "Prue hitched her skirts to her waist, sat her lodger down on the edge of the bed and straddled him. His cock was hard in her fist. She rubbed the head of it along her cunt until it was wet, then sank onto him and stayed there, full.\n\n\"There's a stiff prick paid up to the quarter,\" she said into his ear. \"Frig me with your thumb, Mister Hobday, or I call in the debt.\""
+      }
+     ],
+     "recommended": "B",
+     "rec_reason": "It matches the word bank and own-tongue swearing you already chose, keeps two cultures distinct in bed as R70-134 wants, and the no-euphemism clause holds R49-51 whole.",
+     "multi": false,
+     "depends_on": [],
+     "rules_touched": [
+      "R49-51-EXPLICIT",
+      "R70-134-KEYED_CULTURE_FREE",
+      "R70-27-ANTIQUE_NARRATION_RUNS",
+      "R51-02-CLOSE_POV_SWEARS"
+     ]
+    },
+    {
+     "id": "SC2",
+     "title": "How long it runs",
+     "question": "In a written scene or chapter, how long does an explicit scene run?",
+     "context": "Set pieces run 5,000 words and up (R48-46) and R1-3 counts a fight's aftermath inside its floor. Explicit scenes have no band of their own; the archive's nearest page goes from kiss to bare skin in about ninety words.",
+     "options": [
+      {
+       "key": "A",
+       "label": "Always a set piece",
+       "consequence": "Every explicit scene runs at set-piece standard, 5,000 words and up, with the aftermath counted inside the floor as R1-3 counts a fight's."
+      },
+      {
+       "key": "B",
+       "label": "By weight",
+       "consequence": "A first time, a turning point or a dark scene runs as a set piece; a returning pair's night inside a chapter runs on that chapter's length, the aftermath always written."
+      },
+      {
+       "key": "C",
+       "label": "Short and hot",
+       "consequence": "The act itself is a short, dense passage inside a longer scene; the length lives in what comes before and after."
+      }
+     ],
+     "recommended": "B",
+     "rec_reason": "It gives the scenes that change things full room and keeps a married couple's ordinary night from swelling a chapter; it also fits K4's first-time set piece.",
+     "multi": false,
+     "depends_on": [
+      "K4"
+     ],
+     "rules_touched": [
+      "R48-46-WORD_FLOOR",
+      "R1-3-WORD_FLOOR_INCLUDES_AFTERMATH"
+     ]
+    },
+    {
+     "id": "SC3",
+     "title": "Tracking the bodies",
+     "question": "How closely does the page track where the bodies are?",
+     "context": "Rule 9 says 'positions tracked'; the roleplay skill reads 'every movement', the writing pipeline 'every significant movement'. For fights you fixed bodies 'at the deciders' and let a scramble blur (R71-12). Shunga (Edo-period Japanese erotic prints) frames each pose so plainly the eye never loses whose limb is whose.",
+     "options": [
+      {
+       "key": "A",
+       "label": "Every movement",
+       "consequence": "Each shift of weight, hand, hip and leg is on the page as it happens; a reader could draw the scene at any line.",
+       "sample": "Signy rolled off him onto her knees on the hides, elbows down, and Kaare came up behind her. He set his left hand on her hip and his right on the small of her back, fitted the head of his cock to her and pushed in. Her knees slid a hand's width apart on the hide. She braced her right palm on the end of the woodpile and pushed back onto him, and he moved his grip from her back to her shoulder and pulled her onto him."
+      },
+      {
+       "key": "B",
+       "label": "Fixed at each new pose",
+       "consequence": "Each new arrangement is fixed in one clear sentence as it forms; between poses, sensation leads and the geometry may blur. This settles the two skills' wording.",
+       "sample": "Signy rolled off him onto her knees on the hides, elbows down, and Kaare took her from behind with one hand on her hip. After that there was the heat of him, and the slap of it, and the smell of seal fat and sweat and her own wetness thick in the cold air. The hide burned her knees. She pushed back to meet him, harder, until he swore by the fire and caught her by the hair."
+      },
+      {
+       "key": "C",
+       "label": "Opening and peak only",
+       "consequence": "The bodies are placed when the act begins and again at the peak; in between the page follows sensation and speech.",
+       "sample": "When they began, Signy lay on her back on the hides with Kaare between her thighs. After that there was the heat of him, and the slap of it, and the smell of seal fat and sweat and her own wetness thick in the cold air. She swore at him. She laughed. At the end she was on her knees with her face in the hide and his hand fisted in her hair, and could not have said how she got there."
+      }
+     ],
+     "recommended": "B",
+     "rec_reason": "It is your combat answer moved to the bed: the reader is never lost at a turn, yet the middle can run on sensation.",
+     "multi": false,
+     "depends_on": [],
+     "rules_touched": [
+      "R71-12-KEEPING_SPACE_TRACKABLE"
+     ]
+    },
+    {
+     "id": "SC4",
+     "title": "Which sense leads",
+     "question": "In an explicit scene, which sense leads the layering?",
+     "context": "Rule 9 asks for 'arousal scents layered'; R51-31 draws a scene's senses from its culture's bank first; R70-55 runs a first sight in the order this POV would look, and a scenting POV reads by smell (R71-63). Tanizaki builds desire from shadow and texture; Victorian erotica from touch and sight.",
+     "options": [
+      {
+       "key": "A",
+       "label": "Touch leads",
+       "consequence": "Heat, wet, weight, grip and texture carry each beat first; smell and sound layer on top.",
+       "sample": "Isao's palms were cold and his cock was hot, and both reached Kozue at once as he pushed into her: the chill of his hands closing on her waist, the thick heat sliding in until his hips met hers. The quilt was rough silk under her shoulders. His weight settled on her. After that came the smell of him, lamp oil and the iron in his coat seams, and her own musk rising between them, and the small wet sound each time he drew back."
+      },
+      {
+       "key": "B",
+       "label": "Smell leads",
+       "consequence": "Rule 9's arousal scents open each beat, then touch, then sound; the bed is smelled before it is felt.",
+       "sample": "The room smelled of lamp oil and the iron in his coat seams, and under that of her own musk, sharp and salt, rising off the quilt where Kozue had lain wet and waiting. Then Isao pushed into her. His palms were cold on her waist and his cock was hot, the thick heat sliding in until his hips met hers, and the wet sound of it was very loud in the cold room."
+      },
+      {
+       "key": "C",
+       "label": "The POV's own order",
+       "consequence": "The POV's body and trade decide: a beastkin nose first, a Moto eye first, a sealer's hands first. Rule 9's scents still appear in every scene.",
+       "sample": "Kozue watched the lamp on him first. It gilded the sweat along his collarbone and left his face in shadow, and when Isao lowered himself she watched his cock go into her, dark against the pale of her thigh, until his hips met hers and the shadow took them both. Then the heat of him reached her, and the cold of his palms on her waist, and her own musk, salt and sharp, rising off the quilt."
+      }
+     ],
+     "recommended": "C",
+     "rec_reason": "It is the R70-55 order you chose for first sight, applied to desire, so a fox-kin lover and a Kharven rider never read the same bed the same way.",
+     "multi": false,
+     "depends_on": [],
+     "rules_touched": [
+      "R51-31-SENSE_BANK",
+      "R70-55-ORDER_FIRST_INVENTORY",
+      "R71-63-BEASTKIN_SENSES_FOX_FIRE"
+     ]
+    },
+    {
+     "id": "SC5",
+     "title": "Talk in bed",
+     "question": "How much talk does an explicit scene carry, and what kind?",
+     "context": "R52-02 builds a voice from what a person notices, wants and refuses, and a scene fails if two people's lines could be swapped; for fights you made talk 'a weapon' (R71-22). Shunga's margin text carries the lovers' banter, while Réage's Story of O (1954) is nearly silent. The archive's lovers almost never say desire aloud.",
+     "options": [
+      {
+       "key": "A",
+       "label": "Few lines, each loaded",
+       "consequence": "A handful of lines a scene, each a want, a refusal, a bargain or a lie; silence carries the rest.",
+       "sample": "Jessamy rode him with her hands braced on the iron bedstead and her hair coming down. Piers reached for her breast, and she caught his wrist and put it back on the sheet.\n\n\"Earn it,\" she said.\n\nHe did not try again. She ground down on his cock in long slow rolls until his breath went ragged and his heels dug at the mattress, and then she took his hand herself and set it where she wanted it."
+      },
+      {
+       "key": "B",
+       "label": "Full voice, talk as play",
+       "consequence": "Each partner talks in bed the way their card talks out of it, crude, teasing, bargaining or tender, and the talk is part of the act.",
+       "sample": "Jessamy rode him with her hands braced on the iron bedstead and her hair coming down. Piers reached for her breast, and she caught his wrist.\n\n\"That's Board property, that is. Sealed and entered.\"\n\n\"I'll pay the fee.\"\n\n\"You'll pay the arrears first.\" She ground down on his cock until he groaned. \"Hear that? That's interest.\" She let go. \"Go on, then. Touch it like you're signing for it.\""
+      },
+      {
+       "key": "C",
+       "label": "Talk only after",
+       "consequence": "Bodies speak during the act; words come in the aftermath, where nobody says what the act meant (R2-5).",
+       "sample": "Jessamy rode him with her hands braced on the iron bedstead and her hair coming down. Piers reached for her breast, and she caught his wrist and put it back on the sheet. Neither spoke. She ground down on his cock in long slow rolls until his breath went ragged, and set his hand where she wanted it herself.\n\nAfterward, with the draw-hum loud in the dark, he said, \"You never let a man reach.\"\n\n\"No,\" she said, and turned on her side."
+      }
+     ],
+     "recommended": "B",
+     "rec_reason": "Your voice test fails any scene where lines could be swapped, and a silent bed swaps easily; 'crude where crude fits' is the table's own voice line.",
+     "multi": false,
+     "depends_on": [],
+     "rules_touched": [
+      "R52-02-VOICE_LEVER",
+      "R71-22-TALK_INSIDE_FIGHT",
+      "R48-12-PROFANITY"
+     ]
+    },
+    {
+     "id": "SC6",
+     "title": "Laughter in bed",
+     "question": "May an explicit scene be funny while it is happening?",
+     "context": "R70-113 gives full comic beats only to comic voices named on their cards, and R5-D bars the setup, deadpan and reaction rhythm for everyone else; R48-11 wants humour 'wherever it's earned'. Shunga were also called warai-e, laughing pictures. Every bed in the archive is solemn.",
+     "options": [
+      {
+       "key": "A",
+       "label": "Comic voices only",
+       "consequence": "R70-113 holds in bed as anywhere: only carded comic voices get comic beats, and other lovers stay serious through the act.",
+       "sample": "Bjarki's hands were cold from the woodpile, and when he slid them up under her shirt Hrefna hissed and arched off the hides. He kept them there. He cupped her breasts and held them until the cold went out of his palms and into her, and her nipples stood hard against his thumbs, and she pulled him down by the belt and opened her legs."
+      },
+      {
+       "key": "B",
+       "label": "Lovers may laugh",
+       "consequence": "Any pair may laugh at a fumble, a cold hand or a creaking bed inside the act, as people do; it arrives inside the scene and never stops it (R5-D).",
+       "sample": "Bjarki's hands were cold from the woodpile, and when he slid them up under her shirt Hrefna yelped and kneed him in the ribs.\n\n\"Frozen piss, man. Warm them first.\"\n\nHe tucked both hands into his armpits and knelt over her with his cock standing out of his breeches, waiting with great dignity, and she laughed until the hides slid. Then she pulled him down by the belt and opened her legs."
+      },
+      {
+       "key": "C",
+       "label": "Never during the act",
+       "consequence": "Laughter may come before or after; while the act runs, the register holds.",
+       "sample": "Bjarki's hands were cold from the woodpile, and when he slid them up under her shirt Hrefna yelped and kneed him in the ribs. Neither of them laughed. She pulled him down by the belt and opened her legs, and later, lying in the hides with his seed cooling on her thigh, she told him about his hands and laughed until she coughed."
+      }
+     ],
+     "recommended": "B",
+     "rec_reason": "Laughter between lovers is warmth, which R70-114 asks every thread to carry, and R5-D's rhythm ban already keeps it from turning into a sketch.",
+     "multi": false,
+     "depends_on": [],
+     "rules_touched": [
+      "R70-113-DOUBLE_ACT_COMIC_BEAT",
+      "R5-D-HUMOUR_BARRED",
+      "R48-11-HUMOUR",
+      "R70-114-GRIMDARK_WARMTH"
+     ]
+    },
+    {
+     "id": "SC7",
+     "title": "Stage gaps and readouts in bed",
+     "question": "When lovers stand at different Stages, how does the gap show, and may a readout appear?",
+     "context": "Pressure (the felt weight of a higher Stage) shows 'in the room first' (R70-69); two Stages up brings sweat and nausea, and holding it in costs the holder's body (R71-43). You chose full LitRPG with screens (R70-2); readouts come on appraisal, a wound or Essence spent. No rule covers lovers, and no figure is invented (R12-5).",
+     "options": [
+      {
+       "key": "A",
+       "label": "Felt, never printed",
+       "consequence": "The gap shows in the room and the body: the lamp leaning, the lower partner's sweat, the higher one's jaw aching from holding it in. No readout; figures stay in the Stat Ledger.",
+       "sample": "Gyeol held it in from the first kiss. His wife stood at Stage II, Welling, two Stages under him, and if he let go the room would tell her before he could. The lamp flame stood straight. He kept it straight. Seo-yeon rode him with her palms flat on his chest, slick and hot round his cock, her thighs trembling, and his jaw ached from hinge to ear with the work of being small. When she came, the flame leaned once toward the bed. He caught it."
+      },
+      {
+       "key": "B",
+       "label": "One readout at the close",
+       "consequence": "As A, and one readout may close the scene when Essence was spent (a suppression held all night, a working used), in the clinical voice. It never reads a feeling.",
+       "sample": "Gyeol held it in from the first kiss. His wife stood at Stage II, Welling, two Stages under him, and if he let go the room would tell her first. Seo-yeon rode him with her palms flat on his chest, slick and hot round his cock, and his jaw ached from hinge to ear with the work of being small. When she came, the lamp flame leaned once toward the bed, and he caught it.\n\n[Suppression held: the night. Essence spent: entered in the Stat Ledger. Remark: the lamp survived.]"
+      },
+      {
+       "key": "C",
+       "label": "Gaps stay out of bed",
+       "consequence": "Lovers of any Stage meet as bodies; Pressure and workings enter an explicit scene only when the scene is about them.",
+       "sample": "Seo-yeon rode him with her palms flat on his chest and her thighs trembling, slick and hot round his cock, and Gyeol held her hips and let her take what she wanted. The lamp burned on the chest by the bed. Her hair stuck to her neck. When she came she bit her own wrist to keep the house asleep, and he followed a few strokes after with his heels dug into the mat."
+      }
+     ],
+     "recommended": "B",
+     "rec_reason": "Your LitRPG choice wants a screen where something is spent, and a suppression held through a night is a real cost; barring feelings from the readout keeps the read yours.",
+     "multi": false,
+     "depends_on": [],
+     "rules_touched": [
+      "R70-69-PRESSURE_AURA",
+      "R71-43-SUPPRESSION_PAGE",
+      "R70-2-LITRPG_WOTR_BECOMES",
+      "R70-80-READOUT_SITS_PAGE",
+      "R12-5-NEVER_INVENT_NUMBER"
+     ]
+    },
+    {
+     "id": "SC8",
+     "title": "Power games, framed",
+     "question": "When lovers play at power (binding, command, pain by agreement), how is the game framed in the world?",
+     "context": "Modern kink frames it with a safeword (an agreed stop-word) and aftercare (care after a hard scene), modern words legal only in speech (R48-13). Carey's Kushiel's Dart gives its courtesans a signale, a stop-word with legal force. WOTR's cultures already run on sealed terms, words given in form and oaths before witnesses.",
+     "options": [
+      {
+       "key": "A",
+       "label": "Between the two only",
+       "consequence": "Terms are agreed privately, a word or a token, shown once in the scene; no culture has an institution for it.",
+       "sample": "Lettice looped the curtain cord twice round his wrists and knotted it to the bedstead, and sat back on her heels to look at him.\n\n\"Say it,\" she said.\n\n\"Brass,\" said Edwin. They had chosen it because nobody says brass in bed by accident.\n\n\"And if you say it?\"\n\n\"You stop.\"\n\nShe nodded, and took the strop off the washstand."
+      },
+      {
+       "key": "B",
+       "label": "By each culture's form",
+       "consequence": "The Accord seals terms on paper, the Moto enter a word in form, Kharven takes a word before witnesses; the stop-word carries that culture's weight, and breaking it is a crime there.",
+       "sample": "Lettice set the paper on the washstand beside the strop: three clauses in a clerk's fair hand, the stop-word written out in full, both their marks under it and a blot of green wax. Edwin had read it twice. Under the Accord a sealed term held, and a woman who strapped a man past his word could be taken before the assize. She looped the curtain cord round his wrists and knotted it to the bedstead.\n\n\"Brass,\" he said, to hear it.\n\n\"Entered,\" said Lettice."
+      },
+      {
+       "key": "C",
+       "label": "Unframed, played straight",
+       "consequence": "The game runs with no negotiation on the page; the terms are implied by who the people are, and Rule 9's refusal line is the only brake.",
+       "sample": "Lettice looped the curtain cord twice round his wrists and knotted it to the bedstead without a word, and Edwin let her. He was her landlord, and owned the bed she tied him to. She took the strop off the washstand and laid it across his thighs, cold leather on bare skin, and watched his cock stir against his belly at the weight of it, and smiled for the first time that evening."
+      }
+     ],
+     "recommended": "B",
+     "rec_reason": "It makes the game part of the world, paper and wax in the Accord and the given word in the north, and puts a real bill on breaking it.",
+     "multi": false,
+     "depends_on": [],
+     "rules_touched": [
+      "R48-13-PERIOD_FEEL",
+      "R70-37-MODERN_IDIOM_THOUGHT"
+     ]
+    },
+    {
+     "id": "SC9",
+     "title": "Consent on the page",
+     "question": "How does consent show in an explicit scene: in words, in the body, or both?",
+     "context": "Rule 9 gives the partner a refusal line and the right to change their mind, and the Winter Eladrin show it in three channels: 'approach is agreement', a half-step back objects, turning in place refuses (R24-2). R51-04 bars 'boundaries' from narration, so the narrator never talks like a manual. The archive's best tell is a body that refuses before the voice.",
+     "options": [
+      {
+       "key": "A",
+       "label": "Asked and answered",
+       "consequence": "Consent is spoken, in the speaker's own register, at the start and at each new act; the narration never glosses it.",
+       "sample": "Rokuro turned her by the hip, and stopped with his hand there.\n\n\"Like this?\" he said. \"Or is that a thing you do not do?\"\n\n\"I do it,\" Chiyo said. \"Slowly. If I say the house's word, you stop.\"\n\n\"Which word?\"\n\n\"Incorrect.\"\n\nHe laughed once into her shoulder, and she let him lay her face down on the quilt."
+      },
+      {
+       "key": "B",
+       "label": "In the body",
+       "consequence": "Consent shows in approach, stillness, a hand moved away, a hip that follows; speech is optional, and a refusal in the body stops the act like a spoken one.",
+       "sample": "Rokuro turned her by the hip, and stopped with his hand there. Chiyo lay still for a breath. Then she drew her knees under her and lowered her shoulders to the quilt, and her hair slid forward over her face. He laid his palm flat between her shoulder blades. She pushed back against his thigh, once, to say yes, and he fitted himself to her slowly."
+      },
+      {
+       "key": "C",
+       "label": "Both, read together",
+       "consequence": "Words and body both carry it. A refusal in either channel is a refusal; where the two disagree the scene has become dubcon (dubious consent) and is written as dubcon (SC11).",
+       "sample": "Rokuro turned her by the hip, and stopped with his hand there.\n\n\"Yes,\" Chiyo said.\n\nShe did not move. Her hand had closed on the quilt's edge, and the knuckles stood white. Rokuro took his hand from her hip and lay down facing her instead, and waited until she reached for him. When she did, she drew him on top of her the old way, and held his eyes the whole time."
+      }
+     ],
+     "recommended": "C",
+     "rec_reason": "It uses the archive's best device, the body that answers before the mouth, and gives dubcon a clean trigger in the scene instead of a narrator's verdict.",
+     "multi": false,
+     "depends_on": [],
+     "rules_touched": [
+      "R24-2-ELADRIN_THREE_CHANNELS",
+      "R51-04-LIST_PSYCH"
+     ]
+    },
+    {
+     "id": "SC10",
+     "title": "Workings on desire",
+     "question": "May a working, Pressure or a Draft create desire or bend consent on the page?",
+     "context": "Canon already lets magic cut across consent: a Sacrament anchor holds 'regardless of whether the anchor consents' (R29-1), and Obsession Force (the Fracture of Worlds law of possessive fixation) steered a queen into marriage in the Kujo arc. Your fair-play line wants every ability to carry a tell and a counter a player can find.",
+     "options": [
+      {
+       "key": "A",
+       "label": "Compliance, never desire",
+       "consequence": "Pressure, a Draft or a working can bend a body to stillness or compliance, but desire stays the person's own; any scene under one is dubcon or non-con by definition."
+      },
+      {
+       "key": "B",
+       "label": "Desire, with tell and counter",
+       "consequence": "An Obsession or Attraction working, a charm or a Draft may make someone want; it shows a tell, has a findable counter, costs its user, and the aftermath knows it was made."
+      },
+      {
+       "key": "C",
+       "label": "Barred from the bed",
+       "consequence": "No working, Draft or Pressure touches desire or consent; magic stays out of intimacy entirely."
+      }
+     ],
+     "recommended": "B",
+     "rec_reason": "Canon has already done it (the Kujo arc, R29-1), and B holds it to the fairness every other ability meets: a tell, a counter, a cost and a reckoning after.",
+     "multi": false,
+     "depends_on": [],
+     "rules_touched": [
+      "R29-1-SACRAMENT_BOND_ANCHOR_BY_DECLARATION",
+      "R25-1-OBSESSION_SATISFIES_ATTRACTION_GATE",
+      "R71-76-FORMULA_OWN_FAILURE"
+     ]
+    },
+    {
+     "id": "SC11",
+     "title": "The body under coercion",
+     "question": "In a dubcon or non-con scene, may the victim's body respond with arousal on the page, and how is it framed?",
+     "context": "Rule 9 writes dubcon and non-con (no consent at all) 'with the same specificity'. Arousal non-concordance (genital response and felt desire running apart; Chivers, Nagoski) and tonic immobility (freezing under threat) are real, and the old bodice-ripper used that response as proof of wanting. The narrator never adjudicates (R5-E).",
+     "options": [
+      {
+       "key": "A",
+       "label": "Fear only",
+       "consequence": "Under coercion the body shows fear and shutdown only (freezing, nausea, a held object); no arousal is written.",
+       "sample": "Hrefna split rounds until the light went, because the stack was low and the axe asked nothing of her. Twice she stood with the blade raised and could not bring it down. The night came back in pieces: his weight, her arms gone to lead, the blubber lamp guttering on the shelf and her eyes fixed on it, counting its spits, while the rest of her went far away and cold."
+      },
+      {
+       "key": "B",
+       "label": "Shown, known as reflex",
+       "consequence": "Arousal may be written, and the POV knows it for the body's reflex, apart from her will; she carries that knowledge into the aftermath.",
+       "sample": "Hrefna split rounds until the light went, because the stack was low and the axe asked nothing of her. Twice she stood with the blade raised and could not bring it down. The night came back in pieces: his weight, her arms gone to lead, and her own cunt gone slick under him as if it belonged to some other woman. She knew what that was. A struck knee kicks. Wet wood, her mother would have said of a liar, and her body had lied."
+      },
+      {
+       "key": "C",
+       "label": "Shown, left unread",
+       "consequence": "Arousal may be written and nobody names what it means; the reader decides, and the ambiguity is the scene's weight.",
+       "sample": "Hrefna split rounds until the light went, because the stack was low and the axe asked nothing of her. Twice she stood with the blade raised and could not bring it down. The night came back in pieces: his weight, her arms gone to lead, and her own cunt gone slick under him. She split another round. At the door her neighbour asked how her stack was, and she said full, and went in to sit by the night-stone with her back to the wall."
+      }
+     ],
+     "recommended": "B",
+     "rec_reason": "It writes the truth of the body at Rule 9's specificity while keeping the bodice-ripper's lie out, and the knowledge is the aftermath's sharpest edge.",
+     "multi": false,
+     "depends_on": [],
+     "rules_touched": [
+      "R5-E-FREE_INDIRECT_CARVEOUT",
+      "R71-17-FEAR_BODY"
+     ]
+    },
+    {
+     "id": "SC12",
+     "title": "Carrying it forward",
+     "question": "After a non-con or coerced scene, how does it carry into later scenes?",
+     "context": "Rule 9 never skips the aftermath, and R70-115 lets restraint break 'at a small, unexpected thing'. Judith Herman's Trauma and Recovery (1992) maps recovery as safety, remembrance, then reconnection. Much dark fiction drops the matter after a chapter; grimdark sends a bill to the world: feud, pregnancy, scandal, blood-debt.",
+     "options": [
+      {
+       "key": "A",
+       "label": "In the body and habit",
+       "consequence": "The survivor's later scenes carry it physically (the startle, sleep that will not come, the seat with its back to the wall) until the thread resolves it."
+      },
+      {
+       "key": "B",
+       "label": "The bill reaches the world",
+       "consequence": "The act opens or advances a Front: feud, blood-debt, pregnancy, scandal or a case at law; the perpetrator's own account is a lie in his mouth (Rule 8)."
+      },
+      {
+       "key": "C",
+       "label": "Recovery logged in stages",
+       "consequence": "The Ledger tracks where the survivor stands (safe, remembering, reconnecting) so each scene knows what she can bear; the stages are never named on the page."
+      }
+     ],
+     "recommended": "A,B",
+     "rec_reason": "Both are WOTR's own method, cost in the body and a bill in the world; C's stages are a therapist's map and would make the Ledger read like a case file.",
+     "multi": true,
+     "depends_on": [],
+     "rules_touched": [
+      "R70-115-TEARS_SENTIMENT",
+      "R48-42-LIES"
+     ]
+    },
+    {
+     "id": "SC13",
+     "title": "The aftermath beat",
+     "question": "What shape does the aftermath of an explicit scene take on the page?",
+     "context": "Rule 9: 'aftermath never skipped'. For fights you chose 'procedure as craft' (R71-21), and R2-5 rules that after a Single Act nobody says what it meant; the change shows 'in how they handle the bucket'. The archive's best aftermaths are care for small things: a coat mended, a pulse counted again.",
+     "options": [
+      {
+       "key": "A",
+       "label": "Procedure, meaning unsaid",
+       "consequence": "The aftermath is the small work after (washing, the fire fed, clothes found, the door), and neither partner says what it meant; the change shows in how they do it.",
+       "sample": "Afterward Hrefna got up first. She wiped herself with a rag from the shelf, pulled her shirt down and fed the blubber lamp from the jar, and when it caught she held her hands to it. Bjarki lay on the hides and watched her. She found his belt where she had thrown it, coiled it, and set it by his boots. Then she went out into the cold and brought in an armful from the woodpile, and stacked it at the hearth, three more rounds than the night needed."
+      },
+      {
+       "key": "B",
+       "label": "Pillow talk, truths traded",
+       "consequence": "The aftermath is the one time guarded people talk: secrets, plans, a confession, and what is said goes on the Ledger (K6).",
+       "sample": "Afterward they lay in the hides with the lamp low and her head on his arm, and Bjarki told her about the winter he had eaten his own horse on the Ridgewall, which he had told nobody. Hrefna listened. When he was done she told him where her husband's silver lay buried, under the night-stone, and that the headman's son had asked her twice. Bjarki said nothing to that. He drew the hide over her shoulder and kept his hand there."
+      },
+      {
+       "key": "C",
+       "label": "By the pair",
+       "consequence": "Each pair's card names its shape, procedure or talk, and the aftermath keeps to it; a change of shape is itself a beat.",
+       "sample": "They always talked after, these two; it was the part Hrefna liked best. Tonight Bjarki got up as soon as he had come, wiped himself on his shirt-tail and went out to the woodpile in his bare feet. She heard the axe. She lay in the hides and counted the strokes, and when he came back with an armful and stacked it at the hearth without looking at her, she knew he had said yes to the headman's road."
+      }
+     ],
+     "recommended": "A",
+     "rec_reason": "It is your fight aftermath and the archive's own strongest note, love as maintenance, and R2-5's silence makes every later scene carry the change.",
+     "multi": false,
+     "depends_on": [],
+     "rules_touched": [
+      "R71-21-AFTERMATH_PAGE",
+      "R2-5-RESOLUTION_IN_AFTERMATH",
+      "R48-38-AFTERMATH"
+     ]
+    },
+    {
+     "id": "SC14",
+     "title": "Your character in the bed",
+     "question": "In a roleplay turn, what may Natalie write of your character's body during an explicit scene?",
+     "context": "Natalie never thinks, speaks or acts for your PC (R49-01, R52-10). For fights you ruled 'wounds as world facts', with 'how he bears it' yours (R71-6). Yoko Mishiro, his canon wife, is an NPC Natalie voices, so the bed needs the same line drawn before it is needed.",
+     "options": [
+      {
+       "key": "A",
+       "label": "His post, her answer",
+       "consequence": "Natalie writes only the partner and the room; every act of his body, and every response in it, comes from your post, and the turn stops wherever his body would next move."
+      },
+      {
+       "key": "B",
+       "label": "Contact as world fact",
+       "consequence": "Once your post sets the act, contact, position and what the partner does to him are world facts; his arousal, pleasure, pain and climax, and how he bears them, stay yours."
+      }
+     ],
+     "recommended": "B",
+     "rec_reason": "It is your fight ruling moved to the bed, so the scene runs as a scene instead of halting at every touch, while everything he feels stays in your hands.",
+     "multi": false,
+     "depends_on": [],
+     "rules_touched": [
+      "R49-01-WHOSE_HEAD",
+      "R52-10-CROSSOVER",
+      "R71-6-PLAYER_FIGHTER_PAGE"
+     ]
+    },
+    {
+     "id": "SC15",
+     "title": "The explicit roleplay turn",
+     "question": "How does a full roleplay turn run when the scene in it is explicit?",
+     "context": "Every reply is a full turn of about 3,500 words (R49-30), and every turn stops at your next decision (Table Rule 1); in bed the decisions come fast. For fights you allowed standing orders, conditions Natalie runs 'until the first branch they do not cover' (R71-5).",
+     "options": [
+      {
+       "key": "A",
+       "label": "Partner and world fill it",
+       "consequence": "The turn runs on the partner's side and the world beyond the door (the house, the watch, the weather) up to his next decision, half texture and talk, half the world moving (R49-29)."
+      },
+      {
+       "key": "B",
+       "label": "Standing orders in bed",
+       "consequence": "You may post the course of the encounter, a pace, a limit or a stop for your character, and Natalie runs it to the first branch it does not cover, then stops there."
+      },
+      {
+       "key": "C",
+       "label": "Short turns in bed",
+       "consequence": "This reopens R49-30: an explicit turn may run short and stop at each decision, so the exchange moves at the speed of the act."
+      }
+     ],
+     "recommended": "B",
+     "rec_reason": "It keeps your full-length turn and your character in your hands at once, the same answer you gave for fights; A's world beyond the door still fills what the orders leave.",
+     "multi": false,
+     "depends_on": [
+      "SC14"
+     ],
+     "rules_touched": [
+      "R49-30-SHORT_BEATS",
+      "R49-29-TURN_FILL",
+      "R71-5-ROLEPLAY_TURNS_AGAINST_WRITTEN"
+     ]
+    },
+    {
+     "id": "SC16",
+     "title": "An NPC who would force him",
+     "question": "If an NPC would coerce or force your character, how far does the turn go?",
+     "context": "NPCs pursue their wants (Table Rule 3), and some will want to take what is not offered. In a fight an NPC's blow lands as world fact once your move resolves (R71-6). Coercion of a player's own character is where tables most need a clear line, and it covers guest players at the Discord table too.",
+     "options": [
+      {
+       "key": "A",
+       "label": "Lands like a blow",
+       "consequence": "The NPC's act is written as a world fact, as a wound would be; how he bears it is yours."
+      },
+      {
+       "key": "B",
+       "label": "Threat placed, his post decides",
+       "consequence": "Natalie sets the threat in the room (the grip, the bargain, the Draft in the cup) and stops; the act reaches the page only through your post."
+      },
+      {
+       "key": "C",
+       "label": "Never against a PC",
+       "consequence": "NPCs may want it and say so; no NPC forces or coerces a player's character on the page."
+      }
+     ],
+     "recommended": "B",
+     "rec_reason": "It keeps Rule 3's dangerous NPC and Rule 1's stop at your decision together, and gives a guest player at the Discord table the same say you have.",
+     "multi": false,
+     "depends_on": [
+      "SC14"
+     ],
+     "rules_touched": [
+      "R71-6-PLAYER_FIGHTER_PAGE",
+      "R49-01-WHOSE_HEAD"
+     ]
+    },
+    {
+     "id": "SC17",
+     "title": "Checks for explicit scenes",
+     "question": "Which checks should verify_scene run on an explicit scene?",
+     "context": "verify_scene has no explicit mode. Its firearms list counts 'cock' as gun vocabulary, and nothing checks Rule 9's clauses or the floor. The style and combat laws each added checks by vote (R70-136, R71-103).",
+     "options": [
+      {
+       "key": "A",
+       "label": "Rule 9 checklist",
+       "consequence": "An --explicit flag WARNs when a scene lacks a position fix, a scent, a sound or mimetic word, or an aftermath beat after the act."
+      },
+      {
+       "key": "B",
+       "label": "The floor check",
+       "consequence": "FAIL when an explicit scene names anyone whose card or roster row gives an age under eighteen, or no age at all; the body's age counts, never a soul's."
+      },
+      {
+       "key": "C",
+       "label": "Collision fixes",
+       "consequence": "Under --explicit the firearms list ignores anatomical 'cock', and 'aftercare' and 'safeword' are flagged in narration only."
+      },
+      {
+       "key": "D",
+       "label": "Bed stock-phrase bans",
+       "consequence": "Romance stock joins the hard-ban list in narration: euphemisms that dodge R49-51 (her sex, his member, her core, mewled) and stock bed cliches."
+      }
+     ],
+     "recommended": "A,B,C,D",
+     "rec_reason": "B makes the floor mechanical instead of a matter of memory, and the rest hold each scene to Rule 9 and R49-51 the way the combat checks hold a fight.",
+     "multi": true,
+     "depends_on": [],
+     "rules_touched": [
+      "R70-136-NEW_CHECKS_VERIFY_SCENE",
+      "R71-103-COMBAT_CHECKS_VERIFY_SCENE",
+      "R49-51-EXPLICIT"
+     ]
+    }
+   ]
+  }
+ ],
+ "settled": [
+  {
+   "point": "The floor: adults only, nothing sexual involving minors ever, no explicit sex on real living people, no bestiality. Adult beastkin are people; beasts, Well-spawn and summons are not.",
+   "rule_ids": [],
+   "why_not_asked": "NATALIE.md's floor is fixed and never on a questionnaire; it is not a rule row. Every sample here is between adults."
+  },
+  {
+   "point": "Table Rule 9's clauses: plain anatomical vocabulary, clinical specificity, positions tracked, arousal scents, onomatopoeia, the NPC's own desire and refusal line and change of mind, a consequence, dubcon and non-con at the same specificity, aftermath never skipped.",
+   "rule_ids": [
+    "R70-133-EASTERN_TECHNIQUES_BESIDE_CLINICAL",
+    "R70-134-KEYED_CULTURE_FREE"
+   ],
+   "why_not_asked": "Standing law in NATALIE.md, extended by XS1 and XS2; SC3, K5 and SC13 ask only how its clauses are carried out."
+  },
+  {
+   "point": "Explicit narration is plain and crude: working-man anatomical words, lush in sensation, blunt in naming.",
+   "rule_ids": [
+    "R49-51-EXPLICIT"
+   ],
+   "why_not_asked": "Ruled 2026-09-26 and kept by the style law; SC1 asks only whose words."
+  },
+  {
+   "point": "Season imagery, the held detail at the peak, the poem after, and mimetic words romanised and never italic, all beside the plain words.",
+   "rule_ids": [
+    "R70-133-EASTERN_TECHNIQUES_BESIDE_CLINICAL"
+   ],
+   "why_not_asked": "XS1, ruled 2026-10-03."
+  },
+  {
+   "point": "The techniques are keyed to the POV's culture; the lover's culture shows in what they do and say.",
+   "rule_ids": [
+    "R70-134-KEYED_CULTURE_FREE"
+   ],
+   "why_not_asked": "XS2, ruled 2026-10-03."
+  },
+  {
+   "point": "Isaac's PC and the other creators' characters are never thought, voiced or acted for; Isaac may voice any NPC, a lover included.",
+   "rule_ids": [
+    "R49-01-WHOSE_HEAD",
+    "R52-08-PC_IDIOM",
+    "R52-10-CROSSOVER",
+    "R48-32-NPC_VOICES"
+   ],
+   "why_not_asked": "Standing law; SC14 to SC16 ask only where the line falls in bed."
+  },
+  {
+   "point": "NPC thought: one italic thought per NPC in a roleplay turn, none under a written scene's POV lock, so a partner's desire shows through body and speech there.",
+   "rule_ids": [
+    "R48-40-NPC_THOUGHTS",
+    "R39-7-NO_NPC_THOUGHT_UNDER_POV_LOCK"
+   ],
+   "why_not_asked": "Prose law, unchanged in bed."
+  },
+  {
+   "point": "Third person only; roleplay turns in present tense, written scenes in past.",
+   "rule_ids": [
+    "R70-12-FIRST_PERSON",
+    "R49-02-TENSE"
+   ],
+   "why_not_asked": "VO3 and the prose law."
+  },
+  {
+   "point": "The narrator never passes a moral verdict on what happens in bed; a verdict lives only in the POV's own idiom.",
+   "rule_ids": [
+    "R5-E-FREE_INDIRECT_CARVEOUT"
+   ],
+   "why_not_asked": "Standing anti-machine law; SC11 builds on it."
+  },
+  {
+   "point": "Pop-psych words (boundaries, triggered, closure) stay out of narration; modern words, safeword and aftercare among them, are legal in speech and italic thought.",
+   "rule_ids": [
+    "R51-04-LIST_PSYCH",
+    "R48-13-PERIOD_FEEL",
+    "R70-37-MODERN_IDIOM_THOUGHT"
+   ],
+   "why_not_asked": "Vocabulary law; SC8 asks only how a game is framed in the world."
+  },
+  {
+   "point": "Profanity in speech and close POV, each culture's own swears first.",
+   "rule_ids": [
+    "R48-12-PROFANITY",
+    "R51-02-CLOSE_POV_SWEARS",
+    "R51-29-SWEARING"
+   ],
+   "why_not_asked": "Settled by the vocabulary law."
+  },
+  {
+   "point": "Jo-ha-kyū tempo for set pieces and kishōtenketsu (set-up, development, twist, reconciliation) for quiet scenes reach explicit scenes as they reach any other.",
+   "rule_ids": [
+    "R70-15-TEMPO_STILLNESS",
+    "R70-14-KISHOTENKETSU"
+   ],
+   "why_not_asked": "SP1 and SP2; K3 asks only which strand leads the act."
+  },
+  {
+   "point": "Feeling carried by one held image and never named; a scene may close on verse set apart.",
+   "rule_ids": [
+    "R70-39-CARRYING_FEELING",
+    "R70-64-VERSE_INSIDE_PROSE"
+   ],
+   "why_not_asked": "IN3 and DT6."
+  },
+  {
+   "point": "A lover gets the full first-sight inventory in the POV's own order, and one changed detail on each return.",
+   "rule_ids": [
+    "R70-54-GETS_FULL_INVENTORY",
+    "R70-55-ORDER_FIRST_INVENTORY",
+    "R70-50-BODIES_AFTER_FIRST_SIGHT"
+   ],
+   "why_not_asked": "Description law applies to lovers as to anyone."
+  },
+  {
+   "point": "Turns run about 3,500 words and set pieces 5,000 and up.",
+   "rule_ids": [
+    "R48-28-TURN_LENGTH",
+    "R49-30-SHORT_BEATS",
+    "R48-46-WORD_FLOOR"
+   ],
+   "why_not_asked": "Prose law; SC2 and SC15 ask only how explicit scenes use those lengths."
+  },
+  {
+   "point": "Every working costs something visible in the body, and no figure is invented.",
+   "rule_ids": [
+    "R48-37-COST_SHOWN",
+    "R12-5-NEVER_INVENT_NUMBER"
+   ],
+   "why_not_asked": "Standing law; SC7 and SC10 build on it."
+  },
+  {
+   "point": "Each culture's own sound and state words, entered in its Inventory and never italic.",
+   "rule_ids": [
+    "R70-22-SOUND_WORDS",
+    "R50-32-ITALICS"
+   ],
+   "why_not_asked": "RH4; the bed draws on the same banks."
+  },
+  {
+   "point": "NPCs lie, refuse and pursue their wants, and a betrayal is foreshadowed so a player could catch it.",
+   "rule_ids": [
+    "R48-42-LIES",
+    "R48-30-SURPRISES",
+    "R52-02-VOICE_LEVER"
+   ],
+   "why_not_asked": "Table Rules 3 and 8 and the play law; a lover is an NPC like any other."
+  },
+  {
+   "point": "Medicine is true to place and purse.",
+   "rule_ids": [
+    "R53-10-MEDICINE",
+    "R71-79-MEDICINE_PLACE_PURSE"
+   ],
+   "why_not_asked": "World texture and combat law; K6 asks only what the Ledger keeps."
+  }
+ ]
+}

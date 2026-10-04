@@ -1,0 +1,221 @@
+{
+ "K1": {
+  "choice": "C",
+  "note": ""
+ },
+ "K2": {
+  "choice": "A",
+  "note": "differs from the recommendation (B): always on the page, no cut"
+ },
+ "K3": {
+  "choice": "B",
+  "note": ""
+ },
+ "K4": {
+  "choice": "C",
+  "note": ""
+ },
+ "K5": {
+  "choice": [
+   "A",
+   "B",
+   "C",
+   "D"
+  ],
+  "note": "adds D, marks on the body, to the recommendation"
+ },
+ "SC1": {
+  "choice": "C",
+  "note": "differs from the recommendation (B): one crude English in narration, native words in mouths"
+ },
+ "SC2": {
+  "choice": "B",
+  "note": ""
+ },
+ "SC3": {
+  "choice": "B",
+  "note": ""
+ },
+ "SC4": {
+  "choice": "C",
+  "note": ""
+ },
+ "SC5": {
+  "choice": "B",
+  "note": ""
+ },
+ "SC6": {
+  "choice": "B",
+  "note": ""
+ },
+ "SC7": {
+  "choice": "C",
+  "note": ""
+ },
+ "SC15": {
+  "choice": "C",
+  "note": ""
+ },
+ "SC9": {
+  "choice": "B",
+  "note": ""
+ },
+ "SC11": {
+  "choice": "A",
+  "note": ""
+ },
+ "SC12": {
+  "choice": "B",
+  "note": ""
+ },
+ "SC8": {
+  "choice": "B",
+  "note": ""
+ },
+ "SC16": {
+  "choice": "C",
+  "note": ""
+ },
+ "SC14": {
+  "choice": "B",
+  "note": ""
+ },
+ "SC13": {
+  "choice": "B",
+  "note": ""
+ },
+ "CO2": {
+  "choice": [
+   "A",
+   "B",
+   "C"
+  ],
+  "note": ""
+ },
+ "CO3": {
+  "choice": [
+   "A",
+   "C"
+  ],
+  "note": ""
+ },
+ "CO4": {
+  "choice": [
+   "A",
+   "C"
+  ],
+  "note": ""
+ },
+ "CO5": {
+  "choice": [
+   "B",
+   "C"
+  ],
+  "note": ""
+ },
+ "CO6": {
+  "choice": [
+   "A",
+   "C"
+  ],
+  "note": ""
+ },
+ "CO7": {
+  "choice": [
+   "A",
+   "C"
+  ],
+  "note": ""
+ },
+ "CO18": {
+  "choice": "A",
+  "note": ""
+ },
+ "CO13": {
+  "choice": "C",
+  "note": ""
+ },
+ "CO16": {
+  "choice": "B",
+  "note": ""
+ },
+ "CO17": {
+  "choice": "B",
+  "note": ""
+ },
+ "CO11": {
+  "choice": "A",
+  "note": ""
+ },
+ "ME4": {
+  "choice": "A",
+  "note": ""
+ },
+ "SC10": {
+  "choice": [
+   "A",
+   "B"
+  ],
+  "note": "took the recommendation (digest)"
+ },
+ "CO1": {
+  "choice": "B",
+  "note": "took the recommendation (digest)"
+ },
+ "CO8": {
+  "choice": [
+   "A",
+   "B",
+   "C",
+   "D"
+  ],
+  "note": "took the recommendation (digest)"
+ },
+ "CO9": {
+  "choice": "A",
+  "note": "took the recommendation (digest)"
+ },
+ "CO10": {
+  "choice": [
+   "B",
+   "C"
+  ],
+  "note": "took the recommendation (digest)"
+ },
+ "CO12": {
+  "choice": [
+   "A",
+   "B"
+  ],
+  "note": "took the recommendation (digest)"
+ },
+ "CO14": {
+  "choice": "B",
+  "note": "took the recommendation (digest)"
+ },
+ "CO15": {
+  "choice": [
+   "A",
+   "B",
+   "D"
+  ],
+  "note": "took the recommendation (digest)"
+ },
+ "ME1": {
+  "choice": "C",
+  "note": "took the recommendation (digest)"
+ },
+ "ME2": {
+  "choice": [
+   "A",
+   "B",
+   "C",
+   "D"
+  ],
+  "note": "took the recommendation (digest)"
+ },
+ "ME3": {
+  "choice": "C",
+  "note": "took the recommendation (digest)"
+ }
+}

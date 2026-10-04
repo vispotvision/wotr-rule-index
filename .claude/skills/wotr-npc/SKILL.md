@@ -31,8 +31,9 @@ and carried name for Far-Northern people).
 4. **Lie.** One thing they will say that is wrong, and whether they know it
    is. Stays uncorrected until the PC catches it (table rule 8).
 5. **Voice.** What they notice first entering a room; sentence length; one
-   discourse marker; one fixed saying from the Inventory; what they never
-   say. Gloss rights: never, diagnostic only, or yes. Swap test against
+   discourse marker; several fixed sayings from the Inventory (elders,
+   headmen and court speakers argue in them, the young speak plain, R70-109);
+   what they never say. Gloss rights: never, diagnostic only, or yes. Swap test against
    every other speaker in the scene.
 6. **Body.** Full first-sight inventory: hair by comparison (colour, texture,
    length), face shape and one feature, body with shoulders, chest, waist,
@@ -48,10 +49,18 @@ Plus one *italic* private thought, true to their head, for the first scene.
 
 The roster entry as a proposal (every `npc_set` field filled; the call
 commits to git, so it runs on Isaac's word only), then the first-sight paragraph in prose,
-under 200 words, layered smell first, from the POV's competence. The want
-never stated; shown in what they do with their hands.
+under 200 words, layered, from the POV's competence, in the order this POV
+looks (R70-55). On the page a minor NPC gets one exact stroke and a
+major one the full inventory (R70-54); the roster keeps the full Body field
+either way. The want never stated; shown in what they do with their hands.
 
 ## Voice warmup
 
 Before the paragraph, write one throwaway line in their voice and discard
-it. Then write. A minor NPC may be a comic voice from the start, with no setup-deadpan-reaction beat (R52-31). Each NPC voice starts from a researched real-world speaker type, credited in the notes (R52-29).
+it. Then write. A minor NPC may be a comic voice from the start (R52-31); a
+comic voice or double act named on the card gets full comic beats, retort and
+reaction included (R70-113). Recurring minors, villains and rivals may carry a
+comic name; major NPCs keep strict ones (R70-122), and a walk-on is named at
+once only by a nickname in someone else's mouth (R70-130). Each NPC voice
+starts from a researched real-world speaker type, credited in the notes
+(R52-29).

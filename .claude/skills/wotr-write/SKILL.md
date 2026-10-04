@@ -57,7 +57,9 @@ knows, wrongly believes, and what the reader knows that he does not; the value
 that turns; what it costs; the one thing he notices that you do not explain;
 the NPC lie that stays uncorrected; the two Inventory items the scene touches;
 which of the four explaining voices carry mechanism (never more than two per
-engagement). For a technique: refusal, wound, conviction, then phenomenon, then
+engagement; readouts sit outside the cap, R70-87); the scene's shape (the
+turn, or kishōtenketsu for a quiet scene, R70-14); the lead description group
+and two supporting ones (R70-40). For a technique: refusal, wound, conviction, then phenomenon, then
 Codex. Never the other way round.
 
 ## 3. Draft to a file
@@ -92,7 +94,7 @@ In this order, every heading present even if it reads "none":
 2. **Canon conflicts**: surfaced, never resolved.
 3. **Phenomenon line** per working (from `wotr-phenomenon`).
 4. **Added by the gap-fill pass**, when Isaac submitted a fight or working.
-5. **Combat floor audit**: HEMA skeleton, three-layer hit at first display and
+5. **Combat floor audit**: the POV's own school's vocabulary (R70-100), three-layer hit at first display and
    finisher, stated fault, POV body on the page.
 6. **Stat Ledger** per named practitioner (R14-7): going in (Stage, Band,
    Tier of Standing, Aether Class, Crystal State); stats stressed and the §3

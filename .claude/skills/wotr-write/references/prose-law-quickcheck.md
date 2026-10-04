@@ -17,13 +17,16 @@ grep -nE 'Not [a-z]+\.$|No [a-z]+\. No ' "$f"       # countdown negation
 grep -nEi 'now that|as mentioned|as you know|in other words' "$f"   # signposting
 grep -nE '\?$' "$f" | tail -1                 # last line must not be a question
 grep -c '\*[^*]\{8,\}\*' "$f"                 # italic thoughts: one per named NPC
-grep -nE '\b(Grade|Stage [IVX]+|Band|eta|η|EU|AU/s|Sub-Stat)\b' "$f"  # narration leak: must be in quotes, italics, or a document block
+grep -nE '\b(Grade|Stage [IVX]+|Band|eta|η|EU|AU/s|Sub-Stat)\b' "$f"  # figures: narration only what the POV holds (R70-83), body first (R70-89), blocks only at milestones (R70-80)
+grep -nEi 'qi surged|cold glint|sucked in a cold breath|killing intent surged|the steel sang|a grim smile|blood ran cold|every fibre of his being|darkness gathered|power surged through|stronger than ever|a wave of power|stats soared' "$f"  # stock phrases banned in narration (R70-35)
 grep -nE '\b(because|since|so that|which is why|as a result)\b' "$f" # causal connectives: legal only in a mouth or a document
 ```
 
-Combat set pieces additionally: HEMA density (Zornhau, Krumphau, Zwerchhau,
-Schielhau, Scheitelhau, bind, winden, versetzen, nachreisen, abschneiden,
-measure, tempo, posta), anatomy named where it is cut, a stated fault per
+Combat set pieces additionally: the POV's own school's vocabulary (R70-100;
+for a Western blade, HEMA: Zornhau, Krumphau, Zwerchhau, Schielhau,
+Scheitelhau, bind, winden, versetzen, nachreisen, abschneiden, measure, tempo,
+posta; a Moto POV names a kesa-giri; a foreign school's word arrives in a
+mouth), anatomy named where it is cut, a stated fault per
 working, the three-stratum account present, a Stat Ledger per named
 practitioner in the notes.
 
@@ -37,17 +40,25 @@ practitioner in the notes.
   cut. Free indirect discourse is not gloss; the test is whose vocabulary.
 - **Local burstiness**, per paragraph: no three consecutive sentences within
   forty percent of each other's word count; the emotional hit is the shortest
-  sentence in its paragraph and sits last.
+  sentence in its paragraph and sits last. Set pieces only: matched pairs are
+  exempt, and once a scene the climax may be one long cumulative sentence
+  (R70-19).
 - **Reification**: two per scene, different abstractions, never at the beat.
   One per page in procedural or ledger scenes.
 - **Apparatus**: a perceptive faculty speaks once per scene, delivers a fact
   not an interpretation, is never the grammatical subject.
 - **Ignorance quota** met; **misreading budget** spent; no line adjudicates;
   no narration explains why a working worked on its own authority; mechanism
-  arrived through at most two of the four voices.
+  arrived through at most two of the four voices (a readout sits outside the
+  cap, R70-87).
 - Fragment-cascade emphasis ("Not slowly."), anaphora and tricolon stacks,
   stacked metaphors, magic adverbs, dead metaphors, hypophora, reaction-shot
-  cutaway, setup-deadpan-reaction beat, "rather than" more than once.
+  cutaway (a crowd's spoken chorus at a power reveal is legal, R70-72),
+  setup-deadpan-reaction beat outside the comic voices and double acts named
+  on their cards (R70-113), "rather than" more than once.
+- **Paragraphs**: medium is the norm; one-line paragraphs only in a cluster at
+  reveals, verdicts, notices and a fight's last beats (R70-20). Third person
+  only outside documents (R70-12).
 - POV lock held; psychic distance held; no beat overcrowded; value turned.
 - Every character's lines fail the swap test.
 - Texture came from the Standing Inventory; anything invented is logged for

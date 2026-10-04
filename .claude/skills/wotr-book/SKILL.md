@@ -176,11 +176,13 @@ Then write `book/<slug>/AUDIT_chNN.md`:
   voice drifted or flattened across chapters, with quotes.
 - At the end only: from DIGEST.md, review the whole book once as a critic and
   once as a teacher of fiction, with specific, actionable notes by chapter.
-  Then read it once through each lens the table claims (Martin's POV
-  discipline, Abercrombie's brutality and cost, Tolkien's elegiac reach, Lord
-  of the Mysteries' mystic register): where the book keeps that promise and
-  where it doesn't. Then the first-time reader from book-chapter.js, over the
-  whole book: where it held and where it sagged, the middle closest.
+  Then read it once through each lens the Style Law claims (R70-1, R70-3:
+  the Eastern voice in narration, interiority and structure; the Western in
+  combat, injury and dialogue; LitRPG in progression; the POV's culture
+  tilting the mix; and the models R70-4 to R70-6 name): where the book keeps
+  that promise and where it doesn't. Then the first-time reader from
+  book-chapter.js, over the whole book: where it held and where it sagged, the
+  middle closest.
 
 He reopens a chapter by instruct (§3) or re-brief; the audit never does.
 

@@ -67,7 +67,8 @@ Rules that bind the fields:
   Grade off the joules → Grade → tier spine.
 - **Things** (items, draughts, summons, Domains, sites, weapons, beasts) carry
   their Tier Ladder rung by name (Part Twenty-Four).
-- Tiers and rungs by **name**, never number; Stages by name.
+- Tiers and rungs by **name**, never number; Stages and Bands by name with
+  the numeral beside it (Stage V, Splintering; R70-82).
 - Waste radiates as heat at the Shell; every working inherits its Wellsprings'
   failures; governing Sub-Stats are the caster's; one turn is 6 seconds;
   mending costs more than breaking.

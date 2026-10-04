@@ -1,6 +1,6 @@
 # WOTR Scene Archive
 
-160 files, 885878 words.
+161 files, 890764 words.
 
 Law edition is the style law a scene was written under (R70-137): "pre-R70" is the law before 2026-10-03, precedent for events and not for prose; scenes archived from 2026-10-03 carry "R70".
 
@@ -68,6 +68,7 @@ Law edition is the style law a scene was written under (R70-137): "pre-R70" is t
 | Shichi_Karasu_Mission_Awakening.md | 1130 | pre-R70 |
 | Six_Crows_Dragon_Fight_Extended.md | 1783 | pre-R70 |
 | Six_Crows_vs_Black_Dragon.md | 1129 | pre-R70 |
+| the_drawing_off.md | 4886 | R70 |
 | THE_KINGDOM_OF_KHARVEN_buri.md | 9619 | pre-R70 |
 | THE_KINGDOM_OF_KHARVEN_corrected.md | 9643 | pre-R70 |
 | THE_YUKARI_BLOODLINE.md | 6000 | pre-R70 |

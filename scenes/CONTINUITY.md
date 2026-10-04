@@ -1759,3 +1759,7 @@ Each line is a scene and the earlier events it explicitly reaches back to.
 - the tournament seven days out
 - canon Physical Force (Part Eleven), the Aether-Physics Fusion Rule and Binding Strength
 
+**`the_drawing_off.md`**
+- Borin's eleven days at the anvil for a customer upstairs who had not yet paid, the Ledger's unpriced forge-work debt, unnamed in the text
+- the one Borin does not name in the Forge: "He did not say whose hands he had last said that over" (Thurgan Ashmantle, his card)
+- the Cask-Oath and the pitch that will not cure outside its hold (the Dawi Standing Inventory)

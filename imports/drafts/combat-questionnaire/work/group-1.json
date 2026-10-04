@@ -1,0 +1,1099 @@
+{
+ "sections": [
+  {
+   "key": "K",
+   "title": "Keystones",
+   "intro": "Answer these first: they set what a WOTR fight promises, which traditions and named works lead it, how far the combat floor moves, and how a fight runs at the table. In the samples, Pflug is the plough guard (hilt at the hip, point at the face), the Zwerchhau a crosswise cut, the bind two blades in contact, the strong the half of a blade nearest the hilt, the Fehler a feint, and issoku itto no maai the one-step, one-cut distance.",
+   "questions": [
+    {
+     "id": "K1",
+     "title": "Where the line falls in a fight",
+     "question": "Inside one fight, which strand leads the read, the stillness before the cut and the reveal of a hidden rule?",
+     "context": "R70-3: the West leads 'combat, injury and dialogue', the East 'narration, interiority and structure'. A fight holds all of these at once: the traced exchange and the wound, and also the read (sizing the opponent up), the stillness before the cut, and the reveal of a hidden rule. Neither R70-3 nor the Combat Guide says where the line falls inside one fight.",
+     "options": [
+      {
+       "key": "A",
+       "label": "Western leads all of it",
+       "consequence": "The whole fight counts as combat: the read and the reveal are told the HEMA way (Historical European Martial Arts), as evidence inside traced passes, plainly and still at length (R12-8). Eastern tempo stays where R70-15 puts it.",
+       "sample": "Renard took Pflug, hilt at his right hip and point at the Tenrai officer's face, and held the centre of the yard. Ishida thrust high from the left. Renard bound on the strong of his own blade and wound, and the other sword went soft against his: the man fenced from his arms and left his hips behind him. That was the read, and it cost a heartbeat. On the next pass Renard stepped off the line and threw the Zwerchhau across the top. The short edge opened Ishida's left forearm to the bone."
+      },
+      {
+       "key": "B",
+       "label": "Western body, Eastern read",
+       "consequence": "The exchange, the wound and the cost stay Western and clinical; the read, the stillness before the cut and a rule's reveal run Eastern, long and deductive, the Naruto and Bleach way. The next Combat Guide writes it in.",
+       "sample": "Ishida held his sword low and to the right, and nothing in his shoulders moved. Renard let the yard stay quiet. Frost ticked in the ruts. Twice now the Tenrai man had cut from a standing start, and twice his left heel had come off the ice a breath before the blade did. A man who tells you when he means to cut has told you where he will be. The heel lifted. Renard threw the Zwerchhau into the place the heel had promised, and the short edge opened Ishida's left forearm to the bone."
+      },
+      {
+       "key": "C",
+       "label": "Eastern shape, Western wound",
+       "consequence": "The Eastern strand leads the fight's shape, tempo and interiority (Gu Long's long wait, Kubo's stillness); the Western strand names the wound and its cost once the cut lands. This narrows R70-3's Western lead in combat.",
+       "sample": "They stood the length of a broth gone cold. Snow settled on Renard's shoulders and stayed there, the aurora moved green over the Seat's dark walls, and in the outer town a dog barked once and was hushed. Ishida's breath went out white and came back. Renard waited the way the ridge waits. Then the Tenrai man moved and Renard was already through him, and afterward the left forearm lay open to the bone, the flexor tendons parted, the fingers of that hand slack on the ice."
+      }
+     ],
+     "recommended": "B",
+     "rec_reason": "Your named models do their best work in the read and the reveal, and you gave the East interiority and structure, which is what a read is made of; the blow, the wound and the bill stay Western and clinical, exactly as R70-3 has them.",
+     "multi": false,
+     "depends_on": [],
+     "rules_touched": [
+      "R70-3-STRAND_LEADS_LAYER",
+      "R70-9-TECHNICAL_MYSTIC_REGISTERS",
+      "R12-8-COMBAT_GUIDE_READ_LENGTH",
+      "R70-15-TEMPO_STILLNESS"
+     ]
+    },
+    {
+     "id": "K2",
+     "title": "Eastern combat models",
+     "question": "Beside Kishimoto (Naruto) and Kubo (Bleach), which Eastern works should the Combat Craft Guide name as combat models?",
+     "context": "Your words in R70-4 already name Kishimoto, Kubo and anime; R70-5 named Jin Yong, the Heike war tales, Kawabata and pansori, each for one register culture's prose. The research found four more Eastern fight-writers. A named model is a sanctioned source the Combat Guide may take techniques and examples from, always translated into WOTR's law.",
+     "options": [
+      {
+       "key": "A",
+       "label": "Togashi, Hunter x Hunter",
+       "consequence": "Fights as logic: the opponent's rules inferred from evidence, tested and exploited, and the winner is whoever knows his own limits best. Its vows that trade a limit for power wait for MC6."
+      },
+      {
+       "key": "B",
+       "label": "Gu Long, the one cut",
+       "consequence": "The duel is the wait: the long read and a single exchange, the floor paid on the body. Becomes the named model for Verdict grammar (read, rank, commit); FT16 asks whether the cut itself is seen."
+      },
+      {
+       "key": "C",
+       "label": "Inoue and Yoshikawa, Musashi",
+       "consequence": "Inoue's manga Vagabond and Yoshikawa's novel Musashi: the deciding event happens inside the fighter (fear, the fixed mind, no-mind), with pages of breath and footing. A model for Japonic POVs."
+      },
+      {
+       "key": "D",
+       "label": "Akutami, Jujutsu Kaisen",
+       "consequence": "Domain clashes decided in a stated order, with the burnout after a Domain as the counter-window. FOW Part Twenty-Two already sets the order; burnout and the sure-hit (a Domain that cannot miss) would be new canon."
+      }
+     ],
+     "recommended": "A,B,C",
+     "rec_reason": "Togashi is the fairest fight-writer in the genre for findable counters, Gu Long gives Verdict grammar its literature, and Musashi gives the Moto and Shirogane their own school's inner duel; Jujutsu Kaisen's best ideas lean on canon WOTR has not ruled, so MC19 and MC20 take it up there.",
+     "multi": true,
+     "depends_on": [],
+     "rules_touched": [
+      "R70-4-WESTERN_MODELS",
+      "R70-5-EASTERN_MODELS",
+      "R1-1-VERDICT_GRAMMAR"
+     ]
+    },
+    {
+     "id": "K3",
+     "title": "Western combat models",
+     "question": "Which Western works should the Combat Craft Guide name as combat models?",
+     "context": "R70-4 dropped Martin and Abercrombie as named models and kept Tolkien, Dickens and Kay, none of them fight-writers. R70-3 gives the West the fight itself, yet the Combat Guide names no Western fight model. Four candidates fit the Imperial Age and WOTR's law.",
+     "options": [
+      {
+       "key": "A",
+       "label": "Cornwell, Sharpe",
+       "consequence": "Volley drill, powder smoke, the stormed breach, tactics explained in the action by a sergeant's read. The only model for the gunpowder battle the archive has never written."
+      },
+      {
+       "key": "B",
+       "label": "O'Brian, Aubrey-Maturin",
+       "consequence": "Naval action: holding the wind, clearing for action, the surgeon below hearing the battle and working on its product. Fits the hill-and-ditch cut and the Imperial Age span."
+      },
+      {
+       "key": "C",
+       "label": "Sanderson, hard magic",
+       "consequence": "Rules planted before, physics as choreography, costs and counters findable, so the reader does the sum. Already close to R70-71's rules shown beforehand."
+      },
+      {
+       "key": "D",
+       "label": "HEMA novelists",
+       "consequence": "Christian Cameron and Sebastien de Castell: armoured fights from inside the steel, the phrase (one unbroken attack and answer), joints, the visor slot, the ground. The Western school's model."
+      }
+     ],
+     "recommended": "A,C,D",
+     "rec_reason": "Cornwell covers firearms and the formation, the two largest holes in the archive; Sanderson is your fair-counter taste in its purest Western form; the HEMA novelists keep the Western school honest. O'Brian is excellent but narrow, and can join when a sea or river action is on the slate.",
+     "multi": true,
+     "depends_on": [],
+     "rules_touched": [
+      "R70-4-WESTERN_MODELS",
+      "R70-3-STRAND_LEADS_LAYER",
+      "R70-71-EXPLAINING_WORKING_MID_FIGHT"
+     ]
+    },
+    {
+     "id": "K4",
+     "title": "How far from the floor",
+     "question": "How much of the current combat floor moves: kept and rescaled, paid each grammar's own way, or partly sent to the notes?",
+     "context": "R13-4's combat floor (what every meaningful exchange must put on the page) owes eight items: measure, tempo, the read, the fault, the hit's mechanics, the injury by structure, the Essence account, what he cannot do next. Its density budget counts a 2,500-word duel and a 700 to 1,500 word turn; turns now run about 3,500 words (R48-28), set pieces 5,000 or more.",
+     "options": [
+      {
+       "key": "A",
+       "label": "Rescale, same ratios",
+       "consequence": "R13-4-DENSITY_BUDGET is rewritten for today's lengths: full floor at first display and finisher, items 1 to 4 at every exchange that turns the fight, item 8 at a turn's close. Every item stated where it happens.",
+       "sample": "The courier stood at issoku itto no maai, one step and one cut. He moved first. His thrust came at Kaede's throat on a loaded lead foot, a fault, because a heel carrying that much weight cannot come back in time. She took the point on the ridge of her blade and cut straight down through his right wrist, parting both forearm bones and the radial artery. The yard's main was cut, so her Shell paid for the edge from her own reserve. It left her as heat. He would never hold a sabre again."
+      },
+      {
+       "key": "B",
+       "label": "Floor by grammar",
+       "consequence": "Rescaled as in A, and each grammar pays the floor its own way: Verdict states the read before and the mechanics after, on the body; Blade pass by pass; Percussion and Expenditure carry the cost every exchange.",
+       "sample": "They stood at issoku itto no maai, one step and one cut, and Kaede gave the courier the whole of the wait. His breath came white and short. His weight had crept onto the lead foot until that heel left the ice, and a man whose heel cannot come back cannot stop a thrust once begun. He began it. She cut once. Afterward the yard could read it: both forearm bones parted above the right wrist, the hand on the ice still closed, and a ring of thaw round her boots where the work had left her as heat."
+      },
+      {
+       "key": "C",
+       "label": "Some floor to the notes",
+       "consequence": "The page carries measure, the read and the wound; tempo, mechanics and the Essence account move to the author notes. Fast fights, but this reopens R13-8: the reader can check the call only from the notes.",
+       "sample": "The courier came at Kaede with a thrust to the throat. She cut once, down through his right wrist, and his hand went onto the ice still holding the sabre. He looked at it for a while. Then he sat down in the snow beside it with his good hand clamped over the stump, and the blood ran out between his fingers and steamed in the cold."
+      }
+     ],
+     "recommended": "B",
+     "rec_reason": "It keeps every item of the floor you built in Packs Twelve to Fourteen and fixes the stale lengths, while letting a Verdict duel read like Gu Long and a Percussion duel grind like attrition, which R70-102 already asks for.",
+     "multi": false,
+     "depends_on": [],
+     "rules_touched": [
+      "R13-4-COMBAT_FLOOR",
+      "R13-4-DENSITY_BUDGET",
+      "R70-102-STILLNESS_TRACED_PASSES_LONG",
+      "R13-8-RECONSTRUCTIBLE_ADJUDICATION",
+      "R48-28-TURN_LENGTH",
+      "R48-46-WORD_FLOOR"
+     ]
+    },
+    {
+     "id": "K5",
+     "title": "Roleplay turns against written fights",
+     "question": "In a roleplay fight, how much does one of Natalie's turns resolve before it stops for you?",
+     "context": "Table Rule 1: answer what the PC did, move the world, stop at his next decision, never resolving a multi-decision action in one go. Turns run about 3,500 words (R48-28) and a combat turn is six seconds (R47-11), so one exchange per reply crawls: the Geturo bout ran ten files. Nothing says which floor items Natalie states for your exchange.",
+     "options": [
+      {
+       "key": "A",
+       "label": "One exchange, stop at threat",
+       "consequence": "Each turn resolves your stated move, runs the NPC's answer to the instant before it lands, and stops. Slowest; your defence is always yours. Natalie states only the world's side of the floor."
+      },
+      {
+       "key": "B",
+       "label": "Standing orders honoured",
+       "consequence": "You may post conditions ('if he closes, I cut low'). Natalie runs them exchange by exchange until the first branch they do not cover, then stops on that threat. Table Rule 1 gains this exception."
+      },
+      {
+       "key": "C",
+       "label": "Six seconds a turn",
+       "consequence": "Each reply covers one six-second combat turn, judged against your last stated stance and guard. Fastest, and an NPC's blow may land on a defence you set a turn earlier."
+      }
+     ],
+     "recommended": "B",
+     "rec_reason": "It lets a fight move at the speed a 3,500-word turn can carry without Natalie ever choosing your defence, and your conditions become part of the read, which is the game.",
+     "multi": false,
+     "depends_on": [
+      "K4"
+     ],
+     "rules_touched": [
+      "R49-01-WHOSE_HEAD",
+      "R49-29-TURN_FILL",
+      "R48-28-TURN_LENGTH",
+      "R47-11-TIME_AND_ENERGY",
+      "R48-35-USES",
+      "R13-4-COMBAT_FLOOR"
+     ]
+    },
+    {
+     "id": "K6",
+     "title": "When the reader sees the call",
+     "question": "When Natalie decides an exchange from the stats, does the deciding fact reach the page before the blow, or only after it?",
+     "context": "R13-8 already wants every call 'reconstructible from the page', and R14-3 has the author notes name the deciding row. Open is when: Naruto and Hunter x Hunter show the deciding fact before the blow; most Western fiction lets it be worked out afterward. A Grade is a stat's letter band; a Measurewright is the Guild assessor whose coil prints a practitioner's figures.",
+     "options": [
+      {
+       "key": "A",
+       "label": "Reconstructible after, as now",
+       "consequence": "The page carries the evidence and the result, and the notes name the row. A sharp reader can work out the call afterward, never call it in advance.",
+       "sample": "Brannock threw the Fehler, the high cut that is only a picture, and turned the true cut under it toward the Mishiro woman's left side. Her blade was already waiting there. It met his before his hands had finished turning, and the shock went up his arms into his teeth. He gave a pace on the frozen grit. Along the rail somebody laughed. Only afterward did he think about her eyes, which had stayed on his breastbone the whole time, and her nostrils, which had moved."
+      },
+      {
+       "key": "B",
+       "label": "Deciding fact in the read",
+       "consequence": "The fact that decides an exchange shows beforehand in the POV's read or a second's mouth, as behaviour or a Grade estimate, so a sharp reader can call it. The notes still name the row.",
+       "sample": "Two passes in, Brannock had it. The Mishiro woman never watched his blade or his shoulders. Her eyes sat on his breastbone and her nostrils moved, and her ears turned a breath before his hands did, every time, as if what he meant reached her through the air ahead of the steel. She was reading him by smell. A feint would show her a picture she was not looking at. He threw the Fehler anyway and turned the true cut under it toward her left side, where her blade was already waiting."
+      },
+      {
+       "key": "C",
+       "label": "A readout at the deciders",
+       "consequence": "The deciding figures reach the page as an appraisal readout, inline as R70-80 sets it, at a display or the finisher, after the body and inside R70-86's three a scene, so the call can be checked in figures.",
+       "sample": "Brannock threw the Fehler, the high cut that is only a picture, and turned the true cut under it toward the Mishiro woman's left side. Her blade was already waiting there. The shock went up his arms into his teeth. At the rail the Measurewright's coil punched its tape, and her clerk read it into the book in a flat voice: 'Mishiro. Gnosis 260, B; Perception 275. Dexterity 245, B; Reflex 240.' The word Perception meant nothing to Brannock. He gave a pace on the frozen grit."
+      }
+     ],
+     "recommended": "B",
+     "rec_reason": "It is the Naruto and Hunter x Hunter pleasure you named, a fight the reader could have called, and it keeps R48-48's rule that the full explanation waits until you ask; readouts stay free for the three moments R70-85 gives them.",
+     "multi": false,
+     "depends_on": [],
+     "rules_touched": [
+      "R13-8-RECONSTRUCTIBLE_ADJUDICATION",
+      "R14-3-TRACEABILITY",
+      "R48-48-EXPLAIN",
+      "R70-88-NUMBERS_INSIDE_FIGHT",
+      "R70-85-SCENE_MOMENTS_THAT_EARN",
+      "R70-80-READOUT_SITS_PAGE",
+      "R70-79-CAN_READ_WHOM"
+     ]
+    },
+    {
+     "id": "K7",
+     "title": "The core promise",
+     "question": "What does a WOTR fight promise when the world's honest numbers and a fair challenge pull apart?",
+     "context": "R57-10 builds every engagement as 'a genuine challenge for the PC, never rigged in either direction', and R13-8 rewrites any fight that 'resolves because the scene needed it to'. Lord of the Mysteries keeps some fights hopeless, and the skill is avoiding them; game design promises every boss a winning line. This sets the promise the Combat Guide opens with.",
+     "options": [
+      {
+       "key": "A",
+       "label": "The world as it is",
+       "consequence": "Opponents are whatever the world holds; some fights cannot be won and the read is to refuse them. Fairness means only that the danger was readable in time."
+      },
+      {
+       "key": "B",
+       "label": "A way out, always planted",
+       "consequence": "The world stays honest, and every fight Natalie stages has at least one findable line out (a counter, ground, flight or a yield), planted where you could catch it. The guide opens: fair, computable, costly."
+      },
+      {
+       "key": "C",
+       "label": "Every fight winnable",
+       "consequence": "Every staged fight has a winning line by skill. Closest to game design; it reads as tuned, and R57-10's 'never rigged' cuts against it."
+      }
+     ],
+     "recommended": "B",
+     "rec_reason": "It holds both halves of R57-10 at once: nothing is softened, and nothing is a trap with no exit, which is what fair abilities with findable counters means at the scale of a whole fight.",
+     "multi": false,
+     "depends_on": [],
+     "rules_touched": [
+      "R57-10-NEVER_RIGGED",
+      "R13-8-RECONSTRUCTIBLE_ADJUDICATION",
+      "R48-30-SURPRISES",
+      "R48-31-STAKES",
+      "R48-36-NPC_WITS"
+     ]
+    },
+    {
+     "id": "K8",
+     "title": "LitRPG combat models",
+     "question": "Beside Unbound and The Beginning After the End, which LitRPG works should the Combat Craft Guide name as fight models?",
+     "context": "Your words in R70-4 name Unbound and The Beginning After the End; R70-6 took Cradle, Reverend Insanity, Solo Leveling and The Wandering Inn for progression. None was named for how a fight reads. LitRPG is fiction with visible levels, stats and system notices; the research found four fight models that survive the reserve clock and the readout caps.",
+     "options": [
+      {
+       "key": "A",
+       "label": "nobody103, Mother of Learning",
+       "consequence": "The prepared fight: scout, learn the enemy's tools, then a short, legible final attempt the reader can check. Its time loop stays out, since death is permanent; R70-71 and R12-3's study counter are its home."
+      },
+      {
+       "key": "B",
+       "label": "Dinniman, Dungeon Crawler Carl",
+       "consequence": "The room as the counter: a gas, a drop, a cut main beats the boss; bosses that change their rule mid-fight; grief arriving cold after the jokes. Comic beats stay with carded comic voices (R70-113)."
+      },
+      {
+       "key": "C",
+       "label": "Zogarth, The Primal Hunter",
+       "consequence": "The bench wins the fight: poisons and coated shot prepared days before, the dose counted toward its effect, the dying long. Its time-stopping sense would need a ruled mechanism and stays out."
+      },
+      {
+       "key": "D",
+       "label": "SenescentSoul, Delve",
+       "consequence": "Drain-rate tension: the reserve clock worked out so the reader knows when a fighter will cross into Starvation (below a tenth of his reserve). The figures stay between exchanges and in the notes, under R70-88's no running figures."
+      }
+     ],
+     "recommended": "A,B,C",
+     "rec_reason": "Mother of Learning is the fair-counter fight in LitRPG form, Dungeon Crawler Carl gives the room and the boss's changing rule, and The Primal Hunter is the alchemist's fight the AL section needs; Delve's arithmetic already lives in the reserve clock and the Stat Ledger.",
+     "multi": true,
+     "depends_on": [],
+     "rules_touched": [
+      "R70-4-WESTERN_MODELS",
+      "R70-6-LITRPG_PROGRESSION_MODELS",
+      "R70-71-EXPLAINING_WORKING_MID_FIGHT",
+      "R12-3-NAMED_INVENTOR_RULE",
+      "R70-88-NUMBERS_INSIDE_FIGHT"
+     ]
+    }
+   ]
+  },
+  {
+   "key": "CW",
+   "title": "Combat writing in general",
+   "intro": "How any fight reads, magic or none: exchange grain and pace, space, speed, impact, pain, fear and sound, ground and weather, how fights end and what follows; magical combat proper is the MC section. In the samples, the boss and rim are a shield's centre and edge, the tsuba a Japanese sword's guard, the hakama the pleated trousers, the Zornhau the wrath cut, and the strong the half of a blade nearest the hilt.",
+   "questions": [
+    {
+     "id": "CW1",
+     "title": "Counting back the small exchanges",
+     "question": "May a fight count back exchanges that change nothing in one sentence, keeping the full trace for the ones that decide it?",
+     "context": "This reopens R48-33 ('every exchange traced'); R70-57 asks exchanges 'traced and lean', and R13-4's floor binds only meaningful ones. The archive runs both ends: Geturo's one wrist escape takes 1,328 words, while Darius's Fist of God counts back a teep (a push kick), low kicks and elbows in one line. Percussion grammar, the hammer's, wins by attrition over many exchanges.",
+     "options": [
+      {
+       "key": "A",
+       "label": "Every exchange traced",
+       "consequence": "R48-33 stands: every exchange gets measure, guard and the move named, however minor. Attrition fights run long on the page.",
+       "sample": "The Dawi's first blow came down on the rim and Hesk took it on the boss, angled, and gave a step. The second swept low at his knee; he dropped the shield's edge to meet it and the shock went up into his elbow. The third was a shove with the haft at close measure, and he turned his shoulder into it and cut short at her wrist, and missed. The fourth came back off the rim on its own rebound, his shield arm was a heartbeat late, and the haft broke his ulna above the wrist."
+      },
+      {
+       "key": "B",
+       "label": "Count back the minor ones",
+       "consequence": "R48-33 is amended: exchanges that change nothing may be counted back in one sentence, each named by its move; any exchange that lands, shifts measure or reveals something is traced with the floor.",
+       "sample": "For most of a minute the Dawi beat on the shield and Hesk let her: two blows at the knee, one down on the rim, a shove with the haft, each taken on the boss and paid for with a step of the gallery. None of it changed the fight, though all of it went into his left forearm. Then the hammer came back off the rim on its own rebound, faster than a hammer has any right to come back, and his shield arm was a heartbeat late. The haft broke his ulna above the wrist."
+      },
+      {
+       "key": "C",
+       "label": "Summary between the peaks",
+       "consequence": "Only the first display, the turn and the finisher are traced; everything between is a summarising passage. Film-fast; R48-33 falls for duels and the reconstruction rests on the notes.",
+       "sample": "They fought down the length of the gallery, hammer on shield, ground given and taken, until Hesk's left arm was lead to the shoulder and his breath came in rags. Then the hammer came back off the rim on its own rebound, the shield arm was a heartbeat late, and the haft broke his ulna above the wrist."
+      }
+     ],
+     "recommended": "B",
+     "rec_reason": "Attrition grammars need many exchanges and the reader needs to feel them pile up without wading through each; the counted-back line keeps every move named and checkable while the deciding exchanges keep the full trace.",
+     "multi": false,
+     "depends_on": [
+      "K4"
+     ],
+     "rules_touched": [
+      "R48-33-CHOREOGRAPHY",
+      "R70-57-DESCRIPTION_INSIDE_FIGHT",
+      "R13-4-COMBAT_FLOOR",
+      "R70-102-STILLNESS_TRACED_PASSES_LONG",
+      "R1-1-PERCUSSION_VS_BLADE"
+     ]
+    },
+    {
+     "id": "CW2",
+     "title": "Running fast",
+     "question": "May a fight's swift stretch run short, even sentences at the speed of the blows, against the run rule?",
+     "context": "R70-15 gives fights jo-ha-kyū tempo (slow, breaking, swift), and R70-20 already lets a fight's last beats run as one-line paragraphs. But R4-14's run rule fails any three sentences within forty percent of each other's length, so a swift stretch cannot run even. Shōnen fights (manga for a young male readership) run whole staccato pages; the archive never runs fast past a paragraph.",
+     "options": [
+      {
+       "key": "A",
+       "label": "The rhythm law holds",
+       "consequence": "Speed comes from verbs, clipped clauses and the short hit; sentence lengths still vary throughout. No new licence; R4-14 and R49-13 stand.",
+       "sample": "Ishida came in high and Renard met him in the bind, wound the point toward the throat, and lost it as the Tenrai man slid out under the cross. The next cut came at his head. He caught it on the flat. A second came at his knee before the first had finished ringing, and he gave the leg, took the blade on the strong of his own, and drove the pommel up into the other man's teeth with the whole turn of his hips behind it."
+      },
+      {
+       "key": "B",
+       "label": "A staccato run, once",
+       "consequence": "Once per fight, in its swift stretch, one short paragraph of short, even sentences is exempt from the run rule, and the notes mark it. R4-14 is partly amended for fights.",
+       "sample": "Ishida came in high and Renard met him in the bind and lost it there. Then it went fast. Ishida cut high. Renard parried. Ishida cut low. Renard gave the leg. The point came at his eye. He turned it on the cross. A thrust went in at his belly and the coat took it, very nearly too late. Then the pommel was in his fist with his hips behind it, and it went up into Ishida's teeth, and the Tenrai man's head cracked back against the frost on the wall."
+      },
+      {
+       "key": "C",
+       "label": "Staccato at will",
+       "consequence": "Any fight passage may run short, even sentences; R4-14 falls for combat. The fastest pages, and the highest risk of the flat machine rhythm the rule exists to stop.",
+       "sample": "Ishida came in high. Renard bound. The point slid off. He lost the bind. Ishida cut high. Renard parried. Ishida cut low. Renard gave the leg. The point came at his eye. He turned it. A thrust came low. The coat took it. The pommel went up. Teeth broke. Ishida's head went back. Frost fell off the wall."
+      }
+     ],
+     "recommended": "B",
+     "rec_reason": "One licensed burst gives you the shōnen page at the moment it earns its keep, and the long varied sentences either side make the burst land; the run rule keeps guarding everything else.",
+     "multi": false,
+     "depends_on": [],
+     "rules_touched": [
+      "R4-14-RUN_RULE",
+      "R70-15-TEMPO_STILLNESS",
+      "R70-20-PARAGRAPH_SHAPE",
+      "R70-19-PAIRED_CUMULATIVE_SENTENCES",
+      "R49-13-VARIANCE",
+      "R48-06-RHYTHM_LAW"
+     ]
+    },
+    {
+     "id": "CW3",
+     "title": "Keeping space trackable",
+     "question": "Must the reader always be able to track where the fighters stand, or may chaos blur it?",
+     "context": "R13-4's floor owes measure (where the bodies are and what each can reach) at every meaningful exchange. Film keeps screen direction fixed so the eye never loses who stands where; Abercrombie let space go on purpose. The archive tracks space well on flat ground, and has never fought on stairs, ice or roofs, or in a crowd or the dark.",
+     "options": [
+      {
+       "key": "A",
+       "label": "Always trackable",
+       "consequence": "Every exchange fixes both bodies; left and right never flip without a stated turn. The gap-fill pass's physics audit checks it, and a scramble is written as clearly as a yard.",
+       "sample": "The raider came round the left end of the woodpile with the lamp behind him, so Tobin had the stack at his right shoulder and the lane open at his back. The man cut at his head. Tobin took it on the haft of his axe, stepped left to keep the stack between him and the second raider, who was still coming over the top of it, and swung low at the first man's knee. The axe went in below the kneecap from the outside. The man fell toward the lamp."
+      },
+      {
+       "key": "B",
+       "label": "Fixed at the deciders",
+       "consequence": "A scramble (a crowd, the dark, a fall) may blur position while it lasts; every exchange that decides something re-fixes both bodies before it lands. Chaos is legal, the deciding geometry always clear.",
+       "sample": "Then the lane was all bodies: somebody's elbow in his ear, the lamp going over, split rounds coming down off the stack, a man's breath in his face sour with the skin. Tobin could not have said which way the Seat lay. He got his back against something. Wood: the stack. The raider in front of him had the fallen lamp at his heels and the lane at his left, and he lifted his sword high. Tobin swung low at the nearest knee, and the axe went in below the kneecap."
+      },
+      {
+       "key": "C",
+       "label": "As clear as the POV",
+       "consequence": "The page tracks space only as well as the POV can: a ranked fighter's Gnosis keeps it sharp, an untrained man loses it and the reader with him. Partly reopens R13-4's item 1 and R13-8 for untrained POVs.",
+       "sample": "Then the lane was all bodies and Tobin lost it entirely: an elbow, the lamp going over, logs coming down, somebody screaming who might have been him. There was a sword up in the dark. He swung at the bottom of it. Something went in and stuck, and the man it belonged to fell on him, and he lay under the weight in the snow with no idea which way he faced or whether he had won."
+      }
+     ],
+     "recommended": "B",
+     "rec_reason": "The scramble is where WOTR's grimdark lives and where the archive has never gone, and re-fixing the bodies at each decider keeps R13-8's promise that any outcome can be checked.",
+     "multi": false,
+     "depends_on": [],
+     "rules_touched": [
+      "R13-4-COMBAT_FLOOR",
+      "R13-8-RECONSTRUCTIBLE_ADJUDICATION",
+      "R13-5-GAP_FILL_PASS"
+     ]
+    },
+    {
+     "id": "CW4",
+     "title": "Superhuman speed",
+     "question": "Which devices may render a practitioner's speed on the page?",
+     "context": "Fracture of Worlds sets speed by Grade: at D a man can react to gunfire but cannot outrun it; at A his movement throws heat and pressure waves. The house draws speed by what arrives first ('The push came first'). Anime adds the wound that opens after the pass; real adrenaline stretches felt time (tachypsychia, the slowing of time under extreme stress).",
+     "options": [
+      {
+       "key": "A",
+       "label": "The effect arrives first",
+       "consequence": "Speed shown through its physics: the pressure front, the crack after, the wound that opens once the swordsman has passed. Held to FOW's speed rows for the Grade on the card.",
+       "sample": "He fired. The ball went through the place Yoko had been, and the first news of her coming was the yard itself: a long tongue of snow lifted off the cobbles toward him, shoved ahead of a body moving faster than snow is used to. The crack of her passing came afterward, flat off the stable wall. Then his sleeve parted from shoulder to cuff, and only then did his hand open on the revolver, because the cut had arrived before the sense of it."
+      },
+      {
+       "key": "B",
+       "label": "Felt time, by Reflex",
+       "consequence": "A POV whose Reflex Grade outruns the threat gets stretched time on the page, held to FOW's Reaction Speed row for that Grade; a slower POV gets only the gap. Sits beside R70-57's one held instant.",
+       "sample": "The courier's finger whitened on the trigger and the yard thickened round Yoko. Her Reflex sat at the Grade where gunfire can be met, and her body spent that margin as time. The flash came. Grey smoke unrolled from the muzzle and hung. The report reached her first, as it does with a ball that slow, and then the ball itself, dark and turning, crossing the space her throat had held. She stepped off its line at a walk. Then the yard ran at its own pace again, and she was at his wrist."
+      },
+      {
+       "key": "C",
+       "label": "The gap in the frame",
+       "consequence": "The body is simply elsewhere, nothing drawn between two poses; any after-image is disturbed snow, dust or frost, never a glowing double (R9-3 keeps 'it glowed' banned).",
+       "sample": "He fired. Smoke rolled out grey between them, and when it thinned Yoko stood at his right hand with her sword already drawn. Between the two places she had stood there was nothing to show she had crossed the yard at all, save the snow on the cobbles, scuffed in one long line and settling again, and the stable cat flattened under the cart with its ears back."
+      },
+      {
+       "key": "D",
+       "label": "The witness who misses it",
+       "consequence": "Speed shown through a slower watcher who cannot follow. The archive's signature, now close to a tic; if ticked, it is rationed to one per scene.",
+       "sample": "The stable boy said afterward that she never moved. He had been looking straight at her the whole time, he said, the gun going off and everything, and the Mishiro woman was by the water trough and then she was by the courier, and the revolver was on the cobbles. Nobody in the yard believed him, and nobody had seen it any better."
+      }
+     ],
+     "recommended": "A,B,C",
+     "rec_reason": "These three are real physics and real physiology put to work, each answerable to the card's speed rows, and together they cover the Bleach delayed wound, the anime vanish and the held instant; the archive already leans on the slow witness hard enough.",
+     "multi": true,
+     "depends_on": [],
+     "rules_touched": [
+      "R70-57-DESCRIPTION_INSIDE_FIGHT",
+      "R9-3-AURA_AS_FRACTURE",
+      "R45-1-SPEED_DECIDES_THE_DODGE",
+      "R70-83-FIGURES_PLAIN_NARRATION",
+      "R12-5-NEVER_INVENT_NUMBER"
+     ]
+    },
+    {
+     "id": "CW5",
+     "title": "Impact and momentum",
+     "question": "How strictly does a big hit obey momentum on the page?",
+     "context": "R13-4's item 5 owes the hit's mechanics, and FOW's Focused-Yield Principle lets a focused striker put his yield into 'a contact area smaller than a coin'. Real physics pushes back on the striker as hard as on the struck, so what anchors him decides where the blow goes. The archive repeats one image, heels ploughing two furrows, four times. Sanderson's fights run on this law; anime ignores it.",
+     "options": [
+      {
+       "key": "A",
+       "label": "Show the result, as now",
+       "consequence": "Impacts show what they did to body, ground and room; where the momentum went is not audited, and the stock furrow and nosebleed stay free.",
+       "sample": "The hammer came down on the shield, and Tobin went back across the yard on both heels, ploughing two furrows through the frozen grit, and fetched up against the woodpile with the split rounds coming down around him. Blood ran from his nose into his beard. The shield boss had folded in on itself like a pressed tin cup."
+      },
+      {
+       "key": "B",
+       "label": "Momentum accounted for",
+       "consequence": "At display and finisher the page says where the momentum went: what anchored the striker, whether the target was thrown or broken, what the ground took. The physics audit checks it; stock images move to a bank per culture.",
+       "sample": "The Dawi set her back heel against the death-house step before she swung, and the step took its share of what she gave it. The rest went into the shield. Tobin was standing on ice, so the blow threw him instead of breaking him: back across the yard and into the woodpile, the boss folding in. Planted on stone, he would have kept the whole of it in his forearm, and the forearm would have gone."
+      },
+      {
+       "key": "C",
+       "label": "Energy right, motion free",
+       "consequence": "The energy must match the card; how bodies fly is the scene's choice, anime style. Spectacle over Newton, and the reader cannot check the flight.",
+       "sample": "The hammer met the shield and Tobin left the ground. He went the length of the yard through the air, turning once, and broke the woodpile with his back, and the split rounds came down over him like a wall falling. The Dawi had not moved her feet. Snow slid off the death-house roof where the sound of the blow had shaken it loose."
+      }
+     ],
+     "recommended": "B",
+     "rec_reason": "Real physics is your standing taste, and momentum gives every big hit a findable counter (take away his anchor) as well as a fresh image each time, which retires the furrow without banning anything.",
+     "multi": false,
+     "depends_on": [],
+     "rules_touched": [
+      "R13-4-COMBAT_FLOOR",
+      "R13-5-GAP_FILL_PASS",
+      "R48-16-REAL_FIGURES",
+      "R13-6-REAL_SCIENCE_VOCAB"
+     ]
+    },
+    {
+     "id": "CW6",
+     "title": "Fighting on through a wound",
+     "question": "How far can a ranked practitioner keep fighting through a structural wound?",
+     "context": "R60-01 puts a wounded ordinary fighter 'out of the fight'. The Combat Guide makes practitioners 'not exempt, only harder': once a wound is through, the same anatomy and the same clock. Vitality's Threshold and Tolerance set when pain arrives. Anime heroes fight on with broken ribs; Hunter x Hunter makes them pay for it afterward. MC10 asks whether Vitalia may mend inside the fight.",
+     "options": [
+      {
+       "key": "A",
+       "label": "Same clock, as now",
+       "consequence": "A cut tendon fails at once whatever the Grade; Vitality only delays the pain and slows the bleeding. A wounded practitioner fights on with whatever still works.",
+       "sample": "The Tenrai's edge had gone through the flexor tendons on the inside of Renard's left forearm, and the fingers of that hand opened on their own and would not close. The pain had not come yet. A Greymane learns to fight one-handed for exactly this. Renard let the hand hang, took the sword in his right alone, and gave ground toward the door, where the corridor ran narrow enough that one hand would do."
+      },
+      {
+       "key": "B",
+       "label": "An Essence splint, priced",
+       "consequence": "A practitioner may hold a broken structure shut with a working: Tempering for how long, a reserve cost per turn, ending at Starvation; the wound is worse afterward. Needs a ruled mechanism before first use.",
+       "sample": "The Tenrai's edge had gone through the flexor tendons on the inside of Renard's left forearm, and the fingers opened. He closed them again with the working. He laid Essence along the sheaths of the cut tendons the way a smith clamps a split haft, and it held the hand shut round the grip, and every breath of holding drew on his reserve. He had the length of this fight in it, perhaps. Afterward the arm would be worse than any surgeon could have left it."
+      },
+      {
+       "key": "C",
+       "label": "Grit while reserve lasts",
+       "consequence": "A practitioner fights on through any wound until his reserve is spent, and the wound's loss of function arrives when the fight ends. The shōnen norm; it overturns the Combat Guide's same-clock row.",
+       "sample": "The Tenrai's edge had gone through the flexor tendons on the inside of Renard's left forearm. He took the grip in both hands anyway, and the left hand closed because he told it to, and the sword came round in a Zornhau with both arms behind it. The Tenrai man had not expected the second hand. The forearm could argue its case with him later."
+      }
+     ],
+     "recommended": "B",
+     "rec_reason": "It gives you the hero who fights on, which you clearly enjoy, but as a working with a price you can compute and an opponent can exploit by making him hold longer; the mechanism is owed before first use, as killing intent's is.",
+     "multi": false,
+     "depends_on": [],
+     "rules_touched": [
+      "R60-01-BRUTAL_LETHALITY",
+      "R60-02-REAL_HEALING_TIMES",
+      "R60-03-HARD_RESERVE_CLOCK",
+      "R48-37-COST_SHOWN",
+      "R49-50-OWN_BODY"
+     ]
+    },
+    {
+     "id": "CW7",
+     "title": "How long the page stays on a wound",
+     "question": "How long does the page stay on a wound, and does that change by scene type?",
+     "context": "R48-34: 'full clinical gore, anatomy named, blood loss tracked minute by minute, nothing looked away from.' The archive meets it with precision, not length: the structure, one image, move on. The Mass Combat Guide keeps one full-detail body per scene. This sets length only; explicitness is settled. ATLS classes (the trauma surgeons' blood-loss scale, I to IV) stay.",
+     "options": [
+      {
+       "key": "A",
+       "label": "Precise and short",
+       "consequence": "The house as now, everywhere: structure named, the ATLS class, one image, and the scene moves on. The full clock runs on the page only in the aftermath.",
+       "sample": "Brida went down the line on her knees. The first had a split scalp and would live. The second had a ball through the meat of the thigh that had missed bone and vessel both, and she packed it and moved on. The third had been opened high on the inside of the thigh, over the femoral, and was in the third bowl already, his eyes wandering. She put her knee on it. The blood came up round her knee in slow pulses and then stopped coming."
+      },
+      {
+       "key": "B",
+       "label": "Linger at every death",
+       "consequence": "Every death on the page gets a passage, the dying tracked step by step wherever the POV can see it. Heavy; duels become elegies and battles slow to a crawl.",
+       "sample": "The third had been opened high on the inside of the thigh, over the femoral. Brida put her knee on the wound and her weight behind the knee and counted his breaths. At first he talked, quick and frightened, about a horse. Then he stopped talking, and his hands went cold under hers. The blood came up round her knee in pulses, dark on the snow, slower each time, and his lips went the grey of the sky over the Seat. Near the end he asked her name. She told him. He did not say it back."
+      },
+      {
+       "key": "C",
+       "label": "Length by scene type",
+       "consequence": "Exchanges stay precise; a finisher, an execution and a battle's one full-detail body get the lingering passage; roleplay turns keep it short unless the death is the turn's point.",
+       "sample": "The split scalp would live; she said so and moved on. The ball through the thigh had missed bone and vessel both, and she packed it in a breath. For the third man she knelt. He had been opened high on the inside of the thigh, over the femoral, so Brida put her knee on it and counted. His talk ran quick and frightened about a horse, then stopped. His hands went cold. Round her knee the pulses came slower and darker, until his lips had greyed to the colour of the sky over the Seat."
+      }
+     ],
+     "recommended": "C",
+     "rec_reason": "Lingering everywhere dulls it and lingering nowhere wastes the deaths that matter; choosing the moment keeps 'nothing looked away from' and lets the one death the scene is about cost what it should.",
+     "multi": false,
+     "depends_on": [],
+     "rules_touched": [
+      "R48-34-WOUNDS",
+      "R54-20-MASS_WOUND_ANATOMY",
+      "R48-38-AFTERMATH",
+      "R70-105-JOINS_WOUND_WHEN_FIGHT"
+     ]
+    },
+    {
+     "id": "CW8",
+     "title": "Fear in the body",
+     "question": "Does the body's fear response go on the page in a fight, and for whom?",
+     "context": "No rule asks for it. Memoirs and Keegan's The Face of Battle make it the core of combat: hearing going dull (auditory exclusion), sight narrowing to a tunnel, hands that cannot do fine work, the bladder letting go. The gap-fill body audit already applies stress analgesia; the Pressure ladder does this for Stage gaps, and R52-28 makes composure 'free' for anyone trained into calm.",
+     "options": [
+      {
+       "key": "A",
+       "label": "Texture, by choice",
+       "consequence": "Fear physiology appears when the scene wants it; nothing asks for it. As now.",
+       "sample": "The raiders came over the woodpile in the blue hour, and Tobin lifted his axe. Beside him Renard was already moving left to take the end of the stack. The first man jumped down into the yard and Tobin met him. The axe went into the man's collarbone with the sound of a round splitting, and stuck."
+      },
+      {
+       "key": "B",
+       "label": "Owed for the untrained",
+       "consequence": "An untrained POV's fights carry at least two fear effects in the body, traced to adrenaline; trained fighters keep composure free (R52-28) and show it only under real strain or Pressure.",
+       "sample": "The raiders came over the woodpile in the blue hour and the yard went far away from Tobin, down a long pipe with the first man at the end of it and nothing else. He could no longer hear the horses. His fingers had gone thick and stupid on the haft, he had to look down to see that they still held it, and something warm was running down his leg. Beside him Renard moved left to take the end of the stack, unhurried, breathing through his nose."
+      },
+      {
+       "key": "C",
+       "label": "Owed for everyone",
+       "consequence": "Every POV shows the fear response in every fight; rank and training lower it but never remove it. The grimmest reading, and it overturns R52-28 inside a fight.",
+       "sample": "The raiders came over the woodpile in the blue hour and the yard narrowed for Tobin to the first man and the axe. He could no longer hear the horses. His fingers were thick and stupid on the haft. Beside him Renard moved left to take the end of the stack, and even Renard's breath had gone short and high, and his sword hand flexed twice on the waxed cord of the grip before it settled, the old animal in him taking its turn before the training did."
+      }
+     ],
+     "recommended": "B",
+     "rec_reason": "It writes ordinary men's fights the way the memoirs do, keeps the gap between a levyman and a Greymane visible in the body, and leaves trained calm free as R52-28 rules.",
+     "multi": false,
+     "depends_on": [],
+     "rules_touched": [
+      "R52-28-COMPOSURE",
+      "R60-01-BRUTAL_LETHALITY",
+      "R49-50-OWN_BODY",
+      "R13-5-GAP_FILL_PASS"
+     ]
+    },
+    {
+     "id": "CW9",
+     "title": "What a fight sounds like",
+     "question": "What carries an impact's sound on the page in a fight?",
+     "context": "R70-22 already lets each culture carry a few native sound words in speech and close narration, entered in its Inventory and never italic; English sound words were offered then and not taken. No Inventory has entered any yet. The archive renders fight sound almost only by comparison ('sailcloth going along a seam'). Manga letter every impact on the page.",
+     "options": [
+      {
+       "key": "A",
+       "label": "The comparison, as now",
+       "consequence": "Sound arrives as a comparison from the POV's life or the culture's image bank (R70-59); native sound words stay rare in fights.",
+       "sample": "The Shirogane blade came down and Ikeda met it near the tsuba, and the two swords locked with a sound like a pot lid dropped on stone that would not stop ringing. He turned his hips and slid off the bind. His answering cut went through the man's hakama at the thigh with the long dry tearing of canvas caught on a nail. Afterward, in the quiet, his guard settled into the scabbard mouth with its one small sound."
+      },
+      {
+       "key": "B",
+       "label": "The native word at impact",
+       "consequence": "In fights the POV culture's own sound words (R70-22) carry the impacts, entered in its Inventory first; comparisons are kept for the held instant. Each culture's bank gains a few fight words.",
+       "sample": "The Shirogane blade came down and Ikeda met it near the tsuba, and the steel locked with a gakin that ran on along both blades and into his back teeth. He turned his hips, slid off the bind and cut. The cloth at the man's thigh tore with a long dry sound, and under it the edge went in, zan. Afterward, in the quiet, his guard settled into the scabbard mouth with the small final sound a Kharven yard had learned to fear."
+      },
+      {
+       "key": "C",
+       "label": "The hearing as gauge",
+       "consequence": "Sound shows through the POV's ears: what drops out under adrenaline, the ringing after a blast, the draw-hum failing under Pressure. Pairs with CW8.",
+       "sample": "The Shirogane blade came down and Ikeda met it near the tsuba, and after the clash the yard went silent for him. He turned his hips, slid off the bind and cut, and the edge went in through cloth and thigh without a sound at all. Then the world came back in a rush, the horses, a woman shouting, a ringing in his left ear that would not stop, and his guard settling into the scabbard mouth."
+      },
+      {
+       "key": "D",
+       "label": "English noise words too",
+       "consequence": "English noise words (clang, scrape, the wet chop) are committed at impacts beside the native ones. Plain and fast, and it reopens R70-22, which left English sound words untaken.",
+       "sample": "The Shirogane blade came down and Ikeda met it near the tsuba with a clang, and the ring of it ran on along both blades. He turned his hips and slid off the bind with a long scrape of steel on steel. Then he cut. There was a rip of cloth at the man's thigh and the wet chop of the edge under it. Afterward, in the quiet of the yard, his guard settled into the scabbard mouth with a click."
+      }
+     ],
+     "recommended": "B",
+     "rec_reason": "You chose each culture's own sound words in the style law, and manga's lettered impact is part of what you love; a native word at the blow keeps a Moto yard sounding Moto without reopening anything.",
+     "multi": false,
+     "depends_on": [
+      "CW8"
+     ],
+     "rules_touched": [
+      "R70-22-SOUND_WORDS",
+      "R50-32-ITALICS",
+      "R70-59-WHERE_COMPARISONS_COME_FROM",
+      "R70-57-DESCRIPTION_INSIDE_FIGHT"
+     ]
+    },
+    {
+     "id": "CW10",
+     "title": "Ground and weather in the fight",
+     "question": "How far do ground and weather take part in a fight?",
+     "context": "R53-09 tracks weather like a clock: 'cold, wet and thaw change what people can do'. Table Rule 5 weighs 'what the environment allows', yet the adjudication table has no environment row. The Counterplay page already says which Wellspring Family fails where (Caloria, the heat Family, in saturated cold) and tells a commander to 'Pick before contact'. No archived fight happens on stairs, ice, roofs, water or in fog.",
+     "options": [
+      {
+       "key": "A",
+       "label": "An environment row",
+       "consequence": "The adjudication table gains a row: footing, light, cold, wet and Aetheric Density bend named stats, and the author notes say which. Weather stops being texture only.",
+       "sample": "In cold that takes the skin off a bare palm at the crossguard, both men fought in mittens, and the mittens cost each of them a hand's breadth of grip. The cold cost the Tenrai more. His heat-work came off the blade thin and late, the frozen air swallowing it a hand from the steel, and what should have burned through the rider's hide-coat only scorched the frost off it."
+      },
+      {
+       "key": "B",
+       "label": "Ground chosen before contact",
+       "consequence": "Every planned duel opens with the fighters reading or choosing ground (Counterplay's 'Pick before contact'), and the ground decides at least one exchange.",
+       "sample": "The rider had chosen the ford at dusk and the Tenrai had let him, which was the Tenrai's mistake. The ice over the shallows was white and rough; the ice over the channel was black and smooth as a cut stone. The rider knew the line between them to a stride. He gave ground until the Tenrai man's lead foot came down on the black, then closed, and the foot went out from under the cut."
+      },
+      {
+       "key": "C",
+       "label": "New ground, by rotation",
+       "consequence": "Fights rotate through ground the archive lacks (stairs, ice, roofs, water, fog, the dark, a moving cart), logged so no ground repeats twice running.",
+       "sample": "They fought out on the river, which nobody at the Seat had done in living memory, the ice booming under them with every step. Each cut that missed went into it. By the fourth pass the surface round them was crazed white, and the rider began to give ground toward the bank, slowly, so that the Tenrai man would follow him onto the broken part."
+      },
+      {
+       "key": "D",
+       "label": "Texture only, as now",
+       "consequence": "Pick alone. Weather is shown and felt, with consequences where they are obvious; no row and no rotation.",
+       "sample": "The ford lay white under a sky going blue, and between passes the two men's breath stood in front of their faces. Snow had begun, fine and dry. The rider gave ground, closed, gave ground again, and on the fourth pass his cut opened the Tenrai man's thigh, and the blood went black on the ice."
+      }
+     ],
+     "recommended": "A,B",
+     "rec_reason": "A row makes the environment part of the computable fight you asked for, and choosing ground is the oldest findable counter there is; together they push the archive off flat yards without a quota.",
+     "multi": true,
+     "depends_on": [],
+     "rules_touched": [
+      "R53-09-WEATHER",
+      "R13-8-RECONSTRUCTIBLE_ADJUDICATION",
+      "R14-3-STATS_DECIDE_TABLE",
+      "R14-3-TRACEABILITY"
+     ]
+    },
+    {
+     "id": "CW11",
+     "title": "How fights end",
+     "question": "Which endings may a fight take besides a death, and what does each owe?",
+     "context": "R60-01 ends most fights in seconds; R48-31 allows death 'if earned'; R70-104 makes every spared rival a paid choice; R48-30 and R13-8 already bar a rescue the scene merely needed. Nothing rules surrender, flight or a formal stop. Malory's knights yield on terms; the Irish Code Duello set seconds and a stated end; in the Icelandic sagas an undeclared killing counted as murder.",
+     "options": [
+      {
+       "key": "A",
+       "label": "Yield on terms",
+       "consequence": "Surrender is legal and binds by the culture's custom (a Kharven word before witnesses, an Accord form under seal); the terms go on the Ledger as R70-104's debt."
+      },
+      {
+       "key": "B",
+       "label": "Flight, adjudicated",
+       "consequence": "Breaking off and running is always a choice; pursuit is decided on Dexterity (Celerity), the reserve and the ground (FT12 shapes the chase), and a fled fight leaves a witness and a debt."
+      },
+      {
+       "key": "C",
+       "label": "A code ends it",
+       "consequence": "Formal duels run under the culture's code, with seconds and a stated end (first blood, a disarm, a yield); the code's stop binds both men, and breaking it is a Ledger debt."
+      },
+      {
+       "key": "D",
+       "label": "The killing's own law",
+       "consequence": "Every killing carries its culture's legal aftermath (a declaration, a blood-price or labour-debt, outlawry) on the page, opened as a Front or a Ledger line."
+      }
+     ],
+     "recommended": "A,B,C,D",
+     "rec_reason": "Each gives a fight an honest way to end that costs something, which is the line out K7 promises; codes suit the Imperial Age's duelling grounds, and the law of the killing ties fights to the world's politics, where WOTR's bills come due.",
+     "multi": true,
+     "depends_on": [
+      "K7"
+     ],
+     "rules_touched": [
+      "R70-104-RIVAL_BOND",
+      "R48-31-STAKES",
+      "R48-30-SURPRISES",
+      "R53-11-JUSTICE",
+      "R60-01-BRUTAL_LETHALITY"
+     ]
+    },
+    {
+     "id": "CW12",
+     "title": "The aftermath on the page",
+     "question": "How long is a fight's aftermath, and how much medicine does it put on the page?",
+     "context": "R48-38 ends every duel with 'a full aftermath beat: wounds dressed, what changed between people'; R1-3 counts a battle's aftermath in its word floor. Medicine follows place (R53-10): antisepsis in Guild cities, the barber and folk medicine in the north. The archive's best is the arena infirmarian's tray; its one battle has no aftermath at all.",
+     "options": [
+      {
+       "key": "A",
+       "label": "A beat, as now",
+       "consequence": "A few paragraphs: wounds dressed, what changed between people, then the scene moves on. Medicine is named, not worked.",
+       "sample": "Brida stitched the forearm at the kitchen table by lamplight and told him the tendons would knit if he let them rest, which he would not. Renard kept his eyes on the needle and said nothing. When she had finished he flexed the fingers once, badly, and went back to his post at the left of the throne with the arm bound across his chest."
+      },
+      {
+       "key": "B",
+       "label": "Procedure as craft",
+       "consequence": "The dressing is written as process: the period kit for the place, the healer's hands, the bleeding clock closing, what this place's medicine cannot do. R70-46's craft-as-process reaches the infirmary.",
+       "sample": "Brida laid out her tray on the kitchen table: spirit in a stoppered bottle, silk thread, a curved needle she had passed through the lamp flame, a roll of lint, two splints of ash. She washed the cut with the spirit and Renard's jaw set. The severed tendon ends had drawn back up into the forearm. She hooked them out with the needle's point, one and then the other, and joined them end to end with silk. Then she closed the skin, and splinted the wrist bent forward so the repair would not pull."
+      },
+      {
+       "key": "C",
+       "label": "A scene of its own",
+       "consequence": "Every duel and battle owes a separate aftermath scene (the surgeon, the bill, the law, the grave), written before the next fight begins.",
+       "sample": "The kitchen at the Seat was the warmest room in the north and the busiest at night, and Brida had the end of the long table nearest the fire. Renard sat with his forearm on a folded cloth. Through the doorway the death-house cart went past with the Tenrai man in it, covered, and the steward already stood by the pantry with his ledger, waiting to ask who would pay for the corridor's broken lamp."
+      }
+     ],
+     "recommended": "B",
+     "rec_reason": "You chose craft shown as process and full clinical wounds, and the dressing is where both meet; written as procedure it also carries the cost forward for the Ledger, while A's short beat stays legal for minor wounds.",
+     "multi": false,
+     "depends_on": [],
+     "rules_touched": [
+      "R48-38-AFTERMATH",
+      "R53-10-MEDICINE",
+      "R70-46-CRAFT_LABOUR_PAGE",
+      "R1-3-WORD_FLOOR_INCLUDES_AFTERMATH",
+      "R60-02-REAL_HEALING_TIMES"
+     ]
+    },
+    {
+     "id": "CW13",
+     "title": "Talk inside the fight",
+     "question": "What may fighters say to each other mid-exchange?",
+     "context": "The archive's fights are nearly silent: a technique name, a taunt, the opponent explaining himself in contempt (R12-4's third voice). R70-116 keeps jokes inside danger to gallows wit; R70-113 gives full comic beats only to comic voices named on their cards. The Western poles are a taunt timed to the thrusts (Martin's Oberyn) and wisecracks under fire (Butcher's Dresden).",
+     "options": [
+      {
+       "key": "A",
+       "label": "Near silence, as now",
+       "consequence": "Names, a taunt, contempt as instruction; breath is for fighting. Talk lives before and after the exchange.",
+       "sample": "They passed twice without a word. The Accord man's breath came even through his nose; the rider's came ragged and white. On the third pass the rider overreached, and the Accord man said only, 'Again,' and stepped back to his mark, and the rider came again, and that time the sabre opened his sleeve and the arm under it."
+      },
+      {
+       "key": "B",
+       "label": "Talk as a weapon",
+       "consequence": "Taunts, lies and accusations are moves: each line aims to break the read or the temper, and the page shows what it bought or cost in tempo. Gallows wit stays the only joke.",
+       "sample": "'Empty saddle,' the Accord man said on the second pass, quietly, so only the rider heard it. He had asked at the gate that morning about the rider's father, and he had been told. The rider's next cut came half a beat early with too much shoulder in it, as the Accord man had known it would, and he was not there to meet it, and the sabre opened the rider's sleeve and the arm under it."
+      },
+      {
+       "key": "C",
+       "label": "Banter for comic voices",
+       "consequence": "Carded comic voices may banter mid-exchange, full beats included. This reopens R70-116 for them; everyone else keeps gallows wit.",
+       "sample": "'Guard's dropped again,' the Accord man said, parrying. 'I'd charge you for the lesson, but you'd only spend it on beer.' The rider cut at his head. 'There, see, that was nearly a sword fight.' He gave a step. 'My mother cuts better than that, and she's dead.' The rider came in hard and the sabre opened his sleeve and the arm under it, and the Accord man said, 'Now that one I'm billing you for.'"
+      }
+     ],
+     "recommended": "B",
+     "rec_reason": "A line that costs or buys tempo is fair, readable and inside R70-116; a taunt built from something the speaker learned is the read turned into a weapon, which the archive has never tried.",
+     "multi": false,
+     "depends_on": [],
+     "rules_touched": [
+      "R70-116-COMEDY_BESIDE_DANGER",
+      "R70-113-DOUBLE_ACT_COMIC_BEAT",
+      "R12-4-VOICE_THREE_OPPONENT",
+      "R5-D-HUMOUR_PERMITTED",
+      "R48-43-SPEECHES"
+     ]
+    },
+    {
+     "id": "CW14",
+     "title": "The tell and the read",
+     "question": "How is a tell put on the page so the reader, and you at the table, can catch it?",
+     "context": "A tell is the small give-away that betrays a move or a rule. NATALIE: 'The read is the game. Give him the tells', and a self-derived technique gets 'two or three exchanges of evidence before it kills him'. R12-8 shows the read at length. Gu Long plants a tell in a plain detail and never points; Naruto has someone read it aloud.",
+     "options": [
+      {
+       "key": "A",
+       "label": "Shown, never pointed",
+       "consequence": "The tell sits in the prose as a plain physical detail, unremarked; reader and player must catch it. The fairest test and the easiest to miss.",
+       "sample": "The Tenrai man came in twice. Frost lay thick on the corridor flags, and the first time his left heel left a dark oval in it a breath before the cut, where the boot had warmed the frost and lifted. The second time there were two dark ovals. Renard gave ground both times. On the third the heel came up, and Renard was already moving into the place where the cut would end."
+      },
+      {
+       "key": "B",
+       "label": "Noticed, not read",
+       "consequence": "The POV notices the detail and it is set apart in the paragraph, but its meaning stays open until it pays.",
+       "sample": "The Tenrai man came in twice, and twice Renard gave ground. Something in the man's left foot. It came up off the frost before the cut each time, and Renard put it aside to think about later, because later was where he would be living if he kept giving ground. On the third pass the heel came up again."
+      },
+      {
+       "key": "C",
+       "label": "Read aloud at once",
+       "consequence": "The POV or a second interprets the tell at length the first time it appears (R12-8), so the reader watches the deduction made.",
+       "sample": "The first time the Tenrai man came in, his left heel left the frost a breath before his blade moved, and Renard knew at once what it was. The man cut from his back leg, so he had to unweight the front foot first, and a front foot with no weight on it cannot step back. It was a tell, and a good one. He gave ground and waited for it to come again."
+      },
+      {
+       "key": "D",
+       "label": "Shown twice, then read",
+       "consequence": "The tell is shown plainly at its first and second appearance and read at length at the third, matching NATALIE's two or three exchanges of evidence. When the POV is your PC, the reading is yours.",
+       "sample": "The Tenrai man came in twice. The first time his left heel lifted off the frost a breath before the cut. The second time it lifted again, and now Renard had the measure of it: the man cut from his back leg and had to unweight the front foot first, and a front foot with no weight on it cannot step back. On the third pass the heel came up, and Renard went in over it."
+      }
+     ],
+     "recommended": "D",
+     "rec_reason": "It gives the sharp reader, and you at the table, two clean chances to catch the tell before anyone explains it, then pays off with the Naruto-style deduction at length; it is NATALIE's own evidence count made into page form.",
+     "multi": false,
+     "depends_on": [
+      "K6"
+     ],
+     "rules_touched": [
+      "R12-8-COMBAT_GUIDE_READ_LENGTH",
+      "R12-3-NAMED_INVENTOR_RULE",
+      "R12-4-VOICE_ONE_POV",
+      "R49-01-WHOSE_HEAD",
+      "R70-71-EXPLAINING_WORKING_MID_FIGHT"
+     ]
+    }
+   ]
+  }
+ ],
+ "settled": [
+  {
+   "point": "Martial vocabulary in narration comes from the POV's own school; a foreign school's word arrives in a mouth.",
+   "rule_ids": [
+    "R70-100-MARTIAL_VOCABULARY_NAMES_MOVES"
+   ],
+   "why_not_asked": "CB1 of the style law, ruled 2026-10-03; every sample here obeys it."
+  },
+  {
+   "point": "A full name-declaration before a duel is legal, counts as the scene's crafted speech, and the world does not wait for it.",
+   "rule_ids": [
+    "R70-101-DECLARING_NAME_LINE_BEFORE",
+    "R48-43-SPEECHES"
+   ],
+   "why_not_asked": "CB2, ruled 2026-10-03."
+  },
+  {
+   "point": "Duel shape follows the four combat grammars: Verdict still then one cut, Blade traced passes, Percussion and Expenditure by attrition; practitioners escalate while reserve lasts.",
+   "rule_ids": [
+    "R70-102-STILLNESS_TRACED_PASSES_LONG",
+    "R1-1-VERDICT_GRAMMAR"
+   ],
+   "why_not_asked": "CB3, ruled 2026-10-03. K4 and CW1 ask only how the floor and the minor exchanges sit inside that shape."
+  },
+  {
+   "point": "One full flashback per fight, the POV's own; rivals recur only by a mercy paid for on the Ledger; killing rites and the elegiac image go by culture.",
+   "rule_ids": [
+    "R70-103-MEMORY_INSIDE_FIGHT",
+    "R70-104-RIVAL_BOND",
+    "R70-105-JOINS_WOUND_WHEN_FIGHT"
+   ],
+   "why_not_asked": "CB4 to CB6, ruled 2026-10-03."
+  },
+  {
+   "point": "Battles cut between the commander's hill and one man in the press, with a marked roll call allowed.",
+   "rule_ids": [
+    "R70-106-BATTLE_TOLD",
+    "R70-11-WIDE_VIEW"
+   ],
+   "why_not_asked": "CB7 and VO2, ruled 2026-10-03; FT9 to FT11 take up the battle questions."
+  },
+  {
+   "point": "Pressure shows in the room first; killing intent is aimed Pressure with its mechanism still owed; a working's rules are planted before the fight; the crowd speaks as a chorus in hearing; one display beat per named practitioner; numbered forms, numbered rites and the world's law stated.",
+   "rule_ids": [
+    "R70-68-INSIDE_PRACTICE",
+    "R70-69-PRESSURE_AURA",
+    "R70-70-INTENT_FELT_BODY",
+    "R70-71-EXPLAINING_WORKING_MID_FIGHT",
+    "R70-72-WATCHING_CROWD_POWER_REVEAL",
+    "R70-73-MANY_DISPLAY_BEATS_PER",
+    "R70-74-TECHNIQUE_NAME_LOOKS",
+    "R70-75-RITE_PAGE",
+    "R70-76-MUCH_WORLD_MAGIC"
+   ],
+   "why_not_asked": "MY1 to MY9, ruled 2026-10-03; the killing-intent mechanism is MC14's question."
+  },
+  {
+   "point": "Readouts in a fight: only at an appraisal, a wound and Essence spent, never Pressure; three a scene and two a turn; outside the two-voice cap; Grades at the read with no running figures; body first, number a line after; a breakthrough inside its crisis with the line after.",
+   "rule_ids": [
+    "R70-85-SCENE_MOMENTS_THAT_EARN",
+    "R70-86-MANY_READOUTS_SCENE_CARRIES",
+    "R70-87-READOUTS_TWO_VOICE_CAP",
+    "R70-88-NUMBERS_INSIDE_FIGHT",
+    "R70-89-BODY_FIRST_NUMBER_FIRST",
+    "R70-91-BREAKTHROUGH_PAGE"
+   ],
+   "why_not_asked": "LR8 to LR12 and LR23, ruled 2026-10-03. K6 asks only when the deciding fact shows, inside these limits."
+  },
+  {
+   "point": "Narration states the figures the POV holds, Sub-Stat names included; another's exact figures need an instrument; practitioners feel rank, Gnosis setting how close.",
+   "rule_ids": [
+    "R70-83-FIGURES_PLAIN_NARRATION",
+    "R70-79-CAN_READ_WHOM",
+    "R70-77-INSTRUMENT_CAN_SHOW"
+   ],
+   "why_not_asked": "LR6, LR2 and LR1, ruled 2026-10-03. CW4 and K6 use them as they stand."
+  },
+  {
+   "point": "One held instant at the deciding exchange, and jo-ha-kyū tempo for set pieces; a fight's last beats may run as one-line paragraphs.",
+   "rule_ids": [
+    "R70-57-DESCRIPTION_INSIDE_FIGHT",
+    "R70-15-TEMPO_STILLNESS",
+    "R70-20-PARAGRAPH_SHAPE"
+   ],
+   "why_not_asked": "DD6, SP2 and RH2, ruled 2026-10-03. CW2 asks only about the swift stretch's sentence rhythm."
+  },
+  {
+   "point": "The Western strand leads combat, injury and dialogue; the Eastern strand leads narration, interiority and structure; LitRPG leads progression.",
+   "rule_ids": [
+    "R70-3-STRAND_LEADS_LAYER"
+   ],
+   "why_not_asked": "K3 of the style law, ruled 2026-10-03. K1 here asks only where that line falls inside one fight."
+  },
+  {
+   "point": "Named models already in law: Kishimoto, Kubo, anime, Unbound and The Beginning After the End in your own words; Tolkien, Dickens and Kay; Jin Yong, the Heike, Kawabata and pansori; Cradle, Reverend Insanity, Solo Leveling and The Wandering Inn. Martin and Abercrombie were dropped.",
+   "rule_ids": [
+    "R70-4-WESTERN_MODELS",
+    "R70-5-EASTERN_MODELS",
+    "R70-6-LITRPG_PROGRESSION_MODELS"
+   ],
+   "why_not_asked": "K4 to K6 of the style law, ruled 2026-10-03. K2, K3 and K8 here ask only which further works join them as fight models."
+  },
+  {
+   "point": "Every outcome in a fight is reconstructible from the page, and the author notes name the adjudication row that decided it.",
+   "rule_ids": [
+    "R13-8-RECONSTRUCTIBLE_ADJUDICATION",
+    "R14-3-TRACEABILITY"
+   ],
+   "why_not_asked": "Pack Thirteen and Fourteen law. K6 asks only whether the deciding fact may also show before the blow."
+  },
+  {
+   "point": "A third party may stop a fight only if foreshadowed where a player could catch it; no fight resolves because the scene needed it to.",
+   "rule_ids": [
+    "R48-30-SURPRISES",
+    "R13-8-RECONSTRUCTIBLE_ADJUDICATION"
+   ],
+   "why_not_asked": "Already law; the draft's 'interruption, planted' ending was a restatement and has been dropped from CW11."
+  },
+  {
+   "point": "Wounds are written in full clinical gore, anatomy named, blood loss tracked minute by minute; the eight-item floor stands.",
+   "rule_ids": [
+    "R48-34-WOUNDS",
+    "R13-4-COMBAT_FLOOR"
+   ],
+   "why_not_asked": "Settled by the writing law and Pack Thirteen. CW7 asks only how long the page stays; K4 asks only how the floor is spread."
+  },
+  {
+   "point": "Ordinary fighters die fast and a wounded man is out; healing runs on real timelines; the reserve runs a hard clock; death is permanent.",
+   "rule_ids": [
+    "R60-01-BRUTAL_LETHALITY",
+    "R60-02-REAL_HEALING_TIMES",
+    "R60-03-HARD_RESERVE_CLOCK",
+    "R60-04-DEATH_IS_PERMANENT"
+   ],
+   "why_not_asked": "Ruled 2026-09-26. CW6 asks only about ranked practitioners holding a wound with a working."
+  },
+  {
+   "point": "One combat turn is six seconds, and healing always costs more than breaking.",
+   "rule_ids": [
+    "R47-11-TIME_AND_ENERGY"
+   ],
+   "why_not_asked": "Ability law, ruled 2026-09-26."
+  },
+  {
+   "point": "No figure on the page is invented; running figures stay in the Stat Ledger in the notes.",
+   "rule_ids": [
+    "R12-5-NEVER_INVENT_NUMBER",
+    "R14-6-CHECK29"
+   ],
+   "why_not_asked": "Absolute since Pack Twelve and confirmed by the style law."
+  },
+  {
+   "point": "Every working's cost shows in the body.",
+   "rule_ids": [
+    "R48-37-COST_SHOWN",
+    "R12-1-PACK_SEVEN_SURVIVORS"
+   ],
+   "why_not_asked": "Settled law; CW6's option B prices itself under it."
+  },
+  {
+   "point": "No more than two explaining voices per engagement, and a confident wrong read stays legal.",
+   "rule_ids": [
+    "R12-4-VOICE_MIXING_RULE",
+    "R12-4-VOICE_ONE_POV"
+   ],
+   "why_not_asked": "Ruled in Pack Twelve and confirmed by R70-87."
+  },
+  {
+   "point": "Research before any set piece, and the gap-fill pass with its body and physics audits.",
+   "rule_ids": [
+    "R13-7-RESEARCH_RULE",
+    "R13-5-GAP_FILL_PASS"
+   ],
+   "why_not_asked": "Process law; CW3, CW5 and CW8 lean on the audits rather than change them."
+  },
+  {
+   "point": "Fights are never rigged; NPCs are veteran-clever; each side invents its own uses; big surprises need foreshadowing; death only if earned.",
+   "rule_ids": [
+    "R57-10-NEVER_RIGGED",
+    "R48-36-NPC_WITS",
+    "R48-35-USES",
+    "R48-30-SURPRISES",
+    "R48-31-STAKES"
+   ],
+   "why_not_asked": "Ruled 2026-09-26. K7 asks only what promise the guide opens with when these pull against the world's honest numbers."
+  },
+  {
+   "point": "Your PC decides and acts only by your hand, and narration may go inside him only under your overrule; the other creators' characters are excluded entirely.",
+   "rule_ids": [
+    "R49-01-WHOSE_HEAD",
+    "R1-1-RESTRICTED_CHARACTERS_EXCLUDED"
+   ],
+   "why_not_asked": "Standing law; K5 and CW14 are built around it, and no sample uses those characters."
+  },
+  {
+   "point": "A trained POV names his own wound exactly; an untrained POV keeps his own body in plain words; trained calm is free.",
+   "rule_ids": [
+    "R49-50-OWN_BODY",
+    "R70-28-TRADE_SCIENCE_WORDS",
+    "R52-28-COMPOSURE"
+   ],
+   "why_not_asked": "Settled; CW8 builds its fear question on top of them."
+  },
+  {
+   "point": "Weather is tracked like a clock, and medicine follows place and decade.",
+   "rule_ids": [
+    "R53-09-WEATHER",
+    "R53-10-MEDICINE"
+   ],
+   "why_not_asked": "World texture law, 2026-09-26. CW10 and CW12 ask how far each goes inside a fight."
+  },
+  {
+   "point": "Inside danger the only joke is gallows wit; full comic beats belong to carded comic voices.",
+   "rule_ids": [
+    "R70-116-COMEDY_BESIDE_DANGER",
+    "R70-113-DOUBLE_ACT_COMIC_BEAT",
+    "R5-D-HUMOUR_PERMITTED"
+   ],
+   "why_not_asked": "HU1 and HU4, ruled 2026-10-03. CW13's option C would reopen R70-116 for comic voices only, and is not recommended."
+  },
+  {
+   "point": "Each culture may carry a few native sound words, roman, entered in its Inventory; English sound words were offered and not taken.",
+   "rule_ids": [
+    "R70-22-SOUND_WORDS",
+    "R50-32-ITALICS"
+   ],
+   "why_not_asked": "RH4, ruled 2026-10-03. CW9 asks only what carries an impact in a fight, and its option D says plainly that it reopens R70-22."
+  },
+  {
+   "point": "A scene may end on an action, an image, a line, a mid-crisis cliffhanger or a readout; one cumulative climax sentence per set piece.",
+   "rule_ids": [
+    "R49-26-ENDINGS",
+    "R70-17-CLOSING_MODES",
+    "R70-19-PAIRED_CUMULATIVE_SENTENCES"
+   ],
+   "why_not_asked": "Settled by the prose and style laws; CW2 asks only about a staccato run."
+  }
+ ]
+}

@@ -6,6 +6,29 @@ direction: inside work he has asked for, make the calls; no "pending" slots.
 append a dated block, do not rewrite older ones (two sessions write this repo
 at once — `git pull` before editing, and commit only your own files).
 
+## State on 2026-10-04 (the combat and alchemy questionnaire: answered, law not yet written)
+
+**Isaac answered a 105-question combat and alchemy questionnaire in chat on 2026-10-04.** Everything is in
+`imports/drafts/combat-questionnaire/`: `decisions.md` (readable), `questions.json` + `answers.json`, and `work/`
+(seven research reports: the law, the house fights, Western, Eastern and anime, LitRPG combat writing, WOTR systems,
+alchemy canon; the five revised group files; the cross-check patch). Two answers differ from the recommendation:
+K2 adds Jujutsu Kaisen and K8 adds Delve as named models.
+
+**The calls that shape the next law:** a Western body with an Eastern read inside a fight (K1); the combat floor
+paid by grammar at today's lengths (K4); standing orders in roleplay fights (K5); a way out always planted (K7);
+the deciding fact shown in the read before the blow (K6). Named models: Togashi, Gu Long, Inoue and Yoshikawa,
+Akutami; Cornwell, Sanderson, the HEMA novelists; Mother of Learning, Dungeon Crawler Carl, The Primal Hunter,
+Delve. Magic: chants cut into the exchange, held reveals shown then told, narrowing vows buy output, a soft
+counter chart by Family, a planted second wind may decide, Pressure contests for the room, Domains released in a
+beat from Stage XI, waste light by the smith's colour scale. C-001 is ruled by WT4: against worked armour a
+proofed round counts one Tier higher.
+
+**Next (ME1 C, ME4 B), not started:** log the Combat Law through log_ruling and write its rule doc; build the
+verify checks (truer school lists, readout and beat counts, the stale-device watch); one test fight (suggested: a
+Well clearance under contract closing from shot to blade); amend; then new editions of the Combat Craft, Mass
+Combat Craft and Item and Equipment Writing guides, NATALIE.md's stale combat lines, and the combat bank (a fight
+per culture file plus a bank by fight type).
+
 ## State on 2026-10-03 (the style questionnaire: answered, law not yet written)
 
 **Isaac is changing how WOTR is written**: a fused blend of Western literary fantasy, the Eastern traditions

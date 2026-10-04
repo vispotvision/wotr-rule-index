@@ -1,0 +1,511 @@
+{
+ "K1": {
+  "choice": "B",
+  "note": ""
+ },
+ "K4": {
+  "choice": "B",
+  "note": ""
+ },
+ "K5": {
+  "choice": "B",
+  "note": ""
+ },
+ "K7": {
+  "choice": "B",
+  "note": ""
+ },
+ "K2": {
+  "choice": [
+   "A",
+   "B",
+   "C",
+   "D"
+  ],
+  "note": ""
+ },
+ "K3": {
+  "choice": [
+   "A",
+   "C",
+   "D"
+  ],
+  "note": ""
+ },
+ "K8": {
+  "choice": [
+   "A",
+   "B",
+   "C",
+   "D"
+  ],
+  "note": ""
+ },
+ "K6": {
+  "choice": "B",
+  "note": ""
+ },
+ "CW1": {
+  "choice": "B",
+  "note": ""
+ },
+ "CW4": {
+  "choice": [
+   "A",
+   "B",
+   "C"
+  ],
+  "note": ""
+ },
+ "CW14": {
+  "choice": "D",
+  "note": ""
+ },
+ "K9": {
+  "choice": [
+   "A",
+   "B",
+   "C",
+   "D"
+  ],
+  "note": "took the recommendation (digest)"
+ },
+ "CW2": {
+  "choice": "B",
+  "note": "took the recommendation (digest)"
+ },
+ "CW5": {
+  "choice": "B",
+  "note": "took the recommendation (digest)"
+ },
+ "CW7": {
+  "choice": "C",
+  "note": "took the recommendation (digest)"
+ },
+ "CW8": {
+  "choice": "B",
+  "note": "took the recommendation (digest)"
+ },
+ "CW3": {
+  "choice": "B",
+  "note": ""
+ },
+ "CW6": {
+  "choice": "B",
+  "note": ""
+ },
+ "CW13": {
+  "choice": "B",
+  "note": ""
+ },
+ "CW9": {
+  "choice": "B",
+  "note": "took the recommendation (digest)"
+ },
+ "CW10": {
+  "choice": [
+   "A",
+   "B"
+  ],
+  "note": "took the recommendation (digest)"
+ },
+ "CW11": {
+  "choice": [
+   "A",
+   "B",
+   "C",
+   "D"
+  ],
+  "note": "took the recommendation (digest)"
+ },
+ "CW12": {
+  "choice": "B",
+  "note": "took the recommendation (digest)"
+ },
+ "CW15": {
+  "choice": "A",
+  "note": "took the recommendation (digest)"
+ },
+ "CW16": {
+  "choice": "A",
+  "note": "took the recommendation (digest)"
+ },
+ "CW17": {
+  "choice": "A",
+  "note": "took the recommendation (digest)"
+ },
+ "MC1": {
+  "choice": "B",
+  "note": ""
+ },
+ "MC4": {
+  "choice": "B",
+  "note": ""
+ },
+ "MC6": {
+  "choice": "B",
+  "note": ""
+ },
+ "MC2": {
+  "choice": "C",
+  "note": "took the recommendation (digest)"
+ },
+ "MC3": {
+  "choice": "B",
+  "note": "took the recommendation (digest)"
+ },
+ "MC7": {
+  "choice": [
+   "A",
+   "B",
+   "D"
+  ],
+  "note": "took the recommendation (digest)"
+ },
+ "MC8": {
+  "choice": "C",
+  "note": "took the recommendation (digest)"
+ },
+ "MC5": {
+  "choice": "B",
+  "note": ""
+ },
+ "MC9": {
+  "choice": "B",
+  "note": ""
+ },
+ "MC16": {
+  "choice": "C",
+  "note": ""
+ },
+ "MC10": {
+  "choice": "A",
+  "note": "took the recommendation (digest)"
+ },
+ "MC11": {
+  "choice": "B",
+  "note": "took the recommendation (digest)"
+ },
+ "MC12": {
+  "choice": "B",
+  "note": "took the recommendation (digest)"
+ },
+ "MC13": {
+  "choice": "A",
+  "note": "took the recommendation (digest)"
+ },
+ "MC14": {
+  "choice": "A",
+  "note": "took the recommendation (digest)"
+ },
+ "MC15": {
+  "choice": "B",
+  "note": "took the recommendation (digest)"
+ },
+ "MC17": {
+  "choice": [
+   "A",
+   "B",
+   "C"
+  ],
+  "note": "took the recommendation (digest)"
+ },
+ "MC18": {
+  "choice": "C",
+  "note": "took the recommendation (digest)"
+ },
+ "MC19": {
+  "choice": "C",
+  "note": ""
+ },
+ "MC20": {
+  "choice": "B",
+  "note": ""
+ },
+ "MC22": {
+  "choice": "B",
+  "note": ""
+ },
+ "MC21": {
+  "choice": [
+   "B",
+   "C",
+   "D"
+  ],
+  "note": "took the recommendation (digest)"
+ },
+ "MC23": {
+  "choice": "B",
+  "note": "took the recommendation (digest)"
+ },
+ "MC24": {
+  "choice": "A",
+  "note": "took the recommendation (digest)"
+ },
+ "FT8": {
+  "choice": "B",
+  "note": ""
+ },
+ "FT16": {
+  "choice": "C",
+  "note": ""
+ },
+ "FT18": {
+  "choice": "C",
+  "note": ""
+ },
+ "FT1": {
+  "choice": "C",
+  "note": "took the recommendation (digest)"
+ },
+ "FT3": {
+  "choice": "A",
+  "note": "took the recommendation (digest)"
+ },
+ "FT4": {
+  "choice": "B",
+  "note": "took the recommendation (digest)"
+ },
+ "FT5": {
+  "choice": "B",
+  "note": "took the recommendation (digest)"
+ },
+ "FT7": {
+  "choice": "C",
+  "note": "took the recommendation (digest)"
+ },
+ "FT9": {
+  "choice": "C",
+  "note": "took the recommendation (digest)"
+ },
+ "FT2": {
+  "choice": "C",
+  "note": ""
+ },
+ "FT17": {
+  "choice": "C",
+  "note": ""
+ },
+ "FT19": {
+  "choice": "A",
+  "note": ""
+ },
+ "FT6": {
+  "choice": [
+   "A",
+   "B"
+  ],
+  "note": "took the recommendation (digest)"
+ },
+ "FT10": {
+  "choice": [
+   "A",
+   "B",
+   "D"
+  ],
+  "note": "took the recommendation (digest)"
+ },
+ "FT11": {
+  "choice": "B",
+  "note": "took the recommendation (digest)"
+ },
+ "FT12": {
+  "choice": [
+   "A",
+   "B"
+  ],
+  "note": "took the recommendation (digest)"
+ },
+ "FT13": {
+  "choice": [
+   "A",
+   "B",
+   "C"
+  ],
+  "note": "took the recommendation (digest)"
+ },
+ "FT14": {
+  "choice": [
+   "A",
+   "B",
+   "C"
+  ],
+  "note": "took the recommendation (digest)"
+ },
+ "FT15": {
+  "choice": "B",
+  "note": "took the recommendation (digest)"
+ },
+ "AL1": {
+  "choice": "C",
+  "note": ""
+ },
+ "AL4": {
+  "choice": "A",
+  "note": ""
+ },
+ "AL18": {
+  "choice": "B",
+  "note": ""
+ },
+ "AL2": {
+  "choice": "C",
+  "note": "took the recommendation (digest)"
+ },
+ "AL3": {
+  "choice": [
+   "A",
+   "B",
+   "C"
+  ],
+  "note": "took the recommendation (digest)"
+ },
+ "AL5": {
+  "choice": "A",
+  "note": "took the recommendation (digest)"
+ },
+ "AL6": {
+  "choice": "C",
+  "note": "took the recommendation (digest)"
+ },
+ "AL7": {
+  "choice": "A",
+  "note": "took the recommendation (digest)"
+ },
+ "AL8": {
+  "choice": "B",
+  "note": "took the recommendation (digest)"
+ },
+ "AL9": {
+  "choice": "A",
+  "note": "took the recommendation (digest)"
+ },
+ "AL12": {
+  "choice": "A",
+  "note": ""
+ },
+ "AL13": {
+  "choice": [
+   "A",
+   "B",
+   "C",
+   "D"
+  ],
+  "note": ""
+ },
+ "AL10": {
+  "choice": "C",
+  "note": ""
+ },
+ "AL11": {
+  "choice": "A",
+  "note": "took the recommendation (digest)"
+ },
+ "AL14": {
+  "choice": "C",
+  "note": "took the recommendation (digest)"
+ },
+ "AL15": {
+  "choice": [
+   "A",
+   "B",
+   "C"
+  ],
+  "note": "took the recommendation (digest)"
+ },
+ "AL16": {
+  "choice": "A",
+  "note": "took the recommendation (digest)"
+ },
+ "AL17": {
+  "choice": "A",
+  "note": "took the recommendation (digest)"
+ },
+ "AL19": {
+  "choice": "A",
+  "note": "took the recommendation (digest)"
+ },
+ "WT4": {
+  "choice": "C",
+  "note": ""
+ },
+ "WT10": {
+  "choice": "C",
+  "note": ""
+ },
+ "WT12": {
+  "choice": [
+   "A",
+   "C",
+   "D"
+  ],
+  "note": ""
+ },
+ "WT1": {
+  "choice": "C",
+  "note": "took the recommendation (digest)"
+ },
+ "WT2": {
+  "choice": "A",
+  "note": "took the recommendation (digest)"
+ },
+ "WT3": {
+  "choice": "B",
+  "note": "took the recommendation (digest)"
+ },
+ "WT13": {
+  "choice": "A",
+  "note": "took the recommendation (digest)"
+ },
+ "WT5": {
+  "choice": "B",
+  "note": "took the recommendation (digest)"
+ },
+ "WT6": {
+  "choice": "C",
+  "note": "took the recommendation (digest)"
+ },
+ "WT7": {
+  "choice": [
+   "A",
+   "B"
+  ],
+  "note": "took the recommendation (digest)"
+ },
+ "WT8": {
+  "choice": [
+   "A",
+   "B",
+   "C"
+  ],
+  "note": "took the recommendation (digest)"
+ },
+ "WT9": {
+  "choice": "A",
+  "note": "took the recommendation (digest)"
+ },
+ "WT11": {
+  "choice": "C",
+  "note": "took the recommendation (digest)"
+ },
+ "ME1": {
+  "choice": "C",
+  "note": ""
+ },
+ "ME2": {
+  "choice": [
+   "A",
+   "B",
+   "D"
+  ],
+  "note": ""
+ },
+ "ME3": {
+  "choice": "C",
+  "note": ""
+ },
+ "ME4": {
+  "choice": "B",
+  "note": ""
+ }
+}

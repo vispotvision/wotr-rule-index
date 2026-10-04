@@ -1,0 +1,457 @@
+{
+ "lede": "You asked for a questionnaire on how WOTR writes a fight, magical and mundane, on what alchemy and WOTR's own apparatus do in one, and for research on how other traditions write combat; seven research passes (Western, Eastern and anime, LitRPG, the house archive, the law, the systems, alchemy) stand behind every option and sample. There are 105 questions in seven sections, and nothing ruled yesterday is asked again: the settled list at the end says what was left alone and why. Answer the nine Keystones first, since most later questions lean on them; every question carries a recommendation you can take as it stands.",
+ "section_order": [
+  "K",
+  "CW",
+  "MC",
+  "FT",
+  "AL",
+  "WT",
+  "ME"
+ ],
+ "drop": [],
+ "add": [
+  {
+   "section_key": "K",
+   "after_id": "K5",
+   "question": {
+    "id": "K9",
+    "title": "A player's fighter on the page",
+    "question": "When a fighter in the scene belongs to a player, which parts of the exchange floor does Natalie write for him?",
+    "context": "Table Rule 1 and R49-01: your PC thinks, speaks and acts only by your hand, yet R13-4's floor owes the read (item 3), the Essence account (item 7) and what he cannot do next (item 8) at every meaningful exchange. The Geturo run wrote another player's fighter only as what Geturo's own body felt. K5 sets how far a turn runs; this sets what it may say of a player's fighter.",
+    "options": [
+     {
+      "key": "A",
+      "label": "Wounds as world facts",
+      "consequence": "Once your stated move resolves, the hit, the wound by structure, its ATLS class (the trauma surgeons' blood-loss scale) and what the hand can no longer do are written as world facts; how he bears it stays yours."
+     },
+     {
+      "key": "B",
+      "label": "The tell placed, the read his",
+      "consequence": "Natalie puts the evidence in the room (the heel, the smell, the needle) and never draws the conclusion; the deduction, floor item 3, is your post, as CW14's D already leaves the reading to you."
+     },
+     {
+      "key": "C",
+      "label": "Felt from across the room",
+      "consequence": "From an NPC's POV a player's fighter is only what that NPC's eyes, body and room register, the Geturo model; his reasons and his Crystal stay dark. It covers guest players at the Discord table too."
+     },
+     {
+      "key": "D",
+      "label": "Outward cost only",
+      "consequence": "Natalie shows what his working costs where others could see it (heat off the skin, thaw at his boots, R48-37) and keeps the spend in the Stat Ledger (the running figures in the notes); the inside is yours."
+     }
+    ],
+    "recommended": "A,B,C,D",
+    "rec_reason": "Together they keep all eight floor items on the page without Natalie once choosing for your fighter: the world owns the wound, the tell and the visible cost, you own the read and the inside, and another player's fighter stays his player's.",
+    "multi": true,
+    "depends_on": [
+     "K5"
+    ],
+    "rules_touched": [
+     "R49-01-WHOSE_HEAD",
+     "R13-4-COMBAT_FLOOR",
+     "R48-37-COST_SHOWN",
+     "R14-7-STAT_LEDGER_CONTENTS",
+     "R1-1-RESTRICTED_CHARACTERS_EXCLUDED"
+    ]
+   }
+  },
+  {
+   "section_key": "CW",
+   "after_id": "CW14",
+   "question": {
+    "id": "CW15",
+    "title": "When the rows come out level",
+    "question": "When the stats that decide an exchange come out level, what breaks the tie?",
+    "context": "Table Rule 5 adjudicates without dice: Stage gap, whether he read the opponent, what he has spent, what the environment allows. Fracture of Worlds Part Four settles a contest by Grade gap, 'then by technique and tactical intelligence', and inside one Grade the fight is open. Nothing names the tiebreak when the Combat Guide's §7 rows (its table of which stat decides which question) give no winner.",
+    "options": [
+     {
+      "key": "A",
+      "label": "Rule 5's order, step by step",
+      "consequence": "The read decides first, then what each has left to spend, then the ground; the notes name the step that broke the tie, as a Domain clash names its step. Every level exchange reconstructs.",
+      "sample": "Pell and Dorrance stood at the same Grade in the sword arm, and by the third bind neither had found a tell in the other. So it came down to what each had left. Dorrance had spent the morning's draw on the walk up from the river, and his working came off the blade thin. Pell's came off whole. The bind broke Pell's way, and his point went in under Dorrance's arm, between the fourth and fifth ribs."
+     },
+     {
+      "key": "B",
+      "label": "Level means nobody lands",
+      "consequence": "A level exchange is a stalemate: measure breaks, both pay the exchange's cost, and the fight runs on until a row tips, most often the reserve. Attrition by rule.",
+      "sample": "Pell and Dorrance stood at the same Grade in the sword arm, and the third bind went as the first two had: blade on blade, neither giving, until both stepped back out of measure at once. Each had paid for it. Pell's forearms burned to the elbow and Dorrance breathed through his mouth. They took their guards again. It would go on like this, the sergeant at the rail said quietly, until one of them ran short."
+     },
+     {
+      "key": "C",
+      "label": "The read alone",
+      "consequence": "Whoever caught the other's tell wins the level exchange; with no read on either side, nobody lands. The read is the game, made the whole tiebreak.",
+      "sample": "Pell and Dorrance stood at the same Grade in the sword arm, and the binds would not decide it. Pell had watched Dorrance's back foot settle before every thrust, twice now, and that was the whole of his advantage. On the third pass the foot settled. Pell was off the line before the point came, and his own went in under Dorrance's arm. Had neither seen anything, the sergeant said afterward, they would be at it still."
+     },
+     {
+      "key": "D",
+      "label": "The figure under the letter",
+      "consequence": "Inside a level Grade the cards' Sub-Stat figures (the numbers behind each Grade letter) decide, the higher taking it; only a true tie goes to the read. The crunchiest, and technique rarely inverts it.",
+      "sample": "Pell and Dorrance were both B in the sword arm, and the clerk at the rail knew the figures under the letters, because the Guild had printed them that spring with Pell's well above. Neither man had found a tell in the other. It made no difference. The third bind went Pell's way on strength alone, as the clerk had told his neighbour it would, and Pell's point went in under Dorrance's arm."
+     }
+    ],
+    "recommended": "A",
+    "rec_reason": "It is your own Table Rule 5 read as an order, it puts technique where Part Four puts it, straight after the gap, and it keeps the read as the game: the sharper fighter takes a level exchange, the better-kept reserve the next, and the notes can always say why.",
+    "multi": false,
+    "depends_on": [],
+    "rules_touched": [
+     "R14-3-STATS_DECIDE_TABLE",
+     "R14-3-TRACEABILITY",
+     "R13-8-RECONSTRUCTIBLE_ADJUDICATION",
+     "R60-03-HARD_RESERVE_CLOCK",
+     "R12-5-NEVER_INVENT_NUMBER"
+    ]
+   }
+  },
+  {
+   "section_key": "CW",
+   "after_id": "CW15",
+   "question": {
+    "id": "CW16",
+    "title": "Wounds carried into the next fight",
+    "question": "When a fighter comes to a new fight still carrying a Ledger wound, what does the wound do to the adjudication?",
+    "context": "R60-02 runs healing on real timelines ('weeks for a cut, months for bone') and the Ledger keeps every wound between scenes, but no row turns a carried wound into the next fight's terms. Canon has one model of a state that lowers Grades: Starvation (below a tenth of reserve) reads stats a Grade lower. CW6 asks about fighting on in the fight that made the wound; this asks about the fights after.",
+    "options": [
+     {
+      "key": "A",
+      "label": "The anatomy, not the stat",
+      "consequence": "No Grade moves. The wound's structure decides what the body can do (a stitched forearm cannot hold a hard bind, a cracked rib cannot take a deep breath), checked by the gap-fill body audit and named in the notes.",
+      "sample": "Sallow came to the second meeting with the forearm stitched under her sleeve, nine days old. She could hold the sabre. She could not bind with it: the moment the raider's blade leaned on hers, the cut muscle along the inside of the arm gave, and her point drifted wide as if someone had nudged it. She felt it go and changed her plan in the same breath. She would fight on the long thrust and the step away."
+     },
+     {
+      "key": "B",
+      "label": "A Grade off where it bites",
+      "consequence": "The Sub-Stat the wounded structure serves reads one Grade lower until the healer says it has knit, as Starvation lowers Grades; the notes name the row. Computable, and the change is a Grade, never an invented figure.",
+      "sample": "Sallow came to the second meeting with the forearm stitched under her sleeve, nine days old, and the Guild surgeon had chalked it on her slip: the sword arm a Grade slow until the stitches came out. She fought like it. Every parry arrived a shade behind where it was wanted, and the raider, who had read the slip at the arming table, cut at that side and no other."
+     },
+     {
+      "key": "C",
+      "label": "Open, then knit",
+      "consequence": "While the wound is open, B's Grade off; once it has knit, A's anatomy only, until R60-02's healing time has run. Two states, each traced in the notes.",
+      "sample": "Sallow came to the second meeting with the forearm stitched under her sleeve. Had it still been open, the surgeon told her, she would have fought a Grade slow on that side, and he would have forbidden the meeting. It had knit. The arm was quick enough now, only weak, and the first hard bind showed her how weak, her point drifting wide under the raider's weight."
+     }
+    ],
+    "recommended": "A",
+    "rec_reason": "Real anatomy already says what a stitched forearm or a cracked rib cannot do, so nothing new is invented, and the wound becomes a findable counter for the next opponent, who can see the sling and work that side.",
+    "multi": false,
+    "depends_on": [],
+    "rules_touched": [
+     "R60-02-REAL_HEALING_TIMES",
+     "R13-5-GAP_FILL_PASS",
+     "R14-3-STATS_DECIDE_TABLE",
+     "R12-5-NEVER_INVENT_NUMBER"
+    ]
+   }
+  },
+  {
+   "section_key": "CW",
+   "after_id": "CW16",
+   "question": {
+    "id": "CW17",
+    "title": "Counting rounds, vials and charges",
+    "question": "May the page keep a running count of things in a fight: rounds in the cylinder, vials on the bandolier, charges left?",
+    "context": "R70-88 bars running figures in a fight, a rule written for stats and the reserve; it says nothing of objects. A frontier revolver was carried with five rounds and the hammer down on an empty chamber, and a soldier knows what is left in his pouch. FT8's traced shot and AL4's bandolier both meet the question, and no rule answers it.",
+    "options": [
+     {
+      "key": "A",
+      "label": "Counted as the POV counts",
+      "consequence": "A trained hand keeps his count and the page keeps it with him; a panicked or untrained man loses count and the reader with him. Objects only: stats and the reserve stay under R70-88.",
+      "sample": "Dunmore had fired twice into the smoke and knew it the way she knew her own name: three left, and the empty chamber she had walked out on under the hammer. The man came on through the grey. She fired a third time at the shape of him and heard the ball break brick. Two. He had been counting too; she saw his head come up at the report, listening. She let him hear her thumb the hammer back, and held her fire."
+     },
+     {
+      "key": "B",
+      "label": "Counted at the turns only",
+      "consequence": "The count shows only where it changes the fight: the reload, the last round, the empty loop. Between those the page keeps no tally.",
+      "sample": "Dunmore fired into the smoke until the hammer came down with a dry click on a spent case, and only then did the number arrive, all at once, the way a man knows he has missed a stair. Five, and all of them gone. The man came on through the grey. She opened the loading gate and began to punch the empties out one by one, and he was inside twenty feet before the second was clear."
+     },
+     {
+      "key": "C",
+      "label": "Never counted on the page",
+      "consequence": "R70-88 reaches objects too: what is left shows as behaviour, the hand that finds an empty loop, and the count lives in the notes.",
+      "sample": "Dunmore fired into the smoke, and fired again, and kept firing at the shape of him until the hammer fell with a dry click on a case she had already spent. The man came on through the grey. Her hand went to the pouch at her belt and found it light, lighter than she had thought. She dropped the revolver and drew."
+     }
+    ],
+    "recommended": "A",
+    "rec_reason": "Counting is what a trained shooter or a careful alchemist actually does, the count is a fair tell an opponent can keep along with him, and R70-88 stays on the stats and the reserve it was written for.",
+    "multi": false,
+    "depends_on": [],
+    "rules_touched": [
+     "R70-88-NUMBERS_INSIDE_FIGHT",
+     "R11-5-COMBAT_GUIDE_RANGE_OPENING",
+     "R45-5-PAID_PER_SHOT_AND_FINDABLE",
+     "R48-16-REAL_FIGURES"
+    ]
+   }
+  },
+  {
+   "section_key": "FT",
+   "after_id": "FT18",
+   "question": {
+    "id": "FT19",
+    "title": "A grammar for gun, bench and field",
+    "question": "Do a marksman, a bench alchemist and a field caster fight in the four grammars, or does one of them need a fifth?",
+    "context": "R1-1 and R3-7 give four grammars: Blade hunts openings, Verdict reads, ranks and commits, Percussion hunts fatigue, Expenditure hunts cost. 'Assign the vocabulary before assigning the technique.' Firearms, the prepared alchemist and the field caster (who works at range over an area) have no grammar named, and R20C-54 leaves most assignments to the cards. FT18 asks what happens when two grammars meet.",
+    "options": [
+     {
+      "key": "A",
+      "label": "The four suffice",
+      "consequence": "A marksman reads, ranks and commits, so he fights in Verdict; the alchemist and the field caster make the other man spend, so they fight in Expenditure. Each card names its grammar; no fifth."
+     },
+     {
+      "key": "B",
+      "label": "A fifth, Preparation",
+      "consequence": "A grammar for whoever wins before contact (the bench, the trap, the laid ground): the page spends its length on the making and the plan, the fight runs short, and the tell is the hand going to the kit. Needs its own move list."
+     },
+     {
+      "key": "C",
+      "label": "A fifth, Range",
+      "consequence": "A grammar for the firearm and the thrown working: distance, cover, the reload and the line of fire, ending where R11-5 hands the fight to the blade inside about twenty feet. Needs its own move list."
+     }
+    ],
+    "recommended": "A",
+    "rec_reason": "Verdict already is the marksman's shape and Expenditure the alchemist's, so nothing needs a new move list; the preparation that Mother of Learning and The Primal Hunter prize lives before the fight, where R70-71 and AL4 already put it.",
+    "multi": false,
+    "depends_on": [],
+    "rules_touched": [
+     "R1-1-THREE_VOCABULARIES_RULING",
+     "R3-7-EXPENDITURE_GRAMMAR",
+     "R1-1-VERDICT_GRAMMAR",
+     "R70-102-STILLNESS_TRACED_PASSES_LONG",
+     "R20C-54-COMBAT_ASSIGNMENTS_CONFIRMED"
+    ]
+   }
+  },
+  {
+   "section_key": "WT",
+   "after_id": "WT3",
+   "question": {
+    "id": "WT13",
+    "title": "Armour's kind against its Tier",
+    "question": "When a strike meets armour, which decides: the kind of armour (padded, mail, plate) or its Tier on the item ladder?",
+    "context": "The Combat Guide's §4 gives each kind its physics: mail is 'Nearly immune to cuts' yet 'badly vulnerable to narrow thrusts', plate fails at joints and grapples. R46-3 makes an armour's Tier (Proofed, Tempered and up) its proof. The Item Guide flags the pair ('no rule chooses'), and your R13-C ruling has the working, not the steel, stop shot on a worked cuirass. WT3 asks how the sum shows; this asks what it is.",
+    "options": [
+     {
+      "key": "A",
+      "label": "Kind if plain, Tier if worked",
+      "consequence": "Unworked armour fights by its physics (mail turns the cut, not the thrust); once armour carries a working, R46-3's Tier decides and the kind is only the shape the working wears, as R13-C has it for shot.",
+      "sample": "The levy's mail was plain iron riveted at the Seat's forge, and the raider's thrust went through it the way a thrust goes through mail, one ring parting at the point and the rest following the steel in. Sallow's shirt was another thing. It was Tempered, a working sunk into every ring, and when his next thrust found her the point stopped against it as if it had met a door, the rings whole."
+     },
+     {
+      "key": "B",
+      "label": "Tier alone decides",
+      "consequence": "R46-3 governs every strike on every armour, and kind is texture, its cause stated under R53-05. The simplest sum: a worked gambeson stops what worked plate of its Tier stops.",
+      "sample": "The levy's mail was plain iron and so was the raider's point, so they came out even, and the thrust bent the rings and stopped. Sallow's shirt was Tempered. Against her the same thrust would have stopped as it stops on Tempered plate, because the ladder weighed the working and nothing else, and the rings were only the shape the working wore."
+     },
+     {
+      "key": "C",
+      "label": "The lower of the two",
+      "consequence": "As R46-1 rates an item at the lower of two limits, armour counts against each strike at the lower of what its kind can do against that strike and its Tier: Tempered mail against a thrust counts as plain mail.",
+      "sample": "Sallow's shirt was Tempered mail, and against a cut it counted for every ring of that. Against a thrust it counted as iron rings and nothing more, because a point goes between rings whatever is sunk in them. The raider knew it. He stopped cutting and began to thrust, and the third thrust went in under her arm."
+     }
+    ],
+    "recommended": "A",
+    "rec_reason": "It follows your R13-C ruling (the working does the stopping, not the steel) wherever armour is worked, keeps real physics for the plain mail and plate most men wear, and leaves every plain armour the weakness a reader can find.",
+    "multi": false,
+    "depends_on": [],
+    "rules_touched": [
+     "R46-3-ARMOUR_TIER_IS_ITS_PROOF",
+     "R46-1-ITEM_TIER_LOWER_OF_TWO",
+     "R13-C",
+     "R53-05-PROOF_PLATE",
+     "R13-9-ITEM_GUIDE_WEAPON_ENTRY"
+    ]
+   }
+  }
+ ],
+ "rec_changes": [
+  {
+   "id": "FT1",
+   "recommended": "C",
+   "rec_reason": "It keeps the traced exchange your fights are built on for the one body the reader rides, while the fight around her stays as quick and lethal as R60-01 makes ordinary fights."
+  },
+  {
+   "id": "FT6",
+   "recommended": "A,B",
+   "rec_reason": "The Bestiary built every entry around a findable counter, your fair-ability rule in creature form, and phases at the tie give the anime boss-fight turn without inventing a health bar."
+  },
+  {
+   "id": "FT8",
+   "recommended": "B",
+   "rec_reason": "You chose full LitRPG and real physics: R45-1's reference figure against the read Grade lets the reader check the dodge (R13-8), and R53-05 already frees the cause, so the gun earns its page at last."
+  },
+  {
+   "id": "FT9",
+   "recommended": "C",
+   "rec_reason": "It keeps R3-9 whole and still gives a battle the arithmetic you like: the hill lays the practitioner like a gun, the spotter's gauge reads the result, and the ditch feels it as weather."
+  },
+  {
+   "id": "FT13",
+   "recommended": "A,B,C",
+   "rec_reason": "Scent as evidence keeps the read fair and specific, tells that betray the fighter give opponents the findable counter you want, and fox-fire is canon light, so naming it plainly is honest; lineage figures wait until the lineage page drops its retired Sub-Stat names (Memory, Confluence)."
+  },
+  {
+   "id": "FT16",
+   "recommended": "C",
+   "rec_reason": "It is K4's option B worked out for Verdict: the stillness and the single line of motion stay, each floor item is paid where it is true, and you get the Bleach cut that has already happened without the reader losing the check."
+  },
+  {
+   "id": "FT18",
+   "recommended": "C",
+   "rec_reason": "A matchup should honour both fighters' grammars, and this one gives the Naruto turn you like: the moment the POV reads that the fight he is winning is the fight he is losing."
+  }
+ ],
+ "intros": {
+  "CW": "How any fight reads, magic or none: exchange grain and pace, space, speed, impact, pain, fear and sound, ground and weather, how fights end and what follows, then three gaps in the adjudication (the level exchange, the wound carried in, the count of rounds); magical combat proper is the MC section. In the samples, the boss and rim are a shield's centre and edge, the tsuba a Japanese sword's guard, the hakama the pleated trousers, the Zornhau the wrath cut, and the strong the half of a blade nearest the hilt.",
+  "FT": "The kinds of fight the house has written rarely or never: small fights, ambushes, brawls, bouts, beasts, guns, battles, sieges, chases, rivers, the read, the loss, and whether a gun or a bench needs a grammar of its own. Each question asks only what the law has not decided; what it has decided is listed at the end.",
+  "WT": "What WOTR's own apparatus does when a fight reaches it: item cards and names, proof, armour and shot, wards, Wells, contracts and the rail, then the bill, the roll and the law afterwards. Each question asks only what live law and the other groups leave open."
+ },
+ "settled_extra": [],
+ "text_fixes": [
+  {
+   "file": "group-1.json",
+   "old": "Its vows that trade a limit for power wait for the magic section.",
+   "new": "Its vows that trade a limit for power wait for MC6."
+  },
+  {
+   "file": "group-1.json",
+   "old": "The duel is the wait: one exchange, the cut never seen in flight, the floor paid afterward on the body. Becomes the named model for Verdict grammar (read, rank, commit).",
+   "new": "The duel is the wait: the long read and a single exchange, the floor paid on the body. Becomes the named model for Verdict grammar (read, rank, commit); FT16 asks whether the cut itself is seen."
+  },
+  {
+   "file": "group-1.json",
+   "old": "so the magic section should take it up there.",
+   "new": "so MC19 and MC20 take it up there."
+  },
+  {
+   "file": "group-1.json",
+   "old": "pursuit is decided on Dexterity (Celerity) and the ground, and a fled fight",
+   "new": "pursuit is decided on Dexterity (Celerity), the reserve and the ground (FT12 shapes the chase), and a fled fight"
+  },
+  {
+   "file": "group-1.json",
+   "old": "Hunter x Hunter makes them pay for it afterward.",
+   "new": "Hunter x Hunter makes them pay for it afterward. MC10 asks whether Vitalia may mend inside the fight."
+  },
+  {
+   "file": "group-1.json",
+   "old": "battle questions belong to the fight-types section.",
+   "new": "FT9 to FT11 take up the battle questions."
+  },
+  {
+   "file": "group-1.json",
+   "old": "the killing-intent mechanism is the magic section's to take up.",
+   "new": "the killing-intent mechanism is MC14's question."
+  },
+  {
+   "file": "group-2.json",
+   "old": "Each side invents its own uses; Isaac's characters are never voiced for him",
+   "new": "Each side invents its own uses; your characters are never voiced for you"
+  },
+  {
+   "file": "group-2.json",
+   "old": "No sample uses Isaac's PC or another creator's character.",
+   "new": "No sample uses your PC or another creator's character."
+  },
+  {
+   "file": "group-3.json",
+   "old": "Who reads at the rail is asked elsewhere.",
+   "new": "Who hears the rail's reading is WT9's question."
+  },
+  {
+   "file": "group-3.json",
+   "old": "How a breaking ward reads is asked elsewhere; this asks where it sits.",
+   "new": "How a breaking ward reads is WT6's question; this asks where it sits."
+  },
+  {
+   "file": "group-3.json",
+   "old": "How flight ends a fight is asked elsewhere.",
+   "new": "How flight ends a fight is CW11's question."
+  },
+  {
+   "file": "group-3.json",
+   "old": "For Isaac's PC the sign sits in the world, never in his head. Yield, flight and rescue are asked with how fights end.",
+   "new": "For your PC the sign sits in the world, never in his head. K7 sets the promise this warning serves; yield and flight are CW11's question."
+  },
+  {
+   "file": "group-3.json",
+   "old": "Gu Long, the spare wuxia master, never shows the blow; the reader learns who won when one man falls. Nothing says the floor may be paid after the cut.",
+   "new": "Gu Long, the wuxia master, never shows the blow; the reader learns who won when one man falls. K4's option B pays Verdict's floor around the cut; this asks how, and whether the cut is seen."
+  },
+  {
+   "file": "group-3.json",
+   "old": "A spared rival is paid for on the Ledger (R70-104).",
+   "new": "A spared rival is paid for on the Ledger (R70-104). CW11 asks whether a code may end a fight; this asks what its first wound may do."
+  },
+  {
+   "file": "group-3.json",
+   "old": "the cause stated under R53-05. No running round-count (R70-88).",
+   "new": "the cause stated under R53-05. Rounds left are counted as CW17 rules."
+  },
+  {
+   "file": "group-3.json",
+   "old": "how proofed shot sits on the item-Tier ladder belongs to the items group.",
+   "new": "how proofed shot sits on the item-Tier ladder is WT4's question."
+  },
+  {
+   "file": "group-3.json",
+   "old": "and Isaac's 2026-09-12 ruling has the working, not the steel, stop shot at a worked cuirass.",
+   "new": "and your 2026-09-12 ruling has the working, not the steel, stop shot at a worked cuirass."
+  },
+  {
+   "file": "group-3.json",
+   "old": "Live law; how the ammunition tiers sit on the item ladder belongs to the items group.",
+   "new": "Live law; how the ammunition tiers sit on the item ladder is WT4's question."
+  },
+  {
+   "file": "group-3.json",
+   "old": "Western leads combat, injury and dialogue (K3).",
+   "new": "Western leads combat, injury and dialogue (style law K3)."
+  },
+  {
+   "file": "group-3.json",
+   "old": "and Isaac's PC and the other creators' characters",
+   "new": "and your PC and the other creators' characters"
+  },
+  {
+   "file": "group-3.json",
+   "old": "\"depends_on\": [],\n     \"rules_touched\": [\n      \"R1-1-VERDICT_GRAMMAR\",\n      \"R70-102-STILLNESS_TRACED_PASSES_LONG\",",
+   "new": "\"depends_on\": [\"K4\"],\n     \"rules_touched\": [\n      \"R1-1-VERDICT_GRAMMAR\",\n      \"R70-102-STILLNESS_TRACED_PASSES_LONG\","
+  },
+  {
+   "file": "group-3.json",
+   "old": "\"depends_on\": [],\n     \"rules_touched\": [\n      \"R48-31-STAKES\",",
+   "new": "\"depends_on\": [\"K7\"],\n     \"rules_touched\": [\n      \"R48-31-STAKES\","
+  },
+  {
+   "file": "group-4.json",
+   "old": "K7, DE1 and EC9. AL12 asks only how a reading reaches the page.",
+   "new": "Alchemy conversion K7, DE1 and EC9. AL12 asks only how a reading reaches the page."
+  },
+  {
+   "file": "group-4.json",
+   "old": "Recorded conflicts are ruled on the docket under the wotr-conflict precedence ladder (CLAUDE.md, 2026-09-25), not by questionnaire.",
+   "new": "Recorded doctrine conflicts are ruled on the docket under the wotr-conflict precedence ladder (CLAUDE.md, 2026-09-25); only conflicts that decide how a fight reads are put to you here (C-159 in MC3, C-124 in MC15)."
+  },
+  {
+   "file": "group-5.json",
+   "old": "Ruled 2026-10-03; the mixed-grammar duel is another group's question.",
+   "new": "Ruled 2026-10-03; FT18 asks the mixed-grammar duel."
+  },
+  {
+   "file": "group-5.json",
+   "old": "the killing-intent mechanism R70-70 owes is other groups' ground.",
+   "new": "the killing-intent mechanism R70-70 owes is MC14's question."
+  },
+  {
+   "file": "group-5.json",
+   "old": "the Western strand leads combat, injury and dialogue (K3)",
+   "new": "the Western strand leads combat, injury and dialogue (style law K3)"
+  },
+  {
+   "file": "group-5.json",
+   "old": "Whether Tier names appear at a hit is unruled.",
+   "new": "Whether Tier names appear at a hit is unruled; WT13 asks whether kind or Tier decides."
+  }
+ ],
+ "notes": "1. Read all five groups (99 questions, 123 settled rows) and the seven research files. 2. No drops: no two questions ask the same thing. Close pairs kept on purpose and now cross-referenced: K7 (the promise of a way out) and FT17 (what counts as the warning), FT17 now depends_on K7; K4's option B and FT16 (where Verdict's floor is paid), FT16 now depends_on K4; CW11 (which endings) with FT5 (first blood), FT12 (chases) and WT12 (the law after a killing); CW6 (holding a wound shut) and MC10 (Vitalia mid-fight); CW12, AL10 and WT10 (aftermath length, which medicine, the bill); FT4, WT9 and WT11 (bout ends, who hears the rail, the roll). 3. Six additions, each a gap the research flagged and no group asked: K9 a player's fighter on the page (roleplay against books; research-law's floor-for-the-PC item and research-house's 'opponent who belongs to another player'), placed after K5 with an out-of-sequence id as the style patch did; CW15 the tiebreak when the rows come out level and CW16 wounds carried into the next fight (both open adjudication items in research-law); CW17 counting rounds, vials and charges (research-west seam 6; FT8's option B had assumed an answer, now pointed at CW17); FT19 whether a marksman, an alchemist or a field caster needs a fifth grammar (research-law, research-alchemy item 3, research-litrpg); WT13 armour's kind against its Tier (the Item Guide's flagged 'no rule chooses'), placed after WT3. 4. Recommendations made to agree: K2's Gu Long option no longer prescribes the unseen cut (it pointed against K4's B and FT16's C; FT16 now decides it); CW11's flight option now names the reserve beside Celerity so it agrees with FT12's A,B; group-4's settled line said recorded conflicts are never put to you by questionnaire while MC3 (C-159) and MC15 (C-124) do exactly that, so it now says doctrine conflicts go to the docket and page-facing ones are asked here. New recommendations checked against old: K9 against K5 B and CW14 D; WT13 A against WT4 C and MC24 A (worked armour decided by the working, as R13-C); CW17 A against FT8 B and AL4 A; FT19 A against AL4 A and K8. 5. Stale cross-references fixed (29 text_fixes, each old string checked to occur exactly once): vague 'asked elsewhere' or 'another group' pointers in FT4, FT11, FT12, FT17 and the group-1, group-3 and group-5 settled rows now name WT9, WT6, CW11, K7, FT18, MC14, MC6, MC19, MC20 and WT4; the style law's K3 and the alchemy conversion's K7 are marked so they cannot be read as this questionnaire's K3 and K7; FT5, CW6 and WT3 gained one-line pointers to CW11, MC10 and WT13. 6. Voice: group-3's seven rec_reasons and three settled rows spoke of 'Isaac' in the third person while every other group says 'you'; rec_changes rewrite FT1, FT6, FT8, FT9, FT13, FT16 and FT18 with the same recommended values. 7. Intros updated for CW, FT and WT to name the additions. 8. Left open, not added (the six-slot cap): Pressure on a formation (Pack Seven's pre-contact break, superseded with nothing in its place), how a fighter whose card has no FOW line is adjudicated (Renard), reload timing against the six-second turn, a Draft-coated round (R61-100's reserve-free Draft against R45-3's alchemically worked shot, unlogged), altered states that change the narration's voice, and a fighter's first night after a killing. 9. Housekeeping the groups already record and this patch does not touch: the settled list repeats CB1 to CB7, MY1 to MY9 and the LR rows across groups, as the style questionnaire's did; NATALIE.md still calls Chantcraft 'a delivery of Spellcraft' and still carries the C-001 ban line, and CONFLICTS.md C-001's status still reads 'Eleven's ban stands' though R53-05 superseded it (ME1 C would sweep them). 10. Validated in a scratch copy: all text_fixes applied, the five groups reparse, assemble.py's checks run clean, no em or en dash anywhere, every new rule id exists in rules/, every new context, label, consequence, sample and rec_reason inside the groups' own length ranges. Final count 105 questions in 7 sections."
+}

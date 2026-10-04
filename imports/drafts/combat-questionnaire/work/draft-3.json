@@ -1,0 +1,866 @@
+{
+ "sections": [
+  {
+   "key": "FT",
+   "title": "Fight types and matchups",
+   "intro": "The kinds of fight the house has written rarely or never: small fights, ambushes, brawls, bouts, beasts, guns, battles, sieges, chases, rivers, the read, the loss. Each question asks only the call the law has not made yet; what it has already made is listed at the end.",
+   "questions": [
+    {
+     "id": "FT1",
+     "title": "The skirmish of three to ten",
+     "question": "Which guide governs a fight of three to ten people with no formation, and how does the POV hold several opponents at once?",
+     "context": "The Combat Guide governs duels and small actions and yields 'the moment a formation exists' (R1-4). Nothing says what five men on a road are. The Mass Guide's Close Register (the man in the press: sound, then pressure, smell, sight) shrinks other men's deaths to half a sentence; the duel floor traces every exchange. Oberhau: the high cut. Forte: the blade's strong half.",
+     "options": [
+      {
+       "key": "A",
+       "label": "Duel law, man by man",
+       "consequence": "The Combat Guide governs: each opponent the POV fights gets the full exchange floor in turn, and the others are held as positions she tracks. verify reads the scene as a duel.",
+       "sample": "Ilse took the first reiver's thrust on the forte, wound it off and put her point into his face, and he went down holding his cheek. The second came from her left at a long step. She had counted the third at the snow drift by the wall, and she kept her shoulder toward him while she stepped into the second man's reach. He threw an Oberhau, too high, and she went under it with her point low. It took him above the collarbone."
+      },
+      {
+       "key": "B",
+       "label": "Close Register from the start",
+       "consequence": "The Mass Guide's Close Register governs from the third fighter: sound and pressure first, other deaths in half a sentence, full layers only on the POV's own kills.",
+       "sample": "The cutting filled with noise. A horse screamed behind her and a pistol went off close enough to sting her ear, and the smoke lay flat in the cold, and somebody's body slammed into her shoulder and was gone before she could see whose. To her left a trooper went down. She could not see the third reiver; she could smell his wet wool. The face in front of her had a beard and an open mouth. Her point went into the mouth."
+      },
+      {
+       "key": "C",
+       "label": "Duel floor, mass compression",
+       "consequence": "The POV's own exchanges carry the duel floor; everyone else's fighting is compressed by the Mass Guide's rules. Her count of who still stands lives in her head, never as figures on the page.",
+       "sample": "Three of them left, and Hob down by the wall with both hands on his belly. Behind her Corrie's carbine banged and a man cried out. The third reiver was at the drift; she could hear him breathing, and he had not come on yet, so she kept him at her shoulder where she could feel him without looking. The second threw his Oberhau. She took it on the forte and let it run off her blade, her own point dropping onto the line of his collarbone. It went in."
+      }
+     ],
+     "recommended": "C",
+     "rec_reason": "It keeps the traced exchange Isaac's fights are built on for the one body the reader rides, while everything around her stays as fast and confused as R60-01 says a small fight is.",
+     "multi": false,
+     "depends_on": [],
+     "rules_touched": [
+      "R1-4-PRECEDENCE_NOTE",
+      "R13-4-COMBAT_FLOOR",
+      "R13-4-DENSITY_BUDGET",
+      "R1-3-NAME_THREE_RULE",
+      "R60-01-BRUTAL_LETHALITY"
+     ]
+    },
+    {
+     "id": "FT2",
+     "title": "Ambush and the named round",
+     "question": "Whose head carries an ambush or an assassination on the page?",
+     "context": "Big surprises need 'foreshadowing a player could have caught' (R48-30), and the default POV is 'whoever knows least about what is coming' (R5-C1). The named round is assassination ordnance priced at a family's season (R11-3), so the shooter's preparation is itself a findable counter. No archived scene has fired a gun.",
+     "options": [
+      {
+       "key": "A",
+       "label": "The target, tell planted",
+       "consequence": "The ambushed POV carries it. The page plants one catchable sign at least a beat before the shot, and the notes cite it so the reader can check the warning was fair.",
+       "sample": "The envoy noticed the lamplighter because his pole was dry. He stood at the gauge-housing on Tallow Street with his ladder against the brass and no flame at the hook, and the lamp above him was still dark. The carriage slowed for the turn. Under the cobbles the draw-hum ran even and low. She had time to think the man was standing very still. The glass beside her head starred. Her shoulder took the round."
+      },
+      {
+       "key": "B",
+       "label": "The shooter, preparation first",
+       "consequence": "The assassin carries it: the round, its maker, its price, the range, then the shot. The target's counter (who sold the round, its findable signature) lies plainly in what the reader saw.",
+       "sample": "Pell had paid a season's wages for the round, and he knew its maker by the mark scratched under the wad. It would go stale; its maker had said so twice. He lay on the leads above Tallow Street and watched the carriage slow for the turn at the gauge-housing, where his man stood on a ladder with a dry pole. Forty yards. The envoy's head showed at the glass. He let his breath half out. He pressed."
+      },
+      {
+       "key": "C",
+       "label": "Both, cut at a break",
+       "consequence": "A marked break splits the wait from the shot: the shooter's preparation in one section, the target's tell and the hit in the next, each POV-locked. In a roleplay turn the shooter's part is a marked cutaway.",
+       "sample": "Pell lay on the leads above Tallow Street with the round warm in his palm, its maker's mark under the wad, a season's wages for one pull. Below him his man set a ladder against the gauge-housing and carried no flame.\n\n* * *\n\nThe envoy noticed the lamplighter because his pole was dry. The carriage slowed for the turn. The glass beside her head starred. Her shoulder took the round."
+      }
+     ],
+     "recommended": "C",
+     "rec_reason": "The shooter's section shows the round as a priced, made, findable thing and the target's section hands the player the tell before the shot, so the ambush is both a surprise and fair; the break keeps each half POV-locked.",
+     "multi": false,
+     "depends_on": [],
+     "rules_touched": [
+      "R48-30-SURPRISES",
+      "R5-C1-WRITE_FROM_LEAST_KNOWING",
+      "R11-3-AMMO_TIERS",
+      "R49-09-CUTAWAYS",
+      "R70-71-EXPLAINING_WORKING_MID_FIGHT"
+     ]
+    },
+    {
+     "id": "FT3",
+     "title": "Brawls and folk schools",
+     "question": "Do folk fighting trades count as schools, so a brawler raised in one names his moves in its words?",
+     "context": "R70-100 names moves 'in the POV's own training', and an untrained POV keeps his body in plain words (R70-28). verify knows five schools, and its percussion list is boxing words. Kharven, Dawi, Accord commons and the hunting companies have no fighting words of their own. A fair-day wrestler is trained, and nothing says so.",
+     "options": [
+      {
+       "key": "A",
+       "label": "Folk schools, by culture",
+       "consequence": "Each Standing Inventory's Words entry gains its wrestling and fist words, entered and logged; a POV raised in them names moves in them, and verify gains a list per culture.",
+       "sample": "Orm took the belt-grip on the carter, both fists in the leather at the small of his back, the way the fair wrestlers took it when the grass came. The Dawi was low and heavy and set his feet wide. Orm gave him the shoulder-lean to push against, felt him push, and turned his hip under the push. The hip-lift came up off the floor with all that weight on it. Durri went over into the woodpile."
+      },
+      {
+       "key": "B",
+       "label": "Plain words for all folk",
+       "consequence": "Only a hall or formal school counts. Every brawler without one keeps plain body words under R70-28, and verify asks nothing of a brawl.",
+       "sample": "Orm got both fists into the back of the carter's belt and held on. The Dawi was low and heavy and set his feet wide. Orm leaned his shoulder into him, and the carter leaned back hard, and Orm turned his hip in under him while he was still pushing. The carter's boots came up off the floor. He went over into the woodpile."
+      },
+      {
+       "key": "C",
+       "label": "Western words by default",
+       "consequence": "A brawl outside a named school takes boxing and catch-wrestling words, as verify's percussion list does now, whatever the POV's culture. Underhook: an arm under the other man's armpit. Sprawl: legs thrown back against a throw.",
+       "sample": "Orm got an underhook on the carter's left arm and his other hand round the back of his belt. The Dawi sprawled, low and heavy, feet thrown wide. Orm gave him a shoulder to push against, felt the push come, and stepped through for the hip-toss on it. The carter's boots came up off the floor. He went over into the woodpile."
+      }
+     ],
+     "recommended": "A",
+     "rec_reason": "R70-100's point is that the words belong to the fighter, and a Kharven belt-wrestler or a Dawi tavern brawler is trained in something; his culture's own words keep the brawl as local as the food.",
+     "multi": false,
+     "depends_on": [],
+     "rules_touched": [
+      "R70-100-MARTIAL_VOCABULARY_NAMES_MOVES",
+      "R70-28-TRADE_SCIENCE_WORDS",
+      "R70-33-WORD_BANK_PER_CULTURE",
+      "R70-136-NEW_CHECKS_VERIFY_SCENE",
+      "R49-50-OWN_BODY"
+     ]
+    },
+    {
+     "id": "FT4",
+     "title": "Bouts at Aetherion",
+     "question": "What ends a sanctioned bout on the Academy sand, and what may it cost?",
+     "context": "The tournament arc is taken: 'rounds, brackets, scouts' odds' (R70-18). The archived Aetherion bouts have a warden with a gauge needle, a dome held by a teacher, and posted limits such as 'nothing fast'. Nothing rules how a bout ends. Ordinary fighters stop at the first real wound (R60-01); students are practitioners, and healing still takes weeks (R60-02).",
+     "options": [
+      {
+       "key": "A",
+       "label": "The warden's call",
+       "consequence": "The warden stops any bout at a wound or a gauge reading she judges. Injuries stay light, the Ledger takes them, and a student never chooses to fight on.",
+       "sample": "The heat came through Ottilie's ward at the wrist and she smelled her own sleeve. The warden's needle jumped. 'Hold,' the warden said from the rail, and put one boot on the sand, and with that the bout was over and the porter with the chalk was already wiping the board. Ottilie stood with her forearm cradled against her coat, the skin coming up white along the bone. Kasimir lowered his hand. Somebody in the seats groaned and paid a copper."
+      },
+      {
+       "key": "B",
+       "label": "Posted terms, warden backstop",
+       "consequence": "Each bout's terms are posted before it (yield, ring-out, a wound by class). Fighters may push right up to them, and the warden's gauge stops only what the terms never priced.",
+       "sample": "The terms chalked on the board said yield, or a step past the ring. The heat came through Ottilie's ward at the wrist and she smelled her own sleeve. She did not yield. She went in on the burn, inside Kasimir's reach, and put her shoulder into his chest, and his heel scuffed the chalk behind him. 'Out,' said the warden from the rail. Ottilie's forearm was coming up white along the bone. The bout was hers."
+      },
+      {
+       "key": "C",
+       "label": "To incapacity, real cost",
+       "consequence": "Bouts run until one fighter cannot go on. The infirmarian is part of the arena, injuries are real under R60-02, and a student can be maimed; the arc's stakes are bodily.",
+       "sample": "Nobody called it. The rule on the board was a fighter who could stand, so when the heat came through Ottilie's ward at the wrist she smelled her own sleeve and kept coming. Kasimir's second working took the same forearm. The radius went with a sound like green kindling. She sat down on the sand. Behind the rail the infirmarian was already laying out lint, a splint and the jar of lime-water."
+      }
+     ],
+     "recommended": "B",
+     "rec_reason": "Posted terms are rules planted before the fight (R70-71) and the tournament crunch Isaac ticked; they let a student gamble on a burn for the win, while the warden keeps the Academy from burying a child every term.",
+     "multi": false,
+     "depends_on": [],
+     "rules_touched": [
+      "R70-18-ARC_SHAPES",
+      "R70-71-EXPLAINING_WORKING_MID_FIGHT",
+      "R60-01-BRUTAL_LETHALITY",
+      "R60-02-REAL_HEALING_TIMES",
+      "R70-112-FACE_FACE_SLAP"
+     ]
+    },
+    {
+     "id": "FT5",
+     "title": "Duels to first blood",
+     "question": "When two fighters agree to stop at first blood, what may that first wound do?",
+     "context": "No rule names a non-lethal duel. R60-01: 'one good cut or a ball in the gut can kill, often days later'; R48-34 tracks blood loss minute by minute. Real duelling codes stopped at the first wound, and surgeons still lost men to a nicked artery or a dirty cut. A spared rival is paid for on the Ledger (R70-104).",
+     "options": [
+      {
+       "key": "A",
+       "label": "The terms hold",
+       "consequence": "A first-blood duel is a safe convention: the wound is minor by custom and by the duellists' care, written clinically and closed in the aftermath beat.",
+       "sample": "Pemberton's guard came up a hand too late, and Hale's point drew across the back of his forearm, a clean line through the skin above the wrist. 'Blood,' said Pemberton's second, and both seconds stepped in with their sticks crossed. Pemberton looked at the cut. It welled along its length and ran into his cuff. The surgeon pressed lint to it, bound it, and told him to keep it dry and out of the cold."
+      },
+      {
+       "key": "B",
+       "label": "Terms hold, the body doesn't",
+       "consequence": "The duel stops at first blood, but the wound is tracked like any other: where the point lands decides whether it is a nick or a death, and the Ledger keeps what follows.",
+       "sample": "Pemberton's guard came up a hand too late, and Hale's point went across the inside of his forearm above the wrist. 'Blood,' said his second, and the sticks came down between them. Then Pemberton's cuff filled. The point had opened the radial artery, and it pumped in short bright spurts onto the frost, a hand's length at each beat of his heart, while he stared at it. The surgeon had a thumb on it inside the minute. Hale had won. He owed for it."
+      },
+      {
+       "key": "C",
+       "label": "Safe only for the ranked",
+       "consequence": "A ranked duellist's control can hold a cut to the skin, read off his card's Dexterity; between ordinary men the terms are a hope, and the wound falls where it falls.",
+       "sample": "Hale was a Welling practitioner and Pemberton had never drawn in his life, and everyone in the yard knew whose cut it would be. Pemberton's guard came up late. Hale's point went across the back of his forearm and stopped there, a skin's depth, as if the cold had caught the blade. 'Blood,' said the second. The line welled. It ran into Pemberton's cuff. Hale had chosen the depth to a hair."
+      }
+     ],
+     "recommended": "B",
+     "rec_reason": "Grimdark with real anatomy: the custom is honoured and the body is not, which gives a polite duel real stakes and a Ledger entry without bending R60-01.",
+     "multi": false,
+     "depends_on": [],
+     "rules_touched": [
+      "R60-01-BRUTAL_LETHALITY",
+      "R48-34-WOUNDS",
+      "R70-104-RIVAL_BOND",
+      "R53-11-JUSTICE"
+     ]
+    },
+    {
+     "id": "FT6",
+     "title": "The shape of a monster fight",
+     "question": "Which shapes may a fight with a Well-spawn or other beast take on the page?",
+     "context": "Every Well-spawn entry names its fair counter: ring the Tolling Crab's note back, overfeed the Lamp-drinker, hoist the Sump-toad fast. 'Plain shot kills most of them.' A creature's tie to its Well is 'the only modifier that can be taken away in the middle of a fight'. No rule shapes a beast fight or says whether the eight-item floor applies.",
+     "options": [
+      {
+       "key": "A",
+       "label": "The hunt as procedure",
+       "consequence": "The fight is won at the shaft head: reading the draw, choosing the entry's counter, laying out the kit. The kill is short and the work is the scene.",
+       "sample": "Wenna had the fork set unrolled on a sack before the crab came round the bend. She struck the first fork on her boot heel and held it up. Wrong note. The second rang flat against the crab's step. The third matched it. She walked into the gallery with it singing at arm's length, and the crab came on ringing, and the two notes met and climbed. The shell went first along its seams. Then the whole animal fell into gravel."
+      },
+      {
+       "key": "B",
+       "label": "Phases at the tie",
+       "consequence": "A beast changes shape mid-fight only at a stat row or its tie: cut it off its Well and the rung the tie gave it drops in front of the hunters. A phase the reader cannot trace fails R13-8.",
+       "sample": "The crab had taken two picks and a carbine ball and kept coming, ringing at every step, the broken picks lying where they had bounced. Then the array men at the Well head pulled the trunk seals, and the hum in the gallery wall went out. The crab's note wavered. It stopped with one claw raised. When it came on again it came slower, its ring a tone lower, and Wenna had time to unroll the forks."
+      },
+      {
+       "key": "C",
+       "label": "A duel with a beast",
+       "consequence": "The full eight-item floor applies: measure to the claw, tempo against its step, the fault in its body, injury by structure on stone-grown flesh. Each creature is assigned a grammar.",
+       "sample": "The claw had the reach of a man with a spear, and Wenna kept a pace outside it, watching the joint at its root where stone and shell had grown together. It struck on the crab's third step every time, on the ring. She let it ring, let it strike short, and stepped in behind it with the tuned bar. She struck the claw's root on the note. The joint shivered along its grain. The claw fell off."
+      }
+     ],
+     "recommended": "A,B",
+     "rec_reason": "The Bestiary built every entry around a findable counter, which is Isaac's fair-ability rule in creature form; phases at the tie give the anime boss-fight turn without inventing a health bar.",
+     "multi": true,
+     "depends_on": [],
+     "rules_touched": [
+      "R53-06-WELL_SPAWN",
+      "R13-4-COMBAT_FLOOR",
+      "R13-8-RECONSTRUCTIBLE_ADJUDICATION",
+      "R47-9-INHERITED_FAILURES",
+      "R70-102-STILLNESS_TRACED_PASSES_LONG"
+     ]
+    },
+    {
+     "id": "FT7",
+     "title": "Appraising a beast",
+     "question": "When a coil or a trained eye appraises a creature, what does the line print?",
+     "context": "R70-85 lets an appraisal read 'a person, beast or item'. A beast carries two ratings that often disagree: the Bestiary rung (what it can break, Hearth-pest up to Sky-eater) and the Commission's Danger Tier and Sigil (what rank the law sends against it). The Bestiary says the difference 'is where a hunter finds the answer'.",
+     "options": [
+      {
+       "key": "A",
+       "label": "The rung only",
+       "consequence": "The appraisal prints the Bestiary rung and what lifts it (reach, persistence, the tie): what the thing can break, in the Measurewright's terms. The Commission tier stays in talk and notes.",
+       "sample": "Dagny set the coil on the jetty boards and let it settle, and the tape came out of the housing in a curl: Mourning Pike, output Road-bane, holding the tie, standing at Hamlet-bane. She tore it off. Along the bank the boatmen had sat down one by one on the wet stones. 'It's under us,' she said. 'Get them standing. Anyone who's buried someone this year goes back to the cart.'"
+      },
+      {
+       "key": "B",
+       "label": "The Commission tier only",
+       "consequence": "The appraisal prints the Commission's Danger Tier and Sigil: what rank the law sends. The rung stays in the notes.",
+       "sample": "Dagny set the coil on the jetty boards and let it settle, and the tape came out in a curl: Mourning Pike, Extreme Threat, Blue Sigil. She tore it off. Along the bank the boatmen had sat down one by one on the wet stones. 'Blue,' she said. 'That's a Guild contract, and we're not the Guild. Get them standing. Anyone who's buried someone this year goes back to the cart.'"
+      },
+      {
+       "key": "C",
+       "label": "Both, and the gap",
+       "consequence": "The line prints rung and Commission tier together, and where they disagree a voice names the gap, because canon puts the hunter's answer there. It counts as one of the scene's three readouts.",
+       "sample": "The tape came out of the coil's housing in a curl: Mourning Pike, Extreme Threat, Blue Sigil; output Road-bane, standing at Hamlet-bane on the tie. Dagny read it twice. The Commission priced it a rung above anything it could break; it was pricing the widows. She looked at the boatmen sitting on the wet stones. 'Cut it off its pool and it's a big fish,' she said. 'Get them standing.'"
+      }
+     ],
+     "recommended": "C",
+     "rec_reason": "Full LitRPG crunch with the fair counter built in: the gap between the two ratings is canon's own hint about where a hunter wins, and a Measurewright reading it aloud is Unbound-style stat talk.",
+     "multi": false,
+     "depends_on": [],
+     "rules_touched": [
+      "R70-85-SCENE_MOMENTS_THAT_EARN",
+      "R70-80-READOUT_SITS_PAGE",
+      "R70-86-MANY_READOUTS_SCENE_CARRIES",
+      "R70-79-CAN_READ_WHOM",
+      "R53-06-WELL_SPAWN"
+     ]
+    },
+    {
+     "id": "FT8",
+     "title": "One shot at a practitioner",
+     "question": "How much of a gunshot at a practitioner is traced on the page?",
+     "context": "Guns 'open an engagement, they do not decide one' (R11-3); the sword takes over inside twenty feet (R11-5). The dodge is read off Speed Grade: a C-Grade outruns the reference revolver ball, a D-Grade registers it and is hit (R45-1). R53-05 lets narration state the cause of any penetration. The old 'furniture, not spectacle' clause went with a superseded row.",
+     "options": [
+      {
+       "key": "A",
+       "label": "Furniture: one line",
+       "consequence": "Restores the old texture clause as law: a shot is a line of sound, smoke and a hole, its physics kept in the notes, and the fight is the steel after.",
+       "sample": "Dunmore fired at fifteen paces. The revolver bucked, the smoke stood in the cold, and when it thinned the man was a yard to the left of where he had been, still walking. She fired again into the same place and hit wall. Then he was inside twenty feet and the gun was a club in her hand. She dropped it and drew."
+      },
+      {
+       "key": "B",
+       "label": "Each shot traced",
+       "consequence": "A shot is traced like an exchange: range, the ball's speed against the target's Speed Grade as the POV reads it, the result, and the cause stated under R53-05. No running round-count.",
+       "sample": "Dunmore fired at fifteen paces and knew, as the hammer fell, that it was wasted. The ball left the muzzle at something under eight hundred feet a second, the armourer's figure, and the man had a C-Grade walk on him if she was any judge, quick enough to outrun what he saw coming. He turned his shoulder a hand's width while the smoke was still leaving the muzzle. The ball broke brick behind him. He kept walking."
+      },
+      {
+       "key": "C",
+       "label": "The shot as a read",
+       "consequence": "A shot is fired to be read: what the target does with the ball is the evidence the read names, no figures given, and the later exchanges spend that evidence.",
+       "sample": "Dunmore fired at fifteen paces to see what he would do with it. The smoke stood, the ball broke brick, and he was a hand's width further left with his shoulder turned, the way a man turns from a door swung at him. So he could step off a revolver ball. He had not stayed to learn whether he could take one. She marked the shoulder he had turned, and drew her sword."
+      }
+     ],
+     "recommended": "B",
+     "rec_reason": "Isaac chose full LitRPG and real physics: the armourer's figure against the read Grade lets the reader check the dodge (R13-8), and R53-05 already frees the cause, so the gun finally earns its page.",
+     "multi": false,
+     "depends_on": [],
+     "rules_touched": [
+      "R11-3-BALLISTICS_RULING",
+      "R11-5-COMBAT_GUIDE_RANGE_OPENING",
+      "R45-1-SPEED_DECIDES_THE_DODGE",
+      "R53-05-PROOF_PLATE",
+      "R70-88-NUMBERS_INSIDE_FIGHT",
+      "R11-3-FIREARM_PROSE_LAW"
+     ]
+    },
+    {
+     "id": "FT9",
+     "title": "Practitioners as artillery",
+     "question": "How does a battle show a high-Stage practitioner used like a battery, given R3-9 closes his head during the fighting?",
+     "context": "R70-106 gives the hill a POV section during a battle; R3-9 closes a practitioner's POV 'during' an engagement, since he feels none of its fog. The Mass Guide leaves the clash open. A working against a formation carries Frontage (how much line it touches), Sustain (how long it holds) and Re-form (how long the line needs to recover) (R1-2).",
+     "options": [
+      {
+       "key": "A",
+       "label": "Weather from the ditch",
+       "consequence": "R3-9 governs whole: no practitioner holds a POV during the battle, and every working is weather felt in the ditch or seen from a hill held by an ordinary officer.",
+       "sample": "From the third rank Tam Cobb watched the hobgoblin line across the ditch lean, all of it at once, the way men lean into a gale. There was no gale. Their horn count faltered and started again on the wrong beat. 'The Bursar,' somebody said down the file, and the name went along ahead of them. Then the enemy's front rank went down on its knees in a row, and their rear began to come apart from the back."
+      },
+      {
+       "key": "B",
+       "label": "Practitioner on the hill",
+       "consequence": "The hill section may be the practitioner's own: his Frontage, Sustain and Re-form arithmetic and whom he spends, on the page. He never fires inside his own section; the working lands in the ditch's.",
+       "sample": "From the hill the Bursar priced it. The hobgoblin front was longer than anything he could press, and he could hold a slice of it no wider than a company's front for one long breath, then pay for it on a camp stool for the next hour. The centre, then, where their horn-man stood. If the centre knelt, their rear would see it kneel. He told the signaller where. He closed his eyes."
+      },
+      {
+       "key": "C",
+       "label": "Battery with a spotter",
+       "consequence": "An ordinary commander directs the practitioner like a gun; a Measurewright spotter in the line reads the effect on her gauge. R3-9 stays whole, and each section stays POV-locked across marked breaks.",
+       "sample": "Major Hesketh had the Bursar the way a gunner has a heavy piece: one shot, slow to lay. 'Centre, at the horn,' he said, and the flags went up. Down in the line the Guild spotter would have her gauge open. He watched the hobgoblin front through his glass for a long breath of nothing at all. Then the centre of their line knelt in a row, and the flag at the spotter's post dipped twice: no re-form."
+      }
+     ],
+     "recommended": "C",
+     "rec_reason": "It keeps R3-9 whole and still gives a battle the arithmetic Isaac likes: the hill lays the practitioner like a gun, the spotter's gauge reads the result, and the ditch feels it as weather.",
+     "multi": false,
+     "depends_on": [],
+     "rules_touched": [
+      "R3-9-PRACTITIONER_POV_RULING",
+      "R70-106-BATTLE_TOLD",
+      "R1-2-THREE_FIELDS_MANDATORY",
+      "R2-6-DOMAINS_BREAK_NOT_KILL",
+      "R70-72-WATCHING_CROWD_POWER_REVEAL"
+     ]
+    },
+    {
+     "id": "FT10",
+     "title": "Volley, smoke and the drilled line",
+     "question": "Which gunpowder-battle material should the Mass Combat Guide gain?",
+     "context": "The Mass Guide never mentions a firearm, a volley or a gun battery, though the age runs to 1900 hardware (R53-03) with 'rare machine guns later' (R59-12). Counterplay holds that 'A volley is a volley', and that drilled men who spread and keep a line of fire open will kill a practitioner. Case-shot: a gun's load of small balls for close range.",
+     "options": [
+      {
+       "key": "A",
+       "label": "Drill and smoke",
+       "consequence": "A section on loading by numbered motions, smoke that blinds after the first volley, fire by platoons down a line and squares against horse; the ditch sees smoke and hears the count.",
+       "sample": "'Present,' the sergeant said, and the muskets came level with a sound like a gate shutting. 'Fire.' The smoke went out in one bank and stood in the cold, and after that the front rank loaded blind, by count, bite and prime and ram, while the sergeant walked behind them saying the numbers. Somewhere in the white the man was still coming. They could hear the frost squeaking under him."
+      },
+      {
+       "key": "B",
+       "label": "Spread against a practitioner",
+       "consequence": "A section on Counterplay's doctrine: men drilled to spread, make him choose and keep a line of fire open, so numbers correctly used beat a practitioner at a stated cost in men.",
+       "sample": "'Open order,' the sergeant said, and the line came apart into pairs a long arm's interval apart, the way the drill book had it and nobody had ever practised it right. The man came on across the frozen field and had to choose. He went for the pairs on the left. The pairs on the right fired into his side while he was busy killing. He turned on them. The pairs behind him fired."
+      },
+      {
+       "key": "C",
+       "label": "Guns and the late gun",
+       "consequence": "A section on field guns, rockets and the rare state-owned machine gun of the late span: the push before the sound, case-shot at close range, the gun as a war aim.",
+       "sample": "The battery behind them fired over their heads, and the sound arrived as a push at the back of the skull before anybody heard it. Case-shot. The field in front of the line went up in a long smear of snow and iron. Where the man had been running there was a stain, and further on there was the man, on one knee, still alive. The gunners were already sponging out."
+      },
+      {
+       "key": "D",
+       "label": "Enhanced-shot companies",
+       "consequence": "A section on elite guard and bounty companies with full pouches of enhanced shot (R53-04): each round priced, made and findable, fired only at practitioners and only on a named order.",
+       "sample": "The guard company held its fire while the line volleyed. Its men stood behind the ranks with their pouches buttoned, each round in them bought from a Guild maker at what a family earned in a season, and they waited for the smoke to lift. When it lifted, the man was on one knee. Their captain named him, once. Six rifles fired, and six balls worth more than the rifles went into him."
+      }
+     ],
+     "recommended": "A,B,D",
+     "rec_reason": "The age is a gunpowder age and its battles have nothing on the page yet; drill, the anti-practitioner doctrine and the elite enhanced-shot companies are canon already and only need a home. Field guns can wait for the scene that needs them.",
+     "multi": true,
+     "depends_on": [],
+     "rules_touched": [
+      "R53-03-FIREARM_CEILING",
+      "R53-04-ENHANCED_SHOT",
+      "R59-12-TRANSITIONAL_MILITARY",
+      "R1-4-PRECEDENCE_NOTE",
+      "R70-106-BATTLE_TOLD"
+     ]
+    },
+    {
+     "id": "FT11",
+     "title": "A siege with practitioners in it",
+     "question": "When the wall is warded and a practitioner sits in the besieging camp, where does the ward's failure go on the page?",
+     "context": "Siege law: the Line Register (the unit's condition, weeks at a paragraph each) by default, the Close Register only for 'a sortie, a mine breaking through, and the storm', and the parley as the climax (R3-8). Draw Age walls carry Runecraft wards, beaten by damaging what they are cut into. No rule says where a ward's failure sits.",
+     "options": [
+      {
+       "key": "A",
+       "label": "Siege law as written",
+       "consequence": "The ward failing is a unit condition in the Line Register, a paragraph like any other day; the parley still carries the climax, with the practitioner priced into it as a threat.",
+       "sample": "On the fortieth day the ward on the west gate failed. It had been cut into the lintel in Saltmere's founding year and had read thinner every night since the thaw, and the garrison knew it had gone because frost came back to the gate timbers overnight. The flux was worse in the north lines that week. The next morning the commander sent his herald out under a white cloth to talk about the price of the town."
+      },
+      {
+       "key": "B",
+       "label": "Ward breach as a break",
+       "consequence": "Amends R3-8: a ward failing joins sortie, mine and storm as a Close Register break, sudden and over fast, with the ward's date, maker and repairs read on the page.",
+       "sample": "The ward on the west gate went at the turn of the night watch. Teodor was on the gate steps and felt it as his ears popped, the way they do at a cellar door, and the frost came up white across the gate timbers with a sound he could hear. The lintel inscription had been cut in the founding year and patched since in a worse hand. Across the ditch a horn went. Then a great many horns."
+      },
+      {
+       "key": "C",
+       "label": "The practitioner's breach",
+       "consequence": "The ward's breaking is the practitioner's set piece at the wall, his costing before and his field after under R3-9; any storm that follows is the parley's failure.",
+       "sample": "Before dawn the camp's practitioner walked to the lip of the ditch with a clerk beside him holding a lamp and a book. He had read the west gate's ward every night for a month: cut in the founding year, patched since in a worse hand, thinnest at the patch. He had priced it in his own reserve, and the price was high. He put his palm toward the patch and leaned, as a man leans on a stuck door."
+      }
+     ],
+     "recommended": "B",
+     "rec_reason": "Draw Age walls are warded, and a ward going is as sudden as a mine breaking through; adding it to the three breaks keeps siege law's tedium and its parley while giving the age its own shock.",
+     "multi": false,
+     "depends_on": [],
+     "rules_touched": [
+      "R3-8-SIEGE_CLOSE_REGISTER_RESERVED",
+      "R3-8-SIEGE_LINE_REGISTER_DEFAULT",
+      "R3-8-SIEGE_PARLEY_IS_SCENE",
+      "R3-9-BEFORE_AFTER_DURING"
+     ]
+    },
+    {
+     "id": "FT12",
+     "title": "Chases and pursuits",
+     "question": "What decides a chase on the page?",
+     "context": "No rule shapes a chase. 'Speed is Essence' (R2-6): a fighter who arrives fast arrives spent, and most reserves empty in under two minutes at full draw (Combat Guide §7.1). A city chase runs through crowds who hold practitioners in awe (R53-18) and over Board ground: standpipes, gauge-housings, and mains a Board can cut.",
+     "options": [
+      {
+       "key": "A",
+       "label": "The reserve race",
+       "consequence": "The chase is the reserve clock: every burst of speed is spent, both bodies pay, and whoever runs dry first loses. The notes keep the arithmetic.",
+       "sample": "Fenn took the gap between the tenements in one push and felt the price land under his breastbone before his boots hit the slates. He had perhaps three more pushes like that in him. Behind him the warden took the same gap without a sound and landed badly and kept coming, and he could hear her breathing. Hers was going ragged too. Whoever ran dry first on these roofs would be caught on them."
+      },
+      {
+       "key": "B",
+       "label": "The quarry's route",
+       "consequence": "The chase is the quarry's route read against the pursuer's: ground chosen beforehand, a cut street, a standpipe yard, a rail cutting. The reserve still runs, but the map decides.",
+       "sample": "Fenn went down off the slates into Tallow Row, where the Board had cut the main at three that morning, and the hum stopped at the corner as if a door had shut. He had walked this way twice in daylight. The warden came over the roof edge behind him and dropped into the dead quiet of the cut street. Her next push had nothing in the ground to lean on and came out of her own reserve. She slowed."
+      },
+      {
+       "key": "C",
+       "label": "The crowd and the law",
+       "consequence": "The chase is the city: crowds open or close by awe, hawkers and constables get in the way, a chorus speaks within the POV's hearing. Reserve and route run underneath.",
+       "sample": "Fenn dropped off the slates into the Leadmarket at its noon crush and ran straight down the middle of it. The crowd opened for the warden behind him the way it opens for a hearse. 'Guild,' somebody said, and the word went ahead of her through the stalls, and the people in front of Fenn heard it and closed. A fishwife put her barrow across his path without looking up. He went over it and landed in eels."
+      }
+     ],
+     "recommended": "A,B",
+     "rec_reason": "A chase decided by the clock and the map can be checked (R13-8) and is fair both ways; the crowd stays as texture inside either one.",
+     "multi": true,
+     "depends_on": [],
+     "rules_touched": [
+      "R2-6-SPEED_RULING",
+      "R60-03-HARD_RESERVE_CLOCK",
+      "R47-11-TIME_AND_ENERGY",
+      "R53-18-AWE",
+      "R13-8-RECONSTRUCTIBLE_ADJUDICATION"
+     ]
+    },
+    {
+     "id": "FT13",
+     "title": "Beastkin senses and fox-fire",
+     "question": "Which beastkin habits become standing law for a fight on the page?",
+     "context": "Fox-spirit noses read 'at a layer most practitioners cannot access'; Yoko Mishiro's assignment has her nose read before her eyes. Fox-fire is a canon Trait, 'a minor ambient cold-amber luminescence', larger from Stage V, Splintering. R9-3 bans 'it glowed' for Essence discharge. Ears and tail 'betray her first'. Nothing rules how a scent read sits in the exchange floor.",
+     "options": [
+      {
+       "key": "A",
+       "label": "Scent as the read",
+       "consequence": "For a scenting POV, the floor's named read may be a smell stated as evidence: what was smelled, where, and what it means. Tempo words follow the nose.",
+       "sample": "Hana smelled the vial before she saw the hand. Strongwater under a cork, sharp at the back of the throat, and the sweat of a man who had held it too long, from the left of the bales and low. He was crouched. He meant to throw underarm. She went right while his arm was still going back, and the glass broke on the boards where she had been."
+      },
+      {
+       "key": "B",
+       "label": "Tells the enemy reads",
+       "consequence": "Ears and tail move before the fighter decides, and an opponent who knows it may read them: an involuntary tell written as a fair, findable counter, in the opponent's eyes or mouth.",
+       "sample": "The man behind the bales had fought fox-kin before. He watched Hana's ears, which came round to him a breath before her face did, and when the left one went flat he knew she had his smell and which way she would break. He threw where she was going. The glass broke on the boards a pace to her right, and the Strongwater came up off them in a yellow fume."
+      },
+      {
+       "key": "C",
+       "label": "Fox-fire as plain light",
+       "consequence": "A canon Trait that makes light is named as light, by colour, size and what it shows; R9-3's glow ban stays on Essence discharge only.",
+       "sample": "Hana opened her hand and the fox-fire stood up in it, cold amber, the size of a pear, and lit the space behind the bales from below. The man was crouched there with the vial drawn back and his face turned up into the light. He shut his eyes against it half a moment late. She was already moving. The glass broke on the boards where she had been."
+      },
+      {
+       "key": "D",
+       "label": "Lineage on the appraisal",
+       "consequence": "An appraisal of a beastkin prints the lineage beside the Grades, so the reader sees what the nose or the lag is worth. Modifier figures come only from the lineage page.",
+       "sample": "At the warehouse door the Guild clerk's coil read her, and the tape gave her Grades and then a line of its own: fox-spirit lineage, Gnosis weighted for the nose. The clerk looked at the line and then at her face. 'You'll be wanting the dark end,' he said, and handed her the lamp she would not need. Somewhere behind the bales a cork came out of a bottle."
+      }
+     ],
+     "recommended": "A,B,C",
+     "rec_reason": "Scent as evidence keeps the read fair and specific, tells that betray the fighter give opponents the findable counter Isaac wants, and fox-fire is canon light, so naming it plainly is honest; lineage figures can wait until the lineage page drops its retired Sub-Stat names.",
+     "multi": true,
+     "depends_on": [],
+     "rules_touched": [
+      "R1-1-YOKO_ASSIGNED",
+      "R13-4-COMBAT_FLOOR",
+      "R9-3-AURA_AS_FRACTURE",
+      "R70-85-SCENE_MOMENTS_THAT_EARN",
+      "R54-21-FACULTY_AS_SUBJECT"
+     ]
+    },
+    {
+     "id": "FT14",
+     "title": "Fighting on the main",
+     "question": "Which Draw Age terrain beats become standing fight texture, each with its rule?",
+     "context": "Cutting the main is 'the first move and the cheapest', decided 'by people who will not be present'. 'When a district is cut, the silence arrives before the dark does.' Fought-over ground rings with residue for hours. Rail 'runs on the main'. Pressure shows in the room first, the draw-hum included (R70-69). None of it has reached a fight.",
+     "options": [
+      {
+       "key": "A",
+       "label": "The cut mid-fight",
+       "consequence": "A district can be cut from outside during a fight: the hum dies, the room's density falls, every draw costs more, and the page names who ordered it, even unseen.",
+       "sample": "The hum went out under the stairs in the middle of the second exchange. Corin felt it in his teeth first, a pressure lifting that he had lived inside all his life, and then the quiet. Upstairs a door opened and a woman said 'cut' in a frightened voice. The Mother's man had been drawing off the main through the floor. Now he had only what he carried, and he was finding it out."
+      },
+      {
+       "key": "B",
+       "label": "The burst main",
+       "consequence": "A working that splits a culvert or standpipe spikes the room's density: output up, reach down, residue left. Its figures need a ruled mechanism before first use; none is invented.",
+       "sample": "The Mother's man put his working into the floor instead of into Corin, and the standpipe in the yard below split along its seam with a crack like a frozen pail. The air in the stairwell thickened. Corin's own draw came easy as breathing, too easy, and the reach had gone out of it; what he threw died a yard from his hand. Somewhere a Board meter spun on a wall."
+      },
+      {
+       "key": "C",
+       "label": "Fought-over ground",
+       "consequence": "Ground fought on rings with residue for hours: a second fight there pays for it, instruments read wrong, and an appraiser can tell who worked what by what is left.",
+       "sample": "The stairwell still rang when Corin came back with the Watch at dawn. The gauge in Agathe's hand read high and then wrong and then high again, and the plaster on the landing was warm to the palm. 'He drew here,' she said, pointing at a scorch on the treads, 'and you drew there. You burned more than he did.' Corin had not known that until she said it."
+      },
+      {
+       "key": "D",
+       "label": "Rail and the line",
+       "consequence": "A fight on or beside a line laid on the main: the sealed bed is a live main, the engine couples across a hand's breadth, and cutting the line's section stops trains and fighters together.",
+       "sample": "They fought down the railway cutting with the bed humming under them, the main sealed between the rails, and every working either of them drew came up out of the line itself. The down train was due. Corin heard it in the rails before he saw its lamp, a note rising through his boot soles, and the Mother's man heard it too. He stepped onto the bed. He meant to make Corin choose."
+      }
+     ],
+     "recommended": "A,C,D",
+     "rec_reason": "Each is canon apparatus with a findable, checkable effect, which makes the city itself a fair third fighter; the burst main waits until its density figure is researched, since none may be invented.",
+     "multi": true,
+     "depends_on": [],
+     "rules_touched": [
+      "R53-17-THE_BILL",
+      "R70-69-PRESSURE_AURA",
+      "R13-8-RECONSTRUCTIBLE_ADJUDICATION",
+      "R12-5-NEVER_INVENT_NUMBER",
+      "R53-01-IMPERIAL_AGE_SPAN"
+     ]
+    },
+    {
+     "id": "FT15",
+     "title": "River and sea fights",
+     "question": "Does a river fight run on sea law, or on rules of its own?",
+     "context": "Sea law: the senses run sight, motion, sound, smell; 'a broken crew cannot run'; fire and water are the deaths (R3-8). The Mass Guide notes every naval rule 'speaks of the sea, the ship and the horizon', and leaves riverine action, and sound and smell at sea, unruled.",
+     "options": [
+      {
+       "key": "A",
+       "label": "Sea law throughout",
+       "consequence": "Every water fight runs on R3-8's naval rows, river or sea alike: sight first, motion second, no rout, fire and water as the deaths.",
+       "sample": "From the barge's stern Edda could see all of it: the two skiffs putting off from the reed bank, the men in them, the hooks. She could do nothing about any of it but hold the tiller. The deck swung under her as the first skiff struck. A man came over the rail with a hook, and the barge's lamp went into the river with him and floated off burning."
+      },
+      {
+       "key": "B",
+       "label": "River law of its own",
+       "consequence": "A river gets its own rows: banks close the horizon and open a rout and an ambush, the current is the motion channel, sound carries far over cold water, and the cold drowns.",
+       "sample": "Edda heard the reivers before she saw them. Over the cold water at dusk a voice a quarter mile off came to her as clear as a man at her elbow, and she knew there were two skiffs and that one man in them was praying under his breath. Then the skiffs put off from the reed bank. The first struck. A man came over the rail. She put the tiller hard over, and he went into the current with his boots on."
+      },
+      {
+       "key": "C",
+       "label": "Land law, wet ground",
+       "consequence": "A river fight is a land fight with water as terrain: the duel or Mass Guide governs by size, and the river is one more hazard on the ground.",
+       "sample": "The skiffs put off from the reed bank and the first struck the barge amidships. A man came over the rail with a hook. Edda met him there with the boathook, its iron foot in his chest, and shoved, and he went backward off the gunwale into the river. The water was waist-deep there. He stood up in it, streaming, and began to wade back."
+      }
+     ],
+     "recommended": "B",
+     "rec_reason": "A river is neither sea nor field: banks give a rout and an ambush, the current moves the footing, and the real acoustics of cold water at dusk hand the page the sound rule the sea section still lacks.",
+     "multi": false,
+     "depends_on": [],
+     "rules_touched": [
+      "R3-8-NAVAL_SENSORY_HIERARCHY",
+      "R3-8-NAVAL_MOTION_CHANNEL",
+      "R3-8-NAVAL_NO_ROUT",
+      "R3-8-NAVAL_FIRE_WATER_DEATHS"
+     ]
+    },
+    {
+     "id": "FT16",
+     "title": "The fight that is mostly a read",
+     "question": "When a fight is a long read and one cut, where does the exchange floor get paid?",
+     "context": "Verdict grammar is 'read, rank, commit', written as 'stillness then one cut' (R70-102). The finisher still owes the eight-item floor and three causal sentences (R13-4). Gu Long, the spare wuxia master, never shows the blow; the reader learns who won when one man falls. Nothing says the floor may be paid after the cut. Maai: fighting distance. Gyaku-kesa: the rising diagonal cut.",
+     "options": [
+      {
+       "key": "A",
+       "label": "All in the read",
+       "consequence": "The read carries the whole floor before the cut: measure, tempo, the fault, the mechanics foreseen, the wound it will make. The cut itself is one short line.",
+       "sample": "The Accord man stood with his point level and his weight on the back foot, and the cuirass under his coat carried a shallow proof-dent: a light charge, cheap plate that stopped above the hip. Three paces of maai between them. He would come on the thrust when his breath turned. The plate's lower edge left the floating ribs bare, and a rising cut there would open the liver from below. His breath turned. Gyaku-kesa."
+      },
+      {
+       "key": "B",
+       "label": "Unseen cut, paid after",
+       "consequence": "The cut is never shown, Gu Long's way; the next beat pays the floor on the struck body: the wound by structure, its causes in causal sentences, the bleeding clock.",
+       "sample": "The Accord man's breath turned and he came on the thrust. Then the Shirogane master was a pace past him, sword low. The fencer took two more steps. Under the hem of his cuirass his coat had opened from hip to ribs, and the cut beneath ran upward under the plate's edge into the liver, where the plate stopped because its maker had stopped it there. He knelt. What came out of him spread on the stones."
+      },
+      {
+       "key": "C",
+       "label": "Read before, body after",
+       "consequence": "The read pays the first four items (measure, tempo, read, fault) before the cut; the body pays the last four (the hit, the injury, the Essence, what he cannot do) after it. The cut is one line between.",
+       "sample": "Three paces of maai. The Accord man stood with his weight back, and the shallow proof-dent on his cuirass said a light charge and plate that stopped above the hip. He would come on the thrust when his breath turned. It turned. Gyaku-kesa. The fencer took two more steps with his coat open from hip to ribs, the cut running up under the plate's edge into the liver, and knelt in what came out of him."
+      }
+     ],
+     "recommended": "C",
+     "rec_reason": "It keeps Verdict's stillness and its single line of motion, pays each floor item where it is true, and gives Isaac the Bleach cut that has already happened without leaving the reader unable to check it.",
+     "multi": false,
+     "depends_on": [],
+     "rules_touched": [
+      "R1-1-VERDICT_GRAMMAR",
+      "R70-102-STILLNESS_TRACED_PASSES_LONG",
+      "R13-4-COMBAT_FLOOR",
+      "R13-4-THREE_EXPLANATIONS",
+      "R70-57-DESCRIPTION_INSIDE_FIGHT"
+     ]
+    },
+    {
+     "id": "FT17",
+     "title": "The losing fight",
+     "question": "What may carry a losing POV out of a fight alive?",
+     "context": "Death 'can happen, if earned: from real mistakes after clear warning' (R48-31); surprises need foreshadowing (R48-30); fights are 'never rigged in either direction' (R57-10). A spared rival is a choice paid for on the Ledger (R70-104). When the POV is Isaac's PC, what he tries is his alone (R49-01). Nothing says how an escape is earned.",
+     "options": [
+      {
+       "key": "A",
+       "label": "A route planted before",
+       "consequence": "An escape may use only what the page showed before the fight began: the sluice, the cut street, the second door. The notes cite where it was planted.",
+       "sample": "The hammer took Hal's shield arm at the elbow, and the arm stopped being his. He went back across the mill floor with the Dawi coming after him, unhurried, the hammerhead swinging low. Coming in by the wheel-race he had seen the sluice gate standing open on the flood. He threw himself through it. The race took him under the wheel and out into the tail-water, his arm dragging behind him in the cold."
+      },
+      {
+       "key": "B",
+       "label": "An ally, if foreshadowed",
+       "consequence": "Help may arrive only if the page let a player see it coming: a horse heard on the road, a friend's promise to follow. A rescue nobody could have caught fails R48-30.",
+       "sample": "The hammer took Hal's shield arm at the elbow, and the arm stopped being his. He went back across the mill floor with the Dawi coming after him, unhurried. Then the door behind the Dawi banged open and Mags stood in it with the carbine, the one he had heard her cursing on the road an hour back because the lock was stiff. She fired. The hammer-hand turned. Hal ran."
+      },
+      {
+       "key": "C",
+       "label": "The opponent's choice",
+       "consequence": "The winner may let him go for a reason of his own, and the price is entered on the Ledger: a weapon taken, a debt sworn, a scar, a witness.",
+       "sample": "The hammer took Hal's shield arm at the elbow, and the arm stopped being his. He went down. The Dawi stood over him on the mill floor with the hammer resting on one shoulder and looked at him for a while, the way a carter looks at a horse gone lame on the road. 'Your sword.' Hal gave it to him hilt first, left-handed. The Dawi weighed it, pushed it through his belt and stepped away from the door. 'Tell the Greymanes who has it.'"
+      },
+      {
+       "key": "D",
+       "label": "Yield and be taken",
+       "consequence": "A losing POV may surrender, and capture becomes a Front or the next scene, with the captor's want written out. Whether Isaac's PC ever yields is his call alone.",
+       "sample": "The hammer took Hal's shield arm at the elbow, and the arm stopped being his. He went down on one knee on the mill floor and let the sword go, and it rang on the flags. 'Yield,' he said. The Dawi looked at him for a long moment with the hammer still up. Then he lowered it and called over his shoulder for rope."
+      }
+     ],
+     "recommended": "A,C,D",
+     "rec_reason": "Each is earned from what the page already holds and each leaves a bill, which is grimdark with fairness; an ally's arrival is already governed by R48-30 and needs no new law.",
+     "multi": true,
+     "depends_on": [],
+     "rules_touched": [
+      "R48-31-STAKES",
+      "R48-30-SURPRISES",
+      "R70-104-RIVAL_BOND",
+      "R49-01-WHOSE_HEAD",
+      "R57-10-NEVER_RIGGED"
+     ]
+    },
+    {
+     "id": "FT18",
+     "title": "When two grammars meet",
+     "question": "When fighters of two different grammars duel, whose shape does the page take?",
+     "context": "R70-102 ties duel shape to grammar (Verdict stillness then one cut, Blade traced passes, Percussion and Expenditure attrition) but does not say whose shape governs when two meet; the Combat Guide leaves it to the author notes. Expenditure's craft note: 'Everything before the Ledger is the opponent succeeding.' Pflug: the plough guard, hilt at the hip, point at the face.",
+     "options": [
+      {
+       "key": "A",
+       "label": "The POV's grammar governs",
+       "consequence": "The page runs the POV's own grammar from first pass to last; the opponent's grammar shows only as what the POV reads, or fails to read.",
+       "sample": "Third pass. The construct came in high and Brede took it on the forte, wound, and put his point through the clay at the throat, where the glyph sat. It came apart. Another stood up out of the floor behind it. Across the hall the summoner was crouched by the hearth, looking at the ash. Brede reset in Pflug and measured the next one. His wrists ached. He had won three passes running."
+      },
+      {
+       "key": "B",
+       "label": "The deciding grammar",
+       "consequence": "Shape follows whoever is deciding the fight: traced passes while the fencer leads, then attrition when the cost comes due, at a marked turn the notes name.",
+       "sample": "He won the third pass as he had won the first two, his point through the clay at the throat where the glyph sat. Then the hall changed pace. The summoner stood up from the hearth. The next construct did not come in; it stood in the floor and waited, and Brede stood in Pflug and waited back, and every breath of the waiting came out of his wrists and the long muscles of his back."
+      },
+      {
+       "key": "C",
+       "label": "The clash is the shape",
+       "consequence": "Both shapes run at once: the POV's grammar on the surface, the opponent's underneath in the cost, and the fight turns at the moment one overruns the other.",
+       "sample": "Third pass, and Brede won it, his point through the clay at the throat where the glyph sat and the construct coming apart in a slump of wet earth. His wrists had begun to burn at the second pass. Now the burn had reached his elbows, and he understood, looking at the summoner crouched by the hearth with her back half turned, that she had not once looked up. Another construct stood out of the floor."
+      }
+     ],
+     "recommended": "C",
+     "rec_reason": "A matchup should honour both fighters' grammars, and this one gives the Naruto turn Isaac likes: the moment the POV reads that the fight he is winning is the fight he is losing.",
+     "multi": false,
+     "depends_on": [],
+     "rules_touched": [
+      "R70-102-STILLNESS_TRACED_PASSES_LONG",
+      "R1-1-THREE_VOCABULARIES_RULING",
+      "R3-7-EXPENDITURE_GRAMMAR",
+      "R70-100-MARTIAL_VOCABULARY_NAMES_MOVES"
+     ]
+    }
+   ]
+  }
+ ],
+ "settled": [
+  {
+   "point": "Proofed round against proofed plate (C-001): narration may state the cause of any penetration, gunfights included; the working, not the steel, stops shot against a worked cuirass. Recorded here, not re-put. C-001's status line ('Eleven's ban stands'), NATALIE.md's line and the Combat Guide's §2 box are stale and owe a sweep.",
+   "rule_ids": [
+    "R53-05-PROOF_PLATE",
+    "R11-3-FIREARM_PROSE_LAW",
+    "R20C-26-STEEL_STOPS_THE_SHOT",
+    "R13-C"
+   ],
+   "why_not_asked": "R53-05 superseded the firearm ban on 2026-09-26 and Isaac's 2026-09-12 ruling on shot against a worked cuirass governs over R20C-26; the conflict is logged, not reopened."
+  },
+  {
+   "point": "Firearms open an engagement and the sword finishes it inside about twenty feet; common shot does not reliably kill a practitioner above the middle Stages.",
+   "rule_ids": [
+    "R11-3-BALLISTICS_RULING",
+    "R11-5-COMBAT_GUIDE_RANGE_OPENING",
+    "R11-3-DUAL_ANSWER_SILHOUETTE"
+   ],
+   "why_not_asked": "Live law; FT8 asks only how much of the shot is traced."
+  },
+  {
+   "point": "A dodge is read off Speed Grade and survival off Resilience; catching, enhancement ceilings, the two dials and per-shot cost are fixed.",
+   "rule_ids": [
+    "R45-1-SPEED_DECIDES_THE_DODGE",
+    "R45-2-CATCHING_A_PROJECTILE",
+    "R45-3-ENHANCEMENT_CEILING",
+    "R45-4-TWO_DIALS",
+    "R45-5-PAID_PER_SHOT_AND_FINDABLE"
+   ],
+   "why_not_asked": "Ruled 2026-09; the figures come from the Shot and the Enhanced Weapon page."
+  },
+  {
+   "point": "Hardware to 1900, enhanced shot standard for elite companies, the three ammunition tiers, item Tiers and armour's Tier as its proof.",
+   "rule_ids": [
+    "R53-03-FIREARM_CEILING",
+    "R53-04-ENHANCED_SHOT",
+    "R11-3-AMMO_TIERS",
+    "R20C-22-AMMUNITION_TIERS_RATIFIED",
+    "R46-1-ITEM_TIER_LOWER_OF_TWO",
+    "R46-3-ARMOUR_TIER_IS_ITS_PROOF"
+   ],
+   "why_not_asked": "Live law; how the ammunition tiers sit on the item ladder belongs to the items group."
+  },
+  {
+   "point": "Sea actions: sight, motion, sound, smell; motion fights like drink; no rout; fire and water are the deaths.",
+   "rule_ids": [
+    "R3-8-NAVAL_SENSORY_HIERARCHY",
+    "R3-8-NAVAL_SIGHT_HELPLESSNESS",
+    "R3-8-NAVAL_MOTION_CHANNEL",
+    "R3-8-NAVAL_NO_ROUT",
+    "R3-8-NAVAL_FIRE_WATER_DEATHS"
+   ],
+   "why_not_asked": "Live; FT15 asks only whether rivers share it."
+  },
+  {
+   "point": "Siege: the Line Register by default, three Close Register breaks, disease as the antagonist, the parley as the scene.",
+   "rule_ids": [
+    "R3-8-SIEGE_LINE_REGISTER_DEFAULT",
+    "R3-8-SIEGE_CLOSE_REGISTER_RESERVED",
+    "R3-8-SIEGE_TEDIUM_BY_SPECIFICITY",
+    "R3-8-SIEGE_DISEASE_ANTAGONIST",
+    "R3-8-SIEGE_PARLEY_IS_SCENE"
+   ],
+   "why_not_asked": "Live; FT11 asks only where a ward's failure sits."
+  },
+  {
+   "point": "Cavalry: the rider carries the Field Register, the horse has opinions, the charge is decided at distance, pursuit is butchery written as work.",
+   "rule_ids": [
+    "R3-8-CAVALRY_FIELD_REGISTER_POV",
+    "R3-8-CAVALRY_HORSE_CHARACTER",
+    "R3-8-CAVALRY_CHARGE_TIMING",
+    "R3-8-CAVALRY_PURSUIT_FUNCTION"
+   ],
+   "why_not_asked": "Live law."
+  },
+  {
+   "point": "A practitioner's POV is closed during a battle and open before and after, with the costed-out exception spent once.",
+   "rule_ids": [
+    "R3-9-PRACTITIONER_POV_RULING",
+    "R3-9-BEFORE_AFTER_DURING",
+    "R3-9-COSTED_OUT_EXCEPTION"
+   ],
+   "why_not_asked": "Live; FT9 asks how artillery-use shows around it."
+  },
+  {
+   "point": "Battles cut between hill and ditch at marked breaks (CB7), may run a marked roll call (VO2), and a crowd's chorus stays within hearing (MY5).",
+   "rule_ids": [
+    "R70-106-BATTLE_TOLD",
+    "R70-11-WIDE_VIEW",
+    "R70-72-WATCHING_CROWD_POWER_REVEAL"
+   ],
+   "why_not_asked": "Decided 2026-10-03."
+  },
+  {
+   "point": "Workings against formations carry Frontage, Sustain and Re-form; a Domain breaks a line and the rout does the killing; no technique holds ground; speed is Essence.",
+   "rule_ids": [
+    "R1-2-THREE_FIELDS_MANDATORY",
+    "R2-6-DOMAINS_BREAK_NOT_KILL",
+    "R2-6-CURRENCY_RULE",
+    "R2-6-SPEED_RULING"
+   ],
+   "why_not_asked": "Live law."
+  },
+  {
+   "point": "Well-spawn exist and breed at Wells; the tournament arc and the Well delve are licensed arc shapes.",
+   "rule_ids": [
+    "R53-06-WELL_SPAWN",
+    "R70-18-ARC_SHAPES"
+   ],
+   "why_not_asked": "Live; FT4, FT6 and FT7 ask how the fights inside them read."
+  },
+  {
+   "point": "Lethality for ordinary fighters, real healing times, the hard reserve clock, permanent death.",
+   "rule_ids": [
+    "R60-01-BRUTAL_LETHALITY",
+    "R60-02-REAL_HEALING_TIMES",
+    "R60-03-HARD_RESERVE_CLOCK",
+    "R60-04-DEATH_IS_PERMANENT"
+   ],
+   "why_not_asked": "Answered 2026-09-26."
+  },
+  {
+   "point": "The style law's combat rows: moves named in the POV's school (CB1), the declaration with a price (CB2), duel shape by grammar (CB3), one flashback (CB4), rivals spared for a price (CB5), rites by culture (CB6), the held instant (DD6), Western leads combat (K3).",
+   "rule_ids": [
+    "R70-100-MARTIAL_VOCABULARY_NAMES_MOVES",
+    "R70-101-DECLARING_NAME_LINE_BEFORE",
+    "R70-102-STILLNESS_TRACED_PASSES_LONG",
+    "R70-103-MEMORY_INSIDE_FIGHT",
+    "R70-104-RIVAL_BOND",
+    "R70-105-JOINS_WOUND_WHEN_FIGHT",
+    "R70-57-DESCRIPTION_INSIDE_FIGHT",
+    "R70-3-STRAND_LEADS_LAYER"
+   ],
+   "why_not_asked": "Decided 2026-10-03; FT18 asks only what R70-102 left open."
+  },
+  {
+   "point": "Magic and numbers in a fight: Pressure through the room first, one display beat per practitioner, rules planted before the fight, readouts at appraisal, wound and Essence spent, Grades at the read with no running figures, body then number, breakthrough in the crisis (MY1 to MY9, LR8, LR11, LR12, LR23).",
+   "rule_ids": [
+    "R70-69-PRESSURE_AURA",
+    "R70-73-MANY_DISPLAY_BEATS_PER",
+    "R70-71-EXPLAINING_WORKING_MID_FIGHT",
+    "R70-85-SCENE_MOMENTS_THAT_EARN",
+    "R70-88-NUMBERS_INSIDE_FIGHT",
+    "R70-89-BODY_FIRST_NUMBER_FIRST",
+    "R70-91-BREAKTHROUGH_PAGE"
+   ],
+   "why_not_asked": "Decided 2026-10-03; FT7 and FT13 ask only what an appraisal prints for a beast or a beastkin."
+  },
+  {
+   "point": "Fair play: surprises foreshadowed, never rigged, NPCs veteran-clever, death if earned, and Isaac's PC and the other creators' characters never thought, voiced or acted for.",
+   "rule_ids": [
+    "R48-30-SURPRISES",
+    "R57-10-NEVER_RIGGED",
+    "R48-36-NPC_WITS",
+    "R48-31-STAKES",
+    "R49-01-WHOSE_HEAD",
+    "R1-1-RESTRICTED_CHARACTERS_EXCLUDED"
+   ],
+   "why_not_asked": "Live law; every option above is written inside it."
+  },
+  {
+   "point": "A public reversal of an arrogant scion at a bout opens a Front or a Ledger debt.",
+   "rule_ids": [
+    "R70-112-FACE_FACE_SLAP"
+   ],
+   "why_not_asked": "Decided 2026-10-03 (DL6)."
+  }
+ ]
+}

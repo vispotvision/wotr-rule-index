@@ -1,0 +1,945 @@
+{
+ "sections": [
+  {
+   "key": "AL",
+   "title": "Alchemy on the page and in the world",
+   "intro": "How alchemy reaches the page and the field: the bench, the alchemist's voice, Drafts (workings set into a substance you drink, smear or throw) in a fight, explosives, medicine, forensics, money and the made dead. The alchemy conversion's 131 answers (R61) set the doctrine, so these ask only how it shows.",
+   "questions": [
+    {
+     "id": "AL1",
+     "title": "Bench work on the page",
+     "question": "When a scene makes a Draft, how much of the bench procedure goes on the page, and in what form?",
+     "context": "R70-46 asks for 'tool, material and steps in order' in at least one stretch of any craft; R70-75 sets a rite apart as a numbered Guild form, then performs it with a departure. Alchemetrica gives every Draft its sequence, the Twelve Turnings (its named steps, from the Reading through the Rot and the Feeding to the Mark). No row says whether bench work takes the rite's form.",
+     "options": [
+      {
+       "key": "A",
+       "label": "One stretch, the floor",
+       "consequence": "R70-46's floor only: one stretch of process per bench scene and the finished Draft looked at; the rest passes in a line. verify_scene changes nothing, and bench scenes stay short.",
+       "sample": "Wenna Thorley set the flask in the cradle and laid its shoulder against the grounded rod. The rupture-quartz inside was packed to the neck, grey and fine as flour. She held it there. A thread of sound rose under the glass, then a hum in her back teeth, climbing, and when the climbing stopped she took the flask away. The hum held. She struck the End seal into the wax with the brass die and chalked the hour on the cork. Good work had a look to it: the wax flat and unbubbled, the glass quiet against her palm."
+      },
+      {
+       "key": "B",
+       "label": "Every step, in order",
+       "consequence": "The whole sequence runs as prose whenever a Draft is made on the page, with no set-apart form. Bench scenes grow long, and a reader could repeat the charging from the text.",
+       "sample": "Wenna Thorley dried the cradle with a rag and checked the rod's ground strap at the floor plate. The flask went upright into the cradle, its shoulder against the rod where the glass thickened, the rupture-quartz packed to the neck. She held it to the rod until the hum came, kept it there while the hum climbed, and drew it away the moment the note held level. The rod came off clean. She struck the End seal into the wax with the brass die. The wax dulled as it set. She chalked the hour on the cork."
+      },
+      {
+       "key": "C",
+       "label": "Guild form, then performed",
+       "consequence": "The scene's main brew appears first as the house's numbered form, set apart (R70-75 extended to the bench), then is performed, and something departs from it. Minor bench work keeps A's single stretch.",
+       "sample": "*Form of Charging. Thundercrack Grenade. Reserved to Expert hands.*\n*I. The rod is set to ground. II. The flask is held to the rod until the hum holds. III. The End seal is struck. IV. The hour is written on the cork.*\nWenna Thorley did the first three as the form had them, the hum climbing in her back teeth and levelling. At the fourth her chalk was gone from the tray. She wrote the hour in lamp soot with a wet thumb, which the form did not allow, and which would smear in the first pocket it went into."
+      }
+     ],
+     "recommended": "C",
+     "rec_reason": "You chose the numbered rite yesterday (R70-75); the form plants a Draft's rules before the fight that spends it (R70-71), and the departure gives a bench scene its drama, here a smeared hour on a flask that goes off by itself an hour past charging.",
+     "multi": false,
+     "depends_on": [],
+     "rules_touched": [
+      "R70-46-CRAFT_LABOUR_PAGE",
+      "R70-75-RITE_PAGE",
+      "R12-6-RITUAL_SPECIFICATION",
+      "R51-33-DOC_REGISTER",
+      "R70-71-EXPLAINING_WORKING_MID_FIGHT"
+     ]
+    },
+    {
+     "id": "AL2",
+     "title": "Heat at the Draw Age bench",
+     "question": "What heats an alchemist's bench in a Guild city of the Draw Age?",
+     "context": "Alchemetrica heats benches with charcoal in the Long Furnace (a brick furnace fed by gravity) and holds the Rot in the Bed (fermenting dung), which every replacement has done worse than. R59-01 has draw-fed engines replace coal and steam; R53-02 leaves small fires to a city's poor edge. No row says what heats a rich house's still. Thermometers (C-137) stay on the docket.",
+     "options": [
+      {
+       "key": "A",
+       "label": "Old fire everywhere",
+       "consequence": "Alchemetrica stands as written: charcoal, the Long Furnace and the Bed in every house, rich or poor, and the main lights the room and nothing else. A Guild-city workshop smells of charcoal like a village one.",
+       "sample": "The Draft-house stood on Assay Row in Urbis, where every shopfront hummed, and its back room smelled of charcoal anyway. Tobin Garr knelt at the Long Furnace and listened for the settle as the fuel dropped down the tower. The sand bath above it had to stay below a simmer. He held his palm over it, drew the hand back sooner than he liked, and nodded. Above him the Essence lamps burned without a flicker over a bench where nothing else ran on the main."
+      },
+      {
+       "key": "B",
+       "label": "Draw heat in Guild cities",
+       "consequence": "Every Guild-city house runs its baths, stills and furnaces off trade supply, priced on the bill (R53-17); the Bed stays for the Rot; charcoal holds only in the provinces and the north.",
+       "sample": "The Draft-house on Assay Row in Urbis ran its stills off the trade main, and the meter by the door ticked over whenever Tobin Garr opened a valve. He turned the sand bath's array down a mark and listened to the hum beneath it drop a note. Behind him, against the outer wall, the Bed steamed in its brick crib, the vessels buried to the shoulder in fermenting dung. The house had tried a draw-warmed cabinet for the Rot once. The ledger still carried the loss."
+      },
+      {
+       "key": "C",
+       "label": "Fuel by purse",
+       "consequence": "Heat follows money: houses on trade supply heat from the main and pay the meter, poor houses burn charcoal and dung (R53-02), the north burns charcoal, and a bench's fire names its owner's class. The Bed stays everywhere.",
+       "sample": "Two streets apart in Urbis, the same operation ran on two fires. At the chartered house on Assay Row, Tobin Garr eased a valve and the sand bath warmed off the trade main, the meter ticking by the door. In the lane behind the tannery, Widow Pell fed charcoal to a clay furnace with a bent spoon and wiped the soot off her lids. Both houses kept a Bed against the back wall, steaming. Pell's batch would sell for less. Her customers knew the smell of it."
+      }
+     ],
+     "recommended": "C",
+     "rec_reason": "R53-02 already puts a city's poor edge on small fires, so heat by purse is the law read straight; R59-05's gradient keeps the provinces and the north on charcoal, and the fire under a still becomes a class tell, money before magic.",
+     "multi": false,
+     "depends_on": [],
+     "rules_touched": [
+      "R59-01-ESSENCE_ENGINES",
+      "R53-02-POOR_FIRES",
+      "R59-05-STEEP_REGIONAL_GRADIENT",
+      "R53-17-THE_BILL"
+     ]
+    },
+    {
+     "id": "AL3",
+     "title": "The alchemist's voice",
+     "question": "Which habits go on the alchemists' trade menu, so each alchemist's card takes one or two and no two sound alike?",
+     "context": "R48-41 has characters talk magic 'by their training'; R61-91 writes Draftcraft (the craft of the pour and the vessel) 'in price, vessel, seal and ledger'. The Fleshshapers' idiom (R24-1) is anatomy 'applied to everything'. Voice discipline has been a menu since Pack Fifteen (R15-4), and a card that took every habit would sound like every other alchemist. Tick each that should stand.",
+     "options": [
+      {
+       "key": "A",
+       "label": "Reads the body first",
+       "consequence": "On the menu: notices mouths, hands, sclera and tremor before faces, and reads a dose, a career or a lie in them. A card that takes it gains a 'reads first' line in its voice block.",
+       "sample": "The sergeant asked whether the Bone-Grey would keep past six hours. Ilse Varrow answered his mouth first, in her head. His gums were swollen. He swallowed more often than a man with nothing on his mind ought to: the spit of somebody being dosed with calomel past what his gut needed. A regimental surgeon who liked his quicksilver. 'Six hours, then it takes what the wound needed,' she said. 'And tell your surgeon to stop purging you.'"
+      },
+      {
+       "key": "B",
+       "label": "Price, vessel, seal, ledger",
+       "consequence": "On the menu: weighs a thing by its cost, its vessel, whose mark closes it and where it is entered, pricing before praising. Extends R61-91 from the two texts to any alchemist who takes it.",
+       "sample": "The sergeant asked whether the Bone-Grey would keep past six hours. Ilse Varrow turned the packet over first and found the Legion's stamp on the wax, a quartermaster's lot at six-tenths of a silver mark. 'Whose lot is this, and when was it entered?' she said. 'Six hours on the wound, Sergeant. After that it takes what the wound needed, and the ledger won't care which.'"
+      },
+      {
+       "key": "C",
+       "label": "Bench words for everything",
+       "consequence": "On the menu: the operations as all-purpose idiom (a plan still in the Rot, a recruit fed too fast), the Fleshshaper model (R24-1) applied to the trade, a few logged per card.",
+       "sample": "The sergeant asked whether the Bone-Grey would keep past six hours. 'It keeps,' Ilse Varrow said. 'It just stops being on your side. Four hours it draws, and after that it's a Feeding gone too fast, and a thing fed too fast finishes the nearest version of itself.' She pushed the packet across. 'Your wound's still in the Rot. Leave it black. Don't open it to look.'"
+      },
+      {
+       "key": "D",
+       "label": "Quiet at the work",
+       "consequence": "On the menu: talk rationed near a working, the fewest words, a count kept under the breath at the Feeding. Alchemetrica already makes the room quiet; this makes it a person's voice.",
+       "sample": "The sergeant asked whether the Bone-Grey would keep past six hours. Ilse Varrow held up a finger without turning from the Returner, her lips moving on a count. He waited. The count went on. Behind her the Long Furnace ticked as the charcoal settled. When the count was done she sealed the feed port and looked round at him over her spectacles. 'Six,' she said, and went back to the glass."
+      }
+     ],
+     "recommended": "A,B,C",
+     "rec_reason": "Reading bodies gives you the Kakashi-style read, price and ledger keep money before magic, and bench idiom makes the trade audible; quiet at the work is already the room's law in Alchemetrica, so it adds a scene fact rather than a voice.",
+     "multi": true,
+     "depends_on": [],
+     "rules_touched": [
+      "R48-41-MAGIC_TALK",
+      "R61-91-MUJIN_AND_MALPHAS_DRAFTCRAFT",
+      "R24-1-FLESHSHAPER_IDIOM_AND_MARKERS",
+      "R12-4-VOICE_DISCIPLINE",
+      "R15-4-TWELVE_VOICE_DISCIPLINE_SOFTENED"
+     ]
+    },
+    {
+     "id": "AL4",
+     "title": "Prepared or live in a fight",
+     "question": "When an alchemist fights, how much of the alchemy may be made during the fight itself?",
+     "context": "Canon's Turnings take hours to days (the Burning alone runs four hours to three days), and Geturo's arena run, the archive's one full alchemical fight, made its vials weeks before. Volume III lets chalk over dressed stone serve as Draft ground (ground inscribed for one working) if the hand means it. R70-71 plants a working's rules before the fight; R61-100 keeps Drafts reserve-free.",
+     "options": [
+      {
+       "key": "A",
+       "label": "Made before, ground live",
+       "consequence": "Canon read straight: every Draft left a bench before the fight; mid-fight the alchemist spends the bandolier or lays Draft ground, costing turns with hands busy and eyes down. A bench scene plants each vial.",
+       "sample": "Ansel Brack had filled the bandolier in Urbis by lamplight, days before, against a man he had only read about. Half the loops were empty now. The practitioner across the yard had answered the first throws with heat, so Brack had spent the Null-Salt on the array the man stood in, and the air between them had gone still and ordinary. He touched the next loop. Ashfang, for the blade. After that there was the chalk in his coat, and the flagstones, and whatever he could think of to say."
+      },
+      {
+       "key": "B",
+       "label": "Mixing behind cover",
+       "consequence": "As A, plus quick field work (a prepared binder fed into a prepared stock) out of measure or behind cover, costing whole turns and the formula's own failure risk. Fights gain a scramble for cover.",
+       "sample": "Half the loops were empty. Brack went down behind the water butt, where the heat could not find him, and thumbed the stoppers off two half-flasks kept apart for exactly this. He fed the binder into the stock a thumb-width at a time, because a Feeding done in a hurry finished the nearest version of itself. The man's boots came round the yard toward the butt. Brack kept feeding. The mix clouded and cleared, and he came up throwing."
+      },
+      {
+       "key": "C",
+       "label": "Live bench anywhere",
+       "consequence": "Stocks may be mixed, charged or fed mid-exchange, priced in turns and in the formula's failure risk. The alchemist fights as a workshop on legs, and fights run longer.",
+       "sample": "Half the loops were empty. Brack thumbed the stopper off a vial of base stock and fed the last of the binder into it, swirling, his eyes on the man across the yard instead of on the glass. The man came on. The mix clouded, then cleared, or nearly. A Feeding done in a hurry finished the nearest version of itself, and he had done this one in a hurry. He threw it anyway, because there was no time left to find out which version he had made."
+      }
+     ],
+     "recommended": "A",
+     "rec_reason": "Canon's own clocks make a mid-fight brew impossible, so the alchemist wins where Geturo did, at the bench beforehand; the planted bench scene keeps the read fair (R70-71), and the live chalk circle is already canon, priced in turns an opponent can punish.",
+     "multi": false,
+     "depends_on": [],
+     "rules_touched": [
+      "R70-71-EXPLAINING_WORKING_MID_FIGHT",
+      "R61-100-ALCHEMY_PAID_BY_STOCK_AND_VEIN",
+      "R47-11-TIME_AND_ENERGY"
+     ]
+    },
+    {
+     "id": "AL5",
+     "title": "A Draft in the six-second turn",
+     "question": "How long does using a Draft take inside a fight's six-second turn, and what does it open?",
+     "context": "R47-11 makes a combat turn six seconds. Canon gives no use time for any Draft: Aperture Wound Ichor must go on inside the first minute, and Active Recovery needs the fighter to stop. Inside roughly twenty feet the fencing grammar takes over (R11-5). This sets the alchemist's version of the reload, and what it opens inside measure (the distance where one step and a blow can land).",
+     "options": [
+      {
+       "key": "A",
+       "label": "A drink costs the turn",
+       "consequence": "Drinking or smearing takes a whole turn and opens the drinker inside measure; throwing or smashing is one action within an exchange. The hand going to the bandolier becomes a readable tell.",
+       "sample": "Maera Cole backed out of measure, or tried to. The Shirogane blade followed her, patient. She thumbed the cork off the Equilibrium Draught with her off hand, and it took the whole of a turn to get the glass to her mouth, swallow, and get the hand back to the hilt. He used every part of that turn. The cut came in under her raised elbow. She took it along the ribs, with the Draught already damping the panic that should have answered it."
+      },
+      {
+       "key": "B",
+       "label": "Never inside measure",
+       "consequence": "No Draft is drunk or applied inside measure; use happens before contact or after a break of measure. The alchemist must win distance first, and the Combat Craft Guide gains the line.",
+       "sample": "Maera Cole wanted the Equilibrium Draught and could not have it. The Shirogane blade was a pace off, inside the distance where a hand leaving the hilt was a hand lost. She gave ground instead, step after step, until the pillar stood between them and the bind was broken. Only then did her off hand find the bandolier. She drank with her eyes on the pillar's edge, and her fear went flat and far away."
+      },
+      {
+       "key": "C",
+       "label": "Fast as the hand",
+       "consequence": "Use takes the moment a hand takes, folded into the exchange with no stated turn cost; the price lies only in the Draft's own effect and failure.",
+       "sample": "Maera Cole thumbed the cork off the Equilibrium Draught between his second cut and his third and had it down in a swallow, the glass gone over her shoulder before it could break. The Shirogane blade came on. Her fear had gone flat and far away. The next parry came easy, almost lazy, and later the surgeon would ask her why she had not felt the cut along her ribs until the fight was over."
+      }
+     ],
+     "recommended": "A",
+     "rec_reason": "Real hands need seconds to uncork and swallow, so the reload's logic carries over; the reach for the vial becomes a tell the opponent can read and punish, which keeps Drafts fair and counterable.",
+     "multi": false,
+     "depends_on": [],
+     "rules_touched": [
+      "R47-11-TIME_AND_ENERGY",
+      "R11-5-COMBAT_GUIDE_RANGE_OPENING",
+      "R13-4-COMBAT_FLOOR"
+     ]
+    },
+    {
+     "id": "AL6",
+     "title": "Who carries it onto a field",
+     "question": "Who carries combat Drafts onto a field, and how common are they?",
+     "context": "The Standing Index gates every lot by a named rank, from Household (no gate) to Paragon, and files the Thundercrack Grenade as Expert work. Canon issues Bone-Grey Compress to the Legion and burns Will-Break at the line. Drafts cost no reserve (R61-100), so where enhanced shot cannot 'equip an army' (R46-4), only gates and money limit them. Nothing sets how often a field sees alchemy.",
+     "options": [
+      {
+       "key": "A",
+       "label": "Specialists only",
+       "consequence": "Combat Drafts belong to alchemists and sappers with bandoliers; the line carries Bone-Grey and nothing more. A thrown charge on a field is an event, and a reader can count the alchemists.",
+       "sample": "The line stood easy in the frost while the quartermaster's cart went down it. Every man got a Bone-Grey packet and nothing else, slipped into the pouch behind the cartridge box. The sappers had their own cart. A handful of men in stained coats, bandoliers crossed on their chests, stood apart the way men stand apart from a thing that might go off. The line watched them the way it watched the sky."
+      },
+      {
+       "key": "B",
+       "label": "Issue by gate",
+       "consequence": "Drafts reach a field by their rank gate: low-gate lots to the line, Adept munitions to drilled details, Expert charges only to Expert hands. The gate becomes the field's ration logic.",
+       "sample": "The quartermaster's cart went down the line in the frost. Every man got a Bone-Grey packet, and the corporals got Ward-Chalk as well, for the camp tonight. Behind the line a detail knelt by an iron brazier with Will-Break cakes stacked beside it, waiting on the wind. The Thundercrack flasks never came down the line at all. They hung humming on the bandolier of the one woman in the company certified to carry them."
+      },
+      {
+       "key": "C",
+       "label": "Gates, bought by purse",
+       "consequence": "As B, and a company's purse decides how many certified hands it retains, at the price table's retainers (forty gold a month and up for an Adept), so rich companies field far more alchemy.",
+       "sample": "The Guard company's cart went down the line with more on it than the levy's ever had. Bone-Grey for every man, and behind the line a row of certified hands on retainer, Adept and Expert, their bandoliers humming. The least of them drew forty gold marks a month. The men in front of them drew fifteen silver and their keep, less stoppages. Across the frost the levy had a single sapper, and he was drunk."
+      }
+     ],
+     "recommended": "C",
+     "rec_reason": "It keeps the Index's gates as the ration and adds money before magic: the retainer table decides how many certified hands a company can field, so the alchemy on a field tells a reader who paid for the war.",
+     "multi": false,
+     "depends_on": [],
+     "rules_touched": [
+      "R61-100-ALCHEMY_PAID_BY_STOCK_AND_VEIN",
+      "R46-4-ITEM_COSTS",
+      "R53-04-ENHANCED_SHOT",
+      "R53-07-PRICE_TABLE",
+      "R70-48-MONEY_PRICE_PROVENANCE"
+     ]
+    },
+    {
+     "id": "AL7",
+     "title": "The formula's own failure",
+     "question": "Every combat formula in the Alchemical Index can fail onto its own user; how often does the handling that guards against it show on the page?",
+     "context": "The Index's design rule: Ashfang lights on the wielder's own nick first, a Thundercrack carried an hour past charging goes off by itself, Obsidian Fang numbs the poisoner's bare fingers. When a scene meets a failure's condition it fires, since fights are never rigged (R57-10) and opponents may induce failures (R47-9). Open is how visible the guarding is.",
+     "options": [
+      {
+       "key": "A",
+       "label": "Every use shows it",
+       "consequence": "The precaution each formula demands (the gloved off hand, the chalked hour, the edge kept wide of the body) shows at every use, a standing tell a reading opponent can exploit. The counter stays on the page.",
+       "sample": "Two passes in, Haro Venn had it. The Accord duellist tucked his elbow both times and carried his edge wide of his body like a lamp through a draughty room, and the off hand stayed gloved to the wrist and well clear. A coated edge, then, and one that cared whose blood it found. Venn stopped working for the sword arm. On the third pass he took the bind and turned the man's own flat back toward that careful forearm."
+      },
+      {
+       "key": "B",
+       "label": "First display, then assumed",
+       "consequence": "The precaution shows at the formula's first display (R70-73) and in the bench scene that plants it, then is taken as read unless it slips. Fights run lighter, and the tell is findable once.",
+       "sample": "Before the first pass the Accord duellist pulled a glove onto his off hand, slowly, so the hall could see, and carried the coated edge wide of his body. After that he fought like any man with a sword. Haro Venn forgot the glove by the third pass. So did the gallery. The edge came in fast, and where it touched Venn's forearm the cut sealed itself black and smoking, and went on burning under the seal."
+      },
+      {
+       "key": "C",
+       "label": "Notes only",
+       "consequence": "Failure modes stay in the formula's entry and the author notes unless the scene turns on one; the page shows the Draft working. Fights run cleaner, and the reader cannot find the counter from the page.",
+       "sample": "The Accord duellist's blade came in fast, and where it touched Haro Venn's forearm the cut sealed itself black and smoking, and the pain under the seal kept burning after the blade had gone. Venn gave ground. The coating was good work. He would read about it later in the surgeon's ledger, and learn there what it cost the man who carried it."
+      }
+     ],
+     "recommended": "A",
+     "rec_reason": "You want fair abilities with findable counters: shown at every use, the guard is the tell an opponent reads in two or three exchanges (Table Rule 6), and the formula's cost stays visible without scheduling any alchemist's death.",
+     "multi": false,
+     "depends_on": [],
+     "rules_touched": [
+      "R47-9-INHERITED_FAILURES",
+      "R47-3-COUNTERS_AS_FACTS",
+      "R57-10-NEVER_RIGGED",
+      "R12-3-COUNTER_MANDATORY",
+      "R70-73-MANY_DISPLAY_BEATS_PER"
+     ]
+    },
+    {
+     "id": "AL8",
+     "title": "Poison and the duel",
+     "question": "Is a poisoned or coated edge lawful and honourable in a duel, and who decides?",
+     "context": "R70-101 gives a duel a full declaration with a price; R70-105 keys killing rites to culture; R53-11 borrows each culture's real justice, and R70-45 makes law an Inventory field. The Apparatus page says the Accord classes offensive Drafts as munitions. No row says whether a coated edge must be declared, or what it costs a fighter's name.",
+     "options": [
+      {
+       "key": "A",
+       "label": "Declared, or it's murder",
+       "consequence": "A coated edge must be named in the declaration (R70-101); used undeclared, the killing is murder in every culture. One law everywhere, and the declaration gains a line.",
+       "sample": "Haro Venn gave his name, his house and his teacher's name, as the hall required. Then he laid the blade flat across both palms so the second could see the dull sheen along the edge. 'Slag-Iron,' he said. 'A cut from this seals as it lies. Your surgeon will have to open it again.' The hall went quiet. His opponent nodded once. The steward wrote it into the book beside the date, in a careful clerk's hand that took its time."
+      },
+      {
+       "key": "B",
+       "label": "By culture, on the Inventory",
+       "consequence": "Each Standing Inventory gains a line on coated weapons and poison, taken from the culture's real analogue; the Accord's munitions class is the first entry. An Accord duel and a Moto duel may differ.",
+       "sample": "Haro Venn gave his name and his house. The Accord steward never asked about the sheen on the edge. He asked for the stamp. Under hall rules a coated blade counted as munitions, lawful with a Bench entry and nothing more, so Venn produced the slip and waited while the steward checked its mark against the register and wrote 'Slag-Iron, entered' beside the date. Nobody in the gallery thought the less of him. Other halls kept other laws."
+      },
+      {
+       "key": "C",
+       "label": "Lawful everywhere",
+       "consequence": "A coating is equipment like the edge itself; no culture stigmatises it, and only the dead man's kin and the ordinary law of killing apply. Alchemy becomes plain duelling kit.",
+       "sample": "Haro Venn gave his name and his house and drew. The sheen along his edge drew no comment from the steward or the gallery; many of the blades in that hall carried something. His opponent glanced at it once, the way a man glances at another man's guard, and took his measure a hand's width longer than he had meant to."
+      }
+     ],
+     "recommended": "B",
+     "rec_reason": "Law is already an Inventory field (R70-45) and the Accord's munitions class is canon; a culture-keyed answer gives duels the texture rites have under R70-105, and an undeclared coating can still be murder wherever a culture says so.",
+     "multi": false,
+     "depends_on": [],
+     "rules_touched": [
+      "R70-101-DECLARING_NAME_LINE_BEFORE",
+      "R70-105-JOINS_WOUND_WHEN_FIGHT",
+      "R53-11-JUSTICE",
+      "R70-45-NEW_STANDING_INVENTORY_FIELDS"
+     ]
+    },
+    {
+     "id": "AL9",
+     "title": "A Draft's readout",
+     "question": "What readout does a Draft carry, and does it earn a line when it is used?",
+     "context": "R70-95 gives an item one set-off card at purchase or appraisal. A Draft's marks differ: the Index's rank gate, Provenance Class (where its Essence came from), Fidelity (closeness to the reference lot), Carry (how much of the source came with it), and the Drafts ladder's rung (the energy one dose holds). R70-85 earns in-scene readouts only at appraisal, a wound and Essence spent.",
+     "options": [
+      {
+       "key": "A",
+       "label": "Card once, body at use",
+       "consequence": "R70-95's card carries the Draft's own marks (gate, rung, Class, Fidelity, Carry, maker, price, lore) once, at purchase or appraisal. At use only the body shows, plus a surgeon's inline wound line if a wound earns one.",
+       "sample": "Sergeant Holm paid the sutler and turned the brown bottle to the lamp.\n[CUTWATER TINCTURE · Household, no gate · rung Tincture · Class III · Fidelity C · Carry 8 · Brannock's lot · 0.15 silver mark · Cleans a wound, closes small vessels, knits nothing. Spoils; the label does not say when.]\nIn the ditch he poured it into the cut along his forearm. It foamed white and stung like a slap, and the weeping at the edges stopped. The cut stayed as wide as before."
+      },
+      {
+       "key": "B",
+       "label": "Card plus a dose line",
+       "consequence": "As A, plus one inline line at every use (what went in, the onset, what it will do), counted in R70-86's three. This reopens R70-85 by adding a fourth moment.",
+       "sample": "Sergeant Holm paid the sutler for the brown bottle.\n[CUTWATER TINCTURE · Household, no gate · rung Tincture · Class III · Fidelity C · Carry 8 · 0.15 silver mark]\nIn the ditch he poured it into the cut along his forearm. It foamed white and stung like a slap. He swore. The orderly beside him said it the way the manual printed it: open wound, small vessels closing, no tissue knit, onset at once. The weeping at the edges stopped. The cut itself stayed as wide as before."
+      },
+      {
+       "key": "C",
+       "label": "Assay tape, no card",
+       "consequence": "No card at purchase; buyers see a label. When a lot is assayed, the coil prints its marks inline in the instrument's own type (R70-77), and nothing prints at use. Narrows R70-95 for Drafts.",
+       "sample": "The depot quartermaster ran the sutler's Cutwater through the assay coil after the third man's cut went bad, and the tape came out of the slot in the Bench's narrow type: CUTWATER · CLASS III · FIDELITY C · LOT SPOILED. The bottles carried a lamp-black label and nothing else. Sergeant Holm's was one of them. The quartermaster tore the tape off, folded it into his cuff, and went to find the sutler."
+      }
+     ],
+     "recommended": "A",
+     "rec_reason": "It fits the card you already chose to the marks the Index and the ladder actually print, and R70-85's wound line already covers what a Draft does to a body, so no new readout moment is needed and the three-a-scene cap stays honest.",
+     "multi": false,
+     "depends_on": [],
+     "rules_touched": [
+      "R70-95-ITEM_CARDS",
+      "R70-85-SCENE_MOMENTS_THAT_EARN",
+      "R70-86-MANY_READOUTS_SCENE_CARRIES",
+      "R70-80-READOUT_SITS_PAGE",
+      "R70-77-INSTRUMENT_CAN_SHOW"
+     ]
+    },
+    {
+     "id": "AL10",
+     "title": "Medicine by place and purse",
+     "question": "Which medicine treats a wound on the page: period practice, alchemical Drafts, or both sorted by place and purse?",
+     "context": "R53-10 gives Guild cities 'what their decade has' (anaesthesia, antisepsis) and the north and the poor 'folk medicine and the barber'. The Index prices Bone-Grey Compress at six-tenths of a silver mark; the price table puts a surgeon at five to forty gold an operation. R60-02 keeps real healing times. Nothing sets where Drafts sit beside carbolic and chloroform.",
+     "options": [
+      {
+       "key": "A",
+       "label": "Drafts first",
+       "consequence": "In Guild cities the physician-alchemist's Drafts lead and the period surgeon is the poor man's; a wound scene names its Drafts and their clocks. Alchemy displaces Victorian surgery.",
+       "sample": "The physician-alchemist cut the trouser leg away and packed the wound with Bone-Grey before she said a word. He screamed once. 'Four hours,' she told the orderly. 'Then it comes out, whatever it looks like. Past six it starts taking what the wound needs.' She chalked the hour on the man's boot. Nobody on that ward had used a bone saw in years. The saws hung in the barber's window down the street, for people who could not pay for grey paste."
+      },
+      {
+       "key": "B",
+       "label": "Surgeon first, Drafts cheap",
+       "consequence": "Those who can pay buy the surgeon's carbolic, chloroform and silk, and physicians distrust Drafts for their clocks and spoilage; cheap Drafts are the soldier's and the poor man's medicine. Class inverts the alchemy.",
+       "sample": "The surgeon washed the thigh wound with carbolic until the man screamed, then had the orderly hold the chloroform cloth over his face until he stopped. Silk and a curved needle drew the edges together in a neat ladder of knots. The fee had been five gold marks, quoted before the knife. Down the road the Legion's orderlies packed the same wounds with grey paste from a sack, and the surgeon, who had buried his share of the one in nine who forgot the clock, called that soldier's luck."
+      },
+      {
+       "key": "C",
+       "label": "Both, by place and purse",
+       "consequence": "The surgeon uses Drafts beside carbolic and chloroform for those who pay; the Legion gets Bone-Grey by issue; the north and the poor get the barber and Cutwater. Every wound scene names which.",
+       "sample": "In the Legion's tent the orderly packed the thigh wound with Bone-Grey and chalked the hour on the man's boot, because the Legion issued grey paste by the sack. In Urbis the same wound would have bought chloroform, carbolic, the surgeon's own Bone-Grey and a fee of five gold marks at the least. On the road north it would have bought a barber for a few copper, a bottle of Cutwater of uncertain age, and whatever the barber happened to know."
+      }
+     ],
+     "recommended": "C",
+     "rec_reason": "It is R53-10 and the price table made exact, money before magic in the infirmary: the same wound costs three different things in three places, with real history under each.",
+     "multi": false,
+     "depends_on": [],
+     "rules_touched": [
+      "R53-10-MEDICINE",
+      "R60-02-REAL_HEALING_TIMES",
+      "R53-07-PRICE_TABLE",
+      "R70-48-MONEY_PRICE_PROVENANCE"
+     ]
+    },
+    {
+     "id": "AL11",
+     "title": "Proving a poison",
+     "question": "Can a poisoning be proved in the Draw Age, and by what test?",
+     "context": "No WOTR canon names a poison test or antidote (The Real Alchemy, Tests and antidotes). The coil reads Essence residue, so a worked poison leaves a signature and plain white arsenic leaves none. Inside the span sit Marsh's test (1836: arsenic driven off as gas and burned onto cold porcelain as a black mirror), Reinsch's copper foil (1841) and fresh iron rust as antidote (1834).",
+     "options": [
+      {
+       "key": "A",
+       "label": "Real tests, by place",
+       "consequence": "The mirror test, the copper test and the iron antidote come into WOTR where R59-05's gradient puts them: Guild cities have them, the north does not. The coil still reads worked poisons.",
+       "sample": "The assize chemist ran the stomach washings into the flask with zinc and acid and lit the gas at the jet, standing well back, because the gas itself had killed better chemists. He held a cold porcelain dish in the flame. A dark spot bloomed on the white, silver-black and shining. It spread. 'There's your arsenic,' he said. He slid the dish across to be signed. Upstairs, the cook who had tasted the soup was drinking a brown slurry of fresh iron rust."
+      },
+      {
+       "key": "B",
+       "label": "Coil only",
+       "consequence": "No plain poison test exists; only worked poisons leave a signature the coil reads. White arsenic becomes the perfect murder, and the Night Watch knows it: a gap a poisoner can plan around.",
+       "sample": "The coil-carrier ran her coil over the dead merchant from crown to heel. The needle never stirred. Whatever had killed him had carried no working, so she wrote 'no residue' on the filing and underlined it, because that was all a filing could hold. Downstairs the widow signed for the body. Everyone in the house knew about the white powder in the kitchen. Nobody could prove it was anything but rat poison, bought for rats."
+      },
+      {
+       "key": "C",
+       "label": "Folk tests that lie",
+       "consequence": "No real test: folk tests stand in, half right. A silver spoon blackens in crude arsenic (sulphur in the ore) and stays bright in refined. Juries convict on them; R53-15 leaves them uncorrected.",
+       "sample": "The constable stirred the dead merchant's soup with the silver spoon and held it to the lamp. It came out as bright as the day it was polished. 'Clean,' he said, and wrote it down, and the widow let out her breath. In the kitchen cupboard behind them, beside the salt, sat a paper of white powder with an Accord refinery's stamp on the fold, bought, the cook said later, for the rats."
+      }
+     ],
+     "recommended": "A",
+     "rec_reason": "Real physics with findable counters: a careful reader can catch a poisoner, the north's lack of the test is the gradient doing grimdark work, and the silver spoon can live on there as an uncorrected folk belief.",
+     "multi": false,
+     "depends_on": [],
+     "rules_touched": [
+      "R53-10-MEDICINE",
+      "R53-15-FOLK_BELIEFS",
+      "R59-05-STEEP_REGIONAL_GRADIENT",
+      "R61-104-REAL_ALCHEMY_PAGE_WRITTEN",
+      "R18-5-ALCHEMY_SOURCE_ORDER"
+     ]
+    },
+    {
+     "id": "AL12",
+     "title": "A forensic reading on the page",
+     "question": "How does a residue reading, the Night Watch's forensic work, go on the page?",
+     "context": "The Necrocursica's protocol: never alone, one reader inside the radius and one outside, the gauge (which reads density) read aloud at every stand beside the coil (which reads a field), and 'the contradiction is the diagnosis'. R61-112 has the investigator log readings at scenes; R48-16 lets anyone with an instrument state figures. R70-86 caps readouts at three a scene; figures in a mouth sit outside it.",
+     "options": [
+      {
+       "key": "A",
+       "label": "Protocol as action",
+       "consequence": "The pair, the stands and the withdrawal play as action, and figures enter in a mouth, read aloud at every stand, outside R70-86's cap. The contradiction between the instruments is the scene's turn.",
+       "sample": "Farrant stood at the gate at the foot of the stair and read the gauge up the well to Dessa Mael, three flights above her. 'Tenth division. Twenty-one.' The needle crept while she held it. 'Twenty-one and climbing.' She carried the coil a stand along and read both again, and again the two would not agree, in the same direction as before. Her left hand had begun to warm. Above her the old archivist kept her count aloud, steady and unhurried."
+      },
+      {
+       "key": "B",
+       "label": "Field-book lines set in",
+       "consequence": "The investigator's log entries are set into the scene in her book's house style (R70-67's loose notebook) and the prose runs between them. The figures stay on paper; the body stays in the prose.",
+       "sample": "*Gauge, foot of the stair, tenth division: twenty-one. Climbing as I held it.*\nFarrant wrote it against the wall with the stub of her pencil, carried the coil a stand along, and wrote again.\n*Coil and gauge disagree. Same direction as the last stand.*\nHer left hand had warmed. That went in the margin, small, where Halveth would find it and ask. Three flights up, Dessa Mael kept her count aloud."
+      },
+      {
+       "key": "C",
+       "label": "Finding only",
+       "consequence": "The reading passes in a line and the finding is the beat; procedure and figures go to the author notes. Forensic scenes run short and land on what was found.",
+       "sample": "Farrant read the stair gate with coil and gauge, stand by stand, and the two disagreed the same way every time: something below the town was being drawn off, and in quantity. That was the finding, and it went into the file in one line. She came back to herself on the bottom step with metal and sugar at the back of her throat, and Dessa Mael calling her title down the well."
+      }
+     ],
+     "recommended": "A",
+     "rec_reason": "Figures read aloud are LitRPG crunch that costs nothing against the readout cap, the pair protocol is canon with tension built in, and a Searcher whose Crystal never woke, voicing what only her instruments and one warm hand tell her, makes a fair, findable read.",
+     "multi": false,
+     "depends_on": [],
+     "rules_touched": [
+      "R61-62-PAPERS_AUTHOR_NIGHT_WATCH",
+      "R61-112-AUTHORS_STATE_INSTRUMENT_FIGURES",
+      "R48-16-REAL_FIGURES",
+      "R70-86-MANY_READOUTS_SCENE_CARRIES",
+      "R70-67-FORMS_WORLD_DOCUMENTS"
+     ]
+    },
+    {
+     "id": "AL13",
+     "title": "Corruption shown on the body",
+     "question": "When an alchemist's Great Work (his own walk through the seven stages) turns corrupt, which signs reach the page?",
+     "context": "The Heresiology lists signs in the body (metallic sweat, ash under the nails matching no reagent, nosebleeds when a concealment succeeds, a cold patch over the heart) and in the work (vessels that crack under one operator, sigils that correct themselves darker). R61-85 makes each corruption a broken vow, a Shear Break, with a findable counter; R48-30 wants surprises foreshadowed. Tick each that should show.",
+     "options": [
+      {
+       "key": "A",
+       "label": "Signs in the body",
+       "consequence": "The Heresiology's bodily signs become standing tells, planted before any reveal, so a reader can catch a corrupt master before the plot names him. One sign a scene at most, across A to C.",
+       "sample": "Pim had luted joints for Master Corvane for years and knew his hands better than his face. Lately they sweated at the bench, a fine grey sweat that smelled of a coin held too long in a fist. There was ash under his nails that matched nothing in the rack. Pim checked the rack twice. He told himself the master had been at the calcination bench, and luted the next joint, and did not ask."
+      },
+      {
+       "key": "B",
+       "label": "Signs in the work",
+       "consequence": "The bench betrays him first: vessels crack under his hands alone, inscriptions darken on their own, residue gathers in shapes. The workshop shows the corruption before the man does.",
+       "sample": "Pim had luted joints for Master Corvane for years and had never seen a vessel lost at the Wedding. This month the Returners had cracked on the master's bench and nowhere else in the house. The glyph ring round the newest one had been chalked pale that morning. By evening it had darkened, line by line, to the colour of an old bruise, and nobody had touched it."
+      },
+      {
+       "key": "C",
+       "label": "Signs in technique",
+       "consequence": "A corrupted practitioner's workings run their corrupted versions (the Open Crucible's model, where Honest Fire strips structure it finds inconvenient), so the tell lives in how he works and fights.",
+       "sample": "Master Corvane put his hand on the cracked lintel to steady the stair, and the working he had always used for that held the stone where it lay. This time it did more. The carved leaves on the lintel smoothed away under his palm while Pim stood below with the lamp, the ornament gone back to plain dressed stone, as though Corvane had judged the carving unnecessary. The stair held. Corvane went on up without looking at what he had done."
+      },
+      {
+       "key": "D",
+       "label": "The break as an event",
+       "consequence": "When the vow finally fails, the Shear Break is written as its own event, the fall shown whole in the body and the work, so the slow signs pay off on the page.",
+       "sample": "Master Corvane had sworn on his circle's seal never to render from the living. The night he did it, Pim was luting by the wall. The master set the stock in the vessel and something in him gave, audibly, a crack like a joint going in cold weather. He sat down on the floor of his own workshop with his hands open and could not remember the formula he had written himself."
+      }
+     ],
+     "recommended": "A,B,C,D",
+     "rec_reason": "Slow tells in body, bench and technique are the Bleach-style late reveal done fairly, every sign planted before it is named and capped at one a scene so the fall lands as recognition, and the Shear Break written whole is the payoff those tells promise.",
+     "multi": true,
+     "depends_on": [],
+     "rules_touched": [
+      "R61-85-BROKEN_VOW_SIGNS_CORRUPTION",
+      "R61-83-CORRUPTIONS_BY_NAME_NOT_NUMBER",
+      "R48-30-SURPRISES"
+     ]
+    },
+    {
+     "id": "AL14",
+     "title": "Accidents and fumes",
+     "question": "When a lute fails and Strongwater fume fills a closed room, which clock kills on the page?",
+     "context": "Alchemetrica: the fume in a closed workshop 'kills everybody in it in the order they were standing nearest'. Strongwater is nitric acid, and The Real Alchemy reads that order as dose: the red-brown fume spares the throat, and after a free interval of three to thirty hours the lungs fill with fluid. Men walk out of the room and drown in their beds.",
+     "options": [
+      {
+       "key": "A",
+       "label": "In the room, at once",
+       "consequence": "Alchemetrica read literally: the closed room kills in order of nearness while the fume is in it, and whoever gets out lives. Accidents are fast, and the door is the whole counter.",
+       "sample": "The lute round the receiver's neck cracked with a sound like a dry twig, and red-brown fume came out of the crack in a thin ribbon and spread. Hask, at the receiver, breathed it first. He went down on the flags with his sleeve over his mouth. The second Hand went down beside the bench. The boy who carried ash got the latch up and fell out into the yard, and lived, and could never afterward say how."
+      },
+      {
+       "key": "B",
+       "label": "The late drowning",
+       "consequence": "The Real Alchemy's reading: the room doses in order of nearness and the dying comes hours later, after the men have walked out. A surgeon's wound line can name it (R70-85); the grief arrives by morning.",
+       "sample": "The lute round the receiver's neck cracked with a sound like a dry twig, and red-brown fume came out of the crack in a thin ribbon and spread. Hask, at the receiver, breathed it first. He coughed and made for the door with his sleeve over his mouth, and the rest went after him. Out in the yard they laughed about it, eyes streaming. By midnight Hask was drowning in his cot with no water anywhere near him."
+      },
+      {
+       "key": "C",
+       "label": "Late drowning, and rest",
+       "consequence": "As B, plus a findable counter: men kept lying still and watched through the night fare better than men who walk home, as real toxicology keeps such patients at rest. A knowing hand's orders save some.",
+       "sample": "The lute round the receiver's neck cracked like a dry twig, and red-brown fume ribboned out and spread. Hask breathed it first. Out in the yard, coughing and laughing, the Hands made to go home, and the old master put himself in the gate. 'Lie down, all of you. Flat, and nobody walks till morning.' Hask laughed at him and walked home anyway. By midnight he was drowning in his cot. The boy who carried ash lay on the cold flags all night, furious, and lived."
+      }
+     ],
+     "recommended": "C",
+     "rec_reason": "It is The Real Alchemy's own reading of the canon line, so the physics is real and the horror lands late, and the rest order gives a knowing character a fair counter that a careless one throws away: grimdark cost with a findable answer.",
+     "multi": false,
+     "depends_on": [],
+     "rules_touched": [
+      "R18-5-ALCHEMY_SOURCE_ORDER",
+      "R49-46-CHEMISTRY",
+      "R12-6-RITUAL_SPECIFICATION",
+      "R70-85-SCENE_MOMENTS_THAT_EARN",
+      "R47-3-COUNTERS_AS_FACTS"
+     ]
+    },
+    {
+     "id": "AL15",
+     "title": "The trade's paper in a scene",
+     "question": "Which parts of the trade's money and paper show whenever alchemy changes hands or gets used?",
+     "context": "R70-48 names every sum from the approved table and lets notable objects carry lineage; R11-3 makes proof-marks (the dent a proofing charge leaves) standing texture; Draycott's registered mark (R65-3) is struck on everything he makes; R61-111 puts an unentered sale's breach on the seller. The Standing Index prices lots in silver marks. Tick what should stand.",
+     "options": [
+      {
+       "key": "A",
+       "label": "Price counted at use",
+       "consequence": "Beyond R70-48's price at purchase, a fighter or worker counts what a Draft cost when he spends it, in his own money, the sum taken from the table or the Index. Money before magic, in the hand.",
+       "sample": "Jory Fenn paid for two Deadlight Phials at the counter, a silver mark and a tenth apiece, and counted the coins out twice, because miners carried two and the second one was the dear one. On the ninth day down the shaft the first phial shattered in his palm the way they did at the end, with no dimming to warn him. He lifted the second from his belt and thought, sourly, that he was walking into the dark holding more than a labourer's day of wages."
+      },
+      {
+       "key": "B",
+       "label": "The mark checked",
+       "consequence": "Every lawful vessel carries its maker's registered mark, and anyone handling one looks at it the way a soldier reads a proof-dent (R11-3). The mark becomes standing texture and a trail.",
+       "sample": "Jory Fenn turned each Deadlight Phial over before he paid. The wax on the stopper carried the house's mark, a lamp inside a ring, struck clean and deep. A shallow strike meant a tired hand or a copied die, and a copied die meant a phial that might die halfway down a shaft. He paid a silver mark and a tenth apiece. The clerk watched him check, and approved of it."
+      },
+      {
+       "key": "C",
+       "label": "Provenance as plot",
+       "consequence": "Lots can be forged, adulterated, stale or unentered, and a scene may turn on a bad lot; the forgery is always findable by mark, assay or the Index's own failure. A fair counter and a plot engine.",
+       "sample": "The phial shattered in Jory Fenn's hand a day into the shaft, when it should have burned for two hundred hours. The black closed in. He stood in it with the dust on his glove and did the arithmetic, slowly, the way a man does a sum he already knows the answer to. The mark on the wax had been struck shallow. He had seen that at the counter. He ran a thumb along his belt to the second phial and found the same shallow strike. Somewhere above him, a forger was eating well."
+      }
+     ],
+     "recommended": "A,B,C",
+     "rec_reason": "All three are money before magic made concrete: the cost felt at use, the mark read like a proof-dent, and the bad lot as a fair, findable twist that a careful buyer could have caught.",
+     "multi": true,
+     "depends_on": [],
+     "rules_touched": [
+      "R70-48-MONEY_PRICE_PROVENANCE",
+      "R53-07-PRICE_TABLE",
+      "R11-3-PROOF_MARKS_CANON",
+      "R65-3-DRAYCOTT_REGISTERED_MARK",
+      "R61-111-PARACELSUS_SOLD_UNENTERED_FORMULA"
+     ]
+    },
+    {
+     "id": "AL16",
+     "title": "A Draft against a working",
+     "question": "When a thrown Draft meets a ranked practitioner, what decides whether it touches him?",
+     "context": "R45-3 caps an enhanced weapon at 'the Grade of whoever put the Essence into it'; R55-7 makes four named harmonic workings miss anyone at the caster's Stage or higher. Part Eleven answers plain force with Durability (body, Aether Shell, Domain) and counts Wellspring-typed damage apart. Nothing says which a thrown Draft answers to; C-142 (a pure alchemist's cap) stays on the docket.",
+     "options": [
+      {
+       "key": "A",
+       "label": "Two parts, two answers",
+       "consequence": "A Draft splits: its plain physics (blast, heat, acid, smoke) meets Durability like any force, while its worked part answers its maker's ceiling and fails against anyone above it. Both stay traceable (R13-8).",
+       "sample": "The Thundercrack burst on the flagstones at the Tenrai man's feet. The arc leapt for him and slid off, finding nothing it was allowed to take from a man so far above the woman who had charged it. The air took no notice of rank. The arc channel slammed outward in a thunderclap and struck him the way it struck the doorframe behind him, and he staggered with blood starting at one ear and his Shell humming from the blow."
+      },
+      {
+       "key": "B",
+       "label": "Capped at the maker",
+       "consequence": "The whole Draft is a working at its maker's ceiling; a target above that takes nothing from it, blast included, as R55-7 does for its four workings. Alchemy never troubles the ranked.",
+       "sample": "The Thundercrack burst on the flagstones at the Tenrai man's feet, and everything in it had come from the hands of a woman far below him. The arc and the thunderclap broke over him together, and he stood in them with his coat stirring, untouched, while behind him the doorframe split and the clerk who had been hiding there fell down holding both ears."
+      },
+      {
+       "key": "C",
+       "label": "Plain force, no cap",
+       "consequence": "A Draft is chemistry and charge: it lands in full on anyone in range, rank aside, and only Durability answers it. Alchemy becomes the great leveller, and the ranked fear vials.",
+       "sample": "The Thundercrack burst on the flagstones at the Tenrai man's feet, and the arc went into him through the soles of his boots, up the long bones of his legs and out at his knees. The thunderclap followed it. He went down on the stones with his legs jerking and blood at both ears, a man who had never in his life been hurt by anything that came out of a bottle."
+      }
+     ],
+     "recommended": "A",
+     "rec_reason": "Part Eleven already counts plain force apart from Wellspring-typed damage, so a blast stays a blast while the worked part never outranks its maker; a vial stays a real threat to the ranked through its physics, and both counters are findable.",
+     "multi": false,
+     "depends_on": [],
+     "rules_touched": [
+      "R45-3-ENHANCEMENT_CEILING",
+      "R61-102-BENCH_TIERS_CAP_ALCHEMISTS",
+      "R55-7-HARMONIC_IMMUNITY_BY_STAGE",
+      "R13-8-RECONSTRUCTIBLE_ADJUDICATION"
+     ]
+    },
+    {
+     "id": "AL17",
+     "title": "A revenant in a fight",
+     "question": "When a revenant (a stalled Crossing) is met in a fight, what stops it?",
+     "context": "R61-77: a revenant is a body spending its Crossing (the nine days a dead Crystal takes to come apart) on ground where the Wellspring cannot take the residue, with habits, a direction and nothing that weighs them. It fades when diffusion completes; moving it or Stillgate Ash ends it. Canon is silent on wounds, and the combat floor (R13-4) asks for injury by structure.",
+     "options": [
+      {
+       "key": "A",
+       "label": "Levers still rule",
+       "consequence": "A body on habit: anatomy stops the motion (a cut hamstring drops it) while the habit keeps trying; only ash, removal or the ninth day ends it. The floor applies by structure, with no blood-loss class.",
+       "sample": "The dead pikeman got up late in his nine days and walked toward the line he had held, his left foot dragging where the ground had frozen it overnight. Corporal Ness let him come and swung the billhook low behind his knee. The hamstring parted like a wet rope and the leg folded. The pikeman went down on his face and kept on walking, his hands dragging him forward through the frost toward a line that was not there any more."
+      },
+      {
+       "key": "B",
+       "label": "Only the counter ends it",
+       "consequence": "Wounds do nothing, since the body no longer needs its levers; only Stillgate Ash, moving it off the ground or diffusion ends a revenant. Fights against one are containment, never exchanges.",
+       "sample": "The dead pikeman got up late in his nine days and walked toward the line he had held. Corporal Ness swung the billhook into the back of his knee and the hamstring parted, and the pikeman walked on the leg as though it were whole. Ness backed off. 'Ash,' he said. 'Get the ash.' Men from the detail ran for the cart while the dead man went on walking, toward a line that was not there any more."
+      },
+      {
+       "key": "C",
+       "label": "Never a fight",
+       "consequence": "Revenants are containment and aftermath work only, met by burial details with ash and carts; no exchange with one is ever written. They stay horror and logistics.",
+       "sample": "The burial detail found the dead pikeman far from where they had left him, face down in the frost, still facing the line he had held. Ness ringed him with Stillgate Ash from the cart and stood back while the body went quiet, and then for a while after that, because the ash took from the living too. His fingers had gone numb to the wrist. They loaded the pikeman and moved on to the next."
+      }
+     ],
+     "recommended": "A",
+     "rec_reason": "Real biomechanics keeps the fight readable and fair: injury by structure still works, the habit gives the read, and the canon counters still finish it, so a revenant becomes a Naruto-style puzzle with a clinical edge.",
+     "multi": false,
+     "depends_on": [],
+     "rules_touched": [
+      "R61-77-REVENANT_IS_STALLED_CROSSING",
+      "R69-4-TRIA_PRIMA_FOR_THE_DEAD",
+      "R13-4-COMBAT_FLOOR",
+      "R48-34-WOUNDS"
+     ]
+    },
+    {
+     "id": "AL18",
+     "title": "The impression-body's voice",
+     "question": "How does the page render an impression-body, the likeness of the dead an alchemist pours and seals?",
+     "context": "R61-75 makes it a Greater Summons (the highest summoning tier) with the maker's own Core as its identity ('he summons himself'), reaching the dead's Volitional Trace (the decision he was holding); it ends at once when that decision is delivered. R61-110 lets a trained reader find a Trace with no Crystal behind it; the mourner cannot. Its Gravetide Ink drinks lamplight.",
+     "options": [
+      {
+       "key": "A",
+       "label": "Seamless to the mourner",
+       "consequence": "The likeness is written exactly as the living man, through the mourner's eyes; only the room (the dim lamp, the ink) hints. The horror is what the reader knows and she does not.",
+       "sample": "Odile Marrow sat with her husband by the lamp, and he talked about the mill as he always had, the price of oats, the wheel that wanted new paddles. He rubbed his thumb along the table's edge the way he did when a sum would not come right. The lamp burned low at the rim of the circle on the floor, and its flame leaned toward the ink there and gave it nothing. She topped up the oil. The light stayed as it was."
+      },
+      {
+       "key": "B",
+       "label": "A seam the reader catches",
+       "consequence": "As A, plus one planted habit of the maker leaks through the likeness, findable by an attentive reader before any trained reader names it: the maker's Core as identity, made visible.",
+       "sample": "Odile Marrow sat with her husband by the lamp, and he talked about the mill as he always had, the price of oats, the wheel that wanted new paddles. Then he said the paddles wanted feeding in by degrees, never all at once, and folded his hands on the table. Tam had never folded his hands in his life. She looked at them a long while. The lamp leaned toward the ink on the floor and gave it nothing, and she said nothing either."
+      },
+      {
+       "key": "C",
+       "label": "A thing, plainly",
+       "consequence": "Narration never grants the likeness the dead man's name or an inner life: it is the likeness throughout, rendered from outside as a made thing. Cold, clinical and certain.",
+       "sample": "Odile Marrow sat across the table from the likeness by the lamp. It spoke in Tam's voice about the mill, the price of oats, the wheel that wanted new paddles. It rubbed its thumb along the table's edge. The vessel had been graded and sealed, and the seal would close on the decision it was holding whenever it found the words for it. The lamp leaned toward the ink on the floor and gave it nothing."
+      }
+     ],
+     "recommended": "B",
+     "rec_reason": "The maker's Core as identity is canon, so his habit leaking through is a fair, findable tell planted before any reveal (R48-30); it keeps the mourner's grief whole while the reader starts to doubt.",
+     "multi": false,
+     "depends_on": [],
+     "rules_touched": [
+      "R61-75-IMPRESSION_BODY_GREATER_SUMMONS",
+      "R61-110-IMPRESSION_BODY_TELLS_COUNTERS",
+      "R48-30-SURPRISES"
+     ]
+    },
+    {
+     "id": "AL19",
+     "title": "Explosives beside the Index",
+     "question": "Where do the span's real explosives and incendiaries (fulminate caps, guncotton, dynamite, phosphorus fire) stand beside the Index's Drafts?",
+     "context": "R53-03 puts smokeless powder in the span, so real explosive chemistry exists; The Real Alchemy finds no bench counterpart for fulminates (the shock-sensitive salt in a percussion cap) or nitroglycerin (the oil in dynamite). On the Apparatus page the Accord classes offensive Drafts as munitions, and alchemists call them applied chemistry. Nothing says whether plain explosives need a Bench entry or stay with the state.",
+     "options": [
+      {
+       "key": "A",
+       "label": "Plain chemistry, powder law",
+       "consequence": "They exist as plain chemistry with no Essence and no rank gate, licensed under ordinary powder law. The coil reads nothing in them, and a quarryman's stick of dynamite holds about what a Thundercrack does.",
+       "sample": "The powder magazine stood alone at the quarry's far edge, banked with earth on three sides, and the magistrate's licence hung inside its door under glass. Foreman Abel Tusk signed the book for six sticks and a tin of caps. Nobody asked his Tier. The keeper passed a coil over the box out of habit and the needle lay dead, as it always did over dynamite, because nothing in it had ever been worked. Tusk carried the sticks out in a canvas bag, walking carefully."
+      },
+      {
+       "key": "B",
+       "label": "On the Index as munitions",
+       "consequence": "The Accord files every explosive and incendiary on the Index as munitions with a rank gate, Essence or none; a quarry's dynamite needs a certified hand, the same as a Thundercrack.",
+       "sample": "The powder magazine stood alone at the quarry's far edge, and the Bench's entry hung inside its door under glass: munitions, Journeyman gate. Foreman Abel Tusk could not sign for the sticks, because he held no Tier. He sent for the certified hand the quarry kept on fifteen gold a month, and stood about in the cold until she came up the track, signed the book in her neat Guild hand, and carried the box out herself."
+      },
+      {
+       "key": "C",
+       "label": "Rare and state-held",
+       "consequence": "High explosives exist but stay rare and state-owned like early machine guns (R53-03): sappers and crown engineers only. Quarries and the street keep black powder, and the Thundercrack fills every other niche.",
+       "sample": "The quarry had black powder and nothing stronger. Dynamite belonged to the crown's sappers, and the nearest crate of it sat under guard in the citadel magazine, entered by the stick. So Foreman Abel Tusk bored his holes deeper and tamped them harder, and lost a day to the rock that the sappers would have lost in an hour. The face came down at dusk in a long grey cough of smoke."
+      }
+     ],
+     "recommended": "A",
+     "rec_reason": "It honours R53-01 and R53-03 as written and keeps money before magic, chemistry cheap and workings dear as the Apparatus page says of shot; it also gives forensics a real gap, since chemistry is caught only by chemistry (AL11), never by the coil.",
+     "multi": false,
+     "depends_on": [],
+     "rules_touched": [
+      "R53-01-IMPERIAL_AGE_SPAN",
+      "R53-03-FIREARM_CEILING",
+      "R18-5-ALCHEMY_SOURCE_ORDER",
+      "R70-48-MONEY_PRICE_PROVENANCE"
+     ]
+    }
+   ]
+  }
+ ],
+ "settled": [
+  {
+   "point": "No Draft refills a reserve; a reserve refills from a Wellspring, and 'alchemical treatment' only speeds that recovery",
+   "rule_ids": [
+    "R2-6-REPLENISHMENT_RULE",
+    "R61-101-NO_DRAFT_REFILLS_RESERVE"
+   ],
+   "why_not_asked": "Ruled twice (EC2 of the alchemy conversion restates R2-6). AL5 asks only how long using a Draft takes, never whether one refuels."
+  },
+  {
+   "point": "What pays for alchemy: Drafts from stock and the site's vein; a Crystal-bearer's standing work costs a once-only share of reserve",
+   "rule_ids": [
+    "R61-100-ALCHEMY_PAID_BY_STOCK_AND_VEIN"
+   ],
+   "why_not_asked": "EC1. AL4 builds on it: a Draft in a fight spends stock, never the thrower's reserve."
+  },
+  {
+   "point": "Pure alchemists are bench-certified up to Expert, and that Tier caps their work",
+   "rule_ids": [
+    "R61-102-BENCH_TIERS_CAP_ALCHEMISTS"
+   ],
+   "why_not_asked": "EC3. AL16 names the maker's ceiling without choosing between Grade and bench Tier; that tension (C-142) is the docket's."
+  },
+  {
+   "point": "The dose is the point; the one who measures carries crucible palsy and Draft-mark",
+   "rule_ids": [
+    "R61-105-PARACELSUS_DOSE_AND_PALSY"
+   ],
+   "why_not_asked": "EC6. AL3 and AL13 use the marks as tells without re-asking them."
+  },
+  {
+   "point": "Calcination and Distillation are bench operations; Sublimatio is sublimation and Sublimare distillation",
+   "rule_ids": [
+    "R61-6-CALCINATION_DISTILLATION_BENCH_ONLY",
+    "R61-5-SUBLIMATIO_IS_SUBLIMATION",
+    "R18-5-ALCHEMY_DOCTRINE_BINDING"
+   ],
+   "why_not_asked": "K5 and K6 of the alchemy conversion."
+  },
+  {
+   "point": "Three alchemy sources in a fixed order, The Real Alchemy written as the third",
+   "rule_ids": [
+    "R18-5-ALCHEMY_SOURCE_ORDER",
+    "R61-104-REAL_ALCHEMY_PAGE_WRITTEN"
+   ],
+   "why_not_asked": "Method law. AL11 would add a forensic section to The Real Alchemy, not change the order."
+  },
+  {
+   "point": "Residues on two clocks: four inside the Crossing's nine days, three after; a Trace is used once and reading spends the record",
+   "rule_ids": [
+    "R61-7-RESIDUES_ON_TWO_CLOCKS",
+    "R69-3-RESIDUES_TWO_CLOCKS",
+    "R61-108-MORTALIS_FULL_COST_STACK",
+    "R61-70-ANAMNESIS_READS_NOT_STORES"
+   ],
+   "why_not_asked": "Alchemy conversion K7, DE1 and EC9. AL12 asks only how a reading reaches the page."
+  },
+  {
+   "point": "A revenant is a stalled Crossing; moving the body or Stillgate Ash is the counter",
+   "rule_ids": [
+    "R61-77-REVENANT_IS_STALLED_CROSSING",
+    "R69-4-TRIA_PRIMA_FOR_THE_DEAD"
+   ],
+   "why_not_asked": "DE6. AL17 asks only what a wound does to one."
+  },
+  {
+   "point": "The impression-body: a Greater Summons, its vessel a graded Draft, a Trace-without-Crystal tell and Stillgate Ash as counter",
+   "rule_ids": [
+    "R61-75-IMPRESSION_BODY_GREATER_SUMMONS",
+    "R61-76-IMPRESSION_VESSEL_GRADED_DRAFT",
+    "R61-110-IMPRESSION_BODY_TELLS_COUNTERS"
+   ],
+   "why_not_asked": "DE4, DE5 and EC11. AL18 asks only how the page renders it; its two Stage floors (C-154) are the docket's."
+  },
+  {
+   "point": "Mortalis Categories: Stage floors, the full cost stack, field-format entries and Bench reservation by Tier",
+   "rule_ids": [
+    "R61-109-MORTALIS_CATEGORY_STAGE_FLOORS",
+    "R61-108-MORTALIS_FULL_COST_STACK",
+    "R61-107-MORTALIS_CATEGORIES_FIELD_ENTRIES",
+    "R61-106-CLEARANCE_BY_TIER_NOT_LEVEL",
+    "R69-5-MORTALIS_CATEGORIES_FLOORS"
+   ],
+   "why_not_asked": "EC7 to EC10."
+  },
+  {
+   "point": "The Great Work's stages and currents, the Tria Prima as Crystal layers, corruptions cited by name, every corruption with a named counter",
+   "rule_ids": [
+    "R61-67-GREAT_WORK_STAGE_WELLSPRINGS",
+    "R61-79-GREAT_WORK_DOUBLE_SEVEN",
+    "R61-82-TRIA_PRIMA_ARE_CRYSTAL_LAYERS",
+    "R61-83-CORRUPTIONS_BY_NAME_NOT_NUMBER",
+    "R61-85-BROKEN_VOW_SIGNS_CORRUPTION"
+   ],
+   "why_not_asked": "GW1 to GW7. AL13 asks only which signs reach the page."
+  },
+  {
+   "point": "Draftcraft is written in price, vessel, seal and ledger; each author states figures as his instruments give them",
+   "rule_ids": [
+    "R61-91-MUJIN_AND_MALPHAS_DRAFTCRAFT",
+    "R61-112-AUTHORS_STATE_INSTRUMENT_FIGURES"
+   ],
+   "why_not_asked": "GL4 and EC13. AL3 asks whether the habit spreads to every alchemist."
+  },
+  {
+   "point": "An unentered formula is lawful to hold and unlawful to sell; the breach sits with the seller",
+   "rule_ids": [
+    "R61-111-PARACELSUS_SOLD_UNENTERED_FORMULA"
+   ],
+   "why_not_asked": "EC12. AL15 uses it as a plot engine without re-asking it."
+  },
+  {
+   "point": "Enhancement ceilings and item costs: an enhanced round costs its maker a share of reserve and performs no higher than his Grade; enhanced shot is standard for elites",
+   "rule_ids": [
+    "R45-3-ENHANCEMENT_CEILING",
+    "R46-4-ITEM_COSTS",
+    "R53-04-ENHANCED_SHOT"
+   ],
+   "why_not_asked": "Item and shot law; AL16 asks only how a thrown Draft sits beside it."
+  },
+  {
+   "point": "Craft shown as process with the finished work looked at; a rite set apart as a numbered form",
+   "rule_ids": [
+    "R70-46-CRAFT_LABOUR_PAGE",
+    "R70-75-RITE_PAGE",
+    "R12-6-RITUAL_SPECIFICATION"
+   ],
+   "why_not_asked": "Style law of 2026-10-03. AL1 asks only whether bench work takes the rite's form."
+  },
+  {
+   "point": "Prices on the page come from the approved price table, named whenever money moves",
+   "rule_ids": [
+    "R53-07-PRICE_TABLE",
+    "R58-05-SWEARS_AND_SENSE_BANKS_APPROVED",
+    "R70-48-MONEY_PRICE_PROVENANCE"
+   ],
+   "why_not_asked": "Approved and extended. Alchemical lots quote the Standing Index; the Alchemical Index's formulas carry no prices and none is invented here."
+  },
+  {
+   "point": "Readouts: one item card, in-scene readouts at appraisal, wound and Essence spent, three a scene, Grades at the read with no running figures in a fight, body before number, inline by default, clinical voice, printing instruments",
+   "rule_ids": [
+    "R70-95-ITEM_CARDS",
+    "R70-85-SCENE_MOMENTS_THAT_EARN",
+    "R70-86-MANY_READOUTS_SCENE_CARRIES",
+    "R70-88-NUMBERS_INSIDE_FIGHT",
+    "R70-89-BODY_FIRST_NUMBER_FIRST",
+    "R70-80-READOUT_SITS_PAGE",
+    "R70-81-VOICE_READOUT",
+    "R70-77-INSTRUMENT_CAN_SHOW"
+   ],
+   "why_not_asked": "LR17, LR8, LR9, LR11, LR12, LR3, LR4 and LR1. AL9 asks only how a Draft fits them."
+  },
+  {
+   "point": "Medicine is era-appropriate by place; healing runs on real timelines and mending costs more than breaking",
+   "rule_ids": [
+    "R53-10-MEDICINE",
+    "R60-02-REAL_HEALING_TIMES",
+    "R47-11-TIME_AND_ENERGY"
+   ],
+   "why_not_asked": "Live law. AL10 asks only where Drafts sit inside it."
+  },
+  {
+   "point": "Trained POVs read the world in science terms; narration names apparatus and workings exactly",
+   "rule_ids": [
+    "R49-46-CHEMISTRY",
+    "R70-28-TRADE_SCIENCE_WORDS",
+    "R48-09-TECH_WORDS"
+   ],
+   "why_not_asked": "Settled by the writing law and VB5; AL14's chemistry rides on it."
+  },
+  {
+   "point": "Money before magic and commerce on the page: the bill, the meter, branded Essence goods",
+   "rule_ids": [
+    "R53-17-THE_BILL",
+    "R60-07-COMMERCE_ON_THE_PAGE"
+   ],
+   "why_not_asked": "Live law. AL2, AL6 and AL15 build on it."
+  },
+  {
+   "point": "The Night Watch Society is the crown-chartered investigator of illegal workings; the Papers' Searcher is one of its officers",
+   "rule_ids": [
+    "R60-26-NIGHT_WATCH_SOCIETY",
+    "R61-62-PAPERS_AUTHOR_NIGHT_WATCH"
+   ],
+   "why_not_asked": "Canon institutions. AL11 and AL12 use them."
+  },
+  {
+   "point": "A formula's failure fires whenever a scene meets its condition: fights are never rigged, and opponents may induce a working's documented failures",
+   "rule_ids": [
+    "R57-10-NEVER_RIGGED",
+    "R47-9-INHERITED_FAILURES",
+    "R47-3-COUNTERS_AS_FACTS"
+   ],
+   "why_not_asked": "Live law. AL7 asks only how visible the guarding against a failure is."
+  },
+  {
+   "point": "A working's rules are shown before the fight that spends them",
+   "rule_ids": [
+    "R70-71-EXPLAINING_WORKING_MID_FIGHT"
+   ],
+   "why_not_asked": "MY4. AL1 and AL4 lean on it."
+  },
+  {
+   "point": "The Draft Sub-Stat profile (which Sub-Stats govern making a Draft)",
+   "rule_ids": [
+    "R61-103-DRAFT_SUB_STAT_PROFILE"
+   ],
+   "why_not_asked": "EC4, filed for ratification through propose_rule; a design matter, not a page one."
+  },
+  {
+   "point": "Open alchemy doctrine conflicts C-136 to C-154 (a Crystal at manufacture, thermometers, the decisive Crystal layer, the pure alchemist's cap, Rupture's three senses, Draft Corruption's cause, 'turn' in two senses, bench durations, the impression-body's two floors)",
+   "rule_ids": [],
+   "why_not_asked": "Recorded doctrine conflicts are ruled on the docket under the wotr-conflict precedence ladder (CLAUDE.md, 2026-09-25); only conflicts that decide how a fight reads are put to you here (C-159 in MC3, C-124 in MC15). AL2 steps round C-137, AL16 round C-142 and AL18 round C-154."
+  },
+  {
+   "point": "Firearms to 1900 hardware, smokeless powder included, and the whole Imperial Age's technology across its span; electricity never discovered",
+   "rule_ids": [
+    "R53-03-FIREARM_CEILING",
+    "R53-01-IMPERIAL_AGE_SPAN",
+    "R59-02-NO_ELECTRICITY"
+   ],
+   "why_not_asked": "Era law. AL19 asks only where explosives sit beside the Index; every substance it names falls before 1900, inside both readings of C-158. The Thundercrack is charged against a grounded rod, never a dynamo."
+  },
+  {
+   "point": "The style law's combat rows that the alchemy questions lean on: the duel declaration with a price, killing rites by culture, one display beat per practitioner",
+   "rule_ids": [
+    "R70-101-DECLARING_NAME_LINE_BEFORE",
+    "R70-105-JOINS_WOUND_WHEN_FIGHT",
+    "R70-73-MANY_DISPLAY_BEATS_PER"
+   ],
+   "why_not_asked": "CB2, CB6 and MY6. AL7 and AL8 build on them without re-asking."
+  }
+ ]
+}

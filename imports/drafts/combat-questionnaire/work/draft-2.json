@@ -1,0 +1,1008 @@
+{
+ "sections": [
+  {
+   "key": "MC",
+   "title": "Magical combat",
+   "intro": "How a working takes time in a fight, how the reserve runs down on the page, and how counters, reveals, Traits, Pressure, Domains, summons and shot meet the exchange. Several answers close owed items: the release count (C-159) and the mechanism R70-70 is waiting on.",
+   "questions": [
+    {
+     "id": "MC1",
+     "title": "A spoken working in the exchange",
+     "question": "When a practitioner speaks a working in the middle of a fight, how much of the chain does the page print, and how is its time paid?",
+     "context": "R20C-42: below Refraction a working needs 'voice, hand, ink or blood'. The Four Crafts page: a spoken working 'takes as long as it takes to say it'. R51-28 prints a chant in its own tongue. Nothing says how much of a chain reaches the page in a fast exchange. Naruto stages hand signs as a race against the closing enemy.",
+     "options": [
+      {
+       "key": "A",
+       "label": "Whole chain, then effect",
+       "consequence": "The full chain is printed before its effect, and narration tracks what the opponent did across each clause. The reader sees exactly how long the working took, in one block.",
+       "sample": "Aldous Venn spoke the working whole, the way the Guild hall had drilled it into him. 'Under the Ember Crown, mine to ask. To the edge and no farther. Along the steel. Close.' Each clause had its length, and the Shirogane cadet spent all of them walking. He crossed the sand during the warrant, drew during the boundary, and stood at measure by the time Venn reached the steel. On the closing word heat ran down Venn's edge like water finding a groove, and the other blade was already falling."
+      },
+      {
+       "key": "B",
+       "label": "Cut into the exchange",
+       "consequence": "The chain is printed in pieces between the opponent's moves, so each clause is a step he takes. The Combat Guide gains the rule; the reader sees the race and can count its cost.",
+       "sample": "'Under the Ember Crown,' Aldous Venn began, and the Shirogane cadet came off his mark. 'Mine to ask.' The cadet covered a stride of raked sand. 'To the edge,' and the sword came up out of the scabbard, 'and no farther.' Venn's breath went short between the words. The cadet was at measure. 'Along the steel.' Venn gave ground on it, and the cut passed the place his wrist had been. 'Close.' Heat ran down his edge like water finding a groove."
+      },
+      {
+       "key": "C",
+       "label": "The closing word only",
+       "consequence": "Only the sealing word is printed aloud; the rest is said too low to hear. Faster pages, and the time the chain cost lives in the author notes.",
+       "sample": "Aldous Venn's lips moved through the working as the Shirogane cadet came off his mark, the words too low for the gallery to catch. The cadet crossed the sand and drew from the hip. Venn said the last of it aloud. 'Close.' Heat ran down his edge like water finding a groove, and the two blades met with the hiss of a smith's quench."
+      }
+     ],
+     "recommended": "B",
+     "rec_reason": "It is the canon's own case for Spellcraft made visible: the words are the clock, the opponent spends them walking, and the tempo reconstructs (R13-8). It is Naruto's hand-sign race told in WOTR's words.",
+     "multi": false,
+     "depends_on": [],
+     "rules_touched": [
+      "R20C-42-LAW_V_STAGE_GATE_REFRACTION",
+      "R51-28-CHANT_PAGE",
+      "R50-26-CHANT_TONGUE",
+      "R13-4-COMBAT_FLOOR",
+      "R47-11-TIME_AND_ENERGY"
+     ]
+    },
+    {
+     "id": "MC2",
+     "title": "What decides casting speed",
+     "question": "When two workings race, or a working races a blade, what decides which lands first?",
+     "context": "FOW lists Ardency Alacrity as 'casting speed' and Gnosis Retention as how many workings are 'held loaded'. The Combat Guide's §7 table has no casting row, canon gives no casting time in seconds, and the six-second turn (R47-11) is the only clock. The Summon Register already carries a Readiness field, seconds to full form, filled entry by entry.",
+     "options": [
+      {
+       "key": "A",
+       "label": "Alacrity row, by Grade",
+       "consequence": "§7 gains a row: who completes first is read off Alacrity by Grade gap, as Dexterity decides measure; Retention says what is held ready. No seconds are printed or invented.",
+       "sample": ""
+      },
+      {
+       "key": "B",
+       "label": "Readiness on every card",
+       "consequence": "Each technique card gains a Readiness field in seconds, set by you from its chain; contests compare cards. Until a card is filled, its technique has no time.",
+       "sample": ""
+      },
+      {
+       "key": "C",
+       "label": "Row now, cards override",
+       "consequence": "The Alacrity row decides every race today; where you fill a card's Readiness, that figure governs. Nothing waits on figures, and precision grows as cards are filled.",
+       "sample": ""
+      }
+     ],
+     "recommended": "C",
+     "rec_reason": "It works at once without one invented number (R12-5), keeps every race traceable to a row (R14-3), and lets the cards you care about carry exact timing the way the Summon Register already does.",
+     "multi": false,
+     "depends_on": [],
+     "rules_touched": [
+      "R14-3-STATS_DECIDE_TABLE",
+      "R14-3-TRACEABILITY",
+      "R12-5-NEVER_INVENT_NUMBER",
+      "R47-11-TIME_AND_ENERGY",
+      "R13-8-RECONSTRUCTIBLE_ADJUDICATION"
+     ]
+    },
+    {
+     "id": "MC3",
+     "title": "How often an art is released",
+     "question": "How often may an art's release, the imperative call with its true name, be spoken in one scene?",
+     "context": "C-159 is open. R8-26: 'One release per scene at most.' R50-09: 'No limit on release calls... each call still costs the beat.' R8-23: an art is 'spoken once at release and thereafter assumed', techniques 'every time they are used'. Bleach releases a sword once and fights inside the release; Naruto calls every technique by name.",
+     "options": [
+      {
+       "key": "A",
+       "label": "Once a scene",
+       "consequence": "R8-26 governs and R50-09 is marked superseded. A second release by the same man is barred, and two men releasing in one scene is an event the page treats as one.",
+       "sample": "'Wake, Long Ember,' Venn said at the start, and the heat came up the steel and stayed there. Late in the bout, with the Shirogane cadet pressing him hard, he felt the old want to call it again and louder, and kept his teeth together. The hall allowed a man one release a scene. A second would have been heard along the rail as a boast, or as fear."
+      },
+      {
+       "key": "B",
+       "label": "As often as beats allow",
+       "consequence": "R50-09 governs and R8-26 is marked superseded. Every call costs its beat and buys its output, so a fighter may call his art again whenever he can afford the beat.",
+       "sample": "'Wake, Long Ember,' Venn said at the start, and the heat came up the steel. Late in the bout, with the Shirogane cadet pressing him hard, he called it again. 'Wake, Long Ember.' The beat it cost him was the beat the cadet used to step in, but the edge came up hotter for the call, and the step walked into it."
+      },
+      {
+       "key": "C",
+       "label": "Art once, techniques always",
+       "consequence": "R8-23 settles it: the art is released once a scene and assumed after; techniques inside it are called at each use. R8-26 stands for arts; R50-09 is amended to technique calls.",
+       "sample": "'Wake, Long Ember,' Venn said at the start, and the heat came up the steel and stayed there for the rest of the bout. Late in it, with the Shirogane cadet pressing him hard, he named a technique of the art. 'Quench Line.' The heat ran down into the last hand's width of the edge, and the cadet's cut met it there and lost its temper."
+      }
+     ],
+     "recommended": "C",
+     "rec_reason": "It uses the rule that already holds both readings (R8-23), gives you Bleach's release and Naruto's called techniques together, and keeps a second release an event worth a crowd's breath. It closes C-159.",
+     "multi": false,
+     "depends_on": [],
+     "rules_touched": [
+      "R8-26-ONE_RELEASE_PER_SCENE",
+      "R50-09-ONE_RELEASE",
+      "R8-23-NAME_HIERARCHY",
+      "R8-24-RELEASE_MECHANIC"
+     ]
+    },
+    {
+     "id": "MC4",
+     "title": "The held-back reveal",
+     "question": "May a working's rule act on the page, unexplained, before the fight, and be told only at the reveal?",
+     "context": "R70-71 plants a working's rules before the fight so the explaining is recall; R48-30 wants big surprises foreshadowed 'a player could have caught'. Bleach's Aizen let his power act for a whole arc before its rule was told. The archive's arena duels explained live. Nothing says whether a rule may be shown working first and told only at the reveal.",
+     "options": [
+      {
+       "key": "A",
+       "label": "Told before, recalled after",
+       "consequence": "R70-71 read strictly: the rule is taught on the page before the fight, by lecture, document or talk, and the reveal is the fighter remembering it. No change.",
+       "sample": "The Shirogane cadet's blade brushed Brannock's sleeve and stopped there, held, as if the air had set around it. Everyone at the rail had sat through Master Ollerton's spring lecture: Fixatio holds what it is set on until the hand that set it lets go. Brannock's hand had touched the steel in the bind. The cadet pulled once with his whole back, and the sword stayed where it was."
+      },
+      {
+       "key": "B",
+       "label": "Shown before, told at reveal",
+       "consequence": "This narrows R70-71 for held reveals: the rule may act earlier unexplained, as evidence a reader could catch, and a voice tells it at the reveal. The notes list each planted sign.",
+       "sample": "The Shirogane cadet's blade brushed Brannock's sleeve and stopped there, held, as if the air had set around it. At the rail an old Measurewright let out her breath. 'The rail,' she said. 'And the cup.' Brannock had leaned on the rail before the bout, and the dust had hung in the air where his hand had been; when a cup went off the bench, it had stopped a finger's width above the sand."
+      },
+      {
+       "key": "C",
+       "label": "Told live, at first use",
+       "consequence": "This relaxes R70-71: a working may first be explained at its first use, by the opponent or a second, as the archive's arena duels did. R48-30 still binds the outcome.",
+       "sample": "The Shirogane cadet's blade brushed Brannock's sleeve and stopped there, held, as if the air had set around it. He pulled once with his whole back and the sword stayed where it was. 'Fixatio,' Brannock told him pleasantly. 'What I set my hand on stays where I leave it.' The cadet let go of the hilt, and the sword hung between them in the cold air."
+      }
+     ],
+     "recommended": "B",
+     "rec_reason": "It keeps R70-71's promise that the reader can do the sum, gives you Bleach's late reveal, and makes the planted evidence the foreshadowing R48-30 asks for. The reread is the reward.",
+     "multi": false,
+     "depends_on": [],
+     "rules_touched": [
+      "R70-71-EXPLAINING_WORKING_MID_FIGHT",
+      "R48-30-SURPRISES",
+      "R12-3-NAMED_INVENTOR_RULE",
+      "R12-4-VOICE_MIXING_RULE"
+     ]
+    },
+    {
+     "id": "MC5",
+     "title": "Counters at duel scale",
+     "question": "Should duel-scale counters stay technique by technique, or should a chart by Wellspring Family sit above them?",
+     "context": "R17-3: a counter 'falls out of the Operation'; R47-9: workings inherit their Wellsprings' failures. The Counterplay page lists ground by Family: Fulguria fails against boiled leather and fog, Fluxia needs a medium. FOW gives opposed Houses interference only at Domain scale. Naruto runs an elemental chart. A soft counter raises the price; a hard counter wins outright.",
+     "options": [
+      {
+       "key": "A",
+       "label": "Technique by technique",
+       "consequence": "No chart. Every counter comes from its technique's mechanism and the Counterplay ground list; each fight's answer is found fresh, and the card's Counter field stays the only law.",
+       "sample": "The Fulguria man's working wanted a path to ground, and the rider had read that off the first strike: the charge had gone into the wet iron of the gate and left him alone. So he kept wood between them. He took the end of the woodpile, then the hay cart, and made the Guild man reach across dry things to find him."
+      },
+      {
+       "key": "B",
+       "label": "Soft Family chart",
+       "consequence": "A chart derived from Codex physics says which conditions and Families make each Family's working cost more and deliver less; the card's Counter field stays the hard answer. You ratify the chart.",
+       "sample": "Fog off the river lay in the yard, and the Fulguria man paid for it on every working. The charge bled into the wet air on its way, and the rider's boiled leather drank the rest the way a dry log drinks rain. Each strike cost him more and arrived as less. He could still kill the man. It would take the reserve he had meant to keep for the road home."
+      },
+      {
+       "key": "C",
+       "label": "Hard Family chart",
+       "consequence": "A Naruto-style chart in which a Family's working simply fails against its listed answer. Fast to read, and many fights become a lookup.",
+       "sample": "Fog off the river lay in the yard, and the Fulguria man's working died in it. The charge went out into the wet air and spread and was gone, and what reached the rider's boiled leather was a tingle in his back teeth. In fog, Fulguria fails. The rider walked up to the Guild man and cut him down."
+      }
+     ],
+     "recommended": "B",
+     "rec_reason": "It is your fair-counter rule at the scale fights happen: real physics sets the price, ground matters, and no fight becomes a lookup, because the hard answer still has to be found in the technique.",
+     "multi": false,
+     "depends_on": [],
+     "rules_touched": [
+      "R17-3-COUNTER_MANDATORY",
+      "R47-9-INHERITED_FAILURES",
+      "R47-3-COUNTERS_AS_FACTS",
+      "R12-3-NAMED_INVENTOR_RULE"
+     ]
+    },
+    {
+     "id": "MC6",
+     "title": "Vows and limits",
+     "question": "May a practitioner bind a technique with a vow that narrows it, and gain output for the narrowing?",
+     "context": "The Counterplay page: 'A vow kept buys Coherence with conduct. A vow broken is a Shear Break', and an opponent who knows its terms 'holds a weapon'. No rule lets a self-imposed limit raise output. Hunter x Hunter's Restrictions and Vows trade a limit for power; Jujutsu Kaisen counts explaining your own technique to the enemy as one such binding.",
+     "options": [
+      {
+       "key": "A",
+       "label": "Coherence only",
+       "consequence": "No change. A vow keeps the Crystal whole and makes its keeper legible; it never raises a technique's output. The opponent who learns the terms still holds a weapon.",
+       "sample": "Kaneyasu had sworn before the Shirogane shrine that his Third Form would cut only a man who had drawn on his house. He kept the vow, and it kept him; his Crystal ran clean as cold water, nothing in it arguing with anything else. The Guild cadet knew the terms. He left his sword sheathed and came in with a cudgel, and Kaneyasu, whole and steady, met him with the Second."
+      },
+      {
+       "key": "B",
+       "label": "Narrowing buys output",
+       "consequence": "A vow that narrows a technique raises its output by a figure you set on that technique's card; breaking it is a Shear Break. The vow's terms become its findable counter.",
+       "sample": "Kaneyasu had sworn before the Shirogane shrine that his Third Form would cut only a man who had drawn on his house, and for that narrowness the form cut harder than anything else he owned. The Guild cadet knew the terms. He left his sword sheathed and came in with a cudgel. Kaneyasu felt the Third Form sitting in him like a drawn bow he was forbidden to loose, and met him with the Second."
+      },
+      {
+       "key": "C",
+       "label": "Narrowing and disclosure",
+       "consequence": "As B, and telling the opponent how a technique works is itself a binding that buys output. R8-26 still holds: the name is never translated, the working may be explained.",
+       "sample": "Kaneyasu told the Guild cadet the terms aloud before they began. 'My Third Form cuts only a man who has drawn on my house.' Saying it pulled the vow tighter, and the form tightened with it. The cadet heard, left his sword sheathed and came in with a cudgel, and Kaneyasu met him with the Second while the Third waited in him, harder than before."
+      }
+     ],
+     "recommended": "B",
+     "rec_reason": "Hunter x Hunter's best idea fits WOTR's own vow canon and pays for itself in fairness: every gain hands the opponent a term to exploit. The figure stays yours, card by card, so nothing is invented.",
+     "multi": false,
+     "depends_on": [],
+     "rules_touched": [
+      "R12-5-NEVER_INVENT_NUMBER",
+      "R17-3-LIMIT_MECHANICAL",
+      "R47-3-COUNTERS_AS_FACTS",
+      "R8-26-NO_SELF_TRANSLATION",
+      "R12-4-VOICE_THREE_OPPONENT"
+     ]
+    },
+    {
+     "id": "MC7",
+     "title": "How the drain shows",
+     "question": "Between the readout lines, how does a fight show that a practitioner's reserve is running down?",
+     "context": "R60-03 runs Essence on a hard clock; R70-88 bars running figures, and an Essence-spent line comes only after a working (R70-85). The Essence Ledger: a Starved man 'is brighter for the same work, sheds more, delivers less'. The archive leans on the nosebleed. Counterplay: 'A defender who can afford to spend nothing wins a long engagement'.",
+     "options": [
+      {
+       "key": "A",
+       "label": "The body, by threshold",
+       "consequence": "A bank of body signs keyed to the Ledger's lines, committed spending and Starvation: cold hands, tin on the teeth, the slow grip. Logged by culture, so the nosebleed stops carrying everything.",
+       "sample": "Late in the bout Venn's fingers had gone cold to the wrist inside his gloves, and there was tin on his back teeth. He knew the taste. The Crystal had passed the line where every working came out of what he would need to walk home. He tightened his grip and felt it answer slow, half a beat behind the thought, the way a tired horse answers its rider."
+      },
+      {
+       "key": "B",
+       "label": "The waste grows",
+       "consequence": "As η falls, the same work sheds more heat, so the room shows the drain: the thawed ring widens, the air shakes harder. Canon's own law, written as a rule of the page.",
+       "sample": "Late in the bout the sand around Venn had begun to change. It went in a ring that widened each time he worked, the frost going out of it first, then the damp, until the middle lay dry and pale and smoking, though he did no more than he had done at the start. The air over his shoulders shook like the air above a forge chimney. Every man at the rail could see how much he was wasting."
+      },
+      {
+       "key": "C",
+       "label": "By Family",
+       "consequence": "Each Wellspring Family drains through its own sign, so a Caloria man runs cold as he spends. New canon, one sign per Family, ratified by you.",
+       "sample": "Late in the bout Venn's own working had begun to chill him. That was how Caloria took its debt back from a Pyraeon man: the heat he sent down the blade came out of his blood first, and his lips had gone the blue of a sealer's in winter. Frost stood in his eyebrows while the edge in his hand still smoked."
+      },
+      {
+       "key": "D",
+       "label": "The opponent reads it",
+       "consequence": "The drain is shown through the other fighter's read and his choice to make the spender spend. The Counterplay doctrine, on the page.",
+       "sample": "Late in the bout the Shirogane cadet stopped attacking. He kept his point low and his feet moving and gave Venn nothing worth working against, and watched the sand. It had gone in a ring around the Guild man, wider each time. The cadet had been taught as a boy that the man who can afford to spend nothing wins the long fight, and today he could afford it."
+      }
+     ],
+     "recommended": "A,B,D",
+     "rec_reason": "Body first is already law (R70-89), the waste rule is canon physics a reader can watch, and the opponent's read turns the clock into tactics. A sign per Family would be fresh invention eight times over.",
+     "multi": true,
+     "depends_on": [],
+     "rules_touched": [
+      "R60-03-HARD_RESERVE_CLOCK",
+      "R70-88-NUMBERS_INSIDE_FIGHT",
+      "R70-89-BODY_FIRST_NUMBER_FIRST",
+      "R47-8-WASTE_IS_HEAT",
+      "R48-37-COST_SHOWN"
+     ]
+    },
+    {
+     "id": "MC8",
+     "title": "Overchannel on the page",
+     "question": "When a practitioner pushes past his ceiling and the Crystal takes damage, when does the page show the damage?",
+     "context": "FOW: Overchannel spikes output past the sustainable ceiling at the cost of fracture damage, and R55-2 makes such damage accumulate until it 'eventually becomes permanent'. R48-37 wants cost shown in the body; R70-68 maps the Crystal from inside. The Beginning After the End turns an arc on core damage. Nothing says when the damage reaches the page.",
+     "options": [
+      {
+       "key": "A",
+       "label": "Spike now, bill later",
+       "consequence": "The push reads as clean success; the damage first shows after the danger breaks, in the aftermath or the next scene. A surprise for the reader, and a Ledger line at once.",
+       "sample": "Edric Pell pushed past his ceiling, and the working went through the Mandate officer's guard like a hot nail through lard. The man's sword arm opened at the elbow. Edric felt nothing but the heat and the give of it, and it felt very good. That night in the barracks he reached for the cup on the stool, and his right hand closed a finger's width short of it, every time he tried."
+      },
+      {
+       "key": "B",
+       "label": "All of it at once",
+       "consequence": "The spike and the crack share the exchange, written on the Crystal's inner map with its body symptom, and the page says then that it will not heal.",
+       "sample": "Edric Pell pushed past his ceiling and felt the Crystal take it. A seam opened in the Shell along the place where the draw came in, and through it something went out that he would never get back. His left ear filled with a high whine. The working went through the Mandate officer's guard like a hot nail through lard, and the man's sword arm opened at the elbow."
+      },
+      {
+       "key": "C",
+       "label": "Felt now, measured after",
+       "consequence": "The crack is felt in the exchange, inner map and body symptom; its size comes later from a surgeon or an instrument, and the Ledger enters it when measured.",
+       "sample": "Edric Pell pushed past his ceiling and felt the Crystal take it, a seam opening along the place where the draw came in, a high whine filling his left ear. The working went through the Mandate officer's guard like a hot nail through lard, and the arm opened at the elbow. What the seam had cost him the Guild surgeon told him afterward, at the cot, with her gauge in her hand."
+      }
+     ],
+     "recommended": "C",
+     "rec_reason": "The cost lands in the exchange where it was paid (R48-37), so the reader feels the risk, while the exact size waits for an instrument, the way the best LitRPG keeps a number earned. Grimdark, without spoiling the bill.",
+     "multi": false,
+     "depends_on": [],
+     "rules_touched": [
+      "R55-2-OVERCHANNEL_DAMAGE_ACCUMULATES",
+      "R55-1-SUBSTANCE_COSTS_PERMANENT",
+      "R48-37-COST_SHOWN",
+      "R70-68-INSIDE_PRACTICE",
+      "R70-89-BODY_FIRST_NUMBER_FIRST"
+     ]
+    },
+    {
+     "id": "MC9",
+     "title": "The second wind",
+     "question": "May Crisis Recovery, the Crystal's surge after a soul-cost event, land at the deciding exchange and turn a fight?",
+     "context": "FOW: Crisis Recovery is a surge 'triggered by soul-cost events' that 'cannot be manufactured'. §7.1: 'Nobody refills mid-exchange.' R70-91 puts a breakthrough inside its crisis; R48-30 wants big surprises foreshadowed. Naruto and Bleach live on the second wind. Nothing says whether this surge may decide a fight.",
+     "options": [
+      {
+       "key": "A",
+       "label": "Never at the decider",
+       "consequence": "Crisis Recovery lands only after the danger breaks; it may save a life, never a fight. §7.1 gains the line.",
+       "sample": "Orm Haldane knelt in the snow with nothing left in him to draw. The Crystal was a cold room with the fire out. The Mandate man came across the yard without hurrying, and Orm got a knee under himself and swung the axe the plain way, with his back, and the man stepped inside it and opened his thigh. Hours later, on the cot, something came back into the Crystal like warmth into a hand."
+      },
+      {
+       "key": "B",
+       "label": "Once, if planted",
+       "consequence": "It may land at the deciding exchange only when the soul-cost event behind it was set up earlier on the page and its price goes on the Ledger. Rare by rule.",
+       "sample": "Orm Haldane knelt in the snow with nothing left in him to draw. The Mandate man came across the yard without hurrying, and he came over the place where Orm's brother had bled out at the thaw. Orm saw the old stain under the new snow. Something in the Crystal caught, the way a banked fire catches when the door is opened, and it came up through him and burnt his throat. He stood."
+      },
+      {
+       "key": "C",
+       "label": "Only with a breakthrough",
+       "consequence": "It may turn a fight only as part of a Stage breakthrough inside its Catalyst (R70-91); a surge alone never decides one.",
+       "sample": "Orm Haldane knelt in the snow with nothing left in him to draw. The Mandate man came across the yard without hurrying. Then the Crystal cracked along a line it had never had, and through the crack the Wellspring came in, colder and larger than anything he had held, and the Stage gave under him like river ice at the thaw. He stood up into it with the axe already moving."
+      }
+     ],
+     "recommended": "B",
+     "rec_reason": "Your anime second wind, kept fair: the reader saw the debt laid down earlier, so the surge reads as earned, and the Ledger price keeps it grimdark.",
+     "multi": false,
+     "depends_on": [],
+     "rules_touched": [
+      "R48-30-SURPRISES",
+      "R70-91-BREAKTHROUGH_PAGE",
+      "R60-03-HARD_RESERVE_CLOCK",
+      "R2-6-REPLENISHMENT_RULE",
+      "R13-8-RECONSTRUCTIBLE_ADJUDICATION"
+     ]
+    },
+    {
+     "id": "MC10",
+     "title": "Healing inside a fight",
+     "question": "May a Vitalia working mend a wound while the fight is still running?",
+     "context": "R60-02: Vitalia healing shortens real timelines, at a cost in EU to the healer and 'scar tissue, fever, hunger' to the patient. R47-11: 'Healing and mending always cost more than breaking.' Active recovery 'requires the character to stop fighting'. Azarinth Healer mends mid-fight without end; real trauma care stops the bleeding first.",
+     "options": [
+      {
+       "key": "A",
+       "label": "Stop the bleeding only",
+       "consequence": "Mid-fight Vitalia may close a vessel or seal a bleed, at full price; the wound itself stays open until the fight ends. §7.1 gains the row.",
+       "sample": "Siv Tolley clamped her left hand over the cut and worked into it. Terranova would not knit a forearm in a breath, and she did not ask it to. She asked it to close the one vessel pumping into her sleeve, and felt the wall of it pucker and seal under her palm like a drawstring pulled tight. The rest of the wound stayed open and hot with pain. She was hungry already."
+      },
+      {
+       "key": "B",
+       "label": "Full mend, full price",
+       "consequence": "Mid-fight Vitalia may close the whole wound, scar and all, and the patient pays at once in fever and hunger, which bring Starvation sooner.",
+       "sample": "Siv Tolley clamped her left hand over the cut and worked into it, and the forearm closed. Muscle drew together under her palm, skin crawled shut over it, and a ridge of pink scar stood up where the edge had gone in. Then the fever came up her neck, and her stomach turned over as if she had not eaten in a day. She raised the arm, and it answered."
+      },
+      {
+       "key": "C",
+       "label": "Nothing until it ends",
+       "consequence": "No Vitalia work inside an exchange; it needs the stillness active recovery needs. A tourniquet and a tied sleeve are the fight's medicine.",
+       "sample": "Siv Tolley clamped her left hand over the cut and kept it there. Terranova could have closed it, but a Vitalia working wanted stillness and her whole attention, and the cadet across the sand would give her neither. She tied the sleeve off with her teeth and fought on with the arm held in against her ribs, and the blood ran out under the knot in time with her heart."
+      }
+     ],
+     "recommended": "A",
+     "rec_reason": "It is real trauma medicine, the bleed first, inside WOTR's cost law; it keeps R60-01's lethality and gives a healer-fighter a real trick that still costs more than the cut did.",
+     "multi": false,
+     "depends_on": [],
+     "rules_touched": [
+      "R60-02-REAL_HEALING_TIMES",
+      "R47-11-TIME_AND_ENERGY",
+      "R60-01-BRUTAL_LETHALITY",
+      "R48-34-WOUNDS"
+     ]
+    },
+    {
+     "id": "MC11",
+     "title": "Traits when they fire",
+     "question": "When a Trait a character already holds fires in a fight, does the page name it?",
+     "context": "FOW Part Twenty: a Secondary Trait fires 'under emotional or situational pressure', a 'strong boost while active, balanced by fatigue or emotional cost'. R70-84 gives a new Trait a readout when it registers; R49-48 frees technique names in narration and R49-47 stat words. Nothing says whether a Trait already held is named when it fires.",
+     "options": [
+      {
+       "key": "A",
+       "label": "Behaviour only",
+       "consequence": "The Trait shows as what it does; its name lives on the card and in the notes, and the reader learns it from the change.",
+       "sample": "The boy was behind him now, and something in Orm went up a gear. His hands steadied. The cold went out of his fingers and the yard sharpened at its edges until he could see the Mandate man's weight resting on the ball of his left foot. Orm knew the feeling from the famine winter, and he knew what it would cost him tonight, and he went forward."
+      },
+      {
+       "key": "B",
+       "label": "Named at first fire",
+       "consequence": "Narration names the Trait the first time it fires in a scene, then shows it working. The reader holds the name the way he holds a technique's.",
+       "sample": "The boy was behind him now, and First Bowl woke in Orm the way it had in the famine winter, a Secondary Trait forged over a cookpot with his sister's children at his back. His hands steadied. The cold went out of his fingers, and the yard sharpened until he could see the Mandate man's weight resting on the ball of his left foot. He went forward."
+      },
+      {
+       "key": "C",
+       "label": "Named in a mouth",
+       "consequence": "Only a Measurewright, a second or the opponent names it aloud, inside the two-voice cap.",
+       "sample": "The boy was behind him now, and Orm's hands steadied. On the wall above, the Measurewright put her pencil down. 'There,' she said to her clerk. 'First Bowl. Write it in.' The Mandate man heard the name and took his weight off the ball of his left foot, a breath too late, because Orm was already coming."
+      }
+     ],
+     "recommended": "B",
+     "rec_reason": "LitRPG crunch the way you chose it: the name lands once, at the moment it matters, and the reader holds it like a technique name, while the body still carries the effect.",
+     "multi": false,
+     "depends_on": [],
+     "rules_touched": [
+      "R49-48-TECH_NAMES",
+      "R49-47-STAT_WORDS",
+      "R70-84-GROWTH_MOMENTS_THAT_EARN",
+      "R12-4-VOICE_MIXING_RULE"
+     ]
+    },
+    {
+     "id": "MC12",
+     "title": "A Resonant Pair under strain",
+     "question": "May strain in a fight lift a Sub-Stat far enough to switch on a Resonant Pair for the crisis?",
+     "context": "FOW: a Resonant Pair forms when two Sub-Stats from different Primaries reach the same Grade; Alacrity with Celerity at B gives Reactive Cast, techniques firing 'without a declared action window'. R39-4 lets a Sub-Stat pass its Stage's cap 'only under strain'. R20C-33 lets a Pair be named in diagnostic voice. Nothing says whether strain can switch one on.",
+     "options": [
+      {
+       "key": "A",
+       "label": "Never mid-fight",
+       "consequence": "A Pair is a card fact formed only by allocation; strain may lift a Sub-Stat, but never completes a Pair.",
+       "sample": "The cut came faster than Venn could ask anything of the Crystal, and he did the only thing left, which was to move. He moved well. The edge opened his coat and the skin beneath it along the ribs, and he was clear, bleeding. Nothing in him had answered before he chose. The Crystal held what his card said it held."
+      },
+      {
+       "key": "B",
+       "label": "For the crisis only",
+       "consequence": "Where a Sub-Stat sits at its Stage's cap, strain may lift it level with its partner, and the Pair runs for the crisis, then goes. The notes name the strain.",
+       "sample": "The cut came faster than Venn could ask anything of the Crystal, and the Crystal answered unasked. His casting speed, held at its cap since Glory, strained past it, and for the length of the crisis it ran level with his feet. The working fired off the incoming steel on its own and threw the edge wide. Then the strain let go, the Pair went with it, and he was shaking."
+      },
+      {
+       "key": "C",
+       "label": "Crisis, then it stays",
+       "consequence": "As B, and the Pair may stay as growth, with a readout after the danger breaks, once training or an XP event explains it (R70-90).",
+       "sample": "The cut came faster than Venn could ask anything of the Crystal, and the Crystal answered unasked, the working firing off the incoming steel and throwing the edge wide. Later, on the bench, with the surgeon's needle in his ribs, the line came up in him plain and voiceless: Reactive Cast, Alacrity and Celerity level, held. He read it twice."
+      }
+     ],
+     "recommended": "B",
+     "rec_reason": "It is the crisis power-up you like, built from a rule already in canon (R39-4), and it leaves nothing permanent the reader did not see earned. C can follow once training is shown.",
+     "multi": false,
+     "depends_on": [],
+     "rules_touched": [
+      "R39-4-MAX_GRADE_LETTER_BINDS",
+      "R20C-33-RESONANT_PAIRS_DIAGNOSTIC",
+      "R70-90-FAST_NUMBERS_CLIMB",
+      "R70-84-GROWTH_MOMENTS_THAT_EARN",
+      "R70-91-BREAKTHROUGH_PAGE"
+     ]
+    },
+    {
+     "id": "MC13",
+     "title": "Allies working together",
+     "question": "How do two allied practitioners' workings combine in a fight?",
+     "context": "No rule covers joint workings. R55-8: area workings spare allies only while the caster's attention holds. The Four Crafts: Chantcraft 'scales with throats' and 'cannot be practised alone'. FOW lets Domains from adjacent Houses 'reinforce each other'. Naruto's clan trios chain one technique into the next; a Resonant Pair lives inside one person.",
+     "options": [
+      {
+       "key": "A",
+       "label": "Chained, never fused",
+       "consequence": "Each working stays its own speaker's sentence, paid by him; allies chain them in time, one setting up the next. R55-8 governs friendly fire.",
+       "sample": "Tamsin Rook set her heel and pressed, and the Mandate officer's weight went out of his control, his boots sliding a hand's width on the frozen yard. Venn was already moving into the space she had made. Her working held the man for the length of a breath, and his came down inside it: two sentences laid end to end, each paid for by its own speaker."
+      },
+      {
+       "key": "B",
+       "label": "Fused by compatible Houses",
+       "consequence": "Two practitioners from adjacent Houses may fuse workings into one effect with a shared cost. New canon: each pairing ruled with its physics and its counter.",
+       "sample": "Tamsin Rook set her heel and Venn set his hand on her shoulder, and the two workings went into each other. Her press and his heat came out as one thing, a weight that burned, and it put the Mandate officer on his knees with the snow smoking around him. They paid for it together. Venn felt her reserve leave her through his palm, alongside his own."
+      },
+      {
+       "key": "C",
+       "label": "Chained; choirs fuse",
+       "consequence": "Individuals chain; fusion belongs to Chantcraft alone, many throats on one sentence. Joint power at scale becomes institutional, as the craft's canon says.",
+       "sample": "Tamsin Rook set her heel and pressed, and Venn moved into the space she made, two workings laid end to end. Above them on the wall the Seat's choir took up the long note, every throat on one sentence, and the air over the gate thickened into something neither of them could have made alone. The Mandate file in the gateway leaned back from it like grass in a wind."
+      }
+     ],
+     "recommended": "C",
+     "rec_reason": "It honours the canon line that Chantcraft alone needs many throats, gives individuals Naruto's chained teamwork, and keeps every cost on one speaker's sheet where the Ledger can find it.",
+     "multi": false,
+     "depends_on": [],
+     "rules_touched": [
+      "R55-8-AREA_FRIEND_FOE_BY_ATTENTION",
+      "R20C-41-CHANTCRAFT_FIFTH_CRAFT",
+      "R10-3-CRAFT_DURABILITY_TABLE",
+      "R48-35-USES"
+     ]
+    },
+    {
+     "id": "MC14",
+     "title": "The mechanism of aimed Pressure",
+     "question": "Which mechanism should R70-70's aimed Pressure run on, so that it can reach the page?",
+     "context": "R70-70 makes killing intent 'Pressure narrowed onto one man through Dominion, felt as cold, sweat and the pull to step back', and bars it until 'a ruled mechanism'. R56-12 makes the Passive Pressure Field the authority radius; R70-69 shows Pressure in the room first. Xianxia locks intent onto one target; Vagabond's spearman radiates it at a single man.",
+     "options": [
+      {
+       "key": "A",
+       "label": "The field narrowed",
+       "consequence": "Dominion draws the Passive Pressure Field onto one man; what he takes, the room loses, so the room eases as he suffers. The trade's figures come from Dominion, set by you.",
+       "sample": "The Shirogane master did not look at the room, and the room eased all the same. The lamp flames along the hall stood up straight again and the dogs at the hearth lay down. The lamp beside Orm Haldane went on leaning toward the stair. Orm, alone in the whole hall, felt the cold come into his back and the sweat break under his arms, and his heels wanted a step backward."
+      },
+      {
+       "key": "B",
+       "label": "Along the gaze",
+       "consequence": "Intent travels only along a held look, decided by Gnosis and Dominion; a man who keeps his eyes on the chest is spared. The Kharven folk rule becomes a mechanism.",
+       "sample": "The Shirogane master looked down the hall at Orm Haldane, and Orm made the mistake of looking back. The cold came in through his eyes. It sat behind them and spread down into his back, and sweat broke under his arms, and his heels wanted a step backward. The men around him, who had kept their eyes on the master's chest, felt nothing at all."
+      },
+      {
+       "key": "C",
+       "label": "A claim on the man",
+       "consequence": "A pre-Domain claim on one man, open from Refraction; felt as being chosen, and answered by Resilience Anchoring as well as suppression.",
+       "sample": "The Shirogane master chose Orm Haldane, and Orm felt himself chosen, the way a man might feel his name written somewhere he cannot read. The cold came into his back. Sweat broke under his arms, and his heels wanted a step backward. Under all of it his Crystal held on to what he was."
+      }
+     ],
+     "recommended": "A",
+     "rec_reason": "It obeys R70-69 (the room shows it first), behaves like conserved physics, and hands the target a findable tell: when every lamp straightens except the one beside you, you are the one chosen. It unblocks R70-70.",
+     "multi": false,
+     "depends_on": [],
+     "rules_touched": [
+      "R70-70-INTENT_FELT_BODY",
+      "R70-69-PRESSURE_AURA",
+      "R56-12-AUTHORITY_RADIUS_IS_PPF",
+      "R14-3-STATS_DECIDE_TABLE",
+      "R12-5-NEVER_INVENT_NUMBER"
+     ]
+    },
+    {
+     "id": "MC15",
+     "title": "Two Pressures in one room",
+     "question": "When two practitioners of the same Stage bring their Pressure into one room, what happens to the room and the people in it?",
+     "context": "NATALIE grades Pressure by Stage gap; §7's first row reads 'Stage gap first; Dominion Pressure and Radius for how far'; R70-69 shows it in the room first. Nothing says whether two Pressures add for bystanders or cancel at an even Stage. Bleach and Cradle stage a pressure contest before the first blow.",
+     "options": [
+      {
+       "key": "A",
+       "label": "Gap between, sum around",
+       "consequence": "Each fighter feels only his gap to the other; bystanders take both weights at once. No contest; the room shows the sum.",
+       "sample": "Hale and Doyle stood at the same Stage, and between them the air was only air. The clerks at the long table had no such luck. Both weights came down on them at once from two sides, and the youngest put his head on the ledger and was sick into his own lap. The lamp on the table could not settle which way to lean, and guttered."
+      },
+      {
+       "key": "B",
+       "label": "The stronger takes all",
+       "consequence": "A room carries one Pressure, the stronger Dominion's; the weaker is swallowed, and bystanders feel one weight.",
+       "sample": "Hale and Doyle stood at the same Stage, and Hale's Dominion ran the deeper, so the hall was his. Doyle's Pressure went into it the way a stream goes into a river. The clerks at the long table felt one weight, Hale's, pressing them down onto their stools, and the lamp leaned toward him and stayed. Doyle stood in it like a woman in someone else's house."
+      },
+      {
+       "key": "C",
+       "label": "A contest for the room",
+       "consequence": "Meeting Pressures fight for the room by Dominion before steel; the room shows the border moving, bystanders take both, and the loser begins the fight already paying. §7 gains the row.",
+       "sample": "Hale and Doyle stood at the same Stage, and the hall had to choose between them. For a breath it could not. The lamp on the long table leaned toward Hale, then toward Doyle, then stood shaking upright while frost came up the windows on his side and the inkwells smoked on hers. The clerks took both weights. Then the lamp went over toward Hale and stayed, and Doyle came into the fight already paying."
+      }
+     ],
+     "recommended": "C",
+     "rec_reason": "Bleach's pressure duel in WOTR's terms: decided by a §7 row so it reconstructs, shown in the room as R70-69 asks, and it gives the loser a real cost that carries into the exchanges.",
+     "multi": false,
+     "depends_on": [],
+     "rules_touched": [
+      "R70-69-PRESSURE_AURA",
+      "R14-3-STATS_DECIDE_TABLE",
+      "R56-12-AUTHORITY_RADIUS_IS_PPF",
+      "R53-14-FOLK_KNOWLEDGE"
+     ]
+    },
+    {
+     "id": "MC16",
+     "title": "Suppression on the page",
+     "question": "What shows of a practitioner holding his Pressure in, and what does the holding cost him on the page?",
+     "context": "The Counterplay page: suppression 'is a skill and it is tiring', and 'a long approach through populated ground costs him more than the fight will'. R70-70 answers aimed Pressure with suppression; R9-3 makes the eyes go first when it drops. Nothing says what a held suppression looks like to the street, or what it costs on the page.",
+     "options": [
+      {
+       "key": "A",
+       "label": "The cost in his body",
+       "consequence": "Holding it in tires him in named places, jaw, collar, temper, and the cost grows with the approach. The Combat Guide gains a bank of signs by culture.",
+       "sample": "Kaneyasu walked the river market in the Hallenfeld corridor with his suppression clamped over himself like a lid on a boiling pot, and by the fish stalls his jaw ached with it. Heat sat under his collar. Holding it in was a breath he could never let out, and the longer the street ran the shorter his temper got. A hawker shoved a tray of eels at him, and he very nearly let go."
+      },
+      {
+       "key": "B",
+       "label": "Small leaks in the room",
+       "consequence": "R70-69 at its faintest: the draw-hum dips and a dog lies down as he passes. A sharp-eyed reader, or a POV with good Gnosis, can catch a suppressed man.",
+       "sample": "Kaneyasu walked the river market in the Hallenfeld corridor with his suppression down, and almost nothing showed. The draw-hum in the standpipe by the fish stalls dipped as he passed it and came back. A chained dog stopped barking and lay down flat. A Guild runner with good eyes saw both and turned to find whoever had done it, and found an ordinary man buying smoked eel."
+      },
+      {
+       "key": "C",
+       "label": "Instruments catch it",
+       "consequence": "A gauge or coil reads what eyes miss; the Board's clerks and the Measurewrights can find a suppressed man by the sag he leaves on a needle.",
+       "sample": "Kaneyasu walked the river market in the Hallenfeld corridor with his suppression down, and nothing about him showed to the street. The gauge on the standpipe by the fish stalls showed it. Its needle sagged as he passed, the way it sagged when a heavy draw went on down the street, and the Board's clerk who logged that gauge every hour wrote down the hour and the sag and frowned at it."
+      }
+     ],
+     "recommended": "A,B,C",
+     "rec_reason": "Canon says suppression tires and costs on a long approach; all three make that cost a game. The body pays, the room leaks for the sharp-eyed, and the Draw Age's own gauges become the counter.",
+     "multi": true,
+     "depends_on": [],
+     "rules_touched": [
+      "R70-70-INTENT_FELT_BODY",
+      "R70-69-PRESSURE_AURA",
+      "R70-79-CAN_READ_WHOM",
+      "R9-3-EYES_AS_TELL"
+     ]
+    },
+    {
+     "id": "MC17",
+     "title": "Raising a Domain in a duel",
+     "question": "How does a Domain come up in a duel between named practitioners?",
+     "context": "FOW Part Twenty-Two: 'Domains are not techniques', and a holder does not deploy one 'the way they choose to throw a punch'. From Transcendence it is held at a continuous cost; from Dissonance its effects 'leak without active maintenance'. Every combat rule on Domains is about formations (R2-6). Jujutsu Kaisen casts a Domain with a hand sign and a name.",
+     "options": [
+      {
+       "key": "A",
+       "label": "Raised by attention",
+       "consequence": "Part Twenty-Two read plainly: the holder concentrates and the Domain comes up over turns, unnamed, at a cost the notes track. Its first turn is his display beat.",
+       "sample": "Siward Hale stopped moving and began to hold. The Domain came up over the yard the way frost comes up a window, slowly, from the edges in. A dropped glove fell a little faster than a glove should. The Mandate officer's next step landed heavy, then heavier, and by the time he reached measure his sword arm weighed what an anvil weighs. Hale stood in the middle of it, sweating with the work of keeping it there."
+      },
+      {
+       "key": "B",
+       "label": "Named and cast at once",
+       "consequence": "This reopens Part Twenty-Two's 'not a technique': the Domain is named and comes down in a single beat, Jujutsu Kaisen's way, as his display beat. The name follows R50-10.",
+       "sample": "Siward Hale set his feet and named it. 'The Long Mountain.' The Domain came down over the yard in a single beat, as if a hand had pressed it flat. A dropped glove slapped the ground. The Mandate officer's knees bent under the new weight of his own body, and his sword arm hung from his shoulder, too heavy to lift."
+      },
+      {
+       "key": "C",
+       "label": "Attention, then held in",
+       "consequence": "Below Dissonance it is raised by attention as in A. From Dissonance, where canon has it leak, suppression holds it in and the holder lets it go in a beat. Originated; you rule it.",
+       "sample": "Siward Hale stopped holding it in. The Domain had been there since he walked into the yard, folded small under the suppression that had cost him all morning, and he let it go the way a man lets out a held breath. A dropped glove slapped the ground. The Mandate officer's knees bent under the new weight of his own body, and Hale, lighter for the first time in hours, smiled at him."
+      }
+     ],
+     "recommended": "C",
+     "rec_reason": "It keeps canon's 'not a technique' and its cost, and at the top Stages it gives you the Bleach moment, the held power let go, through WOTR's own suppression. The long suppression beforehand becomes a findable tell.",
+     "multi": false,
+     "depends_on": [],
+     "rules_touched": [
+      "R2-6-DOMAINS_BREAK_NOT_KILL",
+      "R70-73-MANY_DISPLAY_BEATS_PER",
+      "R70-69-PRESSURE_AURA",
+      "R9-3-SCOPE",
+      "R13-6-ANIME_GRAMMAR_TRANSLATION_AID"
+     ]
+    },
+    {
+     "id": "MC18",
+     "title": "A Domain clash on the page",
+     "question": "When two Domains meet in a duel, how does the page show which one holds the ground?",
+     "context": "FOW Part Twenty-Two resolves overlapping Domains in order: the Stage gap (two or more Stages up 'simply overwrites it'), then Dominion Sovereignty and Gravity, then Wellspring compatibility, then Tempering Coherence and Maturity. R13-8 wants every outcome reconstructible. Jujutsu Kaisen draws a clash as two barriers grinding, the border between them moving.",
+     "options": [
+      {
+       "key": "A",
+       "label": "The order, step by step",
+       "consequence": "The clash is written as the four steps decided in order, each visible in the room. Fully reconstructible, and slow on the page.",
+       "sample": "The two laws met over the middle of the yard, and the Continuum sorted them in its order. Neither stood two Stages over the other, so it went to Dominion, and Hale's Gravity was the heavier; the heat-haze over Doyle's ground began to sink. The Wellsprings would not lie together, and the gravel along the seam cracked and smoked. Doyle held on by the last thing the order weighs, how honestly she had lived her law, and for a while that was enough."
+      },
+      {
+       "key": "B",
+       "label": "The moving border",
+       "consequence": "The seam between two laws shows in the room and moves; one voice names the deciding step once. Reconstructible, and paced like an exchange.",
+       "sample": "The two laws met over the middle of the yard, and the seam between them was plain to anyone with eyes. On Hale's side the snow lay flat and heavy. On Doyle's it steamed. The seam moved a pace toward Doyle, then another, the steam sinking into the gravel as it came. 'Gravity,' said the old Measurewright on the wall, to nobody. 'He holds the heavier ground.'"
+      },
+      {
+       "key": "C",
+       "label": "Result, cause in notes",
+       "consequence": "The clash resolves in a beat, and the author notes cite the deciding step. Fast, and the reader cannot check it from the page.",
+       "sample": "The two laws met over the middle of the yard, and Doyle's went out. The steam over her stones lay down flat, the snow came back across her ground in a hard grey sheet, and she was standing in Hale's Domain with her own folded inside her like a wet cloak. She raised her hands anyway."
+      }
+     ],
+     "recommended": "B",
+     "rec_reason": "Jujutsu Kaisen's grinding barriers in WOTR physics: the reader watches ground change hands, and one named step keeps it reconstructible under R13-8 without stopping the fight.",
+     "multi": false,
+     "depends_on": [
+      "MC17"
+     ],
+     "rules_touched": [
+      "R13-8-RECONSTRUCTIBLE_ADJUDICATION",
+      "R14-3-TRACEABILITY",
+      "R12-4-VOICE_MIXING_RULE",
+      "R70-57-DESCRIPTION_INSIDE_FIGHT"
+     ]
+    },
+    {
+     "id": "MC19",
+     "title": "Showing the scale",
+     "question": "When practitioners at the top of the ladder fight in a city, which devices carry the scale of it?",
+     "context": "FOW Part Eleven: at A-Grade movement alone makes heat and pressure waves, and at S-Grade 'the air itself becomes a weapon'. NATALIE: 'a Band gap changes weather'. R57-24: 'the aftermath is the tell'; R70-11 allows a marked roll call; R13-6 keeps scaling words off the page. One Piece leaves an island half frozen. The archive has never fought in a city.",
+     "options": [
+      {
+       "key": "A",
+       "label": "A report sizes it",
+       "consequence": "A Board or Measurewright report gives the worst exchange its figure in Joules from the card, a diagnostic voice (R13-A), beside the damage in brick and lives.",
+       "sample": "The Board's report on Cooper's Row gave the worst exchange its figure in Joules, taken from the elder practitioner's card, and set beside it the weight of brick that had come down across the river side. The clerk who copied it out for the papers left the Joules off. Nobody on the Row would have known what they were, and everybody knew the Row."
+      },
+      {
+       "key": "B",
+       "label": "One street beat",
+       "consequence": "At a marked break, one commoner in the street gets a line inside her head, then the lock resumes. Scale seen from the ditch, by R70-11's device.",
+       "sample": "On Cooper's Row a woman named Hetty Marsh was at her mangle when the windows came in, every pane at once, and she sat down among the glass with the sheet still in her hands. The street outside was full of a light that threw no shadows. She thought, quite clearly, that the Row was on fire and that the baby was upstairs."
+      },
+      {
+       "key": "C",
+       "label": "The aftermath walk",
+       "consequence": "The scale is shown after, walking the ground (R57-24). The fight stays tight; the ruin tells the size.",
+       "sample": "Morning on Cooper's Row was quiet. The houses on the river side stood with their fronts off, rooms open to the street like a doll's house, a bed hanging half out of an upper floor by one leg. The cobbles had melted and set again in ripples. A Board man walked the length of it with his gauge, and the needle never came off the pin."
+      },
+      {
+       "key": "D",
+       "label": "The bill comes due",
+       "consequence": "Lives and property go on the Ledger and are paid in a later scene, at the Accord's rates. Grimdark cost made into plot.",
+       "sample": "The bill came due at the Guild's quarter-day. Every household on Cooper's Row sent a claimant, the Board sent its assessor, and the elder practitioner's house sent a clerk with a purse and a list. He sat in the cold hall all afternoon paying for windows, roofs, a mangle and a child, at the rates the Accord had fixed for each."
+      }
+     ],
+     "recommended": "B,C,D",
+     "rec_reason": "The ditch, the ruin and the bill show scale without breaking the POV lock or printing scaling words, and they make every top-scale fight cost somebody. A report's Joules add little a commoner's mangle does not say better.",
+     "multi": true,
+     "depends_on": [],
+     "rules_touched": [
+      "R57-24-AFTERMATH_IS_THE_TELL",
+      "R70-11-WIDE_VIEW",
+      "R13-6-SCALING_VOCAB_RESTRICTED",
+      "R54-15-AFTERMATH_PAID_LATER",
+      "R13-A"
+     ]
+    },
+    {
+     "id": "MC20",
+     "title": "Waste light, outside a display",
+     "question": "Outside a display beat, how is the light and heat a working wastes written?",
+     "context": "R9-3: discharge at a display beat 'reads as broken geometry', and 'It glowed' stays banned. R47-8: waste 'radiates as heat at the caster's Shell' and large workings 'can be seen for miles'; the Essence Ledger makes a high-efficiency fighter 'nearly dark'. Real metal glows dull red from about 525 degrees Celsius, the Draper point. Nothing rules the light outside a display.",
+     "options": [
+      {
+       "key": "A",
+       "label": "Heat effects only",
+       "consequence": "No light is written; heat shows only by what it does, shimmer, thaw, steam, scorch. The darkest option, and dull at night.",
+       "sample": "Edric Pell worked at full draw on the night wall, and the dark around him stayed dark. The heat went out of him all the same. Snow slid off the merlons in wet sheets, the air over his head shook so the stars behind it swam, and the stone under his boots began to tick as it warmed. The sentry beside him stepped away to the next embrasure with his face stinging."
+      },
+      {
+       "key": "B",
+       "label": "Incandescent, by physics",
+       "consequence": "Waste hot enough lights what it touches as real hot iron does, red, then orange, then white, written as what it lights; the man never glows. Brightness tracks η, so masters work darker.",
+       "sample": "Edric Pell worked at full draw on the night wall, and his waste lit it. The heat came off his Shell hard enough, close in, to bring the stone under his boots to a dull red, the colour of a horseshoe just pulled from the fire, and the snow on the merlons went straight to steam. The sentry beside him could have read by it. Across the yard an old Master worked the same draw and threw a fainter red."
+      },
+      {
+       "key": "C",
+       "label": "Fracture geometry everywhere",
+       "consequence": "R9-3's broken geometry extends from the display beat to every visible discharge.",
+       "sample": "Edric Pell worked at full draw on the night wall, and the air around him broke. Shard-edged planes of light stood off his shoulders and arms at wrong angles, like a window that has been struck and holds, and the sentry beside him saw the merlons through them bent. The snow under his boots went to slush. The broken light shifted each time he moved."
+      }
+     ],
+     "recommended": "B",
+     "rec_reason": "Real physics on the page, the colour scale every smith knows, and it makes efficiency visible: the novice blazes and the master works nearly dark, which is canon's most frightening image. The glow ban stands, because the light belongs to what it touches.",
+     "multi": false,
+     "depends_on": [],
+     "rules_touched": [
+      "R9-3-AURA_AS_FRACTURE",
+      "R47-8-WASTE_IS_HEAT",
+      "R70-69-PRESSURE_AURA",
+      "R13-3-PHENOMENON_MANDATE"
+     ]
+    },
+    {
+     "id": "MC21",
+     "title": "A summon's display beat",
+     "question": "Does a summon take a display beat of its own, or share its summoner's?",
+     "context": "R70-73 gives each named practitioner one display beat a scene. The Summon Register sorts summons by Crystal Provenance: a Donated construct is a shaped piece of the summoner's own Core on a tether; a Native summon has its own Crystal, is 'graded exactly as a person is' and 'answers by recognition, never by compulsion'. Nothing says whether a summon takes a beat of its own.",
+     "options": [
+      {
+       "key": "A",
+       "label": "Shares the summoner's beat",
+       "consequence": "Every summon's arrival is its summoner's one display beat, and what it does after is written as hers, cost included.",
+       "sample": "Ysolde Marr called, and the yard watched her pay for it. The colour went out of her lips. Frost came up the iron of the gate behind her, and out of the snow-light at the far end the grey elk walked into the yard, and the horses on the line screamed at the smell of it. After that it fought under her, and each blow it struck was counted against her reserve."
+      },
+      {
+       "key": "B",
+       "label": "Native summons earn one",
+       "consequence": "A Native summon, with its own Crystal, takes its own display beat; Donated and Analog forms share the summoner's. Provenance decides, as the Register's doctrine says.",
+       "sample": "Ysolde Marr called, and the grey elk walked out of the snow-light at the far end of the yard on its own business. It had its own Crystal and its own Stage, and its Pressure came ahead of it, frost up the gate iron, the horses on the line screaming. It looked the Mandate officer over the way a bull looks at a fence. Then it lowered the old heavy rack of its antlers, and the yard felt it decide."
+      },
+      {
+       "key": "C",
+       "label": "Any named summon",
+       "consequence": "Every named summon takes its own display beat, construct or creature, so a summoner fielding several may fill a scene with displays.",
+       "sample": "Ysolde Marr called, frost went up the gate iron, and the grey elk walked out of the snow-light. Then she called again. A second thing stood up out of her own shadow, a dog-shaped figure of dark glass struck off her own Core, and it too took the yard's eyes, and the horses on the line screamed at both."
+      }
+     ],
+     "recommended": "B",
+     "rec_reason": "It follows the Register's doctrine that provenance decides everything: a creature with its own Crystal is a someone and gets its moment, while a piece of the summoner's own Core shares hers. It also caps display beats without a new count.",
+     "multi": false,
+     "depends_on": [],
+     "rules_touched": [
+      "R70-73-MANY_DISPLAY_BEATS_PER",
+      "R10-3-PROJECTED_FORM_LICENSE",
+      "R10-3-CRAFT_DURABILITY_TABLE",
+      "R48-35-USES"
+     ]
+    },
+    {
+     "id": "MC22",
+     "title": "Shot meets a worked cuirass",
+     "question": "When a ball strikes a worked cuirass and the working stops it, what does the page show?",
+     "context": "R13-C: 'The working stops shot against a worked cuirass, not the steel', and R53-05 lets narration 'state the cause of any penetration outright'. The Combat Guide's §4.6 lists four inscriptions, Mending Arrays, Weight Ablation Glyphs, Impact Damping Seals and Aether Plate, each with its own overuse tell. No archived scene has fired a gun.",
+     "options": [
+      {
+       "key": "A",
+       "label": "By inscription, read on plate",
+       "consequence": "Each inscription stops shot its own way and leaves its own mark from §4.6, so the shooter can read which working he faces and which round to bring next.",
+       "sample": "The ball took the Shirogane retainer square on the breastplate and stopped there, and the Hallenfeld courier, who had seen it done before, watched what the plate did with it. The steel did not dent. A ring went out through the man's harness and up into his teeth, and for half a breath his eyes lagged behind his head as he turned. Impact seals, the courier thought, and felt in his pouch for the proofed round."
+      },
+      {
+       "key": "B",
+       "label": "One look for all",
+       "consequence": "Every worked cuirass stops shot the same way on the page, the ball flattening and the seal showing heat or frost; the inscription's kind lives in the notes.",
+       "sample": "The ball took the Shirogane retainer square on the breastplate and flattened there like a coin of lead, and a breath of frost came up out of the seal over his heart and was gone. He did not stagger. The Hallenfeld courier had seen worked plate before and had never learned to tell one kind from another. He broke the pistol to load again."
+      },
+      {
+       "key": "C",
+       "label": "The working visibly pays",
+       "consequence": "Each ball stopped spends the inscription where the shooter can see it, and enough balls exhaust it. A counter by volume; the depletion rate needs your figure.",
+       "sample": "The ball took the Shirogane retainer square on the breastplate and stopped, and the seal over his heart went down by a shade, as a lamp goes down when the oil runs low. The Hallenfeld courier saw it. He had a pouch of balls and a sergeant's patience, and he thought the seal could only go down so many times, and he meant to find out how many."
+      }
+     ],
+     "recommended": "A",
+     "rec_reason": "The reader and the shooter learn the working from what it does, which is your findable counter, and every mark comes from §4.6 rather than new canon. It tests R13-C on the page for the first time.",
+     "multi": false,
+     "depends_on": [],
+     "rules_touched": [
+      "R13-C",
+      "R53-05-PROOF_PLATE",
+      "R46-3-ARMOUR_TIER_IS_ITS_PROOF",
+      "R45-5-PAID_PER_SHOT_AND_FINDABLE",
+      "R47-3-COUNTERS_AS_FACTS"
+     ]
+    }
+   ]
+  }
+ ],
+ "settled": [
+  {
+   "point": "Pressure shows in the room first, then in bodies; no visible coloured aura",
+   "rule_ids": [
+    "R70-69-PRESSURE_AURA",
+    "R9-3-AURA_AS_FRACTURE"
+   ],
+   "why_not_asked": "MY2 ruled it on 2026-10-03, and 'It glowed' stays banned. MC20 asks only how waste light reads outside a display beat."
+  },
+  {
+   "point": "Killing intent as aimed Pressure through Dominion, answered by suppression",
+   "rule_ids": [
+    "R70-70-INTENT_FELT_BODY"
+   ],
+   "why_not_asked": "MY3 ruled the shape. Only its owed mechanism is asked, in MC14."
+  },
+  {
+   "point": "Rules planted before the fight; self-derived techniques read live",
+   "rule_ids": [
+    "R70-71-EXPLAINING_WORKING_MID_FIGHT",
+    "R12-3-NAMED_INVENTOR_RULE"
+   ],
+   "why_not_asked": "MY4 ruled it. MC4 asks only whether a rule may act unexplained before it is told."
+  },
+  {
+   "point": "The crowd's spoken chorus at a reveal; one display beat per named practitioner; numbered forms; numbered rites; the world's law stated; the Crystal as inner map",
+   "rule_ids": [
+    "R70-72-WATCHING_CROWD_POWER_REVEAL",
+    "R70-73-MANY_DISPLAY_BEATS_PER",
+    "R70-74-TECHNIQUE_NAME_LOOKS",
+    "R70-75-RITE_PAGE",
+    "R70-76-MUCH_WORLD_MAGIC",
+    "R70-68-INSIDE_PRACTICE"
+   ],
+   "why_not_asked": "MY1 and MY5 to MY9 ruled them. MC21 asks only whether a summon counts for a display beat of its own."
+  },
+  {
+   "point": "Readouts inside a fight: appraisal, wound and Essence spent; three a scene, two a turn; body first; no running figures; breakthrough line after the crisis",
+   "rule_ids": [
+    "R70-85-SCENE_MOMENTS_THAT_EARN",
+    "R70-86-MANY_READOUTS_SCENE_CARRIES",
+    "R70-88-NUMBERS_INSIDE_FIGHT",
+    "R70-89-BODY_FIRST_NUMBER_FIRST",
+    "R70-91-BREAKTHROUGH_PAGE"
+   ],
+   "why_not_asked": "LR8, LR11, LR12 and LR23 ruled them. MC7 asks what shows between the lines, never a running count."
+  },
+  {
+   "point": "The release itself: an optional imperative call that costs a beat and buys output; nobody translates his own technique; new names for new arts only",
+   "rule_ids": [
+    "R8-24-RELEASE_MECHANIC",
+    "R8-26-NO_SELF_TRANSLATION",
+    "R8-25-ESCALATION_SUFFIX"
+   ],
+   "why_not_asked": "Live and uncontested. Only the release count is open (C-159), asked in MC3."
+  },
+  {
+   "point": "Chants in the practitioner's own tongue; Chantcraft as the fifth craft; the anchor gate at Refraction",
+   "rule_ids": [
+    "R50-26-CHANT_TONGUE",
+    "R51-28-CHANT_PAGE",
+    "R20C-35-CHANT_IN_OWN_LANGUAGE",
+    "R20C-41-CHANTCRAFT_FIFTH_CRAFT",
+    "R20C-42-LAW_V_STAGE_GATE_REFRACTION"
+   ],
+   "why_not_asked": "Ruled. Housekeeping: NATALIE.md still calls Chantcraft 'a delivery of Spellcraft, not a fifth craft', against the live R20C-41."
+  },
+  {
+   "point": "No consumable refills a reserve; a practitioner always knows what he has left; the hard reserve clock and the six-second turn",
+   "rule_ids": [
+    "R2-6-REPLENISHMENT_RULE",
+    "R2-6-MAGAZINE_RULE",
+    "R61-101-NO_DRAFT_REFILLS_RESERVE",
+    "R60-03-HARD_RESERVE_CLOCK",
+    "R47-11-TIME_AND_ENERGY"
+   ],
+   "why_not_asked": "Ruled and live. MC9 asks only whether Crisis Recovery, which canon already has, may decide a fight."
+  },
+  {
+   "point": "Healing costs more than breaking; real healing times; death is permanent",
+   "rule_ids": [
+    "R47-11-TIME_AND_ENERGY",
+    "R60-02-REAL_HEALING_TIMES",
+    "R60-04-DEATH_IS_PERMANENT"
+   ],
+   "why_not_asked": "Ruled. MC10 asks only whether Vitalia may work inside an exchange."
+  },
+  {
+   "point": "Substance costs are permanent; Overchannel damage accumulates; waste leaves as heat",
+   "rule_ids": [
+    "R55-1-SUBSTANCE_COSTS_PERMANENT",
+    "R55-2-OVERCHANNEL_DAMAGE_ACCUMULATES",
+    "R47-8-WASTE_IS_HEAT"
+   ],
+   "why_not_asked": "Ruled. MC8 asks when the damage shows; MC20 how the waste light reads."
+  },
+  {
+   "point": "Counters mandatory, derived from the mechanism, stated as facts; workings inherit their Wellsprings' failures",
+   "rule_ids": [
+    "R17-3-COUNTER_MANDATORY",
+    "R12-3-COUNTER_MANDATORY",
+    "R47-3-COUNTERS_AS_FACTS",
+    "R47-9-INHERITED_FAILURES"
+   ],
+   "why_not_asked": "Ruled. MC5 asks only whether a Family chart sits above them."
+  },
+  {
+   "point": "Two explaining voices per engagement; readouts outside the cap",
+   "rule_ids": [
+    "R12-4-VOICE_MIXING_RULE",
+    "R70-87-READOUTS_TWO_VOICE_CAP"
+   ],
+   "why_not_asked": "Ruled. Every option in this section keeps inside the cap."
+  },
+  {
+   "point": "Harmonic immunity at the caster's Stage or higher; area workings spare allies only while attention holds",
+   "rule_ids": [
+    "R55-7-HARMONIC_IMMUNITY_BY_STAGE",
+    "R55-8-AREA_FRIEND_FOE_BY_ATTENTION"
+   ],
+   "why_not_asked": "Ruled. MC13 builds on R55-8 for allies."
+  },
+  {
+   "point": "Resonant Pairs may be named in diagnostic voice",
+   "rule_ids": [
+    "R20C-33-RESONANT_PAIRS_DIAGNOSTIC"
+   ],
+   "why_not_asked": "Ruled. MC12 asks only whether strain can switch a Pair on mid-fight."
+  },
+  {
+   "point": "Domains break a formation and the rout kills",
+   "rule_ids": [
+    "R2-6-DOMAINS_BREAK_NOT_KILL"
+   ],
+   "why_not_asked": "Ruled for battles. MC17 and MC18 ask the duel, which no rule covers."
+  },
+  {
+   "point": "Anime system grammar never reaches the page as vocabulary",
+   "rule_ids": [
+    "R13-6-ANIME_GRAMMAR_TRANSLATION_AID"
+   ],
+   "why_not_asked": "Ruled. Every option in this section borrows a shape (release, Domain clash, vow) and names it in WOTR's words."
+  },
+  {
+   "point": "Shot against practitioners and plate: the working stops shot on a worked cuirass; narration may state the cause of a penetration; dodge by Speed Grade, survive by Resilience; enhanced rounds paid per shot and findable; armour's Tier is its proof",
+   "rule_ids": [
+    "R13-C",
+    "R53-05-PROOF_PLATE",
+    "R45-1-SPEED_DECIDES_THE_DODGE",
+    "R45-5-PAID_PER_SHOT_AND_FINDABLE",
+    "R46-3-ARMOUR_TIER_IS_ITS_PROOF"
+   ],
+   "why_not_asked": "Ruled; C-001 is closed by R53-05. MC22 asks only how a worked cuirass's stop reads. Housekeeping: NATALIE.md and the Combat Guide's §2 and §4.4 still carry the superseded R20C-26 and the old firearm ban."
+  },
+  {
+   "point": "Projected shapes for workings, their durability set by the delivering craft",
+   "rule_ids": [
+    "R10-3-PROJECTED_FORM_LICENSE",
+    "R10-3-CRAFT_DURABILITY_TABLE"
+   ],
+   "why_not_asked": "Ruled and untouched by R70-69."
+  },
+  {
+   "point": "Never invent a number; every outcome traces to a §7 row",
+   "rule_ids": [
+    "R12-5-NEVER_INVENT_NUMBER",
+    "R14-3-TRACEABILITY",
+    "R13-8-RECONSTRUCTIBLE_ADJUDICATION"
+   ],
+   "why_not_asked": "Absolute. Every option that needs a figure (MC2, MC6, MC14, MC22) leaves it to you, card by card."
+  },
+  {
+   "point": "Each side invents its own uses; Isaac's characters are never voiced for him",
+   "rule_ids": [
+    "R48-35-USES",
+    "R49-01-WHOSE_HEAD"
+   ],
+   "why_not_asked": "Ruled. No sample uses Isaac's PC or another creator's character."
+  }
+ ]
+}

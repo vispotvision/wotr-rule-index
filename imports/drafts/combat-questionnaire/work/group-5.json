@@ -1,0 +1,863 @@
+{
+ "sections": [
+  {
+   "key": "WT",
+   "title": "WOTR things in a fight",
+   "intro": "What WOTR's own apparatus does when a fight reaches it: item cards and names, proof and shot, wards, Wells, contracts and the rail, then the bill, the roll and the law afterwards. Each question asks only what live law and the other groups leave open.",
+   "questions": [
+    {
+     "id": "WT1",
+     "title": "The item card in a fight",
+     "question": "When a weapon or a round is first appraised while a fight is running, where does its item card go?",
+     "context": "R70-95 gives an item one set-off card (a block printed apart from the prose) 'at purchase or appraisal', never reprinted. R70-80 keeps set-off blocks to milestones, R70-86 caps readouts at three a scene, and R70-48 keeps a notable object's Tier and price off 'unless asked'. Whether a card may sit between exchanges, or counts as one of the three, is unsettled.",
+     "options": [
+      {
+       "key": "A",
+       "label": "Card before the bell",
+       "consequence": "The card prints only at the arming table, the weigh-in or the counter. Mid-fight the item shows as behaviour. verify_scene warns on a set-off card between the first exchange and the aftermath.",
+       "sample": "Corran raised the revolver from the far chalk line, and Sallow knew what was in it, because she had read the clerk's card at the arming table an hour before: enhanced shot, Proofed, an Apprentice's hand, bought by the pouch. The round left the muzzle faster than its powder could have pushed it. It went past her ear with a sound of canvas tearing. The snow behind her stood up in a white spurt."
+      },
+      {
+       "key": "B",
+       "label": "Card at the read",
+       "consequence": "A Measurewright's or Harmonist's appraisal mid-fight may set the card off, and it counts as one of the scene's three readouts. verify_scene counts it against R70-86's cap.",
+       "sample": "Corran raised the revolver from the far chalk line. At the rail the Measurewright put her coil to the rope and read the cylinder before his elbow locked.\n\n> ENHANCED SHOT · Probatum · Proofed · Grade D\n> A hand at Apprentice standing, Hallenfeld proof-house. 2 to 4 silver the round.\n> Sold by the pouch to men who expect to need it.\n\nThe round went past Sallow's ear with a sound of canvas tearing, and the snow behind her stood up in a white spurt. She had not moved at all."
+      },
+      {
+       "key": "C",
+       "label": "Tier named, card after",
+       "consequence": "Mid-fight a trained eye names the Tier inline, by name alone (R70-82). The full card waits for the counter or the aftermath. No set-off block between exchanges; verify_scene warns on one.",
+       "sample": "Corran raised the revolver from the far chalk line. At the rail the Measurewright had her coil on the cylinder before his elbow locked, and said one word to her clerk, loud enough for the walk to hear: \"Proofed.\" Enhanced, then, and an Apprentice's hand at least. Sallow moved on the word. The round went past her ear with a sound of canvas tearing. The clerk wrote the word down for the card the Measurewright would sign after."
+      }
+     ],
+     "recommended": "C",
+     "rec_reason": "Blocks stay rare enough to land (R70-80) and the exchange stays traced and lean (R70-57), while the Tier name gives the LitRPG reader the appraisal you chose (R70-85) at the speed of the shot; the card lands once, where it can be read.",
+     "multi": false,
+     "depends_on": [],
+     "rules_touched": [
+      "R70-95-ITEM_CARDS",
+      "R70-80-READOUT_SITS_PAGE",
+      "R70-86-MANY_READOUTS_SCENE_CARRIES",
+      "R70-85-SCENE_MOMENTS_THAT_EARN",
+      "R70-82-NUMERALS_LADDER_RUNGS",
+      "R70-48-MONEY_PRICE_PROVENANCE"
+     ]
+    },
+    {
+     "id": "WT2",
+     "title": "Weapon names in a fight",
+     "question": "When a weapon with a true name and a soldiers' folk name is used in a fight, which name does the narration use?",
+     "context": "R70-128 lets weapons take soldiers' folk names beside their true names: 'the true name in the maker's tongue stays grave, and the folk name may joke.' R50-13 sets a culture's names side by side, which a fight has no room for. R70-129 lets only the close POV notice a name's joke.",
+     "options": [
+      {
+       "key": "A",
+       "label": "The POV's own name",
+       "consequence": "Narration uses whatever the POV calls it: a Kharven rider's folk name, a Moto retainer's true name. It matches R70-100's rule for moves. Other names wait for a card or the aftermath.",
+       "sample": "The Shirogane man drew on the third step, and the Long Spoon came out of its lacquer with a dry whisper, longer than any blade had a right to be in a yard that size. The riders had named it his first winter at the Seat, because it always reached the pot before anyone else's hand. Brann kept his eyes on the hands. The point came for his throat from a reach he had not believed."
+      },
+      {
+       "key": "B",
+       "label": "True name, then folk",
+       "consequence": "The true name lands once, at the weapon's first display, glossed if the POV knows the tongue. After that narration takes the folk name or the plain kind ('the blade') for the rest of the fight.",
+       "sample": "The Shirogane man drew on the third step, and Shimobashira came out of its lacquer with a dry whisper: needle ice, in his house's tongue, the frost that lifts a road from underneath. Brann had heard the name said once at a door. He had hoped never to hear it again. After that it was the Long Spoon, the riders' name for it. The Long Spoon came for his throat from a reach he had not believed."
+      },
+      {
+       "key": "C",
+       "label": "Plain kind in narration",
+       "consequence": "Narration says 'the sword' or 'the maul'. True and folk names live only in mouths, so every name on the page is somebody's claim about the weapon.",
+       "sample": "The Shirogane man drew on the third step. The sword came out of its lacquer with a dry whisper, longer than any blade had a right to be in a yard that size. \"Shimobashira,\" somebody said behind the woodpile, the way men name a dog that has bitten. Somebody else called it the Long Spoon. Two riders laughed. Brann kept his eyes on the hands. The point came for his throat from a reach he had not believed."
+      }
+     ],
+     "recommended": "A",
+     "rec_reason": "It is the rule you already chose for moves (R70-100): the fight is told in the words the POV fights in, so a Kharven fight sounds Kharven and a Moto fight sounds Moto, and the folk joke lands only where R70-129 lets it.",
+     "multi": false,
+     "depends_on": [],
+     "rules_touched": [
+      "R70-128-PLACES_INNS_SHIPS_GEAR",
+      "R50-13-ITEM_NAMES",
+      "R70-129-NOTICES_JOKE",
+      "R70-100-MARTIAL_VOCABULARY_NAMES_MOVES"
+     ]
+    },
+    {
+     "id": "WT3",
+     "title": "Armour sums on the page",
+     "question": "When a strike meets armour with a Tier, how does the page show the threshold?",
+     "context": "R46-3: 'A strike one Tier above the proof breaks it; a strike two Tiers above passes as if it were not there.' R53-05 lets narration state the cause of any penetration, and R70-88 lets the read name Grades 'before or between exchanges'. The proof-mark is the armourer's stamp certifying what the plate stops. Whether Tier names appear at a hit is unruled; WT13 asks whether kind or Tier decides.",
+     "options": [
+      {
+       "key": "A",
+       "label": "The steel tells it",
+       "consequence": "No Tier words at the hit: the steel holds, breaks or passes, and one causal sentence states which working gave (R53-05). Tier names stay on cards and in the notes. Closest to current practice.",
+       "sample": "The raider came in behind his cuirass, trusting it, and Sallow cut across the breast where the stamp sat. The working in her edge was the stronger of the two, and the plate's own working gave under it first, so the steel lost the help it had been forged to have. The breastplate split along the stamp in a bright crooked line. Her edge stopped in the padding beneath. He went down onto the frozen ruts with both hands on the crack."
+      },
+      {
+       "key": "B",
+       "label": "The read names the sum",
+       "consequence": "A trained POV names both Tiers in her read before the exchange (R70-88), then the steel shows the sum. Untrained POVs fall back to A. The reader checks every penetration against R46-3.",
+       "sample": "The raider came in behind his cuirass, trusting it, and Sallow read the stamp while he was still two strides out: Proofed, a common house's bar, against her own Tempered edge. One Tier over. It would break, and it would stop her short. She cut across the breast where the stamp sat. The breastplate split along it in a bright crooked line, and her edge stopped in the padding beneath. He went down onto the frozen ruts with both hands on the crack."
+      },
+      {
+       "key": "C",
+       "label": "The mark, read before",
+       "consequence": "The proof-mark is read on the page before the fight (stamp, house, test), so at the hit only the steel shows and the reader does the sum. Nothing for verify_scene to check.",
+       "sample": "She had read his stamp at the inn the night before, over his shoulder while he drank: Proofed, a common house's bar. Now the raider came in behind his cuirass, trusting it, and Sallow cut across the breast where that stamp sat. The breastplate split along it in a bright crooked line. Her edge stopped in the padding. He went down onto the frozen ruts with both hands on the crack, breathing through his teeth."
+      }
+     ],
+     "recommended": "B",
+     "rec_reason": "It puts R46-3's arithmetic where the reader can check the call (R13-8), the way Unbound's characters talk numbers, at the moment R70-88 allows; plain steel stays for any POV who could not know.",
+     "multi": false,
+     "depends_on": [],
+     "rules_touched": [
+      "R46-3-ARMOUR_TIER_IS_ITS_PROOF",
+      "R53-05-PROOF_PLATE",
+      "R70-88-NUMBERS_INSIDE_FIGHT",
+      "R11-3-PROOF_MARKS_CANON",
+      "R13-8-RECONSTRUCTIBLE_ADJUDICATION"
+     ]
+    },
+    {
+     "id": "WT4",
+     "title": "Proofed shot against proofed plate",
+     "question": "Does a proofed round beat proofed plate of the same Tier, and on which ladder?",
+     "context": "Pack Eleven's ammunition tiers (R11-3-AMMO_TIERS, ratified by R20C-22) say proofed shot 'Defeats proofed plate', and your 2026-09-12 R13-C ruling has it win by out-coupling (pulling loose) the plate's working. R46-3 later put armour on the item ladder, where 'Proofed' is also Tier 2's name and a same-Tier strike holds. This reopens R11-3-AMMO_TIERS.",
+     "options": [
+      {
+       "key": "A",
+       "label": "One ladder, no exception",
+       "consequence": "Every round carries an item Tier and R46-3 decides it: same Tier holds, one over breaks, two over passes. Proofed shot no longer beats proofed plate; R11-3-AMMO_TIERS and the price table's note are amended.",
+       "sample": "Corran fired from the length of the yard. The proofed round struck the raider's breastplate square on the stamp and stopped there, a flattened grey coin in a dish of bright steel. The plate's working had taken it whole. The man went back a step and sat in the snow with his mouth open, because a cuirass that holds still hands its blow to the ribs behind it."
+      },
+      {
+       "key": "B",
+       "label": "Out-coupling stands apart",
+       "consequence": "Proofed shot beats proofed plate by out-coupling, outside the ladder; R46-3 governs blades and workings. Two rules side by side, and 'proofed' keeps both meanings.",
+       "sample": "Corran fired from the length of the yard. The proofed round struck the raider's breastplate square on the stamp, and the plate's working came away from the steel under it, pulled loose by the working in the lead, so for an instant the cuirass was only iron. The ball went through iron as a ball does. The raider sat down in the snow with a hole under his collarbone and a look of grievance."
+      },
+      {
+       "key": "C",
+       "label": "Out-coupling counts one Tier",
+       "consequence": "Against worked armour a proofed round strikes as one Tier higher: proofed shot breaks proofed plate, a round two over passes, and the named round is simply two over. One ladder, R13-C kept.",
+       "sample": "Corran fired from the length of the yard. The proofed round struck the raider's breastplate square on the stamp, and its working dragged the plate's working off the steel, which in the trade is worth a Tier. The cuirass broke along the stamp in a star. The ball spent itself in the breaking and went no deeper than the rib beneath. The raider sat down in the snow, both hands on the star, and could not get his breath."
+      }
+     ],
+     "recommended": "C",
+     "rec_reason": "It keeps your 09-12 ruling and the trade's promise that proofed shot beats proofed plate, puts every hit on R46-3's one ladder so the reader can do the sum, and gives the named round a plain meaning.",
+     "multi": false,
+     "depends_on": [],
+     "rules_touched": [
+      "R11-3-AMMO_TIERS",
+      "R13-C",
+      "R46-3-ARMOUR_TIER_IS_ITS_PROOF",
+      "R20C-22-AMMUNITION_TIERS_RATIFIED",
+      "R53-07-PRICE_TABLE"
+     ]
+    },
+    {
+     "id": "WT5",
+     "title": "The stale pouch",
+     "question": "When enhanced shot has gone stale, how may that reach a fight?",
+     "context": "An enhanced round carries its maker's Duration and goes stale (R45-5), and the approved price table adds that 'a stale pouch is a loss nobody refunds.' A Harmonist (a reader of workings) can read one untouched. R48-30 allows a big surprise only after foreshadowing 'a player could have caught'. Whether a stale round may fail mid-fight, and what counts as its warning, is unruled.",
+     "options": [
+      {
+       "key": "A",
+       "label": "The Ledger date warns",
+       "consequence": "A stale round fails as plain shot with no plant on the page; the pouch's date on the Ledger is R48-30's warning. Cruel, and fair only to a player who reads the Ledger.",
+       "sample": "The bright one came up the shaft on the lamp line, and Quarrell put the carbine to her shoulder and fired the first round from the pouch. The ball took the moth through the root of the near wing. It should have folded it. It went through the way a plain ball goes through felt, and the wing threw the lamp back at her as a single point, and the world went white."
+      },
+      {
+       "key": "B",
+       "label": "Fails on a planted tell",
+       "consequence": "A stale round may fail mid-fight only if the page showed its date earlier: the stamp on the pouch, a Harmonist's word, a re-read put off. The failure is then the fight's fair surprise.",
+       "sample": "The bright one came up the shaft on the lamp line, and Quarrell fired the first round from the pouch. It was the pouch with the clerk's date on its flap, the one she had looked at twice that morning and decided to trust. The ball took the moth through the root of the near wing and went through it the way a plain ball goes through felt. The wing threw the lamp back at her as a single point. The world went white."
+      },
+      {
+       "key": "C",
+       "label": "Settled at the counter",
+       "consequence": "Staleness is found before any fight, when the pouch is read or its date checked. A stale pouch is a money scene and a Ledger loss, never a turn inside a fight.",
+       "sample": "The bright one came up the shaft on the lamp line, and Quarrell fired from the new pouch. The old one sat on the guardhouse shelf with the clerk's chalk across it, read stale at the counter that week and docked from her wages. The ball took the moth through the root of the near wing. The wing folded. It came down the shaft in a slow spiral of pale fur, and she lowered the carbine and found her hands were steady."
+      }
+     ],
+     "recommended": "B",
+     "rec_reason": "It keeps the Draw Age's shelf-life money inside the fight, where it hurts, and the warning sits on the page a book reader holds, so the failure is fair to the reader as well as the table.",
+     "multi": false,
+     "depends_on": [],
+     "rules_touched": [
+      "R45-5-PAID_PER_SHOT_AND_FINDABLE",
+      "R48-30-SURPRISES",
+      "R53-04-ENHANCED_SHOT",
+      "R53-07-PRICE_TABLE"
+     ]
+    },
+    {
+     "id": "WT6",
+     "title": "A ward breaking",
+     "question": "When a fight breaks a ward, such as a Ketsuen gate post or a death-house wall, how is the breaking written?",
+     "context": "A ward is Runecraft (a cut inscription) on a substrate, beaten by damage, or by 'somebody who knows which layer to scrape' (Counterplay). R70-76 keeps full mechanism for people's workings; R53-05 lets narration state a penetration's cause. Ketsuen wards advertise nothing, and the Authorization layer (the glyph role that warrants the working) fails first. Who names the failing layer, and when, is unruled.",
+     "options": [
+      {
+       "key": "A",
+       "label": "Named by layer",
+       "consequence": "Narration names the glyph role that failed (Authorization, Boundary, Direction, Sealing) whoever the POV, as R53-05 lets it state a penetration's cause. The counter is readable on every page.",
+       "sample": "The courier woke to a sound like someone cleaning a pot, out by the gate. A man was at the gate post with a cold chisel, working the Authorization layer, the outer face that warrants every course cut beneath it. As the warrant thinned, the Boundary under it ran loose with nothing to answer to. The walls had been humming all night. They stopped. The press at his temples lifted with them, and that frightened him more."
+      },
+      {
+       "key": "B",
+       "label": "Shown by what stops",
+       "consequence": "Inside the fight the page shows only what goes: the hum, the press at the temples, the sap. The layer is named in the aftermath, by whoever knows.",
+       "sample": "The courier woke to a sound like someone cleaning a pot, out by the gate. Then the station went quiet. The walls had been humming all night and he had not known it until they stopped, and the press at his temples lifted all at once, which frightened him more. Across the room the carver was already up, one hand flat on the cedar, saying nothing. She took the mallet and went out into the dark."
+      },
+      {
+       "key": "C",
+       "label": "By who is looking",
+       "consequence": "A POV inside the craft names the layer as it goes; any other POV gets only what stops, and hears the layer named in a mouth. Keyed to the POV, as R70-100's school words are.",
+       "sample": "The courier woke to a sound like someone cleaning a pot, out by the gate. Then the station went quiet. The walls had been humming all night and he had not known it until they stopped, and the press at his temples was gone, which frightened him more. Across the room the carver was already up, one hand flat on the cedar. \"Authorization,\" she said. \"He's on the outer face.\" She went out with the mallet."
+      }
+     ],
+     "recommended": "C",
+     "rec_reason": "It keeps the counter readable when the POV could read it and lets Ketsuen's silent wards stay frightening to everyone else, on the same POV key R70-100 uses for moves; the cause still reaches the page through a voice (R12-4).",
+     "multi": false,
+     "depends_on": [],
+     "rules_touched": [
+      "R70-76-MUCH_WORLD_MAGIC",
+      "R53-05-PROOF_PLATE",
+      "R12-4-VOICE_ONE_POV",
+      "R70-100-MARTIAL_VOCABULARY_NAMES_MOVES"
+     ]
+    },
+    {
+     "id": "WT7",
+     "title": "The Well as ground",
+     "question": "When a fight happens at a Well, what does the page owe the place itself?",
+     "context": "R11-4-DESCENT_PROSE_LAW sets a descent's opening in the body and makes ignorance 'the ambient condition'; canon's density law shrinks every practitioner's reach as the ground thickens, to almost nothing at Core. The Bestiary says the unawakened are often the answer, and pays porters 'quietly'. FT6 asks the shape of a beast fight; this asks what the place itself adds.",
+     "options": [
+      {
+       "key": "A",
+       "label": "Reach written to rung",
+       "consequence": "Before contact a gauge or a practitioner's feel names the density rung (Ambient Saturation through Core), and every reach in the fight is written to it. Adds reach beside §7's draw-cost row.",
+       "sample": "The gauge on Sloe's belt had its needle hard in the Core band before the black water reached his knees, and he read it aloud for the porters' sake: the densest ground there was. Down here his workings would reach no further than his own skin. Ahead, the water in the gallery shivered along a ribbed line. The line turned toward him, and he stood and let it come, because there was nothing at this depth he could throw."
+      },
+      {
+       "key": "B",
+       "label": "The unawakened in it",
+       "consequence": "Porters, lamp-men and timber crews are in every Well fight as people who can win it: no Shell (the layer a working fires through) to fire, no reserve to drain. Each gets a want and a line.",
+       "sample": "The leeches went to Sloe and left the porters alone, because the porters had nothing in them a leech could want. Wenna Hobb, who carried the tent poles and had no reserve to lose, waded in past him to the thigh and began picking them off his legs with her bare fingers into a bucket, swearing steadily at the Guild, the Well and him, in that order and then again. Sloe let her."
+      },
+      {
+       "key": "C",
+       "label": "The register stays tidy",
+       "consequence": "The fight ends at the clearance register (the Guild's book of who cleared a gallery): who is entered, and who was paid quietly to do it. A Ledger line and a lie.",
+       "sample": "Wenna Hobb waded in past him and began picking the leeches off his legs into a bucket, and Sloe, watching her, was already counting what he would put in her hand below the counter. The clerk at the shaft head would enter the east gallery as cleared by Garric Sloe, practitioner. Nobody would write her name. The Guild's register of who cleared a gallery had always been tidy, and he had paid to keep it so before."
+      }
+     ],
+     "recommended": "A,B",
+     "rec_reason": "Writing reach to the rung puts canon's density law where the reader can check every working, and the unawakened are the fair answer the Bestiary already names; the quiet payment is texture WT8's counter scene can carry without a rule.",
+     "multi": true,
+     "depends_on": [
+      "FT6",
+      "CW10"
+     ],
+     "rules_touched": [
+      "R11-4-DESCENT_PROSE_LAW",
+      "R11-4-MAGNITUDE_AXIS",
+      "R53-06-WELL_SPAWN",
+      "R14-3-STATS_DECIDE_TABLE"
+     ]
+    },
+    {
+     "id": "WT8",
+     "title": "Contract fights",
+     "question": "When a fight is a Guild or Crown contract (a bounty, a clearance), what does the contract do to the fight?",
+     "context": "R70-97 makes quests 'Guild and Crown contracts posted with terms, pay and the clearance register' (the Guild's book of who cleared a gallery), every hook with a stated reward and penalty. Canon's Well roads already pay bounties: 'a copper a tail' for a Tinder-fox. Whether a contract's terms shape how a fight may be won, or only start it, is open.",
+     "options": [
+      {
+       "key": "A",
+       "label": "The posting as document",
+       "consequence": "The posting is set on the page at the hook in the Guild's house style (terms, pay, register, penalty), a document voice that plants the rules before the fight (R70-71).",
+       "sample": "The posting had been nailed up at the shaft head in the Guild's hand:\n\n> CLEARANCE · Core Concentration at Ignivale, the east gallery. Vulpes ignita.\n> A copper a tail, tails whole. Entered to the clearing hand only.\n> Gallery uncleared at the thaw: the deposit is forfeit.\n\nNow the fox was in the corner of the east gallery with its coat smoking and its eyes on the lamp, and Tobin Wray had read every word of that posting twice. He kept his hands still."
+      },
+      {
+       "key": "B",
+       "label": "A clause binds the fight",
+       "consequence": "Every contract carries at least one clause limiting how it may be won (alive, intact, unwitnessed, before the thaw), with a penalty. The cheapest counter often breaks the clause.",
+       "sample": "The fox was in the corner with its coat smoking, and the easy way hung at Tobin Wray's belt: the bell. One clang would do it. The fox would fire itself, flare its own coat off and lie spent on the stones, and the contract paid a copper a tail, tails whole, and a flared fox had no tail worth the name. He left the bell where it was. He went in with the gloves and the sack, the slow way, while his own temper climbed in him for no reason he could find."
+      },
+      {
+       "key": "C",
+       "label": "Proof at the counter",
+       "consequence": "The job closes at the clerk's counter: the proof the contract asks for, the clerk's dispute, the pay named from the price table. A failed proof is a Ledger debt.",
+       "sample": "Tobin Wray took the fox with the gloves and the sack, the slow way. At the shaft head the clerk laid the tail on her counter and turned it over with the end of her pencil. \"Scorched at the tip,\" she said. \"Whole is whole, Wray.\" She paid him his copper and entered him on the register, and wrote the scorch beside his name, where the next clerk would read it."
+      }
+     ],
+     "recommended": "A,B,C",
+     "rec_reason": "The posted terms are the Draw Age quest window you chose, the clause turns a creature's fair counter into a hard choice, and the counter scene makes money and proof part of the cost.",
+     "multi": true,
+     "depends_on": [],
+     "rules_touched": [
+      "R70-97-QUESTS_CONTRACTS",
+      "R70-71-EXPLAINING_WORKING_MID_FIGHT",
+      "R12-4-VOICE_FOUR_DOCUMENT",
+      "R70-48-MONEY_PRICE_PROVENANCE",
+      "R20C-21-WELL_NAMES_CLASS_MARKED"
+     ]
+    },
+    {
+     "id": "WT9",
+     "title": "Who hears the rail",
+     "question": "At a sanctioned bout, who hears the Measurewright's reading when she takes it at the rail?",
+     "context": "R70-85 makes 'the Measurewright at the rail' an appraisal readout, and R70-87 keeps readouts outside the two-voice cap. Under the POV lock a fighter's page prints only what she can hear or see. Canon's Guild of Measurewrights is 'Dry, adversarial, allergic to flattery.' FT4 asks what ends a bout; this asks who hears the reading.",
+     "options": [
+      {
+       "key": "A",
+       "label": "Called aloud to all",
+       "consequence": "She says the reading as she takes it: both fighters and the benches hear it, the readout reaches a fighter's own page, and a suppressed Stage is exposed in public, with R70-112's bill.",
+       "sample": "Hollis opened with the working he had been saving, and the sand at Ines's feet jumped as if a cart had gone over it. At the rail the Measurewright put her coil to the rope and read the tape aloud, flat as a price at market.\n\n[Hollis Dane. Stage III, Ascension. Journeyman.]\n\nHe had been entered at Welling. The benches heard it. So did Ines, and she shortened her guard before she had finished being angry."
+      },
+      {
+       "key": "B",
+       "label": "To the bout-book only",
+       "consequence": "She enters it without a word. The fighters fight on their own reads, and the readout reaches the page only from a rail-side POV or in the aftermath.",
+       "sample": "Hollis opened with the working he had been saving, and the sand at Ines's feet jumped as if a cart had gone over it. At the rail the Measurewright put her coil to the rope, tore off the tape and wrote in the bout-book without a word. The pen moved, and nothing else did. She had been told Welling. The next cut came a Grade quicker than any Welling boy's, and she learned his Stage with her forearm."
+      },
+      {
+       "key": "C",
+       "label": "Read out at the close",
+       "consequence": "She reads it to the benches when the bout ends, with the result, and it goes on the record (WT11). Inside the bout the fighters read each other; a lie in the book is exposed at the close.",
+       "sample": "Hollis opened with the working he had been saving, and the sand at Ines's feet jumped as if a cart had gone over it. At the rail the Measurewright read her coil and wrote. She said nothing until the bell. Then she stood and read the tape to the benches: Stage III, Ascension, entered at Welling in his own hand. It reached Ines on the floor. She was spitting sand, and the bout was long lost."
+      }
+     ],
+     "recommended": "A",
+     "rec_reason": "It is the only way the fight appraisal you chose (R70-85) reaches a fighter's own page, as the tournament reveals in Naruto and the cultivation novels do before a crowd; and a hidden Stage exposed before the benches is a public reversal with a bill (R70-112).",
+     "multi": false,
+     "depends_on": [],
+     "rules_touched": [
+      "R70-85-SCENE_MOMENTS_THAT_EARN",
+      "R70-87-READOUTS_TWO_VOICE_CAP",
+      "R70-112-FACE_FACE_SLAP",
+      "R12-4-VOICE_ONE_POV",
+      "R70-77-INSTRUMENT_CAN_SHOW"
+     ]
+    },
+    {
+     "id": "WT10",
+     "title": "The bill after a fight",
+     "question": "After a fight, how do its costs (wounds, debts, witnesses) reach the page?",
+     "context": "Table Rule 7 keeps the Ledger (injuries, debts, reputation, who saw what) in Notion. R48-38 owes a full aftermath beat, R70-104 prices a spared rival as 'a debt, a scar, a witness', and R70-98 closes a chapter on a changes block. Whether the narrative Ledger itself reaches the page is unruled; CW12 asks how long the aftermath runs.",
+     "options": [
+      {
+       "key": "A",
+       "label": "Notes only, as now",
+       "consequence": "The aftermath beat is prose. The Ledger lines go to the author notes and Notion; nothing is set off or itemised in the scene. Current practice.",
+       "sample": "The barber in the outer town stitched Sallow's forearm by the blubber lamp with a curved needle and thread waxed in seal fat, and told her she would hold a sabre again by the time the grass came, if she stopped using the arm to point. Corran sat on the bench by the door with his cap in his hands. Neither of them mentioned the raider. Outside, somebody was splitting rounds for the woodpile."
+      },
+      {
+       "key": "B",
+       "label": "A Ledger block at close",
+       "consequence": "The scene closes on a short set-off Ledger block (wounds, debts, witnesses) beside R70-98's changes block. A new set-off occasion under R70-80.",
+       "sample": "The barber stitched Sallow's forearm by the blubber lamp and told her she would hold a sabre again by the time the grass came. Corran sat by the door with his cap in his hands. Neither of them mentioned the raider.\n\n> LEDGER · Sallow: left forearm cut to the muscle, stitched; grip back by the thaw.\n> Debt: Corran owes Sallow a life, unasked.\n> Witnesses: the woodcutter at the stack; the headman's boy."
+      },
+      {
+       "key": "C",
+       "label": "The bill in the world",
+       "consequence": "Each cost arrives as a person or a paper in the aftermath: the fee named from the price table or exactly in kind, the debt spoken, the witnesses counted. The formal Ledger stays in the notes.",
+       "sample": "The barber stitched Sallow's forearm by the blubber lamp and named his price before he tied off: a cup of the skin now, and a day's splitting at his woodpile before the Thin Weeks. Corran paid the cup from his own belt. \"You owe me nothing,\" he told Sallow, which in the north is how a debt is admitted. At the door the headman's boy was counting witnesses on his fingers, aloud, so the Seat would have them by evening: the woodcutter at the stack, and himself."
+      }
+     ],
+     "recommended": "C",
+     "rec_reason": "Money before magic and 'price whenever money moves' (R70-48) already want the bill in the world; the cost lands in a scene instead of a list, and the full Ledger still lives where Natalie reads it.",
+     "multi": false,
+     "depends_on": [],
+     "rules_touched": [
+      "R48-38-AFTERMATH",
+      "R70-104-RIVAL_BOND",
+      "R70-98-SHEETS_CHAPTER_ARC_ENDS",
+      "R70-80-READOUT_SITS_PAGE",
+      "R70-48-MONEY_PRICE_PROVENANCE"
+     ]
+    },
+    {
+     "id": "WT11",
+     "title": "The roll after a public fight",
+     "question": "Does a fight fought before witnesses go on the Reckoner's roll?",
+     "context": "R70-92 confirms a new Stage at a public re-assay 'entered on the Reckoner's roll', the recording office's book of standing. R70-96 lets the Guild enter a commendation and strike its mark on a practitioner's rank token, with 'no stat effect'. Xianxia (Chinese immortal-cultivation fiction) sects rank disciples by public bouts. No WOTR rule records a fight.",
+     "options": [
+      {
+       "key": "A",
+       "label": "Not entered, as now",
+       "consequence": "The roll records re-assays only. A fight lives in reputation, the Ledger and the witnesses' mouths, and can be denied. Current practice.",
+       "sample": "Ketil walked off the hall floor with the courier's blood on his sleeve and the benches on their feet. The Reckoner did not rise. He had nothing to enter: no reading had been asked of him and none had moved. By the time the fire was banked the bout was several stories, and in the one told at the horse lines Ketil had needed only the one hand."
+      },
+      {
+       "key": "B",
+       "label": "Entered as a record",
+       "consequence": "A fight before witnesses is entered: who, where, by what, the outcome, read aloud as written. A public record that can be read back and contested at the next quarrel.",
+       "sample": "Ketil walked off the hall floor with the courier's blood on his sleeve, and the Reckoner rose. A thing done before the hall was stood for. He read it to the benches as he wrote it: the day, the hall, the two names, a sabre against a bare hand, the courier yielded at the woodpile end. Next winter the courier's company would come asking. The roll would answer before anyone else could."
+      },
+      {
+       "key": "C",
+       "label": "Entered, may earn a mark",
+       "consequence": "B, and a notable win may earn a Guild commendation struck on the token (R70-96): the genre's achievement in WOTR's institutions, with legal weight and no stat effect.",
+       "sample": "Ketil walked off the hall floor, and the Reckoner rose and entered it: the day, the hall, the two names, the courier yielded at the woodpile end. Then the Guild's clerk set Ketil's rank token on the block and struck the Guild's small mark into it beside the old one, for a yield taken bare-handed from a blade. Ketil turned it over in the lamplight. It changed nothing he could do. Every rider in the hall knew what it was worth."
+      }
+     ],
+     "recommended": "C",
+     "rec_reason": "A commendation is the LitRPG achievement you already allowed, made legal and social instead of a stat, and an entry gives every public fight a record that can come back to bite.",
+     "multi": false,
+     "depends_on": [],
+     "rules_touched": [
+      "R70-92-CONFIRMING_NEW_STAGE",
+      "R70-96-TITLES_ACHIEVEMENTS"
+     ]
+    },
+    {
+     "id": "WT12",
+     "title": "What the law turns on",
+     "question": "When a fight ends in a death, what does the law that follows turn on?",
+     "context": "R53-11 gives each culture its real-world justice ('labour-debt in Kharven'), R70-45 makes law and punishment an Inventory field, and R60-11 has trace examiners prove a working's crime while guild and crown courts fight over jurisdiction. CW11 asks whether every killing opens its culture's process; this asks what that process turns on. Saga law made an undeclared killing murder.",
+     "options": [
+      {
+       "key": "A",
+       "label": "Proof decides",
+       "consequence": "Law moves only on a witness or a reading inside the residue clocks (R61-7); R60-11's trace proof reaches blade killings too. An unread killing sits on the Ledger as a risk.",
+       "sample": "Nobody had seen it. Tarn had died in the lane behind the horse lines at the dark of the night, and by morning snow had filled the place and the body lay in the death-house with the Waiting sat around it. The Seat had no coil-reader to ask the ground. Corran went about his work, and the brother went about his, and between them the thing sat unpaid while the ground forgot a little of it each day."
+      },
+      {
+       "key": "B",
+       "label": "Standing buys terms",
+       "consequence": "A Guild or company warrant turns a practitioner's killing into a clerk's entry; a commoner's is a rope or a blood-price. Class contempt written as law, layer by layer (R60-19).",
+       "sample": "Corran showed his warrant at the Hallenfeld counter, and the clerk entered the killing as a practitioner's act in the course of carriage, stamped it and blotted it. Corran did not sit down. Tarn's brother, a groom with no token, had no counter to go to. Had he done the same to Corran in the same lane, they would have hanged him from the gate arch before the broth was hot."
+      },
+      {
+       "key": "C",
+       "label": "Courts fight over it",
+       "consequence": "Every practitioner's killing opens a jurisdiction contest between crown, company and guild (R60-19) as a Front, and the killer's fate turns on which layer wins it.",
+       "sample": "By noon two men had come for Corran. Neither would let the other have him. The Seat's steward said the lane was the Crown's ground and the killing the Crown's to try; the Guild's warden said Corran carried a token and had put a working into his knife, and a working was the Guild's. They argued it at the gate, beside the woodpile, while Corran stood between them in the cold with his hands where both could see them."
+      },
+      {
+       "key": "D",
+       "label": "Declare it, or murder",
+       "consequence": "A killer who does not declare before witnesses by the next dawn is a murderer in every culture that keeps witnesses, Kharven and Korvaeth first. The declaration is its own short scene.",
+       "sample": "Corran walked to the Seat's fire before dawn and said it in front of everyone awake: the lane, the knife, the dead man's name as far as he knew it, and that he had done it. The cook stopped stirring. An old rider nodded once. A killing said at the fire was owed in salt and labour; a killing hidden past dawn was owed in a neck, and Corran had chosen which debt to carry."
+      }
+     ],
+     "recommended": "A,C,D",
+     "rec_reason": "Proof gives every killing a fair mechanism a player can work against, the court fight puts R60-11's rivalry to work as a Front, and the declaration is a grimdark scene in itself; a warrant's price can still appear as one court's terms.",
+     "multi": true,
+     "depends_on": [
+      "CW11"
+     ],
+     "rules_touched": [
+      "R53-11-JUSTICE",
+      "R70-45-NEW_STANDING_INVENTORY_FIELDS",
+      "R60-11-TRACE_EVIDENCE_AND_JURISDICTION",
+      "R60-19-LAYERED_RULE",
+      "R61-7-RESIDUES_ON_TWO_CLOCKS"
+     ]
+    }
+   ]
+  },
+  {
+   "key": "ME",
+   "title": "Method",
+   "intro": "How the combat answers become law and get proved: where they land, what verify_scene learns to check, what the sample bank holds, and the order of work.",
+   "questions": [
+    {
+     "id": "ME1",
+     "title": "Where the combat law lands",
+     "question": "How do your combat answers land in the repo?",
+     "context": "Rulings enter through log_ruling as dated rule rows. The Combat Craft Guide (2026-10-03) still quotes three superseded Pack Twenty rows and the old firearm ban; the Item and Equipment Writing Guide (2026-09-12) teaches that ban as live; the Mass Combat Craft Guide has no firearm at all; NATALIE.md keeps a C-001 line R53-05 overturned.",
+     "options": [
+      {
+       "key": "A",
+       "label": "Rule doc only",
+       "consequence": "One dated Combat Law doc through log_ruling, served by load_rules. The guides and NATALIE.md stay as they are until a later pass, stale lines included."
+      },
+      {
+       "key": "B",
+       "label": "Rule doc, Combat Guide",
+       "consequence": "A, plus a new Combat Craft Guide edition that folds the answers and drops the superseded quotes. The Item and Mass Combat guides wait."
+      },
+      {
+       "key": "C",
+       "label": "Rule doc, three guides",
+       "consequence": "A, plus new editions of the Combat Craft, Mass Combat Craft and Item and Equipment Writing guides, and NATALIE.md's stale combat lines rewritten, so nothing still teaches dead law."
+      }
+     ],
+     "recommended": "C",
+     "rec_reason": "It is the answer R70-135 gave the style law, and the Item guide is the one still teaching a firearm ban the law has moved past; Natalie reads the guides every session.",
+     "multi": false,
+     "depends_on": [],
+     "rules_touched": [
+      "R70-135-WHERE_NEW_LAW_LIVES",
+      "R13-9-COMBAT_GUIDE_EDIT",
+      "R53-05-PROOF_PLATE",
+      "R11-3-FIREARM_PROSE_LAW"
+     ]
+    },
+    {
+     "id": "ME2",
+     "title": "Combat checks in verify_scene",
+     "question": "Which combat checks should verify_scene gain with this law?",
+     "context": "verify --combat warns only on school words and anatomy (R70-136). Its percussion list is boxing words (jab, hook, clinch), though the Percussion grammar is hammer and haft. Checks 24 to 26 (causal density, a stated fault, a reserve account) are law under R13-9 and still manual. Nothing counts readouts, display beats or the house's stale fight devices.",
+     "options": [
+      {
+       "key": "A",
+       "label": "Truer school lists",
+       "consequence": "Percussion gets a hammer-and-haft list, boxing becomes its own school, and firearms and Kharven lists are added, so a gunfight or a hall fight is checked in its own words."
+      },
+      {
+       "key": "B",
+       "label": "Readout and beat counts",
+       "consequence": "WARN past three readout lines a scene or two a turn, on two in one exchange, and on a figure carried from one exchange to the next (R70-86, R70-88)."
+      },
+      {
+       "key": "C",
+       "label": "Checks 24 to 26",
+       "consequence": "WARN-level guesses at causal connectives in fight passages, a fault sentence per named technique and a reserve line per working in the notes; the manual read stays."
+      },
+      {
+       "key": "D",
+       "label": "Stale-device watch",
+       "consequence": "WARN past one a scene on the archive's tired fight devices: the default 'eleven', the knock-back furrow, the overdraw nosebleed, 'without deciding to' and 'the particular X of Y'."
+      }
+     ],
+     "recommended": "A,B,D",
+     "rec_reason": "A fixes a list that lets a hammer fight pass with no hammer in it, B makes the new caps mechanical, and D catches the habits the archive survey counted; causal density is a judgement a word count cannot make, so 24 to 26 stay a manual read.",
+     "multi": true,
+     "depends_on": [
+      "FT3"
+     ],
+     "rules_touched": [
+      "R70-136-NEW_CHECKS_VERIFY_SCENE",
+      "R48-45-CHECKS",
+      "R13-9-VERIFY_CHECKS_22_26",
+      "R70-86-MANY_READOUTS_SCENE_CARRIES",
+      "R70-88-NUMBERS_INSIDE_FIGHT"
+     ]
+    },
+    {
+     "id": "ME3",
+     "title": "The combat sample bank",
+     "question": "What should the combat sample bank hold?",
+     "context": "R70-138 built a style sample bank for Kharven, Moto, Accord, the Mahuo and the lineage halls (desktop/style-bank/). The archive survey found no gunfight, no Well hunt and one short battle, and no fight yet carries an appraisal, wound or reserve readout, a declaration or a numbered form. A bank can be cut by culture or by fight type.",
+     "options": [
+      {
+       "key": "A",
+       "label": "A fight per culture",
+       "consequence": "Each of the five style-bank files gains one fight passage in that culture's school words and grammar, loaded with the culture as now."
+      },
+      {
+       "key": "B",
+       "label": "A bank by fight type",
+       "consequence": "One new combat bank: a duel per grammar, a sanctioned bout, a Well hunt, a gunfight closing to blade and a hill-and-ditch battle, each with its notes."
+      },
+      {
+       "key": "C",
+       "label": "Both",
+       "consequence": "A and B: culture passages where Natalie already loads them, and the fight types the archive has never written."
+      }
+     ],
+     "recommended": "C",
+     "rec_reason": "The culture files keep school words where they are loaded, and the type bank fills the gaps the archive survey found; this questionnaire's samples become its first drafts.",
+     "multi": false,
+     "depends_on": [],
+     "rules_touched": [
+      "R70-138-PROOF_ORDER_WORK"
+     ]
+    },
+    {
+     "id": "ME4",
+     "title": "Proof and the order of work",
+     "question": "In what order does the combat work run, and where does the test fight sit?",
+     "context": "R70-138 ran the style law as 'Law, test scene, then bank', amending whatever read wrong. This pass has four outputs besides the rule doc: guide editions (ME1), verify checks (ME2), the bank (ME3) and a test fight. A test fight in a live thread uses NPCs, or leaves your character's moves to you.",
+     "options": [
+      {
+       "key": "A",
+       "label": "Law, test, then the rest",
+       "consequence": "Log the law; run one test fight under the current checks; amend what reads wrong; then the guide editions, the new checks and the bank."
+      },
+      {
+       "key": "B",
+       "label": "Law and checks, then test",
+       "consequence": "Log the law and build the new checks; run the test fight against them; amend; then the guide editions and the bank, written once against proved law."
+      },
+      {
+       "key": "C",
+       "label": "Everything, then test",
+       "consequence": "Law, guides, checks and bank all built first; one test fight then proves the lot, and every amendment touches four places."
+      }
+     ],
+     "recommended": "B",
+     "rec_reason": "The checks are quick to build and make the test fight a real test; the guides and the bank are the slow writing, so they come once, after the law has survived a fight. A Well clearance under contract that closes from shot to blade would exercise most of this section.",
+     "multi": false,
+     "depends_on": [
+      "ME1",
+      "ME2",
+      "ME3"
+     ],
+     "rules_touched": [
+      "R70-138-PROOF_ORDER_WORK"
+     ]
+    }
+   ]
+  }
+ ],
+ "settled": [
+  {
+   "point": "Martial vocabulary from the POV's own school (CB1)",
+   "rule_ids": [
+    "R70-100-MARTIAL_VOCABULARY_NAMES_MOVES"
+   ],
+   "why_not_asked": "Ruled 2026-10-03 in the style questionnaire."
+  },
+  {
+   "point": "Full name-declaration before a duel, at the price of the scene's crafted speech (CB2)",
+   "rule_ids": [
+    "R70-101-DECLARING_NAME_LINE_BEFORE"
+   ],
+   "why_not_asked": "Ruled 2026-10-03."
+  },
+  {
+   "point": "Duel shape follows the four combat grammars (CB3)",
+   "rule_ids": [
+    "R70-102-STILLNESS_TRACED_PASSES_LONG"
+   ],
+   "why_not_asked": "Ruled 2026-10-03; FT18 asks the mixed-grammar duel."
+  },
+  {
+   "point": "One full flashback per fight, POV only (CB4)",
+   "rule_ids": [
+    "R70-103-MEMORY_INSIDE_FIGHT"
+   ],
+   "why_not_asked": "Ruled 2026-10-03."
+  },
+  {
+   "point": "Rivals recur only by a mercy paid for on the Ledger (CB5)",
+   "rule_ids": [
+    "R70-104-RIVAL_BOND"
+   ],
+   "why_not_asked": "Ruled 2026-10-03; WT10 asks only how the bill reaches the page."
+  },
+  {
+   "point": "Killing rites and the elegiac image by culture (CB6)",
+   "rule_ids": [
+    "R70-105-JOINS_WOUND_WHEN_FIGHT"
+   ],
+   "why_not_asked": "Ruled 2026-10-03; WT12 asks the law after a killing, a different thing."
+  },
+  {
+   "point": "Battles cut between the hill and the ditch (CB7)",
+   "rule_ids": [
+    "R70-106-BATTLE_TOLD"
+   ],
+   "why_not_asked": "Ruled 2026-10-03."
+  },
+  {
+   "point": "MY1 to MY9: the Crystal as inner map, Pressure through the room first, intent as aimed Pressure, rules shown before the fight, the crowd chorus, one display beat per practitioner, numbered rites, the world's law stated, technique name forms",
+   "rule_ids": [
+    "R70-68-INSIDE_PRACTICE",
+    "R70-69-PRESSURE_AURA",
+    "R70-70-INTENT_FELT_BODY",
+    "R70-71-EXPLAINING_WORKING_MID_FIGHT",
+    "R70-72-WATCHING_CROWD_POWER_REVEAL",
+    "R70-73-MANY_DISPLAY_BEATS_PER",
+    "R70-74-TECHNIQUE_NAME_LOOKS",
+    "R70-75-RITE_PAGE",
+    "R70-76-MUCH_WORLD_MAGIC"
+   ],
+   "why_not_asked": "Ruled 2026-10-03; the killing-intent mechanism R70-70 owes is MC14's question."
+  },
+  {
+   "point": "In-scene readouts only at appraisal, a wound or Essence spent; Grades at the read with no running figures; body, then number; breakthrough in the crisis, line after (LR8, LR11, LR12, LR23)",
+   "rule_ids": [
+    "R70-85-SCENE_MOMENTS_THAT_EARN",
+    "R70-88-NUMBERS_INSIDE_FIGHT",
+    "R70-89-BODY_FIRST_NUMBER_FIRST",
+    "R70-91-BREAKTHROUGH_PAGE"
+   ],
+   "why_not_asked": "Ruled 2026-10-03; WT1 and WT9 work inside them."
+  },
+  {
+   "point": "Three readouts a scene, two a turn",
+   "rule_ids": [
+    "R70-86-MANY_READOUTS_SCENE_CARRIES"
+   ],
+   "why_not_asked": "Ruled 2026-10-03 (LR9)."
+  },
+  {
+   "point": "One held instant at the deciding exchange (DD6); the marked roll call in battles (VO2); the Western strand leads combat, injury and dialogue (style law K3)",
+   "rule_ids": [
+    "R70-57-DESCRIPTION_INSIDE_FIGHT",
+    "R70-11-WIDE_VIEW",
+    "R70-3-STRAND_LEADS_LAYER"
+   ],
+   "why_not_asked": "Ruled 2026-10-03."
+  },
+  {
+   "point": "An item gets one set-off card at purchase or appraisal, never reprinted",
+   "rule_ids": [
+    "R70-95-ITEM_CARDS"
+   ],
+   "why_not_asked": "Ruled 2026-10-03 (LR17); WT1 asks only where the card sits when a fight is running."
+  },
+  {
+   "point": "Tiers of Standing and item Tiers print by name alone; Stage numeral beside its name",
+   "rule_ids": [
+    "R70-82-NUMERALS_LADDER_RUNGS",
+    "R47-7-NAMES_NOT_NUMBERS"
+   ],
+   "why_not_asked": "Ruled; every sample here follows it."
+  },
+  {
+   "point": "Weapons may carry soldiers' folk names beside a grave true name in the maker's tongue",
+   "rule_ids": [
+    "R70-128-PLACES_INNS_SHIPS_GEAR",
+    "R50-13-ITEM_NAMES"
+   ],
+   "why_not_asked": "Ruled 2026-10-03 (NM10); WT2 asks only which name narration uses mid-fight."
+  },
+  {
+   "point": "Narration may state the cause of any penetration; the old firearm explanation ban and C-001 are closed",
+   "rule_ids": [
+    "R53-05-PROOF_PLATE"
+   ],
+   "why_not_asked": "Ruled 2026-09-26; the stale guide lines that still teach the ban are ME1 housekeeping."
+  },
+  {
+   "point": "The working, not the steel, stops shot against a worked cuirass",
+   "rule_ids": [
+    "R13-C"
+   ],
+   "why_not_asked": "Ruled 2026-09-12 and kept under every WT4 option; WT4 reopens only R11-3-AMMO_TIERS's 'defeats proofed plate'."
+  },
+  {
+   "point": "A strike one Tier above the proof breaks it; two above passes; an item's Tier is the lower of material and maker",
+   "rule_ids": [
+    "R46-3-ARMOUR_TIER_IS_ITS_PROOF",
+    "R46-1-ITEM_TIER_LOWER_OF_TWO"
+   ],
+   "why_not_asked": "Live law; WT3 asks only how the sum shows."
+  },
+  {
+   "point": "Enhanced shot is paid per shot, goes stale with its maker's Duration, is readable by a Harmonist, and is standard for elites; dodging is read off Speed Grade",
+   "rule_ids": [
+    "R45-5-PAID_PER_SHOT_AND_FINDABLE",
+    "R53-04-ENHANCED_SHOT",
+    "R45-1-SPEED_DECIDES_THE_DODGE"
+   ],
+   "why_not_asked": "Live law; WT5 asks only how staleness may reach a fight."
+  },
+  {
+   "point": "Inside about twenty feet a discharged firearm is a club and the blade grammar takes over; firearms up to 1900 hardware",
+   "rule_ids": [
+    "R11-3-DUAL_ANSWER_SILHOUETTE",
+    "R11-5-COMBAT_GUIDE_RANGE_OPENING",
+    "R53-03-FIREARM_CEILING"
+   ],
+   "why_not_asked": "Live law."
+  },
+  {
+   "point": "Wells breed hostile Well-spawn, each with named fair counters in the Bestiary",
+   "rule_ids": [
+    "R53-06-WELL_SPAWN"
+   ],
+   "why_not_asked": "Live law and canon; WT7 asks what a Well fight owes the place, FT6 the shape of the fight."
+  },
+  {
+   "point": "Runecraft on the page carries a date, an author or a visible repair, and a ward is beaten by damaging its substrate",
+   "rule_ids": [],
+   "why_not_asked": "Canon's standing prose rule (The Four Crafts) and Counterplay; WT6 asks how the breaking itself is written."
+  },
+  {
+   "point": "Quests are Guild and Crown contracts posted with terms, pay and the clearance register, every hook with a reward and a penalty",
+   "rule_ids": [
+    "R70-97-QUESTS_CONTRACTS"
+   ],
+   "why_not_asked": "Ruled 2026-10-03 (LR19); WT8 asks what a contract does to the fight."
+  },
+  {
+   "point": "A full aftermath beat after every duel; the Stat Ledger in the notes; a changes block at a chapter's end",
+   "rule_ids": [
+    "R48-38-AFTERMATH",
+    "R14-7-STAT_LEDGER_CONTENTS",
+    "R70-98-SHEETS_CHAPTER_ARC_ENDS"
+   ],
+   "why_not_asked": "Live law; WT10 asks only how the narrative Ledger reaches the page."
+  },
+  {
+   "point": "A price is named whenever money moves, from the approved table, and payment in kind is named exactly in the north; a working on a main raises the bill",
+   "rule_ids": [
+    "R70-48-MONEY_PRICE_PROVENANCE",
+    "R53-07-PRICE_TABLE",
+    "R53-17-THE_BILL"
+   ],
+   "why_not_asked": "Live law."
+  },
+  {
+   "point": "A new Stage is confirmed at a public re-assay entered on the Reckoner's roll; Guild commendations carry legal weight and no stat effect",
+   "rule_ids": [
+    "R70-92-CONFIRMING_NEW_STAGE",
+    "R70-96-TITLES_ACHIEVEMENTS"
+   ],
+   "why_not_asked": "Ruled 2026-10-03; WT11 asks whether a fight is entered too."
+  },
+  {
+   "point": "Healing on real timelines; death is permanent; death possible in every fight if earned",
+   "rule_ids": [
+    "R60-02-REAL_HEALING_TIMES",
+    "R60-04-DEATH_IS_PERMANENT",
+    "R48-31-STAKES"
+   ],
+   "why_not_asked": "Live law."
+  },
+  {
+   "point": "verify --combat by school; archived scenes untouched and tagged by law edition; the style law's order was law, test scene, then bank",
+   "rule_ids": [
+    "R70-136-NEW_CHECKS_VERIFY_SCENE",
+    "R70-137-ARCHIVED_SCENES",
+    "R70-138-PROOF_ORDER_WORK"
+   ],
+   "why_not_asked": "Ruled 2026-10-03; ME2 and ME4 build on them for this law."
+  },
+  {
+   "point": "The Measurewright at the rail may read, talk in gauges, and explain as the knowledgeable second when she has a reason to be talking; her readout never takes a voice slot",
+   "rule_ids": [
+    "R70-85-SCENE_MOMENTS_THAT_EARN",
+    "R48-41-MAGIC_TALK",
+    "R12-4-VOICE_TWO_SECOND",
+    "R70-87-READOUTS_TWO_VOICE_CAP",
+    "R70-93-BUILD_TALK_DIALOGUE"
+   ],
+   "why_not_asked": "Live law; the draft's 'reads and explains' option was current practice. Who stops a bout is FT4's; WT9 asks only who hears the reading."
+  },
+  {
+   "point": "Each culture's justice borrows its real analogue, law and punishment are an Inventory field, a working's crime is proved by trace examiners, and guild and crown courts fight over jurisdiction",
+   "rule_ids": [
+    "R53-11-JUSTICE",
+    "R70-45-NEW_STANDING_INVENTORY_FIELDS",
+    "R60-11-TRACE_EVIDENCE_AND_JURISDICTION",
+    "R60-19-LAYERED_RULE"
+   ],
+   "why_not_asked": "Live law. Whether every killing opens its process is CW11's question; WT12 asks what that process turns on."
+  },
+  {
+   "point": "A descent opens in the body and ignorance is its ambient condition; the survey protocol's seven rules; the density rungs Ambient Saturation through Core, with no intermediate rung invented; Wells are extraction, paid like mining",
+   "rule_ids": [
+    "R11-4-DESCENT_PROSE_LAW",
+    "R11-4-SURVEY_PROTOCOL",
+    "R11-4-MAGNITUDE_AXIS",
+    "R11-4-WELLS_ECONOMY",
+    "R58-06-WELL_SPAWN_WELLS_ONLY"
+   ],
+   "why_not_asked": "Live law; WT7 asks only what a fight at a Well adds. The shape of a beast fight and its counters are FT6's."
+  },
+  {
+   "point": "A Well is a Core Concentration in the Guild's register and a Well in common speech",
+   "rule_ids": [
+    "R11-4-WELL_NAMING",
+    "R20C-21-WELL_NAMES_CLASS_MARKED"
+   ],
+   "why_not_asked": "Live law; WT8's posting uses the Guild form."
+  }
+ ]
+}

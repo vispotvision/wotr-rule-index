@@ -1,8 +1,8 @@
 # Live rules by domain, with source text
 
-1260 live of 1450 extracted. Newest pack first within each domain; the newer rule governs where two overlap.
+1363 live of 1555 extracted. Newest pack first within each domain; the newer rule governs where two overlap.
 
-## adjudication (70)
+## adjudication (114)
 
 ### R15-4-THIRTEEN_HAX_STRUCK [Pack Fifteen §4]
 
@@ -226,6 +226,270 @@ Where a ruling's operative sentence is written generally, it applies to every ca
 
 > Where a ruling answers a narrow question but its operative sentence is written generally, the sentence applies to every case it describes
 
+### R71-4-FAR_FROM_FLOOR [Combat Law 2026-10-04 K4]
+
+Carry the full combat floor at first display and finisher, items 1 to 4 at every exchange that turns the fight and item 8 at a turn's close, each item stated where it happens, and let each grammar pay it its own way (Verdict the read before and the mechanics after, on the body; Blade pass by pass; Percussion and Expenditure the cost every exchange).
+
+> Floor by grammar. Rescaled as in A, and each grammar pays the floor its own way: Verdict states the read before and the mechanics after, on the body; Blade pass by pass; Percussion and Expenditure carry the cost every exchange. (Option A there reads: Rescale, same ratios. R13-4-DENSITY_BUDGET is rewritten for today's lengths: full floor at first display and finisher, items 1 to 4 at every exchange that turns the fight, item 8 at a turn's close. Every item stated where it happens.)
+
+### R71-6-PLAYER_FIGHTER_PAGE [Combat Law 2026-10-04 K9]
+
+For a fighter who belongs to a player, Natalie writes the resolved hit, the wound by structure, its ATLS class and what the hand can no longer do as world facts, places the tell but never draws the deduction, shows him from an NPC's POV only as that NPC registers him, and shows his working's cost only where others could see it, keeping the spend in the Stat Ledger.
+
+> Yes to: Wounds as world facts (Once your stated move resolves, the hit, the wound by structure, its ATLS class (the trauma surgeons' blood-loss scale) and what the hand can no longer do are written as world facts; how he bears it stays yours); The tell placed, the read his (Natalie puts the evidence in the room (the heel, the smell, the needle) and never draws the conclusion; the deduction, floor item 3, is your post, as CW14's D already leaves the reading to you); Felt from across the room (From an NPC's POV a player's fighter is only what that NPC's eyes, body and room register, the Geturo model; his reasons and his Crystal stay dark. It covers guest players at the Discord table too); Outward cost only (Natalie shows what his working costs where others could see it (heat off the skin, thaw at his boots, R48-37) and keeps the spend in the Stat Ledger (the running figures in the notes); the inside is yours).
+
+### R71-7-READER_SEES_CALL [Combat Law 2026-10-04 K6]
+
+Show the fact that decides an exchange before it lands, in the POV's read or a second's mouth, as behaviour or a Grade estimate a sharp reader could call, and still name the deciding row in the notes.
+
+> Deciding fact in the read. The fact that decides an exchange shows beforehand in the POV's read or a second's mouth, as behaviour or a Grade estimate, so a sharp reader can call it. The notes still name the row.
+
+### R71-8-CORE_PROMISE [Combat Law 2026-10-04 K7]
+
+Keep the world honest and give every fight Natalie stages at least one findable way out (a counter, ground, flight or a yield), planted where Isaac could catch it, and open the Combat Craft Guide on the promise: fair, computable, costly.
+
+> A way out, always planted. The world stays honest, and every fight Natalie stages has at least one findable line out (a counter, ground, flight or a yield), planted where you could catch it. The guide opens: fair, computable, costly.
+
+### R71-12-KEEPING_SPACE_TRACKABLE [Combat Law 2026-10-04 CW3]
+
+A scramble in a crowd, the dark or a fall may blur where the fighters stand while it lasts, but every exchange that decides something re-fixes both bodies before it lands.
+
+> Fixed at the deciders. A scramble (a crowd, the dark, a fall) may blur position while it lasts; every exchange that decides something re-fixes both bodies before it lands. Chaos is legal, the deciding geometry always clear.
+
+### R71-14-IMPACT_MOMENTUM [Combat Law 2026-10-04 CW5]
+
+At display and finisher, say where a big hit's momentum went (what anchored the striker, whether the target was thrown or broken, what the ground took), have the physics audit check it, and move stock images to a bank per culture.
+
+> Momentum accounted for. At display and finisher the page says where the momentum went: what anchored the striker, whether the target was thrown or broken, what the ground took. The physics audit checks it; stock images move to a bank per culture.
+
+### R71-15-FIGHTING_THROUGH_WOUND [Combat Law 2026-10-04 CW6]
+
+A practitioner may hold a broken structure shut with a working for as long as his Tempering allows, at a reserve cost every turn and ending at Starvation, after which the wound is worse, once the working's mechanism has been ruled.
+
+> An Essence splint, priced. A practitioner may hold a broken structure shut with a working: Tempering for how long, a reserve cost per turn, ending at Starvation; the wound is worse afterward. Needs a ruled mechanism before first use.
+
+### R71-19-GROUND_WEATHER_FIGHT [Combat Law 2026-10-04 CW10]
+
+Give the adjudication table an environment row in which footing, light, cold, wet and Aetheric Density bend named stats, named in the author notes, and open every planned duel with the fighters reading or choosing ground that then decides at least one exchange.
+
+> Yes to: An environment row (The adjudication table gains a row: footing, light, cold, wet and Aetheric Density bend named stats, and the author notes say which. Weather stops being texture only); Ground chosen before contact (Every planned duel opens with the fighters reading or choosing ground (Counterplay's 'Pick before contact'), and the ground decides at least one exchange). Not taken: New ground, by rotation, Texture only, as now.
+
+### R71-20-FIGHTS_END [Combat Law 2026-10-04 CW11]
+
+Let a fight end by a yield that binds under the culture's custom with its terms on the Ledger, by flight, its pursuit decided on Dexterity (Celerity), the reserve and the ground, leaving a witness and a debt, or by a formal duel code's stated stop that binds both men, and give every killing its culture's legal aftermath on the page as a Front or a Ledger line.
+
+> Yes to: Yield on terms (Surrender is legal and binds by the culture's custom (a Kharven word before witnesses, an Accord form under seal); the terms go on the Ledger as R70-104's debt); Flight, adjudicated (Breaking off and running is always a choice; pursuit is decided on Dexterity (Celerity), the reserve and the ground (FT12 shapes the chase), and a fled fight leaves a witness and a debt); A code ends it (Formal duels run under the culture's code, with seconds and a stated end (first blood, a disarm, a yield); the code's stop binds both men, and breaking it is a Ledger debt); The killing's own law (Every killing carries its culture's legal aftermath (a declaration, a blood-price or labour-debt, outlawry) on the page, opened as a Front or a Ledger line).
+
+### R71-23-TELL_READ [Combat Law 2026-10-04 CW14]
+
+Show a tell plainly at its first and second appearance and read it at length at the third, and when the POV is Isaac's PC leave the reading to him.
+
+> Shown twice, then read. The tell is shown plainly at its first and second appearance and read at length at the third, matching NATALIE's two or three exchanges of evidence. When the POV is your PC, the reading is yours.
+
+### R71-24-ROWS_COME_OUT_LEVEL [Combat Law 2026-10-04 CW15]
+
+When the stats that decide an exchange come out level, let the read decide first, then what each fighter has left to spend, then the ground, and have the notes name the step that broke the tie.
+
+> Rule 5's order, step by step. The read decides first, then what each has left to spend, then the ground; the notes name the step that broke the tie, as a Domain clash names its step. Every level exchange reconstructs.
+
+### R71-25-WOUNDS_CARRIED_INTO_NEXT [Combat Law 2026-10-04 CW16]
+
+When a fighter brings a Ledger wound into a new fight, move no Grade and let the wound's structure decide what the body can do, checked by the gap-fill body audit and named in the notes.
+
+> The anatomy, not the stat. No Grade moves. The wound's structure decides what the body can do (a stitched forearm cannot hold a hard bind, a cracked rib cannot take a deep breath), checked by the gap-fill body audit and named in the notes.
+
+### R71-27-SPOKEN_WORKING_EXCHANGE [Combat Law 2026-10-04 MC1]
+
+When a practitioner speaks a working mid-fight, print its chain in pieces between the opponent's moves, so each clause costs a step the opponent takes and the reader can count the race's price.
+
+> Cut into the exchange. The chain is printed in pieces between the opponent's moves, so each clause costs a step he takes. The Combat Guide gains the rule; the reader watches the race and can count its price.
+
+### R71-28-DECIDES_CASTING_SPEED [Combat Law 2026-10-04 MC2]
+
+Decide every race between workings, or between a working and a blade, from a new Alacrity row today, and where a technique card's Readiness figure has been filled, let that figure govern instead.
+
+> Row now, cards override. The Alacrity row decides every race today; where you fill a card's Readiness, that figure governs. Nothing waits on figures, and precision grows as cards are filled.
+
+### R71-31-COUNTERS_DUEL_SCALE [Combat Law 2026-10-04 MC5]
+
+A chart derived from Codex physics says which conditions and Wellspring Families make each Family's working cost more and deliver less, while each card's Counter field stays the hard answer; the chart binds once ratified.
+
+> Soft Family chart. A chart derived from Codex physics says which conditions and Families make each Family's working cost more and deliver less; the card's Counter field stays the hard answer. You ratify the chart.
+
+### R71-35-SECOND_WIND [Combat Law 2026-10-04 MC9]
+
+Crisis Recovery, the Crystal's surge in a crisis, may land at the deciding exchange only when its trigger was planted earlier where a reader could catch it, its price goes on the Ledger, and it stays rare.
+
+> Decides, if planted. It may land at the deciding exchange only when its trigger was set up earlier on the page where a reader could catch it, and its price goes on the Ledger. Rare by rule.
+
+### R71-36-HEALING_INSIDE_FIGHT [Combat Law 2026-10-04 MC10]
+
+While a fight runs, a Vitalia working may only close a vessel or seal a bleed, at full price, and the wound itself stays open until the fight ends.
+
+> Stop the bleeding only. Mid-fight Vitalia may close a vessel or seal a bleed, at full price; the wound itself stays open until the fight ends. §7.1 gains the row.
+
+### R71-38-RESONANT_PAIR_UNDER_STRAIN [Combat Law 2026-10-04 MC12]
+
+Where a Sub-Stat sits at its Stage's cap, strain in a fight may lift it level with its partner so their Resonant Pair runs for the crisis and then lapses, with the author notes naming the strain.
+
+> For the crisis only. Where a Sub-Stat sits at its Stage's cap, strain may lift it level with its partner, and the Pair runs for the crisis, then goes. The notes name the strain.
+
+### R71-40-MECHANISM_AIMED_PRESSURE [Combat Law 2026-10-04 MC14]
+
+Killing intent works by Dominion drawing the Passive Pressure Field onto one man, so what he takes the room loses and the room eases as he suffers, with the trade's figures set from Dominion.
+
+> The field narrowed. Dominion draws the Passive Pressure Field onto one man; what he takes, the room loses, so the room eases as he suffers. The trade's figures come from Dominion, set by you.
+
+### R71-41-PRESSURE_UNWOKEN [Combat Law 2026-10-04 MC15]
+
+Pressure between practitioners keeps the Stage-gap ladder, while a person with no Stage takes Fracture of Worlds Part Eleven's Aura table by Grade (dread from F to D, weight in the room from C, knees bending from A), with no new figures.
+
+> The Aura table, by Grade. Practitioner against practitioner keeps the Stage ladder; the unwoken take Part Eleven's Grade table: dread from F to D, weight in the room from C, knees bending from A. No new figures.
+
+### R71-42-TWO_PRESSURES_ONE_ROOM [Combat Law 2026-10-04 MC16]
+
+When two practitioners of the same Stage bring their Pressure into one room, the Pressures contest it by Dominion before steel: the room shows the border moving, bystanders take both, and the loser begins the fight already paying.
+
+> A contest for the room. Meeting Pressures fight for the room by Dominion before steel; the room shows the border moving, bystanders take both, and the loser begins the fight already paying. §7 gains the row.
+
+### R71-44-FACULTY_READ_MAN [Combat Law 2026-10-04 MC18]
+
+A practitioner's faculty prints an opponent's exact figures when his Gnosis Perception outranks the target's Resilience Ward by Grade, and only a hedged range when it does not, Ward being the counter.
+
+> Exact unless warded. A faculty prints exact figures where the reader's Gnosis Perception outranks the target's Resilience Ward by Grade, and a hedged range where it does not. §7 gains the row; Ward is the counter.
+
+### R71-46-DOMAIN_CLASH_PAGE [Combat Law 2026-10-04 MC20]
+
+When two Domains meet in a duel, show the seam between the two laws in the room and let it move, have one voice name the deciding step once, and pace the clash like an exchange so it reconstructs.
+
+> The moving border. The seam between two laws shows in the room and moves; one voice names the deciding step once. Reconstructible, and paced like an exchange.
+
+### R71-50-SHOT_MEETS_WORKED_CUIRASS [Combat Law 2026-10-04 MC24]
+
+When a worked cuirass stops a ball, show the stop the way its inscription works and leave that inscription's own mark from the Combat Guide's §4.6, so the shooter can read which working he faces and which round to bring next.
+
+> By inscription, read on plate. Each inscription stops shot its own way and leaves its own mark from §4.6, so the shooter can read which working he faces and which round to bring next.
+
+### R71-54-BOUTS_AETHERION [Combat Law 2026-10-04 FT4]
+
+Chalk each sanctioned bout's terms before it starts (yield, ring-out, a wound by class); fighters may push right up to them, and the warden's gauge stops only what the terms never priced.
+
+> Posted terms, warden backstop. Each bout's terms are chalked before it (yield, ring-out, a wound by class). Fighters may push right up to them, and the warden's gauge stops only what the terms never priced.
+
+### R71-55-DUELS_FIRST_BLOOD [Combat Law 2026-10-04 FT5]
+
+A duel to first blood stops at the first wound, but that wound is tracked like any other: where the point lands decides whether it is a nick or a death, and the Ledger keeps what follows.
+
+> Terms hold, the body doesn't. The duel stops at first blood, but the wound is tracked like any other: where the point lands decides whether it is a nick or a death, and the Ledger keeps what follows.
+
+### R71-56-SHAPE_MONSTER_FIGHT [Combat Law 2026-10-04 FT6]
+
+A fight with a Well-spawn or other beast may be written as a hunt won at the shaft head (reading the draw, choosing the entry's counter, laying out the kit, then a short kill), and it may turn in phases only at a lever canon gives the beast (its tie cut, its Wellspring's failure induced), the rung dropping on the page and an untraceable phase failing R13-8; the duel-with-a-beast shape was not taken.
+
+> Yes to: The hunt as procedure (The fight is won at the shaft head: reading the draw, choosing the entry's counter, laying out the kit. The kill is short and the work is the scene); Phases at the tie (A beast's fight turns (a boss phase: the monster changing form mid-fight) only at a lever canon gives it: its tie cut, its Wellspring's failure induced. The rung drops on the page; an untraceable phase fails R13-8). Not taken: A duel with a beast.
+
+### R71-58-ONE_SHOT_PRACTITIONER [Combat Law 2026-10-04 FT8]
+
+Trace each shot at a practitioner like an exchange: the range, the ball's speed (R45-1's reference figure) against the Speed Grade the POV reads, the result, and its cause stated under R53-05, with rounds left counted as CW17 rules.
+
+> Each shot traced. A shot is traced like an exchange: range, the ball's speed (R45-1's reference figure) against the Speed Grade the POV reads, the result, the cause stated under R53-05. Rounds left are counted as CW17 rules.
+
+### R71-60-VOLLEY_SMOKE_DRILLED_LINE [Combat Law 2026-10-04 FT10]
+
+The Mass Combat Guide gains three gunpowder sections: drill and smoke (loading by numbered motions, smoke that blinds after the first volley, fire by platoons, squares against horse), the spread against a practitioner (men drilled to spread, make him choose and keep a line of fire open, beating him at a stated cost in men), and enhanced-shot companies (each round priced, made and findable, fired only at practitioners and only on a named order); field guns and the late gun were not taken.
+
+> Yes to: Drill and smoke (A section on loading by numbered motions, smoke that blinds after the first volley, fire by platoons down a line, and squares against horse; the ditch sees smoke and hears the count); Spread against a practitioner (A section on Counterplay's doctrine: men drilled to spread, make him choose and keep a line of fire open, so numbers correctly used beat a practitioner at a stated cost in men); Enhanced-shot companies (A section on elite guard and bounty companies with full pouches of enhanced shot (R53-04): each round priced, made and findable, fired only at practitioners and only on a named order). Not taken: Guns and the late gun.
+
+### R71-62-CHASES_PURSUITS [Combat Law 2026-10-04 FT12]
+
+Decide a chase by the reserve race (every burst of speed spent, both bodies paying, whoever runs dry first losing, the running total kept in the notes) and by the quarry's route read against the pursuer's (ground chosen beforehand, a cut street, a standpipe yard, a rail cutting), the map deciding while the reserve still runs; the crowd-and-law shape was not taken.
+
+> Yes to: The reserve race (The chase is the reserve clock: every burst of speed is spent, both bodies pay, and whoever runs dry first loses. The running total stays in the notes (R70-88)); The quarry's route (The chase is the quarry's route read against the pursuer's: ground chosen beforehand, a cut street, a standpipe yard, a rail cutting. The reserve still runs, but the map decides). Not taken: The crowd and the law.
+
+### R71-64-FIGHTING_MAIN [Combat Law 2026-10-04 FT14]
+
+Three Draw Age terrain beats become standing fight texture: a district may be cut from outside mid-fight (the hum dies, the room's density falls, every draw costs more, and the page names who ordered it); a working that splits a culvert or standpipe spikes the room's density (output up, reach down by FOW's square-root law, any figure printed as a marked estimate); and ground fought on stays short for hours (reach falls, gauges read the residue, a second fight there pays for the first, no figure printed without a source); rail and the tram slot were not taken.
+
+> Yes to: The cut mid-fight (A district can be cut from outside during a fight: the hum dies, the room's density falls, every draw costs more, and the page names who ordered it, even unseen); The burst main (A working that splits a culvert or standpipe spikes the room's density: output up, reach down, by FOW's square-root law. The page shows the effect; any figure prints as a marked estimate (R70-99)); Short ground after (Ground fought on stays short for hours: reach falls, gauges read the residue, and a second fight there pays for the first. FOW's law decides it, and no figure prints without a source). Not taken: Rail and the tram slot.
+
+### R71-67-CLEAR_WARNING_BEFORE_LOSS [Combat Law 2026-10-04 FT17]
+
+Before any exchange may kill a losing POV, at least one plain sign the fight is lost (a gap read, a wound, a second's shout, a readout) lands an exchange or more earlier and a way out (ground, a door, a yield, a price) is shown; a death means the exit was missed or refused, the notes cite both sign and exit, and ambushes follow R48-30.
+
+> A sign and an exit. As B, plus a way out shown before the killing exchange (ground, a door, a yield, a price). A death means the exit was missed or refused, and the notes cite both sign and exit. (Option B there reads: One plain sign first. At least one plain sign the fight is lost (a gap read, a wound, a second's shout, a readout) lands an exchange or more before the killing one, and the notes cite it. Ambushes follow R48-30.)
+
+### R71-68-TWO_GRAMMARS_MEET [Combat Law 2026-10-04 FT18]
+
+When fighters of two grammars duel, both shapes run at once, the POV's grammar on the surface and the opponent's underneath in the cost, and the fight turns at the moment one overruns the other.
+
+> The clash is the shape. Both shapes run at once: the POV's grammar on the surface, the opponent's underneath in the cost, and the fight turns at the moment one overruns the other.
+
+### R71-73-PREPARED_LIVE_FIGHT [Combat Law 2026-10-04 AL4]
+
+Every Draft in a fight left a bench beforehand, so mid-fight an alchemist only spends the bandolier or lays Draft ground, at a cost in turns with hands busy and eyes down, and a bench scene plants each vial.
+
+> Made before, ground live. Canon read straight: every Draft left a bench before the fight; mid-fight the alchemist spends the bandolier or lays Draft ground, costing turns with hands busy and eyes down. A bench scene plants each vial.
+
+### R71-74-DRAFT_SIX_SECOND_TURN [Combat Law 2026-10-04 AL5]
+
+Drinking or smearing a Draft takes a whole turn and opens the drinker inside measure, throwing or smashing one is a single action within an exchange, and the hand going to the bandolier is a readable tell.
+
+> A drink costs the turn. Drinking or smearing takes a whole turn and opens the drinker inside measure; throwing or smashing is one action within an exchange. The hand going to the bandolier becomes a readable tell.
+
+### R71-75-CARRIES_IT_ONTO_FIELD [Combat Law 2026-10-04 AL6]
+
+Issue Drafts onto a field by their rank gate (low-gate lots to the line, Adept munitions to drilled details, Expert charges only to Expert hands), and let a company's purse decide how many certified hands it retains at the price table's retainers (forty gold a month and up for an Adept), so rich companies field far more alchemy.
+
+> Gates, bought by purse. As B, and a company's purse decides how many certified hands it retains, at the price table's retainers (forty gold a month and up for an Adept), so rich companies field far more alchemy. (Option B there reads: Issue by gate. Drafts reach a field by their rank gate: low-gate lots to the line, Adept munitions to drilled details, Expert charges only to Expert hands. The gate becomes the field's ration logic.)
+
+### R71-76-FORMULA_OWN_FAILURE [Combat Law 2026-10-04 AL7]
+
+Show the precaution each formula demands against failing onto its user (the gloved off hand, the chalked hour, the edge kept wide of the body) at every use, as a standing tell a reading opponent can exploit, so the counter stays on the page.
+
+> Every use shows it. The precaution each formula demands (the gloved off hand, the chalked hour, the edge kept wide of the body) shows at every use, a standing tell a reading opponent can exploit. The counter stays on the page.
+
+### R71-83-ACCIDENTS_FUMES [Combat Law 2026-10-04 AL14]
+
+When a lute fails and Strongwater fume fills a closed room, the room doses men in order of nearness and they die hours later after walking out, while men kept lying still and watched through the night fare better, so a knowing hand's orders save some.
+
+> Late drowning, and rest. As B, plus a findable counter: men kept lying still and watched through the night fare better than men who walk home, as real toxicology keeps such patients at rest. A knowing hand's orders save some. (Option B there reads: The late drowning. The Real Alchemy's reading: the room doses in order of nearness and the dying comes hours later, after the men have walked out. A surgeon's wound line can name it (R70-85); the grief arrives by morning.)
+
+### R71-85-DRAFT_AGAINST_WORKING [Combat Law 2026-10-04 AL16]
+
+Split a thrown Draft in two: its plain physics (blast, heat, acid, smoke) meets Durability like any force, while its worked part answers its maker's ceiling and fails against anyone above it, and both stay traceable.
+
+> Two parts, two answers. A Draft splits: its plain physics (blast, heat, acid, smoke) meets Durability like any force, while its worked part answers its maker's ceiling and fails against anyone above it. Both stay traceable (R13-8).
+
+### R71-86-REVENANT_FIGHT [Combat Law 2026-10-04 AL17]
+
+Fight a revenant as a body on habit: anatomy stops the motion (a cut hamstring drops it) while the habit keeps trying, only ash, removal or the ninth day ends it, and the combat floor applies by structure with no blood-loss class.
+
+> Levers still rule. A body on habit: anatomy stops the motion (a cut hamstring drops it) while the habit keeps trying; only ash, removal or the ninth day ends it. The floor applies by structure, with no blood-loss class.
+
+### R71-91-ARMOUR_SUMS_PAGE [Combat Law 2026-10-04 WT3]
+
+A trained POV names both Tiers in her read before an exchange against armour and the steel then shows the sum, an untrained POV falls back to option A (the steel tells it), and a reader can check every penetration against R46-3.
+
+> The read names the sum. A trained POV names both Tiers in her read before the exchange (R70-88), then the steel shows the sum. Untrained POVs fall back to A. The reader checks every penetration against R46-3.
+
+### R71-92-ARMOUR_KIND_AGAINST [Combat Law 2026-10-04 WT13]
+
+Unworked armour meets a strike by its physics (mail turns the cut, not the thrust), and once armour carries a working R46-3's Tier decides and the kind is only the shape the working wears, as R13-C has it for shot.
+
+> Kind if plain, Tier if worked. Unworked armour fights by its physics (mail turns the cut, not the thrust); once armour carries a working, R46-3's Tier decides and the kind is only the shape the working wears, as R13-C has it for shot.
+
+### R71-93-PROOFED_SHOT_AGAINST_PROOFED [Combat Law 2026-10-04 WT4]
+
+Against worked armour a proofed round strikes as one Tier higher on R46-3's one ladder, so proofed shot breaks proofed plate, a round two over passes and the named round is simply two over, with R13-C's ruling kept.
+
+> Out-coupling counts one Tier. Against worked armour a proofed round strikes as one Tier higher: proofed shot breaks proofed plate, a round two over passes, and the named round is simply two over. One ladder, R13-C kept.
+
+### R71-96-WELL_AS_GROUND [Combat Law 2026-10-04 WT7]
+
+Before contact in a Well fight a gauge or a practitioner's feel names the density rung (Ambient Saturation through Core) and every reach is written to it, and porters, lamp-men and timber crews are in the fight as people who can win it, with no Shell to fire and no reserve to drain, each given a want and a line.
+
+> Yes to: Reach written to rung (Before contact a gauge or a practitioner's feel names the density rung (Ambient Saturation through Core), and every reach in the fight is written to it. Adds reach beside §7's draw-cost row); The unawakened in it (Porters, lamp-men and timber crews are in every Well fight as people who can win it: no Shell (the layer a working fires through) to fire, no reserve to drain. Each gets a want and a line). Not taken: The register stays tidy.
+
 ### R60-01-BRUTAL_LETHALITY [Combat, Society and Politics Law 2026-09-26 Combat, society and politics]
 
 Lethality among ordinary fighters is brutally real: one good cut or a ball in the gut can kill, often days later from infection; most fights end in the first seconds; a wounded man is out of the fight.
@@ -424,7 +688,7 @@ Isaac may take over any NPC's voice anytime by saying so; the partner hands it b
 
 > Isaac may take over any NPC's voice anytime by saying so; the partner hands it back after.
 
-## character-sheet (225)
+## character-sheet (230)
 
 ### R20C-16-SONZAI_RECORD_CARD [Pack Twenty R20C-16]
 
@@ -1176,6 +1440,36 @@ C-083: Ignatius is alive and his whereabouts are known; there was no real report
 
 > C-083: Ignatius is alive and his whereabouts are known; there was no real report of his death.
 
+### R71-28-DECIDES_CASTING_SPEED [Combat Law 2026-10-04 MC2]
+
+Decide every race between workings, or between a working and a blade, from a new Alacrity row today, and where a technique card's Readiness figure has been filled, let that figure govern instead.
+
+> Row now, cards override. The Alacrity row decides every race today; where you fill a card's Readiness, that figure governs. Nothing waits on figures, and precision grows as cards are filled.
+
+### R71-32-VOWS_LIMITS [Combat Law 2026-10-04 MC6]
+
+A practitioner may bind a technique with a vow that narrows it, raising its output through Attraction Force by a figure set on that card; breaking the vow is a Shear Break, and the vow's terms are its findable counter.
+
+> Narrowing buys output. A vow that narrows a technique raises its output through Attraction Force, by a figure you set on that card; breaking it is a Shear Break. The vow's terms are its findable counter.
+
+### R71-39-ALLIES_WORKING_TOGETHER [Combat Law 2026-10-04 MC13]
+
+Allies in a fight chain their workings by default, and two may fuse only through a carded Synergia technique they learned together, with its own cost split and counter; improvised fusion is barred.
+
+> Drilled forms, carded. Allies chain by default; a fusion exists only as a carded Synergia technique the pair learned together, with its own cost split and counter. No improvised fusion.
+
+### R71-69-GRAMMAR_GUN_BENCH_FIELD [Combat Law 2026-10-04 FT19]
+
+The four combat grammars suffice: a marksman fights in Verdict, a bench alchemist and a field caster fight in Expenditure, each card names its grammar, and no fifth is added.
+
+> The four suffice. A marksman reads, ranks and commits, so he fights in Verdict; the alchemist and the field caster make the other man spend, so they fight in Expenditure. Each card names its grammar; no fifth.
+
+### R71-72-ALCHEMIST_VOICE [Combat Law 2026-10-04 AL3]
+
+Put three habits on the alchemists' trade menu (reading mouths, hands, sclera and tremor before faces, with a 'reads first' line in the card's voice block; weighing a thing by price, vessel, seal and ledger; and the bench operations as all-purpose idiom, a few logged per card), and leave quiet at the work off it.
+
+> Yes to: Reads the body first (On the menu: notices mouths, hands, sclera and tremor before faces, and reads a dose, a career or a lie in them. A card that takes it gains a 'reads first' line in its voice block); Price, vessel, seal, ledger (On the menu: weighs a thing by its cost, its vessel, whose mark closes it and where it is entered, pricing before praising. Extends R61-91 from the two texts to any alchemist who takes it); Bench words for everything (On the menu: the operations as all-purpose idiom (a plan still in the Rot, a recruit fed too fast), the Fleshshaper model (R24-1) applied to the trade, a few logged per card). Not taken: Quiet at the work.
+
 ### R44-1-EU_JOULE_ONE_MEGAJOULE [Essence Ledger Rulings 2026-09-25 C-034]
 
 EU converts to joules at one constant, 1 EU = 1 MJ, everywhere; a card figure that then sits outside its Stage's band is a card error and is corrected in its own issue.
@@ -1779,7 +2073,7 @@ Room casting is by ear: the partner casts for the scene and fixes voice likeness
 
 > Room casting is by ear: the partner casts for the scene and fixes voice likeness only when the swap test fails.
 
-## codex (114)
+## codex (115)
 
 ### R20C-41-CHANTCRAFT_FIFTH_CRAFT [Pack Twenty R20C-41]
 
@@ -2351,6 +2645,12 @@ Madeleine found the Trace and designed the commission, Strom found it independen
 
 > The credit for the Volitional Trace stands as ST3 (R61-13) gives it: Madeleine Ault found it and designed the commission, Ivor Strom found it independently, Gisli Draycott framed the theory and built the mechanism, and Kwon Mu-jin named it and set its boundary.
 
+### R71-31-COUNTERS_DUEL_SCALE [Combat Law 2026-10-04 MC5]
+
+A chart derived from Codex physics says which conditions and Wellspring Families make each Family's working cost more and deliver less, while each card's Counter field stays the hard answer; the chart binds once ratified.
+
+> Soft Family chart. A chart derived from Codex physics says which conditions and Families make each Family's working cost more and deliver less; the card's Counter field stays the hard answer. You ratify the chart.
+
 ### R27-1-CYMORATH_AIR_OF_ASCENT_FROST_ON_VOHRIN [Cymorath Portfolio Ruling Standing Ruling]
 
 Cymorath carries exactly the portfolio Fracture of Worlds gives it: the Air of Ascent, Family Fulguria, freedom and motion, strengthening Dexterity Celerity and Gnosis Cartography/Perception. It is not a frost Wellspring. Every frost, cold or stasis working the wiki had been drafting as Cymorath is keyed instead to Vohrin, the Abyssal Depths Titan, Family Caloria, Physics Domain Thermodynamics, on the FOW III reading that cold is heat run backward. There is no dedicated frost Wellspring. Codex lines, Wellspring harmonisation rows and Material Ledger resonance columns that name a cold law write Vohrin · Caloria · Thermodynamics; any surviving Cymorath usage is Fulguria.
@@ -2465,7 +2765,7 @@ Vohrin is one power at two levels, Titan and Wellspring; frost workings drawing 
 
 > Vohrin is one power at two levels, Titan and Wellspring; the four frost workings become Titan-derived, likely raising their standing and cost.
 
-## combat (111)
+## combat (198)
 
 ### R20C-22-AMMUNITION_TIERS_RATIFIED [Pack Twenty R20C-22]
 
@@ -2526,12 +2826,6 @@ The twenty-six Categories say what kind of thing came out; their alignment tag n
 Every meaningful exchange states, in one of the four voices: measure, tempo (Vor/Nach/Indes), the named read, the fault it exposes, the mechanics of the hit, the injury by structure with ATLS-class blood loss, the Essence account at all three strata, and what the character cannot do next.
 
 > Every meaningful exchange (a hit that lands, a first display, a counter, a change of measure that decides something) puts the following on the page, stated, in one of the four voices:
-
-### R13-4-DENSITY_BUDGET [Pack Thirteen §4]
-
-A 2,500-word duel carries the full eight-item floor at first display and finisher, plus items 1-4 at every fight-changing exchange; a 700-1,500-word turn carries items 1-4 once and item 8 at close.
-
-> Density. A duel of 2,500 words carries the full floor at first display and finisher, and items 1 to 4 at every exchange that changes the fight. A turn of 700 to 1,500 carries 1 to 4 once and 8 at close.
 
 ### R13-4-THREE_EXPLANATIONS [Pack Thirteen §4]
 
@@ -2682,12 +2976,6 @@ A Pressure spike or peak-effort feat renders as visible physical distortion, ink
 An art with a true name may carry a release call (imperative verb plus name); it is never required for the art to function, costs a beat for a measurable output increase, and is spoken indistinguishably by a man in real danger or a man showing off.
 
 > An art with a true name may carry a call: an imperative verb plus the name. - The release is never required for the art to function. - Speaking it costs a beat and buys a measurable increase in output. - The man in real danger says it and the man showing off says it, and the difference is not visible from outside.
-
-### R8-26-ONE_RELEASE_PER_SCENE [Pack Eight 2.6]
-
-One release per scene at most; two men releasing in the same scene is an event, not texture.
-
-> One release per scene at most. Two men releasing in the same scene is an event, not texture.
 
 ### R4-H1-WREN_ASSIGNED [Pack Four Still Open]
 
@@ -2856,6 +3144,540 @@ Any contact with Hiromi's Juggernaut's Fist counts as a landed strike, parried o
 Meta knowledge informs the writer, not the characters; opponents use what they could plausibly know and do, abilities stay physically grounded, and every engagement is a fair, real challenge for the PC.
 
 > Knowledge is accessible, including meta knowledge, but is never used to outrageous advantage: NPCs and opponents fight with what they could plausibly know and do, abilities stay grounded in real physics principles, and every engagement is built to be fun and a genuine challenge for the PC, never rigged in either direction.
+
+### R71-1-WHERE_LINE_FALLS_FIGHT [Combat Law 2026-10-04 K1]
+
+Inside a fight, write the exchange, the wound and the cost the Western way, clinical, and run the read, the stillness before the cut and a rule's reveal the Eastern way, long and deductive, as Naruto and Bleach do.
+
+> Western body, Eastern read. The exchange, the wound and the cost stay Western and clinical; the read, the stillness before the cut and a rule's reveal run Eastern, long and deductive, the Naruto and Bleach way. The next Combat Guide writes it in.
+
+### R71-2-EASTERN_COMBAT_MODELS [Combat Law 2026-10-04 K2]
+
+Name Togashi's Hunter x Hunter (fights as logic), Gu Long's one cut (the named model for Verdict grammar), Inoue's Vagabond with Yoshikawa's Musashi (the fight decided inside the fighter, a model for Japonic POVs) and Akutami's Jujutsu Kaisen (Domain clashes decided in a stated order) as the Combat Craft Guide's Eastern combat models beside Kishimoto and Kubo.
+
+> Yes to: Togashi, Hunter x Hunter (Fights as logic: the opponent's rules inferred from evidence, tested and exploited, and the winner is whoever knows his own limits best. Its vows that trade a limit for power wait for MC6); Gu Long, the one cut (The duel is the wait: the long read and a single exchange, the floor paid on the body. Becomes the named model for Verdict grammar (read, rank, commit); FT16 asks whether the cut itself is seen); Inoue and Yoshikawa, Musashi (Inoue's manga Vagabond and Yoshikawa's novel Musashi: the deciding event happens inside the fighter (fear, the fixed mind, no-mind), with pages of breath and footing. A model for Japonic POVs); Akutami, Jujutsu Kaisen (Domain clashes decided in a stated order, with the burnout after a Domain as the counter-window. FOW Part Twenty-Two already sets the order; burnout and the sure-hit (a Domain that cannot miss) would be new canon).
+
+### R71-3-WESTERN_COMBAT_MODELS [Combat Law 2026-10-04 K3]
+
+Name Cornwell's Sharpe (volley, smoke, the stormed breach, tactics read in the action), Sanderson's hard magic (rules planted before, costs and counters findable) and the HEMA novelists Christian Cameron and Sebastien de Castell (armoured fights from inside the steel) as the Combat Craft Guide's Western combat models, leaving O'Brian out.
+
+> Yes to: Cornwell, Sharpe (Volley drill, powder smoke, the stormed breach, tactics explained in the action by a sergeant's read. The only model for the gunpowder battle the archive has never written); Sanderson, hard magic (Rules planted before, physics as choreography, costs and counters findable, so the reader does the sum. Already close to R70-71's rules shown beforehand); HEMA novelists (Christian Cameron and Sebastien de Castell: armoured fights from inside the steel, the phrase (one unbroken attack and answer), joints, the visor slot, the ground. The Western school's model). Not taken: O'Brian, Aubrey-Maturin.
+
+### R71-4-FAR_FROM_FLOOR [Combat Law 2026-10-04 K4]
+
+Carry the full combat floor at first display and finisher, items 1 to 4 at every exchange that turns the fight and item 8 at a turn's close, each item stated where it happens, and let each grammar pay it its own way (Verdict the read before and the mechanics after, on the body; Blade pass by pass; Percussion and Expenditure the cost every exchange).
+
+> Floor by grammar. Rescaled as in A, and each grammar pays the floor its own way: Verdict states the read before and the mechanics after, on the body; Blade pass by pass; Percussion and Expenditure carry the cost every exchange. (Option A there reads: Rescale, same ratios. R13-4-DENSITY_BUDGET is rewritten for today's lengths: full floor at first display and finisher, items 1 to 4 at every exchange that turns the fight, item 8 at a turn's close. Every item stated where it happens.)
+
+### R71-5-ROLEPLAY_TURNS_AGAINST_WRITTEN [Combat Law 2026-10-04 K5]
+
+In a roleplay fight Isaac may post conditions such as 'if he closes, I cut low', and Natalie runs them exchange by exchange until the first branch they do not cover, then stops the turn on that threat.
+
+> Standing orders honoured. You may post conditions ('if he closes, I cut low'). Natalie runs them exchange by exchange until the first branch they do not cover, then stops on that threat. Table Rule 1 gains this exception.
+
+### R71-6-PLAYER_FIGHTER_PAGE [Combat Law 2026-10-04 K9]
+
+For a fighter who belongs to a player, Natalie writes the resolved hit, the wound by structure, its ATLS class and what the hand can no longer do as world facts, places the tell but never draws the deduction, shows him from an NPC's POV only as that NPC registers him, and shows his working's cost only where others could see it, keeping the spend in the Stat Ledger.
+
+> Yes to: Wounds as world facts (Once your stated move resolves, the hit, the wound by structure, its ATLS class (the trauma surgeons' blood-loss scale) and what the hand can no longer do are written as world facts; how he bears it stays yours); The tell placed, the read his (Natalie puts the evidence in the room (the heel, the smell, the needle) and never draws the conclusion; the deduction, floor item 3, is your post, as CW14's D already leaves the reading to you); Felt from across the room (From an NPC's POV a player's fighter is only what that NPC's eyes, body and room register, the Geturo model; his reasons and his Crystal stay dark. It covers guest players at the Discord table too); Outward cost only (Natalie shows what his working costs where others could see it (heat off the skin, thaw at his boots, R48-37) and keeps the spend in the Stat Ledger (the running figures in the notes); the inside is yours).
+
+### R71-7-READER_SEES_CALL [Combat Law 2026-10-04 K6]
+
+Show the fact that decides an exchange before it lands, in the POV's read or a second's mouth, as behaviour or a Grade estimate a sharp reader could call, and still name the deciding row in the notes.
+
+> Deciding fact in the read. The fact that decides an exchange shows beforehand in the POV's read or a second's mouth, as behaviour or a Grade estimate, so a sharp reader can call it. The notes still name the row.
+
+### R71-8-CORE_PROMISE [Combat Law 2026-10-04 K7]
+
+Keep the world honest and give every fight Natalie stages at least one findable way out (a counter, ground, flight or a yield), planted where Isaac could catch it, and open the Combat Craft Guide on the promise: fair, computable, costly.
+
+> A way out, always planted. The world stays honest, and every fight Natalie stages has at least one findable line out (a counter, ground, flight or a yield), planted where you could catch it. The guide opens: fair, computable, costly.
+
+### R71-9-LITRPG_COMBAT_MODELS [Combat Law 2026-10-04 K8]
+
+Name Mother of Learning (the prepared fight), Dungeon Crawler Carl (the room as the counter), The Primal Hunter (the bench wins the fight) and Delve (drain-rate tension) as the Combat Craft Guide's LitRPG fight models beside Unbound and The Beginning After the End, without the time loop or the time-stopping sense.
+
+> Yes to: nobody103, Mother of Learning (The prepared fight: scout, learn the enemy's tools, then a short, legible final attempt the reader can check. Its time loop stays out, since death is permanent; R70-71 and R12-3's study counter are its home); Dinniman, Dungeon Crawler Carl (The room as the counter: a gas, a drop, a cut main beats the boss; bosses that change their rule mid-fight; grief arriving cold after the jokes. Comic beats stay with carded comic voices (R70-113)); Zogarth, The Primal Hunter (The bench wins the fight: poisons and coated shot prepared days before, the dose counted toward its effect, the dying long. Its time-stopping sense would need a ruled mechanism and stays out); SenescentSoul, Delve (Drain-rate tension: the reserve clock worked out so the reader knows when a fighter will cross into Starvation (below a tenth of his reserve). The figures stay between exchanges and in the notes, under R70-88's no running figures).
+
+### R71-10-COUNTING_BACK_SMALL_EXCHANGES [Combat Law 2026-10-04 CW1]
+
+Let exchanges that change nothing be counted back in one sentence, each named by its move, and trace with the floor any exchange that lands, shifts measure or reveals something.
+
+> Count back the minor ones. R48-33 is amended: exchanges that change nothing may be counted back in one sentence, each named by its move; any exchange that lands, shifts measure or reveals something is traced with the floor.
+
+### R71-11-RUNNING_FAST [Combat Law 2026-10-04 CW2]
+
+Once per fight, in its swift stretch, one short paragraph of short, even sentences may break the run rule, and the author notes mark it.
+
+> A staccato run, once. Once per fight, in its swift stretch, one short paragraph of short, even sentences is exempt from the run rule, and the notes mark it. R4-14 is partly amended for fights.
+
+### R71-12-KEEPING_SPACE_TRACKABLE [Combat Law 2026-10-04 CW3]
+
+A scramble in a crowd, the dark or a fall may blur where the fighters stand while it lasts, but every exchange that decides something re-fixes both bodies before it lands.
+
+> Fixed at the deciders. A scramble (a crowd, the dark, a fall) may blur position while it lasts; every exchange that decides something re-fixes both bodies before it lands. Chaos is legal, the deciding geometry always clear.
+
+### R71-13-SUPERHUMAN_SPEED [Combat Law 2026-10-04 CW4]
+
+Render a practitioner's speed by its physics arriving first (the pressure front, the crack after, the wound that opens once he has passed), by stretched time for a POV whose Reflex Grade outruns the threat, and by the gap in the frame with nothing drawn between two poses, each held to FOW's rows for the Grade on the card.
+
+> Yes to: The effect arrives first (Speed shown through its physics: the pressure front, the crack after, the wound that opens once the swordsman has passed. Held to FOW's speed rows for the Grade on the card); Felt time, by Reflex (A POV whose Reflex Grade outruns the threat gets stretched time on the page, held to FOW's Reaction Speed row for that Grade; a slower POV gets only the gap. Sits beside R70-57's one held instant); The gap in the frame (The body is simply elsewhere, nothing drawn between two poses; any after-image is disturbed snow, dust or frost, never a glowing double (R9-3 keeps 'it glowed' banned)). Not taken: The witness who misses it.
+
+### R71-14-IMPACT_MOMENTUM [Combat Law 2026-10-04 CW5]
+
+At display and finisher, say where a big hit's momentum went (what anchored the striker, whether the target was thrown or broken, what the ground took), have the physics audit check it, and move stock images to a bank per culture.
+
+> Momentum accounted for. At display and finisher the page says where the momentum went: what anchored the striker, whether the target was thrown or broken, what the ground took. The physics audit checks it; stock images move to a bank per culture.
+
+### R71-15-FIGHTING_THROUGH_WOUND [Combat Law 2026-10-04 CW6]
+
+A practitioner may hold a broken structure shut with a working for as long as his Tempering allows, at a reserve cost every turn and ending at Starvation, after which the wound is worse, once the working's mechanism has been ruled.
+
+> An Essence splint, priced. A practitioner may hold a broken structure shut with a working: Tempering for how long, a reserve cost per turn, ending at Starvation; the wound is worse afterward. Needs a ruled mechanism before first use.
+
+### R71-16-LONG_PAGE_STAYS_WOUND [Combat Law 2026-10-04 CW7]
+
+Keep exchange wounds precise, give the lingering passage to a finisher, an execution and a battle's one full-detail body, and keep wounds short in roleplay turns unless the death is the turn's point.
+
+> Length by scene type. Exchanges stay precise; a finisher, an execution and a battle's one full-detail body get the lingering passage; roleplay turns keep it short unless the death is the turn's point.
+
+### R71-17-FEAR_BODY [Combat Law 2026-10-04 CW8]
+
+Give an untrained POV's fights at least two fear effects in the body traced to adrenaline, and let trained fighters keep composure free, showing it only under real strain or Pressure.
+
+> Owed for the untrained. An untrained POV's fights carry at least two fear effects in the body, traced to adrenaline; trained fighters keep composure free (R52-28) and show it only under real strain or Pressure.
+
+### R71-18-FIGHT_SOUNDS_LIKE [Combat Law 2026-10-04 CW9]
+
+In fights, carry each impact's sound with the POV culture's own sound words, entered in its Inventory first, keep comparisons for the held instant, and give each culture's bank a few fight words.
+
+> The native word at impact. In fights the POV culture's own sound words (R70-22) carry the impacts, entered in its Inventory first; comparisons are kept for the held instant. Each culture's bank gains a few fight words.
+
+### R71-19-GROUND_WEATHER_FIGHT [Combat Law 2026-10-04 CW10]
+
+Give the adjudication table an environment row in which footing, light, cold, wet and Aetheric Density bend named stats, named in the author notes, and open every planned duel with the fighters reading or choosing ground that then decides at least one exchange.
+
+> Yes to: An environment row (The adjudication table gains a row: footing, light, cold, wet and Aetheric Density bend named stats, and the author notes say which. Weather stops being texture only); Ground chosen before contact (Every planned duel opens with the fighters reading or choosing ground (Counterplay's 'Pick before contact'), and the ground decides at least one exchange). Not taken: New ground, by rotation, Texture only, as now.
+
+### R71-20-FIGHTS_END [Combat Law 2026-10-04 CW11]
+
+Let a fight end by a yield that binds under the culture's custom with its terms on the Ledger, by flight, its pursuit decided on Dexterity (Celerity), the reserve and the ground, leaving a witness and a debt, or by a formal duel code's stated stop that binds both men, and give every killing its culture's legal aftermath on the page as a Front or a Ledger line.
+
+> Yes to: Yield on terms (Surrender is legal and binds by the culture's custom (a Kharven word before witnesses, an Accord form under seal); the terms go on the Ledger as R70-104's debt); Flight, adjudicated (Breaking off and running is always a choice; pursuit is decided on Dexterity (Celerity), the reserve and the ground (FT12 shapes the chase), and a fled fight leaves a witness and a debt); A code ends it (Formal duels run under the culture's code, with seconds and a stated end (first blood, a disarm, a yield); the code's stop binds both men, and breaking it is a Ledger debt); The killing's own law (Every killing carries its culture's legal aftermath (a declaration, a blood-price or labour-debt, outlawry) on the page, opened as a Front or a Ledger line).
+
+### R71-21-AFTERMATH_PAGE [Combat Law 2026-10-04 CW12]
+
+Write a fight's dressing as process: the period kit for the place, the healer's hands, the bleeding clock closing and what this place's medicine cannot do.
+
+> Procedure as craft. The dressing is written as process: the period kit for the place, the healer's hands, the bleeding clock closing, what this place's medicine cannot do. R70-46's craft-as-process reaches the infirmary.
+
+### R71-22-TALK_INSIDE_FIGHT [Combat Law 2026-10-04 CW13]
+
+Write taunts, lies and accusations mid-exchange as moves aimed at breaking the opponent's read or temper, show what each bought or cost in tempo, and keep gallows wit as the only joke.
+
+> Talk as a weapon. Taunts, lies and accusations are moves: each line aims to break the read or the temper, and the page shows what it bought or cost in tempo. Gallows wit stays the only joke.
+
+### R71-23-TELL_READ [Combat Law 2026-10-04 CW14]
+
+Show a tell plainly at its first and second appearance and read it at length at the third, and when the POV is Isaac's PC leave the reading to him.
+
+> Shown twice, then read. The tell is shown plainly at its first and second appearance and read at length at the third, matching NATALIE's two or three exchanges of evidence. When the POV is your PC, the reading is yours.
+
+### R71-24-ROWS_COME_OUT_LEVEL [Combat Law 2026-10-04 CW15]
+
+When the stats that decide an exchange come out level, let the read decide first, then what each fighter has left to spend, then the ground, and have the notes name the step that broke the tie.
+
+> Rule 5's order, step by step. The read decides first, then what each has left to spend, then the ground; the notes name the step that broke the tie, as a Domain clash names its step. Every level exchange reconstructs.
+
+### R71-25-WOUNDS_CARRIED_INTO_NEXT [Combat Law 2026-10-04 CW16]
+
+When a fighter brings a Ledger wound into a new fight, move no Grade and let the wound's structure decide what the body can do, checked by the gap-fill body audit and named in the notes.
+
+> The anatomy, not the stat. No Grade moves. The wound's structure decides what the body can do (a stitched forearm cannot hold a hard bind, a cracked rib cannot take a deep breath), checked by the gap-fill body audit and named in the notes.
+
+### R71-26-COUNTING_ROUNDS_VIALS_CHARGES [Combat Law 2026-10-04 CW17]
+
+Let the page keep count of rounds, vials and charges exactly as the POV does, a trained hand's count kept and a panicked or untrained man's lost, while stats and the reserve stay under R70-88.
+
+> Counted as the POV counts. A trained hand keeps his count and the page keeps it with him; a panicked or untrained man loses count and the reader with him. Objects only: stats and the reserve stay under R70-88.
+
+### R71-27-SPOKEN_WORKING_EXCHANGE [Combat Law 2026-10-04 MC1]
+
+When a practitioner speaks a working mid-fight, print its chain in pieces between the opponent's moves, so each clause costs a step the opponent takes and the reader can count the race's price.
+
+> Cut into the exchange. The chain is printed in pieces between the opponent's moves, so each clause costs a step he takes. The Combat Guide gains the rule; the reader watches the race and can count its price.
+
+### R71-28-DECIDES_CASTING_SPEED [Combat Law 2026-10-04 MC2]
+
+Decide every race between workings, or between a working and a blade, from a new Alacrity row today, and where a technique card's Readiness figure has been filled, let that figure govern instead.
+
+> Row now, cards override. The Alacrity row decides every race today; where you fill a card's Readiness, that figure governs. Nothing waits on figures, and precision grows as cards are filled.
+
+### R71-29-OFTEN_ART_RELEASED [Combat Law 2026-10-04 MC3]
+
+An art's release call may be spoken as often as the fighter can afford the beat it costs, each call buying its output, with no once-per-scene cap.
+
+> As often as beats allow. R50-09 governs and R8-26 is marked superseded. Every call costs its beat and buys its output, so a fighter may call his art again whenever he can afford the beat.
+
+### R71-30-HELD_BACK_REVEAL [Combat Law 2026-10-04 MC4]
+
+A working's rule may act on the page before the fight without explanation, as evidence a reader could catch, and be told by a voice only at the reveal, with the author notes listing each planted sign.
+
+> Shown before, told at reveal. This reopens R70-71 for held reveals: the rule may act earlier, unexplained, as evidence a reader could catch, and a voice tells it at the reveal. The notes list each planted sign.
+
+### R71-31-COUNTERS_DUEL_SCALE [Combat Law 2026-10-04 MC5]
+
+A chart derived from Codex physics says which conditions and Wellspring Families make each Family's working cost more and deliver less, while each card's Counter field stays the hard answer; the chart binds once ratified.
+
+> Soft Family chart. A chart derived from Codex physics says which conditions and Families make each Family's working cost more and deliver less; the card's Counter field stays the hard answer. You ratify the chart.
+
+### R71-33-DRAIN_SHOWS [Combat Law 2026-10-04 MC7]
+
+Between readout lines, show a falling reserve through a bank of body signs keyed by culture to the Ledger's thresholds, through waste heat that grows as eta falls, and through the opponent's read and his choice to make the spender spend.
+
+> Yes to: The body, by threshold (A bank of body signs keyed to the Ledger's lines, committed spending and Starvation: cold hands, tin on the teeth, the slow grip. Logged by culture, so the nosebleed stops carrying everything); The waste grows (As η (eta, efficiency) falls, the same work sheds more heat, so the room shows the drain: the thawed ring widens, the air shakes harder. Canon's own law, written as a rule of the page); The opponent reads it (The drain is shown through the other fighter's read and his choice to make the spender spend. The Counterplay doctrine, on the page). Not taken: By Family.
+
+### R71-34-OVERCHANNEL_PAGE [Combat Law 2026-10-04 MC8]
+
+When a practitioner Overchannels, show the crack in the exchange through the Crystal's inner map and a body symptom, leave its size to a surgeon or an instrument afterward, and enter it on the Ledger only once measured.
+
+> Felt now, measured after. The crack is felt in the exchange, inner map and body symptom; its size comes later from a surgeon or an instrument, and the Ledger enters it when measured.
+
+### R71-35-SECOND_WIND [Combat Law 2026-10-04 MC9]
+
+Crisis Recovery, the Crystal's surge in a crisis, may land at the deciding exchange only when its trigger was planted earlier where a reader could catch it, its price goes on the Ledger, and it stays rare.
+
+> Decides, if planted. It may land at the deciding exchange only when its trigger was set up earlier on the page where a reader could catch it, and its price goes on the Ledger. Rare by rule.
+
+### R71-36-HEALING_INSIDE_FIGHT [Combat Law 2026-10-04 MC10]
+
+While a fight runs, a Vitalia working may only close a vessel or seal a bleed, at full price, and the wound itself stays open until the fight ends.
+
+> Stop the bleeding only. Mid-fight Vitalia may close a vessel or seal a bleed, at full price; the wound itself stays open until the fight ends. §7.1 gains the row.
+
+### R71-37-TRAITS_THEY_FIRE [Combat Law 2026-10-04 MC11]
+
+When a Trait a character already holds fires in a fight, narration names it the first time it fires in that scene and then shows it working.
+
+> Named at first fire. Narration names the Trait the first time it fires in a scene, then shows it working. The reader holds the name the way he holds a technique's.
+
+### R71-38-RESONANT_PAIR_UNDER_STRAIN [Combat Law 2026-10-04 MC12]
+
+Where a Sub-Stat sits at its Stage's cap, strain in a fight may lift it level with its partner so their Resonant Pair runs for the crisis and then lapses, with the author notes naming the strain.
+
+> For the crisis only. Where a Sub-Stat sits at its Stage's cap, strain may lift it level with its partner, and the Pair runs for the crisis, then goes. The notes name the strain.
+
+### R71-39-ALLIES_WORKING_TOGETHER [Combat Law 2026-10-04 MC13]
+
+Allies in a fight chain their workings by default, and two may fuse only through a carded Synergia technique they learned together, with its own cost split and counter; improvised fusion is barred.
+
+> Drilled forms, carded. Allies chain by default; a fusion exists only as a carded Synergia technique the pair learned together, with its own cost split and counter. No improvised fusion.
+
+### R71-40-MECHANISM_AIMED_PRESSURE [Combat Law 2026-10-04 MC14]
+
+Killing intent works by Dominion drawing the Passive Pressure Field onto one man, so what he takes the room loses and the room eases as he suffers, with the trade's figures set from Dominion.
+
+> The field narrowed. Dominion draws the Passive Pressure Field onto one man; what he takes, the room loses, so the room eases as he suffers. The trade's figures come from Dominion, set by you.
+
+### R71-41-PRESSURE_UNWOKEN [Combat Law 2026-10-04 MC15]
+
+Pressure between practitioners keeps the Stage-gap ladder, while a person with no Stage takes Fracture of Worlds Part Eleven's Aura table by Grade (dread from F to D, weight in the room from C, knees bending from A), with no new figures.
+
+> The Aura table, by Grade. Practitioner against practitioner keeps the Stage ladder; the unwoken take Part Eleven's Grade table: dread from F to D, weight in the room from C, knees bending from A. No new figures.
+
+### R71-42-TWO_PRESSURES_ONE_ROOM [Combat Law 2026-10-04 MC16]
+
+When two practitioners of the same Stage bring their Pressure into one room, the Pressures contest it by Dominion before steel: the room shows the border moving, bystanders take both, and the loser begins the fight already paying.
+
+> A contest for the room. Meeting Pressures fight for the room by Dominion before steel; the room shows the border moving, bystanders take both, and the loser begins the fight already paying. §7 gains the row.
+
+### R71-43-SUPPRESSION_PAGE [Combat Law 2026-10-04 MC17]
+
+A practitioner holding his Pressure in pays in named places of his body (jaw, collar, temper) at a cost that grows with the approach, leaks faintly into the room for a sharp eye or good Gnosis to catch, and leaves a sag on a gauge or coil.
+
+> Yes to: The cost in his body (Holding it in tires him in named places, jaw, collar, temper, and the cost grows with the approach. The Combat Guide gains a bank of signs by culture); Small leaks in the room (R70-69 at its faintest: the draw-hum dips and a dog lies down as he passes. A sharp-eyed reader, or a POV with good Gnosis, can catch a suppressed man); Instruments catch it (A gauge or coil reads what eyes miss; the Board's clerks and the Measurewrights can find a suppressed man by the sag he leaves on a needle).
+
+### R71-44-FACULTY_READ_MAN [Combat Law 2026-10-04 MC18]
+
+A practitioner's faculty prints an opponent's exact figures when his Gnosis Perception outranks the target's Resilience Ward by Grade, and only a hedged range when it does not, Ward being the counter.
+
+> Exact unless warded. A faculty prints exact figures where the reader's Gnosis Perception outranks the target's Resilience Ward by Grade, and a hedged range where it does not. §7 gains the row; Ward is the counter.
+
+### R71-45-RAISING_DOMAIN_DUEL [Combat Law 2026-10-04 MC19]
+
+In a duel a Domain below Stage XI rises over turns by the holder's attention, unnamed, at a cost the notes track, as his display beat; from Stage XI, where canon has it leak, suppression holds it in and the holder lets it go in a beat.
+
+> Attention, then held in. Below Stage XI it rises by attention as in A. From Stage XI, where canon has it leak, suppression holds it in and the holder lets it go in a beat. Originated; you rule it. (Option A there reads: Raised by attention. Part Twenty-Two read plainly: the holder concentrates and the Domain comes up over turns, unnamed, at a cost the notes track. Its rising joins R9-3-SCOPE's triggers as his display beat.)
+
+### R71-46-DOMAIN_CLASH_PAGE [Combat Law 2026-10-04 MC20]
+
+When two Domains meet in a duel, show the seam between the two laws in the room and let it move, have one voice name the deciding step once, and pace the clash like an exchange so it reconstructs.
+
+> The moving border. The seam between two laws shows in the room and moves; one voice names the deciding step once. Reconstructible, and paced like an exchange.
+
+### R71-47-SHOWING_SCALE [Combat Law 2026-10-04 MC21]
+
+When top-ladder practitioners fight in a city, carry the scale by one marked dip into a commoner's head in the street before the lock resumes, by walking the ruined ground afterward, and by entering lives and property on the Ledger as claims settled in a later scene at the Accord's schedule.
+
+> Yes to: One street beat (At a marked break, one commoner in the street gets a short dip inside her head, then the lock resumes. Scale seen from the ditch, by R70-11's device); The aftermath walk (The scale is shown after, walking the ground (R57-24). The fight stays tight; the ruin tells the size); The claims come in (Lives and property go on the Ledger as claims, settled in a later scene at the Accord's schedule, as R54-15 lets a later scene pay an aftermath. WT10 asks the fighter's own bill). Not taken: A report sizes it.
+
+### R71-48-WASTE_LIGHT_OUTSIDE_DISPLAY [Combat Law 2026-10-04 MC22]
+
+Outside a display beat, write a working's waste light by the smith's colour scale (dull red, orange, white) and by what it lights, with brightness tracking eta so masters work darker, and never use the word glow.
+
+> Incandescent, by physics. Waste light is written by the smith's colour scale, dull red to orange to white, and by what it lights; brightness tracks η, so masters work darker. The word glow stays banned.
+
+### R71-49-SUMMON_DISPLAY_BEAT [Combat Law 2026-10-04 MC23]
+
+A Native summon, having its own Crystal, takes a display beat of its own, while Donated and Analog forms share their summoner's beat, provenance deciding.
+
+> Native summons earn one. A Native summon, with its own Crystal, takes its own display beat; Donated and Analog forms share the summoner's. Provenance decides, as the Register's doctrine says.
+
+### R71-50-SHOT_MEETS_WORKED_CUIRASS [Combat Law 2026-10-04 MC24]
+
+When a worked cuirass stops a ball, show the stop the way its inscription works and leave that inscription's own mark from the Combat Guide's §4.6, so the shooter can read which working he faces and which round to bring next.
+
+> By inscription, read on plate. Each inscription stops shot its own way and leaves its own mark from §4.6, so the shooter can read which working he faces and which round to bring next.
+
+### R71-51-SKIRMISH_THREE_TEN [Combat Law 2026-10-04 FT1]
+
+In a skirmish (three to ten fighters, no formation) the POV's own exchanges carry the full duel floor, everyone else's fighting is compressed under the Mass Combat Guide's rules, and her count of who still stands stays in her head, never printed as figures.
+
+> Duel floor, mass compression. Amends R1-4: the POV's own exchanges carry the duel floor, and everyone else's fighting is compressed by the Mass Guide's rules. Her count of who still stands stays in her head, never as figures.
+
+### R71-52-AMBUSH_NAMED_ROUND [Combat Law 2026-10-04 FT2]
+
+Write an ambush or assassination as two POV-locked halves split by a marked break, the wait and then the shot; in roleplay the shooter's half is one turn's closing cutaway and the shot lands in the next turn.
+
+> Both, split by a break. A marked break splits the wait from the shot, each half POV-locked. In roleplay the shooter's half is one turn's closing cutaway (R49-09), and the shot lands in the next turn.
+
+### R71-53-BRAWLS_FOLK_SCHOOLS [Combat Law 2026-10-04 FT3]
+
+Treat each culture's folk wrestling and fist-fighting as a school: its Standing Inventory's Words entry gains those words (entered and logged), a POV raised in them names his moves in them, and verify gains a word list per culture.
+
+> Folk schools, by culture. Each Standing Inventory's Words entry gains its wrestling and fist words, entered and logged; a POV raised in them names moves in them, and verify gains a list per culture.
+
+### R71-54-BOUTS_AETHERION [Combat Law 2026-10-04 FT4]
+
+Chalk each sanctioned bout's terms before it starts (yield, ring-out, a wound by class); fighters may push right up to them, and the warden's gauge stops only what the terms never priced.
+
+> Posted terms, warden backstop. Each bout's terms are chalked before it (yield, ring-out, a wound by class). Fighters may push right up to them, and the warden's gauge stops only what the terms never priced.
+
+### R71-55-DUELS_FIRST_BLOOD [Combat Law 2026-10-04 FT5]
+
+A duel to first blood stops at the first wound, but that wound is tracked like any other: where the point lands decides whether it is a nick or a death, and the Ledger keeps what follows.
+
+> Terms hold, the body doesn't. The duel stops at first blood, but the wound is tracked like any other: where the point lands decides whether it is a nick or a death, and the Ledger keeps what follows.
+
+### R71-56-SHAPE_MONSTER_FIGHT [Combat Law 2026-10-04 FT6]
+
+A fight with a Well-spawn or other beast may be written as a hunt won at the shaft head (reading the draw, choosing the entry's counter, laying out the kit, then a short kill), and it may turn in phases only at a lever canon gives the beast (its tie cut, its Wellspring's failure induced), the rung dropping on the page and an untraceable phase failing R13-8; the duel-with-a-beast shape was not taken.
+
+> Yes to: The hunt as procedure (The fight is won at the shaft head: reading the draw, choosing the entry's counter, laying out the kit. The kill is short and the work is the scene); Phases at the tie (A beast's fight turns (a boss phase: the monster changing form mid-fight) only at a lever canon gives it: its tie cut, its Wellspring's failure induced. The rung drops on the page; an untraceable phase fails R13-8). Not taken: A duel with a beast.
+
+### R71-57-APPRAISING_BEAST [Combat Law 2026-10-04 FT7]
+
+When a coil or a trained eye appraises a beast, the tape prints its rung and its Commission tier together, a voice names the gap wherever the two disagree, and the appraisal counts as one of the scene's three readouts.
+
+> Both, and the gap. The tape prints rung and Commission tier together, and where they disagree a voice names the gap, because canon puts the hunter's answer there. It counts as one of the scene's three readouts (R70-86).
+
+### R71-58-ONE_SHOT_PRACTITIONER [Combat Law 2026-10-04 FT8]
+
+Trace each shot at a practitioner like an exchange: the range, the ball's speed (R45-1's reference figure) against the Speed Grade the POV reads, the result, and its cause stated under R53-05, with rounds left counted as CW17 rules.
+
+> Each shot traced. A shot is traced like an exchange: range, the ball's speed (R45-1's reference figure) against the Speed Grade the POV reads, the result, the cause stated under R53-05. Rounds left are counted as CW17 rules.
+
+### R71-62-CHASES_PURSUITS [Combat Law 2026-10-04 FT12]
+
+Decide a chase by the reserve race (every burst of speed spent, both bodies paying, whoever runs dry first losing, the running total kept in the notes) and by the quarry's route read against the pursuer's (ground chosen beforehand, a cut street, a standpipe yard, a rail cutting), the map deciding while the reserve still runs; the crowd-and-law shape was not taken.
+
+> Yes to: The reserve race (The chase is the reserve clock: every burst of speed is spent, both bodies pay, and whoever runs dry first loses. The running total stays in the notes (R70-88)); The quarry's route (The chase is the quarry's route read against the pursuer's: ground chosen beforehand, a cut street, a standpipe yard, a rail cutting. The reserve still runs, but the map decides). Not taken: The crowd and the law.
+
+### R71-63-BEASTKIN_SENSES_FOX_FIRE [Combat Law 2026-10-04 FT13]
+
+For a scenting POV the floor's named read may be a smell stated as evidence (what was smelled, where, what it means) with tempo words following the nose; ears and tail move before the fighter decides, and an opponent who knows it may read them as a fair, findable counter; and a canon Trait that makes light, such as fox-fire, is named as light by colour, size and what it shows, R9-3's glow ban staying on Essence discharge only; lineage on the appraisal was not taken.
+
+> Yes to: Scent as the read (For a scenting POV, the floor's named read may be a smell stated as evidence: what was smelled, where, and what it means. Tempo words follow the nose); Tells the enemy reads (Ears and tail move before the fighter decides, and an opponent who knows it may read them: an involuntary tell written as a fair, findable counter, in the opponent's eyes or mouth); Fox-fire as plain light (A canon Trait that makes light is named as light, by colour, size and what it shows; R9-3's glow ban stays on Essence discharge only). Not taken: Lineage on the appraisal.
+
+### R71-64-FIGHTING_MAIN [Combat Law 2026-10-04 FT14]
+
+Three Draw Age terrain beats become standing fight texture: a district may be cut from outside mid-fight (the hum dies, the room's density falls, every draw costs more, and the page names who ordered it); a working that splits a culvert or standpipe spikes the room's density (output up, reach down by FOW's square-root law, any figure printed as a marked estimate); and ground fought on stays short for hours (reach falls, gauges read the residue, a second fight there pays for the first, no figure printed without a source); rail and the tram slot were not taken.
+
+> Yes to: The cut mid-fight (A district can be cut from outside during a fight: the hum dies, the room's density falls, every draw costs more, and the page names who ordered it, even unseen); The burst main (A working that splits a culvert or standpipe spikes the room's density: output up, reach down, by FOW's square-root law. The page shows the effect; any figure prints as a marked estimate (R70-99)); Short ground after (Ground fought on stays short for hours: reach falls, gauges read the residue, and a second fight there pays for the first. FOW's law decides it, and no figure prints without a source). Not taken: Rail and the tram slot.
+
+### R71-65-RIVER_SEA_FIGHTS [Combat Law 2026-10-04 FT15]
+
+A river fight runs on rows of its own: the banks close the horizon and open a rout and an ambush, the current is the motion channel, sound carries far over cold water, and the cold drowns.
+
+> River law of its own. A river gets its own rows: banks close the horizon and open a rout and an ambush, the current is the motion channel, sound carries far over cold water, and the cold drowns.
+
+### R71-66-FIGHT_THAT_MOSTLY_READ [Combat Law 2026-10-04 FT16]
+
+When a fight is a long read and one cut, the read pays the floor's first four items (measure, tempo, read, fault) before the cut, the body pays the last four (the hit, the injury, the Essence, what he cannot do) after it, and the cut itself is one line between.
+
+> Read before, body after. The read pays the first four items (measure, tempo, read, fault) before the cut; the body pays the last four (the hit, the injury, the Essence, what he cannot do) after it. The cut is one line between.
+
+### R71-67-CLEAR_WARNING_BEFORE_LOSS [Combat Law 2026-10-04 FT17]
+
+Before any exchange may kill a losing POV, at least one plain sign the fight is lost (a gap read, a wound, a second's shout, a readout) lands an exchange or more earlier and a way out (ground, a door, a yield, a price) is shown; a death means the exit was missed or refused, the notes cite both sign and exit, and ambushes follow R48-30.
+
+> A sign and an exit. As B, plus a way out shown before the killing exchange (ground, a door, a yield, a price). A death means the exit was missed or refused, and the notes cite both sign and exit. (Option B there reads: One plain sign first. At least one plain sign the fight is lost (a gap read, a wound, a second's shout, a readout) lands an exchange or more before the killing one, and the notes cite it. Ambushes follow R48-30.)
+
+### R71-68-TWO_GRAMMARS_MEET [Combat Law 2026-10-04 FT18]
+
+When fighters of two grammars duel, both shapes run at once, the POV's grammar on the surface and the opponent's underneath in the cost, and the fight turns at the moment one overruns the other.
+
+> The clash is the shape. Both shapes run at once: the POV's grammar on the surface, the opponent's underneath in the cost, and the fight turns at the moment one overruns the other.
+
+### R71-69-GRAMMAR_GUN_BENCH_FIELD [Combat Law 2026-10-04 FT19]
+
+The four combat grammars suffice: a marksman fights in Verdict, a bench alchemist and a field caster fight in Expenditure, each card names its grammar, and no fifth is added.
+
+> The four suffice. A marksman reads, ranks and commits, so he fights in Verdict; the alchemist and the field caster make the other man spend, so they fight in Expenditure. Each card names its grammar; no fifth.
+
+### R71-73-PREPARED_LIVE_FIGHT [Combat Law 2026-10-04 AL4]
+
+Every Draft in a fight left a bench beforehand, so mid-fight an alchemist only spends the bandolier or lays Draft ground, at a cost in turns with hands busy and eyes down, and a bench scene plants each vial.
+
+> Made before, ground live. Canon read straight: every Draft left a bench before the fight; mid-fight the alchemist spends the bandolier or lays Draft ground, costing turns with hands busy and eyes down. A bench scene plants each vial.
+
+### R71-74-DRAFT_SIX_SECOND_TURN [Combat Law 2026-10-04 AL5]
+
+Drinking or smearing a Draft takes a whole turn and opens the drinker inside measure, throwing or smashing one is a single action within an exchange, and the hand going to the bandolier is a readable tell.
+
+> A drink costs the turn. Drinking or smearing takes a whole turn and opens the drinker inside measure; throwing or smashing is one action within an exchange. The hand going to the bandolier becomes a readable tell.
+
+### R71-76-FORMULA_OWN_FAILURE [Combat Law 2026-10-04 AL7]
+
+Show the precaution each formula demands against failing onto its user (the gloved off hand, the chalked hour, the edge kept wide of the body) at every use, as a standing tell a reading opponent can exploit, so the counter stays on the page.
+
+> Every use shows it. The precaution each formula demands (the gloved off hand, the chalked hour, the edge kept wide of the body) shows at every use, a standing tell a reading opponent can exploit. The counter stays on the page.
+
+### R71-77-POISON_DUEL [Combat Law 2026-10-04 AL8]
+
+Give each Standing Inventory a line on coated weapons and poison taken from the culture's real analogue, with the Accord's munitions class as the first entry, so an Accord duel and a Moto duel may differ.
+
+> By culture, on the Inventory. Each Standing Inventory gains a line on coated weapons and poison, taken from the culture's real analogue; the Accord's munitions class is the first entry. An Accord duel and a Moto duel may differ.
+
+### R71-79-MEDICINE_PLACE_PURSE [Combat Law 2026-10-04 AL10]
+
+Treat wounds by place and purse: the surgeon uses Drafts beside carbolic and chloroform for those who pay, the Legion gets Bone-Grey by issue, the north and the poor get the barber and Cutwater, and every wound scene names which.
+
+> Both, by place and purse. The surgeon uses Drafts beside carbolic and chloroform for those who pay; the Legion gets Bone-Grey by issue; the north and the poor get the barber and Cutwater. Every wound scene names which.
+
+### R71-85-DRAFT_AGAINST_WORKING [Combat Law 2026-10-04 AL16]
+
+Split a thrown Draft in two: its plain physics (blast, heat, acid, smoke) meets Durability like any force, while its worked part answers its maker's ceiling and fails against anyone above it, and both stay traceable.
+
+> Two parts, two answers. A Draft splits: its plain physics (blast, heat, acid, smoke) meets Durability like any force, while its worked part answers its maker's ceiling and fails against anyone above it. Both stay traceable (R13-8).
+
+### R71-86-REVENANT_FIGHT [Combat Law 2026-10-04 AL17]
+
+Fight a revenant as a body on habit: anatomy stops the motion (a cut hamstring drops it) while the habit keeps trying, only ash, removal or the ninth day ends it, and the combat floor applies by structure with no blood-loss class.
+
+> Levers still rule. A body on habit: anatomy stops the motion (a cut hamstring drops it) while the habit keeps trying; only ash, removal or the ninth day ends it. The floor applies by structure, with no blood-loss class.
+
+### R71-88-EXPLOSIVES_BESIDE_INDEX [Combat Law 2026-10-04 AL19]
+
+The span's real explosives and incendiaries exist as plain chemistry with no Essence and no rank gate, licensed under ordinary powder law; the coil reads nothing in them, and a quarryman's stick of dynamite holds about what a Thundercrack does.
+
+> Plain chemistry, powder law. They exist as plain chemistry with no Essence and no rank gate, licensed under ordinary powder law. The coil reads nothing in them, and a quarryman's stick of dynamite holds about what a Thundercrack does.
+
+### R71-89-ITEM_CARD_FIGHT [Combat Law 2026-10-04 WT1]
+
+When a weapon or round is first appraised while a fight runs, a trained eye names its Tier inline by name alone, the full item card waits for the counter or the aftermath, and no set-off block sits between exchanges (verify_scene warns on one).
+
+> Tier named, card after. Mid-fight a trained eye names the Tier inline, by name alone (R70-82). The full card waits for the counter or the aftermath. No set-off block between exchanges; verify_scene warns on one.
+
+### R71-90-WEAPON_NAMES_FIGHT [Combat Law 2026-10-04 WT2]
+
+In a fight the narration calls a weapon whatever the POV calls it (a Kharven rider's folk name, a Moto retainer's true name), matching R70-100's rule for moves, and the weapon's other names wait for a card or the aftermath.
+
+> The POV's own name. Narration uses whatever the POV calls it: a Kharven rider's folk name, a Moto retainer's true name. It matches R70-100's rule for moves. Other names wait for a card or the aftermath.
+
+### R71-91-ARMOUR_SUMS_PAGE [Combat Law 2026-10-04 WT3]
+
+A trained POV names both Tiers in her read before an exchange against armour and the steel then shows the sum, an untrained POV falls back to option A (the steel tells it), and a reader can check every penetration against R46-3.
+
+> The read names the sum. A trained POV names both Tiers in her read before the exchange (R70-88), then the steel shows the sum. Untrained POVs fall back to A. The reader checks every penetration against R46-3.
+
+### R71-92-ARMOUR_KIND_AGAINST [Combat Law 2026-10-04 WT13]
+
+Unworked armour meets a strike by its physics (mail turns the cut, not the thrust), and once armour carries a working R46-3's Tier decides and the kind is only the shape the working wears, as R13-C has it for shot.
+
+> Kind if plain, Tier if worked. Unworked armour fights by its physics (mail turns the cut, not the thrust); once armour carries a working, R46-3's Tier decides and the kind is only the shape the working wears, as R13-C has it for shot.
+
+### R71-93-PROOFED_SHOT_AGAINST_PROOFED [Combat Law 2026-10-04 WT4]
+
+Against worked armour a proofed round strikes as one Tier higher on R46-3's one ladder, so proofed shot breaks proofed plate, a round two over passes and the named round is simply two over, with R13-C's ruling kept.
+
+> Out-coupling counts one Tier. Against worked armour a proofed round strikes as one Tier higher: proofed shot breaks proofed plate, a round two over passes, and the named round is simply two over. One ladder, R13-C kept.
+
+### R71-94-STALE_POUCH [Combat Law 2026-10-04 WT5]
+
+A stale enhanced round may fail in a fight only if the page showed its date earlier (the stamp on the pouch, a Harmonist's word, a re-read put off), and the failure is then the fight's fair surprise.
+
+> Fails on a planted tell. A stale round may fail mid-fight only if the page showed its date earlier: the stamp on the pouch, a Harmonist's word, a re-read put off. The failure is then the fight's fair surprise.
+
+### R71-95-WARD_BREAKING [Combat Law 2026-10-04 WT6]
+
+When a fight breaks a ward, a POV inside the craft names the failing layer as it goes, while any other POV gets only what stops and hears the layer named in a mouth, keyed to the POV as R70-100's school words are.
+
+> By who is looking. A POV inside the craft names the layer as it goes; any other POV gets only what stops, and hears the layer named in a mouth. Keyed to the POV, as R70-100's school words are.
+
+### R71-96-WELL_AS_GROUND [Combat Law 2026-10-04 WT7]
+
+Before contact in a Well fight a gauge or a practitioner's feel names the density rung (Ambient Saturation through Core) and every reach is written to it, and porters, lamp-men and timber crews are in the fight as people who can win it, with no Shell to fire and no reserve to drain, each given a want and a line.
+
+> Yes to: Reach written to rung (Before contact a gauge or a practitioner's feel names the density rung (Ambient Saturation through Core), and every reach in the fight is written to it. Adds reach beside §7's draw-cost row); The unawakened in it (Porters, lamp-men and timber crews are in every Well fight as people who can win it: no Shell (the layer a working fires through) to fire, no reserve to drain. Each gets a want and a line). Not taken: The register stays tidy.
+
+### R71-97-CONTRACT_FIGHTS [Combat Law 2026-10-04 WT8]
+
+A Guild or Crown contract fight sets its posting on the page at the hook in the Guild's house style (terms, pay, register, penalty), carries at least one clause limiting how it may be won with a penalty, and closes at the clerk's counter with the proof asked, the clerk's dispute and the pay from the price table, a failed proof becoming a Ledger debt.
+
+> Yes to: The posting as document (The posting is set on the page at the hook in the Guild's house style (terms, pay, register, penalty), a document voice that plants the rules before the fight (R70-71)); A clause binds the fight (Every contract carries at least one clause limiting how it may be won (alive, intact, unwitnessed, before the thaw), with a penalty. The cheapest counter often breaks the clause); Proof at the counter (The job closes at the clerk's counter: the proof the contract asks for, the clerk's dispute, the pay named from the price table. A failed proof is a Ledger debt).
+
+### R71-98-HEARS_RAIL [Combat Law 2026-10-04 WT9]
+
+At a sanctioned bout the Measurewright says her reading aloud as she takes it, so both fighters and the benches hear it, the readout reaches a fighter's own page, and a suppressed Stage is exposed in public with R70-112's bill.
+
+> Called aloud to all. She says the reading as she takes it: both fighters and the benches hear it, the readout reaches a fighter's own page, and a suppressed Stage is exposed in public, with R70-112's bill.
+
+### R71-99-BILL_AFTER_FIGHT [Combat Law 2026-10-04 WT10]
+
+After a fight each cost arrives in the aftermath as a person or a paper (the fee named from the price table or exactly in kind, the debt spoken, the witnesses counted), while the formal Ledger stays in the notes.
+
+> The bill in the world. Each cost arrives as a person or a paper in the aftermath: the fee named from the price table or exactly in kind, the debt spoken, the witnesses counted. The formal Ledger stays in the notes.
+
+### R71-100-ROLL_AFTER_PUBLIC_FIGHT [Combat Law 2026-10-04 WT11]
+
+A fight fought before witnesses is entered on the Reckoner's roll (who, where, by what, the outcome, read aloud as written) as a public record that can be read back and contested at the next quarrel, and a notable win may earn a Guild commendation struck on the token, with legal weight and no stat effect.
+
+> Entered, may earn a mark. B, and a notable win may earn a Guild commendation struck on the token (R70-96): the genre's achievement in WOTR's institutions, with legal weight and no stat effect. (Option B there reads: Entered as a record. A fight before witnesses is entered: who, where, by what, the outcome, read aloud as written. A public record that can be read back and contested at the next quarrel.)
+
+### R71-101-LAW_TURNS [Combat Law 2026-10-04 WT12]
+
+When a fight ends in a death, law moves only on a witness or a reading inside the residue clocks (an unread killing sits on the Ledger as a risk), every practitioner's killing opens a jurisdiction contest between crown, company and guild as a Front, and a killer who does not declare before witnesses by the next dawn is a murderer in every culture that keeps witnesses, the declaration being its own short scene.
+
+> Yes to: Proof decides (Law moves only on a witness or a reading inside the residue clocks (R61-7); R60-11's trace proof reaches blade killings too. An unread killing sits on the Ledger as a risk); Courts fight over it (Every practitioner's killing opens a jurisdiction contest between crown, company and guild (R60-19) as a Front, and the killer's fate turns on which layer wins it); Declare it, or murder (A killer who does not declare before witnesses by the next dawn is a murderer in every culture that keeps witnesses, Kharven and Korvaeth first. The declaration is its own short scene). Not taken: Standing buys terms.
+
+### R71-102-WHERE_COMBAT_LAW_LANDS [Combat Law 2026-10-04 ME1]
+
+The combat answers land as one dated Combat Law rule doc logged through log_ruling and served by load_rules, plus new editions of the Combat Craft, Mass Combat Craft and Item and Equipment Writing guides and NATALIE.md's stale combat lines rewritten, so nothing still teaches dead law.
+
+> Rule doc, three guides. A, plus new editions of the Combat Craft, Mass Combat Craft and Item and Equipment Writing guides, and NATALIE.md's stale combat lines rewritten, so nothing still teaches dead law. (Option A there reads: Rule doc only. One dated Combat Law doc through log_ruling, served by load_rules. The guides and NATALIE.md stay as they are until a later pass, stale lines included.)
+
+### R71-103-COMBAT_CHECKS_VERIFY_SCENE [Combat Law 2026-10-04 ME2]
+
+verify_scene's combat check gains a hammer-and-haft Percussion list, boxing as its own school and firearms and Kharven lists; it WARNs past three readout lines a scene or two a turn, on two in one exchange and on a figure carried from one exchange to the next; and it WARNs past one a scene on the archive's tired fight devices (the default 'eleven', the knock-back furrow, the overdraw nosebleed, 'without deciding to', 'the particular X of Y').
+
+> Yes to: Truer school lists (Percussion gets a hammer-and-haft list, boxing becomes its own school, and firearms and Kharven lists are added, so a gunfight or a hall fight is checked in its own words); Readout and beat counts (WARN past three readout lines a scene or two a turn, on two in one exchange, and on a figure carried from one exchange to the next (R70-86, R70-88)); Stale-device watch (WARN past one a scene on the archive's tired fight devices: the default 'eleven', the knock-back furrow, the overdraw nosebleed, 'without deciding to' and 'the particular X of Y'). Not taken: Checks 24 to 26.
+
+### R71-104-COMBAT_SAMPLE_BANK [Combat Law 2026-10-04 ME3]
+
+The combat sample bank holds both a fight passage in each culture file where Natalie already loads them and a bank of the fight types the archive has never written.
+
+> Both. A and B: culture passages where Natalie already loads them, and the fight types the archive has never written.
 
 ### R60-01-BRUTAL_LETHALITY [Combat, Society and Politics Law 2026-09-26 Combat, society and politics]
 
@@ -3133,7 +3955,7 @@ Every duel ends with a full aftermath beat: wounds dressed, what changed between
 
 > Every duel ends with a full aftermath beat: wounds dressed, what changed between people.
 
-## dialogue (168)
+## dialogue (174)
 
 ### R20C-36-CLEARLY_WINS [Pack Twenty R20C-36]
 
@@ -3428,6 +4250,42 @@ The sealed Necrocursica sits beside the Zettari notes as the source material Mu-
 When Isaac asks for an RP post to be made better, his dialogue is improved too (voice, rhythm, realism) keeping meaning, intent and prosodic notation; fixed text still governs scene work.
 
 > When Isaac asks Natalie to "make this better / improve it" on an RP post, his dialogue is in scope and gets improved automatically (voice, rhythm, realism per R19-4), keeping each line's meaning and intent and his prosodic notation (capitals, ellipses) per R19-3.
+
+### R71-22-TALK_INSIDE_FIGHT [Combat Law 2026-10-04 CW13]
+
+Write taunts, lies and accusations mid-exchange as moves aimed at breaking the opponent's read or temper, show what each bought or cost in tempo, and keep gallows wit as the only joke.
+
+> Talk as a weapon. Taunts, lies and accusations are moves: each line aims to break the read or the temper, and the page shows what it bought or cost in tempo. Gallows wit stays the only joke.
+
+### R71-27-SPOKEN_WORKING_EXCHANGE [Combat Law 2026-10-04 MC1]
+
+When a practitioner speaks a working mid-fight, print its chain in pieces between the opponent's moves, so each clause costs a step the opponent takes and the reader can count the race's price.
+
+> Cut into the exchange. The chain is printed in pieces between the opponent's moves, so each clause costs a step he takes. The Combat Guide gains the rule; the reader watches the race and can count its price.
+
+### R71-29-OFTEN_ART_RELEASED [Combat Law 2026-10-04 MC3]
+
+An art's release call may be spoken as often as the fighter can afford the beat it costs, each call buying its output, with no once-per-scene cap.
+
+> As often as beats allow. R50-09 governs and R8-26 is marked superseded. Every call costs its beat and buys its output, so a fighter may call his art again whenever he can afford the beat.
+
+### R71-72-ALCHEMIST_VOICE [Combat Law 2026-10-04 AL3]
+
+Put three habits on the alchemists' trade menu (reading mouths, hands, sclera and tremor before faces, with a 'reads first' line in the card's voice block; weighing a thing by price, vessel, seal and ledger; and the bench operations as all-purpose idiom, a few logged per card), and leave quiet at the work off it.
+
+> Yes to: Reads the body first (On the menu: notices mouths, hands, sclera and tremor before faces, and reads a dose, a career or a lie in them. A card that takes it gains a 'reads first' line in its voice block); Price, vessel, seal, ledger (On the menu: weighs a thing by its cost, its vessel, whose mark closes it and where it is entered, pricing before praising. Extends R61-91 from the two texts to any alchemist who takes it); Bench words for everything (On the menu: the operations as all-purpose idiom (a plan still in the Rot, a recruit fed too fast), the Fleshshaper model (R24-1) applied to the trade, a few logged per card). Not taken: Quiet at the work.
+
+### R71-81-FORENSIC_READING_PAGE [Combat Law 2026-10-04 AL12]
+
+Play a residue reading's protocol as action (the pair, the stands and the withdrawal), with figures read aloud in a mouth at every stand outside R70-86's cap, and make the contradiction between the instruments the scene's turn.
+
+> Protocol as action. The pair, the stands and the withdrawal play as action, and figures enter in a mouth, read aloud at every stand, outside R70-86's cap. The contradiction between the instruments is the scene's turn.
+
+### R71-98-HEARS_RAIL [Combat Law 2026-10-04 WT9]
+
+At a sanctioned bout the Measurewright says her reading aloud as she takes it, so both fighters and the benches hear it, the readout reaches a fighter's own page, and a suppressed Stage is exposed in public with R70-112's bill.
+
+> Called aloud to all. She says the reading as she takes it: both fighters and the benches hear it, the readout reaches a fighter's own page, and a suppressed Stage is exposed in public, with R70-112's bill.
 
 ### R58-05-SWEARS_AND_SENSE_BANKS_APPROVED [Follow-up Rulings 2026-09-26 Follow-up answers]
 
@@ -4143,7 +5001,7 @@ Narration refers to characters by POV epithets, the way the viewpoint sees them;
 
 > Narration refers to characters by POV epithets, the way the viewpoint sees them; the naming characterises.
 
-## documents (119)
+## documents (124)
 
 ### R20C-3-SWEEP_TWO_TIERS [Pack Twenty R20C-3]
 
@@ -4643,6 +5501,36 @@ The Voyager Era, the Long Reckoning and the Withering Era keep their names as th
 
 > The count's three eras keep their names: the Voyager Era (000 to 070 IC), the Long Reckoning (070 to 645 IC) and the Withering Era (645 IC to now). The Withering Era runs on as the present era, and the Imperial Age rises inside it from 690 IC as an overlapping age.
 
+### R71-57-APPRAISING_BEAST [Combat Law 2026-10-04 FT7]
+
+When a coil or a trained eye appraises a beast, the tape prints its rung and its Commission tier together, a voice names the gap wherever the two disagree, and the appraisal counts as one of the scene's three readouts.
+
+> Both, and the gap. The tape prints rung and Commission tier together, and where they disagree a voice names the gap, because canon puts the hunter's answer there. It counts as one of the scene's three readouts (R70-86).
+
+### R71-70-BENCH_WORK_PAGE [Combat Law 2026-10-04 AL1]
+
+When a scene makes its main brew, set the house's numbered form apart first (R70-75 carried to the bench), then perform it with something departing from the form, while minor bench work keeps the single stretch of process of R70-46's floor.
+
+> Guild form, then performed. The scene's main brew appears first as the house's numbered form, set apart (R70-75 extended to the bench), then is performed, and something departs from it. Minor bench work keeps A's single stretch.
+
+### R71-78-DRAFT_READOUT [Combat Law 2026-10-04 AL9]
+
+Give a Draft R70-95's card once, at purchase or appraisal, carrying the Draft's own marks (gate, rung, Class, Fidelity, Carry, maker, price, lore), and at use show only the body, plus a surgeon's inline wound line if a wound earns one.
+
+> Card once, body at use. R70-95's card carries the Draft's own marks (gate, rung, Class, Fidelity, Carry, maker, price, lore) once, at purchase or appraisal. At use only the body shows, plus a surgeon's inline wound line if a wound earns one.
+
+### R71-97-CONTRACT_FIGHTS [Combat Law 2026-10-04 WT8]
+
+A Guild or Crown contract fight sets its posting on the page at the hook in the Guild's house style (terms, pay, register, penalty), carries at least one clause limiting how it may be won with a penalty, and closes at the clerk's counter with the proof asked, the clerk's dispute and the pay from the price table, a failed proof becoming a Ledger debt.
+
+> Yes to: The posting as document (The posting is set on the page at the hook in the Guild's house style (terms, pay, register, penalty), a document voice that plants the rules before the fight (R70-71)); A clause binds the fight (Every contract carries at least one clause limiting how it may be won (alive, intact, unwitnessed, before the thaw), with a penalty. The cheapest counter often breaks the clause); Proof at the counter (The job closes at the clerk's counter: the proof the contract asks for, the clerk's dispute, the pay named from the price table. A failed proof is a Ledger debt).
+
+### R71-102-WHERE_COMBAT_LAW_LANDS [Combat Law 2026-10-04 ME1]
+
+The combat answers land as one dated Combat Law rule doc logged through log_ruling and served by load_rules, plus new editions of the Combat Craft, Mass Combat Craft and Item and Equipment Writing guides and NATALIE.md's stale combat lines rewritten, so nothing still teaches dead law.
+
+> Rule doc, three guides. A, plus new editions of the Combat Craft, Mass Combat Craft and Item and Equipment Writing guides, and NATALIE.md's stale combat lines rewritten, so nothing still teaches dead law. (Option A there reads: Rule doc only. One dated Combat Law doc through log_ruling, served by load_rules. The guides and NATALIE.md stay as they are until a later pass, stale lines included.)
+
 ### R60-18-ACCORD_FORMING_IN_CIRCLES [Combat, Society and Politics Law 2026-09-26 Combat, society and politics]
 
 The Guild Accord's pages read as forming in circles: the Articles and Commission framework bind where a circle has signed and not yet elsewhere.
@@ -4859,7 +5747,7 @@ Leave every archived scene as written and add a law-edition column to scenes/MAN
 
 > Leave them, tag the edition. The archive stays untouched, and scenes/MANIFEST.md gains a law-edition column so the drafting tools and scene_recall stop treating old style as precedent.
 
-## items (72)
+## items (93)
 
 ### R20C-22-AMMUNITION_TIERS_RATIFIED [Pack Twenty R20C-22]
 
@@ -5101,6 +5989,132 @@ The Imperial Age and its technology, rail included, begin in 690 IC; 715 IC is i
 
 > The Imperial Age began in Year 690 IC. Its technology span (R53-01), rail included, begins then; the present, Year 715 IC, is its twenty-fifth year.
 
+### R71-26-COUNTING_ROUNDS_VIALS_CHARGES [Combat Law 2026-10-04 CW17]
+
+Let the page keep count of rounds, vials and charges exactly as the POV does, a trained hand's count kept and a panicked or untrained man's lost, while stats and the reserve stay under R70-88.
+
+> Counted as the POV counts. A trained hand keeps his count and the page keeps it with him; a panicked or untrained man loses count and the reader with him. Objects only: stats and the reserve stay under R70-88.
+
+### R71-50-SHOT_MEETS_WORKED_CUIRASS [Combat Law 2026-10-04 MC24]
+
+When a worked cuirass stops a ball, show the stop the way its inscription works and leave that inscription's own mark from the Combat Guide's §4.6, so the shooter can read which working he faces and which round to bring next.
+
+> By inscription, read on plate. Each inscription stops shot its own way and leaves its own mark from §4.6, so the shooter can read which working he faces and which round to bring next.
+
+### R71-58-ONE_SHOT_PRACTITIONER [Combat Law 2026-10-04 FT8]
+
+Trace each shot at a practitioner like an exchange: the range, the ball's speed (R45-1's reference figure) against the Speed Grade the POV reads, the result, and its cause stated under R53-05, with rounds left counted as CW17 rules.
+
+> Each shot traced. A shot is traced like an exchange: range, the ball's speed (R45-1's reference figure) against the Speed Grade the POV reads, the result, the cause stated under R53-05. Rounds left are counted as CW17 rules.
+
+### R71-60-VOLLEY_SMOKE_DRILLED_LINE [Combat Law 2026-10-04 FT10]
+
+The Mass Combat Guide gains three gunpowder sections: drill and smoke (loading by numbered motions, smoke that blinds after the first volley, fire by platoons, squares against horse), the spread against a practitioner (men drilled to spread, make him choose and keep a line of fire open, beating him at a stated cost in men), and enhanced-shot companies (each round priced, made and findable, fired only at practitioners and only on a named order); field guns and the late gun were not taken.
+
+> Yes to: Drill and smoke (A section on loading by numbered motions, smoke that blinds after the first volley, fire by platoons down a line, and squares against horse; the ditch sees smoke and hears the count); Spread against a practitioner (A section on Counterplay's doctrine: men drilled to spread, make him choose and keep a line of fire open, so numbers correctly used beat a practitioner at a stated cost in men); Enhanced-shot companies (A section on elite guard and bounty companies with full pouches of enhanced shot (R53-04): each round priced, made and findable, fired only at practitioners and only on a named order). Not taken: Guns and the late gun.
+
+### R71-73-PREPARED_LIVE_FIGHT [Combat Law 2026-10-04 AL4]
+
+Every Draft in a fight left a bench beforehand, so mid-fight an alchemist only spends the bandolier or lays Draft ground, at a cost in turns with hands busy and eyes down, and a bench scene plants each vial.
+
+> Made before, ground live. Canon read straight: every Draft left a bench before the fight; mid-fight the alchemist spends the bandolier or lays Draft ground, costing turns with hands busy and eyes down. A bench scene plants each vial.
+
+### R71-74-DRAFT_SIX_SECOND_TURN [Combat Law 2026-10-04 AL5]
+
+Drinking or smearing a Draft takes a whole turn and opens the drinker inside measure, throwing or smashing one is a single action within an exchange, and the hand going to the bandolier is a readable tell.
+
+> A drink costs the turn. Drinking or smearing takes a whole turn and opens the drinker inside measure; throwing or smashing is one action within an exchange. The hand going to the bandolier becomes a readable tell.
+
+### R71-75-CARRIES_IT_ONTO_FIELD [Combat Law 2026-10-04 AL6]
+
+Issue Drafts onto a field by their rank gate (low-gate lots to the line, Adept munitions to drilled details, Expert charges only to Expert hands), and let a company's purse decide how many certified hands it retains at the price table's retainers (forty gold a month and up for an Adept), so rich companies field far more alchemy.
+
+> Gates, bought by purse. As B, and a company's purse decides how many certified hands it retains, at the price table's retainers (forty gold a month and up for an Adept), so rich companies field far more alchemy. (Option B there reads: Issue by gate. Drafts reach a field by their rank gate: low-gate lots to the line, Adept munitions to drilled details, Expert charges only to Expert hands. The gate becomes the field's ration logic.)
+
+### R71-76-FORMULA_OWN_FAILURE [Combat Law 2026-10-04 AL7]
+
+Show the precaution each formula demands against failing onto its user (the gloved off hand, the chalked hour, the edge kept wide of the body) at every use, as a standing tell a reading opponent can exploit, so the counter stays on the page.
+
+> Every use shows it. The precaution each formula demands (the gloved off hand, the chalked hour, the edge kept wide of the body) shows at every use, a standing tell a reading opponent can exploit. The counter stays on the page.
+
+### R71-77-POISON_DUEL [Combat Law 2026-10-04 AL8]
+
+Give each Standing Inventory a line on coated weapons and poison taken from the culture's real analogue, with the Accord's munitions class as the first entry, so an Accord duel and a Moto duel may differ.
+
+> By culture, on the Inventory. Each Standing Inventory gains a line on coated weapons and poison, taken from the culture's real analogue; the Accord's munitions class is the first entry. An Accord duel and a Moto duel may differ.
+
+### R71-78-DRAFT_READOUT [Combat Law 2026-10-04 AL9]
+
+Give a Draft R70-95's card once, at purchase or appraisal, carrying the Draft's own marks (gate, rung, Class, Fidelity, Carry, maker, price, lore), and at use show only the body, plus a surgeon's inline wound line if a wound earns one.
+
+> Card once, body at use. R70-95's card carries the Draft's own marks (gate, rung, Class, Fidelity, Carry, maker, price, lore) once, at purchase or appraisal. At use only the body shows, plus a surgeon's inline wound line if a wound earns one.
+
+### R71-79-MEDICINE_PLACE_PURSE [Combat Law 2026-10-04 AL10]
+
+Treat wounds by place and purse: the surgeon uses Drafts beside carbolic and chloroform for those who pay, the Legion gets Bone-Grey by issue, the north and the poor get the barber and Cutwater, and every wound scene names which.
+
+> Both, by place and purse. The surgeon uses Drafts beside carbolic and chloroform for those who pay; the Legion gets Bone-Grey by issue; the north and the poor get the barber and Cutwater. Every wound scene names which.
+
+### R71-80-PROVING_POISON [Combat Law 2026-10-04 AL11]
+
+Bring the mirror test, the copper test and the iron antidote into WOTR where R59-05's gradient puts them, so Guild cities have them and the north does not, while the coil still reads worked poisons.
+
+> Real tests, by place. The mirror test, the copper test and the iron antidote come into WOTR where R59-05's gradient puts them: Guild cities have them, the north does not. The coil still reads worked poisons.
+
+### R71-84-TRADE_PAPER_SCENE [Combat Law 2026-10-04 AL15]
+
+Have a fighter or worker count what a Draft cost when he spends it, in his own money, have anyone handling a lawful vessel check its maker's registered mark as a soldier reads a proof-dent, and let a scene turn on a forged, adulterated, stale or unentered lot, a forgery always findable by mark, assay or the Index's own failure.
+
+> Yes to: Price counted at use (Beyond R70-48's price at purchase, a fighter or worker counts what a Draft cost when he spends it, in his own money, the sum taken from the table or the Index. Money before magic, in the hand); The mark checked (Every lawful vessel carries its maker's registered mark, and anyone handling one looks at it the way a soldier reads a proof-dent (R11-3). The mark becomes standing texture and a trail); Provenance as plot (Lots can be forged, adulterated, stale or unentered, and a scene may turn on a bad lot; the forgery is always findable by mark, assay or the Index's own failure. A fair counter and a plot engine).
+
+### R71-85-DRAFT_AGAINST_WORKING [Combat Law 2026-10-04 AL16]
+
+Split a thrown Draft in two: its plain physics (blast, heat, acid, smoke) meets Durability like any force, while its worked part answers its maker's ceiling and fails against anyone above it, and both stay traceable.
+
+> Two parts, two answers. A Draft splits: its plain physics (blast, heat, acid, smoke) meets Durability like any force, while its worked part answers its maker's ceiling and fails against anyone above it. Both stay traceable (R13-8).
+
+### R71-88-EXPLOSIVES_BESIDE_INDEX [Combat Law 2026-10-04 AL19]
+
+The span's real explosives and incendiaries exist as plain chemistry with no Essence and no rank gate, licensed under ordinary powder law; the coil reads nothing in them, and a quarryman's stick of dynamite holds about what a Thundercrack does.
+
+> Plain chemistry, powder law. They exist as plain chemistry with no Essence and no rank gate, licensed under ordinary powder law. The coil reads nothing in them, and a quarryman's stick of dynamite holds about what a Thundercrack does.
+
+### R71-89-ITEM_CARD_FIGHT [Combat Law 2026-10-04 WT1]
+
+When a weapon or round is first appraised while a fight runs, a trained eye names its Tier inline by name alone, the full item card waits for the counter or the aftermath, and no set-off block sits between exchanges (verify_scene warns on one).
+
+> Tier named, card after. Mid-fight a trained eye names the Tier inline, by name alone (R70-82). The full card waits for the counter or the aftermath. No set-off block between exchanges; verify_scene warns on one.
+
+### R71-90-WEAPON_NAMES_FIGHT [Combat Law 2026-10-04 WT2]
+
+In a fight the narration calls a weapon whatever the POV calls it (a Kharven rider's folk name, a Moto retainer's true name), matching R70-100's rule for moves, and the weapon's other names wait for a card or the aftermath.
+
+> The POV's own name. Narration uses whatever the POV calls it: a Kharven rider's folk name, a Moto retainer's true name. It matches R70-100's rule for moves. Other names wait for a card or the aftermath.
+
+### R71-91-ARMOUR_SUMS_PAGE [Combat Law 2026-10-04 WT3]
+
+A trained POV names both Tiers in her read before an exchange against armour and the steel then shows the sum, an untrained POV falls back to option A (the steel tells it), and a reader can check every penetration against R46-3.
+
+> The read names the sum. A trained POV names both Tiers in her read before the exchange (R70-88), then the steel shows the sum. Untrained POVs fall back to A. The reader checks every penetration against R46-3.
+
+### R71-92-ARMOUR_KIND_AGAINST [Combat Law 2026-10-04 WT13]
+
+Unworked armour meets a strike by its physics (mail turns the cut, not the thrust), and once armour carries a working R46-3's Tier decides and the kind is only the shape the working wears, as R13-C has it for shot.
+
+> Kind if plain, Tier if worked. Unworked armour fights by its physics (mail turns the cut, not the thrust); once armour carries a working, R46-3's Tier decides and the kind is only the shape the working wears, as R13-C has it for shot.
+
+### R71-93-PROOFED_SHOT_AGAINST_PROOFED [Combat Law 2026-10-04 WT4]
+
+Against worked armour a proofed round strikes as one Tier higher on R46-3's one ladder, so proofed shot breaks proofed plate, a round two over passes and the named round is simply two over, with R13-C's ruling kept.
+
+> Out-coupling counts one Tier. Against worked armour a proofed round strikes as one Tier higher: proofed shot breaks proofed plate, a round two over passes, and the named round is simply two over. One ladder, R13-C kept.
+
+### R71-94-STALE_POUCH [Combat Law 2026-10-04 WT5]
+
+A stale enhanced round may fail in a fight only if the page showed its date earlier (the stamp on the pouch, a Harmonist's word, a re-read put off), and the failure is then the fight's fair surprise.
+
+> Fails on a planted tell. A stale round may fail mid-fight only if the page showed its date earlier: the stamp on the pouch, a Harmonist's word, a re-read put off. The failure is then the fight's fair surprise.
+
 ### R59-11-MATERIALS [Era and Apparatus Law 2026-09-26 Era and apparatus]
 
 Materials: cheap steel and iron, rubber and gutta-percha, early plastics in the late span, and the Master Material Ledger's Essence-born materials alongside them.
@@ -5293,7 +6307,7 @@ A Witnessed-Tempered piece inherits a scaled-down Ancestral Dominion Frame: ever
 
 > If the piece changes hands outside the terms of the oath, its accrued memory does not transfer. This is not the Dawi's Crystal-Coherence self-punishment, a cost paid by the oath-breaker's own soul; it is closer to the Weight of the Blood, where failure feels ancestral rather than personal. The object simply stops recognizing the new holder as a party the law was made for. In the worst documented cases, Physical Plane Authority's "hold shape" reverses for that bearer alone, and the piece becomes more failure-prone in their hands than an ordinary equivalent.
 
-## magic-design (112)
+## magic-design (114)
 
 ### R20C-28-PHENOMENON_BANK_CANDIDATES [Pack Twenty R20C-28]
 
@@ -5865,6 +6879,18 @@ C-078: Checks 34 and 35 (defined on the six-line card's Operation line) are reti
 
 > C-078: Checks 34 and 35 (defined on the six-line card's Operation line) are retired; the Counterplay block and the fair-play rules cover them.
 
+### R71-32-VOWS_LIMITS [Combat Law 2026-10-04 MC6]
+
+A practitioner may bind a technique with a vow that narrows it, raising its output through Attraction Force by a figure set on that card; breaking the vow is a Shear Break, and the vow's terms are its findable counter.
+
+> Narrowing buys output. A vow that narrows a technique raises its output through Attraction Force, by a figure you set on that card; breaking it is a Shear Break. The vow's terms are its findable counter.
+
+### R71-39-ALLIES_WORKING_TOGETHER [Combat Law 2026-10-04 MC13]
+
+Allies in a fight chain their workings by default, and two may fuse only through a carded Synergia technique they learned together, with its own cost split and counter; improvised fusion is barred.
+
+> Drilled forms, carded. Allies chain by default; a fusion exists only as a carded Synergia technique the pair learned together, with its own cost split and counter. No improvised fusion.
+
 ### R60-10-LICENSED_FOR_HIRE [Combat, Society and Politics Law 2026-09-26 Combat, society and politics]
 
 Anyone may practise privately, but taking pay for workings or hunts needs a guild licence; unlicensed hunters are cheap, common and illegal-ish.
@@ -5967,7 +6993,7 @@ The Phenomenon Bank becomes a growing library: every researched phenomenon (and 
 
 > The Phenomenon Bank becomes a growing library: every researched phenomenon (and pseudoscientific idea) is added for future workings and players to draw from.
 
-## magic-mechanism (203)
+## magic-mechanism (243)
 
 ### R20C-17-SITES_RECHARGE_UNHELPFULLY [Pack Twenty R20C-17]
 
@@ -6839,6 +7865,246 @@ C-086: A very few people are born with no Soul Crystal at all; it is rare and re
 
 > C-086: A very few people are born with no Soul Crystal at all; it is rare and remarked on. A Class Ø soul keeps its sealed Shell.
 
+### R71-2-EASTERN_COMBAT_MODELS [Combat Law 2026-10-04 K2]
+
+Name Togashi's Hunter x Hunter (fights as logic), Gu Long's one cut (the named model for Verdict grammar), Inoue's Vagabond with Yoshikawa's Musashi (the fight decided inside the fighter, a model for Japonic POVs) and Akutami's Jujutsu Kaisen (Domain clashes decided in a stated order) as the Combat Craft Guide's Eastern combat models beside Kishimoto and Kubo.
+
+> Yes to: Togashi, Hunter x Hunter (Fights as logic: the opponent's rules inferred from evidence, tested and exploited, and the winner is whoever knows his own limits best. Its vows that trade a limit for power wait for MC6); Gu Long, the one cut (The duel is the wait: the long read and a single exchange, the floor paid on the body. Becomes the named model for Verdict grammar (read, rank, commit); FT16 asks whether the cut itself is seen); Inoue and Yoshikawa, Musashi (Inoue's manga Vagabond and Yoshikawa's novel Musashi: the deciding event happens inside the fighter (fear, the fixed mind, no-mind), with pages of breath and footing. A model for Japonic POVs); Akutami, Jujutsu Kaisen (Domain clashes decided in a stated order, with the burnout after a Domain as the counter-window. FOW Part Twenty-Two already sets the order; burnout and the sure-hit (a Domain that cannot miss) would be new canon).
+
+### R71-3-WESTERN_COMBAT_MODELS [Combat Law 2026-10-04 K3]
+
+Name Cornwell's Sharpe (volley, smoke, the stormed breach, tactics read in the action), Sanderson's hard magic (rules planted before, costs and counters findable) and the HEMA novelists Christian Cameron and Sebastien de Castell (armoured fights from inside the steel) as the Combat Craft Guide's Western combat models, leaving O'Brian out.
+
+> Yes to: Cornwell, Sharpe (Volley drill, powder smoke, the stormed breach, tactics explained in the action by a sergeant's read. The only model for the gunpowder battle the archive has never written); Sanderson, hard magic (Rules planted before, physics as choreography, costs and counters findable, so the reader does the sum. Already close to R70-71's rules shown beforehand); HEMA novelists (Christian Cameron and Sebastien de Castell: armoured fights from inside the steel, the phrase (one unbroken attack and answer), joints, the visor slot, the ground. The Western school's model). Not taken: O'Brian, Aubrey-Maturin.
+
+### R71-13-SUPERHUMAN_SPEED [Combat Law 2026-10-04 CW4]
+
+Render a practitioner's speed by its physics arriving first (the pressure front, the crack after, the wound that opens once he has passed), by stretched time for a POV whose Reflex Grade outruns the threat, and by the gap in the frame with nothing drawn between two poses, each held to FOW's rows for the Grade on the card.
+
+> Yes to: The effect arrives first (Speed shown through its physics: the pressure front, the crack after, the wound that opens once the swordsman has passed. Held to FOW's speed rows for the Grade on the card); Felt time, by Reflex (A POV whose Reflex Grade outruns the threat gets stretched time on the page, held to FOW's Reaction Speed row for that Grade; a slower POV gets only the gap. Sits beside R70-57's one held instant); The gap in the frame (The body is simply elsewhere, nothing drawn between two poses; any after-image is disturbed snow, dust or frost, never a glowing double (R9-3 keeps 'it glowed' banned)). Not taken: The witness who misses it.
+
+### R71-15-FIGHTING_THROUGH_WOUND [Combat Law 2026-10-04 CW6]
+
+A practitioner may hold a broken structure shut with a working for as long as his Tempering allows, at a reserve cost every turn and ending at Starvation, after which the wound is worse, once the working's mechanism has been ruled.
+
+> An Essence splint, priced. A practitioner may hold a broken structure shut with a working: Tempering for how long, a reserve cost per turn, ending at Starvation; the wound is worse afterward. Needs a ruled mechanism before first use.
+
+### R71-27-SPOKEN_WORKING_EXCHANGE [Combat Law 2026-10-04 MC1]
+
+When a practitioner speaks a working mid-fight, print its chain in pieces between the opponent's moves, so each clause costs a step the opponent takes and the reader can count the race's price.
+
+> Cut into the exchange. The chain is printed in pieces between the opponent's moves, so each clause costs a step he takes. The Combat Guide gains the rule; the reader watches the race and can count its price.
+
+### R71-28-DECIDES_CASTING_SPEED [Combat Law 2026-10-04 MC2]
+
+Decide every race between workings, or between a working and a blade, from a new Alacrity row today, and where a technique card's Readiness figure has been filled, let that figure govern instead.
+
+> Row now, cards override. The Alacrity row decides every race today; where you fill a card's Readiness, that figure governs. Nothing waits on figures, and precision grows as cards are filled.
+
+### R71-30-HELD_BACK_REVEAL [Combat Law 2026-10-04 MC4]
+
+A working's rule may act on the page before the fight without explanation, as evidence a reader could catch, and be told by a voice only at the reveal, with the author notes listing each planted sign.
+
+> Shown before, told at reveal. This reopens R70-71 for held reveals: the rule may act earlier, unexplained, as evidence a reader could catch, and a voice tells it at the reveal. The notes list each planted sign.
+
+### R71-31-COUNTERS_DUEL_SCALE [Combat Law 2026-10-04 MC5]
+
+A chart derived from Codex physics says which conditions and Wellspring Families make each Family's working cost more and deliver less, while each card's Counter field stays the hard answer; the chart binds once ratified.
+
+> Soft Family chart. A chart derived from Codex physics says which conditions and Families make each Family's working cost more and deliver less; the card's Counter field stays the hard answer. You ratify the chart.
+
+### R71-32-VOWS_LIMITS [Combat Law 2026-10-04 MC6]
+
+A practitioner may bind a technique with a vow that narrows it, raising its output through Attraction Force by a figure set on that card; breaking the vow is a Shear Break, and the vow's terms are its findable counter.
+
+> Narrowing buys output. A vow that narrows a technique raises its output through Attraction Force, by a figure you set on that card; breaking it is a Shear Break. The vow's terms are its findable counter.
+
+### R71-33-DRAIN_SHOWS [Combat Law 2026-10-04 MC7]
+
+Between readout lines, show a falling reserve through a bank of body signs keyed by culture to the Ledger's thresholds, through waste heat that grows as eta falls, and through the opponent's read and his choice to make the spender spend.
+
+> Yes to: The body, by threshold (A bank of body signs keyed to the Ledger's lines, committed spending and Starvation: cold hands, tin on the teeth, the slow grip. Logged by culture, so the nosebleed stops carrying everything); The waste grows (As η (eta, efficiency) falls, the same work sheds more heat, so the room shows the drain: the thawed ring widens, the air shakes harder. Canon's own law, written as a rule of the page); The opponent reads it (The drain is shown through the other fighter's read and his choice to make the spender spend. The Counterplay doctrine, on the page). Not taken: By Family.
+
+### R71-34-OVERCHANNEL_PAGE [Combat Law 2026-10-04 MC8]
+
+When a practitioner Overchannels, show the crack in the exchange through the Crystal's inner map and a body symptom, leave its size to a surgeon or an instrument afterward, and enter it on the Ledger only once measured.
+
+> Felt now, measured after. The crack is felt in the exchange, inner map and body symptom; its size comes later from a surgeon or an instrument, and the Ledger enters it when measured.
+
+### R71-35-SECOND_WIND [Combat Law 2026-10-04 MC9]
+
+Crisis Recovery, the Crystal's surge in a crisis, may land at the deciding exchange only when its trigger was planted earlier where a reader could catch it, its price goes on the Ledger, and it stays rare.
+
+> Decides, if planted. It may land at the deciding exchange only when its trigger was set up earlier on the page where a reader could catch it, and its price goes on the Ledger. Rare by rule.
+
+### R71-36-HEALING_INSIDE_FIGHT [Combat Law 2026-10-04 MC10]
+
+While a fight runs, a Vitalia working may only close a vessel or seal a bleed, at full price, and the wound itself stays open until the fight ends.
+
+> Stop the bleeding only. Mid-fight Vitalia may close a vessel or seal a bleed, at full price; the wound itself stays open until the fight ends. §7.1 gains the row.
+
+### R71-39-ALLIES_WORKING_TOGETHER [Combat Law 2026-10-04 MC13]
+
+Allies in a fight chain their workings by default, and two may fuse only through a carded Synergia technique they learned together, with its own cost split and counter; improvised fusion is barred.
+
+> Drilled forms, carded. Allies chain by default; a fusion exists only as a carded Synergia technique the pair learned together, with its own cost split and counter. No improvised fusion.
+
+### R71-40-MECHANISM_AIMED_PRESSURE [Combat Law 2026-10-04 MC14]
+
+Killing intent works by Dominion drawing the Passive Pressure Field onto one man, so what he takes the room loses and the room eases as he suffers, with the trade's figures set from Dominion.
+
+> The field narrowed. Dominion draws the Passive Pressure Field onto one man; what he takes, the room loses, so the room eases as he suffers. The trade's figures come from Dominion, set by you.
+
+### R71-41-PRESSURE_UNWOKEN [Combat Law 2026-10-04 MC15]
+
+Pressure between practitioners keeps the Stage-gap ladder, while a person with no Stage takes Fracture of Worlds Part Eleven's Aura table by Grade (dread from F to D, weight in the room from C, knees bending from A), with no new figures.
+
+> The Aura table, by Grade. Practitioner against practitioner keeps the Stage ladder; the unwoken take Part Eleven's Grade table: dread from F to D, weight in the room from C, knees bending from A. No new figures.
+
+### R71-42-TWO_PRESSURES_ONE_ROOM [Combat Law 2026-10-04 MC16]
+
+When two practitioners of the same Stage bring their Pressure into one room, the Pressures contest it by Dominion before steel: the room shows the border moving, bystanders take both, and the loser begins the fight already paying.
+
+> A contest for the room. Meeting Pressures fight for the room by Dominion before steel; the room shows the border moving, bystanders take both, and the loser begins the fight already paying. §7 gains the row.
+
+### R71-43-SUPPRESSION_PAGE [Combat Law 2026-10-04 MC17]
+
+A practitioner holding his Pressure in pays in named places of his body (jaw, collar, temper) at a cost that grows with the approach, leaks faintly into the room for a sharp eye or good Gnosis to catch, and leaves a sag on a gauge or coil.
+
+> Yes to: The cost in his body (Holding it in tires him in named places, jaw, collar, temper, and the cost grows with the approach. The Combat Guide gains a bank of signs by culture); Small leaks in the room (R70-69 at its faintest: the draw-hum dips and a dog lies down as he passes. A sharp-eyed reader, or a POV with good Gnosis, can catch a suppressed man); Instruments catch it (A gauge or coil reads what eyes miss; the Board's clerks and the Measurewrights can find a suppressed man by the sag he leaves on a needle).
+
+### R71-45-RAISING_DOMAIN_DUEL [Combat Law 2026-10-04 MC19]
+
+In a duel a Domain below Stage XI rises over turns by the holder's attention, unnamed, at a cost the notes track, as his display beat; from Stage XI, where canon has it leak, suppression holds it in and the holder lets it go in a beat.
+
+> Attention, then held in. Below Stage XI it rises by attention as in A. From Stage XI, where canon has it leak, suppression holds it in and the holder lets it go in a beat. Originated; you rule it. (Option A there reads: Raised by attention. Part Twenty-Two read plainly: the holder concentrates and the Domain comes up over turns, unnamed, at a cost the notes track. Its rising joins R9-3-SCOPE's triggers as his display beat.)
+
+### R71-46-DOMAIN_CLASH_PAGE [Combat Law 2026-10-04 MC20]
+
+When two Domains meet in a duel, show the seam between the two laws in the room and let it move, have one voice name the deciding step once, and pace the clash like an exchange so it reconstructs.
+
+> The moving border. The seam between two laws shows in the room and moves; one voice names the deciding step once. Reconstructible, and paced like an exchange.
+
+### R71-48-WASTE_LIGHT_OUTSIDE_DISPLAY [Combat Law 2026-10-04 MC22]
+
+Outside a display beat, write a working's waste light by the smith's colour scale (dull red, orange, white) and by what it lights, with brightness tracking eta so masters work darker, and never use the word glow.
+
+> Incandescent, by physics. Waste light is written by the smith's colour scale, dull red to orange to white, and by what it lights; brightness tracks η, so masters work darker. The word glow stays banned.
+
+### R71-49-SUMMON_DISPLAY_BEAT [Combat Law 2026-10-04 MC23]
+
+A Native summon, having its own Crystal, takes a display beat of its own, while Donated and Analog forms share their summoner's beat, provenance deciding.
+
+> Native summons earn one. A Native summon, with its own Crystal, takes its own display beat; Donated and Analog forms share the summoner's. Provenance decides, as the Register's doctrine says.
+
+### R71-50-SHOT_MEETS_WORKED_CUIRASS [Combat Law 2026-10-04 MC24]
+
+When a worked cuirass stops a ball, show the stop the way its inscription works and leave that inscription's own mark from the Combat Guide's §4.6, so the shooter can read which working he faces and which round to bring next.
+
+> By inscription, read on plate. Each inscription stops shot its own way and leaves its own mark from §4.6, so the shooter can read which working he faces and which round to bring next.
+
+### R71-56-SHAPE_MONSTER_FIGHT [Combat Law 2026-10-04 FT6]
+
+A fight with a Well-spawn or other beast may be written as a hunt won at the shaft head (reading the draw, choosing the entry's counter, laying out the kit, then a short kill), and it may turn in phases only at a lever canon gives the beast (its tie cut, its Wellspring's failure induced), the rung dropping on the page and an untraceable phase failing R13-8; the duel-with-a-beast shape was not taken.
+
+> Yes to: The hunt as procedure (The fight is won at the shaft head: reading the draw, choosing the entry's counter, laying out the kit. The kill is short and the work is the scene); Phases at the tie (A beast's fight turns (a boss phase: the monster changing form mid-fight) only at a lever canon gives it: its tie cut, its Wellspring's failure induced. The rung drops on the page; an untraceable phase fails R13-8). Not taken: A duel with a beast.
+
+### R71-59-PRACTITIONERS_AS_ARTILLERY [Combat Law 2026-10-04 FT9]
+
+Show a high-Stage practitioner in battle as a battery: an ordinary commander directs him like a gun and a Measurewright spotter in the line reads the effect on her gauge, with R3-9 kept whole and each section POV-locked across marked breaks.
+
+> Battery with a spotter. An ordinary commander directs the practitioner like a gun; a Measurewright spotter in the line reads the effect on her gauge. R3-9 stays whole, and each section stays POV-locked across marked breaks.
+
+### R71-63-BEASTKIN_SENSES_FOX_FIRE [Combat Law 2026-10-04 FT13]
+
+For a scenting POV the floor's named read may be a smell stated as evidence (what was smelled, where, what it means) with tempo words following the nose; ears and tail move before the fighter decides, and an opponent who knows it may read them as a fair, findable counter; and a canon Trait that makes light, such as fox-fire, is named as light by colour, size and what it shows, R9-3's glow ban staying on Essence discharge only; lineage on the appraisal was not taken.
+
+> Yes to: Scent as the read (For a scenting POV, the floor's named read may be a smell stated as evidence: what was smelled, where, and what it means. Tempo words follow the nose); Tells the enemy reads (Ears and tail move before the fighter decides, and an opponent who knows it may read them: an involuntary tell written as a fair, findable counter, in the opponent's eyes or mouth); Fox-fire as plain light (A canon Trait that makes light is named as light, by colour, size and what it shows; R9-3's glow ban stays on Essence discharge only). Not taken: Lineage on the appraisal.
+
+### R71-64-FIGHTING_MAIN [Combat Law 2026-10-04 FT14]
+
+Three Draw Age terrain beats become standing fight texture: a district may be cut from outside mid-fight (the hum dies, the room's density falls, every draw costs more, and the page names who ordered it); a working that splits a culvert or standpipe spikes the room's density (output up, reach down by FOW's square-root law, any figure printed as a marked estimate); and ground fought on stays short for hours (reach falls, gauges read the residue, a second fight there pays for the first, no figure printed without a source); rail and the tram slot were not taken.
+
+> Yes to: The cut mid-fight (A district can be cut from outside during a fight: the hum dies, the room's density falls, every draw costs more, and the page names who ordered it, even unseen); The burst main (A working that splits a culvert or standpipe spikes the room's density: output up, reach down, by FOW's square-root law. The page shows the effect; any figure prints as a marked estimate (R70-99)); Short ground after (Ground fought on stays short for hours: reach falls, gauges read the residue, and a second fight there pays for the first. FOW's law decides it, and no figure prints without a source). Not taken: Rail and the tram slot.
+
+### R71-70-BENCH_WORK_PAGE [Combat Law 2026-10-04 AL1]
+
+When a scene makes its main brew, set the house's numbered form apart first (R70-75 carried to the bench), then perform it with something departing from the form, while minor bench work keeps the single stretch of process of R70-46's floor.
+
+> Guild form, then performed. The scene's main brew appears first as the house's numbered form, set apart (R70-75 extended to the bench), then is performed, and something departs from it. Minor bench work keeps A's single stretch.
+
+### R71-73-PREPARED_LIVE_FIGHT [Combat Law 2026-10-04 AL4]
+
+Every Draft in a fight left a bench beforehand, so mid-fight an alchemist only spends the bandolier or lays Draft ground, at a cost in turns with hands busy and eyes down, and a bench scene plants each vial.
+
+> Made before, ground live. Canon read straight: every Draft left a bench before the fight; mid-fight the alchemist spends the bandolier or lays Draft ground, costing turns with hands busy and eyes down. A bench scene plants each vial.
+
+### R71-76-FORMULA_OWN_FAILURE [Combat Law 2026-10-04 AL7]
+
+Show the precaution each formula demands against failing onto its user (the gloved off hand, the chalked hour, the edge kept wide of the body) at every use, as a standing tell a reading opponent can exploit, so the counter stays on the page.
+
+> Every use shows it. The precaution each formula demands (the gloved off hand, the chalked hour, the edge kept wide of the body) shows at every use, a standing tell a reading opponent can exploit. The counter stays on the page.
+
+### R71-81-FORENSIC_READING_PAGE [Combat Law 2026-10-04 AL12]
+
+Play a residue reading's protocol as action (the pair, the stands and the withdrawal), with figures read aloud in a mouth at every stand outside R70-86's cap, and make the contradiction between the instruments the scene's turn.
+
+> Protocol as action. The pair, the stands and the withdrawal play as action, and figures enter in a mouth, read aloud at every stand, outside R70-86's cap. The contradiction between the instruments is the scene's turn.
+
+### R71-82-CORRUPTION_SHOWN_BODY [Combat Law 2026-10-04 AL13]
+
+Show a corrupt alchemist's signs as standing tells in his body (planted before any reveal), in his bench work and in his technique, at most one sign a scene across the three, and write the Shear Break as its own event, the fall shown whole in body and work.
+
+> Yes to: Signs in the body (The Heresiology's bodily signs become standing tells, planted before any reveal, so a reader can catch a corrupt master before the plot names him. One sign a scene at most, across A to C); Signs in the work (The bench betrays him first: vessels crack under his hands alone, inscriptions darken on their own, residue gathers in shapes. The workshop shows the corruption before the man does); Signs in technique (A corrupted practitioner's workings run their corrupted versions (the Open Crucible's model, where Honest Fire strips structure it finds inconvenient), so the tell lives in how he works and fights); The break as an event (When the vow finally fails, the Shear Break is written as its own event, the fall shown whole in the body and the work, so the slow signs pay off on the page).
+
+### R71-83-ACCIDENTS_FUMES [Combat Law 2026-10-04 AL14]
+
+When a lute fails and Strongwater fume fills a closed room, the room doses men in order of nearness and they die hours later after walking out, while men kept lying still and watched through the night fare better, so a knowing hand's orders save some.
+
+> Late drowning, and rest. As B, plus a findable counter: men kept lying still and watched through the night fare better than men who walk home, as real toxicology keeps such patients at rest. A knowing hand's orders save some. (Option B there reads: The late drowning. The Real Alchemy's reading: the room doses in order of nearness and the dying comes hours later, after the men have walked out. A surgeon's wound line can name it (R70-85); the grief arrives by morning.)
+
+### R71-85-DRAFT_AGAINST_WORKING [Combat Law 2026-10-04 AL16]
+
+Split a thrown Draft in two: its plain physics (blast, heat, acid, smoke) meets Durability like any force, while its worked part answers its maker's ceiling and fails against anyone above it, and both stay traceable.
+
+> Two parts, two answers. A Draft splits: its plain physics (blast, heat, acid, smoke) meets Durability like any force, while its worked part answers its maker's ceiling and fails against anyone above it. Both stay traceable (R13-8).
+
+### R71-86-REVENANT_FIGHT [Combat Law 2026-10-04 AL17]
+
+Fight a revenant as a body on habit: anatomy stops the motion (a cut hamstring drops it) while the habit keeps trying, only ash, removal or the ninth day ends it, and the combat floor applies by structure with no blood-loss class.
+
+> Levers still rule. A body on habit: anatomy stops the motion (a cut hamstring drops it) while the habit keeps trying; only ash, removal or the ninth day ends it. The floor applies by structure, with no blood-loss class.
+
+### R71-87-IMPRESSION_BODY_VOICE [Combat Law 2026-10-04 AL18]
+
+Write an impression-body exactly as the living man through the mourner's eyes, with only the room hinting, and let one planted habit of its maker leak through the likeness, findable by an attentive reader before any trained reader names it.
+
+> A seam the reader catches. As A, plus one planted habit of the maker leaks through the likeness, findable by an attentive reader before any trained reader names it: the maker's Core as identity, made visible. (Option A there reads: Seamless to the mourner. The likeness is written exactly as the living man, through the mourner's eyes; only the room (the dim lamp, the ink) hints. The horror is what the reader knows and she does not.)
+
+### R71-92-ARMOUR_KIND_AGAINST [Combat Law 2026-10-04 WT13]
+
+Unworked armour meets a strike by its physics (mail turns the cut, not the thrust), and once armour carries a working R46-3's Tier decides and the kind is only the shape the working wears, as R13-C has it for shot.
+
+> Kind if plain, Tier if worked. Unworked armour fights by its physics (mail turns the cut, not the thrust); once armour carries a working, R46-3's Tier decides and the kind is only the shape the working wears, as R13-C has it for shot.
+
+### R71-93-PROOFED_SHOT_AGAINST_PROOFED [Combat Law 2026-10-04 WT4]
+
+Against worked armour a proofed round strikes as one Tier higher on R46-3's one ladder, so proofed shot breaks proofed plate, a round two over passes and the named round is simply two over, with R13-C's ruling kept.
+
+> Out-coupling counts one Tier. Against worked armour a proofed round strikes as one Tier higher: proofed shot breaks proofed plate, a round two over passes, and the named round is simply two over. One ladder, R13-C kept.
+
+### R71-95-WARD_BREAKING [Combat Law 2026-10-04 WT6]
+
+When a fight breaks a ward, a POV inside the craft names the failing layer as it goes, while any other POV gets only what stops and hears the layer named in a mouth, keyed to the POV as R70-100's school words are.
+
+> By who is looking. A POV inside the craft names the layer as it goes; any other POV gets only what stops, and hears the layer named in a mouth. Keyed to the POV, as R70-100's school words are.
+
+### R71-96-WELL_AS_GROUND [Combat Law 2026-10-04 WT7]
+
+Before contact in a Well fight a gauge or a practitioner's feel names the density rung (Ambient Saturation through Core) and every reach is written to it, and porters, lamp-men and timber crews are in the fight as people who can win it, with no Shell to fire and no reserve to drain, each given a want and a line.
+
+> Yes to: Reach written to rung (Before contact a gauge or a practitioner's feel names the density rung (Ambient Saturation through Core), and every reach in the fight is written to it. Adds reach beside §7's draw-cost row); The unawakened in it (Porters, lamp-men and timber crews are in every Well fight as people who can win it: no Shell (the layer a working fires through) to fire, no reserve to drain. Each gets a want and a line). Not taken: The register stays tidy.
+
 ### R60-13-THE_GATE [Combat, Society and Politics Law 2026-09-26 Combat, society and politics]
 
 Few people lack a Soul Crystal, commoners included, but knowledge of magic is gatekept by administration: the Imperial Age is when nations lock down which kinds of people may use which magics.
@@ -7190,7 +8456,7 @@ Yasoshima's Essence stability is not natural. For two hundred thousand years Hou
 
 > It is stable because House Yuno has spent two hundred thousand years making it a drain. Every fracture, every fanning-out of chaotic Essence that the rest of the four quarters absorbs and calls weather — the ordinary drift that keeps Measurewrights employed everywhere else in the world — the Kagura branch has been quietly gathering to itself and metabolising, one convergence rite at a time, through the deepest reach of Tōbō no Michi. Yasoshima does not merely tolerate Essence better than anywhere else. It is where a portion of the world's disorder goes to stop being disorder.
 
-## mass-combat (46)
+## mass-combat (55)
 
 ### R3-8-NAVAL_SENSORY_HIERARCHY [Pack Three Amendment Eight §12]
 
@@ -7426,6 +8692,60 @@ C-052: Hobgoblin formations signal by Silent Sign-Glyphs as the norm; in deep co
 
 > C-052: Hobgoblin formations signal by Silent Sign-Glyphs as the norm; in deep cold or broken ground a formation falls back to a horn count, which is why the fight at the breach is unusual.
 
+### R71-3-WESTERN_COMBAT_MODELS [Combat Law 2026-10-04 K3]
+
+Name Cornwell's Sharpe (volley, smoke, the stormed breach, tactics read in the action), Sanderson's hard magic (rules planted before, costs and counters findable) and the HEMA novelists Christian Cameron and Sebastien de Castell (armoured fights from inside the steel) as the Combat Craft Guide's Western combat models, leaving O'Brian out.
+
+> Yes to: Cornwell, Sharpe (Volley drill, powder smoke, the stormed breach, tactics explained in the action by a sergeant's read. The only model for the gunpowder battle the archive has never written); Sanderson, hard magic (Rules planted before, physics as choreography, costs and counters findable, so the reader does the sum. Already close to R70-71's rules shown beforehand); HEMA novelists (Christian Cameron and Sebastien de Castell: armoured fights from inside the steel, the phrase (one unbroken attack and answer), joints, the visor slot, the ground. The Western school's model). Not taken: O'Brian, Aubrey-Maturin.
+
+### R71-16-LONG_PAGE_STAYS_WOUND [Combat Law 2026-10-04 CW7]
+
+Keep exchange wounds precise, give the lingering passage to a finisher, an execution and a battle's one full-detail body, and keep wounds short in roleplay turns unless the death is the turn's point.
+
+> Length by scene type. Exchanges stay precise; a finisher, an execution and a battle's one full-detail body get the lingering passage; roleplay turns keep it short unless the death is the turn's point.
+
+### R71-51-SKIRMISH_THREE_TEN [Combat Law 2026-10-04 FT1]
+
+In a skirmish (three to ten fighters, no formation) the POV's own exchanges carry the full duel floor, everyone else's fighting is compressed under the Mass Combat Guide's rules, and her count of who still stands stays in her head, never printed as figures.
+
+> Duel floor, mass compression. Amends R1-4: the POV's own exchanges carry the duel floor, and everyone else's fighting is compressed by the Mass Guide's rules. Her count of who still stands stays in her head, never as figures.
+
+### R71-59-PRACTITIONERS_AS_ARTILLERY [Combat Law 2026-10-04 FT9]
+
+Show a high-Stage practitioner in battle as a battery: an ordinary commander directs him like a gun and a Measurewright spotter in the line reads the effect on her gauge, with R3-9 kept whole and each section POV-locked across marked breaks.
+
+> Battery with a spotter. An ordinary commander directs the practitioner like a gun; a Measurewright spotter in the line reads the effect on her gauge. R3-9 stays whole, and each section stays POV-locked across marked breaks.
+
+### R71-60-VOLLEY_SMOKE_DRILLED_LINE [Combat Law 2026-10-04 FT10]
+
+The Mass Combat Guide gains three gunpowder sections: drill and smoke (loading by numbered motions, smoke that blinds after the first volley, fire by platoons, squares against horse), the spread against a practitioner (men drilled to spread, make him choose and keep a line of fire open, beating him at a stated cost in men), and enhanced-shot companies (each round priced, made and findable, fired only at practitioners and only on a named order); field guns and the late gun were not taken.
+
+> Yes to: Drill and smoke (A section on loading by numbered motions, smoke that blinds after the first volley, fire by platoons down a line, and squares against horse; the ditch sees smoke and hears the count); Spread against a practitioner (A section on Counterplay's doctrine: men drilled to spread, make him choose and keep a line of fire open, so numbers correctly used beat a practitioner at a stated cost in men); Enhanced-shot companies (A section on elite guard and bounty companies with full pouches of enhanced shot (R53-04): each round priced, made and findable, fired only at practitioners and only on a named order). Not taken: Guns and the late gun.
+
+### R71-61-SIEGE_WITH_PRACTITIONERS_IT [Combat Law 2026-10-04 FT11]
+
+In a siege, a ward failing joins the sortie, the mine and the storm as a Close Register break: sudden, seen from a POV on the wall, and over fast, with the Line Register resuming after.
+
+> Ward breach as a break. Amends R3-8: a ward failing joins sortie, mine and storm as a Close Register break, sudden, from a POV on the wall, and over fast; the Line Register resumes after.
+
+### R71-65-RIVER_SEA_FIGHTS [Combat Law 2026-10-04 FT15]
+
+A river fight runs on rows of its own: the banks close the horizon and open a rout and an ambush, the current is the motion channel, sound carries far over cold water, and the cold drowns.
+
+> River law of its own. A river gets its own rows: banks close the horizon and open a rout and an ambush, the current is the motion channel, sound carries far over cold water, and the cold drowns.
+
+### R71-75-CARRIES_IT_ONTO_FIELD [Combat Law 2026-10-04 AL6]
+
+Issue Drafts onto a field by their rank gate (low-gate lots to the line, Adept munitions to drilled details, Expert charges only to Expert hands), and let a company's purse decide how many certified hands it retains at the price table's retainers (forty gold a month and up for an Adept), so rich companies field far more alchemy.
+
+> Gates, bought by purse. As B, and a company's purse decides how many certified hands it retains, at the price table's retainers (forty gold a month and up for an Adept), so rich companies field far more alchemy. (Option B there reads: Issue by gate. Drafts reach a field by their rank gate: low-gate lots to the line, Adept munitions to drilled details, Expert charges only to Expert hands. The gate becomes the field's ration logic.)
+
+### R71-104-COMBAT_SAMPLE_BANK [Combat Law 2026-10-04 ME3]
+
+The combat sample bank holds both a fight passage in each culture file where Natalie already loads them and a bank of the fight types the archive has never written.
+
+> Both. A and B: culture passages where Natalie already loads them, and the fight types the archive has never written.
+
 ### R59-12-TRANSITIONAL_MILITARY [Era and Apparatus Law 2026-09-26 Era and apparatus]
 
 Military: transitional. Cavalry, bright uniforms and drill in the early span; khaki, trenches and rare machine guns later; practitioners change everything anyway.
@@ -7468,7 +8788,7 @@ Tell a formation battle in POV-locked sections that cut, at marked breaks, betwe
 
 > Hill and ditch, cut. A battle cuts between the commander's hill and one man in the press at marked breaks, each section POV-locked; the breaks stand in for the guide's rule to 'pass through Line'. R1-3's three heads cover both.
 
-## naming (189)
+## naming (191)
 
 ### R20C-1-BURI_DEAD_EVERYWHERE [Pack Twenty R20C-1]
 
@@ -7823,6 +9143,18 @@ Doyun is Seok Doyun, entered at thirteen in 699 IC; his cats are Nabi.
 Edmund Lambert is a dead member of the Lambert family, distinct from Edward Lambert; relation unset.
 
 > Edmund Lambert is a separate character from Edward Lambert and a member of the Lambert family; exact relation unset. Edmund is dead; Rovhen was his assistant.
+
+### R71-29-OFTEN_ART_RELEASED [Combat Law 2026-10-04 MC3]
+
+An art's release call may be spoken as often as the fighter can afford the beat it costs, each call buying its output, with no once-per-scene cap.
+
+> As often as beats allow. R50-09 governs and R8-26 is marked superseded. Every call costs its beat and buys its output, so a fighter may call his art again whenever he can afford the beat.
+
+### R71-90-WEAPON_NAMES_FIGHT [Combat Law 2026-10-04 WT2]
+
+In a fight the narration calls a weapon whatever the POV calls it (a Kharven rider's folk name, a Moto retainer's true name), matching R70-100's rule for moves, and the weapon's other names wait for a card or the aftermath.
+
+> The POV's own name. Narration uses whatever the POV calls it: a Kharven rider's folk name, a Moto retainer's true name. It matches R70-100's rule for moves. Other names wait for a card or the aftermath.
 
 ### R37-1-MAHUO_ELEMENT_INVENTORY [Naming Guide Amendment / Element Inventories I. Mahuo]
 
@@ -8604,7 +9936,7 @@ The Zettari bloodline's names, titles and technique names are built in a Swahili
 
 > The Zettari speak their own tongue. Their names and their arts are Swahili, Bantu and Arabic in flavour — Kafa-Karim, Habl Flow-Bind, Sarmad Fracture, Sukun Maji, Dawam Soul-Still Art, Kumi-na-Mbili Seal; Zuberi, Ma'Kovu, N'Kharu, Malani, Jomari, N'Yari, Zembari — and that register stands. The five-strata naming convention assigns the archaic bloodlines to the Japonic stratum; the Zettari are carved out of it as a register of their own, and the Japonic assignment continues to govern every other archaic line. Ruled by Isaac, 2026-09-12.
 
-## pov (132)
+## pov (154)
 
 ### R20C-49-GLOSS_RIGHTS_CARD_FIELD [Pack Twenty R20C-49]
 
@@ -8833,6 +10165,138 @@ The uncleared Papers' author cites the sealed Necrocursica only second-hand, 'as
 Mu-jin reads EU, η and site density whenever he takes off his spectacles, Malphas prices each Category as a share of reserve by Stage, and the investigator logs readings at scenes, while the impression-body's cost, Genesio's density and the drift's scale are derived and never invented.
 
 > Each author states figures as their instruments give them. Mu-jin reads EU, η and site density whenever he removes his spectacles; Malphas prices each Category as a share of reserve by Stage; the investigator logs readings at scenes. The impression-body's cost, Genesio's density and the drift's scale are derived.
+
+### R71-1-WHERE_LINE_FALLS_FIGHT [Combat Law 2026-10-04 K1]
+
+Inside a fight, write the exchange, the wound and the cost the Western way, clinical, and run the read, the stillness before the cut and a rule's reveal the Eastern way, long and deductive, as Naruto and Bleach do.
+
+> Western body, Eastern read. The exchange, the wound and the cost stay Western and clinical; the read, the stillness before the cut and a rule's reveal run Eastern, long and deductive, the Naruto and Bleach way. The next Combat Guide writes it in.
+
+### R71-6-PLAYER_FIGHTER_PAGE [Combat Law 2026-10-04 K9]
+
+For a fighter who belongs to a player, Natalie writes the resolved hit, the wound by structure, its ATLS class and what the hand can no longer do as world facts, places the tell but never draws the deduction, shows him from an NPC's POV only as that NPC registers him, and shows his working's cost only where others could see it, keeping the spend in the Stat Ledger.
+
+> Yes to: Wounds as world facts (Once your stated move resolves, the hit, the wound by structure, its ATLS class (the trauma surgeons' blood-loss scale) and what the hand can no longer do are written as world facts; how he bears it stays yours); The tell placed, the read his (Natalie puts the evidence in the room (the heel, the smell, the needle) and never draws the conclusion; the deduction, floor item 3, is your post, as CW14's D already leaves the reading to you); Felt from across the room (From an NPC's POV a player's fighter is only what that NPC's eyes, body and room register, the Geturo model; his reasons and his Crystal stay dark. It covers guest players at the Discord table too); Outward cost only (Natalie shows what his working costs where others could see it (heat off the skin, thaw at his boots, R48-37) and keeps the spend in the Stat Ledger (the running figures in the notes); the inside is yours).
+
+### R71-7-READER_SEES_CALL [Combat Law 2026-10-04 K6]
+
+Show the fact that decides an exchange before it lands, in the POV's read or a second's mouth, as behaviour or a Grade estimate a sharp reader could call, and still name the deciding row in the notes.
+
+> Deciding fact in the read. The fact that decides an exchange shows beforehand in the POV's read or a second's mouth, as behaviour or a Grade estimate, so a sharp reader can call it. The notes still name the row.
+
+### R71-17-FEAR_BODY [Combat Law 2026-10-04 CW8]
+
+Give an untrained POV's fights at least two fear effects in the body traced to adrenaline, and let trained fighters keep composure free, showing it only under real strain or Pressure.
+
+> Owed for the untrained. An untrained POV's fights carry at least two fear effects in the body, traced to adrenaline; trained fighters keep composure free (R52-28) and show it only under real strain or Pressure.
+
+### R71-23-TELL_READ [Combat Law 2026-10-04 CW14]
+
+Show a tell plainly at its first and second appearance and read it at length at the third, and when the POV is Isaac's PC leave the reading to him.
+
+> Shown twice, then read. The tell is shown plainly at its first and second appearance and read at length at the third, matching NATALIE's two or three exchanges of evidence. When the POV is your PC, the reading is yours.
+
+### R71-26-COUNTING_ROUNDS_VIALS_CHARGES [Combat Law 2026-10-04 CW17]
+
+Let the page keep count of rounds, vials and charges exactly as the POV does, a trained hand's count kept and a panicked or untrained man's lost, while stats and the reserve stay under R70-88.
+
+> Counted as the POV counts. A trained hand keeps his count and the page keeps it with him; a panicked or untrained man loses count and the reader with him. Objects only: stats and the reserve stay under R70-88.
+
+### R71-43-SUPPRESSION_PAGE [Combat Law 2026-10-04 MC17]
+
+A practitioner holding his Pressure in pays in named places of his body (jaw, collar, temper) at a cost that grows with the approach, leaks faintly into the room for a sharp eye or good Gnosis to catch, and leaves a sag on a gauge or coil.
+
+> Yes to: The cost in his body (Holding it in tires him in named places, jaw, collar, temper, and the cost grows with the approach. The Combat Guide gains a bank of signs by culture); Small leaks in the room (R70-69 at its faintest: the draw-hum dips and a dog lies down as he passes. A sharp-eyed reader, or a POV with good Gnosis, can catch a suppressed man); Instruments catch it (A gauge or coil reads what eyes miss; the Board's clerks and the Measurewrights can find a suppressed man by the sag he leaves on a needle).
+
+### R71-44-FACULTY_READ_MAN [Combat Law 2026-10-04 MC18]
+
+A practitioner's faculty prints an opponent's exact figures when his Gnosis Perception outranks the target's Resilience Ward by Grade, and only a hedged range when it does not, Ward being the counter.
+
+> Exact unless warded. A faculty prints exact figures where the reader's Gnosis Perception outranks the target's Resilience Ward by Grade, and a hedged range where it does not. §7 gains the row; Ward is the counter.
+
+### R71-47-SHOWING_SCALE [Combat Law 2026-10-04 MC21]
+
+When top-ladder practitioners fight in a city, carry the scale by one marked dip into a commoner's head in the street before the lock resumes, by walking the ruined ground afterward, and by entering lives and property on the Ledger as claims settled in a later scene at the Accord's schedule.
+
+> Yes to: One street beat (At a marked break, one commoner in the street gets a short dip inside her head, then the lock resumes. Scale seen from the ditch, by R70-11's device); The aftermath walk (The scale is shown after, walking the ground (R57-24). The fight stays tight; the ruin tells the size); The claims come in (Lives and property go on the Ledger as claims, settled in a later scene at the Accord's schedule, as R54-15 lets a later scene pay an aftermath. WT10 asks the fighter's own bill). Not taken: A report sizes it.
+
+### R71-51-SKIRMISH_THREE_TEN [Combat Law 2026-10-04 FT1]
+
+In a skirmish (three to ten fighters, no formation) the POV's own exchanges carry the full duel floor, everyone else's fighting is compressed under the Mass Combat Guide's rules, and her count of who still stands stays in her head, never printed as figures.
+
+> Duel floor, mass compression. Amends R1-4: the POV's own exchanges carry the duel floor, and everyone else's fighting is compressed by the Mass Guide's rules. Her count of who still stands stays in her head, never as figures.
+
+### R71-52-AMBUSH_NAMED_ROUND [Combat Law 2026-10-04 FT2]
+
+Write an ambush or assassination as two POV-locked halves split by a marked break, the wait and then the shot; in roleplay the shooter's half is one turn's closing cutaway and the shot lands in the next turn.
+
+> Both, split by a break. A marked break splits the wait from the shot, each half POV-locked. In roleplay the shooter's half is one turn's closing cutaway (R49-09), and the shot lands in the next turn.
+
+### R71-59-PRACTITIONERS_AS_ARTILLERY [Combat Law 2026-10-04 FT9]
+
+Show a high-Stage practitioner in battle as a battery: an ordinary commander directs him like a gun and a Measurewright spotter in the line reads the effect on her gauge, with R3-9 kept whole and each section POV-locked across marked breaks.
+
+> Battery with a spotter. An ordinary commander directs the practitioner like a gun; a Measurewright spotter in the line reads the effect on her gauge. R3-9 stays whole, and each section stays POV-locked across marked breaks.
+
+### R71-61-SIEGE_WITH_PRACTITIONERS_IT [Combat Law 2026-10-04 FT11]
+
+In a siege, a ward failing joins the sortie, the mine and the storm as a Close Register break: sudden, seen from a POV on the wall, and over fast, with the Line Register resuming after.
+
+> Ward breach as a break. Amends R3-8: a ward failing joins sortie, mine and storm as a Close Register break, sudden, from a POV on the wall, and over fast; the Line Register resumes after.
+
+### R71-63-BEASTKIN_SENSES_FOX_FIRE [Combat Law 2026-10-04 FT13]
+
+For a scenting POV the floor's named read may be a smell stated as evidence (what was smelled, where, what it means) with tempo words following the nose; ears and tail move before the fighter decides, and an opponent who knows it may read them as a fair, findable counter; and a canon Trait that makes light, such as fox-fire, is named as light by colour, size and what it shows, R9-3's glow ban staying on Essence discharge only; lineage on the appraisal was not taken.
+
+> Yes to: Scent as the read (For a scenting POV, the floor's named read may be a smell stated as evidence: what was smelled, where, and what it means. Tempo words follow the nose); Tells the enemy reads (Ears and tail move before the fighter decides, and an opponent who knows it may read them: an involuntary tell written as a fair, findable counter, in the opponent's eyes or mouth); Fox-fire as plain light (A canon Trait that makes light is named as light, by colour, size and what it shows; R9-3's glow ban stays on Essence discharge only). Not taken: Lineage on the appraisal.
+
+### R71-65-RIVER_SEA_FIGHTS [Combat Law 2026-10-04 FT15]
+
+A river fight runs on rows of its own: the banks close the horizon and open a rout and an ambush, the current is the motion channel, sound carries far over cold water, and the cold drowns.
+
+> River law of its own. A river gets its own rows: banks close the horizon and open a rout and an ambush, the current is the motion channel, sound carries far over cold water, and the cold drowns.
+
+### R71-72-ALCHEMIST_VOICE [Combat Law 2026-10-04 AL3]
+
+Put three habits on the alchemists' trade menu (reading mouths, hands, sclera and tremor before faces, with a 'reads first' line in the card's voice block; weighing a thing by price, vessel, seal and ledger; and the bench operations as all-purpose idiom, a few logged per card), and leave quiet at the work off it.
+
+> Yes to: Reads the body first (On the menu: notices mouths, hands, sclera and tremor before faces, and reads a dose, a career or a lie in them. A card that takes it gains a 'reads first' line in its voice block); Price, vessel, seal, ledger (On the menu: weighs a thing by its cost, its vessel, whose mark closes it and where it is entered, pricing before praising. Extends R61-91 from the two texts to any alchemist who takes it); Bench words for everything (On the menu: the operations as all-purpose idiom (a plan still in the Rot, a recruit fed too fast), the Fleshshaper model (R24-1) applied to the trade, a few logged per card). Not taken: Quiet at the work.
+
+### R71-82-CORRUPTION_SHOWN_BODY [Combat Law 2026-10-04 AL13]
+
+Show a corrupt alchemist's signs as standing tells in his body (planted before any reveal), in his bench work and in his technique, at most one sign a scene across the three, and write the Shear Break as its own event, the fall shown whole in body and work.
+
+> Yes to: Signs in the body (The Heresiology's bodily signs become standing tells, planted before any reveal, so a reader can catch a corrupt master before the plot names him. One sign a scene at most, across A to C); Signs in the work (The bench betrays him first: vessels crack under his hands alone, inscriptions darken on their own, residue gathers in shapes. The workshop shows the corruption before the man does); Signs in technique (A corrupted practitioner's workings run their corrupted versions (the Open Crucible's model, where Honest Fire strips structure it finds inconvenient), so the tell lives in how he works and fights); The break as an event (When the vow finally fails, the Shear Break is written as its own event, the fall shown whole in the body and the work, so the slow signs pay off on the page).
+
+### R71-87-IMPRESSION_BODY_VOICE [Combat Law 2026-10-04 AL18]
+
+Write an impression-body exactly as the living man through the mourner's eyes, with only the room hinting, and let one planted habit of its maker leak through the likeness, findable by an attentive reader before any trained reader names it.
+
+> A seam the reader catches. As A, plus one planted habit of the maker leaks through the likeness, findable by an attentive reader before any trained reader names it: the maker's Core as identity, made visible. (Option A there reads: Seamless to the mourner. The likeness is written exactly as the living man, through the mourner's eyes; only the room (the dim lamp, the ink) hints. The horror is what the reader knows and she does not.)
+
+### R71-90-WEAPON_NAMES_FIGHT [Combat Law 2026-10-04 WT2]
+
+In a fight the narration calls a weapon whatever the POV calls it (a Kharven rider's folk name, a Moto retainer's true name), matching R70-100's rule for moves, and the weapon's other names wait for a card or the aftermath.
+
+> The POV's own name. Narration uses whatever the POV calls it: a Kharven rider's folk name, a Moto retainer's true name. It matches R70-100's rule for moves. Other names wait for a card or the aftermath.
+
+### R71-91-ARMOUR_SUMS_PAGE [Combat Law 2026-10-04 WT3]
+
+A trained POV names both Tiers in her read before an exchange against armour and the steel then shows the sum, an untrained POV falls back to option A (the steel tells it), and a reader can check every penetration against R46-3.
+
+> The read names the sum. A trained POV names both Tiers in her read before the exchange (R70-88), then the steel shows the sum. Untrained POVs fall back to A. The reader checks every penetration against R46-3.
+
+### R71-95-WARD_BREAKING [Combat Law 2026-10-04 WT6]
+
+When a fight breaks a ward, a POV inside the craft names the failing layer as it goes, while any other POV gets only what stops and hears the layer named in a mouth, keyed to the POV as R70-100's school words are.
+
+> By who is looking. A POV inside the craft names the layer as it goes; any other POV gets only what stops, and hears the layer named in a mouth. Keyed to the POV, as R70-100's school words are.
+
+### R71-98-HEARS_RAIL [Combat Law 2026-10-04 WT9]
+
+At a sanctioned bout the Measurewright says her reading aloud as she takes it, so both fighters and the benches hear it, the readout reaches a fighter's own page, and a suppressed Stage is exposed in public with R70-112's bill.
+
+> Called aloud to all. She says the reading as she takes it: both fighters and the benches hear it, the readout reaches a fighter's own page, and a suppressed Stage is exposed in public, with R70-112's bill.
 
 ### R41-1-DISTANCE_IS_TWO_AXES [Distance Two Axes Ruling C-015]
 
@@ -9398,7 +10862,7 @@ Narration refers to characters by POV epithets, the way the viewpoint sees them;
 
 > Narration refers to characters by POV epithets, the way the viewpoint sees them; the naming characterises.
 
-## prose-law (313)
+## prose-law (347)
 
 ### R20C-29-CATEGORY_NAMING_DIAGNOSTIC [Pack Twenty R20C-29]
 
@@ -9903,6 +11367,210 @@ C-091: 'Numinous' keeps only its WOTR sense and comes out of the elevated word b
 C-079: Reification has no count anywhere, procedural and ledger scenes included.
 
 > C-079: Reification has no count anywhere, procedural and ledger scenes included.
+
+### R71-1-WHERE_LINE_FALLS_FIGHT [Combat Law 2026-10-04 K1]
+
+Inside a fight, write the exchange, the wound and the cost the Western way, clinical, and run the read, the stillness before the cut and a rule's reveal the Eastern way, long and deductive, as Naruto and Bleach do.
+
+> Western body, Eastern read. The exchange, the wound and the cost stay Western and clinical; the read, the stillness before the cut and a rule's reveal run Eastern, long and deductive, the Naruto and Bleach way. The next Combat Guide writes it in.
+
+### R71-2-EASTERN_COMBAT_MODELS [Combat Law 2026-10-04 K2]
+
+Name Togashi's Hunter x Hunter (fights as logic), Gu Long's one cut (the named model for Verdict grammar), Inoue's Vagabond with Yoshikawa's Musashi (the fight decided inside the fighter, a model for Japonic POVs) and Akutami's Jujutsu Kaisen (Domain clashes decided in a stated order) as the Combat Craft Guide's Eastern combat models beside Kishimoto and Kubo.
+
+> Yes to: Togashi, Hunter x Hunter (Fights as logic: the opponent's rules inferred from evidence, tested and exploited, and the winner is whoever knows his own limits best. Its vows that trade a limit for power wait for MC6); Gu Long, the one cut (The duel is the wait: the long read and a single exchange, the floor paid on the body. Becomes the named model for Verdict grammar (read, rank, commit); FT16 asks whether the cut itself is seen); Inoue and Yoshikawa, Musashi (Inoue's manga Vagabond and Yoshikawa's novel Musashi: the deciding event happens inside the fighter (fear, the fixed mind, no-mind), with pages of breath and footing. A model for Japonic POVs); Akutami, Jujutsu Kaisen (Domain clashes decided in a stated order, with the burnout after a Domain as the counter-window. FOW Part Twenty-Two already sets the order; burnout and the sure-hit (a Domain that cannot miss) would be new canon).
+
+### R71-3-WESTERN_COMBAT_MODELS [Combat Law 2026-10-04 K3]
+
+Name Cornwell's Sharpe (volley, smoke, the stormed breach, tactics read in the action), Sanderson's hard magic (rules planted before, costs and counters findable) and the HEMA novelists Christian Cameron and Sebastien de Castell (armoured fights from inside the steel) as the Combat Craft Guide's Western combat models, leaving O'Brian out.
+
+> Yes to: Cornwell, Sharpe (Volley drill, powder smoke, the stormed breach, tactics explained in the action by a sergeant's read. The only model for the gunpowder battle the archive has never written); Sanderson, hard magic (Rules planted before, physics as choreography, costs and counters findable, so the reader does the sum. Already close to R70-71's rules shown beforehand); HEMA novelists (Christian Cameron and Sebastien de Castell: armoured fights from inside the steel, the phrase (one unbroken attack and answer), joints, the visor slot, the ground. The Western school's model). Not taken: O'Brian, Aubrey-Maturin.
+
+### R71-9-LITRPG_COMBAT_MODELS [Combat Law 2026-10-04 K8]
+
+Name Mother of Learning (the prepared fight), Dungeon Crawler Carl (the room as the counter), The Primal Hunter (the bench wins the fight) and Delve (drain-rate tension) as the Combat Craft Guide's LitRPG fight models beside Unbound and The Beginning After the End, without the time loop or the time-stopping sense.
+
+> Yes to: nobody103, Mother of Learning (The prepared fight: scout, learn the enemy's tools, then a short, legible final attempt the reader can check. Its time loop stays out, since death is permanent; R70-71 and R12-3's study counter are its home); Dinniman, Dungeon Crawler Carl (The room as the counter: a gas, a drop, a cut main beats the boss; bosses that change their rule mid-fight; grief arriving cold after the jokes. Comic beats stay with carded comic voices (R70-113)); Zogarth, The Primal Hunter (The bench wins the fight: poisons and coated shot prepared days before, the dose counted toward its effect, the dying long. Its time-stopping sense would need a ruled mechanism and stays out); SenescentSoul, Delve (Drain-rate tension: the reserve clock worked out so the reader knows when a fighter will cross into Starvation (below a tenth of his reserve). The figures stay between exchanges and in the notes, under R70-88's no running figures).
+
+### R71-10-COUNTING_BACK_SMALL_EXCHANGES [Combat Law 2026-10-04 CW1]
+
+Let exchanges that change nothing be counted back in one sentence, each named by its move, and trace with the floor any exchange that lands, shifts measure or reveals something.
+
+> Count back the minor ones. R48-33 is amended: exchanges that change nothing may be counted back in one sentence, each named by its move; any exchange that lands, shifts measure or reveals something is traced with the floor.
+
+### R71-11-RUNNING_FAST [Combat Law 2026-10-04 CW2]
+
+Once per fight, in its swift stretch, one short paragraph of short, even sentences may break the run rule, and the author notes mark it.
+
+> A staccato run, once. Once per fight, in its swift stretch, one short paragraph of short, even sentences is exempt from the run rule, and the notes mark it. R4-14 is partly amended for fights.
+
+### R71-12-KEEPING_SPACE_TRACKABLE [Combat Law 2026-10-04 CW3]
+
+A scramble in a crowd, the dark or a fall may blur where the fighters stand while it lasts, but every exchange that decides something re-fixes both bodies before it lands.
+
+> Fixed at the deciders. A scramble (a crowd, the dark, a fall) may blur position while it lasts; every exchange that decides something re-fixes both bodies before it lands. Chaos is legal, the deciding geometry always clear.
+
+### R71-13-SUPERHUMAN_SPEED [Combat Law 2026-10-04 CW4]
+
+Render a practitioner's speed by its physics arriving first (the pressure front, the crack after, the wound that opens once he has passed), by stretched time for a POV whose Reflex Grade outruns the threat, and by the gap in the frame with nothing drawn between two poses, each held to FOW's rows for the Grade on the card.
+
+> Yes to: The effect arrives first (Speed shown through its physics: the pressure front, the crack after, the wound that opens once the swordsman has passed. Held to FOW's speed rows for the Grade on the card); Felt time, by Reflex (A POV whose Reflex Grade outruns the threat gets stretched time on the page, held to FOW's Reaction Speed row for that Grade; a slower POV gets only the gap. Sits beside R70-57's one held instant); The gap in the frame (The body is simply elsewhere, nothing drawn between two poses; any after-image is disturbed snow, dust or frost, never a glowing double (R9-3 keeps 'it glowed' banned)). Not taken: The witness who misses it.
+
+### R71-14-IMPACT_MOMENTUM [Combat Law 2026-10-04 CW5]
+
+At display and finisher, say where a big hit's momentum went (what anchored the striker, whether the target was thrown or broken, what the ground took), have the physics audit check it, and move stock images to a bank per culture.
+
+> Momentum accounted for. At display and finisher the page says where the momentum went: what anchored the striker, whether the target was thrown or broken, what the ground took. The physics audit checks it; stock images move to a bank per culture.
+
+### R71-16-LONG_PAGE_STAYS_WOUND [Combat Law 2026-10-04 CW7]
+
+Keep exchange wounds precise, give the lingering passage to a finisher, an execution and a battle's one full-detail body, and keep wounds short in roleplay turns unless the death is the turn's point.
+
+> Length by scene type. Exchanges stay precise; a finisher, an execution and a battle's one full-detail body get the lingering passage; roleplay turns keep it short unless the death is the turn's point.
+
+### R71-17-FEAR_BODY [Combat Law 2026-10-04 CW8]
+
+Give an untrained POV's fights at least two fear effects in the body traced to adrenaline, and let trained fighters keep composure free, showing it only under real strain or Pressure.
+
+> Owed for the untrained. An untrained POV's fights carry at least two fear effects in the body, traced to adrenaline; trained fighters keep composure free (R52-28) and show it only under real strain or Pressure.
+
+### R71-18-FIGHT_SOUNDS_LIKE [Combat Law 2026-10-04 CW9]
+
+In fights, carry each impact's sound with the POV culture's own sound words, entered in its Inventory first, keep comparisons for the held instant, and give each culture's bank a few fight words.
+
+> The native word at impact. In fights the POV culture's own sound words (R70-22) carry the impacts, entered in its Inventory first; comparisons are kept for the held instant. Each culture's bank gains a few fight words.
+
+### R71-21-AFTERMATH_PAGE [Combat Law 2026-10-04 CW12]
+
+Write a fight's dressing as process: the period kit for the place, the healer's hands, the bleeding clock closing and what this place's medicine cannot do.
+
+> Procedure as craft. The dressing is written as process: the period kit for the place, the healer's hands, the bleeding clock closing, what this place's medicine cannot do. R70-46's craft-as-process reaches the infirmary.
+
+### R71-26-COUNTING_ROUNDS_VIALS_CHARGES [Combat Law 2026-10-04 CW17]
+
+Let the page keep count of rounds, vials and charges exactly as the POV does, a trained hand's count kept and a panicked or untrained man's lost, while stats and the reserve stay under R70-88.
+
+> Counted as the POV counts. A trained hand keeps his count and the page keeps it with him; a panicked or untrained man loses count and the reader with him. Objects only: stats and the reserve stay under R70-88.
+
+### R71-33-DRAIN_SHOWS [Combat Law 2026-10-04 MC7]
+
+Between readout lines, show a falling reserve through a bank of body signs keyed by culture to the Ledger's thresholds, through waste heat that grows as eta falls, and through the opponent's read and his choice to make the spender spend.
+
+> Yes to: The body, by threshold (A bank of body signs keyed to the Ledger's lines, committed spending and Starvation: cold hands, tin on the teeth, the slow grip. Logged by culture, so the nosebleed stops carrying everything); The waste grows (As η (eta, efficiency) falls, the same work sheds more heat, so the room shows the drain: the thawed ring widens, the air shakes harder. Canon's own law, written as a rule of the page); The opponent reads it (The drain is shown through the other fighter's read and his choice to make the spender spend. The Counterplay doctrine, on the page). Not taken: By Family.
+
+### R71-37-TRAITS_THEY_FIRE [Combat Law 2026-10-04 MC11]
+
+When a Trait a character already holds fires in a fight, narration names it the first time it fires in that scene and then shows it working.
+
+> Named at first fire. Narration names the Trait the first time it fires in a scene, then shows it working. The reader holds the name the way he holds a technique's.
+
+### R71-45-RAISING_DOMAIN_DUEL [Combat Law 2026-10-04 MC19]
+
+In a duel a Domain below Stage XI rises over turns by the holder's attention, unnamed, at a cost the notes track, as his display beat; from Stage XI, where canon has it leak, suppression holds it in and the holder lets it go in a beat.
+
+> Attention, then held in. Below Stage XI it rises by attention as in A. From Stage XI, where canon has it leak, suppression holds it in and the holder lets it go in a beat. Originated; you rule it. (Option A there reads: Raised by attention. Part Twenty-Two read plainly: the holder concentrates and the Domain comes up over turns, unnamed, at a cost the notes track. Its rising joins R9-3-SCOPE's triggers as his display beat.)
+
+### R71-46-DOMAIN_CLASH_PAGE [Combat Law 2026-10-04 MC20]
+
+When two Domains meet in a duel, show the seam between the two laws in the room and let it move, have one voice name the deciding step once, and pace the clash like an exchange so it reconstructs.
+
+> The moving border. The seam between two laws shows in the room and moves; one voice names the deciding step once. Reconstructible, and paced like an exchange.
+
+### R71-48-WASTE_LIGHT_OUTSIDE_DISPLAY [Combat Law 2026-10-04 MC22]
+
+Outside a display beat, write a working's waste light by the smith's colour scale (dull red, orange, white) and by what it lights, with brightness tracking eta so masters work darker, and never use the word glow.
+
+> Incandescent, by physics. Waste light is written by the smith's colour scale, dull red to orange to white, and by what it lights; brightness tracks η, so masters work darker. The word glow stays banned.
+
+### R71-49-SUMMON_DISPLAY_BEAT [Combat Law 2026-10-04 MC23]
+
+A Native summon, having its own Crystal, takes a display beat of its own, while Donated and Analog forms share their summoner's beat, provenance deciding.
+
+> Native summons earn one. A Native summon, with its own Crystal, takes its own display beat; Donated and Analog forms share the summoner's. Provenance decides, as the Register's doctrine says.
+
+### R71-57-APPRAISING_BEAST [Combat Law 2026-10-04 FT7]
+
+When a coil or a trained eye appraises a beast, the tape prints its rung and its Commission tier together, a voice names the gap wherever the two disagree, and the appraisal counts as one of the scene's three readouts.
+
+> Both, and the gap. The tape prints rung and Commission tier together, and where they disagree a voice names the gap, because canon puts the hunter's answer there. It counts as one of the scene's three readouts (R70-86).
+
+### R71-63-BEASTKIN_SENSES_FOX_FIRE [Combat Law 2026-10-04 FT13]
+
+For a scenting POV the floor's named read may be a smell stated as evidence (what was smelled, where, what it means) with tempo words following the nose; ears and tail move before the fighter decides, and an opponent who knows it may read them as a fair, findable counter; and a canon Trait that makes light, such as fox-fire, is named as light by colour, size and what it shows, R9-3's glow ban staying on Essence discharge only; lineage on the appraisal was not taken.
+
+> Yes to: Scent as the read (For a scenting POV, the floor's named read may be a smell stated as evidence: what was smelled, where, and what it means. Tempo words follow the nose); Tells the enemy reads (Ears and tail move before the fighter decides, and an opponent who knows it may read them: an involuntary tell written as a fair, findable counter, in the opponent's eyes or mouth); Fox-fire as plain light (A canon Trait that makes light is named as light, by colour, size and what it shows; R9-3's glow ban stays on Essence discharge only). Not taken: Lineage on the appraisal.
+
+### R71-66-FIGHT_THAT_MOSTLY_READ [Combat Law 2026-10-04 FT16]
+
+When a fight is a long read and one cut, the read pays the floor's first four items (measure, tempo, read, fault) before the cut, the body pays the last four (the hit, the injury, the Essence, what he cannot do) after it, and the cut itself is one line between.
+
+> Read before, body after. The read pays the first four items (measure, tempo, read, fault) before the cut; the body pays the last four (the hit, the injury, the Essence, what he cannot do) after it. The cut is one line between.
+
+### R71-70-BENCH_WORK_PAGE [Combat Law 2026-10-04 AL1]
+
+When a scene makes its main brew, set the house's numbered form apart first (R70-75 carried to the bench), then perform it with something departing from the form, while minor bench work keeps the single stretch of process of R70-46's floor.
+
+> Guild form, then performed. The scene's main brew appears first as the house's numbered form, set apart (R70-75 extended to the bench), then is performed, and something departs from it. Minor bench work keeps A's single stretch.
+
+### R71-78-DRAFT_READOUT [Combat Law 2026-10-04 AL9]
+
+Give a Draft R70-95's card once, at purchase or appraisal, carrying the Draft's own marks (gate, rung, Class, Fidelity, Carry, maker, price, lore), and at use show only the body, plus a surgeon's inline wound line if a wound earns one.
+
+> Card once, body at use. R70-95's card carries the Draft's own marks (gate, rung, Class, Fidelity, Carry, maker, price, lore) once, at purchase or appraisal. At use only the body shows, plus a surgeon's inline wound line if a wound earns one.
+
+### R71-82-CORRUPTION_SHOWN_BODY [Combat Law 2026-10-04 AL13]
+
+Show a corrupt alchemist's signs as standing tells in his body (planted before any reveal), in his bench work and in his technique, at most one sign a scene across the three, and write the Shear Break as its own event, the fall shown whole in body and work.
+
+> Yes to: Signs in the body (The Heresiology's bodily signs become standing tells, planted before any reveal, so a reader can catch a corrupt master before the plot names him. One sign a scene at most, across A to C); Signs in the work (The bench betrays him first: vessels crack under his hands alone, inscriptions darken on their own, residue gathers in shapes. The workshop shows the corruption before the man does); Signs in technique (A corrupted practitioner's workings run their corrupted versions (the Open Crucible's model, where Honest Fire strips structure it finds inconvenient), so the tell lives in how he works and fights); The break as an event (When the vow finally fails, the Shear Break is written as its own event, the fall shown whole in the body and the work, so the slow signs pay off on the page).
+
+### R71-84-TRADE_PAPER_SCENE [Combat Law 2026-10-04 AL15]
+
+Have a fighter or worker count what a Draft cost when he spends it, in his own money, have anyone handling a lawful vessel check its maker's registered mark as a soldier reads a proof-dent, and let a scene turn on a forged, adulterated, stale or unentered lot, a forgery always findable by mark, assay or the Index's own failure.
+
+> Yes to: Price counted at use (Beyond R70-48's price at purchase, a fighter or worker counts what a Draft cost when he spends it, in his own money, the sum taken from the table or the Index. Money before magic, in the hand); The mark checked (Every lawful vessel carries its maker's registered mark, and anyone handling one looks at it the way a soldier reads a proof-dent (R11-3). The mark becomes standing texture and a trail); Provenance as plot (Lots can be forged, adulterated, stale or unentered, and a scene may turn on a bad lot; the forgery is always findable by mark, assay or the Index's own failure. A fair counter and a plot engine).
+
+### R71-87-IMPRESSION_BODY_VOICE [Combat Law 2026-10-04 AL18]
+
+Write an impression-body exactly as the living man through the mourner's eyes, with only the room hinting, and let one planted habit of its maker leak through the likeness, findable by an attentive reader before any trained reader names it.
+
+> A seam the reader catches. As A, plus one planted habit of the maker leaks through the likeness, findable by an attentive reader before any trained reader names it: the maker's Core as identity, made visible. (Option A there reads: Seamless to the mourner. The likeness is written exactly as the living man, through the mourner's eyes; only the room (the dim lamp, the ink) hints. The horror is what the reader knows and she does not.)
+
+### R71-89-ITEM_CARD_FIGHT [Combat Law 2026-10-04 WT1]
+
+When a weapon or round is first appraised while a fight runs, a trained eye names its Tier inline by name alone, the full item card waits for the counter or the aftermath, and no set-off block sits between exchanges (verify_scene warns on one).
+
+> Tier named, card after. Mid-fight a trained eye names the Tier inline, by name alone (R70-82). The full card waits for the counter or the aftermath. No set-off block between exchanges; verify_scene warns on one.
+
+### R71-95-WARD_BREAKING [Combat Law 2026-10-04 WT6]
+
+When a fight breaks a ward, a POV inside the craft names the failing layer as it goes, while any other POV gets only what stops and hears the layer named in a mouth, keyed to the POV as R70-100's school words are.
+
+> By who is looking. A POV inside the craft names the layer as it goes; any other POV gets only what stops, and hears the layer named in a mouth. Keyed to the POV, as R70-100's school words are.
+
+### R71-102-WHERE_COMBAT_LAW_LANDS [Combat Law 2026-10-04 ME1]
+
+The combat answers land as one dated Combat Law rule doc logged through log_ruling and served by load_rules, plus new editions of the Combat Craft, Mass Combat Craft and Item and Equipment Writing guides and NATALIE.md's stale combat lines rewritten, so nothing still teaches dead law.
+
+> Rule doc, three guides. A, plus new editions of the Combat Craft, Mass Combat Craft and Item and Equipment Writing guides, and NATALIE.md's stale combat lines rewritten, so nothing still teaches dead law. (Option A there reads: Rule doc only. One dated Combat Law doc through log_ruling, served by load_rules. The guides and NATALIE.md stay as they are until a later pass, stale lines included.)
+
+### R71-103-COMBAT_CHECKS_VERIFY_SCENE [Combat Law 2026-10-04 ME2]
+
+verify_scene's combat check gains a hammer-and-haft Percussion list, boxing as its own school and firearms and Kharven lists; it WARNs past three readout lines a scene or two a turn, on two in one exchange and on a figure carried from one exchange to the next; and it WARNs past one a scene on the archive's tired fight devices (the default 'eleven', the knock-back furrow, the overdraw nosebleed, 'without deciding to', 'the particular X of Y').
+
+> Yes to: Truer school lists (Percussion gets a hammer-and-haft list, boxing becomes its own school, and firearms and Kharven lists are added, so a gunfight or a hall fight is checked in its own words); Readout and beat counts (WARN past three readout lines a scene or two a turn, on two in one exchange, and on a figure carried from one exchange to the next (R70-86, R70-88)); Stale-device watch (WARN past one a scene on the archive's tired fight devices: the default 'eleven', the knock-back furrow, the overdraw nosebleed, 'without deciding to' and 'the particular X of Y'). Not taken: Checks 24 to 26.
+
+### R71-104-COMBAT_SAMPLE_BANK [Combat Law 2026-10-04 ME3]
+
+The combat sample bank holds both a fight passage in each culture file where Natalie already loads them and a bank of the fight types the archive has never written.
+
+> Both. A and B: culture passages where Natalie already loads them, and the fight types the archive has never written.
+
+### R71-105-PROOF_ORDER_WORK [Combat Law 2026-10-04 ME4]
+
+The combat work runs in order: log the law and build the new checks, run the test fight against them, amend, and only then write the guide editions and the sample bank, once, against proved law.
+
+> Law and checks, then test. Log the law and build the new checks; run the test fight against them; amend; then the guide editions and the bank, written once against proved law.
 
 ### R41-1-DISTANCE_IS_TWO_AXES [Distance Two Axes Ruling C-015]
 
@@ -11278,7 +12946,7 @@ Narration refers to characters by POV epithets, the way the viewpoint sees them;
 
 > Narration refers to characters by POV epithets, the way the viewpoint sees them; the naming characterises.
 
-## register (191)
+## register (194)
 
 ### R20C-21-WELL_NAMES_CLASS_MARKED [Pack Twenty R20C-21]
 
@@ -11717,6 +13385,24 @@ Scholars in the texts use 'necromantic' loosely as the period term for impressio
 C-091: 'Numinous' keeps only its WOTR sense and comes out of the elevated word bank, which is eldritch, chthonic, tenebrous, lambent, sepulchral, incarnadine, stygian, empyreal and ineffable, used freely, by ear. This supersedes R51-12-W...
 
 > C-091: 'Numinous' keeps only its WOTR sense and comes out of the elevated word bank, which is eldritch, chthonic, tenebrous, lambent, sepulchral, incarnadine, stygian, empyreal and ineffable, used freely, by ear. This supersedes R51-12-WORD_BANK.
+
+### R71-18-FIGHT_SOUNDS_LIKE [Combat Law 2026-10-04 CW9]
+
+In fights, carry each impact's sound with the POV culture's own sound words, entered in its Inventory first, keep comparisons for the held instant, and give each culture's bank a few fight words.
+
+> The native word at impact. In fights the POV culture's own sound words (R70-22) carry the impacts, entered in its Inventory first; comparisons are kept for the held instant. Each culture's bank gains a few fight words.
+
+### R71-53-BRAWLS_FOLK_SCHOOLS [Combat Law 2026-10-04 FT3]
+
+Treat each culture's folk wrestling and fist-fighting as a school: its Standing Inventory's Words entry gains those words (entered and logged), a POV raised in them names his moves in them, and verify gains a word list per culture.
+
+> Folk schools, by culture. Each Standing Inventory's Words entry gains its wrestling and fist words, entered and logged; a POV raised in them names moves in them, and verify gains a list per culture.
+
+### R71-72-ALCHEMIST_VOICE [Combat Law 2026-10-04 AL3]
+
+Put three habits on the alchemists' trade menu (reading mouths, hands, sclera and tremor before faces, with a 'reads first' line in the card's voice block; weighing a thing by price, vessel, seal and ledger; and the bench operations as all-purpose idiom, a few logged per card), and leave quiet at the work off it.
+
+> Yes to: Reads the body first (On the menu: notices mouths, hands, sclera and tremor before faces, and reads a dose, a career or a lie in them. A card that takes it gains a 'reads first' line in its voice block); Price, vessel, seal, ledger (On the menu: weighs a thing by its cost, its vessel, whose mark closes it and where it is entered, pricing before praising. Extends R61-91 from the two texts to any alchemist who takes it); Bench words for everything (On the menu: the operations as all-purpose idiom (a plan still in the Rot, a recruit fed too fast), the Fleshshaper model (R24-1) applied to the trade, a few logged per card). Not taken: Quiet at the work.
 
 ### R58-05-SWEARS_AND_SENSE_BANKS_APPROVED [Follow-up Rulings 2026-09-26 Follow-up answers]
 
@@ -12426,7 +14112,7 @@ The Zettari bloodline's names, titles and technique names are built in a Swahili
 
 > The Zettari speak their own tongue. Their names and their arts are Swahili, Bantu and Arabic in flavour — Kafa-Karim, Habl Flow-Bind, Sarmad Fracture, Sukun Maji, Dawam Soul-Still Art, Kumi-na-Mbili Seal; Zuberi, Ma'Kovu, N'Kharu, Malani, Jomari, N'Yari, Zembari — and that register stands. The five-strata naming convention assigns the archaic bloodlines to the Japonic stratum; the Zettari are carved out of it as a register of their own, and the Japonic assignment continues to govern every other archaic line. Ruled by Isaac, 2026-09-12.
 
-## scene-structure (67)
+## scene-structure (87)
 
 ### R19-2-BUILT_AROUND [Pack Nineteen §2]
 
@@ -12439,12 +14125,6 @@ Scenes are constructed to make Isaac's fixed lines land; the dialogue is never f
 Only Pack Five's register-by-culture rule is struck; its dramatic irony through POV lock, the elegiac mode, humour recalibration, and narration authority all stand because none of them are register rules.
 
 > Pack Five. Register by culture struck. Dramatic irony through POV lock, the elegiac mode, humour recalibration, and narration authority all stand; none of them are register rules.
-
-### R13-4-DENSITY_BUDGET [Pack Thirteen §4]
-
-A 2,500-word duel carries the full eight-item floor at first display and finisher, plus items 1-4 at every fight-changing exchange; a 700-1,500-word turn carries items 1-4 once and item 8 at close.
-
-> Density. A duel of 2,500 words carries the full floor at first display and finisher, and items 1 to 4 at every exchange that changes the fight. A turn of 700 to 1,500 carries 1 to 4 once and 8 at close.
 
 ### R12-8-SCENE_GUIDE_PACK7_STRUCK [Pack Twelve §8]
 
@@ -12469,12 +14149,6 @@ Deploy in pairs with one member outside the radius; take Crystal baselines befor
 A practitioner arriving at an unclassified Pressure is staged backlit, shape before detail, using the existing Section 3 silhouette tool now explicitly licensed for power-arrival rather than rationed to dread generally.
 
 > Silhouette-first entrance. A practitioner arriving at a Pressure the room hasn't classified yet is staged backlit, shape before detail — the existing silhouette tool in Section 3, now explicitly licensed for a power-arrival rather than rationed to dread generally.
-
-### R8-26-ONE_RELEASE_PER_SCENE [Pack Eight 2.6]
-
-One release per scene at most; two men releasing in the same scene is an event, not texture.
-
-> One release per scene at most. Two men releasing in the same scene is an event, not texture.
 
 ### R5-C1-INFO_TRACKED_PER_POV [Pack Five C.1]
 
@@ -12565,6 +14239,138 @@ When planning a battle scene, plan the aftermath first; the engagement exists to
 Per the Mass Combat Craft Guide §7: the wounded left where they fell, the stripping, the late and cursory burial, the disease, and the district that does not recover in the season — any aftermath scene should touch at least two.
 
 > The five-stage aftermath sequence (per the Mass Combat Craft Guide section 7): the wounded left where they fell, the stripping, the late and cursory burial, the disease, and the district that does not recover in the season. Any aftermath scene should touch at least two.
+
+### R71-4-FAR_FROM_FLOOR [Combat Law 2026-10-04 K4]
+
+Carry the full combat floor at first display and finisher, items 1 to 4 at every exchange that turns the fight and item 8 at a turn's close, each item stated where it happens, and let each grammar pay it its own way (Verdict the read before and the mechanics after, on the body; Blade pass by pass; Percussion and Expenditure the cost every exchange).
+
+> Floor by grammar. Rescaled as in A, and each grammar pays the floor its own way: Verdict states the read before and the mechanics after, on the body; Blade pass by pass; Percussion and Expenditure carry the cost every exchange. (Option A there reads: Rescale, same ratios. R13-4-DENSITY_BUDGET is rewritten for today's lengths: full floor at first display and finisher, items 1 to 4 at every exchange that turns the fight, item 8 at a turn's close. Every item stated where it happens.)
+
+### R71-5-ROLEPLAY_TURNS_AGAINST_WRITTEN [Combat Law 2026-10-04 K5]
+
+In a roleplay fight Isaac may post conditions such as 'if he closes, I cut low', and Natalie runs them exchange by exchange until the first branch they do not cover, then stops the turn on that threat.
+
+> Standing orders honoured. You may post conditions ('if he closes, I cut low'). Natalie runs them exchange by exchange until the first branch they do not cover, then stops on that threat. Table Rule 1 gains this exception.
+
+### R71-10-COUNTING_BACK_SMALL_EXCHANGES [Combat Law 2026-10-04 CW1]
+
+Let exchanges that change nothing be counted back in one sentence, each named by its move, and trace with the floor any exchange that lands, shifts measure or reveals something.
+
+> Count back the minor ones. R48-33 is amended: exchanges that change nothing may be counted back in one sentence, each named by its move; any exchange that lands, shifts measure or reveals something is traced with the floor.
+
+### R71-16-LONG_PAGE_STAYS_WOUND [Combat Law 2026-10-04 CW7]
+
+Keep exchange wounds precise, give the lingering passage to a finisher, an execution and a battle's one full-detail body, and keep wounds short in roleplay turns unless the death is the turn's point.
+
+> Length by scene type. Exchanges stay precise; a finisher, an execution and a battle's one full-detail body get the lingering passage; roleplay turns keep it short unless the death is the turn's point.
+
+### R71-29-OFTEN_ART_RELEASED [Combat Law 2026-10-04 MC3]
+
+An art's release call may be spoken as often as the fighter can afford the beat it costs, each call buying its output, with no once-per-scene cap.
+
+> As often as beats allow. R50-09 governs and R8-26 is marked superseded. Every call costs its beat and buys its output, so a fighter may call his art again whenever he can afford the beat.
+
+### R71-30-HELD_BACK_REVEAL [Combat Law 2026-10-04 MC4]
+
+A working's rule may act on the page before the fight without explanation, as evidence a reader could catch, and be told by a voice only at the reveal, with the author notes listing each planted sign.
+
+> Shown before, told at reveal. This reopens R70-71 for held reveals: the rule may act earlier, unexplained, as evidence a reader could catch, and a voice tells it at the reveal. The notes list each planted sign.
+
+### R71-47-SHOWING_SCALE [Combat Law 2026-10-04 MC21]
+
+When top-ladder practitioners fight in a city, carry the scale by one marked dip into a commoner's head in the street before the lock resumes, by walking the ruined ground afterward, and by entering lives and property on the Ledger as claims settled in a later scene at the Accord's schedule.
+
+> Yes to: One street beat (At a marked break, one commoner in the street gets a short dip inside her head, then the lock resumes. Scale seen from the ditch, by R70-11's device); The aftermath walk (The scale is shown after, walking the ground (R57-24). The fight stays tight; the ruin tells the size); The claims come in (Lives and property go on the Ledger as claims, settled in a later scene at the Accord's schedule, as R54-15 lets a later scene pay an aftermath. WT10 asks the fighter's own bill). Not taken: A report sizes it.
+
+### R71-51-SKIRMISH_THREE_TEN [Combat Law 2026-10-04 FT1]
+
+In a skirmish (three to ten fighters, no formation) the POV's own exchanges carry the full duel floor, everyone else's fighting is compressed under the Mass Combat Guide's rules, and her count of who still stands stays in her head, never printed as figures.
+
+> Duel floor, mass compression. Amends R1-4: the POV's own exchanges carry the duel floor, and everyone else's fighting is compressed by the Mass Guide's rules. Her count of who still stands stays in her head, never as figures.
+
+### R71-52-AMBUSH_NAMED_ROUND [Combat Law 2026-10-04 FT2]
+
+Write an ambush or assassination as two POV-locked halves split by a marked break, the wait and then the shot; in roleplay the shooter's half is one turn's closing cutaway and the shot lands in the next turn.
+
+> Both, split by a break. A marked break splits the wait from the shot, each half POV-locked. In roleplay the shooter's half is one turn's closing cutaway (R49-09), and the shot lands in the next turn.
+
+### R71-54-BOUTS_AETHERION [Combat Law 2026-10-04 FT4]
+
+Chalk each sanctioned bout's terms before it starts (yield, ring-out, a wound by class); fighters may push right up to them, and the warden's gauge stops only what the terms never priced.
+
+> Posted terms, warden backstop. Each bout's terms are chalked before it (yield, ring-out, a wound by class). Fighters may push right up to them, and the warden's gauge stops only what the terms never priced.
+
+### R71-56-SHAPE_MONSTER_FIGHT [Combat Law 2026-10-04 FT6]
+
+A fight with a Well-spawn or other beast may be written as a hunt won at the shaft head (reading the draw, choosing the entry's counter, laying out the kit, then a short kill), and it may turn in phases only at a lever canon gives the beast (its tie cut, its Wellspring's failure induced), the rung dropping on the page and an untraceable phase failing R13-8; the duel-with-a-beast shape was not taken.
+
+> Yes to: The hunt as procedure (The fight is won at the shaft head: reading the draw, choosing the entry's counter, laying out the kit. The kill is short and the work is the scene); Phases at the tie (A beast's fight turns (a boss phase: the monster changing form mid-fight) only at a lever canon gives it: its tie cut, its Wellspring's failure induced. The rung drops on the page; an untraceable phase fails R13-8). Not taken: A duel with a beast.
+
+### R71-59-PRACTITIONERS_AS_ARTILLERY [Combat Law 2026-10-04 FT9]
+
+Show a high-Stage practitioner in battle as a battery: an ordinary commander directs him like a gun and a Measurewright spotter in the line reads the effect on her gauge, with R3-9 kept whole and each section POV-locked across marked breaks.
+
+> Battery with a spotter. An ordinary commander directs the practitioner like a gun; a Measurewright spotter in the line reads the effect on her gauge. R3-9 stays whole, and each section stays POV-locked across marked breaks.
+
+### R71-61-SIEGE_WITH_PRACTITIONERS_IT [Combat Law 2026-10-04 FT11]
+
+In a siege, a ward failing joins the sortie, the mine and the storm as a Close Register break: sudden, seen from a POV on the wall, and over fast, with the Line Register resuming after.
+
+> Ward breach as a break. Amends R3-8: a ward failing joins sortie, mine and storm as a Close Register break, sudden, from a POV on the wall, and over fast; the Line Register resumes after.
+
+### R71-62-CHASES_PURSUITS [Combat Law 2026-10-04 FT12]
+
+Decide a chase by the reserve race (every burst of speed spent, both bodies paying, whoever runs dry first losing, the running total kept in the notes) and by the quarry's route read against the pursuer's (ground chosen beforehand, a cut street, a standpipe yard, a rail cutting), the map deciding while the reserve still runs; the crowd-and-law shape was not taken.
+
+> Yes to: The reserve race (The chase is the reserve clock: every burst of speed is spent, both bodies pay, and whoever runs dry first loses. The running total stays in the notes (R70-88)); The quarry's route (The chase is the quarry's route read against the pursuer's: ground chosen beforehand, a cut street, a standpipe yard, a rail cutting. The reserve still runs, but the map decides). Not taken: The crowd and the law.
+
+### R71-66-FIGHT_THAT_MOSTLY_READ [Combat Law 2026-10-04 FT16]
+
+When a fight is a long read and one cut, the read pays the floor's first four items (measure, tempo, read, fault) before the cut, the body pays the last four (the hit, the injury, the Essence, what he cannot do) after it, and the cut itself is one line between.
+
+> Read before, body after. The read pays the first four items (measure, tempo, read, fault) before the cut; the body pays the last four (the hit, the injury, the Essence, what he cannot do) after it. The cut is one line between.
+
+### R71-68-TWO_GRAMMARS_MEET [Combat Law 2026-10-04 FT18]
+
+When fighters of two grammars duel, both shapes run at once, the POV's grammar on the surface and the opponent's underneath in the cost, and the fight turns at the moment one overruns the other.
+
+> The clash is the shape. Both shapes run at once: the POV's grammar on the surface, the opponent's underneath in the cost, and the fight turns at the moment one overruns the other.
+
+### R71-70-BENCH_WORK_PAGE [Combat Law 2026-10-04 AL1]
+
+When a scene makes its main brew, set the house's numbered form apart first (R70-75 carried to the bench), then perform it with something departing from the form, while minor bench work keeps the single stretch of process of R70-46's floor.
+
+> Guild form, then performed. The scene's main brew appears first as the house's numbered form, set apart (R70-75 extended to the bench), then is performed, and something departs from it. Minor bench work keeps A's single stretch.
+
+### R71-81-FORENSIC_READING_PAGE [Combat Law 2026-10-04 AL12]
+
+Play a residue reading's protocol as action (the pair, the stands and the withdrawal), with figures read aloud in a mouth at every stand outside R70-86's cap, and make the contradiction between the instruments the scene's turn.
+
+> Protocol as action. The pair, the stands and the withdrawal play as action, and figures enter in a mouth, read aloud at every stand, outside R70-86's cap. The contradiction between the instruments is the scene's turn.
+
+### R71-82-CORRUPTION_SHOWN_BODY [Combat Law 2026-10-04 AL13]
+
+Show a corrupt alchemist's signs as standing tells in his body (planted before any reveal), in his bench work and in his technique, at most one sign a scene across the three, and write the Shear Break as its own event, the fall shown whole in body and work.
+
+> Yes to: Signs in the body (The Heresiology's bodily signs become standing tells, planted before any reveal, so a reader can catch a corrupt master before the plot names him. One sign a scene at most, across A to C); Signs in the work (The bench betrays him first: vessels crack under his hands alone, inscriptions darken on their own, residue gathers in shapes. The workshop shows the corruption before the man does); Signs in technique (A corrupted practitioner's workings run their corrupted versions (the Open Crucible's model, where Honest Fire strips structure it finds inconvenient), so the tell lives in how he works and fights); The break as an event (When the vow finally fails, the Shear Break is written as its own event, the fall shown whole in the body and the work, so the slow signs pay off on the page).
+
+### R71-94-STALE_POUCH [Combat Law 2026-10-04 WT5]
+
+A stale enhanced round may fail in a fight only if the page showed its date earlier (the stamp on the pouch, a Harmonist's word, a re-read put off), and the failure is then the fight's fair surprise.
+
+> Fails on a planted tell. A stale round may fail mid-fight only if the page showed its date earlier: the stamp on the pouch, a Harmonist's word, a re-read put off. The failure is then the fight's fair surprise.
+
+### R71-99-BILL_AFTER_FIGHT [Combat Law 2026-10-04 WT10]
+
+After a fight each cost arrives in the aftermath as a person or a paper (the fee named from the price table or exactly in kind, the debt spoken, the witnesses counted), while the formal Ledger stays in the notes.
+
+> The bill in the world. Each cost arrives as a person or a paper in the aftermath: the fee named from the price table or exactly in kind, the debt spoken, the witnesses counted. The formal Ledger stays in the notes.
+
+### R71-101-LAW_TURNS [Combat Law 2026-10-04 WT12]
+
+When a fight ends in a death, law moves only on a witness or a reading inside the residue clocks (an unread killing sits on the Ledger as a risk), every practitioner's killing opens a jurisdiction contest between crown, company and guild as a Front, and a killer who does not declare before witnesses by the next dawn is a murderer in every culture that keeps witnesses, the declaration being its own short scene.
+
+> Yes to: Proof decides (Law moves only on a witness or a reading inside the residue clocks (R61-7); R60-11's trace proof reaches blade killings too. An unread killing sits on the Ledger as a risk); Courts fight over it (Every practitioner's killing opens a jurisdiction contest between crown, company and guild (R60-19) as a Front, and the killer's fate turns on which layer wins it); Declare it, or murder (A killer who does not declare before witnesses by the next dawn is a murderer in every culture that keeps witnesses, Kharven and Korvaeth first. The declaration is its own short scene). Not taken: Standing buys terms.
 
 ### R49-25-OPENINGS [Prose Law 2026-09-26 Openings, endings, shape]
 
@@ -12830,7 +14636,7 @@ The POV's culture decides which explicit-scene techniques the narration uses (a 
 
 > Keyed to the POV. The POV's culture decides: a Moto POV writes with image and the held detail, a Kharven POV blunt, whoever the lover is; the lover's culture shows in what they do and say.
 
-## session-protocol (38)
+## session-protocol (49)
 
 ### R20C-5-BRIEF_BURI_SECTION_MUST_GO [Pack Twenty R20C-5]
 
@@ -12921,6 +14727,72 @@ Convert Volume I, Volume II, the Papers, Volume III and then the Necrocursica, o
 Publish each converted text as a Notion page in-session for the sync to mirror, and save a new docx next to Isaac's originals, which are never overwritten.
 
 > Notion pages plus fresh docx files beside the originals. Pages are published in-session and mirrored by the sync; new docx files, such as 'The Alftian Codex (Mu-jin edition)', are saved next to his originals, which stay untouched.
+
+### R71-20-FIGHTS_END [Combat Law 2026-10-04 CW11]
+
+Let a fight end by a yield that binds under the culture's custom with its terms on the Ledger, by flight, its pursuit decided on Dexterity (Celerity), the reserve and the ground, leaving a witness and a debt, or by a formal duel code's stated stop that binds both men, and give every killing its culture's legal aftermath on the page as a Front or a Ledger line.
+
+> Yes to: Yield on terms (Surrender is legal and binds by the culture's custom (a Kharven word before witnesses, an Accord form under seal); the terms go on the Ledger as R70-104's debt); Flight, adjudicated (Breaking off and running is always a choice; pursuit is decided on Dexterity (Celerity), the reserve and the ground (FT12 shapes the chase), and a fled fight leaves a witness and a debt); A code ends it (Formal duels run under the culture's code, with seconds and a stated end (first blood, a disarm, a yield); the code's stop binds both men, and breaking it is a Ledger debt); The killing's own law (Every killing carries its culture's legal aftermath (a declaration, a blood-price or labour-debt, outlawry) on the page, opened as a Front or a Ledger line).
+
+### R71-25-WOUNDS_CARRIED_INTO_NEXT [Combat Law 2026-10-04 CW16]
+
+When a fighter brings a Ledger wound into a new fight, move no Grade and let the wound's structure decide what the body can do, checked by the gap-fill body audit and named in the notes.
+
+> The anatomy, not the stat. No Grade moves. The wound's structure decides what the body can do (a stitched forearm cannot hold a hard bind, a cracked rib cannot take a deep breath), checked by the gap-fill body audit and named in the notes.
+
+### R71-34-OVERCHANNEL_PAGE [Combat Law 2026-10-04 MC8]
+
+When a practitioner Overchannels, show the crack in the exchange through the Crystal's inner map and a body symptom, leave its size to a surgeon or an instrument afterward, and enter it on the Ledger only once measured.
+
+> Felt now, measured after. The crack is felt in the exchange, inner map and body symptom; its size comes later from a surgeon or an instrument, and the Ledger enters it when measured.
+
+### R71-47-SHOWING_SCALE [Combat Law 2026-10-04 MC21]
+
+When top-ladder practitioners fight in a city, carry the scale by one marked dip into a commoner's head in the street before the lock resumes, by walking the ruined ground afterward, and by entering lives and property on the Ledger as claims settled in a later scene at the Accord's schedule.
+
+> Yes to: One street beat (At a marked break, one commoner in the street gets a short dip inside her head, then the lock resumes. Scale seen from the ditch, by R70-11's device); The aftermath walk (The scale is shown after, walking the ground (R57-24). The fight stays tight; the ruin tells the size); The claims come in (Lives and property go on the Ledger as claims, settled in a later scene at the Accord's schedule, as R54-15 lets a later scene pay an aftermath. WT10 asks the fighter's own bill). Not taken: A report sizes it.
+
+### R71-55-DUELS_FIRST_BLOOD [Combat Law 2026-10-04 FT5]
+
+A duel to first blood stops at the first wound, but that wound is tracked like any other: where the point lands decides whether it is a nick or a death, and the Ledger keeps what follows.
+
+> Terms hold, the body doesn't. The duel stops at first blood, but the wound is tracked like any other: where the point lands decides whether it is a nick or a death, and the Ledger keeps what follows.
+
+### R71-67-CLEAR_WARNING_BEFORE_LOSS [Combat Law 2026-10-04 FT17]
+
+Before any exchange may kill a losing POV, at least one plain sign the fight is lost (a gap read, a wound, a second's shout, a readout) lands an exchange or more earlier and a way out (ground, a door, a yield, a price) is shown; a death means the exit was missed or refused, the notes cite both sign and exit, and ambushes follow R48-30.
+
+> A sign and an exit. As B, plus a way out shown before the killing exchange (ground, a door, a yield, a price). A death means the exit was missed or refused, and the notes cite both sign and exit. (Option B there reads: One plain sign first. At least one plain sign the fight is lost (a gap read, a wound, a second's shout, a readout) lands an exchange or more before the killing one, and the notes cite it. Ambushes follow R48-30.)
+
+### R71-97-CONTRACT_FIGHTS [Combat Law 2026-10-04 WT8]
+
+A Guild or Crown contract fight sets its posting on the page at the hook in the Guild's house style (terms, pay, register, penalty), carries at least one clause limiting how it may be won with a penalty, and closes at the clerk's counter with the proof asked, the clerk's dispute and the pay from the price table, a failed proof becoming a Ledger debt.
+
+> Yes to: The posting as document (The posting is set on the page at the hook in the Guild's house style (terms, pay, register, penalty), a document voice that plants the rules before the fight (R70-71)); A clause binds the fight (Every contract carries at least one clause limiting how it may be won (alive, intact, unwitnessed, before the thaw), with a penalty. The cheapest counter often breaks the clause); Proof at the counter (The job closes at the clerk's counter: the proof the contract asks for, the clerk's dispute, the pay named from the price table. A failed proof is a Ledger debt).
+
+### R71-99-BILL_AFTER_FIGHT [Combat Law 2026-10-04 WT10]
+
+After a fight each cost arrives in the aftermath as a person or a paper (the fee named from the price table or exactly in kind, the debt spoken, the witnesses counted), while the formal Ledger stays in the notes.
+
+> The bill in the world. Each cost arrives as a person or a paper in the aftermath: the fee named from the price table or exactly in kind, the debt spoken, the witnesses counted. The formal Ledger stays in the notes.
+
+### R71-100-ROLL_AFTER_PUBLIC_FIGHT [Combat Law 2026-10-04 WT11]
+
+A fight fought before witnesses is entered on the Reckoner's roll (who, where, by what, the outcome, read aloud as written) as a public record that can be read back and contested at the next quarrel, and a notable win may earn a Guild commendation struck on the token, with legal weight and no stat effect.
+
+> Entered, may earn a mark. B, and a notable win may earn a Guild commendation struck on the token (R70-96): the genre's achievement in WOTR's institutions, with legal weight and no stat effect. (Option B there reads: Entered as a record. A fight before witnesses is entered: who, where, by what, the outcome, read aloud as written. A public record that can be read back and contested at the next quarrel.)
+
+### R71-101-LAW_TURNS [Combat Law 2026-10-04 WT12]
+
+When a fight ends in a death, law moves only on a witness or a reading inside the residue clocks (an unread killing sits on the Ledger as a risk), every practitioner's killing opens a jurisdiction contest between crown, company and guild as a Front, and a killer who does not declare before witnesses by the next dawn is a murderer in every culture that keeps witnesses, the declaration being its own short scene.
+
+> Yes to: Proof decides (Law moves only on a witness or a reading inside the residue clocks (R61-7); R60-11's trace proof reaches blade killings too. An unread killing sits on the Ledger as a risk); Courts fight over it (Every practitioner's killing opens a jurisdiction contest between crown, company and guild (R60-19) as a Front, and the killer's fate turns on which layer wins it); Declare it, or murder (A killer who does not declare before witnesses by the next dawn is a murderer in every culture that keeps witnesses, Kharven and Korvaeth first. The declaration is its own short scene). Not taken: Standing buys terms.
+
+### R71-105-PROOF_ORDER_WORK [Combat Law 2026-10-04 ME4]
+
+The combat work runs in order: log the law and build the new checks, run the test fight against them, amend, and only then write the guide editions and the sample bank, once, against proved law.
+
+> Law and checks, then test. Log the law and build the new checks; run the test fight against them; amend; then the guide editions and the bank, written once against proved law.
 
 ### R58-07-WREN_GRIEF_FRONT [Follow-up Rulings 2026-09-26 Follow-up answers]
 
@@ -13060,7 +14932,7 @@ When the partner thinks a beat is drifting or a rule reads wrong, it says so in 
 
 > When the partner thinks a beat is drifting or a rule reads wrong, it says so in one plain line and keeps writing unless stopped.
 
-## standing-inventory (75)
+## standing-inventory (85)
 
 ### R20C-47-CRAFTS_OWE_THE_INVENTORY [Pack Twenty R20C-47]
 
@@ -13145,6 +15017,66 @@ A loaded word gets one physical response on first use and no comment; meaning ar
 Weight-bred drakes are a hunters' folk belief; Penn's father Ralf died hunting one.
 
 > Weight-bred is a drake-hunters' folk belief: a drake hatched the year the Weight returns to its station is the worst of its kind. Penn Ralfsohn's father Ralf hunted drakes under a guild licence and did not come back from one.
+
+### R71-14-IMPACT_MOMENTUM [Combat Law 2026-10-04 CW5]
+
+At display and finisher, say where a big hit's momentum went (what anchored the striker, whether the target was thrown or broken, what the ground took), have the physics audit check it, and move stock images to a bank per culture.
+
+> Momentum accounted for. At display and finisher the page says where the momentum went: what anchored the striker, whether the target was thrown or broken, what the ground took. The physics audit checks it; stock images move to a bank per culture.
+
+### R71-18-FIGHT_SOUNDS_LIKE [Combat Law 2026-10-04 CW9]
+
+In fights, carry each impact's sound with the POV culture's own sound words, entered in its Inventory first, keep comparisons for the held instant, and give each culture's bank a few fight words.
+
+> The native word at impact. In fights the POV culture's own sound words (R70-22) carry the impacts, entered in its Inventory first; comparisons are kept for the held instant. Each culture's bank gains a few fight words.
+
+### R71-33-DRAIN_SHOWS [Combat Law 2026-10-04 MC7]
+
+Between readout lines, show a falling reserve through a bank of body signs keyed by culture to the Ledger's thresholds, through waste heat that grows as eta falls, and through the opponent's read and his choice to make the spender spend.
+
+> Yes to: The body, by threshold (A bank of body signs keyed to the Ledger's lines, committed spending and Starvation: cold hands, tin on the teeth, the slow grip. Logged by culture, so the nosebleed stops carrying everything); The waste grows (As η (eta, efficiency) falls, the same work sheds more heat, so the room shows the drain: the thawed ring widens, the air shakes harder. Canon's own law, written as a rule of the page); The opponent reads it (The drain is shown through the other fighter's read and his choice to make the spender spend. The Counterplay doctrine, on the page). Not taken: By Family.
+
+### R71-53-BRAWLS_FOLK_SCHOOLS [Combat Law 2026-10-04 FT3]
+
+Treat each culture's folk wrestling and fist-fighting as a school: its Standing Inventory's Words entry gains those words (entered and logged), a POV raised in them names his moves in them, and verify gains a word list per culture.
+
+> Folk schools, by culture. Each Standing Inventory's Words entry gains its wrestling and fist words, entered and logged; a POV raised in them names moves in them, and verify gains a list per culture.
+
+### R71-71-HEAT_DRAW_AGE_BENCH [Combat Law 2026-10-04 AL2]
+
+Heat an alchemist's bench by money: houses on trade supply heat from the main and pay the meter, poor houses burn charcoal and dung, the north burns charcoal, and the Bed stays in every house, so a bench's fire names its owner's class.
+
+> Fuel by purse. Heat follows money: houses on trade supply heat from the main and pay the meter, poor houses burn charcoal and dung (R53-02), the north burns charcoal, and a bench's fire names its owner's class. The Bed stays everywhere.
+
+### R71-77-POISON_DUEL [Combat Law 2026-10-04 AL8]
+
+Give each Standing Inventory a line on coated weapons and poison taken from the culture's real analogue, with the Accord's munitions class as the first entry, so an Accord duel and a Moto duel may differ.
+
+> By culture, on the Inventory. Each Standing Inventory gains a line on coated weapons and poison, taken from the culture's real analogue; the Accord's munitions class is the first entry. An Accord duel and a Moto duel may differ.
+
+### R71-79-MEDICINE_PLACE_PURSE [Combat Law 2026-10-04 AL10]
+
+Treat wounds by place and purse: the surgeon uses Drafts beside carbolic and chloroform for those who pay, the Legion gets Bone-Grey by issue, the north and the poor get the barber and Cutwater, and every wound scene names which.
+
+> Both, by place and purse. The surgeon uses Drafts beside carbolic and chloroform for those who pay; the Legion gets Bone-Grey by issue; the north and the poor get the barber and Cutwater. Every wound scene names which.
+
+### R71-80-PROVING_POISON [Combat Law 2026-10-04 AL11]
+
+Bring the mirror test, the copper test and the iron antidote into WOTR where R59-05's gradient puts them, so Guild cities have them and the north does not, while the coil still reads worked poisons.
+
+> Real tests, by place. The mirror test, the copper test and the iron antidote come into WOTR where R59-05's gradient puts them: Guild cities have them, the north does not. The coil still reads worked poisons.
+
+### R71-84-TRADE_PAPER_SCENE [Combat Law 2026-10-04 AL15]
+
+Have a fighter or worker count what a Draft cost when he spends it, in his own money, have anyone handling a lawful vessel check its maker's registered mark as a soldier reads a proof-dent, and let a scene turn on a forged, adulterated, stale or unentered lot, a forgery always findable by mark, assay or the Index's own failure.
+
+> Yes to: Price counted at use (Beyond R70-48's price at purchase, a fighter or worker counts what a Draft cost when he spends it, in his own money, the sum taken from the table or the Index. Money before magic, in the hand); The mark checked (Every lawful vessel carries its maker's registered mark, and anyone handling one looks at it the way a soldier reads a proof-dent (R11-3). The mark becomes standing texture and a trail); Provenance as plot (Lots can be forged, adulterated, stale or unentered, and a scene may turn on a bad lot; the forgery is always findable by mark, assay or the Index's own failure. A fair counter and a plot engine).
+
+### R71-101-LAW_TURNS [Combat Law 2026-10-04 WT12]
+
+When a fight ends in a death, law moves only on a witness or a reading inside the residue clocks (an unread killing sits on the Ledger as a risk), every practitioner's killing opens a jurisdiction contest between crown, company and guild as a Front, and a killer who does not declare before witnesses by the next dawn is a murderer in every culture that keeps witnesses, the declaration being its own short scene.
+
+> Yes to: Proof decides (Law moves only on a witness or a reading inside the residue clocks (R61-7); R60-11's trace proof reaches blade killings too. An unread killing sits on the Ledger as a risk); Courts fight over it (Every practitioner's killing opens a jurisdiction contest between crown, company and guild (R60-19) as a Front, and the killer's fate turns on which layer wins it); Declare it, or murder (A killer who does not declare before witnesses by the next dawn is a murderer in every culture that keeps witnesses, Kharven and Korvaeth first. The declaration is its own short scene). Not taken: Standing buys terms.
 
 ### R60-07-COMMERCE_ON_THE_PAGE [Combat, Society and Politics Law 2026-09-26 Combat, society and politics]
 
@@ -13512,7 +15444,7 @@ No decade-by-decade technology page: the partner judges what is era-appropriate 
 
 > No decade-by-decade technology page: the partner judges what is era-appropriate in the Imperial Age scene by scene.
 
-## stats (152)
+## stats (177)
 
 ### R20C-30-STAGE_NAMES_FROM_FOW [Pack Twenty R20C-30]
 
@@ -13897,6 +15829,156 @@ A Path gate binds only the component it names: where a working relies on a Sub-S
 C-089: A Path gate caps only the component it names; the rest of the Sub-Stat runs at full. A healer without Body Path heals fully but cannot reinforce. This supersedes R38-1-COMPONENT_GATES_BIND_WHOLE_SUBSTAT.
 
 > C-089: A Path gate caps only the component it names; the rest of the Sub-Stat runs at full. A healer without Body Path heals fully but cannot reinforce. This supersedes R38-1-COMPONENT_GATES_BIND_WHOLE_SUBSTAT.
+
+### R71-6-PLAYER_FIGHTER_PAGE [Combat Law 2026-10-04 K9]
+
+For a fighter who belongs to a player, Natalie writes the resolved hit, the wound by structure, its ATLS class and what the hand can no longer do as world facts, places the tell but never draws the deduction, shows him from an NPC's POV only as that NPC registers him, and shows his working's cost only where others could see it, keeping the spend in the Stat Ledger.
+
+> Yes to: Wounds as world facts (Once your stated move resolves, the hit, the wound by structure, its ATLS class (the trauma surgeons' blood-loss scale) and what the hand can no longer do are written as world facts; how he bears it stays yours); The tell placed, the read his (Natalie puts the evidence in the room (the heel, the smell, the needle) and never draws the conclusion; the deduction, floor item 3, is your post, as CW14's D already leaves the reading to you); Felt from across the room (From an NPC's POV a player's fighter is only what that NPC's eyes, body and room register, the Geturo model; his reasons and his Crystal stay dark. It covers guest players at the Discord table too); Outward cost only (Natalie shows what his working costs where others could see it (heat off the skin, thaw at his boots, R48-37) and keeps the spend in the Stat Ledger (the running figures in the notes); the inside is yours).
+
+### R71-7-READER_SEES_CALL [Combat Law 2026-10-04 K6]
+
+Show the fact that decides an exchange before it lands, in the POV's read or a second's mouth, as behaviour or a Grade estimate a sharp reader could call, and still name the deciding row in the notes.
+
+> Deciding fact in the read. The fact that decides an exchange shows beforehand in the POV's read or a second's mouth, as behaviour or a Grade estimate, so a sharp reader can call it. The notes still name the row.
+
+### R71-9-LITRPG_COMBAT_MODELS [Combat Law 2026-10-04 K8]
+
+Name Mother of Learning (the prepared fight), Dungeon Crawler Carl (the room as the counter), The Primal Hunter (the bench wins the fight) and Delve (drain-rate tension) as the Combat Craft Guide's LitRPG fight models beside Unbound and The Beginning After the End, without the time loop or the time-stopping sense.
+
+> Yes to: nobody103, Mother of Learning (The prepared fight: scout, learn the enemy's tools, then a short, legible final attempt the reader can check. Its time loop stays out, since death is permanent; R70-71 and R12-3's study counter are its home); Dinniman, Dungeon Crawler Carl (The room as the counter: a gas, a drop, a cut main beats the boss; bosses that change their rule mid-fight; grief arriving cold after the jokes. Comic beats stay with carded comic voices (R70-113)); Zogarth, The Primal Hunter (The bench wins the fight: poisons and coated shot prepared days before, the dose counted toward its effect, the dying long. Its time-stopping sense would need a ruled mechanism and stays out); SenescentSoul, Delve (Drain-rate tension: the reserve clock worked out so the reader knows when a fighter will cross into Starvation (below a tenth of his reserve). The figures stay between exchanges and in the notes, under R70-88's no running figures).
+
+### R71-13-SUPERHUMAN_SPEED [Combat Law 2026-10-04 CW4]
+
+Render a practitioner's speed by its physics arriving first (the pressure front, the crack after, the wound that opens once he has passed), by stretched time for a POV whose Reflex Grade outruns the threat, and by the gap in the frame with nothing drawn between two poses, each held to FOW's rows for the Grade on the card.
+
+> Yes to: The effect arrives first (Speed shown through its physics: the pressure front, the crack after, the wound that opens once the swordsman has passed. Held to FOW's speed rows for the Grade on the card); Felt time, by Reflex (A POV whose Reflex Grade outruns the threat gets stretched time on the page, held to FOW's Reaction Speed row for that Grade; a slower POV gets only the gap. Sits beside R70-57's one held instant); The gap in the frame (The body is simply elsewhere, nothing drawn between two poses; any after-image is disturbed snow, dust or frost, never a glowing double (R9-3 keeps 'it glowed' banned)). Not taken: The witness who misses it.
+
+### R71-15-FIGHTING_THROUGH_WOUND [Combat Law 2026-10-04 CW6]
+
+A practitioner may hold a broken structure shut with a working for as long as his Tempering allows, at a reserve cost every turn and ending at Starvation, after which the wound is worse, once the working's mechanism has been ruled.
+
+> An Essence splint, priced. A practitioner may hold a broken structure shut with a working: Tempering for how long, a reserve cost per turn, ending at Starvation; the wound is worse afterward. Needs a ruled mechanism before first use.
+
+### R71-19-GROUND_WEATHER_FIGHT [Combat Law 2026-10-04 CW10]
+
+Give the adjudication table an environment row in which footing, light, cold, wet and Aetheric Density bend named stats, named in the author notes, and open every planned duel with the fighters reading or choosing ground that then decides at least one exchange.
+
+> Yes to: An environment row (The adjudication table gains a row: footing, light, cold, wet and Aetheric Density bend named stats, and the author notes say which. Weather stops being texture only); Ground chosen before contact (Every planned duel opens with the fighters reading or choosing ground (Counterplay's 'Pick before contact'), and the ground decides at least one exchange). Not taken: New ground, by rotation, Texture only, as now.
+
+### R71-24-ROWS_COME_OUT_LEVEL [Combat Law 2026-10-04 CW15]
+
+When the stats that decide an exchange come out level, let the read decide first, then what each fighter has left to spend, then the ground, and have the notes name the step that broke the tie.
+
+> Rule 5's order, step by step. The read decides first, then what each has left to spend, then the ground; the notes name the step that broke the tie, as a Domain clash names its step. Every level exchange reconstructs.
+
+### R71-25-WOUNDS_CARRIED_INTO_NEXT [Combat Law 2026-10-04 CW16]
+
+When a fighter brings a Ledger wound into a new fight, move no Grade and let the wound's structure decide what the body can do, checked by the gap-fill body audit and named in the notes.
+
+> The anatomy, not the stat. No Grade moves. The wound's structure decides what the body can do (a stitched forearm cannot hold a hard bind, a cracked rib cannot take a deep breath), checked by the gap-fill body audit and named in the notes.
+
+### R71-28-DECIDES_CASTING_SPEED [Combat Law 2026-10-04 MC2]
+
+Decide every race between workings, or between a working and a blade, from a new Alacrity row today, and where a technique card's Readiness figure has been filled, let that figure govern instead.
+
+> Row now, cards override. The Alacrity row decides every race today; where you fill a card's Readiness, that figure governs. Nothing waits on figures, and precision grows as cards are filled.
+
+### R71-32-VOWS_LIMITS [Combat Law 2026-10-04 MC6]
+
+A practitioner may bind a technique with a vow that narrows it, raising its output through Attraction Force by a figure set on that card; breaking the vow is a Shear Break, and the vow's terms are its findable counter.
+
+> Narrowing buys output. A vow that narrows a technique raises its output through Attraction Force, by a figure you set on that card; breaking it is a Shear Break. The vow's terms are its findable counter.
+
+### R71-33-DRAIN_SHOWS [Combat Law 2026-10-04 MC7]
+
+Between readout lines, show a falling reserve through a bank of body signs keyed by culture to the Ledger's thresholds, through waste heat that grows as eta falls, and through the opponent's read and his choice to make the spender spend.
+
+> Yes to: The body, by threshold (A bank of body signs keyed to the Ledger's lines, committed spending and Starvation: cold hands, tin on the teeth, the slow grip. Logged by culture, so the nosebleed stops carrying everything); The waste grows (As η (eta, efficiency) falls, the same work sheds more heat, so the room shows the drain: the thawed ring widens, the air shakes harder. Canon's own law, written as a rule of the page); The opponent reads it (The drain is shown through the other fighter's read and his choice to make the spender spend. The Counterplay doctrine, on the page). Not taken: By Family.
+
+### R71-34-OVERCHANNEL_PAGE [Combat Law 2026-10-04 MC8]
+
+When a practitioner Overchannels, show the crack in the exchange through the Crystal's inner map and a body symptom, leave its size to a surgeon or an instrument afterward, and enter it on the Ledger only once measured.
+
+> Felt now, measured after. The crack is felt in the exchange, inner map and body symptom; its size comes later from a surgeon or an instrument, and the Ledger enters it when measured.
+
+### R71-35-SECOND_WIND [Combat Law 2026-10-04 MC9]
+
+Crisis Recovery, the Crystal's surge in a crisis, may land at the deciding exchange only when its trigger was planted earlier where a reader could catch it, its price goes on the Ledger, and it stays rare.
+
+> Decides, if planted. It may land at the deciding exchange only when its trigger was set up earlier on the page where a reader could catch it, and its price goes on the Ledger. Rare by rule.
+
+### R71-37-TRAITS_THEY_FIRE [Combat Law 2026-10-04 MC11]
+
+When a Trait a character already holds fires in a fight, narration names it the first time it fires in that scene and then shows it working.
+
+> Named at first fire. Narration names the Trait the first time it fires in a scene, then shows it working. The reader holds the name the way he holds a technique's.
+
+### R71-38-RESONANT_PAIR_UNDER_STRAIN [Combat Law 2026-10-04 MC12]
+
+Where a Sub-Stat sits at its Stage's cap, strain in a fight may lift it level with its partner so their Resonant Pair runs for the crisis and then lapses, with the author notes naming the strain.
+
+> For the crisis only. Where a Sub-Stat sits at its Stage's cap, strain may lift it level with its partner, and the Pair runs for the crisis, then goes. The notes name the strain.
+
+### R71-40-MECHANISM_AIMED_PRESSURE [Combat Law 2026-10-04 MC14]
+
+Killing intent works by Dominion drawing the Passive Pressure Field onto one man, so what he takes the room loses and the room eases as he suffers, with the trade's figures set from Dominion.
+
+> The field narrowed. Dominion draws the Passive Pressure Field onto one man; what he takes, the room loses, so the room eases as he suffers. The trade's figures come from Dominion, set by you.
+
+### R71-41-PRESSURE_UNWOKEN [Combat Law 2026-10-04 MC15]
+
+Pressure between practitioners keeps the Stage-gap ladder, while a person with no Stage takes Fracture of Worlds Part Eleven's Aura table by Grade (dread from F to D, weight in the room from C, knees bending from A), with no new figures.
+
+> The Aura table, by Grade. Practitioner against practitioner keeps the Stage ladder; the unwoken take Part Eleven's Grade table: dread from F to D, weight in the room from C, knees bending from A. No new figures.
+
+### R71-42-TWO_PRESSURES_ONE_ROOM [Combat Law 2026-10-04 MC16]
+
+When two practitioners of the same Stage bring their Pressure into one room, the Pressures contest it by Dominion before steel: the room shows the border moving, bystanders take both, and the loser begins the fight already paying.
+
+> A contest for the room. Meeting Pressures fight for the room by Dominion before steel; the room shows the border moving, bystanders take both, and the loser begins the fight already paying. §7 gains the row.
+
+### R71-44-FACULTY_READ_MAN [Combat Law 2026-10-04 MC18]
+
+A practitioner's faculty prints an opponent's exact figures when his Gnosis Perception outranks the target's Resilience Ward by Grade, and only a hedged range when it does not, Ward being the counter.
+
+> Exact unless warded. A faculty prints exact figures where the reader's Gnosis Perception outranks the target's Resilience Ward by Grade, and a hedged range where it does not. §7 gains the row; Ward is the counter.
+
+### R71-57-APPRAISING_BEAST [Combat Law 2026-10-04 FT7]
+
+When a coil or a trained eye appraises a beast, the tape prints its rung and its Commission tier together, a voice names the gap wherever the two disagree, and the appraisal counts as one of the scene's three readouts.
+
+> Both, and the gap. The tape prints rung and Commission tier together, and where they disagree a voice names the gap, because canon puts the hunter's answer there. It counts as one of the scene's three readouts (R70-86).
+
+### R71-58-ONE_SHOT_PRACTITIONER [Combat Law 2026-10-04 FT8]
+
+Trace each shot at a practitioner like an exchange: the range, the ball's speed (R45-1's reference figure) against the Speed Grade the POV reads, the result, and its cause stated under R53-05, with rounds left counted as CW17 rules.
+
+> Each shot traced. A shot is traced like an exchange: range, the ball's speed (R45-1's reference figure) against the Speed Grade the POV reads, the result, the cause stated under R53-05. Rounds left are counted as CW17 rules.
+
+### R71-62-CHASES_PURSUITS [Combat Law 2026-10-04 FT12]
+
+Decide a chase by the reserve race (every burst of speed spent, both bodies paying, whoever runs dry first losing, the running total kept in the notes) and by the quarry's route read against the pursuer's (ground chosen beforehand, a cut street, a standpipe yard, a rail cutting), the map deciding while the reserve still runs; the crowd-and-law shape was not taken.
+
+> Yes to: The reserve race (The chase is the reserve clock: every burst of speed is spent, both bodies pay, and whoever runs dry first loses. The running total stays in the notes (R70-88)); The quarry's route (The chase is the quarry's route read against the pursuer's: ground chosen beforehand, a cut street, a standpipe yard, a rail cutting. The reserve still runs, but the map decides). Not taken: The crowd and the law.
+
+### R71-78-DRAFT_READOUT [Combat Law 2026-10-04 AL9]
+
+Give a Draft R70-95's card once, at purchase or appraisal, carrying the Draft's own marks (gate, rung, Class, Fidelity, Carry, maker, price, lore), and at use show only the body, plus a surgeon's inline wound line if a wound earns one.
+
+> Card once, body at use. R70-95's card carries the Draft's own marks (gate, rung, Class, Fidelity, Carry, maker, price, lore) once, at purchase or appraisal. At use only the body shows, plus a surgeon's inline wound line if a wound earns one.
+
+### R71-81-FORENSIC_READING_PAGE [Combat Law 2026-10-04 AL12]
+
+Play a residue reading's protocol as action (the pair, the stands and the withdrawal), with figures read aloud in a mouth at every stand outside R70-86's cap, and make the contradiction between the instruments the scene's turn.
+
+> Protocol as action. The pair, the stands and the withdrawal play as action, and figures enter in a mouth, read aloud at every stand, outside R70-86's cap. The contradiction between the instruments is the scene's turn.
+
+### R71-98-HEARS_RAIL [Combat Law 2026-10-04 WT9]
+
+At a sanctioned bout the Measurewright says her reading aloud as she takes it, so both fighters and the benches hear it, the readout reaches a fighter's own page, and a suppressed Stage is exposed in public with R70-112's bill.
+
+> Called aloud to all. She says the reading as she takes it: both fighters and the benches hear it, the readout reaches a fighter's own page, and a suppressed Stage is exposed in public, with R70-112's bill.
 
 ### R60-03-HARD_RESERVE_CLOCK [Combat, Society and Politics Law 2026-09-26 Combat, society and politics]
 
@@ -14429,7 +16511,7 @@ Stage V reads the Expert row's η of 0.60–0.70.
 
 > Splintering takes the 0.60-0.70 efficiency band; the whole Expert row reads 0.60-0.70.
 
-## verification (114)
+## verification (120)
 
 ### R20C-3-SWEEP_TWO_TIERS [Pack Twenty R20C-3]
 
@@ -14917,6 +16999,42 @@ C-078: Checks 34 and 35 (defined on the six-line card's Operation line) are reti
 
 > C-078: Checks 34 and 35 (defined on the six-line card's Operation line) are retired; the Counterplay block and the fair-play rules cover them.
 
+### R71-11-RUNNING_FAST [Combat Law 2026-10-04 CW2]
+
+Once per fight, in its swift stretch, one short paragraph of short, even sentences may break the run rule, and the author notes mark it.
+
+> A staccato run, once. Once per fight, in its swift stretch, one short paragraph of short, even sentences is exempt from the run rule, and the notes mark it. R4-14 is partly amended for fights.
+
+### R71-14-IMPACT_MOMENTUM [Combat Law 2026-10-04 CW5]
+
+At display and finisher, say where a big hit's momentum went (what anchored the striker, whether the target was thrown or broken, what the ground took), have the physics audit check it, and move stock images to a bank per culture.
+
+> Momentum accounted for. At display and finisher the page says where the momentum went: what anchored the striker, whether the target was thrown or broken, what the ground took. The physics audit checks it; stock images move to a bank per culture.
+
+### R71-53-BRAWLS_FOLK_SCHOOLS [Combat Law 2026-10-04 FT3]
+
+Treat each culture's folk wrestling and fist-fighting as a school: its Standing Inventory's Words entry gains those words (entered and logged), a POV raised in them names his moves in them, and verify gains a word list per culture.
+
+> Folk schools, by culture. Each Standing Inventory's Words entry gains its wrestling and fist words, entered and logged; a POV raised in them names moves in them, and verify gains a list per culture.
+
+### R71-89-ITEM_CARD_FIGHT [Combat Law 2026-10-04 WT1]
+
+When a weapon or round is first appraised while a fight runs, a trained eye names its Tier inline by name alone, the full item card waits for the counter or the aftermath, and no set-off block sits between exchanges (verify_scene warns on one).
+
+> Tier named, card after. Mid-fight a trained eye names the Tier inline, by name alone (R70-82). The full card waits for the counter or the aftermath. No set-off block between exchanges; verify_scene warns on one.
+
+### R71-103-COMBAT_CHECKS_VERIFY_SCENE [Combat Law 2026-10-04 ME2]
+
+verify_scene's combat check gains a hammer-and-haft Percussion list, boxing as its own school and firearms and Kharven lists; it WARNs past three readout lines a scene or two a turn, on two in one exchange and on a figure carried from one exchange to the next; and it WARNs past one a scene on the archive's tired fight devices (the default 'eleven', the knock-back furrow, the overdraw nosebleed, 'without deciding to', 'the particular X of Y').
+
+> Yes to: Truer school lists (Percussion gets a hammer-and-haft list, boxing becomes its own school, and firearms and Kharven lists are added, so a gunfight or a hall fight is checked in its own words); Readout and beat counts (WARN past three readout lines a scene or two a turn, on two in one exchange, and on a figure carried from one exchange to the next (R70-86, R70-88)); Stale-device watch (WARN past one a scene on the archive's tired fight devices: the default 'eleven', the knock-back furrow, the overdraw nosebleed, 'without deciding to' and 'the particular X of Y'). Not taken: Checks 24 to 26.
+
+### R71-105-PROOF_ORDER_WORK [Combat Law 2026-10-04 ME4]
+
+The combat work runs in order: log the law and build the new checks, run the test fight against them, amend, and only then write the guide editions and the sample bank, once, against proved law.
+
+> Law and checks, then test. Log the law and build the new checks; run the test fight against them; amend; then the guide editions and the bank, written once against proved law.
+
 ### R58-04-TITLES_EXEMPT_FROM_BAN_LIST [Follow-up Rulings 2026-09-26 Follow-up answers]
 
 Titles are exempt from the vocabulary ban list; the checker skips the title line ('Verinus: Testament of the Sixty-Fifth' stands).
@@ -15115,7 +17233,7 @@ When the partner thinks a beat is drifting or a rule reads wrong, it says so in 
 
 > When the partner thinks a beat is drifting or a rule reads wrong, it says so in one plain line and keeps writing unless stopped.
 
-## worldbuilding (313)
+## worldbuilding (334)
 
 ### R20C-1-BURI_DEAD_EVERYWHERE [Pack Twenty R20C-1]
 
@@ -15884,6 +18002,132 @@ The Imperial Age and its technology, rail included, begin in 690 IC; 715 IC is i
 The Voyager Era, the Long Reckoning and the Withering Era keep their names as the count's eras; the Withering Era is the present era and the Imperial Age rises inside it from 690 IC.
 
 > The count's three eras keep their names: the Voyager Era (000 to 070 IC), the Long Reckoning (070 to 645 IC) and the Withering Era (645 IC to now). The Withering Era runs on as the present era, and the Imperial Age rises inside it from 690 IC as an overlapping age.
+
+### R71-19-GROUND_WEATHER_FIGHT [Combat Law 2026-10-04 CW10]
+
+Give the adjudication table an environment row in which footing, light, cold, wet and Aetheric Density bend named stats, named in the author notes, and open every planned duel with the fighters reading or choosing ground that then decides at least one exchange.
+
+> Yes to: An environment row (The adjudication table gains a row: footing, light, cold, wet and Aetheric Density bend named stats, and the author notes say which. Weather stops being texture only); Ground chosen before contact (Every planned duel opens with the fighters reading or choosing ground (Counterplay's 'Pick before contact'), and the ground decides at least one exchange). Not taken: New ground, by rotation, Texture only, as now.
+
+### R71-20-FIGHTS_END [Combat Law 2026-10-04 CW11]
+
+Let a fight end by a yield that binds under the culture's custom with its terms on the Ledger, by flight, its pursuit decided on Dexterity (Celerity), the reserve and the ground, leaving a witness and a debt, or by a formal duel code's stated stop that binds both men, and give every killing its culture's legal aftermath on the page as a Front or a Ledger line.
+
+> Yes to: Yield on terms (Surrender is legal and binds by the culture's custom (a Kharven word before witnesses, an Accord form under seal); the terms go on the Ledger as R70-104's debt); Flight, adjudicated (Breaking off and running is always a choice; pursuit is decided on Dexterity (Celerity), the reserve and the ground (FT12 shapes the chase), and a fled fight leaves a witness and a debt); A code ends it (Formal duels run under the culture's code, with seconds and a stated end (first blood, a disarm, a yield); the code's stop binds both men, and breaking it is a Ledger debt); The killing's own law (Every killing carries its culture's legal aftermath (a declaration, a blood-price or labour-debt, outlawry) on the page, opened as a Front or a Ledger line).
+
+### R71-21-AFTERMATH_PAGE [Combat Law 2026-10-04 CW12]
+
+Write a fight's dressing as process: the period kit for the place, the healer's hands, the bleeding clock closing and what this place's medicine cannot do.
+
+> Procedure as craft. The dressing is written as process: the period kit for the place, the healer's hands, the bleeding clock closing, what this place's medicine cannot do. R70-46's craft-as-process reaches the infirmary.
+
+### R71-41-PRESSURE_UNWOKEN [Combat Law 2026-10-04 MC15]
+
+Pressure between practitioners keeps the Stage-gap ladder, while a person with no Stage takes Fracture of Worlds Part Eleven's Aura table by Grade (dread from F to D, weight in the room from C, knees bending from A), with no new figures.
+
+> The Aura table, by Grade. Practitioner against practitioner keeps the Stage ladder; the unwoken take Part Eleven's Grade table: dread from F to D, weight in the room from C, knees bending from A. No new figures.
+
+### R71-43-SUPPRESSION_PAGE [Combat Law 2026-10-04 MC17]
+
+A practitioner holding his Pressure in pays in named places of his body (jaw, collar, temper) at a cost that grows with the approach, leaks faintly into the room for a sharp eye or good Gnosis to catch, and leaves a sag on a gauge or coil.
+
+> Yes to: The cost in his body (Holding it in tires him in named places, jaw, collar, temper, and the cost grows with the approach. The Combat Guide gains a bank of signs by culture); Small leaks in the room (R70-69 at its faintest: the draw-hum dips and a dog lies down as he passes. A sharp-eyed reader, or a POV with good Gnosis, can catch a suppressed man); Instruments catch it (A gauge or coil reads what eyes miss; the Board's clerks and the Measurewrights can find a suppressed man by the sag he leaves on a needle).
+
+### R71-60-VOLLEY_SMOKE_DRILLED_LINE [Combat Law 2026-10-04 FT10]
+
+The Mass Combat Guide gains three gunpowder sections: drill and smoke (loading by numbered motions, smoke that blinds after the first volley, fire by platoons, squares against horse), the spread against a practitioner (men drilled to spread, make him choose and keep a line of fire open, beating him at a stated cost in men), and enhanced-shot companies (each round priced, made and findable, fired only at practitioners and only on a named order); field guns and the late gun were not taken.
+
+> Yes to: Drill and smoke (A section on loading by numbered motions, smoke that blinds after the first volley, fire by platoons down a line, and squares against horse; the ditch sees smoke and hears the count); Spread against a practitioner (A section on Counterplay's doctrine: men drilled to spread, make him choose and keep a line of fire open, so numbers correctly used beat a practitioner at a stated cost in men); Enhanced-shot companies (A section on elite guard and bounty companies with full pouches of enhanced shot (R53-04): each round priced, made and findable, fired only at practitioners and only on a named order). Not taken: Guns and the late gun.
+
+### R71-64-FIGHTING_MAIN [Combat Law 2026-10-04 FT14]
+
+Three Draw Age terrain beats become standing fight texture: a district may be cut from outside mid-fight (the hum dies, the room's density falls, every draw costs more, and the page names who ordered it); a working that splits a culvert or standpipe spikes the room's density (output up, reach down by FOW's square-root law, any figure printed as a marked estimate); and ground fought on stays short for hours (reach falls, gauges read the residue, a second fight there pays for the first, no figure printed without a source); rail and the tram slot were not taken.
+
+> Yes to: The cut mid-fight (A district can be cut from outside during a fight: the hum dies, the room's density falls, every draw costs more, and the page names who ordered it, even unseen); The burst main (A working that splits a culvert or standpipe spikes the room's density: output up, reach down, by FOW's square-root law. The page shows the effect; any figure prints as a marked estimate (R70-99)); Short ground after (Ground fought on stays short for hours: reach falls, gauges read the residue, and a second fight there pays for the first. FOW's law decides it, and no figure prints without a source). Not taken: Rail and the tram slot.
+
+### R71-65-RIVER_SEA_FIGHTS [Combat Law 2026-10-04 FT15]
+
+A river fight runs on rows of its own: the banks close the horizon and open a rout and an ambush, the current is the motion channel, sound carries far over cold water, and the cold drowns.
+
+> River law of its own. A river gets its own rows: banks close the horizon and open a rout and an ambush, the current is the motion channel, sound carries far over cold water, and the cold drowns.
+
+### R71-71-HEAT_DRAW_AGE_BENCH [Combat Law 2026-10-04 AL2]
+
+Heat an alchemist's bench by money: houses on trade supply heat from the main and pay the meter, poor houses burn charcoal and dung, the north burns charcoal, and the Bed stays in every house, so a bench's fire names its owner's class.
+
+> Fuel by purse. Heat follows money: houses on trade supply heat from the main and pay the meter, poor houses burn charcoal and dung (R53-02), the north burns charcoal, and a bench's fire names its owner's class. The Bed stays everywhere.
+
+### R71-75-CARRIES_IT_ONTO_FIELD [Combat Law 2026-10-04 AL6]
+
+Issue Drafts onto a field by their rank gate (low-gate lots to the line, Adept munitions to drilled details, Expert charges only to Expert hands), and let a company's purse decide how many certified hands it retains at the price table's retainers (forty gold a month and up for an Adept), so rich companies field far more alchemy.
+
+> Gates, bought by purse. As B, and a company's purse decides how many certified hands it retains, at the price table's retainers (forty gold a month and up for an Adept), so rich companies field far more alchemy. (Option B there reads: Issue by gate. Drafts reach a field by their rank gate: low-gate lots to the line, Adept munitions to drilled details, Expert charges only to Expert hands. The gate becomes the field's ration logic.)
+
+### R71-77-POISON_DUEL [Combat Law 2026-10-04 AL8]
+
+Give each Standing Inventory a line on coated weapons and poison taken from the culture's real analogue, with the Accord's munitions class as the first entry, so an Accord duel and a Moto duel may differ.
+
+> By culture, on the Inventory. Each Standing Inventory gains a line on coated weapons and poison, taken from the culture's real analogue; the Accord's munitions class is the first entry. An Accord duel and a Moto duel may differ.
+
+### R71-79-MEDICINE_PLACE_PURSE [Combat Law 2026-10-04 AL10]
+
+Treat wounds by place and purse: the surgeon uses Drafts beside carbolic and chloroform for those who pay, the Legion gets Bone-Grey by issue, the north and the poor get the barber and Cutwater, and every wound scene names which.
+
+> Both, by place and purse. The surgeon uses Drafts beside carbolic and chloroform for those who pay; the Legion gets Bone-Grey by issue; the north and the poor get the barber and Cutwater. Every wound scene names which.
+
+### R71-80-PROVING_POISON [Combat Law 2026-10-04 AL11]
+
+Bring the mirror test, the copper test and the iron antidote into WOTR where R59-05's gradient puts them, so Guild cities have them and the north does not, while the coil still reads worked poisons.
+
+> Real tests, by place. The mirror test, the copper test and the iron antidote come into WOTR where R59-05's gradient puts them: Guild cities have them, the north does not. The coil still reads worked poisons.
+
+### R71-83-ACCIDENTS_FUMES [Combat Law 2026-10-04 AL14]
+
+When a lute fails and Strongwater fume fills a closed room, the room doses men in order of nearness and they die hours later after walking out, while men kept lying still and watched through the night fare better, so a knowing hand's orders save some.
+
+> Late drowning, and rest. As B, plus a findable counter: men kept lying still and watched through the night fare better than men who walk home, as real toxicology keeps such patients at rest. A knowing hand's orders save some. (Option B there reads: The late drowning. The Real Alchemy's reading: the room doses in order of nearness and the dying comes hours later, after the men have walked out. A surgeon's wound line can name it (R70-85); the grief arrives by morning.)
+
+### R71-84-TRADE_PAPER_SCENE [Combat Law 2026-10-04 AL15]
+
+Have a fighter or worker count what a Draft cost when he spends it, in his own money, have anyone handling a lawful vessel check its maker's registered mark as a soldier reads a proof-dent, and let a scene turn on a forged, adulterated, stale or unentered lot, a forgery always findable by mark, assay or the Index's own failure.
+
+> Yes to: Price counted at use (Beyond R70-48's price at purchase, a fighter or worker counts what a Draft cost when he spends it, in his own money, the sum taken from the table or the Index. Money before magic, in the hand); The mark checked (Every lawful vessel carries its maker's registered mark, and anyone handling one looks at it the way a soldier reads a proof-dent (R11-3). The mark becomes standing texture and a trail); Provenance as plot (Lots can be forged, adulterated, stale or unentered, and a scene may turn on a bad lot; the forgery is always findable by mark, assay or the Index's own failure. A fair counter and a plot engine).
+
+### R71-88-EXPLOSIVES_BESIDE_INDEX [Combat Law 2026-10-04 AL19]
+
+The span's real explosives and incendiaries exist as plain chemistry with no Essence and no rank gate, licensed under ordinary powder law; the coil reads nothing in them, and a quarryman's stick of dynamite holds about what a Thundercrack does.
+
+> Plain chemistry, powder law. They exist as plain chemistry with no Essence and no rank gate, licensed under ordinary powder law. The coil reads nothing in them, and a quarryman's stick of dynamite holds about what a Thundercrack does.
+
+### R71-96-WELL_AS_GROUND [Combat Law 2026-10-04 WT7]
+
+Before contact in a Well fight a gauge or a practitioner's feel names the density rung (Ambient Saturation through Core) and every reach is written to it, and porters, lamp-men and timber crews are in the fight as people who can win it, with no Shell to fire and no reserve to drain, each given a want and a line.
+
+> Yes to: Reach written to rung (Before contact a gauge or a practitioner's feel names the density rung (Ambient Saturation through Core), and every reach in the fight is written to it. Adds reach beside §7's draw-cost row); The unawakened in it (Porters, lamp-men and timber crews are in every Well fight as people who can win it: no Shell (the layer a working fires through) to fire, no reserve to drain. Each gets a want and a line). Not taken: The register stays tidy.
+
+### R71-97-CONTRACT_FIGHTS [Combat Law 2026-10-04 WT8]
+
+A Guild or Crown contract fight sets its posting on the page at the hook in the Guild's house style (terms, pay, register, penalty), carries at least one clause limiting how it may be won with a penalty, and closes at the clerk's counter with the proof asked, the clerk's dispute and the pay from the price table, a failed proof becoming a Ledger debt.
+
+> Yes to: The posting as document (The posting is set on the page at the hook in the Guild's house style (terms, pay, register, penalty), a document voice that plants the rules before the fight (R70-71)); A clause binds the fight (Every contract carries at least one clause limiting how it may be won (alive, intact, unwitnessed, before the thaw), with a penalty. The cheapest counter often breaks the clause); Proof at the counter (The job closes at the clerk's counter: the proof the contract asks for, the clerk's dispute, the pay named from the price table. A failed proof is a Ledger debt).
+
+### R71-99-BILL_AFTER_FIGHT [Combat Law 2026-10-04 WT10]
+
+After a fight each cost arrives in the aftermath as a person or a paper (the fee named from the price table or exactly in kind, the debt spoken, the witnesses counted), while the formal Ledger stays in the notes.
+
+> The bill in the world. Each cost arrives as a person or a paper in the aftermath: the fee named from the price table or exactly in kind, the debt spoken, the witnesses counted. The formal Ledger stays in the notes.
+
+### R71-100-ROLL_AFTER_PUBLIC_FIGHT [Combat Law 2026-10-04 WT11]
+
+A fight fought before witnesses is entered on the Reckoner's roll (who, where, by what, the outcome, read aloud as written) as a public record that can be read back and contested at the next quarrel, and a notable win may earn a Guild commendation struck on the token, with legal weight and no stat effect.
+
+> Entered, may earn a mark. B, and a notable win may earn a Guild commendation struck on the token (R70-96): the genre's achievement in WOTR's institutions, with legal weight and no stat effect. (Option B there reads: Entered as a record. A fight before witnesses is entered: who, where, by what, the outcome, read aloud as written. A public record that can be read back and contested at the next quarrel.)
+
+### R71-101-LAW_TURNS [Combat Law 2026-10-04 WT12]
+
+When a fight ends in a death, law moves only on a witness or a reading inside the residue clocks (an unread killing sits on the Ledger as a risk), every practitioner's killing opens a jurisdiction contest between crown, company and guild as a Front, and a killer who does not declare before witnesses by the next dawn is a murderer in every culture that keeps witnesses, the declaration being its own short scene.
+
+> Yes to: Proof decides (Law moves only on a witness or a reading inside the residue clocks (R61-7); R60-11's trace proof reaches blade killings too. An unread killing sits on the Ledger as a risk); Courts fight over it (Every practitioner's killing opens a jurisdiction contest between crown, company and guild (R60-19) as a Front, and the killer's fate turns on which layer wins it); Declare it, or murder (A killer who does not declare before witnesses by the next dawn is a murderer in every culture that keeps witnesses, Kharven and Korvaeth first. The declaration is its own short scene). Not taken: Standing buys terms.
 
 ### R60-04-DEATH_IS_PERMANENT [Combat, Society and Politics Law 2026-09-26 Combat, society and politics]
 

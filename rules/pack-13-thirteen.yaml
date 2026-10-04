@@ -320,13 +320,33 @@ rules:
       Stands; under R70-100-MARTIAL_VOCABULARY_NAMES_MOVES (style law
       2026-10-03) the moves the floor traces are named in the POV's own
       school.
+      Partly amended by R71-4-FAR_FROM_FLOOR (combat law 2026-10-04): the
+      eight items stand, and each grammar pays them its own way (Verdict
+      states the read before and the mechanics after, on the body; Blade pass
+      by pass; Percussion and Expenditure carry the cost every exchange),
+      every item stated where it happens. Partly amended by
+      R71-6-PLAYER_FIGHTER_PAGE (combat law 2026-10-04): when the fighter is a
+      player's, Natalie writes the resolved hit, the wound by structure, its
+      ATLS class and what the hand can no longer do as world facts, places the
+      tell but leaves item 3's deduction to the player's post, and shows item
+      7 only where others could see it, the spend going to the Stat Ledger.
+      Partly amended by R71-10-COUNTING_BACK_SMALL_EXCHANGES (combat law
+      2026-10-04): the floor is owed by any exchange that lands, shifts
+      measure or reveals something, and exchanges that change nothing may be
+      counted back in one sentence, each named by its move. Partly amended by
+      R71-12-KEEPING_SPACE_TRACKABLE (combat law 2026-10-04) for item 1
+      (measure): a scramble (a crowd, the dark, a fall) may blur position
+      while it lasts, and every exchange that decides something re-fixes both
+      bodies before it lands. Partly amended by R71-86-REVENANT_FIGHT (combat
+      law 2026-10-04): against a revenant the floor applies by structure with
+      no blood-loss class. The floor stands for the living.
 
   - id: R13-4-DENSITY_BUDGET
     pack: Pack Thirteen
     pack_number: 13
     section: "§4"
     title: Combat floor density by scene length
-    status: live
+    status: superseded
     kind: budget
     summary: >-
       A 2,500-word duel carries the full eight-item floor at first display
@@ -352,6 +372,12 @@ rules:
       2026-10-03): a duel's shape now follows its combat grammar (Verdict
       still then one cut, Blade traced passes, Percussion and Expenditure by
       attrition).
+      Superseded by R71-4-FAR_FROM_FLOOR (combat law 2026-10-04):
+      'R13-4-DENSITY_BUDGET is rewritten for today's lengths'. The 2,500-word
+      duel and the 700 to 1,500 word turn give way to today's lengths: the
+      full floor at first display and finisher, items 1 to 4 at every exchange
+      that turns the fight, item 8 at a turn's close, every item stated where
+      it happens, and each grammar paying the floor its own way.
 
   - id: R13-4-THREE_EXPLANATIONS
     pack: Pack Thirteen
@@ -409,7 +435,14 @@ rules:
     source:
       file: WOTR_Companion_Guide_Amendments_Pack_Thirteen.md
       lines: "91"
-    notes: null
+    notes: >-
+      Partly amended by R71-14-IMPACT_MOMENTUM (combat law 2026-10-04): the
+      physics audit also checks, at display and finisher, where a big hit's
+      momentum went (what anchored the striker, whether the target was thrown
+      or broken, what the ground took). Partly amended by
+      R71-25-WOUNDS_CARRIED_INTO_NEXT (combat law 2026-10-04): the body audit
+      also checks what a Ledger wound carried in from an earlier fight lets
+      the body do, by its structure (no Grade moves), and the notes name it.
 
   - id: R13-6-WOTR_FIRST
     pack: Pack Thirteen
@@ -769,7 +802,11 @@ rules:
     source:
       file: WOTR_Companion_Guide_Amendments_Pack_Thirteen.md
       lines: "132"
-    notes: null
+    notes: >-
+      Extended by R71-7-READER_SEES_CALL (combat law 2026-10-04): the call is
+      reconstructible and also callable in advance; the fact that decides an
+      exchange shows beforehand, in the POV's read or a second's mouth, as
+      behaviour or a Grade estimate, and the notes still name the row.
 
   - id: R13-9-COMBAT_GUIDE_EDIT
     pack: Pack Thirteen
@@ -1036,6 +1073,12 @@ rules:
       lines: "152"
     notes: >-
       RULED 2026-09-12: The working stops shot against a worked cuirass, not the steel. Isaac chose against the pack's recommendation; the consequence the pack warned of (Eleven's armour economy inverting) is his to carry. R11-3-ARMOUR_STOPS_SHRINKING and R11-3-AMMO_TIERS should be read with this: proofed plate holds by its working, and a proofed round beats it by out-coupling that working.
+      Partly amended by R71-93-PROOFED_SHOT_AGAINST_PROOFED (combat law
+      2026-10-04), which keeps this ruling in words ('R13-C kept'): the
+      out-coupling by which a proofed round beats a worked cuirass counts as
+      one Tier on R46-3-ARMOUR_TIER_IS_ITS_PROOF's ladder.
+      R71-92-ARMOUR_KIND_AGAINST carries the same principle (the working
+      decides on worked armour) to every strike.
 
   - id: R13-D
     pack: Pack Thirteen

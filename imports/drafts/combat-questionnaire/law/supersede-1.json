@@ -1,0 +1,170 @@
+[
+ {
+  "old_id": "R70-3-STRAND_LEADS_LAYER",
+  "action": "note",
+  "by": "R71-1-WHERE_LINE_FALLS_FIGHT",
+  "r71_quote": "The exchange, the wound and the cost stay Western and clinical; the read, the stillness before the cut and a rule's reveal run Eastern, long and deductive",
+  "old_text": "Eastern voice leads. Eastern leads narration, interiority and structure; Western leads combat, injury and dialogue; LitRPG leads progression. The narrator itself changes most.",
+  "note_text": "Partly amended by R71-1-WHERE_LINE_FALLS_FIGHT (combat law 2026-10-04): inside a fight the exchange, the wound and the cost stay Western and clinical, while the read, the stillness before the cut and a rule's reveal run Eastern, long and deductive."
+ },
+ {
+  "old_id": "R13-4-DENSITY_BUDGET",
+  "action": "supersede",
+  "by": "R71-4-FAR_FROM_FLOOR",
+  "r71_quote": "R13-4-DENSITY_BUDGET is rewritten for today's lengths: full floor at first display and finisher, items 1 to 4 at every exchange that turns the fight, item 8 at a turn's close.",
+  "old_text": "Density. A duel of 2,500 words carries the full floor at first display and finisher, and items 1 to 4 at every exchange that changes the fight. A turn of 700 to 1,500 carries 1 to 4 once and 8 at close.",
+  "note_text": "Superseded by R71-4-FAR_FROM_FLOOR (combat law 2026-10-04): 'R13-4-DENSITY_BUDGET is rewritten for today's lengths'. The 2,500-word duel and the 700 to 1,500 word turn give way to today's lengths: the full floor at first display and finisher, items 1 to 4 at every exchange that turns the fight, item 8 at a turn's close, every item stated where it happens, and each grammar paying the floor its own way."
+ },
+ {
+  "old_id": "R70-102-STILLNESS_TRACED_PASSES_LONG",
+  "action": "note",
+  "by": "R71-4-FAR_FROM_FLOOR",
+  "r71_quote": "each grammar pays the floor its own way: Verdict states the read before and the mechanics after, on the body; Blade pass by pass; Percussion and Expenditure carry the cost every exchange",
+  "old_text": "Shape follows the grammar. A rule ties duel shape to the four combat grammars: Verdict still then one cut, Blade traced passes, Percussion and Expenditure by attrition; practitioners escalate while reserve lasts. R60-01 holds for the unranked.",
+  "note_text": "Read with R71-4-FAR_FROM_FLOOR (combat law 2026-10-04): each grammar now pays the combat floor its own way (Verdict states the read before and the mechanics after, on the body; Blade pass by pass; Percussion and Expenditure carry the cost every exchange), and R13-4-DENSITY_BUDGET, which this row's note says stands, is rewritten by R71-4 for today's lengths."
+ },
+ {
+  "old_id": "R13-4-COMBAT_FLOOR",
+  "action": "note",
+  "by": "R71-4-FAR_FROM_FLOOR",
+  "r71_quote": "each grammar pays the floor its own way: Verdict states the read before and the mechanics after, on the body; Blade pass by pass; Percussion and Expenditure carry the cost every exchange",
+  "old_text": "Every meaningful exchange (a hit that lands, a first display, a counter, a change of measure that decides something) puts the following on the page, stated, in one of the four voices:",
+  "note_text": "Partly amended by R71-4-FAR_FROM_FLOOR (combat law 2026-10-04): the eight items stand, and each grammar pays them its own way (Verdict states the read before and the mechanics after, on the body; Blade pass by pass; Percussion and Expenditure carry the cost every exchange), every item stated where it happens."
+ },
+ {
+  "old_id": "R49-29-TURN_FILL",
+  "action": "note",
+  "by": "R71-5-ROLEPLAY_TURNS_AGAINST_WRITTEN",
+  "r71_quote": "Natalie runs them exchange by exchange until the first branch they do not cover, then stops on that threat. Table Rule 1 gains this exception.",
+  "old_text": "A 3,500-word turn is filled balanced: about half texture and talk, half the world moving, before the stop at the next decision.",
+  "note_text": "Read with R71-5-ROLEPLAY_TURNS_AGAINST_WRITTEN (combat law 2026-10-04): in a roleplay fight Isaac may post standing orders, which Natalie runs exchange by exchange until the first branch they do not cover, so the stop at the next decision falls on that threat; Table Rule 1 gains this exception."
+ },
+ {
+  "old_id": "R13-4-COMBAT_FLOOR",
+  "action": "note",
+  "by": "R71-6-PLAYER_FIGHTER_PAGE",
+  "r71_quote": "the deduction, floor item 3, is your post",
+  "old_text": "Every meaningful exchange (a hit that lands, a first display, a counter, a change of measure that decides something) puts the following on the page, stated, in one of the four voices:",
+  "note_text": "Partly amended by R71-6-PLAYER_FIGHTER_PAGE (combat law 2026-10-04): when the fighter is a player's, Natalie writes the resolved hit, the wound by structure, its ATLS class and what the hand can no longer do as world facts, places the tell but leaves item 3's deduction to the player's post, and shows item 7 only where others could see it, the spend going to the Stat Ledger."
+ },
+ {
+  "old_id": "R49-01-WHOSE_HEAD",
+  "action": "note",
+  "by": "R71-6-PLAYER_FIGHTER_PAGE",
+  "r71_quote": "Natalie puts the evidence in the room (the heel, the smell, the needle) and never draws the conclusion; the deduction, floor item 3, is your post",
+  "old_text": "In roleplay turns the narration may go to full depth inside Isaac's character; Isaac overrules any thought that isn't his.",
+  "note_text": "Partly amended by R71-6-PLAYER_FIGHTER_PAGE (combat law 2026-10-04): in a fight Natalie places the tell and never draws the conclusion for Isaac's fighter, how he bears a wound stays his, and the inside of his working's cost is his."
+ },
+ {
+  "old_id": "R48-37-COST_SHOWN",
+  "action": "note",
+  "by": "R71-6-PLAYER_FIGHTER_PAGE",
+  "r71_quote": "Natalie shows what his working costs where others could see it (heat off the skin, thaw at his boots, R48-37) and keeps the spend in the Stat Ledger (the running figures in the notes); the inside is yours",
+  "old_text": "An ability's cost shows in the body: tremor, heat off the skin, thirst, a Crystal ache.",
+  "note_text": "Partly amended by R71-6-PLAYER_FIGHTER_PAGE (combat law 2026-10-04): for a fighter who belongs to a player, only the cost others could see reaches the page (heat off the skin, thaw at his boots); the spend goes to the Stat Ledger and the inside is the player's."
+ },
+ {
+  "old_id": "R13-8-RECONSTRUCTIBLE_ADJUDICATION",
+  "action": "note",
+  "by": "R71-7-READER_SEES_CALL",
+  "r71_quote": "The fact that decides an exchange shows beforehand in the POV's read or a second's mouth, as behaviour or a Grade estimate, so a sharp reader can call it.",
+  "old_text": "Table Rule 5 decides contested actions from Stage gap, whether the read landed, what has been spent, and what the environment allows. This pack requires the decision to be reconstructible from the page. A fight that resolves because the scene needed it to has failed the pack and is rewritten.",
+  "note_text": "Extended by R71-7-READER_SEES_CALL (combat law 2026-10-04): the call is reconstructible and also callable in advance; the fact that decides an exchange shows beforehand, in the POV's read or a second's mouth, as behaviour or a Grade estimate, and the notes still name the row."
+ },
+ {
+  "old_id": "R13-4-COMBAT_FLOOR",
+  "action": "note",
+  "by": "R71-10-COUNTING_BACK_SMALL_EXCHANGES",
+  "r71_quote": "any exchange that lands, shifts measure or reveals something is traced with the floor",
+  "old_text": "Every meaningful exchange (a hit that lands, a first display, a counter, a change of measure that decides something) puts the following on the page, stated, in one of the four voices:",
+  "note_text": "Partly amended by R71-10-COUNTING_BACK_SMALL_EXCHANGES (combat law 2026-10-04): the floor is owed by any exchange that lands, shifts measure or reveals something, and exchanges that change nothing may be counted back in one sentence, each named by its move."
+ },
+ {
+  "old_id": "R48-33-CHOREOGRAPHY",
+  "action": "note",
+  "by": "R71-10-COUNTING_BACK_SMALL_EXCHANGES",
+  "r71_quote": "R48-33 is amended: exchanges that change nothing may be counted back in one sentence, each named by its move; any exchange that lands, shifts measure or reveals something is traced with the floor.",
+  "old_text": "Duels: every exchange traced (measure, guard and the move by its fencing name).",
+  "note_text": "Partly amended by R71-10-COUNTING_BACK_SMALL_EXCHANGES (combat law 2026-10-04): 'R48-33 is amended': exchanges that change nothing may be counted back in one sentence, each named by its move; any exchange that lands, shifts measure or reveals something is still traced, with the floor."
+ },
+ {
+  "old_id": "R4-14-RUN_RULE",
+  "action": "note",
+  "by": "R71-11-RUNNING_FAST",
+  "r71_quote": "Once per fight, in its swift stretch, one short paragraph of short, even sentences is exempt from the run rule, and the notes mark it. R4-14 is partly amended for fights.",
+  "old_text": "The run rule. No three consecutive sentences within forty percent of each other's word count. Lengths of 22, 19 and 24 constitute a run, and a run is a flat stretch of road however good the individual sentences are.",
+  "note_text": "Partly amended by R71-11-RUNNING_FAST (combat law 2026-10-04): once per fight, in its swift stretch, one short paragraph of short, even sentences is exempt from the run rule, and the notes mark it; R70-19-PAIRED_CUMULATIVE_SENTENCES's set-piece licence is unchanged."
+ },
+ {
+  "old_id": "R13-4-COMBAT_FLOOR",
+  "action": "note",
+  "by": "R71-12-KEEPING_SPACE_TRACKABLE",
+  "r71_quote": "A scramble (a crowd, the dark, a fall) may blur position while it lasts; every exchange that decides something re-fixes both bodies before it lands.",
+  "old_text": "Every meaningful exchange (a hit that lands, a first display, a counter, a change of measure that decides something) puts the following on the page, stated, in one of the four voices:",
+  "note_text": "Partly amended by R71-12-KEEPING_SPACE_TRACKABLE (combat law 2026-10-04) for item 1 (measure): a scramble (a crowd, the dark, a fall) may blur position while it lasts, and every exchange that decides something re-fixes both bodies before it lands."
+ },
+ {
+  "old_id": "R13-5-GAP_FILL_PASS",
+  "action": "note",
+  "by": "R71-14-IMPACT_MOMENTUM",
+  "r71_quote": "The physics audit checks it",
+  "old_text": "When Isaac submits a fight or a working for improvement, this runs before a single sentence is polished, and the author notes carry a section headed Added by the gap-fill pass, itemised.",
+  "note_text": "Partly amended by R71-14-IMPACT_MOMENTUM (combat law 2026-10-04): the physics audit also checks, at display and finisher, where a big hit's momentum went (what anchored the striker, whether the target was thrown or broken, what the ground took)."
+ },
+ {
+  "old_id": "R70-22-SOUND_WORDS",
+  "action": "note",
+  "by": "R71-18-FIGHT_SOUNDS_LIKE",
+  "r71_quote": "In fights the POV culture's own sound words (R70-22) carry the impacts, entered in its Inventory first; comparisons are kept for the held instant. Each culture's bank gains a few fight words.",
+  "old_text": "Each culture's own words. Each culture may carry a few native sound and state words in speech and close narration, entered in its Inventory and never italic (R49-49). Moto and Korean-register houses gain most.",
+  "note_text": "Partly amended by R71-18-FIGHT_SOUNDS_LIKE (combat law 2026-10-04): in fights the POV culture's own sound words carry the impacts, entered in its Inventory first, and each culture's bank gains a few fight words."
+ },
+ {
+  "old_id": "R48-03-SIMILES",
+  "action": "note",
+  "by": "R71-18-FIGHT_SOUNDS_LIKE",
+  "r71_quote": "comparisons are kept for the held instant",
+  "old_text": "Loosen similes only: a good simile is welcome when it earns its place; em dashes stay banned.",
+  "note_text": "Partly amended by R71-18-FIGHT_SOUNDS_LIKE (combat law 2026-10-04): in a fight an impact's sound is carried by the POV culture's native sound words, and comparisons are kept for the held instant (R70-57-DESCRIPTION_INSIDE_FIGHT)."
+ },
+ {
+  "old_id": "R14-3-STATS_DECIDE_TABLE",
+  "action": "note",
+  "by": "R71-19-GROUND_WEATHER_FIGHT",
+  "r71_quote": "The adjudication table gains a row: footing, light, cold, wet and Aetheric Density bend named stats, and the author notes say which.",
+  "old_text": "Table Rule 5 adjudicates from Stage gap, the read, what has been spent, and the environment. This pack names which stat answers each of those, so the adjudication is reconstructible and so the prose can show the right body doing the right thing.",
+  "note_text": "Partly amended by R71-19-GROUND_WEATHER_FIGHT (combat law 2026-10-04): the adjudication table gains an environment row (footing, light, cold, wet and Aetheric Density bend named stats, and the author notes say which); the ten rows stand."
+ },
+ {
+  "old_id": "R48-38-AFTERMATH",
+  "action": "note",
+  "by": "R71-21-AFTERMATH_PAGE",
+  "r71_quote": "The dressing is written as process: the period kit for the place, the healer's hands, the bleeding clock closing, what this place's medicine cannot do.",
+  "old_text": "Every duel ends with a full aftermath beat: wounds dressed, what changed between people.",
+  "note_text": "Partly amended by R71-21-AFTERMATH_PAGE (combat law 2026-10-04): the dressing is written as process (the period kit for the place, the healer's hands, the bleeding clock closing, what this place's medicine cannot do)."
+ },
+ {
+  "old_id": "R49-01-WHOSE_HEAD",
+  "action": "note",
+  "by": "R71-23-TELL_READ",
+  "r71_quote": "When the POV is your PC, the reading is yours.",
+  "old_text": "In roleplay turns the narration may go to full depth inside Isaac's character; Isaac overrules any thought that isn't his.",
+  "note_text": "Partly amended by R71-23-TELL_READ (combat law 2026-10-04): when the POV is Isaac's PC, the reading of a tell is his; the narration shows the tell and does not read it for him."
+ },
+ {
+  "old_id": "R12-8-COMBAT_GUIDE_READ_LENGTH",
+  "action": "note",
+  "by": "R71-23-TELL_READ",
+  "r71_quote": "The tell is shown plainly at its first and second appearance and read at length at the third",
+  "old_text": "WOTR_Combat_Craft_Guide.md. The read is now shown at length, no longer summarised. The three-layer hit model is rendered as explanation and no longer only as phenomena.",
+  "note_text": "Partly amended by R71-23-TELL_READ (combat law 2026-10-04): the read at length comes at a tell's third appearance; at its first and second the tell is shown plainly."
+ },
+ {
+  "old_id": "R13-5-GAP_FILL_PASS",
+  "action": "note",
+  "by": "R71-25-WOUNDS_CARRIED_INTO_NEXT",
+  "r71_quote": "The wound's structure decides what the body can do (a stitched forearm cannot hold a hard bind, a cracked rib cannot take a deep breath), checked by the gap-fill body audit and named in the notes.",
+  "old_text": "When Isaac submits a fight or a working for improvement, this runs before a single sentence is polished, and the author notes carry a section headed Added by the gap-fill pass, itemised.",
+  "note_text": "Partly amended by R71-25-WOUNDS_CARRIED_INTO_NEXT (combat law 2026-10-04): the body audit also checks what a Ledger wound carried in from an earlier fight lets the body do, by its structure (no Grade moves), and the notes name it."
+ }
+]

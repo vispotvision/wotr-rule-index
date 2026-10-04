@@ -1,0 +1,941 @@
+- id: R71-1-WHERE_LINE_FALLS_FIGHT
+  pack: Combat Law 2026-10-04
+  pack_number: null
+  section: K1
+  title: Western body, Eastern read inside a fight
+  status: live
+  kind: mandate
+  summary: Inside a fight, write the exchange, the wound and the cost the Western way, clinical, and run
+    the read, the stillness before the cut and a rule's reveal the Eastern way, long and deductive, as
+    Naruto and Bleach do.
+  verbatim: Western body, Eastern read. The exchange, the wound and the cost stay Western and clinical;
+    the read, the stillness before the cut and a rule's reveal run Eastern, long and deductive, the Naruto
+    and Bleach way. The next Combat Guide writes it in.
+  amends:
+  - guide: WOTR_Combat_Craft_Guide.md
+    locus: Where the line falls in a fight (the strands inside one fight)
+    operation: adds
+  supersedes: []
+  applies_to:
+  - combat
+  - prose-law
+  - pov
+  verification: []
+  ratified: 'Isaac, 2026-10-04, Claude Code chat: ruled directly (the combat questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: 'K1. Partly amends R70-3-STRAND_LEADS_LAYER, which gave combat to the Western strand whole: inside
+    one fight the read, the stillness before the cut and a rule''s reveal now run Eastern, while the exchange,
+    the wound and the cost stay Western. R12-8-COMBAT_GUIDE_READ_LENGTH (the read at length, now timed
+    by R71-23-TELL_READ) and R70-15-TEMPO_STILLNESS (jo-ha-kyu) are read with it; R70-9-TECHNICAL_MYSTIC_REGISTERS
+    is not named and stands. Works with R71-23-TELL_READ (how a tell is shown and read) and R71-4-FAR_FROM_FLOOR
+    (Verdict states the read before the cut).'
+- id: R71-2-EASTERN_COMBAT_MODELS
+  pack: Combat Law 2026-10-04
+  pack_number: null
+  section: K2
+  title: 'Eastern combat models: Togashi, Gu Long, Musashi, Jujutsu Kaisen'
+  status: live
+  kind: definition
+  summary: Name Togashi's Hunter x Hunter (fights as logic), Gu Long's one cut (the named model for Verdict
+    grammar), Inoue's Vagabond with Yoshikawa's Musashi (the fight decided inside the fighter, a model
+    for Japonic POVs) and Akutami's Jujutsu Kaisen (Domain clashes decided in a stated order) as the Combat
+    Craft Guide's Eastern combat models beside Kishimoto and Kubo.
+  verbatim: 'Yes to: Togashi, Hunter x Hunter (Fights as logic: the opponent''s rules inferred from evidence,
+    tested and exploited, and the winner is whoever knows his own limits best. Its vows that trade a limit
+    for power wait for MC6); Gu Long, the one cut (The duel is the wait: the long read and a single exchange,
+    the floor paid on the body. Becomes the named model for Verdict grammar (read, rank, commit); FT16
+    asks whether the cut itself is seen); Inoue and Yoshikawa, Musashi (Inoue''s manga Vagabond and Yoshikawa''s
+    novel Musashi: the deciding event happens inside the fighter (fear, the fixed mind, no-mind), with
+    pages of breath and footing. A model for Japonic POVs); Akutami, Jujutsu Kaisen (Domain clashes decided
+    in a stated order, with the burnout after a Domain as the counter-window. FOW Part Twenty-Two already
+    sets the order; burnout and the sure-hit (a Domain that cannot miss) would be new canon).'
+  amends:
+  - guide: WOTR_Combat_Craft_Guide.md
+    locus: Combat models (Eastern)
+    operation: adds
+  supersedes: []
+  applies_to:
+  - combat
+  - prose-law
+  - magic-mechanism
+  verification: []
+  ratified: 'Isaac, 2026-10-04, Claude Code chat: ruled directly (the combat questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: 'K2, all four options taken (three were recommended). Gu Long becomes the named model for R1-1-VERDICT_GRAMMAR
+    (read, rank, commit), whose skeleton stands; whether the one cut itself is seen is R71-66-FIGHT_THAT_MOSTLY_READ
+    (FT16). Hunter x Hunter''s vows that trade a limit for power are ruled by R71-32-VOWS_LIMITS (MC6).
+    Jujutsu Kaisen comes in as a model: the clash order stays FOW Part Twenty-Two''s, and the burnout
+    after a Domain (the counter-window) and the sure-hit (a Domain that cannot miss) come in as new canon
+    with this yes, any figure for either taken from a card or a ruling, never invented (R12-5-NEVER_INVENT_NUMBER);
+    R71-45-RAISING_DOMAIN_DUEL and R71-46-DOMAIN_CLASH_PAGE set how a Domain rises and how a clash shows.
+    Combat models only: the style models of R70-4-WESTERN_MODELS and R70-5-EASTERN_MODELS are untouched.'
+- id: R71-3-WESTERN_COMBAT_MODELS
+  pack: Combat Law 2026-10-04
+  pack_number: null
+  section: K3
+  title: 'Western combat models: Sharpe, Sanderson, the HEMA novelists'
+  status: live
+  kind: definition
+  summary: Name Cornwell's Sharpe (volley, smoke, the stormed breach, tactics read in the action), Sanderson's
+    hard magic (rules planted before, costs and counters findable) and the HEMA novelists Christian Cameron
+    and Sebastien de Castell (armoured fights from inside the steel) as the Combat Craft Guide's Western
+    combat models, leaving O'Brian out.
+  verbatim: 'Yes to: Cornwell, Sharpe (Volley drill, powder smoke, the stormed breach, tactics explained
+    in the action by a sergeant''s read. The only model for the gunpowder battle the archive has never
+    written); Sanderson, hard magic (Rules planted before, physics as choreography, costs and counters
+    findable, so the reader does the sum. Already close to R70-71''s rules shown beforehand); HEMA novelists
+    (Christian Cameron and Sebastien de Castell: armoured fights from inside the steel, the phrase (one
+    unbroken attack and answer), joints, the visor slot, the ground. The Western school''s model). Not
+    taken: O''Brian, Aubrey-Maturin.'
+  amends:
+  - guide: WOTR_Combat_Craft_Guide.md
+    locus: Combat models (Western)
+    operation: adds
+  - guide: Mass Combat Craft Guide
+    locus: Combat models (the gunpowder battle)
+    operation: adds
+  supersedes: []
+  applies_to:
+  - combat
+  - mass-combat
+  - prose-law
+  - magic-mechanism
+  verification: []
+  ratified: 'Isaac, 2026-10-04, Claude Code chat: ruled directly (the combat questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: 'K3; O''Brian''s Aubrey-Maturin was not taken. Sharpe is the only model for the gunpowder battle
+    the archive has never written (see R71-60-VOLLEY_SMOKE_DRILLED_LINE). Sanderson sits beside R70-71-EXPLAINING_WORKING_MID_FIGHT
+    (rules shown beforehand). The HEMA novelists are the Western school''s model and sit with R70-100-MARTIAL_VOCABULARY_NAMES_MOVES
+    (moves named in the POV''s own school). Combat models only: R70-4-WESTERN_MODELS (the style models)
+    is untouched, and R70-3-STRAND_LEADS_LAYER is read with R71-1-WHERE_LINE_FALLS_FIGHT.'
+- id: R71-4-FAR_FROM_FLOOR
+  pack: Combat Law 2026-10-04
+  pack_number: null
+  section: K4
+  title: The combat floor rescaled and paid by grammar
+  status: live
+  kind: budget
+  summary: Carry the full combat floor at first display and finisher, items 1 to 4 at every exchange that
+    turns the fight and item 8 at a turn's close, each item stated where it happens, and let each grammar
+    pay it its own way (Verdict the read before and the mechanics after, on the body; Blade pass by pass;
+    Percussion and Expenditure the cost every exchange).
+  verbatim: 'Floor by grammar. Rescaled as in A, and each grammar pays the floor its own way: Verdict
+    states the read before and the mechanics after, on the body; Blade pass by pass; Percussion and Expenditure
+    carry the cost every exchange. (Option A there reads: Rescale, same ratios. R13-4-DENSITY_BUDGET is
+    rewritten for today''s lengths: full floor at first display and finisher, items 1 to 4 at every exchange
+    that turns the fight, item 8 at a turn''s close. Every item stated where it happens.)'
+  amends:
+  - guide: WOTR_Combat_Craft_Guide.md
+    locus: §4 (density of the combat floor)
+    operation: replaces
+  - guide: WOTR_Combat_Craft_Guide.md
+    locus: The four grammars
+    operation: extends
+  supersedes:
+  - R13-4-DENSITY_BUDGET
+  applies_to:
+  - combat
+  - scene-structure
+  - adjudication
+  verification: []
+  ratified: 'Isaac, 2026-10-04, Claude Code chat: ruled directly (the combat questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: 'K4, option B, which takes option A''s rescale whole. Supersedes R13-4-DENSITY_BUDGET in its
+    own words (''R13-4-DENSITY_BUDGET is rewritten for today''s lengths''): the 2,500-word duel and the
+    700 to 1,500 word turn give way to today''s lengths (turns about 3,500 words under R48-28-TURN_LENGTH,
+    set pieces 5,000 and up under R48-46-WORD_FLOOR). Partly amends R13-4-COMBAT_FLOOR, whose eight items
+    stand, by setting where each grammar pays them. Works with R70-102-STILLNESS_TRACED_PASSES_LONG (duel
+    shape by grammar); R13-8-RECONSTRUCTIBLE_ADJUDICATION stands.'
+- id: R71-5-ROLEPLAY_TURNS_AGAINST_WRITTEN
+  pack: Combat Law 2026-10-04
+  pack_number: null
+  section: K5
+  title: Standing orders in a roleplay fight
+  status: live
+  kind: procedure
+  summary: In a roleplay fight Isaac may post conditions such as 'if he closes, I cut low', and Natalie
+    runs them exchange by exchange until the first branch they do not cover, then stops the turn on that
+    threat.
+  verbatim: Standing orders honoured. You may post conditions ('if he closes, I cut low'). Natalie runs
+    them exchange by exchange until the first branch they do not cover, then stops on that threat. Table
+    Rule 1 gains this exception.
+  amends:
+  - guide: NATALIE.md and the wotr-write skill
+    locus: Table Rule 1 (turn shape)
+    operation: extends
+  supersedes: []
+  applies_to:
+  - combat
+  - scene-structure
+  verification: []
+  ratified: 'Isaac, 2026-10-04, Claude Code chat: ruled directly (the combat questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: 'K5. Table Rule 1 (stop at his next decision, never resolve a multi-decision action in one go)
+    has no indexed row; this is the exception it gains, and the NATALIE.md line is owed the rewrite. Read
+    with R49-29-TURN_FILL: in a fight run on standing orders, the stop at the next decision falls on the
+    threat at the first branch the orders do not cover. R48-35-USES stands: the conditions are Isaac''s
+    own uses, the NPC''s answers Natalie''s. R47-11-TIME_AND_ENERGY (the six-second turn) and R48-28-TURN_LENGTH
+    are unchanged. What the run may write of his fighter is R71-6-PLAYER_FIGHTER_PAGE.'
+- id: R71-6-PLAYER_FIGHTER_PAGE
+  pack: Combat Law 2026-10-04
+  pack_number: null
+  section: K9
+  title: What Natalie writes of a player's fighter
+  status: live
+  kind: mandate
+  summary: For a fighter who belongs to a player, Natalie writes the resolved hit, the wound by structure,
+    its ATLS class and what the hand can no longer do as world facts, places the tell but never draws
+    the deduction, shows him from an NPC's POV only as that NPC registers him, and shows his working's
+    cost only where others could see it, keeping the spend in the Stat Ledger.
+  verbatim: 'Yes to: Wounds as world facts (Once your stated move resolves, the hit, the wound by structure,
+    its ATLS class (the trauma surgeons'' blood-loss scale) and what the hand can no longer do are written
+    as world facts; how he bears it stays yours); The tell placed, the read his (Natalie puts the evidence
+    in the room (the heel, the smell, the needle) and never draws the conclusion; the deduction, floor
+    item 3, is your post, as CW14''s D already leaves the reading to you); Felt from across the room (From
+    an NPC''s POV a player''s fighter is only what that NPC''s eyes, body and room register, the Geturo
+    model; his reasons and his Crystal stay dark. It covers guest players at the Discord table too); Outward
+    cost only (Natalie shows what his working costs where others could see it (heat off the skin, thaw
+    at his boots, R48-37) and keeps the spend in the Stat Ledger (the running figures in the notes); the
+    inside is yours).'
+  amends:
+  - guide: NATALIE.md and the wotr-write skill
+    locus: Combat and consequence
+    operation: adds
+  - guide: WOTR_Combat_Craft_Guide.md
+    locus: §4 (the floor for a player's fighter)
+    operation: adds
+  supersedes: []
+  applies_to:
+  - combat
+  - pov
+  - adjudication
+  - stats
+  verification: []
+  ratified: 'Isaac, 2026-10-04, Claude Code chat: ruled directly (the combat questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: K9, all four options (digest). Partly amends R49-01-WHOSE_HEAD in a fight (the read's conclusion,
+    how he bears a wound and the inside of his cost are the player's), R13-4-COMBAT_FLOOR for a player's
+    fighter (item 3's deduction is his post; item 7 shows only outwardly, the figures going to R14-7-STAT_LEDGER_CONTENTS's
+    Stat Ledger) and R48-37-COST_SHOWN (only the cost others could see reaches the page). From an NPC's
+    POV his reasons and his Crystal stay dark, the Geturo model; this covers guest players at the Discord
+    table. R1-1-RESTRICTED_CHARACTERS_EXCLUDED stands. The reading half matches R71-23-TELL_READ (CW14's
+    D); how far a turn runs is R71-5-ROLEPLAY_TURNS_AGAINST_WRITTEN.
+- id: R71-7-READER_SEES_CALL
+  pack: Combat Law 2026-10-04
+  pack_number: null
+  section: K6
+  title: The deciding fact shows before the blow
+  status: live
+  kind: mandate
+  summary: Show the fact that decides an exchange before it lands, in the POV's read or a second's mouth,
+    as behaviour or a Grade estimate a sharp reader could call, and still name the deciding row in the
+    notes.
+  verbatim: Deciding fact in the read. The fact that decides an exchange shows beforehand in the POV's
+    read or a second's mouth, as behaviour or a Grade estimate, so a sharp reader can call it. The notes
+    still name the row.
+  amends:
+  - guide: WOTR_Combat_Craft_Guide.md
+    locus: Table Rule 5 (reconstructible adjudication)
+    operation: extends
+  - guide: NATALIE.md and the wotr-write skill
+    locus: Table Rule 5 (adjudication)
+    operation: extends
+  supersedes: []
+  applies_to:
+  - combat
+  - adjudication
+  - pov
+  - stats
+  verification: []
+  ratified: 'Isaac, 2026-10-04, Claude Code chat: ruled directly (the combat questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: 'K6. Extends R13-8-RECONSTRUCTIBLE_ADJUDICATION (the call reconstructible from the page), which
+    stays live with a note: the deciding fact now reaches the page before the blow, not only after it.
+    R14-3-TRACEABILITY stands (''The notes still name the row''). The Grade estimate is R70-88-NUMBERS_INSIDE_FIGHT''s
+    read (estimates in the POV''s own terms, no running figures), and R70-79-CAN_READ_WHOM sets how close
+    a practitioner''s sense can get. R48-48-EXPLAIN (explaining after a scene, only when asked) is unchanged.
+    A confident wrong read (R12-4-VOICE_ONE_POV) is not barred by this row.'
+- id: R71-8-CORE_PROMISE
+  pack: Combat Law 2026-10-04
+  pack_number: null
+  section: K7
+  title: A way out, always planted
+  status: live
+  kind: mandate
+  summary: 'Keep the world honest and give every fight Natalie stages at least one findable way out (a
+    counter, ground, flight or a yield), planted where Isaac could catch it, and open the Combat Craft
+    Guide on the promise: fair, computable, costly.'
+  verbatim: 'A way out, always planted. The world stays honest, and every fight Natalie stages has at
+    least one findable line out (a counter, ground, flight or a yield), planted where you could catch
+    it. The guide opens: fair, computable, costly.'
+  amends:
+  - guide: WOTR_Combat_Craft_Guide.md
+    locus: Opening (the core promise)
+    operation: adds
+  - guide: NATALIE.md and the wotr-write skill
+    locus: Combat and consequence
+    operation: adds
+  supersedes: []
+  applies_to:
+  - combat
+  - adjudication
+  verification: []
+  ratified: 'Isaac, 2026-10-04, Claude Code chat: ruled directly (the combat questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: K7. Carries R57-10-NEVER_RIGGED (never rigged in either direction) and R48-31-STAKES (death if
+    earned, after clear warning), both standing; R48-30-SURPRISES and R48-36-NPC_WITS are unchanged. The
+    exit before a killing exchange is spelled out by R71-67-CLEAR_WARNING_BEFORE_LOSS (FT17), and the
+    endings a way out can take by R71-20-FIGHTS_END.
+- id: R71-9-LITRPG_COMBAT_MODELS
+  pack: Combat Law 2026-10-04
+  pack_number: null
+  section: K8
+  title: 'LitRPG combat models: Mother of Learning, Dungeon Crawler Carl, The Primal Hunter, Delve'
+  status: live
+  kind: definition
+  summary: Name Mother of Learning (the prepared fight), Dungeon Crawler Carl (the room as the counter),
+    The Primal Hunter (the bench wins the fight) and Delve (drain-rate tension) as the Combat Craft Guide's
+    LitRPG fight models beside Unbound and The Beginning After the End, without the time loop or the time-stopping
+    sense.
+  verbatim: 'Yes to: nobody103, Mother of Learning (The prepared fight: scout, learn the enemy''s tools,
+    then a short, legible final attempt the reader can check. Its time loop stays out, since death is
+    permanent; R70-71 and R12-3''s study counter are its home); Dinniman, Dungeon Crawler Carl (The room
+    as the counter: a gas, a drop, a cut main beats the boss; bosses that change their rule mid-fight;
+    grief arriving cold after the jokes. Comic beats stay with carded comic voices (R70-113)); Zogarth,
+    The Primal Hunter (The bench wins the fight: poisons and coated shot prepared days before, the dose
+    counted toward its effect, the dying long. Its time-stopping sense would need a ruled mechanism and
+    stays out); SenescentSoul, Delve (Drain-rate tension: the reserve clock worked out so the reader knows
+    when a fighter will cross into Starvation (below a tenth of his reserve). The figures stay between
+    exchanges and in the notes, under R70-88''s no running figures).'
+  amends:
+  - guide: WOTR_Combat_Craft_Guide.md
+    locus: Combat models (LitRPG)
+    operation: adds
+  supersedes: []
+  applies_to:
+  - combat
+  - prose-law
+  - stats
+  verification: []
+  ratified: 'Isaac, 2026-10-04, Claude Code chat: ruled directly (the combat questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: 'K8, all four options taken (three were recommended). Mother of Learning''s time loop stays out
+    because death is permanent; its home is R70-71-EXPLAINING_WORKING_MID_FIGHT and R12-3-NAMED_INVENTOR_RULE''s
+    study counter. Dungeon Crawler Carl''s comic beats stay with carded comic voices (R70-113-DOUBLE_ACT_COMIC_BEAT).
+    The Primal Hunter''s time-stopping sense stays out until a mechanism is ruled. Delve''s reserve figures
+    stay between exchanges and in the notes under R70-88-NUMBERS_INSIDE_FIGHT; Starvation, below a tenth
+    of the reserve, runs on R60-03-HARD_RESERVE_CLOCK. Combat models only: R70-6-LITRPG_PROGRESSION_MODELS
+    is untouched.'
+- id: R71-10-COUNTING_BACK_SMALL_EXCHANGES
+  pack: Combat Law 2026-10-04
+  pack_number: null
+  section: CW1
+  title: Minor exchanges counted back in one sentence
+  status: live
+  kind: mandate
+  summary: Let exchanges that change nothing be counted back in one sentence, each named by its move,
+    and trace with the floor any exchange that lands, shifts measure or reveals something.
+  verbatim: 'Count back the minor ones. R48-33 is amended: exchanges that change nothing may be counted
+    back in one sentence, each named by its move; any exchange that lands, shifts measure or reveals something
+    is traced with the floor.'
+  amends:
+  - guide: NATALIE.md and the wotr-write skill
+    locus: Combat and consequence
+    operation: extends
+  - guide: WOTR_Combat_Craft_Guide.md
+    locus: HEMA vocabulary and choreography
+    operation: extends
+  supersedes: []
+  applies_to:
+  - combat
+  - prose-law
+  - scene-structure
+  verification: []
+  ratified: 'Isaac, 2026-10-04, Claude Code chat: ruled directly (the combat questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: 'CW1. ''R48-33 is amended'' is a partial amendment, not a supersession: the tracing R48-33-CHOREOGRAPHY
+    asks (measure, guard, the move by its name) still holds for every exchange that matters, and the counted-back
+    ones are still named by their move, so that row stays live with a note. Also partly amends R13-4-COMBAT_FLOOR''s
+    trigger, now any exchange that lands, shifts measure or reveals something. Fits Percussion''s attrition
+    (R1-1-PERCUSSION_VS_BLADE) and R70-57-DESCRIPTION_INSIDE_FIGHT''s ''traced and lean''; R70-102-STILLNESS_TRACED_PASSES_LONG
+    stands.'
+- id: R71-11-RUNNING_FAST
+  pack: Combat Law 2026-10-04
+  pack_number: null
+  section: CW2
+  title: One staccato run per fight
+  status: live
+  kind: budget
+  summary: Once per fight, in its swift stretch, one short paragraph of short, even sentences may break
+    the run rule, and the author notes mark it.
+  verbatim: A staccato run, once. Once per fight, in its swift stretch, one short paragraph of short,
+    even sentences is exempt from the run rule, and the notes mark it. R4-14 is partly amended for fights.
+  amends:
+  - guide: WOTR_AI_Writing_Tells_to_Avoid.md
+    locus: §2 (the run rule)
+    operation: extends
+  - guide: NATALIE.md and the wotr-write skill
+    locus: Beautiful prose (rhythm law)
+    operation: extends
+  - guide: Manual Verification Guide
+    locus: §13
+    operation: extends
+  supersedes: []
+  applies_to:
+  - prose-law
+  - combat
+  - verification
+  verification: []
+  ratified: 'Isaac, 2026-10-04, Claude Code chat: ruled directly (the combat questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: 'CW2 (digest). ''R4-14 is partly amended for fights'': the exemption is from the run rule, so
+    R4-14-RUN_RULE stays live with a note, and the other R4-14 rows are not named and stand. Sits beside
+    R70-19-PAIRED_CUMULATIVE_SENTENCES (set-piece pairs and one climax sentence) and R70-20-PARAGRAPH_SHAPE
+    (one-line paragraphs at a fight''s last beats); R70-15-TEMPO_STILLNESS gives the swift stretch. Only
+    the run rule is named: R4-14-PARAGRAPH_VARIANCE (variance enforced per paragraph) and R49-13-VARIANCE
+    (the 80% target) are not, and a paragraph of short, even sentences cannot meet a per-paragraph variance
+    check, so whether the marked paragraph also answers to them is not settled by these words and is flagged
+    for the conflict log. R48-06-RHYTHM_LAW is not named. verify''s flat-run count (R4-14-RUN_RULE) does
+    not yet know the exemption; the notes'' mark is what the reviewer reads.'
+- id: R71-12-KEEPING_SPACE_TRACKABLE
+  pack: Combat Law 2026-10-04
+  pack_number: null
+  section: CW3
+  title: Positions re-fixed before every deciding exchange
+  status: live
+  kind: mandate
+  summary: A scramble in a crowd, the dark or a fall may blur where the fighters stand while it lasts,
+    but every exchange that decides something re-fixes both bodies before it lands.
+  verbatim: Fixed at the deciders. A scramble (a crowd, the dark, a fall) may blur position while it lasts;
+    every exchange that decides something re-fixes both bodies before it lands. Chaos is legal, the deciding
+    geometry always clear.
+  amends:
+  - guide: WOTR_Combat_Craft_Guide.md
+    locus: §4, item 1 (measure)
+    operation: extends
+  supersedes: []
+  applies_to:
+  - combat
+  - prose-law
+  - adjudication
+  verification: []
+  ratified: 'Isaac, 2026-10-04, Claude Code chat: ruled directly (the combat questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: 'CW3. Partly amends R13-4-COMBAT_FLOOR''s item 1 (measure: where the bodies are and what each
+    can reach): a scramble may blur position while it lasts, and every deciding exchange still carries
+    item 1. R13-8-RECONSTRUCTIBLE_ADJUDICATION, which the re-fix serves, stands. R13-5-GAP_FILL_PASS is
+    unchanged.'
+- id: R71-13-SUPERHUMAN_SPEED
+  pack: Combat Law 2026-10-04
+  pack_number: null
+  section: CW4
+  title: Speed shown by its effect, felt time and the gap
+  status: live
+  kind: mandate
+  summary: Render a practitioner's speed by its physics arriving first (the pressure front, the crack
+    after, the wound that opens once he has passed), by stretched time for a POV whose Reflex Grade outruns
+    the threat, and by the gap in the frame with nothing drawn between two poses, each held to FOW's rows
+    for the Grade on the card.
+  verbatim: 'Yes to: The effect arrives first (Speed shown through its physics: the pressure front, the
+    crack after, the wound that opens once the swordsman has passed. Held to FOW''s speed rows for the
+    Grade on the card); Felt time, by Reflex (A POV whose Reflex Grade outruns the threat gets stretched
+    time on the page, held to FOW''s Reaction Speed row for that Grade; a slower POV gets only the gap.
+    Sits beside R70-57''s one held instant); The gap in the frame (The body is simply elsewhere, nothing
+    drawn between two poses; any after-image is disturbed snow, dust or frost, never a glowing double
+    (R9-3 keeps ''it glowed'' banned)). Not taken: The witness who misses it.'
+  amends:
+  - guide: WOTR_Combat_Craft_Guide.md
+    locus: Speed on the page
+    operation: adds
+  supersedes: []
+  applies_to:
+  - combat
+  - prose-law
+  - stats
+  - magic-mechanism
+  verification: []
+  ratified: 'Isaac, 2026-10-04, Claude Code chat: ruled directly (the combat questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: 'CW4; the witness who misses it was not taken. Figures come from FOW''s speed rows and its Reaction
+    Speed row for the Grade (R12-5-NEVER_INVENT_NUMBER; R45-1-SPEED_DECIDES_THE_DODGE against shot). Felt
+    time sits beside R70-57-DESCRIPTION_INSIDE_FIGHT''s one held instant; a slower POV gets only the gap.
+    Any after-image is disturbed snow, dust or frost, never a glowing double: R9-3-AURA_AS_FRACTURE keeps
+    ''it glowed'' banned. R70-83-FIGURES_PLAIN_NARRATION governs any figure narration states.'
+- id: R71-14-IMPACT_MOMENTUM
+  pack: Combat Law 2026-10-04
+  pack_number: null
+  section: CW5
+  title: Where a big hit's momentum went
+  status: live
+  kind: mandate
+  summary: At display and finisher, say where a big hit's momentum went (what anchored the striker, whether
+    the target was thrown or broken, what the ground took), have the physics audit check it, and move
+    stock images to a bank per culture.
+  verbatim: 'Momentum accounted for. At display and finisher the page says where the momentum went: what
+    anchored the striker, whether the target was thrown or broken, what the ground took. The physics audit
+    checks it; stock images move to a bank per culture.'
+  amends:
+  - guide: WOTR_Combat_Craft_Guide.md
+    locus: §4, item 5 (the mechanics of the hit)
+    operation: extends
+  - guide: Standing Inventories, NATALIE.md and the wotr-write skill
+    locus: Image bank (every Inventory)
+    operation: extends
+  supersedes: []
+  applies_to:
+  - combat
+  - prose-law
+  - adjudication
+  - standing-inventory
+  - verification
+  verification: []
+  ratified: 'Isaac, 2026-10-04, Claude Code chat: ruled directly (the combat questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: CW5 (digest). Extends R13-4-COMBAT_FLOOR's item 5 (mass and lever, hip drive) and partly amends
+    R13-5-GAP_FILL_PASS, whose physics audit now checks the momentum account. The stock images (the heel
+    furrow the archive repeats) move into the culture image bank of R70-59-WHERE_COMPARISONS_COME_FROM.
+    R13-6-REAL_SCIENCE_VOCAB and R48-16-REAL_FIGURES stand for the terms and any figures.
+- id: R71-15-FIGHTING_THROUGH_WOUND
+  pack: Combat Law 2026-10-04
+  pack_number: null
+  section: CW6
+  title: The Essence splint, priced
+  status: live
+  kind: mandate
+  summary: A practitioner may hold a broken structure shut with a working for as long as his Tempering
+    allows, at a reserve cost every turn and ending at Starvation, after which the wound is worse, once
+    the working's mechanism has been ruled.
+  verbatim: 'An Essence splint, priced. A practitioner may hold a broken structure shut with a working:
+    Tempering for how long, a reserve cost per turn, ending at Starvation; the wound is worse afterward.
+    Needs a ruled mechanism before first use.'
+  amends:
+  - guide: WOTR_Combat_Craft_Guide.md
+    locus: Fighting on through a wound
+    operation: adds
+  supersedes: []
+  applies_to:
+  - combat
+  - magic-mechanism
+  - stats
+  - adjudication
+  verification: []
+  ratified: 'Isaac, 2026-10-04, Claude Code chat: ruled directly (the combat questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: 'CW6. Live as law, but ''Needs a ruled mechanism before first use'': no scene uses the splint
+    until a ruling gives it a mechanism and its per-turn cost, under R12-5-NEVER_INVENT_NUMBER. Tempering
+    is the duration stat of R14-3-STATS_DECIDE_TABLE; the per-turn cost runs on R60-03-HARD_RESERVE_CLOCK,
+    and Starvation ends it. R60-01-BRUTAL_LETHALITY still holds for the unranked (R70-102-STILLNESS_TRACED_PASSES_LONG),
+    and R60-02-REAL_HEALING_TIMES runs on the worse wound afterward. The cost shows in the body (R48-37-COST_SHOWN);
+    a trained POV names his own wound exactly (R49-50-OWN_BODY).'
+- id: R71-16-LONG_PAGE_STAYS_WOUND
+  pack: Combat Law 2026-10-04
+  pack_number: null
+  section: CW7
+  title: How long the page stays on a wound, by scene type
+  status: live
+  kind: budget
+  summary: Keep exchange wounds precise, give the lingering passage to a finisher, an execution and a
+    battle's one full-detail body, and keep wounds short in roleplay turns unless the death is the turn's
+    point.
+  verbatim: Length by scene type. Exchanges stay precise; a finisher, an execution and a battle's one
+    full-detail body get the lingering passage; roleplay turns keep it short unless the death is the turn's
+    point.
+  amends:
+  - guide: NATALIE.md and the wotr-write skill
+    locus: Combat and consequence
+    operation: extends
+  - guide: WOTR_Combat_Craft_Guide.md
+    locus: Wounds
+    operation: adds
+  - guide: Mass Combat Craft Guide
+    locus: The full-detail body
+    operation: extends
+  supersedes: []
+  applies_to:
+  - combat
+  - prose-law
+  - scene-structure
+  - mass-combat
+  verification: []
+  ratified: 'Isaac, 2026-10-04, Claude Code chat: ruled directly (the combat questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: 'CW7 (digest). Sets length only: R48-34-WOUNDS (full clinical gore, nothing looked away from)
+    and R54-20-MASS_WOUND_ANATOMY stand, and R70-105-JOINS_WOUND_WHEN_FIGHT''s rites and elegiac image
+    ride the lingering passage. The battle''s one full-detail body is the Mass Combat Guide''s. R48-38-AFTERMATH
+    is unchanged here (see R71-21-AFTERMATH_PAGE).'
+- id: R71-17-FEAR_BODY
+  pack: Combat Law 2026-10-04
+  pack_number: null
+  section: CW8
+  title: Fear in the body, owed for the untrained
+  status: live
+  kind: mandate
+  summary: Give an untrained POV's fights at least two fear effects in the body traced to adrenaline,
+    and let trained fighters keep composure free, showing it only under real strain or Pressure.
+  verbatim: Owed for the untrained. An untrained POV's fights carry at least two fear effects in the body,
+    traced to adrenaline; trained fighters keep composure free (R52-28) and show it only under real strain
+    or Pressure.
+  amends:
+  - guide: WOTR_Combat_Craft_Guide.md
+    locus: The POV's own body
+    operation: adds
+  - guide: NATALIE.md and the wotr-write skill
+    locus: Combat and consequence
+    operation: adds
+  supersedes: []
+  applies_to:
+  - combat
+  - pov
+  - prose-law
+  verification: []
+  ratified: 'Isaac, 2026-10-04, Claude Code chat: ruled directly (the combat questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: CW8 (digest). R52-28-COMPOSURE stands and is the trained fighter's half. An untrained POV keeps
+    his own body in plain words (R49-50-OWN_BODY), so the fear effects are written plainly. R60-01-BRUTAL_LETHALITY
+    and R13-5-GAP_FILL_PASS are unchanged.
+- id: R71-18-FIGHT_SOUNDS_LIKE
+  pack: Combat Law 2026-10-04
+  pack_number: null
+  section: CW9
+  title: Native sound words carry the impacts
+  status: live
+  kind: mandate
+  summary: In fights, carry each impact's sound with the POV culture's own sound words, entered in its
+    Inventory first, keep comparisons for the held instant, and give each culture's bank a few fight words.
+  verbatim: The native word at impact. In fights the POV culture's own sound words (R70-22) carry the
+    impacts, entered in its Inventory first; comparisons are kept for the held instant. Each culture's
+    bank gains a few fight words.
+  amends:
+  - guide: Standing Inventories, NATALIE.md and the wotr-write skill
+    locus: Words (sound and state words)
+    operation: extends
+  - guide: WOTR_Combat_Craft_Guide.md
+    locus: Description inside a fight
+    operation: extends
+  supersedes: []
+  applies_to:
+  - combat
+  - prose-law
+  - standing-inventory
+  - register
+  verification: []
+  ratified: 'Isaac, 2026-10-04, Claude Code chat: ruled directly (the combat questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: CW9 (digest). Partly amends R70-22-SOUND_WORDS (a culture 'may carry a few' native sound words;
+    in fights they now carry the impacts, and each bank gains fight words) and R48-03-SIMILES for an impact's
+    sound in a fight, where the comparison waits for the held instant of R70-57-DESCRIPTION_INSIDE_FIGHT.
+    The words stay roman (R49-49-FOREIGN, R50-32-ITALICS). English noise words were not taken. R70-59-WHERE_COMPARISONS_COME_FROM
+    governs the comparison when it comes.
+- id: R71-19-GROUND_WEATHER_FIGHT
+  pack: Combat Law 2026-10-04
+  pack_number: null
+  section: CW10
+  title: An environment row, and ground chosen before contact
+  status: live
+  kind: mandate
+  summary: Give the adjudication table an environment row in which footing, light, cold, wet and Aetheric
+    Density bend named stats, named in the author notes, and open every planned duel with the fighters
+    reading or choosing ground that then decides at least one exchange.
+  verbatim: 'Yes to: An environment row (The adjudication table gains a row: footing, light, cold, wet
+    and Aetheric Density bend named stats, and the author notes say which. Weather stops being texture
+    only); Ground chosen before contact (Every planned duel opens with the fighters reading or choosing
+    ground (Counterplay''s ''Pick before contact''), and the ground decides at least one exchange). Not
+    taken: New ground, by rotation, Texture only, as now.'
+  amends:
+  - guide: WOTR_Combat_Craft_Guide.md
+    locus: Table Rule 5 (the adjudication table)
+    operation: adds
+  - guide: NATALIE.md and the wotr-write skill
+    locus: Table Rule 5 (adjudication)
+    operation: extends
+  supersedes: []
+  applies_to:
+  - combat
+  - adjudication
+  - stats
+  - worldbuilding
+  verification: []
+  ratified: 'Isaac, 2026-10-04, Claude Code chat: ruled directly (the combat questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: CW10 (digest); new ground by rotation and texture only were not taken. Partly amends R14-3-STATS_DECIDE_TABLE,
+    whose ten-row table had no environment row although Table Rule 5 names the environment; its draw-cost
+    row (Harmonics against Aetheric Density) stands. R14-3-TRACEABILITY and R13-8-RECONSTRUCTIBLE_ADJUDICATION
+    now reach the environment. R53-09-WEATHER stands and feeds the row ('cold, wet and thaw change what
+    people can do'). 'Pick before contact' is the Counterplay page's wording.
+- id: R71-20-FIGHTS_END
+  pack: Combat Law 2026-10-04
+  pack_number: null
+  section: CW11
+  title: Yield, flight, a code's stop and the killing's law
+  status: live
+  kind: mandate
+  summary: Let a fight end by a yield that binds under the culture's custom with its terms on the Ledger,
+    by flight, its pursuit decided on Dexterity (Celerity), the reserve and the ground, leaving a witness
+    and a debt, or by a formal duel code's stated stop that binds both men, and give every killing its
+    culture's legal aftermath on the page as a Front or a Ledger line.
+  verbatim: 'Yes to: Yield on terms (Surrender is legal and binds by the culture''s custom (a Kharven
+    word before witnesses, an Accord form under seal); the terms go on the Ledger as R70-104''s debt);
+    Flight, adjudicated (Breaking off and running is always a choice; pursuit is decided on Dexterity
+    (Celerity), the reserve and the ground (FT12 shapes the chase), and a fled fight leaves a witness
+    and a debt); A code ends it (Formal duels run under the culture''s code, with seconds and a stated
+    end (first blood, a disarm, a yield); the code''s stop binds both men, and breaking it is a Ledger
+    debt); The killing''s own law (Every killing carries its culture''s legal aftermath (a declaration,
+    a blood-price or labour-debt, outlawry) on the page, opened as a Front or a Ledger line).'
+  amends:
+  - guide: WOTR_Combat_Craft_Guide.md
+    locus: How fights end
+    operation: adds
+  - guide: NATALIE.md and the wotr-write skill
+    locus: 'Table rule 7: the ledger'
+    operation: extends
+  supersedes: []
+  applies_to:
+  - combat
+  - adjudication
+  - session-protocol
+  - worldbuilding
+  verification: []
+  ratified: 'Isaac, 2026-10-04, Claude Code chat: ruled directly (the combat questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: CW11, all four options (digest). Yield terms go on the Ledger as R70-104-RIVAL_BOND's debt; breaking
+    a duel code is a Ledger debt. The chase is shaped by R71-62-CHASES_PURSUITS (FT12). The killing's
+    law takes each culture's analogue under R53-11-JUSTICE (a declaration, a blood-price or labour-debt,
+    outlawry). R48-31-STAKES stands, so death stays possible; R48-30-SURPRISES and R60-01-BRUTAL_LETHALITY
+    are unchanged.
+- id: R71-21-AFTERMATH_PAGE
+  pack: Combat Law 2026-10-04
+  pack_number: null
+  section: CW12
+  title: The dressing written as process
+  status: live
+  kind: mandate
+  summary: 'Write a fight''s dressing as process: the period kit for the place, the healer''s hands, the
+    bleeding clock closing and what this place''s medicine cannot do.'
+  verbatim: 'Procedure as craft. The dressing is written as process: the period kit for the place, the
+    healer''s hands, the bleeding clock closing, what this place''s medicine cannot do. R70-46''s craft-as-process
+    reaches the infirmary.'
+  amends:
+  - guide: NATALIE.md and the wotr-write skill
+    locus: Combat and consequence
+    operation: extends
+  - guide: WOTR_Combat_Craft_Guide.md
+    locus: Aftermath
+    operation: extends
+  supersedes: []
+  applies_to:
+  - combat
+  - prose-law
+  - worldbuilding
+  verification: []
+  ratified: 'Isaac, 2026-10-04, Claude Code chat: ruled directly (the combat questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: 'CW12 (digest). Partly amends R48-38-AFTERMATH: its ''wounds dressed'' is now written as process.
+    Carries R70-46-CRAFT_LABOUR_PAGE''s craft-as-process into the infirmary. The kit follows R53-10-MEDICINE
+    (era by place); the clock runs on R60-02-REAL_HEALING_TIMES. R1-3-WORD_FLOOR_INCLUDES_AFTERMATH is
+    unchanged.'
+- id: R71-22-TALK_INSIDE_FIGHT
+  pack: Combat Law 2026-10-04
+  pack_number: null
+  section: CW13
+  title: Talk as a weapon
+  status: live
+  kind: mandate
+  summary: Write taunts, lies and accusations mid-exchange as moves aimed at breaking the opponent's read
+    or temper, show what each bought or cost in tempo, and keep gallows wit as the only joke.
+  verbatim: 'Talk as a weapon. Taunts, lies and accusations are moves: each line aims to break the read
+    or the temper, and the page shows what it bought or cost in tempo. Gallows wit stays the only joke.'
+  amends:
+  - guide: WOTR_Combat_Craft_Guide.md
+    locus: Talk inside the fight
+    operation: adds
+  - guide: Dialogue Craft Standards
+    locus: Talk under combat
+    operation: adds
+  supersedes: []
+  applies_to:
+  - combat
+  - dialogue
+  verification: []
+  ratified: 'Isaac, 2026-10-04, Claude Code chat: ruled directly (the combat questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: CW13. Gallows wit as the only joke inside the danger is already R70-116-COMEDY_BESIDE_DANGER's
+    line, and R5-D-HUMOUR_PERMITTED stands. R12-4-VOICE_THREE_OPPONENT (contempt as instruction) stands
+    beside it. R70-113-DOUBLE_ACT_COMIC_BEAT and R48-43-SPEECHES are unchanged.
+- id: R71-23-TELL_READ
+  pack: Combat Law 2026-10-04
+  pack_number: null
+  section: CW14
+  title: A tell shown twice, read at the third
+  status: live
+  kind: procedure
+  summary: Show a tell plainly at its first and second appearance and read it at length at the third,
+    and when the POV is Isaac's PC leave the reading to him.
+  verbatim: Shown twice, then read. The tell is shown plainly at its first and second appearance and read
+    at length at the third, matching NATALIE's two or three exchanges of evidence. When the POV is your
+    PC, the reading is yours.
+  amends:
+  - guide: WOTR_Combat_Craft_Guide.md
+    locus: The read
+    operation: extends
+  - guide: NATALIE.md and the wotr-write skill
+    locus: Table Rule 6 (the read is the game)
+    operation: extends
+  supersedes: []
+  applies_to:
+  - combat
+  - pov
+  - adjudication
+  verification: []
+  ratified: 'Isaac, 2026-10-04, Claude Code chat: ruled directly (the combat questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: 'CW14. Matches NATALIE''s two or three exchanges of evidence and R12-3-NAMED_INVENTOR_RULE''s
+    live read, which stands. Partly amends R12-8-COMBAT_GUIDE_READ_LENGTH: the read at length now comes
+    at the third appearance, the first two showing the tell plainly. The PC half restates R71-6-PLAYER_FIGHTER_PAGE
+    (''the read his'') and narrows R49-01-WHOSE_HEAD in a fight. R70-71-EXPLAINING_WORKING_MID_FIGHT and
+    R12-4-VOICE_ONE_POV stand.'
+- id: R71-24-ROWS_COME_OUT_LEVEL
+  pack: Combat Law 2026-10-04
+  pack_number: null
+  section: CW15
+  title: Level rows broken in Rule 5's order
+  status: live
+  kind: procedure
+  summary: When the stats that decide an exchange come out level, let the read decide first, then what
+    each fighter has left to spend, then the ground, and have the notes name the step that broke the tie.
+  verbatim: Rule 5's order, step by step. The read decides first, then what each has left to spend, then
+    the ground; the notes name the step that broke the tie, as a Domain clash names its step. Every level
+    exchange reconstructs.
+  amends:
+  - guide: WOTR_Combat_Craft_Guide.md
+    locus: Table Rule 5 (ties)
+    operation: adds
+  - guide: NATALIE.md and the wotr-write skill
+    locus: Table Rule 5 (adjudication)
+    operation: extends
+  supersedes: []
+  applies_to:
+  - adjudication
+  - combat
+  - stats
+  verification: []
+  ratified: 'Isaac, 2026-10-04, Claude Code chat: ruled directly (the combat questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: 'CW15 (digest). Follows Table Rule 5''s own order after the Stage gap (the read, what has been
+    spent, the environment), with R14-3-STATS_DECIDE_TABLE naming the stat at each step: Gnosis for the
+    read, the reserve on R60-03-HARD_RESERVE_CLOCK, the ground on R71-19-GROUND_WEATHER_FIGHT''s environment
+    row. The step is named as a Domain clash names its step (R71-46-DOMAIN_CLASH_PAGE). Every level exchange
+    stays reconstructible (R13-8-RECONSTRUCTIBLE_ADJUDICATION, R14-3-TRACEABILITY), and no figure is invented
+    to break a tie (R12-5-NEVER_INVENT_NUMBER).'
+- id: R71-25-WOUNDS_CARRIED_INTO_NEXT
+  pack: Combat Law 2026-10-04
+  pack_number: null
+  section: CW16
+  title: A carried wound limits the anatomy, not the stat
+  status: live
+  kind: mandate
+  summary: When a fighter brings a Ledger wound into a new fight, move no Grade and let the wound's structure
+    decide what the body can do, checked by the gap-fill body audit and named in the notes.
+  verbatim: The anatomy, not the stat. No Grade moves. The wound's structure decides what the body can
+    do (a stitched forearm cannot hold a hard bind, a cracked rib cannot take a deep breath), checked
+    by the gap-fill body audit and named in the notes.
+  amends:
+  - guide: WOTR_Combat_Craft_Guide.md
+    locus: Wounds carried forward
+    operation: adds
+  supersedes: []
+  applies_to:
+  - combat
+  - adjudication
+  - stats
+  - session-protocol
+  verification: []
+  ratified: 'Isaac, 2026-10-04, Claude Code chat: ruled directly (the combat questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: CW16 (digest); a Grade off and the open-then-knit states were not taken, so Starvation's Grade
+    drop is not borrowed for wounds. The body audit is item 5 of R13-5-GAP_FILL_PASS (fatigue carried
+    forward, the cut leg still cut), now reaching wounds from earlier fights. Healing time stays R60-02-REAL_HEALING_TIMES.
+    R12-5-NEVER_INVENT_NUMBER and R14-3-STATS_DECIDE_TABLE stand.
+- id: R71-26-COUNTING_ROUNDS_VIALS_CHARGES
+  pack: Combat Law 2026-10-04
+  pack_number: null
+  section: CW17
+  title: Objects counted as the POV counts
+  status: live
+  kind: mandate
+  summary: Let the page keep count of rounds, vials and charges exactly as the POV does, a trained hand's
+    count kept and a panicked or untrained man's lost, while stats and the reserve stay under R70-88.
+  verbatim: 'Counted as the POV counts. A trained hand keeps his count and the page keeps it with him;
+    a panicked or untrained man loses count and the reader with him. Objects only: stats and the reserve
+    stay under R70-88.'
+  amends:
+  - guide: WOTR_Combat_Craft_Guide.md
+    locus: Counting in a fight
+    operation: adds
+  - guide: WOTR_Item_and_Equipment_Writing_Guide.md
+    locus: Firearms and consumables
+    operation: adds
+  supersedes: []
+  applies_to:
+  - combat
+  - items
+  - pov
+  - prose-law
+  verification: []
+  ratified: 'Isaac, 2026-10-04, Claude Code chat: ruled directly (the combat questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: 'CW17 (digest). Objects only: R70-88-NUMBERS_INSIDE_FIGHT, written for stats and the reserve,
+    is untouched and still bars running figures for them. Paid rounds stay R45-5-PAID_PER_SHOT_AND_FINDABLE''s;
+    R11-5-COMBAT_GUIDE_RANGE_OPENING is unchanged. R71-58-ONE_SHOT_PRACTITIONER (FT8) counts rounds by
+    this row, and R71-73-PREPARED_LIVE_FIGHT''s bandolier meets it too.'

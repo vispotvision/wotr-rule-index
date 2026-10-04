@@ -325,6 +325,10 @@ rules:
       lines, such as verse traded in talk under R70-110-VERSE_EXCHANGED_TALK)
       out of its rhythm statistics and word count, so the checker does not
       count those lines toward a run.
+      Partly amended by R71-11-RUNNING_FAST (combat law 2026-10-04): once per
+      fight, in its swift stretch, one short paragraph of short, even
+      sentences is exempt from the run rule, and the notes mark it;
+      R70-19-PAIRED_CUMULATIVE_SENTENCES's set-piece licence is unchanged.
 
   - id: R4-14-CHAIN_CEILING
     pack: Pack Four

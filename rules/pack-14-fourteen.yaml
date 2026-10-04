@@ -105,6 +105,15 @@ rules:
       The ten-row question-to-stat table itself is treated as reference
       data, not extracted row by row, consistent with how the Pack Sixteen
       conversion lexicon was handled.
+      Partly amended by R71-19-GROUND_WEATHER_FIGHT (combat law 2026-10-04):
+      the adjudication table gains an environment row (footing, light, cold,
+      wet and Aetheric Density bend named stats, and the author notes say
+      which); the ten rows stand. Extended by R71-96-WELL_AS_GROUND (combat
+      law 2026-10-04): the adjudication table (the Combat Craft Guide's §7,
+      per R14-8-COMBAT_GUIDE_ADJUDICATION) gains reach beside the draw-cost
+      row, and in a Well fight a gauge or a practitioner's feel names the
+      density rung before contact and every reach is written to it. The
+      existing rows stand.
 
   - id: R14-3-TRACEABILITY
     pack: Pack Fourteen

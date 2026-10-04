@@ -1,0 +1,843 @@
+- id: R71-27-SPOKEN_WORKING_EXCHANGE
+  pack: Combat Law 2026-10-04
+  pack_number: null
+  section: MC1
+  title: A spoken working's chain is cut into the exchange
+  status: live
+  kind: mandate
+  summary: When a practitioner speaks a working mid-fight, print its chain in pieces between the opponent's
+    moves, so each clause costs a step the opponent takes and the reader can count the race's price.
+  verbatim: Cut into the exchange. The chain is printed in pieces between the opponent's moves, so each
+    clause costs a step he takes. The Combat Guide gains the rule; the reader watches the race and can
+    count its price.
+  amends:
+  - guide: WOTR_Combat_Craft_Guide.md
+    locus: A spoken working in the exchange
+    operation: adds
+  supersedes: []
+  applies_to:
+  - combat
+  - magic-mechanism
+  - dialogue
+  - adjudication
+  verification: []
+  ratified: 'Isaac, 2026-10-04, Claude Code chat: ruled directly (the combat questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: 'MC1. ''The Combat Guide gains the rule'': owed to the Combat Craft Guide''s next edition (R71-102-WHERE_COMBAT_LAW_LANDS).
+    The chain''s time is paid in the opponent''s steps, so the tempo reconstructs under R13-8-RECONSTRUCTIBLE_ADJUDICATION,
+    inside R47-11-TIME_AND_ENERGY''s six-second turn. Works with R70-101-DECLARING_NAME_LINE_BEFORE (the
+    world does not wait while the words run). R20C-42-LAW_V_STAGE_GATE_REFRACTION (a medium below Stage
+    VII), R51-28-CHANT_PAGE and R50-26-CHANT_TONGUE (the chain in the speaker''s own language) and R13-4-COMBAT_FLOOR
+    stand. No older rule is reached.'
+- id: R71-28-DECIDES_CASTING_SPEED
+  pack: Combat Law 2026-10-04
+  pack_number: null
+  section: MC2
+  title: Alacrity decides a casting race; a filled Readiness figure overrides
+  status: live
+  kind: definition
+  summary: Decide every race between workings, or between a working and a blade, from a new Alacrity row
+    today, and where a technique card's Readiness figure has been filled, let that figure govern instead.
+  verbatim: Row now, cards override. The Alacrity row decides every race today; where you fill a card's
+    Readiness, that figure governs. Nothing waits on figures, and precision grows as cards are filled.
+  amends:
+  - guide: WOTR_Combat_Craft_Guide.md
+    locus: '§7, the adjudication table: a casting-race row'
+    operation: adds
+  - guide: WOTR_Ability_Technique_Design_Guide.md
+    locus: 'technique card format: a Readiness field'
+    operation: adds
+  supersedes: []
+  applies_to:
+  - adjudication
+  - combat
+  - stats
+  - magic-mechanism
+  - character-sheet
+  verification: []
+  ratified: 'Isaac, 2026-10-04, Claude Code chat: ruled directly (the combat questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: MC2. Ardency Alacrity is Fracture of Worlds' casting speed; the row needs no figure, so nothing
+    waits on one. A Readiness figure is set on a card, the way the Summon Register already
+    fills Readiness, and is never invented (R12-5-NEVER_INVENT_NUMBER); a card left blank falls back to
+    the row. Every race traces to the row or the card (R14-3-TRACEABILITY, R13-8-RECONSTRUCTIBLE_ADJUDICATION).
+    The Alacrity row joins the Combat Guide's §7 table; R14-3-STATS_DECIDE_TABLE and its rows stand. R47-11-TIME_AND_ENERGY's
+    six-second turn stands. No older rule is reached.
+- id: R71-29-OFTEN_ART_RELEASED
+  pack: Combat Law 2026-10-04
+  pack_number: null
+  section: MC3
+  title: An art may be released as often as the fight gives a beat
+  status: live
+  kind: budget
+  summary: An art's release call may be spoken as often as the fighter can afford the beat it costs, each
+    call buying its output, with no once-per-scene cap.
+  verbatim: As often as beats allow. R50-09 governs and R8-26 is marked superseded. Every call costs its
+    beat and buys its output, so a fighter may call his art again whenever he can afford the beat.
+  amends:
+  - guide: WOTR_Master_Style_Directive.md
+    locus: Pack Eight's one release per scene
+    operation: strikes
+  - guide: WOTR_Character_Naming_Guide.md
+    locus: 'the release: an art spoken once at release'
+    operation: replaces
+  supersedes:
+  - R8-26-ONE_RELEASE_PER_SCENE
+  applies_to:
+  - combat
+  - naming
+  - dialogue
+  - scene-structure
+  verification: []
+  ratified: 'Isaac, 2026-10-04, Claude Code chat: ruled directly (the combat questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: 'MC3; closes CONFLICTS C-159. ''R8-26 is marked superseded'': of the R8-26 rows only R8-26-ONE_RELEASE_PER_SCENE
+    counts releases, so it alone is superseded; R8-26-NO_SELF_TRANSLATION and R8-26-GLOSS_DEPENDENCE_FAILS
+    stand, and R8-26-NAME_NEVER_NARRATED and R8-26-GLOSS_NEVER_IN_PROSE were already superseded by R49-48-TECH_NAMES.
+    ''R50-09 governs'': R50-09-ONE_RELEASE stands as the release law. Partly amends R8-23-NAME_HIERARCHY:
+    ''An art is spoken once at release and thereafter assumed'' yields to a call repeated whenever the
+    beat can be afforded; techniques are still spoken at each use. R8-24-RELEASE_MECHANIC stands and is
+    the price (a beat for output). R20C-38-PACK_EIGHT_SECTION_TWO_ENTIRE was already superseded.'
+- id: R71-30-HELD_BACK_REVEAL
+  pack: Combat Law 2026-10-04
+  pack_number: null
+  section: MC4
+  title: 'A held reveal: the rule acts unexplained first and is told at the reveal'
+  status: live
+  kind: mandate
+  summary: A working's rule may act on the page before the fight without explanation, as evidence a reader
+    could catch, and be told by a voice only at the reveal, with the author notes listing each planted
+    sign.
+  verbatim: 'Shown before, told at reveal. This reopens R70-71 for held reveals: the rule may act earlier,
+    unexplained, as evidence a reader could catch, and a voice tells it at the reveal. The notes list
+    each planted sign.'
+  amends:
+  - guide: WOTR_Combat_Craft_Guide.md
+    locus: 'Explaining a working mid-fight: the held reveal'
+    operation: extends
+  supersedes: []
+  applies_to:
+  - combat
+  - magic-mechanism
+  - scene-structure
+  verification: []
+  ratified: 'Isaac, 2026-10-04, Claude Code chat: ruled directly (the combat questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: 'MC4. ''This reopens R70-71 for held reveals'': a partial amendment, not a supersession, since
+    the words limit the reopening to held reveals; R70-71-EXPLAINING_WORKING_MID_FIGHT still plants a
+    working''s rules beforehand everywhere else. The planted evidence is the foreshadowing R48-30-SURPRISES
+    asks for, so that row stands and is met. R12-4-VOICE_MIXING_RULE''s two-voice cap binds the telling
+    at the reveal; R12-3-NAMED_INVENTOR_RULE''s live read of a self-derived technique stands.'
+- id: R71-31-COUNTERS_DUEL_SCALE
+  pack: Combat Law 2026-10-04
+  pack_number: null
+  section: MC5
+  title: A soft Family counter chart above the card's hard Counter
+  status: live
+  kind: definition
+  summary: A chart derived from Codex physics says which conditions and Wellspring Families make each
+    Family's working cost more and deliver less, while each card's Counter field stays the hard answer;
+    the chart binds once ratified.
+  verbatim: Soft Family chart. A chart derived from Codex physics says which conditions and Families make
+    each Family's working cost more and deliver less; the card's Counter field stays the hard answer.
+    You ratify the chart.
+  amends:
+  - guide: WOTR_Combat_Craft_Guide.md
+    locus: 'Counters at duel scale: the Family chart'
+    operation: adds
+  supersedes: []
+  applies_to:
+  - combat
+  - adjudication
+  - magic-mechanism
+  - codex
+  verification: []
+  ratified: 'Isaac, 2026-10-04, Claude Code chat: ruled directly (the combat questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: 'MC5. The chart is owed: derived from Codex physics and ratified before it binds; until then
+    counters come from each card as now. The chart only raises a working''s price and lowers its delivery,
+    so more power can still pay through it; outright failure stays the card Counter''s to state (the hard
+    type-chart option was not taken). R17-3-COUNTER_MANDATORY stands as the hard answer, and the chart
+    builds on R47-9-INHERITED_FAILURES (a working inherits its Wellsprings'' failures). Chart entries
+    are written as facts (R47-3-COUNTERS_AS_FACTS). R12-3-NAMED_INVENTOR_RULE stands. No older rule is
+    reached.'
+- id: R71-32-VOWS_LIMITS
+  pack: Combat Law 2026-10-04
+  pack_number: null
+  section: MC6
+  title: A narrowing vow buys output through Attraction Force
+  status: live
+  kind: definition
+  summary: A practitioner may bind a technique with a vow that narrows it, raising its output through
+    Attraction Force by a figure set on that card; breaking the vow is a Shear Break, and the vow's terms
+    are its findable counter.
+  verbatim: Narrowing buys output. A vow that narrows a technique raises its output through Attraction
+    Force, by a figure you set on that card; breaking it is a Shear Break. The vow's terms are its findable
+    counter.
+  amends:
+  - guide: WOTR_Ability_Technique_Design_Guide.md
+    locus: 'technique card format: Limit and Counter (the vow)'
+    operation: adds
+  supersedes: []
+  applies_to:
+  - magic-design
+  - magic-mechanism
+  - stats
+  - character-sheet
+  verification: []
+  ratified: 'Isaac, 2026-10-04, Claude Code chat: ruled directly (the combat questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: MC6. The output figure is set card by card and never invented (R12-5-NEVER_INVENT_NUMBER); a
+    vow whose card carries no figure buys nothing yet. Attraction Force gives the narrowing the mechanical
+    source R17-3-LIMIT_MECHANICAL asks of a limit, so that row stands. Shear Break and Attraction Force
+    are canon's terms (the Counterplay page and Fracture of Worlds). The terms are a counter written as
+    fact (R47-3-COUNTERS_AS_FACTS). The disclosure option (telling the opponent as a binding) was not
+    taken, so R8-26-NO_SELF_TRANSLATION and R12-4-VOICE_THREE_OPPONENT stand unchanged. No older rule
+    is reached.
+- id: R71-33-DRAIN_SHOWS
+  pack: Combat Law 2026-10-04
+  pack_number: null
+  section: MC7
+  title: The drain shows in the body, in the waste and in the opponent's read
+  status: live
+  kind: mandate
+  summary: Between readout lines, show a falling reserve through a bank of body signs keyed by culture
+    to the Ledger's thresholds, through waste heat that grows as eta falls, and through the opponent's
+    read and his choice to make the spender spend.
+  verbatim: 'Yes to: The body, by threshold (A bank of body signs keyed to the Ledger''s lines, committed
+    spending and Starvation: cold hands, tin on the teeth, the slow grip. Logged by culture, so the nosebleed
+    stops carrying everything); The waste grows (As η (eta, efficiency) falls, the same work sheds more
+    heat, so the room shows the drain: the thawed ring widens, the air shakes harder. Canon''s own law,
+    written as a rule of the page); The opponent reads it (The drain is shown through the other fighter''s
+    read and his choice to make the spender spend. The Counterplay doctrine, on the page). Not taken:
+    By Family.'
+  amends:
+  - guide: WOTR_Combat_Craft_Guide.md
+    locus: '§7.1, the reserve clock: what reaches the page'
+    operation: extends
+  - guide: Standing Inventories, NATALIE.md and the wotr-write skill
+    locus: a bank of drain signs by culture
+    operation: adds
+  supersedes: []
+  applies_to:
+  - combat
+  - magic-mechanism
+  - prose-law
+  - stats
+  - standing-inventory
+  verification:
+  - 'verify: stale-device watch'
+  ratified: 'Isaac, 2026-10-04, Claude Code chat: ruled directly (the combat questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: 'MC7. The body bank is keyed to the Ledger''s lines (committed spending, Starvation below a tenth
+    of reserve) and logged by culture in each Standing Inventory, so the overdraw nosebleed stops carrying
+    every scene; R71-103-COMBAT_CHECKS_VERIFY_SCENE''s stale-device watch warns on it past one
+    a scene. The waste option writes R47-8-WASTE_IS_HEAT and the Combat Guide''s §7.1 Starvation row (''brighter
+    for the same work, sheds more, delivers less'') as a rule of the page. The opponent''s read is the
+    Counterplay doctrine. R60-03-HARD_RESERVE_CLOCK, R70-88-NUMBERS_INSIDE_FIGHT (no running figures),
+    R70-85-SCENE_MOMENTS_THAT_EARN, R70-89-BODY_FIRST_NUMBER_FIRST and R48-37-COST_SHOWN stand; these
+    signs carry the clock between readout lines. ''Not taken: By Family'': no per-Family drain sign. No
+    older rule is reached.'
+- id: R71-34-OVERCHANNEL_PAGE
+  pack: Combat Law 2026-10-04
+  pack_number: null
+  section: MC8
+  title: Overchannel damage is felt in the exchange and measured after
+  status: live
+  kind: mandate
+  summary: When a practitioner Overchannels, show the crack in the exchange through the Crystal's inner
+    map and a body symptom, leave its size to a surgeon or an instrument afterward, and enter it on the
+    Ledger only once measured.
+  verbatim: Felt now, measured after. The crack is felt in the exchange, inner map and body symptom; its
+    size comes later from a surgeon or an instrument, and the Ledger enters it when measured.
+  amends:
+  - guide: WOTR_Combat_Craft_Guide.md
+    locus: '§7, the Overflow and Overchannel row: the crack on the page'
+    operation: extends
+  supersedes: []
+  applies_to:
+  - combat
+  - magic-mechanism
+  - stats
+  - session-protocol
+  verification: []
+  ratified: 'Isaac, 2026-10-04, Claude Code chat: ruled directly (the combat questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: 'MC8. Partly amends R70-89-BODY_FIRST_NUMBER_FIRST for this cost: the body and the inner map
+    come in the exchange, but no figure for the crack follows in the same beat; its size waits for a surgeon
+    or an instrument. The inner map is R70-68-INSIDE_PRACTICE''s walk through the Crystal; the body symptom
+    is R48-37-COST_SHOWN. R55-2-OVERCHANNEL_DAMAGE_ACCUMULATES and R55-1-SUBSTANCE_COSTS_PERMANENT stand
+    and set what the Ledger enters once the crack is measured.'
+- id: R71-35-SECOND_WIND
+  pack: Combat Law 2026-10-04
+  pack_number: null
+  section: MC9
+  title: Crisis Recovery may decide a fight only if its trigger was planted
+  status: live
+  kind: mandate
+  summary: Crisis Recovery, the Crystal's surge in a crisis, may land at the deciding exchange only when
+    its trigger was planted earlier where a reader could catch it, its price goes on the Ledger, and it
+    stays rare.
+  verbatim: Decides, if planted. It may land at the deciding exchange only when its trigger was set up
+    earlier on the page where a reader could catch it, and its price goes on the Ledger. Rare by rule.
+  amends:
+  - guide: WOTR_Combat_Craft_Guide.md
+    locus: '§7.1, the reserve clock: Crisis Recovery'
+    operation: extends
+  supersedes: []
+  applies_to:
+  - combat
+  - adjudication
+  - stats
+  - magic-mechanism
+  verification: []
+  ratified: 'Isaac, 2026-10-04, Claude Code chat: ruled directly (the combat questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: 'MC9. The planted trigger is the foreshadowing R48-30-SURPRISES asks for and keeps the outcome
+    reconstructible (R13-8-RECONSTRUCTIBLE_ADJUDICATION). The triggers stay canon''s: Fracture of Worlds
+    has the surge come from a soul-cost event, a Threshold completion or a genuine emotional breakthrough
+    during combat, and it cannot be manufactured. It may turn a fight without a Stage breakthrough (the
+    breakthrough-only option was not taken); R70-91-BREAKTHROUGH_PAGE stands for breakthroughs. R60-03-HARD_RESERVE_CLOCK
+    stands, with the surge''s price on the Ledger. R2-6-REPLENISHMENT_RULE is not named and stands: the
+    surge is the Crystal''s own, and no consumable, technique or item refills a practitioner. The Combat
+    Guide''s §7.1 reserve rows owe a line for it. No older rule is reached.'
+- id: R71-36-HEALING_INSIDE_FIGHT
+  pack: Combat Law 2026-10-04
+  pack_number: null
+  section: MC10
+  title: Mid-fight Vitalia may stop a bleed, never mend the wound
+  status: live
+  kind: mandate
+  summary: While a fight runs, a Vitalia working may only close a vessel or seal a bleed, at full price,
+    and the wound itself stays open until the fight ends.
+  verbatim: Stop the bleeding only. Mid-fight Vitalia may close a vessel or seal a bleed, at full price;
+    the wound itself stays open until the fight ends. §7.1 gains the row.
+  amends:
+  - guide: WOTR_Combat_Craft_Guide.md
+    locus: '§7.1, Mending: the mid-fight row'
+    operation: adds
+  supersedes: []
+  applies_to:
+  - combat
+  - adjudication
+  - magic-mechanism
+  verification: []
+  ratified: 'Isaac, 2026-10-04, Claude Code chat: ruled directly (the combat questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: 'MC10. ''§7.1 gains the row'': the Combat Craft Guide''s §7.1 Mending table. Partly amends R60-02-REAL_HEALING_TIMES:
+    while the fight runs, Vitalia may stop a wound''s bleeding but may not shorten its healing; after
+    the fight R60-02 governs as written. ''At full price'' is R47-11-TIME_AND_ENERGY''s ''Healing and
+    mending always cost more than breaking'', which stands. R60-01-BRUTAL_LETHALITY and R48-34-WOUNDS
+    stand: the open wound keeps its clinical floor.'
+- id: R71-37-TRAITS_THEY_FIRE
+  pack: Combat Law 2026-10-04
+  pack_number: null
+  section: MC11
+  title: A held Trait is named the first time it fires in a scene
+  status: live
+  kind: mandate
+  summary: When a Trait a character already holds fires in a fight, narration names it the first time
+    it fires in that scene and then shows it working.
+  verbatim: Named at first fire. Narration names the Trait the first time it fires in a scene, then shows
+    it working. The reader holds the name the way he holds a technique's.
+  amends:
+  - guide: WOTR_Combat_Craft_Guide.md
+    locus: Traits in a fight
+    operation: adds
+  supersedes: []
+  applies_to:
+  - combat
+  - prose-law
+  - stats
+  verification: []
+  ratified: 'Isaac, 2026-10-04, Claude Code chat: ruled directly (the combat questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: 'MC11. Narration names the Trait, so the option naming it only in a mouth inside the two-voice
+    cap was not taken; R12-4-VOICE_MIXING_RULE stands for explaining. Rests on R49-48-TECH_NAMES and R49-47-STAT_WORDS,
+    which free such names in narration; both stand. The name is not a readout: R70-84-GROWTH_MOMENTS_THAT_EARN
+    keeps its readout for a new Trait as it registers. After the first firing the Trait shows as behaviour.
+    No older rule is reached.'
+- id: R71-38-RESONANT_PAIR_UNDER_STRAIN
+  pack: Combat Law 2026-10-04
+  pack_number: null
+  section: MC12
+  title: Strain may switch on a Resonant Pair for the crisis only
+  status: live
+  kind: definition
+  summary: Where a Sub-Stat sits at its Stage's cap, strain in a fight may lift it level with its partner
+    so their Resonant Pair runs for the crisis and then lapses, with the author notes naming the strain.
+  verbatim: For the crisis only. Where a Sub-Stat sits at its Stage's cap, strain may lift it level with
+    its partner, and the Pair runs for the crisis, then goes. The notes name the strain.
+  amends:
+  - guide: WOTR_Combat_Craft_Guide.md
+    locus: '§7, reading the card: R39-4''s instability zone and Resonant Pairs'
+    operation: extends
+  supersedes: []
+  applies_to:
+  - stats
+  - combat
+  - adjudication
+  verification: []
+  ratified: 'Isaac, 2026-10-04, Claude Code chat: ruled directly (the combat questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: MC12. Runs on R39-4-MAX_GRADE_LETTER_BINDS's strain-only zone above the Max Grade bracket, which
+    stands. The Pair goes when the crisis does, so nothing joins the card; the option keeping it as growth
+    was not taken, so R70-90-FAST_NUMBERS_CLIMB and R70-84-GROWTH_MOMENTS_THAT_EARN stand and no growth
+    line follows. The strain the notes name is the shown cause. R20C-33-RESONANT_PAIRS_DIAGNOSTIC stands
+    for naming the Pair in diagnostic voice; R70-91-BREAKTHROUGH_PAGE is not reached. No older rule is
+    reached.
+- id: R71-39-ALLIES_WORKING_TOGETHER
+  pack: Combat Law 2026-10-04
+  pack_number: null
+  section: MC13
+  title: Allies chain; only a carded Synergia technique fuses
+  status: live
+  kind: mandate
+  summary: Allies in a fight chain their workings by default, and two may fuse only through a carded Synergia
+    technique they learned together, with its own cost split and counter; improvised fusion is barred.
+  verbatim: Drilled forms, carded. Allies chain by default; a fusion exists only as a carded Synergia
+    technique the pair learned together, with its own cost split and counter. No improvised fusion.
+  amends:
+  - guide: WOTR_Ability_Technique_Design_Guide.md
+    locus: 'Synergia techniques: the shared card (cost split and counter)'
+    operation: adds
+  - guide: WOTR_Combat_Craft_Guide.md
+    locus: Allies working together
+    operation: adds
+  supersedes: []
+  applies_to:
+  - combat
+  - magic-design
+  - magic-mechanism
+  - character-sheet
+  verification: []
+  ratified: 'Isaac, 2026-10-04, Claude Code chat: ruled directly (the combat questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: MC13. A Synergia card carries a counter as R17-3-COUNTER_MANDATORY asks, and its cost split is
+    set, never invented (R12-5-NEVER_INVENT_NUMBER); canon's Lexicon still requires Attraction Layer compatibility
+    for Synergia. Chained area workings still spare allies only while attention holds (R55-8-AREA_FRIEND_FOE_BY_ATTENTION,
+    which stands). The live-fusion and choirs-only options were not taken; R20C-41-CHANTCRAFT_FIFTH_CRAFT
+    is not reached. The fused technique is named under the naming law (R70-74-TECHNIQUE_NAME_LOOKS stands).
+    R48-35-USES stands. No older rule is reached.
+- id: R71-40-MECHANISM_AIMED_PRESSURE
+  pack: Combat Law 2026-10-04
+  pack_number: null
+  section: MC14
+  title: Aimed Pressure is the Passive Pressure Field narrowed onto one man
+  status: live
+  kind: definition
+  summary: Killing intent works by Dominion drawing the Passive Pressure Field onto one man, so what he
+    takes the room loses and the room eases as he suffers, with the trade's figures set from Dominion.
+  verbatim: The field narrowed. Dominion draws the Passive Pressure Field onto one man; what he takes,
+    the room loses, so the room eases as he suffers. The trade's figures come from Dominion, set by you.
+  amends:
+  - guide: WOTR_Combat_Craft_Guide.md
+    locus: §6.2 killing intent and §7's killing-intent row
+    operation: extends
+  - guide: WOTR_Combat_Craft_Guide.md
+    locus: 'Appendix A: the killing-intent mechanism owed'
+    operation: strikes
+  supersedes: []
+  applies_to:
+  - magic-mechanism
+  - combat
+  - adjudication
+  - stats
+  verification: []
+  ratified: 'Isaac, 2026-10-04, Claude Code chat: ruled directly (the combat questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: MC14. Supplies the mechanism R70-70-INTENT_FELT_BODY owed ('It needs a ruled mechanism before
+    first use'), so aimed Pressure may now reach the page; R70-70's felt signs (cold, sweat, the pull
+    to step back) and its answer, suppression, stand. Runs on R56-12-AUTHORITY_RADIUS_IS_PPF's Passive
+    Pressure Field, which stands. The room still shows it first, as R70-69-PRESSURE_AURA asks, by easing
+    as the chosen man suffers. The trade's figures come from Dominion and are set, never invented (R12-5-NEVER_INVENT_NUMBER);
+    the narrowing is read off Dominion as R14-3-STATS_DECIDE_TABLE's Pressure row reads it. The Combat
+    Guide's Appendix A item for this mechanism is closed.
+- id: R71-41-PRESSURE_UNWOKEN
+  pack: Combat Law 2026-10-04
+  pack_number: null
+  section: MC15
+  title: Pressure on the unwoken follows the Aura table by Grade
+  status: live
+  kind: definition
+  summary: Pressure between practitioners keeps the Stage-gap ladder, while a person with no Stage takes
+    Fracture of Worlds Part Eleven's Aura table by Grade (dread from F to D, weight in the room from C,
+    knees bending from A), with no new figures.
+  verbatim: 'The Aura table, by Grade. Practitioner against practitioner keeps the Stage ladder; the unwoken
+    take Part Eleven''s Grade table: dread from F to D, weight in the room from C, knees bending from
+    A. No new figures.'
+  amends:
+  - guide: NATALIE.md and the wotr-write skill
+    locus: 'The Magic Frame: Pressure'
+    operation: extends
+  - guide: WOTR_Combat_Craft_Guide.md
+    locus: '§7: whose presence bends the room'
+    operation: extends
+  supersedes: []
+  applies_to:
+  - magic-mechanism
+  - adjudication
+  - stats
+  - worldbuilding
+  - combat
+  verification: []
+  ratified: 'Isaac, 2026-10-04, Claude Code chat: ruled directly (the combat questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: 'MC15; closes CONFLICTS C-124. NATALIE''s Stage ladder (''One Stage up bends attention; two,
+    sweat and nausea; three or more drops people'') stands between practitioners. Partly amends R53-14-FOLK_KNOWLEDGE:
+    ''Pressure is felt as dread'' holds for the unwoken from F to D, and from C up the Aura table adds
+    weight in the room and, from A, bending knees; the folk words and the rest of that row stand. R70-69-PRESSURE_AURA
+    (the room first) and R70-79-CAN_READ_WHOM (commoners'' awe) stand. ''No new figures'': the Grade bands
+    are Part Eleven''s own (R12-5-NEVER_INVENT_NUMBER); R14-3-STATS_DECIDE_TABLE stands.'
+- id: R71-42-TWO_PRESSURES_ONE_ROOM
+  pack: Combat Law 2026-10-04
+  pack_number: null
+  section: MC16
+  title: Two Pressures contest the room by Dominion
+  status: live
+  kind: definition
+  summary: 'When two practitioners of the same Stage bring their Pressure into one room, the Pressures
+    contest it by Dominion before steel: the room shows the border moving, bystanders take both, and the
+    loser begins the fight already paying.'
+  verbatim: A contest for the room. Meeting Pressures fight for the room by Dominion before steel; the
+    room shows the border moving, bystanders take both, and the loser begins the fight already paying.
+    §7 gains the row.
+  amends:
+  - guide: WOTR_Combat_Craft_Guide.md
+    locus: '§7: the Pressure-contest row'
+    operation: adds
+  supersedes: []
+  applies_to:
+  - magic-mechanism
+  - combat
+  - adjudication
+  - stats
+  verification: []
+  ratified: 'Isaac, 2026-10-04, Claude Code chat: ruled directly (the combat questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: 'MC16. ''§7 gains the row'': the contest is read off Dominion, so it reconstructs under R14-3-STATS_DECIDE_TABLE;
+    where the Stages differ, §7''s first row still reads the Stage gap first. The field contested is R56-12-AUTHORITY_RADIUS_IS_PPF''s.
+    The moving border shows in the room first (R70-69-PRESSURE_AURA). Bystanders with no Stage take both
+    weights by R71-41-PRESSURE_UNWOKEN''s Aura table; R53-14-FOLK_KNOWLEDGE''s folk words stand. Any figure
+    for the loser''s opening cost is set, never invented (R12-5-NEVER_INVENT_NUMBER). No older rule is
+    reached.'
+- id: R71-43-SUPPRESSION_PAGE
+  pack: Combat Law 2026-10-04
+  pack_number: null
+  section: MC17
+  title: Suppression costs the body, leaks into the room and shows on instruments
+  status: live
+  kind: mandate
+  summary: A practitioner holding his Pressure in pays in named places of his body (jaw, collar, temper)
+    at a cost that grows with the approach, leaks faintly into the room for a sharp eye or good Gnosis
+    to catch, and leaves a sag on a gauge or coil.
+  verbatim: 'Yes to: The cost in his body (Holding it in tires him in named places, jaw, collar, temper,
+    and the cost grows with the approach. The Combat Guide gains a bank of signs by culture); Small leaks
+    in the room (R70-69 at its faintest: the draw-hum dips and a dog lies down as he passes. A sharp-eyed
+    reader, or a POV with good Gnosis, can catch a suppressed man); Instruments catch it (A gauge or coil
+    reads what eyes miss; the Board''s clerks and the Measurewrights can find a suppressed man by the
+    sag he leaves on a needle).'
+  amends:
+  - guide: WOTR_Combat_Craft_Guide.md
+    locus: '§6.2 Pressure: suppression, with a bank of signs by culture'
+    operation: adds
+  supersedes: []
+  applies_to:
+  - magic-mechanism
+  - combat
+  - pov
+  - worldbuilding
+  verification: []
+  ratified: 'Isaac, 2026-10-04, Claude Code chat: ruled directly (the combat questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: MC17. The room's leak is R70-69-PRESSURE_AURA at its faintest (the draw-hum dips, a dog lies
+    down); R70-69 stands. A POV with good Gnosis catching a suppressed man is R70-79-CAN_READ_WHOM's sense
+    of rank, and the needle's sag is that row's instrument; it stands. R70-70-INTENT_FELT_BODY's 'answered
+    by suppression' now has its cost. R9-3-EYES_AS_TELL stands for the moment suppression drops. Canon's
+    'suppression is a skill and it is tiring' (the Counterplay page) and NATALIE's 'Suppression is a tiring
+    skill' are the ground. No older rule is reached.
+- id: R71-44-FACULTY_READ_MAN
+  pack: Combat Law 2026-10-04
+  pack_number: null
+  section: MC18
+  title: A faculty prints exact figures unless the target's Ward outranks it
+  status: live
+  kind: definition
+  summary: A practitioner's faculty prints an opponent's exact figures when his Gnosis Perception outranks
+    the target's Resilience Ward by Grade, and only a hedged range when it does not, Ward being the counter.
+  verbatim: Exact unless warded. A faculty prints exact figures where the reader's Gnosis Perception outranks
+    the target's Resilience Ward by Grade, and a hedged range where it does not. §7 gains the row; Ward
+    is the counter.
+  amends:
+  - guide: WOTR_Combat_Craft_Guide.md
+    locus: '§7: the faculty-read row; §6.1 ''Whose figures a fighter can see'''
+    operation: adds
+  supersedes: []
+  applies_to:
+  - stats
+  - adjudication
+  - combat
+  - pov
+  verification: []
+  ratified: 'Isaac, 2026-10-04, Claude Code chat: ruled directly (the combat questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: 'MC18. Settles what R70-85-SCENE_MOMENTS_THAT_EARN left flagged (whether a faculty appraisal
+    may print exact figures). Partly amends R70-79-CAN_READ_WHOM: ''Another''s exact figures need an instrument''
+    now admits a faculty whose Gnosis Perception outranks the target''s Resilience Ward by Grade; the
+    rest of R70-79 stands. R70-78-WHERE_SCREEN_COMES_FROM stands: the bearer''s own Crystal stays blind
+    to others, and the faculty is a Gnosis sense, not that line. The hedged range is R70-99-NUMBER_NOT_YET_CANON''s
+    hedge. The line is a readout at R70-85''s appraisal moment, so R70-88-NUMBERS_INSIDE_FIGHT (no running
+    figures) and R70-89-BODY_FIRST_NUMBER_FIRST still govern where it sits.'
+- id: R71-45-RAISING_DOMAIN_DUEL
+  pack: Combat Law 2026-10-04
+  pack_number: null
+  section: MC19
+  title: A Domain rises by attention, and from Stage XI is held in and let go
+  status: live
+  kind: definition
+  summary: In a duel a Domain below Stage XI rises over turns by the holder's attention, unnamed, at a
+    cost the notes track, as his display beat; from Stage XI, where canon has it leak, suppression holds
+    it in and the holder lets it go in a beat.
+  verbatim: 'Attention, then held in. Below Stage XI it rises by attention as in A. From Stage XI, where
+    canon has it leak, suppression holds it in and the holder lets it go in a beat. Originated; you rule
+    it. (Option A there reads: Raised by attention. Part Twenty-Two read plainly: the holder concentrates
+    and the Domain comes up over turns, unnamed, at a cost the notes track. Its rising joins R9-3-SCOPE''s
+    triggers as his display beat.)'
+  amends:
+  - guide: WOTR_Combat_Craft_Guide.md
+    locus: '§6.2, the display beat: a Domain in a duel'
+    operation: adds
+  - guide: WOTR_Visual_Aesthetic_Guide.md
+    locus: 'Section 4a: the display triggers'
+    operation: extends
+  supersedes: []
+  applies_to:
+  - combat
+  - magic-mechanism
+  - prose-law
+  verification: []
+  ratified: 'Isaac, 2026-10-04, Claude Code chat: ruled directly (the combat questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: 'MC19. ''Originated; you rule it'': the Stage XI half is new canon, ratified by this answer.
+    ''As in A'' adopts Option A below Stage XI, quoted in the verbatim, including ''Its rising joins R9-3-SCOPE''s
+    triggers as his display beat''; this index reads the let-go from Stage XI as that same rising, so it is his
+    display beat too. Partly amends R9-3-SCOPE: a Domain''s rising joins its list of triggers. R70-73-MANY_DISPLAY_BEATS_PER
+    stands: the rising is the holder''s one display beat. Fracture of Worlds Part Twenty-Two stands (''Domains
+    are not techniques''; held at continuous cost from Stage VIII; leaking from Stage XI), and the named-and-cast
+    option was not taken. The holding is suppression, as in R71-43-SUPPRESSION_PAGE. R2-6-DOMAINS_BREAK_NOT_KILL
+    (formations), R70-69-PRESSURE_AURA and R13-6-ANIME_GRAMMAR_TRANSLATION_AID stand.'
+- id: R71-46-DOMAIN_CLASH_PAGE
+  pack: Combat Law 2026-10-04
+  pack_number: null
+  section: MC20
+  title: A Domain clash shows as a moving border, its deciding step named once
+  status: live
+  kind: mandate
+  summary: When two Domains meet in a duel, show the seam between the two laws in the room and let it
+    move, have one voice name the deciding step once, and pace the clash like an exchange so it reconstructs.
+  verbatim: The moving border. The seam between two laws shows in the room and moves; one voice names
+    the deciding step once. Reconstructible, and paced like an exchange.
+  amends:
+  - guide: WOTR_Combat_Craft_Guide.md
+    locus: '§6.2: a Domain clash'
+    operation: adds
+  supersedes: []
+  applies_to:
+  - combat
+  - magic-mechanism
+  - adjudication
+  - prose-law
+  verification: []
+  ratified: 'Isaac, 2026-10-04, Claude Code chat: ruled directly (the combat questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: MC20. The deciding step is one of Fracture of Worlds Part Twenty-Two's ordered steps (the Stage
+    gap; Dominion Sovereignty and Gravity; Wellspring compatibility; Tempering Coherence and Maturity
+    as the tiebreak), named once by one voice inside R12-4-VOICE_MIXING_RULE's cap, and the notes still
+    cite it (R14-3-TRACEABILITY). Reconstructible under R13-8-RECONSTRUCTIBLE_ADJUDICATION. R70-57-DESCRIPTION_INSIDE_FIGHT's
+    held instant still comes at the deciding moment. R71-24-ROWS_COME_OUT_LEVEL names the step that breaks
+    a level exchange the same way. No older rule is reached.
+- id: R71-47-SHOWING_SCALE
+  pack: Combat Law 2026-10-04
+  pack_number: null
+  section: MC21
+  title: 'Scale in a city fight: a street dip, the aftermath walk and the claims'
+  status: live
+  kind: mandate
+  summary: When top-ladder practitioners fight in a city, carry the scale by one marked dip into a commoner's
+    head in the street before the lock resumes, by walking the ruined ground afterward, and by entering
+    lives and property on the Ledger as claims settled in a later scene at the Accord's schedule.
+  verbatim: 'Yes to: One street beat (At a marked break, one commoner in the street gets a short dip inside
+    her head, then the lock resumes. Scale seen from the ditch, by R70-11''s device); The aftermath walk
+    (The scale is shown after, walking the ground (R57-24). The fight stays tight; the ruin tells the
+    size); The claims come in (Lives and property go on the Ledger as claims, settled in a later scene
+    at the Accord''s schedule, as R54-15 lets a later scene pay an aftermath. WT10 asks the fighter''s
+    own bill). Not taken: A report sizes it.'
+  amends:
+  - guide: WOTR_Combat_Craft_Guide.md
+    locus: Scale in a city fight
+    operation: adds
+  - guide: NATALIE.md and the wotr-write skill
+    locus: POV and interiority
+    operation: extends
+  supersedes: []
+  applies_to:
+  - combat
+  - pov
+  - scene-structure
+  - session-protocol
+  verification: []
+  ratified: 'Isaac, 2026-10-04, Claude Code chat: ruled directly (the combat questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: 'MC21. The street dip borrows R70-11-WIDE_VIEW''s marked device for a fight that is not a battle,
+    so it partly amends R70-11-WIDE_VIEW and, through it, R39-7-NO_NPC_THOUGHT_UNDER_POV_LOCK and R48-40-NPC_THOUGHTS,
+    which gain this as a second exception to the lock: one commoner, one short dip, at a marked break.
+    The aftermath walk is R57-24-AFTERMATH_IS_THE_TELL. The claims follow R54-15-AFTERMATH_PAID_LATER''s
+    precedent of a later scene paying an aftermath; R54-15 stands. The fighter''s own bill is R71-99-BILL_AFTER_FIGHT
+    (WT10). ''Not taken: A report sizes it'': the report device was not chosen; R13-6-SCALING_VOCAB_RESTRICTED
+    stands, and R13-A (ruled 2026-09-12) is not reached. R70-69-PRESSURE_AURA stands.'
+- id: R71-48-WASTE_LIGHT_OUTSIDE_DISPLAY
+  pack: Combat Law 2026-10-04
+  pack_number: null
+  section: MC22
+  title: Waste light is incandescent, by the smith's colour scale
+  status: live
+  kind: mandate
+  summary: Outside a display beat, write a working's waste light by the smith's colour scale (dull red,
+    orange, white) and by what it lights, with brightness tracking eta so masters work darker, and never
+    use the word glow.
+  verbatim: Incandescent, by physics. Waste light is written by the smith's colour scale, dull red to
+    orange to white, and by what it lights; brightness tracks η, so masters work darker. The word glow
+    stays banned.
+  amends:
+  - guide: WOTR_Visual_Aesthetic_Guide.md
+    locus: 'Section 4a: waste light outside the display beat'
+    operation: extends
+  supersedes: []
+  applies_to:
+  - prose-law
+  - magic-mechanism
+  - combat
+  verification: []
+  ratified: 'Isaac, 2026-10-04, Claude Code chat: ruled directly (the combat questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: 'MC22. Writes R47-8-WASTE_IS_HEAT''s waste as light a reader can see: the colour scale is real
+    incandescence (iron shows dull red from about 525 degrees Celsius, the Draper point), and brightness
+    falls as eta rises; R47-8 stands. R9-3-AURA_AS_FRACTURE stands for the display beat (broken geometry);
+    ''The word glow stays banned'' carries its glow ban to waste light outside the display beat. The phenomenon
+    is named as R13-3-PHENOMENON_MANDATE asks. R70-69-PRESSURE_AURA is not reached. No verify_scene check
+    catches glow yet. No older rule is reached.'
+- id: R71-49-SUMMON_DISPLAY_BEAT
+  pack: Combat Law 2026-10-04
+  pack_number: null
+  section: MC23
+  title: A Native summon takes its own display beat
+  status: live
+  kind: budget
+  summary: A Native summon, having its own Crystal, takes a display beat of its own, while Donated and
+    Analog forms share their summoner's beat, provenance deciding.
+  verbatim: Native summons earn one. A Native summon, with its own Crystal, takes its own display beat;
+    Donated and Analog forms share the summoner's. Provenance decides, as the Register's doctrine says.
+  amends:
+  - guide: WOTR_Visual_Aesthetic_Guide.md
+    locus: 'Section 4a: the splash-panel beat cap'
+    operation: extends
+  - guide: WOTR_Combat_Craft_Guide.md
+    locus: '§6.2, the display beat: summons'
+    operation: adds
+  supersedes: []
+  applies_to:
+  - prose-law
+  - combat
+  - magic-mechanism
+  verification: []
+  ratified: 'Isaac, 2026-10-04, Claude Code chat: ruled directly (the combat questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: 'MC23. Partly amends R70-73-MANY_DISPLAY_BEATS_PER: beside one beat per named practitioner, a
+    Native summon takes its own, and a Donated or Analog form spends its summoner''s. ''The Register''s
+    doctrine'' is the Summon Register''s sorting by Crystal Provenance (a Native summon has its own Crystal
+    and is Graded as a person is; a Donated construct is a piece of its summoner''s Core on a tether).
+    R10-3-PROJECTED_FORM_LICENSE and R10-3-CRAFT_DURABILITY_TABLE are not reached and stand. R48-35-USES
+    stands.'
+- id: R71-50-SHOT_MEETS_WORKED_CUIRASS
+  pack: Combat Law 2026-10-04
+  pack_number: null
+  section: MC24
+  title: Each inscription stops shot its own way and leaves its own mark
+  status: live
+  kind: mandate
+  summary: When a worked cuirass stops a ball, show the stop the way its inscription works and leave that
+    inscription's own mark from the Combat Guide's §4.6, so the shooter can read which working he faces
+    and which round to bring next.
+  verbatim: By inscription, read on plate. Each inscription stops shot its own way and leaves its own
+    mark from §4.6, so the shooter can read which working he faces and which round to bring next.
+  amends:
+  - guide: WOTR_Combat_Craft_Guide.md
+    locus: '§4.6 Aetheric Inscription Types: against shot'
+    operation: extends
+  - guide: WOTR_Item_and_Equipment_Writing_Guide.md
+    locus: worked armour against shot
+    operation: adds
+  supersedes: []
+  applies_to:
+  - combat
+  - items
+  - adjudication
+  - magic-mechanism
+  verification: []
+  ratified: 'Isaac, 2026-10-04, Claude Code chat: ruled directly (the combat questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: 'MC24. Puts R13-C on the page (ruled 2026-09-12: the working, not the steel, stops shot against
+    a worked cuirass); the marks are the four §4.6 inscriptions'' own (Mending Arrays, Weight Ablation
+    Glyphs, Impact Damping Seals, Aether Plate), so nothing new is canon. The mark is a counter written
+    as fact (R47-3-COUNTERS_AS_FACTS) and findable, as R45-5-PAID_PER_SHOT_AND_FINDABLE has enhanced shot.
+    Narration may state the cause outright (R53-05-PROOF_PLATE). Which round passes is the ladder''s call:
+    R46-3-ARMOUR_TIER_IS_ITS_PROOF, read with R71-93-PROOFED_SHOT_AGAINST_PROOFED (WT4). No older rule
+    is reached.'

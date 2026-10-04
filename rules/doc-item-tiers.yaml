@@ -69,6 +69,7 @@ rules:
   source:
     file: ''
     lines: null
+  notes: "Partly amended by R71-92-ARMOUR_KIND_AGAINST (combat law 2026-10-04): this Tier sum decides once armour carries a working, the kind being only the shape the working wears; unworked armour fights by the physics of its kind. Partly amended by R71-93-PROOFED_SHOT_AGAINST_PROOFED (combat law 2026-10-04), which puts shot on this ladder: 'Against worked armour a proofed round strikes as one Tier higher: proofed shot breaks proofed plate, a round two over passes, and the named round is simply two over. One ladder, R13-C kept.'"
 - id: R46-4-ITEM_COSTS
   pack: The Item Tiers 2026-09-25
   pack_number: null

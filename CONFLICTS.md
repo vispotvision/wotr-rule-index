@@ -46,6 +46,8 @@ clause).
 **Status:** closed — ruled by Isaac, 2026-09-12: Eleven's ban stands. No
 sentence explains why a proofed round defeats proofed plate; firearms are the
 carve-out from Twelve's general repeal. Both rows carry the ruling in `notes`.
+**Addendum, 2026-10-04:** ruled 2026-10-04 (RULINGS.md, combat-law-2026-10-04, answer 93, WT4), whose preamble names this row: "WT4 rules CONFLICTS C-001." The rule is R71-93-PROOFED_SHOT_AGAINST_PROOFED (`rules/doc-combat-law-2026-10-04.yaml`), on the question "Does a proofed round beat proofed plate of the same Tier, and on which ladder?" Isaac's words: "Out-coupling counts one Tier. Against worked armour a proofed round strikes as one Tier higher: proofed shot breaks proofed plate, a round two over passes, and the named round is simply two over. One ladder, R13-C kept." Rules touched: R11-3-AMMO_TIERS, R13-C, R46-3-ARMOUR_TIER_IS_ITS_PROOF, R20C-22-AMMUNITION_TIERS_RATIFIED, R53-07-PRICE_TABLE.
+**Related, 2026-09-26:** the explanation ban the 2026-09-12 status line keeps was superseded by R53-05-PROOF_PLATE (RULINGS.md, World Texture Law (R53); `rules/doc-world-texture-law-2026-09-26.yaml`, whose row lists R11-3-FIREARM_PROSE_LAW under supersedes): "Narration may state the cause of any penetration outright, in gunfights as anywhere; the old firearm ban on explaining why a proofed round beats proofed plate is superseded." The 2026-09-12 status line above stays as the record of that day's ruling.
 
 ---
 

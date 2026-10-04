@@ -351,7 +351,10 @@ rules:
   notes: 'Question n13: Named items pair a true name with an English by-name (''Kogane Kei · The Soul-Reed
     Blade''). Whose language gives an item its true name? Extended by R70-128-PLACES_INNS_SHIPS_GEAR (style
     law 2026-10-03): weapons and gear may take soldiers'' comic folk names beside their true names; the
-    true name in the maker''s tongue stays grave.'
+    true name in the maker''s tongue stays grave.
+    Partly amended by R71-90-WEAPON_NAMES_FIGHT (combat law 2026-10-04): in a fight the narration
+    uses the POV''s own name for a weapon, and the other names, listed side by side elsewhere, wait
+    for a card or the aftermath.'
 - id: R50-14-ESCALATION
   pack: Naming Law 2026-09-26
   pack_number: null

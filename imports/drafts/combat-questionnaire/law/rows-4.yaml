@@ -1,0 +1,641 @@
+- id: R71-70-BENCH_WORK_PAGE
+  pack: Combat Law 2026-10-04
+  pack_number: null
+  section: AL1
+  title: A bench brew set apart as the house's numbered form, then performed
+  status: live
+  kind: procedure
+  summary: When a scene makes its main brew, set the house's numbered form apart first (R70-75 carried
+    to the bench), then perform it with something departing from the form, while minor bench work keeps
+    the single stretch of process of R70-46's floor.
+  verbatim: Guild form, then performed. The scene's main brew appears first as the house's numbered form,
+    set apart (R70-75 extended to the bench), then is performed, and something departs from it. Minor
+    bench work keeps A's single stretch.
+  amends:
+  - guide: NATALIE.md and the wotr-write skill
+    locus: 'WOTR metaphysics on the page: rites (the bench)'
+    operation: extends
+  supersedes: []
+  applies_to:
+  - magic-mechanism
+  - documents
+  - scene-structure
+  - prose-law
+  verification: []
+  ratified: 'Isaac, 2026-10-04, Claude Code chat: ruled directly (the combat questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: AL1. Extends R70-75-RITE_PAGE to the alchemist's bench in its own words ('R70-75 extended to
+    the bench'; note filed there); R70-75 stands for rites. 'A's single stretch' is option A, the floor
+    of R70-46-CRAFT_LABOUR_PAGE (one stretch of process, the finished Draft looked at), which stands for
+    minor bench work. The form keeps its house's style (R51-33-DOC_REGISTER), and R12-6-RITUAL_SPECIFICATION's
+    bill of goods, order of operations and errors stand. Works with R71-73-PREPARED_LIVE_FIGHT ('A bench
+    scene plants each vial').
+- id: R71-71-HEAT_DRAW_AGE_BENCH
+  pack: Combat Law 2026-10-04
+  pack_number: null
+  section: AL2
+  title: A bench's heat follows its owner's purse
+  status: live
+  kind: mandate
+  summary: 'Heat an alchemist''s bench by money: houses on trade supply heat from the main and pay the
+    meter, poor houses burn charcoal and dung, the north burns charcoal, and the Bed stays in every house,
+    so a bench''s fire names its owner''s class.'
+  verbatim: 'Fuel by purse. Heat follows money: houses on trade supply heat from the main and pay the
+    meter, poor houses burn charcoal and dung (R53-02), the north burns charcoal, and a bench''s fire
+    names its owner''s class. The Bed stays everywhere.'
+  amends:
+  - guide: Standing Inventories, NATALIE.md and the wotr-write skill
+    locus: World texture
+    operation: adds
+  supersedes: []
+  applies_to:
+  - worldbuilding
+  - standing-inventory
+  verification: []
+  ratified: 'Isaac, 2026-10-04, Claude Code chat: ruled directly (the combat questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: AL2. Applies R53-02-POOR_FIRES to the bench in its own words (note filed there) and pays R53-17-THE_BILL's
+    meter. R59-01-ESSENCE_ENGINES and R59-05-STEEP_REGIONAL_GRADIENT stand; the north's charcoal sits
+    with the gradient. The Bed is Alchemetrica's bed of fermenting dung that holds the Rot. Thermometers
+    (C-137) stay on the docket.
+- id: R71-72-ALCHEMIST_VOICE
+  pack: Combat Law 2026-10-04
+  pack_number: null
+  section: AL3
+  title: 'The alchemists'' voice menu: the body read first, the price and the vessel, bench words'
+  status: live
+  kind: definition
+  summary: Put three habits on the alchemists' trade menu (reading mouths, hands, sclera and tremor before
+    faces, with a 'reads first' line in the card's voice block; weighing a thing by price, vessel, seal
+    and ledger; and the bench operations as all-purpose idiom, a few logged per card), and leave quiet
+    at the work off it.
+  verbatim: 'Yes to: Reads the body first (On the menu: notices mouths, hands, sclera and tremor before
+    faces, and reads a dose, a career or a lie in them. A card that takes it gains a ''reads first'' line
+    in its voice block); Price, vessel, seal, ledger (On the menu: weighs a thing by its cost, its vessel,
+    whose mark closes it and where it is entered, pricing before praising. Extends R61-91 from the two
+    texts to any alchemist who takes it); Bench words for everything (On the menu: the operations as all-purpose
+    idiom (a plan still in the Rot, a recruit fed too fast), the Fleshshaper model (R24-1) applied to
+    the trade, a few logged per card). Not taken: Quiet at the work.'
+  amends:
+  - guide: Character cards, NATALIE.md and the wotr-npc skill
+    locus: 'Voice block: the alchemists'' trade menu'
+    operation: adds
+  supersedes: []
+  applies_to:
+  - dialogue
+  - register
+  - character-sheet
+  - pov
+  verification: []
+  ratified: 'Isaac, 2026-10-04, Claude Code chat: ruled directly (the combat questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: AL3, multi-select (A, B, C taken; D not taken). The question frames this as a menu from which
+    each alchemist's card takes one or two habits so no two sound alike, the menu model of R15-4-TWELVE_VOICE_DISCIPLINE_SOFTENED
+    and R12-4-VOICE_DISCIPLINE, which stand. B extends R61-91-MUJIN_AND_MALPHAS_DRAFTCRAFT in its own
+    words (note filed there). C applies the model of R24-1-FLESHSHAPER_IDIOM_AND_MARKERS to the trade;
+    R24-1 stands. R48-41-MAGIC_TALK stands.
+- id: R71-73-PREPARED_LIVE_FIGHT
+  pack: Combat Law 2026-10-04
+  pack_number: null
+  section: AL4
+  title: Drafts are made at the bench before a fight; only Draft ground is laid live
+  status: live
+  kind: mandate
+  summary: Every Draft in a fight left a bench beforehand, so mid-fight an alchemist only spends the bandolier
+    or lays Draft ground, at a cost in turns with hands busy and eyes down, and a bench scene plants each
+    vial.
+  verbatim: 'Made before, ground live. Canon read straight: every Draft left a bench before the fight;
+    mid-fight the alchemist spends the bandolier or lays Draft ground, costing turns with hands busy and
+    eyes down. A bench scene plants each vial.'
+  amends:
+  - guide: WOTR_Combat_Craft_Guide.md
+    locus: Alchemists in a fight
+    operation: adds
+  supersedes: []
+  applies_to:
+  - combat
+  - magic-mechanism
+  - adjudication
+  - items
+  verification: []
+  ratified: 'Isaac, 2026-10-04, Claude Code chat: ruled directly (the combat questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: 'AL4. ''Canon read straight'': the Turnings run hours to days, so nothing is brewed mid-fight;
+    options B (mixing behind cover) and C (a live bench anywhere) were not taken. ''A bench scene plants
+    each vial'' carries R70-71-EXPLAINING_WORKING_MID_FIGHT to Drafts (note filed there). Draft ground
+    is ground inscribed for one working (Volume III''s chalk over dressed stone). Turns are R47-11-TIME_AND_ENERGY''s
+    six seconds and Drafts stay reserve-free (R61-100-ALCHEMY_PAID_BY_STOCK_AND_VEIN); both stand. Use
+    time inside the turn is R71-74-DRAFT_SIX_SECOND_TURN.'
+- id: R71-74-DRAFT_SIX_SECOND_TURN
+  pack: Combat Law 2026-10-04
+  pack_number: null
+  section: AL5
+  title: Drinking a Draft costs the turn; throwing one is a single action
+  status: live
+  kind: budget
+  summary: Drinking or smearing a Draft takes a whole turn and opens the drinker inside measure, throwing
+    or smashing one is a single action within an exchange, and the hand going to the bandolier is a readable
+    tell.
+  verbatim: A drink costs the turn. Drinking or smearing takes a whole turn and opens the drinker inside
+    measure; throwing or smashing is one action within an exchange. The hand going to the bandolier becomes
+    a readable tell.
+  amends:
+  - guide: WOTR_Combat_Craft_Guide.md
+    locus: Drafts in the six-second turn
+    operation: adds
+  supersedes: []
+  applies_to:
+  - combat
+  - adjudication
+  - items
+  verification: []
+  ratified: 'Isaac, 2026-10-04, Claude Code chat: ruled directly (the combat questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: AL5. The turn is R47-11-TIME_AND_ENERGY's six seconds, and the fencing grammar that takes over
+    inside roughly twenty feet is R11-5-COMBAT_GUIDE_RANGE_OPENING's; both stand. Measure is the distance
+    where one step and a blow can land. The exchange the opening invites
+    is traced under R13-4-COMBAT_FLOOR, and the tell is a fact under R47-3-COUNTERS_AS_FACTS. Options
+    B (never inside measure) and C (fast as the hand) were not taken.
+- id: R71-75-CARRIES_IT_ONTO_FIELD
+  pack: Combat Law 2026-10-04
+  pack_number: null
+  section: AL6
+  title: Drafts reach a field by rank gate, and the purse sets how many certified hands
+  status: live
+  kind: mandate
+  summary: Issue Drafts onto a field by their rank gate (low-gate lots to the line, Adept munitions to
+    drilled details, Expert charges only to Expert hands), and let a company's purse decide how many certified
+    hands it retains at the price table's retainers (forty gold a month and up for an Adept), so rich
+    companies field far more alchemy.
+  verbatim: 'Gates, bought by purse. As B, and a company''s purse decides how many certified hands it
+    retains, at the price table''s retainers (forty gold a month and up for an Adept), so rich companies
+    field far more alchemy. (Option B there reads: Issue by gate. Drafts reach a field by their rank gate:
+    low-gate lots to the line, Adept munitions to drilled details, Expert charges only to Expert hands.
+    The gate becomes the field''s ration logic.)'
+  amends:
+  - guide: Mass Combat Craft Guide
+    locus: Alchemy on a field
+    operation: adds
+  supersedes: []
+  applies_to:
+  - mass-combat
+  - items
+  - worldbuilding
+  - adjudication
+  verification: []
+  ratified: 'Isaac, 2026-10-04, Claude Code chat: ruled directly (the combat questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: AL6. Option B (issue by gate) is folded in by 'As B' and quoted in the answer. The gates are
+    the Standing Index's rank gates; the retainer sum quotes the approved price table (R53-07-PRICE_TABLE,
+    R70-48-MONEY_PRICE_PROVENANCE). Drafts cost no reserve (R61-100-ALCHEMY_PAID_BY_STOCK_AND_VEIN), so
+    R46-4-ITEM_COSTS ('cannot equip an army') does not limit them and stands for enhanced items; R53-04-ENHANCED_SHOT
+    stands.
+- id: R71-76-FORMULA_OWN_FAILURE
+  pack: Combat Law 2026-10-04
+  pack_number: null
+  section: AL7
+  title: A formula's precaution against its own failure shows at every use
+  status: live
+  kind: mandate
+  summary: Show the precaution each formula demands against failing onto its user (the gloved off hand,
+    the chalked hour, the edge kept wide of the body) at every use, as a standing tell a reading opponent
+    can exploit, so the counter stays on the page.
+  verbatim: Every use shows it. The precaution each formula demands (the gloved off hand, the chalked
+    hour, the edge kept wide of the body) shows at every use, a standing tell a reading opponent can exploit.
+    The counter stays on the page.
+  amends:
+  - guide: WOTR_Combat_Craft_Guide.md
+    locus: 'Drafts in a fight: the formula''s own failure'
+    operation: adds
+  supersedes: []
+  applies_to:
+  - combat
+  - magic-mechanism
+  - items
+  - adjudication
+  verification: []
+  ratified: 'Isaac, 2026-10-04, Claude Code chat: ruled directly (the combat questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: AL7. Every combat formula in the Alchemical Index can fail onto its own user; a failure whose
+    condition a scene meets fires (R57-10-NEVER_RIGGED) and opponents may induce it (R47-9-INHERITED_FAILURES).
+    The precaution is written as fact (R47-3-COUNTERS_AS_FACTS). R12-3-COUNTER_MANDATORY and R70-73-MANY_DISPLAY_BEATS_PER
+    stand; option B (first display, then assumed) was not taken.
+- id: R71-77-POISON_DUEL
+  pack: Combat Law 2026-10-04
+  pack_number: null
+  section: AL8
+  title: Coated blades and poison in a duel, ruled by each culture's Inventory
+  status: live
+  kind: mandate
+  summary: Give each Standing Inventory a line on coated weapons and poison taken from the culture's real
+    analogue, with the Accord's munitions class as the first entry, so an Accord duel and a Moto duel
+    may differ.
+  verbatim: By culture, on the Inventory. Each Standing Inventory gains a line on coated weapons and poison,
+    taken from the culture's real analogue; the Accord's munitions class is the first entry. An Accord
+    duel and a Moto duel may differ.
+  amends:
+  - guide: Standing Inventories, NATALIE.md and the wotr-write skill
+    locus: Inventory fields
+    operation: adds
+  supersedes: []
+  applies_to:
+  - standing-inventory
+  - combat
+  - worldbuilding
+  - items
+  verification: []
+  ratified: 'Isaac, 2026-10-04, Claude Code chat: ruled directly (the combat questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: AL8. Adds a line to the fields of R70-45-NEW_STANDING_INVENTORY_FIELDS (note filed there), beside
+    its law and punishment field from R53-11-JUSTICE, which stands. The Accord's munitions class is the
+    Apparatus page's classing of offensive Drafts. R70-101-DECLARING_NAME_LINE_BEFORE and R70-105-JOINS_WOUND_WHEN_FIGHT
+    stand; option A (declared, or it is murder, in every culture) was not taken, so whether a coating
+    must be declared is each culture's line.
+- id: R71-78-DRAFT_READOUT
+  pack: Combat Law 2026-10-04
+  pack_number: null
+  section: AL9
+  title: A Draft's card once at purchase, the body alone at use
+  status: live
+  kind: mandate
+  summary: Give a Draft R70-95's card once, at purchase or appraisal, carrying the Draft's own marks (gate,
+    rung, Class, Fidelity, Carry, maker, price, lore), and at use show only the body, plus a surgeon's
+    inline wound line if a wound earns one.
+  verbatim: Card once, body at use. R70-95's card carries the Draft's own marks (gate, rung, Class, Fidelity,
+    Carry, maker, price, lore) once, at purchase or appraisal. At use only the body shows, plus a surgeon's
+    inline wound line if a wound earns one.
+  amends:
+  - guide: WOTR_Item_and_Equipment_Writing_Guide.md
+    locus: 'item entry: Drafts'
+    operation: extends
+  supersedes: []
+  applies_to:
+  - items
+  - documents
+  - prose-law
+  - stats
+  verification: []
+  ratified: 'Isaac, 2026-10-04, Claude Code chat: ruled directly (the combat questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: AL9. Fits R70-95-ITEM_CARDS to Drafts (note filed there); its once-only card stands. Gate is
+    the Standing Index's rank gate, rung the Drafts ladder's rung (the energy one dose holds), Class the
+    Provenance Class, Fidelity closeness to the reference lot, Carry how much of the source came with
+    it. The wound line is R70-85-SCENE_MOMENTS_THAT_EARN's, which stands with no fourth moment (option
+    B was not taken); R70-86-MANY_READOUTS_SCENE_CARRIES, R70-80-READOUT_SITS_PAGE and R70-77-INSTRUMENT_CAN_SHOW
+    stand.
+- id: R71-79-MEDICINE_PLACE_PURSE
+  pack: Combat Law 2026-10-04
+  pack_number: null
+  section: AL10
+  title: Wound medicine by place and purse
+  status: live
+  kind: mandate
+  summary: 'Treat wounds by place and purse: the surgeon uses Drafts beside carbolic and chloroform for
+    those who pay, the Legion gets Bone-Grey by issue, the north and the poor get the barber and Cutwater,
+    and every wound scene names which.'
+  verbatim: Both, by place and purse. The surgeon uses Drafts beside carbolic and chloroform for those
+    who pay; the Legion gets Bone-Grey by issue; the north and the poor get the barber and Cutwater. Every
+    wound scene names which.
+  amends:
+  - guide: Standing Inventories, NATALIE.md and the wotr-write skill
+    locus: World texture
+    operation: extends
+  supersedes: []
+  applies_to:
+  - worldbuilding
+  - standing-inventory
+  - combat
+  - items
+  verification: []
+  ratified: 'Isaac, 2026-10-04, Claude Code chat: ruled directly (the combat questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: AL10. Extends R53-10-MEDICINE with the Drafts (note filed there). R60-02-REAL_HEALING_TIMES stands.
+    Fees and prices quote the approved table (R53-07-PRICE_TABLE, R70-48-MONEY_PRICE_PROVENANCE). Options
+    A (Drafts first) and B (surgeon first, Drafts cheap) were not taken.
+- id: R71-80-PROVING_POISON
+  pack: Combat Law 2026-10-04
+  pack_number: null
+  section: AL11
+  title: Poison proved by the period's real tests, where the gradient allows
+  status: live
+  kind: mandate
+  summary: Bring the mirror test, the copper test and the iron antidote into WOTR where R59-05's gradient
+    puts them, so Guild cities have them and the north does not, while the coil still reads worked poisons.
+  verbatim: 'Real tests, by place. The mirror test, the copper test and the iron antidote come into WOTR
+    where R59-05''s gradient puts them: Guild cities have them, the north does not. The coil still reads
+    worked poisons.'
+  amends:
+  - guide: Standing Inventories, NATALIE.md and the wotr-write skill
+    locus: World texture
+    operation: adds
+  supersedes: []
+  applies_to:
+  - worldbuilding
+  - standing-inventory
+  - items
+  verification: []
+  ratified: 'Isaac, 2026-10-04, Claude Code chat: ruled directly (the combat questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: AL11. The mirror test is Marsh's (1836), the copper test Reinsch's (1841) and the antidote fresh
+    iron rust (1834), all inside R53-01-IMPERIAL_AGE_SPAN; The Real Alchemy (R61-104-REAL_ALCHEMY_PAGE_WRITTEN,
+    the third source of R18-5-ALCHEMY_SOURCE_ORDER) carries them. R59-05-STEEP_REGIONAL_GRADIENT and R53-10-MEDICINE
+    are applied and stand; R53-15-FOLK_BELIEFS stands. The coil reads Essence residue, so a plain poison
+    leaves it nothing to read.
+- id: R71-81-FORENSIC_READING_PAGE
+  pack: Combat Law 2026-10-04
+  pack_number: null
+  section: AL12
+  title: A forensic reading played as protocol, its figures read aloud
+  status: live
+  kind: procedure
+  summary: Play a residue reading's protocol as action (the pair, the stands and the withdrawal), with
+    figures read aloud in a mouth at every stand outside R70-86's cap, and make the contradiction between
+    the instruments the scene's turn.
+  verbatim: Protocol as action. The pair, the stands and the withdrawal play as action, and figures enter
+    in a mouth, read aloud at every stand, outside R70-86's cap. The contradiction between the instruments
+    is the scene's turn.
+  amends:
+  - guide: NATALIE.md and the wotr-write skill
+    locus: 'Prose standards: readouts (forensic readings)'
+    operation: adds
+  supersedes: []
+  applies_to:
+  - magic-mechanism
+  - scene-structure
+  - dialogue
+  - stats
+  verification: []
+  ratified: 'Isaac, 2026-10-04, Claude Code chat: ruled directly (the combat questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: 'AL12. The protocol is the Necrocursica''s: never alone, one reader inside the radius and one
+    outside, the gauge (density) and the coil (field) read at every stand. Says in its own words that these
+    figures sit outside R70-86-MANY_READOUTS_SCENE_CARRIES''s cap, as that row''s note already reads it
+    (the cap names readouts, not figures in a mouth); the cap is unchanged (note filed there). R48-16-REAL_FIGURES
+    and R61-112-AUTHORS_STATE_INSTRUMENT_FIGURES stand; the investigator is R61-62-PAPERS_AUTHOR_NIGHT_WATCH''s.
+    Option B (field-book lines set in, the notebook form of R70-67-FORMS_WORLD_DOCUMENTS) was not taken.'
+- id: R71-82-CORRUPTION_SHOWN_BODY
+  pack: Combat Law 2026-10-04
+  pack_number: null
+  section: AL13
+  title: A corrupt Great Work shows in body, work and technique, then breaks on the page
+  status: live
+  kind: mandate
+  summary: Show a corrupt alchemist's signs as standing tells in his body (planted before any reveal),
+    in his bench work and in his technique, at most one sign a scene across the three, and write the Shear
+    Break as its own event, the fall shown whole in body and work.
+  verbatim: 'Yes to: Signs in the body (The Heresiology''s bodily signs become standing tells, planted
+    before any reveal, so a reader can catch a corrupt master before the plot names him. One sign a scene
+    at most, across A to C); Signs in the work (The bench betrays him first: vessels crack under his hands
+    alone, inscriptions darken on their own, residue gathers in shapes. The workshop shows the corruption
+    before the man does); Signs in technique (A corrupted practitioner''s workings run their corrupted
+    versions (the Open Crucible''s model, where Honest Fire strips structure it finds inconvenient), so
+    the tell lives in how he works and fights); The break as an event (When the vow finally fails, the
+    Shear Break is written as its own event, the fall shown whole in the body and the work, so the slow
+    signs pay off on the page).'
+  amends:
+  - guide: NATALIE.md and the wotr-write skill
+    locus: 'WOTR metaphysics on the page: corruption'
+    operation: adds
+  supersedes: []
+  applies_to:
+  - magic-mechanism
+  - prose-law
+  - scene-structure
+  - pov
+  verification: []
+  ratified: 'Isaac, 2026-10-04, Claude Code chat: ruled directly (the combat questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: AL13, multi-select (A, B, C, D all taken). The bodily and workshop signs are the Heresiology's
+    (metallic sweat, ash under the nails, vessels cracking under one operator, sigils darkening); technique
+    runs its corrupted version on the Open Crucible's model. Puts R61-85-BROKEN_VOW_SIGNS_CORRUPTION's
+    corruptions on the page (note filed there); corruptions are named, never numbered (R61-83-CORRUPTIONS_BY_NAME_NOT_NUMBER).
+    Foreshadowed per R48-30-SURPRISES, which stands.
+- id: R71-83-ACCIDENTS_FUMES
+  pack: Combat Law 2026-10-04
+  pack_number: null
+  section: AL14
+  title: Fume accidents kill late, and rest is the counter
+  status: live
+  kind: mandate
+  summary: When a lute fails and Strongwater fume fills a closed room, the room doses men in order of
+    nearness and they die hours later after walking out, while men kept lying still and watched through
+    the night fare better, so a knowing hand's orders save some.
+  verbatim: 'Late drowning, and rest. As B, plus a findable counter: men kept lying still and watched
+    through the night fare better than men who walk home, as real toxicology keeps such patients at rest.
+    A knowing hand''s orders save some. (Option B there reads: The late drowning. The Real Alchemy''s
+    reading: the room doses in order of nearness and the dying comes hours later, after the men have walked
+    out. A surgeon''s wound line can name it (R70-85); the grief arrives by morning.)'
+  amends:
+  - guide: NATALIE.md and the wotr-write skill
+    locus: 'WOTR metaphysics on the page: bench accidents'
+    operation: adds
+  supersedes: []
+  applies_to:
+  - magic-mechanism
+  - worldbuilding
+  - adjudication
+  verification: []
+  ratified: 'Isaac, 2026-10-04, Claude Code chat: ruled directly (the combat questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: 'AL14. Option B (the late drowning, folded in by ''As B'') is quoted in the answer: The Real
+    Alchemy''s reading of Alchemetrica''s line that the fume kills in the order men stood nearest. Strongwater
+    is nitric acid, and the lungs fill after a free interval of three to thirty hours. A surgeon''s wound
+    line may name it (R70-85-SCENE_MOMENTS_THAT_EARN); the rest order is a counter written as fact (R47-3-COUNTERS_AS_FACTS).
+    R18-5-ALCHEMY_SOURCE_ORDER, R49-46-CHEMISTRY and R12-6-RITUAL_SPECIFICATION stand.'
+- id: R71-84-TRADE_PAPER_SCENE
+  pack: Combat Law 2026-10-04
+  pack_number: null
+  section: AL15
+  title: A Draft's price counted at use, its mark checked, its lot able to go bad
+  status: live
+  kind: mandate
+  summary: Have a fighter or worker count what a Draft cost when he spends it, in his own money, have
+    anyone handling a lawful vessel check its maker's registered mark as a soldier reads a proof-dent,
+    and let a scene turn on a forged, adulterated, stale or unentered lot, a forgery always findable by
+    mark, assay or the Index's own failure.
+  verbatim: 'Yes to: Price counted at use (Beyond R70-48''s price at purchase, a fighter or worker counts
+    what a Draft cost when he spends it, in his own money, the sum taken from the table or the Index.
+    Money before magic, in the hand); The mark checked (Every lawful vessel carries its maker''s registered
+    mark, and anyone handling one looks at it the way a soldier reads a proof-dent (R11-3). The mark becomes
+    standing texture and a trail); Provenance as plot (Lots can be forged, adulterated, stale or unentered,
+    and a scene may turn on a bad lot; the forgery is always findable by mark, assay or the Index''s own
+    failure. A fair counter and a plot engine).'
+  amends:
+  - guide: Standing Inventories, NATALIE.md and the wotr-write skill
+    locus: 'World texture: money before magic and the price table'
+    operation: extends
+  - guide: WOTR_Item_and_Equipment_Writing_Guide.md
+    locus: 'Notable objects: provenance'
+    operation: extends
+  supersedes: []
+  applies_to:
+  - items
+  - worldbuilding
+  - prose-law
+  - standing-inventory
+  verification: []
+  ratified: 'Isaac, 2026-10-04, Claude Code chat: ruled directly (the combat questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: AL15, multi-select (A, B, C all taken). A carries R70-48-MONEY_PRICE_PROVENANCE from purchase
+    to use in its own words (note filed there), the sum from R53-07-PRICE_TABLE or the Standing Index.
+    B makes the registered mark standing texture on the model of R11-3-PROOF_MARKS_CANON, which stands;
+    Draycott's mark (R65-3-DRAYCOTT_REGISTERED_MARK) is one such mark. C's unentered lot is the breach
+    R61-111-PARACELSUS_SOLD_UNENTERED_FORMULA puts on the seller; that row stands.
+- id: R71-85-DRAFT_AGAINST_WORKING
+  pack: Combat Law 2026-10-04
+  pack_number: null
+  section: AL16
+  title: A Draft meets a practitioner in two parts, its physics and its working
+  status: live
+  kind: definition
+  summary: 'Split a thrown Draft in two: its plain physics (blast, heat, acid, smoke) meets Durability
+    like any force, while its worked part answers its maker''s ceiling and fails against anyone above
+    it, and both stay traceable.'
+  verbatim: 'Two parts, two answers. A Draft splits: its plain physics (blast, heat, acid, smoke) meets
+    Durability like any force, while its worked part answers its maker''s ceiling and fails against anyone
+    above it. Both stay traceable (R13-8).'
+  amends:
+  - guide: WOTR_Combat_Craft_Guide.md
+    locus: Drafts against ranked practitioners
+    operation: adds
+  supersedes: []
+  applies_to:
+  - combat
+  - adjudication
+  - magic-mechanism
+  - items
+  verification: []
+  ratified: 'Isaac, 2026-10-04, Claude Code chat: ruled directly (the combat questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: 'AL16. Fits R45-3-ENHANCEMENT_CEILING to Drafts: the maker''s ceiling binds only the worked part
+    (note filed there). Durability is Part Eleven''s (body, Aether Shell, Domain). R55-7-HARMONIC_IMMUNITY_BY_STAGE
+    stays with its four workings (option B, the whole Draft capped at its maker, was not taken); R61-102-BENCH_TIERS_CAP_ALCHEMISTS
+    and R13-8-RECONSTRUCTIBLE_ADJUDICATION stand. A pure alchemist''s cap (C-142) stays on the docket.'
+- id: R71-86-REVENANT_FIGHT
+  pack: Combat Law 2026-10-04
+  pack_number: null
+  section: AL17
+  title: A revenant is stopped by anatomy and ended only by ash, removal or the ninth day
+  status: live
+  kind: definition
+  summary: 'Fight a revenant as a body on habit: anatomy stops the motion (a cut hamstring drops it) while
+    the habit keeps trying, only ash, removal or the ninth day ends it, and the combat floor applies by
+    structure with no blood-loss class.'
+  verbatim: 'Levers still rule. A body on habit: anatomy stops the motion (a cut hamstring drops it) while
+    the habit keeps trying; only ash, removal or the ninth day ends it. The floor applies by structure,
+    with no blood-loss class.'
+  amends:
+  - guide: WOTR_Combat_Craft_Guide.md
+    locus: '§4 combat floor: revenants'
+    operation: extends
+  supersedes: []
+  applies_to:
+  - combat
+  - adjudication
+  - magic-mechanism
+  verification: []
+  ratified: 'Isaac, 2026-10-04, Claude Code chat: ruled directly (the combat questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: AL17. Takes the blood-loss class out of R13-4-COMBAT_FLOOR and R48-34-WOUNDS for a revenant (notes
+    filed on both); injury by structure stands. The endings are those of R61-77-REVENANT_IS_STALLED_CROSSING
+    and R69-4-TRIA_PRIMA_FOR_THE_DEAD (Stillgate Ash, moving the body, diffusion at the end of the nine
+    days); both stand.
+- id: R71-87-IMPRESSION_BODY_VOICE
+  pack: Combat Law 2026-10-04
+  pack_number: null
+  section: AL18
+  title: The impression-body, seamless to the mourner, with one seam the reader catches
+  status: live
+  kind: mandate
+  summary: Write an impression-body exactly as the living man through the mourner's eyes, with only the
+    room hinting, and let one planted habit of its maker leak through the likeness, findable by an attentive
+    reader before any trained reader names it.
+  verbatim: 'A seam the reader catches. As A, plus one planted habit of the maker leaks through the likeness,
+    findable by an attentive reader before any trained reader names it: the maker''s Core as identity,
+    made visible. (Option A there reads: Seamless to the mourner. The likeness is written exactly as the
+    living man, through the mourner''s eyes; only the room (the dim lamp, the ink) hints. The horror is
+    what the reader knows and she does not.)'
+  amends:
+  - guide: NATALIE.md and the wotr-write skill
+    locus: 'WOTR metaphysics on the page: the made dead'
+    operation: adds
+  supersedes: []
+  applies_to:
+  - magic-mechanism
+  - pov
+  - prose-law
+  verification: []
+  ratified: 'Isaac, 2026-10-04, Claude Code chat: ruled directly (the combat questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: AL18. Option A (seamless to the mourner, folded in by 'As A') is quoted in the answer. The leaking
+    habit makes visible the maker's Core as identity of R61-75-IMPRESSION_BODY_GREATER_SUMMONS, which
+    stands. Adds a page tell beside the trained reader's tell and the Stillgate Ash counter of R61-110-IMPRESSION_BODY_TELLS_COUNTERS
+    (note filed there). Foreshadowed per R48-30-SURPRISES.
+- id: R71-88-EXPLOSIVES_BESIDE_INDEX
+  pack: Combat Law 2026-10-04
+  pack_number: null
+  section: AL19
+  title: Explosives are plain chemistry under powder law
+  status: live
+  kind: definition
+  summary: The span's real explosives and incendiaries exist as plain chemistry with no Essence and no
+    rank gate, licensed under ordinary powder law; the coil reads nothing in them, and a quarryman's stick
+    of dynamite holds about what a Thundercrack does.
+  verbatim: Plain chemistry, powder law. They exist as plain chemistry with no Essence and no rank gate,
+    licensed under ordinary powder law. The coil reads nothing in them, and a quarryman's stick of dynamite
+    holds about what a Thundercrack does.
+  amends:
+  - guide: WOTR_Item_and_Equipment_Writing_Guide.md
+    locus: Explosives and incendiaries
+    operation: adds
+  supersedes: []
+  applies_to:
+  - items
+  - worldbuilding
+  - combat
+  verification: []
+  ratified: 'Isaac, 2026-10-04, Claude Code chat: ruled directly (the combat questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: AL19. The explosives are the question's fulminate caps, guncotton, dynamite and phosphorus fire.
+    They sit inside R53-01-IMPERIAL_AGE_SPAN and R53-03-FIREARM_CEILING, which stand; option C (rare and
+    state-held, like early machine guns) was not taken. The Thundercrack equivalence is the ruling's own
+    figure. Sums for licences and sticks quote the approved table (R70-48-MONEY_PRICE_PROVENANCE); R18-5-ALCHEMY_SOURCE_ORDER
+    stands.

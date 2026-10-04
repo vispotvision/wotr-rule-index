@@ -1116,7 +1116,10 @@ rules:
     source:
       file: WOTR_Companion_Guide_Amendments_Pack_Twelve.md
       lines: "123"
-    notes: null
+    notes: >-
+      Partly amended by R71-23-TELL_READ (combat law 2026-10-04): the read at
+      length comes at a tell's third appearance; at its first and second the
+      tell is shown plainly.
 
   - id: R12-8-SCENE_GUIDE_PACK7_STRUCK
     pack: Pack Twelve

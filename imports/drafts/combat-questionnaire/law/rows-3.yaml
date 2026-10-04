@@ -1,0 +1,661 @@
+- id: R71-51-SKIRMISH_THREE_TEN
+  pack: Combat Law 2026-10-04
+  pack_number: null
+  section: FT1
+  title: 'Skirmish: the POV''s exchanges on the duel floor, the rest compressed'
+  status: live
+  kind: mandate
+  summary: In a skirmish (three to ten fighters, no formation) the POV's own exchanges carry the full
+    duel floor, everyone else's fighting is compressed under the Mass Combat Guide's rules, and her count
+    of who still stands stays in her head, never printed as figures.
+  verbatim: 'Duel floor, mass compression. Amends R1-4: the POV''s own exchanges carry the duel floor,
+    and everyone else''s fighting is compressed by the Mass Guide''s rules. Her count of who still stands
+    stays in her head, never as figures.'
+  amends:
+  - guide: WOTR_Combat_Craft_Guide.md
+    locus: 'head of document (precedence): small actions'
+    operation: extends
+  - guide: Mass Combat Craft Guide
+    locus: 'scope: small actions with no formation'
+    operation: extends
+  supersedes: []
+  applies_to:
+  - combat
+  - mass-combat
+  - pov
+  - scene-structure
+  verification: []
+  ratified: 'Isaac, 2026-10-04, Claude Code chat: ruled directly (the combat questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: 'FT1. Partly amends R1-4-PRECEDENCE_NOTE (the answer''s own ''Amends R1-4''): in a small action
+    with no formation the Combat Guide''s floor now reaches only the POV''s own exchanges, and the Mass
+    Combat Guide''s compression takes the fighting around her; the formation trigger and the suspension
+    of duel instruments in mass combat stand. R13-4-COMBAT_FLOOR governs her exchanges, at the density
+    K4 (R71-4-FAR_FROM_FLOOR) sets. ''Never as figures'' sits with R70-88-NUMBERS_INSIDE_FIGHT (no running
+    figures). R60-01-BRUTAL_LETHALITY and R1-3-NAME_THREE_RULE are not named and stand.'
+- id: R71-52-AMBUSH_NAMED_ROUND
+  pack: Combat Law 2026-10-04
+  pack_number: null
+  section: FT2
+  title: 'Ambush split at a marked break: the wait, then the shot'
+  status: live
+  kind: procedure
+  summary: Write an ambush or assassination as two POV-locked halves split by a marked break, the wait
+    and then the shot; in roleplay the shooter's half is one turn's closing cutaway and the shot lands
+    in the next turn.
+  verbatim: Both, split by a break. A marked break splits the wait from the shot, each half POV-locked.
+    In roleplay the shooter's half is one turn's closing cutaway (R49-09), and the shot lands in the next
+    turn.
+  amends:
+  - guide: WOTR_Combat_Craft_Guide.md
+    locus: Ambush and assassination
+    operation: adds
+  - guide: NATALIE.md and the wotr-write skill
+    locus: POV and interiority (cutaways)
+    operation: extends
+  supersedes: []
+  applies_to:
+  - pov
+  - scene-structure
+  - combat
+  verification: []
+  ratified: 'Isaac, 2026-10-04, Claude Code chat: ruled directly (the combat questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: 'FT2. Partly amends R5-C1-WRITE_FROM_LEAST_KNOWING, a default its own words make breakable with
+    reason: an ambush or assassination is no longer given whole to whoever knows least but split at a
+    marked break, each half POV-locked. Uses R49-09-CUTAWAYS for the shooter''s half in roleplay; that
+    row stands. R48-30-SURPRISES (foreshadowing a player could have caught) is not named and stands. R11-3-BALLISTICS_RULING,
+    R11-3-AMMO_TIERS and R45-5-PAID_PER_SHOT_AND_FINDABLE are not changed. Options A (the target alone,
+    tell planted) and B (the shooter alone) were not taken.'
+- id: R71-53-BRAWLS_FOLK_SCHOOLS
+  pack: Combat Law 2026-10-04
+  pack_number: null
+  section: FT3
+  title: Folk fighting trades count as schools, by culture
+  status: live
+  kind: mandate
+  summary: 'Treat each culture''s folk wrestling and fist-fighting as a school: its Standing Inventory''s
+    Words entry gains those words (entered and logged), a POV raised in them names his moves in them,
+    and verify gains a word list per culture.'
+  verbatim: Folk schools, by culture. Each Standing Inventory's Words entry gains its wrestling and fist
+    words, entered and logged; a POV raised in them names moves in them, and verify gains a list per culture.
+  amends:
+  - guide: Standing Inventories, NATALIE.md and the wotr-write skill
+    locus: 'Words entry: wrestling and fist words'
+    operation: extends
+  - guide: Manual Verification Guide
+    locus: verify --combat word lists
+    operation: extends
+  supersedes: []
+  applies_to:
+  - combat
+  - standing-inventory
+  - register
+  - verification
+  verification:
+  - --combat
+  ratified: 'Isaac, 2026-10-04, Claude Code chat: ruled directly (the combat questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: 'FT3. Partly amends R70-33-WORD_BANK_PER_CULTURE (each Words entry gains wrestling and fist words)
+    and R70-136-NEW_CHECKS_VERIFY_SCENE (verify --combat gains a list per culture beside its school lists).
+    Settles that a folk trade is training for R70-100-MARTIAL_VOCABULARY_NAMES_MOVES, which stands and
+    carries a note: a POV raised in a folk school names moves in its words. R70-28-TRADE_SCIENCE_WORDS and R49-50-OWN_BODY
+    are not named and stand for a POV with no training. Works with ME2 (R71-103-COMBAT_CHECKS_VERIFY_SCENE),
+    which adds firearms and Kharven lists to verify.'
+- id: R71-54-BOUTS_AETHERION
+  pack: Combat Law 2026-10-04
+  pack_number: null
+  section: FT4
+  title: Aetherion bouts run to chalked terms, the warden as backstop
+  status: live
+  kind: procedure
+  summary: Chalk each sanctioned bout's terms before it starts (yield, ring-out, a wound by class); fighters
+    may push right up to them, and the warden's gauge stops only what the terms never priced.
+  verbatim: Posted terms, warden backstop. Each bout's terms are chalked before it (yield, ring-out, a
+    wound by class). Fighters may push right up to them, and the warden's gauge stops only what the terms
+    never priced.
+  amends:
+  - guide: WOTR_Combat_Craft_Guide.md
+    locus: Sanctioned bouts
+    operation: adds
+  supersedes: []
+  applies_to:
+  - combat
+  - adjudication
+  - scene-structure
+  verification: []
+  ratified: 'Isaac, 2026-10-04, Claude Code chat: ruled directly (the combat questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: FT4. Gives R70-18-ARC_SHAPES's tournament arc its bout rule; R70-18 stands. The chalked terms
+    read beside R70-71-EXPLAINING_WORKING_MID_FIGHT (rules planted before the fight), which stands. R60-01-BRUTAL_LETHALITY
+    and R60-02-REAL_HEALING_TIMES are not named and stand for any wound a bout prices. Who hears the rail's
+    reading is WT9 (R71-98-HEARS_RAIL). Options A (the warden's call) and C (to incapacity) were not taken.
+- id: R71-55-DUELS_FIRST_BLOOD
+  pack: Combat Law 2026-10-04
+  pack_number: null
+  section: FT5
+  title: 'First-blood duels: the terms hold, the wound is tracked'
+  status: live
+  kind: mandate
+  summary: 'A duel to first blood stops at the first wound, but that wound is tracked like any other:
+    where the point lands decides whether it is a nick or a death, and the Ledger keeps what follows.'
+  verbatim: 'Terms hold, the body doesn''t. The duel stops at first blood, but the wound is tracked like
+    any other: where the point lands decides whether it is a nick or a death, and the Ledger keeps what
+    follows.'
+  amends:
+  - guide: WOTR_Combat_Craft_Guide.md
+    locus: 'Formal duels: first blood'
+    operation: adds
+  supersedes: []
+  applies_to:
+  - combat
+  - adjudication
+  - session-protocol
+  verification: []
+  ratified: 'Isaac, 2026-10-04, Claude Code chat: ruled directly (the combat questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: FT5. R60-01-BRUTAL_LETHALITY, R48-34-WOUNDS and R60-02-REAL_HEALING_TIMES stand and reach the
+    first wound as any other. Works with CW11 (R71-20-FIGHTS_END), whose code-ended duel names first blood
+    as a stated end, and with R70-104-RIVAL_BOND for a spared rival. Options A (a safe convention) and
+    C (safe only for the ranked, read off R14-3-STATS_DECIDE_TABLE) were not taken.
+- id: R71-56-SHAPE_MONSTER_FIGHT
+  pack: Combat Law 2026-10-04
+  pack_number: null
+  section: FT6
+  title: 'Beast fights: the hunt as procedure, phases only at a canon lever'
+  status: live
+  kind: mandate
+  summary: A fight with a Well-spawn or other beast may be written as a hunt won at the shaft head (reading
+    the draw, choosing the entry's counter, laying out the kit, then a short kill), and it may turn in
+    phases only at a lever canon gives the beast (its tie cut, its Wellspring's failure induced), the
+    rung dropping on the page and an untraceable phase failing R13-8; the duel-with-a-beast shape was
+    not taken.
+  verbatim: 'Yes to: The hunt as procedure (The fight is won at the shaft head: reading the draw, choosing
+    the entry''s counter, laying out the kit. The kill is short and the work is the scene); Phases at
+    the tie (A beast''s fight turns (a boss phase: the monster changing form mid-fight) only at a lever
+    canon gives it: its tie cut, its Wellspring''s failure induced. The rung drops on the page; an untraceable
+    phase fails R13-8). Not taken: A duel with a beast.'
+  amends:
+  - guide: WOTR_Combat_Craft_Guide.md
+    locus: Beasts and Well-spawn
+    operation: adds
+  supersedes: []
+  applies_to:
+  - combat
+  - adjudication
+  - magic-mechanism
+  - scene-structure
+  verification: []
+  ratified: 'Isaac, 2026-10-04, Claude Code chat: ruled directly (the combat questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: FT6. Two shapes taken; option C (the full eight-item floor against a beast, with a combat grammar
+    per creature) was not taken. R13-8-RECONSTRUCTIBLE_ADJUDICATION binds every phase, as the answer says.
+    R47-9-INHERITED_FAILURES (opponents can induce a Wellspring's failures) and R17-3-COUNTER_MANDATORY
+    stand. R53-06-WELL_SPAWN stands; each Bestiary entry names the counter the hunt chooses. R13-4-COMBAT_FLOOR
+    and R70-102-STILLNESS_TRACED_PASSES_LONG are not named and are unchanged.
+- id: R71-57-APPRAISING_BEAST
+  pack: Combat Law 2026-10-04
+  pack_number: null
+  section: FT7
+  title: A beast's appraisal prints rung, Commission tier and the gap
+  status: live
+  kind: mandate
+  summary: When a coil or a trained eye appraises a beast, the tape prints its rung and its Commission
+    tier together, a voice names the gap wherever the two disagree, and the appraisal counts as one of
+    the scene's three readouts.
+  verbatim: Both, and the gap. The tape prints rung and Commission tier together, and where they disagree
+    a voice names the gap, because canon puts the hunter's answer there. It counts as one of the scene's
+    three readouts (R70-86).
+  amends:
+  - guide: NATALIE.md and the wotr-write skill
+    locus: 'Prose standards: readouts'
+    operation: extends
+  supersedes: []
+  applies_to:
+  - stats
+  - prose-law
+  - combat
+  - documents
+  verification: []
+  ratified: 'Isaac, 2026-10-04, Claude Code chat: ruled directly (the combat questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: FT7. Fills R70-85-SCENE_MOMENTS_THAT_EARN's appraisal for a beast; R70-85 stands. Counted under
+    R70-86-MANY_READOUTS_SCENE_CARRIES, as the answer says. The rung is the Bestiary's output rung and
+    the tier the Commission's Danger Tier and Sigil. The tape is R70-77-INSTRUMENT_CAN_SHOW's, placed
+    by R70-80-READOUT_SITS_PAGE; both stand. Every figure on it is bound by R12-5-NEVER_INVENT_NUMBER.
+    Options A (the rung only) and B (the tier only) were not taken.
+- id: R71-58-ONE_SHOT_PRACTITIONER
+  pack: Combat Law 2026-10-04
+  pack_number: null
+  section: FT8
+  title: A gunshot at a practitioner is traced like an exchange
+  status: live
+  kind: mandate
+  summary: 'Trace each shot at a practitioner like an exchange: the range, the ball''s speed (R45-1''s
+    reference figure) against the Speed Grade the POV reads, the result, and its cause stated under R53-05,
+    with rounds left counted as CW17 rules.'
+  verbatim: 'Each shot traced. A shot is traced like an exchange: range, the ball''s speed (R45-1''s reference
+    figure) against the Speed Grade the POV reads, the result, the cause stated under R53-05. Rounds left
+    are counted as CW17 rules.'
+  amends:
+  - guide: WOTR_Combat_Craft_Guide.md
+    locus: 'Firearms: the shot at range'
+    operation: adds
+  supersedes: []
+  applies_to:
+  - combat
+  - adjudication
+  - items
+  - stats
+  verification: []
+  ratified: 'Isaac, 2026-10-04, Claude Code chat: ruled directly (the combat questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: FT8. The reference figure is the one R45-1-SPEED_DECIDES_THE_DODGE's row records (a plain .44
+    at about 235 m/s); R45-1 stands. R53-05-PROOF_PLATE frees the cause; CW17 is R71-26-COUNTING_ROUNDS_VIALS_CHARGES.
+    The Speed Grade is the POV's read, an estimate under R70-88-NUMBERS_INSIDE_FIGHT. R11-3-BALLISTICS_RULING
+    and R11-5-COMBAT_GUIDE_RANGE_OPENING are not named and stand. Option A, which would have restored
+    the texture clause of R11-3-FIREARM_PROSE_LAW ('The gun is furniture, not spectacle'), was not taken;
+    that row stays superseded by R53-05-PROOF_PLATE.
+- id: R71-59-PRACTITIONERS_AS_ARTILLERY
+  pack: Combat Law 2026-10-04
+  pack_number: null
+  section: FT9
+  title: 'Practitioner as battery: the commander lays him, a spotter reads the gauge'
+  status: live
+  kind: procedure
+  summary: 'Show a high-Stage practitioner in battle as a battery: an ordinary commander directs him like
+    a gun and a Measurewright spotter in the line reads the effect on her gauge, with R3-9 kept whole
+    and each section POV-locked across marked breaks.'
+  verbatim: Battery with a spotter. An ordinary commander directs the practitioner like a gun; a Measurewright
+    spotter in the line reads the effect on her gauge. R3-9 stays whole, and each section stays POV-locked
+    across marked breaks.
+  amends:
+  - guide: Mass Combat Craft Guide
+    locus: §15, the practitioner in battle
+    operation: extends
+  supersedes: []
+  applies_to:
+  - mass-combat
+  - pov
+  - scene-structure
+  - magic-mechanism
+  verification: []
+  ratified: 'Isaac, 2026-10-04, Claude Code chat: ruled directly (the combat questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: 'FT9. ''R3-9 stays whole'': R3-9-PRACTITIONER_POV_RULING and R3-9-BEFORE_AFTER_DURING stand unchanged,
+    so the practitioner''s head stays closed during the fighting. The sections are R70-106-BATTLE_TOLD''s
+    hill and ditch at marked breaks; R70-106 stands. R1-2-THREE_FIELDS_MANDATORY and R2-6-DOMAINS_BREAK_NOT_KILL
+    are not named and stand. Options A (weather from the ditch only) and B (the practitioner holding the
+    hill section) were not taken.'
+- id: R71-60-VOLLEY_SMOKE_DRILLED_LINE
+  pack: Combat Law 2026-10-04
+  pack_number: null
+  section: FT10
+  title: The Mass Combat Guide gains drill, the spread and enhanced-shot companies
+  status: live
+  kind: consequential_edit
+  summary: 'The Mass Combat Guide gains three gunpowder sections: drill and smoke (loading by numbered
+    motions, smoke that blinds after the first volley, fire by platoons, squares against horse), the spread
+    against a practitioner (men drilled to spread, make him choose and keep a line of fire open, beating
+    him at a stated cost in men), and enhanced-shot companies (each round priced, made and findable, fired
+    only at practitioners and only on a named order); field guns and the late gun were not taken.'
+  verbatim: 'Yes to: Drill and smoke (A section on loading by numbered motions, smoke that blinds after
+    the first volley, fire by platoons down a line, and squares against horse; the ditch sees smoke and
+    hears the count); Spread against a practitioner (A section on Counterplay''s doctrine: men drilled
+    to spread, make him choose and keep a line of fire open, so numbers correctly used beat a practitioner
+    at a stated cost in men); Enhanced-shot companies (A section on elite guard and bounty companies with
+    full pouches of enhanced shot (R53-04): each round priced, made and findable, fired only at practitioners
+    and only on a named order). Not taken: Guns and the late gun.'
+  amends:
+  - guide: Mass Combat Craft Guide
+    locus: 'Gunpowder battle: drill and smoke, the spread, enhanced-shot companies'
+    operation: adds
+  supersedes: []
+  applies_to:
+  - mass-combat
+  - items
+  - adjudication
+  - worldbuilding
+  verification: []
+  ratified: 'Isaac, 2026-10-04, Claude Code chat: ruled directly (the combat questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: FT10. Three sections taken; option C (field guns, rockets and the rare state-owned machine gun)
+    was not taken. The enhanced-shot section gives R53-04-ENHANCED_SHOT its place in battle, and its 'priced,
+    made and findable' reads with R45-5-PAID_PER_SHOT_AND_FINDABLE; both stand. The spread is Counterplay's
+    doctrine, as the answer says. R53-03-FIREARM_CEILING, R59-12-TRANSITIONAL_MILITARY, R11-3-BALLISTICS_RULING,
+    R1-4-PRECEDENCE_NOTE and R70-106-BATTLE_TOLD are not named and stand.
+- id: R71-61-SIEGE_WITH_PRACTITIONERS_IT
+  pack: Combat Law 2026-10-04
+  pack_number: null
+  section: FT11
+  title: A ward's failure joins the siege's Close Register breaks
+  status: live
+  kind: mandate
+  summary: 'In a siege, a ward failing joins the sortie, the mine and the storm as a Close Register break:
+    sudden, seen from a POV on the wall, and over fast, with the Line Register resuming after.'
+  verbatim: 'Ward breach as a break. Amends R3-8: a ward failing joins sortie, mine and storm as a Close
+    Register break, sudden, from a POV on the wall, and over fast; the Line Register resumes after.'
+  amends:
+  - guide: Mass Combat Craft Guide
+    locus: §11, siege
+    operation: extends
+  supersedes: []
+  applies_to:
+  - mass-combat
+  - scene-structure
+  - pov
+  verification: []
+  ratified: 'Isaac, 2026-10-04, Claude Code chat: ruled directly (the combat questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: 'FT11. ''Amends R3-8'' reaches R3-8-SIEGE_CLOSE_REGISTER_RESERVED only: its three tedium-breaks
+    become four, and its ''arrive without warning and end faster than the reader wants'' stands. R3-8-SIEGE_LINE_REGISTER_DEFAULT
+    and R3-8-SIEGE_PARLEY_IS_SCENE stand, as do the other R3-8 rows. R3-9-BEFORE_AFTER_DURING is not named
+    and stands. How a breaking ward reads is WT6 (R71-95-WARD_BREAKING). Options A (siege law as written)
+    and C (the practitioner''s breach as a set piece) were not taken.'
+- id: R71-62-CHASES_PURSUITS
+  pack: Combat Law 2026-10-04
+  pack_number: null
+  section: FT12
+  title: A chase is the reserve race run over the quarry's route
+  status: live
+  kind: mandate
+  summary: Decide a chase by the reserve race (every burst of speed spent, both bodies paying, whoever
+    runs dry first losing, the running total kept in the notes) and by the quarry's route read against
+    the pursuer's (ground chosen beforehand, a cut street, a standpipe yard, a rail cutting), the map
+    deciding while the reserve still runs; the crowd-and-law shape was not taken.
+  verbatim: 'Yes to: The reserve race (The chase is the reserve clock: every burst of speed is spent,
+    both bodies pay, and whoever runs dry first loses. The running total stays in the notes (R70-88));
+    The quarry''s route (The chase is the quarry''s route read against the pursuer''s: ground chosen beforehand,
+    a cut street, a standpipe yard, a rail cutting. The reserve still runs, but the map decides). Not
+    taken: The crowd and the law.'
+  amends:
+  - guide: WOTR_Combat_Craft_Guide.md
+    locus: Chases and pursuits
+    operation: adds
+  supersedes: []
+  applies_to:
+  - combat
+  - adjudication
+  - stats
+  - scene-structure
+  verification: []
+  ratified: 'Isaac, 2026-10-04, Claude Code chat: ruled directly (the combat questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: FT12. Two shapes taken; option C (the crowd and the law) was not taken. R2-6-SPEED_RULING ('A
+    character who arrives fast arrives depleted'), R60-03-HARD_RESERVE_CLOCK and R47-11-TIME_AND_ENERGY
+    stand and supply the clock. The running total stays in the notes under R70-88-NUMBERS_INSIDE_FIGHT,
+    as the answer says. R13-8-RECONSTRUCTIBLE_ADJUDICATION and R53-18-AWE are not named and stand. CW11's
+    flight (R71-20-FIGHTS_END) hands pursuit to this row.
+- id: R71-63-BEASTKIN_SENSES_FOX_FIRE
+  pack: Combat Law 2026-10-04
+  pack_number: null
+  section: FT13
+  title: 'Beastkin in a fight: scent as the read, involuntary tells, fox-fire as light'
+  status: live
+  kind: mandate
+  summary: For a scenting POV the floor's named read may be a smell stated as evidence (what was smelled,
+    where, what it means) with tempo words following the nose; ears and tail move before the fighter decides,
+    and an opponent who knows it may read them as a fair, findable counter; and a canon Trait that makes
+    light, such as fox-fire, is named as light by colour, size and what it shows, R9-3's glow ban staying
+    on Essence discharge only; lineage on the appraisal was not taken.
+  verbatim: 'Yes to: Scent as the read (For a scenting POV, the floor''s named read may be a smell stated
+    as evidence: what was smelled, where, and what it means. Tempo words follow the nose); Tells the enemy
+    reads (Ears and tail move before the fighter decides, and an opponent who knows it may read them:
+    an involuntary tell written as a fair, findable counter, in the opponent''s eyes or mouth); Fox-fire
+    as plain light (A canon Trait that makes light is named as light, by colour, size and what it shows;
+    R9-3''s glow ban stays on Essence discharge only). Not taken: Lineage on the appraisal.'
+  amends:
+  - guide: WOTR_Combat_Craft_Guide.md
+    locus: §4, the read (beastkin)
+    operation: extends
+  - guide: WOTR_Visual_Aesthetic_Guide.md
+    locus: Section 4a
+    operation: extends
+  supersedes: []
+  applies_to:
+  - combat
+  - pov
+  - prose-law
+  - magic-mechanism
+  verification: []
+  ratified: 'Isaac, 2026-10-04, Claude Code chat: ruled directly (the combat questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: 'FT13. Three habits taken; option D (lineage printed on the appraisal) was not taken. Partly
+    amends R9-3-AURA_AS_FRACTURE: its ''It glowed'' ban stays on Essence discharge and does not reach
+    a canon light-making Trait. A smell may pay R13-4-COMBAT_FLOOR''s item 3 (the read, the specific tell
+    named) for a scenting POV; the floor stands. R1-1-YOKO_ASSIGNED (nose reads before eyes) is not named
+    and stands. R54-21-FACULTY_AS_SUBJECT and R70-85-SCENE_MOMENTS_THAT_EARN are not named and stand.'
+- id: R71-64-FIGHTING_MAIN
+  pack: Combat Law 2026-10-04
+  pack_number: null
+  section: FT14
+  title: 'The main in a fight: the cut, the burst main, short ground'
+  status: live
+  kind: mandate
+  summary: 'Three Draw Age terrain beats become standing fight texture: a district may be cut from outside
+    mid-fight (the hum dies, the room''s density falls, every draw costs more, and the page names who
+    ordered it); a working that splits a culvert or standpipe spikes the room''s density (output up, reach
+    down by FOW''s square-root law, any figure printed as a marked estimate); and ground fought on stays
+    short for hours (reach falls, gauges read the residue, a second fight there pays for the first, no
+    figure printed without a source); rail and the tram slot were not taken.'
+  verbatim: 'Yes to: The cut mid-fight (A district can be cut from outside during a fight: the hum dies,
+    the room''s density falls, every draw costs more, and the page names who ordered it, even unseen);
+    The burst main (A working that splits a culvert or standpipe spikes the room''s density: output up,
+    reach down, by FOW''s square-root law. The page shows the effect; any figure prints as a marked estimate
+    (R70-99)); Short ground after (Ground fought on stays short for hours: reach falls, gauges read the
+    residue, and a second fight there pays for the first. FOW''s law decides it, and no figure prints
+    without a source). Not taken: Rail and the tram slot.'
+  amends:
+  - guide: WOTR_Combat_Craft_Guide.md
+    locus: 'Ground and environment: the main'
+    operation: adds
+  supersedes: []
+  applies_to:
+  - combat
+  - adjudication
+  - magic-mechanism
+  - worldbuilding
+  verification: []
+  ratified: 'Isaac, 2026-10-04, Claude Code chat: ruled directly (the combat questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: FT14. Three beats taken; option D (rail and the tram slot) was not taken. FOW's law decides the
+    burst main and short ground; the question cites FOW Part Eleven for the density and reach law. R70-99-NUMBER_NOT_YET_CANON
+    governs the burst main's marked estimate and R12-5-NEVER_INVENT_NUMBER the short ground's sources;
+    both stand. R53-17-THE_BILL, R70-69-PRESSURE_AURA, R13-8-RECONSTRUCTIBLE_ADJUDICATION and R53-01-IMPERIAL_AGE_SPAN
+    are not named and stand. Works with CW10 (R71-19-GROUND_WEATHER_FIGHT), whose environment row has
+    Aetheric Density bend named stats.
+- id: R71-65-RIVER_SEA_FIGHTS
+  pack: Combat Law 2026-10-04
+  pack_number: null
+  section: FT15
+  title: River fights run on river law
+  status: live
+  kind: mandate
+  summary: 'A river fight runs on rows of its own: the banks close the horizon and open a rout and an
+    ambush, the current is the motion channel, sound carries far over cold water, and the cold drowns.'
+  verbatim: 'River law of its own. A river gets its own rows: banks close the horizon and open a rout
+    and an ambush, the current is the motion channel, sound carries far over cold water, and the cold
+    drowns.'
+  amends:
+  - guide: Mass Combat Craft Guide
+    locus: '§11, naval: rivers'
+    operation: adds
+  supersedes: []
+  applies_to:
+  - mass-combat
+  - combat
+  - pov
+  - worldbuilding
+  verification: []
+  ratified: 'Isaac, 2026-10-04, Claude Code chat: ruled directly (the combat questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: FT15. Options A (sea law throughout) and C (land law on wet ground) were not taken. The R3-8
+    naval rows (R3-8-NAVAL_SENSORY_HIERARCHY, R3-8-NAVAL_SIGHT_HELPLESSNESS, R3-8-NAVAL_MOTION_CHANNEL,
+    R3-8-NAVAL_NO_ROUT and R3-8-NAVAL_FIRE_WATER_DEATHS) speak of the sea and stand for it; the river
+    rows sit beside them, opening on a river the rout R3-8-NAVAL_NO_ROUT closes at sea and giving the
+    current the place R3-8-NAVAL_MOTION_CHANNEL gives the deck.
+- id: R71-66-FIGHT_THAT_MOSTLY_READ
+  pack: Combat Law 2026-10-04
+  pack_number: null
+  section: FT16
+  title: 'A long read and one cut: the floor paid before and after the cut'
+  status: live
+  kind: procedure
+  summary: When a fight is a long read and one cut, the read pays the floor's first four items (measure,
+    tempo, read, fault) before the cut, the body pays the last four (the hit, the injury, the Essence,
+    what he cannot do) after it, and the cut itself is one line between.
+  verbatim: Read before, body after. The read pays the first four items (measure, tempo, read, fault)
+    before the cut; the body pays the last four (the hit, the injury, the Essence, what he cannot do)
+    after it. The cut is one line between.
+  amends:
+  - guide: WOTR_Combat_Craft_Guide.md
+    locus: §4, the floor in Verdict grammar
+    operation: extends
+  supersedes: []
+  applies_to:
+  - combat
+  - prose-law
+  - scene-structure
+  verification: []
+  ratified: 'Isaac, 2026-10-04, Claude Code chat: ruled directly (the combat questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: 'FT16. Works out K4 (R71-4-FAR_FROM_FLOOR: ''Verdict states the read before and the mechanics
+    after, on the body'') for the one-cut fight. R13-4-COMBAT_FLOOR keeps all eight items; this row places
+    them. R1-1-VERDICT_GRAMMAR and R70-102-STILLNESS_TRACED_PASSES_LONG (''Verdict still then one cut'')
+    stand. R13-4-THREE_EXPLANATIONS and R70-57-DESCRIPTION_INSIDE_FIGHT are not named and stand. Options
+    A (the whole floor in the read) and B (the unseen cut, paid after) were not taken.'
+- id: R71-67-CLEAR_WARNING_BEFORE_LOSS
+  pack: Combat Law 2026-10-04
+  pack_number: null
+  section: FT17
+  title: 'Before a killing exchange: a plain sign and a shown exit'
+  status: live
+  kind: mandate
+  summary: Before any exchange may kill a losing POV, at least one plain sign the fight is lost (a gap
+    read, a wound, a second's shout, a readout) lands an exchange or more earlier and a way out (ground,
+    a door, a yield, a price) is shown; a death means the exit was missed or refused, the notes cite both
+    sign and exit, and ambushes follow R48-30.
+  verbatim: 'A sign and an exit. As B, plus a way out shown before the killing exchange (ground, a door,
+    a yield, a price). A death means the exit was missed or refused, and the notes cite both sign and
+    exit. (Option B there reads: One plain sign first. At least one plain sign the fight is lost (a gap
+    read, a wound, a second''s shout, a readout) lands an exchange or more before the killing one, and
+    the notes cite it. Ambushes follow R48-30.)'
+  amends:
+  - guide: NATALIE.md and the wotr-write skill
+    locus: Roleplay partnership (stakes)
+    operation: extends
+  - guide: WOTR_Combat_Craft_Guide.md
+    locus: Lethality and warning
+    operation: adds
+  supersedes: []
+  applies_to:
+  - adjudication
+  - combat
+  - session-protocol
+  verification: []
+  ratified: 'Isaac, 2026-10-04, Claude Code chat: ruled directly (the combat questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: 'FT17. Partly amends R48-31-STAKES: its ''clear warning'' now means a plain sign plus a way out
+    shown before the killing exchange, both cited in the notes; ''Death can happen, if earned'' stands.
+    R48-30-SURPRISES governs ambushes, as the answer says. R60-01-BRUTAL_LETHALITY (''most fights end
+    in the first seconds'') is not named and stands, and option D (which softened it for the POV alone)
+    was not taken; where the killing exchange would be the first, the answer does not say where a sign
+    ''an exchange or more before the killing one'' lands, and that is not settled here and is flagged
+    for the conflict log. Serves K7 (R71-8-CORE_PROMISE:
+    a findable line out, always planted). R57-10-NEVER_RIGGED, R70-88-NUMBERS_INSIDE_FIGHT and R49-01-WHOSE_HEAD
+    are not named and stand.'
+- id: R71-68-TWO_GRAMMARS_MEET
+  pack: Combat Law 2026-10-04
+  pack_number: null
+  section: FT18
+  title: 'Two grammars in one duel: both shapes run, the fight turns on the overrun'
+  status: live
+  kind: mandate
+  summary: When fighters of two grammars duel, both shapes run at once, the POV's grammar on the surface
+    and the opponent's underneath in the cost, and the fight turns at the moment one overruns the other.
+  verbatim: 'The clash is the shape. Both shapes run at once: the POV''s grammar on the surface, the opponent''s
+    underneath in the cost, and the fight turns at the moment one overruns the other.'
+  amends:
+  - guide: WOTR_Combat_Craft_Guide.md
+    locus: 'The four grammars: duel shape'
+    operation: extends
+  supersedes: []
+  applies_to:
+  - combat
+  - scene-structure
+  - adjudication
+  verification: []
+  ratified: 'Isaac, 2026-10-04, Claude Code chat: ruled directly (the combat questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: FT18. Fills the case R70-102-STILLNESS_TRACED_PASSES_LONG leaves silent (two grammars meeting);
+    R70-102 stands. R1-1-THREE_VOCABULARIES_RULING, R3-7-EXPENDITURE_GRAMMAR and R70-100-MARTIAL_VOCABULARY_NAMES_MOVES
+    stand. Options A (the POV's grammar governs) and B (the deciding grammar, at a marked turn) were not
+    taken.
+- id: R71-69-GRAMMAR_GUN_BENCH_FIELD
+  pack: Combat Law 2026-10-04
+  pack_number: null
+  section: FT19
+  title: 'Four grammars suffice: the marksman in Verdict, bench and field in Expenditure'
+  status: live
+  kind: definition
+  summary: 'The four combat grammars suffice: a marksman fights in Verdict, a bench alchemist and a field
+    caster fight in Expenditure, each card names its grammar, and no fifth is added.'
+  verbatim: The four suffice. A marksman reads, ranks and commits, so he fights in Verdict; the alchemist
+    and the field caster make the other man spend, so they fight in Expenditure. Each card names its grammar;
+    no fifth.
+  amends:
+  - guide: WOTR_Combat_Craft_Guide.md
+    locus: The four grammars
+    operation: extends
+  - guide: character sheet template
+    locus: combat grammar
+    operation: adds
+  supersedes: []
+  applies_to:
+  - combat
+  - character-sheet
+  verification: []
+  ratified: 'Isaac, 2026-10-04, Claude Code chat: ruled directly (the combat questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: FT19. R1-1-THREE_VOCABULARIES_RULING ('Assign the vocabulary before assigning the technique'),
+    R1-1-VERDICT_GRAMMAR and R3-7-EXPENDITURE_GRAMMAR stand. R20C-54-COMBAT_ASSIGNMENTS_CONFIRMED stands;
+    the cards it leaves to the Combat Guide now each name a grammar. Options B (a fifth, Preparation)
+    and C (a fifth, Range) were not taken.

@@ -77,7 +77,10 @@ rules:
     file: ''
     lines: null
   notes: 'Question w03: Right now similes (''like'', ''as if'') are rationed and metaphor is
-    preferred, and em dashes are banned outright. Keep that?'
+    preferred, and em dashes are banned outright. Keep that?
+    Partly amended by R71-18-FIGHT_SOUNDS_LIKE (combat law 2026-10-04): in a fight an impact''s
+    sound is carried by the POV culture''s native sound words, and comparisons are kept for the held
+    instant (R70-57-DESCRIPTION_INSIDE_FIGHT).'
 - id: R48-04-METAPHORS
   pack: Writing Law 2026-09-26
   pack_number: null
@@ -799,7 +802,12 @@ rules:
   notes: 'Question w31: Play is meant to be fair and a real challenge. Can a fight kill your
     character outright? Stands, as R70-104-RIVAL_BOND says (style law 2026-10-03); a rival recurs
     only by a mercy someone chose and paid for on the Ledger (a debt, a scar, a witness to the
-    mercy).'
+    mercy).
+    Partly amended by R71-67-CLEAR_WARNING_BEFORE_LOSS (combat law 2026-10-04): "As B, plus a way
+    out shown before the killing exchange (ground, a door, a yield, a price). A death means the exit
+    was missed or refused, and the notes cite both sign and exit." The clear warning is a plain sign
+    the fight is lost, landing an exchange or more before the killing one, plus a way out shown
+    before that exchange; death if earned stands.'
 - id: R48-32-NPC_VOICES
   pack: Writing Law 2026-09-26
   pack_number: null
@@ -850,7 +858,11 @@ rules:
     (kesa-giri for a Moto POV, Zornhau for a Greymane POV), and a foreign school''s word arrives
     only in a mouth; and by R70-102-STILLNESS_TRACED_PASSES_LONG: duel shape follows the combat
     grammar (Verdict still then one cut, Blade traced passes, Percussion and Expenditure by
-    attrition).'
+    attrition).
+    Partly amended by R71-10-COUNTING_BACK_SMALL_EXCHANGES (combat law 2026-10-04): ''R48-33 is
+    amended'': exchanges that change nothing may be counted back in one sentence, each named by its
+    move; any exchange that lands, shifts measure or reveals something is still traced, with the
+    floor.'
 - id: R48-34-WOUNDS
   pack: Writing Law 2026-09-26
   pack_number: null
@@ -875,7 +887,10 @@ rules:
     lines: null
   notes: 'Question w34: How graphic should wounds be? Stands everywhere, as R70-105-JOINS_WOUND_WHEN_FIGHT
     says (style law 2026-10-03); that row adds the killing rites for Japonic, Korean and Chinese
-    killers and an elegiac image for a POV whose culture mourns that way.'
+    killers and an elegiac image for a POV whose culture mourns that way.
+    Partly amended by R71-86-REVENANT_FIGHT (combat law 2026-10-04): a revenant''s wounds are
+    written by structure with no blood-loss class, so no blood loss is tracked for it. Full clinical
+    gore and named anatomy stand.'
 - id: R48-35-USES
   pack: Writing Law 2026-09-26
   pack_number: null
@@ -949,7 +964,10 @@ rules:
     lines: null
   notes: 'Question w37: How should an ability''s cost show in the prose? Confirmed by R70-89-BODY_FIRST_NUMBER_FIRST
     (style law 2026-10-03): the body leads, and a readout may follow a line after in the same
-    beat.'
+    beat.
+    Partly amended by R71-6-PLAYER_FIGHTER_PAGE (combat law 2026-10-04): for a fighter who belongs
+    to a player, only the cost others could see reaches the page (heat off the skin, thaw at his
+    boots); the spend goes to the Stat Ledger and the inside is the player''s.'
 - id: R48-38-AFTERMATH
   pack: Writing Law 2026-09-26
   pack_number: null
@@ -976,7 +994,13 @@ rules:
     to the aftermath? Extended by R70-105-JOINS_WOUND_WHEN_FIGHT (style law 2026-10-03): when
     someone dies by the blade, a Japonic, Korean or Chinese killer carries the killing rites,
     and a POV whose culture mourns that way adds an elegiac image; the clinical floor holds
-    everywhere.'
+    everywhere.
+    Partly amended by R71-21-AFTERMATH_PAGE (combat law 2026-10-04): the dressing is written as
+    process (the period kit for the place, the healer''s hands, the bleeding clock closing, what
+    this place''s medicine cannot do). Extended by R71-99-BILL_AFTER_FIGHT (combat law 2026-10-04):
+    in the aftermath each of a fight''s costs arrives as a person or a paper (the fee named from the
+    price table or exactly in kind, the debt spoken, the witnesses counted), and the formal Ledger
+    stays in the notes.'
 - id: R48-39-INTERIORITY
   pack: Writing Law 2026-09-26
   pack_number: null
@@ -1034,7 +1058,10 @@ rules:
     roll call, one line inside each of several heads, before the lock resumes; outside a roll
     call a locked written scene still carries no NPC thoughts. Stands, as R70-103-MEMORY_INSIDE_FIGHT
     confirms (style law 2026-10-03): no flashback runs inside an opponent; his past reaches
-    the page only through what the POV knows.'
+    the page only through what the POV knows.
+    Partly amended by R71-47-SHOWING_SCALE (combat law 2026-10-04): in a top-ladder fight in a city,
+    one commoner in the street may get a short dip inside her head at a marked break, then the lock
+    resumes; outside that and a roll call a locked written scene still carries no NPC thoughts.'
 - id: R48-41-MAGIC_TALK
   pack: Writing Law 2026-09-26
   pack_number: null

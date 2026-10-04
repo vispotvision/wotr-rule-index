@@ -1,0 +1,66 @@
+[
+ {
+  "old_id": "R1-4-PRECEDENCE_NOTE",
+  "action": "note",
+  "by": "R71-51-SKIRMISH_THREE_TEN",
+  "r71_quote": "Amends R1-4: the POV's own exchanges carry the duel floor, and everyone else's fighting is compressed by the Mass Guide's rules.",
+  "old_text": "Precedence. This guide governs duels and small actions. The Mass Combat Craft Guide takes precedence the moment a formation exists. The three-layer hit model, the HEMA vocabulary and the armour-tier breakdown are all duel instruments and are explicitly suspended or replaced in mass combat per that guide's sections 1, 3 and 4.",
+  "note_text": "Partly amended by R71-51-SKIRMISH_THREE_TEN (combat law 2026-10-04): \"Amends R1-4: the POV's own exchanges carry the duel floor, and everyone else's fighting is compressed by the Mass Guide's rules.\" In a small action with no formation this guide's floor now covers only the POV's own exchanges, and the fighting around her is compressed by the Mass Combat Guide's rules; the formation trigger and the suspension of duel instruments in mass combat stand."
+ },
+ {
+  "old_id": "R5-C1-WRITE_FROM_LEAST_KNOWING",
+  "action": "note",
+  "by": "R71-52-AMBUSH_NAMED_ROUND",
+  "r71_quote": "A marked break splits the wait from the shot, each half POV-locked.",
+  "old_text": "Where a scene could be written from two POVs, write it from whoever knows least about what is coming. This is a default, breakable with reason.",
+  "note_text": "Partly amended by R71-52-AMBUSH_NAMED_ROUND (combat law 2026-10-04): \"A marked break splits the wait from the shot, each half POV-locked.\" An ambush or assassination is split at a marked break between the wait and the shot, each half POV-locked, instead of given whole to whoever knows least; the default stands for every other scene."
+ },
+ {
+  "old_id": "R70-33-WORD_BANK_PER_CULTURE",
+  "action": "note",
+  "by": "R71-53-BRAWLS_FOLK_SCHOOLS",
+  "r71_quote": "Each Standing Inventory's Words entry gains its wrestling and fist words, entered and logged",
+  "old_text": "A Words entry everywhere. Every Inventory gains a Words entry: native words, trade terms, slang and address forms, each with meaning and who says it. Scenes draw from it first; a checker can spell-check against it.",
+  "note_text": "Partly amended by R71-53-BRAWLS_FOLK_SCHOOLS (combat law 2026-10-04): \"Each Standing Inventory's Words entry gains its wrestling and fist words, entered and logged\" Each Words entry also carries its culture's folk wrestling and fist words, and a POV raised in them names his moves in them."
+ },
+ {
+  "old_id": "R70-136-NEW_CHECKS_VERIFY_SCENE",
+  "action": "note",
+  "by": "R71-53-BRAWLS_FOLK_SCHOOLS",
+  "r71_quote": "verify gains a list per culture",
+  "old_text": "Yes to: Combat words by school (verify --combat takes a school (blade, japanese, chinese, korean, percussion) or reads the culture tag, and warns only when a fight carries none of that school's terms); A verse marker (A marked verse block (a poem, a lament, a declaration in lines) is left out of the rhythm statistics and word count; the dash and hard-ban checks still read it); Stock-formula watch (A WARN on translated web-novel formulas (you court death, this junior, this old man, lose face) in narration, and an info line in speech, so the flavour stays where DL2 puts it). Not taken: Address check.",
+  "note_text": "Partly amended by R71-53-BRAWLS_FOLK_SCHOOLS (combat law 2026-10-04): \"verify gains a list per culture\" verify --combat gains a folk fighting word list for each culture beside its school lists."
+ },
+ {
+  "old_id": "R70-100-MARTIAL_VOCABULARY_NAMES_MOVES",
+  "action": "note",
+  "by": "R71-53-BRAWLS_FOLK_SCHOOLS",
+  "r71_quote": "a POV raised in them names moves in them, and verify gains a list per culture",
+  "old_text": "By the POV's own school. Narration names every move in the POV's own training (a Moto POV calls a diagonal cut kesa-giri, a Greymane POV a Zornhau); a foreign school's word arrives in a mouth. verify takes per-school lists.",
+  "note_text": "Read with R71-53-BRAWLS_FOLK_SCHOOLS (combat law 2026-10-04): \"a POV raised in them names moves in them, and verify gains a list per culture\" A folk wrestling or fist trade counts as the POV's own training, so a POV raised in one names his moves in its words, and verify reads a list per culture beside the school lists; this rule stands."
+ },
+ {
+  "old_id": "R3-8-SIEGE_CLOSE_REGISTER_RESERVED",
+  "action": "note",
+  "by": "R71-61-SIEGE_WITH_PRACTITIONERS_IT",
+  "r71_quote": "Amends R3-8: a ward failing joins sortie, mine and storm as a Close Register break, sudden, from a POV on the wall, and over fast; the Line Register resumes after.",
+  "old_text": "The Close Register is reserved for the three things that break the tedium: a sortie, a mine breaking through, and the storm. Each should arrive without warning and end faster than the reader wants.",
+  "note_text": "Partly amended by R71-61-SIEGE_WITH_PRACTITIONERS_IT (combat law 2026-10-04): \"Amends R3-8: a ward failing joins sortie, mine and storm as a Close Register break, sudden, from a POV on the wall, and over fast; the Line Register resumes after.\" The three tedium-breaks are now four with a ward's failure; each still arrives without warning and ends fast."
+ },
+ {
+  "old_id": "R9-3-AURA_AS_FRACTURE",
+  "action": "note",
+  "by": "R71-63-BEASTKIN_SENSES_FOX_FIRE",
+  "r71_quote": "A canon Trait that makes light is named as light, by colour, size and what it shows; R9-3's glow ban stays on Essence discharge only",
+  "old_text": "Aura as fracture, not glow. Where Essence discharge needs a visual, it reads as broken geometry around the body... \"It glowed\" stays banned; this is its replacement specifically for a Stage-display beat, not a general substitute for the phenomenon bank.",
+  "note_text": "Partly amended by R71-63-BEASTKIN_SENSES_FOX_FIRE (combat law 2026-10-04): \"A canon Trait that makes light is named as light, by colour, size and what it shows; R9-3's glow ban stays on Essence discharge only\" 'It glowed' stays banned for Essence discharge; a canon Trait that makes light, such as fox-fire, is named plainly as light."
+ },
+ {
+  "old_id": "R48-31-STAKES",
+  "action": "note",
+  "by": "R71-67-CLEAR_WARNING_BEFORE_LOSS",
+  "r71_quote": "As B, plus a way out shown before the killing exchange (ground, a door, a yield, a price). A death means the exit was missed or refused, and the notes cite both sign and exit.",
+  "old_text": "Death can happen, if earned: from real mistakes after clear warning; nothing is safe.",
+  "note_text": "Partly amended by R71-67-CLEAR_WARNING_BEFORE_LOSS (combat law 2026-10-04): \"As B, plus a way out shown before the killing exchange (ground, a door, a yield, a price). A death means the exit was missed or refused, and the notes cite both sign and exit.\" The clear warning is a plain sign the fight is lost, landing an exchange or more before the killing one, plus a way out shown before that exchange; death if earned stands."
+ }
+]

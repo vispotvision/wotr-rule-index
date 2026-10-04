@@ -603,7 +603,13 @@ rules:
     source:
       file: WOTR_Companion_Guide_Amendments_Pack_Eleven.md
       lines: "71"
-    notes: null
+    notes: >-
+      Partly amended by R71-93-PROOFED_SHOT_AGAINST_PROOFED (combat law
+      2026-10-04), which rules C-001: proofed shot still 'Defeats proofed
+      plate', now on R46-3-ARMOUR_TIER_IS_ITS_PROOF's one ladder, striking
+      worked armour as one Tier higher (out-coupling counts one Tier); a round
+      two over passes, and the named round is simply two over. No words of
+      replacement, so the row stays live.
 
   - id: R11-3-FIREARM_PROSE_LAW
     pack: Pack Eleven

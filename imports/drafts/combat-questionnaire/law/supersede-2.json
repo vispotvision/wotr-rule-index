@@ -1,0 +1,106 @@
+[
+ {
+  "old_id": "R8-26-ONE_RELEASE_PER_SCENE",
+  "action": "supersede",
+  "by": "R71-29-OFTEN_ART_RELEASED",
+  "r71_quote": "R50-09 governs and R8-26 is marked superseded.",
+  "old_text": "One release per scene at most. Two men releasing in the same scene is an event, not texture.",
+  "note_text": "Superseded by R71-29-OFTEN_ART_RELEASED (combat law 2026-10-04): 'R50-09 governs and R8-26 is marked superseded.' An art's release may be called as often as the fight gives a beat, each call costing its beat; closes CONFLICTS C-159."
+ },
+ {
+  "old_id": "R8-23-NAME_HIERARCHY",
+  "action": "note",
+  "by": "R71-29-OFTEN_ART_RELEASED",
+  "r71_quote": "a fighter may call his art again whenever he can afford the beat",
+  "old_text": "Art, then technique, then form. The art carries the character. Individual techniques may not. An art is spoken once at release and thereafter assumed. Techniques are spoken every time they are used.",
+  "note_text": "Partly amended by R71-29-OFTEN_ART_RELEASED (combat law 2026-10-04): an art may be called again whenever the fighter can afford the beat, so 'spoken once at release and thereafter assumed' no longer limits the call; the art-technique-form hierarchy and techniques spoken at each use stand."
+ },
+ {
+  "old_id": "R70-71-EXPLAINING_WORKING_MID_FIGHT",
+  "action": "note",
+  "by": "R71-30-HELD_BACK_REVEAL",
+  "r71_quote": "This reopens R70-71 for held reveals: the rule may act earlier, unexplained, as evidence a reader could catch, and a voice tells it at the reveal.",
+  "old_text": "Rules shown beforehand. A working's rules are planted earlier (training, a document, talk), so the fight's explaining is mostly recall and the reader does the sum with the fighter. Self-derived techniques are still read live (R12-3).",
+  "note_text": "Partly amended by R71-30-HELD_BACK_REVEAL (combat law 2026-10-04): for a held reveal, the working's rule may act earlier, unexplained, as evidence a reader could catch, and a voice tells it at the reveal, with the notes listing each planted sign; everywhere else the rules are still planted beforehand."
+ },
+ {
+  "old_id": "R70-89-BODY_FIRST_NUMBER_FIRST",
+  "action": "note",
+  "by": "R71-34-OVERCHANNEL_PAGE",
+  "r71_quote": "The crack is felt in the exchange, inner map and body symptom; its size comes later from a surgeon or an instrument, and the Ledger enters it when measured.",
+  "old_text": "Body, then number. The body first and the readout in the same beat, a line after. Both on the page together, with the body always ahead.",
+  "note_text": "Partly amended by R71-34-OVERCHANNEL_PAGE (combat law 2026-10-04): an Overchannel crack is felt in the exchange (inner map and body symptom), but no figure for it follows in the same beat; its size comes later from a surgeon or an instrument. Body first stands."
+ },
+ {
+  "old_id": "R60-02-REAL_HEALING_TIMES",
+  "action": "note",
+  "by": "R71-36-HEALING_INSIDE_FIGHT",
+  "r71_quote": "Mid-fight Vitalia may close a vessel or seal a bleed, at full price; the wound itself stays open until the fight ends.",
+  "old_text": "Healing runs on real timelines (weeks for a cut, months for bone). Vitalia healing can shorten it, but it costs the healer EU and the patient's body pays something (scar tissue, fever, hunger).",
+  "note_text": "Partly amended by R71-36-HEALING_INSIDE_FIGHT (combat law 2026-10-04): while a fight runs, Vitalia may only close a vessel or seal a bleed, at full price, and the wound stays open until the fight ends; after the fight this row governs as written."
+ },
+ {
+  "old_id": "R70-70-INTENT_FELT_BODY",
+  "action": "note",
+  "by": "R71-40-MECHANISM_AIMED_PRESSURE",
+  "r71_quote": "Dominion draws the Passive Pressure Field onto one man; what he takes, the room loses, so the room eases as he suffers.",
+  "old_text": "Intent as aimed Pressure. Killing intent becomes Pressure narrowed onto one man through Dominion, felt as cold, sweat and the pull to step back, and answered by suppression. It needs a ruled mechanism before first use.",
+  "note_text": "Partly amended by R71-40-MECHANISM_AIMED_PRESSURE (combat law 2026-10-04): the mechanism this row owed is ruled (Dominion draws the Passive Pressure Field onto one man, and the room eases as he suffers), so aimed Pressure may reach the page; the trade's figures come from Dominion and are set, never invented. The felt signs and the answer by suppression stand."
+ },
+ {
+  "old_id": "R53-14-FOLK_KNOWLEDGE",
+  "action": "note",
+  "by": "R71-41-PRESSURE_UNWOKEN",
+  "r71_quote": "the unwoken take Part Eleven's Grade table: dread from F to D, weight in the room from C, knees bending from A.",
+  "old_text": "Ordinary people know the rough ladder: there are ranks, silver tokens are feared, Pressure is felt as dread; they could not name a Stage and use folk words.",
+  "note_text": "Partly amended by R71-41-PRESSURE_UNWOKEN (combat law 2026-10-04): Pressure on the unwoken follows Part Eleven's Aura table by Grade, dread from F to D, weight in the room from C, knees bending from A; 'felt as dread' holds at the low Grades, and the folk words and rough ladder stand."
+ },
+ {
+  "old_id": "R70-79-CAN_READ_WHOM",
+  "action": "note",
+  "by": "R71-44-FACULTY_READ_MAN",
+  "r71_quote": "A faculty prints exact figures where the reader's Gnosis Perception outranks the target's Resilience Ward by Grade, and a hedged range where it does not.",
+  "old_text": "Practitioners feel rank. Any practitioner feels his own Grades and Stage, and another's Band and rough Stage, with Gnosis setting how close. Another's exact figures need an instrument; commoners keep their folk words and their awe.",
+  "note_text": "Partly amended by R71-44-FACULTY_READ_MAN (combat law 2026-10-04): besides an instrument, a faculty prints another's exact figures where the reader's Gnosis Perception outranks the target's Resilience Ward by Grade, and a hedged range where it does not. The sense of rank and the commoners' folk words stand."
+ },
+ {
+  "old_id": "R9-3-SCOPE",
+  "action": "note",
+  "by": "R71-45-RAISING_DOMAIN_DUEL",
+  "r71_quote": "Its rising joins R9-3-SCOPE's triggers as his display beat.",
+  "old_text": "Scope, and it is narrow on purpose. This applies only to Stage-ascension beats, a Pressure drop, and a technique's first display or finisher — the same short list the Ability Guide and Pack Seven already flag for the physical standard (what the body did, what the room did, what the target felt, what it cost). Everywhere else — wounds, environment, objects, ordinary combat, material culture — the Visual Aesthetic Guide's Berserk/Vinland grounded North Star stands untouched.",
+  "note_text": "Partly amended by R71-45-RAISING_DOMAIN_DUEL (combat law 2026-10-04): a Domain's rising in a duel joins this row's triggers as the holder's display beat ('Its rising joins R9-3-SCOPE's triggers as his display beat'); below Stage XI it rises by attention, and this index reads the let-go from suppression at Stage XI and above as that same rising. The rest of the list stands."
+ },
+ {
+  "old_id": "R70-11-WIDE_VIEW",
+  "action": "note",
+  "by": "R71-47-SHOWING_SCALE",
+  "r71_quote": "one commoner in the street gets a short dip inside her head, then the lock resumes. Scale seen from the ditch, by R70-11's device",
+  "old_text": "Sweep with marked dips. Battles and crowds may run a marked roll call: one line inside each of several heads, then the lock resumes. R1-3's name-three rule exempts roll-call lines, and R39-7 gains rules for them.",
+  "note_text": "Partly amended by R71-47-SHOWING_SCALE (combat law 2026-10-04): the marked device reaches a top-ladder fight in a city, where at a marked break one commoner in the street gets a short dip inside her head before the lock resumes."
+ },
+ {
+  "old_id": "R39-7-NO_NPC_THOUGHT_UNDER_POV_LOCK",
+  "action": "note",
+  "by": "R71-47-SHOWING_SCALE",
+  "r71_quote": "one commoner in the street gets a short dip inside her head, then the lock resumes.",
+  "old_text": "The narration-distance rule wins: no NPC italic thought inside a locked-POV scene. Pack One's \"one private italic thought per named NPC\" carve-out survives only for scenes with no POV lock (omniscient and mass combat).",
+  "note_text": "Partly amended by R71-47-SHOWING_SCALE (combat law 2026-10-04): in a top-ladder fight in a city, one commoner in the street may get a short dip inside her head at a marked break, then the lock resumes; a second exception beside R70-11's roll call."
+ },
+ {
+  "old_id": "R48-40-NPC_THOUGHTS",
+  "action": "note",
+  "by": "R71-47-SHOWING_SCALE",
+  "r71_quote": "one commoner in the street gets a short dip inside her head, then the lock resumes.",
+  "old_text": "NPC italic thoughts: roleplay turns keep the one-thought-per-NPC allowance; written scenes keep the POV lock (no NPC thoughts under a lock).",
+  "note_text": "Partly amended by R71-47-SHOWING_SCALE (combat law 2026-10-04): in a top-ladder fight in a city, one commoner in the street may get a short dip inside her head at a marked break, then the lock resumes; outside that and a roll call a locked written scene still carries no NPC thoughts."
+ },
+ {
+  "old_id": "R70-73-MANY_DISPLAY_BEATS_PER",
+  "action": "note",
+  "by": "R71-49-SUMMON_DISPLAY_BEAT",
+  "r71_quote": "A Native summon, with its own Crystal, takes its own display beat; Donated and Analog forms share the summoner's.",
+  "old_text": "One per practitioner. Each named practitioner may take one display beat per scene, so a duel can carry two and a battle several. R9-3-SCOPE's list of triggers stays.",
+  "note_text": "Partly amended by R71-49-SUMMON_DISPLAY_BEAT (combat law 2026-10-04): a Native summon, with its own Crystal, takes a display beat of its own; Donated and Analog forms share their summoner's."
+ }
+]

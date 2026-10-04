@@ -1,0 +1,2106 @@
+[
+ {
+  "n": 1,
+  "qid": "K1",
+  "section": "K",
+  "id": "R71-1-WHERE_LINE_FALLS_FIGHT",
+  "title": "Where the line falls in a fight",
+  "verbatim": "Western body, Eastern read. The exchange, the wound and the cost stay Western and clinical; the read, the stillness before the cut and a rule's reveal run Eastern, long and deductive, the Naruto and Bleach way. The next Combat Guide writes it in.",
+  "question": "Inside one fight, which strand leads the read, the stillness before the cut and the reveal of a hidden rule?",
+  "rules_touched": [
+   "R70-3-STRAND_LEADS_LAYER",
+   "R70-9-TECHNICAL_MYSTIC_REGISTERS",
+   "R12-8-COMBAT_GUIDE_READ_LENGTH",
+   "R70-15-TEMPO_STILLNESS"
+  ],
+  "multi": false,
+  "choice": [
+   "B"
+  ]
+ },
+ {
+  "n": 2,
+  "qid": "K2",
+  "section": "K",
+  "id": "R71-2-EASTERN_COMBAT_MODELS",
+  "title": "Eastern combat models",
+  "verbatim": "Yes to: Togashi, Hunter x Hunter (Fights as logic: the opponent's rules inferred from evidence, tested and exploited, and the winner is whoever knows his own limits best. Its vows that trade a limit for power wait for MC6); Gu Long, the one cut (The duel is the wait: the long read and a single exchange, the floor paid on the body. Becomes the named model for Verdict grammar (read, rank, commit); FT16 asks whether the cut itself is seen); Inoue and Yoshikawa, Musashi (Inoue's manga Vagabond and Yoshikawa's novel Musashi: the deciding event happens inside the fighter (fear, the fixed mind, no-mind), with pages of breath and footing. A model for Japonic POVs); Akutami, Jujutsu Kaisen (Domain clashes decided in a stated order, with the burnout after a Domain as the counter-window. FOW Part Twenty-Two already sets the order; burnout and the sure-hit (a Domain that cannot miss) would be new canon).",
+  "question": "Beside Kishimoto (Naruto) and Kubo (Bleach), which Eastern works should the Combat Craft Guide name as combat models?",
+  "rules_touched": [
+   "R70-4-WESTERN_MODELS",
+   "R70-5-EASTERN_MODELS",
+   "R1-1-VERDICT_GRAMMAR"
+  ],
+  "multi": true,
+  "choice": [
+   "A",
+   "B",
+   "C",
+   "D"
+  ]
+ },
+ {
+  "n": 3,
+  "qid": "K3",
+  "section": "K",
+  "id": "R71-3-WESTERN_COMBAT_MODELS",
+  "title": "Western combat models",
+  "verbatim": "Yes to: Cornwell, Sharpe (Volley drill, powder smoke, the stormed breach, tactics explained in the action by a sergeant's read. The only model for the gunpowder battle the archive has never written); Sanderson, hard magic (Rules planted before, physics as choreography, costs and counters findable, so the reader does the sum. Already close to R70-71's rules shown beforehand); HEMA novelists (Christian Cameron and Sebastien de Castell: armoured fights from inside the steel, the phrase (one unbroken attack and answer), joints, the visor slot, the ground. The Western school's model). Not taken: O'Brian, Aubrey-Maturin.",
+  "question": "Which Western works should the Combat Craft Guide name as combat models?",
+  "rules_touched": [
+   "R70-4-WESTERN_MODELS",
+   "R70-3-STRAND_LEADS_LAYER",
+   "R70-71-EXPLAINING_WORKING_MID_FIGHT"
+  ],
+  "multi": true,
+  "choice": [
+   "A",
+   "C",
+   "D"
+  ]
+ },
+ {
+  "n": 4,
+  "qid": "K4",
+  "section": "K",
+  "id": "R71-4-FAR_FROM_FLOOR",
+  "title": "How far from the floor",
+  "verbatim": "Floor by grammar. Rescaled as in A, and each grammar pays the floor its own way: Verdict states the read before and the mechanics after, on the body; Blade pass by pass; Percussion and Expenditure carry the cost every exchange. (Option A there reads: Rescale, same ratios. R13-4-DENSITY_BUDGET is rewritten for today's lengths: full floor at first display and finisher, items 1 to 4 at every exchange that turns the fight, item 8 at a turn's close. Every item stated where it happens.)",
+  "question": "How much of the current combat floor moves: kept and rescaled, paid each grammar's own way, or partly sent to the notes?",
+  "rules_touched": [
+   "R13-4-COMBAT_FLOOR",
+   "R13-4-DENSITY_BUDGET",
+   "R70-102-STILLNESS_TRACED_PASSES_LONG",
+   "R13-8-RECONSTRUCTIBLE_ADJUDICATION",
+   "R48-28-TURN_LENGTH",
+   "R48-46-WORD_FLOOR"
+  ],
+  "multi": false,
+  "choice": [
+   "B"
+  ]
+ },
+ {
+  "n": 5,
+  "qid": "K5",
+  "section": "K",
+  "id": "R71-5-ROLEPLAY_TURNS_AGAINST_WRITTEN",
+  "title": "Roleplay turns against written fights",
+  "verbatim": "Standing orders honoured. You may post conditions ('if he closes, I cut low'). Natalie runs them exchange by exchange until the first branch they do not cover, then stops on that threat. Table Rule 1 gains this exception.",
+  "question": "In a roleplay fight, how much does one of Natalie's turns resolve before it stops for you?",
+  "rules_touched": [
+   "R49-01-WHOSE_HEAD",
+   "R49-29-TURN_FILL",
+   "R48-28-TURN_LENGTH",
+   "R47-11-TIME_AND_ENERGY",
+   "R48-35-USES",
+   "R13-4-COMBAT_FLOOR"
+  ],
+  "multi": false,
+  "choice": [
+   "B"
+  ]
+ },
+ {
+  "n": 6,
+  "qid": "K9",
+  "section": "K",
+  "id": "R71-6-PLAYER_FIGHTER_PAGE",
+  "title": "A player's fighter on the page",
+  "verbatim": "Yes to: Wounds as world facts (Once your stated move resolves, the hit, the wound by structure, its ATLS class (the trauma surgeons' blood-loss scale) and what the hand can no longer do are written as world facts; how he bears it stays yours); The tell placed, the read his (Natalie puts the evidence in the room (the heel, the smell, the needle) and never draws the conclusion; the deduction, floor item 3, is your post, as CW14's D already leaves the reading to you); Felt from across the room (From an NPC's POV a player's fighter is only what that NPC's eyes, body and room register, the Geturo model; his reasons and his Crystal stay dark. It covers guest players at the Discord table too); Outward cost only (Natalie shows what his working costs where others could see it (heat off the skin, thaw at his boots, R48-37) and keeps the spend in the Stat Ledger (the running figures in the notes); the inside is yours).",
+  "question": "When a fighter in the scene belongs to a player, which parts of the exchange floor does Natalie write for him?",
+  "rules_touched": [
+   "R49-01-WHOSE_HEAD",
+   "R13-4-COMBAT_FLOOR",
+   "R48-37-COST_SHOWN",
+   "R14-7-STAT_LEDGER_CONTENTS",
+   "R1-1-RESTRICTED_CHARACTERS_EXCLUDED"
+  ],
+  "multi": true,
+  "choice": [
+   "A",
+   "B",
+   "C",
+   "D"
+  ]
+ },
+ {
+  "n": 7,
+  "qid": "K6",
+  "section": "K",
+  "id": "R71-7-READER_SEES_CALL",
+  "title": "When the reader sees the call",
+  "verbatim": "Deciding fact in the read. The fact that decides an exchange shows beforehand in the POV's read or a second's mouth, as behaviour or a Grade estimate, so a sharp reader can call it. The notes still name the row.",
+  "question": "When Natalie decides an exchange from the stats, does the deciding fact reach the page before the blow, or only after it?",
+  "rules_touched": [
+   "R13-8-RECONSTRUCTIBLE_ADJUDICATION",
+   "R14-3-TRACEABILITY",
+   "R48-48-EXPLAIN",
+   "R70-88-NUMBERS_INSIDE_FIGHT",
+   "R70-85-SCENE_MOMENTS_THAT_EARN",
+   "R70-80-READOUT_SITS_PAGE",
+   "R70-79-CAN_READ_WHOM"
+  ],
+  "multi": false,
+  "choice": [
+   "B"
+  ]
+ },
+ {
+  "n": 8,
+  "qid": "K7",
+  "section": "K",
+  "id": "R71-8-CORE_PROMISE",
+  "title": "The core promise",
+  "verbatim": "A way out, always planted. The world stays honest, and every fight Natalie stages has at least one findable line out (a counter, ground, flight or a yield), planted where you could catch it. The guide opens: fair, computable, costly.",
+  "question": "What does a WOTR fight promise when the world's honest numbers and a fair challenge pull apart?",
+  "rules_touched": [
+   "R57-10-NEVER_RIGGED",
+   "R13-8-RECONSTRUCTIBLE_ADJUDICATION",
+   "R48-30-SURPRISES",
+   "R48-31-STAKES",
+   "R48-36-NPC_WITS"
+  ],
+  "multi": false,
+  "choice": [
+   "B"
+  ]
+ },
+ {
+  "n": 9,
+  "qid": "K8",
+  "section": "K",
+  "id": "R71-9-LITRPG_COMBAT_MODELS",
+  "title": "LitRPG combat models",
+  "verbatim": "Yes to: nobody103, Mother of Learning (The prepared fight: scout, learn the enemy's tools, then a short, legible final attempt the reader can check. Its time loop stays out, since death is permanent; R70-71 and R12-3's study counter are its home); Dinniman, Dungeon Crawler Carl (The room as the counter: a gas, a drop, a cut main beats the boss; bosses that change their rule mid-fight; grief arriving cold after the jokes. Comic beats stay with carded comic voices (R70-113)); Zogarth, The Primal Hunter (The bench wins the fight: poisons and coated shot prepared days before, the dose counted toward its effect, the dying long. Its time-stopping sense would need a ruled mechanism and stays out); SenescentSoul, Delve (Drain-rate tension: the reserve clock worked out so the reader knows when a fighter will cross into Starvation (below a tenth of his reserve). The figures stay between exchanges and in the notes, under R70-88's no running figures).",
+  "question": "Beside Unbound and The Beginning After the End, which LitRPG works should the Combat Craft Guide name as fight models?",
+  "rules_touched": [
+   "R70-4-WESTERN_MODELS",
+   "R70-6-LITRPG_PROGRESSION_MODELS",
+   "R70-71-EXPLAINING_WORKING_MID_FIGHT",
+   "R12-3-NAMED_INVENTOR_RULE",
+   "R70-88-NUMBERS_INSIDE_FIGHT"
+  ],
+  "multi": true,
+  "choice": [
+   "A",
+   "B",
+   "C",
+   "D"
+  ]
+ },
+ {
+  "n": 10,
+  "qid": "CW1",
+  "section": "CW",
+  "id": "R71-10-COUNTING_BACK_SMALL_EXCHANGES",
+  "title": "Counting back the small exchanges",
+  "verbatim": "Count back the minor ones. R48-33 is amended: exchanges that change nothing may be counted back in one sentence, each named by its move; any exchange that lands, shifts measure or reveals something is traced with the floor.",
+  "question": "May a fight count back exchanges that change nothing in one sentence, keeping the full trace for the ones that decide it?",
+  "rules_touched": [
+   "R48-33-CHOREOGRAPHY",
+   "R70-57-DESCRIPTION_INSIDE_FIGHT",
+   "R13-4-COMBAT_FLOOR",
+   "R70-102-STILLNESS_TRACED_PASSES_LONG",
+   "R1-1-PERCUSSION_VS_BLADE"
+  ],
+  "multi": false,
+  "choice": [
+   "B"
+  ]
+ },
+ {
+  "n": 11,
+  "qid": "CW2",
+  "section": "CW",
+  "id": "R71-11-RUNNING_FAST",
+  "title": "Running fast",
+  "verbatim": "A staccato run, once. Once per fight, in its swift stretch, one short paragraph of short, even sentences is exempt from the run rule, and the notes mark it. R4-14 is partly amended for fights.",
+  "question": "May a fight's swift stretch run short, even sentences at the speed of the blows, against the run rule?",
+  "rules_touched": [
+   "R4-14-RUN_RULE",
+   "R70-15-TEMPO_STILLNESS",
+   "R70-20-PARAGRAPH_SHAPE",
+   "R70-19-PAIRED_CUMULATIVE_SENTENCES",
+   "R49-13-VARIANCE",
+   "R48-06-RHYTHM_LAW"
+  ],
+  "multi": false,
+  "choice": [
+   "B"
+  ]
+ },
+ {
+  "n": 12,
+  "qid": "CW3",
+  "section": "CW",
+  "id": "R71-12-KEEPING_SPACE_TRACKABLE",
+  "title": "Keeping space trackable",
+  "verbatim": "Fixed at the deciders. A scramble (a crowd, the dark, a fall) may blur position while it lasts; every exchange that decides something re-fixes both bodies before it lands. Chaos is legal, the deciding geometry always clear.",
+  "question": "Must the reader always be able to track where the fighters stand, or may chaos blur it?",
+  "rules_touched": [
+   "R13-4-COMBAT_FLOOR",
+   "R13-8-RECONSTRUCTIBLE_ADJUDICATION",
+   "R13-5-GAP_FILL_PASS"
+  ],
+  "multi": false,
+  "choice": [
+   "B"
+  ]
+ },
+ {
+  "n": 13,
+  "qid": "CW4",
+  "section": "CW",
+  "id": "R71-13-SUPERHUMAN_SPEED",
+  "title": "Superhuman speed",
+  "verbatim": "Yes to: The effect arrives first (Speed shown through its physics: the pressure front, the crack after, the wound that opens once the swordsman has passed. Held to FOW's speed rows for the Grade on the card); Felt time, by Reflex (A POV whose Reflex Grade outruns the threat gets stretched time on the page, held to FOW's Reaction Speed row for that Grade; a slower POV gets only the gap. Sits beside R70-57's one held instant); The gap in the frame (The body is simply elsewhere, nothing drawn between two poses; any after-image is disturbed snow, dust or frost, never a glowing double (R9-3 keeps 'it glowed' banned)). Not taken: The witness who misses it.",
+  "question": "Which devices may render a practitioner's speed on the page?",
+  "rules_touched": [
+   "R70-57-DESCRIPTION_INSIDE_FIGHT",
+   "R9-3-AURA_AS_FRACTURE",
+   "R45-1-SPEED_DECIDES_THE_DODGE",
+   "R70-83-FIGURES_PLAIN_NARRATION",
+   "R12-5-NEVER_INVENT_NUMBER"
+  ],
+  "multi": true,
+  "choice": [
+   "A",
+   "B",
+   "C"
+  ]
+ },
+ {
+  "n": 14,
+  "qid": "CW5",
+  "section": "CW",
+  "id": "R71-14-IMPACT_MOMENTUM",
+  "title": "Impact and momentum",
+  "verbatim": "Momentum accounted for. At display and finisher the page says where the momentum went: what anchored the striker, whether the target was thrown or broken, what the ground took. The physics audit checks it; stock images move to a bank per culture.",
+  "question": "How strictly does a big hit obey momentum on the page?",
+  "rules_touched": [
+   "R13-4-COMBAT_FLOOR",
+   "R13-5-GAP_FILL_PASS",
+   "R48-16-REAL_FIGURES",
+   "R13-6-REAL_SCIENCE_VOCAB"
+  ],
+  "multi": false,
+  "choice": [
+   "B"
+  ]
+ },
+ {
+  "n": 15,
+  "qid": "CW6",
+  "section": "CW",
+  "id": "R71-15-FIGHTING_THROUGH_WOUND",
+  "title": "Fighting on through a wound",
+  "verbatim": "An Essence splint, priced. A practitioner may hold a broken structure shut with a working: Tempering for how long, a reserve cost per turn, ending at Starvation; the wound is worse afterward. Needs a ruled mechanism before first use.",
+  "question": "How far can a ranked practitioner keep fighting through a structural wound?",
+  "rules_touched": [
+   "R60-01-BRUTAL_LETHALITY",
+   "R60-02-REAL_HEALING_TIMES",
+   "R60-03-HARD_RESERVE_CLOCK",
+   "R48-37-COST_SHOWN",
+   "R49-50-OWN_BODY"
+  ],
+  "multi": false,
+  "choice": [
+   "B"
+  ]
+ },
+ {
+  "n": 16,
+  "qid": "CW7",
+  "section": "CW",
+  "id": "R71-16-LONG_PAGE_STAYS_WOUND",
+  "title": "How long the page stays on a wound",
+  "verbatim": "Length by scene type. Exchanges stay precise; a finisher, an execution and a battle's one full-detail body get the lingering passage; roleplay turns keep it short unless the death is the turn's point.",
+  "question": "How long does the page stay on a wound, and does that change by scene type?",
+  "rules_touched": [
+   "R48-34-WOUNDS",
+   "R54-20-MASS_WOUND_ANATOMY",
+   "R48-38-AFTERMATH",
+   "R70-105-JOINS_WOUND_WHEN_FIGHT"
+  ],
+  "multi": false,
+  "choice": [
+   "C"
+  ]
+ },
+ {
+  "n": 17,
+  "qid": "CW8",
+  "section": "CW",
+  "id": "R71-17-FEAR_BODY",
+  "title": "Fear in the body",
+  "verbatim": "Owed for the untrained. An untrained POV's fights carry at least two fear effects in the body, traced to adrenaline; trained fighters keep composure free (R52-28) and show it only under real strain or Pressure.",
+  "question": "Does the body's fear response go on the page in a fight, and for whom?",
+  "rules_touched": [
+   "R52-28-COMPOSURE",
+   "R60-01-BRUTAL_LETHALITY",
+   "R49-50-OWN_BODY",
+   "R13-5-GAP_FILL_PASS"
+  ],
+  "multi": false,
+  "choice": [
+   "B"
+  ]
+ },
+ {
+  "n": 18,
+  "qid": "CW9",
+  "section": "CW",
+  "id": "R71-18-FIGHT_SOUNDS_LIKE",
+  "title": "What a fight sounds like",
+  "verbatim": "The native word at impact. In fights the POV culture's own sound words (R70-22) carry the impacts, entered in its Inventory first; comparisons are kept for the held instant. Each culture's bank gains a few fight words.",
+  "question": "What carries an impact's sound on the page in a fight?",
+  "rules_touched": [
+   "R70-22-SOUND_WORDS",
+   "R50-32-ITALICS",
+   "R70-59-WHERE_COMPARISONS_COME_FROM",
+   "R70-57-DESCRIPTION_INSIDE_FIGHT"
+  ],
+  "multi": false,
+  "choice": [
+   "B"
+  ]
+ },
+ {
+  "n": 19,
+  "qid": "CW10",
+  "section": "CW",
+  "id": "R71-19-GROUND_WEATHER_FIGHT",
+  "title": "Ground and weather in the fight",
+  "verbatim": "Yes to: An environment row (The adjudication table gains a row: footing, light, cold, wet and Aetheric Density bend named stats, and the author notes say which. Weather stops being texture only); Ground chosen before contact (Every planned duel opens with the fighters reading or choosing ground (Counterplay's 'Pick before contact'), and the ground decides at least one exchange). Not taken: New ground, by rotation, Texture only, as now.",
+  "question": "How far do ground and weather take part in a fight?",
+  "rules_touched": [
+   "R53-09-WEATHER",
+   "R13-8-RECONSTRUCTIBLE_ADJUDICATION",
+   "R14-3-STATS_DECIDE_TABLE",
+   "R14-3-TRACEABILITY"
+  ],
+  "multi": true,
+  "choice": [
+   "A",
+   "B"
+  ]
+ },
+ {
+  "n": 20,
+  "qid": "CW11",
+  "section": "CW",
+  "id": "R71-20-FIGHTS_END",
+  "title": "How fights end",
+  "verbatim": "Yes to: Yield on terms (Surrender is legal and binds by the culture's custom (a Kharven word before witnesses, an Accord form under seal); the terms go on the Ledger as R70-104's debt); Flight, adjudicated (Breaking off and running is always a choice; pursuit is decided on Dexterity (Celerity), the reserve and the ground (FT12 shapes the chase), and a fled fight leaves a witness and a debt); A code ends it (Formal duels run under the culture's code, with seconds and a stated end (first blood, a disarm, a yield); the code's stop binds both men, and breaking it is a Ledger debt); The killing's own law (Every killing carries its culture's legal aftermath (a declaration, a blood-price or labour-debt, outlawry) on the page, opened as a Front or a Ledger line).",
+  "question": "Which endings may a fight take besides a death, and what does each owe?",
+  "rules_touched": [
+   "R70-104-RIVAL_BOND",
+   "R48-31-STAKES",
+   "R48-30-SURPRISES",
+   "R53-11-JUSTICE",
+   "R60-01-BRUTAL_LETHALITY"
+  ],
+  "multi": true,
+  "choice": [
+   "A",
+   "B",
+   "C",
+   "D"
+  ]
+ },
+ {
+  "n": 21,
+  "qid": "CW12",
+  "section": "CW",
+  "id": "R71-21-AFTERMATH_PAGE",
+  "title": "The aftermath on the page",
+  "verbatim": "Procedure as craft. The dressing is written as process: the period kit for the place, the healer's hands, the bleeding clock closing, what this place's medicine cannot do. R70-46's craft-as-process reaches the infirmary.",
+  "question": "How long is a fight's aftermath, and how much medicine does it put on the page?",
+  "rules_touched": [
+   "R48-38-AFTERMATH",
+   "R53-10-MEDICINE",
+   "R70-46-CRAFT_LABOUR_PAGE",
+   "R1-3-WORD_FLOOR_INCLUDES_AFTERMATH",
+   "R60-02-REAL_HEALING_TIMES"
+  ],
+  "multi": false,
+  "choice": [
+   "B"
+  ]
+ },
+ {
+  "n": 22,
+  "qid": "CW13",
+  "section": "CW",
+  "id": "R71-22-TALK_INSIDE_FIGHT",
+  "title": "Talk inside the fight",
+  "verbatim": "Talk as a weapon. Taunts, lies and accusations are moves: each line aims to break the read or the temper, and the page shows what it bought or cost in tempo. Gallows wit stays the only joke.",
+  "question": "What may fighters say to each other mid-exchange?",
+  "rules_touched": [
+   "R70-116-COMEDY_BESIDE_DANGER",
+   "R70-113-DOUBLE_ACT_COMIC_BEAT",
+   "R12-4-VOICE_THREE_OPPONENT",
+   "R5-D-HUMOUR_PERMITTED",
+   "R48-43-SPEECHES"
+  ],
+  "multi": false,
+  "choice": [
+   "B"
+  ]
+ },
+ {
+  "n": 23,
+  "qid": "CW14",
+  "section": "CW",
+  "id": "R71-23-TELL_READ",
+  "title": "The tell and the read",
+  "verbatim": "Shown twice, then read. The tell is shown plainly at its first and second appearance and read at length at the third, matching NATALIE's two or three exchanges of evidence. When the POV is your PC, the reading is yours.",
+  "question": "How is a tell put on the page so the reader, and you at the table, can catch it?",
+  "rules_touched": [
+   "R12-8-COMBAT_GUIDE_READ_LENGTH",
+   "R12-3-NAMED_INVENTOR_RULE",
+   "R12-4-VOICE_ONE_POV",
+   "R49-01-WHOSE_HEAD",
+   "R70-71-EXPLAINING_WORKING_MID_FIGHT"
+  ],
+  "multi": false,
+  "choice": [
+   "D"
+  ]
+ },
+ {
+  "n": 24,
+  "qid": "CW15",
+  "section": "CW",
+  "id": "R71-24-ROWS_COME_OUT_LEVEL",
+  "title": "When the rows come out level",
+  "verbatim": "Rule 5's order, step by step. The read decides first, then what each has left to spend, then the ground; the notes name the step that broke the tie, as a Domain clash names its step. Every level exchange reconstructs.",
+  "question": "When the stats that decide an exchange come out level, what breaks the tie?",
+  "rules_touched": [
+   "R14-3-STATS_DECIDE_TABLE",
+   "R14-3-TRACEABILITY",
+   "R13-8-RECONSTRUCTIBLE_ADJUDICATION",
+   "R60-03-HARD_RESERVE_CLOCK",
+   "R12-5-NEVER_INVENT_NUMBER"
+  ],
+  "multi": false,
+  "choice": [
+   "A"
+  ]
+ },
+ {
+  "n": 25,
+  "qid": "CW16",
+  "section": "CW",
+  "id": "R71-25-WOUNDS_CARRIED_INTO_NEXT",
+  "title": "Wounds carried into the next fight",
+  "verbatim": "The anatomy, not the stat. No Grade moves. The wound's structure decides what the body can do (a stitched forearm cannot hold a hard bind, a cracked rib cannot take a deep breath), checked by the gap-fill body audit and named in the notes.",
+  "question": "When a fighter comes to a new fight still carrying a Ledger wound, what does the wound do to the adjudication?",
+  "rules_touched": [
+   "R60-02-REAL_HEALING_TIMES",
+   "R13-5-GAP_FILL_PASS",
+   "R14-3-STATS_DECIDE_TABLE",
+   "R12-5-NEVER_INVENT_NUMBER"
+  ],
+  "multi": false,
+  "choice": [
+   "A"
+  ]
+ },
+ {
+  "n": 26,
+  "qid": "CW17",
+  "section": "CW",
+  "id": "R71-26-COUNTING_ROUNDS_VIALS_CHARGES",
+  "title": "Counting rounds, vials and charges",
+  "verbatim": "Counted as the POV counts. A trained hand keeps his count and the page keeps it with him; a panicked or untrained man loses count and the reader with him. Objects only: stats and the reserve stay under R70-88.",
+  "question": "May the page keep a running count of things in a fight: rounds in the cylinder, vials on the bandolier, charges left?",
+  "rules_touched": [
+   "R70-88-NUMBERS_INSIDE_FIGHT",
+   "R11-5-COMBAT_GUIDE_RANGE_OPENING",
+   "R45-5-PAID_PER_SHOT_AND_FINDABLE",
+   "R48-16-REAL_FIGURES"
+  ],
+  "multi": false,
+  "choice": [
+   "A"
+  ]
+ },
+ {
+  "n": 27,
+  "qid": "MC1",
+  "section": "MC",
+  "id": "R71-27-SPOKEN_WORKING_EXCHANGE",
+  "title": "A spoken working in the exchange",
+  "verbatim": "Cut into the exchange. The chain is printed in pieces between the opponent's moves, so each clause costs a step he takes. The Combat Guide gains the rule; the reader watches the race and can count its price.",
+  "question": "When a practitioner speaks a working in the middle of a fight, how much of its chain does the page print, and how is its time paid?",
+  "rules_touched": [
+   "R20C-42-LAW_V_STAGE_GATE_REFRACTION",
+   "R51-28-CHANT_PAGE",
+   "R50-26-CHANT_TONGUE",
+   "R70-101-DECLARING_NAME_LINE_BEFORE",
+   "R13-4-COMBAT_FLOOR",
+   "R47-11-TIME_AND_ENERGY"
+  ],
+  "multi": false,
+  "choice": [
+   "B"
+  ]
+ },
+ {
+  "n": 28,
+  "qid": "MC2",
+  "section": "MC",
+  "id": "R71-28-DECIDES_CASTING_SPEED",
+  "title": "What decides casting speed",
+  "verbatim": "Row now, cards override. The Alacrity row decides every race today; where you fill a card's Readiness, that figure governs. Nothing waits on figures, and precision grows as cards are filled.",
+  "question": "When two workings race, or a working races a blade, what decides which lands first?",
+  "rules_touched": [
+   "R14-3-STATS_DECIDE_TABLE",
+   "R14-3-TRACEABILITY",
+   "R12-5-NEVER_INVENT_NUMBER",
+   "R47-11-TIME_AND_ENERGY",
+   "R13-8-RECONSTRUCTIBLE_ADJUDICATION"
+  ],
+  "multi": false,
+  "choice": [
+   "C"
+  ]
+ },
+ {
+  "n": 29,
+  "qid": "MC3",
+  "section": "MC",
+  "id": "R71-29-OFTEN_ART_RELEASED",
+  "title": "How often an art is released",
+  "verbatim": "As often as beats allow. R50-09 governs and R8-26 is marked superseded. Every call costs its beat and buys its output, so a fighter may call his art again whenever he can afford the beat.",
+  "question": "How often may an art's release, the imperative call with its true name, be spoken in one scene?",
+  "rules_touched": [
+   "R8-26-ONE_RELEASE_PER_SCENE",
+   "R50-09-ONE_RELEASE",
+   "R8-23-NAME_HIERARCHY",
+   "R8-24-RELEASE_MECHANIC"
+  ],
+  "multi": false,
+  "choice": [
+   "B"
+  ]
+ },
+ {
+  "n": 30,
+  "qid": "MC4",
+  "section": "MC",
+  "id": "R71-30-HELD_BACK_REVEAL",
+  "title": "The held-back reveal",
+  "verbatim": "Shown before, told at reveal. This reopens R70-71 for held reveals: the rule may act earlier, unexplained, as evidence a reader could catch, and a voice tells it at the reveal. The notes list each planted sign.",
+  "question": "May a working's rule act on the page, unexplained, before the fight, and be told only at the reveal?",
+  "rules_touched": [
+   "R70-71-EXPLAINING_WORKING_MID_FIGHT",
+   "R48-30-SURPRISES",
+   "R12-3-NAMED_INVENTOR_RULE",
+   "R12-4-VOICE_MIXING_RULE"
+  ],
+  "multi": false,
+  "choice": [
+   "B"
+  ]
+ },
+ {
+  "n": 31,
+  "qid": "MC5",
+  "section": "MC",
+  "id": "R71-31-COUNTERS_DUEL_SCALE",
+  "title": "Counters at duel scale",
+  "verbatim": "Soft Family chart. A chart derived from Codex physics says which conditions and Families make each Family's working cost more and deliver less; the card's Counter field stays the hard answer. You ratify the chart.",
+  "question": "Should duel-scale counters stay technique by technique, or should a chart by Wellspring Family sit above them?",
+  "rules_touched": [
+   "R17-3-COUNTER_MANDATORY",
+   "R47-9-INHERITED_FAILURES",
+   "R47-3-COUNTERS_AS_FACTS",
+   "R12-3-NAMED_INVENTOR_RULE"
+  ],
+  "multi": false,
+  "choice": [
+   "B"
+  ]
+ },
+ {
+  "n": 32,
+  "qid": "MC6",
+  "section": "MC",
+  "id": "R71-32-VOWS_LIMITS",
+  "title": "Vows and limits",
+  "verbatim": "Narrowing buys output. A vow that narrows a technique raises its output through Attraction Force, by a figure you set on that card; breaking it is a Shear Break. The vow's terms are its findable counter.",
+  "question": "May a practitioner bind a technique with a vow that narrows it, and gain output for the narrowing?",
+  "rules_touched": [
+   "R17-3-LIMIT_MECHANICAL",
+   "R12-5-NEVER_INVENT_NUMBER",
+   "R47-3-COUNTERS_AS_FACTS",
+   "R8-26-NO_SELF_TRANSLATION",
+   "R12-4-VOICE_THREE_OPPONENT"
+  ],
+  "multi": false,
+  "choice": [
+   "B"
+  ]
+ },
+ {
+  "n": 33,
+  "qid": "MC7",
+  "section": "MC",
+  "id": "R71-33-DRAIN_SHOWS",
+  "title": "How the drain shows",
+  "verbatim": "Yes to: The body, by threshold (A bank of body signs keyed to the Ledger's lines, committed spending and Starvation: cold hands, tin on the teeth, the slow grip. Logged by culture, so the nosebleed stops carrying everything); The waste grows (As η (eta, efficiency) falls, the same work sheds more heat, so the room shows the drain: the thawed ring widens, the air shakes harder. Canon's own law, written as a rule of the page); The opponent reads it (The drain is shown through the other fighter's read and his choice to make the spender spend. The Counterplay doctrine, on the page). Not taken: By Family.",
+  "question": "Between the readout lines, how does a fight show that a practitioner's reserve is running down?",
+  "rules_touched": [
+   "R60-03-HARD_RESERVE_CLOCK",
+   "R70-88-NUMBERS_INSIDE_FIGHT",
+   "R70-85-SCENE_MOMENTS_THAT_EARN",
+   "R70-89-BODY_FIRST_NUMBER_FIRST",
+   "R47-8-WASTE_IS_HEAT",
+   "R48-37-COST_SHOWN"
+  ],
+  "multi": true,
+  "choice": [
+   "A",
+   "B",
+   "D"
+  ]
+ },
+ {
+  "n": 34,
+  "qid": "MC8",
+  "section": "MC",
+  "id": "R71-34-OVERCHANNEL_PAGE",
+  "title": "Overchannel on the page",
+  "verbatim": "Felt now, measured after. The crack is felt in the exchange, inner map and body symptom; its size comes later from a surgeon or an instrument, and the Ledger enters it when measured.",
+  "question": "When a practitioner Overchannels (draws past his sustainable ceiling) and the Crystal takes damage, when does the page show the damage?",
+  "rules_touched": [
+   "R55-2-OVERCHANNEL_DAMAGE_ACCUMULATES",
+   "R55-1-SUBSTANCE_COSTS_PERMANENT",
+   "R48-37-COST_SHOWN",
+   "R70-68-INSIDE_PRACTICE",
+   "R70-89-BODY_FIRST_NUMBER_FIRST"
+  ],
+  "multi": false,
+  "choice": [
+   "C"
+  ]
+ },
+ {
+  "n": 35,
+  "qid": "MC9",
+  "section": "MC",
+  "id": "R71-35-SECOND_WIND",
+  "title": "The second wind",
+  "verbatim": "Decides, if planted. It may land at the deciding exchange only when its trigger was set up earlier on the page where a reader could catch it, and its price goes on the Ledger. Rare by rule.",
+  "question": "May Crisis Recovery, the Crystal's surge in a crisis, land at the deciding exchange and turn a fight?",
+  "rules_touched": [
+   "R48-30-SURPRISES",
+   "R70-91-BREAKTHROUGH_PAGE",
+   "R60-03-HARD_RESERVE_CLOCK",
+   "R2-6-REPLENISHMENT_RULE",
+   "R13-8-RECONSTRUCTIBLE_ADJUDICATION"
+  ],
+  "multi": false,
+  "choice": [
+   "B"
+  ]
+ },
+ {
+  "n": 36,
+  "qid": "MC10",
+  "section": "MC",
+  "id": "R71-36-HEALING_INSIDE_FIGHT",
+  "title": "Healing inside a fight",
+  "verbatim": "Stop the bleeding only. Mid-fight Vitalia may close a vessel or seal a bleed, at full price; the wound itself stays open until the fight ends. §7.1 gains the row.",
+  "question": "May a Vitalia working (the biology Family of Wellsprings) mend a wound while the fight is still running?",
+  "rules_touched": [
+   "R60-02-REAL_HEALING_TIMES",
+   "R47-11-TIME_AND_ENERGY",
+   "R60-01-BRUTAL_LETHALITY",
+   "R48-34-WOUNDS"
+  ],
+  "multi": false,
+  "choice": [
+   "A"
+  ]
+ },
+ {
+  "n": 37,
+  "qid": "MC11",
+  "section": "MC",
+  "id": "R71-37-TRAITS_THEY_FIRE",
+  "title": "Traits when they fire",
+  "verbatim": "Named at first fire. Narration names the Trait the first time it fires in a scene, then shows it working. The reader holds the name the way he holds a technique's.",
+  "question": "When a Trait a character already holds fires in a fight, does the page name it?",
+  "rules_touched": [
+   "R49-48-TECH_NAMES",
+   "R49-47-STAT_WORDS",
+   "R70-84-GROWTH_MOMENTS_THAT_EARN",
+   "R12-4-VOICE_MIXING_RULE"
+  ],
+  "multi": false,
+  "choice": [
+   "B"
+  ]
+ },
+ {
+  "n": 38,
+  "qid": "MC12",
+  "section": "MC",
+  "id": "R71-38-RESONANT_PAIR_UNDER_STRAIN",
+  "title": "A Resonant Pair under strain",
+  "verbatim": "For the crisis only. Where a Sub-Stat sits at its Stage's cap, strain may lift it level with its partner, and the Pair runs for the crisis, then goes. The notes name the strain.",
+  "question": "May strain in a fight lift a Sub-Stat far enough to switch on a Resonant Pair for the crisis?",
+  "rules_touched": [
+   "R39-4-MAX_GRADE_LETTER_BINDS",
+   "R20C-33-RESONANT_PAIRS_DIAGNOSTIC",
+   "R70-90-FAST_NUMBERS_CLIMB",
+   "R70-84-GROWTH_MOMENTS_THAT_EARN",
+   "R70-91-BREAKTHROUGH_PAGE"
+  ],
+  "multi": false,
+  "choice": [
+   "B"
+  ]
+ },
+ {
+  "n": 39,
+  "qid": "MC13",
+  "section": "MC",
+  "id": "R71-39-ALLIES_WORKING_TOGETHER",
+  "title": "Allies working together",
+  "verbatim": "Drilled forms, carded. Allies chain by default; a fusion exists only as a carded Synergia technique the pair learned together, with its own cost split and counter. No improvised fusion.",
+  "question": "Canon has Synergia, the Category for allies combining workings; when may two allies fuse their workings in a fight?",
+  "rules_touched": [
+   "R55-8-AREA_FRIEND_FOE_BY_ATTENTION",
+   "R20C-41-CHANTCRAFT_FIFTH_CRAFT",
+   "R17-3-COUNTER_MANDATORY",
+   "R12-5-NEVER_INVENT_NUMBER",
+   "R70-74-TECHNIQUE_NAME_LOOKS",
+   "R48-35-USES"
+  ],
+  "multi": false,
+  "choice": [
+   "A"
+  ]
+ },
+ {
+  "n": 40,
+  "qid": "MC14",
+  "section": "MC",
+  "id": "R71-40-MECHANISM_AIMED_PRESSURE",
+  "title": "The mechanism of aimed Pressure",
+  "verbatim": "The field narrowed. Dominion draws the Passive Pressure Field onto one man; what he takes, the room loses, so the room eases as he suffers. The trade's figures come from Dominion, set by you.",
+  "question": "Which mechanism should R70-70's aimed Pressure run on, so that it can reach the page?",
+  "rules_touched": [
+   "R70-70-INTENT_FELT_BODY",
+   "R70-69-PRESSURE_AURA",
+   "R56-12-AUTHORITY_RADIUS_IS_PPF",
+   "R14-3-STATS_DECIDE_TABLE",
+   "R12-5-NEVER_INVENT_NUMBER"
+  ],
+  "multi": false,
+  "choice": [
+   "A"
+  ]
+ },
+ {
+  "n": 41,
+  "qid": "MC15",
+  "section": "MC",
+  "id": "R71-41-PRESSURE_UNWOKEN",
+  "title": "Pressure on the unwoken",
+  "verbatim": "The Aura table, by Grade. Practitioner against practitioner keeps the Stage ladder; the unwoken take Part Eleven's Grade table: dread from F to D, weight in the room from C, knees bending from A. No new figures.",
+  "question": "When a practitioner's Pressure reaches a person with no Stage, what decides how hard it lands?",
+  "rules_touched": [
+   "R53-14-FOLK_KNOWLEDGE",
+   "R70-69-PRESSURE_AURA",
+   "R70-79-CAN_READ_WHOM",
+   "R14-3-STATS_DECIDE_TABLE",
+   "R12-5-NEVER_INVENT_NUMBER"
+  ],
+  "multi": false,
+  "choice": [
+   "B"
+  ]
+ },
+ {
+  "n": 42,
+  "qid": "MC16",
+  "section": "MC",
+  "id": "R71-42-TWO_PRESSURES_ONE_ROOM",
+  "title": "Two Pressures in one room",
+  "verbatim": "A contest for the room. Meeting Pressures fight for the room by Dominion before steel; the room shows the border moving, bystanders take both, and the loser begins the fight already paying. §7 gains the row.",
+  "question": "When two practitioners of the same Stage bring their Pressure into one room, what happens to the room and the people in it?",
+  "rules_touched": [
+   "R70-69-PRESSURE_AURA",
+   "R14-3-STATS_DECIDE_TABLE",
+   "R56-12-AUTHORITY_RADIUS_IS_PPF",
+   "R53-14-FOLK_KNOWLEDGE"
+  ],
+  "multi": false,
+  "choice": [
+   "C"
+  ]
+ },
+ {
+  "n": 43,
+  "qid": "MC17",
+  "section": "MC",
+  "id": "R71-43-SUPPRESSION_PAGE",
+  "title": "Suppression on the page",
+  "verbatim": "Yes to: The cost in his body (Holding it in tires him in named places, jaw, collar, temper, and the cost grows with the approach. The Combat Guide gains a bank of signs by culture); Small leaks in the room (R70-69 at its faintest: the draw-hum dips and a dog lies down as he passes. A sharp-eyed reader, or a POV with good Gnosis, can catch a suppressed man); Instruments catch it (A gauge or coil reads what eyes miss; the Board's clerks and the Measurewrights can find a suppressed man by the sag he leaves on a needle).",
+  "question": "What shows of a practitioner holding his Pressure in, and what does the holding cost him on the page?",
+  "rules_touched": [
+   "R70-70-INTENT_FELT_BODY",
+   "R70-69-PRESSURE_AURA",
+   "R70-79-CAN_READ_WHOM",
+   "R9-3-EYES_AS_TELL"
+  ],
+  "multi": true,
+  "choice": [
+   "A",
+   "B",
+   "C"
+  ]
+ },
+ {
+  "n": 44,
+  "qid": "MC18",
+  "section": "MC",
+  "id": "R71-44-FACULTY_READ_MAN",
+  "title": "A faculty read on a man",
+  "verbatim": "Exact unless warded. A faculty prints exact figures where the reader's Gnosis Perception outranks the target's Resilience Ward by Grade, and a hedged range where it does not. §7 gains the row; Ward is the counter.",
+  "question": "When a practitioner's own faculty (a trained reading sense run on Gnosis) appraises an opponent mid-fight, may the line print that man's exact figures?",
+  "rules_touched": [
+   "R70-85-SCENE_MOMENTS_THAT_EARN",
+   "R70-79-CAN_READ_WHOM",
+   "R70-78-WHERE_SCREEN_COMES_FROM",
+   "R70-99-NUMBER_NOT_YET_CANON",
+   "R70-88-NUMBERS_INSIDE_FIGHT",
+   "R70-89-BODY_FIRST_NUMBER_FIRST"
+  ],
+  "multi": false,
+  "choice": [
+   "C"
+  ]
+ },
+ {
+  "n": 45,
+  "qid": "MC19",
+  "section": "MC",
+  "id": "R71-45-RAISING_DOMAIN_DUEL",
+  "title": "Raising a Domain in a duel",
+  "verbatim": "Attention, then held in. Below Stage XI it rises by attention as in A. From Stage XI, where canon has it leak, suppression holds it in and the holder lets it go in a beat. Originated; you rule it. (Option A there reads: Raised by attention. Part Twenty-Two read plainly: the holder concentrates and the Domain comes up over turns, unnamed, at a cost the notes track. Its rising joins R9-3-SCOPE's triggers as his display beat.)",
+  "question": "How does a Domain (a space where a holder's inner law becomes local physics) come up in a duel between named practitioners?",
+  "rules_touched": [
+   "R2-6-DOMAINS_BREAK_NOT_KILL",
+   "R70-73-MANY_DISPLAY_BEATS_PER",
+   "R9-3-SCOPE",
+   "R70-69-PRESSURE_AURA",
+   "R13-6-ANIME_GRAMMAR_TRANSLATION_AID"
+  ],
+  "multi": false,
+  "choice": [
+   "C"
+  ]
+ },
+ {
+  "n": 46,
+  "qid": "MC20",
+  "section": "MC",
+  "id": "R71-46-DOMAIN_CLASH_PAGE",
+  "title": "A Domain clash on the page",
+  "verbatim": "The moving border. The seam between two laws shows in the room and moves; one voice names the deciding step once. Reconstructible, and paced like an exchange.",
+  "question": "When two Domains meet in a duel, how does the page show which one holds the ground?",
+  "rules_touched": [
+   "R13-8-RECONSTRUCTIBLE_ADJUDICATION",
+   "R14-3-TRACEABILITY",
+   "R12-4-VOICE_MIXING_RULE",
+   "R70-57-DESCRIPTION_INSIDE_FIGHT"
+  ],
+  "multi": false,
+  "choice": [
+   "B"
+  ]
+ },
+ {
+  "n": 47,
+  "qid": "MC21",
+  "section": "MC",
+  "id": "R71-47-SHOWING_SCALE",
+  "title": "Showing the scale",
+  "verbatim": "Yes to: One street beat (At a marked break, one commoner in the street gets a short dip inside her head, then the lock resumes. Scale seen from the ditch, by R70-11's device); The aftermath walk (The scale is shown after, walking the ground (R57-24). The fight stays tight; the ruin tells the size); The claims come in (Lives and property go on the Ledger as claims, settled in a later scene at the Accord's schedule, as R54-15 lets a later scene pay an aftermath. WT10 asks the fighter's own bill). Not taken: A report sizes it.",
+  "question": "When practitioners at the top of the ladder fight in a city, which devices carry the scale of it?",
+  "rules_touched": [
+   "R57-24-AFTERMATH_IS_THE_TELL",
+   "R70-11-WIDE_VIEW",
+   "R13-6-SCALING_VOCAB_RESTRICTED",
+   "R54-15-AFTERMATH_PAID_LATER",
+   "R70-69-PRESSURE_AURA",
+   "R13-A"
+  ],
+  "multi": true,
+  "choice": [
+   "B",
+   "C",
+   "D"
+  ]
+ },
+ {
+  "n": 48,
+  "qid": "MC22",
+  "section": "MC",
+  "id": "R71-48-WASTE_LIGHT_OUTSIDE_DISPLAY",
+  "title": "Waste light, outside a display",
+  "verbatim": "Incandescent, by physics. Waste light is written by the smith's colour scale, dull red to orange to white, and by what it lights; brightness tracks η, so masters work darker. The word glow stays banned.",
+  "question": "Outside a display beat, how is the light and heat a working wastes written?",
+  "rules_touched": [
+   "R9-3-AURA_AS_FRACTURE",
+   "R47-8-WASTE_IS_HEAT",
+   "R70-69-PRESSURE_AURA",
+   "R13-3-PHENOMENON_MANDATE"
+  ],
+  "multi": false,
+  "choice": [
+   "B"
+  ]
+ },
+ {
+  "n": 49,
+  "qid": "MC23",
+  "section": "MC",
+  "id": "R71-49-SUMMON_DISPLAY_BEAT",
+  "title": "A summon's display beat",
+  "verbatim": "Native summons earn one. A Native summon, with its own Crystal, takes its own display beat; Donated and Analog forms share the summoner's. Provenance decides, as the Register's doctrine says.",
+  "question": "Does a summon take a display beat of its own, or share its summoner's?",
+  "rules_touched": [
+   "R70-73-MANY_DISPLAY_BEATS_PER",
+   "R10-3-PROJECTED_FORM_LICENSE",
+   "R10-3-CRAFT_DURABILITY_TABLE",
+   "R48-35-USES"
+  ],
+  "multi": false,
+  "choice": [
+   "B"
+  ]
+ },
+ {
+  "n": 50,
+  "qid": "MC24",
+  "section": "MC",
+  "id": "R71-50-SHOT_MEETS_WORKED_CUIRASS",
+  "title": "Shot meets a worked cuirass",
+  "verbatim": "By inscription, read on plate. Each inscription stops shot its own way and leaves its own mark from §4.6, so the shooter can read which working he faces and which round to bring next.",
+  "question": "When a ball strikes a worked cuirass and the working stops it, what does the page show?",
+  "rules_touched": [
+   "R13-C",
+   "R53-05-PROOF_PLATE",
+   "R46-3-ARMOUR_TIER_IS_ITS_PROOF",
+   "R45-5-PAID_PER_SHOT_AND_FINDABLE",
+   "R47-3-COUNTERS_AS_FACTS"
+  ],
+  "multi": false,
+  "choice": [
+   "A"
+  ]
+ },
+ {
+  "n": 51,
+  "qid": "FT1",
+  "section": "FT",
+  "id": "R71-51-SKIRMISH_THREE_TEN",
+  "title": "The skirmish of three to ten",
+  "verbatim": "Duel floor, mass compression. Amends R1-4: the POV's own exchanges carry the duel floor, and everyone else's fighting is compressed by the Mass Guide's rules. Her count of who still stands stays in her head, never as figures.",
+  "question": "Which guide governs a fight of three to ten people with no formation, and how does the POV hold several opponents at once?",
+  "rules_touched": [
+   "R1-4-PRECEDENCE_NOTE",
+   "R13-4-COMBAT_FLOOR",
+   "R13-4-DENSITY_BUDGET",
+   "R1-3-NAME_THREE_RULE",
+   "R60-01-BRUTAL_LETHALITY"
+  ],
+  "multi": false,
+  "choice": [
+   "C"
+  ]
+ },
+ {
+  "n": 52,
+  "qid": "FT2",
+  "section": "FT",
+  "id": "R71-52-AMBUSH_NAMED_ROUND",
+  "title": "Ambush and the named round",
+  "verbatim": "Both, split by a break. A marked break splits the wait from the shot, each half POV-locked. In roleplay the shooter's half is one turn's closing cutaway (R49-09), and the shot lands in the next turn.",
+  "question": "Whose head carries an ambush or an assassination on the page?",
+  "rules_touched": [
+   "R48-30-SURPRISES",
+   "R5-C1-WRITE_FROM_LEAST_KNOWING",
+   "R49-09-CUTAWAYS",
+   "R11-3-BALLISTICS_RULING",
+   "R11-3-AMMO_TIERS",
+   "R45-5-PAID_PER_SHOT_AND_FINDABLE"
+  ],
+  "multi": false,
+  "choice": [
+   "C"
+  ]
+ },
+ {
+  "n": 53,
+  "qid": "FT3",
+  "section": "FT",
+  "id": "R71-53-BRAWLS_FOLK_SCHOOLS",
+  "title": "Brawls and folk schools",
+  "verbatim": "Folk schools, by culture. Each Standing Inventory's Words entry gains its wrestling and fist words, entered and logged; a POV raised in them names moves in them, and verify gains a list per culture.",
+  "question": "Do folk fighting trades count as schools, so a brawler raised in one names his moves in its words?",
+  "rules_touched": [
+   "R70-100-MARTIAL_VOCABULARY_NAMES_MOVES",
+   "R70-28-TRADE_SCIENCE_WORDS",
+   "R70-33-WORD_BANK_PER_CULTURE",
+   "R70-136-NEW_CHECKS_VERIFY_SCENE",
+   "R49-50-OWN_BODY"
+  ],
+  "multi": false,
+  "choice": [
+   "A"
+  ]
+ },
+ {
+  "n": 54,
+  "qid": "FT4",
+  "section": "FT",
+  "id": "R71-54-BOUTS_AETHERION",
+  "title": "Bouts at Aetherion",
+  "verbatim": "Posted terms, warden backstop. Each bout's terms are chalked before it (yield, ring-out, a wound by class). Fighters may push right up to them, and the warden's gauge stops only what the terms never priced.",
+  "question": "What ends a sanctioned bout on the Academy sand, and what may it cost?",
+  "rules_touched": [
+   "R70-18-ARC_SHAPES",
+   "R70-71-EXPLAINING_WORKING_MID_FIGHT",
+   "R60-01-BRUTAL_LETHALITY",
+   "R60-02-REAL_HEALING_TIMES"
+  ],
+  "multi": false,
+  "choice": [
+   "B"
+  ]
+ },
+ {
+  "n": 55,
+  "qid": "FT5",
+  "section": "FT",
+  "id": "R71-55-DUELS_FIRST_BLOOD",
+  "title": "Duels to first blood",
+  "verbatim": "Terms hold, the body doesn't. The duel stops at first blood, but the wound is tracked like any other: where the point lands decides whether it is a nick or a death, and the Ledger keeps what follows.",
+  "question": "When two fighters agree to stop at first blood, what may that first wound do?",
+  "rules_touched": [
+   "R60-01-BRUTAL_LETHALITY",
+   "R48-34-WOUNDS",
+   "R60-02-REAL_HEALING_TIMES",
+   "R70-104-RIVAL_BOND",
+   "R14-3-STATS_DECIDE_TABLE"
+  ],
+  "multi": false,
+  "choice": [
+   "B"
+  ]
+ },
+ {
+  "n": 56,
+  "qid": "FT6",
+  "section": "FT",
+  "id": "R71-56-SHAPE_MONSTER_FIGHT",
+  "title": "The shape of a monster fight",
+  "verbatim": "Yes to: The hunt as procedure (The fight is won at the shaft head: reading the draw, choosing the entry's counter, laying out the kit. The kill is short and the work is the scene); Phases at the tie (A beast's fight turns (a boss phase: the monster changing form mid-fight) only at a lever canon gives it: its tie cut, its Wellspring's failure induced. The rung drops on the page; an untraceable phase fails R13-8). Not taken: A duel with a beast.",
+  "question": "Which shapes may a fight with a Well-spawn or other beast take on the page?",
+  "rules_touched": [
+   "R53-06-WELL_SPAWN",
+   "R13-4-COMBAT_FLOOR",
+   "R13-8-RECONSTRUCTIBLE_ADJUDICATION",
+   "R47-9-INHERITED_FAILURES",
+   "R17-3-COUNTER_MANDATORY",
+   "R70-102-STILLNESS_TRACED_PASSES_LONG"
+  ],
+  "multi": true,
+  "choice": [
+   "A",
+   "B"
+  ]
+ },
+ {
+  "n": 57,
+  "qid": "FT7",
+  "section": "FT",
+  "id": "R71-57-APPRAISING_BEAST",
+  "title": "Appraising a beast",
+  "verbatim": "Both, and the gap. The tape prints rung and Commission tier together, and where they disagree a voice names the gap, because canon puts the hunter's answer there. It counts as one of the scene's three readouts (R70-86).",
+  "question": "When a coil or a trained eye appraises a creature, what does the line print?",
+  "rules_touched": [
+   "R70-85-SCENE_MOMENTS_THAT_EARN",
+   "R70-80-READOUT_SITS_PAGE",
+   "R70-86-MANY_READOUTS_SCENE_CARRIES",
+   "R70-77-INSTRUMENT_CAN_SHOW",
+   "R53-06-WELL_SPAWN"
+  ],
+  "multi": false,
+  "choice": [
+   "C"
+  ]
+ },
+ {
+  "n": 58,
+  "qid": "FT8",
+  "section": "FT",
+  "id": "R71-58-ONE_SHOT_PRACTITIONER",
+  "title": "One shot at a practitioner",
+  "verbatim": "Each shot traced. A shot is traced like an exchange: range, the ball's speed (R45-1's reference figure) against the Speed Grade the POV reads, the result, the cause stated under R53-05. Rounds left are counted as CW17 rules.",
+  "question": "How much of a gunshot at a practitioner is traced on the page?",
+  "rules_touched": [
+   "R11-3-BALLISTICS_RULING",
+   "R11-5-COMBAT_GUIDE_RANGE_OPENING",
+   "R45-1-SPEED_DECIDES_THE_DODGE",
+   "R53-05-PROOF_PLATE",
+   "R70-88-NUMBERS_INSIDE_FIGHT",
+   "R11-3-FIREARM_PROSE_LAW"
+  ],
+  "multi": false,
+  "choice": [
+   "B"
+  ]
+ },
+ {
+  "n": 59,
+  "qid": "FT9",
+  "section": "FT",
+  "id": "R71-59-PRACTITIONERS_AS_ARTILLERY",
+  "title": "Practitioners as artillery",
+  "verbatim": "Battery with a spotter. An ordinary commander directs the practitioner like a gun; a Measurewright spotter in the line reads the effect on her gauge. R3-9 stays whole, and each section stays POV-locked across marked breaks.",
+  "question": "How does a battle show a high-Stage practitioner used like a battery, given R3-9 closes his head during the fighting?",
+  "rules_touched": [
+   "R3-9-PRACTITIONER_POV_RULING",
+   "R3-9-BEFORE_AFTER_DURING",
+   "R70-106-BATTLE_TOLD",
+   "R1-2-THREE_FIELDS_MANDATORY",
+   "R2-6-DOMAINS_BREAK_NOT_KILL"
+  ],
+  "multi": false,
+  "choice": [
+   "C"
+  ]
+ },
+ {
+  "n": 60,
+  "qid": "FT10",
+  "section": "FT",
+  "id": "R71-60-VOLLEY_SMOKE_DRILLED_LINE",
+  "title": "Volley, smoke and the drilled line",
+  "verbatim": "Yes to: Drill and smoke (A section on loading by numbered motions, smoke that blinds after the first volley, fire by platoons down a line, and squares against horse; the ditch sees smoke and hears the count); Spread against a practitioner (A section on Counterplay's doctrine: men drilled to spread, make him choose and keep a line of fire open, so numbers correctly used beat a practitioner at a stated cost in men); Enhanced-shot companies (A section on elite guard and bounty companies with full pouches of enhanced shot (R53-04): each round priced, made and findable, fired only at practitioners and only on a named order). Not taken: Guns and the late gun.",
+  "question": "Which gunpowder-battle material should the Mass Combat Guide gain?",
+  "rules_touched": [
+   "R53-03-FIREARM_CEILING",
+   "R53-04-ENHANCED_SHOT",
+   "R59-12-TRANSITIONAL_MILITARY",
+   "R11-3-BALLISTICS_RULING",
+   "R1-4-PRECEDENCE_NOTE",
+   "R70-106-BATTLE_TOLD"
+  ],
+  "multi": true,
+  "choice": [
+   "A",
+   "B",
+   "D"
+  ]
+ },
+ {
+  "n": 61,
+  "qid": "FT11",
+  "section": "FT",
+  "id": "R71-61-SIEGE_WITH_PRACTITIONERS_IT",
+  "title": "A siege with practitioners in it",
+  "verbatim": "Ward breach as a break. Amends R3-8: a ward failing joins sortie, mine and storm as a Close Register break, sudden, from a POV on the wall, and over fast; the Line Register resumes after.",
+  "question": "When the wall is warded and a practitioner sits in the besieging camp, where does the ward's failure go on the page?",
+  "rules_touched": [
+   "R3-8-SIEGE_CLOSE_REGISTER_RESERVED",
+   "R3-8-SIEGE_LINE_REGISTER_DEFAULT",
+   "R3-8-SIEGE_PARLEY_IS_SCENE",
+   "R3-9-BEFORE_AFTER_DURING"
+  ],
+  "multi": false,
+  "choice": [
+   "B"
+  ]
+ },
+ {
+  "n": 62,
+  "qid": "FT12",
+  "section": "FT",
+  "id": "R71-62-CHASES_PURSUITS",
+  "title": "Chases and pursuits",
+  "verbatim": "Yes to: The reserve race (The chase is the reserve clock: every burst of speed is spent, both bodies pay, and whoever runs dry first loses. The running total stays in the notes (R70-88)); The quarry's route (The chase is the quarry's route read against the pursuer's: ground chosen beforehand, a cut street, a standpipe yard, a rail cutting. The reserve still runs, but the map decides). Not taken: The crowd and the law.",
+  "question": "What decides a chase on the page?",
+  "rules_touched": [
+   "R2-6-SPEED_RULING",
+   "R60-03-HARD_RESERVE_CLOCK",
+   "R47-11-TIME_AND_ENERGY",
+   "R53-18-AWE",
+   "R13-8-RECONSTRUCTIBLE_ADJUDICATION"
+  ],
+  "multi": true,
+  "choice": [
+   "A",
+   "B"
+  ]
+ },
+ {
+  "n": 63,
+  "qid": "FT13",
+  "section": "FT",
+  "id": "R71-63-BEASTKIN_SENSES_FOX_FIRE",
+  "title": "Beastkin senses and fox-fire",
+  "verbatim": "Yes to: Scent as the read (For a scenting POV, the floor's named read may be a smell stated as evidence: what was smelled, where, and what it means. Tempo words follow the nose); Tells the enemy reads (Ears and tail move before the fighter decides, and an opponent who knows it may read them: an involuntary tell written as a fair, findable counter, in the opponent's eyes or mouth); Fox-fire as plain light (A canon Trait that makes light is named as light, by colour, size and what it shows; R9-3's glow ban stays on Essence discharge only). Not taken: Lineage on the appraisal.",
+  "question": "Which beastkin habits become standing law for a fight on the page?",
+  "rules_touched": [
+   "R1-1-YOKO_ASSIGNED",
+   "R13-4-COMBAT_FLOOR",
+   "R9-3-AURA_AS_FRACTURE",
+   "R70-85-SCENE_MOMENTS_THAT_EARN",
+   "R54-21-FACULTY_AS_SUBJECT"
+  ],
+  "multi": true,
+  "choice": [
+   "A",
+   "B",
+   "C"
+  ]
+ },
+ {
+  "n": 64,
+  "qid": "FT14",
+  "section": "FT",
+  "id": "R71-64-FIGHTING_MAIN",
+  "title": "Fighting on the main",
+  "verbatim": "Yes to: The cut mid-fight (A district can be cut from outside during a fight: the hum dies, the room's density falls, every draw costs more, and the page names who ordered it, even unseen); The burst main (A working that splits a culvert or standpipe spikes the room's density: output up, reach down, by FOW's square-root law. The page shows the effect; any figure prints as a marked estimate (R70-99)); Short ground after (Ground fought on stays short for hours: reach falls, gauges read the residue, and a second fight there pays for the first. FOW's law decides it, and no figure prints without a source). Not taken: Rail and the tram slot.",
+  "question": "Which Draw Age terrain beats become standing fight texture, each with its rule?",
+  "rules_touched": [
+   "R53-17-THE_BILL",
+   "R70-69-PRESSURE_AURA",
+   "R13-8-RECONSTRUCTIBLE_ADJUDICATION",
+   "R12-5-NEVER_INVENT_NUMBER",
+   "R70-99-NUMBER_NOT_YET_CANON",
+   "R53-01-IMPERIAL_AGE_SPAN"
+  ],
+  "multi": true,
+  "choice": [
+   "A",
+   "B",
+   "C"
+  ]
+ },
+ {
+  "n": 65,
+  "qid": "FT15",
+  "section": "FT",
+  "id": "R71-65-RIVER_SEA_FIGHTS",
+  "title": "River and sea fights",
+  "verbatim": "River law of its own. A river gets its own rows: banks close the horizon and open a rout and an ambush, the current is the motion channel, sound carries far over cold water, and the cold drowns.",
+  "question": "Does a river fight run on sea law, or on rules of its own?",
+  "rules_touched": [
+   "R3-8-NAVAL_SENSORY_HIERARCHY",
+   "R3-8-NAVAL_MOTION_CHANNEL",
+   "R3-8-NAVAL_NO_ROUT",
+   "R3-8-NAVAL_FIRE_WATER_DEATHS"
+  ],
+  "multi": false,
+  "choice": [
+   "B"
+  ]
+ },
+ {
+  "n": 66,
+  "qid": "FT16",
+  "section": "FT",
+  "id": "R71-66-FIGHT_THAT_MOSTLY_READ",
+  "title": "The fight that is mostly a read",
+  "verbatim": "Read before, body after. The read pays the first four items (measure, tempo, read, fault) before the cut; the body pays the last four (the hit, the injury, the Essence, what he cannot do) after it. The cut is one line between.",
+  "question": "When a fight is a long read and one cut, where does the exchange floor get paid?",
+  "rules_touched": [
+   "R1-1-VERDICT_GRAMMAR",
+   "R70-102-STILLNESS_TRACED_PASSES_LONG",
+   "R13-4-COMBAT_FLOOR",
+   "R13-4-THREE_EXPLANATIONS",
+   "R70-57-DESCRIPTION_INSIDE_FIGHT"
+  ],
+  "multi": false,
+  "choice": [
+   "C"
+  ]
+ },
+ {
+  "n": 67,
+  "qid": "FT17",
+  "section": "FT",
+  "id": "R71-67-CLEAR_WARNING_BEFORE_LOSS",
+  "title": "Clear warning before a loss",
+  "verbatim": "A sign and an exit. As B, plus a way out shown before the killing exchange (ground, a door, a yield, a price). A death means the exit was missed or refused, and the notes cite both sign and exit. (Option B there reads: One plain sign first. At least one plain sign the fight is lost (a gap read, a wound, a second's shout, a readout) lands an exchange or more before the killing one, and the notes cite it. Ambushes follow R48-30.)",
+  "question": "In a fight the POV is losing, what counts as the clear warning R48-31 requires before an exchange may kill?",
+  "rules_touched": [
+   "R48-31-STAKES",
+   "R48-30-SURPRISES",
+   "R57-10-NEVER_RIGGED",
+   "R60-01-BRUTAL_LETHALITY",
+   "R70-88-NUMBERS_INSIDE_FIGHT",
+   "R49-01-WHOSE_HEAD"
+  ],
+  "multi": false,
+  "choice": [
+   "C"
+  ]
+ },
+ {
+  "n": 68,
+  "qid": "FT18",
+  "section": "FT",
+  "id": "R71-68-TWO_GRAMMARS_MEET",
+  "title": "When two grammars meet",
+  "verbatim": "The clash is the shape. Both shapes run at once: the POV's grammar on the surface, the opponent's underneath in the cost, and the fight turns at the moment one overruns the other.",
+  "question": "When fighters of two different grammars duel, whose shape does the page take?",
+  "rules_touched": [
+   "R70-102-STILLNESS_TRACED_PASSES_LONG",
+   "R1-1-THREE_VOCABULARIES_RULING",
+   "R3-7-EXPENDITURE_GRAMMAR",
+   "R70-100-MARTIAL_VOCABULARY_NAMES_MOVES"
+  ],
+  "multi": false,
+  "choice": [
+   "C"
+  ]
+ },
+ {
+  "n": 69,
+  "qid": "FT19",
+  "section": "FT",
+  "id": "R71-69-GRAMMAR_GUN_BENCH_FIELD",
+  "title": "A grammar for gun, bench and field",
+  "verbatim": "The four suffice. A marksman reads, ranks and commits, so he fights in Verdict; the alchemist and the field caster make the other man spend, so they fight in Expenditure. Each card names its grammar; no fifth.",
+  "question": "Do a marksman, a bench alchemist and a field caster fight in the four grammars, or does one of them need a fifth?",
+  "rules_touched": [
+   "R1-1-THREE_VOCABULARIES_RULING",
+   "R3-7-EXPENDITURE_GRAMMAR",
+   "R1-1-VERDICT_GRAMMAR",
+   "R70-102-STILLNESS_TRACED_PASSES_LONG",
+   "R20C-54-COMBAT_ASSIGNMENTS_CONFIRMED"
+  ],
+  "multi": false,
+  "choice": [
+   "A"
+  ]
+ },
+ {
+  "n": 70,
+  "qid": "AL1",
+  "section": "AL",
+  "id": "R71-70-BENCH_WORK_PAGE",
+  "title": "Bench work on the page",
+  "verbatim": "Guild form, then performed. The scene's main brew appears first as the house's numbered form, set apart (R70-75 extended to the bench), then is performed, and something departs from it. Minor bench work keeps A's single stretch.",
+  "question": "When a scene makes a Draft, how much of the bench procedure goes on the page, and in what form?",
+  "rules_touched": [
+   "R70-46-CRAFT_LABOUR_PAGE",
+   "R70-75-RITE_PAGE",
+   "R12-6-RITUAL_SPECIFICATION",
+   "R51-33-DOC_REGISTER",
+   "R70-71-EXPLAINING_WORKING_MID_FIGHT"
+  ],
+  "multi": false,
+  "choice": [
+   "C"
+  ]
+ },
+ {
+  "n": 71,
+  "qid": "AL2",
+  "section": "AL",
+  "id": "R71-71-HEAT_DRAW_AGE_BENCH",
+  "title": "Heat at the Draw Age bench",
+  "verbatim": "Fuel by purse. Heat follows money: houses on trade supply heat from the main and pay the meter, poor houses burn charcoal and dung (R53-02), the north burns charcoal, and a bench's fire names its owner's class. The Bed stays everywhere.",
+  "question": "What heats an alchemist's bench in a Guild city of the Draw Age?",
+  "rules_touched": [
+   "R59-01-ESSENCE_ENGINES",
+   "R53-02-POOR_FIRES",
+   "R59-05-STEEP_REGIONAL_GRADIENT",
+   "R53-17-THE_BILL"
+  ],
+  "multi": false,
+  "choice": [
+   "C"
+  ]
+ },
+ {
+  "n": 72,
+  "qid": "AL3",
+  "section": "AL",
+  "id": "R71-72-ALCHEMIST_VOICE",
+  "title": "The alchemist's voice",
+  "verbatim": "Yes to: Reads the body first (On the menu: notices mouths, hands, sclera and tremor before faces, and reads a dose, a career or a lie in them. A card that takes it gains a 'reads first' line in its voice block); Price, vessel, seal, ledger (On the menu: weighs a thing by its cost, its vessel, whose mark closes it and where it is entered, pricing before praising. Extends R61-91 from the two texts to any alchemist who takes it); Bench words for everything (On the menu: the operations as all-purpose idiom (a plan still in the Rot, a recruit fed too fast), the Fleshshaper model (R24-1) applied to the trade, a few logged per card). Not taken: Quiet at the work.",
+  "question": "Which habits go on the alchemists' trade menu, so each alchemist's card takes one or two and no two sound alike?",
+  "rules_touched": [
+   "R48-41-MAGIC_TALK",
+   "R61-91-MUJIN_AND_MALPHAS_DRAFTCRAFT",
+   "R24-1-FLESHSHAPER_IDIOM_AND_MARKERS",
+   "R12-4-VOICE_DISCIPLINE",
+   "R15-4-TWELVE_VOICE_DISCIPLINE_SOFTENED"
+  ],
+  "multi": true,
+  "choice": [
+   "A",
+   "B",
+   "C"
+  ]
+ },
+ {
+  "n": 73,
+  "qid": "AL4",
+  "section": "AL",
+  "id": "R71-73-PREPARED_LIVE_FIGHT",
+  "title": "Prepared or live in a fight",
+  "verbatim": "Made before, ground live. Canon read straight: every Draft left a bench before the fight; mid-fight the alchemist spends the bandolier or lays Draft ground, costing turns with hands busy and eyes down. A bench scene plants each vial.",
+  "question": "When an alchemist fights, how much of the alchemy may be made during the fight itself?",
+  "rules_touched": [
+   "R70-71-EXPLAINING_WORKING_MID_FIGHT",
+   "R61-100-ALCHEMY_PAID_BY_STOCK_AND_VEIN",
+   "R47-11-TIME_AND_ENERGY"
+  ],
+  "multi": false,
+  "choice": [
+   "A"
+  ]
+ },
+ {
+  "n": 74,
+  "qid": "AL5",
+  "section": "AL",
+  "id": "R71-74-DRAFT_SIX_SECOND_TURN",
+  "title": "A Draft in the six-second turn",
+  "verbatim": "A drink costs the turn. Drinking or smearing takes a whole turn and opens the drinker inside measure; throwing or smashing is one action within an exchange. The hand going to the bandolier becomes a readable tell.",
+  "question": "How long does using a Draft take inside a fight's six-second turn, and what does it open?",
+  "rules_touched": [
+   "R47-11-TIME_AND_ENERGY",
+   "R11-5-COMBAT_GUIDE_RANGE_OPENING",
+   "R13-4-COMBAT_FLOOR"
+  ],
+  "multi": false,
+  "choice": [
+   "A"
+  ]
+ },
+ {
+  "n": 75,
+  "qid": "AL6",
+  "section": "AL",
+  "id": "R71-75-CARRIES_IT_ONTO_FIELD",
+  "title": "Who carries it onto a field",
+  "verbatim": "Gates, bought by purse. As B, and a company's purse decides how many certified hands it retains, at the price table's retainers (forty gold a month and up for an Adept), so rich companies field far more alchemy. (Option B there reads: Issue by gate. Drafts reach a field by their rank gate: low-gate lots to the line, Adept munitions to drilled details, Expert charges only to Expert hands. The gate becomes the field's ration logic.)",
+  "question": "Who carries combat Drafts onto a field, and how common are they?",
+  "rules_touched": [
+   "R61-100-ALCHEMY_PAID_BY_STOCK_AND_VEIN",
+   "R46-4-ITEM_COSTS",
+   "R53-04-ENHANCED_SHOT",
+   "R53-07-PRICE_TABLE",
+   "R70-48-MONEY_PRICE_PROVENANCE"
+  ],
+  "multi": false,
+  "choice": [
+   "C"
+  ]
+ },
+ {
+  "n": 76,
+  "qid": "AL7",
+  "section": "AL",
+  "id": "R71-76-FORMULA_OWN_FAILURE",
+  "title": "The formula's own failure",
+  "verbatim": "Every use shows it. The precaution each formula demands (the gloved off hand, the chalked hour, the edge kept wide of the body) shows at every use, a standing tell a reading opponent can exploit. The counter stays on the page.",
+  "question": "Every combat formula in the Alchemical Index can fail onto its own user; how often does the handling that guards against it show on the page?",
+  "rules_touched": [
+   "R47-9-INHERITED_FAILURES",
+   "R47-3-COUNTERS_AS_FACTS",
+   "R57-10-NEVER_RIGGED",
+   "R12-3-COUNTER_MANDATORY",
+   "R70-73-MANY_DISPLAY_BEATS_PER"
+  ],
+  "multi": false,
+  "choice": [
+   "A"
+  ]
+ },
+ {
+  "n": 77,
+  "qid": "AL8",
+  "section": "AL",
+  "id": "R71-77-POISON_DUEL",
+  "title": "Poison and the duel",
+  "verbatim": "By culture, on the Inventory. Each Standing Inventory gains a line on coated weapons and poison, taken from the culture's real analogue; the Accord's munitions class is the first entry. An Accord duel and a Moto duel may differ.",
+  "question": "Is a poisoned or coated edge lawful and honourable in a duel, and who decides?",
+  "rules_touched": [
+   "R70-101-DECLARING_NAME_LINE_BEFORE",
+   "R70-105-JOINS_WOUND_WHEN_FIGHT",
+   "R53-11-JUSTICE",
+   "R70-45-NEW_STANDING_INVENTORY_FIELDS"
+  ],
+  "multi": false,
+  "choice": [
+   "B"
+  ]
+ },
+ {
+  "n": 78,
+  "qid": "AL9",
+  "section": "AL",
+  "id": "R71-78-DRAFT_READOUT",
+  "title": "A Draft's readout",
+  "verbatim": "Card once, body at use. R70-95's card carries the Draft's own marks (gate, rung, Class, Fidelity, Carry, maker, price, lore) once, at purchase or appraisal. At use only the body shows, plus a surgeon's inline wound line if a wound earns one.",
+  "question": "What readout does a Draft carry, and does it earn a line when it is used?",
+  "rules_touched": [
+   "R70-95-ITEM_CARDS",
+   "R70-85-SCENE_MOMENTS_THAT_EARN",
+   "R70-86-MANY_READOUTS_SCENE_CARRIES",
+   "R70-80-READOUT_SITS_PAGE",
+   "R70-77-INSTRUMENT_CAN_SHOW"
+  ],
+  "multi": false,
+  "choice": [
+   "A"
+  ]
+ },
+ {
+  "n": 79,
+  "qid": "AL10",
+  "section": "AL",
+  "id": "R71-79-MEDICINE_PLACE_PURSE",
+  "title": "Medicine by place and purse",
+  "verbatim": "Both, by place and purse. The surgeon uses Drafts beside carbolic and chloroform for those who pay; the Legion gets Bone-Grey by issue; the north and the poor get the barber and Cutwater. Every wound scene names which.",
+  "question": "Which medicine treats a wound on the page: period practice, alchemical Drafts, or both sorted by place and purse?",
+  "rules_touched": [
+   "R53-10-MEDICINE",
+   "R60-02-REAL_HEALING_TIMES",
+   "R53-07-PRICE_TABLE",
+   "R70-48-MONEY_PRICE_PROVENANCE"
+  ],
+  "multi": false,
+  "choice": [
+   "C"
+  ]
+ },
+ {
+  "n": 80,
+  "qid": "AL11",
+  "section": "AL",
+  "id": "R71-80-PROVING_POISON",
+  "title": "Proving a poison",
+  "verbatim": "Real tests, by place. The mirror test, the copper test and the iron antidote come into WOTR where R59-05's gradient puts them: Guild cities have them, the north does not. The coil still reads worked poisons.",
+  "question": "Can a poisoning be proved in the Draw Age, and by what test?",
+  "rules_touched": [
+   "R53-10-MEDICINE",
+   "R53-15-FOLK_BELIEFS",
+   "R59-05-STEEP_REGIONAL_GRADIENT",
+   "R61-104-REAL_ALCHEMY_PAGE_WRITTEN",
+   "R18-5-ALCHEMY_SOURCE_ORDER"
+  ],
+  "multi": false,
+  "choice": [
+   "A"
+  ]
+ },
+ {
+  "n": 81,
+  "qid": "AL12",
+  "section": "AL",
+  "id": "R71-81-FORENSIC_READING_PAGE",
+  "title": "A forensic reading on the page",
+  "verbatim": "Protocol as action. The pair, the stands and the withdrawal play as action, and figures enter in a mouth, read aloud at every stand, outside R70-86's cap. The contradiction between the instruments is the scene's turn.",
+  "question": "How does a residue reading, the Night Watch's forensic work, go on the page?",
+  "rules_touched": [
+   "R61-62-PAPERS_AUTHOR_NIGHT_WATCH",
+   "R61-112-AUTHORS_STATE_INSTRUMENT_FIGURES",
+   "R48-16-REAL_FIGURES",
+   "R70-86-MANY_READOUTS_SCENE_CARRIES",
+   "R70-67-FORMS_WORLD_DOCUMENTS"
+  ],
+  "multi": false,
+  "choice": [
+   "A"
+  ]
+ },
+ {
+  "n": 82,
+  "qid": "AL13",
+  "section": "AL",
+  "id": "R71-82-CORRUPTION_SHOWN_BODY",
+  "title": "Corruption shown on the body",
+  "verbatim": "Yes to: Signs in the body (The Heresiology's bodily signs become standing tells, planted before any reveal, so a reader can catch a corrupt master before the plot names him. One sign a scene at most, across A to C); Signs in the work (The bench betrays him first: vessels crack under his hands alone, inscriptions darken on their own, residue gathers in shapes. The workshop shows the corruption before the man does); Signs in technique (A corrupted practitioner's workings run their corrupted versions (the Open Crucible's model, where Honest Fire strips structure it finds inconvenient), so the tell lives in how he works and fights); The break as an event (When the vow finally fails, the Shear Break is written as its own event, the fall shown whole in the body and the work, so the slow signs pay off on the page).",
+  "question": "When an alchemist's Great Work (his own walk through the seven stages) turns corrupt, which signs reach the page?",
+  "rules_touched": [
+   "R61-85-BROKEN_VOW_SIGNS_CORRUPTION",
+   "R61-83-CORRUPTIONS_BY_NAME_NOT_NUMBER",
+   "R48-30-SURPRISES"
+  ],
+  "multi": true,
+  "choice": [
+   "A",
+   "B",
+   "C",
+   "D"
+  ]
+ },
+ {
+  "n": 83,
+  "qid": "AL14",
+  "section": "AL",
+  "id": "R71-83-ACCIDENTS_FUMES",
+  "title": "Accidents and fumes",
+  "verbatim": "Late drowning, and rest. As B, plus a findable counter: men kept lying still and watched through the night fare better than men who walk home, as real toxicology keeps such patients at rest. A knowing hand's orders save some. (Option B there reads: The late drowning. The Real Alchemy's reading: the room doses in order of nearness and the dying comes hours later, after the men have walked out. A surgeon's wound line can name it (R70-85); the grief arrives by morning.)",
+  "question": "When a lute fails and Strongwater fume fills a closed room, which clock kills on the page?",
+  "rules_touched": [
+   "R18-5-ALCHEMY_SOURCE_ORDER",
+   "R49-46-CHEMISTRY",
+   "R12-6-RITUAL_SPECIFICATION",
+   "R70-85-SCENE_MOMENTS_THAT_EARN",
+   "R47-3-COUNTERS_AS_FACTS"
+  ],
+  "multi": false,
+  "choice": [
+   "C"
+  ]
+ },
+ {
+  "n": 84,
+  "qid": "AL15",
+  "section": "AL",
+  "id": "R71-84-TRADE_PAPER_SCENE",
+  "title": "The trade's paper in a scene",
+  "verbatim": "Yes to: Price counted at use (Beyond R70-48's price at purchase, a fighter or worker counts what a Draft cost when he spends it, in his own money, the sum taken from the table or the Index. Money before magic, in the hand); The mark checked (Every lawful vessel carries its maker's registered mark, and anyone handling one looks at it the way a soldier reads a proof-dent (R11-3). The mark becomes standing texture and a trail); Provenance as plot (Lots can be forged, adulterated, stale or unentered, and a scene may turn on a bad lot; the forgery is always findable by mark, assay or the Index's own failure. A fair counter and a plot engine).",
+  "question": "Which parts of the trade's money and paper show whenever alchemy changes hands or gets used?",
+  "rules_touched": [
+   "R70-48-MONEY_PRICE_PROVENANCE",
+   "R53-07-PRICE_TABLE",
+   "R11-3-PROOF_MARKS_CANON",
+   "R65-3-DRAYCOTT_REGISTERED_MARK",
+   "R61-111-PARACELSUS_SOLD_UNENTERED_FORMULA"
+  ],
+  "multi": true,
+  "choice": [
+   "A",
+   "B",
+   "C"
+  ]
+ },
+ {
+  "n": 85,
+  "qid": "AL16",
+  "section": "AL",
+  "id": "R71-85-DRAFT_AGAINST_WORKING",
+  "title": "A Draft against a working",
+  "verbatim": "Two parts, two answers. A Draft splits: its plain physics (blast, heat, acid, smoke) meets Durability like any force, while its worked part answers its maker's ceiling and fails against anyone above it. Both stay traceable (R13-8).",
+  "question": "When a thrown Draft meets a ranked practitioner, what decides whether it touches him?",
+  "rules_touched": [
+   "R45-3-ENHANCEMENT_CEILING",
+   "R61-102-BENCH_TIERS_CAP_ALCHEMISTS",
+   "R55-7-HARMONIC_IMMUNITY_BY_STAGE",
+   "R13-8-RECONSTRUCTIBLE_ADJUDICATION"
+  ],
+  "multi": false,
+  "choice": [
+   "A"
+  ]
+ },
+ {
+  "n": 86,
+  "qid": "AL17",
+  "section": "AL",
+  "id": "R71-86-REVENANT_FIGHT",
+  "title": "A revenant in a fight",
+  "verbatim": "Levers still rule. A body on habit: anatomy stops the motion (a cut hamstring drops it) while the habit keeps trying; only ash, removal or the ninth day ends it. The floor applies by structure, with no blood-loss class.",
+  "question": "When a revenant (a stalled Crossing) is met in a fight, what stops it?",
+  "rules_touched": [
+   "R61-77-REVENANT_IS_STALLED_CROSSING",
+   "R69-4-TRIA_PRIMA_FOR_THE_DEAD",
+   "R13-4-COMBAT_FLOOR",
+   "R48-34-WOUNDS"
+  ],
+  "multi": false,
+  "choice": [
+   "A"
+  ]
+ },
+ {
+  "n": 87,
+  "qid": "AL18",
+  "section": "AL",
+  "id": "R71-87-IMPRESSION_BODY_VOICE",
+  "title": "The impression-body's voice",
+  "verbatim": "A seam the reader catches. As A, plus one planted habit of the maker leaks through the likeness, findable by an attentive reader before any trained reader names it: the maker's Core as identity, made visible. (Option A there reads: Seamless to the mourner. The likeness is written exactly as the living man, through the mourner's eyes; only the room (the dim lamp, the ink) hints. The horror is what the reader knows and she does not.)",
+  "question": "How does the page render an impression-body, the likeness of the dead an alchemist pours and seals?",
+  "rules_touched": [
+   "R61-75-IMPRESSION_BODY_GREATER_SUMMONS",
+   "R61-110-IMPRESSION_BODY_TELLS_COUNTERS",
+   "R48-30-SURPRISES"
+  ],
+  "multi": false,
+  "choice": [
+   "B"
+  ]
+ },
+ {
+  "n": 88,
+  "qid": "AL19",
+  "section": "AL",
+  "id": "R71-88-EXPLOSIVES_BESIDE_INDEX",
+  "title": "Explosives beside the Index",
+  "verbatim": "Plain chemistry, powder law. They exist as plain chemistry with no Essence and no rank gate, licensed under ordinary powder law. The coil reads nothing in them, and a quarryman's stick of dynamite holds about what a Thundercrack does.",
+  "question": "Where do the span's real explosives and incendiaries (fulminate caps, guncotton, dynamite, phosphorus fire) stand beside the Index's Drafts?",
+  "rules_touched": [
+   "R53-01-IMPERIAL_AGE_SPAN",
+   "R53-03-FIREARM_CEILING",
+   "R18-5-ALCHEMY_SOURCE_ORDER",
+   "R70-48-MONEY_PRICE_PROVENANCE"
+  ],
+  "multi": false,
+  "choice": [
+   "A"
+  ]
+ },
+ {
+  "n": 89,
+  "qid": "WT1",
+  "section": "WT",
+  "id": "R71-89-ITEM_CARD_FIGHT",
+  "title": "The item card in a fight",
+  "verbatim": "Tier named, card after. Mid-fight a trained eye names the Tier inline, by name alone (R70-82). The full card waits for the counter or the aftermath. No set-off block between exchanges; verify_scene warns on one.",
+  "question": "When a weapon or a round is first appraised while a fight is running, where does its item card go?",
+  "rules_touched": [
+   "R70-95-ITEM_CARDS",
+   "R70-80-READOUT_SITS_PAGE",
+   "R70-86-MANY_READOUTS_SCENE_CARRIES",
+   "R70-85-SCENE_MOMENTS_THAT_EARN",
+   "R70-82-NUMERALS_LADDER_RUNGS",
+   "R70-48-MONEY_PRICE_PROVENANCE"
+  ],
+  "multi": false,
+  "choice": [
+   "C"
+  ]
+ },
+ {
+  "n": 90,
+  "qid": "WT2",
+  "section": "WT",
+  "id": "R71-90-WEAPON_NAMES_FIGHT",
+  "title": "Weapon names in a fight",
+  "verbatim": "The POV's own name. Narration uses whatever the POV calls it: a Kharven rider's folk name, a Moto retainer's true name. It matches R70-100's rule for moves. Other names wait for a card or the aftermath.",
+  "question": "When a weapon with a true name and a soldiers' folk name is used in a fight, which name does the narration use?",
+  "rules_touched": [
+   "R70-128-PLACES_INNS_SHIPS_GEAR",
+   "R50-13-ITEM_NAMES",
+   "R70-129-NOTICES_JOKE",
+   "R70-100-MARTIAL_VOCABULARY_NAMES_MOVES"
+  ],
+  "multi": false,
+  "choice": [
+   "A"
+  ]
+ },
+ {
+  "n": 91,
+  "qid": "WT3",
+  "section": "WT",
+  "id": "R71-91-ARMOUR_SUMS_PAGE",
+  "title": "Armour sums on the page",
+  "verbatim": "The read names the sum. A trained POV names both Tiers in her read before the exchange (R70-88), then the steel shows the sum. Untrained POVs fall back to A. The reader checks every penetration against R46-3.",
+  "question": "When a strike meets armour with a Tier, how does the page show the threshold?",
+  "rules_touched": [
+   "R46-3-ARMOUR_TIER_IS_ITS_PROOF",
+   "R53-05-PROOF_PLATE",
+   "R70-88-NUMBERS_INSIDE_FIGHT",
+   "R11-3-PROOF_MARKS_CANON",
+   "R13-8-RECONSTRUCTIBLE_ADJUDICATION"
+  ],
+  "multi": false,
+  "choice": [
+   "B"
+  ]
+ },
+ {
+  "n": 92,
+  "qid": "WT13",
+  "section": "WT",
+  "id": "R71-92-ARMOUR_KIND_AGAINST",
+  "title": "Armour's kind against its Tier",
+  "verbatim": "Kind if plain, Tier if worked. Unworked armour fights by its physics (mail turns the cut, not the thrust); once armour carries a working, R46-3's Tier decides and the kind is only the shape the working wears, as R13-C has it for shot.",
+  "question": "When a strike meets armour, which decides: the kind of armour (padded, mail, plate) or its Tier on the item ladder?",
+  "rules_touched": [
+   "R46-3-ARMOUR_TIER_IS_ITS_PROOF",
+   "R46-1-ITEM_TIER_LOWER_OF_TWO",
+   "R13-C",
+   "R53-05-PROOF_PLATE",
+   "R13-9-ITEM_GUIDE_WEAPON_ENTRY"
+  ],
+  "multi": false,
+  "choice": [
+   "A"
+  ]
+ },
+ {
+  "n": 93,
+  "qid": "WT4",
+  "section": "WT",
+  "id": "R71-93-PROOFED_SHOT_AGAINST_PROOFED",
+  "title": "Proofed shot against proofed plate",
+  "verbatim": "Out-coupling counts one Tier. Against worked armour a proofed round strikes as one Tier higher: proofed shot breaks proofed plate, a round two over passes, and the named round is simply two over. One ladder, R13-C kept.",
+  "question": "Does a proofed round beat proofed plate of the same Tier, and on which ladder?",
+  "rules_touched": [
+   "R11-3-AMMO_TIERS",
+   "R13-C",
+   "R46-3-ARMOUR_TIER_IS_ITS_PROOF",
+   "R20C-22-AMMUNITION_TIERS_RATIFIED",
+   "R53-07-PRICE_TABLE"
+  ],
+  "multi": false,
+  "choice": [
+   "C"
+  ]
+ },
+ {
+  "n": 94,
+  "qid": "WT5",
+  "section": "WT",
+  "id": "R71-94-STALE_POUCH",
+  "title": "The stale pouch",
+  "verbatim": "Fails on a planted tell. A stale round may fail mid-fight only if the page showed its date earlier: the stamp on the pouch, a Harmonist's word, a re-read put off. The failure is then the fight's fair surprise.",
+  "question": "When enhanced shot has gone stale, how may that reach a fight?",
+  "rules_touched": [
+   "R45-5-PAID_PER_SHOT_AND_FINDABLE",
+   "R48-30-SURPRISES",
+   "R53-04-ENHANCED_SHOT",
+   "R53-07-PRICE_TABLE"
+  ],
+  "multi": false,
+  "choice": [
+   "B"
+  ]
+ },
+ {
+  "n": 95,
+  "qid": "WT6",
+  "section": "WT",
+  "id": "R71-95-WARD_BREAKING",
+  "title": "A ward breaking",
+  "verbatim": "By who is looking. A POV inside the craft names the layer as it goes; any other POV gets only what stops, and hears the layer named in a mouth. Keyed to the POV, as R70-100's school words are.",
+  "question": "When a fight breaks a ward, such as a Ketsuen gate post or a death-house wall, how is the breaking written?",
+  "rules_touched": [
+   "R70-76-MUCH_WORLD_MAGIC",
+   "R53-05-PROOF_PLATE",
+   "R12-4-VOICE_ONE_POV",
+   "R70-100-MARTIAL_VOCABULARY_NAMES_MOVES"
+  ],
+  "multi": false,
+  "choice": [
+   "C"
+  ]
+ },
+ {
+  "n": 96,
+  "qid": "WT7",
+  "section": "WT",
+  "id": "R71-96-WELL_AS_GROUND",
+  "title": "The Well as ground",
+  "verbatim": "Yes to: Reach written to rung (Before contact a gauge or a practitioner's feel names the density rung (Ambient Saturation through Core), and every reach in the fight is written to it. Adds reach beside §7's draw-cost row); The unawakened in it (Porters, lamp-men and timber crews are in every Well fight as people who can win it: no Shell (the layer a working fires through) to fire, no reserve to drain. Each gets a want and a line). Not taken: The register stays tidy.",
+  "question": "When a fight happens at a Well, what does the page owe the place itself?",
+  "rules_touched": [
+   "R11-4-DESCENT_PROSE_LAW",
+   "R11-4-MAGNITUDE_AXIS",
+   "R53-06-WELL_SPAWN",
+   "R14-3-STATS_DECIDE_TABLE"
+  ],
+  "multi": true,
+  "choice": [
+   "A",
+   "B"
+  ]
+ },
+ {
+  "n": 97,
+  "qid": "WT8",
+  "section": "WT",
+  "id": "R71-97-CONTRACT_FIGHTS",
+  "title": "Contract fights",
+  "verbatim": "Yes to: The posting as document (The posting is set on the page at the hook in the Guild's house style (terms, pay, register, penalty), a document voice that plants the rules before the fight (R70-71)); A clause binds the fight (Every contract carries at least one clause limiting how it may be won (alive, intact, unwitnessed, before the thaw), with a penalty. The cheapest counter often breaks the clause); Proof at the counter (The job closes at the clerk's counter: the proof the contract asks for, the clerk's dispute, the pay named from the price table. A failed proof is a Ledger debt).",
+  "question": "When a fight is a Guild or Crown contract (a bounty, a clearance), what does the contract do to the fight?",
+  "rules_touched": [
+   "R70-97-QUESTS_CONTRACTS",
+   "R70-71-EXPLAINING_WORKING_MID_FIGHT",
+   "R12-4-VOICE_FOUR_DOCUMENT",
+   "R70-48-MONEY_PRICE_PROVENANCE",
+   "R20C-21-WELL_NAMES_CLASS_MARKED"
+  ],
+  "multi": true,
+  "choice": [
+   "A",
+   "B",
+   "C"
+  ]
+ },
+ {
+  "n": 98,
+  "qid": "WT9",
+  "section": "WT",
+  "id": "R71-98-HEARS_RAIL",
+  "title": "Who hears the rail",
+  "verbatim": "Called aloud to all. She says the reading as she takes it: both fighters and the benches hear it, the readout reaches a fighter's own page, and a suppressed Stage is exposed in public, with R70-112's bill.",
+  "question": "At a sanctioned bout, who hears the Measurewright's reading when she takes it at the rail?",
+  "rules_touched": [
+   "R70-85-SCENE_MOMENTS_THAT_EARN",
+   "R70-87-READOUTS_TWO_VOICE_CAP",
+   "R70-112-FACE_FACE_SLAP",
+   "R12-4-VOICE_ONE_POV",
+   "R70-77-INSTRUMENT_CAN_SHOW"
+  ],
+  "multi": false,
+  "choice": [
+   "A"
+  ]
+ },
+ {
+  "n": 99,
+  "qid": "WT10",
+  "section": "WT",
+  "id": "R71-99-BILL_AFTER_FIGHT",
+  "title": "The bill after a fight",
+  "verbatim": "The bill in the world. Each cost arrives as a person or a paper in the aftermath: the fee named from the price table or exactly in kind, the debt spoken, the witnesses counted. The formal Ledger stays in the notes.",
+  "question": "After a fight, how do its costs (wounds, debts, witnesses) reach the page?",
+  "rules_touched": [
+   "R48-38-AFTERMATH",
+   "R70-104-RIVAL_BOND",
+   "R70-98-SHEETS_CHAPTER_ARC_ENDS",
+   "R70-80-READOUT_SITS_PAGE",
+   "R70-48-MONEY_PRICE_PROVENANCE"
+  ],
+  "multi": false,
+  "choice": [
+   "C"
+  ]
+ },
+ {
+  "n": 100,
+  "qid": "WT11",
+  "section": "WT",
+  "id": "R71-100-ROLL_AFTER_PUBLIC_FIGHT",
+  "title": "The roll after a public fight",
+  "verbatim": "Entered, may earn a mark. B, and a notable win may earn a Guild commendation struck on the token (R70-96): the genre's achievement in WOTR's institutions, with legal weight and no stat effect. (Option B there reads: Entered as a record. A fight before witnesses is entered: who, where, by what, the outcome, read aloud as written. A public record that can be read back and contested at the next quarrel.)",
+  "question": "Does a fight fought before witnesses go on the Reckoner's roll?",
+  "rules_touched": [
+   "R70-92-CONFIRMING_NEW_STAGE",
+   "R70-96-TITLES_ACHIEVEMENTS"
+  ],
+  "multi": false,
+  "choice": [
+   "C"
+  ]
+ },
+ {
+  "n": 101,
+  "qid": "WT12",
+  "section": "WT",
+  "id": "R71-101-LAW_TURNS",
+  "title": "What the law turns on",
+  "verbatim": "Yes to: Proof decides (Law moves only on a witness or a reading inside the residue clocks (R61-7); R60-11's trace proof reaches blade killings too. An unread killing sits on the Ledger as a risk); Courts fight over it (Every practitioner's killing opens a jurisdiction contest between crown, company and guild (R60-19) as a Front, and the killer's fate turns on which layer wins it); Declare it, or murder (A killer who does not declare before witnesses by the next dawn is a murderer in every culture that keeps witnesses, Kharven and Korvaeth first. The declaration is its own short scene). Not taken: Standing buys terms.",
+  "question": "When a fight ends in a death, what does the law that follows turn on?",
+  "rules_touched": [
+   "R53-11-JUSTICE",
+   "R70-45-NEW_STANDING_INVENTORY_FIELDS",
+   "R60-11-TRACE_EVIDENCE_AND_JURISDICTION",
+   "R60-19-LAYERED_RULE",
+   "R61-7-RESIDUES_ON_TWO_CLOCKS"
+  ],
+  "multi": true,
+  "choice": [
+   "A",
+   "C",
+   "D"
+  ]
+ },
+ {
+  "n": 102,
+  "qid": "ME1",
+  "section": "ME",
+  "id": "R71-102-WHERE_COMBAT_LAW_LANDS",
+  "title": "Where the combat law lands",
+  "verbatim": "Rule doc, three guides. A, plus new editions of the Combat Craft, Mass Combat Craft and Item and Equipment Writing guides, and NATALIE.md's stale combat lines rewritten, so nothing still teaches dead law. (Option A there reads: Rule doc only. One dated Combat Law doc through log_ruling, served by load_rules. The guides and NATALIE.md stay as they are until a later pass, stale lines included.)",
+  "question": "How do your combat answers land in the repo?",
+  "rules_touched": [
+   "R70-135-WHERE_NEW_LAW_LIVES",
+   "R13-9-COMBAT_GUIDE_EDIT",
+   "R53-05-PROOF_PLATE",
+   "R11-3-FIREARM_PROSE_LAW"
+  ],
+  "multi": false,
+  "choice": [
+   "C"
+  ]
+ },
+ {
+  "n": 103,
+  "qid": "ME2",
+  "section": "ME",
+  "id": "R71-103-COMBAT_CHECKS_VERIFY_SCENE",
+  "title": "Combat checks in verify_scene",
+  "verbatim": "Yes to: Truer school lists (Percussion gets a hammer-and-haft list, boxing becomes its own school, and firearms and Kharven lists are added, so a gunfight or a hall fight is checked in its own words); Readout and beat counts (WARN past three readout lines a scene or two a turn, on two in one exchange, and on a figure carried from one exchange to the next (R70-86, R70-88)); Stale-device watch (WARN past one a scene on the archive's tired fight devices: the default 'eleven', the knock-back furrow, the overdraw nosebleed, 'without deciding to' and 'the particular X of Y'). Not taken: Checks 24 to 26.",
+  "question": "Which combat checks should verify_scene gain with this law?",
+  "rules_touched": [
+   "R70-136-NEW_CHECKS_VERIFY_SCENE",
+   "R48-45-CHECKS",
+   "R13-9-VERIFY_CHECKS_22_26",
+   "R70-86-MANY_READOUTS_SCENE_CARRIES",
+   "R70-88-NUMBERS_INSIDE_FIGHT"
+  ],
+  "multi": true,
+  "choice": [
+   "A",
+   "B",
+   "D"
+  ]
+ },
+ {
+  "n": 104,
+  "qid": "ME3",
+  "section": "ME",
+  "id": "R71-104-COMBAT_SAMPLE_BANK",
+  "title": "The combat sample bank",
+  "verbatim": "Both. A and B: culture passages where Natalie already loads them, and the fight types the archive has never written.",
+  "question": "What should the combat sample bank hold?",
+  "rules_touched": [
+   "R70-138-PROOF_ORDER_WORK"
+  ],
+  "multi": false,
+  "choice": [
+   "C"
+  ]
+ },
+ {
+  "n": 105,
+  "qid": "ME4",
+  "section": "ME",
+  "id": "R71-105-PROOF_ORDER_WORK",
+  "title": "Proof and the order of work",
+  "verbatim": "Law and checks, then test. Log the law and build the new checks; run the test fight against them; amend; then the guide editions and the bank, written once against proved law.",
+  "question": "In what order does the combat work run, and where does the test fight sit?",
+  "rules_touched": [
+   "R70-138-PROOF_ORDER_WORK"
+  ],
+  "multi": false,
+  "choice": [
+   "B"
+  ]
+ }
+]

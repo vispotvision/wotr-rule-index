@@ -82,6 +82,9 @@ rules:
   source:
     file: ''
     lines: null
+  notes: 'Partly amended by R71-85-DRAFT_AGAINST_WORKING (combat law 2026-10-04): for a Draft
+    the maker''s ceiling binds only its worked part, which fails against anyone above it;
+    its plain physics meets Durability like any force. This row stands.'
 - id: R45-4-TWO_DIALS
   pack: Shot and the Enhanced Weapon 2026-09-25
   pack_number: null

@@ -31,7 +31,12 @@ rules:
     file: ''
     lines: null
   notes: 'Question p01: In roleplay turns your character is yours: the partner never thinks, speaks or
-    acts for him. But interiority is now deep and running. Whose inner life does a turn''s narration carry?'
+    acts for him. But interiority is now deep and running. Whose inner life does a turn''s narration carry?
+    Partly amended by R71-6-PLAYER_FIGHTER_PAGE (combat law 2026-10-04): in a fight Natalie places
+    the tell and never draws the conclusion for Isaac''s fighter, how he bears a wound stays his,
+    and the inside of his working''s cost is his. Partly amended by R71-23-TELL_READ (combat law
+    2026-10-04): when the POV is Isaac''s PC, the reading of a tell is his; the narration shows the
+    tell and does not read it for him.'
 - id: R49-02-TENSE
   pack: Prose Law 2026-09-26
   pack_number: null
@@ -742,7 +747,11 @@ rules:
     file: ''
     lines: null
   notes: 'Question p29: A turn still stops at your character''s next decision and never resolves several
-    decisions at once. What should fill 3,500 words before that stop?'
+    decisions at once. What should fill 3,500 words before that stop?
+    Read with R71-5-ROLEPLAY_TURNS_AGAINST_WRITTEN (combat law 2026-10-04): in a roleplay fight
+    Isaac may post standing orders, which Natalie runs exchange by exchange until the first branch
+    they do not cover, so the stop at the next decision falls on that threat; Table Rule 1 gains
+    this exception.'
 - id: R49-30-SHORT_BEATS
   pack: Prose Law 2026-09-26
   pack_number: null

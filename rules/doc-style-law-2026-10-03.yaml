@@ -110,9 +110,12 @@ rules:
   source:
     file: ''
     lines: null
-  notes: K3. Replaces the per-layer content of R5-A-FLESH_CHANGES, which R70-1 supersedes. Works with
+  notes: 'K3. Replaces the per-layer content of R5-A-FLESH_CHANGES, which R70-1 supersedes. Works with
     R70-1 (the blend) and R70-9 (the Technical and Mystic registers); R70-9 sets what the Technical register
-    draws on (LitRPG and wuxia) in the combat and injury this row gives the Western strand to lead.
+    draws on (LitRPG and wuxia) in the combat and injury this row gives the Western strand to lead. Partly
+    amended by R71-1-WHERE_LINE_FALLS_FIGHT (combat law 2026-10-04): inside a fight the exchange, the
+    wound and the cost stay Western and clinical, while the read, the stillness before the cut and a rule''s
+    reveal run Eastern, long and deductive.'
 - id: R70-4-WESTERN_MODELS
   pack: Style Law 2026-10-03
   pack_number: null
@@ -392,9 +395,11 @@ rules:
   source:
     file: ''
     lines: null
-  notes: VO2. Roll-call lines are exempt from R1-3-NAME_THREE_RULE, and R39-7-NO_NPC_THOUGHT_UNDER_POV_LOCK
+  notes: 'VO2. Roll-call lines are exempt from R1-3-NAME_THREE_RULE, and R39-7-NO_NPC_THOUGHT_UNDER_POV_LOCK
     and R48-40-NPC_THOUGHTS gain this exception; R49-09-CUTAWAYS stands. Works with R70-106 (the battle
-    cut between hill and ditch) and R70-72 (the crowd chorus in hearing).
+    cut between hill and ditch) and R70-72 (the crowd chorus in hearing). Partly amended by R71-47-SHOWING_SCALE
+    (combat law 2026-10-04): the marked device reaches a top-ladder fight in a city, where at a marked
+    break one commoner in the street gets a short dip inside her head before the lock resumes.'
 - id: R70-12-FIRST_PERSON
   pack: Style Law 2026-10-03
   pack_number: null
@@ -740,8 +745,10 @@ rules:
   source:
     file: ''
     lines: null
-  notes: RH4. Extends R51-31-SENSE_BANK; R49-49-FOREIGN governs the page. Moto and Korean-register houses
-    gain most. Works with R70-33 (a Words entry per Inventory).
+  notes: 'RH4. Extends R51-31-SENSE_BANK; R49-49-FOREIGN governs the page. Moto and Korean-register houses
+    gain most. Works with R70-33 (a Words entry per Inventory). Partly amended by R71-18-FIGHT_SOUNDS_LIKE
+    (combat law 2026-10-04): in fights the POV culture''s own sound words carry the impacts, entered in
+    its Inventory first, and each culture''s bank gains a few fight words.'
 - id: R70-23-CHAPTER_HEADS
   pack: Style Law 2026-10-03
   pack_number: null
@@ -1083,8 +1090,11 @@ rules:
   source:
     file: ''
     lines: null
-  notes: Sits beside the senses entry of R51-31-SENSE_BANK. R70-36-CHECKER_ENFORCES spell-checks native
+  notes: 'Sits beside the senses entry of R51-31-SENSE_BANK. R70-36-CHECKER_ENFORCES spell-checks native
     words against these banks. Works with R70-22-SOUND_WORDS and R70-45-NEW_STANDING_INVENTORY_FIELDS.
+    Partly amended by R71-53-BRAWLS_FOLK_SCHOOLS (combat law 2026-10-04): "Each Standing Inventory''s
+    Words entry gains its wrestling and fist words, entered and logged" Each Words entry also carries
+    its culture''s folk wrestling and fist words, and a POV raised in them names his moves in them.'
 - id: R70-34-REAL_LANGUAGE_SWEARS_NARRATION
   pack: Style Law 2026-10-03
   pack_number: null
@@ -1484,9 +1494,12 @@ rules:
   source:
     file: ''
     lines: null
-  notes: Extends R6-8-STANDING_INVENTORY_CATEGORIES and R51-31-SENSE_BANK (temperature joins the senses
+  notes: 'Extends R6-8-STANDING_INVENTORY_CATEGORIES and R51-31-SENSE_BANK (temperature joins the senses
     entry); gives R53-11-JUSTICE and R60-21-SUCCESSION_BY_CULTURE a field. Supplies the rotation groups
-    of R70-41 to R70-43. Further fields come from R70-44, R70-59, R70-60, R70-61, R70-63 and R70-65.
+    of R70-41 to R70-43. Further fields come from R70-44, R70-59, R70-60, R70-61, R70-63 and R70-65. Extended
+    by R71-77-POISON_DUEL (combat law 2026-10-04): every Standing Inventory also gains a line on coated
+    weapons and poison, taken from the culture''s real analogue, the Accord''s munitions class first.
+    The fields here stand.'
 - id: R70-46-CRAFT_LABOUR_PAGE
   pack: Style Law 2026-10-03
   pack_number: null
@@ -1576,9 +1589,18 @@ rules:
   source:
     file: ''
     lines: null
-  notes: Extends R53-07-PRICE_TABLE (quoted whenever coin moves); R53-17-THE_BILL stands. The lineage
+  notes: 'Extends R53-07-PRICE_TABLE (quoted whenever coin moves); R53-17-THE_BILL stands. The lineage
     clause keeps R46-2 Tiers out of the prose unless asked; the set-off item card is R70-95 and appraisal
-    is R70-85. Appraisal by a trained eye was not taken here.
+    is R70-85. Appraisal by a trained eye was not taken here. Extended by R71-84-TRADE_PAPER_SCENE (combat
+    law 2026-10-04): beyond the price at purchase, a fighter or worker counts what a Draft cost when he
+    spends it, in his own money; lawful vessels carry a registered mark that handlers check, and a bad
+    lot may turn a scene. This row stands. Partly amended by R71-89-ITEM_CARD_FIGHT (combat law 2026-10-04):
+    mid-fight a trained eye names a weapon''s or round''s Tier inline, by name alone, so ''Tier and price
+    stay off unless asked'' no longer holds the Tier back there, though this row did not take ''Appraisal
+    by a trained eye''; the rest of the item card, price included, waits for the counter or the aftermath.
+    The price clause and the lineage clause otherwise stand. Partly amended by R71-91-ARMOUR_SUMS_PAGE
+    (combat law 2026-10-04): a trained POV names both Tiers, the strike''s and the armour''s, in her read
+    before an exchange, so the Tier is on the page there without being asked.'
 - id: R70-49-LANDSCAPE_SKY
   pack: Style Law 2026-10-03
   pack_number: null
@@ -2206,8 +2228,11 @@ rules:
   source:
     file: ''
     lines: null
-  notes: The mechanism is owed before first use. R1-1-VERDICT_GRAMMAR and R12-1-PACK_SEVEN_SURVIVORS stand.
-    Builds on R70-69.
+  notes: 'The mechanism is owed before first use. R1-1-VERDICT_GRAMMAR and R12-1-PACK_SEVEN_SURVIVORS
+    stand. Builds on R70-69. Partly amended by R71-40-MECHANISM_AIMED_PRESSURE (combat law 2026-10-04):
+    the mechanism this row owed is ruled (Dominion draws the Passive Pressure Field onto one man, and
+    the room eases as he suffers), so aimed Pressure may reach the page; the trade''s figures come from
+    Dominion and are set, never invented. The felt signs and the answer by suppression stand.'
 - id: R70-71-EXPLAINING_WORKING_MID_FIGHT
   pack: Style Law 2026-10-03
   pack_number: null
@@ -2235,10 +2260,15 @@ rules:
   source:
     file: ''
     lines: null
-  notes: R12-3-NAMED_INVENTOR_RULE stands for self-derived techniques. R12-4-VOICE_MIXING_RULE (two voices
+  notes: 'R12-3-NAMED_INVENTOR_RULE stands for self-derived techniques. R12-4-VOICE_MIXING_RULE (two voices
     per engagement), R4-13-ZERO_BUDGET, R51-15-FIRST_USE and R49-43-EXPLAINING are unchanged; readouts
     sit outside the voice cap (R70-87). Moves most of the in-fight explaining of R12-2-TECHNICAL_REGISTER_DEF
-    into recall; R70-9 is the row that rewrites R12-2.
+    into recall; R70-9 is the row that rewrites R12-2. Partly amended by R71-30-HELD_BACK_REVEAL (combat
+    law 2026-10-04): for a held reveal, the working''s rule may act earlier, unexplained, as evidence
+    a reader could catch, and a voice tells it at the reveal, with the notes listing each planted sign;
+    everywhere else the rules are still planted beforehand. Applied to Drafts by R71-73-PREPARED_LIVE_FIGHT
+    (combat law 2026-10-04): every Draft leaves a bench before the fight, and a bench scene plants each
+    vial. This row stands.'
 - id: R70-72-WATCHING_CROWD_POWER_REVEAL
   pack: Style Law 2026-10-03
   pack_number: null
@@ -2300,7 +2330,9 @@ rules:
     file: ''
     lines: null
   notes: 'Partly amends R9-3-BODY_UNDER_LOAD and R10-3-UNCHANGED_CONSTRAINTS: their one-per-scene cap
-    becomes one per named practitioner; the rendering of the body under load stands. R9-3-SCOPE stands.'
+    becomes one per named practitioner; the rendering of the body under load stands. R9-3-SCOPE stands.
+    Partly amended by R71-49-SUMMON_DISPLAY_BEAT (combat law 2026-10-04): a Native summon, with its own
+    Crystal, takes a display beat of its own; Donated and Analog forms share their summoner''s.'
 - id: R70-74-TECHNIQUE_NAME_LOOKS
   pack: Style Law 2026-10-03
   pack_number: null
@@ -2358,9 +2390,12 @@ rules:
   source:
     file: ''
     lines: null
-  notes: Gives the rite R12-6-RITUAL_SPECIFICATION specifies a page form; R12-6 stands. The departure
-    echoes R12-4-VOICE_FOUR_DOCUMENT's rule the scene then breaks. House style per R51-33-DOC_REGISTER.
-    R48-25-AWE is narrowed by R70-76.
+  notes: 'Gives the rite R12-6-RITUAL_SPECIFICATION specifies a page form; R12-6 stands. The departure
+    echoes R12-4-VOICE_FOUR_DOCUMENT''s rule the scene then breaks. House style per R51-33-DOC_REGISTER.
+    R48-25-AWE is narrowed by R70-76. Extended by R71-70-BENCH_WORK_PAGE (combat law 2026-10-04), in its
+    own words (''R70-75 extended to the bench''): a scene''s main brew appears first as the house''s numbered
+    form, set apart, then is performed, and something departs from it; minor bench work keeps R70-46-CRAFT_LABOUR_PAGE''s
+    single stretch. This row stands for rites.'
 - id: R70-76-MUCH_WORLD_MAGIC
   pack: Style Law 2026-10-03
   pack_number: null
@@ -2495,7 +2530,10 @@ rules:
     exact figures come from an instrument. Gnosis is the read stat of R14-3-STATS_DECIDE_TABLE. Read with
     R70-93-BUILD_TALK_DIALOGUE, which lets a ranked practitioner talk others'' numbers exactly: by this
     row his own sense gives him only Band and rough Stage, so exact figures he speaks of another come
-    from an instrument or what he was told (R70-83-FIGURES_PLAIN_NARRATION).'
+    from an instrument or what he was told (R70-83-FIGURES_PLAIN_NARRATION). Partly amended by R71-44-FACULTY_READ_MAN
+    (combat law 2026-10-04): besides an instrument, a faculty prints another''s exact figures where the
+    reader''s Gnosis Perception outranks the target''s Resilience Ward by Grade, and a hedged range where
+    it does not. The sense of rank and the commoners'' folk words stand.'
 - id: R70-80-READOUT_SITS_PAGE
   pack: Style Law 2026-10-03
   pack_number: null
@@ -2727,9 +2765,12 @@ rules:
   source:
     file: ''
     lines: null
-  notes: Rides R48-20-STRATA's display-and-finisher rhythm and adds the aftermath. Counts the readouts
-    of R70-84-GROWTH_MOMENTS_THAT_EARN and R70-85-SCENE_MOMENTS_THAT_EARN. The cap names readouts; R48-16-REAL_FIGURES's
-    figures in a mouth are not named by it.
+  notes: 'Rides R48-20-STRATA''s display-and-finisher rhythm and adds the aftermath. Counts the readouts
+    of R70-84-GROWTH_MOMENTS_THAT_EARN and R70-85-SCENE_MOMENTS_THAT_EARN. The cap names readouts; R48-16-REAL_FIGURES''s
+    figures in a mouth are not named by it. Read with R71-81-FORENSIC_READING_PAGE (combat law 2026-10-04):
+    in a forensic reading, figures read aloud in a mouth at every stand sit ''outside R70-86''s cap'',
+    as this row''s own note already reads it (the cap names readouts, not figures in a mouth). The cap
+    stands unchanged.'
 - id: R70-87-READOUTS_TWO_VOICE_CAP
   pack: Style Law 2026-10-03
   pack_number: null
@@ -2788,7 +2829,10 @@ rules:
     still runs on the Ledger''s numbers and shows on the page as the body and the reserve line after a
     working (R70-85-SCENE_MOMENTS_THAT_EARN), never as a running count. R70-91-BREAKTHROUGH_PAGE cites
     this row as ''never mid-exchange''. The read is an estimate, so a confident wrong read (R12-4-VOICE_ONE_POV)
-    stays legal.'
+    stays legal. Extended by R71-91-ARMOUR_SUMS_PAGE (combat law 2026-10-04), which cites this row: when
+    a strike meets armour, a trained POV''s read before the exchange names both Tiers beside the Grades
+    and gaps this row allows, and the steel then shows the sum; untrained POVs fall back to the steel
+    telling it. ''No running figures'' stands.'
 - id: R70-89-BODY_FIRST_NUMBER_FIRST
   pack: Style Law 2026-10-03
   pack_number: null
@@ -2818,7 +2862,10 @@ rules:
     file: ''
     lines: null
   notes: 'R48-37-COST_SHOWN stands and leads: the tremor, heat, thirst or Crystal ache comes first and
-    the figure after. Sets the order for R70-84-GROWTH_MOMENTS_THAT_EARN and R70-85-SCENE_MOMENTS_THAT_EARN.'
+    the figure after. Sets the order for R70-84-GROWTH_MOMENTS_THAT_EARN and R70-85-SCENE_MOMENTS_THAT_EARN.
+    Partly amended by R71-34-OVERCHANNEL_PAGE (combat law 2026-10-04): an Overchannel crack is felt in
+    the exchange (inner map and body symptom), but no figure for it follows in the same beat; its size
+    comes later from a surgeon or an instrument. Body first stands.'
 - id: R70-90-FAST_NUMBERS_CLIMB
   pack: Style Law 2026-10-03
   pack_number: null
@@ -3011,9 +3058,14 @@ rules:
   source:
     file: ''
     lines: null
-  notes: The Tier is a rung of the item ladder of R46-2-NINE_ITEM_TIERS_NAMED and prints by name (R70-82-NUMERALS_LADDER_RUNGS).
-    Read with R70-48-MONEY_PRICE_PROVENANCE ('Tier and price stay off unless asked'). A set-off occasion
-    beside R70-80-READOUT_SITS_PAGE's list; see that row's note.
+  notes: 'The Tier is a rung of the item ladder of R46-2-NINE_ITEM_TIERS_NAMED and prints by name (R70-82-NUMERALS_LADDER_RUNGS).
+    Read with R70-48-MONEY_PRICE_PROVENANCE (''Tier and price stay off unless asked''). A set-off occasion
+    beside R70-80-READOUT_SITS_PAGE''s list; see that row''s note. Partly amended by R71-78-DRAFT_READOUT
+    (combat law 2026-10-04): a Draft''s card carries the Draft''s own marks (gate, rung, Class, Fidelity,
+    Carry, maker, price, lore), once, at purchase or appraisal, and at use only the body shows. The once-only
+    card stands. Partly amended by R71-89-ITEM_CARD_FIGHT (combat law 2026-10-04): an item first appraised
+    while a fight runs does not get its set-off card there; a trained eye names the Tier inline by name
+    alone, and the card prints at the counter or in the aftermath, still once per item.'
 - id: R70-96-TITLES_ACHIEVEMENTS
   pack: Style Law 2026-10-03
   pack_number: null
@@ -3072,9 +3124,13 @@ rules:
   source:
     file: ''
     lines: null
-  notes: Builds on canon's contracted bounty work and the Guild's clearance register on the Well roads.
-    The Scene Menu's hooks now carry a stated reward and penalty. Fits the episodic job arc of R70-18-ARC_SHAPES.
-    No older rule is reached.
+  notes: 'Builds on canon''s contracted bounty work and the Guild''s clearance register on the Well roads.
+    The Scene Menu''s hooks now carry a stated reward and penalty. Fits the episodic job arc of R70-18-ARC_SHAPES.
+    No older rule is reached. Extended by R71-97-CONTRACT_FIGHTS (combat law 2026-10-04): the posting
+    is set on the page at the hook in the Guild''s house style (terms, pay, register, penalty) as a document
+    voice; every contract carries at least one clause limiting how it may be won, with a penalty; and
+    the job closes at the clerk''s counter with the proof the contract asks for, the clerk''s dispute
+    and the pay named from the price table, a failed proof being a Ledger debt. The contract boards stand.'
 - id: R70-98-SHEETS_CHAPTER_ARC_ENDS
   pack: Style Law 2026-10-03
   pack_number: null
@@ -3175,10 +3231,13 @@ rules:
   source:
     file: ''
     lines: null
-  notes: Partly amends R48-33-CHOREOGRAPHY ('the move by its fencing name' now means the name in the POV's
-    own school) and R13-6-HEMA_VOCAB (HEMA stays the vocabulary for Western-trained POVs). R13-4-COMBAT_FLOOR
-    and R1-1-BLADE_GRAMMAR stand; the moves they trace are named in the POV's school. Works with R70-74-TECHNIQUE_NAME_LOOKS
-    and R70-136-NEW_CHECKS_VERIFY_SCENE (verify --combat by school).
+  notes: 'Partly amends R48-33-CHOREOGRAPHY (''the move by its fencing name'' now means the name in the
+    POV''s own school) and R13-6-HEMA_VOCAB (HEMA stays the vocabulary for Western-trained POVs). R13-4-COMBAT_FLOOR
+    and R1-1-BLADE_GRAMMAR stand; the moves they trace are named in the POV''s school. Works with R70-74-TECHNIQUE_NAME_LOOKS
+    and R70-136-NEW_CHECKS_VERIFY_SCENE (verify --combat by school). Read with R71-53-BRAWLS_FOLK_SCHOOLS
+    (combat law 2026-10-04): "a POV raised in them names moves in them, and verify gains a list per culture"
+    A folk wrestling or fist trade counts as the POV''s own training, so a POV raised in one names his
+    moves in its words, and verify reads a list per culture beside the school lists; this rule stands.'
 - id: R70-101-DECLARING_NAME_LINE_BEFORE
   pack: Style Law 2026-10-03
   pack_number: null
@@ -3247,7 +3306,10 @@ rules:
     grammar sets (R1-1-VERDICT_GRAMMAR still then one cut). Re-rules one R5-B-MANHWA_DIRECTIVE_REPEALED
     tell for practitioners only: escalation inside a duel is legal while reserve lasts, and R60-03-HARD_RESERVE_CLOCK
     ends it. R60-01-BRUTAL_LETHALITY holds for the unranked; R13-4-DENSITY_BUDGET stands. Works with R70-57-DESCRIPTION_INSIDE_FIGHT
-    and R70-15-TEMPO_STILLNESS.'
+    and R70-15-TEMPO_STILLNESS. Read with R71-4-FAR_FROM_FLOOR (combat law 2026-10-04): each grammar now
+    pays the combat floor its own way (Verdict states the read before and the mechanics after, on the
+    body; Blade pass by pass; Percussion and Expenditure carry the cost every exchange), and R13-4-DENSITY_BUDGET,
+    which this row''s note says stands, is rewritten by R71-4 for today''s lengths.'
 - id: R70-103-MEMORY_INSIDE_FIGHT
   pack: Style Law 2026-10-03
   pack_number: null
@@ -4342,7 +4404,13 @@ rules:
     lines: null
   notes: 'R48-45-CHECKS stands. verify''s HEMA list (R13-6-HEMA_VOCAB) becomes the blade school''s list.
     verify does not count a marked verse block toward R4-14-RUN_RULE''s runs. Not taken: an address check.
-    Enforces R70-100-MARTIAL_VOCABULARY_NAMES_MOVES, R70-110-VERSE_EXCHANGED_TALK and R70-108-EASTERN_REGISTER_SPEECH_SOUNDS.'
+    Enforces R70-100-MARTIAL_VOCABULARY_NAMES_MOVES, R70-110-VERSE_EXCHANGED_TALK and R70-108-EASTERN_REGISTER_SPEECH_SOUNDS.
+    Partly amended by R71-53-BRAWLS_FOLK_SCHOOLS (combat law 2026-10-04): "verify gains a list per culture"
+    verify --combat gains a folk fighting word list for each culture beside its school lists. Partly amended
+    by R71-103-COMBAT_CHECKS_VERIFY_SCENE (combat law 2026-10-04): the percussion school''s list becomes
+    hammer and haft, boxing becomes its own school, and firearms and Kharven lists are added; verify --combat
+    also gains readout and beat counts and a stale-device watch, both WARN. The verse marker and the stock-formula
+    watch stand.'
 - id: R70-137-ARCHIVED_SCENES
   pack: Style Law 2026-10-03
   pack_number: null

@@ -1,0 +1,130 @@
+[
+ {
+  "old_id": "R70-95-ITEM_CARDS",
+  "action": "note",
+  "by": "R71-89-ITEM_CARD_FIGHT",
+  "r71_quote": "The full card waits for the counter or the aftermath. No set-off block between exchanges",
+  "old_text": "Item card, once. A set-off card at purchase or appraisal: Tier, Latin form, Grade band, maker, stamp, price, one line of lore. Once per item, never reprinted.",
+  "note_text": "Partly amended by R71-89-ITEM_CARD_FIGHT (combat law 2026-10-04): an item first appraised while a fight runs does not get its set-off card there; a trained eye names the Tier inline by name alone, and the card prints at the counter or in the aftermath, still once per item."
+ },
+ {
+  "old_id": "R70-48-MONEY_PRICE_PROVENANCE",
+  "action": "note",
+  "by": "R71-89-ITEM_CARD_FIGHT",
+  "r71_quote": "Mid-fight a trained eye names the Tier inline, by name alone (R70-82)",
+  "old_text": "Yes to: Price whenever money moves (Every purchase, wage, fee and bribe on the page names its sum in the culture's money, quoted from the approved price table; north of the arrays, payment in kind is named as exactly); Its life and lineage (A notable object is described through who made, carried, mended and died with it, the way a famous tea bowl keeps its line of owners; Tier and price stay off unless asked). Not taken: Appraisal by a trained eye.",
+  "note_text": "Partly amended by R71-89-ITEM_CARD_FIGHT (combat law 2026-10-04): mid-fight a trained eye names a weapon's or round's Tier inline, by name alone, so 'Tier and price stay off unless asked' no longer holds the Tier back there, though this row did not take 'Appraisal by a trained eye'; the rest of the item card, price included, waits for the counter or the aftermath. The price clause and the lineage clause otherwise stand."
+ },
+ {
+  "old_id": "R50-13-ITEM_NAMES",
+  "action": "note",
+  "by": "R71-90-WEAPON_NAMES_FIGHT",
+  "r71_quote": "Narration uses whatever the POV calls it",
+  "old_text": "An item's true name depends on who tells it: each culture names it in its own tongue, and the page lists the names side by side.",
+  "note_text": "Partly amended by R71-90-WEAPON_NAMES_FIGHT (combat law 2026-10-04): in a fight the narration uses the POV's own name for a weapon, and the other names, listed side by side elsewhere, wait for a card or the aftermath."
+ },
+ {
+  "old_id": "R70-48-MONEY_PRICE_PROVENANCE",
+  "action": "note",
+  "by": "R71-91-ARMOUR_SUMS_PAGE",
+  "r71_quote": "A trained POV names both Tiers in her read before the exchange (R70-88)",
+  "old_text": "Yes to: Price whenever money moves (Every purchase, wage, fee and bribe on the page names its sum in the culture's money, quoted from the approved price table; north of the arrays, payment in kind is named as exactly); Its life and lineage (A notable object is described through who made, carried, mended and died with it, the way a famous tea bowl keeps its line of owners; Tier and price stay off unless asked). Not taken: Appraisal by a trained eye.",
+  "note_text": "Partly amended by R71-91-ARMOUR_SUMS_PAGE (combat law 2026-10-04): a trained POV names both Tiers, the strike's and the armour's, in her read before an exchange, so the Tier is on the page there without being asked."
+ },
+ {
+  "old_id": "R70-88-NUMBERS_INSIDE_FIGHT",
+  "action": "note",
+  "by": "R71-91-ARMOUR_SUMS_PAGE",
+  "r71_quote": "A trained POV names both Tiers in her read before the exchange (R70-88), then the steel shows the sum.",
+  "old_text": "Grades at the read. The POV's read names Grades and gaps before or between exchanges, as estimates in her own terms; no running figures. The genre's sizing-up without a log.",
+  "note_text": "Extended by R71-91-ARMOUR_SUMS_PAGE (combat law 2026-10-04), which cites this row: when a strike meets armour, a trained POV's read before the exchange names both Tiers beside the Grades and gaps this row allows, and the steel then shows the sum; untrained POVs fall back to the steel telling it. 'No running figures' stands."
+ },
+ {
+  "old_id": "R46-3-ARMOUR_TIER_IS_ITS_PROOF",
+  "action": "note",
+  "by": "R71-92-ARMOUR_KIND_AGAINST",
+  "r71_quote": "Unworked armour fights by its physics (mail turns the cut, not the thrust); once armour carries a working, R46-3's Tier decides",
+  "old_text": "A strike one Tier above the proof breaks it; a strike two Tiers above passes as if it were not there.",
+  "note_text": "Partly amended by R71-92-ARMOUR_KIND_AGAINST (combat law 2026-10-04): this Tier sum decides once armour carries a working, the kind being only the shape the working wears; unworked armour fights by the physics of its kind."
+ },
+ {
+  "old_id": "R46-3-ARMOUR_TIER_IS_ITS_PROOF",
+  "action": "note",
+  "by": "R71-93-PROOFED_SHOT_AGAINST_PROOFED",
+  "r71_quote": "Against worked armour a proofed round strikes as one Tier higher: proofed shot breaks proofed plate, a round two over passes, and the named round is simply two over. One ladder, R13-C kept.",
+  "old_text": "A strike one Tier above the proof breaks it; a strike two Tiers above passes as if it were not there.",
+  "note_text": "Partly amended by R71-93-PROOFED_SHOT_AGAINST_PROOFED (combat law 2026-10-04), which puts shot on this ladder: 'Against worked armour a proofed round strikes as one Tier higher: proofed shot breaks proofed plate, a round two over passes, and the named round is simply two over. One ladder, R13-C kept.'"
+ },
+ {
+  "old_id": "R11-3-AMMO_TIERS",
+  "action": "note",
+  "by": "R71-93-PROOFED_SHOT_AGAINST_PROOFED",
+  "r71_quote": "proofed shot breaks proofed plate, a round two over passes, and the named round is simply two over. One ladder",
+  "old_text": "The three ammunition tiers, originated, pending ruling:",
+  "note_text": "Partly amended by R71-93-PROOFED_SHOT_AGAINST_PROOFED (combat law 2026-10-04), which rules C-001: proofed shot still 'Defeats proofed plate', now on R46-3-ARMOUR_TIER_IS_ITS_PROOF's one ladder, striking worked armour as one Tier higher (out-coupling counts one Tier); a round two over passes, and the named round is simply two over. No words of replacement, so the row stays live."
+ },
+ {
+  "old_id": "R13-C",
+  "action": "note",
+  "by": "R71-93-PROOFED_SHOT_AGAINST_PROOFED",
+  "r71_quote": "Out-coupling counts one Tier. Against worked armour a proofed round strikes as one Tier higher: proofed shot breaks proofed plate, a round two over passes, and the named round is simply two over. One ladder, R13-C kept.",
+  "old_text": "Shot against a worked cuirass: does the steel stop it or the working.",
+  "note_text": "Partly amended by R71-93-PROOFED_SHOT_AGAINST_PROOFED (combat law 2026-10-04), which keeps this ruling in words ('R13-C kept'): the out-coupling by which a proofed round beats a worked cuirass counts as one Tier on R46-3-ARMOUR_TIER_IS_ITS_PROOF's ladder. R71-92-ARMOUR_KIND_AGAINST carries the same principle (the working decides on worked armour) to every strike."
+ },
+ {
+  "old_id": "R53-05-PROOF_PLATE",
+  "action": "note",
+  "by": "R71-95-WARD_BREAKING",
+  "r71_quote": "A POV inside the craft names the layer as it goes; any other POV gets only what stops, and hears the layer named in a mouth",
+  "old_text": "Narration may state the cause of any penetration outright, in gunfights as anywhere; the old firearm ban on explaining why a proofed round beats proofed plate is superseded.",
+  "note_text": "Partly amended by R71-95-WARD_BREAKING (combat law 2026-10-04): when a fight breaks a ward, narration names the failing layer only from a POV inside the craft; any other POV gets only what stops and hears the layer named in a mouth. Penetrations of armour and shot are not reached."
+ },
+ {
+  "old_id": "R14-3-STATS_DECIDE_TABLE",
+  "action": "note",
+  "by": "R71-96-WELL_AS_GROUND",
+  "r71_quote": "Adds reach beside §7's draw-cost row",
+  "old_text": "Table Rule 5 adjudicates from Stage gap, the read, what has been spent, and the environment. This pack names which stat answers each of those, so the adjudication is reconstructible and so the prose can show the right body doing the right thing.",
+  "note_text": "Extended by R71-96-WELL_AS_GROUND (combat law 2026-10-04): the adjudication table (the Combat Craft Guide's §7, per R14-8-COMBAT_GUIDE_ADJUDICATION) gains reach beside the draw-cost row, and in a Well fight a gauge or a practitioner's feel names the density rung before contact and every reach is written to it. The existing rows stand."
+ },
+ {
+  "old_id": "R70-97-QUESTS_CONTRACTS",
+  "action": "note",
+  "by": "R71-97-CONTRACT_FIGHTS",
+  "r71_quote": "Every contract carries at least one clause limiting how it may be won (alive, intact, unwitnessed, before the thaw), with a penalty.",
+  "old_text": "Contract boards. Guild and Crown contracts posted with terms, pay and the clearance register: the quest board as a Draw Age notice. Hooks gain a stated reward and penalty.",
+  "note_text": "Extended by R71-97-CONTRACT_FIGHTS (combat law 2026-10-04): the posting is set on the page at the hook in the Guild's house style (terms, pay, register, penalty) as a document voice; every contract carries at least one clause limiting how it may be won, with a penalty; and the job closes at the clerk's counter with the proof the contract asks for, the clerk's dispute and the pay named from the price table, a failed proof being a Ledger debt. The contract boards stand."
+ },
+ {
+  "old_id": "R48-38-AFTERMATH",
+  "action": "note",
+  "by": "R71-99-BILL_AFTER_FIGHT",
+  "r71_quote": "Each cost arrives as a person or a paper in the aftermath: the fee named from the price table or exactly in kind, the debt spoken, the witnesses counted.",
+  "old_text": "Every duel ends with a full aftermath beat: wounds dressed, what changed between people.",
+  "note_text": "Extended by R71-99-BILL_AFTER_FIGHT (combat law 2026-10-04): in the aftermath each of a fight's costs arrives as a person or a paper (the fee named from the price table or exactly in kind, the debt spoken, the witnesses counted), and the formal Ledger stays in the notes."
+ },
+ {
+  "old_id": "R60-11-TRACE_EVIDENCE_AND_JURISDICTION",
+  "action": "note",
+  "by": "R71-101-LAW_TURNS",
+  "r71_quote": "R60-11's trace proof reaches blade killings too",
+  "old_text": "A crime done with a working is proved by trace examiners reading its traces as evidence, and guild courts and crown courts fight over jurisdiction.",
+  "note_text": "Partly amended by R71-101-LAW_TURNS (combat law 2026-10-04): trace proof reaches blade killings too, law moves only on a witness or a reading inside the residue clocks (R61-7-RESIDUES_ON_TWO_CLOCKS), and a practitioner's killing opens a jurisdiction contest between crown, company and guild (R60-19-LAYERED_RULE) as a Front."
+ },
+ {
+  "old_id": "R53-11-JUSTICE",
+  "action": "note",
+  "by": "R71-101-LAW_TURNS",
+  "r71_quote": "A killer who does not declare before witnesses by the next dawn is a murderer in every culture that keeps witnesses, Kharven and Korvaeth first.",
+  "old_text": "Ground-level justice borrows each culture's real-world analogue (fines and branding in Accord cities, labour-debt in Kharven, public shaming in Eresse), looked up and logged.",
+  "note_text": "Extended by R71-101-LAW_TURNS (combat law 2026-10-04): when a fight ends in a death, a killer who does not declare before witnesses by the next dawn is a murderer in every culture that keeps witnesses, Kharven and Korvaeth first, and the declaration is its own short scene. Each culture's own analogue stands."
+ },
+ {
+  "old_id": "R70-136-NEW_CHECKS_VERIFY_SCENE",
+  "action": "note",
+  "by": "R71-103-COMBAT_CHECKS_VERIFY_SCENE",
+  "r71_quote": "Percussion gets a hammer-and-haft list, boxing becomes its own school, and firearms and Kharven lists are added",
+  "old_text": "Yes to: Combat words by school (verify --combat takes a school (blade, japanese, chinese, korean, percussion) or reads the culture tag, and warns only when a fight carries none of that school's terms); A verse marker (A marked verse block (a poem, a lament, a declaration in lines) is left out of the rhythm statistics and word count; the dash and hard-ban checks still read it); Stock-formula watch (A WARN on translated web-novel formulas (you court death, this junior, this old man, lose face) in narration, and an info line in speech, so the flavour stays where DL2 puts it). Not taken: Address check.",
+  "note_text": "Partly amended by R71-103-COMBAT_CHECKS_VERIFY_SCENE (combat law 2026-10-04): the percussion school's list becomes hammer and haft, boxing becomes its own school, and firearms and Kharven lists are added; verify --combat also gains readout and beat counts and a stale-device watch, both WARN. The verse marker and the stock-formula watch stand."
+ }
+]

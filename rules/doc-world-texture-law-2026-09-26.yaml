@@ -59,7 +59,9 @@ rules:
   source:
     file: ''
     lines: null
-  notes: ''
+  notes: 'Applied by R71-71-HEAT_DRAW_AGE_BENCH (combat law 2026-10-04), which cites this row: at an alchemist''s
+    bench poor houses burn charcoal and dung, houses on trade supply heat from the main and pay the meter,
+    and the north burns charcoal. This row stands.'
 - id: R53-03-FIREARM_CEILING
   pack: World Texture Law 2026-09-26
   pack_number: null
@@ -135,7 +137,9 @@ rules:
   source:
     file: ''
     lines: null
-  notes: ''
+  notes: 'Partly amended by R71-95-WARD_BREAKING (combat law 2026-10-04): when a fight breaks a ward,
+    narration names the failing layer only from a POV inside the craft; any other POV gets only what stops
+    and hears the layer named in a mouth. Penetrations of armour and shot are not reached.'
 - id: R53-06-WELL_SPAWN
   pack: World Texture Law 2026-09-26
   pack_number: null
@@ -270,7 +274,10 @@ rules:
   source:
     file: ''
     lines: null
-  notes: ''
+  notes: 'Extended by R71-79-MEDICINE_PLACE_PURSE (combat law 2026-10-04): Drafts join medicine by place
+    and purse: the surgeon uses them beside carbolic and chloroform for those who pay, the Legion gets
+    Bone-Grey by issue, the north and the poor get the barber and Cutwater, and every wound scene names
+    which. This row stands.'
 - id: R53-11-JUSTICE
   pack: World Texture Law 2026-09-26
   pack_number: null
@@ -297,7 +304,11 @@ rules:
     lines: null
   notes: 'Extended by R70-45-NEW_STANDING_INVENTORY_FIELDS (style law 2026-10-03): law and punishment
     become an Inventory field, and R70-42 puts courts and punishments in the rotation; this
-    rule stands.'
+    rule stands.
+    Extended by R71-101-LAW_TURNS (combat law 2026-10-04): when a fight ends in a death, a killer
+    who does not declare before witnesses by the next dawn is a murderer in every culture that keeps
+    witnesses, Kharven and Korvaeth first, and the declaration is its own short scene. Each
+    culture''s own analogue stands.'
 - id: R53-12-LITERACY
   pack: World Texture Law 2026-09-26
   pack_number: null
@@ -374,7 +385,11 @@ rules:
     lines: null
   notes: 'Confirmed by R70-79-CAN_READ_WHOM (style law 2026-10-03): commoners keep their folk
     words and their awe while practitioners feel rank. Confirmed by R70-85-SCENE_MOMENTS_THAT_EARN
-    (style law 2026-10-03): Pressure gets no readout and stays felt as dread.'
+    (style law 2026-10-03): Pressure gets no readout and stays felt as dread.
+    Partly amended by R71-41-PRESSURE_UNWOKEN (combat law 2026-10-04): Pressure on the unwoken
+    follows Part Eleven''s Aura table by Grade, dread from F to D, weight in the room from C, knees
+    bending from A; ''felt as dread'' holds at the low Grades, and the folk words and rough ladder
+    stand.'
 - id: R53-15-FOLK_BELIEFS
   pack: World Texture Law 2026-09-26
   pack_number: null

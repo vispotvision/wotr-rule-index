@@ -1,0 +1,114 @@
+[
+  {
+    "old_id": "R70-75-RITE_PAGE",
+    "action": "note",
+    "by": "R71-70-BENCH_WORK_PAGE",
+    "r71_quote": "The scene's main brew appears first as the house's numbered form, set apart (R70-75 extended to the bench), then is performed, and something departs from it.",
+    "old_text": "Numbered rite, set apart. The rite appears as an in-world form in the Guild's house style (R51-33), numbered and set apart; the scene then performs it, and something departs from it.",
+    "note_text": "Extended by R71-70-BENCH_WORK_PAGE (combat law 2026-10-04), in its own words ('R70-75 extended to the bench'): a scene's main brew appears first as the house's numbered form, set apart, then is performed, and something departs from it; minor bench work keeps R70-46-CRAFT_LABOUR_PAGE's single stretch. This row stands for rites."
+  },
+  {
+    "old_id": "R53-02-POOR_FIRES",
+    "action": "note",
+    "by": "R71-71-HEAT_DRAW_AGE_BENCH",
+    "r71_quote": "poor houses burn charcoal and dung (R53-02), the north burns charcoal",
+    "old_text": "A city's poor edge burns oil, tallow, peat and dung in small fires; rich districts are clean and humming; no factory chimneys.",
+    "note_text": "Applied by R71-71-HEAT_DRAW_AGE_BENCH (combat law 2026-10-04), which cites this row: at an alchemist's bench poor houses burn charcoal and dung, houses on trade supply heat from the main and pay the meter, and the north burns charcoal. This row stands."
+  },
+  {
+    "old_id": "R61-91-MUJIN_AND_MALPHAS_DRAFTCRAFT",
+    "action": "note",
+    "by": "R71-72-ALCHEMIST_VOICE",
+    "r71_quote": "Extends R61-91 from the two texts to any alchemist who takes it",
+    "old_text": "Both Draftcraft. Both cards gain a Craft line. Mu-jin's summons are a spoken call over Draft ground; Malphas pours. Their texts write in price, vessel, seal and ledger, and their work is traceable through provenance.",
+    "note_text": "Extended by R71-72-ALCHEMIST_VOICE (combat law 2026-10-04), in its own words ('Extends R61-91 from the two texts to any alchemist who takes it'): price, vessel, seal and ledger becomes a habit on the alchemists' voice menu that any alchemist's card may take. The two Craft lines stand."
+  },
+  {
+    "old_id": "R70-71-EXPLAINING_WORKING_MID_FIGHT",
+    "action": "note",
+    "by": "R71-73-PREPARED_LIVE_FIGHT",
+    "r71_quote": "every Draft left a bench before the fight; mid-fight the alchemist spends the bandolier or lays Draft ground, costing turns with hands busy and eyes down. A bench scene plants each vial.",
+    "old_text": "Rules shown beforehand. A working's rules are planted earlier (training, a document, talk), so the fight's explaining is mostly recall and the reader does the sum with the fighter. Self-derived techniques are still read live (R12-3).",
+    "note_text": "Applied to Drafts by R71-73-PREPARED_LIVE_FIGHT (combat law 2026-10-04): every Draft leaves a bench before the fight, and a bench scene plants each vial. This row stands."
+  },
+  {
+    "old_id": "R70-45-NEW_STANDING_INVENTORY_FIELDS",
+    "action": "note",
+    "by": "R71-77-POISON_DUEL",
+    "r71_quote": "Each Standing Inventory gains a line on coated weapons and poison, taken from the culture's real analogue; the Accord's munitions class is the first entry.",
+    "old_text": "Yes to: Land, sky, living things (Each Inventory gains terrain and climate, the sky by its own names, seasons and their signs, and what grows, is kept, hunted and feared; Temperature joins the senses entry); Building, dress, the street (Each Inventory gains architecture and ornament, the house plan, dress by rank (cloth, cut, colour, adornment, worn scent), and its market and street); Music, play, festivals (Each Inventory gains instruments and songs, games and toys, and one or two festivals written as performed: who does what, and in what order); Law, succession, roads (Each Inventory gains law and punishment (R53-11), succession (R60-21), and roads, vehicles and inns).",
+    "note_text": "Extended by R71-77-POISON_DUEL (combat law 2026-10-04): every Standing Inventory also gains a line on coated weapons and poison, taken from the culture's real analogue, the Accord's munitions class first. The fields here stand."
+  },
+  {
+    "old_id": "R70-95-ITEM_CARDS",
+    "action": "note",
+    "by": "R71-78-DRAFT_READOUT",
+    "r71_quote": "R70-95's card carries the Draft's own marks (gate, rung, Class, Fidelity, Carry, maker, price, lore) once, at purchase or appraisal.",
+    "old_text": "Item card, once. A set-off card at purchase or appraisal: Tier, Latin form, Grade band, maker, stamp, price, one line of lore. Once per item, never reprinted.",
+    "note_text": "Partly amended by R71-78-DRAFT_READOUT (combat law 2026-10-04): a Draft's card carries the Draft's own marks (gate, rung, Class, Fidelity, Carry, maker, price, lore), once, at purchase or appraisal, and at use only the body shows. The once-only card stands."
+  },
+  {
+    "old_id": "R53-10-MEDICINE",
+    "action": "note",
+    "by": "R71-79-MEDICINE_PLACE_PURSE",
+    "r71_quote": "The surgeon uses Drafts beside carbolic and chloroform for those who pay; the Legion gets Bone-Grey by issue; the north and the poor get the barber and Cutwater. Every wound scene names which.",
+    "old_text": "Medicine is era-appropriate by place: Guild cities have what their decade has (anaesthesia, antisepsis, later early antibiotics); the north and the poor get folk medicine and the barber.",
+    "note_text": "Extended by R71-79-MEDICINE_PLACE_PURSE (combat law 2026-10-04): Drafts join medicine by place and purse: the surgeon uses them beside carbolic and chloroform for those who pay, the Legion gets Bone-Grey by issue, the north and the poor get the barber and Cutwater, and every wound scene names which. This row stands."
+  },
+  {
+    "old_id": "R70-86-MANY_READOUTS_SCENE_CARRIES",
+    "action": "note",
+    "by": "R71-81-FORENSIC_READING_PAGE",
+    "r71_quote": "figures enter in a mouth, read aloud at every stand, outside R70-86's cap.",
+    "old_text": "Display, finisher, aftermath. Up to three per scene, on R48-20's rhythm; a roleplay turn carries two at most, never two in one exchange.",
+    "note_text": "Read with R71-81-FORENSIC_READING_PAGE (combat law 2026-10-04): in a forensic reading, figures read aloud in a mouth at every stand sit 'outside R70-86's cap', as this row's own note already reads it (the cap names readouts, not figures in a mouth). The cap stands unchanged."
+  },
+  {
+    "old_id": "R61-85-BROKEN_VOW_SIGNS_CORRUPTION",
+    "action": "note",
+    "by": "R71-82-CORRUPTION_SHOWN_BODY",
+    "r71_quote": "The Heresiology's bodily signs become standing tells, planted before any reveal, so a reader can catch a corrupt master before the plot names him.",
+    "old_text": "As C, plus an eighth vow Mu-jin writes. Volume III closes the gap with his vow against his own corruption (in the spirit of 'I will not document what I will not obstruct'), and the Heresiology lists it eighth. Every corruption gets a named, findable counter; grain stays unread.",
+    "note_text": "Extended by R71-82-CORRUPTION_SHOWN_BODY (combat law 2026-10-04): a corruption's signs reach the page as planted tells in the body, the work and the technique, one a scene at most, and the Shear Break is written as its own event. The vows and their counters stand."
+  },
+  {
+    "old_id": "R70-48-MONEY_PRICE_PROVENANCE",
+    "action": "note",
+    "by": "R71-84-TRADE_PAPER_SCENE",
+    "r71_quote": "Beyond R70-48's price at purchase, a fighter or worker counts what a Draft cost when he spends it, in his own money, the sum taken from the table or the Index.",
+    "old_text": "Yes to: Price whenever money moves (Every purchase, wage, fee and bribe on the page names its sum in the culture's money, quoted from the approved price table; north of the arrays, payment in kind is named as exactly); Its life and lineage (A notable object is described through who made, carried, mended and died with it, the way a famous tea bowl keeps its line of owners; Tier and price stay off unless asked). Not taken: Appraisal by a trained eye.",
+    "note_text": "Extended by R71-84-TRADE_PAPER_SCENE (combat law 2026-10-04): beyond the price at purchase, a fighter or worker counts what a Draft cost when he spends it, in his own money; lawful vessels carry a registered mark that handlers check, and a bad lot may turn a scene. This row stands."
+  },
+  {
+    "old_id": "R45-3-ENHANCEMENT_CEILING",
+    "action": "note",
+    "by": "R71-85-DRAFT_AGAINST_WORKING",
+    "r71_quote": "its plain physics (blast, heat, acid, smoke) meets Durability like any force, while its worked part answers its maker's ceiling and fails against anyone above it.",
+    "old_text": "An enhanced weapon performs no higher than the Grade of whoever put the Essence into it.",
+    "note_text": "Partly amended by R71-85-DRAFT_AGAINST_WORKING (combat law 2026-10-04): for a Draft the maker's ceiling binds only its worked part, which fails against anyone above it; its plain physics meets Durability like any force. This row stands."
+  },
+  {
+    "old_id": "R13-4-COMBAT_FLOOR",
+    "action": "note",
+    "by": "R71-86-REVENANT_FIGHT",
+    "r71_quote": "The floor applies by structure, with no blood-loss class.",
+    "old_text": "Every meaningful exchange (a hit that lands, a first display, a counter, a change of measure that decides something) puts the following on the page, stated, in one of the four voices:",
+    "note_text": "Partly amended by R71-86-REVENANT_FIGHT (combat law 2026-10-04): against a revenant the floor applies by structure with no blood-loss class. The floor stands for the living."
+  },
+  {
+    "old_id": "R48-34-WOUNDS",
+    "action": "note",
+    "by": "R71-86-REVENANT_FIGHT",
+    "r71_quote": "The floor applies by structure, with no blood-loss class.",
+    "old_text": "Wounds: full clinical gore, anatomy named, blood loss tracked minute by minute, nothing looked away from.",
+    "note_text": "Partly amended by R71-86-REVENANT_FIGHT (combat law 2026-10-04): a revenant's wounds are written by structure with no blood-loss class, so no blood loss is tracked for it. Full clinical gore and named anatomy stand."
+  },
+  {
+    "old_id": "R61-110-IMPRESSION_BODY_TELLS_COUNTERS",
+    "action": "note",
+    "by": "R71-87-IMPRESSION_BODY_VOICE",
+    "r71_quote": "one planted habit of the maker leaks through the likeness, findable by an attentive reader before any trained reader names it",
+    "old_text": "As B, plus Stillgate Ash as the material counter. A ring of Stillgate Ash (Journeyman gate) grounds the body's residual charge and lets it complete its passage. Living Essence at the ring bleeds too, so the counter costs whoever uses it.",
+    "note_text": "Extended by R71-87-IMPRESSION_BODY_VOICE (combat law 2026-10-04): on the page one planted habit of the maker leaks through the likeness, findable by an attentive reader before any trained reader names it. The trained reader's tell and the Stillgate Ash counter stand."
+  }
+]

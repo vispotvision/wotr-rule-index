@@ -338,6 +338,11 @@ rules:
       lines: "65"
     notes: >-
       Elevated to status:live: Pack Fifteen §4 (already ratified, live) explicitly confirms this instrument "stands," following the same precedent used for Pack Seven content Pack Twelve confirms survives.
+      Partly amended by R71-52-AMBUSH_NAMED_ROUND (combat law 2026-10-04): "A
+      marked break splits the wait from the shot, each half POV-locked." An
+      ambush or assassination is split at a marked break between the wait and
+      the shot, each half POV-locked, instead of given whole to whoever knows
+      least; the default stands for every other scene.
 
   - id: R5-C1-WELL_REASONED_WRONG_CONCLUSION
     pack: Pack Five

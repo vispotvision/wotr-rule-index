@@ -219,6 +219,10 @@ rules:
       Partly amended by R70-11-WIDE_VIEW (style law 2026-10-03): "R39-7 gains
       rules for them". Marked roll-call lines in battles and crowds are an
       exception to the lock, one line per head, after which the lock resumes.
+      Partly amended by R71-47-SHOWING_SCALE (combat law 2026-10-04): in a
+      top-ladder fight in a city, one commoner in the street may get a short
+      dip inside her head at a marked break, then the lock resumes; a second
+      exception beside R70-11's roll call.
 
   - id: R39-8-PACKS_FOLDED_INTO_EDITIONS
     pack: Stat System and Scene Rulings 2026-09-13

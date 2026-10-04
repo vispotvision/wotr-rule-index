@@ -2290,7 +2290,9 @@ rules:
   source:
     file: ''
     lines: null
-  notes: ''
+  notes: 'Extended by R71-82-CORRUPTION_SHOWN_BODY (combat law 2026-10-04): a corruption''s signs reach
+    the page as planted tells in the body, the work and the technique, one a scene at most, and the Shear
+    Break is written as its own event. The vows and their counters stand.'
 - id: R61-86-CORRECTION_MERGES_CORRESPONDENCE_DEBT
   pack: Alchemy Conversion Questionnaire 2026-09-28
   pack_number: null
@@ -2452,7 +2454,10 @@ rules:
   source:
     file: ''
     lines: null
-  notes: adds a Craft line to Kwon Mu-jin's and Malphas's cards
+  notes: 'adds a Craft line to Kwon Mu-jin''s and Malphas''s cards Extended by R71-72-ALCHEMIST_VOICE
+    (combat law 2026-10-04), in its own words (''Extends R61-91 from the two texts to any alchemist who
+    takes it''): price, vessel, seal and ledger becomes a habit on the alchemists'' voice menu that any
+    alchemist''s card may take. The two Craft lines stand.'
 - id: R61-92-CATEGORY_THREE_POURED_AND_CUT
   pack: Alchemy Conversion Questionnaire 2026-09-28
   pack_number: null
@@ -2988,7 +2993,9 @@ rules:
   source:
     file: ''
     lines: null
-  notes: ''
+  notes: 'Extended by R71-87-IMPRESSION_BODY_VOICE (combat law 2026-10-04): on the page one planted habit
+    of the maker leaks through the likeness, findable by an attentive reader before any trained reader
+    names it. The trained reader''s tell and the Stillgate Ash counter stand.'
 - id: R61-111-PARACELSUS_SOLD_UNENTERED_FORMULA
   pack: Alchemy Conversion Questionnaire 2026-09-28
   pack_number: null

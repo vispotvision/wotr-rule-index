@@ -488,6 +488,11 @@ rules:
       Extended by R70-74-TECHNIQUE_NAME_LOOKS (style law 2026-10-03): a
       school's art may run as named, numbered forms at this rule's form level,
       mastery read as forms held.
+      Partly amended by R71-29-OFTEN_ART_RELEASED (combat law 2026-10-04): an
+      art may be called again whenever the fighter can afford the beat, so
+      'spoken once at release and thereafter assumed' no longer limits the
+      call; the art-technique-form hierarchy and techniques spoken at each use
+      stand.
 
   - id: R8-24-RELEASE_MECHANIC
     pack: Pack Eight
@@ -630,7 +635,7 @@ rules:
     pack_number: 8
     section: "2.6"
     title: One release per scene at most
-    status: live
+    status: superseded
     kind: budget
     summary: >-
       One release per scene at most; two men releasing in the same scene
@@ -649,7 +654,11 @@ rules:
     source:
       file: WOTR_Companion_Guide_Amendments_Pack_Eight.md
       lines: "119"
-    notes: null
+    notes: >-
+      Superseded by R71-29-OFTEN_ART_RELEASED (combat law 2026-10-04): 'R50-09
+      governs and R8-26 is marked superseded.' An art's release may be called
+      as often as the fight gives a beat, each call costing its beat; closes
+      CONFLICTS C-159.
 
   - id: R8-26-GLOSS_DEPENDENCE_FAILS
     pack: Pack Eight

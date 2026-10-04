@@ -52,7 +52,9 @@ rules:
   source:
     file: ''
     lines: null
-  notes: ''
+  notes: 'Partly amended by R71-36-HEALING_INSIDE_FIGHT (combat law 2026-10-04): while a fight runs, Vitalia
+    may only close a vessel or seal a bleed, at full price, and the wound stays open until the fight ends;
+    after the fight this row governs as written.'
 - id: R60-03-HARD_RESERVE_CLOCK
   pack: Combat, Society and Politics Law 2026-09-26
   pack_number: null
@@ -253,7 +255,10 @@ rules:
   source:
     file: ''
     lines: null
-  notes: ''
+  notes: 'Partly amended by R71-101-LAW_TURNS (combat law 2026-10-04): trace proof reaches blade killings
+    too, law moves only on a witness or a reading inside the residue clocks (R61-7-RESIDUES_ON_TWO_CLOCKS),
+    and a practitioner''s killing opens a jurisdiction contest between crown, company and guild (R60-19-LAYERED_RULE)
+    as a Front.'
 - id: R60-12-PRACTITIONERS_AT_WORK
   pack: Combat, Society and Politics Law 2026-09-26
   pack_number: null

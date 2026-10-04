@@ -113,7 +113,11 @@ rules:
   source:
     file: ''
     lines: null
-  notes: ''
+  notes: 'Extended by R75-30-FOUR_CARDS_PAST_GATE (techniques law 2026-10-04): ''R56-4 extended''. Lorn
+    Stark, Edward Lambert, Bram Greymane and Heisuke also keep Levels past a Band gate their Stage has
+    not opened, as outliers with standing Residual Strain priced by Fracture of Worlds Part Ten (XP five
+    percent lower, Overchannel and Backlash risk two percent higher, per fifty Levels past); Lorn and
+    Heisuke owe one step now. Sodoku''s and Krothar''s outliers stand.'
 - id: R56-5-CARD_ETA_BELOW_BAND_GOVERNS
   pack: Magic Docket Questionnaire 2026-09-26
   pack_number: null

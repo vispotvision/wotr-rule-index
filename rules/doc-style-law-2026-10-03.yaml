@@ -2396,9 +2396,12 @@ rules:
   source:
     file: ''
     lines: null
-  notes: Numbered forms sit at R8-23-NAME_HIERARCHY's form level; the gloss follows R8-22-LITERAL_GLOSS.
-    R50-11-LONG_NAMES's two-word cap binds new English names only, as its wording already says. R50-10-NAME_STYLE
-    and R49-48-TECH_NAMES stand.
+  notes: 'Numbered forms sit at R8-23-NAME_HIERARCHY''s form level; the gloss follows R8-22-LITERAL_GLOSS.
+    R50-11-LONG_NAMES''s two-word cap binds new English names only, as its wording already says. R50-10-NAME_STYLE
+    and R49-48-TECH_NAMES stand. Partly amended by R75-11-DRILL_MASTERY (techniques law 2026-10-04): mastery
+    of a school''s art still reads as forms held, and each technique''s card now also carries three mastery
+    marks (Held, Drilled, Mastered) that lower its Readiness and cost share by figures set on that card,
+    each crossing a shown cause entered in the chapter-end block.'
 - id: R70-75-RITE_PAGE
   pack: Style Law 2026-10-03
   pack_number: null
@@ -2740,7 +2743,9 @@ rules:
     a shown cause). Every figure traces to the sheet (R12-5-NEVER_INVENT_NUMBER). No older rule is reached.
     Partly amended by R73-37-BOND_GROWS (intimacy law 2026-10-04): at the Stage IV, Flourishing breakthrough
     the readout also names its Catalyst, the first Spirit Axis, with no figure; no other bond prints.
-    The four moments here stand.'
+    The four moments here stand. Partly amended by R75-5-TECHNIQUES_ON_CRYSTAL (techniques law 2026-10-04):
+    ''Adds a fifth growth moment to R70-84''. The first time a Trait-permitted signature holds, one inline
+    Crystal line names it, its Trait and its Grade; school arts never print. The four moments here stand.'
 - id: R70-85-SCENE_MOMENTS_THAT_EARN
   pack: Style Law 2026-10-03
   pack_number: null
@@ -2931,8 +2936,15 @@ rules:
   source:
     file: ''
     lines: null
-  notes: Carries R14-3-TRACEABILITY's logic from fight outcomes to growth; R14-3-TRACEABILITY itself is
-    unchanged. The training montage of R70-18-ARC_SHAPES is one way to name training.
+  notes: 'Carries R14-3-TRACEABILITY''s logic from fight outcomes to growth; R14-3-TRACEABILITY itself
+    is unchanged. The training montage of R70-18-ARC_SHAPES is one way to name training. Partly amended
+    by R75-37-RIVAL_BETWEEN_MEETINGS (techniques law 2026-10-04): a rival''s numbers may also move between
+    sessions on a Front tick that names its cause, the growth shown at his return in the room and in what
+    the POV was told. Partly amended by R75-40-WHAT_TRAINING_PAYS (techniques law 2026-10-04): training
+    named in a downtime turn pays XP only at the edge, where it carries real risk, at Fracture of Worlds
+    Part Two''s rates (comfortable repetition decays toward nothing), or as a drill sworn as an oath before
+    a Witness Stone, which pays Part Two''s oath XP on swearing and on fulfilment and is a strain event
+    if broken.'
 - id: R70-91-BREAKTHROUGH_PAGE
   pack: Style Law 2026-10-03
   pack_number: null

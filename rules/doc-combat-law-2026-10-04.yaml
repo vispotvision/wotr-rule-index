@@ -1169,13 +1169,21 @@ rules:
   source:
     file: ''
     lines: null
-  notes: MC6. The output figure is set card by card and never invented (R12-5-NEVER_INVENT_NUMBER); a
+  notes: 'MC6. The output figure is set card by card and never invented (R12-5-NEVER_INVENT_NUMBER); a
     vow whose card carries no figure buys nothing yet. Attraction Force gives the narrowing the mechanical
     source R17-3-LIMIT_MECHANICAL asks of a limit, so that row stands. Shear Break and Attraction Force
-    are canon's terms (the Counterplay page and Fracture of Worlds). The terms are a counter written as
-    fact (R47-3-COUNTERS_AS_FACTS). The disclosure option (telling the opponent as a binding) was not
+    are canon''s terms (the Counterplay page and Fracture of Worlds). The terms are a counter written
+    as fact (R47-3-COUNTERS_AS_FACTS). The disclosure option (telling the opponent as a binding) was not
     taken, so R8-26-NO_SELF_TRANSLATION and R12-4-VOICE_THREE_OPPONENT stand unchanged. No older rule
-    is reached.
+    is reached. Partly amended by R75-12-WHAT_VOW_WORTH (techniques law 2026-10-04): the figure set on
+    the card is bounded: a vow lifts delivered output up to the top of the technique''s own Grade band,
+    never across it, and a great vow that stakes life, a limb''s use or Crystal mass may lift it one full
+    Grade, nothing further; a release call stacks on top. Partly amended by R75-13-WHAT_ELSE_VOW_MAY_BE
+    (techniques law 2026-10-04): a vow may also stake life, a limb''s use or Crystal mass, paid at once
+    and for good when broken (R55-1), and two people may bind each other, each card carrying the terms
+    and whoever breaks them taking the Shear Break. Partly amended by R75-14-HOW_VOW_SWORN (techniques
+    law 2026-10-04): a vow binds when spoken aloud before any living witness, the opponent included, and
+    earns oath experience only at a stone; somebody always heard, so its counter can be found by asking.'
 - id: R71-33-DRAIN_SHOWS
   pack: Combat Law 2026-10-04
   pack_number: null

@@ -1,0 +1,831 @@
+- id: R75-25-ONE_CARD_SHAPE
+  pack: Techniques Law 2026-10-04
+  pack_number: null
+  section: CH1
+  title: Every full card opens on a one-screen table head
+  status: live
+  kind: mandate
+  summary: Every full character card opens with a one-screen head above its seventeen sections, carrying
+    the header, the stat line, the combat grammar (Verdict, Blade, Percussion or Expenditure), the Traits
+    and techniques by name each with its tell and counter, and the voice sample line, and Natalie fights
+    from that head.
+  verbatim: 'A table head, then sections. A one-screen head above the seventeen: header, stat line, combat
+    grammar (Verdict, Blade, Percussion or Expenditure), Traits and techniques by name with tell and counter,
+    the voice sample line. Natalie fights from the head.'
+  amends:
+  - guide: character sheet template
+    locus: 'Card head: a one-screen table above the seventeen sections'
+    operation: adds
+  supersedes: []
+  applies_to:
+  - character-sheet
+  - stats
+  - combat
+  - adjudication
+  verification: []
+  ratified: 'Isaac, 2026-10-04, Claude Code chat: ruled directly (the techniques questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: 'CH1. Options A (the seventeen sections alone, updated) and C (Cozbi Mahuo''s merged layout)
+    were not taken, so the converter''s fourteen-heading skeleton, which names Cozbi''s layout as its
+    format reference, is the one rebuilt to this shape (R75-43-WHERE_TECHNIQUE_LAW_LANDS, R75-47-PROOF_AND_ORDER).
+    The seventeen sections (NATALIE.md: Identity through Fracture Log) stay whole beneath the head. Partly
+    amends R14-8-CHARACTER_SHEET_FOW_LINE (''Unchanged in sections''): the template gains the head above
+    its sections; each technique keeps its FOW line. The head''s combat grammar is the one R71-69-GRAMMAR_GUN_BENCH_FIELD
+    has each card name; its sample line is R52-03-VOICE_BLOCK''s ''one sample line'' slot; tells and counters
+    are written as facts (R47-3-COUNTERS_AS_FACTS); the techniques named there link to the pages R75-1-WHERE_TECHNIQUE_WRITTEN
+    sets. Table Rule 5 settles a fight from the rows R14-3-STATS_DECIDE_TABLE names, which the head puts
+    on one screen. R58-12-AS_OF_LINE_ON_EVERY_CARD and R54-11-CARD_HEADER_AT_A_MOMENT stand for the header.
+    A short card carries its own shorter list (R75-26-RUNGS_OF_PERSON).'
+- id: R75-26-RUNGS_OF_PERSON
+  pack: Techniques Law 2026-10-04
+  pack_number: null
+  section: CH2
+  title: 'Three rungs: roster entry, short card, full card'
+  status: live
+  kind: definition
+  summary: A person climbs three rungs, a roster entry, then a short card (header, FOW line, Traits by
+    name, one signature technique with tell and counter, voice block and Lore), then a full card, and
+    today's compact cards become short cards.
+  verbatim: Three rungs. Roster entry; a short card (header, FOW line, Traits by name, one signature technique
+    with tell and counter, voice block, Lore); a full card. Today's compact cards become short cards.
+  amends:
+  - guide: Character cards, NATALIE.md and the wotr-npc skill
+    locus: 'The rungs of a person: roster entry, short card, full card'
+    operation: adds
+  - guide: character sheet template
+    locus: Short card
+    operation: adds
+  supersedes: []
+  applies_to:
+  - character-sheet
+  - stats
+  verification: []
+  ratified: 'Isaac, 2026-10-04, Claude Code chat: ruled directly (the techniques questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: 'CH2. Options A (two rungs, compact cards filled out to full) and C (shape by role) were not
+    taken. Below the first rung R50-27-NEW_NPC_NAME stands: a new person is a role until they speak twice
+    or matter. The roster entry is the record the wotr-npc skill builds (want, refusal, knows, lie, voice,
+    body, stat line, per the question''s context), as R61-16-FURVEUS_IS_A_ROSTER_NPC and R61-23-CASSIAN_AULT_ROSTER_NPC
+    rule for two people, and R61-17-GILLUS_GETS_FULL_CARD is a full card; those case rulings stand and
+    now sit on named rungs. The archive''s hundred-odd compact cards become short cards; the Kharven header
+    cards, which the question sets beside them, are not named by the answer and are rebuilt to a rung
+    in R75-45-WHICH_CARDS_FIRST''s order. A short card''s voice block is the R52-03-VOICE_BLOCK block,
+    which that row requires on every major card. What lifts a person a rung is R75-27-WHAT_LIFTS_RUNG;
+    how much of the stat sheet each rung carries is R75-28-HOW_MUCH_SHEET; the full card''s shape is R75-25-ONE_CARD_SHAPE.'
+- id: R75-27-WHAT_LIFTS_RUNG
+  pack: Techniques Law 2026-10-04
+  pack_number: null
+  section: CH3
+  title: A deciding fight, a returning rival or a POV lifts a person
+  status: live
+  kind: mandate
+  summary: A person gets at least a short card before the first scene whose outcome his stats must decide,
+    a spared rival who returns under R70-104 gets a full card, and anyone whose head a scene sits in gets
+    a full card before that scene.
+  verbatim: 'Yes to: Stats decide a scene (The first time his stats must decide an outcome on the page,
+    he gets at least a short card before that scene is written); Becomes a rival (A rival under R70-104,
+    spared and returning, gets a full card, since his growth and his debts must be traced); Holds a POV
+    (Anyone whose head a scene sits in gets a full card first, since his readouts come from his own sheet).'
+  amends:
+  - guide: Character cards, NATALIE.md and the wotr-npc skill
+    locus: Lifting a person a rung
+    operation: adds
+  supersedes: []
+  applies_to:
+  - character-sheet
+  - stats
+  - adjudication
+  - pov
+  verification: []
+  ratified: 'Isaac, 2026-10-04, Claude Code chat: ruled directly (the techniques questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: 'CH3, multi-select (A, C, D taken; B, a third scene on the page, not taken, so a scene count
+    lifts nobody). The question''s context keeps Isaac''s word able to lift anyone at any time, whatever
+    the triggers. A stats-decided scene reads the rows R14-3-STATS_DECIDE_TABLE names; a POV''s readouts
+    come from his own sheet (R70-78-WHERE_SCREEN_COMES_FROM); a rival''s growth and debts are traced on
+    his card, read with R75-37-RIVAL_BETWEEN_MEETINGS. R70-104-RIVAL_BOND stands: the rival still recurs
+    only by a mercy paid for on the Ledger, and the full card follows that return. R42-7-FOUR_PATHS stands.
+    The rungs are R75-26-RUNGS_OF_PERSON''s.'
+- id: R75-28-HOW_MUCH_SHEET
+  pack: Techniques Law 2026-10-04
+  pack_number: null
+  section: CH4
+  title: Full cards carry all sixty-four Sub-Stats and the Pool
+  status: live
+  kind: mandate
+  summary: A full card carries all sixty-four Sub-Stats and the Pool, each unset Sub-Stat spent inside
+    the re-costed totals along the Path and logged (Isaac's characters' as R75-29 decides), while a short
+    card carries Primary totals and the peaks a scene will stress.
+  verbatim: Sixty-four on full cards. Full cards carry all sixty-four and the Pool, unset ones spent inside
+    the re-costed totals along the Path and logged, your characters' as CH5 decides; short cards carry
+    Primary totals and the peaks a scene will stress.
+  amends:
+  - guide: character sheet template
+    locus: 'Stat line: all sixty-four Sub-Stats and the Pool on a full card; Primary totals and peaks
+      on a short card'
+    operation: adds
+  supersedes: []
+  applies_to:
+  - character-sheet
+  - stats
+  verification: []
+  ratified: 'Isaac, 2026-10-04, Claude Code chat: ruled directly (the techniques questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: 'CH4. Options A (all sixty-four on every card) and C (totals and peaks everywhere, an unset Sub-Stat
+    set only when a scene needs it) were not taken. ''Your characters'' as CH5 decides'' resolves to R75-29-WHO_SPENDS_LEVEL_POINTS:
+    Isaac spends his own characters'' points. R39-1-CANON_STAT_MODEL stands and is the model being filled
+    (points buy Sub-Stats; a Primary is the sum of its eight; its Grade the mean). Extends R38-2-ORIGINATED_SHEETS_RECOST_TO_CURRENT_ALLOTMENT:
+    on a full card the re-cost now also spends the unset Sub-Stats inside the re-costed totals along the
+    Path, logged, where build/recost.py today keeps Primaries and listed peaks only (the question''s context);
+    the allotment and the trim stand. R12-5-NEVER_INVENT_NUMBER stands; the answer keeps the spend inside
+    the re-costed totals and has it logged. R39-3-STAGE_ONE_THRESHOLD_COUNTS, R70-83-FIGURES_PLAIN_NARRATION
+    and R70-93-BUILD_TALK_DIALOGUE stand; exact readouts and build talk read the full card''s figures.'
+- id: R75-29-WHO_SPENDS_LEVEL_POINTS
+  pack: Techniques Law 2026-10-04
+  pack_number: null
+  section: CH5
+  title: Isaac spends his own points; an NPC's go where the Level was earned
+  status: live
+  kind: procedure
+  summary: When a Level lands Isaac spends his own characters' points, build talk welcome, and Natalie
+    spends each NPC's points where that Level was earned (a Level won by the sword feeds the sword), logged
+    in the changes block.
+  verbatim: He builds his own. You spend your characters' points at each Level, build talk welcome; Natalie
+    spends each NPC's where the Level was earned (a Level won by the sword feeds the sword), logged in
+    the changes block.
+  amends:
+  - guide: NATALIE.md and the wotr-write skill
+    locus: 'A Level gained: who spends its points'
+    operation: adds
+  supersedes: []
+  applies_to:
+  - stats
+  - character-sheet
+  verification: []
+  ratified: 'Isaac, 2026-10-04, Claude Code chat: ruled directly (the techniques questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: 'CH5. Options B (everyone''s points spent by the deed, his movable afterward) and C (points banked
+    to the chapter-end block) were not taken. R70-84-GROWTH_MOMENTS_THAT_EARN stands: a Level''s readout
+    still shows the points it brought. R52-08-PC_IDIOM (his play wins over the card) stands and is met.
+    The NPC spend is entered in the changes block of R70-98-SHEETS_CHAPTER_ARC_ENDS, which stands, with
+    the shown cause R70-90-FAST_NUMBERS_CLIMB asks. Fracture of Worlds Part Three''s cap on what one Sub-Stat
+    may take per Level (the question''s context) is unchanged, and R39-1-CANON_STAT_MODEL stands.'
+- id: R75-30-FOUR_CARDS_PAST_GATE
+  pack: Techniques Law 2026-10-04
+  pack_number: null
+  section: CH6
+  title: Four Kharven cards past their gate stand as outliers with Strain
+  status: live
+  kind: mandate
+  summary: The four Kharven cast cards standing past a Band gate their Stage has not opened (Lorn Stark,
+    Edward Lambert, Bram Greymane, Heisuke) each keep their Level with standing Residual Strain, priced
+    by Fracture of Worlds Part Ten at XP five percent lower and Overchannel and Backlash risk two percent
+    higher per fifty Levels past, and Lorn and Heisuke owe one step now.
+  verbatim: 'Outliers with Strain. R56-4 extended: each keeps his Level with standing Residual Strain,
+    priced by Part Ten (XP five percent lower, Overchannel and Backlash risk two percent higher, per fifty
+    Levels past). Lorn and Heisuke owe one step now.'
+  amends:
+  - guide: Character cards, NATALIE.md and the wotr-npc skill
+    locus: 'Lorn Stark, Edward Lambert, Bram Greymane and Heisuke: Residual Strain past the gate'
+    operation: adds
+  supersedes: []
+  applies_to:
+  - stats
+  - character-sheet
+  - adjudication
+  verification: []
+  ratified: 'Isaac, 2026-10-04, Claude Code chat: ruled directly (the techniques questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: 'CH6. ''R56-4 extended'': R56-4-PAST_THE_GATE_WITH_STRAIN, which kept Sodoku''s and Krothar''s
+    Levels as in-world outliers with standing Residual Strain, now reaches these four cards and gains
+    Part Ten''s price; an extension, not a supersession. The four, from the question: Lorn Stark Level
+    168 at Stage III and Edward Lambert 142 at III (Level 100 asks Stage IV), Bram Greymane 224 at IV
+    and Heisuke 278 at V (Level 200 asks VII). Read against those figures, Lorn stands 68 Levels past
+    his gate and Heisuke 78, one full step of fifty each, which is the ''one step now'' they owe; Lambert
+    (42 past) and Bram (24 past) owe none yet. Part Ten states the price for every fifty Levels held above
+    a Band ceiling; the answer applies it to these four and does not restate it for Sodoku and Krothar.
+    Options B (raise the Stage) and C (lower the Level, the reserve following the Level law down) were
+    not taken. Every figure in the price is Part Ten''s, so R12-5-NEVER_INVENT_NUMBER is met; Stage names
+    follow R20C-30-STAGE_NAMES_FROM_FOW.'
+- id: R75-31-MARKING_ESTIMATE
+  pack: Techniques Law 2026-10-04
+  pack_number: null
+  section: CH7
+  title: 'One estimate mark on a card: ''(est.)'''
+  status: live
+  kind: mandate
+  summary: A card marks a figure canon does not supply with the one inline mark '(est.)' after the figure
+    and nothing more, the six marking styles in use collapsing into that one.
+  verbatim: Tag it inline. One mark, '(est.)', after the figure and nothing more; the six styles collapse
+    into one.
+  amends:
+  - guide: character sheet template
+    locus: 'Estimates: the one inline mark'
+    operation: adds
+  supersedes: []
+  applies_to:
+  - stats
+  - character-sheet
+  verification: []
+  ratified: 'Isaac, 2026-10-04, Claude Code chat: ruled directly (the techniques questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: 'CH7. Options B (a Derived figures footer), C (the instrument''s hedge on the card) and D (estimates
+    kept off the card) were not taken. The six styles run from ''~850'' to ''Incomplete in the Record''
+    (the question''s context); the sweep applies the one mark to every card (R75-44-WHAT_JOINS_CARD_SWEEP).
+    Partly amends R14-2-ESTIMATE_MARKING: a figure no sheet supplies may print on the card, marked ''(est.)'';
+    R14-2''s documented range for the Stage and Band still bounds it, and a scene that uses it still logs
+    it in its author notes. R70-99-NUMBER_NOT_YET_CANON governs a readout''s instrument hedge and stands.
+    R20C-34-ESTIMATES_CANON_ON_USE stands: the estimate is canon on use and a source value beats it on
+    contact, so a source figure replaces the mark when it arrives. R12-5-NEVER_INVENT_NUMBER and R56-8-LEVEL_LAW_SETS_RESERVE_BAND
+    stand. How a bearer''s exact Crystal line shows an estimate, which R70-78-WHERE_SCREEN_COMES_FROM
+    left for the conflict log, is not answered here. The tool texts that write ''pending Isaac'' or ''marked
+    pending'' into a card (convert_character, create_character) are owed the rewrite (R75-43-WHERE_TECHNIQUE_LAW_LANDS).'
+- id: R75-32-NEW_VOICE_BLOCK_SLOTS
+  pack: Techniques Law 2026-10-04
+  pack_number: null
+  section: CH8
+  title: The voice block gains speaker type, chant tongue and lying tell
+  status: live
+  kind: mandate
+  summary: 'The card''s voice block gains three slots: the speaker type (the researched real-world model,
+    moved from the notes onto the card), the chant tongue his chants and release calls run in (his own
+    under R50-26 or a learned one under R70-26), and the lying tell (what his body does when he lies or
+    withholds).'
+  verbatim: 'Yes to: Speaker type (The researched real-world model (a customs clerk, a field surgeon,
+    a drover) moves from the notes onto the card, so every return starts from the same voice); Chant tongue
+    (The tongue his chants and release calls run in (his own under R50-26, or a learned one under R70-26,
+    as Kwon''s Accord Latin), so Borin''s Latin forge-liturgy is caught and fixed); Lying tell (What his
+    body does when he lies or withholds, the body kind of R49-36''s three tells, so the frequent lies
+    of R48-42 can be caught by a player who reads bodies).'
+  amends:
+  - guide: Character cards, NATALIE.md and the wotr-npc skill
+    locus: 'Voice block: speaker type, chant tongue and lying tell'
+    operation: adds
+  supersedes: []
+  applies_to:
+  - character-sheet
+  - dialogue
+  - naming
+  - register
+  verification: []
+  ratified: 'Isaac, 2026-10-04, Claude Code chat: ruled directly (the techniques questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: 'CH8, multi-select (A, B, C taken; D, a named swap partner, not taken, so R52-07-SWAP_CHECK runs
+    by ear against everyone in the scene as before). Partly amends R52-03-VOICE_BLOCK: its ten fixed slots
+    become thirteen. Partly amends R52-29-NPC_RECIPE: the researched speaker type, ''credited in the notes''
+    there, now sits on the card. The chant tongue slot reads R50-26-CHANT_TONGUE (his own language) and
+    R70-26-LEARNED_TONGUES_BESIDE_LATIN (a learned tongue, as Kwon''s Accord Latin), both standing; the
+    answer names Borin''s Latin forge-liturgy as the leftover the slot catches. The lying tell is the
+    body kind of R49-36-LIE_TELLS'' three, so the frequent lies of R48-42-LIES can be caught by a player
+    who reads bodies; read with R72-25-HOW_MANY_LIES (table law 2026-10-04), which logs each roster lie
+    with its tell. R20C-49-GLOSS_RIGHTS_CARD_FIELD stays a separate card field, and R71-72-ALCHEMIST_VOICE''s
+    ''reads first'' line stays an alchemist''s optional addition.'
+- id: R75-33-LORE_AND_LENGTH_CAP
+  pack: Techniques Law 2026-10-04
+  pack_number: null
+  section: CH9
+  title: The length cap binds the seventeen sections; Lore runs free
+  status: live
+  kind: budget
+  summary: The 16,348-character cap binds only the seventeen sections from Identity through Fracture Log,
+    Lore runs free below them, and the eight cards over the cap without Lore are trimmed in the sweep.
+  verbatim: The seventeen only. The cap binds Identity through Fracture Log; Lore runs free below it.
+    The eight cards over without Lore are trimmed in the sweep.
+  amends:
+  - guide: character sheet template
+    locus: 'Length cap: 16,348 characters, Identity through Fracture Log'
+    operation: extends
+  supersedes: []
+  applies_to:
+  - character-sheet
+  - documents
+  verification: []
+  ratified: 'Isaac, 2026-10-04, Claude Code chat: ruled directly (the techniques questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: 'CH9. Options B (Lore counts), C (Lore on its own page) and D (retire the cap) were not taken.
+    The cap is NATALIE.md''s (''seventeen sections, Identity through Fracture Log, under 16,348 characters''),
+    the Trello card limit by the wotr-write skill''s note; no indexed rule row carries it, so nothing
+    is superseded, and the answer is what that sentence already says. By its words the cap binds Identity
+    through Fracture Log; the table head of R75-25-ONE_CARD_SHAPE sits above Identity and the answer does
+    not name it, while the Skills section of R75-35-SKILLS_ON_CARD, set after Techniques, falls inside
+    that span. The question''s survey found forty-eight cards over the cap with Lore and eight without;
+    the eight are trimmed in the R75-44-WHAT_JOINS_CARD_SWEEP sweep. R54-11-CARD_HEADER_AT_A_MOMENT stands:
+    Lore carries later events.'
+- id: R75-34-STORY_FIELDS_ON_CARD
+  pack: Techniques Law 2026-10-04
+  pack_number: null
+  section: CH10
+  title: Refusal line, conviction and arc kind on a full card
+  status: live
+  kind: mandate
+  summary: A full card gains a refusal line (what he will not do whatever is offered), a named conviction
+    (the belief that costs him) and an arc kind (positive, flat, negative or corruption, after K. M. Weiland's
+    arc types), the arc kind set when the card is made and revised at each arc's end.
+  verbatim: 'Yes to: Refusal line (The thing he will not do whatever is offered, as the roster already
+    carries; Table Rule 3''s refusals read straight off the card); Conviction (The belief that costs him,
+    named; the Trait System''s ''Belief, once survived, becomes law'' gets the belief it grows from, and
+    a Shear Break has a truth to break against); Arc kind (Positive, flat, negative or corruption, after
+    K. M. Weiland''s arc types: set when the card is made, revised at each arc''s end).'
+  amends:
+  - guide: character sheet template
+    locus: 'Psychology: refusal line, conviction and arc kind'
+    operation: adds
+  supersedes: []
+  applies_to:
+  - character-sheet
+  - magic-design
+  verification: []
+  ratified: 'Isaac, 2026-10-04, Claude Code chat: ruled directly (the techniques questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: CH10, multi-select (A, B, D taken; C, a Need beside Desire, not taken). With the Core Wound the
+    cards already hold, the refusal line and the conviction put all three of R7-1-CHARACTER_FIRST's sources
+    (refusal, wound, conviction) on the card; R7-1 stands and is met. The refusal line is the one the
+    roster already carries, so Table Rule 3's refusals read straight off the card. The conviction gives
+    the Trait System's 'Belief, once survived, becomes law' the belief it grows from and a Shear Break
+    a truth to break against; read with R75-17-TRAIT_ENTRY_CARRIES (a Trait's founding sentence). R52-02-VOICE_LEVER
+    and R17-5-TRAIT_SCOPE stand.
+- id: R75-35-SKILLS_ON_CARD
+  pack: Techniques Law 2026-10-04
+  pack_number: null
+  section: CH18
+  title: A Skills section with mastery marks
+  status: live
+  kind: mandate
+  summary: A card gets a Skills section after Techniques where each skill names its cues or mechanics,
+    where it was learned and the Sub-Stats that price it, grows only as those Sub-Stats grow, and carries
+    TE4's three marks (Held, Drilled, Mastered), each crossing a shown cause entered in the chapter-end
+    block, and the Crystal never prints them.
+  verbatim: Skills section, with marks. As A, and each skill carries TE4's three marks (Held, Drilled,
+    Mastered), each crossing a shown cause entered in the chapter-end block. The Crystal never prints
+    them.
+  amends:
+  - guide: character sheet template
+    locus: Skills section, after Techniques
+    operation: adds
+  - guide: WOTR_Ability_Technique_Design_Guide.md
+    locus: §5, Skills
+    operation: extends
+  supersedes: []
+  applies_to:
+  - character-sheet
+  - stats
+  - combat
+  - adjudication
+  verification: []
+  ratified: 'Isaac, 2026-10-04, Claude Code chat: ruled directly (the techniques questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: 'CH18. ''As A'' brings in option A: a section after Techniques; each skill names its cues or
+    mechanics (R17-5), where it was learned, and the Sub-Stats that price it, and grows only as those
+    Sub-Stats grow. Option C (no skill entries) was not taken. Extends R17-5-SKILL_SCOPE: its entry, cues
+    or mechanics named as before, now sits on the card and also names where the skill was learned and
+    the Sub-Stats that price it, with the three marks. The marks are R75-11-DRILL_MASTERY''s (TE4); for
+    a technique they lower Readiness and cost share by figures set on its card, and the answer gives a
+    skill''s mark no figure, so by A''s words a skill''s numbers still move only with its Sub-Stats. Each
+    crossing is entered in the changes block of R70-98-SHEETS_CHAPTER_ARC_ENDS with the shown cause R70-90-FAST_NUMBERS_CLIMB
+    asks. The Crystal never prints a mark, so R70-84-GROWTH_MOMENTS_THAT_EARN gains no readout from it.
+    Partly amends R14-8-CHARACTER_SHEET_FOW_LINE (''Unchanged in sections''): the template gains a Skills
+    section. Sub-Stats price measure and the read under R14-3-STATS_DECIDE_TABLE, which stands. The section
+    falls between Identity and Fracture Log, so the R75-33-LORE_AND_LENGTH_CAP cap binds it.'
+- id: R75-36-COMIC_NAME_ON_CARD
+  pack: Techniques Law 2026-10-04
+  pack_number: null
+  section: CH11
+  title: A comic name carried with its making
+  status: live
+  kind: mandate
+  summary: A card carrying a comic name records the byname, who coined it and when, its bank or sound
+    rule, and the given name under it, so a grief beat and the Kharven giving-on have both names to work
+    with.
+  verbatim: Byname with its making. Byname, who coined it and when, its bank or sound rule, and the given
+    name under it, so a grief beat and the Kharven giving-on have both names to work with.
+  amends:
+  - guide: Character cards, NATALIE.md and the wotr-npc skill
+    locus: 'Comic names on the card: the byname with its making'
+    operation: adds
+  supersedes: []
+  applies_to:
+  - character-sheet
+  - naming
+  verification: []
+  ratified: 'Isaac, 2026-10-04, Claude Code chat: ruled directly (the techniques questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: CH11. Options B (the card titled by the byname) and C (the byname and its say-line only) were
+    not taken. Who may carry a comic name is R70-122-MAY_CARRY_ONE's (recurring minor NPCs, villains and
+    rivals; major NPCs keep strict names), unchanged; the byname is grown under R70-121-GROWN_COMIC_NAMES
+    and coined from the culture's bank or by ear under R70-131-COMIC_NAMES_GET_MADE. The given name under
+    the joke is what R70-127-COMIC_NAME_GRIM_END's grief beat and the Kharven name held unspoken until
+    given on (R23-11-NAME_AVOIDANCE_WAITING) turn on. R50-34-SAY_GUIDE (a pronunciation line on every
+    card) stands.
+- id: R75-37-RIVAL_BETWEEN_MEETINGS
+  pack: Techniques Law 2026-10-04
+  pack_number: null
+  section: CH12
+  title: A rival grows on his own Front between meetings
+  status: live
+  kind: procedure
+  summary: A rival's growth between meetings runs on a Front, a world clock that ticks between sessions,
+    each tick naming its cause, and his return shows that growth in the room and in what the POV was told.
+  verbatim: His own clock, shown. A rival's growth runs on a Front (a world clock that ticks between sessions);
+    each tick names its cause, and his return shows it in the room and in what the POV was told.
+  amends:
+  - guide: NATALIE.md and the wotr-write skill
+    locus: 'Fronts: a rival''s growth clock'
+    operation: adds
+  supersedes: []
+  applies_to:
+  - session-protocol
+  - stats
+  - character-sheet
+  - pov
+  verification: []
+  ratified: 'Isaac, 2026-10-04, Claude Code chat: ruled directly (the techniques questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: 'CH12. The question asks of any recurring NPC, a spared rival above all; the answer names the
+    rival. Options B (matched to his rival, the shonen way), C (fixed until shown) and D (growth hidden
+    as a held reveal) were not taken. Partly amends R70-90-FAST_NUMBERS_CLIMB (numbers move only for a
+    cause the reader was shown, an XP event on the page or training named in a downtime turn): a rival''s
+    numbers may also move between sessions on a Front tick that names its cause, shown at his return in
+    the room and in what the POV was told. R70-104-RIVAL_BOND stands (he recurs only by a paid mercy);
+    a returning rival gets a full card (R75-27-WHAT_LIFTS_RUNG), where each tick''s cause is traced. His
+    return carries R70-50-BODIES_AFTER_FIRST_SIGHT''s changed detail; what the POV knows of his figures
+    stays as R70-83-FIGURES_PLAIN_NARRATION and R70-79-CAN_READ_WHOM set it. R71-30-HELD_BACK_REVEAL stands
+    for a working''s rule. Read with R72-20-MOVES_FRONT (Fronts tick on a pace in story days) and R72-26-NPCS_OFF_PAGE
+    (every named NPC''s ''doing now'' line), both table law 2026-10-04.'
+- id: R75-38-OLD_FEAT_TOO_BIG
+  pack: Techniques Law 2026-10-04
+  pack_number: null
+  section: CH13
+  title: An old feat too big stays, explained and costed
+  status: live
+  kind: mandate
+  summary: When converted material claims a feat the new numbers cannot carry, the feat stays and the
+    card names how it was done (an Overchannel spike, a Domain, a site's Wellspring) and the cost it charged,
+    logged on the Ledger.
+  verbatim: Keep it, explain it. The feat stays and the card names how (an Overchannel spike, a Domain,
+    a site's Wellspring) and the cost it charged, logged on the Ledger.
+  amends:
+  - guide: Character cards, NATALIE.md and the wotr-npc skill
+    locus: 'Converting old material: a feat the numbers cannot carry'
+    operation: adds
+  supersedes: []
+  applies_to:
+  - character-sheet
+  - stats
+  - magic-mechanism
+  - session-protocol
+  verification: []
+  ratified: 'Isaac, 2026-10-04, Claude Code chat: ruled directly (the techniques questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: 'CH13. Options A (an outlier as R54-9, no mechanism owed), C (the feat made legend in mouths)
+    and D (the feat scaled down) were not taken. R54-9-STRIKE_FORCE_OUTLIERS_STAND is not named, and its
+    words (twelve card Strike Force figures standing as outliers, no card changed) are not reached by
+    an answer about feats claimed by converted material: it stands. Fracture of Worlds Part Eleven''s
+    Overchannel spike (output past the sustainable ceiling, at Crystal Fracture risk) is the road the
+    question''s context names. R70-137-ARCHIVED_SCENES stands: an archived scene that shows the feat stays
+    as written and stays canon for events. R53-18-AWE and R53-15-FOLK_BELIEFS stand. Any figure the explanation
+    needs is sourced or marked (R12-5-NEVER_INVENT_NUMBER, R75-31-MARKING_ESTIMATE).'
+- id: R75-39-XP_AS_ARITHMETIC
+  pack: Techniques Law 2026-10-04
+  pack_number: null
+  section: CH14
+  title: XP is a tally for Isaac's characters and full cards
+  status: live
+  kind: mandate
+  summary: XP binds as arithmetic, a tally of priced XP events, for Isaac's characters and for full cards,
+    while for everyone else the XP table only sets the scale of how fast each Band moves.
+  verbatim: Sums for the carded. Arithmetic for your characters and full cards, the scale for everyone
+    else.
+  amends:
+  - guide: character sheet template
+    locus: 'XP tally: Isaac''s characters and full cards'
+    operation: adds
+  supersedes: []
+  applies_to:
+  - stats
+  - character-sheet
+  verification: []
+  ratified: 'Isaac, 2026-10-04, Claude Code chat: ruled directly (the techniques questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: 'CH14. Arithmetic and scale are the question''s options A and B: under A every Level is paid
+    in priced XP events tallied on the card, an unpriced event taking a marked estimate once and that
+    price reused after; under B the XP table sets how fast each Band moves and a Level lands on a seen
+    cause with no tally. The answer applies A to Isaac''s characters and full cards and B to everyone
+    else. Fracture of Worlds Part Two prices the events (the question''s context). R70-90-FAST_NUMBERS_CLIMB
+    (a shown cause for every move) binds both; R70-6-LITRPG_PROGRESSION_MODELS (Reverend Insanity, every
+    gain bought and counted) and R12-5-NEVER_INVENT_NUMBER stand, an unpriced event''s estimate taking
+    the R75-31-MARKING_ESTIMATE mark. The tally feeds the card''s XP bar (R75-41-RECORD_OF_CLIMB); what
+    drill pays is R75-40-WHAT_TRAINING_PAYS.'
+- id: R75-40-WHAT_TRAINING_PAYS
+  pack: Techniques Law 2026-10-04
+  pack_number: null
+  section: CH15
+  title: Training pays at the edge, or as a sworn drill
+  status: live
+  kind: budget
+  summary: Training named in downtime pays XP only where it carries real risk, at Fracture of Worlds Part
+    Two's own rates with comfortable repetition decaying toward nothing, or as a drill sworn as an oath
+    before a Witness Stone, which pays Part Two's oath XP on swearing and on fulfilment and is a strain
+    event if broken.
+  verbatim: Edge, or a sworn drill. A, and a drill sworn as an oath before a Witness Stone pays Part Two's
+    oath XP on swearing and on fulfilment; a broken drill is a strain event. Solo Leveling's contract
+    in FOW's terms.
+  amends:
+  - guide: NATALIE.md and the wotr-write skill
+    locus: 'Downtime: what training pays'
+    operation: adds
+  supersedes: []
+  applies_to:
+  - stats
+  - session-protocol
+  verification: []
+  ratified: 'Isaac, 2026-10-04, Claude Code chat: ruled directly (the techniques questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: 'CH15. ''A'' is option A: drill pays XP only where it carries real risk (sparring above his Tier,
+    a working pushed toward Overchannel), at Part Two''s own rates; comfortable repetition decays toward
+    nothing; no new number. Option C (one rate per span) was not taken. Partly amends R70-90-FAST_NUMBERS_CLIMB:
+    ''training named in a downtime turn'' still moves numbers, but only training at the edge or a sworn
+    drill pays. The sworn drill is Solo Leveling''s daily-drill contract (R70-6-LITRPG_PROGRESSION_MODELS)
+    in Fracture of Worlds'' terms, and its oath earns oath experience at a stone as R75-14-HOW_VOW_SWORN
+    has it. R70-18-ARC_SHAPES (the training montage, ending on a reading) and R12-5-NEVER_INVENT_NUMBER
+    stand: every rate is Part Two''s. How a downtime span runs is R72-28-TIME_OFF (table law 2026-10-04),
+    where training is one of the priced activities.'
+- id: R75-41-RECORD_OF_CLIMB
+  pack: Techniques Law 2026-10-04
+  pack_number: null
+  section: CH16
+  title: XP bar, Level log and Stage ledger on the card
+  status: live
+  kind: mandate
+  summary: A card records its bearer's climb in an XP bar (XP held and XP to the next Level, from the
+    R75-39 tally where the card keeps one), a Level log (each Level with its cause and scene, fed from
+    the chapter-end changes blocks) and a Stage ledger (each Stage with its Catalyst, re-assay, witnesses
+    and date, one line of story each, set above the prose Temperance Record, which stays).
+  verbatim: 'Yes to: XP bar (XP held and XP to the next Level, from CH14''s tally where the card keeps
+    one, so a reader of the card knows how near the next readout is); Level log (Each Level with its cause
+    and the scene it happened in, fed from the chapter-end changes blocks); Stage ledger (Each Stage with
+    its Catalyst, re-assay, witnesses and date, one line of story each, set above the prose Temperance
+    Record, which stays).'
+  amends:
+  - guide: character sheet template
+    locus: XP bar, Level log and Stage ledger, above the Temperance Record
+    operation: adds
+  supersedes: []
+  applies_to:
+  - character-sheet
+  - stats
+  verification: []
+  ratified: 'Isaac, 2026-10-04, Claude Code chat: ruled directly (the techniques questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: 'CH16, multi-select (A, B, C taken; D, a Path drift record, not taken). The XP bar reads CH14''s
+    tally, so it sits where the card keeps one: Isaac''s characters'' cards and full cards (R75-39-XP_AS_ARITHMETIC).
+    The Level log is fed by R70-98-SHEETS_CHAPTER_ARC_ENDS''s changes block; the Stage ledger records
+    the public re-assay before witnesses of R70-92-CONFIRMING_NEW_STAGE. The prose Temperance Record and
+    the Fracture Log stay. R70-90-FAST_NUMBERS_CLIMB and R42-7-FOUR_PATHS stand.'
+- id: R75-42-NEXT_GATE
+  pack: Techniques Law 2026-10-04
+  pack_number: null
+  section: CH17
+  title: Every card names the next gate
+  status: live
+  kind: mandate
+  summary: Every card carries a line naming its bearer's next Stage, that Stage's Fracture of Worlds Catalyst
+    and any Band gate ahead, NPC cards adding the crisis the Fronts are building and Isaac's characters'
+    cards naming only the Catalyst.
+  verbatim: Next gate, every card. A line names the next Stage, its FOW Catalyst and any Band gate ahead.
+    NPC cards add the crisis the Fronts are building; your characters' cards name only FOW's Catalyst.
+  amends:
+  - guide: character sheet template
+    locus: Next gate line
+    operation: adds
+  supersedes: []
+  applies_to:
+  - character-sheet
+  - stats
+  - session-protocol
+  verification: []
+  ratified: 'Isaac, 2026-10-04, Claude Code chat: ruled directly (the techniques questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: 'CH17. Options B (found in play, no line) and C (NPC cards only) were not taken. Isaac''s characters''
+    cards name only the Catalyst, so the crisis being built for his character is not printed there and
+    stays in the Fronts (the question''s recommendation); R49-01-WHOSE_HEAD stands. A breakthrough still
+    lands inside its Catalyst crisis (R70-91-BREAKTHROUGH_PAGE), and the line is a sign planted ahead
+    of it, the planting R71-30-HELD_BACK_REVEAL allows and Cradle''s planted advancements model (R70-6-LITRPG_PROGRESSION_MODELS);
+    all three stand. The question''s sample: Renard Greymane at Level 198, Stage IV, two Levels short
+    of a Band gate that asks Stage VII.'
+- id: R75-43-WHERE_TECHNIQUE_LAW_LANDS
+  pack: Techniques Law 2026-10-04
+  pack_number: null
+  section: ME1
+  title: The law lands as a doc, rebuilt tools and new guide editions at once
+  status: live
+  kind: procedure
+  summary: 'The techniques law lands in one pass: one dated law doc through log_ruling, the converter,
+    create_character, the card skeleton and the roster schema rebuilt to it, the sixth edition of the
+    Ability and Technique Design Guide, the wotr-npc, wotr-stat-line and wotr-write references rewritten,
+    and NATALIE.md''s character-sheet line updated.'
+  verbatim: Doc, tools and guides. A, plus the sixth edition of the Ability and Technique Design Guide,
+    the wotr-npc, wotr-stat-line and wotr-write references rewritten, and NATALIE.md's character-sheet
+    line updated, all in this pass.
+  amends:
+  - guide: WOTR_Ability_Technique_Design_Guide.md
+    locus: Sixth edition
+    operation: replaces
+  - guide: Character cards, NATALIE.md and the wotr-npc skill
+    locus: The wotr-npc and wotr-stat-line skill references
+    operation: replaces
+  - guide: NATALIE.md and the wotr-write skill
+    locus: Character sheets line, and the wotr-write references
+    operation: replaces
+  supersedes: []
+  applies_to:
+  - character-sheet
+  - magic-design
+  - documents
+  verification: []
+  ratified: 'Isaac, 2026-10-04, Claude Code chat: ruled directly (the techniques questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: 'ME1. ''A'' is option A: one dated law doc through log_ruling; the converter, create_character,
+    the card skeleton and the roster schema rebuilt to it; its ''Guides and skills follow in a later pass''
+    gives way to this answer''s ''all in this pass''. Option C (guides after the test) was not taken.
+    Follows the pattern of R70-135-WHERE_NEW_LAW_LIVES and R71-102-WHERE_COMBAT_LAW_LANDS. NATALIE.md
+    already asks for a sixth edition of the Ability and Technique Design Guide. R47-2-FIELD_FORMAT stands:
+    the answer sets where and when the law is taught, not the field format. The question''s context names
+    fixes owed in any case: the converter''s retired Design Chain and its ''pending Isaac'' placeholders,
+    and the roster schema''s missing body and stat-line fields. R75-47-PROOF_AND_ORDER sets the order
+    of the work; it does not place the guide editions, which this answer puts in the same pass as the
+    law and the tools.'
+- id: R75-44-WHAT_JOINS_CARD_SWEEP
+  pack: Techniques Law 2026-10-04
+  pack_number: null
+  section: ME2
+  title: The card sweep carries the estimate mark, a Lore cross-read and dashes out
+  status: live
+  kind: procedure
+  summary: The sweep of names and numbers owed across all 284 cards also applies the one '(est.)' mark
+    to every card and drops the flags the Level law has since made exact, reads each Lore against its
+    card body (fixing name drift and sending any other contradiction to CONFLICTS.md for the docket),
+    and takes em and en dashes out of card bodies and Lore.
+  verbatim: 'Yes to: One estimate mark (CH7''s answer applied to every card, and flags the Level law has
+    since made exact (Borin''s, Yoko''s reserves) dropped); Lore against body (Each Lore read against
+    its card body; name drift is fixed, and any other contradiction goes to CONFLICTS.md for the docket);
+    Dashes out (Em and en dashes taken out of card bodies and Lore, carrying the prose ban from the page
+    to the sheet).'
+  amends:
+  - guide: Character cards, NATALIE.md and the wotr-npc skill
+    locus: 'The card sweep: one estimate mark, Lore against body, dashes out'
+    operation: adds
+  supersedes: []
+  applies_to:
+  - character-sheet
+  - stats
+  - naming
+  verification: []
+  ratified: 'Isaac, 2026-10-04, Claude Code chat: ruled directly (the techniques questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: 'ME2, multi-select (A, B, D taken; C, every card brought to the R75-25-ONE_CARD_SHAPE shape in
+    one pass, not taken, so reshaping goes card by card in R75-45-WHICH_CARDS_FIRST''s order). The sweep
+    it joins was already owed under R20C-30-STAGE_NAMES_FROM_FOW (Stage names), R20C-1-BURI_DEAD_EVERYWHERE
+    (Büri leftovers), R38-2-ORIGINATED_SHEETS_RECOST_TO_CURRENT_ALLOTMENT and R39-1-CANON_STAT_MODEL (Pools
+    re-costed) and R56-8-LEVEL_LAW_SETS_RESERVE_BAND (reserves by the Level law), all standing. The mark
+    is R75-31-MARKING_ESTIMATE''s; the answer names Borin''s and Yoko''s reserves as flags the Level law
+    has made exact. A contradiction other than name drift is recorded in CONFLICTS.md and goes to the
+    docket, never settled in the sweep (CLAUDE.md); R54-11-CARD_HEADER_AT_A_MOMENT stands, so a Lore that
+    records events after the header''s moment is not by that alone a contradiction. Extends R48-03-SIMILES
+    (''em dashes stay banned''): the ban is carried from the page to the sheet, the sweep taking em and
+    en dashes out of card bodies and Lore; R15-1-AI_TELL_CHECKS_SURVIVE stands. R70-99-NUMBER_NOT_YET_CANON
+    stands. The eight cards over the cap without Lore are trimmed in the same sweep (R75-33-LORE_AND_LENGTH_CAP).'
+- id: R75-45-WHICH_CARDS_FIRST
+  pack: Techniques Law 2026-10-04
+  pack_number: null
+  section: ME3
+  title: The Kharven room's cards are rebuilt first
+  status: live
+  kind: procedure
+  summary: 'Cards are rebuilt in order: Lambert, Bram, Brida, Tabitha Hallenfeld and the rest of the room
+    at Kharven-Seat first, then the other live threads, then the archive by appearances.'
+  verbatim: The Kharven room first. Lambert, Bram, Brida, Tabitha Hallenfeld and the rest of the room
+    at Kharven-Seat get their cards first, then the other live threads, then the archive by appearances.
+  amends:
+  - guide: Character cards, NATALIE.md and the wotr-npc skill
+    locus: Rebuild order
+    operation: adds
+  supersedes: []
+  applies_to:
+  - character-sheet
+  verification: []
+  ratified: 'Isaac, 2026-10-04, Claude Code chat: ruled directly (the techniques questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: ME3. Options B (all live threads together) and C (by appearance count alone) were not taken.
+    The Kharven room holds header cards with no stats, Traits or techniques, so Table Rule 5 cannot yet
+    name the row that decided a fight there (R14-3-STATS_DECIDE_TABLE, which stands). The other live threads
+    are Kwon Mu-jin's and the New World's Korvaeth War (the question's context); the archive's order is
+    cast_index's ranking by appearances. The rung each person is rebuilt to is R75-26-RUNGS_OF_PERSON's;
+    the rebuilds run after the test of R75-47-PROOF_AND_ORDER, and each card's failing technique lines
+    are put right in this order (R75-46-OLD_ENTRIES_FAILING_LAW).
+- id: R75-46-OLD_ENTRIES_FAILING_LAW
+  pack: Techniques Law 2026-10-04
+  pack_number: null
+  section: ME5
+  title: Failing technique lines rebuilt card by card, one agent ruling each
+  status: live
+  kind: procedure
+  summary: A carded technique's cost, counter or What nobody knows line that fails live law is re-derived
+    from its mechanism when the rebuild order reaches its card, the old line quoted in that rebuild's
+    report and never on the card, and each card's changed lines go through log_ruling as one agent ruling
+    that quotes them and names its grounds, which Isaac reads in CONTINUE.md and may overturn.
+  verbatim: Each card an agent ruling. As A, and each card's changed lines go through log_ruling as one
+    agent ruling that quotes them and names its grounds, so you read them in CONTINUE.md and may overturn
+    any.
+  amends:
+  - guide: Character cards, NATALIE.md and the wotr-npc skill
+    locus: 'Technique lines that fail live law: one agent ruling a card'
+    operation: adds
+  supersedes: []
+  applies_to:
+  - character-sheet
+  - magic-design
+  verification: []
+  ratified: 'Isaac, 2026-10-04, Claude Code chat: ruled directly (the techniques questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: 'ME5. ''As A'' brings in option A: each failing line re-derived from its mechanism when R75-45-WHICH_CARDS_FIRST''s
+    order reaches its card, the old line quoted in that rebuild''s report, never on the card. Option C
+    (fixed when it fires) was not taken. Partly amends R7-5-COST_AUDIT (''the largest and most valuable
+    job on the docket''): the audit now runs card by card in the rebuild order, each card''s changed lines
+    one agent ruling. The tests a line must pass stand: R17-3-COST_DERIVED, R17-3-COUNTER_MANDATORY, R17-3-WHAT_NOBODY_KNOWS_SCOPE,
+    R17-4-OUTPUTS_NOT_INPUTS and R47-3-COUNTERS_AS_FACTS, with R75-6-COUNTER_FAIRNESS_TEST. Lines that
+    already pass stay (the question names Borin''s Requiems among them), and Isaac''s characters'' lines
+    come to him as proposals (the question''s context). The agent ruling is CLAUDE.md''s ''Nothing waits
+    on Isaac'' route: logged with log_ruling, its grounds named, read in CONTINUE.md and open to his overturn.'
+- id: R75-47-PROOF_AND_ORDER
+  pack: Techniques Law 2026-10-04
+  pack_number: null
+  section: ME4
+  title: Law and tools first, then three test cards and a fight
+  status: live
+  kind: procedure
+  summary: 'The work runs in order: log the law and rebuild the converter and the card skeleton, make
+    the three test cards through them, play a scene where one of them decides a fight, amend, and only
+    then run the sweep and the rebuilds.'
+  verbatim: Law and tools, then test. Log the law and rebuild the converter and skeleton; make the three
+    test cards through them; play a scene where one decides a fight; amend; then sweep and rebuilds.
+  amends: []
+  supersedes: []
+  applies_to:
+  - character-sheet
+  - verification
+  verification: []
+  ratified: 'Isaac, 2026-10-04, Claude Code chat: ruled directly (the techniques questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: ME4. Options A (law, test cards by hand, then tools) and C (everything, then test) were not taken.
+    The three test cards are the three option A lists, a full card, a short card and a conversion, here
+    made through the rebuilt tools so the test proves the tools too; the fight one of them decides is
+    Table Rule 5 settled from a new card's rows (R14-3-STATS_DECIDE_TABLE). Follows R70-138-PROOF_ORDER_WORK
+    and R71-105-PROOF_ORDER_WORK, which stand. An amendment found in the test enters as a new dated ruling,
+    never a silent edit (CLAUDE.md). The sweep is R75-44-WHAT_JOINS_CARD_SWEEP's and the rebuilds run
+    in R75-45-WHICH_CARDS_FIRST's order.

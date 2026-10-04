@@ -120,7 +120,14 @@ rules:
   source:
     file: ''
     lines: null
-  notes: Recorded in RULINGS.md under 2026-09-26 — Ability Law (R47).
+  notes: 'Recorded in RULINGS.md under 2026-09-26 — Ability Law (R47). Partly amended by R75-1-WHERE_TECHNIQUE_WRITTEN
+    (techniques law 2026-10-04): a school art is still priced off the Essence Ledger''s band for its Stage,
+    on its school''s page; a signature, or any art one person derived alone, is priced at its owner''s
+    exact reserve on its own page. Partly amended by R75-11-DRILL_MASTERY (techniques law 2026-10-04):
+    ''each lowers Readiness and cost share by figures set on that card''. A technique is still priced
+    as a share of full reserve when it is designed; each mastery mark it crosses (Held, Drilled, Mastered)
+    lowers that share by a figure set on its card, each crossing for a shown cause. The pricing at design
+    stands.'
 - id: R47-5-LADDER_RUNG
   pack: Ability Law 2026-09-26
   pack_number: null

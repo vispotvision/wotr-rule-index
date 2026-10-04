@@ -913,6 +913,13 @@ rules:
       as the largest open job on the docket, not something the Pack Twelve
       repeal touched — the audit is a production process, not a prose
       restriction.
+      Partly amended by R75-46-OLD_ENTRIES_FAILING_LAW (techniques law
+      2026-10-04): the audit runs card by card in the rebuild order of
+      R75-45-WHICH_CARDS_FIRST; each failing cost, counter or What nobody
+      knows line is re-derived from its mechanism, the old line quoted in the
+      rebuild's report and never on the card, and each card's changed lines go
+      through log_ruling as one agent ruling, its grounds named, which Isaac
+      may overturn.
 
   - id: R7-5-CHARACTER_FIRST_REDERIVATION
     pack: Pack Seven

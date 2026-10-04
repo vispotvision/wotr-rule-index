@@ -63,7 +63,11 @@ rules:
     source:
       file: WOTR_Companion_Guide_Amendments_Pack_Eighteen.md
       lines: "34"
-    notes: null
+    notes: >-
+      Partly amended by R75-19-NEW_RESONANT_PAIRS (techniques law 2026-10-04):
+      'R18-2 extends to Pairs'. A new Resonant Pair may be proposed only under
+      this test, when a build reaches a combination canon's ten lack, with
+      real mechanism, Grade and effect, and it binds once ratified.
 
   - id: R18-3-CARD_IS_SPELL_INDEX
     pack: Pack Eighteen

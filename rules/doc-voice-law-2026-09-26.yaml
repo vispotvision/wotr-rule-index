@@ -98,7 +98,10 @@ rules:
     state exactly what Isaac chose. Gloss rights is not a voice-block slot, but it stays a separate card
     field (R20C-49-GLOSS_RIGHTS_CARD_FIELD). Unchanged by R70-108-EASTERN_REGISTER_SPEECH_SOUNDS (style
     law 2026-10-03), which keeps Chinese and Korean speakers in natural English day to day and brings
-    out translated forms only at ceremony, challenge, oath, court and insult.'
+    out translated forms only at ceremony, challenge, oath, court and insult. Partly amended by R75-32-NEW_VOICE_BLOCK_SLOTS
+    (techniques law 2026-10-04): the voice block gains three slots: speaker type (the researched real-world
+    model), chant tongue (the tongue his chants and release calls run in) and lying tell (what his body
+    does when he lies or withholds). The ten slots stand.'
 - id: R52-04-CONTRACTIONS
   pack: Voice Law 2026-09-26
   pack_number: null
@@ -831,7 +834,9 @@ rules:
     lines: null
   notes: 'Question c29: The NPC builder''s voice slot is: what they notice first, sentence length, one
     discourse marker, one Inventory saying, what they never say, gloss rights. Your brief lets the partner
-    draw on real-world '
+    draw on real-world Partly amended by R75-32-NEW_VOICE_BLOCK_SLOTS (techniques law 2026-10-04): the
+    researched real-world speaker type moves from the notes onto the card as a voice-block slot, so every
+    return starts from the same voice; each NPC''s voice still starts from it.'
 - id: R52-30-PROVERBS
   pack: Voice Law 2026-09-26
   pack_number: null

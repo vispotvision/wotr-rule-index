@@ -1,8 +1,8 @@
 # Live rules by domain, with source text
 
-1495 live of 1687 extracted. Newest pack first within each domain; the newer rule governs where two overlap.
+1542 live of 1734 extracted. Newest pack first within each domain; the newer rule governs where two overlap.
 
-## adjudication (145)
+## adjudication (154)
 
 ### R15-4-THIRTEEN_HAX_STRUCK [Pack Fifteen §4]
 
@@ -826,6 +826,60 @@ On Discord the bot's /due and /ledger show a player only the Ledger lines about 
 
 > Yes to: Their own Ledger lines (/due and /ledger show a player only the lines about their own characters); Public faces on the roster (/roster and /npc show what is public: name, look, voice, role. Wants, lies and what they know stay with the Judger); Adjudication cards (Each ruling's card is posted in the scene's thread, so any player can see which stat rows decided it).
 
+### R75-6-COUNTER_FAIRNESS_TEST [Techniques Law 2026-10-04 K5]
+
+A technique's card stands only when its Counter is within reach of a prepared practitioner of the technique's own Stage without a higher Stage or a rare Wellspring, rests on law someone already knows, and names a counter before, during and after contact.
+
+> Yes to: Same Stage can answer (The written counter is within reach of a prepared practitioner of the technique's own Stage; a counter that needs a higher Stage or a rare Wellspring fails the card); Counter on known law (The counter rests on law someone already knows (a Wellspring's recorded failure, a school's teaching, a Family's weakness), so a player can study toward it before he meets the technique); A counter at each phase (The card names a counter before, during and after contact; 'none once contact is made' fails and the card is rebuilt).
+
+### R75-9-CUTTING_CHANT_SHORT [Techniques Law 2026-10-04 TE2]
+
+A chant's length sets its output, so each line a caster drops costs a share of output and buys Readiness, both figures set on the technique's card.
+
+> Clip it, lose output. A chant's length sets its output: each line dropped costs a share of output and buys Readiness (casting time), both figures set on the card.
+
+### R75-12-WHAT_VOW_WORTH [Techniques Law 2026-10-04 TE5]
+
+A vow may lift a technique's delivered output no higher than the top of its own Grade band, at a point set on the card; a great vow that stakes life, a limb's use or Crystal mass may lift it one full Grade and nothing lifts it further; a release call stacks on top.
+
+> A great vow, one Grade. As A, and a great vow, one that stakes life, a limb's use or Crystal mass, may lift output one full Grade; nothing lifts it further. A release call stacks on top.
+
+### R75-23-WHAT_SCHOOL_KEEPS_BACK [Techniques Law 2026-10-04 TE16]
+
+A school writes down its lower forms and teaches its last form mouth to ear, so outside the school that form counts as self-derived and is read live.
+
+> The last form withheld. A school writes its lower forms and teaches its last form mouth to ear; outside the school that form counts as self-derived and is read live.
+
+### R75-24-LEARNING_BY_WATCHING [Techniques Law 2026-10-04 TE17]
+
+A character who witnessed a technique may re-derive it in downtime if he holds its Wellsprings and meets its FOW line, and it then runs at his stats and becomes his own, under his own name.
+
+> Re-derived after watching. A witnessed technique may be re-derived in downtime if the watcher holds its Wellsprings and meets its FOW line; it runs at his stats and becomes his own, with his own name.
+
+### R75-25-ONE_CARD_SHAPE [Techniques Law 2026-10-04 CH1]
+
+Every full character card opens with a one-screen head above its seventeen sections, carrying the header, the stat line, the combat grammar (Verdict, Blade, Percussion or Expenditure), the Traits and techniques by name each with its tell and counter, and the voice sample line, and Natalie fights from that head.
+
+> A table head, then sections. A one-screen head above the seventeen: header, stat line, combat grammar (Verdict, Blade, Percussion or Expenditure), Traits and techniques by name with tell and counter, the voice sample line. Natalie fights from the head.
+
+### R75-27-WHAT_LIFTS_RUNG [Techniques Law 2026-10-04 CH3]
+
+A person gets at least a short card before the first scene whose outcome his stats must decide, a spared rival who returns under R70-104 gets a full card, and anyone whose head a scene sits in gets a full card before that scene.
+
+> Yes to: Stats decide a scene (The first time his stats must decide an outcome on the page, he gets at least a short card before that scene is written); Becomes a rival (A rival under R70-104, spared and returning, gets a full card, since his growth and his debts must be traced); Holds a POV (Anyone whose head a scene sits in gets a full card first, since his readouts come from his own sheet).
+
+### R75-30-FOUR_CARDS_PAST_GATE [Techniques Law 2026-10-04 CH6]
+
+The four Kharven cast cards standing past a Band gate their Stage has not opened (Lorn Stark, Edward Lambert, Bram Greymane, Heisuke) each keep their Level with standing Residual Strain, priced by Fracture of Worlds Part Ten at XP five percent lower and Overchannel and Backlash risk two percent higher per fifty Levels past, and Lorn and Heisuke owe one step now.
+
+> Outliers with Strain. R56-4 extended: each keeps his Level with standing Residual Strain, priced by Part Ten (XP five percent lower, Overchannel and Backlash risk two percent higher, per fifty Levels past). Lorn and Heisuke owe one step now.
+
+### R75-35-SKILLS_ON_CARD [Techniques Law 2026-10-04 CH18]
+
+A card gets a Skills section after Techniques where each skill names its cues or mechanics, where it was learned and the Sub-Stats that price it, grows only as those Sub-Stats grow, and carries TE4's three marks (Held, Drilled, Mastered), each crossing a shown cause entered in the chapter-end block, and the Crystal never prints them.
+
+> Skills section, with marks. As A, and each skill carries TE4's three marks (Held, Drilled, Mastered), each crossing a shown cause entered in the chapter-end block. The Crystal never prints them.
+
 ### R28-1-BLACK_STONES_SHALE_ANALOGUE [Voidfall Stone / Black Stones Ruling Standing Ruling]
 
 The black stones that fell across four worlds when Verinus completed the Void are Voidfall Stone, a distinct T8 material: matte, made not emplaced, and indistinguishable from Crevice Shale to Measurewright instruments at a distance. They are not Crevice Shale. Article III names Crevice Shale specifically and does not name Voidfall Stone, so Enforcement acting under Article III against the stones is acting on a misreading; write it that way. Never put the word "shale" on the narrative page of the Verinus scenes for these stones. The Crevice Shale ledger rows stand unchanged.
@@ -874,7 +928,7 @@ Isaac may take over any NPC's voice anytime by saying so; the partner hands it b
 
 > Isaac may take over any NPC's voice anytime by saying so; the partner hands it back after.
 
-## character-sheet (232)
+## character-sheet (264)
 
 ### R20C-16-SONZAI_RECORD_CARD [Pack Twenty R20C-16]
 
@@ -2079,6 +2133,198 @@ On joining a thread each guest lists lines and veils on their character's card f
 
 > Yes to: Lines and veils (Each guest lists lines and veils on their character's card; the Judger and Natalie honour them in that player's scenes, and the Floor binds everyone); Mortal or not (Each guest marks their character mortal or not. One marked not mortal can be maimed, captured or ruined, never killed; this narrows R48-31 for that character only); Explicit scenes opt in (Explicit scenes run only in age-restricted channels with only players who opted in present; anyone else's character sees a door close).
 
+### R75-1-WHERE_TECHNIQUE_WRITTEN [Techniques Law 2026-10-04 K1]
+
+Give each signature, and any art one person derived alone, its own page priced at its owner's exact reserve, keep each school art once on its school's page priced by Stage band, and link the card's technique rows to either page.
+
+> Signatures own, arts shared. A signature, or any art one person derived alone, gets its own page priced at its owner's exact reserve; a school art lives once on its school's page, priced by Stage band. The card's rows link to either.
+
+### R75-2-DESIGNED_OR_FOUND [Techniques Law 2026-10-04 K2]
+
+Before a technique first fires its card holds its mechanism, cost, limit, tell and counter, and its name, forms, Readiness, evolutions and What nobody knows line are filled in afterward from what play showed.
+
+> Core first, rest found. Before first fire the card holds mechanism, cost, limit, tell and counter. Name, forms, Readiness (its casting-time figure), evolutions and What nobody knows fill in from what play showed.
+
+### R75-3-SKETCH_TO_CARD [Techniques Law 2026-10-04 K3]
+
+When Isaac sketches an ability for his own character, Natalie returns the full R47-2 entry at once with a proposed true name in that character's tongue, and each choice on it (name, call, vow) sticks only when Isaac keeps it.
+
+> Whole card, yours to keep. Natalie returns the full R47-2 entry at once, a proposed true name in your character's tongue included; every choice on it (name, call, vow) sticks only when you keep it.
+
+### R75-7-WHAT_OPENS_TECHNIQUE [Techniques Law 2026-10-04 K6]
+
+A character gains a technique only when he meets its FOW line and a cause appears on the page: a named teacher, a book studied, or the problem it answers met in a fight.
+
+> Numbers plus a cause. The FOW line must be met, and the technique arrives only with a cause on the page: a teacher named, a book studied, or the problem it answers met in a fight.
+
+### R75-11-DRILL_MASTERY [Techniques Law 2026-10-04 TE4]
+
+A technique's card carries three named mastery marks, Held, Drilled and Mastered, each lowering its Readiness and cost share by figures set on that card, and each crossing needs a shown cause entered in the chapter-end block.
+
+> Mastery marks on the card. Three named marks, Held, Drilled and Mastered; each lowers Readiness and cost share by figures set on that card, each crossing a shown cause entered in the chapter-end block.
+
+### R75-13-WHAT_ELSE_VOW_MAY_BE [Techniques Law 2026-10-04 TE6]
+
+A vow may stake life, a limb's use or Crystal mass, paid at once and for good if it is broken, and two people may bind each other by a vow whose terms both cards carry, the one who breaks it taking the Shear Break.
+
+> Yes to: A stake beyond Shear Break (A vow may stake life, a limb's use or Crystal mass; broken, the stake is paid at once and for good (R55-1). Under TE5's B, only a staked vow reaches a full Grade); A vow between two (Two people bind each other; each card carries the terms, and whoever breaks them takes the Shear Break).
+
+### R75-16-WHO_WRITES_PC_TRAIT [Techniques Law 2026-10-04 TE9]
+
+When a Trait forms in Isaac's own character, Natalie writes its name, Reflection and Lattice property at the event, and it sticks only when Isaac keeps it, as a Third Name does.
+
+> Natalie writes, you keep. At the event Natalie writes name, Reflection (its kind) and Lattice property; it sticks only when you keep it, as a Third Name does.
+
+### R75-17-TRAIT_ENTRY_CARRIES [Techniques Law 2026-10-04 TE10]
+
+Beside its Lattice property, every Trait entry carries its founding sentence in the bearer's words, a rigidity line stating as fact what the bearer cannot safely contradict, and the offices it holds, its Permission line listing the signatures it allows.
+
+> Yes to: Founding sentence (The statement the Continuum accepted, in the bearer's words, yours to write for your characters as in TE11. Denying it is the Shear Break, so every Trait carries a findable counter); Rigidity line (What the bearer cannot safely contradict, as a fact. NPCs play it on the page; for your characters it stays a fact for you to play); Offices held (Which of Bias, Permission, Nucleation and Ceiling it serves; a Permission line lists the signatures it allows).
+
+### R75-20-CARDING_SYNERGIA [Techniques Law 2026-10-04 TE13]
+
+A drilled Synergia is carded on one technique page that carries both partners, the drill that made it, the cost split and the counter, both partners' cards link to it, and no vow binds the pair.
+
+> Drilled, one shared page. One technique page carries both partners, the drill that made it, the cost split and the counter; both cards link to it; no vow.
+
+### R75-22-OWN_TECHNIQUES_COMBINED [Techniques Law 2026-10-04 TE15]
+
+A practitioner may derive two of his own techniques into a third, carded art with its own cost, counter and new name, costing at least the sum of its parts, while chaining them stays free.
+
+> A carded composite art. Two of his techniques may be derived into a third, carded art with its own cost, counter and new name; it costs at least the sum of its parts. Chaining stays free.
+
+### R75-25-ONE_CARD_SHAPE [Techniques Law 2026-10-04 CH1]
+
+Every full character card opens with a one-screen head above its seventeen sections, carrying the header, the stat line, the combat grammar (Verdict, Blade, Percussion or Expenditure), the Traits and techniques by name each with its tell and counter, and the voice sample line, and Natalie fights from that head.
+
+> A table head, then sections. A one-screen head above the seventeen: header, stat line, combat grammar (Verdict, Blade, Percussion or Expenditure), Traits and techniques by name with tell and counter, the voice sample line. Natalie fights from the head.
+
+### R75-26-RUNGS_OF_PERSON [Techniques Law 2026-10-04 CH2]
+
+A person climbs three rungs, a roster entry, then a short card (header, FOW line, Traits by name, one signature technique with tell and counter, voice block and Lore), then a full card, and today's compact cards become short cards.
+
+> Three rungs. Roster entry; a short card (header, FOW line, Traits by name, one signature technique with tell and counter, voice block, Lore); a full card. Today's compact cards become short cards.
+
+### R75-27-WHAT_LIFTS_RUNG [Techniques Law 2026-10-04 CH3]
+
+A person gets at least a short card before the first scene whose outcome his stats must decide, a spared rival who returns under R70-104 gets a full card, and anyone whose head a scene sits in gets a full card before that scene.
+
+> Yes to: Stats decide a scene (The first time his stats must decide an outcome on the page, he gets at least a short card before that scene is written); Becomes a rival (A rival under R70-104, spared and returning, gets a full card, since his growth and his debts must be traced); Holds a POV (Anyone whose head a scene sits in gets a full card first, since his readouts come from his own sheet).
+
+### R75-28-HOW_MUCH_SHEET [Techniques Law 2026-10-04 CH4]
+
+A full card carries all sixty-four Sub-Stats and the Pool, each unset Sub-Stat spent inside the re-costed totals along the Path and logged (Isaac's characters' as R75-29 decides), while a short card carries Primary totals and the peaks a scene will stress.
+
+> Sixty-four on full cards. Full cards carry all sixty-four and the Pool, unset ones spent inside the re-costed totals along the Path and logged, your characters' as CH5 decides; short cards carry Primary totals and the peaks a scene will stress.
+
+### R75-29-WHO_SPENDS_LEVEL_POINTS [Techniques Law 2026-10-04 CH5]
+
+When a Level lands Isaac spends his own characters' points, build talk welcome, and Natalie spends each NPC's points where that Level was earned (a Level won by the sword feeds the sword), logged in the changes block.
+
+> He builds his own. You spend your characters' points at each Level, build talk welcome; Natalie spends each NPC's where the Level was earned (a Level won by the sword feeds the sword), logged in the changes block.
+
+### R75-30-FOUR_CARDS_PAST_GATE [Techniques Law 2026-10-04 CH6]
+
+The four Kharven cast cards standing past a Band gate their Stage has not opened (Lorn Stark, Edward Lambert, Bram Greymane, Heisuke) each keep their Level with standing Residual Strain, priced by Fracture of Worlds Part Ten at XP five percent lower and Overchannel and Backlash risk two percent higher per fifty Levels past, and Lorn and Heisuke owe one step now.
+
+> Outliers with Strain. R56-4 extended: each keeps his Level with standing Residual Strain, priced by Part Ten (XP five percent lower, Overchannel and Backlash risk two percent higher, per fifty Levels past). Lorn and Heisuke owe one step now.
+
+### R75-31-MARKING_ESTIMATE [Techniques Law 2026-10-04 CH7]
+
+A card marks a figure canon does not supply with the one inline mark '(est.)' after the figure and nothing more, the six marking styles in use collapsing into that one.
+
+> Tag it inline. One mark, '(est.)', after the figure and nothing more; the six styles collapse into one.
+
+### R75-32-NEW_VOICE_BLOCK_SLOTS [Techniques Law 2026-10-04 CH8]
+
+The card's voice block gains three slots: the speaker type (the researched real-world model, moved from the notes onto the card), the chant tongue his chants and release calls run in (his own under R50-26 or a learned one under R70-26), and the lying tell (what his body does when he lies or withholds).
+
+> Yes to: Speaker type (The researched real-world model (a customs clerk, a field surgeon, a drover) moves from the notes onto the card, so every return starts from the same voice); Chant tongue (The tongue his chants and release calls run in (his own under R50-26, or a learned one under R70-26, as Kwon's Accord Latin), so Borin's Latin forge-liturgy is caught and fixed); Lying tell (What his body does when he lies or withholds, the body kind of R49-36's three tells, so the frequent lies of R48-42 can be caught by a player who reads bodies).
+
+### R75-33-LORE_AND_LENGTH_CAP [Techniques Law 2026-10-04 CH9]
+
+The 16,348-character cap binds only the seventeen sections from Identity through Fracture Log, Lore runs free below them, and the eight cards over the cap without Lore are trimmed in the sweep.
+
+> The seventeen only. The cap binds Identity through Fracture Log; Lore runs free below it. The eight cards over without Lore are trimmed in the sweep.
+
+### R75-34-STORY_FIELDS_ON_CARD [Techniques Law 2026-10-04 CH10]
+
+A full card gains a refusal line (what he will not do whatever is offered), a named conviction (the belief that costs him) and an arc kind (positive, flat, negative or corruption, after K. M. Weiland's arc types), the arc kind set when the card is made and revised at each arc's end.
+
+> Yes to: Refusal line (The thing he will not do whatever is offered, as the roster already carries; Table Rule 3's refusals read straight off the card); Conviction (The belief that costs him, named; the Trait System's 'Belief, once survived, becomes law' gets the belief it grows from, and a Shear Break has a truth to break against); Arc kind (Positive, flat, negative or corruption, after K. M. Weiland's arc types: set when the card is made, revised at each arc's end).
+
+### R75-35-SKILLS_ON_CARD [Techniques Law 2026-10-04 CH18]
+
+A card gets a Skills section after Techniques where each skill names its cues or mechanics, where it was learned and the Sub-Stats that price it, grows only as those Sub-Stats grow, and carries TE4's three marks (Held, Drilled, Mastered), each crossing a shown cause entered in the chapter-end block, and the Crystal never prints them.
+
+> Skills section, with marks. As A, and each skill carries TE4's three marks (Held, Drilled, Mastered), each crossing a shown cause entered in the chapter-end block. The Crystal never prints them.
+
+### R75-36-COMIC_NAME_ON_CARD [Techniques Law 2026-10-04 CH11]
+
+A card carrying a comic name records the byname, who coined it and when, its bank or sound rule, and the given name under it, so a grief beat and the Kharven giving-on have both names to work with.
+
+> Byname with its making. Byname, who coined it and when, its bank or sound rule, and the given name under it, so a grief beat and the Kharven giving-on have both names to work with.
+
+### R75-37-RIVAL_BETWEEN_MEETINGS [Techniques Law 2026-10-04 CH12]
+
+A rival's growth between meetings runs on a Front, a world clock that ticks between sessions, each tick naming its cause, and his return shows that growth in the room and in what the POV was told.
+
+> His own clock, shown. A rival's growth runs on a Front (a world clock that ticks between sessions); each tick names its cause, and his return shows it in the room and in what the POV was told.
+
+### R75-38-OLD_FEAT_TOO_BIG [Techniques Law 2026-10-04 CH13]
+
+When converted material claims a feat the new numbers cannot carry, the feat stays and the card names how it was done (an Overchannel spike, a Domain, a site's Wellspring) and the cost it charged, logged on the Ledger.
+
+> Keep it, explain it. The feat stays and the card names how (an Overchannel spike, a Domain, a site's Wellspring) and the cost it charged, logged on the Ledger.
+
+### R75-39-XP_AS_ARITHMETIC [Techniques Law 2026-10-04 CH14]
+
+XP binds as arithmetic, a tally of priced XP events, for Isaac's characters and for full cards, while for everyone else the XP table only sets the scale of how fast each Band moves.
+
+> Sums for the carded. Arithmetic for your characters and full cards, the scale for everyone else.
+
+### R75-41-RECORD_OF_CLIMB [Techniques Law 2026-10-04 CH16]
+
+A card records its bearer's climb in an XP bar (XP held and XP to the next Level, from the R75-39 tally where the card keeps one), a Level log (each Level with its cause and scene, fed from the chapter-end changes blocks) and a Stage ledger (each Stage with its Catalyst, re-assay, witnesses and date, one line of story each, set above the prose Temperance Record, which stays).
+
+> Yes to: XP bar (XP held and XP to the next Level, from CH14's tally where the card keeps one, so a reader of the card knows how near the next readout is); Level log (Each Level with its cause and the scene it happened in, fed from the chapter-end changes blocks); Stage ledger (Each Stage with its Catalyst, re-assay, witnesses and date, one line of story each, set above the prose Temperance Record, which stays).
+
+### R75-42-NEXT_GATE [Techniques Law 2026-10-04 CH17]
+
+Every card carries a line naming its bearer's next Stage, that Stage's Fracture of Worlds Catalyst and any Band gate ahead, NPC cards adding the crisis the Fronts are building and Isaac's characters' cards naming only the Catalyst.
+
+> Next gate, every card. A line names the next Stage, its FOW Catalyst and any Band gate ahead. NPC cards add the crisis the Fronts are building; your characters' cards name only FOW's Catalyst.
+
+### R75-43-WHERE_TECHNIQUE_LAW_LANDS [Techniques Law 2026-10-04 ME1]
+
+The techniques law lands in one pass: one dated law doc through log_ruling, the converter, create_character, the card skeleton and the roster schema rebuilt to it, the sixth edition of the Ability and Technique Design Guide, the wotr-npc, wotr-stat-line and wotr-write references rewritten, and NATALIE.md's character-sheet line updated.
+
+> Doc, tools and guides. A, plus the sixth edition of the Ability and Technique Design Guide, the wotr-npc, wotr-stat-line and wotr-write references rewritten, and NATALIE.md's character-sheet line updated, all in this pass.
+
+### R75-44-WHAT_JOINS_CARD_SWEEP [Techniques Law 2026-10-04 ME2]
+
+The sweep of names and numbers owed across all 284 cards also applies the one '(est.)' mark to every card and drops the flags the Level law has since made exact, reads each Lore against its card body (fixing name drift and sending any other contradiction to CONFLICTS.md for the docket), and takes em and en dashes out of card bodies and Lore.
+
+> Yes to: One estimate mark (CH7's answer applied to every card, and flags the Level law has since made exact (Borin's, Yoko's reserves) dropped); Lore against body (Each Lore read against its card body; name drift is fixed, and any other contradiction goes to CONFLICTS.md for the docket); Dashes out (Em and en dashes taken out of card bodies and Lore, carrying the prose ban from the page to the sheet).
+
+### R75-45-WHICH_CARDS_FIRST [Techniques Law 2026-10-04 ME3]
+
+Cards are rebuilt in order: Lambert, Bram, Brida, Tabitha Hallenfeld and the rest of the room at Kharven-Seat first, then the other live threads, then the archive by appearances.
+
+> The Kharven room first. Lambert, Bram, Brida, Tabitha Hallenfeld and the rest of the room at Kharven-Seat get their cards first, then the other live threads, then the archive by appearances.
+
+### R75-46-OLD_ENTRIES_FAILING_LAW [Techniques Law 2026-10-04 ME5]
+
+A carded technique's cost, counter or What nobody knows line that fails live law is re-derived from its mechanism when the rebuild order reaches its card, the old line quoted in that rebuild's report and never on the card, and each card's changed lines go through log_ruling as one agent ruling that quotes them and names its grounds, which Isaac reads in CONTINUE.md and may overturn.
+
+> Each card an agent ruling. As A, and each card's changed lines go through log_ruling as one agent ruling that quotes them and names its grounds, so you read them in CONTINUE.md and may overturn any.
+
+### R75-47-PROOF_AND_ORDER [Techniques Law 2026-10-04 ME4]
+
+The work runs in order: log the law and rebuild the converter and the card skeleton, make the three test cards through them, play a scene where one of them decides a fight, amend, and only then run the sweep and the rebuilds.
+
+> Law and tools, then test. Log the law and rebuild the converter and skeleton; make the three test cards through them; play a scene where one decides a fight; amend; then sweep and rebuilds.
+
 ### R52-01-SAME_MAN [Voice Law 2026-09-26 How distinct voices must be]
 
 The quiet, controlled older man is the setting's taste: leave the archetype; the swap test catches clashes scene by scene.
@@ -2271,7 +2517,7 @@ Room casting is by ear: the partner casts for the scene and fixes voice likeness
 
 > Room casting is by ear: the partner casts for the scene and fixes voice likeness only when the swap test fails.
 
-## codex (118)
+## codex (119)
 
 ### R20C-41-CHANTCRAFT_FIFTH_CRAFT [Pack Twenty R20C-41]
 
@@ -2981,7 +3227,13 @@ Vohrin is one power at two levels, Titan and Wellspring; frost workings drawing 
 
 > Vohrin is one power at two levels, Titan and Wellspring; the four frost workings become Titan-derived, likely raising their standing and cost.
 
-## combat (200)
+### R75-19-NEW_RESONANT_PAIRS [Techniques Law 2026-10-04 TE12]
+
+A new Resonant Pair may be proposed when a build reaches a combination canon's ten lack, with real mechanism, Grade and effect and the absence shown as R18-2 asks, and it binds once ratified.
+
+> New, by R18-2's test. R18-2 extends to Pairs: a new one may be proposed when a build reaches a combination the ten lack, with real mechanism, Grade and effect; it binds once ratified.
+
+## combat (207)
 
 ### R20C-22-AMMUNITION_TIERS_RATIFIED [Pack Twenty R20C-22]
 
@@ -4147,6 +4399,48 @@ Before two players' characters make contact in any contest both players post ter
 
 > Terms first, then Judger. Before contact both players post terms (what counts as a loss, what is off the table), R71-54 widened to every contest; inside those terms the Judger rules by card, as in B.
 
+### R75-6-COUNTER_FAIRNESS_TEST [Techniques Law 2026-10-04 K5]
+
+A technique's card stands only when its Counter is within reach of a prepared practitioner of the technique's own Stage without a higher Stage or a rare Wellspring, rests on law someone already knows, and names a counter before, during and after contact.
+
+> Yes to: Same Stage can answer (The written counter is within reach of a prepared practitioner of the technique's own Stage; a counter that needs a higher Stage or a rare Wellspring fails the card); Counter on known law (The counter rests on law someone already knows (a Wellspring's recorded failure, a school's teaching, a Family's weakness), so a player can study toward it before he meets the technique); A counter at each phase (The card names a counter before, during and after contact; 'none once contact is made' fails and the card is rebuilt).
+
+### R75-9-CUTTING_CHANT_SHORT [Techniques Law 2026-10-04 TE2]
+
+A chant's length sets its output, so each line a caster drops costs a share of output and buys Readiness, both figures set on the technique's card.
+
+> Clip it, lose output. A chant's length sets its output: each line dropped costs a share of output and buys Readiness (casting time), both figures set on the card.
+
+### R75-20-CARDING_SYNERGIA [Techniques Law 2026-10-04 TE13]
+
+A drilled Synergia is carded on one technique page that carries both partners, the drill that made it, the cost split and the counter, both partners' cards link to it, and no vow binds the pair.
+
+> Drilled, one shared page. One technique page carries both partners, the drill that made it, the cost split and the counter; both cards link to it; no vow.
+
+### R75-21-NAMING_TWO_TONGUE_ART [Techniques Law 2026-10-04 TE14]
+
+When a Synergia's partners speak different tongues, its card carries both names, each glossed, and in a fight each partner calls it in his own tongue, two calls in one beat.
+
+> Each calls his own. The card carries both names, each glossed; in a fight each partner calls it in his own tongue, two calls in one beat.
+
+### R75-23-WHAT_SCHOOL_KEEPS_BACK [Techniques Law 2026-10-04 TE16]
+
+A school writes down its lower forms and teaches its last form mouth to ear, so outside the school that form counts as self-derived and is read live.
+
+> The last form withheld. A school writes its lower forms and teaches its last form mouth to ear; outside the school that form counts as self-derived and is read live.
+
+### R75-25-ONE_CARD_SHAPE [Techniques Law 2026-10-04 CH1]
+
+Every full character card opens with a one-screen head above its seventeen sections, carrying the header, the stat line, the combat grammar (Verdict, Blade, Percussion or Expenditure), the Traits and techniques by name each with its tell and counter, and the voice sample line, and Natalie fights from that head.
+
+> A table head, then sections. A one-screen head above the seventeen: header, stat line, combat grammar (Verdict, Blade, Percussion or Expenditure), Traits and techniques by name with tell and counter, the voice sample line. Natalie fights from the head.
+
+### R75-35-SKILLS_ON_CARD [Techniques Law 2026-10-04 CH18]
+
+A card gets a Skills section after Techniques where each skill names its cues or mechanics, where it was learned and the Sub-Stats that price it, grows only as those Sub-Stats grow, and carries TE4's three marks (Held, Drilled, Mastered), each crossing a shown cause entered in the chapter-end block, and the Crystal never prints them.
+
+> Skills section, with marks. As A, and each skill carries TE4's three marks (Held, Drilled, Mastered), each crossing a shown cause entered in the chapter-end block. The Crystal never prints them.
+
 ### R48-33-CHOREOGRAPHY [Writing Law 2026-09-26 Combat and consequence]
 
 Duels: every exchange traced (measure, guard and the move by its fencing name).
@@ -4183,7 +4477,7 @@ Every duel ends with a full aftermath beat: wounds dressed, what changed between
 
 > Every duel ends with a full aftermath beat: wounds dressed, what changed between people.
 
-## dialogue (199)
+## dialogue (202)
 
 ### R20C-36-CLEARLY_WINS [Pack Twenty R20C-36]
 
@@ -4947,6 +5241,24 @@ A Stage gap felt as Pressure and a commoner's awe of a ranked practitioner can m
 
 > Yes to: Rank bends it (A Stage gap felt as Pressure (R70-69) and a commoner's awe of a ranked practitioner (R53-18) can make an NPC yield what its want alone would refuse; a ranked NPC weighs them less); His name goes before him (Ledger lines for reputation and who saw what reach the NPC: it answers what your PC did in public, for good or ill, and the notes name the line that weighed); His lies caught on evidence (An NPC catches your PC's lie only on what it can check: a tell in his body, a fact it holds, or a read its Gnosis earns (R14-3's read row). Otherwise the lie holds).
 
+### R75-14-HOW_VOW_SWORN [Techniques Law 2026-10-04 TE7]
+
+A vow binds once it is spoken aloud before any living witness, the opponent included, earns oath experience only when sworn at a stone, and since somebody always heard it, its counter can be found by asking.
+
+> Aloud, any witness. A vow binds when spoken before any living witness, the opponent included; it earns oath experience only at a stone. Somebody always heard, so the counter can be found by asking.
+
+### R75-21-NAMING_TWO_TONGUE_ART [Techniques Law 2026-10-04 TE14]
+
+When a Synergia's partners speak different tongues, its card carries both names, each glossed, and in a fight each partner calls it in his own tongue, two calls in one beat.
+
+> Each calls his own. The card carries both names, each glossed; in a fight each partner calls it in his own tongue, two calls in one beat.
+
+### R75-32-NEW_VOICE_BLOCK_SLOTS [Techniques Law 2026-10-04 CH8]
+
+The card's voice block gains three slots: the speaker type (the researched real-world model, moved from the notes onto the card), the chant tongue his chants and release calls run in (his own under R50-26 or a learned one under R70-26), and the lying tell (what his body does when he lies or withholds).
+
+> Yes to: Speaker type (The researched real-world model (a customs clerk, a field surgeon, a drover) moves from the notes onto the card, so every return starts from the same voice); Chant tongue (The tongue his chants and release calls run in (his own under R50-26, or a learned one under R70-26, as Kwon's Accord Latin), so Borin's Latin forge-liturgy is caught and fixed); Lying tell (What his body does when he lies or withholds, the body kind of R49-36's three tells, so the frequent lies of R48-42 can be caught by a player who reads bodies).
+
 ### R51-01-TIMELESS [Vocabulary Law 2026-09-26 Vocabulary and diction]
 
 Timeless narration varies by culture: plain, undated English by default; some cultures' scenes (Eresse, the Moto court) may take a more antique narration.
@@ -5379,7 +5691,7 @@ Narration refers to characters by POV epithets, the way the viewpoint sees them;
 
 > Narration refers to characters by POV epithets, the way the viewpoint sees them; the naming characterises.
 
-## documents (133)
+## documents (135)
 
 ### R20C-3-SWEEP_TWO_TIERS [Pack Twenty R20C-3]
 
@@ -6179,6 +6491,18 @@ The table answers land as one dated Table Law doc logged through log_ruling, NAT
 
 > C, plus the tools. C, plus MCP changes: a thread and a date or trigger on Ledger rows, a pace on Fronts, new roster fields, reward and penalty in scene_menu, and the bot's table commands per MP6.
 
+### R75-33-LORE_AND_LENGTH_CAP [Techniques Law 2026-10-04 CH9]
+
+The 16,348-character cap binds only the seventeen sections from Identity through Fracture Log, Lore runs free below them, and the eight cards over the cap without Lore are trimmed in the sweep.
+
+> The seventeen only. The cap binds Identity through Fracture Log; Lore runs free below it. The eight cards over without Lore are trimmed in the sweep.
+
+### R75-43-WHERE_TECHNIQUE_LAW_LANDS [Techniques Law 2026-10-04 ME1]
+
+The techniques law lands in one pass: one dated law doc through log_ruling, the converter, create_character, the card skeleton and the roster schema rebuilt to it, the sixth edition of the Ability and Technique Design Guide, the wotr-npc, wotr-stat-line and wotr-write references rewritten, and NATALIE.md's character-sheet line updated.
+
+> Doc, tools and guides. A, plus the sixth edition of the Ability and Technique Design Guide, the wotr-npc, wotr-stat-line and wotr-write references rewritten, and NATALIE.md's character-sheet line updated, all in this pass.
+
 ## items (94)
 
 ### R20C-22-AMMUNITION_TIERS_RATIFIED [Pack Twenty R20C-22]
@@ -6745,7 +7069,7 @@ A Witnessed-Tempered piece inherits a scaled-down Ancestral Dominion Frame: ever
 
 > If the piece changes hands outside the terms of the oath, its accrued memory does not transfer. This is not the Dawi's Crystal-Coherence self-punishment, a cost paid by the oath-breaker's own soul; it is closer to the Weight of the Blood, where failure feels ancestral rather than personal. The object simply stops recognizing the new holder as a party the law was made for. In the worst documented cases, Physical Plane Authority's "hold shape" reverses for that bearer alone, and the piece becomes more failure-prone in their hands than an ordinary equivalent.
 
-## magic-design (116)
+## magic-design (142)
 
 ### R20C-28-PHENOMENON_BANK_CANDIDATES [Pack Twenty R20C-28]
 
@@ -7407,6 +7731,162 @@ A glyph proposed for a page that named none stands as printed but provisional un
 
 > Proposed glyphs stay as printed but provisional: confirmed or reassigned once all 136 glyphs are gathered and checked.
 
+### R75-1-WHERE_TECHNIQUE_WRITTEN [Techniques Law 2026-10-04 K1]
+
+Give each signature, and any art one person derived alone, its own page priced at its owner's exact reserve, keep each school art once on its school's page priced by Stage band, and link the card's technique rows to either page.
+
+> Signatures own, arts shared. A signature, or any art one person derived alone, gets its own page priced at its owner's exact reserve; a school art lives once on its school's page, priced by Stage band. The card's rows link to either.
+
+### R75-2-DESIGNED_OR_FOUND [Techniques Law 2026-10-04 K2]
+
+Before a technique first fires its card holds its mechanism, cost, limit, tell and counter, and its name, forms, Readiness, evolutions and What nobody knows line are filled in afterward from what play showed.
+
+> Core first, rest found. Before first fire the card holds mechanism, cost, limit, tell and counter. Name, forms, Readiness (its casting-time figure), evolutions and What nobody knows fill in from what play showed.
+
+### R75-3-SKETCH_TO_CARD [Techniques Law 2026-10-04 K3]
+
+When Isaac sketches an ability for his own character, Natalie returns the full R47-2 entry at once with a proposed true name in that character's tongue, and each choice on it (name, call, vow) sticks only when Isaac keeps it.
+
+> Whole card, yours to keep. Natalie returns the full R47-2 entry at once, a proposed true name in your character's tongue included; every choice on it (name, call, vow) sticks only when you keep it.
+
+### R75-4-YOUR_PRICE_AGAINST_LAW [Techniques Law 2026-10-04 K7]
+
+When Isaac's sketch names its own cost and limit, those stand and Natalie reworks the mechanism until they fall out of it, and if no lawful mechanism yields them she says so in one line and offers the nearest.
+
+> Your price, new mechanism. The cost and limit you named stand; Natalie reworks the mechanism until they fall out of it, so R17-4 holds. If no lawful mechanism yields them, she says so in one line and offers the nearest.
+
+### R75-5-TECHNIQUES_ON_CRYSTAL [Techniques Law 2026-10-04 K4]
+
+The first time a signature that a Trait permits holds, the bearer's Crystal prints one inline line naming it, its Trait and its Grade, a fifth growth moment beside R70-84's four, and school arts never print.
+
+> Signatures print once. Adds a fifth growth moment to R70-84: the first time a Trait-permitted signature holds, one inline Crystal line names it, its Trait and its Grade. School arts never print.
+
+### R75-6-COUNTER_FAIRNESS_TEST [Techniques Law 2026-10-04 K5]
+
+A technique's card stands only when its Counter is within reach of a prepared practitioner of the technique's own Stage without a higher Stage or a rare Wellspring, rests on law someone already knows, and names a counter before, during and after contact.
+
+> Yes to: Same Stage can answer (The written counter is within reach of a prepared practitioner of the technique's own Stage; a counter that needs a higher Stage or a rare Wellspring fails the card); Counter on known law (The counter rests on law someone already knows (a Wellspring's recorded failure, a school's teaching, a Family's weakness), so a player can study toward it before he meets the technique); A counter at each phase (The card names a counter before, during and after contact; 'none once contact is made' fails and the card is rebuilt).
+
+### R75-7-WHAT_OPENS_TECHNIQUE [Techniques Law 2026-10-04 K6]
+
+A character gains a technique only when he meets its FOW line and a cause appears on the page: a named teacher, a book studied, or the problem it answers met in a fight.
+
+> Numbers plus a cause. The FOW line must be met, and the technique arrives only with a cause on the page: a teacher named, a book studied, or the problem it answers met in a fight.
+
+### R75-8-LADDER_OF_FORMS [Techniques Law 2026-10-04 TE1]
+
+Western and Kharven schools run short ladders of forms like Liechtenauer's, the lineage halls and the Korean-stratum houses keep long catalogues, and each school's page sets its own count.
+
+> By the school's culture. Western and Kharven schools run short ladders like Liechtenauer's; the lineage halls and the Korean-stratum houses keep long catalogues. Each school's page sets its count.
+
+### R75-9-CUTTING_CHANT_SHORT [Techniques Law 2026-10-04 TE2]
+
+A chant's length sets its output, so each line a caster drops costs a share of output and buys Readiness, both figures set on the technique's card.
+
+> Clip it, lose output. A chant's length sets its output: each line dropped costs a share of output and buys Readiness (casting time), both figures set on the card.
+
+### R75-10-TECHNIQUE_GROWS_TO_GRADE [Techniques Law 2026-10-04 TE3]
+
+A technique's output rises with its owner's reserve until it reaches the top of the Grade it was designed in, and growing past that takes an escalated form with its suffix and a shown cause.
+
+> Grows to its Grade. Output rises with the reserve until it reaches the top of the Grade it was designed in; past that it needs an escalated form, with its suffix and a shown cause.
+
+### R75-11-DRILL_MASTERY [Techniques Law 2026-10-04 TE4]
+
+A technique's card carries three named mastery marks, Held, Drilled and Mastered, each lowering its Readiness and cost share by figures set on that card, and each crossing needs a shown cause entered in the chapter-end block.
+
+> Mastery marks on the card. Three named marks, Held, Drilled and Mastered; each lowers Readiness and cost share by figures set on that card, each crossing a shown cause entered in the chapter-end block.
+
+### R75-12-WHAT_VOW_WORTH [Techniques Law 2026-10-04 TE5]
+
+A vow may lift a technique's delivered output no higher than the top of its own Grade band, at a point set on the card; a great vow that stakes life, a limb's use or Crystal mass may lift it one full Grade and nothing lifts it further; a release call stacks on top.
+
+> A great vow, one Grade. As A, and a great vow, one that stakes life, a limb's use or Crystal mass, may lift output one full Grade; nothing lifts it further. A release call stacks on top.
+
+### R75-13-WHAT_ELSE_VOW_MAY_BE [Techniques Law 2026-10-04 TE6]
+
+A vow may stake life, a limb's use or Crystal mass, paid at once and for good if it is broken, and two people may bind each other by a vow whose terms both cards carry, the one who breaks it taking the Shear Break.
+
+> Yes to: A stake beyond Shear Break (A vow may stake life, a limb's use or Crystal mass; broken, the stake is paid at once and for good (R55-1). Under TE5's B, only a staked vow reaches a full Grade); A vow between two (Two people bind each other; each card carries the terms, and whoever breaks them takes the Shear Break).
+
+### R75-14-HOW_VOW_SWORN [Techniques Law 2026-10-04 TE7]
+
+A vow binds once it is spoken aloud before any living witness, the opponent included, earns oath experience only when sworn at a stone, and since somebody always heard it, its counter can be found by asking.
+
+> Aloud, any witness. A vow binds when spoken before any living witness, the opponent included; it earns oath experience only at a stone. Somebody always heard, so the counter can be found by asking.
+
+### R75-15-WHEN_TRAIT_FORMS [Techniques Law 2026-10-04 TE8]
+
+A new Trait forms only at one of canon's four Resonance Events, written as its own scene, with no count cap, the scale of the event being the only limit.
+
+> Canon's four, on the page. A new Trait forms only at one of the four events, written as its own scene; no count cap, the scale of the event is the limit.
+
+### R75-16-WHO_WRITES_PC_TRAIT [Techniques Law 2026-10-04 TE9]
+
+When a Trait forms in Isaac's own character, Natalie writes its name, Reflection and Lattice property at the event, and it sticks only when Isaac keeps it, as a Third Name does.
+
+> Natalie writes, you keep. At the event Natalie writes name, Reflection (its kind) and Lattice property; it sticks only when you keep it, as a Third Name does.
+
+### R75-17-TRAIT_ENTRY_CARRIES [Techniques Law 2026-10-04 TE10]
+
+Beside its Lattice property, every Trait entry carries its founding sentence in the bearer's words, a rigidity line stating as fact what the bearer cannot safely contradict, and the offices it holds, its Permission line listing the signatures it allows.
+
+> Yes to: Founding sentence (The statement the Continuum accepted, in the bearer's words, yours to write for your characters as in TE11. Denying it is the Shear Break, so every Trait carries a findable counter); Rigidity line (What the bearer cannot safely contradict, as a fact. NPCs play it on the page; for your characters it stays a fact for you to play); Offices held (Which of Bias, Permission, Nucleation and Ceiling it serves; a Permission line lists the signatures it allows).
+
+### R75-18-HOW_TRAIT_EVOLVES [Techniques Law 2026-10-04 TE11]
+
+When a Trait evolves, the new law takes the shape of the sentence the bearer holds in the crisis, Isaac writes that sentence for his own characters, and the Crystal prints the result.
+
+> The bearer's sentence. The evolved law takes the shape of the sentence the bearer holds in the crisis; for your characters you write that sentence, and the Crystal prints the result.
+
+### R75-19-NEW_RESONANT_PAIRS [Techniques Law 2026-10-04 TE12]
+
+A new Resonant Pair may be proposed when a build reaches a combination canon's ten lack, with real mechanism, Grade and effect and the absence shown as R18-2 asks, and it binds once ratified.
+
+> New, by R18-2's test. R18-2 extends to Pairs: a new one may be proposed when a build reaches a combination the ten lack, with real mechanism, Grade and effect; it binds once ratified.
+
+### R75-20-CARDING_SYNERGIA [Techniques Law 2026-10-04 TE13]
+
+A drilled Synergia is carded on one technique page that carries both partners, the drill that made it, the cost split and the counter, both partners' cards link to it, and no vow binds the pair.
+
+> Drilled, one shared page. One technique page carries both partners, the drill that made it, the cost split and the counter; both cards link to it; no vow.
+
+### R75-22-OWN_TECHNIQUES_COMBINED [Techniques Law 2026-10-04 TE15]
+
+A practitioner may derive two of his own techniques into a third, carded art with its own cost, counter and new name, costing at least the sum of its parts, while chaining them stays free.
+
+> A carded composite art. Two of his techniques may be derived into a third, carded art with its own cost, counter and new name; it costs at least the sum of its parts. Chaining stays free.
+
+### R75-23-WHAT_SCHOOL_KEEPS_BACK [Techniques Law 2026-10-04 TE16]
+
+A school writes down its lower forms and teaches its last form mouth to ear, so outside the school that form counts as self-derived and is read live.
+
+> The last form withheld. A school writes its lower forms and teaches its last form mouth to ear; outside the school that form counts as self-derived and is read live.
+
+### R75-24-LEARNING_BY_WATCHING [Techniques Law 2026-10-04 TE17]
+
+A character who witnessed a technique may re-derive it in downtime if he holds its Wellsprings and meets its FOW line, and it then runs at his stats and becomes his own, under his own name.
+
+> Re-derived after watching. A witnessed technique may be re-derived in downtime if the watcher holds its Wellsprings and meets its FOW line; it runs at his stats and becomes his own, with his own name.
+
+### R75-34-STORY_FIELDS_ON_CARD [Techniques Law 2026-10-04 CH10]
+
+A full card gains a refusal line (what he will not do whatever is offered), a named conviction (the belief that costs him) and an arc kind (positive, flat, negative or corruption, after K. M. Weiland's arc types), the arc kind set when the card is made and revised at each arc's end.
+
+> Yes to: Refusal line (The thing he will not do whatever is offered, as the roster already carries; Table Rule 3's refusals read straight off the card); Conviction (The belief that costs him, named; the Trait System's 'Belief, once survived, becomes law' gets the belief it grows from, and a Shear Break has a truth to break against); Arc kind (Positive, flat, negative or corruption, after K. M. Weiland's arc types: set when the card is made, revised at each arc's end).
+
+### R75-43-WHERE_TECHNIQUE_LAW_LANDS [Techniques Law 2026-10-04 ME1]
+
+The techniques law lands in one pass: one dated law doc through log_ruling, the converter, create_character, the card skeleton and the roster schema rebuilt to it, the sixth edition of the Ability and Technique Design Guide, the wotr-npc, wotr-stat-line and wotr-write references rewritten, and NATALIE.md's character-sheet line updated.
+
+> Doc, tools and guides. A, plus the sixth edition of the Ability and Technique Design Guide, the wotr-npc, wotr-stat-line and wotr-write references rewritten, and NATALIE.md's character-sheet line updated, all in this pass.
+
+### R75-46-OLD_ENTRIES_FAILING_LAW [Techniques Law 2026-10-04 ME5]
+
+A carded technique's cost, counter or What nobody knows line that fails live law is re-derived from its mechanism when the rebuild order reaches its card, the old line quoted in that rebuild's report and never on the card, and each card's changed lines go through log_ruling as one agent ruling that quotes them and names its grounds, which Isaac reads in CONTINUE.md and may overturn.
+
+> Each card an agent ruling. As A, and each card's changed lines go through log_ruling as one agent ruling that quotes them and names its grounds, so you read them in CONTINUE.md and may overturn any.
+
 ### R48-14-DEPTH [Writing Law 2026-09-26 Research-grounded techniques]
 
 Research depth: name the real phenomenon and its fault; lighter scenes, less time per working.
@@ -7443,7 +7923,7 @@ The Phenomenon Bank becomes a growing library: every researched phenomenon (and 
 
 > The Phenomenon Bank becomes a growing library: every researched phenomenon (and pseudoscientific idea) is added for future workings and players to draw from.
 
-## magic-mechanism (259)
+## magic-mechanism (266)
 
 ### R20C-17-SITES_RECHARGE_UNHELPFULLY [Pack Twenty R20C-17]
 
@@ -8960,6 +9440,48 @@ Vohrin is one power at two levels, Titan and Wellspring; frost workings drawing 
 
 > Vohrin is one power at two levels, Titan and Wellspring; the four frost workings become Titan-derived, likely raising their standing and cost.
 
+### R75-2-DESIGNED_OR_FOUND [Techniques Law 2026-10-04 K2]
+
+Before a technique first fires its card holds its mechanism, cost, limit, tell and counter, and its name, forms, Readiness, evolutions and What nobody knows line are filled in afterward from what play showed.
+
+> Core first, rest found. Before first fire the card holds mechanism, cost, limit, tell and counter. Name, forms, Readiness (its casting-time figure), evolutions and What nobody knows fill in from what play showed.
+
+### R75-4-YOUR_PRICE_AGAINST_LAW [Techniques Law 2026-10-04 K7]
+
+When Isaac's sketch names its own cost and limit, those stand and Natalie reworks the mechanism until they fall out of it, and if no lawful mechanism yields them she says so in one line and offers the nearest.
+
+> Your price, new mechanism. The cost and limit you named stand; Natalie reworks the mechanism until they fall out of it, so R17-4 holds. If no lawful mechanism yields them, she says so in one line and offers the nearest.
+
+### R75-9-CUTTING_CHANT_SHORT [Techniques Law 2026-10-04 TE2]
+
+A chant's length sets its output, so each line a caster drops costs a share of output and buys Readiness, both figures set on the technique's card.
+
+> Clip it, lose output. A chant's length sets its output: each line dropped costs a share of output and buys Readiness (casting time), both figures set on the card.
+
+### R75-13-WHAT_ELSE_VOW_MAY_BE [Techniques Law 2026-10-04 TE6]
+
+A vow may stake life, a limb's use or Crystal mass, paid at once and for good if it is broken, and two people may bind each other by a vow whose terms both cards carry, the one who breaks it taking the Shear Break.
+
+> Yes to: A stake beyond Shear Break (A vow may stake life, a limb's use or Crystal mass; broken, the stake is paid at once and for good (R55-1). Under TE5's B, only a staked vow reaches a full Grade); A vow between two (Two people bind each other; each card carries the terms, and whoever breaks them takes the Shear Break).
+
+### R75-14-HOW_VOW_SWORN [Techniques Law 2026-10-04 TE7]
+
+A vow binds once it is spoken aloud before any living witness, the opponent included, earns oath experience only when sworn at a stone, and since somebody always heard it, its counter can be found by asking.
+
+> Aloud, any witness. A vow binds when spoken before any living witness, the opponent included; it earns oath experience only at a stone. Somebody always heard, so the counter can be found by asking.
+
+### R75-18-HOW_TRAIT_EVOLVES [Techniques Law 2026-10-04 TE11]
+
+When a Trait evolves, the new law takes the shape of the sentence the bearer holds in the crisis, Isaac writes that sentence for his own characters, and the Crystal prints the result.
+
+> The bearer's sentence. The evolved law takes the shape of the sentence the bearer holds in the crisis; for your characters you write that sentence, and the Crystal prints the result.
+
+### R75-38-OLD_FEAT_TOO_BIG [Techniques Law 2026-10-04 CH13]
+
+When converted material claims a feat the new numbers cannot carry, the feat stays and the card names how it was done (an Overchannel spike, a Domain, a site's Wellspring) and the cost it charged, logged on the Ledger.
+
+> Keep it, explain it. The feat stays and the card names how (an Overchannel spike, a Domain, a site's Wellspring) and the cost it charged, logged on the Ledger.
+
 ### R48-20-STRATA [Writing Law 2026-09-26 WOTR metaphysics on the page]
 
 The three-layer account (Aether, Wellspring, Essence) shows at a working's first display and at the finisher; lighter touches between.
@@ -9334,7 +9856,7 @@ Tell a formation battle in POV-locked sections that cut, at marked breaks, betwe
 
 > Hill and ditch, cut. A battle cuts between the commander's hill and one man in the press at marked breaks, each section POV-locked; the breaks stand in for the guide's rule to 'pass through Line'. R1-3's three heads cover both.
 
-## naming (192)
+## naming (201)
 
 ### R20C-1-BURI_DEAD_EVERYWHERE [Pack Twenty R20C-1]
 
@@ -10470,6 +10992,60 @@ Amend only the naming rows the comic-name answers bend, each in one line naming 
 
 > Banks gain comic slots. B, plus each culture's naming rows gain a comic-names clause pointing to that culture's comic bank in its Standing Inventory, so load_rules serves the bank with the law. (Option B there reads: Narrow amendments. Only the rows your answers above bend are amended, each in one line naming its answer: R50-30 for the sound check, R50-27 only if NM12 opens walk-ons. Banks and sound rules stand.)
 
+### R75-3-SKETCH_TO_CARD [Techniques Law 2026-10-04 K3]
+
+When Isaac sketches an ability for his own character, Natalie returns the full R47-2 entry at once with a proposed true name in that character's tongue, and each choice on it (name, call, vow) sticks only when Isaac keeps it.
+
+> Whole card, yours to keep. Natalie returns the full R47-2 entry at once, a proposed true name in your character's tongue included; every choice on it (name, call, vow) sticks only when you keep it.
+
+### R75-8-LADDER_OF_FORMS [Techniques Law 2026-10-04 TE1]
+
+Western and Kharven schools run short ladders of forms like Liechtenauer's, the lineage halls and the Korean-stratum houses keep long catalogues, and each school's page sets its own count.
+
+> By the school's culture. Western and Kharven schools run short ladders like Liechtenauer's; the lineage halls and the Korean-stratum houses keep long catalogues. Each school's page sets its count.
+
+### R75-10-TECHNIQUE_GROWS_TO_GRADE [Techniques Law 2026-10-04 TE3]
+
+A technique's output rises with its owner's reserve until it reaches the top of the Grade it was designed in, and growing past that takes an escalated form with its suffix and a shown cause.
+
+> Grows to its Grade. Output rises with the reserve until it reaches the top of the Grade it was designed in; past that it needs an escalated form, with its suffix and a shown cause.
+
+### R75-16-WHO_WRITES_PC_TRAIT [Techniques Law 2026-10-04 TE9]
+
+When a Trait forms in Isaac's own character, Natalie writes its name, Reflection and Lattice property at the event, and it sticks only when Isaac keeps it, as a Third Name does.
+
+> Natalie writes, you keep. At the event Natalie writes name, Reflection (its kind) and Lattice property; it sticks only when you keep it, as a Third Name does.
+
+### R75-21-NAMING_TWO_TONGUE_ART [Techniques Law 2026-10-04 TE14]
+
+When a Synergia's partners speak different tongues, its card carries both names, each glossed, and in a fight each partner calls it in his own tongue, two calls in one beat.
+
+> Each calls his own. The card carries both names, each glossed; in a fight each partner calls it in his own tongue, two calls in one beat.
+
+### R75-22-OWN_TECHNIQUES_COMBINED [Techniques Law 2026-10-04 TE15]
+
+A practitioner may derive two of his own techniques into a third, carded art with its own cost, counter and new name, costing at least the sum of its parts, while chaining them stays free.
+
+> A carded composite art. Two of his techniques may be derived into a third, carded art with its own cost, counter and new name; it costs at least the sum of its parts. Chaining stays free.
+
+### R75-32-NEW_VOICE_BLOCK_SLOTS [Techniques Law 2026-10-04 CH8]
+
+The card's voice block gains three slots: the speaker type (the researched real-world model, moved from the notes onto the card), the chant tongue his chants and release calls run in (his own under R50-26 or a learned one under R70-26), and the lying tell (what his body does when he lies or withholds).
+
+> Yes to: Speaker type (The researched real-world model (a customs clerk, a field surgeon, a drover) moves from the notes onto the card, so every return starts from the same voice); Chant tongue (The tongue his chants and release calls run in (his own under R50-26, or a learned one under R70-26, as Kwon's Accord Latin), so Borin's Latin forge-liturgy is caught and fixed); Lying tell (What his body does when he lies or withholds, the body kind of R49-36's three tells, so the frequent lies of R48-42 can be caught by a player who reads bodies).
+
+### R75-36-COMIC_NAME_ON_CARD [Techniques Law 2026-10-04 CH11]
+
+A card carrying a comic name records the byname, who coined it and when, its bank or sound rule, and the given name under it, so a grief beat and the Kharven giving-on have both names to work with.
+
+> Byname with its making. Byname, who coined it and when, its bank or sound rule, and the given name under it, so a grief beat and the Kharven giving-on have both names to work with.
+
+### R75-44-WHAT_JOINS_CARD_SWEEP [Techniques Law 2026-10-04 ME2]
+
+The sweep of names and numbers owed across all 284 cards also applies the one '(est.)' mark to every card and drops the flags the Level law has since made exact, reads each Lore against its card body (fixing name drift and sending any other contradiction to CONFLICTS.md for the docket), and takes em and en dashes out of card bodies and Lore.
+
+> Yes to: One estimate mark (CH7's answer applied to every card, and flags the Level law has since made exact (Borin's, Yoko's reserves) dropped); Lore against body (Each Lore read against its card body; name drift is fixed, and any other contradiction goes to CONFLICTS.md for the docket); Dashes out (Em and en dashes taken out of card bodies and Lore, carrying the prose ban from the page to the sheet).
+
 ### R33-1-ZETTARI_AGANO_SAND_WITNESSED_TEMPER [Zettari Forge Culture Ruling Standing Ruling]
 
 The Zettari forge culture answers "what makes a thing trustworthy?" with witness and inheritance, not time: a Zettari-forged object is declared reliable once, before a witness older than the speaker, and the bloodline's Material Covenant Resonance holds the declaration in place. The substrate is Agano Sand ("covenant", Swahili-derived, inside the Zettari's own register), a working measure of the Paths' sand -- condensed lineage memory -- folded into the quench. It is access-gated rather than time-gated: it must come from, or through, someone the Paths already recognize. The rite is the Witnessed Temper, a Vow Clause working and not new magic: at the quench the smith or the sovereign the piece is for speaks a bound claim over the object before a Stone Witness (a ruin, an ancestral hall, a Path-linked relic), and the claim becomes a standing law the object runs. Write it as witnessed law, set against the Dawi's brewed endurance; the cross-culture parallel slot is deliberately left open.
@@ -10488,7 +11064,7 @@ The Zettari bloodline's names, titles and technique names are built in a Swahili
 
 > The Zettari speak their own tongue. Their names and their arts are Swahili, Bantu and Arabic in flavour — Kafa-Karim, Habl Flow-Bind, Sarmad Fracture, Sukun Maji, Dawam Soul-Still Art, Kumi-na-Mbili Seal; Zuberi, Ma'Kovu, N'Kharu, Malani, Jomari, N'Yari, Zembari — and that register stands. The five-strata naming convention assigns the archaic bloodlines to the Japonic stratum; the Zettari are carved out of it as a register of their own, and the Japonic assignment continues to govern every other archaic line. Ruled by Isaac, 2026-09-12.
 
-## pov (185)
+## pov (187)
 
 ### R20C-49-GLOSS_RIGHTS_CARD_FIELD [Pack Twenty R20C-49]
 
@@ -11372,6 +11948,18 @@ Every Front tick puts one sign into a scene of that thread in the same session (
 
 > Signs in the world. Every tick puts one sign into a scene of that thread the same session (a seal, a stranger, a price gone up) or a marked cutaway. Clocks are never printed in play; the files stay yours to open.
 
+### R75-27-WHAT_LIFTS_RUNG [Techniques Law 2026-10-04 CH3]
+
+A person gets at least a short card before the first scene whose outcome his stats must decide, a spared rival who returns under R70-104 gets a full card, and anyone whose head a scene sits in gets a full card before that scene.
+
+> Yes to: Stats decide a scene (The first time his stats must decide an outcome on the page, he gets at least a short card before that scene is written); Becomes a rival (A rival under R70-104, spared and returning, gets a full card, since his growth and his debts must be traced); Holds a POV (Anyone whose head a scene sits in gets a full card first, since his readouts come from his own sheet).
+
+### R75-37-RIVAL_BETWEEN_MEETINGS [Techniques Law 2026-10-04 CH12]
+
+A rival's growth between meetings runs on a Front, a world clock that ticks between sessions, each tick naming its cause, and his return shows that growth in the room and in what the POV was told.
+
+> His own clock, shown. A rival's growth runs on a Front (a world clock that ticks between sessions); each tick names its cause, and his return shows it in the room and in what the POV was told.
+
 ### R52-01-SAME_MAN [Voice Law 2026-09-26 How distinct voices must be]
 
 The quiet, controlled older man is the setting's taste: leave the archetype; the swap test catches clashes scene by scene.
@@ -11600,7 +12188,7 @@ Narration refers to characters by POV epithets, the way the viewpoint sees them;
 
 > Narration refers to characters by POV epithets, the way the viewpoint sees them; the naming characterises.
 
-## prose-law (382)
+## prose-law (383)
 
 ### R20C-29-CATEGORY_NAMING_DIAGNOSTIC [Pack Twenty R20C-29]
 
@@ -13504,6 +14092,12 @@ Outside a fight a turn writes the PC's involuntary responses (sweat and nausea u
 
 > Yes to: Reflexes as world facts (Involuntary responses (sweat and nausea under Pressure, a startle at a shot, cold shakes, a drug taking hold) land on his body as facts, as wounds do under R71-6; what he does next stays yours); Evidence, never the conclusion (In talk and investigation too, Natalie lays the tells in the room and never draws his conclusion; the deduction is your post, R71-6's "the read his" carried outside fights); What he would know (What your PC knows and you might not (a custom, a Guild form, a law of his own court) comes as plain recall from his card and canon only, never a new memory).
 
+### R75-5-TECHNIQUES_ON_CRYSTAL [Techniques Law 2026-10-04 K4]
+
+The first time a signature that a Trait permits holds, the bearer's Crystal prints one inline line naming it, its Trait and its Grade, a fifth growth moment beside R70-84's four, and school arts never print.
+
+> Signatures print once. Adds a fifth growth moment to R70-84: the first time a Trait-permitted signature holds, one inline Crystal line names it, its Trait and its Grade. School arts never print.
+
 ### R51-01-TIMELESS [Vocabulary Law 2026-09-26 Vocabulary and diction]
 
 Timeless narration varies by culture: plain, undated English by default; some cultures' scenes (Eresse, the Moto court) may take a more antique narration.
@@ -13894,7 +14488,7 @@ Narration refers to characters by POV epithets, the way the viewpoint sees them;
 
 > Narration refers to characters by POV epithets, the way the viewpoint sees them; the naming characterises.
 
-## register (198)
+## register (199)
 
 ### R20C-21-WELL_NAMES_CLASS_MARKED [Pack Twenty R20C-21]
 
@@ -14802,6 +15396,12 @@ The POV's culture decides which explicit-scene techniques the narration uses (a 
 
 > Keyed to the POV. The POV's culture decides: a Moto POV writes with image and the held detail, a Kharven POV blunt, whoever the lover is; the lover's culture shows in what they do and say.
 
+### R75-32-NEW_VOICE_BLOCK_SLOTS [Techniques Law 2026-10-04 CH8]
+
+The card's voice block gains three slots: the speaker type (the researched real-world model, moved from the notes onto the card), the chant tongue his chants and release calls run in (his own under R50-26 or a learned one under R70-26), and the lying tell (what his body does when he lies or withholds).
+
+> Yes to: Speaker type (The researched real-world model (a customs clerk, a field surgeon, a drover) moves from the notes onto the card, so every return starts from the same voice); Chant tongue (The tongue his chants and release calls run in (his own under R50-26, or a learned one under R70-26, as Kwon's Accord Latin), so Borin's Latin forge-liturgy is caught and fixed); Lying tell (What his body does when he lies or withholds, the body kind of R49-36's three tells, so the frequent lies of R48-42 can be caught by a player who reads bodies).
+
 ### R51-01-TIMELESS [Vocabulary Law 2026-09-26 Vocabulary and diction]
 
 Timeless narration varies by culture: plain, undated English by default; some cultures' scenes (Eresse, the Moto court) may take a more antique narration.
@@ -15084,7 +15684,7 @@ The Zettari bloodline's names, titles and technique names are built in a Swahili
 
 > The Zettari speak their own tongue. Their names and their arts are Swahili, Bantu and Arabic in flavour — Kafa-Karim, Habl Flow-Bind, Sarmad Fracture, Sukun Maji, Dawam Soul-Still Art, Kumi-na-Mbili Seal; Zuberi, Ma'Kovu, N'Kharu, Malani, Jomari, N'Yari, Zembari — and that register stands. The five-strata naming convention assigns the archaic bloodlines to the Japonic stratum; the Zettari are carved out of it as a register of their own, and the Japonic assignment continues to govern every other archaic line. Ruled by Isaac, 2026-09-12.
 
-## scene-structure (137)
+## scene-structure (138)
 
 ### R19-2-BUILT_AROUND [Pack Nineteen §2]
 
@@ -15908,7 +16508,13 @@ Players post freely in talk and travel, while fights and contests run in a fixed
 
 > Order when it matters. Free posting in talk and travel; in fights and contests a fixed round order with a reply window the Judger sets, after which the round moves on and standing orders (R71-5) play for the absent.
 
-## session-protocol (113)
+### R75-15-WHEN_TRAIT_FORMS [Techniques Law 2026-10-04 TE8]
+
+A new Trait forms only at one of canon's four Resonance Events, written as its own scene, with no count cap, the scale of the event being the only limit.
+
+> Canon's four, on the page. A new Trait forms only at one of the four events, written as its own scene; no count cap, the scale of the event is the limit.
+
+## session-protocol (117)
 
 ### R20C-5-BRIEF_BURI_SECTION_MUST_GO [Pack Twenty R20C-5]
 
@@ -16509,6 +17115,30 @@ The data already on file gets one reconciliation pass: every open Ledger row gai
 The table work runs in order: log the law, change the tools and reconcile the data, run one Desktop session from start to close and one Discord scene through the full loop, amend, and only then rewrite the skills.
 
 > Law and tools, two tests. Log the law, change the tools and reconcile the data; run one Desktop session start to close and one Discord scene through the full loop; amend; then the skills.
+
+### R75-37-RIVAL_BETWEEN_MEETINGS [Techniques Law 2026-10-04 CH12]
+
+A rival's growth between meetings runs on a Front, a world clock that ticks between sessions, each tick naming its cause, and his return shows that growth in the room and in what the POV was told.
+
+> His own clock, shown. A rival's growth runs on a Front (a world clock that ticks between sessions); each tick names its cause, and his return shows it in the room and in what the POV was told.
+
+### R75-38-OLD_FEAT_TOO_BIG [Techniques Law 2026-10-04 CH13]
+
+When converted material claims a feat the new numbers cannot carry, the feat stays and the card names how it was done (an Overchannel spike, a Domain, a site's Wellspring) and the cost it charged, logged on the Ledger.
+
+> Keep it, explain it. The feat stays and the card names how (an Overchannel spike, a Domain, a site's Wellspring) and the cost it charged, logged on the Ledger.
+
+### R75-40-WHAT_TRAINING_PAYS [Techniques Law 2026-10-04 CH15]
+
+Training named in downtime pays XP only where it carries real risk, at Fracture of Worlds Part Two's own rates with comfortable repetition decaying toward nothing, or as a drill sworn as an oath before a Witness Stone, which pays Part Two's oath XP on swearing and on fulfilment and is a strain event if broken.
+
+> Edge, or a sworn drill. A, and a drill sworn as an oath before a Witness Stone pays Part Two's oath XP on swearing and on fulfilment; a broken drill is a strain event. Solo Leveling's contract in FOW's terms.
+
+### R75-42-NEXT_GATE [Techniques Law 2026-10-04 CH17]
+
+Every card carries a line naming its bearer's next Stage, that Stage's Fracture of Worlds Catalyst and any Band gate ahead, NPC cards adding the crisis the Fronts are building and Isaac's characters' cards naming only the Catalyst.
+
+> Next gate, every card. A line names the next Stage, its FOW Catalyst and any Band gate ahead. NPC cards add the crisis the Fronts are building; your characters' cards name only FOW's Catalyst.
 
 ### R48-26-INVENTION [Writing Law 2026-09-26 Roleplay partnership]
 
@@ -17196,7 +17826,7 @@ No decade-by-decade technology page: the partner judges what is era-appropriate 
 
 > No decade-by-decade technology page: the partner judges what is era-appropriate in the Imperial Age scene by scene.
 
-## stats (183)
+## stats (208)
 
 ### R20C-30-STAGE_NAMES_FROM_FOW [Pack Twenty R20C-30]
 
@@ -18299,7 +18929,157 @@ Stage V reads the Expert row's η of 0.60–0.70.
 
 > Splintering takes the 0.60-0.70 efficiency band; the whole Expert row reads 0.60-0.70.
 
-## verification (125)
+### R75-1-WHERE_TECHNIQUE_WRITTEN [Techniques Law 2026-10-04 K1]
+
+Give each signature, and any art one person derived alone, its own page priced at its owner's exact reserve, keep each school art once on its school's page priced by Stage band, and link the card's technique rows to either page.
+
+> Signatures own, arts shared. A signature, or any art one person derived alone, gets its own page priced at its owner's exact reserve; a school art lives once on its school's page, priced by Stage band. The card's rows link to either.
+
+### R75-5-TECHNIQUES_ON_CRYSTAL [Techniques Law 2026-10-04 K4]
+
+The first time a signature that a Trait permits holds, the bearer's Crystal prints one inline line naming it, its Trait and its Grade, a fifth growth moment beside R70-84's four, and school arts never print.
+
+> Signatures print once. Adds a fifth growth moment to R70-84: the first time a Trait-permitted signature holds, one inline Crystal line names it, its Trait and its Grade. School arts never print.
+
+### R75-7-WHAT_OPENS_TECHNIQUE [Techniques Law 2026-10-04 K6]
+
+A character gains a technique only when he meets its FOW line and a cause appears on the page: a named teacher, a book studied, or the problem it answers met in a fight.
+
+> Numbers plus a cause. The FOW line must be met, and the technique arrives only with a cause on the page: a teacher named, a book studied, or the problem it answers met in a fight.
+
+### R75-10-TECHNIQUE_GROWS_TO_GRADE [Techniques Law 2026-10-04 TE3]
+
+A technique's output rises with its owner's reserve until it reaches the top of the Grade it was designed in, and growing past that takes an escalated form with its suffix and a shown cause.
+
+> Grows to its Grade. Output rises with the reserve until it reaches the top of the Grade it was designed in; past that it needs an escalated form, with its suffix and a shown cause.
+
+### R75-11-DRILL_MASTERY [Techniques Law 2026-10-04 TE4]
+
+A technique's card carries three named mastery marks, Held, Drilled and Mastered, each lowering its Readiness and cost share by figures set on that card, and each crossing needs a shown cause entered in the chapter-end block.
+
+> Mastery marks on the card. Three named marks, Held, Drilled and Mastered; each lowers Readiness and cost share by figures set on that card, each crossing a shown cause entered in the chapter-end block.
+
+### R75-12-WHAT_VOW_WORTH [Techniques Law 2026-10-04 TE5]
+
+A vow may lift a technique's delivered output no higher than the top of its own Grade band, at a point set on the card; a great vow that stakes life, a limb's use or Crystal mass may lift it one full Grade and nothing lifts it further; a release call stacks on top.
+
+> A great vow, one Grade. As A, and a great vow, one that stakes life, a limb's use or Crystal mass, may lift output one full Grade; nothing lifts it further. A release call stacks on top.
+
+### R75-15-WHEN_TRAIT_FORMS [Techniques Law 2026-10-04 TE8]
+
+A new Trait forms only at one of canon's four Resonance Events, written as its own scene, with no count cap, the scale of the event being the only limit.
+
+> Canon's four, on the page. A new Trait forms only at one of the four events, written as its own scene; no count cap, the scale of the event is the limit.
+
+### R75-18-HOW_TRAIT_EVOLVES [Techniques Law 2026-10-04 TE11]
+
+When a Trait evolves, the new law takes the shape of the sentence the bearer holds in the crisis, Isaac writes that sentence for his own characters, and the Crystal prints the result.
+
+> The bearer's sentence. The evolved law takes the shape of the sentence the bearer holds in the crisis; for your characters you write that sentence, and the Crystal prints the result.
+
+### R75-19-NEW_RESONANT_PAIRS [Techniques Law 2026-10-04 TE12]
+
+A new Resonant Pair may be proposed when a build reaches a combination canon's ten lack, with real mechanism, Grade and effect and the absence shown as R18-2 asks, and it binds once ratified.
+
+> New, by R18-2's test. R18-2 extends to Pairs: a new one may be proposed when a build reaches a combination the ten lack, with real mechanism, Grade and effect; it binds once ratified.
+
+### R75-24-LEARNING_BY_WATCHING [Techniques Law 2026-10-04 TE17]
+
+A character who witnessed a technique may re-derive it in downtime if he holds its Wellsprings and meets its FOW line, and it then runs at his stats and becomes his own, under his own name.
+
+> Re-derived after watching. A witnessed technique may be re-derived in downtime if the watcher holds its Wellsprings and meets its FOW line; it runs at his stats and becomes his own, with his own name.
+
+### R75-25-ONE_CARD_SHAPE [Techniques Law 2026-10-04 CH1]
+
+Every full character card opens with a one-screen head above its seventeen sections, carrying the header, the stat line, the combat grammar (Verdict, Blade, Percussion or Expenditure), the Traits and techniques by name each with its tell and counter, and the voice sample line, and Natalie fights from that head.
+
+> A table head, then sections. A one-screen head above the seventeen: header, stat line, combat grammar (Verdict, Blade, Percussion or Expenditure), Traits and techniques by name with tell and counter, the voice sample line. Natalie fights from the head.
+
+### R75-26-RUNGS_OF_PERSON [Techniques Law 2026-10-04 CH2]
+
+A person climbs three rungs, a roster entry, then a short card (header, FOW line, Traits by name, one signature technique with tell and counter, voice block and Lore), then a full card, and today's compact cards become short cards.
+
+> Three rungs. Roster entry; a short card (header, FOW line, Traits by name, one signature technique with tell and counter, voice block, Lore); a full card. Today's compact cards become short cards.
+
+### R75-27-WHAT_LIFTS_RUNG [Techniques Law 2026-10-04 CH3]
+
+A person gets at least a short card before the first scene whose outcome his stats must decide, a spared rival who returns under R70-104 gets a full card, and anyone whose head a scene sits in gets a full card before that scene.
+
+> Yes to: Stats decide a scene (The first time his stats must decide an outcome on the page, he gets at least a short card before that scene is written); Becomes a rival (A rival under R70-104, spared and returning, gets a full card, since his growth and his debts must be traced); Holds a POV (Anyone whose head a scene sits in gets a full card first, since his readouts come from his own sheet).
+
+### R75-28-HOW_MUCH_SHEET [Techniques Law 2026-10-04 CH4]
+
+A full card carries all sixty-four Sub-Stats and the Pool, each unset Sub-Stat spent inside the re-costed totals along the Path and logged (Isaac's characters' as R75-29 decides), while a short card carries Primary totals and the peaks a scene will stress.
+
+> Sixty-four on full cards. Full cards carry all sixty-four and the Pool, unset ones spent inside the re-costed totals along the Path and logged, your characters' as CH5 decides; short cards carry Primary totals and the peaks a scene will stress.
+
+### R75-29-WHO_SPENDS_LEVEL_POINTS [Techniques Law 2026-10-04 CH5]
+
+When a Level lands Isaac spends his own characters' points, build talk welcome, and Natalie spends each NPC's points where that Level was earned (a Level won by the sword feeds the sword), logged in the changes block.
+
+> He builds his own. You spend your characters' points at each Level, build talk welcome; Natalie spends each NPC's where the Level was earned (a Level won by the sword feeds the sword), logged in the changes block.
+
+### R75-30-FOUR_CARDS_PAST_GATE [Techniques Law 2026-10-04 CH6]
+
+The four Kharven cast cards standing past a Band gate their Stage has not opened (Lorn Stark, Edward Lambert, Bram Greymane, Heisuke) each keep their Level with standing Residual Strain, priced by Fracture of Worlds Part Ten at XP five percent lower and Overchannel and Backlash risk two percent higher per fifty Levels past, and Lorn and Heisuke owe one step now.
+
+> Outliers with Strain. R56-4 extended: each keeps his Level with standing Residual Strain, priced by Part Ten (XP five percent lower, Overchannel and Backlash risk two percent higher, per fifty Levels past). Lorn and Heisuke owe one step now.
+
+### R75-31-MARKING_ESTIMATE [Techniques Law 2026-10-04 CH7]
+
+A card marks a figure canon does not supply with the one inline mark '(est.)' after the figure and nothing more, the six marking styles in use collapsing into that one.
+
+> Tag it inline. One mark, '(est.)', after the figure and nothing more; the six styles collapse into one.
+
+### R75-35-SKILLS_ON_CARD [Techniques Law 2026-10-04 CH18]
+
+A card gets a Skills section after Techniques where each skill names its cues or mechanics, where it was learned and the Sub-Stats that price it, grows only as those Sub-Stats grow, and carries TE4's three marks (Held, Drilled, Mastered), each crossing a shown cause entered in the chapter-end block, and the Crystal never prints them.
+
+> Skills section, with marks. As A, and each skill carries TE4's three marks (Held, Drilled, Mastered), each crossing a shown cause entered in the chapter-end block. The Crystal never prints them.
+
+### R75-37-RIVAL_BETWEEN_MEETINGS [Techniques Law 2026-10-04 CH12]
+
+A rival's growth between meetings runs on a Front, a world clock that ticks between sessions, each tick naming its cause, and his return shows that growth in the room and in what the POV was told.
+
+> His own clock, shown. A rival's growth runs on a Front (a world clock that ticks between sessions); each tick names its cause, and his return shows it in the room and in what the POV was told.
+
+### R75-38-OLD_FEAT_TOO_BIG [Techniques Law 2026-10-04 CH13]
+
+When converted material claims a feat the new numbers cannot carry, the feat stays and the card names how it was done (an Overchannel spike, a Domain, a site's Wellspring) and the cost it charged, logged on the Ledger.
+
+> Keep it, explain it. The feat stays and the card names how (an Overchannel spike, a Domain, a site's Wellspring) and the cost it charged, logged on the Ledger.
+
+### R75-39-XP_AS_ARITHMETIC [Techniques Law 2026-10-04 CH14]
+
+XP binds as arithmetic, a tally of priced XP events, for Isaac's characters and for full cards, while for everyone else the XP table only sets the scale of how fast each Band moves.
+
+> Sums for the carded. Arithmetic for your characters and full cards, the scale for everyone else.
+
+### R75-40-WHAT_TRAINING_PAYS [Techniques Law 2026-10-04 CH15]
+
+Training named in downtime pays XP only where it carries real risk, at Fracture of Worlds Part Two's own rates with comfortable repetition decaying toward nothing, or as a drill sworn as an oath before a Witness Stone, which pays Part Two's oath XP on swearing and on fulfilment and is a strain event if broken.
+
+> Edge, or a sworn drill. A, and a drill sworn as an oath before a Witness Stone pays Part Two's oath XP on swearing and on fulfilment; a broken drill is a strain event. Solo Leveling's contract in FOW's terms.
+
+### R75-41-RECORD_OF_CLIMB [Techniques Law 2026-10-04 CH16]
+
+A card records its bearer's climb in an XP bar (XP held and XP to the next Level, from the R75-39 tally where the card keeps one), a Level log (each Level with its cause and scene, fed from the chapter-end changes blocks) and a Stage ledger (each Stage with its Catalyst, re-assay, witnesses and date, one line of story each, set above the prose Temperance Record, which stays).
+
+> Yes to: XP bar (XP held and XP to the next Level, from CH14's tally where the card keeps one, so a reader of the card knows how near the next readout is); Level log (Each Level with its cause and the scene it happened in, fed from the chapter-end changes blocks); Stage ledger (Each Stage with its Catalyst, re-assay, witnesses and date, one line of story each, set above the prose Temperance Record, which stays).
+
+### R75-42-NEXT_GATE [Techniques Law 2026-10-04 CH17]
+
+Every card carries a line naming its bearer's next Stage, that Stage's Fracture of Worlds Catalyst and any Band gate ahead, NPC cards adding the crisis the Fronts are building and Isaac's characters' cards naming only the Catalyst.
+
+> Next gate, every card. A line names the next Stage, its FOW Catalyst and any Band gate ahead. NPC cards add the crisis the Fronts are building; your characters' cards name only FOW's Catalyst.
+
+### R75-44-WHAT_JOINS_CARD_SWEEP [Techniques Law 2026-10-04 ME2]
+
+The sweep of names and numbers owed across all 284 cards also applies the one '(est.)' mark to every card and drops the flags the Level law has since made exact, reads each Lore against its card body (fixing name drift and sending any other contradiction to CONFLICTS.md for the docket), and takes em and en dashes out of card bodies and Lore.
+
+> Yes to: One estimate mark (CH7's answer applied to every card, and flags the Level law has since made exact (Borin's, Yoko's reserves) dropped); Lore against body (Each Lore read against its card body; name drift is fixed, and any other contradiction goes to CONFLICTS.md for the docket); Dashes out (Em and en dashes taken out of card bodies and Lore, carrying the prose ban from the page to the sheet).
+
+## verification (126)
 
 ### R20C-3-SWEEP_TWO_TIERS [Pack Twenty R20C-3]
 
@@ -18979,6 +19759,12 @@ The table work runs in order: log the law, change the tools and reconcile the da
 
 > Law and tools, two tests. Log the law, change the tools and reconcile the data; run one Desktop session start to close and one Discord scene through the full loop; amend; then the skills.
 
+### R75-47-PROOF_AND_ORDER [Techniques Law 2026-10-04 ME4]
+
+The work runs in order: log the law and rebuild the converter and the card skeleton, make the three test cards through them, play a scene where one of them decides a fight, amend, and only then run the sweep and the rebuilds.
+
+> Law and tools, then test. Log the law and rebuild the converter and skeleton; make the three test cards through them; play a scene where one decides a fight; amend; then sweep and rebuilds.
+
 ### R48-14-DEPTH [Writing Law 2026-09-26 Research-grounded techniques]
 
 Research depth: name the real phenomenon and its fault; lighter scenes, less time per working.
@@ -19051,7 +19837,7 @@ When the partner thinks a beat is drifting or a rule reads wrong, it says so in 
 
 > When the partner thinks a beat is drifting or a rule reads wrong, it says so in one plain line and keeps writing unless stopped.
 
-## worldbuilding (357)
+## worldbuilding (358)
 
 ### R20C-1-BURI_DEAD_EVERYWHERE [Pack Twenty R20C-1]
 
@@ -20978,6 +21764,12 @@ Vohrin is one power at two levels, Titan and Wellspring; frost workings drawing 
 A debt in his favour becomes a Ledger line he can call in later on terms, as his own debts are called; access and licence (a draw allotment, a Guild licence, a key, a seat at a table) are rights on paper that open doors and can be revoked; and spoils taken or given (a dead man's blade, a horse, a proofed rifle) arrive with their lineage while the Ledger keeps who wants them back.
 
 > Yes to: Favours owed him (A debt in his favour becomes a Ledger line he can call in later, on terms, the way his own debts are called); Access and licence (A draw allotment, a Guild licence, a key, a seat at a table: rights on paper that open doors and can be revoked); Spoils with a history (Things taken or given (a dead man's blade, a horse, a proofed rifle) arrive with their lineage (R70-48), and the Ledger keeps who wants them back).
+
+### R75-8-LADDER_OF_FORMS [Techniques Law 2026-10-04 TE1]
+
+Western and Kharven schools run short ladders of forms like Liechtenauer's, the lineage halls and the Korean-stratum houses keep long catalogues, and each school's page sets its own count.
+
+> By the school's culture. Western and Kharven schools run short ladders like Liechtenauer's; the lineage halls and the Korean-stratum houses keep long catalogues. Each school's page sets its count.
 
 ### R28-1-BLACK_STONES_SHALE_ANALOGUE [Voidfall Stone / Black Stones Ruling Standing Ruling]
 

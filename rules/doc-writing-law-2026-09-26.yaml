@@ -80,7 +80,10 @@ rules:
     preferred, and em dashes are banned outright. Keep that?
     Partly amended by R71-18-FIGHT_SOUNDS_LIKE (combat law 2026-10-04): in a fight an impact''s
     sound is carried by the POV culture''s native sound words, and comparisons are kept for the held
-    instant (R70-57-DESCRIPTION_INSIDE_FIGHT).'
+    instant (R70-57-DESCRIPTION_INSIDE_FIGHT).
+    Extended by R75-44-WHAT_JOINS_CARD_SWEEP (techniques law 2026-10-04): the dash ban is carried
+    from the page to the sheet, and the card sweep takes em and en dashes out of card bodies and
+    Lore.'
 - id: R48-04-METAPHORS
   pack: Writing Law 2026-09-26
   pack_number: null

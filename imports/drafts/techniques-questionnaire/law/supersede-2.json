@@ -1,0 +1,98 @@
+[
+ {
+  "old_id": "R14-8-CHARACTER_SHEET_FOW_LINE",
+  "action": "note",
+  "by": "R75-25-ONE_CARD_SHAPE",
+  "r75_quote": "A one-screen head above the seventeen: header, stat line, combat grammar (Verdict, Blade, Percussion or Expenditure), Traits and techniques by name with tell and counter, the voice sample line.",
+  "old_text": "Character sheet template. Unchanged in sections; §X Techniques gains the FOW line.",
+  "note_text": "Partly amended by R75-25-ONE_CARD_SHAPE (techniques law 2026-10-04): every full card gains a one-screen head above the seventeen sections (header, stat line, combat grammar, Traits and techniques by name with tell and counter, the voice sample line); the sections stand whole beneath it and each technique keeps its FOW line."
+ },
+ {
+  "old_id": "R14-8-CHARACTER_SHEET_FOW_LINE",
+  "action": "note",
+  "by": "R75-35-SKILLS_ON_CARD",
+  "r75_quote": "Skills section, with marks. As A, and each skill carries TE4's three marks (Held, Drilled, Mastered)",
+  "old_text": "Character sheet template. Unchanged in sections; §X Techniques gains the FOW line.",
+  "note_text": "Partly amended by R75-35-SKILLS_ON_CARD (techniques law 2026-10-04): the template gains a Skills section after Techniques, each skill naming its cues or mechanics, where it was learned and the Sub-Stats that price it, and carrying the three marks Held, Drilled and Mastered; the other sections and the Techniques FOW line stand."
+ },
+ {
+  "old_id": "R17-5-SKILL_SCOPE",
+  "action": "note",
+  "by": "R75-35-SKILLS_ON_CARD",
+  "r75_quote": "Skills section, with marks. As A, and each skill carries TE4's three marks (Held, Drilled, Mastered)",
+  "old_text": "Skills state their operating principle at the level of the body. A read is a real cognitive operation on real cues, and the entry names the cues. A martial skill is mechanics, measure and tempo, and the entry names them.",
+  "note_text": "Extended by R75-35-SKILLS_ON_CARD (techniques law 2026-10-04): a skill's entry sits in a Skills section after Techniques on the card, names its cues or mechanics as here and also where it was learned and the Sub-Stats that price it, grows only as those Sub-Stats grow, and carries the three marks Held, Drilled and Mastered, each crossing a shown cause entered in the chapter-end block; the Crystal never prints them."
+ },
+ {
+  "old_id": "R38-2-ORIGINATED_SHEETS_RECOST_TO_CURRENT_ALLOTMENT",
+  "action": "note",
+  "by": "R75-28-HOW_MUCH_SHEET",
+  "r75_quote": "Full cards carry all sixty-four and the Pool, unset ones spent inside the re-costed totals along the Path and logged, your characters' as CH5 decides",
+  "old_text": "Band I contributes 1,200 points. Band II, 1,500. Band III, 1,800. Band IV, 2,100. Band V, 2,400. Total from leveling at Level 500: 9,000 points. Threshold bonuses through Stage XIII total 9,100 points. Full lifetime pool through Stage XIII: approximately 18,100 points, spendable across sixty-three Sub-Stats, Throne excluded. The allotment was cut by two fifths from its original figures when the Sub-Stat count was consolidated from a hundred and twenty to sixty-four. The old pool was sized against a phantom count of twenty stats and produced an overabundance the ceiling could not absorb. The cut restores scarcity without making versatility a luxury.",
+  "note_text": "Extended by R75-28-HOW_MUCH_SHEET (techniques law 2026-10-04): on a full card the re-cost also spends each unset Sub-Stat inside the re-costed totals along the Path, logged, Isaac's characters' by Isaac (R75-29-WHO_SPENDS_LEVEL_POINTS); a short card carries Primary totals and the peaks a scene will stress. The allotment, the trim and the Threshold grants stand."
+ },
+ {
+  "old_id": "R56-4-PAST_THE_GATE_WITH_STRAIN",
+  "action": "note",
+  "by": "R75-30-FOUR_CARDS_PAST_GATE",
+  "r75_quote": "R56-4 extended: each keeps his Level with standing Residual Strain, priced by Part Ten (XP five percent lower, Overchannel and Backlash risk two percent higher, per fifty Levels past). Lorn and Heisuke owe one step now.",
+  "old_text": "Anomalies, with Strain: Sodoku (Level 320, Stage VI) and Krothar (Level 380, Stage VIII) keep their Levels as in-world outliers. Each card gains standing Residual Strain from the breach, and Krothar's Band name becomes 'IV — Mythic'.",
+  "note_text": "Extended by R75-30-FOUR_CARDS_PAST_GATE (techniques law 2026-10-04): 'R56-4 extended'. Lorn Stark, Edward Lambert, Bram Greymane and Heisuke also keep Levels past a Band gate their Stage has not opened, as outliers with standing Residual Strain priced by Fracture of Worlds Part Ten (XP five percent lower, Overchannel and Backlash risk two percent higher, per fifty Levels past); Lorn and Heisuke owe one step now. Sodoku's and Krothar's outliers stand."
+ },
+ {
+  "old_id": "R14-2-ESTIMATE_MARKING",
+  "action": "note",
+  "by": "R75-31-MARKING_ESTIMATE",
+  "r75_quote": "Tag it inline. One mark, '(est.)', after the figure and nothing more; the six styles collapse into one.",
+  "old_text": "Where a value is not on any sheet, it is written in the author notes as an estimate inside the documented range for that Stage and Band, and marked as such. It is never invented to feel right. Memory rule twenty-six governs and this pack restates it because the failure recurs.",
+  "note_text": "Partly amended by R75-31-MARKING_ESTIMATE (techniques law 2026-10-04): on a character card a figure canon does not supply prints with the one inline mark '(est.)' after it and nothing more; the documented range for the Stage and Band still bounds it, and a scene that uses it still logs it in its author notes."
+ },
+ {
+  "old_id": "R52-03-VOICE_BLOCK",
+  "action": "note",
+  "by": "R75-32-NEW_VOICE_BLOCK_SLOTS",
+  "r75_quote": "Yes to: Speaker type (The researched real-world model (a customs clerk, a field surgeon, a drover) moves from the notes onto the card, so every return starts from the same voice); Chant tongue (The tongue his chants and release calls run in (his own under R50-26, or a learned one under R70-26, as Kwon's Accord Latin), so Borin's Latin forge-liturgy is caught and fixed); Lying tell (What his body does when he lies or withholds, the body kind of R49-36's three tells, so the frequent lies of R48-42 can be caught by a player who reads bodies).",
+  "old_text": "Every major card carries a full voice block with fixed slots: notices first, sentence length, contractions, pet word, never says, stumbles or not, stress shift, grief shift, joy shift, one sample line.",
+  "note_text": "Partly amended by R75-32-NEW_VOICE_BLOCK_SLOTS (techniques law 2026-10-04): the voice block gains three slots: speaker type (the researched real-world model), chant tongue (the tongue his chants and release calls run in) and lying tell (what his body does when he lies or withholds). The ten slots stand."
+ },
+ {
+  "old_id": "R52-29-NPC_RECIPE",
+  "action": "note",
+  "by": "R75-32-NEW_VOICE_BLOCK_SLOTS",
+  "r75_quote": "Speaker type (The researched real-world model (a customs clerk, a field surgeon, a drover) moves from the notes onto the card, so every return starts from the same voice)",
+  "old_text": "Each NPC's voice starts from a researched real-world speaker type (a customs clerk's forms, a field surgeon's triage talk, a drover's calls), credited in the notes.",
+  "note_text": "Partly amended by R75-32-NEW_VOICE_BLOCK_SLOTS (techniques law 2026-10-04): the researched real-world speaker type moves from the notes onto the card as a voice-block slot, so every return starts from the same voice; each NPC's voice still starts from it."
+ },
+ {
+  "old_id": "R70-90-FAST_NUMBERS_CLIMB",
+  "action": "note",
+  "by": "R75-37-RIVAL_BETWEEN_MEETINGS",
+  "r75_quote": "A rival's growth runs on a Front (a world clock that ticks between sessions); each tick names its cause, and his return shows it in the room and in what the POV was told.",
+  "old_text": "Event-bound. Numbers move only for a cause the reader was shown: a FOW XP event on the page, or training named in a downtime turn.",
+  "note_text": "Partly amended by R75-37-RIVAL_BETWEEN_MEETINGS (techniques law 2026-10-04): a rival's numbers may also move between sessions on a Front tick that names its cause, the growth shown at his return in the room and in what the POV was told."
+ },
+ {
+  "old_id": "R70-90-FAST_NUMBERS_CLIMB",
+  "action": "note",
+  "by": "R75-40-WHAT_TRAINING_PAYS",
+  "r75_quote": "Edge, or a sworn drill. A, and a drill sworn as an oath before a Witness Stone pays Part Two's oath XP on swearing and on fulfilment; a broken drill is a strain event. Solo Leveling's contract in FOW's terms.",
+  "old_text": "Event-bound. Numbers move only for a cause the reader was shown: a FOW XP event on the page, or training named in a downtime turn.",
+  "note_text": "Partly amended by R75-40-WHAT_TRAINING_PAYS (techniques law 2026-10-04): training named in a downtime turn pays XP only at the edge, where it carries real risk, at Fracture of Worlds Part Two's rates (comfortable repetition decays toward nothing), or as a drill sworn as an oath before a Witness Stone, which pays Part Two's oath XP on swearing and on fulfilment and is a strain event if broken."
+ },
+ {
+  "old_id": "R48-03-SIMILES",
+  "action": "note",
+  "by": "R75-44-WHAT_JOINS_CARD_SWEEP",
+  "r75_quote": "Dashes out (Em and en dashes taken out of card bodies and Lore, carrying the prose ban from the page to the sheet)",
+  "old_text": "Loosen similes only: a good simile is welcome when it earns its place; em dashes stay banned.",
+  "note_text": "Extended by R75-44-WHAT_JOINS_CARD_SWEEP (techniques law 2026-10-04): the dash ban is carried from the page to the sheet, and the card sweep takes em and en dashes out of card bodies and Lore."
+ },
+ {
+  "old_id": "R7-5-COST_AUDIT",
+  "action": "note",
+  "by": "R75-46-OLD_ENTRIES_FAILING_LAW",
+  "r75_quote": "Each card an agent ruling. As A, and each card's changed lines go through log_ruling as one agent ruling that quotes them and names its grounds, so you read them in CONTINUE.md and may overturn any.",
+  "old_text": "The cost audit. Working estimate is that sixty percent of existing technique entries fail the test that overuse-strains-him is not a cost. Every failure needs a real category from the wheel: something the character still carries when nobody is fighting. This is the largest and most valuable job on the docket.",
+  "note_text": "Partly amended by R75-46-OLD_ENTRIES_FAILING_LAW (techniques law 2026-10-04): the audit runs card by card in the rebuild order of R75-45-WHICH_CARDS_FIRST; each failing cost, counter or What nobody knows line is re-derived from its mechanism, the old line quoted in the rebuild's report and never on the card, and each card's changed lines go through log_ruling as one agent ruling, its grounds named, which Isaac may overturn."
+ }
+]

@@ -1,0 +1,82 @@
+[
+ {
+  "old_id": "R47-4-LEDGER_COSTS",
+  "action": "note",
+  "by": "R75-1-WHERE_TECHNIQUE_WRITTEN",
+  "r75_quote": "A signature, or any art one person derived alone, gets its own page priced at its owner's exact reserve; a school art lives once on its school's page, priced by Stage band.",
+  "old_text": "A new ability's cost is a share of full reserve. Its EU and joule figures are read off the Essence Ledger's bands for its Stage, and its Grade off the joules to Grade to tier spine.",
+  "note_text": "Partly amended by R75-1-WHERE_TECHNIQUE_WRITTEN (techniques law 2026-10-04): a school art is still priced off the Essence Ledger's band for its Stage, on its school's page; a signature, or any art one person derived alone, is priced at its owner's exact reserve on its own page."
+ },
+ {
+  "old_id": "R70-84-GROWTH_MOMENTS_THAT_EARN",
+  "action": "note",
+  "by": "R75-5-TECHNIQUES_ON_CRYSTAL",
+  "r75_quote": "Adds a fifth growth moment to R70-84: the first time a Trait-permitted signature holds, one inline Crystal line names it, its Trait and its Grade. School arts never print.",
+  "old_text": "Yes to: Level gained (A short readout when a Level lands, with the stat points it brought. The genre's heartbeat, and the most frequent of the four); Stage breakthrough (A readout naming the new Stage and its Tier of Standing when the Catalyst completes. The cultivation novel's big moment); New Trait (A readout naming the Trait when it registers. Rare, and each one changes what a character can do); Wellspring contact (A readout at first contact with a new Wellspring current (FOW's Resonant Surge) and at a harmonisation. Growth tied to a place).",
+  "note_text": "Partly amended by R75-5-TECHNIQUES_ON_CRYSTAL (techniques law 2026-10-04): 'Adds a fifth growth moment to R70-84'. The first time a Trait-permitted signature holds, one inline Crystal line names it, its Trait and its Grade; school arts never print. The four moments here stand."
+ },
+ {
+  "old_id": "R17-3-COUNTER_MANDATORY",
+  "action": "note",
+  "by": "R75-6-COUNTER_FAIRNESS_TEST",
+  "r75_quote": "The written counter is within reach of a prepared practitioner of the technique's own Stage; a counter that needs a higher Stage or a rare Wellspring fails the card",
+  "old_text": "Counter. Mandatory on Signature techniques. It falls out of the Operation or it is not a counter. If the counter is hit him harder, the technique has no mechanism.",
+  "note_text": "Partly amended by R75-6-COUNTER_FAIRNESS_TEST (techniques law 2026-10-04): a counter still falls out of the Operation, and the card stands only when it also passes three tests: within reach of a prepared practitioner of the technique's own Stage (no higher Stage or rare Wellspring), resting on law someone already knows, and named before, during and after contact."
+ },
+ {
+  "old_id": "R70-74-TECHNIQUE_NAME_LOOKS",
+  "action": "note",
+  "by": "R75-11-DRILL_MASTERY",
+  "r75_quote": "Three named marks, Held, Drilled and Mastered; each lowers Readiness and cost share by figures set on that card, each crossing a shown cause entered in the chapter-end block.",
+  "old_text": "Yes to: Numbered forms by school (A school's art may run as numbered forms (First Form, Second Form), each named, called and counted; mastery reads as forms held, a ladder inside the art at R8-23's form level); Long names for the halls (Lineage-hall and Korean-stratum arts may carry a four-syllable true name in correct Chinese or Korean, glossed literally (R8-22); R50-11's two-word cap binds new English names only). Not taken: Brackets inside sentences.",
+  "note_text": "Partly amended by R75-11-DRILL_MASTERY (techniques law 2026-10-04): mastery of a school's art still reads as forms held, and each technique's card now also carries three mastery marks (Held, Drilled, Mastered) that lower its Readiness and cost share by figures set on that card, each crossing a shown cause entered in the chapter-end block."
+ },
+ {
+  "old_id": "R47-4-LEDGER_COSTS",
+  "action": "note",
+  "by": "R75-11-DRILL_MASTERY",
+  "r75_quote": "each lowers Readiness and cost share by figures set on that card",
+  "old_text": "A new ability's cost is a share of full reserve. Its EU and joule figures are read off the Essence Ledger's bands for its Stage, and its Grade off the joules to Grade to tier spine.",
+  "note_text": "Partly amended by R75-11-DRILL_MASTERY (techniques law 2026-10-04): 'each lowers Readiness and cost share by figures set on that card'. A technique is still priced as a share of full reserve when it is designed; each mastery mark it crosses (Held, Drilled, Mastered) lowers that share by a figure set on its card, each crossing for a shown cause. The pricing at design stands."
+ },
+ {
+  "old_id": "R71-32-VOWS_LIMITS",
+  "action": "note",
+  "by": "R75-12-WHAT_VOW_WORTH",
+  "r75_quote": "A great vow, one Grade. As A, and a great vow, one that stakes life, a limb's use or Crystal mass, may lift output one full Grade; nothing lifts it further. A release call stacks on top.",
+  "old_text": "Narrowing buys output. A vow that narrows a technique raises its output through Attraction Force, by a figure you set on that card; breaking it is a Shear Break. The vow's terms are its findable counter.",
+  "note_text": "Partly amended by R75-12-WHAT_VOW_WORTH (techniques law 2026-10-04): the figure set on the card is bounded: a vow lifts delivered output up to the top of the technique's own Grade band, never across it, and a great vow that stakes life, a limb's use or Crystal mass may lift it one full Grade, nothing further; a release call stacks on top."
+ },
+ {
+  "old_id": "R71-32-VOWS_LIMITS",
+  "action": "note",
+  "by": "R75-13-WHAT_ELSE_VOW_MAY_BE",
+  "r75_quote": "A vow may stake life, a limb's use or Crystal mass; broken, the stake is paid at once and for good (R55-1).",
+  "old_text": "Narrowing buys output. A vow that narrows a technique raises its output through Attraction Force, by a figure you set on that card; breaking it is a Shear Break. The vow's terms are its findable counter.",
+  "note_text": "Partly amended by R75-13-WHAT_ELSE_VOW_MAY_BE (techniques law 2026-10-04): a vow may also stake life, a limb's use or Crystal mass, paid at once and for good when broken (R55-1), and two people may bind each other, each card carrying the terms and whoever breaks them taking the Shear Break."
+ },
+ {
+  "old_id": "R71-32-VOWS_LIMITS",
+  "action": "note",
+  "by": "R75-14-HOW_VOW_SWORN",
+  "r75_quote": "A vow binds when spoken before any living witness, the opponent included; it earns oath experience only at a stone.",
+  "old_text": "Narrowing buys output. A vow that narrows a technique raises its output through Attraction Force, by a figure you set on that card; breaking it is a Shear Break. The vow's terms are its findable counter.",
+  "note_text": "Partly amended by R75-14-HOW_VOW_SWORN (techniques law 2026-10-04): a vow binds when spoken aloud before any living witness, the opponent included, and earns oath experience only at a stone; somebody always heard, so its counter can be found by asking."
+ },
+ {
+  "old_id": "R17-5-TRAIT_SCOPE",
+  "action": "note",
+  "by": "R75-17-TRAIT_ENTRY_CARRIES",
+  "r75_quote": "Founding sentence (The statement the Continuum accepted, in the bearer's words, yours to write for your characters as in TE11. Denying it is the Shear Break, so every Trait carries a findable counter)",
+  "old_text": "Traits state what they change about the practitioner's substrate. A Trait that reads he is harder to kill is not a Trait. A Trait that specifies the Lattice property altered, and therefore which injuries behave differently and which behave identically, is one.",
+  "note_text": "Partly amended by R75-17-TRAIT_ENTRY_CARRIES (techniques law 2026-10-04): beside the Lattice property, every Trait entry also carries its founding sentence (whose denial is the Shear Break), a rigidity line stating what the bearer cannot safely contradict, and the offices it holds, a Permission line listing the signatures it allows."
+ },
+ {
+  "old_id": "R18-2-NO_NEW_CATEGORY_WITHOUT_CHECK",
+  "action": "note",
+  "by": "R75-19-NEW_RESONANT_PAIRS",
+  "r75_quote": "R18-2 extends to Pairs: a new one may be proposed when a build reaches a combination the ten lack, with real mechanism, Grade and effect; it binds once ratified.",
+  "old_text": "No new Wellspring, Family, Physics Domain, Archon, Titan, Glyph Class, Tier or alchemical Type may be proposed until the existing enumeration has been read and the absence demonstrated. A proposal that does not name what was checked and why it failed is not a proposal.",
+  "note_text": "Partly amended by R75-19-NEW_RESONANT_PAIRS (techniques law 2026-10-04): 'R18-2 extends to Pairs'. A new Resonant Pair may be proposed only under this test, when a build reaches a combination canon's ten lack, with real mechanism, Grade and effect, and it binds once ratified."
+ }
+]

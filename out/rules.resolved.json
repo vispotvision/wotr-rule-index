@@ -3529,7 +3529,7 @@
       "file": "",
       "lines": null
     },
-    "notes": "The verbatim is Part Three's \"The Full Point Economy\" passage (wiki/Fracture of Worlds — The Living System/I. Levels, Experience and Stat Points (Parts One–Three).md, Part Three), whose per-Band totals (1,200 / 1,500 / 1,800 / 2,100 / 2,400) are the current per-Level table (12 / 15 / 18 / 21 / 24, concentration cap 5 / 5 / 8 / 10 / 12 per Sub-Stat per level-up) times a hundred Levels. The originated sheets were built on the old figures: Gorrath, Zarron, Xanelor and Juno each write \"Band III at 30 per level\" and \"Bands I–II contribute 4,500\" (20 and 25 per Level), and Iskaron writes \"Band IV at 35 per level\"; those pools are two-fifths too large against the text as it now stands. Isaac ruled the sheets are re-costed rather than the text grandfathered. The Threshold grants (Stage × 100, Part Three: \"Temperance Threshold events grant bonus Stat Points equal to the Stage number multiplied by 100\") are unchanged and stay in the pool. Scope: every originated sheet costed on the pre-cut allotment, including the seven whose Stages were ratified on 2026-09-12 and Xanelor Rafminar (ratified the same morning); the ratification lines on those cards do not carry stat values for this reason. The re-cost itself is a separate pass with its own spec and target list; no stat number was changed by this row.",
+    "notes": "The verbatim is Part Three's \"The Full Point Economy\" passage (wiki/Fracture of Worlds — The Living System/I. Levels, Experience and Stat Points (Parts One–Three).md, Part Three), whose per-Band totals (1,200 / 1,500 / 1,800 / 2,100 / 2,400) are the current per-Level table (12 / 15 / 18 / 21 / 24, concentration cap 5 / 5 / 8 / 10 / 12 per Sub-Stat per level-up) times a hundred Levels. The originated sheets were built on the old figures: Gorrath, Zarron, Xanelor and Juno each write \"Band III at 30 per level\" and \"Bands I–II contribute 4,500\" (20 and 25 per Level), and Iskaron writes \"Band IV at 35 per level\"; those pools are two-fifths too large against the text as it now stands. Isaac ruled the sheets are re-costed rather than the text grandfathered. The Threshold grants (Stage × 100, Part Three: \"Temperance Threshold events grant bonus Stat Points equal to the Stage number multiplied by 100\") are unchanged and stay in the pool. Scope: every originated sheet costed on the pre-cut allotment, including the seven whose Stages were ratified on 2026-09-12 and Xanelor Rafminar (ratified the same morning); the ratification lines on those cards do not carry stat values for this reason. The re-cost itself is a separate pass with its own spec and target list; no stat number was changed by this row. Extended by R75-28-HOW_MUCH_SHEET (techniques law 2026-10-04): on a full card the re-cost also spends each unset Sub-Stat inside the re-costed totals along the Path, logged, Isaac's characters' by Isaac (R75-29-WHO_SPENDS_LEVEL_POINTS); a short card carries Primary totals and the peaks a scene will stress. The allotment, the trim and the Threshold grants stand.",
     "superseded_by": []
   },
   {
@@ -5156,7 +5156,7 @@
       "file": "",
       "lines": null
     },
-    "notes": "Recorded in RULINGS.md under 2026-09-26 — Ability Law (R47).",
+    "notes": "Recorded in RULINGS.md under 2026-09-26 — Ability Law (R47). Partly amended by R75-1-WHERE_TECHNIQUE_WRITTEN (techniques law 2026-10-04): a school art is still priced off the Essence Ledger's band for its Stage, on its school's page; a signature, or any art one person derived alone, is priced at its owner's exact reserve on its own page. Partly amended by R75-11-DRILL_MASTERY (techniques law 2026-10-04): 'each lowers Readiness and cost share by figures set on that card'. A technique is still priced as a share of full reserve when it is designed; each mastery mark it crosses (Held, Drilled, Mastered) lowers that share by a figure set on its card, each crossing for a shown cause. The pricing at design stands.",
     "superseded_by": []
   },
   {
@@ -5404,7 +5404,7 @@
       "file": "",
       "lines": null
     },
-    "notes": "Question w03: Right now similes ('like', 'as if') are rationed and metaphor is preferred, and em dashes are banned outright. Keep that? Partly amended by R71-18-FIGHT_SOUNDS_LIKE (combat law 2026-10-04): in a fight an impact's sound is carried by the POV culture's native sound words, and comparisons are kept for the held instant (R70-57-DESCRIPTION_INSIDE_FIGHT).",
+    "notes": "Question w03: Right now similes ('like', 'as if') are rationed and metaphor is preferred, and em dashes are banned outright. Keep that? Partly amended by R71-18-FIGHT_SOUNDS_LIKE (combat law 2026-10-04): in a fight an impact's sound is carried by the POV culture's native sound words, and comparisons are kept for the held instant (R70-57-DESCRIPTION_INSIDE_FIGHT). Extended by R75-44-WHAT_JOINS_CARD_SWEEP (techniques law 2026-10-04): the dash ban is carried from the page to the sheet, and the card sweep takes em and en dashes out of card bodies and Lore.",
     "superseded_by": []
   },
   {
@@ -10859,7 +10859,7 @@
       "file": "",
       "lines": null
     },
-    "notes": "Question c03: Voices sit on the cards in any shape: Lambert has a page-long essay, Kwon a table row, Kujo and Ilthara have no card voice at all. Disfluency and gloss rights are already card fields. Should every maj Corrected 2026-09-27 by the ruling audit (RULINGS.md, ruling-audit-2026-09-27) to state exactly what Isaac chose. Gloss rights is not a voice-block slot, but it stays a separate card field (R20C-49-GLOSS_RIGHTS_CARD_FIELD). Unchanged by R70-108-EASTERN_REGISTER_SPEECH_SOUNDS (style law 2026-10-03), which keeps Chinese and Korean speakers in natural English day to day and brings out translated forms only at ceremony, challenge, oath, court and insult.",
+    "notes": "Question c03: Voices sit on the cards in any shape: Lambert has a page-long essay, Kwon a table row, Kujo and Ilthara have no card voice at all. Disfluency and gloss rights are already card fields. Should every maj Corrected 2026-09-27 by the ruling audit (RULINGS.md, ruling-audit-2026-09-27) to state exactly what Isaac chose. Gloss rights is not a voice-block slot, but it stays a separate card field (R20C-49-GLOSS_RIGHTS_CARD_FIELD). Unchanged by R70-108-EASTERN_REGISTER_SPEECH_SOUNDS (style law 2026-10-03), which keeps Chinese and Korean speakers in natural English day to day and brings out translated forms only at ceremony, challenge, oath, court and insult. Partly amended by R75-32-NEW_VOICE_BLOCK_SLOTS (techniques law 2026-10-04): the voice block gains three slots: speaker type (the researched real-world model), chant tongue (the tongue his chants and release calls run in) and lying tell (what his body does when he lies or withholds). The ten slots stand.",
     "superseded_by": []
   },
   {
@@ -11695,7 +11695,7 @@
       "file": "",
       "lines": null
     },
-    "notes": "Question c29: The NPC builder's voice slot is: what they notice first, sentence length, one discourse marker, one Inventory saying, what they never say, gloss rights. Your brief lets the partner draw on real-world ",
+    "notes": "Question c29: The NPC builder's voice slot is: what they notice first, sentence length, one discourse marker, one Inventory saying, what they never say, gloss rights. Your brief lets the partner draw on real-world Partly amended by R75-32-NEW_VOICE_BLOCK_SLOTS (techniques law 2026-10-04): the researched real-world speaker type moves from the notes onto the card as a voice-block slot, so every return starts from the same voice; each NPC's voice still starts from it.",
     "superseded_by": []
   },
   {
@@ -14651,7 +14651,7 @@
       "file": "",
       "lines": null
     },
-    "notes": "",
+    "notes": "Extended by R75-30-FOUR_CARDS_PAST_GATE (techniques law 2026-10-04): 'R56-4 extended'. Lorn Stark, Edward Lambert, Bram Greymane and Heisuke also keep Levels past a Band gate their Stage has not opened, as outliers with standing Residual Strain priced by Fracture of Worlds Part Ten (XP five percent lower, Overchannel and Backlash risk two percent higher, per fifty Levels past); Lorn and Heisuke owe one step now. Sodoku's and Krothar's outliers stand.",
     "superseded_by": []
   },
   {
@@ -27081,7 +27081,7 @@
       "file": "",
       "lines": null
     },
-    "notes": "Numbered forms sit at R8-23-NAME_HIERARCHY's form level; the gloss follows R8-22-LITERAL_GLOSS. R50-11-LONG_NAMES's two-word cap binds new English names only, as its wording already says. R50-10-NAME_STYLE and R49-48-TECH_NAMES stand.",
+    "notes": "Numbered forms sit at R8-23-NAME_HIERARCHY's form level; the gloss follows R8-22-LITERAL_GLOSS. R50-11-LONG_NAMES's two-word cap binds new English names only, as its wording already says. R50-10-NAME_STYLE and R49-48-TECH_NAMES stand. Partly amended by R75-11-DRILL_MASTERY (techniques law 2026-10-04): mastery of a school's art still reads as forms held, and each technique's card now also carries three mastery marks (Held, Drilled, Mastered) that lower its Readiness and cost share by figures set on that card, each crossing a shown cause entered in the chapter-end block.",
     "superseded_by": []
   },
   {
@@ -27473,7 +27473,7 @@
       "file": "",
       "lines": null
     },
-    "notes": "Works with R70-89-BODY_FIRST_NUMBER_FIRST (body first, line after), R70-91-BREAKTHROUGH_PAGE (when the breakthrough line lands), R70-80-READOUT_SITS_PAGE (a breakthrough earns a set-off block), R70-86-MANY_READOUTS_SCENE_CARRIES (the per-scene cap) and R70-90-FAST_NUMBERS_CLIMB (each gain needs a shown cause). Every figure traces to the sheet (R12-5-NEVER_INVENT_NUMBER). No older rule is reached. Partly amended by R73-37-BOND_GROWS (intimacy law 2026-10-04): at the Stage IV, Flourishing breakthrough the readout also names its Catalyst, the first Spirit Axis, with no figure; no other bond prints. The four moments here stand.",
+    "notes": "Works with R70-89-BODY_FIRST_NUMBER_FIRST (body first, line after), R70-91-BREAKTHROUGH_PAGE (when the breakthrough line lands), R70-80-READOUT_SITS_PAGE (a breakthrough earns a set-off block), R70-86-MANY_READOUTS_SCENE_CARRIES (the per-scene cap) and R70-90-FAST_NUMBERS_CLIMB (each gain needs a shown cause). Every figure traces to the sheet (R12-5-NEVER_INVENT_NUMBER). No older rule is reached. Partly amended by R73-37-BOND_GROWS (intimacy law 2026-10-04): at the Stage IV, Flourishing breakthrough the readout also names its Catalyst, the first Spirit Axis, with no figure; no other bond prints. The four moments here stand. Partly amended by R75-5-TECHNIQUES_ON_CRYSTAL (techniques law 2026-10-04): 'Adds a fifth growth moment to R70-84'. The first time a Trait-permitted signature holds, one inline Crystal line names it, its Trait and its Grade; school arts never print. The four moments here stand.",
     "superseded_by": []
   },
   {
@@ -27714,7 +27714,7 @@
       "file": "",
       "lines": null
     },
-    "notes": "Carries R14-3-TRACEABILITY's logic from fight outcomes to growth; R14-3-TRACEABILITY itself is unchanged. The training montage of R70-18-ARC_SHAPES is one way to name training.",
+    "notes": "Carries R14-3-TRACEABILITY's logic from fight outcomes to growth; R14-3-TRACEABILITY itself is unchanged. The training montage of R70-18-ARC_SHAPES is one way to name training. Partly amended by R75-37-RIVAL_BETWEEN_MEETINGS (techniques law 2026-10-04): a rival's numbers may also move between sessions on a Front tick that names its cause, the growth shown at his return in the room and in what the POV was told. Partly amended by R75-40-WHAT_TRAINING_PAYS (techniques law 2026-10-04): training named in a downtime turn pays XP only at the edge, where it carries real risk, at Fracture of Worlds Part Two's rates (comfortable repetition decays toward nothing), or as a drill sworn as an oath before a Witness Stone, which pays Part Two's oath XP on swearing and on fulfilment and is a strain event if broken.",
     "superseded_by": []
   },
   {
@@ -29194,7 +29194,7 @@
       "file": "",
       "lines": null
     },
-    "notes": "MC6. The output figure is set card by card and never invented (R12-5-NEVER_INVENT_NUMBER); a vow whose card carries no figure buys nothing yet. Attraction Force gives the narrowing the mechanical source R17-3-LIMIT_MECHANICAL asks of a limit, so that row stands. Shear Break and Attraction Force are canon's terms (the Counterplay page and Fracture of Worlds). The terms are a counter written as fact (R47-3-COUNTERS_AS_FACTS). The disclosure option (telling the opponent as a binding) was not taken, so R8-26-NO_SELF_TRANSLATION and R12-4-VOICE_THREE_OPPONENT stand unchanged. No older rule is reached.",
+    "notes": "MC6. The output figure is set card by card and never invented (R12-5-NEVER_INVENT_NUMBER); a vow whose card carries no figure buys nothing yet. Attraction Force gives the narrowing the mechanical source R17-3-LIMIT_MECHANICAL asks of a limit, so that row stands. Shear Break and Attraction Force are canon's terms (the Counterplay page and Fracture of Worlds). The terms are a counter written as fact (R47-3-COUNTERS_AS_FACTS). The disclosure option (telling the opponent as a binding) was not taken, so R8-26-NO_SELF_TRANSLATION and R12-4-VOICE_THREE_OPPONENT stand unchanged. No older rule is reached. Partly amended by R75-12-WHAT_VOW_WORTH (techniques law 2026-10-04): the figure set on the card is bounded: a vow lifts delivered output up to the top of the technique's own Grade band, never across it, and a great vow that stakes life, a limb's use or Crystal mass may lift it one full Grade, nothing further; a release call stacks on top. Partly amended by R75-13-WHAT_ELSE_VOW_MAY_BE (techniques law 2026-10-04): a vow may also stake life, a limb's use or Crystal mass, paid at once and for good when broken (R55-1), and two people may bind each other, each card carrying the terms and whoever breaks them taking the Shear Break. Partly amended by R75-14-HOW_VOW_SWORN (techniques law 2026-10-04): a vow binds when spoken aloud before any living witness, the opponent included, and earns oath experience only at a stone; somebody always heard, so its counter can be found by asking.",
     "superseded_by": []
   },
   {
@@ -36085,6 +36085,1570 @@
     "superseded_by": []
   },
   {
+    "id": "R75-1-WHERE_TECHNIQUE_WRITTEN",
+    "pack": "Techniques Law 2026-10-04",
+    "pack_number": null,
+    "section": "K1",
+    "title": "Signatures on their own pages, school arts on the school page",
+    "status": "live",
+    "kind": "mandate",
+    "summary": "Give each signature, and any art one person derived alone, its own page priced at its owner's exact reserve, keep each school art once on its school's page priced by Stage band, and link the card's technique rows to either page.",
+    "verbatim": "Signatures own, arts shared. A signature, or any art one person derived alone, gets its own page priced at its owner's exact reserve; a school art lives once on its school's page, priced by Stage band. The card's rows link to either.",
+    "amends": [
+      {
+        "guide": "WOTR_Ability_Technique_Design_Guide.md",
+        "locus": "technique pages: signature pages and school pages",
+        "operation": "adds"
+      },
+      {
+        "guide": "character sheet template",
+        "locus": "Techniques section",
+        "operation": "extends"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "magic-design",
+      "character-sheet",
+      "stats"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-10-04, Claude Code chat: ruled directly (the techniques questionnaire)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "K1. Partly amends R47-4-LEDGER_COSTS: a school art is still priced off the Essence Ledger's band for its Stage, while a signature, or any art one person derived alone, is priced at its owner's exact reserve. R47-2-FIELD_FORMAT stands: both kinds of page use the field format, and the card carries rows that link to them. The split follows R12-3-NAMED_INVENTOR_RULE, which stands: an art on its school's page is documented and counterable by study, and a self-derived art is read live. R18-3-ENTRY_AS_CANDIDATE_ROW stands for every page. The answer does not say whether a card row repeats the FOW line R14-8-CHARACTER_SHEET_FOW_LINE puts in the sheet's Techniques section; that row stands. Read with R75-23-WHAT_SCHOOL_KEEPS_BACK (in the world a school writes only its lower forms), R75-17-TRAIT_ENTRY_CARRIES (a Trait's Permission line lists the signatures it allows) and R75-25-ONE_CARD_SHAPE (the card's head names techniques with tell and counter).",
+    "superseded_by": []
+  },
+  {
+    "id": "R75-10-TECHNIQUE_GROWS_TO_GRADE",
+    "pack": "Techniques Law 2026-10-04",
+    "pack_number": null,
+    "section": "TE3",
+    "title": "A technique's output grows with the reserve up to its Grade",
+    "status": "live",
+    "kind": "definition",
+    "summary": "A technique's output rises with its owner's reserve until it reaches the top of the Grade it was designed in, and growing past that takes an escalated form with its suffix and a shown cause.",
+    "verbatim": "Grows to its Grade. Output rises with the reserve until it reaches the top of the Grade it was designed in; past that it needs an escalated form, with its suffix and a shown cause.",
+    "amends": [
+      {
+        "guide": "WOTR_Ability_Technique_Design_Guide.md",
+        "locus": "technique card format: output and its design Grade",
+        "operation": "adds"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "magic-design",
+      "stats",
+      "naming"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-10-04, Claude Code chat: ruled directly (the techniques questionnaire)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "TE3. R47-4-LEDGER_COSTS stands: the cost is still a share of full reserve, which buys more joules as the Essence Ledger's Level law raises the reserve, and the Grade the technique was designed in, read off the joules to Grade spine, is where its output stops growing. The escalated form takes R50-14-ESCALATION's suffix in the art's own tongue under R8-25-ESCALATION_SUFFIX, both standing, and its cause is R70-90-FAST_NUMBERS_CLIMB's, standing. Vows lift delivered output under R75-12-WHAT_VOW_WORTH. No older rule is reached.",
+    "superseded_by": []
+  },
+  {
+    "id": "R75-11-DRILL_MASTERY",
+    "pack": "Techniques Law 2026-10-04",
+    "pack_number": null,
+    "section": "TE4",
+    "title": "Three mastery marks on a technique's card",
+    "status": "live",
+    "kind": "definition",
+    "summary": "A technique's card carries three named mastery marks, Held, Drilled and Mastered, each lowering its Readiness and cost share by figures set on that card, and each crossing needs a shown cause entered in the chapter-end block.",
+    "verbatim": "Mastery marks on the card. Three named marks, Held, Drilled and Mastered; each lowers Readiness and cost share by figures set on that card, each crossing a shown cause entered in the chapter-end block.",
+    "amends": [
+      {
+        "guide": "WOTR_Ability_Technique_Design_Guide.md",
+        "locus": "technique card format: mastery marks",
+        "operation": "adds"
+      },
+      {
+        "guide": "NATALIE.md and the wotr-write skill",
+        "locus": "Documents: scenes as markdown files with author notes",
+        "operation": "extends"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "magic-design",
+      "stats",
+      "character-sheet"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-10-04, Claude Code chat: ruled directly (the techniques questionnaire)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "TE4. Partly amends R70-74-TECHNIQUE_NAME_LOOKS, where mastery reads as forms held: forms held still measure mastery of a school's art, and each technique now also carries its own marks (the option keeping mastery to forms held and stats was not taken). Partly amends R47-4-LEDGER_COSTS: a technique is still priced as a share of full reserve when it is designed, and each mark it crosses lowers that share by a figure set on its card. The figures are set on the card, never invented (R12-5-NEVER_INVENT_NUMBER). Each crossing needs R70-90-FAST_NUMBERS_CLIMB's shown cause and is entered in R70-98-SHEETS_CHAPTER_ARC_ENDS's changes block; both stand. The lowered Readiness is the card figure R71-28-DECIDES_CASTING_SPEED reads, which stands. The answer adds no readout moment; R70-84-GROWTH_MOMENTS_THAT_EARN stands.",
+    "superseded_by": []
+  },
+  {
+    "id": "R75-12-WHAT_VOW_WORTH",
+    "pack": "Techniques Law 2026-10-04",
+    "pack_number": null,
+    "section": "TE5",
+    "title": "A vow lifts output within its Grade; a great vow lifts one Grade",
+    "status": "live",
+    "kind": "budget",
+    "summary": "A vow may lift a technique's delivered output no higher than the top of its own Grade band, at a point set on the card; a great vow that stakes life, a limb's use or Crystal mass may lift it one full Grade and nothing lifts it further; a release call stacks on top.",
+    "verbatim": "A great vow, one Grade. As A, and a great vow, one that stakes life, a limb's use or Crystal mass, may lift output one full Grade; nothing lifts it further. A release call stacks on top.",
+    "amends": [
+      {
+        "guide": "WOTR_Ability_Technique_Design_Guide.md",
+        "locus": "technique card format: Limit and Counter (the vow)",
+        "operation": "extends"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "magic-design",
+      "stats",
+      "adjudication"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-10-04, Claude Code chat: ruled directly (the techniques questionnaire)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "TE5, option B, which builds on A. Option A reads: Capped at its Grade. A vow lifts delivered output up to the top of the technique's own Grade band, never across it; where inside the band is set on the card. A release call stacks on top. Partly amends R71-32-VOWS_LIMITS: a vow still raises output through Attraction Force by a figure set on the card, and that figure is now bounded by the technique's Grade band, or by one full Grade for a great vow. The Grades are canon's table (Hollow to EX+), so no figure is invented (R12-5-NEVER_INVENT_NUMBER). The release call is R8-24-RELEASE_MECHANIC's, which stands. R39-4-MAX_GRADE_LETTER_BINDS (the Sub-Stat Grade cap) stands. What a great vow stakes and what breaking it costs is R75-13-WHAT_ELSE_VOW_MAY_BE.",
+    "superseded_by": []
+  },
+  {
+    "id": "R75-13-WHAT_ELSE_VOW_MAY_BE",
+    "pack": "Techniques Law 2026-10-04",
+    "pack_number": null,
+    "section": "TE6",
+    "title": "Staked vows and vows between two",
+    "status": "live",
+    "kind": "definition",
+    "summary": "A vow may stake life, a limb's use or Crystal mass, paid at once and for good if it is broken, and two people may bind each other by a vow whose terms both cards carry, the one who breaks it taking the Shear Break.",
+    "verbatim": "Yes to: A stake beyond Shear Break (A vow may stake life, a limb's use or Crystal mass; broken, the stake is paid at once and for good (R55-1). Under TE5's B, only a staked vow reaches a full Grade); A vow between two (Two people bind each other; each card carries the terms, and whoever breaks them takes the Shear Break).",
+    "amends": [
+      {
+        "guide": "WOTR_Ability_Technique_Design_Guide.md",
+        "locus": "technique card format: Limit and Counter (the vow)",
+        "operation": "extends"
+      },
+      {
+        "guide": "character sheet template",
+        "locus": "Techniques section: a vow between two",
+        "operation": "adds"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "magic-design",
+      "magic-mechanism",
+      "character-sheet"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-10-04, Claude Code chat: ruled directly (the techniques questionnaire)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "TE6, options B and C, both recommended; A, a vow for one fight, was not taken. Partly amends R71-32-VOWS_LIMITS, where breaking a vow is a Shear Break: a staked vow also pays its stake when broken, and a vow may now bind two people. The stake is paid permanently under R55-1-SUBSTANCE_COSTS_PERMANENT, which stands. 'Under TE5's B, only a staked vow reaches a full Grade' (R75-12-WHAT_VOW_WORTH). A carded Synergia carries no vow (R75-20-CARDING_SYNERGIA), so a vow between two is a binding of its own. R17-3-LIMIT_MECHANICAL stands.",
+    "superseded_by": []
+  },
+  {
+    "id": "R75-14-HOW_VOW_SWORN",
+    "pack": "Techniques Law 2026-10-04",
+    "pack_number": null,
+    "section": "TE7",
+    "title": "A vow binds when spoken aloud before any living witness",
+    "status": "live",
+    "kind": "definition",
+    "summary": "A vow binds once it is spoken aloud before any living witness, the opponent included, earns oath experience only when sworn at a stone, and since somebody always heard it, its counter can be found by asking.",
+    "verbatim": "Aloud, any witness. A vow binds when spoken before any living witness, the opponent included; it earns oath experience only at a stone. Somebody always heard, so the counter can be found by asking.",
+    "amends": [
+      {
+        "guide": "WOTR_Ability_Technique_Design_Guide.md",
+        "locus": "technique card format: Limit and Counter (the vow)",
+        "operation": "extends"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "magic-mechanism",
+      "magic-design",
+      "dialogue"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-10-04, Claude Code chat: ruled directly (the techniques questionnaire)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "TE7. Partly amends R71-32-VOWS_LIMITS, which set no condition for a vow to bind: it now binds when spoken aloud before a living witness, and its terms stay its findable counter. Swearing before the opponent binds the vow; telling an opponent how a technique works still buys nothing, since R71-32 did not take disclosure as a binding, and R8-26-NO_SELF_TRANSLATION stands. The stone is canon's Witness Stone: Fracture of Worlds pays oath experience only for swearing before a Witness Stone or a Continuum-recognised binding. The counter is a fact found by asking (R47-3-COUNTERS_AS_FACTS and R12-3-NAMED_INVENTOR_RULE, both standing).",
+    "superseded_by": []
+  },
+  {
+    "id": "R75-15-WHEN_TRAIT_FORMS",
+    "pack": "Techniques Law 2026-10-04",
+    "pack_number": null,
+    "section": "TE8",
+    "title": "A new Trait forms only at one of canon's four events, on the page",
+    "status": "live",
+    "kind": "mandate",
+    "summary": "A new Trait forms only at one of canon's four Resonance Events, written as its own scene, with no count cap, the scale of the event being the only limit.",
+    "verbatim": "Canon's four, on the page. A new Trait forms only at one of the four events, written as its own scene; no count cap, the scale of the event is the limit.",
+    "amends": [
+      {
+        "guide": "WOTR_Ability_Technique_Design_Guide.md",
+        "locus": "§5, Traits",
+        "operation": "adds"
+      },
+      {
+        "guide": "NATALIE.md and the wotr-write skill",
+        "locus": "The Magic Frame",
+        "operation": "adds"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "stats",
+      "magic-design",
+      "scene-structure"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-10-04, Claude Code chat: ruled directly (the techniques questionnaire)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "TE8. Canon's four Resonance Events are trauma survived, Wellspring convergence, Temperance Insight (an inner conflict resolved so completely it becomes law), and rite or lineage invocation. No Threshold is required and no rate is set: the per-Stage cap and the Threshold-only options were not taken. The new Trait earns R70-84-GROWTH_MOMENTS_THAT_EARN's readout when it registers and needs R70-90-FAST_NUMBERS_CLIMB's shown cause, which its scene supplies; both stand. R71-37-TRAITS_THEY_FIRE (named at first fire) and R17-5-TRAIT_SCOPE stand. Who writes the Trait is R75-16-WHO_WRITES_PC_TRAIT; what its entry carries is R75-17-TRAIT_ENTRY_CARRIES. No older rule is reached.",
+    "superseded_by": []
+  },
+  {
+    "id": "R75-16-WHO_WRITES_PC_TRAIT",
+    "pack": "Techniques Law 2026-10-04",
+    "pack_number": null,
+    "section": "TE9",
+    "title": "Natalie writes a Trait in Isaac's character; it sticks when he keeps it",
+    "status": "live",
+    "kind": "procedure",
+    "summary": "When a Trait forms in Isaac's own character, Natalie writes its name, Reflection and Lattice property at the event, and it sticks only when Isaac keeps it, as a Third Name does.",
+    "verbatim": "Natalie writes, you keep. At the event Natalie writes name, Reflection (its kind) and Lattice property; it sticks only when you keep it, as a Third Name does.",
+    "amends": [
+      {
+        "guide": "Character cards, NATALIE.md and the wotr-npc skill",
+        "locus": "Isaac's own characters",
+        "operation": "adds"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "magic-design",
+      "character-sheet",
+      "naming"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-10-04, Claude Code chat: ruled directly (the techniques questionnaire)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "TE9. Follows R50-21-THIRD_NAMES's keep-or-strike, which stands. The belief a Trait states stays Isaac's to play (R49-01-WHOSE_HEAD, standing); as the question set it, an NPC's Traits are Natalie's to write either way. The restricted characters stay their creators' (R1-1-RESTRICTED_CHARACTERS_EXCLUDED, standing). The Lattice property is R17-5-TRAIT_SCOPE's, standing; the further lines every Trait entry carries are R75-17-TRAIT_ENTRY_CARRIES's, whose founding sentence Isaac writes for his own characters. No older rule is reached.",
+    "superseded_by": []
+  },
+  {
+    "id": "R75-17-TRAIT_ENTRY_CARRIES",
+    "pack": "Techniques Law 2026-10-04",
+    "pack_number": null,
+    "section": "TE10",
+    "title": "A Trait entry carries a founding sentence, a rigidity line and its offices",
+    "status": "live",
+    "kind": "mandate",
+    "summary": "Beside its Lattice property, every Trait entry carries its founding sentence in the bearer's words, a rigidity line stating as fact what the bearer cannot safely contradict, and the offices it holds, its Permission line listing the signatures it allows.",
+    "verbatim": "Yes to: Founding sentence (The statement the Continuum accepted, in the bearer's words, yours to write for your characters as in TE11. Denying it is the Shear Break, so every Trait carries a findable counter); Rigidity line (What the bearer cannot safely contradict, as a fact. NPCs play it on the page; for your characters it stays a fact for you to play); Offices held (Which of Bias, Permission, Nucleation and Ceiling it serves; a Permission line lists the signatures it allows).",
+    "amends": [
+      {
+        "guide": "WOTR_Ability_Technique_Design_Guide.md",
+        "locus": "§5, Traits",
+        "operation": "extends"
+      },
+      {
+        "guide": "character sheet template",
+        "locus": "Traits",
+        "operation": "extends"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "magic-design",
+      "character-sheet"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-10-04, Claude Code chat: ruled directly (the techniques questionnaire)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "TE10, options A, B and C, all recommended; D, the bodily mark and the condition that shows it, was not taken, so the entry gains no mark line and R10-3-TRAITUS_SHAPE stands. Partly amends R17-5-TRAIT_SCOPE: a Trait entry still names the Lattice property altered, and now also carries these three lines. Denying the founding sentence is the Shear Break, so every Trait carries a findable counter, written as a fact (R47-3-COUNTERS_AS_FACTS, standing); Isaac writes it for his own characters 'as in TE11' (R75-18-HOW_TRAIT_EVOLVES). The rigidity line is played on the page for NPCs and stays a fact Isaac plays for his own characters (R49-01-WHOSE_HEAD, standing). The four offices are canon's: Bias, Permission, Nucleation and Ceiling. The Permission line ties signatures (R75-1-WHERE_TECHNIQUE_WRITTEN, R75-5-TECHNIQUES_ON_CRYSTAL) to their Trait.",
+    "superseded_by": []
+  },
+  {
+    "id": "R75-18-HOW_TRAIT_EVOLVES",
+    "pack": "Techniques Law 2026-10-04",
+    "pack_number": null,
+    "section": "TE11",
+    "title": "An evolving Trait takes the shape of the bearer's sentence",
+    "status": "live",
+    "kind": "definition",
+    "summary": "When a Trait evolves, the new law takes the shape of the sentence the bearer holds in the crisis, Isaac writes that sentence for his own characters, and the Crystal prints the result.",
+    "verbatim": "The bearer's sentence. The evolved law takes the shape of the sentence the bearer holds in the crisis; for your characters you write that sentence, and the Crystal prints the result.",
+    "amends": [
+      {
+        "guide": "WOTR_Ability_Technique_Design_Guide.md",
+        "locus": "§5, Traits",
+        "operation": "extends"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "magic-design",
+      "stats",
+      "magic-mechanism"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-10-04, Claude Code chat: ruled directly (the techniques questionnaire)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "TE11. Canon names three evolutions: Fusion (two Traits merge into one law) and Ascension (a Trait becomes Domain Law) take this shape, and Overgrowth stays a failure. The crisis is the breakthrough's (R70-91-BREAKTHROUGH_PAGE, standing); the Crystal's print is a readout, and R70-84-GROWTH_MOMENTS_THAT_EARN and R70-86-MANY_READOUTS_SCENE_CARRIES stand. For Isaac's characters the sentence is his (R49-01-WHOSE_HEAD, standing), and R75-17-TRAIT_ENTRY_CARRIES has him write the founding sentence 'as in TE11'. R17-5-TRAIT_SCOPE stands for the evolved Trait's entry. No older rule is reached.",
+    "superseded_by": []
+  },
+  {
+    "id": "R75-19-NEW_RESONANT_PAIRS",
+    "pack": "Techniques Law 2026-10-04",
+    "pack_number": null,
+    "section": "TE12",
+    "title": "New Resonant Pairs by R18-2's test",
+    "status": "live",
+    "kind": "procedure",
+    "summary": "A new Resonant Pair may be proposed when a build reaches a combination canon's ten lack, with real mechanism, Grade and effect and the absence shown as R18-2 asks, and it binds once ratified.",
+    "verbatim": "New, by R18-2's test. R18-2 extends to Pairs: a new one may be proposed when a build reaches a combination the ten lack, with real mechanism, Grade and effect; it binds once ratified.",
+    "amends": [
+      {
+        "guide": "WOTR_Ability_Technique_Design_Guide.md",
+        "locus": "Resonant Pairs: proposing a new Pair",
+        "operation": "adds"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "stats",
+      "codex",
+      "magic-design"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-10-04, Claude Code chat: ruled directly (the techniques questionnaire)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "TE12. 'R18-2 extends to Pairs': partly amends R18-2-NO_NEW_CATEGORY_WITHOUT_CHECK, whose list (Wellspring, Family, Physics Domain, Archon, Titan, Glyph Class, Tier, alchemical Type) gains Resonant Pairs, so a proposed Pair names what was checked and why the ten fail. Canon's ten are Fracture of Worlds Part Nine's and stay the base; a proposed Pair does not bind until ratified. R20C-33-RESONANT_PAIRS_DIAGNOSTIC, R71-38-RESONANT_PAIR_UNDER_STRAIN and R14-8-ABILITY_GUIDE_FOW_LINE (a Resonant Pair on the FOW line) stand. R18-2-CODEX_FIRST_MANDATE is not reached.",
+    "superseded_by": []
+  },
+  {
+    "id": "R75-2-DESIGNED_OR_FOUND",
+    "pack": "Techniques Law 2026-10-04",
+    "pack_number": null,
+    "section": "K2",
+    "title": "A technique's core is carded before it first fires",
+    "status": "live",
+    "kind": "mandate",
+    "summary": "Before a technique first fires its card holds its mechanism, cost, limit, tell and counter, and its name, forms, Readiness, evolutions and What nobody knows line are filled in afterward from what play showed.",
+    "verbatim": "Core first, rest found. Before first fire the card holds mechanism, cost, limit, tell and counter. Name, forms, Readiness (its casting-time figure), evolutions and What nobody knows fill in from what play showed.",
+    "amends": [
+      {
+        "guide": "WOTR_Ability_Technique_Design_Guide.md",
+        "locus": "technique card format: what the card holds before first fire",
+        "operation": "adds"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "magic-design",
+      "character-sheet",
+      "magic-mechanism"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-10-04, Claude Code chat: ruled directly (the techniques questionnaire)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "K2. A floor before a technique's debut, not a new format: R47-2-FIELD_FORMAT stands and the entry grows into it. The tell and counter are real before the fight, so R12-3-NAMED_INVENTOR_RULE's live read and R71-30-HELD_BACK_REVEAL's planted evidence rest on a true mechanism; both stand. R17-3-COUNTER_MANDATORY and R12-3-COUNTER_MANDATORY stand. Readiness filling in from play matches R71-28-DECIDES_CASTING_SPEED ('precision grows as cards are filled'), which stands: until the card's figure is set the Alacrity row decides. The What nobody knows line keeps R17-3-WHAT_NOBODY_KNOWS_SCOPE's scope. Figures filled in from play are never invented (R12-5-NEVER_INVENT_NUMBER). A sketch Isaac gives for his own character comes back whole at once (R75-3-SKETCH_TO_CARD), and every Counter passes R75-6-COUNTER_FAIRNESS_TEST. No older rule is reached.",
+    "superseded_by": []
+  },
+  {
+    "id": "R75-20-CARDING_SYNERGIA",
+    "pack": "Techniques Law 2026-10-04",
+    "pack_number": null,
+    "section": "TE13",
+    "title": "A Synergia lives on one shared page",
+    "status": "live",
+    "kind": "mandate",
+    "summary": "A drilled Synergia is carded on one technique page that carries both partners, the drill that made it, the cost split and the counter, both partners' cards link to it, and no vow binds the pair.",
+    "verbatim": "Drilled, one shared page. One technique page carries both partners, the drill that made it, the cost split and the counter; both cards link to it; no vow.",
+    "amends": [
+      {
+        "guide": "WOTR_Ability_Technique_Design_Guide.md",
+        "locus": "Synergia techniques: the shared card (cost split and counter)",
+        "operation": "extends"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "magic-design",
+      "character-sheet",
+      "combat"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-10-04, Claude Code chat: ruled directly (the techniques questionnaire)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "TE13. Gives R71-39-ALLIES_WORKING_TOGETHER's carded Synergia its page; that row stands (allies chain by default, no improvised fusion), and canon's Lexicon still asks compatible Attraction Layers. The drill is R70-90-FAST_NUMBERS_CLIMB's shown cause, standing. The counter is R17-3-COUNTER_MANDATORY's, standing, and passes R75-6-COUNTER_FAIRNESS_TEST. As the question set it, Isaac's character enters a Synergia only by his choice (R49-01-WHOSE_HEAD, standing). The vowed option was not taken; two people may still bind each other by a vow of its own (R75-13-WHAT_ELSE_VOW_MAY_BE). Its names are R75-21-NAMING_TWO_TONGUE_ART's. No older rule is reached.",
+    "superseded_by": []
+  },
+  {
+    "id": "R75-21-NAMING_TWO_TONGUE_ART",
+    "pack": "Techniques Law 2026-10-04",
+    "pack_number": null,
+    "section": "TE14",
+    "title": "A two-tongue Synergia carries both names and two calls",
+    "status": "live",
+    "kind": "mandate",
+    "summary": "When a Synergia's partners speak different tongues, its card carries both names, each glossed, and in a fight each partner calls it in his own tongue, two calls in one beat.",
+    "verbatim": "Each calls his own. The card carries both names, each glossed; in a fight each partner calls it in his own tongue, two calls in one beat.",
+    "amends": [
+      {
+        "guide": "Naming guide and the wotr-write skill",
+        "locus": "Techniques, arts and items",
+        "operation": "extends"
+      },
+      {
+        "guide": "WOTR_Ability_Technique_Design_Guide.md",
+        "locus": "Synergia techniques: the shared card (cost split and counter)",
+        "operation": "extends"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "naming",
+      "combat",
+      "dialogue"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-10-04, Claude Code chat: ruled directly (the techniques questionnaire)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "TE14. Applies R8-21-NAME_IN_OWN_LANGUAGE to both owners and R8-22-LITERAL_GLOSS to both names; both stand. R50-11-LONG_NAMES's two-word cap binds either name only where it is new English, and R70-74-TECHNIQUE_NAME_LOOKS stands for hall names. R8-24-RELEASE_MECHANIC and R71-29-OFTEN_ART_RELEASED stand. No older rule is reached.",
+    "superseded_by": []
+  },
+  {
+    "id": "R75-22-OWN_TECHNIQUES_COMBINED",
+    "pack": "Techniques Law 2026-10-04",
+    "pack_number": null,
+    "section": "TE15",
+    "title": "One man's two techniques may be derived into a carded composite",
+    "status": "live",
+    "kind": "definition",
+    "summary": "A practitioner may derive two of his own techniques into a third, carded art with its own cost, counter and new name, costing at least the sum of its parts, while chaining them stays free.",
+    "verbatim": "A carded composite art. Two of his techniques may be derived into a third, carded art with its own cost, counter and new name; it costs at least the sum of its parts. Chaining stays free.",
+    "amends": [
+      {
+        "guide": "WOTR_Ability_Technique_Design_Guide.md",
+        "locus": "composite arts",
+        "operation": "adds"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "magic-design",
+      "character-sheet",
+      "naming"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-10-04, Claude Code chat: ruled directly (the techniques questionnaire)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "TE15. R71-39-ALLIES_WORKING_TOGETHER rules fusion between allies and stands; this answer covers one man's own techniques, and the composite is a carded art, never an improvised fusion. Its new name is a new art's (R8-25-ESCALATION_SUFFIX, standing), not an escalation suffix. It is derived (R12-3-NAMED_INVENTOR_RULE, standing) and arrives with R75-7-WHAT_OPENS_TECHNIQUE's cause. Its cost is still derived from its mechanism (R17-3-COST_DERIVED, standing), with the sum of its parts as a floor. Its card meets R75-2-DESIGNED_OR_FOUND and R75-6-COUNTER_FAIRNESS_TEST. No older rule is reached.",
+    "superseded_by": []
+  },
+  {
+    "id": "R75-23-WHAT_SCHOOL_KEEPS_BACK",
+    "pack": "Techniques Law 2026-10-04",
+    "pack_number": null,
+    "section": "TE16",
+    "title": "A school keeps its last form back, taught mouth to ear",
+    "status": "live",
+    "kind": "definition",
+    "summary": "A school writes down its lower forms and teaches its last form mouth to ear, so outside the school that form counts as self-derived and is read live.",
+    "verbatim": "The last form withheld. A school writes its lower forms and teaches its last form mouth to ear; outside the school that form counts as self-derived and is read live.",
+    "amends": [
+      {
+        "guide": "WOTR_Ability_Technique_Design_Guide.md",
+        "locus": "school pages: the ladder of forms",
+        "operation": "extends"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "magic-design",
+      "combat",
+      "adjudication"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-10-04, Claude Code chat: ruled directly (the techniques questionnaire)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "TE16. Applies R12-3-NAMED_INVENTOR_RULE, which stands: a school's lower forms are documented and counterable by anyone who studied them, and its last form is read live. The model is the old Japanese schools' kuden (oral transmission) and okuden (inner teaching). The ladder is R70-74-TECHNIQUE_NAME_LOOKS's numbered forms, its length set under R75-8-LADDER_OF_FORMS; the school is named under R50-24-SCHOOL_NAMES. R71-30-HELD_BACK_REVEAL stands. The school's page (R75-1-WHERE_TECHNIQUE_WRITTEN) is the table's record; the answer does not say whether the last form's card sits on it. No older rule is reached.",
+    "superseded_by": []
+  },
+  {
+    "id": "R75-24-LEARNING_BY_WATCHING",
+    "pack": "Techniques Law 2026-10-04",
+    "pack_number": null,
+    "section": "TE17",
+    "title": "A witnessed technique may be re-derived in downtime",
+    "status": "live",
+    "kind": "definition",
+    "summary": "A character who witnessed a technique may re-derive it in downtime if he holds its Wellsprings and meets its FOW line, and it then runs at his stats and becomes his own, under his own name.",
+    "verbatim": "Re-derived after watching. A witnessed technique may be re-derived in downtime if the watcher holds its Wellsprings and meets its FOW line; it runs at his stats and becomes his own, with his own name.",
+    "amends": [
+      {
+        "guide": "WOTR_Ability_Technique_Design_Guide.md",
+        "locus": "gaining a technique",
+        "operation": "extends"
+      },
+      {
+        "guide": "NATALIE.md and the wotr-write skill",
+        "locus": "Downtime",
+        "operation": "extends"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "magic-design",
+      "stats",
+      "adjudication"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-10-04, Claude Code chat: ruled directly (the techniques questionnaire)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "TE17. The copy runs on the watcher's own Sub-Stats (R47-10-STATS_ARE_THE_CASTERS) and inherits the failures of the Wellsprings it draws on (R47-9-INHERITED_FAILURES); both stand. The downtime turn is the training R70-90-FAST_NUMBERS_CLIMB names, standing. Read with R75-7-WHAT_OPENS_TECHNIQUE (the FOW line met and a cause on the page). R12-3-NAMED_INVENTOR_RULE stands. No older rule is reached.",
+    "superseded_by": []
+  },
+  {
+    "id": "R75-25-ONE_CARD_SHAPE",
+    "pack": "Techniques Law 2026-10-04",
+    "pack_number": null,
+    "section": "CH1",
+    "title": "Every full card opens on a one-screen table head",
+    "status": "live",
+    "kind": "mandate",
+    "summary": "Every full character card opens with a one-screen head above its seventeen sections, carrying the header, the stat line, the combat grammar (Verdict, Blade, Percussion or Expenditure), the Traits and techniques by name each with its tell and counter, and the voice sample line, and Natalie fights from that head.",
+    "verbatim": "A table head, then sections. A one-screen head above the seventeen: header, stat line, combat grammar (Verdict, Blade, Percussion or Expenditure), Traits and techniques by name with tell and counter, the voice sample line. Natalie fights from the head.",
+    "amends": [
+      {
+        "guide": "character sheet template",
+        "locus": "Card head: a one-screen table above the seventeen sections",
+        "operation": "adds"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "character-sheet",
+      "stats",
+      "combat",
+      "adjudication"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-10-04, Claude Code chat: ruled directly (the techniques questionnaire)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "CH1. Options A (the seventeen sections alone, updated) and C (Cozbi Mahuo's merged layout) were not taken, so the converter's fourteen-heading skeleton, which names Cozbi's layout as its format reference, is the one rebuilt to this shape (R75-43-WHERE_TECHNIQUE_LAW_LANDS, R75-47-PROOF_AND_ORDER). The seventeen sections (NATALIE.md: Identity through Fracture Log) stay whole beneath the head. Partly amends R14-8-CHARACTER_SHEET_FOW_LINE ('Unchanged in sections'): the template gains the head above its sections; each technique keeps its FOW line. The head's combat grammar is the one R71-69-GRAMMAR_GUN_BENCH_FIELD has each card name; its sample line is R52-03-VOICE_BLOCK's 'one sample line' slot; tells and counters are written as facts (R47-3-COUNTERS_AS_FACTS); the techniques named there link to the pages R75-1-WHERE_TECHNIQUE_WRITTEN sets. Table Rule 5 settles a fight from the rows R14-3-STATS_DECIDE_TABLE names, which the head puts on one screen. R58-12-AS_OF_LINE_ON_EVERY_CARD and R54-11-CARD_HEADER_AT_A_MOMENT stand for the header. A short card carries its own shorter list (R75-26-RUNGS_OF_PERSON).",
+    "superseded_by": []
+  },
+  {
+    "id": "R75-26-RUNGS_OF_PERSON",
+    "pack": "Techniques Law 2026-10-04",
+    "pack_number": null,
+    "section": "CH2",
+    "title": "Three rungs: roster entry, short card, full card",
+    "status": "live",
+    "kind": "definition",
+    "summary": "A person climbs three rungs, a roster entry, then a short card (header, FOW line, Traits by name, one signature technique with tell and counter, voice block and Lore), then a full card, and today's compact cards become short cards.",
+    "verbatim": "Three rungs. Roster entry; a short card (header, FOW line, Traits by name, one signature technique with tell and counter, voice block, Lore); a full card. Today's compact cards become short cards.",
+    "amends": [
+      {
+        "guide": "Character cards, NATALIE.md and the wotr-npc skill",
+        "locus": "The rungs of a person: roster entry, short card, full card",
+        "operation": "adds"
+      },
+      {
+        "guide": "character sheet template",
+        "locus": "Short card",
+        "operation": "adds"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "character-sheet",
+      "stats"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-10-04, Claude Code chat: ruled directly (the techniques questionnaire)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "CH2. Options A (two rungs, compact cards filled out to full) and C (shape by role) were not taken. Below the first rung R50-27-NEW_NPC_NAME stands: a new person is a role until they speak twice or matter. The roster entry is the record the wotr-npc skill builds (want, refusal, knows, lie, voice, body, stat line, per the question's context), as R61-16-FURVEUS_IS_A_ROSTER_NPC and R61-23-CASSIAN_AULT_ROSTER_NPC rule for two people, and R61-17-GILLUS_GETS_FULL_CARD is a full card; those case rulings stand and now sit on named rungs. The archive's hundred-odd compact cards become short cards; the Kharven header cards, which the question sets beside them, are not named by the answer and are rebuilt to a rung in R75-45-WHICH_CARDS_FIRST's order. A short card's voice block is the R52-03-VOICE_BLOCK block, which that row requires on every major card. What lifts a person a rung is R75-27-WHAT_LIFTS_RUNG; how much of the stat sheet each rung carries is R75-28-HOW_MUCH_SHEET; the full card's shape is R75-25-ONE_CARD_SHAPE.",
+    "superseded_by": []
+  },
+  {
+    "id": "R75-27-WHAT_LIFTS_RUNG",
+    "pack": "Techniques Law 2026-10-04",
+    "pack_number": null,
+    "section": "CH3",
+    "title": "A deciding fight, a returning rival or a POV lifts a person",
+    "status": "live",
+    "kind": "mandate",
+    "summary": "A person gets at least a short card before the first scene whose outcome his stats must decide, a spared rival who returns under R70-104 gets a full card, and anyone whose head a scene sits in gets a full card before that scene.",
+    "verbatim": "Yes to: Stats decide a scene (The first time his stats must decide an outcome on the page, he gets at least a short card before that scene is written); Becomes a rival (A rival under R70-104, spared and returning, gets a full card, since his growth and his debts must be traced); Holds a POV (Anyone whose head a scene sits in gets a full card first, since his readouts come from his own sheet).",
+    "amends": [
+      {
+        "guide": "Character cards, NATALIE.md and the wotr-npc skill",
+        "locus": "Lifting a person a rung",
+        "operation": "adds"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "character-sheet",
+      "stats",
+      "adjudication",
+      "pov"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-10-04, Claude Code chat: ruled directly (the techniques questionnaire)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "CH3, multi-select (A, C, D taken; B, a third scene on the page, not taken, so a scene count lifts nobody). The question's context keeps Isaac's word able to lift anyone at any time, whatever the triggers. A stats-decided scene reads the rows R14-3-STATS_DECIDE_TABLE names; a POV's readouts come from his own sheet (R70-78-WHERE_SCREEN_COMES_FROM); a rival's growth and debts are traced on his card, read with R75-37-RIVAL_BETWEEN_MEETINGS. R70-104-RIVAL_BOND stands: the rival still recurs only by a mercy paid for on the Ledger, and the full card follows that return. R42-7-FOUR_PATHS stands. The rungs are R75-26-RUNGS_OF_PERSON's.",
+    "superseded_by": []
+  },
+  {
+    "id": "R75-28-HOW_MUCH_SHEET",
+    "pack": "Techniques Law 2026-10-04",
+    "pack_number": null,
+    "section": "CH4",
+    "title": "Full cards carry all sixty-four Sub-Stats and the Pool",
+    "status": "live",
+    "kind": "mandate",
+    "summary": "A full card carries all sixty-four Sub-Stats and the Pool, each unset Sub-Stat spent inside the re-costed totals along the Path and logged (Isaac's characters' as R75-29 decides), while a short card carries Primary totals and the peaks a scene will stress.",
+    "verbatim": "Sixty-four on full cards. Full cards carry all sixty-four and the Pool, unset ones spent inside the re-costed totals along the Path and logged, your characters' as CH5 decides; short cards carry Primary totals and the peaks a scene will stress.",
+    "amends": [
+      {
+        "guide": "character sheet template",
+        "locus": "Stat line: all sixty-four Sub-Stats and the Pool on a full card; Primary totals and peaks on a short card",
+        "operation": "adds"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "character-sheet",
+      "stats"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-10-04, Claude Code chat: ruled directly (the techniques questionnaire)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "CH4. Options A (all sixty-four on every card) and C (totals and peaks everywhere, an unset Sub-Stat set only when a scene needs it) were not taken. 'Your characters' as CH5 decides' resolves to R75-29-WHO_SPENDS_LEVEL_POINTS: Isaac spends his own characters' points. R39-1-CANON_STAT_MODEL stands and is the model being filled (points buy Sub-Stats; a Primary is the sum of its eight; its Grade the mean). Extends R38-2-ORIGINATED_SHEETS_RECOST_TO_CURRENT_ALLOTMENT: on a full card the re-cost now also spends the unset Sub-Stats inside the re-costed totals along the Path, logged, where build/recost.py today keeps Primaries and listed peaks only (the question's context); the allotment and the trim stand. R12-5-NEVER_INVENT_NUMBER stands; the answer keeps the spend inside the re-costed totals and has it logged. R39-3-STAGE_ONE_THRESHOLD_COUNTS, R70-83-FIGURES_PLAIN_NARRATION and R70-93-BUILD_TALK_DIALOGUE stand; exact readouts and build talk read the full card's figures.",
+    "superseded_by": []
+  },
+  {
+    "id": "R75-29-WHO_SPENDS_LEVEL_POINTS",
+    "pack": "Techniques Law 2026-10-04",
+    "pack_number": null,
+    "section": "CH5",
+    "title": "Isaac spends his own points; an NPC's go where the Level was earned",
+    "status": "live",
+    "kind": "procedure",
+    "summary": "When a Level lands Isaac spends his own characters' points, build talk welcome, and Natalie spends each NPC's points where that Level was earned (a Level won by the sword feeds the sword), logged in the changes block.",
+    "verbatim": "He builds his own. You spend your characters' points at each Level, build talk welcome; Natalie spends each NPC's where the Level was earned (a Level won by the sword feeds the sword), logged in the changes block.",
+    "amends": [
+      {
+        "guide": "NATALIE.md and the wotr-write skill",
+        "locus": "A Level gained: who spends its points",
+        "operation": "adds"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "stats",
+      "character-sheet"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-10-04, Claude Code chat: ruled directly (the techniques questionnaire)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "CH5. Options B (everyone's points spent by the deed, his movable afterward) and C (points banked to the chapter-end block) were not taken. R70-84-GROWTH_MOMENTS_THAT_EARN stands: a Level's readout still shows the points it brought. R52-08-PC_IDIOM (his play wins over the card) stands and is met. The NPC spend is entered in the changes block of R70-98-SHEETS_CHAPTER_ARC_ENDS, which stands, with the shown cause R70-90-FAST_NUMBERS_CLIMB asks. Fracture of Worlds Part Three's cap on what one Sub-Stat may take per Level (the question's context) is unchanged, and R39-1-CANON_STAT_MODEL stands.",
+    "superseded_by": []
+  },
+  {
+    "id": "R75-3-SKETCH_TO_CARD",
+    "pack": "Techniques Law 2026-10-04",
+    "pack_number": null,
+    "section": "K3",
+    "title": "Isaac's sketch comes back as a whole card he keeps or strikes",
+    "status": "live",
+    "kind": "procedure",
+    "summary": "When Isaac sketches an ability for his own character, Natalie returns the full R47-2 entry at once with a proposed true name in that character's tongue, and each choice on it (name, call, vow) sticks only when Isaac keeps it.",
+    "verbatim": "Whole card, yours to keep. Natalie returns the full R47-2 entry at once, a proposed true name in your character's tongue included; every choice on it (name, call, vow) sticks only when you keep it.",
+    "amends": [
+      {
+        "guide": "NATALIE.md and the wotr-write skill",
+        "locus": "Who Natalie is: supplying how an ability works the moment Isaac sketches one",
+        "operation": "extends"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "magic-design",
+      "character-sheet",
+      "naming"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-10-04, Claude Code chat: ruled directly (the techniques questionnaire)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "K3. Follows the keep-or-strike pattern of R50-21-THIRD_NAMES, which stands. The entry says what the ability is, never how to use it (R47-1-NO_APPLICATIONS, standing), and its uses in a fight stay Isaac's (R48-35-USES, standing); his character's choices stay his (R49-01-WHOSE_HEAD, standing). The whole entry comes back at once, above R75-2-DESIGNED_OR_FOUND's floor for a first fire. The proposed true name follows R8-21-NAME_IN_OWN_LANGUAGE and R8-22-LITERAL_GLOSS, both standing. A price Isaac names in the sketch is R75-4-YOUR_PRICE_AGAINST_LAW's. No older rule is reached.",
+    "superseded_by": []
+  },
+  {
+    "id": "R75-30-FOUR_CARDS_PAST_GATE",
+    "pack": "Techniques Law 2026-10-04",
+    "pack_number": null,
+    "section": "CH6",
+    "title": "Four Kharven cards past their gate stand as outliers with Strain",
+    "status": "live",
+    "kind": "mandate",
+    "summary": "The four Kharven cast cards standing past a Band gate their Stage has not opened (Lorn Stark, Edward Lambert, Bram Greymane, Heisuke) each keep their Level with standing Residual Strain, priced by Fracture of Worlds Part Ten at XP five percent lower and Overchannel and Backlash risk two percent higher per fifty Levels past, and Lorn and Heisuke owe one step now.",
+    "verbatim": "Outliers with Strain. R56-4 extended: each keeps his Level with standing Residual Strain, priced by Part Ten (XP five percent lower, Overchannel and Backlash risk two percent higher, per fifty Levels past). Lorn and Heisuke owe one step now.",
+    "amends": [
+      {
+        "guide": "Character cards, NATALIE.md and the wotr-npc skill",
+        "locus": "Lorn Stark, Edward Lambert, Bram Greymane and Heisuke: Residual Strain past the gate",
+        "operation": "adds"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "stats",
+      "character-sheet",
+      "adjudication"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-10-04, Claude Code chat: ruled directly (the techniques questionnaire)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "CH6. 'R56-4 extended': R56-4-PAST_THE_GATE_WITH_STRAIN, which kept Sodoku's and Krothar's Levels as in-world outliers with standing Residual Strain, now reaches these four cards and gains Part Ten's price; an extension, not a supersession. The four, from the question: Lorn Stark Level 168 at Stage III and Edward Lambert 142 at III (Level 100 asks Stage IV), Bram Greymane 224 at IV and Heisuke 278 at V (Level 200 asks VII). Read against those figures, Lorn stands 68 Levels past his gate and Heisuke 78, one full step of fifty each, which is the 'one step now' they owe; Lambert (42 past) and Bram (24 past) owe none yet. Part Ten states the price for every fifty Levels held above a Band ceiling; the answer applies it to these four and does not restate it for Sodoku and Krothar. Options B (raise the Stage) and C (lower the Level, the reserve following the Level law down) were not taken. Every figure in the price is Part Ten's, so R12-5-NEVER_INVENT_NUMBER is met; Stage names follow R20C-30-STAGE_NAMES_FROM_FOW.",
+    "superseded_by": []
+  },
+  {
+    "id": "R75-31-MARKING_ESTIMATE",
+    "pack": "Techniques Law 2026-10-04",
+    "pack_number": null,
+    "section": "CH7",
+    "title": "One estimate mark on a card: '(est.)'",
+    "status": "live",
+    "kind": "mandate",
+    "summary": "A card marks a figure canon does not supply with the one inline mark '(est.)' after the figure and nothing more, the six marking styles in use collapsing into that one.",
+    "verbatim": "Tag it inline. One mark, '(est.)', after the figure and nothing more; the six styles collapse into one.",
+    "amends": [
+      {
+        "guide": "character sheet template",
+        "locus": "Estimates: the one inline mark",
+        "operation": "adds"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "stats",
+      "character-sheet"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-10-04, Claude Code chat: ruled directly (the techniques questionnaire)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "CH7. Options B (a Derived figures footer), C (the instrument's hedge on the card) and D (estimates kept off the card) were not taken. The six styles run from '~850' to 'Incomplete in the Record' (the question's context); the sweep applies the one mark to every card (R75-44-WHAT_JOINS_CARD_SWEEP). Partly amends R14-2-ESTIMATE_MARKING: a figure no sheet supplies may print on the card, marked '(est.)'; R14-2's documented range for the Stage and Band still bounds it, and a scene that uses it still logs it in its author notes. R70-99-NUMBER_NOT_YET_CANON governs a readout's instrument hedge and stands. R20C-34-ESTIMATES_CANON_ON_USE stands: the estimate is canon on use and a source value beats it on contact, so a source figure replaces the mark when it arrives. R12-5-NEVER_INVENT_NUMBER and R56-8-LEVEL_LAW_SETS_RESERVE_BAND stand. How a bearer's exact Crystal line shows an estimate, which R70-78-WHERE_SCREEN_COMES_FROM left for the conflict log, is not answered here. The tool texts that write 'pending Isaac' or 'marked pending' into a card (convert_character, create_character) are owed the rewrite (R75-43-WHERE_TECHNIQUE_LAW_LANDS).",
+    "superseded_by": []
+  },
+  {
+    "id": "R75-32-NEW_VOICE_BLOCK_SLOTS",
+    "pack": "Techniques Law 2026-10-04",
+    "pack_number": null,
+    "section": "CH8",
+    "title": "The voice block gains speaker type, chant tongue and lying tell",
+    "status": "live",
+    "kind": "mandate",
+    "summary": "The card's voice block gains three slots: the speaker type (the researched real-world model, moved from the notes onto the card), the chant tongue his chants and release calls run in (his own under R50-26 or a learned one under R70-26), and the lying tell (what his body does when he lies or withholds).",
+    "verbatim": "Yes to: Speaker type (The researched real-world model (a customs clerk, a field surgeon, a drover) moves from the notes onto the card, so every return starts from the same voice); Chant tongue (The tongue his chants and release calls run in (his own under R50-26, or a learned one under R70-26, as Kwon's Accord Latin), so Borin's Latin forge-liturgy is caught and fixed); Lying tell (What his body does when he lies or withholds, the body kind of R49-36's three tells, so the frequent lies of R48-42 can be caught by a player who reads bodies).",
+    "amends": [
+      {
+        "guide": "Character cards, NATALIE.md and the wotr-npc skill",
+        "locus": "Voice block: speaker type, chant tongue and lying tell",
+        "operation": "adds"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "character-sheet",
+      "dialogue",
+      "naming",
+      "register"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-10-04, Claude Code chat: ruled directly (the techniques questionnaire)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "CH8, multi-select (A, B, C taken; D, a named swap partner, not taken, so R52-07-SWAP_CHECK runs by ear against everyone in the scene as before). Partly amends R52-03-VOICE_BLOCK: its ten fixed slots become thirteen. Partly amends R52-29-NPC_RECIPE: the researched speaker type, 'credited in the notes' there, now sits on the card. The chant tongue slot reads R50-26-CHANT_TONGUE (his own language) and R70-26-LEARNED_TONGUES_BESIDE_LATIN (a learned tongue, as Kwon's Accord Latin), both standing; the answer names Borin's Latin forge-liturgy as the leftover the slot catches. The lying tell is the body kind of R49-36-LIE_TELLS' three, so the frequent lies of R48-42-LIES can be caught by a player who reads bodies; read with R72-25-HOW_MANY_LIES (table law 2026-10-04), which logs each roster lie with its tell. R20C-49-GLOSS_RIGHTS_CARD_FIELD stays a separate card field, and R71-72-ALCHEMIST_VOICE's 'reads first' line stays an alchemist's optional addition.",
+    "superseded_by": []
+  },
+  {
+    "id": "R75-33-LORE_AND_LENGTH_CAP",
+    "pack": "Techniques Law 2026-10-04",
+    "pack_number": null,
+    "section": "CH9",
+    "title": "The length cap binds the seventeen sections; Lore runs free",
+    "status": "live",
+    "kind": "budget",
+    "summary": "The 16,348-character cap binds only the seventeen sections from Identity through Fracture Log, Lore runs free below them, and the eight cards over the cap without Lore are trimmed in the sweep.",
+    "verbatim": "The seventeen only. The cap binds Identity through Fracture Log; Lore runs free below it. The eight cards over without Lore are trimmed in the sweep.",
+    "amends": [
+      {
+        "guide": "character sheet template",
+        "locus": "Length cap: 16,348 characters, Identity through Fracture Log",
+        "operation": "extends"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "character-sheet",
+      "documents"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-10-04, Claude Code chat: ruled directly (the techniques questionnaire)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "CH9. Options B (Lore counts), C (Lore on its own page) and D (retire the cap) were not taken. The cap is NATALIE.md's ('seventeen sections, Identity through Fracture Log, under 16,348 characters'), the Trello card limit by the wotr-write skill's note; no indexed rule row carries it, so nothing is superseded, and the answer is what that sentence already says. By its words the cap binds Identity through Fracture Log; the table head of R75-25-ONE_CARD_SHAPE sits above Identity and the answer does not name it, while the Skills section of R75-35-SKILLS_ON_CARD, set after Techniques, falls inside that span. The question's survey found forty-eight cards over the cap with Lore and eight without; the eight are trimmed in the R75-44-WHAT_JOINS_CARD_SWEEP sweep. R54-11-CARD_HEADER_AT_A_MOMENT stands: Lore carries later events.",
+    "superseded_by": []
+  },
+  {
+    "id": "R75-34-STORY_FIELDS_ON_CARD",
+    "pack": "Techniques Law 2026-10-04",
+    "pack_number": null,
+    "section": "CH10",
+    "title": "Refusal line, conviction and arc kind on a full card",
+    "status": "live",
+    "kind": "mandate",
+    "summary": "A full card gains a refusal line (what he will not do whatever is offered), a named conviction (the belief that costs him) and an arc kind (positive, flat, negative or corruption, after K. M. Weiland's arc types), the arc kind set when the card is made and revised at each arc's end.",
+    "verbatim": "Yes to: Refusal line (The thing he will not do whatever is offered, as the roster already carries; Table Rule 3's refusals read straight off the card); Conviction (The belief that costs him, named; the Trait System's 'Belief, once survived, becomes law' gets the belief it grows from, and a Shear Break has a truth to break against); Arc kind (Positive, flat, negative or corruption, after K. M. Weiland's arc types: set when the card is made, revised at each arc's end).",
+    "amends": [
+      {
+        "guide": "character sheet template",
+        "locus": "Psychology: refusal line, conviction and arc kind",
+        "operation": "adds"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "character-sheet",
+      "magic-design"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-10-04, Claude Code chat: ruled directly (the techniques questionnaire)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "CH10, multi-select (A, B, D taken; C, a Need beside Desire, not taken). With the Core Wound the cards already hold, the refusal line and the conviction put all three of R7-1-CHARACTER_FIRST's sources (refusal, wound, conviction) on the card; R7-1 stands and is met. The refusal line is the one the roster already carries, so Table Rule 3's refusals read straight off the card. The conviction gives the Trait System's 'Belief, once survived, becomes law' the belief it grows from and a Shear Break a truth to break against; read with R75-17-TRAIT_ENTRY_CARRIES (a Trait's founding sentence). R52-02-VOICE_LEVER and R17-5-TRAIT_SCOPE stand.",
+    "superseded_by": []
+  },
+  {
+    "id": "R75-35-SKILLS_ON_CARD",
+    "pack": "Techniques Law 2026-10-04",
+    "pack_number": null,
+    "section": "CH18",
+    "title": "A Skills section with mastery marks",
+    "status": "live",
+    "kind": "mandate",
+    "summary": "A card gets a Skills section after Techniques where each skill names its cues or mechanics, where it was learned and the Sub-Stats that price it, grows only as those Sub-Stats grow, and carries TE4's three marks (Held, Drilled, Mastered), each crossing a shown cause entered in the chapter-end block, and the Crystal never prints them.",
+    "verbatim": "Skills section, with marks. As A, and each skill carries TE4's three marks (Held, Drilled, Mastered), each crossing a shown cause entered in the chapter-end block. The Crystal never prints them.",
+    "amends": [
+      {
+        "guide": "character sheet template",
+        "locus": "Skills section, after Techniques",
+        "operation": "adds"
+      },
+      {
+        "guide": "WOTR_Ability_Technique_Design_Guide.md",
+        "locus": "§5, Skills",
+        "operation": "extends"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "character-sheet",
+      "stats",
+      "combat",
+      "adjudication"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-10-04, Claude Code chat: ruled directly (the techniques questionnaire)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "CH18. 'As A' brings in option A: a section after Techniques; each skill names its cues or mechanics (R17-5), where it was learned, and the Sub-Stats that price it, and grows only as those Sub-Stats grow. Option C (no skill entries) was not taken. Extends R17-5-SKILL_SCOPE: its entry, cues or mechanics named as before, now sits on the card and also names where the skill was learned and the Sub-Stats that price it, with the three marks. The marks are R75-11-DRILL_MASTERY's (TE4); for a technique they lower Readiness and cost share by figures set on its card, and the answer gives a skill's mark no figure, so by A's words a skill's numbers still move only with its Sub-Stats. Each crossing is entered in the changes block of R70-98-SHEETS_CHAPTER_ARC_ENDS with the shown cause R70-90-FAST_NUMBERS_CLIMB asks. The Crystal never prints a mark, so R70-84-GROWTH_MOMENTS_THAT_EARN gains no readout from it. Partly amends R14-8-CHARACTER_SHEET_FOW_LINE ('Unchanged in sections'): the template gains a Skills section. Sub-Stats price measure and the read under R14-3-STATS_DECIDE_TABLE, which stands. The section falls between Identity and Fracture Log, so the R75-33-LORE_AND_LENGTH_CAP cap binds it.",
+    "superseded_by": []
+  },
+  {
+    "id": "R75-36-COMIC_NAME_ON_CARD",
+    "pack": "Techniques Law 2026-10-04",
+    "pack_number": null,
+    "section": "CH11",
+    "title": "A comic name carried with its making",
+    "status": "live",
+    "kind": "mandate",
+    "summary": "A card carrying a comic name records the byname, who coined it and when, its bank or sound rule, and the given name under it, so a grief beat and the Kharven giving-on have both names to work with.",
+    "verbatim": "Byname with its making. Byname, who coined it and when, its bank or sound rule, and the given name under it, so a grief beat and the Kharven giving-on have both names to work with.",
+    "amends": [
+      {
+        "guide": "Character cards, NATALIE.md and the wotr-npc skill",
+        "locus": "Comic names on the card: the byname with its making",
+        "operation": "adds"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "character-sheet",
+      "naming"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-10-04, Claude Code chat: ruled directly (the techniques questionnaire)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "CH11. Options B (the card titled by the byname) and C (the byname and its say-line only) were not taken. Who may carry a comic name is R70-122-MAY_CARRY_ONE's (recurring minor NPCs, villains and rivals; major NPCs keep strict names), unchanged; the byname is grown under R70-121-GROWN_COMIC_NAMES and coined from the culture's bank or by ear under R70-131-COMIC_NAMES_GET_MADE. The given name under the joke is what R70-127-COMIC_NAME_GRIM_END's grief beat and the Kharven name held unspoken until given on (R23-11-NAME_AVOIDANCE_WAITING) turn on. R50-34-SAY_GUIDE (a pronunciation line on every card) stands.",
+    "superseded_by": []
+  },
+  {
+    "id": "R75-37-RIVAL_BETWEEN_MEETINGS",
+    "pack": "Techniques Law 2026-10-04",
+    "pack_number": null,
+    "section": "CH12",
+    "title": "A rival grows on his own Front between meetings",
+    "status": "live",
+    "kind": "procedure",
+    "summary": "A rival's growth between meetings runs on a Front, a world clock that ticks between sessions, each tick naming its cause, and his return shows that growth in the room and in what the POV was told.",
+    "verbatim": "His own clock, shown. A rival's growth runs on a Front (a world clock that ticks between sessions); each tick names its cause, and his return shows it in the room and in what the POV was told.",
+    "amends": [
+      {
+        "guide": "NATALIE.md and the wotr-write skill",
+        "locus": "Fronts: a rival's growth clock",
+        "operation": "adds"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "session-protocol",
+      "stats",
+      "character-sheet",
+      "pov"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-10-04, Claude Code chat: ruled directly (the techniques questionnaire)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "CH12. The question asks of any recurring NPC, a spared rival above all; the answer names the rival. Options B (matched to his rival, the shonen way), C (fixed until shown) and D (growth hidden as a held reveal) were not taken. Partly amends R70-90-FAST_NUMBERS_CLIMB (numbers move only for a cause the reader was shown, an XP event on the page or training named in a downtime turn): a rival's numbers may also move between sessions on a Front tick that names its cause, shown at his return in the room and in what the POV was told. R70-104-RIVAL_BOND stands (he recurs only by a paid mercy); a returning rival gets a full card (R75-27-WHAT_LIFTS_RUNG), where each tick's cause is traced. His return carries R70-50-BODIES_AFTER_FIRST_SIGHT's changed detail; what the POV knows of his figures stays as R70-83-FIGURES_PLAIN_NARRATION and R70-79-CAN_READ_WHOM set it. R71-30-HELD_BACK_REVEAL stands for a working's rule. Read with R72-20-MOVES_FRONT (Fronts tick on a pace in story days) and R72-26-NPCS_OFF_PAGE (every named NPC's 'doing now' line), both table law 2026-10-04.",
+    "superseded_by": []
+  },
+  {
+    "id": "R75-38-OLD_FEAT_TOO_BIG",
+    "pack": "Techniques Law 2026-10-04",
+    "pack_number": null,
+    "section": "CH13",
+    "title": "An old feat too big stays, explained and costed",
+    "status": "live",
+    "kind": "mandate",
+    "summary": "When converted material claims a feat the new numbers cannot carry, the feat stays and the card names how it was done (an Overchannel spike, a Domain, a site's Wellspring) and the cost it charged, logged on the Ledger.",
+    "verbatim": "Keep it, explain it. The feat stays and the card names how (an Overchannel spike, a Domain, a site's Wellspring) and the cost it charged, logged on the Ledger.",
+    "amends": [
+      {
+        "guide": "Character cards, NATALIE.md and the wotr-npc skill",
+        "locus": "Converting old material: a feat the numbers cannot carry",
+        "operation": "adds"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "character-sheet",
+      "stats",
+      "magic-mechanism",
+      "session-protocol"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-10-04, Claude Code chat: ruled directly (the techniques questionnaire)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "CH13. Options A (an outlier as R54-9, no mechanism owed), C (the feat made legend in mouths) and D (the feat scaled down) were not taken. R54-9-STRIKE_FORCE_OUTLIERS_STAND is not named, and its words (twelve card Strike Force figures standing as outliers, no card changed) are not reached by an answer about feats claimed by converted material: it stands. Fracture of Worlds Part Eleven's Overchannel spike (output past the sustainable ceiling, at Crystal Fracture risk) is the road the question's context names. R70-137-ARCHIVED_SCENES stands: an archived scene that shows the feat stays as written and stays canon for events. R53-18-AWE and R53-15-FOLK_BELIEFS stand. Any figure the explanation needs is sourced or marked (R12-5-NEVER_INVENT_NUMBER, R75-31-MARKING_ESTIMATE).",
+    "superseded_by": []
+  },
+  {
+    "id": "R75-39-XP_AS_ARITHMETIC",
+    "pack": "Techniques Law 2026-10-04",
+    "pack_number": null,
+    "section": "CH14",
+    "title": "XP is a tally for Isaac's characters and full cards",
+    "status": "live",
+    "kind": "mandate",
+    "summary": "XP binds as arithmetic, a tally of priced XP events, for Isaac's characters and for full cards, while for everyone else the XP table only sets the scale of how fast each Band moves.",
+    "verbatim": "Sums for the carded. Arithmetic for your characters and full cards, the scale for everyone else.",
+    "amends": [
+      {
+        "guide": "character sheet template",
+        "locus": "XP tally: Isaac's characters and full cards",
+        "operation": "adds"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "stats",
+      "character-sheet"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-10-04, Claude Code chat: ruled directly (the techniques questionnaire)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "CH14. Arithmetic and scale are the question's options A and B: under A every Level is paid in priced XP events tallied on the card, an unpriced event taking a marked estimate once and that price reused after; under B the XP table sets how fast each Band moves and a Level lands on a seen cause with no tally. The answer applies A to Isaac's characters and full cards and B to everyone else. Fracture of Worlds Part Two prices the events (the question's context). R70-90-FAST_NUMBERS_CLIMB (a shown cause for every move) binds both; R70-6-LITRPG_PROGRESSION_MODELS (Reverend Insanity, every gain bought and counted) and R12-5-NEVER_INVENT_NUMBER stand, an unpriced event's estimate taking the R75-31-MARKING_ESTIMATE mark. The tally feeds the card's XP bar (R75-41-RECORD_OF_CLIMB); what drill pays is R75-40-WHAT_TRAINING_PAYS.",
+    "superseded_by": []
+  },
+  {
+    "id": "R75-4-YOUR_PRICE_AGAINST_LAW",
+    "pack": "Techniques Law 2026-10-04",
+    "pack_number": null,
+    "section": "K7",
+    "title": "Isaac's named price stands and the mechanism is reworked to yield it",
+    "status": "live",
+    "kind": "procedure",
+    "summary": "When Isaac's sketch names its own cost and limit, those stand and Natalie reworks the mechanism until they fall out of it, and if no lawful mechanism yields them she says so in one line and offers the nearest.",
+    "verbatim": "Your price, new mechanism. The cost and limit you named stand; Natalie reworks the mechanism until they fall out of it, so R17-4 holds. If no lawful mechanism yields them, she says so in one line and offers the nearest.",
+    "amends": [
+      {
+        "guide": "WOTR_Ability_Technique_Design_Guide.md",
+        "locus": "design order: a cost and limit named in the sketch",
+        "operation": "adds"
+      },
+      {
+        "guide": "NATALIE.md and the wotr-write skill",
+        "locus": "Research-grounded techniques",
+        "operation": "adds"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "magic-design",
+      "magic-mechanism"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-10-04, Claude Code chat: ruled directly (the techniques questionnaire)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "K7. 'so R17-4 holds': R17-4-OUTPUTS_NOT_INPUTS and R17-4-READ_OFF_MECHANISM stand, since the cost and limit are read off the reworked mechanism, and R17-3-COST_DERIVED and R17-3-LIMIT_MECHANICAL stand on the same footing. The one line is R48-50-PUSHBACK's plain line, which stands. The sketch is the one R75-3-SKETCH_TO_CARD answers. No older rule is reached.",
+    "superseded_by": []
+  },
+  {
+    "id": "R75-40-WHAT_TRAINING_PAYS",
+    "pack": "Techniques Law 2026-10-04",
+    "pack_number": null,
+    "section": "CH15",
+    "title": "Training pays at the edge, or as a sworn drill",
+    "status": "live",
+    "kind": "budget",
+    "summary": "Training named in downtime pays XP only where it carries real risk, at Fracture of Worlds Part Two's own rates with comfortable repetition decaying toward nothing, or as a drill sworn as an oath before a Witness Stone, which pays Part Two's oath XP on swearing and on fulfilment and is a strain event if broken.",
+    "verbatim": "Edge, or a sworn drill. A, and a drill sworn as an oath before a Witness Stone pays Part Two's oath XP on swearing and on fulfilment; a broken drill is a strain event. Solo Leveling's contract in FOW's terms.",
+    "amends": [
+      {
+        "guide": "NATALIE.md and the wotr-write skill",
+        "locus": "Downtime: what training pays",
+        "operation": "adds"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "stats",
+      "session-protocol"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-10-04, Claude Code chat: ruled directly (the techniques questionnaire)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "CH15. 'A' is option A: drill pays XP only where it carries real risk (sparring above his Tier, a working pushed toward Overchannel), at Part Two's own rates; comfortable repetition decays toward nothing; no new number. Option C (one rate per span) was not taken. Partly amends R70-90-FAST_NUMBERS_CLIMB: 'training named in a downtime turn' still moves numbers, but only training at the edge or a sworn drill pays. The sworn drill is Solo Leveling's daily-drill contract (R70-6-LITRPG_PROGRESSION_MODELS) in Fracture of Worlds' terms, and its oath earns oath experience at a stone as R75-14-HOW_VOW_SWORN has it. R70-18-ARC_SHAPES (the training montage, ending on a reading) and R12-5-NEVER_INVENT_NUMBER stand: every rate is Part Two's. How a downtime span runs is R72-28-TIME_OFF (table law 2026-10-04), where training is one of the priced activities.",
+    "superseded_by": []
+  },
+  {
+    "id": "R75-41-RECORD_OF_CLIMB",
+    "pack": "Techniques Law 2026-10-04",
+    "pack_number": null,
+    "section": "CH16",
+    "title": "XP bar, Level log and Stage ledger on the card",
+    "status": "live",
+    "kind": "mandate",
+    "summary": "A card records its bearer's climb in an XP bar (XP held and XP to the next Level, from the R75-39 tally where the card keeps one), a Level log (each Level with its cause and scene, fed from the chapter-end changes blocks) and a Stage ledger (each Stage with its Catalyst, re-assay, witnesses and date, one line of story each, set above the prose Temperance Record, which stays).",
+    "verbatim": "Yes to: XP bar (XP held and XP to the next Level, from CH14's tally where the card keeps one, so a reader of the card knows how near the next readout is); Level log (Each Level with its cause and the scene it happened in, fed from the chapter-end changes blocks); Stage ledger (Each Stage with its Catalyst, re-assay, witnesses and date, one line of story each, set above the prose Temperance Record, which stays).",
+    "amends": [
+      {
+        "guide": "character sheet template",
+        "locus": "XP bar, Level log and Stage ledger, above the Temperance Record",
+        "operation": "adds"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "character-sheet",
+      "stats"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-10-04, Claude Code chat: ruled directly (the techniques questionnaire)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "CH16, multi-select (A, B, C taken; D, a Path drift record, not taken). The XP bar reads CH14's tally, so it sits where the card keeps one: Isaac's characters' cards and full cards (R75-39-XP_AS_ARITHMETIC). The Level log is fed by R70-98-SHEETS_CHAPTER_ARC_ENDS's changes block; the Stage ledger records the public re-assay before witnesses of R70-92-CONFIRMING_NEW_STAGE. The prose Temperance Record and the Fracture Log stay. R70-90-FAST_NUMBERS_CLIMB and R42-7-FOUR_PATHS stand.",
+    "superseded_by": []
+  },
+  {
+    "id": "R75-42-NEXT_GATE",
+    "pack": "Techniques Law 2026-10-04",
+    "pack_number": null,
+    "section": "CH17",
+    "title": "Every card names the next gate",
+    "status": "live",
+    "kind": "mandate",
+    "summary": "Every card carries a line naming its bearer's next Stage, that Stage's Fracture of Worlds Catalyst and any Band gate ahead, NPC cards adding the crisis the Fronts are building and Isaac's characters' cards naming only the Catalyst.",
+    "verbatim": "Next gate, every card. A line names the next Stage, its FOW Catalyst and any Band gate ahead. NPC cards add the crisis the Fronts are building; your characters' cards name only FOW's Catalyst.",
+    "amends": [
+      {
+        "guide": "character sheet template",
+        "locus": "Next gate line",
+        "operation": "adds"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "character-sheet",
+      "stats",
+      "session-protocol"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-10-04, Claude Code chat: ruled directly (the techniques questionnaire)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "CH17. Options B (found in play, no line) and C (NPC cards only) were not taken. Isaac's characters' cards name only the Catalyst, so the crisis being built for his character is not printed there and stays in the Fronts (the question's recommendation); R49-01-WHOSE_HEAD stands. A breakthrough still lands inside its Catalyst crisis (R70-91-BREAKTHROUGH_PAGE), and the line is a sign planted ahead of it, the planting R71-30-HELD_BACK_REVEAL allows and Cradle's planted advancements model (R70-6-LITRPG_PROGRESSION_MODELS); all three stand. The question's sample: Renard Greymane at Level 198, Stage IV, two Levels short of a Band gate that asks Stage VII.",
+    "superseded_by": []
+  },
+  {
+    "id": "R75-43-WHERE_TECHNIQUE_LAW_LANDS",
+    "pack": "Techniques Law 2026-10-04",
+    "pack_number": null,
+    "section": "ME1",
+    "title": "The law lands as a doc, rebuilt tools and new guide editions at once",
+    "status": "live",
+    "kind": "procedure",
+    "summary": "The techniques law lands in one pass: one dated law doc through log_ruling, the converter, create_character, the card skeleton and the roster schema rebuilt to it, the sixth edition of the Ability and Technique Design Guide, the wotr-npc, wotr-stat-line and wotr-write references rewritten, and NATALIE.md's character-sheet line updated.",
+    "verbatim": "Doc, tools and guides. A, plus the sixth edition of the Ability and Technique Design Guide, the wotr-npc, wotr-stat-line and wotr-write references rewritten, and NATALIE.md's character-sheet line updated, all in this pass.",
+    "amends": [
+      {
+        "guide": "WOTR_Ability_Technique_Design_Guide.md",
+        "locus": "Sixth edition",
+        "operation": "replaces"
+      },
+      {
+        "guide": "Character cards, NATALIE.md and the wotr-npc skill",
+        "locus": "The wotr-npc and wotr-stat-line skill references",
+        "operation": "replaces"
+      },
+      {
+        "guide": "NATALIE.md and the wotr-write skill",
+        "locus": "Character sheets line, and the wotr-write references",
+        "operation": "replaces"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "character-sheet",
+      "magic-design",
+      "documents"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-10-04, Claude Code chat: ruled directly (the techniques questionnaire)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "ME1. 'A' is option A: one dated law doc through log_ruling; the converter, create_character, the card skeleton and the roster schema rebuilt to it; its 'Guides and skills follow in a later pass' gives way to this answer's 'all in this pass'. Option C (guides after the test) was not taken. Follows the pattern of R70-135-WHERE_NEW_LAW_LIVES and R71-102-WHERE_COMBAT_LAW_LANDS. NATALIE.md already asks for a sixth edition of the Ability and Technique Design Guide. R47-2-FIELD_FORMAT stands: the answer sets where and when the law is taught, not the field format. The question's context names fixes owed in any case: the converter's retired Design Chain and its 'pending Isaac' placeholders, and the roster schema's missing body and stat-line fields. R75-47-PROOF_AND_ORDER sets the order of the work; it does not place the guide editions, which this answer puts in the same pass as the law and the tools.",
+    "superseded_by": []
+  },
+  {
+    "id": "R75-44-WHAT_JOINS_CARD_SWEEP",
+    "pack": "Techniques Law 2026-10-04",
+    "pack_number": null,
+    "section": "ME2",
+    "title": "The card sweep carries the estimate mark, a Lore cross-read and dashes out",
+    "status": "live",
+    "kind": "procedure",
+    "summary": "The sweep of names and numbers owed across all 284 cards also applies the one '(est.)' mark to every card and drops the flags the Level law has since made exact, reads each Lore against its card body (fixing name drift and sending any other contradiction to CONFLICTS.md for the docket), and takes em and en dashes out of card bodies and Lore.",
+    "verbatim": "Yes to: One estimate mark (CH7's answer applied to every card, and flags the Level law has since made exact (Borin's, Yoko's reserves) dropped); Lore against body (Each Lore read against its card body; name drift is fixed, and any other contradiction goes to CONFLICTS.md for the docket); Dashes out (Em and en dashes taken out of card bodies and Lore, carrying the prose ban from the page to the sheet).",
+    "amends": [
+      {
+        "guide": "Character cards, NATALIE.md and the wotr-npc skill",
+        "locus": "The card sweep: one estimate mark, Lore against body, dashes out",
+        "operation": "adds"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "character-sheet",
+      "stats",
+      "naming"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-10-04, Claude Code chat: ruled directly (the techniques questionnaire)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "ME2, multi-select (A, B, D taken; C, every card brought to the R75-25-ONE_CARD_SHAPE shape in one pass, not taken, so reshaping goes card by card in R75-45-WHICH_CARDS_FIRST's order). The sweep it joins was already owed under R20C-30-STAGE_NAMES_FROM_FOW (Stage names), R20C-1-BURI_DEAD_EVERYWHERE (Büri leftovers), R38-2-ORIGINATED_SHEETS_RECOST_TO_CURRENT_ALLOTMENT and R39-1-CANON_STAT_MODEL (Pools re-costed) and R56-8-LEVEL_LAW_SETS_RESERVE_BAND (reserves by the Level law), all standing. The mark is R75-31-MARKING_ESTIMATE's; the answer names Borin's and Yoko's reserves as flags the Level law has made exact. A contradiction other than name drift is recorded in CONFLICTS.md and goes to the docket, never settled in the sweep (CLAUDE.md); R54-11-CARD_HEADER_AT_A_MOMENT stands, so a Lore that records events after the header's moment is not by that alone a contradiction. Extends R48-03-SIMILES ('em dashes stay banned'): the ban is carried from the page to the sheet, the sweep taking em and en dashes out of card bodies and Lore; R15-1-AI_TELL_CHECKS_SURVIVE stands. R70-99-NUMBER_NOT_YET_CANON stands. The eight cards over the cap without Lore are trimmed in the same sweep (R75-33-LORE_AND_LENGTH_CAP).",
+    "superseded_by": []
+  },
+  {
+    "id": "R75-45-WHICH_CARDS_FIRST",
+    "pack": "Techniques Law 2026-10-04",
+    "pack_number": null,
+    "section": "ME3",
+    "title": "The Kharven room's cards are rebuilt first",
+    "status": "live",
+    "kind": "procedure",
+    "summary": "Cards are rebuilt in order: Lambert, Bram, Brida, Tabitha Hallenfeld and the rest of the room at Kharven-Seat first, then the other live threads, then the archive by appearances.",
+    "verbatim": "The Kharven room first. Lambert, Bram, Brida, Tabitha Hallenfeld and the rest of the room at Kharven-Seat get their cards first, then the other live threads, then the archive by appearances.",
+    "amends": [
+      {
+        "guide": "Character cards, NATALIE.md and the wotr-npc skill",
+        "locus": "Rebuild order",
+        "operation": "adds"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "character-sheet"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-10-04, Claude Code chat: ruled directly (the techniques questionnaire)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "ME3. Options B (all live threads together) and C (by appearance count alone) were not taken. The Kharven room holds header cards with no stats, Traits or techniques, so Table Rule 5 cannot yet name the row that decided a fight there (R14-3-STATS_DECIDE_TABLE, which stands). The other live threads are Kwon Mu-jin's and the New World's Korvaeth War (the question's context); the archive's order is cast_index's ranking by appearances. The rung each person is rebuilt to is R75-26-RUNGS_OF_PERSON's; the rebuilds run after the test of R75-47-PROOF_AND_ORDER, and each card's failing technique lines are put right in this order (R75-46-OLD_ENTRIES_FAILING_LAW).",
+    "superseded_by": []
+  },
+  {
+    "id": "R75-46-OLD_ENTRIES_FAILING_LAW",
+    "pack": "Techniques Law 2026-10-04",
+    "pack_number": null,
+    "section": "ME5",
+    "title": "Failing technique lines rebuilt card by card, one agent ruling each",
+    "status": "live",
+    "kind": "procedure",
+    "summary": "A carded technique's cost, counter or What nobody knows line that fails live law is re-derived from its mechanism when the rebuild order reaches its card, the old line quoted in that rebuild's report and never on the card, and each card's changed lines go through log_ruling as one agent ruling that quotes them and names its grounds, which Isaac reads in CONTINUE.md and may overturn.",
+    "verbatim": "Each card an agent ruling. As A, and each card's changed lines go through log_ruling as one agent ruling that quotes them and names its grounds, so you read them in CONTINUE.md and may overturn any.",
+    "amends": [
+      {
+        "guide": "Character cards, NATALIE.md and the wotr-npc skill",
+        "locus": "Technique lines that fail live law: one agent ruling a card",
+        "operation": "adds"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "character-sheet",
+      "magic-design"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-10-04, Claude Code chat: ruled directly (the techniques questionnaire)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "ME5. 'As A' brings in option A: each failing line re-derived from its mechanism when R75-45-WHICH_CARDS_FIRST's order reaches its card, the old line quoted in that rebuild's report, never on the card. Option C (fixed when it fires) was not taken. Partly amends R7-5-COST_AUDIT ('the largest and most valuable job on the docket'): the audit now runs card by card in the rebuild order, each card's changed lines one agent ruling. The tests a line must pass stand: R17-3-COST_DERIVED, R17-3-COUNTER_MANDATORY, R17-3-WHAT_NOBODY_KNOWS_SCOPE, R17-4-OUTPUTS_NOT_INPUTS and R47-3-COUNTERS_AS_FACTS, with R75-6-COUNTER_FAIRNESS_TEST. Lines that already pass stay (the question names Borin's Requiems among them), and Isaac's characters' lines come to him as proposals (the question's context). The agent ruling is CLAUDE.md's 'Nothing waits on Isaac' route: logged with log_ruling, its grounds named, read in CONTINUE.md and open to his overturn.",
+    "superseded_by": []
+  },
+  {
+    "id": "R75-47-PROOF_AND_ORDER",
+    "pack": "Techniques Law 2026-10-04",
+    "pack_number": null,
+    "section": "ME4",
+    "title": "Law and tools first, then three test cards and a fight",
+    "status": "live",
+    "kind": "procedure",
+    "summary": "The work runs in order: log the law and rebuild the converter and the card skeleton, make the three test cards through them, play a scene where one of them decides a fight, amend, and only then run the sweep and the rebuilds.",
+    "verbatim": "Law and tools, then test. Log the law and rebuild the converter and skeleton; make the three test cards through them; play a scene where one decides a fight; amend; then sweep and rebuilds.",
+    "amends": [],
+    "supersedes": [],
+    "applies_to": [
+      "character-sheet",
+      "verification"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-10-04, Claude Code chat: ruled directly (the techniques questionnaire)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "ME4. Options A (law, test cards by hand, then tools) and C (everything, then test) were not taken. The three test cards are the three option A lists, a full card, a short card and a conversion, here made through the rebuilt tools so the test proves the tools too; the fight one of them decides is Table Rule 5 settled from a new card's rows (R14-3-STATS_DECIDE_TABLE). Follows R70-138-PROOF_ORDER_WORK and R71-105-PROOF_ORDER_WORK, which stand. An amendment found in the test enters as a new dated ruling, never a silent edit (CLAUDE.md). The sweep is R75-44-WHAT_JOINS_CARD_SWEEP's and the rebuilds run in R75-45-WHICH_CARDS_FIRST's order.",
+    "superseded_by": []
+  },
+  {
+    "id": "R75-5-TECHNIQUES_ON_CRYSTAL",
+    "pack": "Techniques Law 2026-10-04",
+    "pack_number": null,
+    "section": "K4",
+    "title": "A Trait-permitted signature prints once on the Crystal",
+    "status": "live",
+    "kind": "mandate",
+    "summary": "The first time a signature that a Trait permits holds, the bearer's Crystal prints one inline line naming it, its Trait and its Grade, a fifth growth moment beside R70-84's four, and school arts never print.",
+    "verbatim": "Signatures print once. Adds a fifth growth moment to R70-84: the first time a Trait-permitted signature holds, one inline Crystal line names it, its Trait and its Grade. School arts never print.",
+    "amends": [
+      {
+        "guide": "NATALIE.md and the wotr-write skill",
+        "locus": "Prose standards: readouts",
+        "operation": "extends"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "stats",
+      "prose-law",
+      "magic-design"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-10-04, Claude Code chat: ruled directly (the techniques questionnaire)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "K4. 'Adds a fifth growth moment to R70-84': partly amends R70-84-GROWTH_MOMENTS_THAT_EARN, whose four moments stand. The line is the bearer's own read of his Crystal (R70-78-WHERE_SCREEN_COMES_FROM, standing), inline as R70-80-READOUT_SITS_PAGE sets by default. R70-86-MANY_READOUTS_SCENE_CARRIES, whose cap counts R70-84's readouts, stands. The Grade traces to the card (R12-5-NEVER_INVENT_NUMBER). R70-98-SHEETS_CHAPTER_ARC_ENDS stands. A Trait's Permission line lists the signatures it allows (R75-17-TRAIT_ENTRY_CARRIES); a signature's page is R75-1-WHERE_TECHNIQUE_WRITTEN's.",
+    "superseded_by": []
+  },
+  {
+    "id": "R75-6-COUNTER_FAIRNESS_TEST",
+    "pack": "Techniques Law 2026-10-04",
+    "pack_number": null,
+    "section": "K5",
+    "title": "Three tests a technique's Counter must pass",
+    "status": "live",
+    "kind": "mandate",
+    "summary": "A technique's card stands only when its Counter is within reach of a prepared practitioner of the technique's own Stage without a higher Stage or a rare Wellspring, rests on law someone already knows, and names a counter before, during and after contact.",
+    "verbatim": "Yes to: Same Stage can answer (The written counter is within reach of a prepared practitioner of the technique's own Stage; a counter that needs a higher Stage or a rare Wellspring fails the card); Counter on known law (The counter rests on law someone already knows (a Wellspring's recorded failure, a school's teaching, a Family's weakness), so a player can study toward it before he meets the technique); A counter at each phase (The card names a counter before, during and after contact; 'none once contact is made' fails and the card is rebuilt).",
+    "amends": [
+      {
+        "guide": "WOTR_Ability_Technique_Design_Guide.md",
+        "locus": "technique card format: Counter (the fairness test)",
+        "operation": "adds"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "magic-design",
+      "adjudication",
+      "combat"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-10-04, Claude Code chat: ruled directly (the techniques questionnaire)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "K5, all three options taken: A and B were recommended and Isaac added C. Partly amends R17-3-COUNTER_MANDATORY: a counter still falls out of the Operation, and it now also passes these three tests before the card stands. R47-3-COUNTERS_AS_FACTS stands: the counter is still written as a fact. Known law includes a Wellspring's recorded failure, which R47-9-INHERITED_FAILURES lets an opponent induce; that row stands. R12-3-NAMED_INVENTOR_RULE stands: a self-derived technique is still read live, while its counter rests on law a player can study before he meets it. R71-31-COUNTERS_DUEL_SCALE stands: the card's Counter remains the hard answer beside the soft Family chart. An archive card whose counter reads 'None documented once contact is made' fails the third test and is rebuilt; old entries are handled under R75-46-OLD_ENTRIES_FAILING_LAW.",
+    "superseded_by": []
+  },
+  {
+    "id": "R75-7-WHAT_OPENS_TECHNIQUE",
+    "pack": "Techniques Law 2026-10-04",
+    "pack_number": null,
+    "section": "K6",
+    "title": "A new technique needs its FOW line met and a cause on the page",
+    "status": "live",
+    "kind": "mandate",
+    "summary": "A character gains a technique only when he meets its FOW line and a cause appears on the page: a named teacher, a book studied, or the problem it answers met in a fight.",
+    "verbatim": "Numbers plus a cause. The FOW line must be met, and the technique arrives only with a cause on the page: a teacher named, a book studied, or the problem it answers met in a fight.",
+    "amends": [
+      {
+        "guide": "NATALIE.md and the wotr-write skill",
+        "locus": "Downtime",
+        "operation": "adds"
+      },
+      {
+        "guide": "WOTR_Ability_Technique_Design_Guide.md",
+        "locus": "gaining a technique",
+        "operation": "adds"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "magic-design",
+      "stats",
+      "character-sheet"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-10-04, Claude Code chat: ruled directly (the techniques questionnaire)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "K6. Carries R70-90-FAST_NUMBERS_CLIMB's shown cause from numbers to techniques; that row stands unchanged. The cause on the page keeps R12-3-NAMED_INVENTOR_RULE's trail (derived by somebody, in a place, for a problem), which stands. The FOW line is R14-8-ABILITY_GUIDE_FOW_LINE's, standing. R70-18-ARC_SHAPES's training montage is one way to show the teaching. Read with R75-24-LEARNING_BY_WATCHING (a witnessed technique re-derived in downtime) and R75-22-OWN_TECHNIQUES_COMBINED (a composite of a man's own techniques). No older rule is reached.",
+    "superseded_by": []
+  },
+  {
+    "id": "R75-8-LADDER_OF_FORMS",
+    "pack": "Techniques Law 2026-10-04",
+    "pack_number": null,
+    "section": "TE1",
+    "title": "A school's ladder of forms runs long or short by its culture",
+    "status": "live",
+    "kind": "definition",
+    "summary": "Western and Kharven schools run short ladders of forms like Liechtenauer's, the lineage halls and the Korean-stratum houses keep long catalogues, and each school's page sets its own count.",
+    "verbatim": "By the school's culture. Western and Kharven schools run short ladders like Liechtenauer's; the lineage halls and the Korean-stratum houses keep long catalogues. Each school's page sets its count.",
+    "amends": [
+      {
+        "guide": "Naming guide and the wotr-write skill",
+        "locus": "Techniques, arts and items",
+        "operation": "extends"
+      },
+      {
+        "guide": "WOTR_Ability_Technique_Design_Guide.md",
+        "locus": "school pages: the ladder of forms",
+        "operation": "adds"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "magic-design",
+      "naming",
+      "worldbuilding"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-10-04, Claude Code chat: ruled directly (the techniques questionnaire)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "TE1. Sets the length R70-74-TECHNIQUE_NAME_LOOKS left open for its numbered forms; that row stands, as do R8-23-NAME_HIERARCHY's form level and R50-24-SCHOOL_NAMES. Johannes Liechtenauer's German longsword tradition taught five master cuts (the Meisterhäue), the model for a short ladder. Schools of the other cultures are not named by the answer, and their pages set the count. The tilt by culture follows R70-1-BLEND_MODEL; moves inside a fight are still named in the POV's own school (R70-100-MARTIAL_VOCABULARY_NAMES_MOVES). The school's page is R75-1-WHERE_TECHNIQUE_WRITTEN's; its last form is kept back under R75-23-WHAT_SCHOOL_KEEPS_BACK. No older rule is reached.",
+    "superseded_by": []
+  },
+  {
+    "id": "R75-9-CUTTING_CHANT_SHORT",
+    "pack": "Techniques Law 2026-10-04",
+    "pack_number": null,
+    "section": "TE2",
+    "title": "A clipped chant trades output for Readiness",
+    "status": "live",
+    "kind": "definition",
+    "summary": "A chant's length sets its output, so each line a caster drops costs a share of output and buys Readiness, both figures set on the technique's card.",
+    "verbatim": "Clip it, lose output. A chant's length sets its output: each line dropped costs a share of output and buys Readiness (casting time), both figures set on the card.",
+    "amends": [
+      {
+        "guide": "WOTR_Ability_Technique_Design_Guide.md",
+        "locus": "technique card format: Readiness (lines dropped from a chant)",
+        "operation": "adds"
+      },
+      {
+        "guide": "WOTR_Combat_Craft_Guide.md",
+        "locus": "A spoken working in the exchange",
+        "operation": "extends"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "magic-mechanism",
+      "magic-design",
+      "combat",
+      "adjudication"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-10-04, Claude Code chat: ruled directly (the techniques questionnaire)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "TE2. Both figures are set on the card and never invented (R12-5-NEVER_INVENT_NUMBER). The Readiness bought is the card figure R71-28-DECIDES_CASTING_SPEED reads, which stands. A clipped chant is still voice, so R20C-42-LAW_V_STAGE_GATE_REFRACTION's medium below Refraction stands, and R71-27-SPOKEN_WORKING_EXCHANGE still cuts the chant into the exchange. The release call (R8-24-RELEASE_MECHANIC) stays a separate lever on output. The chant stays in the caster's own tongue on the page (R50-26-CHANT_TONGUE, R51-28-CHANT_PAGE). No older rule is reached.",
+    "superseded_by": []
+  },
+  {
     "id": "R1-1-BLACK_AGENT_ASSIGNED",
     "pack": "Pack One",
     "pack_number": 1,
@@ -42160,7 +43724,7 @@
       "file": "WOTR_Companion_Guide_Amendments_Pack_Seven.md",
       "lines": "159"
     },
-    "notes": "Kept live: Pack Seventeen §9 still treats \"Pack Seven's cost audit\" as the largest open job on the docket, not something the Pack Twelve repeal touched — the audit is a production process, not a prose restriction.",
+    "notes": "Kept live: Pack Seventeen §9 still treats \"Pack Seven's cost audit\" as the largest open job on the docket, not something the Pack Twelve repeal touched — the audit is a production process, not a prose restriction. Partly amended by R75-46-OLD_ENTRIES_FAILING_LAW (techniques law 2026-10-04): the audit runs card by card in the rebuild order of R75-45-WHICH_CARDS_FIRST; each failing cost, counter or What nobody knows line is re-derived from its mechanism, the old line quoted in the rebuild's report and never on the card, and each card's changed lines go through log_ruling as one agent ruling, its grounds named, which Isaac may overturn.",
     "superseded_by": []
   },
   {
@@ -47186,7 +48750,7 @@
       "file": "WOTR_Companion_Guide_Amendments_Pack_Fourteen.md",
       "lines": "32"
     },
-    "notes": "Read with R70-99-NUMBER_NOT_YET_CANON (style law 2026-10-03): the estimate written in the notes may also print in a readout, hedged by the instrument.",
+    "notes": "Read with R70-99-NUMBER_NOT_YET_CANON (style law 2026-10-03): the estimate written in the notes may also print in a readout, hedged by the instrument. Partly amended by R75-31-MARKING_ESTIMATE (techniques law 2026-10-04): on a character card a figure canon does not supply prints with the one inline mark '(est.)' after it and nothing more; the documented range for the Stage and Band still bounds it, and a scene that uses it still logs it in its author notes.",
     "superseded_by": []
   },
   {
@@ -47643,7 +49207,7 @@
       "file": "WOTR_Companion_Guide_Amendments_Pack_Fourteen.md",
       "lines": "105"
     },
-    "notes": null,
+    "notes": "Partly amended by R75-25-ONE_CARD_SHAPE (techniques law 2026-10-04): every full card gains a one-screen head above the seventeen sections (header, stat line, combat grammar, Traits and techniques by name with tell and counter, the voice sample line); the sections stand whole beneath it and each technique keeps its FOW line. Partly amended by R75-35-SKILLS_ON_CARD (techniques law 2026-10-04): the template gains a Skills section after Techniques, each skill naming its cues or mechanics, where it was learned and the Sub-Stats that price it, and carrying the three marks Held, Drilled and Mastered; the other sections and the Techniques FOW line stand.",
     "superseded_by": []
   },
   {
@@ -49226,7 +50790,7 @@
       "file": "WOTR_Companion_Guide_Amendments_Pack_Seventeen.md",
       "lines": "46"
     },
-    "notes": null,
+    "notes": "Partly amended by R75-6-COUNTER_FAIRNESS_TEST (techniques law 2026-10-04): a counter still falls out of the Operation, and the card stands only when it also passes three tests: within reach of a prepared practitioner of the technique's own Stage (no higher Stage or rare Wellspring), resting on law someone already knows, and named before, during and after contact.",
     "superseded_by": []
   },
   {
@@ -49478,7 +51042,7 @@
       "file": "WOTR_Companion_Guide_Amendments_Pack_Seventeen.md",
       "lines": "74"
     },
-    "notes": null,
+    "notes": "Extended by R75-35-SKILLS_ON_CARD (techniques law 2026-10-04): a skill's entry sits in a Skills section after Techniques on the card, names its cues or mechanics as here and also where it was learned and the Sub-Stats that price it, grows only as those Sub-Stats grow, and carries the three marks Held, Drilled and Mastered, each crossing a shown cause entered in the chapter-end block; the Crystal never prints them.",
     "superseded_by": []
   },
   {
@@ -49510,7 +51074,7 @@
       "file": "WOTR_Companion_Guide_Amendments_Pack_Seventeen.md",
       "lines": "72"
     },
-    "notes": null,
+    "notes": "Partly amended by R75-17-TRAIT_ENTRY_CARRIES (techniques law 2026-10-04): beside the Lattice property, every Trait entry also carries its founding sentence (whose denial is the Shear Break), a rigidity line stating what the bearer cannot safely contradict, and the offices it holds, a Permission line listing the signatures it allows.",
     "superseded_by": []
   },
   {
@@ -49711,7 +51275,7 @@
       "file": "WOTR_Companion_Guide_Amendments_Pack_Eighteen.md",
       "lines": "34"
     },
-    "notes": null,
+    "notes": "Partly amended by R75-19-NEW_RESONANT_PAIRS (techniques law 2026-10-04): 'R18-2 extends to Pairs'. A new Resonant Pair may be proposed only under this test, when a build reaches a combination canon's ten lack, with real mechanism, Grade and effect, and it binds once ratified.",
     "superseded_by": []
   },
   {

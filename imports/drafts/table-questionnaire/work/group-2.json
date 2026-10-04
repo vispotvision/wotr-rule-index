@@ -1,0 +1,889 @@
+{
+ "sections": [
+  {
+   "key": "WD",
+   "title": "The living world",
+   "intro": "How the world moves when he is not looking: Fronts (threats with a want and a clock of four to six ticks), the Ledger (the running bill of wounds, debts, witnesses and reputation), NPCs between scenes, time off, the road, and what the world pays or takes. The prose samples, in WD4, follow an invented Kharven courier-rider, Aske, standing in for a player's character.",
+   "questions": [
+    {
+     "id": "WD1",
+     "title": "What moves a Front",
+     "question": "What makes a Front tick?",
+     "context": "Table Rule 4: Fronts advance 'between turns and sessions', and advance_front asks for one a session. Four ticks have ever been recorded, and twelve of the fourteen open Fronts have never moved, because nothing ticks a Front no scene touches. Blades in the Dark (a heist game in an industrial city) ticks its rival factions' clocks on elapsed time, between jobs.",
+     "options": [
+      {
+       "key": "A",
+       "label": "One a session, chosen",
+       "consequence": "Rule 4 as written: each session Natalie ticks at least one Front of her choosing in the live thread. Fronts nobody chooses wait, as most do now."
+      },
+      {
+       "key": "B",
+       "label": "By the calendar",
+       "consequence": "Each Front gets a pace in story days. When in-world time passes, every Front whose days are spent ticks offscreen, played or not; his acts can speed, slow or stop it. Rule 4 is rewritten to this."
+      },
+      {
+       "key": "C",
+       "label": "By his acts only",
+       "consequence": "A Front ticks only when a scene touches it: what he does, or what he leaves undone in front of it. A Front no scene reaches stays frozen."
+      },
+      {
+       "key": "D",
+       "label": "A faction turn at close",
+       "consequence": "At each session close Natalie weighs every open Front in the thread against what happened and the days passed, and ticks each one none, one or two."
+      }
+     ],
+     "recommended": "B",
+     "rec_reason": "The Fronts stall because every tick waits on a scene; a pace in story days lets the world move whenever time passes, which R53-09 already tracks on the State of Play, and his acts still bend it.",
+     "multi": false,
+     "depends_on": [],
+     "rules_touched": [
+      "R53-09-WEATHER",
+      "R49-09-CUTAWAYS"
+     ]
+    },
+    {
+     "id": "WD2",
+     "title": "What he sees of a Front",
+     "question": "How much of a Front reaches you during play?",
+     "context": "The iceberg rule keeps ninety percent of the world under the surface, and R49-09 allows a marked cutaway to 'a Front advancing'. The clocks sit in table/fronts.yaml, which you can open; the mystery questionnaire's IN6 asks this for intrigue Fronts. Apocalypse World (the tabletop game WOTR's Fronts come from) hides its threats and shows only their moves; Blades in the Dark puts its clocks in plain view.",
+     "options": [
+      {
+       "key": "A",
+       "label": "Signs in the world",
+       "consequence": "Every tick puts one sign into a scene of that thread the same session (a seal, a stranger, a price gone up) or a marked cutaway. Clocks are never printed in play; the files stay yours to open."
+      },
+      {
+       "key": "B",
+       "label": "Signs, named at close",
+       "consequence": "As A, and the session close names which Fronts moved, never how far or toward what, so you know where to look."
+      },
+      {
+       "key": "C",
+       "label": "Open clocks",
+       "consequence": "Signs, plus the clock itself: the session close prints each Front's want, position and ticks left, the Blades way. Only the next move stays hidden."
+      }
+     ],
+     "recommended": "A",
+     "rec_reason": "The read is the game (Table Rule 6) and he likes counters that can be found; a sign for every tick gives him something to find, and owning the files leaves him free to look whenever he chooses.",
+     "multi": false,
+     "depends_on": [
+      "WD1"
+     ],
+     "rules_touched": [
+      "R49-09-CUTAWAYS",
+      "R48-48-EXPLAIN"
+     ]
+    },
+    {
+     "id": "WD3",
+     "title": "When the bill comes",
+     "question": "What makes a Ledger line come due?",
+     "context": "Rule 7 keeps the Ledger. A line's due field holds a session count or a condition in words; due() cannot tell whether a condition has fired, so it returns thirty of sixty-three open lines every time, and nothing has ever been collected at the table. Rows carry no thread. Fate (a game run on short always-true phrases) fires a debt when the fiction calls for it.",
+     "options": [
+      {
+       "key": "A",
+       "label": "As built",
+       "consequence": "A line keeps a session count or a condition in words; due() lists every condition each session, and Natalie judges which have fired."
+      },
+      {
+       "key": "B",
+       "label": "A date or a trigger",
+       "consequence": "Each line gains a thread and either a story date off the State of Play calendar or a named trigger (he returns to the Seat, the thaw comes). The close marks what fired; due() returns only those."
+      },
+      {
+       "key": "C",
+       "label": "Natalie's judgement",
+       "consequence": "No due field: each session Natalie brings at least one line to bear, the one that would bite hardest given where he stands."
+      }
+     ],
+     "recommended": "B",
+     "rec_reason": "Story time is already tracked (R53-09) and a trigger in the fiction is how a debt really arrives; with a thread on every row and the fired lines marked, due() stops handing him thirty lines from every thread at once.",
+     "multi": false,
+     "depends_on": [],
+     "rules_touched": [
+      "R53-09-WEATHER"
+     ]
+    },
+    {
+     "id": "WD4",
+     "title": "The bill on the page",
+     "question": "When a Ledger line comes due, how does it arrive on the page?",
+     "context": "R71-99 has a fight's costs arrive 'as a person or a paper'; nothing covers the rest of the Ledger. Fate's compel offers trouble the player may take or refuse at a price; Apocalypse World moves from a soft warning to a hard, irrevocable move. In the samples Aske owes the widow Gerd Ollerby a labour-debt at her woodpile.",
+     "options": [
+      {
+       "key": "A",
+       "label": "An offer with terms",
+       "consequence": "The creditor or the consequence arrives with terms and the turn stops on them; his answer is the move. An offer refused or ignored is collected outright the next time.",
+       "sample": "Gerd Ollerby waits at the horse lines. Her hide-coat is dark with grease at the cuffs, and her breath stands white in front of her face. She keeps her mittens on and offers no forearm. \"Your labour-debt,\" she says. \"Owed at my woodpile since the winter my hay kept your mare alive. My stack is short and the Thin Weeks are on us. You split for me from first light, or my Halli rides your run for the Hallenfeld captains, and he rides it on your mare.\""
+      },
+      {
+       "key": "B",
+       "label": "Collected outright",
+       "consequence": "The world has already acted when he finds it: the horse taken, the name struck, the door shut. He deals with the aftermath.",
+       "sample": "The picket where Aske's mare should stand is empty, the dung frozen flat where she stamped, and on the post hangs a split round of birch with Gerd Ollerby's mark cut into the pale end. His labour-debt at her woodpile has stood since the winter her hay kept the mare alive, and her stack ran short in the Thin Weeks. Across the yard her boy Halli is leading the mare out toward the courier road, saddled."
+      },
+      {
+       "key": "C",
+       "label": "A sign first",
+       "consequence": "The line shows first as a sign he can read (the short stack, the neighbours' talk). It bites, collected outright, only if a session passes with the sign ignored.",
+       "sample": "Gerd Ollerby's woodpile stands at the end of the horse lines, and it is short. Turf shows under the bottom course, where a full stack would hide it. Her boy Halli is splitting wet wood hauled up from the river stand, because the dry is gone. At the well two neighbours pass the words \"short stack\" between them and look Aske's way. Gerd comes out with the slop bucket, nods to him once, and goes back in."
+      }
+     ],
+     "recommended": "A",
+     "rec_reason": "It lands the same session, stops on his decision as Table Rule 1 asks, and gives every debt R71-99's person-or-paper shape; a refused offer is still collected, so the grimdark holds.",
+     "multi": false,
+     "depends_on": [
+      "WD3"
+     ],
+     "rules_touched": [
+      "R71-99-BILL_AFTER_FIGHT",
+      "R70-48-MONEY_PRICE_PROVENANCE",
+      "R48-31-STAKES"
+     ]
+    },
+    {
+     "id": "WD5",
+     "title": "New lines on the Ledger",
+     "question": "Which new kinds of line should the Ledger keep?",
+     "context": "Rule 7 lists injuries, exhaustion, reserve, debts, reputation and who saw what. Double Cross, a Japanese game, keeps bonds that events can break; Blades in the Dark keeps heat, the attention a job draws from the law. R70-114 wants a warm bond on every thread, and R71-101 opens a jurisdiction Front on every practitioner's killing.",
+     "options": [
+      {
+       "key": "A",
+       "label": "Bonds, by name",
+       "consequence": "Each thread's warm bonds go on the Ledger by name, with what has fed them and what has strained them, so a loss lands on a named line."
+      },
+      {
+       "key": "B",
+       "label": "Heat per thread",
+       "consequence": "A standing heat line per thread: the attention crown, company and Guild are paying him. Public acts and unread killings raise it; only the right office, paid, cools it."
+      },
+      {
+       "key": "C",
+       "label": "His word given",
+       "consequence": "Every promise or oath he gives before witnesses becomes a line, kept or broken in the open. In the north, with the Fusi Vā gone, a word weighs what the man does."
+      }
+     ],
+     "recommended": "A,B",
+     "rec_reason": "Bonds on the Ledger keep R70-114's warmth from being forgotten between sessions, and heat gives the jurisdiction law a running measure; promises already land as debts, so C would double-enter them.",
+     "multi": true,
+     "depends_on": [],
+     "rules_touched": [
+      "R70-114-GRIMDARK_WARMTH",
+      "R71-101-LAW_TURNS"
+     ]
+    },
+    {
+     "id": "WD6",
+     "title": "How many lies",
+     "question": "How many lies does the table carry, and where are they kept?",
+     "context": "Table Rule 8 asks for one wrong thing a session that stays uncorrected; R48-42 is newer: 'many NPCs lie for their own reasons.' The Rovhen run gave every new NPC a want, a refusal and a lie on the roster; the duel runs logged misreadings instead. Catching a lie, honest errors and the uncaught lie are the mystery questionnaire's (K5, MY9, MY10).",
+     "options": [
+      {
+       "key": "A",
+       "label": "Rule 8 as the floor",
+       "consequence": "R48-42 sets the density by feel; Rule 8 stays as a floor of one uncorrected falsehood a session, logged in the notes. No roster field is required."
+      },
+      {
+       "key": "B",
+       "label": "A lie for every want",
+       "consequence": "Every roster NPC with a want carries at least one live lie, told when it serves them and logged with its tell. Rule 8 folds into this and is retired."
+      },
+      {
+       "key": "C",
+       "label": "Liars marked, some honest",
+       "consequence": "The roster marks each NPC liar or honest. Most lie, but each thread keeps at least one whose word holds, so finding the honest voice is part of the read."
+      }
+     ],
+     "recommended": "B",
+     "rec_reason": "The roster model is what works in the Rovhen run: every lie has a place where its tell can be checked (R49-36), and Rule 8's single falsehood was a floor R48-42 has already outgrown.",
+     "multi": false,
+     "depends_on": [],
+     "rules_touched": [
+      "R48-42-LIES",
+      "R49-36-LIE_TELLS"
+     ]
+    },
+    {
+     "id": "WD7",
+     "title": "NPCs off the page",
+     "question": "Do named NPCs move on their wants when your PC is not in the room?",
+     "context": "Table Rule 3: NPCs 'want things and pursue them.' The roster holds ten NPCs, all from the Academy threads, with a want, a refusal, what they know and what they lied about, and no field for what they are doing now or how they stand with him. Apocalypse World tells its game master to think offscreen too; a rival's growth off the page is the techniques questionnaire's CH12.",
+     "options": [
+      {
+       "key": "A",
+       "label": "On the page only",
+       "consequence": "NPCs act when a scene holds them. Between scenes they wait where they were left."
+      },
+      {
+       "key": "B",
+       "label": "Wants move offscreen",
+       "consequence": "At each close every named NPC in the thread gets a 'doing now' line and a 'stands with him' line (owed, slighted, warm, afraid); when he meets them again, both show."
+      },
+      {
+       "key": "C",
+       "label": "Only through Fronts",
+       "consequence": "An NPC whose want matters enough to move gets a Front of their own; everyone else waits."
+      }
+     ],
+     "recommended": "B",
+     "rec_reason": "Veteran-clever NPCs (R48-36) with real wants should have been busy; two short roster lines make the world feel lived in without the weight of a clock for every person.",
+     "multi": false,
+     "depends_on": [],
+     "rules_touched": [
+      "R48-36-NPC_WITS",
+      "R52-29-NPC_RECIPE"
+     ]
+    },
+    {
+     "id": "WD8",
+     "title": "Time off",
+     "question": "When time passes between adventures, how does downtime run?",
+     "context": "NATALIE.md runs downtime 'in one turn'; R70-90 moves numbers for 'training named in a downtime turn'; R60-02 sets real healing times. No downtime turn has ever been played; what training pays is the techniques questionnaire's CH15. Blades in the Dark gives each player two downtime activities from a short list: recover, train, a long project on a clock, reduce heat, indulge a vice.",
+     "options": [
+      {
+       "key": "A",
+       "label": "Free narrative",
+       "consequence": "You say what he does and Natalie writes the span in one passage. No menu, and no living costs tracked."
+      },
+      {
+       "key": "B",
+       "label": "Named activities, priced",
+       "consequence": "You name up to two activities a span (heal, train, work, settle a debt, cool heat, keep a bond); each is priced from the price table, and his upkeep at his station is paid or owed."
+      },
+      {
+       "key": "C",
+       "label": "B, with project clocks",
+       "consequence": "As B, and long work (a commissioned bench piece, a licence, a house) runs on a clock of four to eight that fills across spans, kept on the Ledger."
+      }
+     ],
+     "recommended": "C",
+     "rec_reason": "Money before magic (R53-17) and a named sum for every payment (R70-48) want living costs on the page; his LitRPG models love visible progress, and a clock shows long work honestly without inventing a number.",
+     "multi": false,
+     "depends_on": [],
+     "rules_touched": [
+      "R70-90-FAST_NUMBERS_CLIMB",
+      "R60-02-REAL_HEALING_TIMES",
+      "R70-48-MONEY_PRICE_PROVENANCE",
+      "R53-07-PRICE_TABLE",
+      "R53-17-THE_BILL",
+      "R70-14-KISHOTENKETSU"
+     ]
+    },
+    {
+     "id": "WD9",
+     "title": "The road",
+     "question": "When a journey has something at stake, how does it run?",
+     "context": "R48-29 passes dull travel 'in a line'; R53-08 sets real rates (mounted, 30 to 40 miles a day, less in snow); R53-09 tracks the weather. Nothing covers a journey that matters: the hazard, the horse, the food. Old-school Dungeons & Dragons checked for wandering trouble on a timer; Blades in the Dark runs a long haul as a clock.",
+     "options": [
+      {
+       "key": "A",
+       "label": "A turn per leg",
+       "consequence": "Each leg of a journey that matters gets its own turn, ending on whatever the road has put in front of him."
+      },
+      {
+       "key": "B",
+       "label": "The road as a clock",
+       "consequence": "The journey gets a clock of four to six (weather, horses, food), ticked by miles and calendar, each tick a beat on the page; if it fills first, the road takes a horse, a hand or the season."
+      },
+      {
+       "key": "C",
+       "label": "One turn, one hazard",
+       "consequence": "The whole journey passes in one turn carrying the single hazard that season and road would really throw up, decided under Table Rule 5."
+      }
+     ],
+     "recommended": "B",
+     "rec_reason": "Cold, thaw and a horse that must be fed are the north's real enemies, and a clock gives them teeth without dice; it runs on the same calendar that WD1's Fronts and R53-09's weather already keep.",
+     "multi": false,
+     "depends_on": [
+      "WD1"
+     ],
+     "rules_touched": [
+      "R48-29-PACING",
+      "R53-08-TRAVEL_RATES",
+      "R53-09-WEATHER"
+     ]
+    },
+    {
+     "id": "WD10",
+     "title": "What a win pays",
+     "question": "Besides coin on a contract, what can the world pay out?",
+     "context": "R70-97 and R71-97 pay contracts in coin from the price table; R71-100 and R70-96 put a public win on the Reckoner's roll (the public register of fights), perhaps with a Guild commendation, 'no stat effect'. Numbers move only for a seen cause (R70-90). The Ledger records what he owes; nothing records what he is owed.",
+     "options": [
+      {
+       "key": "A",
+       "label": "Favours owed him",
+       "consequence": "A debt in his favour becomes a Ledger line he can call in later, on terms, the way his own debts are called."
+      },
+      {
+       "key": "B",
+       "label": "Access and licence",
+       "consequence": "A draw allotment, a Guild licence, a key, a seat at a table: rights on paper that open doors and can be revoked."
+      },
+      {
+       "key": "C",
+       "label": "Spoils with a history",
+       "consequence": "Things taken or given (a dead man's blade, a horse, a proofed rifle) arrive with their lineage (R70-48), and the Ledger keeps who wants them back."
+      },
+      {
+       "key": "D",
+       "label": "A true answer",
+       "consequence": "Knowledge as pay: an NPC tells him a true thing he could not otherwise learn, a Front's next move, or a lie laid bare."
+      }
+     ],
+     "recommended": "A,B,C",
+     "rec_reason": "Each of the three pays in something the world can call back or come to claim, which keeps a win grimdark, and none moves a number (R70-90). Answers as pay would shortcut the read that Table Rule 6 and R48-48 make the game.",
+     "multi": true,
+     "depends_on": [],
+     "rules_touched": [
+      "R70-97-QUESTS_CONTRACTS",
+      "R71-97-CONTRACT_FIGHTS",
+      "R70-96-TITLES_ACHIEVEMENTS",
+      "R71-100-ROLL_AFTER_PUBLIC_FIGHT",
+      "R70-90-FAST_NUMBERS_CLIMB",
+      "R70-48-MONEY_PRICE_PROVENANCE",
+      "R48-48-EXPLAIN"
+     ]
+    },
+    {
+     "id": "WD11",
+     "title": "The last warning",
+     "question": "Before a choice that can kill your character, is the warning in the world only, or may it also be said plainly?",
+     "context": "R48-31 needs 'clear warning'; R71-67 puts a sign and an exit before a losing fight's killing exchange. Outside fights nothing says what clear means. Table Rule 1 forbids ending a turn on an out-of-character (OOC) question, and R48-47 gives the chat a short summary beside each turn.",
+     "options": [
+      {
+       "key": "A",
+       "label": "In the world only",
+       "consequence": "Signs, tells and exits on the page, and nothing else. If he misses all of them, the death stands (R60-04)."
+      },
+      {
+       "key": "B",
+       "label": "One plain line too",
+       "consequence": "As A, and whenever his next stated move could kill him, the OOC foot under the turn (TU5) carries one plain line saying so. The prose never changes."
+      },
+      {
+       "key": "C",
+       "label": "Plain only when unreadable",
+       "consequence": "As A, plus the OOC line only when the danger is one his character could not read: Pressure (the felt weight of a higher Stage) from far above him, or a Well's own law."
+      }
+     ],
+     "recommended": "C",
+     "rec_reason": "The read stays the game wherever his character could make it; a death he could never have read gets one plain line, as fair play already says (never punish him for what nobody could find), and that is what R48-31's 'clear warning' is for.",
+     "multi": false,
+     "depends_on": [],
+     "rules_touched": [
+      "R48-31-STAKES",
+      "R71-67-CLEAR_WARNING_BEFORE_LOSS",
+      "R48-47-NOTES",
+      "R60-04-DEATH_IS_PERMANENT"
+     ]
+    },
+    {
+     "id": "WD12",
+     "title": "After his death",
+     "question": "If your character dies, what happens to the thread?",
+     "context": "R60-04 makes death 'almost always permanent'; nothing says what the thread does next. West Marches play (an open-table style of old-school Dungeons & Dragons) kept the world when a character died, and the next one walked into town; Dimension 20, a filmed tabletop show, closes a season on an epilogue per character.",
+     "options": [
+      {
+       "key": "A",
+       "label": "The world goes on",
+       "consequence": "The thread goes on and your next character enters it. The dead man's debts fall on kin or partners, his Fronts keep their clocks, and a grief Front may open (R58-07)."
+      },
+      {
+       "key": "B",
+       "label": "The thread closes",
+       "consequence": "An epilogue turn, then the thread is archived and its Fronts closed or moved elsewhere; your next character starts a new thread."
+      },
+      {
+       "key": "C",
+       "label": "His heir takes it",
+       "consequence": "The thread continues through someone bound to the dead man (an heir, a sworn second, a disciple), who inherits his debts, enemies and standing as a starting Ledger."
+      }
+     ],
+     "recommended": "A",
+     "rec_reason": "The world moved before him and moves after him; keeping the clocks and handing the debts on makes the death cost something in the world, and leaves him free to choose who walks in next, an heir included.",
+     "multi": false,
+     "depends_on": [],
+     "rules_touched": [
+      "R60-04-DEATH_IS_PERMANENT",
+      "R58-07-WREN_GRIEF_FRONT"
+     ]
+    }
+   ]
+  },
+  {
+   "key": "MP",
+   "title": "More than one player",
+   "intro": "The Discord table: Isaac's server, where players post as their own characters through Tupperbox (a bot that posts under a character's name) and Isaac sits as Judger, the role that rules and enters canon. R71-6 already settles how a guest's fighter appears on the page; these questions cover the rest.",
+   "questions": [
+    {
+     "id": "MP1",
+     "title": "Natalie's seat on Discord",
+     "question": "What is Natalie's role at the Discord table?",
+     "context": "Natalie is not on the server today: you bring another player's post and your beat to her, she writes your reply, you post it. The bot is deterministic, with no language model, by your 2026-09-13 decision. Another player posts the Academy's announcements, so part of the world's voice there is not yours.",
+     "options": [
+      {
+       "key": "A",
+       "label": "His ghostwriter only",
+       "consequence": "As now: Natalie writes your posts for your own characters and the walk-ons around them; the world's voice on the server belongs to whoever posts it."
+      },
+      {
+       "key": "B",
+       "label": "The Judger's desk",
+       "consequence": "Natalie also drafts world and NPC posts, rulings and closes for you to post as narrator. Every word that reaches the server passes through your hands, and the bot stays model-free."
+      },
+      {
+       "key": "C",
+       "label": "A live narrator",
+       "consequence": "Natalie posts world and NPC turns on the server herself through a bot account. This reopens the 2026-09-13 no-model decision."
+      }
+     ],
+     "recommended": "B",
+     "rec_reason": "Guest players get a world that answers under the same law as the Desktop table, while Isaac keeps every word that reaches the server and the bot stays as he decided.",
+     "multi": false,
+     "depends_on": [],
+     "rules_touched": [
+      "R71-6-PLAYER_FIGHTER_PAGE",
+      "R52-10-CROSSOVER"
+     ]
+    },
+    {
+     "id": "MP2",
+     "title": "Who posts when",
+     "question": "How do turns and the spotlight run when several players share a scene?",
+     "context": "No rule sets post order. Play-by-post tables (roleplay run in written posts) fix an order in combat, set a reply window and skip a player who misses it. Double Cross, a Japanese game, gives each scene a lead player and makes others pay to enter. One sanctioned Academy bout took eight archived files, one exchange a post.",
+     "options": [
+      {
+       "key": "A",
+       "label": "Free posting",
+       "consequence": "Anyone posts when ready; narrator posts land when the scene needs the world. The spotlight is managed by feel."
+      },
+      {
+       "key": "B",
+       "label": "Order when it matters",
+       "consequence": "Free posting in talk and travel; in fights and contests a fixed round order with a reply window the Judger sets, after which the round moves on and standing orders (R71-5) play for the absent."
+      },
+      {
+       "key": "C",
+       "label": "A lead per scene",
+       "consequence": "Each scene has one lead player whose character it is about; others enter at the lead's or the Judger's invitation, and the lead passes round the table scene by scene."
+      }
+     ],
+     "recommended": "B",
+     "rec_reason": "Talk breathes better free, and fights need an order or the fastest poster takes every exchange; the window keeps a slow player from stalling a bout, and standing orders let them post ahead.",
+     "multi": false,
+     "depends_on": [
+      "MP1"
+     ],
+     "rules_touched": [
+      "R71-5-ROLEPLAY_TURNS_AGAINST_WRITTEN"
+     ]
+    },
+    {
+     "id": "MP3",
+     "title": "Player against player",
+     "question": "When two players' characters contest a thing, who decides the outcome?",
+     "context": "Today nobody does: a collision of posts is left to 'the players', and two sanctioned bouts have no result on the record. R13-8 wants every decision 'reconstructible from the page'; Table Rule 5 decides by Stage gap, the read, what was spent and the ground. R71-54 chalks terms before Academy bouts only.",
+     "options": [
+      {
+       "key": "A",
+       "label": "Players settle it",
+       "consequence": "As now. The archive keeps both posts and the notes record what was left open."
+      },
+      {
+       "key": "B",
+       "label": "The Judger rules",
+       "consequence": "The Judger decides on Table Rule 5's four inputs and posts an adjudication card naming the stat rows. A post the ruling contradicts is marked struck in the archive."
+      },
+      {
+       "key": "C",
+       "label": "Terms first, then Judger",
+       "consequence": "Before contact both players post terms (what counts as a loss, what is off the table), R71-54 widened to every contest; inside those terms the Judger rules by card, as in B."
+      }
+     ],
+     "recommended": "C",
+     "rec_reason": "Terms agreed beforehand spare a guest a ruling they never consented to, and the card keeps R13-8's reconstructible outcome; the arena already works this way.",
+     "multi": false,
+     "depends_on": [],
+     "rules_touched": [
+      "R13-8-RECONSTRUCTIBLE_ADJUDICATION",
+      "R14-3-STATS_DECIDE_TABLE",
+      "R71-54-BOUTS_AETHERION"
+     ]
+    },
+    {
+     "id": "MP4",
+     "title": "A guest's own lines",
+     "question": "What does each guest player set for their character on joining a thread?",
+     "context": "NATALIE.md's Floor is written for you and Natalie alone; guests are other adults with their own limits. Dark tables use lines (never on the page) and veils (kept off the page), agreed at a session zero, a talk before play. R71-6 shows a guest's fighter only from outside; R48-31 lets death come if earned.",
+     "options": [
+      {
+       "key": "A",
+       "label": "Lines and veils",
+       "consequence": "Each guest lists lines and veils on their character's card; the Judger and Natalie honour them in that player's scenes, and the Floor binds everyone."
+      },
+      {
+       "key": "B",
+       "label": "Mortal or not",
+       "consequence": "Each guest marks their character mortal or not. One marked not mortal can be maimed, captured or ruined, never killed; this narrows R48-31 for that character only."
+      },
+      {
+       "key": "C",
+       "label": "Explicit scenes opt in",
+       "consequence": "Explicit scenes run only in age-restricted channels with only players who opted in present; anyone else's character sees a door close."
+      },
+      {
+       "key": "D",
+       "label": "A pause sign",
+       "consequence": "Any player may post (( pause )) and the scene holds for an out-of-character word, no reason owed; the Judger restarts it."
+      }
+     ],
+     "recommended": "A,B,C",
+     "rec_reason": "Guests did not sign Isaac's Floor, so their own limits and their character's mortality are theirs to set, and Discord requires age-restricted channels anyway; out-of-character brackets already serve as a pause.",
+     "multi": true,
+     "depends_on": [],
+     "rules_touched": [
+      "R48-31-STAKES",
+      "R71-6-PLAYER_FIGHTER_PAGE",
+      "R49-51-EXPLICIT"
+     ]
+    },
+    {
+     "id": "MP5",
+     "title": "What guest scenes become",
+     "question": "When a scene with other players is archived, what of it is canon?",
+     "context": "NATALIE.md treats archived scenes as precedent for events (R70-137). Other players' posts sometimes break canon: a real-world city and year, a wrong family tie. Today Natalie flags these in the notes and never carries them forward, nobody rules what stands, and the State of Play no longer marks whose characters are whose.",
+     "options": [
+      {
+       "key": "A",
+       "label": "As posted, flagged",
+       "consequence": "Guest scenes are archived verbatim and count as canon; breaks are flagged in the notes and never carried into new work."
+      },
+      {
+       "key": "B",
+       "label": "The Judger rules breaks",
+       "consequence": "On archive the Judger marks each break struck or accepted as a new fact and tells the player which; pages mark every character's owner."
+      },
+      {
+       "key": "C",
+       "label": "Only his threads count",
+       "consequence": "A scene counts as canon only where one of your characters or a carded NPC is present; the rest belongs to the players."
+      }
+     ],
+     "recommended": "B",
+     "rec_reason": "A flag nobody rules sits forever, against his 'nothing waits' direction; one struck-or-accepted mark settles each break, and owner marks keep other players' characters from being written by mistake (R52-10).",
+     "multi": false,
+     "depends_on": [
+      "MP1"
+     ],
+     "rules_touched": [
+      "R70-137-ARCHIVED_SCENES",
+      "R52-10-CROSSOVER",
+      "R1-1-RESTRICTED_CHARACTERS_EXCLUDED"
+     ]
+    },
+    {
+     "id": "MP6",
+     "title": "What players can look up",
+     "question": "Which table state should the bot show players on Discord?",
+     "context": "The bot plan's table commands (/fronts, /due, /ledger, /roster) are unbuilt and would show everything to 'anyone'. Players see no Front or Ledger today. The iceberg rule keeps most of the world under the surface, and Fronts and the roster carry secret next moves and lies.",
+     "options": [
+      {
+       "key": "A",
+       "label": "Their own Ledger lines",
+       "consequence": "/due and /ledger show a player only the lines about their own characters."
+      },
+      {
+       "key": "B",
+       "label": "Public faces on the roster",
+       "consequence": "/roster and /npc show what is public: name, look, voice, role. Wants, lies and what they know stay with the Judger."
+      },
+      {
+       "key": "C",
+       "label": "Adjudication cards",
+       "consequence": "Each ruling's card is posted in the scene's thread, so any player can see which stat rows decided it."
+      },
+      {
+       "key": "D",
+       "label": "Front signs, not clocks",
+       "consequence": "/fronts lists the rumours and signs players' characters have met, never clocks, positions or next moves."
+      }
+     ],
+     "recommended": "A,B,C",
+     "rec_reason": "Players get what their characters would know and the proof of every ruling, while Fronts stay under the surface; D would need a sign log the table does not keep yet.",
+     "multi": true,
+     "depends_on": [
+      "WD2",
+      "MP3"
+     ],
+     "rules_touched": [
+      "R13-8-RECONSTRUCTIBLE_ADJUDICATION",
+      "R14-3-TRACEABILITY"
+     ]
+    }
+   ]
+  },
+  {
+   "key": "ME",
+   "title": "Method",
+   "intro": "How the answers become working law, and how they are proved in play.",
+   "questions": [
+    {
+     "id": "ME1",
+     "title": "Where the table law lands",
+     "question": "Where do the table answers land?",
+     "context": "R70-135 and R71-102 each landed a dated rule doc plus guide editions and NATALIE.md rewrites. The table's working parts live in NATALIE.md's Table Rules, four skills (wotr-rp, wotr-ledger, wotr-npc, judger) and the MCP tools (session_start, due, advance_front, npc_set, scene_menu). NATALIE.md still prints the old length bands and a Notion Ledger.",
+     "options": [
+      {
+       "key": "A",
+       "label": "Rule doc only",
+       "consequence": "One dated Table Law doc through log_ruling, served by load_rules. NATALIE.md and the skills stay as they are until a later pass."
+      },
+      {
+       "key": "B",
+       "label": "Rule doc and NATALIE.md",
+       "consequence": "A, plus NATALIE.md's Table Rules and Session Protocol rewritten to it, with a new multiplayer section and the stale lines gone."
+      },
+      {
+       "key": "C",
+       "label": "B, plus the skills",
+       "consequence": "B, plus wotr-rp, wotr-ledger, wotr-npc and judger rewritten, so no skill still teaches dead table law."
+      },
+      {
+       "key": "D",
+       "label": "C, plus the tools",
+       "consequence": "C, plus MCP changes: a thread and a date or trigger on Ledger rows, a pace on Fronts, new roster fields, reward and penalty in scene_menu, and the bot's table commands per MP6."
+      }
+     ],
+     "recommended": "D",
+     "rec_reason": "The table fails today in its tools (due() drowns, Fronts barely tick, the roster has no field for what NPCs are doing), so law that stops at prose would change nothing in play.",
+     "multi": false,
+     "depends_on": [
+      "WD1",
+      "WD3",
+      "WD7",
+      "MP6"
+     ],
+     "rules_touched": [
+      "R70-135-WHERE_NEW_LAW_LIVES",
+      "R71-102-WHERE_COMBAT_LAW_LANDS"
+     ]
+    },
+    {
+     "id": "ME2",
+     "title": "The data already on file",
+     "question": "What happens to the Fronts, Ledger lines and State of Play pages already on file?",
+     "context": "Sixty-three Ledger lines are open and none has been collected; lines from the Ashgate day sit beside the year after, and one waits on a man another scene killed. Twelve Fronts have never ticked. The Kharven State of Play was last rewritten 2026-09-10, and sessions.yaml logs one session.",
+     "options": [
+      {
+       "key": "A",
+       "label": "Apply going forward",
+       "consequence": "The new law binds new entries; old rows stay as they are and are fixed when play touches them."
+      },
+      {
+       "key": "B",
+       "label": "One reconciliation pass",
+       "consequence": "Every open row gets a thread and a date or trigger under the new law; dead and stale lines retire with a note; Fronts get a pace; State of Play pages are rewritten."
+      },
+      {
+       "key": "C",
+       "label": "Fresh start per thread",
+       "consequence": "The old Ledger and Fronts are archived whole; each live thread starts a short new Ledger and three or four Fronts drawn from what still matters."
+      }
+     ],
+     "recommended": "B",
+     "rec_reason": "The lines record real costs from real scenes and his direction is that nothing sits pending; one pass makes due() usable at once without throwing away what play already paid for.",
+     "multi": false,
+     "depends_on": [
+      "ME1"
+     ],
+     "rules_touched": []
+    },
+    {
+     "id": "ME3",
+     "title": "The test session",
+     "question": "In what order does the table work run, and what proves it?",
+     "context": "R70-138 and R71-105 both ran law first, then a test in a live thread, then amendments. The table has two loops to prove: a Desktop session run from start to close, and a Discord scene through post, ruling, archive and the Judger's close. A test session uses NPCs, or leaves your character's moves to you.",
+     "options": [
+      {
+       "key": "A",
+       "label": "Law, Desktop test, rest",
+       "consequence": "Log the law; run one Desktop session under it with today's tools; amend; then the tools, skills and data pass."
+      },
+      {
+       "key": "B",
+       "label": "Law and tools, two tests",
+       "consequence": "Log the law, change the tools and reconcile the data; run one Desktop session start to close and one Discord scene through the full loop; amend; then the skills."
+      },
+      {
+       "key": "C",
+       "label": "Everything, then test",
+       "consequence": "Law, NATALIE.md, skills, tools and data all done first; one Desktop session then proves the lot."
+      }
+     ],
+     "recommended": "B",
+     "rec_reason": "The table's failures sit in the tools and the stale data, so a test before they change would only find them again; two tests, because the Discord loop has never run end to end.",
+     "multi": false,
+     "depends_on": [
+      "ME1",
+      "ME2"
+     ],
+     "rules_touched": [
+      "R70-138-PROOF_ORDER_WORK",
+      "R71-105-PROOF_ORDER_WORK"
+     ]
+    }
+   ]
+  }
+ ],
+ "settled": [
+  {
+   "point": "NPCs lie often and for their own reasons, and every lie leaves a catchable tell.",
+   "rule_ids": [
+    "R48-42-LIES",
+    "R49-36-LIE_TELLS"
+   ],
+   "why_not_asked": "Ruled 2026-09-26; WD6 asks only how many lies are kept and where. The mystery questionnaire asks what catching a lie is (its K5), what an uncaught lie becomes (MY10) and how honest errors are built (MY9), and owns lie tells as craft."
+  },
+  {
+   "point": "NPCs want things and pursue them; they lie, withhold, refuse, bargain and misjudge him, and if an NPC would refuse, they refuse.",
+   "rule_ids": [],
+   "why_not_asked": "NATALIE.md Table Rule 3, standing law with no row id; the wotr-npc skill already makes a refusal line mandatory on every roster NPC."
+  },
+  {
+   "point": "NPCs are veteran-clever, never omniscient, never dumb, and no engagement is rigged either way.",
+   "rule_ids": [
+    "R48-36-NPC_WITS",
+    "R57-10-NEVER_RIGGED"
+   ],
+   "why_not_asked": "Live law; WD7 builds on it."
+  },
+  {
+   "point": "Death comes only if earned, from real mistakes after clear warning, and is almost always permanent; nothing is safe.",
+   "rule_ids": [
+    "R48-31-STAKES",
+    "R60-04-DEATH_IS_PERMANENT"
+   ],
+   "why_not_asked": "Live law; WD11 asks only what 'clear' means outside a fight, WD12 what follows a death."
+  },
+  {
+   "point": "The world may take things short of a death: a body part, liberty, standing, a bond. Nothing is safe, healing runs on real timelines, a yield's terms go on the Ledger, and losses still cost.",
+   "rule_ids": [
+    "R48-31-STAKES",
+    "R60-02-REAL_HEALING_TIMES",
+    "R71-20-FIGHTS_END",
+    "R70-114-GRIMDARK_WARMTH"
+   ],
+   "why_not_asked": "'Nothing is safe' (R48-31) and 'Losses still cost' (R70-114) already allow each of these; R70-114 still asks every live thread to carry a warm bond."
+  },
+  {
+   "point": "Big surprises (betrayal, ambush, death) only after foreshadowing a player could have caught.",
+   "rule_ids": [
+    "R48-30-SURPRISES"
+   ],
+   "why_not_asked": "Live law."
+  },
+  {
+   "point": "Healing runs on real timelines, reserve runs on a hard clock, and a Ledger wound carried into a fight works by its anatomy, not by a Grade.",
+   "rule_ids": [
+    "R60-02-REAL_HEALING_TIMES",
+    "R60-03-HARD_RESERVE_CLOCK",
+    "R71-25-WOUNDS_CARRIED_INTO_NEXT"
+   ],
+   "why_not_asked": "Live law; WD8 (time off) builds on it."
+  },
+  {
+   "point": "Fights end by yield on terms, by flight or by a duel code; the terms go on the Ledger.",
+   "rule_ids": [
+    "R71-20-FIGHTS_END"
+   ],
+   "why_not_asked": "Combat Law CW11, ruled 2026-10-04."
+  },
+  {
+   "point": "A fight's costs arrive in the aftermath as a person or a paper; a public fight goes on the Reckoner's roll and may earn a Guild commendation with no stat effect.",
+   "rule_ids": [
+    "R71-99-BILL_AFTER_FIGHT",
+    "R71-100-ROLL_AFTER_PUBLIC_FIGHT",
+    "R70-96-TITLES_ACHIEVEMENTS"
+   ],
+   "why_not_asked": "Combat Law WT10 and the style law; WD4 asks only how the rest of the Ledger arrives, WD10 what else a win pays."
+  },
+  {
+   "point": "A practitioner's killing opens a jurisdiction Front; a killer who does not declare by the next dawn is a murderer.",
+   "rule_ids": [
+    "R71-101-LAW_TURNS",
+    "R60-11-TRACE_EVIDENCE_AND_JURISDICTION"
+   ],
+   "why_not_asked": "Combat Law WT12, ruled 2026-10-04."
+  },
+  {
+   "point": "A spared rival is paid for on the Ledger, and a public face-slap opens a Front or a Ledger debt.",
+   "rule_ids": [
+    "R70-104-RIVAL_BOND",
+    "R70-112-FACE_FACE_SLAP"
+   ],
+   "why_not_asked": "Style Law, ruled 2026-10-03."
+  },
+  {
+   "point": "Quiet, travel and downtime scenes may run kishōtenketsu (the four-part shape with no conflict), weeks of drill may pass as one training-montage passage ending on a reading, and a roleplay turn still stops at your decision.",
+   "rule_ids": [
+    "R70-14-KISHOTENKETSU",
+    "R70-18-ARC_SHAPES"
+   ],
+   "why_not_asked": "Style Law; WD8 asks how downtime is chosen and paid, not its prose shape."
+  },
+  {
+   "point": "Dull travel passes in a line; journeys run at real period rates; weather and season are tracked like a clock.",
+   "rule_ids": [
+    "R48-29-PACING",
+    "R53-08-TRAVEL_RATES",
+    "R53-09-WEATHER"
+   ],
+   "why_not_asked": "Live law; WD9 asks only about journeys with something at stake."
+  },
+  {
+   "point": "Every sum on the page is quoted from the approved price table, payment in kind named exactly, and money comes before magic.",
+   "rule_ids": [
+    "R53-07-PRICE_TABLE",
+    "R70-48-MONEY_PRICE_PROVENANCE",
+    "R53-17-THE_BILL"
+   ],
+   "why_not_asked": "Live law; What Things Cost is published. WD8 asks only whether upkeep is tracked."
+  },
+  {
+   "point": "Grief Fronts are legal.",
+   "rule_ids": [
+    "R58-07-WREN_GRIEF_FRONT"
+   ],
+   "why_not_asked": "Ruled 2026-09-26."
+  },
+  {
+   "point": "Academy bouts run on chalked terms with the warden's gauge as backstop.",
+   "rule_ids": [
+    "R71-54-BOUTS_AETHERION"
+   ],
+   "why_not_asked": "Combat Law FT4; MP3 asks whether the pattern widens to every contest between players."
+  },
+  {
+   "point": "No dice in canon: contested actions are decided from named stat rows and must be reconstructible from the page.",
+   "rule_ids": [
+    "R14-3-STATS_DECIDE_TABLE",
+    "R14-3-TRACEABILITY",
+    "R13-8-RECONSTRUCTIBLE_ADJUDICATION"
+   ],
+   "why_not_asked": "Live law and the bot's 2026-09-13 scope decision; every option here keeps it."
+  },
+  {
+   "point": "The Discord bot stays deterministic, with no language model.",
+   "rule_ids": [],
+   "why_not_asked": "Your scope decision of 2026-09-13 (bot/PLAN.md); MP1 option C says plainly that it would reopen it."
+  },
+  {
+   "point": "Natalie never thinks, speaks or acts for the other creators' characters or for another player's character; your characters stay yours in a crossover.",
+   "rule_ids": [
+    "R1-1-RESTRICTED_CHARACTERS_EXCLUDED",
+    "R52-10-CROSSOVER"
+   ],
+   "why_not_asked": "Standing law; MP5 asks only how ownership is marked."
+  }
+ ]
+}

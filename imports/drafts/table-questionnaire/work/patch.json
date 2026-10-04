@@ -1,0 +1,422 @@
+{
+ "lede": "You asked what else deserved a questionnaire and picked the table itself: how a roleplay session runs, from a turn's shape and length through Natalie's improvising, NPC wants and lies, Fronts and the Ledger, consequences, downtime, the Scene Menu and multiplayer on Discord. There are 43 questions in five sections, each with a recommendation you can take as it stands, and nothing ruled in the Style Law or the Combat Law is asked again: the settled list at the end says what was left alone and why. Answer the seven Keystones first, since most later questions lean on them.",
+ "section_order": [
+  "K",
+  "TU",
+  "WD",
+  "MP",
+  "ME"
+ ],
+ "drop": [],
+ "add": [
+  {
+   "section_key": "WD",
+   "after_id": "WD7",
+   "question": {
+    "id": "WD13",
+    "title": "What sways an NPC",
+    "question": "Beyond its own want, what may decide how an NPC answers your PC's offer, threat or lie?",
+    "context": "Table Rule 3: an NPC who would refuse, refuses. Table Rule 5 decides from 'Stage gap, the read, what has been spent, and the environment' (R14-3), but every stat row is a fight's or a working's, and R71-22 prices a lie only mid-fight. Nothing weighs your PC's rank, name or lie in talk. Old-school tabletop rolled an NPC's reaction; WOTR rolls nothing (R13-8).",
+    "options": [
+     {
+      "key": "A",
+      "label": "Rank bends it",
+      "consequence": "A Stage gap felt as Pressure (R70-69) and a commoner's awe of a ranked practitioner (R53-18) can make an NPC yield what its want alone would refuse; a ranked NPC weighs them less."
+     },
+     {
+      "key": "B",
+      "label": "His name goes before him",
+      "consequence": "Ledger lines for reputation and who saw what reach the NPC: it answers what your PC did in public, for good or ill, and the notes name the line that weighed."
+     },
+     {
+      "key": "C",
+      "label": "His lies caught on evidence",
+      "consequence": "An NPC catches your PC's lie only on what it can check: a tell in his body, a fact it holds, or a read its Gnosis earns (R14-3's read row). Otherwise the lie holds."
+     }
+    ],
+    "recommended": "A,B,C",
+    "rec_reason": "All three carry Table Rule 5's own inputs into talk (the gap, his record, the read), so a social outcome reconstructs as a fight's does (R13-8), and his lie stands or falls on evidence you could manage, never on what Natalie knows.",
+    "multi": true,
+    "depends_on": [],
+    "rules_touched": [
+     "R14-3-STATS_DECIDE_TABLE",
+     "R13-8-RECONSTRUCTIBLE_ADJUDICATION",
+     "R70-69-PRESSURE_AURA",
+     "R53-18-AWE",
+     "R71-22-TALK_INSIDE_FIGHT",
+     "R49-36-LIE_TELLS"
+    ]
+   }
+  },
+  {
+   "section_key": "WD",
+   "after_id": "WD12",
+   "question": {
+    "id": "WD14",
+    "title": "Who writes the close",
+    "question": "When a session closes, does Natalie apply what it writes to the table, or does each item wait for your yes?",
+    "context": "The wotr-ledger and judger skills make every Ledger line, Front tick and roster entry 'a proposal Isaac approves item by item'. Three judger closes made 115 proposals and 22 landed; sessions.yaml logs one session, and the Kharven State of Play was last rewritten 2026-09-10. Your direction is that nothing waits on you, and R20C-34 says estimates no longer wait for ratification.",
+    "options": [
+     {
+      "key": "A",
+      "label": "Each item waits",
+      "consequence": "As the skills say now: at your wrap Natalie drafts the close, and every Ledger line, Front tick, roster entry and State of Play change waits for your yes."
+     },
+     {
+      "key": "B",
+      "label": "Applied, then listed",
+      "consequence": "At your wrap and whenever a scene is archived, Natalie applies the close herself and lists each write once as an agent ruling (a call you may overturn); nothing waits."
+     },
+     {
+      "key": "C",
+      "label": "Applied, yours wait",
+      "consequence": "As B, except a write that sets a fact about your own characters (their body, kin, Stage or a choice) waits for one word from you, as K2's option B does in play."
+     }
+    ],
+    "recommended": "C",
+    "rec_reason": "It ends the close that never lands and matches the call K2 recommends for play, keeping back only what is yours (R52-08); a scene archived is a scene closed, so the State of Play stops going stale.",
+    "multi": false,
+    "depends_on": [
+     "K2"
+    ],
+    "rules_touched": [
+     "R48-26-INVENTION",
+     "R52-08-PC_IDIOM",
+     "R20C-34-ESTIMATES_CANON_ON_USE",
+     "R70-40-WIDE_DESCRIPTION_MUST_RANGE",
+     "R48-47-NOTES"
+    ]
+   }
+  },
+  {
+   "section_key": "WD",
+   "after_id": "WD14",
+   "question": {
+    "id": "WD15",
+    "title": "Scenes set in the past",
+    "question": "When a scene is set before its thread's live moment, what may it write to the Fronts and the Ledger?",
+    "context": "The Kharven Fronts are keyed to the year after, yet most Kharven scenes archived since are backfill (written later, set earlier) of the Ashgate day; their costs went onto the Ledger beside live ones, and one line waits on a man another scene killed. R53-09 dates each thread on its State of Play. ME2 sorts the old rows; this sets the rule going forward.",
+    "options": [
+     {
+      "key": "A",
+      "label": "Only what still binds",
+      "consequence": "A past scene adds canon and precedent, and writes a Ledger line or Front history only for what still binds at the thread's live date, which the close checks."
+     },
+     {
+      "key": "B",
+      "label": "Dated, then retired",
+      "consequence": "A past scene writes Ledger lines and Front history dated to its own day; any line already paid or moot by the live date retires at once with a note."
+     },
+     {
+      "key": "C",
+      "label": "Canon only",
+      "consequence": "A past scene writes nothing to the table; what it set up reaches play only when a live scene picks it up."
+     }
+    ],
+    "recommended": "A",
+    "rec_reason": "It keeps due() honest about where the thread stands while the costs a past scene really carries forward (a scar, a debt still open) reach the table at once, and nothing is entered only to be retired.",
+    "multi": false,
+    "depends_on": [
+     "WD3",
+     "WD14"
+    ],
+    "rules_touched": [
+     "R53-09-WEATHER",
+     "R70-137-ARCHIVED_SCENES"
+    ]
+   }
+  }
+ ],
+ "rec_changes": [
+  {
+   "id": "WD2",
+   "recommended": "A",
+   "rec_reason": "The read is the game (Table Rule 6) and you like counters that can be found; a sign for every tick gives you something to find, and owning the files leaves you free to look whenever you choose."
+  },
+  {
+   "id": "WD3",
+   "recommended": "B",
+   "rec_reason": "Story time is already tracked (R53-09) and a trigger in the fiction is how a debt really arrives; with a thread on every row and the fired lines marked, due() stops handing you thirty lines from every thread at once."
+  },
+  {
+   "id": "WD8",
+   "recommended": "C",
+   "rec_reason": "Money before magic (R53-17) and a named sum for every payment (R70-48) want living costs on the page, your LitRPG models love visible progress, and a clock shows long work without inventing a number; cooling heat and keeping a bond stay on the list only if WD5 adds them."
+  },
+  {
+   "id": "WD11",
+   "recommended": "C",
+   "rec_reason": "The read stays the game wherever your character could make it; a death he could never have read gets one plain line in the foot, as fair play already says (never punish you for what nobody could find), and that is what R48-31's 'clear warning' is for."
+  },
+  {
+   "id": "WD12",
+   "recommended": "A",
+   "rec_reason": "The world moved before him and moves after him; keeping the clocks and handing the debts on makes the death cost something in the world, and leaves you free to choose who walks in next, an heir included."
+  },
+  {
+   "id": "MP1",
+   "recommended": "B",
+   "rec_reason": "Guest players get a world that answers under the same law as the Desktop table, while you keep every word that reaches the server and the bot stays as you decided."
+  },
+  {
+   "id": "MP4",
+   "recommended": "A,B,C",
+   "rec_reason": "Guests did not sign your Floor, so their own limits and their character's mortality are theirs to set, and Discord requires age-restricted channels anyway; out-of-character brackets already serve as a pause."
+  },
+  {
+   "id": "MP5",
+   "recommended": "B",
+   "rec_reason": "A flag nobody rules sits forever, against your 'nothing waits' direction; one struck-or-accepted mark settles each break, and owner marks keep other players' characters from being written by mistake (R52-10)."
+  },
+  {
+   "id": "ME2",
+   "recommended": "B",
+   "rec_reason": "The lines record real costs from real scenes and your direction is that nothing sits pending; one pass makes due() usable at once without throwing away what play already paid for."
+  }
+ ],
+ "intros": {
+  "WD": "How the world moves when your PC is not looking: Fronts (threats with a want and a clock of four to six ticks), the Ledger (the running bill of wounds, debts, witnesses and reputation), what sways an NPC and what NPCs do between scenes, time off, the road, what the world pays or takes, and the session close that writes it all down. The prose samples, in WD4, follow an invented Kharven courier-rider, Aske, standing in for a player's character.",
+  "MP": "The Discord table: your server, where players post as their own characters through Tupperbox (a bot that posts under a character's name) and you sit as Judger, the role that rules and enters canon. R71-6 already settles how a guest's fighter appears on the page; these questions cover the rest."
+ },
+ "settled_extra": [
+  {
+   "point": "Every character you play is yours under R49-01, R52-08 and R52-10, the Academy roster of ten on Discord included; 'your PC' in these questions means whichever of them is on the page.",
+   "rule_ids": [
+    "R49-01-WHOSE_HEAD",
+    "R52-08-PC_IDIOM",
+    "R52-10-CROSSOVER"
+   ],
+   "why_not_asked": "R52-10 already speaks of your POV characters in the plural, and the archive treats all ten as yours; no option here narrows it."
+  },
+  {
+   "point": "When your own finished text contradicts a Front or a Ledger line, the text stands and the table is corrected to it, as the Wren Front was recast as a grief Front after The War in the North IV.",
+   "rule_ids": [
+    "R58-07-WREN_GRIEF_FRONT"
+   ],
+   "why_not_asked": "The canon hierarchy puts your direction first, and the Wren recast of 2026-09-26 is the precedent; WD15 asks only what a scene set in the past writes to the table."
+  }
+ ],
+ "text_fixes": [
+  {
+   "file": "group-1.json",
+   "old": "so a search or an interrogation moves one choice a turn.",
+   "new": "so a search or an interrogation moves one choice a turn. The intimacy questionnaire's SC13 asks the same for the bed."
+  },
+  {
+   "file": "group-1.json",
+   "old": "Horror and the bed get their own questionnaires.",
+   "new": "Horror (mystery HO3) and the bed (intimacy SC12) get their own questionnaires."
+  },
+  {
+   "file": "group-1.json",
+   "old": "How often a Front surfaces is WD2's question. Every sample: Harrowgate sends a sealed note off the grounds about the Finding of Cause.",
+   "new": "How often a Front surfaces is WD2's; a cut inside a case is the mystery questionnaire's K7. Samples: Harrowgate sends a sealed note off the grounds."
+  },
+  {
+   "file": "group-1.json",
+   "old": "Fights at the table: standing orders honoured, a player's fighter written as world facts with the read left to the player,",
+   "new": "Fights at the table: standing orders honoured, a player's fighter (guests at the Discord table included) written as world facts with the read left to the player,"
+  },
+  {
+   "file": "group-1.json",
+   "old": "K5 asks only whether standing orders reach other scenes, K6 whether the world-fact and the-read-is-his rules do.",
+   "new": "K5 asks only whether standing orders reach other scenes, K6 whether the world-fact and the-read-is-his rules do; MP2 uses standing orders for absent players, WD11 asks what a clear warning is outside a fight."
+  },
+  {
+   "file": "group-1.json",
+   "old": "You may take over any NPC's voice, and your version sticks.",
+   "new": "You may take over any NPC's voice; when you hand it back, your version sticks and the roster is updated."
+  },
+  {
+   "file": "group-1.json",
+   "old": "One italic thought per NPC in a roleplay turn; none under a POV lock in a written scene.",
+   "new": "In roleplay, one italic thought per NPC per scene (Table Rule 10, R48-40's one-thought allowance); none under a POV lock in a written scene."
+  },
+  {
+   "file": "group-1.json",
+   "old": "TU10 asks only how the Scene Menu offers its hooks.",
+   "new": "TU10 asks only how the Scene Menu offers its hooks, WD10 what a win pays beyond coin."
+  },
+  {
+   "file": "group-1.json",
+   "old": "Numbers move only for a shown cause; an unsourced figure prints as a marked estimate; no number is invented.",
+   "new": "Numbers move only for a shown cause (a Fracture of Worlds XP event on the page, or training named in a downtime turn); an unsourced figure prints as a marked estimate; no number is invented."
+  },
+  {
+   "file": "group-1.json",
+   "old": "Ruled. K2 relies on it so that numbers never wait for you.",
+   "new": "Ruled. K2 relies on it so that numbers never wait for you; what a span of training buys is the techniques questionnaire's CH15."
+  },
+  {
+   "file": "group-1.json",
+   "old": "a per-session warm beat was weighed for K1 and left out as a near-repeat.",
+   "new": "a per-session warm beat was weighed for K1 and left out as a near-repeat. WD5 asks only whether bonds go on the Ledger by name."
+  },
+  {
+   "file": "group-2.json",
+   "old": ",\n  {\n   \"point\": \"Isaac may take any NPC's voice; when he hands it back, his version sticks and the roster is updated.\",\n   \"rule_ids\": [\n    \"R48-32-NPC_VOICES\",\n    \"R52-12-HANDBACK\"\n   ],\n   \"why_not_asked\": \"Live law since 2026-09-26.\"\n  }",
+   "new": ""
+  },
+  {
+   "file": "group-2.json",
+   "old": ",\n  {\n   \"point\": \"Before a losing fight's killing exchange, a plain sign lands and a way out is shown, and the notes cite both.\",\n   \"rule_ids\": [\n    \"R71-67-CLEAR_WARNING_BEFORE_LOSS\"\n   ],\n   \"why_not_asked\": \"Combat Law FT17, ruled 2026-10-04.\"\n  }",
+   "new": ""
+  },
+  {
+   "file": "group-2.json",
+   "old": ",\n  {\n   \"point\": \"Quests are posted Guild and Crown contracts, and every hook states its reward and penalty.\",\n   \"rule_ids\": [\n    \"R70-97-QUESTS_CONTRACTS\",\n    \"R71-97-CONTRACT_FIGHTS\"\n   ],\n   \"why_not_asked\": \"Style Law and Combat Law; WD10 asks only what pays beyond coin.\"\n  }",
+   "new": ""
+  },
+  {
+   "file": "group-2.json",
+   "old": ",\n  {\n   \"point\": \"Numbers move only for a seen cause: a FOW XP event on the page or training named in a downtime turn.\",\n   \"rule_ids\": [\n    \"R70-90-FAST_NUMBERS_CLIMB\"\n   ],\n   \"why_not_asked\": \"Style Law; how much a stretch of training buys is progression, which belongs to the techniques and characters questionnaire.\"\n  }",
+   "new": ""
+  },
+  {
+   "file": "group-2.json",
+   "old": ",\n  {\n   \"point\": \"Every live thread carries a standing warm bond, written openly warm.\",\n   \"rule_ids\": [\n    \"R70-114-GRIMDARK_WARMTH\"\n   ],\n   \"why_not_asked\": \"Style Law; WD5 asks only whether bonds go on the Ledger by name.\"\n  }",
+   "new": ""
+  },
+  {
+   "file": "group-2.json",
+   "old": ",\n  {\n   \"point\": \"In a roleplay fight Isaac may post standing orders, run exchange by exchange until the first branch they do not cover.\",\n   \"rule_ids\": [\n    \"R71-5-ROLEPLAY_TURNS_AGAINST_WRITTEN\"\n   ],\n   \"why_not_asked\": \"Combat Law K5; MP2 uses it for absent players.\"\n  }",
+   "new": ""
+  },
+  {
+   "file": "group-2.json",
+   "old": ",\n  {\n   \"point\": \"A player's fighter, guests at the Discord table included: wounds as world facts, the tell placed and the read left to the player, seen from outside, outward cost only.\",\n   \"rule_ids\": [\n    \"R71-6-PLAYER_FIGHTER_PAGE\"\n   ],\n   \"why_not_asked\": \"Combat Law K9, ruled 2026-10-04.\"\n  }",
+   "new": ""
+  },
+  {
+   "file": "group-2.json",
+   "old": ",\n  {\n   \"point\": \"Roleplay turns keep one italic private thought per NPC; written scenes keep the POV lock.\",\n   \"rule_ids\": [\n    \"R48-40-NPC_THOUGHTS\"\n   ],\n   \"why_not_asked\": \"Live law since 2026-09-26.\"\n  }",
+   "new": ""
+  },
+  {
+   "file": "group-2.json",
+   "old": "The mystery questionnaire asks what an uncaught lie becomes (its K5) and how honest errors are built (its MY10), and owns lie tells as craft.",
+   "new": "The mystery questionnaire asks what catching a lie is (its K5), what an uncaught lie becomes (MY10) and how honest errors are built (MY9), and owns lie tells as craft."
+  },
+  {
+   "file": "group-2.json",
+   "old": "Honest errors and what an uncaught lie becomes are the mystery questionnaire's.",
+   "new": "Catching a lie, honest errors and the uncaught lie are the mystery questionnaire's (K5, MY9, MY10)."
+  },
+  {
+   "file": "group-2.json",
+   "old": "No downtime turn has ever been played.",
+   "new": "No downtime turn has ever been played; what training pays is the techniques questionnaire's CH15."
+  },
+  {
+   "file": "group-2.json",
+   "old": "Apocalypse World tells its game master to think offscreen too.",
+   "new": "Apocalypse World tells its game master to think offscreen too; a rival's growth off the page is the techniques questionnaire's CH12."
+  },
+  {
+   "file": "group-2.json",
+   "old": "the chat summary carries one plain OOC line saying so.",
+   "new": "the OOC foot under the turn (TU5) carries one plain line saying so."
+  },
+  {
+   "file": "group-2.json",
+   "old": "How much of a Front reaches Isaac during play?",
+   "new": "How much of a Front reaches you during play?"
+  },
+  {
+   "file": "group-2.json",
+   "old": "The clocks sit in table/fronts.yaml, which Isaac can open.",
+   "new": "The clocks sit in table/fronts.yaml, which you can open; the mystery questionnaire's IN6 asks this for intrigue Fronts."
+  },
+  {
+   "file": "group-2.json",
+   "old": "Clocks are never printed in play; the files stay his to open.",
+   "new": "Clocks are never printed in play; the files stay yours to open."
+  },
+  {
+   "file": "group-2.json",
+   "old": "never how far or toward what, so he knows where to look.",
+   "new": "never how far or toward what, so you know where to look."
+  },
+  {
+   "file": "group-2.json",
+   "old": "Do named NPCs move on their wants when he is not in the room?",
+   "new": "Do named NPCs move on their wants when your PC is not in the room?"
+  },
+  {
+   "file": "group-2.json",
+   "old": "He says what he does and Natalie writes the span in one passage.",
+   "new": "You say what he does and Natalie writes the span in one passage."
+  },
+  {
+   "file": "group-2.json",
+   "old": "He names up to two activities a span (heal, train, work, pay or call a debt, cool heat, keep a bond);",
+   "new": "You name up to two activities a span (heal, train, work, settle a debt, cool heat, keep a bond);"
+  },
+  {
+   "file": "group-2.json",
+   "old": "Before a choice that can kill his character,",
+   "new": "Before a choice that can kill your character,"
+  },
+  {
+   "file": "group-2.json",
+   "old": "If his character dies, what happens to the thread?",
+   "new": "If your character dies, what happens to the thread?"
+  },
+  {
+   "file": "group-2.json",
+   "old": "The thread goes on and his next character enters it.",
+   "new": "The thread goes on and your next character enters it."
+  },
+  {
+   "file": "group-2.json",
+   "old": "his next character starts a new thread.",
+   "new": "your next character starts a new thread."
+  },
+  {
+   "file": "group-2.json",
+   "old": "Natalie is not on the server today: Isaac brings another player's post and his beat to her, she writes his reply, he posts it. The bot is deterministic, with no language model, by Isaac's 2026-09-13 decision. Another player posts the Academy's announcements, so part of the world's voice there is not Isaac's.",
+   "new": "Natalie is not on the server today: you bring another player's post and your beat to her, she writes your reply, you post it. The bot is deterministic, with no language model, by your 2026-09-13 decision. Another player posts the Academy's announcements, so part of the world's voice there is not yours."
+  },
+  {
+   "file": "group-2.json",
+   "old": "As now: Natalie writes Isaac's posts for his own characters",
+   "new": "As now: Natalie writes your posts for your own characters"
+  },
+  {
+   "file": "group-2.json",
+   "old": "rulings and closes for Isaac to post as narrator. Every word that reaches the server passes through his hands,",
+   "new": "rulings and closes for you to post as narrator. Every word that reaches the server passes through your hands,"
+  },
+  {
+   "file": "group-2.json",
+   "old": "NATALIE.md's Floor is written for Isaac and Natalie alone;",
+   "new": "NATALIE.md's Floor is written for you and Natalie alone;"
+  },
+  {
+   "file": "group-2.json",
+   "old": "where one of Isaac's characters or a carded NPC is present",
+   "new": "where one of your characters or a carded NPC is present"
+  },
+  {
+   "file": "group-2.json",
+   "old": "A test session uses NPCs, or leaves his character's moves to him.",
+   "new": "A test session uses NPCs, or leaves your character's moves to you."
+  },
+  {
+   "file": "group-2.json",
+   "old": "and a roleplay turn still stops at Isaac's decision.",
+   "new": "and a roleplay turn still stops at your decision."
+  },
+  {
+   "file": "group-2.json",
+   "old": "\"why_not_asked\": \"Isaac's scope decision of 2026-09-13",
+   "new": "\"why_not_asked\": \"Your scope decision of 2026-09-13"
+  },
+  {
+   "file": "group-2.json",
+   "old": "Isaac's characters stay his in a crossover.",
+   "new": "your characters stay yours in a crossover."
+  }
+ ],
+ "notes": "1. Read both groups (40 questions, 49 settled rows) and the three research files, and checked every cited rule id against rules/*.yaml (all exist) and the cross-references to the mystery, intimacy and techniques questionnaires' current group files. 2. No drops: no two questions ask the same thing. Close pairs kept and cross-referenced: K5 with the intimacy SC13 (standing orders in bed); K6 with the mystery HO3 and intimacy SC12; K7 with the mystery K7 (cuts inside a case); WD2 with the mystery IN6 (intrigue Fronts' visibility; IN6 recommends a shown clock with sealed contents, WD2 hidden clocks with open files, so the main session should reconcile the two recommendations when both are answered); WD6 with the mystery K5, MY9, MY10; WD7 with the techniques CH12; WD8 with the techniques CH15. 3. Three additions, each a gap research-law or research-house flagged and no group asked: WD13 what sways an NPC (social adjudication: R14-3's rows are all fight rows and nothing weighs Pressure, reputation or the PC's own lie in talk); WD14 who writes the session close (the skills' item-by-item approval against the nothing-waits direction; 115 judger proposals, 22 applied; it also fixes the close's trigger at a wrap or an archived scene, so no separate 'what is a session' question was needed); WD15 scenes set in the past (backfill writing Ashgate-day costs beside the year after). 4. Recommendations aligned: WD14 C matches K2 B; WD11 B now points at TU5's OOC foot instead of the 'chat summary'; WD8's rec notes that heat and bonds depend on WD5. Recommended options unchanged; nine rec_reasons rewritten only to address you directly. 5. Voice: group-2 named Isaac in the third person in its questions, contexts, consequences and reasons; text_fixes and rec_changes turn those to 'you', as group-1 and the earlier questionnaires do ('he' and 'his' for the PC are kept). WD and MP intros rewritten the same way, WD's to name the three additions. 6. Stale text: group-2's settled row had the mystery ids wrong (catching a lie is its K5, the uncaught lie MY10, honest errors MY9); group-1's italic-thought row said 'per turn' where Table Rule 10 and R48-40's allowance read per scene. 7. Settled list deduped: eight group-2 rows repeated group-1 rows (NPC voices, the hook reward and penalty, numbers for a shown cause, the warm bond, standing orders, a player's fighter, the sign and exit, NPC thoughts); they are removed by multi-line text_fixes (each old string is the row's exact text with its leading comma) and their cross-references folded into group-1's rows. Two settled_extra rows: every character Isaac plays is his PC (the Discord roster of ten), and his own finished text outranks a Front or a Ledger line. 8. Every text_fix was applied in order to scratch copies: each old string occurs exactly once at its turn, both files parse, and the merged set checks clean (43 questions, no dashes, 2 to 4 options, labels 5 words or fewer, consequences under 40 words, contexts under 70 words, every depends_on resolves)."
+}

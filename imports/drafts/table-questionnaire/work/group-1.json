@@ -1,0 +1,892 @@
+{
+  "sections": [
+    {
+      "key": "K",
+      "title": "Keystones",
+      "intro": "Answer these first: they set what a session promises, which calls Natalie makes alone, which replies run long, where a turn stops, and what the world may write on your PC. Your PC is your player character, an NPC is anyone else, OOC (out of character) is table talk outside the fiction, a Front is a threat with a clock, and the Ledger is the running bill of costs.",
+      "questions": [
+        {
+          "id": "K1",
+          "title": "What a session promises",
+          "question": "What does Natalie prep for a thread, and what does every session promise you?",
+          "context": "No rule says. R57-10 forbids rigging either way, and R70-18 licenses arc shapes such as the tournament. Apocalypse World (a tabletop roleplaying game) has its game master prep threats, never plots, to \"find out what happens\" (Baker); web serials pay off a beat every chapter. The house data shows threads stalling short of their set piece: the Academy tournament is still unplayed.",
+          "options": [
+            {
+              "key": "A",
+              "label": "Nothing promised",
+              "consequence": "Natalie preps situations only: NPCs with wants, Fronts with clocks, places with trouble. No scene or outcome is planned, no payoff is placed, and a session may end with nothing won."
+            },
+            {
+              "key": "B",
+              "label": "A payoff in reach",
+              "consequence": "Situations only, plus one earnable payoff put in reach each session (a read that can land, a debt to collect, a Guild re-assay, the fresh measure of his rank) beside a fresh cost."
+            },
+            {
+              "key": "C",
+              "label": "A planned spine",
+              "consequence": "Situations, plus each thread's next set piece held in view (the bout, the hearing, the delve) with Fronts leaning toward it. The route is steered; the outcome stays open."
+            },
+            {
+              "key": "D",
+              "label": "Spine and payoff",
+              "consequence": "B and C together: each thread works toward its next set piece, and every session on the way puts one earnable payoff in reach beside a fresh cost."
+            }
+          ],
+          "recommended": "D",
+          "rec_reason": "Your models (Cradle, Dungeon Crawler Carl, the web serials) pay off often and build toward set pieces, and the stalled tournament shows what drift costs; outcomes stay open, so R57-10's fairness holds.",
+          "multi": false,
+          "depends_on": [],
+          "rules_touched": [
+            "R57-10-NEVER_RIGGED",
+            "R70-18-ARC_SHAPES",
+            "R70-90-FAST_NUMBERS_CLIMB",
+            "R48-29-PACING"
+          ]
+        },
+        {
+          "id": "K2",
+          "title": "Improvise or ask",
+          "question": "At the table, which calls does Natalie make herself, and which wait for you?",
+          "context": "R48-26: invent NPCs, places and texture \"without asking, logged; bigger things wait for Isaac.\" \"Bigger\" is never defined, and CLAUDE.md's \"Nothing waits on Isaac\" and your \"make the calls\" pull the other way. About sixty \"pending Isaac\" flags sit in the notes of fifty-nine table scenes, several of them stalling play.",
+          "options": [
+            {
+              "key": "A",
+              "label": "Natalie decides everything",
+              "consequence": "\"Bigger things wait\" is struck. Natalie makes every call, even a carded NPC's death or a new faction, and logs each as an agent ruling (a call you may overturn) under the turn."
+            },
+            {
+              "key": "B",
+              "label": "Only your own wait",
+              "consequence": "Natalie makes and logs every call except facts about your own characters (their past, kin, body, Stage), which she asks in one OOC line under the turn while play carries on."
+            },
+            {
+              "key": "C",
+              "label": "Canon changes wait",
+              "consequence": "Anything that would change a card, a canon page or a rule waits for your word, and the turn writes around it until you answer."
+            },
+            {
+              "key": "D",
+              "label": "As written",
+              "consequence": "R48-26 unchanged: Natalie judges case by case what counts as bigger."
+            }
+          ],
+          "recommended": "B",
+          "rec_reason": "It ends the pending pile you asked to end and keeps back only what is truly yours, your characters' lives (R52-08); numbers never wait either, since R70-99 prints an unsourced figure as a marked estimate.",
+          "multi": false,
+          "depends_on": [],
+          "rules_touched": [
+            "R48-26-INVENTION",
+            "R52-08-PC_IDIOM",
+            "R70-99-NUMBER_NOT_YET_CANON",
+            "R20C-34-ESTIMATES_CANON_ON_USE",
+            "R48-50-PUSHBACK"
+          ]
+        },
+        {
+          "id": "K3",
+          "title": "Which replies run long",
+          "question": "Which replies run to the full 3,500 words?",
+          "context": "R49-30: \"Every reply is a full turn of about 3,500 words, even to a quick line or question.\" It was asked about in-character lines. Open: an OOC question, a ruling or a correction, and the Discord posts Natalie writes from your beat (your short prompt), which run a median 1,506 words. A Discord message holds 2,000 characters, about 350 words.",
+          "options": [
+            {
+              "key": "A",
+              "label": "Every reply, as written",
+              "consequence": "R49-30 read whole: OOC answers, rulings and corrections come wrapped in a full turn, and every Discord post runs about 3,500 words, split across ten or so messages."
+            },
+            {
+              "key": "B",
+              "label": "All fiction, OOC plain",
+              "consequence": "Every in-fiction turn and every Discord post runs about 3,500 words, even to one quick line; an OOC question, ruling or correction gets a plain answer at its own length."
+            },
+            {
+              "key": "C",
+              "label": "Desktop fiction only",
+              "consequence": "This reopens R49-30 for Discord: Desktop turns run about 3,500 and OOC answers are plain; a Discord post runs about 1,500 words, the house median, unless your beat asks for more."
+            }
+          ],
+          "recommended": "C",
+          "rec_reason": "3,500 was your answer for Natalie's turns at your own table; a Discord post shares a channel with other players and splits across messages, and the 1,500-word posts are the ones you have been posting.",
+          "multi": false,
+          "depends_on": [],
+          "rules_touched": [
+            "R49-30-SHORT_BEATS",
+            "R48-28-TURN_LENGTH",
+            "R48-48-EXPLAIN",
+            "R48-50-PUSHBACK"
+          ]
+        },
+        {
+          "id": "K4",
+          "title": "Where a turn stops",
+          "question": "How far does a turn run before it stops for your next decision?",
+          "context": "Table Rule 1: stop at his next decision, on an NPC line, an action or a thing he can see, never on an OOC question; R70-17 lets a turn stop mid-crisis. In talk a chance to speak comes every few lines, so \"next decision\" needs a meaning. Every sample answers your post asking Examiner Harrowgate for the inspector's book, and shows the turn's last lines.",
+          "options": [
+            {
+              "key": "A",
+              "label": "The first opening",
+              "consequence": "The turn stops at the first moment your PC could speak or act. The shortest stretch of story and the most control; the words go to the room around that moment.",
+              "sample": "Harrowgate's palm stays flat on the ledger. Outside the casement Sallow's hammer works along row six, each plate giving back its note, and the dull ones sound duller beside the bright. She looks at the overturned form, then up. \"The book opens for the circuit, Instructor. Before witnesses, at the quarterly.\" She reaches for the grounding tea, finds the cup empty, and sets it back on its ring without a sound."
+            },
+            {
+              "key": "B",
+              "label": "The first pressure",
+              "consequence": "The turn runs past pauses he would let pass and stops when something presses him: a question to him, an offer, a threat, a clock. A line aimed at him always stops it.",
+              "sample": "Harrowgate's answer, that the book opens for the circuit, is still in the room when boots come up the stair, one knee favoured. Sallow sets a cased plate square on the Finding and raps the brass with the hand that is short a fingertip. It gives back a dull note. \"Row six, Examiner. Rang like a wet boot, the lot. That's all I'm saying.\" He turns from her. \"You're Lambert's lad. Lambert would've had that book open by now. Will you?\""
+            },
+            {
+              "key": "C",
+              "label": "The scene's hinge",
+              "consequence": "The turn runs to the scene's turning point (a reveal, a demand, a deadline), carrying the NPCs' talk past several openings. Nothing addressed to him is passed over.",
+              "sample": "Sallow comes up the stair favouring one knee, sets the cased plate on the Finding, tells the Examiner the row rings like a wet boot and the bill is hers, and goes down favouring the same knee. Harrowgate draws the form out from under the brass by one corner. The frame scrapes a pale line across the leather. She turns the blank toward the far side of the desk and lays the pen across it. Over the quad first bell begins to count, and the bead at the nib lets go onto *Party answerable*."
+            }
+          ],
+          "recommended": "B",
+          "rec_reason": "Your PC stays answerable to everything said to him while the room gets to breathe, and every stop lands on a thing he must meet, which is Table Rule 1's intent and what a 3,500-word turn can carry.",
+          "multi": false,
+          "depends_on": [],
+          "rules_touched": [
+            "R70-17-CLOSING_MODES",
+            "R49-26-ENDINGS",
+            "R49-29-TURN_FILL",
+            "R48-29-PACING"
+          ]
+        },
+        {
+          "id": "K5",
+          "title": "Standing orders outside fights",
+          "question": "May you post standing orders in talk, travel and investigation, as R71-5 lets you in a fight?",
+          "context": "A standing order is a move declared in advance. R71-5: you post conditions (\"if he closes, I cut low\") and Natalie runs them \"until the first branch they do not cover.\" Elsewhere Table Rule 1 stops every turn at your next decision, so a search or an interrogation moves one choice a turn. The intimacy questionnaire's SC13 asks the same for the bed.",
+          "options": [
+            {
+              "key": "A",
+              "label": "Fights only",
+              "consequence": "R71-5 stays a combat rule; in every other scene the turn stops at your next decision, as K4 sets it."
+            },
+            {
+              "key": "B",
+              "label": "Every scene type",
+              "consequence": "Post conditions anywhere (\"if she names the stair, I ask for the daybook\"). Natalie runs them to the first branch they miss, and any line your PC speaks is only your posted words."
+            },
+            {
+              "key": "C",
+              "label": "Routines only",
+              "consequence": "Travel, watches, searches and downtime take standing routines that run to the first surprise; talk still stops at each line that presses your PC."
+            }
+          ],
+          "recommended": "B",
+          "rec_reason": "It is the contract you already trust in a fight, it speeds the slow investigation turns, and Natalie still never chooses or voices anything you did not write.",
+          "multi": false,
+          "depends_on": [
+            "K4"
+          ],
+          "rules_touched": [
+            "R71-5-ROLEPLAY_TURNS_AGAINST_WRITTEN",
+            "R19-2-NEVER_ALTERED",
+            "R48-29-PACING",
+            "R70-14-KISHOTENKETSU"
+          ]
+        },
+        {
+          "id": "K6",
+          "title": "What the world writes on him",
+          "question": "Outside a fight, what may a turn write on your PC without your hand?",
+          "context": "R49-01 lets narration go \"to full depth\" inside your PC, you overruling; R71-6 makes his wounds world facts and leaves the read to you, but only in fights. Open elsewhere: his involuntary body (Pressure, the felt weight of a higher Stage, R70-69; a startle), his deductions, and what he would know that you might not. Horror (mystery HO3) and the bed (intimacy SC12) get their own questionnaires.",
+          "options": [
+            {
+              "key": "A",
+              "label": "Reflexes as world facts",
+              "consequence": "Involuntary responses (sweat and nausea under Pressure, a startle at a shot, cold shakes, a drug taking hold) land on his body as facts, as wounds do under R71-6; what he does next stays yours."
+            },
+            {
+              "key": "B",
+              "label": "Evidence, never the conclusion",
+              "consequence": "In talk and investigation too, Natalie lays the tells in the room and never draws his conclusion; the deduction is your post, R71-6's \"the read his\" carried outside fights."
+            },
+            {
+              "key": "C",
+              "label": "What he would know",
+              "consequence": "What your PC knows and you might not (a custom, a Guild form, a law of his own court) comes as plain recall from his card and canon only, never a new memory."
+            }
+          ],
+          "recommended": "A,B,C",
+          "rec_reason": "They keep the world honest on his body and fair about his knowledge, while the choice and the deduction stay yours; the depth R49-01 gave you on 2026-09-26 is untouched.",
+          "multi": true,
+          "depends_on": [],
+          "rules_touched": [
+            "R49-01-WHOSE_HEAD",
+            "R71-6-PLAYER_FIGHTER_PAGE",
+            "R71-23-TELL_READ",
+            "R70-69-PRESSURE_AURA",
+            "R48-48-EXPLAIN"
+          ]
+        },
+        {
+          "id": "K7",
+          "title": "What a cutaway shows",
+          "question": "When a turn cuts away to what your PC cannot see, what does the cut show?",
+          "context": "R49-09 lets a turn close on \"a short, clearly marked cut\" to a Front advancing or an NPC plotting; NATALIE.md holds \"ninety percent of the world under the surface\". Anime cuts to the villains plotting; the iceberg keeps the why dark. How often a Front surfaces is WD2's; a cut inside a case is the mystery questionnaire's K7. Samples: Harrowgate sends a sealed note off the grounds.",
+          "options": [
+            {
+              "key": "A",
+              "label": "Only the trace",
+              "consequence": "The cut shows the result away from its maker (the note at the wire office, the seal on a counter), never who acted or why. The deepest iceberg.",
+              "sample": "*The wire office, at the Academy gate.* A note under green wax lies on the counter, the seal still soft enough to take a thumbprint. The clerk breaks it and reads the sheet once with his lips moving. He counts the words on his fingers, writes the count in the margin, and blots it. Then the key begins to chatter under his hand. Outside, rain runs off the gate lamp in a rope, and nobody waits for an answer."
+            },
+            {
+              "key": "B",
+              "label": "The act, reason kept",
+              "consequence": "The cut shows who acts and what they do, and keeps the reason, as R70-76 does for the world's magic. You see the move; your PC still has to read the why.",
+              "sample": "*The Visitation Room.* Harrowgate writes three lines, sands them, and tips the sand back into its box without losing a grain. She folds the sheet twice. The wax goes on green, and she presses the seal with the burned hand, holding it down a breath longer than the wax needs. The runner waits at the door with his cap in both fists. She gives him the note and one word, \"Wire,\" and turns back to the empty line on the Finding."
+            },
+            {
+              "key": "C",
+              "label": "Act and reason",
+              "consequence": "The cut shows the act and the reasoning behind it, the anime villains' meeting, so you as author know the why while your PC knows only what he meets.",
+              "sample": "*The Visitation Room.* Harrowgate writes to the Grand Mage's office in three lines. If the inquiry instructor will not sign by first bell, she will draw the Finding herself before her circuit report goes up, and the party answerable will be whichever Class X student costs the charter least. She sands the page, seals it in green with the burned hand, and gives it to the runner with one word, \"Wire.\" Then she dips her pen."
+            }
+          ],
+          "recommended": "B",
+          "rec_reason": "It keeps the anime cutaway R49-09 licensed and still leaves the why under the water, so the read stays the game (Table Rule 6) and R71-52's ambush cut works as written.",
+          "multi": false,
+          "depends_on": [],
+          "rules_touched": [
+            "R49-09-CUTAWAYS",
+            "R70-76-MUCH_WORLD_MAGIC",
+            "R71-52-AMBUSH_NAMED_ROUND",
+            "R48-48-EXPLAIN"
+          ]
+        }
+      ]
+    },
+    {
+      "key": "TU",
+      "title": "The turn",
+      "intro": "How one turn is built, from its first line to the notes under it, plus the session's openers: the \"previously\" line, the Rumor Mill (world news at session start, some of it wrong) and the Scene Menu (three hooks when you arrive without a beat). Prose samples are roleplay turns in present tense (R49-02), set in the Aetherion Academy thread, and your PC never acts, speaks or thinks in them.",
+      "questions": [
+        {
+          "id": "TU1",
+          "title": "Opening a turn",
+          "question": "How does a turn open on what your PC just did?",
+          "context": "Table Rule 1 says \"answer what the PC did\" and never says whether the turn first writes that action out again. AI roleplayers call the habit parroting: spending the opening on what the player already wrote. This question carries no samples, since two of its options would put your PC on the page.",
+          "options": [
+            {
+              "key": "A",
+              "label": "Open on the answer",
+              "consequence": "The first line is the world's response, and your action is never restated, since you wrote it. Leanest; a reader of the archive needs your post beside the turn."
+            },
+            {
+              "key": "B",
+              "label": "Your move, in full",
+              "consequence": "The turn first renders your posted action and words in full prose with the room around them, then the world answers. The archive reads like a novel, and a share of every turn goes to your move."
+            },
+            {
+              "key": "C",
+              "label": "One clause, then answer",
+              "consequence": "Your move gets one clause that fixes where it landed (\"with the Finding face down between them\"), then the world answers. The archive stays readable and the turn spends itself on what you did not write."
+            }
+          ],
+          "recommended": "C",
+          "rec_reason": "It cures parroting without leaving the archived turn unreadable, and nearly all of the 3,500 words go to what you could not have written yourself.",
+          "multi": false,
+          "depends_on": [],
+          "rules_touched": [
+            "R49-29-TURN_FILL",
+            "R19-2-FIXED_TEXT",
+            "R49-01-WHOSE_HEAD"
+          ]
+        },
+        {
+          "id": "TU2",
+          "title": "Several NPCs in one turn",
+          "question": "When several NPCs share the room, how does a turn carry their talk?",
+          "context": "R48-43 allows one crafted speech, and R70-111 lets court cultures, the Accord chancery among them, argue at length. The Cabin turns carried thirty-seven to forty-two lines of speech each, all from one NPC. Every sample: Harrowgate and Sallow in the Visitation Room after you ask for the book.",
+          "options": [
+            {
+              "key": "A",
+              "label": "One voice leads",
+              "consequence": "One NPC carries the turn's talk; the others get a gesture or a single line. Clear and quiet, and the second NPC's want waits its turn.",
+              "sample": "Harrowgate answers across the desk and to nobody else. \"The book is the circuit's, Instructor, and the circuit sits at the quarterly.\" Behind her Sallow sets the cased plate on the corner of the desk, folds his arms with the short finger tucked under, and says to the window, \"Rings like a wet boot. That's all I'm saying.\" Harrowgate goes on without a glance at the plate. \"The Finding wants a hand. Yours would settle it in a morning, before witnesses.\""
+            },
+            {
+              "key": "B",
+              "label": "The room talks",
+              "consequence": "NPCs talk to each other, interrupt and score points, and your PC overhears what they would never tell him; the turn stops when the room turns to him.",
+              "sample": "Sallow gets in first. \"Book won't tell him what the plate will.\" He drops it on the Finding, brass up. \"Quarter punch struck twice and off true.\" \"Master Sallow, the bursar pays wardwork.\" \"Bursar says you've got the chain, so you've got the bill.\" \"You have opinions about everything you are paid for.\" \"And I'll keep saying them till I'm paid. That's all I'm saying.\" Harrowgate's burned hand closes over the other, and both of them look across the desk in the same breath."
+            },
+            {
+              "key": "C",
+              "label": "Each turns to him",
+              "consequence": "Each NPC addresses your PC in turn with what it wants. Every want arrives at once, and the stop carries several asks.",
+              "sample": "Harrowgate speaks first, across the desk. \"The book stays shut. The Finding wants a hand, and yours would settle it.\" Sallow waits her out, sets the plate on the desk and speaks across it too. \"You're Lambert's lad. You'll want the punch on that brass before you sign anything.\" From the landing, where she will not cross the threshold, Agnes Tull calls in, \"Wire's come down for you, Instructor, and your name spelt wrong again.\""
+            }
+          ],
+          "recommended": "B",
+          "rec_reason": "Exposition through disagreement is the house way of keeping the iceberg, Dickens is a named model, and the Sallow and Harrowgate exchanges, your best-kept thread, already work like this.",
+          "multi": false,
+          "depends_on": [],
+          "rules_touched": [
+            "R48-43-SPEECHES",
+            "R70-111-LONG_FORMAL_SPEECH_CLIPPED",
+            "R48-36-NPC_WITS",
+            "R19-4-REALISTIC_SPEECH",
+            "R48-40-NPC_THOUGHTS"
+          ]
+        },
+        {
+          "id": "TU3",
+          "title": "Routine talk in summary",
+          "question": "May a turn tell routine talk in summary and quote only the lines that matter?",
+          "context": "The law wants realistic speech (R19-4, R48-43) and voices nobody could swap, and never says every word must be quoted. Novelists move between scene (every line given) and summary (talk reported in a sentence). Every sample: Sallow and the bursar's clerk haggle over row six at the lodge window.",
+          "options": [
+            {
+              "key": "A",
+              "label": "Every line quoted",
+              "consequence": "All speech in a turn is direct and quoted. Full texture, and routine haggling eats a share of the 3,500 words.",
+              "sample": "\"Row six entire, son. Six plates.\" \"The Academy pays per plate cracked, Master Sallow.\" \"None of them's cracked. They're cased.\" \"Then the Academy pays for none.\" \"Then the Academy can stand under that dome when the next Class X match lets go.\" The clerk wets his pen. \"The charter says per plate.\" \"Charter never stood under a dome.\" Sallow leans in at the window. \"Six plates rang dull, and somebody signed them sound. You want that on your bursar's book, or the Visitation's?\""
+            },
+            {
+              "key": "B",
+              "label": "Summary, then the line",
+              "consequence": "Routine exchange (prices, directions, greetings, haggling) is told in a sentence or two; any line that carries a want, a lie, a refusal or a tell is quoted in full.",
+              "sample": "Sallow and the bursar's clerk go three rounds over row six at the lodge window, the clerk quoting the charter and Sallow quoting the clerk back to himself, until the clerk runs out of charter and reaches for the pen-wipe instead. Then Sallow leans in at the window. \"Six plates rang dull, son, and somebody signed them sound. You want that on your bursar's book, or on the Visitation's?\""
+            },
+            {
+              "key": "C",
+              "label": "Mostly reported",
+              "consequence": "Speech is mostly reported, and only the last line is quoted. Lean and fast, and the voices blur together.",
+              "sample": "At the lodge window Sallow and the bursar's clerk argue over row six. The clerk says the Academy pays per plate cracked; Sallow says none of them are cracked, they are cased, and the bill is for the row. The clerk cites the charter, and Sallow says the charter never stood under the dome. In the end he leans in at the window and asks one thing. \"Bursar's book, or the Visitation's?\""
+            }
+          ],
+          "recommended": "B",
+          "rec_reason": "It spends the turn's words where the game is, on wants, lies and tells, and it matches how the novelists you name pace a scene.",
+          "multi": false,
+          "depends_on": [],
+          "rules_touched": [
+            "R48-43-SPEECHES",
+            "R19-4-REALISTIC_SPEECH",
+            "R49-29-TURN_FILL",
+            "R48-42-LIES",
+            "R49-36-LIE_TELLS"
+          ]
+        },
+        {
+          "id": "TU4",
+          "title": "When the world interrupts",
+          "question": "When your post chains several actions or a long speech, where may the world cut in?",
+          "context": "Table Rule 1 forbids resolving \"a multi-decision action in one go\", R19-2 keeps your PC's words unaltered, and R49-32 sets how a cut-off line is shown. None says whether an NPC may cut him off mid-line, or where a chain of actions (\"I pick the lock, slip in, read the ledger\") stops.",
+          "options": [
+            {
+              "key": "A",
+              "label": "Your post lands whole",
+              "consequence": "Everything you post happens as written, and the world answers after. Simple, and a chained post can slide past a guard who would have stopped it."
+            },
+            {
+              "key": "B",
+              "label": "Actions cut, speech whole",
+              "consequence": "A chain of actions stops at the first point the world pushes back, and the later actions never happen; every line he speaks is said in full, though NPCs may react while he speaks."
+            },
+            {
+              "key": "C",
+              "label": "Both may be cut",
+              "consequence": "As B, and an NPC may also talk over him at a sentence break, shown as R49-32 sets; the unsaid rest returns to you, and the turn stops on the interruption."
+            }
+          ],
+          "recommended": "B",
+          "rec_reason": "NPCs who would refuse do refuse (Table Rule 3), and your words stay yours to the last syllable, as R19-2 wants.",
+          "multi": false,
+          "depends_on": [
+            "K5"
+          ],
+          "rules_touched": [
+            "R19-2-NEVER_ALTERED",
+            "R49-32-CUT_OFFS",
+            "R48-36-NPC_WITS",
+            "R71-5-ROLEPLAY_TURNS_AGAINST_WRITTEN"
+          ]
+        },
+        {
+          "id": "TU5",
+          "title": "Table talk and notes",
+          "question": "Where do OOC talk and the author notes sit at the Desktop table?",
+          "context": "R48-47: full author notes \"go in the scene file\" and \"chat gets a short summary.\" Claude Desktop keeps no scene file per turn, so the notes either ride in chat or wait for the archive, and R48-50's one-line pushback needs a place too. A Discord post Natalie drafts for you carries none of it.",
+          "options": [
+            {
+              "key": "A",
+              "label": "Foot now, file at archive",
+              "consequence": "Prose first; below a divider line, a short foot of OOC lines. The full notes are written once, when archive_scene (the tool that files a finished scene) saves it."
+            },
+            {
+              "key": "B",
+              "label": "Head now, file at archive",
+              "consequence": "One OOC line before the prose and nothing after it; the full notes are written at archive."
+            },
+            {
+              "key": "C",
+              "label": "Full notes every turn",
+              "consequence": "The foot plus the full notes (rule ids, the Stat Ledger of running figures, research) in chat under every turn. Nothing waits for the archive, and every turn grows long."
+            },
+            {
+              "key": "D",
+              "label": "A separate reply",
+              "consequence": "The turn is prose alone; OOC lines and notes arrive as a second short message."
+            }
+          ],
+          "recommended": "A",
+          "rec_reason": "The fiction ends on its stop with nothing between you and the decision, and the notes still get written in full once, where R48-47 wants them.",
+          "multi": false,
+          "depends_on": [],
+          "rules_touched": [
+            "R48-47-NOTES",
+            "R48-50-PUSHBACK",
+            "R48-49-CITATIONS",
+            "R14-3-TRACEABILITY"
+          ]
+        },
+        {
+          "id": "TU6",
+          "title": "What the foot carries",
+          "question": "What goes in the short OOC foot under a turn?",
+          "context": "The full notes carry rule ids, the Stat Ledger (the running figures), research and costs (R48-47, R14-3), and R70-98 keeps a turn's changes block there. The foot is what you actually read every turn. You use rule ids to correct the index; an agent ruling is a call Natalie made that you may overturn.",
+          "options": [
+            {
+              "key": "A",
+              "label": "Calls made",
+              "consequence": "One line per call Natalie made this turn (a new NPC, a fact, an estimate), each marked as an agent ruling you may overturn."
+            },
+            {
+              "key": "B",
+              "label": "What it cost",
+              "consequence": "The Ledger lines and Front ticks the turn caused, one line each, so nothing is lost before the session close."
+            },
+            {
+              "key": "C",
+              "label": "Rules and the deciding row",
+              "consequence": "Two to four rule ids that bound the turn and, for any adjudicated outcome, the stat row that decided it (R14-3, R71-7)."
+            },
+            {
+              "key": "D",
+              "label": "A state line",
+              "consequence": "One status line, the LitRPG status bar: place, hour, your PC's wounds and reserve as world facts, and what is owed next."
+            }
+          ],
+          "recommended": "A,B,C",
+          "rec_reason": "A and B are what the session close keeps losing, and C is how you correct the index; D repeats what the prose and the Stat Ledger already hold.",
+          "multi": true,
+          "depends_on": [
+            "TU5"
+          ],
+          "rules_touched": [
+            "R48-47-NOTES",
+            "R14-3-TRACEABILITY",
+            "R71-7-READER_SEES_CALL",
+            "R70-98-SHEETS_CHAPTER_ARC_ENDS",
+            "R48-26-INVENTION"
+          ]
+        },
+        {
+          "id": "TU7",
+          "title": "The \"previously\" line",
+          "question": "How does a session's first turn put you back in the scene?",
+          "context": "Sessions sit days apart, the State of Play pages (one where-we-are page per thread) run weeks stale, and the wotr-rp skill builds its \"Previously\" silently: \"None of this is printed.\" Archived scene files open on an italic place-and-hour line; AI roleplay tools pin a memory note. Every sample opens the fifth day of term at first bell, the Finding due.",
+          "options": [
+            {
+              "key": "A",
+              "label": "Place and hour",
+              "consequence": "An italic header (place, day, hour), as the scene files open; the prose re-grounds everything else, and nothing OOC is printed, as the wotr-rp skill does now.",
+              "sample": "*Aetherion Academy, the old dispensary. The fifth day of term. First bell.*\n\nThe bell is still counting over the east range when the Visitation runner reaches the dispensary door. Rain has darkened the shoulders of his coat. He stands with one hand out, palm up, the way a toll-keeper waits for copper, and his eyes go past the doorway to the desk where the Finding of Cause lies with its one line empty."
+            },
+            {
+              "key": "B",
+              "label": "Header and \"previously\"",
+              "consequence": "The header, then two or three plain OOC lines: what happened last, what is owed, what is ticking that your PC knows of. Then the prose.",
+              "sample": "*Aetherion Academy, the old dispensary. The fifth day of term. First bell.*\n\n((Previously: Harrowgate's Finding of Cause lies unsigned and is due now. Joan Aldery holds a sealed letter for the clerk of inquests. Sallow's cased plate from row six still sits on the Visitation desk.))\n\nThe bell is still counting over the east range when the Visitation runner reaches the dispensary door, one hand out, palm up."
+            },
+            {
+              "key": "C",
+              "label": "The room recaps",
+              "consequence": "No header and nothing OOC; the first paragraph carries the recap through things in the room.",
+              "sample": "First bell is counting over the east range. On the dispensary desk the Finding of Cause lies where it lay last night, the line beside *Party answerable* still bare, the ink dot dried to a black lentil. Beside it the leather is clean of dust in the shape of a folded letter, gone now with Joan Aldery, bound for the clerk of inquests. Under the floor the hum has come back up with the morning draw, and at the door the Visitation runner holds out his hand."
+            }
+          ],
+          "recommended": "B",
+          "rec_reason": "Three plain lines cost almost nothing and stop the drift the table data shows; the prose then opens clean, on the world, as a turn should.",
+          "multi": false,
+          "depends_on": [],
+          "rules_touched": [
+            "R70-16-OPENING_MODES",
+            "R49-27-SCENE_BREAKS",
+            "R48-47-NOTES"
+          ]
+        },
+        {
+          "id": "TU8",
+          "title": "Who carries the Rumor Mill",
+          "question": "Which voices may carry the Rumor Mill's world news?",
+          "context": "NATALIE.md: two or three items \"in an NPC's mouth, some wrong, one a hook.\" It has run once in the archive, Agnes Tull at the lodge. The Accord reads (R53-12); the Kharven hardly do. Every sample carries the east range cut for arrears (wrong), Sallow struck off for bribes (wrong), and a coroner's clerk asking after Mrs Aldery (true, the hook).",
+          "options": [
+            {
+              "key": "A",
+              "label": "A gossip's mouth",
+              "consequence": "One NPC who wants to know things first tells it and gets some of it wrong. NATALIE.md's form, and the teller becomes a standing face.",
+              "sample": "Agnes Tull has the lodge door open and the keys already in her fist. \"Board's cutting the east range, Instructor. Arrears. Your dispensary with it, so mind your lamps.\" The gap in her teeth whistles on the s. \"And Master Sallow was struck off at Stannvaard for taking money off a factor, they say, whatever he tells you. And a Mister Fenwick from the Deputy Coroner's came asking had we a Mrs Aldery lodging. I said we hadn't. We haven't.\""
+            },
+            {
+              "key": "B",
+              "label": "Print and notice",
+              "consequence": "Where the Inventory gives literacy, news arrives as a Board notice, a broadsheet or a porter's slate, and print can be wrong too. Never in the north.",
+              "sample": "The lodge board carries three new things since last bell. A Board notice under green wax lists the east range for arrears, *draw to be cut at quarter day*. Beside it a broadsheet, pinned by one corner, gives its third column to a ward-mender struck off the Stannvaard circuit *for consideration received*. The rain has got at its edge. And on the porters' slate, in chalk, in Agnes Tull's round hand: *Mr Fenwick, Dep. Coroner's office, called at the seventh hour for Mrs Aldery. Told not lodging.*"
+            },
+            {
+              "key": "C",
+              "label": "Overheard",
+              "consequence": "Your PC passes people talking among themselves and catches the news in pieces, mixed in with their own business.",
+              "sample": "On the east-range stair the Pryor brothers carry coal between them, one lamp for the two, and neither lowers his voice. \"Board's cutting the range for arrears, Dunstan, sorry to say it.\" Dunstan looks at him and says nothing. \"And Sallow took money at Stannvaard. That's why they struck him.\" \"Took it, or wouldn't?\" \"And a coroner's man was at the lodge after the Aldery woman.\" Hob shifts the scuttle to his other hip. \"Mind the step. It's the bad one.\""
+            }
+          ],
+          "recommended": "A,B,C",
+          "rec_reason": "Each culture gets the channel it really has, the wrong items always come from somewhere believable, and the teller's own want colours what you hear.",
+          "multi": true,
+          "depends_on": [],
+          "rules_touched": [
+            "R53-12-LITERACY",
+            "R53-14-FOLK_KNOWLEDGE",
+            "R48-42-LIES",
+            "R70-16-OPENING_MODES"
+          ]
+        },
+        {
+          "id": "TU9",
+          "title": "When the Rumor Mill runs",
+          "question": "When does the Rumor Mill run?",
+          "context": "NATALIE.md runs it once, at session start. Sessions and story days rarely line up: one session can hold a week of downtime or ten minutes of a fight. Its wrong items count toward R48-42's frequent lies.",
+          "options": [
+            {
+              "key": "A",
+              "label": "Session start",
+              "consequence": "Two or three items as each session opens, as now."
+            },
+            {
+              "key": "B",
+              "label": "Each new day",
+              "consequence": "Two or three items with each new in-world day, however many days fall inside one session."
+            },
+            {
+              "key": "C",
+              "label": "Each new place",
+              "consequence": "On first arrival at a town, hall, camp or market, that place's own talk."
+            },
+            {
+              "key": "D",
+              "label": "Only with a hook",
+              "consequence": "It runs only when one item can carry a hook tied to a Front or the Ledger, and is skipped otherwise."
+            }
+          ],
+          "recommended": "A,C",
+          "rec_reason": "The session opener keeps the habit alive and a new place's talk is where a traveller hears the world; daily rumours would flood a downtime week.",
+          "multi": true,
+          "depends_on": [
+            "TU8"
+          ],
+          "rules_touched": [
+            "R48-42-LIES",
+            "R48-29-PACING"
+          ]
+        },
+        {
+          "id": "TU10",
+          "title": "The Scene Menu",
+          "question": "When you arrive without a beat, how are the three hooks offered?",
+          "context": "NATALIE.md: three hooks, one from a Front, one from the Ledger, one fresh; R70-97 adds a stated reward and penalty. No Scene Menu appears in the archive, since you nearly always bring a beat (your short prompt). A menu comes before the turn, so Table Rule 1's ban on OOC questions does not reach it. Every sample offers the same three hooks.",
+          "options": [
+            {
+              "key": "A",
+              "label": "OOC list, then in-world",
+              "consequence": "Three OOC lines, each with its source, reward and penalty; you pick in a word, and the turn opens on that hook in the world.",
+              "sample": "((Three ways in. Front: Imogen Pell wants the class in the ring by the sixth day. Reward, Class S stands behind the dispensary at the hearing; penalty, she goes to the Visitation alone and names it. Ledger: Sallow's bill for row six wants a witness to the punch. Reward, his word at the Guild hour; penalty, the bursar enters the dispensary in the arrears. Fresh: Hobb and Mercer close for stocktake tonight. Reward, the back stair before it is scrubbed; penalty, Fenwick hears who was there.))"
+            },
+            {
+              "key": "B",
+              "label": "In-world notices",
+              "consequence": "No list; the hooks arrive as the thread's own notices (a posting where people read, a runner or a word at the fire where they do not), terms stated in the world.",
+              "sample": "The lodge board has three new postings since last bell. In a tall, pressed hand: *The class wants the ring by the sixth day. Stand with us and Class S stands with you. Refuse, and we go to the Visitation. I.P.* In blunt capitals: *WITNESS WANTED TO A QUARTER PUNCH, ROW SIX. PAID AT THE GUILD HOUR. NO WITNESS, NO SIGNATURE. T. SALLOW.* And a draper's trade card, Hobb and Mercer, Tallow Street, *closed for stocktake tonight*, its back blank but for a pencilled hour."
+            },
+            {
+              "key": "C",
+              "label": "Retire the menu",
+              "consequence": "No menu at all; when you bring no beat, the most pressing Front moves and the turn opens on it.",
+              "sample": "Imogen Pell is on the dispensary step before first bell, her slate under her arm and two Class S boys behind her, both a head taller and both looking at the door. She does not wait to be asked, and she pitches it for a larger room than a step. \"The class wants the ring, Instructor. Sixth day. We'd like you standing there when the Visitation says no.\" The slate stays shut against her ribs, her thumb along its edge."
+            }
+          ],
+          "recommended": "A",
+          "rec_reason": "You choose in one word and the turn still opens in the world; R70-97's reward and penalty sit where you can weigh them, and the scene_menu tool already builds two of the three hooks.",
+          "multi": false,
+          "depends_on": [],
+          "rules_touched": [
+            "R70-97-QUESTS_CONTRACTS",
+            "R71-97-CONTRACT_FIGHTS",
+            "R53-12-LITERACY"
+          ]
+        },
+        {
+          "id": "TU11",
+          "title": "A turn sent back",
+          "question": "When you send a turn back to be redone, what goes with it?",
+          "context": "AI roleplay tools call a regenerated reply a swipe. Nothing in WOTR law covers it, though a discarded turn may already have logged a Ledger line, ticked a Front or set an NPC's voice. R49-01 lets you overrule a thought and R52-12 a voice; neither reaches a whole turn.",
+          "options": [
+            {
+              "key": "A",
+              "label": "Unwound whole",
+              "consequence": "A sent-back turn never happened: the prose is replaced and every table write it made (Ledger line, Front tick, roster entry) is reversed. Name any part to keep it."
+            },
+            {
+              "key": "B",
+              "label": "Prose only",
+              "consequence": "The writing is redone; the events and table writes stand unless you name one to go."
+            },
+            {
+              "key": "C",
+              "label": "Natalie asks",
+              "consequence": "Natalie asks in one OOC line which parts go, and redoes only those."
+            }
+          ],
+          "recommended": "A",
+          "rec_reason": "It is what a send-back means, and it keeps the Ledger free of ghosts from a turn that never happened; one line from you saves anything worth keeping.",
+          "multi": false,
+          "depends_on": [],
+          "rules_touched": [
+            "R49-01-WHOSE_HEAD",
+            "R52-12-HANDBACK",
+            "R48-32-NPC_VOICES"
+          ]
+        },
+        {
+          "id": "TU12",
+          "title": "New lines in his posts",
+          "question": "When your beat for a Discord post gives your character no words, may Natalie write his lines?",
+          "context": "Natalie writes your characters' Discord posts from your beat. The 2026-09-21 ruling improves your dialogue when you ask; R52-09 drafts a wordless beat's line, marked, but only in written scenes. Researched mechanics, the room's walk-ons and his interior (R49-01) already ride in; new speech is the one open piece.",
+          "options": [
+            {
+              "key": "A",
+              "label": "Your words only",
+              "consequence": "A post quotes only lines you wrote. Where your beat gives him speech without words (\"he refuses her\"), the post reports it in the narration and quotes nothing new."
+            },
+            {
+              "key": "B",
+              "label": "Drafted, marked",
+              "consequence": "R52-09 reaches the posts: Natalie drafts the line in his voice, marked as a draft for you to keep, change or cut before you post."
+            },
+            {
+              "key": "C",
+              "label": "Written in",
+              "consequence": "Natalie writes the line into the post unmarked, as part of the improvement; you read the whole post before it goes up."
+            }
+          ],
+          "recommended": "B",
+          "rec_reason": "A public post goes out under your name to other players, so new speech should start as a draft you can see at a glance; it is the rule you already use in written scenes.",
+          "multi": false,
+          "depends_on": [],
+          "rules_touched": [
+            "R52-09-NO_LINE",
+            "R19-2-FIXED_TEXT",
+            "R49-01-WHOSE_HEAD",
+            "R52-08-PC_IDIOM"
+          ]
+        }
+      ]
+    }
+  ],
+  "settled": [
+    {
+      "point": "A roleplay turn runs about 3,500 words, filled half with texture and talk and half with the world moving; set pieces run 5,000 and up.",
+      "rule_ids": [
+        "R48-28-TURN_LENGTH",
+        "R49-30-SHORT_BEATS",
+        "R49-29-TURN_FILL",
+        "R48-46-WORD_FLOOR"
+      ],
+      "why_not_asked": "Your own answer (\"3500\"), ruled 2026-09-26 and listed settled by the Style Law. K3 asks only what counts as a reply, and marks its one option that reopens R49-30 for Discord."
+    },
+    {
+      "point": "NATALIE.md's Table Rule 2 bands (300 to 700, 700 to 1,500), its line \"Over-delivery is the standing complaint\" and the wotr-rp skill's \"shorter turns\" contradict R48-28 and R49-30.",
+      "rule_ids": [
+        "R48-28-TURN_LENGTH",
+        "R49-30-SHORT_BEATS"
+      ],
+      "why_not_asked": "A sweep owed, not a question; K3's answer replaces them."
+    },
+    {
+      "point": "Present tense for roleplay turns and for work improved for a roleplay, the Discord posts Natalie writes from your beat included; past tense for written scenes and books; third person only.",
+      "rule_ids": [
+        "R49-02-TENSE",
+        "R70-12-FIRST_PERSON"
+      ],
+      "why_not_asked": "R49-02 names the Discord case in your own words (\"make something better for a roleplay\"). Every Discord post archived since 2026-09-26 is in past tense; that is a lapse to sweep, not a question."
+    },
+    {
+      "point": "Narration may go to full depth inside your PC and you overrule any thought; your play beats the card; your characters stay yours in crossovers; the other creators' characters are never written.",
+      "rule_ids": [
+        "R49-01-WHOSE_HEAD",
+        "R52-08-PC_IDIOM",
+        "R52-10-CROSSOVER",
+        "R1-1-RESTRICTED_CHARACTERS_EXCLUDED"
+      ],
+      "why_not_asked": "Ruled 2026-09-26; a turn that names no feeling you have not posted would undo it, so it is not offered. K6 asks only about his involuntary body, his deductions and his recall outside a fight."
+    },
+    {
+      "point": "What a Discord post adds to your beat besides speech: researched mechanics shown in the action, the room and the walk-ons Natalie owns, and your character's interior past the beat, which you overrule.",
+      "rule_ids": [
+        "R49-01-WHOSE_HEAD",
+        "R48-26-INVENTION",
+        "R13-7-RESEARCH_RULE",
+        "R70-8-JOBS_STYLE_GOVERNS"
+      ],
+      "why_not_asked": "Live law reaches the posts as it reaches every roleplay turn, and every Discord post on file already carries all three. TU12 asks only about new speech."
+    },
+    {
+      "point": "Fights at the table: standing orders honoured, a player's fighter (guests at the Discord table included) written as world facts with the read left to the player, a tell shown twice and read at the third, a findable way out always planted, and a sign and an exit before a killing exchange.",
+      "rule_ids": [
+        "R71-5-ROLEPLAY_TURNS_AGAINST_WRITTEN",
+        "R71-6-PLAYER_FIGHTER_PAGE",
+        "R71-23-TELL_READ",
+        "R71-8-CORE_PROMISE",
+        "R71-67-CLEAR_WARNING_BEFORE_LOSS"
+      ],
+      "why_not_asked": "Ruled 2026-10-04 in the Combat Law. K5 asks only whether standing orders reach other scenes, K6 whether the world-fact and the-read-is-his rules do; MP2 uses standing orders for absent players, WD11 asks what a clear warning is outside a fight."
+    },
+    {
+      "point": "A turn stops at your next decision, on an NPC line, an action or a thing he can see, never on an OOC question, and may stop mid-crisis; quiet scenes may run kishōtenketsu (the four-part shape with no conflict) and still stop at your decision.",
+      "rule_ids": [
+        "R70-17-CLOSING_MODES",
+        "R49-26-ENDINGS",
+        "R70-14-KISHOTENKETSU"
+      ],
+      "why_not_asked": "Table Rule 1 and the Style Law. K4 asks only what counts as the next decision."
+    },
+    {
+      "point": "Natalie invents NPCs, places and texture without asking, logged; dull stretches pass in a line while the world keeps moving; big surprises need foreshadowing; nothing is rigged; death comes only if earned.",
+      "rule_ids": [
+        "R48-26-INVENTION",
+        "R48-29-PACING",
+        "R48-30-SURPRISES",
+        "R57-10-NEVER_RIGGED",
+        "R48-31-STAKES"
+      ],
+      "why_not_asked": "Ruled 2026-09-26. K2 asks only what \"bigger things wait\" should mean, K1 what Natalie preps."
+    },
+    {
+      "point": "You may take over any NPC's voice; when you hand it back, your version sticks and the roster is updated.",
+      "rule_ids": [
+        "R48-32-NPC_VOICES",
+        "R52-12-HANDBACK"
+      ],
+      "why_not_asked": "Ruled; TU11 borrows it only to frame a sent-back turn."
+    },
+    {
+      "point": "In roleplay, one italic thought per NPC per scene (Table Rule 10, R48-40's one-thought allowance); none under a POV lock in a written scene.",
+      "rule_ids": [
+        "R48-40-NPC_THOUGHTS",
+        "R39-7-NO_NPC_THOUGHT_UNDER_POV_LOCK"
+      ],
+      "why_not_asked": "Ruled. The Cabin's two or three a turn is a lapse to fix, not a question."
+    },
+    {
+      "point": "One crafted speech at a big moment outside court; long formal speech is the court register, the Accord chancery included; invented speech stumbles as real speech does.",
+      "rule_ids": [
+        "R48-43-SPEECHES",
+        "R70-111-LONG_FORMAL_SPEECH_CLIPPED",
+        "R19-4-REALISTIC_SPEECH"
+      ],
+      "why_not_asked": "Ruled 2026-09-26 and 2026-10-03. TU2 and TU3 ask only how several voices and routine talk share a turn."
+    },
+    {
+      "point": "Interrupted speech is shown with an ellipsis and the interrupter's line follows.",
+      "rule_ids": [
+        "R49-32-CUT_OFFS"
+      ],
+      "why_not_asked": "Ruled. TU4 asks only whether an NPC may cut your PC off at all."
+    },
+    {
+      "point": "A full check on every turn; full notes in the scene file and a short summary in chat; one-line pushback, then keep writing; physics explained only when asked; research cited.",
+      "rule_ids": [
+        "R48-45-CHECKS",
+        "R48-47-NOTES",
+        "R48-50-PUSHBACK",
+        "R48-48-EXPLAIN",
+        "R48-49-CITATIONS"
+      ],
+      "why_not_asked": "Ruled. TU5 and TU6 ask only where the summary sits at the Desktop table and what it carries."
+    },
+    {
+      "point": "A roleplay turn carries two readouts at most, and its changes block (what moved on the sheet and why) stays in its notes.",
+      "rule_ids": [
+        "R70-86-MANY_READOUTS_SCENE_CARRIES",
+        "R70-98-SHEETS_CHAPTER_ARC_ENDS"
+      ],
+      "why_not_asked": "Ruled 2026-10-03. TU6 asks only what the short foot under a turn carries."
+    },
+    {
+      "point": "Every hook states a reward and a penalty; quests are posted Guild and Crown contracts, set on the page in the Guild's house style.",
+      "rule_ids": [
+        "R70-97-QUESTS_CONTRACTS",
+        "R71-97-CONTRACT_FIGHTS"
+      ],
+      "why_not_asked": "Ruled 2026-10-03 and 2026-10-04. TU10 asks only how the Scene Menu offers its hooks, WD10 what a win pays beyond coin."
+    },
+    {
+      "point": "A turn may close on a short, clearly marked cut to what the POV cannot see; in roleplay an ambush's shooter half is that closing cut.",
+      "rule_ids": [
+        "R49-09-CUTAWAYS",
+        "R71-52-AMBUSH_NAMED_ROUND"
+      ],
+      "why_not_asked": "Ruled. K7 asks only what a cut shows; how often a Front surfaces is WD2's. A table with no cutaways would reopen R49-09 and is not offered."
+    },
+    {
+      "point": "Opening modes (far to near, a season word, a document) and closing modes (mid-crisis, a notice or readout, breaking off before the payoff); a real jump in time or place may be marked with a break.",
+      "rule_ids": [
+        "R70-16-OPENING_MODES",
+        "R70-17-CLOSING_MODES",
+        "R49-27-SCENE_BREAKS"
+      ],
+      "why_not_asked": "Ruled. TU7 asks only what re-grounds a session's first turn."
+    },
+    {
+      "point": "Numbers move only for a shown cause (a Fracture of Worlds XP event on the page, or training named in a downtime turn); an unsourced figure prints as a marked estimate; no number is invented.",
+      "rule_ids": [
+        "R70-90-FAST_NUMBERS_CLIMB",
+        "R70-99-NUMBER_NOT_YET_CANON",
+        "R12-5-NEVER_INVENT_NUMBER"
+      ],
+      "why_not_asked": "Ruled. K2 relies on it so that numbers never wait for you; what a span of training buys is the techniques questionnaire's CH15."
+    },
+    {
+      "point": "Each live thread keeps at least one openly warm bond.",
+      "rule_ids": [
+        "R70-114-GRIMDARK_WARMTH"
+      ],
+      "why_not_asked": "Ruled 2026-10-03 at thread level; a per-session warm beat was weighed for K1 and left out as a near-repeat. WD5 asks only whether bonds go on the Ledger by name."
+    },
+    {
+      "point": "A new walk-on is a role until they speak twice or matter, unless someone else's mouth gives a nickname first.",
+      "rule_ids": [
+        "R50-27-NEW_NPC_NAME",
+        "R70-130-WALK_ONS_WITH_COMIC"
+      ],
+      "why_not_asked": "Ruled; it governs the walk-ons in TU2, TU8 and TU12 as written."
+    },
+    {
+      "point": "Your dialogue is set verbatim in scene work and improved, meaning kept, when you ask for an RP post to be made better.",
+      "rule_ids": [
+        "R19-2-FIXED_TEXT",
+        "R19-2-NEVER_ALTERED"
+      ],
+      "why_not_asked": "Ruled 2026-09-21. TU4 asks only whether the world may cut in, TU12 whether new lines may be written."
+    },
+    {
+      "point": "One law governs every job, roleplay turns included.",
+      "rule_ids": [
+        "R70-8-JOBS_STYLE_GOVERNS"
+      ],
+      "why_not_asked": "Ruled 2026-10-03; every sample here is written under it."
+    }
+  ]
+}

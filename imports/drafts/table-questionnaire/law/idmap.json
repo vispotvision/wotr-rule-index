@@ -1,0 +1,616 @@
+[
+ {
+  "n": 1,
+  "qid": "K1",
+  "section": "K",
+  "id": "R72-1-SESSION_PROMISES",
+  "title": "What a session promises",
+  "verbatim": "Spine and payoff. B and C together: each thread works toward its next set piece, and every session on the way puts one earnable payoff in reach beside a fresh cost.",
+  "question": "What does Natalie prep for a thread, and what does every session promise you?",
+  "rules_touched": [
+   "R57-10-NEVER_RIGGED",
+   "R70-18-ARC_SHAPES",
+   "R70-90-FAST_NUMBERS_CLIMB",
+   "R48-29-PACING"
+  ]
+ },
+ {
+  "n": 2,
+  "qid": "K2",
+  "section": "K",
+  "id": "R72-2-IMPROVISE_OR_ASK",
+  "title": "Improvise or ask",
+  "verbatim": "Natalie decides everything. \"Bigger things wait\" is struck. Natalie makes every call, even a carded NPC's death or a new faction, and logs each as an agent ruling (a call you may overturn) under the turn.",
+  "question": "At the table, which calls does Natalie make herself, and which wait for you?",
+  "rules_touched": [
+   "R48-26-INVENTION",
+   "R52-08-PC_IDIOM",
+   "R70-99-NUMBER_NOT_YET_CANON",
+   "R20C-34-ESTIMATES_CANON_ON_USE",
+   "R48-50-PUSHBACK"
+  ]
+ },
+ {
+  "n": 3,
+  "qid": "K3",
+  "section": "K",
+  "id": "R72-3-REPLIES_RUN_LONG",
+  "title": "Which replies run long",
+  "verbatim": "Desktop fiction only. This reopens R49-30 for Discord: Desktop turns run about 3,500 and OOC answers are plain; a Discord post runs about 1,500 words, the house median, unless your beat asks for more.",
+  "question": "Which replies run to the full 3,500 words?",
+  "rules_touched": [
+   "R49-30-SHORT_BEATS",
+   "R48-28-TURN_LENGTH",
+   "R48-48-EXPLAIN",
+   "R48-50-PUSHBACK"
+  ]
+ },
+ {
+  "n": 4,
+  "qid": "K4",
+  "section": "K",
+  "id": "R72-4-WHERE_TURN_STOPS",
+  "title": "Where a turn stops",
+  "verbatim": "The first pressure. The turn runs past pauses he would let pass and stops when something presses him: a question to him, an offer, a threat, a clock. A line aimed at him always stops it.",
+  "question": "How far does a turn run before it stops for your next decision?",
+  "rules_touched": [
+   "R70-17-CLOSING_MODES",
+   "R49-26-ENDINGS",
+   "R49-29-TURN_FILL",
+   "R48-29-PACING"
+  ]
+ },
+ {
+  "n": 5,
+  "qid": "K5",
+  "section": "K",
+  "id": "R72-5-STANDING_ORDERS_OUTSIDE_FIGHTS",
+  "title": "Standing orders outside fights",
+  "verbatim": "Every scene type. Post conditions anywhere (\"if she names the stair, I ask for the daybook\"). Natalie runs them to the first branch they miss, and any line your PC speaks is only your posted words.",
+  "question": "May you post standing orders in talk, travel and investigation, as R71-5 lets you in a fight?",
+  "rules_touched": [
+   "R71-5-ROLEPLAY_TURNS_AGAINST_WRITTEN",
+   "R19-2-NEVER_ALTERED",
+   "R48-29-PACING",
+   "R70-14-KISHOTENKETSU"
+  ]
+ },
+ {
+  "n": 6,
+  "qid": "K6",
+  "section": "K",
+  "id": "R72-6-WORLD_WRITES_HIM",
+  "title": "What the world writes on him",
+  "verbatim": "Yes to: Reflexes as world facts (Involuntary responses (sweat and nausea under Pressure, a startle at a shot, cold shakes, a drug taking hold) land on his body as facts, as wounds do under R71-6; what he does next stays yours); Evidence, never the conclusion (In talk and investigation too, Natalie lays the tells in the room and never draws his conclusion; the deduction is your post, R71-6's \"the read his\" carried outside fights); What he would know (What your PC knows and you might not (a custom, a Guild form, a law of his own court) comes as plain recall from his card and canon only, never a new memory).",
+  "question": "Outside a fight, what may a turn write on your PC without your hand?",
+  "rules_touched": [
+   "R49-01-WHOSE_HEAD",
+   "R71-6-PLAYER_FIGHTER_PAGE",
+   "R71-23-TELL_READ",
+   "R70-69-PRESSURE_AURA",
+   "R48-48-EXPLAIN"
+  ]
+ },
+ {
+  "n": 7,
+  "qid": "K7",
+  "section": "K",
+  "id": "R72-7-CUTAWAY_SHOWS",
+  "title": "What a cutaway shows",
+  "verbatim": "The act, reason kept. The cut shows who acts and what they do, and keeps the reason, as R70-76 does for the world's magic. You see the move; your PC still has to read the why.",
+  "question": "When a turn cuts away to what your PC cannot see, what does the cut show?",
+  "rules_touched": [
+   "R49-09-CUTAWAYS",
+   "R70-76-MUCH_WORLD_MAGIC",
+   "R71-52-AMBUSH_NAMED_ROUND",
+   "R48-48-EXPLAIN"
+  ]
+ },
+ {
+  "n": 8,
+  "qid": "TU1",
+  "section": "TU",
+  "id": "R72-8-OPENING_TURN",
+  "title": "Opening a turn",
+  "verbatim": "One clause, then answer. Your move gets one clause that fixes where it landed (\"with the Finding face down between them\"), then the world answers. The archive stays readable and the turn spends itself on what you did not write.",
+  "question": "How does a turn open on what your PC just did?",
+  "rules_touched": [
+   "R49-29-TURN_FILL",
+   "R19-2-FIXED_TEXT",
+   "R49-01-WHOSE_HEAD"
+  ]
+ },
+ {
+  "n": 9,
+  "qid": "TU2",
+  "section": "TU",
+  "id": "R72-9-SEVERAL_NPCS_ONE_TURN",
+  "title": "Several NPCs in one turn",
+  "verbatim": "The room talks. NPCs talk to each other, interrupt and score points, and your PC overhears what they would never tell him; the turn stops when the room turns to him.",
+  "question": "When several NPCs share the room, how does a turn carry their talk?",
+  "rules_touched": [
+   "R48-43-SPEECHES",
+   "R70-111-LONG_FORMAL_SPEECH_CLIPPED",
+   "R48-36-NPC_WITS",
+   "R19-4-REALISTIC_SPEECH",
+   "R48-40-NPC_THOUGHTS"
+  ]
+ },
+ {
+  "n": 10,
+  "qid": "TU3",
+  "section": "TU",
+  "id": "R72-10-ROUTINE_TALK_SUMMARY",
+  "title": "Routine talk in summary",
+  "verbatim": "Summary, then the line. Routine exchange (prices, directions, greetings, haggling) is told in a sentence or two; any line that carries a want, a lie, a refusal or a tell is quoted in full.",
+  "question": "May a turn tell routine talk in summary and quote only the lines that matter?",
+  "rules_touched": [
+   "R48-43-SPEECHES",
+   "R19-4-REALISTIC_SPEECH",
+   "R49-29-TURN_FILL",
+   "R48-42-LIES",
+   "R49-36-LIE_TELLS"
+  ]
+ },
+ {
+  "n": 11,
+  "qid": "TU4",
+  "section": "TU",
+  "id": "R72-11-WORLD_INTERRUPTS",
+  "title": "When the world interrupts",
+  "verbatim": "Actions cut, speech whole. A chain of actions stops at the first point the world pushes back, and the later actions never happen; every line he speaks is said in full, though NPCs may react while he speaks.",
+  "question": "When your post chains several actions or a long speech, where may the world cut in?",
+  "rules_touched": [
+   "R19-2-NEVER_ALTERED",
+   "R49-32-CUT_OFFS",
+   "R48-36-NPC_WITS",
+   "R71-5-ROLEPLAY_TURNS_AGAINST_WRITTEN"
+  ]
+ },
+ {
+  "n": 12,
+  "qid": "TU5",
+  "section": "TU",
+  "id": "R72-12-TABLE_TALK_NOTES",
+  "title": "Table talk and notes",
+  "verbatim": "Foot now, file at archive. Prose first; below a divider line, a short foot of OOC lines. The full notes are written once, when archive_scene (the tool that files a finished scene) saves it.",
+  "question": "Where do OOC talk and the author notes sit at the Desktop table?",
+  "rules_touched": [
+   "R48-47-NOTES",
+   "R48-50-PUSHBACK",
+   "R48-49-CITATIONS",
+   "R14-3-TRACEABILITY"
+  ]
+ },
+ {
+  "n": 13,
+  "qid": "TU6",
+  "section": "TU",
+  "id": "R72-13-FOOT_CARRIES",
+  "title": "What the foot carries",
+  "verbatim": "Yes to: Calls made (One line per call Natalie made this turn (a new NPC, a fact, an estimate), each marked as an agent ruling you may overturn); What it cost (The Ledger lines and Front ticks the turn caused, one line each, so nothing is lost before the session close); Rules and the deciding row (Two to four rule ids that bound the turn and, for any adjudicated outcome, the stat row that decided it (R14-3, R71-7)).",
+  "question": "What goes in the short OOC foot under a turn?",
+  "rules_touched": [
+   "R48-47-NOTES",
+   "R14-3-TRACEABILITY",
+   "R71-7-READER_SEES_CALL",
+   "R70-98-SHEETS_CHAPTER_ARC_ENDS",
+   "R48-26-INVENTION"
+  ]
+ },
+ {
+  "n": 14,
+  "qid": "TU7",
+  "section": "TU",
+  "id": "R72-14-PREVIOUSLY_LINE",
+  "title": "The \"previously\" line",
+  "verbatim": "Header and \"previously\". The header, then two or three plain OOC lines: what happened last, what is owed, what is ticking that your PC knows of. Then the prose.",
+  "question": "How does a session's first turn put you back in the scene?",
+  "rules_touched": [
+   "R70-16-OPENING_MODES",
+   "R49-27-SCENE_BREAKS",
+   "R48-47-NOTES"
+  ]
+ },
+ {
+  "n": 15,
+  "qid": "TU8",
+  "section": "TU",
+  "id": "R72-15-CARRIES_RUMOR_MILL",
+  "title": "Who carries the Rumor Mill",
+  "verbatim": "Yes to: A gossip's mouth (One NPC who wants to know things first tells it and gets some of it wrong. NATALIE.md's form, and the teller becomes a standing face); Print and notice (Where the Inventory gives literacy, news arrives as a Board notice, a broadsheet or a porter's slate, and print can be wrong too. Never in the north); Overheard (Your PC passes people talking among themselves and catches the news in pieces, mixed in with their own business).",
+  "question": "Which voices may carry the Rumor Mill's world news?",
+  "rules_touched": [
+   "R53-12-LITERACY",
+   "R53-14-FOLK_KNOWLEDGE",
+   "R48-42-LIES",
+   "R70-16-OPENING_MODES"
+  ]
+ },
+ {
+  "n": 16,
+  "qid": "TU9",
+  "section": "TU",
+  "id": "R72-16-RUMOR_MILL_RUNS",
+  "title": "When the Rumor Mill runs",
+  "verbatim": "Yes to: Session start (Two or three items as each session opens, as now); Each new place (On first arrival at a town, hall, camp or market, that place's own talk).",
+  "question": "When does the Rumor Mill run?",
+  "rules_touched": [
+   "R48-42-LIES",
+   "R48-29-PACING"
+  ]
+ },
+ {
+  "n": 17,
+  "qid": "TU10",
+  "section": "TU",
+  "id": "R72-17-SCENE_MENU",
+  "title": "The Scene Menu",
+  "verbatim": "OOC list, then in-world. Three OOC lines, each with its source, reward and penalty; you pick in a word, and the turn opens on that hook in the world.",
+  "question": "When you arrive without a beat, how are the three hooks offered?",
+  "rules_touched": [
+   "R70-97-QUESTS_CONTRACTS",
+   "R71-97-CONTRACT_FIGHTS",
+   "R53-12-LITERACY"
+  ]
+ },
+ {
+  "n": 18,
+  "qid": "TU11",
+  "section": "TU",
+  "id": "R72-18-TURN_SENT_BACK",
+  "title": "A turn sent back",
+  "verbatim": "Unwound whole. A sent-back turn never happened: the prose is replaced and every table write it made (Ledger line, Front tick, roster entry) is reversed. Name any part to keep it.",
+  "question": "When you send a turn back to be redone, what goes with it?",
+  "rules_touched": [
+   "R49-01-WHOSE_HEAD",
+   "R52-12-HANDBACK",
+   "R48-32-NPC_VOICES"
+  ]
+ },
+ {
+  "n": 19,
+  "qid": "TU12",
+  "section": "TU",
+  "id": "R72-19-NEW_LINES_HIS_POSTS",
+  "title": "New lines in his posts",
+  "verbatim": "Drafted, marked. R52-09 reaches the posts: Natalie drafts the line in his voice, marked as a draft for you to keep, change or cut before you post.",
+  "question": "When your beat for a Discord post gives your character no words, may Natalie write his lines?",
+  "rules_touched": [
+   "R52-09-NO_LINE",
+   "R19-2-FIXED_TEXT",
+   "R49-01-WHOSE_HEAD",
+   "R52-08-PC_IDIOM"
+  ]
+ },
+ {
+  "n": 20,
+  "qid": "WD1",
+  "section": "WD",
+  "id": "R72-20-MOVES_FRONT",
+  "title": "What moves a Front",
+  "verbatim": "By the calendar. Each Front gets a pace in story days. When in-world time passes, every Front whose days are spent ticks offscreen, played or not; his acts can speed, slow or stop it. Rule 4 is rewritten to this.",
+  "question": "What makes a Front tick?",
+  "rules_touched": [
+   "R53-09-WEATHER",
+   "R49-09-CUTAWAYS"
+  ]
+ },
+ {
+  "n": 21,
+  "qid": "WD2",
+  "section": "WD",
+  "id": "R72-21-FRONT_SIGNS_SEEN",
+  "title": "What he sees of a Front",
+  "verbatim": "Signs in the world. Every tick puts one sign into a scene of that thread the same session (a seal, a stranger, a price gone up) or a marked cutaway. Clocks are never printed in play; the files stay yours to open.",
+  "question": "How much of a Front reaches you during play?",
+  "rules_touched": [
+   "R49-09-CUTAWAYS",
+   "R48-48-EXPLAIN"
+  ]
+ },
+ {
+  "n": 22,
+  "qid": "WD3",
+  "section": "WD",
+  "id": "R72-22-WHEN_BILL_COMES",
+  "title": "When the bill comes",
+  "verbatim": "A date or a trigger. Each line gains a thread and either a story date off the State of Play calendar or a named trigger (he returns to the Seat, the thaw comes). The close marks what fired; due() returns only those.",
+  "question": "What makes a Ledger line come due?",
+  "rules_touched": [
+   "R53-09-WEATHER"
+  ]
+ },
+ {
+  "n": 23,
+  "qid": "WD4",
+  "section": "WD",
+  "id": "R72-23-BILL_PAGE",
+  "title": "The bill on the page",
+  "verbatim": "An offer with terms. The creditor or the consequence arrives with terms and the turn stops on them; his answer is the move. An offer refused or ignored is collected outright the next time.",
+  "question": "When a Ledger line comes due, how does it arrive on the page?",
+  "rules_touched": [
+   "R71-99-BILL_AFTER_FIGHT",
+   "R70-48-MONEY_PRICE_PROVENANCE",
+   "R48-31-STAKES"
+  ]
+ },
+ {
+  "n": 24,
+  "qid": "WD5",
+  "section": "WD",
+  "id": "R72-24-NEW_LINES_LEDGER",
+  "title": "New lines on the Ledger",
+  "verbatim": "Yes to: Bonds, by name (Each thread's warm bonds go on the Ledger by name, with what has fed them and what has strained them, so a loss lands on a named line); Heat per thread (A standing heat line per thread: the attention crown, company and Guild are paying him. Public acts and unread killings raise it; only the right office, paid, cools it).",
+  "question": "Which new kinds of line should the Ledger keep?",
+  "rules_touched": [
+   "R70-114-GRIMDARK_WARMTH",
+   "R71-101-LAW_TURNS"
+  ]
+ },
+ {
+  "n": 25,
+  "qid": "WD6",
+  "section": "WD",
+  "id": "R72-25-HOW_MANY_LIES",
+  "title": "How many lies",
+  "verbatim": "A lie for every want. Every roster NPC with a want carries at least one live lie, told when it serves them and logged with its tell. Rule 8 folds into this and is retired.",
+  "question": "How many lies does the table carry, and where are they kept?",
+  "rules_touched": [
+   "R48-42-LIES",
+   "R49-36-LIE_TELLS"
+  ]
+ },
+ {
+  "n": 26,
+  "qid": "WD7",
+  "section": "WD",
+  "id": "R72-26-NPCS_OFF_PAGE",
+  "title": "NPCs off the page",
+  "verbatim": "Wants move offscreen. At each close every named NPC in the thread gets a 'doing now' line and a 'stands with him' line (owed, slighted, warm, afraid); when he meets them again, both show.",
+  "question": "Do named NPCs move on their wants when your PC is not in the room?",
+  "rules_touched": [
+   "R48-36-NPC_WITS",
+   "R52-29-NPC_RECIPE"
+  ]
+ },
+ {
+  "n": 27,
+  "qid": "WD13",
+  "section": "WD",
+  "id": "R72-27-SWAYS_NPC",
+  "title": "What sways an NPC",
+  "verbatim": "Yes to: Rank bends it (A Stage gap felt as Pressure (R70-69) and a commoner's awe of a ranked practitioner (R53-18) can make an NPC yield what its want alone would refuse; a ranked NPC weighs them less); His name goes before him (Ledger lines for reputation and who saw what reach the NPC: it answers what your PC did in public, for good or ill, and the notes name the line that weighed); His lies caught on evidence (An NPC catches your PC's lie only on what it can check: a tell in his body, a fact it holds, or a read its Gnosis earns (R14-3's read row). Otherwise the lie holds).",
+  "question": "Beyond its own want, what may decide how an NPC answers your PC's offer, threat or lie?",
+  "rules_touched": [
+   "R14-3-STATS_DECIDE_TABLE",
+   "R13-8-RECONSTRUCTIBLE_ADJUDICATION",
+   "R70-69-PRESSURE_AURA",
+   "R53-18-AWE",
+   "R71-22-TALK_INSIDE_FIGHT",
+   "R49-36-LIE_TELLS"
+  ]
+ },
+ {
+  "n": 28,
+  "qid": "WD8",
+  "section": "WD",
+  "id": "R72-28-TIME_OFF",
+  "title": "Time off",
+  "verbatim": "B, with project clocks. As B, and long work (a commissioned bench piece, a licence, a house) runs on a clock of four to eight that fills across spans, kept on the Ledger.",
+  "question": "When time passes between adventures, how does downtime run?",
+  "rules_touched": [
+   "R70-90-FAST_NUMBERS_CLIMB",
+   "R60-02-REAL_HEALING_TIMES",
+   "R70-48-MONEY_PRICE_PROVENANCE",
+   "R53-07-PRICE_TABLE",
+   "R53-17-THE_BILL",
+   "R70-14-KISHOTENKETSU"
+  ]
+ },
+ {
+  "n": 29,
+  "qid": "WD9",
+  "section": "WD",
+  "id": "R72-29-ROAD_AT_STAKE",
+  "title": "The road",
+  "verbatim": "The road as a clock. The journey gets a clock of four to six (weather, horses, food), ticked by miles and calendar, each tick a beat on the page; if it fills first, the road takes a horse, a hand or the season.",
+  "question": "When a journey has something at stake, how does it run?",
+  "rules_touched": [
+   "R48-29-PACING",
+   "R53-08-TRAVEL_RATES",
+   "R53-09-WEATHER"
+  ]
+ },
+ {
+  "n": 30,
+  "qid": "WD10",
+  "section": "WD",
+  "id": "R72-30-WHAT_WIN_PAYS",
+  "title": "What a win pays",
+  "verbatim": "Yes to: Favours owed him (A debt in his favour becomes a Ledger line he can call in later, on terms, the way his own debts are called); Access and licence (A draw allotment, a Guild licence, a key, a seat at a table: rights on paper that open doors and can be revoked); Spoils with a history (Things taken or given (a dead man's blade, a horse, a proofed rifle) arrive with their lineage (R70-48), and the Ledger keeps who wants them back).",
+  "question": "Besides coin on a contract, what can the world pay out?",
+  "rules_touched": [
+   "R70-97-QUESTS_CONTRACTS",
+   "R71-97-CONTRACT_FIGHTS",
+   "R70-96-TITLES_ACHIEVEMENTS",
+   "R71-100-ROLL_AFTER_PUBLIC_FIGHT",
+   "R70-90-FAST_NUMBERS_CLIMB",
+   "R70-48-MONEY_PRICE_PROVENANCE",
+   "R48-48-EXPLAIN"
+  ]
+ },
+ {
+  "n": 31,
+  "qid": "WD11",
+  "section": "WD",
+  "id": "R72-31-LAST_WARNING",
+  "title": "The last warning",
+  "verbatim": "Plain only when unreadable. As A, plus the OOC line only when the danger is one his character could not read: Pressure (the felt weight of a higher Stage) from far above him, or a Well's own law.",
+  "question": "Before a choice that can kill your character, is the warning in the world only, or may it also be said plainly?",
+  "rules_touched": [
+   "R48-31-STAKES",
+   "R71-67-CLEAR_WARNING_BEFORE_LOSS",
+   "R48-47-NOTES",
+   "R60-04-DEATH_IS_PERMANENT"
+  ]
+ },
+ {
+  "n": 32,
+  "qid": "WD12",
+  "section": "WD",
+  "id": "R72-32-AFTER_DEATH",
+  "title": "After his death",
+  "verbatim": "The world goes on. The thread goes on and your next character enters it. The dead man's debts fall on kin or partners, his Fronts keep their clocks, and a grief Front may open (R58-07).",
+  "question": "If your character dies, what happens to the thread?",
+  "rules_touched": [
+   "R60-04-DEATH_IS_PERMANENT",
+   "R58-07-WREN_GRIEF_FRONT"
+  ]
+ },
+ {
+  "n": 33,
+  "qid": "WD14",
+  "section": "WD",
+  "id": "R72-33-WRITES_CLOSE",
+  "title": "Who writes the close",
+  "verbatim": "Applied, then listed. At your wrap and whenever a scene is archived, Natalie applies the close herself and lists each write once as an agent ruling (a call you may overturn); nothing waits.",
+  "question": "When a session closes, does Natalie apply what it writes to the table, or does each item wait for your yes?",
+  "rules_touched": [
+   "R48-26-INVENTION",
+   "R52-08-PC_IDIOM",
+   "R20C-34-ESTIMATES_CANON_ON_USE",
+   "R70-40-WIDE_DESCRIPTION_MUST_RANGE",
+   "R48-47-NOTES"
+  ]
+ },
+ {
+  "n": 34,
+  "qid": "WD15",
+  "section": "WD",
+  "id": "R72-34-SCENES_SET_PAST",
+  "title": "Scenes set in the past",
+  "verbatim": "Only what still binds. A past scene adds canon and precedent, and writes a Ledger line or Front history only for what still binds at the thread's live date, which the close checks.",
+  "question": "When a scene is set before its thread's live moment, what may it write to the Fronts and the Ledger?",
+  "rules_touched": [
+   "R53-09-WEATHER",
+   "R70-137-ARCHIVED_SCENES"
+  ]
+ },
+ {
+  "n": 35,
+  "qid": "MP1",
+  "section": "MP",
+  "id": "R72-35-NATALIE_SEAT_DISCORD",
+  "title": "Natalie's seat on Discord",
+  "verbatim": "The Judger's desk. Natalie also drafts world and NPC posts, rulings and closes for you to post as narrator. Every word that reaches the server passes through your hands, and the bot stays model-free.",
+  "question": "What is Natalie's role at the Discord table?",
+  "rules_touched": [
+   "R71-6-PLAYER_FIGHTER_PAGE",
+   "R52-10-CROSSOVER"
+  ]
+ },
+ {
+  "n": 36,
+  "qid": "MP2",
+  "section": "MP",
+  "id": "R72-36-WHO_POSTS_WHEN",
+  "title": "Who posts when",
+  "verbatim": "Order when it matters. Free posting in talk and travel; in fights and contests a fixed round order with a reply window the Judger sets, after which the round moves on and standing orders (R71-5) play for the absent.",
+  "question": "How do turns and the spotlight run when several players share a scene?",
+  "rules_touched": [
+   "R71-5-ROLEPLAY_TURNS_AGAINST_WRITTEN"
+  ]
+ },
+ {
+  "n": 37,
+  "qid": "MP3",
+  "section": "MP",
+  "id": "R72-37-PLAYER_AGAINST_PLAYER",
+  "title": "Player against player",
+  "verbatim": "Terms first, then Judger. Before contact both players post terms (what counts as a loss, what is off the table), R71-54 widened to every contest; inside those terms the Judger rules by card, as in B.",
+  "question": "When two players' characters contest a thing, who decides the outcome?",
+  "rules_touched": [
+   "R13-8-RECONSTRUCTIBLE_ADJUDICATION",
+   "R14-3-STATS_DECIDE_TABLE",
+   "R71-54-BOUTS_AETHERION"
+  ]
+ },
+ {
+  "n": 38,
+  "qid": "MP4",
+  "section": "MP",
+  "id": "R72-38-GUEST_OWN_LINES",
+  "title": "A guest's own lines",
+  "verbatim": "Yes to: Lines and veils (Each guest lists lines and veils on their character's card; the Judger and Natalie honour them in that player's scenes, and the Floor binds everyone); Mortal or not (Each guest marks their character mortal or not. One marked not mortal can be maimed, captured or ruined, never killed; this narrows R48-31 for that character only); Explicit scenes opt in (Explicit scenes run only in age-restricted channels with only players who opted in present; anyone else's character sees a door close).",
+  "question": "What does each guest player set for their character on joining a thread?",
+  "rules_touched": [
+   "R48-31-STAKES",
+   "R71-6-PLAYER_FIGHTER_PAGE",
+   "R49-51-EXPLICIT"
+  ]
+ },
+ {
+  "n": 39,
+  "qid": "MP5",
+  "section": "MP",
+  "id": "R72-39-GUEST_SCENES_BECOME",
+  "title": "What guest scenes become",
+  "verbatim": "The Judger rules breaks. On archive the Judger marks each break struck or accepted as a new fact and tells the player which; pages mark every character's owner.",
+  "question": "When a scene with other players is archived, what of it is canon?",
+  "rules_touched": [
+   "R70-137-ARCHIVED_SCENES",
+   "R52-10-CROSSOVER",
+   "R1-1-RESTRICTED_CHARACTERS_EXCLUDED"
+  ]
+ },
+ {
+  "n": 40,
+  "qid": "MP6",
+  "section": "MP",
+  "id": "R72-40-PLAYERS_CAN_LOOK_UP",
+  "title": "What players can look up",
+  "verbatim": "Yes to: Their own Ledger lines (/due and /ledger show a player only the lines about their own characters); Public faces on the roster (/roster and /npc show what is public: name, look, voice, role. Wants, lies and what they know stay with the Judger); Adjudication cards (Each ruling's card is posted in the scene's thread, so any player can see which stat rows decided it).",
+  "question": "Which table state should the bot show players on Discord?",
+  "rules_touched": [
+   "R13-8-RECONSTRUCTIBLE_ADJUDICATION",
+   "R14-3-TRACEABILITY"
+  ]
+ },
+ {
+  "n": 41,
+  "qid": "ME1",
+  "section": "ME",
+  "id": "R72-41-WHERE_TABLE_LAW_LANDS",
+  "title": "Where the table law lands",
+  "verbatim": "C, plus the tools. C, plus MCP changes: a thread and a date or trigger on Ledger rows, a pace on Fronts, new roster fields, reward and penalty in scene_menu, and the bot's table commands per MP6.",
+  "question": "Where do the table answers land?",
+  "rules_touched": [
+   "R70-135-WHERE_NEW_LAW_LIVES",
+   "R71-102-WHERE_COMBAT_LAW_LANDS"
+  ]
+ },
+ {
+  "n": 42,
+  "qid": "ME2",
+  "section": "ME",
+  "id": "R72-42-DATA_ALREADY_FILE",
+  "title": "The data already on file",
+  "verbatim": "One reconciliation pass. Every open row gets a thread and a date or trigger under the new law; dead and stale lines retire with a note; Fronts get a pace; State of Play pages are rewritten.",
+  "question": "What happens to the Fronts, Ledger lines and State of Play pages already on file?",
+  "rules_touched": []
+ },
+ {
+  "n": 43,
+  "qid": "ME3",
+  "section": "ME",
+  "id": "R72-43-TEST_SESSION",
+  "title": "The test session",
+  "verbatim": "Law and tools, two tests. Log the law, change the tools and reconcile the data; run one Desktop session start to close and one Discord scene through the full loop; amend; then the skills.",
+  "question": "In what order does the table work run, and what proves it?",
+  "rules_touched": [
+   "R70-138-PROOF_ORDER_WORK",
+   "R71-105-PROOF_ORDER_WORK"
+  ]
+ }
+]

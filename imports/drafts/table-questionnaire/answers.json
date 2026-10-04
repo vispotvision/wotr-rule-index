@@ -1,0 +1,208 @@
+{
+ "K1": {
+  "choice": "D",
+  "note": ""
+ },
+ "K2": {
+  "choice": "A",
+  "note": "differs from the recommendation (B): Natalie makes every call, logged as an agent ruling"
+ },
+ "K3": {
+  "choice": "C",
+  "note": ""
+ },
+ "K4": {
+  "choice": "B",
+  "note": ""
+ },
+ "K5": {
+  "choice": "B",
+  "note": ""
+ },
+ "K6": {
+  "choice": [
+   "A",
+   "B",
+   "C"
+  ],
+  "note": ""
+ },
+ "K7": {
+  "choice": "B",
+  "note": ""
+ },
+ "TU1": {
+  "choice": "C",
+  "note": ""
+ },
+ "TU2": {
+  "choice": "B",
+  "note": ""
+ },
+ "TU3": {
+  "choice": "B",
+  "note": ""
+ },
+ "TU4": {
+  "choice": "B",
+  "note": ""
+ },
+ "TU7": {
+  "choice": "B",
+  "note": ""
+ },
+ "TU10": {
+  "choice": "A",
+  "note": ""
+ },
+ "WD1": {
+  "choice": "B",
+  "note": ""
+ },
+ "WD4": {
+  "choice": "A",
+  "note": ""
+ },
+ "WD14": {
+  "choice": "B",
+  "note": "recommendation moved from C to B in chat to match K2=A (Natalie decides everything)"
+ },
+ "WD6": {
+  "choice": "B",
+  "note": ""
+ },
+ "WD8": {
+  "choice": "C",
+  "note": ""
+ },
+ "WD11": {
+  "choice": "C",
+  "note": ""
+ },
+ "MP1": {
+  "choice": "B",
+  "note": ""
+ },
+ "MP3": {
+  "choice": "C",
+  "note": ""
+ },
+ "WD12": {
+  "choice": "A",
+  "note": ""
+ },
+ "ME1": {
+  "choice": "D",
+  "note": ""
+ },
+ "ME3": {
+  "choice": "B",
+  "note": ""
+ },
+ "TU5": {
+  "choice": "A",
+  "note": "took the recommendation (digest)"
+ },
+ "TU6": {
+  "choice": [
+   "A",
+   "B",
+   "C"
+  ],
+  "note": "took the recommendation (digest)"
+ },
+ "TU8": {
+  "choice": [
+   "A",
+   "B",
+   "C"
+  ],
+  "note": "took the recommendation (digest)"
+ },
+ "TU9": {
+  "choice": [
+   "A",
+   "C"
+  ],
+  "note": "took the recommendation (digest)"
+ },
+ "TU11": {
+  "choice": "A",
+  "note": "took the recommendation (digest)"
+ },
+ "TU12": {
+  "choice": "B",
+  "note": "took the recommendation (digest)"
+ },
+ "WD2": {
+  "choice": "A",
+  "note": "took the recommendation (digest)"
+ },
+ "WD3": {
+  "choice": "B",
+  "note": "took the recommendation (digest)"
+ },
+ "WD5": {
+  "choice": [
+   "A",
+   "B"
+  ],
+  "note": "took the recommendation (digest)"
+ },
+ "WD7": {
+  "choice": "B",
+  "note": "took the recommendation (digest)"
+ },
+ "WD9": {
+  "choice": "B",
+  "note": "took the recommendation (digest)"
+ },
+ "WD10": {
+  "choice": [
+   "A",
+   "B",
+   "C"
+  ],
+  "note": "took the recommendation (digest)"
+ },
+ "WD13": {
+  "choice": [
+   "A",
+   "B",
+   "C"
+  ],
+  "note": "took the recommendation (digest)"
+ },
+ "WD15": {
+  "choice": "A",
+  "note": "took the recommendation (digest)"
+ },
+ "MP2": {
+  "choice": "B",
+  "note": "took the recommendation (digest)"
+ },
+ "MP4": {
+  "choice": [
+   "A",
+   "B",
+   "C"
+  ],
+  "note": "took the recommendation (digest)"
+ },
+ "MP5": {
+  "choice": "B",
+  "note": "took the recommendation (digest)"
+ },
+ "MP6": {
+  "choice": [
+   "A",
+   "B",
+   "C"
+  ],
+  "note": "took the recommendation (digest)"
+ },
+ "ME2": {
+  "choice": "B",
+  "note": "took the recommendation (digest)"
+ }
+}

@@ -6,6 +6,29 @@ direction: inside work he has asked for, make the calls; no "pending" slots.
 append a dated block, do not rewrite older ones (two sessions write this repo
 at once — `git pull` before editing, and commit only your own files).
 
+## State on 2026-10-04, later (the Combat Law R71 landed; four questionnaires in build)
+
+**R71 is law.** `rules/doc-combat-law-2026-10-04.yaml`, R71-1 to R71-105 (commit 957dd2b). Two rows superseded on
+quotable words: R13-4-DENSITY_BUDGET (by R71-4) and R8-26-ONE_RELEASE_PER_SCENE (by R71-29); 56 older rows carry
+notes. C-001 has a 2026-10-04 addendum: ruled by WT4 (R71-93). Validate: 1555 rules, 1363 live.
+
+**verify.py carries the R71 checks** (6049ce9): school lists (percussion as hammer and haft, boxing, firearms,
+kharven; `--school`), readout counts (three a scene, two with `--turn`, two inside one exchange), a carried reserve
+figure (combat only), and the stale-device watch ("eleven" as a count, the knock-back furrow, the overdraw
+nosebleed, "without deciding to", "the particular X of Y"). The device and readout checks run on every text, not
+only `--combat`; over the archive that adds about 120 WARNs, nearly all "eleven" on pre-R70 prose. `verify_scene`
+now takes `school` and `turn`. Still a manual read: a figure carried across exchanges beyond reserve, and
+`build/audit.py`'s combat heuristic flags two non-fights (true_king part 16, war_in_the_north ii).
+
+**The test fight** is `~/wotr-drafts/the-tolling.md` (a Tolling Crab Well clearance in the Hollin Deep, POV Tamsin
+"Bead" Rook): 0 FAIL, 0 WARN on the new checks at the standard band. Not archived; waits on Isaac's read (ME4 B).
+After his read: the guide editions (Combat Craft, Mass Combat Craft, Item and Equipment), NATALIE.md's stale
+combat lines including its C-001 caveat, and the combat bank.
+
+**Four more questionnaires in build** (Isaac picked all four): the table itself, intimacy and explicit scenes,
+mystery horror and intrigue, techniques and characters. Work in `imports/drafts/{table,intimacy,mystery,techniques}-questionnaire/`.
+Run one at a time in chat, the table first.
+
 ## State on 2026-10-04 (the combat and alchemy questionnaire: answered, law not yet written)
 
 **Isaac answered a 105-question combat and alchemy questionnaire in chat on 2026-10-04.** Everything is in

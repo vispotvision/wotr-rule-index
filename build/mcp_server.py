@@ -595,14 +595,19 @@ def session_start(thread: str, scene_type: str = "standard", culture: str = "Kha
 
 
 @server.tool()
-def verify_scene(markdown: str, combat: bool = False, culture: str = "", band: str = "standard") -> str:
+def verify_scene(markdown: str, combat: bool = False, culture: str = "", band: str = "standard", school: str = "", turn: bool = False) -> str:
     """Mechanical prose checks on a draft before it is posted: em dashes, antithesis,
     countdown negation, the Ladder, apparatus-as-subject, gloss watch, signposting,
     reification budget, sentence and paragraph variance (R4-14), length band,
-    interior beats, last line, Kharven recurrence (culture='Kharven'), HEMA and
-    anatomy density (combat=True). Fix every FAIL, read every WARN, then post."""
+    interior beats, last line, Kharven recurrence (culture='Kharven'), readout counts
+    and stale devices (R71-103), and with combat=True the fight checks and the
+    POV's school vocabulary (school: blade, japanese, chinese, korean, percussion,
+    boxing, firearms, kharven; default from culture). turn=True caps readouts at
+    two, for a roleplay turn.
+    Fix every FAIL, read every WARN, then post."""
     import verify
-    return verify.report(verify.run(markdown, combat=combat, culture=culture or None, band=band))
+    return verify.report(verify.run(markdown, combat=combat, culture=culture or None, band=band,
+                                    school=school or None, turn=turn))
 
 
 @server.tool()

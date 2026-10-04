@@ -1,8 +1,8 @@
 #!/usr/bin/env python3
 """Mechanical prose checks derived from the rule index and the AI-tells guide.
 
-  python build/verify.py draft.md [--combat] [--school blade|japanese|chinese|korean|percussion]
-                         [--culture Kharven] [--band standard|set-piece|conversational]
+  python build/verify.py draft.md [--combat] [--school blade|japanese|chinese|korean|percussion|boxing|firearms|kharven]
+                         [--culture Kharven] [--band standard|set-piece|conversational] [--turn]
 
 Every check names the rule it enforces. FAIL is a rule with a hard number or an
 outright ban; WARN is a pattern that needs a human read (the FID carve-out, the
@@ -100,13 +100,21 @@ LABEL_BEFORE = re.compile(r"\b[A-Z][A-Za-z]*[.:]?[ \t]+(?:\d{1,3},?[ \t]+(?:and[
 # of the rhythm counts and the word count, as verse set as a '>' block (the verse marker, R70-64)
 # and '|' tables already are; the dash and hard-ban checks still read both.
 READOUT = re.compile(r"(?m)^[ \t]*\[[^\]\n]+\][ \t]*(?:\n|$)")
+# R71-103 (ME2 B), R70-88: running figures stay in the Stat Ledger; a reserve figure on the page
+# more than once is a figure carried between exchanges, for a read.
+RUNNING = re.compile(r"\b\d[\d,.]*\s?(?:EU|AU/s)\b|(?:\bEU|\bAU/s|η|\beta)\s*:?\s*\d")
+# R71-103 (ME2 B), R70-86: a '>' block is a readout when it carries a figure (Stage II, Level 100,
+# Grade ceiling D, 40 EU); a letter, a contract or verse set as '>' carries none. The figure follows
+# the label, and a lone letter before a lowercase word is prose ('the band I rode with', 'Grade A steel').
+READOUT_FIG = re.compile(r"(?i:\b(?:stage|level|grade|tier|band|rung|reserve|coherence)(?: ceiling)?\b)\s*:?\s*(?:\d[\d,.]*|(?:[IVX]+|[A-FS][+-]?)(?![\w'’])(?!\s+[a-z]))|"
+                         + RUNNING.pattern)
 QUOTED = re.compile(r"[\"“][^\"“”\n]*[\"”]")
 ITALIC = re.compile(r"(?<!\*)\*(?!\*)([^*\n]+?)\*(?!\*)")
 HEMA = re.compile(r"\b(?:Vor|Nach|Indes|Zornhau|Absetzen|Durchwechseln|Winden|Krumphau|Zwerchhau|Schielhau|Scheitelhau|Mutieren|Duplieren|bind|measure|half-sword|halfsword|pommel|guard|ward|thrust|cut|tempo|feint|parry|riposte|void|cross|edge|flat|crossguard|quillon|point|counter-cut)\b")
 ANATOMY = re.compile(r"\b(?:femoral|carotid|clavicle|radius|ulna|humerus|tibia|fibula|patella|scapula|sternum|rib|ribs|vertebra|spine|jugular|subclavian|brachial|aorta|lung|liver|kidney|spleen|diaphragm|tendon|ligament|cartilage|orbit|mandible|maxilla|skull|trachea|larynx|hypovol|haemorrh|hemorrh|shock|Class\s+(?:I|II|III|IV))\b", re.I)
 # R70-136 (ME2 A), R70-100 (CB1): --combat warns only when a fight carries none of its school's
 # terms. The school comes from --school, or from --culture (Ketsuen and the Japonic houses, R8's
-# naming register; the Korean houses; the lineage halls); blade (the HEMA list above) otherwise.
+# naming register; the Korean houses; the lineage halls; Kharven); blade (the HEMA list above) otherwise.
 SCHOOLS = {
     "blade": HEMA,
     "japanese": re.compile(r"\b(?:maai|ma-ai|kamae|ch[uū]dan|j[oō]dan|gedan|hass[oō]|waki-?gamae|seme|kiai|zanshin|tsuki|kesa-?giri|kiri-?oroshi|nukitsuke|iai\w*|batt[oō]\w*|n[oō]t[oō]|chiburi"
@@ -115,12 +123,23 @@ SCHOOLS = {
                           r"|sanshou|sanda|liuhe|six harmonies|neijia|waijia|qinggong|dianxue|bagua|xingyi|taiji|tai chi|wing chun|chi sao)\b", re.I),
     "korean": re.compile(r"\b(?:taekky[eo]on|ssireum|satba|geomdo|gumdo|kumdo|haidong|ssangsudo|bonguk ?geom\w*|muye ?dobo ?tongji|hwando|jireugi|makgi|chagi|chigi|gyeorugi|pumsae|poomsae"
                          r"|subak|gwonbeop|kwonbeop|baejigi|woldo)\b", re.I),
-    "percussion": re.compile(r"\b(?:jab(?:s|bed|bing)?|cross|hooks?|uppercuts?|haymakers?|overhands?|clinch\w*|southpaw|orthodox|teeps?|plum|body shots?|liver shots?|counterpunch\w*|combinations?"
-                             r"|footwork|bob(?:bed|bing)?|weav(?:e|ed|ing)|slip(?:s|ped|ping)?|roundhouse|feints?|guard|pivot\w*|(?:elbow|knee) strikes?|straight (?:right|left)|short (?:right|left))\b", re.I),
+    # R71-103 (ME2 A): Percussion is hammer and haft (R1-1's four moves); the fist words are boxing's.
+    # Words common outside a fight ('heads', 'beard', 'round', 'balls of his feet', 'bore') stay off.
+    "percussion": re.compile(r"\b(?:hafts?|hammer-?heads?|rims?|boss|shields?|(?:war-?)?hammers?|mauls?|maces?|flails?|clubs?|cudgels?|axe-?beards?|bearded axes?|hook(?:s|ed)?|shov(?:e|es|ed|ing)"
+                             r"|rebound\w*|poll|spikes?|(?-i:the (?:Settling|Sweep|Shove|Return)))\b", re.I),
+    "boxing": re.compile(r"\b(?:jab(?:s|bed|bing)?|cross|hooks?|uppercuts?|haymakers?|overhands?|clinch\w*|southpaw|orthodox|teeps?|plum|body shots?|liver shots?|counterpunch\w*|combinations?"
+                         r"|footwork|bob(?:bed|bing)?|weav(?:e|ed|ing)|slip(?:s|ped|ping)?|roundhouse|feints?|guard|pivot\w*|(?:elbow|knee) strikes?|straight (?:right|left)|short (?:right|left))\b", re.I),
+    "firearms": re.compile(r"\b(?:guns?|gun(?:fire|powder|shots?|smoke)|hammers?|percussion caps?|muzzles?|cylinders?|volleys?|reload\w*|ramrods?|rifle[ds]?|revolvers?|flintlocks?|muskets?|pistols?"
+                           r"|carbines?|cartridges?|powder|priming|frizzen|breech\w*|barrels?|wad(?:ding)?|trigger\w*|misfire[ds]?)\b", re.I),
+    # The Kharven Standing Inventory (desktop/NATALIE.md) and the hall fights in the archive; R71-53's
+    # per-culture wrestling words join here once the Inventories carry them.
+    "kharven": re.compile(r"\b(?:belt-?wrestl\w*|belts?|grip(?:s|ped|ping)?|forearm|hip-?throws?|throws?|threw|thrown|trip(?:s|ped|ping)?|axes?|hatchets?|spears?|lances?|harpoons?"
+                          r"|knife|knives|(?:horse-?)?bows?|arrows?|saddles?|stirrups?|seal-?clubs?)\b", re.I),
 }
 SCHOOL_CULTURES = {"japanese": ("moto", "yukari", "ketsuen", "shirogane", "kokan", "kōkan", "japon"),
                    "korean": ("mahuo", "hon-guk", "honguk", "korea"),
-                   "chinese": ("lineage", "chinese")}
+                   "chinese": ("lineage", "chinese"),
+                   "kharven": ("kharven",)}
 # R70-58 (DD7): the description census, a keyword count in narration for each rotation group the
 # range rule pulls from (R70-41, R70-42, R70-43; the heavy groups, bodies, rooms and wounds, need no
 # push and are not counted). WARN when a scene of standard length or more touches fewer than the
@@ -142,6 +161,22 @@ CENSUS = {g: re.compile(r"\b(?:" + w + r")\b", re.I) for g, w in {
     "music, art and play": r"songs?|singing|sang|music|drums?|flutes?|lutes?|fiddles?|harps?|games?|dice|toys?|danc(?:e|es|ed|ing)|tunes?|melod(?:y|ies)|choir|lullab(?:y|ies)|carvings?|paintings?|theatre|storytellers?",
 }.items()}
 NOTES = re.compile(r"(?im)^##\s+(?:author[\w-]*\s+)?notes\b")  # '## Notes', '## Author notes', '## Author-facing notes'
+
+# R71-103 (ME2 D): the archive's tired fight devices (the house survey,
+# imports/drafts/combat-questionnaire/work/research-house.md), WARN past one a scene, counted by
+# sentence of narration. A year ('Year eleven', 'seven hundred and eleven') is not the device, a
+# furrow needs heels driven through the ground (a ploughed field passes), and a nosebleed in a
+# sentence with a blow in it is a punch's, not an overdraw's.
+STALE = {
+    "'eleven' as a count": re.compile(r"(?<!Pack )(?<!Part )(?<!Chapter )(?<!Year )(?<!hundred and )(?<!thousand and )\beleven\b(?! hundred| thousand)", re.I),
+    "the knock-back furrow": re.compile(r"\b(?:heels?|boots?|feet)\b[^.!?\n]{0,30}?\b(?:plough|plow|dug|dig|goug|carv|tore|tear|scor)\w*[^.!?\n]{0,30}?\b(?:furrows?|grooves?|trench(?:es)?)\b"
+                                        r"|\bgoug(?:e|es|ed|ing) (?:\w+ ){0,2}?(?:furrows?|trench(?:es)?)\b", re.I),
+    "the overdraw nosebleed": re.compile(r"^(?!.*\b(?:punch\w*|fists?|knuckles?|jab\w*|elbowed|kneed|head-?butt\w*|pommel|kick\w*|slap\w*|hit|struck|broke|broken|smash\w*)\b)"
+                                         r".*?(?:\bnose-?bleeds?\b|\b(?:nose|nostrils?)(?:[ -][\w'’]+){0,3}? (?:bled|bleeds?|bleeding|(?:to|run|ran|running) blood)\b"
+                                         r"|\bblood\b[^.!?\n]{0,30}?\b(?:from|out of)\b[^.!?\n]{0,15}?\b(?:nose|nostrils?)\b)", re.I),
+    "'without deciding to'": re.compile(r"\bwithout (?:(?:his|her|their|my|its) )?(?:having )?(?:deciding|decided) to\b", re.I),
+    "'the particular X of Y'": re.compile(r"\bthe particular (?:[\w'’-]+ ){1,3}?of\b", re.I),
+}
 
 KHARVEN_RECURRENCE = {
     "the woodpile / how's your stack": re.compile(r"woodpile|how['’]s your stack|your stack", re.I),
@@ -178,7 +213,29 @@ def school_for(culture: str | None) -> str:
     return next((s for s, keys in SCHOOL_CULTURES.items() if any(k in c for k in keys)), "blade")
 
 
-def run(text: str, combat: bool = False, culture: str | None = None, band: str = "standard", school: str | None = None) -> dict:
+def readouts(body: str) -> list[tuple[str, bool]]:
+    """One (paragraph, near) per readout (R70-86): a whole-line bracket line or a '>' block with a
+    figure in it; readout lines split only by blank lines are one readout. near: one prose paragraph
+    or less since the readout before, the checker's stand-in for 'one exchange'."""
+    out, prev, last = [], False, -9
+    for k, p in enumerate(re.split(r"\n\s*\n", body)):
+        lines = [x for x in p.split("\n") if x.strip()]
+        quote = [x.lstrip().startswith(">") for x in lines]
+        j = 0
+        while j < len(lines):
+            e = j + 1
+            while quote[j] and e < len(lines) and quote[e]:
+                e += 1
+            ro = bool(READOUT_FIG.search("\n".join(lines[j:e]))) if quote[j] else bool(READOUT.match(lines[j]))
+            if ro and not prev:
+                out.append((p, k - last <= 2))
+            if ro:
+                last = k
+            prev, j = ro, e
+    return out
+
+
+def run(text: str, combat: bool = False, culture: str | None = None, band: str = "standard", school: str | None = None, turn: bool = False) -> dict:
     fails, warns, info = [], [], []
     text = NOTES.split(text, maxsplit=1)[0]  # author notes are not measured
     raw = text
@@ -396,6 +453,22 @@ def run(text: str, combat: bool = False, culture: str | None = None, band: str =
     if prose_paras:
         info.append(f"last line: \"{prose_paras[-1][-140:]}\" (must end on physical action, an NPC line, or a thing he can now see)")
 
+    # --- readouts and stale devices (R71-103, ME2 B and D) --------------------
+    ro = readouts(body)
+    cap, unit = (2, "turn") if turn else (3, "scene")
+    if len(ro) > cap:
+        warns.append(f"readouts: {len(ro)} in this {unit}, cap {cap} (R70-86-MANY_READOUTS_SCENE_CARRIES, R71-103-COMBAT_CHECKS_VERIFY_SCENE)")
+    elif ro:
+        info.append(f"readouts: {len(ro)} (cap {cap} a {unit}, R70-86-MANY_READOUTS_SCENE_CARRIES)")
+    for p, near in ro:
+        if near:
+            warns.append(f"two readouts in one exchange (one prose paragraph or less apart): \"{' '.join(p.split())[:90]}...\" (R70-86-MANY_READOUTS_SCENE_CARRIES, R71-103-COMBAT_CHECKS_VERIFY_SCENE)")
+    for name, rx in STALE.items():
+        hits = [(x, m) for x in narr_sents if (m := rx.search(x))]
+        if len(hits) > 1:
+            x, m = hits[0]
+            warns.append(f"stale device: {name} in {len(hits)} sentences of narration, past one a scene, first \"...{x[max(0, m.end() - 70):m.end() + 20]}...\" (R71-103-COMBAT_CHECKS_VERIFY_SCENE)")
+
     # --- culture recurrence (R6-9) -----------------------------------------
     if culture and culture.lower() == "kharven":
         present = [k for k, rx in KHARVEN_RECURRENCE.items() if rx.search(raw)]
@@ -413,6 +486,12 @@ def run(text: str, combat: bool = False, culture: str | None = None, band: str =
         if a == 0:
             warns.append("no anatomical/injury vocabulary found in a combat scene (R13-6-ANATOMY_VOCAB, check 23)")
         info.append(f"combat density: {h} {school} school terms, {a} anatomy terms")
+        run_ = [(p, m) for p in re.split(r"\n\s*\n", body) if (m := RUNNING.search(p))]
+        if len(run_) > 1:
+            p, m = run_[0]
+            s_ = p[max(0, m.start() - 50):m.end() + 10].replace("\n", " ")
+            warns.append(f"figure carried between exchanges: {len(run_)} paragraphs carry a reserve figure (EU, AU/s, eta), first \"...{s_.strip()}...\"; "
+                         "read whether it runs a count (R70-88-NUMBERS_INSIDE_FIGHT, R71-103-COMBAT_CHECKS_VERIFY_SCENE)")
 
     return {"fails": fails, "warns": warns, "info": info}
 
@@ -456,11 +535,12 @@ def main() -> int:
     ap.add_argument("--culture")
     ap.add_argument("--band", default="standard", choices=list(BANDS))
     ap.add_argument("--echoes", action="store_true", help="also warn on word echoes (book chapters)")
+    ap.add_argument("--turn", action="store_true", help="the text is a roleplay turn: two readouts, not three (R70-86)")
     a = ap.parse_args()
     if hasattr(sys.stdout, "reconfigure"):
         sys.stdout.reconfigure(encoding="utf-8")
     text = Path(a.file).read_text(encoding="utf-8", errors="replace")
-    res = run(text, combat=a.combat, culture=a.culture, band=a.band, school=a.school)
+    res = run(text, combat=a.combat, culture=a.culture, band=a.band, school=a.school, turn=a.turn)
     if a.echoes:
         res["warns"] += echoes(text)
     print(report(res))

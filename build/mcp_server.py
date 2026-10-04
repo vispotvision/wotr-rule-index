@@ -466,12 +466,24 @@ def scene_recall(query: str, limit: int = 8) -> str:
     hits = _hybrid(SCENES, "scenes", query, limit=max(1, min(limit, 25)))
     if not hits:
         return f"no scene matches '{query}'"
+    editions = dict(re.findall(r"(?m)^\| (\S+\.md) \| \d+ \| (\S+) \|$", (SCENES / "MANIFEST.md").read_text(encoding="utf-8")))
     out = []
     for score, p, snips in hits:
         text = _read(p)
         title = re.search(r"(?m)^#\s+(.+)$", text)
-        out.append(f"## {title.group(1) if title else p.stem}  ({p.name}, score {score})\n" + "\n".join(snips))
+        out.append(f"## {title.group(1) if title else p.stem}  ({p.name}, score {score}){_pre_r70_tag(p, editions)}\n" + "\n".join(snips))
     return "\n\n".join(out)
+
+
+def _pre_r70_tag(p: Path, editions: dict) -> str:
+    """R70-137: tag a scene written under the style law before 2026-10-03. The edition is
+    scenes/MANIFEST.md's Law edition column; an unlisted scene is pre-R70 when git first
+    added it before that day (an uncommitted file is new, so R70)."""
+    ed = editions.get(p.name)
+    if ed is None:
+        code, added = _git("log", "--diff-filter=A", "--format=%as", "-1", "--", str(p.relative_to(ROOT)))
+        ed = "pre-R70" if code == 0 and "" < added < "2026-10-03" else "R70"
+    return "  (pre-R70 style: precedent for events, not for prose)" if ed == "pre-R70" else ""
 
 
 # --------------------------------------------------------------------------

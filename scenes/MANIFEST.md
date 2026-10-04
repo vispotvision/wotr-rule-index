@@ -2,165 +2,167 @@
 
 160 files, 885878 words.
 
-| File | Words |
-|---|---|
-| 00_SUPERSEDED_wrong_names.md | 4230 |
-| 01_the_vacancy_korvaeth_arc.md | 11091 |
-| 01_verinus_fire_of_the_undeserving.md | 5388 |
-| 01_wotr_muster_breach_road_north.md | 4474 |
-| 02_verinus_testament_of_the_sixty_fifth.md | 3976 |
-| 02_wren_bulwark.md | 3235 |
-| 03_verinus_wall_between_the_safeguarded.md | 3706 |
-| 03_wren_three_deliveries.md | 3534 |
-| 04_sodoku_what_the_sky_does_not_ask.md | 3112 |
-| 04_verinus_the_hand_and_the_print.md | 3439 |
-| 05_aurelian_primate_under_the_wrong_stars.md | 3346 |
-| 05_sodoku_the_fixed_end.md | 3498 |
-| 06_aurelian_what_the_lamberts_are_for.md | 3291 |
-| 06_sodoku_the_shallow_seen_unburied.md | 3374 |
-| 07_charles_the_imperceptible_district.md | 3554 |
-| 07_sodoku_the_howling_hawk.md | 3508 |
-| 08_charles_what_a_hand_is_for.md | 3581 |
-| 08_sodoku_recalescence.md | 4120 |
-| 09_dabney_the_undamped_thing.md | 3559 |
-| 09_sodoku_the_true_nature.md | 3427 |
-| 10_mujin_the_name_of_your_killer.md | 3357 |
-| 10_wotr_what_the_ground_was_owed.md | 8420 |
-| 11_mujin_second_law_held_open.md | 3720 |
-| 12_mujin_open_crucible.md | 3602 |
-| 13_darius_the_holiest_of_holy.md | 3516 |
-| 14_darius_two_men_who_would_not_take_the_seat.md | 3563 |
-| 15_darius_kill_me_first.md | 3559 |
-| 16_darius_let_nothing_be_sealed.md | 3445 |
-| 17_darius_ignis.md | 3532 |
-| 18_darius_the_hand_of_the_judger.md | 3503 |
-| 19_aurelian_five_numbers.md | 3527 |
-| 20_aurelian_no_signature.md | 3560 |
-| 21_darius_the_fist_of_god.md | 3684 |
-| 22_darius_punta.md | 3543 |
-| 23_darius_the_fist_of_totality.md | 3676 |
-| Cozbi_Antithesis_Split_Fight.md | 1236 |
-| Cozbi_Ashwell_Mysticism_Demo.md | 2507 |
-| Cozbi_Construct_Combat_Scene.md | 1165 |
-| Cozbi_Defensive_Response_to_Dova.md | 576 |
-| Cozbi_Dragon_Binding_and_Ashuras_Call.md | 2319 |
-| Cozbi_Merged_Form_Rescind_Explanation.md | 1168 |
-| Cozbi_Pneuma_Unravel_Strike.md | 1136 |
-| Cozbi_Rengai_Dhaerin_Confrontation.md | 1902 |
-| Cozbi_Root_Severance_and_Rashani_Threshold.md | 2534 |
-| Cozbi_Sealed_Retreat.md | 663 |
-| Cozbi_True_Power_Antithesis.md | 794 |
-| Cozbi_vs_Rengai_Dhaerin_Combat.md | 1457 |
-| Dhaerin_Final_Rite_Sacrament_Oblation_Rescind.md | 1171 |
-| Dhaerin_Magnum_Opus_Recursive_Array.md | 1085 |
-| Kami-No-Kobushi.md | 3568 |
-| Naiser_Death_Cozbi_Genocide_Niran_Fall.md | 2035 |
-| Niran_Awakening_Haruki_Reunion.md | 1149 |
-| Niran_Mira_Awakening.md | 1190 |
-| Niran_Mira_Return_to_the_Enclave.md | 4532 |
-| Niran_Reply_to_Haruki.md | 615 |
-| Nisuke_Titan_Dominion_Strike.md | 1033 |
-| Rengai_Confrontation_and_Nirans_Dream.md | 1119 |
-| Rengai_Farewell_and_Dhaerin.md | 1435 |
-| Rui_Trap_Deaths_Ray.md | 669 |
-| Shichi_Karasu_Mission_Awakening.md | 1130 |
-| Six_Crows_Dragon_Fight_Extended.md | 1783 |
-| Six_Crows_vs_Black_Dragon.md | 1129 |
-| THE_KINGDOM_OF_KHARVEN_buri.md | 9619 |
-| THE_KINGDOM_OF_KHARVEN_corrected.md | 9643 |
-| THE_YUKARI_BLOODLINE.md | 6000 |
-| The_Path_of_Sorrow.md | 38045 |
-| WOTR_AI_Writing_Tells_to_Avoid.md | 1044 |
-| WOTR_Vaeloris_Sequence.md | 42130 |
-| YOKO_MISHIRO.md | 4904 |
-| a_name_held_in_common.md | 3909 |
-| aurelian_word_under_the_hammer.md | 2556 |
-| balance_lesson.md | 2605 |
-| commencement_of_the_curia_kujo_arc.md | 172666 |
-| direction_is_not_intention.md | 3394 |
-| in_form.md | 3112 |
-| kaalabad_star_crusher.md | 2523 |
-| kaalabad_the_petition.md | 2613 |
-| nine_hours_of_daylight.md | 3209 |
-| niran_malformation.md | 2637 |
-| no_entry_for_that.md | 4355 |
-| on_foot.md | 3204 |
-| renard_the_left_of_the_door.md | 4026 |
-| sesk_the_report.md | 2574 |
-| seven_labors.md | 2994 |
-| sodoku_fourteenth_bow_table.md | 2700 |
-| sodoku_gate_reunion_lambert.md | 2841 |
-| sodoku_the_count_supply_report.md | 2731 |
-| sodoku_true_religion_alabaster.md | 2674 |
-| spent_not_dead.md | 3249 |
-| temur_true_religion_alabaster.md | 2676 |
-| the_blackmatch.md | 3463 |
-| the_brink.md | 3624 |
-| the_circus.md | 3549 |
-| the_draught.md | 3596 |
-| the_empty_place.md | 3736 |
-| the_field_where_they_picked_them.md | 3720 |
-| the_full_match.md | 3548 |
-| the_great_summoners_morning.md | 2455 |
-| the_hand_of_the_empress.md | 3719 |
-| the_hatch.md | 3188 |
-| the_holy_inquisition_part_1_the_kindling.md | 3323 |
-| the_holy_inquisition_part_1b_the_empty_chair.md | 2919 |
-| the_house_of_abscene_kujo_arc.md | 33716 |
-| the_inhale_register.md | 3890 |
-| the_nights_watch.md | 8032 |
-| the_overpressure.md | 3173 |
-| the_revolution_of_the_inner_world.md | 16478 |
-| the_slow_match.md | 3454 |
-| the_southern_passing.md | 3750 |
-| the_terms.md | 3180 |
-| the_true_king_of_the_north_part_1.md | 8229 |
-| the_true_king_of_the_north_part_10.md | 7624 |
-| the_true_king_of_the_north_part_11.md | 8106 |
-| the_true_king_of_the_north_part_12.md | 8104 |
-| the_true_king_of_the_north_part_13.md | 8186 |
-| the_true_king_of_the_north_part_14.md | 8183 |
-| the_true_king_of_the_north_part_15.md | 8192 |
-| the_true_king_of_the_north_part_16.md | 8077 |
-| the_true_king_of_the_north_part_17.md | 8253 |
-| the_true_king_of_the_north_part_18.md | 7497 |
-| the_true_king_of_the_north_part_19.md | 8155 |
-| the_true_king_of_the_north_part_2.md | 7846 |
-| the_true_king_of_the_north_part_20.md | 8202 |
-| the_true_king_of_the_north_part_21.md | 9571 |
-| the_true_king_of_the_north_part_22.md | 4244 |
-| the_true_king_of_the_north_part_3.md | 7118 |
-| the_true_king_of_the_north_part_4.md | 7371 |
-| the_true_king_of_the_north_part_5.md | 6407 |
-| the_true_king_of_the_north_part_6.md | 8731 |
-| the_true_king_of_the_north_part_7.md | 8591 |
-| the_true_king_of_the_north_part_8.md | 6111 |
-| the_true_king_of_the_north_part_9.md | 8090 |
-| the_turtles_boy.md | 6865 |
-| the_vey_elarin.md | 3561 |
-| the_war_in_the_north_i_the_kharven_seat.md | 3949 |
-| the_war_in_the_north_ii_the_road_two_days_south.md | 2013 |
-| the_war_in_the_north_iii_utopia.md | 721 |
-| the_war_in_the_north_iv_the_blank_seal.md | 2203 |
-| the_war_in_the_north_v_the_shieldwarden.md | 2528 |
-| the_years_that_were_not_war.md | 4535 |
-| verinus_sword_and_scale.md | 2524 |
-| verinus_weight_of_an_infant.md | 2623 |
-| verinus_what_a_thing_weighs.md | 2580 |
-| what_he_spent.md | 3456 |
-| what_motion_cannot_reach.md | 3655 |
-| what_the_plate_would_not_take.md | 3535 |
-| what_we_did_not_do.md | 3732 |
-| wotr_the_warrior_nurse.md | 3055 |
-| wotr_the_weight_of_a_courier.md | 4377 |
-| xanelor_after_the_crash.md | 811 |
-| xanelor_juggernauts_fist.md | 1811 |
-| xanelor_rikudoku_and_the_address.md | 809 |
-| xanelor_seven_days.md | 1221 |
-| xanelor_the_arrow.md | 1894 |
-| xanelor_the_bullet_train.md | 2910 |
-| xanelor_the_challenge.md | 1152 |
-| xanelor_the_constellations.md | 2543 |
-| xanelor_the_dorms.md | 1230 |
-| xanelor_the_introductions.md | 1023 |
-| xanelor_the_morning_of_the_first_bell.md | 1778 |
+Law edition is the style law a scene was written under (R70-137): "pre-R70" is the law before 2026-10-03, precedent for events and not for prose; scenes archived from 2026-10-03 carry "R70".
+
+| File | Words | Law edition |
+|---|---|---|
+| 00_SUPERSEDED_wrong_names.md | 4230 | pre-R70 |
+| 01_the_vacancy_korvaeth_arc.md | 11091 | pre-R70 |
+| 01_verinus_fire_of_the_undeserving.md | 5388 | pre-R70 |
+| 01_wotr_muster_breach_road_north.md | 4474 | pre-R70 |
+| 02_verinus_testament_of_the_sixty_fifth.md | 3976 | pre-R70 |
+| 02_wren_bulwark.md | 3235 | pre-R70 |
+| 03_verinus_wall_between_the_safeguarded.md | 3706 | pre-R70 |
+| 03_wren_three_deliveries.md | 3534 | pre-R70 |
+| 04_sodoku_what_the_sky_does_not_ask.md | 3112 | pre-R70 |
+| 04_verinus_the_hand_and_the_print.md | 3439 | pre-R70 |
+| 05_aurelian_primate_under_the_wrong_stars.md | 3346 | pre-R70 |
+| 05_sodoku_the_fixed_end.md | 3498 | pre-R70 |
+| 06_aurelian_what_the_lamberts_are_for.md | 3291 | pre-R70 |
+| 06_sodoku_the_shallow_seen_unburied.md | 3374 | pre-R70 |
+| 07_charles_the_imperceptible_district.md | 3554 | pre-R70 |
+| 07_sodoku_the_howling_hawk.md | 3508 | pre-R70 |
+| 08_charles_what_a_hand_is_for.md | 3581 | pre-R70 |
+| 08_sodoku_recalescence.md | 4120 | pre-R70 |
+| 09_dabney_the_undamped_thing.md | 3559 | pre-R70 |
+| 09_sodoku_the_true_nature.md | 3427 | pre-R70 |
+| 10_mujin_the_name_of_your_killer.md | 3357 | pre-R70 |
+| 10_wotr_what_the_ground_was_owed.md | 8420 | pre-R70 |
+| 11_mujin_second_law_held_open.md | 3720 | pre-R70 |
+| 12_mujin_open_crucible.md | 3602 | pre-R70 |
+| 13_darius_the_holiest_of_holy.md | 3516 | pre-R70 |
+| 14_darius_two_men_who_would_not_take_the_seat.md | 3563 | pre-R70 |
+| 15_darius_kill_me_first.md | 3559 | pre-R70 |
+| 16_darius_let_nothing_be_sealed.md | 3445 | pre-R70 |
+| 17_darius_ignis.md | 3532 | pre-R70 |
+| 18_darius_the_hand_of_the_judger.md | 3503 | pre-R70 |
+| 19_aurelian_five_numbers.md | 3527 | pre-R70 |
+| 20_aurelian_no_signature.md | 3560 | pre-R70 |
+| 21_darius_the_fist_of_god.md | 3684 | pre-R70 |
+| 22_darius_punta.md | 3543 | pre-R70 |
+| 23_darius_the_fist_of_totality.md | 3676 | pre-R70 |
+| Cozbi_Antithesis_Split_Fight.md | 1236 | pre-R70 |
+| Cozbi_Ashwell_Mysticism_Demo.md | 2507 | pre-R70 |
+| Cozbi_Construct_Combat_Scene.md | 1165 | pre-R70 |
+| Cozbi_Defensive_Response_to_Dova.md | 576 | pre-R70 |
+| Cozbi_Dragon_Binding_and_Ashuras_Call.md | 2319 | pre-R70 |
+| Cozbi_Merged_Form_Rescind_Explanation.md | 1168 | pre-R70 |
+| Cozbi_Pneuma_Unravel_Strike.md | 1136 | pre-R70 |
+| Cozbi_Rengai_Dhaerin_Confrontation.md | 1902 | pre-R70 |
+| Cozbi_Root_Severance_and_Rashani_Threshold.md | 2534 | pre-R70 |
+| Cozbi_Sealed_Retreat.md | 663 | pre-R70 |
+| Cozbi_True_Power_Antithesis.md | 794 | pre-R70 |
+| Cozbi_vs_Rengai_Dhaerin_Combat.md | 1457 | pre-R70 |
+| Dhaerin_Final_Rite_Sacrament_Oblation_Rescind.md | 1171 | pre-R70 |
+| Dhaerin_Magnum_Opus_Recursive_Array.md | 1085 | pre-R70 |
+| Kami-No-Kobushi.md | 3568 | pre-R70 |
+| Naiser_Death_Cozbi_Genocide_Niran_Fall.md | 2035 | pre-R70 |
+| Niran_Awakening_Haruki_Reunion.md | 1149 | pre-R70 |
+| Niran_Mira_Awakening.md | 1190 | pre-R70 |
+| Niran_Mira_Return_to_the_Enclave.md | 4532 | pre-R70 |
+| Niran_Reply_to_Haruki.md | 615 | pre-R70 |
+| Nisuke_Titan_Dominion_Strike.md | 1033 | pre-R70 |
+| Rengai_Confrontation_and_Nirans_Dream.md | 1119 | pre-R70 |
+| Rengai_Farewell_and_Dhaerin.md | 1435 | pre-R70 |
+| Rui_Trap_Deaths_Ray.md | 669 | pre-R70 |
+| Shichi_Karasu_Mission_Awakening.md | 1130 | pre-R70 |
+| Six_Crows_Dragon_Fight_Extended.md | 1783 | pre-R70 |
+| Six_Crows_vs_Black_Dragon.md | 1129 | pre-R70 |
+| THE_KINGDOM_OF_KHARVEN_buri.md | 9619 | pre-R70 |
+| THE_KINGDOM_OF_KHARVEN_corrected.md | 9643 | pre-R70 |
+| THE_YUKARI_BLOODLINE.md | 6000 | pre-R70 |
+| The_Path_of_Sorrow.md | 38045 | pre-R70 |
+| WOTR_AI_Writing_Tells_to_Avoid.md | 1044 | pre-R70 |
+| WOTR_Vaeloris_Sequence.md | 42130 | pre-R70 |
+| YOKO_MISHIRO.md | 4904 | pre-R70 |
+| a_name_held_in_common.md | 3909 | pre-R70 |
+| aurelian_word_under_the_hammer.md | 2556 | pre-R70 |
+| balance_lesson.md | 2605 | pre-R70 |
+| commencement_of_the_curia_kujo_arc.md | 172666 | pre-R70 |
+| direction_is_not_intention.md | 3394 | pre-R70 |
+| in_form.md | 3112 | pre-R70 |
+| kaalabad_star_crusher.md | 2523 | pre-R70 |
+| kaalabad_the_petition.md | 2613 | pre-R70 |
+| nine_hours_of_daylight.md | 3209 | pre-R70 |
+| niran_malformation.md | 2637 | pre-R70 |
+| no_entry_for_that.md | 4355 | pre-R70 |
+| on_foot.md | 3204 | pre-R70 |
+| renard_the_left_of_the_door.md | 4026 | pre-R70 |
+| sesk_the_report.md | 2574 | pre-R70 |
+| seven_labors.md | 2994 | pre-R70 |
+| sodoku_fourteenth_bow_table.md | 2700 | pre-R70 |
+| sodoku_gate_reunion_lambert.md | 2841 | pre-R70 |
+| sodoku_the_count_supply_report.md | 2731 | pre-R70 |
+| sodoku_true_religion_alabaster.md | 2674 | pre-R70 |
+| spent_not_dead.md | 3249 | pre-R70 |
+| temur_true_religion_alabaster.md | 2676 | pre-R70 |
+| the_blackmatch.md | 3463 | pre-R70 |
+| the_brink.md | 3624 | pre-R70 |
+| the_circus.md | 3549 | pre-R70 |
+| the_draught.md | 3596 | pre-R70 |
+| the_empty_place.md | 3736 | pre-R70 |
+| the_field_where_they_picked_them.md | 3720 | pre-R70 |
+| the_full_match.md | 3548 | pre-R70 |
+| the_great_summoners_morning.md | 2455 | pre-R70 |
+| the_hand_of_the_empress.md | 3719 | pre-R70 |
+| the_hatch.md | 3188 | pre-R70 |
+| the_holy_inquisition_part_1_the_kindling.md | 3323 | pre-R70 |
+| the_holy_inquisition_part_1b_the_empty_chair.md | 2919 | pre-R70 |
+| the_house_of_abscene_kujo_arc.md | 33716 | pre-R70 |
+| the_inhale_register.md | 3890 | pre-R70 |
+| the_nights_watch.md | 8032 | pre-R70 |
+| the_overpressure.md | 3173 | pre-R70 |
+| the_revolution_of_the_inner_world.md | 16478 | pre-R70 |
+| the_slow_match.md | 3454 | pre-R70 |
+| the_southern_passing.md | 3750 | pre-R70 |
+| the_terms.md | 3180 | pre-R70 |
+| the_true_king_of_the_north_part_1.md | 8229 | pre-R70 |
+| the_true_king_of_the_north_part_10.md | 7624 | pre-R70 |
+| the_true_king_of_the_north_part_11.md | 8106 | pre-R70 |
+| the_true_king_of_the_north_part_12.md | 8104 | pre-R70 |
+| the_true_king_of_the_north_part_13.md | 8186 | pre-R70 |
+| the_true_king_of_the_north_part_14.md | 8183 | pre-R70 |
+| the_true_king_of_the_north_part_15.md | 8192 | pre-R70 |
+| the_true_king_of_the_north_part_16.md | 8077 | pre-R70 |
+| the_true_king_of_the_north_part_17.md | 8253 | pre-R70 |
+| the_true_king_of_the_north_part_18.md | 7497 | pre-R70 |
+| the_true_king_of_the_north_part_19.md | 8155 | pre-R70 |
+| the_true_king_of_the_north_part_2.md | 7846 | pre-R70 |
+| the_true_king_of_the_north_part_20.md | 8202 | pre-R70 |
+| the_true_king_of_the_north_part_21.md | 9571 | pre-R70 |
+| the_true_king_of_the_north_part_22.md | 4244 | pre-R70 |
+| the_true_king_of_the_north_part_3.md | 7118 | pre-R70 |
+| the_true_king_of_the_north_part_4.md | 7371 | pre-R70 |
+| the_true_king_of_the_north_part_5.md | 6407 | pre-R70 |
+| the_true_king_of_the_north_part_6.md | 8731 | pre-R70 |
+| the_true_king_of_the_north_part_7.md | 8591 | pre-R70 |
+| the_true_king_of_the_north_part_8.md | 6111 | pre-R70 |
+| the_true_king_of_the_north_part_9.md | 8090 | pre-R70 |
+| the_turtles_boy.md | 6865 | pre-R70 |
+| the_vey_elarin.md | 3561 | pre-R70 |
+| the_war_in_the_north_i_the_kharven_seat.md | 3949 | pre-R70 |
+| the_war_in_the_north_ii_the_road_two_days_south.md | 2013 | pre-R70 |
+| the_war_in_the_north_iii_utopia.md | 721 | pre-R70 |
+| the_war_in_the_north_iv_the_blank_seal.md | 2203 | pre-R70 |
+| the_war_in_the_north_v_the_shieldwarden.md | 2528 | pre-R70 |
+| the_years_that_were_not_war.md | 4535 | pre-R70 |
+| verinus_sword_and_scale.md | 2524 | pre-R70 |
+| verinus_weight_of_an_infant.md | 2623 | pre-R70 |
+| verinus_what_a_thing_weighs.md | 2580 | pre-R70 |
+| what_he_spent.md | 3456 | pre-R70 |
+| what_motion_cannot_reach.md | 3655 | pre-R70 |
+| what_the_plate_would_not_take.md | 3535 | pre-R70 |
+| what_we_did_not_do.md | 3732 | pre-R70 |
+| wotr_the_warrior_nurse.md | 3055 | pre-R70 |
+| wotr_the_weight_of_a_courier.md | 4377 | pre-R70 |
+| xanelor_after_the_crash.md | 811 | pre-R70 |
+| xanelor_juggernauts_fist.md | 1811 | pre-R70 |
+| xanelor_rikudoku_and_the_address.md | 809 | pre-R70 |
+| xanelor_seven_days.md | 1221 | pre-R70 |
+| xanelor_the_arrow.md | 1894 | pre-R70 |
+| xanelor_the_bullet_train.md | 2910 | pre-R70 |
+| xanelor_the_challenge.md | 1152 | pre-R70 |
+| xanelor_the_constellations.md | 2543 | pre-R70 |
+| xanelor_the_dorms.md | 1230 | pre-R70 |
+| xanelor_the_introductions.md | 1023 | pre-R70 |
+| xanelor_the_morning_of_the_first_bell.md | 1778 | pre-R70 |

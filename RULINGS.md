@@ -2863,3 +2863,9 @@ Isaac's direction, in his words: "Anything else do you think we should do a ques
 45. ME3 (Which cards first): The Kharven room first. Lambert, Bram, Brida, Tabitha Hallenfeld and the rest of the room at Kharven-Seat get their cards first, then the other live threads, then the archive by appearances.
 46. ME5 (Old entries that fail the law): Each card an agent ruling. As A, and each card's changed lines go through log_ruling as one agent ruling that quotes them and names its grounds, so you read them in CONTINUE.md and may overturn any.
 47. ME4 (Proof and the order of work): Law and tools, then test. Log the law and rebuild the converter and skeleton; make the three test cards through them; play a scene where one decides a fight; amend; then sweep and rebuilds.
+
+## 2026-10-05 — R75-17-TRAIT_ENTRY_CARRIES
+
+Isaac's ruling: a Trait is written as one simple one-word name plus "(Primary Trait)" or its Reflection, then ONE plain paragraph. The founding sentence, rigidity line, offices held (Bias, Permission, Nucleation), Lattice property, tell, counter and cost are all still required, but they are woven into that effect paragraph as prose, never as separate field lines, tables or headers. Model: his Ferment entry for Malphas. Also amends R47-2-FIELD_FORMAT for Traits.
+
+Context: 2026-10-05, writing the Primary Trait CLENCH: "all that other stuff should be tied into the effect" after finding the field layout hard to read.

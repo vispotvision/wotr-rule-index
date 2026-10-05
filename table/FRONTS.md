@@ -125,7 +125,7 @@
   - [ ] 4. Someone says the two words to Ilthára's face.
   - [ ] 5. Resolves: the challenge is answered, and thirty years of nobody saying it are explained by what happens next.
 
-## Kwon Mu-jin / Aetherion Academy
+## Kwon Mu-jin / Aetherion Academy · story date 715-2-4
 
 **The Class Below** ●●○○○ 2/5 · open
 - Pace: a tick every 2 story days, 0 spent

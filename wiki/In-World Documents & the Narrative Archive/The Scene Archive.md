@@ -4,7 +4,7 @@ notion_id: "3b258200-eb22-8132-a010-ec6fd17e718b"
 notion_url: "https://app.notion.com/p/The-Scene-Archive-3b258200eb228132a010ec6fd17e718b"
 section: "In-World Documents & the Narrative Archive"
 tags: []
-last_edited: "2026-10-04T05:26:00.000Z"
+last_edited: "2026-10-05T12:22:00.000Z"
 verification: null
 ---
 
@@ -249,3 +249,5 @@ verification: null
 - [[Mu-jin: The Old Colleague]]
 - [[Mu-jin: The Card]]
 - [[The Drawing-Off]]
+- [[Mu-jin: The Walk Back]]
+- [[Mu-jin: The Tenth Bell]]

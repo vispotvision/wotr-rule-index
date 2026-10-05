@@ -4,7 +4,7 @@ notion_id: "3b758200-eb22-81cb-900e-e420731e32cc"
 notion_url: "https://app.notion.com/p/Borin-Ironheart-The-Master-of-the-Soul-Forge-3b758200eb2281cb900ee420731e32cc"
 section: "Volume I — Character Cards"
 tags: []
-last_edited: "2026-10-04T05:29:00.000Z"
+last_edited: "2026-10-04T21:44:00.000Z"
 verification: null
 ---
 

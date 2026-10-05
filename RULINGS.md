@@ -2869,3 +2869,9 @@ Isaac's direction, in his words: "Anything else do you think we should do a ques
 Isaac's ruling: a Trait is written as one simple one-word name plus "(Primary Trait)" or its Reflection, then ONE plain paragraph. The founding sentence, rigidity line, offices held (Bias, Permission, Nucleation), Lattice property, tell, counter and cost are all still required, but they are woven into that effect paragraph as prose, never as separate field lines, tables or headers. Model: his Ferment entry for Malphas. Also amends R47-2-FIELD_FORMAT for Traits.
 
 Context: 2026-10-05, writing the Primary Trait CLENCH: "all that other stuff should be tied into the effect" after finding the field layout hard to read.
+
+## 2026-10-05 — R75-17-TRAIT_ENTRY_CARRIES
+
+Isaac's ruling (ability-format questionnaire, replaces the earlier 2026-10-05 ruling on this row): EVERY ability (Traits, techniques, signatures, school arts, bloodline faculties) is written as one simple name in caps, with a short gloss after it for characters with a naming register (e.g. KUSARI · the Rot), then its kind in brackets, then ONE paragraph of any length. The paragraph carries full LitRPG figures inline (EU, % of reserve, Grade, m/s, joules; estimates marked (est.)). Belief/founding sentence is left implied, not quoted. Cost, limit and counter are always in the paragraph; offices, Lattice property and nucleation only where they read naturally. The paragraph IS the Notion page and the card entry: nothing else on it. Old field-format entries are converted when next edited or used. Amends R75-17, R47-2-FIELD_FORMAT, R17-5-TRAIT_SCOPE (Lattice property now optional on the page) and the technique-entry format in the Ability Technique Design Guide.
+
+Context: 2026-10-05 ability-format questionnaire, answers at imports/drafts/ability-format-questionnaire/answers.json. Model entry: his FERMENT (Primary Trait) for Malphas.

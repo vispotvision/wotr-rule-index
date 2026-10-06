@@ -187,3 +187,11 @@ the archive is complete, not so they can be ordered.
 | `the_great_summoners_morning.md` | an Academy morning ('After the morning bell had rung twice'), but nothing fixes it against the Class X day, and its own stated ages (Lily older at 14, the twins' arrangement) are struck by the ruling recorded i |
 | `the_nights_watch.md` | carries its own internal dates (the ninth, the tenth, the eleventh, filed 14th) but they are Register and Bureau filing dates with no bridge to any other thread. The one outward link is a forward mention in xan |
 | `the_drawing_off.md` | the Drawing-Off week in the cask-hall of Varrak-Thur, the first scene under the R70 style law. The text gives no year; Borin's burn from eleven days at the anvil for 'a customer upstairs who had not yet paid' echoes the Ledger's unpriced forge-work debt without naming him, so it is not placed. |
+| `nirans_arrival_aetherion_academy.md` | the Night Register investigation at Aetherion, part one: Niran Yukari reaches the Grand Mage's tower ('Late morning'). The text gives no day against the Class X week; the eight parts run consecutively and in this order. |
+| `the_knots_aetherion_academy.md` | the same investigation, continuous: Niran answers the Grand Mage in his office. |
+| `the_undercroft_aetherion_academy.md` | the same investigation, 'The same hour': Mu-jin and Malphas in the old cold room under the south range. |
+| `the_fight_below_aetherion_academy.md` | the same investigation: Niran in the tower hears the undercroft fight begin. |
+| `the_count_aetherion_academy.md` | the same investigation, 'Continuous': Raga, the Black Star and the bolt. |
+| `aqua_fortis_aetherion_academy.md` | the same investigation, 'Continuous': aqua fortis and the naming trap. |
+| `the_cooking_aetherion_academy.md` | the same investigation, 'Continuous': Malphas takes Mu-jin apart; Velder is saved. |
+| `open_crucible_aetherion_academy.md` | the same investigation, 'Continuous': Open Crucible, the carriers at rest, Nihiloth begins. |

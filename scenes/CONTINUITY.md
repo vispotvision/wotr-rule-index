@@ -219,6 +219,19 @@ The tightest run in the archive: eleven files covering one morning at Class X, e
 - `xanelor_juggernauts_fist.md`
 - `xanelor_the_arrow.md`
 
+### The Night Register investigation at Aetherion  (8 scenes)
+
+One continuous morning at the Academy, archived 2026-10-05: Niran Yukari brings the Crow's Seat to the Grand Mage while, under the south range, Mu-jin finds Malphas with three carriers. The two halves meet at the chapel bell, which rings unstruck in both. Nothing fixes the run against the Class X week, so it is listed here and not placed.
+
+- `nirans_arrival_aetherion_academy.md`
+- `the_knots_aetherion_academy.md`
+- `the_undercroft_aetherion_academy.md`
+- `the_fight_below_aetherion_academy.md`
+- `the_count_aetherion_academy.md`
+- `aqua_fortis_aetherion_academy.md`
+- `the_cooking_aetherion_academy.md`
+- `open_crucible_aetherion_academy.md`
+
 ## Every scene, in placed order
 
 In two tables, cut at the muster. The wiki takes at most 100 rows in one table and there
@@ -1763,3 +1776,23 @@ Each line is a scene and the earlier events it explicitly reaches back to.
 - Borin's eleven days at the anvil for a customer upstairs who had not yet paid, the Ledger's unpriced forge-work debt, unnamed in the text
 - the one Borin does not name in the Forge: "He did not say whose hands he had last said that over" (Thurgan Ashmantle, his card)
 - the Cask-Oath and the pitch that will not cure outside its hold (the Dawi Standing Inventory)
+
+**`nirans_arrival_aetherion_academy.md`**
+- Senri's stone and the dead laid facing east (the Yukari Inventory)
+- Niran's body rushed back through the Veil, and the seven years without one
+- Dhaerin's death in the rite that sealed Cozbi Mahuo; Rengai still not home
+
+**`the_undercroft_aetherion_academy.md`**
+- the Averted Regard chapter of the Necrocursica and its margin, 'Nobody read it back'
+- Mu-jin's gloss on the Aphorism of Mortalis, cited in the Necrocursica's fourth chapter
+
+**`the_count_aetherion_academy.md`**
+- Raga's left fore rebuilt from a mill shaft and a cartwheel tyre after the orchard at Sum-gol
+- Raga's law: he strikes only what is named aloud, and never the same target twice
+
+**`aqua_fortis_aetherion_academy.md`**
+- the Division's reading floor, where Malphas sat beside Mu-jin for years (Commune's leak)
+
+**`open_crucible_aetherion_academy.md`**
+- Geuk-hon's room in Hon-guk, the table and two cups, 'put down the arm and count what was left'
+- Open Crucible first opened on the Ashgate road, its walls the bones of the man who opens it

@@ -1,6 +1,6 @@
 # WOTR Scene Archive
 
-161 files, 890764 words.
+169 files, 911562 words.
 
 Law edition is the style law a scene was written under (R70-137): "pre-R70" is the law before 2026-10-03, precedent for events and not for prose; scenes archived from 2026-10-03 carry "R70".
 
@@ -77,6 +77,7 @@ Law edition is the style law a scene was written under (R70-137): "pre-R70" is t
 | WOTR_Vaeloris_Sequence.md | 42130 | pre-R70 |
 | YOKO_MISHIRO.md | 4904 | pre-R70 |
 | a_name_held_in_common.md | 3909 | pre-R70 |
+| aqua_fortis_aetherion_academy.md | 4116 | R70 |
 | aurelian_word_under_the_hammer.md | 2556 | pre-R70 |
 | balance_lesson.md | 2605 | pre-R70 |
 | commencement_of_the_curia_kujo_arc.md | 172666 | pre-R70 |
@@ -86,8 +87,10 @@ Law edition is the style law a scene was written under (R70-137): "pre-R70" is t
 | kaalabad_the_petition.md | 2613 | pre-R70 |
 | nine_hours_of_daylight.md | 3209 | pre-R70 |
 | niran_malformation.md | 2637 | pre-R70 |
+| nirans_arrival_aetherion_academy.md | 2107 | R70 |
 | no_entry_for_that.md | 4355 | pre-R70 |
 | on_foot.md | 3204 | pre-R70 |
+| open_crucible_aetherion_academy.md | 2733 | R70 |
 | renard_the_left_of_the_door.md | 4026 | pre-R70 |
 | sesk_the_report.md | 2574 | pre-R70 |
 | seven_labors.md | 2994 | pre-R70 |
@@ -100,9 +103,12 @@ Law edition is the style law a scene was written under (R70-137): "pre-R70" is t
 | the_blackmatch.md | 3463 | pre-R70 |
 | the_brink.md | 3624 | pre-R70 |
 | the_circus.md | 3549 | pre-R70 |
+| the_cooking_aetherion_academy.md | 2977 | R70 |
+| the_count_aetherion_academy.md | 3834 | R70 |
 | the_draught.md | 3596 | pre-R70 |
 | the_empty_place.md | 3736 | pre-R70 |
 | the_field_where_they_picked_them.md | 3720 | pre-R70 |
+| the_fight_below_aetherion_academy.md | 1360 | R70 |
 | the_full_match.md | 3548 | pre-R70 |
 | the_great_summoners_morning.md | 2455 | pre-R70 |
 | the_hand_of_the_empress.md | 3719 | pre-R70 |
@@ -111,6 +117,7 @@ Law edition is the style law a scene was written under (R70-137): "pre-R70" is t
 | the_holy_inquisition_part_1b_the_empty_chair.md | 2919 | pre-R70 |
 | the_house_of_abscene_kujo_arc.md | 33716 | pre-R70 |
 | the_inhale_register.md | 3890 | pre-R70 |
+| the_knots_aetherion_academy.md | 1570 | R70 |
 | the_nights_watch.md | 8032 | pre-R70 |
 | the_overpressure.md | 3173 | pre-R70 |
 | the_revolution_of_the_inner_world.md | 16478 | pre-R70 |
@@ -140,6 +147,7 @@ Law edition is the style law a scene was written under (R70-137): "pre-R70" is t
 | the_true_king_of_the_north_part_8.md | 6111 | pre-R70 |
 | the_true_king_of_the_north_part_9.md | 8090 | pre-R70 |
 | the_turtles_boy.md | 6865 | pre-R70 |
+| the_undercroft_aetherion_academy.md | 2101 | R70 |
 | the_vey_elarin.md | 3561 | pre-R70 |
 | the_war_in_the_north_i_the_kharven_seat.md | 3949 | pre-R70 |
 | the_war_in_the_north_ii_the_road_two_days_south.md | 2013 | pre-R70 |

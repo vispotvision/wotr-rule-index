@@ -1009,5 +1009,10 @@
     "page_id": "3f158200-eb22-8179-9b13-c89e9ad06ddf",
     "title": "The Fight Below — Aetherion Academy",
     "hash": "09fab540bb32e2dc"
+  },
+  "scenes/the_count_aetherion_academy.md": {
+    "page_id": "3f158200-eb22-8171-aec6-f9b9a75789a8",
+    "title": "The Count — Aetherion Academy",
+    "hash": "043975acbda64eb6"
   }
 }

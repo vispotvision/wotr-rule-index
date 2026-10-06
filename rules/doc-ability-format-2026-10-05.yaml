@@ -1,0 +1,164 @@
+# Standing rulings, originated: no source document. Isaac ruled directly on 2026-10-05 in
+# Claude Code chat (the ability-format questionnaire, answers at
+# imports/drafts/ability-format-questionnaire/answers.json). Each verbatim is an exact substring of
+# the second RULINGS.md entry headed 2026-10-05 — R75-17-TRAIT_ENTRY_CARRIES, which replaces the
+# first entry under that heading. R76 is the id numeral bucket; R47-2-FIELD_FORMAT and
+# R75-17-TRAIT_ENTRY_CARRIES are superseded on the ruling's own words ("The paragraph IS the Notion
+# page and the card entry: nothing else on it"; "Old field-format entries are converted").
+# Standalone ruling pattern: empty source.file.
+pack: Ability Format 2026-10-05
+pack_number: null
+source_file: ''
+ratified: 'Isaac, 2026-10-05, Claude Code chat: ruled directly (the ability-format questionnaire)'
+rules:
+- id: R76-1-ONE_NAME_ONE_PARAGRAPH
+  pack: Ability Format 2026-10-05
+  pack_number: null
+  section: Q1, Q2, Q7
+  title: Every ability is one name and one paragraph
+  status: live
+  kind: mandate
+  summary: Write every ability, Trait, technique, signature, school art and bloodline faculty alike, as
+    one simple name in capitals (with a short gloss after it where the character has a naming register),
+    its kind in brackets, then a single paragraph of whatever length it needs.
+  verbatim: EVERY ability (Traits, techniques, signatures, school arts, bloodline faculties) is written
+    as one simple name in caps, with a short gloss after it for characters with a naming register (e.g.
+    KUSARI · the Rot), then its kind in brackets, then ONE paragraph of any length.
+  amends:
+  - guide: WOTR_Ability_Technique_Design_Guide.md
+    locus: entry format, Traits and techniques
+    operation: replaces
+  - guide: character sheet template
+    locus: Traits and Techniques sections
+    operation: replaces
+  supersedes: []
+  applies_to:
+  - magic-design
+  - codex
+  - character-sheet
+  - documents
+  verification: []
+  ratified: 'Isaac, 2026-10-05, Claude Code chat: ruled directly (the ability-format questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: 'Q1 every ability (recommended), Q2 as long as it needs (no cap), Q7 one word plus a gloss by
+    culture. Model entry: Isaac''s FERMENT (Primary Trait) for Malphas. Naming by character stands (Malphas
+    plain English, Mu-jin Latin with gloss); R50 naming law stands. R75-1-WHERE_TECHNIQUE_WRITTEN stands
+    on where an entry lives and how it is priced; only its field-format clause is replaced.'
+- id: R76-2-FIGURES_INLINE
+  pack: Ability Format 2026-10-05
+  pack_number: null
+  section: Q3
+  title: The paragraph carries full LitRPG figures
+  status: live
+  kind: mandate
+  summary: Put the full figures inline in the paragraph, EU, share of reserve, Grade, speed and energy,
+    with every estimate marked (est.).
+  verbatim: The paragraph carries full LitRPG figures inline (EU, % of reserve, Grade, m/s, joules; estimates
+    marked (est.)).
+  amends:
+  - guide: WOTR_Ability_Technique_Design_Guide.md
+    locus: entry format, numbers
+    operation: replaces
+  supersedes: []
+  applies_to:
+  - magic-design
+  - stats
+  - character-sheet
+  verification: []
+  ratified: 'Isaac, 2026-10-05, Claude Code chat: ruled directly (the ability-format questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: Q3. R12-5-NEVER_INVENT_NUMBER and R75-31's (est.) mark stand; a figure with a source is taken
+    from it. R47-4-LEDGER_COSTS stands for how costs are priced.
+- id: R76-3-WHAT_PARAGRAPH_HOLDS
+  pack: Ability Format 2026-10-05
+  pack_number: null
+  section: Q4, Q5
+  title: Cost, limit and counter always; the belief implied; the rest where it reads
+  status: live
+  kind: mandate
+  summary: Every paragraph states the ability's cost, limit and counter; the bearer's founding belief
+    is left implied rather than quoted, and offices, Lattice property and nucleation appear only where
+    they read naturally.
+  verbatim: Belief/founding sentence is left implied, not quoted. Cost, limit and counter are always in
+    the paragraph; offices, Lattice property and nucleation only where they read naturally.
+  amends:
+  - guide: WOTR_Ability_Technique_Design_Guide.md
+    locus: §5, Traits
+    operation: replaces
+  supersedes:
+  - R75-17-TRAIT_ENTRY_CARRIES
+  applies_to:
+  - magic-design
+  - character-sheet
+  verification: []
+  ratified: 'Isaac, 2026-10-05, Claude Code chat: ruled directly (the ability-format questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: 'Q4 only what fits, Q5 left implied. Supersedes R75-17-TRAIT_ENTRY_CARRIES, whose founding sentence,
+    rigidity line and offices were required lines. Partly amends R17-5-TRAIT_SCOPE: the Lattice property
+    is still designed for every Trait but shows on the page only where it reads naturally. The belief
+    still exists in the design, so the Shear Break counter stands (Part Twenty). R75-16-WHO_WRITES_PC_TRAIT
+    and R75-18-HOW_TRAIT_EVOLVES stand. R47-3-COUNTERS_AS_FACTS stands: counters and tells are stated
+    as facts.'
+- id: R76-4-PARAGRAPH_IS_PAGE
+  pack: Ability Format 2026-10-05
+  pack_number: null
+  section: Q6
+  title: The paragraph is the whole page and the whole card entry
+  status: live
+  kind: mandate
+  summary: Publish the name, kind and paragraph as the ability's Notion page and card entry with nothing
+    else on it; the field format is retired.
+  verbatim: 'The paragraph IS the Notion page and the card entry: nothing else on it.'
+  amends:
+  - guide: WOTR_Ability_Technique_Design_Guide.md
+    locus: entry format
+    operation: replaces
+  - guide: character sheet template
+    locus: Traits and Techniques sections
+    operation: replaces
+  supersedes:
+  - R47-2-FIELD_FORMAT
+  applies_to:
+  - magic-design
+  - character-sheet
+  - documents
+  verification: []
+  ratified: 'Isaac, 2026-10-05, Claude Code chat: ruled directly (the ability-format questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: Q6 (recommended). Supersedes R47-2-FIELD_FORMAT; the Design Chain and six-line card it retired
+    stay retired. Author notes (the Phenomenon line, sources) stay in chat and never reach the page,
+    as before. R75-25-ONE_CARD_SHAPE stands for the card head, which names each ability with its tell
+    and counter.
+- id: R76-5-CONVERT_WHEN_TOUCHED
+  pack: Ability Format 2026-10-05
+  pack_number: null
+  section: Q8
+  title: Old field-format entries convert when next used
+  status: live
+  kind: mandate
+  summary: Rewrite an ability entry still in the field format into the paragraph shape the next time it
+    is edited or used, and leave the rest until then.
+  verbatim: Old field-format entries are converted when next edited or used.
+  amends:
+  - guide: WOTR_Ability_Technique_Design_Guide.md
+    locus: existing entries
+    operation: adds
+  supersedes: []
+  applies_to:
+  - magic-design
+  - character-sheet
+  - documents
+  verification: []
+  ratified: 'Isaac, 2026-10-05, Claude Code chat: ruled directly (the ability-format questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: Q8 (recommended). No sweep is ordered.

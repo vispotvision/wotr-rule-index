@@ -41,7 +41,7 @@ rules:
   pack_number: null
   section: B
   title: The field format replaces the Design Chain and the six-line card
-  status: live
+  status: superseded
   kind: mandate
   summary: 'New abilities use the field format, in the same look as the card top (Summary card, Codex
     line, FOW line, Origin): plain headings, short one-line **Field** · value entries in the Physics,
@@ -69,7 +69,9 @@ rules:
     file: ''
     lines: null
   notes: Recorded in RULINGS.md under 2026-09-26 — Ability Law (R47). Corrected 2026-09-27 by the ruling
-    audit (RULINGS.md, ruling-audit-2026-09-27) to state exactly what Isaac chose.
+    audit (RULINGS.md, ruling-audit-2026-09-27) to state exactly what Isaac chose. Superseded 2026-10-05
+    by R76-4-PARAGRAPH_IS_PAGE (the ability-format questionnaire); every ability is now one name and one
+    paragraph, and that paragraph is the whole page.
 - id: R47-3-COUNTERS_AS_FACTS
   pack: Ability Law 2026-09-26
   pack_number: null

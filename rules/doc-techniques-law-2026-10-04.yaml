@@ -570,7 +570,7 @@ rules:
   pack_number: null
   section: TE10
   title: A Trait entry carries a founding sentence, a rigidity line and its offices
-  status: live
+  status: superseded
   kind: mandate
   summary: Beside its Lattice property, every Trait entry carries its founding sentence in the bearer's
     words, a rigidity line stating as fact what the bearer cannot safely contradict, and the offices it
@@ -604,7 +604,7 @@ rules:
     The rigidity line is played on the page for NPCs and stays a fact Isaac plays for his own characters
     (R49-01-WHOSE_HEAD, standing). The four offices are canon''s: Bias, Permission, Nucleation and Ceiling.
     The Permission line ties signatures (R75-1-WHERE_TECHNIQUE_WRITTEN, R75-5-TECHNIQUES_ON_CRYSTAL) to
-    their Trait.'
+    their Trait. Superseded 2026-10-05 by R76-3-WHAT_PARAGRAPH_HOLDS (the ability-format questionnaire): the belief is left implied, and offices and the Lattice property appear only where they read naturally.'
 - id: R75-18-HOW_TRAIT_EVOLVES
   pack: Techniques Law 2026-10-04
   pack_number: null

@@ -322,7 +322,10 @@ rules:
       2026-10-04): beside the Lattice property, every Trait entry also carries
       its founding sentence (whose denial is the Shear Break), a rigidity line
       stating what the bearer cannot safely contradict, and the offices it
-      holds, a Permission line listing the signatures it allows.
+      holds, a Permission line listing the signatures it allows. That row was
+      superseded 2026-10-05 by R76-3-WHAT_PARAGRAPH_HOLDS: the Lattice property
+      is still designed for every Trait but shows on the page only where it
+      reads naturally, inside the one-paragraph entry (R76-1).
 
   - id: R17-5-SKILL_SCOPE
     pack: Pack Seventeen

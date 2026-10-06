@@ -35,7 +35,7 @@ Nine, and whatever `load_rules` returns newer.
 The swap test: if two characters exchanged abilities and neither read as
 wrong, neither ability is working.
 
-## Entry format (Ability Law R47, 2026-09-26)
+## Entry format (Ability Format R76, 2026-10-05)
 
 **Describe what the ability is, never how to use it.** Mechanism, what it can
 act on, costs, limits, tell and counters. No tactics, combos, worked fights,
@@ -43,24 +43,28 @@ act on, costs, limits, tell and counters. No tactics, combos, worked fights,
 applications. Counters and tells are facts ("fails in a warm room", "the air
 shimmers"), never instructions to an opponent.
 
-The page is the **field format**, one `**Field** · value` line per field, 1–2
-short plain sentences, tables only for numbers. Model:
-`imports/system-accounts/_edition/Spellcraft/Fallacy.md` (write-up) and
-`imports/page-tops/Spellcraft/Fallacy.md` (top).
+Every ability (Trait, technique, signature, school art, bloodline faculty) is
+**one name and one paragraph** (R76-1 to R76-5): the name in caps, a short
+gloss after it where the character has a naming register (`KUSARI · the Rot`),
+its kind in brackets, then a single paragraph of any length. That paragraph is
+the whole Notion page and the whole card entry; nothing else goes on it. The
+field format (R47-2) is retired; an old field-format entry is rewritten the
+next time it is edited or used.
 
-**Card top:** `## Summary card` (Effect, Cost, Limit, Counter, What nobody
-knows) · `## Codex line` (Wellspring, Family, Physics Domain, Category, Craft,
-Stage floor, Grade required, Path gate) · `## FOW line` (Governing Primary,
-Stage floor, Grade required, Path gate, Resonant Pair) · `## Origin` (Origin,
-Practitioners).
+- Plain everyday words and short sentences: "goes solid", not "jams"; no
+  jargon a reader has to decode. Concise beats exhaustive.
+- Full figures inline (EU, % of reserve, Grade, m/s, joules), estimates marked
+  (est.); never a number where a source has one.
+- Always cost, limit and counter, and the tell. The bearer's belief is left
+  implied, never quoted. Offices, Lattice property and nucleation only where
+  they read naturally; they are still designed.
+- Model: Isaac's FERMENT (Primary Trait) for Malphas: "Anything that enters
+  Malphas's reach, he rots. ... A blade still can."
 
-**Write-up:** `## Physics` (Phenomenon, Law, Limit, a Quantity | Working |
-Result table) · `## Metaphysics` (Aether, Wellspring per Wellspring, Inherited
-failures, Essence, School) · `## Mechanism` (Glyph, Boundary, Effect, Failure,
-Bleed) · `## Essence` (Practitioner, a cost table, Cost, Duration) ·
-`## Counterplay` (Tell, Limits, Beats it, Look up).
+The design work below (phenomenon, three strata, Codex, FOW, fairness) still
+happens in full; it feeds the paragraph and the author notes in chat.
 
-Rules that bind the fields:
+Rules that bind the content:
 - The Effect is the mechanism playing out (mechanism and effect are one thing).
 - **Costs** are a share of full reserve; EU and joules come off the Essence
   Ledger's band for the Stage (Fracture of Worlds Part Twenty-Three), and the

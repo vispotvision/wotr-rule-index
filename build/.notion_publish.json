@@ -999,5 +999,10 @@
     "page_id": "3f158200-eb22-8147-8312-ff63be460965",
     "title": "The Knots — Aetherion Academy",
     "hash": "1942f59d77a476d3"
+  },
+  "scenes/the_undercroft_aetherion_academy.md": {
+    "page_id": "3f158200-eb22-81ed-acc9-d7be61fef4c5",
+    "title": "The Undercroft — Aetherion Academy",
+    "hash": "769941dd2c5a3064"
   }
 }

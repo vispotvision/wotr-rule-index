@@ -1,13 +1,12 @@
 ---
 title: "Kwon Mu-jin"
 notion_id: "3b258200-eb22-8188-b889-f849c8cc7c56"
-notion_url: "https://app.notion.com/p/Kwon-Mu-jin-3b258200eb228188b889f849c8cc7c56"
+notion_url: "https://www.notion.so/3b258200eb228188b889f849c8cc7c56"
 section: "Volume I — Character Cards"
 tags: []
-last_edited: "2026-09-28T08:54:00.000Z"
+last_edited: "2026-10-06T16:11:38"
 verification: null
 ---
-
 # Kwon Mu-jin
 
 **Say it** · KWON moo-JIN
@@ -79,12 +78,18 @@ verification: null
 
 ## VIII–IX · Traits and Domain
 
-**Fixation Anchor Sense** · Innate · Fixatio — **feels a Draft's Sealing Glyphs the way most people feel a held breath.** *Knows instantly when a seal is failing, streets away.*
-**Diegetic Read: "Loose Thread"** · Tempered · Distillation, drawing on Sublimare — **what Analysis shows him when a compound or a person is one honest push from coming undone.**
-**Vocatia Aptitude** · Lineage — the Mahuo summoning capacity, fully trained. **Called constructs arrive already shaped by whatever the working needs.**
-> **Archmagus, Youngest Recorded S-Grade in Accord History** · Resonant
->
-> ***Not a power. A weight he has spent ten years converting into evidence rather than argument.***
+**LAPIS · the Stone (Primary Trait)**
+Mu-jin is a living catalyst, the philosophers' stone the old alchemists were really chasing: something that makes a reaction run faster without being used up. Within 15 m of him, any reaction that would happen anyway runs faster when he wills it, up to a billion times faster. Iron rusts through in a second, every pistol's powder in the room goes off at once, a Draft sets as he pours it, a cut clots shut, or a man's blood clots solid in his veins. At rest it still hums: paper yellows on his desk and bread goes stale in his room by noon. A willed burst costs about 850,000 EU, a tenth of a percent of his reserve. It only runs downhill. It cannot make anything that would not happen on its own, so ash never becomes wood and the dead stay dead, and it speeds both directions at once, so whatever he builds also falls apart faster unless it is sealed. Real catalyst poisons choke it: lead, sulfur and arsenic, so lead dust or sulfur smoke in the air (a Solfatara practitioner above all) shuts it down, and cold slows it. The tell is a smell of struck matches around him and rust blooming where he looks.
+
+**PERVIUM · the Way Through (Secondary Trait)**
+When there is no way through, Mu-jin goes through anyway. A particle can cross a barrier it has no energy to climb, and the chance shrinks fast the thicker the barrier is; physics calls it tunnelling. His workings cross wards, shields, walls and Domains without breaking them and arrive on the far side at about half strength, and he can cross the gap between what he is and what the moment needs, casting above his own Stage and Grade as he did at Rimward. A thin ward costs about 8.5 million EU, 1% of his reserve, and every extra layer multiplies the cost by ten, so a triple-layer ward costs him everything. Thickness, layers and distance stack against him fast. A crossing above his own standing is paid afterwards in his body, and some of what it takes does not come back, and like every Secondary it leaves a debt: hours of shaking exhaustion and a migraine that stacks on top of Sight Through the Glass. The tell is a ward with no breach in it, and written glyph lighting up his dead right arm while he crosses.
+
+**AGNITIO · the Recognition (Inherited Trait)**
+Every called thing hears a Mahuo clearly. Power crosses a wire completely only when the two ends are matched, and when they are not it bounces back; the Mahuo line is matched to the act of calling itself. His own summons lose nothing on the way, so his constructs cost about a third less than anyone else's, and any summoned thing on the field hears him as plainly as it hears its own summoner and weighs the two of them. The house law holds: he cannot compel, only be recognised, and recognition decides it more often than not. Things bound with a Fixatio seal cannot hear him, things built rather than called (clockwork, golems) have no ear at all, and when he contests another summoner's construct and loses, the call bounces back into him with the full force of what he spent. It runs whether he wants it or not: wild things born of the Wells hear him too and drift toward his camp at night. The tell is every called thing in sight turning its head when he speaks.
+
+**COMMUNE · the Commons (Passive Trait)**
+Knowledge spreads out from Mu-jin the way ink spreads through still water. Whatever is understood in a room around him slowly becomes understood by everyone in it, reaching arm's length in about a minute and 10 m in about two hours, as real diffusion does. His students learn in weeks what takes others years, an enemy's technique worked near him becomes plain to his side, and no working stays secret near him for long. It only flows from whoever knows more to whoever knows less, and it flows out of him too, which he cannot stop: an enemy who stands near him long enough learns his workings, and the Book of Summons leaks. Sealed rooms, Claustra wards and a closed mind (Silentia, or a high Resilience Ward) block it, and a fight is usually too short for much to cross unless they are close. The tell is people around him using his words, and enemy practitioners near him starting to cast in his Latin.
+
 **Domain · The Open Crucible** — Emanation-tier, 40-metre passive radius. **Past active maintenance now:** reagents, glyph-chains and called summons **all behave as though already perfected without him needing to consciously sustain the field.**
 
 ---

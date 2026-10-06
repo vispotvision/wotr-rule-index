@@ -989,5 +989,10 @@
     "page_id": "3f058200-eb22-81e3-9e26-d0ab0f3ac18b",
     "title": "Mu-jin: The Tenth Bell",
     "hash": "afcf0c9ef68b1c29"
+  },
+  "scenes/nirans_arrival_aetherion_academy.md": {
+    "page_id": "3f158200-eb22-815f-983d-d57d787879fb",
+    "title": "Niran's Arrival — Aetherion Academy",
+    "hash": "8356f738fbb2e5e3"
   }
 }

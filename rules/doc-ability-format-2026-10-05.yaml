@@ -51,7 +51,7 @@ rules:
   pack_number: null
   section: Q3
   title: The paragraph carries full LitRPG figures
-  status: live
+  status: superseded
   kind: mandate
   summary: Put the full figures inline in the paragraph, EU, share of reserve, Grade, speed and energy,
     with every estimate marked (est.).
@@ -72,7 +72,8 @@ rules:
     file: ''
     lines: null
   notes: Q3. R12-5-NEVER_INVENT_NUMBER and R75-31's (est.) mark stand; a figure with a source is taken
-    from it. R47-4-LEDGER_COSTS stands for how costs are priced.
+    from it. R47-4-LEDGER_COSTS stands for how costs are priced. Superseded 2026-10-06 by R76-6-NO_EST_MARK; figures stay inline, the (est.) mark is gone.
+
 - id: R76-3-WHAT_PARAGRAPH_HOLDS
   pack: Ability Format 2026-10-05
   pack_number: null
@@ -162,3 +163,38 @@ rules:
     file: ''
     lines: null
   notes: Q8 (recommended). No sweep is ordered.
+- id: R76-6-NO_EST_MARK
+  pack: Ability Format 2026-10-05
+  pack_number: null
+  section: Q3 revised (2026-10-06)
+  title: No figure carries an (est.) mark
+  status: live
+  kind: mandate
+  summary: Write every figure plainly, on ability write-ups and on cards, with no estimate mark; an estimate
+    is still canon on use and loses to a source value on contact, and which figures are estimates lives
+    in the author notes only.
+  verbatim: no figure carries an (est.) mark anywhere, on an ability write-up or on a card. Ability write-ups
+    carry full LitRPG figures inline (EU, % of reserve, Grade, m/s, joules), every figure written plainly
+    with no estimate mark. An estimate is still canon on use and a source value still beats it on contact;
+    which figures are estimates is kept in the author notes, never on the page.
+  amends:
+  - guide: WOTR_Ability_Technique_Design_Guide.md
+    locus: entry format, numbers
+    operation: replaces
+  - guide: character sheet template
+    locus: estimates
+    operation: replaces
+  supersedes:
+  - R76-2-FIGURES_INLINE
+  - R75-31-MARKING_ESTIMATE
+  applies_to:
+  - magic-design
+  - stats
+  - character-sheet
+  verification: []
+  ratified: 'Isaac, 2026-10-06, Claude Code chat: ruled directly ("get rid of that rule est is annoying")'
+  source:
+    file: ''
+    lines: null
+  notes: Logged in RULINGS.md under 2026-10-06, R76-2-FIGURES_INLINE. R12-5-NEVER_INVENT_NUMBER stands
+    (a figure with a source is taken from it), and R20C-34's estimate-canon-on-use stands minus its mark.

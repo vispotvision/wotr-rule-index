@@ -53,8 +53,9 @@ next time it is edited or used.
 
 - Plain everyday words and short sentences: "goes solid", not "jams"; no
   jargon a reader has to decode. Concise beats exhaustive.
-- Full figures inline (EU, % of reserve, Grade, m/s, joules), estimates marked
-  (est.); never a number where a source has one.
+- Full figures inline (EU, % of reserve, Grade, m/s, joules), written plainly
+  with no (est.) mark (R76-6); estimates are listed in the author notes only.
+  Never a number where a source has one.
 - Always cost, limit and counter, and the tell. The bearer's belief is left
   implied, never quoted. Offices, Lattice property and nucleation only where
   they read naturally; they are still designed.

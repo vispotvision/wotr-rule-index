@@ -1052,7 +1052,7 @@ rules:
   pack_number: null
   section: CH7
   title: 'One estimate mark on a card: ''(est.)'''
-  status: live
+  status: superseded
   kind: mandate
   summary: A card marks a figure canon does not supply with the one inline mark '(est.)' after the figure
     and nothing more, the six marking styles in use collapsing into that one.
@@ -1081,7 +1081,8 @@ rules:
     contact, so a source figure replaces the mark when it arrives. R12-5-NEVER_INVENT_NUMBER and R56-8-LEVEL_LAW_SETS_RESERVE_BAND
     stand. How a bearer''s exact Crystal line shows an estimate, which R70-78-WHERE_SCREEN_COMES_FROM
     left for the conflict log, is not answered here. The tool texts that write ''pending Isaac'' or ''marked
-    pending'' into a card (convert_character, create_character) are owed the rewrite (R75-43-WHERE_TECHNIQUE_LAW_LANDS).'
+    pending'' into a card (convert_character, create_character) are owed the rewrite (R75-43-WHERE_TECHNIQUE_LAW_LANDS). Superseded 2026-10-06 by R76-6-NO_EST_MARK; no figure carries an estimate mark.'
+
 - id: R75-32-NEW_VOICE_BLOCK_SLOTS
   pack: Techniques Law 2026-10-04
   pack_number: null

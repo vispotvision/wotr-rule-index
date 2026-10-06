@@ -219,7 +219,7 @@ The tightest run in the archive: eleven files covering one morning at Class X, e
 - `xanelor_juggernauts_fist.md`
 - `xanelor_the_arrow.md`
 
-### The Night Register investigation at Aetherion  (8 scenes)
+### The Night Register investigation at Aetherion  (10 scenes)
 
 One continuous morning at the Academy, archived 2026-10-05: Niran Yukari brings the Crow's Seat to the Grand Mage while, under the south range, Mu-jin finds Malphas with three carriers. The two halves meet at the chapel bell, which rings unstruck in both. Nothing fixes the run against the Class X week, so it is listed here and not placed.
 
@@ -231,6 +231,8 @@ One continuous morning at the Academy, archived 2026-10-05: Niran Yukari brings 
 - `aqua_fortis_aetherion_academy.md`
 - `the_cooking_aetherion_academy.md`
 - `open_crucible_aetherion_academy.md`
+- `shared_wounds_aetherion_academy.md`
+- `the_regent_aetherion_academy.md`
 
 ## Every scene, in placed order
 
@@ -1796,3 +1798,7 @@ Each line is a scene and the earlier events it explicitly reaches back to.
 **`open_crucible_aetherion_academy.md`**
 - Geuk-hon's room in Hon-guk, the table and two cups, 'put down the arm and count what was left'
 - Open Crucible first opened on the Ashgate road, its walls the bones of the man who opens it
+
+**`the_regent_aetherion_academy.md`**
+- the Drowl salt pans and the purple of a drying bed (Zeraphine's card, Lore)
+- Malphas's lens, dropped in Open Crucible, left to Mu-jin

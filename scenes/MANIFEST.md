@@ -1,6 +1,6 @@
 # WOTR Scene Archive
 
-169 files, 911562 words.
+171 files, 916680 words.
 
 Law edition is the style law a scene was written under (R70-137): "pre-R70" is the law before 2026-10-03, precedent for events and not for prose; scenes archived from 2026-10-03 carry "R70".
 
@@ -94,6 +94,7 @@ Law edition is the style law a scene was written under (R70-137): "pre-R70" is t
 | renard_the_left_of_the_door.md | 4026 | pre-R70 |
 | sesk_the_report.md | 2574 | pre-R70 |
 | seven_labors.md | 2994 | pre-R70 |
+| shared_wounds_aetherion_academy.md | 3019 | R70 |
 | sodoku_fourteenth_bow_table.md | 2700 | pre-R70 |
 | sodoku_gate_reunion_lambert.md | 2841 | pre-R70 |
 | sodoku_the_count_supply_report.md | 2731 | pre-R70 |
@@ -120,6 +121,7 @@ Law edition is the style law a scene was written under (R70-137): "pre-R70" is t
 | the_knots_aetherion_academy.md | 1570 | R70 |
 | the_nights_watch.md | 8032 | pre-R70 |
 | the_overpressure.md | 3173 | pre-R70 |
+| the_regent_aetherion_academy.md | 2099 | R70 |
 | the_revolution_of_the_inner_world.md | 16478 | pre-R70 |
 | the_slow_match.md | 3454 | pre-R70 |
 | the_southern_passing.md | 3750 | pre-R70 |

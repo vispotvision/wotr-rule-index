@@ -1004,5 +1004,10 @@
     "page_id": "3f158200-eb22-81ed-acc9-d7be61fef4c5",
     "title": "The Undercroft — Aetherion Academy",
     "hash": "769941dd2c5a3064"
+  },
+  "scenes/the_fight_below_aetherion_academy.md": {
+    "page_id": "3f158200-eb22-8179-9b13-c89e9ad06ddf",
+    "title": "The Fight Below — Aetherion Academy",
+    "hash": "09fab540bb32e2dc"
   }
 }

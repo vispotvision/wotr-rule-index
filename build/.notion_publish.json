@@ -1019,5 +1019,10 @@
     "page_id": "3f158200-eb22-81f3-aa23-cba5a90edfdd",
     "title": "Aqua Fortis — Aetherion Academy",
     "hash": "245703022210270f"
+  },
+  "scenes/the_cooking_aetherion_academy.md": {
+    "page_id": "3f158200-eb22-81be-9694-edf81a42ee8e",
+    "title": "The Cooking — Aetherion Academy",
+    "hash": "53577d8b34d77ca9"
   }
 }

@@ -1034,5 +1034,10 @@
     "page_id": "3f158200-eb22-816c-b0e2-d3ffa40b906d",
     "title": "Shared Wounds — Aetherion Academy",
     "hash": "44d588c3aaf8bc8f"
+  },
+  "scenes/the_regent_aetherion_academy.md": {
+    "page_id": "3f158200-eb22-8132-95d0-d46f8657f055",
+    "title": "The Regent — Aetherion Academy",
+    "hash": "389ecb9e8182f098"
   }
 }

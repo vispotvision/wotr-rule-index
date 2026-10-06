@@ -562,7 +562,7 @@
   },
   "3bd58200-eb22-8129-a362-e281407b1710": {
     "rel": "Volume I — Character Cards/Zeraphine Drowl · The Black Vat Regent.md",
-    "edited": "2026-09-26T09:06:00.000Z",
+    "edited": "2026-10-06T20:03:00.000Z",
     "title": "Zeraphine Drowl · The Black Vat Regent",
     "private": true
   },
@@ -1395,8 +1395,9 @@
   },
   "3b258200-eb22-8188-b889-f849c8cc7c56": {
     "rel": "Volume I — Character Cards/Kwon Mu-jin.md",
-    "edited": "2026-10-06T16:11:38",
-    "title": "Kwon Mu-jin"
+    "edited": "2026-09-28T08:54:00.000Z",
+    "title": "Kwon Mu-jin",
+    "private": true
   },
   "3b258200-eb22-81d4-bf97-cea223727abf": {
     "rel": "Volume I — Character Cards/Cozbi Mahuo.md",
@@ -3357,13 +3358,15 @@
   },
   "3e058200-eb22-81ee-bfa6-ee0785f793ac": {
     "rel": "Volume I — Character Cards/Hiromi Mahuo.md",
-    "edited": "2026-10-06T16:12:35",
-    "title": "Hiromi Mahuo"
+    "edited": "2026-09-28T08:23:00.000Z",
+    "title": "Hiromi Mahuo",
+    "private": true
   },
   "3e058200-eb22-819a-be45-e0609e1102db": {
     "rel": "Volume I — Character Cards/Geturo Mahuo.md",
-    "edited": "2026-10-06T16:13:18",
-    "title": "Geturo Mahuo"
+    "edited": "2026-09-28T08:23:00.000Z",
+    "title": "Geturo Mahuo",
+    "private": true
   },
   "3e058200-eb22-816d-b0aa-eeeb5b6499bd": {
     "rel": "Volume I — Character Cards/Lily Mahuo.md",
@@ -3866,10 +3869,5 @@
     "edited": "2026-09-28T16:24:00.000Z",
     "title": "State of Play — Rovhen Talvasciel / Aetherion Academy",
     "private": true
-  },
-  "3f158200-eb22-8145-a6f9-d7a6284b21e6": {
-    "rel": "Volume I — Character Cards/Cassian Tiberius Cruor.md",
-    "edited": "2026-10-06T16:14:09",
-    "title": "Cassian Tiberius Cruor"
   }
 }

@@ -4,12 +4,13 @@ notion_id: "3bd58200-eb22-8129-a362-e281407b1710"
 notion_url: "https://app.notion.com/p/Zeraphine-Drowl-The-Black-Vat-Regent-3bd58200eb228129a362e281407b1710"
 section: "Volume I — Character Cards"
 tags: []
-last_edited: "2026-09-26T09:06:00.000Z"
+last_edited: "2026-10-06T20:03:00.000Z"
 verification: null
 ---
 
 # Zeraphine Drowl · The Black Vat Regent
 
+![Zeraphine Drowl, reference](https://prod-files-secure.s3.us-west-2.amazonaws.com/ac258200-eb22-816a-b2a8-000320d6092d/291625a4-77d3-4f66-910f-ad32e99d1cbf/zeraphine-drowl-reference.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466YUI2FYAS%2F20261006%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20261006T202106Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEDMaCXVzLXdlc3QtMiJHMEUCIGTuDkDwXGLGJtLYNQomRvdAppNORpaO%2FZFEVVXTfvl7AiEA8%2Fbw2JOvH6HVGX8nBQTbnOZVLFIot7VlxR6zH88SpvYqiAQI%2FP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgw2Mzc0MjMxODM4MDUiDG3qNaDv3ANd8fD5%2FircA2TLxC7lIj7kwZma01GkehBpGSVtOe6ildD2ns2UB%2B%2BhQGw3I1bGIfPh%2B0%2Bc6tsrVuOtjyqwJ1sba2FrXfK%2BtgP4t2kIZRO4XaMhYDpxiWjHqp95r6W%2BDFxUGx%2FZIvTjrL%2FEMHi6OSJeG7jCfPo%2Bx7vfPy11sqVMRy6RUKJAfrx%2BvHux2h8nd7g5sJOzZbd5iasgRYCDZuRT%2FiieOlRTsQDZLGjFszRhHrnzp15uzg7EM4bo3sZjnIt8fW6Y9yk9uoI%2FQebGOw0ZcqSTuYNDz6y%2BXInb2wSZXjcAcPHau7rB620RQO6S%2BL7aeJ4XA%2By2UyUxd4j7nCkKDmrT2l07UpjYi45iuzs8mjTm1ouJ6WLIGK5bZlMHH5PosFctcZsRbgF%2FSA24170pDByjKzentt0UYMPGb3wZrbPVtqaxTNyYTsirZL6%2FkgxtYTjwwQQAQtun4oCmOok3k9HkfBUJNe7LGhWXXVXsnvY5p8uXR23L3k9Os42atwxc63Ll2YgGb97UACRe%2FkzVPbqNi7XdsznPOmWV%2FxJG0%2F3oB3yMD0gl7FgFZkji2Hl6EsjblwikL7pIVwTTOp6ncaVCoiGmKKrQB8K7Gn3C1idweO6IA36yLopewLoVjRi%2Fhp7dMNaRldYGOqUBLK7pemBum%2F9LIGMvO8wYHMHFnflGpsD5LIvEaMF1j2EUBQtQGX1GAx9Zw1mpwnyZueUQnWztvQJCsvxgtdBAgyRt6jy8yWfi4aZ5Mb7YOjhiyyM2tRXulrOYXtDgxhX5kIflrY3Uvf1GNyD33UnsS4i9EYIG69J91RvReV2VXF2wAvrZnj13Ezkq8kZUXibAfBKMFI14nuck0o3SGxD1Gr%2BLFQUA&X-Amz-Signature=47bff43b673e927b620915dc2d59844d40c77902a3b05f06238e6c5dc1c90609&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject)
 **Say it** · ZAIR-ah-feen DROWL
 > *"The pulse I feed becomes the wave you drown in — they move, rot, and obey."*
 > **Same Archon error across all three of the Bloom's command sheets.** *Fermentation and "Harmonic" are not Wellsprings; Dissolution is.* *Re-sourced below.*
@@ -25,7 +26,14 @@ verification: null
 **Affiliation** · **Former Pyraeon Forge Academy tactician turned Regent of the Black Cistern.**
 > **Catalyst Event · Stage VIII, Transcendence.** *The wound made load-bearing on purpose.*
 >
-> **She betrayed the Academy and bound herself to Malphas — "a strategist turned vessel."** *And then merged her body with a glass cistern.* **She did not carry the betrayal. She built a chassis around it and commanded from inside.**
+> **She betrayed the Academy and bound herself to Malphas — "a strategist turned vessel."** *And then bound her body to a glass cistern, and drew the cistern down to a sphere that floats at her hand.* **She did not carry the betrayal. She built a chassis around it and commanded from inside.**
+
+---
+
+## I.V · Appearance
+
+Long pale-blond hair falling loose past the shoulders. Pale skin under white paint, a dark mouth, and a mask-helm of pale green scales shingled over the brow and one eye, set between two dark crescent horns, with cords and tassels hanging to the collarbone. Layered robes: a dark plum overrobe with sleeves wide enough to hide a hand, a ribbed teal bodice, a maroon tabard fringed with pale fur and marked with a silver crescent-and-circle sigil, cords and beads strung down its front, a navy skirt to the ankle and worn brown boots. Banded bracers at both wrists.
+**The glass** · A sphere of glass the size of a skull floats at her raised hand, pale blue and turning, a slow swirl moving inside it. A ribbon of violet-white light trails off it and coils back round her. *That sphere is the cistern.*
 
 ---
 
@@ -33,7 +41,7 @@ verification: null
 
 **Aether Shell** · **Class V · Radiant.** *Aether bends toward the bearer; output exceeds what the raw numbers suggest* — which for a command field is the whole mechanism.
 **Crystal State** · **Overgrown.** **η** · ~0.70, Tier of Standing 6, Master.
-**Cisternal Carapace** · **Her body merges with a mobile glass cistern.** *Within it, suspended viscous corpses and rotting sludge form living command signals that pulse across the battlefield.*
+**Cistern** · **A sphere of glass floats at her hand, bound to her body.** *Inside it the rendered dead turn in a slow sludge whose pulses are her commands; the trailing ribbon of light is the conduit.*
 
 ---
 
@@ -60,7 +68,7 @@ verification: null
 | Resilience | 352 | A |  |
 | Vitality | 298 | A |  |
 | **Ardency** | **220** | B | **She has never personally struck anyone** |
-| **Dexterity** | **152** | C | **Her floor. She is fused to a cistern** |
+| **Dexterity** | **152** | C | **Her floor. She is bound to the glass** |
 
 **Path** · Attraction dominant, Spirit secondary.
 > **Ardency 220 and Dexterity 152 in the Supreme Field Commander of the Rot Host.**
@@ -82,9 +90,10 @@ verification: null
 
 ## VI · Traits
 
-**Cisternal Carapace** · **Her body merges with a mobile glass cistern**; suspended corpses and sludge form living command signals pulsing across the battlefield.
-**Sludge Signal Cadence** · **Her voice vibrates through sludge conduits, activating rot-creatures and beaconing wave assaults.** *Every echo triggers coordinated movements in the Generals' forces.*
-**Anguish Resonance** *(passive)* · **The more emotional terror on the battlefield, the stronger her command field becomes.** *Regiments of rot-homunculi harden around her as dread deepens.*
+**Cadence** *(Primary)* · **Zeraphine's voice moves armies.** She speaks into the sludge, and the pulse runs down the conduits four times faster than sound crosses open air, because sound always travels faster through liquid. It reaches every rot-creature at the far end at once. Each creature is tuned to one note the way a tuning fork is, and when her pulse carries that note, that creature moves and no other. And she never calls them all at once: she opens them in order, wave after wave, exactly as her mother opened the brine channels on the salt pans, because one opened out of turn spoils the whole run. *Cut the conduit and the cadence stops at the break.*
+**Cistern** *(Secondary)* · **She bound her body to a sphere of glass, and now the glass is her.** It floats at her hand, and inside it the dead she keeps turn rendered in a thick, slow sludge that pulses when she thinks. A liquid passes pressure equally in every direction, so one pulse in the sphere reaches everything in it in the same instant, and what it feels, she feels. *It is also glass. She can never be more than an arm's length from it, she has never struck anyone, and a single duellist who reaches the sphere with something heavy ends the whole Rot Host's coordination in one blow.*
+**Dread** *(Passive)* · **Fear feeds her.** The more terror on a field, the stronger her command field grows, because her law runs as a feedback loop, like a speaker squealing louder the closer it is held to the bell that hears it. Frightened soldiers sweat, shake and break formation, and every scrap of that fear comes back into her conduits as signal; her rot-homunculi harden around her as the dread deepens. *The same loop runs the other way: against a calm, steady enemy she weakens, and in a short war she never builds to full strength.*
+**Salt** *(Inherited)* · **The Drowls made salt for generations, and the salt is in her blood.** Salt pulls water out of anything it touches, the way brine pulls the water from a fish in a curing barrel; it is why salted meat keeps for years, and why the dead rendered into her glass keep instead of spoiling. Salt is also how brewers rule a ferment: the right amount decides which rot wins and which dies, the way cabbage becomes sauerkraut instead of slime. Malphas makes the rot; Zeraphine is the salt that keeps it obedient. Anything her conduits touch long enough starts drying out, lips cracking, eyes stinging, wounds crusting white. *Flood is her family's oldest enemy: enough fresh water dilutes her sludge until her signals blur.*
 
 ---
 
@@ -127,12 +136,12 @@ Zeraphine had the order of the channels by heart before she could lift a rake. A
 
 She left the pans for the Pyraeon Forge Academy and served it as a tactician. She planned fields she did not stand on. She set the order in which a force went forward and the signal that sent each part of it in. She never struck anyone with her own hand.
 The same school had expelled Malphas, and he had been declared a metaphysical threat. Zeraphine betrayed the Academy to bind herself to his cause, "a strategist turned vessel."
-Then she merged her body with a glass cistern. The cistern was mobile. Corpses hung suspended inside it in a viscous, rotting sludge, and the sludge pulsed. Every pulse was a command. Conduits of the same sludge ran out from the glass across the ground, and her voice travelled down them and woke the rot-creatures at the far end.
+Then she bound her body to a glass cistern, and over the years drew it down to a sphere that floats at her hand. The dead she kept were rendered into the sludge inside it, and the sludge pulsed. Every pulse was a command. Conduits of the same sludge ran out from the glass across the ground, and her voice travelled down them and woke the rot-creatures at the far end.
 She built a chassis around the betrayal and commanded from inside it. The wound was made load-bearing on purpose.
 
 #### The Cost
 
-She could not leave the glass. She could not fight from it, and she had no defence of her own worth the name. One competent duellist at the glass would end the coordination of the whole Host.
+She could never be more than an arm's length from the glass. She could not fight from it, and she had no defence of her own worth the name. One competent duellist at the glass would end the coordination of the whole Host.
 Terror fed her command field. The deeper the dread on a field, the harder her regiments of rot-homunculi set around her. So she had to keep the terror coming. She could not fight a calm enemy well, and she could not afford a short war. The conduits had to reach. Where the sludge was cut, the cadence stopped at the break.
 On the Broken Rivers a walled river town shut its gate on the Host. Her cistern came up the river road behind the regiments, and the conduits were run out from the glass to the foot of the wall. She sent Morphaene forward first and set Kytheris behind him. His gloam went over the parapet, and her spores gave it a body. Vorynth stood at the gate through the afternoon. Graelith she held back.
 At dusk the town's practitioners came out of the river gate in a sortie aimed at the glass. The cistern stayed where it stood. She sent Graelith into their path, and the sound went out of the air around him. Their incantations arrived at nothing. The sortie turned back through the gate. When it was in, her cadence went down the conduits, and Vorynth's waves came against the softened gate in the order she called them. The town fell before morning. From that dusk she called Graelith a living pause. After it the gloam went out first, the Bloom Surge came behind it, and Graelith was kept for the counterstroke.
@@ -143,7 +152,7 @@ In the Bone Hills a fort kept a Domain over its walls. Her cistern stood at the 
 Zeraphine Drowl is Supreme Field Commander under Malphas, Master Conductor of the Rot Host and Regent of the Black Cistern. Vorynth, Kytheris, Graelith and Morphaene answer to her. She channels what each of them does into one set of tactics. Vorynth counts her an invaluable field conductor, and his waves keep a sequence when she calls it. The Ossuary Choir stand outside the four. She leans on their harmonic pulses as battlefield anchors.
 When her cadence goes down the conduits, four generals move as one thing, and nothing on the field makes a decision except her.
 She and Malphas came out of the same school. It expelled him, and she betrayed it.
-She has still never struck anyone. The dead hang in the glass around her, and the sludge pulses when she speaks.
+She has still never struck anyone. The dead turn in the glass at her hand, and the sludge pulses when she speaks.
 
 #### Ties
 

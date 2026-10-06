@@ -4,7 +4,7 @@ notion_id: "3b158200-eb22-81da-b471-f9bfac2c784c"
 notion_url: "https://app.notion.com/p/Volume-I-Character-Cards-3b158200eb2281dab471f9bfac2c784c"
 section: "Characters"
 tags: []
-last_edited: "2026-09-28T12:28:00.000Z"
+last_edited: "2026-10-06T20:14:00.000Z"
 verification: null
 ---
 
@@ -295,3 +295,4 @@ verification: null
 - [Dhaerin Valorin · The Scholar of Vaeloris](Volume I — Character Cards/Dhaerin Valorin · The Scholar of Vaeloris.md)
 - [Seiji Tenrai Moto · The Door](Volume I — Character Cards/Seiji Tenrai Moto · The Door.md)
 - [Orin Farrant](Volume I — Character Cards/Orin Farrant.md)
+- [Cassian Tiberius Cruor](Volume I — Character Cards/Cassian Tiberius Cruor.md)

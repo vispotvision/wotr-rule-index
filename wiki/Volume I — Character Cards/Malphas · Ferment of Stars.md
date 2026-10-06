@@ -4,7 +4,7 @@ notion_id: "3bd58200-eb22-8174-8d04-d8dc2c18ae90"
 notion_url: "https://app.notion.com/p/Malphas-Ferment-of-Stars-3bd58200eb2281748d04d8dc2c18ae90"
 section: "Volume I — Character Cards"
 tags: []
-last_edited: "2026-09-28T09:59:00.000Z"
+last_edited: "2026-10-06T20:08:00.000Z"
 verification: null
 ---
 
@@ -133,7 +133,29 @@ The First Catalyst is behind him and the Becoming ahead. The Threshold after thi
 
 ---
 
-## V · Signature
+## V · Traits
+
+**Ferment** *(Primary)* · **Anything that enters Malphas's reach, he rots.** Spells, lightning, stone, a blade's aether: none of it is blocked when it reaches him. It is swallowed and broken down the way a swamp breaks down a fallen tree, until whatever it was falls apart into black muck. The energy inside it is not lost. He keeps it, stored like a charged battery, and spends it later; that is where the black ground, the hands and the Star come from. *But he can take in far more than he can use, so the excess builds inside him like steam in a sealed pot, and too much at once will crack him open. Poison, rot and disease cannot touch him. A blade still can.*
+**Seed** *(Secondary)* · **Through the lattice scar on his left hand, Malphas plants a piece of his rot inside another body**, the way a brewer adds a starter to fresh dough. That body keeps walking, eating and talking, cellar-cold, its breath never fogging, while whoever lived inside it is gone. Every seeded body stays tied to his hand by an invisible cold thread, and each one carries part of the pressure Ferment builds in him; they are the only reason he has not burst. *Cut the hand and every thread snaps at once, and all that pressure comes home.*
+
+### Techniques
+
+**Fermented Star** *(Ferment)* · He draws all his black rot into a single floating ball of perfect darkness that swallows anything thrown at him: blasts, workings, even lightning, pulled in like water down a drain. Whatever it swallows goes into his bank.
+**Black Ground** *(Ferment)* · The floor around him rots into black, bubbling, rotten-egg-stinking muck that eats through stone and swells like rising dough.
+**Black Hands** *(Ferment)* · Giant black hands rise out of the Black Ground with spikes of crystal growing from their palms. They grab, pierce and heave whatever stands on the rot, and the hollow spikes feed rot into what they hold, so a wound goes to gangrene in seconds.
+**Miasma** *(Ferment)* · A heavy sulphur fog breathed out of him that sinks and pools in low places. The stink vanishes right as it turns deadly, and then people start dropping. It cannot harm him.
+**Rust Bloom** *(Ferment)* · A spot of orange where he looks that spreads across metal like frost across a window, eating brass and iron to powder in a breath. Clasps, hinges, gun-frames and armour fall apart.
+**Black Lightning** *(Ferment)* · He spends a lightning strike he has swallowed. It comes back out of the Star black at the core and edged in sick green-violet, crawling across the ground like roots, and it rots whatever it touches instead of burning it.
+**Brewer's Blood** *(Ferment)* · He turns the sugar in a man's own blood into alcohol where it runs. The victim goes drunk from the inside: the room swims, the hands slow, and a reader's mind blurs until he cannot read.
+**Spent Muscle** *(Ferment)* · He makes a man's muscles burn their fuel without air, the way a sprinter's do at the end of a race, until they flood with acid, lock hard as wood and fail.
+**Living Shield** *(Seed)* · He yanks one of his seeded bodies into the path of a blow by its thread and floods it until it hardens like wood, so it takes the hit meant for him.
+**Walking Dose** *(Seed)* · A seed that spreads from body to body on its own like a plague, with no thread leading back to him and so no hand to cut.
+**Hush** *(passive)* · His power stays buried so deep that the most dangerous man in the room feels like nothing at all.
+**Dead Air** *(Domain, Nihiloth)* · A field where the air and magic both die. Sound stops, flames go out and lungs fail, and it eats at Malphas just as much as at anyone caught inside it.
+
+---
+
+## VI · Signature
 
 ### Sanguine Transmutation of All Things
 
@@ -153,7 +175,7 @@ The First Catalyst is behind him and the Becoming ahead. The Threshold after thi
 
 ---
 
-## VI · Continuity
+## VII · Continuity
 
 **Pyraeon** is attested as a Wellspring in the Thunn-Gorr sheet. Pyraeon Forge Academy stands as the institution that expelled him, unrelated in etymology, coincidental in name only.
 Legacy threat rating **"Tier-C across Outer World jurisdictions"** predates the Becoming and no longer describes him. Not carried forward.

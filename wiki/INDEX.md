@@ -1,6 +1,6 @@
 # War of the Realms — Wiki mirror
 
-677 pages, mirrored from Notion by build/notion_export.py. Read-only here; edit in Notion and re-run.
+678 pages, mirrored from Notion by build/notion_export.py. Read-only here; edit in Notion and re-run.
 
 ## Aberrations (1)
 
@@ -556,7 +556,7 @@
 
 - [What Things Cost](Value,%20Coin%20and%20Trade/What%20Things%20Cost.md)
 
-## Volume I — Character Cards (284)
+## Volume I — Character Cards (285)
 
 - [Adalric Vladimer Valen · The Crimson Shade](Volume%20I%20—%20Character%20Cards/Adalric%20Vladimer%20Valen%20·%20The%20Crimson%20Shade.md)
 - [Aeldoris Vanthryx · The Ruthless](Volume%20I%20—%20Character%20Cards/Aeldoris%20Vanthryx%20·%20The%20Ruthless.md)
@@ -596,6 +596,7 @@
 - [Cael Dareth · The Pale Crucible](Volume%20I%20—%20Character%20Cards/Cael%20Dareth%20·%20The%20Pale%20Crucible.md)
 - [Cael Veridion · Bearer of the Second Sun](Volume%20I%20—%20Character%20Cards/Cael%20Veridion%20·%20Bearer%20of%20the%20Second%20Sun.md)
 - [Casimir Aldous Alleyne · The Ashen Hand](Volume%20I%20—%20Character%20Cards/Casimir%20Aldous%20Alleyne%20·%20The%20Ashen%20Hand.md)
+- [Cassian Tiberius Cruor](Volume%20I%20—%20Character%20Cards/Cassian%20Tiberius%20Cruor.md)
 - [Cassiel Asterion · The Prism Notary](Volume%20I%20—%20Character%20Cards/Cassiel%20Asterion%20·%20The%20Prism%20Notary.md)
 - [Cernan Eryndor · The Bull](Volume%20I%20—%20Character%20Cards/Cernan%20Eryndor%20·%20The%20Bull.md)
 - [Charles Lambert · The God Hand](Volume%20I%20—%20Character%20Cards/Charles%20Lambert%20·%20The%20God%20Hand.md)

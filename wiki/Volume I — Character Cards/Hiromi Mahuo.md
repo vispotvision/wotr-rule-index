@@ -1,13 +1,16 @@
 ---
 title: "Hiromi Mahuo"
 notion_id: "3e058200-eb22-81ee-bfa6-ee0785f793ac"
-notion_url: "https://www.notion.so/3e058200eb2281eebfa6ee0785f793ac"
+notion_url: "https://app.notion.com/p/Hiromi-Mahuo-3e058200eb2281eebfa6ee0785f793ac"
 section: "Volume I — Character Cards"
 tags: []
-last_edited: "2026-10-06T16:12:35"
+last_edited: "2026-10-06T20:12:00.000Z"
 verification: null
 ---
+
 # Hiromi Mahuo
+
+## Hiromi Mahuo
 
 **Say it** · hee-ROH-mee MAH-hoo-oh
 **As Of:** The Arena sand after the duel with Xanelor
@@ -16,11 +19,11 @@ verification: null
 **Title:** The Paragon of Dominion.
 **Class:** X, Aetherion Academy.
 
-### I. Identity
+#### I. Identity
 
 Son of the summoner Kwon Mu-jin and the weapon instructor Frithia. Younger brother to Geturo, older brother to Lily. Called "Teacher" in public; the family knows. Summoning prodigy: at six performed something in a binding circle none of the adults present could name; at seven, redefined summoning. Connection to the Open Crucible (Mu-jin's Book of Summons) implied, unconfirmed. Goal: to become the greatest summoner to ever live. States it without qualification and believes it.
 
-### II. Soul Architecture
+#### II. Soul Architecture
 
 | **Level** | **85 / 500** · Band I Mortal Foundation (1–100) |
 |---|---|
@@ -32,11 +35,11 @@ Son of the summoner Kwon Mu-jin and the weapon instructor Frithia. Younger broth
 | **Efficiency (η)** | ~0.40, estimated |
 | **Crystal State** | Clean, no fracture |
 
-### III. Wellspring Harmonizations
+#### III. Wellspring Harmonizations
 
 TBD. Summoning discipline implies Hataraki or Spatium affinity. Pending Isaac's direction.
 
-### IV–V. Stats
+#### IV–V. Stats
 
 | Stat | Value | Grade | Notes |
 |---|---|---|---|
@@ -51,35 +54,31 @@ TBD. Summoning discipline implies Hataraki or Spatium affinity. Pending Isaac's 
 
 All values estimated. Dominion is the confirmed anomaly: B-Grade in a Stage III body, the same outpacing pattern his teacher carries at a different scale.
 
-### VI–VII. Force and Flow
+#### VI–VII. Force and Flow
 
 Not yet established. Reserve and flux density TBD.
 
-### VIII–IX. Traits and Domain
+#### VIII–IX. Traits and Domain
 
 **GRASP (Primary Trait)**
 The world lines up toward Hiromi before he asks it to. An electric charge bends everything near it into line with its field, the way iron filings point at a magnet, and his Dominion does the same to Aether within about 10 m. His own draws flow downhill to him and cost about a third less; everyone else's run uphill near him and cost about a third more; summons other people call near him lean his way before they settle. It is what the adults in the binding circle felt when he was six, and why rooms go quiet when he walks in. Like any field it weakens with the square of distance, a quarter as strong at 2 m as at 1 m, and a grounded draw-main or a sealed metal room cancels it. At Stage III it surges with his mood and spills workings he never meant to start, and holding a field costs his body about 500 extra calories a day he does not eat back, which is why he keeps collapsing. The tell is lamp flames leaning toward him and draw-gauge needles drifting his way.
-
 **AXIS (Secondary Trait)**
 Push Hiromi and the push goes sideways. A spinning top resists being tipped, and the faster it spins the harder it is; shove it and it swings sideways instead of falling. His will has spun that way since the Arena, when he was told to concede and said no. Any force that tries to move or override him (suppression, Pressure, a binding, another person's Domain law) turns aside instead of landing, against Dominion up to about three Stages above his own, at about 5% of his reserve for each exchange he holds it. The force has to go somewhere, and it goes sideways into the room and whoever stands there, friends included. A top has no grip along its own spin axis, and neither does he: a push that agrees with what he already wants goes straight through, a binding framed as his own goal or a challenge that flatters his ambition. Keep pushing until he spins down and he wobbles, then drops hard. The tell is his body not giving under the force while the room beside him takes it: a bench skids, a lamp gutters at his elbow.
-
 **ECHO (Inherited Trait)**
 A Mahuo's command grows louder every time it is given. The family art says a summoner is recognised or he is not, and Hiromi's Dominion Command rides that recognition the way a push rides a swing, each one in time adding to the last. Each time he calls the same summon in a day it arrives about 10% stronger and obeys his voice more tightly, up to about three times its first strength, so his favourite calls outgrow his Stage. Past three times, the summon shakes itself apart and the backlash runs into him. Calling off-rhythm builds nothing, and he goes off-rhythm when he is rushed, frightened or hurt. If the summon is broken or he is knocked down, the build-up drops to nothing and every call costs what a first call costs, which is where the Arena left him. It runs whether he wants it or not: when he is agitated his summons ring up on their own. The tell is a summon that hums higher in pitch with every call.
-
 **WEIGHT (Passive Trait)**
 Small magic cannot get started near Hiromi. A pressure cooker raises the heat water needs before it boils, and his presence raises the Aetheric pressure of any room he is in the same way: Dominion Pressure, the weight of his presence when he stops being polite, except that he never stops. Within about 10 m, any working below D-Grade fails to form unless its caster pays double, so candle charms, minor wards and student cantrips just sit there. That includes his own small workings: he cannot do anything quietly or finely, only big. Anything at D-Grade or above forms as normal, a Thaloré practitioner can drop the pressure locally, and open sky with a strong wind thins it. The tell is ears popping when he walks in, tea that stops steaming, and every lamp flame in the room burning short.
-
 Domain not yet seeded. Standard onset is Stage VII.
 
-### X. Techniques
+#### X. Techniques
 
 Summoning discipline. Specifics unestablished. Redefined summoning at seven; the nature of the redefinition is the major open question.
 
-### XIII. Physical Description
+#### XIII. Physical Description
 
 White hair falling to his collar in loose waves, the colour of forge-ash before it cools, parted roughly down the centre with two longer strands framing his face. The hair came from neither parent. Red irises, pale as diluted wine. Skin pale enough to catch and hold lamplight. Sharp features: high cheekbones, jaw still narrowing toward manhood. Small black drop earrings on both lobes. Black wool coat with a high collar buckled at the throat, open at the top buckle.
 
-### XIV. Psychology
+#### XIV. Psychology
 
 | **Core Wound** | Unestablished. The discipline he hides under the showmanship suggests one exists |
 |---|---|
@@ -91,21 +90,21 @@ White hair falling to his collar in loose waves, the colour of forge-ash before 
 **Refuses:** micromanagement, surveillance, sharing his private hours.
 **Notices first:** postures, draw-gauges, other people's summons and their faults.
 
-### XV. Equipment
+#### XV. Equipment
 
 Academy-issue. No special gear established.
 
-### Relationships
+#### Relationships
 
 **Kwon Mu-jin** (father) · **Frithia** (mother) · **Geturo Mahuo** (older brother) · **Lily Mahuo** (younger sister) · **Taesyn Valorin** (cousin) · **Verona Mahuo** (cousin)
 
-### Naming Flag
+#### Naming Flag
 
 Hiromi is Japonic register. Mahuo is Korean stratum (R23-2). Pending ruling.
 
 ---
 
-### Voice
+#### Voice
 
 **Notices first** · Postures, then the draw-gauges on the far wall, then other people's summons and the fault in each one.
 **Sentence length** · Short shouted bursts that stack ("Fine. Fine! We go. We sit."), and now and then one long boast that runs away from him.
@@ -119,7 +118,7 @@ Hiromi is Japonic register. Mahuo is Korean stratum (R23-2). Pending ruling.
 **In joy** · Nothing held back: capitals, a whole-body laugh, and a demand that somebody else try it too ("Geturo, let her do it to you.").
 **Sample line** · "She always means it. That's the problem."
 
-### Lore · The Life Behind the Card
+#### Lore · The Life Behind the Card
 
 *Written 2026-09-24 by the character-lore pass from this card, the eleven archived scenes it appears in, and the record of Class X and what it grows into. What those sources do not state is new here.*
 

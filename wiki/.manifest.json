@@ -562,7 +562,7 @@
   },
   "3bd58200-eb22-8129-a362-e281407b1710": {
     "rel": "Volume I — Character Cards/Zeraphine Drowl · The Black Vat Regent.md",
-    "edited": "2026-10-06T20:03:00.000Z",
+    "edited": "2026-10-06T20:04:00.000Z",
     "title": "Zeraphine Drowl · The Black Vat Regent",
     "private": true
   },
@@ -886,7 +886,7 @@
   },
   "3bd58200-eb22-8174-8d04-d8dc2c18ae90": {
     "rel": "Volume I — Character Cards/Malphas · Ferment of Stars.md",
-    "edited": "2026-09-28T09:59:00.000Z",
+    "edited": "2026-10-06T20:08:00.000Z",
     "title": "Malphas · Ferment of Stars",
     "private": true
   },
@@ -1395,7 +1395,7 @@
   },
   "3b258200-eb22-8188-b889-f849c8cc7c56": {
     "rel": "Volume I — Character Cards/Kwon Mu-jin.md",
-    "edited": "2026-09-28T08:54:00.000Z",
+    "edited": "2026-10-06T20:11:00.000Z",
     "title": "Kwon Mu-jin",
     "private": true
   },
@@ -1419,7 +1419,7 @@
   },
   "3b258200-eb22-8132-a010-ec6fd17e718b": {
     "rel": "In-World Documents & the Narrative Archive/The Scene Archive.md",
-    "edited": "2026-10-06T02:27:00.000Z",
+    "edited": "2026-10-06T20:54:00.000Z",
     "title": "The Scene Archive",
     "private": true
   },
@@ -1562,7 +1562,7 @@
   },
   "3b158200-eb22-81da-b471-f9bfac2c784c": {
     "rel": "Characters/Volume I — Character Cards.md",
-    "edited": "2026-09-28T12:28:00.000Z",
+    "edited": "2026-10-06T20:14:00.000Z",
     "title": "Volume I — Character Cards",
     "private": true
   },
@@ -3358,13 +3358,13 @@
   },
   "3e058200-eb22-81ee-bfa6-ee0785f793ac": {
     "rel": "Volume I — Character Cards/Hiromi Mahuo.md",
-    "edited": "2026-09-28T08:23:00.000Z",
+    "edited": "2026-10-06T20:12:00.000Z",
     "title": "Hiromi Mahuo",
     "private": true
   },
   "3e058200-eb22-819a-be45-e0609e1102db": {
     "rel": "Volume I — Character Cards/Geturo Mahuo.md",
-    "edited": "2026-09-28T08:23:00.000Z",
+    "edited": "2026-10-06T20:13:00.000Z",
     "title": "Geturo Mahuo",
     "private": true
   },
@@ -3868,6 +3868,12 @@
     "rel": "The Table — Running Pieces/State of Play — Rovhen Talvasciel Aetherion Academy.md",
     "edited": "2026-09-28T16:24:00.000Z",
     "title": "State of Play — Rovhen Talvasciel / Aetherion Academy",
+    "private": true
+  },
+  "3f158200-eb22-8145-a6f9-d7a6284b21e6": {
+    "rel": "Volume I — Character Cards/Cassian Tiberius Cruor.md",
+    "edited": "2026-10-06T20:14:00.000Z",
+    "title": "Cassian Tiberius Cruor",
     "private": true
   }
 }

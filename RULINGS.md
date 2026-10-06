@@ -2875,3 +2875,9 @@ Context: 2026-10-05, writing the Primary Trait CLENCH: "all that other stuff sho
 Isaac's ruling (ability-format questionnaire, replaces the earlier 2026-10-05 ruling on this row): EVERY ability (Traits, techniques, signatures, school arts, bloodline faculties) is written as one simple name in caps, with a short gloss after it for characters with a naming register (e.g. KUSARI · the Rot), then its kind in brackets, then ONE paragraph of any length. The paragraph carries full LitRPG figures inline (EU, % of reserve, Grade, m/s, joules; estimates marked (est.)). Belief/founding sentence is left implied, not quoted. Cost, limit and counter are always in the paragraph; offices, Lattice property and nucleation only where they read naturally. The paragraph IS the Notion page and the card entry: nothing else on it. Old field-format entries are converted when next edited or used. Amends R75-17, R47-2-FIELD_FORMAT, R17-5-TRAIT_SCOPE (Lattice property now optional on the page) and the technique-entry format in the Ability Technique Design Guide.
 
 Context: 2026-10-05 ability-format questionnaire, answers at imports/drafts/ability-format-questionnaire/answers.json. Model entry: his FERMENT (Primary Trait) for Malphas.
+
+## 2026-10-06 — R76-2-FIGURES_INLINE
+
+Isaac's ruling: no figure carries an (est.) mark anywhere, on an ability write-up or on a card. Ability write-ups carry full LitRPG figures inline (EU, % of reserve, Grade, m/s, joules), every figure written plainly with no estimate mark. An estimate is still canon on use and a source value still beats it on contact; which figures are estimates is kept in the author notes, never on the page. Supersedes R76-2-FIGURES_INLINE and R75-31-MARKING_ESTIMATE.
+
+Context: 2026-10-06, Geturo's OPUS (Primary Trait): "get rid of the est" then "yea lets get rid of that rule est is annoying".

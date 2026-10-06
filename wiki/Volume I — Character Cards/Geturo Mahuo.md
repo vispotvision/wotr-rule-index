@@ -1,13 +1,12 @@
 ---
 title: "Geturo Mahuo"
 notion_id: "3e058200-eb22-819a-be45-e0609e1102db"
-notion_url: "https://app.notion.com/p/Geturo-Mahuo-3e058200eb22819abe45e0609e1102db"
+notion_url: "https://www.notion.so/3e058200eb22819abe45e0609e1102db"
 section: "Volume I — Character Cards"
 tags: []
-last_edited: "2026-09-28T08:23:00.000Z"
+last_edited: "2026-10-06T16:13:18"
 verification: null
 ---
-
 # Geturo Mahuo
 
 **Say it** · geh-TOO-roh MAH-hoo-oh
@@ -44,6 +43,13 @@ Older brother to Hiromi and Lily. Studies alchemy under Mu-jin. No title. The re
 | **Harmonics** | 45 | E |  |
 
 All values estimated. No stat breaks his Stage ceiling. Progression is honest, even, the kind that comes from work rather than inheritance.
+
+### VIII–IX. Traits and Domain
+
+**OPUS (Primary Trait)**
+Geturo can turn one element into another. The old alchemists' dream of lead into gold is real physics: knock three protons out of a lead nucleus and what is left is gold, and no one in this world has ever done it. It has run quietly in his hands since he was small, which is why his wrists run hot, and he feels exactly what anything he touches is made of, down to the weight of its atoms, which even his father needs a lens and a Draft to read. At Stage II he works only by touch and only in specks, a few micrograms over a night at the bench. Every change toward iron, the most settled element there is, gives off heat, and every change away from it costs him reserve. The heat is huge: one milligram of lead turned to gold gives off about 5 MJ, as much as six sticks of dynamite. Spread over a night that is a warm bench and hot hands; done in a second it is a blast. Patience is the whole trait, the slower the safer, and at Stage II it lurches fast on its own when he is rushed or frightened. Every change also throws off radiation. His hands take most of it, about 0.1 Sv a night of work, and a careless year would leave burns that will not heal and a sickness in his blood. Lead, deep water or a hand's width of stone between him and the work blocks his reach, and so does distance: past his fingertips he cannot touch the nucleus at all. The tell is a faint blue glow in the water of his quench bowl, and a metal taste in the mouth of anyone standing close.
+
+Domain not yet seeded. Standard onset is Stage VII.
 
 ### XIII. Physical Description
 

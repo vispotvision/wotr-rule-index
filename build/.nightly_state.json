@@ -1,5 +1,5 @@
 {
-"run": "2026-10-05T03:30:00",
+"run": "2026-10-06T03:30:00",
 "findings": {
 "0e0f61e9722d": {
 "file": "commencement_of_the_curia_kujo_arc.md",
@@ -470,12 +470,12 @@
 "key": "f09c82a2c200",
 "first_seen": "2026-09-23"
 },
-"3e9de8f16158": {
+"90508fa0ced1": {
 "file": "CONTINUITY.md",
 "check": "prose",
-"text": "flat runs: 44 stretches of three sentences within 40% of each other (R4-14-RUN_RULE)",
-"key": "3e9de8f16158",
-"first_seen": "2026-10-04"
+"text": "flat runs: 47 stretches of three sentences within 40% of each other (R4-14-RUN_RULE)",
+"key": "90508fa0ced1",
+"first_seen": "2026-10-06"
 },
 "2f5f71ecdfe7": {
 "file": "CONTINUITY.md",
@@ -1653,6 +1653,20 @@
 "key": "c97aceb45309",
 "first_seen": "2026-09-26"
 },
+"e5cca485a956": {
+"file": "open_crucible_aetherion_academy.md",
+"check": "prose",
+"text": "em dashes: 1 (banned; AI-tells §1, R15-1-AI_TELL_CHECKS_SURVIVE)",
+"key": "e5cca485a956",
+"first_seen": "2026-10-06"
+},
+"1c88bd9db61d": {
+"file": "the_cooking_aetherion_academy.md",
+"check": "prose",
+"text": "em dashes: 1 (banned; AI-tells §1, R15-1-AI_TELL_CHECKS_SURVIVE)",
+"key": "1c88bd9db61d",
+"first_seen": "2026-10-06"
+},
 "b37c8eae40d9": {
 "file": "the_field_where_they_picked_them.md",
 "check": "prose",
@@ -1737,6 +1751,13 @@
 "key": "3a41902bf759",
 "first_seen": "2026-09-13"
 },
+"f5449b5070f2": {
+"file": "the_fight_below_aetherion_academy.md",
+"check": "prose",
+"text": "em dashes: 1 (banned; AI-tells §1, R15-1-AI_TELL_CHECKS_SURVIVE)",
+"key": "f5449b5070f2",
+"first_seen": "2026-10-06"
+},
 "0dd5cc69a8f0": {
 "file": "the_southern_passing.md",
 "check": "prose",
@@ -1786,6 +1807,13 @@
 "key": "5a232a6bbd5f",
 "first_seen": "2026-09-13"
 },
+"54127da30f5b": {
+"file": "aqua_fortis_aetherion_academy.md",
+"check": "prose",
+"text": "em dashes: 1 (banned; AI-tells §1, R15-1-AI_TELL_CHECKS_SURVIVE)",
+"key": "54127da30f5b",
+"first_seen": "2026-10-06"
+},
 "acdef0d90abe": {
 "file": "geturo_gypsum.md",
 "check": "prose",
@@ -1820,6 +1848,13 @@
 "text": "flat runs: 7 stretches of three sentences within 40% of each other (R4-14-RUN_RULE)",
 "key": "f3a12b2e3c88",
 "first_seen": "2026-09-13"
+},
+"9f36482ad567": {
+"file": "the_count_aetherion_academy.md",
+"check": "prose",
+"text": "em dashes: 1 (banned; AI-tells §1, R15-1-AI_TELL_CHECKS_SURVIVE)",
+"key": "9f36482ad567",
+"first_seen": "2026-10-06"
 },
 "13f0961f4ee1": {
 "file": "the_great_summoners_morning.md",
@@ -1877,6 +1912,13 @@
 "key": "9fdb8c3a77be",
 "first_seen": "2026-09-13"
 },
+"919beab6eb3c": {
+"file": "nirans_arrival_aetherion_academy.md",
+"check": "prose",
+"text": "em dashes: 1 (banned; AI-tells §1, R15-1-AI_TELL_CHECKS_SURVIVE)",
+"key": "919beab6eb3c",
+"first_seen": "2026-10-06"
+},
 "da4adf4997e2": {
 "file": "rovhen_the_dispensary.md",
 "check": "prose",
@@ -1897,6 +1939,20 @@
 "text": "em dashes: 1 (banned; AI-tells §1, R15-1-AI_TELL_CHECKS_SURVIVE)",
 "key": "3c0b97c7b19b",
 "first_seen": "2026-09-29"
+},
+"1fc1c7c3606d": {
+"file": "the_knots_aetherion_academy.md",
+"check": "prose",
+"text": "em dashes: 1 (banned; AI-tells §1, R15-1-AI_TELL_CHECKS_SURVIVE)",
+"key": "1fc1c7c3606d",
+"first_seen": "2026-10-06"
+},
+"270180bef846": {
+"file": "the_undercroft_aetherion_academy.md",
+"check": "prose",
+"text": "em dashes: 1 (banned; AI-tells §1, R15-1-AI_TELL_CHECKS_SURVIVE)",
+"key": "270180bef846",
+"first_seen": "2026-10-06"
 },
 "d9c74218d63c": {
 "file": "xanelor_after_the_crash.md",

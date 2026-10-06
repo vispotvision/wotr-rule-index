@@ -994,5 +994,10 @@
     "page_id": "3f158200-eb22-815f-983d-d57d787879fb",
     "title": "Niran's Arrival — Aetherion Academy",
     "hash": "8356f738fbb2e5e3"
+  },
+  "scenes/the_knots_aetherion_academy.md": {
+    "page_id": "3f158200-eb22-8147-8312-ff63be460965",
+    "title": "The Knots — Aetherion Academy",
+    "hash": "1942f59d77a476d3"
   }
 }

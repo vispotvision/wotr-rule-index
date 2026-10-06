@@ -1014,5 +1014,10 @@
     "page_id": "3f158200-eb22-8171-aec6-f9b9a75789a8",
     "title": "The Count — Aetherion Academy",
     "hash": "043975acbda64eb6"
+  },
+  "scenes/aqua_fortis_aetherion_academy.md": {
+    "page_id": "3f158200-eb22-81f3-aa23-cba5a90edfdd",
+    "title": "Aqua Fortis — Aetherion Academy",
+    "hash": "245703022210270f"
   }
 }

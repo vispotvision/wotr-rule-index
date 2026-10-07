@@ -4,7 +4,7 @@ notion_id: "3b158200-eb22-81da-b471-f9bfac2c784c"
 notion_url: "https://app.notion.com/p/Volume-I-Character-Cards-3b158200eb2281dab471f9bfac2c784c"
 section: "Characters"
 tags: []
-last_edited: "2026-10-07T01:58:00.000Z"
+last_edited: "2026-10-07T18:03:00.000Z"
 verification: null
 ---
 
@@ -297,3 +297,4 @@ verification: null
 - [Orin Farrant](Volume I — Character Cards/Orin Farrant.md)
 - [Cassian Tiberius Cruor](Volume I — Character Cards/Cassian Tiberius Cruor.md)
 - [Runa Halvardsen](Volume I — Character Cards/Runa Halvardsen.md)
+- [Severan Ostrowe · The Haemarch](Volume I — Character Cards/Severan Ostrowe · The Haemarch.md)

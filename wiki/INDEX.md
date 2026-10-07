@@ -1,6 +1,6 @@
 # War of the Realms — Wiki mirror
 
-679 pages, mirrored from Notion by build/notion_export.py. Read-only here; edit in Notion and re-run.
+680 pages, mirrored from Notion by build/notion_export.py. Read-only here; edit in Notion and re-run.
 
 ## Aberrations (1)
 
@@ -556,7 +556,7 @@
 
 - [What Things Cost](Value,%20Coin%20and%20Trade/What%20Things%20Cost.md)
 
-## Volume I — Character Cards (286)
+## Volume I — Character Cards (287)
 
 - [Adalric Vladimer Valen · The Crimson Shade](Volume%20I%20—%20Character%20Cards/Adalric%20Vladimer%20Valen%20·%20The%20Crimson%20Shade.md)
 - [Aeldoris Vanthryx · The Ruthless](Volume%20I%20—%20Character%20Cards/Aeldoris%20Vanthryx%20·%20The%20Ruthless.md)
@@ -781,6 +781,7 @@
 - [Seren Valenne · The Grey Adjudicator](Volume%20I%20—%20Character%20Cards/Seren%20Valenne%20·%20The%20Grey%20Adjudicator.md)
 - [Serenyra Vaelith · The Archmagus of the Grove-Spired Crown](Volume%20I%20—%20Character%20Cards/Serenyra%20Vaelith%20·%20The%20Archmagus%20of%20the%20Grove-Spired%20Crown.md)
 - [Seri Zeliro-Vanthe · The Lantern-Fox](Volume%20I%20—%20Character%20Cards/Seri%20Zeliro-Vanthe%20·%20The%20Lantern-Fox.md)
+- [Severan Ostrowe · The Haemarch](Volume%20I%20—%20Character%20Cards/Severan%20Ostrowe%20·%20The%20Haemarch.md)
 - [Sevrin Valeith · Maw of Nine Tongues](Volume%20I%20—%20Character%20Cards/Sevrin%20Valeith%20·%20Maw%20of%20Nine%20Tongues.md)
 - [Shael Virellion · Oracle of the Broken Mirror](Volume%20I%20—%20Character%20Cards/Shael%20Virellion%20·%20Oracle%20of%20the%20Broken%20Mirror.md)
 - [Shiragiku Iori · The Wake-Embroiderer](Volume%20I%20—%20Character%20Cards/Shiragiku%20Iori%20·%20The%20Wake-Embroiderer.md)

@@ -255,3 +255,21 @@
     cuffs.
   role: Household elder.
   last_updated: '2026-10-06'
+- name: Yrsa Venn
+  thread: Sodoku Moto
+  want: Keep the injured stranger alive long enough to learn why he carried her dead brother's belt buckle.
+  refusal_line: She will not tell Hakon what she recognised until the stranger can speak for himself.
+  knows:
+  - The brass buckle in the patient's things belonged to her brother Kol, dead two winters.
+  - She found the stranger first and moved the buckle before Hakon searched him.
+  lied_about: []
+  last_seen: null
+  voice: Quiet until crossed; then exact, with the flat insolence of someone used to being underestimated.
+  lie: She found nothing on him but the clothes he wore.
+  tell: When withholding, she bites the loose skin beside her right thumbnail.
+  doing_now: Keeping the buckle hidden inside her boot and helping warm the patient.
+  stands_with: 'Runa: warm, but ready to deceive her.'
+  look: Black hair braided close under a fur cap, narrow brown face, thick shoulders, split thumbnail
+    wrapped in wool thread.
+  role: Hunter and trapper.
+  last_updated: '2026-10-06'

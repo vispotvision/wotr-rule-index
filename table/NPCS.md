@@ -76,3 +76,11 @@
   - stands with him: Runa: respects her hands, resents her authority.
   - look: Heavy white beard cut square, flattened nose, one cloudy eye, patched hide-coat polished at both cuffs.
   - role: Household elder.
+**Yrsa Venn** · wants: Keep the injured stranger alive long enough to learn why he carried her dead brother's belt buckle. · refuses: She will not tell Hakon what she recognised until the stranger can speak for himself. · last seen: —
+  - knows: The brass buckle in the patient's things belonged to her brother Kol, dead two winters.; She found the stranger first and moved the buckle before Hakon searched him.
+  - live lie: She found nothing on him but the clothes he wore.
+  - its tell: When withholding, she bites the loose skin beside her right thumbnail.
+  - doing now: Keeping the buckle hidden inside her boot and helping warm the patient.
+  - stands with him: Runa: warm, but ready to deceive her.
+  - look: Black hair braided close under a fur cap, narrow brown face, thick shoulders, split thumbnail wrapped in wool thread.
+  - role: Hunter and trapper.

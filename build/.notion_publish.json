@@ -1044,5 +1044,10 @@
     "page_id": "3f258200-eb22-8158-be43-fe04e5037982",
     "title": "The Seam — Aetherion Academy",
     "hash": "bfe8ef0a86c79483"
+  },
+  "scenes/brennas_table_aetherion_academy.md": {
+    "page_id": "3f258200-eb22-810e-9cdc-fa4e03edae9c",
+    "title": "Brenna's Table — Aetherion Academy",
+    "hash": "2710005c3995576e"
   }
 }

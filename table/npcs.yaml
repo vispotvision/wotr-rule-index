@@ -273,3 +273,21 @@
     wrapped in wool thread.
   role: Hunter and trapper.
   last_updated: '2026-10-06'
+- name: Ottar Keld
+  thread: Sodoku Moto
+  want: Survive long enough to deliver what he knows to someone beyond the hamlet.
+  refusal_line: He will not say who sent him while Hakon Vale is in the room.
+  knows:
+  - Someone on the east road is taking winter stores from isolated households under a false crown authority.
+  - Kol Venn died connected to the same road traffic.
+  lied_about: []
+  last_seen: null
+  voice: Breath-short, educated beyond what his clothes suggest; counts time instead of people when frightened.
+  lie: He is only a drover who lost his companions in the weather.
+  tell: Before a lie he swallows once even when his mouth is dry.
+  doing_now: Half-conscious from cold injury and blood loss.
+  stands_with: Unknown to the household.
+  look: Lean man in his thirties, frost-whitened lashes, reddish beard frozen into points, right boot
+    cut open around a swollen foot, blood dried black along one side.
+  role: Injured traveller.
+  last_updated: '2026-10-06'

@@ -84,3 +84,11 @@
   - stands with him: Runa: warm, but ready to deceive her.
   - look: Black hair braided close under a fur cap, narrow brown face, thick shoulders, split thumbnail wrapped in wool thread.
   - role: Hunter and trapper.
+**Ottar Keld** · wants: Survive long enough to deliver what he knows to someone beyond the hamlet. · refuses: He will not say who sent him while Hakon Vale is in the room. · last seen: —
+  - knows: Someone on the east road is taking winter stores from isolated households under a false crown authority.; Kol Venn died connected to the same road traffic.
+  - live lie: He is only a drover who lost his companions in the weather.
+  - its tell: Before a lie he swallows once even when his mouth is dry.
+  - doing now: Half-conscious from cold injury and blood loss.
+  - stands with him: Unknown to the household.
+  - look: Lean man in his thirties, frost-whitened lashes, reddish beard frozen into points, right boot cut open around a swollen foot, blood dried black along one side.
+  - role: Injured traveller.

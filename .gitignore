@@ -48,3 +48,6 @@ build/.book.lock
 
 # the Natalie clone: this marker turns on the table hooks in .claude/settings.json
 .natalie
+
+# ChatGPT handoffs (build/mcp_server.py handoff); local only, applied by Claude
+inbox/

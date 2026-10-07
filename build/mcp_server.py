@@ -576,6 +576,10 @@ def session_start(thread: str, scene_type: str = "standard", culture: str = "Kha
     overnight = _overnight()
     if overnight:
         parts.insert(0, overnight)
+    pending = _inbox_pending()
+    if pending:
+        parts.insert(0, f"# INBOX: {len(pending)} handed off, not yet applied (call inbox; apply each, then inbox_done)\n\n"
+                     + "\n".join(f"- {p.name}" for p in pending[:20]))
     try:
         import table as _T
         parts.append("# FRONTS AS CLOCKS\n\n" + _fronts_text(thread.split("/")[0].strip().split()[0] if thread else None))
@@ -658,6 +662,92 @@ def propose_rule(title: str, rule_text: str, applies_to: list[str], rationale: s
     _git("commit", "-q", "-m", f"Propose rule: {title}\n\nFiled from Claude Desktop via WOTR MCP; pending ratification.")
     pcode, pout = _git("push", "-q", "origin", "master")
     return f"filed '{title}' as proposed; " + ("pushed" if pcode == 0 else f"push failed: {pout[-300:]}")
+
+
+# --------------------------------------------------------------------------
+# the inbox: the one write the public connector has. ChatGPT (or any read-only client)
+# leaves a file in inbox/ (gitignored, never canon); a Claude session applies it through
+# the real writers and closes it with inbox_done.
+
+INBOX = ROOT / "inbox"
+HANDOFF_KINDS = ("ledger", "ruling", "scene", "front", "npc", "character", "note")
+
+
+def _inbox_pending() -> list[Path]:
+    return sorted(INBOX.glob("*.md")) if INBOX.exists() else []
+
+
+@server.tool()
+def ask_chatgpt(prompt: str) -> str:
+    """Ask ChatGPT (Codex, on Isaac's ChatGPT plan) and get its answer back, in 10 to 90 s.
+    It works in this repo read-only, with the read-only WOTR tools: give it paths, not
+    pasted text. Use it for a second opinion, an adversarial review of a draft against the
+    rules, research that would mean many reads, or a rival take on a beat or a name. Its
+    answer is input to check, never authority, and it can save nothing."""
+    return _ask("ChatGPT", "ask_chatgpt.sh", prompt)
+
+
+@server.tool()
+def ask_claude(prompt: str) -> str:
+    """Ask Claude (on Isaac's Claude plan, as Natalie, with this repo's CLAUDE.md) and get its
+    answer back, in 10 to 120 s: the mirror of ask_chatgpt, so the two check each other.
+    Read-only: it reads the repo and the read-only WOTR tools and can save nothing. Give it
+    paths, not pasted text. Its answer is input to check, never authority."""
+    return _ask("Claude", "ask_claude.sh", prompt)
+
+
+def _ask(who: str, script: str, prompt: str) -> str:
+    try:
+        code, out = _run(["bash", str(ROOT / "build" / script), prompt], timeout=300)
+    except subprocess.TimeoutExpired:
+        return f"{who} took longer than 5 minutes; ask a narrower question"
+    return out.strip() if code == 0 else f"{who} call failed ({code}): {out.strip()[-600:]}"
+
+
+@server.tool()
+def handoff(kind: str, title: str, body: str, thread: str = "") -> str:
+    """Leave work for a Claude session to apply; nothing here touches canon. kind: ledger |
+    ruling | scene | front | npc | character | note. body: exactly what should be applied
+    (the Ledger line, the ruling with its grounds and rule ids, the full scene with author
+    notes, the card text). One handoff per write; Claude applies or declines each one."""
+    if kind not in HANDOFF_KINDS:
+        return f"unknown kind '{kind}'; use one of: {', '.join(HANDOFF_KINDS)}"
+    if not body.strip() or len(body) > 200_000:
+        return "body must be non-empty and under 200,000 characters"
+    if len(_inbox_pending()) >= 200:
+        return "the inbox holds 200 unapplied items; nothing filed until Claude clears some"
+    INBOX.mkdir(exist_ok=True)
+    p = INBOX / f"{datetime.now():%Y%m%d-%H%M%S}-{kind}-{_slug(title)[:50]}.md"
+    p.write_text(f"---\nkind: {kind}\ntitle: {json.dumps(title, ensure_ascii=False)}\n"
+                 f"thread: {json.dumps(thread, ensure_ascii=False)}\nfiled: {datetime.now().isoformat(timespec='seconds')}\n---\n\n"
+                 f"{body.strip()}\n", encoding="utf-8", newline="\n")
+    return f"left in the inbox as {p.name}; a Claude session applies it next"
+
+
+@server.tool()
+def inbox(full: bool = True) -> str:
+    """What has been handed off (handoff) and not yet applied, oldest first."""
+    items = _inbox_pending()
+    if not items:
+        return "the inbox is empty"
+    if not full:
+        return f"{len(items)} pending:\n" + "\n".join(f"- {p.name}" for p in items)
+    return f"{len(items)} pending\n\n" + "\n\n---\n\n".join(f"# {p.name}\n\n{p.read_text(encoding='utf-8')}" for p in items)
+
+
+@server.tool()
+def inbox_done(name: str, outcome: str) -> str:
+    """Close one inbox item after applying or declining it. outcome says which, and what was
+    written where (e.g. 'applied: ledger_add L-0412' or 'declined: contradicts R71-6')."""
+    p = INBOX / Path(name).name
+    if not p.is_file():
+        return f"no pending item named {name}"
+    done = INBOX / "done"
+    done.mkdir(exist_ok=True)
+    p.write_text(p.read_text(encoding="utf-8").rstrip() + f"\n\n**Outcome ({date.today().isoformat()}):** {outcome.strip()}\n",
+                 encoding="utf-8", newline="\n")
+    p.rename(done / p.name)
+    return f"closed {p.name}: {outcome.strip()}"
 
 
 # --------------------------------------------------------------------------
@@ -1831,8 +1921,10 @@ def research(question: str, model: str = "gemini-3.8-flash-high", minutes: int =
 # Tools that only read the repo (rules, the wiki mirror, scenes, the table). Every tool
 # not named here writes: scenes/, RULINGS.md, proposals/, table/*.yaml, reports/,
 # Notion pages, git commits and pushes, or runs build/sync.sh. narrate_scene writes
-# only audio files (and burns CPU on this PC), so it is allowed through.
+# only audio files (and burns CPU on this PC), so it is allowed through, and so is handoff,
+# which only drops a file in the gitignored inbox/ for a Claude session to apply.
 READ_ONLY_TOOLS = {
+    "handoff", "inbox",
     "load_rules", "rule", "natalie", "check_docket", "list_conflicts",
     "wiki", "character", "fow_line", "scene_recall",
     "session_start", "verify_scene", "codex", "codex_check", "stale_names", "scene_brief",

@@ -1,6 +1,6 @@
 # WOTR Scene Archive
 
-171 files, 916680 words.
+173 files, 922249 words.
 
 Law edition is the style law a scene was written under (R70-137): "pre-R70" is the law before 2026-10-03, precedent for events and not for prose; scenes archived from 2026-10-03 carry "R70".
 
@@ -80,6 +80,7 @@ Law edition is the style law a scene was written under (R70-137): "pre-R70" is t
 | aqua_fortis_aetherion_academy.md | 4116 | R70 |
 | aurelian_word_under_the_hammer.md | 2556 | pre-R70 |
 | balance_lesson.md | 2605 | pre-R70 |
+| brennas_table_aetherion_academy.md | 3824 | R70 |
 | commencement_of_the_curia_kujo_arc.md | 172666 | pre-R70 |
 | direction_is_not_intention.md | 3394 | pre-R70 |
 | in_form.md | 3112 | pre-R70 |
@@ -110,6 +111,7 @@ Law edition is the style law a scene was written under (R70-137): "pre-R70" is t
 | the_empty_place.md | 3736 | pre-R70 |
 | the_field_where_they_picked_them.md | 3720 | pre-R70 |
 | the_fight_below_aetherion_academy.md | 1360 | R70 |
+| the_file_aetherion_academy.md | 1745 | R70 |
 | the_full_match.md | 3548 | pre-R70 |
 | the_great_summoners_morning.md | 2455 | pre-R70 |
 | the_hand_of_the_empress.md | 3719 | pre-R70 |

@@ -1,6 +1,6 @@
 ---
 name: wotr-chatgpt
-description: How Claude and ChatGPT share War of the Realms work. Use at session start when session_start shows an INBOX block, when Isaac says "check the inbox", "what did ChatGPT send", "apply the handoffs", or pastes a "To apply" list; and whenever a task wants a second opinion, an adversarial review or bulk research that should spend his ChatGPT plan instead of Claude's ("ask ChatGPT", "ask Codex", "get a second opinion", "have ChatGPT check this").
+description: How Claude and ChatGPT share War of the Realms work, including images (chatgpt_image). Use at session start when session_start shows an INBOX block, when Isaac says "check the inbox", "what did ChatGPT send", "apply the handoffs", or pastes a "To apply" list; and whenever a task wants a second opinion, an adversarial review or bulk research that should spend his ChatGPT plan instead of Claude's ("ask ChatGPT", "ask Codex", "get a second opinion", "have ChatGPT check this"), and whenever an image, portrait, map sketch or scene illustration is wanted.
 ---
 
 # Claude and ChatGPT on one table
@@ -30,6 +30,16 @@ Give it paths, not pasted text: it reads the repo itself, and a scene not yet on
 go in the scratchpad first. Its answer is input, never authority: check it, keep what
 holds, and say in the author notes that ChatGPT was consulted and on what. No secrets in
 prompts.
+
+## Images: chatgpt_image
+
+Claude cannot draw; `chatgpt_image(prompt, name)` borrows ChatGPT's image model on the
+ChatGPT plan (30 to 120 s). The picture comes back inline, saved to `~/wotr-drafts/images/`,
+with a link under the token. Brief it like a painter: subject, setting, light, palette,
+medium, framing; WOTR looks Victorian imperial fantasy (R53-28). It letters signs and
+dials with Earth words on its own ("London" on a gauge), so ask for no text or give the
+exact WOTR words. Describe a style instead of naming a living artist, and no real
+person's likeness (Isaac's rule). Explicit content is refused by OpenAI's model.
 
 ## ChatGPT to Claude: the inbox
 

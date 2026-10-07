@@ -33,6 +33,7 @@ import hmac
 import json
 import os
 import re
+import shutil
 import unicodedata
 import subprocess
 import sys
@@ -41,7 +42,7 @@ from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 from common import ROOT, TRUE_CANON, drive_dir, load_rules, load_vocab  # noqa: E402
-from mcp.server.mcpserver import MCPServer  # noqa: E402
+from mcp.server.mcpserver import Image, MCPServer  # noqa: E402
 
 PY = sys.executable
 SCENES = ROOT / "scenes"
@@ -702,6 +703,40 @@ def _ask(who: str, script: str, prompt: str) -> str:
     except subprocess.TimeoutExpired:
         return f"{who} took longer than 5 minutes; ask a narrower question"
     return out.strip() if code == 0 else f"{who} call failed ({code}): {out.strip()[-600:]}"
+
+
+IMAGES = Path.home() / "wotr-drafts" / "images"
+
+
+@server.tool()
+def chatgpt_image(prompt: str, name: str = ""):
+    """Make one image with ChatGPT's image model (on Isaac's ChatGPT plan), in 30 to 120 s.
+    It comes back shown inline, saved to ~/wotr-drafts/images/, with a link. Describe the
+    whole picture: subject, setting, light, palette, medium, framing. WOTR's look is
+    Victorian imperial fantasy (R53-28), never Berserk or Vinland. Describe a style rather
+    than naming a living artist, and no real person's likeness (Isaac's rule: reference,
+    never copies). The model letters signs and dials on its own, with Earth names
+    (it wrote "London" on a gauge): ask for no text, or give the exact WOTR words.
+    OpenAI's model refuses explicit content. name: a short file name."""
+    start = datetime.now().timestamp() - 1
+    said = _ask("ChatGPT", "ask_chatgpt.sh", "Generate exactly one image with your image generation tool from the brief below, "
+                "then reply with only the image's file path. Write no other files.\n\n" + prompt)
+    gen = Path.home() / ".codex" / "generated_images"
+    made = sorted((p for p in gen.rglob("*") if p.suffix.lower() in (".png", ".jpg", ".jpeg", ".webp")
+                   and p.stat().st_mtime >= start), key=lambda p: p.stat().st_mtime) if gen.exists() else []
+    if not made:
+        return f"no image came back. ChatGPT said: {said[-600:]}"
+    IMAGES.mkdir(parents=True, exist_ok=True)
+    out = IMAGES / f"{datetime.now():%Y%m%d-%H%M%S}-{_slug(name or prompt)[:40]}{made[-1].suffix.lower()}"
+    shutil.copy2(made[-1], out)
+    # a ~1024 px JPEG for the chat; the full image stays on disk and behind the link
+    preview = subprocess.run(["magick", str(out), "-resize", "1024x1024>", "-quality", "85", "jpg:-"],
+                             capture_output=True).stdout
+    text = f"saved {out}"
+    if PUBLIC["base"] and PUBLIC["token"]:
+        from urllib.parse import quote
+        text += f"\nlink: {PUBLIC['base']}/t/{PUBLIC['token']}/images/{quote(out.name)}"
+    return [Image(data=preview, format="jpeg") if preview else Image(path=out), text]
 
 
 @server.tool()
@@ -1975,6 +2010,18 @@ async def _serve_audio(scope, receive, send, tail: str) -> None:
     await FileResponse(str(target), media_type=media, filename=target.name, content_disposition_type="inline")(scope, receive, send)
 
 
+async def _serve_image(scope, receive, send, name: str) -> None:
+    """GET /images/<file> under the token: one image chatgpt_image saved. Only plain file
+    names inside ~/wotr-drafts/images are reachable."""
+    from urllib.parse import unquote
+    from starlette.responses import FileResponse, PlainTextResponse
+    target = IMAGES / Path(unquote(name)).name
+    if target.suffix.lower() not in (".png", ".jpg", ".jpeg", ".webp") or not target.is_file():
+        await PlainTextResponse("not found\n", status_code=404)(scope, receive, send)
+        return
+    await FileResponse(str(target), filename=target.name, content_disposition_type="inline")(scope, receive, send)
+
+
 def with_token_gate(app, token: str, mount: str = "/mcp"):
     """ASGI wrapper: a request passes only with `Authorization: Bearer <token>` or a
     path of the form /t/<token><mount>... (rewritten to <mount>... for the inner app).
@@ -2000,6 +2047,9 @@ def with_token_gate(app, token: str, mount: str = "/mcp"):
         _log(scope, path, "ok" if (auth.lower().startswith("bearer ") and _ok(auth[7:].strip(), token))
              or (path.startswith(prefix) and _ok(path[len(prefix):].partition("/")[0], token)) else "401")
         if auth.lower().startswith("bearer ") and _ok(auth[7:].strip(), token):
+            if path.startswith("/images/"):
+                await _serve_image(scope, receive, send, path[len("/images/"):])
+                return
             if path.startswith("/audio/") or path == "/audio":
                 await _serve_audio(scope, receive, send, path[len("/audio"):])
                 return
@@ -2009,6 +2059,9 @@ def with_token_gate(app, token: str, mount: str = "/mcp"):
             rest = path[len(prefix):]
             given, _, tail = rest.partition("/")
             if _ok(given, token):
+                if tail.startswith("images/"):
+                    await _serve_image(scope, receive, send, tail[len("images/"):])
+                    return
                 if tail == "audio" or tail.startswith("audio/"):
                     await _serve_audio(scope, receive, send, tail[len("audio"):])
                     return

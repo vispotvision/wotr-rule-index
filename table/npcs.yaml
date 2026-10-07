@@ -237,3 +237,21 @@
   doing_now: Back on the porters' rota; Hob still carrying the rest of Cullen Pit (agent ruling)
   stands_with: 'Rovhen: warm and wary. Hob said half of Cullen Pit in his room and kept the rest (agent
     ruling)'
+- name: Hakon Vale
+  thread: Sodoku Moto
+  want: Keep his household alive through the Thin Weeks even if that means one outsider dies.
+  refusal_line: He will not let his grandchildren's winter stores be spent on a stranger he did not invite.
+  knows:
+  - His household woodpile is shorter than he has admitted.
+  - The patient was found on the east track before dawn.
+  lied_about: []
+  last_seen: null
+  voice: 'Low, spare, speaks in household arithmetic: bowls, cords, nights, mouths.'
+  lie: There is no more broth in the house.
+  tell: He rubs the inside of his left wrist with his thumb before giving a false count.
+  doing_now: Counting fuel and waiting for Runa to declare the stranger beyond saving.
+  stands_with: 'Runa: respects her hands, resents her authority.'
+  look: Heavy white beard cut square, flattened nose, one cloudy eye, patched hide-coat polished at both
+    cuffs.
+  role: Household elder.
+  last_updated: '2026-10-06'

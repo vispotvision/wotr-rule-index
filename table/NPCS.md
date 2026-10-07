@@ -65,3 +65,14 @@
   - its tell: Hob rubs his thumb along the grain of the bench, and Dunstan looks to him and he does not look back (Rovhen: The First Lecture) (agent ruling)
   - doing now: Back on the porters' rota; Hob still carrying the rest of Cullen Pit (agent ruling)
   - stands with him: Rovhen: warm and wary. Hob said half of Cullen Pit in his room and kept the rest (agent ruling)
+
+## Sodoku Moto
+
+**Hakon Vale** · wants: Keep his household alive through the Thin Weeks even if that means one outsider dies. · refuses: He will not let his grandchildren's winter stores be spent on a stranger he did not invite. · last seen: —
+  - knows: His household woodpile is shorter than he has admitted.; The patient was found on the east track before dawn.
+  - live lie: There is no more broth in the house.
+  - its tell: He rubs the inside of his left wrist with his thumb before giving a false count.
+  - doing now: Counting fuel and waiting for Runa to declare the stranger beyond saving.
+  - stands with him: Runa: respects her hands, resents her authority.
+  - look: Heavy white beard cut square, flattened nose, one cloudy eye, patched hide-coat polished at both cuffs.
+  - role: Household elder.

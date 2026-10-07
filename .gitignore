@@ -51,3 +51,11 @@ build/.book.lock
 
 # ChatGPT handoffs (build/mcp_server.py handoff); local only, applied by Claude
 inbox/
+
+# per-machine copies the ChatGPT app makes for Codex (.agents/skills links to .claude/skills)
+.agents/
+.codex/
+
+# the read-only route (wotr-mcp-readonly.service, Funnel path /ro)
+build/.mcp_token_ro
+build/mcp_readonly.log

@@ -1,0 +1,31 @@
+# wotr-mcp-readonly.service — the WOTR MCP for friends.
+#
+# build/mcp_server.py --public (HTTP, READ_ONLY_TOOLS, shared secret) on 127.0.0.1:8767,
+# with its own secret in build/.mcp_token_ro, published by Tailscale Funnel at the path
+# /ro (Funnel strips the /ro before proxying):
+#     https://<machine>.<tailnet>.ts.net/ro/t/<ro token>/mcp
+# Nothing a friend does through it can write to the repo, the table, Notion or git, or
+# spend Isaac's ChatGPT or Claude plans; handoff is the one write, a file in the
+# gitignored inbox/ that a Claude session reviews. Isaac's own full-tools route is
+# wotr-mcp-public.service; rotating one secret never touches the other.
+#
+# Installed by hand on 2026-10-06 (cp to ~/.config/systemd/user, enable --now, then
+# `tailscale funnel --bg --set-path /ro 8767`). Exit 2 is the missing-secret refusal, as
+# on the public unit. Logs: build/mcp_readonly.log.
+
+[Unit]
+Description=WOTR MCP, read-only, its own shared secret; Tailscale Funnel path /ro
+
+[Service]
+TimeoutStopSec=5
+Type=simple
+WorkingDirectory=%h/wotr-rule-index
+EnvironmentFile=-%h/.config/wotr/env
+Environment=PYTHONIOENCODING=utf-8
+ExecStart=/bin/bash %h/wotr-rule-index/build/py.sh build/mcp_server.py --public --port 8767 --token-file build/.mcp_token_ro --base-url https://ultron.tailf1bfa3.ts.net/ro --log build/mcp_readonly.log
+Restart=on-failure
+RestartSec=30
+RestartPreventExitStatus=2
+
+[Install]
+WantedBy=default.target

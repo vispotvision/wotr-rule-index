@@ -1944,7 +1944,11 @@ def restrict_to_read_only() -> list[str]:
     return removed
 
 
-def shared_token() -> str:
+def shared_token(token_file: Path | None = None) -> str:
+    """WOTR_MCP_TOKEN, else build/.mcp_token. A --token-file (the read-only route's
+    build/.mcp_token_ro) is read alone: the environment variable is the main secret."""
+    if token_file:
+        return token_file.read_text(encoding="utf-8").strip() if token_file.exists() else ""
     tok = _env().get("WOTR_MCP_TOKEN", "").strip()
     if not tok and TOKEN_FILE.exists():
         tok = TOKEN_FILE.read_text(encoding="utf-8").strip()
@@ -2030,6 +2034,7 @@ def main() -> int:
     ap.add_argument("--read-only", action="store_true", help="expose only the tools that read the repo")
     ap.add_argument("--token", action="store_true",
                     help="require the shared secret (WOTR_MCP_TOKEN or build/.mcp_token) on every HTTP request")
+    ap.add_argument("--token-file", type=Path, help="read the shared secret from this file only (the read-only route)")
     ap.add_argument("--public", action="store_true", help="shorthand for --http --read-only --token")
     ap.add_argument("--base-url", default=os.environ.get("WOTR_MCP_PUBLIC_URL", "https://ultron.tailf1bfa3.ts.net"),
                     help="where this server is reachable from outside (the Funnel hostname); used to build audio links")
@@ -2066,7 +2071,7 @@ def main() -> int:
                                              allowed_origins=[f"http://{h}" for h in loopback])
         server.run(transport="streamable-http", host="127.0.0.1", port=args.port, transport_security=security)
         return 0
-    token = shared_token()
+    token = shared_token(ROOT / args.token_file if args.token_file and not args.token_file.is_absolute() else args.token_file)
     if len(token) < 16:
         print("no shared secret: set WOTR_MCP_TOKEN or write build/.mcp_token (run build/mcp_public_setup.sh)",
               file=sys.stderr, flush=True)

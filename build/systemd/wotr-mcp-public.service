@@ -1,11 +1,12 @@
 # wotr-mcp-public.service — was the logon task "WOTR MCP public"
 # (build/mcp_public_setup.ps1: hidden, restarted itself five times a minute apart).
 #
-# The WOTR MCP shared with friends: build/mcp_server.py --public on 127.0.0.1:8765 —
-# read-only tools only (READ_ONLY_TOOLS), the shared secret from build/.mcp_token
-# required on every request — published as https://<machine>.<tailnet>.ts.net/ by
-# Tailscale Funnel. Nothing a friend does through it can write to the repo, the table,
-# Notion, or git.
+# Isaac's own WOTR MCP from anywhere: build/mcp_server.py --http --token on
+# 127.0.0.1:8765 — FULL tools (writers, ask_chatgpt, ask_claude; his call, 2026-09-26 and
+# 2026-10-06), the shared secret from build/.mcp_token required on every request —
+# published as https://<machine>.<tailnet>.ts.net/ by Tailscale Funnel. Claude on the
+# web and phone and ChatGPT use it. Friends get wotr-mcp-readonly.service (path /ro,
+# its own secret) instead: this token can write canon and spend both plans.
 #
 # NOT enabled by build/systemd_setup.sh: build/mcp_public_setup.sh enables and starts
 # this unit after it has written the secret and opened the funnel, so the server never
@@ -19,7 +20,7 @@
 # Logs: journalctl --user -u wotr-mcp-public, and build/mcp_public.log (--log below).
 
 [Unit]
-Description=WOTR MCP, read-only, shared secret required; published by Tailscale Funnel
+Description=WOTR MCP, full tools, shared secret required; published by Tailscale Funnel
 
 [Service]
 TimeoutStopSec=5
@@ -27,7 +28,7 @@ Type=simple
 WorkingDirectory=%h/wotr-rule-index
 EnvironmentFile=-%h/.config/wotr/env
 Environment=PYTHONIOENCODING=utf-8
-ExecStart=/bin/bash %h/wotr-rule-index/build/py.sh build/mcp_server.py --public --port 8765 --log build/mcp_public.log
+ExecStart=/bin/bash %h/wotr-rule-index/build/py.sh build/mcp_server.py --http --token --port 8765 --log build/mcp_public.log
 Restart=on-failure
 RestartSec=30
 RestartPreventExitStatus=2

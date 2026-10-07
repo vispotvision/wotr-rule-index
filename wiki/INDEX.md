@@ -1,6 +1,6 @@
 # War of the Realms — Wiki mirror
 
-678 pages, mirrored from Notion by build/notion_export.py. Read-only here; edit in Notion and re-run.
+679 pages, mirrored from Notion by build/notion_export.py. Read-only here; edit in Notion and re-run.
 
 ## Aberrations (1)
 
@@ -556,7 +556,7 @@
 
 - [What Things Cost](Value,%20Coin%20and%20Trade/What%20Things%20Cost.md)
 
-## Volume I — Character Cards (285)
+## Volume I — Character Cards (286)
 
 - [Adalric Vladimer Valen · The Crimson Shade](Volume%20I%20—%20Character%20Cards/Adalric%20Vladimer%20Valen%20·%20The%20Crimson%20Shade.md)
 - [Aeldoris Vanthryx · The Ruthless](Volume%20I%20—%20Character%20Cards/Aeldoris%20Vanthryx%20·%20The%20Ruthless.md)
@@ -761,6 +761,7 @@
 - [Riven Eltamyr Vonnel · The Glaive](Volume%20I%20—%20Character%20Cards/Riven%20Eltamyr%20Vonnel%20·%20The%20Glaive.md)
 - [Robin Ice — The Bastard Runner](Volume%20I%20—%20Character%20Cards/Robin%20Ice%20—%20The%20Bastard%20Runner.md)
 - [Rovhen Talvasciel · The Inquiry Agent](Volume%20I%20—%20Character%20Cards/Rovhen%20Talvasciel%20·%20The%20Inquiry%20Agent.md)
+- [Runa Halvardsen](Volume%20I%20—%20Character%20Cards/Runa%20Halvardsen.md)
 - [Ryuka Yukari · The Little Wayfinder](Volume%20I%20—%20Character%20Cards/Ryuka%20Yukari%20·%20The%20Little%20Wayfinder.md)
 - [Sadamu, called Futakoto — Two Words](Volume%20I%20—%20Character%20Cards/Sadamu,%20called%20Futakoto%20—%20Two%20Words.md)
 - [Saetsha Bloomveil · The Pink Tempest](Volume%20I%20—%20Character%20Cards/Saetsha%20Bloomveil%20·%20The%20Pink%20Tempest.md)

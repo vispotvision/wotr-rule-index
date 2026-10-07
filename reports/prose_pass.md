@@ -1,10 +1,10 @@
 # Prose-law pass over the scene archive
-_Run 2026-10-06_
+_Run 2026-10-07_
 
 
 Every FAIL is a hard rule; every WARN needs a read. Nothing was edited. Run `verify_scene` on a scene before revising it.
 
-197 scenes: 286 FAIL, 891 WARN.
+202 scenes: 291 FAIL, 900 WARN.
 
 | scene | FAIL | WARN |
 |---|---|---|
@@ -95,6 +95,7 @@ Every FAIL is a hard rule; every WARN needs a read. Nothing was edited. Run `ver
 | 03_verinus_wall_between_the_safeguarded.md | 1 | 3 |
 | 23_darius_the_fist_of_totality.md | 1 | 3 |
 | Six_Crows_vs_Black_Dragon.md | 1 | 3 |
+| brennas_table_aetherion_academy.md | 1 | 3 |
 | geturo_ignite_tide.md | 1 | 3 |
 | hiromi_something_special.md | 1 | 3 |
 | rovhen_after_the_lecture.md | 1 | 3 |
@@ -113,8 +114,10 @@ Every FAIL is a hard rule; every WARN needs a read. Nothing was edited. Run `ver
 | hiromi_the_picnic.md | 1 | 2 |
 | mujins_interjection_aetherion_arena.md | 1 | 2 |
 | rovhen_the_letter.md | 1 | 2 |
+| shared_wounds_aetherion_academy.md | 1 | 2 |
 | sodoku_the_count_supply_report.md | 1 | 2 |
 | the_count_aetherion_academy.md | 1 | 2 |
+| the_file_aetherion_academy.md | 1 | 2 |
 | the_great_summoners_morning.md | 1 | 2 |
 | xanelor_seven_days.md | 1 | 2 |
 | xanelor_the_bullet_train.md | 1 | 2 |
@@ -128,6 +131,8 @@ Every FAIL is a hard rule; every WARN needs a read. Nothing was edited. Run `ver
 | rovhen_the_first_lecture.md | 1 | 1 |
 | shioris_findings_aetherion_arena.md | 1 | 1 |
 | the_knots_aetherion_academy.md | 1 | 1 |
+| the_regent_aetherion_academy.md | 1 | 1 |
+| the_seam_aetherion_academy.md | 1 | 1 |
 | the_undercroft_aetherion_academy.md | 1 | 1 |
 | xanelor_after_the_crash.md | 1 | 1 |
 | xanelor_juggernauts_fist.md | 1 | 1 |
@@ -463,7 +468,7 @@ Every FAIL is a hard rule; every WARN needs a read. Nothing was edited. Run `ver
 - FAIL em dashes: 263 (banned; AI-tells §1, R15-1-AI_TELL_CHECKS_SURVIVE)
 - FAIL antithesis 'not X but Y': "Not a patch. A deliberate concealment." (R49-40-NOT_X_Y; AI-tells §1)
 - FAIL three consecutive sentences over 25 words (R4-14-CHAIN_CEILING)
-- FAIL flat runs: 47 stretches of three sentences within 40% of each other (R4-14-RUN_RULE)
+- FAIL flat runs: 46 stretches of three sentences within 40% of each other (R4-14-RUN_RULE)
 - FAIL sentences under 8 words: 8% of scene, floor is 18% (R4-14-HARD_CEILINGS)
 - WARN emotional signposting: "who was afraid" (AI-tells §4)
 - WARN modern word in narration: "boundaries" in "...ous stretch ending the night Muken dies; the file boundaries cut across it. Part 2's first..." (R48-13-PERIOD_FEEL, R49-44-MODERN_FLAGS; science sense is exempt, R49-45)
@@ -1232,6 +1237,12 @@ Every FAIL is a hard rule; every WARN needs a read. Nothing was edited. Run `ver
 - WARN paragraphs closing on three sentences over 18 words: 1 (R4-14-HARD_CEILINGS says 0)
 - WARN length 1129 words, outside the standard band 2500–4500 (Table Rule 2)
 
+## brennas_table_aetherion_academy.md
+- FAIL em dashes: 1 (banned; AI-tells §1, R15-1-AI_TELL_CHECKS_SURVIVE)
+- WARN paragraphs closing on three sentences over 18 words: 1 (R4-14-HARD_CEILINGS says 0)
+- WARN length 3653 words, outside the set-piece band 5000–∞ (Table Rule 2)
+- WARN figure carried between exchanges: 2 paragraphs carry a reserve figure (EU, AU/s, eta), first "...*2,600,000 EU across bo..."; read whether it runs a count (R70-88-NUMBERS_INSIDE_FIGHT, R71-103-COMBAT_CHECKS_VERIFY_SCENE)
+
 ## geturo_ignite_tide.md
 - FAIL em dashes: 1 (banned; AI-tells §1, R15-1-AI_TELL_CHECKS_SURVIVE)
 - WARN modern word in narration: "cool" in "...over the patch went thin. Hot air is lighter than cool air, and light moves through..." (R48-13-PERIOD_FEEL, R49-44-MODERN_FLAGS; science sense is exempt, R49-45)
@@ -1329,6 +1340,11 @@ Every FAIL is a hard rule; every WARN needs a read. Nothing was edited. Run `ver
 - WARN Earth calendar word: "Sunday" in "...urn at the ninth. He was found at the bottom on a Sunday morning by the boy who takes..." (R51-08-CALENDAR; use the culture's own span)
 - WARN length 1240 words, outside the standard band 2500–4500 (Table Rule 2)
 
+## shared_wounds_aetherion_academy.md
+- FAIL em dashes: 1 (banned; AI-tells §1, R15-1-AI_TELL_CHECKS_SURVIVE)
+- WARN question in narration (hypophora?): "*Was that the Open Crucible?" (R49-41-QUESTIONS)
+- WARN length 2885 words, outside the set-piece band 5000–∞ (Table Rule 2)
+
 ## sodoku_the_count_supply_report.md
 - FAIL flat runs: 7 stretches of three sentences within 40% of each other (R4-14-RUN_RULE)
 - WARN length 2727 words, outside the set-piece band 5000–∞ (Table Rule 2)
@@ -1338,6 +1354,11 @@ Every FAIL is a hard rule; every WARN needs a read. Nothing was edited. Run `ver
 - FAIL em dashes: 1 (banned; AI-tells §1, R15-1-AI_TELL_CHECKS_SURVIVE)
 - WARN paragraphs closing on three sentences over 18 words: 1 (R4-14-HARD_CEILINGS says 0)
 - WARN length 3727 words, outside the set-piece band 5000–∞ (Table Rule 2)
+
+## the_file_aetherion_academy.md
+- FAIL em dashes: 1 (banned; AI-tells §1, R15-1-AI_TELL_CHECKS_SURVIVE)
+- WARN paragraphs closing on three sentences over 18 words: 1 (R4-14-HARD_CEILINGS says 0)
+- WARN length 1607 words, outside the standard band 2500–4500 (Table Rule 2)
 
 ## the_great_summoners_morning.md
 - FAIL three consecutive sentences over 25 words (R4-14-CHAIN_CEILING)
@@ -1395,6 +1416,14 @@ Every FAIL is a hard rule; every WARN needs a read. Nothing was edited. Run `ver
 ## the_knots_aetherion_academy.md
 - FAIL em dashes: 1 (banned; AI-tells §1, R15-1-AI_TELL_CHECKS_SURVIVE)
 - WARN length 1476 words, outside the standard band 2500–4500 (Table Rule 2)
+
+## the_regent_aetherion_academy.md
+- FAIL em dashes: 1 (banned; AI-tells §1, R15-1-AI_TELL_CHECKS_SURVIVE)
+- WARN length 1965 words, outside the standard band 2500–4500 (Table Rule 2)
+
+## the_seam_aetherion_academy.md
+- FAIL em dashes: 1 (banned; AI-tells §1, R15-1-AI_TELL_CHECKS_SURVIVE)
+- WARN length 3405 words, outside the set-piece band 5000–∞ (Table Rule 2)
 
 ## the_undercroft_aetherion_academy.md
 - FAIL em dashes: 1 (banned; AI-tells §1, R15-1-AI_TELL_CHECKS_SURVIVE)

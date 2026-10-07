@@ -1,5 +1,5 @@
 {
-"run": "2026-10-06T03:30:00",
+"run": "2026-10-07T03:30:00",
 "findings": {
 "0e0f61e9722d": {
 "file": "commencement_of_the_curia_kujo_arc.md",
@@ -470,12 +470,12 @@
 "key": "f09c82a2c200",
 "first_seen": "2026-09-23"
 },
-"90508fa0ced1": {
+"9e3cdeb9099b": {
 "file": "CONTINUITY.md",
 "check": "prose",
-"text": "flat runs: 47 stretches of three sentences within 40% of each other (R4-14-RUN_RULE)",
-"key": "90508fa0ced1",
-"first_seen": "2026-10-06"
+"text": "flat runs: 46 stretches of three sentences within 40% of each other (R4-14-RUN_RULE)",
+"key": "9e3cdeb9099b",
+"first_seen": "2026-10-07"
 },
 "2f5f71ecdfe7": {
 "file": "CONTINUITY.md",
@@ -1716,6 +1716,13 @@
 "key": "bc1063319ddb",
 "first_seen": "2026-09-13"
 },
+"1b866d2a86b8": {
+"file": "brennas_table_aetherion_academy.md",
+"check": "prose",
+"text": "em dashes: 1 (banned; AI-tells §1, R15-1-AI_TELL_CHECKS_SURVIVE)",
+"key": "1b866d2a86b8",
+"first_seen": "2026-10-07"
+},
 "52a0379b76cc": {
 "file": "geturo_ignite_tide.md",
 "check": "prose",
@@ -1842,6 +1849,13 @@
 "key": "70a53a064e25",
 "first_seen": "2026-09-28"
 },
+"1efdd8fb48bc": {
+"file": "shared_wounds_aetherion_academy.md",
+"check": "prose",
+"text": "em dashes: 1 (banned; AI-tells §1, R15-1-AI_TELL_CHECKS_SURVIVE)",
+"key": "1efdd8fb48bc",
+"first_seen": "2026-10-07"
+},
 "f3a12b2e3c88": {
 "file": "sodoku_the_count_supply_report.md",
 "check": "prose",
@@ -1855,6 +1869,13 @@
 "text": "em dashes: 1 (banned; AI-tells §1, R15-1-AI_TELL_CHECKS_SURVIVE)",
 "key": "9f36482ad567",
 "first_seen": "2026-10-06"
+},
+"537bcfcb6c2a": {
+"file": "the_file_aetherion_academy.md",
+"check": "prose",
+"text": "em dashes: 1 (banned; AI-tells §1, R15-1-AI_TELL_CHECKS_SURVIVE)",
+"key": "537bcfcb6c2a",
+"first_seen": "2026-10-07"
 },
 "13f0961f4ee1": {
 "file": "the_great_summoners_morning.md",
@@ -1946,6 +1967,20 @@
 "text": "em dashes: 1 (banned; AI-tells §1, R15-1-AI_TELL_CHECKS_SURVIVE)",
 "key": "1fc1c7c3606d",
 "first_seen": "2026-10-06"
+},
+"9d7b0874c987": {
+"file": "the_regent_aetherion_academy.md",
+"check": "prose",
+"text": "em dashes: 1 (banned; AI-tells §1, R15-1-AI_TELL_CHECKS_SURVIVE)",
+"key": "9d7b0874c987",
+"first_seen": "2026-10-07"
+},
+"9cb3ba1a5944": {
+"file": "the_seam_aetherion_academy.md",
+"check": "prose",
+"text": "em dashes: 1 (banned; AI-tells §1, R15-1-AI_TELL_CHECKS_SURVIVE)",
+"key": "9cb3ba1a5944",
+"first_seen": "2026-10-07"
 },
 "270180bef846": {
 "file": "the_undercroft_aetherion_academy.md",

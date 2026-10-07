@@ -5065,7 +5065,7 @@
     "pack_number": null,
     "section": "B",
     "title": "The field format replaces the Design Chain and the six-line card",
-    "status": "live",
+    "status": "superseded",
     "kind": "mandate",
     "summary": "New abilities use the field format, in the same look as the card top (Summary card, Codex line, FOW line, Origin): plain headings, short one-line **Field** · value entries in the Physics, Metaphysics, Mechanism, Essence and Counterplay b...",
     "verbatim": "New abilities use the field format, in the same look as the card top (Summary card, Codex line, FOW line, Origin): plain headings, short one-line **Field** · value entries in the Physics, Metaphysics, Mechanism, Essence and Counterplay blocks, a table for the numbers, and very little prose. The Design Chain and the six-line card are retired as page formats.",
@@ -5093,8 +5093,10 @@
       "file": "",
       "lines": null
     },
-    "notes": "Recorded in RULINGS.md under 2026-09-26 — Ability Law (R47). Corrected 2026-09-27 by the ruling audit (RULINGS.md, ruling-audit-2026-09-27) to state exactly what Isaac chose.",
-    "superseded_by": []
+    "notes": "Recorded in RULINGS.md under 2026-09-26 — Ability Law (R47). Corrected 2026-09-27 by the ruling audit (RULINGS.md, ruling-audit-2026-09-27) to state exactly what Isaac chose. Superseded 2026-10-05 by R76-4-PARAGRAPH_IS_PAGE (the ability-format questionnaire); every ability is now one name and one paragraph, and that paragraph is the whole page.",
+    "superseded_by": [
+      "R76-4-PARAGRAPH_IS_PAGE"
+    ]
   },
   {
     "id": "R47-3-COUNTERS_AS_FACTS",
@@ -36366,7 +36368,7 @@
     "pack_number": null,
     "section": "TE10",
     "title": "A Trait entry carries a founding sentence, a rigidity line and its offices",
-    "status": "live",
+    "status": "superseded",
     "kind": "mandate",
     "summary": "Beside its Lattice property, every Trait entry carries its founding sentence in the bearer's words, a rigidity line stating as fact what the bearer cannot safely contradict, and the offices it holds, its Permission line listing the signatures it allows.",
     "verbatim": "Yes to: Founding sentence (The statement the Continuum accepted, in the bearer's words, yours to write for your characters as in TE11. Denying it is the Shear Break, so every Trait carries a findable counter); Rigidity line (What the bearer cannot safely contradict, as a fact. NPCs play it on the page; for your characters it stays a fact for you to play); Offices held (Which of Bias, Permission, Nucleation and Ceiling it serves; a Permission line lists the signatures it allows).",
@@ -36393,8 +36395,10 @@
       "file": "",
       "lines": null
     },
-    "notes": "TE10, options A, B and C, all recommended; D, the bodily mark and the condition that shows it, was not taken, so the entry gains no mark line and R10-3-TRAITUS_SHAPE stands. Partly amends R17-5-TRAIT_SCOPE: a Trait entry still names the Lattice property altered, and now also carries these three lines. Denying the founding sentence is the Shear Break, so every Trait carries a findable counter, written as a fact (R47-3-COUNTERS_AS_FACTS, standing); Isaac writes it for his own characters 'as in TE11' (R75-18-HOW_TRAIT_EVOLVES). The rigidity line is played on the page for NPCs and stays a fact Isaac plays for his own characters (R49-01-WHOSE_HEAD, standing). The four offices are canon's: Bias, Permission, Nucleation and Ceiling. The Permission line ties signatures (R75-1-WHERE_TECHNIQUE_WRITTEN, R75-5-TECHNIQUES_ON_CRYSTAL) to their Trait.",
-    "superseded_by": []
+    "notes": "TE10, options A, B and C, all recommended; D, the bodily mark and the condition that shows it, was not taken, so the entry gains no mark line and R10-3-TRAITUS_SHAPE stands. Partly amends R17-5-TRAIT_SCOPE: a Trait entry still names the Lattice property altered, and now also carries these three lines. Denying the founding sentence is the Shear Break, so every Trait carries a findable counter, written as a fact (R47-3-COUNTERS_AS_FACTS, standing); Isaac writes it for his own characters 'as in TE11' (R75-18-HOW_TRAIT_EVOLVES). The rigidity line is played on the page for NPCs and stays a fact Isaac plays for his own characters (R49-01-WHOSE_HEAD, standing). The four offices are canon's: Bias, Permission, Nucleation and Ceiling. The Permission line ties signatures (R75-1-WHERE_TECHNIQUE_WRITTEN, R75-5-TECHNIQUES_ON_CRYSTAL) to their Trait. Superseded 2026-10-05 by R76-3-WHAT_PARAGRAPH_HOLDS (the ability-format questionnaire): the belief is left implied, and offices and the Lattice property appear only where they read naturally.",
+    "superseded_by": [
+      "R76-3-WHAT_PARAGRAPH_HOLDS"
+    ]
   },
   {
     "id": "R75-18-HOW_TRAIT_EVOLVES",
@@ -36896,7 +36900,7 @@
     "pack_number": null,
     "section": "CH7",
     "title": "One estimate mark on a card: '(est.)'",
-    "status": "live",
+    "status": "superseded",
     "kind": "mandate",
     "summary": "A card marks a figure canon does not supply with the one inline mark '(est.)' after the figure and nothing more, the six marking styles in use collapsing into that one.",
     "verbatim": "Tag it inline. One mark, '(est.)', after the figure and nothing more; the six styles collapse into one.",
@@ -36918,8 +36922,10 @@
       "file": "",
       "lines": null
     },
-    "notes": "CH7. Options B (a Derived figures footer), C (the instrument's hedge on the card) and D (estimates kept off the card) were not taken. The six styles run from '~850' to 'Incomplete in the Record' (the question's context); the sweep applies the one mark to every card (R75-44-WHAT_JOINS_CARD_SWEEP). Partly amends R14-2-ESTIMATE_MARKING: a figure no sheet supplies may print on the card, marked '(est.)'; R14-2's documented range for the Stage and Band still bounds it, and a scene that uses it still logs it in its author notes. R70-99-NUMBER_NOT_YET_CANON governs a readout's instrument hedge and stands. R20C-34-ESTIMATES_CANON_ON_USE stands: the estimate is canon on use and a source value beats it on contact, so a source figure replaces the mark when it arrives. R12-5-NEVER_INVENT_NUMBER and R56-8-LEVEL_LAW_SETS_RESERVE_BAND stand. How a bearer's exact Crystal line shows an estimate, which R70-78-WHERE_SCREEN_COMES_FROM left for the conflict log, is not answered here. The tool texts that write 'pending Isaac' or 'marked pending' into a card (convert_character, create_character) are owed the rewrite (R75-43-WHERE_TECHNIQUE_LAW_LANDS).",
-    "superseded_by": []
+    "notes": "CH7. Options B (a Derived figures footer), C (the instrument's hedge on the card) and D (estimates kept off the card) were not taken. The six styles run from '~850' to 'Incomplete in the Record' (the question's context); the sweep applies the one mark to every card (R75-44-WHAT_JOINS_CARD_SWEEP). Partly amends R14-2-ESTIMATE_MARKING: a figure no sheet supplies may print on the card, marked '(est.)'; R14-2's documented range for the Stage and Band still bounds it, and a scene that uses it still logs it in its author notes. R70-99-NUMBER_NOT_YET_CANON governs a readout's instrument hedge and stands. R20C-34-ESTIMATES_CANON_ON_USE stands: the estimate is canon on use and a source value beats it on contact, so a source figure replaces the mark when it arrives. R12-5-NEVER_INVENT_NUMBER and R56-8-LEVEL_LAW_SETS_RESERVE_BAND stand. How a bearer's exact Crystal line shows an estimate, which R70-78-WHERE_SCREEN_COMES_FROM left for the conflict log, is not answered here. The tool texts that write 'pending Isaac' or 'marked pending' into a card (convert_character, create_character) are owed the rewrite (R75-43-WHERE_TECHNIQUE_LAW_LANDS). Superseded 2026-10-06 by R76-6-NO_EST_MARK; no figure carries an estimate mark.",
+    "superseded_by": [
+      "R76-6-NO_EST_MARK"
+    ]
   },
   {
     "id": "R75-32-NEW_VOICE_BLOCK_SLOTS",
@@ -37646,6 +37652,222 @@
       "lines": null
     },
     "notes": "TE2. Both figures are set on the card and never invented (R12-5-NEVER_INVENT_NUMBER). The Readiness bought is the card figure R71-28-DECIDES_CASTING_SPEED reads, which stands. A clipped chant is still voice, so R20C-42-LAW_V_STAGE_GATE_REFRACTION's medium below Refraction stands, and R71-27-SPOKEN_WORKING_EXCHANGE still cuts the chant into the exchange. The release call (R8-24-RELEASE_MECHANIC) stays a separate lever on output. The chant stays in the caster's own tongue on the page (R50-26-CHANT_TONGUE, R51-28-CHANT_PAGE). No older rule is reached.",
+    "superseded_by": []
+  },
+  {
+    "id": "R76-1-ONE_NAME_ONE_PARAGRAPH",
+    "pack": "Ability Format 2026-10-05",
+    "pack_number": null,
+    "section": "Q1, Q2, Q7",
+    "title": "Every ability is one name and one paragraph",
+    "status": "live",
+    "kind": "mandate",
+    "summary": "Write every ability, Trait, technique, signature, school art and bloodline faculty alike, as one simple name in capitals (with a short gloss after it where the character has a naming register), its kind in brackets, then a single paragraph of whatever length it needs.",
+    "verbatim": "EVERY ability (Traits, techniques, signatures, school arts, bloodline faculties) is written as one simple name in caps, with a short gloss after it for characters with a naming register (e.g. KUSARI · the Rot), then its kind in brackets, then ONE paragraph of any length.",
+    "amends": [
+      {
+        "guide": "WOTR_Ability_Technique_Design_Guide.md",
+        "locus": "entry format, Traits and techniques",
+        "operation": "replaces"
+      },
+      {
+        "guide": "character sheet template",
+        "locus": "Traits and Techniques sections",
+        "operation": "replaces"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "magic-design",
+      "codex",
+      "character-sheet",
+      "documents"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-10-05, Claude Code chat: ruled directly (the ability-format questionnaire)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "Q1 every ability (recommended), Q2 as long as it needs (no cap), Q7 one word plus a gloss by culture. Model entry: Isaac's FERMENT (Primary Trait) for Malphas. Naming by character stands (Malphas plain English, Mu-jin Latin with gloss); R50 naming law stands. R75-1-WHERE_TECHNIQUE_WRITTEN stands on where an entry lives and how it is priced; only its field-format clause is replaced.",
+    "superseded_by": []
+  },
+  {
+    "id": "R76-2-FIGURES_INLINE",
+    "pack": "Ability Format 2026-10-05",
+    "pack_number": null,
+    "section": "Q3",
+    "title": "The paragraph carries full LitRPG figures",
+    "status": "superseded",
+    "kind": "mandate",
+    "summary": "Put the full figures inline in the paragraph, EU, share of reserve, Grade, speed and energy, with every estimate marked (est.).",
+    "verbatim": "The paragraph carries full LitRPG figures inline (EU, % of reserve, Grade, m/s, joules; estimates marked (est.)).",
+    "amends": [
+      {
+        "guide": "WOTR_Ability_Technique_Design_Guide.md",
+        "locus": "entry format, numbers",
+        "operation": "replaces"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "magic-design",
+      "stats",
+      "character-sheet"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-10-05, Claude Code chat: ruled directly (the ability-format questionnaire)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "Q3. R12-5-NEVER_INVENT_NUMBER and R75-31's (est.) mark stand; a figure with a source is taken from it. R47-4-LEDGER_COSTS stands for how costs are priced. Superseded 2026-10-06 by R76-6-NO_EST_MARK; figures stay inline, the (est.) mark is gone.",
+    "superseded_by": [
+      "R76-6-NO_EST_MARK"
+    ]
+  },
+  {
+    "id": "R76-3-WHAT_PARAGRAPH_HOLDS",
+    "pack": "Ability Format 2026-10-05",
+    "pack_number": null,
+    "section": "Q4, Q5",
+    "title": "Cost, limit and counter always; the belief implied; the rest where it reads",
+    "status": "live",
+    "kind": "mandate",
+    "summary": "Every paragraph states the ability's cost, limit and counter; the bearer's founding belief is left implied rather than quoted, and offices, Lattice property and nucleation appear only where they read naturally.",
+    "verbatim": "Belief/founding sentence is left implied, not quoted. Cost, limit and counter are always in the paragraph; offices, Lattice property and nucleation only where they read naturally.",
+    "amends": [
+      {
+        "guide": "WOTR_Ability_Technique_Design_Guide.md",
+        "locus": "§5, Traits",
+        "operation": "replaces"
+      }
+    ],
+    "supersedes": [
+      "R75-17-TRAIT_ENTRY_CARRIES"
+    ],
+    "applies_to": [
+      "magic-design",
+      "character-sheet"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-10-05, Claude Code chat: ruled directly (the ability-format questionnaire)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "Q4 only what fits, Q5 left implied. Supersedes R75-17-TRAIT_ENTRY_CARRIES, whose founding sentence, rigidity line and offices were required lines. Partly amends R17-5-TRAIT_SCOPE: the Lattice property is still designed for every Trait but shows on the page only where it reads naturally. The belief still exists in the design, so the Shear Break counter stands (Part Twenty). R75-16-WHO_WRITES_PC_TRAIT and R75-18-HOW_TRAIT_EVOLVES stand. R47-3-COUNTERS_AS_FACTS stands: counters and tells are stated as facts.",
+    "superseded_by": []
+  },
+  {
+    "id": "R76-4-PARAGRAPH_IS_PAGE",
+    "pack": "Ability Format 2026-10-05",
+    "pack_number": null,
+    "section": "Q6",
+    "title": "The paragraph is the whole page and the whole card entry",
+    "status": "live",
+    "kind": "mandate",
+    "summary": "Publish the name, kind and paragraph as the ability's Notion page and card entry with nothing else on it; the field format is retired.",
+    "verbatim": "The paragraph IS the Notion page and the card entry: nothing else on it.",
+    "amends": [
+      {
+        "guide": "WOTR_Ability_Technique_Design_Guide.md",
+        "locus": "entry format",
+        "operation": "replaces"
+      },
+      {
+        "guide": "character sheet template",
+        "locus": "Traits and Techniques sections",
+        "operation": "replaces"
+      }
+    ],
+    "supersedes": [
+      "R47-2-FIELD_FORMAT"
+    ],
+    "applies_to": [
+      "magic-design",
+      "character-sheet",
+      "documents"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-10-05, Claude Code chat: ruled directly (the ability-format questionnaire)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "Q6 (recommended). Supersedes R47-2-FIELD_FORMAT; the Design Chain and six-line card it retired stay retired. Author notes (the Phenomenon line, sources) stay in chat and never reach the page, as before. R75-25-ONE_CARD_SHAPE stands for the card head, which names each ability with its tell and counter.",
+    "superseded_by": []
+  },
+  {
+    "id": "R76-5-CONVERT_WHEN_TOUCHED",
+    "pack": "Ability Format 2026-10-05",
+    "pack_number": null,
+    "section": "Q8",
+    "title": "Old field-format entries convert when next used",
+    "status": "live",
+    "kind": "mandate",
+    "summary": "Rewrite an ability entry still in the field format into the paragraph shape the next time it is edited or used, and leave the rest until then.",
+    "verbatim": "Old field-format entries are converted when next edited or used.",
+    "amends": [
+      {
+        "guide": "WOTR_Ability_Technique_Design_Guide.md",
+        "locus": "existing entries",
+        "operation": "adds"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "magic-design",
+      "character-sheet",
+      "documents"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-10-05, Claude Code chat: ruled directly (the ability-format questionnaire)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "Q8 (recommended). No sweep is ordered.",
+    "superseded_by": []
+  },
+  {
+    "id": "R76-6-NO_EST_MARK",
+    "pack": "Ability Format 2026-10-05",
+    "pack_number": null,
+    "section": "Q3 revised (2026-10-06)",
+    "title": "No figure carries an (est.) mark",
+    "status": "live",
+    "kind": "mandate",
+    "summary": "Write every figure plainly, on ability write-ups and on cards, with no estimate mark; an estimate is still canon on use and loses to a source value on contact, and which figures are estimates lives in the author notes only.",
+    "verbatim": "no figure carries an (est.) mark anywhere, on an ability write-up or on a card. Ability write-ups carry full LitRPG figures inline (EU, % of reserve, Grade, m/s, joules), every figure written plainly with no estimate mark. An estimate is still canon on use and a source value still beats it on contact; which figures are estimates is kept in the author notes, never on the page.",
+    "amends": [
+      {
+        "guide": "WOTR_Ability_Technique_Design_Guide.md",
+        "locus": "entry format, numbers",
+        "operation": "replaces"
+      },
+      {
+        "guide": "character sheet template",
+        "locus": "estimates",
+        "operation": "replaces"
+      }
+    ],
+    "supersedes": [
+      "R76-2-FIGURES_INLINE",
+      "R75-31-MARKING_ESTIMATE"
+    ],
+    "applies_to": [
+      "magic-design",
+      "stats",
+      "character-sheet"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-10-06, Claude Code chat: ruled directly (\"get rid of that rule est is annoying\")",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "Logged in RULINGS.md under 2026-10-06, R76-2-FIGURES_INLINE. R12-5-NEVER_INVENT_NUMBER stands (a figure with a source is taken from it), and R20C-34's estimate-canon-on-use stands minus its mark.",
     "superseded_by": []
   },
   {
@@ -51074,7 +51296,7 @@
       "file": "WOTR_Companion_Guide_Amendments_Pack_Seventeen.md",
       "lines": "72"
     },
-    "notes": "Partly amended by R75-17-TRAIT_ENTRY_CARRIES (techniques law 2026-10-04): beside the Lattice property, every Trait entry also carries its founding sentence (whose denial is the Shear Break), a rigidity line stating what the bearer cannot safely contradict, and the offices it holds, a Permission line listing the signatures it allows.",
+    "notes": "Partly amended by R75-17-TRAIT_ENTRY_CARRIES (techniques law 2026-10-04): beside the Lattice property, every Trait entry also carries its founding sentence (whose denial is the Shear Break), a rigidity line stating what the bearer cannot safely contradict, and the offices it holds, a Permission line listing the signatures it allows. That row was superseded 2026-10-05 by R76-3-WHAT_PARAGRAPH_HOLDS: the Lattice property is still designed for every Trait but shows on the page only where it reads naturally, inside the one-paragraph entry (R76-1).",
     "superseded_by": []
   },
   {

@@ -1,32 +1,37 @@
-# Nightly — 2026-10-06 03:30
+# Nightly — 2026-10-07 03:30
 
 ## Overnight
 
-Ten scenes landed since last night: the eight-scene Aetherion Night Register run and two Mu-jin pieces. Eight of the ten fail on one em dash each, the two Mu-jin scenes pass clean, and that is the whole of the nine new findings apart from CONTINUITY.md's flat-run count going 44 to 47. Nothing structural moved: validate PASS, docket clear, conflicts steady at 42.
+Five more Aetherion Academy scenes landed and ChatGPT read four of them major. The four verdicts are one complaint in four places: the scenes spend powers and figures no card carries. Brenna Hask holds POV through Brenna's Table and decides Mu-jin's treatment off a 26,000,000 EU reserve with no card behind it; Agnes Tull holds a section of The Regent the same way, and R75-27 wants a full card before either of them carries interiority. Shared Wounds and The Regent both run Lapis past its own entry: sulphur smoke shuts that field down, both scenes have it accelerating through sulphur without saying how it came back, and The Regent turns the card's "up to a billion times" ceiling into a flat rate with nothing spent for it. The File is the cheapest of the four to fix, since Wystan names Malphas off the sample tin and the_nights_watch has that tin returning the hind's last minute, so the identification needs another source.
 
-Needs you this morning: 93 Judger proposals waiting, 43 on recalescence, 29 on the muster breach, 21 on what the sky does not ask. All ten new scenes sit archived with no close; I would take mu_jin_the_walk_back and mu_jin_the_tenth_bell first, since they verify clean and the rest need the em dash pulled anyway. Both books are stopped at a chapter 1 gate and write nothing until you approve or reject.
+One number is simply wrong. Open Crucible closes at 481,600,000 EU, Shared Wounds spends 10,200,000 and prints 471,400,000; it should read 471,600,000.
 
-Five names recur with no page and are worth cards before anyone puts a number on them: Velder Crace in five of the ten scenes, Lapis and Ansel in three each, Ashgate and Hollis Grebe in two. Xhem turns up in three and stays open, he is not ours. The sync pushed four times and failed its export twice, exit 1, so pushing works and the export leg is the thing to look at. The newest backup the digest names is 10-04, and the backup folder is outside what I can read, so I did not confirm 10-05. Cleared: one line, the old flat-run count; 315 findings still open and 29 files still carrying Büri terms.
+All five fail verify on one em dash and nothing else. With no page: Brenna, Hask, Lapis, Velder Crace, Agnes Tull, Nihiloth, Ferriby, Herbert Lyle, Swale, Shiori, Hobday, Hollin Ford, Pellow.
+
+I would write Brenna Hask's card first, since three of the four verdicts lean on her and on Lapis, then pull the five em dashes, then `/judger` the five. Nothing behind them moved: the same 93 proposals wait on recalescence, the muster breach and what the sky does not ask, and both books are still stopped at a chapter 1 gate, writing nothing until you answer. validate PASS, docket clear, conflicts steady at 42, one finding cleared (CONTINUITY.md flat runs 47 to 46). The sync pushed seven times and the four export failures were Notion read timeouts that recovered the next hour, so nothing there needs you; scenes/YOKO_MISHIRO.md has now skipped its publish 292 runs running, since 14 September, and wants its parent page shared with the integration.
 
 ## Numbers
 
 - validate PASS
 - docket 0 outstanding
 - conflicts open 42
-- findings NEW 9 / CLEARED 1 / STILL OPEN 315
+- findings NEW 6 / CLEARED 1 / STILL OPEN 323
 
 ## Scenes archived since the last run
 
-- `aqua_fortis_aetherion_academy` — run `/judger aqua_fortis_aetherion_academy` for the close
-- `mu_jin_the_tenth_bell` — run `/judger mu_jin_the_tenth_bell` for the close
-- `mu_jin_the_walk_back` — run `/judger mu_jin_the_walk_back` for the close
-- `nirans_arrival_aetherion_academy` — run `/judger nirans_arrival_aetherion_academy` for the close
-- `open_crucible_aetherion_academy` — run `/judger open_crucible_aetherion_academy` for the close
-- `the_cooking_aetherion_academy` — run `/judger the_cooking_aetherion_academy` for the close
-- `the_count_aetherion_academy` — run `/judger the_count_aetherion_academy` for the close
-- `the_fight_below_aetherion_academy` — run `/judger the_fight_below_aetherion_academy` for the close
-- `the_knots_aetherion_academy` — run `/judger the_knots_aetherion_academy` for the close
-- `the_undercroft_aetherion_academy` — run `/judger the_undercroft_aetherion_academy` for the close
+- `brennas_table_aetherion_academy` — run `/judger brennas_table_aetherion_academy` for the close
+- `shared_wounds_aetherion_academy` — run `/judger shared_wounds_aetherion_academy` for the close
+- `the_file_aetherion_academy` — run `/judger the_file_aetherion_academy` for the close
+- `the_regent_aetherion_academy` — run `/judger the_regent_aetherion_academy` for the close
+- `the_seam_aetherion_academy` — run `/judger the_seam_aetherion_academy` for the close
+
+## ChatGPT review
+
+- `brennas_table_aetherion_academy`: major: Establish Brenna’s card and healing mechanisms before letting her unverified powers and figures decide Mu-jin’s treatment.  (reports/reviews/2026-10-07/brennas_table_aetherion_academy.md)
+- `shared_wounds_aetherion_academy`: major: Make sulfur smoke choke Lapis as Mu-jin’s card requires; the shared-wounds climax currently overrides its explicit counter.  (reports/reviews/2026-10-07/shared_wounds_aetherion_academy.md)
+- `the_file_aetherion_academy`: major: Replace the Ferriby identification memory; the archived reading returned the hind’s last minute, not Malphas’s.  (reports/reviews/2026-10-07/the_file_aetherion_academy.md)
+- `the_regent_aetherion_academy`: major: Restore Lapis’s willed activation and explain its recovery from sulphur poisoning before it powers Malphas’s escape.  (reports/reviews/2026-10-07/the_regent_aetherion_academy.md)
+- 1 more wait for tomorrow night
 
 ## Judger queue (proposals awaiting Isaac)
 
@@ -43,24 +48,21 @@ Five names recur with no page and are worth cards before anyone puts a number on
 
 ## New findings since last night
 
-- [prose] CONTINUITY.md: flat runs: 47 stretches of three sentences within 40% of each other (R4-14-RUN_RULE)
-- [prose] open_crucible_aetherion_academy.md: em dashes: 1 (banned; AI-tells §1, R15-1-AI_TELL_CHECKS_SURVIVE)
-- [prose] the_cooking_aetherion_academy.md: em dashes: 1 (banned; AI-tells §1, R15-1-AI_TELL_CHECKS_SURVIVE)
-- [prose] the_fight_below_aetherion_academy.md: em dashes: 1 (banned; AI-tells §1, R15-1-AI_TELL_CHECKS_SURVIVE)
-- [prose] aqua_fortis_aetherion_academy.md: em dashes: 1 (banned; AI-tells §1, R15-1-AI_TELL_CHECKS_SURVIVE)
-- [prose] the_count_aetherion_academy.md: em dashes: 1 (banned; AI-tells §1, R15-1-AI_TELL_CHECKS_SURVIVE)
-- [prose] nirans_arrival_aetherion_academy.md: em dashes: 1 (banned; AI-tells §1, R15-1-AI_TELL_CHECKS_SURVIVE)
-- [prose] the_knots_aetherion_academy.md: em dashes: 1 (banned; AI-tells §1, R15-1-AI_TELL_CHECKS_SURVIVE)
-- [prose] the_undercroft_aetherion_academy.md: em dashes: 1 (banned; AI-tells §1, R15-1-AI_TELL_CHECKS_SURVIVE)
+- [prose] CONTINUITY.md: flat runs: 46 stretches of three sentences within 40% of each other (R4-14-RUN_RULE)
+- [prose] brennas_table_aetherion_academy.md: em dashes: 1 (banned; AI-tells §1, R15-1-AI_TELL_CHECKS_SURVIVE)
+- [prose] shared_wounds_aetherion_academy.md: em dashes: 1 (banned; AI-tells §1, R15-1-AI_TELL_CHECKS_SURVIVE)
+- [prose] the_file_aetherion_academy.md: em dashes: 1 (banned; AI-tells §1, R15-1-AI_TELL_CHECKS_SURVIVE)
+- [prose] the_regent_aetherion_academy.md: em dashes: 1 (banned; AI-tells §1, R15-1-AI_TELL_CHECKS_SURVIVE)
+- [prose] the_seam_aetherion_academy.md: em dashes: 1 (banned; AI-tells §1, R15-1-AI_TELL_CHECKS_SURVIVE)
 
 ## Cleared since last night
 
-- [prose] CONTINUITY.md: flat runs: 44 stretches of three sentences within 40% of each other (R4-14-RUN_RULE)
+- [prose] CONTINUITY.md: flat runs: 47 stretches of three sentences within 40% of each other (R4-14-RUN_RULE)
 
-## Still open: 315 (see reports/prose_pass.md, reports/reconcile.md; 29 files still carry Büri-register terms (177 hits) in all. Ruling 2026-09-12: Moto and Hataraki, not Ajiin. Governing forms in brackets.)
+## Still open: 323 (see reports/prose_pass.md, reports/reconcile.md; 29 files still carry Büri-register terms (177 hits) in all. Ruling 2026-09-12: Moto and Hataraki, not Ajiin. Governing forms in brackets.)
 
 ## The sync and the backup (last 26 h)
 
-- sync: 4 push(es), 20 quiet run(s), 2 failure line(s):  export failed (exit 1)
+- sync: 7 push(es), 17 quiet run(s), 4 failure line(s):  export failed (exit 1)
 - backup:  wrote /home/oridon/wotr-backups/wotr-2026-10-04.zip (34.2 MB, 1171 files)
-- last run of this digest: 2026-10-05T03:30:00
+- last run of this digest: 2026-10-06T03:30:00

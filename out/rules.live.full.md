@@ -1,6 +1,6 @@
 # Live rules by domain, with source text
 
-1542 live of 1734 extracted. Newest pack first within each domain; the newer rule governs where two overlap.
+1544 live of 1740 extracted. Newest pack first within each domain; the newer rule governs where two overlap.
 
 ## adjudication (154)
 
@@ -928,7 +928,7 @@ Isaac may take over any NPC's voice anytime by saying so; the partner hands it b
 
 > Isaac may take over any NPC's voice anytime by saying so; the partner hands it back after.
 
-## character-sheet (264)
+## character-sheet (266)
 
 ### R20C-16-SONZAI_RECORD_CARD [Pack Twenty R20C-16]
 
@@ -1218,17 +1218,41 @@ Whatever an engagement will do to characters' relationships happens in the three
 
 > Rule: the interior action of a battle occurs in its aftermath. Whatever the engagement was going to do to your characters' relationships, it does in the three days afterward, over the burial detail, in the sick lines, and in the arguments about who should have done what. The fight itself is too loud and too fast for anyone to change during it.
 
+### R76-1-ONE_NAME_ONE_PARAGRAPH [Ability Format 2026-10-05 Q1, Q2, Q7]
+
+Write every ability, Trait, technique, signature, school art and bloodline faculty alike, as one simple name in capitals (with a short gloss after it where the character has a naming register), its kind in brackets, then a single paragraph of whatever length it needs.
+
+> EVERY ability (Traits, techniques, signatures, school arts, bloodline faculties) is written as one simple name in caps, with a short gloss after it for characters with a naming register (e.g. KUSARI · the Rot), then its kind in brackets, then ONE paragraph of any length.
+
+### R76-3-WHAT_PARAGRAPH_HOLDS [Ability Format 2026-10-05 Q4, Q5]
+
+Every paragraph states the ability's cost, limit and counter; the bearer's founding belief is left implied rather than quoted, and offices, Lattice property and nucleation appear only where they read naturally.
+
+> Belief/founding sentence is left implied, not quoted. Cost, limit and counter are always in the paragraph; offices, Lattice property and nucleation only where they read naturally.
+
+### R76-4-PARAGRAPH_IS_PAGE [Ability Format 2026-10-05 Q6]
+
+Publish the name, kind and paragraph as the ability's Notion page and card entry with nothing else on it; the field format is retired.
+
+> The paragraph IS the Notion page and the card entry: nothing else on it.
+
+### R76-5-CONVERT_WHEN_TOUCHED [Ability Format 2026-10-05 Q8]
+
+Rewrite an ability entry still in the field format into the paragraph shape the next time it is edited or used, and leave the rest until then.
+
+> Old field-format entries are converted when next edited or used.
+
+### R76-6-NO_EST_MARK [Ability Format 2026-10-05 Q3 revised (2026-10-06)]
+
+Write every figure plainly, on ability write-ups and on cards, with no estimate mark; an estimate is still canon on use and loses to a source value on contact, and which figures are estimates lives in the author notes only.
+
+> no figure carries an (est.) mark anywhere, on an ability write-up or on a card. Ability write-ups carry full LitRPG figures inline (EU, % of reserve, Grade, m/s, joules), every figure written plainly with no estimate mark. An estimate is still canon on use and a source value still beats it on contact; which figures are estimates is kept in the author notes, never on the page.
+
 ### R47-1-NO_APPLICATIONS [Ability Law 2026-09-26 A]
 
 An ability entry states the mechanism, what it can act on, its costs, limits, tell and counters, and never how it is used in a fight.
 
 > An ability entry describes what the ability is, never how to use it: the mechanism, what it can act on, its costs, its limits, its tell and its counters. No tactics, combos, worked fights or lines telling the reader how to use it; the owner invents the applications.
-
-### R47-2-FIELD_FORMAT [Ability Law 2026-09-26 B]
-
-New abilities use the field format, in the same look as the card top (Summary card, Codex line, FOW line, Origin): plain headings, short one-line **Field** · value entries in the Physics, Metaphysics, Mechanism, Essence and Counterplay b...
-
-> New abilities use the field format, in the same look as the card top (Summary card, Codex line, FOW line, Origin): plain headings, short one-line **Field** · value entries in the Physics, Metaphysics, Mechanism, Essence and Counterplay blocks, a table for the numbers, and very little prose. The Design Chain and the six-line card are retired as page formats.
 
 ### R47-4-LEDGER_COSTS [Ability Law 2026-09-26 D]
 
@@ -2175,12 +2199,6 @@ When a Trait forms in Isaac's own character, Natalie writes its name, Reflection
 
 > Natalie writes, you keep. At the event Natalie writes name, Reflection (its kind) and Lattice property; it sticks only when you keep it, as a Third Name does.
 
-### R75-17-TRAIT_ENTRY_CARRIES [Techniques Law 2026-10-04 TE10]
-
-Beside its Lattice property, every Trait entry carries its founding sentence in the bearer's words, a rigidity line stating as fact what the bearer cannot safely contradict, and the offices it holds, its Permission line listing the signatures it allows.
-
-> Yes to: Founding sentence (The statement the Continuum accepted, in the bearer's words, yours to write for your characters as in TE11. Denying it is the Shear Break, so every Trait carries a findable counter); Rigidity line (What the bearer cannot safely contradict, as a fact. NPCs play it on the page; for your characters it stays a fact for you to play); Offices held (Which of Bias, Permission, Nucleation and Ceiling it serves; a Permission line lists the signatures it allows).
-
 ### R75-20-CARDING_SYNERGIA [Techniques Law 2026-10-04 TE13]
 
 A drilled Synergia is carded on one technique page that carries both partners, the drill that made it, the cost split and the counter, both partners' cards link to it, and no vow binds the pair.
@@ -2228,12 +2246,6 @@ When a Level lands Isaac spends his own characters' points, build talk welcome, 
 The four Kharven cast cards standing past a Band gate their Stage has not opened (Lorn Stark, Edward Lambert, Bram Greymane, Heisuke) each keep their Level with standing Residual Strain, priced by Fracture of Worlds Part Ten at XP five percent lower and Overchannel and Backlash risk two percent higher per fifty Levels past, and Lorn and Heisuke owe one step now.
 
 > Outliers with Strain. R56-4 extended: each keeps his Level with standing Residual Strain, priced by Part Ten (XP five percent lower, Overchannel and Backlash risk two percent higher, per fifty Levels past). Lorn and Heisuke owe one step now.
-
-### R75-31-MARKING_ESTIMATE [Techniques Law 2026-10-04 CH7]
-
-A card marks a figure canon does not supply with the one inline mark '(est.)' after the figure and nothing more, the six marking styles in use collapsing into that one.
-
-> Tag it inline. One mark, '(est.)', after the figure and nothing more; the six styles collapse into one.
 
 ### R75-32-NEW_VOICE_BLOCK_SLOTS [Techniques Law 2026-10-04 CH8]
 
@@ -2517,7 +2529,7 @@ Room casting is by ear: the partner casts for the scene and fixes voice likeness
 
 > Room casting is by ear: the partner casts for the scene and fixes voice likeness only when the swap test fails.
 
-## codex (119)
+## codex (120)
 
 ### R20C-41-CHANTCRAFT_FIFTH_CRAFT [Pack Twenty R20C-41]
 
@@ -2704,6 +2716,12 @@ Class (Offensive/Defensive/Supplementary), Family (one of the Eight), Wellspring
 The chapter as a hard unit with one objective and a hook at close; legibility as reader pleasure (the argument for the Codex); and fast entry, chapters opening inside the situation.
 
 > The chapter as a hard unit with one clear objective and a hook at close. Serialised discipline, directly relevant to The Withering Road. - Legibility as reader pleasure. The satisfaction of a system the reader can reason inside. This is the whole argument for the Codex and it survives the register change intact. - Fast entry. Chapters open inside the situation.
+
+### R76-1-ONE_NAME_ONE_PARAGRAPH [Ability Format 2026-10-05 Q1, Q2, Q7]
+
+Write every ability, Trait, technique, signature, school art and bloodline faculty alike, as one simple name in capitals (with a short gloss after it where the character has a naming register), its kind in brackets, then a single paragraph of whatever length it needs.
+
+> EVERY ability (Traits, techniques, signatures, school arts, bloodline faculties) is written as one simple name in caps, with a short gloss after it for characters with a naming register (e.g. KUSARI · the Rot), then its kind in brackets, then ONE paragraph of any length.
 
 ### R47-12-MYSTERY_STAYS_OPEN [Ability Law 2026-09-26 L]
 
@@ -5691,7 +5709,7 @@ Narration refers to characters by POV epithets, the way the viewpoint sees them;
 
 > Narration refers to characters by POV epithets, the way the viewpoint sees them; the naming characterises.
 
-## documents (135)
+## documents (137)
 
 ### R20C-3-SWEEP_TWO_TIERS [Pack Twenty R20C-3]
 
@@ -5795,17 +5813,29 @@ An in-world register entry, field manual, or codex line dropped in at a scene th
 
 > The document. The LotM model. An in-world register entry, field manual, or codex line dropped into the narrative at the threshold of a scene. Uses the Mystic Register. Sets a rule the scene then breaks.
 
+### R76-1-ONE_NAME_ONE_PARAGRAPH [Ability Format 2026-10-05 Q1, Q2, Q7]
+
+Write every ability, Trait, technique, signature, school art and bloodline faculty alike, as one simple name in capitals (with a short gloss after it where the character has a naming register), its kind in brackets, then a single paragraph of whatever length it needs.
+
+> EVERY ability (Traits, techniques, signatures, school arts, bloodline faculties) is written as one simple name in caps, with a short gloss after it for characters with a naming register (e.g. KUSARI · the Rot), then its kind in brackets, then ONE paragraph of any length.
+
+### R76-4-PARAGRAPH_IS_PAGE [Ability Format 2026-10-05 Q6]
+
+Publish the name, kind and paragraph as the ability's Notion page and card entry with nothing else on it; the field format is retired.
+
+> The paragraph IS the Notion page and the card entry: nothing else on it.
+
+### R76-5-CONVERT_WHEN_TOUCHED [Ability Format 2026-10-05 Q8]
+
+Rewrite an ability entry still in the field format into the paragraph shape the next time it is edited or used, and leave the rest until then.
+
+> Old field-format entries are converted when next edited or used.
+
 ### R47-1-NO_APPLICATIONS [Ability Law 2026-09-26 A]
 
 An ability entry states the mechanism, what it can act on, its costs, limits, tell and counters, and never how it is used in a fight.
 
 > An ability entry describes what the ability is, never how to use it: the mechanism, what it can act on, its costs, its limits, its tell and its counters. No tactics, combos, worked fights or lines telling the reader how to use it; the owner invents the applications.
-
-### R47-2-FIELD_FORMAT [Ability Law 2026-09-26 B]
-
-New abilities use the field format, in the same look as the card top (Summary card, Codex line, FOW line, Origin): plain headings, short one-line **Field** · value entries in the Physics, Metaphysics, Mechanism, Essence and Counterplay b...
-
-> New abilities use the field format, in the same look as the card top (Summary card, Codex line, FOW line, Origin): plain headings, short one-line **Field** · value entries in the Physics, Metaphysics, Mechanism, Essence and Counterplay blocks, a table for the numbers, and very little prose. The Design Chain and the six-line card are retired as page formats.
 
 ### R47-7-NAMES_NOT_NUMBERS [Ability Law 2026-09-26 G]
 
@@ -7069,7 +7099,7 @@ A Witnessed-Tempered piece inherits a scaled-down Ancestral Dominion Frame: ever
 
 > If the piece changes hands outside the terms of the oath, its accrued memory does not transfer. This is not the Dawi's Crystal-Coherence self-punishment, a cost paid by the oath-breaker's own soul; it is closer to the Weight of the Blood, where failure feels ancestral rather than personal. The object simply stops recognizing the new holder as a party the law was made for. In the worst documented cases, Physical Plane Authority's "hold shape" reverses for that bearer alone, and the piece becomes more failure-prone in their hands than an ordinary equivalent.
 
-## magic-design (142)
+## magic-design (145)
 
 ### R20C-28-PHENOMENON_BANK_CANDIDATES [Pack Twenty R20C-28]
 
@@ -7479,17 +7509,41 @@ Re-form is how long an affected formation needs to recover cohesion, and whether
 
 > Re-form. How long an affected formation needs to recover cohesion, and whether it recovers at all. This is the field that decides engagements and the one authors most often fail to decide before writing. A technique that breaks a line for ten minutes has bought a local advantage. One that breaks a line permanently has ended the war on that flank.
 
+### R76-1-ONE_NAME_ONE_PARAGRAPH [Ability Format 2026-10-05 Q1, Q2, Q7]
+
+Write every ability, Trait, technique, signature, school art and bloodline faculty alike, as one simple name in capitals (with a short gloss after it where the character has a naming register), its kind in brackets, then a single paragraph of whatever length it needs.
+
+> EVERY ability (Traits, techniques, signatures, school arts, bloodline faculties) is written as one simple name in caps, with a short gloss after it for characters with a naming register (e.g. KUSARI · the Rot), then its kind in brackets, then ONE paragraph of any length.
+
+### R76-3-WHAT_PARAGRAPH_HOLDS [Ability Format 2026-10-05 Q4, Q5]
+
+Every paragraph states the ability's cost, limit and counter; the bearer's founding belief is left implied rather than quoted, and offices, Lattice property and nucleation appear only where they read naturally.
+
+> Belief/founding sentence is left implied, not quoted. Cost, limit and counter are always in the paragraph; offices, Lattice property and nucleation only where they read naturally.
+
+### R76-4-PARAGRAPH_IS_PAGE [Ability Format 2026-10-05 Q6]
+
+Publish the name, kind and paragraph as the ability's Notion page and card entry with nothing else on it; the field format is retired.
+
+> The paragraph IS the Notion page and the card entry: nothing else on it.
+
+### R76-5-CONVERT_WHEN_TOUCHED [Ability Format 2026-10-05 Q8]
+
+Rewrite an ability entry still in the field format into the paragraph shape the next time it is edited or used, and leave the rest until then.
+
+> Old field-format entries are converted when next edited or used.
+
+### R76-6-NO_EST_MARK [Ability Format 2026-10-05 Q3 revised (2026-10-06)]
+
+Write every figure plainly, on ability write-ups and on cards, with no estimate mark; an estimate is still canon on use and loses to a source value on contact, and which figures are estimates lives in the author notes only.
+
+> no figure carries an (est.) mark anywhere, on an ability write-up or on a card. Ability write-ups carry full LitRPG figures inline (EU, % of reserve, Grade, m/s, joules), every figure written plainly with no estimate mark. An estimate is still canon on use and a source value still beats it on contact; which figures are estimates is kept in the author notes, never on the page.
+
 ### R47-1-NO_APPLICATIONS [Ability Law 2026-09-26 A]
 
 An ability entry states the mechanism, what it can act on, its costs, limits, tell and counters, and never how it is used in a fight.
 
 > An ability entry describes what the ability is, never how to use it: the mechanism, what it can act on, its costs, its limits, its tell and its counters. No tactics, combos, worked fights or lines telling the reader how to use it; the owner invents the applications.
-
-### R47-2-FIELD_FORMAT [Ability Law 2026-09-26 B]
-
-New abilities use the field format, in the same look as the card top (Summary card, Codex line, FOW line, Origin): plain headings, short one-line **Field** · value entries in the Physics, Metaphysics, Mechanism, Essence and Counterplay b...
-
-> New abilities use the field format, in the same look as the card top (Summary card, Codex line, FOW line, Origin): plain headings, short one-line **Field** · value entries in the Physics, Metaphysics, Mechanism, Essence and Counterplay blocks, a table for the numbers, and very little prose. The Design Chain and the six-line card are retired as page formats.
 
 ### R47-3-COUNTERS_AS_FACTS [Ability Law 2026-09-26 C]
 
@@ -7826,12 +7880,6 @@ A new Trait forms only at one of canon's four Resonance Events, written as its o
 When a Trait forms in Isaac's own character, Natalie writes its name, Reflection and Lattice property at the event, and it sticks only when Isaac keeps it, as a Third Name does.
 
 > Natalie writes, you keep. At the event Natalie writes name, Reflection (its kind) and Lattice property; it sticks only when you keep it, as a Third Name does.
-
-### R75-17-TRAIT_ENTRY_CARRIES [Techniques Law 2026-10-04 TE10]
-
-Beside its Lattice property, every Trait entry carries its founding sentence in the bearer's words, a rigidity line stating as fact what the bearer cannot safely contradict, and the offices it holds, its Permission line listing the signatures it allows.
-
-> Yes to: Founding sentence (The statement the Continuum accepted, in the bearer's words, yours to write for your characters as in TE11. Denying it is the Shear Break, so every Trait carries a findable counter); Rigidity line (What the bearer cannot safely contradict, as a fact. NPCs play it on the page; for your characters it stays a fact for you to play); Offices held (Which of Bias, Permission, Nucleation and Ceiling it serves; a Permission line lists the signatures it allows).
 
 ### R75-18-HOW_TRAIT_EVOLVES [Techniques Law 2026-10-04 TE11]
 
@@ -18008,6 +18056,12 @@ Speed is Essence; a character who arrives fast arrives depleted, and there is no
 
 > High-Grade couriers give functional real-time command across a theatre. Speed is Essence, couriers are interdicted first, and formations trained on instantaneous command collapse harder when they lose it than formations that never had it. Design consequence: movement techniques are priced as expenditure, not as mobility. A character who arrives fast arrives depleted. There is no free travel at Grade and a scene that has one has spent a resource silently.
 
+### R76-6-NO_EST_MARK [Ability Format 2026-10-05 Q3 revised (2026-10-06)]
+
+Write every figure plainly, on ability write-ups and on cards, with no estimate mark; an estimate is still canon on use and loses to a source value on contact, and which figures are estimates lives in the author notes only.
+
+> no figure carries an (est.) mark anywhere, on an ability write-up or on a card. Ability write-ups carry full LitRPG figures inline (EU, % of reserve, Grade, m/s, joules), every figure written plainly with no estimate mark. An estimate is still canon on use and a source value still beats it on contact; which figures are estimates is kept in the author notes, never on the page.
+
 ### R47-4-LEDGER_COSTS [Ability Law 2026-09-26 D]
 
 A new ability's cost is a share of full reserve, with EU and joules read off the Essence Ledger's bands for its Stage and its Grade read off the joules to Grade to tier spine.
@@ -19024,12 +19078,6 @@ When a Level lands Isaac spends his own characters' points, build talk welcome, 
 The four Kharven cast cards standing past a Band gate their Stage has not opened (Lorn Stark, Edward Lambert, Bram Greymane, Heisuke) each keep their Level with standing Residual Strain, priced by Fracture of Worlds Part Ten at XP five percent lower and Overchannel and Backlash risk two percent higher per fifty Levels past, and Lorn and Heisuke owe one step now.
 
 > Outliers with Strain. R56-4 extended: each keeps his Level with standing Residual Strain, priced by Part Ten (XP five percent lower, Overchannel and Backlash risk two percent higher, per fifty Levels past). Lorn and Heisuke owe one step now.
-
-### R75-31-MARKING_ESTIMATE [Techniques Law 2026-10-04 CH7]
-
-A card marks a figure canon does not supply with the one inline mark '(est.)' after the figure and nothing more, the six marking styles in use collapsing into that one.
-
-> Tag it inline. One mark, '(est.)', after the figure and nothing more; the six styles collapse into one.
 
 ### R75-35-SKILLS_ON_CARD [Techniques Law 2026-10-04 CH18]
 

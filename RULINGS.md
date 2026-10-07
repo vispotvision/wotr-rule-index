@@ -2881,3 +2881,9 @@ Context: 2026-10-05 ability-format questionnaire, answers at imports/drafts/abil
 Isaac's ruling: no figure carries an (est.) mark anywhere, on an ability write-up or on a card. Ability write-ups carry full LitRPG figures inline (EU, % of reserve, Grade, m/s, joules), every figure written plainly with no estimate mark. An estimate is still canon on use and a source value still beats it on contact; which figures are estimates is kept in the author notes, never on the page. Supersedes R76-2-FIGURES_INLINE and R75-31-MARKING_ESTIMATE.
 
 Context: 2026-10-06, Geturo's OPUS (Primary Trait): "get rid of the est" then "yea lets get rid of that rule est is annoying".
+
+## 2026-10-06 — R48-45-CHECKS
+
+Isaac's direction (2026-10-06): every scene, and every piece Isaac asks to have improved, extended or made better, gets a cross-read by the other model before it is posted. Claude drafts, then asks ChatGPT (ask_chatgpt); ChatGPT drafts, then asks Claude (ask_claude). Order: verify_scene clean, then the cross-read with the line-editor brief, then revise (every beat Isaac wrote kept), then verify_scene again. One round for a turn or an improvement, two for a set piece. The foot says what was kept and declined. If the other model fails or takes over five minutes, post without it and say so in one line. This widens R48-45's full check; it does not replace verify_scene.
+
+Context: Asked in the Claude Code session that built ask_chatgpt / ask_claude; supersedes the earlier default where quick table turns skipped the cross-read.

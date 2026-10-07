@@ -1039,5 +1039,10 @@
     "page_id": "3f158200-eb22-8132-95d0-d46f8657f055",
     "title": "The Regent — Aetherion Academy",
     "hash": "389ecb9e8182f098"
+  },
+  "scenes/the_seam_aetherion_academy.md": {
+    "page_id": "3f258200-eb22-8158-be43-fe04e5037982",
+    "title": "The Seam — Aetherion Academy",
+    "hash": "bfe8ef0a86c79483"
   }
 }

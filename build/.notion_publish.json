@@ -1049,5 +1049,10 @@
     "page_id": "3f258200-eb22-810e-9cdc-fa4e03edae9c",
     "title": "Brenna's Table — Aetherion Academy",
     "hash": "2710005c3995576e"
+  },
+  "scenes/the_file_aetherion_academy.md": {
+    "page_id": "3f258200-eb22-81f1-aecb-ee414cc99836",
+    "title": "The File — Aetherion Academy",
+    "hash": "a2229c76c9844acd"
   }
 }

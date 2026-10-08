@@ -4,6 +4,13 @@ Agreed with Isaac on 2026-09-12. Phases run in order; each item is checked off
 with the commit that landed it. Isaac's standing direction (2026-09-12): inside work he has asked for, the calls
 are made, not left pending.
 
+## WOTR writers' room — Isaac approved 2026-10-08
+
+- [x] Reusable Claude/Codex/Gemini scene workflow and project skill (`build/writers_room.py`, `WRITERS_ROOM.md`)
+- [x] Frozen common source packet, evidence-cited findings, one review round and bounded repairs
+- [x] Supervised handoff acknowledgments and full live pipeline test; Antigravity inbox reminders installed
+- [x] Explicit editorial feedback record with scene/general scope and append-only corrections
+
 ## Phase A — finish what the rulings created
 
 - [x] Filemu Agamalu's card without the Ava-name (C-002)

@@ -6,6 +6,35 @@ direction: inside work he has asked for, make the calls; no "pending" slots.
 append a dated block, do not rewrite older ones (two sessions write this repo
 at once — `git pull` before editing, and commit only your own files).
 
+## State on 2026-10-08 (three-agent writers' room)
+
+Isaac approved the reusable writers' room, shared source packets, reliable
+handoff checks and editorial feedback record. `WRITERS_ROOM.md` documents it;
+`.claude/skills/wotr-room/SKILL.md` routes collaborative scene requests to
+`bash build/py.sh build/writers_room.py`. Claude writes, Codex checks
+rules/physics/prose, Gemini checks continuity/voice. All use the same frozen
+source packet. There is one cross-read round and a bounded repair budget.
+`EDITORIAL_FEEDBACK.jsonl` starts empty and records only Isaac's explicit
+reactions, scoped to a scene unless explicitly general. Canon is unchanged.
+
+Verified: three CLI workers returned matching smoke-test acknowledgments;
+the full live author → parallel reviewers → verifier pipeline preserved an
+existing copy of The Bitter Band byte-for-byte. Results are local under
+`~/wotr-drafts/rooms/`. Eleven reliability tests passed (evidence requirements,
+locking, stale packets, resume/redo, failed workers, bounded repair, private
+sources and feedback scope). Skill validation passed; rule validation passed
+(1,740 rules). The runner uses existing configured models/logins and does not
+publish or archive drafts. Headless completion does not depend on idle chat
+wakeups; that distinction is explicit in the docs and shared memory.
+
+Antigravity now has Loom PreInvocation/Stop reminder hooks, added without
+replacing Codex's existing hooks. Claude's current live monitor acknowledged
+mail automatically; it is session-bound. Reminder hooks alone do not prove
+idle wakeups, and Codex hook trust may still be host-dependent. The supervised
+runner isolates Claude/Codex inbox hooks for its worker invocations.
+`git pull --rebase` was refused because unrelated work remains unstaged;
+none of it was stashed or included in this change.
+
 ## State on 2026-10-07 (shared WOTR agent memory)
 
 Isaac requested memory shared by Claude Code, Codex and Antigravity, scoped to

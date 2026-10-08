@@ -27,6 +27,30 @@ not private chat histories or a model's internal memory.
 
 ## Durable notes
 
+### 2026-10-08 — WOTR writers' room (Isaac; implemented by Codex)
+
+Isaac approved the reusable scene workflow, shared context packets, reliable
+handoff checks and editorial feedback record. Read `WRITERS_ROOM.md` and use
+`.claude/skills/wotr-room/SKILL.md` for collaborative scenes. The runner is
+`bash build/py.sh build/writers_room.py`; Claude owns prose, Codex reviews
+rules/physics/prose, Gemini reviews continuity/voice. These are task roles,
+not a model ranking. Exact sources are frozen per room; factual blockers need
+source quotations. One review round and bounded mechanical repairs are normal.
+
+`EDITORIAL_FEEDBACK.jsonl` stores only Isaac's explicit editorial reactions.
+Default scope is the scene; only explicitly general directions are WOTR-wide.
+Corrections append and supersede, never erase. The record begins empty: Isaac
+has not yet given editorial reactions to The Bitter Band.
+
+Supervised CLI workers complete independently of an idle interactive chat.
+Claude, Codex and Gemini all returned matching acknowledgment nonces in the
+runner's live smoke test (local `~/wotr-drafts/rooms/handoff-check.json`).
+Antigravity reminder hooks are installed (PreInvocation/Stop); Codex's existing
+reminders remain. These are reminders, not proof of idle wakeup. Claude's live
+session acknowledged mail through its monitor, which is session-bound. Prefer
+the supervised runner for unattended execution; check mail at interactive
+handoffs. No private pages, canon writes or publishing are part of this workflow.
+
 ### 2026-10-07 — Three-agent memory scope (Isaac; recorded by Codex)
 
 Isaac chose **WOTR only** for shared memory. All three agents use this file in

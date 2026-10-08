@@ -2887,3 +2887,9 @@ Context: 2026-10-06, Geturo's OPUS (Primary Trait): "get rid of the est" then "y
 Isaac's direction (2026-10-06): every scene, and every piece Isaac asks to have improved, extended or made better, gets a cross-read by the other model before it is posted. Claude drafts, then asks ChatGPT (ask_chatgpt); ChatGPT drafts, then asks Claude (ask_claude). Order: verify_scene clean, then the cross-read with the line-editor brief, then revise (every beat Isaac wrote kept), then verify_scene again. One round for a turn or an improvement, two for a set piece. The foot says what was kept and declined. If the other model fails or takes over five minutes, post without it and say so in one line. This widens R48-45's full check; it does not replace verify_scene.
 
 Context: Asked in the Claude Code session that built ask_chatgpt / ask_claude; supersedes the earlier default where quick table turns skipped the cross-read.
+
+## 2026-10-08 — R48-45-CHECKS
+
+Isaac's direction (2026-10-08): the cross-read runs only when Isaac asks for it ("cross-read", "cross-check", "ask ChatGPT", "ask Claude", "second opinion"). Nothing goes to the other model by default, on any surface; when he asks, the 10-06 procedure applies unchanged (verify_scene, line-editor brief, revise keeping every beat, verify again; one round, two for a set piece; foot line only when it ran). Supersedes the 2026-10-06 every-time ruling.
+
+Context: Asked in a Claude Code session: "set it up to only do the cross check if I ask". Applied to desktop/NATALIE.md, desktop/CHATGPT_INSTRUCTIONS.md, desktop/chatgpt-skills/wotr-ask-claude, and the wotr-chatgpt, wotr-write and wotr-rp skills.

@@ -57,3 +57,9 @@ so the standing prompt below governs every session here, coding ones included;
 the constraints above still bind anything written to disk.
 
 @desktop/NATALIE.md
+
+## Shared WOTR working memory
+
+Read `SHARED_MEMORY.md` after the latest `CONTINUE.md` block at session start.
+Keep durable WOTR working notes there using its update protocol, so Claude Code,
+Codex and Antigravity share the same record.

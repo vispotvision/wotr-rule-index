@@ -6,6 +6,17 @@ direction: inside work he has asked for, make the calls; no "pending" slots.
 append a dated block, do not rewrite older ones (two sessions write this repo
 at once — `git pull` before editing, and commit only your own files).
 
+## State on 2026-10-07 (shared WOTR agent memory)
+
+Isaac requested memory shared by Claude Code, Codex and Antigravity, scoped to
+WOTR only. `SHARED_MEMORY.md` is the durable working record; `AGENTS.md`,
+`CLAUDE.md` and the new `GEMINI.md` point to it. Canon remains in the existing
+authoritative files. Agent Loom carries messages and edit claims, not canon.
+Claude/Codex messaging and Antigravity-to-Codex delivery have been verified;
+automatic wakeups still need an end-to-end check. Existing sessions must read
+the new memory file explicitly. Pull before editing was attempted and refused
+because this checkout contains other work's unstaged changes; none was stashed.
+
 ## State on 2026-10-04, night (four more laws landed: R72 to R75)
 
 **Isaac answered all four questionnaires in chat** and they are law, each logged through log_ruling, rowed,

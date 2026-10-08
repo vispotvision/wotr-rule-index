@@ -6,6 +6,12 @@ state, newest block first — it says what is in flight and what only Isaac may
 decide). Isaac's standing direction: inside work he has asked for, make the
 calls and state them; no "pending Isaac" placeholders.
 
+## Shared WOTR memory
+
+After `CLAUDE.md` and the newest `CONTINUE.md` block, read `SHARED_MEMORY.md`.
+Claude Code, Codex and Antigravity use this same file for durable WOTR working
+notes. Follow its update protocol; model-private memory is not the shared record.
+
 ## What this is
 
 War of the Realms (WOTR) is Isaac's fiction world; this repo is its desk.

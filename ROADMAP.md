@@ -34,7 +34,7 @@ are made, not left pending.
 ## Phase C — canon integrity
 
 - [x] The reconcile: wiki vs live rules vs scenes, contradictions listed
-- [x] Timeline: `scenes/TIMELINE.md`, every scene placed; new scenes checked against it
+- [x] Timeline and continuity: all 204 archive files inventoried (2026-10-08); 148 placements preserved, undated files kept unplaced and six chronology/variant flags explicit
 - [x] Card-to-scene consistency: what a scene says about a character vs the card
 - [x] Pack impact check: which live rules a new pack's text touches, before extraction
 

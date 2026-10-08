@@ -6,6 +6,25 @@ direction: inside work he has asked for, make the calls; no "pending" slots.
 append a dated block, do not rewrite older ones (two sessions write this repo
 at once — `git pull` before editing, and commit only your own files).
 
+## State on 2026-10-08 (validated timeline and continuity applied)
+
+Isaac directly requested applying the validated changes from his dot Bernard
+handoff. Applied the independently reconstructed local patch to
+`scenes/TIMELINE.md` and `scenes/CONTINUITY.md`, matching the validated output
+hashes exactly. Timeline adds 31 inventory entries; continuity adds 43. Both
+now cover all 204 top-level Markdown archive files. All 148 numbered
+placements and the legacy callbacks remain intact; six chronology/variant
+flags stay explicit and no global dates were inferred.
+
+Verified all 88 source excerpts and their line numbers, every linked file,
+archive-source identity, and unchanged content for 2,746 unrelated files
+during the apply. Pre-edit copies and fingerprints are retained at
+`/tmp/wotr-timeline-backup-20261008-whdq00lk/`. Validation passes (1,740 rules,
+76 files); resolve leaves `out/` unchanged; diff checks pass. Pull refused the
+pre-existing dirty checkout; fetch confirmed HEAD matched origin/master.
+The running sync was left undisturbed; its export step does not write these
+indexes. Existing unrelated edits were not stashed or included.
+
 ## State on 2026-10-07, evening (Guild Accord emblem)
 
 Isaac approved the second Guild Accord emblem and requested a GitHub push.

@@ -6,6 +6,24 @@ direction: inside work he has asked for, make the calls; no "pending" slots.
 append a dated block, do not rewrite older ones (two sessions write this repo
 at once — `git pull` before editing, and commit only your own files).
 
+## State on 2026-10-07, evening (Guild Accord emblem)
+
+Isaac approved the second Guild Accord emblem and requested a GitHub push.
+`art/factions/guild-accord/emblem.png` preserves that image byte-for-byte;
+the adjacent README records its symbolism and the final generation prompt
+is retained separately. His visual direction: arcane bureaucracy, with an
+industrial side that does not define the institution. The selected image
+uses fine ink on parchment, scales, an interwoven lattice and a central crystal.
+The first heavy metal medallion was not selected. This saves approved artwork;
+it does not edit the rule index, table or wiki. No fixed emblem was found in
+the consulted Accord pages, and the symbolic associations are documented as
+design interpretations rather than new mechanical effects.
+
+Verified: the saved PNG matches the selected render byte-for-byte, all links
+in its note resolve, validation passes (1,740 rules across 76 files), and
+resolve leaves `out/` unchanged. Pull refused unrelated unstaged work;
+fetch confirmed the local branch matched GitHub before this commit.
+
 ## State on 2026-10-08 (three-agent writers' room)
 
 Isaac approved the reusable writers' room, shared source packets, reliable

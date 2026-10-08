@@ -4,6 +4,10 @@ Agreed with Isaac on 2026-09-12. Phases run in order; each item is checked off
 with the commit that landed it. Isaac's standing direction (2026-09-12): inside work he has asked for, the calls
 are made, not left pending.
 
+## Guild Accord emblem — Isaac approved 2026-10-07
+
+- [x] Preserve the approved arcane-bureaucracy emblem and symbolism note in `art/factions/guild-accord/`
+
 ## WOTR writers' room — Isaac approved 2026-10-08
 
 - [x] Reusable Claude/Codex/Gemini scene workflow and project skill (`build/writers_room.py`, `WRITERS_ROOM.md`)

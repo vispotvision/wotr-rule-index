@@ -2,7 +2,7 @@
 
 One line per scene, in in-world order, with the moment the text states and the position
 it was placed at. A scene whose events precede something it references is a continuity
-error. The inventory covers all 204 top-level Markdown archive files; `placed` carries the position, and the evidence
+error. The inventory covers all 206 top-level Markdown archive files; `placed` carries the position, and the evidence
 each placement rests on is in CONTINUITY.md beside it. Scenes the text does not locate
 are listed at the end rather than guessed at.
 
@@ -243,3 +243,15 @@ they do not automatically ratify originated material.
 | [the_seam_aetherion_academy.md](the_seam_aetherion_academy.md) | Broken cold room under the south range; continuous. | “Aetherion Academy. The broken cold room under the south range. Continuous.” (line 3) | The already-burning wound and shared wounds connect to [shared_wounds_aetherion_academy.md](shared_wounds_aetherion_academy.md). Compare Zeraphine's extraction in [the_regent_aetherion_academy.md](the_regent_aetherion_academy.md) with this file's later bindings, stab, kick and Transference exit. The intervening Haruki post is not archived; the escape carries an explicit contest flag. Exact interleaving and elapsed time remain open. |
 | [wystans_briefing_aetherion_arena.md](wystans_briefing_aetherion_arena.md) | Aetherion investigation briefing; author-numbered scene 3. | “Scene 3 of the run” (line 57) | Author numbering connects to [shioris_findings_aetherion_arena.md](shioris_findings_aetherion_arena.md) (4), [malphas_on_the_line_the_train_east.md](malphas_on_the_line_the_train_east.md) (5) and [mujins_interjection_aetherion_arena.md](mujins_interjection_aetherion_arena.md) (6). This is a reading sequence, not proof that all four occur consecutively in time. |
 | [xanelor_dallae.md](xanelor_dallae.md) | Combat Arena, directly after Xanelor: The Arrow. | “Combat Arena, directly after *Xanelor: The Arrow*.” (line 129) | Explicit successor to the existing placed row for [xanelor_the_arrow.md](xanelor_the_arrow.md); treatment and the broken dome lead into [geturo_whos_next.md](geturo_whos_next.md). |
+
+## New archive coverage — local order only (2026-10-09 review)
+
+These two files arrived after the October 8 inventory repair. All 148 numbered
+placements and the earlier supplements remain intact. Neither file supplies a
+settled global date. Author-note calls are identified as such, not promoted to
+independent evidence of an event elsewhere.
+
+| archive file | stated moment or limit | source evidence | connection and placement status |
+|---|---|---|---|
+| [the_stands_before_the_bell_aetherion_arena.md](the_stands_before_the_bell_aetherion_arena.md) | Class X Open Tournament, first-round morning; travellers arrived the preceding evening. | “Now it was morning, the morning of it” (line 7); “the morning of the first round” (author notes, line 131). | Local successor to the seven-days preparation in [xanelor_seven_days.md](xanelor_seven_days.md) and the injury/treatment sequence [xanelor_the_arrow.md](xanelor_the_arrow.md) → [xanelor_dallae.md](xanelor_dallae.md). No winner or calendar date inferred. Sodoku's after-Kujo thought is approximate, not a dated bridge to Kharven. |
+| [the_medlar_tree_aetherion_academy.md](the_medlar_tree_aetherion_academy.md) | Late autumn, a season after Maren's death; after the Becoming, by author notes. | “the garden is in late autumn. No IC date is fixed.” (author notes, line 211); “Aegon is complete and armed but not yet run.” (Ledger notes, line 229). | The notes name The Sour House as predecessor, but no matching local archive file was found in this review; no missing scene is supplied. Keep Aegon armed, not executed, and Nuvilak's second letter sheet withheld (line 229). The winter-694 commission and twenty-year claim require reconciliation against the Alftian records before any global placement. |

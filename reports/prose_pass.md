@@ -1,10 +1,10 @@
 # Prose-law pass over the scene archive
-_Run 2026-10-08_
+_Run 2026-10-09_
 
 
 Every FAIL is a hard rule; every WARN needs a read. Nothing was edited. Run `verify_scene` on a scene before revising it.
 
-202 scenes: 291 FAIL, 900 WARN.
+204 scenes: 293 FAIL, 905 WARN.
 
 | scene | FAIL | WARN |
 |---|---|---|
@@ -15,8 +15,8 @@ Every FAIL is a hard rule; every WARN needs a read. Nothing was edited. Run `ver
 | the_true_king_of_the_north_part_21.md | 6 | 4 |
 | the_true_king_of_the_north_part_2.md | 5 | 13 |
 | Niran_Mira_Return_to_the_Enclave.md | 5 | 12 |
+| CONTINUITY.md | 5 | 11 |
 | the_true_king_of_the_north_part_1.md | 5 | 11 |
-| CONTINUITY.md | 5 | 10 |
 | the_true_king_of_the_north_part_14.md | 5 | 8 |
 | THE_YUKARI_BLOODLINE.md | 5 | 7 |
 | xanelor_the_morning_of_the_first_bell.md | 5 | 3 |
@@ -103,6 +103,7 @@ Every FAIL is a hard rule; every WARN needs a read. Nothing was edited. Run `ver
 | sodoku_fourteenth_bow_table.md | 1 | 3 |
 | the_fight_below_aetherion_academy.md | 1 | 3 |
 | the_southern_passing.md | 1 | 3 |
+| the_stands_before_the_bell_aetherion_arena.md | 1 | 3 |
 | 08_charles_what_a_hand_is_for.md | 1 | 2 |
 | Cozbi_Antithesis_Split_Fight.md | 1 | 2 |
 | Cozbi_Construct_Combat_Scene.md | 1 | 2 |
@@ -131,6 +132,7 @@ Every FAIL is a hard rule; every WARN needs a read. Nothing was edited. Run `ver
 | rovhen_the_first_lecture.md | 1 | 1 |
 | shioris_findings_aetherion_arena.md | 1 | 1 |
 | the_knots_aetherion_academy.md | 1 | 1 |
+| the_medlar_tree_aetherion_academy.md | 1 | 1 |
 | the_regent_aetherion_academy.md | 1 | 1 |
 | the_seam_aetherion_academy.md | 1 | 1 |
 | the_undercroft_aetherion_academy.md | 1 | 1 |
@@ -446,6 +448,24 @@ Every FAIL is a hard rule; every WARN needs a read. Nothing was edited. Run `ver
 - WARN stale device: 'eleven' as a count in 9 sentences of narration, past one a scene, first "... and his hair and the grain of every surface he had touched for eleven years...." (R71-103-COMBAT_CHECKS_VERIFY_SCENE)
 - WARN stale device: 'the particular X of Y' in 2 sentences of narration, past one a scene, first "...rty days of cold camps and trail rations and the particular silence of two people who unde..." (R71-103-COMBAT_CHECKS_VERIFY_SCENE)
 
+## CONTINUITY.md
+- FAIL em dashes: 265 (banned; AI-tells §1, R15-1-AI_TELL_CHECKS_SURVIVE)
+- FAIL antithesis 'not X but Y': "Not a patch. A deliberate concealment." (R49-40-NOT_X_Y; AI-tells §1)
+- FAIL three consecutive sentences over 25 words (R4-14-CHAIN_CEILING)
+- FAIL flat runs: 46 stretches of three sentences within 40% of each other (R4-14-RUN_RULE)
+- FAIL sentences under 8 words: 9% of scene, floor is 18% (R4-14-HARD_CEILINGS)
+- WARN emotional signposting: "who was afraid" (AI-tells §4)
+- WARN modern word in narration: "boundaries" in "...ous stretch ending the night Muken dies; the file boundaries cut across it. Part 2's first..." (R48-13-PERIOD_FEEL, R49-44-MODERN_FLAGS; science sense is exempt, R49-45)
+- WARN digits for numbers up to one hundred in narration: 122 (R70-30-NUMBERS_WORDS_DIGITS: words up to one hundred, digits for system figures): "...: the column on the ice (7, 8, 9, 12b, 13..."; "...he column on the ice (7, 8, 9, 12b, 13, 1..."; "...column on the ice (7, 8, 9, 12b, 13, 14,..."; "...umn on the ice (7, 8, 9, 12b, 13, 14, 15a)..."
+- WARN Earth calendar word: "March" in "...e_true_king_of_the_north_part_2.md | The Ironwood March, ~12 years before the return..." (R51-08-CALENDAR; use the culture's own span)
+- WARN Earth calendar word: "March" in "...winter, and — years earlier — Zaehaerys rides the March to confront Fern over the p |..." (R51-08-CALENDAR; use the culture's own span)
+- WARN Earth calendar word: "March" in "...e_north_part_3.md | Fern's holdfast, the Ironwood March. Continuous | File's own date..." (R51-08-CALENDAR; use the culture's own span)
+- WARN Earth calendar word: "March" in "...d | The polar shelf, the ship north; the Ironwood March. The eleventh year | Quoted:..." (R51-08-CALENDAR; use the culture's own span)
+- WARN Earth calendar word: "March" in "...t 4 of 22; Zaehaerys styled Warden of the Eastern March here and Warden of the North..." (R51-08-CALENDAR; use the culture's own span)
+- WARN Earth calendar word: "October" in "...nce before” (line 15).    Two additions since the October 8 coverage pass; the previous..." (R51-08-CALENDAR; use the culture's own span)
+- WARN paragraphs closing on three sentences over 18 words: 3 (R4-14-HARD_CEILINGS says 0)
+- WARN stale device: 'eleven' as a count in 63 sentences of narration, past one a scene, first "...Part 2's first movement and Part 1 belong eleven years later, so Par..." (R71-103-COMBAT_CHECKS_VERIFY_SCENE)
+
 ## the_true_king_of_the_north_part_1.md
 - FAIL antithesis 'not X but Y': "that was more interesting than handsome" (R49-40-NOT_X_Y; AI-tells §1)
 - FAIL antithesis 'not X but Y': "Not blockaded. Slowed." (R49-40-NOT_X_Y; AI-tells §1)
@@ -463,23 +483,6 @@ Every FAIL is a hard rule; every WARN needs a read. Nothing was edited. Run `ver
 - WARN stale device: 'eleven' as a count in 2 sentences of narration, past one a scene, first "...She was eleven...." (R71-103-COMBAT_CHECKS_VERIFY_SCENE)
 - WARN stale device: 'the particular X of Y' in 6 sentences of narration, past one a scene, first "...d of sweat and lamp oil and the particular fermented-grain sourness of men who had been at..." (R71-103-COMBAT_CHECKS_VERIFY_SCENE)
 - WARN Kharven recurrence: 0 of the five signature items in this text (none); two per session, not per turn (R49-54-KHARVEN)
-
-## CONTINUITY.md
-- FAIL em dashes: 263 (banned; AI-tells §1, R15-1-AI_TELL_CHECKS_SURVIVE)
-- FAIL antithesis 'not X but Y': "Not a patch. A deliberate concealment." (R49-40-NOT_X_Y; AI-tells §1)
-- FAIL three consecutive sentences over 25 words (R4-14-CHAIN_CEILING)
-- FAIL flat runs: 46 stretches of three sentences within 40% of each other (R4-14-RUN_RULE)
-- FAIL sentences under 8 words: 8% of scene, floor is 18% (R4-14-HARD_CEILINGS)
-- WARN emotional signposting: "who was afraid" (AI-tells §4)
-- WARN modern word in narration: "boundaries" in "...ous stretch ending the night Muken dies; the file boundaries cut across it. Part 2's first..." (R48-13-PERIOD_FEEL, R49-44-MODERN_FLAGS; science sense is exempt, R49-45)
-- WARN digits for numbers up to one hundred in narration: 111 (R70-30-NUMBERS_WORDS_DIGITS: words up to one hundred, digits for system figures): "...: the column on the ice (7, 8, 9, 12b, 13..."; "...he column on the ice (7, 8, 9, 12b, 13, 1..."; "...column on the ice (7, 8, 9, 12b, 13, 14,..."; "...umn on the ice (7, 8, 9, 12b, 13, 14, 15a)..."
-- WARN Earth calendar word: "March" in "...e_true_king_of_the_north_part_2.md | The Ironwood March, ~12 years before the return..." (R51-08-CALENDAR; use the culture's own span)
-- WARN Earth calendar word: "March" in "...winter, and — years earlier — Zaehaerys rides the March to confront Fern over the p |..." (R51-08-CALENDAR; use the culture's own span)
-- WARN Earth calendar word: "March" in "...e_north_part_3.md | Fern's holdfast, the Ironwood March. Continuous | File's own date..." (R51-08-CALENDAR; use the culture's own span)
-- WARN Earth calendar word: "March" in "...d | The polar shelf, the ship north; the Ironwood March. The eleventh year | Quoted:..." (R51-08-CALENDAR; use the culture's own span)
-- WARN Earth calendar word: "March" in "...t 4 of 22; Zaehaerys styled Warden of the Eastern March here and Warden of the North..." (R51-08-CALENDAR; use the culture's own span)
-- WARN paragraphs closing on three sentences over 18 words: 3 (R4-14-HARD_CEILINGS says 0)
-- WARN stale device: 'eleven' as a count in 62 sentences of narration, past one a scene, first "...Part 2's first movement and Part 1 belong eleven years later, so Par..." (R71-103-COMBAT_CHECKS_VERIFY_SCENE)
 
 ## the_true_king_of_the_north_part_14.md
 - FAIL em dashes: 1 (banned; AI-tells §1, R15-1-AI_TELL_CHECKS_SURVIVE)
@@ -1285,6 +1288,12 @@ Every FAIL is a hard rule; every WARN needs a read. Nothing was edited. Run `ver
 - WARN stale device: 'eleven' as a count in 7 sentences of narration, past one a scene, first "...a fallen horse off a wounded boy at the Hollow Gate in front of eleven witnesses who were ..." (R71-103-COMBAT_CHECKS_VERIFY_SCENE)
 - WARN no anatomical/injury vocabulary found in a combat scene (R13-6-ANATOMY_VOCAB, check 23)
 
+## the_stands_before_the_bell_aetherion_arena.md
+- FAIL em dashes: 1 (banned; AI-tells §1, R15-1-AI_TELL_CHECKS_SURVIVE)
+- WARN competing similes in one paragraph (2): "Rikudoku had stretched himself out along the third tier of the souther..." (R49-18-SIMILE_COUNT: cut one if they share a beat)
+- WARN length 2811 words, outside the set-piece band 5000–∞ (Table Rule 2)
+- WARN no anatomical/injury vocabulary found in a combat scene (R13-6-ANATOMY_VOCAB, check 23)
+
 ## 08_charles_what_a_hand_is_for.md
 - FAIL antithesis 'not X but Y': "that is not a trick of language, it is" (R49-40-NOT_X_Y; AI-tells §1)
 - WARN length 2560 words, outside the set-piece band 5000–∞ (Table Rule 2)
@@ -1416,6 +1425,10 @@ Every FAIL is a hard rule; every WARN needs a read. Nothing was edited. Run `ver
 ## the_knots_aetherion_academy.md
 - FAIL em dashes: 1 (banned; AI-tells §1, R15-1-AI_TELL_CHECKS_SURVIVE)
 - WARN length 1476 words, outside the standard band 2500–4500 (Table Rule 2)
+
+## the_medlar_tree_aetherion_academy.md
+- FAIL em dashes: 1 (banned; AI-tells §1, R15-1-AI_TELL_CHECKS_SURVIVE)
+- WARN stale device: 'eleven' as a count in 2 sentences of narration, past one a scene, first "...The likeness had lasted eleven days...." (R71-103-COMBAT_CHECKS_VERIFY_SCENE)
 
 ## the_regent_aetherion_academy.md
 - FAIL em dashes: 1 (banned; AI-tells §1, R15-1-AI_TELL_CHECKS_SURVIVE)

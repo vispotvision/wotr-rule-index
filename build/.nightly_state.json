@@ -1,5 +1,5 @@
 {
-"run": "2026-10-08T03:30:00",
+"run": "2026-10-09T03:30:00",
 "findings": {
 "0e0f61e9722d": {
 "file": "commencement_of_the_curia_kujo_arc.md",
@@ -414,6 +414,41 @@
 "key": "5c7b563ca997",
 "first_seen": "2026-09-13"
 },
+"262ddc035d84": {
+"file": "CONTINUITY.md",
+"check": "prose",
+"text": "em dashes: 265 (banned; AI-tells §1, R15-1-AI_TELL_CHECKS_SURVIVE)",
+"key": "262ddc035d84",
+"first_seen": "2026-10-09"
+},
+"dfd9dae83f50": {
+"file": "CONTINUITY.md",
+"check": "prose",
+"text": "antithesis 'not X but Y': \"Not a patch. A deliberate concealment.\" (R49-40-NOT_X_Y; AI-tells §1)",
+"key": "dfd9dae83f50",
+"first_seen": "2026-10-04"
+},
+"f09c82a2c200": {
+"file": "CONTINUITY.md",
+"check": "prose",
+"text": "three consecutive sentences over 25 words (R4-14-CHAIN_CEILING)",
+"key": "f09c82a2c200",
+"first_seen": "2026-09-23"
+},
+"9e3cdeb9099b": {
+"file": "CONTINUITY.md",
+"check": "prose",
+"text": "flat runs: 46 stretches of three sentences within 40% of each other (R4-14-RUN_RULE)",
+"key": "9e3cdeb9099b",
+"first_seen": "2026-10-07"
+},
+"64a009a347ec": {
+"file": "CONTINUITY.md",
+"check": "prose",
+"text": "sentences under 8 words: 9% of scene, floor is 18% (R4-14-HARD_CEILINGS)",
+"key": "64a009a347ec",
+"first_seen": "2026-10-09"
+},
 "6d376d95054f": {
 "file": "the_true_king_of_the_north_part_1.md",
 "check": "prose",
@@ -447,41 +482,6 @@
 "check": "prose",
 "text": "flat runs: 26 stretches of three sentences within 40% of each other (R4-14-RUN_RULE)",
 "key": "287d58a6f5ba",
-"first_seen": "2026-09-23"
-},
-"bc65a2406d22": {
-"file": "CONTINUITY.md",
-"check": "prose",
-"text": "em dashes: 263 (banned; AI-tells §1, R15-1-AI_TELL_CHECKS_SURVIVE)",
-"key": "bc65a2406d22",
-"first_seen": "2026-09-23"
-},
-"dfd9dae83f50": {
-"file": "CONTINUITY.md",
-"check": "prose",
-"text": "antithesis 'not X but Y': \"Not a patch. A deliberate concealment.\" (R49-40-NOT_X_Y; AI-tells §1)",
-"key": "dfd9dae83f50",
-"first_seen": "2026-10-04"
-},
-"f09c82a2c200": {
-"file": "CONTINUITY.md",
-"check": "prose",
-"text": "three consecutive sentences over 25 words (R4-14-CHAIN_CEILING)",
-"key": "f09c82a2c200",
-"first_seen": "2026-09-23"
-},
-"9e3cdeb9099b": {
-"file": "CONTINUITY.md",
-"check": "prose",
-"text": "flat runs: 46 stretches of three sentences within 40% of each other (R4-14-RUN_RULE)",
-"key": "9e3cdeb9099b",
-"first_seen": "2026-10-07"
-},
-"2f5f71ecdfe7": {
-"file": "CONTINUITY.md",
-"check": "prose",
-"text": "sentences under 8 words: 8% of scene, floor is 18% (R4-14-HARD_CEILINGS)",
-"key": "2f5f71ecdfe7",
 "first_seen": "2026-09-23"
 },
 "49e6d19a42a3": {
@@ -1772,6 +1772,13 @@
 "key": "0dd5cc69a8f0",
 "first_seen": "2026-09-16"
 },
+"3dce3121eadb": {
+"file": "the_stands_before_the_bell_aetherion_arena.md",
+"check": "prose",
+"text": "em dashes: 1 (banned; AI-tells §1, R15-1-AI_TELL_CHECKS_SURVIVE)",
+"key": "3dce3121eadb",
+"first_seen": "2026-10-09"
+},
 "a6a00374d55d": {
 "file": "08_charles_what_a_hand_is_for.md",
 "check": "prose",
@@ -1967,6 +1974,13 @@
 "text": "em dashes: 1 (banned; AI-tells §1, R15-1-AI_TELL_CHECKS_SURVIVE)",
 "key": "1fc1c7c3606d",
 "first_seen": "2026-10-06"
+},
+"c5d467faca16": {
+"file": "the_medlar_tree_aetherion_academy.md",
+"check": "prose",
+"text": "em dashes: 1 (banned; AI-tells §1, R15-1-AI_TELL_CHECKS_SURVIVE)",
+"key": "c5d467faca16",
+"first_seen": "2026-10-09"
 },
 "9d7b0874c987": {
 "file": "the_regent_aetherion_academy.md",
@@ -2192,20 +2206,6 @@
 "key": "f097f5c87453",
 "first_seen": "2026-09-23"
 },
-"869a1022de16": {
-"file": "scenes/the_war_in_the_north_i_the_kharven_seat.md",
-"check": "stale",
-"text": "Büri",
-"key": "869a1022de16",
-"first_seen": "2026-09-19"
-},
-"f40db1222df4": {
-"file": "scenes/the_war_in_the_north_i_the_kharven_seat.md",
-"check": "stale",
-"text": "Muken Büri",
-"key": "f40db1222df4",
-"first_seen": "2026-09-19"
-},
 "fd1482fb7645": {
 "file": "scenes/CONTINUITY.md",
 "check": "stale",
@@ -2234,6 +2234,20 @@
 "key": "1ca1fc390f03",
 "first_seen": "2026-09-23"
 },
+"869a1022de16": {
+"file": "scenes/the_war_in_the_north_i_the_kharven_seat.md",
+"check": "stale",
+"text": "Büri",
+"key": "869a1022de16",
+"first_seen": "2026-09-19"
+},
+"f40db1222df4": {
+"file": "scenes/the_war_in_the_north_i_the_kharven_seat.md",
+"check": "stale",
+"text": "Muken Büri",
+"key": "f40db1222df4",
+"first_seen": "2026-09-19"
+},
 "02f6f1896910": {
 "file": "scenes/THE_KINGDOM_OF_KHARVEN_corrected.md",
 "check": "stale",
@@ -2255,6 +2269,13 @@
 "key": "d189d409f856",
 "first_seen": "2026-09-23"
 },
+"ce7bf75553e2": {
+"file": "scenes/01_verinus_fire_of_the_undeserving.md",
+"check": "stale",
+"text": "Büri",
+"key": "ce7bf75553e2",
+"first_seen": "2026-09-13"
+},
 "c3799f502fad": {
 "file": "scenes/TIMELINE.md",
 "check": "stale",
@@ -2268,13 +2289,6 @@
 "text": "Büri",
 "key": "ef56fb5b4864",
 "first_seen": "2026-09-23"
-},
-"ce7bf75553e2": {
-"file": "scenes/01_verinus_fire_of_the_undeserving.md",
-"check": "stale",
-"text": "Büri",
-"key": "ce7bf75553e2",
-"first_seen": "2026-09-13"
 },
 "9d75cd112cb9": {
 "file": "scenes/06_aurelian_what_the_lamberts_are_for.md",

@@ -4,7 +4,7 @@ notion_id: "3bd58200-eb22-81b3-924f-e45ba808f85f"
 notion_url: "https://app.notion.com/p/Dabney-Corvalen-Olyss-The-Thorn-Petaled-3bd58200eb2281b3924fe45ba808f85f"
 section: "Volume I — Character Cards"
 tags: []
-last_edited: "2026-09-26T10:30:00.000Z"
+last_edited: "2026-10-09T20:09:00.000Z"
 verification: null
 ---
 
@@ -47,7 +47,7 @@ verification: null
 
 ## IV–V · Stats
 
-**Stage VI · Glory · Level 105 · Band II.** Max Grade A. Pool 4,225 (2,000 Band I + 125 Band II + 2,100 Threshold grants Stages I–VI per R39-3). Individual allocations pending Isaac.
+**Stage VI · Glory · Level 105 · Band II.** Max Grade A. Pool 3,375 (1,200 Band I + 75 Band II + 2,100 Threshold grants Stages I–VI per R38-2 and R39-3). Individual allocations pending Isaac.
 
 ---
 

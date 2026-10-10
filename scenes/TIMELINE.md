@@ -257,13 +257,20 @@ independent evidence of an event elsewhere.
 | [the_medlar_tree_aetherion_academy.md](the_medlar_tree_aetherion_academy.md) | Late autumn, a season after Maren's death; after the Becoming, by author notes. | “the garden is in late autumn. No IC date is fixed.” (author notes, line 211); “Aegon is complete and armed but not yet run.” (Ledger notes, line 229). | The notes name The Sour House as predecessor, but no matching local archive file was found in this review; no missing scene is supplied. Keep Aegon armed, not executed, and Nuvilak's second letter sheet withheld (line 229). The winter-694 commission and twenty-year claim require reconciliation against the Alftian records before any global placement. |
 
 
-## 2026-10-10 verification note — unresolved elapsed time
+## 2026-10-10 verification note — settled elapsed time
 
-Placement 132 (`the_empty_place.md`) is retained as written. Its dateline and
-author notes say the eleventh day after the coast road (lines 3 and 248),
-but §V and its author-note recap put Aeldros's death nine days earlier
-(lines 184 and 264). `what_motion_cannot_reach.md` §V narrates that death
-on the coast road. The field-book exclusion is also eleven days (line 164).
-These clocks disagree; neither elapsed time is settled by this annotation.
-No placement is moved and no Inner World calendar is assigned. See the
-2026-10-10 Bernard review, finding 1, for the proposed reconciliation.
+Placement 132 (`the_empty_place.md`) remains eleven days after the coast
+road, as its dateline and author notes state (lines 3/248). Under Isaac's
+authorization, “Settle all these matters. I'll let you settle them,” both
+references to Aeldros's death (lines 184/264) now say eleven days.
+
+The field book arrives on day nine in `a_name_held_in_common.md` Part Two,
+§V (lines 4/110/112). Vess's exclusion in The Empty Place's body and notes
+is aligned to two days. The nine-day prisoner-feeding interval is retained
+as a separate provisioning span within the eleven days; its start is not
+dated by the text or equated with the death. No start date or report delay
+is invented, and no other nine-day reference is replaced.
+
+All 148 placements remain unchanged. No Inner World calendar or global date
+is assigned. See the October 10 Bernard review for the resolved findings
+and checks.

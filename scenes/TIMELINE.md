@@ -255,3 +255,15 @@ independent evidence of an event elsewhere.
 |---|---|---|---|
 | [the_stands_before_the_bell_aetherion_arena.md](the_stands_before_the_bell_aetherion_arena.md) | Class X Open Tournament, first-round morning; travellers arrived the preceding evening. | “Now it was morning, the morning of it” (line 7); “the morning of the first round” (author notes, line 131). | Local successor to the seven-days preparation in [xanelor_seven_days.md](xanelor_seven_days.md) and the injury/treatment sequence [xanelor_the_arrow.md](xanelor_the_arrow.md) → [xanelor_dallae.md](xanelor_dallae.md). No winner or calendar date inferred. Sodoku's after-Kujo thought is approximate, not a dated bridge to Kharven. |
 | [the_medlar_tree_aetherion_academy.md](the_medlar_tree_aetherion_academy.md) | Late autumn, a season after Maren's death; after the Becoming, by author notes. | “the garden is in late autumn. No IC date is fixed.” (author notes, line 211); “Aegon is complete and armed but not yet run.” (Ledger notes, line 229). | The notes name The Sour House as predecessor, but no matching local archive file was found in this review; no missing scene is supplied. Keep Aegon armed, not executed, and Nuvilak's second letter sheet withheld (line 229). The winter-694 commission and twenty-year claim require reconciliation against the Alftian records before any global placement. |
+
+
+## 2026-10-10 verification note — unresolved elapsed time
+
+Placement 132 (`the_empty_place.md`) is retained as written. Its dateline and
+author notes say the eleventh day after the coast road (lines 3 and 248),
+but §V and its author-note recap put Aeldros's death nine days earlier
+(lines 184 and 264). `what_motion_cannot_reach.md` §V narrates that death
+on the coast road. The field-book exclusion is also eleven days (line 164).
+These clocks disagree; neither elapsed time is settled by this annotation.
+No placement is moved and no Inner World calendar is assigned. See the
+2026-10-10 Bernard review, finding 1, for the proposed reconciliation.

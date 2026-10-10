@@ -1,21 +1,21 @@
 # Prose-law pass over the scene archive
-_Run 2026-10-09_
+_Run 2026-10-10_
 
 
 Every FAIL is a hard rule; every WARN needs a read. Nothing was edited. Run `verify_scene` on a scene before revising it.
 
-204 scenes: 293 FAIL, 905 WARN.
+204 scenes: 293 FAIL, 911 WARN.
 
 | scene | FAIL | WARN |
 |---|---|---|
-| commencement_of_the_curia_kujo_arc.md | 16 | 72 |
+| commencement_of_the_curia_kujo_arc.md | 16 | 73 |
 | The_Path_of_Sorrow.md | 16 | 38 |
 | the_true_king_of_the_north_part_9.md | 7 | 9 |
 | WOTR_Vaeloris_Sequence.md | 6 | 12 |
 | the_true_king_of_the_north_part_21.md | 6 | 4 |
 | the_true_king_of_the_north_part_2.md | 5 | 13 |
+| CONTINUITY.md | 5 | 12 |
 | Niran_Mira_Return_to_the_Enclave.md | 5 | 12 |
-| CONTINUITY.md | 5 | 11 |
 | the_true_king_of_the_north_part_1.md | 5 | 11 |
 | the_true_king_of_the_north_part_14.md | 5 | 8 |
 | THE_YUKARI_BLOODLINE.md | 5 | 7 |
@@ -75,10 +75,10 @@ Every FAIL is a hard rule; every WARN needs a read. Nothing was edited. Run `ver
 | wystans_briefing_aetherion_arena.md | 2 | 2 |
 | xanelor_rikudoku_and_the_address.md | 2 | 2 |
 | Cozbi_Rengai_Dhaerin_Confrontation.md | 2 | 1 |
+| what_the_plate_would_not_take.md | 1 | 7 |
 | rovhen_the_sort.md | 1 | 6 |
 | the_blackmatch.md | 1 | 6 |
 | the_war_in_the_north_iv_the_blank_seal.md | 1 | 6 |
-| what_the_plate_would_not_take.md | 1 | 6 |
 | 12_mujin_open_crucible.md | 1 | 5 |
 | 13_darius_the_holiest_of_holy.md | 1 | 5 |
 | the_holy_inquisition_part_1b_the_empty_chair.md | 1 | 5 |
@@ -104,6 +104,7 @@ Every FAIL is a hard rule; every WARN needs a read. Nothing was edited. Run `ver
 | the_fight_below_aetherion_academy.md | 1 | 3 |
 | the_southern_passing.md | 1 | 3 |
 | the_stands_before_the_bell_aetherion_arena.md | 1 | 3 |
+| xanelor_the_bullet_train.md | 1 | 3 |
 | 08_charles_what_a_hand_is_for.md | 1 | 2 |
 | Cozbi_Antithesis_Split_Fight.md | 1 | 2 |
 | Cozbi_Construct_Combat_Scene.md | 1 | 2 |
@@ -121,7 +122,6 @@ Every FAIL is a hard rule; every WARN needs a read. Nothing was edited. Run `ver
 | the_file_aetherion_academy.md | 1 | 2 |
 | the_great_summoners_morning.md | 1 | 2 |
 | xanelor_seven_days.md | 1 | 2 |
-| xanelor_the_bullet_train.md | 1 | 2 |
 | xanelor_the_challenge.md | 1 | 2 |
 | xanelor_the_dorms.md | 1 | 2 |
 | Cozbi_Pneuma_Unravel_Strike.md | 1 | 1 |
@@ -144,11 +144,11 @@ Every FAIL is a hard rule; every WARN needs a read. Nothing was edited. Run `ver
 | 05_aurelian_primate_under_the_wrong_stars.md | 0 | 6 |
 | 07_charles_the_imperceptible_district.md | 0 | 6 |
 | 17_darius_ignis.md | 0 | 6 |
+| 20_aurelian_no_signature.md | 0 | 6 |
 | 04_sodoku_what_the_sky_does_not_ask.md | 0 | 5 |
 | 08_sodoku_recalescence.md | 0 | 5 |
 | 15_darius_kill_me_first.md | 0 | 5 |
 | 19_aurelian_five_numbers.md | 0 | 5 |
-| 20_aurelian_no_signature.md | 0 | 5 |
 | 21_darius_the_fist_of_god.md | 0 | 5 |
 | a_name_held_in_common.md | 0 | 5 |
 | the_draught.md | 0 | 5 |
@@ -179,6 +179,7 @@ Every FAIL is a hard rule; every WARN needs a read. Nothing was edited. Run `ver
 | balance_lesson.md | 0 | 3 |
 | kaalabad_star_crusher.md | 0 | 3 |
 | on_foot.md | 0 | 3 |
+| renard_the_left_of_the_door.md | 0 | 3 |
 | sodoku_gate_reunion_lambert.md | 0 | 3 |
 | the_brink.md | 0 | 3 |
 | the_slow_match.md | 0 | 3 |
@@ -191,7 +192,6 @@ Every FAIL is a hard rule; every WARN needs a read. Nothing was edited. Run `ver
 | geturo_constrictor.md | 0 | 2 |
 | geturo_the_slip.md | 0 | 2 |
 | mu_jin_the_readers_oath.md | 0 | 2 |
-| renard_the_left_of_the_door.md | 0 | 2 |
 | spent_not_dead.md | 0 | 2 |
 | the_circus.md | 0 | 2 |
 | the_drawing_off.md | 0 | 2 |
@@ -299,6 +299,7 @@ Every FAIL is a hard rule; every WARN needs a read. Nothing was edited. Run `ver
 - WARN near a hard-ban phrase: "darkness pooled" in "...e chamber, but the wind bent subtly away from the darkness pooled around the throne. Dust settl..." (R70-36-CHECKER_ENFORCES; read it against R70-35)
 - WARN near a hard-ban phrase: "darkness pooled" in "...rial Plane on its own.  Another hour passed.  The darkness pooled around the throne climbed hig..." (R70-36-CHECKER_ENFORCES; read it against R70-35)
 - WARN paragraphs closing on three sentences over 18 words: 95 (R4-14-HARD_CEILINGS says 0)
+- WARN European fencing jargon: Vor; describe body, blade, timing and measure in plain words (R77-1-EUROPEAN_FENCING_ACTIONS, check 22)
 - WARN stale device: 'eleven' as a count in 115 sentences of narration, past one a scene, first "...t was what a room became after a man had been in it upright for eleven days with nowhere t..." (R71-103-COMBAT_CHECKS_VERIFY_SCENE)
 - WARN stale device: the overdraw nosebleed in 4 sentences of narration, past one a scene, first "...nto the boss and locking his knee, and his nose had begun to run blood down over his mouth..." (R71-103-COMBAT_CHECKS_VERIFY_SCENE)
 - WARN stale touch: the hand on the arm in 3 sentences of narration, past one a scene, first "...Yoko's hand was on his arm and was the one bon..." (R73-41-INTIMACY_CHECKS_VERIFY)
@@ -429,6 +430,25 @@ Every FAIL is a hard rule; every WARN needs a read. Nothing was edited. Run `ver
 - WARN paragraphs closing on three sentences over 18 words: 2 (R4-14-HARD_CEILINGS says 0)
 - WARN Kharven recurrence: 0 of the five signature items in this text (none); two per session, not per turn (R49-54-KHARVEN)
 
+## CONTINUITY.md
+- FAIL em dashes: 265 (banned; AI-tells §1, R15-1-AI_TELL_CHECKS_SURVIVE)
+- FAIL antithesis 'not X but Y': "Not a patch. A deliberate concealment." (R49-40-NOT_X_Y; AI-tells §1)
+- FAIL three consecutive sentences over 25 words (R4-14-CHAIN_CEILING)
+- FAIL flat runs: 46 stretches of three sentences within 40% of each other (R4-14-RUN_RULE)
+- FAIL sentences under 8 words: 9% of scene, floor is 18% (R4-14-HARD_CEILINGS)
+- WARN emotional signposting: "who was afraid" (AI-tells §4)
+- WARN modern word in narration: "boundaries" in "...ous stretch ending the night Muken dies; the file boundaries cut across it. Part 2's first..." (R48-13-PERIOD_FEEL, R49-44-MODERN_FLAGS; science sense is exempt, R49-45)
+- WARN digits for numbers up to one hundred in narration: 122 (R70-30-NUMBERS_WORDS_DIGITS: words up to one hundred, digits for system figures): "...: the column on the ice (7, 8, 9, 12b, 13..."; "...he column on the ice (7, 8, 9, 12b, 13, 1..."; "...column on the ice (7, 8, 9, 12b, 13, 14,..."; "...umn on the ice (7, 8, 9, 12b, 13, 14, 15a)..."
+- WARN Earth calendar word: "March" in "...e_true_king_of_the_north_part_2.md | The Ironwood March, ~12 years before the return..." (R51-08-CALENDAR; use the culture's own span)
+- WARN Earth calendar word: "March" in "...winter, and — years earlier — Zaehaerys rides the March to confront Fern over the p |..." (R51-08-CALENDAR; use the culture's own span)
+- WARN Earth calendar word: "March" in "...e_north_part_3.md | Fern's holdfast, the Ironwood March. Continuous | File's own date..." (R51-08-CALENDAR; use the culture's own span)
+- WARN Earth calendar word: "March" in "...d | The polar shelf, the ship north; the Ironwood March. The eleventh year | Quoted:..." (R51-08-CALENDAR; use the culture's own span)
+- WARN Earth calendar word: "March" in "...t 4 of 22; Zaehaerys styled Warden of the Eastern March here and Warden of the North..." (R51-08-CALENDAR; use the culture's own span)
+- WARN Earth calendar word: "October" in "...nce before” (line 15).    Two additions since the October 8 coverage pass; the previous..." (R51-08-CALENDAR; use the culture's own span)
+- WARN paragraphs closing on three sentences over 18 words: 3 (R4-14-HARD_CEILINGS says 0)
+- WARN European fencing jargon: Nach, Vor; describe body, blade, timing and measure in plain words (R77-1-EUROPEAN_FENCING_ACTIONS, check 22)
+- WARN stale device: 'eleven' as a count in 63 sentences of narration, past one a scene, first "...Part 2's first movement and Part 1 belong eleven years later, so Par..." (R71-103-COMBAT_CHECKS_VERIFY_SCENE)
+
 ## Niran_Mira_Return_to_the_Enclave.md
 - FAIL em dashes: 1 (banned; AI-tells §1, R15-1-AI_TELL_CHECKS_SURVIVE)
 - FAIL antithesis 'not X but Y': "Not grieving. Repairing." (R49-40-NOT_X_Y; AI-tells §1)
@@ -447,24 +467,6 @@ Every FAIL is a hard rule; every WARN needs a read. Nothing was edited. Run `ver
 - WARN length 4523 words, outside the set-piece band 5000–∞ (Table Rule 2)
 - WARN stale device: 'eleven' as a count in 9 sentences of narration, past one a scene, first "... and his hair and the grain of every surface he had touched for eleven years...." (R71-103-COMBAT_CHECKS_VERIFY_SCENE)
 - WARN stale device: 'the particular X of Y' in 2 sentences of narration, past one a scene, first "...rty days of cold camps and trail rations and the particular silence of two people who unde..." (R71-103-COMBAT_CHECKS_VERIFY_SCENE)
-
-## CONTINUITY.md
-- FAIL em dashes: 265 (banned; AI-tells §1, R15-1-AI_TELL_CHECKS_SURVIVE)
-- FAIL antithesis 'not X but Y': "Not a patch. A deliberate concealment." (R49-40-NOT_X_Y; AI-tells §1)
-- FAIL three consecutive sentences over 25 words (R4-14-CHAIN_CEILING)
-- FAIL flat runs: 46 stretches of three sentences within 40% of each other (R4-14-RUN_RULE)
-- FAIL sentences under 8 words: 9% of scene, floor is 18% (R4-14-HARD_CEILINGS)
-- WARN emotional signposting: "who was afraid" (AI-tells §4)
-- WARN modern word in narration: "boundaries" in "...ous stretch ending the night Muken dies; the file boundaries cut across it. Part 2's first..." (R48-13-PERIOD_FEEL, R49-44-MODERN_FLAGS; science sense is exempt, R49-45)
-- WARN digits for numbers up to one hundred in narration: 122 (R70-30-NUMBERS_WORDS_DIGITS: words up to one hundred, digits for system figures): "...: the column on the ice (7, 8, 9, 12b, 13..."; "...he column on the ice (7, 8, 9, 12b, 13, 1..."; "...column on the ice (7, 8, 9, 12b, 13, 14,..."; "...umn on the ice (7, 8, 9, 12b, 13, 14, 15a)..."
-- WARN Earth calendar word: "March" in "...e_true_king_of_the_north_part_2.md | The Ironwood March, ~12 years before the return..." (R51-08-CALENDAR; use the culture's own span)
-- WARN Earth calendar word: "March" in "...winter, and — years earlier — Zaehaerys rides the March to confront Fern over the p |..." (R51-08-CALENDAR; use the culture's own span)
-- WARN Earth calendar word: "March" in "...e_north_part_3.md | Fern's holdfast, the Ironwood March. Continuous | File's own date..." (R51-08-CALENDAR; use the culture's own span)
-- WARN Earth calendar word: "March" in "...d | The polar shelf, the ship north; the Ironwood March. The eleventh year | Quoted:..." (R51-08-CALENDAR; use the culture's own span)
-- WARN Earth calendar word: "March" in "...t 4 of 22; Zaehaerys styled Warden of the Eastern March here and Warden of the North..." (R51-08-CALENDAR; use the culture's own span)
-- WARN Earth calendar word: "October" in "...nce before” (line 15).    Two additions since the October 8 coverage pass; the previous..." (R51-08-CALENDAR; use the culture's own span)
-- WARN paragraphs closing on three sentences over 18 words: 3 (R4-14-HARD_CEILINGS says 0)
-- WARN stale device: 'eleven' as a count in 63 sentences of narration, past one a scene, first "...Part 2's first movement and Part 1 belong eleven years later, so Par..." (R71-103-COMBAT_CHECKS_VERIFY_SCENE)
 
 ## the_true_king_of_the_north_part_1.md
 - FAIL antithesis 'not X but Y': "that was more interesting than handsome" (R49-40-NOT_X_Y; AI-tells §1)
@@ -773,7 +775,7 @@ Every FAIL is a hard rule; every WARN needs a read. Nothing was edited. Run `ver
 - WARN paragraphs closing on three sentences over 18 words: 1 (R4-14-HARD_CEILINGS says 0)
 - WARN length 1757 words, outside the standard band 2500–4500 (Table Rule 2)
 - WARN Kharven recurrence: 0 of the five signature items in this text (none); two per session, not per turn (R49-54-KHARVEN)
-- WARN no kharven school vocabulary found in a combat scene (R70-136-NEW_CHECKS_VERIFY_SCENE, R70-100-MARTIAL_VOCABULARY_NAMES_MOVES, R13-6-HEMA_VOCAB, check 22)
+- WARN no kharven school vocabulary found in a combat scene (R70-136-NEW_CHECKS_VERIFY_SCENE, R70-100-MARTIAL_VOCABULARY_NAMES_MOVES, check 22; Eastern terminology unresolved under R77-1)
 - WARN no anatomical/injury vocabulary found in a combat scene (R13-6-ANATOMY_VOCAB, check 23)
 
 ## verinus_what_a_thing_weighs.md
@@ -898,7 +900,7 @@ Every FAIL is a hard rule; every WARN needs a read. Nothing was edited. Run `ver
 - WARN description census: architecture takes 52 of 103 hits, over half (R70-58-CHECKING_RANGE)
 - WARN stale device: 'eleven' as a count in 9 sentences of narration, past one a scene, first "...he function was the camouflage, and the camouflage had held for eleven years, and the hold..." (R71-103-COMBAT_CHECKS_VERIFY_SCENE)
 - WARN Kharven recurrence: 0 of the five signature items in this text (none); two per session, not per turn (R49-54-KHARVEN)
-- WARN no kharven school vocabulary found in a combat scene (R70-136-NEW_CHECKS_VERIFY_SCENE, R70-100-MARTIAL_VOCABULARY_NAMES_MOVES, R13-6-HEMA_VOCAB, check 22)
+- WARN no kharven school vocabulary found in a combat scene (R70-136-NEW_CHECKS_VERIFY_SCENE, R70-100-MARTIAL_VOCABULARY_NAMES_MOVES, check 22; Eastern terminology unresolved under R77-1)
 
 ## the_true_king_of_the_north_part_3.md
 - FAIL antithesis 'not X but Y': "Not behind him. Beside." (R49-40-NOT_X_Y; AI-tells §1)
@@ -1091,6 +1093,16 @@ Every FAIL is a hard rule; every WARN needs a read. Nothing was edited. Run `ver
 - FAIL three consecutive sentences over 25 words (R4-14-CHAIN_CEILING)
 - WARN length 1902 words, outside the standard band 2500–4500 (Table Rule 2)
 
+## what_the_plate_would_not_take.md
+- FAIL three consecutive sentences over 25 words (R4-14-CHAIN_CEILING)
+- WARN manufactured fragment emphasis: 3 short Not/Never/And/Only fragments (AI-tells §1)
+- WARN gloss watch: "...matched the Density in the lower yard forty feet below it, which meant everything he did up here cost more per..." (R4-13-ZERO_BUDGET, Check 15; keep only if it is the POV's own idiom)
+- WARN question in narration (hypophora?): "On chalk?" (R49-41-QUESTIONS)
+- WARN paragraphs closing on three sentences over 18 words: 1 (R4-14-HARD_CEILINGS says 0)
+- WARN length 3176 words, outside the set-piece band 5000–∞ (Table Rule 2)
+- WARN European fencing jargon: Absetzen, Zwerchhau; describe body, blade, timing and measure in plain words (R77-1-EUROPEAN_FENCING_ACTIONS, check 22)
+- WARN stale device: 'eleven' as a count in 12 sentences of narration, past one a scene, first "...tever settles, and the Density on the drill ground had never in eleven years matched the D..." (R71-103-COMBAT_CHECKS_VERIFY_SCENE)
+
 ## rovhen_the_sort.md
 - FAIL em dashes: 1 (banned; AI-tells §1, R15-1-AI_TELL_CHECKS_SURVIVE)
 - WARN Earth calendar word: "Monday" in "...d not wait to be asked.  "You'll have heard about Monday. Whole grounds heard Monday...." (R51-08-CALENDAR; use the culture's own span)
@@ -1117,15 +1129,6 @@ Every FAIL is a hard rule; every WARN needs a read. Nothing was edited. Run `ver
 - WARN paragraphs closing on three sentences over 18 words: 1 (R4-14-HARD_CEILINGS says 0)
 - WARN length 1812 words, outside the standard band 2500–4500 (Table Rule 2)
 - WARN stale device: 'eleven' as a count in 2 sentences of narration, past one a scene, first "...*He has not stopped writing to be held in eleven months and I keep d..." (R71-103-COMBAT_CHECKS_VERIFY_SCENE)
-
-## what_the_plate_would_not_take.md
-- FAIL three consecutive sentences over 25 words (R4-14-CHAIN_CEILING)
-- WARN manufactured fragment emphasis: 3 short Not/Never/And/Only fragments (AI-tells §1)
-- WARN gloss watch: "...matched the Density in the lower yard forty feet below it, which meant everything he did up here cost more per..." (R4-13-ZERO_BUDGET, Check 15; keep only if it is the POV's own idiom)
-- WARN question in narration (hypophora?): "On chalk?" (R49-41-QUESTIONS)
-- WARN paragraphs closing on three sentences over 18 words: 1 (R4-14-HARD_CEILINGS says 0)
-- WARN length 3176 words, outside the set-piece band 5000–∞ (Table Rule 2)
-- WARN stale device: 'eleven' as a count in 12 sentences of narration, past one a scene, first "...tever settles, and the Density on the drill ground had never in eleven years matched the D..." (R71-103-COMBAT_CHECKS_VERIFY_SCENE)
 
 ## 12_mujin_open_crucible.md
 - FAIL three consecutive sentences over 25 words (R4-14-CHAIN_CEILING)
@@ -1280,7 +1283,7 @@ Every FAIL is a hard rule; every WARN needs a read. Nothing was edited. Run `ver
 - FAIL em dashes: 1 (banned; AI-tells §1, R15-1-AI_TELL_CHECKS_SURVIVE)
 - WARN length 1278 words, outside the standard band 2500–4500 (Table Rule 2)
 - WARN Kharven recurrence: 1 of the five signature items in this text (the death-house / the Waiting); two per session, not per turn (R49-54-KHARVEN)
-- WARN no kharven school vocabulary found in a combat scene (R70-136-NEW_CHECKS_VERIFY_SCENE, R70-100-MARTIAL_VOCABULARY_NAMES_MOVES, R13-6-HEMA_VOCAB, check 22)
+- WARN no kharven school vocabulary found in a combat scene (R70-136-NEW_CHECKS_VERIFY_SCENE, R70-100-MARTIAL_VOCABULARY_NAMES_MOVES, check 22; Eastern terminology unresolved under R77-1)
 
 ## the_southern_passing.md
 - FAIL three consecutive sentences over 25 words (R4-14-CHAIN_CEILING)
@@ -1293,6 +1296,12 @@ Every FAIL is a hard rule; every WARN needs a read. Nothing was edited. Run `ver
 - WARN competing similes in one paragraph (2): "Rikudoku had stretched himself out along the third tier of the souther..." (R49-18-SIMILE_COUNT: cut one if they share a beat)
 - WARN length 2811 words, outside the set-piece band 5000–∞ (Table Rule 2)
 - WARN no anatomical/injury vocabulary found in a combat scene (R13-6-ANATOMY_VOCAB, check 23)
+
+## xanelor_the_bullet_train.md
+- FAIL em dashes: 1 (banned; AI-tells §1, R15-1-AI_TELL_CHECKS_SURVIVE)
+- WARN length 2603 words, outside the set-piece band 5000–∞ (Table Rule 2)
+- WARN description census: dress and adornment takes 5 of 9 hits, over half (R70-58-CHECKING_RANGE)
+- WARN European fencing jargon: Nach, Vor; describe body, blade, timing and measure in plain words (R77-1-EUROPEAN_FENCING_ACTIONS, check 22)
 
 ## 08_charles_what_a_hand_is_for.md
 - FAIL antithesis 'not X but Y': "that is not a trick of language, it is" (R49-40-NOT_X_Y; AI-tells §1)
@@ -1378,11 +1387,6 @@ Every FAIL is a hard rule; every WARN needs a read. Nothing was edited. Run `ver
 - FAIL em dashes: 1 (banned; AI-tells §1, R15-1-AI_TELL_CHECKS_SURVIVE)
 - WARN modern word in narration: "closure" in "...expression of a man reading a notice about a road closure.  A tournament sounded like a..." (R48-13-PERIOD_FEEL, R49-44-MODERN_FLAGS; science sense is exempt, R49-45)
 - WARN length 1080 words, outside the standard band 2500–4500 (Table Rule 2)
-
-## xanelor_the_bullet_train.md
-- FAIL em dashes: 1 (banned; AI-tells §1, R15-1-AI_TELL_CHECKS_SURVIVE)
-- WARN length 2603 words, outside the set-piece band 5000–∞ (Table Rule 2)
-- WARN description census: dress and adornment takes 5 of 9 hits, over half (R70-58-CHECKING_RANGE)
 
 ## xanelor_the_challenge.md
 - FAIL em dashes: 1 (banned; AI-tells §1, R15-1-AI_TELL_CHECKS_SURVIVE)
@@ -1486,6 +1490,14 @@ Every FAIL is a hard rule; every WARN needs a read. Nothing was edited. Run `ver
 - WARN stale device: 'eleven' as a count in 2 sentences of narration, past one a scene, first "...y spinning, because the alternative was to be standing still at eleven inches with a spent..." (R71-103-COMBAT_CHECKS_VERIFY_SCENE)
 - WARN Kharven recurrence: 0 of the five signature items in this text (none); two per session, not per turn (R49-54-KHARVEN)
 
+## 20_aurelian_no_signature.md
+- WARN gloss watch: "...een since the roll, and the disc in his neck reported again which meant there was enough of him left for it to..." (R4-13-ZERO_BUDGET, Check 15; keep only if it is the POV's own idiom)
+- WARN competing similes in one paragraph (2): "There was a moment between the Cycle and the next entry where Darius c..." (R49-18-SIMILE_COUNT: cut one if they share a beat)
+- WARN length 2509 words, outside the set-piece band 5000–∞ (Table Rule 2)
+- WARN European fencing jargon: Vor; describe body, blade, timing and measure in plain words (R77-1-EUROPEAN_FENCING_ACTIONS, check 22)
+- WARN stale device: 'eleven' as a count in 3 sentences of narration, past one a scene, first "...Eleven glyphs turning agai..." (R71-103-COMBAT_CHECKS_VERIFY_SCENE)
+- WARN no anatomical/injury vocabulary found in a combat scene (R13-6-ANATOMY_VOCAB, check 23)
+
 ## 04_sodoku_what_the_sky_does_not_ask.md
 - WARN possible Ladder: "is full and the narrows is" in ""My lord, the ditch is full and the narrows is."..." (Check 18: review by reading)
 - WARN gloss watch: "...e him and the reading was the same.  Two of them. Together, which meant it had come to them at the same time an..." (R4-13-ZERO_BUDGET, Check 15; keep only if it is the POV's own idiom)
@@ -1512,13 +1524,6 @@ Every FAIL is a hard rule; every WARN needs a read. Nothing was edited. Run `ver
 - WARN gloss watch: "...ld propagation and potential differential behaves anywhere, which is to say it does not push anything. It establish..." (R4-13-ZERO_BUDGET, Check 15; keep only if it is the POV's own idiom)
 - WARN length 2538 words, outside the set-piece band 5000–∞ (Table Rule 2)
 - WARN description census: architecture takes 15 of 24 hits, over half (R70-58-CHECKING_RANGE)
-- WARN no anatomical/injury vocabulary found in a combat scene (R13-6-ANATOMY_VOCAB, check 23)
-
-## 20_aurelian_no_signature.md
-- WARN gloss watch: "...een since the roll, and the disc in his neck reported again which meant there was enough of him left for it to..." (R4-13-ZERO_BUDGET, Check 15; keep only if it is the POV's own idiom)
-- WARN competing similes in one paragraph (2): "There was a moment between the Cycle and the next entry where Darius c..." (R49-18-SIMILE_COUNT: cut one if they share a beat)
-- WARN length 2509 words, outside the set-piece band 5000–∞ (Table Rule 2)
-- WARN stale device: 'eleven' as a count in 3 sentences of narration, past one a scene, first "...Eleven glyphs turning agai..." (R71-103-COMBAT_CHECKS_VERIFY_SCENE)
 - WARN no anatomical/injury vocabulary found in a combat scene (R13-6-ANATOMY_VOCAB, check 23)
 
 ## 21_darius_the_fist_of_god.md
@@ -1695,6 +1700,11 @@ Every FAIL is a hard rule; every WARN needs a read. Nothing was edited. Run `ver
 - WARN stale device: 'eleven' as a count in 8 sentences of narration, past one a scene, first "...*The coast road, eleven miles east of the c..." (R71-103-COMBAT_CHECKS_VERIFY_SCENE)
 - WARN no anatomical/injury vocabulary found in a combat scene (R13-6-ANATOMY_VOCAB, check 23)
 
+## renard_the_left_of_the_door.md
+- WARN possible Ladder: "was open and the man was" in "The bind had happened at the hand and the hand was open and the man wa..." (Check 18: review by reading)
+- WARN length 2913 words, outside the set-piece band 5000–∞ (Table Rule 2)
+- WARN European fencing jargon: Alber, Indes, Nach, Pflug, Winden, Zwerchhau; describe body, blade, timing and measure in plain words (R77-1-EUROPEAN_FENCING_ACTIONS, check 22)
+
 ## sodoku_gate_reunion_lambert.md
 - WARN length 2823 words, outside the set-piece band 5000–∞ (Table Rule 2)
 - WARN stale device: 'eleven' as a count in 6 sentences of narration, past one a scene, first "...Eleven winters of thaw had..." (R71-103-COMBAT_CHECKS_VERIFY_SCENE)
@@ -1747,10 +1757,6 @@ Every FAIL is a hard rule; every WARN needs a read. Nothing was edited. Run `ver
 ## mu_jin_the_readers_oath.md
 - WARN modern word in narration: "ok" in "...look like a lecturer's chair, sits Madam Ha Seol-ok.  She is exactly as she was a..." (R48-13-PERIOD_FEEL, R49-44-MODERN_FLAGS; science sense is exempt, R49-45)
 - WARN length 3276 words, outside the set-piece band 5000–∞ (Table Rule 2)
-
-## renard_the_left_of_the_door.md
-- WARN possible Ladder: "was open and the man was" in "The bind had happened at the hand and the hand was open and the man wa..." (Check 18: review by reading)
-- WARN length 2913 words, outside the set-piece band 5000–∞ (Table Rule 2)
 
 ## spent_not_dead.md
 - WARN length 2490 words, outside the set-piece band 5000–∞ (Table Rule 2)

@@ -1,6 +1,6 @@
 # Live rules by domain, with source text
 
-1544 live of 1740 extracted. Newest pack first within each domain; the newer rule governs where two overlap.
+1546 live of 1742 extracted. Newest pack first within each domain; the newer rule governs where two overlap.
 
 ## adjudication (154)
 
@@ -36,7 +36,7 @@ Every outcome in a fight must trace to a row in the §3 table, and the author no
 
 ### R13-4-COMBAT_FLOOR [Pack Thirteen §4]
 
-Every meaningful exchange states, in one of the four voices: measure, tempo (Vor/Nach/Indes), the named read, the fault it exposes, the mechanics of the hit, the injury by structure with ATLS-class blood loss, the Essence account at all three strata, and what the character cannot do next.
+A meaningful exchange carries measure, plain-word tempo, read, fault, hit mechanics, structural injury, Essence account and next-action limit; written scenes state the full floor, while combat roleplay shows tells and body cost with mechanism and figures in notes (R77-1, R77-2).
 
 > Every meaningful exchange (a hit that lands, a first display, a counter, a change of measure that decides something) puts the following on the page, stated, in one of the four voices:
 
@@ -60,7 +60,7 @@ The power economy remains a hard rail (finite, spent, shown on the page), the la
 
 ### R12-3-COMBAT_EXCHANGE_OWES [Pack Twelve §3]
 
-Across an engagement, at minimum: the read (evidence named), the fault (structural weakness), the counter and why it works (causal), the cost in body and reserve (both), and what the character cannot do next.
+An engagement owes read, fault, causal counter, body and reserve cost, and next-action limits; combat roleplay shows readable tells, visible body cost, read and fault as behaviour, with mechanism and figures in notes (R77-2). Written scenes keep the full explanation.
 
 > What a combat exchange now owes the reader. At minimum, across the engagement:
 
@@ -228,7 +228,7 @@ Where a ruling's operative sentence is written generally, it applies to every ca
 
 ### R71-4-FAR_FROM_FLOOR [Combat Law 2026-10-04 K4]
 
-Carry the full combat floor at first display and finisher, items 1 to 4 at every exchange that turns the fight and item 8 at a turn's close, each item stated where it happens, and let each grammar pay it its own way (Verdict the read before and the mechanics after, on the body; Blade pass by pass; Percussion and Expenditure the cost every exchange).
+Written fights carry the full combat floor at first display and finisher, items 1–4 at deciding exchanges and item 8 at turn close; each grammar pays its way. Combat roleplay pays mechanism and figures in notes and shows tells and body cost (R77-2).
 
 > Floor by grammar. Rescaled as in A, and each grammar pays the floor its own way: Verdict states the read before and the mechanics after, on the body; Blade pass by pass; Percussion and Expenditure carry the cost every exchange. (Option A there reads: Rescale, same ratios. R13-4-DENSITY_BUDGET is rewritten for today's lengths: full floor at first display and finisher, items 1 to 4 at every exchange that turns the fight, item 8 at a turn's close. Every item stated where it happens.)
 
@@ -282,7 +282,7 @@ Let a fight end by a yield that binds under the culture's custom with its terms 
 
 ### R71-23-TELL_READ [Combat Law 2026-10-04 CW14]
 
-Show a tell plainly at its first and second appearance and read it at length at the third, and when the POV is Isaac's PC leave the reading to him.
+Show a tell plainly at its first and second appearance and read it at length at the third, and when the POV is Isaac's PC leave the reading to him. Combat roleplay shows earned tells and keeps mechanism and figures in notes (R77-2).
 
 > Shown twice, then read. The tell is shown plainly at its first and second appearance and read at length at the third, matching NATALIE's two or three exchanges of evidence. When the POV is your PC, the reading is yours.
 
@@ -1196,7 +1196,7 @@ Percussion grammar; signature the Settling into the Iron Step, striking the grou
 
 ### R1-1-YOKO_ASSIGNED [Pack One Amendment One]
 
-Blade grammar; works from the bind, nose reads before eyes so her Indes is genuinely faster than her sight allows, an unfair advantage she does not comment on; answers plate with half-swording into gaps.
+Yoko uses Blade grammar, works from the bind, reads with her nose faster than sight, and answers plate with one hand on the blade and the other on the hilt to guide its point into gaps; describe her timing as action without European jargon (R77-1).
 
 > Yoko Mishiro | Blade | Works from the bind. Nose reads before eyes, so her Indes is genuinely faster than her sight allows, which is her signature and should be written as an unfair advantage she does not comment on. | Half-swording into gaps. Precision, not force. | Pitch
 
@@ -3251,7 +3251,7 @@ A new Resonant Pair may be proposed when a build reaches a combination canon's t
 
 > New, by R18-2's test. R18-2 extends to Pairs: a new one may be proposed when a build reaches a combination the ten lack, with real mechanism, Grade and effect; it binds once ratified.
 
-## combat (207)
+## combat (209)
 
 ### R20C-22-AMMUNITION_TIERS_RATIFIED [Pack Twenty R20C-22]
 
@@ -3309,7 +3309,7 @@ The twenty-six Categories say what kind of thing came out; their alignment tag n
 
 ### R13-4-COMBAT_FLOOR [Pack Thirteen §4]
 
-Every meaningful exchange states, in one of the four voices: measure, tempo (Vor/Nach/Indes), the named read, the fault it exposes, the mechanics of the hit, the injury by structure with ATLS-class blood loss, the Essence account at all three strata, and what the character cannot do next.
+A meaningful exchange carries measure, plain-word tempo, read, fault, hit mechanics, structural injury, Essence account and next-action limit; written scenes state the full floor, while combat roleplay shows tells and body cost with mechanism and figures in notes (R77-1, R77-2).
 
 > Every meaningful exchange (a hit that lands, a first display, a counter, a change of measure that decides something) puts the following on the page, stated, in one of the four voices:
 
@@ -3327,7 +3327,7 @@ Before a submitted fight or working is polished, an eight-step gap-fill pass run
 
 ### R13-6-HEMA_VOCAB [Pack Thirteen §6]
 
-Combat vocabulary draws on the full HEMA range (spear/staff, poleaxe, dagger, grappling, messer, sword and buckler, mounted lance) with a percussion master-strike table built for the hammer specifically.
+The spear/staff, poleaxe, dagger, grappling, messer, sword-and-buckler and mounted-lance mechanics, and the hammer-specific percussion table, remain; European fencing jargon is replaced by plain actions in all prose (R77-1).
 
 > HEMA, extended past the longsword: spear and staff, poleaxe, dagger and the grappling plays, messer, sword and buckler, mounted lance. A percussion master-strike table built for the hammer, not borrowed.
 
@@ -3363,7 +3363,7 @@ The Combat Craft Guide (third edition) has its §4 rewritten off this pack's §4
 
 ### R13-9-VERIFY_CHECKS_22_26 [Pack Thirteen §9]
 
-wotr_verify.sh gains a --combat flag adding checks 22 (HEMA density, warn), 23 (anatomical density, warn), 24 (causal-connective density in fight passages, fail), 25 (a stated fault per named technique, fail), and 26 (a reserve account per working, fail).
+Combat checks cover European jargon (22, WARN on occurrence under R77-1), anatomy (23, WARN), causal connection, stated fault and reserve accounting (24–26); combat roleplay pays mechanism and figures in notes under R77-2, while written scenes keep the full floor.
 
 > wotr_verify.sh. --combat flag adding checks 22 to 26: HEMA density, anatomical density, causal-connective density in fight passages, a stated fault per named technique, a reserve account per working. 22 and 23 warn; 24 to 26 fail.
 
@@ -3375,13 +3375,13 @@ Every weapon entry in the Item and Equipment Writing Guide carries mass, length,
 
 ### R12-2-TECHNICAL_REGISTER_DEF [Pack Twelve §2]
 
-The Technical Register governs combat, craft, injury and anything a practitioner does on purpose; exhaustive, tactical, delivered in-fight, explaining the read, the fault, the counter, the reserve and why the answer worked, in real vocabulary.
+The Technical Register governs chosen actions with exhaustive tactical explanation; only combat roleplay keeps mechanism and system figures in notes and shows effects and readable tells on the page (R77-2). Written scenes and books keep the full floor.
 
 > The Technical Register governs combat, craft, injury, and anything a practitioner does on purpose. It is Naruto. It is exhaustive, tactical, and delivered in-fight. It explains the read, the fault, the counter, the reserve, and the reason the answer worked. It uses real vocabulary and does not flinch from detail.
 
 ### R12-3-COMBAT_EXCHANGE_OWES [Pack Twelve §3]
 
-Across an engagement, at minimum: the read (evidence named), the fault (structural weakness), the counter and why it works (causal), the cost in body and reserve (both), and what the character cannot do next.
+An engagement owes read, fault, causal counter, body and reserve cost, and next-action limits; combat roleplay shows readable tells, visible body cost, read and fault as behaviour, with mechanism and figures in notes (R77-2). Written scenes keep the full explanation.
 
 > What a combat exchange now owes the reader. At minimum, across the engagement:
 
@@ -3531,7 +3531,7 @@ WOTR uses three combat vocabularies (Blade, Verdict, Percussion), not one; the v
 
 ### R1-1-BLADE_GRAMMAR [Pack One Amendment One]
 
-Applies to characters trained in a conventional sword tradition (guards, master-cuts, the bind, Winden, Indes, Absetzen, Durchwechseln); the full existing framework applies without change, assigned to conventional duellists, Concord Aether Knights, Old World nobility, and guild fencing traditions.
+Conventional sword traditions keep their guards, cuts, bind, read and measure mechanics, assigned to conventional duellists, Concord Aether Knights, Old World nobility and guild fencing traditions; European actions use plain body language under R77-1.
 
 > Blade Grammar (Liechtenauer/Fiore, as the guide already documents). Applies to characters trained in a conventional sword tradition. Guards, master-cuts, the bind, Winden, Indes, Absetzen, Durchwechseln. Full existing framework applies without change.
 
@@ -3585,7 +3585,7 @@ Percussion grammar; signature the Settling into the Iron Step, striking the grou
 
 ### R1-1-YOKO_ASSIGNED [Pack One Amendment One]
 
-Blade grammar; works from the bind, nose reads before eyes so her Indes is genuinely faster than her sight allows, an unfair advantage she does not comment on; answers plate with half-swording into gaps.
+Yoko uses Blade grammar, works from the bind, reads with her nose faster than sight, and answers plate with one hand on the blade and the other on the hilt to guide its point into gaps; describe her timing as action without European jargon (R77-1).
 
 > Yoko Mishiro | Blade | Works from the bind. Nose reads before eyes, so her Indes is genuinely faster than her sight allows, which is her signature and should be written as an unfair advantage she does not comment on. | Half-swording into gaps. Precision, not force. | Pitch
 
@@ -3651,7 +3651,7 @@ Name Cornwell's Sharpe (volley, smoke, the stormed breach, tactics read in the a
 
 ### R71-4-FAR_FROM_FLOOR [Combat Law 2026-10-04 K4]
 
-Carry the full combat floor at first display and finisher, items 1 to 4 at every exchange that turns the fight and item 8 at a turn's close, each item stated where it happens, and let each grammar pay it its own way (Verdict the read before and the mechanics after, on the body; Blade pass by pass; Percussion and Expenditure the cost every exchange).
+Written fights carry the full combat floor at first display and finisher, items 1–4 at deciding exchanges and item 8 at turn close; each grammar pays its way. Combat roleplay pays mechanism and figures in notes and shows tells and body cost (R77-2).
 
 > Floor by grammar. Rescaled as in A, and each grammar pays the floor its own way: Verdict states the read before and the mechanics after, on the body; Blade pass by pass; Percussion and Expenditure carry the cost every exchange. (Option A there reads: Rescale, same ratios. R13-4-DENSITY_BUDGET is rewritten for today's lengths: full floor at first display and finisher, items 1 to 4 at every exchange that turns the fight, item 8 at a turn's close. Every item stated where it happens.)
 
@@ -3765,7 +3765,7 @@ Write taunts, lies and accusations mid-exchange as moves aimed at breaking the o
 
 ### R71-23-TELL_READ [Combat Law 2026-10-04 CW14]
 
-Show a tell plainly at its first and second appearance and read it at length at the third, and when the POV is Isaac's PC leave the reading to him.
+Show a tell plainly at its first and second appearance and read it at length at the third, and when the POV is Isaac's PC leave the reading to him. Combat roleplay shows earned tells and keeps mechanism and figures in notes (R77-2).
 
 > Shown twice, then read. The tell is shown plainly at its first and second appearance and read at length at the third, matching NATALIE's two or three exchanges of evidence. When the POV is your PC, the reading is yours.
 
@@ -4155,7 +4155,7 @@ The combat answers land as one dated Combat Law rule doc logged through log_ruli
 
 ### R71-103-COMBAT_CHECKS_VERIFY_SCENE [Combat Law 2026-10-04 ME2]
 
-verify_scene's combat check gains a hammer-and-haft Percussion list, boxing as its own school and firearms and Kharven lists; it WARNs past three readout lines a scene or two a turn, on two in one exchange and on a figure carried from one exchange to the next; and it WARNs past one a scene on the archive's tired fight devices (the default 'eleven', the knock-back furrow, the overdraw nosebleed, 'without deciding to', 'the particular X of Y').
+verify_scene's combat check gains a hammer-and-haft Percussion list, boxing as its own school and firearms and Kharven lists; it WARNs past three readout lines a scene or two a turn, on two in one exchange and on a figure carried from one exchange to the next; and it WARNs past one a scene on the archive's tired fight devices (the default 'eleven', the knock-back furrow, the overdraw nosebleed, 'without deciding to', 'the particular X of Y'). European jargon is WARNed (R77-1); combat roleplay keeps mechanism and figures in notes (R77-2).
 
 > Yes to: Truer school lists (Percussion gets a hammer-and-haft list, boxing becomes its own school, and firearms and Kharven lists are added, so a gunfight or a hall fight is checked in its own words); Readout and beat counts (WARN past three readout lines a scene or two a turn, on two in one exchange, and on a figure carried from one exchange to the next (R70-86, R70-88)); Stale-device watch (WARN past one a scene on the archive's tired fight devices: the default 'eleven', the knock-back furrow, the overdraw nosebleed, 'without deciding to' and 'the particular X of Y'). Not taken: Checks 24 to 26.
 
@@ -4164,6 +4164,18 @@ verify_scene's combat check gains a hammer-and-haft Percussion list, boxing as i
 The combat sample bank holds both a fight passage in each culture file where Natalie already loads them and a bank of the fight types the archive has never written.
 
 > Both. A and B: culture passages where Natalie already loads them, and the fight types the archive has never written.
+
+### R77-1-EUROPEAN_FENCING_ACTIONS [Combat Prose Rulings 2026-10-08 R70-100-MARTIAL_VOCABULARY_NAMES_MOVES]
+
+In all WOTR prose, including dialogue, replace HEMA and European fencing-manual jargon with body, blade, timing and distance; check 22 warns on the jargon instead of rewarding it. Eastern terminology remains an open question.
+
+> Isaac, 2026-10-08: no HEMA or European fencing-manual terms in WOTR prose, for every character, post, scene and book (Vor, Nach, Indes, Zufechten, Krieg, Vom Tag, Ochs, Pflug, Alber, Zornhau, Winden, Absetzen, Durchwechseln and the like). Every guard, cut, tempo and measure is described as the body doing it: where the weight sits, where the blade is held, who moves first, how far apart they stand. This supersedes R70-100's requirement to name moves in the POV's school vocabulary for European schools. It also amends the rows that require or reward that vocabulary: R13-6-HEMA_VOCAB, R13-4-COMBAT_FLOOR (tempo is still stated, but in plain words, not Vor/Nach/Indes), R13-9-VERIFY_CHECKS_22_26 (check 22, HEMA density, should stop counting these terms as a virtue and should instead WARN when they appear), and the term lists in R1-1-BLADE_GRAMMAR and R1-1-YOKO_ASSIGNED. The mechanics of those grammars (the bind, the read, the measure) still apply; only the jargon goes.
+
+### R77-2-COMBAT_ROLEPLAY_TELLS [Combat Prose Rulings 2026-10-08 R13-4-COMBAT_FLOOR]
+
+Only in combat roleplay, show effects, readable tells, visible body cost, read and fault as behaviour; mechanism, system figures and the explanation stay in author notes, the card and Stat Ledger. Written set pieces and books keep the full floor.
+
+> Isaac's direction (2026-10-08): combat roleplay never hands the opponent the how. In any roleplay fight (Desktop turn, Discord post, and above all an improvement of Isaac's combat post) the page shows what the move does and the tells a sharp opponent could read (sound, light, frost, smell, breath, stance, what repeats, what it costs the body), never the full mechanism, the figures or why it works; those stay in the author notes, the card and the Stat Ledger. In roleplay the floor (R13-4, R71-4, R12-2, R12-3, and R70-76's "full mechanism") is paid on the body and in the notes, the read and the fault shown as behaviour; a voice explains only what it has earned by reading the tells (R71-23). Applies to his PC and NPCs alike. Written set pieces and books keep the full floor.
 
 ### R60-01-BRUTAL_LETHALITY [Combat, Society and Politics Law 2026-09-26 Combat, society and politics]
 
@@ -4353,7 +4365,7 @@ A Stage breakthrough is written from the body inside the danger that is its Cata
 
 ### R70-100-MARTIAL_VOCABULARY_NAMES_MOVES [Style Law 2026-10-03 CB1]
 
-Narration names every move of a duel in the fencing vocabulary the POV himself trained in (kesa-giri for a Moto POV, Zornhau for a Greymane POV), and a foreign school's term reaches the page only in a character's mouth.
+European-school guards, cuts, timing and measure are narrated as body actions in every post, scene and book, without European fencing jargon (R77-1); whether Eastern-school terms follow that ban remains unanswered. The school mechanics survive.
 
 > By the POV's own school. Narration names every move in the POV's own training (a Moto POV calls a diagonal cut kesa-giri, a Greymane POV a Zornhau); a foreign school's word arrives in a mouth. verify takes per-school lists.
 
@@ -4389,7 +4401,7 @@ After a death by the blade, add the killing rites when the killer is Japonic, Ko
 
 ### R70-136-NEW_CHECKS_VERIFY_SCENE [Style Law 2026-10-03 ME2]
 
-verify --combat takes a school (blade, japanese, chinese, korean, percussion) or reads the culture tag and warns only when a fight carries none of that school's terms; a marked verse block is left out of the rhythm statistics and word count but still read for dashes and hard bans; translated web-novel formulas WARN in narration and log an info line in speech.
+verify --combat takes a school (blade, japanese, chinese, korean, percussion) or reads the culture tag and warns only when a fight carries none of that school's terms; a marked verse block is left out of the rhythm statistics and word count but still read for dashes and hard bans; translated web-novel formulas WARN in narration and log an info line in speech. European jargon is WARNed, not rewarded (R77-1).
 
 > Yes to: Combat words by school (verify --combat takes a school (blade, japanese, chinese, korean, percussion) or reads the culture tag, and warns only when a fight carries none of that school's terms); A verse marker (A marked verse block (a poem, a lament, a declaration in lines) is left out of the rhythm statistics and word count; the dash and hard-ban checks still read it); Stock-formula watch (A WARN on translated web-novel formulas (you court death, this junior, this old man, lose face) in narration, and an info line in speech, so the flavour stays where DL2 puts it). Not taken: Address check.
 
@@ -5201,7 +5213,7 @@ A walk-on may be named at once only by a nickname someone else says, the narrati
 
 ### R70-136-NEW_CHECKS_VERIFY_SCENE [Style Law 2026-10-03 ME2]
 
-verify --combat takes a school (blade, japanese, chinese, korean, percussion) or reads the culture tag and warns only when a fight carries none of that school's terms; a marked verse block is left out of the rhythm statistics and word count but still read for dashes and hard bans; translated web-novel formulas WARN in narration and log an info line in speech.
+verify --combat takes a school (blade, japanese, chinese, korean, percussion) or reads the culture tag and warns only when a fight carries none of that school's terms; a marked verse block is left out of the rhythm statistics and word count but still read for dashes and hard bans; translated web-novel formulas WARN in narration and log an info line in speech. European jargon is WARNed, not rewarded (R77-1).
 
 > Yes to: Combat words by school (verify --combat takes a school (blade, japanese, chinese, korean, percussion) or reads the culture tag, and warns only when a fight carries none of that school's terms); A verse marker (A marked verse block (a poem, a lament, a declaration in lines) is left out of the rhythm statistics and word count; the dash and hard-ban checks still read it); Stock-formula watch (A WARN on translated web-novel formulas (you court death, this junior, this old man, lose face) in narration, and an info line in speech, so the flavour stays where DL2 puts it). Not taken: Address check.
 
@@ -7971,7 +7983,7 @@ The Phenomenon Bank becomes a growing library: every researched phenomenon (and 
 
 > The Phenomenon Bank becomes a growing library: every researched phenomenon (and pseudoscientific idea) is added for future workings and players to draw from.
 
-## magic-mechanism (266)
+## magic-mechanism (267)
 
 ### R20C-17-SITES_RECHARGE_UNHELPFULLY [Pack Twenty R20C-17]
 
@@ -8149,7 +8161,7 @@ Before shipping, every new working/technique/ability names in the author notes t
 
 ### R13-4-COMBAT_FLOOR [Pack Thirteen §4]
 
-Every meaningful exchange states, in one of the four voices: measure, tempo (Vor/Nach/Indes), the named read, the fault it exposes, the mechanics of the hit, the injury by structure with ATLS-class blood loss, the Essence account at all three strata, and what the character cannot do next.
+A meaningful exchange carries measure, plain-word tempo, read, fault, hit mechanics, structural injury, Essence account and next-action limit; written scenes state the full floor, while combat roleplay shows tells and body cost with mechanism and figures in notes (R77-1, R77-2).
 
 > Every meaningful exchange (a hit that lands, a first display, a counter, a change of measure that decides something) puts the following on the page, stated, in one of the four voices:
 
@@ -8221,7 +8233,7 @@ The power economy remains a hard rail (finite, spent, shown on the page), the la
 
 ### R12-2-TECHNICAL_REGISTER_DEF [Pack Twelve §2]
 
-The Technical Register governs combat, craft, injury and anything a practitioner does on purpose; exhaustive, tactical, delivered in-fight, explaining the read, the fault, the counter, the reserve and why the answer worked, in real vocabulary.
+The Technical Register governs chosen actions with exhaustive tactical explanation; only combat roleplay keeps mechanism and system figures in notes and shows effects and readable tells on the page (R77-2). Written scenes and books keep the full floor.
 
 > The Technical Register governs combat, craft, injury, and anything a practitioner does on purpose. It is Naruto. It is exhaustive, tactical, and delivered in-fight. It explains the read, the fault, the counter, the reserve, and the reason the answer worked. It uses real vocabulary and does not flinch from detail.
 
@@ -8239,7 +8251,7 @@ If a person chose to do a thing, it is Technical Register. If it was already run
 
 ### R12-3-COMBAT_EXCHANGE_OWES [Pack Twelve §3]
 
-Across an engagement, at minimum: the read (evidence named), the fault (structural weakness), the counter and why it works (causal), the cost in body and reserve (both), and what the character cannot do next.
+An engagement owes read, fault, causal counter, body and reserve cost, and next-action limits; combat roleplay shows readable tells, visible body cost, read and fault as behaviour, with mechanism and figures in notes (R77-2). Written scenes keep the full explanation.
 
 > What a combat exchange now owes the reader. At minimum, across the engagement:
 
@@ -9083,6 +9095,12 @@ Before contact in a Well fight a gauge or a practitioner's feel names the densit
 
 > Yes to: Reach written to rung (Before contact a gauge or a practitioner's feel names the density rung (Ambient Saturation through Core), and every reach in the fight is written to it. Adds reach beside §7's draw-cost row); The unawakened in it (Porters, lamp-men and timber crews are in every Well fight as people who can win it: no Shell (the layer a working fires through) to fire, no reserve to drain. Each gets a want and a line). Not taken: The register stays tidy.
 
+### R77-2-COMBAT_ROLEPLAY_TELLS [Combat Prose Rulings 2026-10-08 R13-4-COMBAT_FLOOR]
+
+Only in combat roleplay, show effects, readable tells, visible body cost, read and fault as behaviour; mechanism, system figures and the explanation stay in author notes, the card and Stat Ledger. Written set pieces and books keep the full floor.
+
+> Isaac's direction (2026-10-08): combat roleplay never hands the opponent the how. In any roleplay fight (Desktop turn, Discord post, and above all an improvement of Isaac's combat post) the page shows what the move does and the tells a sharp opponent could read (sound, light, frost, smell, breath, stance, what repeats, what it costs the body), never the full mechanism, the figures or why it works; those stay in the author notes, the card and the Stat Ledger. In roleplay the floor (R13-4, R71-4, R12-2, R12-3, and R70-76's "full mechanism") is paid on the body and in the notes, the read and the fault shown as behaviour; a voice explains only what it has earned by reading the tells (R71-23). Applies to his PC and NPCs alike. Written set pieces and books keep the full floor.
+
 ### R60-13-THE_GATE [Combat, Society and Politics Law 2026-09-26 Combat, society and politics]
 
 Few people lack a Soul Crystal, commoners included, but knowledge of magic is gatekept by administration: the Imperial Age is when nations lock down which kinds of people may use which magics.
@@ -9412,7 +9430,7 @@ Set a rite on the page as a numbered in-world form in the Guild's house style, t
 
 ### R70-76-MUCH_WORLD_MAGIC [Style Law 2026-10-03 MY8]
 
-Write what the world does by itself as stated law, with rules in the imperative, prices as prices and taboos unexplained, while people's workings keep their full mechanism.
+State the world's independent magic as law with reasons kept; people's workings keep full mechanism except in combat roleplay, whose page shows effects and tells and whose mechanism and figures stay in notes (R77-2). Written set pieces and books keep the full floor.
 
 > Law stated, reasons kept. R12-2 governs what the world does and R48-25 narrows to what people do: rules in the imperative, prices as prices, taboos unexplained. People's workings keep full mechanism.
 
@@ -11368,7 +11386,7 @@ Give an untrained POV's fights at least two fear effects in the body traced to a
 
 ### R71-23-TELL_READ [Combat Law 2026-10-04 CW14]
 
-Show a tell plainly at its first and second appearance and read it at length at the third, and when the POV is Isaac's PC leave the reading to him.
+Show a tell plainly at its first and second appearance and read it at length at the third, and when the POV is Isaac's PC leave the reading to him. Combat roleplay shows earned tells and keeps mechanism and figures in notes (R77-2).
 
 > Shown twice, then read. The tell is shown plainly at its first and second appearance and read at length at the third, matching NATALIE's two or three exchanges of evidence. When the POV is your PC, the reading is yours.
 
@@ -11896,7 +11914,7 @@ During a fight the POV's read may name Grades and gaps as her own estimates befo
 
 ### R70-100-MARTIAL_VOCABULARY_NAMES_MOVES [Style Law 2026-10-03 CB1]
 
-Narration names every move of a duel in the fencing vocabulary the POV himself trained in (kesa-giri for a Moto POV, Zornhau for a Greymane POV), and a foreign school's term reaches the page only in a character's mouth.
+European-school guards, cuts, timing and measure are narrated as body actions in every post, scene and book, without European fencing jargon (R77-1); whether Eastern-school terms follow that ban remains unanswered. The school mechanics survive.
 
 > By the POV's own school. Narration names every move in the POV's own training (a Moto POV calls a diagonal cut kesa-giri, a Greymane POV a Zornhau); a foreign school's word arrives in a mouth. verify takes per-school lists.
 
@@ -12236,7 +12254,7 @@ Narration refers to characters by POV epithets, the way the viewpoint sees them;
 
 > Narration refers to characters by POV epithets, the way the viewpoint sees them; the naming characterises.
 
-## prose-law (383)
+## prose-law (385)
 
 ### R20C-29-CATEGORY_NAMING_DIAGNOSTIC [Pack Twenty R20C-29]
 
@@ -12930,7 +12948,7 @@ The combat answers land as one dated Combat Law rule doc logged through log_ruli
 
 ### R71-103-COMBAT_CHECKS_VERIFY_SCENE [Combat Law 2026-10-04 ME2]
 
-verify_scene's combat check gains a hammer-and-haft Percussion list, boxing as its own school and firearms and Kharven lists; it WARNs past three readout lines a scene or two a turn, on two in one exchange and on a figure carried from one exchange to the next; and it WARNs past one a scene on the archive's tired fight devices (the default 'eleven', the knock-back furrow, the overdraw nosebleed, 'without deciding to', 'the particular X of Y').
+verify_scene's combat check gains a hammer-and-haft Percussion list, boxing as its own school and firearms and Kharven lists; it WARNs past three readout lines a scene or two a turn, on two in one exchange and on a figure carried from one exchange to the next; and it WARNs past one a scene on the archive's tired fight devices (the default 'eleven', the knock-back furrow, the overdraw nosebleed, 'without deciding to', 'the particular X of Y'). European jargon is WARNed (R77-1); combat roleplay keeps mechanism and figures in notes (R77-2).
 
 > Yes to: Truer school lists (Percussion gets a hammer-and-haft list, boxing becomes its own school, and firearms and Kharven lists are added, so a gunfight or a hall fight is checked in its own words); Readout and beat counts (WARN past three readout lines a scene or two a turn, on two in one exchange, and on a figure carried from one exchange to the next (R70-86, R70-88)); Stale-device watch (WARN past one a scene on the archive's tired fight devices: the default 'eleven', the knock-back furrow, the overdraw nosebleed, 'without deciding to' and 'the particular X of Y'). Not taken: Checks 24 to 26.
 
@@ -12945,6 +12963,18 @@ The combat sample bank holds both a fight passage in each culture file where Nat
 The combat work runs in order: log the law and build the new checks, run the test fight against them, amend, and only then write the guide editions and the sample bank, once, against proved law.
 
 > Law and checks, then test. Log the law and build the new checks; run the test fight against them; amend; then the guide editions and the bank, written once against proved law.
+
+### R77-1-EUROPEAN_FENCING_ACTIONS [Combat Prose Rulings 2026-10-08 R70-100-MARTIAL_VOCABULARY_NAMES_MOVES]
+
+In all WOTR prose, including dialogue, replace HEMA and European fencing-manual jargon with body, blade, timing and distance; check 22 warns on the jargon instead of rewarding it. Eastern terminology remains an open question.
+
+> Isaac, 2026-10-08: no HEMA or European fencing-manual terms in WOTR prose, for every character, post, scene and book (Vor, Nach, Indes, Zufechten, Krieg, Vom Tag, Ochs, Pflug, Alber, Zornhau, Winden, Absetzen, Durchwechseln and the like). Every guard, cut, tempo and measure is described as the body doing it: where the weight sits, where the blade is held, who moves first, how far apart they stand. This supersedes R70-100's requirement to name moves in the POV's school vocabulary for European schools. It also amends the rows that require or reward that vocabulary: R13-6-HEMA_VOCAB, R13-4-COMBAT_FLOOR (tempo is still stated, but in plain words, not Vor/Nach/Indes), R13-9-VERIFY_CHECKS_22_26 (check 22, HEMA density, should stop counting these terms as a virtue and should instead WARN when they appear), and the term lists in R1-1-BLADE_GRAMMAR and R1-1-YOKO_ASSIGNED. The mechanics of those grammars (the bind, the read, the measure) still apply; only the jargon goes.
+
+### R77-2-COMBAT_ROLEPLAY_TELLS [Combat Prose Rulings 2026-10-08 R13-4-COMBAT_FLOOR]
+
+Only in combat roleplay, show effects, readable tells, visible body cost, read and fault as behaviour; mechanism, system figures and the explanation stay in author notes, the card and Stat Ledger. Written set pieces and books keep the full floor.
+
+> Isaac's direction (2026-10-08): combat roleplay never hands the opponent the how. In any roleplay fight (Desktop turn, Discord post, and above all an improvement of Isaac's combat post) the page shows what the move does and the tells a sharp opponent could read (sound, light, frost, smell, breath, stance, what repeats, what it costs the body), never the full mechanism, the figures or why it works; those stay in the author notes, the card and the Stat Ledger. In roleplay the floor (R13-4, R71-4, R12-2, R12-3, and R70-76's "full mechanism") is paid on the body and in the notes, the read and the fault shown as behaviour; a voice explains only what it has earned by reading the tells (R71-23). Applies to his PC and NPCs alike. Written set pieces and books keep the full floor.
 
 ### R41-1-DISTANCE_IS_TWO_AXES [Distance Two Axes Ruling C-015]
 
@@ -14022,7 +14052,7 @@ An item may get one set-off card at purchase or appraisal giving its Tier, Latin
 
 ### R70-100-MARTIAL_VOCABULARY_NAMES_MOVES [Style Law 2026-10-03 CB1]
 
-Narration names every move of a duel in the fencing vocabulary the POV himself trained in (kesa-giri for a Moto POV, Zornhau for a Greymane POV), and a foreign school's term reaches the page only in a character's mouth.
+European-school guards, cuts, timing and measure are narrated as body actions in every post, scene and book, without European fencing jargon (R77-1); whether Eastern-school terms follow that ban remains unanswered. The school mechanics survive.
 
 > By the POV's own school. Narration names every move in the POV's own training (a Moto POV calls a diagonal cut kesa-giri, a Greymane POV a Zornhau); a foreign school's word arrives in a mouth. verify takes per-school lists.
 
@@ -14118,7 +14148,7 @@ Log the style law as one dated rule doc, rewrite NATALIE.md's models line and Pr
 
 ### R70-136-NEW_CHECKS_VERIFY_SCENE [Style Law 2026-10-03 ME2]
 
-verify --combat takes a school (blade, japanese, chinese, korean, percussion) or reads the culture tag and warns only when a fight carries none of that school's terms; a marked verse block is left out of the rhythm statistics and word count but still read for dashes and hard bans; translated web-novel formulas WARN in narration and log an info line in speech.
+verify --combat takes a school (blade, japanese, chinese, korean, percussion) or reads the culture tag and warns only when a fight carries none of that school's terms; a marked verse block is left out of the rhythm statistics and word count but still read for dashes and hard bans; translated web-novel formulas WARN in narration and log an info line in speech. European jargon is WARNed, not rewarded (R77-1).
 
 > Yes to: Combat words by school (verify --combat takes a school (blade, japanese, chinese, korean, percussion) or reads the culture tag, and warns only when a fight carries none of that school's terms); A verse marker (A marked verse block (a poem, a lament, a declaration in lines) is left out of the rhythm statistics and word count; the dash and hard-ban checks still read it); Stock-formula watch (A WARN on translated web-novel formulas (you court death, this junior, this old man, lose face) in narration, and an info line in speech, so the flavour stays where DL2 puts it). Not taken: Address check.
 
@@ -14536,7 +14566,7 @@ Narration refers to characters by POV epithets, the way the viewpoint sees them;
 
 > Narration refers to characters by POV epithets, the way the viewpoint sees them; the naming characterises.
 
-## register (199)
+## register (200)
 
 ### R20C-21-WELL_NAMES_CLASS_MARKED [Pack Twenty R20C-21]
 
@@ -14786,7 +14816,7 @@ Correspondence, sympathy and contagion, essence and accident, form and actualisa
 
 ### R13-6-HEMA_VOCAB [Pack Thirteen §6]
 
-Combat vocabulary draws on the full HEMA range (spear/staff, poleaxe, dagger, grappling, messer, sword and buckler, mounted lance) with a percussion master-strike table built for the hammer specifically.
+The spear/staff, poleaxe, dagger, grappling, messer, sword-and-buckler and mounted-lance mechanics, and the hammer-specific percussion table, remain; European fencing jargon is replaced by plain actions in all prose (R77-1).
 
 > HEMA, extended past the longsword: spear and staff, poleaxe, dagger and the grappling plays, messer, sword and buckler, mounted lance. A percussion master-strike table built for the hammer, not borrowed.
 
@@ -14810,7 +14840,7 @@ Anime shape-vocabulary (Nen's shroud/stop/output/expression, Naruto's shape/natu
 
 ### R12-2-TECHNICAL_REGISTER_DEF [Pack Twelve §2]
 
-The Technical Register governs combat, craft, injury and anything a practitioner does on purpose; exhaustive, tactical, delivered in-fight, explaining the read, the fault, the counter, the reserve and why the answer worked, in real vocabulary.
+The Technical Register governs chosen actions with exhaustive tactical explanation; only combat roleplay keeps mechanism and system figures in notes and shows effects and readable tells on the page (R77-2). Written scenes and books keep the full floor.
 
 > The Technical Register governs combat, craft, injury, and anything a practitioner does on purpose. It is Naruto. It is exhaustive, tactical, and delivered in-fight. It explains the read, the fault, the counter, the reserve, and the reason the answer worked. It uses real vocabulary and does not flinch from detail.
 
@@ -14993,6 +15023,12 @@ Treat each culture's folk wrestling and fist-fighting as a school: its Standing 
 Put three habits on the alchemists' trade menu (reading mouths, hands, sclera and tremor before faces, with a 'reads first' line in the card's voice block; weighing a thing by price, vessel, seal and ledger; and the bench operations as all-purpose idiom, a few logged per card), and leave quiet at the work off it.
 
 > Yes to: Reads the body first (On the menu: notices mouths, hands, sclera and tremor before faces, and reads a dose, a career or a lie in them. A card that takes it gains a 'reads first' line in its voice block); Price, vessel, seal, ledger (On the menu: weighs a thing by its cost, its vessel, whose mark closes it and where it is entered, pricing before praising. Extends R61-91 from the two texts to any alchemist who takes it); Bench words for everything (On the menu: the operations as all-purpose idiom (a plan still in the Rot, a recruit fed too fast), the Fleshshaper model (R24-1) applied to the trade, a few logged per card). Not taken: Quiet at the work.
+
+### R77-1-EUROPEAN_FENCING_ACTIONS [Combat Prose Rulings 2026-10-08 R70-100-MARTIAL_VOCABULARY_NAMES_MOVES]
+
+In all WOTR prose, including dialogue, replace HEMA and European fencing-manual jargon with body, blade, timing and distance; check 22 warns on the jargon instead of rewarding it. Eastern terminology remains an open question.
+
+> Isaac, 2026-10-08: no HEMA or European fencing-manual terms in WOTR prose, for every character, post, scene and book (Vor, Nach, Indes, Zufechten, Krieg, Vom Tag, Ochs, Pflug, Alber, Zornhau, Winden, Absetzen, Durchwechseln and the like). Every guard, cut, tempo and measure is described as the body doing it: where the weight sits, where the blade is held, who moves first, how far apart they stand. This supersedes R70-100's requirement to name moves in the POV's school vocabulary for European schools. It also amends the rows that require or reward that vocabulary: R13-6-HEMA_VOCAB, R13-4-COMBAT_FLOOR (tempo is still stated, but in plain words, not Vor/Nach/Indes), R13-9-VERIFY_CHECKS_22_26 (check 22, HEMA density, should stop counting these terms as a virtue and should instead WARN when they appear), and the term lists in R1-1-BLADE_GRAMMAR and R1-1-YOKO_ASSIGNED. The mechanics of those grammars (the bind, the read, the measure) still apply; only the jargon goes.
 
 ### R58-05-SWEARS_AND_SENSE_BANKS_APPROVED [Follow-up Rulings 2026-09-26 Follow-up answers]
 
@@ -15356,7 +15392,7 @@ A school's art may run as named, numbered forms called and counted as a ladder o
 
 ### R70-76-MUCH_WORLD_MAGIC [Style Law 2026-10-03 MY8]
 
-Write what the world does by itself as stated law, with rules in the imperative, prices as prices and taboos unexplained, while people's workings keep their full mechanism.
+State the world's independent magic as law with reasons kept; people's workings keep full mechanism except in combat roleplay, whose page shows effects and tells and whose mechanism and figures stay in notes (R77-2). Written set pieces and books keep the full floor.
 
 > Law stated, reasons kept. R12-2 governs what the world does and R48-25 narrows to what people do: rules in the imperative, prices as prices, taboos unexplained. People's workings keep full mechanism.
 
@@ -15386,7 +15422,7 @@ Gamer slang such as min-max, dump stat, aggro and cooldown may appear in a mouth
 
 ### R70-100-MARTIAL_VOCABULARY_NAMES_MOVES [Style Law 2026-10-03 CB1]
 
-Narration names every move of a duel in the fencing vocabulary the POV himself trained in (kesa-giri for a Moto POV, Zornhau for a Greymane POV), and a foreign school's term reaches the page only in a character's mouth.
+European-school guards, cuts, timing and measure are narrated as body actions in every post, scene and book, without European fencing jargon (R77-1); whether Eastern-school terms follow that ban remains unanswered. The school mechanics survive.
 
 > By the POV's own school. Narration names every move in the POV's own training (a Moto POV calls a diagonal cut kesa-giri, a Greymane POV a Zornhau); a foreign school's word arrives in a mouth. verify takes per-school lists.
 
@@ -15862,7 +15898,7 @@ Per the Mass Combat Craft Guide §7: the wounded left where they fell, the strip
 
 ### R71-4-FAR_FROM_FLOOR [Combat Law 2026-10-04 K4]
 
-Carry the full combat floor at first display and finisher, items 1 to 4 at every exchange that turns the fight and item 8 at a turn's close, each item stated where it happens, and let each grammar pay it its own way (Verdict the read before and the mechanics after, on the body; Blade pass by pass; Percussion and Expenditure the cost every exchange).
+Written fights carry the full combat floor at first display and finisher, items 1–4 at deciding exchanges and item 8 at turn close; each grammar pays its way. Combat roleplay pays mechanism and figures in notes and shows tells and body cost (R77-2).
 
 > Floor by grammar. Rescaled as in A, and each grammar pays the floor its own way: Verdict states the read before and the mechanics after, on the body; Blade pass by pass; Percussion and Expenditure carry the cost every exchange. (Option A there reads: Rescale, same ratios. R13-4-DENSITY_BUDGET is rewritten for today's lengths: full floor at first display and finisher, items 1 to 4 at every exchange that turns the fight, item 8 at a turn's close. Every item stated where it happens.)
 
@@ -16562,7 +16598,7 @@ A new Trait forms only at one of canon's four Resonance Events, written as its o
 
 > Canon's four, on the page. A new Trait forms only at one of the four events, written as its own scene; no count cap, the scale of the event is the limit.
 
-## session-protocol (117)
+## session-protocol (118)
 
 ### R20C-5-BRIEF_BURI_SECTION_MUST_GO [Pack Twenty R20C-5]
 
@@ -16719,6 +16755,12 @@ When a fight ends in a death, law moves only on a witness or a reading inside th
 The combat work runs in order: log the law and build the new checks, run the test fight against them, amend, and only then write the guide editions and the sample bank, once, against proved law.
 
 > Law and checks, then test. Log the law and build the new checks; run the test fight against them; amend; then the guide editions and the bank, written once against proved law.
+
+### R77-2-COMBAT_ROLEPLAY_TELLS [Combat Prose Rulings 2026-10-08 R13-4-COMBAT_FLOOR]
+
+Only in combat roleplay, show effects, readable tells, visible body cost, read and fault as behaviour; mechanism, system figures and the explanation stay in author notes, the card and Stat Ledger. Written set pieces and books keep the full floor.
+
+> Isaac's direction (2026-10-08): combat roleplay never hands the opponent the how. In any roleplay fight (Desktop turn, Discord post, and above all an improvement of Isaac's combat post) the page shows what the move does and the tells a sharp opponent could read (sound, light, frost, smell, breath, stance, what repeats, what it costs the body), never the full mechanism, the figures or why it works; those stay in the author notes, the card and the Stat Ledger. In roleplay the floor (R13-4, R71-4, R12-2, R12-3, and R70-76's "full mechanism") is paid on the body and in the notes, the read and the fault shown as behaviour; a voice explains only what it has earned by reading the tells (R71-23). Applies to his PC and NPCs alike. Written set pieces and books keep the full floor.
 
 ### R58-07-WREN_GRIEF_FRONT [Follow-up Rulings 2026-09-26 Follow-up answers]
 
@@ -17874,7 +17916,7 @@ No decade-by-decade technology page: the partner judges what is era-appropriate 
 
 > No decade-by-decade technology page: the partner judges what is era-appropriate in the Imperial Age scene by scene.
 
-## stats (208)
+## stats (209)
 
 ### R20C-30-STAGE_NAMES_FROM_FOW [Pack Twenty R20C-30]
 
@@ -18415,6 +18457,12 @@ Play a residue reading's protocol as action (the pair, the stands and the withdr
 At a sanctioned bout the Measurewright says her reading aloud as she takes it, so both fighters and the benches hear it, the readout reaches a fighter's own page, and a suppressed Stage is exposed in public with R70-112's bill.
 
 > Called aloud to all. She says the reading as she takes it: both fighters and the benches hear it, the readout reaches a fighter's own page, and a suppressed Stage is exposed in public, with R70-112's bill.
+
+### R77-2-COMBAT_ROLEPLAY_TELLS [Combat Prose Rulings 2026-10-08 R13-4-COMBAT_FLOOR]
+
+Only in combat roleplay, show effects, readable tells, visible body cost, read and fault as behaviour; mechanism, system figures and the explanation stay in author notes, the card and Stat Ledger. Written set pieces and books keep the full floor.
+
+> Isaac's direction (2026-10-08): combat roleplay never hands the opponent the how. In any roleplay fight (Desktop turn, Discord post, and above all an improvement of Isaac's combat post) the page shows what the move does and the tells a sharp opponent could read (sound, light, frost, smell, breath, stance, what repeats, what it costs the body), never the full mechanism, the figures or why it works; those stay in the author notes, the card and the Stat Ledger. In roleplay the floor (R13-4, R71-4, R12-2, R12-3, and R70-76's "full mechanism") is paid on the body and in the notes, the read and the fault shown as behaviour; a voice explains only what it has earned by reading the tells (R71-23). Applies to his PC and NPCs alike. Written set pieces and books keep the full floor.
 
 ### R60-03-HARD_RESERVE_CLOCK [Combat, Society and Politics Law 2026-09-26 Combat, society and politics]
 
@@ -19127,7 +19175,7 @@ The sweep of names and numbers owed across all 284 cards also applies the one '(
 
 > Yes to: One estimate mark (CH7's answer applied to every card, and flags the Level law has since made exact (Borin's, Yoko's reserves) dropped); Lore against body (Each Lore read against its card body; name drift is fixed, and any other contradiction goes to CONFLICTS.md for the docket); Dashes out (Em and en dashes taken out of card bodies and Lore, carrying the prose ban from the page to the sheet).
 
-## verification (126)
+## verification (128)
 
 ### R20C-3-SWEEP_TWO_TIERS [Pack Twenty R20C-3]
 
@@ -19335,7 +19383,7 @@ Table Rule 5's contested-action decisions must be reconstructible from the page;
 
 ### R13-9-VERIFY_CHECKS_22_26 [Pack Thirteen §9]
 
-wotr_verify.sh gains a --combat flag adding checks 22 (HEMA density, warn), 23 (anatomical density, warn), 24 (causal-connective density in fight passages, fail), 25 (a stated fault per named technique, fail), and 26 (a reserve account per working, fail).
+Combat checks cover European jargon (22, WARN on occurrence under R77-1), anatomy (23, WARN), causal connection, stated fault and reserve accounting (24–26); combat roleplay pays mechanism and figures in notes under R77-2, while written scenes keep the full floor.
 
 > wotr_verify.sh. --combat flag adding checks 22 to 26: HEMA density, anatomical density, causal-connective density in fight passages, a stated fault per named technique, a reserve account per working. 22 and 23 warn; 24 to 26 fail.
 
@@ -19641,7 +19689,7 @@ When a weapon or round is first appraised while a fight runs, a trained eye name
 
 ### R71-103-COMBAT_CHECKS_VERIFY_SCENE [Combat Law 2026-10-04 ME2]
 
-verify_scene's combat check gains a hammer-and-haft Percussion list, boxing as its own school and firearms and Kharven lists; it WARNs past three readout lines a scene or two a turn, on two in one exchange and on a figure carried from one exchange to the next; and it WARNs past one a scene on the archive's tired fight devices (the default 'eleven', the knock-back furrow, the overdraw nosebleed, 'without deciding to', 'the particular X of Y').
+verify_scene's combat check gains a hammer-and-haft Percussion list, boxing as its own school and firearms and Kharven lists; it WARNs past three readout lines a scene or two a turn, on two in one exchange and on a figure carried from one exchange to the next; and it WARNs past one a scene on the archive's tired fight devices (the default 'eleven', the knock-back furrow, the overdraw nosebleed, 'without deciding to', 'the particular X of Y'). European jargon is WARNed (R77-1); combat roleplay keeps mechanism and figures in notes (R77-2).
 
 > Yes to: Truer school lists (Percussion gets a hammer-and-haft list, boxing becomes its own school, and firearms and Kharven lists are added, so a gunfight or a hall fight is checked in its own words); Readout and beat counts (WARN past three readout lines a scene or two a turn, on two in one exchange, and on a figure carried from one exchange to the next (R70-86, R70-88)); Stale-device watch (WARN past one a scene on the archive's tired fight devices: the default 'eleven', the knock-back furrow, the overdraw nosebleed, 'without deciding to' and 'the particular X of Y'). Not taken: Checks 24 to 26.
 
@@ -19650,6 +19698,18 @@ verify_scene's combat check gains a hammer-and-haft Percussion list, boxing as i
 The combat work runs in order: log the law and build the new checks, run the test fight against them, amend, and only then write the guide editions and the sample bank, once, against proved law.
 
 > Law and checks, then test. Log the law and build the new checks; run the test fight against them; amend; then the guide editions and the bank, written once against proved law.
+
+### R77-1-EUROPEAN_FENCING_ACTIONS [Combat Prose Rulings 2026-10-08 R70-100-MARTIAL_VOCABULARY_NAMES_MOVES]
+
+In all WOTR prose, including dialogue, replace HEMA and European fencing-manual jargon with body, blade, timing and distance; check 22 warns on the jargon instead of rewarding it. Eastern terminology remains an open question.
+
+> Isaac, 2026-10-08: no HEMA or European fencing-manual terms in WOTR prose, for every character, post, scene and book (Vor, Nach, Indes, Zufechten, Krieg, Vom Tag, Ochs, Pflug, Alber, Zornhau, Winden, Absetzen, Durchwechseln and the like). Every guard, cut, tempo and measure is described as the body doing it: where the weight sits, where the blade is held, who moves first, how far apart they stand. This supersedes R70-100's requirement to name moves in the POV's school vocabulary for European schools. It also amends the rows that require or reward that vocabulary: R13-6-HEMA_VOCAB, R13-4-COMBAT_FLOOR (tempo is still stated, but in plain words, not Vor/Nach/Indes), R13-9-VERIFY_CHECKS_22_26 (check 22, HEMA density, should stop counting these terms as a virtue and should instead WARN when they appear), and the term lists in R1-1-BLADE_GRAMMAR and R1-1-YOKO_ASSIGNED. The mechanics of those grammars (the bind, the read, the measure) still apply; only the jargon goes.
+
+### R77-2-COMBAT_ROLEPLAY_TELLS [Combat Prose Rulings 2026-10-08 R13-4-COMBAT_FLOOR]
+
+Only in combat roleplay, show effects, readable tells, visible body cost, read and fault as behaviour; mechanism, system figures and the explanation stay in author notes, the card and Stat Ledger. Written set pieces and books keep the full floor.
+
+> Isaac's direction (2026-10-08): combat roleplay never hands the opponent the how. In any roleplay fight (Desktop turn, Discord post, and above all an improvement of Isaac's combat post) the page shows what the move does and the tells a sharp opponent could read (sound, light, frost, smell, breath, stance, what repeats, what it costs the body), never the full mechanism, the figures or why it works; those stay in the author notes, the card and the Stat Ledger. In roleplay the floor (R13-4, R71-4, R12-2, R12-3, and R70-76's "full mechanism") is paid on the body and in the notes, the read and the fault shown as behaviour; a voice explains only what it has earned by reading the tells (R71-23). Applies to his PC and NPCs alike. Written set pieces and books keep the full floor.
 
 ### R58-04-TITLES_EXEMPT_FROM_BAN_LIST [Follow-up Rulings 2026-09-26 Follow-up answers]
 
@@ -19797,7 +19857,7 @@ Each Standing Inventory gains a comic-name list of bynames, nicknames, rhyming s
 
 ### R70-136-NEW_CHECKS_VERIFY_SCENE [Style Law 2026-10-03 ME2]
 
-verify --combat takes a school (blade, japanese, chinese, korean, percussion) or reads the culture tag and warns only when a fight carries none of that school's terms; a marked verse block is left out of the rhythm statistics and word count but still read for dashes and hard bans; translated web-novel formulas WARN in narration and log an info line in speech.
+verify --combat takes a school (blade, japanese, chinese, korean, percussion) or reads the culture tag and warns only when a fight carries none of that school's terms; a marked verse block is left out of the rhythm statistics and word count but still read for dashes and hard bans; translated web-novel formulas WARN in narration and log an info line in speech. European jargon is WARNed, not rewarded (R77-1).
 
 > Yes to: Combat words by school (verify --combat takes a school (blade, japanese, chinese, korean, percussion) or reads the culture tag, and warns only when a fight carries none of that school's terms); A verse marker (A marked verse block (a poem, a lament, a declaration in lines) is left out of the rhythm statistics and word count; the dash and hard-ban checks still read it); Stock-formula watch (A WARN on translated web-novel formulas (you court death, this junior, this old man, lose face) in narration, and an info line in speech, so the flavour stays where DL2 puts it). Not taken: Address check.
 
@@ -21719,7 +21779,7 @@ Give each Standing Inventory a colour field saying what white, red, black and tw
 
 ### R70-76-MUCH_WORLD_MAGIC [Style Law 2026-10-03 MY8]
 
-Write what the world does by itself as stated law, with rules in the imperative, prices as prices and taboos unexplained, while people's workings keep their full mechanism.
+State the world's independent magic as law with reasons kept; people's workings keep full mechanism except in combat roleplay, whose page shows effects and tells and whose mechanism and figures stay in notes (R77-2). Written set pieces and books keep the full floor.
 
 > Law stated, reasons kept. R12-2 governs what the world does and R48-25 narrows to what people do: rules in the imperative, prices as prices, taboos unexplained. People's workings keep full mechanism.
 

@@ -1,5 +1,5 @@
 {
-"run": "2026-10-09T03:30:00",
+"run": "2026-10-10T03:30:00",
 "findings": {
 "0e0f61e9722d": {
 "file": "commencement_of_the_curia_kujo_arc.md",
@@ -379,41 +379,6 @@
 "key": "d579ca20b706",
 "first_seen": "2026-09-23"
 },
-"99abda4cca20": {
-"file": "Niran_Mira_Return_to_the_Enclave.md",
-"check": "prose",
-"text": "em dashes: 1 (banned; AI-tells §1, R15-1-AI_TELL_CHECKS_SURVIVE)",
-"key": "99abda4cca20",
-"first_seen": "2026-09-13"
-},
-"9e60abf2d6cd": {
-"file": "Niran_Mira_Return_to_the_Enclave.md",
-"check": "prose",
-"text": "antithesis 'not X but Y': \"Not grieving. Repairing.\" (R49-40-NOT_X_Y; AI-tells §1)",
-"key": "9e60abf2d6cd",
-"first_seen": "2026-10-04"
-},
-"893a474af80f": {
-"file": "Niran_Mira_Return_to_the_Enclave.md",
-"check": "prose",
-"text": "antithesis 'not X but Y': \"Not asking. Measuring.\" (R49-40-NOT_X_Y; AI-tells §1)",
-"key": "893a474af80f",
-"first_seen": "2026-10-04"
-},
-"d43cd08b361c": {
-"file": "Niran_Mira_Return_to_the_Enclave.md",
-"check": "prose",
-"text": "Ladder, two clauses in one sentence: \"Niran had maintained the wards at each camp, testing every perimeter stone against its substrate bef\" (R6-1-LADDER_BAN, Check 18)",
-"key": "d43cd08b361c",
-"first_seen": "2026-09-13"
-},
-"5c7b563ca997": {
-"file": "Niran_Mira_Return_to_the_Enclave.md",
-"check": "prose",
-"text": "three consecutive sentences over 25 words (R4-14-CHAIN_CEILING)",
-"key": "5c7b563ca997",
-"first_seen": "2026-09-13"
-},
 "262ddc035d84": {
 "file": "CONTINUITY.md",
 "check": "prose",
@@ -448,6 +413,41 @@
 "text": "sentences under 8 words: 9% of scene, floor is 18% (R4-14-HARD_CEILINGS)",
 "key": "64a009a347ec",
 "first_seen": "2026-10-09"
+},
+"99abda4cca20": {
+"file": "Niran_Mira_Return_to_the_Enclave.md",
+"check": "prose",
+"text": "em dashes: 1 (banned; AI-tells §1, R15-1-AI_TELL_CHECKS_SURVIVE)",
+"key": "99abda4cca20",
+"first_seen": "2026-09-13"
+},
+"9e60abf2d6cd": {
+"file": "Niran_Mira_Return_to_the_Enclave.md",
+"check": "prose",
+"text": "antithesis 'not X but Y': \"Not grieving. Repairing.\" (R49-40-NOT_X_Y; AI-tells §1)",
+"key": "9e60abf2d6cd",
+"first_seen": "2026-10-04"
+},
+"893a474af80f": {
+"file": "Niran_Mira_Return_to_the_Enclave.md",
+"check": "prose",
+"text": "antithesis 'not X but Y': \"Not asking. Measuring.\" (R49-40-NOT_X_Y; AI-tells §1)",
+"key": "893a474af80f",
+"first_seen": "2026-10-04"
+},
+"d43cd08b361c": {
+"file": "Niran_Mira_Return_to_the_Enclave.md",
+"check": "prose",
+"text": "Ladder, two clauses in one sentence: \"Niran had maintained the wards at each camp, testing every perimeter stone against its substrate bef\" (R6-1-LADDER_BAN, Check 18)",
+"key": "d43cd08b361c",
+"first_seen": "2026-09-13"
+},
+"5c7b563ca997": {
+"file": "Niran_Mira_Return_to_the_Enclave.md",
+"check": "prose",
+"text": "three consecutive sentences over 25 words (R4-14-CHAIN_CEILING)",
+"key": "5c7b563ca997",
+"first_seen": "2026-09-13"
 },
 "6d376d95054f": {
 "file": "the_true_king_of_the_north_part_1.md",
@@ -1576,6 +1576,13 @@
 "key": "a816e20ae5f3",
 "first_seen": "2026-09-13"
 },
+"206b9ff2ee75": {
+"file": "what_the_plate_would_not_take.md",
+"check": "prose",
+"text": "three consecutive sentences over 25 words (R4-14-CHAIN_CEILING)",
+"key": "206b9ff2ee75",
+"first_seen": "2026-09-16"
+},
 "a22bf3694219": {
 "file": "rovhen_the_sort.md",
 "check": "prose",
@@ -1596,13 +1603,6 @@
 "text": "em dashes: 1 (banned; AI-tells §1, R15-1-AI_TELL_CHECKS_SURVIVE)",
 "key": "a8537b93369d",
 "first_seen": "2026-09-19"
-},
-"206b9ff2ee75": {
-"file": "what_the_plate_would_not_take.md",
-"check": "prose",
-"text": "three consecutive sentences over 25 words (R4-14-CHAIN_CEILING)",
-"key": "206b9ff2ee75",
-"first_seen": "2026-09-16"
 },
 "48808ccbe0d6": {
 "file": "12_mujin_open_crucible.md",
@@ -1779,6 +1779,13 @@
 "key": "3dce3121eadb",
 "first_seen": "2026-10-09"
 },
+"c054ad855136": {
+"file": "xanelor_the_bullet_train.md",
+"check": "prose",
+"text": "em dashes: 1 (banned; AI-tells §1, R15-1-AI_TELL_CHECKS_SURVIVE)",
+"key": "c054ad855136",
+"first_seen": "2026-10-04"
+},
 "a6a00374d55d": {
 "file": "08_charles_what_a_hand_is_for.md",
 "check": "prose",
@@ -1897,13 +1904,6 @@
 "text": "em dashes: 1 (banned; AI-tells §1, R15-1-AI_TELL_CHECKS_SURVIVE)",
 "key": "302f1b73cb25",
 "first_seen": "2026-09-23"
-},
-"c054ad855136": {
-"file": "xanelor_the_bullet_train.md",
-"check": "prose",
-"text": "em dashes: 1 (banned; AI-tells §1, R15-1-AI_TELL_CHECKS_SURVIVE)",
-"key": "c054ad855136",
-"first_seen": "2026-10-04"
 },
 "89a7c02f21c6": {
 "file": "xanelor_the_challenge.md",

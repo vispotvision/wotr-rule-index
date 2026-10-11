@@ -1,6 +1,6 @@
 # War of the Realms — Wiki mirror
 
-680 pages, mirrored from Notion by build/notion_export.py. Read-only here; edit in Notion and re-run.
+681 pages, mirrored from Notion by build/notion_export.py. Read-only here; edit in Notion and re-run.
 
 ## Aberrations (1)
 
@@ -34,8 +34,9 @@
 
 - [The Bestiary](Bestiary/The%20Bestiary.md)
 
-## Characters (1)
+## Characters (2)
 
+- [Mara Venn](Characters/Mara%20Venn.md)
 - [Volume I — Character Cards](Characters/Volume%20I%20—%20Character%20Cards.md)
 
 ## Common — The Tongue With No Distinctions (1)

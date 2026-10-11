@@ -8,6 +8,31 @@ calls and state them; no "pending Isaac" placeholders.
 
 ## Shared WOTR memory
 
+### GPT startup (Isaac's standing direction, 2026-10-11)
+
+In every WOTR chat running on a GPT model, automatically call `natalie`, then
+immediately call `natalie_gpt` (`mcp__wotr__natalie_gpt`). Read the complete GPT
+overlay before answering or drafting. Do this even when `natalie` already
+appends the overlay; never wait for Isaac to remind you. On matters it names,
+`desktop/NATALIE.gpt.md` overrides the base Natalie prompt, including its
+direction to act on writing requests instead of stopping at a Scene Menu.
+Isaac's current direction remains first. If the connector is unreachable,
+report that and stop; never substitute remembered WOTR instructions.
+
+### Law reading before prose (Isaac, 2026-10-11, revised the same day)
+
+Every model, the same way. Once a session, before the first WOTR drafting or
+revision, read the whole live rulebook as one line per rule:
+`load_rules(tags=[], brief=True)`, about 1,550 lines. Where a client truncates
+long results, take it as `part=1` through the last part the header names (four
+today) and read every part. Then, for each task, load the full authoritative
+wording for its domain tags (`load_rules(tags=[...])`), run `check_docket` on
+the same tags, and pull `rule(id)` for any rule outside them whose one line is
+not enough. Read the rulebook again after compaction. A fetch is not a read;
+never claim coverage you have not done, or a literary pass from the verifier.
+This replaces the morning's full word-for-word reading before every task, which
+Isaac set aside as too costly: it crowded out the card and the scene.
+
 After `CLAUDE.md` and the newest `CONTINUE.md` block, read `SHARED_MEMORY.md`.
 Claude Code, Codex and Antigravity use this same file for durable WOTR working
 notes. Follow its update protocol; model-private memory is not the shared record.

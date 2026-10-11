@@ -96,6 +96,8 @@ def _git(*args: str) -> tuple[int, str]:
 
 
 def _fmt(rule: dict, full: bool = True) -> str:
+    if not full:
+        return f"{rule['id']}: {rule['summary'].strip()}"
     lines = [f"{rule['id']}  [{rule['pack']} {rule['section']}]  {rule['status']}",
              f"  {rule['summary'].strip()}"]
     if full:
@@ -141,6 +143,7 @@ server = MCPServer(
     instructions=(
         "Tools over the War of the Realms rule index at " + str(ROOT) + ". "
         "NATALIE.md (who Natalie is, the table rules) is the natalie tool: call it at the start of a session. "
+        "Once a session, before the first writing, call load_rules(tags=[], brief=True): every live rule, one line each. "
         "Before writing prose call load_rules with the task's applies_to tags "
         "(prose-law for any prose; combat, adjudication, magic-mechanism, pov, dialogue, "
         "register, naming, items, scene-structure, mass-combat, stats, magic-design, codex, "
@@ -152,15 +155,33 @@ server = MCPServer(
 
 
 @server.tool(name="load_rules")
-def load_rules_tool(tags: list[str], status: list[str] | None = None, brief: bool = False) -> str:
+def load_rules_tool(tags: list[str], status: list[str] | None = None, brief: bool = False,
+                    part: int = 0) -> str:
     """Load the rules in force for a task. tags: applies_to tags (see instructions).
-    status defaults to ["live"]. brief=True returns id + summary only."""
+    status defaults to ["live"]. brief=True returns one line per rule, id: summary.
+    tags=[] with brief=True is the whole live rulebook: read it once a session.
+    part=N (from 1) returns it in batches of ~25k tokens for clients that truncate
+    long results; the header names the part count. Read every part."""
     rules, bad = _select(tags, status or ["live"])
     out = [_fmt(r, full=not brief) for r in rules]
+    sep = "\n" if brief else "\n\n"
     head = f"-- {len(rules)} rules for tags {sorted(set(tags) - set(bad))}"
     if bad:
         head += f"  (ignored unknown tags: {bad})"
-    return head + "\n\n" + "\n\n".join(out)
+    if part:
+        pages, size = [[]], 0
+        for o in out:
+            if pages[-1] and size + len(o) > 100_000:
+                pages.append([])
+                size = 0
+            pages[-1].append(o)
+            size += len(o) + len(sep)
+        if not 1 <= part <= len(pages):
+            return f"part {part} out of range: 1 to {len(pages)}"
+        first = sum(len(p) for p in pages[:part - 1])
+        head += f"\n-- part {part} of {len(pages)}: rules {first + 1} to {first + len(pages[part - 1])}"
+        out = pages[part - 1]
+    return head + "\n\n" + sep.join(out)
 
 
 
@@ -177,14 +198,33 @@ def rule(id: str) -> str:
 def natalie(section: str = "") -> str:
     """desktop/NATALIE.md, the Judger's standing instructions: who Natalie is, the
     table rules, the Notion ids, the culture inventories. Read it at the start of
-    any WOTR session. section = a heading's words to return just that part."""
+    any WOTR session. section = a heading's words to return just that part.
+    With no section, desktop/NATALIE.gpt.md (the ChatGPT overlay) is appended at the end
+    under a header that Claude skips; section = "ChatGPT" returns the overlay alone."""
+    if section.strip().lower() in ("chatgpt", "gpt"):
+        return (ROOT / "desktop" / "NATALIE.gpt.md").read_text(encoding="utf-8")
     text = (ROOT / "desktop" / "NATALIE.md").read_text(encoding="utf-8")
     if not section.strip():
+        gpt = ROOT / "desktop" / "NATALIE.gpt.md"
+        if gpt.exists():
+            text += ("\n\n---\n\n# FOR CHATGPT SESSIONS: NATALIE.gpt.md\n\n"
+                     "Claude sessions skip everything from here to the end. A GPT model reads all of it "
+                     "now: it is your overlay on everything above, and its last section is the worked "
+                     "example of the prose Isaac wants.\n\n" + gpt.read_text(encoding="utf-8"))
         return text
     parts = re.split(r"(?m)^(?=#{1,3} )", text)
     hits = [p for p in parts if section.lower() in p.split("\n", 1)[0].lower()]
     heads = [p.split("\n", 1)[0] for p in parts if p.startswith("#")]
     return "\n".join(hits) if hits else f"no heading matches '{section}'. Headings:\n" + "\n".join(heads)
+
+
+@server.tool()
+def natalie_gpt() -> str:
+    """desktop/NATALIE.gpt.md, the overlay for ChatGPT sessions only. Call it right after
+    natalie when you are a GPT model: how to read NATALIE.md (act instead of asking,
+    which rule wins, where numbers come from), your own prose tells, and a worked example
+    of the prose Isaac wants. Claude sessions do not need it."""
+    return (ROOT / "desktop" / "NATALIE.gpt.md").read_text(encoding="utf-8")
 
 
 @server.tool()
@@ -559,7 +599,7 @@ def _overnight() -> str:
     keep, on = [], False
     for ln in text.splitlines():
         if ln.startswith("## "):
-            on = ln[3:].split(":")[0].strip() in ("Overnight", "Numbers", "Scenes archived since the last run", "Judger queue (proposals awaiting Isaac)")
+            on = ln[3:].split(":")[0].strip() in ("Overnight", "Numbers", "Scenes archived since the last run", "ChatGPT review", "Judger queue (proposals awaiting Isaac)")
         if on or ln.startswith("# "):
             keep.append(ln)
     return "# OVERNIGHT (reports/nightly.md, %d h old)\n\n" % age_h + "\n".join(keep).strip()
@@ -606,10 +646,13 @@ def verify_scene(markdown: str, combat: bool = False, culture: str = "", band: s
     countdown negation, the Ladder, apparatus-as-subject, gloss watch, signposting,
     reification budget, sentence and paragraph variance (R4-14), length band,
     interior beats, last line, Kharven recurrence (culture='Kharven'), readout counts
-    and stale devices (R71-103), and with combat=True the fight checks and the
-    POV's school vocabulary (school: blade, japanese, chinese, korean, percussion,
-    boxing, firearms, kharven; default from culture). turn=True caps readouts at
-    two, for a roleplay turn.
+    and stale devices (R71-103). European fencing jargon is WARNed on every
+    surface (R77-1); combat=True checks blade body/action evidence or the existing
+    other-school vocabulary (school: blade, japanese, chinese, korean, percussion,
+    boxing, firearms, kharven; default from culture). With combat=True and turn=True,
+    system figures/readouts belong in notes (R77-2); other turns keep the cap of two.
+    Eastern terminology remains unresolved; earned explanations and mechanism
+    leakage need a manual read.
     explicit=True adds the explicit scene checks (R73-41): senses, consequence, floor guard, euphemisms.
     Fix every FAIL, read every WARN, then post."""
     import verify
@@ -671,7 +714,7 @@ def propose_rule(title: str, rule_text: str, applies_to: list[str], rationale: s
 # the real writers and closes it with inbox_done.
 
 INBOX = ROOT / "inbox"
-HANDOFF_KINDS = ("ledger", "ruling", "scene", "front", "npc", "character", "note")
+HANDOFF_KINDS = ("ledger", "ruling", "scene", "front", "npc", "character", "note", "research")
 
 
 def _inbox_pending() -> list[Path]:
@@ -697,12 +740,47 @@ def ask_claude(prompt: str) -> str:
     return _ask("Claude", "ask_claude.sh", prompt)
 
 
-def _ask(who: str, script: str, prompt: str) -> str:
+def _ask(who: str, script: str, prompt: str, minutes: int = 5) -> str:
     try:
-        code, out = _run(["bash", str(ROOT / "build" / script), prompt], timeout=300)
+        code, out = _run(["bash", str(ROOT / "build" / script), prompt], timeout=minutes * 60)
     except subprocess.TimeoutExpired:
-        return f"{who} took longer than 5 minutes; ask a narrower question"
+        return f"{who} took longer than {minutes} minutes; ask a narrower question"
     return out.strip() if code == 0 else f"{who} call failed ({code}): {out.strip()[-600:]}"
+
+
+RESEARCH_BRIEF = """You are the research desk for War of the Realms, a fantasy setting whose magic is explained with real
+science. Research the question below with live web search; you may also read the repo's wotr tools (codex,
+load_rules with tags ["magic-design", "magic-mechanism"]) for the WOTR side, but the research itself is about
+the real world. Return markdown with these sections:
+## Phenomenon: the real phenomenon, named in scientific terms.
+## Governing law: the equations or principles, with real measured figures and units.
+## Limits: the boundary conditions, what caps it, at what scale it stops working.
+## Failure modes and costs: what breaks, what it does to a body or a material, how fast.
+## Precedent: the nearest treatments in anime, games and fiction, so we know what not to copy.
+## Sources: every URL you actually opened, numbered; cite them inline as [n] after each figure.
+Say where sources disagree. Never invent a figure: an estimate is marked as one. Change no files.
+
+Question:
+"""
+
+
+def _research_job(question: str, thread: str) -> None:
+    answer = _ask("ChatGPT", "ask_chatgpt.sh", RESEARCH_BRIEF + question, minutes=15)
+    handoff("research", "Research: " + question[:90], "[ChatGPT research with live web search; outside source, "
+            "never a rule source]\n\n**Question:** " + question + "\n\n" + answer, thread)
+
+
+@server.tool()
+def research_chatgpt(question: str, thread: str = "") -> str:
+    """Hand a real-world research question to ChatGPT (live web search, on Isaac's ChatGPT plan)
+    and get on with the work: the cited write-up lands in the inbox as a research item in 2 to
+    10 minutes (read it with inbox). For the science behind an ability, a working, a wound, a
+    material or a phenomenon: it names the real phenomenon, the governing law with measured
+    figures, the limits, the failure modes and costs, the nearest fictional precedents, and
+    every source it opened. Outside research, never a rule source or a verbatim."""
+    import threading
+    threading.Thread(target=_research_job, args=(question, thread), daemon=True).start()
+    return "ChatGPT is researching; the write-up lands in the inbox as a research item in 2 to 10 minutes."
 
 
 IMAGES = Path.home() / "wotr-drafts" / "images"
@@ -889,12 +967,13 @@ def scene_brief(beat: str, thread: str = "", scene_type: str = "standard", cultu
         f"7. Standing Inventory, two minimum ({culture}): ____ and ____   (R6-9-RECURRENCE_RULE)" + (f"  — pick from: {recurrence}" if recurrence else ""),
         "8. Ends on: ____  (physical action, an NPC line, or a thing he can now see; never a question at Isaac. Table Rule 1)",
         "9. Length band: ____  (conversational 300–700 / standard 700–1,500 / set piece 2,500+; default the middle. Table Rule 2)",
+        "9a. Each named practitioner's kit, read from character(name) before drafting: Traits, techniques, skills by name, with cost and limit. NPCs reach for theirs unprompted and inventively, at least one fresh use derived from the mechanism and inside its limits; his PC's kit moves only as his post moves it (NATALIE.md, 2026-10-08): ____",
     ]
     if scene_type in ("duel", "working"):
         lines += [
             "10. Each fighter's combat vocabulary, assigned before the technique (Blade / Verdict / Percussion / Expenditure): ____  (R1-1-THREE_VOCABULARIES_RULING)",
             "11. The read: what evidence the POV gets, over which two or three exchanges, before anything kills (R12-3-COMBAT_EXCHANGE_OWES, R12-3-NAMED_INVENTOR_RULE): ____",
-            "12. Which two of the four explaining voices carry the mechanism (R12-4-VOICE_MIXING_RULE): ____",
+            "12. Which two of the four explaining voices carry the mechanism (R12-4-VOICE_MIXING_RULE); in combat roleplay none explains the how, the page carries the tells (NATALIE.md Rule 6, 2026-10-08): ____",
             "13. Stat that decides each contested action, by row (R14-3-STATS_DECIDE_TABLE, R14-3-TRACEABILITY): ____",
         ]
     if scene_type == "battle":
@@ -1705,18 +1784,18 @@ def gap_fill(markdown: str) -> str:
     counted and asks the question each step exists to ask; run before polishing."""
     import verify as Vf
     paras = [p for p in re.split(r"\n\s*\n", markdown) if p.strip() and not p.strip().startswith("#")]
-    exchanges = [p for p in paras if Vf.HEMA.search(p) or re.search(r"\b(?:strike|struck|cut|thrust|parr|blocked|closed|drew|swung|hit)\w*\b", p, re.I)]
+    exchanges = [p for p in paras if Vf.BLADE_ACTION.search(p) or re.search(r"\b(?:strike|struck|cut|thrust|parr|blocked|closed|drew|swung|hit)\w*\b", p, re.I)]
     strata = {k: len(rx.findall(markdown)) for k, rx in STRATA.items()}
     sci = Counter(m.group(0).lower() for m in REAL_SCIENCE.finditer(markdown))
     causal = len(CAUSAL.findall(markdown))
-    anat = len(Vf.ANATOMY.findall(markdown)); hema = len(Vf.HEMA.findall(markdown)); mech = Counter(m.group(0) for m in MECHANISM_VOCAB.finditer(markdown))
+    anat = len(Vf.ANATOMY.findall(markdown)); blade = len(Vf.BLADE_ACTION.findall(markdown)); mech = Counter(m.group(0) for m in MECHANISM_VOCAB.finditer(markdown))
     prose = Vf.run(markdown, combat=True)
     out = ["# Gap-fill pass (Thirteen §5)", "",
            f"1. BEAT INVENTORY — {len(paras)} paragraphs, {len(exchanges)} carry a physical exchange. List each exchange as read → fault → counter → cost; any exchange missing one of the four is a gap (R12-3-COMBAT_EXCHANGE_OWES).",
            f"2. LOGIC AUDIT — {causal} causal connectives in the text (check 24 fails a fight passage with none). For every outcome: which stat row decided it (R14-3-TRACEABILITY)? Name the row in the author notes.",
            f"3. STRATUM AUDIT — mentions: Aether {strata['Aether']}, Wellspring {strata['Wellspring']}, Essence {strata['Essence']}. Every working explained on the page is explained at all three (R13-2-THREE_STRATA_MANDATE); a zero above is a gap.",
            f"4. PHYSICS AUDIT — real-science terms present: {', '.join(f'{k}×{v}' for k, v in sci.most_common(8)) or 'none'}. Each Wellspring law is stated as the real law with a directional operator (R13-2-STRATUM_TWO_WELLSPRING).",
-           f"5. BODY AUDIT — {anat} anatomy/injury terms, {hema} HEMA terms. Injury by structure with ATLS class at first display and finisher (R13-4-COMBAT_FLOOR); the POV's own body on the page.",
+           f"5. BODY AUDIT — {anat} anatomy/injury terms, {blade} blade body/action terms (R77-1). Injury by structure with ATLS class at first display and finisher (R13-4-COMBAT_FLOOR); the POV's own body on the page. Combat roleplay shows tells and body cost, with mechanism and figures in notes (R77-2); written fights keep the full floor.",
            f"6. PHENOMENON AUDIT — for each working: the real phenomenon it runs on, its Physics Domain and Wellspring, Category and alignment tag, and the fault the mechanism creates (R13-3-PHENOMENON_MANDATE). Write the line in the author notes if the text does not carry it.",
            f"7. VOCABULARY PASS — Mechanism Vocabulary present: {', '.join(f'{k}×{v}' for k, v in mech.most_common(8)) or 'none'}. Bare jargon mid-action stays banned; a term may be named in diagnostic voice beside its dramatisation (R13-9-STYLE_DIRECTIVE_MECHANISM_VOCAB).",
            "8. PROSE PASS (last) —", Vf.report(prose),

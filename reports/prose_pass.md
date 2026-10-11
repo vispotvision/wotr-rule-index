@@ -1,10 +1,10 @@
 # Prose-law pass over the scene archive
-_Run 2026-10-10_
+_Run 2026-10-11_
 
 
 Every FAIL is a hard rule; every WARN needs a read. Nothing was edited. Run `verify_scene` on a scene before revising it.
 
-204 scenes: 293 FAIL, 911 WARN.
+204 scenes: 293 FAIL, 912 WARN.
 
 | scene | FAIL | WARN |
 |---|---|---|
@@ -13,8 +13,8 @@ Every FAIL is a hard rule; every WARN needs a read. Nothing was edited. Run `ver
 | the_true_king_of_the_north_part_9.md | 7 | 9 |
 | WOTR_Vaeloris_Sequence.md | 6 | 12 |
 | the_true_king_of_the_north_part_21.md | 6 | 4 |
+| CONTINUITY.md | 5 | 13 |
 | the_true_king_of_the_north_part_2.md | 5 | 13 |
-| CONTINUITY.md | 5 | 12 |
 | Niran_Mira_Return_to_the_Enclave.md | 5 | 12 |
 | the_true_king_of_the_north_part_1.md | 5 | 11 |
 | the_true_king_of_the_north_part_14.md | 5 | 8 |
@@ -410,6 +410,26 @@ Every FAIL is a hard rule; every WARN needs a read. Nothing was edited. Run `ver
 - WARN Kharven recurrence: 1 of the five signature items in this text (the death-house / the Waiting); two per session, not per turn (R49-54-KHARVEN)
 - WARN no anatomical/injury vocabulary found in a combat scene (R13-6-ANATOMY_VOCAB, check 23)
 
+## CONTINUITY.md
+- FAIL em dashes: 267 (banned; AI-tells §1, R15-1-AI_TELL_CHECKS_SURVIVE)
+- FAIL antithesis 'not X but Y': "Not a patch. A deliberate concealment." (R49-40-NOT_X_Y; AI-tells §1)
+- FAIL three consecutive sentences over 25 words (R4-14-CHAIN_CEILING)
+- FAIL flat runs: 49 stretches of three sentences within 40% of each other (R4-14-RUN_RULE)
+- FAIL sentences under 8 words: 8% of scene, floor is 18% (R4-14-HARD_CEILINGS)
+- WARN emotional signposting: "who was afraid" (AI-tells §4)
+- WARN modern word in narration: "boundaries" in "...ous stretch ending the night Muken dies; the file boundaries cut across it. Part 2's first..." (R48-13-PERIOD_FEEL, R49-44-MODERN_FLAGS; science sense is exempt, R49-45)
+- WARN digits for numbers up to one hundred in narration: 124 (R70-30-NUMBERS_WORDS_DIGITS: words up to one hundred, digits for system figures): "...: the column on the ice (7, 8, 9, 12b, 13..."; "...he column on the ice (7, 8, 9, 12b, 13, 1..."; "...column on the ice (7, 8, 9, 12b, 13, 14,..."; "...umn on the ice (7, 8, 9, 12b, 13, 14, 15a)..."
+- WARN Earth calendar word: "March" in "...e_true_king_of_the_north_part_2.md | The Ironwood March, ~12 years before the return..." (R51-08-CALENDAR; use the culture's own span)
+- WARN Earth calendar word: "March" in "...winter, and — years earlier — Zaehaerys rides the March to confront Fern over the p |..." (R51-08-CALENDAR; use the culture's own span)
+- WARN Earth calendar word: "March" in "...e_north_part_3.md | Fern's holdfast, the Ironwood March. Continuous | File's own date..." (R51-08-CALENDAR; use the culture's own span)
+- WARN Earth calendar word: "March" in "...d | The polar shelf, the ship north; the Ironwood March. The eleventh year | Quoted:..." (R51-08-CALENDAR; use the culture's own span)
+- WARN Earth calendar word: "March" in "...t 4 of 22; Zaehaerys styled Warden of the Eastern March here and Warden of the North..." (R51-08-CALENDAR; use the culture's own span)
+- WARN Earth calendar word: "October" in "...nce before” (line 15).    Two additions since the October 8 coverage pass; the previous..." (R51-08-CALENDAR; use the culture's own span)
+- WARN Earth calendar word: "October" in "...bal date or Inner World calendar is assigned. The October 10 Bernard review records the..." (R51-08-CALENDAR; use the culture's own span)
+- WARN paragraphs closing on three sentences over 18 words: 3 (R4-14-HARD_CEILINGS says 0)
+- WARN European fencing jargon: Nach, Vor; describe body, blade, timing and measure in plain words (R77-1-EUROPEAN_FENCING_ACTIONS, check 22)
+- WARN stale device: 'eleven' as a count in 65 sentences of narration, past one a scene, first "...Part 2's first movement and Part 1 belong eleven years later, so Par..." (R71-103-COMBAT_CHECKS_VERIFY_SCENE)
+
 ## the_true_king_of_the_north_part_2.md
 - FAIL antithesis 'not X but Y': "It is not cruelty; it is" (R49-40-NOT_X_Y; AI-tells §1)
 - FAIL antithesis 'not X but Y': "Not it. Her." (R49-40-NOT_X_Y; AI-tells §1)
@@ -429,25 +449,6 @@ Every FAIL is a hard rule; every WARN needs a read. Nothing was edited. Run `ver
 - WARN Earth calendar word: "March" in "...ou knew it before you rode three days through the March to stand in my holdfast and c..." (R51-08-CALENDAR; use the culture's own span)
 - WARN paragraphs closing on three sentences over 18 words: 2 (R4-14-HARD_CEILINGS says 0)
 - WARN Kharven recurrence: 0 of the five signature items in this text (none); two per session, not per turn (R49-54-KHARVEN)
-
-## CONTINUITY.md
-- FAIL em dashes: 265 (banned; AI-tells §1, R15-1-AI_TELL_CHECKS_SURVIVE)
-- FAIL antithesis 'not X but Y': "Not a patch. A deliberate concealment." (R49-40-NOT_X_Y; AI-tells §1)
-- FAIL three consecutive sentences over 25 words (R4-14-CHAIN_CEILING)
-- FAIL flat runs: 46 stretches of three sentences within 40% of each other (R4-14-RUN_RULE)
-- FAIL sentences under 8 words: 9% of scene, floor is 18% (R4-14-HARD_CEILINGS)
-- WARN emotional signposting: "who was afraid" (AI-tells §4)
-- WARN modern word in narration: "boundaries" in "...ous stretch ending the night Muken dies; the file boundaries cut across it. Part 2's first..." (R48-13-PERIOD_FEEL, R49-44-MODERN_FLAGS; science sense is exempt, R49-45)
-- WARN digits for numbers up to one hundred in narration: 122 (R70-30-NUMBERS_WORDS_DIGITS: words up to one hundred, digits for system figures): "...: the column on the ice (7, 8, 9, 12b, 13..."; "...he column on the ice (7, 8, 9, 12b, 13, 1..."; "...column on the ice (7, 8, 9, 12b, 13, 14,..."; "...umn on the ice (7, 8, 9, 12b, 13, 14, 15a)..."
-- WARN Earth calendar word: "March" in "...e_true_king_of_the_north_part_2.md | The Ironwood March, ~12 years before the return..." (R51-08-CALENDAR; use the culture's own span)
-- WARN Earth calendar word: "March" in "...winter, and — years earlier — Zaehaerys rides the March to confront Fern over the p |..." (R51-08-CALENDAR; use the culture's own span)
-- WARN Earth calendar word: "March" in "...e_north_part_3.md | Fern's holdfast, the Ironwood March. Continuous | File's own date..." (R51-08-CALENDAR; use the culture's own span)
-- WARN Earth calendar word: "March" in "...d | The polar shelf, the ship north; the Ironwood March. The eleventh year | Quoted:..." (R51-08-CALENDAR; use the culture's own span)
-- WARN Earth calendar word: "March" in "...t 4 of 22; Zaehaerys styled Warden of the Eastern March here and Warden of the North..." (R51-08-CALENDAR; use the culture's own span)
-- WARN Earth calendar word: "October" in "...nce before” (line 15).    Two additions since the October 8 coverage pass; the previous..." (R51-08-CALENDAR; use the culture's own span)
-- WARN paragraphs closing on three sentences over 18 words: 3 (R4-14-HARD_CEILINGS says 0)
-- WARN European fencing jargon: Nach, Vor; describe body, blade, timing and measure in plain words (R77-1-EUROPEAN_FENCING_ACTIONS, check 22)
-- WARN stale device: 'eleven' as a count in 63 sentences of narration, past one a scene, first "...Part 2's first movement and Part 1 belong eleven years later, so Par..." (R71-103-COMBAT_CHECKS_VERIFY_SCENE)
 
 ## Niran_Mira_Return_to_the_Enclave.md
 - FAIL em dashes: 1 (banned; AI-tells §1, R15-1-AI_TELL_CHECKS_SURVIVE)
@@ -981,7 +982,7 @@ Every FAIL is a hard rule; every WARN needs a read. Nothing was edited. Run `ver
 - FAIL flat runs: 4 stretches of three sentences within 40% of each other (R4-14-RUN_RULE)
 - WARN manufactured fragment emphasis: 3 short Not/Never/And/Only fragments (AI-tells §1)
 - WARN length 2475 words, outside the set-piece band 5000–∞ (Table Rule 2)
-- WARN stale device: 'eleven' as a count in 14 sentences of narration, past one a scene, first "...Black lacquer over eleven plates to the knuck..." (R71-103-COMBAT_CHECKS_VERIFY_SCENE)
+- WARN stale device: 'eleven' as a count in 12 sentences of narration, past one a scene, first "...Black lacquer over eleven plates to the knuck..." (R71-103-COMBAT_CHECKS_VERIFY_SCENE)
 - WARN no anatomical/injury vocabulary found in a combat scene (R13-6-ANATOMY_VOCAB, check 23)
 
 ## the_war_in_the_north_iii_utopia.md

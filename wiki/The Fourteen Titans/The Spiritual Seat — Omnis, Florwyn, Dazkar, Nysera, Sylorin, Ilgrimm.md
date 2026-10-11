@@ -4,7 +4,7 @@ notion_id: "3c758200-eb22-81f8-b77d-ff56d9e41528"
 notion_url: "https://app.notion.com/p/The-Spiritual-Seat-Omnis-Florwyn-Dazkar-Nysera-Sylorin-Ilgrimm-3c758200eb2281f8b77dff56d9e41528"
 section: "The Fourteen Titans"
 tags: []
-last_edited: "2026-09-28T08:18:00.000Z"
+last_edited: "2026-10-11T20:02:00.000Z"
 verification: "unverified"
 ---
 

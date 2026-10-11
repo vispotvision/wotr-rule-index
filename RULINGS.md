@@ -2923,3 +2923,9 @@ Context: Isaac in Claude Code chat: "I want words to be pushed highly sophistica
 Isaac's direction 2026-10-11: Claude loads the whole live rulebook at once. Once a session, before the first piece of writing, Natalie calls load_rules(tags=[], brief=True), every live rule as one line (id: summary, about 1,550 lines, ~82k tokens), and reads all of it; then per task the full verbatim loadout for the task's domain tags as before. The project raises Claude Code's MCP output cap (MAX_MCP_OUTPUT_TOKENS=120000 in .claude/settings.json) so the call arrives whole. Written into desktop/NATALIE.md under THE RULE INDEX and the MCP server instructions.
 
 Context: Isaac in Claude Code chat: "we need to fix claude so it loads all of the rules at once make sure it understands all of them".
+
+## 2026-10-11 — new
+
+Isaac's direction 2026-10-11, revising the same day's "complete word-for-word law reading before every task": every model (Claude, Codex, ChatGPT, Antigravity) reads the law the same way. Once a session before the first drafting or revision, the whole live rulebook as one line per rule, load_rules(tags=[], brief=True), in parts (part=1..N, ~25k tokens each, four today) where a client truncates, every part read; per task the full verbatim wording for its domain tags, check_docket on the same tags, rule(id) for anything outside them whose line is not enough; re-read after compaction. The full word-for-word read every task is set aside as too costly. Written into AGENTS.md, desktop/NATALIE.md, desktop/NATALIE.gpt.md and SHARED_MEMORY.md; load_rules gained the part parameter.
+
+Context: Isaac in Claude Code chat: "wouldn't it be more efficient to do it the way were doing now" then "lets fix chatgpt so it does it this way as well".

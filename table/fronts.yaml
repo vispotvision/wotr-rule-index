@@ -91,13 +91,18 @@
   thread: Sodoku Moto / Kharven
   status: open
   want: Lambert's answer to why the grain was bought in the first week.
-  last_move: asked, dated, refused twice.
-  next_move: She stops asking Lambert and starts asking the factors.
+  last_move: In the authored interlude The Fourth Letter, Tabitha dispatches her questions directly to
+    the four Nalūn grain factors, after securing a narrow assurance signed by herself and Lambert that
+    current orders and agreements remain in force. This records the Front's first event enacted on the
+    page; no additional calendar tick.
+  next_move: One factor answers with the date and a witnessed copy of the first purchasing instruction;
+    its contents and consequences remain to be established in play.
   clock:
   - tick: 1
     consequence: She stops asking Lambert and starts asking the factors.
   - tick: 2
-    consequence: A factor gives her a date, and the date is a week before the first refugee count.
+    consequence: One factor answers with the date and a witnessed copy of the first purchasing instruction;
+      its contents and consequences remain to be established in play.
   - tick: 3
     consequence: She puts the dated question before the Bench rather than Lambert, in writing, with the
       two refusals attached.
@@ -106,8 +111,8 @@
   - tick: 5
     consequence: 'Resolves: the grain purchase is entered as foresight or as complicity, and Tabitha''s
       own name is on whichever it is.'
-  position: 0
-  last_advanced: null
+  position: 1
+  last_advanced: '2026-10-11'
   seeded_from: Fronts page, 2026-09-10 rebuild; clock written by Claude Code 2026-09-12 at Isaac's direction
   pace_days: 504
   days_banked: 0

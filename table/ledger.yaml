@@ -1158,3 +1158,17 @@
   source: 'Hiromi: The Picnic; Hiromi: Something Special'
   reconciled: '2026-10-04, R72-42 reconciliation, agent ruling (K2, a call Isaac may overturn): R72-24:
     warm bonds by name.'
+- id: L073
+  category: who knows what
+  who: Tabitha Hallenfeld; Edward Lambert
+  text: Tabitha has sent four letters to the Nalūn grain factors asking for witnessed copies of the first
+    purchasing instructions, subsequent alterations and payment dates. Lambert knows the inquiry. Both
+    signed an assurance that it suspends no placed orders and that existing agreements remain in force.
+    Tabitha keeps a signed copy beside her dated question and two refusals. The separate, checked provision
+    release travels in the same courier bag. Lambert gave no answer about the first-week purchase.
+  opened: '2026-10-11'
+  opened_session: 1
+  due: null
+  status: open
+  thread: Sodoku Moto
+  due_trigger: A reply arrives from one of the four Nalūn grain factors

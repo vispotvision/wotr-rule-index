@@ -1,6 +1,6 @@
 # The Ledger, structured
 
-46 open lines.
+47 open lines.
 
 ## the dead
 
@@ -66,6 +66,7 @@
 - `L060` Holds: the cased plate from row six (PROB EST, quarter punch struck twice, off true) against Harrowgate's quarterly-proofing lie; five Class S names on his roll in a narrow pen not the registrar's; the Visitation meter creeping backward and the dispensary meter dead still; Joan's three mended cuts and her 'nail' lie; Walter Aldery's lamp upright on the third step, glass whole, and the missing marbled daybook; Nyxeria arriving without the door, dry flags, wet hem.  *(Kwon Mu-jin / Aetherion Academy; when the cased plate, the meters or the daybook are shown to someone with standing (the-finding-of-cause tick 4, the-tallow-street-stair tick 4))*
 - `L061` Knows about the chain on the north gate and that Rovhen was in the Visitation Room at noon. Somebody told her, not a porter. Her finger stopped on the narrow-pen ink on the roll.  *(Kwon Mu-jin / Aetherion Academy; when Class S gets inside the chained arena or learns who filed the Finding (the-class-below tick 3))*
 - `L065` On the fourth beat of Geturo's tide the dome seam Mu-jin is holding flickered. Geturo read it as shimmer. Whether [Let] pulled at the seam is Isaac's call.  *(Kwon Mu-jin / Aetherion Academy; when the draw-inspector reports on the dome seam, or Mu-jin looks at the seam himself)*
+- `L073` Tabitha has sent four letters to the Nalūn grain factors asking for witnessed copies of the first purchasing instructions, subsequent alterations and payment dates. Lambert knows the inquiry. Both signed an assurance that it suspends no placed orders and that existing agreements remain in force. Tabitha keeps a signed copy beside her dated question and two refusals. The separate, checked provision release travels in the same courier bag. Lambert gave no answer about the first-week purchase.  *(Sodoku Moto; when A reply arrives from one of the four Nalūn grain factors)*
 
 ## reputation
 

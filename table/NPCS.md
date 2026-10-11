@@ -92,3 +92,9 @@
   - stands with him: Unknown to the household.
   - look: Lean man in his thirties, frost-whitened lashes, reddish beard frozen into points, right boot cut open around a swollen foot, blood dried black along one side.
   - role: Injured traveller.
+**Tabitha Hallenfeld** · wants: — · refuses: — · last seen: —
+  - doing now: Awaiting replies from four Nalūn grain factors; keeping a joint assurance with her dated question and the two refusals.
+  - stands with him: Serving the Seat; openly challenging Lambert's grain chronology while continuing provision work.
+**Edward Lambert** · wants: — · refuses: — · last seen: —
+  - doing now: Continuing provision movements, aware that Tabitha has written directly to the four factors; has signed the narrow continuation assurance.
+  - stands with him: Serving the Seat; withholding his answer to Tabitha and negotiating the practical consequences of her inquiry.

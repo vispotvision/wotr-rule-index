@@ -28,13 +28,13 @@
   - [ ] 4. The second test of the clause arrives from outside the four (a Keth-Gorrum noun, a Stannvaard debt) and the circle has to speak with one voice or admit it has none.
   - [ ] 5. Resolves: the circle has a name and a first precedent, or it has split along the reading and the instrument is two documents.
 
-**Tabitha Hallenfeld** ○○○○○ 0/5 · open
+**Tabitha Hallenfeld** ●○○○○ 1/5 · open
 - Pace: a tick every 504 story days, 0 spent
 - Want: Lambert's answer to why the grain was bought in the first week.
-- Last move: asked, dated, refused twice.
-- Next move: She stops asking Lambert and starts asking the factors.
-  - [ ] 1. She stops asking Lambert and starts asking the factors.
-  - [ ] 2. A factor gives her a date, and the date is a week before the first refugee count.
+- Last move: In the authored interlude The Fourth Letter, Tabitha dispatches her questions directly to the four Nalūn grain factors, after securing a narrow assurance signed by herself and Lambert that current orders and agreements remain in force. This records the Front's first event enacted on the page; no additional calendar tick.
+- Next move: One factor answers with the date and a witnessed copy of the first purchasing instruction; its contents and consequences remain to be established in play.
+  - [x] 1. She stops asking Lambert and starts asking the factors.
+  - [ ] 2. One factor answers with the date and a witnessed copy of the first purchasing instruction; its contents and consequences remain to be established in play.
   - [ ] 3. She puts the dated question before the Bench rather than Lambert, in writing, with the two refusals attached.
   - [ ] 4. Lambert answers, and the answer is arithmetic rather than a confession, which is worse.
   - [ ] 5. Resolves: the grain purchase is entered as foresight or as complicity, and Tabitha's own name is on whichever it is.

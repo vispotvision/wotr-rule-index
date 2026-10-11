@@ -291,3 +291,29 @@
     cut open around a swollen foot, blood dried black along one side.
   role: Injured traveller.
   last_updated: '2026-10-06'
+- name: Tabitha Hallenfeld
+  thread: Sodoku Moto
+  want: null
+  refusal_line: null
+  knows: []
+  lied_about: []
+  last_seen: null
+  voice: null
+  doing_now: Awaiting replies from four Nalūn grain factors; keeping a joint assurance with her dated
+    question and the two refusals.
+  stands_with: Serving the Seat; openly challenging Lambert's grain chronology while continuing provision
+    work.
+  last_updated: '2026-10-11'
+- name: Edward Lambert
+  thread: Sodoku Moto
+  want: null
+  refusal_line: null
+  knows: []
+  lied_about: []
+  last_seen: null
+  voice: null
+  doing_now: Continuing provision movements, aware that Tabitha has written directly to the four factors;
+    has signed the narrow continuation assurance.
+  stands_with: Serving the Seat; withholding his answer to Tabitha and negotiating the practical consequences
+    of her inquiry.
+  last_updated: '2026-10-11'

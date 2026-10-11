@@ -317,3 +317,28 @@
   stands_with: Serving the Seat; withholding his answer to Tabitha and negotiating the practical consequences
     of her inquiry.
   last_updated: '2026-10-11'
+- name: Celandine Rook
+  thread: The Unpicking
+  want: Complete the closing performance in the queen costume and keep Mara through the final change.
+  refusal_line: Will not let the company's last performance be cancelled while an audience is present.
+  knows:
+  - She paid the remaining cash to keep the licensed stage lights supplied through the performance.
+  - Mara owns the detachable braid and has sold it.
+  - Mara alone knows all the costume's weak seams.
+  lied_about: []
+  last_seen: The closing theatre dressing room, before The Unpicking.
+  voice: 'Stage-trained adult woman; notices where another person''s gaze falls; ample sentences when
+    persuading, blunt small demands when afraid. Usual contractions in private. Pet word dear; never says
+    obsolete. Calm fluency; counts exact sums reluctantly. Can explain performance, no metaphysical gloss
+    rights. Stress repeats the practical request. Grief drops theatrical diction. Joy straightens her
+    back. Educated Accord Common, clear stage consonants. Archons take it; fixed proverb What has been
+    said stands said. Sample: Leave the sleeve. They see the sleeve before they see me.'
+  lie: The wage money is with the treasurer and will come after the show.
+  tell: She directs Mara's attention to the restored lights and avoids naming where the treasurer is.
+  doing_now: Preparing for the final performance; hiding that wage money was spent on supply.
+  stands_with: Dependent on Mara, affectionate and exploitative.
+  look: Tall, narrow-shouldered, long torso, soft belly and broad hips, thin calves; black-dyed hair with
+    a silver root, long face, heavy upper eyelids, red paint at the mouth's edges; green silk wrapper
+    worn at the cuffs and good black walking boots; powder and old rose scent.
+  role: Adult actress and managing performer of a closing Accord theatre; unranked ordinary woman.
+  last_updated: '2026-10-11'

@@ -98,3 +98,14 @@
 **Edward Lambert** · wants: — · refuses: — · last seen: —
   - doing now: Continuing provision movements, aware that Tabitha has written directly to the four factors; has signed the narrow continuation assurance.
   - stands with him: Serving the Seat; withholding his answer to Tabitha and negotiating the practical consequences of her inquiry.
+
+## The Unpicking
+
+**Celandine Rook** · wants: Complete the closing performance in the queen costume and keep Mara through the final change. · refuses: Will not let the company's last performance be cancelled while an audience is present. · last seen: The closing theatre dressing room, before The Unpicking.
+  - knows: She paid the remaining cash to keep the licensed stage lights supplied through the performance.; Mara owns the detachable braid and has sold it.; Mara alone knows all the costume's weak seams.
+  - live lie: The wage money is with the treasurer and will come after the show.
+  - its tell: She directs Mara's attention to the restored lights and avoids naming where the treasurer is.
+  - doing now: Preparing for the final performance; hiding that wage money was spent on supply.
+  - stands with him: Dependent on Mara, affectionate and exploitative.
+  - look: Tall, narrow-shouldered, long torso, soft belly and broad hips, thin calves; black-dyed hair with a silver root, long face, heavy upper eyelids, red paint at the mouth's edges; green silk wrapper worn at the cuffs and good black walking boots; powder and old rose scent.
+  - role: Adult actress and managing performer of a closing Accord theatre; unranked ordinary woman.

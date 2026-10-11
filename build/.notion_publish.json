@@ -1064,5 +1064,10 @@
     "page_id": "3f358200-eb22-8146-b799-df9a13ed5731",
     "title": "The Stands Before the Bell — Aetherion Arena",
     "hash": "c59eebeb8c1c12db"
+  },
+  "scenes/the_fourth_day.md": {
+    "page_id": "3f658200-eb22-8190-8724-cf0d40b5db8e",
+    "title": "The Fourth Day",
+    "hash": "5da407cbff36d718"
   }
 }

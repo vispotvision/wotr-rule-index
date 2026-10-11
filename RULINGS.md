@@ -2917,3 +2917,9 @@ Context: Isaac in a Claude Code session: he doesn't see the AI writing abilities
 Isaac's direction 2026-10-11: vocabulary is pushed high. Narration and italic thought reach for the most exact and most resonant word, leaning hard toward the sophisticated: rare, Latinate, archaic and technical words a reader has to stop and weigh, several to every page and more in a set piece; the elevated bank (C-091) is used freely and widened by ear. The chosen word must carry more than its common substitute in meaning, sound or implication. Each POV keeps its reach (Verinus, Lambert, Cozbi highest; Sodoku spare but exact; Hild a child's grasp). Speech follows each card's voice. Unchanged: slop bans (R51-10, R70-35), working-man anatomy in explicit scenes, plain words in technique entries (R76-1), body-and-blade words over fencing jargon (R77-1). Written into desktop/NATALIE.md Prose Standards.
 
 Context: Isaac in Claude Code chat: "I want words to be pushed highly sophisticated words etc lets fix that", after asking for WOTR vocabulary that makes the reader think.
+
+## 2026-10-11 — new
+
+Isaac's direction 2026-10-11: Claude loads the whole live rulebook at once. Once a session, before the first piece of writing, Natalie calls load_rules(tags=[], brief=True), every live rule as one line (id: summary, about 1,550 lines, ~82k tokens), and reads all of it; then per task the full verbatim loadout for the task's domain tags as before. The project raises Claude Code's MCP output cap (MAX_MCP_OUTPUT_TOKENS=120000 in .claude/settings.json) so the call arrives whole. Written into desktop/NATALIE.md under THE RULE INDEX and the MCP server instructions.
+
+Context: Isaac in Claude Code chat: "we need to fix claude so it loads all of the rules at once make sure it understands all of them".

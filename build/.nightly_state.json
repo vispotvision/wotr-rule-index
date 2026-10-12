@@ -1,5 +1,5 @@
 {
-"run": "2026-10-11T03:30:00",
+"run": "2026-10-12T03:30:00",
 "findings": {
 "0e0f61e9722d": {
 "file": "commencement_of_the_curia_kujo_arc.md",
@@ -344,12 +344,12 @@
 "key": "ad2e4da2b1c5",
 "first_seen": "2026-09-23"
 },
-"4f3ac41c12aa": {
+"16273432b4c4": {
 "file": "CONTINUITY.md",
 "check": "prose",
-"text": "em dashes: 267 (banned; AI-tells §1, R15-1-AI_TELL_CHECKS_SURVIVE)",
-"key": "4f3ac41c12aa",
-"first_seen": "2026-10-11"
+"text": "em dashes: 271 (banned; AI-tells §1, R15-1-AI_TELL_CHECKS_SURVIVE)",
+"key": "16273432b4c4",
+"first_seen": "2026-10-12"
 },
 "dfd9dae83f50": {
 "file": "CONTINUITY.md",
@@ -372,12 +372,12 @@
 "key": "5b8e1c4e15cf",
 "first_seen": "2026-10-11"
 },
-"2f5f71ecdfe7": {
+"64a009a347ec": {
 "file": "CONTINUITY.md",
 "check": "prose",
-"text": "sentences under 8 words: 8% of scene, floor is 18% (R4-14-HARD_CEILINGS)",
-"key": "2f5f71ecdfe7",
-"first_seen": "2026-10-11"
+"text": "sentences under 8 words: 9% of scene, floor is 18% (R4-14-HARD_CEILINGS)",
+"key": "64a009a347ec",
+"first_seen": "2026-10-12"
 },
 "330f11671efe": {
 "file": "the_true_king_of_the_north_part_2.md",
@@ -1835,6 +1835,13 @@
 "key": "54127da30f5b",
 "first_seen": "2026-10-06"
 },
+"852ecacafcc4": {
+"file": "brakh.md",
+"check": "prose",
+"text": "flat runs: 6 stretches of three sentences within 40% of each other (R4-14-RUN_RULE)",
+"key": "852ecacafcc4",
+"first_seen": "2026-10-12"
+},
 "acdef0d90abe": {
 "file": "geturo_gypsum.md",
 "check": "prose",
@@ -1848,6 +1855,13 @@
 "text": "flat runs: 5 stretches of three sentences within 40% of each other (R4-14-RUN_RULE)",
 "key": "018388eed112",
 "first_seen": "2026-09-28"
+},
+"92ae7247ecfe": {
+"file": "ice_weight.md",
+"check": "prose",
+"text": "flat runs: 8 stretches of three sentences within 40% of each other (R4-14-RUN_RULE)",
+"key": "92ae7247ecfe",
+"first_seen": "2026-10-12"
 },
 "5cec10ed0256": {
 "file": "mujins_interjection_aetherion_arena.md",
@@ -1940,6 +1954,13 @@
 "key": "9fdb8c3a77be",
 "first_seen": "2026-09-13"
 },
+"28370ebd605e": {
+"file": "class_x_open_dabney_5_the_greater_hand.md",
+"check": "prose",
+"text": "three consecutive sentences over 25 words (R4-14-CHAIN_CEILING)",
+"key": "28370ebd605e",
+"first_seen": "2026-10-12"
+},
 "919beab6eb3c": {
 "file": "nirans_arrival_aetherion_academy.md",
 "check": "prose",
@@ -2002,6 +2023,13 @@
 "text": "em dashes: 1 (banned; AI-tells §1, R15-1-AI_TELL_CHECKS_SURVIVE)",
 "key": "270180bef846",
 "first_seen": "2026-10-06"
+},
+"d537d73feb8b": {
+"file": "the_weak_grade.md",
+"check": "prose",
+"text": "flat runs: 6 stretches of three sentences within 40% of each other (R4-14-RUN_RULE)",
+"key": "d537d73feb8b",
+"first_seen": "2026-10-12"
 },
 "d9c74218d63c": {
 "file": "xanelor_after_the_crash.md",

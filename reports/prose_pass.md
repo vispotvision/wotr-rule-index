@@ -1,10 +1,10 @@
 # Prose-law pass over the scene archive
-_Run 2026-10-11_
+_Run 2026-10-12_
 
 
 Every FAIL is a hard rule; every WARN needs a read. Nothing was edited. Run `verify_scene` on a scene before revising it.
 
-204 scenes: 293 FAIL, 912 WARN.
+218 scenes: 297 FAIL, 945 WARN.
 
 | scene | FAIL | WARN |
 |---|---|---|
@@ -13,7 +13,7 @@ Every FAIL is a hard rule; every WARN needs a read. Nothing was edited. Run `ver
 | the_true_king_of_the_north_part_9.md | 7 | 9 |
 | WOTR_Vaeloris_Sequence.md | 6 | 12 |
 | the_true_king_of_the_north_part_21.md | 6 | 4 |
-| CONTINUITY.md | 5 | 13 |
+| CONTINUITY.md | 5 | 14 |
 | the_true_king_of_the_north_part_2.md | 5 | 13 |
 | Niran_Mira_Return_to_the_Enclave.md | 5 | 12 |
 | the_true_king_of_the_north_part_1.md | 5 | 11 |
@@ -112,8 +112,10 @@ Every FAIL is a hard rule; every WARN needs a read. Nothing was edited. Run `ver
 | Cozbi_Sealed_Retreat.md | 1 | 2 |
 | Dhaerin_Final_Rite_Sacrament_Oblation_Rescind.md | 1 | 2 |
 | aqua_fortis_aetherion_academy.md | 1 | 2 |
+| brakh.md | 1 | 2 |
 | geturo_gypsum.md | 1 | 2 |
 | hiromi_the_picnic.md | 1 | 2 |
+| ice_weight.md | 1 | 2 |
 | mujins_interjection_aetherion_arena.md | 1 | 2 |
 | rovhen_the_letter.md | 1 | 2 |
 | shared_wounds_aetherion_academy.md | 1 | 2 |
@@ -127,6 +129,7 @@ Every FAIL is a hard rule; every WARN needs a read. Nothing was edited. Run `ver
 | Cozbi_Pneuma_Unravel_Strike.md | 1 | 1 |
 | Cozbi_vs_Rengai_Dhaerin_Combat.md | 1 | 1 |
 | Shichi_Karasu_Mission_Awakening.md | 1 | 1 |
+| class_x_open_dabney_5_the_greater_hand.md | 1 | 1 |
 | nirans_arrival_aetherion_academy.md | 1 | 1 |
 | rovhen_the_dispensary.md | 1 | 1 |
 | rovhen_the_first_lecture.md | 1 | 1 |
@@ -136,11 +139,13 @@ Every FAIL is a hard rule; every WARN needs a read. Nothing was edited. Run `ver
 | the_regent_aetherion_academy.md | 1 | 1 |
 | the_seam_aetherion_academy.md | 1 | 1 |
 | the_undercroft_aetherion_academy.md | 1 | 1 |
+| the_weak_grade.md | 1 | 1 |
 | xanelor_after_the_crash.md | 1 | 1 |
 | xanelor_juggernauts_fist.md | 1 | 1 |
 | xanelor_the_arrow.md | 1 | 1 |
 | xanelor_the_constellations.md | 1 | 1 |
 | xanelor_the_introductions.md | 1 | 1 |
+| class_x_open_dabney_7_axis_lock.md | 0 | 7 |
 | 05_aurelian_primate_under_the_wrong_stars.md | 0 | 6 |
 | 07_charles_the_imperceptible_district.md | 0 | 6 |
 | 17_darius_ignis.md | 0 | 6 |
@@ -177,6 +182,9 @@ Every FAIL is a hard rule; every WARN needs a read. Nothing was edited. Run `ver
 | aftermath_hold_the_wall.md | 0 | 3 |
 | aurelian_word_under_the_hammer.md | 0 | 3 |
 | balance_lesson.md | 0 | 3 |
+| class_x_open_dabney_1_aequitas.md | 0 | 3 |
+| class_x_open_dabney_2_the_eastern_gate.md | 0 | 3 |
+| class_x_open_dabney_6_the_flame_of_judica.md | 0 | 3 |
 | kaalabad_star_crusher.md | 0 | 3 |
 | on_foot.md | 0 | 3 |
 | renard_the_left_of_the_door.md | 0 | 3 |
@@ -189,19 +197,24 @@ Every FAIL is a hard rule; every WARN needs a read. Nothing was edited. Run `ver
 | 07_sodoku_the_howling_hawk.md | 0 | 2 |
 | 09_dabney_the_undamped_thing.md | 0 | 2 |
 | Niran_Reply_to_Haruki.md | 0 | 2 |
+| class_x_open_dabney_4_chains_of_heaven.md | 0 | 2 |
+| class_x_open_dabney_8_the_unbending_scale.md | 0 | 2 |
 | geturo_constrictor.md | 0 | 2 |
 | geturo_the_slip.md | 0 | 2 |
 | mu_jin_the_readers_oath.md | 0 | 2 |
 | spent_not_dead.md | 0 | 2 |
 | the_circus.md | 0 | 2 |
 | the_drawing_off.md | 0 | 2 |
+| the_fourth_day.md | 0 | 2 |
 | the_hand_of_the_empress.md | 0 | 2 |
 | the_overpressure.md | 0 | 2 |
+| the_rinse.md | 0 | 2 |
 | what_he_spent.md | 0 | 2 |
 | what_we_did_not_do.md | 0 | 2 |
 | xanelor_dallae.md | 0 | 2 |
 | Rengai_Confrontation_and_Nirans_Dream.md | 0 | 1 |
 | Six_Crows_Dragon_Fight_Extended.md | 0 | 1 |
+| class_x_open_dabney_3_where_they_meet.md | 0 | 1 |
 | geturo_fire_air.md | 0 | 1 |
 | geturo_the_elbow.md | 0 | 1 |
 | geturo_the_other_side.md | 0 | 1 |
@@ -211,6 +224,7 @@ Every FAIL is a hard rule; every WARN needs a read. Nothing was edited. Run `ver
 | mu_jin_the_card.md | 0 | 1 |
 | mu_jin_the_tenth_bell.md | 0 | 1 |
 | mu_jin_the_walk_back.md | 0 | 1 |
+| the_fourth_letter.md | 0 | 1 |
 | the_leveller.md | 0 | 0 |
 
 ## commencement_of_the_curia_kujo_arc.md
@@ -411,11 +425,11 @@ Every FAIL is a hard rule; every WARN needs a read. Nothing was edited. Run `ver
 - WARN no anatomical/injury vocabulary found in a combat scene (R13-6-ANATOMY_VOCAB, check 23)
 
 ## CONTINUITY.md
-- FAIL em dashes: 267 (banned; AI-tells §1, R15-1-AI_TELL_CHECKS_SURVIVE)
+- FAIL em dashes: 271 (banned; AI-tells §1, R15-1-AI_TELL_CHECKS_SURVIVE)
 - FAIL antithesis 'not X but Y': "Not a patch. A deliberate concealment." (R49-40-NOT_X_Y; AI-tells §1)
 - FAIL three consecutive sentences over 25 words (R4-14-CHAIN_CEILING)
 - FAIL flat runs: 49 stretches of three sentences within 40% of each other (R4-14-RUN_RULE)
-- FAIL sentences under 8 words: 8% of scene, floor is 18% (R4-14-HARD_CEILINGS)
+- FAIL sentences under 8 words: 9% of scene, floor is 18% (R4-14-HARD_CEILINGS)
 - WARN emotional signposting: "who was afraid" (AI-tells §4)
 - WARN modern word in narration: "boundaries" in "...ous stretch ending the night Muken dies; the file boundaries cut across it. Part 2's first..." (R48-13-PERIOD_FEEL, R49-44-MODERN_FLAGS; science sense is exempt, R49-45)
 - WARN digits for numbers up to one hundred in narration: 124 (R70-30-NUMBERS_WORDS_DIGITS: words up to one hundred, digits for system figures): "...: the column on the ice (7, 8, 9, 12b, 13..."; "...he column on the ice (7, 8, 9, 12b, 13, 1..."; "...column on the ice (7, 8, 9, 12b, 13, 14,..."; "...umn on the ice (7, 8, 9, 12b, 13, 14, 15a)..."
@@ -426,6 +440,7 @@ Every FAIL is a hard rule; every WARN needs a read. Nothing was edited. Run `ver
 - WARN Earth calendar word: "March" in "...t 4 of 22; Zaehaerys styled Warden of the Eastern March here and Warden of the North..." (R51-08-CALENDAR; use the culture's own span)
 - WARN Earth calendar word: "October" in "...nce before” (line 15).    Two additions since the October 8 coverage pass; the previous..." (R51-08-CALENDAR; use the culture's own span)
 - WARN Earth calendar word: "October" in "...bal date or Inner World calendar is assigned. The October 10 Bernard review records the..." (R51-08-CALENDAR; use the culture's own span)
+- WARN Earth calendar word: "October" in "...onal local archive files are connected below. The October 8 backlog, earlier supplement..." (R51-08-CALENDAR; use the culture's own span)
 - WARN paragraphs closing on three sentences over 18 words: 3 (R4-14-HARD_CEILINGS says 0)
 - WARN European fencing jargon: Nach, Vor; describe body, blade, timing and measure in plain words (R77-1-EUROPEAN_FENCING_ACTIONS, check 22)
 - WARN stale device: 'eleven' as a count in 65 sentences of narration, past one a scene, first "...Part 2's first movement and Part 1 belong eleven years later, so Par..." (R71-103-COMBAT_CHECKS_VERIFY_SCENE)
@@ -1339,6 +1354,11 @@ Every FAIL is a hard rule; every WARN needs a read. Nothing was edited. Run `ver
 - WARN length 4017 words, outside the set-piece band 5000–∞ (Table Rule 2)
 - WARN figure carried between exchanges: 4 paragraphs carry a reserve figure (EU, AU/s, eta), first "...*Reserve 640,000,000 EU (est.). D..."; read whether it runs a count (R70-88-NUMBERS_INSIDE_FIGHT, R71-103-COMBAT_CHECKS_VERIFY_SCENE)
 
+## brakh.md
+- FAIL flat runs: 6 stretches of three sentences within 40% of each other (R4-14-RUN_RULE)
+- WARN length 3634 words, outside the set-piece band 5000–∞ (Table Rule 2)
+- WARN Kharven recurrence: 1 of the five signature items in this text (the woodpile / how's your stack); two per session, not per turn (R49-54-KHARVEN)
+
 ## geturo_gypsum.md
 - FAIL flat runs: 5 stretches of three sentences within 40% of each other (R4-14-RUN_RULE)
 - WARN length 1649 words, outside the standard band 2500–4500 (Table Rule 2)
@@ -1348,6 +1368,11 @@ Every FAIL is a hard rule; every WARN needs a read. Nothing was edited. Run `ver
 - FAIL flat runs: 5 stretches of three sentences within 40% of each other (R4-14-RUN_RULE)
 - WARN modern word in narration: "cool" in "...f her hand, over the crushed leaves. Her skin was cool. His knuckles were still grey..." (R48-13-PERIOD_FEEL, R49-44-MODERN_FLAGS; science sense is exempt, R49-45)
 - WARN length 695 words, outside the standard band 2500–4500 (Table Rule 2)
+
+## ice_weight.md
+- FAIL flat runs: 8 stretches of three sentences within 40% of each other (R4-14-RUN_RULE)
+- WARN paragraphs closing on three sentences over 18 words: 1 (R4-14-HARD_CEILINGS says 0)
+- WARN length 3219 words, outside the set-piece band 5000–∞ (Table Rule 2)
 
 ## mujins_interjection_aetherion_arena.md
 - FAIL em dashes: 1 (banned; AI-tells §1, R15-1-AI_TELL_CHECKS_SURVIVE)
@@ -1411,6 +1436,10 @@ Every FAIL is a hard rule; every WARN needs a read. Nothing was edited. Run `ver
 - FAIL three consecutive sentences over 25 words (R4-14-CHAIN_CEILING)
 - WARN length 1130 words, outside the standard band 2500–4500 (Table Rule 2)
 
+## class_x_open_dabney_5_the_greater_hand.md
+- FAIL three consecutive sentences over 25 words (R4-14-CHAIN_CEILING)
+- WARN length 4910 words, outside the set-piece band 5000–∞ (Table Rule 2)
+
 ## nirans_arrival_aetherion_academy.md
 - FAIL em dashes: 1 (banned; AI-tells §1, R15-1-AI_TELL_CHECKS_SURVIVE)
 - WARN length 2001 words, outside the standard band 2500–4500 (Table Rule 2)
@@ -1447,6 +1476,10 @@ Every FAIL is a hard rule; every WARN needs a read. Nothing was edited. Run `ver
 - FAIL em dashes: 1 (banned; AI-tells §1, R15-1-AI_TELL_CHECKS_SURVIVE)
 - WARN length 2008 words, outside the standard band 2500–4500 (Table Rule 2)
 
+## the_weak_grade.md
+- FAIL flat runs: 6 stretches of three sentences within 40% of each other (R4-14-RUN_RULE)
+- WARN length 3728 words, outside the set-piece band 5000–∞ (Table Rule 2)
+
 ## xanelor_after_the_crash.md
 - FAIL em dashes: 1 (banned; AI-tells §1, R15-1-AI_TELL_CHECKS_SURVIVE)
 - WARN length 757 words, outside the standard band 2500–4500 (Table Rule 2)
@@ -1466,6 +1499,15 @@ Every FAIL is a hard rule; every WARN needs a read. Nothing was edited. Run `ver
 ## xanelor_the_introductions.md
 - FAIL em dashes: 1 (banned; AI-tells §1, R15-1-AI_TELL_CHECKS_SURVIVE)
 - WARN length 925 words, outside the standard band 2500–4500 (Table Rule 2)
+
+## class_x_open_dabney_7_axis_lock.md
+- WARN manufactured fragment emphasis: 3 short Not/Never/And/Only fragments (AI-tells §1)
+- WARN question in narration (hypophora?): "*What is a paradox, other than an imbalance in reality itself?" (R49-41-QUESTIONS)
+- WARN modern word in narration: "Cool" in "...s, and the Order teaches it with a jar of water.  Cool clean water slowly enough, in..." (R48-13-PERIOD_FEEL, R49-44-MODERN_FLAGS; science sense is exempt, R49-45)
+- WARN modern word in narration: "cool" in "...ts nowhere at all, a crowd with no leader. Let it cool through that point with nothi..." (R48-13-PERIOD_FEEL, R49-44-MODERN_FLAGS; science sense is exempt, R49-45)
+- WARN modern word in narration: "cool" in "...way, at random. The bar is still a muddle. Let it cool with a strong enough magnet h..." (R48-13-PERIOD_FEEL, R49-44-MODERN_FLAGS; science sense is exempt, R49-45)
+- WARN paragraphs closing on three sentences over 18 words: 1 (R4-14-HARD_CEILINGS says 0)
+- WARN length 4404 words, outside the set-piece band 5000–∞ (Table Rule 2)
 
 ## 05_aurelian_primate_under_the_wrong_stars.md
 - WARN possible Ladder: "is correct and the head is" in "Every part of me is doing what it does and the arithmetic is correct a..." (Check 18: review by reading)
@@ -1691,6 +1733,21 @@ Every FAIL is a hard rule; every WARN needs a read. Nothing was edited. Run `ver
 - WARN description census: dress and adornment takes 12 of 21 hits, over half (R70-58-CHECKING_RANGE)
 - WARN stale device: 'eleven' as a count in 4 sentences of narration, past one a scene, first "...*Sixty-one arrivals and eleven gates opened and ni..." (R71-103-COMBAT_CHECKS_VERIFY_SCENE)
 
+## class_x_open_dabney_1_aequitas.md
+- WARN competing similes in one paragraph (2): "Of everyone in Class X he is the one nobody knows. Nobody on the bench..." (R49-18-SIMILE_COUNT: cut one if they share a beat)
+- WARN length 3483 words, outside the set-piece band 5000–∞ (Table Rule 2)
+- WARN no anatomical/injury vocabulary found in a combat scene (R13-6-ANATOMY_VOCAB, check 23)
+
+## class_x_open_dabney_2_the_eastern_gate.md
+- WARN length 2465 words, outside the set-piece band 5000–∞ (Table Rule 2)
+- WARN Kharven recurrence: 0 of the five signature items in this text (none); two per session, not per turn (R49-54-KHARVEN)
+- WARN no anatomical/injury vocabulary found in a combat scene (R13-6-ANATOMY_VOCAB, check 23)
+
+## class_x_open_dabney_6_the_flame_of_judica.md
+- WARN paragraphs closing on three sentences over 18 words: 1 (R4-14-HARD_CEILINGS says 0)
+- WARN length 4639 words, outside the set-piece band 5000–∞ (Table Rule 2)
+- WARN Kharven recurrence: 0 of the five signature items in this text (none); two per session, not per turn (R49-54-KHARVEN)
+
 ## kaalabad_star_crusher.md
 - WARN competing similes in one paragraph (2): "Calling it a wall was wrong. He had broken walls and knew what a wall ..." (R49-18-SIMILE_COUNT: cut one if they share a beat)
 - WARN length 2514 words, outside the set-piece band 5000–∞ (Table Rule 2)
@@ -1747,6 +1804,14 @@ Every FAIL is a hard rule; every WARN needs a read. Nothing was edited. Run `ver
 - WARN filter verbs: 2 (5.6 per 1,000 narration words, warn above 5) (R49-42-FILTER_VERBS)
 - WARN length 615 words, outside the standard band 2500–4500 (Table Rule 2)
 
+## class_x_open_dabney_4_chains_of_heaven.md
+- WARN paragraphs closing on three sentences over 18 words: 2 (R4-14-HARD_CEILINGS says 0)
+- WARN no anatomical/injury vocabulary found in a combat scene (R13-6-ANATOMY_VOCAB, check 23)
+
+## class_x_open_dabney_8_the_unbending_scale.md
+- WARN question in narration (hypophora?): "Was he going to call this match?" (R49-41-QUESTIONS)
+- WARN length 4163 words, outside the set-piece band 5000–∞ (Table Rule 2)
+
 ## geturo_constrictor.md
 - WARN length 1891 words, outside the standard band 2500–4500 (Table Rule 2)
 - WARN stale device: 'eleven' as a count in 2 sentences of narration, past one a scene, first "...It had taken him eleven months to fill, a d..." (R71-103-COMBAT_CHECKS_VERIFY_SCENE)
@@ -1771,6 +1836,10 @@ Every FAIL is a hard rule; every WARN needs a read. Nothing was edited. Run `ver
 - WARN length 3819 words, outside the set-piece band 5000–∞ (Table Rule 2)
 - WARN stale device: 'eleven' as a count in 3 sentences of narration, past one a scene, first "...d ears and had loaded every kaas the hall sold up the shaft for eleven years...." (R71-103-COMBAT_CHECKS_VERIFY_SCENE)
 
+## the_fourth_day.md
+- WARN length 3185 words, outside the set-piece band 5000–∞ (Table Rule 2)
+- WARN no anatomical/injury vocabulary found in a combat scene (R13-6-ANATOMY_VOCAB, check 23)
+
 ## the_hand_of_the_empress.md
 - WARN length 2589 words, outside the set-piece band 5000–∞ (Table Rule 2)
 - WARN stale device: 'eleven' as a count in 9 sentences of narration, past one a scene, first "...Eleven years of radiant sh..." (R71-103-COMBAT_CHECKS_VERIFY_SCENE)
@@ -1778,6 +1847,10 @@ Every FAIL is a hard rule; every WARN needs a read. Nothing was edited. Run `ver
 ## the_overpressure.md
 - WARN length 2743 words, outside the set-piece band 5000–∞ (Table Rule 2)
 - WARN stale device: 'eleven' as a count in 9 sentences of narration, past one a scene, first "...he south was legible to him from four hundred feet of chalk and eleven miles, and why he h..." (R71-103-COMBAT_CHECKS_VERIFY_SCENE)
+
+## the_rinse.md
+- WARN filter verbs: 15 (6.0 per 1,000 narration words, warn above 5) (R49-42-FILTER_VERBS)
+- WARN length 2668 words, outside the set-piece band 5000–∞ (Table Rule 2)
 
 ## what_he_spent.md
 - WARN length 2493 words, outside the set-piece band 5000–∞ (Table Rule 2)
@@ -1796,6 +1869,9 @@ Every FAIL is a hard rule; every WARN needs a read. Nothing was edited. Run `ver
 
 ## Six_Crows_Dragon_Fight_Extended.md
 - WARN length 1783 words, outside the standard band 2500–4500 (Table Rule 2)
+
+## class_x_open_dabney_3_where_they_meet.md
+- WARN length 2508 words, outside the set-piece band 5000–∞ (Table Rule 2)
 
 ## geturo_fire_air.md
 - WARN length 1705 words, outside the standard band 2500–4500 (Table Rule 2)
@@ -1823,4 +1899,7 @@ Every FAIL is a hard rule; every WARN needs a read. Nothing was edited. Run `ver
 
 ## mu_jin_the_walk_back.md
 - WARN length 3168 words, outside the set-piece band 5000–∞ (Table Rule 2)
+
+## the_fourth_letter.md
+- WARN length 3268 words, outside the set-piece band 5000–∞ (Table Rule 2)
 

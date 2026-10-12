@@ -1,16 +1,16 @@
 # Recurrence tracking — Kharven signature items across the archive
-_Run 2026-10-11_
+_Run 2026-10-12_
 
 
-58 scenes mention Kharven. Minimum two items per Kharven scene (R6-9-RECURRENCE_RULE); an item in half the scenes is a signature, an item in one is a stray, an item in none is dead weight.
+63 scenes mention Kharven. Minimum two items per Kharven scene (R6-9-RECURRENCE_RULE); an item in half the scenes is a signature, an item in one is a stray, an item in none is dead weight.
 
 | item | scenes carrying it | total mentions |
 |---|---|---|
-| the woodpile / how's your stack | 5 / 58 | 12 |
-| the night-stone | 11 / 58 | 23 |
-| wet wood | 7 / 58 | 11 |
-| the Thin Weeks | 11 / 58 | 27 |
-| the death-house / the Waiting | 11 / 58 | 23 |
+| the woodpile / how's your stack | 7 / 63 | 15 |
+| the night-stone | 12 / 63 | 27 |
+| wet wood | 8 / 63 | 13 |
+| the Thin Weeks | 13 / 63 | 36 |
+| the death-house / the Waiting | 11 / 63 | 23 |
 
 ## Per scene
 
@@ -36,13 +36,18 @@ _Run 2026-10-11_
 - CONTINUITY.md: the night-stone, wet wood, the Thin Weeks, the death-house / the Waiting
 - THE_KINGDOM_OF_KHARVEN_corrected.md: the woodpile / how's your stack, the Thin Weeks
 - The_Path_of_Sorrow.md: none  **← under the minimum**
+- brakh.md: the woodpile / how's your stack  **← under the minimum**
+- class_x_open_dabney_2_the_eastern_gate.md: none  **← under the minimum**
+- class_x_open_dabney_6_the_flame_of_judica.md: none  **← under the minimum**
 - commencement_of_the_curia_kujo_arc.md: the woodpile / how's your stack, the night-stone, wet wood, the Thin Weeks, the death-house / the Waiting
+- ice_weight.md: wet wood, the Thin Weeks
 - renard_the_left_of_the_door.md: the night-stone, wet wood, the Thin Weeks
 - sodoku_gate_reunion_lambert.md: wet wood  **← under the minimum**
 - sodoku_the_count_supply_report.md: the night-stone, the Thin Weeks, the death-house / the Waiting
 - sodoku_true_religion_alabaster.md: the night-stone  **← under the minimum**
 - temur_true_religion_alabaster.md: the night-stone  **← under the minimum**
 - the_fight_below_aetherion_academy.md: the death-house / the Waiting  **← under the minimum**
+- the_fourth_letter.md: the woodpile / how's your stack, the night-stone, the Thin Weeks
 - the_revolution_of_the_inner_world.md: the woodpile / how's your stack, the night-stone, the Thin Weeks
 - the_true_king_of_the_north_part_1.md: none  **← under the minimum**
 - the_true_king_of_the_north_part_10.md: none  **← under the minimum**

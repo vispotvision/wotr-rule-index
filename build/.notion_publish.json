@@ -1144,5 +1144,10 @@
     "page_id": "3f758200-eb22-81b8-ad1a-c5b1f811ca35",
     "title": "Rewinding the Spool — Aetherion Arena",
     "hash": "442f31aa10bd4ada"
+  },
+  "scenes/covenant_of_the_instant_aetherion_arena.md": {
+    "page_id": "3f758200-eb22-81cb-8381-d9185060f652",
+    "title": "Covenant of the Instant — Aetherion Arena",
+    "hash": "81a2506e3067c47e"
   }
 }

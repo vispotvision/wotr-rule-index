@@ -4,7 +4,7 @@ notion_id: "3b258200-eb22-8132-a010-ec6fd17e718b"
 notion_url: "https://app.notion.com/p/The-Scene-Archive-3b258200eb228132a010ec6fd17e718b"
 section: "In-World Documents & the Narrative Archive"
 tags: []
-last_edited: "2026-10-11T08:51:00.000Z"
+last_edited: "2026-10-12T17:19:00.000Z"
 verification: null
 ---
 
@@ -280,3 +280,7 @@ verification: null
 - [[Class X Open, Dabney 7: Axis Lock]]
 - [[Class X Open, Dabney 8: The Unbending Scale]]
 - [[The Fourth Letter]]
+- [[The Middle of the Thread — Senri's Gate and the Aetherion Arena]]
+- [[Rewinding the Spool — Aetherion Arena]]
+- [[Covenant of the Instant — Aetherion Arena]]
+- [[Returning Water — Aetherion Arena]]

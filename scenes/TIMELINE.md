@@ -2,7 +2,7 @@
 
 One line per scene, in in-world order, with the moment the text states and the position
 it was placed at. A scene whose events precede something it references is a continuity
-error. The inventory covers all 206 top-level Markdown archive files; `placed` carries the position, and the evidence
+error. The inventory covers all 224 top-level Markdown archive files; `placed` carries the position, and the evidence
 each placement rests on is in CONTINUITY.md beside it. Scenes the text does not locate
 are listed at the end rather than guessed at.
 
@@ -318,3 +318,26 @@ they add no global calendar placement or table event.
 | [the_drawing_off.md](the_drawing_off.md) → [the_fourth_day.md](the_fourth_day.md) | Drawing-Off lines 101/124/132: the end kaas, lift step, Gorrgorr and his tin/lid; Fourth Day lines 3/9/45/165–183: four days later, the same fall and repaired crib, cracked stack and last shift’s pay. | Strong source-backed callback to Gorrgorr’s death, even though the later body does not repeat his name; its notes name Gorrgorr (line 191). Kalrin’s fingers regain movement but Borin’s current read leaves the heel stone (lines 81–113). Borin gives the repaired tin to Kalrin to return to the mother waiting for pay at sixth bell; the return itself is not narrated. Do not infer funeral customs or full recovery. |
 | [balance_lesson.md](balance_lesson.md) → Darius’s recollection in [class_x_open_dabney_1_aequitas.md](class_x_open_dabney_1_aequitas.md) | Balance Lesson line 75: “An arch is two collapses leaning on each other.” Dabney 1 author notes line 131 explicitly names this lesson and says Darius passes it on secondhand. | Teaching provenance: Gimbzo → Darius → Dabney. This connects the arch/load-path lesson and the ankles-in-ground recollection; it does not assign a year or ratify later below-minimum casting. Darius’s arrested fifth fracture in the lesson is not logged as a completed advancement. |
 | [the_leveller.md](the_leveller.md), maintenance sequence | Dateline line 3: “Year 715 of the Imperial Age.” The restored main follows Ivor’s boots clearing the water (lines 433–451); the false roll and signature follow on the surface (lines 489–499). | Cut → collar work → leech removal → evacuation → restored main → Board record → cradle moved: one local sequence. The written denial of waking is intentional concealment, not a reliable card or a claim Ivor never woke. Holt’s name on the roll does not place him in the narrated crew or establish his death. Residue waking remains the explicit R60-14 exception proposed in the notes (lines 531–548); spawn remain in the Well’s own drowned gallery under R58-06. No cross-thread calendar bridge or new Front is supplied. |
+
+
+## New archive coverage — Aetherion bout, provisional mechanics (2026-10-13 review)
+
+The four locally present sources below close the inventory to **224/224** in each
+index. Their notes explicitly supply this order; opponent posts intervene. They
+are four Naori posts in one bout, not four complete adjudications. The source
+notes date the writing to October 11; publication/edit dates are not story dates.
+All 148 numbered placements and the existing placed-order section are preserved.
+No connection fixes the tournament against the earlier age-thirteen river-bank
+snapshot, or grants the missing permissions.
+
+| source | local chronology | evidence | continuity and limit |
+|---|---|---|---|
+| [the_middle_of_the_thread_senris_gate_and_the_aetherion_arena.md](the_middle_of_the_thread_senris_gate_and_the_aetherion_arena.md) | Senri's Gate: remembered vision at three, winter sword lesson at eight; then Aetherion waiting bench before the first bout. Global year and river-bank/bout interval unknown. | Body lines 7/27–33/169–191; notes 197: first of four consecutive tournament posts. | Childhood lesson → bench; Niran's survival lesson returns as Naori's stance. Training/card disagreement stays explicit in notes 209; this row grants no Stage, attunement or new family member. |
+| [rewinding_the_spool_aetherion_arena.md](rewinding_the_spool_aetherion_arena.md) | Aetherion arena: Naori enters and answers Verona's posted light field; second post in the local sequence. No calendar date. | Body 7–19/147–155; notes 155–159 identify entrance response and unresolved feint. | Makimodoshi, Awai and Kara-ito are described here; notes 188 leave Stage/cost reconciliation open. No confirmed hit, tournament victory or adjudication is inferred from the cut in flight. |
+| [covenant_of_the_instant_aetherion_arena.md](covenant_of_the_instant_aetherion_arena.md) | Same bout, after the opponent's intervening storm/blood/explosion post; third Naori post. Elapsed time unstated. | Body 7–17/173–183; notes 185–189 identify the answered post. | Burns and four feather wounds persist; Stg stills/seals without healing. Square and phantoms are narrated, but Stage floor, Anamnesis and Karine remain provisional (notes 240–242). No opponent position, reaction or successful binding is established. |
+| [returning_water_aetherion_arena.md](returning_water_aetherion_arena.md) | Same bout, after the opponent's Thirty-Fifth chain disrupts the previous working; fourth Naori post. Calendar unknown. | Body 21–25/149–179; notes 179–185 identify the response and pending result. | Stilled wounds reopen; two left ribs and flash blindness are added. Return targets the Crystal and a floor blast threatens ring-out; neither Crystal rupture nor ring-out is resolved. Marginal slowing and recast stance are new/provisional (notes 221–223), not a restored Covenant. |
+
+Inventory: **224/224** top-level archive sources represented, excluding the five
+index/reference files. This is inventory coverage, not 224 fresh literary reads.
+The report retains permission, boundary-size, trigger and family-age questions;
+no law, source scene, character card, Ledger or Front is changed here.

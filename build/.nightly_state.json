@@ -1,5 +1,5 @@
 {
-"run": "2026-10-12T03:30:00",
+"run": "2026-10-13T03:30:00",
 "findings": {
 "0e0f61e9722d": {
 "file": "commencement_of_the_curia_kujo_arc.md",
@@ -344,12 +344,12 @@
 "key": "ad2e4da2b1c5",
 "first_seen": "2026-09-23"
 },
-"16273432b4c4": {
+"594c6008a0e4": {
 "file": "CONTINUITY.md",
 "check": "prose",
-"text": "em dashes: 271 (banned; AI-tells §1, R15-1-AI_TELL_CHECKS_SURVIVE)",
-"key": "16273432b4c4",
-"first_seen": "2026-10-12"
+"text": "em dashes: 276 (banned; AI-tells §1, R15-1-AI_TELL_CHECKS_SURVIVE)",
+"key": "594c6008a0e4",
+"first_seen": "2026-10-13"
 },
 "dfd9dae83f50": {
 "file": "CONTINUITY.md",
@@ -1660,6 +1660,13 @@
 "key": "e5cca485a956",
 "first_seen": "2026-10-06"
 },
+"99897ba4c33c": {
+"file": "returning_water_aetherion_arena.md",
+"check": "prose",
+"text": "em dashes: 1 (banned; AI-tells §1, R15-1-AI_TELL_CHECKS_SURVIVE)",
+"key": "99897ba4c33c",
+"first_seen": "2026-10-13"
+},
 "1c88bd9db61d": {
 "file": "the_cooking_aetherion_academy.md",
 "check": "prose",
@@ -1870,6 +1877,13 @@
 "key": "5cec10ed0256",
 "first_seen": "2026-10-04"
 },
+"d78e04af8214": {
+"file": "rewinding_the_spool_aetherion_arena.md",
+"check": "prose",
+"text": "em dashes: 1 (banned; AI-tells §1, R15-1-AI_TELL_CHECKS_SURVIVE)",
+"key": "d78e04af8214",
+"first_seen": "2026-10-13"
+},
 "70a53a064e25": {
 "file": "rovhen_the_letter.md",
 "check": "prose",
@@ -1961,6 +1975,13 @@
 "key": "28370ebd605e",
 "first_seen": "2026-10-12"
 },
+"ed4e7acb58f3": {
+"file": "covenant_of_the_instant_aetherion_arena.md",
+"check": "prose",
+"text": "em dashes: 1 (banned; AI-tells §1, R15-1-AI_TELL_CHECKS_SURVIVE)",
+"key": "ed4e7acb58f3",
+"first_seen": "2026-10-13"
+},
 "919beab6eb3c": {
 "file": "nirans_arrival_aetherion_academy.md",
 "check": "prose",
@@ -2002,6 +2023,13 @@
 "text": "em dashes: 1 (banned; AI-tells §1, R15-1-AI_TELL_CHECKS_SURVIVE)",
 "key": "c5d467faca16",
 "first_seen": "2026-10-09"
+},
+"fd25142cab3a": {
+"file": "the_middle_of_the_thread_senris_gate_and_the_aetherion_arena.md",
+"check": "prose",
+"text": "em dashes: 1 (banned; AI-tells §1, R15-1-AI_TELL_CHECKS_SURVIVE)",
+"key": "fd25142cab3a",
+"first_seen": "2026-10-13"
 },
 "9d7b0874c987": {
 "file": "the_regent_aetherion_academy.md",

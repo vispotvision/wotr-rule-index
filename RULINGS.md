@@ -2951,3 +2951,17 @@ C-121: Level 430 at Stage XII is Mu-jin's Academy loadout (715 IC, age 38), not 
 C-135: Not a conflict. "Formally trained" is the Mahuo house art (from winter 697 IC, Volume II); "Registered Natural" is the Division's status for a practitioner without academy credential (Volume III). The card's Standing line is clarified to carry both.
 
 Context: Drafted by a read-only research agent per conflict, checked by Natalie in Claude Code before logging. Application to Notion pages, scenes and CONFLICTS.md status follows.
+
+## 2026-10-13 — C-118, C-127, C-154, C-159
+
+Agent rulings (Natalie, 2026-10-13, under the canon precedence ladder; Isaac may overturn any of them).
+
+C-118: Doyun stays as written. A hyphen in a personal name marks a Mahuo given name; no hyphen does not by itself mark the lineage halls (the amendment's own Ara Min Mahuo; Isaac's R65-9 "Seok Doyun"). Korean-stratum names outside the Mahuo house are written joined; a hall name is told by a courtesy name or a generation character. R23-10 stays live with a note. Grounds: rung 1 later ruling over rung 3 example reading.
+
+C-127: For the Ault commission, Volume the Second and the Farrant Papers govern: Furveus poured and sealed the vessel, so the maker's mark in the glass and the hand in the Sealing are his; Draycott's registered mark is the broker's mark in the grey wax on the lute (R67-6). GL5's tracing sentence does not reach this vessel. Furveus lawfully held the Category Three formula (EC12), so he stands at Tier of Standing Five (Expert) or higher; his breach is the missing entry and review, not his rank. Grounds: rung 1 later ratifications; rung 7 for the Tier.
+
+C-154: EC10 sets the floor, DE4 the kind. An impression-body is a Greater Summons in makeup and may be raised from Refraction (Stage VII) with individual review, because in a completion the poured vessel and the Mortalis Binding carry what an unanchored Tier III summons needs Stages IX to XI to hold (DE4's own words; the Spirit Summoning Arts gate Stage VII for material-anchored constructs). R61-75's summary drops the IX to XI band and points to R61-109. Grounds: both rung 1, ruled by rung 7.
+
+C-159: Already ruled by Isaac on 2026-10-04 (combat questionnaire MC3): R71-29 supersedes R8-26 and R50-09 governs. Only the CONFLICTS.md status was stale; closed.
+
+Context: Drafted by a read-only research agent per conflict, checked by Natalie in Claude Code before logging.

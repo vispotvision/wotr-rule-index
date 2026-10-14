@@ -1,0 +1,94 @@
+{
+  "batch1_eastern": {
+    "E1": "Free use, anime flavour",
+    "E2": "Shouted, anime style",
+    "E3": "Other: \"WOTR is a mixture of QI and the ideas of HXH and Dragon Balll WOTR is derrived from aniomes like bleach and naruto and is based majority on Cultivation you should see that in the system\"",
+    "E4": "Afterimages, anime style"
+  },
+  "batch2_battles": {
+    "B1": "Bodies only",
+    "B2": "Only what they can see (Recommended)",
+    "B3": "Anime spectacle, bodies in it (Recommended)",
+    "B4": "Close vignettes, joined (Recommended)"
+  },
+  "batch3_wounds": {
+    "W1": "Full anatomy, plain words (Recommended)",
+    "W2": "Anime geysers",
+    "W3": "Shrugged off, anime grit",
+    "W4": "Each noted, and they add up (Recommended)"
+  },
+  "batch4_magic": {
+    "M1": "Yes, coloured per person (Recommended)",
+    "M2": "Full transformation spectacle (Recommended)",
+    "M3": "Scaled to Stage, shown (Recommended)",
+    "M4": "Other: \"Each its own sound, but I also want it to have that anime-flare etc\""
+  },
+  "batch5_dialogue": {
+    "D1": "Full phonetic",
+    "D2": "Like real soldiers and thugs (Recommended)",
+    "D3": "Other: \"Plenty, but I feel like it has the aniome style but there is ribbing and jokes ts a mixture wotr is its own thing after all\"",
+    "D4": "Action beats, 'said' when needed (Recommended)"
+  },
+  "batch6_description": {
+    "F1": "A full paragraph, then threaded (Recommended)",
+    "F2": "Anime design, period make (Recommended)",
+    "F3": "Other: \"Anime beautiful, but marked when necessary\"",
+    "F4": "Other: \"I feel like WOTR is a mixture of bleach and dragon-ball + naruto but it is still grimdark, but I wouldn't say the world is \\\"Muted\\\" and grey I think it has its own beautiful design to it if that makes any sense?\""
+  },
+  "batch7_thought": {
+    "T1": "Steady, woven in (Recommended)",
+    "T2": "Full HxH analysis",
+    "T3": "Anime-big throughout",
+    "T4": "One per NPC per scene (now, Recommended)"
+  },
+  "batch8_turns": "dismissed by Isaac 2026-10-14; not answered, nothing applied",
+  "r2_batch1_tone": {
+    "N1": "Dark stakes, shonen heart (Recommended)",
+    "N2": "Often, at a price (Recommended)",
+    "N3": "Cruel when earned by the story (Recommended)",
+    "N4": "Other: \"Dark Shonen Fantasy with Cultivation Fantasy + Aetherpunk / Magitech vibes WOTR really isn't \\\"Aetherpunk\\\" anymore it's really just magipunk or steampunk all that way things are ran off of magic.\""
+  },
+  "r2_batch2_cultivation": {
+    "C1": "Other: \"Crisis Selcusion or even Tribulations it is a mixture of all 3.\"",
+    "C2": "A real driver of plot (Recommended)",
+    "C3": "Xianxia ranks, WOTR flavour (Recommended)",
+    "C4": "Use it, with real people (Recommended)"
+  },
+  "r2_batch3_shonen": {
+    "H1": "Yes, through the system (Recommended)",
+    "H2": "Freely, Naruto style",
+    "H3": "Tournament arcs, Training arcs, Rescue and invasion arcs, War arcs; plus Other: \"It also does a very dragon ball or bleach like theme where there is one main villian whom has many people working for him think Yhwach and Aizen\"",
+    "H4": "Some die, some don't (Recommended)"
+  },
+  "r2_batch4_look": {
+    "L1": "Arcane / Fullmetal Alchemist, Bleach / Naruto settings, Final Fantasy, Lord of the Mysteries (all four)",
+    "L2": "Everywhere in cities, thinner outside (Recommended)",
+    "L3": "Grand and lived-in (Recommended)",
+    "L4": "Other: \"I feel like it is wildly fanastical and earthlike and has beauty throughout but also somewhat is eartthlike but it is its own thing.\""
+  },
+  "r2_batch5_power": {
+    "P1": "Yes, Bleach and Dragon Ball style (Recommended)",
+    "P2": "Common and central (Recommended)",
+    "P3": "Yes, at the right moment (Recommended)",
+    "P4": "Across one Stage, with a read (Recommended)"
+  },
+  "r2_batch6_villains": {
+    "V1": "Felt early, revealed in stages (Recommended)",
+    "V2": "Elite, ranked, each with a story (Recommended)",
+    "V3": "Understandable, some arguably right (Recommended)",
+    "V4": "Rival to reluctant ally (Recommended)"
+  },
+  "r2_batch7_humour": {
+    "U1": "Other: \"Anime gags from characters that actually do that sort of thing like borin etc\"",
+    "U2": "Anyone, in their own way (Recommended)",
+    "U3": "Banter and ribbing, Anime reactions, Dry and gallows wit, Crude and bawdy (all four)",
+    "U4": "Yes, specific people (Recommended)"
+  },
+  "note_r2": "U4 sample used the stale word 'airag'; canon is 'the skin' (R23-8). Sample only, not applied.",
+  "r2_batch8_bonds": {
+    "K1": "Mostly hold, tested hard (Recommended)",
+    "K2": "A core crew, each with a role (Recommended)",
+    "K3": "Mostly, with rare costly exceptions",
+    "K4": "Central to many threads"
+  }
+}

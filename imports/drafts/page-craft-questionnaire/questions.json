@@ -1,0 +1,413 @@
+{
+  "title": "How it reads on the page: eight follow-ups to the vocabulary questionnaire",
+  "date": "2026-10-14",
+  "why": "Isaac picked all eight after R78-3. Each batch asks about execution, not policy already ruled by the style (138), combat (105) and table (43) questionnaires.",
+  "topics": [
+    "Eastern martial terms",
+    "Battles and armies",
+    "Wounds and gore",
+    "Magic on the page",
+    "Dialogue and voices",
+    "Description and first sight",
+    "Thought and feeling",
+    "Turn shape and footers"
+  ],
+  "batches": [
+    {
+      "batch": 1,
+      "topic": "Eastern martial terms",
+      "questions": [
+        {
+          "id": "E1",
+          "header": "School words",
+          "question": "Eastern school terms (kamae, maai, chudan, qinggong, dantian) in narration?"
+        },
+        {
+          "id": "E2",
+          "header": "Named moves",
+          "question": "When a fighter uses a named technique, how does the name show up?"
+        },
+        {
+          "id": "E3",
+          "header": "Inner power",
+          "question": "How does a fighter's inner power read in the body when they draw on it?"
+        },
+        {
+          "id": "E4",
+          "header": "Too fast",
+          "question": "How is a move too fast for the eye described?"
+        }
+      ]
+    },
+    {
+      "batch": 2,
+      "topic": "Battles and armies",
+      "questions": [
+        {
+          "id": "B1",
+          "header": "Formations",
+          "question": "How is a formation's movement described in a battle?"
+        },
+        {
+          "id": "B2",
+          "header": "Clarity",
+          "question": "How much does the POV understand of a battle while in it?"
+        },
+        {
+          "id": "B3",
+          "header": "One vs many",
+          "question": "A high-Stage practitioner strikes at massed troops. How does it read?"
+        },
+        {
+          "id": "B4",
+          "header": "Battle shape",
+          "question": "How is a battle cut up across a turn or chapter?"
+        }
+      ]
+    },
+    {
+      "batch": 3,
+      "topic": "Wounds and gore",
+      "questions": [
+        {
+          "id": "W1",
+          "header": "Explicitness",
+          "question": "How explicit is an open wound?"
+        },
+        {
+          "id": "W2",
+          "header": "Blood",
+          "question": "How much blood, and how does it behave?"
+        },
+        {
+          "id": "W3",
+          "header": "Own wound",
+          "question": "When the POV is the one wounded, what do we get?"
+        },
+        {
+          "id": "W4",
+          "header": "Small hits",
+          "question": "Small hits (bruises, grazes, a split lip) during a fight?"
+        }
+      ]
+    },
+    {
+      "batch": 4,
+      "topic": "Magic on the page",
+      "questions": [
+        {
+          "id": "M1",
+          "header": "Auras",
+          "question": "Does a practitioner's power have a visible aura when they draw on it?"
+        },
+        {
+          "id": "M2",
+          "header": "Power-ups",
+          "question": "How does a power-up or breakthrough read?"
+        },
+        {
+          "id": "M3",
+          "header": "Collateral",
+          "question": "How much does a working damage the surroundings?"
+        },
+        {
+          "id": "M4",
+          "header": "Sound",
+          "question": "How does a working sound?"
+        }
+      ]
+    },
+    {
+      "batch": 5,
+      "topic": "Dialogue and voices",
+      "questions": [
+        {
+          "id": "D1",
+          "header": "Accents",
+          "question": "How are accents and dialects written in speech?"
+        },
+        {
+          "id": "D2",
+          "header": "Swearing",
+          "question": "How much do people swear?"
+        },
+        {
+          "id": "D3",
+          "header": "Banter",
+          "question": "How much banter and back-and-forth between characters?"
+        },
+        {
+          "id": "D4",
+          "header": "Tags",
+          "question": "How do dialogue tags work?"
+        }
+      ]
+    },
+    {
+      "batch": 6,
+      "topic": "Description and first sight",
+      "questions": [
+        {
+          "id": "F1",
+          "header": "New place",
+          "question": "When the POV enters a new place, how much description?"
+        },
+        {
+          "id": "F2",
+          "header": "Gear look",
+          "question": "Clothing, armour and weapons: how designed do they look?"
+        },
+        {
+          "id": "F3",
+          "header": "Looks",
+          "question": "How are characters' looks described?"
+        },
+        {
+          "id": "F4",
+          "header": "Palette",
+          "question": "What's the colour palette of the world?"
+        }
+      ]
+    },
+    {
+      "batch": 7,
+      "topic": "Thought and feeling",
+      "questions": [
+        {
+          "id": "T1",
+          "header": "Head-time",
+          "question": "How much time inside the POV's head per turn?"
+        },
+        {
+          "id": "T2",
+          "header": "Fight mind",
+          "question": "In a fight, how much does a fighter think through the fight?"
+        },
+        {
+          "id": "T3",
+          "header": "Emotion",
+          "question": "How big do emotions play on the page?"
+        },
+        {
+          "id": "T4",
+          "header": "NPC thoughts",
+          "question": "NPCs' private thoughts in italics: how many?"
+        }
+      ]
+    },
+    {
+      "batch": 8,
+      "topic": "Turn shape and footers",
+      "status": "dismissed by Isaac; not asked again unless he wants it",
+      "questions": [
+        {
+          "id": "S1",
+          "header": "Turn length"
+        },
+        {
+          "id": "S2",
+          "header": "Footer"
+        },
+        {
+          "id": "S3",
+          "header": "OOC voice"
+        },
+        {
+          "id": "S4",
+          "header": "Choices"
+        }
+      ]
+    }
+  ],
+  "round2": {
+    "why": "Isaac 2026-10-14: 'we DRIVE home that WOTR is grimdark not allowing it to be its own unique thing'; picked all eight follow-ups",
+    "topics": [
+      "What WOTR is (tone)",
+      "Cultivation on the page",
+      "Shonen story beats",
+      "The look of the world",
+      "Power system expression",
+      "Villains and rivals",
+      "Humour and tone shifts",
+      "Bonds and found family"
+    ],
+    "batches": [
+      {
+        "batch": 1,
+        "topic": "What WOTR is (tone)",
+        "questions": [
+          {
+            "id": "N1",
+            "header": "Tone"
+          },
+          {
+            "id": "N2",
+            "header": "Victory"
+          },
+          {
+            "id": "N3",
+            "header": "Cruelty"
+          },
+          {
+            "id": "N4",
+            "header": "Genre tag"
+          }
+        ]
+      },
+      {
+        "batch": 2,
+        "topic": "Cultivation on the page",
+        "questions": [
+          {
+            "id": "C1",
+            "header": "Breakthrough"
+          },
+          {
+            "id": "C2",
+            "header": "Resources"
+          },
+          {
+            "id": "C3",
+            "header": "Sects"
+          },
+          {
+            "id": "C4",
+            "header": "Face-slap"
+          }
+        ]
+      },
+      {
+        "batch": 3,
+        "topic": "Shonen story beats",
+        "questions": [
+          {
+            "id": "H1",
+            "header": "Will"
+          },
+          {
+            "id": "H2",
+            "header": "Flashbacks"
+          },
+          {
+            "id": "H3",
+            "header": "Arc types"
+          },
+          {
+            "id": "H4",
+            "header": "Mentors"
+          }
+        ]
+      },
+      {
+        "batch": 4,
+        "topic": "The look of the world",
+        "questions": [
+          {
+            "id": "L1",
+            "header": "Touchstones"
+          },
+          {
+            "id": "L2",
+            "header": "Magitech"
+          },
+          {
+            "id": "L3",
+            "header": "Cities"
+          },
+          {
+            "id": "L4",
+            "header": "Landscapes"
+          }
+        ]
+      },
+      {
+        "batch": 5,
+        "topic": "Power system expression",
+        "questions": [
+          {
+            "id": "P1",
+            "header": "Sensing"
+          },
+          {
+            "id": "P2",
+            "header": "Vows"
+          },
+          {
+            "id": "P3",
+            "header": "Reveals"
+          },
+          {
+            "id": "P4",
+            "header": "Upsets"
+          }
+        ]
+      },
+      {
+        "batch": 6,
+        "topic": "Villains and rivals",
+        "questions": [
+          {
+            "id": "V1",
+            "header": "Big villain"
+          },
+          {
+            "id": "V2",
+            "header": "Lieutenants"
+          },
+          {
+            "id": "V3",
+            "header": "Sympathy"
+          },
+          {
+            "id": "V4",
+            "header": "Rival"
+          }
+        ]
+      },
+      {
+        "batch": 7,
+        "topic": "Humour and tone shifts",
+        "questions": [
+          {
+            "id": "U1",
+            "header": "Comic breaks"
+          },
+          {
+            "id": "U2",
+            "header": "Who's funny"
+          },
+          {
+            "id": "U3",
+            "header": "Humour kinds"
+          },
+          {
+            "id": "U4",
+            "header": "Reactions"
+          }
+        ]
+      },
+      {
+        "batch": 8,
+        "topic": "Bonds and found family",
+        "questions": [
+          {
+            "id": "K1",
+            "header": "Bonds"
+          },
+          {
+            "id": "K2",
+            "header": "Crew"
+          },
+          {
+            "id": "K3",
+            "header": "Death"
+          },
+          {
+            "id": "K4",
+            "header": "Romance"
+          }
+        ]
+      }
+    ]
+  }
+}

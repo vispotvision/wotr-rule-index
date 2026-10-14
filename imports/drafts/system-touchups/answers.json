@@ -1,0 +1,32 @@
+{
+ "batch1_enhancement": {
+  "E1": "Passive base + active on top (Recommended)",
+  "E2": "Yes, and it leaves gaps (Recommended)",
+  "E3": "A coat of their own aura (Recommended)",
+  "E4": "Yes, active layer only (Recommended)"
+ },
+ "batch2_drafts": {
+  "D1": "Yes, few and costly (Recommended)",
+  "D2": "By the Stage they serve (Recommended)",
+  "D3": "Everywhere, all levels (Recommended)",
+  "D4": "Yes, about twenty (Recommended)"
+ },
+ "batch3_enchantment": {
+  "N1": "Common cheap, great ones old (Recommended)",
+  "N2": "Some fighters, tied to release (Recommended)",
+  "N3": "Rare high art, dangerous (Recommended)",
+  "N4": "Prepared tags, Naruto style"
+ },
+ "batch4_basics": {
+  "B1": "By school only",
+  "B2": "Breath, Wellsprings, fights, seclusion (Recommended)",
+  "B3": "Yes, school secrets (Recommended)",
+  "B4": "Guilds sneer, the world cheers (Recommended)"
+ },
+ "batch5_concision": {
+  "C1": "One page, plain English (Recommended)",
+  "C2": "Plain gloss beside each term (Recommended)",
+  "C3": "Rule, look, cost, counter, example (Recommended)",
+  "C4": "Yes, audit and fix (Recommended)"
+ }
+}

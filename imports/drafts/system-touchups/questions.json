@@ -1,0 +1,117 @@
+{
+ "title": "Magic system touch-ups: enhancement, Drafts, enchantment, basics, concision",
+ "date": "2026-10-14",
+ "why": "Isaac 2026-10-14: the system does not explain enhancements, Drafts and similar things well; questionnaire on touch-ups and making it concise. Canon read first: The Four Crafts, The Ladder and the Draft, Tier Grade, Color of Essence.",
+ "batches": [
+  {
+   "batch": 1,
+   "topic": "Body enhancement",
+   "questions": [
+    {
+     "id": "E1",
+     "header": "Passive/active"
+    },
+    {
+     "id": "E2",
+     "header": "Focus"
+    },
+    {
+     "id": "E3",
+     "header": "Look"
+    },
+    {
+     "id": "E4",
+     "header": "Off guard"
+    }
+   ]
+  },
+  {
+   "batch": 2,
+   "topic": "Drafts",
+   "questions": [
+    {
+     "id": "D1",
+     "header": "Combat Drafts"
+    },
+    {
+     "id": "D2",
+     "header": "Grades"
+    },
+    {
+     "id": "D3",
+     "header": "Draft trade"
+    },
+    {
+     "id": "D4",
+     "header": "Catalogue"
+    }
+   ]
+  },
+  {
+   "batch": 3,
+   "topic": "Enchantment and gear",
+   "questions": [
+    {
+     "id": "N1",
+     "header": "Gear"
+    },
+    {
+     "id": "N2",
+     "header": "Bound weapons"
+    },
+    {
+     "id": "N3",
+     "header": "Body runes"
+    },
+    {
+     "id": "N4",
+     "header": "Field runes"
+    }
+   ]
+  },
+  {
+   "batch": 4,
+   "topic": "Basics and training",
+   "questions": [
+    {
+     "id": "B1",
+     "header": "Basics"
+    },
+    {
+     "id": "B2",
+     "header": "Practice"
+    },
+    {
+     "id": "B3",
+     "header": "Manuals"
+    },
+    {
+     "id": "B4",
+     "header": "Status"
+    }
+   ]
+  },
+  {
+   "batch": 5,
+   "topic": "Concision",
+   "questions": [
+    {
+     "id": "C1",
+     "header": "Primer"
+    },
+    {
+     "id": "C2",
+     "header": "Jargon"
+    },
+    {
+     "id": "C3",
+     "header": "Format"
+    },
+    {
+     "id": "C4",
+     "header": "Clean-up"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,84 @@
+# Isaac's directions applied 2026-10-13. R78 is the next free standalone-ruling bucket after R77.
+# Each verbatim is the complete recorded RULINGS.md paragraph.
+pack: Directions 2026-10-13
+pack_number: null
+source_file: ''
+rules:
+- pack: Directions 2026-10-13
+  pack_number: null
+  status: live
+  supersedes:
+  - R51-13-WORD_STOCK
+  ratified: 'Isaac, 2026-10-11, Claude Code: direction recorded in RULINGS.md'
+  source: &id001
+    file: ''
+    lines: null
+  id: R78-1-VOCABULARY_PUSHED_HIGH
+  section: R51-13-WORD_STOCK
+  title: Vocabulary pushed high
+  kind: mandate
+  summary: Narration and italic thought reach for the most exact, most resonant word, leaning hard to
+    the rare, Latinate, archaic and technical, several to a page and more in a set piece, from the elevated
+    bank widened by ear; each POV keeps its reach and speech follows the card.
+  verbatim: 'Isaac''s direction 2026-10-11: vocabulary is pushed high. Narration and italic thought reach
+    for the most exact and most resonant word, leaning hard toward the sophisticated: rare, Latinate,
+    archaic and technical words a reader has to stop and weigh, several to every page and more in a set
+    piece; the elevated bank (C-091) is used freely and widened by ear. The chosen word must carry more
+    than its common substitute in meaning, sound or implication. Each POV keeps its reach (Verinus, Lambert,
+    Cozbi highest; Sodoku spare but exact; Hild a child''s grasp). Speech follows each card''s voice.
+    Unchanged: slop bans (R51-10, R70-35), working-man anatomy in explicit scenes, plain words in technique
+    entries (R76-1), body-and-blade words over fencing jargon (R77-1). Written into desktop/NATALIE.md
+    Prose Standards.'
+  amends:
+  - guide: NATALIE.md and the wotr-write skill
+    locus: Vocabulary and diction
+    operation: replaces
+  applies_to:
+  - prose-law
+  - register
+  verification: []
+  notes: 'Exact RULINGS.md paragraph under 2026-10-11 — R51-13-WORD_STOCK, applied to the index 2026-10-13
+    (it had stayed out of rules/, so load_rules kept serving R51-13''s ''by ear: whatever the sentence
+    needs''). Supersedes R51-13. Revives the elevated bank that R57-31 had superseded whole: R51-12''s
+    list less numinous (R57-31, WOTR sense only) and eldritch (cosmic stock, R74-45). The widened bank
+    is desktop/style-bank/elevated-words.md. R51-11 collisions and the hard-ban lists stand.'
+- pack: Directions 2026-10-13
+  pack_number: null
+  status: live
+  supersedes: []
+  ratified: 'Isaac, 2026-10-13, Claude Code chat: direction, scope answered by questionnaire'
+  source: *id001
+  id: R78-2-MODERN_SCIENCE_IDEAS
+  section: C-158
+  title: Modern scientific ideas in battle and magic
+  kind: mandate
+  summary: Modern science, to the present day, may explain workings and fights and drive magical research;
+    it is known through the Aether by high-Stage practitioners, Measurewrights and scholars, never by
+    commoners; built hardware keeps the R53-01 span and the R53-03 firearm ceiling.
+  verbatim: 'Isaac''s direction 2026-10-13: the 1900 limit on scientific ideas is retracted. Ideas from
+    modern science (physics, chemistry, biology and the rest, up to the present day) may be used in battle
+    and in magical advancement: to explain how a working or a fight operates, to drive a practitioner''s
+    or a school''s magical research, and to found new techniques. Who knows them is earned by magic: high-Stage
+    practitioners, Measurewrights and scholars reach them through the Aether before any instrument could,
+    so they speak in diagnostic voices and the author notes, while commoners keep their own words for
+    the same thing. Manufactured technology is unchanged: the Imperial Age span (R53-01, the 1800s into
+    the middle of the 1900s) and the firearm ceiling at 1900 hardware (R53-03) still govern what is built
+    and carried. This closes C-158: R11-C''s "nothing post-1900" no longer limits ideas, and R53-01 governs
+    hardware.'
+  amends:
+  - guide: NATALIE.md and the wotr-write skill
+    locus: The Magic Frame, Pack Eleven paragraph
+    operation: replaces
+  - guide: Ability Technique Design Guide
+    locus: Research and mechanism
+    operation: extends
+  applies_to:
+  - magic-mechanism
+  - magic-design
+  - combat
+  - worldbuilding
+  verification: []
+  notes: Closes C-158. Lifts R11-C's 2026-09-12 'nothing post-1900' for ideas only; R53-01 (technology
+    span) and R53-03 (firearms) still govern hardware, and R49-45 already exempts science words from timeless
+    narration. Medicine practised on the page stays era-appropriate by place (its own row); the notes
+    may use modern clinical science as they already do.

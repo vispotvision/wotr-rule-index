@@ -1782,7 +1782,7 @@ the author notes."
 **Quotes:** NATALIE.md: "the technology ceiling is everything invented 1800" · NATALIE.md: "1900 and nothing after" · NATALIE.md: "The Imperial Age runs from the 1800s into the mid-1900s and its technology exists across that span (R53-01)" · R11-C (ruling of 2026-09-12): "but only from 1800-1900. No further no earlier." · R11-C: "nothing post-1900" · R53-01: "The Imperial Age runs from the 1800s into the middle of the 1900s, and the technology of that whole span exists across it; the no-rail, no-photography, wire-only limits are superseded."
 **Consequence if unresolved:** A scene cannot say whether a device first made between 1900 and the middle of the century exists in 715 IC, and the standing prompt read at every session start gives both answers in one paragraph. C-137 already sets R53-01's span against Alchemetrica.
 **Recommendation:** none.
-**Status:** open
+**Status:** ruled 2026-10-13 by Isaac (RULINGS.md, C-158; applied as R78-2-MODERN_SCIENCE_IDEAS): the 1900 limit no longer binds ideas, so modern science may explain workings and fights and drive magical research; built hardware follows R53-01 and the R53-03 firearm ceiling. NATALIE.md's 'nothing after' line is struck.
 
 ## C-159: R8-26 allows one release per scene; R50-09 puts no limit on release calls; R8-23 has an art spoken once at release and thereafter assumed, and techniques spoken every time they are used
 

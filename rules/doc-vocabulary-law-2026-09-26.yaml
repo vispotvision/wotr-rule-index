@@ -349,7 +349,7 @@ rules:
   pack_number: null
   section: Vocabulary and diction
   title: Word Stock
-  status: live
+  status: superseded
   kind: mandate
   summary: 'Narration''s word stock (Old English vs Latinate) is by ear: whatever the sentence needs.'
   verbatim: 'Narration''s word stock (Old English vs Latinate) is by ear: whatever the sentence needs.'
@@ -367,7 +367,7 @@ rules:
   source:
     file: ''
     lines: null
-  notes: ''
+  notes: 'Superseded 2026-10-13 by R78-1-VOCABULARY_PUSHED_HIGH (Isaac''s direction 2026-10-11).'
 - id: R51-14-NEW_TERMS
   pack: Vocabulary Law 2026-09-26
   pack_number: null

@@ -3011,3 +3011,27 @@ C-157: R38-2 governs; the Apprentice's Primer, being a current printing, carries
 New rows filed from this pass: Malphas's living Depth 725 (SS) with no Attraction Path and Hardening 330 (A) with no Body Path sit against Part Seven's gates; recorded in CONFLICTS.md for the C-116 rebuild.
 
 Context: Drafted by a read-only research agent per conflict, checked by Natalie in Claude Code before logging.
+
+## 2026-10-13 — C-136, C-137, C-138, C-139, C-140, C-141, C-142, C-143, C-144
+
+Agent rulings (Natalie, 2026-10-13, under the canon precedence ladder; Isaac may overturn any of them).
+
+C-136: The Law of Alchemical Independence governs: a pure alchemist makes lawful Drafts and his lot is Draftcraft. The Four Crafts' line narrows to what canon holds: Draftcraft asks for a woken Crystal at manufacture only behind the seal on work made to stand, and for a pure alchemist that seal is a Crystal-bearer's (EC1, EC3). The page's two duplicated paragraphs are cut.
+
+C-137: R53-01 and R63-2 govern: glass thermometers, thermocouples and furnace pyrometers exist in 715 IC and a bench may own them. Alchemetrica's "There has never been an instrument" is struck. Heat at the charge stays a craft skill for the reason the page already gives: no instrument goes inside a sealed vessel; the thermometer reads the bath, the pyrometer the furnace. The Real Alchemy's Instruments note is brought into line. (Isaac's 2026-10-13 science direction does not touch this: these are hardware inside the span.)
+
+C-138: The Work's order and GW2's counting both stand, counted charge by charge: each principle whitens in its own vessel where no Wedding can fall, and the Wedding is the Conjunction of the joined medicine, a new charge. Volumes I and II stand word for word; Alchemetrica's Tria Prima gains that sentence.
+
+C-139: Three answers to three questions. The Magical Categories governs alignment (the Core's intention); The Four Crafts names what a Draft acts on (the Core); Alchemetrica's Attraction Layer line concerns the maker's vein cost and reach and loses "decisive" (EC4: Core to Tempering Coherence and Maturity, Attraction Layer to Harmonics Attunement).
+
+C-140: The Family pages' physics governs, extending K5 ("the physics register wins"): Alchemetrica's glosses become Coagulatio "gathers what is dispersed round a seed and sets it", Transmutatio "re-expresses a thing in another basis, nothing created or lost", Materia Primordia "re-lattices one Essence into another of its own forms"; Coagulation's law cell follows.
+
+C-141: Not a conflict. The Codex's attested-Wellspring column records where a glyph has been met; no rule makes it a gate, check 38 tests existence only, and chains work in roles. All chains stand; Alchemetrica gains one clarifying sentence.
+
+C-142: EC3 governs: a bench-certified Expert's lot caps at T5 and the Expert band; Class Ø caps only the soul's own stat output; work made to stand is capped also by the Grade of the Crystal-bearer whose seal it carries, the lower binding. The Class Ø row reads "No stat output above Hollow Grade".
+
+C-143: The Tiered Path stands: the Lattice's recognition of a Tier is the Crystal's change being recorded, not a Wellspring's harmonisation. A Mechanica-trained Crystal-bearer can reach Master with no harmonisation, and cannot pass the Invocation gate, since nothing he calls answers. Alchemetrica's sentence is rewritten to say so.
+
+C-144: Three words keep three registers: unqualified "Drafter" is anyone who pours; "Drafter" as a rung is the house's ladder; "Journeyman" is the Accord's Tier Three. Rungs never map onto Tiers. Alchemetrica's Drafter row reads "The house's journeyman, a rung and not a Tier".
+
+Context: Drafted by a read-only research agent per conflict, checked by Natalie in Claude Code before logging.

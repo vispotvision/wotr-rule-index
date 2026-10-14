@@ -82,3 +82,13 @@ below is the edit that makes canon agree. Tick when applied.
 
 - [ ] Malphas · Ferment of Stars, §IV beside the Conversion callout: "Hardening runs at 330 as passive rejection of contamination, which no Path gates; its active part is held at 175, the top of C, for want of Body Path at Stage III." Carry into the C-116 lich rebuild (C-161)
 - C-160 and C-162: no edits.
+
+## Status at session end, 2026-10-13
+
+Applied in Notion (build/notion_edit.py replace, reports/notion_replace_2026-10-13.md, and the Notion connector for additions): every replacement in the lists above except those marked OWED below; the Lexicon's Rupture Event and Realm Rot entries; the Spirit Summoning Arts, Sixteen Stages, Tiered Path and FOW VII sentences; Alchemetrica's Tria Prima, Four Operations and filing paragraphs; The Real Alchemy's Instruments note; the Nalūn Rimward row; Mu-jin's dated-loadout line (C-121) and his Lore; Lambert (Edward and Charles, the parish book), Lu Sanjing; the Primer; Malphas's Conversion (C-115) and Hardening (C-161) lines. The Four Crafts' "triplicated" paragraphs are a mirror artifact: Notion holds one copy each, nothing deleted.
+
+OWED:
+- Malphas lich block rebuild (C-116 with C-161): Pool 18,900, merged Sub-Stat names, the 2,999 cut from the Peaks, Grades re-derived. Systems work; left whole rather than changing the pool line alone.
+- The Open Crucible: date its Stage XII Gates line and Legion signature line to the Academy loadout (C-121).
+- The C-129 edits in kaalabad_star_crusher.md, the_house_of_abscene_kujo_arc.md and CONTINUITY.md (another session's uncommitted edits sit in those files), and the TIMELINE row moves.
+- Scene Archive copies in Notion of the scenes edited in the repo.

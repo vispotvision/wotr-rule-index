@@ -27,6 +27,23 @@ not private chat histories or a model's internal memory.
 
 ## Durable notes
 
+### 2026-10-13 — Vocabulary bank, modern science, conflicts ruled (Isaac's directions; recorded by Claude Code)
+
+Isaac's decisions: (1) vocabulary is pushed high, and his 2026-10-11 direction is
+now live in the index as R78-1-VOCABULARY_PUSHED_HIGH (it had stayed out of
+`rules/`, so `load_rules` served R51-13's "by ear"). Before drafting, read
+`desktop/style-bank/elevated-words.md`, the widened elevated bank: glossed by
+sense domain, each word once a scene, never stacked, the POV's reach governing.
+(2) He retracted the 1900 limit on scientific ideas: R78-2-MODERN_SCIENCE_IDEAS.
+Modern science may explain workings and fights and drive magical research; it is
+known through the Aether by high-Stage practitioners, Measurewrights and
+scholars, never by commoners; built hardware keeps R53-01 and the R53-03 firearm
+ceiling (his answers to a three-question questionnaire). Agent finding: a
+word-frequency checker for rare vocabulary was tried and rejected, as it
+rewards concrete compounds, not elevated diction. (3) Every open CONFLICTS row
+(C-113 to C-162) was ruled as an agent ruling in RULINGS.md; owed application
+items are in `imports/drafts/conflict-rulings-2026-10-13/apply.md`.
+
 ### 2026-10-11 — Law reading revised: rulebook digest once a session, full wording per task (Isaac; recorded by Claude Code)
 
 Isaac replaced the same-day "full word-for-word reading before every task"

@@ -6,6 +6,32 @@ direction: inside work he has asked for, make the calls; no "pending" slots.
 append a dated block, do not rewrite older ones (two sessions write this repo
 at once — `git pull` before editing, and commit only your own files).
 
+## State on 2026-10-13 (vocabulary pushed high, modern science, every open conflict ruled)
+
+Isaac: vocabulary isn't reaching past base words; make the rules consistent;
+and he retracted the 1900 limit on physics. Done in one Claude Code session:
+
+- **R78-1-VOCABULARY_PUSHED_HIGH** (`rules/doc-directions-2026-10-13.yaml`)
+  applies his 2026-10-11 direction, which had never reached the index (load_rules
+  kept serving R51-13's "by ear"); supersedes R51-13. The widened elevated bank
+  is `desktop/style-bank/elevated-words.md` (by sense domain, glossed, POV reach,
+  once per scene); NATALIE.md points to it. A rare-word checker was tried and
+  dropped: frequency counts reward "breastbone", not diction.
+- **R78-2-MODERN_SCIENCE_IDEAS** (Isaac, 2026-10-13, scope by questionnaire):
+  modern science in battle and magical advancement, known through the Aether by
+  high-Stage practitioners, Measurewrights and scholars; hardware keeps R53-01
+  and R53-03. Closes C-158; NATALIE.md's "nothing after 1900" line struck.
+- **Every open conflict ruled** (C-113 to C-162, six read-only drafting agents,
+  checked and logged as agent rulings in RULINGS.md; C-160 to C-162 filed and
+  ruled the same day). CONFLICTS.md has no open row but the format example.
+  Applied: rule notes, repo scenes, and about fifty Notion edits. Owed list:
+  `imports/drafts/conflict-rulings-2026-10-13/apply.md` (Malphas lich rebuild,
+  Open Crucible dating, the C-129 edits in three files another session holds
+  dirty, TIMELINE rows, Scene Archive copies).
+
+`out/` was not regenerated into a commit: it would carry another session's
+uncommitted rule edits. load_rules reads `rules/` live.
+
 ## State on 2026-10-08 (validated timeline and continuity applied)
 
 Isaac directly requested applying the validated changes from his dot Bernard

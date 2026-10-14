@@ -1159,5 +1159,10 @@
     "page_id": "3f958200-eb22-8182-a31c-f78b27746a27",
     "title": "The Last Quiet Room",
     "hash": "51ee8061a1904b8e"
+  },
+  "scenes/lions_bane.md": {
+    "page_id": "3f958200-eb22-819e-8c11-fdcf37181a46",
+    "title": "Lion's Bane",
+    "hash": "fccc3fe36c3ec8ff"
   }
 }

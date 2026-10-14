@@ -2965,3 +2965,27 @@ C-154: EC10 sets the floor, DE4 the kind. An impression-body is a Greater Summon
 C-159: Already ruled by Isaac on 2026-10-04 (combat questionnaire MC3): R71-29 supersedes R8-26 and R50-09 governs. Only the CONFLICTS.md status was stale; closed.
 
 Context: Drafted by a read-only research agent per conflict, checked by Natalie in Claude Code before logging.
+
+## 2026-10-13 — C-145, C-146, C-147, C-148, C-149, C-150, C-151, C-152, C-153
+
+Agent rulings (Natalie, 2026-10-13, under the canon precedence ladder; Isaac may overturn any of them).
+
+C-145: Both pages stand. Scribe's Wash lifts a whole Parunic sentence and leaves the substrate; Architect's Ink cures as one cross-linked network, so on inked work the Wash takes the whole cured diagram and leaves the substrate bare. The Alchemical Index's failure cell reads "take the whole cured diagram with them and leave the substrate bare". Grounds: R18-5 makes Alchemetrica binding doctrine.
+
+C-146: Split by qualifier, nothing published renamed. Bare "Rupture" stays the Lexicon's Shell failure; the Conjunction failure is a "Rupture Event" (Alchemetrica's table already uses it) and the Lexicon gains that entry; The Crossing's lowercase "the rupture" is plain English and stays.
+
+C-147: Alchemetrica governs: Draft Corruption is any structural error partially executed, leaving a law-fragment, and the defective Direction role is one way to it. The Lexicon's Draft Corruption and Sealing-failure lines are rewritten to agree with its own role table. Grounds: R18-5.
+
+C-148: Not a conflict. The Bench of Attribution has sat six centuries; the "four centuries" figures count how long the trade took to state its doctrine and settle its readings. Closed.
+
+C-149: "Paru's First Speech" is cut for "since the Division" (no page defines a Paru). "Realm Rot" stays distinct from Hollowing (a Hollowing can close; Mechanica's summed unsealed boundaries cannot) and the Lexicon gains the entry. "Induced Parunic apertures" stand.
+
+C-150: The Apparatus page's citation of Alchemetrica goes; its own claim stays: "Both come off alchemical benches, and the alchemical houses price them accordingly."
+
+C-151: Operations are filing classes by what a Draft does to its charge; the Wellspring is entered in Authorization. Fixatio and Materia Primordia Drafts file as Coagulations; Dissolution and Transmutatio Drafts as composites named by the operations their effect passes through. Alchemetrica gains that paragraph.
+
+C-152: "Turn" has two senses told apart by qualifier: the combat turn is six seconds (R47-11), the calendar turn fourteen days (the Sky page). Bench durations are calendar turns. FOW VII's line reads "One combat turn is 6 seconds".
+
+C-153: Alchemetrica's figures stand as WOTR doctrine (Isaac's AL2: "The Bed stays everywhere"); The Real Alchemy's divergence notes stand as the record of where WOTR departs from the real bench, and its stale "weeks" wording is brought to turns.
+
+Context: Drafted by a read-only research agent per conflict, checked by Natalie in Claude Code before logging.

@@ -3035,3 +3035,23 @@ C-143: The Tiered Path stands: the Lattice's recognition of a Tier is the Crysta
 C-144: Three words keep three registers: unqualified "Drafter" is anyone who pours; "Drafter" as a rung is the house's ladder; "Journeyman" is the Accord's Tier Three. Rungs never map onto Tiers. Alchemetrica's Drafter row reads "The house's journeyman, a rung and not a Tier".
 
 Context: Drafted by a read-only research agent per conflict, checked by Natalie in Claude Code before logging.
+
+## 2026-10-13 — C-129, C-130, C-131, C-132, C-133, C-134
+
+Agent rulings (Natalie, 2026-10-13, under the canon precedence ladder; Isaac may overturn any of them). The deciding source for the 701 IC order is Volume III, ratified without change: the Seat falls, the ship, Rimward, the orchard, the road, Urbis.
+
+C-129: The Carver's Seat falls in late summer 701; the Rimward wall in the first weeks of autumn; Mu-jin comes home and the Star Crusher's attack on Sum-gol and the orchard fall in mid-autumn, about six weeks before the road; the road and the Kharven battle in late autumn under eleven-day snow, day fourteen of the Altherion clock; Urbis after. The Star Crusher precedes Aurelian's captivity; the day-eleven petition stands as Kaalabad asking leave after Sum-gol stopped him. The orchard's "summer" becomes autumn; the Star Crusher scene's dateline becomes "about six weeks before the Ashgate road", its tie to the black-chamber list loosens to "the first item on his list", and its "frozen earth" becomes "earth". Grounds: rung 1 Volume III, frithia-timeline item 3; rung 6 five road texts count six weeks.
+
+C-130: The Vaeloris Sequence falls before the Kharven battle, from about three weeks after the Seat fell to the Rimward wall. Its "Darius is dead" is the news of his drawing into the Plane of Fate; he is alive on battle day. Its Sovereign is Zuberi, alive there, who dies at Kharven on the day of the road. The four cabin meetings come before Part 20. CONTINUITY's "a week after the battle" and its recorded Verinus contradiction go.
+
+C-131: Frithia's bedside is the teaching house at Sum-gol, the fourth day after the orchard, mid-autumn 701: weeks after Rimward and weeks before the file's Alabaster half. Part 20's copy takes that place line.
+
+C-132: The card and Volume III govern: the right eye is lost at Rimward and kept under linen, later a cloth binding; the left goes violet by the road and white from lid to lid at its end and still sees; the hair is white-blond. The bedside, the Arena and the Academy scenes are brought into line.
+
+C-133: Two places, neither renamed. The Rimward of the wall and the nine days is the Holy Sea of Alabaster's harbour (gate, boom, the four-century wool store, the marches). Rimward the chain-city, founded about 140 years ago, is Nalūn's eastern frontier and names the Eastern Reach. Mu-jin's card, the Nalūn page and the Ketsuen inventory say which is meant.
+
+C-134: Ketsuen's Vaeloris is one place counted two ways: the province and basin of about 10,000 whose Carver's Seat is the stone academy, and the one-street village of 741 souls on the Alabaster Court's parish roll; Kujo emptied the village and destroyed the Seat in late summer 701. Kharven's Vaeloris quarter is a separate place: Lambert's courtyard and parish book belong to it. Lu Sanjing's reformed Vaeloris is Ketsuen's.
+
+New row filed from this pass: under this order 07_charles's "six weeks" for Darius in the ash by day fourteen reads about ten weeks.
+
+Context: Drafted by a read-only research agent per conflict, checked by Natalie in Claude Code before logging.

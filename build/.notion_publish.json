@@ -1154,5 +1154,10 @@
     "page_id": "3f758200-eb22-8164-a1cd-d4cdb6ce3963",
     "title": "Returning Water — Aetherion Arena",
     "hash": "3d6675898d14831d"
+  },
+  "scenes/the_last_quiet_room.md": {
+    "page_id": "3f958200-eb22-8182-a31c-f78b27746a27",
+    "title": "The Last Quiet Room",
+    "hash": "51ee8061a1904b8e"
   }
 }

@@ -3055,3 +3055,15 @@ C-134: Ketsuen's Vaeloris is one place counted two ways: the province and basin 
 New row filed from this pass: under this order 07_charles's "six weeks" for Darius in the ash by day fourteen reads about ten weeks.
 
 Context: Drafted by a read-only research agent per conflict, checked by Natalie in Claude Code before logging.
+
+## 2026-10-13 — C-160, C-161, C-162
+
+Agent rulings (Natalie, 2026-10-13, under the canon precedence ladder; Isaac may overturn any of them). Rows filed the same day while ruling C-115, C-116, C-129 and C-130.
+
+C-160: Already answered by Isaac's R25-1 (2026-09-12): Obsession Force satisfies an Attraction Path gate for every corrupted practitioner, and Malphas's Attraction Layer runs under Obsession Force (his card). Depth 725 (SS) stands; he is past Stage IV and Stage VI. Closed.
+
+C-161: Part Seven's own text splits Hardening: "requires Body Path at Stage III to exceed C; passive rejection of contamination is open". Under R57-29 (a Path gate caps only the component it names), Malphas's Hardening 330 (A) stands as his passive rejection of contamination, and its active component, with no Body Path, is held at 175, the top of C. The card gains that line beside Conversion's, and the C-116 lich rebuild carries both.
+
+C-162: Not a conflict. 07_charles counts Darius "in the ash at Sum-gol for six weeks", and the ash at Sum-gol exists only from the Star Crusher's attack, which C-129 sets about six weeks before the road. The count runs from Sum-gol, not from his drawing into Fate under C-130. No edit.
+
+Context: Checked by Natalie in Claude Code against R25-1, Fracture of Worlds Part Seven (the living-system Grades page) and scenes/07_charles_the_imperceptible_district.md:23.

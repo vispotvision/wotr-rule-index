@@ -421,14 +421,15 @@ rules:
   source:
     file: ''
     lines: null
-  notes: 'TE5, option B, which builds on A. Option A reads: Capped at its Grade. A vow lifts delivered
-    output up to the top of the technique''s own Grade band, never across it; where inside the band is
-    set on the card. A release call stacks on top. Partly amends R71-32-VOWS_LIMITS: a vow still raises
-    output through Attraction Force by a figure set on the card, and that figure is now bounded by the
-    technique''s Grade band, or by one full Grade for a great vow. The Grades are canon''s table (Hollow
-    to EX+), so no figure is invented (R12-5-NEVER_INVENT_NUMBER). The release call is R8-24-RELEASE_MECHANIC''s,
-    which stands. R39-4-MAX_GRADE_LETTER_BINDS (the Sub-Stat Grade cap) stands. What a great vow stakes
-    and what breaking it costs is R75-13-WHAT_ELSE_VOW_MAY_BE.'
+  notes: 'TE5, option B, which builds on A. Option A reads: Capped at its Grade. A vow lifts delivered output
+    up to the top of the technique''s own Grade band, never across it; where inside the band is set on the
+    card. A release call stacks on top. Partly amends R71-32-VOWS_LIMITS: a vow still raises output through
+    Attraction Force by a figure set on the card, and that figure is now bounded by the technique''s Grade
+    band, or by one full Grade for a great vow. The Grades are canon''s table (Hollow to EX+), so no figure
+    is invented (R12-5-NEVER_INVENT_NUMBER). The release call is R8-24-RELEASE_MECHANIC''s, which stands.
+    R39-4-MAX_GRADE_LETTER_BINDS (the Sub-Stat Grade cap) stands. What a great vow stakes and what breaking
+    it costs is R75-13-WHAT_ELSE_VOW_MAY_BE. Amended 2026-10-14 by R78-6-POWER_ANIME_ON_PAGE: vows and conditions
+    are common and central.'
 - id: R75-13-WHAT_ELSE_VOW_MAY_BE
   pack: Techniques Law 2026-10-04
   pack_number: null

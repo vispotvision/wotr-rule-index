@@ -51,3 +51,238 @@ rules:
     build/test_r78_3.py). Bank: desktop/style-bank/elevated-words.md gains Striking, Old and high English,
     Workings seen. Agent call under R72-2, Isaac may overturn: Hild and Sodoku saturate too, in short
     concrete English.'
+- pack: Directions 2026-10-14
+  pack_number: null
+  status: live
+  supersedes: []
+  ratified: 'Isaac, 2026-10-14, Claude Code chat: direction, scope answered by questionnaire'
+  source:
+    file: ''
+    lines: null
+  id: R78-4-WOTR_IDENTITY_TONE
+  section: page-craft-questionnaire
+  title: 'What WOTR is: dark shonen cultivation, magitech, its own beauty'
+  kind: mandate
+  summary: 'WOTR is a dark shonen cultivation fantasy in a magitech world: dark stakes, shonen heart,
+    frequent wins at a price, cruelty only when earned; Arcane/FMA, Bleach and Naruto settings, Final
+    Fantasy and LotM looks; magitech everywhere in cities; a beautiful, fantastical land; not muted, not
+    driven home as grimdark.'
+  verbatim: 'Isaac''s direction 2026-10-14, by questionnaire (imports/drafts/page-craft-questionnaire/,
+    round 2 batches 1 and 4): what WOTR is. WOTR is a dark shonen fantasy with cultivation at its core,
+    in a magitech, magipunk world where things run off magic; it is its own thing and is not driven home
+    as grimdark. Dark stakes, shonen heart: the world is brutal and costs are real, and people fight back
+    with will, bonds and growth and can win. The protagonists win often, each win at a visible price,
+    and some arcs end in loss. Cruelty comes when the story earns it, at turning points, written in full;
+    the world is dangerous, never grinding every page. The look draws on Arcane and Fullmetal Alchemist,
+    the settings of Bleach and Naruto, Final Fantasy, and Lord of the Mysteries together. The land is
+    wildly fantastical and earthlike at once, beautiful throughout, and its own. Magitech is everywhere
+    in the cities (lights, heat, water, transport) and thins in the towns and the wilds. Cities are grand
+    and lived-in: breathtaking skylines and craft over real streets, smells and poor quarters. The palette
+    is not muted or grey; WOTR has its own beautiful design.'
+  amends:
+  - guide: NATALIE.md and the wotr-write skill
+    locus: Who Natalie is; the magic frame; prose standards
+    operation: replaces
+  applies_to:
+  - prose-law
+  - worldbuilding
+  - scene-structure
+  - register
+  verification: []
+  notes: 'Amends R53-28 (visual reference widened to four touchstones), R59-07 (cities grand and lived-in,
+    beyond Victorian-Edwardian), R70-1 (the anime and cultivation models join the blend), R70-114 (the
+    warm-bond floor stands; its ''grimdark'' frame does not). Agent call under R72-2, Isaac may overturn:
+    the 2026-09-12 Draw Age ruling ''draw is guild-licence only (commoners burn oil)'' narrows to private
+    drawing; a city''s public magitech runs on licensed district mains that commoners live by, and the
+    towns and wilds burn oil.'
+- pack: Directions 2026-10-14
+  pack_number: null
+  status: live
+  supersedes:
+  - R70-103-MEMORY_INSIDE_FIGHT
+  ratified: 'Isaac, 2026-10-14, Claude Code chat: direction, scope answered by questionnaire'
+  source:
+    file: ''
+    lines: null
+  id: R78-5-FIGHTS_ANIME_ON_PAGE
+  section: page-craft-questionnaire
+  title: 'Fights on the page: shouted English names, afterimages, geysers, free flashbacks'
+  kind: mandate
+  summary: Eastern school terms free in narration; techniques shouted in English; afterimages for speed;
+    battles as bodies, fog of war, spectacle strikes, joined vignettes; full plain-word anatomy, anime
+    blood, wounds shrugged off then felt, small hits add up; Hunter x Hunter reasoning; free flashbacks;
+    talk at the pauses; one POV per stretch; will counts through vow, Resonance or breakthrough.
+  verbatim: 'Isaac''s direction 2026-10-14, by questionnaire (imports/drafts/page-craft-questionnaire/,
+    round 1 batches 1 to 3, round 2 batch 3, round 3 batches 1 and 2): fights on the page. Eastern school
+    terms (kamae, maai, chudan, qinggong, dantian) are free in narration as anime flavour. A technique''s
+    name is shouted as it fires, anime style, and the name is in English. A move too fast for the eye
+    shows as afterimages. Formations are written as bodies only, the POV knows only what they can see,
+    a high-Stage strike on massed troops is anime spectacle with the bodies in it, and a battle runs as
+    close vignettes joined by the battle''s turn. An open wound shows its anatomy in plain words; blood
+    sprays in anime geysers; a fighter shrugs a wound off in the moment and the pain arrives after; every
+    small hit is noted and they add up. A fighter thinks the fight through at length, Hunter x Hunter
+    style. Flashbacks run freely mid-fight, Naruto style, the opponent''s included. Fighters talk at the
+    pauses between exchanges, taunts and declarations, and go quiet while the blades move. A fight stays
+    in one head and switches POV only at a marked break. Will changes outcomes through the system: a vow,
+    a Resonance or a breakthrough turns resolve into power the stats can feel, never a free win.'
+  amends:
+  - guide: NATALIE.md and the wotr-write skill
+    locus: Who Natalie is; the magic frame; prose standards
+    operation: replaces
+  applies_to:
+  - prose-law
+  - combat
+  - mass-combat
+  - pov
+  - naming
+  verification: []
+  notes: 'Supersedes R70-103 (one flashback per fight, the POV''s own). Amends R70-100 (its open question
+    answered: Eastern terms are free, unlike the English abstractions R78-3 bans), R8-21 and R50-08 (the
+    name on the page and in the shout is English), R8-24 and R50-09 (the release call is the shouted name,
+    every firing). Agent calls under R72-2, Isaac may overturn: a card may keep a culture-tongue true
+    name beside its English one, in the card and notes; the shrug-off never writes Isaac''s PC''s pain
+    or reaction, which stay his (R71-6, R72-6, R73-19); in Isaac''s PC''s fights the Hunter x Hunter reasoning
+    is the NPC''s, built only from tells shown, and never hands the PC''s mechanism (R77-2, R71-23 stand).'
+- pack: Directions 2026-10-14
+  pack_number: null
+  status: live
+  supersedes:
+  - R9-3-AURA_AS_FRACTURE
+  ratified: 'Isaac, 2026-10-14, Claude Code chat: direction, scope answered by questionnaire'
+  source:
+    file: ''
+    lines: null
+  id: R78-6-POWER_ANIME_ON_PAGE
+  section: page-craft-questionnaire
+  title: 'Power on the page: coloured auras, transformations, open sensing, vows, releases'
+  kind: mandate
+  summary: 'Qi cultivation with Hunter x Hunter, Dragon Ball, Bleach and Naruto ideas: a personal coloured
+    aura, full transformation power-ups, Stage-scaled damage shown, a signature sound per technique with
+    anime flair, open sensing and talk of strength, vows central, held power revealed on planted hints,
+    upsets across one Stage with a read, named staged release forms, and fewer readouts.'
+  verbatim: 'Isaac''s direction 2026-10-14, by questionnaire (imports/drafts/page-craft-questionnaire/,
+    round 1 batch 4, round 2 batch 5, round 3 batches 2 and 3): power on the page. WOTR''s system is a
+    mixture of qi cultivation and the ideas of Hunter x Hunter, Dragon Ball, Bleach and Naruto, and that
+    shows in how power reads. Each practitioner''s power has a visible aura in their own colour and feel,
+    brighter as they push. A power-up or breakthrough is full transformation spectacle: the body and the
+    world change visibly. Damage to the surroundings scales with Stage and is shown. Every technique has
+    its own signature sound, with anime flair. Practitioners sense each other''s strength and talk about
+    it openly, Bleach and Dragon Ball style. Self-imposed vows and conditions that buy power are common
+    and central, and reading an enemy''s condition is half the fight. Strong fighters hold power back
+    for a reason and reveal it at the right moment, with planted hints. A lower-Stage fighter can beat
+    a higher one across one Stage with a read; two or more takes something extraordinary, a vow or a breakthrough.
+    Many practitioners have named, staged release forms tied to the system, each with a name, a look and
+    a cost. Status screens and readouts become fewer, Bleach style: numbers live in the notes and diagnostic
+    talk.'
+  amends:
+  - guide: NATALIE.md and the wotr-write skill
+    locus: Who Natalie is; the magic frame; prose standards
+    operation: replaces
+  applies_to:
+  - magic-mechanism
+  - magic-design
+  - combat
+  - stats
+  - prose-law
+  verification: []
+  notes: 'Supersedes R9-3 (aura as fracture, ''it glowed'' banned): a person''s aura is their own colour
+    and may glow; shard-edged geometry survives as one person''s look where a card gives it. Amends R70-69
+    (the aura shows on the person with the room), R70-2, R70-84, R70-85, R70-86 (readouts only at a breakthrough,
+    a re-assay that moves something or an arc''s end, never in a fight; the verify_scene cap is unchanged
+    until build/verify.py is free of another session''s open edit), R75-12 (vows central). Owed: the release-form
+    system (names, looks, costs, Stage and Trait gates), drafted by ChatGPT under the standing split and
+    checked here; until it lands, no release form is invented on the page except inside its card.'
+- pack: Directions 2026-10-14
+  pack_number: null
+  status: live
+  supersedes: []
+  ratified: 'Isaac, 2026-10-14, Claude Code chat: direction, scope answered by questionnaire'
+  source:
+    file: ''
+    lines: null
+  id: R78-7-CULTIVATION_AND_STORY
+  section: page-craft-questionnaire
+  title: 'Cultivation and story: three roads to breakthrough, sects, Aizen-shaped arcs, crews'
+  kind: mandate
+  summary: Breakthroughs by crisis, seclusion or tribulation; resources drive plot; xianxia ranks in WOTR
+    institutions; real young masters; tournament, training, rescue and war arcs under one main villain
+    revealed in stages with ranked lieutenants; understandable villains; rival to ally; mentors may die;
+    bonds mostly hold; a core crew; the dead stay dead save rare costly returns; romance central; time
+    skips; cliffhanger endings; Hollow-style Well-spawn; POV-eye fanservice.
+  verbatim: 'Isaac''s direction 2026-10-14, by questionnaire (imports/drafts/page-craft-questionnaire/,
+    round 2 batches 2, 3, 6 and 8, round 3 batches 2 and 3): cultivation and story. Stage breakthroughs
+    come by crisis, seclusion or tribulation, a mixture of all three. Cultivation resources (Drafts, Cores,
+    treasures) are a real driver of plot. Sects, schools and academies run on xianxia ranks (outer and
+    inner disciples, elders, ranking contests) inside WOTR''s own institutions. The arrogant young master
+    and his humbling are used, written as real people with real wants. WOTR runs tournament, training,
+    rescue and invasion, and war arcs, under a Bleach or Dragon Ball shape: one main villain with many
+    people working for him, Aizen or Yhwach, felt early and revealed in stages, over an elite ranked circle
+    of lieutenants each with a power, a look, a philosophy and a fight that matters. Villains are understandable,
+    some arguably right. The rival goes from rival to reluctant ally. Mentors: some die, some do not.
+    Bonds mostly hold and are tested hard. The protagonist runs with a core crew, each with a role. The
+    dead stay dead, with rare costly exceptions. Romance short of the explicit is central to many threads.
+    Time skips run between big arcs. Chapters and arcs end on hooks and cliffhangers. Well-spawn are Hollow-style,
+    shaped by the Well that made them. Fanservice outside explicit scenes comes only from what the POV
+    notices.'
+  amends:
+  - guide: NATALIE.md and the wotr-write skill
+    locus: Who Natalie is; the magic frame; prose standards
+    operation: replaces
+  applies_to:
+  - scene-structure
+  - worldbuilding
+  - magic-design
+  - stats
+  - prose-law
+  verification: []
+  notes: 'Amends R70-91 (crisis is one road; seclusion and tribulation are others, and a breakthrough
+    in crisis still lands as R70-91 says), R70-17 (hook and cliffhanger now the default close), R53-06
+    (Well-spawn take a Hollow-style design from their Well), R70-114. Agent call under R72-2, Isaac may
+    overturn: a rare return from death never runs by full resurrection on paper (R61-56 stands); it is
+    costly and Codex-backed, a revenant or a stalled Crossing.'
+- pack: Directions 2026-10-14
+  pack_number: null
+  status: live
+  supersedes:
+  - R70-113-DOUBLE_ACT_COMIC_BEAT
+  - R5-D-HUMOUR_BARRED
+  ratified: 'Isaac, 2026-10-14, Claude Code chat: direction, scope answered by questionnaire'
+  source:
+    file: ''
+    lines: null
+  id: R78-8-VOICE_DIALOGUE_HUMOUR
+  section: page-craft-questionnaire
+  title: 'Voice, dialogue and humour: big emotion, phonetic accents, anime gags from the right mouths'
+  kind: mandate
+  summary: Thought woven through action; emotions anime-big; full phonetic accents; soldiers' swearing;
+    plentiful mixed banter; action-beat tags; each culture's address; earned explanations and big lines;
+    anyone funny in their own way, anime gags from the characters who do that; named people react to power;
+    one italic thought per NPC a scene.
+  verbatim: 'Isaac''s direction 2026-10-14, by questionnaire (imports/drafts/page-craft-questionnaire/,
+    round 1 batches 5 to 7, round 2 batch 7, round 3 batch 1): voice, dialogue and humour. Thought, memory
+    and feeling are woven steadily through the action. Emotions play anime-big throughout. Accents are
+    written in full phonetic spelling. People swear like real soldiers and thugs, in English and their
+    culture''s oaths; nobles and priests barely. Banter is plentiful, a mixture of anime style with ribbing
+    and jokes, because WOTR is its own thing. Dialogue tags are action beats, with said when needed. People
+    address each other in their culture''s own forms. A character explains a power aloud only from what
+    they could know. Declarations, battle cries and villain speeches land at the moments that carry them,
+    in each speaker''s voice; catchphrases only where a card gives one. Anyone may be funny in their own
+    way, and anime gags come from the characters who actually do that sort of thing, Borin and his kind.
+    Banter and ribbing, anime reactions, dry and gallows wit, and crude and bawdy humour all fit. Big
+    power draws reactions from specific named people in the crowd. NPCs keep one italic thought each per
+    scene.'
+  amends:
+  - guide: NATALIE.md and the wotr-write skill
+    locus: Who Natalie is; the magic frame; prose standards
+    operation: replaces
+  applies_to:
+  - dialogue
+  - register
+  - prose-law
+  - pov
+  verification: []
+  notes: 'Supersedes R70-113 and R5-D-HUMOUR_BARRED (the setup, deadpan and reaction rhythm is legal for
+    the characters who play that way; R5-D-HUMOUR_PERMITTED stands). Amends R70-72 and R74-34 (a power
+    reveal''s reaction is given to named people with their own words and body; the horror-witness allowance
+    stands), R48-11. Restates R49-37 and R51-27 (full phonetic accents). Agent call under R72-2, Isaac
+    may overturn: ''anime-big'' emotion still never writes Isaac''s PC''s feeling (R72-6).'

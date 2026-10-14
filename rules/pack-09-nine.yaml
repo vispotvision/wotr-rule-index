@@ -282,7 +282,7 @@ rules:
     pack_number: 9
     section: "PART THREE"
     title: Aura reads as fracture, not glow
-    status: live
+    status: superseded
     kind: ban
     summary: >-
       Essence discharge reads as broken, shard-edged geometry around the
@@ -306,15 +306,12 @@ rules:
     source:
       file: WOTR_Companion_Guide_Amendments_Pack_Nine.md
       lines: "38"
-    notes: >-
-      Noted by R70-69-PRESSURE_AURA (style law 2026-10-03): Pressure leads
-      through the room, then bodies; fracture, not glow, for a display's
-      discharge stands.
-      Partly amended by R71-63-BEASTKIN_SENSES_FOX_FIRE (combat law
-      2026-10-04): "A canon Trait that makes light is named as light, by
-      colour, size and what it shows; R9-3's glow ban stays on Essence
-      discharge only" 'It glowed' stays banned for Essence discharge; a canon
-      Trait that makes light, such as fox-fire, is named plainly as light.
+    notes: 'Noted by R70-69-PRESSURE_AURA (style law 2026-10-03): Pressure leads through the room, then bodies;
+      fracture, not glow, for a display''s discharge stands. Partly amended by R71-63-BEASTKIN_SENSES_FOX_FIRE
+      (combat law 2026-10-04): "A canon Trait that makes light is named as light, by colour, size and what
+      it shows; R9-3''s glow ban stays on Essence discharge only" ''It glowed'' stays banned for Essence discharge;
+      a canon Trait that makes light, such as fox-fire, is named plainly as light. Superseded 2026-10-14 by
+      R78-6-POWER_ANIME_ON_PAGE (Isaac''s direction 2026-10-14, page-craft questionnaire).'
 
   - id: R9-3-BODY_UNDER_LOAD
     pack: Pack Nine

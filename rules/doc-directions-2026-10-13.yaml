@@ -38,10 +38,11 @@ rules:
   - register
   verification: []
   notes: 'Exact RULINGS.md paragraph under 2026-10-11 — R51-13-WORD_STOCK, applied to the index 2026-10-13
-    (it had stayed out of rules/, so load_rules kept serving R51-13''s ''by ear: whatever the sentence
-    needs''). Supersedes R51-13. Revives the elevated bank that R57-31 had superseded whole: R51-12''s
-    list less numinous (R57-31, WOTR sense only) and eldritch (cosmic stock, R74-45). The widened bank
-    is desktop/style-bank/elevated-words.md. R51-11 collisions and the hard-ban lists stand.'
+    (it had stayed out of rules/, so load_rules kept serving R51-13''s ''by ear: whatever the sentence needs'').
+    Supersedes R51-13. Revives the elevated bank that R57-31 had superseded whole: R51-12''s list less numinous
+    (R57-31, WOTR sense only) and eldritch (cosmic stock, R74-45). The widened bank is desktop/style-bank/elevated-words.md.
+    R51-11 collisions and the hard-ban lists stand. Amended 2026-10-14 by R78-3-PHYSICAL_AND_SATURATED:
+    density saturated, stacking allowed, English of every root, POV reach picks which words.'
 - pack: Directions 2026-10-13
   pack_number: null
   status: live
@@ -78,7 +79,8 @@ rules:
   - combat
   - worldbuilding
   verification: []
-  notes: Closes C-158. Lifts R11-C's 2026-09-12 'nothing post-1900' for ideas only; R53-01 (technology
+  notes: 'Closes C-158. Lifts R11-C''s 2026-09-12 ''nothing post-1900'' for ideas only; R53-01 (technology
     span) and R53-03 (firearms) still govern hardware, and R49-45 already exempts science words from timeless
-    narration. Medicine practised on the page stays era-appropriate by place (its own row); the notes
-    may use modern clinical science as they already do.
+    narration. Medicine practised on the page stays era-appropriate by place (its own row); the notes may
+    use modern clinical science as they already do. Amended 2026-10-14 by R78-3-PHYSICAL_AND_SATURATED:
+    modern science words are legal in narration as elevated vocabulary.'

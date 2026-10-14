@@ -42,11 +42,12 @@ rules:
   source:
     file: ''
     lines: null
-  notes: K1. Supersedes the Western-flesh doctrine rows named in its own words (R5-A, R5-E, R11-1), as
+  notes: 'K1. Supersedes the Western-flesh doctrine rows named in its own words (R5-A, R5-E, R11-1), as
     R70-7 also does; within those short ids only the doctrine rows are reached, and R5-A-SKELETON_UNCHANGED,
     R5-E-NARRATION_NEVER_ADJUDICATES, R5-E-ELEGIAC_REGISTER_ALLOWED, R5-E-FREE_INDIRECT_CARVEOUT and the
-    R11-1 visual rows stand. Works with R70-3 (which strand leads which layer) and R70-21 (cadence set
-    by the POV's culture).
+    R11-1 visual rows stand. Works with R70-3 (which strand leads which layer) and R70-21 (cadence set by
+    the POV''s culture). Amended 2026-10-14 by R78-4-WOTR_IDENTITY_TONE: the blend now leads with dark shonen
+    and cultivation.'
 - id: R70-2-LITRPG_WOTR_BECOMES
   pack: Style Law 2026-10-03
   pack_number: null
@@ -76,9 +77,11 @@ rules:
   source:
     file: ''
     lines: null
-  notes: 'K2. Carries R49-47 and R51-16 further; R12-5-NEVER_INVENT_NUMBER binds every readout figure.
-    Where the screens come from is R70-78 (LR22: read in the Soul Crystal); how readouts sit and sound
-    is set by the LR rows (R70-80, R70-81, R70-83 and following).'
+  notes: 'K2. Carries R49-47 and R51-16 further; R12-5-NEVER_INVENT_NUMBER binds every readout figure. Where
+    the screens come from is R70-78 (LR22: read in the Soul Crystal); how readouts sit and sound is set
+    by the LR rows (R70-80, R70-81, R70-83 and following). Amended 2026-10-14 by R78-6-POWER_ANIME_ON_PAGE:
+    readouts become fewer, Bleach style: only at a breakthrough, a re-assay that moves something or an arc
+    end, never in a fight.'
 - id: R70-3-STRAND_LEADS_LAYER
   pack: Style Law 2026-10-03
   pack_number: null
@@ -585,12 +588,13 @@ rules:
   source:
     file: ''
     lines: null
-  notes: 'SP4. Extends R49-26-ENDINGS and gives R5-F-LIGHT_NOVEL_KEPT''s hook at close a legal ending;
-    R12-5-NEVER_INVENT_NUMBER binds readout closes. A turn still stops at Isaac''s next decision. Not
-    taken: the storyteller''s next chapter. R70-64 adds a closing poem. Partly amended by R73-2-PAGE_OR_CUT
-    (intimacy law 2026-10-04): ''Any sex that happens inside a scene is written explicitly, start to finish,
-    with no cut and no fade''. The break-off before payoff may not cut away from sex inside a scene, written
-    or played; the other closes, and the break-off for any other beat, stand.'
+  notes: 'SP4. Extends R49-26-ENDINGS and gives R5-F-LIGHT_NOVEL_KEPT''s hook at close a legal ending; R12-5-NEVER_INVENT_NUMBER
+    binds readout closes. A turn still stops at Isaac''s next decision. Not taken: the storyteller''s next
+    chapter. R70-64 adds a closing poem. Partly amended by R73-2-PAGE_OR_CUT (intimacy law 2026-10-04):
+    ''Any sex that happens inside a scene is written explicitly, start to finish, with no cut and no fade''.
+    The break-off before payoff may not cut away from sex inside a scene, written or played; the other closes,
+    and the break-off for any other beat, stand. Amended 2026-10-14 by R78-7-CULTIVATION_AND_STORY: hooks
+    and cliffhangers are the default close for chapters and arcs.'
 - id: R70-18-ARC_SHAPES
   pack: Style Law 2026-10-03
   pack_number: null
@@ -2231,9 +2235,10 @@ rules:
   source:
     file: ''
     lines: null
-  notes: Extends NATALIE's 'a Band gap changes weather' to lead every gap. R12-1-PACK_SEVEN_SURVIVORS
-    (felt before seen), R9-3-AURA_AS_FRACTURE, R9-3-EYES_AS_TELL and R10-3-PROJECTED_FORM_LICENSE are
-    not named and stand. Aimed Pressure is R70-70.
+  notes: 'Extends NATALIE''s ''a Band gap changes weather'' to lead every gap. R12-1-PACK_SEVEN_SURVIVORS
+    (felt before seen), R9-3-AURA_AS_FRACTURE, R9-3-EYES_AS_TELL and R10-3-PROJECTED_FORM_LICENSE are not
+    named and stand. Aimed Pressure is R70-70. Amended 2026-10-14 by R78-6-POWER_ANIME_ON_PAGE: the practitioner
+    also shows a visible aura in their own colour, alongside the room.'
 - id: R70-70-INTENT_FELT_BODY
   pack: Style Law 2026-10-03
   pack_number: null
@@ -2332,11 +2337,12 @@ rules:
   source:
     file: ''
     lines: null
-  notes: Strikes R5-G-TELL_BANK_ADDITIONS's reaction-shot cutaway for crowds only (the same tell as R5-B-MANHWA_DIRECTIVE_REPEALED's
-    reaction shots as characterisation), one of the tell-by-tell re-rulings R70-7 calls for; both rows
-    stay live with notes, and R70-72 reaches no other case. The chorus stays inside the POV's hearing,
-    so it is no cutaway under R49-09-CUTAWAYS; marked roll calls are R70-11. Sits with R53-18-AWE and
-    R4-13-WHERE_SIGNIFICANCE_LIVES.
+  notes: 'Strikes R5-G-TELL_BANK_ADDITIONS''s reaction-shot cutaway for crowds only (the same tell as R5-B-MANHWA_DIRECTIVE_REPEALED''s
+    reaction shots as characterisation), one of the tell-by-tell re-rulings R70-7 calls for; both rows stay
+    live with notes, and R70-72 reaches no other case. The chorus stays inside the POV''s hearing, so it
+    is no cutaway under R49-09-CUTAWAYS; marked roll calls are R70-11. Sits with R53-18-AWE and R4-13-WHERE_SIGNIFICANCE_LIVES.
+    Amended 2026-10-14 by R78-8-VOICE_DIALOGUE_HUMOUR: the reaction is given to specific named people, each
+    with their own words and body.'
 - id: R70-73-MANY_DISPLAY_BEATS_PER
   pack: Style Law 2026-10-03
   pack_number: null
@@ -2737,15 +2743,16 @@ rules:
   source:
     file: ''
     lines: null
-  notes: 'Works with R70-89-BODY_FIRST_NUMBER_FIRST (body first, line after), R70-91-BREAKTHROUGH_PAGE
-    (when the breakthrough line lands), R70-80-READOUT_SITS_PAGE (a breakthrough earns a set-off block),
-    R70-86-MANY_READOUTS_SCENE_CARRIES (the per-scene cap) and R70-90-FAST_NUMBERS_CLIMB (each gain needs
-    a shown cause). Every figure traces to the sheet (R12-5-NEVER_INVENT_NUMBER). No older rule is reached.
-    Partly amended by R73-37-BOND_GROWS (intimacy law 2026-10-04): at the Stage IV, Flourishing breakthrough
-    the readout also names its Catalyst, the first Spirit Axis, with no figure; no other bond prints.
-    The four moments here stand. Partly amended by R75-5-TECHNIQUES_ON_CRYSTAL (techniques law 2026-10-04):
-    ''Adds a fifth growth moment to R70-84''. The first time a Trait-permitted signature holds, one inline
-    Crystal line names it, its Trait and its Grade; school arts never print. The four moments here stand.'
+  notes: 'Works with R70-89-BODY_FIRST_NUMBER_FIRST (body first, line after), R70-91-BREAKTHROUGH_PAGE (when
+    the breakthrough line lands), R70-80-READOUT_SITS_PAGE (a breakthrough earns a set-off block), R70-86-MANY_READOUTS_SCENE_CARRIES
+    (the per-scene cap) and R70-90-FAST_NUMBERS_CLIMB (each gain needs a shown cause). Every figure traces
+    to the sheet (R12-5-NEVER_INVENT_NUMBER). No older rule is reached. Partly amended by R73-37-BOND_GROWS
+    (intimacy law 2026-10-04): at the Stage IV, Flourishing breakthrough the readout also names its Catalyst,
+    the first Spirit Axis, with no figure; no other bond prints. The four moments here stand. Partly amended
+    by R75-5-TECHNIQUES_ON_CRYSTAL (techniques law 2026-10-04): ''Adds a fifth growth moment to R70-84''.
+    The first time a Trait-permitted signature holds, one inline Crystal line names it, its Trait and its
+    Grade; school arts never print. The four moments here stand. Amended 2026-10-14 by R78-6-POWER_ANIME_ON_PAGE:
+    growth readouts only at breakthroughs, re-assays and arc ends.'
 - id: R70-85-SCENE_MOMENTS_THAT_EARN
   pack: Style Law 2026-10-03
   pack_number: null
@@ -2775,13 +2782,14 @@ rules:
   source:
     file: ''
     lines: null
-  notes: Pressure was not taken, so R53-14-FOLK_KNOWLEDGE's 'Pressure is felt as dread' stays how Pressure
+  notes: 'Pressure was not taken, so R53-14-FOLK_KNOWLEDGE''s ''Pressure is felt as dread'' stays how Pressure
     reaches the page. The reserve line makes R60-03-HARD_RESERVE_CLOCK visible without changing it. Gives
     R48-16-REAL_FIGURES a set form at these three moments; R70-86-MANY_READOUTS_SCENE_CARRIES caps them.
-    The wound line is a surgeon's, not the Crystal's, which is blind to wounds (R70-78-WHERE_SCREEN_COMES_FROM).
-    An appraisal by 'a faculty' sits beside R70-79-CAN_READ_WHOM ('Another's exact figures need an instrument';
-    LR2's faculty option was not taken); whether a faculty appraisal may print exact figures is not settled
-    here and is flagged for the conflict log.
+    The wound line is a surgeon''s, not the Crystal''s, which is blind to wounds (R70-78-WHERE_SCREEN_COMES_FROM).
+    An appraisal by ''a faculty'' sits beside R70-79-CAN_READ_WHOM (''Another''s exact figures need an instrument'';
+    LR2''s faculty option was not taken); whether a faculty appraisal may print exact figures is not settled
+    here and is flagged for the conflict log. Amended 2026-10-14 by R78-6-POWER_ANIME_ON_PAGE: no in-scene
+    readouts in a fight; appraisal and diagnosis go to diagnostic talk and the notes.'
 - id: R70-86-MANY_READOUTS_SCENE_CARRIES
   pack: Style Law 2026-10-03
   pack_number: null
@@ -2810,9 +2818,9 @@ rules:
   notes: 'Rides R48-20-STRATA''s display-and-finisher rhythm and adds the aftermath. Counts the readouts
     of R70-84-GROWTH_MOMENTS_THAT_EARN and R70-85-SCENE_MOMENTS_THAT_EARN. The cap names readouts; R48-16-REAL_FIGURES''s
     figures in a mouth are not named by it. Read with R71-81-FORENSIC_READING_PAGE (combat law 2026-10-04):
-    in a forensic reading, figures read aloud in a mouth at every stand sit ''outside R70-86''s cap'',
-    as this row''s own note already reads it (the cap names readouts, not figures in a mouth). The cap
-    stands unchanged.'
+    in a forensic reading, figures read aloud in a mouth at every stand sit ''outside R70-86''s cap'', as
+    this row''s own note already reads it (the cap names readouts, not figures in a mouth). The cap stands
+    unchanged. Amended 2026-10-14 by R78-6-POWER_ANIME_ON_PAGE: fewer readouts; none inside a fight.'
 - id: R70-87-READOUTS_TWO_VOICE_CAP
   pack: Style Law 2026-10-03
   pack_number: null
@@ -2980,8 +2988,10 @@ rules:
   notes: '''R9-3''s splash beat goes to the crisis'': R9-3-BODY_UNDER_LOAD stays live, its one splash-panel
     beat placed in the Catalyst crisis at a breakthrough (R70-73-MANY_DISPLAY_BEATS_PER also reaches display
     beats per scene). R9-3-SCOPE still lists Stage ascension and R9-3-EYES_AS_TELL is untouched. The world-scale
-    option (the bill at scale) was not taken; R53-17-THE_BILL still applies to any working on a main.
-    ''(LR11)'' is R70-88-NUMBERS_INSIDE_FIGHT. Confirmation follows at a public re-assay (R70-92-CONFIRMING_NEW_STAGE).'
+    option (the bill at scale) was not taken; R53-17-THE_BILL still applies to any working on a main. ''(LR11)''
+    is R70-88-NUMBERS_INSIDE_FIGHT. Confirmation follows at a public re-assay (R70-92-CONFIRMING_NEW_STAGE).
+    Amended 2026-10-14 by R78-7-CULTIVATION_AND_STORY: crisis is one road; seclusion and tribulation are
+    the others; a breakthrough in crisis still lands as written here.'
 - id: R70-92-CONFIRMING_NEW_STAGE
   pack: Style Law 2026-10-03
   pack_number: null
@@ -3285,8 +3295,10 @@ rules:
     and R1-1-BLADE_GRAMMAR stand; the moves they trace are named in the POV''s school. Works with R70-74-TECHNIQUE_NAME_LOOKS
     and R70-136-NEW_CHECKS_VERIFY_SCENE (verify --combat by school). Read with R71-53-BRAWLS_FOLK_SCHOOLS
     (combat law 2026-10-04): "a POV raised in them names moves in them, and verify gains a list per culture"
-    A folk wrestling or fist trade counts as the POV''s own training, so a POV raised in one names his
-    moves in its words, and verify reads a list per culture beside the school lists; this rule stands.'
+    A folk wrestling or fist trade counts as the POV''s own training, so a POV raised in one names his moves
+    in its words, and verify reads a list per culture beside the school lists; this rule stands. Amended
+    2026-10-14 by R78-5-FIGHTS_ANIME_ON_PAGE: the open question is answered: Eastern school terms are free
+    in narration.'
 - id: R70-101-DECLARING_NAME_LINE_BEFORE
   pack: Style Law 2026-10-03
   pack_number: null
@@ -3364,7 +3376,7 @@ rules:
   pack_number: null
   section: CB4
   title: One full flashback per fight, the POV's own
-  status: live
+  status: superseded
   kind: budget
   summary: Once per fight the POV may freeze one turning exchange for a full flashback of his own, a page
     or more, and the opponent's past reaches the page only through what the POV knows.
@@ -3388,7 +3400,8 @@ rules:
     lines: null
   notes: 'Places R49-06-MEMORIES inside a fight: once per fight, at one turning exchange. R48-40-NPC_THOUGHTS
     and the POV lock stand, so no flashback runs inside the opponent. Never chosen for Isaac''s PC unless
-    his play takes it there (R49-01-WHOSE_HEAD).'
+    his play takes it there (R49-01-WHOSE_HEAD). Superseded 2026-10-14 by R78-5-FIGHTS_ANIME_ON_PAGE (Isaac''s
+    direction 2026-10-14, page-craft questionnaire).'
 - id: R70-104-RIVAL_BOND
   pack: Style Law 2026-10-03
   pack_number: null
@@ -3687,7 +3700,7 @@ rules:
   pack_number: null
   section: HU1
   title: Full comic beats for carded comic voices and double acts
-  status: live
+  status: superseded
   kind: mandate
   summary: Comic voices and double acts named as such on their cards may play full comic beats, retort
     and reaction included, while every other character stays under R5-D's bar on the setup, deadpan and
@@ -3711,11 +3724,12 @@ rules:
   source:
     file: ''
     lines: null
-  notes: R5-D-HUMOUR_BARRED stands for everyone not carded as a comic voice. Re-rules the comedic-beat
-    tell of R5-G-TELL_BANK_ADDITIONS for carded comic voices and double acts only. Relaxes R52-31-COMIC_NPC's
-    'no setup-deadpan-reaction beat' for comic NPCs whose card names them a comic voice. Isaac's PC is
-    never written into a beat (R49-01-WHOSE_HEAD), so R52-14-SODOKU_JOKE stands and the Yoko-against-Sodoku
-    foil (R5-B-YOKO_SODOKU_SURVIVES) does not become a double act under this row.
+  notes: R5-D-HUMOUR_BARRED stands for everyone not carded as a comic voice. Re-rules the comedic-beat tell
+    of R5-G-TELL_BANK_ADDITIONS for carded comic voices and double acts only. Relaxes R52-31-COMIC_NPC's
+    'no setup-deadpan-reaction beat' for comic NPCs whose card names them a comic voice. Isaac's PC is never
+    written into a beat (R49-01-WHOSE_HEAD), so R52-14-SODOKU_JOKE stands and the Yoko-against-Sodoku foil
+    (R5-B-YOKO_SODOKU_SURVIVES) does not become a double act under this row. Superseded 2026-10-14 by R78-8-VOICE_DIALOGUE_HUMOUR
+    (Isaac's direction 2026-10-14, page-craft questionnaire).
 - id: R70-114-GRIMDARK_WARMTH
   pack: Style Law 2026-10-03
   pack_number: null
@@ -3742,18 +3756,19 @@ rules:
   source:
     file: ''
     lines: null
-  notes: 'Bears on R11-1-TONAL_SPINE_UNCHANGED and R5-A-FLESH_CHANGES, whose status R70-1-BLEND_MODEL
-    and R70-7-FAR_MOVE set. NATALIE.md''s ''Hope is small and hard-won'' gains the counterweight; victories
-    still cost. A bond that involves Isaac''s PC is his to play (R49-01-WHOSE_HEAD). Partly amended by
-    R73-36-LOVERS_WARM_BOND (intimacy law 2026-10-04): a romance counts as a standing warm bond, but each
-    live thread also keeps a warm bond that is not romantic, so a romance that dies, sours or turns to
-    Obsession leaves warmth standing. Its ''written openly warm'' and the rest of the row are not reached
-    by this answer. Partly amended by R73-38-LOVE_MOURNED_OR_LIVED (intimacy law 2026-10-04): joy that
-    ''may get scenes of its own'' is owed to a bond before a loss may land on it, and a love that dies
-    before the reader has seen it lived is a fault to fix. ''Losses still cost'' stands. Partly amended
-    by R74-37-BETRAYAL_TRUSTED (mystery law 2026-10-04): the standing warm bond each live thread carries
-    never betrays by choice; anyone else may betray, with the signs shown twice before the turn. Losses
-    still cost.'
+  notes: 'Bears on R11-1-TONAL_SPINE_UNCHANGED and R5-A-FLESH_CHANGES, whose status R70-1-BLEND_MODEL and
+    R70-7-FAR_MOVE set. NATALIE.md''s ''Hope is small and hard-won'' gains the counterweight; victories
+    still cost. A bond that involves Isaac''s PC is his to play (R49-01-WHOSE_HEAD). Partly amended by R73-36-LOVERS_WARM_BOND
+    (intimacy law 2026-10-04): a romance counts as a standing warm bond, but each live thread also keeps
+    a warm bond that is not romantic, so a romance that dies, sours or turns to Obsession leaves warmth
+    standing. Its ''written openly warm'' and the rest of the row are not reached by this answer. Partly
+    amended by R73-38-LOVE_MOURNED_OR_LIVED (intimacy law 2026-10-04): joy that ''may get scenes of its
+    own'' is owed to a bond before a loss may land on it, and a love that dies before the reader has seen
+    it lived is a fault to fix. ''Losses still cost'' stands. Partly amended by R74-37-BETRAYAL_TRUSTED
+    (mystery law 2026-10-04): the standing warm bond each live thread carries never betrays by choice; anyone
+    else may betray, with the signs shown twice before the turn. Losses still cost. Amended 2026-10-14 by
+    R78-4-WOTR_IDENTITY_TONE: the warm-bond floor stands; WOTR is no longer framed as grimdark, and bonds
+    mostly hold (R78-7).'
 - id: R70-115-TEARS_SENTIMENT
   pack: Style Law 2026-10-03
   pack_number: null

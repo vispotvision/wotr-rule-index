@@ -166,8 +166,9 @@ rules:
   source:
     file: ''
     lines: null
-  notes: 'Stands: R70-18-ARC_SHAPES (style law 2026-10-03) makes the Well delve a licensed arc,
-    with Well-spawn as the threat at each deeper stage.'
+  notes: 'Stands: R70-18-ARC_SHAPES (style law 2026-10-03) makes the Well delve a licensed arc, with Well-spawn
+    as the threat at each deeper stage. Amended 2026-10-14 by R78-7-CULTIVATION_AND_STORY: Well-spawn are
+    Hollow-style, shaped by the Well that made them.'
 - id: R53-07-PRICE_TABLE
   pack: World Texture Law 2026-09-26
   pack_number: null
@@ -760,10 +761,11 @@ rules:
   source:
     file: ''
     lines: null
-  notes: 'Stands: R70-4-WESTERN_MODELS (style law 2026-10-03) adds Dickens and the Victorians
-    as named prose models because they fit this look. Stands; R70-120-BUILT_COMIC_NAMES (style
-    law 2026-10-03) hangs Dickensian talking surnames for Northern and Accord families on its
-    Victorian imperial register.'
+  notes: 'Stands: R70-4-WESTERN_MODELS (style law 2026-10-03) adds Dickens and the Victorians as named prose
+    models because they fit this look. Stands; R70-120-BUILT_COMIC_NAMES (style law 2026-10-03) hangs Dickensian
+    talking surnames for Northern and Accord families on its Victorian imperial register. Amended 2026-10-14
+    by R78-4-WOTR_IDENTITY_TONE: the visual reference is now Arcane and Fullmetal Alchemist, the settings
+    of Bleach and Naruto, Final Fantasy and Lord of the Mysteries together.'
 - id: R53-29-LOOK_UP
   pack: World Texture Law 2026-09-26
   pack_number: null

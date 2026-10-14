@@ -219,7 +219,8 @@ rules:
     lines: null
   notes: 'Question n08: Two live rules disagree. R49-48 says technique names and their translations are
     free in narration. R20C-38 still says the gloss never appears in prose, the true name is spoken and
-    never narrated, and '
+    never narrated, and Amended 2026-10-14 by R78-5-FIGHTS_ANIME_ON_PAGE: technique names on the page are
+    English.'
 - id: R50-09-ONE_RELEASE
   pack: Naming Law 2026-09-26
   pack_number: null
@@ -243,7 +244,8 @@ rules:
   source:
     file: ''
     lines: null
-  notes: 'Question n09: Does ''one release per scene'' (a spoken art-name call, R20C-38) still hold?'
+  notes: 'Question n09: Does ''one release per scene'' (a spoken art-name call, R20C-38) still hold? Amended
+    2026-10-14 by R78-5-FIGHTS_ANIME_ON_PAGE: techniques are shouted by name as they fire.'
 - id: R50-10-NAME_STYLE
   pack: Naming Law 2026-09-26
   pack_number: null

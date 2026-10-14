@@ -1188,12 +1188,13 @@ rules:
   source:
     file: ''
     lines: null
-  notes: HO9. Partly re-rules R5-G-TELL_BANK_ADDITIONS's reaction-shot cutaway, the tell that R5-B-MANHWA_DIRECTIVE_REPEALED
+  notes: 'HO9. Partly re-rules R5-G-TELL_BANK_ADDITIONS''s reaction-shot cutaway, the tell that R5-B-MANHWA_DIRECTIVE_REPEALED
     lists as reaction shots as characterisation, for one horror witness a scene; both stay live with notes,
     and the tell stands everywhere else. Sits beside R70-72-WATCHING_CROWD_POWER_REVEAL (struck for crowds
-    at a reveal), which stands; R70-69-PRESSURE_AURA's room-first order stands. Option C (the room as
-    the face) was not taken. ME3's option D (a WARN on more than one face before the thing) was not taken,
-    so verify_scene does not count it (R74-45-MYSTERY_CHECKS_VERIFY).
+    at a reveal), which stands; R70-69-PRESSURE_AURA''s room-first order stands. Option C (the room as the
+    face) was not taken. ME3''s option D (a WARN on more than one face before the thing) was not taken,
+    so verify_scene does not count it (R74-45-MYSTERY_CHECKS_VERIFY). Amended 2026-10-14 by R78-8-VOICE_DIALOGUE_HUMOUR:
+    reactions to big power by named people are legal outside horror.'
 - id: R74-35-WHAT_TURNS_COUNCIL
   pack: Mystery Law 2026-10-04
   pack_number: null

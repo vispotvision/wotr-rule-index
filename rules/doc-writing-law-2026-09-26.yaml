@@ -294,10 +294,11 @@ rules:
   source:
     file: ''
     lines: null
-  notes: 'Question w11: Humour belongs to characters, never to a setup-punchline rhythm. How
-    often should a scene have a laugh in it? Stands; R70-122-MAY_CARRY_ONE (style law 2026-10-03)
-    lets comic names reach recurring minor NPCs, villains and rivals, while major NPCs keep
-    strict names.'
+  notes: 'Question w11: Humour belongs to characters, never to a setup-punchline rhythm. How often should
+    a scene have a laugh in it? Stands; R70-122-MAY_CARRY_ONE (style law 2026-10-03) lets comic names reach
+    recurring minor NPCs, villains and rivals, while major NPCs keep strict names. Amended 2026-10-14 by
+    R78-8-VOICE_DIALOGUE_HUMOUR: anyone may be funny in their own way; anime gags come from the characters
+    who play that way.'
 - id: R48-12-PROFANITY
   pack: Writing Law 2026-09-26
   pack_number: null

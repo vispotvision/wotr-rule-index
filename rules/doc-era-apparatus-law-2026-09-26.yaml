@@ -160,7 +160,8 @@ rules:
   source:
     file: ''
     lines: null
-  notes: ''
+  notes: 'Amended 2026-10-14 by R78-4-WOTR_IDENTITY_TONE: cities are grand and lived-in with magitech everywhere;
+    Victorian-Edwardian is one of four touchstones.'
 - id: R59-08-CLASS_LAYERED_DRESS
   pack: Era and Apparatus Law 2026-09-26
   pack_number: null

@@ -6,6 +6,38 @@ direction: inside work he has asked for, make the calls; no "pending" slots.
 append a dated block, do not rewrite older ones (two sessions write this repo
 at once — `git pull` before editing, and commit only your own files).
 
+## State on 2026-10-14 (WOTR's identity re-ruled: dark shonen cultivation, physical fights, saturated English)
+
+Isaac ran four questionnaires in one Claude Code session (answers in
+`imports/drafts/vocab-clarity-questionnaire/` and
+`imports/drafts/page-craft-questionnaire/`, 21 batches) and every answer is law:
+
+- **R78-3** physical clarity and saturated vocabulary: a blow is body, path,
+  target, result; no "the line", measure, tempo, vector, geometry or the read in
+  narration; elevated English of every root in nearly every sentence, stackable;
+  plain body parts; system and science terms free in narration. verify.py WARNs
+  on fight abstractions and on bank density under 50% (`build/test_r78_3.py`).
+- **R78-4 to R78-8** (`rules/doc-directions-2026-10-14.yaml`): WOTR is a dark
+  shonen cultivation fantasy in a magitech world, not grimdark; techniques
+  shouted by English name, afterimages, geysers, free flashbacks; coloured auras,
+  transformations, open sensing, vows, release forms, fewer readouts; three roads
+  to breakthrough, an Aizen-shaped villain over ranked lieutenants, a core crew,
+  cliffhangers; anime-big emotion, phonetic accents, anime gags from the
+  characters who play that way. Supersedes R9-3, R70-103, R70-113,
+  R5-D-HUMOUR_BARRED; notes on 23 more rows. NATALIE.md rewritten to match.
+- **Consistency sweep done:** 26 guides, skills, prompts, samples and tool
+  docstrings rewritten; the live Combat Craft and Manual Verification guides
+  carry a dated amendment block; *The Color of Essence* Prose Application line
+  fixed in Notion.
+- **Owed:** release forms are a draft (`imports/drafts/release-forms/`, five
+  questions for Isaac). `build/verify.py`'s R77-1 region (BLADE_ACTION counting
+  measure/tempo, the clinical ANATOMY list, "Eastern terminology unresolved", the
+  readout cap) waits on the session holding that open edit; so do
+  `build/test_combat_directions.py` (clavicle fixture),
+  `desktop/templates/CHARACTER_CARD_TEMPLATE.md` (chant tongue; no aura, sound
+  or release fields) and `desktop/style-bank/archive-study.md`, all untracked.
+  Turn shape and footers (batch 8) was dismissed by Isaac, not answered.
+
 ## State on 2026-10-13 (vocabulary pushed high, modern science, every open conflict ruled)
 
 Isaac: vocabulary isn't reaching past base words; make the rules consistent;

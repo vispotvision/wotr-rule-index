@@ -2,7 +2,7 @@
 
 One line per scene, in in-world order, with the moment the text states and the position
 it was placed at. A scene whose events precede something it references is a continuity
-error. The inventory covers all 224 top-level Markdown archive files; `placed` carries the position, and the evidence
+error. The inventory covers all 226 top-level Markdown archive files; `placed` carries the position, and the evidence
 each placement rests on is in CONTINUITY.md beside it. Scenes the text does not locate
 are listed at the end rather than guessed at.
 
@@ -341,3 +341,30 @@ Inventory: **224/224** top-level archive sources represented, excluding the five
 index/reference files. This is inventory coverage, not 224 fresh literary reads.
 The report retains permission, boundary-size, trigger and family-age questions;
 no law, source scene, character card, Ledger or Front is changed here.
+
+
+## New archive coverage — Hiromi's preparation and attempted strike (2026-10-14 review)
+
+Two new local sources bring inventory coverage to **226/226**. Their own notes
+supply preparation → bout, without a global year or a winner. The six-day
+recollection conflicts with the earlier seven-day tournament interval; it is
+recorded rather than used to move existing placements. All 148 numbered rows
+and the existing placed-order section remain unchanged.
+
+| source | local chronology | evidence | connection and limit |
+|---|---|---|---|
+| [the_last_quiet_room.md](the_last_quiet_room.md) | Preparation room under the Crucible, afternoon before Hiromi's bout; then the bell and walk to the arena. Calendar unknown. | Dateline 3; bell 105; saved cake/coat 111; top buckle 125 and steady hum 127; notes 141/154. | Geturo and Lily attend Hiromi; Mu-jin's empty seat, guarded infirmary and Hiromi's guilt connect his previous defeat to the father's injury. The guilt is his interpretation, not a proven cause. Six days since the duel is claimed at 11/45, against seven days in Geturo: The Other Side 23. No injury clearance or date reconciliation is inferred. |
+| [lions_bane.md](lions_bane.md) | Continuous from the preparation-room exit, then arena entrance, bell, formation and descending claw strike. | Entry with buckled collar 7; notes 233 explicitly names continuation; the descending strike and warm tears end at 219–227. | Still Sea, Firmament, Infinite Summoning Arts and the assumed currents remain provisional (notes 257–277). Heat debt, nosebleed and palm cuts persist; the floor fractures and wards take the shock. The strike is an attempt toward Kain's mark: no hit, injury, response or winner is established. Call-count versus strength threshold remains a review finding, not an applied mechanic. |
+
+Source-checked bridges and qualifications:
+- [geturo_the_other_side.md](geturo_the_other_side.md) 3–5 follows the Hiromi–Xanelor duel immediately; 23 gives seven days to the tournament. It corroborates the interval conflict independently of private card text.
+- [the_great_summoners_morning.md](the_great_summoners_morning.md) supplies the performed lateness, secret dawn work, food neglect and Lily's care recalled in Quiet Room. Its twin/older-sister body and notes are retained stale variants of closed C-099; R57-02 fixes Geturo 15 eldest, Hiromi 13, Lily 12 youngest. Do not carry the variant into new chronology.
+- [hiromi_something_special.md](hiromi_something_special.md) leaves the handmade gift to Saeloria promised, with Geturo's help intended; no gift completion is inferred.
+- [aftermath_hold_the_wall.md](aftermath_hold_the_wall.md) leaves the lecturer's third-bell-next-day summons and Mu-jin's private talk owed. Geturo's recovery by the new preparation-room scene is not narrated. The earlier [geturo_constrictor.md](geturo_constrictor.md) identifies the hurt shoulder as right, so the left-palm rise in Aftermath is not treated as a wrong-arm contradiction.
+
+The October 13 C-129/C-130/C-131 agent rulings resolve the stated earlier order,
+but their pending index/scene applications are already listed in
+`imports/drafts/conflict-rulings-2026-10-13/apply.md`. Existing rows 72 and 106
+and their human placements are preserved; this review does not undertake those
+other-session applications. The separate unapproved floodgate draft is not
+imported or linked as an archived event.

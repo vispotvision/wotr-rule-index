@@ -4,7 +4,7 @@ notion_id: "3bc58200-eb22-81a8-a218-c66905c24259"
 notion_url: "https://app.notion.com/p/The-Color-of-Essence-3bc58200eb2281a8a218c66905c24259"
 section: "The Magic System"
 tags: ["Magic System", "Reference Table"]
-last_edited: "2026-09-24T21:24:00.000Z"
+last_edited: "2026-10-14T12:48:00.000Z"
 verification: "unverified"
 ---
 
@@ -90,7 +90,7 @@ The full Essence Color of any practitioner is the intersection of Family hue and
 
 ## Part Five · Prose Application
 
-*Essence does not glow. It does what the physics of its Family would do if that physics were visible.*
+*Essence does what the physics of its Family would do if that physics were visible, and when a practitioner pushes it, it shows. The aura flares in their own colour, the Family's hue at their Stage's clarity: a dark smear on the hands at Welling, a flare a civilian can see from Glory, a light that colours the walls from Transcendence. The harder they push, the brighter it burns, and a release drives it to its full colour at once. Write the physics first and the colour with it.*
 | **Family** | **Write it as** |
 |---|---|
 | **Caloria** | The air bends with heat-shimmer. Surfaces near the hands darken in the orange-red register the way a stovetop darkens before it is visibly hot. Thermal, not luminous |

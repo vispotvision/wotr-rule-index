@@ -1,35 +1,31 @@
-# Nightly — 2026-10-13 03:30
+# Nightly — 2026-10-14 03:30
 
 ## Overnight
 
-Four Naori-versus-Verona arena posts were archived yesterday (Middle of the Thread, Rewinding the Spool, Covenant of the Instant, Returning Water). None is closed yet, so run `/judger` on each.
-ChatGPT marked three of them major. In Covenant, Naori's card puts him at Stage III, but the Covenant needs Refraction or higher. In Rewinding and Returning Water, the post explains how the reversal, the feint and the counter work, which hands Verona the answer (R77-2). The fix is to move those explanations into the author notes and leave only the tells and what it costs his body on the page.
-The real problem sits under all four: his card still says "no combat training, no techniques, no weapons", while the posts give him childhood sword drilling and named arts. I'd update the card to a tournament loadout before the close, not argue it scene by scene.
-Each scene fails verify on one em dash and nothing else. Those four em dashes are four of the five new findings. The fifth is CONTINUITY.md going from 271 to 276 em dashes, so nothing actually cleared.
-No page exists for Verona, who is the opponent in all four and has no card, so her 600 EU can't be checked. The same goes for Inzensho, Cymorath, Threadburn, Exuroth, Lethegraal, Senri, Hanuri and Sōma, and for the technique names (Uragaeshi, Kaeri, Kussetsu, Makimodoshi, Awai). I'd card Verona first.
-Still waiting on you: 93 Judger proposals across three older scenes, and both books are stopped at their chapter 1 gate.
-Validate passes and the docket is empty. The sync pushed twice but logged three "export failed" lines, so check the Notion export before trusting it. The newest backup is still the 10-11 zip, which means the backup didn't run last night.
+Two scenes landed overnight, `lions_bane` and `the_last_quiet_room`. Neither has a verify FAIL, and both need `/judger` for the close.
+ChatGPT flags `lions_bane` as major under R77-2: the combat RP spells out how the summoning and Cleave work ("The room paid for the body of the summons..."; the glyph and magnetostriction lessons). Move those into the author notes and leave only the tells and the body's cost on the page. It also catches a past-tense RP line (R49-02) and ECHO's "three calls a day", where the card actually says "about three times its first strength".
+Kain's numbers couldn't be checked, because the lookup returns Azelra Kaine. `lions_bane` also names Kain, Judicium, Anamnesis, Vocatia, Animatria, Maelor and Fulguria with no page. Give Kain a roster entry before he gets a number. `the_last_quiet_room` has no unpaged names.
+Both scenes say the masked boy's duel was six days ago. Hiromi's card and TIMELINE row 143 say seven. I'd make it seven in both scenes during the close.
+The three judger queues are still sitting there (29, 21 and 43 proposals), and both books are still stuck at chapter 1 waiting on your approve or reject.
+Validate passes, the docket is empty and one conflict is open. The "new" and "cleared" findings are just CONTINUITY.md recounting itself (em dashes went from 276 to 290), so nothing really cleared.
+The sync pushed twice but logged two "export failed (exit 1)" lines, so it's worth a look if it keeps happening. The newest backup listed is dated 10-11.
 
 ## Numbers
 
 - validate PASS
 - docket 0 outstanding
-- conflicts open 42
-- findings NEW 5 / CLEARED 1 / STILL OPEN 334
+- conflicts open 1
+- findings NEW 3 / CLEARED 3 / STILL OPEN 336
 
 ## Scenes archived since the last run
 
-- `covenant_of_the_instant_aetherion_arena` — run `/judger covenant_of_the_instant_aetherion_arena` for the close
-- `returning_water_aetherion_arena` — run `/judger returning_water_aetherion_arena` for the close
-- `rewinding_the_spool_aetherion_arena` — run `/judger rewinding_the_spool_aetherion_arena` for the close
-- `the_middle_of_the_thread_senris_gate_and_the_aetherion_arena` — run `/judger the_middle_of_the_thread_senris_gate_and_the_aetherion_arena` for the close
+- `lions_bane` — run `/judger lions_bane` for the close
+- `the_last_quiet_room` — run `/judger the_last_quiet_room` for the close
 
 ## ChatGPT review
 
-- `covenant_of_the_instant_aetherion_arena`: major: Reconcile Naori’s Stage III card with the Covenant’s Refraction minimum before treating this exchange as canon.  (reports/reviews/2026-10-13/covenant_of_the_instant_aetherion_arena.md)
-- `returning_water_aetherion_arena`: major: Move the combat mechanisms out of the RP prose and into the notes; retain observable effects, tells and bodily cost.  (reports/reviews/2026-10-13/returning_water_aetherion_arena.md)
-- `rewinding_the_spool_aetherion_arena`: major: Move the reversal, aura and feint mechanisms into author notes; this combat RP post discloses how to counter Naori.  (reports/reviews/2026-10-13/rewinding_the_spool_aetherion_arena.md)
-- `the_middle_of_the_thread_senris_gate_and_the_aetherion_arena`: minor: Track the two wooden swords correctly through the lesson and hand-back.  (reports/reviews/2026-10-13/the_middle_of_the_thread_senris_gate_and_the_aetherion_arena.md)
+- `lions_bane`: major: Move the summoning and Cleave mechanisms out of the combat RP and into author notes.  (reports/reviews/2026-10-14/lions_bane.md)
+- `the_last_quiet_room`: minor: Correct the duel-to-tournament interval from six days to seven.  (reports/reviews/2026-10-14/the_last_quiet_room.md)
 
 ## Judger queue (proposals awaiting Isaac)
 
@@ -46,20 +42,20 @@ Validate passes and the docket is empty. The sync pushed twice but logged three 
 
 ## New findings since last night
 
-- [prose] CONTINUITY.md: em dashes: 276 (banned; AI-tells §1, R15-1-AI_TELL_CHECKS_SURVIVE)
-- [prose] returning_water_aetherion_arena.md: em dashes: 1 (banned; AI-tells §1, R15-1-AI_TELL_CHECKS_SURVIVE)
-- [prose] rewinding_the_spool_aetherion_arena.md: em dashes: 1 (banned; AI-tells §1, R15-1-AI_TELL_CHECKS_SURVIVE)
-- [prose] covenant_of_the_instant_aetherion_arena.md: em dashes: 1 (banned; AI-tells §1, R15-1-AI_TELL_CHECKS_SURVIVE)
-- [prose] the_middle_of_the_thread_senris_gate_and_the_aetherion_arena.md: em dashes: 1 (banned; AI-tells §1, R15-1-AI_TELL_CHECKS_SURVIVE)
+- [prose] CONTINUITY.md: em dashes: 290 (banned; AI-tells §1, R15-1-AI_TELL_CHECKS_SURVIVE)
+- [prose] CONTINUITY.md: flat runs: 51 stretches of three sentences within 40% of each other (R4-14-RUN_RULE)
+- [prose] CONTINUITY.md: sentences under 8 words: 8% of scene, floor is 18% (R4-14-HARD_CEILINGS)
 
 ## Cleared since last night
 
-- [prose] CONTINUITY.md: em dashes: 271 (banned; AI-tells §1, R15-1-AI_TELL_CHECKS_SURVIVE)
+- [prose] CONTINUITY.md: em dashes: 276 (banned; AI-tells §1, R15-1-AI_TELL_CHECKS_SURVIVE)
+- [prose] CONTINUITY.md: flat runs: 49 stretches of three sentences within 40% of each other (R4-14-RUN_RULE)
+- [prose] CONTINUITY.md: sentences under 8 words: 9% of scene, floor is 18% (R4-14-HARD_CEILINGS)
 
-## Still open: 334 (see reports/prose_pass.md, reports/reconcile.md; 29 files still carry Büri-register terms (178 hits) in all. Ruling 2026-09-12: Moto and Hataraki, not Ajiin. Governing forms in brackets.)
+## Still open: 336 (see reports/prose_pass.md, reports/reconcile.md; 29 files still carry Büri-register terms (178 hits) in all. Ruling 2026-09-12: Moto and Hataraki, not Ajiin. Governing forms in brackets.)
 
 ## The sync and the backup (last 26 h)
 
-- sync: 2 push(es), 21 quiet run(s), 3 failure line(s):  export failed (exit 1)
+- sync: 2 push(es), 16 quiet run(s), 2 failure line(s):  export failed (exit 1)
 - backup:  wrote /home/oridon/wotr-backups/wotr-2026-10-11.zip (34.6 MB, 1208 files)
-- last run of this digest: 2026-10-12T03:30:00
+- last run of this digest: 2026-10-13T03:30:00

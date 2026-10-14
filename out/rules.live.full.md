@@ -1,6 +1,6 @@
 # Live rules by domain, with source text
 
-1546 live of 1742 extracted. Newest pack first within each domain; the newer rule governs where two overlap.
+1547 live of 1744 extracted. Newest pack first within each domain; the newer rule governs where two overlap.
 
 ## adjudication (154)
 
@@ -3251,7 +3251,7 @@ A new Resonant Pair may be proposed when a build reaches a combination canon's t
 
 > New, by R18-2's test. R18-2 extends to Pairs: a new one may be proposed when a build reaches a combination the ten lack, with real mechanism, Grade and effect; it binds once ratified.
 
-## combat (209)
+## combat (210)
 
 ### R20C-22-AMMUNITION_TIERS_RATIFIED [Pack Twenty R20C-22]
 
@@ -4201,6 +4201,12 @@ Death is almost always permanent; the only exceptions are liches, the undead and
 
 > Death is almost always permanent; the only exceptions are liches, the undead and their kind.
 
+### R78-2-MODERN_SCIENCE_IDEAS [Directions 2026-10-13 C-158]
+
+Modern science, to the present day, may explain workings and fights and drive magical research; it is known through the Aether by high-Stage practitioners, Measurewrights and scholars, never by commoners; built hardware keeps the R53-01 span and the R53-03 firearm ceiling.
+
+> Isaac's direction 2026-10-13: the 1900 limit on scientific ideas is retracted. Ideas from modern science (physics, chemistry, biology and the rest, up to the present day) may be used in battle and in magical advancement: to explain how a working or a fight operates, to drive a practitioner's or a school's magical research, and to found new techniques. Who knows them is earned by magic: high-Stage practitioners, Measurewrights and scholars reach them through the Aether before any instrument could, so they speak in diagnostic voices and the author notes, while commoners keep their own words for the same thing. Manufactured technology is unchanged: the Imperial Age span (R53-01, the 1800s into the middle of the 1900s) and the firearm ceiling at 1900 hardware (R53-03) still govern what is built and carried. This closes C-158: R11-C's "nothing post-1900" no longer limits ideas, and R53-01 governs hardware.
+
 ### R59-12-TRANSITIONAL_MILITARY [Era and Apparatus Law 2026-09-26 Era and apparatus]
 
 Military: transitional. Cavalry, bright uniforms and drill in the early span; khaki, trenches and rare machine guns later; practitioners change everything anyway.
@@ -4507,7 +4513,7 @@ Every duel ends with a full aftermath beat: wounds dressed, what changed between
 
 > Every duel ends with a full aftermath beat: wounds dressed, what changed between people.
 
-## dialogue (202)
+## dialogue (201)
 
 ### R20C-36-CLEARLY_WINS [Pack Twenty R20C-36]
 
@@ -5354,12 +5360,6 @@ A hard-ban list separate from the repetition list: tapestry, testament, palpable
 Ordinary words that are also WOTR terms (delve, echo, numinous, sovereign, sanctum, weave, ledger) are used only in their WOTR sense; the plain adjective or verb is banned so the term stays sharp.
 
 > Ordinary words that are also WOTR terms (delve, echo, numinous, sovereign, sanctum, weave, ledger) are used only in their WOTR sense; the plain adjective or verb is banned so the term stays sharp.
-
-### R51-13-WORD_STOCK [Vocabulary Law 2026-09-26 Vocabulary and diction]
-
-Narration's word stock (Old English vs Latinate) is by ear: whatever the sentence needs.
-
-> Narration's word stock (Old English vs Latinate) is by ear: whatever the sentence needs.
 
 ### R51-14-NEW_TERMS [Vocabulary Law 2026-09-26 Vocabulary and diction]
 
@@ -7111,7 +7111,7 @@ A Witnessed-Tempered piece inherits a scaled-down Ancestral Dominion Frame: ever
 
 > If the piece changes hands outside the terms of the oath, its accrued memory does not transfer. This is not the Dawi's Crystal-Coherence self-punishment, a cost paid by the oath-breaker's own soul; it is closer to the Weight of the Blood, where failure feels ancestral rather than personal. The object simply stops recognizing the new holder as a party the law was made for. In the worst documented cases, Physical Plane Authority's "hold shape" reverses for that bearer alone, and the piece becomes more failure-prone in their hands than an ordinary equivalent.
 
-## magic-design (145)
+## magic-design (146)
 
 ### R20C-28-PHENOMENON_BANK_CANDIDATES [Pack Twenty R20C-28]
 
@@ -7631,7 +7631,7 @@ Tie the Great Work's stages to currents by physics: Calcination to Cinerion, Dis
 
 ### R61-75-IMPRESSION_BODY_GREATER_SUMMONS [Alchemy Conversion Questionnaire 2026-09-28 DE4]
 
-Build an impression-body as a Tier III Greater Summons (Stage IX to XI): an Arts vessel, the maker's own Core as identity through Animatria, and Vocatia contact with the Trace, with vessel and Binding carrying it past minutes to hours.
+Build an impression-body as a Tier III Greater Summons (floor per R61-109): an Arts vessel, the maker's own Core as identity through Animatria, and Vocatia contact with the Trace, with vessel and Binding carrying it past minutes to hours.
 
 > A Greater Summons: vessel, Animatria and Vocatia together. Canon's Tier III (Stage IX to XI, 'ancestral echoes'): Arts vessel, the maker's Core as identity, Vocatia contact with the Trace. The Aphorism turns literal; the Trace explains what he did not foresee. Eleven days outruns 'minutes to hours', so vessel and Binding carry it.
 
@@ -7730,6 +7730,12 @@ Anyone may practise privately, but taking pay for workings or hunts needs a guil
 Cymorath carries exactly the portfolio Fracture of Worlds gives it: the Air of Ascent, Family Fulguria, freedom and motion, strengthening Dexterity Celerity and Gnosis Cartography/Perception. It is not a frost Wellspring. Every frost, cold or stasis working the wiki had been drafting as Cymorath is keyed instead to Vohrin, the Abyssal Depths Titan, Family Caloria, Physics Domain Thermodynamics, on the FOW III reading that cold is heat run backward. There is no dedicated frost Wellspring. Codex lines, Wellspring harmonisation rows and Material Ledger resonance columns that name a cold law write Vohrin · Caloria · Thermodynamics; any surviving Cymorath usage is Fulguria.
 
 > re-homed on Vohrin, the Abyssal Depths Titan that FOW III already names as the thermal-extraction signature: Family Caloria, Physics Domain Thermodynamics, Titan-keyed. Cymorath is the Air of Ascent exactly as Fracture of Worlds gives it, freedom and motion, Dexterity Celerity and Gnosis Cartography and Perception, and nothing else. Nothing on the FOW canon pages changes. This entry drafted its own cold out of Caloria and touched neither, and the ruling says that was the right shape: there is no dedicated frost Wellspring, cold is heat run backward, and the pages that had been calling it Cymorath now call it Vohrin.
+
+### R78-2-MODERN_SCIENCE_IDEAS [Directions 2026-10-13 C-158]
+
+Modern science, to the present day, may explain workings and fights and drive magical research; it is known through the Aether by high-Stage practitioners, Measurewrights and scholars, never by commoners; built hardware keeps the R53-01 span and the R53-03 firearm ceiling.
+
+> Isaac's direction 2026-10-13: the 1900 limit on scientific ideas is retracted. Ideas from modern science (physics, chemistry, biology and the rest, up to the present day) may be used in battle and in magical advancement: to explain how a working or a fight operates, to drive a practitioner's or a school's magical research, and to found new techniques. Who knows them is earned by magic: high-Stage practitioners, Measurewrights and scholars reach them through the Aether before any instrument could, so they speak in diagnostic voices and the author notes, while commoners keep their own words for the same thing. Manufactured technology is unchanged: the Imperial Age span (R53-01, the 1800s into the middle of the 1900s) and the firearm ceiling at 1900 hardware (R53-03) still govern what is built and carried. This closes C-158: R11-C's "nothing post-1900" no longer limits ideas, and R53-01 governs hardware.
 
 ### R44-4-ETA_PART_SEVENTEEN_GOVERNS [Essence Ledger Rulings 2026-09-25 C-037]
 
@@ -7983,7 +7989,7 @@ The Phenomenon Bank becomes a growing library: every researched phenomenon (and 
 
 > The Phenomenon Bank becomes a growing library: every researched phenomenon (and pseudoscientific idea) is added for future workings and players to draw from.
 
-## magic-mechanism (267)
+## magic-mechanism (268)
 
 ### R20C-17-SITES_RECHARGE_UNHELPFULLY [Pack Twenty R20C-17]
 
@@ -8575,7 +8581,7 @@ At death an unfinished decision settles as an Attraction Layer commitment into t
 
 ### R61-75-IMPRESSION_BODY_GREATER_SUMMONS [Alchemy Conversion Questionnaire 2026-09-28 DE4]
 
-Build an impression-body as a Tier III Greater Summons (Stage IX to XI): an Arts vessel, the maker's own Core as identity through Animatria, and Vocatia contact with the Trace, with vessel and Binding carrying it past minutes to hours.
+Build an impression-body as a Tier III Greater Summons (floor per R61-109): an Arts vessel, the maker's own Core as identity through Animatria, and Vocatia contact with the Trace, with vessel and Binding carrying it past minutes to hours.
 
 > A Greater Summons: vessel, Animatria and Vocatia together. Canon's Tier III (Stage IX to XI, 'ancestral echoes'): Arts vessel, the maker's Core as identity, Vocatia contact with the Trace. The Aphorism turns literal; the Trace explains what he did not foresee. Eleven days outruns 'minutes to hours', so vessel and Binding carry it.
 
@@ -9118,6 +9124,12 @@ A common person's Crystal is dormant for life unless someone trains them.
 Cymorath carries exactly the portfolio Fracture of Worlds gives it: the Air of Ascent, Family Fulguria, freedom and motion, strengthening Dexterity Celerity and Gnosis Cartography/Perception. It is not a frost Wellspring. Every frost, cold or stasis working the wiki had been drafting as Cymorath is keyed instead to Vohrin, the Abyssal Depths Titan, Family Caloria, Physics Domain Thermodynamics, on the FOW III reading that cold is heat run backward. There is no dedicated frost Wellspring. Codex lines, Wellspring harmonisation rows and Material Ledger resonance columns that name a cold law write Vohrin · Caloria · Thermodynamics; any surviving Cymorath usage is Fulguria.
 
 > re-homed on Vohrin, the Abyssal Depths Titan that FOW III already names as the thermal-extraction signature: Family Caloria, Physics Domain Thermodynamics, Titan-keyed. Cymorath is the Air of Ascent exactly as Fracture of Worlds gives it, freedom and motion, Dexterity Celerity and Gnosis Cartography and Perception, and nothing else. Nothing on the FOW canon pages changes. This entry drafted its own cold out of Caloria and touched neither, and the ruling says that was the right shape: there is no dedicated frost Wellspring, cold is heat run backward, and the pages that had been calling it Cymorath now call it Vohrin.
+
+### R78-2-MODERN_SCIENCE_IDEAS [Directions 2026-10-13 C-158]
+
+Modern science, to the present day, may explain workings and fights and drive magical research; it is known through the Aether by high-Stage practitioners, Measurewrights and scholars, never by commoners; built hardware keeps the R53-01 span and the R53-03 firearm ceiling.
+
+> Isaac's direction 2026-10-13: the 1900 limit on scientific ideas is retracted. Ideas from modern science (physics, chemistry, biology and the rest, up to the present day) may be used in battle and in magical advancement: to explain how a working or a fight operates, to drive a practitioner's or a school's magical research, and to found new techniques. Who knows them is earned by magic: high-Stage practitioners, Measurewrights and scholars reach them through the Aether before any instrument could, so they speak in diagnostic voices and the author notes, while commoners keep their own words for the same thing. Manufactured technology is unchanged: the Imperial Age span (R53-01, the 1800s into the middle of the 1900s) and the firearm ceiling at 1900 hardware (R53-03) still govern what is built and carried. This closes C-158: R11-C's "nothing post-1900" no longer limits ideas, and R53-01 governs hardware.
 
 ### R67-6-AULT_LIKENESS_ELEVEN_DAYS [The Farrant Papers Ratification 2026-09-28 papers 6]
 
@@ -12976,6 +12988,12 @@ Only in combat roleplay, show effects, readable tells, visible body cost, read a
 
 > Isaac's direction (2026-10-08): combat roleplay never hands the opponent the how. In any roleplay fight (Desktop turn, Discord post, and above all an improvement of Isaac's combat post) the page shows what the move does and the tells a sharp opponent could read (sound, light, frost, smell, breath, stance, what repeats, what it costs the body), never the full mechanism, the figures or why it works; those stay in the author notes, the card and the Stat Ledger. In roleplay the floor (R13-4, R71-4, R12-2, R12-3, and R70-76's "full mechanism") is paid on the body and in the notes, the read and the fault shown as behaviour; a voice explains only what it has earned by reading the tells (R71-23). Applies to his PC and NPCs alike. Written set pieces and books keep the full floor.
 
+### R78-1-VOCABULARY_PUSHED_HIGH [Directions 2026-10-13 R51-13-WORD_STOCK]
+
+Narration and italic thought reach for the most exact, most resonant word, leaning hard to the rare, Latinate, archaic and technical, several to a page and more in a set piece, from the elevated bank widened by ear; each POV keeps its reach and speech follows the card.
+
+> Isaac's direction 2026-10-11: vocabulary is pushed high. Narration and italic thought reach for the most exact and most resonant word, leaning hard toward the sophisticated: rare, Latinate, archaic and technical words a reader has to stop and weigh, several to every page and more in a set piece; the elevated bank (C-091) is used freely and widened by ear. The chosen word must carry more than its common substitute in meaning, sound or implication. Each POV keeps its reach (Verinus, Lambert, Cozbi highest; Sodoku spare but exact; Hild a child's grasp). Speech follows each card's voice. Unchanged: slop bans (R51-10, R70-35), working-man anatomy in explicit scenes, plain words in technique entries (R76-1), body-and-blade words over fencing jargon (R77-1). Written into desktop/NATALIE.md Prose Standards.
+
 ### R41-1-DISTANCE_IS_TWO_AXES [Distance Two Axes Ruling C-015]
 
 R35-2's register (close, medium, distant/formal) says whose idiom the narration runs in; Pack Twenty's band (1 to 5) says how deep inside the POV it sits. Both assignments stand and neither trades off the other: Cozbi runs distant/formal at band 5.
@@ -14242,12 +14260,6 @@ Ordinary words that are also WOTR terms (delve, echo, numinous, sovereign, sanct
 
 > Ordinary words that are also WOTR terms (delve, echo, numinous, sovereign, sanctum, weave, ledger) are used only in their WOTR sense; the plain adjective or verb is banned so the term stays sharp.
 
-### R51-13-WORD_STOCK [Vocabulary Law 2026-09-26 Vocabulary and diction]
-
-Narration's word stock (Old English vs Latinate) is by ear: whatever the sentence needs.
-
-> Narration's word stock (Old English vs Latinate) is by ear: whatever the sentence needs.
-
 ### R51-14-NEW_TERMS [Vocabulary Law 2026-09-26 Vocabulary and diction]
 
 No ceiling on WOTR terms per page; readers learn by immersion.
@@ -15030,6 +15042,12 @@ In all WOTR prose, including dialogue, replace HEMA and European fencing-manual 
 
 > Isaac, 2026-10-08: no HEMA or European fencing-manual terms in WOTR prose, for every character, post, scene and book (Vor, Nach, Indes, Zufechten, Krieg, Vom Tag, Ochs, Pflug, Alber, Zornhau, Winden, Absetzen, Durchwechseln and the like). Every guard, cut, tempo and measure is described as the body doing it: where the weight sits, where the blade is held, who moves first, how far apart they stand. This supersedes R70-100's requirement to name moves in the POV's school vocabulary for European schools. It also amends the rows that require or reward that vocabulary: R13-6-HEMA_VOCAB, R13-4-COMBAT_FLOOR (tempo is still stated, but in plain words, not Vor/Nach/Indes), R13-9-VERIFY_CHECKS_22_26 (check 22, HEMA density, should stop counting these terms as a virtue and should instead WARN when they appear), and the term lists in R1-1-BLADE_GRAMMAR and R1-1-YOKO_ASSIGNED. The mechanics of those grammars (the bind, the read, the measure) still apply; only the jargon goes.
 
+### R78-1-VOCABULARY_PUSHED_HIGH [Directions 2026-10-13 R51-13-WORD_STOCK]
+
+Narration and italic thought reach for the most exact, most resonant word, leaning hard to the rare, Latinate, archaic and technical, several to a page and more in a set piece, from the elevated bank widened by ear; each POV keeps its reach and speech follows the card.
+
+> Isaac's direction 2026-10-11: vocabulary is pushed high. Narration and italic thought reach for the most exact and most resonant word, leaning hard toward the sophisticated: rare, Latinate, archaic and technical words a reader has to stop and weigh, several to every page and more in a set piece; the elevated bank (C-091) is used freely and widened by ear. The chosen word must carry more than its common substitute in meaning, sound or implication. Each POV keeps its reach (Verinus, Lambert, Cozbi highest; Sodoku spare but exact; Hild a child's grasp). Speech follows each card's voice. Unchanged: slop bans (R51-10, R70-35), working-man anatomy in explicit scenes, plain words in technique entries (R76-1), body-and-blade words over fencing jargon (R77-1). Written into desktop/NATALIE.md Prose Standards.
+
 ### R58-05-SWEARS_AND_SENSE_BANKS_APPROVED [Follow-up Rulings 2026-09-26 Follow-up answers]
 
 The WOTR swears, sense banks, culture inventories, price table and narration registers are approved and canon; completes R51-35's draft-for-approval step.
@@ -15551,12 +15569,6 @@ A hard-ban list separate from the repetition list: tapestry, testament, palpable
 Ordinary words that are also WOTR terms (delve, echo, numinous, sovereign, sanctum, weave, ledger) are used only in their WOTR sense; the plain adjective or verb is banned so the term stays sharp.
 
 > Ordinary words that are also WOTR terms (delve, echo, numinous, sovereign, sanctum, weave, ledger) are used only in their WOTR sense; the plain adjective or verb is banned so the term stays sharp.
-
-### R51-13-WORD_STOCK [Vocabulary Law 2026-09-26 Vocabulary and diction]
-
-Narration's word stock (Old English vs Latinate) is by ear: whatever the sentence needs.
-
-> Narration's word stock (Old English vs Latinate) is by ear: whatever the sentence needs.
 
 ### R51-14-NEW_TERMS [Vocabulary Law 2026-09-26 Vocabulary and diction]
 
@@ -18184,7 +18196,7 @@ The Genesio Anamnesis site is a Riptide (A-grade output to stand in) that reads 
 
 ### R61-75-IMPRESSION_BODY_GREATER_SUMMONS [Alchemy Conversion Questionnaire 2026-09-28 DE4]
 
-Build an impression-body as a Tier III Greater Summons (Stage IX to XI): an Arts vessel, the maker's own Core as identity through Animatria, and Vocatia contact with the Trace, with vessel and Binding carrying it past minutes to hours.
+Build an impression-body as a Tier III Greater Summons (floor per R61-109): an Arts vessel, the maker's own Core as identity through Animatria, and Vocatia contact with the Trace, with vessel and Binding carrying it past minutes to hours.
 
 > A Greater Summons: vessel, Animatria and Vocatia together. Canon's Tier III (Stage IX to XI, 'ancestral echoes'): Arts vessel, the maker's Core as identity, Vocatia contact with the Trace. The Aphorism turns literal; the Trace explains what he did not foresee. Eleven days outruns 'minutes to hours', so vessel and Binding carry it.
 
@@ -19945,7 +19957,7 @@ When the partner thinks a beat is drifting or a rule reads wrong, it says so in 
 
 > When the partner thinks a beat is drifting or a rule reads wrong, it says so in one plain line and keeps writing unless stopped.
 
-## worldbuilding (358)
+## worldbuilding (359)
 
 ### R20C-1-BURI_DEAD_EVERYWHERE [Pack Twenty R20C-1]
 
@@ -20978,6 +20990,12 @@ Malphas wants from it: to obtain the unattainable; to feed his backlog (he canno
 The Night Watch Society is one body with the Night Watch: a crown-chartered society. It holds a crown charter and warrant, is organised as chapters (the Timberline among them) with walkers on fixed walks and a bulletin office, answers to...
 
 > The Night Watch Society is one body with the Night Watch: a crown-chartered society. It holds a crown charter and warrant, is organised as chapters (the Timberline among them) with walkers on fixed walks and a bulletin office, answers to the crown, and keeps the Night Register, which takes up what the Lattice Classification Bureau (a separate office) closes. 'The Society's warrant, not the Bureau's' is the crown's warrant as the Society holds it.
+
+### R78-2-MODERN_SCIENCE_IDEAS [Directions 2026-10-13 C-158]
+
+Modern science, to the present day, may explain workings and fights and drive magical research; it is known through the Aether by high-Stage practitioners, Measurewrights and scholars, never by commoners; built hardware keeps the R53-01 span and the R53-03 firearm ceiling.
+
+> Isaac's direction 2026-10-13: the 1900 limit on scientific ideas is retracted. Ideas from modern science (physics, chemistry, biology and the rest, up to the present day) may be used in battle and in magical advancement: to explain how a working or a fight operates, to drive a practitioner's or a school's magical research, and to found new techniques. Who knows them is earned by magic: high-Stage practitioners, Measurewrights and scholars reach them through the Aether before any instrument could, so they speak in diagnostic voices and the author notes, while commoners keep their own words for the same thing. Manufactured technology is unchanged: the Imperial Age span (R53-01, the 1800s into the middle of the 1900s) and the firearm ceiling at 1900 hardware (R53-03) still govern what is built and carried. This closes C-158: R11-C's "nothing post-1900" no longer limits ideas, and R53-01 governs hardware.
 
 ### R37-1-MAHUO_ELEMENT_INVENTORY [Naming Guide Amendment / Element Inventories I. Mahuo]
 

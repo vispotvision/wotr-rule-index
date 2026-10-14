@@ -1705,7 +1705,7 @@
       "file": "WOTR_Inner_World_Naming_Amendment.md",
       "lines": "142"
     },
-    "notes": null,
+    "notes": "Partly amended by agent ruling C-118 (2026-10-13): a hyphen marks a Mahuo given name; no hyphen alone does not mark the halls (Ara Min Mahuo; R65-9 Seok Doyun). Korean-stratum names outside the Mahuo house are written joined; the halls are told by courtesy name or generation character.",
     "superseded_by": []
   },
   {
@@ -10030,7 +10030,7 @@
     "pack_number": null,
     "section": "Vocabulary and diction",
     "title": "Word Stock",
-    "status": "live",
+    "status": "superseded",
     "kind": "mandate",
     "summary": "Narration's word stock (Old English vs Latinate) is by ear: whatever the sentence needs.",
     "verbatim": "Narration's word stock (Old English vs Latinate) is by ear: whatever the sentence needs.",
@@ -10053,8 +10053,10 @@
       "file": "",
       "lines": null
     },
-    "notes": "",
-    "superseded_by": []
+    "notes": "Superseded 2026-10-13 by R78-1-VOCABULARY_PUSHED_HIGH (Isaac's direction 2026-10-11).",
+    "superseded_by": [
+      "R78-1-VOCABULARY_PUSHED_HIGH"
+    ]
   },
   {
     "id": "R51-14-NEW_TERMS",
@@ -11826,7 +11828,7 @@
       "file": "",
       "lines": null
     },
-    "notes": "",
+    "notes": "Agent ruling C-137 (2026-10-13): heat instruments exist; they read the bath and the furnace, never the sealed charge. Ideas past the span are R78-2's (Isaac, 2026-10-13); hardware stays here.",
     "superseded_by": []
   },
   {
@@ -17230,7 +17232,7 @@
       "file": "",
       "lines": null
     },
-    "notes": "adds one line to Alchemetrica",
+    "notes": "adds one line to Alchemetrica. Agent ruling C-136 (2026-10-13): Draftcraft's Crystal requirement is the seal on standing work; a pure alchemist's Drafts are Draftcraft.",
     "superseded_by": []
   },
   {
@@ -17294,7 +17296,7 @@
       "file": "",
       "lines": null
     },
-    "notes": "adds a bench-certification carve-out line to the Tiered Path page and Part Twenty",
+    "notes": "adds a bench-certification carve-out line to the Tiered Path page and Part Twenty. Agent rulings C-136 and C-142 (2026-10-13): the bench Tier caps a pure alchemist's lot (T5, the Expert band at Expert); work made to stand is capped also by the sealing Crystal-bearer's Grade, the lower binding.",
     "superseded_by": []
   },
   {
@@ -17326,7 +17328,7 @@
       "file": "",
       "lines": null
     },
-    "notes": "adds a Drafts profile beside Part Fifteen's profiles; filed through propose_rule for ratification",
+    "notes": "adds a Drafts profile beside Part Fifteen's profiles; filed through propose_rule for ratification. Agent ruling C-139 (2026-10-13): the Core governs a Draft's fidelity and alignment; the Attraction Layer its vein cost and reach.",
     "superseded_by": []
   },
   {
@@ -17518,7 +17520,7 @@
       "file": "",
       "lines": null
     },
-    "notes": "",
+    "notes": "Governs the impression-body's Stage floor over DE4's band (C-154, agent ruling 2026-10-13).",
     "superseded_by": []
   },
   {
@@ -20419,7 +20421,7 @@
     "title": "An impression-body is a Greater Summons",
     "status": "live",
     "kind": "definition",
-    "summary": "Build an impression-body as a Tier III Greater Summons (Stage IX to XI): an Arts vessel, the maker's own Core as identity through Animatria, and Vocatia contact with the Trace, with vessel and Binding carrying it past minutes to hours.",
+    "summary": "Build an impression-body as a Tier III Greater Summons (floor per R61-109): an Arts vessel, the maker's own Core as identity through Animatria, and Vocatia contact with the Trace, with vessel and Binding carrying it past minutes to hours.",
     "verbatim": "A Greater Summons: vessel, Animatria and Vocatia together. Canon's Tier III (Stage IX to XI, 'ancestral echoes'): Arts vessel, the maker's Core as identity, Vocatia contact with the Trace. The Aphorism turns literal; the Trace explains what he did not foresee. Eleven days outruns 'minutes to hours', so vessel and Binding carry it.",
     "amends": [
       {
@@ -20440,7 +20442,7 @@
       "file": "",
       "lines": null
     },
-    "notes": "Makes the Aphorism ('he summons himself') literal",
+    "notes": "Makes the Aphorism ('he summons himself') literal. Agent ruling C-154 (2026-10-13): the Stage floor is R61-109's Refraction; IX to XI is the unanchored band.",
     "superseded_by": []
   },
   {
@@ -20629,7 +20631,7 @@
       "file": "",
       "lines": null
     },
-    "notes": "Alchemetrica's concordance table; nothing reordered",
+    "notes": "Alchemetrica's concordance table; nothing reordered. Agent ruling C-138 (2026-10-13): completion is counted per charge; spagyric Whitening completes in each principle's own charge, the Wedding is the joined medicine's Conjunction.",
     "superseded_by": []
   },
   {
@@ -20692,7 +20694,7 @@
       "file": "",
       "lines": null
     },
-    "notes": "The Necrocursica's Aetheric Shell residue joins Salt; its triad stays Malphas's 'modified' reading",
+    "notes": "The Necrocursica's Aetheric Shell residue joins Salt; its triad stays Malphas's 'modified' reading. Agent ruling C-138 (2026-10-13): completion is counted per charge; spagyric Whitening completes in each principle's own charge, the Wedding is the joined medicine's Conjunction.",
     "superseded_by": []
   },
   {
@@ -21038,7 +21040,7 @@
       "file": "",
       "lines": null
     },
-    "notes": "",
+    "notes": "Agent ruling C-127 (2026-10-13): the tracing sentence does not reach the Ault vessel; Furveus's maker's mark and Sealing, Draycott's mark as broker on the lute (R67-6).",
     "superseded_by": []
   },
   {
@@ -37949,6 +37951,77 @@
     "superseded_by": []
   },
   {
+    "pack": "Directions 2026-10-13",
+    "pack_number": null,
+    "status": "live",
+    "supersedes": [
+      "R51-13-WORD_STOCK"
+    ],
+    "ratified": "Isaac, 2026-10-11, Claude Code: direction recorded in RULINGS.md",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "id": "R78-1-VOCABULARY_PUSHED_HIGH",
+    "section": "R51-13-WORD_STOCK",
+    "title": "Vocabulary pushed high",
+    "kind": "mandate",
+    "summary": "Narration and italic thought reach for the most exact, most resonant word, leaning hard to the rare, Latinate, archaic and technical, several to a page and more in a set piece, from the elevated bank widened by ear; each POV keeps its reach and speech follows the card.",
+    "verbatim": "Isaac's direction 2026-10-11: vocabulary is pushed high. Narration and italic thought reach for the most exact and most resonant word, leaning hard toward the sophisticated: rare, Latinate, archaic and technical words a reader has to stop and weigh, several to every page and more in a set piece; the elevated bank (C-091) is used freely and widened by ear. The chosen word must carry more than its common substitute in meaning, sound or implication. Each POV keeps its reach (Verinus, Lambert, Cozbi highest; Sodoku spare but exact; Hild a child's grasp). Speech follows each card's voice. Unchanged: slop bans (R51-10, R70-35), working-man anatomy in explicit scenes, plain words in technique entries (R76-1), body-and-blade words over fencing jargon (R77-1). Written into desktop/NATALIE.md Prose Standards.",
+    "amends": [
+      {
+        "guide": "NATALIE.md and the wotr-write skill",
+        "locus": "Vocabulary and diction",
+        "operation": "replaces"
+      }
+    ],
+    "applies_to": [
+      "prose-law",
+      "register"
+    ],
+    "verification": [],
+    "notes": "Exact RULINGS.md paragraph under 2026-10-11 — R51-13-WORD_STOCK, applied to the index 2026-10-13 (it had stayed out of rules/, so load_rules kept serving R51-13's 'by ear: whatever the sentence needs'). Supersedes R51-13. Revives the elevated bank that R57-31 had superseded whole: R51-12's list less numinous (R57-31, WOTR sense only) and eldritch (cosmic stock, R74-45). The widened bank is desktop/style-bank/elevated-words.md. R51-11 collisions and the hard-ban lists stand.",
+    "superseded_by": []
+  },
+  {
+    "pack": "Directions 2026-10-13",
+    "pack_number": null,
+    "status": "live",
+    "supersedes": [],
+    "ratified": "Isaac, 2026-10-13, Claude Code chat: direction, scope answered by questionnaire",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "id": "R78-2-MODERN_SCIENCE_IDEAS",
+    "section": "C-158",
+    "title": "Modern scientific ideas in battle and magic",
+    "kind": "mandate",
+    "summary": "Modern science, to the present day, may explain workings and fights and drive magical research; it is known through the Aether by high-Stage practitioners, Measurewrights and scholars, never by commoners; built hardware keeps the R53-01 span and the R53-03 firearm ceiling.",
+    "verbatim": "Isaac's direction 2026-10-13: the 1900 limit on scientific ideas is retracted. Ideas from modern science (physics, chemistry, biology and the rest, up to the present day) may be used in battle and in magical advancement: to explain how a working or a fight operates, to drive a practitioner's or a school's magical research, and to found new techniques. Who knows them is earned by magic: high-Stage practitioners, Measurewrights and scholars reach them through the Aether before any instrument could, so they speak in diagnostic voices and the author notes, while commoners keep their own words for the same thing. Manufactured technology is unchanged: the Imperial Age span (R53-01, the 1800s into the middle of the 1900s) and the firearm ceiling at 1900 hardware (R53-03) still govern what is built and carried. This closes C-158: R11-C's \"nothing post-1900\" no longer limits ideas, and R53-01 governs hardware.",
+    "amends": [
+      {
+        "guide": "NATALIE.md and the wotr-write skill",
+        "locus": "The Magic Frame, Pack Eleven paragraph",
+        "operation": "replaces"
+      },
+      {
+        "guide": "Ability Technique Design Guide",
+        "locus": "Research and mechanism",
+        "operation": "extends"
+      }
+    ],
+    "applies_to": [
+      "magic-mechanism",
+      "magic-design",
+      "combat",
+      "worldbuilding"
+    ],
+    "verification": [],
+    "notes": "Closes C-158. Lifts R11-C's 2026-09-12 'nothing post-1900' for ideas only; R53-01 (technology span) and R53-03 (firearms) still govern hardware, and R49-45 already exempts science words from timeless narration. Medicine practised on the page stays era-appropriate by place (its own row); the notes may use modern clinical science as they already do.",
+    "superseded_by": []
+  },
+  {
     "id": "R1-1-BLACK_AGENT_ASSIGNED",
     "pack": "Pack One",
     "pack_number": 1,
@@ -46630,7 +46703,7 @@
       "file": "WOTR_Companion_Guide_Amendments_Pack_Eleven.md",
       "lines": "51"
     },
-    "notes": "RULED 2026-09-12: Isaac's words: 'All things that were invented from the beginning of the Victorian Era to the 1900s exist, but only from 1800-1900. No further no earlier.' Rail, telegraph, print and photography all exist mechanically; nothing post-1900.",
+    "notes": "RULED 2026-09-12: Isaac's words: 'All things that were invented from the beginning of the Victorian Era to the 1900s exist, but only from 1800-1900. No further no earlier.' Rail, telegraph, print and photography all exist mechanically; nothing post-1900. Amended for ideas by R78-2-MODERN_SCIENCE_IDEAS (Isaac, 2026-10-13): modern scientific ideas are legal in battle and magical advancement; hardware follows R53-01 and R53-03.",
     "superseded_by": []
   },
   {
@@ -51779,7 +51852,7 @@
       "file": "WOTR_Companion_Guide_Amendments_Pack_Eighteen.md",
       "lines": "73"
     },
-    "notes": "Amended in part 2026-09-28 (R61-6-CALCINATION_DISTILLATION_BENCH_ONLY, R61-5-SUBLIMATIO_IS_SUBLIMATION): Calcination and Distillation are bench operations, not Wellsprings, and Sublimatio is sublimation while Sublimare is distillation. The binding of workings to Alchemetrica's entries stands.",
+    "notes": "Amended in part 2026-09-28 (R61-6-CALCINATION_DISTILLATION_BENCH_ONLY, R61-5-SUBLIMATIO_IS_SUBLIMATION): Calcination and Distillation are bench operations, not Wellsprings, and Sublimatio is sublimation while Sublimare is distillation. The binding of workings to Alchemetrica's entries stands. Agent ruling C-140 (2026-10-13): Alchemetrica's Coagulatio, Transmutatio and Materia Primordia glosses follow their Family pages' physics.",
     "superseded_by": []
   },
   {

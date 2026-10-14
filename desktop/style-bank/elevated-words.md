@@ -1,34 +1,48 @@
 # The Elevated Bank
 
-R78-1 (Isaac, 2026-10-11): narration and italic thought reach for the most exact,
-most resonant word, leaning hard toward the rare, Latinate, archaic and technical,
-several to every page and more in a set piece. This is the bank that direction
-names, widened from R51-12's list (less *numinous*, R57-31, and *eldritch*, cosmic
-stock under R74-45). It is a palette, not a quota. Widen it by ear and add what
-lands.
+R78-1 (Isaac, 2026-10-11), amended by R78-3 (Isaac, 2026-10-14): narration and
+italic thought reach for the most exact, most resonant word there is, and they do
+it in nearly every sentence, fights included. The words are sophisticated
+**English** of every root: old and archaic English (welkin, wrack, hoar, fell,
+cleave), learned English, craft and trade words, and the Latinate and scientific
+ones too. Latin is one source among many, never the house lean; Latin-heavy
+diction belongs to the characters whose card or culture speaks it. This is the
+bank those directions name. It is a palette, not a quota. Widen it by ear and add
+what lands.
 
 **How to use it**
 
+- Saturate. Most narration sentences carry a bank word or one of the same
+  calibre; verify_scene WARNs when fewer than half do (R78-3).
+- Stack freely. Two rare words on one noun ("his shadow, attenuated and sable")
+  are allowed (R78-3, replacing the old one-per-phrase guard).
 - The word must carry more than its common substitute in meaning, sound or
   implication. *Livid* for a bruise's lead-blue says something *purple* does not.
   A fancier synonym that carries less is a miss.
-- Use each word once per scene. Never stack two in one phrase ("the lambent,
-  tenebrous gloaming" is the purple the Weak Grade guidance forbids). One rare
-  word bedded in plain words lands. Three in a row smother each other.
-- The POV's reach governs (R78-1, R70-21). Verinus, Lambert and Cozbi may take
-  anything. Sodoku takes the short, hard, exact words (sere, rime, scree, knell,
-  sinew, haft) and never the ornate. Hild's narration stays at a child's grasp,
-  a word at most per page and only a concrete one. Speech follows each card's
-  voice: a sergeant never talks like a chancery clerk.
+- No word twice on the same page of a scene; return to it later if it is the
+  exact word.
+- The POV chooses **which** words, never how many (R78-3). Verinus, Lambert and
+  Cozbi may take anything, the Latinate included. Sodoku takes short, hard,
+  exact English (sere, rime, scree, knell, sinew, haft, hew, wrack). Hild takes
+  short concrete English a child would hear from adults (rime, murk, hoar, gaunt,
+  reek), never the abstract. Speech follows each card's voice: a sergeant never
+  talks like a chancery clerk.
+- Fights: elevated **verbs** carry the blow (cleave, stave, rend, hew,
+  transfix); body parts stay plain (collarbone, jaw, ribs, never clavicle or
+  mandible in narration); strike names are the plain ones an anime fan knows
+  (jab, hook, uppercut, haymaker, headlock). Never the abstractions: the line,
+  measure, tempo, vector, geometry, the read (R78-3).
+- Magic: the physical effect, then the system term and the science term where
+  they apply, all freely in narration (R78-3).
 - Each word is glossed in its exact sense. Use it in that sense: *livid* is
   lead-blue, not angry, in narration; *fulsome* is cloying, not generous.
 - Still banned (R51-10, R70-35, R74-45): tapestry, palpable, symphony of, a dance
   of, whisper of, ministrations, ozone, the stock families. Still collision-locked
   to their WOTR sense (R51-11): delve, echo, numinous, sovereign, sanctum, weave,
   ledger.
-- Science words follow R78-2. Period-safe ones (refraction, harmonic, tensile)
-  go anywhere. Modern ones (photon, plasma, isotope) belong to the diagnostic
-  voices and the notes, never to a commoner's mouth or thought.
+- Science words, modern ones included (photon, plasma, isotope), are elevated
+  vocabulary in narration (R78-3, widening R78-2); a commoner's own speech and
+  italic thought still keep their own words for the same thing.
 
 ---
 
@@ -155,6 +169,10 @@ lands.
 - **dulcet** · sweet to the ear (ironic in a hard mouth)
 
 ## Body, wound and medicine
+
+Wound and medical words for what a wound *is* or *does*; the parts themselves are
+named plainly in narration (R78-3). The Latin clinical terms sit best in a
+surgeon's mouth or a Latinate POV.
 
 - **ecchymosis** · bruising spread under the skin
 - **suppurating** · discharging pus
@@ -355,3 +373,129 @@ Modern, diagnostic voices and the notes only:
 - **phase transition** · a change of state at a threshold
 - **Doppler shift** · pitch or colour changed by motion toward or away
 - **thermocline** · the sharp boundary between warm and cold water layers
+
+## Striking, breaking and the fight (R78-3)
+
+- **cleave** · to split with a heavy edge; past *cleft* or *cloven*
+- **hew** · to chop with heavy repeated blows
+- **stave** · to break inward, as boards or a skull ("staved in")
+- **rend** · to tear apart by force
+- **rive** · to split or wrench asunder
+- **sunder** · to sever into parts
+- **smite** · to strike hard, as with a weapon or the fist
+- **transfix** · to pierce through and pin
+- **skewer** · to run through on a point
+- **gouge** · to scoop out with a point or a thumb
+- **bludgeon** · to beat with a heavy blunt thing
+- **pummel** · to beat with the fists, over and over
+- **buffet** · to strike again and again, as wind or open hands
+- **clout** · a heavy blow with the hand; to deal one
+- **maul** · to batter and tear
+- **flay** · to strip the skin from
+- **wrench** · to twist and pull violently
+- **wrest** · to take by twisting force
+- **throttle** · to choke by the throat
+- **garrotte** · to strangle with a cord or wire
+- **grapple** · to seize and wrestle at close quarters
+- **trounce** · to beat soundly
+- **quell** · to put down by force
+- **scathe** · to harm or sear (old); *unscathed* its survivor
+- **brunt** · the full shock of a blow or charge
+- **onslaught** · a fierce, overwhelming attack
+- **fray** · a fight, a brawl (old sense)
+- **affray** · a brawl in a public place
+- **mêlée** · a confused hand-to-hand fight
+- **headlong** · head first and without check
+- **welt** · a raised ridge on skin from a blow
+- **weal** · a raised red stripe from a lash or rod
+- **gout** · a thick spurt, as of blood
+- **staunch** · to stop blood flowing
+- **spume** · froth, foam, as at a mouth or a bow
+- **thew** · muscle; bodily strength (old)
+- **brawn** · heavy muscular strength
+- **blench** · to flinch, to start back
+- **quail** · to shrink in fear
+- **writhe** · to twist in pain
+- **spraddle** · to sprawl with the legs thrown apart
+
+## Old and high English (R78-3)
+
+- **welkin** · the vault of the sky
+- **murk** · thick, dirty gloom
+- **swart** · black, dark, sun-darkened
+- **hoar** · grey-white with frost or age
+- **fell** · fierce, deadly; also a high bare moor
+- **baleful** · deadly in intent, menacing
+- **wrack** · wreckage, ruin; weed cast up by the sea
+- **lorn** · forsaken, desolate
+- **forlorn** · abandoned and without hope
+- **blear** · dim and blurred, as rheumy eyes
+- **mere** · a lake or pool
+- **holt** · a wood, a copse
+- **wold** · open rolling upland
+- **fen** · wet low marshland
+- **byre** · a cowshed
+- **garth** · an enclosed yard or garden
+- **wight** · a creature, a person (old); a walking dead thing
+- **weird** · fate, what is fated (old sense)
+- **dwine** · to waste away, to dwindle (northern)
+- **smirr** · fine drizzling rain (northern)
+- **haar** · cold sea fog off the coast
+- **stour** · tumult; the dust of battle
+- **gledes** · glowing coals
+- **lowe** · a flame, a blaze (northern)
+- **reek** · smoke; a strong foul smell; to give one off
+- **lour** · of sky or face, to darken and threaten
+- **wizened** · shrivelled and wrinkled with age
+- **gaunt** · lean and haggard, the bones showing
+- **grizzled** · grey-streaked, of hair or beard
+- **gnarled** · knotted and twisted, as old wood or old hands
+- **craven** · cowardly
+- **churl** · a rude, low-born man
+- **thrall** · a slave; bondage
+- **wergild** · the blood-price paid for a killing
+- **hallow** · to make holy; a holy place
+- **benighted** · overtaken by night; sunk in ignorance
+- **seethe** · to boil and churn
+- **fester** · to rot and run with pus
+- **loathly** · loathsome, hideous (old)
+- **rue** · to regret bitterly; regret
+- **ruth** · pity (old), as in ruthless
+- **betide** · to befall
+- **yore** · long past
+- **erstwhile** · former, of old
+- **lissom** · supple and lithe
+- **sinuous** · curving, serpentine
+- **hulking** · massive and heavy-moving
+- **unkempt** · uncombed, neglected
+- **grisly** · causing horror, gruesome
+
+## Workings seen (R78-3)
+
+- **scintillate** · to throw off sparks or flashes
+- **iridescent** · showing colours that shift with the angle
+- **prismatic** · split into the spectrum
+- **phosphorescent** · glowing faintly without heat
+- **fulminate** · to explode with a flash and a crack
+- **fulgent** · shining brilliantly
+- **glister** · to glitter (old)
+- **corona** · a ring of light round a body
+- **nimbus** · a cloud or halo of light
+- **aureole** · a radiance encircling a head or a body
+- **thrum** · a low, steady, vibrating hum
+- **roil** · to churn and muddy
+- **eddy** · a swirl running against the current
+- **vortex** · a whirling mass
+- **maelstrom** · a violent whirlpool
+- **skein** · a coiled length; a tangle of threads
+- **filament** · a fine thread, as of light or frost
+- **tendril** · a thin coiling shoot
+- **wreathe** · to coil round, as smoke
+- **deliquesce** · to melt into liquid, drawing water from the air
+- **effloresce** · to bloom into crust or crystal
+- **calescent** · growing warm
+- **evanesce** · to fade away like vapour
+- **coalesce** · to come together into one
+- **congeal** · to thicken and set
+- **attenuate** · to thin out, to weaken
+- **crystallise** · to set into crystal

@@ -1,0 +1,53 @@
+# Isaac's directions applied 2026-10-14. Each verbatim is the complete recorded RULINGS.md paragraph.
+pack: Directions 2026-10-14
+pack_number: null
+source_file: ''
+rules:
+- pack: Directions 2026-10-14
+  pack_number: null
+  status: live
+  supersedes: []
+  ratified: 'Isaac, 2026-10-14, Claude Code chat: direction, scope answered by questionnaire'
+  source:
+    file: ''
+    lines: null
+  id: R78-3-PHYSICAL_AND_SATURATED
+  section: R78-1-VOCABULARY_PUSHED_HIGH
+  title: Physical clarity and saturated English vocabulary
+  kind: mandate
+  summary: Blows written as body, path, target, result with plain strike names, never the line/measure/tempo/vector/geometry/the
+    read; elevated English of every root in nearly every narration sentence, stackable, fights included;
+    elevated verbs, plain body parts; workings shown physically then named in system and science terms
+    freely; Latin-heavy diction only for characters who speak it.
+  verbatim: 'Isaac''s direction 2026-10-14, by questionnaire (imports/drafts/vocab-clarity-questionnaire/):
+    physical clarity and saturated vocabulary. A blow is written as body, path, target, result: what moved,
+    the way it travelled, where it landed, what broke; every blow that lands carries its feet, hips or
+    weight in a clause. Narration never uses fight abstractions (the line, measure, tempo, vector, geometry,
+    the read); it says what the fist, foot, blade or body did, in plain action words an anime reader knows
+    ("he came forward swinging his right hand in a jab"), and strike names such as jab, hook, uppercut
+    and headlock are allowed. Elevated words saturate narration, nearly every sentence, fights included,
+    and may be stacked on one noun. Elevated verbs carry the hit (cleave, stave, rend, transfix); body
+    parts stay plain words (collarbone, jaw, ribs). A working is shown as its physical effect, then its
+    system and scientific terms where they apply; system terms (Aether, Density, Saturation, Coherence)
+    are free in narration, and science words, modern ones included, count as elevated vocabulary in narration.
+    The vocabulary is sophisticated English of every root, old, archaic, learned and technical, never
+    a Latin-only lean; Latin-heavy diction belongs to the characters whose card or culture speaks it.
+    Enforced by verify_scene WARNs (fight abstraction in narration; under half of narration sentences
+    carrying a bank word) and by the elevated bank''s new fight, old-English and workings sections.'
+  amends:
+  - guide: NATALIE.md and the wotr-write skill
+    locus: Vocabulary and diction
+    operation: replaces
+  applies_to:
+  - prose-law
+  - register
+  - combat
+  - magic-mechanism
+  verification: []
+  notes: 'Amends R78-1 (several-a-page density, one-per-phrase guard, Latinate lean; POV reach now picks
+    which words, not how many), R78-2 (modern science words legal in narration; a commoner''s own speech
+    and thought keep their words), and R13-6 anatomy vocabulary for narration (plain part names). R77-1
+    stands and is widened: fight abstractions join the European jargon as WARNs (build/verify.py, test
+    build/test_r78_3.py). Bank: desktop/style-bank/elevated-words.md gains Striking, Old and high English,
+    Workings seen. Agent call under R72-2, Isaac may overturn: Hild and Sodoku saturate too, in short
+    concrete English.'

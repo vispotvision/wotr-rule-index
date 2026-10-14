@@ -1,0 +1,25 @@
+{
+  "title": "Vocabulary and physical clarity: combat, magic, narration",
+  "date": "2026-10-14",
+  "why": "Isaac, 2026-10-14: elevated words used too unevenly; fights described in abstractions ('the line', 'measure', 'tempo', 'vector', 'geometry') instead of what the body physically does. Evidence from scenes/: 'the parry had cost him the line and the line was the only thing keeping him upright'; 'Kujo's lead leg was already gone from the line'; 'yanking Sonzai into a new vector'. Counts in the 15 newest scenes: 'the line' 99, 'measure' 88, 'tempo' 35, 'geometry' 37, 'vector' 24.",
+  "batches": [
+    {"batch": 1, "questions": [
+      {"id": "Q1", "header": "A blow", "question": "How should a single blow be put on the page?", "options": ["Body, path, target, result (Recommended)", "Result first, then how", "Sound and impact first", "Fighter's shorthand (now)"]},
+      {"id": "Q2", "header": "Fight jargon", "question": "What happens to abstract fight words (the line, measure, tempo, vector, geometry, the read) in narration?", "options": ["Banned, say the physical (Recommended)", "Fighters' mouths and thought only", "Allowed if glossed at once", "Keep as now"]},
+      {"id": "Q3", "header": "Density", "question": "How often should elevated words land in narration?", "options": ["One or two a paragraph (Recommended)", "One a paragraph, steady", "Saturated, every sentence", "Several a page (now)"]},
+      {"id": "Q4", "header": "Where", "question": "Where do the elevated words belong?", "options": ["Everywhere, fights too (Recommended)", "Rooms and minds, fights plain", "Narration plus learned mouths", "By POV reach only (now)"]}
+    ]},
+    {"batch": 2, "questions": [
+      {"id": "Q5", "header": "Anatomy", "question": "Which register for body parts and wounds?", "options": [], "draft": "Latinate anatomy / plain words / plain then Latinate at the wound / by POV"},
+      {"id": "Q6", "header": "Impact verbs", "question": "Which verbs carry the hit?", "draft": "elevated (cleave, stave, rend, transfix) / plain hard (hit, cut, smash) / mixed by weight of blow / onomatopoeia-led"},
+      {"id": "Q7", "header": "Strike names", "question": "Names of strikes and holds (jab, hook, uppercut, hammerfist, headlock)?", "draft": "plain sport names fine / always describe the motion / school vocabulary / name plus motion first time"},
+      {"id": "Q8", "header": "Mechanics", "question": "How much body mechanics per blow?", "draft": "hips/feet/weight on big blows / every blow / result only / first display and finisher"}
+    ]},
+    {"batch": 3, "questions": [
+      {"id": "Q9", "header": "Magic seen", "question": "How is a working described when it fires?", "draft": "what the eye/skin sees first, term after / WOTR term first / science words first / sensory only"},
+      {"id": "Q10", "header": "WOTR terms", "question": "System terms (Aether, Density, Saturation, Coherence, eta) in narration?", "draft": "physical first then term, sparing / free / diagnostic voices only / never"},
+      {"id": "Q11", "header": "Science words", "question": "Latinate science words (cavitation, sublimation, refraction) in narration?", "draft": "yes, as elevated vocab / period-safe only / diagnostic only / never"},
+      {"id": "Q12", "header": "Enforce", "question": "How should this be enforced?", "draft": "checker WARNs jargon and low density + domain banks / banks only / checker only / just do it"}
+    ]}
+  ]
+}

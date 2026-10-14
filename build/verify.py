@@ -226,6 +226,18 @@ KHARVEN_RECURRENCE = {
 }
 # R48-28: a roleplay turn runs about 3,500 words; R48-46: set pieces 5,000+.
 BANDS = {"conversational": (2500, 4500), "standard": (2500, 4500), "set-piece": (5000, 10**9)}  # every reply is a full ~3,500-word turn (R49-30)
+# R78-3 (Isaac, 2026-10-14): fight abstractions in narration say what the body did instead;
+# narration is saturated with bank words (desktop/style-bank/elevated-words.md).
+FIGHT_ABSTRACT = re.compile(r"\b(?:(?:the|his|her|their|its|off the|on the) line\b(?! of| under)|(?:closed?|closing|in|out of|inside|the|his|her) measure\b|tempo\b|vectors?\b|geometry\b|the read\b)", re.I)
+_BANK_FILE = WIKI.parent / "desktop/style-bank/elevated-words.md"
+# Entries too common in their everyday sense to count toward density (fell = fall, mere = only).
+_BANK_COMMON = {"fell", "mere", "weird", "fatigue", "creep", "shear", "recoil", "coherence"}
+BANK_WORDS = [w for w in re.findall(r"(?m)^- \*\*([^*]+)\*\*", _BANK_FILE.read_text(encoding="utf-8"))
+              if w.lower() not in _BANK_COMMON] if _BANK_FILE.exists() else []
+# ponytail: long words match by stem (cleave: cleaved, cleaving), short ones exactly plus -s/-ed/-ly; a few false hits are fine for a WARN.
+BANK = re.compile(r"\b(?:" + "|".join(re.escape(w[:-1]) + r"\w*" if len(w) > 5 and " " not in w else re.escape(w) + r"(?:s|es|d|ed|ly)?\b"
+                                      for w in BANK_WORDS) + r")", re.I) if BANK_WORDS else None
+DENSITY_FLOOR = 0.5  # share of narration sentences carrying a bank word; "saturated" (R78-3)
 
 
 def split_sentences(text: str) -> list[str]:
@@ -456,6 +468,16 @@ def run(text: str, combat: bool = False, culture: str | None = None, band: str =
         if not any(a < m.end() and m.start() < b for a, b in spans):
             s_ = narr[max(0, m.start() - 50):m.end() + 30].replace("\n", " ")
             warns.append(f"near a hard-ban phrase: \"{m.group(0)}\" in \"...{s_.strip()}...\" (R70-36-CHECKER_ENFORCES; read it against R70-35)")
+
+    # --- R78-3: physical over abstract in fights, saturated vocabulary ---------
+    abstract = [m for s in narr_sents for m in FIGHT_ABSTRACT.finditer(s)]
+    if abstract:
+        warns.append(f"fight abstraction in narration: {len(abstract)} ({', '.join(sorted({m.group(0).lower() for m in abstract}))}); "
+                     "say what the fist, foot, blade or body did (R78-3-PHYSICAL_AND_SATURATED)")
+    if BANK and len(narr_sents) >= 10:
+        share = sum(bool(BANK.search(s)) for s in narr_sents) / len(narr_sents)
+        (warns if share < DENSITY_FLOOR else info).append(
+            f"elevated density: {share:.0%} of narration sentences carry a bank word (floor {DENSITY_FLOOR:.0%}, target most; R78-3-PHYSICAL_AND_SATURATED)")
 
     # --- descent / variance (R4-14, Check 16) ------------------------------
     if len(words) >= 6:

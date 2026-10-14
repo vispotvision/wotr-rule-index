@@ -1164,5 +1164,10 @@
     "page_id": "3f958200-eb22-819e-8c11-fdcf37181a46",
     "title": "Lion's Bane",
     "hash": "fccc3fe36c3ec8ff"
+  },
+  "scenes/the_judging_paw.md": {
+    "page_id": "3f958200-eb22-811b-9da5-de227ad6118d",
+    "title": "The Judging Paw",
+    "hash": "661369e1d1e5144f"
   }
 }

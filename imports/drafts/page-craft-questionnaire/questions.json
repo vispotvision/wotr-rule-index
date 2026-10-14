@@ -409,5 +409,76 @@
         ]
       }
     ]
+  },
+  "round3": {
+    "why": "Isaac 2026-10-14: 'work out on dialogue or just anything you think; overview the answers and think of anything we're missing'",
+    "batches": [
+      {
+        "batch": 1,
+        "topic": "Dialogue in action",
+        "questions": [
+          {
+            "id": "G1",
+            "header": "Fight talk"
+          },
+          {
+            "id": "G2",
+            "header": "Explaining"
+          },
+          {
+            "id": "G3",
+            "header": "Address"
+          },
+          {
+            "id": "G4",
+            "header": "Big lines"
+          }
+        ]
+      },
+      {
+        "batch": 2,
+        "topic": "Names, readouts, POV, endings",
+        "questions": [
+          {
+            "id": "X1",
+            "header": "Name tongue"
+          },
+          {
+            "id": "X2",
+            "header": "Readouts"
+          },
+          {
+            "id": "X3",
+            "header": "Fight POV"
+          },
+          {
+            "id": "X4",
+            "header": "Endings"
+          }
+        ]
+      },
+      {
+        "batch": 3,
+        "topic": "Monsters, fanservice, skips, releases",
+        "questions": [
+          {
+            "id": "Y1",
+            "header": "Monsters"
+          },
+          {
+            "id": "Y2",
+            "header": "Fanservice"
+          },
+          {
+            "id": "Y3",
+            "header": "Time skips"
+          },
+          {
+            "id": "Y4",
+            "header": "Release forms"
+          }
+        ]
+      }
+    ]
   }
 }

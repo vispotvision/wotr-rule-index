@@ -90,5 +90,23 @@
     "K2": "A core crew, each with a role (Recommended)",
     "K3": "Mostly, with rare costly exceptions",
     "K4": "Central to many threads"
+  },
+  "r3_batch1_dialogue": {
+    "G1": "Anime-chatty at the pauses (Recommended)",
+    "G2": "Yes, when they've earned it (Recommended)",
+    "G3": "Each culture's own forms (Recommended)",
+    "G4": "Yes, earned and in voice (Recommended)"
+  },
+  "r3_batch2_craft": {
+    "X1": "English, always",
+    "X2": "Fewer, Bleach style",
+    "X3": "One POV, switch at a break (Recommended)",
+    "X4": "Hooks and cliffhangers (Recommended)"
+  },
+  "r3_batch3_world": {
+    "Y1": "Hollow-style, made of their Well (Recommended)",
+    "Y2": "Some, from the POV's eye (Recommended)",
+    "Y3": "Yes, between big arcs (Recommended)",
+    "Y4": "Yes, tied to the system (Recommended)"
   }
 }

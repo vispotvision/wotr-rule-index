@@ -22,11 +22,12 @@ grep -nEi 'qi surged|cold glint|sucked in a cold breath|killing intent surged|th
 grep -nE '\b(because|since|so that|which is why|as a result)\b' "$f" # causal connectives: legal only in a mouth or a document
 ```
 
-Combat set pieces additionally: the POV's own school's vocabulary (R70-100;
-for a Western blade, HEMA: Zornhau, Krumphau, Zwerchhau, Schielhau,
-Scheitelhau, bind, winden, versetzen, nachreisen, abschneiden, measure, tempo,
-posta; a Moto POV names a kesa-giri; a foreign school's word arrives in a
-mouth), anatomy named where it is cut, a stated fault per
+Combat set pieces additionally: every blow as body, path, target, result (R78-3);
+Eastern school terms free (a Moto POV names a kesa-giri, R78-5); Western
+moves in plain strike words (jab, hook, uppercut, overhead cut, headlock),
+never HEMA (R77-1) and never the line, measure, tempo, vector, geometry or
+the read; techniques shouted by English name (R78-5); the wound in plain
+part names (R78-3), a stated fault per
 working, the three-stratum account present, a Stat Ledger per named
 practitioner in the notes.
 
@@ -53,9 +54,8 @@ practitioner in the notes.
   cap, R70-87).
 - Fragment-cascade emphasis ("Not slowly."), anaphora and tricolon stacks,
   stacked metaphors, magic adverbs, dead metaphors, hypophora, reaction-shot
-  cutaway (a crowd's spoken chorus at a power reveal is legal, R70-72),
-  setup-deadpan-reaction beat outside the comic voices and double acts named
-  on their cards (R70-113), "rather than" more than once.
+  cutaway (a crowd's chorus at a power reveal is legal, R70-72, and named
+  people react to big power with their own words and body, R78-8), "rather than" more than once.
 - **Paragraphs**: medium is the norm; one-line paragraphs only in a cluster at
   reveals, verdicts, notices and a fight's last beats (R70-20). Third person
   only outside documents (R70-12).

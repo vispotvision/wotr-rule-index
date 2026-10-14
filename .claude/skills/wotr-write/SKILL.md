@@ -94,7 +94,7 @@ In this order, every heading present even if it reads "none":
 2. **Canon conflicts**: surfaced, never resolved.
 3. **Phenomenon line** per working (from `wotr-phenomenon`).
 4. **Added by the gap-fill pass**, when Isaac submitted a fight or working.
-5. **Combat floor audit**: the POV's own school's vocabulary (R70-100), three-layer hit at first display and
+5. **Combat floor audit**: every blow as body, path, target, result, in Eastern school terms or plain strike words (R78-3, R78-5), three-layer hit at first display and
    finisher, stated fault, POV body on the page.
 6. **Stat Ledger** per named practitioner (R14-7): going in (Stage, Band,
    Tier of Standing, Aether Class, Crystal State); stats stressed and the §3

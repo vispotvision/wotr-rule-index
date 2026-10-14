@@ -651,7 +651,7 @@ def verify_scene(markdown: str, combat: bool = False, culture: str = "", band: s
     other-school vocabulary (school: blade, japanese, chinese, korean, percussion,
     boxing, firearms, kharven; default from culture). With combat=True and turn=True,
     system figures/readouts belong in notes (R77-2); other turns keep the cap of two.
-    Eastern terminology remains unresolved; earned explanations and mechanism
+    Eastern school terms are free (R78-5); earned explanations and mechanism
     leakage need a manual read.
     explicit=True adds the explicit scene checks (R73-41): senses, consequence, floor guard, euphemisms.
     Fix every FAIL, read every WARN, then post."""
@@ -791,7 +791,8 @@ def chatgpt_image(prompt: str, name: str = ""):
     """Make one image with ChatGPT's image model (on Isaac's ChatGPT plan), in 30 to 120 s.
     It comes back shown inline, saved to ~/wotr-drafts/images/, with a link. Describe the
     whole picture: subject, setting, light, palette, medium, framing. WOTR's look is
-    Victorian imperial fantasy (R53-28), never Berserk or Vinland. Describe a style rather
+    Arcane and Fullmetal Alchemist, the settings of Bleach and Naruto, Final Fantasy and
+    Lord of the Mysteries (R53-28, R78-4), vivid and magitech-lit, never Berserk or Vinland. Describe a style rather
     than naming a living artist, and no real person's likeness (Isaac's rule: reference,
     never copies). The model letters signs and dials on its own, with Earth names
     (it wrote "London" on a gauge): ask for no text, or give the exact WOTR words.
@@ -1795,9 +1796,9 @@ def gap_fill(markdown: str) -> str:
            f"2. LOGIC AUDIT — {causal} causal connectives in the text (check 24 fails a fight passage with none). For every outcome: which stat row decided it (R14-3-TRACEABILITY)? Name the row in the author notes.",
            f"3. STRATUM AUDIT — mentions: Aether {strata['Aether']}, Wellspring {strata['Wellspring']}, Essence {strata['Essence']}. Every working explained on the page is explained at all three (R13-2-THREE_STRATA_MANDATE); a zero above is a gap.",
            f"4. PHYSICS AUDIT — real-science terms present: {', '.join(f'{k}×{v}' for k, v in sci.most_common(8)) or 'none'}. Each Wellspring law is stated as the real law with a directional operator (R13-2-STRATUM_TWO_WELLSPRING).",
-           f"5. BODY AUDIT — {anat} anatomy/injury terms, {blade} blade body/action terms (R77-1). Injury by structure with ATLS class at first display and finisher (R13-4-COMBAT_FLOOR); the POV's own body on the page. Combat roleplay shows tells and body cost, with mechanism and figures in notes (R77-2); written fights keep the full floor.",
+           f"5. BODY AUDIT — {anat} anatomy/injury terms, {blade} blade body/action terms (R77-1). Injury by structure (plain part names in narration, R78-3) with ATLS class at first display and finisher (R13-4-COMBAT_FLOOR); the POV's own body on the page. Combat roleplay shows tells and body cost, with mechanism and figures in notes (R77-2); written fights keep the full floor.",
            f"6. PHENOMENON AUDIT — for each working: the real phenomenon it runs on, its Physics Domain and Wellspring, Category and alignment tag, and the fault the mechanism creates (R13-3-PHENOMENON_MANDATE). Write the line in the author notes if the text does not carry it.",
-           f"7. VOCABULARY PASS — Mechanism Vocabulary present: {', '.join(f'{k}×{v}' for k, v in mech.most_common(8)) or 'none'}. Bare jargon mid-action stays banned; a term may be named in diagnostic voice beside its dramatisation (R13-9-STYLE_DIRECTIVE_MECHANISM_VOCAB).",
+           f"7. VOCABULARY PASS — Mechanism Vocabulary present: {', '.join(f'{k}×{v}' for k, v in mech.most_common(8)) or 'none'}. Show the effect first, then name it; system and science terms are free in narration (R78-3, amending R13-9-STYLE_DIRECTIVE_MECHANISM_VOCAB).",
            "8. PROSE PASS (last) —", Vf.report(prose),
            "", "Log what the pass added under 'Added by the gap-fill pass' in the author notes (R13-5-GAP_FILL_PASS). The pass may change an outcome when no cause fits, and says so (R13-D, ruled 2026-09-12)."]
     return "\n".join(out)

@@ -45,8 +45,10 @@ shimmers"), never instructions to an opponent.
 
 Every ability (Trait, technique, signature, school art, bloodline faculty) is
 **one name and one paragraph** (R76-1 to R76-5): the name in caps, a short
-gloss after it where the character has a naming register (`KUSARI · the Rot`),
-its kind in brackets, then a single paragraph of any length. That paragraph is
+gloss after it where the character has a naming register (`THE ROT · kusari`, English first, R78-5),
+its kind in brackets (a release form's kind is *First*, *Second* or *Third
+Release*), then a single paragraph of any length, which also gives the
+signature sound and, for a Trait, the aura's colour (R78-6). That paragraph is
 the whole Notion page and the whole card entry; nothing else goes on it. The
 field format (R47-2) is retired; an old field-format entry is rewritten the
 next time it is edited or used.
@@ -99,8 +101,8 @@ stated fault) stays in the author notes, which never reach the page.
 
 Correspondence, sympathy and contagion, essence and accident, form and
 actualisation, recognition and refusal: the Attraction-side read and the
-document voice. Real physics and Mechanism Vocabulary: any diagnostic voice.
-Nothing in narration on its own authority.
+document voice. Real physics and Mechanism Vocabulary: any diagnostic voice, and narration
+once the physical effect is shown (R78-3).
 
 ## The gap-fill pass (when Isaac submits a fight or working to improve)
 

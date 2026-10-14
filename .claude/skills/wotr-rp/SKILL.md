@@ -47,8 +47,8 @@ heads. One thing he notices that goes unexplained. Inventory texture before
 invention. One italic private thought per NPC per scene. No em dashes, no
 "not X, Y", no hypophora, no Ladder, no Gloss, no narration explaining a
 working. Figures in narration only as the POV holds them, the body first
-and the figure a line after (R70-83, R70-89); two readouts a turn at most,
-never two in one exchange (R70-86). Every action costs something visible.
+and the figure a line after (R70-83, R70-89); readouts only at a breakthrough, a
+re-assay or an arc's end, never inside a fight (R78-6). Every action costs something visible.
 
 ## Explicit scenes played live
 

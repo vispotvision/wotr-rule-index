@@ -10,7 +10,7 @@ The cellar smelled of damp iron. Three reaches along the district main, upstream
 
 "Enforcement." She showed the silver token. "Josiah Pell, you are taken for an unlicensed spur on the Board's main. Sine sigillo."
 
-She read him the way the school taught, hands first. Grease in the knuckles. A stopcock burn across one palm. Welling, she judged, a mouth at Grade D on a good night. She let the measure close.
+She read him the way the school taught, hands first. Grease in the knuckles. A stopcock burn across one palm. Welling, she judged, a mouth at Grade D on a good night. She let him walk in until one more step would put his blade on her.
 
 She had sat the Vox paper at seventeen. Nomen, mensura, iussum: a thing named, a bound set, an order given, and nobody in the grammar to hang for it.
 
@@ -28,7 +28,7 @@ Indes. His bar was low.
 
 The meter hung on the wall between them, brass-cased, the Board's seal on its face. Its draw-lit dial was the last light in the cellar. The glow lay on the brass the way an evening lies on a canal, thin and gold and slow to leave.
 
-Her point went up under his raised arm into the axilla and opened the axillary artery.
+Her point went up under his raised arm into the hollow of the armpit and opened the big artery there.
 
 He sat down against the standpipe. His blood ran over the seal.
 
@@ -171,7 +171,7 @@ Dob's knees understood it before he did, and were for sitting down.
 
 "Pondus falsum," said Hob, a little higher than before. "Before witnesses."
 
-*Shows:* R70-113-DOUBLE_ACT_COMIC_BEAT, R70-116-COMEDY_BESIDE_DANGER, R70-124-PEOPLES_WEST_NORTH, R70-120-BUILT_COMIC_NAMES, R70-128-PLACES_INNS_SHIPS_GEAR, R70-130-WALK_ONS_WITH_COMIC, R70-65-SET_IDIOMS_NARRATION, R70-69-PRESSURE_AURA, R70-17-CLOSING_MODES, R70-48-MONEY_PRICE_PROVENANCE
+*Shows:* R78-8-VOICE_DIALOGUE_HUMOUR, R70-116-COMEDY_BESIDE_DANGER, R70-124-PEOPLES_WEST_NORTH, R70-120-BUILT_COMIC_NAMES, R70-128-PLACES_INNS_SHIPS_GEAR, R70-130-WALK_ONS_WITH_COMIC, R70-65-SET_IDIOMS_NARRATION, R70-69-PRESSURE_AURA, R70-17-CLOSING_MODES, R70-48-MONEY_PRICE_PROVENANCE
 
 ## Texture this bank coins
 
@@ -198,7 +198,7 @@ Every entry below was invented for this bank. None is canon until Isaac adopts i
 | lamp-time by districts | custom | At lamp-time the gauge-houses throw the street lamps on district by district, so the light climbs a hill in bands and the hum deepens under each. Passage 3 | pending |
 | Overdraught | plausible-pun surname (R70-120) | Prime Warden of the Fitters and Gaugers; overdraft, on the Guild's unit of draw. Passage 2 | pending |
 | Heapwell | talking surname on a dangerous man (R70-120, R70-122) | Grain merchant who heaps his measures. Passage 5 | pending |
-| Hob and Dob | rhyming pet names, double act (R70-124, R70-113) | Two market inspectors both entered Robert; for a card naming them a double act, if adopted. Passage 5 | pending |
+| Hob and Dob | rhyming pet names, double act (R70-124, R78-8) | Two market inspectors both entered Robert; for a card naming them a double act, if adopted. Passage 5 | pending |
 | Treacle | market byname (R70-121, R70-130) | A strike man known for the slowest strike in the corn market; named only in a heckler's mouth, the role in narration. Passage 5 | pending |
 | Doorstep | ironic byname (R70-121) | A wire-boy whose face shows nothing at a door. Passage 3 | pending |
 | the beam-house | market word (R70-32) | The corn market's public weigh-house, with the town beam inside and pigeons on its gutter. Passage 5 | pending |

@@ -63,8 +63,8 @@ another's Band and rough Stage, Gnosis setting how close (R70-79). Ranked
 practitioners talk exact numbers and argue builds in dialogue; commoners round
 (R70-93). Inside a fight, Grades and gaps only at the read, as estimates, no
 running figures (R70-88). Readouts: inline by default, a set-off block only at
-a re-assay that moves something, a breakthrough or an arc's end (R70-80); up to
-three a scene, two a roleplay turn (R70-86); `Stage V, Splintering`, numeral
+a re-assay that moves something, a breakthrough or an arc's end (R70-80); none inside a
+fight, only at a breakthrough, a re-assay or an arc's end (R78-6); `Stage V, Splintering`, numeral
 beside name (R70-82); a figure not yet in canon printed with the instrument's
 hedge and logged as an estimate (R70-99). Every figure on the page still comes
 from this line.

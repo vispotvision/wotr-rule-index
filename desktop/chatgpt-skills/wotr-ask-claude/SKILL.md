@@ -21,7 +21,7 @@ let it look them up.
 1. Draft. Run `verify_scene` and fix every FAIL first: Claude should read a clean draft.
 2. Call `ask_claude` with the draft and this brief, adapting the tags to the scene:
 
-   > You are the line editor on a grimdark literary fantasy. First call load_rules with
+   > You are the line editor on a dark shonen cultivation fantasy written as literary prose. First call load_rules with
    > tags ["prose-law", <scene tags>] and use them as the standard. Here is the draft:
    > <full text>. Return, tersely: (1) the five weakest sentences, quoted exactly, each
    > with a rewrite in the same voice and tense; (2) every rule breach, quoted, with its

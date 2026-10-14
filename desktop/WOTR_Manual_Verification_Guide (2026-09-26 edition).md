@@ -1,3 +1,12 @@
+> **Amended 2026-10-14 by Isaac's direction (R78-3 to R78-8, `rules/doc-directions-2026-10-14.yaml`).** Where this guide and this list disagree, the list governs.
+>
+> - **Check 23 (timeless register).** System and science terms, modern ones included, are free in narration; only slang stays out (R78-3).
+> - **Check 30 (combat vocabulary).** By hand, every exchange shows body, path, target and result; Eastern school terms are free, Western moves are plain strike words, and the line, measure, tempo, vector, geometry and the read are WARNed in narration (R78-3, verify_scene).
+> - **Check 31 (anatomy).** Narration names parts plainly (jaw, collarbone, ribs); the structural and clinical names live in the notes (R78-3).
+> - **New: elevated density.** verify_scene WARNs when fewer than half the narration sentences carry a word from `desktop/style-bank/elevated-words.md` (R78-3).
+> - **Readouts.** None inside a fight; only at a breakthrough, a re-assay or an arc's end (R78-6).
+> - **Endings.** A chapter or arc may close on a hook or cliffhanger (R78-7).
+
 # CHANGELOG — 2026-09-26 EDITION
 
 *The 2026-09-12 edition stays in `desktop/` as history and is not edited. This edition does three things: it follows the seven packs Isaac ruled on 2026-09-26 (R47 Ability Law, R48 Writing Law, R49 Prose Law, R50 Naming Law, R51 Vocabulary Law, R52 Voice Law, R53 World Texture Law; the text is in `RULINGS.md`); it drops every check whose rule is now `status: superseded`; and it is written against the checker that exists, `build/verify.py` (also served as the wotr MCP's `verify_scene`), plus `build/codex.py check` (the MCP's `codex_check`) for the Master Codex checks. `wotr_verify.sh` v4, `wotr_beat_check.py` and `wotr_terms.txt` exist nowhere on this machine; nothing below depends on them. Checks are renumbered 1 to 51 with no gaps and no retired stubs.*

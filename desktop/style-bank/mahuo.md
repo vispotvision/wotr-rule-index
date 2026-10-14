@@ -28,7 +28,7 @@ The pan flashed.
 
 What answered rose out of the ford, shaped to the verb: a wall. The river stood man-high between muzzle and carts, took the ball, and fell back as rain. Heat went through her Shell like a swallowed coal. A headache opened behind her left eye.
 
-Gaettong went through the falling water, and a billhook came down at his head. He met it with a rising makgi that turned the hook off the flat of his blade, stepped inside the arm, and put the point up into the armpit in a short jjireugi, where the axillary artery runs out from under the clavicle. Blood ran from the man's cuff before he knew he was touched. He sat down in the ford.
+Gaettong went through the falling water, and a billhook came down at his head. He met it with a rising makgi that turned the hook off the flat of his blade, stepped inside the arm, and put the point up into the armpit in a short jjireugi, where the big artery runs out from under the collarbone. Blood ran from the man's cuff before he knew he was touched. He sat down in the ford.
 
 The other two ran.
 
@@ -183,7 +183,7 @@ Ban-dae put out one finger and counted the links. "Seven," he said. "Agreed."
 
 In forty years Jang-dae had never heard him say it. "On the record," said Sun-dae, and Jang-dae, the witness, said it after them, and nobody spoke of the road. Ban-dae ate the first link standing, cold, and his hand shook.
 
-*Shows:* R70-113-DOUBLE_ACT_COMIC_BEAT, R70-116-COMEDY_BESIDE_DANGER, R70-125-PEOPLES_EASTERN_STRATA, R70-120-BUILT_COMIC_NAMES, R70-129-NOTICES_JOKE, R70-69-PRESSURE_AURA, R70-48-MONEY_PRICE_PROVENANCE, R70-107-SPEECH_LEVELS_ADDRESS_KOREAN, R70-22-SOUND_WORDS
+*Shows:* R78-8-VOICE_DIALOGUE_HUMOUR, R70-116-COMEDY_BESIDE_DANGER, R70-125-PEOPLES_EASTERN_STRATA, R70-120-BUILT_COMIC_NAMES, R70-129-NOTICES_JOKE, R70-69-PRESSURE_AURA, R70-48-MONEY_PRICE_PROVENANCE, R70-107-SPEECH_LEVELS_ADDRESS_KOREAN, R70-22-SOUND_WORDS
 
 ## Texture this bank coins
 

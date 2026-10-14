@@ -22,7 +22,7 @@ Far up, the aurora hung green over the Seat. A bowshot down the lane the outer t
 
 Ketil cut the Krumphau.
 
-It came crooked, his hands crossed on the grip, down across the line onto the inside of the wrist that held the seax, a finger above the heel of the hand, through the tendon sheaths and the radial artery. The fingers opened. The seax dropped point first into the drift. Blood came in a pulse, steamed on the snow, and went black on the hide sleeve.
+It came crooked, his hands crossed on the grip, down across the man's body onto the inside of the wrist that held the seax, a finger above the heel of the hand, through the tendon sheaths and the radial artery. The fingers opened. The seax dropped point first into the drift. Blood came in a pulse, steamed on the snow, and went black on the hide sleeve.
 
 Sverri sat down against the woodpile and looked at his hand.
 
@@ -161,7 +161,7 @@ Nobody heated the death-house. A corpse kept cold the whole winter through would
 
 The door stood open a hand's width. The light in the gap was yellow, and it moved, the way firelight moves when someone has just put another round on.
 
-*Shows:* R70-22-SOUND_WORDS, R70-113-DOUBLE_ACT_COMIC_BEAT, R70-116-COMEDY_BESIDE_DANGER, R70-119-MUCH_POOL_COMIC, R70-120-BUILT_COMIC_NAMES, R70-121-GROWN_COMIC_NAMES, R70-123-WHOSE_EAR_HEARS_JOKE, R70-124-PEOPLES_WEST_NORTH, R70-128-PLACES_INNS_SHIPS_GEAR, R70-129-NOTICES_JOKE
+*Shows:* R70-22-SOUND_WORDS, R78-8-VOICE_DIALOGUE_HUMOUR, R70-116-COMEDY_BESIDE_DANGER, R70-119-MUCH_POOL_COMIC, R70-120-BUILT_COMIC_NAMES, R70-121-GROWN_COMIC_NAMES, R70-123-WHOSE_EAR_HEARS_JOKE, R70-124-PEOPLES_WEST_NORTH, R70-128-PLACES_INNS_SHIPS_GEAR, R70-129-NOTICES_JOKE
 
 ## Texture this bank coins
 
@@ -210,7 +210,7 @@ Everything below was invented for these samples. All of it is pending, and none 
 - **Halfsaddle** (pending). Another clerk's roll-name, good for a joke the day its bearer is ranked.
 - **The Bowl and the Wood** (pending). The lane's byname for the twins.
 - **The Widow** (pending). A hand-sledge that complains of every load.
-- **Hulluk and Numra Wetwood** (pending), given the canon swear-words as protective cheap names, and pitched as a carded double act under R70-113.
+- **Hulluk and Numra Wetwood** (pending), given the canon swear-words as protective cheap names, and who play as a double act under R78-8.
 
 **People** (pending, illustrations only, no stat figures)
 - Ketil Rafnsson, ridgeman of the outer town. Sverri the sealer. Old Gunna of the death-house step.

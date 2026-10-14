@@ -57,9 +57,9 @@ either way. The want never stated; shown in what they do with their hands.
 ## Voice warmup
 
 Before the paragraph, write one throwaway line in their voice and discard
-it. Then write. A minor NPC may be a comic voice from the start (R52-31); a
-comic voice or double act named on the card gets full comic beats, retort and
-reaction included (R70-113). Recurring minors, villains and rivals may carry a
+it. Then write. A minor NPC may be a comic voice from the start (R52-31); anyone
+may be funny in their own way, and anime gags, setup and reaction included,
+come from the characters who play that way (R78-8). Recurring minors, villains and rivals may carry a
 comic name; major NPCs keep strict ones (R70-122), and a walk-on is named at
 once only by a nickname in someone else's mouth (R70-130). Each NPC voice
 starts from a researched real-world speaker type, credited in the notes

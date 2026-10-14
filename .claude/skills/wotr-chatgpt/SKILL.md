@@ -36,7 +36,7 @@ prompts.
 Claude cannot draw; `chatgpt_image(prompt, name)` borrows ChatGPT's image model on the
 ChatGPT plan (30 to 120 s). The picture comes back inline, saved to `~/wotr-drafts/images/`,
 with a link under the token. Brief it like a painter: subject, setting, light, palette,
-medium, framing; WOTR looks Victorian imperial fantasy (R53-28). It letters signs and
+medium, framing; WOTR looks like Arcane and Fullmetal Alchemist, the settings of Bleach and Naruto, Final Fantasy and Lord of the Mysteries, vivid and magitech-lit, never muted grey (R53-28, R78-4). It letters signs and
 dials with Earth words on its own ("London" on a gauge), so ask for no text or give the
 exact WOTR words. Describe a style instead of naming a living artist, and no real
 person's likeness (Isaac's rule). Explicit content is refused by OpenAI's model.
@@ -81,7 +81,7 @@ When ChatGPT drafts (Natalie in a ChatGPT chat), the same loop runs the other wa
 
 The line-editor brief (adapt the tags to the scene):
 
-> You are the line editor on a grimdark literary fantasy. Read <path>. First call
+> You are the line editor on a dark shonen cultivation fantasy written as literary prose. Read <path>. First call
 > load_rules with tags ["prose-law", <scene tags>] and use them as the standard. Return,
 > tersely: (1) the five weakest sentences, quoted exactly, each with a rewrite in the same
 > voice and tense; (2) every rule breach, quoted, with its rule id; (3) where the senses,

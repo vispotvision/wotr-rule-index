@@ -16,7 +16,7 @@ He came in off a Western stance with a ci at the eyes. Huaishan hung the jian po
 
 The second ci came faster. Huaishan was late by the width of a breath, and the point opened his brow at the hairline. Blood ran warm into his left eye.
 
-He gave the bind on the third, as the Fourth Form of Liu Shui Bu Fu, Flowing Water Does Not Rot, asks of a man already hurt: let the other blade come, keep the line soft, and go in through the place the other arm has just left.
+He gave the bind on the third, as the Fourth Form of Liu Shui Bu Fu, Flowing Water Does Not Rot, asks of a man already hurt: let the other blade come, keep the arm soft, and go in through the place the other arm has just left.
 
 For the length of that bind the godown held still. Outside, the river ran black under the moon, and the far quay's lamps lay on the water in a line that broke and mended and broke. Tar smoked in the caulkers' pot on the quay. The wet tea in the chests smelled of hay.
 
@@ -140,7 +140,7 @@ Tamade. The last tablet was new. The lacquer had not had time to darken, and the
 
 The size under the gold was still tacky. Erniu laid the broom down on the swept floor without a sound, and his brother's lamp began to shake.
 
-*Shows:* R70-113-DOUBLE_ACT_COMIC_BEAT, R70-116-COMEDY_BESIDE_DANGER, R70-119-MUCH_POOL_COMIC, R70-120-BUILT_COMIC_NAMES, R70-121-GROWN_COMIC_NAMES, R70-123-WHOSE_EAR_HEARS_JOKE, R70-125-PEOPLES_EASTERN_STRATA, R70-129-NOTICES_JOKE, R70-34-REAL_LANGUAGE_SWEARS_NARRATION, R70-61-SEASON_WORD_DOES, R70-66-NAMED_DEVICES_ADD
+*Shows:* R78-8-VOICE_DIALOGUE_HUMOUR, R70-116-COMEDY_BESIDE_DANGER, R70-119-MUCH_POOL_COMIC, R70-120-BUILT_COMIC_NAMES, R70-121-GROWN_COMIC_NAMES, R70-123-WHOSE_EAR_HEARS_JOKE, R70-125-PEOPLES_EASTERN_STRATA, R70-129-NOTICES_JOKE, R70-34-REAL_LANGUAGE_SWEARS_NARRATION, R70-61-SEASON_WORD_DOES, R70-66-NAMED_DEVICES_ADD
 
 ## Texture this bank coins
 
@@ -230,4 +230,4 @@ Everything below is pending. None of it is canon until Isaac rules, and each ite
 
 - Posthumous names on the Pei wall: Jing the Reverent, Ding the Settled, Miu the Mistaken, twice.
 
-- Comic names (R70-125): Daniu and Erniu, cheap child-names after the ox, porters pitched for cards as a double act under R70-113 (until carded, their beat runs under R5-D); Fan Tong, the Pei cook, whose name said quick is fantong; Tingyu Jushi, rendered in the prose as the Layman Who Listens to the Rain, a studio name the porters mock; Niu for Miu, a spoken mishearing.
+- Comic names (R70-125): Daniu and Erniu, cheap child-names after the ox, porters who play as a double act under R78-8; Fan Tong, the Pei cook, whose name said quick is fantong; Tingyu Jushi, rendered in the prose as the Layman Who Listens to the Rain, a studio name the porters mock; Niu for Miu, a spoken mishearing.

@@ -50,7 +50,7 @@ R70-99).
 Pressure shows in the room first (smoke, frost, lamp flames, the draw-hum,
 animals), then in bodies (R70-69): one Stage up bends attention; two, sweat
 and nausea; three or more drops people; a Band gap changes the weather.
-Never named as an aura. Suppression tires. Killing intent is Pressure aimed through Dominion and needs
+Each practitioner's aura also shows, in their own colour, brighter as they push (R78-6). Suppression tires. Killing intent is Pressure aimed through Dominion and needs
 a ruled mechanism before first use (R70-70).
 
 The read is the game. A self-derived technique gets two or three exchanges of
@@ -72,8 +72,9 @@ closing poem (R70-17, R70-64). Jo-ha-kyū tempo: slow, breaking, swift
 One italic thought per named NPC. Ignorance quota (one unexplained physical
 observation), misreading budget (one wrong POV inference left uncorrected),
 reification two per scene, elegiac passage at most one and never at the close.
-Moves named in the POV's own school's vocabulary (HEMA for a Western blade,
-kesa-giri for a Moto POV; a foreign school's word arrives in a mouth, R70-100);
+Every blow as body, path, target, result; Eastern school terms free, Western
+moves in plain strike words, techniques shouted by English name, afterimages
+for speed (R78-3, R78-5);
 duel shape follows the combat grammar (R70-102). Three-layer hit (Physics, Essence,
 Hermetic) as three causal sentences at first display and finisher. Gore in
 full. The POV's own body on the page as much as the opponent's. Aftermath
@@ -92,17 +93,17 @@ return carries one changed detail (R70-50).
 
 ## Register
 
-Third person only; first person stays in documents (R70-12). Modern words in
+Third person only; first person stays in documents (R70-12). Modern slang in
 speech and italic thought only (R70-37); narration and documents stay
-timeless, and the checker's modern-word list catches slang in narration
+timeless save system and science terms, which are free (R78-3), and the checker's modern-word list catches slang in narration
 (R48-13, R49-44, R51). The POV's culture sets cadence and the antique dial
 (R70-21, R70-27).
 Voice differentiation is the surviving law: if two characters' lines could swap
 unnoticed, the scene failed; voices are mind and sound in equal measure (R52-02).
 
-Humour wherever earned; comic voices and double acts named on their cards
-get full comic beats, retort and reaction included, and everyone else stays
-under R5-D (R70-113). Sodoku jokes only by accident (R52-14).
+Humour wherever earned; anyone may be funny in their own way, and anime
+gags, setup and reaction included, come from the characters who play that
+way (R78-8). Sodoku jokes only by accident (R52-14).
 
 ## Naming
 
@@ -115,7 +116,8 @@ the household uses). Büri and Mongolian-register names are stale; never
 propagate one, flag it. Technique names pass the one-beat test: the name is the
 thing. Naming register is not ethnicity. Run `stale_names` when touching old
 pages. A school's art may run as numbered forms; hall and Korean-stratum arts
-may carry a four-syllable true name, glossed literally (R70-74).
+may carry a four-syllable true name, glossed literally, on the card; on the
+page and in the shout the name is English (R70-74, R78-5).
 
 Comic names (R70-119 to R70-132): bynames and nicknames are the norm in
 musters, crews, taverns and markets and thin above the commons (R70-119);

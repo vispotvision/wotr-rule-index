@@ -1,3 +1,13 @@
+> **Amended 2026-10-14 by Isaac's direction (R78-3 to R78-8, `rules/doc-directions-2026-10-14.yaml`).** Where this edition and this list disagree, the list governs; the sections below stay as written until the next edition folds it in.
+>
+> - **§3.0 and the HEMA lists (§3.1 to §3.5), §8's worked example.** Every blow is written as body, path, target, result. Eastern school terms are free in narration; Western moves go in plain strike words (jab, hook, uppercut, overhead cut, headlock), never HEMA (R77-1), and narration never writes the line, measure, tempo, vector, geometry or the read. Techniques are shouted by their English name as they fire; a move too fast for the eye leaves afterimages (R78-3, R78-5).
+> - **§3.6 and the floor's wound item.** Injuries keep their structure and ATLS class in the notes; narration names parts plainly (jaw, collarbone, ribs). Blood goes up in anime geysers; a fighter shrugs a wound off in the moment and feels it after; every small hit is noted and they add up (R78-3, R78-5).
+> - **§6, the extended floor's measure, tempo and read.** Paid in plain body words: where the bodies are, who moved first, the tell. The abstractions stay in the notes. Fighters may reason through the fight at length, Hunter x Hunter style, from what they have read (R78-5).
+> - **§6.1, readouts inside a fight.** WOTR is no longer full LitRPG with screens: readouts come only at a breakthrough, a re-assay that moves something or an arc's end, never inside a fight. Sensing and talking about another's strength stays open (R78-6).
+> - **§6.2, Pressure and the display beat.** R9-3 is superseded: each practitioner's aura shows in their own colour (Family hue at their Stage's clarity, *The Color of Essence*) and may glow, brighter as they push; a power-up is a full transformation the room can see; every technique has its own sound (R78-6). Release forms: `imports/drafts/release-forms/release-forms.md` (draft).
+> - **§6.3, inside the duel.** Flashbacks run freely mid-fight, the opponent's included (R70-103 superseded by R78-5). Shouted technique names and battle cries do not count as the scene's one crafted speech. Fighters talk in the pauses and go quiet while the blades move. Big power draws reactions from named people with their own words and body, beside the crowd's chorus (R78-8).
+> - **Throughout.** WOTR is a dark shonen cultivation fantasy, not grimdark: protagonists win often, at a price (R78-4).
+
 # Changelog: 2026-10-03 Edition
 
 *2026-10-03 edition: folds the Style Law (R70, RULINGS.md 2026-10-03 style-law-2026-10-03).*

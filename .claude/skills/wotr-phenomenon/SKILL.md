@@ -54,9 +54,10 @@ the Counterplay route the physics hands an opponent. See `wotr-write/references/
 
 
 Never invent a number for a metaphysical quantity. Real-world figures are
-fine (Joules, m/s, degrees) and legal in any diagnostic voice. The physics
-never reaches narration on its own authority; it reaches the page through a
-mouth, an instrument, a document, or the POV's read capped at his competence.
+fine (Joules, m/s, degrees) and legal in any diagnostic voice. Narration
+shows the physical effect first, then may name it in system and science terms
+(R78-3); a mouth, an instrument or a document may explain it, and the POV's
+read stays capped at his competence.
 The elevated Hermetic vocabulary (correspondence, sympathy, essence and
 accident, recognition and refusal) belongs to the Attraction-side read and
 the document voice, not to this brief.

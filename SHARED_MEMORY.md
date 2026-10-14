@@ -33,7 +33,8 @@ Isaac's decisions: (1) vocabulary is pushed high, and his 2026-10-11 direction i
 now live in the index as R78-1-VOCABULARY_PUSHED_HIGH (it had stayed out of
 `rules/`, so `load_rules` served R51-13's "by ear"). Before drafting, read
 `desktop/style-bank/elevated-words.md`, the widened elevated bank: glossed by
-sense domain, each word once a scene, never stacked, the POV's reach governing.
+sense domain; since 2026-10-14 (R78-3) saturated, stackable, English of every
+root, no word twice on a page, the POV's reach choosing which words.
 (2) He retracted the 1900 limit on scientific ideas: R78-2-MODERN_SCIENCE_IDEAS.
 Modern science may explain workings and fights and drive magical research; it is
 known through the Aether by high-Stage practitioners, Measurewrights and

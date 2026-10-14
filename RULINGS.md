@@ -2989,3 +2989,25 @@ C-152: "Turn" has two senses told apart by qualifier: the combat turn is six sec
 C-153: Alchemetrica's figures stand as WOTR doctrine (Isaac's AL2: "The Bed stays everywhere"); The Real Alchemy's divergence notes stand as the record of where WOTR departs from the real bench, and its stale "weeks" wording is brought to turns.
 
 Context: Drafted by a read-only research agent per conflict, checked by Natalie in Claude Code before logging.
+
+## 2026-10-13 — C-115, C-116, C-117, C-122, C-123, C-124, C-157
+
+Agent rulings (Natalie, 2026-10-13, under the canon precedence ladder; Isaac may overturn any of them).
+
+C-115: Part Seven governs. Without Body Path at Stage V the rebound-recovery component of Overchannel is capped at B, so Malphas's Ardency Conversion reads 275, B-Grade (the lower of his 440 Overchannel and B's ceiling), on the living and lich blocks; Overchannel stays 440 (S); the frozen gap widens to six Grades. Grounds: R57-29 (Isaac, a Path gate caps only the component it names), Part Seven, the Part Four table.
+
+C-116: R38-2 governs and the lich block is recosted: Stage XIV, Level 475, Band V, Tier 8 stand; Pool 18,900 (8,400 levelling: 1,200 + 1,500 + 1,800 + 2,100 + 75 × 24; plus 10,500 Thresholds I to XIV). With no refund rule in Part Three, the 51 non-Peak Sub-Stats keep their living figures (6,575), leaving 12,325 for the twelve Peaks against 15,324 booked; the 2,999 cut is placed when the card is rebuilt in the same pass that re-derives Grades, applies Part Seven gates and uses the merged Sub-Stat names.
+
+C-117: Parts One and Twenty-Three govern: The Sixteen Stages' per-Stage Level spans are typical, and only Part One's Band gates are hard (IV before 100, VII before 200, X before 300, XII before 400). Hae-ryu at Stage X, Level 355 (Isaac, 2026-09-12) and living Malphas at Stage X, Level 350 are lawful; the page gains that sentence. Grounds: rung 1, R44-5, rung 2 over rung 4.
+
+C-122: Part Four governs: a Hollow strike is below 60 J and F is 60 to 300 J, as the living pages say. The 40 to 300 J Hollow cell in the source physical table and the workbook's Physical Benchmarks sheet is a row set one Grade off and gives way to Part Four. Sources and workbook are not edited.
+
+C-123: The Class Ø cap governs: grain never prints above Hollow and stands at most at 10 in its one Sub-Stat, ungraded. It beats anyone lower in Hollow in that Sub-Stat whatever their Stage and loses to F or above. The Trait System page's line reads "will outperform a practitioner three Stages above him who never spent a point on the cold".
+
+C-124: Already ruled by Isaac on 2026-10-04 (R71-41-PRESSURE_UNWOKEN: the unwoken take Part Eleven's Aura table by Grade). Closed.
+
+C-157: R38-2 governs; the Apprentice's Primer, being a current printing, carries the current allotment: nine thousand from levelling, near eighteen thousand one hundred across sixty-three Sub-Stats (Throne excluded), and its example becomes about three thousand five hundred points, fifty-six a Sub-Stat, low D-Grade.
+
+New rows filed from this pass: Malphas's living Depth 725 (SS) with no Attraction Path and Hardening 330 (A) with no Body Path sit against Part Seven's gates; recorded in CONFLICTS.md for the C-116 rebuild.
+
+Context: Drafted by a read-only research agent per conflict, checked by Natalie in Claude Code before logging.

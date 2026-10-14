@@ -42,7 +42,7 @@ Xanelor watched Hiromi drop into a seat three rows ahead, lean back, and put his
 
 *The Paragon of Dominion.*
 
-Kwon Mu-jin stood at the front of the chamber, chalk in hand, writing on the broad slate board in careful script. Tall, lean, dark-haired, with the Mahuo bone structure and his right eye covered by a cloth binding tied at the back. Not a patch. A deliberate concealment.
+Kwon Mu-jin stood at the front of the chamber, chalk in hand, writing on the broad slate board in careful script. Tall, lean, white-blond, with the Mahuo bone structure and his right eye covered by a cloth binding tied at the back. Not a patch. A deliberate concealment.
 
 Xanelor had noticed the binding his first lesson. He had wanted to ask about it the way he wanted to ask about the arrow in Drogo's shell, and he had not asked for the same reason. Some wounds were not questions. They were doors, and you did not open a door unless you were prepared for what stood behind it.
 

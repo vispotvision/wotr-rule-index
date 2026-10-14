@@ -4657,7 +4657,7 @@ He had stopped trying to lift it in the second week. Geuk-hon had told him to st
 
 He had counted.
 
-The orchard came up on his left, thirty-one trees, eleven of them down at the root since the summer and none of them cleared, because nobody at the school had been willing to be the one who cleared them. The wall that had stood since before the family kept a ledger was still open at the place where a live pine had gone through it end over end.
+The orchard came up on his left, thirty-one trees, eleven of them down at the root since the autumn and none of them cleared, because nobody at the school had been willing to be the one who cleared them. The wall that had stood since before the family kept a ledger was still open at the place where a live pine had gone through it end over end.
 
 Raga came out from under the trees.
 
@@ -4781,7 +4781,7 @@ The shaking came down over about six seconds, as a bell comes down, and the grou
 
 Kaalabad started laughing.
 
-"HAHAA." It went off the drop on the right and came back. "There you are. THERE you are. I put a spike through your bear's eye and took your arm off at the shoulder without touching it and you stood in an orchard and cried, and I have wondered all summer what it would take, and it was a stranger. A stranger on a ditch bank."
+"HAHAA." It went off the drop on the right and came back. "There you are. THERE you are. I put a spike through your bear's eye and took your arm off at the shoulder without touching it and you stood in an orchard and cried, and I have wondered all autumn what it would take, and it was a stranger. A stranger on a ditch bank."
 
 He set the shaft.
 

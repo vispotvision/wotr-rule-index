@@ -22,7 +22,7 @@ A frontier that became a kingdom because its gate posts were failing and one peo
 
 **Senses:**
 - *Smells:* cedar and limestone; sap weeping from new wall boards; ink off an inscription roll; the mineral weight of a Wellspring-saturated valley; broth steam over root vegetables; dried fish; boreal forest after rain.
-- *Sounds:* a mallet on a practice stone, and the stroke that lands late; a carver tapping a footing and listening; a Thread-Reading from the standing-stone gate; a courier's horse on a warded track; lake water on a fishing boat's hull; a Rimward tavern arguing about the Holy Sea.
+- *Sounds:* a mallet on a practice stone, and the stroke that lands late; a carver tapping a footing and listening; a Thread-Reading from the standing-stone gate; a courier's horse on a warded track; lake water on a fishing boat's hull; a tavern at Nalūn's Rimward arguing about the Holy Sea.
 - *Colours:* raw timber, pale and wet; grey limestone ridges; the brown of birch bark; ward-cut glyphs the colour of the stone they are cut in, since a Ketsuen ward shows nothing; chain-lakes in glacial scars.
 - *Textures:* sticky sap on a beam; a glyph groove under the thumb; a braided-leather cord; cold stone at the gate worn smooth by centuries; wet cedar bark.
 - *Tastes:* the broth that tastes of the kingdom; dumplings; lake fish; Upland herbs, bitter; well water from a warded stone, flat and clean.

@@ -737,7 +737,7 @@ He sat on a cart horse in the rain with his eyes shut and let the world be audib
 
 Three days later Deacon Ilse Barrow came through the door of his working chamber at the hour she always came through it, which was the hour before the Curia sat, and she came in with a wet cloak over one arm and no announcement and a docket board under the other, and she did not sit.
 
-The chamber smelled of lamp oil and old paper and the specific damp-plaster cold of a room on the seaward face of a stone building in the second week of a wet autumn. Rain on the shutters. A gull outside, the first in twenty-two days, and neither of them had said anything about that.
+The chamber smelled of lamp oil and old paper and the specific damp-plaster cold of a room on the seaward face of a stone building in the first week of a wet autumn. Rain on the shutters. A gull outside, the first in twenty-two days, and neither of them had said anything about that.
 
 "We have visitors entering at the Rimward," Barrow said. "Zettari, under the Sovereign, with wounded. The gate wardens have them at four hours out. Harbour Health wants to quarantine."
 

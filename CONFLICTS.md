@@ -1521,7 +1521,7 @@ the author notes."
 **Quotes:** WOTR_Vaeloris_Sequence: "Three weeks since Vaeloris had stopped being a place. Late summer, warm days" · WOTR_Vaeloris_Sequence: "in the second week of a wet autumn" · WOTR_Vaeloris_Sequence: "The sea was the colour it went in the first week of autumn" · Ara Min Mahuo: "After Vaeloris she was aboard the Sovereign's ship, recovering. At the Rimward house" · Kwon Mu-jin: "Kaalabad came to Sum-gol in the summer." · 10_mujin_the_name_of_your_killer: "I have wondered all summer what it would take" · 03_wren_three_deliveries: "The snow at Sum-gol was eleven days old" · 03_wren_three_deliveries: "It had been hanging for six weeks." · 03_wren_three_deliveries: "eleven of them down at the root since the summer" · kaalabad_star_crusher: "eight feet of frozen earth" · kaalabad_star_crusher: "somebody's winter cabbage" · CONTINUITY: "day eleven crowded (Word Under the Hammer, House of Abscene, Sesk's Report, the Petition)" · CONTINUITY: "Above Sum-gol. Mid-morning, after the petition" · CONTINUITY: "day fourteen running from the cellar through the precinct into the Kharven battle"
 **Consequence if unresolved:** Volume III, which tells 701 from Urbis and has to place the Sum-gol losses, Vaeloris, Rimward, the orchard, the bedside (C-131) and the Ashgate road, cannot put them in one order, or say how long the right arm hung before the road, without breaking a card, a scene or the Altherion clock.
 **Recommendation:** none.
-**Status:** open The published Volume III (RULINGS "alftian-vol3-2026-09-28") tells the orchard after Rimward and gives the orchard no season.
+**Status:** ruled 2026-10-13, agent ruling (RULINGS.md, 2026-10-13 — C-129 to C-134); Isaac may overturn. Application list: imports/drafts/conflict-rulings-2026-10-13/apply.md The published Volume III (RULINGS "alftian-vol3-2026-09-28") tells the orchard after Rimward and gives the orchard no season.
 
 ## C-130 — The Vaeloris Sequence opens on Darius's death and CONTINUITY sets it about a week after the Kharven battle; its Sovereign of the Zettari is alive at the Rimward, though the Sovereign dies at Kharven in that battle, and Part 20 has the four cabin meetings already past before it
 
@@ -1530,7 +1530,7 @@ the author notes."
 **Quotes:** WOTR_Vaeloris_Sequence: "Darius is dead." · CONTINUITY: "Vaeloris Sequence is roughly a week after the battle" · WOTR_Vaeloris_Sequence: "Zettari, under the Sovereign, with wounded." · WOTR_Vaeloris_Sequence: "The four exchanges with the Sovereign of the Zettari." · Ara Min Mahuo: "At Kharven he stepped in front of Kujo's shot to cover the boy." · the_true_king_of_the_north_part_20: "Dawn Guard stood outside upon the upper deck" · the_true_king_of_the_north_part_20: "You have already sat with the Sovereign. Four times, in a cabin, at his invitation." · WOTR_Vaeloris_Sequence: "Three weeks since Vaeloris had stopped being a place. Late summer" · 03_wren_three_deliveries: "The snow at Sum-gol was eleven days old"
 **Consequence if unresolved:** Volume III cannot say whether Rimward, where Mu-jin loses the eye and is carried into a Zettari field hospital, came before or after the Ashgate road, so it cannot order its last chapters or set the Sovereign's part in the Accord and Ara's betrothal against the wall.
 **Recommendation:** none.
-**Status:** open The published Volume III puts Rimward before Kharven: "She had come to the Rimward house with the Sovereign's dressers after the Seat fell" and "The Sovereign died at Kharven on the day of the road".
+**Status:** ruled 2026-10-13, agent ruling (RULINGS.md, 2026-10-13 — C-129 to C-134); Isaac may overturn. Application list: imports/drafts/conflict-rulings-2026-10-13/apply.md The published Volume III puts Rimward before Kharven: "She had come to the Rimward house with the Sovereign's dressers after the Seat fell" and "The Sovereign died at Kharven on the day of the road".
 
 ## C-131 — Frithia's bedside: the file header puts it at the teaching house at Sum-gol and the Alabaster Court, Part 20 gives it no place after the Sovereign's ship, and its own details fit both Sum-gol after the orchard and the Rimward house after the wall
 
@@ -1539,7 +1539,7 @@ the author notes."
 **Quotes:** wotr_the_warrior_nurse: "*The teaching house at Sum-gol · The Alabaster Court*" · the_true_king_of_the_north_part_20: "Mu-Jin, Ara, Haruki, and Asante each required their own forms of recovery" · wotr_the_warrior_nurse: "carried salt off the gulf and the resinous smell of the pines below the terrace" · wotr_the_warrior_nurse: "forty young voices, badly synchronised" · kaalabad_star_crusher: "A teaching house at the high end with a terraced yard cut into the slope and forty small figures standing on it in ranks." · wotr_the_warrior_nurse: "a room that has had a sick man in it for four days" · 03_wren_three_deliveries: "the physician at the school had spent four days on it" · wotr_the_warrior_nurse: "Eighty-eight. Down from a hundred and twelve when they brought him in." · wotr_the_warrior_nurse: "You put yourself between a thing and forty people who were not worth what you spent" · WOTR_Vaeloris_Sequence: "Sitting up, at rest, nine days out, in a cold room." · WOTR_Vaeloris_Sequence: "There are forty people in this hall" · wotr_the_warrior_nurse: "He had saved her life at Rimward." · CONTINUITY: "The Warrior Nurse's Sum-gol half reads six weeks earlier than its Alabaster half; the file does not reconcile them." · RULINGS: "The kiss Frithia takes at Mu-jin's bedside in 701 IC, telling him she will never tell him, is her way back to him after refusing him."
 **Consequence if unresolved:** Volume III, which has to carry the weeks around the bedside, cannot say whose house Frithia was in when she took the kiss, how long after Rimward it was, or whether the Sum-gol school or a Zettari field hospital stood around the bed.
 **Recommendation:** none.
-**Status:** open The published Volume III sets the bedside at Sum-gol after the orchard: "forty voices were running the long count on the terrace".
+**Status:** ruled 2026-10-13, agent ruling (RULINGS.md, 2026-10-13 — C-129 to C-134); Isaac may overturn. Application list: imports/drafts/conflict-rulings-2026-10-13/apply.md The published Volume III sets the bedside at Sum-gol after the orchard: "forty voices were running the long count on the terrace".
 
 ## C-132 — Mu-jin's eyes after Rimward: the right is lost at the wall, yet the bedside after Rimward shows none of it, the road speaks of both eyes, and in 715 the Arena gives him two dark eyes and no binding while the Academy binds the right; the Arena's hair is white-blond, the Academy's dark
 
@@ -1548,7 +1548,7 @@ the author notes."
 **Quotes:** Kwon Mu-jin: "He lost his right eye at Rimward" · WOTR_Vaeloris_Sequence: "The right side of the world was gone." · WOTR_Vaeloris_Sequence: "found linen over the eye" · wotr_the_warrior_nurse: "Grey under the eyes so deep it looked like a bruise." · wotr_the_warrior_nurse: "He had saved her life at Rimward." · 10_mujin_the_name_of_your_killer: "The left one. It had been an ordinary brown eye six weeks ago" · 11_mujin_second_law_held_open: "out of the sockets of both eyes" · 12_mujin_open_crucible: "The eye goes entirely white from lid to lid" · mujins_interjection_aetherion_arena: "His hair is white-blond, the colour it was in court." · mujins_interjection_aetherion_arena: "His eyes are dark and steady" · xanelor_the_morning_of_the_first_bell: "Tall, lean, dark-haired, with the Mahuo bone structure and his right eye covered by a cloth binding tied at the back." · Kwon Mu-jin: "a cloth binding over the right eye" · Kwon Mu-jin: "White-blond hair"
 **Consequence if unresolved:** Volume III, written after both the wall and the road, cannot say what he sees with; the Papers, which follow the card on the Urbis stair (the left eye white behind the lens, the right bound), stand against the bedside and the Arena; and the Academy and Arena scenes disagree on what a pupil sees across the room.
 **Recommendation:** none.
-**Status:** open
+**Status:** ruled 2026-10-13, agent ruling (RULINGS.md, 2026-10-13 — C-129 to C-134); Isaac may overturn. Application list: imports/drafts/conflict-rulings-2026-10-13/apply.md
 
 ## C-133 — Two places are called Rimward: Nalūn's eastern frontier chain-city, founded about 140 years ago, and the Holy Sea of Alabaster's harbour, with its gate, its boom, its four-century wool store and its marches, where Mu-jin is carried after the wall
 
@@ -1557,7 +1557,7 @@ the author notes."
 **Quotes:** The Kingdom of Nalūn — The Chain-Cities: "| **Rimward** *the eastern frontier* | Newest and most vulnerable, founded ~140 years ago to service corridor trade." · The Kingdom of Nalūn — The Chain-Cities: "| **The Eastern Reach** *Rimward* | Frontier." · Natsume Kurogiku · The Knot-Shearer: "Natsume Kurogiku was born at Rimward, the eastern frontier city of Nalūn" · WOTR_Vaeloris_Sequence: "We have visitors entering at the Rimward" · WOTR_Vaeloris_Sequence: "The Rimward house had been a wool store before it had been a quarantine house" · WOTR_Vaeloris_Sequence: "four centuries of scrubbing had not shifted" · WOTR_Vaeloris_Sequence: "The Zettari ships lay inside the boom at the Rimward" · WOTR_Vaeloris_Sequence: "the whole of the Rimward shallows lay white to the depth of a man's arm" · WOTR_Vaeloris_Sequence: "The culling is at the Rimward marches." · Ara Min Mahuo: "At the Rimward house, a Zettari field hospital in a wool store" · Kwon Mu-jin: "At Rimward a wall of dressed stone came down toward a boy of eleven." · The Sovereign Enclave of Ketsuen — The Crow's Reach: "tavern arguments in Rimward province" · desktop/inventories/ketsuen.md: "a Rimward tavern arguing about the Holy Sea"
 **Consequence if unresolved:** Volume III opens on Rimward (MJ12) and the Necrocursica's sealed edition leans on its account of the wall; neither can say where the wall stood, or under whose quarantine he lay nine days, without choosing between Nalūn's frontier city and the Holy Sea's harbour.
 **Recommendation:** none.
-**Status:** open
+**Status:** ruled 2026-10-13, agent ruling (RULINGS.md, 2026-10-13 — C-129 to C-134); Isaac may overturn. Application list: imports/drafts/conflict-rulings-2026-10-13/apply.md
 
 ## C-134 — Three places are called Vaeloris: Ketsuen's Carver's Seat, a stone-built research seat of about ten thousand, where the Frithia ruling sets the Legion night and which it says Kujo destroys; the Vaeloris Kujo emptied in the Sequence, one street and 741 souls on a parish roll of the Alabaster Court; and Kharven's Vaeloris quarter
 
@@ -1566,7 +1566,7 @@ the author notes."
 **Quotes:** The Sovereign Enclave of Ketsuen — The Crow's Reach: "A geothermal basin fed by a vent that has been enriching the soil for centuries. Built in quarried stone rather than timber" · The Sovereign Enclave of Ketsuen — The Crow's Reach: "The kingdom's research arm" · The Sovereign Enclave of Ketsuen — The Crow's Reach: "before it can be exterior* | ~10,000 |" · The Gate Who May Learn Magic: "Vaeloris, the Carver's Seat of Ketsuen" · Dhaerin Valorin · The Scholar of Vaeloris: "He left the academy in his nephew's hands" · RULINGS: "The Legion night was at the Carver's Seat of Vaeloris, the Valorin house's research academy in Ketsuen, which Kujo destroys in the late summer of 701 IC." · WOTR_Vaeloris_Sequence: "Perhaps four hundred structures once, arranged along a single street that followed the contour" · WOTR_Vaeloris_Sequence: "Roof timbers in place." · WOTR_Vaeloris_Sequence: "The parish roll of Vaeloris, entered at the Alabaster Court" · WOTR_Vaeloris_Sequence: "gave the settled population of the village as seven hundred and forty-one souls" · Verinus VII · The Palatine: "The parish deacon there had asked the Court for a chapter detachment, a Sealwright and forty men." · Rengai Zettari: "they kept a house in a village near Vaeloris" · Niran Yukari: "He woke under the Vaeloris village" · 14_darius_two_men_who_would_not_take_the_seat: "*Kharven. The Vaeloris quarter. The tenth hour.*" · Edward Lambert — The Arithmetic: "she was killed in a courtyard at Vaeloris" · Lu Sanjing: "Vaeloris, which had reformed after the void took it"
 **Consequence if unresolved:** Volume III tells the Legion night at the Carver's Seat and its fall two years on; it cannot describe the place Frithia watched him in (a stone research seat of ten thousand or a one-street parish), say whose ground it was (Ketsuen's, the Valorin house's, or a parish of the Holy Sea's Court), or write "Vaeloris" without a reader taking it for Kharven's quarter, until the places are sorted.
 **Recommendation:** none.
-**Status:** open The published Volume III measures the Zettari camp from the Carver's Seat ("east of Vaeloris, two ridges over") and reads the fall "on the basin's rim".
+**Status:** ruled 2026-10-13, agent ruling (RULINGS.md, 2026-10-13 — C-129 to C-134); Isaac may overturn. Application list: imports/drafts/conflict-rulings-2026-10-13/apply.md The published Volume III measures the Zettari camp from the Carver's Seat ("east of Vaeloris, two ridges over") and reads the fall "on the basin's rim".
 
 ## C-135 — Volume III has the Division enter Mu-jin as a Registered Natural with no academy credential after the Legion night; his card calls him of the Mahuo summoning lineage, formally trained
 
@@ -1584,7 +1584,7 @@ the author notes."
 **Quotes:** The Four Crafts: "Spellcraft, Runecraft and Chantcraft all require a Soul Crystal. **Draftcraft requires one only at the moment of manufacture.**" · Alchemetrica: "The Law of Alchemical Independence: alchemy requires no Soul Crystal, but remains bound to glyphs and vessels." · Alchemetrica: "A Crystal that never woke, **and works anyway.**" · R61-102: "Pure alchemists hold Tiers of Standing up to Five (Expert) by bench certification, and that Tier caps what they make." · The Farrant Papers: "certificate hangs framed by the door: bench-certified, pure alchemy."
 **Consequence if unresolved:** A card or a scene cannot say whether a Class Ø maker's work is Draftcraft under The Four Crafts, and so whether a pure alchemist's lot is a lawful Draft at all.
 **Recommendation:** none.
-**Status:** open
+**Status:** ruled 2026-10-13, agent ruling (RULINGS.md, 2026-10-13 — C-136 to C-144); Isaac may overturn. Application list: imports/drafts/conflict-rulings-2026-10-13/apply.md
 
 ## C-137 — Alchemetrica says heat has never had an instrument and reads it in degrees off the flame; R53-01 and the calendar ruling put the whole 1800s-to-mid-1900s span, thermometers included, twenty-five years into the Imperial Age
 
@@ -1593,7 +1593,7 @@ the author notes."
 **Quotes:** Alchemetrica: "There is no instrument. There has never been an instrument." · Alchemetrica: "heat is a craft skill" · Alchemetrica: "a master will name a temperature off the colour to within a hundred degrees and be right" · R53-01: "The Imperial Age runs from the 1800s into the middle of the 1900s, and the technology of that whole span exists across it" · R63-2: "The Imperial Age began in Year 690 IC. Its technology span (R53-01), rail included, begins then; the present, Year 715 IC, is its twenty-fifth year."
 **Consequence if unresolved:** A bench scene in 715 IC cannot say whether a house owns a thermometer, and the Bench's reason for requiring a reference lot rests on a lack the age may not have.
 **Recommendation:** none.
-**Status:** open
+**Status:** ruled 2026-10-13, agent ruling (RULINGS.md, 2026-10-13 — C-136 to C-144); Isaac may overturn. Application list: imports/drafts/conflict-rulings-2026-10-13/apply.md
 
 ## C-138 — Where the Whitening falls against the Wedding: the Work puts Conjunction fourth and Distillation sixth, GW2 counts a stage where it completes, and GW4, Volume I and Volume II whiten a spagyric charge before its Wedding
 
@@ -1602,7 +1602,7 @@ the author notes."
 **Quotes:** Alchemetrica: "Calcination, Dissolution, Separation, Conjunction, Fermentation, Distillation, Coagulation." · R61-80: "The doctrine counts the stage where it completes, so both orders agree." · R61-81: "Distillation runs as circulation in the Returner (condensate fed back for weeks unopened) and is read as the Whitening." · R61-82: "Separate-Purify-Recombine runs the Parting, Distillation and the Wedding" · Alchemetrica: "The purifying is the Distillation of the Work, read at the Whitening. The recombining is a Wedding." · Alchemetrica: "Circulation in the Returner, unopened; no Turning of its own" · Volume the First: "We read the Whitening by its colour, pale and pearly when the purifying was done." · Volume the First: "I took the lens off for the first Wedding I watched." · Volume the Second: "his separating, his Whitening and his Wedding in their order"
 **Consequence if unresolved:** A spagyric working cannot be counted against the Work's seven, and a scene or Volume III cannot say whether a Whitening before the Wedding is the Work's Distillation completing out of its order.
 **Recommendation:** none.
-**Status:** open
+**Status:** ruled 2026-10-13, agent ruling (RULINGS.md, 2026-10-13 — C-136 to C-144); Isaac may overturn. Application list: imports/drafts/conflict-rulings-2026-10-13/apply.md
 
 ## C-139 — The decisive variable in a Draft: the Magical Categories and The Four Crafts put it in the Essence Core; Alchemetrica names the Attraction Layer
 
@@ -1611,7 +1611,7 @@ the author notes."
 **Quotes:** The Magical Categories: "they're classed Spirit-aligned because the decisive variable is how cleanly the Essence Core's intention survives the journey into the crucible." · The Four Crafts: "A Draft acts on the Essence Core, and a Class Ø soul has a Core like anyone else." · Alchemetrica: "**Attraction Layer** · the decisive variable in advanced work." · R61-103: "Core to Tempering Coherence and Maturity, Shell to Tempering Clarity, Attraction Layer to Harmonics Attunement"
 **Consequence if unresolved:** A Draft's Category alignment, and so where its cost and counter live, turns on which layer decides it, and a sheet cannot say which Sub-Stat governs an advanced Draft.
 **Recommendation:** none.
-**Status:** open
+**Status:** ruled 2026-10-13, agent ruling (RULINGS.md, 2026-10-13 — C-136 to C-144); Isaac may overturn. Application list: imports/drafts/conflict-rulings-2026-10-13/apply.md
 
 ## C-140 — Alchemetrica's glosses for Coagulatio, Transmutatio and Materia Primordia against their Family pages; K5's "the physics register wins" was applied to Sublimatio and Sublimare only
 
@@ -1620,7 +1620,7 @@ the author notes."
 **Quotes:** Alchemetrica: "Binds and makes permanent" · Alchemetrica: "Binding, solidifying, making permanent" · Materia: "**Analogue** · Crystallisation from supersaturated solution. Nucleation and ordered growth." · Materia: "**Failure** · Irreversibility." · Alchemetrica: "Reconfigures identity under catalytic force" · Spatium: "**Analogue** · Change of basis. Coordinate transformation under conservation." · Spatium: "Nothing is created or lost in a transformation" · Alchemetrica: "Crystallises Essence into permanent mineral form" · Materia: "the same Essence, re-latticed" · R61-5: "The physics register wins. Sublimatio is sublimation, Sublimare is distillation."
 **Consequence if unresolved:** A working under any of the three cannot name one real phenomenon and fault from both pages, and a scene's Phenomenon line will disagree with one of the pages it cites.
 **Recommendation:** none.
-**Status:** open
+**Status:** ruled 2026-10-13, agent ruling (RULINGS.md, 2026-10-13 — C-136 to C-144); Isaac may overturn. Application list: imports/drafts/conflict-rulings-2026-10-13/apply.md
 
 ## C-141 — The operations table's glyph chains carry no glyph the Master Glyph Index attests for the Wellspring each row names, and Sublimation's [Ora] is Sublimare's
 
@@ -1629,7 +1629,7 @@ the author notes."
 **Quotes:** Alchemetrica: "*mirrors Coagulatio* · `[Ur] Balance` `[Ma] Recall` `[Th] Foundation`" · Alchemetrica: "*draws on Sublimare* · `[Ie] Perception` `[Ur] Balance` `[Flx] Flux`" · Alchemetrica: "*mirrors Sublimatio* · `[Xr] Excision` `[Vael] Renewal` `[Ora] Truth`" · Master Glyph Index, [Plr]: "Buttresses Domains; stabilizes pressure." · Master Glyph Index, [Ora]: "Exuroth, Hypnather, Judicium, Mirithane, Oblivara, Oneirion, Sublimare, Tenebra, Transmutatio" · fixes.md: "Keep Category One's Ie-Ur-Flx chain as Alchemetrica's forensic Distillation working (:102), bound by R18-5."
 **Consequence if unresolved:** A Coagulation, Distillation or Sublimation written from the page carries a chain the Codex does not pair with its Wellspring, and the Necrocursica's Category One chain rests on one of them.
 **Recommendation:** none.
-**Status:** open
+**Status:** closed 2026-10-13, not a conflict: agent ruling (RULINGS.md, 2026-10-13 — C-136 to C-144); the attested column records, it does not gate.
 
 ## C-142 — A pure alchemist's product: the Tier Ladders cap a made thing at the maker's Grade and Class Ø at Hollow Grade; the Tiered Path and EC3 let a bench Tier up to Expert cap it
 
@@ -1638,7 +1638,7 @@ the author notes."
 **Quotes:** The Tier Ladders: "it is the maker's Grade at the time of making" · Tier Grade: "No output above Hollow Grade is possible" · The Tiered Path: "A bench Tier is certified and never read off the Crystal, and it caps what its holder makes exactly as a tempered Tier does." · R61-102: "Pure alchemists hold Tiers of Standing up to Five (Expert) by bench certification, and that Tier caps what they make." · Alchemetrica: "The Accord certifies both and ranks them on the same Tiered Path"
 **Consequence if unresolved:** A card or an assessor cannot rate a pure alchemist's Draft, seal or worked arms, and the Standing Index cannot say what a bench-certified Expert's lot performs at.
 **Recommendation:** none.
-**Status:** open
+**Status:** ruled 2026-10-13, agent ruling (RULINGS.md, 2026-10-13 — C-136 to C-144); Isaac may overturn. Application list: imports/drafts/conflict-rulings-2026-10-13/apply.md
 
 ## C-143 — Alchemetrica's Mechanica-trained practitioner at Tier Six, Master, has never once been recognised by anything; the Tiered Path has the web vibrate in recognition at every Tier, and Tier Six covers Invocation
 
@@ -1647,7 +1647,7 @@ the author notes."
 **Quotes:** Alchemetrica: "no Wellspring harmonisation at all" · Alchemetrica: "has never once been recognised by anything and will not be when it matters." · The Tiered Path: "the web vibrates in recognition" · The Tiered Path: "| **6 · Master** | S → SS | Transcendence, Invocation, Realization |" · The Tiered Path: "Wellsprings and Titanic law answer them as co-authors rather than sources to be drawn from." · The Tiered Path: "on the work alone, up to Tier Five, Expert, and no higher"
 **Consequence if unresolved:** A card cannot say whether a high-Tier Mechanica practitioner carries any harmonisation, or how the Lattice Ledger recorded a Tier the web did not recognise.
 **Recommendation:** none.
-**Status:** open
+**Status:** ruled 2026-10-13, agent ruling (RULINGS.md, 2026-10-13 — C-136 to C-144); Isaac may overturn. Application list: imports/drafts/conflict-rulings-2026-10-13/apply.md
 
 ## C-144 — "Drafter" and "Journeyman" on three ladders: Alchemetrica's trade rung, The Four Crafts' name for every Draftcraft practitioner, and Tier Three of the Tiered Path
 
@@ -1656,7 +1656,7 @@ the author notes."
 **Quotes:** Alchemetrica: "| **Drafter** | Journeyman. Runs Coagulations alone" · Alchemetrica: "Nine years to Drafter is standard." · The Four Crafts: "the pouring, vessel-work | a Drafter" · The Standing Index: "| **T3** | Journeyman |" · The Tiered Path: "| **3 · Journeyman** | C | Ascension |"
 **Consequence if unresolved:** A card that calls a character a Drafter or a Journeyman cannot say whether it names a trade rung, a craft or a Tier of Standing, and a pure alchemist's rung cannot be read against his bench Tier.
 **Recommendation:** none.
-**Status:** open
+**Status:** ruled 2026-10-13, agent ruling (RULINGS.md, 2026-10-13 — C-136 to C-144); Isaac may overturn. Application list: imports/drafts/conflict-rulings-2026-10-13/apply.md
 
 ## C-145 — Alchemetrica's Scribe's Wash lifts an inscription and leaves the substrate, and engravers correct chains with it; the Alchemical Index says the Wash takes the surrounding work with it
 
@@ -1800,7 +1800,7 @@ the author notes."
 **Quotes:** Part Seven: "Depth requires Attraction Path at Stage IV to exceed B"
 **Consequence if unresolved:** The C-116 rebuild of the lich block cannot place the Peaks until it is known whether the gate caps all of Depth or one component.
 **Recommendation:** none.
-**Status:** open
+**Status:** closed 2026-10-13: already answered by Isaac's R25-1-OBSESSION_SATISFIES_ATTRACTION_GATE (2026-09-12); Depth 725 stands (RULINGS.md, 2026-10-13 — C-160, C-161, C-162).
 
 ## C-161: Malphas's living Hardening stands at 330, A-Grade, with no Body Path; Part Seven holds Hardening at C without Body Path at Stage III
 
@@ -1809,4 +1809,13 @@ the author notes."
 **Quotes:** Part Seven: "Hardening requires Body Path at Stage III to exceed C"
 **Consequence if unresolved:** As C-160: the lich rebuild and the living block's Grades wait on it.
 **Recommendation:** none.
-**Status:** open
+**Status:** ruled 2026-10-13, agent ruling (RULINGS.md, 2026-10-13 — C-160, C-161, C-162): Hardening 330 stands as passive rejection of contamination, which Part Seven leaves open; the active component is held at 175 (top of C) under R57-29. Isaac may overturn.
+
+## C-162: Under the C-129/C-130 order Darius is drawn into Fate about ten weeks before day fourteen; 07_charles has him six weeks in the ash by then
+
+**Rules:** scenes/07_charles (day fourteen) vs the agent rulings C-129 and C-130 (RULINGS.md, 2026-10-13) on Volume III's order
+**The clash:** C-130 sets the Sequence from about three weeks after the Seat fell in late summer 701, with Darius already drawn into the Plane of Fate, and C-129 puts the road in late autumn. 07_charles counts "six weeks" for Darius in the ash by day fourteen. Found while ruling C-129 and C-130.
+**Quotes:** 07_charles: "six weeks"
+**Consequence if unresolved:** A scene cannot say how long Darius has been in the Plane of Fate by the road.
+**Recommendation:** none.
+**Status:** closed 2026-10-13, not a conflict (RULINGS.md, 2026-10-13 — C-160, C-161, C-162): the six weeks count from the ash at Sum-gol, which C-129 sets about six weeks before the road.

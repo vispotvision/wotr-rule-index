@@ -56,3 +56,29 @@ below is the edit that makes canon agree. Tick when applied.
 - [ ] The Apprentice's Primer, Where the points come from: "**fifteen thousand**" → "**nine thousand**"; "near twenty-four thousand one hundred, spread across twenty stats" → "near eighteen thousand one hundred, spread across sixty-three Sub-Stats, Throne excluded"; example → "holds about three thousand five hundred points: fifty-six a Sub-Stat if spread evenly, low D-Grade, and entirely unremarkable." Also line ~193 "Harmonics Fidelity" is a pre-merge Sub-Stat name (C-157)
 - [ ] CONFLICTS.md: C-115, C-116, C-117, C-122, C-123, C-157 ruled 2026-10-13 (agent ruling); C-124 closed, ruled by Isaac 2026-10-04 (R71-41)
 - C-122: no page edits (sources and workbook untouched).
+
+## Alchemy batch two (C-136 to C-144)
+
+- [x] Notion replacements applied by build/notion_edit.py (report reports/notion_replace_2026-10-13.md): The Four Crafts (C-136), Alchemetrica Heat (C-137), Attraction Layer (C-139), the six-Wellspring glosses and Coagulation cell (C-140), Mechanica (C-143), Drafter row (C-144), Tier Grade Class Ø row (C-142)
+- [ ] The Four Crafts: cut the two duplicate copies of "He also gets no melt…" and "The Accord has no category for this…" (C-136)
+- [ ] The Real Alchemy, Instruments "In WOTR." paragraph → "In WOTR these instruments exist from 690 IC with the rest of the age's hardware (R53-01, R63-2), the span running from the 1800s into the middle of the 1900s. Alchemetrica reads them as tools of the bed and the furnace that never reach the charge inside a sealed vessel, so heat at the charge stays a craft skill." (C-137)
+- [ ] Alchemetrica, The Tria Prima, after "The recombining is a Wedding.": add "The Work's order is kept charge by charge: each principle whitens in its own vessel, where no Wedding can fall, and the Wedding is the Conjunction of the joined medicine." (C-138)
+- [ ] Alchemetrica, The Four Operations, after the italic lead: add "The chains are the Bench's common role chains; the Wellspring a row names is the current the working runs on, not a pairing its glyphs must carry." (C-141)
+- [ ] The Tiered Path, after the carve-out sentence: add "For a pure alchemist the bench Tier stands in for the maker's Grade the Tier Ladders read; work he makes to stand is capped also by the Grade of the Crystal-bearer whose seal it goes out under." (C-142)
+- [ ] rules notes: R61-100, R61-102 (C-136, C-142), R53-01 (C-137), R61-80, R61-82 (C-138), R61-103 (C-139), R18-5 (C-140)
+
+## Timeline batch (C-129 to C-134)
+
+- [x] Repo: 10_mujin and commencement "wondered all autumn"; 03_wren and commencement "since the autumn"; Vaeloris Sequence "first week of a wet autumn"; Part 20 bedside place line; Warrior Nurse and Part 20 right-eye linen; Mujin's Interjection binding and notes; Xanelor white-blond; Ketsuen inventory Nalūn's Rimward
+- [ ] OWED, files carry another session's uncommitted edits: scenes/kaalabad_star_crusher.md and the copy in scenes/the_house_of_abscene_kujo_arc.md ("the first item on the list he had recited in that black chamber" → "the first item on his list"; dateline → "*Above Sum-gol. Mid-morning, about six weeks before the Ashgate road.*"; "frozen earth" → "earth" ×3) (C-129); scenes/CONTINUITY.md: Star Crusher out of the Altherion list with the six-weeks note (C-129), Vaeloris Sequence moved before Part 20 with the C-130 note, the Warrior Nurse line per C-131
+- [ ] scenes/TIMELINE.md (generated): row 72 after the Sequence and before Part 20; row 106 before row 52 (C-129, C-130)
+- [ ] Notion, Kwon Mu-jin Lore: "in the summer" → "in the autumn" (C-129); "At Rimward a wall of dressed stone" → "At Rimward, the Holy Sea's harbour, a wall of dressed stone" (C-133)
+- [ ] Notion, The Kingdom of Nalūn — The Chain-Cities, Rimward row: append "Not the Holy Sea of Alabaster's harbour of the same name." (C-133)
+- [ ] Notion, Edward Lambert — The Arithmetic: "killed in a courtyard at Vaeloris" → "killed in a courtyard in the Vaeloris quarter of Kharven"; "The parish book at Vaeloris" → "The parish book of the Vaeloris quarter" (C-134)
+- [ ] Notion, Lu Sanjing: "Beside it he set Vaeloris, which" → "Beside it he set Vaeloris in Ketsuen, which" (C-134)
+- [ ] Notion Scene Archive copies of the edited scenes (sync pushes repo scenes up)
+
+## C-160 to C-162
+
+- [ ] Malphas · Ferment of Stars, §IV beside the Conversion callout: "Hardening runs at 330 as passive rejection of contamination, which no Path gates; its active part is held at 175, the top of C, for want of Body Path at Stage III." Carry into the C-116 lich rebuild (C-161)
+- C-160 and C-162: no edits.

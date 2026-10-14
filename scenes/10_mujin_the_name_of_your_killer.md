@@ -116,7 +116,7 @@ The shaking came down over about six seconds, as a bell comes down, and the grou
 
 Kaalabad started laughing.
 
-"HAHAA." It went off the drop on the right and came back. "There you are. THERE you are. I put a spike through your bear's eye and took your arm off at the shoulder without touching it and you stood in an orchard and cried, and I have wondered all summer what it would take, and it was a stranger. A stranger on a ditch bank."
+"HAHAA." It went off the drop on the right and came back. "There you are. THERE you are. I put a spike through your bear's eye and took your arm off at the shoulder without touching it and you stood in an orchard and cried, and I have wondered all autumn what it would take, and it was a stranger. A stranger on a ditch bank."
 
 He set the shaft.
 

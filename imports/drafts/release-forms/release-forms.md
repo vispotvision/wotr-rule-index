@@ -1,6 +1,6 @@
 # Release Forms: a design draft
 
-Drafted 2026-10-14 in Claude Code at Isaac's request, to fill the system R78-6 owes:
+Drafted 2026-10-14 in Claude Code at Isaac's request; questions 1 to 4 answered by Isaac the same day (`answers.json`, folded in below), to fill the system R78-6 owes:
 "Many practitioners have named, staged release forms tied to the system, each with a
 name, a look and a cost." Not canon until Isaac says so. Every figure below is either
 quoted from the wiki's Magic System pages (cited) or marked **(design)**, meaning a
@@ -45,12 +45,23 @@ then **Wellspring** at the Third (the current co-authors the law).
 - **Who:** any practitioner with an Awakened Crystal and an armed Primary Trait. Class Ø
   bearers carry Traits but cannot release them; the Crystal must be open to arm one
   (*The Trait System* §III).
-- **How many:** three released stages, then a passive one. Each must be earned; a gate
-  only makes the next one possible.
+- **How many (Isaac, 2026-10-14):** it varies by person, and the card sets it. Some
+  carry one release, some two, some three, and a rare few more. Each must be earned;
+  a gate only makes the next one possible, and the gates below are the earliest Stage
+  for each in order. **(design)** A release past the Third opens no earlier than
+  Stage XI.
+- **What they are called (Isaac, 2026-10-14):** the system says *First, Second, Third
+  Release*; every culture also has its own street word for each, the way the Stages
+  carry folk names. Each culture's words are entered in its Standing Inventory the
+  first time play needs them.
+- **Bloodlines (agent call, Isaac may overturn):** a bloodline faculty (the Moto read,
+  for one) releases too, but by the bloodline's own law and stages, not this ladder;
+  each house keeps its stages as a family secret, and they are written on the
+  bloodline's page, not here.
 
 | Release | Earliest Stage | Why there (canon) |
 |---|---|---|
-| **First Release** | IV · Flourishing | "Their power looks like them"; the Signature is readable at distance (*Sixteen Stages*, IV; *Color of Essence*, IV). The Trait has a settled shape to release into. |
+| **First Release** | IV · Flourishing (Isaac, 2026-10-14) | "Their power looks like them"; the Signature is readable at distance (*Sixteen Stages*, IV; *Color of Essence*, IV). The Trait has a settled shape to release into. |
 | **Second Release** | VII · Refraction | "The Threshold at which Traits externalise", and the first Domain seed (*The Trait System* §VIII; *Tier Grade*, Domains). The released Trait claims ground. |
 | **Third Release** | IX · Invocation | The Wellspring answers as co-author and a second hue enters the field (*Sixteen Stages*, IX; *Color of Essence*, IX). The released Trait becomes shared law. |
 | *Standing release* | XI · Dissonance | "Traits become local physics"; Domain effects leak without upkeep (*Tier Grade*, Domains). The First Release no longer needs calling: it is how they are. |
@@ -180,14 +191,19 @@ since no card is attached.
 - **R71-41, R70-69** (Pressure). A release raises the practitioner's Pressure in the
   room by the same flare; the ladder is unchanged.
 
-## 9. Open questions for Isaac
+## 9. Answered, and still open
 
-1. Is the First Release gate right at Stage IV (Flourishing), or should it open at
-   Stage III, when the Essence first carries the practitioner's own tint?
-2. Three released stages plus a standing one, or should some people have more?
-3. Should the stages carry a folk name in each culture (the way Stages do), or stay
-   "First, Second, Third Release"?
-4. Do bloodline faculties (the Moto read, for one) get release forms of their own, or
-   only Traits?
-5. The reserve multipliers (one, two, four times the full output rate) are set here
-   for the first time. Keep, or tie them to each card?
+Answered by Isaac, 2026-10-14: the First Release opens at Stage IV; the number of
+releases varies by person and the card sets it; plain system names plus each
+culture's folk names. Bloodlines: no preference given, so the agent call above.
+
+Still open (the second batch was set aside):
+
+1. The reserve multipliers (one, two, four times the full output rate) are set here
+   for the first time. Keep as a default the card can bend, fix them, or price every
+   card on its own?
+2. Must a release's look follow the Family's physics, or may it be a free anime
+   design?
+3. Do releases grow with the person, stay fixed once earned, or break and re-form?
+4. Is the release always shouted, or may masters whisper it, or release silently at
+   a high Stage?

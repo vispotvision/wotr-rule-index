@@ -1179,5 +1179,10 @@
     "page_id": "3f958200-eb22-81e4-ad74-d250dbcf5e14",
     "title": "The Black Tortoise",
     "hash": "de65e4991742a755"
+  },
+  "scenes/the_shape_of_the_room.md": {
+    "page_id": "3f958200-eb22-815e-86f8-c21ff054000a",
+    "title": "The Shape of the Room",
+    "hash": "6e33e7bd2cbb605f"
   }
 }

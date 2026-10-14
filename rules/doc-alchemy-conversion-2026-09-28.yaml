@@ -2150,7 +2150,9 @@ rules:
   source:
     file: ''
     lines: null
-  notes: Alchemetrica's concordance table; nothing reordered
+  notes: 'Alchemetrica''s concordance table; nothing reordered. Agent ruling C-138 (2026-10-13): completion
+    is counted per charge; spagyric Whitening completes in each principle''s own charge, the Wedding is
+    the joined medicine''s Conjunction.'
 - id: R61-81-DISTILLATION_IS_THE_WHITENING
   pack: Alchemy Conversion Questionnaire 2026-09-28
   pack_number: null
@@ -2206,7 +2208,9 @@ rules:
   source:
     file: ''
     lines: null
-  notes: The Necrocursica's Aetheric Shell residue joins Salt; its triad stays Malphas's 'modified' reading
+  notes: 'The Necrocursica''s Aetheric Shell residue joins Salt; its triad stays Malphas''s ''modified''
+    reading. Agent ruling C-138 (2026-10-13): completion is counted per charge; spagyric Whitening completes
+    in each principle''s own charge, the Wedding is the joined medicine''s Conjunction.'
 - id: R61-83-CORRUPTIONS_BY_NAME_NOT_NUMBER
   pack: Alchemy Conversion Questionnaire 2026-09-28
   pack_number: null
@@ -2708,7 +2712,8 @@ rules:
   source:
     file: ''
     lines: null
-  notes: adds one line to Alchemetrica
+  notes: 'adds one line to Alchemetrica. Agent ruling C-136 (2026-10-13): Draftcraft''s Crystal requirement
+    is the seal on standing work; a pure alchemist''s Drafts are Draftcraft.'
 - id: R61-101-NO_DRAFT_REFILLS_RESERVE
   pack: Alchemy Conversion Questionnaire 2026-09-28
   pack_number: null
@@ -2765,7 +2770,9 @@ rules:
   source:
     file: ''
     lines: null
-  notes: adds a bench-certification carve-out line to the Tiered Path page and Part Twenty
+  notes: 'adds a bench-certification carve-out line to the Tiered Path page and Part Twenty. Agent rulings
+    C-136 and C-142 (2026-10-13): the bench Tier caps a pure alchemist''s lot (T5, the Expert band at Expert);
+    work made to stand is capped also by the sealing Crystal-bearer''s Grade, the lower binding.'
 - id: R61-103-DRAFT_SUB_STAT_PROFILE
   pack: Alchemy Conversion Questionnaire 2026-09-28
   pack_number: null
@@ -2795,7 +2802,9 @@ rules:
   source:
     file: ''
     lines: null
-  notes: adds a Drafts profile beside Part Fifteen's profiles; filed through propose_rule for ratification
+  notes: 'adds a Drafts profile beside Part Fifteen''s profiles; filed through propose_rule for ratification.
+    Agent ruling C-139 (2026-10-13): the Core governs a Draft''s fidelity and alignment; the Attraction
+    Layer its vein cost and reach.'
 - id: R61-104-REAL_ALCHEMY_PAGE_WRITTEN
   pack: Alchemy Conversion Questionnaire 2026-09-28
   pack_number: null

@@ -34,7 +34,8 @@ rules:
   source:
     file: ''
     lines: null
-  notes: ''
+  notes: 'Agent ruling C-137 (2026-10-13): heat instruments exist; they read the bath and the furnace, never
+    the sealed charge. Ideas past the span are R78-2''s (Isaac, 2026-10-13); hardware stays here.'
 - id: R53-02-POOR_FIRES
   pack: World Texture Law 2026-09-26
   pack_number: null

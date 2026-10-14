@@ -1184,5 +1184,10 @@
     "page_id": "3f958200-eb22-815e-86f8-c21ff054000a",
     "title": "The Shape of the Room",
     "hash": "6e33e7bd2cbb605f"
+  },
+  "scenes/the_furniture_and_the_house.md": {
+    "page_id": "3f958200-eb22-8193-9ade-cbc3cee8595c",
+    "title": "The Furniture and the House",
+    "hash": "7e5234cb561cfe10"
   }
 }

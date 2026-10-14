@@ -286,3 +286,56 @@ rules:
     reveal''s reaction is given to named people with their own words and body; the horror-witness allowance
     stands), R48-11. Restates R49-37 and R51-27 (full phonetic accents). Agent call under R72-2, Isaac
     may overturn: ''anime-big'' emotion still never writes Isaac''s PC''s feeling (R72-6).'
+- pack: Directions 2026-10-14
+  pack_number: null
+  status: live
+  supersedes: []
+  ratified: 'Isaac, 2026-10-14, Claude Code chat: direction, scope answered by questionnaire'
+  source:
+    file: ''
+    lines: null
+  id: R78-9-SYSTEM_TOUCHUPS
+  section: system-touchups-questionnaire
+  title: Enhancement, Drafts, enchantment, training, and a concise system
+  kind: mandate
+  summary: Passive stat base plus active reinforcement that can be focused and leaves gaps, shown as an
+    aura coat, lost when caught off guard; fight Drafts with a crash, graded by Stage, a trade at every
+    level, a catalogue of about twenty; cheap runed gear common, great pieces old, bonded weapons tied
+    to releases, rare living-body runes, prepared tags; basics by school, cultivation by breath, Wellsprings,
+    fights and seclusion, guarded school secrets, guilds sneer while the world cheers; a one-page primer,
+    plain glosses, rule-look-cost-counter-example explainers, and an audit of the Magic System pages.
+  verbatim: 'Isaac''s direction 2026-10-14, by questionnaire (imports/drafts/system-touchups/): magic
+    system touch-ups. Enhancement: a practitioner''s stats are always in the body as a passive base, and
+    active reinforcement pushes further for a cost in reserve; it can be concentrated in one place and
+    leaves the rest thin, so reading where it went is part of the fight; it shows as a coat of the practitioner''s
+    own aura, thicker where they push, with the body change beneath; asleep, drugged or surprised, they
+    keep the passive base and lose the active layer, so ambush is a real tactic. Drafts: a few fight Drafts
+    may be drunk mid-fight, each taking a beat and leaving a crash; Drafts are graded by the Stage they
+    serve; the Draft trade runs everywhere, from corner apothecaries to smugglers, counterfeits and breakthrough
+    Drafts fought over like treasure; a standard catalogue of about twenty common Drafts is kept. Enchantment:
+    cheap runed gear is common and the great pieces are old, rare and cannot be remade; some fighters
+    bond a weapon over years that takes part in their release forms and grows with them; runes cut into
+    a living body are a rare, dangerous high art; prepared tags, Naruto style, are carried into battle.
+    Training: basics are taught by each school, not universally; practitioners cultivate by breathing
+    and drawing at Wellsprings or in dense Aether, by sparring and real fights, and by seclusion before
+    a Threshold; a school''s methods and forms are guarded secrets worth stealing and fighting over; the
+    guilds still sneer at fighters as mouths while the public, armies and sects idolise great ones. Concision:
+    the Magic System gets a one-page plain-English primer; every term gets a plain gloss beside it at
+    first use on each page; each topic explainer runs rule, look, cost, counter, example; and the Magic
+    System pages are audited and fixed for copy errors and contradictions with the new rules, each change
+    logged.'
+  amends:
+  - guide: Notion wiki, The Magic System
+    locus: The Four Crafts; The Ladder and the Draft; a new primer and topic explainers
+    operation: extends
+  applies_to:
+  - magic-mechanism
+  - magic-design
+  - combat
+  - items
+  - worldbuilding
+  verification: []
+  notes: 'Amends The Four Crafts (Spellcraft''s status reads as guild snobbery the world does not share;
+    the Bodily vector becomes active reinforcement over a passive stat base) and The Ladder and the Draft
+    (Stage grades, fight Drafts, the catalogue). The ladder''s governing sentence stands: a Draft supplies
+    the floor and a seed, never a Catalyst.'

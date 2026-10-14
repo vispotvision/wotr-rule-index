@@ -1,1 +1,14 @@
-{"batch1":{"RF1":"Stage IV, Flourishing (Recommended)","RF2":"Varies by person","RF3":"Plain names + folk names (Recommended)","RF4":"No preference; agent call: Yes, their own kind (the recommendation)"}}
+{
+ "batch1": {
+  "RF1": "Stage IV, Flourishing (Recommended)",
+  "RF2": "Varies by person",
+  "RF3": "Plain names + folk names (Recommended)",
+  "RF4": "No preference; agent call: Yes, their own kind (the recommendation)"
+ },
+ "batch2": {
+  "RF5": "Every card sets its own",
+  "RF6": "Free anime design",
+  "RF7": "They deepen with the person (Recommended)",
+  "RF8": "Called or not, by choice"
+ }
+}

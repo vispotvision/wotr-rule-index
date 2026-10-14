@@ -1,6 +1,6 @@
 # Release Forms: a design draft
 
-Drafted 2026-10-14 in Claude Code at Isaac's request; questions 1 to 4 answered by Isaac the same day (`answers.json`, folded in below), to fill the system R78-6 owes:
+Drafted 2026-10-14 in Claude Code at Isaac's request; all eight open questions answered by Isaac the same day (`answers.json`, folded in below), to fill the system R78-6 owes:
 "Many practitioners have named, staged release forms tied to the system, each with a
 name, a look and a cost." Not canon until Isaac says so. Every figure below is either
 quoted from the wiki's Magic System pages (cited) or marked **(design)**, meaning a
@@ -74,7 +74,18 @@ below Level 200 (*The Trait System* §VIII). A Third is the mark of a figure.
 
 All three follow the same pattern: **the body changes, the aura flares, the sound
 comes, and the Trait's output rises.** The look, the sound and the name belong to the
-owner and are fixed on the card.
+owner and are written on the card.
+
+**The form is free (Isaac, 2026-10-14).** A release takes whatever shape the person's
+soul would take, physics or not: wings, armour, a changed weapon, a beast's outline, a
+crown of something that should not burn. A Vectoria practitioner may release as a
+white crane. What the form *does* still comes from the Trait and its Family, so the
+crane's wings strike with Newtonian force, and the aura below keeps its canon colour.
+
+**It deepens with the person (Isaac, 2026-10-14).** A release keeps its core for life
+but grows new aspects as its owner advances, survives and changes, and a great turn in
+a life can reshape it. Each new aspect is added to the card's entry when it first
+shows, the way a new use of a Trait is canon on use.
 
 **The aura (R78-6, from *The Color of Essence*).** A release drives the aura to the
 practitioner's full colour: the Family's hue (Caloria ember-orange, Fulguria
@@ -86,7 +97,7 @@ is what the release adds.
 
 | | First Release | Second Release | Third Release |
 |---|---|---|---|
-| **The look** | One fixed change to the body or the weapon: skin, eyes, hair, a weapon's shape, a cloak of the Family's physics. | The change spreads into the ground around them: a field where the light, air and temperature obey the Trait. Anyone inside feels the colour-temperature shift canon gives a Refraction Domain. | The field takes a second hue at its edges, the Wellspring's own, and the Wellspring's voice joins the sound. |
+| **The look** | One signature change to the body or the weapon, in any form the soul takes: skin, eyes, hair, wings, armour, a weapon's new shape. | The change spreads into the ground around them: a field where the light, air and temperature obey the Trait. Anyone inside feels the colour-temperature shift canon gives a Refraction Domain. | The field takes a second hue at its edges, the Wellspring's own, and the Wellspring's voice joins the sound. |
 | **Output (design)** | The Trait's delivered output rises to the **top of its current Grade band** (canon puts the top of a band at roughly five times its floor, *Tier Grade*, Within-Tier resolution). | Inside the field, the Trait's output strikes **one full Grade higher**. Under the differential rule, that wins a direct exchange against an equal (*Tier Grade*). | Inside the field, the Trait's stated effect is **local law**: it strikes two Grades over the base, for that effect only. |
 | **Range** | The body and what it touches. | A field the size of the room or yard it stands in **(design)**. At Stage VII it is a seed: "lasts minutes rather than hours… collapses if attention fractures" (*Tier Grade*, Domains). From Stage VIII it is stable. | The field holds other workings inside it and can contain another's Second Release (a Realm, canon IX to X). |
 | **Sound** | Each release has its own sound, with anime flair (R78-6): a bellows drawn once, a struck bell, a crack of ice. | The sound continues as a standing note while the field holds. | The Wellspring's note sounds under the owner's. |
@@ -95,7 +106,7 @@ is what the release adds.
 
 | | First Release | Second Release | Third Release |
 |---|---|---|---|
-| **Reserve while held (design)** | Spends at the owner's full output rate (AU/s) for as long as it is held. | Twice the full rate, inside canon's two-to-five overchannel range. | Four times the full rate. |
+| **Reserve while held (Isaac, 2026-10-14)** | Set on each card, priced at its owner's exact reserve (R75-1). No default rate: one person's First Release may sip, another's may burn like a Third. | Set on the card. | Set on the card. |
 | **Hard limit (canon)** | Every release ends on its own when the reserve falls to one tenth: below that is Essence Starvation, "reduced stat expression, Shell degradation, Trait flickering" (*Tier Grade*, Reserve). | Same. | Same. |
 | **Crystal afterwards** | Spent and shaking; the pain the fight was shrugging off arrives (R78-5). No structural damage if released inside its limit. | The Crystal is **Overgrown** until a full night's rest: "power spills outward, emotions distort nearby space" (*Tier Grade*, Crystal States). | The Crystal is **Fractured** every time, healed by rest, alchemy or advancement. Done often, the fractures become permanent; "some fractures become architectural features. Most become liabilities" (*Tier Grade*, Overchannel). |
 | **Held past the limit** | Forcing it past a tenth is a plain overchannel, with its fracture risk. | A Crystal Fracture Event. | The Trait itself may fail: one of *The Trait System*'s failure states, chosen on the card. |
@@ -119,17 +130,24 @@ under R78-6.
 **On the card (R76-1).** Each release is one technique entry: the name in caps, in
 English (R78-5), its kind in brackets (*First Release*, *Second Release*, *Third
 Release*), then one plain paragraph holding what it looks and sounds like, what it
-does, its cost, its limit and its counter. The shouted name is the release call: it
-costs a beat (R8-24) and it is the tell.
+does, its drain, its limit and its counter, and what is lost when it is released
+silently. Aspects it grows later are added to the same paragraph.
+
+**Called or silent (Isaac, 2026-10-14).** The owner chooses. Called aloud, the English
+name is the release call: it costs a beat and buys the call's measurable output rise
+(R8-24), and it is the tell. Released silently, it costs no beat and gives no spoken
+tell, and it is weaker: **(design)** it takes its form but not the call's rise, and
+the card says exactly what that costs this release.
 
 ## 6. The counter
 
 Every release must be answerable by someone at its own Stage (R75-6), before, during
 and after:
 
-- **Before.** The call costs a beat (R8-24), and the aura flares and the sound comes
-  before the output rises. A fighter who reads the tell can strike into that beat, or
-  get out of reach.
+- **Before.** A called release costs a beat (R8-24), and the aura flares and the
+  sound comes before the output rises. A fighter who reads the tell can strike into
+  that beat, or get out of reach. A silent release skips the beat but still flares and
+  still sounds, and it comes in weaker.
 - **During.** The clock is the counter. A release spends reserve fast and ends at one
   tenth, so outlasting it is a real plan: keep distance, make them chase, and fight on
   ground that raises their cost (canon: "terrain is not flavour, it is a modifier on η";
@@ -155,7 +173,7 @@ since no card is attached.
 > collarbones, and the air around them shimmers like the air over a forge bed. There
 > is a sound like a bellows drawn once, hard. Every blow they land carries forge heat
 > into the wound, and their heat workings strike at the top of their Grade. It burns
-> through their reserve at their full output rate and ends on its own at a tenth of
+> through their reserve at about their full output rate, as their card prices it, and ends on its own at a tenth of
 > it; afterwards their palms are blistered and they cannot draw heat for an hour. The
 > counter is in the beat of the call, which can be struck into, in cold and wet ground,
 > which makes every second cost more, and in the blistered hands afterwards, which
@@ -166,7 +184,7 @@ since no card is attached.
 > goes forge-hot and dry, the light turns orange, and everyone inside it feels the
 > colour change as a pressure behind the eyes. The bellows sound becomes a low,
 > steady roar for as long as it holds. Inside the yard their heat workings strike one
-> full Grade higher. It costs twice their full output rate, lasts minutes at their
+> full Grade higher. Their card prices it at about twice their full output rate, lasts minutes at their
 > Stage, and collapses if their attention breaks; afterwards the Crystal is Overgrown
 > until they sleep, and heat leaks off them with their temper. The counter is to break
 > their focus with a wound, a shout or a name that matters, to step out past the edge
@@ -186,24 +204,23 @@ since no card is attached.
 - **R70-91, R78-7** (breakthroughs). A release's first hold is a breakthrough-scale
   moment and lands as R70-91 says.
 - **R9-3** (superseded by R78-6) and ***The Color of Essence*, Part Five**: "Essence
-  does not glow." R78-6 now says an aura may glow; the page needs a note (on the
-  consistency list).
+  does not glow." R78-6 now says an aura may glow; the Notion page was
+  corrected on 2026-10-14 and now says the aura flares in the practitioner's own colour.
 - **R71-41, R70-69** (Pressure). A release raises the practitioner's Pressure in the
   room by the same flare; the ladder is unchanged.
 
-## 9. Answered, and still open
+## 9. Answered
 
-Answered by Isaac, 2026-10-14: the First Release opens at Stage IV; the number of
-releases varies by person and the card sets it; plain system names plus each
-culture's folk names. Bloodlines: no preference given, so the agent call above.
+All eight questions answered by Isaac on 2026-10-14 (`answers.json`):
 
-Still open (the second batch was set aside):
+1. The First Release opens at Stage IV (Flourishing).
+2. How many releases varies by person; the card sets it.
+3. Plain system names (First, Second, Third Release) plus each culture's folk words.
+4. Bloodlines: no preference given; agent call in §2 (their own law and stages).
+5. Drain: every card sets its own, priced at its owner's reserve; no default rate.
+6. Look: free anime design; what it does still comes from the Trait and its Family.
+7. Growth: a release deepens with the person and can be reshaped by a great turn.
+8. Calling: called or silent, by choice; called is stronger and costs the beat.
 
-1. The reserve multipliers (one, two, four times the full output rate) are set here
-   for the first time. Keep as a default the card can bend, fix them, or price every
-   card on its own?
-2. Must a release's look follow the Family's physics, or may it be a free anime
-   design?
-3. Do releases grow with the person, stay fixed once earned, or break and re-form?
-4. Is the release always shouted, or may masters whisper it, or release silently at
-   a high Stage?
+Ready to be made canon (a rule row, a Magic System page in Notion, and a release
+field on the character card template) on Isaac's word.

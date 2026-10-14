@@ -4,7 +4,7 @@ notion_id: "3bc58200-eb22-81e0-be04-e39a67134b0b"
 notion_url: "https://app.notion.com/p/The-Apprentice-s-Primer-A-First-Reader-for-the-Newly-Registered-3bc58200eb2281e0be04e39a67134b0b"
 section: "In-World Documents & the Narrative Archive"
 tags: []
-last_edited: "2026-09-28T08:26:00.000Z"
+last_edited: "2026-10-14T00:36:00.000Z"
 verification: null
 ---
 
@@ -144,8 +144,8 @@ verification: null
 
 ### Where the points come from
 
-Five Bands yield **fifteen thousand** stat points. Thresholds through Stage XIII add roughly **nine thousand one hundred more.** *A full lifetime pool sits near twenty-four thousand one hundred, spread across twenty stats.*
-> **Divide that honestly.** A Band II practitioner at Level 156 with Thresholds through Stage V holds about four thousand five hundred points — **two hundred and twenty-five per stat if spread evenly, solidly mid B-Grade, and entirely unremarkable.**
+Five Bands yield **nine thousand** stat points. Thresholds through Stage XIII add roughly **nine thousand one hundred more.** *A full lifetime pool sits near eighteen thousand one hundred, spread across sixty-three Sub-Stats, Throne excluded.*
+> **Divide that honestly.** A Band II practitioner at Level 156 with Thresholds through Stage V holds about three thousand five hundred points — **fifty-six a Sub-Stat if spread evenly, low D-Grade, and entirely unremarkable.**
 > ***If you are B-Grade, most of your stats are B-Grade. Specialists produce peaks by accepting valleys elsewhere, and the valleys are where they die.***
 
 ---

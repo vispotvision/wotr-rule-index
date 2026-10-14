@@ -4,7 +4,7 @@ notion_id: "3e958200-eb22-8112-9e70-d4551eb3019f"
 notion_url: "https://app.notion.com/p/The-Real-Alchemy-3e958200eb2281129e70d4551eb3019f"
 section: "Materials, Alchemy & Trade"
 tags: []
-last_edited: "2026-09-28T14:55:00.000Z"
+last_edited: "2026-10-14T00:32:00.000Z"
 verification: "unverified"
 ---
 
@@ -49,7 +49,7 @@ Alchemy on the page rests on three sources, read in order. The Alchemical Index 
 | Fatio's account of an adept's medicine, 1690s | 7 months through 4 putrefactions | Newman 2019 |
 
 **The fault.** A sealed digestion gives no reading but its colour. The worker waits weeks for a black that may be rot or may be ruin, and the heat under it wanders.
-**In WOTR.** Alchemetrica's Rot runs six to nine weeks in the Bed, unopened, and goes black. Real putrefactions reached black in thirty to forty days and ran longer schemes by the month, so the Rot sits on the recorded range. The Alftian Codex's ferment took three turns in warm dung, forty-two days at fourteen days to the turn, which lands on the real forty-day digestion.
+**In WOTR.** Alchemetrica's Rot runs three to four and a half turns (six to nine weeks) in the Bed, unopened, and goes black. Real putrefactions reached black in thirty to forty days and ran longer schemes by the month, so the Rot sits on the recorded range. The Alftian Codex's ferment took three turns in warm dung, forty-two days at fourteen days to the turn, which lands on the real forty-day digestion.
 
 ### Fermentation
 
@@ -84,7 +84,7 @@ Alchemy on the page rests on three sources, read in order. The Alchemical Index 
 
 **The practice.** In a pelican or a sealed double vessel, heat drove vapour up and the cold of the arms brought it back into the charge, without the liquor ever being drawn off. The aim was to refine a spirit or to open a hard body (Lemery 1686; Brunschwig 1500). Rupescissa's quintessence was wine distilled repeatedly and then circulated in a closed glass for "a long period," and period recipes rarely give a time (Stewart 2013). In the adept's menstruum Fatio described, five pounds of matter gave four and a half in the receiver, which stood several days in a cold place before its vapours settled (Newman 2019).
 **The fault.** A closed circulation cannot be tasted, measured or corrected. A crack in the arm ends it, and so does a fire that falters.
-**In WOTR.** Alchemetrica's circulation in the Returner runs weeks or months, the vessel never opened. The Alftian Codex runs Furveus's spirit in the Returner for most of a month. Both sit inside the recorded order of time.
+**In WOTR.** Alchemetrica's circulation in the Returner runs turns or months, the vessel never opened. The Alftian Codex runs Furveus's spirit in the Returner for most of a month. Both sit inside the recorded order of time.
 
 ### Sublimation
 
@@ -153,7 +153,7 @@ Darling reckoned any two observers might differ by about 50 °C below yellow, an
 
 **The practice.** Fahrenheit made the first reliable mercury thermometers in 1713 and 1714 and published his scale in 1724 (Wikipedia, "Daniel Gabriel Fahrenheit"). Mercury boils at 356.7 °C, which caps the instrument. By the 1730s Boerhaave measured digestion heats on Fahrenheit's scale and held a fire at 180 °F for months (Boerhaave 1730s). Above red heat there was nothing until Wedgwood's clay-shrinkage pyrometer of 1782, whose scale was later shown to be badly wrong (Wikipedia, "Wedgwood scale"; Royal Society 2023). Daniell's expansion pyrometer of 1822 moved a pointer with a platinum rod. It gave the first continuous reading, though a poor one by later standards. Prinsep's gas pyrometer followed in 1828, Pouillet's colour table in 1836, and Siemens's resistance pyrometer, built for furnaces, in 1871, though it took years to make reliable. Seger's pyrometric cones came in 1886. Le Chatelier's platinum and rhodioplatinum thermocouple of 1886 and 1887 made reliable electrical reading practicable, and his optical pyrometer of 1892 read heats past the melting point of platinum (Darling 1911; Johnson Matthey).
 **The fault.** Every early instrument covered the gentle end or read the fierce end wrongly. The furnace heats that mattered most were measured crudely from the 1820s and reliably only from 1886.
-**In WOTR.** Alchemetrica's Heat says there is no instrument and has never been one. The Imperial Age's technology span, which admits everything invented from 1800 to 1900, takes in Daniell's and Siemens's pyrometers, Seger's cones and Le Chatelier's thermocouple, and the mercury thermometer is older still. The two stand against each other in canon, and this page does not settle them.
+**In WOTR.** These instruments exist from 690 IC with the rest of the age's hardware (R53-01, R63-2), the span running from the 1800s into the middle of the 1900s: Daniell's and Siemens's pyrometers, Seger's cones, Le Chatelier's thermocouple, and the mercury thermometer older still. Alchemetrica reads them as tools of the bed and the furnace that never reach the charge inside a sealed vessel, so heat at the charge stays a craft skill.
 
 ### The water bath
 
@@ -174,7 +174,7 @@ Darling reckoned any two observers might differ by about 50 °C below yellow, an
 - the hot stage of composting runs 40 to 60 °C for weeks to months by mass, peaks at 60 to 70 °C in three to five days, sags as the stage ends, and peaks again when turned, until curing sets in (Trautmann 1996);
 - above about 70 °C the risk of self-ignition rises, and piles are broken up at 82 to 93 °C (Rynk 1992).
 **The fault.** Dung heat is neither constant nor blood-warm. It starts hot, falls over weeks, has to be turned or renewed, and a large pile can fire itself.
-**In WOTR.** Alchemetrica's Bed holds blood-warmth for six to nine weeks without fuel, tending, or any possibility of overheating. The span matches the working life of a dung heat. The even blood-warmth and the safety from overheating are WOTR's own; a small bed packed round one vessel is the nearest real case. The Bed's smell, which nobody in the workshop notices after a month, is the dung bath's own.
+**In WOTR.** Alchemetrica's Bed holds blood-warmth for three to four and a half turns (six to nine weeks) without fuel, tending, or any possibility of overheating. The span matches the working life of a dung heat. The even blood-warmth and the safety from overheating are WOTR's own; a small bed packed round one vessel is the nearest real case. The Bed's smell, which nobody in the workshop notices after a month, is the dung bath's own.
 
 ### Lamp, sun and the little furnace
 
@@ -192,7 +192,7 @@ Darling reckoned any two observers might differ by about 50 °C below yellow, an
 
 **The practice.** The athanor, also called *piger Henricus* or "Slow Henry," was built for uniform, constant digesting heat. The sixteenth-century form had a separate fuel tower so that charcoal slid down into the fire of its own weight, like a magazine stove, and ran unattended (Wikipedia, "Athanor"). The name comes from Arabic *al-tannūr*, "oven." Libavius's ideal chemical house of 1606 gave the laboratory ten furnaces, noted that Tycho Brahe's held sixteen, and set the athanor apart in a private sanctuary for incubating the philosophical mercury in an egg-shaped vessel (Newman 1999).
 **The fault.** No measured burn time for a charge of the tower is recorded in these sources. The real long runs on record were fires kept by people. Humphrey Newton wrote that the fire in Newton's laboratory scarcely went out night or day for about six weeks in spring and again in autumn, the two men sitting up on alternate nights (Newman 2019).
-**In WOTR.** Alchemetrica's Long Furnace is the athanor, fuel tower and gravity feed and all. Its weeks or months without a hand on it outruns the evidence, which shows tended runs of six weeks (Newman 2019) to several months (Boerhaave 1730s), with no unattended burn time measured. The tick of the furnace settling as the charcoal drops is the gravity feed's own sound.
+**In WOTR.** Alchemetrica's Long Furnace is the athanor, fuel tower and gravity feed and all. Its turns or months without a hand on it outruns the evidence, which shows tended runs of six weeks (Newman 2019) to several months (Boerhaave 1730s), with no unattended burn time measured. The tick of the furnace settling as the charcoal drops is the gravity feed's own sound.
 
 ### The still
 

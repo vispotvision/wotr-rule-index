@@ -4,7 +4,7 @@ notion_id: "3d958200-eb22-8107-a768-c70bae86432a"
 notion_url: "https://app.notion.com/p/Elthir-Maen-The-Wandering-String-3d958200eb228107a768c70bae86432a"
 section: "Volume I — Character Cards"
 tags: []
-last_edited: "2026-09-27T04:15:00.000Z"
+last_edited: "2026-10-14T00:31:00.000Z"
 verification: null
 ---
 
@@ -27,7 +27,7 @@ verification: null
 
 #### Affiliation
 
-**Guild Accord Pathwarden**, classified *Echo Courier of the Ninth Route*, one of twelve envoys entrusted to traverse unanchored Wellspring territories and maintain Accord presence through non-militant means. **Origin** · Caedor; later itinerant through the Inner World and Babyl (struck). **Era** · Withering Era, Imperial Age, active from Year 739.
+**Guild Accord Pathwarden**, classified *Echo Courier of the Ninth Route*, one of twelve envoys entrusted to traverse unanchored Wellspring territories and maintain Accord presence through non-militant means. **Origin** · Caedor; later itinerant through the Inner World and Babyl (struck). **Era** · Withering Era, Imperial Age, active in the present.
 > **Catalyst Event · Stage VI, Glory.** *Willingly accepting genuine soul-cost to preserve something valued above one's own structural integrity. The fractures have become features.*
 > 
 > **He reached Glory by listening.** *The card is exact: the endless act of listening, and nothing else, taught him that every emotion carries a tone, and that giving the tone form takes suffering's dominion away.* **The soul-cost is that he carries every tone he has ever given form to. The feature the fracture became is the music.**

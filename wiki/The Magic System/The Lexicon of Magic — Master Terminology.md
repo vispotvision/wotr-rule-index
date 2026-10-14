@@ -4,7 +4,7 @@ notion_id: "3c758200-eb22-8167-8e6e-f8536b7f8816"
 notion_url: "https://app.notion.com/p/The-Lexicon-of-Magic-Master-Terminology-3c758200eb2281678e6ef8536b7f8816"
 section: "The Magic System"
 tags: ["Magic System", "Reference Table"]
-last_edited: "2026-09-10T11:21:00.000Z"
+last_edited: "2026-10-14T00:31:00.000Z"
 verification: "unverified"
 ---
 
@@ -56,7 +56,7 @@ verification: "unverified"
 
 **Fixatio chain** · The glyph sequence that fixes and closes a working. The workhorse of every seal, ward and permanent inscription in the Continuum.
 **Sigilcraft** · Glyphica rendered as durable inscription rather than performance.
-**Draft Corruption** · Law-fragments left by a working with a defective Direction role. Wellspring processes that were started and never completed, which keep trying to finish themselves in whatever they contact.
+**Draft Corruption** · Law-fragments left when the Continuum partially executes a sentence with a structural error before the error propagates. It is the Direction role's own failure mode, and an error in any role can produce it. Wellspring processes that were started and never completed, which keep trying to finish themselves in whatever they contact.
 **Internalised chain** · Glyphica compressed below the threshold of conscious assembly at high Temperance. A practitioner with sloppy internalised chains does not fail to cast. They cast something slightly different from what they intended, every time, and the error accumulates.
 
 ---
@@ -81,6 +81,7 @@ verification: "unverified"
 **Silence Realm** · A region in which lawful transformation cannot be authorised at all. Animatria constructs fail completely inside one, since their continuity depends on a connection back to source that Harmonic Silence severs.
 **Harmonic Silence** · The severing condition itself, as distinct from the region it produces.
 **Hollowing** · The progressive loss of a region's capacity to sustain lawful working. Closing one is Concordia's most difficult application and is measured in years.
+**Realm Rot** · The trade's name for a region's ruin under Mechanica: unsealed boundaries summed across the ground. Unlike a Hollowing, by Statute XXVI nothing closes it.
 **Aetheric Density** · The concentration of Aether in a given volume, which sets the local output ceiling. **This is why ground is fought over and not only people.**
 
 ---
@@ -105,12 +106,13 @@ verification: "unverified"
 **Shear Break** · A Trait collapsing, inverting, or turning on its bearer after the bearer has repeatedly denied the truth that formed it. The standing failure mode of a broken vow.
 **The Rigidity Effect** · The soul's reduced capacity to contradict a law it carries, scaling with how absolute that law is. Power and inflexibility are the same purchase.
 **Residual Strain** · Pressure still arriving after the level counter has halted at a Band ceiling. Degrades gain, raises Overchannel and Backlash risk, and does not stop building.
-**Sealing failure** · The most lethal Glyphica error and the least often recorded as one. Authorization, Boundary or Direction failing produce a working that does not happen. **Sealing failing produces a working that does not stop**, because the law goes on obeying itself after the operator has left the room.
+**Sealing failure** · The most lethal Glyphica error and the least often recorded as one. Authorization, Boundary or Direction failing produce the failures in the role table, each of which shows itself while the operator is still in the room. **Sealing failing produces a working that does not stop**, because the law goes on obeying itself after the operator has left the room.
 **Shard** · What a fractured Core sheds. Retains fragments of the identity it came from.
 **Echo Fracture** · The Harmonia failure state, produced by mismatched Resonant Tone.
 **Aetheric Saturation** · Essence flooding an area faster than it disperses. Produces Fracture Events in everyone present, including whoever caused it.
 **Essence Starvation** · Operation below ten percent reserve. Reduced stat expression, Shell degradation, Trait flickering.
 **Clouding · Rupture** · The two Aether Shell failure states, gradual and sudden.
+**Rupture Event** · A Conjunction's failure: two incompatible laws contesting one substrate without adequate mediation. No relation to Shell Rupture.
 **Obsession Force** · Attraction Force curdled into fixation. Sustains corrupted technique through refusal rather than harmony, at escalating soul-cost.
 **Mechanica debt** · What the Continuum records against a working performed without lawful Authorization. Statute XXVI, **Mechanica Irreversibility**, exists because this is the one damage the Continuum does not forget.
 **The Withering** · Epoch-scale. Generates dread and problems. Resolves nothing.

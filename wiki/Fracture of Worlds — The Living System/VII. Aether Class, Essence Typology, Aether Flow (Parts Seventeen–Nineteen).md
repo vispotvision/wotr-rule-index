@@ -4,7 +4,7 @@ notion_id: "3d758200-eb22-8125-b9f4-f85adcd2a482"
 notion_url: "https://app.notion.com/p/VII-Aether-Class-Essence-Typology-Aether-Flow-Parts-Seventeen-Nineteen-3d758200eb228125b9f4f85adcd2a482"
 section: "Fracture of Worlds — The Living System"
 tags: ["Magic System", "Reference Table"]
-last_edited: "2026-09-28T08:25:00.000Z"
+last_edited: "2026-10-14T00:32:00.000Z"
 verification: "unverified"
 ---
 
@@ -87,7 +87,7 @@ Typology also determines Wellspring compatibility, which determines which Sub-St
 
 #### The Turn, and What a Unit Is Worth
 
-**One turn is 6 seconds.** Every duration the system states in turns is read through that figure: a working held three turns is held 18 seconds, a field that stands eight turns stands 48.
+**One combat turn is 6 seconds.** Every duration the system states in combat turns is read through that figure: a working held three turns is held 18 seconds, a field that stands eight turns stands 48. The calendar turn of fourteen days is another word.
 **One EU is one megajoule.** One AU is one EU, so **1 AU/s is 1 MW**. Power drawn is AU/s × 1 MW, power delivered is AU/s × η × 1 MW, and the difference leaves as heat, sound and structural bleed. A reserve of *E* EU spent at *R* AU/s empties in *E* ÷ *R* seconds, and that figure does not depend on the conversion at all.
 
 #### The EU Band by Temperance Stage

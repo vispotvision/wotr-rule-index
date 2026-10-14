@@ -4,7 +4,7 @@ notion_id: "3b158200-eb22-81cc-a193-d69c171c0986"
 notion_url: "https://app.notion.com/p/The-Sixteen-Stages-3b158200eb2281cca193d69c171c0986"
 section: "The Magic System"
 tags: ["Magic System", "Reference Table"]
-last_edited: "2026-09-23T23:24:00.000Z"
+last_edited: "2026-10-14T00:32:00.000Z"
 verification: "unverified"
 ---
 
@@ -27,6 +27,7 @@ What follows sits underneath them. Each Stage is given four ways: **the ledger l
 > **The second** is that a Threshold is a structural reorganisation, and whatever is in the Crystal at the moment of reorganisation is built into what comes out.
 >
 > A soul is therefore assembled out of what happened to it and what it could afford, in that order, and the Accord's entire certification apparatus is an instrument for reading the result.
+> The Levels on each ledger line below are where that Stage's practitioners usually sit, not where they must; only Part One's Band gates are hard: Stage IV before Level 100, VII before 200, X before 300, XII before 400.
 
 ### The Ladder at a Glance
 

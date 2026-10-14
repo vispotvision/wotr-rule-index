@@ -4,7 +4,7 @@ notion_id: "3b158200-eb22-8185-abf4-c695877be12b"
 notion_url: "https://app.notion.com/p/Tier-Grade-Bands-the-Aether-Shell-3b158200eb228185abf4c695877be12b"
 section: "The Magic System"
 tags: ["Magic System", "Reference Table"]
-last_edited: "2026-09-26T09:13:00.000Z"
+last_edited: "2026-10-14T00:29:00.000Z"
 verification: "unverified"
 ---
 
@@ -135,7 +135,7 @@ flowchart LR
 ```
 | Class | The Shell | Efficiency loss |
 |---|---|---|
-| **Ø · The Dormant** | The unawakened Shell. Sealed, unresponsive, nearly silent. The soul dreams without memory and moves through the world without leaving lasting metaphysical trace. Precedes Initiate entirely; corresponds to the Dormant Crystal. **Traits are unaffected by any of this.** A Class Ø soul carries its laws in the ordinary material of itself, refines by the Weathering rather than by Temperance, and is missing only the organ that would arm what it already holds. | No output above Hollow Grade is possible |
+| **Ø · The Dormant** | The unawakened Shell. Sealed, unresponsive, nearly silent. The soul dreams without memory and moves through the world without leaving lasting metaphysical trace. Precedes Initiate entirely; corresponds to the Dormant Crystal. **Traits are unaffected by any of this.** A Class Ø soul carries its laws in the ordinary material of itself, refines by the Weathering rather than by Temperance, and is missing only the organ that would arm what it already holds. | No stat output above Hollow Grade is possible |
 | **I · The Muridic** | The awakening Shell. It flickers with first resonance. Essence leaks unevenly into space. Emotion distorts weather and mood. Will echoes unpredictably through Aether. The bearer may appear unstable when their lattice is simply learning to speak. Glory, Stage VI, where Aether Class first emerges. **Stages I through V are unclassed: the coil reads no Class.** | Roughly 30 – 40% |
 | **II · The Harmonic** | The attuned Shell. It begins to hold rhythm. Essence and Aether find a recurring pattern. Simple spellwork stabilizes. Wellspring whispers find purchase. Bonds form without tearing the self. Harmony is structured tension that no longer shatters. Early Refraction. | Roughly 15 – 25% |
 | **III · The Resonant** | The conductor Shell. Essence and Aether exchange freely. Power moves even in silence. Magic ceases to feel like performance and begins to feel like breathing. Dual-casting, Synergia, and complex techniques awaken naturally. Late Refraction. **The first Class at which stat values translate into output at near-full fidelity.** | Roughly 5 – 10% |

@@ -4,7 +4,7 @@ notion_id: "3bd58200-eb22-8174-8d04-d8dc2c18ae90"
 notion_url: "https://app.notion.com/p/Malphas-Ferment-of-Stars-3bd58200eb2281748d04d8dc2c18ae90"
 section: "Volume I — Character Cards"
 tags: []
-last_edited: "2026-10-06T20:08:00.000Z"
+last_edited: "2026-10-14T00:36:00.000Z"
 verification: null
 ---
 
@@ -88,8 +88,8 @@ The First Catalyst is behind him and the Becoming ahead. The Threshold after thi
 **Dominion.** Sovereignty 310 (A) / Gravity 200 (B) / Sense 170 (C) / Fate 110 (C) / Command 60 (D) / Pressure 60 (D) / Radius 35 (E) / **Throne: not registered**
 **Dexterity.** Finesse 150 (C) / Feint 130 (C) / Reflex 100 (D) / Sequence 80 (D) / Evasion 60 (D) / Economy 50 (E) / Celerity 40 (E) / Grapple 30 (E)
 **Peaks** · **Depth 725** *(at ceiling)* · Suppression 560 · Overchannel 440 · Ward 440 · Yield 440 · Persistence 400 · Filtration 400 · Analysis 400 · Hardening 330 · Compression 330 · Fluency 330 · Sovereignty 310.
-**Ardency Conversion · 400 · A-Grade**, fixed where it stood at Invocation. He takes in more than he can turn, and every level he gains widens the gap.
-> **Conversion is the part of Overchannel that turns a working's rebound back into use.** The rest of Overchannel runs at 440. That part is held at 400, and the path that could raise it is Body Path at Stage V, which he has never walked. While he lives the requirement is only unmet. At 440 Overchannel carries its own risk, Overflow above D and Backlash above C, and no Path shields him from either.
+**Ardency Conversion · 275 · B-Grade**, fixed where it stood at Invocation. He takes in more than he can turn, and every level he gains widens the gap.
+> **Conversion is the part of Overchannel that turns a working's rebound back into use.** The rest of Overchannel runs at 440. That part is held at 275, the top of B, because rebound recovered past B needs Body Path at Stage V, which he has never walked. While he lives the requirement is only unmet. At 440 Overchannel carries its own risk, Overflow above D and Backlash above C, and no Path shields him from either. Hardening runs at 330 as passive rejection of contamination, which no Path gates; its active part is held at 175, the top of C, for want of Body Path at Stage III.
 > 
 > **Intake at the ceiling, turning frozen, and the difference banked in the Crystal.** Depth is the widest figure on his sheet and Conversion the one that does not move. The institutions would read a man of B- and C-Grade means. What decides the room is the 725 and the 560.
 > 
@@ -125,9 +125,9 @@ The First Catalyst is behind him and the Becoming ahead. The Threshold after thi
 
 **Path** · Spirit dominant, Fate secondary.
 **Peaks** · **Ardency Saturation 1,500** *(at ceiling)* · Resilience Severance 1,464 · Tempering Conversion 1,392 · Ardency Spectral 1,356 · Resilience Immunity 1,320 · Vitality Filtration 1,284 · Gnosis Adaptation 1,248 · Ardency Detonation 1,212 · Tempering Processing 1,176 · Resilience Nullity 1,140 · Gnosis Diagnosis 1,128 · Harmonics Voidance 1,104.
-> **Ardency Conversion · 400 · frozen at A-Grade.** Body Path at Stage V required, and the requirement is no longer merely unmet. It is unreachable. He gave up the living body the path was written for.
+> **Ardency Conversion · 275 · frozen at B-Grade.** Body Path at Stage V required, and the requirement is no longer merely unmet. It is unreachable. He gave up the living body the path was written for.
 >
-> **The Living Cauldron still cannot convert at volume, and now he never will.** Saturation sits at ceiling. Conversion sits exactly where it stood at Stage IX, five full Grades behind everything else he owns. Every level since has widened the gap rather than closed it.
+> **The Living Cauldron still cannot convert at volume, and now he never will.** Saturation sits at ceiling. Conversion sits exactly where it stood at Stage IX, six full Grades behind everything else he owns. Every level since has widened the gap rather than closed it.
 >
 > *Feed him faster than he can convert and he does not grow stronger. He backs up. He has been backing up since before he died, and the split housing is the only reason the backup hasn't already ended him.*
 
@@ -161,7 +161,7 @@ The First Catalyst is behind him and the Becoming ahead. The Threshold after thi
 
 **Effect** · Whatever is delivered into him — force, working, matter, weather — stops being what it was and finishes as something rotting. The conversion is visible and slow enough to watch, and what comes back out is never the same twice, which is the only reason anybody survives the first exchange.
 **Cost** · Intake exceeding Conversion, permanently and by design now rather than by accident. He holds more than he can process at all times, and the excess no longer has a living body's limits to eventually force a reckoning.
-**Limit** · Throughput. Conversion at 400 against Saturation at 1,500 — the widest gap on his sheet and getting wider.
+**Limit** · Throughput. Conversion at 275 against Saturation at 1,500 — the widest gap on his sheet and getting wider.
 **Counter** · Volume, same as it always was. Not precision, not purity, not fire. Overload the conversion and the Cauldron becomes a container. It just no longer has a bottom.
 > **What nobody knows.** What the Black Star Core is a pseudo-organ *of.*
 

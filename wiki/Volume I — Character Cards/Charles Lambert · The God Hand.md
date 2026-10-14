@@ -4,7 +4,7 @@ notion_id: "3e758200-eb22-8180-b78e-cf143eb6395b"
 notion_url: "https://app.notion.com/p/Charles-Lambert-The-God-Hand-3e758200eb228180b78ecf143eb6395b"
 section: "Volume I — Character Cards"
 tags: []
-last_edited: "2026-09-27T04:13:00.000Z"
+last_edited: "2026-10-14T00:35:00.000Z"
 verification: null
 ---
 
@@ -60,7 +60,7 @@ He married Anyu Qilak, from far enough north that the Concord had no name for he
 #### The Cost
 
 At Altherion, when Kaalabad's halberd had been flicked out of his hands, the general turned on Charles. Charles slipped four deliveries with empty hands before he was kneed and thrown, while Aurelian watched from four yards away and chose to do nothing.
-In the narrows at Kharven he turned the Scale. *"Sit omne quod fieri potuit. Nihil perficiatur."* It took him into the Imperceptible District, and the price was records: nineteen years of vestry minutes, the ordination roll, the marriage line in the parish book at Vaeloris, every paper that said who he had been. Then he stepped into Kujo's grip in place of the one it held, his feet left the ice, and he closed both hands on the wrist and held on.
+In the narrows at Kharven he turned the Scale. *"Sit omne quod fieri potuit. Nihil perficiatur."* It took him into the Imperceptible District, and the price was records: nineteen years of vestry minutes, the ordination roll, the marriage line in the parish book of the Vaeloris quarter, every paper that said who he had been. Then he stepped into Kujo's grip in place of the one it held, his feet left the ice, and he closed both hands on the wrist and held on.
 He learned there what the office was for. *A hand holds.*
 
 #### Where They Stand

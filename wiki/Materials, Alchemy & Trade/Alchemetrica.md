@@ -4,7 +4,7 @@ notion_id: "3b158200-eb22-8140-a871-e823c3f36d89"
 notion_url: "https://app.notion.com/p/Alchemetrica-3b158200eb228140a871e823c3f36d89"
 section: "Materials, Alchemy & Trade"
 tags: ["Alchemy", "Materials"]
-last_edited: "2026-09-28T17:03:00.000Z"
+last_edited: "2026-10-14T00:32:00.000Z"
 verification: "unverified"
 ---
 
@@ -20,17 +20,17 @@ verification: "unverified"
 
 ## What Alchemy Is
 
-Each of the sixty Wellsprings is a living process, a law of transformation encoded into the Continuum since Paru's First Speech, with nothing stored in it the way a reservoir stores water, and **six of them are at once Wellspring, cosmic principle and alchemical operation.**
+Each of the sixty Wellsprings is a living process, a law of transformation encoded into the Continuum since the Division, with nothing stored in it the way a reservoir stores water, and **six of them are at once Wellspring, cosmic principle and alchemical operation.**
 **That correspondence is the architecture of the discipline, and it was there before the trade had a word for it.** An alchemist working a Coagulation Draft **is channelling Coagulatio itself**, and the medium that carries it is the material on the bench, where a caster's medium is his own resonance.
 **Calcination and Distillation stand outside the six.** They are bench operations, worked at the fire and the still, and neither is a Wellspring: no soul harmonises with either. Each draws on a current all the same. A calcination runs on **Cinerion**, the Ash Veil, and a distillation runs on **Sublimare**, the Rising Breath.
 | Wellspring | Operation |
 |---|---|
 | **Dissolution** | Unravels cohesion into base frequencies |
-| **Coagulatio** | Binds and makes permanent |
+| **Coagulatio** | Gathers what is dispersed round a seed and sets it |
 | **Sublimatio** | Elevates **without passing through the states between** |
-| **Transmutatio** | Reconfigures identity under catalytic force |
+| **Transmutatio** | Re-expresses a thing in another basis, nothing created or lost |
 | **Fixatio** | Anchors and seals |
-| **Materia Primordia** | Crystallises Essence into permanent mineral form |
+| **Materia Primordia** | Re-lattices one Essence into another of its own forms |
 
 > **The crucible is a Soul Crystal analogue for inanimate matter.**
 >
@@ -64,7 +64,7 @@ What the alchemist does is arrange conditions and issue an authorisation so that
 >
 > **Aether Shell** · governs precision held steady across the whole length of a working, hours or days of it. **A muddy Shell produces muddy Drafts regardless of how perfect the inscription is, and there is no correcting it downstream.**
 >
-> **Attraction Layer** · the decisive variable in advanced work. A practitioner harmonised with Coagulatio runs Coagulation Drafts at **roughly a quarter of the vein depletion** of one who is not, **because the Wellspring already knows them.**
+> **Attraction Layer** · decides what advanced work costs and how far it can reach. A practitioner harmonised with Coagulatio runs Coagulation Drafts at **roughly a quarter of the vein depletion** of one who is not, **because the Wellspring already knows them.**
 >
 > *The best alchemists are not the best theorists. The formula and the practitioner are two halves of one invocation, and half of that invocation cannot be studied into existence.*
 > **THE PURE ALCHEMIST**
@@ -111,13 +111,13 @@ The Work moves through seven stages, in one order: **Calcination, Dissolution, S
 **Conjunction has no current.** It runs on Attraction, the law by which two drops on a pane run into one the instant they touch. It belongs to no single Wellspring. A Conjunction bench still needs its mediation glyphs, and a Conjunction corrupted injures Attraction itself.
 **For a Crystal-bearer, the maker's side of the Work is the Temperance path.** It is walked once through the first seven Stages and again through the seven above them, and each stage comes round a second time from higher up. Splintering is the first round's Fermentation. Invocation is the second round's Dissolution, Dissonance its Conjunction, and Zenith its Coagulation. The Work climbs as a spiral.
 **For a Crystal that never woke, the maker's side of each stage is walked in grain.** The matter in the vessel goes through the seven exactly as it does for anyone. The maker hardens along the stages without tempering, and no instrument in the Accord reads how far he has come.
-**The stages and the four operations are two maps of one ground.** The Bench files a Draft under the operation that names what it does to its charge. The Work names where the working and its maker stand. Calcination and Distillation are stages of the Work and bench operations at the fire and the still, and neither is a Wellspring.
+**The stages and the four operations are two maps of one ground.** The Bench files a Draft under the operation that names what it does to its charge, and enters the Wellspring it invokes in its Authorization role. A Fixatio or Materia Primordia Draft files as a Coagulation, for it makes permanent and crystallises. A Dissolution or Transmutatio Draft files as a composite, named by the operations its effect passes through, and its failure is read from Preparation Failure's line for its Wellspring together with the rows of those operations. The Work names where the working and its maker stand. Calcination and Distillation are stages of the Work and bench operations at the fire and the still, and neither is a Wellspring.
 
 ### The Tria Prima
 
 **Sulphur, Salt and Mercury** are the three principles of a body: the active, the fixed and the one that mediates. Each answers to a layer of the Crystal by plane, **Sulphur to the Essence Core, Salt to the Aether Shell, Mercury to the Attraction Layer.**
 **Spagyria is medicine layer by layer.** The spagyrist parts a plant into its three principles, purifies each and puts them back. The Sulphur is the oil from the still, the Mercury the spirit from the ferment, the Salt the ash of what is left, burned white and crystallised. Parted and purified, each principle reaches one layer of the patient, so a spagyric medicine treats a man one layer at a time.
-**Separate, purify, recombine.** The separating is a Parting. The purifying is the Distillation of the Work, read at the Whitening. The recombining is a Wedding. *The separating and the Whitening are safe in a careful house. The Wedding carries the Rupture risk of any Conjunction.*
+**Separate, purify, recombine.** The separating is a Parting. The purifying is the Distillation of the Work, read at the Whitening. The recombining is a Wedding. The Work's order is kept charge by charge: each principle whitens in its own vessel, where no Wedding can fall, and the Wedding is the Conjunction of the joined medicine. *The separating and the Whitening are safe in a careful house. The Wedding carries the Rupture Event risk of any Conjunction.*
 
 ### Medicine by the dose
 
@@ -127,10 +127,10 @@ The Work moves through seven stages, in one order: **Calcination, Dissolution, S
 
 ## The Four Operations
 
-*Every Draft ever entered in the Standing Index is one of four operations or a composite of them. The operations are verb-classes, and the Bench files by them; the stages of the Great Work map the same ground another way.*
+*Every Draft ever entered in the Standing Index is one of four operations or a composite of them. The operations are verb-classes, and the Bench files by them; the stages of the Great Work map the same ground another way. The chains are the Bench's common role chains; the Wellspring a row names is the current the working runs on, not a pairing its glyphs must carry.*
 | Operation | Law | Physical register | Failure mode |
 |---|---|---|---|
-| **Coagulation** *mirrors Coagulatio* · `[Ur] Balance` `[Ma] Recall` `[Th] Foundation` | Binding, solidifying, making permanent | Precipitation, setting, crystallisation: **the moment a suspension becomes a solid and stops behaving like a liquid.** Thermodynamically the least demanding, and the first operation a Drafter runs alone | Coagulatio is stable and **deactivates cleanly.** *A collapsed Coagulation leaves you with wasted stock and a lecture* |
+| **Coagulation** *mirrors Coagulatio* · `[Ur] Balance` `[Ma] Recall` `[Th] Foundation` | Gathering and setting: what was dispersed comes out of suspension round a seed | Precipitation, setting, crystallisation: **the moment a suspension becomes a solid and stops behaving like a liquid.** Thermodynamically the least demanding, and the first operation a Drafter runs alone | Coagulatio is stable and **deactivates cleanly.** *A collapsed Coagulation leaves you with wasted stock and a lecture* |
 | **Distillation** *draws on Sublimare* · `[Ie] Perception` `[Ur] Balance` `[Flx] Flux` | Isolation and purification: the true signature parted from everything else in the vessel | Vaporisation and recondensation, fractionation. **Also the forensic operation**: high-level Distillation isolates an Essence type back to its root origin, which is how a corrupted vein is identified **and how a lot's Provenance Class is confirmed when the seller's warranty is doubted** | A Distillation without a Direction glyph **separates every signature present, including the ones you meant to keep.** *Technically successful and commercially worthless* |
 | **Sublimation** *mirrors Sublimatio* · `[Xr] Excision` `[Vael] Renewal` `[Ora] Truth` | Elevation without intermediate states; burden converted to clarity | A solid becomes vapour and returns as a purer solid **without ever having been liquid**, and **there is no stage between at which the working can be inspected or corrected.** A harmonised alchemist can attempt workings structurally inaccessible to a purely theoretical one, *because the process already knows them and shortens the road accordingly* | **There is no partial Sublimation.** What did not rise stays in the bottom of the vessel **as a fused mass that has to be broken out with a chisel** |
 | **Conjunction** *no single Wellspring mirror* | The Attraction-aligned law of merging, the same principle that governs Synergia, Domain formation and Essence fusion. **The most dangerous operation in the discipline** | Incompatible Wellsprings forced together without mediation produce **Rupture Events.** The Parunic mediation glyphs **are the structural buffer the Continuum requires before it will permit two laws to occupy one substrate**, and every stroke of them bears load. *The common laying is [Wvn] Weave at three points round the vessel, to lock a third glyph in place while the two principles meet, and [Ap] Aperture at the neck, to let pressure out before it can spill.* | **Rupture.** **The two laws contest, inside a sealed vessel, and the vessel is the first thing to lose**; neither blends with the other and neither cancels it. *Conjunction benches are sited against an outer wall and the outer wall is built light on purpose, so that it goes before the roof does* |
@@ -146,7 +146,7 @@ flowchart TD
     B --> T["3 THE TAKING<br>dissolution into the menstruum"]
     T --> P["4 THE PARTING<br>separation · filtration, decanting"]
     P --> RO["5 THE ROT<br>putrefaction · 3 to 4½ turns, unopened"]
-    RO --> W["6 THE WEDDING<br>conjunction · where a Rupture happens"]
+    RO --> W["6 THE WEDDING<br>conjunction · where a Rupture Event happens"]
     W --> F["7 THE FEEDING<br>cibation · measured increments"]
     F --> RI["8 THE RISING<br>sublimation · on the cold walls"]
     RI --> S["9 THE SETTING<br>congelation · process becomes object"]
@@ -165,7 +165,7 @@ flowchart TD
 > The Rot is the Turning folk tradition understands best. **It is death before the thing can be remade**, and the workshops say so without embarrassment, **and it is one of the very few places where the trade's own language and the temple's have never diverged.**
 >
 > **Fermentation begins here.** The Rot is the killing half of the stage and the Feeding is the half that grows the work back. The doctrine counts a stage where it completes, so the bench rots before it weds while the Work names Conjunction before Fermentation, and both orders hold.
-**The Wedding** · Fast, decisive, and **the point at which a Rupture happens if one is going to.** The mediation glyphs go down round the vessel before the pour, and the pour is one movement. *The bench's stock carries the working. The strain lands in the maker's body.*
+**The Wedding** · Fast, decisive, and **the point at which a Rupture Event happens if one is going to.** The mediation glyphs go down round the vessel before the pour, and the pour is one movement. *The bench's stock carries the working. The strain lands in the maker's body.*
 **The Feeding** · Never all at once, because **a working that is fed too fast completes the nearest available version of its process, and the nearest is seldom the one intended.** **Fermentation completes here**, in the growing back after the Rot's killing. *A master feeds by eye. An apprentice feeds by the clock and by written weight and is not permitted to deviate.*
 **The Rising** · Vapour to solid on the cold walls of the Riser, **and whatever failed to rise is a loss that cannot be recovered.**
 **The Setting** · **From here the process is over and the product exists as an object.**
@@ -222,7 +222,7 @@ flowchart TD
 
 ## Heat
 
-*Every alchemist in the four quarters judges temperature by flame colour, by the sound of the charge, and by holding a hand where a hand should not go. There is no instrument. There has never been an instrument.*
+*Every alchemist in the four quarters judges temperature by flame colour, by the sound of the charge, and by holding a hand where a hand should not go. The instrument-makers sell glass thermometers for the baths and thermocouples and pyrometers for the furnace, and every one of them reads the bed or the fire and never the charge inside the sealed glass.*
 | Bed | Behaviour |
 |---|---|
 | **The Still Bath** | Water. Gentlest, self-limiting at the boil. Named for Ithra, **credited in three traditions and attested in none.** *Cannot be overheated, which is why apprentices are given it and why masters resent being given it* |
@@ -232,7 +232,7 @@ flowchart TD
 | **Open flame with the bellows** | The top of the range. Judged by colour, from dull red through cherry and orange to white, **and a master will name a temperature off the colour to within a hundred degrees and be right** |
 | **The Long Furnace** | Brick, with a fuel tower feeding charcoal down by gravity. Holds a constant low heat for turns or months without a hand on it. **A Long Furnace that goes out mid-working has destroyed more accumulated value than any fire in the record** |
 
-> The practical consequence of having no instrument is that **heat is a craft skill.**
+> The practical consequence of an instrument that stops at the glass is that **heat is a craft skill.**
 >
 > **The Bench knows this. The Bench requires a reference lot precisely because the written formula will not get anybody there.**
 
@@ -340,7 +340,7 @@ It looks dark, **because the working is read by colour through glass and bright 
 >
 > **The structural debt has a mechanism and it is a Sealing failure.** The Four Glyph Roles run in sequence: the Seal closes an operation against the warrant that opened it. **A working with no Authorization has no warrant to close against, so it cannot lawfully Seal and therefore does not end.** It is interrupted, abandoned or exhausted, and the boundary it opened stays open. *That open boundary is the debt, the vein depletion and the Rot, described three ways, and by Statute XXVI nothing closes an unsealed boundary.*
 >
-> It also produces practitioners with real technical skill and **no Wellspring harmonisation at all**, a gap invisible at low tiers and catastrophic at high ones, **because a Mechanica-trained Crystal-bearer at Master has never once been recognised by anything and will not be when it matters.**
+> It also produces practitioners with real technical skill and **no Wellspring harmonisation at all**, a gap invisible at low tiers and catastrophic at high ones, **because a Mechanica-trained Crystal-bearer can reach Master at Transcendence, every Tier entered in the Lattice Ledger, without once being recognised by a Wellspring, and the gate to Invocation is a call to Wellsprings, Titans or Archonic law as co-authors: nothing he calls will answer.**
 >
 > **It leaves a residue that never thins.** An ordinary working's residue is loud for some hours and then thins toward a floor it never passes. Mechanica residue holds where it was left, undiminished. *Finding the taking itself takes two instruments. The coil reads a field and the gauge a density, and where the two will not reconcile, the discrepancy is the size of what is being taken. It also takes somebody who can be bothered to compare them.*
 
@@ -395,7 +395,7 @@ Three further devices are standard. **Syncope**, in which a necessary step is si
 | **Luteboy** | Mixes and applies lute. **The most dangerous responsibility given to the least qualified person in the building**, and the point at which a house finds out whether it has hired somebody careful |
 | **Bellows** | Heat. Learns flame colour, learns to hold a bed steady through a night, **learns that more workings are lost to inattention than to error** |
 | **Hand** | Permitted to run Turnings under a master's chain. **Scribes no circle and seals nothing** |
-| **Drafter** | Journeyman. Runs Coagulations alone, Distillations under supervision, **and is not permitted near a Conjunction bench for another four years** |
+| **Drafter** | The house's journeyman, a rung and not a Tier. Runs Coagulations alone, Distillations under supervision, **and is not permitted near a Conjunction bench for another four years** |
 | **Master of the Circle** | Scribes and seals. **Carries the liability.** In most polities personally accountable for whatever the circle closes, a Boundary failure above all, **and the accountability does not transfer to the house** |
 | **Alchemarch** | A title outside the rungs, conferred and never climbed to, held by perhaps forty people in the four quarters. **An Alchemarch's signature on a reference lot is accepted by the Bench without independent assay**, the only such exception in the entire procedure |
 

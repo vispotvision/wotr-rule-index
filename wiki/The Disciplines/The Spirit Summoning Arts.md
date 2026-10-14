@@ -4,8 +4,8 @@ notion_id: "3b158200-eb22-8181-8403-e3416fd5a83a"
 notion_url: "https://app.notion.com/p/The-Spirit-Summoning-Arts-3b158200eb2281818403e3416fd5a83a"
 section: "The Disciplines"
 tags: []
-last_edited: "2026-09-12T16:59:00.000Z"
-verification: "unverified"
+last_edited: "2026-10-14T00:32:00.000Z"
+verification: null
 ---
 
 # The Spirit Summoning Arts
@@ -69,6 +69,7 @@ This is the art behind eidolons that can think, adapt, feel, and persist beyond 
 **Tier I** constructs do not think and do not persist. They are reflexive extrusions, **the summoning equivalent of throwing a punch**. Used for training, distraction, and emergency shielding.
 **Tier II** carries the summoner's Typology visibly — an Ignis-typed summoner produces flame-wreathed forms; an Aqua-typed summoner produces fluid, reflective shapes — and follows simple behavioural directives. Material anchors (a glyph-marked stone, a prepared focus object, a drop of the summoner's blood on a sigil) extend duration and reduce continuous Shell strain. Summon Stability sits at E-Tier to D-Tier.
 **Tier III** is the first tier where Vocatia becomes viable, and the difference is felt rather than measured. A Vocatia-invoked spirit carries an identity that did not originate entirely within the summoner. **It may act in ways the summoner did not anticipate. It may refuse orders that contradict the nature of the entity being channeled.** This is not malfunction. It is proof that the invocation contacted something real. Summon Stability C-Tier to B-Tier.
+A Tier III body carried by a poured vessel and a Binding, as in the Mortalis completion, may be raised from Refraction, the Arts gate for material-anchored constructs; see The Necrocursica.
 **Tier IV** fractures the summoner's Essence output across multiple simultaneous constructs and synchronizes them through a shared Concordia field. The summoner is not controlling each spirit individually; they are sustaining a harmonic network. At B-Tier a skilled practitioner sustains three to seven constructs. At A-Tier dozens become possible, though diminishing returns set in as each additional form degrades network coherence. **The Guild Accord classifies advanced Legion practitioners as strategic assets rather than individual combatants.**
 > **Tier V · World-Tethered Summoning** does not create a construct the summoner sustains. **It creates a construct the world sustains.** Through Mnemata and Vocatia, the summoner anchors a presence to an existing node on the Plane of Fate: a Wellspring vein, a Domain, a bloodline's ancestral lattice, or a location with sufficient Continuum memory to act as host.
 >

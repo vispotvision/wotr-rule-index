@@ -4,7 +4,7 @@ notion_id: "3e358200-eb22-8105-939b-dec93181c777"
 notion_url: "https://app.notion.com/p/Lu-Sanjing-3e358200eb228105939bdec93181c777"
 section: "Volume I — Character Cards"
 tags: []
-last_edited: "2026-09-26T16:20:00.000Z"
+last_edited: "2026-10-14T00:35:00.000Z"
 verification: null
 ---
 
@@ -100,7 +100,7 @@ The distinction of the career had rested on what he recorded. At its end he reco
 #### Where They Stand
 
 The scholarly houses have produced eleven competing accounts of the mechanism. The Accord enforces the one that suits its supply contracts. His line stands among them as the honest position, and it claims no mechanism at all.
-It is still read. On Cutler Row, at the third hour, with the district main off and rain on the shutter, Wystan Ashmore of the Night Register held it against the eleven accounts and the one the Accord enforces. Beside it he set Vaeloris, which had reformed after the void took it with nobody making it happen, and which the Curia had called a miracle.
+It is still read. On Cutler Row, at the third hour, with the district main off and rain on the shutter, Wystan Ashmore of the Night Register held it against the eleven accounts and the one the Accord enforces. Beside it he set Vaeloris in Ketsuen, which had reformed after the void took it with nobody making it happen, and which the Curia had called a miracle.
 In the Research and Archives Division, Dr. Vaelion Rhest is first at the sources that fail, and he works the question the line answered. No record has the two men meet.
 
 #### Ties

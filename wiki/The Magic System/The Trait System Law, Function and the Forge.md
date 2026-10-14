@@ -4,7 +4,7 @@ notion_id: "3d558200-eb22-81ab-a65f-e63097e58d06"
 notion_url: "https://app.notion.com/p/The-Trait-System-Law-Function-and-the-Forge-3d558200eb2281aba65fe63097e58d06"
 section: "The Magic System"
 tags: ["Magic System", "Reference Table"]
-last_edited: "2026-09-26T14:14:00.000Z"
+last_edited: "2026-10-14T00:22:00.000Z"
 verification: "unverified"
 ---
 
@@ -37,7 +37,7 @@ Third, awakening does not grant a person new Traits. It reveals and arms the one
 
 Class Ø souls also refine under strain. The process is real, it is lifelong, and it is not Temperance.
 Temperance is a melt and a recasting. The Crystal loses its shape entirely and reforms around whatever held true through the heat. **The Weathering** is the same pressure applied without the melt. The soul does not liquefy. It hardens in place, along the direction it was already being used, the way a beam takes a permanent set under load or a hand takes a callus exactly where the tool sits. The trade word is borrowed from the joiners, the same word the halls use for a Crystal's seat, and the borrowing is deliberate.
-What this produces: a real and measurable strengthening of whatever the person already was, and no capacity whatsoever to become something else. A fisherman weathered by forty years of cold water acquires a cold tolerance that will outperform an unspecialised practitioner three Stages above him. He cannot convert one hour of it into anything but cold tolerance. The grain runs one way and it will never run another.
+What this produces: a real and measurable strengthening of whatever the person already was, and no capacity whatsoever to become something else. A fisherman weathered by forty years of cold water acquires a cold tolerance that will outperform a practitioner three Stages above him who never spent a point on the cold. He cannot convert one hour of it into anything but cold tolerance. The grain runs one way and it will never run another.
 The common word for it in most working registers is **grain**. A weathered man is said to have grain, or to be *set*. In Kharven the compliment is that a man has taken his set clean, and the insult is that he set crooked, which means the hardship shaped him and shaped him wrong.
 The political weight here is the important part. The elite are not superior in soul material. They are superior in access to the melt. A commoner's soul can only ever harden in the direction his life already pushed it. A house son can be melted and recast toward whatever the house needs. That is the actual mechanism of hereditary advantage in the Draw Age, and the houses know it, and their scholars have written a great deal to say it is something else.
 

@@ -4,7 +4,7 @@ notion_id: "3b258200-eb22-8188-b889-f849c8cc7c56"
 notion_url: "https://app.notion.com/p/Kwon-Mu-jin-3b258200eb228188b889f849c8cc7c56"
 section: "Volume I — Character Cards"
 tags: []
-last_edited: "2026-10-06T20:11:00.000Z"
+last_edited: "2026-10-14T00:36:00.000Z"
 verification: null
 ---
 
@@ -14,6 +14,7 @@ verification: null
 
 **Say it** · KWON moo-JIN
 *The Teacher · Archmagus of Alchemetrica · Card 21*
+**Stats · The Academy Years, 715 IC, age 38.** Every figure on this card is his loadout at the Aetherion Academy. **Before the Ashgate road** (701 IC, age 24) he last read Stage X Realization, η 0.78, some twelve million units in the winter of 699 to 700 IC, about Level 285 by the Level law; Volume III withholds any later read.
 > **Level 430 at Stage XII** — he has arrived in the Absolute band early, *still at Emanation rather than Principality*, having only just cleared the gate requiring Stage XII to pass Level 400.
 > 
 > **An honest floor of Grade S across everything he does not specialise in, and a genuine SS spike in the one stat that has carried his entire identity since he was fourteen.**
@@ -26,7 +27,7 @@ verification: null
 **Also known as** **The Ledger-Prince** *(court epithet, resented)* · The Open-Handed Alchemist
 **Race / Lineage** Human — **Mahuo court line**, scholar-nobility of the house at Sum-gol, Ketsuen
 **Age** 24 · **Sex** Male
-**Standing** Guild Accord, **Division of Alchemetrica, Archmagus-ranked.** Mahuo summoning lineage, formally trained. **Self-bound to the Dawn Guard's teaching vow, embedded with the Zettari war camp**
+**Standing** Guild Accord, **Division of Alchemetrica, Archmagus-ranked.** Mahuo summoning lineage, trained in the house art at Sum-gol from 697 IC; entered by the Division as a Registered Natural, no academy credential. **Self-bound to the Dawn Guard's teaching vow, embedded with the Zettari war camp**
 > **Catalyst Event.** Presented a corrected Fixation array to the court's Senior Alchemist **at fourteen** — not to embarrass him, *just because the glyph chain was wrong and would have killed the patient.*
 > 
 > **He was right. He was also fourteen** — and the court's answer to being shown up by a child was **to make him a symbol instead of a person.** The Ledger-Prince, paraded as proof of the kingdom's brilliance, **never asked what he wanted.**
@@ -179,8 +180,8 @@ Then the title-writ came. It named his grade before it named him anything else. 
 
 He wanted alchemy and summoning made common inheritance, held by no court and no bloodline, and he took them on the road to teach. Ara travelled his circuit with him. At fifteen he copied out a book on breaking a net's geometry. At twenty-two he stood in front of a Legion-class working with a piece of chalk and a book, and the thing answered him. Nine students sat in his room at Sum-gol. One of them was left, Doyun. Four separate Accord assessments called Mu-jin temperamentally unsuited to field deployment. He went wherever he was sent.
 The Zettari Sovereign, Dawn Guard, held an inquiry into Legion Summoning and the crimes of Cozbi Mahuo. That night he asked Mu-jin, whom he had met hours earlier, to name someone of the Mahuo worth trusting and to draft the terms of an alliance under his seal. Mu-jin drafted them by lamplight in a camp still cold from the day's teaching. The Accord condemns his kinsman "without qualification and without appeal to inherited grief as excuse". It proposes Ara's marriage to the Sovereign and makes her consent its first condition, given with no brother in the room. It makes Mu-jin the line's representative until her standing is settled. It binds him to name the Zettari's failures in whatever room the Sovereign stands in. Before morning he wrote to his sister. He would not settle her life the family's way. "So I am asking you instead."
-At Rimward a wall of dressed stone came down toward a boy of eleven. Mu-jin had a second and a half, and no Draft he knew formed that fast. He asked without one, as though he held a standing he did not have, and he knew what he was doing while he did it. Something answered. He lost his right eye at Rimward, and he saved Frithia's life there. Ara held both his hands for four hours. When he woke he would not discuss what had answered, because he could not give it a shape. He promised her nothing would happen to him, and he heard the sentence go out with nothing under it. She called him a liar. He agreed.
-Kaalabad came to Sum-gol in the summer. In the orchard he put a spike through the eye of Raga, Mu-jin's bear, and took Mu-jin's right arm at the shoulder without touching it. Eleven of the orchard's thirty-one trees came down at the root, and nobody at the school would be the one to clear them. The arm carried no wound, and the physician wrote "no finding". In a room with a table and two cups on it, Geuk-hon told him to stop lifting it. He was holding the arm the way he had held the roster, wanting it back annotated and gradeable. He put it down and counted what was left.
+At Rimward, the Holy Sea's harbour, a wall of dressed stone came down toward a boy of eleven. Mu-jin had a second and a half, and no Draft he knew formed that fast. He asked without one, as though he held a standing he did not have, and he knew what he was doing while he did it. Something answered. He lost his right eye at Rimward, and he saved Frithia's life there. Ara held both his hands for four hours. When he woke he would not discuss what had answered, because he could not give it a shape. He promised her nothing would happen to him, and he heard the sentence go out with nothing under it. She called him a liar. He agreed.
+Kaalabad came to Sum-gol in the autumn. In the orchard he put a spike through the eye of Raga, Mu-jin's bear, and took Mu-jin's right arm at the shoulder without touching it. Eleven of the orchard's thirty-one trees came down at the root, and nobody at the school would be the one to clear them. The arm carried no wound, and the physician wrote "no finding". In a room with a table and two cups on it, Geuk-hon told him to stop lifting it. He was holding the arm the way he had held the roster, wanting it back annotated and gradeable. He put it down and counted what was left.
 
 #### Where They Stand
 

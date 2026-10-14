@@ -4,7 +4,7 @@ notion_id: "3bc58200-eb22-81c9-8a85-e32caf0235ed"
 notion_url: "https://app.notion.com/p/The-Apparatus-of-the-Age-Equipment-and-Material-Culture-3bc58200eb2281c98a85e32caf0235ed"
 section: "Materials, Alchemy & Trade"
 tags: ["Materials", "Trade & Economy"]
-last_edited: "2026-09-26T14:16:00.000Z"
+last_edited: "2026-10-14T00:19:00.000Z"
 verification: "unverified"
 ---
 
@@ -235,7 +235,7 @@ verification: "unverified"
 *The materials the age is built from are mostly the old ones in quantities no earlier age could have imagined, and a few that no earlier age had at all.*
 **Steel and iron** · **Cheap, for the first time in history.** Forge-arrays running on the main pour steel by the ton, and rail, girder, engine frame, wire, nail and needle all come out of the same works. Stillband ore is the backbone of every bridge in the western quarter; Forge-Iron arms the line. *Steel was a sword once. Now it is a fence post, and a smith who priced by the old weight has gone out of business.*
 **Rubber and gutta-percha** · Tapped from trees in the chartered plantations of the south and east and shipped west in the raw. **Rubber makes the tyre, the hose, the belt and the gasket; gutta-percha insulates the Guild wire where it runs underground and under rivers.** *The plantations are the far end of a chain whose near end is a motorcar at a city kerb, and neither end has seen the other.*
-**Early plastics** · **Of the late span.** Celluloid for collars, combs, billiard balls and film stock; a bench-cured resin for telephone housings and switch plates. Cheap, bright, and inclined to burn. *The Alchemetrica classes both as alchemical products, which they are, and the alchemical houses price them accordingly.*
+**Early plastics** · **Of the late span.** Celluloid for collars, combs, billiard balls and film stock; a bench-cured resin for telephone housings and switch plates. Cheap, bright, and inclined to burn. *Both come off alchemical benches, and the alchemical houses price them accordingly.*
 **The Ledger's materials** · The age runs on these as much as on steel, by their own names. **Chainsalt** for the isolation collars of every main and the separator plates of every charged cell. **Kirkyard Lead** for the rich districts' water pipes and the shielding of every assay room. **Greaves Tin** for the array contact and the ration can alike. **Cloudmetal** for the airship frame and the aeroplane, from works that exist in four places. **Stormfulgur** for conduit that grew itself in the nitre pans. **Clearbeam Beryl** for the street lamp's lens. **Aethersteel** for every engine rotor on the main. *The Master Material Ledger lists each by tier and hazard; this register lists them by where a clerk will meet them.*
 
 ---

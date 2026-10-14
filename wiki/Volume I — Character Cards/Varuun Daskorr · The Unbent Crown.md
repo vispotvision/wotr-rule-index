@@ -4,7 +4,7 @@ notion_id: "3d958200-eb22-8187-b75c-eb9e1d491598"
 notion_url: "https://app.notion.com/p/Varuun-Daskorr-The-Unbent-Crown-3d958200eb228187b75ceb9e1d491598"
 section: "Volume I — Character Cards"
 tags: []
-last_edited: "2026-09-27T04:17:00.000Z"
+last_edited: "2026-10-14T00:31:00.000Z"
 verification: null
 ---
 
@@ -28,7 +28,7 @@ verification: null
 
 #### Affiliation
 
-**Reigning monarch of the Kingdom of Babyl** (struck polity, see flag), an Inner World dominion of stone and faith, ruling from the citadel of Karn-Bael, seat of the worked Core of Coagula. **Signatory of the Guild Accord**, though he delays decrees citing "Temporal Weight Clauses". **Era** · Withering Era, Imperial Age, reigning from Year 742.
+**Reigning monarch of the Kingdom of Babyl** (struck polity, see flag), an Inner World dominion of stone and faith, ruling from the citadel of Karn-Bael, seat of the worked Core of Coagula. **Signatory of the Guild Accord**, though he delays decrees citing "Temporal Weight Clauses". **Era** · Withering Era, Imperial Age, reigning in the present.
 **Lineage** · The Daskorr bloodline, an ancient noble family tracing descent to the original Lawbearers of Coagula; its ancestors served the Dawn Guard as oath-smiths and lords of mineral law. **Rumoured to carry fragments of Atlazon's Strain**, granting each heir a subtle gravitational aura that commands reverence even in silence.
 > **Catalyst Event · Stage VIII, Transcendence.** *Resolving a core internal contradiction documented in the Crystal's fracture record. Objects retain their weight and gain a second weight, and both facts are operative, and the practitioner has to keep functioning while holding them. The first true Domain forms.*
 > 

@@ -4,7 +4,7 @@ notion_id: "3bc58200-eb22-810f-ac23-e2613ea61705"
 notion_url: "https://app.notion.com/p/The-Four-Crafts-3bc58200eb22810fac23e2613ea61705"
 section: "The Magic System"
 tags: ["Magic System", "Disciplines"]
-last_edited: "2026-09-27T19:50:00.000Z"
+last_edited: "2026-10-14T00:24:00.000Z"
 verification: "unverified"
 ---
 
@@ -154,7 +154,7 @@ The discipline of building a lawful Parun sentence and committing it to a medium
 >
 > ***It puts a working into the hands of somebody who cannot work.***
 >
-> Spellcraft, Runecraft and Chantcraft all require a Soul Crystal. **Draftcraft requires one only at the moment of manufacture.**
+> Spellcraft, Runecraft and Chantcraft all require a woken Soul Crystal. **Draftcraft requires one only at the moment of manufacture, and there only behind the seal on work made to stand: under the Law of Alchemical Independence a pure alchemist, whose Crystal never woke, pours Drafts all the same.**
 >
 > After that the working is **a thing in a bottle** — and the bottle can be **carried by a courier, sold by a factor, taxed at a gate, stolen off a corpse, watered down by a dishonest apothecary, and drunk by a farmer who has never harmonised with anything in his life.**
 >

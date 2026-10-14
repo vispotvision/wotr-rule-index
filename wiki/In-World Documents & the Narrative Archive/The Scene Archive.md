@@ -4,7 +4,7 @@ notion_id: "3b258200-eb22-8132-a010-ec6fd17e718b"
 notion_url: "https://app.notion.com/p/The-Scene-Archive-3b258200eb228132a010ec6fd17e718b"
 section: "In-World Documents & the Narrative Archive"
 tags: []
-last_edited: "2026-10-14T00:04:00.000Z"
+last_edited: "2026-10-14T14:36:00.000Z"
 verification: null
 ---
 
@@ -286,3 +286,9 @@ verification: null
 - [[Returning Water — Aetherion Arena]]
 - [[The Last Quiet Room]]
 - [[Lion's Bane]]
+- [[The Judging Paw]]
+- [[The House It Guards]]
+- [[The Black Tortoise]]
+- [[The Shape of the Room]]
+- [[The Furniture and the House]]
+- [[Hiromi at the Brink]]

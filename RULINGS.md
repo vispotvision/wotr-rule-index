@@ -2935,3 +2935,19 @@ Context: Isaac in Claude Code chat: "wouldn't it be more efficient to do it the 
 Isaac's direction 2026-10-13: the 1900 limit on scientific ideas is retracted. Ideas from modern science (physics, chemistry, biology and the rest, up to the present day) may be used in battle and in magical advancement: to explain how a working or a fight operates, to drive a practitioner's or a school's magical research, and to found new techniques. Who knows them is earned by magic: high-Stage practitioners, Measurewrights and scholars reach them through the Aether before any instrument could, so they speak in diagnostic voices and the author notes, while commoners keep their own words for the same thing. Manufactured technology is unchanged: the Imperial Age span (R53-01, the 1800s into the middle of the 1900s) and the firearm ceiling at 1900 hardware (R53-03) still govern what is built and carried. This closes C-158: R11-C's "nothing post-1900" no longer limits ideas, and R53-01 governs hardware.
 
 Context: Isaac in Claude Code chat: "I want to retract my statement about not using physics that hasn't been invented yet think it'd be fine if we utilize scientific ideas from the modern day in battle and in magical advancement." Scope answered by questionnaire the same turn: ideas only (hardware cap kept), knowledge earned by magic.
+
+## 2026-10-13 — C-113, C-114, C-120, C-121, C-135
+
+Agent rulings (Natalie, 2026-10-13, under the canon precedence ladder; Isaac may overturn any of them). Called on Isaac's word in chat: "we need make sure rules are consistent".
+
+C-113: The present is Year 715 IC (calendar follow-up 2026-09-28; answer 131), so the five card Era lines that open careers in 739 to 746 IC lose their year figures and keep era plus "to present" / "in the present": Dr. Vaelion Rhest, Lyssara Veyn, Seren Valenne, Elthiré Maen, Varuun Daskorr. No replacement year, as no source carries one. Grounds: rung 1 over rung 4.
+
+C-114: The first Concord Gates were forged in the Voyager Era. The Gate Network page's engraving (Year 003 IC), the Concordance of Ages and The Four Ceilings agree; the page's "Withering Age" line is corrected to "Voyager Era, when the mortal world still lay fractured into isolated Wellspring territories". Grounds: rung 4 agreement, internal logic.
+
+C-120: The four Accord reassessments stand (Volume III, after the Legion night, before Ashgate). The school figure is wrong: the east room is autumn 698 IC and the Ashgate road summer 701 IC, so "run a school for eleven years" becomes "three years" in scene 10 and the Curia copy. Grounds: rung 1 ratified Volumes II and III, C-106.
+
+C-121: Level 430 at Stage XII is Mu-jin's Academy loadout (715 IC, age 38), not his pre-Ashgate one. On the Malphas precedent (C-100) his card carries two dated loadouts: the present block headed "The Academy Years, 715 IC, age 38" with figures unchanged, and a pre-Ashgate line carrying only what canon reads (Stage X Realization, η 0.78, some twelve million units in winter 699 to 700 IC, Level about 285 by the Part Twenty-Three law). Grounds: Isaac 2026-09-18 ("two decades of work after a prodigy's start"), R65-7, Volume II.
+
+C-135: Not a conflict. "Formally trained" is the Mahuo house art (from winter 697 IC, Volume II); "Registered Natural" is the Division's status for a practitioner without academy credential (Volume III). The card's Standing line is clarified to carry both.
+
+Context: Drafted by a read-only research agent per conflict, checked by Natalie in Claude Code before logging. Application to Notion pages, scenes and CONFLICTS.md status follows.

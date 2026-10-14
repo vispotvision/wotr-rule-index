@@ -14,7 +14,7 @@ Applied without asking; "after" marks a fix that waits on a decision. Conflict r
 - Vol III docx 122, 142, 150, 160, 174, 176, 194, 256; wiki Volume the Third 72, 102; Corrant 205, 209, 211, 247, 251, 261, 265: Where a Wellspring is treated as a place, say 'site' (or 'vein' for the channel): 'the Anamnesis site at Genesio'. 'Wellspring node' and 'primary node' become 'the heart of the site' (Wellspring Core only if WS2 places it at Fountainhead). 'Anamnetic Wellspring pressure' becomes 'the site's density'. Keep docx 176's 'quality of attention' sentence and docx 112 where the current itself is meant. The report titles at Vol III docx 404 and Necrocursica 497 follow WS4 and WS5.
 - Codex Volume I (line 96): 'a Parunic dialect' becomes 'a Parunic hand', whichever amulet option is chosen: canon's varieties of written Parun are hands, and 'dialect' is its word for spoken varieties.
 - Volume the First :40; Volume II docx :149: 'older than the current Epoch's reckoning' becomes 'older than the count itself'. Wording polish only: Errata 34 says no Epoch calendar existed, and Errata 39 already clears the Alftian codices of citing an Age.
-- Volume I :72, :133; Volume II docx :31; Necrocursica :81: Keep 'the Archons', 'the Continuum', 'Paru's First Speech' and 'the Veil' as written: all are live canon terms and need no conversion.
+- Volume I :72, :133; Volume II docx :31; Necrocursica :81: Keep 'the Archons', 'the Continuum' and 'the Veil' as written: all are live canon terms and need no conversion.
 - The Corrant Papers lines 17 and 71; Volume III cross-reference line 404: 'Research Archives Division' becomes 'Research and Archives Division', canon's name for the Accord's scholarship branch
 
 ## Codex Volume II

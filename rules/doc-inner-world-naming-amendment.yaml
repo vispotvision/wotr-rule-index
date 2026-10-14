@@ -619,7 +619,7 @@ rules:
     source:
       file: WOTR_Inner_World_Naming_Amendment.md
       lines: "142"
-    notes: null
+    notes: 'Partly amended by agent ruling C-118 (2026-10-13): a hyphen marks a Mahuo given name; no hyphen alone does not mark the halls (Ara Min Mahuo; R65-9 Seok Doyun). Korean-stratum names outside the Mahuo house are written joined; the halls are told by courtesy name or generation character.'
 
   - id: R23-10-CHINESE_PHONOTACTICS
     pack: Inner World Naming Amendment

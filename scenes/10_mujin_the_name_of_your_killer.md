@@ -92,7 +92,7 @@ The corona came up four feet.
 
 Mu-jin stood up.
 
-Nothing about it was fast. He came up off the knee and got his boots square and stood there on the ditch bank with his back to the corpse, and the calm man who had run a school for eleven years and had been described in four separate Accord assessments as *temperamentally unsuited to field deployment* was somewhere else entirely.
+Nothing about it was fast. He came up off the knee and got his boots square and stood there on the ditch bank with his back to the corpse, and the calm man who had run a school for three years and had been described in four separate Accord assessments as *temperamentally unsuited to field deployment* was somewhere else entirely.
 
 The valley began to shake.
 

@@ -1991,7 +1991,7 @@ rules:
   title: An impression-body is a Greater Summons
   status: live
   kind: definition
-  summary: 'Build an impression-body as a Tier III Greater Summons (Stage IX to XI): an Arts vessel, the
+  summary: 'Build an impression-body as a Tier III Greater Summons (floor per R61-109): an Arts vessel, the
     maker''s own Core as identity through Animatria, and Vocatia contact with the Trace, with vessel and
     Binding carrying it past minutes to hours.'
   verbatim: 'A Greater Summons: vessel, Animatria and Vocatia together. Canon''s Tier III (Stage IX to
@@ -2012,7 +2012,8 @@ rules:
   source:
     file: ''
     lines: null
-  notes: Makes the Aphorism ('he summons himself') literal
+  notes: 'Makes the Aphorism (''he summons himself'') literal. Agent ruling C-154 (2026-10-13): the Stage floor
+      is R61-109''s Refraction; IX to XI is the unanchored band.'
 - id: R61-76-IMPRESSION_VESSEL_GRADED_DRAFT
   pack: Alchemy Conversion Questionnaire 2026-09-28
   pack_number: null
@@ -2485,7 +2486,7 @@ rules:
   source:
     file: ''
     lines: null
-  notes: ''
+  notes: 'Agent ruling C-127 (2026-10-13): the tracing sentence does not reach the Ault vessel; Furveus''s maker''s mark and Sealing, Draycott''s mark as broker on the lute (R67-6).'
 - id: R61-93-WILL_ENTERS_AT_AUTHORIZATION
   pack: Alchemy Conversion Questionnaire 2026-09-28
   pack_number: null
@@ -2964,7 +2965,7 @@ rules:
   source:
     file: ''
     lines: null
-  notes: ''
+  notes: Governs the impression-body's Stage floor over DE4's band (C-154, agent ruling 2026-10-13).
 - id: R61-110-IMPRESSION_BODY_TELLS_COUNTERS
   pack: Alchemy Conversion Questionnaire 2026-09-28
   pack_number: null

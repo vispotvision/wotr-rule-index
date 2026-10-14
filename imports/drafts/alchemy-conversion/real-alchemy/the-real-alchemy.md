@@ -49,7 +49,7 @@ Alchemy on the page rests on three sources, read in order. The Alchemical Index 
 
 **The fault.** A sealed digestion gives no reading but its colour. The worker waits weeks for a black that may be rot or may be ruin, and the heat under it wanders.
 
-**In WOTR.** Alchemetrica's Rot runs six to nine weeks in the Bed, unopened, and goes black. Real putrefactions reached black in thirty to forty days and ran longer schemes by the month, so the Rot sits on the recorded range. The Alftian Codex's ferment took three turns in warm dung, forty-two days at fourteen days to the turn, which lands on the real forty-day digestion.
+**In WOTR.** Alchemetrica's Rot runs three to four and a half turns (six to nine weeks) in the Bed, unopened, and goes black. Real putrefactions reached black in thirty to forty days and ran longer schemes by the month, so the Rot sits on the recorded range. The Alftian Codex's ferment took three turns in warm dung, forty-two days at fourteen days to the turn, which lands on the real forty-day digestion.
 
 ### Fermentation
 
@@ -99,7 +99,7 @@ Alchemy on the page rests on three sources, read in order. The Alchemical Index 
 
 **The fault.** A closed circulation cannot be tasted, measured or corrected. A crack in the arm ends it, and so does a fire that falters.
 
-**In WOTR.** Alchemetrica's circulation in the Returner runs weeks or months, the vessel never opened. The Alftian Codex runs Furveus's spirit in the Returner for most of a month. Both sit inside the recorded order of time.
+**In WOTR.** Alchemetrica's circulation in the Returner runs turns or months, the vessel never opened. The Alftian Codex runs Furveus's spirit in the Returner for most of a month. Both sit inside the recorded order of time.
 
 ### Sublimation
 
@@ -221,7 +221,7 @@ Darling reckoned any two observers might differ by about 50 °C below yellow, an
 
 **The fault.** Dung heat is neither constant nor blood-warm. It starts hot, falls over weeks, has to be turned or renewed, and a large pile can fire itself.
 
-**In WOTR.** Alchemetrica's Bed holds blood-warmth for six to nine weeks without fuel, tending, or any possibility of overheating. The span matches the working life of a dung heat. The even blood-warmth and the safety from overheating are WOTR's own; a small bed packed round one vessel is the nearest real case. The Bed's smell, which nobody in the workshop notices after a month, is the dung bath's own.
+**In WOTR.** Alchemetrica's Bed holds blood-warmth for three to four and a half turns (six to nine weeks) without fuel, tending, or any possibility of overheating. The span matches the working life of a dung heat. The even blood-warmth and the safety from overheating are WOTR's own; a small bed packed round one vessel is the nearest real case. The Bed's smell, which nobody in the workshop notices after a month, is the dung bath's own.
 
 ### Lamp, sun and the little furnace
 
@@ -245,7 +245,7 @@ Darling reckoned any two observers might differ by about 50 °C below yellow, an
 
 **The fault.** No measured burn time for a charge of the tower is recorded in these sources. The real long runs on record were fires kept by people. Humphrey Newton wrote that the fire in Newton's laboratory scarcely went out night or day for about six weeks in spring and again in autumn, the two men sitting up on alternate nights (Newman 2019).
 
-**In WOTR.** Alchemetrica's Long Furnace is the athanor, fuel tower and gravity feed and all. Its weeks or months without a hand on it outruns the evidence, which shows tended runs of six weeks (Newman 2019) to several months (Boerhaave 1730s), with no unattended burn time measured. The tick of the furnace settling as the charcoal drops is the gravity feed's own sound.
+**In WOTR.** Alchemetrica's Long Furnace is the athanor, fuel tower and gravity feed and all. Its turns or months without a hand on it outruns the evidence, which shows tended runs of six weeks (Newman 2019) to several months (Boerhaave 1730s), with no unattended burn time measured. The tick of the furnace settling as the charcoal drops is the gravity feed's own sound.
 
 ### The still
 

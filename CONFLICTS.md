@@ -1376,7 +1376,7 @@ the author notes."
 **Quotes:** RULINGS: "so the present is Year 715 of the count" · The Concordance of Ages: "#### The Withering Era · 645 IC to open" · Dr. Vaelion Rhest · The Sleepless Theorist: "Year 745" · Lyssara Veyn · The Black Chrysalis: "Year 746" · Seren Valenne · The Grey Adjudicator: "Year 740" · Elthiré Maen · The Wandering String: "active from Year 739" · Varuun Daskorr · The Unbent Crown: "reigning from Year 742"
 **Consequence if unresolved:** None of the five can appear in a present-day scene without either living in the future or having their card's dates overruled on the page.
 **Recommendation:** none.
-**Status:** open
+**Status:** ruled 2026-10-13, agent ruling (RULINGS.md, 2026-10-13 — C-113, C-114, C-120, C-121, C-135); Isaac may overturn. Application list: imports/drafts/conflict-rulings-2026-10-13/apply.md
 
 ## C-114 — The Concord Gate Network says the first Gates were forged in the Withering Age; its own engraving dates the first Gate of Eresse to the Voyager Era
 
@@ -1385,7 +1385,7 @@ the author notes."
 **Quotes:** The Concord Gate Network: "The first Gates were forged during the **Withering Age**" · The Concord Gate Network: "Engraved upon the first Gate of Eresse" · The Concordance of Ages: "#### The Withering Era · 645 IC to open" · Errata to the Received Registers: "| The Withering Age | The Withering Era |"
 **Consequence if unresolved:** A scene or document cannot say how old the Gate network is, or whether the Gates predate the western quarter's thinning.
 **Recommendation:** none.
-**Status:** open
+**Status:** ruled 2026-10-13, agent ruling (RULINGS.md, 2026-10-13 — C-113, C-114, C-120, C-121, C-135); Isaac may overturn. Application list: imports/drafts/conflict-rulings-2026-10-13/apply.md
 
 ## C-115 — Malphas's Ardency Conversion stands at 400, A-Grade, with no Body Path; Part Seven caps the rebound-recovery component at B without Body Path at Stage V
 
@@ -1394,7 +1394,7 @@ the author notes."
 **Quotes:** Malphas · Ferment of Stars: "Ardency Conversion · 400" · Malphas · Ferment of Stars: "Body Path at Stage V required, and the requirement is no longer merely unmet." · II. Grades, Gates and Thresholds (Parts Four–Ten): "recovery of rebound as usable output requires Body Path at Stage V to exceed B" · IV. The Eight Primaries and the Sixty-Four Sub-Stats (Part Twelve): "how much of a failed or interrupted working's rebound comes back as usable output rather than damage"
 **Consequence if unresolved:** A scene that turns on Malphas's rebound, or an assessor reading his sheet against the gates, cannot say whether 400 or 275 holds; the card's defining gap (intake at the ceiling, turning frozen) depends on the 400.
 **Recommendation:** none.
-**Status:** open
+**Status:** ruled 2026-10-13, agent ruling (RULINGS.md, 2026-10-13 — C-115, C-116, C-117, C-122, C-123, C-124, C-157); Isaac may overturn. Application list: imports/drafts/conflict-rulings-2026-10-13/apply.md
 
 ## C-116 — Malphas's lich block is costed at the retired per-Level rates (Pool 23,100); current law gives 18,900 at Stage XIV, Level 475, and the lich's Peaks cannot be reached from it
 
@@ -1403,7 +1403,7 @@ the author notes."
 **Quotes:** Malphas · Ferment of Stars: "Pool 23,100" · R38-2: "re-costed to Part Three's current allotment"
 **Consequence if unresolved:** The lich's figures cannot be recosted as R38-2 requires without cutting his Peaks by about 3,000 points in total, and the living and lich tables on one card are costed under two different laws.
 **Recommendation:** none.
-**Status:** open
+**Status:** ruled 2026-10-13, agent ruling (RULINGS.md, 2026-10-13 — C-115, C-116, C-117, C-122, C-123, C-124, C-157); Isaac may overturn. Application list: imports/drafts/conflict-rulings-2026-10-13/apply.md
 
 ## C-117 — The Sixteen Stages gives each Stage a fixed Level range (Realization, Levels 276 to 300); Parts One and Twenty-Three make the range typical and only the Band gate hard, and set a Stage X practitioner at Level 355
 
@@ -1412,7 +1412,7 @@ the author notes."
 **Quotes:** The Sixteen Stages: "Tier 6 · Master · Grade SS · Ceiling 725 · Levels 276 to 300" · IX. The Essence Ledger (Part Twenty-Three): "That is where a Stage's practitioners usually sit, not where they must" · IX. The Essence Ledger (Part Twenty-Three): "A Stage X Realization practitioner at Level 355, Band IV, holds 90,000,000 EU" · Obrenkael · The Mule: "Level 355 / 500, Band IV Warlord, Temperance Stage X Realization"
 **Consequence if unresolved:** A card or a read cannot say whether a Stage X practitioner above Level 300 is lawful or an outlier; Malphas, Kwon Hae-ryu and any Level read in the Alftian Codex hang on it.
 **Recommendation:** none.
-**Status:** open
+**Status:** ruled 2026-10-13, agent ruling (RULINGS.md, 2026-10-13 — C-115, C-116, C-117, C-122, C-123, C-124, C-157); Isaac may overturn. Application list: imports/drafts/conflict-rulings-2026-10-13/apply.md
 
 ## C-118 — Doyun, a Korean-stratum boy of Sum-gol, is spelled without a hyphen; R23-10 reads a name without a hyphen as a lineage-hall (Chinese) name
 
@@ -1421,7 +1421,7 @@ the author notes."
 **Quotes:** R23-10: "Hyphen means Mahuo. Kwon Mu-jin. No hyphen means the lineage halls." · Kwon Mu-jin: "One of them was left, Doyun."
 **Consequence if unresolved:** The Codex, the Papers and the Vaeloris scenes cannot settle whether he is written Doyun or Do-yun, and the rule cannot say how any Korean-stratum name outside the Mahuo house is spelled.
 **Recommendation:** none.
-**Status:** open
+**Status:** ruled 2026-10-13, agent ruling (RULINGS.md, 2026-10-13 — C-118, C-127, C-154, C-159); Isaac may overturn. Application list: imports/drafts/conflict-rulings-2026-10-13/apply.md
 
 ## C-119 — Mu-jin's card has him stand before a Legion-class working at twenty-two; the Alftian Codex's Volume II, his own record of that year at Sum-gol, holds no such event
 
@@ -1439,7 +1439,7 @@ the author notes."
 **Quotes:** 10_mujin_the_name_of_your_killer: "the calm man who had run a school for eleven years" · Kwon Mu-jin: "Four separate Accord assessments called Mu-jin temperamentally unsuited to field deployment." · Volume the Second: "In the autumn the schoolmaster gave me the east room."
 **Consequence if unresolved:** The Ashgate scene and the card describe a teaching career and an Accord file that the Codex's own chronology leaves no room for.
 **Recommendation:** none.
-**Status:** open
+**Status:** ruled 2026-10-13, agent ruling (RULINGS.md, 2026-10-13 — C-113, C-114, C-120, C-121, C-135); Isaac may overturn. Application list: imports/drafts/conflict-rulings-2026-10-13/apply.md
 
 ## C-121 — Mu-jin reads himself at Stage X with about twelve million units in the winter of 699 to 700 IC (Level about 285 by the Level law); his card, dated before the Ashgate road in 701 IC, has him at Level 430 and Stage XII
 
@@ -1448,7 +1448,7 @@ the author notes."
 **Quotes:** Volume the Second: "η 0.78. Some twelve million units." · Kwon Mu-jin: "With the Zettari war camp, before the Ashgate road" · Kwon Mu-jin: "Level 430 at Stage XII"
 **Consequence if unresolved:** Volume III and the Ashgate scenes cannot state his Stage or reserve without breaking either the Codex's read or the card, and the Papers cannot date his rise.
 **Recommendation:** none.
-**Status:** open
+**Status:** ruled 2026-10-13, agent ruling (RULINGS.md, 2026-10-13 — C-113, C-114, C-120, C-121, C-135); Isaac may overturn. Application list: imports/drafts/conflict-rulings-2026-10-13/apply.md
 
 ## C-122 — The Hollow Grade's strike energy is "below 60 J" in the living system pages and "40 to 300 J" in the Fracture of Worlds source table
 
@@ -1457,7 +1457,7 @@ the author notes."
 **Quotes:** II. Grades, Gates and Thresholds (Parts Four–Ten): "| Hollow | 1–10 | below 60 J | below 12.4 m/s |" · III. Physical Force (Part Eleven): "| Hollow | 1–10 | 200–800 N | below 60 J | — | Untrained to athletic human punch |" · Fracture of Worlds.md: "| Hollow | 1–10 | 200–800 N | 40–300 J | — | Untrained to athletic human punch |" · Fracture of Worlds.md: "Attack output equivalent to 60 to 300 J"
 **Consequence if unresolved:** No card for an unwoken person (Class Ø, capped at Hollow) can print a strike energy, and an adjudicated blow from one has no fixed ceiling.
 **Recommendation:** none.
-**Status:** open
+**Status:** ruled 2026-10-13, agent ruling (RULINGS.md, 2026-10-13 — C-115, C-116, C-117, C-122, C-123, C-124, C-157); Isaac may overturn. Application list: imports/drafts/conflict-rulings-2026-10-13/apply.md
 
 ## C-123 — Class Ø permits no stat output above Hollow; the Weathering gives an unwoken man grain that outperforms a practitioner three Stages up
 
@@ -1466,7 +1466,7 @@ the author notes."
 **Quotes:** VII. Aether Class, Essence Typology, Aether Flow (Parts Seventeen–Nineteen): "No stat output above Hollow Grade is possible." · The Trait System Law, Function and the Forge: "A fisherman weathered by forty years of cold water acquires a cold tolerance that will outperform an unspecialised practitioner three Stages above him." · The Derivation of Practice — Thaumaturgic and Theurgic: "Grain is a resonance tunnel with no woken Crystal behind it."
 **Consequence if unresolved:** A card for a weathered unwoken person (Orin Farrant, Akira Yukari, any commoner with grain) cannot print a Grade for the grain, and an adjudication cannot say whether grain beats a Stage-III gap.
 **Recommendation:** none.
-**Status:** open
+**Status:** ruled 2026-10-13, agent ruling (RULINGS.md, 2026-10-13 — C-115, C-116, C-117, C-122, C-123, C-124, C-157); Isaac may overturn. Application list: imports/drafts/conflict-rulings-2026-10-13/apply.md
 
 ## C-124 — Pressure is counted in Stages of gap between practitioners; a person with no Stage has no gap to count, and canon gives only the Grade-keyed Aura table and "felt as dread"
 
@@ -1475,7 +1475,7 @@ the author notes."
 **Quotes:** NATALIE.md: "One Stage up bends attention; two, sweat and nausea; three or more drops people" · III. Physical Force (Part Eleven): "At **F through D**, Aura Pressure is perceptual rather than physical." · R53-14: "Pressure is felt as dread; they could not name a Stage and use folk words."
 **Consequence if unresolved:** Every scene where a practitioner lets their weight go near an unwoken investigator, clerk or commoner has to invent the effect, and cards for the unwoken cannot state a resistance to Pressure.
 **Recommendation:** none.
-**Status:** open
+**Status:** closed, ruled by Isaac 2026-10-04 (R71-41-PRESSURE_UNWOKEN: the unwoken take Part Eleven's Aura table by Grade); status corrected 2026-10-13.
 
 ## C-125 — No Night Watch file names Malphas (PA2), yet ML4 has him sign the Necrocursica in his own name and re-points every Papers citation to it, and the Codex volumes the Papers hold as exhibits name him
 
@@ -1503,7 +1503,7 @@ the author notes."
 **Quotes:** RULINGS: "Maker's mark and cutter's hand both trace De Raits, who needs both crafts." · Volume the Second: "It was one working, unentered, done by a Master of the Circle who sealed it with his own hand." · Volume the Second: "the vessel went out on the line in a crate packed with straw, with Furveus on one side of it and Strom on the other." · The Standing Index: "| **Gravemark Ink** · T4 | **IV** / B / 44 · *reserved T5* |"
 **Consequence if unresolved:** The Papers, Volume III and the Necrocursica cannot say whose hand wrote the commission's Sealing or whether it stood at its reservation.
 **Recommendation:** none.
-**Status:** open
+**Status:** ruled 2026-10-13, agent ruling (RULINGS.md, 2026-10-13 — C-118, C-127, C-154, C-159); Isaac may overturn. Application list: imports/drafts/conflict-rulings-2026-10-13/apply.md
 
 ## C-128 — The Mortalis Categories carry numerals (Category Three for completion) that depend on a residue named only in 700 IC and a framework Volume III designs later
 
@@ -1575,7 +1575,7 @@ the author notes."
 **Quotes:** Volume the Third: "the Division of Alchemetrica entered me on its books as a Registered Natural. I held no academy credential." · Kwon Mu-jin: "Mahuo summoning lineage, formally trained." · Volume the Second: "She began my formal training in the house art that winter."
 **Consequence if unresolved:** A card, a scene or an assessor cannot say whether Mu-jin's standing rests on a house training the Division counts or on a Registered Natural's monitoring, and so what his rank certifies.
 **Recommendation:** none.
-**Status:** open
+**Status:** closed 2026-10-13, not a conflict: agent ruling (RULINGS.md, 2026-10-13 — C-113, C-114, C-120, C-121, C-135); the card's Standing line is clarified.
 
 ## C-136 — The Four Crafts says Draftcraft needs a Soul Crystal at the moment of manufacture; Alchemetrica's Law of Alchemical Independence says alchemy needs none, and its pure alchemist works with a Crystal that never woke
 
@@ -1665,7 +1665,7 @@ the author notes."
 **Quotes:** Alchemetrica: "It strips a Parunic inscription off a substrate without touching the substrate" · Alchemetrica: "Engravers use it to correct a chain before the Sealing." · The Alchemical Index: "correction is not correction. It is removal by Null-salt or Scribe's Wash, and both take the surrounding work with them"
 **Consequence if unresolved:** A scene in which an engraver corrects a chain, or a forger lifts a seal, cannot say what the Wash leaves behind on inked work.
 **Recommendation:** none.
-**Status:** open
+**Status:** ruled 2026-10-13, agent ruling (RULINGS.md, 2026-10-13 — C-145, C-146, C-147, C-148, C-149, C-150, C-151, C-152, C-153); Isaac may overturn. Application list: imports/drafts/conflict-rulings-2026-10-13/apply.md
 
 ## C-146 — "Rupture" has three referents: the Lexicon's sudden Aether Shell failure, Alchemetrica's contest of two laws in a Conjunction, and The Crossing's strained membrane
 
@@ -1674,7 +1674,7 @@ the author notes."
 **Quotes:** The Lexicon: "**Clouding · Rupture** · The two Aether Shell failure states, gradual and sudden." · Alchemetrica: "Incompatible Wellsprings forced together without mediation produce **Rupture Events.**" · Alchemetrica: "Two incompatible laws in one substrate with inadequate mediation." · The Crossing: "This is the rupture, and it is not caused by the fighting."
 **Consequence if unresolved:** A sheet's Rupture line, a Conjunction failure and a mass death can be read as one event, and a scene cannot say which the word names.
 **Recommendation:** none.
-**Status:** open
+**Status:** ruled 2026-10-13, agent ruling (RULINGS.md, 2026-10-13 — C-145, C-146, C-147, C-148, C-149, C-150, C-151, C-152, C-153); Isaac may overturn. Application list: imports/drafts/conflict-rulings-2026-10-13/apply.md
 
 ## C-147 — What produces Draft Corruption: the Lexicon ties it to a defective Direction role; Alchemetrica makes it any structural error partially executed; and the Lexicon's Sealing failure entry disagrees with its own role table
 
@@ -1683,7 +1683,7 @@ the author notes."
 **Quotes:** The Lexicon: "Law-fragments left by a working with a defective Direction role." · The Lexicon: "| **Direction** | Vector and focus. The editorial layer of the sentence. | Draft Corruption. |" · Alchemetrica: "The Parunic sentence contains a structural error the Continuum" · Alchemetrica: "A Distillation without a Direction glyph" · The Lexicon: "Authorization, Boundary or Direction failing produce a working that does not happen." · The Lexicon: "Mechanica by definition. The Continuum treats it as debt." · The Lexicon: "A transformation that continues until it runs out of things to consume." · Alchemetrica: "A transformation without limits **does not stop when the intended material is consumed.**" · Alchemetrica: "A working with no Authorization has no warrant to close against, so it cannot lawfully Seal and therefore does not end."
 **Consequence if unresolved:** A corrupted product cannot be traced to the role that failed, and a failed Boundary or Authorization reads as nothing happening on one page and as a runaway or a debt on the other.
 **Recommendation:** none.
-**Status:** open
+**Status:** ruled 2026-10-13, agent ruling (RULINGS.md, 2026-10-13 — C-145, C-146, C-147, C-148, C-149, C-150, C-151, C-152, C-153); Isaac may overturn. Application list: imports/drafts/conflict-rulings-2026-10-13/apply.md
 
 ## C-148 — Four centuries or six: Alchemetrica and its sister pages give the trade four centuries, and Alchemetrica's Boundary rule has gone unchallenged for six
 
@@ -1692,7 +1692,7 @@ the author notes."
 **Quotes:** Alchemetrica: "four centuries of practice have reduced that to four readings" · Alchemetrica: "It is the only rule in the entire procedure that has never been challenged in six centuries" · The Standing Index: "The settling problem is four centuries old and unsolved" · The Crossing: "the arithmetic of that shortfall across four centuries" · Mechanica: "Several of those instruments are four hundred years old."
 **Consequence if unresolved:** The founding of the Bench and of the trade cannot be dated against each other, and any document that gives the Bench's age picks one figure.
 **Recommendation:** none.
-**Status:** open
+**Status:** closed 2026-10-13, not a conflict: agent ruling (RULINGS.md, 2026-10-13 — C-145 to C-153); six centuries is the Bench, four the doctrine.
 
 ## C-149 — Three terms on Alchemetrica that no other page carries: Paru's First Speech, Realm Rot (the Lexicon's word is Hollowing) and induced Parunic apertures (elsewhere a Carrier Wave term on two cards)
 
@@ -1701,7 +1701,7 @@ the author notes."
 **Quotes:** Alchemetrica: "since Paru's First Speech" · Alchemetrica: "contributes over time to **Realm Rot.**" · The Lexicon: "**Hollowing** · The progressive loss of a region's capacity to sustain lawful working." · Alchemetrica: "in rare cases **induced Parunic apertures.**" · Ascella: "Parunic Apertures cycle in narrow pulses" · Gonju: "Parunic apertures tuned for slow release and sustained rituals"
 **Consequence if unresolved:** Paru, Realm Rot and induced apertures cannot be used on another page or card without inventing what they are, and Realm Rot and Hollowing may be one thing under two names.
 **Recommendation:** none.
-**Status:** open
+**Status:** ruled 2026-10-13, agent ruling (RULINGS.md, 2026-10-13 — C-145, C-146, C-147, C-148, C-149, C-150, C-151, C-152, C-153); Isaac may overturn. Application list: imports/drafts/conflict-rulings-2026-10-13/apply.md
 
 ## C-150 — The Apparatus of the Age cites the Alchemetrica as classing celluloid and a bench-cured resin as alchemical products; the live Alchemetrica says nothing of either
 
@@ -1710,7 +1710,7 @@ the author notes."
 **Quotes:** The Apparatus of the Age: "Celluloid for collars, combs, billiard balls and film stock; a bench-cured resin for telephone housings and switch plates." · The Apparatus of the Age: "The Alchemetrica classes both as alchemical products, which they are"
 **Consequence if unresolved:** A scene that prices or regulates celluloid or resin under the Bench cites a classification the codex does not hold.
 **Recommendation:** none.
-**Status:** open
+**Status:** ruled 2026-10-13, agent ruling (RULINGS.md, 2026-10-13 — C-145, C-146, C-147, C-148, C-149, C-150, C-151, C-152, C-153); Isaac may overturn. Application list: imports/drafts/conflict-rulings-2026-10-13/apply.md
 
 ## C-151 — Alchemetrica files every Draft under four operations or a composite, yet four of its six operation-Wellsprings (Dissolution, Transmutatio, Fixatio, Materia Primordia) are mirrored by none of the four
 
@@ -1719,7 +1719,7 @@ the author notes."
 **Quotes:** Alchemetrica: "Every Draft ever entered in the Standing Index is one of four operations or a composite of them." · Alchemetrica: "six of them are at once Wellspring, cosmic principle and alchemical operation." · Alchemetrica: "Reconfigures identity under catalytic force" · Alchemetrica: "*no single Wellspring mirror*" · Alchemetrica: "The stages and the four operations are two maps of one ground."
 **Consequence if unresolved:** A Transmutatio, Dissolution, Fixatio or Materia Primordia Draft cannot be filed or assayed under a named operation, and its failure mode is read off no row of the table.
 **Recommendation:** none.
-**Status:** open
+**Status:** ruled 2026-10-13, agent ruling (RULINGS.md, 2026-10-13 — C-145, C-146, C-147, C-148, C-149, C-150, C-151, C-152, C-153); Isaac may overturn. Application list: imports/drafts/conflict-rulings-2026-10-13/apply.md
 
 ## C-152 — "Turn" in two senses: the Sky page and Volume I make a turn fourteen days, and the live Alchemetrica now counts the Rot, the Bed and the Long Furnace in turns; Fracture of Worlds VII makes one turn six seconds
 
@@ -1728,7 +1728,7 @@ the author notes."
 **Quotes:** The Sky: "**The turn** is fourteen days" · Fracture of Worlds VII: "**One turn is 6 seconds.** Every duration the system states in turns is read through that figure" · Alchemetrica: "An apprentice learns the four in half a turn" · Alchemetrica: "Holds blood-warmth for three turns to four and a half without fuel" · Alchemetrica: "Permits circulation for turn after turn without ever opening the system" · Alchemetrica: "Holds a constant low heat for turns or months without a hand on it." · Volume the First: "The ferment took three turns in warm dung"
 **Consequence if unresolved:** Any duration in turns on an alchemy page reads as fortnights or as six-second turns, and a reader applying Fracture of Worlds VII to the Bed gets eighteen seconds.
 **Recommendation:** none.
-**Status:** open
+**Status:** ruled 2026-10-13, agent ruling (RULINGS.md, 2026-10-13 — C-145, C-146, C-147, C-148, C-149, C-150, C-151, C-152, C-153); Isaac may overturn. Application list: imports/drafts/conflict-rulings-2026-10-13/apply.md
 
 ## C-153 — The Real Alchemy against Alchemetrica's heat and time: the Burning runs four hours to three days where real long calcinations ran thirty-six hours to twelve days; the Bed holds blood-warmth with no possibility of overheating where real dung beds ran 50 to 68 °C and could fire themselves; the Long Furnace holds heat without a hand on it where real long runs were tended in shifts
 
@@ -1737,7 +1737,7 @@ the author notes."
 **Quotes:** Alchemetrica: "A calcination, four hours to three days." · Alchemetrica: "calcination · 4 hours to 3 days" · The Real Alchemy: "Lemery calcined tin in a wide unglazed earthen pan over a great fire for thirty-six hours" · The Real Alchemy: "Lavoisier held four ounces of mercury just under its boil for twelve days in 1777." · The Real Alchemy: "Real calcinations ran from thirty-six hours (Lemery's tin in a pan) and four days (the same tin in a crucible) to Lavoisier's twelve days, past the Burning's upper figure." · Alchemetrica: "Holds blood-warmth for three turns to four and a half without fuel, without tending, and without any possibility of overheating." · The Real Alchemy: "a hotbed of manure and straw passes 50 °C within days, and a well-built pile holds 61 to 68 °C for a week or more" · The Real Alchemy: "above about 70 °C the risk of self-ignition rises" · The Real Alchemy: "Dung heat is neither constant nor blood-warm." · The Real Alchemy: "The even blood-warmth and the safety from overheating are WOTR's own" · Alchemetrica: "Holds a constant low heat for turns or months without a hand on it." · The Real Alchemy: "The real long runs on record were fires kept by people." · The Real Alchemy: "the two men sitting up on alternate nights" · The Real Alchemy: "so that charcoal slid down into the fire of its own weight, like a magazine stove, and ran unattended" · The Real Alchemy: "Its weeks or months without a hand on it outruns the evidence" · R18-5: "Three sources, consulted in this order, and none of them optional."
 **Consequence if unresolved:** A scene at the calcination bench, the Bed or the Long Furnace cannot give a duration, a heat or a watch that agrees with both the codex and the page the source order checks it against, and The Real Alchemy's In WOTR lines cite wording the live page no longer carries.
 **Recommendation:** none.
-**Status:** open
+**Status:** ruled 2026-10-13, agent ruling (RULINGS.md, 2026-10-13 — C-145, C-146, C-147, C-148, C-149, C-150, C-151, C-152, C-153); Isaac may overturn. Application list: imports/drafts/conflict-rulings-2026-10-13/apply.md
 
 ## C-154 — Isaac's DE4 makes an impression-body a Greater Summons, canon's Tier III at Stages IX to XI; his EC10 floors the Category Three working that makes one at Refraction, Stage VII
 
@@ -1746,7 +1746,7 @@ the author notes."
 **Quotes:** R61-75: "A Greater Summons: vessel, Animatria and Vocatia together. Canon's Tier III (Stage IX to XI, 'ancestral echoes')" · The Spirit Summoning Arts: "| **III · Greater Summons** | Vocatia + Animatria + Arts | Stage IX – XI |" · R61-109: "Flourishing, Glory, then Refraction with individual review."
 **Consequence if unresolved:** A scene or assessor cannot say whether a Refraction practitioner can raise an impression-body at all, and the Bench's reservation and the summoning tiers give two floors for one working.
 **Recommendation:** none.
-**Status:** open
+**Status:** ruled 2026-10-13, agent ruling (RULINGS.md, 2026-10-13 — C-118, C-127, C-154, C-159); Isaac may overturn. Application list: imports/drafts/conflict-rulings-2026-10-13/apply.md
 
 ## C-155: R14-4 keeps Sub-Stat names to a faculty reading; R49-47 and R51-16 free stat words in narration, and R51-16 retired R14-4's sibling R20C-31 but not R14-4
 
@@ -1773,7 +1773,7 @@ the author notes."
 **Quotes:** The Apprentice's Primer: "Five Bands yield **fifteen thousand** stat points." · The Apprentice's Primer: "Thresholds through Stage XIII add roughly **nine thousand one hundred more.**" · The Apprentice's Primer: "A full lifetime pool sits near twenty-four thousand one hundred, spread across twenty stats." · The Apprentice's Primer: "A Band II practitioner at Level 156 with Thresholds through Stage V holds about four thousand five hundred points" · The Apprentice's Primer: "two hundred and twenty-five per stat if spread evenly" · Part Three (R38-2's verbatim): "Total from leveling at Level 500: **9,000 points.**" · Part Three: "Full lifetime pool through Stage XIII: approximately **18,100 points**, spendable across sixty-three Sub-Stats, Throne excluded." · Part Three: "The allotment was cut by two fifths from its original figures" · Part Three: "The old pool was sized against a phantom count of twenty stats and produced an overabundance the ceiling could not absorb."
 **Consequence if unresolved:** A scene, a readout or a teaching voice that takes its figures from the Primer states a pool a third larger than the one the sheets are costed on, spread over a stat count the system no longer has, and R70-2 requires every figure on a screen to trace to the sheet.
 **Recommendation:** none.
-**Status:** open
+**Status:** ruled 2026-10-13, agent ruling (RULINGS.md, 2026-10-13 — C-115, C-116, C-117, C-122, C-123, C-124, C-157); Isaac may overturn. Application list: imports/drafts/conflict-rulings-2026-10-13/apply.md
 
 ## C-158: NATALIE.md's summary of the 2026-09-12 rulings caps technology at what was invented from 1800 to 1900, nothing after; R53-01 (2026-09-26) runs the Imperial Age and its technology into the middle of the 1900s
 
@@ -1790,5 +1790,23 @@ the author notes."
 **The clash:** Pack Eight §2.4 makes the release an art's optional call, an imperative verb plus its true name, costing a beat and buying output, and §2.6 allows one release per scene. R50-09 lifts the limit: an art may be called as often as the fight gives a beat. R8-23 cuts both ways: the art is spoken once at release and thereafter assumed, which sits with R8-26, while techniques are spoken every time they are used, which sits with R50-09. R50-09's row answered a question about the same clause in R20C-38 (its note), but its words name neither R8-26 nor R20C-38, and its row supersedes nothing. R20C-38, which repeats "one release per scene", was superseded whole by R50-08, whose words cover the gloss clauses only. No later rule's own words supersede R8-26, and it is still live. Found by the style questionnaire's research (`imports/drafts/style-questionnaire/work/research-law-new.md`).
 **Quotes:** R8-26: "One release per scene at most. Two men releasing in the same scene is an event, not texture." · Pack Eight §2.4: "An art with a true name may carry a call: an imperative verb plus the name." · R8-23: "An art is spoken once at release and thereafter assumed." · R8-23: "Techniques are spoken every time they are used." · R50-09: "No limit on release calls: an art may be called as often as the fight gives a beat; each call still costs the beat." · R20C-38: "the true name is spoken and never narrated, one release per scene."
 **Consequence if unresolved:** A fight cannot say whether a second release, by the same man or by his opponent, is legal texture or an event, or whether an art's name may be called again after its release; the index serves R8-26 (combat, scene-structure) and R50-09 (naming) as live at once.
+**Recommendation:** none.
+**Status:** closed, ruled by Isaac 2026-10-04 (RULINGS.md, combat questionnaire MC3: R71-29-OFTEN_ART_RELEASED supersedes R8-26-ONE_RELEASE_PER_SCENE); status corrected 2026-10-13.
+
+## C-160: Malphas's living Depth stands at 725, SS-Grade, with no Attraction Path; Part Seven holds Depth at B without Attraction Path at Stage IV
+
+**Rules:** Malphas · Ferment of Stars (the card, living block) vs Fracture of Worlds Part Seven (Path gates), with R57-29 (a Path gate caps only the component it names)
+**The clash:** The card prints Depth 725 (SS) and gives Malphas no Attraction Path. Part Seven: "Depth requires Attraction Path at Stage IV to exceed B". Found while ruling C-115 and C-116.
+**Quotes:** Part Seven: "Depth requires Attraction Path at Stage IV to exceed B"
+**Consequence if unresolved:** The C-116 rebuild of the lich block cannot place the Peaks until it is known whether the gate caps all of Depth or one component.
+**Recommendation:** none.
+**Status:** open
+
+## C-161: Malphas's living Hardening stands at 330, A-Grade, with no Body Path; Part Seven holds Hardening at C without Body Path at Stage III
+
+**Rules:** Malphas · Ferment of Stars (the card, living block) vs Fracture of Worlds Part Seven (Path gates), with R57-29
+**The clash:** The card prints Hardening 330 (A) and gives Malphas no Body Path. Part Seven: "Hardening requires Body Path at Stage III to exceed C". Found while ruling C-115 and C-116.
+**Quotes:** Part Seven: "Hardening requires Body Path at Stage III to exceed C"
+**Consequence if unresolved:** As C-160: the lich rebuild and the living block's Grades wait on it.
 **Recommendation:** none.
 **Status:** open

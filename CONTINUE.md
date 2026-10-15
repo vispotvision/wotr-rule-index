@@ -6,6 +6,36 @@ direction: inside work he has asked for, make the calls; no "pending" slots.
 append a dated block, do not rewrite older ones (two sessions write this repo
 at once — `git pull` before editing, and commit only your own files).
 
+## State on 2026-10-15 (system touch-ups and connections; Notion out of blocks)
+
+Isaac ran three more questionnaires (system-touchups, release forms, and a 16-batch
+connections questionnaire built from two ask_chatgpt rounds) plus three ChatGPT
+digestibility rounds. Law: **R78-9** (enhancement, Drafts, enchantment, training,
+concision) and **R78-10** (stacking cap of two Grades, stat Grade decides, Aether Class
+sets eta, drain as time from full, the tell ladder, fight Drafts refill, tags, three
+roads to each Catalyst, release forms canon, card fields, disciple ranks, renown,
+tournaments, Draft prices x3 a Stage, Malphas as the great villain over about ten
+numbered lieutenants, Well-spawn masks, crews proposed, skips via pass_time).
+R44-3 superseded (the S/SS gap is closed). NATALIE.md, wotr-ledger, wotr-stat-line,
+the wotr-write references, the Combat Craft Guide banner and mcp_server/table.py
+carry them. The card template (untracked, another session's) has the new fields.
+
+**Notion is blocked:** the workspace hit its free block limit on 2026-10-15 (the
+update tool returns entitlement_required). Applied before the stop: The Four Crafts,
+The Sixteen Stages, The Ladder and the Draft, The Trait System, The Field Manual.
+**Owed when Notion has room**, all in `imports/drafts/system-pages/`:
+- `audit/apply.json` pages 5 to 33 (strip a leading "> " from old_str; multi-line
+  items need the live page fetched first), `audit/collisions.json` (34 term fixes),
+  `audit/maths.json` (91 Grade-table fixes; ripples onto cards listed in the agent
+  report: SS floor, speed bands, Peak Force bands, seven carve-out paragraphs in X);
+- new pages: primer.md, reinforcement.md, stacking-and-spending.md,
+  runes-and-tags.md, training-and-sects.md, release-forms.md, draft-catalogue.md,
+  tag-catalogue.md, well-spawn.md (strip each "Notes (not published)" section);
+- release-folk-names.md into each Standing Inventory (repo files, not Notion);
+- still drafting at close: start-here, power-terms, annotated-exchange, whos-who,
+  factions-at-a-glance, newcomer-test.
+Conflicts still to fix on pages: The Gate section I ("waking is taught") vs R78-10.
+
 ## State on 2026-10-14 (WOTR's identity re-ruled: dark shonen cultivation, physical fights, saturated English)
 
 Isaac ran four questionnaires in one Claude Code session (answers in

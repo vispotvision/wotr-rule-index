@@ -84,8 +84,8 @@ flowchart TD
 **The *Necrocursica** *· Restricted, Genesio Archivum.** Noxinus Ren's compelled treatise.
 **The Vaughaus Thom Submission** · formally *On the Fourth Residue Category and Its Application to Anamnetic Wellspring Activation.* Newly declassified, co-authored with G. De Raits, annotated by V. Trismegistus.
 *Named but not otherwise described: Halveth, Archivum annotator — and the Research Division's effective director for eleven years while appearing to be an annotator. She solves problems by appointing the people who created them to fix them, on the accurate assessment that they are the only ones who fully understand them.*
-- [Volume the First](The Alftian Codex/Volume the First.md)
-- [Volume the Second](The Alftian Codex/Volume the Second.md)
-- [Volume the Third](The Alftian Codex/Volume the Third.md)
-- [The Farrant Papers](The Alftian Codex/The Farrant Papers.md)
-- [The Necrocursica](The Alftian Codex/The Necrocursica.md)
+- [[The Alftian Codex/Volume the First]]
+- [[The Alftian Codex/Volume the Second]]
+- [[The Alftian Codex/Volume the Third]]
+- [[The Alftian Codex/The Farrant Papers]]
+- [[The Alftian Codex/The Necrocursica]]

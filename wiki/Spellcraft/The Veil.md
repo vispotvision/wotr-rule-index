@@ -12,7 +12,7 @@ verification: "unverified"
 
 > **This page has been retired.** Its unique content was merged into the governing entry on 2026-09-15.
 > 
-> **→** [**The Veil (Cosmology & Metaphysics)**](https://app.notion.com/p/3b158200eb22818f80ccdbf06e137994) — the canonical page for all Veil content.
+> **→** [[Cosmology & Metaphysics/The Veil|**The Veil (Cosmology & Metaphysics)**]] — the canonical page for all Veil content.
 
 ---
 

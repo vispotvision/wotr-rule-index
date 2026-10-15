@@ -10,24 +10,24 @@ verification: null
 
 # Artifacts
 
-- [Verdiction Gauntlet · The Hand of Judgment](Artifacts/Verdiction Gauntlet · The Hand of Judgment.md)
-- [Mnemonis Solution · The Recursive Draft](Artifacts/Mnemonis Solution · The Recursive Draft.md)
-- [Kogane Kei · The Soul-Reed Blade](Artifacts/Kogane Kei · The Soul-Reed Blade.md)
-- [The Marshgrave's Phial · The Bottle That Weeps](Artifacts/The Marshgrave's Phial · The Bottle That Weeps.md)
-- [The Lantern of Echoed Veils · Spirit-Binding Relic](Artifacts/The Lantern of Echoed Veils · Spirit-Binding Relic.md)
-- [Mirrorwell Prism · Soulbound Echo Anchor](Artifacts/Mirrorwell Prism · Soulbound Echo Anchor.md)
-- [The Ledger of Forgotten Faces · Glyph Tool / Cursed Object](Artifacts/The Ledger of Forgotten Faces · Glyph Tool Cursed Object.md)
-- [The Latch of Twinned Souls · Soulbound Echo Focus](Artifacts/The Latch of Twinned Souls · Soulbound Echo Focus.md)
-- [Staff of the Verdant Pulse · Domain Anchor](Artifacts/Staff of the Verdant Pulse · Domain Anchor.md)
-- [Nkanda wa Mizimu · Necklace of the Spirit Chorus](Artifacts/Nkanda wa Mizimu · Necklace of the Spirit Chorus.md)
-- [Mbunda wa Moyo · Drum of the Living Heart](Artifacts/Mbunda wa Moyo · Drum of the Living Heart.md)
-- [Mkono wa Miti · Bracer of the Living Grove](Artifacts/Mkono wa Miti · Bracer of the Living Grove.md)
-- [Kibanda cha Mwanga wa Miti · Lantern of the Grove's Light](Artifacts/Kibanda cha Mwanga wa Miti · Lantern of the Grove's Light.md)
-- [Upanga wa Msimu Nne · Blade of the Four Seasons](Artifacts/Upanga wa Msimu Nne · Blade of the Four Seasons.md)
-- [Amaranth Severance · The Blooming Thorn](Artifacts/Amaranth Severance · The Blooming Thorn.md)
-- [The Black Aperture · Void Key](Artifacts/The Black Aperture · Void Key.md)
-- [Lurien's Hearthvine · The Green Cantor's Bow](Artifacts/Lurien's Hearthvine · The Green Cantor's Bow.md)
-- [The Ocular Codex of Thirteen Mouths · Reader-That-Reads-Back](Artifacts/The Ocular Codex of Thirteen Mouths · Reader-That-Reads-Back.md)
-- [Horizon's Reach · Limen-Hand](Artifacts/Horizon's Reach · Limen-Hand.md)
-- [Band of Frozen Brambles · Winter-Briar](Artifacts/Band of Frozen Brambles · Winter-Briar.md)
-- [Banisher · Writ-Spear of Exile](Artifacts/Banisher · Writ-Spear of Exile.md)
+- [[Artifacts/Verdiction Gauntlet · The Hand of Judgment]]
+- [[Artifacts/Mnemonis Solution · The Recursive Draft]]
+- [[Artifacts/Kogane Kei · The Soul-Reed Blade]]
+- [[Artifacts/The Marshgrave's Phial · The Bottle That Weeps]]
+- [[Artifacts/The Lantern of Echoed Veils · Spirit-Binding Relic]]
+- [[Artifacts/Mirrorwell Prism · Soulbound Echo Anchor]]
+- [[Artifacts/The Ledger of Forgotten Faces · Glyph Tool Cursed Object|The Ledger of Forgotten Faces · Glyph Tool / Cursed Object]]
+- [[Artifacts/The Latch of Twinned Souls · Soulbound Echo Focus]]
+- [[Artifacts/Staff of the Verdant Pulse · Domain Anchor]]
+- [[Artifacts/Nkanda wa Mizimu · Necklace of the Spirit Chorus]]
+- [[Artifacts/Mbunda wa Moyo · Drum of the Living Heart]]
+- [[Artifacts/Mkono wa Miti · Bracer of the Living Grove]]
+- [[Artifacts/Kibanda cha Mwanga wa Miti · Lantern of the Grove's Light]]
+- [[Artifacts/Upanga wa Msimu Nne · Blade of the Four Seasons]]
+- [[Artifacts/Amaranth Severance · The Blooming Thorn]]
+- [[Artifacts/The Black Aperture · Void Key]]
+- [[Artifacts/Lurien's Hearthvine · The Green Cantor's Bow]]
+- [[Artifacts/The Ocular Codex of Thirteen Mouths · Reader-That-Reads-Back]]
+- [[Artifacts/Horizon's Reach · Limen-Hand]]
+- [[Artifacts/Band of Frozen Brambles · Winter-Briar]]
+- [[Artifacts/Banisher · Writ-Spear of Exile]]

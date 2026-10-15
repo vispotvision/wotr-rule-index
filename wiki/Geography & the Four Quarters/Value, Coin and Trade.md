@@ -261,4 +261,4 @@ The compromise everyone lives inside has three parts. **Crowns ennoble high rank
 ---
 
 > *Attested and sealed. Guild of Measurewrights, under the Hexagonal Oath, with the concurrence of the Council of Links as to instruments and their explicit reservation as to the final entry.*
-- [What Things Cost](Value, Coin and Trade/What Things Cost.md)
+- [[Value, Coin and Trade/What Things Cost]]

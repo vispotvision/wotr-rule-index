@@ -83,22 +83,22 @@ Three institutional voices produce the material in this section, and they do not
 ### I · The Architecture
 
 The cosmological spine, in the order it was made: the totality before partition, the three intelligences that came out of its breaking, the ground they laid, the fourteen crowned ideas that administer the result, the threshold running between all of it, the beings Law folded in order to witness itself, and the one surviving account of what the far side looks like from inside.
-- [Omnara and the Division](Cosmology & Metaphysics/Omnara and the Division.md)
-- [The Three Epochs](Cosmology & Metaphysics/The Three Epochs.md)
-- [The Fourteen Titans](Cosmology & Metaphysics/The Fourteen Titans.md)
-- [The Fourteen Archons](Cosmology & Metaphysics/The Fourteen Archons.md)
-- [The Veil](Cosmology & Metaphysics/The Veil.md)
-- [The Celestial Host](Cosmology & Metaphysics/The Celestial Host.md)
-- [The Crossing and the Making of the God Hand](Cosmology & Metaphysics/The Crossing and the Making of the God Hand.md)
+- [[Cosmology & Metaphysics/Omnara and the Division]]
+- [[Cosmology & Metaphysics/The Three Epochs]]
+- [[Cosmology & Metaphysics/The Fourteen Titans]]
+- [[Cosmology & Metaphysics/The Fourteen Archons]]
+- [[Cosmology & Metaphysics/The Veil]]
+- [[Cosmology & Metaphysics/The Celestial Host]]
+- [[Cosmology & Metaphysics/The Crossing and the Making of the God Hand]]
 
 ### II · The Count
 
 *The correction, what it cost, and what it explains. The Measurewrights speaking, and they do not sound like the other two registers.*
-- [The Concordance of Ages](Cosmology & Metaphysics/The Concordance of Ages.md)
-- [Errata to the Received Registers](Cosmology & Metaphysics/Errata to the Received Registers.md)
-- [The Four Ceilings](Cosmology & Metaphysics/The Four Ceilings.md)
-- [The Sky, the Hour and the Year](Cosmology & Metaphysics/The Sky, the Hour and the Year.md)
-- [The Faiths of the Four Quarters](Cosmology & Metaphysics/The Faiths of the Four Quarters.md)
+- [[Cosmology & Metaphysics/The Concordance of Ages]]
+- [[Cosmology & Metaphysics/Errata to the Received Registers]]
+- [[Cosmology & Metaphysics/The Four Ceilings]]
+- [[Cosmology & Metaphysics/The Sky, the Hour and the Year]]
+- [[Cosmology & Metaphysics/The Faiths of the Four Quarters]]
 > **Time, and what people do about the owners.** Two additions sit under this section.
 >
 > **The Sky, the Hour and the Year** builds the setting's own sky and its own calendar. One sun, one moon whose cycle is exactly twenty-eight days so the month is never in dispute, five wanderers and a pole star, and a year of thirteen months and three hundred and sixty-four days. The day divides by **fourteen**, for the doctrinal reason the Sohai already gives. Seven unequal stations of light against seven of dark, with the Bow at the hinge, set against fourteen equal Guild hours pushed down the wire from Stannvaard. Eight times in thirteen years a nameless day is inserted that belongs to no Archon, and on it no Work falls due, nothing can be entered, no window opens and no instrument binds.

@@ -1,0 +1,52 @@
+name: Publish the wiki site
+
+on:
+  push:
+    branches: [master]
+    paths: ["wiki/**", "site/**", "build/site_content.py", ".github/workflows/site.yml"]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v6
+      - uses: actions/setup-node@v6
+        with:
+          node-version: 24
+      - name: Fetch Quartz (pinned)
+        run: |
+          git clone https://github.com/jackyzha0/quartz.git quartz-src
+          git -C quartz-src checkout 97a2d05
+      - name: Public pages only
+        run: |
+          cp site/quartz.config.yaml quartz-src/quartz.config.yaml
+          python3 build/site_content.py quartz-src/content
+      - name: Build
+        working-directory: quartz-src
+        run: |
+          npm ci
+          npx quartz plugin install
+          npx quartz build
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: quartz-src/public
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4

@@ -121,6 +121,6 @@ Not the Old World. The **western part of the northern shield**, past the ridgeli
 **What this means for the house** · Every Moto seat in the current era is superimposed on somebody else's ground. Kharven is Concord-stock northern clans who predate the Moto arrival by centuries. The bloodline arrives, governs, enforces, and does not assimilate, because a people that migrates brings farmers and a house that migrates brings law.
 > **Open ruling** · The seat is described as *ruined*, and the residual saturation Yukazuri reads there is consistent with mass death rather than slow abandonment. **What ruined it, and when, is undecided.** Malakar's splitting is the obvious answer and is probably the wrong one, because glaciation does not leave that kind of imprint and a massacre does.
 > **Struck from canon** · The Malō of Sātūlagi. The Moto hold one seat and it is Kharven. The six non-Kōkan lines are landless.
-- [The Long Reading — Moto Ancient History](The Moto Bloodline/The Long Reading — Moto Ancient History.md)
-- [The Moto Origin — The Western Reach](The Moto Bloodline/The Moto Origin — The Western Reach.md)
-- [The Moto Bloodline — Material Culture](The Moto Bloodline/The Moto Bloodline — Material Culture.md)
+- [[The Moto Bloodline/The Long Reading — Moto Ancient History]]
+- [[The Moto Bloodline/The Moto Origin — The Western Reach]]
+- [[The Moto Bloodline/The Moto Bloodline — Material Culture]]

@@ -116,8 +116,8 @@ The Banner Houses of Kharven
 > **Gaps on this tier, flagged not filled.** Nalūn's factor houses, Ketsuen's meritocratic ladder, Stannvaard's Ore Council and Undaar-Keth's decree structure have no equivalent sub-page. Kharven is the only one of the five whose internal politics can be written from the wiki, which will show the moment a scene needs a Nalūn creditor or a Stannvaard councillor by name.
 >
 > **The Holy Sea of Alabaster** has a completed codex and appears in both the Kharven and Nalūn entries as a live relation, but sits in no quarter and has no page. Same for **Malō of Sātūlagi**. Isaac's ruling needed on which quarter each belongs to — neither reads as northern shield.
-- [The Kingdom of Kharven — The Ashen Crown](The Inner World — The Northern Shield/The Kingdom of Kharven — The Ashen Crown.md)
-- [The Kingdom of Nalūn — The Chain-Cities](The Inner World — The Northern Shield/The Kingdom of Nalūn — The Chain-Cities.md)
-- [The Sovereign Enclave of Ketsuen — The Crow's Reach](The Inner World — The Northern Shield/The Sovereign Enclave of Ketsuen — The Crow's Reach.md)
-- [The Guild Seat of Stannvaard — The Metal-Wardens of the Ring](The Inner World — The Northern Shield/The Guild Seat of Stannvaard — The Metal-Wardens of the Ring.md)
-- [The Iron Mandate of Undaar-Keth — The Closed Fist](The Inner World — The Northern Shield/The Iron Mandate of Undaar-Keth — The Closed Fist.md)
+- [[The Inner World — The Northern Shield/The Kingdom of Kharven — The Ashen Crown]]
+- [[The Inner World — The Northern Shield/The Kingdom of Nalūn — The Chain-Cities]]
+- [[The Inner World — The Northern Shield/The Sovereign Enclave of Ketsuen — The Crow's Reach]]
+- [[The Inner World — The Northern Shield/The Guild Seat of Stannvaard — The Metal-Wardens of the Ring]]
+- [[The Inner World — The Northern Shield/The Iron Mandate of Undaar-Keth — The Closed Fist]]

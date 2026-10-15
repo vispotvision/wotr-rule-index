@@ -146,7 +146,7 @@ Near-black hair with a **Kōkan violet-cast in direct light**, heavy and straigh
 
 **Kurosetsu — Black Verdict** · Ruins-inscribed practice blade, **below Guild Accord combat classification on paper.** *What it cuts does not read as below-grade regardless of the specification.*
 **Covenant Beads** · Non-magical, his father's, jade and iron worn smooth. **The only object carried continuously since the exile began.**
-**Field Coat** · Heavy, dark, wide fur collar, iron-thread seams. Replaced twice. [*The campaign form of Moto dress — see The Moto Bloodline — Material Culture.*](https://app.notion.com/p/The-Moto-Bloodline-Material-Culture-3d958200eb2281b68f63e46eb9ccdee4)
+**Field Coat** · Heavy, dark, wide fur collar, iron-thread seams. Replaced twice. [[The Moto Bloodline/The Moto Bloodline — Material Culture|*The campaign form of Moto dress — see The Moto Bloodline — Material Culture.*]]
 
 ---
 

@@ -35,13 +35,13 @@ The standard eleven questions still apply. Origin before appearance, Essence Aff
 ## Cross-Reference
 
 **Full doctrine, the entry skeleton, the five Summon Tiers, Crystal Provenance, Bond Class, the Glyph Chain and the blank template all live in The Called · Summon Register under the Magic System section.** Use the blank template there rather than copying an existing entry, since copying an entry carries its assumptions with it.
-- [The Called · Summon Register](Summoned and Bound/The Called · Summon Register.md)
+- [[Summoned and Bound/The Called · Summon Register]]
 
 ---
 
 ## Entries
 
-- [Raga · The Divine Thunder Bear](Summoned and Bound/Raga · The Divine Thunder Bear.md)
-- [Vaelmorn · The Standing Grave](Summoned and Bound/Vaelmorn · The Standing Grave.md)
-- [Obrenkael · The Mule](Summoned and Bound/Obrenkael · The Mule.md)
-- [Haelvorn · Housecat](Summoned and Bound/Haelvorn · Housecat.md)
+- [[Summoned and Bound/Raga · The Divine Thunder Bear]]
+- [[Summoned and Bound/Vaelmorn · The Standing Grave]]
+- [[Summoned and Bound/Obrenkael · The Mule]]
+- [[Summoned and Bound/Haelvorn · Housecat]]

@@ -59,8 +59,8 @@ The oldest inter-house tension in mortal history is between the Moto and the Yuk
 > The Moto fear the Yukari **the way a government fears a free press**: not because the press can overthrow the government, but because the press can see what the government is doing, **and the seeing itself is an uncontrollable form of power.**
 The Zettari sit outside that quarrel entirely. Their response to the Yukari has been consistent across every era: **not friendship, not alliance — respect**, in the Zettari sense. *The acknowledgment that another being's function is lawful, useful, and complementary to one's own, and that the being who performs it deserves to be left alone to perform it.*
 > When a Zettari meets a Yukari, the response is typically a nod. **Not a bow. Not a salute. A nod.**
-- [The Moto Bloodline](The Archaic Bloodlines/The Moto Bloodline.md)
-- [The Yukari Bloodline](The Archaic Bloodlines/The Yukari Bloodline.md)
-- [The Zettari](The Archaic Bloodlines/The Zettari.md)
-- [The Yuno Bloodline](The Archaic Bloodlines/The Yuno Bloodline.md)
-- [The Mahuo Family](The Archaic Bloodlines/The Mahuo Family.md)
+- [[The Archaic Bloodlines/The Moto Bloodline]]
+- [[The Archaic Bloodlines/The Yukari Bloodline]]
+- [[The Archaic Bloodlines/The Zettari]]
+- [[The Archaic Bloodlines/The Yuno Bloodline]]
+- [[The Archaic Bloodlines/The Mahuo Family]]

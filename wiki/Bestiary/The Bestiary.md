@@ -46,7 +46,7 @@ verification: "unverified"
 | **T9** | Apocalyptic Beast | **Leviathan · Lich · Kraken** |
 | **T3–T8** | Variable | **Elemental** — the only entry in the register whose tier is a range rather than a figure, running from a minor natural disturbance to a colossus that reshapes landscape |
 
-**The rung beside the tier.** A Danger Tier is the Commission's rating: what it takes to lawfully engage a creature. The Bestiary ladder in [The Tier Ladders](https://app.notion.com/p/3e758200eb228127a7c2ece5680c1889) reads the same creature by what it can break, from Hearth-pest to Sky-eater, and by what lifts it: reach, persistence and the ground that feeds it. The two often disagree, and the difference is where a hunter finds the answer.
+**The rung beside the tier.** A Danger Tier is the Commission's rating: what it takes to lawfully engage a creature. The Bestiary ladder in [[Fracture of Worlds — The Living System/X. The Tier Ladders (Part Twenty-Four)|The Tier Ladders]] reads the same creature by what it can break, from Hearth-pest to Sky-eater, and by what lifts it: reach, persistence and the ground that feeds it. The two often disagree, and the difference is where a hunter finds the answer.
 
 ---
 
@@ -64,15 +64,15 @@ verification: "unverified"
 ## Entries
 
 Six pages, grouped by Type. **Spirit Beasts** · **The Draconic Lineage** · **Natural Beasts** · **Aberrations** · **The Undying and the Constructs** · **Divine, Archonic and Elemental**.
-- [Spirit Beasts](The Bestiary/Spirit Beasts.md)
-- [The Draconic Lineage](The Bestiary/The Draconic Lineage.md)
-- [Natural Beasts](The Bestiary/Natural Beasts.md)
-- [Aberrations](The Bestiary/Aberrations.md)
-- [The Undying and the Constructs](The Bestiary/The Undying and the Constructs.md)
-- [Divine, Archonic and Elemental](The Bestiary/Divine, Archonic and Elemental.md)
+- [[The Bestiary/Spirit Beasts]]
+- [[The Bestiary/The Draconic Lineage]]
+- [[The Bestiary/Natural Beasts]]
+- [[The Bestiary/Aberrations]]
+- [[The Bestiary/The Undying and the Constructs]]
+- [[The Bestiary/Divine, Archonic and Elemental]]
 
 ### The bound and the bred
 
 *The six pages above catalogue what exists. The two below are different kinds of entry. A called thing has somebody answerable for it. A Well's get has nobody answerable for it, and is every delver's problem.*
-- [Summoned and Bound](The Bestiary/Summoned and Bound.md)
-- [Well-spawn](The Bestiary/Well-spawn.md)
+- [[The Bestiary/Summoned and Bound]]
+- [[The Bestiary/Well-spawn]]

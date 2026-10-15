@@ -41,4 +41,4 @@ The Alftian Codex is **what it looks like from inside a life.** A terrace-farmer
 **The Alftian Codex** carries all three volumes beneath it. **The Veil** is the cosmological classification of the threshold the Codex spends three volumes crossing.
 > *"That which courseth above is as that which courseth below. That which burneth in Tempus burneth also in the Soul Crystal. There is but one law, and it is everywhere."*
 > — Vis Trismegistus, recovered inscription, Herald's Archivum, Urbis
-- [The Alftian Codex](Lore & History/The Alftian Codex.md)
+- [[Lore & History/The Alftian Codex]]

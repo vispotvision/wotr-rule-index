@@ -108,10 +108,10 @@ The Measurewrights offer three explanations and endorse none. That the names are
 > The Guild notes that the third explanation is the one the corrected chronology makes least available. Fourteen hundred years is not long enough for a country to be forgotten by everybody while its exports continue.
 >
 > **Something is still loading those ships.**
-- [The Inner World — The Northern Shield](The Bearing and the Holding/The Inner World — The Northern Shield.md)
-- [The Old World — The Western Wearing](The Bearing and the Holding/The Old World — The Western Wearing.md)
-- [The New World — The Eastern Rise](The Bearing and the Holding/The New World — The Eastern Rise.md)
-- [The Outer World — The Southern Pan](The Bearing and the Holding/The Outer World — The Southern Pan.md)
-- [Yasoshima — The Eighty Isles](The Bearing and the Holding/Yasoshima — The Eighty Isles.md)
-- [The Hobgoblin Expanse](The Bearing and the Holding/The Hobgoblin Expanse.md)
-- [Kushara — The Land That Remembers Weight](The Bearing and the Holding/Kushara — The Land That Remembers Weight.md)
+- [[The Bearing and the Holding/The Inner World — The Northern Shield]]
+- [[The Bearing and the Holding/The Old World — The Western Wearing]]
+- [[The Bearing and the Holding/The New World — The Eastern Rise]]
+- [[The Bearing and the Holding/The Outer World — The Southern Pan]]
+- [[The Bearing and the Holding/Yasoshima — The Eighty Isles]]
+- [[The Bearing and the Holding/The Hobgoblin Expanse]]
+- [[The Bearing and the Holding/Kushara — The Land That Remembers Weight]]

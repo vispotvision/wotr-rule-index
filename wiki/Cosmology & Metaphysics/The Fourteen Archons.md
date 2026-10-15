@@ -161,10 +161,10 @@ Every one of the hundred and thirty-six attested glyphs belongs to an Archon bec
 ## The Pantheon in Full
 
 Each Archon's Domain, Celestial Form, Glyphs, Divine Edict, magic, and web of relation, arranged by the tension each pair holds open.
-- [The Primordial Dyad — Order and Chaos](The Fourteen Archons/The Primordial Dyad — Order and Chaos.md)
-- [Pair I — Form Against Time](The Fourteen Archons/Pair I — Form Against Time.md)
-- [Pair II — Memory Against Horizon](The Fourteen Archons/Pair II — Memory Against Horizon.md)
-- [Pair III — Will Against Desire](The Fourteen Archons/Pair III — Will Against Desire.md)
-- [Pair IV — Insight Against Dream](The Fourteen Archons/Pair IV — Insight Against Dream.md)
-- [Pair V — Motion Against Stillness](The Fourteen Archons/Pair V — Motion Against Stillness.md)
-- [Pair VI — Harmony and Renewal](The Fourteen Archons/Pair VI — Harmony and Renewal.md)
+- [[The Fourteen Archons/The Primordial Dyad — Order and Chaos]]
+- [[The Fourteen Archons/Pair I — Form Against Time]]
+- [[The Fourteen Archons/Pair II — Memory Against Horizon]]
+- [[The Fourteen Archons/Pair III — Will Against Desire]]
+- [[The Fourteen Archons/Pair IV — Insight Against Dream]]
+- [[The Fourteen Archons/Pair V — Motion Against Stillness]]
+- [[The Fourteen Archons/Pair VI — Harmony and Renewal]]

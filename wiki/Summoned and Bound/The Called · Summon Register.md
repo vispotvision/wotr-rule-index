@@ -124,4 +124,4 @@ verification: "unverified"
 **Cost outlasts the fight or it is not a cost.** Essence spent is a limitation. Memory lost, breath ruined, a name that no longer answers: those are costs. **Record the second kind.**
 **Silence severs.** Anything Donated dies inside a Silence Realm. Anything Analog degrades. Native and Anchored forms are the only two that hold, and holding is not the same as functioning.
 **The Bench and the Divisions are watching.** Summoning without lawful Glyphica is Mechanica. Unauthorized World-Tethering is prosecuted under Statute XXVI. **An entry should record what the Accord would say about it**, including the entries where the Accord has said nothing yet.
-- [Summon Entry · Blank Template](The Called · Summon Register/Summon Entry · Blank Template.md)
+- [[The Called · Summon Register/Summon Entry · Blank Template]]

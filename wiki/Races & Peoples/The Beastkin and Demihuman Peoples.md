@@ -139,4 +139,4 @@ What they do share is **physicality.** Beastkin languages consistently encode mo
 
 > *"The world has two categories for beastkin — victim or animal. Neither category allows for the possibility that I am standing here because I chose to stand here."*
 > — Yoko Mishiro
-- [The Five Beastkin Lineages](The Beastkin and Demihuman Peoples/The Five Beastkin Lineages.md)
+- [[The Beastkin and Demihuman Peoples/The Five Beastkin Lineages]]

@@ -37,8 +37,8 @@ The character record runs on a seventeen-part skeleton, and the order of the par
 ## Entries
 
 **Volume I** holds active cards in board order, spanning the founding generation through the present age. Standalone codices follow for the figures whose records outgrew a card.
-- [Volume I — Character Cards](Characters/Volume I — Character Cards.md)
+- [[Characters/Volume I — Character Cards]]
 
 ---
 
-- [Mara Venn](Characters/Mara Venn.md)
+- [[Characters/Mara Venn]]

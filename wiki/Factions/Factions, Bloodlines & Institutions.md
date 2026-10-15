@@ -59,9 +59,9 @@ flowchart TD
 
 ### Authority by measurement, descent and attribution
 
-- [The Guild Accord](Factions, Bloodlines & Institutions/The Guild Accord.md)
-- [The Bench of Attribution](Factions, Bloodlines & Institutions/The Bench of Attribution.md)
-- [The Archaic Bloodlines](Factions, Bloodlines & Institutions/The Archaic Bloodlines.md)
+- [[Factions, Bloodlines & Institutions/The Guild Accord]]
+- [[Factions, Bloodlines & Institutions/The Bench of Attribution]]
+- [[Factions, Bloodlines & Institutions/The Archaic Bloodlines]]
 
 ### Authority by doctrine
 
@@ -70,13 +70,13 @@ flowchart TD
 > **Read the two together or neither.** The charge and the answer are both recorded on the Sōhai page, in the order's own words, **because the argument is genuine and neither side is being stupid.**
 >
 > *No arbitration exists, and none can, because the only body with standing to arbitrate is one of the two parties.*
-- [Sancta Lux](Factions, Bloodlines & Institutions/Sancta Lux.md)
-- [Sōhai — The Whole Bow](Factions, Bloodlines & Institutions/Sōhai — The Whole Bow.md)
-- [The Eight Great Houses of Kushara](Factions, Bloodlines & Institutions/The Eight Great Houses of Kushara.md)
-- [The Ten Great Houses of Drakyssia](Factions, Bloodlines & Institutions/The Ten Great Houses of Drakyssia.md)
-- [The Banner Houses of Kharven](Factions, Bloodlines & Institutions/The Banner Houses of Kharven.md)
-- [The Void Vanguard](Factions, Bloodlines & Institutions/The Void Vanguard.md)
-- [The Articles of the Accord, and the Kinds of Polity](Factions, Bloodlines & Institutions/The Articles of the Accord, and the Kinds of Polity.md)
+- [[Factions, Bloodlines & Institutions/Sancta Lux]]
+- [[Factions, Bloodlines & Institutions/Sōhai — The Whole Bow]]
+- [[Factions, Bloodlines & Institutions/The Eight Great Houses of Kushara]]
+- [[Factions, Bloodlines & Institutions/The Ten Great Houses of Drakyssia]]
+- [[Factions, Bloodlines & Institutions/The Banner Houses of Kharven]]
+- [[Factions, Bloodlines & Institutions/The Void Vanguard]]
+- [[Factions, Bloodlines & Institutions/The Articles of the Accord, and the Kinds of Polity]]
 > **The law, in articles.** **The Articles of the Accord, and the Kinds of Polity** gives the actual text: twenty-eight numbered articles across six titles, each with its register name, its plain name, and its penalty.
 > 
 > The Accord is a **jurisdiction, not a sovereign.** It holds no territory, keeps no army, and cannot hang anybody. Its sanction is exclusion, and its power is that its courts are faster and more predictable than anything else on the road. **The dusty foot** — a traveller's plea heard and determined before the market closes — is the single rule that built the whole system.
@@ -94,7 +94,7 @@ flowchart TD
 > The second half sets out the seven forms of polity the Accord has to reach across, from the composite monarchy of the Concord to Stannvaard's oligarchic republic, the Mandate's standing decree, the Keth-Gorrum's sealed parliament, Iampu's rotating crown, the Echo Elf confederation and Eresse's calendrical principality. **And Kharven, which sits outside the typology entirely** and has never asked the Accord for an instrument.
 >
 > **Companion piece.** *The Guild Accord in the Modern Era*, under the Guild Accord page, covers the institution rather than its law: where its reach actually ends, the Divisions as rivals, the politics of the High Concordant, the company and academy structures, and the great offices. It also supersedes the old Accord register — no terminals, no projected sigils, no floating numbers.
-- [The Holy Inquisition](Factions, Bloodlines & Institutions/The Holy Inquisition.md)
-- [The Powers of the Imperial Age](Factions, Bloodlines & Institutions/The Powers of the Imperial Age.md)
-- [The Mother](Factions, Bloodlines & Institutions/The Mother.md)
-- [The Night Watch](Factions, Bloodlines & Institutions/The Night Watch.md)
+- [[Factions, Bloodlines & Institutions/The Holy Inquisition]]
+- [[Factions, Bloodlines & Institutions/The Powers of the Imperial Age]]
+- [[Factions, Bloodlines & Institutions/The Mother]]
+- [[Factions, Bloodlines & Institutions/The Night Watch]]

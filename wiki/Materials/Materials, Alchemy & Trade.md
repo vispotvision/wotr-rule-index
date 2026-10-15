@@ -82,15 +82,15 @@ The registers are dry by construction and the pattern only shows at scale.
 ### I · The ground and the registers
 
 *What the world is made of. The two Material Indices and the Alchemical Index sit beneath the Ledger.*
-- [The Master Material Ledger](Materials, Alchemy & Trade/The Master Material Ledger.md)
-- [The Standing Index](Materials, Alchemy & Trade/The Standing Index.md)
-- [Hide, Horn and Bone](Materials, Alchemy & Trade/Hide, Horn and Bone.md)
+- [[Materials, Alchemy & Trade/The Master Material Ledger]]
+- [[Materials, Alchemy & Trade/The Standing Index]]
+- [[Materials, Alchemy & Trade/Hide, Horn and Bone]]
 
 ### II · The bench
 
 *How the work is done, what it costs the body, and how a civilisation names the ways it goes wrong.*
-- [Alchemetrica](Materials, Alchemy & Trade/Alchemetrica.md)
-- [The Heresiology of Alchemy](Materials, Alchemy & Trade/The Heresiology of Alchemy.md)
+- [[Materials, Alchemy & Trade/Alchemetrica]]
+- [[Materials, Alchemy & Trade/The Heresiology of Alchemy]]
 
 ### III · The body that rules on it, and the money
 
@@ -105,13 +105,13 @@ Value, Coin and Trade
 *The registers say what the world is made of. These two say who touches it, with what, and what it does to them.*
 **The Works and Days** sorts the whole population by **what the instrument can see** — three floors, and the register begins with the third **because they are the majority, and any account of the world's work that begins with the practitioners is describing the exception and calling it the rule.**
 **The Apparatus of the Age** is its equipment appendix: *the tallow candle before the Aethersteel plate, because the candle appears in more scenes than any weapon.*
-- [The Works and Days — Occupations, Trades and Technology](Materials, Alchemy & Trade/The Works and Days — Occupations, Trades and Technology.md)
-- [The Apparatus of the Age — Equipment and Material Culture](Materials, Alchemy & Trade/The Apparatus of the Age — Equipment and Material Culture.md)
+- [[Materials, Alchemy & Trade/The Works and Days — Occupations, Trades and Technology]]
+- [[Materials, Alchemy & Trade/The Apparatus of the Age — Equipment and Material Culture]]
 > **Cross-section note.** *The Works and Days* names its own unbuilt gaps — **food and cuisine, music, ground-level justice, domestic life and courtship** — which are the same items standing on the docket as **the folk world.** *That register is the closest thing to a foundation for them that exists.*
-- [Weight, Measure and the Standard](Materials, Alchemy & Trade/Weight, Measure and the Standard.md)
+- [[Materials, Alchemy & Trade/Weight, Measure and the Standard]]
 > **What a pound is, and who never accepted it.** **Weight, Measure and the Standard** underpins the assay, the proof-mark and the Bench, none of which work without standard weights.
 >
 > Everything is built on a counted seed, which is also the flaw, since the Accord's grain is a Western seed. Two parallel systems: **market weight** at sixteen ounces for bulk and **assay weight** at twelve for anything the Bench touches, with the assay pound scaled so a bead reads directly as fineness. Weights carry verification stamps and a false one is **struck** with a six-point mark across them, and struck weights still in circulation are the most reliable indicator of how far the Accord's reach actually extends.
 >
 > Two things worth having in any market scene. A **cased** weight is a bronze shell filled with lead and gives a dull note instead of ringing, so every inspector taps before he does anything else. And the whole grain trade turns on one word, **level or heaped**, which makes the strike-board the most political object in the market.
-- [The Real Alchemy](Materials, Alchemy & Trade/The Real Alchemy.md)
+- [[Materials, Alchemy & Trade/The Real Alchemy]]

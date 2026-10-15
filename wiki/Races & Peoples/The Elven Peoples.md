@@ -195,4 +195,4 @@ Warm, functional relations with Altherion's multi-racial republic, whose confede
 
 > *"Five children remembering one mother's voice, each one certain the others have gotten the tune wrong."*
 > — Attributed to a Sunroot-era elegy, author lost to all five archives equally
-- [The High Empire of Eresse](The Elven Peoples/The High Empire of Eresse.md)
+- [[The Elven Peoples/The High Empire of Eresse]]

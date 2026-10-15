@@ -76,9 +76,9 @@ Three instruments cover this ground and they do not sound alike.
 ## Entries
 
 Read **The Bearing and the Holding** for what the ground is and what may be made of it. Read **Value, Coin and Trade** for what any of it is worth, and why anyone accepts paper. Read **The Hobgoblin Expanse** for the one polity in the four quarters that was thrown out of the west, built a parliament on volcanic rock nobody wanted, and has run it for seven hundred and sixty-five years without a king.
-- [The Bearing and the Holding](Geography & the Four Quarters/The Bearing and the Holding.md)
-- [Value, Coin and Trade](Geography & the Four Quarters/Value, Coin and Trade.md)
-- [News, Rumour and the Speed of Information](Geography & the Four Quarters/News, Rumour and the Speed of Information.md)
+- [[Geography & the Four Quarters/The Bearing and the Holding]]
+- [[Geography & the Four Quarters/Value, Coin and Trade]]
+- [[Geography & the Four Quarters/News, Rumour and the Speed of Information]]
 > **Distance measured in days.** **News, Rumour and the Speed of Information** sits under this section because what it actually documents is how far away anything is.
 >
 > Three channels. **The wire** is near-instant, priced by the word, read by the Guild, and follows the sealed conduit, which means it reaches exactly as far as the draw does and no further. A cut district is deaf, and a Withering-era quarter loses its signal net at the same rate it loses pressure. **The post** is cheap, prepaid, and the only channel still serving a cut district. **The mouth** is free, faster over short distances, and wrong.

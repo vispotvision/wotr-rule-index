@@ -10,9 +10,9 @@ verification: null
 
 # Information not on WIKI
 
-- [In-World Documents & the Narrative Archive](Information not on WIKI/In-World Documents & the Narrative Archive.md)
+- [[Information not on WIKI/In-World Documents & the Narrative Archive]]
 - [[The Rule Index]]
 
-- [Characters](Information not on WIKI/Characters.md)
-- [Artifacts](Information not on WIKI/Artifacts.md)
-- [The Disciplines](Information not on WIKI/The Disciplines.md)
+- [[Information not on WIKI/Characters]]
+- [[Information not on WIKI/Artifacts]]
+- [[Information not on WIKI/The Disciplines]]

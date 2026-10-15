@@ -199,11 +199,11 @@ Because each Family answers to a real physical domain, each Family answers to re
 ## The Register
 
 Each Family carries its own entry, with every Wellspring given its Analogue, Mechanism, Stat Effect, and Failure.
-- [Caloria — Thermodynamics](The Eight Families & the Sixty Wellsprings/Caloria — Thermodynamics.md)
-- [Fulguria — Electromagnetism](The Eight Families & the Sixty Wellsprings/Fulguria — Electromagnetism.md)
-- [Vectoria — Mechanics](The Eight Families & the Sixty Wellsprings/Vectoria — Mechanics.md)
-- [Spatium — Spatial Geometry](The Eight Families & the Sixty Wellsprings/Spatium — Spatial Geometry.md)
-- [Materia — Material Science](The Eight Families & the Sixty Wellsprings/Materia — Material Science.md)
-- [Vitalia — Biochemistry](The Eight Families & the Sixty Wellsprings/Vitalia — Biochemistry.md)
-- [Fluxia — Fluid Dynamics](The Eight Families & the Sixty Wellsprings/Fluxia — Fluid Dynamics.md)
-- [Limina — Entropy, Void and Mind](The Eight Families & the Sixty Wellsprings/Limina — Entropy, Void and Mind.md)
+- [[The Eight Families & the Sixty Wellsprings/Caloria — Thermodynamics]]
+- [[The Eight Families & the Sixty Wellsprings/Fulguria — Electromagnetism]]
+- [[The Eight Families & the Sixty Wellsprings/Vectoria — Mechanics]]
+- [[The Eight Families & the Sixty Wellsprings/Spatium — Spatial Geometry]]
+- [[The Eight Families & the Sixty Wellsprings/Materia — Material Science]]
+- [[The Eight Families & the Sixty Wellsprings/Vitalia — Biochemistry]]
+- [[The Eight Families & the Sixty Wellsprings/Fluxia — Fluid Dynamics]]
+- [[The Eight Families & the Sixty Wellsprings/Limina — Entropy, Void and Mind]]

@@ -64,12 +64,12 @@ Every grammar follows the same eleven sections so they can be compared and so ga
 
 Complete. Old Vaross, Eressean and Varrisak, Runic Dawi, Accord Latin and the Fourteen Hands are all built.
 What remains is maintenance rather than construction: the Drow Shadow-Veil notation is described from outside in three places and has no entry of its own, and Mirror-Sign is named as a full manual language with its own grammar and has never been given one. Neither is urgent. Both are real gaps.
-- [Old Vaross — The Goblinoid Tongue](The Tongues of the Realms/Old Vaross — The Goblinoid Tongue.md)
-- [Eressean and Varrisak — The Tongue of the Vey-Elarin](The Tongues of the Realms/Eressean and Varrisak — The Tongue of the Vey-Elarin.md)
-- [Runic Dawi — The Tongue of the Holds](The Tongues of the Realms/Runic Dawi — The Tongue of the Holds.md)
-- [Accord Latin — The Formulary and the Two Spoken Registers](The Tongues of the Realms/Accord Latin — The Formulary and the Two Spoken Registers.md)
-- [Common — The Tongue With No Distinctions](The Tongues of the Realms/Common — The Tongue With No Distinctions.md)
-- [Element Inventories — Mahuo, Yukari, the Elven Branches, Beastkin](The Tongues of the Realms/Element Inventories — Mahuo, Yukari, the Elven Branches, Beastkin.md)
-- [Moto Element Inventory — Japonic Stratum](The Tongues of the Realms/Moto Element Inventory — Japonic Stratum.md)
-- [The Celestial Host — Naming](The Tongues of the Realms/The Celestial Host — Naming.md)
-- [Swears, Oaths and Insults](The Tongues of the Realms/Swears, Oaths and Insults.md)
+- [[The Tongues of the Realms/Old Vaross — The Goblinoid Tongue]]
+- [[The Tongues of the Realms/Eressean and Varrisak — The Tongue of the Vey-Elarin]]
+- [[The Tongues of the Realms/Runic Dawi — The Tongue of the Holds]]
+- [[The Tongues of the Realms/Accord Latin — The Formulary and the Two Spoken Registers]]
+- [[The Tongues of the Realms/Common — The Tongue With No Distinctions]]
+- [[The Tongues of the Realms/Element Inventories — Mahuo, Yukari, the Elven Branches, Beastkin]]
+- [[The Tongues of the Realms/Moto Element Inventory — Japonic Stratum]]
+- [[The Tongues of the Realms/The Celestial Host — Naming]]
+- [[The Tongues of the Realms/Swears, Oaths and Insults]]

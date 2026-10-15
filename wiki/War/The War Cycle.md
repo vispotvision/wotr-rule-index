@@ -73,13 +73,13 @@ Its absence is load-bearing. **Every document in the cycle points at camp diseas
 ## Entries
 
 **The Practitioner Problem** sits with the Guild Accord, under the Strategic Division that issued it. **The Camp** is not held in this archive. The remaining nine are here.
-- [The Order of Battle](The War Cycle/The Order of Battle.md)
-- [The Long March](The War Cycle/The Long March.md)
-- [Walls and What Beats Them](The War Cycle/Walls and What Beats Them.md)
-- [Sack and Contribution](The War Cycle/Sack and Contribution.md)
-- [The Crossing](The War Cycle/The Crossing.md)
-- [The Rites](The War Cycle/The Rites.md)
-- [The Physician's Eye](The War Cycle/The Physician's Eye.md)
-- [The Long Illness](The War Cycle/The Long Illness.md)
-- [The Runners](The War Cycle/The Runners.md)
-- [The Fisc — Paying for a Siege](The War Cycle/The Fisc — Paying for a Siege.md)
+- [[The War Cycle/The Order of Battle]]
+- [[The War Cycle/The Long March]]
+- [[The War Cycle/Walls and What Beats Them]]
+- [[The War Cycle/Sack and Contribution]]
+- [[The War Cycle/The Crossing]]
+- [[The War Cycle/The Rites]]
+- [[The War Cycle/The Physician's Eye]]
+- [[The War Cycle/The Long Illness]]
+- [[The War Cycle/The Runners]]
+- [[The War Cycle/The Fisc — Paying for a Siege]]

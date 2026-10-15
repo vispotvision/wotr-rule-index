@@ -160,50 +160,50 @@ Every Family has a terminal failure state. The early symptoms are indistinguisha
 ### I · The Foundations
 
 *What the Continuum is made of, what a working is, and the laws and boundaries every working runs on.*
-- [The Core Vocabulary](The Magic System/The Core Vocabulary.md)
-- [The Physical Account: Two Sets of Books](The Magic System/The Physical Account Two Sets of Books.md)
-- [The Eight Families & the Sixty Wellsprings](The Magic System/The Eight Families & the Sixty Wellsprings.md)
-- [The Master Glyph Index — 136 Attested Forms](The Magic System/The Master Glyph Index — 136 Attested Forms.md)
-- [The Descent of Parun — The Fourteen Hands](The Magic System/The Descent of Parun — The Fourteen Hands.md)
+- [[The Magic System/The Core Vocabulary]]
+- [[The Magic System/The Physical Account Two Sets of Books|The Physical Account: Two Sets of Books]]
+- [[The Magic System/The Eight Families & the Sixty Wellsprings]]
+- [[The Magic System/The Master Glyph Index — 136 Attested Forms]]
+- [[The Magic System/The Descent of Parun — The Fourteen Hands]]
 
 ### II · The Soul and the Climb
 
 *What a soul carries, what advancement does to it, and how any of it is measured from outside.*
-- [The Trait System: Law, Function and the Forge](The Magic System/The Trait System Law, Function and the Forge.md)
-- [The Four Paths: Routing, Recognition and the Gate](The Magic System/The Four Paths Routing, Recognition and the Gate.md)
-- [The Sixteen Stages](The Magic System/The Sixteen Stages.md)
-- [The Ladder and the Draft — Temperance, Advancement and Essence Drafts](The Magic System/The Ladder and the Draft — Temperance, Advancement and Essence Drafts.md)
-- [Tier Grade, Bands & the Aether Shell](The Magic System/Tier Grade, Bands & the Aether Shell.md)
-- [The Color of Essence](The Magic System/The Color of Essence.md)
+- [[The Magic System/The Trait System Law, Function and the Forge|The Trait System: Law, Function and the Forge]]
+- [[The Magic System/The Four Paths Routing, Recognition and the Gate|The Four Paths: Routing, Recognition and the Gate]]
+- [[The Magic System/The Sixteen Stages]]
+- [[The Magic System/The Ladder and the Draft — Temperance, Advancement and Essence Drafts]]
+- [[The Magic System/Tier Grade, Bands & the Aether Shell]]
+- [[The Magic System/The Color of Essence]]
 
 ### III · Practice, Institution and the World
 
 *How a working is actually made, who is permitted to make it, what it is called afterward, and what it costs on a bill.*
-- [The Four Crafts](The Magic System/The Four Crafts.md)
-- [The Derivation of Practice — Thaumaturgic and Theurgic](The Magic System/The Derivation of Practice — Thaumaturgic and Theurgic.md)
-- [The Standing and the Title — The Three Names](The Magic System/The Standing and the Title — The Three Names.md)
-- [The Imperial Age: Aether Infrastructure](The Magic System/The Imperial Age Aether Infrastructure.md)
-- [On Walking Into the Current — Wellspring Encounter and Recovery](The Magic System/On Walking Into the Current — Wellspring Encounter and Recovery.md)
+- [[The Magic System/The Four Crafts]]
+- [[The Magic System/The Derivation of Practice — Thaumaturgic and Theurgic]]
+- [[The Magic System/The Standing and the Title — The Three Names]]
+- [[The Magic System/The Imperial Age Aether Infrastructure|The Imperial Age: Aether Infrastructure]]
+- [[The Magic System/On Walking Into the Current — Wellspring Encounter and Recovery]]
 
 ### IV · The Adversary
 
 *The practice the whole system defines itself against, and the four ways a practitioner is beaten.*
-- [Mechanica: Extraction Without Recognition](The Magic System/Mechanica Extraction Without Recognition.md)
-- [Counterplay: What Beats a Practitioner](The Magic System/Counterplay What Beats a Practitioner.md)
+- [[The Magic System/Mechanica Extraction Without Recognition|Mechanica: Extraction Without Recognition]]
+- [[The Magic System/Counterplay What Beats a Practitioner|Counterplay: What Beats a Practitioner]]
 
 ### V · Reference and Craft
 
 *Consulted rather than read. The last of the three is author-facing: how magic is written, not what magic is.*
-- [The Magical Categories — Unified Taxonom](The Magic System/The Magical Categories — Unified Taxonom.md)
-- [The Lexicon of Magic — Master Terminology](The Magic System/The Lexicon of Magic — Master Terminology.md)
-- [The Practitioner's Field Manual — The Forge](The Magic System/The Practitioner's Field Manual — The Forge.md)
+- [[The Magic System/The Magical Categories — Unified Taxonom]]
+- [[The Magic System/The Lexicon of Magic — Master Terminology]]
+- [[The Magic System/The Practitioner's Field Manual — The Forge]]
 > **Elsewhere in the wiki.** The named arts live under **The Disciplines.** The material register lives under **Materials, Alchemy & Trade.** *The Apprentice's Primer, the in-world first reader that condenses this entire section for a newly registered practitioner, sits under In-World Documents.*
 
 ### VI · The Workbook
 
 *The stat framework itself. Not an essay. A reference you open with a specific question already in hand.*
 > **How to use it.** *Statting a character* — open **I** for the point economy, then **II** for the ceiling their Stage permits and the Path gates on their Sub-Stats. *Writing a fight* — **II** for the Grade differential, **III** for what the strike actually does to masonry and bone. *Writing a working* — **V** for the Wellspring's stat effect, **VII** for how much of it survives the Shell. *Writing advancement* — **VI** for the Catalyst the Crystal is waiting on. *Writing a Domain* — **VIII**.
-- [Fracture of Worlds — The Living System](The Magic System/Fracture of Worlds — The Living System.md)
-- [The Working Vocabulary — Trade Jargon and Its Metaphysical Extensions](The Magic System/The Working Vocabulary — Trade Jargon and Its Metaphysical Extensions.md)
+- [[The Magic System/Fracture of Worlds — The Living System]]
+- [[The Magic System/The Working Vocabulary — Trade Jargon and Its Metaphysical Extensions]]
 > **On the two.** Fracture of Worlds is machinery: Grades, Stages, Bands, Sub-Stats, Path gates. Almost none of it reaches the page. **The Working Vocabulary is the opposite** — what a fitter calls the pipe, what an assayer calls the flash, what a glasshouse calls a flaw — taken whole from real trades, extended to the metaphysical case by the people who work both, and inverted in cant. It exists so the world sounds worked rather than described, and so the metaphysics has somewhere to borrow from that is not the Codex.
-- [The Gate: Who May Learn Magic](The Magic System/The Gate Who May Learn Magic.md)
+- [[The Magic System/The Gate Who May Learn Magic|The Gate: Who May Learn Magic]]

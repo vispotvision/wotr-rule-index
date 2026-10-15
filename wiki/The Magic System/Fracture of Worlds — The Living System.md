@@ -23,14 +23,14 @@ The ceiling is 500 for everyone below Stage XV. Paragons exceed it, and the Code
 ### The Twenty-Two Parts
 
 The full system is split across child pages below, grouped by what a session actually needs to reach for.
-1. [I. Levels, Experience and Stat Points](https://app.notion.com/p/3d758200eb2281a78ab6ff201f11a35b) — Parts One through Three. Bands, Temperance Gates, Resonant Accumulation, the point economy.
-1. [II. Grades, Gates and Thresholds](https://app.notion.com/p/3d758200eb228131b70dc91722f2d3e4) — Parts Four through Ten. The Tier Grade table, stat ceilings by Stage, speed by grade, per-Sub-Stat Path gates, Threshold Catalysts, Resonant Pairs, stagnation.
-1. [III. Physical Force](https://app.notion.com/p/3d758200eb22816d8b90d14e1e94cfd9) — Part Eleven. Strike Force, Lifting Strength, Durability, Range, Aura Pressure.
-1. [IV. The Eight Primaries and the Sixty-Four Sub-Stats](https://app.notion.com/p/3d758200eb2281a282cbc69140fdabd7) — Part Twelve.
-1. [V. Wellsprings, Attraction and Obsession, Magic Integration](https://app.notion.com/p/3d758200eb22814ebff3fd58ca5b26f4) — Parts Thirteen through Fifteen.
-1. [VI. The Sixteen Temperance Stages](https://app.notion.com/p/3d758200eb2281518fc1ebca5eb525f1) — Part Sixteen.
-1. [VII. Aether Class, Essence Typology, Aether Flow](https://app.notion.com/p/3d758200eb228125b9f4f85adcd2a482) — Parts Seventeen through Nineteen.
-1. [VIII. Traits, Soul Crystal Tiers, Domains](https://app.notion.com/p/3d758200eb2281d0a367f18213037668) — Parts Twenty through Twenty-Two.
+1. [[Fracture of Worlds — The Living System/I. Levels, Experience and Stat Points (Parts One–Three)|I. Levels, Experience and Stat Points]] — Parts One through Three. Bands, Temperance Gates, Resonant Accumulation, the point economy.
+1. [[Fracture of Worlds — The Living System/II. Grades, Gates and Thresholds (Parts Four–Ten)|II. Grades, Gates and Thresholds]] — Parts Four through Ten. The Tier Grade table, stat ceilings by Stage, speed by grade, per-Sub-Stat Path gates, Threshold Catalysts, Resonant Pairs, stagnation.
+1. [[Fracture of Worlds — The Living System/III. Physical Force (Part Eleven)|III. Physical Force]] — Part Eleven. Strike Force, Lifting Strength, Durability, Range, Aura Pressure.
+1. [[Fracture of Worlds — The Living System/IV. The Eight Primaries and the Sixty-Four Sub-Stats (Part Twelve)|IV. The Eight Primaries and the Sixty-Four Sub-Stats]] — Part Twelve.
+1. [[Fracture of Worlds — The Living System/V. Wellsprings, Attraction and Obsession, Magic Integration (Parts Thirteen–Fifteen)|V. Wellsprings, Attraction and Obsession, Magic Integration]] — Parts Thirteen through Fifteen.
+1. [[Fracture of Worlds — The Living System/VI. The Sixteen Temperance Stages (Part Sixteen)|VI. The Sixteen Temperance Stages]] — Part Sixteen.
+1. [[Fracture of Worlds — The Living System/VII. Aether Class, Essence Typology, Aether Flow (Parts Seventeen–Nineteen)|VII. Aether Class, Essence Typology, Aether Flow]] — Parts Seventeen through Nineteen.
+1. [[Fracture of Worlds — The Living System/VIII. Traits, Soul Crystal Tiers, Domains (Parts Twenty–Twenty-Two)|VIII. Traits, Soul Crystal Tiers, Domains]] — Parts Twenty through Twenty-Two.
 
 ### The Short Version
 

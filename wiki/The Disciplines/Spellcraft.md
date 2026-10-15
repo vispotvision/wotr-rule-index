@@ -10,23 +10,23 @@ verification: null
 
 # Spellcraft
 
-- [Resonant Divination](Spellcraft/Resonant Divination.md)
-- [Anima Harmonics](Spellcraft/Anima Harmonics.md)
-- [Thaumic Harmonics](Spellcraft/Thaumic Harmonics.md)
-- [The Veil](Spellcraft/The Veil.md)
-- [Invert Eidolon](Spellcraft/Invert Eidolon.md)
-- [Vainglory](Spellcraft/Vainglory.md)
-- [Transposition](Spellcraft/Transposition.md)
-- [Anointing](Spellcraft/Anointing.md)
-- [Scission](Spellcraft/Scission.md)
-- [Oathrend](Spellcraft/Oathrend.md)
-- [Edictum](Spellcraft/Edictum.md)
-- [Imprinta](Spellcraft/Imprinta.md)
-- [Fallacy](Spellcraft/Fallacy.md)
-- [Kami no Kobushi](Spellcraft/Kami no Kobushi.md)
-- [Mugen no Hatsurugi](Spellcraft/Mugen no Hatsurugi.md)
-- [Saba no Rosa](Spellcraft/Saba no Rosa.md)
-- [The Iron Tree](Spellcraft/The Iron Tree.md)
-- [Kurotana](Spellcraft/Kurotana.md)
-- [Antinomy](Spellcraft/Antinomy.md)
-- [Precept](Spellcraft/Precept.md)
+- [[Spellcraft/Resonant Divination]]
+- [[Spellcraft/Anima Harmonics]]
+- [[Spellcraft/Thaumic Harmonics]]
+- [[Spellcraft/The Veil]]
+- [[Spellcraft/Invert Eidolon]]
+- [[Spellcraft/Vainglory]]
+- [[Spellcraft/Transposition]]
+- [[Spellcraft/Anointing]]
+- [[Spellcraft/Scission]]
+- [[Spellcraft/Oathrend]]
+- [[Spellcraft/Edictum]]
+- [[Spellcraft/Imprinta]]
+- [[Spellcraft/Fallacy]]
+- [[Spellcraft/Kami no Kobushi]]
+- [[Spellcraft/Mugen no Hatsurugi]]
+- [[Spellcraft/Saba no Rosa]]
+- [[Spellcraft/The Iron Tree]]
+- [[Spellcraft/Kurotana]]
+- [[Spellcraft/Antinomy]]
+- [[Spellcraft/Precept]]

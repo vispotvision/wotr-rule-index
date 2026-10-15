@@ -135,11 +135,11 @@ The ranks and what they cost. The currency of remembrance and the nine ways a so
 > **The Concordant cannot leave the Citadel.** Everything reaches them through five Divisional Heads who each decide what is worth carrying up, so the office is not exercised, it is curated. And because an unsucceeded death stills the Vault, the Council will accept almost any nominee rather than risk a gap, which means the contest happens entirely before the death.
 >
 > **Companies, academies and offices.** Master, Wardens and a self-appointing Court of Assistants; apprentice, freeman and liveryman, with entry to the freedom by patrimony, servitude or redemption. Academies teach and examine, societies elect and cannot be bought. And **an adventurer is somebody who ventures capital**, so a Commission is a venture with subscribers and shares, not a job with wages.
-- [The Guild Accord in the Modern Era — Divisions, Companies, Academies and Offices](The Guild Accord/The Guild Accord in the Modern Era — Divisions, Companies, Academies and Offices.md)
-- [The Tiered Path](The Guild Accord/The Tiered Path.md)
-- [Merit and Severance](The Guild Accord/Merit and Severance.md)
-- [The Black Concord](The Guild Accord/The Black Concord.md)
-- [The Concord Gate Network](The Guild Accord/The Concord Gate Network.md)
-- [The Concord Military](The Guild Accord/The Concord Military.md)
-- [The Concord Citadel](The Guild Accord/The Concord Citadel.md)
-- [The Practitioner Problem](The Guild Accord/The Practitioner Problem.md)
+- [[The Guild Accord/The Guild Accord in the Modern Era — Divisions, Companies, Academies and Offices]]
+- [[The Guild Accord/The Tiered Path]]
+- [[The Guild Accord/Merit and Severance]]
+- [[The Guild Accord/The Black Concord]]
+- [[The Guild Accord/The Concord Gate Network]]
+- [[The Guild Accord/The Concord Military]]
+- [[The Guild Accord/The Concord Citadel]]
+- [[The Guild Accord/The Practitioner Problem]]

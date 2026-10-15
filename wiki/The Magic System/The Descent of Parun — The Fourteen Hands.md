@@ -210,6 +210,6 @@ The answer is to cut the same glyph **three times, nested inside itself at dimin
 ---
 
 > **Load-bearing cross-reference.** The Long Reading holds that the Moto ancestral seat's own name is recorded **in a glyph the Continuum cannot classify — one of these thirty.** *It is the oldest proper noun in the project and it is deliberately blank.*
-- [The Counted Speech — A Speaker's Grammar of Parun](The Descent of Parun — The Fourteen Hands/The Counted Speech — A Speaker's Grammar of Parun.md)
+- [[The Descent of Parun — The Fourteen Hands/The Counted Speech — A Speaker's Grammar of Parun]]
 
 ---

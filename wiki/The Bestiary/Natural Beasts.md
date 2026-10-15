@@ -116,6 +116,6 @@ Proud, intelligent, **fiercely loyal to chosen riders**, territorial and protect
 **Aerial Supremacy.** **Talons of the Storm** rend armour and flesh alike. **Windborne Roar** disorients enemies and bolsters allies. **Essence Bond** shares Wellspring Essence with the rider, enhancing coordination and resilience.
 **Vulnerable when grounded or separated from riders. Sensitive to Essence-disrupting magic targeting the bond or the flight. And they require vast territories and Wellspring-rich nesting sites to thrive** — which is why the elite cavalry units are as small as they are.
 *The Skyward Charge chronicles legendary hippogrif riders breaking enemy sieges. Several Concord orders maintain elite hippogrif cavalry renowned for rapid deployment.*
-- [Droval — The Frost-Howler](Natural Beasts/Droval — The Frost-Howler.md)
-- [Neiman Lion](Natural Beasts/Neiman Lion.md)
-- [Greater Wolf](Natural Beasts/Greater Wolf.md)
+- [[Natural Beasts/Droval — The Frost-Howler]]
+- [[Natural Beasts/Neiman Lion]]
+- [[Natural Beasts/Greater Wolf]]

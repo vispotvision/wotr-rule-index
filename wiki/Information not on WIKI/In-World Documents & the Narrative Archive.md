@@ -40,18 +40,18 @@ The institutional codices in this wiki are written by bodies that **expect to ou
 
 ### The documents
 
-- [The Zettari–Mahou Accord](In-World Documents & the Narrative Archive/The Zettari–Mahou Accord.md)
-- [To Ara Min Mahuo](In-World Documents & the Narrative Archive/To Ara Min Mahuo.md)
-- [Anima Veri Credentis](In-World Documents & the Narrative Archive/Anima Veri Credentis.md)
+- [[In-World Documents & the Narrative Archive/The Zettari–Mahou Accord]]
+- [[In-World Documents & the Narrative Archive/To Ara Min Mahuo]]
+- [[In-World Documents & the Narrative Archive/Anima Veri Credentis]]
 
 ### The instructional register
 
 *The one document here written to be handed to a stranger. Everything else in this section was written by someone who knew who would read it.*
 **The Apprentice's Primer** condenses the entire Magic System section into a first reader, **and it is the only in-world document in the wiki that admits at the top what it is for**: *"You were not given this book because you are ready. You were given it because you have already begun, and nobody told you what you had begun."*
-- [The Apprentice's Primer — A First Reader for the Newly Registered](In-World Documents & the Narrative Archive/The Apprentice's Primer — A First Reader for the Newly Registered.md)
+- [[In-World Documents & the Narrative Archive/The Apprentice's Primer — A First Reader for the Newly Registered]]
 
 ### The prose
 
-- [The Scene Archive](In-World Documents & the Narrative Archive/The Scene Archive.md)
+- [[In-World Documents & the Narrative Archive/The Scene Archive]]
 
 ---

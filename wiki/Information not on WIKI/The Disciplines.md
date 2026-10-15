@@ -108,15 +108,15 @@ The first five entries are the general disciplines, open in principle to any pra
 
 ### The general disciplines and the bloodline arts
 
-- [Hataraki — The Works of the Plane of Fate](The Disciplines/Hataraki — The Works of the Plane of Fate.md)
-- [The Sage Arts](The Disciplines/The Sage Arts.md)
-- [The Spirit Rune Arts](The Disciplines/The Spirit Rune Arts.md)
-- [The Spirit Summoning Arts](The Disciplines/The Spirit Summoning Arts.md)
-- [The Harmonic Arts](The Disciplines/The Harmonic Arts.md)
-- [Kami no Kobushi — The God Fist](The Disciplines/Kami no Kobushi — The God Fist.md)
-- [The Ketsumyōgan — The Binding Fate Eye](The Disciplines/The Ketsumyōgan — The Binding Fate Eye.md)
-- [Matla](The Disciplines/Matla.md)
-- [The Open Crucible — Kwon Mu-jin's Book of Summons](The Disciplines/The Open Crucible — Kwon Mu-jin's Book of Summons.md)
+- [[The Disciplines/Hataraki — The Works of the Plane of Fate]]
+- [[The Disciplines/The Sage Arts]]
+- [[The Disciplines/The Spirit Rune Arts]]
+- [[The Disciplines/The Spirit Summoning Arts]]
+- [[The Disciplines/The Harmonic Arts]]
+- [[The Disciplines/Kami no Kobushi — The God Fist]]
+- [[The Disciplines/The Ketsumyōgan — The Binding Fate Eye]]
+- [[The Disciplines/Matla]]
+- [[The Disciplines/The Open Crucible — Kwon Mu-jin's Book of Summons]]
 
 ---
 
@@ -125,21 +125,21 @@ The first five entries are the general disciplines, open in principle to any pra
 These are the named arts a practitioner *trains*, as opposed to the labours the Continuum authorises. They are catalogued by Family and Method rather than by lineage, and every one of them is available in principle to anyone whose Crystal architecture and Temperance can carry it. **Talos is the single exception, and it is an exception of birth rather than of secrecy: the discipline cannot be taught, only expressed by a Crystal that was built for it.**
 Three of them are not disciplines at all in the strict sense. **Moetana**, **Solution**, and **Asami** are *states* — what a Crystal does when its internal partitions come down. They are grouped here because a practitioner meets them the same way they meet everything else in this section: by going far enough into their own architecture to find them.
 > **Read them in pairs.** Ainigma exists to defeat Solution. Nadi's per-strike arithmetic is the direct inverse of the Iron Bison's single compounded release. Moetana and Solution are two answers to one question about partitions, and Gisei is the third. **Recarvu and the Iron Bison both end in a body that cannot stop accumulating, by two entirely different routes.**
-- [Ainigma — The Riddle Wearing a Face](The Disciplines/Ainigma — The Riddle Wearing a Face.md)
-- [Ken — The Fist That Fights the Architecture](The Disciplines/Ken — The Fist That Fights the Architecture.md)
-- [Talos — The Bronze That Empties the Room](The Disciplines/Talos — The Bronze That Empties the Room.md)
-- [Nadi — The Art of Doing More Than Once](The Disciplines/Nadi — The Art of Doing More Than Once.md)
-- [The Iron Bison — A Discipline of Internal Resonance](The Disciplines/The Iron Bison — A Discipline of Internal Resonance.md)
-- [Recarvu — The Body That Builds Over What It Cannot Fix](The Disciplines/Recarvu — The Body That Builds Over What It Cannot Fix.md)
-- [Rusashin — The Dust That Remembers What It Touched](The Disciplines/Rusashin — The Dust That Remembers What It Touched.md)
+- [[The Disciplines/Ainigma — The Riddle Wearing a Face]]
+- [[The Disciplines/Ken — The Fist That Fights the Architecture]]
+- [[The Disciplines/Talos — The Bronze That Empties the Room]]
+- [[The Disciplines/Nadi — The Art of Doing More Than Once]]
+- [[The Disciplines/The Iron Bison — A Discipline of Internal Resonance]]
+- [[The Disciplines/Recarvu — The Body That Builds Over What It Cannot Fix]]
+- [[The Disciplines/Rusashin — The Dust That Remembers What It Touched]]
 
 ### The states
 
 *Not disciplines in the strict sense. What a Crystal does when its internal partitions come down — and the three of them answer the same question three different ways.*
-- [Moetana — The Vessel of Life's Essence](The Disciplines/Moetana — The Vessel of Life's Essence.md)
-- [Solution — The Mind That Solves Itself](The Disciplines/Solution — The Mind That Solves Itself.md)
-- [Asami and Gisei — The Two States of the Moto](The Disciplines/Asami and Gisei — The Two States of the Moto.md)
-- [Techniques](The Disciplines/Techniques.md)
-- [Spellcraft](The Disciplines/Spellcraft.md)
+- [[The Disciplines/Moetana — The Vessel of Life's Essence]]
+- [[The Disciplines/Solution — The Mind That Solves Itself]]
+- [[The Disciplines/Asami and Gisei — The Two States of the Moto]]
+- [[The Disciplines/Techniques]]
+- [[The Disciplines/Spellcraft]]
 
 ---

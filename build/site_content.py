@@ -33,8 +33,8 @@ def dress(rel: str, text: str) -> str:
     stem = rel.rsplit("/", 1)[-1][:-3]
     title = t.group(1).replace('\\"', '"') if t else stem
     body = re.sub(r"\A\s*# [^\n]*\n", "\n", body, count=1)
-    body = re.sub(r"!\[\[Assets/Diagrams/([\w-]+)\.svg\]\]",  # Quartz's own svg embed takes a page-relative path
-                  lambda m: f'<a class="wotr-diagram-link" href="/assets/diagrams/{m.group(1)}.svg" target="_blank"><img class="wotr-diagram" src="/assets/diagrams/{m.group(1)}.svg" alt="{m.group(1).replace("-", " ")}" loading="lazy"></a>', body)
+    body = re.sub(r"!\[\[Assets/Diagrams/([\w-]+)\.svg\]\]",  # inline, so the art draws in the site's own fonts
+                  lambda m: '<figure class="wotr-figure">' + re.sub(r"<svg ", '<svg class="wotr-diagram" role="img" ', (WIKI / f"Assets/Diagrams/{m.group(1)}.svg").read_text(encoding="utf-8"), count=1) + "</figure>", body)
     body = re.sub(r"(?ms)^```mermaid\n(.*?)^```[ \t]*$", lambda m: "\n" + (chart(m.group(1), rel) or m.group(0)) + "\n", body)
     body = re.sub(r"(?m)((?:^- \[\[[^\n]*\n?){2,})", cards, body)
     hub = "/" in rel and rel.split("/")[-2] == stem

@@ -36,17 +36,7 @@ Everything after these is detail.
 ## The Four Axes
 
 A practitioner is not described by one number. Four independent measurements run alongside each other, and the gaps between them are as diagnostic as the values themselves.
-```mermaid
-flowchart TD
-    C["THE SOUL CRYSTAL"]
-    C --> EC["Essence Core — Soul Plane<br>identity, memory, Traits"]
-    C --> AS["Aether Shell — Material Plane<br>converts inner truth into outward force"]
-    C --> AL["Attraction Layer — Plane of Fate<br>bonds, Domains, harmonizations"]
-    EC --> T["TEMPERANCE<br>sixteen Stages<br>how refined the Core is"]
-    AS --> AC["AETHER CLASS<br>seven Classes<br>how cleanly the Shell conducts"]
-    C --> TG["TIER GRADE<br>Hollow to EX+<br>raw output magnitude"]
-    AL --> W["WELLSPRING HARMONIZATION<br>sixty currents, eight Families<br>what the numbers mean"]
-```
+![[Assets/Diagrams/four-axes.svg]]
 > Temperance sets the **ceiling**. Tier Grade reports the **magnitude**. Aether Class decides how much of the magnitude actually **arrives**. Wellspring harmonization changes what the magnitude **means** without changing the number by a single point.
 >
 > Two practitioners at identical stat values and identical Stage can produce wildly different results if one is Class III Resonant and the other is Class I Muridic. The stats are the same. The delivery is not.

@@ -10,6 +10,8 @@ mermaid source (Obsidian draws it). Three shapes come back as raw HTML:
 import hashlib, json, math, random, re, subprocess
 from html import escape
 
+from site_art import crest, style_for
+
 GOLD, INK, TEXT, MUTED = "#d8ab4f", "#110d09", "#f1e4c6", "#b9a583"
 SERIF = "'Cormorant Garamond', Garamond, Georgia, serif"
 BODY = "'Crimson Pro', Georgia, serif"
@@ -154,13 +156,13 @@ def _wrap(lines, width):
 
 
 def _measure(lines):
-    wrapped = _wrap(lines, 34)
-    w = max((len(t) * (10.6 if i == 0 else 7.6)) for i, t in wrapped) + 44
-    h = sum(24 if i == 0 else 21 for i, _ in wrapped) + 30
+    wrapped = _wrap(lines, 26)
+    w = max((len(t) * (11.6 if i == 0 else 8.3)) for i, t in wrapped) + 48
+    h = sum(27 if i == 0 else 23 for i, _ in wrapped) + 32
     return max(w, 120), h, wrapped
 
 
-def flow_svg(g, uid):
+def flow_svg(g, uid, crest_key=""):
     rank = {"TD": "TB", "TB": "TB", "LR": "LR", "BT": "BT", "RL": "RL"}.get(g["dir"], "TB")
     sizes = {n: _measure(l) for n, l in g["nodes"].items()}
     ids = {n: f"n{i}" for i, n in enumerate(g["order"])}
@@ -181,10 +183,23 @@ def flow_svg(g, uid):
         l = f', label="{lab.replace(chr(34), "")}"' if lab else ""
         dot.append(f'{ids[a]} -> {ids[b]} [{l.lstrip(", ")}];')
     dot.append("}")
-    lay = lambda src: json.loads(subprocess.run(["dot", "-Tjson"], input=src, capture_output=True, text=True, check=True).stdout)
-    js = lay("\n".join(dot))
+    lay = lambda src, eng="dot": json.loads(subprocess.run([eng, "-Tjson"], input=src, capture_output=True, text=True, check=True).stdout)
+    parents = {}
+    for a, b, lab, k in g["edges"]:
+        parents.setdefault(b, set()).add(a)
+    roots = [n for n in g["order"] if n not in parents]
+    kids = lambda n: [b for a, b, l, k in g["edges"] if a == n]
+    tree = all(len(v) == 1 for v in parents.values()) and len(roots) == 1 and not g["groups"]
+    radial = False  # twopi spreads these too thin; kept for a later, better radial drawing
+    if radial:
+        src = "\n".join(dot).replace("rankdir=TB; nodesep=0.45; ranksep=0.6; splines=spline;",
+                                       f"root={ids[roots[0]]}; ranksep=2.1; overlap=false; splines=curved;", 1)
+        src = src.replace(f"rankdir={rank}; nodesep=0.45; ranksep=0.6; splines=spline;", f"root={ids[roots[0]]}; ranksep=2.1; overlap=false; splines=curved;", 1)
+        js = lay(src, "twopi")
+    else:
+        js = lay("\n".join(dot))
     width = lambda j: float(j["bb"].split(",")[2])
-    if rank == "TB" and width(js) > 1000:  # a wide fan reads better turned on its side
+    if not radial and rank == "TB" and width(js) > 1000:  # a wide fan reads better turned on its side
         side = lay("\n".join(dot).replace("rankdir=TB", "rankdir=LR", 1))
         if width(side) < width(js):
             js = side
@@ -198,10 +213,14 @@ def flow_svg(g, uid):
          f'<defs><linearGradient id="pl{uid}" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#2a1f12"/><stop offset="1" stop-color="#140f0a"/></linearGradient>'
          f'<linearGradient id="ed{uid}" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#f3d58c"/><stop offset="1" stop-color="#b07a24"/></linearGradient>'
          f'<radialGradient id="bg{uid}" cx=".5" cy="0" r="1.1"><stop offset="0" stop-color="#2c2010"/><stop offset="1" stop-color="{INK}"/></radialGradient>'
-         f'<filter id="gl{uid}" x="-20%" y="-20%" width="140%" height="140%"><feGaussianBlur stdDeviation="3"/></filter></defs>',
+         f'<filter id="gl{uid}" x="-20%" y="-20%" width="140%" height="140%"><feGaussianBlur stdDeviation="3"/></filter>'
+         f'<radialGradient id="halo{uid}"><stop offset="0" stop-color="{GOLD}" stop-opacity=".35"/><stop offset="1" stop-color="{GOLD}" stop-opacity="0"/></radialGradient></defs>',
          f'<rect width="{W:.0f}" height="{H:.0f}" rx="16" fill="url(#bg{uid})"/>']
     for _ in range(int(W * H / 9000)):
         o.append(f'<circle cx="{r.uniform(0, W):.0f}" cy="{r.uniform(0, H):.0f}" r="{r.choice((.6, .9, 1.3))}" fill="#fff4d6" opacity="{r.uniform(.1, .55):.2f}"/>')
+    if crest_key:
+        cs = min(W, H) * .55
+        o.append(crest(crest_key, cs, W - cs * .8, H - cs * .85, GOLD, 2, .07))
     o.append(f'<rect x="7" y="7" width="{W - 14:.0f}" height="{H - 14:.0f}" rx="12" fill="none" stroke="{GOLD}" stroke-opacity=".4"/>')
     for x, y, sx, sy in ((7, 7, 1, 1), (W - 7, 7, -1, 1), (7, H - 7, 1, -1), (W - 7, H - 7, -1, -1)):
         o.append(f'<path d="M{x:.0f} {y + 22 * sy:.0f} L{x:.0f} {y:.0f} L{x + 22 * sx:.0f} {y:.0f}" fill="none" stroke="{GOLD}" stroke-width="2"/>')
@@ -228,9 +247,9 @@ def flow_svg(g, uid):
             o.append(f'<path d="M0 0 L-11 -6 L-7 0 L-11 6 Z" transform="translate({bx:.1f} {by:.1f}) rotate({ang:.0f})" fill="#f3d58c"/>')
         if e.get("label") and "lp" in e:
             lx, ly = map(float, e["lp"].split(","))
-            lw = len(e["label"]) * 7.4 + 18
+            lw = len(e["label"]) * 8.2 + 20
             o.append(f'<rect x="{X(lx) - lw / 2:.0f}" y="{Y(ly) - 13:.0f}" width="{lw:.0f}" height="24" rx="12" fill="{INK}" stroke="{GOLD}" stroke-opacity=".5"/>')
-            o.append(f'<text x="{X(lx):.0f}" y="{Y(ly) + 5:.0f}" text-anchor="middle" fill="{MUTED}" font-size="14" font-style="italic" font-family="{BODY}">{escape(e["label"])}</text>')
+            o.append(f'<text x="{X(lx):.0f}" y="{Y(ly) + 5:.0f}" text-anchor="middle" fill="{MUTED}" font-size="15.5" font-style="italic" font-family="{BODY}">{escape(e["label"])}</text>')
     for obj in js.get("objects", []):
         if obj.get("name") not in name:
             continue
@@ -238,17 +257,20 @@ def flow_svg(g, uid):
         cx, cy = map(float, obj["pos"].split(","))
         w, h, wrapped = sizes[n]
         x, y = X(cx) - w / 2, Y(cy) - h / 2
+        if n in roots and len(g["nodes"]) > 2:  # the source of the chart wears a halo
+            o.append(f'<ellipse cx="{X(cx):.1f}" cy="{Y(cy):.1f}" rx="{w * .85:.0f}" ry="{h * 1.3:.0f}" fill="url(#halo{uid})"/>')
+            o.append(f'<rect x="{x - 7:.1f}" y="{y - 7:.1f}" width="{w + 14:.0f}" height="{h + 14:.0f}" rx="16" fill="none" stroke="{GOLD}" stroke-opacity=".5" stroke-dasharray="2 5"/>')
         o.append(f'<rect x="{x:.1f}" y="{y + 4:.1f}" width="{w:.0f}" height="{h:.0f}" rx="11" fill="#000" opacity=".45" filter="url(#gl{uid})"/>')
         o.append(f'<rect x="{x:.1f}" y="{y:.1f}" width="{w:.0f}" height="{h:.0f}" rx="11" fill="url(#pl{uid})" stroke="{GOLD}" stroke-opacity=".75" stroke-width="1.4"/>')
         o.append(f'<rect x="{x + 4:.1f}" y="{y + 4:.1f}" width="{w - 8:.0f}" height="{h - 8:.0f}" rx="8" fill="none" stroke="{GOLD}" stroke-opacity=".2"/>')
         o.append(f'<polygon points="{X(cx):.1f},{y - 6:.1f} {X(cx) + 6:.1f},{y:.1f} {X(cx):.1f},{y + 6:.1f} {X(cx) - 6:.1f},{y:.1f}" fill="{GOLD}"/>')
         ty = y + 15
         for i, t in wrapped:
-            ty += 24 if i == 0 else 21
+            ty += 27 if i == 0 else 23
             if i == 0:
-                o.append(f'<text x="{X(cx):.1f}" y="{ty - 6:.1f}" text-anchor="middle" fill="{GOLD}" font-size="19" font-weight="600" letter-spacing=".5">{escape(t)}</text>')
+                o.append(f'<text x="{X(cx):.1f}" y="{ty - 7:.1f}" text-anchor="middle" fill="{GOLD}" font-size="21" font-weight="600" letter-spacing=".5">{escape(t)}</text>')
             else:
-                o.append(f'<text x="{X(cx):.1f}" y="{ty - 6:.1f}" text-anchor="middle" fill="{TEXT}" font-size="15.5" font-style="italic" font-family="{BODY}">{escape(t)}</text>')
+                o.append(f'<text x="{X(cx):.1f}" y="{ty - 7:.1f}" text-anchor="middle" fill="{TEXT}" font-size="17" font-style="italic" font-family="{BODY}">{escape(t)}</text>')
     o.append("</svg>")
     return '<div class="wotr-chart-wrap">' + "".join(o) + "</div>"
 
@@ -261,7 +283,7 @@ def render(src, seed=""):
         if g["kind"] == "timeline":
             return timeline(g)
         seq = is_chain(g)
-        return road(g, seq) if seq else flow_svg(g, uid)
+        return road(g, seq) if seq else flow_svg(g, uid, style_for(seed)[0][0] if seed else "")
     except Exception as e:  # a chart the parser cannot read stays mermaid
         print(f"  chart left as mermaid ({e})")
         return None

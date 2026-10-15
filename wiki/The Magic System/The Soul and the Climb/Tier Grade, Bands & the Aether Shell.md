@@ -127,18 +127,7 @@ Every Aether Shell radiates an Aetheric Signature described by three constants.
 
 ### The Seven Classes
 
-```mermaid
-flowchart LR
-    D["Ø DORMANT<br>sealed"] --> M["I MURIDIC<br>awakening"]
-    M --> H["II HARMONIC<br>attuned"]
-    H --> R["III RESONANT<br>conductor"]
-    R --> RA["V RADIANT<br>world-bending"]
-    RA --> O["Ω ABSOLUTE<br>threshold"]
-    R -.->|"lateral"| L["IV LUMINOUS<br>lucid — Shell-specific peak"]
-    R -.->|"lateral"| V["VI VOIDIC<br>inverted polarity"]
-    RA -.->|"lateral"| L
-    RA -.->|"lateral"| V
-```
+![[Assets/Diagrams/aether-classes.svg]]
 
 | Class | The Shell | Efficiency loss |
 |---|---|---|

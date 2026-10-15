@@ -20,18 +20,7 @@ verification: "unverified"
 ## The Argument This Section Is About
 
 Every institution in the four quarters is an answer to one question: **on what grounds does anyone get to say what happens.**
-```mermaid
-flowchart TD
-    Q["On what grounds does anyone<br>get to say what happens?"]
-    Q --> M["BY MEASUREMENT"]
-    Q --> D["BY DESCENT"]
-    Q --> A["BY ATTRIBUTION"]
-    M --> GA["THE GUILD ACCORD<br>the coil reads a soul in under a minute<br>and the reading is honest"]
-    D --> BL["THE ARCHAIC BLOODLINES<br>Moto · Zettari · Yukari · Agamalu<br>descended from the Epochs themselves"]
-    A --> BA["THE BENCH OF ATTRIBUTION<br>who did this, and by what warrant"]
-    GA -.->|"does not need to depose a king<br>it needs only to stop pumping"| D
-    BL -.->|"a crown passes to a body<br>rank does not"| M
-```
+![[Assets/Diagrams/three-grounds.svg]]
 
 | Institution | Its claim | Its vulnerability |
 |---|---|---|

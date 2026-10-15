@@ -18,19 +18,7 @@ verification: "unverified"
 
 ## The Four Quarters
 
-```mermaid
-flowchart TB
-    N["THE INNER WORLD · NORTH<br>old cold shield, glaciated<br>one impact ring, one salt basin"]
-    W["THE OLD WORLD · WEST<br>worn collisional belt<br>granite cupolas, coal foreland, karst"]
-    E["THE NEW WORLD · EAST<br>elven old-ground and the chartered arc<br>the arc: young, wet, still building itself"]
-    S["THE OUTER WORLD · SOUTH<br>old dry craton, flood basalt<br>ophiolite, pans, bone-beds, the Crevice"]
-    N -->|"raw ore, on credit"| W
-    E -->|"gold, silver, Onceglass"| W
-    S -->|"phosphate, nitre, chromite"| W
-    W -->|"finished goods, expertise, debt"| N
-    W -->|"iron, tools, wolfram, credit"| E
-    W -->|"water infrastructure, timber, grain"| S
-```
+![[Assets/Diagrams/four-quarters.svg]]
 All four were emplaced in the **First Eon**, which under the Concordance closes at Year −900, and nothing has been added to any of them since. The Measurewrights have been asked whether the corrected count makes the deposits younger, and answer that it does not. **It makes them nearer.** A seam emplaced fourteen hundred years ago and half drawn down in the last six hundred is a different object, politically, from a seam emplaced before memory, and every chartered company in the western quarter is presently discovering the difference.
 
 | Quarter | Substrate | Condition | The bind it lives under |

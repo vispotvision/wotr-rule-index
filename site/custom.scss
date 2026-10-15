@@ -268,12 +268,18 @@ article img {
 }
 
 // diagrams embedded from wiki/Assets/Diagrams
-article img.wotr-diagram {
+.wotr-figure {
+  margin: 1.8rem 0 2.2rem;
+}
+
+article .wotr-diagram {
   display: block;
   width: 100%;
   max-width: 900px;
   margin: 1.6rem auto 2rem;
   border-radius: 14px;
+  box-shadow: 0 18px 46px rgba(0, 0, 0, 0.45);
+  height: auto;
 }
 
 // Drop the first letter of a page's opening paragraph into a gold initial.

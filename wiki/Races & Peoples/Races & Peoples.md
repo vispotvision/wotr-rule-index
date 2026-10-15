@@ -18,18 +18,7 @@ verification: "unverified"
 ## The Shape of Every Schism
 
 Every major people in the four quarters was made once, from one source, with one instruction. And in every case the instruction turned out to admit more than one honest reading, and the readings turned out to be irreconcilable, and the irreconcilability was discovered under maximum pressure rather than in a seminar.
-```mermaid
-flowchart TD
-    F["FLORWYN sings the Realmsong of Edenis<br>the Vey-Elarin are tuned into being"]
-    F --> KD["THE KINSHIP DOCTRINE<br>the land is a relative, not a resource"]
-    KD -->|"Great Spirit War asks<br>what it actually meant"| E5["FIVE THEOLOGIES"]
-    V["VARŪN the Deepwright<br>the universe requires endurance, not strength"]
-    V --> DA["ONE ARCHITECTURE"]
-    DA -->|"three pressures,<br>then two collapses"| D8["EIGHT ANSWERS"]
-    I["THE FIRST IMPACT<br>core, shell, and mantle"]
-    I --> SB["STONE-BLOOD<br>one origin frequency"]
-    SB -->|"fragments meet<br>local Wellspring conditions"| G["THE GOBLINOID LINEAGES"]
-```
+![[Assets/Diagrams/three-origins.svg]]
 
 | People | The one source | The instruction | What split it |
 |---|---|---|---|

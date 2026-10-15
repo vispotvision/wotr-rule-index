@@ -29,6 +29,18 @@ SECTIONS = {
 }
 DEFAULT = ("crown", "#d8ab4f", "#1c140b", "hero", "")
 
+# a folder's own painting (site/assets/<name>.webp), over its section's
+FOLDER_ART = {
+    "The Magic System/First Steps": "first-steps",
+    "The Magic System/The Foundations": "foundations",
+    "The Magic System/The Soul and the Climb": "soul-climb",
+    "The Magic System/Power in Use": "power-in-use",
+    "The Magic System/Practice and Institution": "practice-institution",
+    "The Magic System/Reference and Craft": "reference-craft",
+    "The Magic System/Fracture of Worlds — The Living System": "fracture-worlds",
+    "The Magic System/The Foundations/The Eight Families & the Sixty Wellsprings": "eight-families",
+}
+
 # Crests, drawn on a 200x200 box centred at (100,100); stroke-only, painted with currentColor.
 CRESTS = {
     "magic": """
@@ -166,6 +178,7 @@ def banner(rel, title, base):
         kicker = " · ".join(rel.split("/")[:-2])
     else:
         kicker = "War of the Realms"
+    art = FOLDER_ART.get(rel.rsplit("/", 1)[0], art)
     img = f'background-image:url({base}/assets/{art}.webp);' if art else ""
     uid = hashlib.sha1(rel.encode()).hexdigest()[:8]
     art_svg = "" if art else plate_svg(title, key, hue, deep, uid)
@@ -188,6 +201,7 @@ def _frame(w, h, title, sub=""):
 
 
 def t(x, y, s, size=18, fill=TEXT, anchor="start", weight="normal", italic=False, font=None, extra=""):
+    size = max(size, 15)  # the art is read at about 0.65 scale in the text column
     return (f'<text x="{x}" y="{y}" font-size="{size}" fill="{fill}" text-anchor="{anchor}" font-weight="{weight}"'
             + (' font-style="italic"' if italic else "") + (f' font-family="{font}"' if font else "") + f' {extra}>{escape(s)}</text>')
 
@@ -225,7 +239,7 @@ def stage_ladder():
                 f'<linearGradient id="invoke" x1="0" x2="1"><stop offset="0" stop-color="#5bb0ff"/><stop offset=".22" stop-color="#e9dcb4"/><stop offset=".78" stop-color="#e9dcb4"/><stop offset="1" stop-color="#5bb0ff"/></linearGradient>'
                 f'<linearGradient id="reveal" x1="0" x2="1"><stop offset="0" stop-color="#ffd9d9"/><stop offset=".33" stop-color="#fff9d9"/><stop offset=".66" stop-color="#d9fff1"/><stop offset="1" stop-color="#e3dcff"/></linearGradient></defs>')
     o.append(t(150, top - 12, "STAGE", 14, MUTED, extra='letter-spacing="2"'))
-    o.append(t(585, top - 12, "TIER OF STANDING", 14, MUTED, extra='letter-spacing="2"'))
+    o.append(t(585, top - 12, "STANDING", 14, MUTED, extra='letter-spacing="2"'))
     o.append(t(742, top - 12, "WHAT OPENS", 14, MUTED, extra='letter-spacing="2"'))
     for b, (num, name, a, z) in enumerate(BANDS):
         y0, y1 = top + a * rh, top + z * rh
@@ -463,10 +477,265 @@ def stack_cap():
     return "".join(o)
 
 
+def four_axes():
+    """The Soul Crystal and the four measurements read off it (The Magic System, The Four Axes)."""
+    W, H = 1000, 780
+    o = _frame(W, H, "The Four Axes", "Four independent measurements, each read off a different part of the Crystal")
+    o.insert(1, f'<defs><radialGradient id="core4" cx=".5" cy=".45" r=".6"><stop offset="0" stop-color="#fff2c4"/><stop offset=".35" stop-color="{GOLD}"/><stop offset="1" stop-color="#6b3f10"/></radialGradient>'
+                f'<linearGradient id="shell4" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#9fd6ff" stop-opacity=".35"/><stop offset="1" stop-color="#3a5a9a" stop-opacity=".12"/></linearGradient>'
+                f'<radialGradient id="halo4"><stop offset="0" stop-color="{GOLD}" stop-opacity=".28"/><stop offset="1" stop-color="{GOLD}" stop-opacity="0"/></radialGradient>'
+                f'<filter id="blur4"><feGaussianBlur stdDeviation="4"/></filter></defs>')
+    cx, cy = 500, 430
+    o.append(f'<circle cx="{cx}" cy="{cy}" r="230" fill="url(#halo4)"/>')
+    for k in range(12):  # fate threads
+        a = math.radians(k * 30 + 8)
+        o.append(f'<path d="M{cx + 132 * math.cos(a):.0f} {cy + 132 * math.sin(a):.0f} Q{cx + 168 * math.cos(a + .2):.0f} {cy + 168 * math.sin(a + .2):.0f} {cx + 188 * math.cos(a + .3):.0f} {cy + 188 * math.sin(a + .3):.0f}" fill="none" stroke="#c89bff" stroke-opacity=".5" stroke-width="1.2"/>')
+        o.append(f'<circle cx="{cx + 188 * math.cos(a + .3):.0f}" cy="{cy + 188 * math.sin(a + .3):.0f}" r="3.5" fill="#c89bff"/>')
+    o.append(f'<circle cx="{cx}" cy="{cy}" r="140" fill="none" stroke="#c89bff" stroke-opacity=".7" stroke-width="2" stroke-dasharray="3 7"/>')
+    pts = [(cx, cy - 112), (cx + 80, cy - 46), (cx + 66, cy + 64), (cx, cy + 112), (cx - 66, cy + 64), (cx - 80, cy - 46)]
+    o.append('<polygon points="' + " ".join(f"{x},{y}" for x, y in pts) + '" fill="url(#shell4)" stroke="#9fd6ff" stroke-width="2.4"/>')
+    for x, y in pts:
+        o.append(f'<line x1="{cx}" y1="{cy}" x2="{x}" y2="{y}" stroke="#9fd6ff" stroke-opacity=".22"/>')
+    o.append(f'<polygon points="{cx},{cy - 48} {cx + 34},{cy - 7} {cx + 22},{cy + 36} {cx},{cy + 50} {cx - 22},{cy + 36} {cx - 34},{cy - 7}" fill="url(#core4)" stroke="#fff2c4" stroke-width="1.5"/>')
+    o.append(t(cx, cy + 172, "THE SOUL CRYSTAL", 20, GOLD, "middle", "700", extra='letter-spacing="4"'))
+    for lx, ly, col, name, plane in ((cx, cy - 6, "#3a2405", "Core", ""), (cx + 104, cy - 96, "#9fd6ff", "Shell", ""), (cx + 150, cy + 128, "#c89bff", "Attraction", "")):
+        if name != "Core":
+            o.append(t(lx, ly, name, 15, col, "middle", "600", italic=True, font=BODY))
+    cards = [  # x, y, colour, title, line 1, line 2, anchor point on the crystal
+        (40, 140, GOLD, "Temperance", "sixteen Stages", "how refined the Core is", (cx - 20, cy - 20), "ladder"),
+        (650, 140, "#9fd6ff", "Aether Class", "seven Classes", "how cleanly the Shell conducts", (cx + 80, cy - 46), "prism"),
+        (40, 560, "#f0c96b", "Tier Grade", "Hollow to EX+", "raw output magnitude", (cx - 66, cy + 64), "bars"),
+        (650, 560, "#c89bff", "Wellspring", "sixty currents, eight Families", "what the numbers mean", (cx + 130, cy + 60), "wave"),
+    ]
+    for x, y, col, title, l1, l2, (ax, ay), icon in cards:
+        w, h = 310, 112
+        ex, ey = (x + w if x < cx else x), y + h / 2
+        o.append(f'<path d="M{ax} {ay} C{(ax + ex) / 2:.0f} {ay} {(ax + ex) / 2:.0f} {ey} {ex} {ey}" fill="none" stroke="{col}" stroke-opacity=".4" stroke-width="6" filter="url(#blur4)"/>')
+        o.append(f'<path d="M{ax} {ay} C{(ax + ex) / 2:.0f} {ay} {(ax + ex) / 2:.0f} {ey} {ex} {ey}" fill="none" stroke="{col}" stroke-width="1.8"/>')
+        o.append(f'<circle cx="{ax}" cy="{ay}" r="4" fill="{col}"/>')
+        o.append(f'<rect x="{x}" y="{y}" width="{w}" height="{h}" rx="12" fill="#1a130c" stroke="{col}" stroke-opacity=".75" stroke-width="1.5"/>')
+        o.append(f'<rect x="{x + 5}" y="{y + 5}" width="{w - 10}" height="{h - 10}" rx="9" fill="none" stroke="{col}" stroke-opacity=".2"/>')
+        o.append(f'<polygon points="{x + w / 2},{y - 7} {x + w / 2 + 7},{y} {x + w / 2},{y + 7} {x + w / 2 - 7},{y}" fill="{col}"/>')
+        ix, iy = x + 44, y + 56
+        if icon == "ladder":
+            for k in range(5):
+                o.append(f'<ellipse cx="{ix}" cy="{iy + 22 - k * 11}" rx="{20 - k * 2.5}" ry="4" fill="none" stroke="{col}" stroke-opacity="{.35 + k * .15:.2f}" stroke-width="1.6"/>')
+        elif icon == "prism":
+            o.append(f'<polygon points="{ix},{iy - 22} {ix + 22},{iy + 18} {ix - 22},{iy + 18}" fill="none" stroke="{col}" stroke-width="1.8"/>')
+            for k, c2 in enumerate(("#e0702a", "#f0c96b", "#46c27a", "#4aa8ff", "#8a5cf0")):
+                o.append(f'<line x1="{ix + 8}" y1="{iy + 2}" x2="{ix + 30}" y2="{iy - 8 + k * 5}" stroke="{c2}" stroke-width="1.6"/>')
+        elif icon == "bars":
+            for k in range(5):
+                o.append(f'<rect x="{ix - 22 + k * 9}" y="{iy + 20 - (k + 1) * 8}" width="6" height="{(k + 1) * 8}" rx="1.5" fill="{col}" fill-opacity="{.35 + k * .15:.2f}"/>')
+        else:
+            for k in range(3):
+                o.append(f'<path d="M{ix - 22} {iy - 10 + k * 10} Q{ix - 11} {iy - 18 + k * 10} {ix} {iy - 10 + k * 10} T{ix + 22} {iy - 10 + k * 10}" fill="none" stroke="{col}" stroke-width="1.8" stroke-opacity="{.9 - k * .25:.2f}"/>')
+        o.append(t(x + 82, y + 44, title.upper(), 21, col, weight="700", extra='letter-spacing="1.5"'))
+        o.append(t(x + 82, y + 70, l1, 16, TEXT, font=BODY))
+        o.append(t(x + 82, y + 92, l2, 15, MUTED, italic=True, font=BODY))
+    o.append(t(W / 2, H - 46, "Temperance sets the ceiling. Tier Grade reports the magnitude.", 16, MUTED, "middle", italic=True, font=BODY))
+    o.append(t(W / 2, H - 24, "Aether Class decides how much of it arrives. The Wellspring decides what it means.", 16, MUTED, "middle", italic=True, font=BODY))
+    o.append("</svg>")
+    return "".join(o)
+
+
+def _wrapt(x, y, text, width, size, fill, anchor="middle", italic=True, font=BODY, lh=None, weight="normal"):
+    """Wrapped lines of text; returns (svg, next y)."""
+    lh = lh or size * 1.3
+    out, line = [], ""
+    for w in text.split():
+        if line and len(line) + 1 + len(w) > width:
+            out.append(t(x, y, line, size, fill, anchor, weight, italic=italic, font=font)); y += lh; line = w
+        else:
+            line = (line + " " + w).strip()
+    if line:
+        out.append(t(x, y, line, size, fill, anchor, weight, italic=italic, font=font)); y += lh
+    return "".join(out), y
+
+
+def four_quarters():
+    W, H = 1000, 1000
+    o = _frame(W, H, "The Four Quarters", "What each quarter is made of, and what moves between them")
+    cx, cy = 500, 530
+    o.append(f'<circle cx="{cx}" cy="{cy}" r="150" fill="none" stroke="{GOLD}" stroke-opacity=".35"/>')
+    o.append(f'<circle cx="{cx}" cy="{cy}" r="128" fill="none" stroke="{GOLD}" stroke-opacity=".2" stroke-dasharray="2 6"/>')
+    for a in range(0, 360, 10):
+        r1 = 150 if a % 90 else 162
+        tt = math.radians(a)
+        o.append(f'<line x1="{cx + 140 * math.cos(tt):.1f}" y1="{cy + 140 * math.sin(tt):.1f}" x2="{cx + r1 * math.cos(tt):.1f}" y2="{cy + r1 * math.sin(tt):.1f}" stroke="{GOLD}" stroke-opacity=".5"/>')
+    o.append(crest("geography", 230, cx - 115, cy - 115, GOLD, 2.2, .9))
+    flows = [  # start, control, end, label point, label
+        ((455, 300), (250, 290), (205, 482), (262, 318), "raw ore, on credit"),
+        ((222, 497), (380, 420), (462, 312), (318, 446), "finished goods, expertise, debt"),
+        ((790, 488), (500, 250), (212, 488), (650, 394), "gold, silver, Onceglass"),
+        ((212, 574), (500, 850), (790, 574), (414, 702), "iron, tools, wolfram, credit"),
+        ((455, 762), (250, 770), (200, 580), (246, 745), "phosphate, nitre, chromite"),
+        ((222, 566), (380, 640), (462, 752), (372, 652), "water works, timber, grain"),
+    ]
+    for (sx, sy), (qx, qy), (ex, ey), (lx, ly), lab in flows:
+        o.append(f'<path d="M{sx} {sy} Q{qx} {qy} {ex} {ey}" fill="none" stroke="{GOLD}" stroke-width="1.8" stroke-opacity=".85"/>')
+        ang = math.degrees(math.atan2(ey - qy, ex - qx))
+        o.append(f'<path d="M0 0 L-11 -6 L-7 0 L-11 6 Z" transform="translate({ex} {ey}) rotate({ang:.0f})" fill="#f3d58c"/>')
+        lw = len(lab) * 7.9 + 20
+        o.append(f'<rect x="{lx - lw / 2:.0f}" y="{ly - 12}" width="{lw:.0f}" height="22" rx="11" fill="{INK}" stroke="{GOLD}" stroke-opacity=".45"/>')
+        o.append(t(lx, ly + 4, lab, 13.5, MUTED, "middle", italic=True, font=BODY))
+    quarters = [  # name, sub lines, centre, colour, terrain motif
+        ("THE INNER WORLD", "North", ["old cold shield, glaciated", "one impact ring, one salt basin"], (500, 255), "#9fd6ff", "ice"),
+        ("THE OLD WORLD", "West", ["worn collisional belt", "granite cupolas, coal foreland, karst"], (165, 530), GOLD, "hills"),
+        ("THE NEW WORLD", "East", ["elven old-ground and the chartered arc", "young, wet, still building itself"], (835, 530), "#46c27a", "arc"),
+        ("THE OUTER WORLD", "South", ["old dry craton, flood basalt", "ophiolite, pans, bone-beds, the Crevice"], (500, 805), "#e0803a", "mesa"),
+    ]
+    for name, dirn, lines, (x, y), col, motif in quarters:
+        o.append(f'<circle cx="{x}" cy="{y}" r="62" fill="#17110b" stroke="{col}" stroke-width="2"/>')
+        o.append(f'<circle cx="{x}" cy="{y}" r="55" fill="none" stroke="{col}" stroke-opacity=".3"/>')
+        if motif == "ice":
+            o.append(f'<path d="M{x - 38} {y + 18} L{x - 16} {y - 18} L{x - 4} {y} L{x + 12} {y - 26} L{x + 38} {y + 18} Z" fill="{col}" fill-opacity=".25" stroke="{col}" stroke-width="1.6"/>')
+            o.append(f'<ellipse cx="{x}" cy="{y + 30}" rx="20" ry="6" fill="none" stroke="{col}" stroke-width="1.4"/>')
+        elif motif == "hills":
+            o.append(f'<path d="M{x - 42} {y + 20} Q{x - 24} {y - 16} {x - 6} {y + 20} Q{x + 14} {y - 30} {x + 42} {y + 20} Z" fill="{col}" fill-opacity=".25" stroke="{col}" stroke-width="1.6"/>')
+            o.append(f'<path d="M{x - 30} {y + 30} L{x + 30} {y + 30}" stroke="{col}" stroke-width="3" stroke-opacity=".6"/>')
+        elif motif == "arc":
+            o.append(f'<path d="M{x - 36} {y + 24} A40 40 0 0 1 {x + 36} {y + 24}" fill="none" stroke="{col}" stroke-width="2"/>')
+            for k in range(5):
+                tx = x - 28 + k * 14
+                o.append(f'<path d="M{tx} {y + 22} L{tx} {y + 4} M{tx - 6} {y + 10} L{tx} {y - 2} L{tx + 6} {y + 10}" stroke="{col}" stroke-width="1.5" fill="none"/>')
+        else:
+            o.append(f'<path d="M{x - 42} {y + 22} L{x - 30} {y - 6} L{x - 4} {y - 6} L{x + 4} {y + 4} L{x + 26} {y + 4} L{x + 34} {y - 14} L{x + 42} {y + 22} Z" fill="{col}" fill-opacity=".25" stroke="{col}" stroke-width="1.6"/>')
+            o.append(f'<circle cx="{x + 22}" cy="{y - 26}" r="7" fill="{col}" fill-opacity=".6"/>')
+        tx, ty, anc = (x + 82, y - 22, "start") if dirn == "North" else (x, y + 92, "middle")
+        o.append(t(tx, ty, name, 20, col, anc, "700", extra='letter-spacing="2" paint-order="stroke" stroke="#110d09" stroke-width="5" stroke-linejoin="round"'))
+        o.append(t(tx, ty + 20, dirn.upper(), 13, MUTED, anc, extra='letter-spacing="5" paint-order="stroke" stroke="#110d09" stroke-width="5" stroke-linejoin="round"'))
+        yy = ty + 42
+        for l in lines:
+            o.append(t(tx, yy, l, 15, TEXT, anc, italic=True, font=BODY, extra='paint-order="stroke" stroke="#110d09" stroke-width="5" stroke-linejoin="round"')); yy += 19
+    o.append("</svg>")
+    return "".join(o)
+
+
+def aether_classes():
+    W, H = 1000, 560
+    o = _frame(W, H, "The Seven Classes", "How cleanly the Aether Shell conducts: clarity, not size")
+    o.insert(1, '<defs><linearGradient id="beam" x1="0" x2="1"><stop offset="0" stop-color="#5a5048"/><stop offset=".45" stop-color="#d8ab4f"/><stop offset=".8" stop-color="#fff2c4"/><stop offset="1" stop-color="#ffffff"/></linearGradient>'
+                 '<filter id="bl7"><feGaussianBlur stdDeviation="5"/></filter></defs>')
+    y = 300
+    main = [("Ø", "Dormant", "sealed", "#5a5048"), ("I", "Muridic", "awakening", "#8a6a4a"), ("II", "Harmonic", "attuned", "#b0904f"),
+            ("III", "Resonant", "conductor", "#d8ab4f"), ("V", "Radiant", "world-bending", "#fff0c0"), ("Ω", "Absolute", "threshold", "#ffffff")]
+    xs = [90, 250, 410, 570, 760, 920]
+    o.append(f'<line x1="60" y1="{y}" x2="950" y2="{y}" stroke="url(#beam)" stroke-width="10" filter="url(#bl7)" opacity=".8"/>')
+    o.append(f'<line x1="60" y1="{y}" x2="950" y2="{y}" stroke="url(#beam)" stroke-width="3"/>')
+    for (num, name, sub, col), x in zip(main, xs):
+        o.append(f'<polygon points="{x},{y - 40} {x + 30},{y} {x},{y + 40} {x - 30},{y}" fill="{col}" fill-opacity=".9" stroke="{GOLD}" stroke-width="1.6"/>')
+        o.append(f'<polygon points="{x},{y - 40} {x + 30},{y} {x},{y}" fill="#ffffff" fill-opacity=".18"/>')
+        o.append(t(x, y + 7, num, 20, "#1a120a" if col in ("#fff0c0", "#ffffff", "#d8ab4f") else "#fff4dc", "middle", "700"))
+        o.append(t(x, y + 72, name.upper(), 18, GOLD, "middle", "700", extra='letter-spacing="1.5"'))
+        o.append(t(x, y + 94, sub, 15, TEXT, "middle", italic=True, font=BODY))
+    for (num, name, sub, col, yy) in (("IV", "Luminous", "lucid, the Shell's own peak", "#bfe6ff", 140), ("VI", "Voidic", "inverted polarity", "#3a1d55", 460)):
+        x = 665
+        for sx in (570, 760):
+            o.append(f'<path d="M{sx} {y} Q{(sx + x) / 2:.0f} {(y + yy) / 2:.0f} {x} {yy + (36 if yy < y else -36)}" fill="none" stroke="{GOLD}" stroke-width="1.6" stroke-dasharray="5 6" stroke-opacity=".8"/>')
+        o.append(f'<polygon points="{x},{yy - 36} {x + 27},{yy} {x},{yy + 36} {x - 27},{yy}" fill="{col}" stroke="{"#c89bff" if num == "VI" else GOLD}" stroke-width="1.8"/>')
+        o.append(t(x, yy + 7, num, 18, "#1a120a" if num == "IV" else "#e9d6ff", "middle", "700"))
+        lx = x + 48
+        o.append(t(lx, yy - 2, name.upper(), 18, "#bfe6ff" if num == "IV" else "#c89bff", "start", "700", extra='letter-spacing="1.5"'))
+        o.append(t(lx, yy + 20, sub, 15, TEXT, "start", italic=True, font=BODY))
+        o.append(t(lx, yy + 38, "a side branch, not a step", 13, MUTED, "start", italic=True, font=BODY))
+    o.append(t(W / 2, H - 28, "Class I loses a third of every spend as heat and noise; Class III loses a tenth; Class V gives back more than it takes.", 15.5, MUTED, "middle", italic=True, font=BODY))
+    o.append("</svg>")
+    return "".join(o)
+
+
+def three_origins():
+    W, H = 1000, 640
+    o = _frame(W, H, "Three Origins", "How the elder peoples were made, and how each made sense of it")
+    cols = [("THE ELVEN PEOPLES", "#46c27a", "song",
+             ["FLORWYN sings the Realmsong of Edenis", "the Vey-Elarin are tuned into being"],
+             ["THE KINSHIP DOCTRINE", "the land is a relative, not a resource"],
+             "the Great Spirit War asks what it actually meant", ["FIVE THEOLOGIES"]),
+            ("THE DAWI PEOPLES", GOLD, "anvil",
+             ["VARŪN THE DEEPWRIGHT", "the universe requires endurance, not strength"],
+             ["ONE ARCHITECTURE", ""],
+             "three pressures, then two collapses", ["EIGHT ANSWERS"]),
+            ("THE GOBLINOID LINEAGES", "#e0803a", "star",
+             ["THE FIRST IMPACT", "core, shell and mantle"],
+             ["STONE-BLOOD", "one origin frequency"],
+             "fragments meet local Wellspring conditions", ["THE GOBLINOID LINEAGES"])]
+    for i, (head, col, icon, a, b, via, c) in enumerate(cols):
+        x = 175 + i * 325
+        o.append(f'<rect x="{x - 148}" y="120" width="296" height="490" rx="14" fill="{col}" fill-opacity=".05" stroke="{col}" stroke-opacity=".45"/>')
+        o.append(f'<path d="M{x - 148} 160 Q{x} 112 {x + 148} 160" fill="none" stroke="{col}" stroke-opacity=".5"/>')
+        iy = 175
+        if icon == "song":
+            for k in range(3):
+                o.append(f'<path d="M{x - 40} {iy + k * 8} Q{x - 20} {iy - 14 + k * 8} {x} {iy + k * 8} T{x + 40} {iy + k * 8}" fill="none" stroke="{col}" stroke-width="1.8" stroke-opacity="{.9 - k * .25:.2f}"/>')
+        elif icon == "anvil":
+            o.append(f'<path d="M{x - 34} {iy - 8} L{x + 34} {iy - 8} L{x + 22} {iy + 4} L{x + 12} {iy + 4} L{x + 16} {iy + 20} L{x - 16} {iy + 20} L{x - 12} {iy + 4} L{x - 26} {iy + 4} Z" fill="{col}" fill-opacity=".3" stroke="{col}" stroke-width="1.6"/>')
+        else:
+            o.append(f'<circle cx="{x + 14}" cy="{iy + 6}" r="12" fill="{col}" fill-opacity=".5" stroke="{col}"/>')
+            for k in range(3):
+                o.append(f'<line x1="{x - 40 + k * 6}" y1="{iy - 22 + k * 8}" x2="{x + 2}" y2="{iy + 2 + k * 2}" stroke="{col}" stroke-width="1.6" stroke-opacity="{.8 - k * .2:.2f}"/>')
+        o.append(t(x, 228, head, 17, col, "middle", "700", extra='letter-spacing="2"'))
+        y = 262
+        for k, (title, sub) in enumerate((a, b)):
+            tsv, ty2 = _wrapt(x, y + 26, title, 26, 16, GOLD, italic=False, font=SERIF, lh=19, weight="700")
+            ssv, ty3 = _wrapt(x, ty2 + 3, sub, 34, 14.5, TEXT) if sub else ("", ty2)
+            h = ty3 - y + 4
+            o.append(f'<rect x="{x - 128}" y="{y}" width="256" height="{h:.0f}" rx="10" fill="#1a130c" stroke="{col}" stroke-opacity=".7"/>')
+            o.append(tsv + ssv)
+            y2 = y + h
+            o.append(f'<line x1="{x}" y1="{y2}" x2="{x}" y2="{y2 + 28}" stroke="{GOLD}" stroke-width="1.6"/>')
+            o.append(f'<polygon points="{x},{y2 + 30} {x + 5},{y2 + 24} {x - 5},{y2 + 24}" fill="#f3d58c"/>')
+            y = y2 + 32
+        svg, y = _wrapt(x, y + 14, via, 34, 14, MUTED)
+        o.append(svg)
+        o.append(f'<line x1="{x}" y1="{y - 6}" x2="{x}" y2="{y + 14}" stroke="{GOLD}" stroke-width="1.6" stroke-dasharray="4 4"/>')
+        o.append(f'<rect x="{x - 128}" y="{y + 16}" width="256" height="52" rx="26" fill="{col}" fill-opacity=".18" stroke="{col}" stroke-width="1.6"/>')
+        o.append(t(x, y + 48, c[0], 15 if len(c[0]) > 18 else 17, "#fff4dc", "middle", "700", extra='letter-spacing="1"'))
+    o.append("</svg>")
+    return "".join(o)
+
+
+def three_grounds():
+    W, H = 1000, 600
+    o = _frame(W, H, "Three Grounds of Authority", "On what grounds does anyone get to say what happens?")
+    cols = [("BY MEASUREMENT", "THE GUILD ACCORD", "the coil reads a soul in under a minute, and the reading is honest", "#9fd6ff", "eye"),
+            ("BY DESCENT", "THE ARCHAIC BLOODLINES", "Moto · Zettari · Yukari · Agamalu, descended from the Epochs themselves", GOLD, "crown"),
+            ("BY ATTRIBUTION", "THE BENCH OF ATTRIBUTION", "who did this, and by what warrant", "#d0453a", "scale")]
+    for i, (ground, inst, sub, col, icon) in enumerate(cols):
+        x = 175 + i * 325
+        o.append(f'<path d="M{x - 135} 520 L{x - 135} 200 Q{x} 120 {x + 135} 200 L{x + 135} 520 Z" fill="{col}" fill-opacity=".06" stroke="{col}" stroke-opacity=".55" stroke-width="1.5"/>')
+        o.append(f'<path d="M{x - 122} 510 L{x - 122} 206 Q{x} 136 {x + 122} 206 L{x + 122} 510" fill="none" stroke="{col}" stroke-opacity=".2"/>')
+        iy = 230
+        if icon == "eye":
+            o.append(f'<path d="M{x - 44} {iy} Q{x} {iy - 34} {x + 44} {iy} Q{x} {iy + 34} {x - 44} {iy} Z" fill="none" stroke="{col}" stroke-width="2"/>')
+            o.append(f'<circle cx="{x}" cy="{iy}" r="12" fill="{col}" fill-opacity=".6"/>')
+            for r in (22, 30):
+                o.append(f'<circle cx="{x}" cy="{iy}" r="{r}" fill="none" stroke="{col}" stroke-opacity=".3" stroke-dasharray="2 4"/>')
+        elif icon == "crown":
+            o.append(crest("crown", 90, x - 45, iy - 50, col, 2.2))
+        else:
+            o.append(f'<line x1="{x}" y1="{iy - 34}" x2="{x}" y2="{iy + 30}" stroke="{col}" stroke-width="2"/><line x1="{x - 44}" y1="{iy - 20}" x2="{x + 44}" y2="{iy - 20}" stroke="{col}" stroke-width="2"/>')
+            for sx in (-44, 44):
+                o.append(f'<path d="M{x + sx - 16} {iy + 8} L{x + sx} {iy - 20} L{x + sx + 16} {iy + 8} Q{x + sx} {iy + 18} {x + sx - 16} {iy + 8} Z" fill="{col}" fill-opacity=".3" stroke="{col}" stroke-width="1.5"/>')
+            o.append(f'<path d="M{x - 18} {iy + 34} L{x + 18} {iy + 34}" stroke="{col}" stroke-width="2.4"/>')
+        o.append(t(x, 318, ground, 22, col, "middle", "700", extra='letter-spacing="2"'))
+        o.append(f'<line x1="{x - 60}" y1="334" x2="{x + 60}" y2="334" stroke="{col}" stroke-opacity=".5"/>')
+        svg, y = _wrapt(x, 368, inst, 22, 19, GOLD, italic=False, font=SERIF, lh=24)
+        o.append(svg)
+        svg, y = _wrapt(x, y + 12, sub, 30, 15.5, TEXT)
+        o.append(svg)
+    for (x1, x2, lab, yy) in ((175, 500, "the Accord does not need to depose a king; it needs only to stop pumping", 625), (500, 175, "a crown passes to a body; rank does not", 650)):
+        pass
+    o.append(t(W / 2, 550, "The Accord does not need to depose a king. It needs only to stop pumping.", 15.5, MUTED, "middle", italic=True, font=BODY))
+    o.append(t(W / 2, 574, "A crown passes to a body. Rank does not.", 15.5, MUTED, "middle", italic=True, font=BODY))
+    o.append("</svg>")
+    return "".join(o)
+
+
 DIAGRAM_FILES = {
     "stage-ladder.svg": stage_ladder, "soul-crystal.svg": crystal_layers, "eight-families.svg": families_wheel,
     "grades.svg": grade_ladder, "reserve-tells.svg": reserve_tells, "release-forms.svg": release_forms,
-    "stacking.svg": stack_cap,
+    "stacking.svg": stack_cap, "four-axes.svg": four_axes, "four-quarters.svg": four_quarters,
+    "aether-classes.svg": aether_classes, "three-origins.svg": three_origins, "three-grounds.svg": three_grounds,
 }
 
 if __name__ == "__main__":

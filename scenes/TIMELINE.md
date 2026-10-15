@@ -2,7 +2,7 @@
 
 One line per scene, in in-world order, with the moment the text states and the position
 it was placed at. A scene whose events precede something it references is a continuity
-error. The inventory covers all 226 top-level Markdown archive files; `placed` carries the position, and the evidence
+error. The inventory covers all 233 top-level Markdown archive files; `placed` carries the position, and the evidence
 each placement rests on is in CONTINUITY.md beside it. Scenes the text does not locate
 are listed at the end rather than guessed at.
 
@@ -375,3 +375,25 @@ but their pending index/scene applications are already listed in
 and their human placements are preserved; this review does not undertake those
 other-session applications. The separate unapproved floodgate draft is not
 imported or linked as an archived event.
+
+
+## Source verification — Hiromi's bout and the interruption (2026-10-15 review)
+
+The seven local posts continue in this order: [The Judging Paw](the_judging_paw.md)
+→ [The House It Guards](the_house_it_guards.md) → [The Black Tortoise](the_black_tortoise.md)
+→ [The Shape of the Room](the_shape_of_the_room.md) → [The Furniture and the House](the_furniture_and_the_house.md)
+→ [Hiromi at the Brink](hiromi_at_the_brink.md) → [The Relics](the_relics.md).
+Their explicit continuation notes establish local order, not a global date.
+Current inventory coverage is **233/233**. All 148 numbered placements are preserved.
+
+The seven corresponding Timeline rows were already present before this review and
+are retained. Their summaries describe claims in the posts, not ratified rules:
+- House 171/175 contests Kain's reported result; Tortoise 127 reports his later partial acceptance of the paw. Neither substitutes for the missing contest terms, opponent cards and Judger adjudication required by R72-37. Shape 169 and Furniture 173 explicitly retain that limitation.
+- ECHO “2 of 3” / “3 of 3” in the inherited rows and scene ledgers repeat the previously reported call-count error; they are not a newly approved three-call ceiling. Furniture's level review at 182 already flags the Loom, Fired Soul and arena extension of the approximately 10 m Traits. Its proposed caps remain unapplied.
+- Brink 144–166 ends with Hiromi unconscious, reserve near empty and a fading spirit guardian. Its blood-loss class and volume are author estimates, not measured weight or reserve figures. The tie is Hiromi's interpretation only; Mu-jin seeing him and the winner remain open. R78-9's passive bodily base is not evidence of an active reinforcement layer continuing while unconscious; the separate guardian application remains provisional.
+- Relics 237 explicitly interrupts that ending. It places a living chimeric Malphas, three Requiem/Seed figures and the stopped hammer over the halted bout. Conversion moving is a narrative claim, not proof the Body Path gate was completed; C-115/R57-29 still require the named component's gate. Borin's heart stops in Malphas's hand, while his body is dying in Darius's arms; rescue or final death is not settled (Relics, Calls made 5).
+- Relics 7 says vespers at the hall, while 133–145 puts the arena in clear afternoon. No distance, time-zone conversion or elapsed interval establishes their clock relationship. Preserve the scene's hall → portal → arena sequence without inventing an hour or calendar date.
+- The older [Malphas on the Line](malphas_on_the_line_the_train_east.md) has a living, eating Malphas and explicitly provisional reanimation research. It supports a pre-Becoming phase, not a dated link to the new nineteen-month culture or a completed Aegon activation. [The Medlar Tree](the_medlar_tree_aetherion_academy.md), Ledger, still leaves Aegon armed, not run, and the withheld second sheet sealed. Relics does not establish that either changed.
+
+C-129/C-130/Star Crusher application remains the separate existing work listed in
+`imports/drafts/conflict-rulings-2026-10-13/apply.md`; no existing placement is moved.

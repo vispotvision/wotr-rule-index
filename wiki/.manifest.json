@@ -17,7 +17,7 @@
     "title": "The Fisc — Paying for a Siege"
   },
   "3d758200-eb22-8121-9842-c160dd9c8203": {
-    "rel": "Factions, Bloodlines & Institutions/Powers and Polities/The Guild Accord/The Guild Accord in the Modern Era — Divisions, Companies, Academies and Offices.md",
+    "rel": "Factions, Bloodlines & Institutions/Powers and Polities/The Guild Accord/Structure and Rank/The Guild Accord in the Modern Era — Divisions, Companies, Academies and Offices.md",
     "edited": "2026-09-26T14:12:00.000Z",
     "title": "The Guild Accord in the Modern Era — Divisions, Companies, Academies and Offices"
   },
@@ -52,32 +52,32 @@
     "title": "The Working Vocabulary — Trade Jargon and Its Metaphysical Extensions"
   },
   "3d758200-eb22-8115-94b2-f63a07d8f510": {
-    "rel": "Races & Peoples/The Tongues of the Realms/Common — The Tongue With No Distinctions/Accent — Placement, Prestige and the Shibboleth.md",
+    "rel": "Races & Peoples/The Tongues of the Realms/The Grammars/Common — The Tongue With No Distinctions/Accent — Placement, Prestige and the Shibboleth.md",
     "edited": "2026-09-10T11:15:00.000Z",
     "title": "Accent — Placement, Prestige and the Shibboleth"
   },
   "3d758200-eb22-81d5-b117-fb16ae60d957": {
-    "rel": "Races & Peoples/The Tongues of the Realms/Common — The Tongue With No Distinctions/Common — The Tongue With No Distinctions.md",
+    "rel": "Races & Peoples/The Tongues of the Realms/The Grammars/Common — The Tongue With No Distinctions/Common — The Tongue With No Distinctions.md",
     "edited": "2026-09-10T11:15:00.000Z",
     "title": "Common — The Tongue With No Distinctions"
   },
   "3d758200-eb22-818c-8c74-e8d11a5bac2e": {
-    "rel": "Races & Peoples/The Tongues of the Realms/Accord Latin — The Formulary and the Two Spoken Registers.md",
+    "rel": "Races & Peoples/The Tongues of the Realms/The Grammars/Accord Latin — The Formulary and the Two Spoken Registers.md",
     "edited": "2026-09-10T11:14:00.000Z",
     "title": "Accord Latin — The Formulary and the Two Spoken Registers"
   },
   "3d758200-eb22-81cd-b73f-f4b6e70d5643": {
-    "rel": "Races & Peoples/The Tongues of the Realms/Runic Dawi — The Tongue of the Holds.md",
+    "rel": "Races & Peoples/The Tongues of the Realms/The Grammars/Runic Dawi — The Tongue of the Holds.md",
     "edited": "2026-09-26T10:19:00.000Z",
     "title": "Runic Dawi — The Tongue of the Holds"
   },
   "3d758200-eb22-8112-8104-c2cceb8f3438": {
-    "rel": "Races & Peoples/The Tongues of the Realms/Eressean and Varrisak — The Tongue of the Vey-Elarin.md",
+    "rel": "Races & Peoples/The Tongues of the Realms/The Grammars/Eressean and Varrisak — The Tongue of the Vey-Elarin.md",
     "edited": "2026-09-10T11:14:00.000Z",
     "title": "Eressean and Varrisak — The Tongue of the Vey-Elarin"
   },
   "3d758200-eb22-8120-a2ad-ee8d2db7380d": {
-    "rel": "Races & Peoples/The Tongues of the Realms/Old Vaross — The Goblinoid Tongue.md",
+    "rel": "Races & Peoples/The Tongues of the Realms/The Grammars/Old Vaross — The Goblinoid Tongue.md",
     "edited": "2026-09-10T11:14:00.000Z",
     "title": "Old Vaross — The Goblinoid Tongue"
   },
@@ -1046,7 +1046,7 @@
     "title": "The Kingdom of Kharven — The Ashen Crown"
   },
   "3bc58200-eb22-816d-adac-cdb407408b34": {
-    "rel": "Geography & the Four Quarters/The Bearing and the Holding/Yasoshima — The Eighty Isles.md",
+    "rel": "Geography & the Four Quarters/The Bearing and the Holding/Isles and Archipelagos/Yasoshima — The Eighty Isles.md",
     "edited": "2026-09-26T09:07:00.000Z",
     "title": "Yasoshima — The Eighty Isles"
   },
@@ -1234,7 +1234,7 @@
     "private": true
   },
   "3ba58200-eb22-81de-8069-f9ad05c82766": {
-    "rel": "The Bestiary/Natural Beasts/Droval — The Frost-Howler.md",
+    "rel": "The Bestiary/The Wild/Natural Beasts/Droval — The Frost-Howler.md",
     "edited": "2026-09-04T04:43:00.000Z",
     "title": "Droval — The Frost-Howler"
   },
@@ -1257,12 +1257,12 @@
     "private": true
   },
   "3b558200-eb22-819c-9e78-fe7ec0806c15": {
-    "rel": "The Bestiary/Summoned and Bound/Haelvorn · Housecat.md",
+    "rel": "The Bestiary/The Called and the Divine/Summoned and Bound/Haelvorn · Housecat.md",
     "edited": "2026-09-12T18:53:00.000Z",
     "title": "Haelvorn · Housecat"
   },
   "3b558200-eb22-8160-98bf-d9756bfb2a81": {
-    "rel": "The Bestiary/Summoned and Bound/Obrenkael · The Mule.md",
+    "rel": "The Bestiary/The Called and the Divine/Summoned and Bound/Obrenkael · The Mule.md",
     "edited": "2026-09-12T18:52:00.000Z",
     "title": "Obrenkael · The Mule"
   },
@@ -1273,27 +1273,27 @@
     "private": true
   },
   "3b358200-eb22-817d-b03e-ede8e541965d": {
-    "rel": "The Bestiary/Summoned and Bound/Vaelmorn · The Standing Grave.md",
+    "rel": "The Bestiary/The Called and the Divine/Summoned and Bound/Vaelmorn · The Standing Grave.md",
     "edited": "2026-08-05T19:02:00.000Z",
     "title": "Vaelmorn · The Standing Grave"
   },
   "3b358200-eb22-810c-a27d-d0b5d0836f54": {
-    "rel": "The Bestiary/Summoned and Bound/Raga · The Divine Thunder Bear.md",
+    "rel": "The Bestiary/The Called and the Divine/Summoned and Bound/Raga · The Divine Thunder Bear.md",
     "edited": "2026-08-05T18:43:00.000Z",
     "title": "Raga · The Divine Thunder Bear"
   },
   "3b358200-eb22-81e2-8fec-cf4387fbb268": {
-    "rel": "The Bestiary/Summoned and Bound/Summoned and Bound.md",
+    "rel": "The Bestiary/The Called and the Divine/Summoned and Bound/Summoned and Bound.md",
     "edited": "2026-08-07T19:55:00.000Z",
     "title": "Summoned and Bound"
   },
   "3b358200-eb22-8133-95f0-ede97970b055": {
-    "rel": "The Bestiary/Summoned and Bound/The Called · Summon Register/Summon Entry · Blank Template.md",
+    "rel": "The Bestiary/The Called and the Divine/Summoned and Bound/The Called · Summon Register/Summon Entry · Blank Template.md",
     "edited": "2026-08-05T18:33:00.000Z",
     "title": "Summon Entry · Blank Template"
   },
   "3b358200-eb22-8198-87ac-f4b47493c48c": {
-    "rel": "The Bestiary/Summoned and Bound/The Called · Summon Register/The Called · Summon Register.md",
+    "rel": "The Bestiary/The Called and the Divine/Summoned and Bound/The Called · Summon Register/The Called · Summon Register.md",
     "edited": "2026-09-11T02:37:00.000Z",
     "title": "The Called · Summon Register"
   },
@@ -1478,32 +1478,32 @@
     "title": "Lore & History"
   },
   "3b258200-eb22-819a-93f5-dceb8d97bf0b": {
-    "rel": "The Bestiary/Aberrations/Aberrations.md",
+    "rel": "The Bestiary/The Corrupted and the Risen/Aberrations/Aberrations.md",
     "edited": "2026-09-12T16:08:00.000Z",
     "title": "Aberrations"
   },
   "3b258200-eb22-811c-bd39-e6d11fd75ca1": {
-    "rel": "The Bestiary/Natural Beasts/Natural Beasts.md",
+    "rel": "The Bestiary/The Wild/Natural Beasts/Natural Beasts.md",
     "edited": "2026-09-12T16:08:00.000Z",
     "title": "Natural Beasts"
   },
   "3b258200-eb22-81f0-8608-c681a6ba4974": {
-    "rel": "The Bestiary/The Undying and the Constructs.md",
+    "rel": "The Bestiary/The Corrupted and the Risen/The Undying and the Constructs.md",
     "edited": "2026-08-04T00:01:00.000Z",
     "title": "The Undying and the Constructs"
   },
   "3b158200-eb22-8180-bf45-fa2b45c9e8ef": {
-    "rel": "The Bestiary/The Draconic Lineage.md",
+    "rel": "The Bestiary/The Wild/The Draconic Lineage.md",
     "edited": "2026-08-03T23:59:00.000Z",
     "title": "The Draconic Lineage"
   },
   "3b158200-eb22-819d-b460-fdfc405df896": {
-    "rel": "The Bestiary/Divine, Archonic and Elemental.md",
+    "rel": "The Bestiary/The Called and the Divine/Divine, Archonic and Elemental.md",
     "edited": "2026-08-03T23:59:00.000Z",
     "title": "Divine, Archonic and Elemental"
   },
   "3b158200-eb22-813c-8a34-daee8d0acc3a": {
-    "rel": "The Bestiary/Spirit Beasts.md",
+    "rel": "The Bestiary/The Wild/Spirit Beasts.md",
     "edited": "2026-08-03T23:57:00.000Z",
     "title": "Spirit Beasts"
   },
@@ -1698,7 +1698,7 @@
     "title": "The Archaic Bloodlines"
   },
   "3b158200-eb22-8110-8153-d03b59822ad3": {
-    "rel": "Factions, Bloodlines & Institutions/Powers and Polities/The Guild Accord/The Practitioner Problem.md",
+    "rel": "Factions, Bloodlines & Institutions/Powers and Polities/The Guild Accord/Structure and Rank/The Practitioner Problem.md",
     "edited": "2026-08-03T20:49:00.000Z",
     "title": "The Practitioner Problem"
   },
@@ -1713,32 +1713,32 @@
     "title": "The Bench of Attribution"
   },
   "3b158200-eb22-81c4-9084-f14837c8b7fd": {
-    "rel": "Factions, Bloodlines & Institutions/Powers and Polities/The Guild Accord/The Concord Citadel.md",
+    "rel": "Factions, Bloodlines & Institutions/Powers and Polities/The Guild Accord/Seats and Arms/The Concord Citadel.md",
     "edited": "2026-09-28T08:18:00.000Z",
     "title": "The Concord Citadel"
   },
   "3b158200-eb22-81d7-9032-ec164a8d6fc5": {
-    "rel": "Factions, Bloodlines & Institutions/Powers and Polities/The Guild Accord/The Concord Military.md",
+    "rel": "Factions, Bloodlines & Institutions/Powers and Polities/The Guild Accord/Seats and Arms/The Concord Military.md",
     "edited": "2026-09-28T08:19:00.000Z",
     "title": "The Concord Military"
   },
   "3b158200-eb22-8125-b480-d3d9b1cfe547": {
-    "rel": "Factions, Bloodlines & Institutions/Powers and Polities/The Guild Accord/The Concord Gate Network.md",
+    "rel": "Factions, Bloodlines & Institutions/Powers and Polities/The Guild Accord/Seats and Arms/The Concord Gate Network.md",
     "edited": "2026-10-14T00:18:00.000Z",
     "title": "The Concord Gate Network"
   },
   "3b158200-eb22-812d-8a74-cb672f94bf76": {
-    "rel": "Factions, Bloodlines & Institutions/Powers and Polities/The Guild Accord/The Black Concord.md",
+    "rel": "Factions, Bloodlines & Institutions/Powers and Polities/The Guild Accord/Structure and Rank/The Black Concord.md",
     "edited": "2026-09-28T08:18:00.000Z",
     "title": "The Black Concord"
   },
   "3b158200-eb22-811c-b2ec-dee2ebc43a44": {
-    "rel": "Factions, Bloodlines & Institutions/Powers and Polities/The Guild Accord/The Tiered Path.md",
+    "rel": "Factions, Bloodlines & Institutions/Powers and Polities/The Guild Accord/Structure and Rank/The Tiered Path.md",
     "edited": "2026-10-14T00:32:00.000Z",
     "title": "The Tiered Path"
   },
   "3b158200-eb22-81ad-bc02-e5d29faaa253": {
-    "rel": "Factions, Bloodlines & Institutions/Powers and Polities/The Guild Accord/Merit and Severance.md",
+    "rel": "Factions, Bloodlines & Institutions/Powers and Polities/The Guild Accord/Structure and Rank/Merit and Severance.md",
     "edited": "2026-09-26T14:13:00.000Z",
     "title": "Merit and Severance"
   },
@@ -1793,7 +1793,7 @@
     "title": "Races & Peoples"
   },
   "3b158200-eb22-81b0-8227-d8a4f9a29302": {
-    "rel": "Geography & the Four Quarters/The Bearing and the Holding/The Hobgoblin Expanse.md",
+    "rel": "Geography & the Four Quarters/The Bearing and the Holding/Isles and Archipelagos/The Hobgoblin Expanse.md",
     "edited": "2026-09-26T09:07:00.000Z",
     "title": "The Hobgoblin Expanse"
   },
@@ -1818,7 +1818,7 @@
     "title": "The Inner World — The Northern Shield"
   },
   "3b158200-eb22-8150-9ba0-c911e21c22e9": {
-    "rel": "Geography & the Four Quarters/The Bearing and the Holding/The Old World — The Western Wearing.md",
+    "rel": "Geography & the Four Quarters/The Bearing and the Holding/The Old World — The Western Wearing/The Old World — The Western Wearing.md",
     "edited": "2026-09-26T09:07:00.000Z",
     "title": "The Old World — The Western Wearing"
   },
@@ -2049,17 +2049,17 @@
     "title": "Cosmology & Metaphysics"
   },
   "3d958200-eb22-8171-8652-f3fb9eb8cbec": {
-    "rel": "The Bestiary/Aberrations/Lich.md",
+    "rel": "The Bestiary/The Corrupted and the Risen/Aberrations/Lich.md",
     "edited": "2026-09-12T16:08:00.000Z",
     "title": "Lich"
   },
   "3d958200-eb22-8108-aab9-e1a51da2b140": {
-    "rel": "The Bestiary/Natural Beasts/Neiman Lion.md",
+    "rel": "The Bestiary/The Wild/Natural Beasts/Neiman Lion.md",
     "edited": "2026-09-12T16:08:00.000Z",
     "title": "Neiman Lion"
   },
   "3d958200-eb22-8110-938b-fccf2e0885a4": {
-    "rel": "The Bestiary/Natural Beasts/Greater Wolf.md",
+    "rel": "The Bestiary/The Wild/Natural Beasts/Greater Wolf.md",
     "edited": "2026-09-12T16:08:00.000Z",
     "title": "Greater Wolf"
   },
@@ -3222,7 +3222,7 @@
     "private": true
   },
   "3d958200-eb22-816b-b1b5-ca90d76b68d9": {
-    "rel": "Geography & the Four Quarters/The Bearing and the Holding/Kushara — The Land That Remembers Weight.md",
+    "rel": "Geography & the Four Quarters/The Bearing and the Holding/The Old World — The Western Wearing/Kushara — The Land That Remembers Weight.md",
     "edited": "2026-09-26T09:07:00.000Z",
     "title": "Kushara — The Land That Remembers Weight"
   },
@@ -3232,7 +3232,7 @@
     "title": "The Moto Bloodline — Material Culture"
   },
   "3d958200-eb22-81c1-b796-f6f3757fb7fb": {
-    "rel": "Races & Peoples/The Tongues of the Realms/Element Inventories — Mahuo, Yukari, the Elven Branches, Beastkin.md",
+    "rel": "Races & Peoples/The Tongues of the Realms/Naming and Usage/Element Inventories — Mahuo, Yukari, the Elven Branches, Beastkin.md",
     "edited": "2026-09-26T08:48:00.000Z",
     "title": "Element Inventories — Mahuo, Yukari, the Elven Branches, Beastkin"
   },
@@ -3283,12 +3283,12 @@
     "private": true
   },
   "3db58200-eb22-8163-aece-ffa4a7d82ad0": {
-    "rel": "Races & Peoples/The Tongues of the Realms/The Celestial Host — Naming.md",
+    "rel": "Races & Peoples/The Tongues of the Realms/Naming and Usage/The Celestial Host — Naming.md",
     "edited": "2026-09-26T03:56:00.000Z",
     "title": "The Celestial Host — Naming"
   },
   "3db58200-eb22-819b-9173-d6f8397ae38b": {
-    "rel": "Races & Peoples/The Tongues of the Realms/Moto Element Inventory — Japonic Stratum.md",
+    "rel": "Races & Peoples/The Tongues of the Realms/Naming and Usage/Moto Element Inventory — Japonic Stratum.md",
     "edited": "2026-09-26T03:56:00.000Z",
     "title": "Moto Element Inventory — Japonic Stratum"
   },
@@ -3743,12 +3743,12 @@
     "title": "X. The Tier Ladders (Part Twenty-Four)"
   },
   "3e758200-eb22-81d2-9443-d4491e185f0d": {
-    "rel": "The Bestiary/Well-spawn.md",
+    "rel": "The Bestiary/The Corrupted and the Risen/Well-spawn.md",
     "edited": "2026-09-26T10:03:00.000Z",
     "title": "Well-spawn"
   },
   "3e758200-eb22-8188-9a4e-d790f7aedc26": {
-    "rel": "Races & Peoples/The Tongues of the Realms/Swears, Oaths and Insults.md",
+    "rel": "Races & Peoples/The Tongues of the Realms/Naming and Usage/Swears, Oaths and Insults.md",
     "edited": "2026-10-07T19:53:00.000Z",
     "title": "Swears, Oaths and Insults"
   },

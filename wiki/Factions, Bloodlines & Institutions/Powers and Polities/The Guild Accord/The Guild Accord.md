@@ -145,11 +145,11 @@ The ranks and what they cost. The currency of remembrance and the nine ways a so
 > **The Concordant cannot leave the Citadel.** Everything reaches them through five Divisional Heads who each decide what is worth carrying up, so the office is not exercised, it is curated. And because an unsucceeded death stills the Vault, the Council will accept almost any nominee rather than risk a gap, which means the contest happens entirely before the death.
 >
 > **Companies, academies and offices.** Master, Wardens and a self-appointing Court of Assistants; apprentice, freeman and liveryman, with entry to the freedom by patrimony, servitude or redemption. Academies teach and examine, societies elect and cannot be bought. And **an adventurer is somebody who ventures capital**, so a Commission is a venture with subscribers and shares, not a job with wages.
-- [[Factions, Bloodlines & Institutions/Powers and Polities/The Guild Accord/The Guild Accord in the Modern Era — Divisions, Companies, Academies and Offices]]
-- [[Factions, Bloodlines & Institutions/Powers and Polities/The Guild Accord/The Tiered Path]]
-- [[Factions, Bloodlines & Institutions/Powers and Polities/The Guild Accord/Merit and Severance]]
-- [[Factions, Bloodlines & Institutions/Powers and Polities/The Guild Accord/The Black Concord]]
-- [[Factions, Bloodlines & Institutions/Powers and Polities/The Guild Accord/The Concord Gate Network]]
-- [[Factions, Bloodlines & Institutions/Powers and Polities/The Guild Accord/The Concord Military]]
-- [[Factions, Bloodlines & Institutions/Powers and Polities/The Guild Accord/The Concord Citadel]]
-- [[Factions, Bloodlines & Institutions/Powers and Polities/The Guild Accord/The Practitioner Problem]]
+- [[Factions, Bloodlines & Institutions/Powers and Polities/The Guild Accord/Structure and Rank/The Guild Accord in the Modern Era — Divisions, Companies, Academies and Offices]]
+- [[Factions, Bloodlines & Institutions/Powers and Polities/The Guild Accord/Structure and Rank/The Tiered Path]]
+- [[Factions, Bloodlines & Institutions/Powers and Polities/The Guild Accord/Structure and Rank/Merit and Severance]]
+- [[Factions, Bloodlines & Institutions/Powers and Polities/The Guild Accord/Structure and Rank/The Black Concord]]
+- [[Factions, Bloodlines & Institutions/Powers and Polities/The Guild Accord/Seats and Arms/The Concord Gate Network]]
+- [[Factions, Bloodlines & Institutions/Powers and Polities/The Guild Accord/Seats and Arms/The Concord Military]]
+- [[Factions, Bloodlines & Institutions/Powers and Polities/The Guild Accord/Seats and Arms/The Concord Citadel]]
+- [[Factions, Bloodlines & Institutions/Powers and Polities/The Guild Accord/Structure and Rank/The Practitioner Problem]]

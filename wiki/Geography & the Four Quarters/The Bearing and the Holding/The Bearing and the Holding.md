@@ -118,9 +118,9 @@ The Measurewrights offer three explanations and endorse none. That the names are
 >
 > **Something is still loading those ships.**
 - [[Geography & the Four Quarters/The Bearing and the Holding/The Inner World — The Northern Shield/The Inner World — The Northern Shield]]
-- [[Geography & the Four Quarters/The Bearing and the Holding/The Old World — The Western Wearing]]
+- [[Geography & the Four Quarters/The Bearing and the Holding/The Old World — The Western Wearing/The Old World — The Western Wearing]]
 - [[Geography & the Four Quarters/The Bearing and the Holding/The New World — The Eastern Rise]]
 - [[Geography & the Four Quarters/The Bearing and the Holding/The Outer World — The Southern Pan]]
-- [[Geography & the Four Quarters/The Bearing and the Holding/Yasoshima — The Eighty Isles]]
-- [[Geography & the Four Quarters/The Bearing and the Holding/The Hobgoblin Expanse]]
-- [[Geography & the Four Quarters/The Bearing and the Holding/Kushara — The Land That Remembers Weight]]
+- [[Geography & the Four Quarters/The Bearing and the Holding/Isles and Archipelagos/Yasoshima — The Eighty Isles]]
+- [[Geography & the Four Quarters/The Bearing and the Holding/Isles and Archipelagos/The Hobgoblin Expanse]]
+- [[Geography & the Four Quarters/The Bearing and the Holding/The Old World — The Western Wearing/Kushara — The Land That Remembers Weight]]

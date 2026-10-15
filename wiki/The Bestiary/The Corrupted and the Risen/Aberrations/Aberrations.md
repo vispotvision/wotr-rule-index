@@ -203,4 +203,4 @@ Relentless, **driven by endless hunger and madness.** They hunt anything that mo
 
 *The Blight of Frost Hollow tells of a Wendigo terrorising mountain villages for decades until shamans and hunters banished it. The Winter's Maw campaign suffered severe losses to Wendigo ambushes on supply runs.*
 > **Northern tribes conduct rites to protect against their hunger — and to honour the spirits of those lost to the curse.**
-- [[The Bestiary/Aberrations/Lich]]
+- [[The Bestiary/The Corrupted and the Risen/Aberrations/Lich]]

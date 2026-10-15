@@ -79,12 +79,12 @@ Every grammar follows the same eleven sections so they can be compared and so ga
 Complete. Old Vaross, Eressean and Varrisak, Runic Dawi, Accord Latin and the Fourteen Hands are all built.
 
 What remains is maintenance rather than construction: the Drow Shadow-Veil notation is described from outside in three places and has no entry of its own, and Mirror-Sign is named as a full manual language with its own grammar and has never been given one. Neither is urgent. Both are real gaps.
-- [[Races & Peoples/The Tongues of the Realms/Old Vaross — The Goblinoid Tongue]]
-- [[Races & Peoples/The Tongues of the Realms/Eressean and Varrisak — The Tongue of the Vey-Elarin]]
-- [[Races & Peoples/The Tongues of the Realms/Runic Dawi — The Tongue of the Holds]]
-- [[Races & Peoples/The Tongues of the Realms/Accord Latin — The Formulary and the Two Spoken Registers]]
-- [[Races & Peoples/The Tongues of the Realms/Common — The Tongue With No Distinctions/Common — The Tongue With No Distinctions]]
-- [[Races & Peoples/The Tongues of the Realms/Element Inventories — Mahuo, Yukari, the Elven Branches, Beastkin]]
-- [[Races & Peoples/The Tongues of the Realms/Moto Element Inventory — Japonic Stratum]]
-- [[Races & Peoples/The Tongues of the Realms/The Celestial Host — Naming]]
-- [[Races & Peoples/The Tongues of the Realms/Swears, Oaths and Insults]]
+- [[Races & Peoples/The Tongues of the Realms/The Grammars/Old Vaross — The Goblinoid Tongue]]
+- [[Races & Peoples/The Tongues of the Realms/The Grammars/Eressean and Varrisak — The Tongue of the Vey-Elarin]]
+- [[Races & Peoples/The Tongues of the Realms/The Grammars/Runic Dawi — The Tongue of the Holds]]
+- [[Races & Peoples/The Tongues of the Realms/The Grammars/Accord Latin — The Formulary and the Two Spoken Registers]]
+- [[Races & Peoples/The Tongues of the Realms/The Grammars/Common — The Tongue With No Distinctions/Common — The Tongue With No Distinctions]]
+- [[Races & Peoples/The Tongues of the Realms/Naming and Usage/Element Inventories — Mahuo, Yukari, the Elven Branches, Beastkin]]
+- [[Races & Peoples/The Tongues of the Realms/Naming and Usage/Moto Element Inventory — Japonic Stratum]]
+- [[Races & Peoples/The Tongues of the Realms/Naming and Usage/The Celestial Host — Naming]]
+- [[Races & Peoples/The Tongues of the Realms/Naming and Usage/Swears, Oaths and Insults]]

@@ -46,7 +46,7 @@ Only *Ketsu*, *En*, *Jin*, and *Mu* are canon-attested; every other element is n
 
 ## III. The Elven Branches — Shared Roots, Branch Affixes
 
-One shared root inventory plus five branch-specific naming rules, rather than five flat lists, because that is how the source grammar itself is organised and it avoids pretending the five branches do not share a language. The five are Eressean, Varrisak, Drow, Eladrin and the Echo Elves; the grammar is on [[Races & Peoples/The Tongues of the Realms/Eressean and Varrisak — The Tongue of the Vey-Elarin]].
+One shared root inventory plus five branch-specific naming rules, rather than five flat lists, because that is how the source grammar itself is organised and it avoids pretending the five branches do not share a language. The five are Eressean, Varrisak, Drow, Eladrin and the Echo Elves; the grammar is on [[Races & Peoples/The Tongues of the Realms/The Grammars/Eressean and Varrisak — The Tongue of the Vey-Elarin]].
 
 *Roots are disyllabic and open, codas restricted to a vowel, a liquid (l/r), a nasal (m/n/ny), or th. Every element carries a grammatical pitch contour (level/rising/falling).*
 

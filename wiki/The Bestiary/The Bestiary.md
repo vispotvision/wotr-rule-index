@@ -66,15 +66,15 @@ verification: "unverified"
 ## Entries
 
 Six pages, grouped by Type. **Spirit Beasts** · **The Draconic Lineage** · **Natural Beasts** · **Aberrations** · **The Undying and the Constructs** · **Divine, Archonic and Elemental**.
-- [[The Bestiary/Spirit Beasts]]
-- [[The Bestiary/The Draconic Lineage]]
-- [[The Bestiary/Natural Beasts/Natural Beasts]]
-- [[The Bestiary/Aberrations/Aberrations]]
-- [[The Bestiary/The Undying and the Constructs]]
-- [[The Bestiary/Divine, Archonic and Elemental]]
+- [[The Bestiary/The Wild/Spirit Beasts]]
+- [[The Bestiary/The Wild/The Draconic Lineage]]
+- [[The Bestiary/The Wild/Natural Beasts/Natural Beasts]]
+- [[The Bestiary/The Corrupted and the Risen/Aberrations/Aberrations]]
+- [[The Bestiary/The Corrupted and the Risen/The Undying and the Constructs]]
+- [[The Bestiary/The Called and the Divine/Divine, Archonic and Elemental]]
 
 ### The bound and the bred
 
 *The six pages above catalogue what exists. The two below are different kinds of entry. A called thing has somebody answerable for it. A Well's get has nobody answerable for it, and is every delver's problem.*
-- [[The Bestiary/Summoned and Bound/Summoned and Bound]]
-- [[The Bestiary/Well-spawn]]
+- [[The Bestiary/The Called and the Divine/Summoned and Bound/Summoned and Bound]]
+- [[The Bestiary/The Corrupted and the Risen/Well-spawn]]

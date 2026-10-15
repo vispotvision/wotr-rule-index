@@ -130,4 +130,4 @@ verification: "unverified"
 **Silence severs.** Anything Donated dies inside a Silence Realm. Anything Analog degrades. Native and Anchored forms are the only two that hold, and holding is not the same as functioning.
 
 **The Bench and the Divisions are watching.** Summoning without lawful Glyphica is Mechanica. Unauthorized World-Tethering is prosecuted under Statute XXVI. **An entry should record what the Accord would say about it**, including the entries where the Accord has said nothing yet.
-- [[The Bestiary/Summoned and Bound/The Called · Summon Register/Summon Entry · Blank Template]]
+- [[The Bestiary/The Called and the Divine/Summoned and Bound/The Called · Summon Register/Summon Entry · Blank Template]]

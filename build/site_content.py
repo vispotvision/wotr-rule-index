@@ -138,9 +138,17 @@ def main(out: Path) -> None:
         text = re.sub(r"\[\[([^\]|#]+)(?:#[^\]|]*)?(?:\|([^\]]+))?\]\]", unlink, (WIKI / rel).read_text(encoding="utf-8"))
         (out / rel).write_text(dress(rel, text), encoding="utf-8")
     shutil.copytree(WIKI / "Assets", out / "Assets")
-    lines = ["---", "title: Every Page", "---", "", "Every page on the public wiki, by section.", ""]
+    lines = ["---", "title: Every Page", "---", "", "Every page on the public wiki, by section and shelf.", ""]
     for section in sorted(kept):
-        lines += [f"## {section}", ""] + [f"- [[{r}|{r.split('/')[-1]}]]" for r in kept[section]] + [""]
+        lines += [f"## {section}", ""]
+        shelves = defaultdict(list)
+        for r in kept[section]:
+            parts = r.split("/")
+            shelves[parts[1] if len(parts) > 2 else ""].append(r)
+        for shelf in sorted(shelves, key=lambda k: (k != "", k)):
+            if shelf:
+                lines += [f"### {shelf}", ""]
+            lines += [f"- [[{r}|{titles.get(r, r.split('/')[-1])}]]" for r in shelves[shelf]] + [""]
     (out / "Every Page.md").write_text("\n".join(lines), encoding="utf-8")
     # the site's front page is site/landing.html, laid over Quartz's index after the build
     (out / "index.md").write_text("---\ntitle: War of the Realms\n---\n\n[[Start Here]] · [[Every Page]]\n", encoding="utf-8")

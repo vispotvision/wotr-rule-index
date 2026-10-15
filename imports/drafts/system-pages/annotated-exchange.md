@@ -6,35 +6,35 @@
 
 ## The exchange
 
-The yard of the Brazen Lantern school had been swept for the ranking bouts, and four minutes of Garrick Vane had unswept it. Scorch-rings pocked the flagstones wherever his misses had landed. The brass standpipe lamps along the colonnade burned with every flame canted toward him, a row of small obeisances, and Nell Ashby kept her eyes on his feet because they kept wanting to climb to his face. **[1]**
+The yard of the Brazen Lantern school had been swept for the ranking bouts, and four minutes of Garrick Vane had unswept it. Calcined scorch-rings pocked the ashlar wherever his misses had landed. The verdigrised standpipe lamps along the colonnade burned in the gloaming with every flame canted toward him, a row of small obeisances, and Nell Ashby kept her eyes on his feet because they kept wanting to climb to his face. **[1]**
 
-She had spent the bout a hand's breadth outside the maai of that right arm, slipping, yielding ground, letting him chase her round the well-head while the disciples on the wall jeered her for a hare. Let them jeer. Every rush cost him dear and cost her almost nothing, and now she could hear the bill. His breath came short and stayed short between rushes, and the ember-orange that smouldered over his shoulders had gone sullen and dim, as if a hand had cupped the lamp. **[2]**
+She had spent the bout a hand's breadth outside the maai of that right arm, slipping, yielding ground, letting him careen after her round the well-head while the disciples on the wall jeered her for a hare. Let them jeer. Every rush cost him dear and cost her almost nothing, and now the reckoning sounded in his breath, stertorous, short, and staying short between rushes. The ember-orange that smouldered over his shoulders had gone wan and attenuated, as if a hand had cupped the lamp. **[2]**
 
-"You going to run all night, Ashby?" He spat, and the spittle hissed to steam on the stone. "Elder's bored."
+"You going to run all night, Ashby?" He spat, and the spittle seethed to steam on the stone. "Elder's bored."
 
 "Elder's watching you sweat."
 
-On the steps, Elder Hossack took the pipe from his teeth and laughed once through his nose.
+On the steps, Elder Hossack took the pipe from his teeth and gave one mordant snort through his nose.
 
-Then Garrick gathered himself, and she watched it go. The orange drained off his left flank in one sullen pulse and poured down his right arm until the forearm glowed like iron in the forge-bed, and the skin of his left side stood bare and pallid in the dusk, goose-fleshed, a sheen of sweat on the ribs. **[3]** *He's put it all in the right. He'll throw it straight, because he's already loaded the back hip and a hook wants it square. When it misses, his weight rolls over the front foot, and for one breath those ribs are naked.*
+Then Garrick gathered himself, and the gathering showed. The orange drained off his left flank in one sullen pulse and poured down his right arm until the forearm went candent as iron in the forge-bed, and the skin of his left side stood bare and sallow in the murk, goose-fleshed, a glaze of diaphoresis on the ribs. **[3]** *He's put it all in the right. He'll throw it straight, because he's already loaded the back hip and a hook wants it square. When it misses, his weight rolls over the front foot, and for one breath those ribs are naked.*
 
 "FURNACE HAMMER!" **[4]**
 
-He drove off his rear foot, slung his hips through, and the right fist came straight for her breastbone with a bellows-roar behind it. The air before his knuckles wavered like a road in August, and the brunt of the heat dried her eyes in their sockets. **[5]**
+He drove off his rear foot, slung his hips through with all the torsion in his thews, and the right fist came straight for her breastbone with a bellows-roar behind it. The air before his knuckles wavered like a road at high summer, and the brunt of the heat parched her eyes in their sockets. **[5]**
 
-She had gone on the name. She slid off her lead foot to his left, low, outside the arm, so quick that the wall saw two of her for an instant, the blue ghost still standing where she had been. The fist rent the air past her ear, seared her sleeve, and smote the stone coping of the well-head behind her. The coping spalled with a crack like a dropped plate, and shards spat hissing into the water. **[6]**
+She had gone on the name. She slid off her lead foot to his left, low, outside the arm, so lissom and so quick that the wall saw two of her for an instant, a lambent blue wraith still standing where she had been. The fist rent the air past her ear, seared her sleeve, and smote the stone coping of the well-head behind her. The coping spalled with a concussive crack, and shards spat hissing into the black water. **[6]**
 
-His hips had gone over with the blow. He could not haul them back in the beat she needed. She gathered her own coat into her right fist, arc-blue and scintillant, shot through with the bright fractured veins of Splintering, and the rest of her went to bare skin. **[7]**
+His hips had gone over with the impetus of the blow. He could not haul them back in the beat she needed. She gathered her own coat into her right fist, arc-blue and scintillant, filaments of brighter blue coruscating through the darker field where Splintering had cracked her, and the rest of her went to bare skin. **[7]**
 
 "ARC NAIL!"
 
-She planted her rear foot, screwed her hip into it, and drove a straight right into his lower left ribs, under the elbow he had left behind. The ribs staved in under her knuckles, two of them, a wet green-stick crunch she felt to the shoulder, and the current fulminated through him. Every muscle of his flank seized at once. The breath locked in his chest. He folded over her fist, one knee cracking onto the flagstone, mouth wide on no air at all. **[8]**
+She planted her rear foot, screwed her hip into it, and drove a straight right, all brawn and hip, into his lower left ribs under the elbow he had left behind. The ribs staved in under her knuckles, two of them, a wet green-stick crunch that jarred up to her shoulder, and the current fulminated through him with a crack like a whip. Every sinew of his flank seized at once. The breath locked in his chest. He folded over her fist, one knee juddering onto the flagstone, mouth agape on no air at all. **[8]**
 
-Nell stepped back. Her knuckles had split white to the bone. Her arm hung numb to the elbow, fizzing, and somewhere behind her breastbone a thin note rang, a tapped glass, and she knew precisely what it was. **[9]**
+Nell stepped back. Her knuckles had split white to the bone, and a gout of blood ran down between her fingers. Her arm hung numb to the elbow, fizzing with a thin susurrus she could hear inside the bone, and somewhere behind her breastbone a single note rang, a tapped glass, a knell she knew precisely. **[9]**
 
-Garrick got one breath, then a second, and lifted a palm off the stone.
+Garrick dragged in one rale-thick breath, then a second, and lifted a palm off the stone.
 
-Elder Hossack knocked his pipe out on the step. "Ashby," he said, "you'll want a healer. So will he. Ninth place to the hare."
+Elder Hossack knocked his pipe out on the step in a little shower of gledes. "Ashby," he said, "you'll want a healer. So will he. Ninth place to the hare."
 
 ## The annotations
 
@@ -56,7 +56,7 @@ That puts him on the first rung of the tell ladder (the body's fixed signs of a 
 - *Focus:* he gathers the whole coat into his right forearm and fist. A focused coat lifts one place a full Grade (a letter band on a stat's number, F through EX+) and drops everywhere else to the passive base.
 - *The gap:* his left flank is bare. His Fortitude (how well bone and joint take a blow) stands there at its sheet value, 240, B, with no coat over it.
 - *Why she can see it:* his Feint (the skill of hiding a movement, its noise and its aura spill) is 130, C. Her Perception (sensing threat and reading what is coming) is 190, B. One full Grade up wins a contest outright, so he cannot hide where his coat went from her. Judicium sharpens the same eye.
-- *Her thought:* she reasons from what she has seen, not from what she knows of his card. Fighters think a fight through at length, and the best of them are right.
+- *Her thought:* she reasons from what she has seen of him today, not from his registered card. Fighters think a fight through at length, and the best of them are right.
 
 **[4] The call.** Shouting a technique's name as it fires buys a surge within its Grade for the beat the shout takes. It is a layer on the stack (see [7]) and it is also the loudest tell in the fight. FURNACE HAMMER's own card gives its counter: the call costs a beat, the coat visibly drains from the off side as it gathers, and the hips commit so far that they cannot turn back for a beat.
 
@@ -80,7 +80,7 @@ That puts him on the first rung of the tell ladder (the body's fixed signs of a 
 - *The wound:* two lower left ribs broken, with the spleen beneath them. A healer is needed tonight, not tomorrow.
 
 **[9] Her price.**
-- *Reserve:* ARC NAIL and a second of focused coat cost her about 7%. She ends near 78%, with no rung of the tell ladder reached. He ends near 39%.
+- *Reserve:* ARC NAIL and a second of focused coat cost her about 7%. She ends near 80%, with no rung of the tell ladder reached. He ends near 39%.
 - *The body:* split knuckles, and a numb, fizzing arm where her own current ran back up it.
 - *The Crystal:* the ringing glass is the warning a stacked Crystal gives. A Splintering Crystal is already a cracked one, and two layers on it is the gamble veterans take. If it had cracked, she would carry the fracture until rest, alchemy or her next Stage healed it.
 - *Afterwards:* she won across a Stage with a read, at a visible price, and the whole school watched how. Next month Garrick will keep his left side covered, and she will need something new.
@@ -91,17 +91,17 @@ That puts him on the first rung of the tell ladder (the body's fixed signs of a 
 
 ### New figures set here
 
-- **Both fighters' sheets** are worked examples, set here. Garrick Vane matches *The Measures at a Glance* (Level 160, Stage VI, Flux 352 A, Fortitude 240 B, Celerity 210 B, Perception 120 C, Class I, η 0.62), with **Feint 130 (C)** added. Nell Ashby: **Level 128, Stage V, Flux 250 (B), Fortitude 200 (B), Reflex 230 (B), Perception 190 (B), η 0.64**. Her Level sits in Splintering's usual 101–150; her sub-stats sit under Stage V's allocation stop of 275; her pool at Level 128 is 3,120 (1,620 from Levels, 1,500 from Thresholds I to V).
+- **Both fighters' sheets** are worked examples, set here. Garrick Vane matches *The Measures at a Glance* (Level 160, Stage VI, Flux 352 A, Fortitude 240 B, Celerity 210 B, Perception 120 C, Class I, η 0.62), with **Feint 130 (C)** added. Nell Ashby: **Level 128, Stage V, Flux 250 (B), Fortitude 200 (B), Reflex 230 (B), Perception 190 (B), η 0.64**. Her Level sits in Splintering's usual 101-150; her sub-stats sit under Stage V's allocation stop of 275; her pool at Level 128 is 3,120 (1,620 from Levels, 1,500 from Thresholds I to V).
 - **Reserves:** law of reserves, log₁₀ EU = 3.4202 + 0.012812 × Level. Garrick, Level 160: 295,200 EU. Nell, Level 128: 114,900 EU. The page states shares only, never absolute EU or joules (see conflict 1).
 - **Drain prices on the cards:** spread coat ten minutes from full, focused coat five (the reinforcement draft's Adept figures, which it says cards set for themselves); FURNACE HAMMER 5% a firing; ARC NAIL with its focus about 7%. Both inside the Essence Ledger's "whole percents per exchange" (3 to 12.6% in its worked cases).
-- **Spend arithmetic:** time from full is to the tenth floor, so a working held for *t* of its *T* minutes spends 0.9 × *t*/*T* of the reserve. Garrick: 0.9 × 4/10 = 36%; 0.9 × 0.5/5 = 9%; plus 10% for two strikes; 55% spent, 45% left; the third strike and its focus bring him to about 39%. Nell: about a minute and a half of spread coat early (0.9 × 1.5/10 = 13.5%), so above 85%, then about 7% for the exchange, ending near 78%.
+- **Spend arithmetic:** time from full is to the tenth floor, so a working held for *t* of its *T* minutes spends 0.9 × *t*/*T* of the reserve. Garrick: 0.9 × 4/10 = 36%; 0.9 × 0.5/5 = 9%; plus 10% for two strikes; 55% spent, 45% left; the third strike and its focus bring him to about 39%. Nell: about a minute and a half of spread coat early (0.9 × 1.5/10 = 13.5%), so above 85%, then about 7% for the exchange, ending near 80%.
 - **The two techniques** (FURNACE HAMMER, ARC NAIL), the school, Elder Hossack, and "ninth place" are invented for the example. Each technique's phenomenon: FURNACE HAMMER, thermal shock (Exuroth's quench-and-temper law) on a focused blunt strike, the stone spalling as rapid surface heating cracks it; ARC NAIL, electrical injury and tetanic contraction on a short skin-to-rib path.
 
 ### Calls made
 
 - **"Stack layers"** is covered twice: the power-up stack of R78-10 at [5] and [7], and the three strata (Aether, Wellspring, Essence) at [8].
 - **The stat in use decides** (R78-10). The exchange shows three Grade contests: Perception against Feint (one up, the read), Reflex against Celerity (level, decided by the read), Flux against Fortitude (one up, the blow). The refused one, his focused Flux against her Fortitude, is two up.
-- **Nell's η** is the Tier of Standing's typical figure for Expert (0.60–0.70), because Stage V reads no Aether Class; see *The Measures at a Glance*, conflict 2.
+- **Nell's η** is the Tier of Standing's typical figure for Expert (0.60-0.70), because Stage V reads no Aether Class; see *The Measures at a Glance*, conflict 2.
 - **A focused coat counts as a stack layer and lifts one full Grade; the call is a surge within the band.** Both follow the stacking and reinforcement drafts.
 - **Form.** The task fixes this page as prose plus margin notes, so the five-section explainer shape is not applied.
 - **Prose rules kept:** past tense; blows as body, path, target, result, with feet and hips; English technique names shouted; aura in each fighter's Family colour at their Stage's clarity; no readouts or figures inside the fight; one POV; talk only in the pause.

@@ -82,7 +82,7 @@ def dress(rel: str, text: str) -> str:
     first = re.match(r"\s*#{1,6} +(.+?)\s*\n", body)  # the plate already carries the title
     if first and re.sub(r"\W", "", first.group(1)).lower() == re.sub(r"\W", "", title).lower():
         body = body[first.end():]
-    body = re.sub(r"(?m)^\|.*\|[ \t]*\n\|[ :|-]+\|[ \t]*\n\|.*\|[ \t]*(?:\n|$)(?!\|)", onerow, body)
+    body = re.sub(r"(?m)^\|.*\|[ \t]*\n\|[ :|-]+\|[ \t]*\n\|.*\|[ \t]*(?:\n(?![ \t]*\|)|\Z)", onerow, body)
     body = re.sub(r"(?m)(?:^>.*\n?)+", unquote, body)
     body = re.sub(r"!\[\[Assets/Diagrams/([\w-]+)\.svg\]\]",  # inline, so the art draws in the site's own fonts
                   lambda m: '\n\n<figure class="wotr-figure">' + re.sub(r"<svg ", '<svg class="wotr-diagram" role="img" ', (WIKI / f"Assets/Diagrams/{m.group(1)}.svg").read_text(encoding="utf-8"), count=1) + "</figure>\n\n", body)

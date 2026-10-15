@@ -1,16 +1,16 @@
 # Recurrence tracking — Kharven signature items across the archive
-_Run 2026-10-14_
+_Run 2026-10-15_
 
 
-63 scenes mention Kharven. Minimum two items per Kharven scene (R6-9-RECURRENCE_RULE); an item in half the scenes is a signature, an item in one is a stray, an item in none is dead weight.
+64 scenes mention Kharven. Minimum two items per Kharven scene (R6-9-RECURRENCE_RULE); an item in half the scenes is a signature, an item in one is a stray, an item in none is dead weight.
 
 | item | scenes carrying it | total mentions |
 |---|---|---|
-| the woodpile / how's your stack | 7 / 63 | 15 |
-| the night-stone | 12 / 63 | 27 |
-| wet wood | 8 / 63 | 13 |
-| the Thin Weeks | 13 / 63 | 36 |
-| the death-house / the Waiting | 11 / 63 | 23 |
+| the woodpile / how's your stack | 7 / 64 | 15 |
+| the night-stone | 12 / 64 | 27 |
+| wet wood | 8 / 64 | 13 |
+| the Thin Weeks | 13 / 64 | 36 |
+| the death-house / the Waiting | 11 / 64 | 23 |
 
 ## Per scene
 
@@ -48,6 +48,7 @@ _Run 2026-10-14_
 - temur_true_religion_alabaster.md: the night-stone  **← under the minimum**
 - the_fight_below_aetherion_academy.md: the death-house / the Waiting  **← under the minimum**
 - the_fourth_letter.md: the woodpile / how's your stack, the night-stone, the Thin Weeks
+- the_relics.md: none  **← under the minimum**
 - the_revolution_of_the_inner_world.md: the woodpile / how's your stack, the night-stone, the Thin Weeks
 - the_true_king_of_the_north_part_1.md: none  **← under the minimum**
 - the_true_king_of_the_north_part_10.md: none  **← under the minimum**

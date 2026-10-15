@@ -1,31 +1,43 @@
-# Nightly — 2026-10-14 03:30
+# Nightly — 2026-10-15 03:30
 
 ## Overnight
 
-Two scenes landed overnight, `lions_bane` and `the_last_quiet_room`. Neither has a verify FAIL, and both need `/judger` for the close.
-ChatGPT flags `lions_bane` as major under R77-2: the combat RP spells out how the summoning and Cleave work ("The room paid for the body of the summons..."; the glyph and magnetostriction lessons). Move those into the author notes and leave only the tells and the body's cost on the page. It also catches a past-tense RP line (R49-02) and ECHO's "three calls a day", where the card actually says "about three times its first strength".
-Kain's numbers couldn't be checked, because the lookup returns Azelra Kaine. `lions_bane` also names Kain, Judicium, Anamnesis, Vocatia, Animatria, Maelor and Fulguria with no page. Give Kain a roster entry before he gets a number. `the_last_quiet_room` has no unpaged names.
-Both scenes say the masked boy's duel was six days ago. Hiromi's card and TIMELINE row 143 say seven. I'd make it seven in both scenes during the close.
-The three judger queues are still sitting there (29, 21 and 43 proposals), and both books are still stuck at chapter 1 waiting on your approve or reject.
-Validate passes, the docket is empty and one conflict is open. The "new" and "cleared" findings are just CONTINUITY.md recounting itself (em dashes went from 276 to 290), so nothing really cleared.
-The sync pushed twice but logged two "export failed (exit 1)" lines, so it's worth a look if it keeps happening. The newest backup listed is dated 10-11.
+Seven scenes from the Hiromi and Kain arena bout landed. ChatGPT reviewed four and called all four major; the other three come tomorrow night.
+The common cause is that Kain has no card. `character("Kain")` and `fow_line("Kain")` return Azelra Kaine, and "Wyther" returns Silas Wytherm III, so nothing in the bout can be checked against Kain's numbers. I'd card Kain before closing any of these scenes.
+There's a second shared error. ECHO's "up to about three times its first strength" has been read as three calls in Judging Paw, House It Guards and Black Tortoise, so the "3 of 3" countdown and the Ledger line are wrong in all three. That needs one fix across all three scenes.
+Brink: the endless tie is Hiromi's reading, not a fact, so drop "never beaten in all the ages" as canon history.
+Black Tortoise: GRASP and WEIGHT reach arena-wide past their carded ~10 m with nothing to back it, and the barrier-post lamps were already out in House It Guards.
+Furniture: the Harvest misquotes GRASP (the card covers his own draws, not Kain's leakage). Hiromi also puts a hand down while the Loom still needs both of his.
+House It Guards: the doubled-force counter mixes dissipation, transmission and reflection. Pick one mechanism.
+I couldn't run scene_context and verify tonight because both were refused, so there are no FAIL lines or other unpaged names beyond Kain.
+Waiting on you: seven `/judger` closes, 93 Judger proposals across three older scenes, and both books stopped at chapter 1's gate.
+Validate passes, the docket is empty and one conflict is open. The only new finding is CONTINUITY.md's em-dash count going from 290 to 295, which nets to five more and clears nothing.
+Sync pushed seven times with no failures. The backup has stalled: the newest zip is from 10-11, four days old. Check the backup unit.
 
 ## Numbers
 
 - validate PASS
 - docket 0 outstanding
 - conflicts open 1
-- findings NEW 3 / CLEARED 3 / STILL OPEN 336
+- findings NEW 1 / CLEARED 1 / STILL OPEN 338
 
 ## Scenes archived since the last run
 
-- `lions_bane` — run `/judger lions_bane` for the close
-- `the_last_quiet_room` — run `/judger the_last_quiet_room` for the close
+- `hiromi_at_the_brink` — run `/judger hiromi_at_the_brink` for the close
+- `the_black_tortoise` — run `/judger the_black_tortoise` for the close
+- `the_furniture_and_the_house` — run `/judger the_furniture_and_the_house` for the close
+- `the_house_it_guards` — run `/judger the_house_it_guards` for the close
+- `the_judging_paw` — run `/judger the_judging_paw` for the close
+- `the_relics` — run `/judger the_relics` for the close
+- `the_shape_of_the_room` — run `/judger the_shape_of_the_room` for the close
 
 ## ChatGPT review
 
-- `lions_bane`: major: Move the summoning and Cleave mechanisms out of the combat RP and into author notes.  (reports/reviews/2026-10-14/lions_bane.md)
-- `the_last_quiet_room`: minor: Correct the duel-to-tournament interval from six days to seven.  (reports/reviews/2026-10-14/the_last_quiet_room.md)
+- `hiromi_at_the_brink`: major: Keep the tie as Hiromi’s fallible reading; the analogies do not establish an inevitable stalemate.  (reports/reviews/2026-10-15/hiromi_at_the_brink.md)
+- `the_black_tortoise`: major: Ground the shield’s complete interception and arena-wide suppression in card limits and a traceable adjudication.  (reports/reviews/2026-10-15/the_black_tortoise.md)
+- `the_furniture_and_the_house`: major: Replace the guaranteed, self-funding capture of Kain with a bounded GRASP application whose cost and contested outcome are established.  (reports/reviews/2026-10-15/the_furniture_and_the_house.md)
+- `the_house_it_guards`: major: Rebuild the doubled-force counter around one consistent mechanism; the scene alternately dissipates, transmits and reflects the same returned burden.  (reports/reviews/2026-10-15/the_house_it_guards.md)
+- 3 more wait for tomorrow night
 
 ## Judger queue (proposals awaiting Isaac)
 
@@ -42,20 +54,16 @@ The sync pushed twice but logged two "export failed (exit 1)" lines, so it's wor
 
 ## New findings since last night
 
-- [prose] CONTINUITY.md: em dashes: 290 (banned; AI-tells §1, R15-1-AI_TELL_CHECKS_SURVIVE)
-- [prose] CONTINUITY.md: flat runs: 51 stretches of three sentences within 40% of each other (R4-14-RUN_RULE)
-- [prose] CONTINUITY.md: sentences under 8 words: 8% of scene, floor is 18% (R4-14-HARD_CEILINGS)
+- [prose] CONTINUITY.md: em dashes: 295 (banned; AI-tells §1, R15-1-AI_TELL_CHECKS_SURVIVE)
 
 ## Cleared since last night
 
-- [prose] CONTINUITY.md: em dashes: 276 (banned; AI-tells §1, R15-1-AI_TELL_CHECKS_SURVIVE)
-- [prose] CONTINUITY.md: flat runs: 49 stretches of three sentences within 40% of each other (R4-14-RUN_RULE)
-- [prose] CONTINUITY.md: sentences under 8 words: 9% of scene, floor is 18% (R4-14-HARD_CEILINGS)
+- [prose] CONTINUITY.md: em dashes: 290 (banned; AI-tells §1, R15-1-AI_TELL_CHECKS_SURVIVE)
 
-## Still open: 336 (see reports/prose_pass.md, reports/reconcile.md; 29 files still carry Büri-register terms (178 hits) in all. Ruling 2026-09-12: Moto and Hataraki, not Ajiin. Governing forms in brackets.)
+## Still open: 338 (see reports/prose_pass.md, reports/reconcile.md; 29 files still carry Büri-register terms (178 hits) in all. Ruling 2026-09-12: Moto and Hataraki, not Ajiin. Governing forms in brackets.)
 
 ## The sync and the backup (last 26 h)
 
-- sync: 2 push(es), 16 quiet run(s), 2 failure line(s):  export failed (exit 1)
+- sync: 7 push(es), 16 quiet run(s), 0 failure line(s)
 - backup:  wrote /home/oridon/wotr-backups/wotr-2026-10-11.zip (34.6 MB, 1208 files)
-- last run of this digest: 2026-10-13T03:30:00
+- last run of this digest: 2026-10-14T03:30:00

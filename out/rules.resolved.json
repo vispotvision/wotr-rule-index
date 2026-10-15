@@ -5654,7 +5654,7 @@
       "file": "",
       "lines": null
     },
-    "notes": "Question w11: Humour belongs to characters, never to a setup-punchline rhythm. How often should a scene have a laugh in it? Stands; R70-122-MAY_CARRY_ONE (style law 2026-10-03) lets comic names reach recurring minor NPCs, villains and rivals, while major NPCs keep strict names.",
+    "notes": "Question w11: Humour belongs to characters, never to a setup-punchline rhythm. How often should a scene have a laugh in it? Stands; R70-122-MAY_CARRY_ONE (style law 2026-10-03) lets comic names reach recurring minor NPCs, villains and rivals, while major NPCs keep strict names. Amended 2026-10-14 by R78-8-VOICE_DIALOGUE_HUMOUR: anyone may be funny in their own way; anime gags come from the characters who play that way.",
     "superseded_by": []
   },
   {
@@ -8851,7 +8851,7 @@
       "file": "",
       "lines": null
     },
-    "notes": "Question n08: Two live rules disagree. R49-48 says technique names and their translations are free in narration. R20C-38 still says the gloss never appears in prose, the true name is spoken and never narrated, and ",
+    "notes": "Question n08: Two live rules disagree. R49-48 says technique names and their translations are free in narration. R20C-38 still says the gloss never appears in prose, the true name is spoken and never narrated, and Amended 2026-10-14 by R78-5-FIGHTS_ANIME_ON_PAGE: technique names on the page are English.",
     "superseded_by": []
   },
   {
@@ -8881,7 +8881,7 @@
       "file": "",
       "lines": null
     },
-    "notes": "Question n09: Does 'one release per scene' (a spoken art-name call, R20C-38) still hold?",
+    "notes": "Question n09: Does 'one release per scene' (a spoken art-name call, R20C-38) still hold? Amended 2026-10-14 by R78-5-FIGHTS_ANIME_ON_PAGE: techniques are shouted by name as they fire.",
     "superseded_by": []
   },
   {
@@ -11987,7 +11987,7 @@
       "file": "",
       "lines": null
     },
-    "notes": "Stands: R70-18-ARC_SHAPES (style law 2026-10-03) makes the Well delve a licensed arc, with Well-spawn as the threat at each deeper stage.",
+    "notes": "Stands: R70-18-ARC_SHAPES (style law 2026-10-03) makes the Well delve a licensed arc, with Well-spawn as the threat at each deeper stage. Amended 2026-10-14 by R78-7-CULTIVATION_AND_STORY: Well-spawn are Hollow-style, shaped by the Well that made them.",
     "superseded_by": []
   },
   {
@@ -12674,7 +12674,7 @@
       "file": "",
       "lines": null
     },
-    "notes": "Stands: R70-4-WESTERN_MODELS (style law 2026-10-03) adds Dickens and the Victorians as named prose models because they fit this look. Stands; R70-120-BUILT_COMIC_NAMES (style law 2026-10-03) hangs Dickensian talking surnames for Northern and Accord families on its Victorian imperial register.",
+    "notes": "Stands: R70-4-WESTERN_MODELS (style law 2026-10-03) adds Dickens and the Victorians as named prose models because they fit this look. Stands; R70-120-BUILT_COMIC_NAMES (style law 2026-10-03) hangs Dickensian talking surnames for Northern and Accord families on its Victorian imperial register. Amended 2026-10-14 by R78-4-WOTR_IDENTITY_TONE: the visual reference is now Arcane and Fullmetal Alchemist, the settings of Bleach and Naruto, Final Fantasy and Lord of the Mysteries together.",
     "superseded_by": []
   },
   {
@@ -16280,7 +16280,7 @@
       "file": "",
       "lines": null
     },
-    "notes": "",
+    "notes": "Amended 2026-10-14 by R78-4-WOTR_IDENTITY_TONE: cities are grand and lived-in with magitech everywhere; Victorian-Edwardian is one of four touchstones.",
     "superseded_by": []
   },
   {
@@ -23348,7 +23348,7 @@
       "file": "",
       "lines": null
     },
-    "notes": "K1. Supersedes the Western-flesh doctrine rows named in its own words (R5-A, R5-E, R11-1), as R70-7 also does; within those short ids only the doctrine rows are reached, and R5-A-SKELETON_UNCHANGED, R5-E-NARRATION_NEVER_ADJUDICATES, R5-E-ELEGIAC_REGISTER_ALLOWED, R5-E-FREE_INDIRECT_CARVEOUT and the R11-1 visual rows stand. Works with R70-3 (which strand leads which layer) and R70-21 (cadence set by the POV's culture).",
+    "notes": "K1. Supersedes the Western-flesh doctrine rows named in its own words (R5-A, R5-E, R11-1), as R70-7 also does; within those short ids only the doctrine rows are reached, and R5-A-SKELETON_UNCHANGED, R5-E-NARRATION_NEVER_ADJUDICATES, R5-E-ELEGIAC_REGISTER_ALLOWED, R5-E-FREE_INDIRECT_CARVEOUT and the R11-1 visual rows stand. Works with R70-3 (which strand leads which layer) and R70-21 (cadence set by the POV's culture). Amended 2026-10-14 by R78-4-WOTR_IDENTITY_TONE: the blend now leads with dark shonen and cultivation.",
     "superseded_by": []
   },
   {
@@ -23430,7 +23430,7 @@
       "file": "",
       "lines": null
     },
-    "notes": "Partly amends R48-33-CHOREOGRAPHY ('the move by its fencing name' now means the name in the POV's own school) and R13-6-HEMA_VOCAB (HEMA stays the vocabulary for Western-trained POVs). R13-4-COMBAT_FLOOR and R1-1-BLADE_GRAMMAR stand; the moves they trace are named in the POV's school. Works with R70-74-TECHNIQUE_NAME_LOOKS and R70-136-NEW_CHECKS_VERIFY_SCENE (verify --combat by school). Read with R71-53-BRAWLS_FOLK_SCHOOLS (combat law 2026-10-04): \"a POV raised in them names moves in them, and verify gains a list per culture\" A folk wrestling or fist trade counts as the POV's own training, so a POV raised in one names his moves in its words, and verify reads a list per culture beside the school lists; this rule stands.\n\nAmended by the 2026-10-08 direction indexed as R77-1-EUROPEAN_FENCING_ACTIONS: no HEMA or European fencing-manual jargon in any WOTR prose, including mouths. Describe the body, blade, timing and measure in plain words. Check 22 warns on that jargon instead of treating it as useful school vocabulary. Mechanics remain. Eastern terminology is explicitly unanswered in the source context.",
+    "notes": "Partly amends R48-33-CHOREOGRAPHY ('the move by its fencing name' now means the name in the POV's own school) and R13-6-HEMA_VOCAB (HEMA stays the vocabulary for Western-trained POVs). R13-4-COMBAT_FLOOR and R1-1-BLADE_GRAMMAR stand; the moves they trace are named in the POV's school. Works with R70-74-TECHNIQUE_NAME_LOOKS and R70-136-NEW_CHECKS_VERIFY_SCENE (verify --combat by school). Read with R71-53-BRAWLS_FOLK_SCHOOLS (combat law 2026-10-04): \"a POV raised in them names moves in them, and verify gains a list per culture\" A folk wrestling or fist trade counts as the POV's own training, so a POV raised in one names his moves in its words, and verify reads a list per culture beside the school lists; this rule stands.\n\nAmended by the 2026-10-08 direction indexed as R77-1-EUROPEAN_FENCING_ACTIONS: no HEMA or European fencing-manual jargon in any WOTR prose, including mouths. Describe the body, blade, timing and measure in plain words. Check 22 warns on that jargon instead of treating it as useful school vocabulary. Mechanics remain. Eastern terminology is explicitly unanswered in the source context. Amended 2026-10-14 by R78-5-FIGHTS_ANIME_ON_PAGE: the open question is answered: Eastern school terms are free in narration.",
     "superseded_by": []
   },
   {
@@ -23515,7 +23515,7 @@
     "pack_number": null,
     "section": "CB4",
     "title": "One full flashback per fight, the POV's own",
-    "status": "live",
+    "status": "superseded",
     "kind": "budget",
     "summary": "Once per fight the POV may freeze one turning exchange for a full flashback of his own, a page or more, and the opponent's past reaches the page only through what the POV knows.",
     "verbatim": "Full flashback, POV only. The POV may take a full flashback, a page or more, frozen inside one turning exchange, once per fight. The POV lock holds; the opponent's past reaches the page only through what the POV knows.",
@@ -23539,8 +23539,10 @@
       "file": "",
       "lines": null
     },
-    "notes": "Places R49-06-MEMORIES inside a fight: once per fight, at one turning exchange. R48-40-NPC_THOUGHTS and the POV lock stand, so no flashback runs inside the opponent. Never chosen for Isaac's PC unless his play takes it there (R49-01-WHOSE_HEAD).",
-    "superseded_by": []
+    "notes": "Places R49-06-MEMORIES inside a fight: once per fight, at one turning exchange. R48-40-NPC_THOUGHTS and the POV lock stand, so no flashback runs inside the opponent. Never chosen for Isaac's PC unless his play takes it there (R49-01-WHOSE_HEAD). Superseded 2026-10-14 by R78-5-FIGHTS_ANIME_ON_PAGE (Isaac's direction 2026-10-14, page-craft questionnaire).",
+    "superseded_by": [
+      "R78-5-FIGHTS_ANIME_ON_PAGE"
+    ]
   },
   {
     "id": "R70-104-RIVAL_BOND",
@@ -23894,7 +23896,7 @@
     "pack_number": null,
     "section": "HU1",
     "title": "Full comic beats for carded comic voices and double acts",
-    "status": "live",
+    "status": "superseded",
     "kind": "mandate",
     "summary": "Comic voices and double acts named as such on their cards may play full comic beats, retort and reaction included, while every other character stays under R5-D's bar on the setup, deadpan and reaction rhythm.",
     "verbatim": "Full beats for comic voices. Full comic beats, retort and reaction included, belong to comic voices and double acts named on their cards; everyone else stays under R5-D.",
@@ -23922,8 +23924,10 @@
       "file": "",
       "lines": null
     },
-    "notes": "R5-D-HUMOUR_BARRED stands for everyone not carded as a comic voice. Re-rules the comedic-beat tell of R5-G-TELL_BANK_ADDITIONS for carded comic voices and double acts only. Relaxes R52-31-COMIC_NPC's 'no setup-deadpan-reaction beat' for comic NPCs whose card names them a comic voice. Isaac's PC is never written into a beat (R49-01-WHOSE_HEAD), so R52-14-SODOKU_JOKE stands and the Yoko-against-Sodoku foil (R5-B-YOKO_SODOKU_SURVIVES) does not become a double act under this row.",
-    "superseded_by": []
+    "notes": "R5-D-HUMOUR_BARRED stands for everyone not carded as a comic voice. Re-rules the comedic-beat tell of R5-G-TELL_BANK_ADDITIONS for carded comic voices and double acts only. Relaxes R52-31-COMIC_NPC's 'no setup-deadpan-reaction beat' for comic NPCs whose card names them a comic voice. Isaac's PC is never written into a beat (R49-01-WHOSE_HEAD), so R52-14-SODOKU_JOKE stands and the Yoko-against-Sodoku foil (R5-B-YOKO_SODOKU_SURVIVES) does not become a double act under this row. Superseded 2026-10-14 by R78-8-VOICE_DIALOGUE_HUMOUR (Isaac's direction 2026-10-14, page-craft questionnaire).",
+    "superseded_by": [
+      "R78-8-VOICE_DIALOGUE_HUMOUR"
+    ]
   },
   {
     "id": "R70-114-GRIMDARK_WARMTH",
@@ -23954,7 +23958,7 @@
       "file": "",
       "lines": null
     },
-    "notes": "Bears on R11-1-TONAL_SPINE_UNCHANGED and R5-A-FLESH_CHANGES, whose status R70-1-BLEND_MODEL and R70-7-FAR_MOVE set. NATALIE.md's 'Hope is small and hard-won' gains the counterweight; victories still cost. A bond that involves Isaac's PC is his to play (R49-01-WHOSE_HEAD). Partly amended by R73-36-LOVERS_WARM_BOND (intimacy law 2026-10-04): a romance counts as a standing warm bond, but each live thread also keeps a warm bond that is not romantic, so a romance that dies, sours or turns to Obsession leaves warmth standing. Its 'written openly warm' and the rest of the row are not reached by this answer. Partly amended by R73-38-LOVE_MOURNED_OR_LIVED (intimacy law 2026-10-04): joy that 'may get scenes of its own' is owed to a bond before a loss may land on it, and a love that dies before the reader has seen it lived is a fault to fix. 'Losses still cost' stands. Partly amended by R74-37-BETRAYAL_TRUSTED (mystery law 2026-10-04): the standing warm bond each live thread carries never betrays by choice; anyone else may betray, with the signs shown twice before the turn. Losses still cost.",
+    "notes": "Bears on R11-1-TONAL_SPINE_UNCHANGED and R5-A-FLESH_CHANGES, whose status R70-1-BLEND_MODEL and R70-7-FAR_MOVE set. NATALIE.md's 'Hope is small and hard-won' gains the counterweight; victories still cost. A bond that involves Isaac's PC is his to play (R49-01-WHOSE_HEAD). Partly amended by R73-36-LOVERS_WARM_BOND (intimacy law 2026-10-04): a romance counts as a standing warm bond, but each live thread also keeps a warm bond that is not romantic, so a romance that dies, sours or turns to Obsession leaves warmth standing. Its 'written openly warm' and the rest of the row are not reached by this answer. Partly amended by R73-38-LOVE_MOURNED_OR_LIVED (intimacy law 2026-10-04): joy that 'may get scenes of its own' is owed to a bond before a loss may land on it, and a love that dies before the reader has seen it lived is a fault to fix. 'Losses still cost' stands. Partly amended by R74-37-BETRAYAL_TRUSTED (mystery law 2026-10-04): the standing warm bond each live thread carries never betrays by choice; anyone else may betray, with the signs shown twice before the turn. Losses still cost. Amended 2026-10-14 by R78-4-WOTR_IDENTITY_TONE: the warm-bond floor stands; WOTR is no longer framed as grimdark, and bonds mostly hold (R78-7).",
     "superseded_by": []
   },
   {
@@ -24949,7 +24953,7 @@
       "file": "",
       "lines": null
     },
-    "notes": "SP4. Extends R49-26-ENDINGS and gives R5-F-LIGHT_NOVEL_KEPT's hook at close a legal ending; R12-5-NEVER_INVENT_NUMBER binds readout closes. A turn still stops at Isaac's next decision. Not taken: the storyteller's next chapter. R70-64 adds a closing poem. Partly amended by R73-2-PAGE_OR_CUT (intimacy law 2026-10-04): 'Any sex that happens inside a scene is written explicitly, start to finish, with no cut and no fade'. The break-off before payoff may not cut away from sex inside a scene, written or played; the other closes, and the break-off for any other beat, stand.",
+    "notes": "SP4. Extends R49-26-ENDINGS and gives R5-F-LIGHT_NOVEL_KEPT's hook at close a legal ending; R12-5-NEVER_INVENT_NUMBER binds readout closes. A turn still stops at Isaac's next decision. Not taken: the storyteller's next chapter. R70-64 adds a closing poem. Partly amended by R73-2-PAGE_OR_CUT (intimacy law 2026-10-04): 'Any sex that happens inside a scene is written explicitly, start to finish, with no cut and no fade'. The break-off before payoff may not cut away from sex inside a scene, written or played; the other closes, and the break-off for any other beat, stand. Amended 2026-10-14 by R78-7-CULTIVATION_AND_STORY: hooks and cliffhangers are the default close for chapters and arcs.",
     "superseded_by": []
   },
   {
@@ -25066,7 +25070,7 @@
       "file": "",
       "lines": null
     },
-    "notes": "K2. Carries R49-47 and R51-16 further; R12-5-NEVER_INVENT_NUMBER binds every readout figure. Where the screens come from is R70-78 (LR22: read in the Soul Crystal); how readouts sit and sound is set by the LR rows (R70-80, R70-81, R70-83 and following).",
+    "notes": "K2. Carries R49-47 and R51-16 further; R12-5-NEVER_INVENT_NUMBER binds every readout figure. Where the screens come from is R70-78 (LR22: read in the Soul Crystal); how readouts sit and sound is set by the LR rows (R70-80, R70-81, R70-83 and following). Amended 2026-10-14 by R78-6-POWER_ANIME_ON_PAGE: readouts become fewer, Bleach style: only at a breakthrough, a re-assay that moves something or an arc end, never in a fight.",
     "superseded_by": []
   },
   {
@@ -26883,7 +26887,7 @@
       "file": "",
       "lines": null
     },
-    "notes": "Extends NATALIE's 'a Band gap changes weather' to lead every gap. R12-1-PACK_SEVEN_SURVIVORS (felt before seen), R9-3-AURA_AS_FRACTURE, R9-3-EYES_AS_TELL and R10-3-PROJECTED_FORM_LICENSE are not named and stand. Aimed Pressure is R70-70.",
+    "notes": "Extends NATALIE's 'a Band gap changes weather' to lead every gap. R12-1-PACK_SEVEN_SURVIVORS (felt before seen), R9-3-AURA_AS_FRACTURE, R9-3-EYES_AS_TELL and R10-3-PROJECTED_FORM_LICENSE are not named and stand. Aimed Pressure is R70-70. Amended 2026-10-14 by R78-6-POWER_ANIME_ON_PAGE: the practitioner also shows a visible aura in their own colour, alongside the room.",
     "superseded_by": []
   },
   {
@@ -27021,7 +27025,7 @@
       "file": "",
       "lines": null
     },
-    "notes": "Strikes R5-G-TELL_BANK_ADDITIONS's reaction-shot cutaway for crowds only (the same tell as R5-B-MANHWA_DIRECTIVE_REPEALED's reaction shots as characterisation), one of the tell-by-tell re-rulings R70-7 calls for; both rows stay live with notes, and R70-72 reaches no other case. The chorus stays inside the POV's hearing, so it is no cutaway under R49-09-CUTAWAYS; marked roll calls are R70-11. Sits with R53-18-AWE and R4-13-WHERE_SIGNIFICANCE_LIVES.",
+    "notes": "Strikes R5-G-TELL_BANK_ADDITIONS's reaction-shot cutaway for crowds only (the same tell as R5-B-MANHWA_DIRECTIVE_REPEALED's reaction shots as characterisation), one of the tell-by-tell re-rulings R70-7 calls for; both rows stay live with notes, and R70-72 reaches no other case. The chorus stays inside the POV's hearing, so it is no cutaway under R49-09-CUTAWAYS; marked roll calls are R70-11. Sits with R53-18-AWE and R4-13-WHERE_SIGNIFICANCE_LIVES. Amended 2026-10-14 by R78-8-VOICE_DIALOGUE_HUMOUR: the reaction is given to specific named people, each with their own words and body.",
     "superseded_by": []
   },
   {
@@ -27477,7 +27481,7 @@
       "file": "",
       "lines": null
     },
-    "notes": "Works with R70-89-BODY_FIRST_NUMBER_FIRST (body first, line after), R70-91-BREAKTHROUGH_PAGE (when the breakthrough line lands), R70-80-READOUT_SITS_PAGE (a breakthrough earns a set-off block), R70-86-MANY_READOUTS_SCENE_CARRIES (the per-scene cap) and R70-90-FAST_NUMBERS_CLIMB (each gain needs a shown cause). Every figure traces to the sheet (R12-5-NEVER_INVENT_NUMBER). No older rule is reached. Partly amended by R73-37-BOND_GROWS (intimacy law 2026-10-04): at the Stage IV, Flourishing breakthrough the readout also names its Catalyst, the first Spirit Axis, with no figure; no other bond prints. The four moments here stand. Partly amended by R75-5-TECHNIQUES_ON_CRYSTAL (techniques law 2026-10-04): 'Adds a fifth growth moment to R70-84'. The first time a Trait-permitted signature holds, one inline Crystal line names it, its Trait and its Grade; school arts never print. The four moments here stand.",
+    "notes": "Works with R70-89-BODY_FIRST_NUMBER_FIRST (body first, line after), R70-91-BREAKTHROUGH_PAGE (when the breakthrough line lands), R70-80-READOUT_SITS_PAGE (a breakthrough earns a set-off block), R70-86-MANY_READOUTS_SCENE_CARRIES (the per-scene cap) and R70-90-FAST_NUMBERS_CLIMB (each gain needs a shown cause). Every figure traces to the sheet (R12-5-NEVER_INVENT_NUMBER). No older rule is reached. Partly amended by R73-37-BOND_GROWS (intimacy law 2026-10-04): at the Stage IV, Flourishing breakthrough the readout also names its Catalyst, the first Spirit Axis, with no figure; no other bond prints. The four moments here stand. Partly amended by R75-5-TECHNIQUES_ON_CRYSTAL (techniques law 2026-10-04): 'Adds a fifth growth moment to R70-84'. The first time a Trait-permitted signature holds, one inline Crystal line names it, its Trait and its Grade; school arts never print. The four moments here stand. Amended 2026-10-14 by R78-6-POWER_ANIME_ON_PAGE: growth readouts only at breakthroughs, re-assays and arc ends.",
     "superseded_by": []
   },
   {
@@ -27510,7 +27514,7 @@
       "file": "",
       "lines": null
     },
-    "notes": "Pressure was not taken, so R53-14-FOLK_KNOWLEDGE's 'Pressure is felt as dread' stays how Pressure reaches the page. The reserve line makes R60-03-HARD_RESERVE_CLOCK visible without changing it. Gives R48-16-REAL_FIGURES a set form at these three moments; R70-86-MANY_READOUTS_SCENE_CARRIES caps them. The wound line is a surgeon's, not the Crystal's, which is blind to wounds (R70-78-WHERE_SCREEN_COMES_FROM). An appraisal by 'a faculty' sits beside R70-79-CAN_READ_WHOM ('Another's exact figures need an instrument'; LR2's faculty option was not taken); whether a faculty appraisal may print exact figures is not settled here and is flagged for the conflict log.",
+    "notes": "Pressure was not taken, so R53-14-FOLK_KNOWLEDGE's 'Pressure is felt as dread' stays how Pressure reaches the page. The reserve line makes R60-03-HARD_RESERVE_CLOCK visible without changing it. Gives R48-16-REAL_FIGURES a set form at these three moments; R70-86-MANY_READOUTS_SCENE_CARRIES caps them. The wound line is a surgeon's, not the Crystal's, which is blind to wounds (R70-78-WHERE_SCREEN_COMES_FROM). An appraisal by 'a faculty' sits beside R70-79-CAN_READ_WHOM ('Another's exact figures need an instrument'; LR2's faculty option was not taken); whether a faculty appraisal may print exact figures is not settled here and is flagged for the conflict log. Amended 2026-10-14 by R78-6-POWER_ANIME_ON_PAGE: no in-scene readouts in a fight; appraisal and diagnosis go to diagnostic talk and the notes.",
     "superseded_by": []
   },
   {
@@ -27542,7 +27546,7 @@
       "file": "",
       "lines": null
     },
-    "notes": "Rides R48-20-STRATA's display-and-finisher rhythm and adds the aftermath. Counts the readouts of R70-84-GROWTH_MOMENTS_THAT_EARN and R70-85-SCENE_MOMENTS_THAT_EARN. The cap names readouts; R48-16-REAL_FIGURES's figures in a mouth are not named by it. Read with R71-81-FORENSIC_READING_PAGE (combat law 2026-10-04): in a forensic reading, figures read aloud in a mouth at every stand sit 'outside R70-86's cap', as this row's own note already reads it (the cap names readouts, not figures in a mouth). The cap stands unchanged.",
+    "notes": "Rides R48-20-STRATA's display-and-finisher rhythm and adds the aftermath. Counts the readouts of R70-84-GROWTH_MOMENTS_THAT_EARN and R70-85-SCENE_MOMENTS_THAT_EARN. The cap names readouts; R48-16-REAL_FIGURES's figures in a mouth are not named by it. Read with R71-81-FORENSIC_READING_PAGE (combat law 2026-10-04): in a forensic reading, figures read aloud in a mouth at every stand sit 'outside R70-86's cap', as this row's own note already reads it (the cap names readouts, not figures in a mouth). The cap stands unchanged. Amended 2026-10-14 by R78-6-POWER_ANIME_ON_PAGE: fewer readouts; none inside a fight.",
     "superseded_by": []
   },
   {
@@ -27757,7 +27761,7 @@
       "file": "",
       "lines": null
     },
-    "notes": "'R9-3's splash beat goes to the crisis': R9-3-BODY_UNDER_LOAD stays live, its one splash-panel beat placed in the Catalyst crisis at a breakthrough (R70-73-MANY_DISPLAY_BEATS_PER also reaches display beats per scene). R9-3-SCOPE still lists Stage ascension and R9-3-EYES_AS_TELL is untouched. The world-scale option (the bill at scale) was not taken; R53-17-THE_BILL still applies to any working on a main. '(LR11)' is R70-88-NUMBERS_INSIDE_FIGHT. Confirmation follows at a public re-assay (R70-92-CONFIRMING_NEW_STAGE).",
+    "notes": "'R9-3's splash beat goes to the crisis': R9-3-BODY_UNDER_LOAD stays live, its one splash-panel beat placed in the Catalyst crisis at a breakthrough (R70-73-MANY_DISPLAY_BEATS_PER also reaches display beats per scene). R9-3-SCOPE still lists Stage ascension and R9-3-EYES_AS_TELL is untouched. The world-scale option (the bill at scale) was not taken; R53-17-THE_BILL still applies to any working on a main. '(LR11)' is R70-88-NUMBERS_INSIDE_FIGHT. Confirmation follows at a public re-assay (R70-92-CONFIRMING_NEW_STAGE). Amended 2026-10-14 by R78-7-CULTIVATION_AND_STORY: crisis is one road; seclusion and tribulation are the others; a breakthrough in crisis still lands as written here.",
     "superseded_by": []
   },
   {
@@ -35482,7 +35486,7 @@
       "file": "",
       "lines": null
     },
-    "notes": "HO9. Partly re-rules R5-G-TELL_BANK_ADDITIONS's reaction-shot cutaway, the tell that R5-B-MANHWA_DIRECTIVE_REPEALED lists as reaction shots as characterisation, for one horror witness a scene; both stay live with notes, and the tell stands everywhere else. Sits beside R70-72-WATCHING_CROWD_POWER_REVEAL (struck for crowds at a reveal), which stands; R70-69-PRESSURE_AURA's room-first order stands. Option C (the room as the face) was not taken. ME3's option D (a WARN on more than one face before the thing) was not taken, so verify_scene does not count it (R74-45-MYSTERY_CHECKS_VERIFY).",
+    "notes": "HO9. Partly re-rules R5-G-TELL_BANK_ADDITIONS's reaction-shot cutaway, the tell that R5-B-MANHWA_DIRECTIVE_REPEALED lists as reaction shots as characterisation, for one horror witness a scene; both stay live with notes, and the tell stands everywhere else. Sits beside R70-72-WATCHING_CROWD_POWER_REVEAL (struck for crowds at a reveal), which stands; R70-69-PRESSURE_AURA's room-first order stands. Option C (the room as the face) was not taken. ME3's option D (a WARN on more than one face before the thing) was not taken, so verify_scene does not count it (R74-45-MYSTERY_CHECKS_VERIFY). Amended 2026-10-14 by R78-8-VOICE_DIALOGUE_HUMOUR: reactions to big power by named people are legal outside horror.",
     "superseded_by": []
   },
   {
@@ -36223,7 +36227,7 @@
       "file": "",
       "lines": null
     },
-    "notes": "TE5, option B, which builds on A. Option A reads: Capped at its Grade. A vow lifts delivered output up to the top of the technique's own Grade band, never across it; where inside the band is set on the card. A release call stacks on top. Partly amends R71-32-VOWS_LIMITS: a vow still raises output through Attraction Force by a figure set on the card, and that figure is now bounded by the technique's Grade band, or by one full Grade for a great vow. The Grades are canon's table (Hollow to EX+), so no figure is invented (R12-5-NEVER_INVENT_NUMBER). The release call is R8-24-RELEASE_MECHANIC's, which stands. R39-4-MAX_GRADE_LETTER_BINDS (the Sub-Stat Grade cap) stands. What a great vow stakes and what breaking it costs is R75-13-WHAT_ELSE_VOW_MAY_BE.",
+    "notes": "TE5, option B, which builds on A. Option A reads: Capped at its Grade. A vow lifts delivered output up to the top of the technique's own Grade band, never across it; where inside the band is set on the card. A release call stacks on top. Partly amends R71-32-VOWS_LIMITS: a vow still raises output through Attraction Force by a figure set on the card, and that figure is now bounded by the technique's Grade band, or by one full Grade for a great vow. The Grades are canon's table (Hollow to EX+), so no figure is invented (R12-5-NEVER_INVENT_NUMBER). The release call is R8-24-RELEASE_MECHANIC's, which stands. R39-4-MAX_GRADE_LETTER_BINDS (the Sub-Stat Grade cap) stands. What a great vow stakes and what breaking it costs is R75-13-WHAT_ELSE_VOW_MAY_BE. Amended 2026-10-14 by R78-6-POWER_ANIME_ON_PAGE: vows and conditions are common and central.",
     "superseded_by": []
   },
   {
@@ -37980,7 +37984,7 @@
       "register"
     ],
     "verification": [],
-    "notes": "Exact RULINGS.md paragraph under 2026-10-11 — R51-13-WORD_STOCK, applied to the index 2026-10-13 (it had stayed out of rules/, so load_rules kept serving R51-13's 'by ear: whatever the sentence needs'). Supersedes R51-13. Revives the elevated bank that R57-31 had superseded whole: R51-12's list less numinous (R57-31, WOTR sense only) and eldritch (cosmic stock, R74-45). The widened bank is desktop/style-bank/elevated-words.md. R51-11 collisions and the hard-ban lists stand.",
+    "notes": "Exact RULINGS.md paragraph under 2026-10-11 — R51-13-WORD_STOCK, applied to the index 2026-10-13 (it had stayed out of rules/, so load_rules kept serving R51-13's 'by ear: whatever the sentence needs'). Supersedes R51-13. Revives the elevated bank that R57-31 had superseded whole: R51-12's list less numinous (R57-31, WOTR sense only) and eldritch (cosmic stock, R74-45). The widened bank is desktop/style-bank/elevated-words.md. R51-11 collisions and the hard-ban lists stand. Amended 2026-10-14 by R78-3-PHYSICAL_AND_SATURATED: density saturated, stacking allowed, English of every root, POV reach picks which words.",
     "superseded_by": []
   },
   {
@@ -38018,7 +38022,249 @@
       "worldbuilding"
     ],
     "verification": [],
-    "notes": "Closes C-158. Lifts R11-C's 2026-09-12 'nothing post-1900' for ideas only; R53-01 (technology span) and R53-03 (firearms) still govern hardware, and R49-45 already exempts science words from timeless narration. Medicine practised on the page stays era-appropriate by place (its own row); the notes may use modern clinical science as they already do.",
+    "notes": "Closes C-158. Lifts R11-C's 2026-09-12 'nothing post-1900' for ideas only; R53-01 (technology span) and R53-03 (firearms) still govern hardware, and R49-45 already exempts science words from timeless narration. Medicine practised on the page stays era-appropriate by place (its own row); the notes may use modern clinical science as they already do. Amended 2026-10-14 by R78-3-PHYSICAL_AND_SATURATED: modern science words are legal in narration as elevated vocabulary.",
+    "superseded_by": []
+  },
+  {
+    "pack": "Directions 2026-10-14",
+    "pack_number": null,
+    "status": "live",
+    "supersedes": [],
+    "ratified": "Isaac, 2026-10-14, Claude Code chat: direction, scope answered by questionnaire",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "id": "R78-3-PHYSICAL_AND_SATURATED",
+    "section": "R78-1-VOCABULARY_PUSHED_HIGH",
+    "title": "Physical clarity and saturated English vocabulary",
+    "kind": "mandate",
+    "summary": "Blows written as body, path, target, result with plain strike names, never the line/measure/tempo/vector/geometry/the read; elevated English of every root in nearly every narration sentence, stackable, fights included; elevated verbs, plain body parts; workings shown physically then named in system and science terms freely; Latin-heavy diction only for characters who speak it.",
+    "verbatim": "Isaac's direction 2026-10-14, by questionnaire (imports/drafts/vocab-clarity-questionnaire/): physical clarity and saturated vocabulary. A blow is written as body, path, target, result: what moved, the way it travelled, where it landed, what broke; every blow that lands carries its feet, hips or weight in a clause. Narration never uses fight abstractions (the line, measure, tempo, vector, geometry, the read); it says what the fist, foot, blade or body did, in plain action words an anime reader knows (\"he came forward swinging his right hand in a jab\"), and strike names such as jab, hook, uppercut and headlock are allowed. Elevated words saturate narration, nearly every sentence, fights included, and may be stacked on one noun. Elevated verbs carry the hit (cleave, stave, rend, transfix); body parts stay plain words (collarbone, jaw, ribs). A working is shown as its physical effect, then its system and scientific terms where they apply; system terms (Aether, Density, Saturation, Coherence) are free in narration, and science words, modern ones included, count as elevated vocabulary in narration. The vocabulary is sophisticated English of every root, old, archaic, learned and technical, never a Latin-only lean; Latin-heavy diction belongs to the characters whose card or culture speaks it. Enforced by verify_scene WARNs (fight abstraction in narration; under half of narration sentences carrying a bank word) and by the elevated bank's new fight, old-English and workings sections.",
+    "amends": [
+      {
+        "guide": "NATALIE.md and the wotr-write skill",
+        "locus": "Vocabulary and diction",
+        "operation": "replaces"
+      }
+    ],
+    "applies_to": [
+      "prose-law",
+      "register",
+      "combat",
+      "magic-mechanism"
+    ],
+    "verification": [],
+    "notes": "Amends R78-1 (several-a-page density, one-per-phrase guard, Latinate lean; POV reach now picks which words, not how many), R78-2 (modern science words legal in narration; a commoner's own speech and thought keep their words), and R13-6 anatomy vocabulary for narration (plain part names). R77-1 stands and is widened: fight abstractions join the European jargon as WARNs (build/verify.py, test build/test_r78_3.py). Bank: desktop/style-bank/elevated-words.md gains Striking, Old and high English, Workings seen. Agent call under R72-2, Isaac may overturn: Hild and Sodoku saturate too, in short concrete English.",
+    "superseded_by": []
+  },
+  {
+    "pack": "Directions 2026-10-14",
+    "pack_number": null,
+    "status": "live",
+    "supersedes": [],
+    "ratified": "Isaac, 2026-10-14, Claude Code chat: direction, scope answered by questionnaire",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "id": "R78-4-WOTR_IDENTITY_TONE",
+    "section": "page-craft-questionnaire",
+    "title": "What WOTR is: dark shonen cultivation, magitech, its own beauty",
+    "kind": "mandate",
+    "summary": "WOTR is a dark shonen cultivation fantasy in a magitech world: dark stakes, shonen heart, frequent wins at a price, cruelty only when earned; Arcane/FMA, Bleach and Naruto settings, Final Fantasy and LotM looks; magitech everywhere in cities; a beautiful, fantastical land; not muted, not driven home as grimdark.",
+    "verbatim": "Isaac's direction 2026-10-14, by questionnaire (imports/drafts/page-craft-questionnaire/, round 2 batches 1 and 4): what WOTR is. WOTR is a dark shonen fantasy with cultivation at its core, in a magitech, magipunk world where things run off magic; it is its own thing and is not driven home as grimdark. Dark stakes, shonen heart: the world is brutal and costs are real, and people fight back with will, bonds and growth and can win. The protagonists win often, each win at a visible price, and some arcs end in loss. Cruelty comes when the story earns it, at turning points, written in full; the world is dangerous, never grinding every page. The look draws on Arcane and Fullmetal Alchemist, the settings of Bleach and Naruto, Final Fantasy, and Lord of the Mysteries together. The land is wildly fantastical and earthlike at once, beautiful throughout, and its own. Magitech is everywhere in the cities (lights, heat, water, transport) and thins in the towns and the wilds. Cities are grand and lived-in: breathtaking skylines and craft over real streets, smells and poor quarters. The palette is not muted or grey; WOTR has its own beautiful design.",
+    "amends": [
+      {
+        "guide": "NATALIE.md and the wotr-write skill",
+        "locus": "Who Natalie is; the magic frame; prose standards",
+        "operation": "replaces"
+      }
+    ],
+    "applies_to": [
+      "prose-law",
+      "worldbuilding",
+      "scene-structure",
+      "register"
+    ],
+    "verification": [],
+    "notes": "Amends R53-28 (visual reference widened to four touchstones), R59-07 (cities grand and lived-in, beyond Victorian-Edwardian), R70-1 (the anime and cultivation models join the blend), R70-114 (the warm-bond floor stands; its 'grimdark' frame does not). Agent call under R72-2, Isaac may overturn: the 2026-09-12 Draw Age ruling 'draw is guild-licence only (commoners burn oil)' narrows to private drawing; a city's public magitech runs on licensed district mains that commoners live by, and the towns and wilds burn oil.",
+    "superseded_by": []
+  },
+  {
+    "pack": "Directions 2026-10-14",
+    "pack_number": null,
+    "status": "live",
+    "supersedes": [
+      "R70-103-MEMORY_INSIDE_FIGHT"
+    ],
+    "ratified": "Isaac, 2026-10-14, Claude Code chat: direction, scope answered by questionnaire",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "id": "R78-5-FIGHTS_ANIME_ON_PAGE",
+    "section": "page-craft-questionnaire",
+    "title": "Fights on the page: shouted English names, afterimages, geysers, free flashbacks",
+    "kind": "mandate",
+    "summary": "Eastern school terms free in narration; techniques shouted in English; afterimages for speed; battles as bodies, fog of war, spectacle strikes, joined vignettes; full plain-word anatomy, anime blood, wounds shrugged off then felt, small hits add up; Hunter x Hunter reasoning; free flashbacks; talk at the pauses; one POV per stretch; will counts through vow, Resonance or breakthrough.",
+    "verbatim": "Isaac's direction 2026-10-14, by questionnaire (imports/drafts/page-craft-questionnaire/, round 1 batches 1 to 3, round 2 batch 3, round 3 batches 1 and 2): fights on the page. Eastern school terms (kamae, maai, chudan, qinggong, dantian) are free in narration as anime flavour. A technique's name is shouted as it fires, anime style, and the name is in English. A move too fast for the eye shows as afterimages. Formations are written as bodies only, the POV knows only what they can see, a high-Stage strike on massed troops is anime spectacle with the bodies in it, and a battle runs as close vignettes joined by the battle's turn. An open wound shows its anatomy in plain words; blood sprays in anime geysers; a fighter shrugs a wound off in the moment and the pain arrives after; every small hit is noted and they add up. A fighter thinks the fight through at length, Hunter x Hunter style. Flashbacks run freely mid-fight, Naruto style, the opponent's included. Fighters talk at the pauses between exchanges, taunts and declarations, and go quiet while the blades move. A fight stays in one head and switches POV only at a marked break. Will changes outcomes through the system: a vow, a Resonance or a breakthrough turns resolve into power the stats can feel, never a free win.",
+    "amends": [
+      {
+        "guide": "NATALIE.md and the wotr-write skill",
+        "locus": "Who Natalie is; the magic frame; prose standards",
+        "operation": "replaces"
+      }
+    ],
+    "applies_to": [
+      "prose-law",
+      "combat",
+      "mass-combat",
+      "pov",
+      "naming"
+    ],
+    "verification": [],
+    "notes": "Supersedes R70-103 (one flashback per fight, the POV's own). Amends R70-100 (its open question answered: Eastern terms are free, unlike the English abstractions R78-3 bans), R8-21 and R50-08 (the name on the page and in the shout is English), R8-24 and R50-09 (the release call is the shouted name, every firing). Agent calls under R72-2, Isaac may overturn: a card may keep a culture-tongue true name beside its English one, in the card and notes; the shrug-off never writes Isaac's PC's pain or reaction, which stay his (R71-6, R72-6, R73-19); in Isaac's PC's fights the Hunter x Hunter reasoning is the NPC's, built only from tells shown, and never hands the PC's mechanism (R77-2, R71-23 stand).",
+    "superseded_by": []
+  },
+  {
+    "pack": "Directions 2026-10-14",
+    "pack_number": null,
+    "status": "live",
+    "supersedes": [
+      "R9-3-AURA_AS_FRACTURE"
+    ],
+    "ratified": "Isaac, 2026-10-14, Claude Code chat: direction, scope answered by questionnaire",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "id": "R78-6-POWER_ANIME_ON_PAGE",
+    "section": "page-craft-questionnaire",
+    "title": "Power on the page: coloured auras, transformations, open sensing, vows, releases",
+    "kind": "mandate",
+    "summary": "Qi cultivation with Hunter x Hunter, Dragon Ball, Bleach and Naruto ideas: a personal coloured aura, full transformation power-ups, Stage-scaled damage shown, a signature sound per technique with anime flair, open sensing and talk of strength, vows central, held power revealed on planted hints, upsets across one Stage with a read, named staged release forms, and fewer readouts.",
+    "verbatim": "Isaac's direction 2026-10-14, by questionnaire (imports/drafts/page-craft-questionnaire/, round 1 batch 4, round 2 batch 5, round 3 batches 2 and 3): power on the page. WOTR's system is a mixture of qi cultivation and the ideas of Hunter x Hunter, Dragon Ball, Bleach and Naruto, and that shows in how power reads. Each practitioner's power has a visible aura in their own colour and feel, brighter as they push. A power-up or breakthrough is full transformation spectacle: the body and the world change visibly. Damage to the surroundings scales with Stage and is shown. Every technique has its own signature sound, with anime flair. Practitioners sense each other's strength and talk about it openly, Bleach and Dragon Ball style. Self-imposed vows and conditions that buy power are common and central, and reading an enemy's condition is half the fight. Strong fighters hold power back for a reason and reveal it at the right moment, with planted hints. A lower-Stage fighter can beat a higher one across one Stage with a read; two or more takes something extraordinary, a vow or a breakthrough. Many practitioners have named, staged release forms tied to the system, each with a name, a look and a cost. Status screens and readouts become fewer, Bleach style: numbers live in the notes and diagnostic talk.",
+    "amends": [
+      {
+        "guide": "NATALIE.md and the wotr-write skill",
+        "locus": "Who Natalie is; the magic frame; prose standards",
+        "operation": "replaces"
+      }
+    ],
+    "applies_to": [
+      "magic-mechanism",
+      "magic-design",
+      "combat",
+      "stats",
+      "prose-law"
+    ],
+    "verification": [],
+    "notes": "Supersedes R9-3 (aura as fracture, 'it glowed' banned): a person's aura is their own colour and may glow; shard-edged geometry survives as one person's look where a card gives it. Amends R70-69 (the aura shows on the person with the room), R70-2, R70-84, R70-85, R70-86 (readouts only at a breakthrough, a re-assay that moves something or an arc's end, never in a fight; the verify_scene cap is unchanged until build/verify.py is free of another session's open edit), R75-12 (vows central). Owed: the release-form system (names, looks, costs, Stage and Trait gates), drafted by ChatGPT under the standing split and checked here; until it lands, no release form is invented on the page except inside its card.",
+    "superseded_by": []
+  },
+  {
+    "pack": "Directions 2026-10-14",
+    "pack_number": null,
+    "status": "live",
+    "supersedes": [],
+    "ratified": "Isaac, 2026-10-14, Claude Code chat: direction, scope answered by questionnaire",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "id": "R78-7-CULTIVATION_AND_STORY",
+    "section": "page-craft-questionnaire",
+    "title": "Cultivation and story: three roads to breakthrough, sects, Aizen-shaped arcs, crews",
+    "kind": "mandate",
+    "summary": "Breakthroughs by crisis, seclusion or tribulation; resources drive plot; xianxia ranks in WOTR institutions; real young masters; tournament, training, rescue and war arcs under one main villain revealed in stages with ranked lieutenants; understandable villains; rival to ally; mentors may die; bonds mostly hold; a core crew; the dead stay dead save rare costly returns; romance central; time skips; cliffhanger endings; Hollow-style Well-spawn; POV-eye fanservice.",
+    "verbatim": "Isaac's direction 2026-10-14, by questionnaire (imports/drafts/page-craft-questionnaire/, round 2 batches 2, 3, 6 and 8, round 3 batches 2 and 3): cultivation and story. Stage breakthroughs come by crisis, seclusion or tribulation, a mixture of all three. Cultivation resources (Drafts, Cores, treasures) are a real driver of plot. Sects, schools and academies run on xianxia ranks (outer and inner disciples, elders, ranking contests) inside WOTR's own institutions. The arrogant young master and his humbling are used, written as real people with real wants. WOTR runs tournament, training, rescue and invasion, and war arcs, under a Bleach or Dragon Ball shape: one main villain with many people working for him, Aizen or Yhwach, felt early and revealed in stages, over an elite ranked circle of lieutenants each with a power, a look, a philosophy and a fight that matters. Villains are understandable, some arguably right. The rival goes from rival to reluctant ally. Mentors: some die, some do not. Bonds mostly hold and are tested hard. The protagonist runs with a core crew, each with a role. The dead stay dead, with rare costly exceptions. Romance short of the explicit is central to many threads. Time skips run between big arcs. Chapters and arcs end on hooks and cliffhangers. Well-spawn are Hollow-style, shaped by the Well that made them. Fanservice outside explicit scenes comes only from what the POV notices.",
+    "amends": [
+      {
+        "guide": "NATALIE.md and the wotr-write skill",
+        "locus": "Who Natalie is; the magic frame; prose standards",
+        "operation": "replaces"
+      }
+    ],
+    "applies_to": [
+      "scene-structure",
+      "worldbuilding",
+      "magic-design",
+      "stats",
+      "prose-law"
+    ],
+    "verification": [],
+    "notes": "Amends R70-91 (crisis is one road; seclusion and tribulation are others, and a breakthrough in crisis still lands as R70-91 says), R70-17 (hook and cliffhanger now the default close), R53-06 (Well-spawn take a Hollow-style design from their Well), R70-114. Agent call under R72-2, Isaac may overturn: a rare return from death never runs by full resurrection on paper (R61-56 stands); it is costly and Codex-backed, a revenant or a stalled Crossing.",
+    "superseded_by": []
+  },
+  {
+    "pack": "Directions 2026-10-14",
+    "pack_number": null,
+    "status": "live",
+    "supersedes": [
+      "R70-113-DOUBLE_ACT_COMIC_BEAT",
+      "R5-D-HUMOUR_BARRED"
+    ],
+    "ratified": "Isaac, 2026-10-14, Claude Code chat: direction, scope answered by questionnaire",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "id": "R78-8-VOICE_DIALOGUE_HUMOUR",
+    "section": "page-craft-questionnaire",
+    "title": "Voice, dialogue and humour: big emotion, phonetic accents, anime gags from the right mouths",
+    "kind": "mandate",
+    "summary": "Thought woven through action; emotions anime-big; full phonetic accents; soldiers' swearing; plentiful mixed banter; action-beat tags; each culture's address; earned explanations and big lines; anyone funny in their own way, anime gags from the characters who do that; named people react to power; one italic thought per NPC a scene.",
+    "verbatim": "Isaac's direction 2026-10-14, by questionnaire (imports/drafts/page-craft-questionnaire/, round 1 batches 5 to 7, round 2 batch 7, round 3 batch 1): voice, dialogue and humour. Thought, memory and feeling are woven steadily through the action. Emotions play anime-big throughout. Accents are written in full phonetic spelling. People swear like real soldiers and thugs, in English and their culture's oaths; nobles and priests barely. Banter is plentiful, a mixture of anime style with ribbing and jokes, because WOTR is its own thing. Dialogue tags are action beats, with said when needed. People address each other in their culture's own forms. A character explains a power aloud only from what they could know. Declarations, battle cries and villain speeches land at the moments that carry them, in each speaker's voice; catchphrases only where a card gives one. Anyone may be funny in their own way, and anime gags come from the characters who actually do that sort of thing, Borin and his kind. Banter and ribbing, anime reactions, dry and gallows wit, and crude and bawdy humour all fit. Big power draws reactions from specific named people in the crowd. NPCs keep one italic thought each per scene.",
+    "amends": [
+      {
+        "guide": "NATALIE.md and the wotr-write skill",
+        "locus": "Who Natalie is; the magic frame; prose standards",
+        "operation": "replaces"
+      }
+    ],
+    "applies_to": [
+      "dialogue",
+      "register",
+      "prose-law",
+      "pov"
+    ],
+    "verification": [],
+    "notes": "Supersedes R70-113 and R5-D-HUMOUR_BARRED (the setup, deadpan and reaction rhythm is legal for the characters who play that way; R5-D-HUMOUR_PERMITTED stands). Amends R70-72 and R74-34 (a power reveal's reaction is given to named people with their own words and body; the horror-witness allowance stands), R48-11. Restates R49-37 and R51-27 (full phonetic accents). Agent call under R72-2, Isaac may overturn: 'anime-big' emotion still never writes Isaac's PC's feeling (R72-6).",
+    "superseded_by": []
+  },
+  {
+    "pack": "Directions 2026-10-14",
+    "pack_number": null,
+    "status": "live",
+    "supersedes": [],
+    "ratified": "Isaac, 2026-10-14, Claude Code chat: direction, scope answered by questionnaire",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "id": "R78-9-SYSTEM_TOUCHUPS",
+    "section": "system-touchups-questionnaire",
+    "title": "Enhancement, Drafts, enchantment, training, and a concise system",
+    "kind": "mandate",
+    "summary": "Passive stat base plus active reinforcement that can be focused and leaves gaps, shown as an aura coat, lost when caught off guard; fight Drafts with a crash, graded by Stage, a trade at every level, a catalogue of about twenty; cheap runed gear common, great pieces old, bonded weapons tied to releases, rare living-body runes, prepared tags; basics by school, cultivation by breath, Wellsprings, fights and seclusion, guarded school secrets, guilds sneer while the world cheers; a one-page primer, plain glosses, rule-look-cost-counter-example explainers, and an audit of the Magic System pages.",
+    "verbatim": "Isaac's direction 2026-10-14, by questionnaire (imports/drafts/system-touchups/): magic system touch-ups. Enhancement: a practitioner's stats are always in the body as a passive base, and active reinforcement pushes further for a cost in reserve; it can be concentrated in one place and leaves the rest thin, so reading where it went is part of the fight; it shows as a coat of the practitioner's own aura, thicker where they push, with the body change beneath; asleep, drugged or surprised, they keep the passive base and lose the active layer, so ambush is a real tactic. Drafts: a few fight Drafts may be drunk mid-fight, each taking a beat and leaving a crash; Drafts are graded by the Stage they serve; the Draft trade runs everywhere, from corner apothecaries to smugglers, counterfeits and breakthrough Drafts fought over like treasure; a standard catalogue of about twenty common Drafts is kept. Enchantment: cheap runed gear is common and the great pieces are old, rare and cannot be remade; some fighters bond a weapon over years that takes part in their release forms and grows with them; runes cut into a living body are a rare, dangerous high art; prepared tags, Naruto style, are carried into battle. Training: basics are taught by each school, not universally; practitioners cultivate by breathing and drawing at Wellsprings or in dense Aether, by sparring and real fights, and by seclusion before a Threshold; a school's methods and forms are guarded secrets worth stealing and fighting over; the guilds still sneer at fighters as mouths while the public, armies and sects idolise great ones. Concision: the Magic System gets a one-page plain-English primer; every term gets a plain gloss beside it at first use on each page; each topic explainer runs rule, look, cost, counter, example; and the Magic System pages are audited and fixed for copy errors and contradictions with the new rules, each change logged.",
+    "amends": [
+      {
+        "guide": "Notion wiki, The Magic System",
+        "locus": "The Four Crafts; The Ladder and the Draft; a new primer and topic explainers",
+        "operation": "extends"
+      }
+    ],
+    "applies_to": [
+      "magic-mechanism",
+      "magic-design",
+      "combat",
+      "items",
+      "worldbuilding"
+    ],
+    "verification": [],
+    "notes": "Amends The Four Crafts (Spellcraft's status reads as guild snobbery the world does not share; the Bodily vector becomes active reinforcement over a passive stat base) and The Ladder and the Draft (Stage grades, fight Drafts, the catalogue). The ladder's governing sentence stands: a Draft supplies the floor and a seed, never a Catalyst.",
     "superseded_by": []
   },
   {
@@ -41929,7 +42175,7 @@
     "pack_number": 5,
     "section": "D",
     "title": "Humour never gets its own setup/deadpan/reaction rhythm",
-    "status": "live",
+    "status": "superseded",
     "kind": "ban",
     "summary": "The beat structure of setup, deadpan and reaction is barred; humour arrives inside dialogue and narration already in progress and never pauses the scene to land.",
     "verbatim": "Barred: the beat structure of setup, deadpan and reaction. Humour no longer gets its own rhythm. It arrives inside dialogue and narration already in progress and does not pause the scene to land.",
@@ -41952,8 +42198,10 @@
       "file": "WOTR_Companion_Guide_Amendments_Pack_Five.md",
       "lines": "111"
     },
-    "notes": "Elevated to status:live: Pack Fifteen §4 (already ratified, live) explicitly confirms this instrument \"stands,\" following the same precedent used for Pack Seven content Pack Twelve confirms survives. Confirmed by R70-81-VOICE_READOUT (style law 2026-10-03): R5-D stands, and a readout never carries humour. Stands for everyone but the comic voices and double acts named on their cards, who may play full comic beats, retort and reaction included (R70-113-DOUBLE_ACT_COMIC_BEAT, style law 2026-10-03).",
-    "superseded_by": []
+    "notes": "Elevated to status:live: Pack Fifteen §4 (already ratified, live) explicitly confirms this instrument \"stands,\" following the same precedent used for Pack Seven content Pack Twelve confirms survives. Confirmed by R70-81-VOICE_READOUT (style law 2026-10-03): R5-D stands, and a readout never carries humour. Stands for everyone but the comic voices and double acts named on their cards, who may play full comic beats, retort and reaction included (R70-113-DOUBLE_ACT_COMIC_BEAT, style law 2026-10-03). Superseded 2026-10-14 by R78-8-VOICE_DIALOGUE_HUMOUR (Isaac's direction 2026-10-14, page-craft questionnaire).",
+    "superseded_by": [
+      "R78-8-VOICE_DIALOGUE_HUMOUR"
+    ]
   },
   {
     "id": "R5-D-HUMOUR_CASTING",
@@ -44639,7 +44887,7 @@
       "file": "WOTR_Companion_Guide_Amendments_Pack_Eight.md",
       "lines": "74"
     },
-    "notes": null,
+    "notes": "Amended 2026-10-14 by R78-5-FIGHTS_ANIME_ON_PAGE: the name on the page and in the shout is English; a culture-tongue true name may stand beside it in the card and notes.",
     "superseded_by": []
   },
   {
@@ -44820,7 +45068,7 @@
       "file": "WOTR_Companion_Guide_Amendments_Pack_Eight.md",
       "lines": "102-106"
     },
-    "notes": null,
+    "notes": "Amended 2026-10-14 by R78-5-FIGHTS_ANIME_ON_PAGE: the release call is the English name shouted as the technique fires; staged release forms are separate (R78-6).",
     "superseded_by": []
   },
   {
@@ -45325,7 +45573,7 @@
     "pack_number": 9,
     "section": "PART THREE",
     "title": "Aura reads as fracture, not glow",
-    "status": "live",
+    "status": "superseded",
     "kind": "ban",
     "summary": "Essence discharge reads as broken, shard-edged geometry around the body rather than a soft glow; \"it glowed\" stays banned, replaced for Stage-display beats specifically, not as a general phenomenon substitute.",
     "verbatim": "Aura as fracture, not glow. Where Essence discharge needs a visual, it reads as broken geometry around the body — jagged, shard-edged light, not a soft radiant bloom. \"It glowed\" stays banned; this is its replacement specifically for a Stage-display beat, not a general substitute for the phenomenon bank.",
@@ -45347,8 +45595,10 @@
       "file": "WOTR_Companion_Guide_Amendments_Pack_Nine.md",
       "lines": "38"
     },
-    "notes": "Noted by R70-69-PRESSURE_AURA (style law 2026-10-03): Pressure leads through the room, then bodies; fracture, not glow, for a display's discharge stands. Partly amended by R71-63-BEASTKIN_SENSES_FOX_FIRE (combat law 2026-10-04): \"A canon Trait that makes light is named as light, by colour, size and what it shows; R9-3's glow ban stays on Essence discharge only\" 'It glowed' stays banned for Essence discharge; a canon Trait that makes light, such as fox-fire, is named plainly as light.",
-    "superseded_by": []
+    "notes": "Noted by R70-69-PRESSURE_AURA (style law 2026-10-03): Pressure leads through the room, then bodies; fracture, not glow, for a display's discharge stands. Partly amended by R71-63-BEASTKIN_SENSES_FOX_FIRE (combat law 2026-10-04): \"A canon Trait that makes light is named as light, by colour, size and what it shows; R9-3's glow ban stays on Essence discharge only\" 'It glowed' stays banned for Essence discharge; a canon Trait that makes light, such as fox-fire, is named plainly as light. Superseded 2026-10-14 by R78-6-POWER_ANIME_ON_PAGE (Isaac's direction 2026-10-14, page-craft questionnaire).",
+    "superseded_by": [
+      "R78-6-POWER_ANIME_ON_PAGE"
+    ]
   },
   {
     "id": "R9-3-BODY_UNDER_LOAD",

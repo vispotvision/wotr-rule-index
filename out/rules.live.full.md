@@ -1,6 +1,6 @@
 # Live rules by domain, with source text
 
-1547 live of 1744 extracted. Newest pack first within each domain; the newer rule governs where two overlap.
+1550 live of 1751 extracted. Newest pack first within each domain; the newer rule governs where two overlap.
 
 ## adjudication (154)
 
@@ -928,7 +928,7 @@ Isaac may take over any NPC's voice anytime by saying so; the partner hands it b
 
 > Isaac may take over any NPC's voice anytime by saying so; the partner hands it back after.
 
-## character-sheet (266)
+## character-sheet (265)
 
 ### R20C-16-SONZAI_RECORD_CARD [Pack Twenty R20C-16]
 
@@ -2133,12 +2133,6 @@ Each book chapter closes, above the notes, with a short block of what moved on t
 
 > Changes at chapter end. Each chapter closes with a short block of what moved and why, above the notes; roleplay turns keep it in the notes.
 
-### R70-113-DOUBLE_ACT_COMIC_BEAT [Style Law 2026-10-03 HU1]
-
-Comic voices and double acts named as such on their cards may play full comic beats, retort and reaction included, while every other character stays under R5-D's bar on the setup, deadpan and reaction rhythm.
-
-> Full beats for comic voices. Full comic beats, retort and reaction included, belong to comic voices and double acts named on their cards; everyone else stays under R5-D.
-
 ### R70-122-MAY_CARRY_ONE [Style Law 2026-10-03 NM4]
 
 Recurring minor NPCs may keep comic names across scenes and villains and rivals may carry one, a comic name on a dangerous person, while major NPCs keep strict names.
@@ -3251,7 +3245,7 @@ A new Resonant Pair may be proposed when a build reaches a combination canon's t
 
 > New, by R18-2's test. R18-2 extends to Pairs: a new one may be proposed when a build reaches a combination the ten lack, with real mechanism, Grade and effect; it binds once ratified.
 
-## combat (210)
+## combat (213)
 
 ### R20C-22-AMMUNITION_TIERS_RATIFIED [Pack Twenty R20C-22]
 
@@ -4207,6 +4201,30 @@ Modern science, to the present day, may explain workings and fights and drive ma
 
 > Isaac's direction 2026-10-13: the 1900 limit on scientific ideas is retracted. Ideas from modern science (physics, chemistry, biology and the rest, up to the present day) may be used in battle and in magical advancement: to explain how a working or a fight operates, to drive a practitioner's or a school's magical research, and to found new techniques. Who knows them is earned by magic: high-Stage practitioners, Measurewrights and scholars reach them through the Aether before any instrument could, so they speak in diagnostic voices and the author notes, while commoners keep their own words for the same thing. Manufactured technology is unchanged: the Imperial Age span (R53-01, the 1800s into the middle of the 1900s) and the firearm ceiling at 1900 hardware (R53-03) still govern what is built and carried. This closes C-158: R11-C's "nothing post-1900" no longer limits ideas, and R53-01 governs hardware.
 
+### R78-3-PHYSICAL_AND_SATURATED [Directions 2026-10-14 R78-1-VOCABULARY_PUSHED_HIGH]
+
+Blows written as body, path, target, result with plain strike names, never the line/measure/tempo/vector/geometry/the read; elevated English of every root in nearly every narration sentence, stackable, fights included; elevated verbs, plain body parts; workings shown physically then named in system and science terms freely; Latin-heavy diction only for characters who speak it.
+
+> Isaac's direction 2026-10-14, by questionnaire (imports/drafts/vocab-clarity-questionnaire/): physical clarity and saturated vocabulary. A blow is written as body, path, target, result: what moved, the way it travelled, where it landed, what broke; every blow that lands carries its feet, hips or weight in a clause. Narration never uses fight abstractions (the line, measure, tempo, vector, geometry, the read); it says what the fist, foot, blade or body did, in plain action words an anime reader knows ("he came forward swinging his right hand in a jab"), and strike names such as jab, hook, uppercut and headlock are allowed. Elevated words saturate narration, nearly every sentence, fights included, and may be stacked on one noun. Elevated verbs carry the hit (cleave, stave, rend, transfix); body parts stay plain words (collarbone, jaw, ribs). A working is shown as its physical effect, then its system and scientific terms where they apply; system terms (Aether, Density, Saturation, Coherence) are free in narration, and science words, modern ones included, count as elevated vocabulary in narration. The vocabulary is sophisticated English of every root, old, archaic, learned and technical, never a Latin-only lean; Latin-heavy diction belongs to the characters whose card or culture speaks it. Enforced by verify_scene WARNs (fight abstraction in narration; under half of narration sentences carrying a bank word) and by the elevated bank's new fight, old-English and workings sections.
+
+### R78-5-FIGHTS_ANIME_ON_PAGE [Directions 2026-10-14 page-craft-questionnaire]
+
+Eastern school terms free in narration; techniques shouted in English; afterimages for speed; battles as bodies, fog of war, spectacle strikes, joined vignettes; full plain-word anatomy, anime blood, wounds shrugged off then felt, small hits add up; Hunter x Hunter reasoning; free flashbacks; talk at the pauses; one POV per stretch; will counts through vow, Resonance or breakthrough.
+
+> Isaac's direction 2026-10-14, by questionnaire (imports/drafts/page-craft-questionnaire/, round 1 batches 1 to 3, round 2 batch 3, round 3 batches 1 and 2): fights on the page. Eastern school terms (kamae, maai, chudan, qinggong, dantian) are free in narration as anime flavour. A technique's name is shouted as it fires, anime style, and the name is in English. A move too fast for the eye shows as afterimages. Formations are written as bodies only, the POV knows only what they can see, a high-Stage strike on massed troops is anime spectacle with the bodies in it, and a battle runs as close vignettes joined by the battle's turn. An open wound shows its anatomy in plain words; blood sprays in anime geysers; a fighter shrugs a wound off in the moment and the pain arrives after; every small hit is noted and they add up. A fighter thinks the fight through at length, Hunter x Hunter style. Flashbacks run freely mid-fight, Naruto style, the opponent's included. Fighters talk at the pauses between exchanges, taunts and declarations, and go quiet while the blades move. A fight stays in one head and switches POV only at a marked break. Will changes outcomes through the system: a vow, a Resonance or a breakthrough turns resolve into power the stats can feel, never a free win.
+
+### R78-6-POWER_ANIME_ON_PAGE [Directions 2026-10-14 page-craft-questionnaire]
+
+Qi cultivation with Hunter x Hunter, Dragon Ball, Bleach and Naruto ideas: a personal coloured aura, full transformation power-ups, Stage-scaled damage shown, a signature sound per technique with anime flair, open sensing and talk of strength, vows central, held power revealed on planted hints, upsets across one Stage with a read, named staged release forms, and fewer readouts.
+
+> Isaac's direction 2026-10-14, by questionnaire (imports/drafts/page-craft-questionnaire/, round 1 batch 4, round 2 batch 5, round 3 batches 2 and 3): power on the page. WOTR's system is a mixture of qi cultivation and the ideas of Hunter x Hunter, Dragon Ball, Bleach and Naruto, and that shows in how power reads. Each practitioner's power has a visible aura in their own colour and feel, brighter as they push. A power-up or breakthrough is full transformation spectacle: the body and the world change visibly. Damage to the surroundings scales with Stage and is shown. Every technique has its own signature sound, with anime flair. Practitioners sense each other's strength and talk about it openly, Bleach and Dragon Ball style. Self-imposed vows and conditions that buy power are common and central, and reading an enemy's condition is half the fight. Strong fighters hold power back for a reason and reveal it at the right moment, with planted hints. A lower-Stage fighter can beat a higher one across one Stage with a read; two or more takes something extraordinary, a vow or a breakthrough. Many practitioners have named, staged release forms tied to the system, each with a name, a look and a cost. Status screens and readouts become fewer, Bleach style: numbers live in the notes and diagnostic talk.
+
+### R78-9-SYSTEM_TOUCHUPS [Directions 2026-10-14 system-touchups-questionnaire]
+
+Passive stat base plus active reinforcement that can be focused and leaves gaps, shown as an aura coat, lost when caught off guard; fight Drafts with a crash, graded by Stage, a trade at every level, a catalogue of about twenty; cheap runed gear common, great pieces old, bonded weapons tied to releases, rare living-body runes, prepared tags; basics by school, cultivation by breath, Wellsprings, fights and seclusion, guarded school secrets, guilds sneer while the world cheers; a one-page primer, plain glosses, rule-look-cost-counter-example explainers, and an audit of the Magic System pages.
+
+> Isaac's direction 2026-10-14, by questionnaire (imports/drafts/system-touchups/): magic system touch-ups. Enhancement: a practitioner's stats are always in the body as a passive base, and active reinforcement pushes further for a cost in reserve; it can be concentrated in one place and leaves the rest thin, so reading where it went is part of the fight; it shows as a coat of the practitioner's own aura, thicker where they push, with the body change beneath; asleep, drugged or surprised, they keep the passive base and lose the active layer, so ambush is a real tactic. Drafts: a few fight Drafts may be drunk mid-fight, each taking a beat and leaving a crash; Drafts are graded by the Stage they serve; the Draft trade runs everywhere, from corner apothecaries to smugglers, counterfeits and breakthrough Drafts fought over like treasure; a standard catalogue of about twenty common Drafts is kept. Enchantment: cheap runed gear is common and the great pieces are old, rare and cannot be remade; some fighters bond a weapon over years that takes part in their release forms and grows with them; runes cut into a living body are a rare, dangerous high art; prepared tags, Naruto style, are carried into battle. Training: basics are taught by each school, not universally; practitioners cultivate by breathing and drawing at Wellsprings or in dense Aether, by sparring and real fights, and by seclusion before a Threshold; a school's methods and forms are guarded secrets worth stealing and fighting over; the guilds still sneer at fighters as mouths while the public, armies and sects idolise great ones. Concision: the Magic System gets a one-page plain-English primer; every term gets a plain gloss beside it at first use on each page; each topic explainer runs rule, look, cost, counter, example; and the Magic System pages are audited and fixed for copy errors and contradictions with the new rules, each change logged.
+
 ### R59-12-TRANSITIONAL_MILITARY [Era and Apparatus Law 2026-09-26 Era and apparatus]
 
 Military: transitional. Cavalry, bright uniforms and drill in the early span; khaki, trenches and rare machine guns later; practitioners change everything anyway.
@@ -4387,12 +4405,6 @@ Write a Verdict duel as stillness then one cut, a Blade duel as traced passes an
 
 > Shape follows the grammar. A rule ties duel shape to the four combat grammars: Verdict still then one cut, Blade traced passes, Percussion and Expenditure by attrition; practitioners escalate while reserve lasts. R60-01 holds for the unranked.
 
-### R70-103-MEMORY_INSIDE_FIGHT [Style Law 2026-10-03 CB4]
-
-Once per fight the POV may freeze one turning exchange for a full flashback of his own, a page or more, and the opponent's past reaches the page only through what the POV knows.
-
-> Full flashback, POV only. The POV may take a full flashback, a page or more, frozen inside one turning exchange, once per fight. The POV lock holds; the opponent's past reaches the page only through what the POV knows.
-
 ### R70-104-RIVAL_BOND [Style Law 2026-10-03 CB5]
 
 A rival may come back fight after fight, but every survival must be a choice someone made and paid for on the Ledger with a debt, a scar or a witness to the mercy.
@@ -4513,7 +4525,7 @@ Every duel ends with a full aftermath beat: wounds dressed, what changed between
 
 > Every duel ends with a full aftermath beat: wounds dressed, what changed between people.
 
-## dialogue (201)
+## dialogue (200)
 
 ### R20C-36-CLEARLY_WINS [Pack Twenty R20C-36]
 
@@ -4743,12 +4755,6 @@ Humour is no longer an exception to tone but a property of specific characters i
 
 > Permitted: dry understatement, gallows wit from people whose profession earns it, class-inflected contempt, a character being funny without knowing it, and the joke that is also a threat.
 
-### R5-D-HUMOUR_BARRED [Pack Five D]
-
-The beat structure of setup, deadpan and reaction is barred; humour arrives inside dialogue and narration already in progress and never pauses the scene to land.
-
-> Barred: the beat structure of setup, deadpan and reaction. Humour no longer gets its own rhythm. It arrives inside dialogue and narration already in progress and does not pause the scene to land.
-
 ### R4-13-WHERE_SIGNIFICANCE_LIVES [Pack Four Amendment Thirteen]
 
 Significance may live in a physical tell adjacent to the line, in another character's bodily reaction, or in a governed callback — never in narration itself.
@@ -4844,6 +4850,12 @@ Play a residue reading's protocol as action (the pair, the stands and the withdr
 At a sanctioned bout the Measurewright says her reading aloud as she takes it, so both fighters and the benches hear it, the readout reaches a fighter's own page, and a suppressed Stage is exposed in public with R70-112's bill.
 
 > Called aloud to all. She says the reading as she takes it: both fighters and the benches hear it, the readout reaches a fighter's own page, and a suppressed Stage is exposed in public, with R70-112's bill.
+
+### R78-8-VOICE_DIALOGUE_HUMOUR [Directions 2026-10-14 page-craft-questionnaire]
+
+Thought woven through action; emotions anime-big; full phonetic accents; soldiers' swearing; plentiful mixed banter; action-beat tags; each culture's address; earned explanations and big lines; anyone funny in their own way, anime gags from the characters who do that; named people react to power; one italic thought per NPC a scene.
+
+> Isaac's direction 2026-10-14, by questionnaire (imports/drafts/page-craft-questionnaire/, round 1 batches 5 to 7, round 2 batch 7, round 3 batch 1): voice, dialogue and humour. Thought, memory and feeling are woven steadily through the action. Emotions play anime-big throughout. Accents are written in full phonetic spelling. People swear like real soldiers and thugs, in English and their culture's oaths; nobles and priests barely. Banter is plentiful, a mixture of anime style with ribbing and jokes, because WOTR is its own thing. Dialogue tags are action beats, with said when needed. People address each other in their culture's own forms. A character explains a power aloud only from what they could know. Declarations, battle cries and villain speeches land at the moments that carry them, in each speaker's voice; catchphrases only where a card gives one. Anyone may be funny in their own way, and anime gags come from the characters who actually do that sort of thing, Borin and his kind. Banter and ribbing, anime reactions, dry and gallows wit, and crude and bawdy humour all fit. Big power draws reactions from specific named people in the crowd. NPCs keep one italic thought each per scene.
 
 ### R58-05-SWEARS_AND_SENSE_BANKS_APPROVED [Follow-up Rulings 2026-09-26 Follow-up answers]
 
@@ -5186,12 +5198,6 @@ Court cultures (the Moto court, the Accord chancery, the Mahuo houses, the linea
 An arrogant scion may underestimate and be reversed in public while the room reassesses, but every such reversal opens a Front or a Ledger debt (a vengeful house, a witness, a feud), and the humbled man stays veteran-clever afterward.
 
 > The face-slap, with a bill. C, with a bill: every public reversal opens a Front or a Ledger debt (a vengeful house, a witness, a feud), and the humbled man stays veteran-clever afterward. (Option C there reads: The face-slap licensed. The face-slap becomes a legal payoff: an arrogant scion underestimates, the reversal is public, the room reassesses. R5-C1-WELL_REASONED_WRONG_CONCLUSION and R48-36 relax for the arrogant, who may misjudge badly.)
-
-### R70-113-DOUBLE_ACT_COMIC_BEAT [Style Law 2026-10-03 HU1]
-
-Comic voices and double acts named as such on their cards may play full comic beats, retort and reaction included, while every other character stays under R5-D's bar on the setup, deadpan and reaction rhythm.
-
-> Full beats for comic voices. Full comic beats, retort and reaction included, belong to comic voices and double acts named on their cards; everyone else stays under R5-D.
 
 ### R70-115-TEARS_SENTIMENT [Style Law 2026-10-03 HU3]
 
@@ -6545,7 +6551,7 @@ The techniques law lands in one pass: one dated law doc through log_ruling, the 
 
 > Doc, tools and guides. A, plus the sixth edition of the Ability and Technique Design Guide, the wotr-npc, wotr-stat-line and wotr-write references rewritten, and NATALIE.md's character-sheet line updated, all in this pass.
 
-## items (94)
+## items (95)
 
 ### R20C-22-AMMUNITION_TIERS_RATIFIED [Pack Twenty R20C-22]
 
@@ -6913,6 +6919,12 @@ A stale enhanced round may fail in a fight only if the page showed its date earl
 
 > Fails on a planted tell. A stale round may fail mid-fight only if the page showed its date earlier: the stamp on the pouch, a Harmonist's word, a re-read put off. The failure is then the fight's fair surprise.
 
+### R78-9-SYSTEM_TOUCHUPS [Directions 2026-10-14 system-touchups-questionnaire]
+
+Passive stat base plus active reinforcement that can be focused and leaves gaps, shown as an aura coat, lost when caught off guard; fight Drafts with a crash, graded by Stage, a trade at every level, a catalogue of about twenty; cheap runed gear common, great pieces old, bonded weapons tied to releases, rare living-body runes, prepared tags; basics by school, cultivation by breath, Wellsprings, fights and seclusion, guarded school secrets, guilds sneer while the world cheers; a one-page primer, plain glosses, rule-look-cost-counter-example explainers, and an audit of the Magic System pages.
+
+> Isaac's direction 2026-10-14, by questionnaire (imports/drafts/system-touchups/): magic system touch-ups. Enhancement: a practitioner's stats are always in the body as a passive base, and active reinforcement pushes further for a cost in reserve; it can be concentrated in one place and leaves the rest thin, so reading where it went is part of the fight; it shows as a coat of the practitioner's own aura, thicker where they push, with the body change beneath; asleep, drugged or surprised, they keep the passive base and lose the active layer, so ambush is a real tactic. Drafts: a few fight Drafts may be drunk mid-fight, each taking a beat and leaving a crash; Drafts are graded by the Stage they serve; the Draft trade runs everywhere, from corner apothecaries to smugglers, counterfeits and breakthrough Drafts fought over like treasure; a standard catalogue of about twenty common Drafts is kept. Enchantment: cheap runed gear is common and the great pieces are old, rare and cannot be remade; some fighters bond a weapon over years that takes part in their release forms and grows with them; runes cut into a living body are a rare, dangerous high art; prepared tags, Naruto style, are carried into battle. Training: basics are taught by each school, not universally; practitioners cultivate by breathing and drawing at Wellsprings or in dense Aether, by sparring and real fights, and by seclusion before a Threshold; a school's methods and forms are guarded secrets worth stealing and fighting over; the guilds still sneer at fighters as mouths while the public, armies and sects idolise great ones. Concision: the Magic System gets a one-page plain-English primer; every term gets a plain gloss beside it at first use on each page; each topic explainer runs rule, look, cost, counter, example; and the Magic System pages are audited and fixed for copy errors and contradictions with the new rules, each change logged.
+
 ### R59-11-MATERIALS [Era and Apparatus Law 2026-09-26 Era and apparatus]
 
 Materials: cheap steel and iron, rubber and gutta-percha, early plastics in the late span, and the Master Material Ledger's Essence-born materials alongside them.
@@ -7111,7 +7123,7 @@ A Witnessed-Tempered piece inherits a scaled-down Ancestral Dominion Frame: ever
 
 > If the piece changes hands outside the terms of the oath, its accrued memory does not transfer. This is not the Dawi's Crystal-Coherence self-punishment, a cost paid by the oath-breaker's own soul; it is closer to the Weight of the Blood, where failure feels ancestral rather than personal. The object simply stops recognizing the new holder as a party the law was made for. In the worst documented cases, Physical Plane Authority's "hold shape" reverses for that bearer alone, and the piece becomes more failure-prone in their hands than an ordinary equivalent.
 
-## magic-design (146)
+## magic-design (149)
 
 ### R20C-28-PHENOMENON_BANK_CANDIDATES [Pack Twenty R20C-28]
 
@@ -7737,6 +7749,24 @@ Modern science, to the present day, may explain workings and fights and drive ma
 
 > Isaac's direction 2026-10-13: the 1900 limit on scientific ideas is retracted. Ideas from modern science (physics, chemistry, biology and the rest, up to the present day) may be used in battle and in magical advancement: to explain how a working or a fight operates, to drive a practitioner's or a school's magical research, and to found new techniques. Who knows them is earned by magic: high-Stage practitioners, Measurewrights and scholars reach them through the Aether before any instrument could, so they speak in diagnostic voices and the author notes, while commoners keep their own words for the same thing. Manufactured technology is unchanged: the Imperial Age span (R53-01, the 1800s into the middle of the 1900s) and the firearm ceiling at 1900 hardware (R53-03) still govern what is built and carried. This closes C-158: R11-C's "nothing post-1900" no longer limits ideas, and R53-01 governs hardware.
 
+### R78-6-POWER_ANIME_ON_PAGE [Directions 2026-10-14 page-craft-questionnaire]
+
+Qi cultivation with Hunter x Hunter, Dragon Ball, Bleach and Naruto ideas: a personal coloured aura, full transformation power-ups, Stage-scaled damage shown, a signature sound per technique with anime flair, open sensing and talk of strength, vows central, held power revealed on planted hints, upsets across one Stage with a read, named staged release forms, and fewer readouts.
+
+> Isaac's direction 2026-10-14, by questionnaire (imports/drafts/page-craft-questionnaire/, round 1 batch 4, round 2 batch 5, round 3 batches 2 and 3): power on the page. WOTR's system is a mixture of qi cultivation and the ideas of Hunter x Hunter, Dragon Ball, Bleach and Naruto, and that shows in how power reads. Each practitioner's power has a visible aura in their own colour and feel, brighter as they push. A power-up or breakthrough is full transformation spectacle: the body and the world change visibly. Damage to the surroundings scales with Stage and is shown. Every technique has its own signature sound, with anime flair. Practitioners sense each other's strength and talk about it openly, Bleach and Dragon Ball style. Self-imposed vows and conditions that buy power are common and central, and reading an enemy's condition is half the fight. Strong fighters hold power back for a reason and reveal it at the right moment, with planted hints. A lower-Stage fighter can beat a higher one across one Stage with a read; two or more takes something extraordinary, a vow or a breakthrough. Many practitioners have named, staged release forms tied to the system, each with a name, a look and a cost. Status screens and readouts become fewer, Bleach style: numbers live in the notes and diagnostic talk.
+
+### R78-7-CULTIVATION_AND_STORY [Directions 2026-10-14 page-craft-questionnaire]
+
+Breakthroughs by crisis, seclusion or tribulation; resources drive plot; xianxia ranks in WOTR institutions; real young masters; tournament, training, rescue and war arcs under one main villain revealed in stages with ranked lieutenants; understandable villains; rival to ally; mentors may die; bonds mostly hold; a core crew; the dead stay dead save rare costly returns; romance central; time skips; cliffhanger endings; Hollow-style Well-spawn; POV-eye fanservice.
+
+> Isaac's direction 2026-10-14, by questionnaire (imports/drafts/page-craft-questionnaire/, round 2 batches 2, 3, 6 and 8, round 3 batches 2 and 3): cultivation and story. Stage breakthroughs come by crisis, seclusion or tribulation, a mixture of all three. Cultivation resources (Drafts, Cores, treasures) are a real driver of plot. Sects, schools and academies run on xianxia ranks (outer and inner disciples, elders, ranking contests) inside WOTR's own institutions. The arrogant young master and his humbling are used, written as real people with real wants. WOTR runs tournament, training, rescue and invasion, and war arcs, under a Bleach or Dragon Ball shape: one main villain with many people working for him, Aizen or Yhwach, felt early and revealed in stages, over an elite ranked circle of lieutenants each with a power, a look, a philosophy and a fight that matters. Villains are understandable, some arguably right. The rival goes from rival to reluctant ally. Mentors: some die, some do not. Bonds mostly hold and are tested hard. The protagonist runs with a core crew, each with a role. The dead stay dead, with rare costly exceptions. Romance short of the explicit is central to many threads. Time skips run between big arcs. Chapters and arcs end on hooks and cliffhangers. Well-spawn are Hollow-style, shaped by the Well that made them. Fanservice outside explicit scenes comes only from what the POV notices.
+
+### R78-9-SYSTEM_TOUCHUPS [Directions 2026-10-14 system-touchups-questionnaire]
+
+Passive stat base plus active reinforcement that can be focused and leaves gaps, shown as an aura coat, lost when caught off guard; fight Drafts with a crash, graded by Stage, a trade at every level, a catalogue of about twenty; cheap runed gear common, great pieces old, bonded weapons tied to releases, rare living-body runes, prepared tags; basics by school, cultivation by breath, Wellsprings, fights and seclusion, guarded school secrets, guilds sneer while the world cheers; a one-page primer, plain glosses, rule-look-cost-counter-example explainers, and an audit of the Magic System pages.
+
+> Isaac's direction 2026-10-14, by questionnaire (imports/drafts/system-touchups/): magic system touch-ups. Enhancement: a practitioner's stats are always in the body as a passive base, and active reinforcement pushes further for a cost in reserve; it can be concentrated in one place and leaves the rest thin, so reading where it went is part of the fight; it shows as a coat of the practitioner's own aura, thicker where they push, with the body change beneath; asleep, drugged or surprised, they keep the passive base and lose the active layer, so ambush is a real tactic. Drafts: a few fight Drafts may be drunk mid-fight, each taking a beat and leaving a crash; Drafts are graded by the Stage they serve; the Draft trade runs everywhere, from corner apothecaries to smugglers, counterfeits and breakthrough Drafts fought over like treasure; a standard catalogue of about twenty common Drafts is kept. Enchantment: cheap runed gear is common and the great pieces are old, rare and cannot be remade; some fighters bond a weapon over years that takes part in their release forms and grows with them; runes cut into a living body are a rare, dangerous high art; prepared tags, Naruto style, are carried into battle. Training: basics are taught by each school, not universally; practitioners cultivate by breathing and drawing at Wellsprings or in dense Aether, by sparring and real fights, and by seclusion before a Threshold; a school's methods and forms are guarded secrets worth stealing and fighting over; the guilds still sneer at fighters as mouths while the public, armies and sects idolise great ones. Concision: the Magic System gets a one-page plain-English primer; every term gets a plain gloss beside it at first use on each page; each topic explainer runs rule, look, cost, counter, example; and the Magic System pages are audited and fixed for copy errors and contradictions with the new rules, each change logged.
+
 ### R44-4-ETA_PART_SEVENTEEN_GOVERNS [Essence Ledger Rulings 2026-09-25 C-037]
 
 Part Seventeen's Class I figure governs the efficiency conflict — η is 0.60 to 0.70 at Stage VI–VII — and Part Nineteen's Tier 5 Expert row is corrected to match it.
@@ -7989,7 +8019,7 @@ The Phenomenon Bank becomes a growing library: every researched phenomenon (and 
 
 > The Phenomenon Bank becomes a growing library: every researched phenomenon (and pseudoscientific idea) is added for future workings and players to draw from.
 
-## magic-mechanism (268)
+## magic-mechanism (271)
 
 ### R20C-17-SITES_RECHARGE_UNHELPFULLY [Pack Twenty R20C-17]
 
@@ -9131,6 +9161,24 @@ Modern science, to the present day, may explain workings and fights and drive ma
 
 > Isaac's direction 2026-10-13: the 1900 limit on scientific ideas is retracted. Ideas from modern science (physics, chemistry, biology and the rest, up to the present day) may be used in battle and in magical advancement: to explain how a working or a fight operates, to drive a practitioner's or a school's magical research, and to found new techniques. Who knows them is earned by magic: high-Stage practitioners, Measurewrights and scholars reach them through the Aether before any instrument could, so they speak in diagnostic voices and the author notes, while commoners keep their own words for the same thing. Manufactured technology is unchanged: the Imperial Age span (R53-01, the 1800s into the middle of the 1900s) and the firearm ceiling at 1900 hardware (R53-03) still govern what is built and carried. This closes C-158: R11-C's "nothing post-1900" no longer limits ideas, and R53-01 governs hardware.
 
+### R78-3-PHYSICAL_AND_SATURATED [Directions 2026-10-14 R78-1-VOCABULARY_PUSHED_HIGH]
+
+Blows written as body, path, target, result with plain strike names, never the line/measure/tempo/vector/geometry/the read; elevated English of every root in nearly every narration sentence, stackable, fights included; elevated verbs, plain body parts; workings shown physically then named in system and science terms freely; Latin-heavy diction only for characters who speak it.
+
+> Isaac's direction 2026-10-14, by questionnaire (imports/drafts/vocab-clarity-questionnaire/): physical clarity and saturated vocabulary. A blow is written as body, path, target, result: what moved, the way it travelled, where it landed, what broke; every blow that lands carries its feet, hips or weight in a clause. Narration never uses fight abstractions (the line, measure, tempo, vector, geometry, the read); it says what the fist, foot, blade or body did, in plain action words an anime reader knows ("he came forward swinging his right hand in a jab"), and strike names such as jab, hook, uppercut and headlock are allowed. Elevated words saturate narration, nearly every sentence, fights included, and may be stacked on one noun. Elevated verbs carry the hit (cleave, stave, rend, transfix); body parts stay plain words (collarbone, jaw, ribs). A working is shown as its physical effect, then its system and scientific terms where they apply; system terms (Aether, Density, Saturation, Coherence) are free in narration, and science words, modern ones included, count as elevated vocabulary in narration. The vocabulary is sophisticated English of every root, old, archaic, learned and technical, never a Latin-only lean; Latin-heavy diction belongs to the characters whose card or culture speaks it. Enforced by verify_scene WARNs (fight abstraction in narration; under half of narration sentences carrying a bank word) and by the elevated bank's new fight, old-English and workings sections.
+
+### R78-6-POWER_ANIME_ON_PAGE [Directions 2026-10-14 page-craft-questionnaire]
+
+Qi cultivation with Hunter x Hunter, Dragon Ball, Bleach and Naruto ideas: a personal coloured aura, full transformation power-ups, Stage-scaled damage shown, a signature sound per technique with anime flair, open sensing and talk of strength, vows central, held power revealed on planted hints, upsets across one Stage with a read, named staged release forms, and fewer readouts.
+
+> Isaac's direction 2026-10-14, by questionnaire (imports/drafts/page-craft-questionnaire/, round 1 batch 4, round 2 batch 5, round 3 batches 2 and 3): power on the page. WOTR's system is a mixture of qi cultivation and the ideas of Hunter x Hunter, Dragon Ball, Bleach and Naruto, and that shows in how power reads. Each practitioner's power has a visible aura in their own colour and feel, brighter as they push. A power-up or breakthrough is full transformation spectacle: the body and the world change visibly. Damage to the surroundings scales with Stage and is shown. Every technique has its own signature sound, with anime flair. Practitioners sense each other's strength and talk about it openly, Bleach and Dragon Ball style. Self-imposed vows and conditions that buy power are common and central, and reading an enemy's condition is half the fight. Strong fighters hold power back for a reason and reveal it at the right moment, with planted hints. A lower-Stage fighter can beat a higher one across one Stage with a read; two or more takes something extraordinary, a vow or a breakthrough. Many practitioners have named, staged release forms tied to the system, each with a name, a look and a cost. Status screens and readouts become fewer, Bleach style: numbers live in the notes and diagnostic talk.
+
+### R78-9-SYSTEM_TOUCHUPS [Directions 2026-10-14 system-touchups-questionnaire]
+
+Passive stat base plus active reinforcement that can be focused and leaves gaps, shown as an aura coat, lost when caught off guard; fight Drafts with a crash, graded by Stage, a trade at every level, a catalogue of about twenty; cheap runed gear common, great pieces old, bonded weapons tied to releases, rare living-body runes, prepared tags; basics by school, cultivation by breath, Wellsprings, fights and seclusion, guarded school secrets, guilds sneer while the world cheers; a one-page primer, plain glosses, rule-look-cost-counter-example explainers, and an audit of the Magic System pages.
+
+> Isaac's direction 2026-10-14, by questionnaire (imports/drafts/system-touchups/): magic system touch-ups. Enhancement: a practitioner's stats are always in the body as a passive base, and active reinforcement pushes further for a cost in reserve; it can be concentrated in one place and leaves the rest thin, so reading where it went is part of the fight; it shows as a coat of the practitioner's own aura, thicker where they push, with the body change beneath; asleep, drugged or surprised, they keep the passive base and lose the active layer, so ambush is a real tactic. Drafts: a few fight Drafts may be drunk mid-fight, each taking a beat and leaving a crash; Drafts are graded by the Stage they serve; the Draft trade runs everywhere, from corner apothecaries to smugglers, counterfeits and breakthrough Drafts fought over like treasure; a standard catalogue of about twenty common Drafts is kept. Enchantment: cheap runed gear is common and the great pieces are old, rare and cannot be remade; some fighters bond a weapon over years that takes part in their release forms and grows with them; runes cut into a living body are a rare, dangerous high art; prepared tags, Naruto style, are carried into battle. Training: basics are taught by each school, not universally; practitioners cultivate by breathing and drawing at Wellsprings or in dense Aether, by sparring and real fights, and by seclusion before a Threshold; a school's methods and forms are guarded secrets worth stealing and fighting over; the guilds still sneer at fighters as mouths while the public, armies and sects idolise great ones. Concision: the Magic System gets a one-page plain-English primer; every term gets a plain gloss beside it at first use on each page; each topic explainer runs rule, look, cost, counter, example; and the Magic System pages are audited and fixed for copy errors and contradictions with the new rules, each change logged.
+
 ### R67-6-AULT_LIKENESS_ELEVEN_DAYS [The Farrant Papers Ratification 2026-09-28 papers 6]
 
 The Ault likeness held eleven days and ended in one breath.
@@ -9602,7 +9650,7 @@ Yasoshima's Essence stability is not natural. For two hundred thousand years Hou
 
 > It is stable because House Yuno has spent two hundred thousand years making it a drain. Every fracture, every fanning-out of chaotic Essence that the rest of the four quarters absorbs and calls weather — the ordinary drift that keeps Measurewrights employed everywhere else in the world — the Kagura branch has been quietly gathering to itself and metabolising, one convergence rite at a time, through the deepest reach of Tōbō no Michi. Yasoshima does not merely tolerate Essence better than anywhere else. It is where a portion of the world's disorder goes to stop being disorder.
 
-## mass-combat (55)
+## mass-combat (56)
 
 ### R3-8-NAVAL_SENSORY_HIERARCHY [Pack Three Amendment Eight §12]
 
@@ -9892,6 +9940,12 @@ The combat sample bank holds both a fight passage in each culture file where Nat
 
 > Both. A and B: culture passages where Natalie already loads them, and the fight types the archive has never written.
 
+### R78-5-FIGHTS_ANIME_ON_PAGE [Directions 2026-10-14 page-craft-questionnaire]
+
+Eastern school terms free in narration; techniques shouted in English; afterimages for speed; battles as bodies, fog of war, spectacle strikes, joined vignettes; full plain-word anatomy, anime blood, wounds shrugged off then felt, small hits add up; Hunter x Hunter reasoning; free flashbacks; talk at the pauses; one POV per stretch; will counts through vow, Resonance or breakthrough.
+
+> Isaac's direction 2026-10-14, by questionnaire (imports/drafts/page-craft-questionnaire/, round 1 batches 1 to 3, round 2 batch 3, round 3 batches 1 and 2): fights on the page. Eastern school terms (kamae, maai, chudan, qinggong, dantian) are free in narration as anime flavour. A technique's name is shouted as it fires, anime style, and the name is in English. A move too fast for the eye shows as afterimages. Formations are written as bodies only, the POV knows only what they can see, a high-Stage strike on massed troops is anime spectacle with the bodies in it, and a battle runs as close vignettes joined by the battle's turn. An open wound shows its anatomy in plain words; blood sprays in anime geysers; a fighter shrugs a wound off in the moment and the pain arrives after; every small hit is noted and they add up. A fighter thinks the fight through at length, Hunter x Hunter style. Flashbacks run freely mid-fight, Naruto style, the opponent's included. Fighters talk at the pauses between exchanges, taunts and declarations, and go quiet while the blades move. A fight stays in one head and switches POV only at a marked break. Will changes outcomes through the system: a vow, a Resonance or a breakthrough turns resolve into power the stats can feel, never a free win.
+
 ### R59-12-TRANSITIONAL_MILITARY [Era and Apparatus Law 2026-09-26 Era and apparatus]
 
 Military: transitional. Cavalry, bright uniforms and drill in the early span; khaki, trenches and rare machine guns later; practitioners change everything anyway.
@@ -9934,7 +9988,7 @@ Tell a formation battle in POV-locked sections that cut, at marked breaks, betwe
 
 > Hill and ditch, cut. A battle cuts between the commander's hill and one man in the press at marked breaks, each section POV-locked; the breaks stand in for the guide's rule to 'pass through Line'. R1-3's three heads cover both.
 
-## naming (201)
+## naming (202)
 
 ### R20C-1-BURI_DEAD_EVERYWHERE [Pack Twenty R20C-1]
 
@@ -10301,6 +10355,12 @@ An art's release call may be spoken as often as the fighter can afford the beat 
 In a fight the narration calls a weapon whatever the POV calls it (a Kharven rider's folk name, a Moto retainer's true name), matching R70-100's rule for moves, and the weapon's other names wait for a card or the aftermath.
 
 > The POV's own name. Narration uses whatever the POV calls it: a Kharven rider's folk name, a Moto retainer's true name. It matches R70-100's rule for moves. Other names wait for a card or the aftermath.
+
+### R78-5-FIGHTS_ANIME_ON_PAGE [Directions 2026-10-14 page-craft-questionnaire]
+
+Eastern school terms free in narration; techniques shouted in English; afterimages for speed; battles as bodies, fog of war, spectacle strikes, joined vignettes; full plain-word anatomy, anime blood, wounds shrugged off then felt, small hits add up; Hunter x Hunter reasoning; free flashbacks; talk at the pauses; one POV per stretch; will counts through vow, Resonance or breakthrough.
+
+> Isaac's direction 2026-10-14, by questionnaire (imports/drafts/page-craft-questionnaire/, round 1 batches 1 to 3, round 2 batch 3, round 3 batches 1 and 2): fights on the page. Eastern school terms (kamae, maai, chudan, qinggong, dantian) are free in narration as anime flavour. A technique's name is shouted as it fires, anime style, and the name is in English. A move too fast for the eye shows as afterimages. Formations are written as bodies only, the POV knows only what they can see, a high-Stage strike on massed troops is anime spectacle with the bodies in it, and a battle runs as close vignettes joined by the battle's turn. An open wound shows its anatomy in plain words; blood sprays in anime geysers; a fighter shrugs a wound off in the moment and the pain arrives after; every small hit is noted and they add up. A fighter thinks the fight through at length, Hunter x Hunter style. Flashbacks run freely mid-fight, Naruto style, the opponent's included. Fighters talk at the pauses between exchanges, taunts and declarations, and go quiet while the blades move. A fight stays in one head and switches POV only at a marked break. Will changes outcomes through the system: a vow, a Resonance or a breakthrough turns resolve into power the stats can feel, never a free win.
 
 ### R37-1-MAHUO_ELEMENT_INVENTORY [Naming Guide Amendment / Element Inventories I. Mahuo]
 
@@ -11142,7 +11202,7 @@ The Zettari bloodline's names, titles and technique names are built in a Swahili
 
 > The Zettari speak their own tongue. Their names and their arts are Swahili, Bantu and Arabic in flavour — Kafa-Karim, Habl Flow-Bind, Sarmad Fracture, Sukun Maji, Dawam Soul-Still Art, Kumi-na-Mbili Seal; Zuberi, Ma'Kovu, N'Kharu, Malani, Jomari, N'Yari, Zembari — and that register stands. The five-strata naming convention assigns the archaic bloodlines to the Japonic stratum; the Zettari are carved out of it as a register of their own, and the Japonic assignment continues to govern every other archaic line. Ruled by Isaac, 2026-09-12.
 
-## pov (187)
+## pov (188)
 
 ### R20C-49-GLOSS_RIGHTS_CARD_FIELD [Pack Twenty R20C-49]
 
@@ -11503,6 +11563,18 @@ When a fight breaks a ward, a POV inside the craft names the failing layer as it
 At a sanctioned bout the Measurewright says her reading aloud as she takes it, so both fighters and the benches hear it, the readout reaches a fighter's own page, and a suppressed Stage is exposed in public with R70-112's bill.
 
 > Called aloud to all. She says the reading as she takes it: both fighters and the benches hear it, the readout reaches a fighter's own page, and a suppressed Stage is exposed in public, with R70-112's bill.
+
+### R78-5-FIGHTS_ANIME_ON_PAGE [Directions 2026-10-14 page-craft-questionnaire]
+
+Eastern school terms free in narration; techniques shouted in English; afterimages for speed; battles as bodies, fog of war, spectacle strikes, joined vignettes; full plain-word anatomy, anime blood, wounds shrugged off then felt, small hits add up; Hunter x Hunter reasoning; free flashbacks; talk at the pauses; one POV per stretch; will counts through vow, Resonance or breakthrough.
+
+> Isaac's direction 2026-10-14, by questionnaire (imports/drafts/page-craft-questionnaire/, round 1 batches 1 to 3, round 2 batch 3, round 3 batches 1 and 2): fights on the page. Eastern school terms (kamae, maai, chudan, qinggong, dantian) are free in narration as anime flavour. A technique's name is shouted as it fires, anime style, and the name is in English. A move too fast for the eye shows as afterimages. Formations are written as bodies only, the POV knows only what they can see, a high-Stage strike on massed troops is anime spectacle with the bodies in it, and a battle runs as close vignettes joined by the battle's turn. An open wound shows its anatomy in plain words; blood sprays in anime geysers; a fighter shrugs a wound off in the moment and the pain arrives after; every small hit is noted and they add up. A fighter thinks the fight through at length, Hunter x Hunter style. Flashbacks run freely mid-fight, Naruto style, the opponent's included. Fighters talk at the pauses between exchanges, taunts and declarations, and go quiet while the blades move. A fight stays in one head and switches POV only at a marked break. Will changes outcomes through the system: a vow, a Resonance or a breakthrough turns resolve into power the stats can feel, never a free win.
+
+### R78-8-VOICE_DIALOGUE_HUMOUR [Directions 2026-10-14 page-craft-questionnaire]
+
+Thought woven through action; emotions anime-big; full phonetic accents; soldiers' swearing; plentiful mixed banter; action-beat tags; each culture's address; earned explanations and big lines; anyone funny in their own way, anime gags from the characters who do that; named people react to power; one italic thought per NPC a scene.
+
+> Isaac's direction 2026-10-14, by questionnaire (imports/drafts/page-craft-questionnaire/, round 1 batches 5 to 7, round 2 batch 7, round 3 batch 1): voice, dialogue and humour. Thought, memory and feeling are woven steadily through the action. Emotions play anime-big throughout. Accents are written in full phonetic spelling. People swear like real soldiers and thugs, in English and their culture's oaths; nobles and priests barely. Banter is plentiful, a mixture of anime style with ribbing and jokes, because WOTR is its own thing. Dialogue tags are action beats, with said when needed. People address each other in their culture's own forms. A character explains a power aloud only from what they could know. Declarations, battle cries and villain speeches land at the moments that carry them, in each speaker's voice; catchphrases only where a card gives one. Anyone may be funny in their own way, and anime gags come from the characters who actually do that sort of thing, Borin and his kind. Banter and ribbing, anime reactions, dry and gallows wit, and crude and bawdy humour all fit. Big power draws reactions from specific named people in the crowd. NPCs keep one italic thought each per scene.
 
 ### R41-1-DISTANCE_IS_TWO_AXES [Distance Two Axes Ruling C-015]
 
@@ -11930,12 +12002,6 @@ European-school guards, cuts, timing and measure are narrated as body actions in
 
 > By the POV's own school. Narration names every move in the POV's own training (a Moto POV calls a diagonal cut kesa-giri, a Greymane POV a Zornhau); a foreign school's word arrives in a mouth. verify takes per-school lists.
 
-### R70-103-MEMORY_INSIDE_FIGHT [Style Law 2026-10-03 CB4]
-
-Once per fight the POV may freeze one turning exchange for a full flashback of his own, a page or more, and the opponent's past reaches the page only through what the POV knows.
-
-> Full flashback, POV only. The POV may take a full flashback, a page or more, frozen inside one turning exchange, once per fight. The POV lock holds; the opponent's past reaches the page only through what the POV knows.
-
 ### R70-105-JOINS_WOUND_WHEN_FIGHT [Style Law 2026-10-03 CB6]
 
 After a death by the blade, add the killing rites when the killer is Japonic, Korean or Chinese and an elegiac image when the POV's culture mourns that way, on top of the full clinical floor.
@@ -12266,7 +12332,7 @@ Narration refers to characters by POV epithets, the way the viewpoint sees them;
 
 > Narration refers to characters by POV epithets, the way the viewpoint sees them; the naming characterises.
 
-## prose-law (385)
+## prose-law (387)
 
 ### R20C-29-CATEGORY_NAMING_DIAGNOSTIC [Pack Twenty R20C-29]
 
@@ -12430,12 +12496,6 @@ A projected shape's Effect describes only what it looks/does/feels like, never w
 
 > Effect is physical only. What the shape looks like, what it does, what the room and the target feel. Never why the Wellspring resolved as a tiger and not a wolf — if that answer exists at all, it is workbook, one line at the foot, never on the page.
 
-### R9-3-AURA_AS_FRACTURE [Pack Nine PART THREE]
-
-Essence discharge reads as broken, shard-edged geometry around the body rather than a soft glow; "it glowed" stays banned, replaced for Stage-display beats specifically, not as a general phenomenon substitute.
-
-> Aura as fracture, not glow. Where Essence discharge needs a visual, it reads as broken geometry around the body — jagged, shard-edged light, not a soft radiant bloom. "It glowed" stays banned; this is its replacement specifically for a Stage-display beat, not a general substitute for the phenomenon bank.
-
 ### R8-15-DESCRIPTION_STYLE [Pack Eight 1.5]
 
 The description is written the way a man teaching it would write it: flat operational prose, no mood, no cadence work, no elegiac register — that belongs in scenes.
@@ -12525,12 +12585,6 @@ No line acknowledges that the reader knows better than the POV.
 Humour is no longer an exception to tone but a property of specific characters in the Abercrombie register: dry understatement, gallows wit from those whose profession earns it, class-inflected contempt, a character being funny without knowing it, and the joke that is also a threat.
 
 > Permitted: dry understatement, gallows wit from people whose profession earns it, class-inflected contempt, a character being funny without knowing it, and the joke that is also a threat.
-
-### R5-D-HUMOUR_BARRED [Pack Five D]
-
-The beat structure of setup, deadpan and reaction is barred; humour arrives inside dialogue and narration already in progress and never pauses the scene to land.
-
-> Barred: the beat structure of setup, deadpan and reaction. Humour no longer gets its own rhythm. It arrives inside dialogue and narration already in progress and does not pause the scene to land.
 
 ### R5-E-NARRATION_NEVER_ADJUDICATES [Pack Five E]
 
@@ -12993,6 +13047,42 @@ Only in combat roleplay, show effects, readable tells, visible body cost, read a
 Narration and italic thought reach for the most exact, most resonant word, leaning hard to the rare, Latinate, archaic and technical, several to a page and more in a set piece, from the elevated bank widened by ear; each POV keeps its reach and speech follows the card.
 
 > Isaac's direction 2026-10-11: vocabulary is pushed high. Narration and italic thought reach for the most exact and most resonant word, leaning hard toward the sophisticated: rare, Latinate, archaic and technical words a reader has to stop and weigh, several to every page and more in a set piece; the elevated bank (C-091) is used freely and widened by ear. The chosen word must carry more than its common substitute in meaning, sound or implication. Each POV keeps its reach (Verinus, Lambert, Cozbi highest; Sodoku spare but exact; Hild a child's grasp). Speech follows each card's voice. Unchanged: slop bans (R51-10, R70-35), working-man anatomy in explicit scenes, plain words in technique entries (R76-1), body-and-blade words over fencing jargon (R77-1). Written into desktop/NATALIE.md Prose Standards.
+
+### R78-3-PHYSICAL_AND_SATURATED [Directions 2026-10-14 R78-1-VOCABULARY_PUSHED_HIGH]
+
+Blows written as body, path, target, result with plain strike names, never the line/measure/tempo/vector/geometry/the read; elevated English of every root in nearly every narration sentence, stackable, fights included; elevated verbs, plain body parts; workings shown physically then named in system and science terms freely; Latin-heavy diction only for characters who speak it.
+
+> Isaac's direction 2026-10-14, by questionnaire (imports/drafts/vocab-clarity-questionnaire/): physical clarity and saturated vocabulary. A blow is written as body, path, target, result: what moved, the way it travelled, where it landed, what broke; every blow that lands carries its feet, hips or weight in a clause. Narration never uses fight abstractions (the line, measure, tempo, vector, geometry, the read); it says what the fist, foot, blade or body did, in plain action words an anime reader knows ("he came forward swinging his right hand in a jab"), and strike names such as jab, hook, uppercut and headlock are allowed. Elevated words saturate narration, nearly every sentence, fights included, and may be stacked on one noun. Elevated verbs carry the hit (cleave, stave, rend, transfix); body parts stay plain words (collarbone, jaw, ribs). A working is shown as its physical effect, then its system and scientific terms where they apply; system terms (Aether, Density, Saturation, Coherence) are free in narration, and science words, modern ones included, count as elevated vocabulary in narration. The vocabulary is sophisticated English of every root, old, archaic, learned and technical, never a Latin-only lean; Latin-heavy diction belongs to the characters whose card or culture speaks it. Enforced by verify_scene WARNs (fight abstraction in narration; under half of narration sentences carrying a bank word) and by the elevated bank's new fight, old-English and workings sections.
+
+### R78-4-WOTR_IDENTITY_TONE [Directions 2026-10-14 page-craft-questionnaire]
+
+WOTR is a dark shonen cultivation fantasy in a magitech world: dark stakes, shonen heart, frequent wins at a price, cruelty only when earned; Arcane/FMA, Bleach and Naruto settings, Final Fantasy and LotM looks; magitech everywhere in cities; a beautiful, fantastical land; not muted, not driven home as grimdark.
+
+> Isaac's direction 2026-10-14, by questionnaire (imports/drafts/page-craft-questionnaire/, round 2 batches 1 and 4): what WOTR is. WOTR is a dark shonen fantasy with cultivation at its core, in a magitech, magipunk world where things run off magic; it is its own thing and is not driven home as grimdark. Dark stakes, shonen heart: the world is brutal and costs are real, and people fight back with will, bonds and growth and can win. The protagonists win often, each win at a visible price, and some arcs end in loss. Cruelty comes when the story earns it, at turning points, written in full; the world is dangerous, never grinding every page. The look draws on Arcane and Fullmetal Alchemist, the settings of Bleach and Naruto, Final Fantasy, and Lord of the Mysteries together. The land is wildly fantastical and earthlike at once, beautiful throughout, and its own. Magitech is everywhere in the cities (lights, heat, water, transport) and thins in the towns and the wilds. Cities are grand and lived-in: breathtaking skylines and craft over real streets, smells and poor quarters. The palette is not muted or grey; WOTR has its own beautiful design.
+
+### R78-5-FIGHTS_ANIME_ON_PAGE [Directions 2026-10-14 page-craft-questionnaire]
+
+Eastern school terms free in narration; techniques shouted in English; afterimages for speed; battles as bodies, fog of war, spectacle strikes, joined vignettes; full plain-word anatomy, anime blood, wounds shrugged off then felt, small hits add up; Hunter x Hunter reasoning; free flashbacks; talk at the pauses; one POV per stretch; will counts through vow, Resonance or breakthrough.
+
+> Isaac's direction 2026-10-14, by questionnaire (imports/drafts/page-craft-questionnaire/, round 1 batches 1 to 3, round 2 batch 3, round 3 batches 1 and 2): fights on the page. Eastern school terms (kamae, maai, chudan, qinggong, dantian) are free in narration as anime flavour. A technique's name is shouted as it fires, anime style, and the name is in English. A move too fast for the eye shows as afterimages. Formations are written as bodies only, the POV knows only what they can see, a high-Stage strike on massed troops is anime spectacle with the bodies in it, and a battle runs as close vignettes joined by the battle's turn. An open wound shows its anatomy in plain words; blood sprays in anime geysers; a fighter shrugs a wound off in the moment and the pain arrives after; every small hit is noted and they add up. A fighter thinks the fight through at length, Hunter x Hunter style. Flashbacks run freely mid-fight, Naruto style, the opponent's included. Fighters talk at the pauses between exchanges, taunts and declarations, and go quiet while the blades move. A fight stays in one head and switches POV only at a marked break. Will changes outcomes through the system: a vow, a Resonance or a breakthrough turns resolve into power the stats can feel, never a free win.
+
+### R78-6-POWER_ANIME_ON_PAGE [Directions 2026-10-14 page-craft-questionnaire]
+
+Qi cultivation with Hunter x Hunter, Dragon Ball, Bleach and Naruto ideas: a personal coloured aura, full transformation power-ups, Stage-scaled damage shown, a signature sound per technique with anime flair, open sensing and talk of strength, vows central, held power revealed on planted hints, upsets across one Stage with a read, named staged release forms, and fewer readouts.
+
+> Isaac's direction 2026-10-14, by questionnaire (imports/drafts/page-craft-questionnaire/, round 1 batch 4, round 2 batch 5, round 3 batches 2 and 3): power on the page. WOTR's system is a mixture of qi cultivation and the ideas of Hunter x Hunter, Dragon Ball, Bleach and Naruto, and that shows in how power reads. Each practitioner's power has a visible aura in their own colour and feel, brighter as they push. A power-up or breakthrough is full transformation spectacle: the body and the world change visibly. Damage to the surroundings scales with Stage and is shown. Every technique has its own signature sound, with anime flair. Practitioners sense each other's strength and talk about it openly, Bleach and Dragon Ball style. Self-imposed vows and conditions that buy power are common and central, and reading an enemy's condition is half the fight. Strong fighters hold power back for a reason and reveal it at the right moment, with planted hints. A lower-Stage fighter can beat a higher one across one Stage with a read; two or more takes something extraordinary, a vow or a breakthrough. Many practitioners have named, staged release forms tied to the system, each with a name, a look and a cost. Status screens and readouts become fewer, Bleach style: numbers live in the notes and diagnostic talk.
+
+### R78-7-CULTIVATION_AND_STORY [Directions 2026-10-14 page-craft-questionnaire]
+
+Breakthroughs by crisis, seclusion or tribulation; resources drive plot; xianxia ranks in WOTR institutions; real young masters; tournament, training, rescue and war arcs under one main villain revealed in stages with ranked lieutenants; understandable villains; rival to ally; mentors may die; bonds mostly hold; a core crew; the dead stay dead save rare costly returns; romance central; time skips; cliffhanger endings; Hollow-style Well-spawn; POV-eye fanservice.
+
+> Isaac's direction 2026-10-14, by questionnaire (imports/drafts/page-craft-questionnaire/, round 2 batches 2, 3, 6 and 8, round 3 batches 2 and 3): cultivation and story. Stage breakthroughs come by crisis, seclusion or tribulation, a mixture of all three. Cultivation resources (Drafts, Cores, treasures) are a real driver of plot. Sects, schools and academies run on xianxia ranks (outer and inner disciples, elders, ranking contests) inside WOTR's own institutions. The arrogant young master and his humbling are used, written as real people with real wants. WOTR runs tournament, training, rescue and invasion, and war arcs, under a Bleach or Dragon Ball shape: one main villain with many people working for him, Aizen or Yhwach, felt early and revealed in stages, over an elite ranked circle of lieutenants each with a power, a look, a philosophy and a fight that matters. Villains are understandable, some arguably right. The rival goes from rival to reluctant ally. Mentors: some die, some do not. Bonds mostly hold and are tested hard. The protagonist runs with a core crew, each with a role. The dead stay dead, with rare costly exceptions. Romance short of the explicit is central to many threads. Time skips run between big arcs. Chapters and arcs end on hooks and cliffhangers. Well-spawn are Hollow-style, shaped by the Well that made them. Fanservice outside explicit scenes comes only from what the POV notices.
+
+### R78-8-VOICE_DIALOGUE_HUMOUR [Directions 2026-10-14 page-craft-questionnaire]
+
+Thought woven through action; emotions anime-big; full phonetic accents; soldiers' swearing; plentiful mixed banter; action-beat tags; each culture's address; earned explanations and big lines; anyone funny in their own way, anime gags from the characters who do that; named people react to power; one italic thought per NPC a scene.
+
+> Isaac's direction 2026-10-14, by questionnaire (imports/drafts/page-craft-questionnaire/, round 1 batches 5 to 7, round 2 batch 7, round 3 batch 1): voice, dialogue and humour. Thought, memory and feeling are woven steadily through the action. Emotions play anime-big throughout. Accents are written in full phonetic spelling. People swear like real soldiers and thugs, in English and their culture's oaths; nobles and priests barely. Banter is plentiful, a mixture of anime style with ribbing and jokes, because WOTR is its own thing. Dialogue tags are action beats, with said when needed. People address each other in their culture's own forms. A character explains a power aloud only from what they could know. Declarations, battle cries and villain speeches land at the moments that carry them, in each speaker's voice; catchphrases only where a card gives one. Anyone may be funny in their own way, and anime gags come from the characters who actually do that sort of thing, Borin and his kind. Banter and ribbing, anime reactions, dry and gallows wit, and crude and bawdy humour all fit. Big power draws reactions from specific named people in the crowd. NPCs keep one italic thought each per scene.
 
 ### R41-1-DISTANCE_IS_TWO_AXES [Distance Two Axes Ruling C-015]
 
@@ -14086,12 +14176,6 @@ Write a Verdict duel as stillness then one cut, a Blade duel as traced passes an
 
 > Shape follows the grammar. A rule ties duel shape to the four combat grammars: Verdict still then one cut, Blade traced passes, Percussion and Expenditure by attrition; practitioners escalate while reserve lasts. R60-01 holds for the unranked.
 
-### R70-103-MEMORY_INSIDE_FIGHT [Style Law 2026-10-03 CB4]
-
-Once per fight the POV may freeze one turning exchange for a full flashback of his own, a page or more, and the opponent's past reaches the page only through what the POV knows.
-
-> Full flashback, POV only. The POV may take a full flashback, a page or more, frozen inside one turning exchange, once per fight. The POV lock holds; the opponent's past reaches the page only through what the POV knows.
-
 ### R70-105-JOINS_WOUND_WHEN_FIGHT [Style Law 2026-10-03 CB6]
 
 After a death by the blade, add the killing rites when the killer is Japonic, Korean or Chinese and an elegiac image when the POV's culture mourns that way, on top of the full clinical floor.
@@ -14103,12 +14187,6 @@ After a death by the blade, add the killing rites when the killer is Japonic, Ko
 Tell a formation battle in POV-locked sections that cut, at marked breaks, between a commander on the hill and one man in the press, with R1-3's three heads covering both.
 
 > Hill and ditch, cut. A battle cuts between the commander's hill and one man in the press at marked breaks, each section POV-locked; the breaks stand in for the guide's rule to 'pass through Line'. R1-3's three heads cover both.
-
-### R70-113-DOUBLE_ACT_COMIC_BEAT [Style Law 2026-10-03 HU1]
-
-Comic voices and double acts named as such on their cards may play full comic beats, retort and reaction included, while every other character stays under R5-D's bar on the setup, deadpan and reaction rhythm.
-
-> Full beats for comic voices. Full comic beats, retort and reaction included, belong to comic voices and double acts named on their cards; everyone else stays under R5-D.
 
 ### R70-114-GRIMDARK_WARMTH [Style Law 2026-10-03 HU2]
 
@@ -14578,7 +14656,7 @@ Narration refers to characters by POV epithets, the way the viewpoint sees them;
 
 > Narration refers to characters by POV epithets, the way the viewpoint sees them; the naming characterises.
 
-## register (200)
+## register (203)
 
 ### R20C-21-WELL_NAMES_CLASS_MARKED [Pack Twenty R20C-21]
 
@@ -15047,6 +15125,24 @@ In all WOTR prose, including dialogue, replace HEMA and European fencing-manual 
 Narration and italic thought reach for the most exact, most resonant word, leaning hard to the rare, Latinate, archaic and technical, several to a page and more in a set piece, from the elevated bank widened by ear; each POV keeps its reach and speech follows the card.
 
 > Isaac's direction 2026-10-11: vocabulary is pushed high. Narration and italic thought reach for the most exact and most resonant word, leaning hard toward the sophisticated: rare, Latinate, archaic and technical words a reader has to stop and weigh, several to every page and more in a set piece; the elevated bank (C-091) is used freely and widened by ear. The chosen word must carry more than its common substitute in meaning, sound or implication. Each POV keeps its reach (Verinus, Lambert, Cozbi highest; Sodoku spare but exact; Hild a child's grasp). Speech follows each card's voice. Unchanged: slop bans (R51-10, R70-35), working-man anatomy in explicit scenes, plain words in technique entries (R76-1), body-and-blade words over fencing jargon (R77-1). Written into desktop/NATALIE.md Prose Standards.
+
+### R78-3-PHYSICAL_AND_SATURATED [Directions 2026-10-14 R78-1-VOCABULARY_PUSHED_HIGH]
+
+Blows written as body, path, target, result with plain strike names, never the line/measure/tempo/vector/geometry/the read; elevated English of every root in nearly every narration sentence, stackable, fights included; elevated verbs, plain body parts; workings shown physically then named in system and science terms freely; Latin-heavy diction only for characters who speak it.
+
+> Isaac's direction 2026-10-14, by questionnaire (imports/drafts/vocab-clarity-questionnaire/): physical clarity and saturated vocabulary. A blow is written as body, path, target, result: what moved, the way it travelled, where it landed, what broke; every blow that lands carries its feet, hips or weight in a clause. Narration never uses fight abstractions (the line, measure, tempo, vector, geometry, the read); it says what the fist, foot, blade or body did, in plain action words an anime reader knows ("he came forward swinging his right hand in a jab"), and strike names such as jab, hook, uppercut and headlock are allowed. Elevated words saturate narration, nearly every sentence, fights included, and may be stacked on one noun. Elevated verbs carry the hit (cleave, stave, rend, transfix); body parts stay plain words (collarbone, jaw, ribs). A working is shown as its physical effect, then its system and scientific terms where they apply; system terms (Aether, Density, Saturation, Coherence) are free in narration, and science words, modern ones included, count as elevated vocabulary in narration. The vocabulary is sophisticated English of every root, old, archaic, learned and technical, never a Latin-only lean; Latin-heavy diction belongs to the characters whose card or culture speaks it. Enforced by verify_scene WARNs (fight abstraction in narration; under half of narration sentences carrying a bank word) and by the elevated bank's new fight, old-English and workings sections.
+
+### R78-4-WOTR_IDENTITY_TONE [Directions 2026-10-14 page-craft-questionnaire]
+
+WOTR is a dark shonen cultivation fantasy in a magitech world: dark stakes, shonen heart, frequent wins at a price, cruelty only when earned; Arcane/FMA, Bleach and Naruto settings, Final Fantasy and LotM looks; magitech everywhere in cities; a beautiful, fantastical land; not muted, not driven home as grimdark.
+
+> Isaac's direction 2026-10-14, by questionnaire (imports/drafts/page-craft-questionnaire/, round 2 batches 1 and 4): what WOTR is. WOTR is a dark shonen fantasy with cultivation at its core, in a magitech, magipunk world where things run off magic; it is its own thing and is not driven home as grimdark. Dark stakes, shonen heart: the world is brutal and costs are real, and people fight back with will, bonds and growth and can win. The protagonists win often, each win at a visible price, and some arcs end in loss. Cruelty comes when the story earns it, at turning points, written in full; the world is dangerous, never grinding every page. The look draws on Arcane and Fullmetal Alchemist, the settings of Bleach and Naruto, Final Fantasy, and Lord of the Mysteries together. The land is wildly fantastical and earthlike at once, beautiful throughout, and its own. Magitech is everywhere in the cities (lights, heat, water, transport) and thins in the towns and the wilds. Cities are grand and lived-in: breathtaking skylines and craft over real streets, smells and poor quarters. The palette is not muted or grey; WOTR has its own beautiful design.
+
+### R78-8-VOICE_DIALOGUE_HUMOUR [Directions 2026-10-14 page-craft-questionnaire]
+
+Thought woven through action; emotions anime-big; full phonetic accents; soldiers' swearing; plentiful mixed banter; action-beat tags; each culture's address; earned explanations and big lines; anyone funny in their own way, anime gags from the characters who do that; named people react to power; one italic thought per NPC a scene.
+
+> Isaac's direction 2026-10-14, by questionnaire (imports/drafts/page-craft-questionnaire/, round 1 batches 5 to 7, round 2 batch 7, round 3 batch 1): voice, dialogue and humour. Thought, memory and feeling are woven steadily through the action. Emotions play anime-big throughout. Accents are written in full phonetic spelling. People swear like real soldiers and thugs, in English and their culture's oaths; nobles and priests barely. Banter is plentiful, a mixture of anime style with ribbing and jokes, because WOTR is its own thing. Dialogue tags are action beats, with said when needed. People address each other in their culture's own forms. A character explains a power aloud only from what they could know. Declarations, battle cries and villain speeches land at the moments that carry them, in each speaker's voice; catchphrases only where a card gives one. Anyone may be funny in their own way, and anime gags come from the characters who actually do that sort of thing, Borin and his kind. Banter and ribbing, anime reactions, dry and gallows wit, and crude and bawdy humour all fit. Big power draws reactions from specific named people in the crowd. NPCs keep one italic thought each per scene.
 
 ### R58-05-SWEARS_AND_SENSE_BANKS_APPROVED [Follow-up Rulings 2026-09-26 Follow-up answers]
 
@@ -15830,12 +15926,6 @@ Where a scene could be written from two POVs, write it from whoever knows least 
 
 > Where a scene could be written from two POVs, write it from whoever knows least about what is coming. This is a default, breakable with reason.
 
-### R5-D-HUMOUR_BARRED [Pack Five D]
-
-The beat structure of setup, deadpan and reaction is barred; humour arrives inside dialogue and narration already in progress and never pauses the scene to land.
-
-> Barred: the beat structure of setup, deadpan and reaction. Humour no longer gets its own rhythm. It arrives inside dialogue and narration already in progress and does not pause the scene to land.
-
 ### R5-F-LIGHT_NOVEL_KEPT [Pack Five F]
 
 The chapter as a hard unit with one objective and a hook at close; legibility as reader pleasure (the argument for the Codex); and fast entry, chapters opening inside the situation.
@@ -16039,6 +16129,18 @@ After a fight each cost arrives in the aftermath as a person or a paper (the fee
 When a fight ends in a death, law moves only on a witness or a reading inside the residue clocks (an unread killing sits on the Ledger as a risk), every practitioner's killing opens a jurisdiction contest between crown, company and guild as a Front, and a killer who does not declare before witnesses by the next dawn is a murderer in every culture that keeps witnesses, the declaration being its own short scene.
 
 > Yes to: Proof decides (Law moves only on a witness or a reading inside the residue clocks (R61-7); R60-11's trace proof reaches blade killings too. An unread killing sits on the Ledger as a risk); Courts fight over it (Every practitioner's killing opens a jurisdiction contest between crown, company and guild (R60-19) as a Front, and the killer's fate turns on which layer wins it); Declare it, or murder (A killer who does not declare before witnesses by the next dawn is a murderer in every culture that keeps witnesses, Kharven and Korvaeth first. The declaration is its own short scene). Not taken: Standing buys terms.
+
+### R78-4-WOTR_IDENTITY_TONE [Directions 2026-10-14 page-craft-questionnaire]
+
+WOTR is a dark shonen cultivation fantasy in a magitech world: dark stakes, shonen heart, frequent wins at a price, cruelty only when earned; Arcane/FMA, Bleach and Naruto settings, Final Fantasy and LotM looks; magitech everywhere in cities; a beautiful, fantastical land; not muted, not driven home as grimdark.
+
+> Isaac's direction 2026-10-14, by questionnaire (imports/drafts/page-craft-questionnaire/, round 2 batches 1 and 4): what WOTR is. WOTR is a dark shonen fantasy with cultivation at its core, in a magitech, magipunk world where things run off magic; it is its own thing and is not driven home as grimdark. Dark stakes, shonen heart: the world is brutal and costs are real, and people fight back with will, bonds and growth and can win. The protagonists win often, each win at a visible price, and some arcs end in loss. Cruelty comes when the story earns it, at turning points, written in full; the world is dangerous, never grinding every page. The look draws on Arcane and Fullmetal Alchemist, the settings of Bleach and Naruto, Final Fantasy, and Lord of the Mysteries together. The land is wildly fantastical and earthlike at once, beautiful throughout, and its own. Magitech is everywhere in the cities (lights, heat, water, transport) and thins in the towns and the wilds. Cities are grand and lived-in: breathtaking skylines and craft over real streets, smells and poor quarters. The palette is not muted or grey; WOTR has its own beautiful design.
+
+### R78-7-CULTIVATION_AND_STORY [Directions 2026-10-14 page-craft-questionnaire]
+
+Breakthroughs by crisis, seclusion or tribulation; resources drive plot; xianxia ranks in WOTR institutions; real young masters; tournament, training, rescue and war arcs under one main villain revealed in stages with ranked lieutenants; understandable villains; rival to ally; mentors may die; bonds mostly hold; a core crew; the dead stay dead save rare costly returns; romance central; time skips; cliffhanger endings; Hollow-style Well-spawn; POV-eye fanservice.
+
+> Isaac's direction 2026-10-14, by questionnaire (imports/drafts/page-craft-questionnaire/, round 2 batches 2, 3, 6 and 8, round 3 batches 2 and 3): cultivation and story. Stage breakthroughs come by crisis, seclusion or tribulation, a mixture of all three. Cultivation resources (Drafts, Cores, treasures) are a real driver of plot. Sects, schools and academies run on xianxia ranks (outer and inner disciples, elders, ranking contests) inside WOTR's own institutions. The arrogant young master and his humbling are used, written as real people with real wants. WOTR runs tournament, training, rescue and invasion, and war arcs, under a Bleach or Dragon Ball shape: one main villain with many people working for him, Aizen or Yhwach, felt early and revealed in stages, over an elite ranked circle of lieutenants each with a power, a look, a philosophy and a fight that matters. Villains are understandable, some arguably right. The rival goes from rival to reluctant ally. Mentors: some die, some do not. Bonds mostly hold and are tested hard. The protagonist runs with a core crew, each with a role. The dead stay dead, with rare costly exceptions. Romance short of the explicit is central to many threads. Time skips run between big arcs. Chapters and arcs end on hooks and cliffhangers. Well-spawn are Hollow-style, shaped by the Well that made them. Fanservice outside explicit scenes comes only from what the POV notices.
 
 ### R73-1-EXPLICIT_SCENE_EARNS [Intimacy Law 2026-10-04 K1]
 
@@ -16459,12 +16561,6 @@ Each book chapter closes, above the notes, with a short block of what moved on t
 Write a Verdict duel as stillness then one cut, a Blade duel as traced passes and a Percussion or Expenditure duel as attrition, let practitioners escalate only while their reserve lasts, and keep unranked fighters under R60-01's fast, brutal lethality.
 
 > Shape follows the grammar. A rule ties duel shape to the four combat grammars: Verdict still then one cut, Blade traced passes, Percussion and Expenditure by attrition; practitioners escalate while reserve lasts. R60-01 holds for the unranked.
-
-### R70-103-MEMORY_INSIDE_FIGHT [Style Law 2026-10-03 CB4]
-
-Once per fight the POV may freeze one turning exchange for a full flashback of his own, a page or more, and the opponent's past reaches the page only through what the POV knows.
-
-> Full flashback, POV only. The POV may take a full flashback, a page or more, frozen inside one turning exchange, once per fight. The POV lock holds; the opponent's past reaches the page only through what the POV knows.
 
 ### R70-106-BATTLE_TOLD [Style Law 2026-10-03 CB7]
 
@@ -17928,7 +18024,7 @@ No decade-by-decade technology page: the partner judges what is era-appropriate 
 
 > No decade-by-decade technology page: the partner judges what is era-appropriate in the Imperial Age scene by scene.
 
-## stats (209)
+## stats (211)
 
 ### R20C-30-STAGE_NAMES_FROM_FOW [Pack Twenty R20C-30]
 
@@ -18481,6 +18577,18 @@ Only in combat roleplay, show effects, readable tells, visible body cost, read a
 Essence and stamina run on a hard clock by the Ledger's numbers; long fights are won by whoever manages the reserve; Starvation hits mid-fight on overspend.
 
 > Essence and stamina run on a hard clock by the Ledger's numbers; long fights are won by whoever manages the reserve; Starvation hits mid-fight on overspend.
+
+### R78-6-POWER_ANIME_ON_PAGE [Directions 2026-10-14 page-craft-questionnaire]
+
+Qi cultivation with Hunter x Hunter, Dragon Ball, Bleach and Naruto ideas: a personal coloured aura, full transformation power-ups, Stage-scaled damage shown, a signature sound per technique with anime flair, open sensing and talk of strength, vows central, held power revealed on planted hints, upsets across one Stage with a read, named staged release forms, and fewer readouts.
+
+> Isaac's direction 2026-10-14, by questionnaire (imports/drafts/page-craft-questionnaire/, round 1 batch 4, round 2 batch 5, round 3 batches 2 and 3): power on the page. WOTR's system is a mixture of qi cultivation and the ideas of Hunter x Hunter, Dragon Ball, Bleach and Naruto, and that shows in how power reads. Each practitioner's power has a visible aura in their own colour and feel, brighter as they push. A power-up or breakthrough is full transformation spectacle: the body and the world change visibly. Damage to the surroundings scales with Stage and is shown. Every technique has its own signature sound, with anime flair. Practitioners sense each other's strength and talk about it openly, Bleach and Dragon Ball style. Self-imposed vows and conditions that buy power are common and central, and reading an enemy's condition is half the fight. Strong fighters hold power back for a reason and reveal it at the right moment, with planted hints. A lower-Stage fighter can beat a higher one across one Stage with a read; two or more takes something extraordinary, a vow or a breakthrough. Many practitioners have named, staged release forms tied to the system, each with a name, a look and a cost. Status screens and readouts become fewer, Bleach style: numbers live in the notes and diagnostic talk.
+
+### R78-7-CULTIVATION_AND_STORY [Directions 2026-10-14 page-craft-questionnaire]
+
+Breakthroughs by crisis, seclusion or tribulation; resources drive plot; xianxia ranks in WOTR institutions; real young masters; tournament, training, rescue and war arcs under one main villain revealed in stages with ranked lieutenants; understandable villains; rival to ally; mentors may die; bonds mostly hold; a core crew; the dead stay dead save rare costly returns; romance central; time skips; cliffhanger endings; Hollow-style Well-spawn; POV-eye fanservice.
+
+> Isaac's direction 2026-10-14, by questionnaire (imports/drafts/page-craft-questionnaire/, round 2 batches 2, 3, 6 and 8, round 3 batches 2 and 3): cultivation and story. Stage breakthroughs come by crisis, seclusion or tribulation, a mixture of all three. Cultivation resources (Drafts, Cores, treasures) are a real driver of plot. Sects, schools and academies run on xianxia ranks (outer and inner disciples, elders, ranking contests) inside WOTR's own institutions. The arrogant young master and his humbling are used, written as real people with real wants. WOTR runs tournament, training, rescue and invasion, and war arcs, under a Bleach or Dragon Ball shape: one main villain with many people working for him, Aizen or Yhwach, felt early and revealed in stages, over an elite ranked circle of lieutenants each with a power, a look, a philosophy and a fight that matters. Villains are understandable, some arguably right. The rival goes from rival to reluctant ally. Mentors: some die, some do not. Bonds mostly hold and are tested hard. The protagonist runs with a core crew, each with a role. The dead stay dead, with rare costly exceptions. Romance short of the explicit is central to many threads. Time skips run between big arcs. Chapters and arcs end on hooks and cliffhangers. Well-spawn are Hollow-style, shaped by the Well that made them. Fanservice outside explicit scenes comes only from what the POV notices.
 
 ### R44-1-EU_JOULE_ONE_MEGAJOULE [Essence Ledger Rulings 2026-09-25 C-034]
 
@@ -19957,7 +20065,7 @@ When the partner thinks a beat is drifting or a rule reads wrong, it says so in 
 
 > When the partner thinks a beat is drifting or a rule reads wrong, it says so in one plain line and keeps writing unless stopped.
 
-## worldbuilding (359)
+## worldbuilding (361)
 
 ### R20C-1-BURI_DEAD_EVERYWHERE [Pack Twenty R20C-1]
 
@@ -20210,12 +20318,6 @@ The new power-display register applies only to Stage-ascension beats, a Pressure
 At a Stage threshold or dropped suppression, the eyes go first — light behind them, overtaking iris and sclera — rendered as a fact the room reacts to, still costing the Apparatus Rule's one read.
 
 > Eyes as the tell. At a Stage threshold or a dropped suppression, the eyes go first — light behind them rather than in them, overtaking iris and sclera both. Rendered as a fact the room reacts to; the Apparatus Rule still applies, one read and then silence.
-
-### R9-3-AURA_AS_FRACTURE [Pack Nine PART THREE]
-
-Essence discharge reads as broken, shard-edged geometry around the body rather than a soft glow; "it glowed" stays banned, replaced for Stage-display beats specifically, not as a general phenomenon substitute.
-
-> Aura as fracture, not glow. Where Essence discharge needs a visual, it reads as broken geometry around the body — jagged, shard-edged light, not a soft radiant bloom. "It glowed" stays banned; this is its replacement specifically for a Stage-display beat, not a general substitute for the phenomenon bank.
 
 ### R9-3-BODY_UNDER_LOAD [Pack Nine PART THREE]
 
@@ -20996,6 +21098,24 @@ The Night Watch Society is one body with the Night Watch: a crown-chartered soci
 Modern science, to the present day, may explain workings and fights and drive magical research; it is known through the Aether by high-Stage practitioners, Measurewrights and scholars, never by commoners; built hardware keeps the R53-01 span and the R53-03 firearm ceiling.
 
 > Isaac's direction 2026-10-13: the 1900 limit on scientific ideas is retracted. Ideas from modern science (physics, chemistry, biology and the rest, up to the present day) may be used in battle and in magical advancement: to explain how a working or a fight operates, to drive a practitioner's or a school's magical research, and to found new techniques. Who knows them is earned by magic: high-Stage practitioners, Measurewrights and scholars reach them through the Aether before any instrument could, so they speak in diagnostic voices and the author notes, while commoners keep their own words for the same thing. Manufactured technology is unchanged: the Imperial Age span (R53-01, the 1800s into the middle of the 1900s) and the firearm ceiling at 1900 hardware (R53-03) still govern what is built and carried. This closes C-158: R11-C's "nothing post-1900" no longer limits ideas, and R53-01 governs hardware.
+
+### R78-4-WOTR_IDENTITY_TONE [Directions 2026-10-14 page-craft-questionnaire]
+
+WOTR is a dark shonen cultivation fantasy in a magitech world: dark stakes, shonen heart, frequent wins at a price, cruelty only when earned; Arcane/FMA, Bleach and Naruto settings, Final Fantasy and LotM looks; magitech everywhere in cities; a beautiful, fantastical land; not muted, not driven home as grimdark.
+
+> Isaac's direction 2026-10-14, by questionnaire (imports/drafts/page-craft-questionnaire/, round 2 batches 1 and 4): what WOTR is. WOTR is a dark shonen fantasy with cultivation at its core, in a magitech, magipunk world where things run off magic; it is its own thing and is not driven home as grimdark. Dark stakes, shonen heart: the world is brutal and costs are real, and people fight back with will, bonds and growth and can win. The protagonists win often, each win at a visible price, and some arcs end in loss. Cruelty comes when the story earns it, at turning points, written in full; the world is dangerous, never grinding every page. The look draws on Arcane and Fullmetal Alchemist, the settings of Bleach and Naruto, Final Fantasy, and Lord of the Mysteries together. The land is wildly fantastical and earthlike at once, beautiful throughout, and its own. Magitech is everywhere in the cities (lights, heat, water, transport) and thins in the towns and the wilds. Cities are grand and lived-in: breathtaking skylines and craft over real streets, smells and poor quarters. The palette is not muted or grey; WOTR has its own beautiful design.
+
+### R78-7-CULTIVATION_AND_STORY [Directions 2026-10-14 page-craft-questionnaire]
+
+Breakthroughs by crisis, seclusion or tribulation; resources drive plot; xianxia ranks in WOTR institutions; real young masters; tournament, training, rescue and war arcs under one main villain revealed in stages with ranked lieutenants; understandable villains; rival to ally; mentors may die; bonds mostly hold; a core crew; the dead stay dead save rare costly returns; romance central; time skips; cliffhanger endings; Hollow-style Well-spawn; POV-eye fanservice.
+
+> Isaac's direction 2026-10-14, by questionnaire (imports/drafts/page-craft-questionnaire/, round 2 batches 2, 3, 6 and 8, round 3 batches 2 and 3): cultivation and story. Stage breakthroughs come by crisis, seclusion or tribulation, a mixture of all three. Cultivation resources (Drafts, Cores, treasures) are a real driver of plot. Sects, schools and academies run on xianxia ranks (outer and inner disciples, elders, ranking contests) inside WOTR's own institutions. The arrogant young master and his humbling are used, written as real people with real wants. WOTR runs tournament, training, rescue and invasion, and war arcs, under a Bleach or Dragon Ball shape: one main villain with many people working for him, Aizen or Yhwach, felt early and revealed in stages, over an elite ranked circle of lieutenants each with a power, a look, a philosophy and a fight that matters. Villains are understandable, some arguably right. The rival goes from rival to reluctant ally. Mentors: some die, some do not. Bonds mostly hold and are tested hard. The protagonist runs with a core crew, each with a role. The dead stay dead, with rare costly exceptions. Romance short of the explicit is central to many threads. Time skips run between big arcs. Chapters and arcs end on hooks and cliffhangers. Well-spawn are Hollow-style, shaped by the Well that made them. Fanservice outside explicit scenes comes only from what the POV notices.
+
+### R78-9-SYSTEM_TOUCHUPS [Directions 2026-10-14 system-touchups-questionnaire]
+
+Passive stat base plus active reinforcement that can be focused and leaves gaps, shown as an aura coat, lost when caught off guard; fight Drafts with a crash, graded by Stage, a trade at every level, a catalogue of about twenty; cheap runed gear common, great pieces old, bonded weapons tied to releases, rare living-body runes, prepared tags; basics by school, cultivation by breath, Wellsprings, fights and seclusion, guarded school secrets, guilds sneer while the world cheers; a one-page primer, plain glosses, rule-look-cost-counter-example explainers, and an audit of the Magic System pages.
+
+> Isaac's direction 2026-10-14, by questionnaire (imports/drafts/system-touchups/): magic system touch-ups. Enhancement: a practitioner's stats are always in the body as a passive base, and active reinforcement pushes further for a cost in reserve; it can be concentrated in one place and leaves the rest thin, so reading where it went is part of the fight; it shows as a coat of the practitioner's own aura, thicker where they push, with the body change beneath; asleep, drugged or surprised, they keep the passive base and lose the active layer, so ambush is a real tactic. Drafts: a few fight Drafts may be drunk mid-fight, each taking a beat and leaving a crash; Drafts are graded by the Stage they serve; the Draft trade runs everywhere, from corner apothecaries to smugglers, counterfeits and breakthrough Drafts fought over like treasure; a standard catalogue of about twenty common Drafts is kept. Enchantment: cheap runed gear is common and the great pieces are old, rare and cannot be remade; some fighters bond a weapon over years that takes part in their release forms and grows with them; runes cut into a living body are a rare, dangerous high art; prepared tags, Naruto style, are carried into battle. Training: basics are taught by each school, not universally; practitioners cultivate by breathing and drawing at Wellsprings or in dense Aether, by sparring and real fights, and by seclusion before a Threshold; a school's methods and forms are guarded secrets worth stealing and fighting over; the guilds still sneer at fighters as mouths while the public, armies and sects idolise great ones. Concision: the Magic System gets a one-page plain-English primer; every term gets a plain gloss beside it at first use on each page; each topic explainer runs rule, look, cost, counter, example; and the Magic System pages are audited and fixed for copy errors and contradictions with the new rules, each change logged.
 
 ### R37-1-MAHUO_ELEMENT_INVENTORY [Naming Guide Amendment / Element Inventories I. Mahuo]
 

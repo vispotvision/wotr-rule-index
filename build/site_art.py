@@ -25,7 +25,7 @@ SECTIONS = {
     "The Bestiary": ("bestiary", "#c43a5a", "#250a12", "bestiary", "What hunts the dark, and what the Wells spawn into it."),
     "Lore & History": ("lore", "#d8ab4f", "#21180a", "lore", "The chronicles, the codices, and what the record keeps."),
     "Materials, Alchemy & Trade": ("materials", "#46c27a", "#0a2014", "alchemy", "Ores, Drafts, prepared tags and the price of everything."),
-    "The War Cycle": ("war", "#e2603a", "#2a0f06", None, "How a war is paid for, marched, fought, survived and buried."),
+    "The War Cycle": ("war", "#e2603a", "#2a0f06", "war-cycle", "How a war is paid for, marched, fought, survived and buried."),
 }
 DEFAULT = ("crown", "#d8ab4f", "#1c140b", "hero", "")
 
@@ -47,6 +47,17 @@ FOLDER_ART = {
     "Factions, Bloodlines & Institutions/Houses and Bloodlines/The Archaic Bloodlines/The Moto Bloodline": "moto",
     "Factions, Bloodlines & Institutions/Houses and Bloodlines/The Archaic Bloodlines/The Zettari": "zettari",
     "Factions, Bloodlines & Institutions/Orders, Faiths and Cults": "orders-faiths",
+    "Geography & the Four Quarters/The Bearing and the Holding": "bearing-holding",
+    "Geography & the Four Quarters/The Bearing and the Holding/The Inner World — The Northern Shield": "northern-shield",
+    "Geography & the Four Quarters/Value, Coin and Trade": "coin-trade",
+    "Races & Peoples/The Peoples/The Dawi Peoples": "dawi",
+    "Races & Peoples/The Peoples/The Elven Peoples": "elven",
+    "Races & Peoples/The Peoples/The Beastkin and Demihuman Peoples": "beastkin",
+    "Races & Peoples/The Tongues of the Realms": "tongues",
+    "Races & Peoples/The Tongues of the Realms/The Grammars": "tongues",
+    "Races & Peoples/The Tongues of the Realms/Naming and Usage": "tongues",
+    "Factions, Bloodlines & Institutions/Powers and Polities/The Guild Accord/Structure and Rank": "practice-institution",
+    "Factions, Bloodlines & Institutions/Powers and Polities/The Guild Accord/Seats and Arms": "guild-accord",
 }
 
 # Crests, drawn on a 200x200 box centred at (100,100); stroke-only, painted with currentColor.

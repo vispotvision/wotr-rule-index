@@ -69,7 +69,7 @@ What remains is maintenance rather than construction: the Drow Shadow-Veil notat
 - [[Races & Peoples/The Tongues of the Realms/Eressean and Varrisak — The Tongue of the Vey-Elarin]]
 - [[Races & Peoples/The Tongues of the Realms/Runic Dawi — The Tongue of the Holds]]
 - [[Races & Peoples/The Tongues of the Realms/Accord Latin — The Formulary and the Two Spoken Registers]]
-- [[Races & Peoples/The Tongues of the Realms/Common — The Tongue With No Distinctions]]
+- [[Races & Peoples/The Tongues of the Realms/Common — The Tongue With No Distinctions/Common — The Tongue With No Distinctions]]
 - [[Races & Peoples/The Tongues of the Realms/Element Inventories — Mahuo, Yukari, the Elven Branches, Beastkin]]
 - [[Races & Peoples/The Tongues of the Realms/Moto Element Inventory — Japonic Stratum]]
 - [[Races & Peoples/The Tongues of the Realms/The Celestial Host — Naming]]

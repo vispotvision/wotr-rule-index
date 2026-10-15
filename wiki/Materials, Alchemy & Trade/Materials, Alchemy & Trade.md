@@ -83,7 +83,7 @@ The registers are dry by construction and the pattern only shows at scale.
 ### I · The ground and the registers
 
 *What the world is made of. The two Material Indices and the Alchemical Index sit beneath the Ledger.*
-- [[Materials, Alchemy & Trade/The Master Material Ledger]]
+- [[Materials, Alchemy & Trade/The Master Material Ledger/The Master Material Ledger]]
 - [[Materials, Alchemy & Trade/The Standing Index]]
 - [[Materials, Alchemy & Trade/Hide, Horn and Bone]]
 
@@ -107,7 +107,7 @@ Value, Coin and Trade
 **The Works and Days** sorts the whole population by **what the instrument can see** — three floors, and the register begins with the third **because they are the majority, and any account of the world's work that begins with the practitioners is describing the exception and calling it the rule.**
 **The Apparatus of the Age** is its equipment appendix: *the tallow candle before the Aethersteel plate, because the candle appears in more scenes than any weapon.*
 - [[Materials, Alchemy & Trade/The Works and Days — Occupations, Trades and Technology]]
-- [[Materials, Alchemy & Trade/The Apparatus of the Age — Equipment and Material Culture]]
+- [[Materials, Alchemy & Trade/The Apparatus of the Age — Equipment and Material Culture/The Apparatus of the Age — Equipment and Material Culture]]
 > **Cross-section note.** *The Works and Days* names its own unbuilt gaps — **food and cuisine, music, ground-level justice, domestic life and courtship** — which are the same items standing on the docket as **the folk world.** *That register is the closest thing to a foundation for them that exists.*
 - [[Materials, Alchemy & Trade/Weight, Measure and the Standard]]
 > **What a pound is, and who never accepted it.** **Weight, Measure and the Standard** underpins the assay, the proof-mark and the Bench, none of which work without standard weights.

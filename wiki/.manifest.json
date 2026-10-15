@@ -17,12 +17,12 @@
     "title": "The Fisc — Paying for a Siege"
   },
   "3d758200-eb22-8121-9842-c160dd9c8203": {
-    "rel": "Factions, Bloodlines & Institutions/The Guild Accord/The Guild Accord in the Modern Era — Divisions, Companies, Academies and Offices.md",
+    "rel": "Factions, Bloodlines & Institutions/Powers and Polities/The Guild Accord/The Guild Accord in the Modern Era — Divisions, Companies, Academies and Offices.md",
     "edited": "2026-09-26T14:12:00.000Z",
     "title": "The Guild Accord in the Modern Era — Divisions, Companies, Academies and Offices"
   },
   "3d758200-eb22-81ec-bd4b-f8d0416f3c8a": {
-    "rel": "Factions, Bloodlines & Institutions/The Articles of the Accord, and the Kinds of Polity.md",
+    "rel": "Factions, Bloodlines & Institutions/Powers and Polities/The Articles of the Accord, and the Kinds of Polity.md",
     "edited": "2026-09-26T14:12:00.000Z",
     "title": "The Articles of the Accord, and the Kinds of Polity"
   },
@@ -47,7 +47,7 @@
     "title": "News, Rumour and the Speed of Information"
   },
   "3d758200-eb22-81c3-b1c5-f4ce524fdbcf": {
-    "rel": "The Magic System/The Working Vocabulary — Trade Jargon and Its Metaphysical Extensions.md",
+    "rel": "The Magic System/Reference and Craft/The Working Vocabulary — Trade Jargon and Its Metaphysical Extensions.md",
     "edited": "2026-09-10T11:15:00.000Z",
     "title": "The Working Vocabulary — Trade Jargon and Its Metaphysical Extensions"
   },
@@ -57,7 +57,7 @@
     "title": "Accent — Placement, Prestige and the Shibboleth"
   },
   "3d758200-eb22-81d5-b117-fb16ae60d957": {
-    "rel": "Races & Peoples/The Tongues of the Realms/Common — The Tongue With No Distinctions.md",
+    "rel": "Races & Peoples/The Tongues of the Realms/Common — The Tongue With No Distinctions/Common — The Tongue With No Distinctions.md",
     "edited": "2026-09-10T11:15:00.000Z",
     "title": "Common — The Tongue With No Distinctions"
   },
@@ -82,7 +82,7 @@
     "title": "Old Vaross — The Goblinoid Tongue"
   },
   "3d758200-eb22-8134-ae74-ed9961e833f0": {
-    "rel": "Races & Peoples/The Tongues of the Realms.md",
+    "rel": "Races & Peoples/The Tongues of the Realms/The Tongues of the Realms.md",
     "edited": "2026-09-26T10:03:00.000Z",
     "title": "The Tongues of the Realms"
   },
@@ -127,37 +127,37 @@
     "title": "I. Levels, Experience and Stat Points (Parts One–Three)"
   },
   "3d758200-eb22-8101-bde2-f8eceeaefc7a": {
-    "rel": "The Magic System/Fracture of Worlds — The Living System.md",
+    "rel": "The Magic System/Fracture of Worlds — The Living System/Fracture of Worlds — The Living System.md",
     "edited": "2026-09-26T04:33:00.000Z",
     "title": "Fracture of Worlds — The Living System"
   },
   "3d558200-eb22-812a-92c0-f639ef17493b": {
-    "rel": "The Magic System/The Four Paths Routing, Recognition and the Gate.md",
+    "rel": "The Magic System/The Soul and the Climb/The Four Paths Routing, Recognition and the Gate.md",
     "edited": "2026-09-26T14:13:00.000Z",
     "title": "The Four Paths: Routing, Recognition and the Gate"
   },
   "3d558200-eb22-8114-8002-d6eb5fc4631b": {
-    "rel": "The Magic System/Mechanica Extraction Without Recognition.md",
+    "rel": "The Magic System/Practice and Institution/Mechanica Extraction Without Recognition.md",
     "edited": "2026-09-28T08:26:00.000Z",
     "title": "Mechanica: Extraction Without Recognition"
   },
   "3d558200-eb22-8137-9996-cafd5d239b2f": {
-    "rel": "The Magic System/The Imperial Age Aether Infrastructure.md",
+    "rel": "The Magic System/Practice and Institution/The Imperial Age Aether Infrastructure.md",
     "edited": "2026-09-28T08:17:00.000Z",
     "title": "The Imperial Age: Aether Infrastructure"
   },
   "3d558200-eb22-813a-9012-d11a05c73af6": {
-    "rel": "The Magic System/Counterplay What Beats a Practitioner.md",
+    "rel": "The Magic System/Power in Use/Counterplay What Beats a Practitioner.md",
     "edited": "2026-09-26T03:50:00.000Z",
     "title": "Counterplay: What Beats a Practitioner"
   },
   "3d558200-eb22-815e-85ae-e2819b567320": {
-    "rel": "The Magic System/The Physical Account Two Sets of Books.md",
+    "rel": "The Magic System/The Foundations/The Physical Account Two Sets of Books.md",
     "edited": "2026-09-10T11:22:00.000Z",
     "title": "The Physical Account: Two Sets of Books"
   },
   "3d558200-eb22-81ab-a65f-e63097e58d06": {
-    "rel": "The Magic System/The Trait System Law, Function and the Forge.md",
+    "rel": "The Magic System/The Soul and the Climb/The Trait System Law, Function and the Forge.md",
     "edited": "2026-10-15T16:40:00.000Z",
     "title": "The Trait System: Law, Function and the Forge"
   },
@@ -230,22 +230,22 @@
     "title": "The Physical Order — Atla'zon and Gaia"
   },
   "3c758200-eb22-812a-9700-ca5c46807dd8": {
-    "rel": "Cosmology & Metaphysics/The Fourteen Titans.md",
+    "rel": "Cosmology & Metaphysics/The Fourteen Titans/The Fourteen Titans.md",
     "edited": "2026-10-11T20:09:00.000Z",
     "title": "The Fourteen Titans"
   },
   "3c758200-eb22-81de-be03-db5381c6ad3e": {
-    "rel": "The Magic System/The Ladder and the Draft — Temperance, Advancement and Essence Drafts.md",
+    "rel": "The Magic System/The Soul and the Climb/The Ladder and the Draft — Temperance, Advancement and Essence Drafts.md",
     "edited": "2026-10-15T16:39:00.000Z",
     "title": "The Ladder and the Draft — Temperance, Advancement and Essence Drafts"
   },
   "3c758200-eb22-8167-8e6e-f8536b7f8816": {
-    "rel": "The Magic System/The Lexicon of Magic — Master Terminology.md",
+    "rel": "The Magic System/Reference and Craft/The Lexicon of Magic — Master Terminology.md",
     "edited": "2026-10-14T00:31:00.000Z",
     "title": "The Lexicon of Magic — Master Terminology"
   },
   "3c758200-eb22-819e-8385-c81cd92f8d13": {
-    "rel": "The Magic System/The Magical Categories — Unified Taxonom.md",
+    "rel": "The Magic System/Reference and Craft/The Magical Categories — Unified Taxonom.md",
     "edited": "2026-09-26T08:48:00.000Z",
     "title": "The Magical Categories — Unified Taxonom"
   },
@@ -358,7 +358,7 @@
     "private": true
   },
   "3bd58200-eb22-8011-9272-d395d8213585": {
-    "rel": "Factions, Bloodlines & Institutions/The Void Vanguard.md",
+    "rel": "Factions, Bloodlines & Institutions/Orders, Faiths and Cults/The Void Vanguard.md",
     "edited": "2026-08-15T19:27:00.000Z",
     "title": "The Void Vanguard"
   },
@@ -945,22 +945,22 @@
     "private": true
   },
   "3bd58200-eb22-8168-9a4b-e231f286af4a": {
-    "rel": "Factions, Bloodlines & Institutions/The Ten Great Houses of Drakyssia.md",
+    "rel": "Factions, Bloodlines & Institutions/Houses and Bloodlines/The Ten Great Houses of Drakyssia.md",
     "edited": "2026-09-26T14:08:00.000Z",
     "title": "The Ten Great Houses of Drakyssia"
   },
   "3bd58200-eb22-8182-8f5d-cd4d842be424": {
-    "rel": "Factions, Bloodlines & Institutions/The Eight Great Houses of Kushara.md",
+    "rel": "Factions, Bloodlines & Institutions/Houses and Bloodlines/The Eight Great Houses of Kushara.md",
     "edited": "2026-09-26T14:08:00.000Z",
     "title": "The Eight Great Houses of Kushara"
   },
   "3bd58200-eb22-81ba-8843-dc6fe603cfe6": {
-    "rel": "Factions, Bloodlines & Institutions/The Banner Houses of Kharven.md",
+    "rel": "Factions, Bloodlines & Institutions/Houses and Bloodlines/The Banner Houses of Kharven.md",
     "edited": "2026-09-04T04:42:00.000Z",
     "title": "The Banner Houses of Kharven"
   },
   "3bc58200-eb22-81d7-89a2-e9d5fc5cb4f4": {
-    "rel": "The Magic System/The Practitioner's Field Manual — The Forge.md",
+    "rel": "The Magic System/Reference and Craft/The Practitioner's Field Manual — The Forge.md",
     "edited": "2026-10-15T16:40:00.000Z",
     "title": "The Practitioner's Field Manual — The Forge"
   },
@@ -971,12 +971,12 @@
     "private": true
   },
   "3bc58200-eb22-81c9-8a85-e32caf0235ed": {
-    "rel": "Materials, Alchemy & Trade/The Apparatus of the Age — Equipment and Material Culture.md",
+    "rel": "Materials, Alchemy & Trade/The Apparatus of the Age — Equipment and Material Culture/The Apparatus of the Age — Equipment and Material Culture.md",
     "edited": "2026-10-14T00:19:00.000Z",
     "title": "The Apparatus of the Age — Equipment and Material Culture"
   },
   "3bc58200-eb22-8106-a72a-de20d69574e0": {
-    "rel": "The Magic System/The Standing and the Title — The Three Names.md",
+    "rel": "The Magic System/Practice and Institution/The Standing and the Title — The Three Names.md",
     "edited": "2026-09-26T10:18:00.000Z",
     "title": "The Standing and the Title — The Three Names"
   },
@@ -986,37 +986,37 @@
     "title": "The Works and Days — Occupations, Trades and Technology"
   },
   "3bc58200-eb22-818c-9e58-dcf0a4fcfad5": {
-    "rel": "Factions, Bloodlines & Institutions/Sōhai — The Whole Bow.md",
+    "rel": "Factions, Bloodlines & Institutions/Orders, Faiths and Cults/Sōhai — The Whole Bow.md",
     "edited": "2026-09-26T10:17:00.000Z",
     "title": "Sōhai — The Whole Bow"
   },
   "3bc58200-eb22-810f-ac23-e2613ea61705": {
-    "rel": "The Magic System/The Four Crafts.md",
+    "rel": "The Magic System/Power in Use/The Four Crafts.md",
     "edited": "2026-10-15T16:39:00.000Z",
     "title": "The Four Crafts"
   },
   "3bc58200-eb22-815a-b7e8-d85b69537b18": {
-    "rel": "The Magic System/The Descent of Parun — The Fourteen Hands/The Counted Speech — A Speaker's Grammar of Parun.md",
+    "rel": "The Magic System/The Foundations/The Descent of Parun — The Fourteen Hands/The Counted Speech — A Speaker's Grammar of Parun.md",
     "edited": "2026-09-28T08:24:00.000Z",
     "title": "The Counted Speech — A Speaker's Grammar of Parun"
   },
   "3bc58200-eb22-811d-bbf2-ee2f27930f0e": {
-    "rel": "The Magic System/On Walking Into the Current — Wellspring Encounter and Recovery.md",
+    "rel": "The Magic System/Practice and Institution/On Walking Into the Current — Wellspring Encounter and Recovery.md",
     "edited": "2026-09-27T19:50:00.000Z",
     "title": "On Walking Into the Current — Wellspring Encounter and Recovery"
   },
   "3bc58200-eb22-8164-8024-c6956893b205": {
-    "rel": "The Magic System/The Derivation of Practice — Thaumaturgic and Theurgic.md",
+    "rel": "The Magic System/Practice and Institution/The Derivation of Practice — Thaumaturgic and Theurgic.md",
     "edited": "2026-09-26T14:15:00.000Z",
     "title": "The Derivation of Practice — Thaumaturgic and Theurgic"
   },
   "3bc58200-eb22-81c9-a13b-d5514ddd0f8b": {
-    "rel": "The Magic System/The Descent of Parun — The Fourteen Hands.md",
+    "rel": "The Magic System/The Foundations/The Descent of Parun — The Fourteen Hands/The Descent of Parun — The Fourteen Hands.md",
     "edited": "2026-09-10T11:15:00.000Z",
     "title": "The Descent of Parun — The Fourteen Hands"
   },
   "3bc58200-eb22-81fb-b372-edd4501dcbde": {
-    "rel": "The Magic System/The Master Glyph Index — 136 Attested Forms.md",
+    "rel": "The Magic System/The Foundations/The Master Glyph Index — 136 Attested Forms.md",
     "edited": "2026-09-23T22:27:00.000Z",
     "title": "The Master Glyph Index — 136 Attested Forms"
   },
@@ -1051,17 +1051,17 @@
     "title": "Yasoshima — The Eighty Isles"
   },
   "3bc58200-eb22-8126-a4a6-ee83c8b22d3e": {
-    "rel": "Factions, Bloodlines & Institutions/The Archaic Bloodlines/The Moto Bloodline/The Moto Origin — The Western Reach.md",
+    "rel": "Factions, Bloodlines & Institutions/Houses and Bloodlines/The Archaic Bloodlines/The Moto Bloodline/The Moto Origin — The Western Reach.md",
     "edited": "2026-09-26T09:08:00.000Z",
     "title": "The Moto Origin — The Western Reach"
   },
   "3bc58200-eb22-81b0-810f-d3e421cd9caa": {
-    "rel": "Factions, Bloodlines & Institutions/The Archaic Bloodlines/The Moto Bloodline/The Long Reading — Moto Ancient History.md",
+    "rel": "Factions, Bloodlines & Institutions/Houses and Bloodlines/The Archaic Bloodlines/The Moto Bloodline/The Long Reading — Moto Ancient History.md",
     "edited": "2026-09-28T08:19:00.000Z",
     "title": "The Long Reading — Moto Ancient History"
   },
   "3bc58200-eb22-81a8-a218-c66905c24259": {
-    "rel": "The Magic System/The Color of Essence.md",
+    "rel": "The Magic System/The Soul and the Climb/The Color of Essence.md",
     "edited": "2026-10-14T12:48:00.000Z",
     "title": "The Color of Essence"
   },
@@ -1283,7 +1283,7 @@
     "title": "Raga · The Divine Thunder Bear"
   },
   "3b358200-eb22-81e2-8fec-cf4387fbb268": {
-    "rel": "The Bestiary/Summoned and Bound.md",
+    "rel": "The Bestiary/Summoned and Bound/Summoned and Bound.md",
     "edited": "2026-08-07T19:55:00.000Z",
     "title": "Summoned and Bound"
   },
@@ -1293,7 +1293,7 @@
     "title": "Summon Entry · Blank Template"
   },
   "3b358200-eb22-8198-87ac-f4b47493c48c": {
-    "rel": "The Bestiary/Summoned and Bound/The Called · Summon Register.md",
+    "rel": "The Bestiary/Summoned and Bound/The Called · Summon Register/The Called · Summon Register.md",
     "edited": "2026-09-11T02:37:00.000Z",
     "title": "The Called · Summon Register"
   },
@@ -1412,7 +1412,7 @@
     "private": true
   },
   "3b258200-eb22-8169-a67b-cbde6be80dbe": {
-    "rel": "Characters/Volume I — Character Cards/Sodoku Moto.md",
+    "rel": "Characters/Volume I — Character Cards/Sodoku Moto/Sodoku Moto.md",
     "edited": "2026-09-27T19:47:00.000Z",
     "title": "Sodoku Moto",
     "private": true
@@ -1430,7 +1430,7 @@
     "private": true
   },
   "3b258200-eb22-80d8-ae44-ea3370421359": {
-    "rel": "Factions, Bloodlines & Institutions/The Archaic Bloodlines/The Mahuo Family.md",
+    "rel": "Factions, Bloodlines & Institutions/Houses and Bloodlines/The Archaic Bloodlines/The Mahuo Family.md",
     "edited": "2026-09-26T09:16:00.000Z",
     "title": "The Mahuo Family"
   },
@@ -1468,7 +1468,7 @@
     "title": "Volume the First"
   },
   "3b258200-eb22-81f9-8cb6-d853b21043b5": {
-    "rel": "Lore & History/The Alftian Codex.md",
+    "rel": "Lore & History/The Alftian Codex/The Alftian Codex.md",
     "edited": "2026-09-28T17:07:00.000Z",
     "title": "The Alftian Codex"
   },
@@ -1478,12 +1478,12 @@
     "title": "Lore & History"
   },
   "3b258200-eb22-819a-93f5-dceb8d97bf0b": {
-    "rel": "The Bestiary/Aberrations.md",
+    "rel": "The Bestiary/Aberrations/Aberrations.md",
     "edited": "2026-09-12T16:08:00.000Z",
     "title": "Aberrations"
   },
   "3b258200-eb22-811c-bd39-e6d11fd75ca1": {
-    "rel": "The Bestiary/Natural Beasts.md",
+    "rel": "The Bestiary/Natural Beasts/Natural Beasts.md",
     "edited": "2026-09-12T16:08:00.000Z",
     "title": "Natural Beasts"
   },
@@ -1561,7 +1561,7 @@
     "private": true
   },
   "3b158200-eb22-81da-b471-f9bfac2c784c": {
-    "rel": "Characters/Volume I — Character Cards.md",
+    "rel": "Characters/Volume I — Character Cards/Volume I — Character Cards.md",
     "edited": "2026-10-07T18:03:00.000Z",
     "title": "Volume I — Character Cards",
     "private": true
@@ -1658,7 +1658,7 @@
     "title": "The Material Index · T5–T9"
   },
   "3b158200-eb22-81d2-b8bc-d16c232faebf": {
-    "rel": "Materials, Alchemy & Trade/The Master Material Ledger.md",
+    "rel": "Materials, Alchemy & Trade/The Master Material Ledger/The Master Material Ledger.md",
     "edited": "2026-09-23T22:17:00.000Z",
     "title": "The Master Material Ledger"
   },
@@ -1668,82 +1668,82 @@
     "title": "Materials, Alchemy & Trade"
   },
   "3b158200-eb22-8185-978c-d301ac7be252": {
-    "rel": "Factions, Bloodlines & Institutions/The Archaic Bloodlines/The Yuno Bloodline.md",
+    "rel": "Factions, Bloodlines & Institutions/Houses and Bloodlines/The Archaic Bloodlines/The Yuno Bloodline.md",
     "edited": "2026-09-10T11:23:00.000Z",
     "title": "The Yuno Bloodline"
   },
   "3b158200-eb22-8100-aa8e-c8710c52a4bc": {
-    "rel": "Factions, Bloodlines & Institutions/The Archaic Bloodlines/The Zettari/The Paths.md",
+    "rel": "Factions, Bloodlines & Institutions/Houses and Bloodlines/The Archaic Bloodlines/The Zettari/The Paths.md",
     "edited": "2026-09-12T20:21:00.000Z",
     "title": "The Paths"
   },
   "3b158200-eb22-810b-85fc-ca85cff49bae": {
-    "rel": "Factions, Bloodlines & Institutions/The Archaic Bloodlines/The Zettari.md",
+    "rel": "Factions, Bloodlines & Institutions/Houses and Bloodlines/The Archaic Bloodlines/The Zettari/The Zettari.md",
     "edited": "2026-09-26T10:18:00.000Z",
     "title": "The Zettari"
   },
   "3b158200-eb22-8185-ab74-e241da616224": {
-    "rel": "Factions, Bloodlines & Institutions/The Archaic Bloodlines/The Yukari Bloodline.md",
+    "rel": "Factions, Bloodlines & Institutions/Houses and Bloodlines/The Archaic Bloodlines/The Yukari Bloodline.md",
     "edited": "2026-09-26T10:18:00.000Z",
     "title": "The Yukari Bloodline"
   },
   "3b158200-eb22-81c5-92a2-fd88ff8fa000": {
-    "rel": "Factions, Bloodlines & Institutions/The Archaic Bloodlines/The Moto Bloodline.md",
+    "rel": "Factions, Bloodlines & Institutions/Houses and Bloodlines/The Archaic Bloodlines/The Moto Bloodline/The Moto Bloodline.md",
     "edited": "2026-09-12T20:19:00.000Z",
     "title": "The Moto Bloodline"
   },
   "3b158200-eb22-810b-afd9-dd0d435ae61d": {
-    "rel": "Factions, Bloodlines & Institutions/The Archaic Bloodlines.md",
+    "rel": "Factions, Bloodlines & Institutions/Houses and Bloodlines/The Archaic Bloodlines/The Archaic Bloodlines.md",
     "edited": "2026-09-10T11:23:00.000Z",
     "title": "The Archaic Bloodlines"
   },
   "3b158200-eb22-8110-8153-d03b59822ad3": {
-    "rel": "Factions, Bloodlines & Institutions/The Guild Accord/The Practitioner Problem.md",
+    "rel": "Factions, Bloodlines & Institutions/Powers and Polities/The Guild Accord/The Practitioner Problem.md",
     "edited": "2026-08-03T20:49:00.000Z",
     "title": "The Practitioner Problem"
   },
   "3b158200-eb22-8189-aaa8-ef337474c86e": {
-    "rel": "Factions, Bloodlines & Institutions/Sancta Lux.md",
+    "rel": "Factions, Bloodlines & Institutions/Orders, Faiths and Cults/Sancta Lux.md",
     "edited": "2026-09-26T14:08:00.000Z",
     "title": "Sancta Lux"
   },
   "3b158200-eb22-81a7-9a4c-e068982e590a": {
-    "rel": "Factions, Bloodlines & Institutions/The Bench of Attribution.md",
+    "rel": "Factions, Bloodlines & Institutions/Powers and Polities/The Bench of Attribution.md",
     "edited": "2026-09-26T14:12:00.000Z",
     "title": "The Bench of Attribution"
   },
   "3b158200-eb22-81c4-9084-f14837c8b7fd": {
-    "rel": "Factions, Bloodlines & Institutions/The Guild Accord/The Concord Citadel.md",
+    "rel": "Factions, Bloodlines & Institutions/Powers and Polities/The Guild Accord/The Concord Citadel.md",
     "edited": "2026-09-28T08:18:00.000Z",
     "title": "The Concord Citadel"
   },
   "3b158200-eb22-81d7-9032-ec164a8d6fc5": {
-    "rel": "Factions, Bloodlines & Institutions/The Guild Accord/The Concord Military.md",
+    "rel": "Factions, Bloodlines & Institutions/Powers and Polities/The Guild Accord/The Concord Military.md",
     "edited": "2026-09-28T08:19:00.000Z",
     "title": "The Concord Military"
   },
   "3b158200-eb22-8125-b480-d3d9b1cfe547": {
-    "rel": "Factions, Bloodlines & Institutions/The Guild Accord/The Concord Gate Network.md",
+    "rel": "Factions, Bloodlines & Institutions/Powers and Polities/The Guild Accord/The Concord Gate Network.md",
     "edited": "2026-10-14T00:18:00.000Z",
     "title": "The Concord Gate Network"
   },
   "3b158200-eb22-812d-8a74-cb672f94bf76": {
-    "rel": "Factions, Bloodlines & Institutions/The Guild Accord/The Black Concord.md",
+    "rel": "Factions, Bloodlines & Institutions/Powers and Polities/The Guild Accord/The Black Concord.md",
     "edited": "2026-09-28T08:18:00.000Z",
     "title": "The Black Concord"
   },
   "3b158200-eb22-811c-b2ec-dee2ebc43a44": {
-    "rel": "Factions, Bloodlines & Institutions/The Guild Accord/The Tiered Path.md",
+    "rel": "Factions, Bloodlines & Institutions/Powers and Polities/The Guild Accord/The Tiered Path.md",
     "edited": "2026-10-14T00:32:00.000Z",
     "title": "The Tiered Path"
   },
   "3b158200-eb22-81ad-bc02-e5d29faaa253": {
-    "rel": "Factions, Bloodlines & Institutions/The Guild Accord/Merit and Severance.md",
+    "rel": "Factions, Bloodlines & Institutions/Powers and Polities/The Guild Accord/Merit and Severance.md",
     "edited": "2026-09-26T14:13:00.000Z",
     "title": "Merit and Severance"
   },
   "3b158200-eb22-816a-bcc2-c148358fb25e": {
-    "rel": "Factions, Bloodlines & Institutions/The Guild Accord.md",
+    "rel": "Factions, Bloodlines & Institutions/Powers and Polities/The Guild Accord/The Guild Accord.md",
     "edited": "2026-09-28T08:19:00.000Z",
     "title": "The Guild Accord"
   },
@@ -1758,7 +1758,7 @@
     "title": "The Five Beastkin Lineages"
   },
   "3b158200-eb22-81b7-92e2-ea5bd678c155": {
-    "rel": "Races & Peoples/The Beastkin and Demihuman Peoples.md",
+    "rel": "Races & Peoples/The Beastkin and Demihuman Peoples/The Beastkin and Demihuman Peoples.md",
     "edited": "2026-09-23T23:25:00.000Z",
     "title": "The Beastkin and Demihuman Peoples"
   },
@@ -1773,7 +1773,7 @@
     "title": "The Reach Dwarves"
   },
   "3b158200-eb22-81e4-98de-e9a64b07e69a": {
-    "rel": "Races & Peoples/The Dawi Peoples.md",
+    "rel": "Races & Peoples/The Dawi Peoples/The Dawi Peoples.md",
     "edited": "2026-08-03T20:24:00.000Z",
     "title": "The Dawi Peoples"
   },
@@ -1783,7 +1783,7 @@
     "title": "The High Empire of Eresse"
   },
   "3b158200-eb22-8197-b0d0-f26f80eb9f1c": {
-    "rel": "Races & Peoples/The Elven Peoples.md",
+    "rel": "Races & Peoples/The Elven Peoples/The Elven Peoples.md",
     "edited": "2026-09-12T20:02:00.000Z",
     "title": "The Elven Peoples"
   },
@@ -1798,7 +1798,7 @@
     "title": "The Hobgoblin Expanse"
   },
   "3b158200-eb22-818e-ab92-e9f212bb0b23": {
-    "rel": "Geography & the Four Quarters/Value, Coin and Trade.md",
+    "rel": "Geography & the Four Quarters/Value, Coin and Trade/Value, Coin and Trade.md",
     "edited": "2026-09-28T08:18:00.000Z",
     "title": "Value, Coin and Trade"
   },
@@ -1813,7 +1813,7 @@
     "title": "The Outer World — The Southern Pan"
   },
   "3b158200-eb22-8128-8601-df8f4ea804b9": {
-    "rel": "Geography & the Four Quarters/The Bearing and the Holding/The Inner World — The Northern Shield.md",
+    "rel": "Geography & the Four Quarters/The Bearing and the Holding/The Inner World — The Northern Shield/The Inner World — The Northern Shield.md",
     "edited": "2026-09-26T09:07:00.000Z",
     "title": "The Inner World — The Northern Shield"
   },
@@ -1823,7 +1823,7 @@
     "title": "The Old World — The Western Wearing"
   },
   "3b158200-eb22-8189-b4e1-fc17e809c714": {
-    "rel": "Geography & the Four Quarters/The Bearing and the Holding.md",
+    "rel": "Geography & the Four Quarters/The Bearing and the Holding/The Bearing and the Holding.md",
     "edited": "2026-09-28T08:17:00.000Z",
     "title": "The Bearing and the Holding"
   },
@@ -1857,7 +1857,7 @@
     "private": true
   },
   "3b158200-eb22-8181-8403-e3416fd5a83a": {
-    "rel": "The Disciplines/The Spirit Summoning Arts.md",
+    "rel": "The Disciplines/The Spirit Summoning Arts/The Spirit Summoning Arts.md",
     "edited": "2026-10-14T00:32:00.000Z",
     "title": "The Spirit Summoning Arts",
     "private": true
@@ -1887,7 +1887,7 @@
     "private": true
   },
   "3b158200-eb22-818b-856c-f6bf976d6d54": {
-    "rel": "The Disciplines/Hataraki — The Works of the Plane of Fate.md",
+    "rel": "The Disciplines/Hataraki — The Works of the Plane of Fate/Hataraki — The Works of the Plane of Fate.md",
     "edited": "2026-09-26T10:18:00.000Z",
     "title": "Hataraki — The Works of the Plane of Fate",
     "private": true
@@ -1899,62 +1899,62 @@
     "private": true
   },
   "3b158200-eb22-8183-817e-cc1a61adee53": {
-    "rel": "The Magic System/The Core Vocabulary.md",
+    "rel": "The Magic System/First Steps/The Core Vocabulary.md",
     "edited": "2026-09-28T08:26:00.000Z",
     "title": "The Core Vocabulary"
   },
   "3b158200-eb22-8197-9345-cf955fc00b7d": {
-    "rel": "The Magic System/The Eight Families & the Sixty Wellsprings/Limina — Entropy, Void and Mind.md",
+    "rel": "The Magic System/The Foundations/The Eight Families & the Sixty Wellsprings/Limina — Entropy, Void and Mind.md",
     "edited": "2026-09-23T23:25:00.000Z",
     "title": "Limina — Entropy, Void and Mind"
   },
   "3b158200-eb22-81a4-b8e1-e4e7932c0325": {
-    "rel": "The Magic System/The Eight Families & the Sixty Wellsprings/Vitalia — Biochemistry.md",
+    "rel": "The Magic System/The Foundations/The Eight Families & the Sixty Wellsprings/Vitalia — Biochemistry.md",
     "edited": "2026-08-03T04:26:00.000Z",
     "title": "Vitalia — Biochemistry"
   },
   "3b158200-eb22-81af-8e2a-f7f9b628c9f3": {
-    "rel": "The Magic System/The Eight Families & the Sixty Wellsprings/Fluxia — Fluid Dynamics.md",
+    "rel": "The Magic System/The Foundations/The Eight Families & the Sixty Wellsprings/Fluxia — Fluid Dynamics.md",
     "edited": "2026-08-03T04:26:00.000Z",
     "title": "Fluxia — Fluid Dynamics"
   },
   "3b158200-eb22-810e-8a93-c70c38d56d59": {
-    "rel": "The Magic System/The Eight Families & the Sixty Wellsprings/Materia — Material Science.md",
+    "rel": "The Magic System/The Foundations/The Eight Families & the Sixty Wellsprings/Materia — Material Science.md",
     "edited": "2026-09-10T11:21:00.000Z",
     "title": "Materia — Material Science"
   },
   "3b158200-eb22-811a-a023-db33375829c8": {
-    "rel": "The Magic System/The Eight Families & the Sixty Wellsprings/Vectoria — Mechanics.md",
+    "rel": "The Magic System/The Foundations/The Eight Families & the Sixty Wellsprings/Vectoria — Mechanics.md",
     "edited": "2026-09-23T23:25:00.000Z",
     "title": "Vectoria — Mechanics"
   },
   "3b158200-eb22-81aa-9ae2-e34760461820": {
-    "rel": "The Magic System/The Eight Families & the Sixty Wellsprings/Spatium — Spatial Geometry.md",
+    "rel": "The Magic System/The Foundations/The Eight Families & the Sixty Wellsprings/Spatium — Spatial Geometry.md",
     "edited": "2026-08-03T04:25:00.000Z",
     "title": "Spatium — Spatial Geometry"
   },
   "3b158200-eb22-8159-8e09-faf72ab4c515": {
-    "rel": "The Magic System/The Eight Families & the Sixty Wellsprings/Fulguria — Electromagnetism.md",
+    "rel": "The Magic System/The Foundations/The Eight Families & the Sixty Wellsprings/Fulguria — Electromagnetism.md",
     "edited": "2026-08-16T21:26:00.000Z",
     "title": "Fulguria — Electromagnetism"
   },
   "3b158200-eb22-8165-a358-f525661907a4": {
-    "rel": "The Magic System/The Eight Families & the Sixty Wellsprings/Caloria — Thermodynamics.md",
+    "rel": "The Magic System/The Foundations/The Eight Families & the Sixty Wellsprings/Caloria — Thermodynamics.md",
     "edited": "2026-08-03T04:24:00.000Z",
     "title": "Caloria — Thermodynamics"
   },
   "3b158200-eb22-814d-9056-edb0fc9827f2": {
-    "rel": "The Magic System/The Eight Families & the Sixty Wellsprings.md",
+    "rel": "The Magic System/The Foundations/The Eight Families & the Sixty Wellsprings/The Eight Families & the Sixty Wellsprings.md",
     "edited": "2026-09-27T19:50:00.000Z",
     "title": "The Eight Families & the Sixty Wellsprings"
   },
   "3b158200-eb22-8185-abf4-c695877be12b": {
-    "rel": "The Magic System/Tier Grade, Bands & the Aether Shell.md",
+    "rel": "The Magic System/The Soul and the Climb/Tier Grade, Bands & the Aether Shell.md",
     "edited": "2026-10-14T00:29:00.000Z",
     "title": "Tier Grade, Bands & the Aether Shell"
   },
   "3b158200-eb22-81cc-a193-d69c171c0986": {
-    "rel": "The Magic System/The Sixteen Stages.md",
+    "rel": "The Magic System/The Soul and the Climb/The Sixteen Stages.md",
     "edited": "2026-10-15T16:39:00.000Z",
     "title": "The Sixteen Stages"
   },
@@ -2029,7 +2029,7 @@
     "title": "The Primordial Dyad — Order and Chaos"
   },
   "3b158200-eb22-8107-b859-fc4937d5d8c8": {
-    "rel": "Cosmology & Metaphysics/The Fourteen Archons.md",
+    "rel": "Cosmology & Metaphysics/The Fourteen Archons/The Fourteen Archons.md",
     "edited": "2026-09-10T11:16:00.000Z",
     "title": "The Fourteen Archons"
   },
@@ -2646,13 +2646,13 @@
     "private": true
   },
   "3d958200-eb22-819d-8948-f9263917090f": {
-    "rel": "The Disciplines/Spellcraft.md",
+    "rel": "The Disciplines/Spellcraft/Spellcraft.md",
     "edited": "2026-09-26T04:34:00.000Z",
     "title": "Spellcraft",
     "private": true
   },
   "3d958200-eb22-810c-bdd0-ff9ddaed93cc": {
-    "rel": "The Disciplines/Techniques.md",
+    "rel": "The Disciplines/Techniques/Techniques.md",
     "edited": "2026-09-12T16:07:00.000Z",
     "title": "Techniques",
     "private": true
@@ -3227,7 +3227,7 @@
     "title": "Kushara — The Land That Remembers Weight"
   },
   "3d958200-eb22-81b6-8f63-e46eb9ccdee4": {
-    "rel": "Factions, Bloodlines & Institutions/The Archaic Bloodlines/The Moto Bloodline/The Moto Bloodline — Material Culture.md",
+    "rel": "Factions, Bloodlines & Institutions/Houses and Bloodlines/The Archaic Bloodlines/The Moto Bloodline/The Moto Bloodline — Material Culture.md",
     "edited": "2026-09-12T20:21:00.000Z",
     "title": "The Moto Bloodline — Material Culture"
   },
@@ -3237,7 +3237,7 @@
     "title": "Element Inventories — Mahuo, Yukari, the Elven Branches, Beastkin"
   },
   "3d958200-eb22-8194-b37e-f545cd2129dd": {
-    "rel": "Factions, Bloodlines & Institutions/The Archaic Bloodlines/The Zettari/The Zettari — Agano Sand and the Witnessed Temper.md",
+    "rel": "Factions, Bloodlines & Institutions/Houses and Bloodlines/The Archaic Bloodlines/The Zettari/The Zettari — Agano Sand and the Witnessed Temper.md",
     "edited": "2026-09-12T20:34:00.000Z",
     "title": "The Zettari — Agano Sand and the Witnessed Temper"
   },
@@ -3305,7 +3305,7 @@
     "private": true
   },
   "3dc58200-eb22-81d0-8cc0-cae6c69e8ff7": {
-    "rel": "Factions, Bloodlines & Institutions/The Holy Inquisition.md",
+    "rel": "Factions, Bloodlines & Institutions/Orders, Faiths and Cults/The Holy Inquisition.md",
     "edited": "2026-09-27T19:50:00.000Z",
     "title": "The Holy Inquisition"
   },
@@ -3824,22 +3824,22 @@
     "private": true
   },
   "3e758200-eb22-8120-bf53-c42ca25c7058": {
-    "rel": "Factions, Bloodlines & Institutions/The Mother.md",
+    "rel": "Factions, Bloodlines & Institutions/Orders, Faiths and Cults/The Mother.md",
     "edited": "2026-09-28T08:24:00.000Z",
     "title": "The Mother"
   },
   "3e758200-eb22-811a-a7d0-eb66ba2d38ea": {
-    "rel": "Factions, Bloodlines & Institutions/The Powers of the Imperial Age.md",
+    "rel": "Factions, Bloodlines & Institutions/Powers and Polities/The Powers of the Imperial Age.md",
     "edited": "2026-09-27T19:50:00.000Z",
     "title": "The Powers of the Imperial Age"
   },
   "3e758200-eb22-81e2-9338-de9a77b31053": {
-    "rel": "The Magic System/The Gate Who May Learn Magic.md",
+    "rel": "The Magic System/Practice and Institution/The Gate Who May Learn Magic.md",
     "edited": "2026-09-27T19:50:00.000Z",
     "title": "The Gate: Who May Learn Magic"
   },
   "3e758200-eb22-8156-af34-d82ba7964eea": {
-    "rel": "Factions, Bloodlines & Institutions/The Night Watch.md",
+    "rel": "Factions, Bloodlines & Institutions/Orders, Faiths and Cults/The Night Watch.md",
     "edited": "2026-09-27T19:50:00.000Z",
     "title": "The Night Watch"
   },

@@ -78,8 +78,8 @@ Three instruments cover this ground and they do not sound alike.
 ## Entries
 
 Read **The Bearing and the Holding** for what the ground is and what may be made of it. Read **Value, Coin and Trade** for what any of it is worth, and why anyone accepts paper. Read **The Hobgoblin Expanse** for the one polity in the four quarters that was thrown out of the west, built a parliament on volcanic rock nobody wanted, and has run it for seven hundred and sixty-five years without a king.
-- [[Geography & the Four Quarters/The Bearing and the Holding]]
-- [[Geography & the Four Quarters/Value, Coin and Trade]]
+- [[Geography & the Four Quarters/The Bearing and the Holding/The Bearing and the Holding]]
+- [[Geography & the Four Quarters/Value, Coin and Trade/Value, Coin and Trade]]
 - [[Geography & the Four Quarters/News, Rumour and the Speed of Information]]
 > **Distance measured in days.** **News, Rumour and the Speed of Information** sits under this section because what it actually documents is how far away anything is.
 >

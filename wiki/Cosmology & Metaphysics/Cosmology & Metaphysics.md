@@ -86,8 +86,8 @@ Three institutional voices produce the material in this section, and they do not
 The cosmological spine, in the order it was made: the totality before partition, the three intelligences that came out of its breaking, the ground they laid, the fourteen crowned ideas that administer the result, the threshold running between all of it, the beings Law folded in order to witness itself, and the one surviving account of what the far side looks like from inside.
 - [[Cosmology & Metaphysics/Omnara and the Division]]
 - [[Cosmology & Metaphysics/The Three Epochs]]
-- [[Cosmology & Metaphysics/The Fourteen Titans]]
-- [[Cosmology & Metaphysics/The Fourteen Archons]]
+- [[Cosmology & Metaphysics/The Fourteen Titans/The Fourteen Titans]]
+- [[Cosmology & Metaphysics/The Fourteen Archons/The Fourteen Archons]]
 - [[Cosmology & Metaphysics/The Veil]]
 - [[Cosmology & Metaphysics/The Celestial Host]]
 - [[Cosmology & Metaphysics/The Crossing and the Making of the God Hand]]

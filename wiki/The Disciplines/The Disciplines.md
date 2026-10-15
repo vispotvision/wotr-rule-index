@@ -112,10 +112,10 @@ The first five entries are the general disciplines, open in principle to any pra
 
 ### The general disciplines and the bloodline arts
 
-- [[The Disciplines/Hataraki — The Works of the Plane of Fate]]
+- [[The Disciplines/Hataraki — The Works of the Plane of Fate/Hataraki — The Works of the Plane of Fate]]
 - [[The Disciplines/The Sage Arts]]
 - [[The Disciplines/The Spirit Rune Arts]]
-- [[The Disciplines/The Spirit Summoning Arts]]
+- [[The Disciplines/The Spirit Summoning Arts/The Spirit Summoning Arts]]
 - [[The Disciplines/The Harmonic Arts]]
 - [[The Disciplines/Kami no Kobushi — The God Fist]]
 - [[The Disciplines/The Ketsumyōgan — The Binding Fate Eye]]
@@ -143,7 +143,7 @@ Three of them are not disciplines at all in the strict sense. **Moetana**, **Sol
 - [[The Disciplines/Moetana — The Vessel of Life's Essence]]
 - [[The Disciplines/Solution — The Mind That Solves Itself]]
 - [[The Disciplines/Asami and Gisei — The Two States of the Moto]]
-- [[The Disciplines/Techniques]]
-- [[The Disciplines/Spellcraft]]
+- [[The Disciplines/Techniques/Techniques]]
+- [[The Disciplines/Spellcraft/Spellcraft]]
 
 ---

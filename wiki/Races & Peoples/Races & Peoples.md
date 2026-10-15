@@ -55,11 +55,11 @@ The codices in this section are not neutral. Each people's entry is written from
 **The Dawi Peoples** carries the origin, the fractures, and all eight branches in summary, with **The Reach Dwarves** beneath it for the five that were put somewhere else entirely and had to decide, from first principles, what enduring even meant once the mountain was no longer underfoot.
 **The Goblinoid Peoples** carries the First Impact, all six lineages, the languages that branched from a metaphysical event rather than a spoken root, and Za'tarch — which is not a refuge and insists on the distinction.
 **The Beastkin and Demihuman Peoples** carries the Labor Provision and what it actually means, the demihuman categories, and the languages, with **The Five Beastkin Lineages** beneath it at full architectural depth.
-- [[Races & Peoples/The Elven Peoples]]
-- [[Races & Peoples/The Dawi Peoples]]
+- [[Races & Peoples/The Elven Peoples/The Elven Peoples]]
+- [[Races & Peoples/The Dawi Peoples/The Dawi Peoples]]
 - [[Races & Peoples/The Goblinoid Peoples]]
-- [[Races & Peoples/The Beastkin and Demihuman Peoples]]
-- [[Races & Peoples/The Tongues of the Realms]]
+- [[Races & Peoples/The Beastkin and Demihuman Peoples/The Beastkin and Demihuman Peoples]]
+- [[Races & Peoples/The Tongues of the Realms/The Tongues of the Realms]]
 > **Tongues.** The constructed languages live here rather than under The Magic System, because a tongue belongs to a people before it belongs to a working. **The Tongues of the Realms** is the framework: what counts as a language against what is only a naming register, the seven conventions binding every grammar, the family tree, and the build order. **The set is complete.** Old Vaross, Eressean and Varrisak, Runic Dawi, Accord Latin with its two spoken registers, and Common. **Accent** sits under Common as a menu for placing a speaker without spelling a single vowel.
 >
 > *Parunic is the exception and stays where it is. It is a script for writing boundaries onto laws, not a tongue anyone was raised in, so it lives under The Magic System with the Descent of Parun and the Counted Speech.*

@@ -68,4 +68,4 @@ The city rises across natural plateaus over the **River Kesh**, districts joined
 ## Government
 
 Ruled from Kushara by **House Zettari**, the Sovereign House, with the **Seven Pillars** — N'Kharu, Vokari, Malani, Obaru, N'Yari, Jomari, Zembari — each preserving one structure the continent cannot do without: armies, gold, food, medicine, strategic minerals, maritime trade, desert water. House Zettari is not a pillar; it is what keeps seven pillars from becoming seven crowns.
-Full house-by-house detail — seats, continental duties, greatest assets — is documented at [[Factions, Bloodlines & Institutions/The Eight Great Houses of Kushara]]. Kept there rather than re-tabled here, so the continent has one table of the Eight Houses, not two.
+Full house-by-house detail — seats, continental duties, greatest assets — is documented at [[Factions, Bloodlines & Institutions/Houses and Bloodlines/The Eight Great Houses of Kushara]]. Kept there rather than re-tabled here, so the continent has one table of the Eight Houses, not two.

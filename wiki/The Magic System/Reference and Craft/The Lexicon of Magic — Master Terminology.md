@@ -12,7 +12,7 @@ verification: "unverified"
 
 > **The central terminology hub for the Continuum.** Every magical term in WOTR is listed here or on a page linked from here.
 >
-> Sections I–V — the Planes, Aether and Essence, the Soul Crystal, Ability and Technique, Progression and Output — live on [[The Magic System/The Core Vocabulary|The Core Vocabulary]] and are not repeated here. **This page continues from Section VI.**
+> Sections I–V — the Planes, Aether and Essence, the Soul Crystal, Ability and Technique, Progression and Output — live on [[The Magic System/First Steps/The Core Vocabulary|The Core Vocabulary]] and are not repeated here. **This page continues from Section VI.**
 >
 > **Section XV is the one to read before writing prose.** It sorts every term above into what may appear on the page and what is workbook only.
 

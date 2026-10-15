@@ -110,7 +110,7 @@ The Measurewrights offer three explanations and endorse none. That the names are
 > The Guild notes that the third explanation is the one the corrected chronology makes least available. Fourteen hundred years is not long enough for a country to be forgotten by everybody while its exports continue.
 >
 > **Something is still loading those ships.**
-- [[Geography & the Four Quarters/The Bearing and the Holding/The Inner World — The Northern Shield]]
+- [[Geography & the Four Quarters/The Bearing and the Holding/The Inner World — The Northern Shield/The Inner World — The Northern Shield]]
 - [[Geography & the Four Quarters/The Bearing and the Holding/The Old World — The Western Wearing]]
 - [[Geography & the Four Quarters/The Bearing and the Holding/The New World — The Eastern Rise]]
 - [[Geography & the Four Quarters/The Bearing and the Holding/The Outer World — The Southern Pan]]

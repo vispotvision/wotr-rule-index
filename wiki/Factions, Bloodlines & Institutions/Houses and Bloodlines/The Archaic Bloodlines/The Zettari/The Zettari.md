@@ -146,5 +146,5 @@ Modern known Zettari include **Rashani, Ma'Kovu, Zuberi, and Rengai Zettari**, c
 | **Kumi-na-Mbili Seal** · Twelvefold Stillness | A dodecagon-based martial form delivering **144 Aether-locking strikes** to pressure points, joints, and Essence channels |
 | **Dawam Soul-Still Art** | A soul-stagnation form that **locks healing, adaptation, emotional flow, and Aetheric bonds** |
 
-- [[Factions, Bloodlines & Institutions/The Archaic Bloodlines/The Zettari/The Paths]]
-- [[Factions, Bloodlines & Institutions/The Archaic Bloodlines/The Zettari/The Zettari — Agano Sand and the Witnessed Temper]]
+- [[Factions, Bloodlines & Institutions/Houses and Bloodlines/The Archaic Bloodlines/The Zettari/The Paths]]
+- [[Factions, Bloodlines & Institutions/Houses and Bloodlines/The Archaic Bloodlines/The Zettari/The Zettari — Agano Sand and the Witnessed Temper]]

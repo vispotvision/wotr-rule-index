@@ -18,7 +18,7 @@ verification: null
 - [[Characters/Volume I — Character Cards/Naevra Yukari]]
 - [[Characters/Volume I — Character Cards/Ayame Yuno]]
 - [[Characters/Volume I — Character Cards/Artemis Amagiri Moto]]
-- [[Characters/Volume I — Character Cards/Sodoku Moto]]
+- [[Characters/Volume I — Character Cards/Sodoku Moto/Sodoku Moto]]
 - [[Characters/Volume I — Character Cards/Yoko Mishiro]]
 - [[Characters/Volume I — Character Cards/Cozbi Mahuo]]
 - [[Characters/Volume I — Character Cards/Kwon Mu-jin]]

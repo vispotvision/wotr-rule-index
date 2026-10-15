@@ -1,0 +1,282 @@
+[
+ {
+  "page": "The Magic System/The Core Vocabulary.md",
+  "kind": "copy",
+  "old_str": "Preserves who a practitioner is a nd is the plane",
+  "new_str": "Preserves who a practitioner is and is the plane",
+  "why": "split word 'a nd'"
+ },
+ {
+  "page": "The Magic System/The Lexicon of Magic — Master Terminology.md",
+  "kind": "copy",
+  "old_str": "<page url=\"[https://app.notion.com/p/3b158200eb228183817ecc1a61adee53\">The](https://app.notion.com/p/3b158200eb228183817ecc1a61adee53%22%3EThe) Core Vocabulary</page>",
+  "new_str": "<page url=\"https://app.notion.com/p/3b158200eb228183817ecc1a61adee53\">The Core Vocabulary</page>",
+  "why": "mangled link markup from export"
+ },
+ {
+  "page": "The Magic System/The Lexicon of Magic — Master Terminology.md",
+  "kind": "copy",
+  "old_str": "and an error in any role can produce it. Wellspring processes that were started and never completed, which keep trying to finish themselves in whatever they contact.",
+  "new_str": "and an error in any role can produce it. It leaves Wellspring processes that were started and never completed, which keep trying to finish themselves in whatever they contact.",
+  "why": "orphan fragment with no verb"
+ },
+ {
+  "page": "The Magic System/On Walking Into the Current — Wellspring Encounter and Recovery.md",
+  "kind": "copy",
+  "old_str": "is the surveyor who has already been retuned.**",
+  "new_str": "is the surveyor who has already been retuned.*",
+  "why": "unbalanced emphasis markers (one opening *, two closing)"
+ },
+ {
+  "page": "Fracture of Worlds — The Living System/II. Grades, Gates and Thresholds (Parts Four–Ten).md",
+  "kind": "copy",
+  "old_str": "The table above measures a **Sub-Stat's** raw value",
+  "new_str": "The table below measures a **Sub-Stat's** raw value",
+  "why": "the Grade table follows this paragraph, it is not above it"
+ },
+ {
+  "page": "Fracture of Worlds — The Living System/IV. The Eight Primaries and the Sixty-Four Sub-Stats (Part Twelve).md",
+  "kind": "copy",
+  "old_str": "**Where a retired name appears on an existing sheet, read it as the entry that absorbed it.** The merge list sits at the foot of this page.",
+  "new_str": "**Where a retired name appears on an existing sheet, read it as the entry that absorbed it.** Each entry below names, in italics, the retired Sub-Stats it absorbed.",
+  "why": "promised merge list is not on the page; the per-entry 'Absorbs' notes carry it"
+ },
+ {
+  "page": "The Magic System/Fracture of Worlds — The Living System.md",
+  "kind": "copy",
+  "old_str": "### The Twenty-Two Parts",
+  "new_str": "### The Twenty-Four Parts",
+  "why": "page set now runs to Part Twenty-Four (IX and X exist as child pages)"
+ },
+ {
+  "page": "The Magic System/Fracture of Worlds — The Living System.md",
+  "kind": "copy",
+  "old_str": "1. [VIII. Traits, Soul Crystal Tiers, Domains](https://app.notion.com/p/3d758200eb2281d0a367f18213037668) — Parts Twenty through Twenty-Two.",
+  "new_str": "1. [VIII. Traits, Soul Crystal Tiers, Domains](https://app.notion.com/p/3d758200eb2281d0a367f18213037668) — Parts Twenty through Twenty-Two.\n1. [IX. The Essence Ledger](https://app.notion.com/p/3e758200eb2281d49e1df161b3ed583a), Part Twenty-Three. What an EU buys in joules, what a reserve costs to spend, and how fast it comes back.\n1. [X. The Tier Ladders](https://app.notion.com/p/3e758200eb228127a7c2ece5680c1889), Part Twenty-Four.",
+  "why": "numbered list omits Parts IX and X, which exist as child pages (ids from their frontmatter)"
+ },
+ {
+  "page": "The Magic System/The Lexicon of Magic — Master Terminology.md",
+  "kind": "law",
+  "old_str": "Felt in the body, never as an aura.",
+  "new_str": "Felt in the body, and seen in the practitioner's own aura, in their own colour, burning brighter as they push.",
+  "why": "aura is visible in each practitioner's own colour and may glow (R78-6, supersedes R9-3)"
+ },
+ {
+  "page": "The Magic System/The Lexicon of Magic — Master Terminology.md",
+  "kind": "law",
+  "old_str": "**Numbers belong in a mouth.** Stat names, Sub-Stat names, Grades, Bands, efficiency, EU, Aether Class and Category are diagnostic vocabulary. They appear when a character speaks them, when an instrument reports them, when a document records them, or when somebody is privately counting. **They do not appear in narration on its own authority.**",
+  "new_str": "**Numbers belong in a mouth.** Figures are diagnostic: a Grade letter, a Band, an η, a count of EU, a Sub-Stat's value. They appear when a character speaks them, when an instrument reports them, when a document records them, or when somebody is privately counting. **They do not appear in narration on its own authority.** The system's words without their figures, Aether, Density, Saturation, Coherence, may stand in narration beside the effect they name.",
+  "why": "system and science terms are free in narration; only figures stay in mouths and notes (R78-3, R78-6)"
+ },
+ {
+  "page": "The Magic System/The Lexicon of Magic — Master Terminology.md",
+  "kind": "law",
+  "old_str": "A high Ardency Penetration is not named in the prose. It is the point going through plate that should have turned it.",
+  "new_str": "A high Ardency Penetration is first the point going through plate that should have turned it, and only after that, if at all, a name.",
+  "why": "a working is shown as physical effect, then its system term (R78-3)"
+ },
+ {
+  "page": "The Magic System/The Lexicon of Magic — Master Terminology.md",
+  "kind": "law",
+  "old_str": "Phenomenon, mechanism, measure, tempo, the read and its tell, the fault,",
+  "new_str": "Phenomenon, mechanism and the system and science words that name it, what the body and the blade did, the tell, the fault,",
+  "why": "measure, tempo and the read are banned fight abstractions in narration; system terms allowed (R78-3)"
+ },
+ {
+  "page": "The Magic System/The Working Vocabulary — Trade Jargon and Its Metaphysical Extensions.md",
+  "kind": "law",
+  "old_str": "That vocabulary is workbook and mostly stays off the page.",
+  "new_str": "That vocabulary names the system, and it may stand on the page beside the effect it names, but it places nobody by trade or class.",
+  "why": "system terms are free in narration (R78-3); keeps the page's point that trade words do the placing"
+ },
+ {
+  "page": "Fracture of Worlds — The Living System/I. Levels, Experience and Stat Points (Parts One–Three).md",
+  "kind": "law",
+  "old_str": "Deepening existing attunement through sustained channeling under genuine strain generates slower but persistent accumulation.",
+  "new_str": "Deepening existing attunement through sustained channeling, by long breathing and drawing at a Wellspring or in dense Aether, and by seclusion before a Threshold, generates slower but persistent accumulation.",
+  "why": "practitioners cultivate by breath, by drawing at Wellsprings or dense Aether, and by seclusion (R78-9, R78-7)"
+ },
+ {
+  "page": "Fracture of Worlds — The Living System/II. Grades, Gates and Thresholds (Parts Four–Ten).md",
+  "kind": "law",
+  "old_str": "until the stat collapses or the Threshold is passed through crisis.",
+  "new_str": "until the stat collapses or the Threshold is passed.",
+  "why": "crisis is one road to a Threshold, not the only one (R78-7)"
+ },
+ {
+  "page": "Fracture of Worlds — The Living System/II. Grades, Gates and Thresholds (Parts Four–Ten).md",
+  "kind": "law",
+  "old_str": "The System does not advance a soul that has not genuinely changed. This is not a punishment. It is accuracy.",
+  "new_str": "The System does not advance a soul that has not genuinely changed. This is not a punishment. It is accuracy. The road to the Catalyst differs: some meet it in crisis, some work toward it in seclusion, some are driven to it by tribulation, and most by a mixture of the three.",
+  "why": "breakthroughs come by crisis, seclusion or tribulation (R78-7); the Catalyst itself still governs"
+ },
+ {
+  "page": "Fracture of Worlds — The Living System/III. Physical Force (Part Eleven).md",
+  "kind": "law",
+  "old_str": "**Layer Two: Aether Shell Shielding.** The active Essence field surrounding every practitioner above F-Grade, buffering between incoming force and the body. Density governed by Resilience, particularly Integrity, Hardening and Fortification. The Shell absorbs and redistributes incoming energy across its entire surface before residual force reaches the body. A Shell rated at 5 TJ absorbs 5 TJ across all concurrent attacks before anything reaches flesh.",
+  "new_str": "**Layer Two: Aether Shell Shielding.** The active Essence field surrounding every practitioner above F-Grade, buffering between incoming force and the body, worn as a coat of the practitioner's own aura. Density governed by Resilience, particularly Integrity, Hardening and Fortification. Held evenly, the Shell absorbs and redistributes incoming energy across its entire surface before residual force reaches the body, and a Shell rated at 5 TJ absorbs 5 TJ across all concurrent attacks before anything reaches flesh. It can be thickened where a blow is expected, at the price of leaving the rest thin, and reading where it went is half of reading the fighter. It is held, not owned: asleep, drugged or taken by surprise, a practitioner keeps the passive hardness of Layer One and loses this layer entirely.",
+  "why": "active reinforcement over a passive base: aura coat, focusable, leaves gaps, lost off guard (R78-9)"
+ },
+ {
+  "page": "The Magic System/Fracture of Worlds — The Living System.md",
+  "kind": "gloss",
+  "old_str": "how many times your Soul Crystal has meaningfully densified",
+  "new_str": "how many times your Soul Crystal (the soul's inner crystal, where a practitioner's power is held and shaped) has meaningfully densified",
+  "why": "first use of Soul Crystal"
+ },
+ {
+  "page": "The Magic System/Fracture of Worlds — The Living System.md",
+  "kind": "gloss",
+  "old_str": "The ceiling is 500 for everyone below Stage XV. Paragons exceed it,",
+  "new_str": "The ceiling is 500 for everyone below Stage XV. Paragons (practitioners at Stages XV and XVI) exceed it,",
+  "why": "Paragon used before the Tier list explains it"
+ },
+ {
+  "page": "Fracture of Worlds — The Living System/I. Levels, Experience and Stat Points (Parts One–Three).md",
+  "kind": "gloss",
+  "old_str": "the structural limit of what a mortal Soul Crystal can contain",
+  "new_str": "the structural limit of what a mortal Soul Crystal (the soul's inner crystal, where a practitioner's power is held and shaped) can contain",
+  "why": "first use of Soul Crystal"
+ },
+ {
+  "page": "Fracture of Worlds — The Living System/I. Levels, Experience and Stat Points (Parts One–Three).md",
+  "kind": "gloss",
+  "old_str": "Every Band corresponds to a Temperance Stage cluster.",
+  "new_str": "Every Band corresponds to a Temperance Stage (one of the sixteen rungs of a soul's refinement) cluster.",
+  "why": "first use of Temperance Stage"
+ },
+ {
+  "page": "Fracture of Worlds — The Living System/I. Levels, Experience and Stat Points (Parts One–Three).md",
+  "kind": "gloss",
+  "old_str": "without first passing the Temperance Threshold that cluster demands",
+  "new_str": "without first passing the Temperance Threshold (the breakthrough that lifts a soul to its next Stage) that cluster demands",
+  "why": "first use of Temperance Threshold"
+ },
+ {
+  "page": "Fracture of Worlds — The Living System/I. Levels, Experience and Stat Points (Parts One–Three).md",
+  "kind": "gloss",
+  "old_str": "A Domain seed becomes possible.",
+  "new_str": "A Domain seed (the first root of a space where the practitioner's law overrides local law) becomes possible.",
+  "why": "first use of Domain"
+ },
+ {
+  "page": "Fracture of Worlds — The Living System/I. Levels, Experience and Stat Points (Parts One–Three).md",
+  "kind": "gloss",
+  "old_str": "Deciphering an unknown Parunic glyph-construct independently.",
+  "new_str": "Deciphering an unknown Parunic (written in Parun, the language of magical law) glyph-construct independently.",
+  "why": "first use of Parunic"
+ },
+ {
+  "page": "Fracture of Worlds — The Living System/I. Levels, Experience and Stat Points (Parts One–Three).md",
+  "kind": "gloss",
+  "old_str": "Using Overchannel and sustaining",
+  "new_str": "Using Overchannel (forcing more output than the Crystal can safely sustain) and sustaining",
+  "why": "first use of Overchannel"
+ },
+ {
+  "page": "Fracture of Worlds — The Living System/I. Levels, Experience and Stat Points (Parts One–Three).md",
+  "kind": "gloss",
+  "old_str": "structural Aether Shell damage",
+  "new_str": "structural Aether Shell (the Crystal's outer layer, which turns Essence into force) damage",
+  "why": "first use of Aether Shell"
+ },
+ {
+  "page": "Fracture of Worlds — The Living System/II. Grades, Gates and Thresholds (Parts Four–Ten).md",
+  "kind": "gloss",
+  "old_str": "**X.** Archon-adjacent.",
+  "new_str": "**X.** Archon-adjacent (near the power of the fourteen Archons, the beings who hold conceptual law).",
+  "why": "first use of Archon"
+ },
+ {
+  "page": "Fracture of Worlds — The Living System/II. Grades, Gates and Thresholds (Parts Four–Ten).md",
+  "kind": "gloss",
+  "old_str": "Domain seeds structurally possible though not stable.",
+  "new_str": "Domain seeds (first roots of a space where the practitioner's law overrides local law) structurally possible though not stable.",
+  "why": "first use of Domain"
+ },
+ {
+  "page": "Fracture of Worlds — The Living System/II. Grades, Gates and Thresholds (Parts Four–Ten).md",
+  "kind": "gloss",
+  "old_str": "No formal upper ceiling beneath the Apotheosis threshold.",
+  "new_str": "No formal upper ceiling beneath the Apotheosis threshold (where the line between practitioner and living Principle collapses).",
+  "why": "first use of Apotheosis"
+ },
+ {
+  "page": "Fracture of Worlds — The Living System/II. Grades, Gates and Thresholds (Parts Four–Ten).md",
+  "kind": "gloss",
+  "old_str": "**Coherence** open, and functions as the structural prerequisite",
+  "new_str": "**Coherence** (how closely a soul's chosen Path matches how it actually works) open, and functions as the structural prerequisite",
+  "why": "first use of Coherence; defined only on Part IV"
+ },
+ {
+  "page": "Fracture of Worlds — The Living System/II. Grades, Gates and Thresholds (Parts Four–Ten).md",
+  "kind": "gloss",
+  "old_str": "becomes recognizable to a Hollow Throne.",
+  "new_str": "becomes recognizable to a Hollow Throne (the empty seat of a dead Archon).",
+  "why": "first use of Hollow Throne"
+ },
+ {
+  "page": "Fracture of Worlds — The Living System/III. Physical Force (Part Eleven).md",
+  "kind": "gloss",
+  "old_str": "A Sage Art technique delivers force",
+  "new_str": "A Sage Art (a working drawn from the Wellspring running through the ground) technique delivers force",
+  "why": "first use of Sage Art; defined only on Part V"
+ },
+ {
+  "page": "Fracture of Worlds — The Living System/III. Physical Force (Part Eleven).md",
+  "kind": "gloss",
+  "old_str": "experiences Overchannel events, Backlash,",
+  "new_str": "experiences Overchannel (forcing more output than the Crystal can safely sustain) events, Backlash,",
+  "why": "first use of Overchannel"
+ },
+ {
+  "page": "Fracture of Worlds — The Living System/III. Physical Force (Part Eleven).md",
+  "kind": "gloss",
+  "old_str": "A Fixatio-anchored barrier",
+  "new_str": "A Fixatio-anchored (anchored on Fixatio, the Wellspring of binding) barrier",
+  "why": "first use of Fixatio"
+ },
+ {
+  "page": "Fracture of Worlds — The Living System/III. Physical Force (Part Eleven).md",
+  "kind": "gloss",
+  "old_str": "A tightly compressed Coagulatio-based force lance",
+  "new_str": "A tightly compressed Coagulatio-based (drawn from Coagulatio, a Wellspring that gathers and densifies) force lance",
+  "why": "first use of Coagulatio"
+ },
+ {
+  "page": "Fracture of Worlds — The Living System/III. Physical Force (Part Eleven).md",
+  "kind": "gloss",
+  "old_str": "A broadly dispersed Pyreveil-based detonation wave",
+  "new_str": "A broadly dispersed Pyreveil-based (drawn from Pyreveil, a fire Wellspring) detonation wave",
+  "why": "first use of Pyreveil"
+ },
+ {
+  "page": "Fracture of Worlds — The Living System/III. Physical Force (Part Eleven).md",
+  "kind": "gloss",
+  "old_str": "an eighteenth at Active Concentration,",
+  "new_str": "an eighteenth at Active Concentration (ground near a Wellspring, thick with Aether),",
+  "why": "first use of Active Concentration"
+ },
+ {
+  "page": "Fracture of Worlds — The Living System/IV. The Eight Primaries and the Sixty-Four Sub-Stats (Part Twelve).md",
+  "kind": "gloss",
+  "old_str": "both measured Parunic construction.",
+  "new_str": "both measured Parunic (Parun, the written language of magical law) construction.",
+  "why": "first use of Parunic"
+ },
+ {
+  "page": "Fracture of Worlds — The Living System/IV. The Eight Primaries and the Sixty-Four Sub-Stats (Part Twelve).md",
+  "kind": "gloss",
+  "old_str": "the warnings that precede Dissonance events.",
+  "new_str": "the warnings that precede Dissonance (the eleventh Stage, where power and identity clash) events.",
+  "why": "first use of Dissonance"
+ },
+ {
+  "page": "Fracture of Worlds — The Living System/V. Wellsprings, Attraction and Obsession, Magic Integration (Parts Thirteen–Fifteen).md",
+  "kind": "gloss",
+  "old_str": "or through a **Compound Trait** that integrates the contradiction.",
+  "new_str": "or through a **Compound Trait** (a Trait fusing two or more laws into one) that integrates the contradiction.",
+  "why": "first use of Compound Trait"
+ }
+]

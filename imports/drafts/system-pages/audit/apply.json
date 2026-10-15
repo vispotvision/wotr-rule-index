@@ -1,0 +1,3422 @@
+[
+ {
+  "page": "The Magic System/The Four Crafts.md",
+  "notion_id": "3bc58200-eb22-810f-ac23-e2613ea61705",
+  "items": [
+   {
+    "page": "The Magic System/The Four Crafts.md",
+    "kind": "copy",
+    "old_str": "> *The Accord has no category for this because the Accord's ledgers count practitioners. The apothecaries have known it for two centuries and price accordingly.*\n> \n> He also gets no melt. **Nucleation is a Crystal event**, so a Draft cannot seat in him, cannot recast him, and cannot be argued with once it is in. It runs its course through the Core and leaves whatever it leaves. Repeated dosing over years does not advance anything. It **deepens the grain**, hardening the man further along the direction he was already set, which is why the second and third generation of a village on cheap Drafts are recognisable at a distance and the fourth is a problem.\n> \n> *The Accord has no category for this because the Accord's ledgers count practitioners. The apothecaries have known it for two centuries and price accordingly.*\n>\n> He also gets no melt. **Nucleation is a Crystal event**, so a Draft cannot seat in him, cannot recast him, and cannot be argued with once it is in. It runs its course through the Core and leaves whatever it leaves. Repeated dosing over years does not advance anything. It **deepens the grain**, hardening the man further along the direction he was already set, which is why the second and third generation of a village on cheap Drafts are recognisable at a distance and the fourth is a problem.\n>\n> *The Accord has no category for this because the Accord's ledgers count practitioners. The apothecaries have known it for two centuries and price accordingly.*",
+    "new_str": "> *The Accord has no category for this because the Accord's ledgers count practitioners. The apothecaries have known it for two centuries and price accordingly.*",
+    "why": "The 'He also gets no melt' paragraph and its Accord coda appear three times; keep one (multi-line by necessity).",
+    "src": "A"
+   },
+   {
+    "page": "The Magic System/The Four Crafts.md",
+    "kind": "law",
+    "old_str": "> **Status: low — and this is the single most important change in the document.**",
+    "new_str": "> **Status: low in the guilds' eyes, and only there. This is the single most important change in the document.**",
+    "why": "R78-9: Spellcraft's low status is guild opinion, not the world's.",
+    "src": "A"
+   },
+   {
+    "page": "The Magic System/The Four Crafts.md",
+    "kind": "law",
+    "old_str": "> **A man who can only speak is a man who could not afford to learn to cut.**",
+    "new_str": "> **To a guildsman, a man who can only speak is a man who could not afford to learn to cut.**",
+    "why": "R78-9: frame the sneer as the guilds' view.",
+    "src": "A"
+   },
+   {
+    "page": "The Magic System/The Four Crafts.md",
+    "kind": "law",
+    "old_str": "***That is precisely why the guilds hold it in contempt. Anyone can shout. Cutting takes seven years and a master willing to take you.***",
+    "new_str": "***That is precisely why the guilds hold it in contempt. Anyone can shout. Cutting takes seven years and a master willing to take you.*** The world outside the halls has never agreed. The public, the armies and the sects idolise a great speaker as they idolise any champion, and the man the examiners call a mouth is the one the crowd came to see.",
+    "why": "R78-9: guilds sneer at fighters while the public, armies and sects idolise great ones.",
+    "src": "A"
+   },
+   {
+    "page": "The Magic System/The Four Crafts.md",
+    "kind": "law",
+    "old_str": "**Bodily** · Martial integration. Corporis. **A fist with combustion on it is Spellcraft with the body as the pen**, and the sentence is still ephemeral — *which is why the fist stops burning the moment attention lapses.* **It is not a separate craft and should never be written as one.**",
+    "new_str": "**Bodily** · Martial integration. Corporis. **A practitioner's stats sit in the body always, a passive base nothing switches off, and Bodily Spellcraft is the active reinforcement spoken over it**, pushing past the base at a price in reserve. It shows as a coat of the practitioner's own aura, thicker where they push, with the body changing beneath it, and it can be gathered into one fist or one shin while the rest runs thin, so reading where it went is half the fight. **A fist with combustion on it is Spellcraft with the body as the pen**, and the sentence is still ephemeral, *which is why the fist stops burning, and the coat drops, the moment attention lapses.* Asleep, drugged or taken by surprise, a practitioner keeps the base and loses the layer, which is why ambush is the oldest answer to one. **It is not a separate craft and should never be written as one.**",
+    "why": "R78-9: Bodily vector is active reinforcement (focusable, gaps, aura coat, lost off guard) over a passive stat base.",
+    "src": "A"
+   },
+   {
+    "page": "The Magic System/The Four Crafts.md",
+    "kind": "law",
+    "old_str": "> **That is the cultivation shape. It is a very good shape and it is not what Tolkien, Martin, Clarke or Le Guin are doing.**",
+    "new_str": "> **That is the cultivation shape. It is the core of the system and it stays the core, and it is not what Tolkien, Martin, Clarke or Le Guin are doing; the crafts below build their made things around it.**",
+    "why": "R78-4: WOTR is cultivation at its core; the Western crafts sit around it, not in place of it.",
+    "src": "A"
+   },
+   {
+    "page": "The Magic System/The Four Crafts.md",
+    "kind": "law",
+    "old_str": "**Move the made object and the prepared substance above it, and put the live caster at the bottom.**",
+    "new_str": "**Move the made object and the prepared substance above it in guild dignity, and put the live caster at the bottom of the guild ladder, whatever the crowd outside thinks of him.**",
+    "why": "R78-9: the low rank of the live caster is a guild ranking; the world cheers fighters.",
+    "src": "A"
+   },
+   {
+    "page": "The Magic System/The Four Crafts.md",
+    "kind": "law",
+    "old_str": "> Any Runecraft on the page should carry **a date, an author, or a visible repair** — *and the repair should be worse than the original.*",
+    "new_str": "> Any standing Runecraft on the page should carry **a date, an author, or a visible repair**, *and the repair should be worse than the original.* Cheap runed gear and the prepared tags fighters carry into battle are journeyman stamping, common as nails, and carry no more than a maker's mark.",
+    "why": "R78-9: cheap runed gear is common and prepared tags are carried into battle; only the great pieces are old.",
+    "src": "A"
+   },
+   {
+    "page": "The Magic System/The Four Crafts.md",
+    "kind": "law",
+    "old_str": "**The default working in any scene should be Runecraft or Draftcraft.** A wall that holds. A bottle that was bought. **Spellcraft appears when somebody is out of time, out of options, or out of standing.**",
+    "new_str": "**The default working in a quiet scene should be Runecraft or Draftcraft.** A wall that holds. A bottle that was bought. **Spellcraft owns the fight: it is what a fighter shouts when the blades are out, and what anyone reaches for when out of time or out of options.**",
+    "why": "R78-5/R78-6/R78-9: fighters' spoken techniques are central and admired, not a mark of lost standing.",
+    "src": "A"
+   },
+   {
+    "page": "The Magic System/The Four Crafts.md",
+    "kind": "gloss",
+    "old_str": "The Parun lattice is **Agrippa's kamea method",
+    "new_str": "The Parun (the language of law every working is written in) lattice is **Agrippa's kamea method",
+    "why": "First use of Parun.",
+    "src": "A"
+   },
+   {
+    "page": "The Magic System/The Four Crafts.md",
+    "kind": "gloss",
+    "old_str": "A glyph creates nothing. The Wellspring's law was already running.",
+    "new_str": "A glyph creates nothing. The law of the Wellspring (one of sixty natural sources of magic, each carrying a physical law) was already running.",
+    "why": "First use of Wellspring.",
+    "src": "A"
+   },
+   {
+    "page": "The Magic System/The Four Crafts.md",
+    "kind": "gloss",
+    "old_str": "The categories and the Families are **an Accord publication",
+    "new_str": "The categories and the Families (the eight houses of magic, each sorted by the physics it works) are **an Accord publication",
+    "why": "First use of Families.",
+    "src": "A"
+   },
+   {
+    "page": "The Magic System/The Four Crafts.md",
+    "kind": "gloss",
+    "old_str": "EU, Flux Density and η remain author-facing and unchanged.",
+    "new_str": "EU (Essence Units, the measure of a reserve), Flux Density (how densely Essence packs into the Crystal) and η (efficiency, the share of spent power that does its work) remain author-facing and unchanged.",
+    "why": "First use of EU, Flux Density, eta.",
+    "src": "A"
+   },
+   {
+    "page": "The Magic System/The Four Crafts.md",
+    "kind": "gloss",
+    "old_str": "They know the Codex, the Families,",
+    "new_str": "They know the Codex (the Accord's master register of glyphs, Wellsprings and laws), the Families,",
+    "why": "First use of Codex.",
+    "src": "A"
+   },
+   {
+    "page": "The Magic System/The Four Crafts.md",
+    "kind": "gloss",
+    "old_str": "The chain held silently in the Crystal.",
+    "new_str": "The chain held silently in the Crystal (the Soul Crystal, the organ in the soul that works magic).",
+    "why": "First use of Crystal.",
+    "src": "A"
+   },
+   {
+    "page": "The Magic System/The Four Crafts.md",
+    "kind": "gloss",
+    "old_str": "The Essence already committed does not come back.",
+    "new_str": "The Essence (the soul's own stuff of power, spent to work) already committed does not come back.",
+    "why": "First use of Essence.",
+    "src": "A"
+   },
+   {
+    "page": "The Magic System/The Four Crafts.md",
+    "kind": "gloss",
+    "old_str": "the Aether Shell or Soul Crystal lattice of a living body",
+    "new_str": "the Aether Shell (the soul's outer layer, turning inner power into outward force) or Soul Crystal lattice of a living body",
+    "why": "First use of Aether Shell.",
+    "src": "A"
+   },
+   {
+    "page": "The Magic System/The Four Crafts.md",
+    "kind": "gloss",
+    "old_str": "Aether plus Essence plus Vessel plus Glyphica, resolved as a reaction",
+    "new_str": "Aether plus Essence plus Vessel plus Glyphica (the glyph-writing that shapes a working), resolved as a reaction",
+    "why": "First use of Glyphica.",
+    "src": "A"
+   },
+   {
+    "page": "The Magic System/The Four Crafts.md",
+    "kind": "gloss",
+    "old_str": "A Draft acts on the Essence Core, and a Class Ø soul",
+    "new_str": "A Draft acts on the Essence Core (the soul's inner layer, holding identity, memory and Traits), and a Class Ø soul",
+    "why": "First use of Essence Core.",
+    "src": "A"
+   },
+   {
+    "page": "The Magic System/The Four Crafts.md",
+    "kind": "gloss",
+    "old_str": "He also gets no melt. **Nucleation is a Crystal event**",
+    "new_str": "He also gets no melt. **Nucleation (the seeding that decides how a melted Crystal sets again) is a Crystal event**",
+    "why": "First use of Nucleation. Apply AFTER the duplicate fix above; until then this string occurs three times.",
+    "src": "A"
+   },
+   {
+    "page": "The Magic System/The Four Crafts.md",
+    "kind": "gloss",
+    "old_str": "Harmonia workings take *Ars Cantus* as their medium-home.",
+    "new_str": "Harmonia (magic worked by tone and sympathetic vibration) workings take *Ars Cantus* as their medium-home.",
+    "why": "First use of Harmonia.",
+    "src": "A"
+   }
+  ]
+ },
+ {
+  "page": "The Magic System/The Sixteen Stages.md",
+  "notion_id": "3b158200-eb22-81cc-a193-d69c171c0986",
+  "items": [
+   {
+    "page": "The Magic System/The Sixteen Stages.md",
+    "kind": "law",
+    "old_str": "***From outside*** · The Aura starts doing things to rooms. Not dramatically.",
+    "new_str": "***From outside*** · The Aura, a light in the practitioner's own colour that flares brighter as they push and is now plain to any civilian, starts doing things to rooms. Not dramatically, at first.",
+    "why": "R78-6: each practitioner's aura shows in their own colour and glows brighter as they push.",
+    "src": "A"
+   },
+   {
+    "page": "The Magic System/The Sixteen Stages.md",
+    "kind": "gloss",
+    "old_str": "*What Temperance Does to a Soul, Stage by Stage, Told Plainly*",
+    "new_str": "*What Temperance (the climb of a soul from Stage to Stage) Does to a Soul, Stage by Stage, Told Plainly*",
+    "why": "First use of Temperance.",
+    "src": "A"
+   },
+   {
+    "page": "The Magic System/The Sixteen Stages.md",
+    "kind": "gloss",
+    "old_str": "the Codex's own account of the Stages runs to eleven lines and has never once been sufficient to teach from.",
+    "new_str": "the account of the Stages in the Codex (the Accord's master register of laws and figures) runs to eleven lines and has never once been sufficient to teach from.",
+    "why": "First use of Codex.",
+    "src": "A"
+   },
+   {
+    "page": "The Magic System/The Sixteen Stages.md",
+    "kind": "gloss",
+    "old_str": "its Tier of Standing, its Grade ceiling, its stat ceiling, and the Catalyst Condition the Crystal requires before it will authorise the transition.",
+    "new_str": "its Tier of Standing (the Accord's rank title for it), its Grade ceiling (the highest letter grade, E to EX, its stats may reach), its stat ceiling, and the Catalyst Condition (the life event a soul must pass through to cross) the Crystal (the Soul Crystal, the organ that works magic) requires before it will authorise the transition.",
+    "why": "First use of Tier of Standing, Grade, Catalyst, Crystal.",
+    "src": "A"
+   },
+   {
+    "page": "The Magic System/The Sixteen Stages.md",
+    "kind": "gloss",
+    "old_str": "> **The first** is that a Threshold requires",
+    "new_str": "> **The first** is that a Threshold (the crossing from one Stage to the next) requires",
+    "why": "First use of Threshold.",
+    "src": "A"
+   },
+   {
+    "page": "The Magic System/The Sixteen Stages.md",
+    "kind": "gloss",
+    "old_str": "only Part One's Band gates are hard",
+    "new_str": "only Part One's Band (a block of a hundred Levels) gates are hard",
+    "why": "First use of Band.",
+    "src": "A"
+   },
+   {
+    "page": "The Magic System/The Sixteen Stages.md",
+    "kind": "gloss",
+    "old_str": "What opening does not do is hand the child anything new. Traits sit in the material of a soul",
+    "new_str": "What opening does not do is hand the child anything new. Traits (standing laws a soul has survived into being) sit in the material of a soul",
+    "why": "First use of Traits.",
+    "src": "A"
+   },
+   {
+    "page": "The Magic System/The Sixteen Stages.md",
+    "kind": "gloss",
+    "old_str": "first genuine contact with a Wellspring current",
+    "new_str": "first genuine contact with a Wellspring (one of sixty natural sources of magic, each carrying a physical law) current",
+    "why": "First use of Wellspring.",
+    "src": "A"
+   },
+   {
+    "page": "The Magic System/The Sixteen Stages.md",
+    "kind": "gloss",
+    "old_str": "The Shell is forming and it is porous",
+    "new_str": "The Shell (the Aether Shell, the soul's outer layer that turns power into force) is forming and it is porous",
+    "why": "First use of Shell.",
+    "src": "A"
+   },
+   {
+    "page": "The Magic System/The Sixteen Stages.md",
+    "kind": "gloss",
+    "old_str": "own understanding of their Essence rather than received doctrine",
+    "new_str": "own understanding of their Essence (the soul's own stuff of power) rather than received doctrine",
+    "why": "First use of Essence.",
+    "src": "A"
+   },
+   {
+    "page": "The Magic System/The Sixteen Stages.md",
+    "kind": "gloss",
+    "old_str": "and the Path is visible to anyone who knows how to look",
+    "new_str": "and the Path (the route, body, spirit, bond or fate, the Crystal habitually works through) is visible to anyone who knows how to look",
+    "why": "First use of Path.",
+    "src": "A"
+   },
+   {
+    "page": "The Magic System/The Sixteen Stages.md",
+    "kind": "gloss",
+    "old_str": "carries mechanical weight in the Harmonics",
+    "new_str": "carries mechanical weight in the Harmonics (the stats for drawing power and holding it in tune)",
+    "why": "First use of Harmonics.",
+    "src": "A"
+   },
+   {
+    "page": "The Magic System/The Sixteen Stages.md",
+    "kind": "gloss",
+    "old_str": "in a way the coil reads",
+    "new_str": "in a way the coil (the assay instrument that reads a Crystal) reads",
+    "why": "First use of the coil.",
+    "src": "A"
+   },
+   {
+    "page": "The Magic System/The Sixteen Stages.md",
+    "kind": "gloss",
+    "old_str": "They lose Sub-Stat progress",
+    "new_str": "They lose Sub-Stat (the finer stats beneath each main stat) progress",
+    "why": "First use of Sub-Stat.",
+    "src": "A"
+   },
+   {
+    "page": "The Magic System/The Sixteen Stages.md",
+    "kind": "gloss",
+    "old_str": "people who have never heard of Aether Class find themselves",
+    "new_str": "people who have never heard of Aether Class (how much of a soul's power survives the trip out through the Shell) find themselves",
+    "why": "First use of Aether Class.",
+    "src": "A"
+   },
+   {
+    "page": "The Magic System/The Sixteen Stages.md",
+    "kind": "gloss",
+    "old_str": "Gnosis undergoes a qualitative jump here",
+    "new_str": "Gnosis (the stat of perception and understanding) undergoes a qualitative jump here",
+    "why": "First use of Gnosis.",
+    "src": "A"
+   },
+   {
+    "page": "The Magic System/The Sixteen Stages.md",
+    "kind": "gloss",
+    "old_str": "degrading gain and raising Overchannel and Backlash risk continuously",
+    "new_str": "degrading gain and raising Overchannel (drawing more than the Crystal can carry) and Backlash (a working's force turning on its maker) risk continuously",
+    "why": "First use of Overchannel and Backlash.",
+    "src": "A"
+   },
+   {
+    "page": "The Magic System/The Sixteen Stages.md",
+    "kind": "gloss",
+    "old_str": "The Domain becomes a reality the Continuum must accommodate.",
+    "new_str": "The Domain becomes a reality the Continuum (the lawful fabric of reality that workings write into) must accommodate.",
+    "why": "First use of Continuum.",
+    "src": "A"
+   },
+   {
+    "page": "The Magic System/The Sixteen Stages.md",
+    "kind": "gloss",
+    "old_str": "half the sites the Measurewrights cannot attribute",
+    "new_str": "half the sites the Measurewrights (trained assayers who measure power and sites) cannot attribute",
+    "why": "First use of Measurewrights.",
+    "src": "A"
+   }
+  ]
+ },
+ {
+  "page": "The Magic System/The Ladder and the Draft — Temperance, Advancement and Essence Drafts.md",
+  "notion_id": "3c758200-eb22-81de-be03-db5381c6ad3e",
+  "items": [
+   {
+    "page": "The Magic System/The Ladder and the Draft — Temperance, Advancement and Essence Drafts.md",
+    "kind": "law",
+    "old_str": "So a Draft does exactly one honest thing, one dishonest one, and one that the Registers have only recently been willing to write down.",
+    "new_str": "So, in the matter of advancement, a Draft does exactly one honest thing, one dishonest one, and one that the Registers have only recently been willing to write down.",
+    "why": "R78-9: fight Drafts exist, so 'exactly' must be scoped to advancement.",
+    "src": "A"
+   },
+   {
+    "page": "The Magic System/The Ladder and the Draft — Temperance, Advancement and Essence Drafts.md",
+    "kind": "gloss",
+    "old_str": "the Codex ledger line",
+    "new_str": "the Codex (the Accord's master register of laws and figures) ledger line",
+    "why": "First use of Codex.",
+    "src": "A"
+   },
+   {
+    "page": "The Magic System/The Ladder and the Draft — Temperance, Advancement and Essence Drafts.md",
+    "kind": "gloss",
+    "old_str": "what changes in each Crystal layer as a soul climbs",
+    "new_str": "what changes in each Crystal layer (the three layers of the Soul Crystal, the organ that works magic) as a soul climbs",
+    "why": "First use of Crystal layer.",
+    "src": "A"
+   },
+   {
+    "page": "The Magic System/The Ladder and the Draft — Temperance, Advancement and Essence Drafts.md",
+    "kind": "gloss",
+    "old_str": "Temperance is subtraction. Each Stage is a structural reorganisation",
+    "new_str": "Temperance (the climb of a soul from Stage to Stage) is subtraction. Each Stage is a structural reorganisation",
+    "why": "First body use of Temperance (title use cannot carry a gloss).",
+    "src": "A"
+   },
+   {
+    "page": "The Magic System/The Ladder and the Draft — Temperance, Advancement and Essence Drafts.md",
+    "kind": "gloss",
+    "old_str": "The first true Domain forms from a wound consciously made load-bearing. Then the practitioner stops working alone. Then the Continuum stops resisting",
+    "new_str": "The first true Domain (a region where the world runs on the practitioner's terms) forms from a wound consciously made load-bearing. Then the practitioner stops working alone. Then the Continuum (the lawful fabric of reality) stops resisting",
+    "why": "First use of Domain and Continuum.",
+    "src": "A"
+   },
+   {
+    "page": "The Magic System/The Ladder and the Draft — Temperance, Advancement and Essence Drafts.md",
+    "kind": "gloss",
+    "old_str": "Essence Core",
+    "new_str": "Essence Core (inner layer: identity, memory, Traits)",
+    "why": "First use, table header cell; string is unique on the page.",
+    "src": "A"
+   },
+   {
+    "page": "The Magic System/The Ladder and the Draft — Temperance, Advancement and Essence Drafts.md",
+    "kind": "gloss",
+    "old_str": "Attraction Layer",
+    "new_str": "Attraction Layer (outer layer: bonds, Domains, Wellspring ties)",
+    "why": "First use, table header cell; check uniqueness before applying.",
+    "src": "A"
+   },
+   {
+    "page": "The Magic System/The Ladder and the Draft — Temperance, Advancement and Essence Drafts.md",
+    "kind": "gloss",
+    "old_str": "interface cleanly with Wellspring dialect",
+    "new_str": "interface cleanly with Wellspring (a natural source of magic carrying one physical law) dialect",
+    "why": "First use of Wellspring.",
+    "src": "A"
+   },
+   {
+    "page": "The Magic System/The Ladder and the Draft — Temperance, Advancement and Essence Drafts.md",
+    "kind": "gloss",
+    "old_str": "*Aether + Essence + Vessel + Glyphica = Reaction.",
+    "new_str": "*Aether + Essence + Vessel + Glyphica (the glyph-writing that shapes a working) = Reaction.",
+    "why": "First use of Glyphica.",
+    "src": "A"
+   },
+   {
+    "page": "The Magic System/The Ladder and the Draft — Temperance, Advancement and Essence Drafts.md",
+    "kind": "gloss",
+    "old_str": "carries a Resonance, a Family and a Physics Domain alongside",
+    "new_str": "carries a Resonance, a Family (one of the eight houses of magic, sorted by physics) and a Physics Domain (the branch of real physics its Wellspring governs) alongside",
+    "why": "First use of Family and Physics Domain.",
+    "src": "A"
+   },
+   {
+    "page": "The Magic System/The Ladder and the Draft — Temperance, Advancement and Essence Drafts.md",
+    "kind": "gloss",
+    "old_str": "whose Attunement has quietly stopped matching their Coherence",
+    "new_str": "whose Attunement (how the soul tunes itself to what it works) has quietly stopped matching their Coherence (how closely its chosen Path matches how it lives)",
+    "why": "First use of Attunement and Coherence; the plain definition comes forty lines later.",
+    "src": "A"
+   }
+  ]
+ },
+ {
+  "page": "The Magic System/The Trait System Law, Function and the Forge.md",
+  "notion_id": "3d558200-eb22-81ab-a65f-e63097e58d06",
+  "items": [
+   {
+    "page": "The Magic System/The Trait System Law, Function and the Forge.md",
+    "kind": "law",
+    "old_str": "Growth requires the Crystal be driven to the edge of its structural tolerance and held there, which in practice means exhaustion past the point of usefulness, injury past the point of safety, or genuine proximity to death.",
+    "new_str": "Growth requires the Crystal be driven to the edge of its structural tolerance and held there, by breath drawn at a Wellspring or in dense Aether until the body shakes, by sparring and real fights, or by the long hunger of seclusion before a Threshold, and at that edge it means exhaustion past the point of usefulness, injury past the point of safety, or genuine proximity to death.",
+    "why": "R78-7/R78-9: cultivation runs by breath and drawing, sparring and fights, and seclusion, not near-death alone.",
+    "src": "A"
+   },
+   {
+    "page": "The Magic System/The Trait System Law, Function and the Forge.md",
+    "kind": "law",
+    "old_str": "Alchemy of this order is scarce, the Guild Accord releases higher-ranked Drafts only at prices structured to be refusals, and in practice Drafts are a fixture of great house households and almost nowhere else.",
+    "new_str": "Alchemy of the higher orders is scarce, and the Guild Accord releases higher-ranked Drafts only at prices structured to be refusals. The lesser grades run everywhere, from corner apothecaries to smugglers' holds, counterfeits among them, and the breakthrough grades are fought over like treasure.",
+    "why": "R78-9: the Draft trade runs everywhere, corner apothecaries to smugglers; breakthrough Drafts fought over.",
+    "src": "A"
+   },
+   {
+    "page": "The Magic System/The Trait System Law, Function and the Forge.md",
+    "kind": "law",
+    "src": "M",
+    "why": "R78-10 Class Ø rarely woken",
+    "old_str": "whose Crystal is sealed and will remain sealed their whole lives.",
+    "new_str": "whose Crystal is sealed and almost always stays sealed their whole lives; a rare few are woken by crisis, a master's forcing or a tribulation, at great cost."
+   },
+   {
+    "page": "The Magic System/The Trait System Law, Function and the Forge.md",
+    "kind": "gloss",
+    "old_str": "A Soul Crystal that is comfortable does not densify.",
+    "new_str": "A Soul Crystal (the organ in the soul that holds and works magic) that is comfortable does not densify.",
+    "why": "First use of Soul Crystal.",
+    "src": "A"
+   },
+   {
+    "page": "The Magic System/The Trait System Law, Function and the Forge.md",
+    "kind": "gloss",
+    "old_str": "This is the whole reason Temperance exists",
+    "new_str": "This is the whole reason Temperance (the climb of a soul from Stage to Stage) exists",
+    "why": "First use of Temperance.",
+    "src": "A"
+   },
+   {
+    "page": "The Magic System/The Trait System Law, Function and the Forge.md",
+    "kind": "gloss",
+    "old_str": "A Trait is a standing law held in the Essence Core.",
+    "new_str": "A Trait is a standing law held in the Essence Core (the soul's inner layer, holding identity, memory and Traits).",
+    "why": "First use of Essence Core.",
+    "src": "A"
+   },
+   {
+    "page": "The Magic System/The Trait System Law, Function and the Forge.md",
+    "kind": "gloss",
+    "old_str": "hardens into a statement the Continuum accepts as reliable, and thereafter",
+    "new_str": "hardens into a statement the Continuum (the lawful fabric of reality) accepts as reliable, and thereafter",
+    "why": "First use of Continuum.",
+    "src": "A"
+   },
+   {
+    "page": "The Magic System/The Trait System Law, Function and the Forge.md",
+    "kind": "gloss",
+    "old_str": "revelation, sustained Wellspring exposure",
+    "new_str": "revelation, sustained Wellspring (a natural source of magic carrying one physical law) exposure",
+    "why": "First use of Wellspring.",
+    "src": "A"
+   },
+   {
+    "page": "The Magic System/The Trait System Law, Function and the Forge.md",
+    "kind": "gloss",
+    "old_str": "Governed by Tempering Maturity, which decides",
+    "new_str": "Governed by Tempering Maturity (how fully a soul has integrated its past hurts), which decides",
+    "why": "First use of Tempering Maturity.",
+    "src": "A"
+   },
+   {
+    "page": "The Magic System/The Trait System Law, Function and the Forge.md",
+    "kind": "gloss",
+    "old_str": "a dense, deliberate, high-Clarity lattice",
+    "new_str": "a dense, deliberate, high-Clarity (refinement of the Essence held) lattice",
+    "why": "First use of Clarity.",
+    "src": "A"
+   },
+   {
+    "page": "The Magic System/The Trait System Law, Function and the Forge.md",
+    "kind": "gloss",
+    "old_str": "raises Overchannel and Backlash risk continuously",
+    "new_str": "raises Overchannel (drawing more than the Crystal can carry) and Backlash (a working's force turning on its maker) risk continuously",
+    "why": "First use of Overchannel and Backlash.",
+    "src": "A"
+   },
+   {
+    "page": "The Magic System/The Trait System Law, Function and the Forge.md",
+    "kind": "gloss",
+    "old_str": "a practitioner whose stated Path and lived behaviour",
+    "new_str": "a practitioner whose stated Path (the route, body, spirit, bond or fate, their Crystal works through) and lived behaviour",
+    "why": "First use of Path.",
+    "src": "A"
+   },
+   {
+    "page": "The Magic System/The Trait System Law, Function and the Forge.md",
+    "kind": "gloss",
+    "old_str": "the bearer's Attunement quietly stops matching",
+    "new_str": "the bearer's Attunement (how the soul tunes itself to what it works) quietly stops matching",
+    "why": "First use of Attunement.",
+    "src": "A"
+   },
+   {
+    "page": "The Magic System/The Trait System Law, Function and the Forge.md",
+    "kind": "gloss",
+    "old_str": "unintended Domain formation",
+    "new_str": "unintended Domain (a region where the world runs on the bearer's terms) formation",
+    "why": "First use of Domain.",
+    "src": "A"
+   }
+  ]
+ },
+ {
+  "page": "The Magic System/The Practitioner's Field Manual — The Forge.md",
+  "notion_id": "3bc58200-eb22-81d7-89a2-e9d5fc5cb4f4",
+  "items": [
+   {
+    "page": "The Magic System/The Practitioner's Field Manual — The Forge.md",
+    "kind": "copy",
+    "old_str": "Kroathar is Binding.",
+    "new_str": "Krothar is Binding.",
+    "why": "Misspelling: every other wiki page spells him Krothar (Krothar Thunn-Gorr).",
+    "src": "A"
+   },
+   {
+    "page": "The Magic System/The Practitioner's Field Manual — The Forge.md",
+    "kind": "law",
+    "old_str": "***Load it before writing, never abandon it while writing, and put it on the page only through a mouth, an instrument, a document or a private count***",
+    "new_str": "***Load it before writing, never abandon it while writing, and put its numbers on the page only through a mouth, an instrument, a document or a private count; its names may stand in any sentence***",
+    "why": "R78-3: system terms are free in narration; only the figures stay in mouths, instruments and notes (R78-6).",
+    "src": "A"
+   },
+   {
+    "page": "The Magic System/The Practitioner's Field Manual — The Forge.md",
+    "kind": "gloss",
+    "old_str": "*Being a working register of the Eight Families, and the Forge",
+    "new_str": "*Being a working register of the Eight Families (the eight houses of magic, sorted by physics), and the Forge",
+    "why": "First use of Families.",
+    "src": "A"
+   },
+   {
+    "page": "The Magic System/The Practitioner's Field Manual — The Forge.md",
+    "kind": "gloss",
+    "old_str": "**Nothing in the Continuum became more complicated.**",
+    "new_str": "**Nothing in the Continuum (the lawful fabric of reality) became more complicated.**",
+    "why": "First use of Continuum.",
+    "src": "A"
+   },
+   {
+    "page": "The Magic System/The Practitioner's Field Manual — The Forge.md",
+    "kind": "gloss",
+    "old_str": "Level, Band, Stage, Grade, Tier of Standing, Aether Class, EU, η.",
+    "new_str": "Level, Band, Stage, Grade, Tier of Standing, Aether Class (how much power survives the trip out through the Shell), EU (Essence Units, the measure of a reserve), η (efficiency, the share of spent power that does its work).",
+    "why": "First use of Aether Class, EU, eta.",
+    "src": "A"
+   },
+   {
+    "page": "The Magic System/The Practitioner's Field Manual — The Forge.md",
+    "kind": "gloss",
+    "old_str": "a root phenomenon the Crystal has internalised over years",
+    "new_str": "a root phenomenon the Crystal (the Soul Crystal, the organ that works magic) has internalised over years",
+    "why": "First use of Crystal.",
+    "src": "A"
+   },
+   {
+    "page": "The Magic System/The Practitioner's Field Manual — The Forge.md",
+    "kind": "gloss",
+    "old_str": "Glyph pair, primary Wellspring, Family, Physics Domain.",
+    "new_str": "Glyph pair, primary Wellspring (the natural source of magic it draws on), Family, Physics Domain (the branch of real physics it obeys).",
+    "why": "First use of Wellspring and Physics Domain.",
+    "src": "A"
+   },
+   {
+    "page": "The Magic System/The Practitioner's Field Manual — The Forge.md",
+    "kind": "gloss",
+    "old_str": "**The same Essence, the same Wellspring,",
+    "new_str": "**The same Essence (the soul's own stuff of power), the same Wellspring,",
+    "why": "First use of Essence.",
+    "src": "A"
+   }
+  ]
+ },
+ {
+  "page": "The Magic System/The Color of Essence.md",
+  "notion_id": "3bc58200-eb22-81a8-a218-c66905c24259",
+  "items": [
+   {
+    "page": "The Magic System/The Color of Essence.md",
+    "kind": "law",
+    "old_str": "Thermal, not luminous",
+    "new_str": "Thermal first, then luminous: the harder they push, the brighter their own ember-orange burns on the skin",
+    "why": "R78-6: auras may glow, brighter as the practitioner pushes.",
+    "src": "A"
+   },
+   {
+    "page": "The Magic System/The Color of Essence.md",
+    "kind": "law",
+    "old_str": "Nothing visible. Weight, pressure, the reason dust is moving without wind. Describe what it is doing to other things, never what it looks like on its own",
+    "new_str": "Little visible but the iron-grey coat of their own aura, darker and heavier as they push. Weight, pressure, the reason dust is moving without wind. Describe what it is doing to other things first, and what it looks like on its own second",
+    "why": "R78-6: every practitioner's aura is visible in their own colour; R78-9 reinforcement shows as an aura coat.",
+    "src": "A"
+   },
+   {
+    "page": "The Magic System/The Color of Essence.md",
+    "kind": "gloss",
+    "old_str": "*On the question of whether Essence has color,",
+    "new_str": "*On the question of whether Essence (the soul's own stuff of power) has color,",
+    "why": "First body use of Essence (title and italic subtitle cannot carry a gloss cleanly).",
+    "src": "A"
+   },
+   {
+    "page": "The Magic System/The Color of Essence.md",
+    "kind": "gloss",
+    "old_str": "**The Family** of the practitioner's dominant Wellspring harmonisation assigns the **hue.** **The Temperance Stage** of the Soul Crystal assigns the **clarity.**",
+    "new_str": "**The Family** (one of eight houses of magic, sorted by physics) of the practitioner's dominant Wellspring (a natural source of magic carrying one physical law) harmonisation assigns the **hue.** **The Temperance Stage** (how far the soul has climbed) of the Soul Crystal (the organ in the soul that works magic) assigns the **clarity.**",
+    "why": "First body use of Family, Wellspring, Temperance Stage, Soul Crystal.",
+    "src": "A"
+   },
+   {
+    "page": "The Magic System/The Color of Essence.md",
+    "kind": "gloss",
+    "old_str": "*Others with sufficient Gnosis perceive it",
+    "new_str": "*Others with sufficient Gnosis (the stat of perception and understanding) perceive it",
+    "why": "First use of Gnosis.",
+    "src": "A"
+   },
+   {
+    "page": "The Magic System/The Color of Essence.md",
+    "kind": "gloss",
+    "old_str": "*Mancers describe reading Stage II",
+    "new_str": "*Mancers (practitioners who read and sense through magic) describe reading Stage II",
+    "why": "First use of Mancers.",
+    "src": "A"
+   },
+   {
+    "page": "The Magic System/The Color of Essence.md",
+    "kind": "gloss",
+    "old_str": "the Signature is readable at distance",
+    "new_str": "the Signature (the resonance pattern unique to one practitioner) is readable at distance",
+    "why": "First use of Signature.",
+    "src": "A"
+   },
+   {
+    "page": "The Magic System/The Color of Essence.md",
+    "kind": "gloss",
+    "old_str": "A Refraction Domain manifests as",
+    "new_str": "A Refraction Domain (a region where the world runs on the practitioner's terms) manifests as",
+    "why": "First use of Domain.",
+    "src": "A"
+   },
+   {
+    "page": "The Magic System/The Color of Essence.md",
+    "kind": "gloss",
+    "old_str": "Aetheric Residue now holds the hue",
+    "new_str": "Aetheric Residue (the trace a working leaves in the surrounding Aether) now holds the hue",
+    "why": "First use of Residue.",
+    "src": "A"
+   },
+   {
+    "page": "The Magic System/The Color of Essence.md",
+    "kind": "gloss",
+    "old_str": "**staining the Continuum the way dye stains cloth.**",
+    "new_str": "**staining the Continuum (the lawful fabric of reality) the way dye stains cloth.**",
+    "why": "First body use of Continuum.",
+    "src": "A"
+   },
+   {
+    "page": "The Magic System/The Color of Essence.md",
+    "kind": "gloss",
+    "old_str": "*Essence hue by Physics Domain.",
+    "new_str": "*Essence hue by Physics Domain (the branch of real physics a Family governs).",
+    "why": "First use of Physics Domain.",
+    "src": "A"
+   }
+  ]
+ },
+ {
+  "page": "The Magic System/Counterplay What Beats a Practitioner.md",
+  "notion_id": "3d558200-eb22-813a-9012-d11a05c73af6",
+  "items": [
+   {
+    "page": "The Magic System/Counterplay What Beats a Practitioner.md",
+    "kind": "law",
+    "old_str": "*The Crystal is inside a person and the person is ordinary.*",
+    "new_str": "*The Crystal is inside a person and the person is flesh: harder than common flesh, never proof. Taken asleep, drugged or by surprise, he keeps only the base his stats give the body and loses the coat of reinforcement he pushes over it, which is why ambush is the oldest answer on this list.*",
+    "why": "R78-9: passive stat base always in the body; active reinforcement lost when caught off guard, so ambush is a real tactic.",
+    "src": "A"
+   },
+   {
+    "page": "The Magic System/Counterplay What Beats a Practitioner.md",
+    "kind": "gloss",
+    "old_str": "**Cut the main.**",
+    "new_str": "**Cut the main** (a district's licensed supply of Aether).",
+    "why": "First use of the main.",
+    "src": "A"
+   },
+   {
+    "page": "The Magic System/Counterplay What Beats a Practitioner.md",
+    "kind": "gloss",
+    "old_str": "**Choose the ground by Family.**",
+    "new_str": "**Choose the ground by Family** (the eight houses of magic, sorted by physics).",
+    "why": "First use of Family.",
+    "src": "A"
+   },
+   {
+    "page": "The Magic System/Counterplay What Beats a Practitioner.md",
+    "kind": "gloss",
+    "old_str": "ground two Domains are arguing over",
+    "new_str": "ground two Domains (regions where the world runs on one practitioner's terms) are arguing over",
+    "why": "First use of Domain.",
+    "src": "A"
+   },
+   {
+    "page": "The Magic System/Counterplay What Beats a Practitioner.md",
+    "kind": "gloss",
+    "old_str": "Flood the area with Essence faster than it disperses and everyone present takes Fracture risk",
+    "new_str": "Flood the area with Essence (the stuff of a soul's power) faster than it disperses and everyone present takes Fracture (damage to the Soul Crystal itself) risk",
+    "why": "First use of Essence and Fracture.",
+    "src": "A"
+   },
+   {
+    "page": "The Magic System/Counterplay What Beats a Practitioner.md",
+    "kind": "gloss",
+    "old_str": "ten thousand EU in each cubic metre, or a hundred AU/s through each square metre",
+    "new_str": "ten thousand EU (Essence Units) in each cubic metre, or a hundred AU/s (Aether Units per second, a rate of output) through each square metre",
+    "why": "First use of EU and AU/s.",
+    "src": "A"
+   },
+   {
+    "page": "The Magic System/Counterplay What Beats a Practitioner.md",
+    "kind": "gloss",
+    "old_str": "Inside a Wellspring Core the strongest Domain",
+    "new_str": "Inside a Wellspring Core (the site where a Wellspring rises and its law runs strongest) the strongest Domain",
+    "why": "First use of Wellspring Core.",
+    "src": "A"
+   },
+   {
+    "page": "The Magic System/Counterplay What Beats a Practitioner.md",
+    "kind": "gloss",
+    "old_str": "Below Refraction a working requires an external anchor",
+    "new_str": "Below Refraction (Stage VII) a working requires an external anchor",
+    "why": "First use of Refraction.",
+    "src": "A"
+   },
+   {
+    "page": "The Magic System/Counterplay What Beats a Practitioner.md",
+    "kind": "gloss",
+    "old_str": "rather than the reason the Codex gives",
+    "new_str": "rather than the reason the Codex (the Accord's master register of laws) gives",
+    "why": "First use of Codex.",
+    "src": "A"
+   },
+   {
+    "page": "The Magic System/Counterplay What Beats a Practitioner.md",
+    "kind": "gloss",
+    "old_str": "A C-Grade practitioner can react to gunfire",
+    "new_str": "A C-Grade (a middling rank on the E to EX scale of raw strength) practitioner can react to gunfire",
+    "why": "First use of Grade.",
+    "src": "A"
+   },
+   {
+    "page": "The Magic System/Counterplay What Beats a Practitioner.md",
+    "kind": "gloss",
+    "old_str": "Corporis is a body and a body has reach.",
+    "new_str": "Corporis (magic worked through the fighter's own body) is a body and a body has reach.",
+    "why": "First use of Corporis.",
+    "src": "A"
+   },
+   {
+    "page": "The Magic System/Counterplay What Beats a Practitioner.md",
+    "kind": "gloss",
+    "old_str": "its rated Flux Density rather than his reserve",
+    "new_str": "its rated Flux Density (how densely Essence packs into the Crystal) rather than his reserve",
+    "why": "First use of Flux Density.",
+    "src": "A"
+   },
+   {
+    "page": "The Magic System/Counterplay What Beats a Practitioner.md",
+    "kind": "gloss",
+    "old_str": "**Every thaumaturge has a pattern**",
+    "new_str": "**Every thaumaturge** (a practitioner whose Crystal acts before conscious thought) **has a pattern**",
+    "why": "First use of thaumaturge.",
+    "src": "A"
+   },
+   {
+    "page": "The Magic System/Counterplay What Beats a Practitioner.md",
+    "kind": "gloss",
+    "old_str": "**Make him hold Pressure in.**",
+    "new_str": "**Make him hold Pressure** (the felt weight of his power on everyone near him) **in.**",
+    "why": "First use of Pressure.",
+    "src": "A"
+   },
+   {
+    "page": "The Magic System/Counterplay What Beats a Practitioner.md",
+    "kind": "gloss",
+    "old_str": "A vow kept buys Coherence with conduct. **A vow broken is a Shear Break**,",
+    "new_str": "A vow kept buys Coherence (the match between a practitioner's stated law and his conduct) with conduct. **A vow broken is a Shear Break** (a Trait turning on the bearer who denied it),",
+    "why": "First use of Coherence and Shear Break.",
+    "src": "A"
+   },
+   {
+    "page": "The Magic System/Counterplay What Beats a Practitioner.md",
+    "kind": "gloss",
+    "old_str": "Sub-Stat architecture",
+    "new_str": "Sub-Stat (the finer stats beneath each main stat) architecture",
+    "why": "First use of Sub-Stat.",
+    "src": "A"
+   }
+  ]
+ },
+ {
+  "page": "The Magic System/The Four Paths Routing, Recognition and the Gate.md",
+  "notion_id": "3d558200-eb22-812a-92c0-f639ef17493b",
+  "items": [
+   {
+    "page": "The Magic System/The Four Paths Routing, Recognition and the Gate.md",
+    "kind": "law",
+    "old_str": "The names belong in a mouth, an instrument, a document or a private count. **The effects belong in the prose, always, as behaviour and physics**, and a scene that has to say which Path somebody is has not shown it.",
+    "new_str": "The names may stand anywhere, in a mouth, an instrument, a document or the plain telling. **The effects come first, always, as behaviour and physics**, and a telling that can only say which Path somebody is has not shown it.",
+    "why": "R78-3: system terms are free in narration.",
+    "src": "A"
+   },
+   {
+    "page": "The Magic System/The Four Paths Routing, Recognition and the Gate.md",
+    "kind": "gloss",
+    "old_str": "said back to them by their own Crystal,",
+    "new_str": "said back to them by their own Crystal (the Soul Crystal, the organ that works magic),",
+    "why": "First use of Crystal.",
+    "src": "A"
+   },
+   {
+    "page": "The Magic System/The Four Paths Routing, Recognition and the Gate.md",
+    "kind": "gloss",
+    "old_str": "Body Path routes through the Physical Plane first",
+    "new_str": "Body Path routes through the Physical Plane (the material world, one of the three planes a soul spans) first",
+    "why": "First use of Physical Plane.",
+    "src": "A"
+   },
+   {
+    "page": "The Magic System/The Four Paths Routing, Recognition and the Gate.md",
+    "kind": "gloss",
+    "old_str": "Two practitioners with identical Wellsprings,",
+    "new_str": "Two practitioners with identical Wellsprings (the natural sources of magic each has tuned to),",
+    "why": "First use of Wellspring.",
+    "src": "A"
+   },
+   {
+    "page": "The Magic System/The Four Paths Routing, Recognition and the Gate.md",
+    "kind": "gloss",
+    "old_str": "which plane's logic their Essence passed through",
+    "new_str": "which plane's logic their Essence (the soul's own stuff of power) passed through",
+    "why": "First use of Essence.",
+    "src": "A"
+   },
+   {
+    "page": "The Magic System/The Four Paths Routing, Recognition and the Gate.md",
+    "kind": "gloss",
+    "old_str": "for three full Bands has genuine",
+    "new_str": "for three full Bands (blocks of a hundred Levels) has genuine",
+    "why": "First use of Band.",
+    "src": "A"
+   },
+   {
+    "page": "The Magic System/The Four Paths Routing, Recognition and the Gate.md",
+    "kind": "gloss",
+    "old_str": "will find Spirit-aligned Sub-Stats quietly resisting advancement beyond C-Grade",
+    "new_str": "will find Spirit-aligned Sub-Stats (the finer stats beneath each main stat) quietly resisting advancement beyond C-Grade (a middling rank on the E to EX scale)",
+    "why": "First use of Sub-Stat and Grade.",
+    "src": "A"
+   },
+   {
+    "page": "The Magic System/The Four Paths Routing, Recognition and the Gate.md",
+    "kind": "gloss",
+    "old_str": "**The trade is Range and Aura Pressure**",
+    "new_str": "**The trade is Range and Aura Pressure** (the felt weight of a practitioner's power on those near)",
+    "why": "First use of Aura Pressure.",
+    "src": "A"
+   },
+   {
+    "page": "The Magic System/The Four Paths Routing, Recognition and the Gate.md",
+    "kind": "gloss",
+    "old_str": "the interaction between force and Domain authority",
+    "new_str": "the interaction between force and Domain (a region where the world runs on the practitioner's terms) authority",
+    "why": "First use of Domain.",
+    "src": "A"
+   },
+   {
+    "page": "The Magic System/The Four Paths Routing, Recognition and the Gate.md",
+    "kind": "gloss",
+    "old_str": "a Temperance Stage by which commitment",
+    "new_str": "a Temperance Stage (a rung of the soul's sixteen-Stage climb) by which commitment",
+    "why": "First use of Temperance Stage.",
+    "src": "A"
+   },
+   {
+    "page": "The Magic System/The Four Paths Routing, Recognition and the Gate.md",
+    "kind": "gloss",
+    "old_str": "hardens into a statement the Continuum accepts as reliable.**",
+    "new_str": "hardens into a statement the Continuum (the lawful fabric of reality) accepts as reliable.**",
+    "why": "First use of Continuum.",
+    "src": "A"
+   },
+   {
+    "page": "The Magic System/The Four Paths Routing, Recognition and the Gate.md",
+    "kind": "gloss",
+    "old_str": "it is why thaumaturgic architecture is narrow and deep",
+    "new_str": "it is why thaumaturgic (acting by instinct, before conscious thought) architecture is narrow and deep",
+    "why": "First use of thaumaturgic.",
+    "src": "A"
+   },
+   {
+    "page": "The Magic System/The Four Paths Routing, Recognition and the Gate.md",
+    "kind": "gloss",
+    "old_str": "A Class Ø soul has Traits, refines by the Weathering, and hardens",
+    "new_str": "A Class Ø (never-woken) soul has Traits, refines by the Weathering (the slow hardening hard living gives a soul, without magic), and hardens",
+    "why": "First use of Class Ø and the Weathering.",
+    "src": "A"
+   },
+   {
+    "page": "The Magic System/The Four Paths Routing, Recognition and the Gate.md",
+    "kind": "gloss",
+    "old_str": "The Derivation Index, the coil, the Refinement Spectrum",
+    "new_str": "The Derivation Index, the coil (the assay instrument that reads a Crystal), the Refinement Spectrum",
+    "why": "First use of the coil.",
+    "src": "A"
+   }
+  ]
+ },
+ {
+  "page": "The Magic System/The Gate Who May Learn Magic.md",
+  "notion_id": "3e758200-eb22-81e2-9338-de9a77b31053",
+  "items": [
+   {
+    "page": "The Magic System/The Gate Who May Learn Magic.md",
+    "kind": "law",
+    "old_str": "The academy ranks run Scholar, Licentiate, Master, Doctor and Chair, and **the Licentiate is the qualification that matters**",
+    "new_str": "The academy ranks run Scholar, Licentiate, Master, Doctor and Chair on the diploma, while on the training floor the older ladder of outer disciple, inner disciple and elder holds, settled by ranking contests, and **the Licentiate is the qualification that matters**",
+    "why": "R78-7: schools and academies run on xianxia ranks (outer and inner disciples, elders, ranking contests) inside WOTR's institutions.",
+    "src": "A"
+   },
+   {
+    "page": "The Magic System/The Gate Who May Learn Magic.md",
+    "kind": "gloss",
+    "old_str": "doing nothing a coil can read",
+    "new_str": "doing nothing a coil (the assay instrument that reads a Crystal) can read",
+    "why": "First use of the coil.",
+    "src": "A"
+   },
+   {
+    "page": "The Magic System/The Gate Who May Learn Magic.md",
+    "kind": "gloss",
+    "old_str": "refines by the Weathering and hardens",
+    "new_str": "refines by the Weathering (the slow hardening hard living gives a soul, without magic) and hardens",
+    "why": "First use of the Weathering.",
+    "src": "A"
+   },
+   {
+    "page": "The Magic System/The Gate Who May Learn Magic.md",
+    "kind": "gloss",
+    "old_str": "A child raised on a bad main in a crowded quarter",
+    "new_str": "A child raised on a bad main (a district's licensed supply of Aether) in a crowded quarter",
+    "why": "First use of the main.",
+    "src": "A"
+   },
+   {
+    "page": "The Magic System/The Gate Who May Learn Magic.md",
+    "kind": "gloss",
+    "old_str": "a child with a strong Inherited mark",
+    "new_str": "a child with a strong Inherited mark (a bodily sign of a Trait carried in the blood)",
+    "why": "First use of Inherited mark.",
+    "src": "A"
+   },
+   {
+    "page": "The Magic System/The Gate Who May Learn Magic.md",
+    "kind": "gloss",
+    "old_str": "The Path gates on a Sub-Stat decide",
+    "new_str": "The Path (the route a Crystal habitually works through) gates on a Sub-Stat (one of the finer stats) decide",
+    "why": "First use of Path and Sub-Stat.",
+    "src": "A"
+   },
+   {
+    "page": "The Magic System/The Gate Who May Learn Magic.md",
+    "kind": "gloss",
+    "old_str": "controls theurgic training",
+    "new_str": "controls theurgic (method-and-procedure, as against instinctive) training",
+    "why": "First use of theurgic.",
+    "src": "A"
+   },
+   {
+    "page": "The Magic System/The Gate Who May Learn Magic.md",
+    "kind": "gloss",
+    "old_str": "disclosure of every new harmonisation",
+    "new_str": "disclosure of every new harmonisation (a soul's tuning to a Wellspring)",
+    "why": "First use of harmonisation.",
+    "src": "A"
+   },
+   {
+    "page": "The Magic System/The Gate Who May Learn Magic.md",
+    "kind": "gloss",
+    "old_str": "for anyone sworn to the Codex",
+    "new_str": "for anyone sworn to the Codex (the Accord's master register of laws)",
+    "why": "First use of Codex.",
+    "src": "A"
+   },
+   {
+    "page": "The Magic System/The Gate Who May Learn Magic.md",
+    "kind": "gloss",
+    "old_str": "A thaumaturge who finds a native axis alone",
+    "new_str": "A thaumaturge (a practitioner whose Crystal acts before conscious thought) who finds a native axis alone",
+    "why": "First use of thaumaturge.",
+    "src": "A"
+   }
+  ]
+ },
+ {
+  "page": "The Magic System/Tier Grade, Bands & the Aether Shell.md",
+  "notion_id": "3b158200-eb22-8185-abf4-c695877be12b",
+  "items": [
+   {
+    "page": "The Magic System/Tier Grade, Bands & the Aether Shell.md",
+    "kind": "copy",
+    "old_str": "**Band V** are cosmological presences.",
+    "new_str": "**Band V** practitioners are cosmological presences.",
+    "why": "subject-verb break: a Band is not plural presences",
+    "src": "B"
+   },
+   {
+    "page": "The Magic System/Tier Grade, Bands & the Aether Shell.md",
+    "kind": "copy",
+    "old_str": "No source figure exists. The lettered scale had no rung here. Flagged as an open gap rather than filled with an invented number.",
+    "new_str": "No figure has been measured. The lettered scale has no rung here, and the Archives leave the gap open rather than fill it with a guess.",
+    "why": "editorial note left in an in-world table cell",
+    "src": "B"
+   },
+   {
+    "page": "The Magic System/Tier Grade, Bands & the Aether Shell.md",
+    "kind": "gloss",
+    "old_str": "counts how many times a Crystal has densified",
+    "new_str": "counts how many times a Crystal (the soul's organ that stores Essence and channels it outward) has densified",
+    "why": "first use of Crystal unexplained",
+    "src": "B"
+   },
+   {
+    "page": "The Magic System/Tier Grade, Bands & the Aether Shell.md",
+    "kind": "gloss",
+    "old_str": "magnitude survives the trip out through the Shell",
+    "new_str": "magnitude survives the trip out through the Shell (the Crystal's outer layer, which turns inner power into outward force)",
+    "why": "first use of Shell unexplained",
+    "src": "B"
+   },
+   {
+    "page": "The Magic System/Tier Grade, Bands & the Aether Shell.md",
+    "kind": "gloss",
+    "old_str": "for every practitioner below Stage XV",
+    "new_str": "for every practitioner below Stage (one of the sixteen rungs of a soul's refinement) XV",
+    "why": "first use of Stage unexplained",
+    "src": "B"
+   },
+   {
+    "page": "The Magic System/Tier Grade, Bands & the Aether Shell.md",
+    "kind": "gloss",
+    "old_str": "They begin the Apotheosis approach, a qualitative event",
+    "new_str": "They begin the Apotheosis approach (the slow crossing from practitioner into living law), a qualitative event",
+    "why": "first use of Apotheosis unexplained",
+    "src": "B"
+   },
+   {
+    "page": "The Magic System/Tier Grade, Bands & the Aether Shell.md",
+    "kind": "gloss",
+    "old_str": "**Paragons exceed Level 500.**",
+    "new_str": "**Paragons (the highest standing, Stages XV and XVI) exceed Level 500.**",
+    "why": "first use of Paragons unexplained",
+    "src": "B"
+   },
+   {
+    "page": "The Magic System/Tier Grade, Bands & the Aether Shell.md",
+    "kind": "gloss",
+    "old_str": "without first passing the Temperance Threshold that cluster demands",
+    "new_str": "without first passing the Temperance Threshold (the crisis that refines a soul up to its next Stage) that cluster demands",
+    "why": "first use of Temperance Threshold unexplained",
+    "src": "B"
+   },
+   {
+    "page": "The Magic System/Tier Grade, Bands & the Aether Shell.md",
+    "kind": "gloss",
+    "old_str": "and Stage by Catalyst, and the two",
+    "new_str": "and Stage by Catalyst (an event hard enough to force the next Stage), and the two",
+    "why": "first use of Catalyst unexplained",
+    "src": "B"
+   },
+   {
+    "page": "The Magic System/Tier Grade, Bands & the Aether Shell.md",
+    "kind": "gloss",
+    "old_str": "irrelevant to Archons.",
+    "new_str": "irrelevant to Archons (the fourteen great powers that embody cosmic law).",
+    "why": "first use of Archons unexplained",
+    "src": "B"
+   },
+   {
+    "page": "The Magic System/Tier Grade, Bands & the Aether Shell.md",
+    "kind": "gloss",
+    "old_str": "Techniques cohere. A Domain seed becomes possible.",
+    "new_str": "Techniques cohere. A Domain seed (the first spark of a space where one's own law outranks physics) becomes possible.",
+    "why": "first use of Domain seed unexplained",
+    "src": "B"
+   },
+   {
+    "page": "The Magic System/Tier Grade, Bands & the Aether Shell.md",
+    "kind": "gloss",
+    "old_str": "against the laws of the Continuum itself.",
+    "new_str": "against the laws of the Continuum (the whole lawful order of reality) itself.",
+    "why": "first use of Continuum unexplained",
+    "src": "B"
+   },
+   {
+    "page": "The Magic System/Tier Grade, Bands & the Aether Shell.md",
+    "kind": "gloss",
+    "old_str": "**The table measures a Sub-Stat.**",
+    "new_str": "**The table measures a Sub-Stat (one of eight finer measures inside each main stat).**",
+    "why": "first use of Sub-Stat unexplained",
+    "src": "B"
+   },
+   {
+    "page": "The Magic System/Tier Grade, Bands & the Aether Shell.md",
+    "kind": "gloss",
+    "old_str": "The Temperance ceiling and the Path gates both bind",
+    "new_str": "The Temperance ceiling and the Path gates (limits set by the Plane a soul's growth leans toward) both bind",
+    "why": "first use of Path gates unexplained",
+    "src": "B"
+   },
+   {
+    "page": "The Magic System/Tier Grade, Bands & the Aether Shell.md",
+    "kind": "gloss",
+    "old_str": "Eight Ardency Sub-Stats totalling 2,400",
+    "new_str": "Eight Ardency (the stat for how hard a soul's Essence hits) Sub-Stats totalling 2,400",
+    "why": "first use of Ardency unexplained",
+    "src": "B"
+   },
+   {
+    "page": "The Magic System/Tier Grade, Bands & the Aether Shell.md",
+    "kind": "gloss",
+    "old_str": "technique architecture, Wellspring affinity, and Path bonuses",
+    "new_str": "technique architecture, Wellspring (a standing current of natural law in the Aether) affinity, and Path bonuses",
+    "why": "first use of Wellspring unexplained",
+    "src": "B"
+   },
+   {
+    "page": "The Magic System/Tier Grade, Bands & the Aether Shell.md",
+    "kind": "gloss",
+    "old_str": "still learning the shape of Essence.",
+    "new_str": "still learning the shape of Essence (a soul's own share of Aether, drawn in and made personal).",
+    "why": "first use of Essence unexplained",
+    "src": "B"
+   },
+   {
+    "page": "The Magic System/Tier Grade, Bands & the Aether Shell.md",
+    "kind": "gloss",
+    "old_str": "a reserve is EU.",
+    "new_str": "a reserve is EU (Essence Units, a soul's stored power).",
+    "why": "first use of EU unexplained",
+    "src": "B"
+   },
+   {
+    "page": "The Magic System/Tier Grade, Bands & the Aether Shell.md",
+    "kind": "gloss",
+    "old_str": "the refinement of the Essence Core on the Soul Plane",
+    "new_str": "the refinement of the Essence Core (the Crystal's inner layer, holding identity, memory and Traits) on the Soul Plane",
+    "why": "first use of Essence Core unexplained",
+    "src": "B"
+   },
+   {
+    "page": "The Magic System/Tier Grade, Bands & the Aether Shell.md",
+    "kind": "gloss",
+    "old_str": "Gnosis Fluency · Ardency (Compression, Density)",
+    "new_str": "Gnosis (the stat of perception and understanding) Fluency · Ardency (Compression, Density)",
+    "why": "first use of Gnosis unexplained",
+    "src": "B"
+   },
+   {
+    "page": "The Magic System/Tier Grade, Bands & the Aether Shell.md",
+    "kind": "gloss",
+    "old_str": "the coil reads no Class.",
+    "new_str": "the coil (the assay instrument a practitioner stands inside) reads no Class.",
+    "why": "first use of coil unexplained",
+    "src": "B"
+   },
+   {
+    "page": "The Magic System/Tier Grade, Bands & the Aether Shell.md",
+    "kind": "gloss",
+    "old_str": "when their lattice is simply learning to speak",
+    "new_str": "when their lattice (the Crystal's inner structure) is simply learning to speak",
+    "why": "first use of lattice unexplained",
+    "src": "B"
+   },
+   {
+    "page": "The Magic System/Tier Grade, Bands & the Aether Shell.md",
+    "kind": "gloss",
+    "old_str": "refines by the Weathering rather than by Temperance, and is missing",
+    "new_str": "refines by the Weathering (slow hardening along the way a soul is used) rather than by Temperance, and is missing",
+    "why": "first use of Weathering unexplained",
+    "src": "B"
+   },
+   {
+    "page": "The Magic System/Tier Grade, Bands & the Aether Shell.md",
+    "kind": "gloss",
+    "old_str": "**Traits are unaffected by any of this.**",
+    "new_str": "**Traits (standing laws a soul carries, formed by what it survived) are unaffected by any of this.**",
+    "why": "first use of Traits unexplained",
+    "src": "B"
+   },
+   {
+    "page": "The Magic System/Tier Grade, Bands & the Aether Shell.md",
+    "kind": "gloss",
+    "old_str": "Dual-casting, Synergia, and complex techniques",
+    "new_str": "Dual-casting, Synergia (several practitioners working as one), and complex techniques",
+    "why": "first use of Synergia unexplained",
+    "src": "B"
+   },
+   {
+    "page": "The Magic System/Tier Grade, Bands & the Aether Shell.md",
+    "kind": "gloss",
+    "old_str": "They can stabilize Realmgates, hold Domains",
+    "new_str": "They can stabilize Realmgates (standing doorways between Realms), hold Domains",
+    "why": "first use of Realmgates unexplained",
+    "src": "B"
+   },
+   {
+    "page": "The Magic System/Tier Grade, Bands & the Aether Shell.md",
+    "kind": "gloss",
+    "old_str": "speak Parun motifs into matter",
+    "new_str": "speak Parun (the root script of law that reality reads) motifs into matter",
+    "why": "first use of Parun unexplained",
+    "src": "B"
+   },
+   {
+    "page": "The Magic System/Tier Grade, Bands & the Aether Shell.md",
+    "kind": "gloss",
+    "old_str": "Mechanica and ritual that widen conductivity",
+    "new_str": "Mechanica (forbidden working that takes power without lawful consent) and ritual that widen conductivity",
+    "why": "first use of Mechanica unexplained",
+    "src": "B"
+   },
+   {
+    "page": "The Magic System/Tier Grade, Bands & the Aether Shell.md",
+    "kind": "gloss",
+    "old_str": "The Attraction Layer gains territorial durability.",
+    "new_str": "The Attraction Layer (the Crystal's layer that holds bonds, vows and Domains) gains territorial durability.",
+    "why": "first use of Attraction Layer unexplained",
+    "src": "B"
+   },
+   {
+    "page": "The Magic System/Tier Grade, Bands & the Aether Shell.md",
+    "kind": "gloss",
+    "old_str": "claims territory on the Plane of Fate and that claim",
+    "new_str": "claims territory on the Plane of Fate (the plane that records bonds, oaths and consequence) and that claim",
+    "why": "first use of Plane of Fate unexplained",
+    "src": "B"
+   },
+   {
+    "page": "The Magic System/Tier Grade, Bands & the Aether Shell.md",
+    "kind": "gloss",
+    "old_str": "Dominion Sub-Stat development",
+    "new_str": "Dominion (the stat of presence and authority over space) Sub-Stat development",
+    "why": "first use of Dominion unexplained",
+    "src": "B"
+   }
+  ]
+ },
+ {
+  "page": "The Magic System/The Eight Families & the Sixty Wellsprings.md",
+  "notion_id": "3b158200-eb22-814d-9056-edb0fc9827f2",
+  "items": [
+   {
+    "page": "The Magic System/The Eight Families & the Sixty Wellsprings.md",
+    "kind": "copy",
+    "old_str": "> What it leaves behind is a **Trait**, formed by Wellspring Convergence, in a body that will never be screened and a life that has no framework for it. Every quarter has villages downwind of a concentration where one family has been strange for six generations, and the strangeness is lawful, inheritable, and entirely undocumented.\n>\n> What it leaves behind is a **Trait**, formed by Wellspring Convergence, in a body that will never be screened and a life that has no framework for it. Every quarter has villages downwind of a concentration where one family has been strange for six generations, and the strangeness is lawful, inheritable, and entirely undocumented.",
+    "new_str": "> What it leaves behind is a **Trait**, formed by Wellspring Convergence, in a body that will never be screened and a life that has no framework for it. Every quarter has villages downwind of a concentration where one family has been strange for six generations, and the strangeness is lawful, inheritable, and entirely undocumented.",
+    "why": "paragraph duplicated verbatim (spans lines: the only exact form of the duplicate)",
+    "src": "B"
+   },
+   {
+    "page": "The Magic System/The Eight Families & the Sixty Wellsprings.md",
+    "kind": "copy",
+    "old_str": "Most concentrations on the New World's arc found during the Voyager Era",
+    "new_str": "Most concentrations on the New World's arc were found during the Voyager Era",
+    "why": "missing verb",
+    "src": "B"
+   },
+   {
+    "page": "The Magic System/The Eight Families & the Sixty Wellsprings.md",
+    "kind": "gloss",
+    "old_str": "mechanically, the Continuum's assessment of what a soul is made of",
+    "new_str": "mechanically, the assessment the Continuum (the whole lawful order of reality) makes of what a soul is made of",
+    "why": "first use of Continuum unexplained",
+    "src": "B"
+   },
+   {
+    "page": "The Magic System/The Eight Families & the Sixty Wellsprings.md",
+    "kind": "gloss",
+    "old_str": "The Measurewrights have simply written the law down.",
+    "new_str": "The Measurewrights (the guild's certified assessors of practitioners and workings) have simply written the law down.",
+    "why": "first use of Measurewrights unexplained",
+    "src": "B"
+   },
+   {
+    "page": "The Magic System/The Eight Families & the Sixty Wellsprings.md",
+    "kind": "gloss",
+    "old_str": "The Aether Shell adopts the current's",
+    "new_str": "The Aether Shell (the Crystal's outer layer, which turns inner power into outward force) adopts the current's",
+    "why": "first use of Aether Shell unexplained",
+    "src": "B"
+   },
+   {
+    "page": "The Magic System/The Eight Families & the Sixty Wellsprings.md",
+    "kind": "gloss",
+    "old_str": "so that Essence passing outward through the Shell",
+    "new_str": "so that Essence (a soul's own share of Aether) passing outward through the Shell",
+    "why": "first use of Essence unexplained",
+    "src": "B"
+   },
+   {
+    "page": "The Magic System/The Eight Families & the Sixty Wellsprings.md",
+    "kind": "gloss",
+    "old_str": "it degrades if Capacity is exceeded",
+    "new_str": "it degrades if Capacity (the limit on how many currents a soul can hold at once) is exceeded",
+    "why": "first use of Capacity unexplained",
+    "src": "B"
+   },
+   {
+    "page": "The Magic System/The Eight Families & the Sixty Wellsprings.md",
+    "kind": "gloss",
+    "old_str": "held in the Essence Core, and it writes",
+    "new_str": "held in the Essence Core (the Crystal's inner layer, holding identity, memory and Traits), and it writes",
+    "why": "first use of Essence Core unexplained",
+    "src": "B"
+   },
+   {
+    "page": "The Magic System/The Eight Families & the Sixty Wellsprings.md",
+    "kind": "gloss",
+    "old_str": "a Class Ø soul's Shell is sealed",
+    "new_str": "a Class Ø (never-woken) soul's Shell is sealed",
+    "why": "first use of Class Ø unexplained",
+    "src": "B"
+   },
+   {
+    "page": "The Magic System/The Eight Families & the Sixty Wellsprings.md",
+    "kind": "gloss",
+    "old_str": "at the Plane of Fate level.**",
+    "new_str": "at the Plane of Fate (the deepest plane, where bonds and consequence are recorded) level.**",
+    "why": "first use of Plane of Fate unexplained",
+    "src": "B"
+   },
+   {
+    "page": "The Magic System/The Eight Families & the Sixty Wellsprings.md",
+    "kind": "gloss",
+    "old_str": "whose Attraction Layer will not accept",
+    "new_str": "whose Attraction Layer (the layer that holds bonds and claims) will not accept",
+    "why": "first use of Attraction Layer unexplained",
+    "src": "B"
+   },
+   {
+    "page": "The Magic System/The Eight Families & the Sixty Wellsprings.md",
+    "kind": "gloss",
+    "old_str": "Exposed to sustained Mechanica extraction.",
+    "new_str": "Exposed to sustained Mechanica (forbidden working that takes power without lawful consent) extraction.",
+    "why": "first use of Mechanica unexplained",
+    "src": "B"
+   },
+   {
+    "page": "The Magic System/The Eight Families & the Sixty Wellsprings.md",
+    "kind": "gloss",
+    "old_str": "The Sub-Stat modification, unchanged",
+    "new_str": "The Sub-Stat (one of eight finer measures inside each main stat) modification, unchanged",
+    "why": "first use of Sub-Stat unexplained",
+    "src": "B"
+   },
+   {
+    "page": "The Magic System/The Eight Families & the Sixty Wellsprings.md",
+    "kind": "gloss",
+    "old_str": "**In a Silence the figure is zero.**",
+    "new_str": "**In a Silence (ground where no lawful working can be authorised) the figure is zero.**",
+    "why": "first use of Silence unexplained",
+    "src": "B"
+   },
+   {
+    "page": "The Magic System/The Eight Families & the Sixty Wellsprings.md",
+    "kind": "gloss",
+    "old_str": "The supply rate in AU/s per cubic metre",
+    "new_str": "The supply rate in AU/s (Aether Units per second, a rate of output) per cubic metre",
+    "why": "first use of AU/s unexplained",
+    "src": "B"
+   },
+   {
+    "page": "The Magic System/The Eight Families & the Sixty Wellsprings.md",
+    "kind": "gloss",
+    "old_str": "Veil-thin zones, established Realmgates, surveyed ground",
+    "new_str": "Veil-thin zones, established Realmgates (standing doorways between Realms), surveyed ground",
+    "why": "first use of Realmgates unexplained",
+    "src": "B"
+   },
+   {
+    "page": "The Magic System/The Eight Families & the Sixty Wellsprings.md",
+    "kind": "gloss",
+    "old_str": "Warp scarring, contested Domains, unmapped terrain",
+    "new_str": "Warp scarring, contested Domains (spaces where one practitioner's law outranks local physics), unmapped terrain",
+    "why": "first use of Domains unexplained",
+    "src": "B"
+   },
+   {
+    "page": "The Magic System/The Eight Families & the Sixty Wellsprings.md",
+    "kind": "gloss",
+    "old_str": "It is a modifier on η.**",
+    "new_str": "It is a modifier on η (efficiency: the share of spent power that arrives as effect).**",
+    "why": "first use of η unexplained",
+    "src": "B"
+   }
+  ]
+ },
+ {
+  "page": "The Magic System/The Derivation of Practice — Thaumaturgic and Theurgic.md",
+  "notion_id": "3bc58200-eb22-8164-8024-c6956893b205",
+  "items": [
+   {
+    "page": "The Magic System/The Derivation of Practice — Thaumaturgic and Theurgic.md",
+    "kind": "copy",
+    "old_str": "Efficiency (η) measures efficiency.",
+    "new_str": "Efficiency (η) measures how much of each expenditure arrives as effect.",
+    "why": "tautology: the sentence defines efficiency as efficiency",
+    "src": "B"
+   },
+   {
+    "page": "The Magic System/The Derivation of Practice — Thaumaturgic and Theurgic.md",
+    "kind": "copy",
+    "old_str": "reaches wet soil* **— or** crisis-forging**, phase-lock under extreme stress as a survival response. *Not chosen.** Imposed by circumstance.",
+    "new_str": "reaches wet soil*, **or crisis-forging**, phase-lock under extreme stress as a survival response. *Not chosen.* Imposed by circumstance.",
+    "why": "broken bold/italic markers scramble the sentence",
+    "src": "B"
+   },
+   {
+    "page": "The Magic System/The Derivation of Practice — Thaumaturgic and Theurgic.md",
+    "kind": "copy",
+    "old_str": "> The Bureau's stated tolerance for unmodelled variables is low and declining. **Its actual exposure is the population of the four quarters.**\n>\n> A Class Ø soul carries its laws in ordinary material and refines by the Weathering rather than by Temperance, and the Weathering is single-axis by definition: it hardens a man further along the direction he was already being used. **Grain is a resonance tunnel with no woken Crystal behind it.** Tested on the standard battery, a weathered fisherman off forty years of cold water would return an Index near zero and a peak on his native axis that would embarrass a credentialed Magister.\n>\n> *Nobody will ever test him. The battery is administered to registrants, registration follows screening, and screening looks for a Crystal that has already stirred.* **Every screening season produces false negatives at a rate the Bureau has never estimated because it has no instrument that would notice.**\n>\n> The Bureau's stated tolerance for unmodelled variables is low and declining. **Its actual exposure is the population of the four quarters.**",
+    "new_str": "> The Bureau's stated tolerance for unmodelled variables is low and declining. **Its actual exposure is the population of the four quarters.**",
+    "why": "three paragraphs duplicated verbatim (spans lines: the only exact form of the duplicate)",
+    "src": "B"
+   },
+   {
+    "page": "The Magic System/The Derivation of Practice — Thaumaturgic and Theurgic.md",
+    "kind": "law",
+    "old_str": "*It funds the academies, approves the curricula, and controls the chokepoints through which theurgic knowledge passes.*",
+    "new_str": "*It funds the academies, approves the curricula, and controls the chokepoints through which credentialed theurgic knowledge passes. Every school and sect still teaches its own basics and guards its own forms, and the Guild sees only what they choose to file.*",
+    "why": "R78-9: basics taught by each school, methods guarded secrets; the Guild does not own all training",
+    "src": "B"
+   },
+   {
+    "page": "The Magic System/The Derivation of Practice — Thaumaturgic and Theurgic.md",
+    "kind": "gloss",
+    "old_str": "*Guild of Measurewrights, under the Hexagonal Oath",
+    "new_str": "*Guild of Measurewrights (certified assessors of practitioners and workings), under the Hexagonal Oath",
+    "why": "first use of Guild of Measurewrights unexplained",
+    "src": "B"
+   },
+   {
+    "page": "The Magic System/The Derivation of Practice — Thaumaturgic and Theurgic.md",
+    "kind": "gloss",
+    "old_str": "harmonisations guided by instructors",
+    "new_str": "harmonisations (tunings of the soul to a Wellspring's law) guided by instructors",
+    "why": "first use of harmonisations unexplained",
+    "src": "B"
+   },
+   {
+    "page": "The Magic System/The Derivation of Practice — Thaumaturgic and Theurgic.md",
+    "kind": "gloss",
+    "old_str": "walked out of a Caloria concentration",
+    "new_str": "walked out of a Caloria (the heat family of Wellsprings) concentration",
+    "why": "first use of Caloria unexplained",
+    "src": "B"
+   },
+   {
+    "page": "The Magic System/The Derivation of Practice — Thaumaturgic and Theurgic.md",
+    "kind": "gloss",
+    "old_str": "*They channel with the force their Crystal was born to carry.",
+    "new_str": "*They channel with the force their Crystal (the soul's organ that stores Essence and channels it outward) was born to carry.",
+    "why": "first use of Crystal unexplained",
+    "src": "B"
+   },
+   {
+    "page": "The Magic System/The Derivation of Practice — Thaumaturgic and Theurgic.md",
+    "kind": "gloss",
+    "old_str": "and in severe cases Crystal Fracture**",
+    "new_str": "and in severe cases Crystal Fracture (the soul's organ splitting under strain)**",
+    "why": "first use of Crystal Fracture unexplained",
+    "src": "B"
+   },
+   {
+    "page": "The Magic System/The Derivation of Practice — Thaumaturgic and Theurgic.md",
+    "kind": "gloss",
+    "old_str": "*the Wellspring recognised the Crystal and the Crystal recognised",
+    "new_str": "*the Wellspring (a standing current of natural law in the Aether) recognised the Crystal and the Crystal recognised",
+    "why": "first use of Wellspring unexplained",
+    "src": "B"
+   },
+   {
+    "page": "The Magic System/The Derivation of Practice — Thaumaturgic and Theurgic.md",
+    "kind": "gloss",
+    "old_str": "A Threshold is a melt, and a melt",
+    "new_str": "A Threshold (the crisis that lifts a soul to its next Stage) is a melt, and a melt",
+    "why": "first use of Threshold unexplained",
+    "src": "B"
+   },
+   {
+    "page": "The Magic System/The Derivation of Practice — Thaumaturgic and Theurgic.md",
+    "kind": "gloss",
+    "old_str": "**Traits are the seeds.**",
+    "new_str": "**Traits (standing laws a soul carries, formed by what it survived) are the seeds.**",
+    "why": "first use of Traits unexplained",
+    "src": "B"
+   },
+   {
+    "page": "The Magic System/The Derivation of Practice — Thaumaturgic and Theurgic.md",
+    "kind": "gloss",
+    "old_str": "load paths at Splintering, and Splintering decides the seat",
+    "new_str": "load paths at Splintering (Stage V), and Splintering decides the seat",
+    "why": "first use of Splintering unexplained",
+    "src": "B"
+   },
+   {
+    "page": "The Magic System/The Derivation of Practice — Thaumaturgic and Theurgic.md",
+    "kind": "gloss",
+    "old_str": "The Conjunctia anomaly resolves the same way.",
+    "new_str": "The Conjunctia (working two Families at once) anomaly resolves the same way.",
+    "why": "first use of Conjunctia unexplained",
+    "src": "B"
+   },
+   {
+    "page": "The Magic System/The Derivation of Practice — Thaumaturgic and Theurgic.md",
+    "kind": "gloss",
+    "old_str": "across at least three Families, scoring",
+    "new_str": "across at least three Families (the eight physics groupings of the Wellsprings), scoring",
+    "why": "first use of Families unexplained",
+    "src": "B"
+   },
+   {
+    "page": "The Magic System/The Derivation of Practice — Thaumaturgic and Theurgic.md",
+    "kind": "gloss",
+    "old_str": "without Parunic training",
+    "new_str": "without Parunic (written in Parun, the root script of law that reality reads) training",
+    "why": "first use of Parunic unexplained",
+    "src": "B"
+   },
+   {
+    "page": "The Magic System/The Derivation of Practice — Thaumaturgic and Theurgic.md",
+    "kind": "gloss",
+    "old_str": "**Turgia**",
+    "new_str": "**Turgia (ritual working that makes lasting change)**",
+    "why": "first use of Turgia unexplained",
+    "src": "B"
+   },
+   {
+    "page": "The Magic System/The Derivation of Practice — Thaumaturgic and Theurgic.md",
+    "kind": "gloss",
+    "old_str": "**Kinesia**",
+    "new_str": "**Kinesia (direct control of a phenomenon in real time)**",
+    "why": "first use of Kinesia unexplained",
+    "src": "B"
+   },
+   {
+    "page": "The Magic System/The Derivation of Practice — Thaumaturgic and Theurgic.md",
+    "kind": "gloss",
+    "old_str": "**Manteia**",
+    "new_str": "**Manteia (reading and sensing through a phenomenon)**",
+    "why": "first use of Manteia unexplained",
+    "src": "B"
+   },
+   {
+    "page": "The Magic System/The Derivation of Practice — Thaumaturgic and Theurgic.md",
+    "kind": "gloss",
+    "old_str": "**Harmonia**",
+    "new_str": "**Harmonia (working by tone and vibration)**",
+    "why": "first use of Harmonia unexplained",
+    "src": "B"
+   },
+   {
+    "page": "The Magic System/The Derivation of Practice — Thaumaturgic and Theurgic.md",
+    "kind": "gloss",
+    "old_str": "**Synergia**",
+    "new_str": "**Synergia (several practitioners working as one)**",
+    "why": "first use of Synergia unexplained",
+    "src": "B"
+   }
+  ]
+ },
+ {
+  "page": "The Magic System/The Magical Categories — Unified Taxonom.md",
+  "notion_id": "3c758200-eb22-819e-8385-c81cd92f8d13",
+  "items": [
+   {
+    "page": "The Magic System/The Magical Categories — Unified Taxonom.md",
+    "kind": "copy",
+    "old_str": "# The Magical Categories — Unified Taxonom",
+    "new_str": "# The Magical Categories: Unified Taxonomy",
+    "why": "heading truncated ('Taxonom')",
+    "src": "B"
+   },
+   {
+    "page": "The Magic System/The Magical Categories — Unified Taxonom.md",
+    "kind": "copy",
+    "old_str": "## 2 · DRAFTS\n\n**Examples:** Spirit Forge Arts · Invocation Arts · Binding Arts · Resonant Forms\n\n---\n\n**Spirit-Aligned**\nAlchemical procedures",
+    "new_str": "**Examples:** Spirit Forge Arts · Invocation Arts · Binding Arts · Resonant Forms\n\n---\n\n## 2 · DRAFTS\n\n**Spirit-Aligned**\nAlchemical procedures",
+    "why": "Arts' examples line sits under the Drafts heading; moved back above the break (spans lines)",
+    "src": "B"
+   },
+   {
+    "page": "The Magic System/The Magical Categories — Unified Taxonom.md",
+    "kind": "law",
+    "old_str": "A Votia working does not make a practitioner stronger. It makes them narrower, and the Continuum answers narrowness.",
+    "new_str": "A Votia working makes a practitioner stronger by making them narrower, and the Continuum answers narrowness with power.",
+    "why": "R78-6: vows and conditions buy power and are central",
+    "src": "B"
+   },
+   {
+    "page": "The Magic System/The Magical Categories — Unified Taxonom.md",
+    "kind": "law",
+    "old_str": "which is why vows cluster in exactly the populations that cannot buy Drafts: soldiers, hedge-workers, the orders, the poor.",
+    "new_str": "which is why vows are common in every hall and camp, and commonest in the populations that cannot buy Drafts: soldiers, hedge-workers, the orders, the poor.",
+    "why": "R78-6: vows are common and central, not confined to the poor",
+    "src": "B"
+   },
+   {
+    "page": "The Magic System/The Magical Categories — Unified Taxonom.md",
+    "kind": "gloss",
+    "old_str": "A practitioner's primary Path determines",
+    "new_str": "A practitioner's primary Path (which of four Planes a soul's growth leans toward) determines",
+    "why": "first use of Path unexplained",
+    "src": "B"
+   },
+   {
+    "page": "The Magic System/The Magical Categories — Unified Taxonom.md",
+    "kind": "gloss",
+    "old_str": "since the Essence Core's truth and the Aether Shell's expression already speak",
+    "new_str": "since the truth held in the Essence Core (the Crystal's inner layer) and the expression of the Aether Shell (its outer layer, which turns power into force) already speak",
+    "why": "first use of Essence Core and Aether Shell unexplained",
+    "src": "B"
+   },
+   {
+    "page": "The Magic System/The Magical Categories — Unified Taxonom.md",
+    "kind": "gloss",
+    "old_str": "controlled Flux, martial shaping",
+    "new_str": "controlled Flux (the flow of Essence through the body), martial shaping",
+    "why": "first use of Flux unexplained",
+    "src": "B"
+   },
+   {
+    "page": "The Magic System/The Magical Categories — Unified Taxonom.md",
+    "kind": "gloss",
+    "old_str": "channelling Wellspring processes through Parun Glyphs.",
+    "new_str": "channelling Wellspring (standing currents of natural law) processes through Parun Glyphs (signs in the root script of law).",
+    "why": "first use of Wellspring and Parun unexplained",
+    "src": "B"
+   },
+   {
+    "page": "The Magic System/The Magical Categories — Unified Taxonom.md",
+    "kind": "gloss",
+    "old_str": "Though Drafts touch all three Soul Crystal layers",
+    "new_str": "Though Drafts touch all three Soul Crystal (the soul's organ that stores Essence and channels it outward) layers",
+    "why": "first use of Soul Crystal unexplained",
+    "src": "B"
+   },
+   {
+    "page": "The Magic System/The Magical Categories — Unified Taxonom.md",
+    "kind": "gloss",
+    "old_str": "Fusion workings merging Essences, Traits, Domains, or Wellspring processes",
+    "new_str": "Fusion workings merging Essences, Traits (standing laws a soul carries), Domains (spaces where one's own law outranks physics), or Wellspring processes",
+    "why": "first use of Traits and Domains unexplained",
+    "src": "B"
+   },
+   {
+    "page": "The Magic System/The Magical Categories — Unified Taxonom.md",
+    "kind": "gloss",
+    "old_str": "Operates on **Attraction Force** and requires",
+    "new_str": "Operates on **Attraction Force** (the law of recognition that lets bonds and claims hold) and requires",
+    "why": "first use of **Attraction Force** unexplained",
+    "src": "B"
+   },
+   {
+    "page": "The Magic System/The Magical Categories — Unified Taxonom.md",
+    "kind": "gloss",
+    "old_str": "two Houses, Traits, or Domains either recognise",
+    "new_str": "two Houses (the older, feeling-sorted groupings of Wellsprings), Traits, or Domains either recognise",
+    "why": "first use of Houses unexplained",
+    "src": "B"
+   },
+   {
+    "page": "The Magic System/The Magical Categories — Unified Taxonom.md",
+    "kind": "gloss",
+    "old_str": "birthing shared Temperance fields",
+    "new_str": "birthing shared Temperance (the soul's refinement under pressure) fields",
+    "why": "first use of Temperance unexplained",
+    "src": "B"
+   },
+   {
+    "page": "The Magic System/The Magical Categories — Unified Taxonom.md",
+    "kind": "gloss",
+    "old_str": "Mismatched Resonant Tone produces Echo Fracture.",
+    "new_str": "Mismatched Resonant Tone produces Echo Fracture (the failure state of tone-work).",
+    "why": "first use of Echo Fracture unexplained",
+    "src": "B"
+   },
+   {
+    "page": "The Magic System/The Magical Categories — Unified Taxonom.md",
+    "kind": "gloss",
+    "old_str": "leans on the **Plane of Fate** and **Resonance**",
+    "new_str": "leans on the **Plane of Fate** (the plane that records bonds, oaths and consequence) and **Resonance**",
+    "why": "first use of **Plane of Fate** unexplained",
+    "src": "B"
+   },
+   {
+    "page": "The Magic System/The Magical Categories — Unified Taxonom.md",
+    "kind": "gloss",
+    "old_str": "the syntax by which the Continuum recognises",
+    "new_str": "the syntax by which the Continuum (the whole lawful order of reality) recognises",
+    "why": "first use of Continuum unexplained",
+    "src": "B"
+   },
+   {
+    "page": "The Magic System/The Magical Categories — Unified Taxonom.md",
+    "kind": "gloss",
+    "old_str": "refined across the entire Coherence Ladder.",
+    "new_str": "refined across the entire Coherence Ladder (the scale of how much force moves cleanly through a soul).",
+    "why": "first use of Coherence Ladder unexplained",
+    "src": "B"
+   },
+   {
+    "page": "The Magic System/The Magical Categories — Unified Taxonom.md",
+    "kind": "gloss",
+    "old_str": "underpinning Flux Density, Aether containment",
+    "new_str": "underpinning Flux Density (how tightly Essence is packed in the Crystal), Aether containment",
+    "why": "first use of Flux Density unexplained",
+    "src": "B"
+   },
+   {
+    "page": "The Magic System/The Magical Categories — Unified Taxonom.md",
+    "kind": "gloss",
+    "old_str": "certified understanding of the subject's Essence Typology",
+    "new_str": "certified understanding of the subject's Essence Typology (a Crystal's natural bias toward one phenomenon)",
+    "why": "first use of Essence Typology unexplained",
+    "src": "B"
+   },
+   {
+    "page": "The Magic System/The Magical Categories — Unified Taxonom.md",
+    "kind": "gloss",
+    "old_str": "Animatria fails completely in Silence Realms",
+    "new_str": "Animatria fails completely in Silence Realms (regions where no lawful working can be authorised)",
+    "why": "first use of Silence Realms unexplained",
+    "src": "B"
+   },
+   {
+    "page": "The Magic System/The Magical Categories — Unified Taxonom.md",
+    "kind": "gloss",
+    "old_str": "Titans, Archons, World Spirits",
+    "new_str": "Titans, Archons (the fourteen great powers that embody cosmic law), World Spirits",
+    "why": "first use of Archons unexplained",
+    "src": "B"
+   },
+   {
+    "page": "The Magic System/The Magical Categories — Unified Taxonom.md",
+    "kind": "gloss",
+    "old_str": "functionally a Major Shared Realm's founding moment",
+    "new_str": "functionally a Major Shared Realm (a Domain that has outlived its founders and become a place)'s founding moment",
+    "why": "first use of Major Shared Realm unexplained",
+    "src": "B"
+   },
+   {
+    "page": "The Magic System/The Magical Categories — Unified Taxonom.md",
+    "kind": "gloss",
+    "old_str": "begin closing a Hollowing.",
+    "new_str": "begin closing a Hollowing (a region's slow loss of the capacity for lawful working).",
+    "why": "first use of Hollowing unexplained",
+    "src": "B"
+   }
+  ]
+ },
+ {
+  "page": "The Magic System/The Descent of Parun — The Fourteen Hands.md",
+  "notion_id": "3bc58200-eb22-81c9-a13b-d5514ddd0f8b",
+  "items": [
+   {
+    "page": "The Magic System/The Descent of Parun — The Fourteen Hands.md",
+    "kind": "copy",
+    "old_str": "**in a glyph the Continuum cannot classify — one of these thirty.** *It is the oldest proper noun in the project and it is deliberately blank.*",
+    "new_str": "**in a glyph the Continuum cannot classify, one of the thirty unclassified forms in the Master Glyph Index.** *It is the oldest proper noun in the record and it is deliberately blank.*",
+    "why": "stray 'these thirty' points at a list not on this page; 'the project' breaks the in-world voice",
+    "src": "B"
+   },
+   {
+    "page": "The Magic System/The Descent of Parun — The Fourteen Hands.md",
+    "kind": "law",
+    "old_str": "**and within a decade a single-scale inscription has stretched past legibility.**",
+    "new_str": "**and within a decade a single-scale inscription has stretched past legibility.** Most of what a Fleshshaper cuts is record and carries no working; a cut that sets a live boundary in the flesh is a rare and dangerous high art, and its failures are buried quietly.",
+    "why": "R78-9: runes cut into a living body are a rare, dangerous high art",
+    "src": "B"
+   },
+   {
+    "page": "The Magic System/The Descent of Parun — The Fourteen Hands.md",
+    "kind": "gloss",
+    "old_str": "attributed to a Measurewright of the Vaulted Ring",
+    "new_str": "attributed to a Measurewright (a certified assessor of practitioners and workings) of the Vaulted Ring",
+    "why": "first use of Measurewright unexplained",
+    "src": "B"
+   },
+   {
+    "page": "The Magic System/The Descent of Parun — The Fourteen Hands.md",
+    "kind": "gloss",
+    "old_str": "Every hand traces the same Parun path across the same lattice",
+    "new_str": "Every hand traces the same Parun (the root script of law that reality reads) path across the same lattice (the fixed grid every glyph is traced on)",
+    "why": "first use of Parun and lattice unexplained",
+    "src": "B"
+   },
+   {
+    "page": "The Magic System/The Descent of Parun — The Fourteen Hands.md",
+    "kind": "gloss",
+    "old_str": "**The Wellspring's law was already running, and the glyph",
+    "new_str": "**The Wellspring (a standing current of natural law in the Aether)'s law was already running, and the glyph",
+    "why": "first use of Wellspring unexplained",
+    "src": "B"
+   },
+   {
+    "page": "The Magic System/The Descent of Parun — The Fourteen Hands.md",
+    "kind": "gloss",
+    "old_str": "It is the grammar the Continuum reads",
+    "new_str": "It is the grammar the Continuum (the whole lawful order of reality) reads",
+    "why": "first use of Continuum unexplained",
+    "src": "B"
+   },
+   {
+    "page": "The Magic System/The Descent of Parun — The Fourteen Hands.md",
+    "kind": "gloss",
+    "old_str": "which makes it Chantcraft with no notation",
+    "new_str": "which makes it Chantcraft (working carried by the voice) with no notation",
+    "why": "first use of Chantcraft unexplained",
+    "src": "B"
+   },
+   {
+    "page": "The Magic System/The Descent of Parun — The Fourteen Hands.md",
+    "kind": "gloss",
+    "old_str": "**Undetectable to Harmonics.**",
+    "new_str": "**Undetectable to Harmonics (the trained sense that reads Aether in the field).**",
+    "why": "first use of Harmonics unexplained",
+    "src": "B"
+   },
+   {
+    "page": "The Magic System/The Descent of Parun — The Fourteen Hands.md",
+    "kind": "gloss",
+    "old_str": "**The rail is the Authorization clause for the entire sentence**",
+    "new_str": "**The rail is the Authorization clause (the part of a working that names its lawful channel) for the entire sentence**",
+    "why": "first use of Authorization clause unexplained",
+    "src": "B"
+   }
+  ]
+ },
+ {
+  "page": "The Magic System/The Standing and the Title — The Three Names.md",
+  "notion_id": "3bc58200-eb22-8106-a72a-de20d69574e0",
+  "items": [
+   {
+    "page": "The Magic System/The Standing and the Title — The Three Names.md",
+    "kind": "law",
+    "old_str": "**The world is not reading a soul's power. It is reading a soul's standing bias, at the only amplitude that never stops broadcasting.**",
+    "new_str": "**The Third Name is not read off a soul's power, which the trained sense and argue over openly enough. It is read off a soul's standing bias, at the only amplitude that never stops broadcasting.**",
+    "why": "R78-6: practitioners sense each other's strength and talk of it openly",
+    "src": "B"
+   },
+   {
+    "page": "The Magic System/The Standing and the Title — The Three Names.md",
+    "kind": "gloss",
+    "old_str": "**This is what the coil says when you stand inside it.**",
+    "new_str": "**This is what the coil (the Accord's assay instrument) says when you stand inside it.**",
+    "why": "first use of coil unexplained",
+    "src": "B"
+   },
+   {
+    "page": "The Magic System/The Standing and the Title — The Three Names.md",
+    "kind": "gloss",
+    "old_str": "A Crystal that has opened and not yet been taught",
+    "new_str": "A Crystal (the soul's organ that stores Essence and channels it outward) that has opened and not yet been taught",
+    "why": "first use of Crystal unexplained",
+    "src": "B"
+   },
+   {
+    "page": "The Magic System/The Standing and the Title — The Three Names.md",
+    "kind": "gloss",
+    "old_str": "not because the Essence reaches into their memories",
+    "new_str": "not because the Essence (the practitioner's own drawn-in power) reaches into their memories",
+    "why": "first use of Essence unexplained",
+    "src": "B"
+   },
+   {
+    "page": "The Magic System/The Standing and the Title — The Three Names.md",
+    "kind": "gloss",
+    "old_str": "a practitioner bound to an Archon is addressed",
+    "new_str": "a practitioner bound to an Archon (one of the fourteen great powers that embody cosmic law) is addressed",
+    "why": "first use of Archon unexplained",
+    "src": "B"
+   },
+   {
+    "page": "The Magic System/The Standing and the Title — The Three Names.md",
+    "kind": "gloss",
+    "old_str": "an instrument profile changes at every Threshold.",
+    "new_str": "an instrument profile changes at every Threshold (the crisis that lifts a soul to its next Stage).",
+    "why": "first use of Threshold unexplained",
+    "src": "B"
+   },
+   {
+    "page": "The Magic System/The Standing and the Title — The Three Names.md",
+    "kind": "gloss",
+    "old_str": "A Class Ø midwife who settles a room",
+    "new_str": "A Class Ø (never-woken) midwife who settles a room",
+    "why": "first use of Class Ø unexplained",
+    "src": "B"
+   },
+   {
+    "page": "The Magic System/The Standing and the Title — The Three Names.md",
+    "kind": "gloss",
+    "old_str": "and the reason is Runecraft.",
+    "new_str": "and the reason is Runecraft (inscribing a working into stone or metal).",
+    "why": "first use of Runecraft unexplained",
+    "src": "B"
+   }
+  ]
+ },
+ {
+  "page": "The Magic System/The Imperial Age Aether Infrastructure.md",
+  "notion_id": "3d558200-eb22-8137-9996-cafd5d239b2f",
+  "items": [
+   {
+    "page": "The Magic System/The Imperial Age Aether Infrastructure.md",
+    "kind": "copy",
+    "old_str": "knows exactly what it knows exactly what it would lose.",
+    "new_str": "knows exactly what it would lose.",
+    "why": "repeated phrase 'knows exactly what it'",
+    "src": "B"
+   },
+   {
+    "page": "The Magic System/The Imperial Age Aether Infrastructure.md",
+    "kind": "copy",
+    "old_str": "never favoured the practitioner and never have.",
+    "new_str": "never favoured the practitioner and still do not.",
+    "why": "tense break 'never favoured ... and never have'",
+    "src": "B"
+   },
+   {
+    "page": "The Magic System/The Imperial Age Aether Infrastructure.md",
+    "kind": "law",
+    "old_str": "**The infrastructure is furniture, not spectacle.** A standpipe is street furniture.",
+    "new_str": "**The infrastructure is everywhere, and most of it is furniture.** The great works make a city's skyline and its pride; a standpipe is street furniture.",
+    "why": "R78-4: magitech everywhere in cities, grand skylines and craft; 'not spectacle' reads against it",
+    "src": "B"
+   },
+   {
+    "page": "The Magic System/The Imperial Age Aether Infrastructure.md",
+    "kind": "law",
+    "old_str": "**The Long Reckoning did not discover this. It plumbed it.**",
+    "new_str": "**The Long Reckoning did not discover this. It plumbed it.** The cities were plumbed first and most thoroughly, and their lights, heat, water and trams run on the district mains; past the last station the network thins, and the towns and the wilds still burn oil.",
+    "why": "R78-4 check: page never states that magitech thins outside cities and towns and wilds burn oil",
+    "src": "B"
+   },
+   {
+    "page": "The Magic System/The Imperial Age Aether Infrastructure.md",
+    "kind": "gloss",
+    "old_str": "sealed conduit running from a harmonised vein to a district",
+    "new_str": "sealed conduit running from a harmonised vein (a Wellspring current tuned and tapped for drawing) to a district",
+    "why": "first use of harmonised vein unexplained",
+    "src": "B"
+   },
+   {
+    "page": "The Magic System/The Imperial Age Aether Infrastructure.md",
+    "kind": "gloss",
+    "old_str": "*A spur is not Mechanica.",
+    "new_str": "*A spur is not Mechanica (forbidden working that takes power without lawful consent).",
+    "why": "first use of Mechanica unexplained",
+    "src": "B"
+   },
+   {
+    "page": "The Magic System/The Imperial Age Aether Infrastructure.md",
+    "kind": "gloss",
+    "old_str": "low-grade Gnosis noise in anyone sensitive, Crystal awakening at abnormal ages in children, and a Trait incidence",
+    "new_str": "low-grade Gnosis (perception) noise in anyone sensitive, Crystal awakening (the soul's power-organ opening) at abnormal ages in children, and a Trait (a standing law carried in the soul) incidence",
+    "why": "first uses of Gnosis, Crystal and Trait unexplained",
+    "src": "B"
+   },
+   {
+    "page": "The Magic System/The Imperial Age Aether Infrastructure.md",
+    "kind": "gloss",
+    "old_str": "across a hand's breadth of air by Transference",
+    "new_str": "across a hand's breadth of air by Transference (the Wellspring that passes energy between tuned things without contact)",
+    "why": "first use of Transference unexplained",
+    "src": "B"
+   },
+   {
+    "page": "The Magic System/The Imperial Age Aether Infrastructure.md",
+    "kind": "gloss",
+    "old_str": "Signal along conductive line, Fulguria-adjacent",
+    "new_str": "Signal along conductive line, Fulguria (the electromagnetic family of Wellsprings)-adjacent",
+    "why": "first use of Fulguria unexplained",
+    "src": "B"
+   },
+   {
+    "page": "The Magic System/The Imperial Age Aether Infrastructure.md",
+    "kind": "gloss",
+    "old_str": "*A dye works uses Caloria at industrial scale",
+    "new_str": "*A dye works uses Caloria (the heat family of Wellsprings) at industrial scale",
+    "why": "first use of Caloria unexplained",
+    "src": "B"
+   },
+   {
+    "page": "The Magic System/The Imperial Age Aether Infrastructure.md",
+    "kind": "gloss",
+    "old_str": "would be recorded as an Active Concentration if",
+    "new_str": "would be recorded as an Active Concentration (a density that alters bodies over time) if",
+    "why": "first use of Active Concentration unexplained",
+    "src": "B"
+   }
+  ]
+ },
+ {
+  "page": "The Magic System/Mechanica Extraction Without Recognition.md",
+  "notion_id": "3d558200-eb22-8114-8002-d6eb5fc4631b",
+  "items": [
+   {
+    "page": "The Magic System/Mechanica Extraction Without Recognition.md",
+    "kind": "gloss",
+    "old_str": "It is structural, and the Continuum records it in the ground.",
+    "new_str": "It is structural, and the Continuum (the whole lawful order of reality) records it in the ground.",
+    "why": "first use of Continuum unexplained",
+    "src": "B"
+   },
+   {
+    "page": "The Magic System/Mechanica Extraction Without Recognition.md",
+    "kind": "gloss",
+    "old_str": "An operator does not invoke a Wellspring, because invoking one requires Authorization and Authorization",
+    "new_str": "An operator does not invoke a Wellspring (a standing current of natural law), because invoking one requires Authorization (the glyph role naming a lawful channel) and Authorization",
+    "why": "first use of Wellspring and Authorization unexplained",
+    "src": "B"
+   },
+   {
+    "page": "The Magic System/Mechanica Extraction Without Recognition.md",
+    "kind": "gloss",
+    "old_str": "Output taken from a Soul Crystal that is not the operator's.",
+    "new_str": "Output taken from a Soul Crystal (the soul's organ that stores Essence and channels it outward) that is not the operator's.",
+    "why": "first use of Soul Crystal unexplained",
+    "src": "B"
+   },
+   {
+    "page": "The Magic System/Mechanica Extraction Without Recognition.md",
+    "kind": "gloss",
+    "old_str": "what produces a site running under Obsession Force.",
+    "new_str": "what produces a site running under Obsession Force (recognition curdled into taking).",
+    "why": "first use of Obsession Force unexplained",
+    "src": "B"
+   },
+   {
+    "page": "The Magic System/Mechanica Extraction Without Recognition.md",
+    "kind": "gloss",
+    "old_str": "Concordia can close a Hollowing over years.",
+    "new_str": "Concordia (the art of aligning many fields into one) can close a Hollowing (a region losing its capacity for lawful working) over years.",
+    "why": "first use of Concordia and Hollowing unexplained",
+    "src": "B"
+   },
+   {
+    "page": "The Magic System/Mechanica Extraction Without Recognition.md",
+    "kind": "gloss",
+    "old_str": "Spellcraft bills the body in the same scene. Runecraft bills a season and a stone. Draftcraft bills provenance. Votia bills the rest of a life.",
+    "new_str": "Spellcraft (working cast live from the body) bills the body in the same scene. Runecraft (working inscribed in material) bills a season and a stone. Draftcraft (working bottled as a Draft) bills provenance. Votia (working bought with a vow) bills the rest of a life.",
+    "why": "first uses of the craft names unexplained",
+    "src": "B"
+   },
+   {
+    "page": "The Magic System/Mechanica Extraction Without Recognition.md",
+    "kind": "gloss",
+    "old_str": "**Shell clouding without corresponding output, Coherence falling with no change in conduct, and Traits that begin flickering in the absence of Essence Starvation.**",
+    "new_str": "**Shell clouding (the soul's outer layer losing clarity) without corresponding output, Coherence (how closely a person's chosen path matches how they live) falling with no change in conduct, and Traits that begin flickering in the absence of Essence Starvation (running below a tenth of reserve).**",
+    "why": "first uses of Shell, Coherence and Essence Starvation unexplained",
+    "src": "B"
+   },
+   {
+    "page": "The Magic System/Mechanica Extraction Without Recognition.md",
+    "kind": "gloss",
+    "old_str": "finds Harmonics costs elevated",
+    "new_str": "finds Harmonics (the stat that governs drawing Aether from the ground) costs elevated",
+    "why": "first use of Harmonics unexplained",
+    "src": "B"
+   },
+   {
+    "page": "The Magic System/Mechanica Extraction Without Recognition.md",
+    "kind": "gloss",
+    "old_str": "The coil reads a field; the gauge",
+    "new_str": "The coil (the assay instrument a practitioner stands inside) reads a field; the gauge",
+    "why": "first use of coil unexplained",
+    "src": "B"
+   }
+  ]
+ },
+ {
+  "page": "The Magic System/The Physical Account Two Sets of Books.md",
+  "notion_id": "3d558200-eb22-815e-85ae-e2819b567320",
+  "items": [
+   {
+    "page": "The Magic System/The Physical Account Two Sets of Books.md",
+    "kind": "copy",
+    "old_str": "whether the Guild has cut the main.",
+    "new_str": "whether the Board has cut the main.",
+    "why": "mains are cut by the Draw Boards, not the Guild (The Imperial Age: Aether Infrastructure)",
+    "src": "B"
+   },
+   {
+    "page": "The Magic System/The Physical Account Two Sets of Books.md",
+    "kind": "law",
+    "old_str": "why a low-efficiency practitioner is loud, warm, and easy to find, and why the highest Bands run quiet.",
+    "new_str": "why a low-efficiency practitioner is loud, warm, and easy to find, and why the highest Bands (hundred-Level brackets of growth) leak so little: what a room sees and hears of them is their own aura and the working itself, never its waste.",
+    "why": "R78-6: aura shows and brightens, every technique has its sound; 'run quiet' reads against it",
+    "src": "B"
+   },
+   {
+    "page": "The Magic System/The Physical Account Two Sets of Books.md",
+    "kind": "law",
+    "old_str": "In practice that means exhaustion past usefulness, injury past safety, or genuine proximity to death. The Crystal does not distinguish between a Threshold approached deliberately in a training yard and one arrived at by accident in a ditch, except that the ditch has a better record.",
+    "new_str": "In practice that means long breathing and drawing in dense Aether or at a Wellspring, a seclusion held past comfort, a real fight, injury past safety, or genuine proximity to death. The Crystal does not distinguish between a Threshold (the crisis that lifts a soul to its next Stage) approached deliberately in a seclusion chamber or a training yard and one arrived at by accident in a ditch, except that the ditch has a better record.",
+    "why": "R78-7/R78-9: advancement by breathing, drawing, fights and seclusion, breakthroughs by crisis, seclusion or tribulation",
+    "src": "B"
+   },
+   {
+    "page": "The Magic System/The Physical Account Two Sets of Books.md",
+    "kind": "gloss",
+    "old_str": "The Continuum keeps two sets of books",
+    "new_str": "The Continuum (the whole lawful order of reality) keeps two sets of books",
+    "why": "first use of Continuum unexplained",
+    "src": "B"
+   },
+   {
+    "page": "The Magic System/The Physical Account Two Sets of Books.md",
+    "kind": "gloss",
+    "old_str": "a competent Measurewright with no Crystal at all",
+    "new_str": "a competent Measurewright (a certified assessor of workings) with no Crystal (the soul's organ that stores and channels power) at all",
+    "why": "first use of Measurewright and Crystal unexplained",
+    "src": "B"
+   },
+   {
+    "page": "The Magic System/The Physical Account Two Sets of Books.md",
+    "kind": "gloss",
+    "old_str": "which Wellspring's law was invoked",
+    "new_str": "which Wellspring (standing current of natural law) had its law invoked",
+    "why": "first use of Wellspring unexplained",
+    "src": "B"
+   },
+   {
+    "page": "The Magic System/The Physical Account Two Sets of Books.md",
+    "kind": "gloss",
+    "old_str": "This account requires a coil, a trained reader",
+    "new_str": "This account requires a coil (the assay instrument a practitioner stands inside), a trained reader",
+    "why": "first use of coil unexplained",
+    "src": "B"
+   },
+   {
+    "page": "The Magic System/The Physical Account Two Sets of Books.md",
+    "kind": "gloss",
+    "old_str": "pays for it in Harmonics.",
+    "new_str": "pays for it in Harmonics (the stat that governs drawing Aether from the ground).",
+    "why": "first use of Harmonics unexplained",
+    "src": "B"
+   },
+   {
+    "page": "The Magic System/The Physical Account Two Sets of Books.md",
+    "kind": "gloss",
+    "old_str": "its Developmental Tier, its Crystal State, its efficiency",
+    "new_str": "its Developmental Tier (how far the whole Crystal has matured), its Crystal State (Fractured, Refined or Overgrown), its efficiency",
+    "why": "first uses unexplained",
+    "src": "B"
+   },
+   {
+    "page": "The Magic System/The Physical Account Two Sets of Books.md",
+    "kind": "gloss",
+    "old_str": "Traits deposit mineral, rebuild vasculature",
+    "new_str": "Traits (standing laws a soul carries, formed by what it survived) deposit mineral, rebuild vasculature",
+    "why": "first use of Traits unexplained",
+    "src": "B"
+   },
+   {
+    "page": "The Magic System/The Physical Account Two Sets of Books.md",
+    "kind": "gloss",
+    "old_str": "Overchannel scars. Essence Starvation flickers a Trait",
+    "new_str": "Overchannel (forcing output past the Crystal's safe ceiling) scars. Essence Starvation (running below a tenth of reserve) flickers a Trait",
+    "why": "first uses unexplained",
+    "src": "B"
+   },
+   {
+    "page": "The Magic System/The Physical Account Two Sets of Books.md",
+    "kind": "gloss",
+    "old_str": "a cut main, a Silence Realm.",
+    "new_str": "a cut main, a Silence Realm (ground where no lawful working can be authorised).",
+    "why": "first use of Silence Realm unexplained",
+    "src": "B"
+   }
+  ]
+ },
+ {
+  "page": "The Magic System/The Master Glyph Index — 136 Attested Forms.md",
+  "notion_id": "3bc58200-eb22-81fb-b372-edd4501dcbde",
+  "items": [
+   {
+    "page": "The Magic System/The Master Glyph Index — 136 Attested Forms.md",
+    "kind": "copy",
+    "old_str": "It is the oldest proper noun in the project **and it is deliberately blank.**",
+    "new_str": "It is the oldest proper noun in the record **and it is deliberately blank.**",
+    "why": "'the project' breaks the in-world voice",
+    "src": "B"
+   },
+   {
+    "page": "The Magic System/The Master Glyph Index — 136 Attested Forms.md",
+    "kind": "copy",
+    "old_str": "and the index does not offer an opinion.**",
+    "new_str": "and the index does not offer an opinion.*",
+    "why": "stray closing '**' on an italic sentence",
+    "src": "B"
+   },
+   {
+    "page": "The Magic System/The Master Glyph Index — 136 Attested Forms.md",
+    "kind": "gloss",
+    "old_str": "*All one hundred and thirty-six attested Parun forms, ordered by Archon*",
+    "new_str": "*All one hundred and thirty-six attested Parun (root script of law) forms, ordered by Archon (one of the fourteen great powers of cosmic law)*",
+    "why": "first use of Parun and Archon unexplained",
+    "src": "B"
+   },
+   {
+    "page": "The Magic System/The Master Glyph Index — 136 Attested Forms.md",
+    "kind": "gloss",
+    "old_str": "The Wellspring's law was already running before anyone",
+    "new_str": "The Wellspring (a standing current of natural law in the Aether)'s law was already running before anyone",
+    "why": "first use of Wellspring unexplained",
+    "src": "B"
+   },
+   {
+    "page": "The Magic System/The Master Glyph Index — 136 Attested Forms.md",
+    "kind": "gloss",
+    "old_str": "which is precisely why the Codex can classify",
+    "new_str": "which is precisely why the Codex (the Master Codex, the standing register of glyphs and Wellsprings) can classify",
+    "why": "first use of Codex unexplained",
+    "src": "B"
+   },
+   {
+    "page": "The Magic System/The Master Glyph Index — 136 Attested Forms.md",
+    "kind": "gloss",
+    "old_str": "or a property of the Continuum remains unstated",
+    "new_str": "or a property of the Continuum (the whole lawful order of reality) remains unstated",
+    "why": "first use of Continuum unexplained",
+    "src": "B"
+   },
+   {
+    "page": "The Magic System/The Master Glyph Index — 136 Attested Forms.md",
+    "kind": "gloss",
+    "old_str": "A root path carried further along the lattice",
+    "new_str": "A root path carried further along the lattice (the fixed grid every glyph is traced on)",
+    "why": "first use of lattice unexplained",
+    "src": "B"
+   }
+  ]
+ },
+ {
+  "page": "The Magic System/The Core Vocabulary.md",
+  "notion_id": "3b158200-eb22-8183-817e-cc1a61adee53",
+  "items": [
+   {
+    "page": "The Magic System/The Core Vocabulary.md",
+    "kind": "copy",
+    "old_str": "Preserves who a practitioner is a nd is the plane",
+    "new_str": "Preserves who a practitioner is and is the plane",
+    "why": "split word 'a nd'",
+    "src": "C"
+   }
+  ]
+ },
+ {
+  "page": "The Magic System/The Lexicon of Magic — Master Terminology.md",
+  "notion_id": "3c758200-eb22-8167-8e6e-f8536b7f8816",
+  "items": [
+   {
+    "page": "The Magic System/The Lexicon of Magic — Master Terminology.md",
+    "kind": "copy",
+    "old_str": "<page url=\"[https://app.notion.com/p/3b158200eb228183817ecc1a61adee53\">The](https://app.notion.com/p/3b158200eb228183817ecc1a61adee53%22%3EThe) Core Vocabulary</page>",
+    "new_str": "<page url=\"https://app.notion.com/p/3b158200eb228183817ecc1a61adee53\">The Core Vocabulary</page>",
+    "why": "mangled link markup from export",
+    "src": "C"
+   },
+   {
+    "page": "The Magic System/The Lexicon of Magic — Master Terminology.md",
+    "kind": "copy",
+    "old_str": "and an error in any role can produce it. Wellspring processes that were started and never completed, which keep trying to finish themselves in whatever they contact.",
+    "new_str": "and an error in any role can produce it. It leaves Wellspring processes that were started and never completed, which keep trying to finish themselves in whatever they contact.",
+    "why": "orphan fragment with no verb",
+    "src": "C"
+   },
+   {
+    "page": "The Magic System/The Lexicon of Magic — Master Terminology.md",
+    "kind": "law",
+    "old_str": "Felt in the body, never as an aura.",
+    "new_str": "Felt in the body, and seen in the practitioner's own aura, in their own colour, burning brighter as they push.",
+    "why": "aura is visible in each practitioner's own colour and may glow (R78-6, supersedes R9-3)",
+    "src": "C"
+   },
+   {
+    "page": "The Magic System/The Lexicon of Magic — Master Terminology.md",
+    "kind": "law",
+    "old_str": "**Numbers belong in a mouth.** Stat names, Sub-Stat names, Grades, Bands, efficiency, EU, Aether Class and Category are diagnostic vocabulary. They appear when a character speaks them, when an instrument reports them, when a document records them, or when somebody is privately counting. **They do not appear in narration on its own authority.**",
+    "new_str": "**Numbers belong in a mouth.** Figures are diagnostic: a Grade letter, a Band, an η, a count of EU, a Sub-Stat's value. They appear when a character speaks them, when an instrument reports them, when a document records them, or when somebody is privately counting. **They do not appear in narration on its own authority.** The system's words without their figures, Aether, Density, Saturation, Coherence, may stand in narration beside the effect they name.",
+    "why": "system and science terms are free in narration; only figures stay in mouths and notes (R78-3, R78-6)",
+    "src": "C"
+   },
+   {
+    "page": "The Magic System/The Lexicon of Magic — Master Terminology.md",
+    "kind": "law",
+    "old_str": "A high Ardency Penetration is not named in the prose. It is the point going through plate that should have turned it.",
+    "new_str": "A high Ardency Penetration is first the point going through plate that should have turned it, and only after that, if at all, a name.",
+    "why": "a working is shown as physical effect, then its system term (R78-3)",
+    "src": "C"
+   },
+   {
+    "page": "The Magic System/The Lexicon of Magic — Master Terminology.md",
+    "kind": "law",
+    "old_str": "Phenomenon, mechanism, measure, tempo, the read and its tell, the fault,",
+    "new_str": "Phenomenon, mechanism and the system and science words that name it, what the body and the blade did, the tell, the fault,",
+    "why": "measure, tempo and the read are banned fight abstractions in narration; system terms allowed (R78-3)",
+    "src": "C"
+   }
+  ]
+ },
+ {
+  "page": "The Magic System/On Walking Into the Current — Wellspring Encounter and Recovery.md",
+  "notion_id": "3bc58200-eb22-811d-bbf2-ee2f27930f0e",
+  "items": [
+   {
+    "page": "The Magic System/On Walking Into the Current — Wellspring Encounter and Recovery.md",
+    "kind": "copy",
+    "old_str": "is the surveyor who has already been retuned.**",
+    "new_str": "is the surveyor who has already been retuned.*",
+    "why": "unbalanced emphasis markers (one opening *, two closing)",
+    "src": "C"
+   }
+  ]
+ },
+ {
+  "page": "Fracture of Worlds — The Living System/II. Grades, Gates and Thresholds (Parts Four–Ten).md",
+  "notion_id": "3d758200-eb22-8131-b70d-c91722f2d3e4",
+  "items": [
+   {
+    "page": "Fracture of Worlds — The Living System/II. Grades, Gates and Thresholds (Parts Four–Ten).md",
+    "kind": "copy",
+    "old_str": "The table above measures a **Sub-Stat's** raw value",
+    "new_str": "The table below measures a **Sub-Stat's** raw value",
+    "why": "the Grade table follows this paragraph, it is not above it",
+    "src": "C"
+   },
+   {
+    "page": "Fracture of Worlds — The Living System/II. Grades, Gates and Thresholds (Parts Four–Ten).md",
+    "kind": "law",
+    "old_str": "until the stat collapses or the Threshold is passed through crisis.",
+    "new_str": "until the stat collapses or the Threshold is passed.",
+    "why": "crisis is one road to a Threshold, not the only one (R78-7)",
+    "src": "C"
+   },
+   {
+    "page": "Fracture of Worlds — The Living System/II. Grades, Gates and Thresholds (Parts Four–Ten).md",
+    "kind": "law",
+    "old_str": "The System does not advance a soul that has not genuinely changed. This is not a punishment. It is accuracy.",
+    "new_str": "The System does not advance a soul that has not genuinely changed. This is not a punishment. It is accuracy. The road to the Catalyst differs: some meet it in crisis, some work toward it in seclusion, some are driven to it by tribulation, and most by a mixture of the three.",
+    "why": "breakthroughs come by crisis, seclusion or tribulation (R78-7); the Catalyst itself still governs",
+    "src": "C"
+   },
+   {
+    "page": "Fracture of Worlds — The Living System/II. Grades, Gates and Thresholds (Parts Four–Ten).md",
+    "kind": "gloss",
+    "old_str": "**X.** Archon-adjacent.",
+    "new_str": "**X.** Archon-adjacent (near the power of the fourteen Archons, the beings who hold conceptual law).",
+    "why": "first use of Archon",
+    "src": "C"
+   },
+   {
+    "page": "Fracture of Worlds — The Living System/II. Grades, Gates and Thresholds (Parts Four–Ten).md",
+    "kind": "gloss",
+    "old_str": "Domain seeds structurally possible though not stable.",
+    "new_str": "Domain seeds (first roots of a space where the practitioner's law overrides local law) structurally possible though not stable.",
+    "why": "first use of Domain",
+    "src": "C"
+   },
+   {
+    "page": "Fracture of Worlds — The Living System/II. Grades, Gates and Thresholds (Parts Four–Ten).md",
+    "kind": "gloss",
+    "old_str": "No formal upper ceiling beneath the Apotheosis threshold.",
+    "new_str": "No formal upper ceiling beneath the Apotheosis threshold (where the line between practitioner and living Principle collapses).",
+    "why": "first use of Apotheosis",
+    "src": "C"
+   },
+   {
+    "page": "Fracture of Worlds — The Living System/II. Grades, Gates and Thresholds (Parts Four–Ten).md",
+    "kind": "gloss",
+    "old_str": "**Coherence** open, and functions as the structural prerequisite",
+    "new_str": "**Coherence** (how closely a soul's chosen Path matches how it actually works) open, and functions as the structural prerequisite",
+    "why": "first use of Coherence; defined only on Part IV",
+    "src": "C"
+   },
+   {
+    "page": "Fracture of Worlds — The Living System/II. Grades, Gates and Thresholds (Parts Four–Ten).md",
+    "kind": "gloss",
+    "old_str": "becomes recognizable to a Hollow Throne.",
+    "new_str": "becomes recognizable to a Hollow Throne (the empty seat of a dead Archon).",
+    "why": "first use of Hollow Throne",
+    "src": "C"
+   }
+  ]
+ },
+ {
+  "page": "Fracture of Worlds — The Living System/IV. The Eight Primaries and the Sixty-Four Sub-Stats (Part Twelve).md",
+  "notion_id": "3d758200-eb22-81a2-82cb-c69140fdabd7",
+  "items": [
+   {
+    "page": "Fracture of Worlds — The Living System/IV. The Eight Primaries and the Sixty-Four Sub-Stats (Part Twelve).md",
+    "kind": "copy",
+    "old_str": "**Where a retired name appears on an existing sheet, read it as the entry that absorbed it.** The merge list sits at the foot of this page.",
+    "new_str": "**Where a retired name appears on an existing sheet, read it as the entry that absorbed it.** Each entry below names, in italics, the retired Sub-Stats it absorbed.",
+    "why": "promised merge list is not on the page; the per-entry 'Absorbs' notes carry it",
+    "src": "C"
+   },
+   {
+    "page": "Fracture of Worlds — The Living System/IV. The Eight Primaries and the Sixty-Four Sub-Stats (Part Twelve).md",
+    "kind": "gloss",
+    "old_str": "both measured Parunic construction.",
+    "new_str": "both measured Parunic (Parun, the written language of magical law) construction.",
+    "why": "first use of Parunic",
+    "src": "C"
+   },
+   {
+    "page": "Fracture of Worlds — The Living System/IV. The Eight Primaries and the Sixty-Four Sub-Stats (Part Twelve).md",
+    "kind": "gloss",
+    "old_str": "the warnings that precede Dissonance events.",
+    "new_str": "the warnings that precede Dissonance (the eleventh Stage, where power and identity clash) events.",
+    "why": "first use of Dissonance",
+    "src": "C"
+   }
+  ]
+ },
+ {
+  "page": "The Magic System/Fracture of Worlds — The Living System.md",
+  "notion_id": "3d758200-eb22-8101-bde2-f8eceeaefc7a",
+  "items": [
+   {
+    "page": "The Magic System/Fracture of Worlds — The Living System.md",
+    "kind": "copy",
+    "old_str": "### The Twenty-Two Parts",
+    "new_str": "### The Twenty-Four Parts",
+    "why": "page set now runs to Part Twenty-Four (IX and X exist as child pages)",
+    "src": "C"
+   },
+   {
+    "page": "The Magic System/Fracture of Worlds — The Living System.md",
+    "kind": "copy",
+    "old_str": "1. [VIII. Traits, Soul Crystal Tiers, Domains](https://app.notion.com/p/3d758200eb2281d0a367f18213037668) — Parts Twenty through Twenty-Two.",
+    "new_str": "1. [VIII. Traits, Soul Crystal Tiers, Domains](https://app.notion.com/p/3d758200eb2281d0a367f18213037668) — Parts Twenty through Twenty-Two.\n1. [IX. The Essence Ledger](https://app.notion.com/p/3e758200eb2281d49e1df161b3ed583a), Part Twenty-Three. What an EU buys in joules, what a reserve costs to spend, and how fast it comes back.\n1. [X. The Tier Ladders](https://app.notion.com/p/3e758200eb228127a7c2ece5680c1889), Part Twenty-Four.",
+    "why": "numbered list omits Parts IX and X, which exist as child pages (ids from their frontmatter)",
+    "src": "C"
+   },
+   {
+    "page": "The Magic System/Fracture of Worlds — The Living System.md",
+    "kind": "gloss",
+    "old_str": "how many times your Soul Crystal has meaningfully densified",
+    "new_str": "how many times your Soul Crystal (the soul's inner crystal, where a practitioner's power is held and shaped) has meaningfully densified",
+    "why": "first use of Soul Crystal",
+    "src": "C"
+   },
+   {
+    "page": "The Magic System/Fracture of Worlds — The Living System.md",
+    "kind": "gloss",
+    "old_str": "The ceiling is 500 for everyone below Stage XV. Paragons exceed it,",
+    "new_str": "The ceiling is 500 for everyone below Stage XV. Paragons (practitioners at Stages XV and XVI) exceed it,",
+    "why": "Paragon used before the Tier list explains it",
+    "src": "C"
+   }
+  ]
+ },
+ {
+  "page": "The Magic System/The Working Vocabulary — Trade Jargon and Its Metaphysical Extensions.md",
+  "notion_id": "3d758200-eb22-81c3-b1c5-f4ce524fdbcf",
+  "items": [
+   {
+    "page": "The Magic System/The Working Vocabulary — Trade Jargon and Its Metaphysical Extensions.md",
+    "kind": "law",
+    "old_str": "That vocabulary is workbook and mostly stays off the page.",
+    "new_str": "That vocabulary names the system, and it may stand on the page beside the effect it names, but it places nobody by trade or class.",
+    "why": "system terms are free in narration (R78-3); keeps the page's point that trade words do the placing",
+    "src": "C"
+   }
+  ]
+ },
+ {
+  "page": "Fracture of Worlds — The Living System/I. Levels, Experience and Stat Points (Parts One–Three).md",
+  "notion_id": "3d758200-eb22-81a7-8ab6-ff201f11a35b",
+  "items": [
+   {
+    "page": "Fracture of Worlds — The Living System/I. Levels, Experience and Stat Points (Parts One–Three).md",
+    "kind": "law",
+    "old_str": "Deepening existing attunement through sustained channeling under genuine strain generates slower but persistent accumulation.",
+    "new_str": "Deepening existing attunement through sustained channeling, by long breathing and drawing at a Wellspring or in dense Aether, and by seclusion before a Threshold, generates slower but persistent accumulation.",
+    "why": "practitioners cultivate by breath, by drawing at Wellsprings or dense Aether, and by seclusion (R78-9, R78-7)",
+    "src": "C"
+   },
+   {
+    "page": "Fracture of Worlds — The Living System/I. Levels, Experience and Stat Points (Parts One–Three).md",
+    "kind": "gloss",
+    "old_str": "the structural limit of what a mortal Soul Crystal can contain",
+    "new_str": "the structural limit of what a mortal Soul Crystal (the soul's inner crystal, where a practitioner's power is held and shaped) can contain",
+    "why": "first use of Soul Crystal",
+    "src": "C"
+   },
+   {
+    "page": "Fracture of Worlds — The Living System/I. Levels, Experience and Stat Points (Parts One–Three).md",
+    "kind": "gloss",
+    "old_str": "Every Band corresponds to a Temperance Stage cluster.",
+    "new_str": "Every Band corresponds to a Temperance Stage (one of the sixteen rungs of a soul's refinement) cluster.",
+    "why": "first use of Temperance Stage",
+    "src": "C"
+   },
+   {
+    "page": "Fracture of Worlds — The Living System/I. Levels, Experience and Stat Points (Parts One–Three).md",
+    "kind": "gloss",
+    "old_str": "without first passing the Temperance Threshold that cluster demands",
+    "new_str": "without first passing the Temperance Threshold (the breakthrough that lifts a soul to its next Stage) that cluster demands",
+    "why": "first use of Temperance Threshold",
+    "src": "C"
+   },
+   {
+    "page": "Fracture of Worlds — The Living System/I. Levels, Experience and Stat Points (Parts One–Three).md",
+    "kind": "gloss",
+    "old_str": "A Domain seed becomes possible.",
+    "new_str": "A Domain seed (the first root of a space where the practitioner's law overrides local law) becomes possible.",
+    "why": "first use of Domain",
+    "src": "C"
+   },
+   {
+    "page": "Fracture of Worlds — The Living System/I. Levels, Experience and Stat Points (Parts One–Three).md",
+    "kind": "gloss",
+    "old_str": "Deciphering an unknown Parunic glyph-construct independently.",
+    "new_str": "Deciphering an unknown Parunic (written in Parun, the language of magical law) glyph-construct independently.",
+    "why": "first use of Parunic",
+    "src": "C"
+   },
+   {
+    "page": "Fracture of Worlds — The Living System/I. Levels, Experience and Stat Points (Parts One–Three).md",
+    "kind": "gloss",
+    "old_str": "Using Overchannel and sustaining",
+    "new_str": "Using Overchannel (forcing more output than the Crystal can safely sustain) and sustaining",
+    "why": "first use of Overchannel",
+    "src": "C"
+   },
+   {
+    "page": "Fracture of Worlds — The Living System/I. Levels, Experience and Stat Points (Parts One–Three).md",
+    "kind": "gloss",
+    "old_str": "structural Aether Shell damage",
+    "new_str": "structural Aether Shell (the Crystal's outer layer, which turns Essence into force) damage",
+    "why": "first use of Aether Shell",
+    "src": "C"
+   }
+  ]
+ },
+ {
+  "page": "Fracture of Worlds — The Living System/III. Physical Force (Part Eleven).md",
+  "notion_id": "3d758200-eb22-816d-8b90-d14e1e94cfd9",
+  "items": [
+   {
+    "page": "Fracture of Worlds — The Living System/III. Physical Force (Part Eleven).md",
+    "kind": "law",
+    "old_str": "**Layer Two: Aether Shell Shielding.** The active Essence field surrounding every practitioner above F-Grade, buffering between incoming force and the body. Density governed by Resilience, particularly Integrity, Hardening and Fortification. The Shell absorbs and redistributes incoming energy across its entire surface before residual force reaches the body. A Shell rated at 5 TJ absorbs 5 TJ across all concurrent attacks before anything reaches flesh.",
+    "new_str": "**Layer Two: Aether Shell Shielding.** The active Essence field surrounding every practitioner above F-Grade, buffering between incoming force and the body, worn as a coat of the practitioner's own aura. Density governed by Resilience, particularly Integrity, Hardening and Fortification. Held evenly, the Shell absorbs and redistributes incoming energy across its entire surface before residual force reaches the body, and a Shell rated at 5 TJ absorbs 5 TJ across all concurrent attacks before anything reaches flesh. It can be thickened where a blow is expected, at the price of leaving the rest thin, and reading where it went is half of reading the fighter. It is held, not owned: asleep, drugged or taken by surprise, a practitioner keeps the passive hardness of Layer One and loses this layer entirely.",
+    "why": "active reinforcement over a passive base: aura coat, focusable, leaves gaps, lost off guard (R78-9)",
+    "src": "C"
+   },
+   {
+    "page": "Fracture of Worlds — The Living System/III. Physical Force (Part Eleven).md",
+    "kind": "gloss",
+    "old_str": "A Sage Art technique delivers force",
+    "new_str": "A Sage Art (a working drawn from the Wellspring running through the ground) technique delivers force",
+    "why": "first use of Sage Art; defined only on Part V",
+    "src": "C"
+   },
+   {
+    "page": "Fracture of Worlds — The Living System/III. Physical Force (Part Eleven).md",
+    "kind": "gloss",
+    "old_str": "experiences Overchannel events, Backlash,",
+    "new_str": "experiences Overchannel (forcing more output than the Crystal can safely sustain) events, Backlash,",
+    "why": "first use of Overchannel",
+    "src": "C"
+   },
+   {
+    "page": "Fracture of Worlds — The Living System/III. Physical Force (Part Eleven).md",
+    "kind": "gloss",
+    "old_str": "A Fixatio-anchored barrier",
+    "new_str": "A Fixatio-anchored (anchored on Fixatio, the Wellspring of binding) barrier",
+    "why": "first use of Fixatio",
+    "src": "C"
+   },
+   {
+    "page": "Fracture of Worlds — The Living System/III. Physical Force (Part Eleven).md",
+    "kind": "gloss",
+    "old_str": "A tightly compressed Coagulatio-based force lance",
+    "new_str": "A tightly compressed Coagulatio-based (drawn from Coagulatio, a Wellspring that gathers and densifies) force lance",
+    "why": "first use of Coagulatio",
+    "src": "C"
+   },
+   {
+    "page": "Fracture of Worlds — The Living System/III. Physical Force (Part Eleven).md",
+    "kind": "gloss",
+    "old_str": "A broadly dispersed Pyreveil-based detonation wave",
+    "new_str": "A broadly dispersed Pyreveil-based (drawn from Pyreveil, a fire Wellspring) detonation wave",
+    "why": "first use of Pyreveil",
+    "src": "C"
+   },
+   {
+    "page": "Fracture of Worlds — The Living System/III. Physical Force (Part Eleven).md",
+    "kind": "gloss",
+    "old_str": "an eighteenth at Active Concentration,",
+    "new_str": "an eighteenth at Active Concentration (ground near a Wellspring, thick with Aether),",
+    "why": "first use of Active Concentration",
+    "src": "C"
+   }
+  ]
+ },
+ {
+  "page": "Fracture of Worlds — The Living System/V. Wellsprings, Attraction and Obsession, Magic Integration (Parts Thirteen–Fifteen).md",
+  "notion_id": "3d758200-eb22-814e-bff3-fd58ca5b26f4",
+  "items": [
+   {
+    "page": "Fracture of Worlds — The Living System/V. Wellsprings, Attraction and Obsession, Magic Integration (Parts Thirteen–Fifteen).md",
+    "kind": "gloss",
+    "old_str": "or through a **Compound Trait** that integrates the contradiction.",
+    "new_str": "or through a **Compound Trait** (a Trait fusing two or more laws into one) that integrates the contradiction.",
+    "why": "first use of Compound Trait",
+    "src": "C"
+   }
+  ]
+ },
+ {
+  "page": "Fracture of Worlds — The Living System/VI. The Sixteen Temperance Stages (Part Sixteen).md",
+  "notion_id": "3d758200-eb22-8151-8fc1-ebca5eb525f1",
+  "items": [
+   {
+    "page": "Fracture of Worlds — The Living System/VI. The Sixteen Temperance Stages (Part Sixteen).md",
+    "kind": "law",
+    "old_str": "They are structural reorganizations the Crystal undergoes when the pressure of accumulated experience exceeds the architecture's current capacity.",
+    "new_str": "They are structural reorganizations the Crystal undergoes when the pressure of accumulated experience exceeds the architecture's current capacity. That pressure is brought to the break by three roads, crisis, seclusion before the Threshold, or tribulation, and most practitioners walk some of each; the Catalyst named under each Stage is the moment the break is met, whichever road led there.",
+    "why": "Catalysts read as crisis-only; breakthroughs now come by crisis, seclusion or tribulation (R78-7)",
+    "src": "D"
+   },
+   {
+    "page": "Fracture of Worlds — The Living System/VI. The Sixteen Temperance Stages (Part Sixteen).md",
+    "kind": "gloss",
+    "old_str": "Each Stage is a qualitative transformation in the Crystal's architecture.",
+    "new_str": "Each Stage is a qualitative transformation in the architecture of the Crystal (the Soul Crystal, the soul's organ of power).",
+    "why": "Crystal unexplained at first use",
+    "src": "D"
+   },
+   {
+    "page": "Fracture of Worlds — The Living System/VI. The Sixteen Temperance Stages (Part Sixteen).md",
+    "kind": "gloss",
+    "old_str": "ceiling into the Apotheosis approach.",
+    "new_str": "ceiling into the Apotheosis approach (the climb from mortal soul toward becoming an Archon).",
+    "why": "Apotheosis unexplained",
+    "src": "D"
+   },
+   {
+    "page": "Fracture of Worlds — The Living System/VI. The Sixteen Temperance Stages (Part Sixteen).md",
+    "kind": "gloss",
+    "old_str": "Essence stirs but cannot be directed.",
+    "new_str": "Essence (the soul's own power) stirs but cannot be directed.",
+    "why": "Essence unexplained",
+    "src": "D"
+   },
+   {
+    "page": "Fracture of Worlds — The Living System/VI. The Sixteen Temperance Stages (Part Sixteen).md",
+    "kind": "gloss",
+    "old_str": "All Sub-Stats present but volatile.",
+    "new_str": "All Sub-Stats (the sixty-four finer stats beneath the eight Primaries) present but volatile.",
+    "why": "Sub-Stats unexplained",
+    "src": "D"
+   },
+   {
+    "page": "Fracture of Worlds — The Living System/VI. The Sixteen Temperance Stages (Part Sixteen).md",
+    "kind": "gloss",
+    "old_str": "**Max Grade E. Ceiling 50.**",
+    "new_str": "**Max Grade E. Ceiling 50.** (Max Grade: the highest letter rank of output; Ceiling: the highest stat value.)",
+    "why": "Max Grade and Ceiling unexplained",
+    "src": "D"
+   },
+   {
+    "page": "Fracture of Worlds — The Living System/VI. The Sixteen Temperance Stages (Part Sixteen).md",
+    "kind": "gloss",
+    "old_str": "The Aether Shell is forming but porous.",
+    "new_str": "The Aether Shell (the soul's outer layer, which passes power out into the world) is forming but porous.",
+    "why": "Aether Shell unexplained",
+    "src": "D"
+   },
+   {
+    "page": "Fracture of Worlds — The Living System/VI. The Sixteen Temperance Stages (Part Sixteen).md",
+    "kind": "gloss",
+    "old_str": "*Catalyst:* first genuine contact with a Wellspring current under personal pressure.",
+    "new_str": "*Catalyst* (the event that sets off the breakthrough)*:* first genuine contact with a Wellspring (a natural source of magical current) current under personal pressure.",
+    "why": "Catalyst and Wellspring unexplained",
+    "src": "D"
+   },
+   {
+    "page": "Fracture of Worlds — The Living System/VI. The Sixteen Temperance Stages (Part Sixteen).md",
+    "kind": "gloss",
+    "old_str": "The Path becomes visible.",
+    "new_str": "The Path (the practitioner's road of development) becomes visible.",
+    "why": "Path unexplained",
+    "src": "D"
+   },
+   {
+    "page": "Fracture of Worlds — The Living System/VI. The Sixteen Temperance Stages (Part Sixteen).md",
+    "kind": "gloss",
+    "old_str": "The first genuine Spirit Axis bonds become mechanically possible.",
+    "new_str": "The first genuine Spirit Axis bonds (bonds with another soul that carry real weight) become mechanically possible.",
+    "why": "Spirit Axis unexplained",
+    "src": "D"
+   },
+   {
+    "page": "Fracture of Worlds — The Living System/VI. The Sixteen Temperance Stages (Part Sixteen).md",
+    "kind": "gloss",
+    "old_str": "**Aether Class emerges and the Echo field forms.**",
+    "new_str": "**Aether Class (how cleanly the soul passes power outward) emerges and the Echo field forms.**",
+    "why": "Aether Class unexplained",
+    "src": "D"
+   },
+   {
+    "page": "Fracture of Worlds — The Living System/VI. The Sixteen Temperance Stages (Part Sixteen).md",
+    "kind": "gloss",
+    "old_str": "Domain seeds become structurally stable.",
+    "new_str": "Domain (a space where a soul's inner law becomes local reality) seeds become structurally stable.",
+    "why": "Domain unexplained",
+    "src": "D"
+   },
+   {
+    "page": "Fracture of Worlds — The Living System/VI. The Sixteen Temperance Stages (Part Sixteen).md",
+    "kind": "gloss",
+    "old_str": "Gnosis Sub-Stats undergo a qualitative jump",
+    "new_str": "Gnosis (the Primary stat for perception and understanding) Sub-Stats undergo a qualitative jump",
+    "why": "Gnosis unexplained",
+    "src": "D"
+   },
+   {
+    "page": "Fracture of Worlds — The Living System/VI. The Sixteen Temperance Stages (Part Sixteen).md",
+    "kind": "gloss",
+    "old_str": "Traits externalize.",
+    "new_str": "Traits (a belief hardened into a personal law of the soul) externalize.",
+    "why": "Trait unexplained",
+    "src": "D"
+   },
+   {
+    "page": "Fracture of Worlds — The Living System/VI. The Sixteen Temperance Stages (Part Sixteen).md",
+    "kind": "gloss",
+    "old_str": "Ardency and Harmonics undergo a qualitative shift",
+    "new_str": "Ardency (the stat for raw power output) and Harmonics (the stat for drawing on outside Aether) undergo a qualitative shift",
+    "why": "Ardency and Harmonics unexplained",
+    "src": "D"
+   },
+   {
+    "page": "Fracture of Worlds — The Living System/VI. The Sixteen Temperance Stages (Part Sixteen).md",
+    "kind": "gloss",
+    "old_str": "Wellsprings, Titans or Archonic law as co-authors",
+    "new_str": "Wellsprings, Titans or Archonic law (the law of the Archons, the world's fourteen great powers) as co-authors",
+    "why": "Archon unexplained",
+    "src": "D"
+   },
+   {
+    "page": "Fracture of Worlds — The Living System/VI. The Sixteen Temperance Stages (Part Sixteen).md",
+    "kind": "gloss",
+    "old_str": "The Domain becomes a reality the Continuum must accommodate rather than merely permit.",
+    "new_str": "The Domain becomes a reality the Continuum (the whole fabric of reality) must accommodate rather than merely permit.",
+    "why": "Continuum unexplained",
+    "src": "D"
+   },
+   {
+    "page": "Fracture of Worlds — The Living System/VI. The Sixteen Temperance Stages (Part Sixteen).md",
+    "kind": "gloss",
+    "old_str": "Dominion undergoes its most significant jump.",
+    "new_str": "Dominion (the stat for presence and pressure on others) undergoes its most significant jump.",
+    "why": "Dominion unexplained",
+    "src": "D"
+   }
+  ]
+ },
+ {
+  "page": "Fracture of Worlds — The Living System/VII. Aether Class, Essence Typology, Aether Flow (Parts Seventeen–Nineteen).md",
+  "notion_id": "3d758200-eb22-8125-b9f4-f85adcd2a482",
+  "items": [
+   {
+    "page": "Fracture of Worlds — The Living System/VII. Aether Class, Essence Typology, Aether Flow (Parts Seventeen–Nineteen).md",
+    "kind": "copy",
+    "old_str": "The calendar turn of fourteen days is another word.",
+    "new_str": "The calendar turn of fourteen days is another thing that shares the name.",
+    "why": "broken sentence",
+    "src": "D"
+   },
+   {
+    "page": "Fracture of Worlds — The Living System/VII. Aether Class, Essence Typology, Aether Flow (Parts Seventeen–Nineteen).md",
+    "kind": "law",
+    "src": "M",
+    "why": "R78-10 fight Drafts refill",
+    "old_str": "An alchemical treatment only quickens the draw from the ground and the Wellspring; no Draft carries Essence into a reserve.",
+    "new_str": "An alchemical treatment quickens the draw from the ground and the Wellspring, and a fight Draft (a dose brewed for battle) pours Essence straight back into a reserve, taking its price in the crash that follows."
+   },
+   {
+    "page": "Fracture of Worlds — The Living System/VII. Aether Class, Essence Typology, Aether Flow (Parts Seventeen–Nineteen).md",
+    "kind": "gloss",
+    "old_str": "Temperance measures refinement of the Essence Core on the Soul Plane.",
+    "new_str": "Temperance (the soul's inner refinement, climbed in sixteen Stages) measures refinement of the Essence Core (the soul's innermost layer, its emotional truth) on the Soul Plane (the layer of existence where law becomes felt truth).",
+    "why": "Temperance, Essence Core, Soul Plane unexplained",
+    "src": "D"
+   },
+   {
+    "page": "Fracture of Worlds — The Living System/VII. Aether Class, Essence Typology, Aether Flow (Parts Seventeen–Nineteen).md",
+    "kind": "gloss",
+    "old_str": "near-instant Formation.",
+    "new_str": "near-instant Formation (the moment a working takes shape).",
+    "why": "Formation unexplained",
+    "src": "D"
+   },
+   {
+    "page": "Fracture of Worlds — The Living System/VII. Aether Class, Essence Typology, Aether Flow (Parts Seventeen–Nineteen).md",
+    "kind": "gloss",
+    "old_str": "No stat output above Hollow Grade is possible.",
+    "new_str": "No stat output above Hollow Grade (the lowest output rank, below F) is possible.",
+    "why": "Hollow Grade unexplained",
+    "src": "D"
+   },
+   {
+    "page": "Fracture of Worlds — The Living System/VII. Aether Class, Essence Typology, Aether Flow (Parts Seventeen–Nineteen).md",
+    "kind": "gloss",
+    "old_str": "the coil reads no Class",
+    "new_str": "the coil (the instrument that assays a soul) reads no Class",
+    "why": "coil unexplained",
+    "src": "D"
+   },
+   {
+    "page": "Fracture of Worlds — The Living System/VII. Aether Class, Essence Typology, Aether Flow (Parts Seventeen–Nineteen).md",
+    "kind": "gloss",
+    "old_str": "Wellspring whispers find purchase.",
+    "new_str": "Wellspring (a natural source of magical current) whispers find purchase.",
+    "why": "Wellspring unexplained",
+    "src": "D"
+   },
+   {
+    "page": "Fracture of Worlds — The Living System/VII. Aether Class, Essence Typology, Aether Flow (Parts Seventeen–Nineteen).md",
+    "kind": "gloss",
+    "old_str": "Dual-casting, Synergia and complex techniques",
+    "new_str": "Dual-casting, Synergia (power born when several souls or forces resonate together) and complex techniques",
+    "why": "Synergia unexplained",
+    "src": "D"
+   },
+   {
+    "page": "Fracture of Worlds — The Living System/VII. Aether Class, Essence Typology, Aether Flow (Parts Seventeen–Nineteen).md",
+    "kind": "gloss",
+    "old_str": "hold Domains against collapse and speak Parun motifs into matter",
+    "new_str": "hold Domains (a space where a soul's inner law becomes local reality) against collapse and speak Parun (the tongue law is written in) motifs into matter",
+    "why": "Domain and Parun unexplained",
+    "src": "D"
+   },
+   {
+    "page": "Fracture of Worlds — The Living System/VII. Aether Class, Essence Typology, Aether Flow (Parts Seventeen–Nineteen).md",
+    "kind": "gloss",
+    "old_str": "Archons, Titans and World Spirits who have crossed",
+    "new_str": "Archons (the world's fourteen great powers), Titans and World Spirits who have crossed",
+    "why": "Archon unexplained",
+    "src": "D"
+   },
+   {
+    "page": "Fracture of Worlds — The Living System/VII. Aether Class, Essence Typology, Aether Flow (Parts Seventeen–Nineteen).md",
+    "kind": "gloss",
+    "old_str": "Mechanica and ritual that widen",
+    "new_str": "Mechanica (engineered magitech) and ritual that widen",
+    "why": "Mechanica unexplained",
+    "src": "D"
+   },
+   {
+    "page": "Fracture of Worlds — The Living System/VII. Aether Class, Essence Typology, Aether Flow (Parts Seventeen–Nineteen).md",
+    "kind": "gloss",
+    "old_str": "how Traits form and behave",
+    "new_str": "how Traits (a belief hardened into a personal law of the soul) form and behave",
+    "why": "Trait unexplained",
+    "src": "D"
+   },
+   {
+    "page": "Fracture of Worlds — The Living System/VII. Aether Class, Essence Typology, Aether Flow (Parts Seventeen–Nineteen).md",
+    "kind": "gloss",
+    "old_str": "A Stage's practitioners usually stand in its Band's cluster of Levels",
+    "new_str": "A Stage's practitioners usually stand in its Band's (a span of a hundred Levels) cluster of Levels",
+    "why": "Band unexplained",
+    "src": "D"
+   },
+   {
+    "page": "Fracture of Worlds — The Living System/VII. Aether Class, Essence Typology, Aether Flow (Parts Seventeen–Nineteen).md",
+    "kind": "gloss",
+    "old_str": "without its next Threshold, and it is hard",
+    "new_str": "without its next Threshold (the breakthrough that opens the next Stage), and it is hard",
+    "why": "Threshold unexplained",
+    "src": "D"
+   },
+   {
+    "page": "Fracture of Worlds — The Living System/VII. Aether Class, Essence Typology, Aether Flow (Parts Seventeen–Nineteen).md",
+    "kind": "gloss",
+    "old_str": "The same bands rolled up by Tier of Standing are in Part Twenty-Three.",
+    "new_str": "The same bands rolled up by Tier of Standing (one of nine broad ranks grouping the sixteen Stages) are in Part Twenty-Three.",
+    "why": "Tier of Standing unexplained",
+    "src": "D"
+   },
+   {
+    "page": "Fracture of Worlds — The Living System/VII. Aether Class, Essence Typology, Aether Flow (Parts Seventeen–Nineteen).md",
+    "kind": "gloss",
+    "old_str": "negligible in Silence Realms.",
+    "new_str": "negligible in Silence Realms (places where the Aether is dead).",
+    "why": "Silence Realm unexplained",
+    "src": "D"
+   }
+  ]
+ },
+ {
+  "page": "Fracture of Worlds — The Living System/VIII. Traits, Soul Crystal Tiers, Domains (Parts Twenty–Twenty-Two).md",
+  "notion_id": "3d758200-eb22-81d0-a367-f18213037668",
+  "items": [
+   {
+    "page": "Fracture of Worlds — The Living System/VIII. Traits, Soul Crystal Tiers, Domains (Parts Twenty–Twenty-Two).md",
+    "kind": "gloss",
+    "old_str": "conviction and Temperance align so completely that the Continuum begins responding",
+    "new_str": "conviction and Temperance (the soul's refinement, climbed in sixteen Stages) align so completely that the Continuum (the whole fabric of reality) begins responding",
+    "why": "Temperance and Continuum unexplained",
+    "src": "D"
+   },
+   {
+    "page": "Fracture of Worlds — The Living System/VIII. Traits, Soul Crystal Tiers, Domains (Parts Twenty–Twenty-Two).md",
+    "kind": "gloss",
+    "old_str": "when the Crystal's three layers stop merely holding",
+    "new_str": "when the three layers of the Crystal (the Soul Crystal, the soul's organ of power) stop merely holding",
+    "why": "Crystal unexplained",
+    "src": "D"
+   },
+   {
+    "page": "Fracture of Worlds — The Living System/VIII. Traits, Soul Crystal Tiers, Domains (Parts Twenty–Twenty-Two).md",
+    "kind": "gloss",
+    "old_str": "Formed from soul Typology, origin",
+    "new_str": "Formed from soul Typology (the soul's natural bias toward one of eight elemental Families), origin",
+    "why": "Typology unexplained",
+    "src": "D"
+   },
+   {
+    "page": "Fracture of Worlds — The Living System/VIII. Traits, Soul Crystal Tiers, Domains (Parts Twenty–Twenty-Two).md",
+    "kind": "gloss",
+    "old_str": "sustained Wellspring exposure",
+    "new_str": "sustained Wellspring (a natural source of magical current) exposure",
+    "why": "Wellspring unexplained",
+    "src": "D"
+   },
+   {
+    "page": "Fracture of Worlds — The Living System/VIII. Traits, Soul Crystal Tiers, Domains (Parts Twenty–Twenty-Two).md",
+    "kind": "gloss",
+    "old_str": "lineage purity, Domain alignment",
+    "new_str": "lineage purity, Domain (a space where a soul's inner law becomes local reality) alignment",
+    "why": "Domain unexplained at first use",
+    "src": "D"
+   },
+   {
+    "page": "Fracture of Worlds — The Living System/VIII. Traits, Soul Crystal Tiers, Domains (Parts Twenty–Twenty-Two).md",
+    "kind": "gloss",
+    "old_str": "marked by Archons, Titans or World Spirit Realms",
+    "new_str": "marked by Archons (the world's fourteen great powers), Titans or World Spirit Realms",
+    "why": "Archon unexplained",
+    "src": "D"
+   },
+   {
+    "page": "Fracture of Worlds — The Living System/VIII. Traits, Soul Crystal Tiers, Domains (Parts Twenty–Twenty-Two).md",
+    "kind": "gloss",
+    "old_str": "Temperance Stages or Aether Classes.",
+    "new_str": "Temperance Stages or Aether Classes (grades of how cleanly the soul passes power outward).",
+    "why": "Aether Class unexplained",
+    "src": "D"
+   },
+   {
+    "page": "Fracture of Worlds — The Living System/VIII. Traits, Soul Crystal Tiers, Domains (Parts Twenty–Twenty-Two).md",
+    "kind": "gloss",
+    "old_str": "the Tier of Standing such an alchemist holds",
+    "new_str": "the Tier of Standing (one of nine broad ranks grouping the sixteen Stages) such an alchemist holds",
+    "why": "Tier of Standing unexplained",
+    "src": "D"
+   },
+   {
+    "page": "Fracture of Worlds — The Living System/VIII. Traits, Soul Crystal Tiers, Domains (Parts Twenty–Twenty-Two).md",
+    "kind": "gloss",
+    "old_str": "claims territory on the Plane of Fate",
+    "new_str": "claims territory on the Plane of Fate (the deepest layer of existence, where all possibility rests)",
+    "why": "Plane of Fate unexplained",
+    "src": "D"
+   },
+   {
+    "page": "Fracture of Worlds — The Living System/VIII. Traits, Soul Crystal Tiers, Domains (Parts Twenty–Twenty-Two).md",
+    "kind": "gloss",
+    "old_str": "sufficient Temperance, Dominion development",
+    "new_str": "sufficient Temperance, Dominion (the stat for presence and pressure on others) development",
+    "why": "Dominion unexplained",
+    "src": "D"
+   }
+  ]
+ },
+ {
+  "page": "Fracture of Worlds — The Living System/IX. The Essence Ledger (Part Twenty-Three).md",
+  "notion_id": "3e758200-eb22-81d4-9e1d-f161b3ed583a",
+  "items": [
+   {
+    "page": "Fracture of Worlds — The Living System/IX. The Essence Ledger (Part Twenty-Three).md",
+    "kind": "copy",
+    "old_str": "A Initiate Initiate's whole ceiling",
+    "new_str": "An Initiate's whole ceiling",
+    "why": "doubled word, wrong article",
+    "src": "D"
+   },
+   {
+    "page": "Fracture of Worlds — The Living System/IX. The Essence Ledger (Part Twenty-Three).md",
+    "kind": "copy",
+    "old_str": "**Small: a small practitioner, Stage IV, Adept Adept.**",
+    "new_str": "**Small: a small practitioner, Stage IV, Adept.**",
+    "why": "doubled word",
+    "src": "D"
+   },
+   {
+    "page": "Fracture of Worlds — The Living System/IX. The Essence Ledger (Part Twenty-Three).md",
+    "kind": "copy",
+    "old_str": "Stage XIII, Archmaster Archmaster.**",
+    "new_str": "Stage XIII, Archmaster.**",
+    "why": "doubled word",
+    "src": "D"
+   },
+   {
+    "page": "Fracture of Worlds — The Living System/IX. The Essence Ledger (Part Twenty-Three).md",
+    "kind": "copy",
+    "old_str": "Stage XII, Grandmaster Grandmaster.**",
+    "new_str": "Stage XII, Grandmaster.**",
+    "why": "doubled word",
+    "src": "D"
+   },
+   {
+    "page": "Fracture of Worlds — The Living System/IX. The Essence Ledger (Part Twenty-Three).md",
+    "kind": "copy",
+    "old_str": "His reserve drains at the same rate as anyone's",
+    "new_str": "Their reserve drains at the same rate as anyone's",
+    "why": "stray pronoun from a named practitioner",
+    "src": "D"
+   },
+   {
+    "page": "Fracture of Worlds — The Living System/IX. The Essence Ledger (Part Twenty-Three).md",
+    "kind": "copy",
+    "old_str": "and it is the number a player on that side of the table needs.",
+    "new_str": "and it is the number anyone across the fight from them needs.",
+    "why": "out-of-world reference to players and a table",
+    "src": "D"
+   },
+   {
+    "page": "Fracture of Worlds — The Living System/IX. The Essence Ledger (Part Twenty-Three).md",
+    "kind": "copy",
+    "old_str": "Every ladder of the setting (beasts",
+    "new_str": "Every ladder in the Continuum (beasts",
+    "why": "out-of-world word 'setting'",
+    "src": "D"
+   },
+   {
+    "page": "Fracture of Worlds — The Living System/IX. The Essence Ledger (Part Twenty-Three).md",
+    "kind": "copy",
+    "old_str": "#### The constant: what one EU is worth",
+    "new_str": "### The constant: what one EU is worth",
+    "why": "section heading flattened to the level of its first subheading, so two headings stack",
+    "src": "D"
+   },
+   {
+    "page": "Fracture of Worlds — The Living System/IX. The Essence Ledger (Part Twenty-Three).md",
+    "kind": "copy",
+    "old_str": "#### Reserve bands by Stage and by Tier of Standing",
+    "new_str": "### Reserve bands by Stage and by Tier of Standing",
+    "why": "section heading flattened to the level of its first subheading, so two headings stack",
+    "src": "D"
+   },
+   {
+    "page": "Fracture of Worlds — The Living System/IX. The Essence Ledger (Part Twenty-Three).md",
+    "kind": "copy",
+    "old_str": "#### AU/s as power: how long the output holds",
+    "new_str": "### AU/s as power: how long the output holds",
+    "why": "section heading flattened to the level of its first subheading, so two headings stack",
+    "src": "D"
+   },
+   {
+    "page": "Fracture of Worlds — The Living System/IX. The Essence Ledger (Part Twenty-Three).md",
+    "kind": "copy",
+    "old_str": "#### Flux Density and η",
+    "new_str": "### Flux Density and η",
+    "why": "section heading flattened to the level of its first subheading, so two headings stack",
+    "src": "D"
+   },
+   {
+    "page": "Fracture of Worlds — The Living System/IX. The Essence Ledger (Part Twenty-Three).md",
+    "kind": "copy",
+    "old_str": "#### Essence Starvation and recovery",
+    "new_str": "### Essence Starvation and recovery",
+    "why": "section heading flattened to the level of its first subheading, so two headings stack",
+    "src": "D"
+   },
+   {
+    "page": "Fracture of Worlds — The Living System/IX. The Essence Ledger (Part Twenty-Three).md",
+    "kind": "law",
+    "old_str": "no field pressure, aura warmth or harmonic noise leaks outward from them, which says that from everyone below one it does.",
+    "new_str": "no waste heat, aura warmth or harmonic noise leaks outward from them, which says that from everyone below one it does. Their aura still shows in its own colour, and their strength can still be felt; it simply sheds nothing.",
+    "why": "auras visible in own colour and strength openly sensed (R78-6)",
+    "src": "D"
+   },
+   {
+    "page": "Fracture of Worlds — The Living System/IX. The Essence Ledger (Part Twenty-Three).md",
+    "kind": "law",
+    "old_str": "A low-η practitioner is brighter for the same work. A high-η one is nearly dark, which is why a quiet practitioner is remarked on, and why one working in silence and in the cold should frighten a reader more, not less.",
+    "new_str": "A low-η practitioner throws more heat and glare for the same work. A high-η one sheds almost none: their aura still burns in its own colour and brightens as they push, but it gives off no heat, which is why a cool, quiet aura is remarked on, and why one working in silence and in the cold should frighten an onlooker more, not less.",
+    "why": "'nearly dark' contradicts visible coloured aura brightening as they push (R78-6); also drops out-of-world 'a reader'",
+    "src": "D"
+   },
+   {
+    "page": "Fracture of Worlds — The Living System/IX. The Essence Ledger (Part Twenty-Three).md",
+    "kind": "law",
+    "src": "M",
+    "why": "R78-10 fight Drafts refill",
+    "old_str": "An alchemical treatment only quickens the draw from the ground and the Wellspring; no Draft carries Essence into a reserve.",
+    "new_str": "An alchemical treatment quickens the draw from the ground and the Wellspring, and a fight Draft (a dose brewed for battle) pours Essence straight back into a reserve, taking its price in the crash that follows."
+   },
+   {
+    "page": "Fracture of Worlds — The Living System/IX. The Essence Ledger (Part Twenty-Three).md",
+    "kind": "gloss",
+    "old_str": "every practitioner in the Continuum",
+    "new_str": "every practitioner in the Continuum (the whole fabric of reality)",
+    "why": "Continuum unexplained",
+    "src": "D"
+   },
+   {
+    "page": "Fracture of Worlds — The Living System/IX. The Essence Ledger (Part Twenty-Three).md",
+    "kind": "gloss",
+    "old_str": "stored in the Crystal at any moment. It scales with Temperance Stage and",
+    "new_str": "stored in the Crystal (the Soul Crystal, the soul's organ of power) at any moment. It scales with Temperance Stage (one of sixteen rungs of the soul's refinement) and",
+    "why": "Crystal and Temperance Stage unexplained",
+    "src": "D"
+   },
+   {
+    "page": "Fracture of Worlds — The Living System/IX. The Essence Ledger (Part Twenty-Three).md",
+    "kind": "gloss",
+    "old_str": "the Crystal refills to. Operating below **ten percent EU** produces Essence Starvation: reduced stat expression, Shell degradation, Trait flickering.",
+    "new_str": "the Crystal refills to. Operating below **ten percent EU** produces Essence Starvation: reduced stat expression, Shell (the soul's outer layer, which passes power out into the world) degradation, Trait (a belief hardened into a personal law of the soul) flickering.",
+    "why": "Shell and Trait unexplained",
+    "src": "D"
+   },
+   {
+    "page": "Fracture of Worlds — The Living System/IX. The Essence Ledger (Part Twenty-Three).md",
+    "kind": "gloss",
+    "old_str": "summons, Domains, Wellspring sites, weapons and armour) hangs",
+    "new_str": "summons, Domains (a space where a soul's inner law becomes local reality), Wellspring (a natural source of magical current) sites, weapons and armour) hangs",
+    "why": "Domain and Wellspring unexplained",
+    "src": "D"
+   },
+   {
+    "page": "Fracture of Worlds — The Living System/IX. The Essence Ledger (Part Twenty-Three).md",
+    "kind": "gloss",
+    "old_str": "Part Five gives each Stage a Max Grade and a Tier of Standing.",
+    "new_str": "Part Five gives each Stage a Max Grade and a Tier of Standing (one of nine broad ranks grouping the sixteen Stages).",
+    "why": "Tier of Standing unexplained",
+    "src": "D"
+   },
+   {
+    "page": "Fracture of Worlds — The Living System/IX. The Essence Ledger (Part Twenty-Three).md",
+    "kind": "gloss",
+    "old_str": "the Band gates, which a Stage must pass",
+    "new_str": "the Band (a span of a hundred Levels) gates, which a Stage must pass",
+    "why": "Band unexplained",
+    "src": "D"
+   },
+   {
+    "page": "Fracture of Worlds — The Living System/IX. The Essence Ledger (Part Twenty-Three).md",
+    "kind": "gloss",
+    "old_str": "the Temperance Threshold that cluster demands, and the System halts the level counter and builds Residual Strain until",
+    "new_str": "the Temperance Threshold (the breakthrough that opens the next Stage) that cluster demands, and the System halts the level counter and builds Residual Strain (pressure that keeps arriving after the counter halts) until",
+    "why": "Threshold and Residual Strain unexplained",
+    "src": "D"
+   },
+   {
+    "page": "Fracture of Worlds — The Living System/IX. The Essence Ledger (Part Twenty-Three).md",
+    "kind": "gloss",
+    "old_str": "The Measurewrights' old Harmonic faculty",
+    "new_str": "The Measurewrights' (the assayers who measure souls and workings) old Harmonic faculty",
+    "why": "Measurewrights unexplained",
+    "src": "D"
+   },
+   {
+    "page": "Fracture of Worlds — The Living System/IX. The Essence Ledger (Part Twenty-Three).md",
+    "kind": "gloss",
+    "old_str": "is ranked by the Sub-Stat column, not by joules.",
+    "new_str": "is ranked by the Sub-Stat (one of the sixty-four finer stats) column, not by joules.",
+    "why": "Sub-Stat unexplained",
+    "src": "D"
+   },
+   {
+    "page": "Fracture of Worlds — The Living System/IX. The Essence Ledger (Part Twenty-Three).md",
+    "kind": "gloss",
+    "old_str": "a depleted site or a Silence Realm leaves nothing",
+    "new_str": "a depleted site or a Silence Realm (a place where the Aether is dead) leaves nothing",
+    "why": "Silence Realm unexplained",
+    "src": "D"
+   }
+  ]
+ },
+ {
+  "page": "Fracture of Worlds — The Living System/X. The Tier Ladders (Part Twenty-Four).md",
+  "notion_id": "3e758200-eb22-8127-a7c2-ece5680c1889",
+  "items": [
+   {
+    "page": "Fracture of Worlds — The Living System/X. The Tier Ladders (Part Twenty-Four).md",
+    "kind": "copy",
+    "old_str": "a Expert holder",
+    "new_str": "an Expert holder",
+    "why": "wrong article",
+    "src": "D"
+   },
+   {
+    "page": "Fracture of Worlds — The Living System/X. The Tier Ladders (Part Twenty-Four).md",
+    "kind": "copy",
+    "old_str": "A period revolver's ball",
+    "new_str": "A common revolver's ball",
+    "why": "out-of-world word 'period'",
+    "src": "D"
+   },
+   {
+    "page": "Fracture of Worlds — The Living System/X. The Tier Ladders (Part Twenty-Four).md",
+    "kind": "law",
+    "old_str": "Most arms in the four quarters are Bearing-grade material with no Essence in them, and they perform as their physics.",
+    "new_str": "Plain arms in the four quarters are Bearing-grade material with no Essence in them, and they perform as their physics; cheap runed pieces are nearly as common, and the great pieces are old and rare.",
+    "why": "cheap runed gear is common, great pieces old (R78-9)",
+    "src": "D"
+   },
+   {
+    "page": "Fracture of Worlds — The Living System/X. The Tier Ladders (Part Twenty-Four).md",
+    "kind": "law",
+    "old_str": "**every piece of it costs a practitioner's reserve**, which is why a line is equipped to it one man at a time.",
+    "new_str": "**every piece of it costs a practitioner's reserve**, but a maker's reserve comes back by the hour, so the workshops turn it out cheap and a whole line can be kitted to it.",
+    "why": "cheap runed gear is common (R78-9)",
+    "src": "D"
+   },
+   {
+    "page": "Fracture of Worlds — The Living System/X. The Tier Ladders (Part Twenty-Four).md",
+    "kind": "law",
+    "old_str": "Kingdoms go to war over a Kingsarm and keep the house that made it.",
+    "new_str": "Kingdoms go to war over a Kingsarm, because most were made long ago and few smiths now living could make another.",
+    "why": "great pieces are old, rare and cannot be remade (R78-9)",
+    "src": "D"
+   },
+   {
+    "page": "Fracture of Worlds — The Living System/X. The Tier Ladders (Part Twenty-Four).md",
+    "kind": "law",
+    "old_str": "A practitioner can equip themselves and cannot equip an army.",
+    "new_str": "A lone practitioner can equip themselves; it takes a workshop of them to arm a host with cheap runed pieces, and no workshop now living makes the great ones.",
+    "why": "cheap runed gear common, great pieces cannot be remade (R78-9)",
+    "src": "D"
+   },
+   {
+    "page": "Fracture of Worlds — The Living System/X. The Tier Ladders (Part Twenty-Four).md",
+    "kind": "law",
+    "src": "M",
+    "why": "R78-10 fight Drafts refill",
+    "old_str": "**No dose refills a reserve.** A practitioner is refilled by a Wellspring or not at all, and a Draft drunk on an empty reserve mends the body and steadies the Shell and leaves the reserve as empty as it found it.",
+    "new_str": "**Only a fight Draft refills a reserve.** Otherwise a practitioner is refilled by rest, the ground and the Wellsprings, and an ordinary Draft drunk on an empty reserve mends the body and steadies the Shell and leaves the reserve as empty as it found it. A fight Draft, poured for the purpose, gives the reserve back at once and takes its price in the crash after."
+   },
+   {
+    "page": "Fracture of Worlds — The Living System/X. The Tier Ladders (Part Twenty-Four).md",
+    "kind": "gloss",
+    "old_str": "Every ladder in the Continuum hangs on one spine",
+    "new_str": "Every ladder in the Continuum (the whole fabric of reality) hangs on one spine",
+    "why": "Continuum unexplained",
+    "src": "D"
+   },
+   {
+    "page": "Fracture of Worlds — The Living System/X. The Tier Ladders (Part Twenty-Four).md",
+    "kind": "gloss",
+    "old_str": "read to a Grade, read to a rung",
+    "new_str": "read to a Grade (a letter rank of output, Hollow up to EX+), read to a rung",
+    "why": "Grade unexplained",
+    "src": "D"
+   },
+   {
+    "page": "Fracture of Worlds — The Living System/X. The Tier Ladders (Part Twenty-Four).md",
+    "kind": "gloss",
+    "old_str": "summons, Domains, Wellspring sites, weapons and armour) and says",
+    "new_str": "summons, Domains (a space where a soul's inner law becomes local reality), Wellspring (a natural source of magical current) sites, weapons and armour) and says",
+    "why": "Domain and Wellspring unexplained at first use",
+    "src": "D"
+   },
+   {
+    "page": "Fracture of Worlds — The Living System/X. The Tier Ladders (Part Twenty-Four).md",
+    "kind": "gloss",
+    "old_str": "before anybody's η touches it",
+    "new_str": "before anybody's η (efficiency: the share of spent Essence that arrives as effect) touches it",
+    "why": "η unexplained",
+    "src": "D"
+   },
+   {
+    "page": "Fracture of Worlds — The Living System/X. The Tier Ladders (Part Twenty-Four).md",
+    "kind": "gloss",
+    "old_str": "on the body, on the Shell, or on the pressure a Crystal builds toward its next Threshold.",
+    "new_str": "on the body, on the Shell (the soul's outer layer, which passes power out into the world), or on the pressure a Crystal builds toward its next Threshold (the breakthrough that opens the next Stage).",
+    "why": "Shell and Threshold unexplained",
+    "src": "D"
+   },
+   {
+    "page": "Fracture of Worlds — The Living System/X. The Tier Ladders (Part Twenty-Four).md",
+    "kind": "gloss",
+    "old_str": "It does not supply a Catalyst, and nothing",
+    "new_str": "It does not supply a Catalyst (the event that sets off a Stage breakthrough), and nothing",
+    "why": "Catalyst unexplained",
+    "src": "D"
+   },
+   {
+    "page": "Fracture of Worlds — The Living System/X. The Tier Ladders (Part Twenty-Four).md",
+    "kind": "gloss",
+    "old_str": "Carry and Fidelity are the Bench's own marks",
+    "new_str": "Carry and Fidelity are the Bench's (the Bench of Attribution, which certifies alchemical lots) own marks",
+    "why": "Bench unexplained",
+    "src": "D"
+   },
+   {
+    "page": "Fracture of Worlds — The Living System/X. The Tier Ladders (Part Twenty-Four).md",
+    "kind": "gloss",
+    "old_str": "through a glyph chain that shapes it",
+    "new_str": "through a glyph (a sigil written into a working) chain that shapes it",
+    "why": "glyph unexplained",
+    "src": "D"
+   },
+   {
+    "page": "Fracture of Worlds — The Living System/X. The Tier Ladders (Part Twenty-Four).md",
+    "kind": "gloss",
+    "old_str": "ends inside any Silence Realm",
+    "new_str": "ends inside any Silence Realm (a place where the Aether is dead)",
+    "why": "Silence Realm unexplained",
+    "src": "D"
+   },
+   {
+    "page": "Fracture of Worlds — The Living System/X. The Tier Ladders (Part Twenty-Four).md",
+    "kind": "gloss",
+    "old_str": "inside the summoner's Concordia field",
+    "new_str": "inside the summoner's Concordia field (a field aligning several souls and forces into one)",
+    "why": "Concordia unexplained",
+    "src": "D"
+   },
+   {
+    "page": "Fracture of Worlds — The Living System/X. The Tier Ladders (Part Twenty-Four).md",
+    "kind": "gloss",
+    "old_str": "Ambient Saturation, low or depleted",
+    "new_str": "Ambient Saturation (how thickly a place is charged with Aether), low or depleted",
+    "why": "Saturation unexplained",
+    "src": "D"
+   },
+   {
+    "page": "Fracture of Worlds — The Living System/X. The Tier Ladders (Part Twenty-Four).md",
+    "kind": "gloss",
+    "old_str": "where the Veil begins to thin",
+    "new_str": "where the Veil (the boundary between the physical and spirit worlds) begins to thin",
+    "why": "Veil unexplained",
+    "src": "D"
+   },
+   {
+    "page": "Fracture of Worlds — The Living System/X. The Tier Ladders (Part Twenty-Four).md",
+    "kind": "gloss",
+    "old_str": "receives Wellspring Baptism whether",
+    "new_str": "receives Wellspring Baptism (a current's forced realignment of the soul) whether",
+    "why": "Wellspring Baptism unexplained",
+    "src": "D"
+   }
+  ]
+ }
+]

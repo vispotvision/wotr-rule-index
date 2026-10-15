@@ -1,0 +1,12 @@
+{
+ "applied_to_notion": [
+  0,
+  1,
+  2,
+  3,
+  4
+ ],
+ "blocked_at": 5,
+ "reason": "Notion workspace free block limit reached 2026-10-15 (entitlement_required)",
+ "pages": "see apply.json index"
+}

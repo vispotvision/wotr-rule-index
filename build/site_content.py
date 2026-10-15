@@ -151,7 +151,8 @@ def dress(rel: str, text: str) -> str:
     body = re.sub(r"!\[\[Assets/Diagrams/([\w-]+)\.svg\]\]",  # inline, so the art draws in the site's own fonts
                   lambda m: '\n\n<figure class="wotr-figure">' + re.sub(r"<svg ", '<svg class="wotr-diagram" role="img" ', pin_fill((WIKI / f"Assets/Diagrams/{m.group(1)}.svg").read_text(encoding="utf-8")), count=1) + "</figure>\n\n", body)
     body = re.sub(r"(?ms)^```mermaid\n(.*?)^```[ \t]*$", lambda m: "\n\n" + pin_fill(chart(m.group(1), rel) or m.group(0)) + "\n\n", body)
-    body = re.sub(r"(?m)((?:^- \[\[[^\n]*\n?){2,})", cards, body)
+    is_hub = "/" in rel and rel.split("/")[-2] == stem
+    body = re.sub(r"(?m)((?:^- \[\[[^\n]*\n?){%d,})" % (1 if is_hub else 2), cards, body)
     body = re.sub(r"(?m)((?:^\*\*[^*\n]{1,60}\*\*\s*[:—–·-][^\n]+\n\n?){4,})",  # a run of "**Term**: meaning" lines
                   glossary, body)
     # a divider straight before a heading doubles the heading's own rule

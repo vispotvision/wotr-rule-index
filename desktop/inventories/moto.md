@@ -67,3 +67,20 @@ A house that holds the offence is inaccuracy, so its heaviest words are verdicts
 | Held by nobody. | Elar-ama: entered as a name nobody stands for. | grave | Only as a verdict after "I revoke the name Moto from you"; as an insult outside that, it is a threat |
 
 **Recurrence, two minimum per Moto scene:** the beads, reached for when no one is watching; the fourteen inclinations and the doorpost scratches; "read" as the verb for a person; the hand on the head and nothing said; "correct" as the whole of praise, and "the offence is inaccuracy" as the whole of blame.
+
+## Release words
+
+What the culture calls a practitioner's First, Second and Third Release (R78-10).
+
+The house's one sound of a finished verdict is the guard settling into the scabbard mouth. A release is that sound run backwards: the blade coming out. These words are the house's and its retainers' for a Trait's release. The eye's own stages are the house's secret and are never called by these words.
+
+| Release | Word | Literal meaning | Who says it |
+|---|---|---|---|
+| First | Koiguchi | Scabbard mouth (literally "carp's mouth"); from koiguchi o kiru, "to cut the scabbard mouth," thumbing the guard free so the blade can be drawn. | Retainers, weapons masters, the Kōkan; Kharven at the Seat say "he's cut the mouth." |
+| Second | Nukimi | A drawn sword; a naked blade out of its scabbard. | The house and its retainers; a man in his Second is "nukimi" and the whole yard is in reach of the edge. |
+| Third | Morote | Both hands; the second hand on the hilt is the current's. | Senior line members, in the old register; retainers repeat it without being sure what it means. |
+| Released (adj.) | Nukimi no | Like a drawn blade; said of a person. | The house; "a nukimi no man" in a Common mouth. |
+
+In a retainer's mouth: "His lordship has cut the koiguchi. Eyes on his hands, not his face, and do not stand where the blade goes."
+
+---

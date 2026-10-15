@@ -278,6 +278,24 @@ The clans swear by the Sky and the fire, curse with the cold, and insult by scar
 
 **Recurrence, two minimum per Kharven scene:** the woodpile and "how's your stack"; the night-stone; "wet wood"; the Thin Weeks; the death-house and the Waiting. Pending entry: "the third bowl" (Brida's shorthand for Class III haemorrhage).
 
+**◆ Release words** (R78-10):
+
+The clans stopped riding when the ground froze through, and they still talk like riders. A release is the horse given its head.
+
+| Release | Word | Literal meaning | Who says it |
+|---|---|---|---|
+| First | Letting the horse run | Giving a held horse its head after a long walk on a short rein. | Anyone; riders and the banner houses' men first. "He's let the horse run." |
+| Second | The grass comes | The open steppe before the freeze, which "when the grass comes" still names. The ground round him turns his, as the steppe once was everyone's. | Elders, and the men who have seen one; said quietly, because the grass is gone. |
+| Third | The Sky on the reins | The Sky takes the reins beside the rider. | Said low and rarely; the old, at the death-house, in the Waiting's stories. Never shouted. |
+| Held past the limit | A horse you cannot feed | From the proverb "Don't saddle a horse you cannot feed": a release forced past its last tenth. | Veterans, of a man who broke himself; also a warning to a young one. |
+| Released (adj.) | Loose-reined | Riding with the rein let out. | Riders, soldiers on the wall. |
+
+Carried-name households (the Keld, the sealers) say **the name stands**: the dead person whose name the bearer carries rises up in him and fights. No native word is on record for it yet.
+
+In a clansman's mouth: "He's let the horse run, Sky take it. Don't stand in front of a running horse, boy."
+
+---
+
 The Accord, Dawi, Moto, Eresse, Expanse, Korvaeth, Stannvaard, Nalūn, Ketsuen, Zettari and Yukari Standing Inventories live at `desktop/inventories/` in the repo (session_start and the MCP's `_inventory` load them by culture automatically; open the file directly if working without the MCP). Anything invented in play gets entered the same session, in the Inventory it belongs to. ◆ Ruled 2026-09-12 (R23-8) and applied: airag is the skin, borts is windmeat, aaruul is stonecurd, the deel is the hide-coat, and the sky-name Tengri is simply the Sky, capitalised and unnamed, as the oaths already have it. The old forms are stale in new prose.
 
 ---

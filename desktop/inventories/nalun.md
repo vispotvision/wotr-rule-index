@@ -43,3 +43,21 @@ A merchant oligarchy cut into the floor of a dead sea, where a promise sealed in
 **Literacy:** High in the factor and agent classes, who read a bill and a supply book before anything else. Drafting an instrument that will be sealed is reserved to scribes, each of whom has served seven years before being allowed to. The cutting class reads the stamp on a bar and the token on a belt more readily than a page.
 
 **Recurrence, two minimum per Nalūn scene:** the seal-token and "what's your oldest"; the salt bar that can be eaten; the drain and "salt fails in standing water"; the Chain Light; the constant chain.
+
+## Release words
+
+What the culture calls a practitioner's First, Second and Third Release (R78-10).
+
+Nalūn trades in claims, and its Wellspring enforces what is sealed. A release is a claim made on the world and paid out on the spot.
+
+| Release | Word | Literal meaning | Who says it |
+|---|---|---|---|
+| First | Called | A note called in: what the Trait was owed, paid out at once. | Factors, agents, anyone with a token. |
+| Second | A lien | A claim laid on the ground round him; everything in it answers to his note. | Factors and scribes; cutters say "a claim." |
+| Third | Sealed | Sealed under the Chain Light: the Wellspring itself enforces it. | Everyone, with respect; Council members in full, "sealed under the Chain Light." |
+| Held past the limit | Standing water | From "salt fails in standing water": a release held past its limit, rotting the ground it stands on. | Cutters first, then the whole city. |
+| Released (adj.) | Called | As a note is called. | Anyone. |
+
+In a cutter's mouth: "He's called his note. Off the floor, and nobody so much as lift a cup."
+
+---

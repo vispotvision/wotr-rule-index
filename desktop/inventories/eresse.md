@@ -48,3 +48,21 @@ The elves swear in the common tongue and in Vey-Elarin words dropped into it. Th
 | By the Realmsong. | On the song Florwyn sang the kin into being with. | firm (solemn) | Elven oath-exclamation outside a court, where "Uren" (witnessed) is the formal one |
 
 **Recurrence, two minimum per Eresse scene:** the window ("in its season," "out of season"); the witness named and paid; Sacred Gold; the rite calendar recopied without variation; the Asking, and something left in exchange.
+
+## Release words
+
+What the culture calls a practitioner's First, Second and Third Release (R78-10).
+
+The elves keep their voices for song, and to use the singing mechanism for speech is "loud." A release is the Trait taken out of speech and into song.
+
+| Release | Word | Literal meaning | Who says it |
+|---|---|---|---|
+| First | In voice | Singing, where a moment ago there was speech. | Anyone, politely. |
+| Second | A held chord | Every sound inside his ground is made to sound in his chord. | Jurists, rite-singers, the courts. |
+| Third | Uren | Witnessed: the land itself stands for his claim, as a paid witness stands for a name. | Elders and the five branches' courts; said once, on a falling tone. |
+| Held past the limit | Lo | Out of season: a release held after its time has run. | Anyone; the elven "damn it" said of a man. |
+| Released (adj.) | Loud | Using the singing mechanism for speech. | Contempt: commons, the young, Varrisak of Eresseans. The polite form is "in voice." |
+
+In a granary hand's mouth: "She's in voice. Stand outside the chord and let her sing herself hoarse."
+
+---

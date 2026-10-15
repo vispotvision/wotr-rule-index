@@ -43,3 +43,20 @@ A forge, a republic and a court in one crater, held together because the cost of
 **Literacy:** High in Altherion, where the charter, the arbitration and three news houses assume a reading public, in Concord Common. The crater cities read the rune and the grade per the Dawi Inventory, and Lattice Tongue is read by the Inscription Guild and hardly anyone else. Lower in the Rimlands and along the Corridor, where a man on the road reads a way-bill and a stamp and little more.
 
 **Recurrence, two minimum per Stannvaard scene:** the forge-glow pulsing up the shafts; the assay stamp and "just rock"; the round table with no head; the Guild hour, which starts here; the tender's shake.
+
+## Release words
+
+What the culture calls a practitioner's First, Second and Third Release (R78-10).
+
+On the rim and in the shafts a release is a stamp coming down and a vein opening under the pick. The Church compound and the Measurewrights keep the Accord's words; the crater keeps the Dawi ones.
+
+| Release | Word | Literal meaning | Who says it |
+|---|---|---|---|
+| First | Struck | Struck as a stamp strikes a bar: the bright bite in dull metal. | Miners, smelter-town hands, the rim. |
+| Second | Open seam | The old miners' wish made real: the ground round him opens to him like a vein under the pick. | Miners and the rim; "he's opened his seam." |
+| Third | On the lode | Running on the lode itself: the current, the vein everything else is cut from. | Tunnel-masters and old tenders, half in awe. |
+| Released (adj.) | Struck | As above. | Anyone on the rim. |
+
+In a shift man's mouth: "He's struck. Down tools and get on the lift."
+
+---

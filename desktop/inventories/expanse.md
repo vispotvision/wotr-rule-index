@@ -26,3 +26,21 @@ Core-stone people who chose cohesion over dispersal, governed by weight carried 
 **Literacy:** Reading is reading cuts. A decree is a board and a ruling is a post, the shoulder plate is legible at forty paces, and nearly every citizen and soldier reads a cut. Few read Concord script. In the Mandate the daily Reading exists because many civilians hear the decree rather than read it.
 
 **Recurrence, two minimum per Keth-Gorrum scene:** the open palm, keth-ur; the name spoken with its compound; the board and the cut (law as an object); the held vowel and the drop to quiet; "the stone remembers."
+
+## Release words
+
+What the culture calls a practitioner's First, Second and Third Release (R78-10).
+
+Every acquisition is brakh or nakh, paid for or taken, and there is no third verb. A release is power paid for in full, so it is brakh; the forced kind that breaks a man is nakh. Gorr-Vaross shows weight by holding the vowel, and a bigger release takes the longer vowel.
+
+| Release | Word | Literal meaning | Who says it |
+|---|---|---|---|
+| First | Brakh | Borne: paid for, so it holds. | Every Keth-Gorrum speaker, and Concord traders who learn it fast. |
+| Second | Braakh | The same word with the vowel held, the length to be felt. (B) Bugbears say **staying**, the closed fist on a flat surface. | Soldiers and officers; Bugbears use their own word. |
+| Third | Stone-cut | The ground keeps his law the way the Decree Stone keeps a decree: the stone remembers. | Said quietly and slowly, which in Vaross is the loudest way to say anything. |
+| Held past the limit | Nakh | Taken without bearing the cost; "what you took will open under you." | Everyone; also an accusation. |
+| Released (adj.) | Bearing | Carrying the load in public. | Soldiers, Bugbears of their own. |
+
+In a Mandate soldier's mouth: "He's gone braakh. Monitor, do not engage."
+
+---

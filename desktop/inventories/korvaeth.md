@@ -50,3 +50,21 @@ The elves swear in the common tongue and in Vey-Elarin words dropped into it. Th
 | By the Realmsong. | On the song Florwyn sang the kin into being with. | firm (solemn) | Elven oath-exclamation outside a court, where "Uren" (witnessed) is the formal one |
 
 **Recurrence, two minimum per Korvaeth scene:** the leaf and "I have entered it"; the salt and the drown alder; the count, whether of bells, witnesses or a held silence; "unpaid," and -ama said to a face; the witness-fee, paid or the witness was never there.
+
+## Release words
+
+What the culture calls a practitioner's First, Second and Third Release (R78-10).
+
+The Drow count. "Once is the form. Twice is emphasis. Three times is." A release climbs the same count, and because a thing said three times binds, the Third is the one nobody names aloud if they can help it.
+
+| Release | Word | Literal meaning | Who says it |
+|---|---|---|---|
+| First | Once | The form: said once, as "witnessed" is said once. | Anyone; Reckoners, carters, ward-carriers. |
+| Second | Twice | Emphasis: the claim said again, over the ground round him. | Anyone; with a glance at the door. |
+| Third | The closing | The Elareth closing, three times said: it simply is, and binds. | Heads of house and Reckoners; commons say "the closing" so as not to count to three. |
+| Held past the limit | Lo | Out of term: a debt gone past its day. | Reckoners first, then everyone. |
+| Released (adj.) | In term | Still inside its limit, the way a debt is in term. | Reckoners, soldiers on a night attack; "lo" takes over when it runs out. |
+
+In a carter's mouth: "Once. He's said it once, and that's only the form. If he says it twice, get off the road."
+
+---

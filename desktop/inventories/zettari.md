@@ -62,3 +62,20 @@ The Zettari swear in their own tongue. Their oaths need something older than the
 | Kneeler. | One who kneels to pressure. | hard | Said of a man who gives way under Crown-Blood Pressure, or who takes orders from anyone heavier |
 
 **Recurrence, two minimum per Zettari scene:** the quench-barrel; the tally-stick; "who has your fire"; "cold" as the standing insult; hands read like a record.
+
+## Release words
+
+What the culture calls a practitioner's First, Second and Third Release (R78-10).
+
+Time is counted in heats, and the obscenity is "cold." A release is the body brought to working heat. The Zettari never say "moto" for fire, since the word is a house's name in the north and nobody wants the confusion.
+
+| Release | Word | Literal meaning | Who says it |
+|---|---|---|---|
+| First | Mwako | Blaze; the flare of something burning bright. Common: **at heat**. | Every forge and every street. |
+| Second | Kalibu | The forge: the ground round him made his hearth. Common: **a lit forge**. | Smiths, soldiers, the Pillar houses. |
+| Third | Agano | Covenant: a pact with something older than the speaker, the current itself. Common: **the covenant**. | The royal line and the old, solemnly; forge people link it to Agano Sand. |
+| Released (adj.) | At heat | As iron at working heat. | Anyone. |
+
+In a forge hand's mouth: "Mwako! Back from him, he's at heat. You cannot hurry a heat."
+
+---

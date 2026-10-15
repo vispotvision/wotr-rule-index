@@ -43,3 +43,37 @@ A frontier that became a kingdom because its gate posts were failing and one peo
 **Literacy:** High among the Proven, since a Proving is a review of written records presented in public, and every citizen hears the Telling on completing it. Lower among the Unproven and on the frontier, where letters go on birch bark and are read aloud at the station. The Academy and Vaeloris read everything, including the ward grammar most people cannot.
 
 **Recurrence, two minimum per Ketsuen scene:** the ward-post and "who keeps your posts"; cedar weeping sap; the Proving and "on the record"; the pressure at the temples; the mallet on the practice stone.
+
+## Release words
+
+What the culture calls a practitioner's First, Second and Third Release (R78-10).
+
+The kingdom runs on ward-carving and counts the mallet's strokes. A release is a cut made on the world, and its practitioners are heard the way a warded house is: knock and listen for the hum.
+
+| Release | Word | Literal meaning | Who says it |
+|---|---|---|---|
+| First | First stroke | The first blow of the mallet on a new ward. | Carvers, Academy students, the frontier. |
+| Second | Posts up | He has set his posts: a ward-line round his ground, and everything inside it answers to him. | Anyone; frontier folk most. |
+| Third | Third stroke | The last stroke, struck with the valley's own weight behind it. The old jibe "third stroke late" gains an edge: most never land it at all. | Carvers and the Proven; apprentices, wryly. |
+| Released (adj.) | Humming | Humming like a warded wall. | Anyone; buyers knock before they bargain, and soldiers listen before they close. |
+
+In a frontier fisher's mouth: "Hear him? He's humming. That's posts up. Stay outside the line till he runs dry."
+
+In Sum-gol the Mahuo words hold (see below).
+
+---
+
+**The Mahuo of Sum-gol:**
+
+The Mahuo have no Standing Inventory yet; this block sits with Ketsuen's Sum-gol entries until one is built. The valley counts breath before it counts coin, and a release is an untying, the same word as the old rites that untie a grief.
+
+| Release | Word | Literal meaning | Who says it |
+|---|---|---|---|
+| First | Cheotjjae puri | The first untying. | The teaching house and the valley. |
+| Second | Duljjae puri | The second untying. | The same; ox-drivers and rice-carters too. |
+| Third | Setjjae puri | The third untying. | The elders, and rarely. |
+| Released (adj.) | Pullin | Untied, loosened. | Anyone in Sum-gol. |
+
+In a carter's mouth: "That's his duljjae puri. Keep your breath shallow and count."
+
+---

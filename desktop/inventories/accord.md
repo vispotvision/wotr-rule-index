@@ -48,3 +48,20 @@ Chartered, metered and entered people swear by paperwork and the Archons' days, 
 | Bloody bastard. | What it says. | firm | Any Concord mouth; the educated say "sine sigillo" instead and think it cleaner |
 
 **Recurrence, two minimum per Accord scene:** the hum, and the moment it stops; the meter, its seal and the bill; the small hammer and the dull note of a cased weight; the nine-word wire; the roll and the entry in ink.
+
+## Release words
+
+What the culture calls a practitioner's First, Second and Third Release (R78-10).
+
+Everything the Accord owns is metered, sealed and entered, and a release is a Trait let off its meter. Each word has a common form and a chancery Latin form, and the speaker picks (R50-23).
+
+| Release | Common | Chancery Latin | Literal meaning | Who says it |
+|---|---|---|---|---|
+| First | Off the meter | Sine mensura | Without measure: running with no meter on it. | Common: anyone on a main. Latin: clerks, advocates, Division officers. |
+| Second | A main of his own | In districtu suo | In his own district (districtus: the ground a jurisdiction covers). Everything in the yard runs on his draw. | Common: the street, wire-boys, market people. Latin: Measurewrights, the courts. |
+| Third | Countersigned | Fonte teste | With the spring as witness: the Wellspring signs beside him, the way "coram testibus" means before witnesses. | Common: the educated and the pious. Latin: Measurewrights and Sancta Lux-leaning speakers, gravely. |
+| Released (adj.) | Unmetered | Solutus | Loosed; in the chancery also "paid and discharged," as in the gate formula "solutum et transitum." | Common: anyone. Latin: any educated mouth, in a temper most of all. |
+
+In a market woman's mouth: "Hear the hum go flat? Somebody up the street's gone off the meter. Get the cradle off the meter wall."
+
+---

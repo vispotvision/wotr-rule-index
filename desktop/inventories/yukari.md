@@ -42,3 +42,20 @@ Crows of Fate: a bloodline that saw the threads before the world was ready to sh
 **Literacy:** Universal in the house and deeper than anyone else's: books, scrolls and records are its treasures, and every child who takes the name first reads Senri's stone. The unbroken thread-notation on the gate's lintel, older than Parunic, can be read by very few.
 
 **Recurrence, two minimum per Yukari scene:** the hand on the head and nothing said; the name chosen at the Telling, and which of the names is used; Senri's stone; "the crow perches, the crow watches, the crow remembers"; eyes closed for a deep read.
+
+## Release words
+
+What the culture calls a practitioner's First, Second and Third Release (R78-10).
+
+A Yukari carries up to five names, and which one is used says how close a person stands. A release shows more of the bearer, so the house names each one for the name it uncovers.
+
+| Release | Word | Literal meaning | Who says it |
+|---|---|---|---|
+| First | Yobina | The calling-name, the one intimates use. | The house; the valley says "his calling-name." |
+| Second | Imina | The true name, taboo to speak outside family, Council, a Proving or the stone. | The house, quietly; the valley says "his true name," and looks away. |
+| Third | Okurina | The posthumous name, the deep name spoken at the Telling or at death. | Elders only. The road to a Third is a tribulation that not everyone survives. |
+| Released (adj.) | Named | Showing a deeper name than the one he walked in with. | Valley folk and Ketsuen soldiers. |
+
+In a valley woman's mouth: "Don't look at his eyes. He's given his true name, and you don't want it."
+
+---

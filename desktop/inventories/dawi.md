@@ -66,3 +66,21 @@ Dawi have no light oath. "Kurme" is the swearing itself, so a Dawi who says "I s
 | Kurlo. Ei kurme. | Unbegun. Not undertaken. | hard (as a refusal) | The "no, and do not ask me for the other word" that ends a negotiation |
 
 **Recurrence, two minimum per Dawi scene:** the Tally and "entered" or "unentered"; the name and its grade; the cask and "while the brew lives"; "kurme" or "kurlo," and never *I will*; the angle-set and "the angles are true."
+
+## Release words
+
+What the culture calls a practitioner's First, Second and Third Release (R78-10).
+
+A Dawi hears the grade of a name before the word, and a release sounds the same way to them: the Trait said in the strong grade, with the consonant doubled. The tongue has no future tense, so nobody says what a release *will* do; they say what it is.
+
+| Release | Word | Literal meaning | Who says it |
+|---|---|---|---|
+| First | The strong grade | The Trait spoken at its full grade, as an oath-name is. | Any Dawi; Common mouths in the Ring copy it. |
+| Second | Worked ground | The floor round him turned to worked stone, his, and under the folk belief no working hurts a man on worked stone. | Miners, Forge Guards, shift crews. |
+| Third | Tallut on | "The entry holds": the act entered by something older than any clerk, so nobody can unmake it. | Clerks and elders, in Mathematical Cadence; others say "entered." |
+| Held past the limit | Nikkat ei on | "The angles are not true": the Tally's verdict turned over, for a release forced past its last tenth. | Rune-forgers, masters over apprentices, anyone at the wreck. |
+| Released (adj.) | Doubled | Gone to the doubled consonant of the strong grade. | Any Dawi; "he is doubled." |
+
+In a miner's mouth: "He is doubled. Feet on worked stone, lad, and stay behind me."
+
+---

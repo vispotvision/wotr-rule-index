@@ -11,6 +11,7 @@ verification: null
 # The Spirit Rune Arts
 
 > A spell is a sentence **spoken**. A rune is a sentence **written**. The medium changes. The grammar does not.
+
 | **Primary Category** | Glyphica (Spirit-Aligned) |
 |---|---|
 | **Secondary Categories** | Drafts (Spirit-Aligned) · Arts (Body-Aligned) · Crystalia (Body ↔ Spirit) |
@@ -55,6 +56,7 @@ An unsealed rune is an open wound in the local Aether field. Environmental Essen
 ## Inscription Media
 
 Parunic syntax written into matter inherits the material's Essence retention properties, and those properties determine how long, how stably, and how powerfully the rune can operate.
+
 | Substrate | Retention | Character | Limit |
 |---|---|---|---|
 | **Mineral** stone, crystal, metal, refined ore | High | Law frozen in place: reliable, enduring, and inflexible. A rune carved into granite holds for millennia if the stone is not fractured. | Cannot modify its own behaviour in response to changing conditions |
@@ -95,6 +97,7 @@ flowchart TD
 ## Parunic Phonemes in Runic Practice
 
 Each phoneme carries a meaning the Continuum reads as an operational instruction. The phonemes in this section are given in an older teaching register whose names have drifted from the Master Glyph Index: several codes mean other things there, and some are not attested there at all. A chain written for use quotes its glyphs as the Index gives them.
+
 | Class | Phonemes |
 |---|---|
 | **Structural** | `Ur` Balance/Continuum · `Ky` Structure · `Th` Foundation · `En` Lattice · `Al` Edge · `Cal` Craft |

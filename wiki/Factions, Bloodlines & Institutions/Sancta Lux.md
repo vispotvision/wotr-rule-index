@@ -25,6 +25,7 @@ verification: "unverified"
 >
 > Urion is not a listener. **He is a reference.** You do not petition a reference. You compare yourself against it and you accept the number that comes back.
 Common mortal usage renders that reference as **the Judger.** Every Attestant is taught the word on their first day and taught to strike it on their second, *and every one of them keeps using it anyway, because a thirty-year career of saying the standing reference in casual conversation defeats even Concordia formalism.*
+
 | **Type** | Chartered arbitration body and standing enforcement order. Guild Accord member with permanent standing in **both** the Enforcement Division and the Arbitration Division |
 |---|---|
 | **Reference** | Urion, Archon of Balance. **Judicaris**, the Order Magic of measured force and lawful arbitration |
@@ -110,6 +111,7 @@ Rank inside Sancta Lux **does not describe command.** It describes what a member
 > Darius did all three at the Eclipse Bastion. **He was correct. Four hundred men burned.**
 >
 > The Ladder exists so that **nobody is ever again permitted to be that correct alone.**
+
 | Standing | May | Temperance |
 |---|---|---|
 | **I · Attestant** | Witness. **May not weigh.** Trained in transcription method taken wholesale from Bellwrought Celestial practice and taught, *with a straight face*, that the method is their own tradition. They may stand in the Hall of Equal Breath. **They may not speak in it** | I – III |

@@ -79,6 +79,7 @@ flowchart TD
     L -->|"unwarded Boundary"| LO["LOWMERE CHOIR<br>Sealkeepers — Minor"]
     L -->|"strike-point itself"| B["THE BELLWROUGHT<br>Witness-Choir — Minor"]
 ```
+
 | Choir | Function | Soul Path Bias | Domain Law |
 |---|---|---|---|
 | **Midreach** · Oath-Keepers | Oath & Contract Enforcement | Attraction 65% · Spirit 25% · Body 10% | Covenant Domains |
@@ -93,6 +94,7 @@ flowchart TD
 ### 1. The Midreach Choir — Oath-Keepers
 
 > *"An oath is a debt the world agreed to remember for you."*
+
 | **Type** | Major Choir — Oath & Contract Enforcement |
 |---|---|
 | **Origin** | Sung at Midreach, Utopia's arbitration realm, in answer to unwitnessed Vows |
@@ -113,6 +115,7 @@ flowchart TD
 ### 2. The Highspire Choir — Verdict-Bearers
 
 > *"The verdict is already rendered. This is only the part where the room finds out."*
+
 | **Type** | Major Choir — Judgment & Martial Law Enforcement |
 |---|---|
 | **Origin** | Sung at Highspire, Utopia's realm of unflinching proclamation |
@@ -131,6 +134,7 @@ flowchart TD
 ### 3. The Lowmere Choir — Sealkeepers
 
 > *"We do not forget on your behalf. We arrange for the forgetting to hold."*
+
 | **Type** | Minor Choir — Sealing, Exile & Forbidden Law |
 |---|---|
 | **Origin** | Sung at Lowmere, Utopia's realm of buried statute and redacted history |
@@ -149,6 +153,7 @@ Individual Lowmere Celestials are, by design, almost never named in surviving re
 ### 4. The Bellwrought — Witness-Choir
 
 > *"Kill the sword first. The pen was never the threat you thought it was — until it was the only thing left."*
+
 | **Type** | Minor Choir — Memory, Record & Archive |
 |---|---|
 | **Origin** | Sung directly at the Lawbell's own strike-point in Highspire, closer to raw tone than to any specific sub-realm |
@@ -178,6 +183,7 @@ Malakar found this unacceptable in a way he did not find the rest of the Host un
 >
 > It was not an execution. Malakar could have executed a Celestial in less time than it takes to describe the act. It was a demonstration, delivered slowly and on purpose, that the Host's rarest achievement — a Celestial becoming, however briefly, a person — could be taken apart with the same tools used to build it.
 The Great Spirit War did not end because of the Shattering, but the Shattering is the moment every surviving Choir member marks as the one after which the war stopped being winnable in the shape it had been fought in.
+
 | Choir | What the campaigns after the Shattering did to it |
 |---|---|
 | **Highspire** | Lost two-thirds of its officers in the campaigns that followed |

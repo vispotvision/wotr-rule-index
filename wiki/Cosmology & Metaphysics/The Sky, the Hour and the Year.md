@@ -56,6 +56,7 @@ Because daylight and dark are not the same length except twice a year, **the sta
 A signal net cannot run on notches that change length with the season, so the Guild pushes a single hour down the wire from Stannvaard and every gauge-house sets to it: **fourteen equal hours, of sixty counts each, identical in every quarter and every month of the year.**
 This is the same collision that happened on Earth when the mechanical clock displaced the temporal hour, and it lands the same way. The equal hour is correct, portable, and useless for telling a man when to start work. The unequal station is imprecise, unportable, and describes the actual day.
 **The two systems agree exactly twice a year and are wrong about each other the rest of the time.**
+
 |  | Station | Guild hour |
 |---|---|---|
 | Anchored to | sunrise and sunset | the wire from Stannvaard |
@@ -69,6 +70,7 @@ This is the same collision that happened on Earth when the mechanical clock disp
 ### III. The Turn and the Month
 
 **The turn** is fourteen days, Moto ***meguri***, a going-round. Each day is named for one of the Fourteen in emergence order, so a turn is one full pass of the lattice and a fortnight in Common is literally two.
+
 |  | Day | Archon | Principle |
 |---|---|---|---|
 | 1 | Urion's | Urion | Balance |

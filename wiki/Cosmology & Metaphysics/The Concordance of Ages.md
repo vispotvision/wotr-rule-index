@@ -52,6 +52,7 @@ timeline
 **Character** · The emplacement. Ore bodies, the northern shield, the flood-basalt province, the ophiolite belt, the Crevice.
 **Close** · No catastrophe. The Eon ends where the first kept record begins, and the boundary is a fact about writing rather than about the world.
 Everything the four quarters have ever dug out of the ground was put there in this age, and nothing has been added since. **Skill compounds. Ore does not.** That one asymmetry has governed every economy that followed and will govern the next, and it is the reason the Old World is the first civilisation able to see the bottom of the thing it stands on.
+
 | First Eon material | Standing |
 |---|---|
 | **Titanstone** | The shattered remains of slumbering World Spirits. Near-immortal in density, carrying a metaphysical weight sufficient that a cracked block takes a city down with it. It is found rather than quarried. |
@@ -121,6 +122,7 @@ Wage earners lost. Wages are customary and adjust slowly, prices are not and do 
 #### The Long Reckoning · 070 to 645 IC
 
 Five hundred and seventy-five years, the body of the count, and the era in which the ceilings fell. They fell in an order nobody planned, and each solution created the problem the next answered.
+
 | Ceiling | Held at | Fell |
 |---|---|---|
 | **Water** | Sixty fathoms below the adit line, held everywhere, under every flag, in every age preceding | Year 90 to 130, to Phreatis-fed lift arrays — Fluxia family, Fluid Dynamics |

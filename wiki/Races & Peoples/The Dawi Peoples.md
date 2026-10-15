@@ -19,6 +19,7 @@ verification: "unverified"
 ## One Architecture, Three Original Pressures
 
 The Dawi were made from one thing: **Varūn the Deepwright's understanding that the universe requires endurance, not strength.**
+
 | Lineage | Varūn's face | Origin |
 |---|---|---|
 | **High Dwarves** | His **geometry** | The Rite of Bound Geometry, Second Eon — structure as the ground of reality |
@@ -170,4 +171,4 @@ Dawi languages share one structural feature: **they are built for endurance rath
 
 > *"Eight ways to still be standing, and Varūn has never once told any of us which one he actually meant."*
 > — Attributed to a joint Kegshard–Qori Anka trade summit, exact speaker disputed
-- [[The Dawi Peoples/The Reach Dwarves]]
+- [[Races & Peoples/The Dawi Peoples/The Reach Dwarves]]

@@ -11,6 +11,7 @@ verification: null
 # The Spirit Summoning Arts
 
 > What common parlance calls "summoning" is not a single discipline. **It is a three-plane crossing.** On the Physical Plane, Aether is shaped into a vessel. On the Soul Plane, the summoner's Essence Core donates identity, pattern, and animating current. On the Plane of Fate, Attraction Force magnetizes the construct into recognized existence.
+
 | **Primary Categories** | Vocatia (Attraction-Aligned) · Animatria (Spirit-Aligned) · Arts (Body-Aligned) |
 |---|---|
 | **Apex Integration** | Concordia (Spirit ↔ Attraction Apex) |
@@ -82,6 +83,7 @@ A Tier III body carried by a poured vessel and a Binding, as in the Mortalis com
 ## Wellspring Resonance
 
 Summoned spirits inherit the Wellspring alignment of their creator. A summoner harmonized with multiple Houses produces spirits of correspondingly layered complexity.
+
 | House | Manifestation | Used for | Risk |
 |---|---|---|---|
 | **Coagulation** *Coagula, Fixatio, Coagulatio* | Anchored, durable, slow-to-dissolve presences | Defensive constructs, ward-guardians, long-duration sentinels | Spirits may resist dissolution, becoming permanence hazards |
@@ -98,7 +100,7 @@ Summoned spirits inherit the Wellspring alignment of their creator. A summoner h
 
 **Karo Venrik** · A prodigious Spirit Summoner whose Animatria suite — Cognition, Convergence, Reflex, Requiem, Continuum — represents the most refined psionic-summoning architecture in the current era. His constructs operate through **Nexus networks**: shared perception fields in which multiple eidolons act as extensions of a single Animatria consciousness. His alignment with Wellsprings of memory and vital resonance produces spirits that function as living archives, carrying ancestral knowledge in their Essence structure. His Legion Summons are not brute-force multiplication but precision instruments, each eidolon tuned to a specific perceptual or tactical function within the network.
 **Ashura Yukari** · A Third Epoch theorist who integrated summoning within the earliest Wellspring alignment models. His contribution was recognizing that summoned spirits inherit their creator's Essence Typology **not as aesthetic decoration but as functional law**. A spirit built from Ignis Essence burns with conviction because conviction *is what Ignis Essence is*. His work established the principle that summoning is self-revelation, transforming the art from military utility into a diagnostic discipline used by Soul Crystal examiners and Temperance evaluators across the Concord.
-**Mnirah Valein** · A philosopher-summoner of the Age of Deliberation who codified the [[The Spirit Summoning Arts/The Twelve Stages of Spirit Infusion|**Twelve Stages of Spirit Infusion**]], a progressive curriculum mapping summoning capability to the Coherence Ladder. Her system formalized the Temperance Gates now standard across the Accord. Her work also established the legal framework distinguishing lawful summoning — Wellspring-authorized, Glyphica-bounded, Attraction-anchored — from Mechanica, a distinction that would later underpin Statute XXVI.
+**Mnirah Valein** · A philosopher-summoner of the Age of Deliberation who codified the [[The Disciplines/The Spirit Summoning Arts/The Twelve Stages of Spirit Infusion|**Twelve Stages of Spirit Infusion**]], a progressive curriculum mapping summoning capability to the Coherence Ladder. Her system formalized the Temperance Gates now standard across the Accord. Her work also established the legal framework distinguishing lawful summoning — Wellspring-authorized, Glyphica-bounded, Attraction-anchored — from Mechanica, a distinction that would later underpin Statute XXVI.
 **The Anemoir Cult** · A clandestine order practicing World-Tethered summoning across generational timescales. The Anemoir preserve ancestral spirits by anchoring them to Wellspring veins and bloodline lattices, maintaining presences that span centuries. Their methods sit at the intersection of Vocatia, Mnemata, and Concordia, and their most senior practitioners are among the few living souls capable of **sustaining a summoned presence beyond their own lifespan**. The Concord tolerates them because their preservation work stabilizes Wellspring memory in regions where natural degradation would otherwise erase historical echo. Several provinces owe the continuity of their ancestral rites to Anemoir intervention.
 
 ---
@@ -113,5 +115,5 @@ By the **Voyager Era**, Spirit Summoning has become both rare and sacred. The pr
 ---
 
 *First appearance: Chronicles of the Exiles, Volume II, "The Echo of Bone and Breath" (Chapter 4: The Scout-Wraith and the Storm).*
-- [[The Spirit Summoning Arts/The Infinite Summoning Arts]]
-- [[The Spirit Summoning Arts/The Twelve Stages of Spirit Infusion]]
+- [[The Disciplines/The Spirit Summoning Arts/The Infinite Summoning Arts]]
+- [[The Disciplines/The Spirit Summoning Arts/The Twelve Stages of Spirit Infusion]]

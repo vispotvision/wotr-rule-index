@@ -64,6 +64,7 @@ Pay must reach the men **across distance, with sufficient regularity to prevent 
 **The third is the one that will bite Kharven**, because the setting already has the mechanism. Copper is the money of ordinary life and the only metal money most people ever hold. Copper is also drawn conductor, worth more by weight melted than struck, and every array boom in two centuries has produced a copper famine within three years. **A siege is an array boom.** The Seat can hold silver and still be unable to pay a soldier, because there is nothing in the chest a soldier can buy bread with.
 What keeps an army fed in the meantime is short-term credit: **unpaid bills to suppliers, advances made by officers out of their own pockets, and temporary loans arranged by intermediaries.** That is the life thread of army finance and it is invisible until it snaps. Long before a mutiny there is a captain who has been paying his own company for six weeks and has stopped sleeping.
 **The dissolution schedule.** Not rolls. A sequence of things that happen.
+
 | Arrears | What happens |
 |---|---|
 | One turn | Grumbling. Sutlers extend credit and mark it up |

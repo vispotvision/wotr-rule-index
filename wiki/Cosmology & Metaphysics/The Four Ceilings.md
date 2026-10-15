@@ -35,6 +35,7 @@ Before the Long Reckoning, a shaft could not go deeper than about sixty fathoms 
 This single number explains an enormous amount of history that is usually explained by character. The Antediluvians did not build their cities on top of Wellsprings because they were arrogant. They built there because they could not move Essence and could not dig deep, so the only way to have power was to stand on it. They did not chain practitioners to the works because they were uniquely cruel, though they were. They did it because a body is the only Essence conduit that walks, and a people who cannot lay a cable across a valley will move the source instead.
 Read this way, the moral history of the Realms starts looking uncomfortably like a history of engineering constraints, and the Archives' preference for the other reading is itself worth noting.
 Five ceilings, then, in the order they fell.
+
 | Ceiling | The constraint |
 |---|---|
 | **The Assay Ceiling** | Nobody could measure Holding, so nobody could trade it honestly. Fell first, in the Antediluvian Calendar, for reasons that had nothing to do with commerce |
@@ -94,6 +95,7 @@ Every holding coil in every Accord assay house is a refinement of that ring. The
 **Metals** · Native and worked cold or hot-hammered. Native copper, meteoric iron, gold from placer bars. No smelting worth the name, or none that left slag the Archives has found. A people who hammer native metal are limited to what the ground hands them finished, which is very little.
 **Stone** · Precision-fitted without mortar, which is why fitted stonework still reads across the four quarters as a marker of age or of something not human. The technique requires enormous labour and no equipment, which is the correct signature for a civilisation with unlimited Essence and no machines.
 **Substrate resonance** · Their one genuine and lasting discovery.
+
 | Substrate | Takes |
 |---|---|
 | Basalt | Coagula and Fixatio |

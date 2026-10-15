@@ -31,6 +31,7 @@ The five-step pipeline runs inside one practitioner, in real time, in a single c
 > The Parun (the language of law every working is written in) lattice is **Agrippa's kamea method out of the Three Books, II.22, unaltered.** *That is the operative tradition of European ceremonial magic, lifted whole.*
 >
 > **Which means the Four Glyph Roles are already the Solomonic operation, in order, and nobody has noticed.**
+
 | Glyph Role | Solomonic operation | What it does |
 |---|---|---|
 | **Authorization** | The conjuration and the citation of authority | Names by what right the operator acts |

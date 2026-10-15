@@ -32,7 +32,7 @@ Parts 2b-3-4-5-6 are one continuous stretch ending the night Muken dies; the fil
 
 #### Kharven — the return (the eleventh year)  (19 scenes)
 
-Two strands braided: the column on the ice (7, 8, 9, 12b, 13, 14, 15a) and the north waiting for it (1b, 10, 11, 12a, 15b, 16). They converge at the gate. The four sodoku** companion files are the same night as Parts 17-19 with explicit datelines, so they are extractions, not extra days. temur*true*religion*alabaster and sodoku*true*religion_alabaster are one scene in two name-states.
+Two strands braided: the column on the ice (7, 8, 9, 12b, 13, 14, 15a) and the north waiting for it (1b, 10, 11, 12a, 15b, 16). They converge at the gate. The four sodoku companion files are the same night as Parts 17-19 with explicit datelines, so they are extractions, not extra days. temurtruereligionalabaster and sodokutruereligion_alabaster are one scene in two name-states.
 - `the_true_king_of_the_north_part_1.md`
 - `the_true_king_of_the_north_part_10.md`
 - `the_true_king_of_the_north_part_11.md`

@@ -23,6 +23,7 @@ verification: "unverified"
 ## I. The Three Planes
 
 *Every act of magic crosses all three simultaneously. Remove one, and the working fails.*
+
 | Plane | Governs | Crystal layer |
 |---|---|---|
 | **Material Plane** | Physics, matter, force, and biology. Observable reality; magic does not override its laws, it uses them. | Aether Shell |
@@ -53,6 +54,7 @@ verification: "unverified"
 
 *The convergence point where all three planes meet inside a single being.*
 **Soul Crystal** · Composed of three layers whose combined state determines everything a practitioner can perceive, become, or do.
+
 | Layer | Function | Failure state |
 |---|---|---|
 | **Essence Core** | The Soul-Plane layer. Holds identity, memory, and Traits. | Fracture into Shards |
@@ -92,10 +94,10 @@ verification: "unverified"
 **Flux Density · EU/g** · The compression ratio. How much Essence is packed per unit of Crystal mass. Higher Flux Density means greater output drawn from the same reserve.
 **AU/s · Aether Units per second** · The output rate. How much Essence a practitioner converts into active Aetheric expression per second of sustained operation. **AU/s = Flux Density × η**
 **Efficiency · Eta · η** · The ratio of Essence spent to Essence that arrives as intended effect. An η of 0.50 wastes half of every expenditure as heat, noise, and structural bleed. The single most important variable in how long a reserve lasts under sustained output. **An η above 1.0 is real.** More arrives than the Crystal spent because the surplus is drawn from the Aether stratum: the practitioner supplies the boundary condition and the stratum supplies the joules, and above 1.0 the Continuum recognises the expression as law and supplements it with ambient flow. It is not a reserve returning more than it held, and it is not an error on the sheet.
-**Joule · J** · What one EU is worth outside the Crystal. **1 EU = 1 MJ**. The conversion, the chain from EU to joules to Grade to tons of TNT, and what a reserve buys at each rung are [[Fracture of Worlds — The Living System/IX. The Essence Ledger (Part Twenty-Three)|The Essence Ledger]], Fracture of Worlds Part Twenty-Three.
+**Joule · J** · What one EU is worth outside the Crystal. **1 EU = 1 MJ**. The conversion, the chain from EU to joules to Grade to tons of TNT, and what a reserve buys at each rung are [[The Magic System/Fracture of Worlds — The Living System/IX. The Essence Ledger (Part Twenty-Three)|The Essence Ledger]], Fracture of Worlds Part Twenty-Three.
 **Watt · W** · What an AU/s is worth as power. One AU is one EU, so **1 AU/s = 1 MW**: power drawn is AU/s × 1 MW, power delivered is AU/s × η × 1 MW, and the difference leaves as waste heat. Time to empty is reserve ÷ AU/s, and that figure does not depend on the conversion at all.
 **Turn** · Six seconds. The unit every stated duration in turns is read through, in a duel and on a campaign clock alike: a working held three turns is held eighteen seconds. A reserve spent at *R* AU/s for one turn is 6*R* EU gone, delivering 6*R* × η megajoules.
-**The Essence Ledger** · [[Fracture of Worlds — The Living System/IX. The Essence Ledger (Part Twenty-Three)|Fracture of Worlds Part Twenty-Three]]. The join between the four quantities above and the Grade ladder: what an EU buys in joules, what a reserve costs to spend, how long it lasts at full output, how fast it comes back, and what can be done about all of it from the other side of a fight.
+**The Essence Ledger** · [[The Magic System/Fracture of Worlds — The Living System/IX. The Essence Ledger (Part Twenty-Three)|Fracture of Worlds Part Twenty-Three]]. The join between the four quantities above and the Grade ladder: what an EU buys in joules, what a reserve costs to spend, how long it lasts at full output, how fast it comes back, and what can be done about all of it from the other side of a fight.
 
 ---
 

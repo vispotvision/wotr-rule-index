@@ -11,6 +11,7 @@ verification: "unverified"
 # The Sage Arts
 
 > Most magic in the Continuum is projective. The Sage Arts invert that architecture entirely. **A Sage does not project. A Sage receives.** The terrain is the caster. The Sage is the instrument.
+
 | **Primary Categories** | Harmonia (Spirit ↔ Attraction) · Synergia (Triadic) · Domain Weaving (Attraction-Aligned) |
 |---|---|
 | **Secondary Categories** | Vocatia (Attraction-Aligned Recognition) · Ritus (Spirit-Aligned Ritual) · Mnemata (Spirit ↔ Attraction Memory) |
@@ -111,6 +112,7 @@ The construct persists as long as Attunement and Communion hold. When the Sage b
 ## Wellspring Affinity Profiles
 
 Theoretically compatible with any Wellspring, practical mastery clusters around environmental resonance. Each affinity produces a distinct operational character, and each carries its own way of ending.
+
 | Affinity | Terrain and constructs | Character | Corruption risk |
 |---|---|---|---|
 | **Verdantia** *House of the Green Pulse* | Forests, groves, farmland. Root-guardians, bloom-barriers, vine-networks. | The most common affinity. Regenerative healing conducted through living wood and fertile soil. They smell of loam and rain-wet herbs, and flowers tend to open as they walk past. | **Endless Spring.** The inability to let anything end, growth consuming everything as fertilizer. |

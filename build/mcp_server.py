@@ -265,13 +265,11 @@ def archive_scene(title: str, markdown: str, author_notes: str = "") -> str:
     SCENES.mkdir(exist_ok=True)
     path.write_text(body + "\n", encoding="utf-8", newline="\n")
 
-    # The wiki (Obsidian vault) keeps a private copy; Notion is retired (2026-10-15).
-    wiki_copy = WIKI / "The Scene Archive" / f"{_safe_name(title)}.md"
-    wiki_copy.parent.mkdir(parents=True, exist_ok=True)
-    wiki_copy.write_text(f"---\ntitle: {json.dumps(title, ensure_ascii=False)}\nprivate: true\n---\n\n{body}\n", encoding="utf-8", newline="\n")
-    notion = f"copied to wiki/{wiki_copy.relative_to(WIKI).as_posix()}"
+    # The vault mirrors scenes/ as private pages (build/scenes_to_wiki.py); Notion is retired (2026-10-15).
+    _run([PY, str(ROOT / "build" / "scenes_to_wiki.py")])
+    notion = "mirrored into wiki/The Scene Archive/Scenes"
 
-    _git("add", "--", str(path.relative_to(ROOT)), str(wiki_copy.relative_to(ROOT)))
+    _git("add", "--", str(path.relative_to(ROOT)), "wiki/The Scene Archive/Scenes")
     _git("commit", "-q", "-m", f"Archive scene: {title}\n\nSaved from Claude Desktop via the wotr MCP server.")
     pcode, pout = _git("push", "-q", "origin", "master")
     pushed = "pushed to GitHub" if pcode == 0 else f"push failed: {pout[-300:]}"
@@ -1233,7 +1231,7 @@ def create_character(name: str, markdown: str, volume: str = "Volume I — Chara
     import uuid
     pid = str(uuid.uuid4())
     section = _wiki_manifest()[vol_id]["title"]
-    rel = f"{section}/{name}.md"
+    rel = f"{vol_rel[:-3]}/{_safe_name(name)}.md"  # a volume page's children live in the folder named after it
     p = _write_mirror(rel, name, pid, section, markdown, tags or ["Characters"])
     _git("add", "--", str(p.relative_to(ROOT)), "wiki/.manifest.json")
     _git("commit", "-q", "-m", f"Add character card: {name}\n\nCreated from Claude Desktop via WOTR MCP; page {pid} under {section}.")

@@ -20,6 +20,7 @@ verification: "unverified"
 ## The Root and the Six Drivers
 
 **Nothing in this record is a separate invention.** Every hand traces the same Parun (the root script of law that reality reads) path across the same lattice (the fixed grid every glyph is traced on), **and every difference between them is the residue of a decision that was never about writing at all.**
+
 | Driver | What it does to the hand |
 |---|---|
 | **The tool** | A chisel makes straight segments. **A punch makes points and no line at all.** A knife on a stave cuts with the grain or splits it. A reed on wet bark cannot be lifted. *Three of these produce scripts a scholar would not guess were related* |
@@ -37,6 +38,7 @@ verification: "unverified"
 A glyph creates nothing. **The Wellspring (a standing current of natural law in the Aether)'s law was already running, and the glyph is a boundary condition imposed on it.** The boundary is set by the traced path, and the path is the same path in all fourteen hands, because all fourteen trace one lattice.
 **So a hand does not change the working.** A ward cut in Old High Runic and the same ward struck in Old Vaross impose the same condition on the same law and produce the same effect. This is why the Accord can enforce a writ across eleven hundred leagues and why a Chancery notary and a Barrel Dawi cooper are arguing about the same instrument even when neither can read the other's page.
 **What a hand changes is everything around the working.**
+
 | What the hand decides | Why |
 |---|---|
 | **How long the boundary holds** | A boundary persists as long as its substrate does. Granite outlives the mason. Wet bark outlives the afternoon. **The hand and the surface are one decision and the duration follows from it** |
@@ -179,6 +181,7 @@ The answer is to cut the same glyph **three times, nested inside itself at dimin
 ## Who Reads What
 
 > **Cross-legibility is not symmetrical and is not a function of how closely two hands are related.** A Parunist can read Inverted Parunic fluently and will be wrong about all of it. A Concord clerk can read the Chancery Hand and nothing else. ***The practical map is narrower than the family tree suggests.***
+
 | Hand | Read without training by | Opaque to |
 |---|---|---|
 | **Parun** | Trained practitioners of every people | The unlettered, entirely |
@@ -210,6 +213,6 @@ The answer is to cut the same glyph **three times, nested inside itself at dimin
 ---
 
 > **Load-bearing cross-reference.** The Long Reading holds that the Moto ancestral seat's own name is recorded **in a glyph the Continuum cannot classify, one of the thirty unclassified forms in the Master Glyph Index.** *It is the oldest proper noun in the record and it is deliberately blank.*
-- [[The Descent of Parun — The Fourteen Hands/The Counted Speech — A Speaker's Grammar of Parun]]
+- [[The Magic System/The Descent of Parun — The Fourteen Hands/The Counted Speech — A Speaker's Grammar of Parun]]
 
 ---

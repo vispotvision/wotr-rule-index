@@ -21,6 +21,7 @@ verification: "unverified"
 
 The peoples gathered under the term share a single origin: **a celestial impact, an asteroid that struck the mortal world in the Second Eon** and shattered the surface into mountains, valleys, and ruin. From that impact came everything. The surface broke. The core held. From the shards came the Orcs. From the core came the Hobgoblins.
 What the world calls goblinoid is simply **what that impact left behind: people shaped by violence they did not choose, carrying in their blood the memory of a force that moved worlds.**
+
 | Lineage | Essence | Origin |
 |---|---|---|
 | **Ironblood Orcs** | Primary shard-kin. Kinetic, martial, built from the outer impact shell | 2nd–3rd Eon |
@@ -59,6 +60,7 @@ The splitting of Hobgoblin and Orc — core versus shard — is not understood a
 **Metaphysical Anchor** · Essence, Physical and Resonant — **kinetic force, not light**
 Every physical feature they possess is a direct record of the force that made them: bone density three times a human's baseline, interlaced with microscopic mineral deposits; skin in metallic grey, slate-green, or russet-brown, marked with **Asteroidal Scars** that track the original fault lines of the asteroid itself. Their eyes have no traditional pupils — a **Heat-Signature glow**, molten iron or burning coal, that intensifies when they draw on Essence. Their voices are tectonic, carrying sub-bass frequencies **that physically vibrate the iron content of those standing nearby.**
 They stand between 6'6" and 7'4". Coarse black hair kept in topknots or ritual braids weighted with lead or iron rings — each ring, in traditional practice, **representing a weight earned rather than a trophy taken.**
+
 | Axiomatic Trait | Function |
 |---|---|
 | **Celestial Non-Conductivity** | Passive immunity to Tier-1/2 Elemental magic; Tier-3+ deals −50% damage. **Fire licks their skin like water; frost shatters on contact; lightning grounds instantly through their feet** |
@@ -145,6 +147,7 @@ Dominant consonants are `K`, `G`, `R`, and `V`, often stacked without intervenin
 ### Low Goblintongue
 
 The common trade and community language, and **the working language of Za'tarch.** Evolved from Old Vaross under pressure of cross-species contact: softer consonant clusters, more flexible syntax, still carrying the weight-bias of its parent tongue.
+
 | Word | Translation | Notes |
 |---|---|---|
 | **uk-sharrath** | Those who share the same wound | Used as *brethren* — but carries the specific implication of a shared **wound**, not a shared lineage. The key community word in Za'tarch |

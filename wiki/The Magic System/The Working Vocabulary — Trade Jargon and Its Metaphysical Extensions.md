@@ -26,6 +26,7 @@ Every entry below moves through the same three steps, and the third is where the
 ### I. The Draw
 
 Aether infrastructure runs on the vocabulary of water and gas fitting, because that is what it physically is: a main, a network of branches, meters, and a great many things that leak.
+
 | Term | Trade sense | WOTR extension | Cant |
 |---|---|---|---|
 | **main** | the primary supply line into a district | the district main; *on the main* is a property with a live feed | a man's main source of income |
@@ -49,6 +50,7 @@ Aether infrastructure runs on the vocabulary of water and gas fitting, because t
 
 The fire assay is the trade that determines what a thing actually is by destroying part of it, and it has supplied practitioner diagnosis with most of its working vocabulary.
 The real process: a sliver of the sample is wrapped in lead, sometimes pre-treated by **scorification** in lead foil, and heated in a porous **cupel** of bone ash inside a **muffle** furnace. The lead oxidises to **litharge**, which the cupel absorbs, carrying the base metals with it. What is left is a **bead**, or **button**, of the precious metal. **Parting** in acid separates silver from gold, and comparing weights gives the **fineness**.
+
 | Term | Trade sense | WOTR extension | Cant |
 |---|---|---|---|
 | **the assay** | destructive determination of true content | any procedure that establishes what a practitioner actually is, as against what they are registered as | *assayed* is found out |
@@ -74,6 +76,7 @@ It transfers directly and it transfers without explaining anything.
 ### III. The Glass
 
 Glasshouse vocabulary supplies the language of Draft vessels, lens work, and the physical condition of a Soul Crystal, and it supplies it better than any other trade because glass has the same three properties: it is worked hot, it holds stress invisibly, and it fails at the flaw you did not see.
+
 | Term | Trade sense | WOTR extension | Cant |
 |---|---|---|---|
 | **the metal** | molten glass, as glassmen call it | a Crystal in a worked state | — |

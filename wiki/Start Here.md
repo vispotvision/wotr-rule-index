@@ -11,9 +11,9 @@ War of the Realms is a dark shonen cultivation fantasy set in a magitech world, 
 ## The route, in order
 
 1. **[[The Magic System/How Magic Works|How Magic Works]]**. One page on the whole system in plain words: the Soul Crystal (the organ in the soul that stores power and sends it out), Stages, Grades, Traits, releases, Drafts and what everything costs. Start here even if you skip everything else.
-2. **[[Reference Table/A Reader's Codex|A Reader's Codex]]**, listed in the wiki as the **Glossary**. The world on one page, the history in brief, and forty terms the stories assume you know. Keep it open in a second tab.
+2. **[[A Reader's Codex|A Reader's Codex]]**, listed in the wiki as the **Glossary**. The world on one page, the history in brief, and forty terms the stories assume you know. Keep it open in a second tab.
 3. **[[The Magic System/The Measures at a Glance|The Measures at a Glance]]**. The numbers a scene throws at you (Stage, Grade, Level, reserve, coin) on one sheet, with what each one means at the table.
-4. **[[Guides/Who's Who, the Starting Threads|Who's Who: the Starting Threads]]**. The people at the centre of each live story, who they are and what they want, without the spoilers.
+4. **[[Who's Who, the Starting Threads|Who's Who: the Starting Threads]]**. The people at the centre of each live story, who they are and what they want, without the spoilers.
 5. **[[Factions, Bloodlines & Institutions/Factions at a Glance|Factions at a Glance]]**. The crowns, guilds, houses and sects that push the stories, each in a line or two: what it is and what it wants.
 
 ## The Magic System, in reading order
@@ -52,9 +52,9 @@ Scenes are not written in story order. If one seems to start in the middle, it p
 ## Where to go next
 
 - **The people:** [[Characters/Volume I — Character Cards|Volume I — Character Cards]]. One card per character: who they are, how they fight, how they sound.
-- **The land:** [[Geography/Geography & the Four Quarters|Geography & the Four Quarters]], then [[Geography & the Four Quarters/The Bearing and the Holding|The Bearing and the Holding]] for each quarter of the world.
-- **The powers:** [[Factions/Factions, Bloodlines & Institutions|Factions, Bloodlines & Institutions]], with [[Factions, Bloodlines & Institutions/The Guild Accord|The Guild Accord]] first, since every practitioner answers to it.
-- **The peoples and their tongues:** [[Peoples/Races & Peoples|Races & Peoples]] and [[Races & Peoples/The Tongues of the Realms|The Tongues of the Realms]].
-- **Money and daily life:** [[Value, Coin and Trade/What Things Cost|What Things Cost]].
-- **Monsters:** [[Bestiary/The Bestiary|The Bestiary]].
-- **Gods, planes and the deep past:** [[Cosmology/Cosmology & Metaphysics|Cosmology & Metaphysics]].
+- **The land:** [[Geography & the Four Quarters/Geography & the Four Quarters|Geography & the Four Quarters]], then [[Geography & the Four Quarters/The Bearing and the Holding|The Bearing and the Holding]] for each quarter of the world.
+- **The powers:** [[Factions, Bloodlines & Institutions/Factions, Bloodlines & Institutions|Factions, Bloodlines & Institutions]], with [[Factions, Bloodlines & Institutions/The Guild Accord|The Guild Accord]] first, since every practitioner answers to it.
+- **The peoples and their tongues:** [[Races & Peoples/Races & Peoples|Races & Peoples]] and [[Races & Peoples/The Tongues of the Realms|The Tongues of the Realms]].
+- **Money and daily life:** [[Geography & the Four Quarters/Value, Coin and Trade/What Things Cost|What Things Cost]].
+- **Monsters:** [[The Bestiary/The Bestiary|The Bestiary]].
+- **Gods, planes and the deep past:** [[Cosmology & Metaphysics/Cosmology & Metaphysics|Cosmology & Metaphysics]].

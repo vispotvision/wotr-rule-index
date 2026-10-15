@@ -72,6 +72,7 @@ A wound inflicted by a Wellspring process **does not stop.** A portion of the pr
 
 *Somebody has to decide. Everything else in this document is technique and this is the job.*
 The sorting is **by salvageability rather than by severity**, and it produces four groups in every army in every quarter.
+
 | Group | What is done |
 |---|---|
 | **Will live untreated** | Walking wounded. Dressed, sent back, **and resented by everyone for the noise they make about it** |

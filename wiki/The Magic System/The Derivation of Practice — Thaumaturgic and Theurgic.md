@@ -99,7 +99,7 @@ Measured across a standardised battery spanning **all three encounter axes — W
 > *Nobody will ever test him. The battery is administered to registrants, registration follows screening, and screening looks for a Crystal that has already stirred.* **Every screening season produces false negatives at a rate the Bureau has never estimated because it has no instrument that would notice.**
 > 
 > The Bureau's stated tolerance for unmodelled variables is low and declining. **Its actual exposure is the population of the four quarters.**
-> **The Bureau does not use the word** ***goetic*****.** It appears in the historical literature, meaning sorcery by personal will, used by the Sancta Lux theological apparatus to describe unconsecrated wonder-working, **and it carries a pejorative charge the Bureau's formal classifications are designed to avoid.**
+> <strong>The Bureau does not use the word</strong> <strong><em>goetic</em></strong><strong>.</strong> It appears in the historical literature, meaning sorcery by personal will, used by the Sancta Lux theological apparatus to describe unconsecrated wonder-working, <strong>and it carries a pejorative charge the Bureau's formal classifications are designed to avoid.</strong>
 >
 > The Bureau notes that the word remains in common use outside formal channels, **particularly among credentialed Magisters referring to Unregistered Naturals**, and that guidance discouraging it has been issued on four occasions.
 >

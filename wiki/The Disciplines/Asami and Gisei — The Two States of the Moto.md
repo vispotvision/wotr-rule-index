@@ -104,6 +104,7 @@ The practitioner, having found what they are underneath every cultivated layer, 
 ### The mechanism of sacrifice
 
 Gisei operates through **Oblation**, the same Wellspring that sustains Moetana. Where Moetana trades biological lifespan for duration, **Gisei trades identity for intensity.** The currency differs; the exchange principle is the same, and the total is conserved.
+
 | What can be sacrificed | What it costs |
 |---|---|
 | **Memories** | A specific memory, permanently surrendered. **Not suppressed. Not forgotten in the recoverable sense. Erased from the Core's identity layer as though it never existed.** *The memory of a meal produces a flicker. The memory of a child's first word produces a detonation* |

@@ -14,7 +14,7 @@ from strip_orphans import plain  # noqa: E402
 from system_accounts_publish import notion_of  # noqa: E402
 
 BLOCKS = ROOT / "imports/drafts/voice-blocks"
-CARDS = "wiki/Volume I — Character Cards"
+CARDS = "wiki/Characters/Volume I — Character Cards"
 
 
 def main():

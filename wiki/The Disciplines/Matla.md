@@ -14,6 +14,7 @@ verification: "unverified"
 > To the unlearned it appears to be the manipulation of stone, metal, flesh, earth, and crafted matter. To the scholars of Aegor, this is merely its outer expression.
 >
 > Where elemental disciplines command fire, water, wind, lightning, or earth, the Material Force governs the deeper principle beneath them all: **why does matter remain matter?**
+
 | **Primary Categories** | Arts · Domain-Weaving · Material Manipulation · Structural Authority · Manifestus Disciplines |
 |---|---|
 | **Secondary Categories** | Draft-Compatible · Conjunction-Compatible · Aspect Sovereignty Adjacent · Anti-Structure Phenomena · Totality-Class Frameworks |
@@ -119,6 +120,7 @@ Temperance determines whether the Soul Crystal can survive the contradiction of 
 ## Soul Crystal Architecture
 
 *The Manifestus Crucible Matrix.* A Crystal aligned with the Material Force develops a forge-like internal structure. The Essence Core thickens into layered geometric strata while the Aether Shell forms concentric weight-bearing rings, and six principal channels emerge.
+
 | Channel | Carries |
 |---|---|
 | **Mass** | matter, density, hardness, weight |

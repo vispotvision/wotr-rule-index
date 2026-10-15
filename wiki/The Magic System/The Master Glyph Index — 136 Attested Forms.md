@@ -52,6 +52,7 @@ A Family assignment names **the law being conditioned.** Fifteen of the unclassi
 ## Distribution by Archon
 
 *Each of the fourteen reads the same lattice from a different station.*
+
 | Archon | Forms | Archon | Forms |
 |---|---|---|---|
 | **Thalen** | 16 | **Zhaeren** | 8 |
@@ -73,6 +74,7 @@ A Family assignment names **the law being conditioned.** Fifteen of the unclassi
 > They render **without a tally**, which reads in-world as **a glyph the Continuum cannot classify** — *and the standing recommendation is to keep that as a feature rather than fill it.*
 >
 > **The Long Reading holds that the Moto ancestral seat's own name is written in one of these.** It is the oldest proper noun in the record **and it is deliberately blank.**
+
 | Glyph | Name | Class · Archon |
 |---|---|---|
 | `[RenB]` | **Boundary** | Root · Zhaeren |

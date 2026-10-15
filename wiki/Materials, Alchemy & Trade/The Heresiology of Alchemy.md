@@ -71,7 +71,7 @@ Lawful calcination burns away vanity, inherited falsehood, and the crust of self
 
 Lawful dissolution softens the self into relation with a greater law. **The practitioner learns permeability without annihilation.**
 Perverted dissolution occurs when the practitioner dissolves **not into Wellspring truth, but into another will**: a patron, teacher, order, monarch, lover, dead ideal, or institution. **This is the corruption of talent without boundary.**
-**Signs** · Research produced under visible reluctance yet defended with exhausted loyalty. Habitual use of *I had no choice*, *it was necessary*, **or** ***someone would have done it anyway*****.** Emotional flattening after acts that should have provoked moral protest. **Substitution of access, approval, or belonging for judgment.**
+<strong>Signs</strong> · Research produced under visible reluctance yet defended with exhausted loyalty. Habitual use of <em>I had no choice</em>, <em>it was necessary</em>, <strong>or</strong> <strong><em>someone would have done it anyway</em></strong><strong>.</strong> Emotional flattening after acts that should have provoked moral protest. <strong>Substitution of access, approval, or belonging for judgment.</strong>
 **Common expressions** · The gifted assistant writing what the master wished written. The court scholar engineering taboo procedures **in exchange for archive access.** The medical savant rationalizing increasingly invasive protocols **because the funding source is noble, sacred, or politically untouchable.**
 > **Danger.** Submission-corrupted alchemists become instruments for stronger corruptions in others.
 >
@@ -93,7 +93,7 @@ Perverted separation produces **a spectator soul**: clear-sighted, verbally prec
 
 Lawful conjunction **marries what has been truthfully separated.**
 Perverted conjunction joins things **for utility rather than truth.** The practitioner ceases to ask whether two elements belong together and asks only **whether the union produces power, access, leverage, continuity, pleasure, or political advantage.**
-**Signs** · Forced soul-pairings, coerced bindings, unauthorized grafts. **Reagents that only stabilize through suffering, fear, or domination.** Relationships treated as metaphysical infrastructure rather than covenant. **Research language that calls persons** ***anchors*****,** ***keys*****, or** ***fuel vectors*****.** Hybrid compounds whose stability is maintained through continuous suppression.
+<strong>Signs</strong> · Forced soul-pairings, coerced bindings, unauthorized grafts. <strong>Reagents that only stabilize through suffering, fear, or domination.</strong> Relationships treated as metaphysical infrastructure rather than covenant. <strong>Research language that calls persons</strong> <strong><em>anchors</em></strong><strong>,</strong> <strong><em>keys</em></strong><strong>, or</strong> <strong><em>fuel vectors</em></strong><strong>.</strong> Hybrid compounds whose stability is maintained through continuous suppression.
 **Common expressions** · Counterfeit resurrections assembled from grief, trace, and desire. Marriage of Wellspring signatures without compatible moral or glyphic mediation. **Dynastic blood-alchemy that treats lineages as breeding stock for lawful effect.**
 > **Instrumental union is the polite face of desecration.** It produces useful results quickly, **which is why courts, armies, and panicked physicians are especially vulnerable to it.**
 > **Every conjunction above minor grade must answer three questions before sanction.**

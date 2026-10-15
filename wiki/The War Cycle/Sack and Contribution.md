@@ -79,6 +79,7 @@ The men who do it are not different men from the men who did not do it the week 
 ## Afterward
 
 *A district that has been raided does not recover in the season. It recovers in the generation, or it does not.*
+
 | Interval | What happens |
 |---|---|
 | **The first year** | The stored grain is gone, **the seed grain is gone**, and the draft animals are gone. **There is no planting.** *What the raid did not take, the following winter does* |

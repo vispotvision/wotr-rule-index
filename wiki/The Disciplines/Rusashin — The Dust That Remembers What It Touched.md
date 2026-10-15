@@ -72,6 +72,7 @@ The inversion. Same contact, same template, **but an anti-phase copy**: mirrored
 ## The Ten Forms
 
 *The progression tracks three variables: particle count (simultaneous nucleation sites), particle persistence (how long each grain holds), and particle coordination (independent grains or unified structure).*
+
 | Form | Gate | What it does | Cost |
 |---|---|---|---|
 | **I · Dust** *Satsujin no Chiri* | Stage III | Essence into loose particulate — dust, pebbles, grit, each a separate 2–3 second nucleation. Launched as low-velocity projectiles or detonated on contact via Fractura fault-seeding. Some grains **draw a thin whip of the target's own Aether back along the fault line**, minor and inconsistent at this Form. *Grey-brown grit, faint mineral smell. On detonation: sharp crack, stone-dust cloud, a pale thread snapping back toward the caster* | 800–1,200 EU per handful |

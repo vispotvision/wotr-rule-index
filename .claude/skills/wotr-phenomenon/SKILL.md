@@ -35,7 +35,7 @@ Phenomenon line and the physics the three-stratum stack is built on.
 7. **Precedent.** Search once for the nearest anime, manga, LitRPG or CRPG
    version. Name it so the entry can diverge from it on purpose.
 8. **Hand it to wotr-write / technique-design** as the Phenomenon line.
-   Before a new art, check `wiki/Techniques/` and `wiki/Spellcraft/` for
+   Before a new art, check `wiki/The Disciplines/Techniques/` and `wiki/The Disciplines/Spellcraft/` for
    precedent inside the setting.
 
 ## Output: the Phenomenon line (under 150 words)

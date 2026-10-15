@@ -23,6 +23,7 @@ verification: "unverified"
 **Elemental Behemoth, Pure Manifestation · T3 through T8 · found wherever their respective Essence flows strongest**
 **Living manifestations of raw Wellspring energy**, formed when Essence concentrates in an unmediated state — around powerful Wellsprings, or where elemental energies surge unchecked. **Their existence predates many mortal races**, and they act as guardians or destroyers depending on circumstance and alignment.
 Their forms shift with their Essence: roaring flame, crashing wave, jagged stone, swirling gust and lightning. **They shimmer with Wellspring energy and may manifest elemental runes glowing faintly along their bodies.**
+
 | Type | Born from | Character | Powers |
 |---|---|---|---|
 | **Fire** | The molten veins of Theros and volcanic Wellsprings | Fierce and destructive | Flame manipulation, explosive bursts, heat auras |

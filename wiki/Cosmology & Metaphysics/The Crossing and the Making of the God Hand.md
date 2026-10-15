@@ -28,6 +28,7 @@ Instead: everything.
 ### Light, movement, and distance
 
 Three properties of the Soul Plane behave nothing like their Physical Plane counterparts, and the account is the primary source for all three.
+
 | Property | On the Physical Plane | On the Soul Plane |
 |---|---|---|
 | **Light** | Electromagnetic radiation bouncing off surfaces | **Recognition.** The luminosity the archive produces when it acknowledges something present in its field as significant. It does not illuminate from outside. It recognises from inside |

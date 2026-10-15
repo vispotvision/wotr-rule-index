@@ -59,6 +59,7 @@ verification: "unverified"
 **Rupture** (a Veil rupture: a channel struck through the Veil, not a Shell Rupture or Rupture Event) · A struck channel runs at a far lower field than it took to strike and stays struck until re-insulated: it is put out by removing its current or cooling it, never by pushing harder.
 **Echo Beasts** · Unresolved spiritual content crosses a rupture and condenses on the Physical side like a precipitate, keeping the character of what formed it and none of its mind.
 **Energy** · Coupling moves what is already present; the practitioner pays for the match, priced by thickness. A rupture was paid for once by whatever struck it and has run free since; containment is the expense.
+
 | Quantity | Working | Result |
 |---|---|---|
 | Transmission | e^(−2κd) | exponential in barrier thickness |
@@ -95,6 +96,7 @@ verification: "unverified"
 
 **Practitioner** · Bifold: Refraction, Expert, 51,800 to 961,000 EU, η 0.60 to 0.70. Crossings: Transcendence to Realization, Master, 9.90 × 10⁵ to 1.84 × 10⁷ EU, η 0.70 to 0.80. Carrying: Emanation, Grandmaster, 1.89 × 10⁷ to 3.51 × 10⁸ EU, η 0.85 to 0.90.
 **Paths** · Projection needs Attraction at Ascension to pass C (else a containment share carries no weight) and at Glory to pass A for reach; Synergy needs Attraction at Splintering to pass S; Yield needs Body at Ascension to pass C, or reserve refills slowly.
+
 | Operation | Thin Zone | Baseline | Thick Zone |
 |---|---|---|---|
 | Short crossing, in and back | 0.5 to 1% of reserve | 2% | 5 to 20%, past that unaffordable |

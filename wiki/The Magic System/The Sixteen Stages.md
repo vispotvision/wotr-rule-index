@@ -274,6 +274,7 @@ The coil reads a seat in under a minute, and everything below follows from that.
 ### The tells, for those who cannot afford a coil
 
 *Folk diagnosis. Unreliable in the individual case, correct often enough to have survived four centuries, and it has ended marriages.*
+
 | Tell | What it reads |
 |---|---|
 | **Cold hands that never warm** | Class III carry off cold-blooded stock, poorly integrated. Holds in roughly two cases out of three. The exceptions are people with bad circulation. |
@@ -292,6 +293,7 @@ A gutter-seated practitioner out of an eastern district is unpredictable, occasi
 ## Appendix B — The Threshold Trade, by Stage
 
 *Which market reaches which Stage, and what that decides.*
+
 | Transition | What the market supplies |
 |---|---|
 | **I to II** | Sour Iron Filings and Hearth Ward Wax. T1, coppers, available in any market. Nobody's advancement is gated here. This is the last Stage of which that is true. |

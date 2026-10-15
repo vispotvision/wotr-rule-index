@@ -27,6 +27,7 @@ Every figure in this ledger was taken **at the face**, not from a chartered clai
 ## What Magic Actually Did to Industry
 
 The common account is that Essence made industry possible. That is wrong in an instructive way. **Essence did not build the industry.** It removed four specific obstacles that had held mining and metalworking at a fixed ceiling for eleven centuries, and everything since has been the consequence of their removal.
+
 | Obstacle | What it held | What removed it |
 |---|---|---|
 | **Water** | No working anywhere ran more than sixty fathoms below the adit line for longer than a dry summer. The deep ore was simply understood to belong to nobody | Phreatis-fed lift arrays · Fluxia, Fluid Dynamics |
@@ -98,6 +99,7 @@ The tenders who work the arrays pay for this in the ordinary way. Long array dut
 
 *A separate class of open entry, and the one the Logistics Division finds most irritating.*
 Certain materials in continuous trade arrive under provenance names that no current survey can attach to anywhere. **The material is real.** It is assayed, priced, shipped, and used. The place it is said to come from cannot be found by anyone the Accord has sent to look.
+
 | Material | The problem |
 |---|---|
 | **Vellun Copper** | Trade-route evidence places the source hills in the western quarter. Four surveys have failed to confirm it. **The copper continues to arrive** |
@@ -108,10 +110,10 @@ The Measurewrights offer three explanations and endorse none. That the names are
 > The Guild notes that the third explanation is the one the corrected chronology makes least available. Fourteen hundred years is not long enough for a country to be forgotten by everybody while its exports continue.
 >
 > **Something is still loading those ships.**
-- [[The Bearing and the Holding/The Inner World — The Northern Shield]]
-- [[The Bearing and the Holding/The Old World — The Western Wearing]]
-- [[The Bearing and the Holding/The New World — The Eastern Rise]]
-- [[The Bearing and the Holding/The Outer World — The Southern Pan]]
-- [[The Bearing and the Holding/Yasoshima — The Eighty Isles]]
-- [[The Bearing and the Holding/The Hobgoblin Expanse]]
-- [[The Bearing and the Holding/Kushara — The Land That Remembers Weight]]
+- [[Geography & the Four Quarters/The Bearing and the Holding/The Inner World — The Northern Shield]]
+- [[Geography & the Four Quarters/The Bearing and the Holding/The Old World — The Western Wearing]]
+- [[Geography & the Four Quarters/The Bearing and the Holding/The New World — The Eastern Rise]]
+- [[Geography & the Four Quarters/The Bearing and the Holding/The Outer World — The Southern Pan]]
+- [[Geography & the Four Quarters/The Bearing and the Holding/Yasoshima — The Eighty Isles]]
+- [[Geography & the Four Quarters/The Bearing and the Holding/The Hobgoblin Expanse]]
+- [[Geography & the Four Quarters/The Bearing and the Holding/Kushara — The Land That Remembers Weight]]

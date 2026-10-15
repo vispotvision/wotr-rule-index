@@ -31,6 +31,7 @@ The two ledgers meet at exactly one place, which is **the price of Essence in me
 ## What Is Actually Valuable
 
 Stated highest first, **in the sequence the Arbitration Division pays creditors when a bankrupt estate is divided.** This ordering is not sentiment. It is the most honest statement of value the Accord has ever produced.
+
 | Rank | Asset |
 |---|---|
 | **First** | **Contracted Essence supply.** A secured right to delivery from a named source, for a stated term. Nothing else is senior to it. A western house with a lapsed supply contract is a house whose shafts will be underwater within four days |
@@ -101,6 +102,7 @@ In a world of bad roads, worse law, and kingdoms that repudiate their debts on s
 > The Kingdom of Nalūn sits on **Contract-aspected Wellsprings**, uniquely able to seal an agreement into metaphysical law. A Parun-bound contract executed under Nalūn authority is not a promise backed by a court. **It is a working**, and breaking it has consequences that arrive without anyone needing to be convinced, subpoenaed, or bribed.
 The Council of Links is sworn into office by such contracts. The High Chainlord is chosen by the **Trial of Ten Deals.** Every significant transaction in the chain-cities is sealed with linked tokens, and insulting a merchant's honour is a binding duel challenge because in Nalūn a merchant's honour is **a load-bearing financial instrument.**
 What this produces is the one thing medieval commerce anywhere else could not produce: **enforceable long-distance credit.** A bill drawn on Ironlink Hold is good in Kaetra and in the Ring smelters, not because those places respect Nalūn but **because the instrument enforces itself.**
+
 | Consequence | Effect |
 |---|---|
 | **Specie stays put** | Metal does not need to travel if claims on metal can. This is why the great bullion movements of the era are so much smaller than the trade volumes, and why a robbery on the Nalūn road is a poor business proposition |
@@ -261,4 +263,4 @@ The compromise everyone lives inside has three parts. **Crowns ennoble high rank
 ---
 
 > *Attested and sealed. Guild of Measurewrights, under the Hexagonal Oath, with the concurrence of the Council of Links as to instruments and their explicit reservation as to the final entry.*
-- [[Value, Coin and Trade/What Things Cost]]
+- [[Geography & the Four Quarters/Value, Coin and Trade/What Things Cost]]

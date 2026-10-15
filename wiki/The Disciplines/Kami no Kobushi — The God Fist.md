@@ -21,6 +21,7 @@ verification: null
 
 **Work** · Hametsu no Gō, the Work of Ruins
 **Type** · Collapse-Fixator · *Anchor what is already breaking and make it break correctly.*
+
 | Wellspring | Its office in the doctrine |
 |---|---|
 | **Fixatio** | Pins the opponent's structural failure at its exact point of origin, preventing recovery |

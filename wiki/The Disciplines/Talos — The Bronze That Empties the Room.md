@@ -90,6 +90,7 @@ Tenebra provides one refinement: partial self-shielding by tuning faceted geomet
 **Temperance Gate** · Stage X (Realization) minimum. Most do not achieve stable expression until Stage XI or XII.
 **Activation** · Sovereign Declaration. **The Domain and the null field become the same architecture.**
 The practitioner does not generate anti-phase interference and hope it cancels the right things. They impose cancellation as a governing principle, **and the Continuum enforces it.** The three limitations resolve:
+
 | Resolved | How |
 |---|---|
 | **Selectivity** | Their own abilities function fully. Allies can be exempted. Specific enemy techniques targeted while others are left intact. The practitioner reads an incoming signature via Gnosis, generates the anti-phase wave that cancels **that** signature, and leaves everything else untouched |

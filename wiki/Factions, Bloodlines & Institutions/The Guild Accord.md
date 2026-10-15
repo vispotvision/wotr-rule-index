@@ -61,6 +61,7 @@ flowchart TD
 > **The High Concordant.** Supreme Head, and the living voice of the Codex. Their soul is woven directly into the **Heart Vault**, the Wellspring Core at the centre of the Concord Citadel, and their breath sustains the Lattice's glow across every realm.
 >
 > **Should the High Concordant perish without succession, the Vault stills, and the Guild Accord collapses.**
+
 | Division | Authority |
 |---|---|
 | **Strategic** | Realm defense, military coordination, cross-realm warfare, Gate logistics. Commands the Concord Legion |
@@ -93,6 +94,7 @@ Commissions are the primary mechanism of advancement. Each completed mission dee
 ### How a Commission moves
 
 **Submission** · Civilians, scholars, or officials file at the nearest Guild Hall. **Validation** · Arbitration examines the request for legality, Essence risk, and moral justification. **Classification** · Threat Tier and Class assigned, then etched into the Lattice as a glyphic record. **Acceptance** · A party signs via Essence mark, **binding their resonance to the mission record.** **Completion** · Verified through scry-glyph or field report; the Lattice distributes echo marks. **Reward** · Aether credits, relics, or Temperance merit marks scaled to Tier.
+
 | Sigil | Tier | Meaning |
 |---|---|---|
 | **Green Sigil** | T1–T3 | Open field missions |
@@ -135,11 +137,11 @@ The ranks and what they cost. The currency of remembrance and the nine ways a so
 > **The Concordant cannot leave the Citadel.** Everything reaches them through five Divisional Heads who each decide what is worth carrying up, so the office is not exercised, it is curated. And because an unsucceeded death stills the Vault, the Council will accept almost any nominee rather than risk a gap, which means the contest happens entirely before the death.
 >
 > **Companies, academies and offices.** Master, Wardens and a self-appointing Court of Assistants; apprentice, freeman and liveryman, with entry to the freedom by patrimony, servitude or redemption. Academies teach and examine, societies elect and cannot be bought. And **an adventurer is somebody who ventures capital**, so a Commission is a venture with subscribers and shares, not a job with wages.
-- [[The Guild Accord/The Guild Accord in the Modern Era — Divisions, Companies, Academies and Offices]]
-- [[The Guild Accord/The Tiered Path]]
-- [[The Guild Accord/Merit and Severance]]
-- [[The Guild Accord/The Black Concord]]
-- [[The Guild Accord/The Concord Gate Network]]
-- [[The Guild Accord/The Concord Military]]
-- [[The Guild Accord/The Concord Citadel]]
-- [[The Guild Accord/The Practitioner Problem]]
+- [[Factions, Bloodlines & Institutions/The Guild Accord/The Guild Accord in the Modern Era — Divisions, Companies, Academies and Offices]]
+- [[Factions, Bloodlines & Institutions/The Guild Accord/The Tiered Path]]
+- [[Factions, Bloodlines & Institutions/The Guild Accord/Merit and Severance]]
+- [[Factions, Bloodlines & Institutions/The Guild Accord/The Black Concord]]
+- [[Factions, Bloodlines & Institutions/The Guild Accord/The Concord Gate Network]]
+- [[Factions, Bloodlines & Institutions/The Guild Accord/The Concord Military]]
+- [[Factions, Bloodlines & Institutions/The Guild Accord/The Concord Citadel]]
+- [[Factions, Bloodlines & Institutions/The Guild Accord/The Practitioner Problem]]

@@ -51,7 +51,7 @@ def candidates(only: str | None) -> list[Path]:
 
 def merge_ledger() -> dict[str, str]:
     """Part Twelve's Merge Ledger: retired Sub-Stat name -> the entry that absorbed it."""
-    page = WIKI / "Fracture of Worlds — The Living System" / "IV. The Eight Primaries and the Sixty-Four Sub-Stats (Part Twelve).md"
+    page = WIKI / "The Magic System" / "Fracture of Worlds — The Living System" / "IV. The Eight Primaries and the Sixty-Four Sub-Stats (Part Twelve).md"
     out = {}
     for line in page.read_text(encoding="utf-8", errors="replace").splitlines():
         c = [x.strip() for x in line.strip().strip("|").split("|")]

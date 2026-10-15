@@ -115,6 +115,7 @@ Disagreement between the two assays beyond tolerance sends the lot back **and is
 ## The Record of Strikings
 
 *One hundred and forty-one formulas struck in the last century. The following are the ones instructors are expected to know.*
+
 | Year | Striking |
 |---|---|
 | **631** | **The Ninefold Suture** · A Vitalia binding compound in general use in field infirmaries for two centuries. Struck on doctrinal grounds after a reread found the Sealing role carried by a glyph **that had drifted in meaning since entry.** The Measurewrights recorded that the compound **had never once failed in the field** and that the Striking was doctrinally correct, *and entered both statements in the same paragraph* |

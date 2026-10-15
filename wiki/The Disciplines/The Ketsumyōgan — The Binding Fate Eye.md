@@ -141,6 +141,7 @@ flowchart TD
 ## The Pairing System · Sōshi 双糸
 
 The left eye is traditionally called the **Inshi** 因糸, Cause Thread. The right is the **Kashi** 果糸, Effect Thread. The pairing is not arbitrary; the Soul Crystal's architecture determines which types manifest where. When both are activated simultaneously, the configuration produces a combined function neither type can achieve alone, named separately from its components and representing the bearer's unique contribution to the tradition.
+
 | Sōshi | Pairing | Reputation |
 |---|---|---|
 | **Ingaken** 因果剣 *Blade of Cause and Effect* | Teishi + Danshi | The most feared duelist's configuration in Yukari history |
@@ -187,6 +188,7 @@ The left eye is traditionally called the **Inshi** 因糸, Cause Thread. The rig
 
 **Essence Drain** · Every active function consumes Essence at a rate proportional to the number of threads being processed. Passive perception is sustainable for extended periods. Active manipulation drains at combat-rate output, and sustained Sōshi use at full resolution **can empty a well-developed Crystal in minutes.**
 **Resonance Trauma** · The Ketsumyōgan processes triplanar data through a Crystal that was not designed for triplanar operation. Prolonged use produces micro-stress in the lattice, particularly in the Aetheric interfaces bridging the Crystal's Physical-Plane housing with the Soul-Plane and Fate-Plane data streams. This manifests as **the Threadburn**.
+
 | Threadburn symptom | Presentation |
 |---|---|
 | **Phantom thread-perception** | Seeing threads that do not exist |

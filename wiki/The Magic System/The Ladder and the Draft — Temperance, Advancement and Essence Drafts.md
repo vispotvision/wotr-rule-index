@@ -43,6 +43,7 @@ The second key is why the ladder cannot be bought, and the first key is why peop
 ## III · What climbs, layer by layer
 
 *The ladder is usually read as one number going up. It is three architectures changing at different rates, and they do not change together.*
+
 | Tier of Standing | Essence Core (inner layer: identity, memory, Traits) (inner layer: identity, memory, Traits) | Aether Shell | Attraction Layer (outer layer: bonds, Domains, Wellspring ties) (outer layer: bonds, Domains, Wellspring ties) |
 |---|---|---|---|
 | **1–4 · I–IV** | Identity assembling. Traits present but volatile, with real risk of misfire and self-harm. | Forming and porous. Output arrives before control does. | First harmonisation. First Spirit Axis at Flourishing. |
@@ -58,6 +59,7 @@ The second key is why the ladder cannot be bought, and the first key is why peop
 ## IV · Essence Drafts
 
 *Aether + Essence + Vessel + Glyphica (the glyph-writing that shapes a working) = Reaction. A Draft is a working stabilised into a substance, and the substance came from somewhere.*
+
 | Type | Source | Potency | Risk |
 |---|---|---|---|
 | **Creature-Sourced** | Magical creatures | Highest | **Identity Contamination** |

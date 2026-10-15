@@ -18,6 +18,7 @@ The Realms have more naming registers than they have languages, and the distinct
 **A register** is a naming and idiom system used as a cipher for a culture: Japonic for the archaic bloodlines, Korean for the Mahuo, Chinese for the lineage halls, Northern for the chartered families, Far-Northern carried-names for the tundra peoples. These do not get grammars. They get naming rules, idiom inventories and dialect levers, and those live in the Naming Guide and the Racial Voice Guide.
 **A constructed language** is one the reader sees untranslated on the page, whose morphology carries meaning the translation cannot, and where a character's grasp of it is a plot fact. These get full grammars.
 By that test there are five, and one script system. Common is the fifth and is a deliberate exception, admitted below.
+
 | Tongue | Status | Why it earns a grammar |
 |---|---|---|
 | **Old Vaross** | Built | Already on the page untranslated. Canon roots exist. Its morphology carries the goblinoid worldview: no adjectives, weight-and-cost verb pairs, emphasis by vowel length. |
@@ -64,12 +65,12 @@ Every grammar follows the same eleven sections so they can be compared and so ga
 
 Complete. Old Vaross, Eressean and Varrisak, Runic Dawi, Accord Latin and the Fourteen Hands are all built.
 What remains is maintenance rather than construction: the Drow Shadow-Veil notation is described from outside in three places and has no entry of its own, and Mirror-Sign is named as a full manual language with its own grammar and has never been given one. Neither is urgent. Both are real gaps.
-- [[The Tongues of the Realms/Old Vaross — The Goblinoid Tongue]]
-- [[The Tongues of the Realms/Eressean and Varrisak — The Tongue of the Vey-Elarin]]
-- [[The Tongues of the Realms/Runic Dawi — The Tongue of the Holds]]
-- [[The Tongues of the Realms/Accord Latin — The Formulary and the Two Spoken Registers]]
-- [[The Tongues of the Realms/Common — The Tongue With No Distinctions]]
-- [[The Tongues of the Realms/Element Inventories — Mahuo, Yukari, the Elven Branches, Beastkin]]
-- [[The Tongues of the Realms/Moto Element Inventory — Japonic Stratum]]
-- [[The Tongues of the Realms/The Celestial Host — Naming]]
-- [[The Tongues of the Realms/Swears, Oaths and Insults]]
+- [[Races & Peoples/The Tongues of the Realms/Old Vaross — The Goblinoid Tongue]]
+- [[Races & Peoples/The Tongues of the Realms/Eressean and Varrisak — The Tongue of the Vey-Elarin]]
+- [[Races & Peoples/The Tongues of the Realms/Runic Dawi — The Tongue of the Holds]]
+- [[Races & Peoples/The Tongues of the Realms/Accord Latin — The Formulary and the Two Spoken Registers]]
+- [[Races & Peoples/The Tongues of the Realms/Common — The Tongue With No Distinctions]]
+- [[Races & Peoples/The Tongues of the Realms/Element Inventories — Mahuo, Yukari, the Elven Branches, Beastkin]]
+- [[Races & Peoples/The Tongues of the Realms/Moto Element Inventory — Japonic Stratum]]
+- [[Races & Peoples/The Tongues of the Realms/The Celestial Host — Naming]]
+- [[Races & Peoples/The Tongues of the Realms/Swears, Oaths and Insults]]

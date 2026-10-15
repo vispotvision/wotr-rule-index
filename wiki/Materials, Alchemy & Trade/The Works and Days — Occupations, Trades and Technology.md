@@ -28,6 +28,7 @@ Every occupation below exists because something needs doing **that has not yet b
 ## The Three Floors
 
 *Almost every argument about dignity, wages, and what a person is worth can be resolved by asking which floor they stand on.*
+
 | Floor | Standing |
 |---|---|
 | **First** *people the instrument sees* | Ranked practitioners carrying silver tokens that are **simultaneously badges, passports, lines of credit, and bullion.** In the Arbitration Division's language, **attributable capability** — sitting second on the creditor schedule behind only contracted Essence supply. *Roughly one in twelve in the west, fewer in the east, and falling in the Withering era because Welling-stage children are fewer and the instrument's floor has not moved* |
@@ -60,6 +61,7 @@ What a Third Floor soul undergoes instead of Temperance is **the Weathering**: r
 The western staple is **spelt wheat**, ground on stone querns or Vectoria-assisted mill arrays. **The nutritional distinction is texture. The social distinction is vast** — *array-ground flour is white, fine and urban; hand-ground flour is brown, gritty, and what the person eating it could afford.*
 > A western peasant eats dark bread, pulse porridge, whatever grows in the kitchen plot, whatever was salted or smoked in autumn, and the occasional egg. **Meat is a feast-day occurrence for most households and an ordinary meal for none.**
 *The Dawi grow nothing underground and import everything at prices that make every other kingdom wince* — which is why their cuisine is built around what can be preserved, concentrated and stored in bulk, **and why the sour barley beer of the lower Ring levels is described by every non-Dawi visitor as an acquired taste and by every Dawi as beer.**
+
 | Trade | The work | What it costs |
 |---|---|---|
 | **The Farmer** | Plough, sow, weed, harvest, thresh, winnow, **and pray that the weather, the insects and the local Wellspring density cooperate in that order.** *In array districts the plough may be weight-ablated — which does not pull it but halves the draught. The farmer who owns this does not call it magic. He calls it the harness that cost him two seasons' surplus, and he sleeps with it inside the house* | The specific musculoskeletal damage of forty years behind a plough, **and the levy — which takes the young men at planting and returns them at harvest if it returns them at all.** *Withering-era agriculture in formerly high-density districts is a slow catastrophe: the soil remembers the yield it used to produce, and the farmer is working ground that has been taught to expect more than the local Wellspring can now deliver* |
@@ -149,6 +151,7 @@ The western staple is **spelt wheat**, ground on stone querns or Vectoria-assist
 **The Essence Works** · **Clean, humming and glass-roofed.** A long shed with an engine at one end and shafting overhead, belts dropping to rows of looms, lathes, presses or stitching frames, and no chimney anywhere. *Visitors from the provinces expect smoke and find a hum, and cannot understand why the people inside look so tired.* **The grime of the age is in the conditions, not the air.**
 **What it makes** · **Everything a household used to make for itself, and makes it cheaper.** Cloth by the mile, boots by the thousand pair, nails by the ton, tins, needles, screws, rifles to a pattern whose parts go into any rifle of the same mark. *Mass production is the discovery that a thing made the same way ten thousand times needs no craftsman after the first.*
 **Who owns it** · **Chartered houses, great houses and the factor houses that fund both.** The raw stock comes in under charter from the eastern arc and the south, the finished goods go back out along the same routes at the price the charter sets, and the margin stays in the west. *The age calls this trade. The places at the far end of the charter have other words for it.*
+
 | Trade | The work | What it costs |
 |---|---|---|
 | **The Machine Hand** | Minds a loom, a lathe or a press for a seven-hour shift, half the Guild day, twelve days in every turn. **Women and children at the looms, men at the presses, anyone at all at the stitching frames.** *Third Floor by classification and unskilled by definition, because the skill went into the machine* | Fingers in the belts, deafness from the hum by forty, fines for lateness by the Guild clock at the gate, and **the unsealed field in the ground under the shed**, which no Board surveys and every hand eventually feels as a heaviness |
@@ -171,6 +174,7 @@ The western staple is **spelt wheat**, ground on stone querns or Vectoria-assist
 *The great city of the age is brick and stone, four to six storeys, and was mostly built inside one long lifetime.*
 **The Street** · **Terraces for the clerk, tenements for the hand, villas for the owner, and the tram between them.** Brick in the west, grey stone in the north, stucco on the fashionable squares. Iron bridges of Stillband iron over every river and railway cutting. *The streets are Essence-lit and never quite dark, and the country-born do not sleep for the first month.*
 **The Arcade** · A covered street of shops under a glass-and-iron roof, lit after dark, warm in winter, patrolled by beadles who keep out the poor. **The age's cathedral, and it charges no tithe until you buy something.**
+
 | Trade | The work | What it costs |
 |---|---|---|
 | **The Builder** | Bricklayer, hod-carrier, joiner, plasterer, slater, glazier. **The city is going up faster than it has ever gone up**, and the men putting it up live in the parts that went up worst | Falls, lime-burns and the seasonal lay-off. *A builder is out of work every winter and on the parish every hard one* |
@@ -225,6 +229,7 @@ The western staple is **spelt wheat**, ground on stone querns or Vectoria-assist
 
 > **The Guild is a paper empire.** It holds no territory, fields no levy and hangs nobody, and it governs four quarters through forms. *A thing that has not been entered has not happened, and a thing that has been entered in three copies has happened three times.*
 Everything of consequence needs a paper, and most things of no consequence need one too. **A draw permit, a trade licence, a residence entry within one turn of arrival, a practitioner's registration, a travel pass for the Concord Gate, a stamp on every contract and a stamp on the stamp.** Each is made out in triplicate on carbon, one copy for the applicant, one for the office and one for the Archive, *and the Archive's copy is the one that survives.*
+
 | Trade | The work | What it costs |
 |---|---|---|
 | **The Clerk** | Copies, files, enters and totals, on a high stool, by the Guild clock. **The largest respectable trade of the age**, and the one every family off the land wants for its cleverest son | Short sight, a stoop, a salary paid quarterly in arrears, and the knowledge that the typewriter is coming for the copying half of the work |

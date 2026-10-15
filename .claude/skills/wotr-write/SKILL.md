@@ -42,7 +42,7 @@ none has it, it is an estimate inside the documented range and labelled so.
    `scene_recall("<moment>")` for prior scenes on the same ground.
 4. **Codex** for anything worked: `wiki/The Magic System/` (The Master Glyph
    Index, The Eight Families & the Sixty Wellsprings, The Magical Categories,
-   The Lexicon of Magic), `wiki/Techniques/` for precedent.
+   The Lexicon of Magic), `wiki/The Disciplines/Techniques/` for precedent.
 5. **FOW line** for every named practitioner: `fow_line(name)`. Check the
    thread's State of Play for which card is in play when there are two.
 6. **Standing Inventory** for the culture: `desktop/inventories/<culture>.md`.

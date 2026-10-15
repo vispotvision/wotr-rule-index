@@ -48,6 +48,7 @@ Most mortals awaken three to five Wellsprings in a lifetime. Serious adepts harm
 **A Wellspring is not a place. But a Wellspring pools.**
 The way groundwater is not stored in a specific container but absolutely collects in aquifers, a current concentrates where the substrate is Aether-conductive, where competing currents are absent, and where enough time has passed for the current to saturate the local field **until the physical environment begins expressing the law passively.**
 > **A Wellspring site is the aquifer. The current is the water table.**
+
 | Condition | Why it matters |
 |---|---|
 | **Conductive substrate** | The era-one emplacement described in *The Four Ceilings* laid the mineral foundation during the Creation Age |
@@ -72,6 +73,7 @@ A current captured, bound, or naturally accumulated inside a vessel produces **a
 
 *The physics-first sorting tells the practitioner which Family governs their output. The encounter-type classification tells the surveyor which direction the danger arrives from.*
 > **The classification rests on a single question: where does the effect originate, and where does it arrive?**
+
 | Type | Mechanism | Dominant Families |
 |---|---|---|
 | **Wild** *Physical Plane dominant* | The current acts on **existing physical material.** The stone was there. The water was there. The metal was there. **The current reshapes it, moves it, compresses it, grows it.** *The landscape is visibly altered. The surveyor's body is a reliable instrument. The surveyor's environment is not* | Materia, Spatium |
@@ -96,6 +98,7 @@ A current captured, bound, or naturally accumulated inside a vessel produces **a
 ## The Density Scale
 
 *The encounter type determines the direction of the danger. The density determines its magnitude.*
+
 | Density | Condition |
 |---|---|
 | **Ambient Saturation** | The most common condition across the mapped world, and no kin to Aetheric Saturation, the lethal flood. **A Sage can tune to it. An ordinary person feels vaguely uneasy or peaceful.** The landscape carries subtle signs |
@@ -108,6 +111,7 @@ A current captured, bound, or naturally accumulated inside a vessel produces **a
 *The condition is what a surveyor writes down. The number is what the ground will actually give.*
 One EU is one megajoule, so a density in EU per cubic metre is an energy density, and an energy density is a pressure. **A density in EU/m³ is the same figure in megapascals.** That one identity is why the scale is a ceiling and not a mood. A boundary cannot be pushed into ground at a pressure the ground does not carry, and what is standing in the ground has a strength measured in the same unit.
 **What a site will actually give.** A current crosses a site the size of a hall in about a thousand seconds. That is the interval in which the ground replaces what has been taken from it. So a site yields at most **a thousandth of its density, per second**. The supply rate in AU/s (Aether Units per second, a rate of output) per cubic metre is the density in EU/m³ divided by a thousand, and the ceiling on a practitioner's output is that rate across the volume his field reaches.
+
 | Density | EU/m³ | As pressure | Supply, AU/s per m³ | Where that sits |
 |---|---|---|---|---|
 | Aether-thin ground | 0.001 to 0.1 | 1 kPa to 0.1 MPa | 10⁻⁶ to 10⁻⁴ | below one atmosphere of Aetheric pressure |
@@ -160,6 +164,7 @@ One EU is one megajoule, so a density in EU per cubic metre is an energy density
 ## Environmental Coupling
 
 Because each Family answers to a real physical domain, each Family answers to real physical conditions. Aetheric Density sets the ceiling on output rate everywhere, but a Family's Physics Domain sets a **second, narrower gate** on top of it, and veterans choose ground accordingly.
+
 | Family | Encounter type | Favoured conditions | Suppressive conditions |
 |---|---|---|---|
 | **Caloria** | **Spirit** (Fire/Heat/Cold) · **Medium** (Light) | Steep thermal gradients, combustible atmosphere, geothermal ground | Thermal equilibrium, saturated cold, oxygen-poor air |
@@ -197,11 +202,11 @@ Because each Family answers to a real physical domain, each Family answers to re
 ## The Register
 
 Each Family carries its own entry, with every Wellspring given its Analogue, Mechanism, Stat Effect, and Failure.
-- [[The Eight Families & the Sixty Wellsprings/Caloria — Thermodynamics]]
-- [[The Eight Families & the Sixty Wellsprings/Fulguria — Electromagnetism]]
-- [[The Eight Families & the Sixty Wellsprings/Vectoria — Mechanics]]
-- [[The Eight Families & the Sixty Wellsprings/Spatium — Spatial Geometry]]
-- [[The Eight Families & the Sixty Wellsprings/Materia — Material Science]]
-- [[The Eight Families & the Sixty Wellsprings/Vitalia — Biochemistry]]
-- [[The Eight Families & the Sixty Wellsprings/Fluxia — Fluid Dynamics]]
-- [[The Eight Families & the Sixty Wellsprings/Limina — Entropy, Void and Mind]]
+- [[The Magic System/The Eight Families & the Sixty Wellsprings/Caloria — Thermodynamics]]
+- [[The Magic System/The Eight Families & the Sixty Wellsprings/Fulguria — Electromagnetism]]
+- [[The Magic System/The Eight Families & the Sixty Wellsprings/Vectoria — Mechanics]]
+- [[The Magic System/The Eight Families & the Sixty Wellsprings/Spatium — Spatial Geometry]]
+- [[The Magic System/The Eight Families & the Sixty Wellsprings/Materia — Material Science]]
+- [[The Magic System/The Eight Families & the Sixty Wellsprings/Vitalia — Biochemistry]]
+- [[The Magic System/The Eight Families & the Sixty Wellsprings/Fluxia — Fluid Dynamics]]
+- [[The Magic System/The Eight Families & the Sixty Wellsprings/Limina — Entropy, Void and Mind]]

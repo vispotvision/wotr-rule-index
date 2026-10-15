@@ -43,6 +43,7 @@ flowchart TD
 ## The Complete Registry
 
 Listed in order of emergence, with governing Archon, common name, thematic designation, and primary function.
+
 | Archon | Magic | Designation | Primary function |
 |---|---|---|---|
 | **I. URION** | Order Magic | *Judicaris* | Equilibrium, judgment, cosmic fairness, enforced symmetry |
@@ -161,10 +162,10 @@ Every one of the hundred and thirty-six attested glyphs belongs to an Archon bec
 ## The Pantheon in Full
 
 Each Archon's Domain, Celestial Form, Glyphs, Divine Edict, magic, and web of relation, arranged by the tension each pair holds open.
-- [[The Fourteen Archons/The Primordial Dyad — Order and Chaos]]
-- [[The Fourteen Archons/Pair I — Form Against Time]]
-- [[The Fourteen Archons/Pair II — Memory Against Horizon]]
-- [[The Fourteen Archons/Pair III — Will Against Desire]]
-- [[The Fourteen Archons/Pair IV — Insight Against Dream]]
-- [[The Fourteen Archons/Pair V — Motion Against Stillness]]
-- [[The Fourteen Archons/Pair VI — Harmony and Renewal]]
+- [[Cosmology & Metaphysics/The Fourteen Archons/The Primordial Dyad — Order and Chaos]]
+- [[Cosmology & Metaphysics/The Fourteen Archons/Pair I — Form Against Time]]
+- [[Cosmology & Metaphysics/The Fourteen Archons/Pair II — Memory Against Horizon]]
+- [[Cosmology & Metaphysics/The Fourteen Archons/Pair III — Will Against Desire]]
+- [[Cosmology & Metaphysics/The Fourteen Archons/Pair IV — Insight Against Dream]]
+- [[Cosmology & Metaphysics/The Fourteen Archons/Pair V — Motion Against Stillness]]
+- [[Cosmology & Metaphysics/The Fourteen Archons/Pair VI — Harmony and Renewal]]

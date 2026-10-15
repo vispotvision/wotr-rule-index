@@ -21,6 +21,7 @@ verification: "unverified"
 Spirit-born from Harmonic Wellspring resonance during the Harmonial Age. **Said to be the first beings Florwyn dreamed into being when she envisioned peace between mortal and spirit realms.** Rare herds persist in secluded Material World forests where Harmonic Wellsprings surface.
 Equine and slender. Coats shimmer under moonlight in pure white, silver, pale gold or rare midnight blue. **Horns long and spiralled, glowing when they channel.** Eyes luminescent gold or pale blue; elders bear star-flecked irises. *Their manes move as though in a breeze that is not there.*
 They travel in loose herds of four to six under an elder mare called a **Moonkeeper**, and vanish into dream-light trails during migration. **Highly intelligent, cautious, and not inherently aggressive** — but they defend Wellsprings from corruption fiercely, and will ally with mortal defenders where trust is earned.
+
 | Abilities | Weaknesses |
 |---|---|
 | **Harmonic Healing** · purifies Essence corruption, mends wounds, calms emotional unrest **Moonveil Step** · short-range teleportation through dreamlight, leaving an aurora shimmer **Wellspring Guard** · speed and magic resistance greatly amplified within a Wellspring's range **Horn of Binding** · channels a Conjunction of `Ma` Memory + `Ur` Balance to seal a corrupted being temporarily | Cannot survive heavily corrupted or void-aspected zones; **prolonged exposure sickens them** Trust is hard to earn — hostility meets immediate evasion or overwhelming defence **Horn shattering removes most of their magical ability**, and is considered sacrilege in many cultures |
@@ -38,6 +39,7 @@ They travel in loose herds of four to six under an elder mare called a **Moonkee
 Shaped in the early Harmonial Age where Harmonic and Air-aspected currents intertwined. **Many hold that Omnis himself moulded the first griffons as aerial guardians of the floating citadels.**
 Forequarters of a great eagle fused seamlessly into the hindquarters of a lion. **Plumage reflects Wellspring alignment** — white and silver for skybound flocks, bronze and gold for sun-favoured lineages, storm-grey for tempest dwellers. *Talons strong enough to pierce tempered steel.*
 Predatory but not needlessly aggressive, and **fiercely territorial over nesting cliffs and Wellspring-fed aeries.** They mate for life; bonded pairs defend a chosen roost until death. **They ally with mortal riders who pass their trials of worthiness.**
+
 | Abilities | Weaknesses |
 |---|---|
 | **Aerial Supremacy** · extreme manoeuvrability in high wind; dives above 200 kph **Sonic Cry** · a screech that disrupts Essence concentration and shatters brittle material **Wellspring Bond** · increased stamina and magic resistance defending bonded territory or rider **Sky Rend** · a dive capable of breaking siege engines or large beasts in one strike | **Poor endurance in prolonged ground combat** Vulnerable to nets, entangling magic, and attacks on wing membranes ***Will abandon combat to protect nests or mates*** |
@@ -53,6 +55,7 @@ At the **Battle of Skychain Pass**, twelve storm griffons routed a Crevice-born 
 Born from the fusion of Harmonic and Air-elemental currents. **Legend says they were first formed by Nysera's breath during a cataclysmic lightning storm that tore through the ancient forests of Edenis.**
 A lithe quadruped between wolf and great cat, cloaked in crackling blue-white fur that arcs with static. **Eyes glow bright violet.** Long whip-like tails and sharp talons ending in glowing tips.
 Wild, unpredictable, **fiercely territorial.** They hunt in small packs and alone in storm season. Their howls are said to summon lightning **and their presence foreshadows violent weather.** *They show a playful cunning, stunning prey with sudden bursts before closing.*
+
 | Abilities | Weaknesses |
 |---|---|
 | **Stormcall Howl** · summons localised lightning strikes and electric storms **Electric Surge** · bursts through fur and talons to stun **Static Cloak** · a crackling field that disrupts magic and shocks attackers **Lightning Leap** · closes distance instantly on a trail of electricity | Vulnerable in enclosed spaces where mobility is limited **Water dampens their static and can cause unpredictable feedback** Excessive cold temporarily suppresses their lightning |
@@ -161,6 +164,7 @@ Gleaming white coats, large feathered wings shimmering with radiant light, eyes 
 Born from the purest Fire and Harmonic currents, **embodying cycles of destruction and renewal.** Said to arise from the ashes of its own death. **Revered as a divine omen and protector of sacred Wellspring sites.**
 A massive bird, plumage of blazing red, gold and orange, radiating light and warmth. **Eyes glowing with intense fire, feathers shimmering as if aflame.** Its flight leaves trails of embers.
 Noble, majestic, **fiercely protective.** It intervenes to purge corruption and restore Wellspring balance.
+
 | Abilities | Weaknesses |
 |---|---|
 | **Rebirth Flame** · immolates itself to ashes and is reborn, restoring vitality **Radiant Burst** · waves of purifying fire that cleanse corruption and heal allies **Essence Beacon** · amplifies Wellspring energy, empowering nearby creatures and sites **Flame Talons** · scorching strikes capable of melting armour and flesh | ***Vulnerable during the rebirth cycle, when it exists only as ashes*** Susceptible to water and Essence-dampening magic **Bound to Wellspring sanctuaries, which limits its range** |

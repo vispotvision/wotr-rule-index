@@ -88,7 +88,7 @@ A first-person account written late in a long life, by a woman who **watched the
 
 ## The Appendix
 
-> *I had thought to stop, but age has taught me that stopping points are often vanity disguised as form. Take these as field counsel from one who has failed often enough to distrust elegance and succeeded often enough to know the work deserves endurance.**
+> I had thought to stop, but age has taught me that stopping points are often vanity disguised as form. Take these as field counsel from one who has failed often enough to distrust elegance and succeeded often enough to know the work deserves endurance.
 
 ### On entering a charged room
 

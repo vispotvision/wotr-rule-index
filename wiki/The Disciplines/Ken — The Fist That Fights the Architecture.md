@@ -46,6 +46,7 @@ Two phases. **Both required. Neither functions without the other.**
 
 A Judicium-mediated diagnostic scan performed through proximity, visual assessment, or — at advanced expression — **through the contact of the strike itself.** The practitioner identifies where Vitality Fortitude anchors to the skeletal system, where Dexterity Celerity feeds the fast-twitch motor neurone pools, where Gnosis Cognition surfaces at the prefrontal Essence junction, where Harmonics Stability roots at the vagal complex.
 Each interface carries a characteristic frequency, determined by Crystal architecture, current Stage, and the specific sub-stat being expressed. **The read identifies that frequency. The strike delivers the counter-frequency.**
+
 | Gnosis Grade | Diagnostic resolution |
 |---|---|
 | **C-Grade** | Broad regions. Upper body physical, lower body physical, cognitive cluster |
@@ -63,6 +64,7 @@ A chop to the side of the neck at the frequency that disrupts the Cognition inte
 ## Ken — Physical Mode
 
 *Targets Vitality, Ardency, Dexterity interfaces. Judicium diagnostic + Fractura precision.*
+
 | Effect | What happens |
 |---|---|
 | **Strength drain** | A strike to the shoulder girdle disrupts the Ardency Flux interface at the deltoid-trapezius junction. The muscles function at **40–70% of prior output.** The opponent cannot determine why: the muscles are not fatigued, torn or damaged. The instruction is not arriving at full fidelity |

@@ -20,6 +20,7 @@ verification: "unverified"
 Level is the count of how many times a Soul Crystal has meaningfully densified. It is not a measure of age. It is not a measure of training hours. It is the sediment of genuine contact with consequence, counted, compressed, and expressed as a number.
 The ceiling is **500** for every practitioner below Stage (one of the sixteen rungs of a soul's refinement) XV. This is the structural limit of what a mortal Soul Crystal can contain before the distinction between practitioner and Principle collapses entirely. Characters below Stage XV who reach Level 500 and continue to accumulate pressure do not advance in level. They begin the Apotheosis approach (the slow crossing from practitioner into living law), a qualitative event outside the scope of numbered progression. **Paragons (the highest standing, Stages XV and XVI) exceed Level 500.** At Stages XV–XVI, Level keeps rising past 500 with no ceiling and no sixth Band; the Codex does not number it.
 > No character can breach a Band ceiling without first passing the Temperance Threshold (the crisis that refines a soul up to its next Stage) that cluster demands. The System will simply halt the level counter and build pressure, called **Residual Strain**, until the Threshold is passed or the character fractures under the weight.
+
 | Band | Levels | Temperance cluster | Gate |
 |---|---|---|---|
 | **I · Mortal Foundation** | 1 – 100 | Stage I through IV · Murmuring to Flourishing | Stage IV before Level 100 can be surpassed |
@@ -48,6 +49,7 @@ Tier Grade is the qualitative bracket that determines what scale of force, pheno
 >
 > **A Primary is the combined total of its eight Sub-Stats, and its Grade is read off the mean.** Points are spent on Sub-Stats only; the Primary is the arithmetic afterward. Eight Ardency (the stat for how hard a soul's Essence hits) Sub-Stats totalling 2,400 give a mean of 300 and an A-Grade Ardency, which is the figure a character sheet has always carried on the Primary line. The total is what the sheet records. The mean is what an assessor reads. Full treatment in **Fracture of Worlds**, Parts One to Three and Parts Four to Ten.
 > **The differential rule.** A character one full Tier Grade above their opponent in the relevant stat wins a direct exchange of that stat category without meaningful contest. **Two Tiers above is overwhelming to the point of one-sided. Three Tiers above means the lower-grade character is not engaging in a battle, they are surviving an event.**
+
 | Grade | Stat range | Attack output | Travel speed |
 |---|---|---|---|
 | **Hollow** | 1 – 10 | Below 60 J. The kinetic energy of a thrown fist at human speed | below 12.4 m/s · below 44.6 km/h |
@@ -64,7 +66,7 @@ Tier Grade is the qualitative bracket that determines what scale of force, pheno
 | **EX** | 1,201 – 1,500 | 1.24 × 10^29 – 6.906 × 10^37 J. Moon to Large Planet, 29.6 exatons – 16.506 ronnatons TNT | Relativistic+, 50% – 100% c |
 | **EX+** | 1,501 and above | 6.906 × 10^37 J and above. Brown Dwarf level and beyond, scaling toward stellar and solar-system scale | FTL and above, beginning at c |
 
-> 💡 **What a practitioner can pay for a row of this table.** The attack-output column is joules; a reserve is EU (Essence Units, a soul's stored power). **1 EU = 1 MJ**, so joules delivered = EU spent × η × 1,000,000, and the Grade is the row whose band holds the result. Worked end to end — EU to joules to Grade to tons of TNT — in [[Fracture of Worlds — The Living System/IX. The Essence Ledger (Part Twenty-Three)|The Essence Ledger]], Fracture of Worlds Part Twenty-Three.
+> 💡 **What a practitioner can pay for a row of this table.** The attack-output column is joules; a reserve is EU (Essence Units, a soul's stored power). **1 EU = 1 MJ**, so joules delivered = EU spent × η × 1,000,000, and the Grade is the row whose band holds the result. Worked end to end — EU to joules to Grade to tons of TNT — in [[The Magic System/Fracture of Worlds — The Living System/IX. The Essence Ledger (Part Twenty-Three)|The Essence Ledger]], Fracture of Worlds Part Twenty-Three.
 > **Within-Tier resolution.** When two characters operate at the same Tier Grade, exchanges are resolved by technique quality, tactical intelligence, positioning, and Sub-Stat architecture. A character at the upper boundary of B-Grade, stat value 275, produces roughly **five times** the Strike Force of one at the lower boundary, stat value 176. Both are B-Grade. The five-fold differential is real and significant but not automatically decisive, because technique architecture, Wellspring (a standing current of natural law in the Aether) affinity, and Path bonuses can compress or invert the raw advantage.
 
 ### The Sharp-Blunt Asymmetry
@@ -84,6 +86,7 @@ The Continuum tracks total energy for Tier Grade comparison but tracks local pre
 ## Reaction Speed by Grade
 
 Speed divides into three components: **Attack Speed** (velocity of technique execution), **Reaction Speed** (capacity to perceive and respond to incoming force), and **Travel Speed** (movement velocity across space). All three are influenced by Dexterity Sub-Stats, particularly Celerity, Reflex, and Sequence, but each responds differently to Temperance advancement.
+
 | Grade | Reaction Speed | Attack Speed |
 |---|---|---|
 | **Hollow** | 150 – 300 ms, purely biological | Does not exceed the physical mechanics of the body without Essence involvement |
@@ -111,6 +114,7 @@ Where Temperance measures the refinement of the Essence Core (the Crystal's inne
 ### The Three Constants
 
 Every Aether Shell radiates an Aetheric Signature described by three constants.
+
 | Constant | What it measures | Governed by |
 |---|---|---|
 | **Lattice Conductivity** *Equilibrium and Vitae aligned* | How easily Essence moves through the Shell without resistance. Low means blockage and backlash. High means smooth passage. | Vitality (Constitution, Fortitude) · Tempering Clarity |
@@ -133,6 +137,7 @@ flowchart LR
     RA -.->|"lateral"| L
     RA -.->|"lateral"| V
 ```
+
 | Class | The Shell | Efficiency loss |
 |---|---|---|
 | **Ø · The Dormant** | The unawakened Shell. Sealed, unresponsive, nearly silent. The soul dreams without memory and moves through the world without leaving lasting metaphysical trace. Precedes Initiate entirely; corresponds to the Dormant Crystal. **Traits (standing laws a soul carries, formed by what it survived) are unaffected by any of this.** A Class Ø soul carries its laws in the ordinary material of itself, refines by the Weathering (slow hardening along the way a soul is used) rather than by Temperance, and is missing only the organ that would arm what it already holds. | No stat output above Hollow Grade is possible |
@@ -167,6 +172,7 @@ Aether Class ascends through refinement, not conquest. Each step removes interfe
 
 > *"To refine the soul is not to polish it. It is to remove everything that was never truly part of the design."*
 The Crystal evolves through Developmental Tiers representing the synthesis of all three layers at once. These Tiers are **correlated with but not identical to** Temperance Stages or Aether Classes. A Crystal can run ahead of or behind its Shell or Core, and the gap is itself diagnostic.
+
 | Tier | Condition | Corresponds to |
 |---|---|---|
 | **Dormant Crystal** | Sealed and silent. Precedes all awakening. The Crystal exists but does not yet function as a metaphysical organ. The soul around it is fully furnished and continues to refine by the Weathering, which is why the great majority of the world's Traits sit in bodies that will never be screened. | Class Ø · pre-Initiate |
@@ -221,6 +227,7 @@ Crystallized is not a State. Self-as-law belongs to the Crystallized Soul tier a
 > *"When belief holds, the world begins to answer."*
 A Domain is a space where a character's inner law becomes local reality, the moment the Attraction Layer claims territory on the Plane of Fate (the plane that records bonds, oaths and consequence) and that claim reflects downward into physical and spiritual law. Inside a Domain, the character's doctrine outranks ambient physics for as long as the Domain is sustained.
 > Domains are not techniques. They are consequences of sufficient Temperance, Dominion (the stat of presence and authority over space) Sub-Stat development, and Aether Class clarity. A character does not choose to deploy a Domain the way they choose to throw a punch. **A Domain forms because the character's soul has become heavy enough to dent reality, and reality has stopped resisting the dent.**
+
 | Stage | What the Domain is |
 |---|---|
 | **VII · Refraction** | Domain seed activation. The first fragile, flickering territory. Lasts minutes rather than hours. Requires active concentration. Collapses if attention fractures. The seed is the Attraction Layer's first territorial claim. |

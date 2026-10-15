@@ -23,16 +23,16 @@ The ceiling is 500 for everyone below Stage XV. Paragons (practitioners at Stage
 ### The Twenty-Four Parts
 
 The full system is split across child pages below, grouped by what a session actually needs to reach for.
-1. [[Fracture of Worlds — The Living System/I. Levels, Experience and Stat Points (Parts One–Three)|I. Levels, Experience and Stat Points]] — Parts One through Three. Bands, Temperance Gates, Resonant Accumulation, the point economy.
-1. [[Fracture of Worlds — The Living System/II. Grades, Gates and Thresholds (Parts Four–Ten)|II. Grades, Gates and Thresholds]] — Parts Four through Ten. The Tier Grade table, stat ceilings by Stage, speed by grade, per-Sub-Stat Path gates, Threshold Catalysts, Resonant Pairs, stagnation.
-1. [[Fracture of Worlds — The Living System/III. Physical Force (Part Eleven)|III. Physical Force]] — Part Eleven. Strike Force, Lifting Strength, Durability, Range, Aura Pressure.
-1. [[Fracture of Worlds — The Living System/IV. The Eight Primaries and the Sixty-Four Sub-Stats (Part Twelve)|IV. The Eight Primaries and the Sixty-Four Sub-Stats]] — Part Twelve.
-1. [[Fracture of Worlds — The Living System/V. Wellsprings, Attraction and Obsession, Magic Integration (Parts Thirteen–Fifteen)|V. Wellsprings, Attraction and Obsession, Magic Integration]] — Parts Thirteen through Fifteen.
-1. [[Fracture of Worlds — The Living System/VI. The Sixteen Temperance Stages (Part Sixteen)|VI. The Sixteen Temperance Stages]] — Part Sixteen.
-1. [[Fracture of Worlds — The Living System/VII. Aether Class, Essence Typology, Aether Flow (Parts Seventeen–Nineteen)|VII. Aether Class, Essence Typology, Aether Flow]] — Parts Seventeen through Nineteen.
-1. [[Fracture of Worlds — The Living System/VIII. Traits, Soul Crystal Tiers, Domains (Parts Twenty–Twenty-Two)|VIII. Traits, Soul Crystal Tiers, Domains]] — Parts Twenty through Twenty-Two.
-1. [[Fracture of Worlds — The Living System/IX. The Essence Ledger (Part Twenty-Three)|IX. The Essence Ledger]], Part Twenty-Three. What an EU buys in joules, what a reserve costs to spend, and how fast it comes back.
-1. [[Fracture of Worlds — The Living System/X. The Tier Ladders (Part Twenty-Four)|X. The Tier Ladders]], Part Twenty-Four.
+1. [[The Magic System/Fracture of Worlds — The Living System/I. Levels, Experience and Stat Points (Parts One–Three)|I. Levels, Experience and Stat Points]] — Parts One through Three. Bands, Temperance Gates, Resonant Accumulation, the point economy.
+1. [[The Magic System/Fracture of Worlds — The Living System/II. Grades, Gates and Thresholds (Parts Four–Ten)|II. Grades, Gates and Thresholds]] — Parts Four through Ten. The Tier Grade table, stat ceilings by Stage, speed by grade, per-Sub-Stat Path gates, Threshold Catalysts, Resonant Pairs, stagnation.
+1. [[The Magic System/Fracture of Worlds — The Living System/III. Physical Force (Part Eleven)|III. Physical Force]] — Part Eleven. Strike Force, Lifting Strength, Durability, Range, Aura Pressure.
+1. [[The Magic System/Fracture of Worlds — The Living System/IV. The Eight Primaries and the Sixty-Four Sub-Stats (Part Twelve)|IV. The Eight Primaries and the Sixty-Four Sub-Stats]] — Part Twelve.
+1. [[The Magic System/Fracture of Worlds — The Living System/V. Wellsprings, Attraction and Obsession, Magic Integration (Parts Thirteen–Fifteen)|V. Wellsprings, Attraction and Obsession, Magic Integration]] — Parts Thirteen through Fifteen.
+1. [[The Magic System/Fracture of Worlds — The Living System/VI. The Sixteen Temperance Stages (Part Sixteen)|VI. The Sixteen Temperance Stages]] — Part Sixteen.
+1. [[The Magic System/Fracture of Worlds — The Living System/VII. Aether Class, Essence Typology, Aether Flow (Parts Seventeen–Nineteen)|VII. Aether Class, Essence Typology, Aether Flow]] — Parts Seventeen through Nineteen.
+1. [[The Magic System/Fracture of Worlds — The Living System/VIII. Traits, Soul Crystal Tiers, Domains (Parts Twenty–Twenty-Two)|VIII. Traits, Soul Crystal Tiers, Domains]] — Parts Twenty through Twenty-Two.
+1. [[The Magic System/Fracture of Worlds — The Living System/IX. The Essence Ledger (Part Twenty-Three)|IX. The Essence Ledger]], Part Twenty-Three. What an EU buys in joules, what a reserve costs to spend, and how fast it comes back.
+1. [[The Magic System/Fracture of Worlds — The Living System/X. The Tier Ladders (Part Twenty-Four)|X. The Tier Ladders]], Part Twenty-Four.
 
 ### The Short Version
 

@@ -39,6 +39,7 @@ Alchemy on the page rests on three sources, read in order. The Alchemical Index 
 ### Putrefaction and digestion
 
 **The practice.** Matter was sealed in a vessel and held at a steady low heat until it went black and "rotted" (Lemery 1686; Newman 2019). The times are among the best recorded figures in the trade.
+
 | Case | Time | Source |
 |---|---|---|
 | *De natura rerum* (1537, attributed to Paracelsus), a charge in the venter equinus | 40 days, then 40 weeks of feeding | Wikipedia, "Homunculus", after Newman |
@@ -134,6 +135,7 @@ Sand, iron filings and ash made graded beds, each with degrees of its own, and a
 ### Reading heat by colour
 
 **The practice.** Solids begin to glow a dull red at about 450 to 475 °C in a darkened room (Darling 1911). The colour tables disagree with each other:
+
 | Colour | Howe (1900) | Stirling Consolidated Boiler Co. (1905) |
 |---|---|---|
 | Red just visible | (not given) | 525 °C |
@@ -245,6 +247,7 @@ Darling reckoned any two observers might differ by about 50 °C below yellow, an
 ### How long the fire was kept
 
 **The practice.** The real long runs on record:
+
 | Case | Duration | Source |
 |---|---|---|
 | Lavoisier, mercury calcined near its boiling point | 12 days, continuous | Lavoisier 1777 |
@@ -273,6 +276,7 @@ Darling reckoned any two observers might differ by about 50 °C below yellow, an
 ### The recipes
 
 **The practice.** The proportions were printed and circulated widely in craft books and distilling manuals (Veronesi and Hanß 2023).
+
 | Source | Date | Recipe |
 |---|---|---|
 | Zosimos | about 300 CE | grease, gypsum, propolis, oiled lime |
@@ -397,6 +401,7 @@ Sources: Stewart 2013 and Veronesi and Hanß 2023 for the medieval and early mod
 ### The apothecaries' weights
 
 **The practice.** Every dose below is in the apothecaries' system:
+
 | Unit | Metric |
 |---|---|
 | 1 grain (gr) | 64.8 mg |
@@ -414,6 +419,7 @@ A "drop" was often read as a minim. Real drops vary with the liquid and the lip 
 ### Calomel
 
 **The practice.** Calomel is mercurous chloride, *mercurius dulcis*. Beguin made it by grinding corrosive sublimate with as much quicksilver as it would "kill" and subliming. The 1870 method sublimed quicksilver sulphate with common salt and more quicksilver, powdered the sublimate, and washed it with boiling water until the washings showed no corrosive sublimate (Wood and Bache 1870). Doses in 1870:
+
 | Purpose | Historical dose | Metric |
 |---|---|---|
 | Alterative, nightly | ½ to 1 gr | 32 to 65 mg |
@@ -447,6 +453,7 @@ Benjamin Rush in the Philadelphia yellow fever of 1793 gave ten grains of calome
 ### Tartar emetic and the antimony quarrel
 
 **The practice.** Antimony potassium tartrate, described by Mynsicht in 1631. Doses in 1870 (Wood and Bache 1870):
+
 | Purpose | Historical dose | Metric |
 |---|---|---|
 | Alterative | 1/32 to 1/16 gr | 2 to 4 mg |
@@ -542,6 +549,7 @@ Modern references give the emetic dose as about 30 to 65 mg (UKPID; Wikipedia, "
 ### Accidents at the bench
 
 **The practice.** The named record, mostly from an 1882 compilation (Babcock 1882), cross-checked where possible:
+
 | Year | Who | What | Outcome |
 |---|---|---|---|
 | 1788 | Le Tort and Mlle Chevraud, at Essonnes | trial batch of chlorate gunpowder | both killed |
@@ -584,6 +592,7 @@ Modern references give the emetic dose as about 30 to 65 mg (UKPID; Wikipedia, "
 ### The devices of concealment
 
 **The practice.**
+
 | Device | What it was | Source |
 |---|---|---|
 | Decknamen | cover-names for substances, operations and apparatus | Newman 1996; Newton Project |
@@ -634,6 +643,7 @@ Syncope and parathesis are a modern historian's labels, taken from Greek and tur
 ### The chemistry behind the colours
 
 **The practice.**
+
 | Colour event | Real chemistry | Source |
 |---|---|---|
 | Copper whitened | vapours of mercury or arsenic give copper a silver surface | Principe 2013 |
@@ -688,6 +698,7 @@ The text warns to keep the heat gentle, never shake the vessel, and never burn t
 ### The English renderings the Codex uses
 
 **The practice.** Three published translations and one original line:
+
 | Recitation in the Alftian Codex | Opening words | Translation | Source text |
 |---|---|---|---|
 | Venur's | "Truth. Certainty." | Eric John Holmyard, "The Emerald Table," *Nature* 112 (1923), 525-526 | the Jabirian *Kitāb Usṭuqus al-Uss al-Thānī* |
@@ -705,6 +716,7 @@ Venur's text is Holmyard's with light cuts: the exclamations set as full stops, 
 
 *Each source is listed under the name the entries above cite it by.*
 **Primary texts**
+
 | Cited as | Source |
 |---|---|
 | Boerhaave 1730s | Herman Boerhaave, *Some Experiments Concerning Mercury*, English translation communicated to the Royal Society, 1730s. Project Gutenberg 63318, https://www.gutenberg.org/ebooks/63318 |
@@ -719,6 +731,7 @@ Venur's text is Holmyard's with light cuts: the exclamations set as full stops, 
 | Wood and Bache 1870 | George B. Wood and Franklin Bache, *The Dispensatory of the United States of America*, 13th edition, Philadelphia: Lippincott, 1870. https://archive.org/details/13thdispensatory00bachuoft |
 
 **Historians of chemistry and medicine**
+
 | Cited as | Source |
 |---|---|
 | Ahonen, DSB | Kathleen Ahonen, "Glauber, Johann Rudolph," *Complete Dictionary of Scientific Biography*, via Encyclopedia.com |
@@ -766,6 +779,7 @@ Venur's text is Holmyard's with light cuts: the exclamations set as full stops, 
 | Wood 2018 | Matthew Wood, "A 'weapon dressed as a book': the Pharmacopoeia Londinensis," Royal College of Physicians Museum blog, 2018 |
 
 **Translations of the Emerald Tablet**
+
 | Cited as | Source |
 |---|---|
 | Holmyard | E. J. Holmyard, "The Emerald Table," *Nature* 112 (1923): 525-526. doi:10.1038/112525a0 |
@@ -774,6 +788,7 @@ Venur's text is Holmyard's with light cuts: the exclamations set as full stops, 
 | Marshall, Alchemy Web Site | Jon Marshall, ed., "Emerald Tablet of Hermes," The Alchemy Web Site (translations after Holmyard 1923, Steele and Singer 1928, Dobbs 1988). https://www.alchemywebsite.com/emerald.html |
 
 **Toxicology and medicine**
+
 | Cited as | Source |
 |---|---|
 | Andersen et al. 1993 | A. Andersen et al., "A neurological and neurophysiological study of chloralkali workers previously exposed to mercury vapour," *Acta Neurologica Scandinavica* 88 (1993): 427-433 |
@@ -802,6 +817,7 @@ Venur's text is Holmyard's with light cuts: the exclamations set as full stops, 
 | Yaemsiri et al. 2010 | S. Yaemsiri et al., "Growth rate of human fingernails and toenails in healthy American young adults," *Journal of the European Academy of Dermatology and Venereology*, 2010 |
 
 **Materials, heat and measurement**
+
 | Cited as | Source |
 |---|---|
 | ARTECHNE | ARTECHNE project, Utrecht University, "The 'Gentle Heat' of Boerhaave's Little Furnace" |
@@ -816,6 +832,7 @@ Venur's text is Holmyard's with light cuts: the exclamations set as full stops, 
 | Trautmann 1996 | Nancy Trautmann, "Compost Physics," Cornell Composting, 1996. https://compost.css.cornell.edu/physics.html |
 
 **Reference works**
+
 | Cited as | Source |
 |---|---|
 | Wikipedia, "title" | English Wikipedia articles, used for cross-checks and for their own cited sources: "Aludel," "Antimony potassium tartrate," "Aqua regia," "Arsenic poisoning," "Athanor," "Blue mass," "Borosilicate glass," "Burton's line," "Calomel," "Carl Wilhelm Scheele," "Cohobation," "Cupellation," "Daniel Gabriel Fahrenheit," "Emerald Tablet," "Erethism," "Fowler's solution," "Ground glass joint," "Homunculus," "Jean Beguin," "Johann Rudolf Glauber," "Later life of Isaac Newton," "Lute (material)," "Magnum opus (alchemy)," "Marsh test," "Mary the Jewess," "Mees' lines," "Mercury (element)," "Mercury(I) chloride," "Mercury(II) chloride," "Nitric acid," "Paracelsianism," "Paracelsus," "Red heat," "Reinsch test," "Robert Bunsen," "Samuel Stockhausen," "Soda-lime glass," "Sulfuric acid," "The Twelve Keys of Basil Valentine," "Wedgwood scale," "1858 Bradford sweets poisoning" |

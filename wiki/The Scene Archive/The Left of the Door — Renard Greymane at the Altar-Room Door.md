@@ -10,7 +10,7 @@ verification: null
 
 # The Left of the Door — Renard Greymane at the Altar-Room Door
 
-*Scene, Hild thread. Renard Greymane against a Tenrai practitioner at the altar-room door, Kharven-Seat, the Thin Weeks. First scene written under Pack Thirteen (Technical Floor) and Fourteen (Stat Ledger). Script v3 clean: 21 pass, 3 warn, 0 fail. Full text with author notes lives in the project file* *`renard_the_left_of_the_door.md`**; this page carries the canon-bearing summary and ledger so the wiki holds what the scene changed.*
+<em>Scene, Hild thread. Renard Greymane against a Tenrai practitioner at the altar-room door, Kharven-Seat, the Thin Weeks. First scene written under Pack Thirteen (Technical Floor) and Fourteen (Stat Ledger). Script v3 clean: 21 pass, 3 warn, 0 fail. Full text with author notes lives in the project file</em> <em>`renard_the_left_of_the_door.md`*</em>; this page carries the canon-bearing summary and ledger so the wiki holds what the scene changed.*
 
 ## What happened
 

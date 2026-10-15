@@ -19,6 +19,7 @@ verification: "unverified"
 ## The Shape of the Scramble
 
 The Imperial Age is the age in which everything that can be owned is being claimed at once. Crowns are expanding, chartered houses are expanding beside them, and the draw engines have made five things worth more than they have ever been. Every power on this page wants some of all five, and most want one of them badly enough to go to war for it.
+
 | What is scrambled for | Why it matters now |
 |---|---|
 | **Wells and draw** | The main and the meter run on harmonised veins. A supply contract written at old rates is an inheritance, and a Well is the only thing that writes new ones |
@@ -32,6 +33,7 @@ The Imperial Age is the age in which everything that can be owned is being claim
 ### Layered rule
 
 Day-to-day rule in most of the four quarters is not one authority but three stacked on the same ground.
+
 | Layer | Holds | Its instrument | Where it is weak |
 |---|---|---|---|
 | **The crown or great house** | The land, the levy, the tax, and the right to hang | Descent, the army, and the court of the realm | It cannot run a works, and it cannot hunt a Well |
@@ -262,6 +264,7 @@ Day-to-day rule in most of the four quarters is not one authority but three stac
 ## The Jurisdiction Fights
 
 *Where layers meet, somebody has to decide who decides. These are the standing disputes, and none of them is settled.*
+
 | Dispute | The claimants | Why neither yields |
 |---|---|---|
 | **A crime done with a working** | The guild court, with its trace examiners, and the crown court | The traces are guild evidence and the victim is a crown subject. Each court takes the cases it wants |

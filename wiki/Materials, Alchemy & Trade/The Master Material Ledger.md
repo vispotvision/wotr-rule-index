@@ -37,6 +37,7 @@ verification: "unverified"
 ## The Hazard Register
 
 *How the trade kills the people who work it.*
+
 | Hazard | Onset | Effect | Recorded position |
 |---|---|---|---|
 | **Array failure, pumping** *western deep workings* | 70 to 110 hours depending on shaft | Flooding. **Mass drowning** | The most likely mass-casualty event in the four quarters and **the one the Accord is least prepared for.** Mitigation: redundant supply contracts; nothing else works |
@@ -91,6 +92,6 @@ The Measurewrights' position is that the gap is a recording failure. It is a sup
 **Instrument disagreement.** The coil reads a Holding figure, the gauge reads a density, and on unlawful stock the two do not reconcile. **The discrepancy is the size of what was taken.** Two instruments and somebody willing to compare them is the whole of the test and most benches own one instrument.
 **A provenance that runs out.** Lawful Class IV has a rendering house, a date and a beast or a body. Unlawful Class IV has a factor, a price, and a supplier who is three towns away and reliably difficult to visit.
 > *The connection between this section and the six entries above it is not asserted. It is available to anybody who reads them in order, and the Measurewrights have declined to draw it in print four times.*
-- [[The Master Material Ledger/The Material Index · T0–T4]]
-- [[The Master Material Ledger/The Material Index · T5–T9]]
-- [[The Master Material Ledger/The Alchemical Index]]
+- [[Materials, Alchemy & Trade/The Master Material Ledger/The Material Index · T0–T4]]
+- [[Materials, Alchemy & Trade/The Master Material Ledger/The Material Index · T5–T9]]
+- [[Materials, Alchemy & Trade/The Master Material Ledger/The Alchemical Index]]

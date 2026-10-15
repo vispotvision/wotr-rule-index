@@ -58,7 +58,7 @@ flowchart TD
 **Three residue categories**, from the *Necrocursica*: the **Harmonic Imprint** left in the ambient Aether of inhabited places; the **Sympathetic Bond Trace**, the resonance-thread to those in deep relational connection, which attenuates but does not sever at death; and the **Parunic Echo**, the glyph-trace any Temperance-active practitioner inscribes in the fabric of the world.
 > **And a fourth, which the Codex is the document that establishes.**
 >
-> The **Volitional Trace** — the Aetheric record of *directed intent* persisting beyond dissolution where a practitioner died mid-decision. **Not unfulfilled desire, which leaves only the Sympathetic Bond. Unfulfilled** ***decision*****.**
+> The <strong>Volitional Trace</strong> — the Aetheric record of <em>directed intent</em> persisting beyond dissolution where a practitioner died mid-decision. <strong>Not unfulfilled desire, which leaves only the Sympathetic Bond. Unfulfilled</strong> <strong><em>decision</em></strong><strong>.</strong>
 >
 > First identified by Madeleine Ault. Independently described by Vaughaus Thom. Theoretically named by Gillus De Raits. **Entered into the formal canon by Vis Trismegistus's testimony in the third volume.**
 **The Seven Cacodaemonic Corruptions.** Vis names the first three from his own life and flags the remaining four as work he has not yet begun. *The Heresiology of Alchemy is the finished version of a book this man left open.*
@@ -84,8 +84,8 @@ flowchart TD
 **The *Necrocursica** *· Restricted, Genesio Archivum.** Noxinus Ren's compelled treatise.
 **The Vaughaus Thom Submission** · formally *On the Fourth Residue Category and Its Application to Anamnetic Wellspring Activation.* Newly declassified, co-authored with G. De Raits, annotated by V. Trismegistus.
 *Named but not otherwise described: Halveth, Archivum annotator — and the Research Division's effective director for eleven years while appearing to be an annotator. She solves problems by appointing the people who created them to fix them, on the accurate assessment that they are the only ones who fully understand them.*
-- [[The Alftian Codex/Volume the First]]
-- [[The Alftian Codex/Volume the Second]]
-- [[The Alftian Codex/Volume the Third]]
-- [[The Alftian Codex/The Farrant Papers]]
-- [[The Alftian Codex/The Necrocursica]]
+- [[Lore & History/The Alftian Codex/Volume the First]]
+- [[Lore & History/The Alftian Codex/Volume the Second]]
+- [[Lore & History/The Alftian Codex/Volume the Third]]
+- [[Lore & History/The Alftian Codex/The Farrant Papers]]
+- [[Lore & History/The Alftian Codex/The Necrocursica]]

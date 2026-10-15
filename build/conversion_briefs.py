@@ -33,7 +33,7 @@ def rules_brief(tags: list[str], limit: int = 80) -> str:
 
 def wellsprings() -> str:
     out = []
-    for p in sorted((WIKI / "The Eight Families & the Sixty Wellsprings").glob("*.md")):
+    for p in sorted((WIKI / "The Magic System" / "The Eight Families & the Sixty Wellsprings").glob("*.md")):
         fam = p.stem
         names = re.findall(r"(?m)^###\s+(.+?)\s*$", M._read(p))
         out.append(f"- **{fam}**: " + "; ".join(n.replace("*", "") for n in names))

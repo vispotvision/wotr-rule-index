@@ -28,6 +28,7 @@ For this reason the Works are older than history and older than sequence. Even t
 ### The Three Levels
 
 Hataraki operates on three levels at once.
+
 | **Conceptual** | It defines what a thing means within the order of existence. |
 |---|---|
 | **Operational** | It determines what that thing does and how it affects reality. |
@@ -132,6 +133,7 @@ The highest and widest expression of Hataraki. The function of wholeness, integr
 ## The Functional Relationship Between the Works
 
 The Works are not isolated domains. They are interdependent functions inside a single greater order.
+
 | Work | Its labour in one line |
 |---|---|
 | **Ruin** | clears what must end |
@@ -158,6 +160,7 @@ The epochs are not replacements for Hataraki. They are **successive unveilings o
 
 *Attested, not reconciled.*
 > **The second roster.** The system source preserves a differently-named set of seven Works, given with Sub-Stat clusters rather than with functions. Only two names are common to both rosters. The Archives has never issued a ruling on whether these are alternate names for the same seven labours, a superseded enumeration, or a distinct register describing the Works as they present to a practitioner rather than as they operate in the Plane of Fate.
+
 | Work, as the system source names it | Sub-Stat clusters | Character |
 |---|---|---|
 | **Zentai-sei no Hataraki** · Totality | Dominion (Sovereignty, Reach, Throne) · Tempering (Ceiling, Maturity) · Resilience (Persistence, Continuity) | The Work of wholeness and cosmic maintenance. Practitioners whose doctrine encompasses rather than excludes. |
@@ -175,4 +178,4 @@ The epochs are not replacements for Hataraki. They are **successive unveilings o
 Hataraki is the active labour of the Plane of Fate. It is the system by which existence functions according to divine purpose. Every Work within it is a sacred operation: a law-bearing duty that sustains one necessary part of reality.
 Bara created the Works before time. The Archons stand as higher sovereign expressions of meanings already present within them. World Spirits and Titans can exist because the Works first made such realities functionally possible. Attraction Force allows the Works to endure as lawful recognition and continuity, while Obsession Force corrupts those same labours into captivity and recursive need.
 > To wield Hataraki is therefore not just to use power. **It is to invoke function.** It is to call upon the labour of fate itself and command one of the fundamental works by which the world is kept in motion, judgment, structure, and completion.
-- [[Hataraki — The Works of the Plane of Fate/Hataraki no Sho — The Martial Application of the Works]]
+- [[The Disciplines/Hataraki — The Works of the Plane of Fate/Hataraki no Sho — The Martial Application of the Works]]

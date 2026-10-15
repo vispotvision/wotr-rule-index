@@ -24,6 +24,7 @@ verification: "unverified"
 > *Impersonal, diagnostic and correct. It tells you what the soul does the way a scale tells you what a thing weighs.* **It does not tell you what the weight means to the person carrying it,** and it is therefore the name that matters least in every room that does not contain a coil.
 > **Nobody introduces themselves by their instrument profile.** The Accord publishes it. The factor houses price it. *The person it describes has already stopped listening.*
 **The Second Name · what the Accord calls you.** Initiate through Paragon. **It travels with the silver token.** It opens doors, closes borders, **and prices your future output on the bond market.**
+
 | Tier | Grade | Stages covered | Title conferred |
 |---|---|---|---|
 | **1 · Initiate** | E | Murmuring | — |
@@ -54,6 +55,7 @@ verification: "unverified"
 ## The Weather Your Soul Makes
 
 *The Archetype is not what you do. It is what you are like to be near.* **Some practitioners settle a room. Some charge it. Some empty it.** The Third Name comes from the pattern.
+
 | Archetype | What it feels like nearby | Titles it generates |
 |---|---|---|
 | **Harmonic** *the room settles* | **Calm.** Not peace, not comfort. *Calm the way a well-built wall is calm: structural, impersonal, and load-bearing.* **Breathing steadies and thoughts clarify** because the field is so coherent it functions as a local standard against which everything else calibrates. Deeply reassuring and faintly dehumanising, because the calm does not care whether you want it | **Names of stability.** The Constant · The Standard · The Foundation · The Pillar · The Still Water. *Named by what they hold rather than what they do, because what they do is hold* |

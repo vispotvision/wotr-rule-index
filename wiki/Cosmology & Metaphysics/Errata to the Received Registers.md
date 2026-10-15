@@ -33,6 +33,7 @@ Before the substitutions, a distinction the Guild has been asked for since the C
 The Ages are historical. They are counted, attested, and dated by physical evidence, and the whole of them runs from Year minus fourteen hundred to the present. The Epochs are cosmological. They concern the Division of Omnara, the three currents, the Plane of Fate, the Soul Plane, the Physical Plane, the Titans, and the Archons. Their durations are given in the surviving records as figures in the tens and hundreds of thousands, and the Guild has examined those figures and found that not one of them derives from a count.
 No calendar existed. No observer stood outside the Epoch to mark its passage. The numbers are theological quantities in the shape of durations, and the Guild considers them **accurate as statements about magnitude and meaningless as statements about years**.
 This is not a demotion. A bloodline that traces itself to the Second Epoch is making a claim about origin and not about arithmetic, and the claim is unaffected by the Concordance. The Yukari registers stating that Senri Yukari perceived Ashura's approach across a hundred and twenty thousand years remain as written. The Zettari registers claiming two hundred thousand years of continuous lineage remain as written, and the Guild notes that the Zettari's own archive describes that figure as *held out of conviction*, which is the correct description and does the Guild's work for it.
+
 | Finding | Statement |
 |---|---|
 | **The rule** | An Epoch figure is not to be placed on the Age count, subtracted from it, or reconciled with it. A document that gives both is giving a myth and a measurement and expects the reader to know which is which. |
@@ -43,6 +44,7 @@ This is not a demotion. A bloodline that traces itself to the Second Epoch is ma
 ## III. The Six Substitutions
 
 Where a superseded register uses the term at left, the reader substitutes the term at right. Where a date is attached, the reader converts it by the note given.
+
 | Superseded term | Corrected term | Note on conversion |
 |---|---|---|
 | The Age of Deliberation | The Reconstruction Age, early | Dates given as "thirty thousand" are withdrawn. The era runs −450 to −225 in the corrected count |

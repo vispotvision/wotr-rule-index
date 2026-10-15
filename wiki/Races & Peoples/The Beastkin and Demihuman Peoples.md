@@ -59,6 +59,7 @@ Demihumans occupy a distinct category: **defined by dual-lineage inheritance rat
 
 Emerged during the **Harmonial Twilight** when Elves and Humans shared Wellspring territories. Born from the spiritual overlap of Elven soul-depth and Human glyph flexibility — **not fully either, genuinely both**, navigating the friction between two Crystal architectures that were not designed to occupy the same body.
 **Soul Path** · Spirit 55% / Body 30% / Attraction 15%. Dual affinity: spatial Elven resonance plus adaptive Human Essence. **High conductivity, internal friction as the structural cost.**
+
 | Stat | Mod | Note |
 |---|---|---|
 | Vitality | −05 | Lighter than full-human baseline; not as resilient as Elven longevity architecture. Adequate |
@@ -80,6 +81,7 @@ Emerged during the **Harmonial Twilight** when Elves and Humans shared Wellsprin
 
 Born from the intersection of Orcish Stone-Blood and Human glyph-flexibility during the Great Concord Splintering. **They are not the weakest expression of either lineage.** They are a third expression — Stone-Blood's kinetic inheritance running through a human body that has **the glyph-processing capacity the pure Orcish lineage lacks.**
 **Soul Path** · Body 60% / Spirit 30% / Attraction 10%. Stone-Blood provides the kinetic expression; Human inheritance provides the structural processing capacity **that allows it to be directed rather than just released.**
+
 | Stat | Mod | Note |
 |---|---|---|
 | Vitality | +15 | Stone-Blood mineral deposits and human constitution combined. Below pure Ironblood ceiling, significantly above human baseline |
@@ -139,4 +141,4 @@ What they do share is **physicality.** Beastkin languages consistently encode mo
 
 > *"The world has two categories for beastkin — victim or animal. Neither category allows for the possibility that I am standing here because I chose to stand here."*
 > — Yoko Mishiro
-- [[The Beastkin and Demihuman Peoples/The Five Beastkin Lineages]]
+- [[Races & Peoples/The Beastkin and Demihuman Peoples/The Five Beastkin Lineages]]

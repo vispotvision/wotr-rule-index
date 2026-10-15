@@ -21,6 +21,7 @@ verification: "unverified"
 ## VI · Method and discipline
 
 *The Family is the what. The Method is the how. Their intersection is the named discipline, its root taken from the Affinity, the one phenomenon inside the Family, and the suffix places a practitioner before they have finished introducing themselves.*
+
 | Method | Suffix | What the practitioner is doing |
 |---|---|---|
 | **Manteia** | -mancy | Reading, sensing, perceiving through the phenomenon. Soul Plane. |
@@ -47,6 +48,7 @@ verification: "unverified"
 **Glyph** · A single unit of Parunic syntax. Explicit (carved, drawn, spoken) or implicit (internalised as a chain the practitioner no longer consciously assembles).
 **Wordform Chain** · A sequence of glyphs assembled into a complete sentence the Continuum can read.
 **The Four Glyph Roles** · Every structured working must satisfy all four, whether spoken once or carved into granite for a thousand years.
+
 | Role | What it establishes | What its absence produces |
 |---|---|---|
 | **Authorization** | Which Wellsprings are invoked, and that the practitioner is the lawful channel. | Mechanica by definition. The Continuum treats it as debt. |
@@ -165,6 +167,7 @@ verification: "unverified"
 **Mechanism belongs on the page.** How a working works, why it costs what it costs, what law it conditions and what fault falls out of that law. A fully explained technique that costs nothing is worse than an unexplained one, and an unexplained one that costs everything is worse than both.
 **Numbers belong in a mouth.** Figures are diagnostic: a Grade letter, a Band, an η, a count of EU, a Sub-Stat's value. They appear when a character speaks them, when an instrument reports them, when a document records them, or when somebody is privately counting. **They do not appear in narration on its own authority.** The system's words without their figures, Aether, Density, Saturation, Coherence, may stand in narration beside the effect they name.
 **Effects always appear as behaviour and physics.** A high Ardency Penetration is first the point going through plate that should have turned it, and only after that, if at all, a name. A Stage gap is not stated. It is the man who cannot lift his arm.
+
 | Channel | What it carries |
 |---|---|
 | **Page** | Phenomenon, mechanism and the system and science words that name it, what the body and the blade did, the tell, the fault, injury by named structure, what the character cannot do next, what a room smells like afterward |

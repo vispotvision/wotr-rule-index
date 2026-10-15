@@ -23,6 +23,7 @@ verification: "unverified"
 Each of the sixty Wellsprings is a living process, a law of transformation encoded into the Continuum since the Division, with nothing stored in it the way a reservoir stores water, and **six of them are at once Wellspring, cosmic principle and alchemical operation.**
 **That correspondence is the architecture of the discipline, and it was there before the trade had a word for it.** An alchemist working a Coagulation Draft **is channelling Coagulatio itself**, and the medium that carries it is the material on the bench, where a caster's medium is his own resonance.
 **Calcination and Distillation stand outside the six.** They are bench operations, worked at the fire and the still, and neither is a Wellspring: no soul harmonises with either. Each draws on a current all the same. A calcination runs on **Cinerion**, the Ash Veil, and a distillation runs on **Sublimare**, the Rising Breath.
+
 | Wellspring | Operation |
 |---|---|
 | **Dissolution** | Unravels cohesion into base frequencies |
@@ -98,6 +99,7 @@ What the alchemist does is arrange conditions and issue an authorisation so that
 *The operations are what a working does, and the Turnings are what a workshop does. The Great Work is what the discipline does to the matter in the vessel and to the maker standing over it, and it is older than the Heralds.*
 The Work moves through seven stages, in one order: **Calcination, Dissolution, Separation, Conjunction, Fermentation, Distillation, Coagulation.** They are taught as disciplines laid on both at once, and what burns in the crucible burns in the one who tends it.
 **Each stage but Conjunction draws on a current of its own.**
+
 | Stage | Current | The law it lends | First round | Second round |
 |---|---|---|---|---|
 | **Calcination** | **Cinerion**, the Ash Veil | Char: strong dry heat drives off what is volatile and leaves what is fixed | Murmuring | Transcendence |
@@ -128,6 +130,7 @@ The Work moves through seven stages, in one order: **Calcination, Dissolution, S
 ## The Four Operations
 
 *Every Draft ever entered in the Standing Index is one of four operations or a composite of them. The operations are verb-classes, and the Bench files by them; the stages of the Great Work map the same ground another way. The chains are the Bench's common role chains; the Wellspring a row names is the current the working runs on, not a pairing its glyphs must carry.*
+
 | Operation | Law | Physical register | Failure mode |
 |---|---|---|---|
 | **Coagulation** *mirrors Coagulatio* · `[Ur] Balance` `[Ma] Recall` `[Th] Foundation` | Gathering and setting: what was dispersed comes out of suspension round a seed | Precipitation, setting, crystallisation: **the moment a suspension becomes a solid and stops behaving like a liquid.** Thermodynamically the least demanding, and the first operation a Drafter runs alone | Coagulatio is stable and **deactivates cleanly.** *A collapsed Coagulation leaves you with wasted stock and a lecture* |
@@ -194,6 +197,7 @@ flowchart TD
 
 **Distillation is pinned to a colour and to no Turning.** It runs inside the sealed vessel, and the glass is the only place it can be seen.
 **Five Turnings stand outside the seven.** The Reading comes before the Work begins. The Rising is the Sublimation operation. The Sealing runs on Fixatio's chains. The Standing and the Mark belong to the workshop and the Bench. *The Yellowing tracks no stage of its own; it is the tincture arriving, on the way to the Reddening.*
+
 | Reading | What it means |
 |---|---|
 | **The Blacking** | Putrefaction proceeding correctly. Deep, matte, light-swallowing. **Expected, desirable, and terrifying to anyone seeing it for the first time.** *A working that never blacks has not rotted and will not conjoin* |
@@ -223,6 +227,7 @@ flowchart TD
 ## Heat
 
 *Every alchemist in the four quarters judges temperature by flame colour, by the sound of the charge, and by holding a hand where a hand should not go. The instrument-makers sell glass thermometers for the baths and thermocouples and pyrometers for the furnace, and every one of them reads the bed or the fire and never the charge inside the sealed glass.*
+
 | Bed | Behaviour |
 |---|---|
 | **The Still Bath** | Water. Gentlest, self-limiting at the boil. Named for Ithra, **credited in three traditions and attested in none.** *Cannot be overheated, which is why apprentices are given it and why masters resent being given it* |
@@ -257,6 +262,7 @@ There are no ground joints. Every junction is closed by hand with lute, **a past
 ## The Menstrua
 
 *Five in general trade. All of them dangerous, and every one of them made at the bench.*
+
 | Solvent | What it is |
 |---|---|
 | **Strongwater** | Distilled from saltpetre and vitriol over roughly a day of graduated heat. Colourless when clean, yellow when not. The receiver fills with **red-orange fume that is the working's own signal it is proceeding.** Eats silver and most metals; **will not touch gold.** *The fume is the single commonest cause of death in the trade at large* |
@@ -389,6 +395,7 @@ Three further devices are standard. **Syncope**, in which a necessary step is si
 
 *Nine years to Drafter is standard. Fourteen to Master of the Circle is fast. The trade is slow the way the work is slow, and for the same reason, and a house that promotes early is a house whose stock the assay records will eventually describe.*
 *The rungs are the house's own ladder. The Accord's Tier of Standing is a separate thing: read off the Crystal for a Crystal-bearer, and certified at the bench, up to Expert, for a pure alchemist.*
+
 | Rung | What it is |
 |---|---|
 | **Cinderhand** | Two to four years. Ash, fuel, sweeping, carrying, watching a bath that must not go dry. **Touches no reagent.** Learns the smell of the room and whether a Long Furnace is settling correctly, **which cannot be taught any other way and which every master relies on for the rest of their life** |

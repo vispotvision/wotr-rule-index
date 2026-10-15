@@ -14,6 +14,7 @@ verification: "unverified"
 > **Everything in the Continuum vibrates.** The statement is not poetic. It is mechanical. Every Soul Crystal emits a Resonant Tone. Every Shell radiates an Aetheric Signature. Every working produces tonal output as a byproduct of its Wellspring process. Every Wellspring sings in its own dialect. Every Trait hums at the frequency of the law it embodies. Every connection on the Plane of Fate carries resonant information between its endpoints the way a string carries vibration between its anchors.
 >
 > The Harmonic Arts are the discipline of learning to hear all of this, and then learning what to do with what you hear.
+
 | **Primary Category** | Harmonia (Spirit ↔ Attraction) |
 |---|---|
 | **Applied Branches** | Anima Harmonics (Soul Reading) · Thaumic Harmonics (Spell Reading) · Resonant Divination (Fate Reading) |
@@ -40,6 +41,7 @@ Before any branch becomes functional, the practitioner must develop **Resonant P
 Most practitioners describe the experience as hearing, but it is not auditory in the physical sense. It is the Resonance Discipline operating **receptively rather than projectively**, using the same Shell infrastructure that normally broadcasts the practitioner's own tone to instead receive and decode the tones of others.
 This requires training the Shell's Gate Cycling into a receptive mode: resonance gates that normally open outward must learn to open inward. This is counterintuitive for most practitioners, whose training emphasizes projection. The Harmonic Arts demand the opposite: **a Shell so quiet, so carefully equilibrated, that it can register the tonal output of presences around it without contaminating the received signal with its own broadcast.**
 *A Harmonist with loud Shell output hears nothing but themselves. A Harmonist with disciplined Equilibrium hears everything.*
+
 | Depth | What it registers |
 |---|---|
 | **Shallow** | The dominant Wellspring frequency of nearby Crystals and the gross tonal output of active workings. |
@@ -118,6 +120,7 @@ The branch most commonly called divination, and the one most easily misunderstoo
 ## Echo Fracture · The Central Danger
 
 All three branches share a single catastrophic failure mode.
+
 | Branch | What Echo Fracture does there |
 |---|---|
 | **Anima Harmonics** | A therapeutic tone projected at the wrong frequency **shatters the patient's Crystal instead of healing it** |

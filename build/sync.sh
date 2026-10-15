@@ -51,6 +51,10 @@ log_tail() {
     while IFS= read -r line; do wotr_log "${indent}${line}"; done < <(printf '%s\n' "$out" | tail -n "$n")
 }
 
+# scenes/ into the vault as private pages (scenes/ stays the source)
+run_tool scenes_to_wiki.py
+log_tail 1 "  "
+
 # the rendered table (build/table.py render) into the vault's Running Pieces
 rp="wiki/The Table — Running Pieces"
 for pair in "FRONTS:Fronts, as clocks" "LEDGER:The Ledger, structured" "NPCS:NPC roster"; do

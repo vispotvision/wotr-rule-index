@@ -39,6 +39,7 @@ So armies besiege. **Most of the days of most campaigns are spent sitting outsid
 ## What Walls Are Built Against Now
 
 *Fortification design has passed through three answers to three different threats, and every standing wall is a fossil of the threat it was built against.*
+
 | Form | Built against | What happened |
 |---|---|---|
 | **The high wall** | Escalade and starvation | Tall, relatively thin, designed so nobody can climb it. Effective for centuries **and obsolete the moment a besieger could bring a practitioner capable of unmaking masonry at range** — which made every tall wall in the world **a target rather than a defence** |

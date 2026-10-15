@@ -61,6 +61,7 @@ Illegal magic, and anything the ground does that nobody can explain: carcasses t
 ## A Known Chapter: the Timberline
 
 *The northern timber, a chapter bench, and the North Ferriby walk.*
+
 | Member | Office in the chapter |
 |---|---|
 | **Nol Tally** | Walker on the North Ferriby walk. Forty miles of timber a week; counts deer for a living; measures what he finds with a rule |

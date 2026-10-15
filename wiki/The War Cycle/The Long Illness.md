@@ -34,6 +34,7 @@ verification: "unverified"
 ## The Trades
 
 *Consolidated from four registers previously held separately. Every entry has an onset figure, a progression, and no compensation scheme in any quarter.*
+
 | Condition | Trade and onset | Course |
 |---|---|---|
 | **Tender's shake** | Array service · ~8 years | Tremor, permanent, progressive. **The largest single occupational cohort in the four quarters and the one with the strongest documentation and no scheme** |

@@ -27,6 +27,7 @@ Essence color is determined by two independent variables. **The Family** (one of
 
 *Temperance clarity across the Sixteen Stages, independent of Family hue.*
 The metaphor is smelting. Raw ore is dark, dense, full of impurity. Heat and pressure drive the impurities out, and what remains brightens with each pass of the forge. **The Soul Crystal is the ore. Temperance is the forge. The Refinement Spectrum is the color of what comes out.**
+
 | Stage | Tier of Standing | Color and character |
 |---|---|---|
 | **I · Murmuring** | 1 · Initiate | **Near-black.** Coal dust on a smith's palm before the bellows touch it. Opaque and turbid. No coherence — noise rendered visible, a dark smear that dissipates before it travels a handspan. *Others with sufficient Gnosis (the stat of perception and understanding) perceive it only as a quality of wrongness in the ambient light, the way a room feels heavier when someone in it is afraid* |
@@ -51,6 +52,7 @@ The metaphor is smelting. Raw ore is dark, dense, full of impurity. Heat and pre
 ## Part Two · The Eight Families
 
 *Essence hue by Physics Domain (the branch of real physics a Family governs). The assignment is not symbolic. It is causal.*
+
 | Family | Domain | Hue and character |
 |---|---|---|
 | **Caloria** | Thermodynamics | **Deep ember-orange**, iron at cherry-red heat. Not decorative flame, not campfire orange — the dull-bright orange of metal that has absorbed enough energy to glow, seen through the dark of a forge. Solfatara runs deep sulphurous red, Catharsis pale rose-gold. **The canonical test: whether it makes the observer feel warmer. It should not.** *Caloria Essence is the color of heat. It is not heat itself, and the distinction is the first thing a Journeyman learns* |
@@ -91,6 +93,7 @@ The full Essence Color of any practitioner is the intersection of Family hue and
 ## Part Five · Prose Application
 
 *Essence does what the physics of its Family would do if that physics were visible, and when a practitioner pushes it, it shows. The aura flares in their own colour, the Family's hue at their Stage's clarity: a dark smear on the hands at Welling, a flare a civilian can see from Glory, a light that colours the walls from Transcendence. The harder they push, the brighter it burns, and a release drives it to its full colour at once. Write the physics first and the colour with it.*
+
 | **Family** | **Write it as** |
 |---|---|
 | **Caloria** | The air bends with heat-shimmer. Surfaces near the hands darken in the orange-red register the way a stovetop darkens before it is visibly hot. Thermal first, then luminous: the harder they push, the brighter their own ember-orange burns on the skin |

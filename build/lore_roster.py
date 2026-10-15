@@ -3,7 +3,7 @@
 
   python build/lore_roster.py            # writes imports/lore/_roster.json and _graph.json, prints a summary
 
-One row per card in wiki/Volume I — Character Cards (plus the cards that live in a
+One row per card in wiki/Characters/Volume I — Character Cards (plus the cards that live in a
 character's own section): the file, the Notion page id, the affiliation line, the
 Relationships text, which other cards it names, who shares its surname, which
 archived scenes it appears in (scenes/CAST.md), and whether the card already
@@ -20,7 +20,7 @@ import unicodedata
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
-VOL = ROOT / "wiki" / "Volume I — Character Cards"
+VOL = ROOT / "wiki" / "Characters" / "Volume I — Character Cards"
 EXTRA = [ROOT / "wiki" / "Hild Ice (Stark) — The Sword Princess" / "Robin Ice — The Bastard Runner.md"]
 OUT = ROOT / "imports" / "lore"
 LORE_HEAD = "Lore · The Life Behind the Card"

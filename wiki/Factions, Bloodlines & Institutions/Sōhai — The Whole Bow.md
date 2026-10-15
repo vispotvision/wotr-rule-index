@@ -46,6 +46,7 @@ Fate is not prediction. Fate is work: the continuous assigning, preserving, undo
 #### The Fourteen Labours
 
 *Assigned in the order of emergence. Every household is held to all fourteen. Most perform eleven without knowing they are performing anything.*
+
 | **Archon** | **Principle** | **The Labour** |
 |---|---|---|
 | **Urion** | Balance | **The Weighing.** One thing weighed on a true balance each day. In Kharven this is the ration, and the scale is inspected publicly at Ice-out. |

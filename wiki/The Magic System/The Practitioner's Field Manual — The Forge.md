@@ -20,6 +20,7 @@ verification: "unverified"
 ## The Two Layers
 
 **Nothing in the Continuum (the lawful fabric of reality) became more complicated.** *A second layer accumulated on top of the first, the two were carried as one thing — and the second layer is accounting.*
+
 | Layer | What it is |
 |---|---|
 | **The Generative Layer** | Family → Affinity → Method → Ability → Technique. **The entire engine of magic.** It answers **what a working does, how it does it, and what it costs.** *Every scene is written from here* |
@@ -45,6 +46,7 @@ verification: "unverified"
 ## The Forge
 
 *Seven steps at the desk. Steps one through four are structural and cannot be skipped. Five through seven are what separate a technique from a special effect.*
+
 | Step | What it demands |
 |---|---|
 | **1 · Family** | Name it **from what is physically happening, not from the feeling it evokes.** *A grief-working that rots a body is Vitalia. A grief-working that removes the memory of a face is Limina.* **The taxonomy is physics-first** and it will offend intuition roughly a third of the time. Follow it anyway |
@@ -74,6 +76,7 @@ verification: "unverified"
 *Ratified. It generalises across all eight Families as one rule and resolves the recurring problem of every escalation reading as simply larger.*
 > **Every working has a delivery rate. Rate decides whether the effect pushes or shatters. Magnitude does not.**
 **The same Essence (the soul's own stuff of power), the same Wellspring, the same practitioner, delivered slow or delivered instantaneously, produce two entirely different injuries.** *This is the correct way to escalate a character without inflating a number — and it is available at every Stage from Murmuring upward.*
+
 | Family | The law | What the difference is |
 |---|---|---|
 | **Caloria** | Deflagration ↔ detonation | Subsonic **pushes, throws men, takes hair and eyebrows and leaves survivors.** Break the sound barrier and it stops being fire and becomes a pressure wave — *and pressure waves do not burn people, they delaminate them, lungs first. Same fuel. Same Essence. Entirely different corpse* |
@@ -91,6 +94,7 @@ verification: "unverified"
 
 *Rotate deliberately across the cast and audit for collision.*
 > **The governing test is unchanged and it is severe: if the cost never touches the character when they are not using the power, it is a resource limit wearing a cost's coat.**
+
 | Category | Standing |
 |---|---|
 | **Physical toll** | Exhaustion, injury, aging, organ damage. **Reliable. Overused** |
@@ -130,6 +134,7 @@ verification: "unverified"
 ## The Eight Families
 
 *What each House governs, and — more usefully — what it categorically cannot do.*
+
 | Family | What it cannot do | Signature cost |
 |---|---|---|
 | **Caloria** *heat and its absence* | **Cannot create energy.** Every degree added is a degree taken from somewhere, **and the practitioner must name the source or become it.** Cannot sustain combustion without an oxidiser — *sealed rooms, deep water and the high thin air of the Reach are Caloria-hostile ground* | **Physical toll, sink-side.** *A thirty-year adept has hands that no longer sweat, corneas gone slightly opaque, and a resting body temperature nobody wants to shake hands with* |

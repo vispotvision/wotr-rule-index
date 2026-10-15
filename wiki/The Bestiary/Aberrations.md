@@ -151,4 +151,4 @@ Relentless, **driven by endless hunger and madness.** They hunt anything that mo
 **Vulnerable to fire and heat. Their madness causes unpredictable, reckless behaviour. And prolonged exposure to Harmonic Essence weakens their corrupted core.**
 *The Blight of Frost Hollow tells of a Wendigo terrorising mountain villages for decades until shamans and hunters banished it. The Winter's Maw campaign suffered severe losses to Wendigo ambushes on supply runs.*
 > **Northern tribes conduct rites to protect against their hunger — and to honour the spirits of those lost to the curse.**
-- [[Aberrations/Lich]]
+- [[The Bestiary/Aberrations/Lich]]

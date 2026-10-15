@@ -75,6 +75,7 @@ So two contradictory accounts of the same Front are normal and neither teller is
 ### IV. The Table
 
 Use this to answer, on the spot, when a Front's news reaches a given place.
+
 | Distance | Wire | Post | Mouth |
 |---|---|---|---|
 | Same city, on the main | within the hour | same day | within the hour in the same quarter, next day across it |

@@ -38,6 +38,7 @@ verification: null
 ## The Three Planes and the Veil
 
 **Reality is not layered like sediment. It is nested.** Three sovereign planes coexist at every point in space, **and your Crystal has one layer standing in each.**
+
 | Plane | Governs | Crystal layer | Stats it feeds |
 |---|---|---|---|
 | **Material** | Physics, matter, force, energy, biology | Aether Shell | Vitality · Ardency · Dexterity |
@@ -64,13 +65,14 @@ verification: null
 **Aetheric Residue** · The trace a working leaves. **Permanent, often subtle, always readable by someone patient enough.** *It thins on a schedule the ground sets, toward a floor it never passes.*
 **Aetheric Saturation** · The danger state where Essence released by workings floods an area faster than it disperses. *It produces Crystal Fracture Events in everyone exposed, including the person who caused it.*
 **Essence Signature** · **You cannot forge one and you cannot fully hide one. Only muddy it.**
+
 | Layer | Function | Failure mode |
 |---|---|---|
 | **Essence Core** | Identity, memory, Traits | Fracture into Shards |
 | **Aether Shell** | Turns inner truth into outward force | Clouding, then Rupture |
 | **Attraction Layer** | Bonds, Domains, harmonisation | **Capture by Obsession Force** |
 
-> *Learning which failure you are looking at is the difference between treating a wound and finishing a corpse.**
+> Learning which failure you are looking at is the difference between treating a wound and finishing a corpse.
 **Crystal States** · **Fractured** — split by trauma or overload; erratic casting and identity leak. *Not always fatal. Frequently permanent.* Refined **— the healthy baseline,** ***and rarer among veterans than recruitment posters suggest.*** Overgrown **— power exceeding architecture;** this is what forced advancement produces. Crystallized **— the self has become law. *Very few reach this.** Fewer remain recognisable afterward.*
 
 ---
@@ -79,6 +81,7 @@ verification: null
 
 > *"Temperance is not a buff. It is a confession of how much you've survived."*
 **A Stage is not an achievement.** It is a structural reorganisation the Crystal undergoes when accumulated pressure exceeds its current architecture. *Each Stage changes what your numbers are permitted to mean, not what they add up to.*
+
 | Stage | Name | Grade cap | Ceiling | Character |
 |---|---|---|---|---|
 | I | Murmuring | E | 50 | Essence as noise. Mood-driven, undirectable |
@@ -124,6 +127,7 @@ verification: null
 > **The differential rule is the single most practically important sentence in this primer.**
 >
 > **One full Grade above your opponent in the relevant stat wins that exchange without meaningful contest. Two Grades above is one-sided. Three Grades above means the lower party is not fighting a battle. They are surviving an event.**
+
 | Grade | Stat range | Attack output |
 |---|---|---|
 | **Hollow** | 1–10 | below 60 J |
@@ -154,6 +158,7 @@ Five Bands yield **nine thousand** stat points. Thresholds through Stage XIII ad
 
 **Flux Density (EU/g)** · The compression ratio. *The difference between a practitioner who empties in three techniques and one who fights an hour on the same pool.*
 **Eta (η)** · The ratio of Essence spent to Essence that arrives as intended effect. **At 0.50 you waste half of every expenditure as heat, noise and structural bleed. At 0.90 you do not.** *Efficiency is the single most important variable in a long engagement.*
+
 | Temperance | η | What changes |
 |---|---|---|
 | I–IV | 0.30–0.45 | **Enormous waste. Techniques feel like shouting into wind** |
@@ -167,7 +172,7 @@ Five Bands yield **nine thousand** stat points. Thresholds through Stage XIII ad
 | XIV | 1.0–1.2 | **Output exceeds expenditure. The environment co-authors** |
 
 > **The last row is not free energy, and any tutor who describes it that way should be reported.** *It is the Continuum recognising an expression as law and supplementing it with ambient flow. The soul in question has become something the world agrees with.*
-**Recovery** · **Passive**, ambient and effortless. **Active**, substantially faster, *requires you to stop fighting — which is the entire problem.* Crisis**, triggered by soul-cost events or genuine breakthrough mid-combat: *cannot be manufactured or relied upon.** It is the Crystal's reward for authentic contact with consequence.*
+<strong>Recovery</strong> · <strong>Passive</strong>, ambient and effortless. <strong>Active</strong>, substantially faster, <em>requires you to stop fighting — which is the entire problem.</em> Crisis<strong>, triggered by soul-cost events or genuine breakthrough mid-combat: *cannot be manufactured or relied upon.</strong> It is the Crystal's reward for authentic contact with consequence.*
 
 ---
 
@@ -180,7 +185,7 @@ Five Bands yield **nine thousand** stat points. Thresholds through Stage XIII ad
 >
 > ***A Domain forms because a soul has become heavy enough to dent reality, and reality has stopped resisting the dent.***
 **Overlap resolution runs in strict order:** Temperance differential first, **two or more Stages simply overwriting**; then Dominion within the same band; then Wellspring compatibility; **and last, doctrine coherence.**
-> *A Domain built from an honestly lived truth is structurally denser than one built from adopted belief. Coherence and Maturity are the tiebreakers — which means the Continuum's final arbitration is a question about whether you actually meant it.**
+> A Domain built from an honestly lived truth is structurally denser than one built from adopted belief. Coherence and Maturity are the tiebreakers — which means the Continuum's final arbitration is a question about whether you actually meant it.
 **Collapse produces a Resonance Shockwave** proportional to size and density, damaging everything inside the former territory. ***Including, invariably, the practitioner who lost it.***
 
 ---

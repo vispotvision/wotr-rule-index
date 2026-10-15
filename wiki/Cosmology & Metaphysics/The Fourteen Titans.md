@@ -27,6 +27,7 @@ Above the Titans stand the **Epochs**. Aegor, Bairos and Ashura appear throughou
 ## The Seating
 
 The orders describe what layer of the world the Titan is holding rather than any rank between them. Nothing in the register establishes a hierarchy and the Guild has repeatedly declined to invent one.
+
 | Titan | Epithet | Order | What it holds |
 |---|---|---|---|
 | **ATLA'ZON** | *The World-Binder* | Physical | Orientation, duration, adhesion |
@@ -66,6 +67,7 @@ Three things separate a Titan-Keyed working from every other entry in the regist
 ## The Ledger of Costs
 
 Read down this column and the register's actual argument becomes visible. A Titan-Keyed working is not a large spell. It is a bill presented in a currency the caster did not choose.
+
 | Titan | The Art | What the casting takes |
 |---|---|---|
 | ATLA'ZON | *The Bent Knee's Burden* | The caster's own joints and breath take on the Titan's characteristic strain. |
@@ -101,7 +103,7 @@ Three entries break the pattern and each breaks it differently. *The Closing Eye
 
 ## The Fourteen in Full
 
-- [[The Fourteen Titans/The Physical Order — Atla'zon and Gaia]]
-- [[The Fourteen Titans/The Spiritual Seat — Omnis, Florwyn, Dazkar, Nysera, Sylorin, Ilgrimm]]
-- [[The Fourteen Titans/The Strata — Valmir, Kaldrion, Chronaeus]]
-- [[The Fourteen Titans/The Abyssal Depths — Prometheus, Zar'thuun, Vohrin]]
+- [[Cosmology & Metaphysics/The Fourteen Titans/The Physical Order — Atla'zon and Gaia]]
+- [[Cosmology & Metaphysics/The Fourteen Titans/The Spiritual Seat — Omnis, Florwyn, Dazkar, Nysera, Sylorin, Ilgrimm]]
+- [[Cosmology & Metaphysics/The Fourteen Titans/The Strata — Valmir, Kaldrion, Chronaeus]]
+- [[Cosmology & Metaphysics/The Fourteen Titans/The Abyssal Depths — Prometheus, Zar'thuun, Vohrin]]

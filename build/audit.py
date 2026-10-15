@@ -176,7 +176,7 @@ def reconcile() -> Path:
         lines.append("- none found by pattern (Stage/Level within 80 characters of a first name)")
     lines.append("")
     # 3. Wellspring assigned to two Families across the wiki
-    fam_pages = list((WIKI / "The Eight Families & the Sixty Wellsprings").glob("*.md"))
+    fam_pages = list((WIKI / "The Magic System" / "The Eight Families & the Sixty Wellsprings").glob("*.md"))
     ws_family = {}
     for fp in fam_pages:
         fam = fp.stem.split(" — ")[0]

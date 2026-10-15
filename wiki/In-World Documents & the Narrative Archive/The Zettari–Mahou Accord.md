@@ -39,6 +39,7 @@ The Mahou line **shall no longer be treated as a danger without a name attached 
 
 A union is proposed between **Dawn Guard, Sovereign of the Zettari**, and **Ara Min Mahuo**, of the Mahou line, **as the foundation binding this Accord into something the Old World cannot dismiss as temporary goodwill.**
 **The following conditions govern this union absolutely.**
+
 | Condition | Provision |
 |---|---|
 | **First · Consent** | The consent of Ara Min Mahuo is required **and may not be presumed, implied, or extracted through family obligation.** She shall meet the Sovereign directly — **without her brother present, without any Mahou elder standing near enough to make her silence read as duty** |

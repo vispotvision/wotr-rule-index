@@ -48,6 +48,7 @@ Anima Spirare's cooperative binding means **the delivery curve steepens with dem
 ## The Five Wellsprings
 
 *Fixatio and Anima Spirare are load-bearing — remove either and the discipline collapses. The other three form the lattice that keeps soul-fed compression from destroying the vessel that holds it.*
+
 | Wellspring | Analogue | Role in the loop | Failure mode |
 |---|---|---|---|
 | **Fixatio** *The Binding Flame · Materia* | Covalent cross-linking. Thermoset cure | **The seal.** Every node, junction and escape coordinate is cross-linked shut. The practitioner does not clench against leakage — **leakage ceases to be geometrically possible.** This is why an adherent registers as inert to Essence-readers: **a sealed thermoset emits nothing** *Strengthens Vitality Fortitude, Resilience Anchoring* | **Irreversibility.** A binding placed in error is permanent. **A practitioner who seals a damaged node seals the damage inside it** |

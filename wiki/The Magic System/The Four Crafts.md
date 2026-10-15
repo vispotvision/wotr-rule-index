@@ -4,7 +4,7 @@ notion_id: "3bc58200-eb22-810f-ac23-e2613ea61705"
 notion_url: "https://app.notion.com/p/The-Four-Crafts-3bc58200eb22810fac23e2613ea61705"
 section: "The Magic System"
 tags: ["Magic System", "Disciplines"]
-last_edited: "2026-10-14T00:24:00.000Z"
+last_edited: "2026-10-15T16:39:00.000Z"
 verification: "unverified"
 ---
 
@@ -18,7 +18,7 @@ verification: "unverified"
 
 **The casting model as it stands is correct and complete. It is also, in its centre of gravity, Eastern.**
 The five-step pipeline runs inside one practitioner, in real time, in a single continuous act of will. The most legible unit is **the Technique**: a named, repeatable thing a person does with their body and their reserve, at a stated cost. *Every load-bearing question the system asks is a question about one soul's interior.*
-> **That is the cultivation shape. It is a very good shape and it is not what Tolkien, Martin, Clarke or Le Guin are doing.**
+> **That is the cultivation shape. It is the core of the system and it stays the core, and it is not what Tolkien, Martin, Clarke or Le Guin are doing; the crafts below build their made things around it.**
 
 ### What the Western tradition does instead
 
@@ -28,7 +28,7 @@ The five-step pipeline runs inside one practitioner, in real time, in a single c
 > ***The Guild Accord is four-fifths of the way to being that institution and does not yet know it.***
 > **And the deepest one: WOTR's own glyph system is already Western Renaissance occultism.**
 >
-> The Parun lattice is **Agrippa's kamea method out of the Three Books, II.22, unaltered.** *That is the operative tradition of European ceremonial magic, lifted whole.*
+> The Parun (the language of law every working is written in) lattice is **Agrippa's kamea method out of the Three Books, II.22, unaltered.** *That is the operative tradition of European ceremonial magic, lifted whole.*
 >
 > **Which means the Four Glyph Roles are already the Solomonic operation, in order, and nobody has noticed.**
 | Glyph Role | Solomonic operation | What it does |
@@ -40,7 +40,7 @@ The five-step pipeline runs inside one practitioner, in real time, in a single c
 
 > **The four roles are the boundary operation, in order, and the order is not decorative.**
 >
-> A glyph creates nothing. The Wellspring's law was already running. **Authorization** says by what right a limit is set, **Boundary** sets it, **Direction** states which way the law is to run across it, and **Sealing** takes the limit back down.
+> A glyph creates nothing. The law of the Wellspring (one of sixty natural sources of magic, each carrying a physical law) was already running. **Authorization** says by what right a limit is set, **Boundary** sets it, **Direction** states which way the law is to run across it, and **Sealing** takes the limit back down.
 >
 > *Which is why Sealing is the role that kills people.* Authorization, Boundary and Direction failing produce a working that does not happen. **Sealing failing produces a working that does not stop**, because the law goes on obeying itself after the operator's attention has left the room. Every burnt workshop in the Accord's incident record is a Sealing failure and roughly a third of them are recorded as something else.
 > ***The Western frame does not need to be imported into WOTR. It needs to be excavated out of it.***
@@ -49,11 +49,11 @@ The five-step pipeline runs inside one practitioner, in real time, in a single c
 
 ## The Five Levers
 
-**I · Invert the status hierarchy.** Real-time casting sits at the centre by default. **Move the made object and the prepared substance above it, and put the live caster at the bottom.** *Costs nothing structurally. Changes everything about how the world reads.*
+**I · Invert the status hierarchy.** Real-time casting sits at the centre by default. **Move the made object and the prepared substance above it in guild dignity, and put the live caster at the bottom of the guild ladder, whatever the crowd outside thinks of him.** *Costs nothing structurally. Changes everything about how the world reads.*
 **II · Contest the word.** **Nobody calls it magic.** Each craft carries an Accord name in liturgical Latin and a plain name in the common tongue, **and which one a character reaches for places them by class before they have finished the sentence.** *This is the Norman and Anglo-Saxon doublet English actually runs on, and it is Tolkien's method exactly.*
 **III · Make the golden age real, lost, and officially denied.** **The best inscriptions in the world are all old. Some of them cannot be read. The Accord's published position is that this is not the case.**
-**IV · Make the taxonomy political.** The categories and the Families are **an Accord publication before they are a law of physics.** *Documents serve the people who publish them. Somebody's craft was reclassified as Mechanica on grounds that were political before they were metaphysical.*
-**V · Move cost from the ledger to the page.** EU, Flux Density and η remain author-facing and unchanged. **What a reader sees is the Cost Wheel: the years, the memory, the sanction, the debt, the man who knows what you bought.**
+**IV · Make the taxonomy political.** The categories and the Families (the eight houses of magic, each sorted by the physics it works) are **an Accord publication before they are a law of physics.** *Documents serve the people who publish them. Somebody's craft was reclassified as Mechanica on grounds that were political before they were metaphysical.*
+**V · Move cost from the ledger to the page.** EU (Essence Units, the measure of a reserve), Flux Density (how densely Essence packs into the Crystal) and η (efficiency, the share of spent power that does its work) remain author-facing and unchanged. **What a reader sees is the Cost Wheel: the years, the memory, the sanction, the debt, the man who knows what you bought.**
 
 ---
 
@@ -86,7 +86,7 @@ The five-step pipeline runs inside one practitioner, in real time, in a single c
 
 ***Ars Operis.*** **The work. The umbrella and the examination category.**
 The discipline of building a lawful Parun sentence and committing it to a medium. **It is what the Accord tests, licences, taxes and prohibits. It is not a thing anyone practises**, because practice always means one of the four crafts beneath it.
-> **The theoretical worker** studies Magicraft and performs nothing. They know the Codex, the Families, the Wellspring assignments, the Derivation Index, the case law. **They can tell a Runesmith that his Boundary layer is malformed and be right. They have never in their lives put a working into anything.**
+> **The theoretical worker** studies Magicraft and performs nothing. They know the Codex (the Accord's master register of glyphs, Wellsprings and laws), the Families, the Wellspring assignments, the Derivation Index, the case law. **They can tell a Runesmith that his Boundary layer is malformed and be right. They have never in their lives put a working into anything.**
 >
 > *The Research and Archives Division is full of them, its examination boards are made of them, and its most senior appointments require no demonstrated capacity to cast whatsoever.*
 >
@@ -103,11 +103,11 @@ The discipline of building a lawful Parun sentence and committing it to a medium
 **Medium** · the ephemeral sentence, carried by breath, hand, or trained interior chain.
 **What nothing else can do** · **It happens now.** A rune takes a week and a Draft takes a season. **A spoken working takes as long as it takes to say it, and that is the entire case for it.**
 **What it costs** · **The body, immediately, in the same scene.** *There is no substrate to absorb the strain, so the practitioner is the substrate.*
-> **Status: low — and this is the single most important change in the document.**
+> **Status: low in the guilds' eyes, and only there. This is the single most important change in the document.**
 >
-> **A man who can only speak is a man who could not afford to learn to cut.** The soldier's craft, the hedge-worker's craft, the travelling fraud's craft and the craft of the desperate.
+> **To a guildsman, a man who can only speak is a man who could not afford to learn to cut.** The soldier's craft, the hedge-worker's craft, the travelling fraud's craft and the craft of the desperate.
 >
-> It requires no substrate, no vessel, no workshop, no seven years, and no guild. ***That is precisely why the guilds hold it in contempt. Anyone can shout. Cutting takes seven years and a master willing to take you.***
+> It requires no substrate, no vessel, no workshop, no seven years, and no guild. ***That is precisely why the guilds hold it in contempt. Anyone can shout. Cutting takes seven years and a master willing to take you.*** The world outside the halls has never agreed. The public, the armies and the sects idolise a great speaker as they idolise any champion, and the man the examiners call a mouth is the one the crowd came to see.
 >
 > *The Accord licences it grudgingly, at the lowest fee band, with the shortest examination — and its examiners refer to the licence among themselves as the shouting ticket.*
 
@@ -115,9 +115,9 @@ The discipline of building a lawful Parun sentence and committing it to a medium
 
 **Spoken** · Voice into air. The default. **Loud, legible, and it tells everyone within earshot exactly which Wellspring you just invoked.**
 **Gestured** · The hand carries the chain. **Quieter, slower, useless with a broken wrist or a bound arm.**
-**Bodily** · Martial integration. Corporis. **A fist with combustion on it is Spellcraft with the body as the pen**, and the sentence is still ephemeral — *which is why the fist stops burning the moment attention lapses.* **It is not a separate craft and should never be written as one.**
-**Internalised** · The chain held silently in the Crystal. **The high form, and the one that draws the Law V conflict below.**
-**Failure mode** · **It dissipates and takes something with it.** The Essence already committed does not come back. *Loud, immediate, embarrassing and survivable — exactly the wrong shape for the respectable trades and exactly the right shape for a battlefield.*
+**Bodily** · Martial integration. Corporis. **A practitioner's stats sit in the body always, a passive base nothing switches off, and Bodily Spellcraft is the active reinforcement spoken over it**, pushing past the base at a price in reserve. It shows as a coat of the practitioner's own aura, thicker where they push, with the body changing beneath it, and it can be gathered into one fist or one shin while the rest runs thin, so reading where it went is half the fight. **A fist with combustion on it is Spellcraft with the body as the pen**, and the sentence is still ephemeral, *which is why the fist stops burning, and the coat drops, the moment attention lapses.* Asleep, drugged or taken by surprise, a practitioner keeps the base and loses the layer, which is why ambush is the oldest answer to one. **It is not a separate craft and should never be written as one.**
+**Internalised** · The chain held silently in the Crystal (the Soul Crystal, the organ in the soul that works magic). **The high form, and the one that draws the Law V conflict below.**
+**Failure mode** · **It dissipates and takes something with it.** The Essence (the soul's own stuff of power, spent to work) already committed does not come back. *Loud, immediate, embarrassing and survivable — exactly the wrong shape for the respectable trades and exactly the right shape for a battlefield.*
 > **Prose cues.** The speaker pays inside the same scene, visibly. Nosebleed, tremor, the hand that will not close, the four days of sleeping badly afterward. *Somebody in the room reacts to the fact that a working was spoken aloud in company, because in some rooms that is an obscenity.* **Nobody polite says casting.**
 
 ---
@@ -125,7 +125,7 @@ The discipline of building a lawful Parun sentence and committing it to a medium
 ## III · Runecraft
 
 ***Ars Scripti.*** **The writing. The cutting. The high craft.**
-**Medium** · the permanent sentence, cut into substrate. Stone, iron, bone, crystal, prepared wood — **and at the far end of the discipline the Aether Shell or Soul Crystal lattice of a living body.**
+**Medium** · the permanent sentence, cut into substrate. Stone, iron, bone, crystal, prepared wood — **and at the far end of the discipline the Aether Shell (the soul's outer layer, turning inner power into outward force) or Soul Crystal lattice of a living body.**
 **What nothing else can do** · **It outlives the person who made it.** *A ward cut into a fortress wall by an Engraver dead three centuries still suppresses hostile Essence, provided the stone has not fallen below its retention threshold.* **The Continuum reads what is written. The author may leave. The sentence remains legible.**
 **What it costs** · Time, substrate, and **irrevocability.** A season of work, a stone that will never be cut again, **and the knowledge that an error does not misfire once.**
 > **It misfires continuously, for as long as the carving holds, on everyone who passes it, until somebody finds it and breaks it.**
@@ -141,7 +141,7 @@ The discipline of building a lawful Parun sentence and committing it to a medium
 > ***The Division has expected this for four generations.***
 > **Standing rule for prose: the wall is older than the war.**
 >
-> Any Runecraft on the page should carry **a date, an author, or a visible repair** — *and the repair should be worse than the original.*
+> Any standing Runecraft on the page should carry **a date, an author, or a visible repair**, *and the repair should be worse than the original.* Cheap runed gear and the prepared tags fighters carry into battle are journeyman stamping, common as nails, and carry no more than a maker's mark.
 > **Prose cues.** Chisels, drift, tooling marks, the grain of the stone and where it fought the cut. Somebody's hands. The apprentice who holds the light. **A wall with three hands on it, two of them dead.** Weather on an inscription. *Somebody scraping a rune off a doorframe with a knife, badly, because the man who cut it is now an enemy.*
 
 ---
@@ -149,7 +149,7 @@ The discipline of building a lawful Parun sentence and committing it to a medium
 ## IV · Draftcraft
 
 ***Ars Vasis.*** **The pouring. Vessel-work. The commercial craft — and the one that makes this world Western.**
-**Medium** · the distilled sentence. **A procedure, not a standing instruction**: Aether plus Essence plus Vessel plus Glyphica, resolved as a reaction, **and the working ends up inside a substance.**
+**Medium** · the distilled sentence. **A procedure, not a standing instruction**: Aether plus Essence plus Vessel plus Glyphica (the glyph-writing that shapes a working), resolved as a reaction, **and the working ends up inside a substance.**
 > **What nothing else can do, and this is the load-bearing point of the entire document:**
 >
 > ***It puts a working into the hands of somebody who cannot work.***
@@ -159,18 +159,10 @@ The discipline of building a lawful Parun sentence and committing it to a medium
 > After that the working is **a thing in a bottle** — and the bottle can be **carried by a courier, sold by a factor, taxed at a gate, stolen off a corpse, watered down by a dishonest apothecary, and drunk by a farmer who has never harmonised with anything in his life.**
 >
 > **Draftcraft is how the other ninety-odd percent of the population touches magic at all.** *Everything a Western fantasy economy needs falls straight out of that: smuggling, counterfeiting, guild monopoly, excise, adulteration, shortage, addiction, and a black market with names in it.*
-> **What a Draft does to a soul whose Crystal never woke.** A Draft acts on the Essence Core, and a Class Ø soul has a Core like anyone else. Its Shell is sealed and cannot phase-lock, and no harmonisation follows, so the farmer gets the working and none of the architecture.
+> **What a Draft does to a soul whose Crystal never woke.** A Draft acts on the Essence Core (the soul's inner layer, holding identity, memory and Traits), and a Class Ø soul has a Core like anyone else. Its Shell is sealed and cannot phase-lock, and no harmonisation follows, so the farmer gets the working and none of the architecture.
 > 
-> He also gets no melt. **Nucleation is a Crystal event**, so a Draft cannot seat in him, cannot recast him, and cannot be argued with once it is in. It runs its course through the Core and leaves whatever it leaves. Repeated dosing over years does not advance anything. It **deepens the grain**, hardening the man further along the direction he was already set, which is why the second and third generation of a village on cheap Drafts are recognisable at a distance and the fourth is a problem.
+> He also gets no melt. **Nucleation (the seeding that decides how a melted Crystal sets again) is a Crystal event**, so a Draft cannot seat in him, cannot recast him, and cannot be argued with once it is in. It runs its course through the Core and leaves whatever it leaves. Repeated dosing over years does not advance anything. It **deepens the grain**, hardening the man further along the direction he was already set, which is why the second and third generation of a village on cheap Drafts are recognisable at a distance and the fourth is a problem.
 > 
-> *The Accord has no category for this because the Accord's ledgers count practitioners. The apothecaries have known it for two centuries and price accordingly.*
-> 
-> He also gets no melt. **Nucleation is a Crystal event**, so a Draft cannot seat in him, cannot recast him, and cannot be argued with once it is in. It runs its course through the Core and leaves whatever it leaves. Repeated dosing over years does not advance anything. It **deepens the grain**, hardening the man further along the direction he was already set, which is why the second and third generation of a village on cheap Drafts are recognisable at a distance and the fourth is a problem.
-> 
-> *The Accord has no category for this because the Accord's ledgers count practitioners. The apothecaries have known it for two centuries and price accordingly.*
->
-> He also gets no melt. **Nucleation is a Crystal event**, so a Draft cannot seat in him, cannot recast him, and cannot be argued with once it is in. It runs its course through the Core and leaves whatever it leaves. Repeated dosing over years does not advance anything. It **deepens the grain**, hardening the man further along the direction he was already set, which is why the second and third generation of a village on cheap Drafts are recognisable at a distance and the fourth is a problem.
->
 > *The Accord has no category for this because the Accord's ledgers count practitioners. The apothecaries have known it for two centuries and price accordingly.*
 **What it costs** · **Provenance.** *A Draft requires ingredients, and ingredients come from somewhere, and somebody sold them to you, and there is a ledger.* **The Cost Wheel category here is social and legal —** and the Accord's entire enforcement apparatus, which does almost no narrative work at present, exists to collect on it.
 **Status: middling, and enormously rich.** Below Runecraft in guild dignity and **far above it in turnover.** *A Drafter is a tradesman. A great Drafter is a merchant house.* **The Accord's revenue depends on Draftcraft to a degree it does not enjoy discussing.**
@@ -188,13 +180,13 @@ The discipline of building a lawful Parun sentence and committing it to a medium
 **What it costs** · **Other people, and their time, indefinitely.** *A sung ward is a standing labour obligation. Somebody is singing right now or the thing is failing.*
 **Status: sacral, and outside the guild structure entirely** — which is why the Accord finds it difficult and why Sancta Lux and the Sohai live here.
 > **Reference points.** Finrod and Sauron singing at each other until one of them falls. Lúthien before the throne. *The monastic office sung eight times a day for six hundred years by men who were replaced one at a time.*
-> **Ratified.** Chantcraft stands as its own craft. Harmonia workings take *Ars Cantus* as their medium-home.
+> **Ratified.** Chantcraft stands as its own craft. Harmonia (magic worked by tone and sympathetic vibration) workings take *Ars Cantus* as their medium-home.
 
 ---
 
 ## What This Changes on the Page
 
-**The default working in any scene should be Runecraft or Draftcraft.** A wall that holds. A bottle that was bought. **Spellcraft appears when somebody is out of time, out of options, or out of standing.**
+**The default working in a quiet scene should be Runecraft or Draftcraft.** A wall that holds. A bottle that was bought. **Spellcraft owns the fight: it is what a fighter shouts when the blades are out, and what anyone reaches for when out of time or out of options.**
 **Every named practitioner gets a craft, and the craft is characterisation.** *Temür speaks because Temür fights. Somebody in Stannvaard cuts. Somebody in Nalūn pours and keeps two sets of books.*
 **Cost is visible outside the working.** The Engraver's hands. The Drafter's ledger. **The speaker who is still shaking at supper.**
 **The taxonomy is contested in dialogue.** *A character who says Draftcraft is not a craft, it is cookery is expressing a live guild position and is entitled to be wrong loudly.*

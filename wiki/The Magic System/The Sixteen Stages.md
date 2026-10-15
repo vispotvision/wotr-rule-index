@@ -4,30 +4,30 @@ notion_id: "3b158200-eb22-81cc-a193-d69c171c0986"
 notion_url: "https://app.notion.com/p/The-Sixteen-Stages-3b158200eb2281cca193d69c171c0986"
 section: "The Magic System"
 tags: ["Magic System", "Reference Table"]
-last_edited: "2026-10-14T00:32:00.000Z"
+last_edited: "2026-10-15T16:39:00.000Z"
 verification: "unverified"
 ---
 
 # The Sixteen Stages
 
-*What Temperance Does to a Soul, Stage by Stage, Told Plainly*
-> Compiled for the Prime Instructors of the Guild Accord at the direction of the Research and Archives Division, following the Division's finding that the Codex's own account of the Stages runs to eleven lines and has never once been sufficient to teach from.
+*What Temperance (the climb of a soul from Stage to Stage) Does to a Soul, Stage by Stage, Told Plainly*
+> Compiled for the Prime Instructors of the Guild Accord at the direction of the Research and Archives Division, following the Division's finding that the account of the Stages in the Codex (the Accord's master register of laws and figures) runs to eleven lines and has never once been sufficient to teach from.
 
 ---
 
 ## How This Is Written
 
 > *"Temperance is not a buff. It is a confession of how much you have survived."*
-The Codex records each Stage with exacting precision: its Tier of Standing, its Grade ceiling, its stat ceiling, and the Catalyst Condition the Crystal requires before it will authorise the transition. Those figures are correct, they are reproduced here without alteration, and they have never taught anybody anything.
+The Codex records each Stage with exacting precision: its Tier of Standing (the Accord's rank title for it), its Grade ceiling (the highest letter grade, E to EX, its stats may reach), its stat ceiling, and the Catalyst Condition (the life event a soul must pass through to cross) the Crystal (the Soul Crystal, the organ that works magic) requires before it will authorise the transition. Those figures are correct, they are reproduced here without alteration, and they have never taught anybody anything.
 What follows sits underneath them. Each Stage is given four ways: **the ledger line**, which is the Codex's own figure; **what the Stage is from inside** the person it is happening to; **what it looks like from outside**, to the household or the hall or the field; and **what the common people call it**, which the Archives has three times recommended cutting and which predicts better than half the Index.
 > Two facts govern everything below and neither is negotiable.
 >
-> **The first** is that a Threshold requires both a quantitative floor and a Catalyst Condition, and no compound ever rendered has supplied a Catalyst.
+> **The first** is that a Threshold (the crossing from one Stage to the next) requires both a quantitative floor and a Catalyst Condition, and no compound ever rendered has supplied a Catalyst.
 >
 > **The second** is that a Threshold is a structural reorganisation, and whatever is in the Crystal at the moment of reorganisation is built into what comes out.
 >
 > A soul is therefore assembled out of what happened to it and what it could afford, in that order, and the Accord's entire certification apparatus is an instrument for reading the result.
-> The Levels on each ledger line below are where that Stage's practitioners usually sit, not where they must; only Part One's Band gates are hard: Stage IV before Level 100, VII before 200, X before 300, XII before 400.
+> The Levels on each ledger line below are where that Stage's practitioners usually sit, not where they must; only Part One's Band (a block of a hundred Levels) gates are hard: Stage IV before Level 100, VII before 200, X before 300, XII before 400.
 
 ### The Ladder at a Glance
 
@@ -61,15 +61,15 @@ What follows sits underneath them. Each Stage is given four ways: **the ledger l
 **Tier 1 · Initiate · Grade E · Ceiling 50 · Levels 1 to 25 · The Crystal has opened**
 ***From inside*** · A hum under the sternum that answers mood and answers nothing else. Wake angry and the water in the cup by the bed is trembling before you have understood why you are angry. Want something badly and feel a pressure behind the eyes that goes nowhere and does nothing and does not stop. There is no direction in it. There is no volume to adjust. It is weather happening inside a body that has not been told there is now weather.
 Children in Murmuring are not frightened by it, which adults consistently fail to predict. They are irritated by it. It is a noise, and they were already living in a body full of noises.
-What opening does not do is hand the child anything new. Traits sit in the material of a soul from the beginning and run in people whose Crystal never opens at all. Murmuring arms what was already there. The quiet child who never took a fever had the Trait at four; at eleven the Crystal simply gives it a conductor and a bill.
+What opening does not do is hand the child anything new. Traits (standing laws a soul has survived into being) sit in the material of a soul from the beginning and run in people whose Crystal never opens at all. Murmuring arms what was already there. The quiet child who never took a fever had the Trait at four; at eleven the Crystal simply gives it a conductor and a bill.
 ***From outside*** · Almost nothing, and the almost is what matters. A quality of stillness in a room that people notice and do not name. Animals get it first. Dogs go quiet around a Murmuring child a full season before the parents work out what is happening, and every farmer in the four quarters knows to watch the dogs and not one of them would call it a diagnostic.
 ***What the folk call it*** · **Carrying a bee.** A boy with a bee in him. The remedy is iron in the bed, on the reasoning that the iron takes the hum away from the child, and the reasoning is wrong in every particular and correct in its outcome, because iron does conduct and an ungoverned Crystal does shed into the nearest better conductor. A Murmuring child sleeps better with a horseshoe under the mattress. The Accord sells the industrialised version of this as Sour Iron Filings, at a markup, to the people who invented it.
 
 ### II — Welling
 
 **Tier 2 · Apprentice · Grade D · Ceiling 100 · Levels 26 to 50**
-**Catalyst** · first genuine contact with a Wellspring current under personal pressure, not observed, not instructed, but touched and survived
-***From inside*** · It spills. Direction arrives before volume does, so the child now knows what they are reaching for and has no capacity whatever to reach for a measured amount of it. They want the cup and the cup goes over. They want the fire hotter and the linen scorches. The Shell is forming and it is porous, and living inside a porous Shell at eleven years old is the experience of being blamed daily for things that are entirely your doing and entirely not your fault.
+**Catalyst** · first genuine contact with a Wellspring (one of sixty natural sources of magic, each carrying a physical law) current under personal pressure, not observed, not instructed, but touched and survived
+***From inside*** · It spills. Direction arrives before volume does, so the child now knows what they are reaching for and has no capacity whatever to reach for a measured amount of it. They want the cup and the cup goes over. They want the fire hotter and the linen scorches. The Shell (the Aether Shell, the soul's outer layer that turns power into force) is forming and it is porous, and living inside a porous Shell at eleven years old is the experience of being blamed daily for things that are entirely your doing and entirely not your fault.
 The Catalyst is worth sitting with. It is not instruction and it is not observation. It is a current, touched, under pressure, and survived. Which means the gate into Welling is an accident that went badly and did not go worst. Most practitioners in the four quarters can name the day. A good number of them have a scar from it.
 ***From outside*** · This is the year the household finds out. Broken crockery, soured milk, a scorch on a table nobody set a pot down on. Welling is when families discover what they have and decide what to do about it, and it is the year most children are sent away, and it is the year most accidents happen, in that order and for that reason.
 ***What the folk call it*** · **The spilling year.** The remedy is water. The child carries full buckets, all day, up the hill and back down, and is beaten for what they slop over the rim. It looks like cruelty and half the time it is cruelty and it is also, on the instrument, the correct training, because metering the body teaches the Shell to meter and no better method has ever been found. Every Prime Instructor in the Accord has quietly kept the practice. The published curriculum calls it graduated load discipline and does not mention the hill.
@@ -78,17 +78,17 @@ The Catalyst is worth sitting with. It is not instruction and it is not observat
 ### III — Ascension
 
 **Tier 3 · Journeyman · Grade C · Ceiling 175 · Levels 51 to 75**
-**Catalyst** · first technique developed independently from instruction, built from the practitioner's own understanding of their Essence rather than received doctrine
+**Catalyst** · first technique developed independently from instruction, built from the practitioner's own understanding of their Essence (the soul's own stuff of power) rather than received doctrine
 ***From inside*** · The first thing you made yourself, working.
 Everything until this moment was received. Somebody showed you and you copied it and it held, and you were proud of it, and it was never yours. Then one day you build a thing out of your own understanding of what your Essence actually does, and it holds, and the whole of Stage III is the difference between those two experiences. There is nothing else in it.
 Some people weep. Most do not. The recorded pattern across four centuries of instructor notes is that the practitioner does the thing, and then does it again to check, and then sits down.
-***From outside*** · The person becomes legible. Before Ascension you could say a child had something. After it, you can say what they are, and the recruiters can price them, and the family can plan, and the Path is visible to anyone who knows how to look. This is the point at which a life stops being a question and becomes a known quantity, and there are people who never forgive it.
+***From outside*** · The person becomes legible. Before Ascension you could say a child had something. After it, you can say what they are, and the recruiters can price them, and the family can plan, and the Path (the route, body, spirit, bond or fate, the Crystal habitually works through) is visible to anyone who knows how to look. This is the point at which a life stops being a question and becomes a known quantity, and there are people who never forgive it.
 ***What the folk call it*** · **Coming into the road.** The first true year. A family that can afford it holds a feast, because the child's future has just arrived and can be celebrated. A family that cannot afford it does not hold one, and the child notices, and a surprising number of Accord operatives have that particular non-event somewhere in their fracture record. The Archives has never studied this. Three Prime Instructors have asked it to.
 
 ### IV — Flourishing
 
 **Tier 4 · Adept · Grade B · Ceiling 275 · Levels 76 to 100**
-**Catalyst** · formation of the first genuine Spirit Axis, a bond with another soul that carries mechanical weight in the Harmonics
+**Catalyst** · formation of the first genuine Spirit Axis, a bond with another soul that carries mechanical weight in the Harmonics (the stats for drawing power and holding it in tune)
 ***From inside*** · The noise stops.
 Identity settles. The resonance signature that will be recognisably yours for the rest of your life finishes arriving. Techniques that were separate tricks cohere into something with a style to it, and for most practitioners this is the most physically pleasant experience of their lives, a warmth low in the chest that does not go away for weeks and that nobody who has had it describes well.
 And it cannot be reached alone.
@@ -112,10 +112,10 @@ What is not visible from outside is that an Axis is a load-bearing member. The a
 **Tier 5 · Expert · Grade B, instability above 320 · Ceiling 350 · Levels 101 to 150**
 **Catalyst** · surviving contact with an entity or force more than two full Tiers above the practitioner's ceiling. Not defeating it. Surviving it.
 ***From inside*** · The architecture that has held you since Murmuring reaches the limit of what it can be and has to break to become larger. There is no version where it does not break. The only question anybody has ever been able to influence is where.
-> It fractures along emotional lines. Not along the lines of injury, not along the lines of the encounter that triggered it, but along whatever the soul was already carrying badly. A practitioner who goes into Splintering with an unresolved thing comes out of it with that thing structurally present in their Crystal, permanently, in a way the coil reads.
+> It fractures along emotional lines. Not along the lines of injury, not along the lines of the encounter that triggered it, but along whatever the soul was already carrying badly. A practitioner who goes into Splintering with an unresolved thing comes out of it with that thing structurally present in their Crystal, permanently, in a way the coil (the assay instrument that reads a Crystal) reads.
 >
 > **Splintering does not create the flaw. It promotes the flaw to a load path.**
-Practitioners who fail do not die, mostly. They lose Sub-Stat progress and they sit at the ceiling of Stage IV for the rest of their working lives, and the four quarters are full of them, and they are the reason Tier Four is as crowded as it is.
+Practitioners who fail do not die, mostly. They lose Sub-Stat (the finer stats beneath each main stat) progress and they sit at the ceiling of Stage IV for the rest of their working lives, and the four quarters are full of them, and they are the reason Tier Four is as crowded as it is.
 ***From outside*** · A person who was reliable stops being reliable. Techniques that behaved for six years behave differently, or behave the same and cost more, or work perfectly and leave the practitioner shaking. The hall watches for it and the hall cannot do anything about it, and the honest instructors say so.
 ***What the folk call it*** · **The cracking.** The bad year. In the eastern quarter, **going to the wall**. There is no folk remedy, which is itself notable in a body of practice that has a remedy for everything, and the absence is the folk tradition being accurate about something the Accord's literature is not.
 > **Trade note** · **Splinter Ration** does not prevent the fracture. It introduces a controlled stress-riser so the Crystal breaks at the riser rather than wherever the trauma happened to sit. That is the entire product, it is reserved to Tier Five, and bonded practitioners receive it while village talent does not. More of who a person becomes is decided by that supply line than by anything they will ever choose.
@@ -127,7 +127,7 @@ Practitioners who fail do not die, mostly. They lose Sub-Stat progress and they 
 ***From inside*** · The fractures have become features. What was damage the year before is now architecture, and the practitioner can feel the difference, and the feeling is unaccountably good in a way that troubles the more thoughtful of them for years afterward.
 The Catalyst is a decision, and it is the first Catalyst in the ladder that is. Murmuring happens to you. Welling happens to you. Ascension is earned but arrives sideways. Flourishing requires another person. Glory requires that you look at something that will cost you structurally and choose it anyway, knowing the price, in advance, in cold blood.
 > Which means every A-Grade practitioner in the four quarters has, at some point, deliberately damaged themselves for something. The Accord's own literature describes this as the culture of duty. The instructors describe it as the year they learn what they will pay for.
-***From outside*** · The Aura starts doing things to rooms. Not dramatically. The air moves differently near them, small flames lean, animals behave, and people who have never heard of Aether Class find themselves standing slightly further away without deciding to. The Echo field forms here. This is the Stage at which a practitioner stops being a person with abilities and starts being a presence, and most of them handle it badly for a year or two.
+***From outside*** · The Aura, a light in the practitioner's own colour that flares brighter as they push and is now plain to any civilian, starts doing things to rooms. Not dramatically, at first. The air moves differently near them, small flames lean, animals behave, and people who have never heard of Aether Class (how much of a soul's power survives the trip out through the Shell) find themselves standing slightly further away without deciding to. The Echo field forms here. This is the Stage at which a practitioner stops being a person with abilities and starts being a presence, and most of them handle it badly for a year or two.
 ***What the folk call it*** · **Being lit.** He is lit up. In the Old World temple registers the term is **kindled**, and the ecclesiastical usage and the tavern usage have not diverged in six hundred years, which the Archives finds remarkable and has not explained.
 
 ### VII — Refraction
@@ -135,10 +135,10 @@ The Catalyst is a decision, and it is the first Catalyst in the ladder that is. 
 **Tier 5 · Expert · Grade A with late push toward S · Ceiling 475 · Levels 176 to 200**
 **Catalyst** · first Domain seed activation, however fragile or small. Projected fields become coherent.
 ***From inside*** · The soul sees itself from outside.
-The Crystal that has been the unconscious medium of everything you have ever done becomes an object you can look at, and looking at it changes it, and knowing that it changes it changes it again. Gnosis undergoes a qualitative jump here that no other Stage produces, and practitioners in Refraction are notoriously difficult to be around because they have just been handed the ability to examine their own architecture and have not yet learned to stop.
+The Crystal that has been the unconscious medium of everything you have ever done becomes an object you can look at, and looking at it changes it, and knowing that it changes it changes it again. Gnosis (the stat of perception and understanding) undergoes a qualitative jump here that no other Stage produces, and practitioners in Refraction are notoriously difficult to be around because they have just been handed the ability to examine their own architecture and have not yet learned to stop.
 The trouble is that self-examination at this depth reveals the fracture record. Everything Splintering promoted to a load path is now visible, labelled, and impossible to un-see.
 ***From outside*** · A Domain seed. Small, fragile, often lasting seconds, and the first genuinely uncanny thing most people will ever witness, because a Domain seed is a piece of the world briefly agreeing to different terms. Bystanders describe it wrongly and consistently, and the consistency of the wrongness is the best evidence Archives has that they are describing something real.
-> **The wall at two hundred.** Band II ends at Level 200 and the Threshold that opens Band III is Refraction. A practitioner who cannot produce a Domain seed does not slow down. The counter halts and the pressure keeps arriving, accruing as **Residual Strain**, degrading gain and raising Overchannel and Backlash risk continuously, and it does not stop building.
+> **The wall at two hundred.** Band II ends at Level 200 and the Threshold that opens Band III is Refraction. A practitioner who cannot produce a Domain seed does not slow down. The counter halts and the pressure keeps arriving, accruing as **Residual Strain**, degrading gain and raising Overchannel (drawing more than the Crystal can carry) and Backlash (a working's force turning on its maker) risk continuously, and it does not stop building.
 >
 > This is where most working careers end. Not in failure and not in death, but stalled in the high hundred-and-nineties, strong, competent, slowly becoming more dangerous to themselves than to anything they are pointed at, and dying of something else first. **Every veteran corps in the four quarters is largely composed of these people,** and their bitterness is a structural feature of the Accord's officer class rather than a matter of temperament.
 ***What the folk call it*** · **The double sight.** Twice-eyed. In the eastern quarter, a Refracted practitioner is said to have **swallowed their own reflection**, which is a considerably better description than the Codex manages in the same number of words.
@@ -172,11 +172,11 @@ Every technique before this was the practitioner's Crystal doing something. From
 ### X — Realization
 
 **Tier 6 · Master · Grade SS · Ceiling 725 · Levels 276 to 300**
-**Catalyst** · truth as lived consequence. The world answers back. Pacts, artifacts and law imprint on terrain. The Domain becomes a reality the Continuum must accommodate.
+**Catalyst** · truth as lived consequence. The world answers back. Pacts, artifacts and law imprint on terrain. The Domain becomes a reality the Continuum (the lawful fabric of reality that workings write into) must accommodate.
 ***From inside*** · The practitioner stops being the party that has to be accommodated.
 At Realization the Continuum adjusts. Not much. Locally, and grudgingly, and within limits that are extremely specific, but the direction of the accommodation has reversed and it never reverses back. What the practitioner is now costs the world something to permit, and the world permits it.
 The lived experience of this is reported as a species of loneliness that has no good analogue lower on the ladder, and practitioners who describe it well tend to describe it in terms of weather. You are no longer standing in it. You are part of what other people are standing in.
-***From outside*** · Terrain changes. Pacts hold in the ground. Artifacts made at Realization do not need maintaining. Regions where a Stage X practitioner spent a long time keep a set that outlasts them by generations, and half the sites the Measurewrights cannot attribute in the Bearing and the Holding are almost certainly this and cannot be proven to be.
+***From outside*** · Terrain changes. Pacts hold in the ground. Artifacts made at Realization do not need maintaining. Regions where a Stage X practitioner spent a long time keep a set that outlasts them by generations, and half the sites the Measurewrights (trained assayers who measure power and sites) cannot attribute in the Bearing and the Holding are almost certainly this and cannot be proven to be.
 ***What the folk call it*** · **The place remembers him.** Every quarter has a version and the versions are the same version. This is the point at which a practitioner stops generating stories about themselves and starts generating stories about a location, which is how you can tell, from the shape of a local legend, roughly what Stage the person at the bottom of it reached.
 
 ---

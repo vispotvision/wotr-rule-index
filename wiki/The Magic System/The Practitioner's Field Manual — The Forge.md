@@ -4,13 +4,13 @@ notion_id: "3bc58200-eb22-81d7-89a2-e9d5fc5cb4f4"
 notion_url: "https://app.notion.com/p/The-Practitioner-s-Field-Manual-The-Forge-3bc58200eb2281d789a2e9d5fc5cb4f4"
 section: "The Magic System"
 tags: ["Magic System", "Reference Table"]
-last_edited: "2026-09-23T22:27:00.000Z"
+last_edited: "2026-10-15T16:40:00.000Z"
 verification: "unverified"
 ---
 
 # The Practitioner's Field Manual — The Forge
 
-*Being a working register of the Eight Families, and the Forge by which Abilities and Techniques are built at speed*
+*Being a working register of the Eight Families (the eight houses of magic, sorted by physics), and the Forge by which Abilities and Techniques are built at speed*
 > **Craft Companion, the Seventh Guide**
 > ***Governs how magic is written. Does not govern what magic is.***
 > *"The question was never how much power he has. It was what he is permitted to do with it, and what it takes out of him when he does."*
@@ -19,11 +19,11 @@ verification: "unverified"
 
 ## The Two Layers
 
-**Nothing in the Continuum became more complicated.** *A second layer accumulated on top of the first, the two were carried as one thing — and the second layer is accounting.*
+**Nothing in the Continuum (the lawful fabric of reality) became more complicated.** *A second layer accumulated on top of the first, the two were carried as one thing — and the second layer is accounting.*
 | Layer | What it is |
 |---|---|
 | **The Generative Layer** | Family → Affinity → Method → Ability → Technique. **The entire engine of magic.** It answers **what a working does, how it does it, and what it costs.** *Every scene is written from here* |
-| **The Accounting Layer** | Level, Band, Stage, Grade, Tier of Standing, Aether Class, EU, η. **This settles what a practitioner can actually do and who wins.** It answers **how much.** ***Load it before writing, never abandon it while writing, and put it on the page only through a mouth, an instrument, a document or a private count*** |
+| **The Accounting Layer** | Level, Band, Stage, Grade, Tier of Standing, Aether Class (how much power survives the trip out through the Shell), EU (Essence Units, the measure of a reserve), η (efficiency, the share of spent power that does its work). **This settles what a practitioner can actually do and who wins.** It answers **how much.** ***Load it before writing, never abandon it while writing, and put its numbers on the page only through a mouth, an instrument, a document or a private count; its names may stand in any sentence*** |
 
 > **Both layers stay open. The generative layer decides what happens; the accounting layer decides whether it could have.**
 > *Every outcome should trace to a specific row, and the author notes should say which. What the reader receives is behaviour and physics. What the numbers do is make sure the behaviour was earned.*
@@ -32,7 +32,7 @@ verification: "unverified"
 
 ## The Rule for Invention Under Fire
 
-> **Abilities** are character architecture — a root phenomenon the Crystal has internalised over years. *Cozbi is Antithesis. Kroathar is Binding. Temür is Ruin.*
+> **Abilities** are character architecture — a root phenomenon the Crystal (the Soul Crystal, the organ that works magic) has internalised over years. *Cozbi is Antithesis. Krothar is Binding. Temür is Ruin.*
 >
 > **These are never invented inside a scene.** *If a fight appears to require a new Ability, the fight is wrong — or the scene stops and the Ability is pitched properly.*
 >
@@ -53,7 +53,7 @@ verification: "unverified"
 | **4 · Limitation** | State what it structurally **cannot** do **before** stating what it does. *A power invented before its constraint is a power looking for a constraint to justify it, and it reads bolted-on every time* |
 | **5 · Cost** | From the Wheel, deliberately, checked against the character's existing category. **A cast where everything costs blood is a cast with one idea** |
 | **6 · Counterplay** | One sentence, **and it must be an answer a competent opponent could actually find.** *If none exists, the technique is not finished* |
-| **7 · Stamp** | Glyph pair, primary Wellspring, Family, Physics Domain. **Thirty seconds. Never left unlinked** |
+| **7 · Stamp** | Glyph pair, primary Wellspring (the natural source of magic it draws on), Family, Physics Domain (the branch of real physics it obeys). **Thirty seconds. Never left unlinked** |
 
 ### The three-line version
 
@@ -73,7 +73,7 @@ verification: "unverified"
 
 *Ratified. It generalises across all eight Families as one rule and resolves the recurring problem of every escalation reading as simply larger.*
 > **Every working has a delivery rate. Rate decides whether the effect pushes or shatters. Magnitude does not.**
-**The same Essence, the same Wellspring, the same practitioner, delivered slow or delivered instantaneously, produce two entirely different injuries.** *This is the correct way to escalate a character without inflating a number — and it is available at every Stage from Murmuring upward.*
+**The same Essence (the soul's own stuff of power), the same Wellspring, the same practitioner, delivered slow or delivered instantaneously, produce two entirely different injuries.** *This is the correct way to escalate a character without inflating a number — and it is available at every Stage from Murmuring upward.*
 | Family | The law | What the difference is |
 |---|---|---|
 | **Caloria** | Deflagration ↔ detonation | Subsonic **pushes, throws men, takes hair and eyebrows and leaves survivors.** Break the sound barrier and it stops being fire and becomes a pressure wave — *and pressure waves do not burn people, they delaminate them, lungs first. Same fuel. Same Essence. Entirely different corpse* |

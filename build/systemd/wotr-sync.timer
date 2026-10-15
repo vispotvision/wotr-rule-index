@@ -6,10 +6,10 @@
 #   systemctl --user disable --now wotr-sync.timer   # stop the hourly run
 
 [Unit]
-Description=WOTR wiki sync, hourly
+Description=WOTR wiki autosave, every 15 minutes
 
 [Timer]
-OnCalendar=hourly
+OnCalendar=*:0/15
 
 [Install]
 WantedBy=timers.target

@@ -362,3 +362,210 @@ article > .wotr-plate + blockquote + p::first-letter {
 .center:has(.wotr-curated) .page-listing { display: none; }
 
 a.wotr-diagram-link { border-bottom: none !important; }
+
+// ---------------------------------------------------------------- charts (build/site_charts.py)
+.wotr-chart-wrap {
+  margin: 1.8rem 0 2.2rem;
+  overflow-x: auto;
+  border-radius: 16px;
+  box-shadow: 0 18px 46px rgba(0, 0, 0, 0.45);
+}
+
+.wotr-chart {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
+@media (max-width: 700px) {
+  .wotr-chart { min-width: var(--mw); }
+}
+
+// the road: a gilt spine of numbered medallions, cards alternating either side
+ol.wotr-road {
+  --spine: 50%;
+  list-style: none;
+  position: relative;
+  margin: 2rem 0 2.4rem;
+  padding: 1.6rem 0;
+  counter-reset: none;
+}
+
+ol.wotr-road::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: var(--spine);
+  width: 3px;
+  transform: translateX(-50%);
+  border-radius: 3px;
+  background: linear-gradient(180deg, transparent, #d8ab4f 6%, #b07a24 50%, #d8ab4f 94%, transparent);
+  box-shadow: 0 0 14px rgba(216, 171, 79, 0.45);
+}
+
+ol.wotr-road > li {
+  position: relative;
+  width: 50%;
+  box-sizing: border-box;
+  padding: 0 3.2rem 0 0;
+  margin: 0 0 1.1rem;
+  min-height: 3.4rem;
+}
+
+ol.wotr-road > li:nth-child(even) {
+  margin-left: 50%;
+  padding: 0 0 0 3.2rem;
+}
+
+ol.wotr-road > li:nth-child(n + 2) {
+  margin-top: -1.2rem;
+}
+
+.wotr-road .rn {
+  position: absolute;
+  top: 0.55rem;
+  right: -1.45rem;
+  width: 2.9rem;
+  height: 2.9rem;
+  border-radius: 50%;
+  display: grid;
+  place-items: center;
+  z-index: 1;
+  font-family: var(--headerFont);
+  font-weight: 700;
+  font-size: 1.3rem;
+  line-height: 1;
+  color: #1a120a;
+  background: radial-gradient(circle at 35% 30%, #fff3cf, #e2b558 45%, #8f5f18 100%);
+  box-shadow: 0 0 0 3px #110d09, 0 0 0 4px rgba(216, 171, 79, 0.65), 0 0 20px rgba(216, 171, 79, 0.5);
+}
+
+ol.wotr-road > li:nth-child(even) .rn {
+  right: auto;
+  left: -1.45rem;
+}
+
+.wotr-road .rc {
+  display: block;
+  padding: 0.85rem 1.15rem 0.95rem;
+  border-radius: 12px;
+  border: 1px solid rgba(216, 171, 79, 0.42);
+  background:
+    linear-gradient(160deg, rgba(216, 171, 79, 0.12), transparent 65%),
+    linear-gradient(180deg, #241a10, #140f0a);
+  box-shadow: 0 10px 26px rgba(0, 0, 0, 0.4), inset 0 0 0 4px rgba(17, 13, 9, 0.6), inset 0 0 0 5px rgba(216, 171, 79, 0.12);
+  text-align: right;
+  position: relative;
+}
+
+ol.wotr-road > li:nth-child(even) .rc {
+  text-align: left;
+}
+
+// a gilt leader from the card to the spine
+.wotr-road .rc::after {
+  content: "";
+  position: absolute;
+  top: 1.95rem;
+  right: -1.75rem;
+  width: 1.75rem;
+  height: 2px;
+  background: linear-gradient(90deg, rgba(216, 171, 79, 0.2), #d8ab4f);
+}
+
+ol.wotr-road > li:nth-child(even) .rc::after {
+  right: auto;
+  left: -1.75rem;
+  background: linear-gradient(270deg, rgba(216, 171, 79, 0.2), #d8ab4f);
+}
+
+.wotr-road .rt {
+  display: block;
+  font-family: var(--headerFont);
+  font-weight: 600;
+  font-size: 1.22rem;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  color: #e9c46a;
+  line-height: 1.2;
+}
+
+.wotr-road .rs,
+.wotr-road .rd {
+  display: block;
+  margin-top: 0.25rem;
+  font-style: italic;
+  color: #e8dcc2;
+  font-size: 1rem;
+  line-height: 1.4;
+}
+
+.wotr-road .rd {
+  color: #b9a583;
+  font-style: normal;
+  font-variant: small-caps;
+  letter-spacing: 0.08em;
+}
+
+.wotr-road .evs {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.35rem;
+  margin-top: 0.55rem;
+}
+
+ol.wotr-road > li:nth-child(odd) .evs { justify-content: flex-end; }
+
+.wotr-road .ev {
+  font-size: 0.9rem;
+  padding: 0.12rem 0.6rem;
+  border-radius: 999px;
+  border: 1px solid rgba(216, 171, 79, 0.35);
+  background: rgba(216, 171, 79, 0.08);
+  color: #efe2c4;
+}
+
+.wotr-era .et {
+  text-align: center;
+  font-family: var(--headerFont);
+  font-size: 1.5rem;
+  letter-spacing: 0.18em;
+  text-transform: uppercase;
+  color: var(--wotr-gold);
+  margin-top: 1.5rem;
+}
+
+@media (max-width: 700px) {
+  ol.wotr-road { --spine: 1.45rem; }
+  ol.wotr-road > li,
+  ol.wotr-road > li:nth-child(even) {
+    width: auto;
+    margin-left: 0;
+    margin-top: 0;
+    padding: 0 0 0 3.6rem;
+  }
+  .wotr-road .rn,
+  ol.wotr-road > li:nth-child(even) .rn { left: 0; right: auto; }
+  .wotr-road .rc,
+  ol.wotr-road > li:nth-child(even) .rc { text-align: left; }
+  .wotr-road .rc::after,
+  ol.wotr-road > li:nth-child(even) .rc::after { left: -0.9rem; right: auto; width: 0.9rem; }
+  ol.wotr-road > li:nth-child(odd) .evs { justify-content: flex-start; }
+}
+
+.wotr-road .rv {
+  display: block;
+  margin-bottom: 0.35rem;
+  padding-bottom: 0.35rem;
+  border-bottom: 1px dashed rgba(216, 171, 79, 0.3);
+  font-size: 0.88rem;
+  font-style: italic;
+  color: #b9a583;
+}
+
+.wotr-road .rv::before {
+  content: "\2767  ";
+  font-style: normal;
+  color: #d8ab4f;
+}

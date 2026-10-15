@@ -11,6 +11,7 @@ from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 from site_art import banner, plate
+from site_charts import render as chart
 
 WIKI = Path(__file__).resolve().parent.parent / "wiki"
 
@@ -34,6 +35,7 @@ def dress(rel: str, text: str) -> str:
     body = re.sub(r"\A\s*# [^\n]*\n", "\n", body, count=1)
     body = re.sub(r"!\[\[Assets/Diagrams/([\w-]+)\.svg\]\]",  # Quartz's own svg embed takes a page-relative path
                   lambda m: f'<a class="wotr-diagram-link" href="/assets/diagrams/{m.group(1)}.svg" target="_blank"><img class="wotr-diagram" src="/assets/diagrams/{m.group(1)}.svg" alt="{m.group(1).replace("-", " ")}" loading="lazy"></a>', body)
+    body = re.sub(r"(?ms)^```mermaid\n(.*?)^```[ \t]*$", lambda m: "\n" + (chart(m.group(1), rel) or m.group(0)) + "\n", body)
     body = re.sub(r"(?m)((?:^- \[\[[^\n]*\n?){2,})", cards, body)
     hub = "/" in rel and rel.split("/")[-2] == stem
     if hub and "wotr-entries" in body:  # the page lists its own contents; Quartz's folder list would repeat it

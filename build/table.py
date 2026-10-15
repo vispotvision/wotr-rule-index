@@ -293,7 +293,7 @@ def due(sessions_old: int = 2, thread: str | None = None, today: str | None = No
                     why = f"no date or trigger yet, a stated condition to judge: {d}"
                 elif age >= int(d):
                     why = f"no date or trigger yet, {age} session(s) old"
-            elif age >= sessions_old and r["category"] in ("debts", "who knows what", "injuries and reserve", "reputation"):
+            elif age >= sessions_old and r["category"] in ("debts", "who knows what", "injuries and reserve", "reputation", "renown"):
                 why = f"no date or trigger yet, {age} session(s) old"
         if why:
             out.append((rank, age, why, r))

@@ -963,7 +963,7 @@ def scene_brief(beat: str, thread: str = "", scene_type: str = "standard", cultu
         "2. This POV knows: ____ | wrongly believes: ____ | the reader knows that they do not: ____  (R5-C1-INFO_TRACKED_PER_POV)",
         "3. Ignorance quota, one thing the POV notices and cannot interpret, unresolved this scene: ____  (R6-3-IGNORANCE_QUOTA)",
         "4. Misreading, one confident inference that is wrong and stays wrong, well-reasoned: ____  (R6-4-MISREADING_BUDGET, R5-C1-WELL_REASONED_WRONG_CONCLUSION)",
-        "5. What it costs, specific and visible (reserve, body, debt, reputation, who saw): ____  (Table Rule 5; R12-1-PACK_SEVEN_SURVIVORS)",
+        "5. What it costs, specific and visible (reserve, body, debt, renown, who saw): ____  (Table Rule 5; R12-1-PACK_SEVEN_SURVIVORS)",
         "6. The lie: one thing an NPC says that is wrong and stays uncorrected (once per session): ____  (Table Rule 8)",
         f"7. Standing Inventory, two minimum ({culture}): ____ and ____   (R6-9-RECURRENCE_RULE)" + (f"  — pick from: {recurrence}" if recurrence else ""),
         "8. Ends on: ____  (physical action, an NPC line, or a thing he can now see; never a question at Isaac. Table Rule 1)",
@@ -1151,11 +1151,11 @@ FOW_XLSX = CANON / "FOW_Stat_and_Magic_System_Codex.xlsx"
 WIKI_MANIFEST = WIKI / ".manifest.json"
 SHEET_SECTIONS = [
     ("I · Identity", "name, house/line and register (Moto canon; five strata), age, origin, affiliation, status, Level / Stage / Band on one line, and the Catalyst Event — everything downstream is its consequence"),
-    ("II · Soul Architecture", "Soul Crystal (Essence Core, Aether Shell, Attraction Layer), Crystal State, Aether Class, Essence Typology, Coherence Band and η"),
+    ("II · Soul Architecture", "Soul Crystal (Essence Core, Aether Shell, Attraction Layer), Crystal State, Aether Class (which sets η, R78-10), Essence Typology; aura colour and signature sound; school, sect rank and renown (R78-10)"),
     ("III · Work Architecture", "Wellspring harmonisations: which of the Sixty answer, Family and Physics Domain from the Master Codex, the Craft (Magicraft / Spellcraft / Runecraft / Draftcraft) and Category of each working"),
     ("IV–V · Stats", "the Eight Primaries with Grade and Sub-Stat peaks: Gnosis, Tempering, Ardency, Resilience, Dexterity, Vitality, Dominion, Harmonics. Grades come off the Tier Grade table; the Stage sets the ceiling"),
     ("VI–VII · Force and Flow", "Strike Force band, Attack Speed, Reaction, Travel, Aura Pressure Field radius, Domain Pressure, EU Reserve, Flux Density, AU/s, η — the part a Measurewright could confirm"),
-    ("VIII–IX · Traits and Domain", "each Trait names the Lattice property it alters (R17-5-TRAIT_SCOPE); Domain state by Stage (seed at VII)"),
+    ("VIII–IX · Traits and Domain", "each Trait names the Lattice property it alters (R17-5-TRAIT_SCOPE); Domain state by Stage (seed at VII), opened and powered by the Second Release; release forms with folk name, bonded weapon, stack line (R78-10)"),
     ("X · Techniques", "summary card (Effect, Cost, Limit, Counter, What nobody knows) + full Design Chain + Codex line + FOW line per technique; Counter mandatory (R12-3-COUNTER_MANDATORY); every technique statable as 'it does X to Y, which under Z produces W' (R17-2-THE_TEST)"),
     ("XI · Spirit Axes", "who they are bonded to; sited here because the people someone loves are load-bearing"),
     ("XII · Resistances", "what they can take: per-Wellspring / per-Family resistances, Resilience against hostile workings"),
@@ -1491,7 +1491,7 @@ def due(sessions_old: int = 2, thread: str = "", today: str = "") -> str:
 def ledger_add(category: str, who: str, text: str, due_after_sessions: int | None = None, due_condition: str = "",
                thread: str = "", due_date: str = "", due_trigger: str = "", ticks: int | None = None, level: str = "") -> str:
     """Enter a Ledger line with its thread and a due_date (story date, Y-M-D) or a named due_trigger (R72-22); due_condition is the old name for a trigger.
-    Categories: the dead, injuries and reserve, debts, who knows what, reputation, canon conflicts, bonds, heat (one per thread, level in words), projects (ticks 4 to 8), roads (ticks 4 to 6)."""
+    Categories: the dead, injuries and reserve, debts, who knows what, renown (per audience: public, army, sects, guilds; 'reputation' still accepted), canon conflicts, bonds, heat (one per thread, level in words), projects (ticks 4 to 8), roads (ticks 4 to 6)."""
     trig = due_trigger or due_condition
     try:
         r = T.ledger_add(category, who, text, due_after_sessions, thread, due_date, trig, ticks, level)

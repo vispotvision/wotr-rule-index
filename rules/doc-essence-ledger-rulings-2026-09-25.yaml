@@ -81,7 +81,7 @@ rules:
   pack_number: null
   section: C-036
   title: The S/SS energy gap is deliberate and is ranked by the Sub-Stat column
-  status: live
+  status: superseded
   kind: procedure
   summary: The Part Four Grade table stands as written; an attack output between 24.3
     and 41.8 TJ is ranked by the Sub-Stat column rather than by joules.
@@ -101,11 +101,12 @@ rules:
   source:
     file: ''
     lines: null
-  notes: Closes CONFLICTS.md C-036. Because no cell changes, the three tables that
-    carry the same break — FoW II:35-36, FoW III:41-42 and Tier Grade, Bands & the
-    Aether Shell :60-61 — all stand as written and the question of which of them a
-    correction would have had to name does not arise. C-038, the same shape in the
-    travel-speed column, is not named by this ruling and stays open.
+  notes: 'Closes CONFLICTS.md C-036. Because no cell changes, the three tables that carry the same break
+    — FoW II:35-36, FoW III:41-42 and Tier Grade, Bands & the Aether Shell :60-61 — all stand as written
+    and the question of which of them a correction would have had to name does not arise. C-038, the same
+    shape in the travel-speed column, is not named by this ruling and stays open. Superseded 2026-10-15
+    by R78-10-SYSTEMS_CONNECT: canon''s Grade-band gaps are closed with their claims kept; SS''s floor drops
+    to 5.8 kilotons (2.42672e13 J), so the S/SS gap and its carve-out are gone.'
 - id: R44-4-ETA_PART_SEVENTEEN_GOVERNS
   pack: Essence Ledger Rulings 2026-09-25
   pack_number: null

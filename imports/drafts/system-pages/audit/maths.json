@@ -1,0 +1,640 @@
+[
+ {
+  "page": "The Magic System/Tier Grade, Bands & the Aether Shell.md",
+  "kind": "copy",
+  "old_str": "below 12.4 m/s · below 44.7 km/h",
+  "new_str": "below 12.4 m/s · below 44.6 km/h",
+  "why": "12.4 m/s x 3.6 = 44.64 km/h, not 44.7"
+ },
+ {
+  "page": "The Magic System/Tier Grade, Bands & the Aether Shell.md",
+  "kind": "copy",
+  "old_str": "12.4 – 60 m/s · 44.7 – 216 km/h",
+  "new_str": "12.4 – 60 m/s · 44.6 – 216 km/h",
+  "why": "12.4 m/s x 3.6 = 44.64 km/h; 60 x 3.6 = 216 is right"
+ },
+ {
+  "page": "The Magic System/Tier Grade, Bands & the Aether Shell.md",
+  "kind": "copy",
+  "old_str": "150 – 340 m/s · 540 – 1,224 km/h",
+  "new_str": "150 – 343 m/s · 540 – 1,235 km/h",
+  "why": "the table's Mach is 343 m/s (1,372 = 4 x 343, 1,715 = 5 x 343) and C claims Mach 1.0 at its floor, so D ends at 343 m/s; 343 x 3.6 = 1,234.8 km/h"
+ },
+ {
+  "page": "The Magic System/Tier Grade, Bands & the Aether Shell.md",
+  "kind": "copy",
+  "old_str": "340 – 500 m/s · Mach 1.0 – 1.5",
+  "new_str": "343 – 514.5 m/s · Mach 1.0 – 1.5",
+  "why": "claim Mach 1.0 to 1.5 kept: 1.0 x 343 = 343 m/s, 1.5 x 343 = 514.5 m/s (500 m/s is Mach 1.46); also closes the 500 to 510 m/s gap to B"
+ },
+ {
+  "page": "The Magic System/Tier Grade, Bands & the Aether Shell.md",
+  "kind": "copy",
+  "old_str": "510 – 1,372 m/s · Mach 1.5 – 4",
+  "new_str": "514.5 – 1,715 m/s · Mach 1.5 – 5",
+  "why": "floor: Mach 1.5 = 514.5 m/s (510 is Mach 1.49). B/A gap closed: B ended Mach 4 (1,372 m/s), A begins Mach 5 (1,715 m/s); B's ceiling moved up to 1,715 because A's Mach 5 floor is quoted by Sodoku's card and four technique pages, B's 1,372 by two"
+ },
+ {
+  "page": "The Magic System/Tier Grade, Bands & the Aether Shell.md",
+  "kind": "copy",
+  "old_str": "4.184 × 10^13 – 4.184 × 10^14 J. Town to Large Town, 10 – 100 kilotons TNT",
+  "new_str": "2.42672 × 10^13 – 4.184 × 10^14 J. Town to Large Town, 5.8 – 100 kilotons TNT",
+  "why": "S/SS gap closed by lowering SS's floor to S's ceiling: S ends 2.42672e13 J (5.8 kt) and SS began 4.184e13 J (10 kt), so 24.3 to 41.8 TJ had no Grade; 5.8 kt is where 'Town' begins, so SS's 'Town to Large Town' stays true and S is untouched; fewer pages quote the SS floor than the S ceiling; 2.42672e13 / 4.184e9 = 5,800 t"
+ },
+ {
+  "page": "The Magic System/Tier Grade, Bands & the Aether Shell.md",
+  "kind": "copy",
+  "old_str": "68,600 – 343,000 m/s · Mach 200 – 1,000",
+  "new_str": "68,600 – 2,997,925 m/s · Mach 200 – 8,740",
+  "why": "SS/SSS gap closed: SS ended 343,000 m/s (0.11% c), SSS begins 1% c = 2,997,925 m/s; SS's ceiling raised to 1% c (quoted nowhere else) so SSS keeps 'Sub-Relativistic, 1% to 10% c'; 2,997,925 / 343 = Mach 8,740"
+ },
+ {
+  "page": "The Magic System/Tier Grade, Bands & the Aether Shell.md",
+  "kind": "copy",
+  "old_str": "29.6 exatons – 16.512 ronnatons TNT",
+  "new_str": "29.6 exatons – 16.506 ronnatons TNT",
+  "why": "6.906e37 J / 4.184e9 J/t = 1.6506e28 t = 16.506 ronnatons; 16.512 would be 6.9086e37 J. The joule figure is quoted on four pages, so the TNT figure moves"
+ },
+ {
+  "page": "The Magic System/Tier Grade, Bands & the Aether Shell.md",
+  "kind": "copy",
+  "old_str": "A swordsman at B-Grade delivering 2 GN of force through a blade edge contacting roughly one square centimetre produces a local pressure of **200 GPa**",
+  "new_str": "A swordsman at F-Grade delivering 0.2 MN of force through a blade edge contacting roughly one square millimetre produces a local pressure of **200 GPa**",
+  "why": "2 GN / 1 cm2 = 2e9 / 1e-4 m2 = 2e13 Pa = 20 TPa, not 200 GPa. Reworked so both stated pressures hold: 0.2 MN / 1 mm2 = 2e5 / 1e-6 = 2e11 Pa = 200 GPa; 0.2 MN is F's Peak Force floor (Part Eleven)"
+ },
+ {
+  "page": "The Magic System/Tier Grade, Bands & the Aether Shell.md",
+  "kind": "copy",
+  "old_str": "The same 2 GN delivered through a fist contacting one hundred square centimetres produces **20 MPa**",
+  "new_str": "The same 0.2 MN delivered through a fist contacting one hundred square centimetres produces **20 MPa**",
+  "why": "2 GN / 100 cm2 = 2e9 / 1e-2 = 2e11 Pa = 200 GPa, which would bisect any steel; 0.2 MN / 1e-2 m2 = 2e7 Pa = 20 MPa, enough to crack stone and concrete (20 to 40 MPa) and far under steel's yield (250 MPa and up): the claim survives"
+ },
+ {
+  "page": "The Magic System/Tier Grade, Bands & the Aether Shell.md",
+  "kind": "copy",
+  "old_str": "This is why a B-Grade swordsman can cut through materials",
+  "new_str": "The ratio is ten thousand to one at any force, which is why a B-Grade swordsman can cut through materials",
+  "why": "edge 1 mm2 vs fist 100 cm2 is a 1e-6 : 1e-2 area ratio, so the pressure ratio is 10,000 at every Grade; this keeps the B-Grade conclusion true now the worked figures are F-Grade"
+ },
+ {
+  "page": "The Magic System/Tier Grade, Bands & the Aether Shell.md",
+  "kind": "copy",
+  "old_str": "Mach 2.0 – 5.0. Can engage firearms",
+  "new_str": "Mach 2.0 – 10. Can engage firearms",
+  "why": "attack-speed gap: B ended Mach 5, A begins Mach 10; B's ceiling raised (quoted on one card, Yoko) rather than A's floor (quoted on Sodoku's card and two technique pages)"
+ },
+ {
+  "page": "The Magic System/Tier Grade, Bands & the Aether Shell.md",
+  "kind": "copy",
+  "old_str": "Mach 50 – 500. The air itself",
+  "new_str": "Mach 30 – 500. The air itself",
+  "why": "attack-speed gap: A ends Mach 30, S began Mach 50; S's floor lowered (quoted by Kwon's card and one technique) rather than A's ceiling (Sodoku's card and two techniques)"
+ },
+ {
+  "page": "The Magic System/Tier Grade, Bands & the Aether Shell.md",
+  "kind": "copy",
+  "old_str": "Mach 1,000 – 8,810. Passage",
+  "new_str": "Mach 500 – 8,740. Passage",
+  "why": "gap: S ends Mach 500, SS began Mach 1,000; SS floor lowered (quoted nowhere else). Ceiling: 8,810 is 1% c at 340.29 m/s; at the table's 343 m/s, 2,997,925 / 343 = Mach 8,740, where SSS begins"
+ },
+ {
+  "page": "The Magic System/Tier Grade, Bands & the Aether Shell.md",
+  "kind": "copy",
+  "old_str": "1% – 5% c. Dodging",
+  "new_str": "1% – 10% c. Dodging",
+  "why": "attack-speed gap: SSS ended 5% c, X begins 10% c; SSS raised to 10% c, matching its own travel band of 1% to 10% c"
+ },
+ {
+  "page": "Fracture of Worlds — The Living System/II. Grades, Gates and Thresholds (Parts Four–Ten).md",
+  "kind": "copy",
+  "old_str": "4.184×10^13 – 4.184×10^14 J",
+  "new_str": "2.42672×10^13 – 4.184×10^14 J",
+  "why": "S/SS gap closed by lowering SS's floor to S's ceiling: S ends 2.42672e13 J (5.8 kt) and SS began 4.184e13 J (10 kt), so 24.3 to 41.8 TJ had no Grade; 5.8 kt is where 'Town' begins, so SS's 'Town to Large Town' stays true and S is untouched; fewer pages quote the SS floor than the S ceiling"
+ },
+ {
+  "page": "Fracture of Worlds — The Living System/II. Grades, Gates and Thresholds (Parts Four–Ten).md",
+  "kind": "copy",
+  "old_str": "Mach 200–1,000",
+  "new_str": "Mach 200–8,740",
+  "why": "SS travel ceiling raised to 1% c = 2,997,925 m/s = Mach 8,740 at 343 m/s, closing the gap to SSS's 1% c floor (was Mach 1,000 = 343,000 m/s)"
+ },
+ {
+  "page": "Fracture of Worlds — The Living System/II. Grades, Gates and Thresholds (Parts Four–Ten).md",
+  "kind": "copy",
+  "old_str": "Mach 1.5–4",
+  "new_str": "Mach 1.5–5",
+  "why": "B/A travel gap: B ended Mach 4 (1,372 m/s), A begins Mach 5 (1,715 m/s); B's ceiling raised, A's Mach 5 floor kept (quoted on Sodoku's card and four technique pages)"
+ },
+ {
+  "page": "Fracture of Worlds — The Living System/II. Grades, Gates and Thresholds (Parts Four–Ten).md",
+  "kind": "copy",
+  "old_str": "Town to Large Town, 10 to 100 kilotons TNT",
+  "new_str": "Town to Large Town, 5.8 to 100 kilotons TNT",
+  "why": "S/SS gap closed by lowering SS's floor to S's ceiling: S ends 2.42672e13 J (5.8 kt) and SS began 4.184e13 J (10 kt), so 24.3 to 41.8 TJ had no Grade; 5.8 kt is where 'Town' begins, so SS's 'Town to Large Town' stays true and S is untouched; fewer pages quote the SS floor than the S ceiling"
+ },
+ {
+  "page": "Fracture of Worlds — The Living System/II. Grades, Gates and Thresholds (Parts Four–Ten).md",
+  "kind": "copy",
+  "old_str": "29.6 exatons to 16.512 ronnatons TNT",
+  "new_str": "29.6 exatons to 16.506 ronnatons TNT",
+  "why": "6.906e37 J / 4.184e9 = 1.6506e28 t = 16.506 ronnatons"
+ },
+ {
+  "page": "Fracture of Worlds — The Living System/II. Grades, Gates and Thresholds (Parts Four–Ten).md",
+  "kind": "copy",
+  "old_str": "B, allocation stops at 275; instability above 320",
+  "new_str": "B, allocation stops at 275; instability from 276",
+  "why": "the paragraph above and this row's own ceiling cell put Stage V's instability zone at 276 to 350; 'above 320' left 276 to 320 both inside and outside the zone"
+ },
+ {
+  "page": "Fracture of Worlds — The Living System/II. Grades, Gates and Thresholds (Parts Four–Ten).md",
+  "kind": "copy",
+  "old_str": "340–500 m/s",
+  "new_str": "343–514.5 m/s",
+  "why": "Mach 1.0 to 1.5 at 343 m/s = 343 to 514.5 m/s (the Grade table's claim); 500 m/s is Mach 1.46 and left 500 to 510 m/s ungraded"
+ },
+ {
+  "page": "Fracture of Worlds — The Living System/II. Grades, Gates and Thresholds (Parts Four–Ten).md",
+  "kind": "copy",
+  "old_str": "510–1,372 m/s",
+  "new_str": "514.5–1,715 m/s",
+  "why": "floor Mach 1.5 = 514.5 m/s; B/A gap closed by raising B's ceiling from Mach 4 (1,372) to A's floor, Mach 5 = 1,715 m/s"
+ },
+ {
+  "page": "Fracture of Worlds — The Living System/II. Grades, Gates and Thresholds (Parts Four–Ten).md",
+  "kind": "copy",
+  "old_str": "68,600–343,000 m/s",
+  "new_str": "68,600–2,997,925 m/s",
+  "why": "SS/SSS gap: SS ended 343,000 m/s, SSS begins 1% c = 2,997,925 m/s (this table's own SSS floor); SS raised to meet it"
+ },
+ {
+  "page": "Fracture of Worlds — The Living System/II. Grades, Gates and Thresholds (Parts Four–Ten).md",
+  "kind": "copy",
+  "old_str": "Mach 2.0–5.0",
+  "new_str": "Mach 2.0–10",
+  "why": "attack-speed gap B (to Mach 5) / A (from Mach 10) closed by raising B's ceiling"
+ },
+ {
+  "page": "Fracture of Worlds — The Living System/II. Grades, Gates and Thresholds (Parts Four–Ten).md",
+  "kind": "copy",
+  "old_str": "Mach 50–500",
+  "new_str": "Mach 30–500",
+  "why": "attack-speed gap A (to Mach 30) / S (from Mach 50) closed by lowering S's floor"
+ },
+ {
+  "page": "Fracture of Worlds — The Living System/II. Grades, Gates and Thresholds (Parts Four–Ten).md",
+  "kind": "copy",
+  "old_str": "Mach 1,000–8,810",
+  "new_str": "Mach 500–8,740",
+  "why": "gap S (to Mach 500) / SS (from 1,000) closed by lowering SS's floor; 1% c / 343 m/s = Mach 8,740 (8,810 used 340.29 m/s)"
+ },
+ {
+  "page": "Fracture of Worlds — The Living System/II. Grades, Gates and Thresholds (Parts Four–Ten).md",
+  "kind": "copy",
+  "old_str": "1–5% c",
+  "new_str": "1–10% c",
+  "why": "attack-speed gap SSS (to 5% c) / X (from 10% c) closed; SSS now matches its travel band 1 to 10% c"
+ },
+ {
+  "page": "Fracture of Worlds — The Living System/II. Grades, Gates and Thresholds (Parts Four–Ten).md",
+  "kind": "copy",
+  "old_str": "150–340 m/s",
+  "new_str": "150–343 m/s",
+  "why": "occurs twice on the page, as identical cells in the Part Four and Part Six tables: replace both. D/C boundary: C claims Mach 1.0 at its floor and the table uses 343 m/s, so D ends at 343 m/s",
+  "occurrences": 2
+ },
+ {
+  "page": "Fracture of Worlds — The Living System/III. Physical Force (Part Eleven).md",
+  "kind": "copy",
+  "old_str": "0.2–0.5 MN",
+  "new_str": "800 N – 2 MN",
+  "why": "Peak Force gaps: Hollow ends 800 N, F began 0.2 MN; E begins 2 MN. F's floor lowered (Hollow's 'athletic human punch' must stay) and ceiling raised to E's floor; 0.2 MN, the Sharp-Blunt example, stays inside F"
+ },
+ {
+  "page": "Fracture of Worlds — The Living System/III. Physical Force (Part Eleven).md",
+  "kind": "copy",
+  "old_str": "2–5 MN",
+  "new_str": "2–20 MN",
+  "why": "gap E (to 5 MN) / D (from 20 MN) closed by raising E's ceiling; a 1,200 kg car at 100 km/h stopped in 2 cm is 1200 x 27.8^2 / 2 / 0.02 = 23 MN, so 'car impact concentrated into a limb' holds"
+ },
+ {
+  "page": "Fracture of Worlds — The Living System/III. Physical Force (Part Eleven).md",
+  "kind": "copy",
+  "old_str": "20–70 MN",
+  "new_str": "20–100 MN",
+  "why": "gap D (to 70 MN) / C (from 0.1 GN = 100 MN) closed by raising D's ceiling"
+ },
+ {
+  "page": "Fracture of Worlds — The Living System/III. Physical Force (Part Eleven).md",
+  "kind": "copy",
+  "old_str": "0.1–0.3 GN",
+  "new_str": "0.1–1 GN",
+  "why": "gap C (to 0.3 GN) / B (from 1 GN) closed by raising C's ceiling; B's 1 GN floor is load-bearing ('at 176 roughly 1 GN', 'five times')"
+ },
+ {
+  "page": "Fracture of Worlds — The Living System/III. Physical Force (Part Eleven).md",
+  "kind": "copy",
+  "old_str": "20–100 GN",
+  "new_str": "5–100 GN",
+  "why": "gap B (to 5 GN) / A (from 20 GN): B's 5 GN ceiling carries the 'five times' claim (5 / 1), so A's floor comes down to 5 GN"
+ },
+ {
+  "page": "Fracture of Worlds — The Living System/III. Physical Force (Part Eleven).md",
+  "kind": "copy",
+  "old_str": "0.5–2 TN",
+  "new_str": "0.1–2 TN",
+  "why": "gap A (to 100 GN = 0.1 TN) / S (from 0.5 TN) closed by lowering S's floor"
+ },
+ {
+  "page": "Fracture of Worlds — The Living System/III. Physical Force (Part Eleven).md",
+  "kind": "copy",
+  "old_str": "10–200 TN",
+  "new_str": "2 TN – 1 PN",
+  "why": "gaps S (to 2 TN) / SS (from 10 TN) and SS (to 200 TN) / SSS (from 1 PN) closed; SS's floor follows its energy floor down, SSS's 1 PN floor is quoted on three technique pages"
+ },
+ {
+  "page": "Fracture of Worlds — The Living System/III. Physical Force (Part Eleven).md",
+  "kind": "copy",
+  "old_str": "50–500 PN",
+  "new_str": "5 PN – 5 EN",
+  "why": "gaps SSS (to 5 PN) / X (from 50 PN) and X (to 500 PN) / EX (from 5 EN) closed; SSS's 1 to 5 PN is quoted elsewhere, X's figures are not"
+ },
+ {
+  "page": "Fracture of Worlds — The Living System/III. Physical Force (Part Eleven).md",
+  "kind": "copy",
+  "old_str": "41.8–418 TJ",
+  "new_str": "24.3–418 TJ",
+  "why": "S/SS gap closed by lowering SS's floor to S's ceiling: S ends 2.42672e13 J (5.8 kt) and SS began 4.184e13 J (10 kt), so 24.3 to 41.8 TJ had no Grade; 5.8 kt is where 'Town' begins, so SS's 'Town to Large Town' stays true and S is untouched; fewer pages quote the SS floor than the S ceiling; 2.42672e13 J = 24.3 TJ"
+ },
+ {
+  "page": "Fracture of Worlds — The Living System/III. Physical Force (Part Eleven).md",
+  "kind": "copy",
+  "old_str": "10–100 kt",
+  "new_str": "5.8–100 kt",
+  "why": "S/SS gap closed by lowering SS's floor to S's ceiling: S ends 2.42672e13 J (5.8 kt) and SS began 4.184e13 J (10 kt), so 24.3 to 41.8 TJ had no Grade; 5.8 kt is where 'Town' begins, so SS's 'Town to Large Town' stays true and S is untouched; fewer pages quote the SS floor than the S ceiling"
+ },
+ {
+  "page": "Fracture of Worlds — The Living System/III. Physical Force (Part Eleven).md",
+  "kind": "copy",
+  "old_str": "A B-Grade swordsman delivering 2 GN through an edge contacting roughly one square centimetre produces local pressure of **200 GPa**",
+  "new_str": "An F-Grade swordsman delivering 0.2 MN through an edge contacting roughly one square millimetre produces local pressure of **200 GPa**",
+  "why": "2 GN / 1e-4 m2 = 20 TPa, not 200 GPa; 0.2 MN / 1e-6 m2 = 2e11 Pa = 200 GPa; 0.2 MN sits in F's Peak Force band"
+ },
+ {
+  "page": "Fracture of Worlds — The Living System/III. Physical Force (Part Eleven).md",
+  "kind": "copy",
+  "old_str": "The same 2 GN through a fist contacting one hundred square centimetres produces **20 MPa**",
+  "new_str": "The same 0.2 MN through a fist contacting one hundred square centimetres produces **20 MPa**",
+  "why": "2 GN / 1e-2 m2 = 200 GPa, which bisects steel and breaks the claim; 0.2 MN / 1e-2 m2 = 20 MPa cracks stone (concrete 20 to 40 MPa), not steel (yield 250 MPa and up)"
+ },
+ {
+  "page": "Fracture of Worlds — The Living System/III. Physical Force (Part Eleven).md",
+  "kind": "copy",
+  "old_str": "This is why a B-Grade swordsman cuts what",
+  "new_str": "The ratio is ten thousand to one at any force, which is why a B-Grade swordsman cuts what",
+  "why": "area ratio 1e-6 : 1e-2 m2 gives a 10,000 x pressure ratio at every force, so the B-Grade conclusion stays true"
+ },
+ {
+  "page": "Fracture of Worlds — The Living System/III. Physical Force (Part Eleven).md",
+  "kind": "copy",
+  "old_str": "100–800 J",
+  "new_str": "below 48 J",
+  "why": "Hollow durability 100 to 800 J exceeded Hollow strike (below 60 J). 0.8 x 60 = 48 J"
+ },
+ {
+  "page": "Fracture of Worlds — The Living System/III. Physical Force (Part Eleven).md",
+  "kind": "copy",
+  "old_str": "0.1–0.3 GJ",
+  "new_str": "42–240 J",
+  "why": "Asymmetry Principle states Durability sits under Strike Force at every Grade, 70 to 80% at F to D, 60 to 70% at A to S, about 50% at SSS and above; the old figure was 1,000,000 x F's 300 J strike ceiling. 0.7 x 60 = 42 J, 0.8 x 300 = 240 J (under a .44 ball's 440 J, as the Shot page requires)"
+ },
+ {
+  "page": "Fracture of Worlds — The Living System/III. Physical Force (Part Eleven).md",
+  "kind": "copy",
+  "old_str": "1–5 GJ",
+  "new_str": "210 J – 12 kJ",
+  "why": "Asymmetry Principle states Durability sits under Strike Force at every Grade, 70 to 80% at F to D, 60 to 70% at A to S, about 50% at SSS and above; the old figure was 333,000 x E's 15 kJ. 0.7 x 300 = 210 J, 0.8 x 15 kJ = 12 kJ (above a 3.5 kJ rifle round and an 80 kg body's 7.8 kJ at 50 km/h: 'survives vehicular impact' holds)"
+ },
+ {
+  "page": "Fracture of Worlds — The Living System/III. Physical Force (Part Eleven).md",
+  "kind": "copy",
+  "old_str": "10–50 GJ",
+  "new_str": "10.5 kJ – 16.7 MJ",
+  "why": "Asymmetry Principle states Durability sits under Strike Force at every Grade, 70 to 80% at F to D, 60 to 70% at A to S, about 50% at SSS and above; the old figure was 2,390 x D's 20.92 MJ. 0.7 x 15 kJ = 10.5 kJ, 0.8 x 20.92 MJ = 16.7 MJ"
+ },
+ {
+  "page": "Fracture of Worlds — The Living System/III. Physical Force (Part Eleven).md",
+  "kind": "copy",
+  "old_str": "0.1–0.3 TJ",
+  "new_str": "13.6 MJ – 0.785 GJ",
+  "why": "Asymmetry Principle states Durability sits under Strike Force at every Grade, 70 to 80% at F to D, 60 to 70% at A to S, about 50% at SSS and above; the old figure was 287 x C's 1.046 GJ. C, unstated, taken between the two stated ranges at 65 to 75%: 0.65 x 20.92 MJ = 13.6 MJ, 0.75 x 1.046 GJ = 0.785 GJ"
+ },
+ {
+  "page": "Fracture of Worlds — The Living System/III. Physical Force (Part Eleven).md",
+  "kind": "copy",
+  "old_str": "0.024–0.072 t",
+  "new_str": "0.003–0.19 t",
+  "why": "13.6 MJ / 4.184e9 = 0.0033 t; 0.785 GJ / 4.184e9 = 0.19 t (old cell did not match its own joules: 0.1 TJ = 23.9 t)"
+ },
+ {
+  "page": "Fracture of Worlds — The Living System/III. Physical Force (Part Eleven).md",
+  "kind": "copy",
+  "old_str": "1–5 TJ",
+  "new_str": "0.680–34.5 GJ",
+  "why": "Asymmetry Principle states Durability sits under Strike Force at every Grade, 70 to 80% at F to D, 60 to 70% at A to S, about 50% at SSS and above; the old figure was 109 x B's 46.0 GJ. B at 65 to 75%: 0.65 x 1.046 GJ = 0.680 GJ, 0.75 x 46.024 GJ = 34.5 GJ"
+ },
+ {
+  "page": "Fracture of Worlds — The Living System/III. Physical Force (Part Eleven).md",
+  "kind": "copy",
+  "old_str": "0.24–1.2 t",
+  "new_str": "0.16–8.2 t",
+  "why": "0.680 GJ / 4.184e9 = 0.16 t; 34.5 GJ / 4.184e9 = 8.25 t; 'survives building-scale destruction' (0.25 to 2 t) holds"
+ },
+ {
+  "page": "Fracture of Worlds — The Living System/III. Physical Force (Part Eleven).md",
+  "kind": "copy",
+  "old_str": "0.2–1 PJ",
+  "new_str": "27.6 GJ – 2.93 TJ",
+  "why": "Asymmetry Principle states Durability sits under Strike Force at every Grade, 70 to 80% at F to D, 60 to 70% at A to S, about 50% at SSS and above; the old figure was 239 x A's 4.184 TJ. 0.6 x 46.024 GJ = 27.6 GJ, 0.7 x 4.184 TJ = 2.93 TJ"
+ },
+ {
+  "page": "Fracture of Worlds — The Living System/III. Physical Force (Part Eleven).md",
+  "kind": "copy",
+  "old_str": "48–239 t",
+  "new_str": "6.6–700 t",
+  "why": "27.6 GJ / 4.184e9 = 6.6 t; 2.93 TJ / 4.184e9 = 700 t; 'city-block-scale' (11 to 100 t) holds"
+ },
+ {
+  "page": "Fracture of Worlds — The Living System/III. Physical Force (Part Eleven).md",
+  "kind": "copy",
+  "old_str": "2–10 PJ",
+  "new_str": "2.51–17.0 TJ",
+  "why": "Asymmetry Principle states Durability sits under Strike Force at every Grade, 70 to 80% at F to D, 60 to 70% at A to S, about 50% at SSS and above; the old figure was 412 x S's 24.3 TJ. 0.6 x 4.184 TJ = 2.51 TJ, 0.7 x 24.2672 TJ = 17.0 TJ"
+ },
+ {
+  "page": "Fracture of Worlds — The Living System/III. Physical Force (Part Eleven).md",
+  "kind": "copy",
+  "old_str": "0.48–2.4 kt",
+  "new_str": "0.60–4.1 kt",
+  "why": "2.51 TJ / 4.184e9 = 600 t; 17.0 TJ / 4.184e9 = 4,060 t; 'small-town-scale' (1 to 5.8 kt) holds"
+ },
+ {
+  "page": "Fracture of Worlds — The Living System/III. Physical Force (Part Eleven).md",
+  "kind": "copy",
+  "old_str": "40–800 PJ",
+  "new_str": "13.3–272 TJ",
+  "why": "Asymmetry Principle states Durability sits under Strike Force at every Grade, 70 to 80% at F to D, 60 to 70% at A to S, about 50% at SSS and above; the old figure was 1,912 x SS's 418 TJ. SS, between 60 to 70% and 50%, at 55 to 65%: 0.55 x 24.2672 TJ = 13.3 TJ, 0.65 x 418.4 TJ = 272 TJ"
+ },
+ {
+  "page": "Fracture of Worlds — The Living System/III. Physical Force (Part Eleven).md",
+  "kind": "copy",
+  "old_str": "9.6–191 kt",
+  "new_str": "3.2–65 kt",
+  "why": "13.3 TJ / 4.184e9 = 3,190 t; 272 TJ / 4.184e9 = 65,000 t"
+ },
+ {
+  "page": "Fracture of Worlds — The Living System/III. Physical Force (Part Eleven).md",
+  "kind": "copy",
+  "old_str": "1–5 EJ",
+  "new_str": "209 TJ – 2.09 ZJ",
+  "why": "old SSS figure was 0.0012 x SSS's 4.184 ZJ strike ceiling, not 50%. 0.5 x 418.4 TJ = 209 TJ, 0.5 x 4.184e21 = 2.09 ZJ"
+ },
+ {
+  "page": "Fracture of Worlds — The Living System/III. Physical Force (Part Eleven).md",
+  "kind": "copy",
+  "old_str": "239 kt – 1.2 Mt",
+  "new_str": "50 kt – 500 Gt",
+  "why": "209 TJ / 4.184e9 = 50,000 t; 2.09e21 / 4.184e9 = 5e11 t = 500 Gt; a magnitude 9 earthquake (about 2e18 J) sits inside, so 'country-scale seismic events' holds"
+ },
+ {
+  "page": "Fracture of Worlds — The Living System/III. Physical Force (Part Eleven).md",
+  "kind": "copy",
+  "old_str": "10 EJ – 500 ZJ",
+  "new_str": "2.09 ZJ – 6.2 × 10²⁸ J",
+  "why": "at 50% of X's strike band: 0.5 x 4.184e21 = 2.09e21 J, 0.5 x 1.24e29 = 6.2e28 J; old band also left a gap to EX (500 ZJ to 1 YJ)"
+ },
+ {
+  "page": "Fracture of Worlds — The Living System/III. Physical Force (Part Eleven).md",
+  "kind": "copy",
+  "old_str": "2.4 Mt – 120 Gt",
+  "new_str": "500 Gt – 14.8 Et",
+  "why": "2.09e21 / 4.184e9 = 5e11 t; 6.2e28 / 4.184e9 = 1.48e19 t (old cell did not match its joules: 10 EJ = 2.39 Gt)"
+ },
+ {
+  "page": "Fracture of Worlds — The Living System/III. Physical Force (Part Eleven).md",
+  "kind": "copy",
+  "old_str": "1 YJ – 10³⁶ J",
+  "new_str": "6.2 × 10²⁸ – 3.45 × 10³⁷ J",
+  "why": "at 50% of EX's strike band: 0.5 x 1.24e29 = 6.2e28 J, 0.5 x 6.906e37 = 3.45e37 J"
+ },
+ {
+  "page": "Fracture of Worlds — The Living System/III. Physical Force (Part Eleven).md",
+  "kind": "copy",
+  "old_str": "239 Gt – planetary",
+  "new_str": "14.8 Et – 8.25 Rt",
+  "why": "6.2e28 / 4.184e9 = 1.48e19 t; 3.45e37 / 4.184e9 = 8.25e27 t; Earth's binding energy (2.2e32 J) lies inside, so 'planetary-scale destruction' holds"
+ },
+ {
+  "page": "Fracture of Worlds — The Living System/III. Physical Force (Part Eleven).md",
+  "kind": "copy",
+  "old_str": ">10³⁶ J",
+  "new_str": ">3.45 × 10³⁷ J",
+  "why": "EX+ starts where EX's rebuilt ceiling ends, 0.5 x 6.906e37 J"
+ },
+ {
+  "page": "Fracture of Worlds — The Living System/III. Physical Force (Part Eleven).md",
+  "kind": "copy",
+  "old_str": "20–50 tonnes",
+  "new_str": "120 kg – 200 tonnes",
+  "why": "Lift gaps: Hollow ends 120 kg, F began 20 t; E begins 200 t. Hollow's 'athletic human' cannot rise, so F's floor comes down; F's ceiling rises to E's floor, and 'shift loaded freight cars' (60 to 130 t) now sits inside"
+ },
+ {
+  "page": "Fracture of Worlds — The Living System/III. Physical Force (Part Eleven).md",
+  "kind": "copy",
+  "old_str": "200–500 tonnes",
+  "new_str": "200–2,000 tonnes",
+  "why": "gap E (to 500 t) / D (from 2,000 t) closed by raising E's ceiling ('small ship displacement' holds)"
+ },
+ {
+  "page": "Fracture of Worlds — The Living System/III. Physical Force (Part Eleven).md",
+  "kind": "copy",
+  "old_str": "2,000–7,000 tonnes",
+  "new_str": "2,000–10,000 tonnes",
+  "why": "gap D (to 7,000 t) / C (from 10,000 t) closed by raising D's ceiling"
+ },
+ {
+  "page": "Fracture of Worlds — The Living System/III. Physical Force (Part Eleven).md",
+  "kind": "copy",
+  "old_str": "10,000–30,000 tonnes",
+  "new_str": "10,000–100,000 tonnes",
+  "why": "gap C (to 30,000 t) / B (from 100,000 t) closed by raising C's ceiling ('large naval vessel' holds)"
+ },
+ {
+  "page": "Fracture of Worlds — The Living System/III. Physical Force (Part Eleven).md",
+  "kind": "copy",
+  "old_str": "2–10 million tonnes",
+  "new_str": "0.5–10 million tonnes",
+  "why": "gap B (to 500,000 t) / A (from 2 Mt): B's 500,000 t is load-bearing (Binding Corollary: 5e5 t x 1000 x 9.81 = 4.9e9 N), so A's floor comes down"
+ },
+ {
+  "page": "Fracture of Worlds — The Living System/III. Physical Force (Part Eleven).md",
+  "kind": "copy",
+  "old_str": "50–200 million tonnes",
+  "new_str": "10 million – 1 billion tonnes",
+  "why": "gaps A (to 10 Mt) / S (from 50 Mt) and S (to 200 Mt) / SS (from 1 Gt) closed; A's 10 Mt is load-bearing ('leverage ceases above roughly ten million tonnes', 'at S-Grade lifting stops being mechanical'), so S now starts exactly there"
+ },
+ {
+  "page": "Fracture of Worlds — The Living System/III. Physical Force (Part Eleven).md",
+  "kind": "copy",
+  "old_str": "1–20 billion tonnes",
+  "new_str": "1–100 billion tonnes",
+  "why": "gap SS (to 20 Gt) / SSS (from 100 Gt) closed by raising SS's ceiling"
+ },
+ {
+  "page": "Fracture of Worlds — The Living System/III. Physical Force (Part Eleven).md",
+  "kind": "copy",
+  "old_str": "10¹⁴–10¹⁶ kg",
+  "new_str": "5 × 10¹⁴–10¹⁶ kg",
+  "why": "overlap: SSS's 100 to 500 billion tonnes is 1e14 to 5e14 kg, so X's floor of 1e14 kg sat at SSS's floor; X now starts at SSS's ceiling"
+ },
+ {
+  "page": "Fracture of Worlds — The Living System/III. Physical Force (Part Eleven).md",
+  "kind": "copy",
+  "old_str": "10–20 m",
+  "new_str": "10–30 m",
+  "why": "projected-range gap E (to 20 m) / D (from 30 m) closed by raising E's ceiling; still under E's 50 m addressing range"
+ },
+ {
+  "page": "Fracture of Worlds — The Living System/III. Physical Force (Part Eleven).md",
+  "kind": "copy",
+  "old_str": "30–70 m",
+  "new_str": "30–100 m",
+  "why": "gap D (to 70 m) / C (from 100 m) closed by raising D's ceiling; still under D's 100 m addressing range, so 'below B he can name what he cannot hit' holds"
+ },
+ {
+  "page": "Fracture of Worlds — The Living System/III. Physical Force (Part Eleven).md",
+  "kind": "copy",
+  "old_str": "0.5–1 km",
+  "new_str": "200 m – 3 km",
+  "why": "gaps C (to 200 m) / B (from 500 m) and B (to 1 km) / A (from 3 km) closed by widening B; C's ceiling must stay under its 300 m addressing range, and B still holds its 500 m addressing range, so 'they cross at B-Grade' holds"
+ },
+ {
+  "page": "Fracture of Worlds — The Living System/III. Physical Force (Part Eleven).md",
+  "kind": "copy",
+  "old_str": "3–8 km",
+  "new_str": "3–20 km",
+  "why": "gap A (to 8 km) / S (from 20 km) closed by raising A's ceiling"
+ },
+ {
+  "page": "Fracture of Worlds — The Living System/III. Physical Force (Part Eleven).md",
+  "kind": "copy",
+  "old_str": "20–50 km",
+  "new_str": "20–300 km",
+  "why": "gap S (to 50 km) / SS (from 300 km) closed by raising S's ceiling"
+ },
+ {
+  "page": "Fracture of Worlds — The Living System/III. Physical Force (Part Eleven).md",
+  "kind": "copy",
+  "old_str": "1,300 km",
+  "new_str": "1,270 km",
+  "why": "anchor reach is one tenth of authority radius on every other row; 12,700 km / 10 = 1,270 km"
+ },
+ {
+  "page": "Fracture of Worlds — The Living System/III. Physical Force (Part Eleven).md",
+  "kind": "copy",
+  "old_str": "and some five millionths inside a Wellspring Core",
+  "new_str": "and about a five-millionth inside a Wellspring Core",
+  "why": "reach scales as 1/sqrt(density); Core density 1e8 to 7.7e18 EU/m3, geometric middle 2.8e13, 1/sqrt = 1.9e-7, one five-millionth; 'five millionths' (5e-6) is 26 x too far. Same check: thin ground 1/sqrt(0.01) = 10, Active 1/sqrt(316) = 1/17.8, Nexus 1/sqrt(1e6) = 1/1000 all hold"
+ },
+ {
+  "page": "Fracture of Worlds — The Living System/IX. The Essence Ledger (Part Twenty-Three).md",
+  "kind": "copy",
+  "old_str": "the smallest reserve a practitioner carries pays for tens of thousands of them",
+  "new_str": "the smallest reserve a practitioner carries pays for more than a hundred thousand of them",
+  "why": "smallest reserves on the page: 2,460 EU / 0.015 = 164,000; working-band floor 2,710 / 0.015 = 180,700"
+ },
+ {
+  "page": "Fracture of Worlds — The Living System/IX. The Essence Ledger (Part Twenty-Three).md",
+  "kind": "copy",
+  "old_str": "and by about 26 across each hundred-Level Band",
+  "new_str": "and by about 19 across each hundred-Level Band",
+  "why": "10^(0.012812 x 100) = 10^1.2812 = 19.1; 26 would need 0.01415 decades a Level"
+ },
+ {
+  "page": "Fracture of Worlds — The Living System/IX. The Essence Ledger (Part Twenty-Three).md",
+  "kind": "copy",
+  "old_str": "holds 90,000,000 EU, and that reserve is set by this law.",
+  "new_str": "holds 90,000,000 EU, within four percent of the 93,000,000 this law gives at that Level.",
+  "why": "10^(3.4202 + 0.012812 x 355) = 9.30e7 EU; 90,000,000 is the ruled figure (Obrenkael's summoner), 3.2% under the law, so the law does not set it exactly"
+ },
+ {
+  "page": "Fracture of Worlds — The Living System/IX. The Essence Ledger (Part Twenty-Three).md",
+  "kind": "copy",
+  "old_str": "51,800 – 1.84 × 10⁷",
+  "new_str": "51,800 – 961,000",
+  "why": "Stages V to VII's working band (cluster Levels 101 to 200) is 51,800 to 961,000 in the Stage table; 1.84e7 is Stage VII's gate ceiling, which belongs in the next column"
+ },
+ {
+  "page": "Fracture of Worlds — The Living System/IX. The Essence Ledger (Part Twenty-Three).md",
+  "kind": "copy",
+  "old_str": "9.90 × 10⁵ – 3.51 × 10⁸",
+  "new_str": "9.90 × 10⁵ – 1.84 × 10⁷",
+  "why": "Stages VIII to X working band (Levels 201 to 300) is 9.90e5 to 1.84e7 (law at L300 = 1.836e7); 3.51e8 is Stage X's gate ceiling"
+ },
+ {
+  "page": "Fracture of Worlds — The Living System/IX. The Essence Ledger (Part Twenty-Three).md",
+  "kind": "copy",
+  "old_str": "1.89 × 10⁷ – 6.70 × 10⁹",
+  "new_str": "1.89 × 10⁷ – 3.51 × 10⁸",
+  "why": "Stages XI to XII working band (Levels 301 to 400) is 1.89e7 to 3.51e8 (law at L400 = 3.508e8); 6.70e9 is Stage XII's gate ceiling"
+ },
+ {
+  "page": "Fracture of Worlds — The Living System/IX. The Essence Ledger (Part Twenty-Three).md",
+  "kind": "copy",
+  "old_str": "**The one carve-out in the spine.** The Part Four Grade table stands exactly as written, and an attack output between 2.42672 × 10¹³ and 4.184 × 10¹³ J, 24.3 to 41.8 TJ, is ranked by the Sub-Stat column, not by joules. Between S's ceiling and SS's floor the joule column does not rank; a thing whose peak output lands there is placed by its Sub-Stat value against Part Four's 401–550 (S) / 551–725 (SS) column. Both S and SS sit in **Master**, so **the carve-out moves the Grade, never the rung**. A ladder with Grade-sensitive modifiers reads the Sub-Stat; a ladder that only needs the tier reads Master either way. The large practitioner's cheapest construct lands in this band (see “Worked, at three scales”).",
+  "new_str": "**The spine runs without a break.** The Part Four joule bands meet edge to edge: S ends at 2.42672 × 10¹³ J, 5.8 kilotons, and SS begins there, so every peak output in joules has exactly one Grade. Both S and SS sit in **Master**.",
+  "why": "S/SS gap closed by lowering SS's floor to S's ceiling: S ends 2.42672e13 J (5.8 kt) and SS began 4.184e13 J (10 kt), so 24.3 to 41.8 TJ had no Grade; 5.8 kt is where 'Town' begins, so SS's 'Town to Large Town' stays true and S is untouched; fewer pages quote the SS floor than the S ceiling. With the bands contiguous the carve-out has nothing left to rank, so the paragraph states the joined spine instead"
+ },
+ {
+  "page": "Fracture of Worlds — The Living System/IX. The Essence Ledger (Part Twenty-Three).md",
+  "kind": "copy",
+  "old_str": "And here the spine's one carve-out bites:",
+  "new_str": "Both ends land in the same Grade:",
+  "why": "with SS starting at 24.3 TJ, 37.0 and 110.9 TJ are both SS"
+ },
+ {
+  "page": "Fracture of Worlds — The Living System/IX. The Essence Ledger (Part Twenty-Three).md",
+  "kind": "copy",
+  "old_str": "the **cheap** construct, **37.0 TJ, lands inside the carve-out**, above S's ceiling of 2.42672 × 10¹³ J and below SS's floor of 4.184 × 10¹³ J. It is not graded off the joule column at all: it is graded off the summoner's Sub-Stat value against Part Four's 401–550 (S) / 551–725 (SS) column. Either way it is Master, because S and SS share a Tier.",
+  "new_str": "the **cheap** construct, **37.0 TJ**, 8.84 kilotons, is **SS, Master** as well, above S's ceiling of 2.42672 × 10¹³ J.",
+  "why": "0.05 x 8.5e8 EU x 0.87 x 1e6 = 3.70e13 J; / 4.184e9 = 8,840 t; SS now begins at 2.42672e13 J, so the construct is SS"
+ },
+ {
+  "page": "Fracture of Worlds — The Living System/IX. The Essence Ledger (Part Twenty-Three).md",
+  "kind": "copy",
+  "old_str": "The Master figure, 35.1 TJ, sits inside the spine's carve-out (24.3 to 41.8 TJ), so what a Starved Master still holds, released at once, is ranked by the Sub-Stat column and not by joules.",
+  "new_str": "The Master figure, 35.1 TJ, 8.39 kilotons, sits in SS on the spine, so what a Starved Master still holds, released at once, is an SS discharge.",
+  "why": "35.1e12 / 4.184e9 = 8,390 t; above S's ceiling 2.42672e13 J and inside SS once the S/SS gap is closed"
+ },
+ {
+  "page": "Fracture of Worlds — The Living System/IX. The Essence Ledger (Part Twenty-Three).md",
+  "kind": "copy",
+  "old_str": "390 ÷ 8 = 48.75 AU/s, one tenth of the ceiling. The ceiling is what the practitioner can do for a heartbeat; the tenth is what they do for eight seconds.",
+  "new_str": "390 ÷ 8 = 48.75 AU/s, about a fifth of the ceiling. The ceiling is what the practitioner can do for a heartbeat; the fifth is what they do for eight seconds.",
+  "why": "48.75 / 258.1 = 0.189, about one fifth, not one tenth"
+ },
+ {
+  "page": "Fracture of Worlds — The Living System/IX. The Essence Ledger (Part Twenty-Three).md",
+  "kind": "copy",
+  "old_str": "At 9,870 AU/s and η 1.05 that is 4.76% of 9.87 GW, **470 MW taken from the stratum around the practitioner**",
+  "new_str": "At 9,870 AU/s and η 1.05 that is 4.76% of the 10.36 GW delivered, **494 MW taken from the stratum around the practitioner**",
+  "why": "delivered = 9.87 GW x 1.05 = 10.36 GW; drawn in = 0.05 x 9.87 GW = 0.494 GW = 4.76% of 10.36 GW; 4.76% of 9.87 GW (470 MW) applied the share to the wrong base"
+ },
+ {
+  "page": "Fracture of Worlds — The Living System/IX. The Essence Ledger (Part Twenty-Three).md",
+  "kind": "copy",
+  "old_str": "The large practitioner at full output burns hotter than any main-sequence star's surface,",
+  "new_str": "The large practitioner at full output burns at six and a half times the Sun's surface temperature, as hot as a blue O-type star,",
+  "why": "37,770 K / 5,772 K = 6.54; the hottest main-sequence O stars reach about 45,000 to 50,000 K, so 'hotter than any' is false"
+ }
+]

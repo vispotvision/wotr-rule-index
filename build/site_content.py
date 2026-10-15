@@ -48,6 +48,23 @@ def unquote(m) -> str:
     return re.sub(r"(?m)^\*\*([A-Z][A-Z0-9 ,'’·:—-]{3,})\*\*\s*$", lambda h: "### " + h.group(1).title().replace("’S", "’s").replace("'S", "'s"), out)
 
 
+def onerow(m) -> str:
+    """A table with one row of long prose reads better as cards side by side."""
+    rows = [r.strip().strip("|").split("|") for r in m.group(0).strip().split("\n")]
+    if len(rows) != 3 or not 2 <= len(rows[0]) <= 4 or sum(len(c) for c in rows[2]) < 160:
+        return m.group(0)
+    def body(c):
+        c = c.strip().replace("<br>", "\n")
+        named = re.findall(r"\*\*[^*]+\*\*", c)
+        if len(named) >= 2 and c.startswith("**"):  # a run of named abilities: one line each
+            parts = re.split(r"\s+(?=\*\*[^*]+\*\*)", c)
+            return "\n".join(f"- {p.strip()}" for p in parts if p.strip())
+        return c
+    blocks = "".join(f'<div class="wotr-pane">\n\n**{h.strip()}**\n\n{body(c)}\n\n</div>\n\n'
+                     for h, c in zip(rows[0], rows[2]) if c.strip())
+    return f'\n<div class="wotr-panes">\n\n{blocks}</div>\n\n'
+
+
 def cards(m) -> str:
     """A run of link items becomes a grid of cards; the words after "link:" are the card's line."""
     items = re.sub(r"(?m)^(- \[\[[^\]]*\]\]):\s*(.+)$", r'\1 <span class="wd">\2</span>', m.group(1).rstrip("\n"))
@@ -62,6 +79,10 @@ def dress(rel: str, text: str) -> str:
     stem = rel.rsplit("/", 1)[-1][:-3]
     title = t.group(1).replace('\\"', '"') if t else stem
     body = breathe(re.sub(r"\A\s*# [^\n]*\n", "\n", body, count=1))
+    first = re.match(r"\s*#{1,6} +(.+?)\s*\n", body)  # the plate already carries the title
+    if first and re.sub(r"\W", "", first.group(1)).lower() == re.sub(r"\W", "", title).lower():
+        body = body[first.end():]
+    body = re.sub(r"(?m)^\|.*\|[ \t]*\n\|[ :|-]+\|[ \t]*\n\|.*\|[ \t]*(?:\n|$)(?!\|)", onerow, body)
     body = re.sub(r"(?m)(?:^>.*\n?)+", unquote, body)
     body = re.sub(r"!\[\[Assets/Diagrams/([\w-]+)\.svg\]\]",  # inline, so the art draws in the site's own fonts
                   lambda m: '\n\n<figure class="wotr-figure">' + re.sub(r"<svg ", '<svg class="wotr-diagram" role="img" ', (WIKI / f"Assets/Diagrams/{m.group(1)}.svg").read_text(encoding="utf-8"), count=1) + "</figure>\n\n", body)

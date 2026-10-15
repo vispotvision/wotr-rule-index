@@ -1,0 +1,240 @@
+[
+ {
+  "page": "The Magic System/The Lexicon of Magic — Master Terminology.md",
+  "kind": "gloss",
+  "old_str": "*The Family is the what. The Method is the how. Their intersection is the named discipline, and the suffix places",
+  "new_str": "*The Family is the what. The Method is the how. Their intersection is the named discipline, its root taken from the Affinity, the one phenomenon inside the Family, and the suffix places",
+  "why": "Collision 1: the motto says Family x Method, the Discipline line says Affinity x Method; both hold once the Affinity is named as the part of the Family the name is built on."
+ },
+ {
+  "page": "The Magic System/The Lexicon of Magic — Master Terminology.md",
+  "kind": "gloss",
+  "old_str": "**Discipline** · The named intersection of one Affinity and one Method. Pyromancy, Ferrokinesis, Geoturgy.",
+  "new_str": "**Discipline** · The named intersection of one Affinity and one Method. Pyromancy, Ferrokinesis, Geoturgy. The Affinity is the single phenomenon inside a Family (fire within Caloria), so the Family names the field and the Affinity names the discipline.",
+  "why": "Collision 1: Family and Affinity are different levels, not synonyms; one line says which names what."
+ },
+ {
+  "page": "Magic System/The Magic System.md",
+  "kind": "gloss",
+  "old_str": "Where they intersect, you get the named discipline.**",
+  "new_str": "Where they intersect, you get the named discipline.** *The name itself is built on the Affinity: fire, not Caloria, gives Pyromancy its root.*",
+  "why": "Collision 1: the motto sits under the Family/Affinity table; one clause ties it to the Affinity row."
+ },
+ {
+  "page": "The Magic System/The Lexicon of Magic — Master Terminology.md",
+  "kind": "gloss",
+  "old_str": "**Clouding · Rupture** · The two Aether Shell failure states, gradual and sudden.",
+  "new_str": "**Clouding · Rupture** · The two Aether Shell failure states, gradual and sudden. Written Shell Rupture wherever it could be mistaken for a Rupture Event.",
+  "why": "Collision 2: bare Rupture is the Shell failure; the alchemical failure always carries 'Event'."
+ },
+ {
+  "page": "The Magic System/The Lexicon of Magic — Master Terminology.md",
+  "kind": "gloss",
+  "old_str": "No relation to Shell Rupture.",
+  "new_str": "No relation to Shell Rupture, nor to a rupture in the Veil, which is a channel struck between planes.",
+  "why": "Collision 2: the Veil page uses Rupture for a third thing; the Lexicon names all three apart."
+ },
+ {
+  "page": "Materials, Alchemy & Trade/Alchemetrica.md",
+  "kind": "law",
+  "old_str": "**Rupture** · Two incompatible laws in one substrate with inadequate mediation.",
+  "new_str": "**Rupture Event** · Two incompatible laws in one substrate with inadequate mediation, and no kin to the Shell's Rupture.",
+  "why": "Collision 2: this entry uses bare Rupture for the Conjunction failure the same page elsewhere calls a Rupture Event."
+ },
+ {
+  "page": "Materials, Alchemy & Trade/Alchemetrica.md",
+  "kind": "law",
+  "old_str": "**Rupture.** **The two laws contest, inside a sealed vessel",
+  "new_str": "**Rupture Event.** **The two laws contest, inside a sealed vessel",
+  "why": "Collision 2: the operations table's failure cell uses bare Rupture; the same row already says Rupture Events."
+ },
+ {
+  "page": "The Alftian Codex/Volume the First.md",
+  "kind": "law",
+  "old_str": "The Wedding carries the Rupture risk of any Conjunction",
+  "new_str": "The Wedding carries the Rupture Event risk of any Conjunction",
+  "why": "Collision 2: Alchemetrica carries the same sentence with 'Rupture Event'; bring the Codex into line."
+ },
+ {
+  "page": "Cosmology & Metaphysics/The Veil.md",
+  "kind": "gloss",
+  "old_str": "**Rupture** · A struck channel runs at a far lower field",
+  "new_str": "**Rupture** (a Veil rupture: a channel struck through the Veil, not a Shell Rupture or Rupture Event) · A struck channel runs at a far lower field",
+  "why": "Collision 2: third meaning of Rupture; gloss keeps it apart from the Shell and the bench."
+ },
+ {
+  "page": "The Magic System/The Lexicon of Magic — Master Terminology.md",
+  "kind": "gloss",
+  "old_str": "**Aetheric Saturation** · Essence flooding an area faster than it disperses. Produces Fracture Events in everyone present, including whoever caused it.",
+  "new_str": "**Aetheric Saturation** · Essence released by workings flooding an area faster than it disperses, past ten thousand EU per cubic metre. Produces Fracture Events in everyone present, including whoever caused it. Not Ambient Saturation, the surveyors' name for ordinary ground.",
+  "why": "Collision 3: the Lexicon line omits the threshold the Core Vocabulary states, and Saturation also names a harmless density band and a stat."
+ },
+ {
+  "page": "The Magic System/The Eight Families & the Sixty Wellsprings.md",
+  "kind": "gloss",
+  "old_str": "The most common condition across the mapped world. **A Sage can tune to it.",
+  "new_str": "The most common condition across the mapped world, and no kin to Aetheric Saturation, the lethal flood. **A Sage can tune to it.",
+  "why": "Collision 3: 'Ambient Saturation' is the commonest, harmless ground; one clause keeps it from reading as the danger state."
+ },
+ {
+  "page": "In-World Documents & the Narrative Archive/The Apprentice's Primer — A First Reader for the Newly Registered.md",
+  "kind": "gloss",
+  "old_str": "**Aetheric Saturation** · The danger state where Essence floods faster than it disperses.",
+  "new_str": "**Aetheric Saturation** · The danger state where Essence released by workings floods an area faster than it disperses.",
+  "why": "Collision 3: says what floods and where, matching the Core Vocabulary."
+ },
+ {
+  "page": "The Magic System/The Lexicon of Magic — Master Terminology.md",
+  "kind": "gloss",
+  "old_str": "Fusion of two or more Families simultaneously. Gated high.",
+  "new_str": "Fusion of two or more Families simultaneously, inside one practitioner's working. Gated high. Not the alchemical Conjunction, which weds two prepared laws in a vessel.",
+  "why": "Collision 4: Conjunctia (Method) and Conjunction (operation and Category) are different things with near names."
+ },
+ {
+  "page": "The Magic System/The Lexicon of Magic — Master Terminology.md",
+  "kind": "gloss",
+  "old_str": "Conjunction doubles as its own Category, since fusion behaves differently enough from the rest to need separate treatment.",
+  "new_str": "Conjunction doubles as its own Category, since fusion behaves differently enough from the rest to need separate treatment. Conjunction is the operation and the Category; Conjunctia is the Method, a practitioner holding two Families at once.",
+  "why": "Collision 4: distinction at the second definition site."
+ },
+ {
+  "page": "Magic System/The Magic System.md",
+  "kind": "gloss",
+  "old_str": "*Fusion. Simultaneous blending of two or more Families.*",
+  "new_str": "*Fusion. Simultaneous blending of two or more Families in one practitioner. The alchemical Conjunction is a bench operation, not this Method.*",
+  "why": "Collision 4: distinction in the Nine Methods table."
+ },
+ {
+  "page": "The Magic System/The Magical Categories — Unified Taxonom.md",
+  "kind": "gloss",
+  "old_str": "the Conjunction operation from Alchemy and the Codex of Absolute Magical Law, here as its own category.",
+  "new_str": "the Conjunction operation from Alchemy and the Codex of Absolute Magical Law, here as its own category. Not the Method Conjunctia, which names a practitioner who holds two Families at once.",
+  "why": "Collision 4: distinction where the Category is defined."
+ },
+ {
+  "page": "The Magic System/The Lexicon of Magic — Master Terminology.md",
+  "kind": "gloss",
+  "old_str": "Ritual and creation. Lasting change. Plane of Fate.",
+  "new_str": "Ritual and creation. Lasting change. Plane of Fate. No kin to the theurgic axis, which measures how a capacity was gained.",
+  "why": "Collision 5: Turgia is a Method (what is done); theurgic is a derivation pole (how the capacity came)."
+ },
+ {
+  "page": "The Magic System/The Lexicon of Magic — Master Terminology.md",
+  "kind": "gloss",
+  "old_str": "**Theurgic axis** · A practitioner who works by method, procedure and systematic understanding.",
+  "new_str": "**Theurgic axis** · A practitioner whose capacity was taught, and who works by method, procedure and systematic understanding.",
+  "why": "Collision 5: anchors the axis to origin (taught), as the Derivation of Practice defines it."
+ },
+ {
+  "page": "The Magic System/The Lexicon of Magic — Master Terminology.md",
+  "kind": "gloss",
+  "old_str": "Slower to react, harder to surprise.",
+  "new_str": "Slower to react, harder to surprise. The word means divine-work and names where a capacity came from, not the Method Turgia, though Turgia leans theurgic.",
+  "why": "Collision 5: the one-line distinction from Turgia/turgist."
+ },
+ {
+  "page": "The Magic System/The Lexicon of Magic — Master Terminology.md",
+  "kind": "gloss",
+  "old_str": "**Thaumaturgic axis** · A practitioner whose Crystal acts before conscious analysis completes.",
+  "new_str": "**Thaumaturgic axis** · A practitioner whose capacity is innate, and whose Crystal acts before conscious analysis completes.",
+  "why": "Collision 5: anchors the opposite pole to origin (innate)."
+ },
+ {
+  "page": "The Magic System/The Lexicon of Magic — Master Terminology.md",
+  "kind": "gloss",
+  "old_str": "Inscription. Carved permanently into material.",
+  "new_str": "Inscription. Carved permanently into material. The Method, worked chiefly through Runecraft; Glyphica is the language it cuts.",
+  "why": "Collision 6: Scriptia is a Method, Runecraft the craft, Glyphica the syntax."
+ },
+ {
+  "page": "The Magic System/The Lexicon of Magic — Master Terminology.md",
+  "kind": "gloss",
+  "old_str": "**Parun** · The language of law. Older than any surviving kingdom and not fully catalogued by anyone.",
+  "new_str": "**Parun** · The language of law. Older than any surviving kingdom and not fully catalogued by anyone. **Glyphica** is its syntax put to work, the Category every craft and Method writes in: spoken in Spellcraft, cut in Runecraft.",
+  "why": "Collision 6: Glyphica heads Section VII but has no entry; one line places it."
+ },
+ {
+  "page": "The Magic System/The Lexicon of Magic — Master Terminology.md",
+  "kind": "gloss",
+  "old_str": "**Sigilcraft** · Glyphica rendered as durable inscription rather than performance.",
+  "new_str": "**Sigilcraft** · Glyphica rendered as durable inscription rather than performance: an older name for Runecraft, the craft of the cut sentence. Scriptia is the Method that lives by it.",
+  "why": "Collision 6: Sigilcraft is a true synonym of Runecraft (2 uses vs 50+); kept as also-called."
+ },
+ {
+  "page": "The Magic System/The Magical Categories — Unified Taxonom.md",
+  "kind": "gloss",
+  "old_str": "**Examples:** Wordform Chains · Sigilcraft · Parunic Script Weaving",
+  "new_str": "**Examples:** Wordform Chains · Sigilcraft (Runecraft, the cut sentence) · Parunic Script Weaving",
+  "why": "Collision 6: the also-called at the Category's example list."
+ },
+ {
+  "page": "The Magic System/The Lexicon of Magic — Master Terminology.md",
+  "kind": "gloss",
+  "old_str": "In the halls, a seat that never took. **Slag** in every other register.",
+  "new_str": "In the halls, a seat that never took. **Slag** in every other register. Three names, one failure, and Dead Set is the name on the record; said of a district rather than a man, slag means Residue.",
+  "why": "Collision 7: true synonyms by register; Dead Set stays the main term, and the trade's second sense of slag is fenced off."
+ },
+ {
+  "page": "The Magic System/The Working Vocabulary — Trade Jargon and Its Metaphysical Extensions.md",
+  "kind": "gloss",
+  "old_str": "*slag* is an insult and needs no explanation",
+  "new_str": "*slag* is an insult and needs no explanation: a man who *came out slag* took a Dead Set",
+  "why": "Collision 7: this table gives slag as Residue; the cant cell links the insult to the Dead Set it names."
+ },
+ {
+  "page": "The Magic System/The Four Crafts.md",
+  "kind": "law",
+  "old_str": "Authorization, Boundary and Direction failing produce a working that does not happen.",
+  "new_str": "Authorization, Boundary and Direction failing produce a working that goes wrong while the operator is still in the room.",
+  "why": "Collision 8: contradicts the Lexicon role table and Alchemetrica, where a Boundary failure spreads until it runs out of material."
+ },
+ {
+  "page": "The Magic System/The Lexicon of Magic — Master Terminology.md",
+  "kind": "gloss",
+  "old_str": "A transformation that continues until it runs out of things to consume.",
+  "new_str": "A Boundary failure: a transformation that spreads until it runs out of things to consume, while the operator is still there to see it.",
+  "why": "Collision 8: names the Boundary failure and sets it apart from the Sealing failure."
+ },
+ {
+  "page": "The Magic System/The Lexicon of Magic — Master Terminology.md",
+  "kind": "copy",
+  "old_str": "It is the Direction role's own failure mode, and an error in any role can produce it. Wellspring processes that were started and never completed, which keep trying to finish themselves in whatever they contact.",
+  "new_str": "It is the Direction role's own failure mode, and an error in any role can produce it: Wellspring processes started and never completed, which keep trying to finish themselves in whatever they contact. Unlike a Boundary failure, which spreads, or a Sealing failure, which never ends, the working itself stops; the fragment it left does not.",
+  "why": "Collision 8: fixes the stray fragment and adds the three-way distinction."
+ },
+ {
+  "page": "The Magic System/The Lexicon of Magic — Master Terminology.md",
+  "kind": "gloss",
+  "old_str": "Closing one is Concordia's most difficult application and is measured in years.",
+  "new_str": "Closing one is Concordia's most difficult application and is measured in years. Farmers call it thinning; it is not a Veil-thin place, where the planes press close, nor Aether-thin ground, which was never rich.",
+  "why": "Collision 9: four 'thin' words; the Hollowing entry names which is which."
+ },
+ {
+  "page": "The Magic System/The Lexicon of Magic — Master Terminology.md",
+  "kind": "gloss",
+  "old_str": "The common tongue calls the site **thin** and does not elaborate",
+  "new_str": "The common tongue calls the site **thin** and does not elaborate; the surveyor's Veil-thin and the farmer's thinning are other ground",
+  "why": "Collision 9: the failed Limina site's folk name shares the word with the Veil and the Hollowing."
+ },
+ {
+  "page": "The Magic System/The Lexicon of Magic — Master Terminology.md",
+  "kind": "gloss",
+  "old_str": "The entity answers because it recognises the caller as lawfully compatible.",
+  "new_str": "The entity answers because it recognises the caller as lawfully compatible. It exists before and after the call; a presence built from the caster's own Core is Animatria.",
+  "why": "Collision 10: Vocatia calls an outside being; Animatria makes one from the caster."
+ },
+ {
+  "page": "The Magic System/The Lexicon of Magic — Master Terminology.md",
+  "kind": "gloss",
+  "old_str": "**Eidolon** · An Animatria construct.",
+  "new_str": "**Eidolon** · An Animatria construct (Animatria: shaping one's own Core into a presence that acts apart).",
+  "why": "Collision 10: Animatria has no Lexicon entry; gloss at first use."
+ },
+ {
+  "page": "The Magic System/The Lexicon of Magic — Master Terminology.md",
+  "kind": "gloss",
+  "old_str": "and not a summoned thing at all, though the distinction is invisible from ten paces.",
+  "new_str": "and not a called thing at all, though summoners count it among their summons and the distinction is invisible from ten paces.",
+  "why": "Collision 10: the Spirit Summoning Arts list Eidolons as Basic Summons; 'called' is the exact contrast with Vocatia."
+ }
+]

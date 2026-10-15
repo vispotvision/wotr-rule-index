@@ -55,7 +55,7 @@ next time it is edited or used.
 
 - Plain everyday words and short sentences: "goes solid", not "jams"; no
   jargon a reader has to decode. Concise beats exhaustive.
-- Full figures inline (EU, % of reserve, Grade, m/s, joules), written plainly
+- Full figures inline (EU, time from full, Grade, m/s, joules), written plainly
   with no (est.) mark (R76-6); estimates are listed in the author notes only.
   Never a number where a source has one.
 - Always cost, limit and counter, and the tell. The bearer's belief is left
@@ -69,7 +69,7 @@ happens in full; it feeds the paragraph and the author notes in chat.
 
 Rules that bind the content:
 - The Effect is the mechanism playing out (mechanism and effect are one thing).
-- **Costs** are a share of full reserve; EU and joules come off the Essence
+- **Drain** is written as how long the working lasts from a full reserve (R78-10); EU and joules come off the Essence
   Ledger's band for the Stage (Fracture of Worlds Part Twenty-Three), and the
   Grade off the joules → Grade → tier spine.
 - **Things** (items, draughts, summons, Domains, sites, weapons, beasts) carry

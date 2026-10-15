@@ -17,12 +17,12 @@ or anything in `scenes/` with no close), use `judger` instead.
 
 - **The dead**: name, how, who saw.
 - **Injuries and reserve**: per character, the wound brief's Ledger line;
-  EU spent and whether the tenth-of-reserve line was crossed; what heals by
+  EU spent, the lowest tell rung reached (half, quarter, tenth: R78-10), any maxing out, Drafts drunk and their crash, stack layers run; what heals by
   next scene and what does not.
 - **Debts**: owed and owing, to whom, in what (coin, labour, salt, meat).
 - **Objects**: gained, lost, damaged. A damaged Inventory signature item is
   a plot event; say so.
-- **Reputation**: who now knows what about him, and what they will say.
+- **Renown**, per audience (public, army, sects, guilds; R78-10): who now knows what about him, what they will say, warrants and bounties posted, epithets given.
 - **Witnesses**: who saw a working, and what they could read of it.
 - **Due**: what comes due and roughly when (a fire's length, the Thin Weeks).
 
@@ -30,11 +30,11 @@ or anything in `scenes/` with no close), use `judger` instead.
 
 Going in: Stage, Band, Tier of Standing, Aether Class, Crystal State.
 Stressed: the stats the scene used and the §3 row each outcome traced to.
-Spent: EU, tenth-of-reserve crossed or not. Coming out: Crystal State and any
+Spent: EU, lowest tell rung reached, Drafts and crash, stack layers. Coming out: Crystal State and any
 Threshold Event risk. Healed by next scene: ___. Every figure sourced or
 marked estimate.
 
-## 3. Fronts (`advance_front` on approval; propose at least one per session)
+## 3. Fronts (`pass_time` for story days, R72-20; `advance_front` only for a move his acts sped, on approval)
 
 Which Front moved, which consequence fired, the PC's part in it or none.
 If a new pressure appeared, propose `add_front` with a four to six step clock.

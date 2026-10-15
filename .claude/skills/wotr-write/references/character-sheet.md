@@ -40,7 +40,7 @@ terrain and tells are written so a player who reads the card can find them.
   only; the Primary's Grade is read off the mean. Throne carries no ceiling and
   sits outside the Dominion total.
 - Nine Tiers of Standing replace the lettered Coherence Bands as the public
-  scale; eta survives underneath. Hollow and F confer no rank.
+  scale; eta is set by Aether Class (R78-10). Hollow and F confer no rank.
 - Eight Essence Families: Caloria, Fulguria, Vectoria, Spatium, Materia,
   Vitalia, Fluxia, Limina.
 - Soul Crystal tiers: Dormant, Awakened, Harmonic, Resonant, Radiant,

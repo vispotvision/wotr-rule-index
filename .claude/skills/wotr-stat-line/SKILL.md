@@ -1,6 +1,6 @@
 ---
 name: wotr-stat-line
-description: "Pull the Fracture of Worlds loadout for a War of the Realms character: Level, Band, Stage by source name, Path, Tier Grades, Coherence tier and eta, Aether Class, Soul Crystal tier and state, Essence Family, Wellspring harmonisations, EU and AU/s, Traits, Domain, Resonant Pairs. Use before ANY scene with a named practitioner, before designing a technique, when Isaac asks 'what Stage is X', 'can X do Y', 'who wins', or any question with a number in it. Sources in order: Stat Sheet workbook, character card, Fracture_of_Worlds. Disagreements are flagged, never resolved. Never invent a number."
+description: "Pull the Fracture of Worlds loadout for a War of the Realms character: Level, Band, Stage by source name, Path, Tier Grades, Aether Class and the eta it sets, Soul Crystal tier and state, Essence Family, Wellspring harmonisations, EU and AU/s, Traits, Domain, Resonant Pairs. Use before ANY scene with a named practitioner, before designing a technique, when Isaac asks 'what Stage is X', 'can X do Y', 'who wins', or any question with a number in it. Sources in order: Stat Sheet workbook, character card, Fracture_of_Worlds. Disagreements are flagged, never resolved. Never invent a number."
 ---
 
 # wotr-stat-line
@@ -28,8 +28,10 @@ adjudication and the Stat Ledger are written from, with provenance per figure.
 - Level / Band / Stage (Fracture of Worlds name only) / Path
 - Tier Grade per Primary the scene will stress, and the Stage's sustainable
   ceiling (see `references/fow-anchors.md`)
-- Tier of Standing and eta
-- Aether Class
+- Tier of Standing
+- Aether Class and the eta it sets (R78-10)
+- Stack line: sustainable Grade, the two-Grade cap, layers in use (R78-10)
+- Releases and bonded weapon, aura colour and signature sound
 - Soul Crystal tier and Crystal State going in (Refined, Fractured,
   Overgrown, Crystallized)
 - Essence Family

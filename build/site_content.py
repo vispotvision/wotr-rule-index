@@ -6,6 +6,7 @@ Private = marked private in wiki/.manifest.json (the Notion workroom), `private:
 in a page's frontmatter, or new in a folder whose every manifest page is private.
 """
 import json, re, shutil, sys
+from html import escape
 from collections import defaultdict
 from pathlib import Path
 
@@ -71,6 +72,11 @@ def cards(m) -> str:
     return f'\n<div class="wotr-entries">\n\n{items}\n\n</div>\n\n'
 
 
+def pin_fill(svg: str) -> str:
+    """Quartz styles every <text> with fill: var(--darkgray), which beats a fill attribute; an inline style does not lose."""
+    return re.sub(r'<text([^>]*?) fill="([^"]+)"', r'<text\1 style="fill:\2"', svg)
+
+
 def dress(rel: str, text: str) -> str:
     """Set the page's artwork where its markdown H1 stood (Quartz prints the title itself)."""
     fm = re.match(r"(?s)^---\n.*?\n---\n", text)
@@ -85,11 +91,17 @@ def dress(rel: str, text: str) -> str:
     body = re.sub(r"(?m)^\|.*\|[ \t]*\n\|[ :|-]+\|[ \t]*\n\|.*\|[ \t]*(?:\n(?![ \t]*\|)|\Z)", onerow, body)
     body = re.sub(r"(?m)(?:^>.*\n?)+", unquote, body)
     body = re.sub(r"!\[\[Assets/Diagrams/([\w-]+)\.svg\]\]",  # inline, so the art draws in the site's own fonts
-                  lambda m: '\n\n<figure class="wotr-figure">' + re.sub(r"<svg ", '<svg class="wotr-diagram" role="img" ', (WIKI / f"Assets/Diagrams/{m.group(1)}.svg").read_text(encoding="utf-8"), count=1) + "</figure>\n\n", body)
-    body = re.sub(r"(?ms)^```mermaid\n(.*?)^```[ \t]*$", lambda m: "\n\n" + (chart(m.group(1), rel) or m.group(0)) + "\n\n", body)
+                  lambda m: '\n\n<figure class="wotr-figure">' + re.sub(r"<svg ", '<svg class="wotr-diagram" role="img" ', pin_fill((WIKI / f"Assets/Diagrams/{m.group(1)}.svg").read_text(encoding="utf-8")), count=1) + "</figure>\n\n", body)
+    body = re.sub(r"(?ms)^```mermaid\n(.*?)^```[ \t]*$", lambda m: "\n\n" + pin_fill(chart(m.group(1), rel) or m.group(0)) + "\n\n", body)
     body = re.sub(r"(?m)((?:^- \[\[[^\n]*\n?){2,})", cards, body)
     body = re.sub(r"(?m)((?:^\*\*[^*\n]{1,60}\*\*\s*[:—–-][^\n]+\n\n?){4,})",  # a run of "**Term**: meaning" lines
                   lambda m: '<div class="wotr-glossary">\n\n' + re.sub(r"(?m)^(\*\*[^*\n]+\*\*)\s*[:—–-]\s*", r"\1 ", m.group(1).strip()) + "\n\n</div>\n\n", body)
+    # a divider straight before a heading doubles the heading's own rule
+    body = re.sub(r"(?m)^(?:---|\*\*\*|___)[ \t]*\n\s*\n(?=#{2,3} )", "", body)
+    # a line that is wholly bold is a lead-in: set it as one
+    body = re.sub(r"(?m)^\*\*([^*\n`\[\]]{3,160})\*\*[ \t]*$", lambda m: f'<p class="wotr-lede">{escape(m.group(1))}</p>\n', body)
+    # the pronunciation line
+    body = re.sub(r"(?m)^\*\*Say it\*\*\s*·\s*(.+)$", lambda m: f'<p class="wotr-sayit"><span>Say it</span>{escape(m.group(1).strip())}</p>\n', body)
     hub = "/" in rel and rel.split("/")[-2] == stem
     if hub and "wotr-entries" in body:  # the page lists its own contents; Quartz's folder list would repeat it
         body += '\n<span class="wotr-curated"></span>\n'

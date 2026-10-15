@@ -30,6 +30,7 @@ jobs:
       - name: Public pages only
         run: |
           cp site/quartz.config.yaml quartz-src/quartz.config.yaml
+          cp site/custom.scss quartz-src/quartz/styles/custom.scss
           python3 build/site_content.py quartz-src/content
       - name: Build
         working-directory: quartz-src
@@ -37,6 +38,8 @@ jobs:
           npm ci
           npx quartz plugin install
           npx quartz build
+      - name: Front page and art
+        run: cp site/landing.html quartz-src/public/index.html && cp -r site/assets quartz-src/public/
       - uses: actions/upload-pages-artifact@v3
         with:
           path: quartz-src/public

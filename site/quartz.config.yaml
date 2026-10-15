@@ -13,30 +13,30 @@ configuration:
     fontOrigin: googleFonts
     cdnCaching: true
     typography:
-      header: Schibsted Grotesk
-      body: Source Sans Pro
-      code: IBM Plex Mono
+      header: Cormorant Garamond
+      body: Crimson Pro
+      code: JetBrains Mono
     colors:
       lightMode:
-        light: "#faf8f8"
-        lightgray: "#e5e5e5"
-        gray: "#b8b8b8"
-        darkgray: "#4e4e4e"
-        dark: "#2b2b2b"
-        secondary: "#284b63"
-        tertiary: "#84a59d"
-        highlight: rgba(143, 159, 169, 0.15)
-        textHighlight: "#fff23688"
+        light: "#f5eedf"
+        lightgray: "#e3d7bf"
+        gray: "#a3916f"
+        darkgray: "#3a3026"
+        dark: "#1c1510"
+        secondary: "#8a5a12"
+        tertiary: "#b5832e"
+        highlight: rgba(181, 131, 46, 0.12)
+        textHighlight: "#e9c46a66"
       darkMode:
-        light: "#161618"
-        lightgray: "#393639"
-        gray: "#646464"
-        darkgray: "#d4d4d4"
-        dark: "#ebebec"
-        secondary: "#7b97aa"
-        tertiary: "#84a59d"
-        highlight: rgba(143, 159, 169, 0.15)
-        textHighlight: "#b3aa0288"
+        light: "#100d0a"
+        lightgray: "#2b241c"
+        gray: "#7a6a54"
+        darkgray: "#dcd0bb"
+        dark: "#f4e7c8"
+        secondary: "#d8ab4f"
+        tertiary: "#f0c96b"
+        highlight: rgba(216, 171, 79, 0.10)
+        textHighlight: "#d8ab4f44"
 plugins:
   - source: "@quartz-community/created-modified-date"
     enabled: true
@@ -96,6 +96,12 @@ plugins:
     order: 92
   - source: "@quartz-community/quartz-fonts"
     enabled: true
+    options:
+      fontOrigin: selfHosted
+      title: Cormorant Garamond
+      header: Cormorant Garamond
+      body: Crimson Pro
+      code: JetBrains Mono
   - source: "@quartz-themes/core"
     enabled: false
     options:

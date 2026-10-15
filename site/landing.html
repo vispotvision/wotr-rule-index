@@ -1,0 +1,383 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>War of the Realms</title>
+<meta name="description" content="War of the Realms: a dark shonen cultivation fantasy in a magitech world. The wiki.">
+<meta property="og:title" content="War of the Realms">
+<meta property="og:description" content="A dark shonen cultivation fantasy in a magitech world.">
+<meta property="og:image" content="./assets/hero.webp">
+<link rel="icon" href="./static/icon.png">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,500;0,600;0,700;1,500&family=Crimson+Pro:ital,wght@0,400;0,500;1,400&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --ink: #0b0907;
+    --ink-2: #14100c;
+    --gold: #d8ab4f;
+    --gold-hi: #f2cf7a;
+    --ember: #e8743b;
+    --text: #e6dcc8;
+    --muted: #a39780;
+    --line: rgba(216, 171, 79, 0.28);
+  }
+  * { box-sizing: border-box; }
+  html { scroll-behavior: smooth; }
+  body {
+    margin: 0;
+    background: var(--ink);
+    color: var(--text);
+    font-family: "Crimson Pro", Georgia, serif;
+    font-size: 1.15rem;
+    line-height: 1.6;
+    -webkit-font-smoothing: antialiased;
+  }
+  a { color: inherit; text-decoration: none; }
+
+  /* hero */
+  .hero {
+    position: relative;
+    min-height: min(94vh, 960px);
+    display: grid;
+    align-items: end;
+    overflow: hidden;
+    isolation: isolate;
+  }
+  .hero__art {
+    position: absolute;
+    inset: -4%;
+    background: url("./assets/hero.webp") center 35% / cover no-repeat;
+    animation: drift 38s ease-in-out infinite alternate;
+    z-index: -3;
+  }
+  .hero::before {
+    content: "";
+    position: absolute;
+    inset: 0;
+    background:
+      linear-gradient(180deg, rgba(11, 9, 7, 0.35) 0%, rgba(11, 9, 7, 0) 30%, rgba(11, 9, 7, 0.55) 70%, var(--ink) 100%),
+      radial-gradient(120% 70% at 50% 110%, rgba(232, 116, 59, 0.18), transparent 60%);
+    z-index: -2;
+  }
+  @keyframes drift {
+    from { transform: scale(1.04) translate3d(-1.2%, 0, 0); }
+    to   { transform: scale(1.1) translate3d(1.2%, -1%, 0); }
+  }
+  .embers { position: absolute; inset: 0; z-index: -1; pointer-events: none; }
+  .embers span {
+    position: absolute;
+    bottom: -10px;
+    width: 3px; height: 3px;
+    border-radius: 50%;
+    background: var(--gold-hi);
+    box-shadow: 0 0 8px 2px rgba(242, 160, 80, 0.7);
+    opacity: 0;
+    animation: rise linear infinite;
+  }
+  @keyframes rise {
+    0%   { transform: translate3d(0, 0, 0); opacity: 0; }
+    10%  { opacity: 0.9; }
+    100% { transform: translate3d(var(--x, 30px), -95vh, 0); opacity: 0; }
+  }
+  .hero__inner {
+    position: relative;
+    width: min(1180px, 100% - 32px);
+    margin: 0 auto;
+    padding: 0 0 9vh;
+    text-align: center;
+  }
+  .hero__inner::before {
+    content: "";
+    position: absolute;
+    inset: -12% 8% -4%;
+    background: radial-gradient(closest-side, rgba(8, 6, 4, 0.62), transparent);
+    z-index: -1;
+  }
+  .kicker {
+    font-family: "Cormorant Garamond", serif;
+    letter-spacing: 0.42em;
+    text-transform: uppercase;
+    font-size: 0.85rem;
+    color: var(--gold-hi);
+    margin: 0 0 1rem;
+    text-shadow: 0 1px 2px #000, 0 0 14px rgba(0, 0, 0, 0.95);
+  }
+  h1 {
+    font-family: "Cormorant Garamond", serif;
+    font-weight: 700;
+    font-size: clamp(2.8rem, 9vw, 7.5rem);
+    line-height: 0.95;
+    letter-spacing: 0.06em;
+    text-transform: uppercase;
+    margin: 0;
+    background: linear-gradient(180deg, #fff3d6 0%, var(--gold-hi) 45%, #b9842f 100%);
+    -webkit-background-clip: text;
+    background-clip: text;
+    color: transparent;
+    filter: drop-shadow(0 4px 24px rgba(0, 0, 0, 0.6));
+  }
+  .tagline {
+    font-style: italic;
+    font-size: clamp(1.15rem, 2.4vw, 1.55rem);
+    color: #f1e6cf;
+    margin: 1.2rem auto 2.2rem;
+    max-width: 44rem;
+    text-shadow: 0 2px 12px rgba(0, 0, 0, 0.8);
+  }
+  .cta { display: flex; gap: 14px; justify-content: center; flex-wrap: wrap; }
+  .btn {
+    font-family: "Cormorant Garamond", serif;
+    font-weight: 600;
+    letter-spacing: 0.14em;
+    text-transform: uppercase;
+    font-size: 0.95rem;
+    padding: 0.95rem 1.8rem;
+    border: 1px solid var(--gold);
+    border-radius: 2px;
+    transition: background 0.2s, color 0.2s, box-shadow 0.2s, transform 0.2s;
+  }
+  .btn--solid { background: var(--gold); color: #1a1208; }
+  .btn--solid:hover { background: var(--gold-hi); box-shadow: 0 0 28px rgba(242, 207, 122, 0.45); transform: translateY(-2px); }
+  .btn--ghost { background: rgba(11, 9, 7, 0.45); color: var(--gold-hi); backdrop-filter: blur(4px); }
+  .btn--ghost:hover { background: rgba(216, 171, 79, 0.14); transform: translateY(-2px); }
+
+  /* sections */
+  main { width: min(1180px, 100% - 32px); margin: 0 auto; }
+  .rule {
+    display: flex; align-items: center; gap: 18px;
+    margin: 4.5rem 0 2.2rem;
+    color: var(--gold);
+    font-family: "Cormorant Garamond", serif;
+    letter-spacing: 0.3em; text-transform: uppercase; font-size: 0.95rem;
+  }
+  .rule::before, .rule::after { content: ""; flex: 1; height: 1px; background: linear-gradient(90deg, transparent, var(--line), transparent); }
+  .pitch {
+    text-align: center;
+    max-width: 46rem;
+    margin: 0 auto;
+    font-size: 1.25rem;
+    color: #d9cdb6;
+  }
+  .pitch em { color: var(--gold-hi); font-style: normal; }
+
+  .grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 22px;
+  }
+  .card {
+    position: relative;
+    aspect-ratio: 4 / 5;
+    border-radius: 6px;
+    overflow: hidden;
+    border: 1px solid rgba(216, 171, 79, 0.18);
+    background: var(--ink-2);
+    isolation: isolate;
+    transition: transform 0.35s ease, box-shadow 0.35s ease, border-color 0.35s ease;
+  }
+  .card img {
+    position: absolute; inset: 0;
+    width: 100%; height: 100%;
+    object-fit: cover;
+    z-index: -2;
+    transition: transform 0.8s ease, filter 0.5s ease;
+    filter: saturate(0.92) brightness(0.86);
+  }
+  .card::after {
+    content: "";
+    position: absolute; inset: 0;
+    background: linear-gradient(180deg, rgba(11, 9, 7, 0) 35%, rgba(11, 9, 7, 0.82) 72%, rgba(11, 9, 7, 0.96) 100%);
+    z-index: -1;
+  }
+  .card__body { position: absolute; left: 0; right: 0; bottom: 0; padding: 1.4rem 1.4rem 1.5rem; }
+  .card__num {
+    font-family: "Cormorant Garamond", serif;
+    color: var(--gold);
+    letter-spacing: 0.3em;
+    font-size: 0.8rem;
+  }
+  .card h2 {
+    font-family: "Cormorant Garamond", serif;
+    font-weight: 700;
+    font-size: 1.9rem;
+    line-height: 1.05;
+    margin: 0.3rem 0 0.45rem;
+    color: #f6ead0;
+  }
+  .card p { margin: 0; color: #cdbfa6; font-size: 1.02rem; line-height: 1.45; }
+  .card__go {
+    display: inline-block; margin-top: 0.8rem;
+    font-family: "Cormorant Garamond", serif; font-weight: 600;
+    letter-spacing: 0.18em; text-transform: uppercase; font-size: 0.8rem;
+    color: var(--gold);
+    opacity: 0.75; transition: opacity 0.3s, letter-spacing 0.3s;
+  }
+  .card:hover { transform: translateY(-6px); border-color: rgba(242, 207, 122, 0.6); box-shadow: 0 18px 50px rgba(0, 0, 0, 0.55), 0 0 40px rgba(216, 171, 79, 0.18); }
+  .card:hover img { transform: scale(1.07); filter: saturate(1.05) brightness(0.95); }
+  .card:hover .card__go { opacity: 1; letter-spacing: 0.26em; }
+
+  .links {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 12px;
+  }
+  .link {
+    display: block;
+    padding: 1.1rem 1.2rem;
+    border: 1px solid rgba(216, 171, 79, 0.2);
+    border-radius: 4px;
+    background: linear-gradient(180deg, rgba(216, 171, 79, 0.06), rgba(216, 171, 79, 0.015));
+    transition: border-color 0.25s, background 0.25s, transform 0.25s;
+  }
+  .link b {
+    display: block;
+    font-family: "Cormorant Garamond", serif;
+    font-size: 1.3rem;
+    color: #f3e5c6;
+    font-weight: 600;
+  }
+  .link span { color: var(--muted); font-size: 0.98rem; }
+  .link:hover { border-color: var(--gold); background: rgba(216, 171, 79, 0.1); transform: translateY(-2px); }
+
+  footer {
+    margin: 5rem 0 0;
+    padding: 2.4rem 16px 3rem;
+    border-top: 1px solid rgba(216, 171, 79, 0.15);
+    text-align: center;
+    color: var(--muted);
+    font-size: 0.95rem;
+  }
+  footer .mark { color: var(--gold); letter-spacing: 0.4em; font-family: "Cormorant Garamond", serif; margin-bottom: 0.4rem; }
+
+  @media (max-width: 900px) {
+    .grid { grid-template-columns: repeat(2, 1fr); }
+    .links { grid-template-columns: repeat(2, 1fr); }
+  }
+  @media (max-width: 560px) {
+    .grid, .links { grid-template-columns: 1fr; }
+    .card { aspect-ratio: 5 / 4; }
+    .hero { min-height: 88vh; }
+  }
+  @media (prefers-reduced-motion: reduce) {
+    .hero__art, .embers span { animation: none; }
+    .embers { display: none; }
+    * { transition: none !important; }
+  }
+</style>
+</head>
+<body>
+
+<header class="hero">
+  <div class="hero__art" role="img" aria-label="A magitech city of towers and glowing conduits under an aurora, a lone swordsman with an ember aura on the cliff above it"></div>
+  <div class="embers" aria-hidden="true"></div>
+  <div class="hero__inner">
+    <p class="kicker">The Draw Age · Sixteen Stages · Sixty Wellsprings</p>
+    <h1>War of the Realms</h1>
+    <p class="tagline">A dark shonen cultivation fantasy in a world that runs on magic. The stakes are brutal; the heart refuses to break.</p>
+    <nav class="cta">
+      <a class="btn btn--solid" href="./start-here">Start Here</a>
+      <a class="btn btn--ghost" href="./the-magic-system/how-magic-works">How Magic Works</a>
+    </nav>
+  </div>
+</header>
+
+<main>
+  <div class="rule">The World</div>
+  <p class="pitch">Cities lit by Essence piped beneath the streets like gas. Souls that wake and climb a ladder of <em>sixteen Stages</em>, each step earned by surviving something that nearly breaks them. Sects and guilds, crowns and crews, and things that crawl out of the Wells.</p>
+
+  <div class="rule">Enter the Wiki</div>
+  <section class="grid" aria-label="Sections">
+    <a class="card" href="./the-magic-system/">
+      <img src="./assets/magic.webp" alt="" loading="lazy">
+      <div class="card__body">
+        <div class="card__num">I</div>
+        <h2>The Magic System</h2>
+        <p>The Soul Crystal, Traits, the four crafts, releases, Drafts and the Stages that measure a soul.</p>
+        <span class="card__go">Read on</span>
+      </div>
+    </a>
+    <a class="card" href="./races--and--peoples/">
+      <img src="./assets/peoples.webp" alt="" loading="lazy">
+      <div class="card__body">
+        <div class="card__num">II</div>
+        <h2>Races &amp; Peoples</h2>
+        <p>Dawi and elves, beastkin and the steppe clans, and the tongues they swear in.</p>
+        <span class="card__go">Read on</span>
+      </div>
+    </a>
+    <a class="card" href="./factions,-bloodlines--and--institutions/">
+      <img src="./assets/factions.webp" alt="" loading="lazy">
+      <div class="card__body">
+        <div class="card__num">III</div>
+        <h2>Factions &amp; Bloodlines</h2>
+        <p>The Guild Accord, the great houses, the orders and the bloodlines that rule them.</p>
+        <span class="card__go">Read on</span>
+      </div>
+    </a>
+    <a class="card" href="./the-bestiary/">
+      <img src="./assets/bestiary.webp" alt="" loading="lazy">
+      <div class="card__body">
+        <div class="card__num">IV</div>
+        <h2>The Bestiary</h2>
+        <p>Natural beasts, aberrations, summoned things, and the masked spawn of the Wells.</p>
+        <span class="card__go">Read on</span>
+      </div>
+    </a>
+    <a class="card" href="./cosmology--and--metaphysics/">
+      <img src="./assets/cosmology.webp" alt="" loading="lazy">
+      <div class="card__body">
+        <div class="card__num">V</div>
+        <h2>Cosmology</h2>
+        <p>The three planes, the Archons and the Titans, the Veil, and the faiths that argue over them.</p>
+        <span class="card__go">Read on</span>
+      </div>
+    </a>
+    <a class="card" href="./geography--and--the-four-quarters/">
+      <img src="./assets/geography.webp" alt="" loading="lazy">
+      <div class="card__body">
+        <div class="card__num">VI</div>
+        <h2>Geography</h2>
+        <p>The four quarters, the frozen north and the Seat, the roads, the coin and the news that travels them.</p>
+        <span class="card__go">Read on</span>
+      </div>
+    </a>
+  </section>
+
+  <div class="rule">Quick Roads</div>
+  <section class="links" aria-label="Quick links">
+    <a class="link" href="./the-magic-system/the-measures-at-a-glance"><b>The Measures</b><span>Level, Stage, Grade at a glance</span></a>
+    <a class="link" href="./who's-who,-the-starting-threads"><b>Who's Who</b><span>The starting threads</span></a>
+    <a class="link" href="./factions,-bloodlines--and--institutions/factions-at-a-glance"><b>Factions at a Glance</b><span>Who wants what</span></a>
+    <a class="link" href="./the-magic-system/release-forms"><b>Release Forms</b><span>First, Second, Third</span></a>
+    <a class="link" href="./a-reader's-codex"><b>Glossary</b><span>A Reader's Codex</span></a>
+    <a class="link" href="./lore--and--history/"><b>Lore &amp; History</b><span>The ages and the codices</span></a>
+    <a class="link" href="./materials,-alchemy--and--trade/"><b>Alchemy &amp; Trade</b><span>Drafts, materials, coin</span></a>
+    <a class="link" href="./every-page"><b>Every Page</b><span>The full index</span></a>
+  </section>
+</main>
+
+<footer>
+  <div class="mark">◆ WAR OF THE REALMS ◆</div>
+  The world moves whether or not you are looking at it.
+</footer>
+
+<script>
+  (function () {
+    if (matchMedia("(prefers-reduced-motion: reduce)").matches) return;
+    var box = document.querySelector(".embers");
+    for (var i = 0; i < 28; i++) {
+      var s = document.createElement("span");
+      s.style.left = (Math.random() * 100) + "%";
+      s.style.animationDuration = (9 + Math.random() * 12) + "s";
+      s.style.animationDelay = (-Math.random() * 20) + "s";
+      s.style.setProperty("--x", (Math.random() * 120 - 60) + "px");
+      var k = 1.5 + Math.random() * 2.5;
+      s.style.width = s.style.height = k + "px";
+      box.appendChild(s);
+    }
+  })();
+</script>
+</body>
+</html>

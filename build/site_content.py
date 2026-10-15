@@ -39,13 +39,12 @@ def main(out: Path) -> None:
         (out / rel).parent.mkdir(parents=True, exist_ok=True)
         text = re.sub(r"\[\[([^\]|#]+)(?:#[^\]|]*)?(?:\|([^\]]+))?\]\]", unlink, (WIKI / rel).read_text(encoding="utf-8"))
         (out / rel).write_text(text, encoding="utf-8")
-    lines = ["---", "title: War of the Realms", "---", ""]
-    start = WIKI / "Start Here.md"
-    if start.exists():
-        lines += [re.sub(r"(?s)^---.*?---\n", "", (out / "Start Here.md").read_text(encoding="utf-8")).strip(), "", "# Every page", ""]
+    lines = ["---", "title: Every Page", "---", "", "Every page on the public wiki, by section.", ""]
     for section in sorted(kept):
         lines += [f"## {section}", ""] + [f"- [[{r}|{r.split('/')[-1]}]]" for r in kept[section]] + [""]
-    (out / "index.md").write_text("\n".join(lines), encoding="utf-8")
+    (out / "Every Page.md").write_text("\n".join(lines), encoding="utf-8")
+    # the site's front page is site/landing.html, laid over Quartz's index after the build
+    (out / "index.md").write_text("---\ntitle: War of the Realms\n---\n\n[[Start Here]] · [[Every Page]]\n", encoding="utf-8")
     print(f"{sum(map(len, kept.values()))} public pages -> {out}")
 
 

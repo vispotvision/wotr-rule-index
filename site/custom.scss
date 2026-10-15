@@ -1,0 +1,133 @@
+@use "./variables.scss" as *;
+
+// War of the Realms: ink and gold, Garamond headings (the house style of the WOTR documents).
+
+:root {
+  --wotr-gold: var(--secondary);
+}
+
+body {
+  font-size: 1.12rem;
+  line-height: 1.7;
+}
+
+:root[saved-theme="dark"] body {
+  background:
+    radial-gradient(1200px 600px at 20% -10%, rgba(216, 171, 79, 0.07), transparent 60%),
+    radial-gradient(900px 500px at 110% 10%, rgba(120, 80, 200, 0.05), transparent 60%),
+    var(--light);
+}
+
+h1, h2, h3, h4, .page-title, .article-title {
+  font-family: var(--headerFont);
+  letter-spacing: 0.01em;
+}
+
+.page-title a {
+  color: var(--wotr-gold) !important;
+  font-weight: 600;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  font-size: 1.15rem;
+}
+
+article h1, .article-title {
+  color: var(--dark);
+  font-weight: 600;
+  font-size: 2.6rem;
+  line-height: 1.15;
+}
+
+article h2 {
+  color: var(--wotr-gold);
+  font-weight: 600;
+  font-size: 1.75rem;
+  margin-top: 2.4rem;
+  padding-bottom: 0.25rem;
+  border-bottom: 1px solid color-mix(in srgb, var(--wotr-gold) 35%, transparent);
+}
+
+article h3 {
+  color: var(--tertiary);
+  font-variant: small-caps;
+  letter-spacing: 0.04em;
+}
+
+a.internal, a.external {
+  color: var(--wotr-gold);
+  text-decoration: none;
+  border-bottom: 1px solid color-mix(in srgb, var(--wotr-gold) 30%, transparent);
+  background: none !important;
+  transition: border-color 0.15s ease, color 0.15s ease;
+}
+
+a.internal:hover, a.external:hover {
+  color: var(--tertiary);
+  border-bottom-color: var(--tertiary);
+}
+
+hr {
+  border: none;
+  height: 1.5rem;
+  margin: 2.5rem 0;
+  background:
+    linear-gradient(90deg, transparent, color-mix(in srgb, var(--wotr-gold) 55%, transparent), transparent) center / 100% 1px no-repeat;
+  position: relative;
+  overflow: visible;
+}
+
+hr::after {
+  content: "\25C6";
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -52%);
+  color: var(--wotr-gold);
+  background: var(--light);
+  padding: 0 0.6rem;
+  font-size: 0.8rem;
+}
+
+blockquote {
+  border-left: 3px solid var(--wotr-gold);
+  background: color-mix(in srgb, var(--wotr-gold) 6%, transparent);
+  padding: 0.4rem 1.1rem;
+  border-radius: 0 6px 6px 0;
+  font-style: italic;
+}
+
+.table-container table {
+  border-collapse: collapse;
+  font-size: 0.98rem;
+}
+
+.table-container th {
+  font-family: var(--headerFont);
+  font-size: 1.05rem;
+  color: var(--wotr-gold);
+  border-bottom: 2px solid color-mix(in srgb, var(--wotr-gold) 60%, transparent);
+}
+
+.table-container td {
+  border-bottom: 1px solid var(--lightgray);
+  line-height: 1.45;
+  vertical-align: top;
+  padding: 0.55rem 0.7rem;
+}
+
+.table-container tr:hover td {
+  background: var(--highlight);
+}
+
+article img {
+  border-radius: 10px;
+  box-shadow: 0 12px 40px rgba(0, 0, 0, 0.45);
+}
+
+.callout {
+  border-radius: 8px;
+}
+
+::selection {
+  background: var(--textHighlight);
+}

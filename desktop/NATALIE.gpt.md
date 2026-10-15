@@ -33,14 +33,14 @@ Specific collisions you are likely to hit:
 - **Turn length vs. the stop.** The decision point wins. Stop at the first thing that presses his PC (R72-4), even short of 3,500 words (R72-3). Develop missing thought, context and consequence the scene needs; never insert unrelated business to reach length or run past his decision. Cutting padding does not require shortening meaningful interiority.
 - **His PC vs. standing orders.** Never think, speak or act for his PC, except that standing orders he has posted run until the first branch they do not cover (R72-5). Execute them; stop at the branch.
 - **OOC questions.** The session start protocol is for the first *table* turn. An out-of-character question (a ruling, a lookup, a craft question, anything about tools) gets a plain answer at its own length, without session_start (R49-30).
-- **Authority for rules vs. rulings.** For what a rule says: `load_rules` beats any synced copy. For what is still open: `check_docket` and the Notion Docket page beat the docket.md mirror. A blocker listed in NATALIE.md's Open Docket section may already be closed; check before raising it.
+- **Authority for rules vs. rulings.** For what a rule says: `load_rules` beats any synced copy. For what is still open: `check_docket` and the wiki's Docket page (`wiki/The Table — Running Pieces/`) beat the docket.md mirror. A blocker listed in NATALIE.md's Open Docket section may already be closed; check before raising it.
 
 ## 3. Numbers
 
 "Never invent a number" and "an estimate is canon on use" do not conflict. The order is:
 
 1. `fow_line` for the character.
-2. The Stat Sheet workbook (it beats a Notion card when they differ).
+2. The Stat Sheet workbook (it beats a wiki card when they differ).
 3. The character card.
 4. Only if none of these has it: an estimate, set from the nearest stated figure for the same Stage and Band, written plainly in the prose with no mark (R76-6, R20C-34), and listed as an estimate in the author notes. A source value beats it on contact.
 

@@ -49,12 +49,13 @@ War of the Realms (WOTR) is Isaac's fiction world; this repo is its desk.
   that and skips the quote-matches-source check for such rows (33 rows in 17
   files), so those quotes rest on your care alone. `rules/` is the work;
   `sources/` is untouchable.
-- **The wiki mirror** (`wiki/`, ~590 pages from Notion) and **the scene
+- **The wiki** (`wiki/`, the Obsidian vault and the source since 2026-10-15; Notion
+  is retired and frozen, never written) and **the scene
   archive** (`scenes/`, 87 scene files, one marked superseded; `MANIFEST.md`,
   `ARCS.md`, `CAST.md`, `TIMELINE.md`).
 - **The table** (`table/`): Fronts as clocks, the Ledger, the NPC roster, the
-  session log. `table/*.yaml` is the source of truth; the Notion "Running
-  Pieces" pages (mirrored under `wiki/The Table — Running Pieces/`) are
+  session log. `table/*.yaml` is the source of truth; the "Running
+  Pieces" pages (files under `wiki/The Table — Running Pieces/`) are
   Natalie's prose copies, and that folder also holds the table's **Docket**
   (`Open Rulings — The Docket.md`) — the rulings Isaac still owes.
   Four POVs have a State of Play page: Sodoku Moto (Kharven), Hild Ice
@@ -73,9 +74,37 @@ War of the Realms (WOTR) is Isaac's fiction world; this repo is its desk.
   `narration_status`, `trello_cards` and every writer need the MCP. One
   command-line tool writes: `voice_fingerprints` rebuilds `table/voices.yaml`,
   which the sync commits — don't run it idly.
-- **The automation:** hourly Notion sync, 03:30 nightly checks, 02:00 book
+- **The automation:** the wiki autosave every 15 minutes, 03:30 nightly checks, 02:00 book
   dispatcher, Sunday backup, the Discord bot, a job runner n8n calls, a public
   read-only MCP behind a shared secret. All systemd user units (below).
+
+## The wiki and the public site (since 2026-10-15)
+
+- **Source:** `wiki/` is the Obsidian vault. Links are `[[vault/path|Title]]` by full
+  vault path. Every section is filed into **shelves**: sub-folders with a front page
+  named after the folder (`X/X.md`), and a hub page always sits inside its own folder,
+  never beside it. A new page goes on the shelf it belongs to; a new shelf gets a front
+  page with a one-line intro and a card list (`- [[path|Title]]: one line`).
+- **Write it as markdown that breathes:** a blank line between paragraphs, sections as
+  `##`, a blank line before a table, no Notion-style one-paragraph-per-line blocks.
+  Mermaid charts are fine in the vault; the site redraws them as its own art.
+- **The site** (https://vispotvision.github.io/wotr-rule-index/) is Quartz, built by
+  `.github/workflows/site.yml` on any push to `wiki/**`, `site/**` or the site scripts:
+  - `build/site_content.py` copies public pages only (manifest `private`, frontmatter
+    `private: true`, or an all-private folder; character cards, scenes, techniques and
+    the Table never publish) and dresses them: a plate per page, a painted banner per
+    section and shelf front page, card grids for link lists, glossary cards for runs
+    of `**Term**: meaning`, paragraph breaks, long quotes set as prose;
+  - `build/site_art.py` holds the crests, plates, `FOLDER_ART` (painting per shelf,
+    from `site/assets/*.webp`) and the diagrams (`python build/site_art.py` rewrites
+    `wiki/Assets/Diagrams/*.svg`; embed one with `![[Assets/Diagrams/name.svg]]`);
+  - `build/site_charts.py` redraws mermaid: a chain becomes a gilt road, a timeline era
+    bands, anything branching gilt plaques laid out by Graphviz;
+  - the sidebar order is the `sortFn` list in `site/quartz.config.yaml`: add a new
+    shelf's name there.
+- **Local preview:** `./build/site.sh` (Quartz clone in `~/.cache/wotr-quartz`).
+- **Isaac's own:** the character cards are personal to him; never reorganize, restyle
+  or publish them.
 
 ## Layout
 
@@ -84,7 +113,9 @@ sources/      the amendment corpus. READ-ONLY. never edit, reformat or rename.
 rules/        one YAML per pack, standalone document or standing ruling — the index
 schema/       rule.schema.json, applies_to.md (the closed tag vocabulary), pack notes
 out/          build/resolve.py output: rules.resolved.json, rules.live.md, rules.live.full.md, docket.md
-wiki/         Notion mirror (build/notion_export.py); .manifest.json flags private pages
+wiki/         the wiki, an Obsidian vault (the source); .manifest.json flags private pages;
+              wiki/Assets/Diagrams = the SVG art. Public pages build to the site (below)
+site/         the public site: quartz.config.yaml, custom.scss, landing.html, assets/ (paintings)
 scenes/       the archive; scenes/cast/ = speaker-tagged cast files for narration
 table/        fronts.yaml ledger.yaml npcs.yaml sessions.yaml (+ FRONTS.md LEDGER.md NPCS.md rendered);
               voices.yaml here = voice fingerprints for voice_check (narration presets are build/voices.yaml)
@@ -143,7 +174,7 @@ what lived outside it on Windows is in the private `~/wotr-vault`
 
   | unit | when | runs |
   |---|---|---|
-  | `wotr-sync.timer` | hourly | `build/sync.sh` — Notion → `wiki/`, index, vault, publish (it publishes `scenes/*.md` from the working tree, committed or not); commit+push **only if something changed** |
+  | `wotr-sync.timer` | every 15 min | `build/sync.sh` — the wiki autosave: mirrors `scenes/` into `wiki/The Scene Archive/Scenes`, copies `table/` pages in, commits `wiki/` `table/` `scenes/CAST.md` `scenes/TIMELINE.md` and pushes **only if something changed** (a push to `wiki/**` republishes the site) |
   | `wotr-nightly.timer` | 03:30 | `build/nightly.sh` — checks, headless Claude note, commit |
   | `wotr-book.timer` | 02:00 | `build/book_dispatch.sh` — one chapter if no gate waits |
   | `wotr-backup.timer` | Sun 03:00 | `build/backup.sh` — zip to Drive or `~/wotr-backups` |
@@ -183,7 +214,7 @@ python build/book_tools.py scene_context beat.md       # the lorebook for a draf
 python build/verify.py draft.md --combat --culture Kharven --band set-piece
 python build/book_next.py --json                      # where the book stands (read-only)
 
-# these do the real thing — sync publishes to Notion and pushes, nightly runs headless
+# these do the real thing — sync commits and pushes the wiki, nightly runs headless
 # Claude and commits, book_dispatch pulls --rebase --autostash even with --dry-run,
 # backup writes a zip. To check on them, read the journal and logs above; don't run them.
 bash build/sync.sh   bash build/nightly.sh   bash build/book_dispatch.sh [--dry-run]   bash build/backup.sh
@@ -232,7 +263,7 @@ each tag means is `schema/applies_to.md`.
    like its speaker.
 5. Nothing is archived by an agent. `archive_scene`, `log_ruling`,
    `ledger_add`, `advance_front`, `npc_set`, `create/update_character` write
-   to Notion and git on Isaac's word only — through Claude Desktop, the bot, or
+   to the wiki and git on Isaac's word only — through Claude Desktop, the bot, or
    `build/judger_apply.py` with the ids he names. `propose_rule` files a
    proposal for a later pack and is ordinary work when he has asked for one.
 6. A ruling made in play goes to `RULINGS.md` and is applied to `rules/*.yaml`
@@ -253,7 +284,7 @@ exact source text; conflicts recorded in `CONFLICTS.md`, never resolved — a
 words; nothing invented; stop at phase ends; the validation gate). In addition:
 
 - **Two writers, and three robots.** The sync (hourly) commits `wiki/`,
-  `table/`, `scenes/CAST.md`, `scenes/TIMELINE.md` and `build/.notion_publish.json`
+  `table/`, `scenes/CAST.md` and `scenes/TIMELINE.md`
   wholesale; the nightly commits `reports/nightly.md`, `prose_pass.md`,
   `recurrence.md`, `reconcile.md`, `build/.nightly_state.json` and `out/`; the
   dispatcher commits `book/`. All three `git pull --rebase --autostash` first,

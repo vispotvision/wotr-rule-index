@@ -27,6 +27,35 @@ not private chat histories or a model's internal memory.
 
 ## Durable notes
 
+### 2026-10-15 — The wiki left Notion; it is the Obsidian vault, published as a designed site (Isaac's decisions; recorded by Claude Code)
+
+Isaac's decisions: Notion hit its free block limit and he would not pay, so the wiki
+moved to Obsidian + Quartz the same day. `wiki/` in this repo is the source and the
+vault; Notion is retired and frozen and is never written again. The public site is
+https://vispotvision.github.io/wotr-rule-index/ (every page except the Author's
+Workroom and anything private), rebuilt on each push to `wiki/**`. He asked for it to
+be beautiful and in order, and checked it section by section: every page has art
+(plates, painted banners, SVG diagrams), mermaid charts are redrawn as art on the site,
+every section is filed into shelves, tables and spacing were reworked. The character
+cards are personal to him: never reorganize, restyle or publish them.
+
+Working facts for any agent (evidence: `AGENTS.md` "The wiki and the public site",
+`build/site_content.py`, `build/site_art.py`, `build/site_charts.py`):
+- Write wiki pages with `wiki_write`, `create_character`, `update_character`,
+  `archive_scene`; links are `[[full/vault/path|Title]]`.
+- Shelves: a section's pages sit in sub-folders, each with its own front page
+  `X/X.md`; a hub page lives inside its folder. New pages go on their shelf; a new
+  shelf gets a front page and a name in the sidebar `sortFn` list
+  (`site/quartz.config.yaml`).
+- Markdown: a blank line between paragraphs, sections as `##`, a blank line before a
+  table. The Notion export wrote one paragraph per line without blank lines, which the
+  site ran together; that was fixed in 603 pages and the build now adds the breaks.
+- Art: diagrams are `wiki/Assets/Diagrams/*.svg` from `build/site_art.py`, embedded
+  with `![[Assets/Diagrams/name.svg]]`; paintings for shelves are ChatGPT images in
+  `site/assets/*.webp`, mapped in `FOLDER_ART`.
+- The autosave (`wotr-sync.timer`, every 15 minutes) commits and pushes `wiki/`.
+
+
 ### 2026-10-13 — Vocabulary bank, modern science, conflicts ruled (Isaac's directions; recorded by Claude Code)
 
 Isaac's decisions: (1) vocabulary is pushed high, and his 2026-10-11 direction is

@@ -7,7 +7,7 @@ description: How Claude and ChatGPT share War of the Realms work, including imag
 
 Isaac pays for both, and both reach the same WOTR MCP. ChatGPT connects through the public
 address, which serves the full tool set behind the shared secret, so it reads and saves
-exactly as a Claude session does: same rules, same table, same repo, same Notion. Neither
+exactly as a Claude session does: same rules, same table, same repo, same wiki (`wiki/`, the Obsidian vault; Notion is retired). Neither
 side redoes a write the other made; `session_start`, `due` and `git log` show what is done.
 
 Spend each plan on what it is good at. Claude: the table, finished prose, code, session

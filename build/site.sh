@@ -12,4 +12,4 @@ cd "$Q"
 npx quartz plugin install
 if [ "${1:-}" = "--serve" ]; then npx quartz build "$@"; exit; fi
 npx quartz build "$@"
-cp "$ROOT/site/landing.html" public/index.html && cp -r "$ROOT/site/assets" public/
+cp "$ROOT/site/landing.html" public/index.html && cp "$ROOT/site/404.html" public/404.html && cp -r "$ROOT/site/assets" public/

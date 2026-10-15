@@ -41,7 +41,7 @@ jobs:
           npx quartz plugin install
           npx quartz build
       - name: Front page and art
-        run: cp site/landing.html quartz-src/public/index.html && cp -r site/assets quartz-src/public/
+        run: cp site/landing.html quartz-src/public/index.html && cp site/404.html quartz-src/public/404.html && cp -r site/assets quartz-src/public/
       - uses: actions/upload-pages-artifact@v3
         with:
           path: quartz-src/public

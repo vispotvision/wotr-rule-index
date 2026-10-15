@@ -66,6 +66,15 @@ def onerow(m) -> str:
     return f'\n<div class="wotr-panes">\n\n{blocks}</div>\n\n'
 
 
+def glossary(m) -> str:
+    """Short definitions become a grid of small cards; long ones stay as paragraphs."""
+    entries = [e for e in m.group(1).strip().split("\n") if e.strip()]
+    if sum(map(len, entries)) / len(entries) > 320:
+        return m.group(0)
+    return ('<div class="wotr-glossary">\n\n' + re.sub(r"(?m)^(\*\*[^*\n]+\*\*)\s*[:—–·-]\s*", r"\1 ", m.group(1).strip())
+            + "\n\n</div>\n\n")
+
+
 def cards(m) -> str:
     """A run of link items becomes a grid of cards; the words after "link:" are the card's line."""
     items = re.sub(r"(?m)^(- \[\[[^\]]*\]\]):\s*(.+)$", r'\1 <span class="wd">\2</span>', m.group(1).rstrip("\n"))
@@ -94,8 +103,8 @@ def dress(rel: str, text: str) -> str:
                   lambda m: '\n\n<figure class="wotr-figure">' + re.sub(r"<svg ", '<svg class="wotr-diagram" role="img" ', pin_fill((WIKI / f"Assets/Diagrams/{m.group(1)}.svg").read_text(encoding="utf-8")), count=1) + "</figure>\n\n", body)
     body = re.sub(r"(?ms)^```mermaid\n(.*?)^```[ \t]*$", lambda m: "\n\n" + pin_fill(chart(m.group(1), rel) or m.group(0)) + "\n\n", body)
     body = re.sub(r"(?m)((?:^- \[\[[^\n]*\n?){2,})", cards, body)
-    body = re.sub(r"(?m)((?:^\*\*[^*\n]{1,60}\*\*\s*[:—–-][^\n]+\n\n?){4,})",  # a run of "**Term**: meaning" lines
-                  lambda m: '<div class="wotr-glossary">\n\n' + re.sub(r"(?m)^(\*\*[^*\n]+\*\*)\s*[:—–-]\s*", r"\1 ", m.group(1).strip()) + "\n\n</div>\n\n", body)
+    body = re.sub(r"(?m)((?:^\*\*[^*\n]{1,60}\*\*\s*[:—–·-][^\n]+\n\n?){4,})",  # a run of "**Term**: meaning" lines
+                  glossary, body)
     # a divider straight before a heading doubles the heading's own rule
     body = re.sub(r"(?m)^(?:---|\*\*\*|___)[ \t]*\n\s*\n(?=#{2,3} )", "", body)
     # a line that is wholly bold is a lead-in: set it as one

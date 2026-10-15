@@ -167,10 +167,10 @@ Every one of the hundred and thirty-six attested glyphs belongs to an Archon bec
 ## The Pantheon in Full
 
 Each Archon's Domain, Celestial Form, Glyphs, Divine Edict, magic, and web of relation, arranged by the tension each pair holds open.
-- [[Cosmology & Metaphysics/The Fourteen Archons/The Primordial Dyad — Order and Chaos]]
-- [[Cosmology & Metaphysics/The Fourteen Archons/Pair I — Form Against Time]]
-- [[Cosmology & Metaphysics/The Fourteen Archons/Pair II — Memory Against Horizon]]
-- [[Cosmology & Metaphysics/The Fourteen Archons/Pair III — Will Against Desire]]
-- [[Cosmology & Metaphysics/The Fourteen Archons/Pair IV — Insight Against Dream]]
-- [[Cosmology & Metaphysics/The Fourteen Archons/Pair V — Motion Against Stillness]]
-- [[Cosmology & Metaphysics/The Fourteen Archons/Pair VI — Harmony and Renewal]]
+- [[Cosmology & Metaphysics/Faith and the Powers Above/The Fourteen Archons/The Primordial Dyad — Order and Chaos]]
+- [[Cosmology & Metaphysics/Faith and the Powers Above/The Fourteen Archons/Pair I — Form Against Time]]
+- [[Cosmology & Metaphysics/Faith and the Powers Above/The Fourteen Archons/Pair II — Memory Against Horizon]]
+- [[Cosmology & Metaphysics/Faith and the Powers Above/The Fourteen Archons/Pair III — Will Against Desire]]
+- [[Cosmology & Metaphysics/Faith and the Powers Above/The Fourteen Archons/Pair IV — Insight Against Dream]]
+- [[Cosmology & Metaphysics/Faith and the Powers Above/The Fourteen Archons/Pair V — Motion Against Stillness]]
+- [[Cosmology & Metaphysics/Faith and the Powers Above/The Fourteen Archons/Pair VI — Harmony and Renewal]]

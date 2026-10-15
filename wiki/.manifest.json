@@ -12,7 +12,7 @@
     "private": true
   },
   "3d758200-eb22-816c-be55-d46eabfa4f7b": {
-    "rel": "The War Cycle/The Fisc — Paying for a Siege.md",
+    "rel": "The War Cycle/The Army/The Fisc — Paying for a Siege.md",
     "edited": "2026-09-10T11:13:00.000Z",
     "title": "The Fisc — Paying for a Siege"
   },
@@ -27,17 +27,17 @@
     "title": "The Articles of the Accord, and the Kinds of Polity"
   },
   "3d758200-eb22-81c5-8da5-c6f7571cfd0a": {
-    "rel": "Materials, Alchemy & Trade/Weight, Measure and the Standard.md",
+    "rel": "Materials, Alchemy & Trade/Work, Trade and Measure/Weight, Measure and the Standard.md",
     "edited": "2026-09-26T10:17:00.000Z",
     "title": "Weight, Measure and the Standard"
   },
   "3d758200-eb22-8142-aedc-da580fdf8c04": {
-    "rel": "Cosmology & Metaphysics/The Faiths of the Four Quarters.md",
+    "rel": "Cosmology & Metaphysics/Faith and the Powers Above/The Faiths of the Four Quarters.md",
     "edited": "2026-09-26T10:16:00.000Z",
     "title": "The Faiths of the Four Quarters"
   },
   "3d758200-eb22-81c6-b5ae-caad3cabfbb6": {
-    "rel": "Cosmology & Metaphysics/The Sky, the Hour and the Year.md",
+    "rel": "Cosmology & Metaphysics/Ages and Reckoning/The Sky, the Hour and the Year.md",
     "edited": "2026-09-28T08:17:00.000Z",
     "title": "The Sky, the Hour and the Year"
   },
@@ -210,27 +210,27 @@
     "private": true
   },
   "3c758200-eb22-81fb-a0e8-ce042e2c2142": {
-    "rel": "Cosmology & Metaphysics/The Fourteen Titans/The Abyssal Depths — Prometheus, Zar'thuun, Vohrin.md",
+    "rel": "Cosmology & Metaphysics/Faith and the Powers Above/The Fourteen Titans/The Abyssal Depths — Prometheus, Zar'thuun, Vohrin.md",
     "edited": "2026-09-12T18:54:00.000Z",
     "title": "The Abyssal Depths — Prometheus, Zar'thuun, Vohrin"
   },
   "3c758200-eb22-8107-ad02-f82db3f76b17": {
-    "rel": "Cosmology & Metaphysics/The Fourteen Titans/The Strata — Valmir, Kaldrion, Chronaeus.md",
+    "rel": "Cosmology & Metaphysics/Faith and the Powers Above/The Fourteen Titans/The Strata — Valmir, Kaldrion, Chronaeus.md",
     "edited": "2026-08-25T23:35:00.000Z",
     "title": "The Strata — Valmir, Kaldrion, Chronaeus"
   },
   "3c758200-eb22-81f8-b77d-ff56d9e41528": {
-    "rel": "Cosmology & Metaphysics/The Fourteen Titans/The Spiritual Seat — Omnis, Florwyn, Dazkar, Nysera, Sylorin, Ilgrimm.md",
+    "rel": "Cosmology & Metaphysics/Faith and the Powers Above/The Fourteen Titans/The Spiritual Seat — Omnis, Florwyn, Dazkar, Nysera, Sylorin, Ilgrimm.md",
     "edited": "2026-10-11T20:02:00.000Z",
     "title": "The Spiritual Seat — Omnis, Florwyn, Dazkar, Nysera, Sylorin, Ilgrimm"
   },
   "3c758200-eb22-81d7-9d43-c8cdd791882b": {
-    "rel": "Cosmology & Metaphysics/The Fourteen Titans/The Physical Order — Atla'zon and Gaia.md",
+    "rel": "Cosmology & Metaphysics/Faith and the Powers Above/The Fourteen Titans/The Physical Order — Atla'zon and Gaia.md",
     "edited": "2026-08-25T23:34:00.000Z",
     "title": "The Physical Order — Atla'zon and Gaia"
   },
   "3c758200-eb22-812a-9700-ca5c46807dd8": {
-    "rel": "Cosmology & Metaphysics/The Fourteen Titans/The Fourteen Titans.md",
+    "rel": "Cosmology & Metaphysics/Faith and the Powers Above/The Fourteen Titans/The Fourteen Titans.md",
     "edited": "2026-10-11T20:09:00.000Z",
     "title": "The Fourteen Titans"
   },
@@ -256,13 +256,13 @@
     "private": true
   },
   "3be58200-eb22-812a-ab29-e5590a909077": {
-    "rel": "The Disciplines/The Spirit Summoning Arts/The Twelve Stages of Spirit Infusion.md",
+    "rel": "The Disciplines/Schools and Bloodline Arts/The Spirit Summoning Arts/The Twelve Stages of Spirit Infusion.md",
     "edited": "2026-08-16T17:47:00.000Z",
     "title": "The Twelve Stages of Spirit Infusion",
     "private": true
   },
   "3be58200-eb22-81ae-b032-e03e5ebba791": {
-    "rel": "The Disciplines/The Spirit Summoning Arts/The Infinite Summoning Arts.md",
+    "rel": "The Disciplines/Schools and Bloodline Arts/The Spirit Summoning Arts/The Infinite Summoning Arts.md",
     "edited": "2026-09-11T04:47:00.000Z",
     "title": "The Infinite Summoning Arts",
     "private": true
@@ -971,7 +971,7 @@
     "private": true
   },
   "3bc58200-eb22-81c9-8a85-e32caf0235ed": {
-    "rel": "Materials, Alchemy & Trade/The Apparatus of the Age — Equipment and Material Culture/The Apparatus of the Age — Equipment and Material Culture.md",
+    "rel": "Materials, Alchemy & Trade/Work, Trade and Measure/The Apparatus of the Age — Equipment and Material Culture/The Apparatus of the Age — Equipment and Material Culture.md",
     "edited": "2026-10-14T00:19:00.000Z",
     "title": "The Apparatus of the Age — Equipment and Material Culture"
   },
@@ -981,7 +981,7 @@
     "title": "The Standing and the Title — The Three Names"
   },
   "3bc58200-eb22-81e1-8a0d-f4a5ba6abe03": {
-    "rel": "Materials, Alchemy & Trade/The Works and Days — Occupations, Trades and Technology.md",
+    "rel": "Materials, Alchemy & Trade/Work, Trade and Measure/The Works and Days — Occupations, Trades and Technology.md",
     "edited": "2026-09-26T14:17:00.000Z",
     "title": "The Works and Days — Occupations, Trades and Technology"
   },
@@ -1066,61 +1066,61 @@
     "title": "The Color of Essence"
   },
   "3bc58200-eb22-8154-84ae-d30384f2f29c": {
-    "rel": "The Disciplines/Asami and Gisei — The Two States of the Moto.md",
+    "rel": "The Disciplines/Schools and Bloodline Arts/Asami and Gisei — The Two States of the Moto.md",
     "edited": "2026-09-12T20:18:00.000Z",
     "title": "Asami and Gisei — The Two States of the Moto",
     "private": true
   },
   "3bc58200-eb22-8197-91ec-dcf027e55b16": {
-    "rel": "The Disciplines/Solution — The Mind That Solves Itself.md",
+    "rel": "The Disciplines/Named Arts/Solution — The Mind That Solves Itself.md",
     "edited": "2026-08-15T19:25:00.000Z",
     "title": "Solution — The Mind That Solves Itself",
     "private": true
   },
   "3bc58200-eb22-812d-af21-e114f767d961": {
-    "rel": "The Disciplines/Moetana — The Vessel of Life's Essence.md",
+    "rel": "The Disciplines/Named Arts/Moetana — The Vessel of Life's Essence.md",
     "edited": "2026-08-15T19:24:00.000Z",
     "title": "Moetana — The Vessel of Life's Essence",
     "private": true
   },
   "3bc58200-eb22-81fb-8b71-e5beb48191e6": {
-    "rel": "The Disciplines/The Iron Bison — A Discipline of Internal Resonance.md",
+    "rel": "The Disciplines/Named Arts/The Iron Bison — A Discipline of Internal Resonance.md",
     "edited": "2026-09-12T17:03:00.000Z",
     "title": "The Iron Bison — A Discipline of Internal Resonance",
     "private": true
   },
   "3bc58200-eb22-816f-8261-d15af9f6bf0c": {
-    "rel": "The Disciplines/Recarvu — The Body That Builds Over What It Cannot Fix.md",
+    "rel": "The Disciplines/Named Arts/Recarvu — The Body That Builds Over What It Cannot Fix.md",
     "edited": "2026-08-15T19:24:00.000Z",
     "title": "Recarvu — The Body That Builds Over What It Cannot Fix",
     "private": true
   },
   "3bc58200-eb22-81c1-8272-d0f117d56c5c": {
-    "rel": "The Disciplines/Rusashin — The Dust That Remembers What It Touched.md",
+    "rel": "The Disciplines/Named Arts/Rusashin — The Dust That Remembers What It Touched.md",
     "edited": "2026-09-12T17:04:00.000Z",
     "title": "Rusashin — The Dust That Remembers What It Touched",
     "private": true
   },
   "3bc58200-eb22-815c-954f-e6dd10ef0b7c": {
-    "rel": "The Disciplines/Talos — The Bronze That Empties the Room.md",
+    "rel": "The Disciplines/Named Arts/Talos — The Bronze That Empties the Room.md",
     "edited": "2026-08-15T19:24:00.000Z",
     "title": "Talos — The Bronze That Empties the Room",
     "private": true
   },
   "3bc58200-eb22-81ac-8c73-d85875585c93": {
-    "rel": "The Disciplines/Nadi — The Art of Doing More Than Once.md",
+    "rel": "The Disciplines/Named Arts/Nadi — The Art of Doing More Than Once.md",
     "edited": "2026-08-15T19:24:00.000Z",
     "title": "Nadi — The Art of Doing More Than Once",
     "private": true
   },
   "3bc58200-eb22-81cf-a998-ce07923d93c2": {
-    "rel": "The Disciplines/Ken — The Fist That Fights the Architecture.md",
+    "rel": "The Disciplines/Named Arts/Ken — The Fist That Fights the Architecture.md",
     "edited": "2026-09-12T17:04:00.000Z",
     "title": "Ken — The Fist That Fights the Architecture",
     "private": true
   },
   "3bc58200-eb22-81d8-8938-dba04d309c81": {
-    "rel": "The Disciplines/Ainigma — The Riddle Wearing a Face.md",
+    "rel": "The Disciplines/Named Arts/Ainigma — The Riddle Wearing a Face.md",
     "edited": "2026-08-14T21:46:00.000Z",
     "title": "Ainigma — The Riddle Wearing a Face",
     "private": true
@@ -1573,47 +1573,47 @@
     "private": true
   },
   "3b158200-eb22-8107-88df-f06567632401": {
-    "rel": "The War Cycle/The Runners.md",
+    "rel": "The War Cycle/The Wounded and the Dead/The Runners.md",
     "edited": "2026-08-03T21:59:00.000Z",
     "title": "The Runners"
   },
   "3b158200-eb22-8131-9932-f9a3e0520ebb": {
-    "rel": "The War Cycle/The Physician's Eye.md",
+    "rel": "The War Cycle/The Wounded and the Dead/The Physician's Eye.md",
     "edited": "2026-08-03T21:54:00.000Z",
     "title": "The Physician's Eye"
   },
   "3b158200-eb22-815d-a4ff-cde97898b520": {
-    "rel": "The War Cycle/The Long Illness.md",
+    "rel": "The War Cycle/The Wounded and the Dead/The Long Illness.md",
     "edited": "2026-08-03T21:54:00.000Z",
     "title": "The Long Illness"
   },
   "3b158200-eb22-8158-834e-d24276e6337d": {
-    "rel": "The War Cycle/The Crossing.md",
+    "rel": "The War Cycle/The Wounded and the Dead/The Crossing.md",
     "edited": "2026-09-28T08:26:00.000Z",
     "title": "The Crossing"
   },
   "3b158200-eb22-81a4-9dc7-ffca7cbec10d": {
-    "rel": "The War Cycle/The Rites.md",
+    "rel": "The War Cycle/The Wounded and the Dead/The Rites.md",
     "edited": "2026-09-28T08:27:00.000Z",
     "title": "The Rites"
   },
   "3b158200-eb22-8157-bfde-f021dc8afcb7": {
-    "rel": "The War Cycle/Sack and Contribution.md",
+    "rel": "The War Cycle/The Fighting/Sack and Contribution.md",
     "edited": "2026-08-03T21:49:00.000Z",
     "title": "Sack and Contribution"
   },
   "3b158200-eb22-81d6-b658-cd83c3e7cc2a": {
-    "rel": "The War Cycle/Walls and What Beats Them.md",
+    "rel": "The War Cycle/The Fighting/Walls and What Beats Them.md",
     "edited": "2026-08-03T21:49:00.000Z",
     "title": "Walls and What Beats Them"
   },
   "3b158200-eb22-814c-bf31-e610ff818b79": {
-    "rel": "The War Cycle/The Order of Battle.md",
+    "rel": "The War Cycle/The Army/The Order of Battle.md",
     "edited": "2026-09-27T19:50:00.000Z",
     "title": "The Order of Battle"
   },
   "3b158200-eb22-81dd-a775-c4ff3a4a3b37": {
-    "rel": "The War Cycle/The Long March.md",
+    "rel": "The War Cycle/The Army/The Long March.md",
     "edited": "2026-08-03T21:48:00.000Z",
     "title": "The Long March"
   },
@@ -1623,42 +1623,42 @@
     "title": "The War Cycle"
   },
   "3b158200-eb22-81f4-ad4c-fc6b675301f0": {
-    "rel": "Materials, Alchemy & Trade/The Heresiology of Alchemy.md",
+    "rel": "Materials, Alchemy & Trade/Alchemy/The Heresiology of Alchemy.md",
     "edited": "2026-09-10T11:20:00.000Z",
     "title": "The Heresiology of Alchemy"
   },
   "3b158200-eb22-8140-a871-e823c3f36d89": {
-    "rel": "Materials, Alchemy & Trade/Alchemetrica.md",
+    "rel": "Materials, Alchemy & Trade/Alchemy/Alchemetrica.md",
     "edited": "2026-10-14T00:32:00.000Z",
     "title": "Alchemetrica"
   },
   "3b158200-eb22-8188-a6bd-ead4d9acd561": {
-    "rel": "Materials, Alchemy & Trade/Hide, Horn and Bone.md",
+    "rel": "Materials, Alchemy & Trade/Materials/Hide, Horn and Bone.md",
     "edited": "2026-09-12T18:52:00.000Z",
     "title": "Hide, Horn and Bone"
   },
   "3b158200-eb22-81b2-99b3-c0129c3c7d55": {
-    "rel": "Materials, Alchemy & Trade/The Standing Index.md",
+    "rel": "Materials, Alchemy & Trade/Alchemy/The Standing Index.md",
     "edited": "2026-09-23T23:24:00.000Z",
     "title": "The Standing Index"
   },
   "3b158200-eb22-81eb-8ea1-cc9e6627f1f6": {
-    "rel": "Materials, Alchemy & Trade/The Master Material Ledger/The Alchemical Index.md",
+    "rel": "Materials, Alchemy & Trade/Materials/The Master Material Ledger/The Alchemical Index.md",
     "edited": "2026-10-14T00:18:00.000Z",
     "title": "The Alchemical Index"
   },
   "3b158200-eb22-81a9-ba7e-d9c6acba22e4": {
-    "rel": "Materials, Alchemy & Trade/The Master Material Ledger/The Material Index · T0–T4.md",
+    "rel": "Materials, Alchemy & Trade/Materials/The Master Material Ledger/The Material Index · T0–T4.md",
     "edited": "2026-09-12T20:05:00.000Z",
     "title": "The Material Index · T0–T4"
   },
   "3b158200-eb22-81ab-a443-e7e80d34db3d": {
-    "rel": "Materials, Alchemy & Trade/The Master Material Ledger/The Material Index · T5–T9.md",
+    "rel": "Materials, Alchemy & Trade/Materials/The Master Material Ledger/The Material Index · T5–T9.md",
     "edited": "2026-09-26T10:18:00.000Z",
     "title": "The Material Index · T5–T9"
   },
   "3b158200-eb22-81d2-b8bc-d16c232faebf": {
-    "rel": "Materials, Alchemy & Trade/The Master Material Ledger/The Master Material Ledger.md",
+    "rel": "Materials, Alchemy & Trade/Materials/The Master Material Ledger/The Master Material Ledger.md",
     "edited": "2026-09-23T22:17:00.000Z",
     "title": "The Master Material Ledger"
   },
@@ -1753,37 +1753,37 @@
     "title": "Factions, Bloodlines & Institutions"
   },
   "3b158200-eb22-8134-8458-c65ec40be6b0": {
-    "rel": "Races & Peoples/The Beastkin and Demihuman Peoples/The Five Beastkin Lineages.md",
+    "rel": "Races & Peoples/The Peoples/The Beastkin and Demihuman Peoples/The Five Beastkin Lineages.md",
     "edited": "2026-08-03T20:34:00.000Z",
     "title": "The Five Beastkin Lineages"
   },
   "3b158200-eb22-81b7-92e2-ea5bd678c155": {
-    "rel": "Races & Peoples/The Beastkin and Demihuman Peoples/The Beastkin and Demihuman Peoples.md",
+    "rel": "Races & Peoples/The Peoples/The Beastkin and Demihuman Peoples/The Beastkin and Demihuman Peoples.md",
     "edited": "2026-09-23T23:25:00.000Z",
     "title": "The Beastkin and Demihuman Peoples"
   },
   "3b158200-eb22-8118-abac-efe284857149": {
-    "rel": "Races & Peoples/The Goblinoid Peoples.md",
+    "rel": "Races & Peoples/The Peoples/The Goblinoid Peoples.md",
     "edited": "2026-09-27T19:51:00.000Z",
     "title": "The Goblinoid Peoples"
   },
   "3b158200-eb22-810d-8500-d903d817d0e6": {
-    "rel": "Races & Peoples/The Dawi Peoples/The Reach Dwarves.md",
+    "rel": "Races & Peoples/The Peoples/The Dawi Peoples/The Reach Dwarves.md",
     "edited": "2026-08-03T20:25:00.000Z",
     "title": "The Reach Dwarves"
   },
   "3b158200-eb22-81e4-98de-e9a64b07e69a": {
-    "rel": "Races & Peoples/The Dawi Peoples/The Dawi Peoples.md",
+    "rel": "Races & Peoples/The Peoples/The Dawi Peoples/The Dawi Peoples.md",
     "edited": "2026-08-03T20:24:00.000Z",
     "title": "The Dawi Peoples"
   },
   "3b158200-eb22-81a5-aa15-fc0f570e9b76": {
-    "rel": "Races & Peoples/The Elven Peoples/The High Empire of Eresse.md",
+    "rel": "Races & Peoples/The Peoples/The Elven Peoples/The High Empire of Eresse.md",
     "edited": "2026-09-26T09:08:00.000Z",
     "title": "The High Empire of Eresse"
   },
   "3b158200-eb22-8197-b0d0-f26f80eb9f1c": {
-    "rel": "Races & Peoples/The Elven Peoples/The Elven Peoples.md",
+    "rel": "Races & Peoples/The Peoples/The Elven Peoples/The Elven Peoples.md",
     "edited": "2026-09-12T20:02:00.000Z",
     "title": "The Elven Peoples"
   },
@@ -1833,61 +1833,61 @@
     "title": "Geography & the Four Quarters"
   },
   "3b158200-eb22-81a2-b8b0-d25b6aa62c92": {
-    "rel": "The Disciplines/The Open Crucible — Kwon Mu-jin's Book of Summons.md",
+    "rel": "The Disciplines/Named Arts/The Open Crucible — Kwon Mu-jin's Book of Summons.md",
     "edited": "2026-09-28T08:55:00.000Z",
     "title": "The Open Crucible — Kwon Mu-jin's Book of Summons",
     "private": true
   },
   "3b158200-eb22-81b2-9c76-dd02faf2f0bd": {
-    "rel": "The Disciplines/Matla.md",
+    "rel": "The Disciplines/Named Arts/Matla.md",
     "edited": "2026-09-12T20:21:00.000Z",
     "title": "Matla",
     "private": true
   },
   "3b158200-eb22-815e-8fe9-fb1a81cf3572": {
-    "rel": "The Disciplines/The Ketsumyōgan — The Binding Fate Eye.md",
+    "rel": "The Disciplines/Schools and Bloodline Arts/The Ketsumyōgan — The Binding Fate Eye.md",
     "edited": "2026-09-28T08:56:00.000Z",
     "title": "The Ketsumyōgan — The Binding Fate Eye",
     "private": true
   },
   "3b158200-eb22-81c3-a942-e7f2e6ae29b5": {
-    "rel": "The Disciplines/Kami no Kobushi — The God Fist.md",
+    "rel": "The Disciplines/Named Arts/Kami no Kobushi — The God Fist.md",
     "edited": "2026-09-28T08:56:00.000Z",
     "title": "Kami no Kobushi — The God Fist",
     "private": true
   },
   "3b158200-eb22-8181-8403-e3416fd5a83a": {
-    "rel": "The Disciplines/The Spirit Summoning Arts/The Spirit Summoning Arts.md",
+    "rel": "The Disciplines/Schools and Bloodline Arts/The Spirit Summoning Arts/The Spirit Summoning Arts.md",
     "edited": "2026-10-14T00:32:00.000Z",
     "title": "The Spirit Summoning Arts",
     "private": true
   },
   "3b158200-eb22-81db-9020-dc71b4a83e00": {
-    "rel": "The Disciplines/The Harmonic Arts.md",
+    "rel": "The Disciplines/Schools and Bloodline Arts/The Harmonic Arts.md",
     "edited": "2026-09-26T03:50:00.000Z",
     "title": "The Harmonic Arts",
     "private": true
   },
   "3b158200-eb22-8125-b16f-c6df559055a5": {
-    "rel": "The Disciplines/The Spirit Rune Arts.md",
+    "rel": "The Disciplines/Schools and Bloodline Arts/The Spirit Rune Arts.md",
     "edited": "2026-09-28T08:55:00.000Z",
     "title": "The Spirit Rune Arts",
     "private": true
   },
   "3b158200-eb22-8174-ad37-d0a4cf2dd7c4": {
-    "rel": "The Disciplines/The Sage Arts.md",
+    "rel": "The Disciplines/Schools and Bloodline Arts/The Sage Arts.md",
     "edited": "2026-08-03T04:42:00.000Z",
     "title": "The Sage Arts",
     "private": true
   },
   "3b158200-eb22-81eb-9d79-eade4ec8fd73": {
-    "rel": "The Disciplines/Hataraki — The Works of the Plane of Fate/Hataraki no Sho — The Martial Application of the Works.md",
+    "rel": "The Disciplines/Schools and Bloodline Arts/Hataraki — The Works of the Plane of Fate/Hataraki no Sho — The Martial Application of the Works.md",
     "edited": "2026-09-26T10:17:00.000Z",
     "title": "Hataraki no Sho — The Martial Application of the Works",
     "private": true
   },
   "3b158200-eb22-818b-856c-f6bf976d6d54": {
-    "rel": "The Disciplines/Hataraki — The Works of the Plane of Fate/Hataraki — The Works of the Plane of Fate.md",
+    "rel": "The Disciplines/Schools and Bloodline Arts/Hataraki — The Works of the Plane of Fate/Hataraki — The Works of the Plane of Fate.md",
     "edited": "2026-09-26T10:18:00.000Z",
     "title": "Hataraki — The Works of the Plane of Fate",
     "private": true
@@ -1964,82 +1964,82 @@
     "title": "The Magic System"
   },
   "3b158200-eb22-81b9-b0a5-df28f3676efe": {
-    "rel": "Cosmology & Metaphysics/The Crossing and the Making of the God Hand.md",
+    "rel": "Cosmology & Metaphysics/The Making of the World/The Crossing and the Making of the God Hand.md",
     "edited": "2026-09-10T11:16:00.000Z",
     "title": "The Crossing and the Making of the God Hand"
   },
   "3b158200-eb22-8182-8399-de287a92c776": {
-    "rel": "Cosmology & Metaphysics/The Four Ceilings.md",
+    "rel": "Cosmology & Metaphysics/Ages and Reckoning/The Four Ceilings.md",
     "edited": "2026-09-28T08:17:00.000Z",
     "title": "The Four Ceilings"
   },
   "3b158200-eb22-8160-88ff-d47381afb2f0": {
-    "rel": "Cosmology & Metaphysics/The Concordance of Ages.md",
+    "rel": "Cosmology & Metaphysics/Ages and Reckoning/The Concordance of Ages.md",
     "edited": "2026-09-28T08:15:00.000Z",
     "title": "The Concordance of Ages"
   },
   "3b158200-eb22-81fc-834d-d37caa50629f": {
-    "rel": "Cosmology & Metaphysics/Errata to the Received Registers.md",
+    "rel": "Cosmology & Metaphysics/Ages and Reckoning/Errata to the Received Registers.md",
     "edited": "2026-09-28T08:24:00.000Z",
     "title": "Errata to the Received Registers"
   },
   "3b158200-eb22-8182-a7d4-fc60542172c8": {
-    "rel": "Cosmology & Metaphysics/The Celestial Host.md",
+    "rel": "Cosmology & Metaphysics/Faith and the Powers Above/The Celestial Host.md",
     "edited": "2026-09-10T11:16:00.000Z",
     "title": "The Celestial Host"
   },
   "3b158200-eb22-818f-80cc-dbf06e137994": {
-    "rel": "Cosmology & Metaphysics/The Veil.md",
+    "rel": "Cosmology & Metaphysics/The Making of the World/The Veil.md",
     "edited": "2026-09-26T09:08:00.000Z",
     "title": "The Veil"
   },
   "3b158200-eb22-812f-a3b9-d313fe5b3c77": {
-    "rel": "Cosmology & Metaphysics/The Fourteen Archons/Pair VI — Harmony and Renewal.md",
+    "rel": "Cosmology & Metaphysics/Faith and the Powers Above/The Fourteen Archons/Pair VI — Harmony and Renewal.md",
     "edited": "2026-09-12T18:52:00.000Z",
     "title": "Pair VI — Harmony and Renewal"
   },
   "3b158200-eb22-81ac-bcd3-f088741ab22f": {
-    "rel": "Cosmology & Metaphysics/The Fourteen Archons/Pair V — Motion Against Stillness.md",
+    "rel": "Cosmology & Metaphysics/Faith and the Powers Above/The Fourteen Archons/Pair V — Motion Against Stillness.md",
     "edited": "2026-08-03T03:58:00.000Z",
     "title": "Pair V — Motion Against Stillness"
   },
   "3b158200-eb22-81dd-a3f9-c87b48b24dcc": {
-    "rel": "Cosmology & Metaphysics/The Fourteen Archons/Pair IV — Insight Against Dream.md",
+    "rel": "Cosmology & Metaphysics/Faith and the Powers Above/The Fourteen Archons/Pair IV — Insight Against Dream.md",
     "edited": "2026-08-03T03:58:00.000Z",
     "title": "Pair IV — Insight Against Dream"
   },
   "3b158200-eb22-8110-b2c7-d1c384576c3e": {
-    "rel": "Cosmology & Metaphysics/The Fourteen Archons/Pair III — Will Against Desire.md",
+    "rel": "Cosmology & Metaphysics/Faith and the Powers Above/The Fourteen Archons/Pair III — Will Against Desire.md",
     "edited": "2026-08-03T03:57:00.000Z",
     "title": "Pair III — Will Against Desire"
   },
   "3b158200-eb22-81b4-8f11-e392649c5724": {
-    "rel": "Cosmology & Metaphysics/The Fourteen Archons/Pair II — Memory Against Horizon.md",
+    "rel": "Cosmology & Metaphysics/Faith and the Powers Above/The Fourteen Archons/Pair II — Memory Against Horizon.md",
     "edited": "2026-08-03T03:57:00.000Z",
     "title": "Pair II — Memory Against Horizon"
   },
   "3b158200-eb22-8139-9622-f81cc747ccce": {
-    "rel": "Cosmology & Metaphysics/The Fourteen Archons/Pair I — Form Against Time.md",
+    "rel": "Cosmology & Metaphysics/Faith and the Powers Above/The Fourteen Archons/Pair I — Form Against Time.md",
     "edited": "2026-08-03T03:56:00.000Z",
     "title": "Pair I — Form Against Time"
   },
   "3b158200-eb22-813e-85a1-fd90fd07ee5c": {
-    "rel": "Cosmology & Metaphysics/The Fourteen Archons/The Primordial Dyad — Order and Chaos.md",
+    "rel": "Cosmology & Metaphysics/Faith and the Powers Above/The Fourteen Archons/The Primordial Dyad — Order and Chaos.md",
     "edited": "2026-08-03T03:56:00.000Z",
     "title": "The Primordial Dyad — Order and Chaos"
   },
   "3b158200-eb22-8107-b859-fc4937d5d8c8": {
-    "rel": "Cosmology & Metaphysics/The Fourteen Archons/The Fourteen Archons.md",
+    "rel": "Cosmology & Metaphysics/Faith and the Powers Above/The Fourteen Archons/The Fourteen Archons.md",
     "edited": "2026-09-10T11:16:00.000Z",
     "title": "The Fourteen Archons"
   },
   "3b158200-eb22-811d-89bf-c20348235b60": {
-    "rel": "Cosmology & Metaphysics/Omnara and the Division.md",
+    "rel": "Cosmology & Metaphysics/The Making of the World/Omnara and the Division.md",
     "edited": "2026-08-03T04:04:00.000Z",
     "title": "Omnara and the Division"
   },
   "3b158200-eb22-8130-8ae9-e10d3184b928": {
-    "rel": "Cosmology & Metaphysics/The Three Epochs.md",
+    "rel": "Cosmology & Metaphysics/The Making of the World/The Three Epochs.md",
     "edited": "2026-09-10T11:16:00.000Z",
     "title": "The Three Epochs"
   },
@@ -3346,7 +3346,7 @@
     "private": true
   },
   "3df58200-eb22-817f-a15e-de004a49168c": {
-    "rel": "Races & Peoples/The Ashkaru.md",
+    "rel": "Races & Peoples/The Peoples/The Ashkaru.md",
     "edited": "2026-09-18T20:50:00.000Z",
     "title": "The Ashkaru"
   },
@@ -3723,12 +3723,12 @@
     "private": true
   },
   "3e758200-eb22-8154-b0ca-f67e4b148e3b": {
-    "rel": "Materials, Alchemy & Trade/The Apparatus of the Age — Equipment and Material Culture/Shot and the Enhanced Weapon.md",
+    "rel": "Materials, Alchemy & Trade/Work, Trade and Measure/The Apparatus of the Age — Equipment and Material Culture/Shot and the Enhanced Weapon.md",
     "edited": "2026-09-26T01:08:00.000Z",
     "title": "Shot and the Enhanced Weapon"
   },
   "3e758200-eb22-81c2-8bec-fbebb63df331": {
-    "rel": "Materials, Alchemy & Trade/The Apparatus of the Age — Equipment and Material Culture/The Item Tiers.md",
+    "rel": "Materials, Alchemy & Trade/Work, Trade and Measure/The Apparatus of the Age — Equipment and Material Culture/The Item Tiers.md",
     "edited": "2026-09-26T01:09:00.000Z",
     "title": "The Item Tiers"
   },
@@ -3855,7 +3855,7 @@
     "private": true
   },
   "3e958200-eb22-8112-9e70-d4551eb3019f": {
-    "rel": "Materials, Alchemy & Trade/The Real Alchemy.md",
+    "rel": "Materials, Alchemy & Trade/Alchemy/The Real Alchemy.md",
     "edited": "2026-10-14T00:32:00.000Z",
     "title": "The Real Alchemy"
   },

@@ -19,10 +19,39 @@ WIKI = Path(__file__).resolve().parent.parent / "wiki"
 BASE = "/wotr-rule-index"
 
 
+NONPROSE = re.compile(r"(#|- |\* |\+ |\d+[.)] |\||>|```|~~~|!\[\[|<|---|\$\$|%%)")
+
+
+def breathe(body: str) -> str:
+    """Lines written one paragraph per line get the blank line markdown needs between them."""
+    out, fence = [], False
+    lines = body.split("\n")
+    for a, b in zip(lines, lines[1:] + [""]):
+        out.append(a)
+        if a.strip().startswith(("```", "~~~")):
+            fence = not fence
+        prose = lambda l: bool(l.strip()) and not NONPROSE.match(l.strip())
+        if not fence and prose(a) and prose(b) and not a.endswith(("  ", "\\")):
+            out.append("")
+        elif not fence and a.lstrip().startswith(">") and b.strip() and not b.lstrip().startswith(">"):
+            out.append("")  # a quote ends before whatever follows it
+    return "\n".join(out)
+
+
+def unquote(m) -> str:
+    """A quoted passage six paragraphs long is a section, not a quotation: set it as prose."""
+    block = m.group(0)
+    paras = [p for p in re.split(r"\n>\s*\n", block) if p.strip("> \n")]
+    if len(paras) < 6 or re.match(r">\s*\[!", block):
+        return block
+    out = re.sub(r"(?m)^>[ \t]?", "", block)
+    return re.sub(r"(?m)^\*\*([A-Z][A-Z0-9 ,'’·:—-]{3,})\*\*\s*$", lambda h: "### " + h.group(1).title().replace("’S", "’s").replace("'S", "'s"), out)
+
+
 def cards(m) -> str:
     """A run of link items becomes a grid of cards; the words after "link:" are the card's line."""
     items = re.sub(r"(?m)^(- \[\[[^\]]*\]\]):\s*(.+)$", r'\1 <span class="wd">\2</span>', m.group(1).rstrip("\n"))
-    return f'<div class="wotr-entries">\n\n{items}\n\n</div>\n'
+    return f'\n<div class="wotr-entries">\n\n{items}\n\n</div>\n\n'
 
 
 def dress(rel: str, text: str) -> str:
@@ -32,10 +61,11 @@ def dress(rel: str, text: str) -> str:
     t = re.search(r'(?m)^title:\s*"?(.*?)"?\s*$', head)
     stem = rel.rsplit("/", 1)[-1][:-3]
     title = t.group(1).replace('\\"', '"') if t else stem
-    body = re.sub(r"\A\s*# [^\n]*\n", "\n", body, count=1)
+    body = breathe(re.sub(r"\A\s*# [^\n]*\n", "\n", body, count=1))
+    body = re.sub(r"(?m)(?:^>.*\n?)+", unquote, body)
     body = re.sub(r"!\[\[Assets/Diagrams/([\w-]+)\.svg\]\]",  # inline, so the art draws in the site's own fonts
-                  lambda m: '<figure class="wotr-figure">' + re.sub(r"<svg ", '<svg class="wotr-diagram" role="img" ', (WIKI / f"Assets/Diagrams/{m.group(1)}.svg").read_text(encoding="utf-8"), count=1) + "</figure>", body)
-    body = re.sub(r"(?ms)^```mermaid\n(.*?)^```[ \t]*$", lambda m: "\n" + (chart(m.group(1), rel) or m.group(0)) + "\n", body)
+                  lambda m: '\n\n<figure class="wotr-figure">' + re.sub(r"<svg ", '<svg class="wotr-diagram" role="img" ', (WIKI / f"Assets/Diagrams/{m.group(1)}.svg").read_text(encoding="utf-8"), count=1) + "</figure>\n\n", body)
+    body = re.sub(r"(?ms)^```mermaid\n(.*?)^```[ \t]*$", lambda m: "\n\n" + (chart(m.group(1), rel) or m.group(0)) + "\n\n", body)
     body = re.sub(r"(?m)((?:^- \[\[[^\n]*\n?){2,})", cards, body)
     body = re.sub(r"(?m)((?:^\*\*[^*\n]{1,60}\*\*\s*[:—–-][^\n]+\n\n?){4,})",  # a run of "**Term**: meaning" lines
                   lambda m: '<div class="wotr-glossary">\n\n' + re.sub(r"(?m)^(\*\*[^*\n]+\*\*)\s*[:—–-]\s*", r"\1 ", m.group(1).strip()) + "\n\n</div>\n\n", body)

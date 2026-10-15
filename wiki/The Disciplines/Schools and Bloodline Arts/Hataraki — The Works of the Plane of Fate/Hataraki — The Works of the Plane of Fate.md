@@ -212,4 +212,4 @@ Hataraki is the active labour of the Plane of Fate. It is the system by which ex
 
 Bara created the Works before time. The Archons stand as higher sovereign expressions of meanings already present within them. World Spirits and Titans can exist because the Works first made such realities functionally possible. Attraction Force allows the Works to endure as lawful recognition and continuity, while Obsession Force corrupts those same labours into captivity and recursive need.
 > To wield Hataraki is therefore not just to use power. **It is to invoke function.** It is to call upon the labour of fate itself and command one of the fundamental works by which the world is kept in motion, judgment, structure, and completion.
-- [[The Disciplines/Hataraki — The Works of the Plane of Fate/Hataraki no Sho — The Martial Application of the Works]]
+- [[The Disciplines/Schools and Bloodline Arts/Hataraki — The Works of the Plane of Fate/Hataraki no Sho — The Martial Application of the Works]]

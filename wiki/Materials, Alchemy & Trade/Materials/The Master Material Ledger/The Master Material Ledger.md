@@ -98,6 +98,6 @@ The Measurewrights' position is that the gap is a recording failure. It is a sup
 
 **A provenance that runs out.** Lawful Class IV has a rendering house, a date and a beast or a body. Unlawful Class IV has a factor, a price, and a supplier who is three towns away and reliably difficult to visit.
 > *The connection between this section and the six entries above it is not asserted. It is available to anybody who reads them in order, and the Measurewrights have declined to draw it in print four times.*
-- [[Materials, Alchemy & Trade/The Master Material Ledger/The Material Index · T0–T4]]
-- [[Materials, Alchemy & Trade/The Master Material Ledger/The Material Index · T5–T9]]
-- [[Materials, Alchemy & Trade/The Master Material Ledger/The Alchemical Index]]
+- [[Materials, Alchemy & Trade/Materials/The Master Material Ledger/The Material Index · T0–T4]]
+- [[Materials, Alchemy & Trade/Materials/The Master Material Ledger/The Material Index · T5–T9]]
+- [[Materials, Alchemy & Trade/Materials/The Master Material Ledger/The Alchemical Index]]

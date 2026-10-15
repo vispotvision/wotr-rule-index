@@ -326,5 +326,5 @@ verification: "unverified"
 > *Three further categories are missing for the same reason The Works and Days is missing food and music: nobody procures them centrally.* **Sancta Lux judicial instruments, musical instruments, and the equipment of the death trades.**
 >
 > **The last of the three is the notable absence.** The death trades own specialised tools, maintain them across generations, and will not describe them to a Division clerk. *The Research Division has asked the executioners three times and been refused three times, and the equipment schedule is refused along with everything else.*
-- [[Materials, Alchemy & Trade/The Apparatus of the Age — Equipment and Material Culture/The Item Tiers]]
-- [[Materials, Alchemy & Trade/The Apparatus of the Age — Equipment and Material Culture/Shot and the Enhanced Weapon]]
+- [[Materials, Alchemy & Trade/Work, Trade and Measure/The Apparatus of the Age — Equipment and Material Culture/The Item Tiers]]
+- [[Materials, Alchemy & Trade/Work, Trade and Measure/The Apparatus of the Age — Equipment and Material Culture/Shot and the Enhanced Weapon]]

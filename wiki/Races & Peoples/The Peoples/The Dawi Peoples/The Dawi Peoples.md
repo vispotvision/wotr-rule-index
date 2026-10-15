@@ -191,4 +191,4 @@ Dawi languages share one structural feature: **they are built for endurance rath
 > *"Eight ways to still be standing, and Varūn has never once told any of us which one he actually meant."*
 >
 > — Attributed to a joint Kegshard–Qori Anka trade summit, exact speaker disputed
-- [[Races & Peoples/The Dawi Peoples/The Reach Dwarves]]
+- [[Races & Peoples/The Peoples/The Dawi Peoples/The Reach Dwarves]]

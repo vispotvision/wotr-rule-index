@@ -626,3 +626,79 @@ article blockquote p:last-child { margin-bottom: 0; }
   color: var(--wotr-gold);
   margin-bottom: 0.2rem;
 }
+
+// ---------------------------------------------------------------- room to read
+// Narrower side panels on desktop; prose keeps a reading measure, tables and art take the width.
+@media all and (min-width: 1200px) {
+  .page { max-width: 1640px; }
+  #quartz-body { grid-template-columns: 260px minmax(0, 1fr) 260px; }
+}
+
+article > p,
+article > ul,
+article > ol,
+article > blockquote,
+article > h2,
+article > h3,
+article > h4,
+article > .callout {
+  max-width: 50rem;
+}
+
+// a long quoted passage is an aside panel, not a wall of italics
+article blockquote:has(> p:nth-of-type(3)) {
+  font-style: normal;
+  background: color-mix(in srgb, var(--wotr-gold) 5%, transparent);
+  border-left-width: 4px;
+  border-radius: 0 10px 10px 0;
+  padding: 1.1rem 1.5rem;
+}
+
+article blockquote:has(> p:nth-of-type(3)) em { font-style: italic; }
+
+// ---------------------------------------------------------------- tables
+.table-container {
+  overflow-x: auto;
+  border-radius: 12px;
+  border: 1px solid color-mix(in srgb, var(--wotr-gold) 28%, transparent);
+  background: color-mix(in srgb, var(--light) 94%, black);
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.25);
+}
+
+.table-container table {
+  width: 100%;
+  margin: 0;
+  font-size: 0.97rem;
+}
+
+.table-container thead th {
+  background: color-mix(in srgb, var(--wotr-gold) 12%, transparent);
+  text-align: left;
+  white-space: nowrap;
+  letter-spacing: 0.02em;
+}
+
+.table-container td {
+  min-width: 7.5rem;
+  line-height: 1.5;
+}
+
+.table-container td:first-child {
+  font-weight: 600;
+  color: var(--dark);
+  min-width: 8.5rem;
+}
+
+.table-container tbody tr:nth-child(even) td {
+  background: color-mix(in srgb, var(--wotr-gold) 3.5%, transparent);
+}
+
+.table-container tbody tr:last-child td { border-bottom: none; }
+
+// two-column tables of long prose read as label and passage
+.table-container table:has(thead th:nth-child(2):last-child) td:first-child {
+  width: 26%;
+  font-family: var(--headerFont);
+  font-size: 1.08rem;
+  color: var(--wotr-gold);
+}

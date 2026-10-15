@@ -115,15 +115,15 @@ The first five entries are the general disciplines, open in principle to any pra
 
 ### The general disciplines and the bloodline arts
 
-- [[The Disciplines/Hataraki — The Works of the Plane of Fate/Hataraki — The Works of the Plane of Fate]]
-- [[The Disciplines/The Sage Arts]]
-- [[The Disciplines/The Spirit Rune Arts]]
-- [[The Disciplines/The Spirit Summoning Arts/The Spirit Summoning Arts]]
-- [[The Disciplines/The Harmonic Arts]]
-- [[The Disciplines/Kami no Kobushi — The God Fist]]
-- [[The Disciplines/The Ketsumyōgan — The Binding Fate Eye]]
-- [[The Disciplines/Matla]]
-- [[The Disciplines/The Open Crucible — Kwon Mu-jin's Book of Summons]]
+- [[The Disciplines/Schools and Bloodline Arts/Hataraki — The Works of the Plane of Fate/Hataraki — The Works of the Plane of Fate]]
+- [[The Disciplines/Schools and Bloodline Arts/The Sage Arts]]
+- [[The Disciplines/Schools and Bloodline Arts/The Spirit Rune Arts]]
+- [[The Disciplines/Schools and Bloodline Arts/The Spirit Summoning Arts/The Spirit Summoning Arts]]
+- [[The Disciplines/Schools and Bloodline Arts/The Harmonic Arts]]
+- [[The Disciplines/Named Arts/Kami no Kobushi — The God Fist]]
+- [[The Disciplines/Schools and Bloodline Arts/The Ketsumyōgan — The Binding Fate Eye]]
+- [[The Disciplines/Named Arts/Matla]]
+- [[The Disciplines/Named Arts/The Open Crucible — Kwon Mu-jin's Book of Summons]]
 
 ---
 
@@ -133,20 +133,20 @@ These are the named arts a practitioner *trains*, as opposed to the labours the 
 
 Three of them are not disciplines at all in the strict sense. **Moetana**, **Solution**, and **Asami** are *states* — what a Crystal does when its internal partitions come down. They are grouped here because a practitioner meets them the same way they meet everything else in this section: by going far enough into their own architecture to find them.
 > **Read them in pairs.** Ainigma exists to defeat Solution. Nadi's per-strike arithmetic is the direct inverse of the Iron Bison's single compounded release. Moetana and Solution are two answers to one question about partitions, and Gisei is the third. **Recarvu and the Iron Bison both end in a body that cannot stop accumulating, by two entirely different routes.**
-- [[The Disciplines/Ainigma — The Riddle Wearing a Face]]
-- [[The Disciplines/Ken — The Fist That Fights the Architecture]]
-- [[The Disciplines/Talos — The Bronze That Empties the Room]]
-- [[The Disciplines/Nadi — The Art of Doing More Than Once]]
-- [[The Disciplines/The Iron Bison — A Discipline of Internal Resonance]]
-- [[The Disciplines/Recarvu — The Body That Builds Over What It Cannot Fix]]
-- [[The Disciplines/Rusashin — The Dust That Remembers What It Touched]]
+- [[The Disciplines/Named Arts/Ainigma — The Riddle Wearing a Face]]
+- [[The Disciplines/Named Arts/Ken — The Fist That Fights the Architecture]]
+- [[The Disciplines/Named Arts/Talos — The Bronze That Empties the Room]]
+- [[The Disciplines/Named Arts/Nadi — The Art of Doing More Than Once]]
+- [[The Disciplines/Named Arts/The Iron Bison — A Discipline of Internal Resonance]]
+- [[The Disciplines/Named Arts/Recarvu — The Body That Builds Over What It Cannot Fix]]
+- [[The Disciplines/Named Arts/Rusashin — The Dust That Remembers What It Touched]]
 
 ### The states
 
 *Not disciplines in the strict sense. What a Crystal does when its internal partitions come down — and the three of them answer the same question three different ways.*
-- [[The Disciplines/Moetana — The Vessel of Life's Essence]]
-- [[The Disciplines/Solution — The Mind That Solves Itself]]
-- [[The Disciplines/Asami and Gisei — The Two States of the Moto]]
+- [[The Disciplines/Named Arts/Moetana — The Vessel of Life's Essence]]
+- [[The Disciplines/Named Arts/Solution — The Mind That Solves Itself]]
+- [[The Disciplines/Schools and Bloodline Arts/Asami and Gisei — The Two States of the Moto]]
 - [[The Disciplines/Techniques/Techniques]]
 - [[The Disciplines/Spellcraft/Spellcraft]]
 

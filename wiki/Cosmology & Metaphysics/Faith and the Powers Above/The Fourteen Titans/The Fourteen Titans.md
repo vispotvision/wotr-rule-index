@@ -107,7 +107,7 @@ Three entries break the pattern and each breaks it differently. *The Closing Eye
 
 ## The Fourteen in Full
 
-- [[Cosmology & Metaphysics/The Fourteen Titans/The Physical Order — Atla'zon and Gaia]]
-- [[Cosmology & Metaphysics/The Fourteen Titans/The Spiritual Seat — Omnis, Florwyn, Dazkar, Nysera, Sylorin, Ilgrimm]]
-- [[Cosmology & Metaphysics/The Fourteen Titans/The Strata — Valmir, Kaldrion, Chronaeus]]
-- [[Cosmology & Metaphysics/The Fourteen Titans/The Abyssal Depths — Prometheus, Zar'thuun, Vohrin]]
+- [[Cosmology & Metaphysics/Faith and the Powers Above/The Fourteen Titans/The Physical Order — Atla'zon and Gaia]]
+- [[Cosmology & Metaphysics/Faith and the Powers Above/The Fourteen Titans/The Spiritual Seat — Omnis, Florwyn, Dazkar, Nysera, Sylorin, Ilgrimm]]
+- [[Cosmology & Metaphysics/Faith and the Powers Above/The Fourteen Titans/The Strata — Valmir, Kaldrion, Chronaeus]]
+- [[Cosmology & Metaphysics/Faith and the Powers Above/The Fourteen Titans/The Abyssal Depths — Prometheus, Zar'thuun, Vohrin]]

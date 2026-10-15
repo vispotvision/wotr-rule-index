@@ -1231,7 +1231,10 @@ def create_character(name: str, markdown: str, volume: str = "Volume I — Chara
     import uuid
     pid = str(uuid.uuid4())
     section = _wiki_manifest()[vol_id]["title"]
-    rel = f"{vol_rel[:-3]}/{_safe_name(name)}.md"  # a volume page's children live in the folder named after it
+    vol_dir = vol_rel[:-3]  # a volume page's children live in the folder named after it
+    if vol_dir.rsplit("/", 2)[-2:-1] == [vol_dir.rsplit("/", 1)[-1]]:
+        vol_dir = vol_dir.rsplit("/", 1)[0]  # the hub page already sits inside its folder
+    rel = f"{vol_dir}/{_safe_name(name)}.md"
     p = _write_mirror(rel, name, pid, section, markdown, tags or ["Characters"])
     _git("add", "--", str(p.relative_to(ROOT)), "wiki/.manifest.json")
     _git("commit", "-q", "-m", f"Add character card: {name}\n\nCreated from Claude Desktop via WOTR MCP; page {pid} under {section}.")

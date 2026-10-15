@@ -44,6 +44,8 @@ The ceiling is **500** for every practitioner below Stage (one of the sixteen ru
 
 ## The Tier Grade System
 
+![[Assets/Diagrams/grades.svg]]
+
 Tier Grade is the qualitative bracket that determines what scale of force, phenomenon, or entity a stat can meaningfully engage, resist, or overcome. It is derived from the stat's raw numeric value and confirmed by Temperance Stage. **A stat cannot hold its Tier Grade if the Soul Crystal has not undergone the Threshold required to sustain that density.**
 > **The table measures a Sub-Stat (one of eight finer measures inside each main stat).** The Temperance ceiling and the Path gates (limits set by the Plane a soul's growth leans toward) both bind the Sub-Stat, and every Grade letter in the gate tables and the Resonant Pairs is a threshold on that Sub-Stat's own number.
 >
@@ -169,6 +171,8 @@ Aether Class ascends through refinement, not conquest. Each step removes interfe
 ---
 
 ## The Soul Crystal's Developmental Tiers
+
+![[Assets/Diagrams/soul-crystal.svg]]
 
 > *"To refine the soul is not to polish it. It is to remove everything that was never truly part of the design."*
 The Crystal evolves through Developmental Tiers representing the synthesis of all three layers at once. These Tiers are **correlated with but not identical to** Temperance Stages or Aether Classes. A Crystal can run ahead of or behind its Shell or Core, and the gap is itself diagnostic.

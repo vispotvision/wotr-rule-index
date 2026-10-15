@@ -23,6 +23,8 @@ A practitioner is measured on the Soul Crystal (the organ in the soul that store
 
 ## How they connect
 
+![[Assets/Diagrams/grades.svg]]
+
 Level and Stage climb on separate keys. Level comes from consequence and fills the reserve; Stage comes from a Catalyst and raises the ceilings. The Band is where the two are bolted together: past each hundred Levels, the counter stops until the Stage catches up. The Stage caps every Sub-Stat, the Sub-Stat's number gives its Grade, and the Grade of whichever Sub-Stat a moment calls on decides that moment. Average a Primary's Sub-Stats and you have the Grade the register prints. The Tier of Standing is the Accord's word for the Stage and carries no weight in a fight. Power leaves through the Shell, so the Aether Class sets η, and η sets how much of the reserve arrives as force and how much is shed as noise. Spending runs down the reserve, written as time from full (how long a working holds, begun on a full reserve, before the reserve falls to a tenth and the practitioner starves). The Crystal's tier says what all of this has built; its state says what today has done to it.
 
 ## Example: one practitioner, read on every measure

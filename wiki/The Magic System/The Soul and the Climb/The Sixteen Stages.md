@@ -31,6 +31,8 @@ What follows sits underneath them. Each Stage is given four ways: **the ledger l
 
 ### The Ladder at a Glance
 
+![[Assets/Diagrams/stage-ladder.svg]]
+
 | Stage | Name | Tier of Standing | Grade cap | Stat ceiling |
 |---|---|---|---|---|
 | I | **Murmuring** | 1 · Initiate | E | 50 |

@@ -10,6 +10,8 @@ A release is a practitioner's Primary Trait (the deepest standing law in their s
 
 ## How it looks
 
+![[Assets/Diagrams/release-forms.svg]]
+
 **The three releases.** Every release follows one pattern: the body changes, the aura flares, the sound comes, and the Trait's power rises.
 
 | | First Release | Second Release | Third Release |

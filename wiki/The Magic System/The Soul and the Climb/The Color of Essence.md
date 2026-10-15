@@ -51,6 +51,8 @@ The metaphor is smelting. Raw ore is dark, dense, full of impurity. Heat and pre
 
 ## Part Two · The Eight Families
 
+![[Assets/Diagrams/eight-families.svg]]
+
 *Essence hue by Physics Domain (the branch of real physics a Family governs). The assignment is not symbolic. It is causal.*
 
 | Family | Domain | Hue and character |

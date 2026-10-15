@@ -134,6 +134,17 @@ plugins:
     enabled: true
   - source: "@quartz-community/explorer"
     enabled: true
+    options:
+      title: The Realms
+      sortFn: |
+        (a, b) => {
+              const O = ["Start Here", "A Reader", "Who", "The Magic System", "Races & Peoples", "Factions, Bloodlines", "Geography & the Four", "Cosmology & Metaphysics", "Lore & History", "The War Cycle", "The Bestiary", "Materials, Alchemy", "Every Page", "First Steps", "The Foundations", "The Soul and the Climb", "Power in Use", "Practice and Institution", "Reference and Craft", "Fracture of Worlds", "How Magic Works", "The Measures at a Glance", "One Exchange", "The Core Vocabulary", "The Physical Account", "The Eight Families", "The Master Glyph", "The Descent of Parun", "The Trait System", "The Four Paths", "The Sixteen Stages", "The Ladder and the Draft", "Tier Grade", "Release Forms", "The Color of Essence", "Reinforcement", "Stacking and Spending", "Runes and Tags", "The Four Crafts", "Counterplay", "The Gate", "The Derivation", "The Standing and the Title", "Training and Sects", "The Imperial Age", "On Walking", "Mechanica", "Factions at a Glance", "Powers and Polities", "Houses and Bloodlines", "Orders, Faiths", "I. ", "II. ", "III. ", "IV. ", "V. ", "VI. ", "VII. ", "VIII. ", "IX. ", "X. "];
+              const r = (n) => { const d = n.displayName || ""; const i = O.findIndex((o) => d.startsWith(o)); return i < 0 ? 999 : i; };
+              const d = r(a) - r(b);
+              if (d) return d;
+              if (a.isFolder !== b.isFolder) return a.isFolder ? -1 : 1;
+              return (a.displayName || "").localeCompare(b.displayName || "", undefined, { numeric: true, sensitivity: "base" });
+            }
     layout:
       position: left
       priority: 50
@@ -205,8 +216,9 @@ plugins:
     enabled: true
     options:
       links:
-        GitHub: https://github.com/jackyzha0/quartz
-        Discord Community: https://discord.gg/cRFFHYye7t
+        Home: https://vispotvision.github.io/wotr-rule-index/
+        Start Here: https://vispotvision.github.io/wotr-rule-index/start-here
+        Every Page: https://vispotvision.github.io/wotr-rule-index/every-page
     layout:
       position: footer
       priority: 50
@@ -233,7 +245,7 @@ plugins:
         - tags
         - aliases
       excludedProperties: []
-      hidePropertiesView: false
+      hidePropertiesView: true
       delimiters: ---
       language: yaml
     order: 5

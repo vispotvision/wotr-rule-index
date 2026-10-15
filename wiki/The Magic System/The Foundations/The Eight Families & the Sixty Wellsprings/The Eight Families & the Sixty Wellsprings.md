@@ -146,6 +146,8 @@ One EU is one megajoule, so a density in EU per cubic metre is an energy density
 
 ## The Eight Families
 
+![[Assets/Diagrams/eight-families.svg]]
+
 | Family | Governs | Physics Domain | Count |
 |---|---|---|---|
 | **Caloria** | Heat and its absence | Thermodynamics | 10 |

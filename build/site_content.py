@@ -9,7 +9,38 @@ import json, re, shutil, sys
 from collections import defaultdict
 from pathlib import Path
 
+sys.path.insert(0, str(Path(__file__).resolve().parent))
+from site_art import banner, plate
+
 WIKI = Path(__file__).resolve().parent.parent / "wiki"
+
+
+BASE = "/wotr-rule-index"
+
+
+def cards(m) -> str:
+    """A run of link items becomes a grid of cards; the words after "link:" are the card's line."""
+    items = re.sub(r"(?m)^(- \[\[[^\]]*\]\]):\s*(.+)$", r'\1 <span class="wd">\2</span>', m.group(1).rstrip("\n"))
+    return f'<div class="wotr-entries">\n\n{items}\n\n</div>\n'
+
+
+def dress(rel: str, text: str) -> str:
+    """Set the page's artwork where its markdown H1 stood (Quartz prints the title itself)."""
+    fm = re.match(r"(?s)^---\n.*?\n---\n", text)
+    head, body = (text[:fm.end()], text[fm.end():]) if fm else ("", text)
+    t = re.search(r'(?m)^title:\s*"?(.*?)"?\s*$', head)
+    stem = rel.rsplit("/", 1)[-1][:-3]
+    title = t.group(1).replace('\\"', '"') if t else stem
+    body = re.sub(r"\A\s*# [^\n]*\n", "\n", body, count=1)
+    body = re.sub(r"!\[\[Assets/Diagrams/([\w-]+)\.svg\]\]",  # Quartz's own svg embed takes a page-relative path
+                  lambda m: f'<a class="wotr-diagram-link" href="/assets/diagrams/{m.group(1)}.svg" target="_blank"><img class="wotr-diagram" src="/assets/diagrams/{m.group(1)}.svg" alt="{m.group(1).replace("-", " ")}" loading="lazy"></a>', body)
+    body = re.sub(r"(?m)((?:^- \[\[[^\n]*\n?){2,})", cards, body)
+    hub = "/" in rel and rel.split("/")[-2] == stem
+    if hub and "wotr-entries" in body:  # the page lists its own contents; Quartz's folder list would repeat it
+        body += '\n<span class="wotr-curated"></span>\n'
+
+    art = banner(rel, title, BASE) if hub else plate(rel, title)
+    return head + "\n" + art + body.lstrip("\n")
 
 
 def main(out: Path) -> None:
@@ -34,11 +65,24 @@ def main(out: Path) -> None:
         public.append(rel)
         kept[rel.split("/")[0] if "/" in rel else "Pages"].append(rel[:-3])
     names = {r[:-3] for r in public}
-    unlink = lambda m: m.group(0) if m.group(1) in names else (m.group(2) or m.group(1).split("/")[-1])
+    keep = lambda t: t in names or ("." in t.rsplit("/", 1)[-1] and (WIKI / t).is_file())
+    titles = {}
+    for r in public:
+        t = re.search(r'(?m)^title:\s*"?(.*?)"?\s*$', (WIKI / r).read_text(encoding="utf-8")[:1500])
+        titles[r[:-3]] = t.group(1).replace('\\"', '"') if t else r[:-3].split("/")[-1]
+
+    def unlink(m):
+        target, alias = m.group(1), m.group(2)
+        if not keep(target):
+            return alias or target.split("/")[-1]
+        if alias or target not in titles:  # embeds and aliased links stand as written
+            return m.group(0)
+        return m.group(0)[:-2] + "|" + titles[target].replace("|", "-") + "]]"  # a bare link reads as its page's title
     for rel in public:  # a link to a page left off the site reads as plain text
         (out / rel).parent.mkdir(parents=True, exist_ok=True)
         text = re.sub(r"\[\[([^\]|#]+)(?:#[^\]|]*)?(?:\|([^\]]+))?\]\]", unlink, (WIKI / rel).read_text(encoding="utf-8"))
-        (out / rel).write_text(text, encoding="utf-8")
+        (out / rel).write_text(dress(rel, text), encoding="utf-8")
+    shutil.copytree(WIKI / "Assets", out / "Assets")
     lines = ["---", "title: Every Page", "---", "", "Every page on the public wiki, by section.", ""]
     for section in sorted(kept):
         lines += [f"## {section}", ""] + [f"- [[{r}|{r.split('/')[-1]}]]" for r in kept[section]] + [""]

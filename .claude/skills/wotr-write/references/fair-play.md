@@ -47,7 +47,7 @@ strong. Every ability passes all five:
 2. **It has stated limits.** Range, duration, conditions, and the terrain
    modifiers for its Family.
 3. **Something beats it.** At least one of the four Counterplay routes
-   (`wiki/The Magic System/Counterplay What Beats a Practitioner.md`: deny the
+   (`wiki/The Magic System/Power in Use/Counterplay What Beats a Practitioner.md`: deny the
    field, break the boundary, break the body, break the man) works, and the
    write-up names which.
 4. **It has a tell.** A careful opponent can read it coming.

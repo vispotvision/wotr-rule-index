@@ -66,7 +66,7 @@ practitioner in the notes.
 
 ## Terminology
 
-Every capitalised system term matched against `wiki/The Magic System/The
-Lexicon of Magic — Master Terminology.md` and the Codex pages beside it. A near-miss (a Stage renamed, a Wellspring misspelt, a Family
+Every capitalised system term matched against `wiki/The Magic System/Reference
+and Craft/The Lexicon of Magic — Master Terminology.md` and the Codex pages in that section. A near-miss (a Stage renamed, a Wellspring misspelt, a Family
 misassigned) is a FAIL, not a warning. A term not in source is originated and
 flagged.

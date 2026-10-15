@@ -6,6 +6,8 @@ title: "How Magic Works"
 
 ## The Soul Crystal, and who wakes
 
+![[Assets/Diagrams/soul-crystal.svg]]
+
 Nearly everyone is born with a Soul Crystal (the organ in the soul that stores power and sends it out). In most people it sleeps for life. About one in ten wake it, nearly always as children, taught by a school, a house or a guild, or stirring early on their own. They are practitioners (people whose Crystal is awake and working). The rest are Class Ø (sealed and unwoken) and touch magic only through what they buy. A sealed Crystal can be woken, but rarely, and at great cost. *Read next: [[The Magic System/Practice and Institution/The Gate Who May Learn Magic|The Gate: Who May Learn Magic]].*
 
 ## Aether and Essence
@@ -32,6 +34,8 @@ Reserve spent is gone until it is drawn back by rest, by the ground, at a Wellsp
 
 ## Stages, Levels and Grades
 
+![[Assets/Diagrams/stage-ladder.svg]]
+
 Each practitioner has eight main stats (Vitality for the body's endurance, Ardency for raw output, Gnosis for perception, Dexterity for speed, Harmonics for drawing power, Resilience for withstanding it, Tempering for growth, Dominion for presence and authority). A Grade (a letter band on a stat's number: F, E, D, C, B, A, S and on to EX+) says how much force that stat delivers. When two people contest a thing, the Grade of the stat in use decides it. A one-Grade advantage wins that exchange; at two Grades the weaker side is overwhelmed; at three, their only aim is to survive. Inside the same Grade, skill, ground and the read decide.
 
 Level counts how often the Crystal has grown denser, and rises with real danger and effort. A Stage (one of sixteen steps of the soul's refinement, from Murmuring to Apex) is a full remaking of the Crystal, and it caps how high every stat can climb. Levels climb inside a Stage; a Stage is crossed only when two things are true: the practitioner has met its minimum power, and has gone through its Catalyst (the particular experience that Stage demands). *Read next: [[The Magic System/The Soul and the Climb/The Sixteen Stages|The Sixteen Stages]], then [[The Magic System/The Soul and the Climb/Tier Grade, Bands & the Aether Shell|Tier Grade, Bands & the Aether Shell]].*
@@ -55,6 +59,8 @@ Cheap runed gear is everywhere; the great pieces are old and cannot be made agai
 Every practitioner's aura shows in their own colour: the hue of their Family (the branch of physics their power works: Caloria ember-orange for heat, Fulguria arc-blue for lightning, and six more) at the clarity of their Stage, brightening as they push. Pressure (the weight a stronger soul puts on a room) is felt first in the room, then in bodies: one Stage up bends attention, two brings sweat and nausea, three drops people where they stand. *Read next: [[The Magic System/The Soul and the Climb/The Color of Essence|The Color of Essence]].*
 
 ## Releases and Domains
+
+![[Assets/Diagrams/release-forms.svg]]
 
 A release (a practitioner's Trait let off its safety limit on purpose, in a shape their Crystal has learned to hold) is a full transformation: the body changes, the aura flares, a sound comes, and power rises. The First Release opens no earlier than Stage IV, the Second at VII, and the Third at IX. Every release runs on a clock and ends on its own when the reserve runs low. *Read next: [[The Magic System/The Soul and the Climb/Release Forms|Release Forms]].*
 

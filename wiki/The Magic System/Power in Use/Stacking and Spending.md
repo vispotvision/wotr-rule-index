@@ -6,6 +6,8 @@ title: "Stacking and Spending"
 
 ## What it is
 
+![[Assets/Diagrams/stacking.svg]]
+
 Power-ups from every source stack on one another, up to a hard cap of **two Grades** (letter bands of force, F through EX+) above what the practitioner's Soul Crystal (the organ that stores and sends out their power) can hold safely. Every layer the Crystal runs at once adds risk of a fracture, and every second of it spends reserve (the store of Essence, the practitioner's own power), which the body shows on a fixed ladder of tells.
 
 | Layer | What it adds | Counts on the cap |
@@ -21,6 +23,8 @@ Power-ups from every source stack on one another, up to a hard cap of **two Grad
 **The stack line.** Every registered card carries one: each layer the person can run, what it adds, and where they reach the cap. An assessor reads it the way a gunner reads a range table.
 
 ## How it looks
+
+![[Assets/Diagrams/reserve-tells.svg]]
 
 **Running low.** The body tells on the reserve, and the ladder is the same for everyone:
 

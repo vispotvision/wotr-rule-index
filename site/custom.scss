@@ -726,3 +726,19 @@ article blockquote:has(> p:nth-of-type(3)) em { font-style: italic; }
 }
 
 .wotr-pane p { margin: 0.5em 0; }
+
+// legibility: a dark wash behind the plate's words
+.wotr-plate .wotr-plate-art { z-index: -2; }
+.wotr-plate::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  z-index: -1;
+  background: linear-gradient(90deg, rgba(10, 8, 6, 0.7) 0%, rgba(10, 8, 6, 0.35) 45%, transparent 75%);
+}
+
+@media (max-width: 640px) {
+  .page-title a { font-size: 0.95rem; letter-spacing: 0.04em; }
+  .wotr-plate::before { background: linear-gradient(0deg, rgba(10, 8, 6, 0.85) 0%, rgba(10, 8, 6, 0.35) 70%, rgba(10, 8, 6, 0.2) 100%); }
+  .wotr-words .wk { font-size: 0.78rem; }
+}

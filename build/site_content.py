@@ -75,6 +75,55 @@ def glossary(m) -> str:
             + "\n\n</div>\n\n")
 
 
+PROCESS = re.compile(r"\bIsaac\b(?! Newton)|\bNatalie\b|\bRULED\b|(?:^|[*\s])Ratified(?:\.|\s+(?:20\d\d|as written|against))|"
+                     r"Amendment (?:status|applied)|agent ruling|ruling needed|\bR\d{2}[A-Z]?-[0-9A-Z]|\bDocket \d|"
+                     r"Proposed canon|Originated, flagged|Echo Elf ratification|Canon ruling|retcon|Aesthetic Guide|⚠️|"
+                     r"Closed against|Unratified|has not been altered|has no page|flagged not filled|Answers the open item|dead canon")
+PROCESS_HEADING = re.compile(r"(?im)^(#{2,4}) [^\n]*(Open Rulings|Author'?s? Notes|Notes for the Author|Reconciliation note|Amendment status|Flagged Gaps|Open Questions|Discrepancies of Record)[^\n]*$")
+REMOVED = []
+
+
+def scrub(body: str) -> str:
+    """The site is the world, not the workshop: rulings, ratifications, rule ids and notes to
+    Isaac stay in the vault and come off the published page."""
+    # whole process sections
+    while True:
+        m = PROCESS_HEADING.search(body)
+        if not m:
+            break
+        level = len(m.group(1))
+        nxt = re.compile(rf"(?m)^#{{1,{level}}} ").search(body, m.end())
+        REMOVED.append(body[m.start():m.end()])
+        body = body[:m.start()] + (body[nxt.start():] if nxt else "")
+    body = re.sub(r"\s*\((?:R\d{2}[A-Z]?-[\w-]+(?:,\s*|;\s*)?)+\)", "", body)  # (R53-01, R63-2)
+    body = re.sub(r"(?im)^\|\s*\**(?:[IVX]+ · )?(?:Open Rulings|Author'?s? Notes|Flagged Gaps)\**\s*\|.*\n", "", body)  # a contents row naming one
+    body = re.sub(r"\s*See Open Rulings\.?", "", body)
+    out = []
+    for block in re.split(r"(\n\s*\n)", body):
+        if not PROCESS.search(block) or block.lstrip().startswith(("<", "```")):
+            out.append(block)
+            continue
+        lines = []
+        for line in block.split("\n"):
+            if not PROCESS.search(line):
+                lines.append(line)
+                continue
+            lead = re.match(r"^(\s*(?:>\s*)*(?:[-*] |\d+\. )?)", line).group(1)
+            if line.lstrip().startswith("|"):  # a table row: cut the sentence inside its cell
+                cells = line.split("|")
+                cells = [" ".join(x for x in re.split(r"(?<=[.!?])\s+", c) if not PROCESS.search(x)) if PROCESS.search(c) else c for c in cells]
+                lines.append("|".join(c if c.strip() else " " for c in cells))
+                continue
+            rest = line[len(lead):]
+            kept = [x for x in re.split(r"(?<=[.!?])\s+", rest) if not PROCESS.search(x)]
+            REMOVED.append(rest)
+            text = " ".join(kept).strip()
+            if text and text.count("**") % 2 == 0 and text.count("*") % 2 == 0:
+                lines.append(lead + text)
+        out.append("\n".join(lines))
+    return "".join(out)
+
+
 def cards(m) -> str:
     """A run of link items becomes a grid of cards; the words after "link:" are the card's line."""
     items = re.sub(r"(?m)^(- \[\[[^\]]*\]\]):\s*(.+)$", r'\1 <span class="wd">\2</span>', m.group(1).rstrip("\n"))
@@ -93,7 +142,7 @@ def dress(rel: str, text: str) -> str:
     t = re.search(r'(?m)^title:\s*"?(.*?)"?\s*$', head)
     stem = rel.rsplit("/", 1)[-1][:-3]
     title = t.group(1).replace('\\"', '"') if t else stem
-    body = breathe(re.sub(r"\A\s*# [^\n]*\n", "\n", body, count=1))
+    body = scrub(breathe(re.sub(r"\A\s*# [^\n]*\n", "\n", body, count=1)))
     first = re.match(r"\s*#{1,6} +(.+?)\s*\n", body)  # the plate already carries the title
     if first and re.sub(r"\W", "", first.group(1)).lower() == re.sub(r"\W", "", title).lower():
         body = body[first.end():]

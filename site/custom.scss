@@ -797,3 +797,34 @@ article p.wotr-sayit span {
   font-size: 1.2rem;
   letter-spacing: 0.04em;
 }
+
+// ---------------------------------------------------------------- chrome
+// every page carries the build date, which says nothing; keep the reading time
+.content-meta time { display: none; }
+.content-meta[show-comma="true"] > *:not(:last-child)::after { content: ""; }
+.content-meta span {
+  font-variant: small-caps;
+  letter-spacing: 0.08em;
+  color: var(--gray);
+}
+
+// hover previews show the words, not the plate
+.popover .wotr-plate,
+.popover .wotr-banner { display: none; }
+.popover .popover-inner { border: 1px solid color-mix(in srgb, var(--wotr-gold) 35%, transparent); border-radius: 12px; }
+
+// the footer: the house mark in place of the engine's credit
+footer > p:first-child { font-size: 0; }
+footer > p:first-child::before {
+  content: "◆ War of the Realms ◆";
+  font-size: 0.95rem;
+  font-family: var(--headerFont);
+  letter-spacing: 0.3em;
+  color: var(--wotr-gold);
+}
+footer ul li a { color: var(--wotr-gold); }
+
+// breadcrumbs and the table of contents in the house type
+.breadcrumb-container { font-family: var(--headerFont); font-size: 1rem; letter-spacing: 0.02em; }
+.toc a { font-family: var(--headerFont); }
+.toc-content li > a.in-view { color: var(--wotr-gold); }

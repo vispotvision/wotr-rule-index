@@ -1,0 +1,98 @@
+{
+ "1_stacking": {
+  "S1": "All stack, capped at two Grades",
+  "S2": "Any, each adds fracture risk (Recommended)",
+  "S3": "Stacks freely",
+  "S4": "A stack line on the card (Recommended)"
+ },
+ "2_numbers": {
+  "N1": "Grade of the stat in use (Recommended)",
+  "N2": "Aether Class governs",
+  "N3": "How long it lasts from full (Recommended)",
+  "N4": "Fix the maths, keep the claims (Recommended)"
+ },
+ "3_releases_domains": {
+  "RD1": "It opens and powers the Domain (Recommended)",
+  "RD2": "The shape spreads the strain (Recommended)",
+  "RD3": "Dominion decides, read can flip it (Recommended)",
+  "RD4": "Yes, at its cost (Recommended)"
+ },
+ "4_spending": {
+  "SP1": "A fixed ladder of body tells (Recommended)",
+  "SP2": "Heat, blood, a cracking aura (Recommended)",
+  "SP3": "Loud and hot; masters are quiet (Recommended)",
+  "SP4": "Refill freely"
+ },
+ "5_reinforcement": {
+  "R1": "Active fails, passive sags (Recommended)",
+  "R2": "Held gear yes, people no (Recommended)",
+  "R3": "Masters can do both",
+  "R4": "Rarely woken, at great cost (Recommended)"
+ },
+ "6_runes_tags": {
+  "T1": "Other: \"It can be ambient aether user reverses or the marker it all depends on the tag\" (fuel varies by tag: ambient Aether, the user's reserve, or the maker's stored charge)",
+  "T2": "Practitioners only",
+  "T3": "It carries part of the release (Recommended)",
+  "T4": "Licensed cutters, plus black market (Recommended)"
+ },
+ "7_breakthrough": {
+  "B1": "Roads are ways to meet the Catalyst (Recommended)",
+  "B2": "The current tests you (Recommended)",
+  "B3": "Months, guarded, slag risk (Recommended)",
+  "B4": "The full transformation (Recommended)"
+ },
+ "8_release_canon": {
+  "RC1": "Yes: rule + Notion page (Recommended)",
+  "RC2": "Aura colour and sound, Releases and bonded weapon, Vows and stack line, School, sect rank, renown (all four)",
+  "RC3": "Draft them all now (Recommended)",
+  "RC4": "Drafted for majors, you approve (Recommended)"
+ },
+ "9_sects": {
+  "SI1": "Schools and houses; guilds keep their own (Recommended)",
+  "SI2": "Ranking contests + elders' word (Recommended)",
+  "SI3": "Secrets, resources, duty (Recommended)",
+  "SI4": "Hunted for what they know (Recommended)"
+ },
+ "10_fame": {
+  "F1": "Renown per audience, on the Ledger (Recommended)",
+  "F2": "Opens doors, draws challengers (Recommended)",
+  "F3": "Accord warrants + private bounties (Recommended)",
+  "F4": "Yes, given by others (Recommended)"
+ },
+ "11_tournaments": {
+  "TO1": "Stage brackets, yield allowed, deaths happen (Recommended)",
+  "TO2": "Own power yes, bought power no (Recommended)",
+  "TO3": "Resources, places, fame (Recommended)",
+  "TO4": "Judger runs brackets; absent players fight by orders (Recommended)"
+ },
+ "12_economy": {
+  "EC1": "Steeply, roughly x3 a Stage (Recommended)",
+  "EC2": "Licensed, taxed, smuggled (Recommended)",
+  "EC3": "Common, sometimes deadly (Recommended)",
+  "EC4": "Cities everything, north in kind, East via sects (Recommended)"
+ },
+ "13_villain": {
+  "V1": "One over all, felt differently (Recommended)",
+  "V2": "Malphas (Recommended)",
+  "V3": "Numbered, about ten (Recommended)",
+  "V4": "Fit where they fit (Recommended)"
+ },
+ "14_bestiary": {
+  "W1": "Well-born only (Recommended)",
+  "W2": "By the Well's depth, on the Grade ladder (Recommended)",
+  "W3": "Shows its Well, and is its weak point (Recommended)",
+  "W4": "Rare deep ones speak; some serve Malphas (Recommended)"
+ },
+ "15_crews": {
+  "CR1": "Natalie proposes from the roster, you approve (Recommended)",
+  "CR2": "Through offers you accept (Recommended)",
+  "CR3": "One proposed rival per thread (Recommended)",
+  "CR4": "One proposed mentor per thread (Recommended)"
+ },
+ "16_skips_canon": {
+  "TS1": "pass_time runs it all (Recommended)",
+  "TS2": "Months to years, by arc (Recommended)",
+  "TS3": "Events stand, prose stays history (Recommended)",
+  "TS4": "Majors now, the rest when touched (Recommended)"
+ }
+}

@@ -11,7 +11,9 @@ verification: null
 # Lorn Stark's Narration Register
 
 *Close register · a steward's and a sword-teacher's idiom*
+
 **Narration distance: Close register.** The narration runs in Lorn's idiom, a steward's and a sword-teacher's: he reads people by what they have done to their gear and where they stand, and he carries italic direct thought. The Kharven culture register sits under it. Characters seen from his wall (Sodoku, Hild, Lambert) are read by his rules, not their own: a register stays with the point of view.
+
 **Violation caution.** Never let the narration say what Lorn will not say. What he feels arrives as an act he takes instead of a sentence (a hand put out, a circlet picked up), or in italics; the plain narration does not name it for him.
 
 ---
@@ -19,6 +21,7 @@ verification: null
 ## Vocabulary
 
 **Words it reaches for.** Wall, yard, stair, postern, runner, harness, mail, plate, rebound, muster, number, arrangement. The things a man who keeps a house counts: tenants, household, gate guard, riders.
+
 **Words it keeps out.** Named feeling in plain narration. Grand language for the Seat or the war. The word for the yard's silence, which he has been looking for "since the boat" and has not found.
 
 ## Sentence shape
@@ -50,4 +53,5 @@ It never tells the reader what Sodoku is thinking; Sodoku is seen only from outs
 > "and it was not the quiet of respect exactly, and Lorn had been trying to find the word for it since the boat."
 **5. Feeling goes into an act.** When the words will not arrange themselves, he does something with his hands.
 > "Lorn found that the thing he wanted to say would not come out in any arrangement that was not embarrassing, so he put his hand out instead"
+>
 > "picked up the broken circlet where Hild had set it on the mounting block and forgotten it, and put it in his belt."

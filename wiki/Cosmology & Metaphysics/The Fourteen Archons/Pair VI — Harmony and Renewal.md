@@ -29,8 +29,10 @@ Selhar governs the **Law of Resonant Equilibrium**, the principle that all thing
 #### Resonaris — The Magic of Frequency and Accord
 
 Resonaris is the Archonic magic of vibrational governance, tonal stabilization, and the use of resonant frequency as both weapon and medicine. Practitioners of Resonaris do not merely produce sound; they perceive and manipulate the fundamental frequencies of matter, soul, and Essence.
+
 At its **lowest expression**, Resonaris grants the ability to hear the tonal signature of Wellsprings, to detect dissonance in ward structures, and to calm emotional turbulence through resonant frequency. At its **highest expression**, Resonaris becomes the power to harmonize entire Domains, synchronizing the Essence frequencies of every soul within a region into a single chord of unified purpose, or to weaponize dissonance, shattering structures by finding their resonant frequency and amplifying it beyond tolerance.
 > **Through Attraction Force** · Resonaris becomes communion, the shared frequency that binds communities, the chord that makes a people recognizable to one another across distance and time.
+>
 > **Through Obsession Force** · It becomes enforced unison, the erasure of individual voice in service of a single dominant tone, the harmony that silences dissent by drowning it in overwhelming concord.
 **Connections** · Closest kin to Iesara (Insight), for sound and sight reflect each other's truths. Respects Wyther (Motion), whose winds carry his song. Distrusts Uurgath (Disruption), who silences harmony with void. Often mediates between Urion (Balance) and Veyra (Desire), their discord being his testing ground.
 
@@ -51,7 +53,9 @@ Elyndra governs the **Law of Renewal**, the truth that existence perpetuates its
 #### Vitalaris — The Magic of Growth and Rebirth
 
 Vitalaris is the Archonic magic of biological sovereignty, regenerative law, and the enforcement of the cycle that connects death to new growth. Practitioners of Vitalaris do not merely heal; they invoke the fundamental principle that all ending serves as the precondition for beginning.
+
 At its **lowest expression**, Vitalaris regenerates living Essence, restores depleted lattice structures, accelerates biological recovery, and cycles death energy into fresh Essence to prevent the stagnation of life force. At its **highest expression**, Vitalaris becomes the power to reconstitute entire ecosystems from barren earth, to restart the cycle of growth in regions where entropy has sterilized all living potential, and to enforce the Law of Renewal against forces that would make death permanent.
 > **Through Attraction Force** · Vitalaris becomes the sacred cycle, the trust that death is not final, that what falls will feed what rises, that the wheel turns and turns and turns.
+>
 > **Through Obsession Force** · It becomes uncontrolled growth, the cancer of Essence that multiplies without limit — the **Plague of the Living Flesh**, a blasphemy born from her misinterpreted glyphs that grew endlessly, consuming what it should have nourished.
 **Connections** · Deep kinship with Auren (Death), their duality sustaining the wheel of existence. Symbiosis with Selhar (Harmony) and Kaetra (Dream), whose arts nourish emotional and imaginative growth. Friendly tension with Irath (Will), for unchecked control stifles bloom. Absolute loathing for Uurgath (Disruption), who represents sterilization and decay without rebirth. Occasional correspondence with Wyther (Motion), for wind and change spread life's seeds.

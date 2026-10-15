@@ -23,7 +23,9 @@ Mass approximately 1.1 kg; overall length approximately 115 cm, of which the bla
 ### Operation line
 
 **Severance Pulse.** Drinking Essence carried in fresh blood on a hit lets the *Uur* (Disruption) glyph condition a Mortalis boundary against the target's own Aether Shell lattice, fracturing it on the following hit; overcharged, the same boundary escalates from Resonance Fracture into full Vector Severance, unthreading the lattice rather than merely cracking it.
+
 **Morphic stances.** Dormant Vine, Bloom and Ashen Petal are not fired or summoned; they are a Traitus-class visible state the blade's own Crystal pressure takes on under the wielder's intent, dull grey and oathbound at rest, crimson-veined with deeper penetration and point control once blooded, smoking-edged and able to sever a Domain's own anchor-threads at arm's reach when pushed furthest.
+
 **Kill-record.** The *Ma* (Memory) glyph lets the rose-crystal store a signature per sworn kill; each stored signature grants a brief Topology Lockdown, a targeted suppression, against that victim's bloodline the next time it is encountered.
 
 ### Codex line

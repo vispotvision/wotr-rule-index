@@ -11,6 +11,7 @@ verification: "unverified"
 # The Iron Mandate of Undaar-Keth — The Closed Fist
 
 **Say it** · oon-DAHR-KETH
+
 *The Closed Fist · The Decree-State · Western Shield*
 
 ---
@@ -20,6 +21,7 @@ verification: "unverified"
 A **hobgoblin-led continental empire** occupying the western reaches of the northern shield.
 > ***It is the answer that the other answer refused to give.***
 When the Scattering broke the goblinoid peoples out of the Old World, **the Crimson Order sailed south and built a parliament on volcanic rock. They opened their palm.** They asked what governance looked like when force was removed from the equation, and spent seven centuries refining the answer. **The Hobgoblin Expanse is that answer.**
+
 **Undaar-Keth is the other answer.** The one given by the hobgoblins who did not sail — who stayed on the continent, dug into the western shield's boreal forest and granite ridgelines, **and held territory against human expansion, Ironblood raiding, Dawi indifference, and the specific hostility of a frontier that did not want them and that they refused to leave.**
 > The founding doctrine is one sentence carved into the basalt of the Decree Stone:
 >
@@ -27,10 +29,12 @@ When the Scattering broke the goblinoid peoples out of the Old World, **the Crim
 >
 > *The sentence has been there for six hundred years. The border has not been safe for any of them.*
 **The Ironfold Council does not debate policy.** It receives intelligence, assesses threats, issues decrees, and enforces them. *The efficiency of this system is its strength. The rigidity is its weakness.* **The Mandate has never lost a border war.** It has also never produced a body of law that a civilian would describe as humane, and the Expanse's parliamentary historians consider this a related phenomenon.
+
 **The name** · Old Vaross. *Undaar* from **undaal** — platform, elevation, the throne that sits above. *Keth* is **the open palm**, the universal goblinoid gesture of peaceful intent, carried here as clan-signifier **and bitter irony**: the open palm offered by a state that governs through closed fist.
 > *The Mandate is named for the peace it intends but has never been permitted to practise.*
 **Roughly fifty-five thousand souls**, predominantly hobgoblin, with significant Bugbear, Ironblood Orc and Tinker Goblin populations.
 > *The Expanse asks. We answer. The difference is that we do not wait for the question to finish.*
+>
 > — Ironfold Commander Vreth-Kaan, address to the border garrisons, Year 702 IC
 
 ---
@@ -38,7 +42,9 @@ When the Scattering broke the goblinoid peoples out of the Old World, **the Crim
 ## Geography and the Western Shield
 
 Dense boreal forest, river valleys, low granite ridgelines separating drainage basins, **and the specific quality of terrain that military surveyors call defensible and everyone else calls miserable.** *The forest is resinous and dark, the canopy thick enough to block sky in midsummer, the undergrowth dense enough to swallow a formation within fifty metres of the treeline.*
+
 The ridgelines run north–south, creating natural defensive corridors **the Mandate has fortified with a thoroughness that visiting attachés describe as excessive and that the Mandate's own commanders describe as adequate.**
+
 Winters are longer, colder and more brutal than at the Ring or the northeastern uplands. *The population has adapted the way all northern populations adapt: by developing a tolerance for cold that outsiders find alarming and an attitude toward comfort that outsiders find depressing.*
 
 ### The capital
@@ -55,6 +61,7 @@ Dark, heavy, angular, with walls thick enough to absorb siege-engine impact and 
 A basalt monolith twelve feet by eight in the central plaza, carved in Old Vaross with six centuries of active legislation.
 > **It is not a monument. It is a legal instrument.**
 **Every decree currently in force is carved into its surface, and every superseded decree is chiselled off and the surface re-carved** — so that the Stone at any moment contains **exactly and only the law that applies.**
+
 Both acts are performed in public by the Ironfold's designated **Stone-Carver**, and both carry the ceremonial weight other kingdoms reserve for coronations: ***the law arrives in stone because the stone is the law's body, and the law departs when the stone releases it.***
 
 ---
@@ -62,6 +69,7 @@ Both acts are performed in public by the Ironfold's designated **Stone-Carver**,
 ## Origin · The Ones Who Stayed
 
 **Not every hobgoblin followed the fleet.** The continental territories held populations who could not leave, would not leave, or **chose not to leave because the continental territory was the only home they had and abandoning it felt, to them, like a second defeat dressed in the language of a strategic withdrawal.**
+
 **The Ashenmoor Period** · Two centuries after the Scattering, named for the character of the land they held: **ashen, marginal, and wanted by nobody else.** They survived because the territory was poor enough that no major power considered it worth conquering — **and because the Stone-Blood inheritance works just as effectively in a forest as it does in a fortress.**
 > *They could not build a parliament because they were too scattered and too threatened. They could not build a kingdom because they had no capital, no economy, no surplus. What they could build was a network of garrisoned settlements connected by defensible corridors, and what they built was exactly that.*
 **Vreth-Undaar** consolidated three garrison settlements onto the basalt plateau, carved the first decree, and declared the enclosed territory sovereign ground **governed by decree rather than by council, because a council requires the luxury of time and time was the thing the western shield had never provided.**
@@ -76,6 +84,7 @@ Both acts are performed in public by the Ironfold's designated **Stone-Carver**,
 ### The Ironblood
 
 Some came as refugees from inter-clan wars. **Some came as raiders who discovered that raiding the Mandate's border was the military equivalent of headbutting a wall**, and who, after sufficient headbutting, **accepted the wall's offer of citizenship in exchange for standing on the other side of it.**
+
 The **Ironblood Clause** was enacted under Commander Gorath-Keth, who argued with the pragmatism of a commander who had spent eight years fighting orcs on the northern perimeter that **the Ironblood were going to be inside the borders one way or another, and that a population with citizenship has a stake in the border's survival while a population without citizenship has a stake in its collapse.**
 > *It passed five to two, and the two dissenters were reassigned to the northern perimeter for the following season — which the Ironfold's records describe as a coincidence and which the dissenters described as a very specific kind of hobgoblin humour.*
 
@@ -108,6 +117,7 @@ The **Ironblood Clause** was enacted under Commander Gorath-Keth, who argued wit
 >
 > *The decrees carry no Wellspring enforcement. They carry the Ironfold's enforcement, which arrives in the form of soldiers rather than metaphysics.*
 **Petralon** · Diffuse rather than concentrated, providing the ambient reinforcement that makes the fortifications hold. **A formation of hobgoblin soldiers standing on Petralon-bearing stone locks into the substrate in a way that makes the formation functionally immovable without destroying the ground beneath it.**
+
 **Stone-Blood Resonance** · Not a Wellspring — **a racial Aetheric signature that all goblinoid peoples carry**, producing measurable effects when populations concentrate. *The Mandate's practitioners describe it as the weight of the stone remembering what it was before it was people.* **The practical consequence is a passive defensive field that makes a settlement harder to disrupt through Aetheric means,** which is one reason the fortifications have held for centuries against opponents with superior magical capability.
 > **The Decree Stone's Question. The single most politically sensitive Wellspring question in the goblinoid world.**
 >
@@ -128,6 +138,7 @@ Seven operational commanders, one per district, holding **both military and civi
 **The Mandate-Holder** · Selected from the Ironfold by **the Assessment**, judged on published, specific and merciless criteria: border integrity, supply efficiency, population stability, incident response time, **and the ratio of decrees issued to decrees enforced.**
 > *A commander who issues many decrees and enforces few is not considered decisive. They are considered noisy, and noise is the Ironfold's cardinal sin.*
 **Three Mandate-Holders have been reassessed out of office. All three accepted the verdict.** *The Mandate's internal historiography describes this as institutional maturity. The Expanse's historians describe it as the consequence of knowing what happens to people who refuse — a characterisation the Mandate does not dignify with a response.*
+
 **The Stone-Carver** · The official whose chisel creates law. **The quality of the carving — the precision of the script, the depth of the grooves, the clarity of the letterforms — is treated as a measure of the law's own quality.**
 > *A poorly carved decree is a poorly made law, and a decree carved sloppily into stone is a decree that has already confessed it was not worth the effort of doing properly.*
 
@@ -149,6 +160,7 @@ Seven operational commanders, one per district, holding **both military and civi
 ## Economy
 
 **Military-agrarian.** Boreal timber, furs, limited minerals, seasonal agriculture in the Ashenmoor valleys, **and the austere productivity a population living inside a permanent military perimeter develops because it cannot afford waste.**
+
 **Military services are the unofficial export** — frontier settlements and caravans occasionally hire Ironwall units for escort, *a practice the Ironfold officially discourages and unofficially permits, because the revenue supplements the treasury and the operational experience benefits the soldiers.*
 > **The Mandate does not use Nalūn's credit instruments.** It has tried to develop its own, **through decree rather than Wellspring**, and every attempt has produced documents that are **legally enforceable within the borders and metaphysically inert outside them.**
 >
@@ -164,6 +176,7 @@ Roughly **eight thousand** — the largest standing army on the northern shield 
 > Devastating against conventional forces. **Less effective against Domain-scale practitioners** — *because a Lattice that functions by absorbing chaos is vulnerable to an opponent who applies order, and a Domain is the most organised expression of magical authority that exists.*
 **The fortification line** is the most extensive non-Wellspring-backed military infrastructure on the shield: redoubts at regular intervals, cleared fire-lanes, Tinker-maintained warded perimeters, **and a signal-relay network that transmits a border alert from the northern wall to the Mandate-Holder's desk in approximately forty minutes** — *fast enough that the response is usually in motion before the attacking force has finished crossing the perimeter.*
 > The strategic vulnerability is every military state's: **it can hold its borders but cannot grow beyond them without converting from a defensive posture to an offensive one**, and the conversion requires a surplus of resources and political will the Mandate has never possessed simultaneously.
+>
 > *The borders do not expand. The borders do not contract. The Mandate exists inside its walls, and the walls are its argument that existence is sufficient.*
 
 ---
@@ -171,11 +184,15 @@ Roughly **eight thousand** — the largest standing army on the northern shield 
 ## Culture
 
 **Martial, direct, and functional in the way a well-maintained fortification is functional:** everything serves a purpose, nothing is decorative, **and the absence of ornamentation is itself a statement about what the culture values.**
+
 **Composition** · ~55% hobgoblin, 25% Bugbear, 12% Ironblood Orc, 5% Tinker Goblin, 3% other — *predominantly human frontier families who crossed the southern line going the wrong direction and were offered citizenship rather than expulsion, on the pragmatic ground that a family who voluntarily enters a military state has already selected for the characteristics the military state values.*
 > **The racial dynamics are functional rather than harmonious: the hobgoblins command, the Bugbears feed, the Ironblood fight, and the Tinkers build.** The roles are not legally prescribed — *but six centuries of cultural gravity have produced a de facto division of labour that newcomers absorb within a generation and that the Mandate's own citizens regard as natural in the way breathing is natural, meaning they do not notice it until someone from outside points it out.*
 **Language** · Old Vaross for administration and law. **Gorr-Vaross**, the Bugbear dialect, in the Ashenmoor — *long coordinated chains joined by* and, *resisting subordination, idiom drawn from water, rot, growth and things that sink.* The Ironblood speak Old Vaross with **heavier consonants, shorter vowels, and the sub-bass frequencies that physically vibrate the iron content of nearby listeners** — *which the hobgoblin population has learned to filter and which visitors have not.*
+
 **Architecture** · *The Bugbear architectural instinct is horizontal while the hobgoblin instinct is vertical, and the contrast between the capital's angular verticality and the Ashenmoor's spread-out horizontality is the most visible expression of the kingdom's internal racial character.*
+
 **The Decree Reading** · A daily ceremony, roughly fifteen minutes, at every garrison, market square and settlement hall. **Attendance is not mandatory. Non-attendance is noted** — *and in a culture where being noted is functionally equivalent to being assessed, the distinction between mandatory and expected has been collapsed by social pressure into a category the Mandate calls observed and everyone else calls mandatory with extra steps.*
+
 **The Forge-Circle** · The monthly Tinker exhibition, attended by commanders, engineers, **and whatever civilian population is brave enough to attend an event where the exhibits occasionally achieve unplanned combustion.** The Mandate's closest equivalent to a festival — *and its atmosphere, watching a Tinker demonstrate a device whose stability the proposal documents described as provisional, produces the only occasion in the calendar when hobgoblin commanders are observed to smile.*
 > **Za'tarch's cultural influence.** A position official doctrine does not accommodate and that the younger generation finds increasingly interesting: **that goblinoid peoples can live together not through decree but through soul-work.**
 >
@@ -190,8 +207,11 @@ Roughly **eight thousand** — the largest standing army on the northern shield 
 **The Hobgoblin Expanse** · The most politically charged relationship in the goblinoid world. **Two states, one species' two answers to the question of governance. The Expanse opened its palm. The Mandate closed its fist.** Both respond to the same founding trauma, and both believe the other's response was wrong. *The Expanse considers the Mandate authoritarian. The Mandate considers the Expanse naive. Both are correct.*
 > *Cultural exchange is conducted through observers who are simultaneously diplomats and spies, and both states are aware of this and consider it the healthiest possible arrangement — because an observer who is also a spy files comprehensive reports, and comprehensive reports are what both states require to maintain the mutual assessment that has prevented a war between them for four centuries.*
 **Stannvaard** · A joint border commission meets annually, **discusses the same three issues, reaches the same compromise, and adjourns until next year.** *It has performed this exact ritual for two centuries. Both sides consider it a model of efficient governance. Both sides are correct.*
+
 **Ketsuen** · Defined by **mutual incomprehension**: the Mandate cannot understand a kingdom that governs through perception rather than decree, and Ketsuen cannot understand a kingdom that governs through decree rather than perception. *The incomprehension is functional, producing a border that neither side tests because neither side can model what testing it would actually cost.*
+
 **Kharven** · Nine years of war on the southern approach, and **the one border the Mandate has pressed and not taken.** Both states believe borders must be held, threats must be answered, and governance is serious work conducted by serious people, which is precisely why neither can leave the other alone: **Moto sovereign judgment and Ironfold decree-authority arrive at similar conclusions through different mechanisms**, and the conclusion they have both arrived at is that the other is the threat worth the winter. The Ironfold's own assessment of the failed breach names no failure of doctrine. It names the cold. *A war fought by two armies that would recognise each other's staff work on sight.*
+
 **The Holy Sea of Alabaster** · **The Manumission Doctrine and the Ironblood Clause are two radically different approaches to the same problem: how to extend legal protection to a population the surrounding world considers disposable.** The Holy Sea does it through theology. The Mandate does it through military pragmatism. *The clerics find the Mandate's approach morally inadequate. The commanders find the Holy Sea's militarily irrelevant. Both assessments are accurate. Both are incomplete.*
 
 ---
@@ -208,4 +228,5 @@ Roughly **eight thousand** — the largest standing army on the northern shield 
 | **The Drow** | If Drow territory exists on the western shield, the jurisdictional overlap could produce a situation **neither governance model is equipped to resolve**: *decree-based authority meeting inverted-Parunic courtesy — the irresistible force meeting the impeccably polite immovable object* |
 
 > *The mountain does not negotiate. The mountain holds. Everything that has tried to move this mountain is now part of its base, and the base is wider than it was. That is our foreign policy. That is our history. That is the whole of the explanation — and if the explanation is insufficient, the mountain is still here, and you are welcome to try.*
+>
 > — *Stone-Carver Vorrak, unofficial remarks, preserved in the Archive despite her objections*

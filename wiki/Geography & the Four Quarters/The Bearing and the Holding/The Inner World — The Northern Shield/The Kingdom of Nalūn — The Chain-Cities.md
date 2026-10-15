@@ -11,8 +11,10 @@ verification: "unverified"
 # The Kingdom of Nalūn — The Chain-Cities
 
 **Say it** · nah-LOON
+
 *The Chain-Cities of the Northern Shield Basin*
 > **Take the tunnels and you hold rock. The value is in the seals, and the seals answer to the Wellsprings, and the Wellsprings do not recognise occupation.**
+>
 > — *Every serious military assessment of the chain-cities in the last two centuries, arriving at the same paragraph*
 
 ---
@@ -21,6 +23,7 @@ verification: "unverified"
 
 A **subterranean merchant oligarchy** carved into a sealed evaporite basin on the southeastern margin of the northern shield. Its cities are cut from salt two hundred fathoms thick, **the preserved floor of an ancient sea that dried out in an era nobody alive can date with confidence.**
 > Its wealth is not the tunnels. **It is what the tunnels are made of, and what the Wellsprings beneath them can do to a promise spoken inside their resonance.**
+>
 > A bill of exchange drawn on Ironlink Hold is accepted in the Ring smelters, in the Old World's western ports, and in trade posts across the frontier — **not because those places respect the Kingdom of Nalūn but because the instrument enforces itself.**
 >
 > *The distinction is the whole of the explanation, and it is the reason the chain-cities have endured as a sovereign power for longer than most of the kingdoms that regard them as a curiosity.*
@@ -31,8 +34,11 @@ Seven subterranean cities, a surface port, six administrative provinces. **Rough
 ## Geography and the Salt
 
 A sealed evaporite trough **ninety leagues by forty**, bounded on three sides by the shield basement and on the fourth by the boreal forest marking the transition to the contested frontier. The floor sits three hundred feet below the surrounding shield, **creating a microclimate drier, warmer and significantly more stable than the glaciated plateau above.**
+
 The beds are **bedded halite of exceptional purity**, deposited in layers preserving the seasonal chemistry of the sea that made them. The upper beds have been cut for centuries. **The lower beds, where Wellspring density increases with depth, remain partially explored** and are accessed only through the oldest tunnels — *which the cutting houses maintain with an obsessiveness outsiders find comic until they witness the first collapse.*
+
 **The Ring** · Not part of the kingdom proper and economically inseparable from it. The circular impact structure ninety leagues across holds the northern quarter's richest sulphide ore, **and every ton of it passes through Nalūn's supply contracts on its way to the coast.**
+
 **Climate** · Cold, dry and stable underground. The salt absorbs moisture and the saturation produces a low constant warmth in the deepest chambers **that visitors describe as the temperature of a body at rest.** Above ground: short summers, five months of snow cover, **and a wind off the shield carrying the smell of wet granite and boreal resin.**
 
 ---
@@ -73,8 +79,10 @@ The beds are **bedded halite of exceptional purity**, deposited in layers preser
 > Nalūn sits on **Contract-aspected Wellsprings**, which are uniquely among the sixty **able to seal an agreement into metaphysical law.** This is the single fact upon which the entire kingdom is built.
 **Contraxis** · *Contract / Agreement.* Does not produce practitioners in the conventional sense. **What it produces is an ambient field in which spoken and written agreements, properly sealed, acquire metaphysical weight.** A Parun-bound contract executed under Contraxis resonance is not a promise backed by a court. **It is a working**, and breaking it has consequences that arrive **without anyone needing to be convinced, subpoenaed, or bribed.**
 > The consequences are structural. The breaker's Essence becomes unreliable, their instruments fail to seal, **their credit becomes physically unreadable to anyone attuned to the field.**
+>
 > ***The punishment for breaking a Nalūn contract is that Nalūn stops working for you** — and in a world where Nalūn's instruments are the backbone of long-distance credit, that is a punishment worse than any court could impose.*
 **Fixatio** · Concentrated in the salt itself, making Chainsalt **an Essence dielectric of exceptional quality**: it will not conduct, will not retain, and will not degrade under sustained potential. *The interaction is what gives the chain-cities their character — agreements made inside the salt are simultaneously bound by the Wellspring and insulated from tampering by the substrate.*
+
 **Parun-bound instruments** · A document inscribed with specific glyph sequences, sealed in a linked token, executed inside the resonance field. **Each party holds a token — small iron or bronze discs that resonate while the contract is sound and go inert when it is breached.**
 
 ---
@@ -85,6 +93,7 @@ The beds are **bedded halite of exceptional purity**, deposited in layers preser
 **The Council of Links** · The senior partners of the fourteen recognised factor houses, sworn in by Parun-bound contracts specifying obligations, term, authority, and the consequences of exceeding any of the three.
 > **Four Council members in the kingdom's recorded history have been removed by the mechanism of their own oath** — their tokens going inert mid-session when the Wellspring determined they had breached the terms under which they held their seat.
 **The High Chainlord** · Head of state, chosen by **the Trial of Ten Deals**: ten days, ten increasingly complex commercial problems, judged by retired factors, active Measurewrights, and one representative of the Accord's Arbitration Division. **The candidate who resolves the most without breaching any existing contract, creating any new liability, or insulting any party whose goodwill the kingdom requires** takes the office. *Held for life, or until the holder's oath-token goes inert, whichever arrives first.*
+
 **The factor houses** · Fourteen recognised, each a commercial partnership bound by Parun-sealed articles of association. **The articles are public documents and anyone may read them.**
 
 ---
@@ -92,6 +101,7 @@ The beds are **bedded halite of exceptional purity**, deposited in layers preser
 ## Law and Custom
 
 **The Honour Challenge** · Insulting a merchant's honour is a binding challenge, **because a merchant's honour is a load-bearing financial instrument.** Resolution: retraction, arbitration, or **a formal counter-negotiation in which the accused must demonstrate through prescribed transactions under full Wellspring scrutiny that their conduct meets the standard the accuser claimed it did not.** *The loser pays all costs.*
+
 **Salt Law** · Property is measured not in area but in salt: **the volume a family's ancestors cut, the tunnels that cutting produced, and the right to maintain them against collapse.**
 > **The Drainage Obligation** is the single most important provision. Every tunnel owner must maintain their drainage to a standard sufficient to prevent intrusion into adjacent tunnels, **because salt fails in standing water.**
 >
@@ -103,8 +113,11 @@ The beds are **bedded halite of exceptional purity**, deposited in layers preser
 ## Economy and Trade
 
 **Salt** · Cast into standard bars of fixed weight and fineness, stamped by the cutting house, circulating as money across the whole northern quarter and well into the west. **Simultaneously a food, a preservative, an industrial isolation medium, and a currency.** *A salt bar is worth a silver mark at the Accord rate, more in a bad winter, and it can be eaten, which no other money can.*
+
 **Credit** · Parun-bound enforceability solved the problem that defeated every other pre-modern economy: **long-distance trust.** A bill issued by a factor house can be carried by an unarmed man across three jurisdictions and presented for payment. ***Metal does not need to travel if claims on metal can.***
+
 **Supply contracts** · A commitment to deliver at a rate, for a term, from a named source. **The most traded document in the four quarters**, and the factor houses intermediate the majority because their instruments are the only ones the counterparties trust to hold.
+
 **The Iron-to-Salt Corridor** · The principal overland route connecting the Ring smelters to the chain-cities and the coast. Serviced by independent merchants under Nalūn-sealed contracts — **most prominently the Greis Trading House, which operates eleven way-stations along the route.**
 
 ---
@@ -123,8 +136,11 @@ The **Chain Guard**: roughly eight hundred professionals responsible for tunnel 
 ## Culture and Society
 
 **Class** · Three, defined by relationship to the instruments. **The factor class** — partners and senior employees of the fourteen houses. **The cutting class** — miners, processors, engineers. **The agent class** — everyone operating under a sealed instrument without being a partner: independent merchants, bonded couriers, ward inspectors, scribes, calibrators.
+
 **The seal-token** · Every significant commercial actor carries one, representing their oldest active contract. *A merchant without a token is a merchant without a history, and a merchant without a history is a merchant without credit.*
+
 **Language** · Concord Common spoken with a precision reflecting the culture's relationship to binding language. **Contracts are drafted in a register so exact it has become a technical dialect.**
+
 **Religion** · The Holy Sea maintains a chapel in Ironlink Hold, **staffed by a single cleric whose primary function appears to be banking.** The kingdom's actual devotional life centres on the Wellspring, and the rituals around sealing significant contracts carry a ceremonial gravity that functions as worship.
 > ***The chain-cities do not pray. They negotiate, and the negotiation is the prayer.***
 
@@ -133,7 +149,9 @@ The **Chain Guard**: roughly eight hundred professionals responsible for tunnel 
 ## Relations
 
 **The Guild Accord** · The Accord handles disputes between parties who did not seal under Nalūn authority. Nalūn handles disputes between parties who did. **The arrangement has never been codified, because codifying it would require acknowledging that Nalūn's Wellsprings constitute a rival jurisdiction.**
+
 **The Holy Sea of Alabaster** · *The theological reconciliation required to hold both positions simultaneously is an achievement of ecclesiastical reasoning that the chain-cities regard with genuine admiration and no small amount of professional respect.*
+
 **The Zettari** · Commercial rather than political. Corridor merchants operate under Nalūn instruments in Zettari territory, **creating a jurisdictional complexity both parties manage by pretending it does not exist.**
 
 ---
@@ -141,12 +159,16 @@ The **Chain Guard**: roughly eight hundred professionals responsible for tunnel 
 ## The Withering Era and the Post-War State
 
 **The Withering has not affected Nalūn's Wellspring access in any measurable way.** The cities function. The instruments seal. The credit flows.
+
 **What has changed is the world around the kingdom.** The war with Cozbi Mahuo collapsed the authority structures that maintained order between Nalūn and the frontier. The eastern corridors are partially closed. **The factor houses sit behind their Parun-sealed doors. The mountain settlements have received no salt, no iron stock and no medicinal stores for months.**
 > **The High Chainlord's position** is that the restoration of external order is not a Nalūn responsibility. **The Eastern Reach's Chainwarden disagrees, loudly and on record.**
 >
 > **The factor houses' position**, expressed less officially and over salt tea in private chambers, is that a world in which the corridors stay closed is a world in which their supply books lose value — **and a factor house whose supply book has lost its value has lost the only thing it cannot replace.**
+>
 > *The tension between these positions is the kingdom's present condition, and it is the condition that brought a woman named Alkia of the Thornridge settlements to speak with a merchant named Torven Greis about roads, and wards, and what a man with wagons owes to the people who depend on them.*
+>
 > **A man who owns the ore is rich until the road closes. A man who owns the road is rich until the road falls apart. A man who owns the wards on the road is rich until he dies, and if he dies, the road falls apart, and then nobody is rich. That is the whole of the business.**
+>
 > — *Torven Greis*
 
 ---
@@ -156,6 +178,7 @@ The **Chain Guard**: roughly eight hundred professionals responsible for tunnel 
 > **Bonded labour.** The Long Reading proposes that **the salt cuttings run on the undocumented as an institution rather than an abuse** — that the Kōkan remnant, unreadable to the Alabaster register, were assigned into cutting-class contracts because a party without standing is not a party. **Muken's own mother is that ruling's test case.**
 >
 > *If ratified it goes into this codex and changes how every scene set here reads. Recommended. Currently the Culture section describes three classes and no unfree one*
+>
 > **Cultural anchor · still open.** This entry is written **culture-neutral, grounded in commercial logic.** If an anchor is selected, naming conventions, social customs and institutional detail can be rebuilt in a dedicated pass.
 >
 > **Originated and pending ratification:** the seven-city structure and six of the city profiles (Ironlink Hold's geography is canon); the six provinces and their Chainwardens; the Honour Challenge as counter-negotiation; Salt Law and the Drainage Obligation; the three-class structure; the Chain Light; the seven-year scribe training; the post-war political tension including the Eastern Reach dissent.

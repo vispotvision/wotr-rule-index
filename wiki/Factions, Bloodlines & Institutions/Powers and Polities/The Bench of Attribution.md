@@ -12,6 +12,7 @@ verification: "unverified"
 
 *Procedure, Precedent, and the Record of Strikings*
 > Issued jointly by the Research and Archives Division, the Guild of Measurewrights, and the Arbitration Division. Companion to *The Provenance Doctrine* and *the Standing Index.*
+>
 > *"The law does not govern from above. It resonates from within."*
 >
 > Carved over the gate of every Guild Hall, **and over the door of the Bench, where it is understood to be a joke.**
@@ -21,7 +22,9 @@ verification: "unverified"
 ## What the Bench Is
 
 **Where the Accord stands.** The Bench is older than the communion. It has sat for six centuries under the Codex, and its entries, strikings and reservations bind as law inside a signed circle. Outside one they bind by exclusion, which was most of their force before the first circle was signed and still is.
+
 The Bench of Attribution **is not a Division and has never been one.** It is a standing joint instrument of three Divisions that could not agree to give the function to any one of them, **and its entire procedure is the machinery of that disagreement operating at scale.**
+
 It rules on what a formula is, whether it may lawfully exist in commerce, what class of material a given lot actually contains, and who is permitted to hold the result.
 > Those four questions govern the alchemical economy, and the alchemical economy governs everything the Crown does not own outright.
 >
@@ -46,12 +49,15 @@ It rules on what a formula is, whether it may lawfully exist in commerce, what c
 ### Entry
 
 A formula is written into the **Standing Index.** It may thereafter be lawfully rendered, sold, taught, priced, insured, and pledged as security against a debt.
+
 **Nothing in the alchemical economy exists commercially until it is entered.** An unentered formula is not illegal in most quarters. It is simply outside every instrument the economy uses to hold a transaction together — **which in practice is worse than illegal, because a thing that cannot be insured cannot be shipped and a thing that cannot be pledged cannot be financed.**
+
 Entry requires a petition, a reference lot, an assay against Nine-Nail Attestation Salt, a doctrinal read, and **a Fidelity reference figure the Measurewrights are prepared to stand behind for as long as the formula remains in the Index.** *The last of those is the expensive part and the reason petitions from small houses fail.*
 
 ### Striking
 
 A formula is removed. **Every unit of stock produced under it becomes unlawful holding at the moment of publication.** Holders have forty days to surrender, after which Enforcement's interest becomes a matter of Concord Writ rather than of paperwork.
+
 Grounds are three: **doctrinal error** discovered after entry, **a reference figure** that later assay cannot reproduce, and **material harm** demonstrated in the field. *The third is the one the public understands and the least used.*
 > **What a Striking actually costs.** Consider a Threshold formula that a poor eastern district has tempered its practitioners on for six generations, struck because the rendering house cannot produce a clean provenance chain **for stock it has been buying honestly from people who did not keep records.**
 >
@@ -64,6 +70,7 @@ Grounds are three: **doctrinal error** discovered after entry, **a reference fig
 ### Attribution of lineage
 
 The Bench rules what **Provenance Class** a lot actually contains, on assay, **without regard to the seller's warranty.**
+
 **This is where the money lives.** A house that has bought against a Class V warranty and receives a Class III ruling **has been ruined in a sentence.** Roughly forty such rulings issue in a year, *and the Bench issues them without visible discomfort.*
 > The Attribution names the class. **It does not name the source.**
 >
@@ -74,6 +81,7 @@ The Bench rules what **Provenance Class** a lot actually contains, on assay, **w
 #### Source-blindness, and what it lets through
 
 The Attribution is **blind to source by design**, and the design is defensible on every ground the Bench has ever cited. It is also the reason the Class IV shortfall is bankable.
+
 **Crystal Draw produced by extraction and by engine work is indistinguishable on the coil from lawfully rendered stock**, because the process was the same process performed without a warrant. It therefore passes Attribution cleanly, receives a Class IV seal, and enters commerce insured, pledgeable and financed. *The seal is honest. It reports what the lot contains. It has never claimed to report where the lot came from and nobody has ever asked it to.*
 > **The gap in the procedure is one instrument wide.** Entry requires two independent assays against Nine-Nail Attestation Salt, in separate halls, by two Measurewrights. **Both are coil assays.**
 >
@@ -103,11 +111,13 @@ flowchart TD
     D -.->|"chain missing a Boundary role"| X["REFUSED OUTRIGHT<br>not appealable"]
 ```
 *The last petition requirement — a named practitioner who will stand as the formula's author — is why a great many formulas in general use are not entered. Somebody has to put their name on it.*
+
 Disagreement between the two assays beyond tolerance sends the lot back **and is recorded.** *A house whose lots repeatedly disagree acquires a reputation the Index does not print and every buyer knows.*
 > A chain missing a **Boundary role** is refused outright without further consideration, and the refusal is not appealable, and **this is the single rule in the entire procedure that has never been challenged in six centuries.**
 >
 > Everyone in the trade has seen what a working without limits does **when it runs out of the material it was given and starts on the material it was not.**
 **Unanimity is not required.** Two chairs may carry a ruling where the third dissents, and the dissent is entered in full — which is the mechanism by which the Measurewrights' objection to the Class VI grading practice has appeared in every compilation since the first **and been overruled in every compilation since the first.**
+
 *Fourteen appeals have succeeded. Nine hundred and something have not, and the Division stopped publishing the denominator in Year 680 on the stated grounds that it was discouraging legitimate appeals.*
 
 ---

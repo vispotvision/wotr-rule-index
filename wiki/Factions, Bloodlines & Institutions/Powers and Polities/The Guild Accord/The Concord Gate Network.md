@@ -20,6 +20,7 @@ verification: "unverified"
 ## Origin of the Network
 
 The first Gates were forged during the **Voyager Era**, when the mortal world still lay fractured into isolated Wellspring territories. The High Concordant ordered the creation of the **Great Arches** — immense ritual structures capable of bending the Aether between distant points, built atop ley intersections and reinforced by the Titans' residual laws of gravity and continuity.
+
 When the Codex was sealed, these became **the first nine Concord Gates**, immortalized as divine constructs anchored by the Lattice itself. Every Gate thereafter was patterned on these originals.
 
 ---
@@ -51,6 +52,7 @@ flowchart TD
 ### Command
 
 Maintained by Logistics & Supply, directed by the **Chief Logist**, formally titled the **Gate-Warden of the Lattice.** Every Gate has three overseers: a **Sealwright Prime** who maintains Parun glyph synchronization, a **Transit Keeper** who monitors Essence drift and arrival stability, and a **Concord Clerk** who records every crossing in the Lattice Ledger.
+
 Only authorized guild members bearing valid **Transit Sigils** may pass freely. Unauthorized use violates the Law of Passage and is punishable by Essence seizure or full Severance.
 
 ---
@@ -79,6 +81,7 @@ Between Gates exist extradimensional veins of light and hum that form the connec
 ### Malfunctions and hazards
 
 When a Gate destabilizes, the Veil Core emits a **Lattice Surge** — violent feedback of Aether that can shred travellers into resonance dust or open rifts to the Outer Realms. Causes include Wellspring collapses, Essence overdraw, or interference by divine entities. *During such events, light bends inward, sound becomes inverted, and gravity abandons direction.*
+
 Some Gates, long abandoned, become corrupted — birthing **Echo Lairs** inhabited by entities known as **Drifters** or **Gateborn**, creatures assembled from failed travel resonance and fragmented souls.
 
 ---
@@ -95,7 +98,10 @@ The entire network is built upon **Lattice Lines** — metaphysical arteries cha
 ## Gate Warfare
 
 In times of large-scale conflict, Gates become **both weapon and vulnerability.** The Strategic Division can seal or weaponize a Gate by converting its Veil Core into a **Resonance Bomb**, releasing compressed transit energy into the enemy's realm. Such acts are **forbidden under Concord Law**, but precedent exists from the Eclipse Wars and the Outer Incursions.
+
 Defensive techniques include **Aether Sink Fields**, which absorb Gate resonance, and **Temporal Locks**, which slow entry and create false exit points.
+
 *Legends speak of Gatewalkers — rare Paragon operatives capable of stepping between realms without any physical Gate, walking the Lattice Lines themselves.*
 > *"Every journey bends the law. Every return reaffirms it. The Lattice is not a road — it is a memory of where you chose to go."*
+>
 > — Engraved upon the first Gate of Eresse, Year 003 IC, Voyager Era

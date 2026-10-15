@@ -20,6 +20,7 @@ verification: "unverified"
 ## I. Why an Errata Rather Than a Recension
 
 The Concordance withdrew the received chronology. It did not, and could not, withdraw the several hundred documents written against it.
+
 The Archives requested a full recension, meaning that every affected register be reissued in corrected form. The Guild declined, for two reasons and one of them is not administrative convenience.
 > **The first reason is that a recension destroys the evidence.** A charter written in the old count is a record of what its signatories believed, and a bloodline claim written against a date that no longer exists is still a claim, still binding on its parties, and still the only surviving proof that the claim was made. Reissuing it silently corrected would leave the Accord holding a shelf of documents that all agree with each other and none of which anyone has read.
 **The second reason is that the conversion is mechanical.** Where a superseded register gives a date in the old count, the correction is a substitution and not a judgement, and a reader who has this instrument in hand can perform it without consulting the Guild. Six substitutions cover the whole corpus.
@@ -31,7 +32,9 @@ The Archives requested a full recension, meaning that every affected register be
 Before the substitutions, a distinction the Guild has been asked for since the Concordance was sealed.
 > The Concordance governs **the Ages**. It does not govern **the Epochs**, and no reader should attempt to convert one into the other.
 The Ages are historical. They are counted, attested, and dated by physical evidence, and the whole of them runs from Year minus fourteen hundred to the present. The Epochs are cosmological. They concern the Division of Omnara, the three currents, the Plane of Fate, the Soul Plane, the Physical Plane, the Titans, and the Archons. Their durations are given in the surviving records as figures in the tens and hundreds of thousands, and the Guild has examined those figures and found that not one of them derives from a count.
+
 No calendar existed. No observer stood outside the Epoch to mark its passage. The numbers are theological quantities in the shape of durations, and the Guild considers them **accurate as statements about magnitude and meaningless as statements about years**.
+
 This is not a demotion. A bloodline that traces itself to the Second Epoch is making a claim about origin and not about arithmetic, and the claim is unaffected by the Concordance. The Yukari registers stating that Senri Yukari perceived Ashura's approach across a hundred and twenty thousand years remain as written. The Zettari registers claiming two hundred thousand years of continuous lineage remain as written, and the Guild notes that the Zettari's own archive describes that figure as *held out of conviction*, which is the correct description and does the Guild's work for it.
 
 | Finding | Statement |
@@ -64,10 +67,15 @@ Every number in the old count above about two thousand derives from a single str
 ## IV. Registers Requiring No Action
 
 The Guild has surveyed the principal holdings and records the following as conforming already, so that no clerk spends a season correcting what is not wrong.
+
 **Documents stamped in the Voyager Era at low years of the count** · The Concord Codex at Year 000 IC, the Heart Vault inner seal at Year 013 IC, the Hall of the Vanguard engraving at Year 014 IC, and the High Concordant's Lattice writ at Year 027 IC are all correct as sealed. The Voyager Era is the opening era of the count and runs to Year 070. The apparent paradox in the first edition of the Four Ceilings arose from placing it five centuries late and has been withdrawn.
+
 **Bloodline and Path registers** · See Section II. None cite an Age.
+
 **Wellspring registers** · The sixty Wellsprings are described by law and behaviour rather than by date. Where a Wellspring register gives an era of discovery, it is giving the era in which somebody wrote it down, which is a fact about scribes.
+
 **Technique and glyph registers** · Unaffected. A glyph combination has no date.
+
 **The Guild Accord instruments** · The Codex articles, the Divisions, the Tiered Path, and the Gate network all date to the Voyager Era and are correct as written.
 
 ---
@@ -77,6 +85,7 @@ The Guild has surveyed the principal holdings and records the following as confo
 The Guild has been asked, twice in writing, to state plainly whether anybody is harmed by this instrument. **It is**, and the Guild would rather say so here than be asked again.
 > Every claim resting on antiquity is worth less this morning than it was worth before the Concordance was sealed. A house that held title by right of thirty thousand years now holds it by right of six hundred. The title is not weaker in law. It is weaker in the only currency such claims actually trade in, which is the sense that a thing has always been so, and there are several holdings in the northern quarter where that sense was the whole of the security.
 Four Archives careers rest on the withdrawn stratigraphy. The Guild names none of them and states that the method was standard when it was applied, that its authors were diligent, and that they were wrong about a rate of ash and not about anything else.
+
 The Guild has no remedy to offer for either. It observes only that the count was wrong for as long as it went unexamined, that it was wrong the entire time those claims were being made, and that a claim which required the error to hold was never resting on the years.
 
 ---

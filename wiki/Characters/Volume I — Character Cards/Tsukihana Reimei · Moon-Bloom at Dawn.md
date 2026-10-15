@@ -20,10 +20,15 @@ verification: null
 ### I · Identity
 
 **As Of** · After the Still Garden at Altherion
+
 **Name** · Tsukihana Reimei (月花黎明). **Called** · Moon-Bloom at Dawn. **The Pale Petal of Silence** · *Kinjirareta no Shizukana Ha.* Among the fae, *Hana-no-Kagami*, the Mirror That Blooms.
+
 **Role** · **Enforcement Division, Veil Arbiter Class** *(unattested)*. **Reflection-rite practitioner. The one cut that severs corruption and keeps the soul.**
+
 **Lineage** · Human, fae-tainted; the *Aether-Kissed* subtype. *Diluted Verdantia resonance from the fae strain gives her aura the faint luminescence of moon-lit petals.*
+
 **Realm of origin** · Eresse, New World; the border province of Kael'Nir forests *(unattested)*, where fae and human treaties once entwined bloodlines under moonlight. Born in the village of Hane-no-Tera *(unattested)*.
+
 **Gloss rights** · **Never.** *Her silence carries both empathy and warning. She does not explain the cut.*
 
 #### Affiliation
@@ -38,9 +43,13 @@ verification: null
 ### II · Soul Architecture
 
 **Aether Shell** · **Class III · Resonant.** The fae influence makes her resonance subtly melodic.
+
 **Attraction Layer** · Developed and lonely. *She hears the hum of Essence even when no Well stirs, and heightened intuition has cost her company.*
+
 **Crystal State** · Refined, **volatile under emotional duress.** *Harmonic, soothing, and the melody breaks when she does.* **η** · 0.60 to 0.70, Tier of Standing 5, Expert *(estimate, Expert range)*.
+
 **Essence colour** · Pale lilac, the moon-lit petal; her eyes glow with it when she channels.
+
 **The Mirror Garden** · *Domain seed. Read from three Archonic stations: Kaetra (Dream), Selhar (Harmony, glyphs `[Se]` Song and `[Ar]` Accord), Elyndra (Renewal, glyphs `[Yn]` Bloom and `[Vael]` Renewal).*
 
 ---
@@ -48,7 +57,9 @@ verification: null
 ### III · Wellspring Harmonizations
 
 **Fixatio** · Materia. **Governing.** *Thermoset cure: once cured, the network will char before it flows, and the alternative configuration no longer exists as a reachable state.* **Restraint bound to renewal: she stills chaos by curing it into a shape it cannot leave.** *Failure: irreversibility. A binding placed in error is permanent, and she shows mercy easily and forgiveness rarely for exactly this reason.*
+
 **Verdantia** · Vitalia. *Carbon fixation and indeterminate growth.* **Purifies through serenity; what she prunes regrows in its virtue's shape.** *Failure: etiolation. Growth without ambient input is length without substance.*
+
 **Mirithane** · Limina. **Governing the reflection work.** *Specular reflection and the phase-conjugate mirror: a true mirror adds nothing, and returns a wavefront that undoes its own distortion on the way back.* The mirrored fields, the reflection rites, the reflection she offered. *Failure: the mirror does not discriminate. In a state she would rather not broadcast, she broadcasts it perfectly.*
 
 ---
@@ -83,9 +94,13 @@ verification: null
 ### VI · Traits
 
 **Fae-Tainted Hearing** · **Bloodline.** Heightened intuition; she hears the hum of Essence even when no Well stirs. *The loneliness is the same trait from the other side.*
+
 **Moonveil Draw** · **Projects a crescent of refracted light that silences Wellspring resonance within its arc.** *Spellcraft, and the crescent lasts as long as her attention.* Technique, carried here pending its own entry.
+
 **Petal Reversal** · **Redirects incoming Essence bursts into mirrored bloom-bursts**, harmless illusions that pacify aggression. *Angle in equals angle out; the burst comes back as a picture of itself.* Technique, carried here pending its own entry.
+
 **Still Garden** · **A circular field of serenity in which combatants lose the will to strike.** *The Domain seed, pushed outward as an influence field short of full formation. An Enforcement rite reserved for inner-Accord disputes.* Technique, carried here pending its own entry.
+
 **Kagami no Sei** · The discipline of reflection and inner balance *(unattested)*. Every movement deliberate.
 
 ---
@@ -93,7 +108,9 @@ verification: null
 ### VII · Artifacts
 
 **Shiranui** · *Her blade.* **Sings a near-inaudible tone when drawn, said to calm corrupted spirits.**
+
 **Ceremonial kimono of Aether-silk** · *Pale, layered, protective.* **Purple ribbons bind each fold and function as containment charms.**
+
 **Enforcement pauldron** · *Single, across the shoulder.* Bears the emblem of the Enforcement Division: judgment without bias.
 
 ---
@@ -103,8 +120,11 @@ verification: null
 #### Verdant Severance
 
 **Effect** · **One cut that severs corruption while preserving the soul.** The blade lands on the corrupt configuration and Fixatio cures what remains into the shape the soul had before, so the corruption is no longer a state the subject can return to; Verdantia regrows what the cut removed in its virtue's shape. *Used only when judgment demands restoration, not death.*
+
 **Cost** · **The silence that makes the cut possible tires her for as long as it is held, and the mirror does not discriminate.** After a Severance she cannot suppress for hours; she is audible to every practitioner in range, and whatever she felt at the moment of the cut broadcasts without correction. *Off the field: forgiveness is rare in her because every cut is permanent, and she carries each one.*
+
 **Limit** · **There must be something to preserve.** A subject whose corruption is its whole structure leaves nothing for the cure to hold, and the cut kills or does nothing. Irreversible, so never drawn on a subject she has misread.
+
 **Counter** · **Make the room loud.** *Harmonics Suppression breaks under environmental pressure and hostile interference; a Severance needs the silence first, and a practitioner who keeps the field noisy denies her the draw.* Keep moving: the cut is one, and it needs its geometry.
 > **What nobody knows.** What the entity she quelled did with her reflection, and whether the Mirror Garden is hers or its.
 
@@ -113,8 +133,11 @@ verification: null
 ### IX · Relationships
 
 **High Arbiter Saen** · Mentor, in the Arbitration Division *(unattested)*.
+
 **The Arbitration Division** · Noticed her gift and trained it. **The Enforcement Division** · Took her after the Oath.
+
 **The fae** · **Call her Hana-no-Kagami**, said to appear wherever dreams must be judged for truth.
+
 **The Well-born entity** · Quelled by being given her reflection to inhabit. *Not on the sheet as an enemy. Not on it as anything else, either.*
 
 ---
@@ -133,26 +156,35 @@ verification: null
 #### Origin
 
 Tsukihana Reimei was born in the village of Hane-no-Tera, in the border province of Kael'Nir forests, in Eresse in the New World. Fae and human treaties had once entwined bloodlines there under moonlight. Hers was one of them. She was born human and fae-tainted, and her aura gave off a faint light, the colour of petals under the moon.
+
 She heard the hum of Essence where no Well stirred. The hearing came with the blood. It told her what the people near her had not said, and it cost her company early. The fae gave her a name of their own, Hana-no-Kagami, the Mirror That Blooms, and said she would appear wherever dreams had to be judged for truth.
+
 Under Concord law the fae strain in her came near to having her branded a heretic. The brand was never set. Her gift for reflection rites drew the notice of the Arbitration Division first, and the Division took her to train.
 
 #### The Making
 
 She trained under High Arbiter Saen in Kagami no Sei, the discipline of reflection and inner balance, where every movement is deliberate. She learned to still a room around her. She learned the blade until it was one cut.
+
 In those Arbitration years she read the Division's review of the Siege of Oriel in the Archives Eternal, beneath the Council Spire of the Concord Citadel. The siege was a Voyager Era engagement. A surgeon called Asaemon had cut each of the enemy's corrupted generals loose from the power that fed him, and nobody on either side had died. His part of the record was an account of wounds: where each general's connection had failed, and where he had cut it. It said nothing of how he made the cut. She kept the review in mind as a precedent from the Accord's own archive, a cut that had left both sides alive.
+
 She quelled a hostile entity a Well had generated by offering it her reflection to inhabit. The Mirror Garden is that offer, kept. Whatever arrives in it is shown itself and has nowhere else to go. When she had mastered the Mirror Garden Oath, the Enforcement Division took her from Arbitration.
 
 #### The Cost
 
 The Verdant Severance is one cut. It severs the corruption in a subject and keeps the soul, and what the cut removes grows back in the shape of the subject's virtue. She draws it only when judgment demands that the subject be restored. Once it is drawn, it cannot be undone. A binding she placed in error would stay placed. She shows mercy easily and forgives rarely, and she carries every cut she has made.
+
 The cut needs the room silent first. Holding the room that way tires her for as long as she holds it, and afterwards she cannot keep quiet for hours. Every practitioner in range can hear her then. Whatever she felt when the blade landed goes out from her uncorrected. She does not explain the cut.
+
 A subject whose corruption is its whole structure leaves her nothing to keep. There the cut kills or does nothing. She will not draw on a subject she has misread.
+
 The Division once sent her to the ash plain of the Accord-chartered arc, to Vael of Nothing, on whom it keeps a file and no warrant. She was to learn whether anything in him could be kept. Ser Caldran Veiss had gone before her, alone, and had entered that Vael told him no lie. On her walk in, the hum she hears where no Well stirs grew thinner the nearer she came. She stopped at a distance. She could not say she had read him. She did not draw, and her entry in the file recorded no reading.
 
 #### Where They Stand
 
 Tsukihana Reimei serves the Guild Accord's Enforcement Division. She wears a ceremonial kimono of Aether-silk, pale and layered, and purple ribbons bind each fold as containment charms. A single pauldron crosses one shoulder with the Division's emblem, judgment without bias. Her blade is Shiranui. Drawn, it sings a tone at the edge of hearing, and it is said to calm corrupted spirits. When she channels, her eyes turn pale lilac.
+
 At Altherion she stood between the Division that trained her and the Division that took her. Enforcement had taken the ground under one of Kael Serradyn's seals as forfeit, and the holder had filed with Arbitration. Both Divisions sent parties to the hall of the legation Enforcement keeps there. Kael gave his account of the sealing. The argument went on over it, jurisdiction against jurisdiction and fee against forfeiture, until men on both sides had their hands on their weapons. She laid the Still Garden, the rite Enforcement keeps for disputes inside the Accord. Inside it nobody wanted to strike. The parties sat down, and the dispute went back to paper.
+
 No record names the entity she quelled as an enemy, or as anything else. Nobody knows what it did with her reflection, or whether the Mirror Garden is hers or its. The file on Vael of Nothing is still a file.
 
 #### Ties

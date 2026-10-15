@@ -23,9 +23,13 @@ Mass approximately 1.6 kg; overall length approximately 110 cm, of which the bla
 ### Operation line
 
 **Season Shift, Spring.** The Verdantia current runs through *Yn* (Bloom), so a cut sealed immediately regrows tissue at the wound edge as living scar rather than an open injury; it heals flesh, not Essence, and draws from the wielder's own reserve to do it.
+
 **Season Shift, Summer.** The Rebirthine cycle-current briefly phase-locks to whatever ambient heat is present, a documented but unusual cross-Family Resonant Pair rather than a Family change, and the blade's strikes carry that heat forward into the target.
+
 **Season Shift, Autumn.** *Wy* (Motion) redirects Essence carried in a struck target back along the blade into the wielder's own reserve on contact, a direct transfer rather than a stored or shipped one.
+
 **Season Shift, Winter.** The cycle-current runs in reverse, pulling latent heat out of struck tissue into the blade rather than adding cold to it, which is what reads on the body as frostbite and slowed movement.
+
 **Cycle Severance.** A four-day rite, one attunement per season-day. Bill of goods: the blade itself, an unbroken four-day presence at the corrupted site, and the pommel's seed-gem as a holding vessel. Order of operations: the Spring cut opens the land's Essence pathways; the Summer strike burns out corrupted residue along them; the Autumn draw pulls the loosened corruption into the seed-gem; the Winter cut locks the purified pattern in place. Breaking the sequence anywhere leaves the land half-purified and structurally unstable, a standing Threshold Event risk to any Essence current nearby. Estimated cost: roughly 600 EU per day, approximately 2,400 EU across the full rite, an estimate within Chimwala's Stage VIII, Band B range.
 
 ### Codex line

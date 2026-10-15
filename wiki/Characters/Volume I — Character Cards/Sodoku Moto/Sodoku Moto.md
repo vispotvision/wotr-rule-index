@@ -11,6 +11,7 @@ verification: null
 # Sodoku Moto
 
 **Say it** · soh-DOH-koo MOH-toh
+
 *The Exiled Lion · The Kōkan Butcher · Card 19*
 > **Level 320 in a Stage VI body.** Two to four Grade brackets past what his Crystal has certified, and a Coherence Band of **D**, which is what that costs.
 >
@@ -21,9 +22,13 @@ verification: null
 ## I · Identity
 
 **As Of** The muster at Kharven-Seat, the morning of the ninth hour
+
 **Also known as** The Scourge of the Moto · The Kōkan Prince
+
 **Race / Lineage** Human — Archaic Bloodline, Moto. **Kōkan Line. Former Crown Heir**
+
 **Age** 28 · **Sex** Male
+
 **Standing** Exiled by High Council decree, wanted across multiple territories, **charged with the massacre of the Tenrai main-branch settlement.** At twenty-eight, eleven years after the corridor, he is at Kharven-Seat with the daughter he had never met, and rides out at the head of its muster on Tōga.
 > **Catalyst Event.** A Tenrai-commissioned corridor assassination took his father Muken and his brothers Tomuka and Ezo **in one night.**
 > 
@@ -56,8 +61,11 @@ verification: null
 
 > *The Kōkan Line does not harmonize with Wellsprings in the standard sense. It carries native bloodline intimacy with Hataraki, the governing function of the Plane of Fate.*
 **Techniques administer rather than explode: reveal, rank, condemn, stabilize, sever, complete.**
+
 **Totality — Zentai-sei no Hataraki** · Primary Work inheritance. The Crown judgment at full expression.
+
 **Ruins — Hametsu no Gō** · Active in Kurosetsu's Mandate Weave inscription. Collapse, severance, terminal pressure.
+
 **Judicium** · The Kamigan's analytical substrate. Threat-reading, Essence-signature assessment, probability-vector ranking.
 
 ---
@@ -86,10 +94,15 @@ verification: null
 ## VI–VII · Force and Flow
 
 *Raw stats suggest SS–X territory, but Aether Class II caps deliverable output at Band D conversion. Figures below are actual current battlefield output, with the SSS-territory raw numbers as unrealized headroom.*
+
 **Strike Force** · A-Grade band, city-block to multi-city-block equivalence at full Kurosetsu delivery — **the Mandate Weave routes Ardency into verdict rather than raw force**, so strikes read above the blade's physical weight class.
+
 **Attack Speed** Mach 10–30 · **Reaction** 0.2–1ms · **Travel** Mach 5–25, 1,715–8,575 m/s
+
 **Aura Pressure Field** · **38m passive, 80m+ under full Crown Judgment**
+
 **Domain Pressure** · Minimal. The Totality Domain is still seed-stage
+
 **EU Reserve** 1,340,000 · **Flux Density** 920 EU/g · **AU/s** ~772.8 base · **η** 0.84
 
 ---
@@ -100,7 +113,9 @@ verification: null
 >
 > **A continuous, unclosable system.** Classifies everything by threat level, Essence signature, combat capability, intent, and verdict status. **No off switch.** At Stage VI it reads authority gradients in social spaces as readily as combat geometry.
 **Throne Bias** · Tempered · Hataraki — a passive weighting **flagging governance-class data above survival-class data even when survival is the immediate concern.**
+
 **Kōkan Bloodline Verdict-Sight** · Lineage — native intimacy with the Plane of Fate, **present since the ring-lines first marked his irises at birth.**
+
 **Reigan, Eye of the Soul** · Lineage · **reach four hundred miles.** Open, it takes the ordinary world away and leaves the traffic of souls under it, with its weight, direction and health. It goes to weight, and weight is not always where he aims it. **He is blind for as long as he holds it open**; the read that took him four hundred miles cost him eleven seconds.
 > **The Unranked Category, "The Room"** · Resonant
 >
@@ -126,9 +141,13 @@ verification: null
 ## XI–XII · Axes and Resistances
 
 **Muken** *(father, dead)* — Foundational, still active. **Every ranking the Kamigan delivers answers a question his father taught him to ask.**
+
 **Yoko** *(Anima Spirare, growing)* — Deepening, **unnamed by him for the same reason it is unnamed by her.**
+
 **Emira Moto** *(younger sister)* — **Absolute.**
+
 **Sonzai Moto** *(brother, separated)* — Heavy, unresolved. *The Kamigan's threat-queue on his whereabouts has never closed.*
+
 **Resistances** · Ancestral resistance to Essence-based debuffs, Filtration elevated. **Vulnerabilities:** Harmonics genuinely trails bloodline expectation — *a real gap, not a flavour note.* Dominion is seed-stage; **a practitioner with a mature Domain holds real structural advantage over him regardless of his raw spread.**
 
 ---
@@ -147,7 +166,9 @@ Near-black hair with a **Kōkan violet-cast in direct light**, heavy and straigh
 | **Dialogue Evolution** | At nineteen, grief-as-fuel. At twenty-two, more complex — **not softer, not cleaner, different, the way scar tissue differs from the skin it replaced** |
 
 **Kurosetsu — Black Verdict** · Ruins-inscribed practice blade, **below Guild Accord combat classification on paper.** *What it cuts does not read as below-grade regardless of the specification.*
+
 **Covenant Beads** · Non-magical, his father's, jade and iron worn smooth. **The only object carried continuously since the exile began.**
+
 **Field Coat** · Heavy, dark, wide fur collar, iron-thread seams. Replaced twice. [[Factions, Bloodlines & Institutions/Houses and Bloodlines/The Archaic Bloodlines/The Moto Bloodline/The Moto Bloodline — Material Culture|*The campaign form of Moto dress — see The Moto Bloodline — Material Culture.*]]
 
 ---
@@ -155,15 +176,25 @@ Near-black hair with a **Kōkan violet-cast in direct light**, heavy and straigh
 ### Voice
 
 **Notices first** · Where the weight in a room actually sits: whose hand is on whose throat, who is paying a price that does not show on the table, and which person in the room is the child. He reads the whole room before he speaks and speaks to the part that matters.
+
 **Sentence length** · Long and complete. He talks in full, formal sentences that carry their reasons inside them, joined with "and" and "because" until the whole thought is on the table; he does not fragment and he does not trail off.
+
 **Contractions** · never. "I do not know," never "I don't know," in council, at supper or in the dark.
+
 **Pet word** · "exactly": the line sits exactly there, the Houses broke along exactly those lines.
+
 **Never says** · Small talk of any kind, a pleasantry for its own sake, a joke he means, or a threat he will not keep. He does not ask for advice about his own life and does not raise his voice.
+
 **Stumbles** · Never. A sentence of his is finished before it leaves him.
+
 **Gloss rights** · Never. He names a thing and goes on; if the listener does not know the word, that is the listener's education.
+
 **Under stress** · The sentences shorten to plain orders and flat statements of fact, and he goes quieter, not louder; his hand finds the covenant beads at his throat when he thinks nobody is watching.
+
 **In grief** · The formality falls back to his father's house: the old court forms, "Father", "we are all Moto", and long stretches in which he says nothing at all, the boy who ate at a stranger's table and did not speak.
+
 **In joy** · The voice does not change; he still speaks in complete, careful sentences. It shows in the hands: a strap worked loose too slowly, a palm on a head, a kiss on a daughter's hair at the foot of the stair. His jokes happen only by accident, when a flat truth lands as one and he does not notice the room laughing.
+
 **Sample line** · "He is thirty-one years old and he has never once taken advice about a woman, including from our father, who tried twice and stopped."
 
 ## XVI–XVII · Temperance and Fractures
@@ -171,10 +202,12 @@ Near-black hair with a **Kōkan violet-cast in direct light**, heavy and straigh
 **I Murmuring** complete — *ring-lines present at birth, ahead of formal awakening.* **II Welling** complete before age five, bloodline-accelerated. **III Ascension** complete — first verdict delivered through Kurosetsu. **IV Flourishing** complete — the heir period.
 > 
 > *The projection didn't cancel. Whether he is still oriented toward it is the open variable.*
+>
 > **V Splintering** · Complete, **Fracture Event** — the massacre and the exile.
 >
 > ***The crack is not damage. It is an opening, now closed, the seam load-bearing.***
 **VI Glory** · Active — the Crown at full visible output, rooms rearranging, Domain seed active.
+
 **VII Refraction** · Not reached. Projected: the Domain seed coheres into first true architecture.
 > **Bloodline ceiling projection, made when he was sixteen and intended to be a king: Stage XIII, full Totality Domain at Archon-class expression.**
 **Fracture Log** · *The Massacre and Exile* — Tempering, Dominion. **Closed, load-bearing.** *Feature: the seam is stronger than the surrounding Crystal, a different colour than what was there before.* **·** ***The Unranked Category*** **— Judicium-Attraction junction. Processed, functional.** Feature: the room the Kamigan can't process and doesn't need to — where Yoko and Emira live inside his architecture.
@@ -182,6 +215,7 @@ Near-black hair with a **Kōkan violet-cast in direct light**, heavy and straigh
 ---
 
 > *"Not a softer man. Not a cleaner one. But perhaps, for the first time in his life, a better one."*
+>
 > — Path of Sorrow, on the Scourge of Hell arc
 - [The Arctic Lion — Sovereign Configuration (Level 500)](Sodoku Moto/The Arctic Lion — Sovereign Configuration (Level 500).md)
 - [Tōga (冬牙) — Winter Fang](Sodoku Moto/Tōga (冬牙) — Winter Fang.md)
@@ -193,34 +227,51 @@ Near-black hair with a **Kōkan violet-cast in direct light**, heavy and straigh
 #### Origin
 
 Sodoku Moto was born into the Kōkan Line, the son of Muken Moto, King of Kharven, and of Ayame Yuno, who came from the Yuno's island. The Kamigan's ring-lines were in his irises at birth. He was raised the Crown Heir. He had brothers, Sonzai, Tomuka and Ezo, and a younger sister, Emira.
+
 Muken placed the covenant beads at his throat before he was old enough to know what the placing meant. They were jade and iron. One morning his father took him to a village of the dead and stood among the bodies without a word. On the eastern campaign route they passed through Debera Ironvault's inn at Verath. The boy ate at her table and said nothing.
+
 In the east wing his mother was brushing Emira's hair while he sat by the hearth with a tactical manual. She said, "Put down the manual, love. You cannot learn what a kingdom is from a book about how to take one."
+
 She told him about the island where she was born, where beastkin and humans shared the same wells and nobody had built a wall. At sixteen his bloodline's reach was projected for him. He was meant to be king.
 
 #### The Making
 
 The Warden, Zaehaerys Stark, had sent his cousin Fern south to learn how the Moto thought. She and Sodoku chose each other. Ayame blessed the union before Muken signed anything. Fern went home to the Ironwood March carrying his child, and the Warden rode to her holdfast to confront her.
+
 Sodoku stood in the doorway. "I slept with Fern because Fern is the woman I chose and the woman who chose me," he told the Warden. He granted the Warden his law: "She will be Ice on your documents." He granted nothing past it. "But if my future wife says that her daughter is a Stark, then that is what my nurses will write." Then he dismissed the Warden from a holdfast on Stark land.
+
 That morning his father signed the approval for the marriage. The courier never came.
+
 A Tenrai-commissioned corridor assassination took his father Muken and his brothers Tomuka and Ezo in one night. Before the fires reached the upper floors, Sodoku went to the study. He took the approval off the dispatch pile. He and Sonzai answered by burning the Tenrai main-branch settlement to the ground, women and children included. The High Council exiled him by decree and charged him with the massacre. What happened there is sealed in its archive.
 
 #### The Cost
 
 He went into exile with Emira. He did not clean his blade, Kurosetsu, after the settlement.
+
 At Verath township a starving fox-spirit girl begged him for food through the grating of a holding pen. He struck the lock with Kurosetsu's pommel. "Come out," he said. Then he broke every lock down the row.
+
 He bought the girl bread and broth. He told her, "You are nothing more than a tool to me." He said he needed someone to hold his sister when she cried. When the girl gave her name, Yoko, he did not repeat it. He sent her up to sleep beside Emira. The slaver came with three armed men and priced the freed people at four hundred gold marks. Sodoku did the division aloud without touching his hilt: "Seventeen gold marks per person. Less than a horse." The slaver left. Sodoku sat out the night on the inn step in the rain.
+
 In the morning Debera offered him a place to stop. He refused. "Settling makes you predictable. Predictability makes you targetable." Then he said, "I cannot give them a fixed point."
+
 He took her provisions and her guild letter and walked east into the Verath Expanse, and Emira and Yoko followed. At twenty-two he was travelling the Scourge of Hell of Hell with Yoko and Emira, wanted across multiple territories and separated from Sonzai. The Kamigan had no off switch. By then it held one room it could not rank, and Yoko and Emira lived in it.
+
 Eleven years after the corridor he came north over the polar shelf with Sonzai, and at the rift's edge he told his brother of a daughter by a Stark woman named Fern. He showed him the approval, carried against his chest ever since the study. At the north gate of Kharven-Seat, Hild ran into his breastplate crying, and frost spread from her across the yard. He said, "Let it crack." He pulled off his gauntlet with his teeth and put his bare hand on the back of her head.
+
 On the morning of the ninth hour he ordered her below the old cistern with Osric. Nobody was to sortie for anything, even for him. He kissed her hair at the foot of the stair and rode out. Off the Ashgate road a thing with his own younger face offered him the power to end the war by nightfall. The price was his bond to Hild, cut in less than a second. She would never know, and he would never feel her again. It called him afraid. He said, "Of course." He turned his back on it and walked into the narrows.
+
 At the ninth hour Hild went in the doorway Osric had put himself in. Sodoku went down on both knees in the ice. Yoko reached him and closed her hand on his forearm, and he stood up out of the steam with her hand still there.
 
 #### Where They Stand
 
 He did not grieve in any manner the Seat could recognise. Emira could no longer find where her brother ended and the work began.
+
 He took in the Tenrai remnant as refugees, against the advice of every officer in his service. At the Brine crossing eleven household guards knelt around their nine-year-old heir, Miku Tenrai Moto, and refused his word on the boy's life. He killed all eleven with Kurosetsu in front of the child. He did not use the cold. Then he knelt in the mud with a hand on the boy's head. He told the boy, "We are all Moto." The boy forfeited. Sodoku did not thank him.
+
 In the fourth year the Seat's Reckoner came to enter his son Rikudoku, born to Yoko in the Scourge years, on the roll. The form had one slot for a bloodline. Sodoku said, "Enter both." Told there was one slot, he said, "Then the form is wrong." The birth-form used across the north now carries two.
+
 For six years he went to the Moto lines himself, in the coat and not the armour, with the same argument, which begins, "There are seven lines and one blood." When the first Accord circle was signed at Kharven-Seat, he put his hand to it last. He had still not slept a full night since the ninth hour.
+
 The Shirogane still refuse. Sayo Shirogane's published objection lists the Tenrai settlement with its count. It also names the schedule, written for property and still unrepealed, under which the empire's law classifies his son's second inheritance. He read it twice in the map room. He set it face down under the inkstand, went out to the woodpile and split rounds until it was properly dark. The stack was still short. He went in and asked what had come in on the wire.
 
 #### Ties

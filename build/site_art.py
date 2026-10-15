@@ -39,6 +39,14 @@ FOLDER_ART = {
     "The Magic System/Reference and Craft": "reference-craft",
     "The Magic System/Fracture of Worlds — The Living System": "fracture-worlds",
     "The Magic System/The Foundations/The Eight Families & the Sixty Wellsprings": "eight-families",
+    "The Magic System/The Foundations/The Descent of Parun — The Fourteen Hands": "descent-parun",
+    "Factions, Bloodlines & Institutions/Powers and Polities": "powers-polities",
+    "Factions, Bloodlines & Institutions/Powers and Polities/The Guild Accord": "guild-accord",
+    "Factions, Bloodlines & Institutions/Houses and Bloodlines": "houses-bloodlines",
+    "Factions, Bloodlines & Institutions/Houses and Bloodlines/The Archaic Bloodlines": "houses-bloodlines",
+    "Factions, Bloodlines & Institutions/Houses and Bloodlines/The Archaic Bloodlines/The Moto Bloodline": "moto",
+    "Factions, Bloodlines & Institutions/Houses and Bloodlines/The Archaic Bloodlines/The Zettari": "zettari",
+    "Factions, Bloodlines & Institutions/Orders, Faiths and Cults": "orders-faiths",
 }
 
 # Crests, drawn on a 200x200 box centred at (100,100); stroke-only, painted with currentColor.

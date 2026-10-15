@@ -37,6 +37,8 @@ def dress(rel: str, text: str) -> str:
                   lambda m: '<figure class="wotr-figure">' + re.sub(r"<svg ", '<svg class="wotr-diagram" role="img" ', (WIKI / f"Assets/Diagrams/{m.group(1)}.svg").read_text(encoding="utf-8"), count=1) + "</figure>", body)
     body = re.sub(r"(?ms)^```mermaid\n(.*?)^```[ \t]*$", lambda m: "\n" + (chart(m.group(1), rel) or m.group(0)) + "\n", body)
     body = re.sub(r"(?m)((?:^- \[\[[^\n]*\n?){2,})", cards, body)
+    body = re.sub(r"(?m)((?:^\*\*[^*\n]{1,60}\*\*\s*[:—–-][^\n]+\n\n?){4,})",  # a run of "**Term**: meaning" lines
+                  lambda m: '<div class="wotr-glossary">\n\n' + re.sub(r"(?m)^(\*\*[^*\n]+\*\*)\s*[:—–-]\s*", r"\1 ", m.group(1).strip()) + "\n\n</div>\n\n", body)
     hub = "/" in rel and rel.split("/")[-2] == stem
     if hub and "wotr-entries" in body:  # the page lists its own contents; Quartz's folder list would repeat it
         body += '\n<span class="wotr-curated"></span>\n'

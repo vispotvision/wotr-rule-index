@@ -11,17 +11,21 @@ verification: null
 # Pack Twenty — The Clearance
 
 *Every open docket item ruled. Both conflicts closed. Büri confirmed dead and the sweep scoped. Ruling codes run R20C-* to avoid collision with the Naming Guide Amendment's R20- *series.*
+
 Authority: Pack Eighteen repealed the ratification protocol. Everything here is live on reading. The full reasoning sits in `WOTR_Companion_Guide_Amendments_Pack_Twenty.md`; this page is the operative list.
 
 ## Closed without ruling
 
 **Moot by repeal** — every row whose authority was Pack Seven's mechanism-explanation or metaphysical-unit ban, struck by Pack Twelve §1: R8-11-PROSE_RETAINS_PACK7, R8-12 (workbook clause only), R11-2-MEASUREWRIGHTS (citation only), R11-4-DESCENT_PROSE_LAW (apparatus-cap clause only), R6-13-ONE_READ_CEILING_PENDING.
+
 **Duplicates** — R2/R3/R4-OP-ZETTARI_DOCKET, R2-OP-RACIAL_VOICE_GAPS, R4-OP-PASTE_IN_DIFFS, R16-9, R17-10, R18-9, R19-9 collapse to four underlying items.
+
 **Ruled elsewhere, never marked** — R5-H-ELEGIAC_MODE_PENDING and R5-H-NARRATION_AUTHORITY_PENDING were confirmed in substance by Pack Fifteen §4. R21-2-FILEMU_NAME_CORRECTION was a correction, not a question.
 
 ## The two conflicts
 
 **C-001, the proofed round. Resolved: the ban is dead.** Pack Eleven §3's firearms clause cited Pack Seven as its whole authority; a rule does not survive the repeal of the thing it quotes. A Measurewright, proof-master or opponent in diagnostic voice may explain why a proofed round defeats proofed plate. The surviving constraint is R20C-26: the steel stops the shot, never the working. Explain metallurgy and terminal ballistics; never let the coupling be the thing that saved him.
+
 **C-002, Filemu Agamalu's Ava-name. Resolved: it survives.** The strike killed Polynesian register as applied to *Moto* naming. Filemu is not Moto, and the Ava ceremony is her own house's conferring on her own house. Le Ie Tuuina Atu stands. What died is the *addition*, the claim that the Agamalu ceremony confers an Ava-name on Moto governance figures.
 
 ## Büri

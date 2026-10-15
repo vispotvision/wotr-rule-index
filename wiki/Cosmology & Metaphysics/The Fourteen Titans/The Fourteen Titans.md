@@ -17,7 +17,9 @@ verification: "unverified"
 ## What a Titan Is
 
 The Accord's working definition is one sentence long and it has survived every attempt to improve it. An Archon is a principle enthroned. A Titan is a principle bearing weight.
+
 The distinction is administrative before it is theological. An Archon can be consulted, argued with in the abstract, and cited in a filing. It has a seat, a court, a lineage of heralds and a body of doctrine written by people who were not present. A Titan has none of that and needs none of it, because a Titan is not doing anything so voluntary as governing. Atla'zon is not in charge of gravity. Atla'zon is the posture gravity is holding. Remove him and the question of who governs falling does not pass to a successor. There is simply nothing left for the word *down* to mean.
+
 This is why the Titans have no theology worth the name and an enormous quantity of engineering. The Stone Choir listens to rock harmonics before cutting. The Undercrypt Keepers whisper equations at buried buttresses. The Ledger Monks refuse to let a ruler erase a predecessor's failure from a Dynasty Hall. Not one of those orders is praying. They are all maintaining.
 > Fourteen Titans are seated against fourteen Archons, and the symmetry is close enough that most mortal registers assume a one-to-one correspondence. **It does not hold.** Dazkar grounds Urion cleanly and Chronaeus grounds Valen cleanly, and after that the pairs go ragged. Kaldrion answers to nothing in the Archonic roster at all. The Measurewrights hold, without enthusiasm, that this is what an honest count looks like and that the neat version is the one that would need explaining.
 Above the Titans stand the **Epochs**. Aegor, Bairos and Ashura appear throughout the entries as the forging and binding parties, and they are not Titans and are never to be filed as such. Where a Titan's Bonds field names them, the field is recording provenance rather than alliance.
@@ -52,6 +54,7 @@ The orders describe what layer of the world the Titan is holding rather than any
 ## The Titan-Keyed Arts
 
 Fourteen workings sit in the register under the category **Titan-Keyed**. Mortal practitioners call them Titanic Arts, and the Accord tolerates the phrase in the street and strikes it from anything carrying a seal, on the grounds that the art is not the Titan's. The Titan does not perform it and is not consulted about it. The practitioner is entering a process the Titan is already running and imposing a boundary on it, which is the whole of what a glyph does anywhere in the Codex and is only remarkable here because of the scale of the process being entered.
+
 Three things separate a Titan-Keyed working from every other entry in the register.
 1. **The gate is absolute.** Twelve of the fourteen require Stage XIV, Zenith. Two require Stage XV, Revelation, which sits *above* Zenith and is reached only through genuine exchange with an Archon or a Titan at a level where the practitioner participates rather than merely survives. Those two are **The Closing Eye** and **The Stillwater Rite**. Nobody in the Accord's living register holds both.
 1. **Every one keys to a condition that must already exist.** A strain already visible. A silence already present. A fault line already open. A soul already dying. Not one of the fourteen originates its own condition, and this is the structural reason none of them can be used as an opening move.
@@ -92,6 +95,7 @@ Three entries break the pattern and each breaks it differently. *The Closing Eye
 ## The Fourteen Compounds
 
 *Twelve of the fourteen arts require Zenith and two require Revelation, which places all fourteen beyond every practitioner alive. The world reaches them anyway, at a fraction, through a bottle.*
+
 **Every Titan in this register has a compound keyed to it in the Standing Index, at T5 through T7**, and the correspondence is exact rather than approximate: Atla'zon to Strain-Bound Marrow, Gaia to Corpus Marrow Salts, Dazkar to Purganeth Mirror-Salt, Sylorin to Ethereal Current Oil, Ilgrimm to Hollow-Watch Incense, Kaldrion to Deep Grid Mortar, Omnis to the Skyfire Pulse Vial, Florwyn to the Verdance Reclamation Draught, Nysera to the Somnum Flow Ampoule, Valmir to the Crevice-Glass Shard, Prometheus to Pyric Refinement Ash, Chronaeus to Fossil Ring Dust, Zar'thuun to the Null-Essence Draught, Vohrin to the Stillwater Draught.
 > **This is the actual reason those compounds cost what they cost**, and no price list anywhere says so. A Titan-Keyed art is a boundary imposed on a running process by a soul dense enough to survive standing in it. **A compound imposes the same boundary through a substrate instead**, at a smaller scale, for a shorter term, and available to a practitioner four Stages short of the gate.
 >

@@ -18,8 +18,10 @@ verification: "unverified"
 ## What Beastkin Are
 
 The living peoples who fall under this designation — Catkin, Lupine, Bearkin, Fox-Spirit, Serpentkin, and several dozen smaller lineages — **share no common origin event, no common spiritual ancestor, and no common metaphysical architecture.** What they share is the external feature the Accord used to group them: the presence of non-human biological characteristics alongside functional Aetheric architecture.
+
 The formal category exists to solve an administrative problem: what to do with peoples who are **too structured to be classified as Spirit Entities, too distinct to be absorbed into the Human taxonomy, and too varied to be given individual lineage recognition.** The Third Eon solution was the **Beastkin Classification Provision**, which created a unified legal category and then subdivided it into free-status, bonded-status, and labor-stock classifications on criteria that the Accord's own practitioners consider inconsistently applied.
 > *"Those aren't people, boy. Those are labor stock. Licensed and documented under the Verath Township Labor Provision."*
+>
 > — Darvo, Verath Township. Seventeen gold marks per head. **Less than a horse.**
 
 ### The Labor Provision
@@ -58,6 +60,7 @@ Demihumans occupy a distinct category: **defined by dual-lineage inheritance rat
 ### Half-Elves · The Third Path
 
 Emerged during the **Harmonial Twilight** when Elves and Humans shared Wellspring territories. Born from the spiritual overlap of Elven soul-depth and Human glyph flexibility — **not fully either, genuinely both**, navigating the friction between two Crystal architectures that were not designed to occupy the same body.
+
 **Soul Path** · Spirit 55% / Body 30% / Attraction 15%. Dual affinity: spatial Elven resonance plus adaptive Human Essence. **High conductivity, internal friction as the structural cost.**
 
 | Stat | Mod | Note |
@@ -75,11 +78,13 @@ Emerged during the **Harmonial Twilight** when Elves and Humans shared Wellsprin
 >
 > **Rootlessness** — neither Elven nor Human communities fully accept them without active negotiation. **The political cost of existing between categories is ongoing.**
 **Wellsprings** · Aurevane through Elven inheritance. Somnalis through Florwynic lineage trace. Human-compatible Wellsprings fully accessible. Echo-adjacent occasionally accessible. **No Wellspring is fully closed; none is fully native.**
+
 **Culture** · The Harmonic Quarter communities in Altherion and border territories. Often the informal diplomatic bridge between Elven and Human institutions — **a function assigned to them rather than chosen by them, with predictable consequences for how they feel about performing it.**
 
 ### Half-Orcs · The Unchained
 
 Born from the intersection of Orcish Stone-Blood and Human glyph-flexibility during the Great Concord Splintering. **They are not the weakest expression of either lineage.** They are a third expression — Stone-Blood's kinetic inheritance running through a human body that has **the glyph-processing capacity the pure Orcish lineage lacks.**
+
 **Soul Path** · Body 60% / Spirit 30% / Attraction 10%. Stone-Blood provides the kinetic expression; Human inheritance provides the structural processing capacity **that allows it to be directed rather than just released.**
 
 | Stat | Mod | Note |
@@ -101,7 +106,9 @@ Born from the intersection of Orcish Stone-Blood and Human glyph-flexibility dur
 ### Chimeric-Born
 
 Produced through high-level magical grafting, alchemical transmutation, or Soul-Forge processes. **Most are crafted, not born.** Second-generation Chimerics can reproduce through volatile magical inheritance. Their lineage is a fractured mosaic — Fleshshapers, Ascendant Alchemists, failed divine imitations — and some trace partial lineage to primordial beasts whose Essence was harvested.
+
 **Soul Path** · Variable. No fixed distribution. Their souls function as **Variable Conductors**, capable of containing and channeling contradictory Essence types simultaneously. **This produces unstable or morphic glyph behavior as the structural cost.**
+
 No fixed stat modifier set — each has a unique distribution dependent on component lineages. Three universal markers only: **Adaptability** (resistance to environmental Essence stress), **Morphic Instability** (variable reliability of complex technique execution), and **Binding Scar** (the permanent inscription required to prevent physical and spiritual unraveling).
 > **Binding Scars are not optional.** Removal or damage risks catastrophic Crystal and physical dissolution.
 >
@@ -115,6 +122,7 @@ The most politically isolated of the demihuman categories — **the Accord has n
 ## Languages
 
 Beastkin languages are not related to each other in the way human language families share roots. **They developed independently**, in different ecological and metaphysical contexts, and share structural features only where those features reflect shared soul-architecture rather than shared origin.
+
 What they do share is **physicality.** Beastkin languages consistently encode more sensory and physical information than human languages encode, and consistently encode less temporal abstraction.
 - ****Purrspeech** · Catkin**
   Tonal click-language carried in Catkin vocal cord resonance. Non-Catkin cannot replicate most phonemes without significant modification to their Harmonics architecture.
@@ -140,5 +148,6 @@ What they do share is **physicality.** Beastkin languages consistently encode mo
 ---
 
 > *"The world has two categories for beastkin — victim or animal. Neither category allows for the possibility that I am standing here because I chose to stand here."*
+>
 > — Yoko Mishiro
 - [[Races & Peoples/The Beastkin and Demihuman Peoples/The Five Beastkin Lineages]]

@@ -20,10 +20,12 @@ verification: "unverified"
 > **The Essence ledger** records the primary economic good. It is a ledger of **flows rather than stocks.** Nobody holds Essence; they hold a *right to be supplied*, for a term, at a rate.
 >
 > A pumping array does not care what is in your vault. **It cares what arrives this week.**
+>
 > **The metal ledger** records the settlement of everything else. Land, grain, cloth, labour, ore, ships, debts, dowries, fines, ransoms.
 >
 > Metal is **the memory of the economy.** It is what allows a transaction to be completed between people who will never meet again.
 Essence has all the properties of a terrible currency. It leaks from storage, cannot be assayed without an instrument, cannot be divided below a practical floor, is worthless to anyone who cannot use it, and **will not survive its owner.** It is nonetheless the primary good, because it is the thing everything else is made with.
+
 The two ledgers meet at exactly one place, which is **the price of Essence in metal**, and that price is the single most watched number in the four quarters. It is published by the Logistics Division, disputed by everyone, and enforced by nobody.
 
 ---
@@ -54,6 +56,7 @@ Every metal has two demands on it. The **monetary** demand wants it in a vault o
 ### Gold
 
 **Resonance:** Benediction and Sublimatio.
+
 Gold is the standard of value, the metal of the great settlements, and **the substrate of the oath.** That last is the fact everything else follows from. Gold carries blessing and elevation better than any material in common supply, which makes it the medium of ecclesiastical work, oath-binding, consecration, and every contract that must be sealed rather than merely written. Eresse's Sacred Gold is not a poetic name for ordinary coin. **It is gold that has been taken into the Verdantia rite and has stopped being money.**
 > The consequence is a **permanent monetary sink.** Gold that enters an oath does not come back. It cannot be re-melted without breaking the working, and breaking the working is, in most of the four quarters, a capital matter. Every generation consecrates a portion of the world's gold and removes it from circulation forever, and **the more devout a polity is, the faster it drains its own money supply.**
 >
@@ -63,6 +66,7 @@ In daily practice, most people will never touch gold. It settles accounts betwee
 ### Silver
 
 **Resonance:** binding addressed to a person. Silver takes an inscription naming its bearer more cleanly than any other common metal, which is why Bloodsilver binds to bloodline and rejects a thief, and why Dawnsilver thread seals glyphs into a garment and can, in ceremonial stitching, bind a broken Name back into the soul.
+
 Silver is the working currency of the four quarters and the accounting unit of almost every serious ledger.
 > Its thaumic role produces the single most elegant institution in the economy. Because silver holds a personal inscription, **rank tokens are struck in silver.** A guild credential is a silver piece bearing the holder's certified rank, inscribed to that holder, verifiable on a coil, and worthless to anyone else. It is simultaneously a badge, a passport, a line of credit, and its own weight in bullion.
 >
@@ -71,7 +75,9 @@ Silver is the working currency of the four quarters and the accounting unit of a
 ### Copper
 
 **Resonance:** conduction. Vellun copper out of the Senoth hills is a good spiritual conductor that melts far too easily, which describes copper's entire economic position.
+
 Copper is the money of ordinary life: bread, beer, a night's board, a candle, a ferry crossing. For the overwhelming majority of people, copper is the only metal money they will ever hold, and **the price of copper is therefore the price of being alive.**
+
 It is also the wire of the array trade. Every trunk run, every winding, every contact and bus and tap in every array in the world is drawn copper.
 > These two demands compete for the same stock, and **when array building runs hot, the small coin vanishes.** It is melted. Not by governments — by anyone with a crucible, because drawn conductor is worth more per weight than struck coin and the arithmetic is available to a child.
 >
@@ -82,14 +88,19 @@ It is also the wire of the array trade. Every trunk run, every winding, every co
 ### Bronze
 
 **Resonance:** Runebronze, melt-forged with minor glyphs, was the first material in history designed to hold an inscription. **Bronze is old law.**
+
 Barely money any more and enormously important anyway. Imperial bronze is still in circulation across all four quarters, worn smooth, faces illegible, valued purely by weight. *Nobody trusts the Empire. Everybody trusts the standard*, because the Empire's weights were honest for four centuries before they were not, and the surviving early issues are the most reliable physical measure of mass in the world. Assay houses still calibrate against them.
+
 Bronze's living role is sacral and legal. Temple fittings, boundary markers, oath-plates, guild charters, the physical instruments of law. When something must be permanent, legible in five hundred years, and obviously not worth stealing for its metal, it is cast in bronze. **The Concord Codex's field copies are bronze plate.**
+
 The problem is tin. New bronze is a luxury. *This is why bronze reads archaic: it is archaic, and increasingly it is the only kind there is.*
 
 ### The Metals That Are Not Money
 
 **Iron** is too common, rusts, and is worth more as a tool than as a token. It is, however, extremely common as wages on the frontier, where a smith is paid in bar stock and settles his own accounts in nails.
+
 **Salt.** Nalūn casts its rocksalt into standard bars of fixed weight and fineness, stamped by the cutting house, and those bars circulate as money across the whole northern quarter and well into the west. Salt is the only commodity in the ledger that is simultaneously **a food, a preservative, an industrial isolation medium, and a currency**, and Nalūn has never needed to lie about any of the four. A salt bar is worth a silver mark at the Accord rate, more in a bad winter, **and it can be eaten, which no other money can.**
+
 **Aethersteel and Bloodsilver** are not currencies and are frequently treated as stores of value by people who should know better. Bloodsilver in particular is a poor asset, since it binds to bloodline and burns or corrodes an unworthy holder over time, which makes it **the only item in the Arbitration Division's schedules that can attack the bailiff.**
 
 ---
@@ -101,6 +112,7 @@ In a world of bad roads, worse law, and kingdoms that repudiate their debts on s
 >
 > The Kingdom of Nalūn sits on **Contract-aspected Wellsprings**, uniquely able to seal an agreement into metaphysical law. A Parun-bound contract executed under Nalūn authority is not a promise backed by a court. **It is a working**, and breaking it has consequences that arrive without anyone needing to be convinced, subpoenaed, or bribed.
 The Council of Links is sworn into office by such contracts. The High Chainlord is chosen by the **Trial of Ten Deals.** Every significant transaction in the chain-cities is sealed with linked tokens, and insulting a merchant's honour is a binding duel challenge because in Nalūn a merchant's honour is **a load-bearing financial instrument.**
+
 What this produces is the one thing medieval commerce anywhere else could not produce: **enforceable long-distance credit.** A bill drawn on Ironlink Hold is good in Kaetra and in the Ring smelters, not because those places respect Nalūn but **because the instrument enforces itself.**
 
 | Consequence | Effect |
@@ -170,8 +182,11 @@ What this produces is the one thing medieval commerce anywhere else could not pr
 ## Rank as Property
 
 The Accord's certification is a meritocracy in the strict sense: it measures, it grades, and it does not ask who your father was. **It is also a market**, and understanding that explains most of what people find strange about it.
+
 **Rank is collateral.** An Accord rank is a documented, verifiable claim on future contract income, and lending houses maintain schedules of what each rank will support. This is the mechanism by which a landless person can raise capital, and it is the only such mechanism that exists. *A commoner with a rank can finance an expedition. A commoner without one cannot finance a cart.*
+
 **Temperance is a wage schedule.** Because Essence output is measurable, labour that uses Essence is priced directly on the coil. An array-tender's pay is a function of certified output and nothing else. **No other labour market in history has possessed an objective productivity measure**, and the effect is exactly as brutal as it sounds, because it removes every argument a worker could make about their own worth that does not appear on the instrument.
+
 **A person is an assayable asset.** If capability is measurable and future earnings predictable, then a person is a security, and bond contracts written against future output are ordinary instruments traded in ordinary markets. A young practitioner may sell a term of their future output to fund their training, which is how most practitioners who were not born wealthy became practitioners at all.
 > The Measurewrights record, because somebody should, that the late Reconstruction kingdoms' enslaved Wellspring labour and a modern training bond **are the same instrument at different levels of refinement.** The differences are real and worth having: the modern bond has a term, a price, a court, and a theoretical buyout.
 >
@@ -195,10 +210,12 @@ Almost every polity in the four quarters is a monarchy. The republics are the ex
 > **The Crown holds** the land, the law, the levy, the tax, and the right to hang.
 >
 > Legitimate by descent. Requires nobody's certification. **The only authority that can compel a person to fight.**
+>
 > **The Accord holds** the assay, the rank, the credit, the writ, and the arrays.
 >
 > Legitimate by measurement. Recognises no bloodline. It does not need to depose a king. **It needs only to stop pumping.**
 *Neither side says this out loud. Both sides have costed it.*
+
 The compromise everyone lives inside has three parts. **Crowns ennoble high rank**, because a Rank V commoner who is refused a place at court is a Rank V commoner available to a neighbour. **Guilds accept charters**, because a guild hall stands on somebody's land. And **marriage does the reconciling** — the standard instrument by which a lineage acquires certified capability and a certified line acquires standing. Every significant political marriage in the last century can be read in both directions at once, and both readings are correct, *and the parties involved know it while the vows are being spoken.*
 > Where the arrangement breaks is **succession.** A crown passes to a body. Rank does not.
 >
@@ -211,14 +228,20 @@ The compromise everyone lives inside has three parts. **Crowns ennoble high rank
 ## How the Poor Are Paid
 
 *Everything above concerns perhaps one person in twenty. Any account of trade that omits the rest is describing a minority.*
+
 **Most transactions involve no coin at all.** Barter is not a primitive stage the four quarters have grown out of. It is the default, and coin is the exception, used at the boundary between strangers. Within a village, a valley, or a guild hall, obligations are **recorded rather than settled**: who owes whom a day's labour, a cartage, a share of the slaughter, a repair. Settlement happens annually, in kind.
+
 **Wages are largely in kind.** Grain, salt, cloth, ale, board, fuel, and the use of ground. This is not charity and it is not backwardness; it is the sensible arrangement where coin is scarce and the thing being produced is the thing being consumed.
+
 **Copper is the only metal most people touch**, which is why the copper famines that follow every array boom are political events rather than monetary curiosities. When the small coin is drawn into trunking, the poor lose access to **the one form of money that connects them to anyone outside their valley.**
+
 **Notched tallies serve where writing does not.** A split stick, both halves held, is a complete and forgery-resistant record of a debt between two people who cannot read, and it is legally admissible in six kingdoms.
+
 **And in every networked city there is the bill.** A metered household does not buy Essence and has never seen any. It buys **a supply grade**, monthly, from a chartered Board, and the meter on the wall by the door is the Board's property rather than the householder's.
 > *This is the only relationship most people in the four quarters will ever have with the primary economic good, and it is the relationship of a debtor to a monopoly.* **The tariff is set by the charter-holder, the supply grade delivered runs below what the tariff implies in every poor quarter that has ever been surveyed, and the remedy is a magistrate the Board's factor drinks with.**
 >
 > **The cut plate costs nothing to fit and four seconds to lift**, which means the entire enforcement apparatus of the largest utility in the world is one iron disc and a man with the right key. *He is the most despised trade in any city and the best paid of the four, for the same reason the executioner is.*
+>
 > **Mine scrip is the modern grimness.** Company tokens issued in place of coin, redeemable at the company store, at prices the company sets. Legal in the western coal foreland, legal in the Ring smelter towns, and defended by its operators on the reasonable-sounding ground that **there is not enough copper to pay in.**
 >
 > There is not, and the reason there is not is that the same companies melted it.
@@ -256,7 +279,9 @@ The compromise everyone lives inside has three parts. **Crowns ennoble high rank
 **The Essence peg.** Settled. The contract unit is a **standing myriad**: one myriad delivered daily, for a term of one year, from a named source. **Essence is quoted as a rate because Essence is a flow**, and every attempt to quote it as a quantity has produced a contract nobody could enforce. The Accord rate stands at forty silver marks the standing myriad, against twelve at Year 640, **and the whole of the Withering's economic history is in the distance between those two figures.**
 > *A house holding supply books written at Year 640 rates is holding an instrument worth more than three times its face and rising, which is why houses are now bought for their books with the ore thrown in.*
 **Silver's resonance.** The attribution of person-addressed binding to silver is drawn from the behaviour of Bloodsilver and Dawnsilver thread rather than from any direct statement in the substrate tables, which name basalt, quartz, iron, gold, and obsidian and are **silent on silver.** This is inference and is marked as such.
+
 **Consecrated gold.** Whether gold taken into a rite is permanently removed or merely encumbered is doctrinally disputed between Lurien and Eresse, and the two positions have different monetary consequences **at a scale neither institution appears to have calculated.**
+
 **The Empire's mint standard.** Assay houses calibrate against early Imperial bronze on the assumption that the early issues were honest. Nobody has independently verified this. **Every mass measurement in the four quarters rests on the good faith of a polity that later debased its silver by four fifths.**
 > **Whether Nalūn's seals can fail.** No Parun-bound contract executed under Council authority has been recorded as failing. The Council of Links regards this as proof. The Measurewrights regard it as **an absence of evidence maintained by a body that would not publish the exception.**
 

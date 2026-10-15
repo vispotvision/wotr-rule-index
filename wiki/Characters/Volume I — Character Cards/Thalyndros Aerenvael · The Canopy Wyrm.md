@@ -20,8 +20,11 @@ verification: null
 ### I · Identity
 
 **As Of** · After Drevath's audit, still unenforced
+
 **Draconic Name** · Thalyndros, the Root-Wreathed Sky. **Old Parunic** · Caelum Radix. **Called** · The Canopy Wyrm · The Crownborne.
+
 **Type** · Florwynic Elven Dragon Offshoot, Lesser Aspect. Not a natural dragon but a purpose-bred sky-branch of Florwyn's Great Dragon design, grown from the Great Spirit Tree's higher boughs and anchored through Vaelorian's Soul Crystal as its rider-knot — a single test flight of a pattern that may one day emerge whole.
+
 **Gloss rights** · **Never.** *He carries no spoken true name in the release-mechanic sense. Draconic and Old Parunic are scholarly labels for what he is, not a name he answers to being called.*
 
 #### Affiliation
@@ -36,7 +39,9 @@ verification: null
 ### II · Soul Architecture
 
 **Aether Shell** · **Class V · Radiant.** *Aether bends toward the bearer; the Crownbearing overlay — the outline of the Great Elven Dragon briefly riding both of them — is a Radiant-Shell effect, not an illusion.*
+
 **Attraction Layer** · Bonded to Vaelorian specifically, not to riders in general; when he mounts, branches of draconic bone and Essence grow from Thalyndros's shoulders and latch into Vaelorian's armor, knitting two Crystals into one combat silhouette for the duration.
+
 **Crystal State** · **Overgrown.** **η** · ~0.68, Tier of Standing 6, Master. *Canopy Overreach — drawing too hard on Arboreum Primordis through Vaelorian thins the Great Spirit Tree's local influence and leaves nearby woods brittle, the way overgrowth always spends more than it banks.*
 
 ---
@@ -44,8 +49,11 @@ verification: null
 ### III · Wellspring Harmonizations
 
 **Verdantia** · Vitalia. **The living bond and the moving ley-knot.** *Leaves shiver and branches bend the same direction beneath his low flight, as if bowing.*
+
 **Ascensio** · Vectoria. **The ladder of ascent** — the climb that twists clouds into rings in his wake.
+
 **Sublimatio** · Vectoria. **The Ascending Breath — elevates without passing through the states between.** *Replacing "Tempestaris," which is not among the sixty; same-Family compounding with Ascensio is why his climb has no visible transition, only before and after.*
+
 **Network** · Arboreum Primordis splinters, plus minor access to **Benediction** (Vitalia) through Vaelorian's link.
 
 ---
@@ -80,7 +88,9 @@ verification: null
 ### VI · Traits
 
 **Canopy Mantle** · **Where he passes three times in a day, the treeline changes over the following weeks.** Trees lean toward his flight path, roots deepen, Essence density rises — campaign trails beneath his habitual routes become harder for an enemy army to march through.
+
 **Root-Bound Descent** · **Tail-roots and wing-tips sink into stone, soil, or fortress wall on landing.** While rooted, dislodging him by force means tearing whole chunks of terrain free with him.
+
 **Branch-Shed Armor** · **Heavily struck, entire "branches" of his armor-shell break away** as spinning bark-steel shards that embed like caltrops. Infused by Arboreum Primordis, they later sprout small twisted saplings — quiet markers of where he fought.
 
 ---
@@ -96,8 +106,11 @@ verification: null
 #### Forest-Fall Breath
 
 **Effect** · A compressed gale of burning leaves and razor bark scours a line; where the exhale fades, the ground grows saplings and thorn thickets at accelerated speed, turning open field into terrain hostile to cavalry.
+
 **Cost** · The Sublimatio component cannot be inspected mid-exhale — solid becomes vapor with nothing observable between, so he commits the breath before knowing exactly what the ground will do with it.
+
 **Limit** · It needs living ground to work on. Stone, ash-waste, or already-cleared terrain takes the fire and gives back nothing green.
+
 **Counter** · **Burn or salt the field before he exhales.** Ground that cannot support accelerated growth denies Sublimatio a state to rise into, and the breath does no more than any ordinary flame would.
 > **What nobody knows.** Whether the saplings that come up afterward carry any of Thalyndros's own pattern, or only Arboreum Primordis's. No one has waited the years it would take one of them to answer.
 
@@ -106,7 +119,9 @@ verification: null
 ### IX · Relationships
 
 **Vaelorian** · **Root-node and mirror-body, not rider and mount.** Their link runs weather-sized emotion and tectonic conclusion one way, sharp precise vectors the other; they do not always agree, but they never misunderstand.
+
 **Florwyn** · His design and his maker's maker; he is her proof made airborne.
+
 **Juna** · **Neither submits to the other.** Their first meeting is a measuring of age and purpose rather than a contest — an elder war-creature of flesh and wing against a younger, architect-smelling, forest-bred dragon.
 
 ---
@@ -125,29 +140,41 @@ None on record. Thalyndros has not yet appeared in an indexed WOTR chapter.
 #### Origin
 
 Thalyndros Aerenvael was grown from the higher boughs of the Great Spirit Tree, on the elven old-ground of the New World, to Florwyn's design. He was bred to purpose, a sky-branch of her Great Dragon design and a Lesser Aspect: a single test flight of a pattern that might one day emerge whole.
+
 The forest grew him as one more limb. His growth ran for centuries in the shape of the canopy. His armour-shell, his horn-rack and the root-tendrils at his tail and wing-tips grew with the rest of him, the way a bough grows. He carried no forged thing.
+
 The design needed a knot to hold it to the world. The Tree anchored it through the Soul Crystal of Vaelorian Theryn Aerethiel, Florwyn's Regent, as its rider-knot. The wyrm in the boughs was tied to one elf before it ever left them.
 
 #### The Making
 
 The first time Vaelorian mounted him, branches of draconic bone and Essence grew from his shoulders and latched into Vaelorian's armour. Two Crystals knitted into one combat silhouette. The branches grew so every time after, for Vaelorian and for no other rider.
+
 The link between them carried different freight each way. Thalyndros sent weather-sized feeling and slow, tectonic conclusions. Vaelorian sent back sharp, precise vectors. They disagreed at times. They never misunderstood each other.
+
 He became Eresse's sky-arm, sent out rarely and deliberately. Eresse used him to break sieges from directions no army expected, to escort envoys, and to carry Vaelorian into theatres where a Domain had to be unfurled from the sky down. At times the outline of the Great Elven Dragon rode briefly over both of them. It was no illusion.
+
 Diplomats who had dismissed rumours of Vaelorian's proto-draconic state could not dismiss a dragon on their sky-docks, trailing forest wind. He was Florwyn's proof that the forest was no longer content to stay rooted.
+
 Then a piece of the lattice accepted his soul's signature permanently. His first true Domain held for hours.
 
 #### The Cost
 
 His breath scoured a line with burning leaves and razor bark, and behind it the field came up in saplings and thorn, closed to cavalry. He committed each breath before he knew what the ground would do with it. It needed living ground. Stone, ash-waste and cleared fields took the fire and gave back nothing green, and a field burned or salted before he exhaled got no more from him than an ordinary flame would give.
+
 Struck hard, he shed whole branches of his armour-shell. They broke away as spinning bark-steel shards, lodged in the earth like caltrops, and later sprouted small twisted saplings where he had fought. When he drew too hard on the Tree through Vaelorian, the Tree's hold on that country thinned, and the woods nearby went brittle.
+
 Drevath Mourne-Kal had taken a battlefield on the contested fringe and declared it permanent. Inside his boundary nothing grew and nothing healed. Thalyndros brought Vaelorian in from the sky and came down short of the line, and his tail-roots and wing-tips went into living ground outside it. He did not cross. Vaelorian walked in alone, onto ground where his armour would not grow back, and Drevath put the audit to him: step aside, and live to watch it. Vaelorian did not step aside. He walked back out across the line to the dragon, and no blow was struck. The field had given the breath nothing to green, and Thalyndros had stood outside the line while the other half of his bond walked in.
 
 #### Where They Stand
 
 Thalyndros Aerenvael is Eresse's sky-arm, bonded to Vaelorian alone and still sent out rarely. Thalyndros, the Root-Wreathed Sky, is a scholars' Draconic label, set down in the three parts a dragon's own name takes: the sound, the deed, the holding. Caelum Radix is the Old Parunic one. He answers to neither.
+
 Where he passes three times in a day, the treeline changes over the following weeks. Trees lean toward his flight path and roots deepen, and the campaign trails under his habitual routes grow harder for an enemy army to march. Leaves shiver and branches bend one way beneath his low flight, as if bowing.
+
 He has met Juna, an elder war-creature of flesh and wing. Their first meeting was a measuring of age and purpose between that elder and a younger dragon, forest-bred and smelling of his architect. Neither submitted to the other.
+
 Drevath's audit has not been enforced. Vaelorian has not stepped aside.
+
 The twisted saplings stand where Thalyndros fought. Whether they carry any of his own pattern, or only the forest's, nobody knows, and no one has waited the years it would take one of them to answer.
 
 #### Ties

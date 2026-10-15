@@ -20,10 +20,15 @@ verification: null
 ### I · Identity
 
 **As Of** · After her seven days went to the Reaper
+
 **Name** · Dr. Lyssara Veyn. **Called** · The Black Chrysalis.
+
 **Role** · **Senior Necrosophist, Mortalis Branch. Scholar of the Wellspring of Mortalis. Physician to the failed Threshold.**
+
 **Type** · Mortal. **Realm of origin** · Eresse, New World. *Human, born in an elven polity; Eressean mourning dress is a fact about where she grew up and nothing else.*
+
 **Era** · Withering Era, to present.
+
 **Gloss rights** · **Yes.** *She explains her own work to anyone who will sit still, and to several who cannot.*
 
 #### Affiliation
@@ -38,8 +43,11 @@ verification: null
 ### II · Soul Architecture
 
 **Aether Shell** · **Class V · Radiant.** Aether bends toward her; the laboratories hum with it.
+
 **Attraction Layer** · Developed, and pointed at the dying rather than the living. *She speaks to cadavers as old friends because, on the Layer, they are.*
+
 **Crystal State** · Refined, with **prolonged Mortalis equilibration** visible as the shift in her eyes between warmth and emptiness. **η** · 0.75 to 0.80, Tier of Standing 6, Master *(estimate, Master range)*.
+
 **The Chrysalis Core** · *The Domain. A held boundary inside the Soul Crystal where the final moment of a death is kept open for examination, the state she calls chrysalis-phase.*
 
 ---
@@ -47,7 +55,9 @@ verification: null
 ### III · Wellspring Harmonizations
 
 **Mortalis** · Vitalia. **Governing.** *The non-equilibrium steady state and the thermodynamic boundary of its collapse: a living body is held far from equilibrium by continuous expenditure, and death is the cessation of that expenditure.* **She engages the boundary as a described transition.** *Failure: equilibration. Sustained proximity to the boundary reduces the gradient she is herself maintaining, and she cools toward it without noticing. Her heart has already stopped once.*
+
 **Catharsis** · Caloria. *Latent heat of phase change: energy absorbed at constant temperature, spent entirely on breaking ordered structure.* **Death purifies, and purification requires release. Patients in her presence feel lighter and more fragile at once, as if part of them were already archived.** *Failure: supercooling. The release fails to nucleate, the load accumulates, and when it goes it goes all at once.*
+
 **Fixatio** · Materia. **Tertiary.** *Thermoset cure: the alternative configuration no longer exists as a reachable state.* The card's suspension of the final moment is a Fixatio cure applied at the Mortalis boundary — the mechanism the Chrysalis-Phase Signature technique runs on. *Failure: irreversibility. A binding placed in error is permanent.*
 
 ---
@@ -82,8 +92,11 @@ verification: null
 ### VI · Traits
 
 **Boundary Sight** · **Prolonged Mortalis contact.** Her eyes shift between warmth and emptiness; she reads the gradient a body is maintaining on sight. *Passive, the Resonant Reflection.*
+
 **Extended Dying** · **Preserves consciousness after biological collapse.** Not resurrection. *A subject at the boundary is held in chrysalis-phase while the soul's lattice is examined as it unravels.* Technique, carried here pending its own entry.
+
 **Soul-Lattice Retainment** · **Delays Essence collapse in dying Threshold subjects.** *Her current project, the Chrysalis Experiment.* Technique, carried here pending its own entry.
+
 **The Eulogist** · Playful, eloquent, disturbingly affectionate. **Every conversation is a eulogy in progress.** *"To study death is to understand love's desperation."*
 
 ---
@@ -91,7 +104,9 @@ verification: null
 ### VII · Artifacts
 
 **The Sepulchral Tome** · *Living book bound in resonant membrane.* **Records the final words and heartbeats of subjects automatically.**
+
 **Lacrima Crucible** · *Silver phial.* **Condenses tears into Essence** · used for studying emotion-induced death resonance. *Catharsis in a bottle.*
+
 **The Black Butterflies** · *Semi-sentient constructs of Mortalis particulate.* **Feed on sorrow and whisper spectral data into her ear.** *Animatria: they move with her attention and stop being anything if the line back to her is severed.* Worn as hair clips of necrotic Essence crystal, living conduits between life and decay.
 
 ---
@@ -101,8 +116,11 @@ verification: null
 #### Chrysalis-Phase
 
 **Effect** · She takes a dying subject at the Mortalis boundary and **holds the final moment open.** The expenditure that keeps a body far from equilibrium has ceased; she keeps the return from completing, and the soul's lattice can be read as it unravels. *Not resurrection. Extended dying.* The Tome records; the Butterflies carry.
+
 **Cost** · **Equilibration.** Every chrysalis she holds reduces the gradient she is herself maintaining, and she cools toward the boundary without noticing. *She carries this when nobody is dying: the emptiness in the eyes is the cost, visible.*
+
 **Limit** · **Only the boundary.** A body already at equilibrium has no moment to hold, and a healthy one has no boundary to reach. The hold lasts while her attention lasts.
+
 **Counter** · **Give the body a gradient.** *Any Vitalia practitioner who pushes Essence into the subject reintroduces expenditure, and the equilibrium she is holding open collapses to one side or the other.* Sever the Butterflies' line to her and the archive stops.
 > **What nobody knows.** Whether anything held in chrysalis-phase has ever come back the same, and whose voices the Butterflies are actually carrying.
 
@@ -111,9 +129,13 @@ verification: null
 ### IX · Relationships
 
 **The Guild Accord** · **Tolerates her because the findings saved hundreds.** *Most fear her studies.*
+
 **Her subjects** · Cadavers addressed as old friends; the dying, who feel lighter and more fragile in her presence.
+
 **The Black Butterflies** · Aides, informants, and the one relationship on the sheet that talks back.
+
 **The Research and Archives Division** · Employer, clearance-holder, and the body that files the Chrysalis Experiment as *unverified.*
+
 **Her sayings** · *"Death is not a thief. It's an archivist."* · *"The living cling to the world; the dead teach it to let go."*
 
 ---
@@ -132,27 +154,37 @@ verification: null
 #### Origin
 
 Lyssara Veyn was born human in the Grand Principality of Eresse, on the elven old-ground of the New World. Her mother practised medicine among the Principality's humans. Eresse read a person's standing by lineage-line and rite-office, and the girl held neither. She learned to count a pulse at her mother's wrist before she could read the rite calendar.
+
 In Eresse the dead were laid in state and handled by a professional order, and the family attended without touching. When she was small, an elven neighbour was laid in state. Lyssara stood at the back of the chamber among the mourners and watched the colour leave the dead woman's hands by degrees. Then she walked to the bier and set two fingers on the wrist, where her mother had taught her to count. A handler of the order lifted her hand away and put her out. She had what she went for. The wrist was still warm, and the count had stopped.
+
 The name went into the sealed register at Velthaeir.
 
 #### The Making
 
 She took her mother's trade into the Guild Accord's service, and the Research and Archives Division placed her in its Mortalis Branch. Her patients were practitioners who had failed a Threshold. The collapse that follows, which the Branch files as Soul Dissolution Syndrome, became her ground. She spoke to the cadavers on her table as old friends. She explained her work to anyone who would sit still, and to several who could not. Most who read her studies feared them. Her findings saved hundreds from the collapse, and the Accord tolerated the rest of her for that.
+
 The dying drew her further than the dead. A body at the boundary was still spending itself to stay alive, and she wanted to watch the spending stop from the near side. At the Mortalis Chambers in Eresse she set out to immerse her consciousness in the Mortalis resonance field for seven days, and she asked the Division for a watcher. It sent Dr. Vaelion Rhest, its consultant on Wellspring behaviour, a man who seldom slept. Before she went in she asked him one thing: that nobody push Essence into her body, whatever it did. A push would have collapsed what she meant to hold.
+
 Her heart stopped on the fifth day. Rhest could have pushed. He wrote down the hour.
+
 She had gone in out of curiosity. When she woke on the seventh day, she no longer distinguished the pulse of life from the rhythm of death. Since then the Black Butterflies she wears as hair clips have sometimes come back to her ear carrying whispers from those thought long gone.
 
 #### The Cost
 
 She made the boundary her practice. At a deathbed she took the dying subject at the edge and held the final moment open, so that the soul's lattice could be read while it unravelled. The Sepulchral Tome, bound in resonant membrane, took down the last words and the last heartbeats without her hand on it. The Lacrima Crucible, a silver phial, condensed the tears shed at the bed. She called the work extended dying. She called death an archivist.
+
 Every hold was paid out of her own body. Each chrysalis lowered the gradient she kept alive in herself, and she cooled toward the boundary without noticing. Her eyes began to shift between warmth and emptiness. The emptiness stayed in them on days when nobody in the Chambers was dying. Patients in her presence felt lighter and more fragile at once, as if part of them were already archived.
+
 At the Chambers she had refused a push into her stopped heart. She kept to that at every bed afterward. A healer who pushed Essence into her subject collapsed the hold to one side or the other. A binding she placed in error would stay placed.
 
 #### Where They Stand
 
 Dr. Lyssara Veyn is Senior Necrosophist of the Mortalis Branch and physician to the failed Threshold, resident at the Eressean Mortalis Chambers under a restricted clearance. She wears Eressean mourning dress, for no reason beyond where she grew up. Her present work is the Chrysalis Experiment, which delays Essence collapse in dying Threshold subjects. The Division that holds her clearance files it as unverified. The Accord tolerates her because the findings saved hundreds.
+
 She once followed the Division's party of four into Cael Dareth's workroom in the Upper Ring of Stannvaard, sent to examine him for dissolution. He carried his paradox and had not come apart. She filed that there was nothing for her Branch to treat, and the finding stands.
+
 Research and Archives sent her seven days to Yukizumi Yukari, the Reaper, as a soul-law case. He asked whether anything had been kept where it did not belong. The record holds his question and no answer.
+
 The Butterflies still bring whispers. Nobody knows whose voices they carry, or whether anything held in chrysalis-phase has ever come back the same.
 
 #### Ties

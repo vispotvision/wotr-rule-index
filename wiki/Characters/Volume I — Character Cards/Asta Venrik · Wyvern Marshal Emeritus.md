@@ -12,9 +12,11 @@ verification: null
 
 **Say it** · AH-stah VEN-rik
 > *"If you wanted a porcelain queen, you should not have married the woman who jumps off cliffs for fun."*
+>
 > **Fourth member of the Eressean family cluster.** *Asta is Karo Venrik's wife — chosen as queen despite every conservative house lobbying for a gentler bride.*
 >
 > **Migrated so far: Sandalphon Aestraen (Karo's father), Karo Venrik, Asta Venrik (Karo's wife), and Vaelen Mourcrix — House Mourcrix descending from House Venrik.** *Four sheets, one bloodline, sitting on both sides of Sancta Lux and the Eressean Crown.* **This wants confirming as deliberate before more is built on it.**
+>
 > **Stage VI — Glory is stated on the card and is correct.** *One of the few in the volume needing no adjustment.* **"Aether Class: Aerial Vanguard Knight"** is not among the eight; **she is Class III, Resonant.** **"Mind Path"** is not one of the four — Body, Spirit, Attraction, Fate. **"Ascensio"** is not among the sixty; **Exuroth and Verdantia are.**
 
 ---
@@ -22,7 +24,9 @@ verification: null
 ## I · Identity
 
 **Name** · Asta Venrik. **Called** · **Skyfang Queen of Eresse. Wyvern Marshal Emeritus.** The Talon Bride. Crown of the Open Sky. ***Karo's Tomboy Queen.***
+
 **Epithet** · **She Who Laughs In The Face Of Altitude.**
+
 **Race** · **Eressean Highborn, Skybound Elfkin.**
 
 ### Affiliation
@@ -32,6 +36,7 @@ verification: null
 ### Profile
 
 **Asta began as the least suitable princess candidate in Eresse.** *She preferred saddle leather to silks, wyvern claws to court cutlery, and the screaming edge of wind over ballroom music.* As commander of the Skyfang Militia **she carved her name into the clouds, breaking sieges and raider lines with shock dives and reckless grins.**
+
 **As queen she still smells faintly of wyvern oil and refuses to hide her scars**, *turning the royal balcony into a launch platform when war calls.*
 > **Catalyst Event · Stage VI, Glory.** *The Catalyst is willingly accepting genuine soul-cost to preserve something valued above the practitioner's own structural integrity — and it is the first on the ladder that is a decision, made in advance, in cold blood.*
 >
@@ -44,7 +49,9 @@ verification: null
 ## II · Soul Architecture
 
 **Aether Shell** · **Class III · Resonant.** *Her Aether runs hot and fast, leaving faint crimson streamlines around armour edges and wing tips.* **In formation she acts as a living spearhead,** shaping the air so lesser riders can follow in her wake.
+
 **Crystal State** · Refined. **η** · ~0.55, Tier of Standing 5, Expert.
+
 **Risk** · **Overpush of velocity and vector stacking can tear muscles and ligaments or cause blackouts at altitude.** *Sudden Domain disruptions in the sky can drop her out of stable flight.* **Pride makes her slow to retreat.**
 
 ---
@@ -52,8 +59,11 @@ verification: null
 ## III · Wellspring Harmonizations
 
 **Exuroth** · Caloria. **The burning strike.**
+
 **Verdantia** · Vitalia. **The living bond between rider, mount and sky.**
+
 **Aeolyth** · Lift and altitude. *Replacing the legacy sheet's "Ascensio," which is not among the sixty.*
+
 **Petralon** · Vectoria. **The kinetic vectors channelled along her limbs and into the wyvern.**
 > **Network** · *Three minor Wellsprings along the Eressean mountain chains resonate with her and the Skyfang flights.* **She refuses to bind more until the existing sky routes are fully secured** — which is a Tempering Capacity decision made for a strategic reason, and the only instance of that in the volume.
 
@@ -110,28 +120,39 @@ verification: null
 #### Origin
 
 Asta Venrik was born Eressean Highborn, of the Skybound Elfkin, to a house whose holdings ran along the Eressean mountain chains of the Grand Principality. No record keeps the name of that house. Eresse read its daughters by lineage-line and rite-office, and her line put her forward as a princess candidate. She was the least suitable candidate in Eresse.
+
 She preferred saddle leather to silks and wyvern claws to court cutlery. While the rite calendar was recopied below without variation, in its season, she was up at the Skyfang eyries on the chains, and she chose the screaming edge of the wind over ballroom music. The conservative houses had a word for a girl like that. They called her out of season.
 
 #### The Making
 
 Nobody taught her in order. She learned the wyvern by raw, stubborn practice and fell off more times than she will admit. Eressean bones are light and break cleanly. Hers broke, and she mounted again.
+
 She came up through the Eressean Skyfang Militia to its command. In the cliff wars she kept climbing back into the saddle with broken ribs. She broke sieges and raider lines with shock dives. In formation she flew as a living spearhead, shaping the air behind her so that lesser riders could follow in her wake.
+
 The night that made her came in the mountain chains. The forest under a pass burned, and no record says what lit it. The people of the valley went out by glider along the one corridor of air over the pass. The fire's heat filled that corridor with smoke and broken lift. Asta took the Skyfang flights in and flew at their head. Eryndrel Vaelune of the Aerial Ward hooked the route at the near end, and every glider that crossed his mark flew quieter and truer. He read the air and called the corridor closing, aloud, for every rider on the line.
+
 Asta stayed. She held the burning sky corridor open so the civilian gliders could pass, and she refused to abandon the line even as her wyvern bled under her. At the far mouth Aelor Vaelith could find no footing on ridges thick with ash. He scrubbed a clean lane and held it, and the gliders came out through it onto clear air. The last glider passed. The corridor closed behind her, as Eryndrel had read it would. She came out through the closing.
 
 #### The Cost
 
 The wyvern bled from one end of the corridor to the other. She brought it down beyond the far mouth, on clear air.
+
 Eryndrel had called it. The corridor closed when he said it would, with her still inside it. She believes that a line she holds stays held until the last one is through, and that belief kept her in the air past a call she heard. Pride makes her slow to retreat.
+
 The dive is paid for in her body. Pushed past its limit, her speed tears muscle and ligament, and at altitude it can black her out. She rides hurt. She has always ridden hurt.
+
 At court she paid in another coin. Every conservative house lobbied for a gentler bride, and she was chosen as queen over all of them. She refuses to hide her scars. She has said so plainly: "If you wanted a porcelain queen, you should not have married the woman who jumps off cliffs for fun."
 
 #### Where They Stand
 
 Asta is the Skyfang Queen of Eresse. She is called the Talon Bride, Crown of the Open Sky, and Karo's Tomboy Queen. She is Wyvern Marshal Emeritus, once commander of the Skyfang Militia, and she stands in Royal House Venrik. As queen she still smells faintly of wyvern oil.
+
 She is compact and athletic, with long legs, light tawny blond hair and shoulders made for climbing harnesses. Her scars stay in plain sight. In the air, faint crimson streamlines run off her armour edges and her wyvern's wing tips.
+
 Three minor Wellsprings along the mountain chains answer her and the Skyfang flights, and she will bind no more until the sky routes she already has are fully secured.
+
 The discipline she flies with is the discipline Karo hammered in. His own card records his exile from the Grove-Spired throne and never names her. The Venrik line holds that throne with the assent of Serenyra Vaelith, whose refusal of it was a handover. No record sets Asta's crown and Karo's exile in order.
+
 Eressean councils sit in chambers built partly below grade. When war calls, the queen turns the royal balcony into a launch platform.
 
 #### Ties

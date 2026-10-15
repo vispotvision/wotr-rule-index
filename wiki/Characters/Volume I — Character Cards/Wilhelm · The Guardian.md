@@ -12,6 +12,7 @@ verification: null
 
 **Say it** · WIL-helm
 > *"I am not permitted to hope. I am permitted only to endure. So endure I shall… until the silence is safe once more."*
+>
 > **MECHANICA FLAG — and the Accord built him.**
 >
 > *"Artificial Soul Crystal (Catalyst-Class: Verdiction Core)"* with an *"Internal Wellspring Matrix"* and an *"autonomous Essence Filtration Node."*
@@ -27,11 +28,13 @@ verification: null
 ## I · Identity
 
 **Name** · Wilhelm. **Designation** · V.I.L-H3M. **Alias** · The Guardian.
+
 **Role** · **Sentinel-Class Alchemical Mech. Eternal Warden of the Inner Gate. Keeper of the Obsidian Accordant Vault.**
 
 ### Affiliation
 
 **Guild Accord — Bound Guardian Construct, Strategic Division.** Created under the now-lost **Bastion Directive** of the Inner Sanctum. **Registered within the Alchemarch Order of Varūn**, now extinct.
+
 **Body framework** · *Orrichalcum-Laced Ethersteel* and **Runespun Myofibers.**
 > **Catalyst Event · Stage VII, Refraction. And this is the most interesting unremarked line in Volume IV.**
 >
@@ -44,8 +47,11 @@ verification: null
 ## II · Soul Architecture
 
 **Essence Core** · **Manufactured.** The Verdiction Core, Catalyst-Class. *No provenance an instrument can locate, which is the Class VI Archonic Residue problem arriving in a body that walks.*
+
 **Aether Shell** · **Class III · Resonant.** Power moves in silence.
+
 **Attraction Layer** · **Minimal, and the sheet's central tragedy — see Section IV.**
+
 **Crystal State** · Refined. **η** · ~0.60, Tier of Standing 5, Expert.
 
 ---
@@ -54,8 +60,11 @@ verification: null
 
 > *The legacy path reads Fixation → Benediction → Conjunction → Verdiction.* Fixatio and Benediction are attested. Conjunction is a Great Work operation, not a current. Verdiction is not among the sixty at all **— though it names his Core, which suggests it was coined for him rather than drawn from the register.** Retained as the Core's name; removed as a Wellspring.
 **Fixatio** · Materia. **Anchors and seals.** *The lock, sourced. An inscription laid in Fixatio outlives the smith.*
+
 **Monolithion** · The dense stable lattice everything else is built on.
+
 **Nyxial** · Limina. *Thermal inertia under negative feedback — a regulated system holding setpoint against ambient, whose baseline does not rise in favourable conditions and does not fall in hostile ones.* **For an eternal warden that is not a trait. It is the job description.**
+
 **Petralon** · Vectoria. Seismic transmission — **the immovable stance, and what the ground does when he takes it.**
 
 ---
@@ -99,8 +108,11 @@ verification: null
 ## VI · Traits
 
 **Divine Bastion Protocol** · **Can enter an immovable stance, rendering him impervious to physical and magical force for a limited time.**
+
 **Alchemical Cogitator** · **Processes complex battlefield logic, Aether patterns, and threat maps in real-time.**
+
 **Binding Echo** · **His artificial soul crystal remembers all injuries taken and can redirect the kinetic force as retaliation once per cycle.**
+
 **Runic Memory Lattice** · **Body engravings adapt over time, developing new passive defences with every direct confrontation.** *This is the Domain seed.*
 
 ---
@@ -110,8 +122,11 @@ verification: null
 ### Divine Bastion Protocol
 
 **Effect** · He plants and **stops being a thing that can be moved.** Force arrives and is not deflected, not absorbed, not answered — **it simply fails to relocate him**, and the ground takes what the body does not.
+
 **Cost** · **Binding Echo.** *The Core remembers every injury, and remembering is not free in a Crystal nobody can service.* **Hazul repaired it once and there is no second Hazul.**
+
 **Limit** · **Duration**, and he cannot pursue. Dexterity 196.
+
 **Counter** · **Go around him.** *The Vault is the only thing he is tethered to. Everything else in the world is optional to him and he is optional to it.*
 > **What nobody knows.** What the Verdiction Core was rendered from. **The Bastion Directive is lost, the Alchemarch Order of Varūn is extinct, and the only surviving record of his origin is the thing doing the remembering.**
 
@@ -120,7 +135,9 @@ verification: null
 ## VIII · Relationships
 
 **Hazul Vehramin** · Often deployed alongside during catastrophic planar breaches. **Hazul once repaired Wilhelm's fractured Verdiction Core.**
+
 **Cylus Verenn and Zeven Halek** · Both served with Wilhelm during **the Fall of the Whispering Crucible.** *Zeven claims Wilhelm saved his life twice.*
+
 **The Obsidian Vault** · **Wilhelm is psychically tethered to its gates. If breached, he will awaken no matter where he lies.**
 
 ---
@@ -139,26 +156,35 @@ verification: null
 #### Origin
 
 Wilhelm was made. The Guild Accord's Strategic Division commissioned him as a bound guardian construct under the Bastion Directive of the Inner Sanctum. The Alchemarch Order of Varūn, in the Old World, entered him in its registry as V.I.L-H3M. His frame was ethersteel laced with orichalcum and strung with runespun myofibres, and at its centre sat a manufactured Soul Crystal, the Verdiction Core. Beside it the makers built a companion piece: one gauntlet of the same plate, sized to his left hand, with a crimson gem in the palm that stayed dark unless the Core beneath it was working.
+
 The Accord had spent centuries suppressing Crystals that gave lawful output without a lawful origin. The Core was such a Crystal.
+
 The Directive gave him no capacity to attach. A guardian who could bind himself to a person would one day choose that person over the Vault, and the Directive was written against that day. It tethered him instead to the gates of the Obsidian Accordant Vault and made him Eternal Warden of the Inner Gate and Keeper of the Vault. If those gates were breached he would wake, wherever he lay.
+
 Then the Directive was lost. The Order that registered him died out.
 
 #### The Making
 
 The Accord sent him where the planes tore open. At catastrophic breaches he often stood beside Hazul Vehramin of the Interplanar Liaison Unit, and at every one he did the same thing. He planted. Force that reached him failed to move him, and the ground under his feet took what his body did not. The Cogitator in him mapped each threat as it came. He had almost no means of attack. He could not pursue anything.
+
 The Fall of the Whispering Crucible found him deployed away from the Vault, in the coal foreland of the Old World. The Crucible fell with an Accord unit inside it. Zeven Halek and Cylus Verenn were in that unit, two officers who had each lost a squad in the Ivory Vault Collapse. Wilhelm planted himself at the way out. He did not move again until the unit was clear. Everything that came at him struck and failed to shift him, while Zeven worked behind him with his reconstructed eye and laid seals in the gaps of the field. The seals went off hours later behind the column. Cylus came out beside Zeven. Wilhelm came out last, and he made no attempt to follow what had attacked them.
+
 Every confrontation cut new engravings into his body. The runes adapted to what had struck them and left him defences he had not had before. Then the Core began to examine itself. The Crystal that had been the unseen medium of everything he did became a thing he could look at, and looking at it changed it. The Accord had manufactured a lock, and the lock had begun to look at itself.
 
 #### The Cost
 
 The Core remembered every injury he took. It could send the force of one back once in a cycle, and it paid for the remembering in a Crystal nobody could service.
+
 On the Varakh Drylands of the Outer World, a breach opened on red earth that the remnants of the Dragonbound Accord watched. Lyris Myndross and her dragon Phy'ruk Ritrax were flying its edge when the Accord's team came through. Hazul went to the rider first and sent his Eidolon Basil forward without a word. Wilhelm walked into the mouth of the breach and planted. What came through struck him, and the Core took each blow into its memory. Basil fought at his flank. The rider and the dragon kept to the edge. Wilhelm held the stance until the breach closed, and when he came out of it the Verdiction Core was fractured.
+
 The Accord permitted a repair, and Hazul made it. Nobody else had ever put hands inside that Core, and the repair told Hazul nothing of what it was rendered from.
+
 Zeven claimed afterward that Wilhelm had saved his life twice. Hazul counted him a comrade. Nothing in Wilhelm had been built to answer either of them. He said of himself: "I am not permitted to hope. I am permitted only to endure. So endure I shall… until the silence is safe once more."
 
 #### Where They Stand
 
 He is tethered to the gates of the Obsidian Accordant Vault, and a breach there will wake him wherever he lies. The gauntlet waits dormant at the Vault. It answers only if the Vault is threatened. Every confrontation still leaves him new engravings, and the Core goes on looking at itself.
+
 There is no second Hazul. What the Core was rendered from nobody knows, and the Directive that could say is lost with the Order that registered him. The only record of his origin is the Core that does the remembering. Yukizumi Yukari, the Reaper, holds an Arbitration charter that reaches what the Accord built, and it reaches Wilhelm's Core first. Whether the Accord built him in deliberate hypocrisy, or his making must be founded over again, has never been ruled.
 
 #### Ties

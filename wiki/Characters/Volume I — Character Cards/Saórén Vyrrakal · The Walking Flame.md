@@ -12,6 +12,7 @@ verification: null
 
 **Say it** · sah-oh-RAYN VEER-ah-kal
 > *"Darling, I don't fight fair — I fight* flawlessly.*"*
+>
 > **Stage corrected — the legacy sheet reads "Stage VI — Refraction" and Refraction is Stage VII.** *The description is explicitly Refraction imagery: "their Essence fractures outward like a flame viewed through a prism."* **Stage VII stands.**
 >
 > *"Flame / Charisma / Dragon-Aether"* were not Essence types. **"Aether Class: Draconic Flairbearer"** is not among the eight; **they are Class V, Radiant** — *the world-bending Shell, where Aether bends toward the bearer and output begins exceeding what the raw numbers suggest,* **which is the correct Class for a performer whose power scales with attention.**
@@ -21,8 +22,11 @@ verification: null
 ## I · Identity
 
 **As Of** · After the parley at Lyra Drakoshi's gate
+
 **Name** · Saórén Vyrrakal. **Called** · The Walking Flame. *Self-proclaimed "voice of golden fire."*
+
 **Race** · **Dragonkin, Molten Lineage.** *Scaled features beneath the skin, sometimes visible when angered or aroused in combat. Horns, claws, natural resistance to extreme heat. Golden scales line the forearms and abdomen beneath the robe.*
+
 **Role** · **Ember-Touched Dragonkin. Flame-Tongued Performer. Wellspring Duelist and Charmer of Courts.**
 
 ### Affiliation
@@ -37,8 +41,11 @@ Scion of the **Molten Lineage**, a draconic bloodline rooted in the volcanic dom
 ## II · Soul Architecture
 
 **Aether Shell** · **Class V · Radiant.** *Aether bends toward the bearer; currents curve around their presence.* **Output begins exceeding what the raw numbers suggest** — and theirs is empowered further by crowd attention, rhythm, and high emotion.
+
 **Attraction Layer** · **Strongly developed and pointed outward at everyone.**
+
 **Crystal State** · Refined. **η** · ~0.60, Tier of Standing 5, Expert.
+
 **Orrivaan's Perfumed Ember** · *Not just heat, but beauty — theatricality, emotional precision, and devastating explosiveness when provoked.*
 
 ---
@@ -46,8 +53,11 @@ Scion of the **Molten Lineage**, a draconic bloodline rooted in the volcanic dom
 ## III · Wellspring Harmonizations
 
 **Ignivale** · Caloria. **The current that holds temperatures charcoal cannot reach.**
+
 **Catharsis** · Caloria. **Pale rose-gold.** Release and purgation — *the emotional half of the fire.* **Same-Family compounding with Ignivale**, which is why the heat reads denser than their Ardency accounts for.
+
 **Luminalis** · Fulguria. **Golden Bloom** — the passive radiance that brightens with confidence.
+
 **Mirithane** · Limina. *A true mirror adds nothing; fidelity is the absence of introduced distortion.* **Ember Voice — every word carries exactly the weight they meant it to.** *Failure: the mirror does not discriminate, and a performer having a bad night broadcasts it perfectly.*
 
 ---
@@ -86,9 +96,13 @@ Scion of the **Molten Lineage**, a draconic bloodline rooted in the volcanic dom
 ## VI · Traits
 
 **Golden Bloom** · **Radiates light and heat passively, growing brighter and hotter with rising confidence or excitement.**
+
 **Scalebreak Grin** · **Their smile can stagger lesser foes — a metaphysical pressure cloaked as flirtation.**
+
 **Flourish Step** · **Converts momentum into twirling evasions or burst dashes** surrounded by **harmless-looking flame trails that detonate if touched.**
+
 **Ember Voice** · **Every word carries Aetheric weight.** They can command attention mid-battle, **potentially stunning unfocused targets.**
+
 **Draconic Furnace** · **Can build internal Essence to unleash one massive breath or wide-area eruption.** *Risky, but sublime to witness.*
 
 ---
@@ -98,8 +112,11 @@ Scion of the **Molten Lineage**, a draconic bloodline rooted in the volcanic dom
 ### Draconic Furnace
 
 **Effect** · Everything held is spent at once — **one breath, or one eruption, and the room is changed.** *The Radiant Shell means the yield exceeds what the numbers predict, and the crowd makes it worse.*
+
 **Cost** · **Detonation carries unshielded Backlash risk at every grade above C**, and theirs sits at 430. *They pay for this afterwards, in private, and have never let anyone see it.*
+
 **Limit** · **It must be built.** *And building it is visible, and beautiful, and takes exactly as long as an unimpressed opponent needs.*
+
 **Counter** · **Do not applaud.** *Gnosis 172 and Resilience 214 — be patient, be quiet, and hit them once.*
 
 ---
@@ -107,7 +124,9 @@ Scion of the **Molten Lineage**, a draconic bloodline rooted in the volcanic dom
 ## VIII · Relationships
 
 **Former court performer of the Fire Blossom Empire**, now free and wandering.
+
 **Has seduced both nobles and mercenaries in equal measure** — *sometimes for fun, sometimes for escape, sometimes for battlefield openings.*
+
 **Holds no true loyalties**, but is **fiercely protective of those who accept both their strength and their style.**
 
 ---
@@ -132,25 +151,33 @@ Scion of the **Molten Lineage**, a draconic bloodline rooted in the volcanic dom
 #### Origin
 
 Saórén Vyrrakal was born into the Molten Lineage, a draconic bloodline rooted in the volcanic dominions beneath Tres Aures. They came out of it with the lineage's body: horns, claws, golden scales along the forearms and across the abdomen, and a skin that heat could not hurt. In anger, or in the heat of a fight, the scale rose under that skin and showed.
+
 In the dominions fire was as common as stone. A child there who wanted to be watched had to learn to be heard. Saórén learned it early. A word pitched right turned every head in a hall, and a smile kept the heads turned. They practised both until they could do either on purpose, in any room, to anyone.
 
 #### The Making
 
 The court of the Fire Blossom Empire took them on as a performer. They sang with flame on the tongue and danced with fire at their heels, and they named themselves the voice of golden fire. The court let the name stand. They learned to read a hall: which lord would laugh first, which guest would lean in, how long a pause a room would bear. They seduced nobles and mercenaries in equal measure, sometimes for the pleasure of it and sometimes for an opening.
+
 The court did not mean to let them go. Saórén left anyway. On the night they went, a mercenary on the gate had been charmed into watching them, and nobody watched the road.
+
 Free, they wandered. Noble houses contracted them for courtly disputes and for entertainment, and the contracts usually ended with something on fire. The Guild Accord entered them on its Ember-Tier list of bountied assets. The entry names no crime.
+
 On one contracted night, in the middle of a performance, a piece of the world around them briefly agreed to different terms. The audience stopped watching a show and started standing inside one. For most of the people in that hall it was the first uncanny thing they would ever see. They describe it wrongly, and they all describe it the same way. Saórén has never described it as anything but a good night.
 
 #### The Cost
 
 Every engagement Saórén has won was won before contact, on presence and pressure and the grin, a smile that staggers lesser fighters and looks like flirting. They fight in a robe. They cannot take a hit, and they cannot see one coming. They see which face in a crowd is about to laugh before it laughs. A blade from the side reaches them unannounced.
+
 Their voice gives every word exactly the force they meant for it. It adds nothing and hides nothing. On a bad night, the whole room hears the bad night.
+
 When a room will not be won, they have the furnace. They build everything they hold into one breath or one eruption and spend it at once, and the room is changed. The building shows. It is beautiful to watch, and it takes exactly as long as an unimpressed opponent needs. An opponent who does not applaud, stays quiet, waits, and hits them once beats them.
+
 The furnace is paid for afterwards, in private. After a breath they walk out of the room at the pace they walked in, and nobody sees them again that night. Nobody has ever seen them pay.
 
 #### Where They Stand
 
 On the Grass Sea road, one of two feuding border lords hired Saórén for a parley, as champion and as show. The parley sat in the stone-floored hall beside Lyra Drakoshi's gate. The other lord had asked the Marchlord of Glass to stand behind his claim. At the warden's word the Marchlord left his ranks on the verge and came through the gate alone, into the room where Saórén waited. Saórén made the entrance they had been paid for, flame trails across the floor and the grin. The warden watched it through to the end and told them it was good fire and a good show. When the lords began to call their champions forward, she heated the stone under their boots until the soles smoked. The hall laughed. Both lords signed. The duel was never fought, and the room was won by someone else's fire.
+
 Saórén Vyrrakal is free and wandering, and the Accord's list still carries the name. They carry the Sulakari Veil. They hold no true loyalties. Those who accept both their strength and their style, they protect fiercely. The warden at the gate accepted both.
 
 #### Ties

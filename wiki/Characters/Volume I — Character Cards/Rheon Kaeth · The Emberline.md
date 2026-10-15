@@ -20,10 +20,15 @@ verification: null
 ### I · Identity
 
 **As Of** · After the Firefront clean-up
+
 **Name** · Rheon Kaeth. **Called** · The Emberline, among old comrades.
+
 **Role** · **Retired Accord soldier, discharged. Survivor of the Firefront Collapse. Maintains Guild outposts and trains younger recruits in emergency containment.**
+
 **Type** · Mortal, discharged veteran. **Era** · Withering Era. **Realm of origin** · Praetorian March *(struck polity; carried as the card's origin).*
+
 **Appearance** · Black hair kept long and tied low. **One side of his face bears the molten scar of Wellspring burn, which is Essence crystallisation rather than disfigurement.** In certain light, faint orange veins shimmer across his neck like buried embers. Uneven eyes: one bright amber, the other dulled from the blast. Simple clothes, always freshly cleaned, as if scrubbing away memory. **He never removes his gloves.**
+
 **Gloss rights** · Never. *He speaks in short sentences and trails off as if the words burn on the way out. He does not answer when asked about the glow.*
 
 #### Affiliation
@@ -38,8 +43,11 @@ verification: null
 ### II · Soul Architecture
 
 **Aether Shell** · **Unclassed (Class emerges at Glory).** The awakening Shell flickers with first resonance; Essence leaks unevenly and emotion distorts weather and mood. *The anomalous heat near his home during night storms is a leak read by an instrument.*
+
 **Attraction Layer** · Undeveloped past the one bond the card implies. **Children trust him; veterans salute him in silence.**
+
 **Crystal State** · Locked. *"His Essence locked in a permanent feedback loop between life and death. He can neither progress nor regress."* **η** · ~0.25, Tier of Standing 4, Adept.
+
 **The wound that never closes** · *His body endlessly repairs the same wound.* **Under the Part Seven gates, reinforcement of healed tissue requires Body Path at Stage V. He is Stage IV. The tissue repairs and never reinforces, and the same wound is therefore always the same wound.**
 
 ---
@@ -47,6 +55,7 @@ verification: null
 ### III · Wellspring Harmonizations
 
 **Exuroth** · Caloria. **Quench and temper: martensitic hardening followed by controlled reheat.** *Exuroth runs the Crystal on that cycle, repeated thermal shock followed by controlled recovery.* **His cycle stopped mid-quench.** *Failure: quench cracking. Cycle too fast without the tempering interval and the lattice arrives hard, brittle, and split along its own thermal gradients. The molten scar is the split.*
+
 **Penanceflare** · Caloria. **Blackbody radiation: the emissivity of a body that cannot hide its temperature.** *Penanceflare raises the Shell's emissivity toward unity; workings become legible, intent readable in the emission.* **A near-perfect emitter is a near-perfect absorber, and that is the whole of the Emberline: he drinks the radiant heat out of a fire, and when his skin opens he radiates it back.** *Failure: there is no concealment mode. The glow beneath the scars is the current refusing him one.*
 
 ---
@@ -55,6 +64,7 @@ verification: null
 
 **Stage IV — Flourishing, stalled** · **Level 100** *(the Band I gate; derived from the stall)* · Level Band I · Tier of Standing 4, Adept · Grade B · Ceiling 275.
 > **Pool 2,200**, per *Fracture of Worlds — The Living System*, Part Three: 1,200 from Band I, 1,000 from Thresholds I–IV. *This is Part Three's own worked example for Level 100 at Stage IV, so it governs over the brief's flat-rate approximation (3,600).* **Allocated 2,120** — the 80-point remainder banked as Residual Strain against the unpassed Stage V Threshold.
+>
 > *Every value below is an estimate inside the Stage IV ceiling, marked per R14-2.*
 
 | Stat | Value | Grade | Reading |
@@ -83,8 +93,11 @@ verification: null
 ### VI · Traits
 
 **Residual thermal harmonics** · **He unconsciously stabilises temperature and pressure in small areas around him. Fires die near him. Explosions mute.** *A Traitus mark: passive, permanent, and the card is explicit that nobody aimed it.*
+
 **The heat that returns** · **When he bleeds, the air grows hot again.** *Penanceflare emission through an open wound; a Manifestus bleed on a pressure spike.*
+
 **Light under the skin** · **Half his unit burned into glass; he walked out carrying light.** *Essence crystallisation, not disfigurement.*
+
 **Heat distortion** · **In combat, his aura manifests as faint heat distortion, a constant reminder of the inferno that made him.**
 
 ---
@@ -92,7 +105,9 @@ verification: null
 ### VII · Artifacts
 
 **Standard Guild Saber, sealed** · *Issue weapon.* **Kept wrapped in linen, never drawn since the Collapse.** *Dexterity 130 is a man who has not practised in years and does not intend to.*
+
 **Charm of the Emberline** · *Fused battlefield glass.* **Warm to the touch; pulses faintly when danger nears.** *Glass from the Collapse still carries the Exuroth gradient it was quenched in.*
+
 **March Brand Tattoo** · *Once a badge of honour.* **Now faint, barely visible beneath the scars.** *The March is struck; the brand is what remains of it on his skin.*
 
 ---
@@ -102,8 +117,11 @@ verification: null
 #### Emberline
 
 **Effect** · **Within a few metres of him, temperature and pressure settle toward his own.** *Penanceflare has pushed his Shell's emissivity toward unity, and a body that radiates at unity absorbs at unity: the radiant output of a fire is drained into him, an explosion's pressure front finds a sink, and the air goes still.* A recruit's containment error dies before it spreads. **Nobody sees him do it, because he does not do it.**
+
 **Cost** · **What is absorbed is stored, and the store is a wound that never closes.** *Exuroth's quench-and-temper cycle stalled mid-quench: the lattice is hard, brittle, and split along its own thermal gradient, and the split is the scar on his face.* The Shell leaks it back unevenly on bad nights. **He carries a war's worth of heat under his gloves whether or not anyone is burning.**
+
 **Limit** · **A few metres, and only where he stands.** It is passive; it cannot be aimed, thrown or withheld. Above the Stage IV ceiling nothing on this sheet can push, and a fire hotter than his Tolerance refuses to be drunk. **He is stalled at the Band I gate and has been since the Collapse.**
+
 **Counter** · **Bleed him.** *Penanceflare has no concealment mode; open the skin and the stored heat leaves through the wound, and the air around him turns hot in exactly the measure it was cold.* Or move the fire: **the effect ends with distance, and he will not follow.**
 > **What nobody knows.** What the heat signatures near his home on storm nights are. The reports say the Wellspring is reawakening. The sheet says he has stood at the Stage V Threshold for years, and a Crystal that finally fractures would read the same way.
 
@@ -112,8 +130,11 @@ verification: null
 ### IX · Relationships
 
 **Civilians of the Babyl frontier** · Know him as a gentle man with a broken face. **Children trust him.**
+
 **Those who still hear the Accord's call** · Know him as the soldier who pulled three dying men out of molten air. **Veterans salute him in silence.**
+
 **Younger recruits** · He trains them in emergency containment at Guild outposts.
+
 **The regiment** · Annihilated at the Firefront Collapse when a Flame-aspected Wellspring imploded under corrupted pressure. **His guilt is the fear that if he forgets the war, it might return.**
 
 ---
@@ -132,26 +153,35 @@ verification: null
 #### Origin
 
 Rheon Kaeth was born in the March, in a smith's house at the edge of a garrison town. His father forged and tempered blades for the soldiers posted there. Every evening Rheon was sent to bank the forge. He raked ash over the coals so that the heat would keep until morning with no flame showing.
+
 At the anvil his father showed him what became of a blade quenched and never reheated. It went brittle. It split along its own heat. Rheon kept the broken ones in a box under the bench.
+
 He was small the day a spark from the forge caught the thatch of the shed next door. He was on its roof with a wet sack before his father had set down the tongs. The March put its brand on his skin while he was young. In his father's street it was counted an honour to wear.
 
 #### The Making
 
 He left the forge for the Accord. It issued him a standard Guild saber, and he carried it in the Accord's service with the March's brand still dark on his skin. His regiment was posted to the frontier where the March meets Varuun Daskorr's kingdom, at a Flame-aspected Wellspring. There he drilled in containment until he could keep a fire on the ground where it started.
+
 The Wellspring imploded under corrupted pressure. The regiment was annihilated. The blast dulled one of his eyes and laid a molten scar down one side of his face. Half his unit burned into glass where they stood. Rheon pulled three dying men out of molten air, and he walked out carrying light under his skin.
 
 #### The Cost
 
 The heat he walked out with stayed in him. In certain light faint orange veins showed across his neck like buried embers. The scar on his face was hard and split, like one of the blades in the box under his father's bench. His body repaired the same wound over and over. It never closed.
+
 Fires died near him afterward, and explosions muted. He did nothing to make them. When he bled, the air around him grew hot again. He put on gloves and did not take them off, and he kept his plain clothes freshly cleaned, every day. He wrapped the Guild saber in linen. He never drew it again. He would not raise his hand unless someone else was in danger. Asked about the glow, he did not answer.
+
 He feared that if he forgot the war, it might return. When the ground had cooled, the Accord sent a Concord clean-up, and Kaelrith Dorne came to it as a consultant. Kaelrith walked the glass dragging the broken half of a greatsword behind him, so that no corrupted echo of the regiment would rise. Rheon, discharged by then, came up from the frontier and walked the field beside him. He showed Kaelrith where the men had stood. Neither spoke of his own unit. Rheon carried one piece of the fused glass off the field, and he wore it from then on.
+
 Kaelrith stayed on to guard the Wellspring. Rheon settled on the frontier below it, within sight of the field where his regiment had burned.
 
 #### Where They Stand
 
 Rheon lives on the fringe of the frontier and offers quiet labour. He keeps the Guild outposts in repair and trains younger recruits in emergency containment. A recruit's containment error dies before it spreads. It dies without his lifting a hand.
+
 The frontier's civilians know him as a gentle man with a broken face. Their children trust him. Veterans who still hear the Accord's call know him as the soldier who pulled three dying men out of molten air, and they salute him in silence. Old comrades call him the Emberline. He speaks in short sentences and trails off, as if the words burn on the way out. He has said, "Some men heal. I just cool down."
+
 The Accord's papers call him discharged. The same papers list him on the Inactive Reserve. The charm of battlefield glass is warm to the touch and pulses faintly when danger nears. The March brand is faint under the scars. Above his house Kaelrith keeps the watch and has never asked about the glow.
+
 On storm nights the instruments read heat near his house. The reports say the Wellspring is reawakening. The same reading would come off Rheon himself if whatever locked in him at the Firefront finally broke, and nobody knows which it is. Varuun Daskorr names the Firefront among the fires he accuses the March of weaponizing. Nobody has recorded who corrupted the Wellspring. No record says whether the three men he carried out are living.
 
 #### Ties

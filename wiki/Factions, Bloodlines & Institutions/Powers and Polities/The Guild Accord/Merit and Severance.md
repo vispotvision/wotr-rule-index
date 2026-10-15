@@ -38,12 +38,14 @@ Each successful Commission grants Merit Points, commonly called **Echo Marks**, 
 ## Essence Compensation
 
 Beyond Merit, operatives are compensated through **Aether Credits** — crystallized Essence fragments **encoded with one's personal signature**, exchangeable for equipment, reagents, or relic access at any Guild Hall.
+
 **Low-Tier** · potions, spirit shards, training sigils. **Mid-Tier** · relic vouchers, rare materials, research licenses. **High-Tier** · divine artifacts, personal Wellspring rights, or political elevation within the Accord.
 > Because each credit is soul-bound, theft or falsification invokes **Essence Reversal** — a punishment that drains the thief's resonance **until the debt is repaid in spirit or death.**
 
 ### Advancement rights
 
 **Relic Rights** · permission to wield or bond with Concord-sanctioned artifacts. **Wellspring Visitation** · access to active Wellsprings for study or attunement. **Gate Access** · travel through the Concord Gate Network. **Ritual Command** · authorization to lead Essence Sealing, Purification, and Binding rites. **Political Authority** · eligibility to serve as Envoy, Tribunal Judge, or Council Advisor.
+
 All rights are granted through Arbitration following a Temperance evaluation and the signing of the **Oath of Merit.**
 
 ### Merit conversion and legacy

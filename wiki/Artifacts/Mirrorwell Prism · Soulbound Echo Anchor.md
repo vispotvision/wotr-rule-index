@@ -23,7 +23,9 @@ A crystal shard roughly 6 cm across the long axis, about 140 g. It is carried, n
 ### Operation line
 
 **Tether stabilization.** Trigger: Karo channels Essence into the Prism while an Echo is fielded. Function: the Prism's lattice supplies a Fixatio-style anchor point external to Karo's own Attraction Layer. Mechanism: Fixatio's law is that what it holds stays held; routing a fielded Echo's tether through the Prism gives the tether a second anchor that does not depend on Karo's own fracturing Crystal alone. Numerical effect: reduces the sustained AU/s cost of holding the Echo open by 15%. Limitation: only one tether may run through the Prism at a time. Counterplay: sever the tether at the Attraction Layer (Karo's own signature Counter) or destroy the Prism outright; either forces the anchor to fail.
+
 **Bound extension.** Function: the Prism holds a single Echo's tether at higher fidelity than Karo can sustain unassisted. Numerical effect: extends that Echo's field-time by roughly one minute before forced recall or collapse. Cost: binding a new Echo to the Prism overwrites and erases the previous one's mirrored state.
+
 **Mirrored re-summon.** Function: the Prism retains an Anamnesis-style read of the bound Echo's last known configuration, a stored trace, not the fragment's continuity. Mechanism: this is a recording, in the same sense Anamnesis reads any object's stored history; it is not the Echo's identity persisting, only what it looked like when it left. Numerical effect: re-fielding that specific Echo from the mirrored state costs 50% of the normal EU. Limitation: works only for the one Echo currently mirrored. Weakness: because the mirrored state is a compressed trace rather than the full original, an Echo re-summoned this way is measurably more likely to be one of the fragments that refuses recall, Karo's own documented Splinter Drift risk, worsened rather than created by the Prism.
 
 ### Codex line

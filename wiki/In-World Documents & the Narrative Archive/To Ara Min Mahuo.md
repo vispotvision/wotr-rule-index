@@ -21,10 +21,13 @@ verification: "unverified"
 ## The Letter
 
 **Ara,**
+
 I am writing this by lamplight in a Zettari camp that still smells of woodsmoke and cold canvas, and I want you to read every line of it before you decide anything, **including whether to finish reading it at all.**
 > **That is the only condition I am placing on this letter. Everything else belongs to you.**
 I taught a lesson to frightened children this morning, the same as every morning since we left home, and I told them **that an element is not evil for the shape it was given, only for what a person chooses to do with it once it answers to their hand.**
+
 I have been turning that same thought over all night, **because tonight I was asked to hand a piece of your future to a Sovereign I had met only hours earlier** — and I refused to do it the way our family has always done these things. *Quietly, on someone else's behalf, without asking the person whose life it actually belongs to.*
+
 **So I am asking you instead.** Plainly, and with the whole truth in front of you, **the way you have always deserved it and rarely received it from the rest of us.**
 
 ---
@@ -41,10 +44,12 @@ Dawn Guard has offered marriage as the foundation of an alliance between the Zet
 ### Why your name
 
 I gave him your name, Ara, **because I think you are the one among us who could actually carry what this would ask of a person.**
+
 You have wanted a life built around leading people **since before either of us understood what leading them actually costs.** You have never needed to be the cleverest voice in a room to be the one everyone trusted to speak honestly in it.
 > *I think of you at twelve, in the lower hall, standing between two grown men who had forgotten how to hear each other, asking them plainly what they actually wanted until the shouting stopped on its own.*
 > 
 > **I have never forgotten that. I do not think I ever will.**
+>
 > But I want to be as clear with you as Dawn Guard was with me.
 >
 > **I did not offer your name as an arrangement. I offered it as a suggestion** — and the difference between those two words is the only thing I am asking you to hold onto while you read the rest of this.
@@ -58,11 +63,15 @@ You have wanted a life built around leading people **since before either of us u
 ### The shape of it
 
 Our bloodline has become dangerous in the eyes of the Old World because of what Cozbi has made of it — **and dangerous without being protected**, which he explained to me is **a far worse position than dangerous and feared outright.**
+
 He believes a marriage joining our family to his would change that calculation entirely. *The same way the Yukari's standing rests on the Zettari answering for them. The same way the Yuno endure because the Moto stand behind them.*
+
 **He is not offering charity. He was plain about that too.** He believes the Mahou, organized honestly and represented by people who did not learn Cozbi's cruelty, **could become an ally worth having rather than a danger worth exterminating.**
 > **He wants someone capable of holding that position beside him as an equal, not a decoration standing quietly at his side.**
 He asked me directly whether I could suggest someone with the character for it — **someone who could look at the worst of our inheritance and the worst of his own family's history and still find the will to build something better from both.**
+
 *I told him your name because I believe it, not because I needed to give him an answer quickly.*
+
 You would meet him yourself, without me present, **without any elder standing near enough to make silence feel like duty.** You would be permitted to ask him anything. **You would be permitted to refuse him outright** — and he told me plainly that a refusal would not end whatever alliance we are building with him, **only require it to find another foundation.**
 
 ---
@@ -74,6 +83,7 @@ You would meet him yourself, without me present, **without any elder standing ne
 > **Whatever you choose, I love you, and I am proud of the person you have become without anyone's permission to become it.**
 >
 > Write back to me honestly, whichever answer you carry. **I will accept either one the same way, without loving you any less for the shape it takes.**
+>
 > *Your brother,*
 > 
 > **Kwon Mu-jin**

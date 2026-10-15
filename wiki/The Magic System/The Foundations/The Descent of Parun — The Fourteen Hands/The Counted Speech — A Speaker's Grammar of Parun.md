@@ -11,9 +11,12 @@ verification: "unverified"
 # The Counted Speech — A Speaker's Grammar of Parun
 
 *A Speaker's Grammar of Parun, with the Lexicon and the Spoken Hands*
+
 *Compiled for the Guild Accord Division of Alchemetrica · companion volume to The Descent of Parun*
 > **Twenty-five cells · one constant · three lawful short sentences**
+>
 > *"The Descent taught you fourteen ways to write it. This teaches you why almost nobody says it."*
+>
 > — opening line of the Vaulted Ring recitation primer, unattributed
 
 ---
@@ -21,8 +24,10 @@ verification: "unverified"
 ## What Is Actually Being Done
 
 **Parun has no mother tongue and no register below the legal one, and the reason is arithmetic rather than culture.**
+
 A spoken sentence is a path traced across the same lattice the written hands trace, **performed with the mouth instead of the chisel. The sounds are the cells.**
 > ***To speak the sentence is to walk the square out loud.***
+>
 > This produces a language that **cannot be babbled, cannot be sung to a child, cannot be used to gossip, and cannot be spoken quickly by anyone who has not made the count automatic.**
 >
 > *It can be shouted across a breach by a woman who has done it ten thousand times, and there are perhaps four hundred such people alive.*
@@ -80,6 +85,7 @@ A spoken sentence is a path traced across the same lattice the written hands tra
 > **Thirteen sits at the centre and is the only cell that does not move under any of the fourteen Archonic stations.**
 >
 > Which is why **the dental nasal appears in more Parun words than any other sound**, and why **a speaker who cannot produce it cannot speak the language at all.**
+>
 > *The whole square totals three hundred and twenty-five. This number matters later and is best not reached.*
 
 ---
@@ -87,12 +93,15 @@ A spoken sentence is a path traced across the same lattice the written hands tra
 ## The Three Laws
 
 **I · A sound may not repeat inside a word.**
+
 A traced path cannot revisit a cell it has already occupied. **This caps a word at twenty-five sounds and makes reduplication structurally impossible.**
 > *It is the reason Parun has no lullabies, no chants, no drinking songs and no baby-talk. You cannot say a sound twice for comfort. The language has no mechanism for it.*
 **II · The first sound declares the slot.**
+
 Values **1–5** open a Warrant. **6–11** a Ground. **12–17** a Vector. **18–25** a Seal.
 > *A listener therefore knows a slot has been skipped before the speaker has finished the word — which in a discipline where a skipped slot is an injury is the single most useful thing the language does.*
 **III · The sentence must total sixty-five.**
+
 Add the values of every sound in all four words. **A lawful sentence comes to sixty-five, or to a whole multiple of it. Nothing else seals.**
 > **This is the entire difficulty and the entire reason the world writes Parun rather than speaking it** — because a speaker composing live is **performing mental arithmetic while making a legal claim under pressure, and the arithmetic is not forgiving.**
 >

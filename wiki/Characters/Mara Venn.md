@@ -13,7 +13,9 @@ verification: null
 ## Mara Venn
 
 As of the last evening of the theatre.
+
 Say it: MAH-ra VEN.
+
 A wardrobe laundress and repairer in an Accord theatre. Adult woman. Unranked, with no combat grammar or worked abilities. Her work is performed with her hands.
 
 ### Identity
@@ -59,7 +61,9 @@ Her methods are ordinary garment care and repair.
 ### Skills
 
 Mastered: hand mending, fitting familiar performers, costume cleaning and backstage dressing.
+
 Drilled: cutting and altering garments, salvaging trim.
+
 Held: household accounts and Common literacy.
 
 ### Spirit Axes
@@ -77,8 +81,11 @@ Brown hair like worn broom bristles, wound close to a broad head; a flat nose an
 ### Psychology
 
 She wants to recover the value of trim she owns and leave while she can still begin elsewhere. She will refuse another promise of future payment. She knows the queen costume's hidden repairs, the actress's entrance habits and which belongings are personally owned.
+
 Her small habitual lie is that leaving has become easy; she checks her packed bag whenever she says it.
+
 Her voice notices material first. Short practical statements grow longer when she recalls work. Contractions are usual. Her recurring word is hold. She never calls work a privilege. She does not stumble in calm speech, counts exactly when responsible for money and rounds casual time. She explains sewing, never metaphysics. Stress drops courtesy; grief brings domestic examples; joy makes her fingers restless. Common speech, plain Accord accent, casual without fashionable slang. She uses Archons take it and before witnesses. Fixed saying: What has been said stands said. Sample: Hold the cloth. Let me move the needle.
+
 She avoids signing departures on a bad almanac day, although she denies that it matters. Her speech grows from practical wardrobe work.
 
 ### Equipment

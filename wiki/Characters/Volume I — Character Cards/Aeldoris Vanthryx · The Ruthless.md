@@ -20,12 +20,19 @@ verification: null
 ### I · Identity
 
 **As Of** · After the hearing at Altherion, hunting in the northern states
+
 **Name** · Aeldoris Vanthryx. **Called** · The Ruthless. **Also** · White-Fanged Sleepreaver · Dreamless Baron · Lord of the Silent Hours.
+
 **Epithet** · He Who Writes Mercy in Ash. *See migration note; shared, unruled.*
+
 **Role** · **Independent Hunter. Former Guild Accord Enforcement. Dream-law executioner.**
+
 **Race** · Veyran Human, an Aether-Blood mutation from deep Oneirion exposure.
+
 **Build** · 1.91 m. Lean, aristocratic, predatory. Moonlit-pale skin; crimson-ringed eyes hazed with dream; silver-white hair that drifts like vapour.
+
 **Presence** · A soft pressure of sleep. Shadows shimmer faintly; nearby minds recall forgotten memories involuntarily.
+
 **Gloss rights** · never. He forces confession out of everyone he meets and explains nothing of himself in return.
 
 #### Affiliation
@@ -40,9 +47,13 @@ Independent. Formerly Guild Accord Enforcement, before he went hunting the fract
 ### II · Soul Architecture
 
 **Aether Shell** · **Class III · Resonant.** Essence and Aether exchange freely; a read lands or it does not, with almost nothing lost between.
+
 **Attraction Layer** · Drifting. *Prolonged Eidolyn use causes self-confusion: an Attraction Layer built on other people's fears rather than his own bonds.*
+
 **Crystal State** · Refined, residue-heavy. **η** · ~0.65, Tier of Standing 5, Expert.
+
 **Path** · Spirit dominant, Attraction secondary, Body tertiary, Fate untouched.
+
 **Risk** · **Identity bleed.** Dreams of others distort his own sense of self; the risk is dissociation, not destruction.
 
 ---
@@ -50,9 +61,13 @@ Independent. Formerly Guild Accord Enforcement, before he went hunting the fract
 ### III · Wellspring Harmonizations
 
 **Oneirion** · Limina. **The Wellspring of Dream.** Configuration space — a system's every possible arrangement as a coordinate in a space with no physical location. **Governing.**
+
 **Eidolyn** · Limina. **The Shaping Mind.** Same-Family compounding with Oneirion and Hypnather is why the avatars he raises carry real force once the target believes in them.
+
 **Hypnather** · Limina. **The Sleep Crown.** Paralysis, memory fog, sensory distortion.
+
 **Somnalis** · Fluxia. The Dream Veil, one of two additional currents beyond the Triune Core.
+
 **Letheveil** · Limina. The Waters of Forgetting, the other. **Fifty-five of the Sixty remain untouched.**
 
 ---
@@ -86,7 +101,9 @@ Independent. Formerly Guild Accord Enforcement, before he went hunting the fract
 ### VI · Traits
 
 **Dream-Eater** · **Shortens the distance between waking consciousness and dreamspace.**
+
 **Eidolic Split** · **Creates avatars shaped from the opponent's fears**, which gain mass and force if the target believes them real.
+
 **Sleepfall Presence** · **A passive wave causing micro-sleeps and mental fog** in everyone nearby.
 
 ---
@@ -94,6 +111,7 @@ Independent. Formerly Guild Accord Enforcement, before he went hunting the fract
 ### VII · Artifacts
 
 **The Midnight Shard** · *Relic / Anchor.* **Anchors dream-forms into reality**, so an Eidolic Split avatar outlasts the moment he stops watching it.
+
 **Greenstone Pendant** · *Relic / Stabiliser.* **Absorbs dream-echoes to stabilise his mind**, the one countermeasure he keeps against his own Identity Bleed.
 
 ---
@@ -103,8 +121,11 @@ Independent. Formerly Guild Accord Enforcement, before he went hunting the fract
 #### Oneirion Phantasm Court
 
 **Effect** · **He manifests the target's dream-self behind them.** *The dream-self exposes the target's true motives and destabilises their Essence, and the battlefield becomes a subconscious courtroom. Where the court needs a jury, Eidolyn Falseface Lattice builds one: illusions of imagined threats that gain real mass and force the moment the target believes in them. Where the target needs to be held still to hear the verdict, the Hypnather Descent Rite drops them into forced half-sleep: paralysis, memory fog, senses distorting, for roughly ninety seconds.*
+
 **Cost** · **Loss of Self.** *Every dream he runs leaves residue; prolonged Eidolyn use is Identity Drift, and the Descent Rite runs down his own waking stability as Sleep Debt.* Overuse of the Rite risks absorbing the target's psyche rather than merely reading it.
+
 **Limit** · **The target must be guilty of something they know and have not admitted.** A target without guilt or deception gives the Phantasm Court nothing to convene about.
+
 **Counter** · **Verdantia or empathy-based Essence** disrupts the dream-chain outright. **Memory distortion**: a target whose own recollection is already unreliable gives the Court no fixed dream-self to raise.
 > **What nobody knows.** What happens the day his own Phantasm Court raises a dream-self that loves him instead of fearing him.
 
@@ -113,8 +134,11 @@ Independent. Formerly Guild Accord Enforcement, before he went hunting the fract
 ### IX · Relationships
 
 **The Guild Accord** · **Former Enforcement.** Left rather than take only the cases they assigned him.
+
 **Cult of the Slumberhall** · **Ended.** One survivor, everyone else trapped in nightmares of the Court's own making.
+
 **Seven judges, the Broken Tribunal** · **Forced to kill their own dream-selves.** He did not lift a hand.
+
 **Anyone without guilt** · **The one target he has no working against.**
 
 ---
@@ -133,25 +157,33 @@ Independent. Formerly Guild Accord Enforcement, before he went hunting the fract
 #### Origin
 
 Aeldoris Vanthryx was born in Veyran, the horse-and-grain kingdom of the Southern Grass Sea, which held its ground by treaty guarantee because the Draconic Empire valued what it grew. His father's house kept grazing land on the Horse Rivers under the Veyran crown. The fields ran on black soil under thin Aether. Wyverns of the dragon houses crossed the sky above the granaries.
+
 He was a boy when a sleep took him that nobody in the house could break. He had gone deep into Oneirion, and he came back with his blood changed. His hair was white when he woke. A crimson ring had closed around each eye.
+
 After that, people who stood near him remembered what they had put out of mind. A groom who had sold one of the mares and reported her dead of colic spoke the sale aloud in the yard, in front of the other men. The grooms found work at the far end of the stables whenever the boy came down.
 
 #### The Making
 
 He went north as a young man and entered the Guild Accord's Enforcement, which kept a permanent legation at Altherion on the rim of the Ring. The legation handed him the fractures the Accord assigned. He closed them. In the rooms where he questioned people the clerks nodded over their pages, and the men across the table told him things they had not come to say. The fractures he wanted were the other kind, the ones people hid inside and lied to themselves about. The legation went on assigning its own. He would not take only those, and he left.
+
 From then on he chose his cases, and he chose one kind: self-deception, or a corrupted conscience.
+
 Seven judges sat on the court now called the Broken Tribunal. Each of them knew something of their own and had not admitted it, and that was all his Court needed. He raised each judge's dream-self behind them, on their own bench. Each judge turned on it and killed it. He did not lift a hand.
+
 He went into the Slumberhall, among the cult that kept it, and convened his Court there. One of them came out. The rest stayed under, held in nightmares of the Court's own making. Among those sleepers the Quiet Hour first opened around him. It was the first seed of a Domain, a fragile one, and he never pushed it past the radius of a dream-territory.
 
 #### The Cost
 
 Every dream he ran left some of its dreamer in him. The fears he raised in other people stayed with him afterward, until what drew him toward anyone was made of those fears. Dreams that had never been his bent his sense of who he was. He wore the Greenstone Pendant against it. It drew the dream-echoes off him and kept his mind in one piece, and he kept no other guard against his own bleed. Small memories of his own went into the work. Nobody kept a list of them. He was lean and went unarmoured, and the waking man paid for every dream.
+
 "You confessed the moment you dreamed," he told the ones he took. A guiltless mind gave his Court nothing to convene about, and against anyone without guilt he had no working at all.
+
 At Halcrest, the gate city of Nalūn, an envoy found him among the travellers waiting on the customs house. The envoy came from the house of an Archon-Touched elder whom Kaelan Vorn had executed at Ordas, and he asked Aeldoris to convene the Phantasm Court on the executioner. Aeldoris asked what Kaelan had hidden. The strike had been made in the open, the envoy said, and Kaelan had never denied it. Aeldoris declined the case. By then the men on the nearest benches were nodding. A customs clerk slept at his desk. The envoy took the south road that evening.
 
 #### Where They Stand
 
 Arbitration took up the matter of the seven judges, and the Judgment Order sent Seraphion Veydrak to hear it at Altherion, in the legation's own city. Aeldoris came when he was called. Seraphion raised the Chain-Halo behind him before asking anything, and at the table the scribe's pen stopped in the middle of a line. Asked whether he had struck any of the seven, Aeldoris said he had not lifted a hand. The halo held. Asked what had broken the seven, he said they had killed their own dream-selves. He said nothing of himself past the questions. No sentence was entered, and he walked out into the city before evening. His answer stands on the Judgment Order's record.
+
 He is in the northern states now, hunting a parasite that slipped through the dream-realm, and nothing is written of him past that hunt. He takes only cases of self-deception or corrupted conscience. The pendant stays at his throat. The Quiet Hour opens no wider than a dream-territory. Every dream-self his Court has raised has feared him, and none has yet loved him.
 
 #### Ties

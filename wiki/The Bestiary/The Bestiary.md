@@ -56,7 +56,9 @@ verification: "unverified"
 >
 > **The Lich is the exception, and the Lich is the exception because it used to be a person.**
 **The weaknesses cluster.** Read across the register and the same three vulnerabilities recur: **Essence-dampening**, **removal from the native Wellspring**, and **radiant or holy current.** Which means the practical counter to the majority of the register is not a weapon at all. **It is a Sealwright, a long march, or a priest.**
+
 **Corruption is a lineage rather than a condition.** The Bicorn, the Voidwyrm, the Wendigo and the Blackened share a grammar: **something that was one thing has been converted by Abyssal, Void or Crevice contact into something that cannot go back.** *The register treats this as taxonomy. The Heresiology would treat the same material as a diagnosis.*
+
 **And the register is honest about the thing bestiaries usually lie about.** Griffons abandon a fight to protect a nest. Unicorns evade rather than engage. **The Bai Ze is physically fragile and avoids conflict entirely.** *Four of the register's most feared entries would rather leave.*
 
 ---

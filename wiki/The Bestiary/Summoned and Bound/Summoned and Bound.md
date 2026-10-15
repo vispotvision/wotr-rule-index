@@ -20,8 +20,11 @@ verification: "unverified"
 ## How These Entries Differ
 
 **Two fields carry weight here that carry none anywhere else in the Bestiary.**
+
 **Crystal Provenance** decides whether the thing has a soul of its own or is wearing a piece of somebody else's. A Donated construct has no Crystal to record. A Native entity has one and had it long before anyone learned its name. **Everything the entry can honestly say about resilience, refusal and death follows from that single line.**
+
 **Bond Class** decides how much of an order the thing can decline. The Bestiary's other sections never need this, because a wyvern is not under instruction. **Half the entries in this section can refuse, and the register should say so in the same breath it says what they can do.**
+
 The standard eleven questions still apply. Origin before appearance, Essence Affinity before abilities, weaknesses in the same breath as powers. **A summon entry adds Provenance, Bond, the Draft that calls it, and the cost the caller carries afterward**, and the cost is the field most likely to be left thin.
 
 ---

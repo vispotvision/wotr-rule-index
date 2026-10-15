@@ -11,6 +11,7 @@ verification: "unverified"
 # The Kingdom of Kharven — The Ashen Crown
 
 **Say it** · KAR-ven
+
 *The Ashen Crown · The First Kingdom of the North · The Moto Seat*
 > ⚠️ **Amendment status.** This entry is **post-amendment**: Ayame Yuno, Kōkan Line, Tenrai Line, western-shield origin all corrected. **One residue remains** — Section IX of the source still describes the Moto tradition as *Japanese in its naming and spiritual architecture*. **That is dead register.** Rendered below as Mongolian-Inuit per the Moto Cultural Amendment; the source file needs the line struck.
 
@@ -19,10 +20,12 @@ verification: "unverified"
 ## Overview
 
 The northernmost sovereign territory in the Inner World. A feudal monarchy **built on frozen ground by a foreign conqueror who understood that the cold was the only honest judge of whether a man deserved to hold land.**
+
 Kharven is defined by two inheritances in permanent tension: **the divine authority of the Moto bloodline**, whose Hataraki-bearing eyes make them the most spiritually dangerous ruling house in the Inner World, and **the practical, unsentimental toughness of the northern clans** who were there before the Moto arrived and who accepted Moto rule because the alternative was the fragmented clan warfare that had been killing them for generations.
 > **The climate is the kingdom's primary institution.** It kills the weak, preserves the strong, punishes pretension, and rewards only the virtues that survival in sustained cold requires: endurance, preparation, cooperation under duress, **and the willingness to do ugly necessary work without complaint.**
 >
 > **The cold is not the setting. The cold is the constitution.**
+>
 > This arrangement makes Kharven **the most internally coherent kingdom in the Inner World when the Crown is competent, and the most rapidly fragmentary when it is not.** The kingdom did not survive Muken's assassination. It will not survive Sodoku's return unless Sodoku proves that the competence is inherited alongside the blood — **and the Banner Houses are watching with the patient, unsentimental assessment of people whose primary relationship is with the climate, not the throne.**
 
 ---
@@ -50,6 +53,7 @@ Bounded east by Ketsuen's ward-perimeter, west by the ridgeline separating the n
 Malakar's splitting made the ancestral seat untenable and **the seven lines scattered toward temperate ground** — arable, defensible country compatible with the settled governance a divine bloodline expected to practise. **Muken went the other way.** North and east into the boreal forest, with the warriors who followed him because they trusted his judgment more than they trusted the obvious conclusion.
 > He did not arrive as a claimant with a household behind him. **He arrived with a sister, a reputation earned in other people's wars, and no standing at all in a country that had never heard of the place he came from.**
 **The reasoning was strategic before it was spiritual.** The north was empty because the north was hard, and hard because the cold killed anything not prepared, not disciplined, not willing to do the work of survival every day without the luxury of a season where the land did the work for you. *These were the qualities Muken wanted in the people who served him.* **He did not need to test his subjects. The climate tested them. He only needed to govern the ones who passed.**
+
 What he found was not emptiness. **It was fragmentation.** Concord-stock clans locked in the cyclical warfare that afflicts every population too tough to be conquered by its environment and too fragmented to stop fighting itself — *because the man in the next valley had something and the man in this valley wanted it, and winter was coming, and want became need became violence with the specific inevitability of water running downhill.*
 > Muken ended it **the same way he ended everything: by being better at violence than the people he was replacing**, and by making the violence so decisive that continuing to resist cost more than submitting — **and submitting cost less than anyone expected, because the man on the other side of it was not interested in humiliation. He was interested in governance.**
 
@@ -58,7 +62,9 @@ What he found was not emptiness. **It was fragmentation.** Concord-stock clans l
 ## The First King · Muken Moto
 
 *The Ashen Blade · He Who Writes Ruin Into Law*
+
 **Stage X Realization. Kōkan Line. Hataraki-bearing.** The most dangerous practitioner-king the Inner World has produced.
+
 He was born in Nalūn, not Kharven, and not into the house whose crown he would come to wear. **His mother was Kōkan** — the line the family had already spent holding the Stay and then spent again disowning — **taken by a lesser noble house of the city, and he was what that taking produced.** His sister Saruul shared the mother and none of what the house would call the blood. What he had instead of a bloodline was Nalūn itself: a kingdom whose entire civic instrument is the accounting of debt, worn on the body as a seal-token that goes inert the moment a contract breaks. **He learned that grammar before anyone told him he was descended from the people who had written it.** He was raised on what he could earn with his hands, taken into mercenary work young because young was when the work was offered, **and it was in that work that Revari Zettari's True Everlasting Eyes looked at a sellsword nobody had reason to look at twice and read him back to his source.** No record in Nalūn or in his own file names him Moto by descent. **He was never acknowledged. He was only, eventually, unignorable.**
 > He was also a husband, a father, **a man who put his hand on his son's head at a dinner table and said nothing and the nothing was enough.** The two facts are not in tension. *They are the same fact viewed from different distances.*
 **He conquered the north in fourteen months.** The campaign is studied at every military academy in the Inner World and misunderstood at most of them, **because the academics focus on the battles and the battles were not the point. The point was the doctrine.**
@@ -81,6 +87,7 @@ He was born in Nalūn, not Kharven, and not into the house whose crown he would 
 ## Governance
 
 A feudal monarchy, **simple by design** — because complexity in governance is a luxury cold climates cannot afford, and because the northern clans would not have accepted a system they could not understand.
+
 The Crown's authority rests on two sources that reinforce each other. **Competence**: the King holds the throne because the King can do the job. **Blood**: the Shingan, the Hataraki inheritance, the Kōkan Line's native relationship with the Plane of Fate produce a sovereign **whose authority is felt before it is argued.**
 > *A competent king without the bloodline would be respected but not feared. A bloodline heir without competence would be feared but not followed.* **Muken had both. The question that followed his death was whether the combination could be inherited or whether it has to be earned fresh by every holder.**
 
@@ -134,8 +141,10 @@ Personal, sworn by each house's lord to the reigning sovereign. Military service
 ## Economy
 
 **A cold-climate economy is an economy of scarcity managed through discipline.**
+
 **Exports:** ironwood timber, furs and hides, preserved game, military service. **Imports:** grain beyond the Greenhollow's yield, Stannvaard metalwork, and the inscription substrates ward-craft requires.
 > The balance is perpetually tight. *A kingdom with a four-month growing season and an eight-month heating season does not generate surplus. It generates sufficiency, maintained through household discipline, communal storage, and the absolute unwillingness to waste anything.*
+>
 > **The Stannvaard corridor is the kingdom's most critical external dependency.** When it functions, the economy functions. When Stannvaard restricts it, the kingdom feels it within weeks — **because a northern economy has no reserves deep enough to absorb a sustained interruption, and because the Dawi understand this and calibrate their restrictions accordingly.**
 
 ---
@@ -155,6 +164,7 @@ Two traditions that have learned to coexist without fully merging. **The Moto tr
 ### The Fusi Vā
 
 Ayame Yuno's ritual architecture, **carried north out of Yasoshima by a daughter of the Kagura Branch** — trained from childhood in the grand seasonal rites and the deepest reaches of Tofā Mamao.
+
 The northern clans had their own oath traditions before the Moto came: simple, unadorned, a man's word given before witnesses with no ritual embellishment. **The Fusi Vā elevated these into binding structures that carried spiritual weight and could not be broken without consequence.**
 > **Her death removed the architecture and left the ceremony**, and the kingdom has been performing the ceremony ever since without any of the load-bearing underneath it.
 >
@@ -165,6 +175,7 @@ The northern clans had their own oath traditions before the Moto came: simple, u
 ## Defence
 
 **The primary defence is the territory itself.** An army marching from the south must cross three hundred miles of forest and highland in conditions that degrade equipment, consume supplies **and kill soldiers through exposure before the fighting begins.** From the west, the Greymane ridgeline. From the east, Ketsuen's ward-perimeter as passive buffer. **From the north there is nothing to approach from.**
+
 At full mobilisation: **roughly twelve thousand** — three thousand Guard, nine thousand levy. *Not large by Inner World standards. It does not need to be.*
 > **Twelve thousand trained to campaign through a northern winter on cached supplies and hunted game, led by officers whose Shingan reads the battlefield in real time, operating on interior lines across terrain they know and the enemy does not, is a force the Inner World's larger armies have learned to leave alone.**
 
@@ -186,19 +197,23 @@ At full mobilisation: **roughly twelve thousand** — three thousand Guard, nine
 
 > **The kingdom did not fall because Muken was assassinated.** It fell because the assassination was the final step in a process that had been running for years.
 **The Tenrai's grievance was structural.** Unification required the subordination of lines that had governed themselves for millennia. They accepted subordination to Muken **because Muken's personal authority was undeniable.** They did not accept subordination to the institution he built, **because the institution would outlive him and placed the Kōkan Line permanently above the Tenrai — and permanently was the word the Tenrai could not swallow.**
+
 **Azure Tenrai Moto did not plan a coup. He planned a correction.** The distinction mattered to him, because his self-image required that the things he did were architecturally necessary rather than personally motivated. **His argument: a branch immune to correction becomes tyrannical, and removing it before the tyranny arrives is preventive governance rather than treason.**
 > The argument was sophisticated. **It was also sincere, in the specific way that arguments made by intelligent people who want something are sincere:** Azure believed it because believing it was necessary for doing what he wanted.
 
 ### Cozbi
 
 **The Ledger-Keeper did not instruct the Tenrai to kill Muken. He did not need to.**
+
 He had spent decades cultivating conditions where the Tenrai's influence was strongest — feeding grievances already present, amplifying dissatisfactions already real, **ensuring the political temperature in their sphere was always one degree warmer than it would have been naturally.**
 > By the time Azure laid out the architectural case in the Convergence Spire, **the emotional infrastructure that made the case persuasive had been under construction for longer than Azure had been alive.**
+>
 > ***He did not build the fire. He arranged the kindling decades before the Tenrai struck the match.***
 
 ### The night
 
 Not open combat — **Muken would have survived open combat against any combination of practitioners the Tenrai could field.** Convergence-friendly channels: a carefully engineered sequence designed to produce his death **as an apparent consequence of circumstances rather than the result of a plot, so that the survivors would argue about causes rather than conspirators.**
+
 It took Muken, Tomuka and Ezo in a single night. The corridor was the instrument, prepared for months — every patrol reassignment, every witness post delay, every false escort authority documented and filed in the bureaucratic architecture built specifically to make the documentation impossible to find.
 > Sodoku and Sonzai answered the killing. What happened at the Tenrai settlement afterward was not justice and was not revenge and was not any of the clean categories historians would later attempt to apply.
 >

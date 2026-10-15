@@ -17,28 +17,39 @@ verification: "unverified"
 ### What it is
 
 A Guild Accord divine tool. A wedge-bladed polearm, forged as a standing instrument of law rather than a personal weapon. The shaft is dark red-brown, carved along its full length with law-sigils. Three iron rings girdle it, each hung with black oath-chain. Each ring was added after a successful extradition, so the weapon's own body is a running record of verdicts served. The head is a pronged wedge blade. The butt is hooked like a bailiff's crook, built for dragging a body or a chain rather than cutting. Invoked, the carved grooves glow ember-gold and the hanging chains stiffen, audibly, the way a chain stiffens under sudden load.
+
 It was forged in the Neutral Chambers, under the Guild Accord's **Arbitration Division**, worked from oath-iron and verdict ash. It was tempered inside a sealed rite that runs the glyph sequence Ur, then Ma, then Uur: Balance set, memory recorded, only then the disruption that closes the working. **Sealwright** teams attached to the Chambers did the tempering. Planted upright, it functions as a **Domain Anchor**, the same standing use the term carries elsewhere in current canon: a fixed point the Continuum registers as terrain rather than as an ordinary object.
+
 Street register calls it what the sigils promise. When Banisher points, the door appears.
 
 ### Physical account
 
 **Mass** ≈ 4.0 kg. Heavier than a plain war-glaive of comparable length, the excess carried in the three iron rings and their chain (plausible period-polearm figure; not given by the card).
+
 **Length** ≈ 2.2 m overall, wedge head roughly 40 cm of that.
+
 **Point of balance** ≈ 38 cm forward of the leading grip. Head-heavy for a controlled thrust and a chain-cast, not for a duelist's quick recovery.
+
 **Armour response.** As a physical weapon it behaves like any percussion-and-pierce polearm against plate: it does not seek to go through a breastplate, it goes through the joint, the voider, the base the plate transmits force into (R1-1). Against common mail and unproofed steel it defeats cleanly. Against a Guild-proofed cuirass, stamped for a specific charge and range, the physical thrust alone is a cost problem for the wearer rather than a clean kill, exactly as any plate answers a percussion fighter (R3-7). None of that touches the Exile Mark itself. The mark sets on the target's lattice, not the target's skin, so a proofed cuirass that stops the head of the spear does nothing to stop the third-heartbeat collapse if the point ever broke skin, cloth, or drew blood through a gap.
 
 ### Operation line
 
 **Exile Mark.** It scores a boundary condition onto the struck target's lattice at the point of contact. On the third heartbeat that condition collapses the local topology along a bound vector, which under Transference's living-exchange law ejects the target's position for a locus already fixed by the wielder: outside the active Domain, or through a standing Concord Gate. It does this to *position*, under Spatium's law, and produces displacement rather than damage.
+
 **Jurisdiction Chains.** The three rings pay out black oath-chain that binds limbs on contact. On the wielder's word the chains draw taut, imposing a boundary on any Teleport or Phase working already running in the bound target: a severed vector, not a physical hold, laid on top of the physical one. It does this to *motion*, under the same Spatium/Judicium pairing, and produces arrest of movement, physical and metaphysical both.
+
 **Gate-Nail.** Driven into a threshold, the prong pins the local lattice in place, which under the Domain Anchor mechanism seals whatever boundary was open there, a rift, an unlicensed Domain, for one full day and night. It does this to *the local boundary itself*, and produces closure, not destruction. What was open stops being open.
+
 **Articles of Exclusion.** Planted and spoken over, the weapon extends its own anchoring outward into a circle of authority. Anyone already inside when the circle closes suffers a boundary on projection; nothing crosses the line outbound. Anyone already ejected cannot re-enter while the circle holds. It does this to *the space around the anchor*, under Judicium's order-and-consequence law, and produces a one-way membrane.
+
 **Contempt Shock.** If a marked exile attempts return before the term the Mark set, the still-open boundary condition discharges back along its own line. A remote overpressure staggers the returning party at the boundary rather than letting them cross it. It does this to *the same lattice mark left by Exile Mark*, and produces a standing tripwire rather than a fresh working.
 
 ### Codex line
 
 **Primary Wellspring** Judicium: order, measure, consequence. Family **Fulguria**, Physics Domain **Electromagnetism**. **Secondary Wellspring** Transference, The Living Exchange. Family **Spatium**, Physics Domain **Spatial Geometry**, carrying the Exile Mark's displacement specifically.
+
 **Category** Claustra (primary: the confinement and exclusion functions, Jurisdiction Chains, Gate-Nail, Articles of Exclusion). Transitus (secondary: the Exile Mark's translocation).
+
 **Glyphs** `[Ur]` Balance, Root · Urion. Prime, and Judicium's own attested primary glyph. `[Ma]` Recall (Memory), Derivative · Maelor. Records the names and jurisdictions the Mark carries. `[Uur]` Disruption, Root · Uurgath. Closes every working the spear performs, the same glyph that ends a boundary rather than a law. `[Wy]` Motion, Root · Wyther. Trace only, carried on the chain-cast and reel.
 
 ### Bond and cost

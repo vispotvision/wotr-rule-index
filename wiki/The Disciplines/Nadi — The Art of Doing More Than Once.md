@@ -36,7 +36,9 @@ verification: "unverified"
 ## Core Principle
 
 One physical analogy: **the harmonic series.**
+
 A vibrating string produces its fundamental — one oscillation per unit time — and also harmonics: 2 oscillations, 3, 5, 10, 100. Each harmonic occupies the same spatial footprint. Each carries less amplitude. **The energy is conserved: what was one loud vibration becomes many quiet ones.**
+
 Nadi treats the combat body as the string. A baseline strike is the fundamental. A x10 combo is the tenth harmonic. A x100 combo is the hundredth: a hundred actions at roughly one hundredth the force, packed so densely the gaps approach the limit of what connective tissue can sustain.
 > **The total force output does not change. This is the constraint the discipline cannot escape.** A practitioner who can deliver 10,000 Newtons in one punch can deliver 10,000 Newtons across 100 punches. Each lands at 100.
 >
@@ -69,11 +71,13 @@ Nadi treats the combat body as the string. A baseline strike is the fundamental.
 ## 500x Nadi
 
 **Gohyaku Nadi — The Standing Storm**
+
 *Temperance Gate: Stage IX (Invocation) minimum. Stable expression at Stage X (Realization) or above.*
 > **500x Nadi is not a higher tier of the same discipline. It is the moment the discipline changes what it is.**
 >
 > At x100 the practitioner executes discrete actions faster than visual tracking. At x500 they execute discrete actions **faster than the concept of discreteness.**
 Five hundred biomechanical events per second are not experienced by the target as five hundred strikes. They are experienced as **a continuous pressure field.** The fist is not hitting five hundred times — the fist is vibrating at 500 Hz, and the vibration produces a sustained compression wave applying force to everything within reach as a persistent omnidirectional field rather than a series of point impacts.
+
 Per-action force sits at roughly **0.2% of baseline.** Individually meaningless. Collectively equal to the practitioner's full baseline, applied continuously, from every reachable angle, at once.
 > The defender does not experience five hundred weak hits. They experience an unbroken wall of force with **no gaps, no timing windows, no defensive openings, because there is no interval between impacts long enough for the word interval to apply.**
 The practitioner appears to be standing perfectly still. The frequency has exceeded every perceptual register — visual, auditory, Aetheric. What the opponent perceives is a stationary person surrounded by a hemisphere of sustained compressive force, **and inside that hemisphere no defence predicated on timing, blocking or evasion is functional.**
@@ -87,7 +91,9 @@ The body is executing 500 complete biomechanical cycles per second. **That frequ
 >
 > Three seconds is 1,500 discrete biomechanical events. **The physical cost is a body that has performed a month of high-intensity combat training in three seconds, and the body does not recover from a month in three seconds.**
 **EU Cost** · 50,000–120,000 per second. *This is not a technique that is maintained. It is a technique that is survived.*
+
 **Duration** · 2–5 seconds before structural failure begins. **10 seconds is the documented upper limit without permanent biomechanical damage.** Beyond that the practitioner is destroying themselves.
+
 **Recovery** · Days to weeks. Verdantia or Terranova-assisted healing reduces it and does not eliminate it, because the damage is distributed across every tissue rather than concentrated at one site.
 
 ---
@@ -95,8 +101,11 @@ The body is executing 500 complete biomechanical cycles per second. **That frequ
 ## Combat Applications
 
 **Combo saturation** · Overwhelm Reflex and Deflection with more threat vectors per second than they can process. At x50 and above, **defence becomes statistical**: the defender blocks what they can and absorbs what they cannot.
+
 **Hyper-feinting** · The feints are mechanically identical to real strikes for the first 80% of their arc, **and the 20% that differentiates them occurs in the final 2 milliseconds.**
+
 **Hyper-dodging** · Fifty micro-dodges, stance-shifts, head-slips and weight transfers per second make the practitioner's position probabilistic rather than fixed. **They are in fifty places per second, and the attacker must target a distribution rather than a coordinate.**
+
 **Standing pressure** · At 500x, the vicinity becomes a sustained pressure zone. **The practitioner does not need to chase. They stand, and everything within reach breaks.**
 
 ---
@@ -104,9 +113,13 @@ The body is executing 500 complete biomechanical cycles per second. **That frequ
 ## Counters
 
 **Range** · Nadi operates within arm's reach. Projectile users, long-weapon specialists and movement-dominant fighters who refuse to close face a stationary opponent executing a hundred actions per second **that cannot reach them.**
+
 **Environmental disruption** · A Nadi practitioner fighting inside someone else's Domain is fighting with degraded precision.
+
 **Armour** · Plate, hardened Recarvu tissue, Materia-reinforced shielding. **Anything that can absorb 1% hits indefinitely negates the discipline entirely.** *Devastating against unarmoured opponents and nearly useless against armoured ones.*
+
 **Single decisive force** · The inverse philosophy. If one strike ends the fight, the hundred micro-dodges were irrelevant. **Iron Bison practitioners, who compound force into a single catastrophic release, are the direct counter-doctrine.**
+
 **Patience** · 500x destroys the user. Survive 5–10 seconds and win by default, **because the body will fail before the will does.**
 
 ---
@@ -114,6 +127,7 @@ The body is executing 500 complete biomechanical cycles per second. **That frequ
 ## Philosophical Core
 
 Nadi asks what no other combat discipline asks: **what happens when you do everything at once?**
+
 The answer it discovers is that everything at once is the same as nothing, if each individual thing is small enough. A hundred punches at 1% force is arithmetically identical to one punch at full force. **The total energy is the same. The distribution is different. And the distribution is the entire discipline.**
 > Muscle was designed for contraction below 50 Hz. Nadi drives it at 500. Tendons were designed for load cycles counted in millions over years. Nadi delivers millions in minutes. Bone was designed to bear load along its axis. Nadi loads it in every direction at once, at frequencies that make the bone sing with its own resonance, **and resonance in a structural member is the last thing the member does.**
 >

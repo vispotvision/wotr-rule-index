@@ -12,6 +12,7 @@ verification: "unverified"
 
 *The Moto at Alabaster · The Refusal · The Stay · The Recension*
 > An ancient history of the house, from Bara to the birth of Muken.
+>
 > **Amendment status — complete.** This page uses the R20C-1 names throughout: **Kōkan** and **Tenrai** (the Moto Cultural Amendment's Altan/Khökh forms are superseded). The original source file in `sources/` has not been updated but is read-only; this wiki entry is the governing text. Updated 2026-09-15.
 
 ---
@@ -19,16 +20,20 @@ verification: "unverified"
 ## I · The Seat Before the Water
 
 When the continents were one body, the western reach of that body ended in a shelf of white stone, **and the Moto held it.** Not as one kingdom among several. **As the place other kingdoms sent their questions to.**
+
 Bara authored the Works before chronology, and Sarnai gave that authorship a family capable of passing it down, and what the family did with it for the whole of the First Eon was **read.** That is the era's name in every surviving register: **the Long Reading.** Not a conquest and not an empire in the ordinary sense. *A civilisation whose entire product was the accurate determination of what a thing was, what it owed, and what it would become.*
 > A contract sealed at the white shelf held anywhere, **because the sealing was witnessed by the ground itself.** A birth read there produced a determination no other authority would contradict. A war stopped there **because both parties had already been told, correctly, how it ended.**
 >
 > Trade routes did not run to Alabaster because it had goods. **They ran there because the alternative was doing business without knowing what your counterparty was.**
+>
 > The house held no standing army worth the name and did not need one. There is no recorded instance of the Long Reading conquering a neighbour. **There was never a reason. A polity that requires the Moto's determination to function has already been annexed and simply has not been told.**
 
 ### Read and Assign
 
 *This is the part the modern house does not teach and the modern Church cannot file.*
+
 The Long Reading did not administer territory. **It administered people, individually, at scale, from birth.** A child was read at delivery. The reading established the convergence the child carried, the lineage debts standing against it, and the lawful function it was fitted to perform. **The determination was then placed into the body.**
+
 **The instrument · Covenant Scar.** A dormant law-mark set into living flesh, holding inheritance triggers, military vows, marital obligation and punitive backlash. **It remains in the house's shared arts to this day and is taught without comment.**
 > At Alabaster it was applied to populations. **A scarred obligation is not a chain and does not present as one. It does not restrain the body. It restrains the standing.**
 >
@@ -37,6 +42,7 @@ The Long Reading did not administer territory. **It administered people, individ
 > The house would have been offended to hear this called slavery, and the offence would have been sincere. **Slavery is arbitrary. This was correct.** Every determination was accurate, every assessment honest, **and the accuracy is precisely what made it impossible to argue with.**
 >
 > *A man told he is unfree by a tyrant has a grievance. A man told he is unfree by an instrument that has never once been wrong has a diagnosis.*
+>
 > *Knowledge corrupts into devouring certainty. It is in the family's own training register, listed beside the other six, and it was written by people who had watched it happen and declined to name the century.*
 
 ---
@@ -44,6 +50,7 @@ The Long Reading did not administer territory. **It administered people, individ
 ## II · The Reading of the Split
 
 Malakar broke the continents. Every history in the four quarters records it as a catastrophe that **arrived.** The Moto record is the only one that records it as a catastrophe that **approached**, because the Moto were the only people in the world equipped to watch it coming.
+
 Tengan governs probability pressure, convergence, causality bias and near-future vectors. The Tenrai and the Amagiri both carry it. **Two lines with the same eye read the same approaching event and produced a joint determination**: the split was coming, and the ground beneath the white shelf would not survive it in its current arrangement.
 > What the determination did not say, **because the eye does not give it, was how long.** Convergence reading gives pressure and vector. **It does not give the hour.**
 >
@@ -69,6 +76,7 @@ Tengan governs probability pressure, convergence, causality bias and near-future
 
 The six lines went north with what they could carry — their registers, their retainers, and the population they could move. **The Kōkan stayed with everyone who would not leave, and performed the working, and named it nothing.**
 > **The Stay is the name the six gave it, and it was meant as an argument.** A stay is temporary by definition. *A stay is what a court grants when it has not yet decided to spare you.*
+>
 > **It worked.**
 >
 > Not completely and not permanently. **The ground held.** The split came against a frame built to contain it and the frame took the load and did not immediately fail, **and the white shelf remained in its correct shape while the rest of the body of the world came apart around it.**
@@ -79,6 +87,7 @@ Then the frame failed, on a schedule nobody had been able to read, **with the K�
 ### Why nobody came back
 
 **Because the record already said there was nothing to come back to, and the record was written by the survivors.**
+
 The account that hardened into canon within two generations: the Kōkan refused the reading, held doomed ground out of the arrogance their Work is known to produce, and destroyed themselves and everyone who trusted them. **Every element of that account is defensible.** They did refuse the reading. The ground was doomed. They did destroy themselves.
 > **The account omits only the window** — which is the one part that would have obligated somebody to sail.
 >
@@ -91,15 +100,18 @@ The account that hardened into canon within two generations: the Kōkan refused 
 ### The Testimony Wellspring
 
 The Stay was an oath-and-witness rite conducted at continental scale into limestone. Every soul who remained swore onto the ground, and the ground took it, **and the working broke without the swearing stopping.**
+
 **It has not stopped since.**
 > The Wellspring the **Holy Sea of Alabaster** measures its entire theology against — the instrument by which a name enters the archive and a person becomes counted — **is the residue of a Moto working that failed.**
 >
 > **The Church did not discover a Wellspring. The Church built a doctrine on a scar**, and has been reading the scar accurately for four centuries without once being in a position to ask what made it.
+>
 > *The Thaloré reading holds that testimony weight is density times depth, independent of the vessel. This is why the kingdom's anti-discrimination doctrine is a property of the Wellspring rather than an ethical position it could revoke. It is also why the Wellspring does not distinguish between the testimony of a cleric and the testimony of a man being sold, and files both.*
 
 ### The Veil-Saints
 
 When the frame failed there were tens of thousands dying mid-oath on ground that was still holding, **and the passage of those souls did not go correctly.** It did not go correctly for a long time afterward either, because **a Veil threshold that has had a continental working collapse across it does not reseal cleanly.**
+
 Passage work became the coast's necessary industry generations before it became its holiest office. The Veil-Saints perform Sacraments over the dying to harmonise soul transition **so the dead cross without fragmentation, distortion or predation** — which is Süld Hataraki, the Work of Spirit, in every particular.
 > The office exists because the coast needed it. It needed it because of what the Kōkan did there. **The Work the six lines said was the lawful one is the Work the ground has been demanding ever since.**
 
@@ -113,7 +125,9 @@ The seat stands in the hinterland above the coast, inland and up, where the shel
 ## VI · The Long Diminishment
 
 **The Kōkan did not die out. They were broken, which takes longer.**
+
 What remained on the coast after the Stay was a surviving population with no fleet, no external authority, a ruined seat above them and a Wellspring beneath them that would not stop running. They held the hinterland. **They intermarried outward because there was nobody else.** The Kamigan appeared less often in each generation, then rarely, **then as an event.**
+
 Whoever came after built on top of them, as people do. The port grew. The Sounding Walk was laid. Four centuries of feet wore the polish off the flags. Sancta Lux eventually seated a chapter hold on the coast, the archive began, **and the archive became the most complete register of births, deaths and contracts in the Inner World.**
 > **The Kōkan remnant were not in it.** Their gafa was held as family property, in a First Epoch phonology no clerk in the kingdom could read, **recorded in a glyph the Continuum has never been able to classify.**
 >
@@ -125,14 +139,17 @@ Whoever came after built on top of them, as people do. The port grew. The Soundi
 
 *How the uncounted became available.*
 > **Nobody in the Holy Sea decided to enslave the Kōkan.** This is the part that has to be understood exactly or the kingdom becomes a cartoon.
+>
 > **Somebody decided the register was inaccurate.**
 A recension is a critical revision of a text. The Church conducted one, **sincerely, for good reasons**, to correct accumulated drift in the archive and bring the register into conformity with what the Wellspring would actually witness. **The reform was competent.** The clerics published their methodology and their error rates. **It improved the instrument measurably and everyone involved was proud of it.**
+
 What it produced downstream was **a hard line between the documented and the undocumented, where before there had been a soft one.** The Manumission Doctrine extends legal protection through theology to populations the surrounding world considers disposable — **and it extends that protection to the counted, because a doctrine administered through an archive can only reach what the archive holds.**
 > The hinterland families could not produce a name the register would accept. **They had one. It was four hundred thousand years old.** It was written in a mark the instrument could not classify.
 >
 > **An unclassifiable mark returns no reading. A person who returns no reading has not been witnessed. A person who has not been witnessed has not been counted.**
 >
 > Nalūn's factor houses needed cutting-class labour. Bonded contracts require a party with standing to be a party, **and require nothing at all of a party without it.** *The paperwork was clean. Every instrument involved functioned exactly as designed.*
+>
 > *The house that read people at birth and scarred their lawful function into them had its last line read out of a register and assigned one. Nobody arranged the symmetry. Nobody was in a position to notice it. Both instruments were honest, and being honest is what made them work.*
 
 ---
@@ -140,7 +157,9 @@ What it produced downstream was **a hard line between the documented and the und
 ## VIII · Muken
 
 Two generations on at most, the Kōkan were a hinterland population with a family memory nobody outside could verify **and no standing anywhere.**
+
 **Muken's mother was taken by a lesser noble family of Nalūn. He was the result.** His sister **Saruul** shares the mother and did not inherit the blood in any form the house would recognise: mortal, unbloodlined, Moto by blood only **and even that she stopped answering to.**
+
 They were fed by what he could earn with his hands. Mercenary work, taken young, taken because it was there. **He carried an inheritance nobody had told him about, in a body that had been produced by a crime, in a kingdom whose entire cultural apparatus is the accounting of obligation** — and he learned the grammar of debt before he learned he was descended from the people who invented it.
 
 | Source | What it gave him |
@@ -153,12 +172,14 @@ They were fed by what he could earn with his hands. Mercenary work, taken young,
 ### Why north
 
 **Not to escape them. To build a seat large enough to summon them onto.**
+
 He unified the seven lines under one crown. The unification required the subordination of lines that had governed themselves for millennia. **It placed the Kōkan permanently above all of them, by law, in an institution designed to outlive him.**
 > The house sold his mother's people. He came back with a kingdom, put the house under a single judgment, and made his line senior — **and he did it without a purge, which is the part nobody has ever forgiven.**
 >
 > **A massacre could have been mourned and moved past. He out-lawed them, in the literal sense, with an institution, permanently** — and permanently is the word the Tenrai could not swallow.
 Azure Tenrai's argument was that a branch immune to correction becomes tyrannical, and that removing it before the tyranny arrives is preventive governance rather than treason. **He was describing, without appearing to notice, the line his own house had discarded, which had returned, and which was now beyond his reach.**
 > They removed Muken through channels his instrument had no vector against. **His one recorded flaw is that his judgment requires clear fault to function.** He was made by a crime nobody was ever charged with, he built a law that works only on clean ones, **and he died to a dirty one.**
+>
 > *The loop closes on itself and nobody designed it.*
 
 ---
@@ -176,4 +197,5 @@ Azure Tenrai's argument was that a branch immune to correction becomes tyrannica
 | **The six lines' registers** | Whether any northern line preserved an honest account of the window, **and where it is, and who has read it** |
 
 > *All content originated in this document is proposed canon pending ratification.*
+>
 > Anchored to: The Moto Bloodline · The Archonic Codex · The Bearing and the Holding · Kingdom of Nalūn · the Vaeloris Sequence · Sancta Lux · Muken and Saruul character records.

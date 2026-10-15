@@ -12,37 +12,51 @@ verification: null
 
 **Say it** · ISS-kah-ron thal-NAR-iss
 
-### Bearer of the Fractured Crown · Creviceborne · Dissonance-Trapped · Age of Calamity
+## Bearer of the Fractured Crown · Creviceborne · Dissonance-Trapped · Age of Calamity
 
 > **ORIGINATED, RATIFIED.** Rebuilt from the legacy Trello sheet. **The Temperance Stage assignment was ratified as written (Isaac, 2026-09-12).** The stat allocation below is not invented — it is worked from the Fracture of Worlds point economy and checked against the Part Seven Path gates.
 
 ---
 
-### I. Identity
+## I. Identity
 
 **As Of:** After the second lattice on the steps
+
 **Full Name:** Iskaron Thalnaris
+
 **Alias / Epithet:** Bearer of the Fractured Crown
+
 **Race / Lineage:** Human — Creviceborne (exposure lineage, not blood lineage)
+
 **Sex:** Male
+
 **Realm / Faction:** Unaligned. Former Scion of the Outer Crevice.
+
 **Catalyst Event:** He walked into a Crevice-margin concentration and remained coherent long enough to choose how he met it. He came out. Something did not finish leaving with him.
 
 ---
 
-### II. Soul Architecture
+## II. Soul Architecture
 
 **Level:** 330 / 500 · **Level Band:** IV — Mythic · **Tier of Standing:** 7, Grandmaster
+
 **Temperance Stage:** **XI — Dissonance. Trapped, not passed through.**
+
 **Grade:** SS · fracture risk above 700 · **Stat ceiling:** 750, structurally unstable
+
 **Essence Typology:** Entropic / Ruinous
+
 **Aether Class:** VI — Voidic
+
 **η:** ~0.86 · *within the 0.85–0.90 Tier of Standing 7, Grandmaster range*
+
 **Crystal State:** Overgrown. Power exceeding architecture, discharging involuntarily.
+
 **Path alignment:** **Body Path dominant, Spirit Path secondary.** No Attraction commitment and no Fate commitment, **which caps three of his Dominion sub-stats hard — see Section IV-b.**
 > **The point economy, worked.** Band I at 12 a Level across 1–100 contributes 1,200. Band II at 15 a Level across 101–200 contributes 1,500. Band III at 18 a Level across 201–300 contributes 1,800. Band IV at 21 a Level across 301–330 contributes 630. Threshold bonuses for Stages I through XI contribute 6,600, Stage I counting (R39-3). Total: 11,730.
 >
 > **Total lifetime pool: 11,730.** Allocated: 11,460. Unspent: 270 — *and the unspent points are themselves in character, because he has never sat still long enough to place them.* *Re-costed to Part Three's current allotment (R38-2, 2026-09-13; the sheet's pool was 15,150).*
+>
 > **On the Stage assignment.** The Sixteen Stages holds that practitioners trapped in Dissonance rather than passing through it are **the most dangerous individuals in the four quarters by a wide margin, because they have SS-Grade output organised around an unresolved contradiction and no structural reason to stop.**
 >
 > That is Iskaron entirely. **The old sheet called him "nearing Archon." He is not ascending. He is stuck**, and the stuckness is the character.
@@ -51,7 +65,7 @@ verification: null
 
 ---
 
-### II-b. Primary Stats
+## II-b. Primary Stats
 
 | Stat | Value | Grade | Reading |
 |---|---|---|---|
@@ -66,20 +80,29 @@ verification: null
 
 ---
 
-### II-c. Sub-Stat Peaks
+## II-c. Sub-Stat Peaks
 
 **Ardency Overchannel 574** · open advancement, **and the Fracture of Worlds notes it carries inherent Overflow risk at every grade above D with no Path providing structural protection.** His highest stat is the one nothing shields him from.
+
 **Ardency Detonation 562** · open, with Backlash risk built into every grade above C.
+
 **Vitality Endurance 546** · Body II. Above the line.
+
 **Tempering Overflow 540** · open, inherent structural risk above B. **The mechanism of the Overgrown state.**
+
 **Ardency Density 527** · Body IV. **Vitality Scarring 514** · Body V. **Vitality Absorption 505** · Body III.
+
 **Resilience Hardening 496** · Body III. **Ardency Penetration 486** · Body III.
+
 **Vitality Tenacity 473** · Spirit III. *Psychological persistence sustaining the body — the rage, doing structural work.*
+
 **Resilience Fortification 462** · Body IV. **Vitality Threshold 452** · Body IV.
+
 **Harmonics Stability 403** · open, and low. He does not hold a baseline.
 > **The two lowest stats on the sheet are the answer to the whole character.**
 >
 > **Tempering Coherence · 345.** Fracture of Worlds: *"functions as the structural prerequisite for Temperance Threshold eligibility."*
+>
 > **Tempering Maturity · 322.** Fracture of Worlds: *"the primary sub-stat consulted by the Crystal when evaluating Threshold readiness."*
 >
 > **He is trapped in Dissonance because the two stats the Crystal reads to authorise a Threshold are the two he has never fed.** Not because he lacks power — his Ardency is SSS-entry. **He is quantitatively eligible and structurally unready, and no amount of what he is good at will move either number.**
@@ -88,10 +111,12 @@ verification: null
 
 ---
 
-### II-d. The Path Cap
+## II-d. The Path Cap
 
 > **Dominion Sovereignty · 310 · capped.** Requires Fate Path at Stage VI to exceed A-Grade. He has no Fate commitment.
+>
 > **Dominion Pressure · 310 · capped.** Requires Attraction Path at Stage VI. He has no Attraction commitment.
+>
 > **Dominion Radius** · likewise gated at Attraction V.
 >
 > **His Domain is A-Grade infrastructure carried by an SS-Grade man**, which is precisely why it does not close when he leaves and why it decays over days instead of dissolving. **He is not maintaining it. He is leaking it.**
@@ -100,11 +125,14 @@ verification: null
 
 ---
 
-### III. Wellspring Harmonizations
+## III. Wellspring Harmonizations
 
 **Primary · Nihiloth** — Limina. Absolute-dark. The colour taken from somewhere else, where the observer perceives the theft before the thief.
+
 **Secondary · Exuroth** — Caloria. Burning as consumption rather than as heat.
+
 **Secondary · Abython** — Vectoria. Near-black force. Weight without hue.
+
 **Uncharted · Crevice-adjacent.** Nothing in the register accepts it.
 > **The uncharted harmonization files under** **`[Kael]`** **Ruin** — Root, Uurgath, **one of the thirty glyphs carrying no Family and no Physics Domain.**
 >
@@ -112,50 +140,69 @@ verification: null
 
 ---
 
-### IV. Traits
+## IV. Traits
 
 **PRIMARY — Malice Dominion.** Proximity degrades resolve. People near him find their own certainty thinning and reach for anger to replace it, and the anger is available. He does not project this. It is ambient and he cannot switch it off.
+
 **SECONDARY — Seething Strike.** Contact leaves the struck architecture unwilling to knit. Wounds taken from him close slower than wounds taken from anything else, and physicians who have treated both can tell the difference without being told.
+
 **PASSIVE — Fractured Fury.** Output scales with duration under pressure. He is more dangerous in the fortieth minute than the fourth, which inverts the ordinary attrition curve and is the single most important tactical fact about him.
+
 **EMERGING — The Crown.** At sustained peak a lattice forms above the head, visible, unasked for. He has never described it. Witnesses who have seen it twice report it is larger the second time.
 
 ---
 
-### V. Domain — The Fractured Crown
+## V. Domain — The Fractured Crown
 
 **Doctrine:** *Nothing here is owed peace.*
+
 Inside it, Aetheric withdrawal becomes difficult and planar bleed seals. Practitioners describe the specific experience of reaching for an escape technique and finding the technique intact, correctly formed, and simply not answered.
+
 **What it costs:** The Domain does not close when he leaves. It decays over days, and the ground it stood on carries the set afterward.
 
 ---
 
-### VI. Techniques
+## VI. Techniques
 
 **FURIOUS ANNIHILATION** — *Signature.*
+
 **Effect:** The air over a contested space goes wrong all at once. Sound arrives late. Standing structures lose cohesion at the joints rather than the faces. Anyone inside it afterward reports a persistent difficulty holding a thought to its end.
+
 **Cost:** Days of his own coherence, spent forward. He is slower for a week and does not sleep for three nights.
+
 **Limit:** It cannot be aimed. It has a centre and a radius and nothing else.
+
 **Counter:** He must be stationary through the build. Anyone who has seen it once knows the stillness means it is coming, and the stillness lasts long enough to leave.
+
 **THE SEETHING** — Contact-borne degradation, described above under Traits.
+
 **Cost:** His hands. The skin over his knuckles has not fully closed in years.
+
 **Limit:** Requires flesh contact. Plate defeats it entirely.
+
 **Counter:** Distance. He has no ranged expression at all, and the absence is not an oversight — it is what being stuck at Dissonance costs him.
+
 **What nobody knows:** Why the Crevice let him leave.
+
 *Codex:* *`[Kael]`* *Ruin · unclassified · Uurgath · Stage XI*
 
 ---
 
-### VII. Psychology
+## VII. Psychology
 
 **Core Wound:** He went in to prove he could come back, and he was right, and being right cost more than being wrong would have.
+
 **Flaw:** He experiences the rage as clarity. Every attempt to describe it to him as damage reads to him as an argument for tolerating less.
+
 **Desire:** To finish. He is not specific about what.
+
 **Loop:** Pressure → output → the output feels correct → the correctness confirms the pressure was justified → pressure.
+
 **Speech:** Short, declarative, and entirely without hedging. He never says *perhaps*.
 
 ---
 
-### VIII. Open Rulings
+## VIII. Open Rulings
 
 - **Temperance Stage XI — ratified 2026-09-12.** Ratified as written (Isaac): Level 330, Tier of Standing 7, Grandmaster, Grade SS with fracture risk above 700, ceiling 750 and structurally unstable, η ~0.86, matching the Sixteen Stages entry for Dissonance, trapped rather than passed through. The stats remain subject to the re-cost ruling of the same day.
 - **The old sheet gave him "Coagulation → Extraction → Sublimation" as a Wellspring path.** Those are Great Work operations from Alchemetrica, not a progression. Removed rather than translated.
@@ -164,37 +211,47 @@ Inside it, Aetheric withdrawal becomes difficult and planar bleed seals. Practit
 
 ---
 
-### Lore · The Life Behind the Card
+## Lore · The Life Behind the Card
 
 *Written 2026-09-24 by the character-lore pass from this card and the record of The Age of Calamity. What those sources do not state is new here.*
 
-#### Origin
+### Origin
 
 Iskaron Thalnaris was born human, on the stepped basalt of the Outer World's western interior. The old lava sheets there had weathered into terraces league upon league, and the rock split of its own accord into six-sided posts. His people quarried it. They set a bar into a joint and levered a post free, and they cut nothing. A post gave at its seams. He learned that young.
+
 Through all of that country ran the Crevice. Near it the rock stopped obeying the ordinary rules. Some quarry crews worked inside the margin itself, prying out a heavy stone that made no sound under a hammer. Fewer came back up than went down. Nobody on the terraces had words for what the margin did to the rest.
+
 Nothing of the Crevice was in his blood. The Crevice reached him later, by exposure.
 
-#### The Making
+### The Making
 
 He hauled posts, and he fought in the quarry yards, and he got stronger at both. Nobody taught him to shape what he had. He did not go looking for a teacher. He put more into his body, and when that ran short, more into his will.
+
 He watched the crews go down past the last terrace, and when he was grown he went down after them, alone.
+
 He went in to prove he could come back. Past the crews' workings the rock had stopped obeying anything he knew. He walked into a Crevice-margin concentration and remained coherent long enough to choose how he met it. He came out. Something did not finish leaving with him.
 
-#### The Cost
+### The Cost
 
 Near him, afterward, people found their certainty thinning. They reached for anger to replace it, and the anger was there. He did not send it out. He could not stop it. His bare hands opened men, and the wounds would not knit. Physicians who had treated those wounds beside others could tell them apart without being told.
+
 He took the rage for clarity. When anyone named it damage to him, he heard an argument for tolerating less.
+
 On the flood-basalt steps above the margin, the Bloodspine clan stood across his way. Near him their certainty thinned. They closed with him, and his hands opened them. On their chieftain, Gorrath, his hands found obsidian plate and did nothing. Gorrath drove both fists into the basalt, and the rupture ran down the joints between the columns. Molten chain-spikes came up through the cracks. Iskaron took it and kept coming. He was worse at the end of the fight than at the start.
+
 Then he stood still. A lattice formed above his head. Gorrath did not step back, and his clan stayed where he stood. The air over the steps went wrong. Sound came late. The columns came apart at their joints and fell, and Gorrath lived.
+
 Iskaron walked off the steps. He was slower for a week and did not sleep for three nights. Behind him the Fractured Crown lay over the basalt with the wounded Bloodspine inside it. It did not close when he left. A man inside it who reached for a way out found the working intact and unanswered. The dying could only be carried. Their chieftain would not leave the ground. Sinclair Mercer came onto the steps and took them one at a time. None of the wounded lived to the next morning. Iskaron was gone by then.
 
-#### Where They Stand
+### Where They Stand
 
 Later in the same age he came up out of the margin again, onto another stretch of the steps. A deep resistance front held that ground, with Gorrath at its head. The fight went long. When Iskaron stopped moving, Gorrath sent the front back off the steps and stood there alone. The lattice formed, larger than it had been on the Bloodspine ground. The columns under Gorrath came apart at their joints. Gorrath lived again, and so did the front he had sent off the steps. Iskaron walked away down the margin.
+
 He stands with no realm and no faction. He was once a Scion of the Outer Crevice and is not now. The skin over his knuckles has not fully closed in years. He has never described the lattice. Witnesses who have seen it twice report it larger the second time, and Gorrath is one of them. The ground his Crown has lain on carries the set afterward. He speaks in short declarations. He never says perhaps.
+
 What he wants is to finish. He has never said what. He has never met Sinclair Mercer, who came onto the Bloodspine ground after him. Why the Crevice let him leave, nobody knows.
 
-#### Ties
+### Ties
 
 - **Gorrath Bloodspine · The Magmaborn Juggernaut** · enemy. Iskaron killed the Bloodspine where Gorrath stood, and twice Gorrath has lived through the stillness and seen the lattice.
 - **Sinclair Mercer · The Soul Devourer** · the one who came after. Sinclair took the dying his hands left inside the Crown; they have never met.

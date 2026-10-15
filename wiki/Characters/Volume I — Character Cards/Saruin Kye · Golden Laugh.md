@@ -12,7 +12,9 @@ verification: null
 
 **Say it** · sah-ROO-in KYEH
 > *"Why walk when the wind will carry you — and why fight when the wind can trip them for you?"*
+>
 > **The card states no Temperance Stage.** **Stage VIII — Transcendence assigned as originated and ratified as written (Isaac, 2026-09-12)**, on the strength of **Laughing Lawbreaker**: *altering cause-and-effect requires Dominion Fate, which is Fate-gated at Stage VII.* **He must be above it.**
+>
 > **Temperance Stage VIII — ratified 2026-09-12.** Ratified as written (Isaac): Level 238, Tier of Standing 6, Master, Grade S, ceiling 550, η ~0.70, matching the Sixteen Stages entry for Transcendence.
 >
 > *"Wind / Sun / Illusion"* were not Essence types.
@@ -22,6 +24,7 @@ verification: null
 ## I · Identity
 
 **Name** · Saruin Kye. **Titles** · **Cloud-Borne.** Golden Laugh · **Keeper of the West Wind.**
+
 **Role** · **Celestial Vagabond. Trickster Hero. Relic Courier for the Outer World's Sky-Trading Pavilions.**
 
 ### Affiliation
@@ -42,7 +45,9 @@ verification: null
 ## II · Soul Architecture
 
 **Aether Shell** · **Class V · Radiant.** *Aether bends toward the bearer* — **which for a man who alters cause-and-effect is the Class doing exactly what it says.**
+
 **Crystal State** · Refined. **η** · ~0.70, Tier of Standing 6, Master.
+
 **Gilded Veins** · **Golden Essence lines under his skin grant heightened agility, absurd reflexes, and short bursts of physical strength beyond normal Beastkin limits.**
 
 ---
@@ -50,8 +55,11 @@ verification: null
 ## III · Wellspring Harmonizations
 
 **Aeolyth** · **The motion, the flow, the Nimbus-Step.**
+
 **Luminalis** · Fulguria. **The radiance and the blessing.**
+
 **Mirithane** · Limina. **Specular reflection** — *the mirage and the trickery.*
+
 **Oneirion** · Limina. **Configuration space — a system's every possible arrangement as a coordinate in a space with no physical location.**
 > ***This is Laughing Lawbreaker, and it is the most elegant fit in the batch.*** *He does not break causality. He selects a different coordinate from the space of arrangements that were already available — which is why the bridge holds just long enough, and never longer.*
 
@@ -91,7 +99,9 @@ verification: null
 ## VI · Traits
 
 **Nimbus-Step** · **Travels on a living cloud of condensed Wellspring essence**; *can disperse or reform it at will to evade attacks, carry passengers, or hide objects.*
+
 **Gilded Veins** · **Heightened agility, absurd reflexes, and short bursts of strength beyond normal Beastkin limits.**
+
 **Laughing Lawbreaker** · **Can subtly alter cause-and-effect in his immediate surroundings** — *turning a sure hit into a miss, or a failing bridge into one that holds just long enough for him to cross.*
 
 ---
@@ -101,8 +111,11 @@ verification: null
 ### The Rolling Horizon
 
 **Effect** · **A Cycle centred on never being bound**, drawing Essence from Wellsprings tied to **travel, freedom and mischief.** *He ascends by defying limitations rather than confronting them.*
+
 **Cost** · **He cannot hold ground, cannot protect a place, and cannot end a fight.** *Everything he does is deferral.*
+
 **Limit** · **Immediate surroundings only.**
+
 **Counter** · **Make the outcome unavoidable rather than unlikely.** *Oneirion selects from arrangements that exist — remove the arrangement where he escapes and the trick has nothing to pick.*
 > **What nobody knows.** How many of the dangerous artifacts he "lost" are actually somewhere safe.
 
@@ -113,6 +126,7 @@ verification: null
 **Hyo Miran** · **Friendly rivalry.** *Both share a knack for getting out of impossible situations, and constantly try to out-trick each other.*
 > *A merchant with Gnosis Perception at ceiling who always knows what you want, against a vagabond with Dominion Fate at 534 who edits which outcomes are available.* ***Hyo reads the room; Saruin changes it.*** **Neither has ever won cleanly, and the sheets explain why.**
 **Kaelen Raive** · **Finds him "too serious" and delights in poking at him**, but **respects him enough to show up when it truly matters.**
+
 **The Sky Market Elders** · **Pretends to work for them**, but mostly uses their networks for gossip and travel passes.
 
 ---
@@ -131,29 +145,41 @@ verification: null
 #### Origin
 
 Saruin Kye was born in the Veloran Rainsea, high in the forest crowns, among Beastkin who lived above a floor the sun never reached. His mother carried loads from crown to crown. Her brother strung the bridges she crossed, vine rope knotted between the great limbs.
+
 The boy was the lightest in the household and the quickest. When a new bridge went up, he took the first line across in his teeth, and the rope came after him. He learned which knots crept under a load. He learned to be across before anyone asked whether a bridge was ready.
+
 One wet season a bridge went slack while his uncle was on it with a load. Saruin had crossed ahead of him. The bridge held for the boy and gave under the man, and the floor took the man and the load together. When his mother reached the far crown, Saruin was laughing. He never told her why.
+
 She wanted him to take up the stringing. He would not. He left the crowns before the next wet season.
 
 #### The Making
 
 By the time he left the Rainsea he no longer walked anywhere. A cloud carried him. It could take a passenger or hide a pack, and he laughed at anyone who asked where he had found it.
+
 He carried relics for the Outer World's Sky-Trading Pavilions, across sky that dragons owned. The Sky Market Elders held passes for it and a network that heard everything said beneath it. He let them believe he worked for them.
+
 Some of the relics were dangerous, and a share of those never reached the buyer. He told the Pavilions they had been lost. The Kuromaki Association, a Beastkin guild, came to respect how reliably he lost them, and into whose hands.
+
 Hyo Miran crossed his road in those years, and each began trying to out-trick the other. He came to owe the Guardians of Tres Aures more than one favour.
+
 For all that time the laugh covered what he could not do. He could hurt almost nobody. He could not hold ground, protect a place or end a fight, and everything he did put something off. Then he stopped carrying the deferral as the thing the laugh hid and made it hold weight on purpose. The bridge that holds just long enough, and never longer, became the design. Until then it had been his apology. A wall stayed a wall to him and became a suggestion as well, and he went on working with both true. Around him a region of the world ran on his terms while he was in it, where a sure hit became a miss and a failing bridge held. Its terms were mischief.
 
 #### The Cost
 
 Every fight he won after that, somebody else lost by failing, and he had arranged the failure beforehand. He could keep a man standing for as long as something took. He could keep no place.
+
 On the Aurelian Dust Coast two desert-bound peoples claimed one small Wellspring. Zahiren Vahl read the sanctum's ground for the Arbitration Division, and one people refused the reading and asked for trial. The Division sent Kaelen Raive against their champion, who gave ground and then opened a Domain over the sanctum. Kaelen began the charge that would bind it shut. Before it was full, the champion's people broke the ring and came at the Warden from the sides.
+
 Saruin came down into the sanctum on his cloud. For as long as the charge took, the blows meant for Kaelen missed him. A wall of the sanctum had started to fall. It held until the charge was full. The Seal bound the champion's Domain shut, his law stood suspended while the trial concluded, and the verdict was entered with the Division. Saruin was gone before it was read.
+
 He kept the Warden alive and took no part in the verdict. The buyers of the relics he lost counted him a courier who lost things, and he let them. The favours he owed the Guardians stayed unpaid.
 
 #### Where They Stand
 
 Saruin Kye is called Cloud-Borne, Golden Laugh and Keeper of the West Wind. He carries relics for the Sky-Trading Pavilions and pretends to work for the Sky Market Elders, whose networks give him gossip and travel passes. His alliances are loose. The Kuromaki Association, whose occasional liaison is Ziyu "Pip" Inari, is one. The Guardians of Tres Aures, who hold Gorrum Vaelseth by old pacts, are the other, and he owes them more than one favour.
+
 He finds Kaelen Raive too serious, pokes at him whenever their roads cross, and shows up when it truly matters. Hyo Miran is still his rival. Varozael Dreikthorne resents his irreverence, and their encounters often end in theft, in wreckage and in grudging laughter. No record has the stag's cut landing on him.
+
 The sanctum floor on the Dust Coast keeps his cloud coming down, for any reader after Zahiren. Nobody knows how many of the dangerous artifacts he lost are somewhere safe.
 
 #### Ties

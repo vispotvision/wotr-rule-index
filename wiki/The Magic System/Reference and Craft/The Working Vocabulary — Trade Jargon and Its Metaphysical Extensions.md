@@ -10,20 +10,25 @@ verification: "unverified"
 
 # The Working Vocabulary — Trade Jargon and Its Metaphysical Extensions
 
-### Why This Exists
+## Why This Exists
 
 The canonical term list runs to four hundred and thirty-four entries and every one of them is machinery: Grades, Stages, Wellsprings, Sub-Stats, Crystal tiers. That vocabulary names the system, and it may stand on the page beside the effect it names, but it places nobody by trade or class.
+
 What a scene actually needs is the other layer. **What a fitter calls the pipe. What an assayer calls the flash. What a glasshouse calls a flaw.** Those words do three things at once: they place a speaker by trade and class, they make the world feel worked rather than described, and they give the metaphysics somewhere to borrow from that is not the Codex.
 
-### The Method
+## The Method
 
 Every entry below moves through the same three steps, and the third is where the world gets built.
+
 **One. Take it whole.** The trade exists in WOTR, so the term exists unchanged. A ferrule is a ferrule. This costs nothing and buys texture immediately.
+
 **Two. Extend it.** The trade's word is applied to the metaphysical case by the people who work both, because that is how technical vocabulary actually spreads. Practitioners did not invent a word for the moment a Crystal's grade declares itself. They borrowed the assayer's.
+
 **Three. Invert it.** The word turns up in cant, meaning something adjacent and usually worse. This is the layer that makes a vocabulary feel lived in rather than compiled, and it ties directly to the doublet on the Common page.
+
 **The discipline that keeps this legal.** The extended sense describes *what happened*, never *why it worked*. An assayer's word for a flash is a word for a flash. It does not explain the Crystal, and the mechanism gloss ban is untouched by any of this.
 
-### I. The Draw
+## I. The Draw
 
 Aether infrastructure runs on the vocabulary of water and gas fitting, because that is what it physically is: a main, a network of branches, meters, and a great many things that leak.
 
@@ -46,9 +51,10 @@ Aether infrastructure runs on the vocabulary of water and gas fitting, because t
 
 **The one to steal first is the tundish.** It is a funnel whose only function is that somebody can see what is coming out of a relief valve. A fitting that exists to prevent concealment. In a world where the Accord bills for the draw and a great many households would prefer it did not know how much they are taking, the tundish is the object every argument in a Draw Age street happens over.
 
-### II. The Assay
+## II. The Assay
 
 The fire assay is the trade that determines what a thing actually is by destroying part of it, and it has supplied practitioner diagnosis with most of its working vocabulary.
+
 The real process: a sliver of the sample is wrapped in lead, sometimes pre-treated by **scorification** in lead foil, and heated in a porous **cupel** of bone ash inside a **muffle** furnace. The lead oxidises to **litharge**, which the cupel absorbs, carrying the base metals with it. What is left is a **bead**, or **button**, of the precious metal. **Parting** in acid separates silver from gold, and comparing weights gives the **fineness**.
 
 | Term | Trade sense | WOTR extension | Cant |
@@ -65,15 +71,19 @@ The real process: a sliver of the sample is wrapped in lead, sometimes pre-treat
 | **slag**, **scoria** | the waste glass floating on the melt | Residue after a working; what a district's traps collect | *slag* is an insult and needs no explanation: a man who *came out slag* took a Dead Set |
 | **feathering** | working the cupel carefully near the end | handling a diagnosis at the point it could still go wrong | — |
 
-#### The blick
+### The blick
 
 **The single best word available and it is free.**
+
 As a cupellation completes, the last of the molten litharge runs across the surface of the bead and throws a rainbow play of colour. The colour dulls for an instant. Then there is a bright flash, called the **blick**, caused by the release of latent heat as the bead reaches its solidification point. The assayer watches for it because it is the moment the test finishes and the answer exists.
+
 It transfers directly and it transfers without explaining anything.
+
 **The blick is the instant a Crystal's real grade declares itself**: the colour running, the dull beat, the flash. Examiners watch for it. Practitioners dread it, because a man can lie about his Stage in every document he signs and cannot lie during the second the blick takes. There is a phrase for a career that ended in one, and there is a phrase for a man who has never sat for one.
+
 **And it is a scene, not a mechanism.** What is on the page is the colour, the dulling, and the flash. Why the Crystal does that is not stated and does not need to be, because the assayer's word for the flash is a word for a flash.
 
-### III. The Glass
+## III. The Glass
 
 Glasshouse vocabulary supplies the language of Draft vessels, lens work, and the physical condition of a Soul Crystal, and it supplies it better than any other trade because glass has the same three properties: it is worked hot, it holds stress invisibly, and it fails at the flaw you did not see.
 
@@ -96,18 +106,24 @@ Glasshouse vocabulary supplies the language of Draft vessels, lens work, and the
 
 **Annealing is the concept with the most story in it.** A piece that is cooled too fast looks perfect and carries stress it cannot show you, and it fails later, without warning, at the flaw nobody could see. That is a description of a practitioner who climbed a Stage and went straight back to work, and it does not require a single word of metaphysical explanation to land.
 
-### IV. Where the Contempt Lives
+## IV. Where the Contempt Lives
 
 Every column above has a cant entry or is missing one, and the pattern is worth naming: **the words that invert are the words that touch money, standing, or whether a man is any good.** *Cocked. Slag. A small button. A blank. Corded. Assayed.* Nobody has made a cant sense out of *manifold* or *battledore*, because nobody has ever needed to insult a man by comparing him to one.
+
 This is the same engine as the doublet on the Common page. The Latin column is what the examiner says. The trade column is what the tradesman says. The cant column is what is said about a man when he has left the room, and it is almost always drawn from the trade rather than the Latin, because contempt is specific and Latin is not.
 
-### Next Passes
+## Next Passes
 
 Domains that would yield as well and have not been mined yet, in the order I would take them.
+
 **Bell-founding and acoustics**, for *Ars Cantus*. Bells are tuned on their partials, and a bell that will not come into tune is called false. A choir vocabulary built on strike note, hum, and falseness would give Chantcraft the technical layer it currently lacks.
+
 **Quarrying and banker masonry**, for Runecraft. The bed, the grain, quarry sap, spalling, dressing, the reveal. A stone has a direction and a rune cut across it fails, which is a mechanism-free way to make inscription a craft with real failure modes.
+
 **Surveying and the chain**, for Domain radius, boundary disputes and the Bench.
+
 **Rope, rigging and cordage**, for Attraction Force and bonds, which currently reach for a bank of metaphors with nothing under them.
+
 **Tanning and the blood trades**, which already have a research document in project knowledge and have never been mined for vocabulary.
 
 ###

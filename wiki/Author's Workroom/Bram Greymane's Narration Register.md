@@ -11,7 +11,9 @@ verification: null
 # Bram Greymane's Narration Register
 
 *Close register · a line commander's idiom*
+
 **Narration distance: Close register.** The narration runs in Bram's own idiom, a line commander's, and its generalisations are his, not the narrator's. Italic direct thought is available and none is owed. The Kharven culture register sits under it.
+
 **Violation caution.** Never let the narration know more of the fight than Bram can see or hear. His ignorance of his own right flank is the register; a clean overview of the battle from above his head breaks it.
 
 ---
@@ -19,6 +21,7 @@ verification: null
 ## Vocabulary
 
 **Words it reaches for.** Line, front, gap, breach, file, rank, rotation, whistle, count, shield, boss, axe, oblique. Exact figures, given flat: twenty-two feet, eight abreast, eighty count, eleven minutes, four hours. Anatomy named plainly when a man goes down (trapezius, cervical column, femoral, cuisse).
+
 **Words it keeps out.** Named fear, named grief, named pride. Heroic abstraction in narration; the big words live only in what he shouts, and the narration does not repeat them.
 
 ## Sentence shape

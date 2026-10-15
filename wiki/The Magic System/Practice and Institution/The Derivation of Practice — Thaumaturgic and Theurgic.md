@@ -11,8 +11,10 @@ verification: "unverified"
 # The Derivation of Practice — Thaumaturgic and Theurgic
 
 *A Classification of Practitioner Types by Relationship to the System*
+
 *Guild of Measurewrights (certified assessors of practitioners and workings), under the Hexagonal Oath, in concurrence with the Research & Archives Division and the Lattice Classification Bureau*
 > **The fire was always in her. The understanding of fire was always in him. Both produce fire. The institution that cannot tell the difference will be burned by both.**
+>
 > — *Attributed to the third Provost of the Lattice Classification Bureau, upon her resignation*
 
 ---
@@ -21,6 +23,7 @@ verification: "unverified"
 
 The existing apparatus measures **what a practitioner can do.** Tier Grade measures raw magnitude. Tier of Standing measures rank. Efficiency (η) measures how much of each expenditure arrives as effect. Aether Class measures conductivity. Temperance Stage measures architectural maturity.
 > **None of these tell the Bureau where the capacity came from.**
+>
 > Two practitioners present **identical Tier Grades, identical Tiers of Standing, identical η, identical stat profiles.**
 >
 > **One** trained at the Altherion Collegium for eleven years. Techniques from curricula, harmonisations (tunings of the soul to a Wellspring's law) guided by instructors who had guided a hundred before hers. **Documented, reproducible, predictable.** *The Bureau knows exactly what she can do because the institution that built her kept records.*
@@ -28,7 +31,9 @@ The existing apparatus measures **what a practitioner can do.** Tier Grade measu
 > **The other** walked out of a Caloria (the heat family of Wellsprings) concentration in the New World at fourteen **with a harmonisation nobody taught her** and a Tier Grade that should have taken a decade of supervised refinement. **Undocumented, unreproducible, unpredictable** — *the Bureau knows what she can do only by watching her do it, and what she does changes every time someone watches.*
 >
 > **The first is an asset the institution manufactured. The second is a phenomenon the institution discovered.**
+>
 > *The correction was not requested by the academic community. It was requested by the Bureau of Strategic Assessment, after the third incident in which a field commander deployed a practitioner on the basis of a classification that accurately described the output and completely failed to predict the behaviour under conditions the classification had not been tested against.*
+>
 > *A warning to the reader who believes this is a simple distinction. It is simple the way the distinction between a river and a canal is simple. Both carry water. One was built. One was found. The engineering that manages them is entirely different, and the engineer who confuses them drowns.*
 
 ---
@@ -53,8 +58,11 @@ The existing apparatus measures **what a practitioner can do.** Tier Grade measu
 ## What the Axis Is Actually Measuring
 
 *The Bureau measures the shape and argues about the cause. The cause is the seat.*
+
 A Threshold (the crisis that lifts a soul to its next Stage) is a melt, and a melt cools into order only around what survived the heat. **Traits (standing laws a soul carries, formed by what it survived) are the seeds.** Everything the Index reports follows from how many a practitioner brought to the fire and how well they agreed.
+
 **A melt seeded by one dominant Trait cools narrow and deep.** The lattice organises along a single law and every subsequent working runs cleanest along it. That is thaumaturgic architecture, and the resonance tunnel is not a pathology developing over a career. It is the shape the Crystal set into, becoming more itself with every reinforcement.
+
 **A melt seeded by several weaker Traits that do not contradict each other cools distributed.** No single axis reaches the depth the narrow lattice reaches and none of them fractures under an unfamiliar current either. That is theurgic architecture, and the translation cost the Index measures is the Essence spent moving between regions of a lattice that agreed to differ.
 > **This is why the distribution is bimodal, and why both standing explanations are half right.**
 >
@@ -70,15 +78,20 @@ The Conjunctia (working two Families at once) anomaly resolves the same way. A n
 ## The Derivation Index
 
 **DI = (Cross-Axis Mean Performance) / (Single-Axis Peak Performance)**
+
 Measured across a standardised battery spanning **all three encounter axes — Wild, Spirit, Medium —** across at least three Families (the eight physics groupings of the Wellsprings), scoring consistency, peak deviation, adaptation time and technique legibility.
 > **DI approaching 1.0** — theurgic. Performs nearly as well across all axes as on their best.
+>
 > **DI approaching 0.0** — thaumaturgic. One or two axes of extraordinary performance with significant degradation on the others.
+>
 > **The distribution is not uniform. It clusters bimodally around 0.35 and 0.65**, with a thin population between.
 >
 > The Bureau attributes this to **institutional sorting**: academies push theurgic, self-teaching pushes thaumaturgic, and few receive a mixed formation.
 >
 > *The Altherion faculty propose an alternative the Bureau does not endorse: that Crystal architecture is genuinely bimodal, and training amplifies rather than creates the tendency. If they are right, the Index measures something innate rather than something institutional — which changes the ethical status of the registration system considerably.*
+>
 > **The Bureau publishes the DI alongside the Lattice classification. It is a number. It describes a real property. The measurement is honest.**
+>
 > ***What the Bureau does with the measurement is not a matter of physics.***
 
 ---
@@ -99,6 +112,7 @@ Measured across a standardised battery spanning **all three encounter axes — W
 > *Nobody will ever test him. The battery is administered to registrants, registration follows screening, and screening looks for a Crystal that has already stirred.* **Every screening season produces false negatives at a rate the Bureau has never estimated because it has no instrument that would notice.**
 > 
 > The Bureau's stated tolerance for unmodelled variables is low and declining. **Its actual exposure is the population of the four quarters.**
+>
 > <strong>The Bureau does not use the word</strong> <strong><em>goetic</em></strong><strong>.</strong> It appears in the historical literature, meaning sorcery by personal will, used by the Sancta Lux theological apparatus to describe unconsecrated wonder-working, <strong>and it carries a pejorative charge the Bureau's formal classifications are designed to avoid.</strong>
 >
 > The Bureau notes that the word remains in common use outside formal channels, **particularly among credentialed Magisters referring to Unregistered Naturals**, and that guidance discouraging it has been issued on four occasions.
@@ -127,7 +141,9 @@ Measured across a standardised battery spanning **all three encounter axes — W
 
 **A thaumaturge fighting on their native axis is faster, more powerful at peak, and more instinctive. A theurgist fighting them there is slower, less powerful at peak, and more analytical.**
 > **The theurgist's advantage is prediction. The thaumaturge's advantage is force.**
+>
 > *The engagement is decided by whether the thaumaturge can end it before the theurgist finishes reading them, or whether the theurgist can survive the initial assault long enough to identify the pattern that the thaumaturge's single-axis commitment forces them into.*
+>
 > **Every thaumaturge has a pattern.** Single-axis fluency produces one. **The Crystal that can only hear one frequency plays one song.** *A theurgist trained to listen for the song can learn it, and a song you have learned is a song you can interrupt.*
 >
 > **Every theurgist has a gap.** Cross-axis literacy distributes attention. **The Crystal that listens to everything hears everything poorly.** *A thaumaturge who commits fully to their native axis can overwhelm any single channel in a distributed defence, and a channel that is overwhelmed is a channel that has collapsed regardless of what the other channels are doing.*
@@ -137,7 +153,9 @@ Measured across a standardised battery spanning **all three encounter axes — W
 ## The Institutional Architecture
 
 **The Guild Accord** controls theurgic training, publishes the Lattice classification, issues the Magister credential. *It funds the academies, approves the curricula, and controls the chokepoints through which credentialed theurgic knowledge passes. Every school and sect still teaches its own basics and guards its own forms, and the Guild sees only what they choose to file.* **The Guild made the system. The Guild owns the gate.**
+
 **Sancta Lux** claims authority on etymological and doctrinal grounds. **Theurgy means divine work. If the work is divine, the Church has standing.** It credentials nobody — *but it does not need to control the gate if it can declare the field on the other side of the gate consecrated or profane.*
+
 **The Bureau of Strategic Assessment** manages registration. **It does not care whether a high-Tier thaumaturge was trained or self-taught, consecrated or profane.** It cares whether the output has been observed and incorporated into the regional assessment. *A registered Natural is an asset on the ledger. An Unregistered Natural is a variable the Bureau cannot model — and its tolerance for unmodelled variables is low and declining.*
 > **The three institutions agree on exactly one point: unregistered high-Tier thaumaturges are a problem. They disagree on why.**
 >
@@ -152,8 +170,10 @@ Measured across a standardised battery spanning **all three encounter axes — W
 ## The Mechanica Problem
 
 **The Index assumes the practitioner is operating within the system. A Mechanica practitioner is not.**
+
 They do not channel through native attunement (thaumaturgic). They do not channel through systematic comprehension of the grammar (theurgic). **They take the output directly, without running the process the system requires.**
 > They are not at either pole. ***They are not on the continuum at all.***
+>
 > **This is the deepest institutional anxiety the Index has produced.** The Bureau built an axis to classify practitioners by their relationship to the system. **The axis works. It covers the vast majority. And it has a hole in it large enough for exactly the category of practice the Accord has spent centuries trying to suppress.**
 >
 > *A Mechanica operator has solved the problem of producing magical output without solving either the theurgist's problem — understanding the grammar — or the thaumaturge's problem — being born with the instrument.* They have found a third path, and the third path does not appear on any of the Bureau's forms.

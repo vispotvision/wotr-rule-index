@@ -18,7 +18,9 @@ verification: "unverified"
 
 > *"All things must fall to reveal their shape."*
 **Seat**  Prime Entropic Titan of the Material Substrata, the Crevice. Arose from the voided residue left after Aegor crystallised space and time.
+
 **Domain**  Entropy, Transition, Collapse, Threshold, Renewal through Ruin
+
 **Ground**  The Wellspring of Collapse, called Entropic Equilibrium. A vast canyon of floating crystal slabs over a molten abyss, which exists to ensure no energy anywhere stagnates.
 
 ### Manifestation
@@ -40,13 +42,21 @@ Aegor, Body, Epoch. Stabilises the form before it shatters. Bairos, Fate, Epoch.
 ### The Titan-Keyed Art — *The Canyon's Patience*
 
 *Offensive · Vectoria · Fractura · Mechanics · Zenith+ · [Uur] Disruption + [Vorn] End*
+
 **Trigger**  The target must already be structurally or morally compromised. The glyph guides an existing fault line and has never yet created one.
+
 **Effect**  Guides a controlled purposeful collapse through a structure or a curse so that the fall clears space instead of merely destroying. The structure comes down along the chosen path and everything outside the redirected collapse zone is spared, which is the whole of the working's argument for itself.
+
 **Measure**  Collapse trajectory can be bent up to roughly thirty degrees off the structure's natural failure line before it resists further steering.
+
 **Cost**  If the caster's own resentments toward the target are unresolved, the collapse tends to choose a more destructive trajectory than the one intended. The working reads the hand that casts it.
+
 **Limit**  It steers. It cannot begin a fall, and a sound structure simply absorbs the glyph and stands.
+
 **Counter**  [Th] Foundation reinforces the natural fault line before the redirect takes hold, refusing the bend and forcing the original unsteered collapse instead. The building still comes down. It comes down where it wanted to.
+
 **What nobody knows**  Why the limit is thirty degrees. Every recorded attempt to push past it fails at the same figure regardless of Stage, structure or Wellspring saturation.
+
 *Codex: [Uur] Disruption + [Vorn] End / Fractura / Vectoria / Mechanics / Zenith+ / Titan-Keyed. Method, Grade, Range and Medium open.*
 
 ---
@@ -55,7 +65,9 @@ Aegor, Body, Epoch. Stabilises the form before it shatters. Bairos, Fate, Epoch.
 
 > *"Measure, or be broken."*
 **Seat**  Prime Lithotheic Titan of the Material Strata, Burden Architecture. Born when the first mountains rose too quickly and shattered under their own magnificence.
+
 **Domain**  Structure, Burden, Crystal Lattice, Foundation, Bearing, Weight
+
 **Ground**  The Wellspring of Foundation, called the Deep Grid. A hexagonal lattice of mineralised Aether beneath the oldest crust that distributes pressure instead of flowing or storming.
 
 ### Manifestation
@@ -77,13 +89,21 @@ Thalen, Structure. Defines the angle, the form, the pattern he must bear. Urion,
 ### The Titan-Keyed Art — *The Deep Grid's Verdict*
 
 *Supplementary · Vectoria · Petralon · Mechanics · Zenith+ · [Th] Foundation + [Ur] Balance*
+
 **Trigger**  Cast directly against a structure, an army or a soul whose bearing capacity is genuinely in question. A rhetorical doubt will not open it.
+
 **Effect**  Translates any burden placed on a structure, army or soul into honest geometry and returns a verdict on whether it can bear what is being asked. A subject that can hold the load holds visibly firmer. A subject that cannot begins failing at its actual weakest point immediately, which is the answer and the execution in the same motion.
+
 **Measure**  The verdict resolves within a single second regardless of the subject's complexity.
+
 **Cost**  None to the caster. The cost falls entirely on the subject being tested, which is the reason the working is reserved for genuine and consequential verdicts and the reason the Accord has never once permitted it as a demonstration.
+
 **Limit**  It tests. It does not reinforce, and a subject that fails the verdict fails it faster for having been asked.
+
 **Counter**  [Uur] Disruption corrupts the load-path reading itself, producing a false verdict that can mask a genuinely failing structure or condemn a sound one. Both failure modes have killed.
+
 **What nobody knows**  Why this working alone costs the caster nothing. Every other entry in the register takes something, and the Stone Choir has spent nine hundred years arguing about what this one takes instead.
+
 *Codex: [Th] Foundation + [Ur] Balance / Petralon / Vectoria / Mechanics / Zenith+ / Titan-Keyed. Method, Grade, Range and Medium open.*
 
 ---
@@ -92,7 +112,9 @@ Thalen, Structure. Defines the angle, the form, the pattern he must bear. Urion,
 
 > *"Time does not pass. It is spent. I collect the cost."*
 **Seat**  Prime Chronothetic Titan of the Spiritual Strata, Era Mechanism. Forged when the first cycles of creation failed to hold and required a force that would not let stasis become forever.
+
 **Domain**  Inevitability, Timeflow, Historical Momentum, Accumulated Consequence, Pace of Eras
+
 **Ground**  The Wellspring of Continuum, called the Fossil Ring. A toroidal band of condensed fossilised time encircling the outermost Celestial strata, regulating the rise and fall of every other Wellspring.
 
 ### Manifestation
@@ -114,11 +136,19 @@ Valen, Time. Defines the covenant of sequence, which Chronaeus enforces the pace
 ### The Titan-Keyed Art — *The Era-Forge's Toll*
 
 *Offensive · Limina · Lethegraal · Abstract/Entropic Systems · Zenith+ · [Cro] Cycle + [Len] Line*
+
 **Trigger**  A conflict or an era that has genuinely stalled. Not merely slow. Structurally unable to resolve on its own.
+
 **Effect**  Compacts unresolved tension in a Domain into forced historical resolution, ending a stalled conflict or a stagnant era by grinding it forward on accumulated consequence alone. The stall reaches a genuine resolution point, for good or ill, instead of continuing indefinitely.
+
 **Measure**  Compression ratio typically runs between ten to one and fifty to one. A decade of stalled tension can resolve inside a season.
+
 **Cost**  The acceleration does not discriminate meaning from suffering. Innocents living inside the compressed era age and suffer at the same forced rate as the resolution does, and they are not consulted.
+
 **Limit**  It resolves. It does not choose, and the caster has no say in which side the compressed era resolves toward.
+
 **Counter**  [Ser] Renewal introduces a genuinely new growth-vector into the compressed timeline, diffusing the stored pressure into gradual change instead of a single forced toll. It requires something new to actually exist, which is the hard part.
+
 **What nobody knows**  Why the compression ratio varies by a factor of five and nothing predicts it. Not the tension, not the Stage, not the size of the Domain. The Ledger Monks record the figure after the fact and have never once called it in advance.
+
 *Codex: [Cro] Cycle + [Len] Line / Lethegraal / Limina / Abstract-Entropic Systems / Zenith+ / Titan-Keyed. Method, Grade, Range and Medium open.*

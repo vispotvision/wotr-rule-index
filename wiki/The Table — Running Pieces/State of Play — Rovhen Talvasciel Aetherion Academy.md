@@ -11,7 +11,9 @@ verification: null
 # State of Play — Rovhen Talvasciel / Aetherion Academy
 
 *Last rewrite: 28 September 2026. Same Academy week as the Kwon Mu-jin / Aetherion page, the fourth day of term. Rovhen is Isaac's.*
+
 **Where.** The old dispensary, east range, Aetherion Academy, with an hour to go before last bell. The first lecture is over. Joan Aldery has just left, carrying his letter to the clerk of inquests. Nyxeria Velthrae (another player's character) is standing a few feet off with her notebook against her chest.
+
 **What he holds.**
 - Harrowgate's green-sealed envelope, unopened.
 - The Finding of Cause is owed at first bell. The blank beside *Party answerable* is still empty.
@@ -22,6 +24,7 @@ verification: null
 - Nyxeria Velthrae (never written for).
 - Proctor Crale, at the end of the corridor until last bell.
 **What he believes that is wrong.** That the five Class S names on his roll are reputation-chasers. They are scouting for The Class Below.
+
 **Unresolved, one line each.**
 - The Finding of Cause at first bell: signed, refused or stalled, and whose name goes on it.
 - The cased plate from row six (PROB EST, quarter punch struck twice) against Harrowgate's quarterly-proofing lie.
@@ -36,6 +39,7 @@ verification: null
 - The Finding of Cause, 0/5 (new).
 - The Tallow Street Stair, 0/5 (new).
 **Last image.** Behind his own heartbeat, faint and half a beat late, a second one has begun, and it lies in Joan Aldery's pocket, under her hand.
+
 **Parallel thread, same week (Kwon Mu-jin / Aetherion).**
 - Geturo Mahuo is holding [Ig] and [Let] against Taesyn (another player's character) in the arena. The fifth band of lifted grit has reached Taesyn's boots.
 - On the fourth beat, the dome seam Mu-jin is holding flickered (L065). That's Isaac's call.

@@ -11,6 +11,7 @@ verification: null
 # Niran Yukari
 
 **Say it** · NEE-rahn yoo-KAH-ree
+
 *He Who Hears the Thread Before It Snaps · The Black-Winged Listener · Naiser's Heir · Card 15*
 > 
 > > **Danger is not an event. It is a process. Every process has a hinge.**
@@ -22,7 +23,9 @@ verification: null
 ## I–II · Identity and Soul Architecture
 
 **As Of** The Yukari Enclave, before dawn in the Kujo war
+
 **Lineage** Human · Yukari Bloodline · **Age** 32 · **Sex** Male
+
 **Standing** Yukari Enclave · **Shichi Karasu** · Inner World Frontier — *acting authority over the enclave and three tributary settlements*
 
 | **Level / Stage** | **195 / 500** · Band II — Awakened · **Stage VII — Refraction** · Tier of Standing **5, Expert** |
@@ -58,7 +61,9 @@ verification: null
 ## VI–VII · Force and Flow
 
 **Strike Force** 0.18 GN baseline / **0.62 GN Aether-assisted** · **Durability** 4.2 GJ shielding / 2.8 GJ hardness
+
 **Attack Speed** Mach 2.1 sustained / **Mach 5.8 evasion burst** · **Reaction 0.04–0.12s via Crow of Fate**
+
 **Range** 60m Cymorath / 120m open terrain / **22m Ketsumyōgan thread-reading / 14m Thread-Lock detection**
 > **Aura · Crow-Warning Domain Seed.** Hostile intent within 40m **registers as inner-ear pressure**, and *black-violet crow silhouettes are visible at the field edge to Resonant Perception practitioners.*
 **EU Reserve** 485,000 · **Flux Density** 18,400 EU/g · **AU/s** 16,376 · **Passive Recovery 28% EU/min** · **Active 8%** — *Stage VII Confluence developing*
@@ -68,6 +73,7 @@ verification: null
 ## VIII–IX · Traits and Domain
 
 **Crow of Fate** · Innate — detects hostile preparation within 40m, **warning 0.04–0.12s before visible attack completion.** *At Stage VII the passive Thread-Lock component is active:* **registers the causal commitment point of attacks — the instant an incoming strike becomes irreversible, not only the body's physical preparation signal.**
+
 **Black-Wing Listening** · Tempered — sound, breath, vibration and Essence-pulse to 120m. **Identifies Crystal Wellspring expressions by harmonic before technique manifests visually.**
 > **Thread-Lock Sense** · Disciplined · Monolithion · proto-Teishi
 > 
@@ -79,7 +85,9 @@ verification: null
 >
 > ***Feints no longer function against Niran's primary defence.***
 **Substrate Voice** · Tempered — contact with any material reads Essence coherence, structural integrity, ward quality, saturation depth. **Skin contact reads Crystal architecture, harmonisation signature, approximate Stage classification.**
+
 **Fate-Flinch Reflex** · Lineage — **two clean evasive bursts within 0.08s** of confirmed threat. *Upgraded from single-burst at thirteen.*
+
 **Quiet Feather Presence** · Resonant — footfall, breath, cloth and Essence-output reduced to near-zero. *At Stage VII this extends to Essence suppression: his Crystal output signature becomes difficult to locate through standard Gnosis Analysis while active.*
 > **Domain · Murder of Crows** — seed, partial active. **40m warning field / 18m active pressure.**
 >
@@ -108,11 +116,17 @@ verification: null
 ## XI–XII · Axes and Resistances
 
 **Reimei (Suiren Zanai)** · Intimate-Anchoring — **Heavy.** *Boundary-sight and Crow-sight reading the same events from different instruments.* **Stabilises Threadburn through Soul Plane recognition.**
+
 **Shichi Karasu** · Covenant-Collective — **Heavy.** *The Oath of Severance binds each member to his Thread-reading field — a distributed sensory network feeding tactical architecture.*
+
 **Mira Yukari** · Familial-Witness — *five years of shared building. Saw him read Senri's tablet and understood before he finished.*
+
 **Naiser Yukari** *(deceased)* · Filial-Formative — **Grief metabolised, not dissolved.** *Naiser's instruction lives in the Crystal as a second voice on hard decisions.*
+
 **Rengai Zettari** · Mentor-Foundational — ***The pouch has not been burned. He is not ready for the conversation that burning it would start.***
+
 **Toriki Yukari** · Teacher-Lineage — *Thread-Lock is Toriki's architecture inside Niran's Crystal.*
+
 **Resistances** · **Sound and vibration: highly resistant** — Cymorath *processes rather than suffers* acoustic assault. Pattern recognition: **exceptional.** Fear as weapon: resistant, **not immune.**
 > **Vulnerabilities.** **Active sound suppression collapses Cymorath input.** *Partial Ketsumyōgan compensation exists but the collapse remains a genuine tactical weakness.*
 >
@@ -123,9 +137,11 @@ verification: null
 ## XIII–XV · Description, Psychology, Equipment
 
 6'0", lean-functional. **Six years of combat training have replaced the thirteen-year-old's frame entirely** — broad through the trapezius, corded forearms from ward-work and blade training. ***Purpose-built. Every part does something.***
+
 Black hair past the hips, **Thread-shimmer giving it a quality that is not iridescent but not simply black** in Aether-dense environments. **Dull-crimson eyes** — *the Ketsumyōgan's corona absorbed the iris entirely at eighteen.* **Thread-patterns rotate slowly in the crimson field.**
 > *First impression: colour. The feeling: being inside a measurement.*
 **Thread-marks trace wrist to elbow on both forearms, deep enough to glow faintly in low light.** Three scars — left forearm from the ship, right shoulder from a Greater Wolf, left jaw from sparring with Sōma. ***Each chosen over a worse outcome.***
+
 *Scent of cold stone and cedar, Wellspring mineral absorbed from five years in the valley, faint ink.* **Aura: the feeling of having already been read.**
 
 | **Core Wound** | **Heard his father's death four months after it happened.** The grief arrived as retroactive knowledge. ***The wound is the gap, not the death*** |
@@ -146,20 +162,31 @@ Black hair past the hips, **Thread-shimmer giving it a quality that is not iride
 ### Voice
 
 **Notices first** · What is failing and what the person in front of him needs: the tremor in a hand, the cracked footing, the hinge a danger turns on.
+
 **Sentence length** · Short and plain, rarely first to speak, often set in order of work ("After the wards and the cistern.").
+
 **Contractions** · sometimes: easy in plain speech, dropped when he says what he is or will not be ("I am not a phantom.").
+
 **Pet word** · "Enough."
+
 **Never says** · The size of what lives under his quiet, or a result he has not yet read. He never raises an order into a shout.
+
 **Stumbles** · Never in calm speech; only his first words back in a body came broken.
+
 **Gloss rights** · Only for ward-craft and the Telling, to his children and apprentices. Never in council or in a fight.
+
 **Under stress** · Quieter and shorter, down to "Tell me." while the crimson deepens and he reads everything; he acts when the Lock commits. When the strain is real the stillness breaks: the voice climbs and cracks on one repeated word, and he forces it back down.
+
 **In grief** · He takes the loss as information, does the work in order, and goes back to his father's sayings and the words on Senri's stone, a palm flat on the rock in place of anything said.
+
 **In joy** · The voice holds; the joy is a hand on a child's head, the forearm grip at the gate.
+
 **Sample line** · "That has to be enough today. It won't be enough forever. But it's enough today."
 
 ## XVI–XVII · Temperance and Fractures
 
 **I–VI complete.** *III Ascension — Crystal clarified; warning as architecture, not fear.* **IV — substrate-listening integrated as Crystal function. V —** Thread-Lock formalised as Trait; Ketsumyōgan proto-expression first manifest. **VI — Domain seed formed,** B-tier threshold crossed.
+
 **VII Refraction** · **Active** — Traits becoming ambient expressions; Domain doctrine stabilising. **VIII–XVI locked.**
 > **Fracture · The Blood-Hush Moment** — Gnosis-Analysis. Consolidated. *Feature: Analysis densified permanently. Reads death more clearly. No longer hesitates when he reads it.*
 >
@@ -174,30 +201,43 @@ Black hair past the hips, **Thread-shimmer giving it a quality that is not iride
 #### Origin
 
 Niran Yukari was born Naiser Yukari's son, a boy of Kushara, in a Yukari house that still kept the Telling. Naiser raised him on breath-drills and bowstring lessons in the mornings. He pushed his reading-lenses up into his hair and then spent a quarter of an hour looking for them. He translated the words on Senri's stone for the boy before the boy knew whose words they were: "All things with art. Focus on the innards, and you will understand the outer world."
+
 He handed down a fear as well. If the boy ever let anyone see the size of what lived under his quiet, they would stop seeing a son and start seeing a weapon. Niran kept his power out of sight. He cared for people who could do nothing for him in return.
+
 The blood came early. It cost him headaches, and nights he walked in his sleep. At twelve Toriki Yukari put a scribing tool in his hand. The sense by which Niran would later tell a committed strike from a feint was Toriki's architecture, set in him young. Rengai Zettari was his foundational mentor. Before the boy left, an Ash-Signal Pouch was made to Rengai's formula for him to carry.
 
 #### The Making
 
 He left for the Yukari Territory at thirteen, with salt in his pack, a map Toriki had drawn, a ward-carver's tools at his hip and his father's name in his chest. He worked his passage on a ship. On the crossing a Vaeloric Engraver named Nazil taught him inscription and gave him a short sword. The ship left the scar on his left forearm.
+
 He fixed wards as he walked. He heard the failure in a gate post's footing and re-carved the glyph for a meal and a dry place to sleep. The first time he stood before Senri's tablet, Malakar pressed a thumb into the carved name and told the boy he reminded him of Senri. Niran did not understand the comparison.
+
 In his first year he laid out the valley's paths by ear, along the lines where the ground wanted to carry weight. He trained under Dhaerin at Vaeloris. His wards joined Senri's proto-notation, Nazil's substrate techniques and Dhaerin's grammar, each layer tuned to the stone before the glyph went in. Settlements with failing gate posts took his maintenance, then his standards. Each time he left an apprentice behind. Mira came to the gate from the southern corridor with ink on her fingers and a question about substrate resonance whose answer she already understood.
+
 A Greater Wolf marked his right shoulder, and sparring with Sōma marked his jaw. He chose each scar over a worse outcome. At eighteen the crimson took the last of his irises.
+
 Far away, a thread snapped that he could feel and could not reach. Naiser had died in chains in a stone room below daylight, with his son first in his thoughts. Niran heard his father's death four months after it happened. He received the loss as information.
 
 #### The Cost
 
 He built his own seat to hold as little as he could make it hold. The Crow's Seat on the Council of Threads has the last word in a deliberation and no executive power. In his journal he wrote: "I built the Seat so that the person who sees the most can act the least." He kept to it when it cost. When the Kujo matter spread along the western trade corridor, he counted what a failed arbitration would take from the corridor's grain. He told Mira it was not about them. She told him the choosing was costing him more than the acting would.
+
 He sent neither of his children to the Mage Academy. The Telling came first. At six Naori asked whether he regretted seeing these things. "A crow must oversee the unfortunate events," Niran told him, "so that others don't have to." Mira asked him later whether he believed it. He said it was what the boy needed to hear. He told her he did not regret the seeing; he regretted "the distance between the seeing and the reaching."
+
 Once he came home to the enclave burned, after thirty days of walking south with Mira. The outer ring of his wards had held. Where he had left sixty-one heartbeats, he counted twenty-three. The dead lay under the cedar line on the western terrace, marked with ward-stones because those were the only stones in the valley that carried his glyph-work. He asked the old woman Hanuri what she needed. He told her he would reseat the wards, see to the cracked cistern and then visit the graves, in that order. On the way he stopped at Senri's tablet and stood with his palm flat on the stone while the afternoon light moved across the letters.
+
 He reads death more clearly than he once did, and no longer hesitates when he reads it. Long reads burn him now. He wears black feather pins to anchor the deepest of them.
 
 #### Where They Stand
 
 He holds acting authority over the Yukari Enclave and its tributary settlements on the Inner World frontier. The Shichi Karasu are bound into his reading field by the Oath of Severance. Mira is beside him. Naori reads the web forward, and Akira reads the ground through her bare feet. Reimei steadies him when the reading burns. When Ryuka Yukari came from the Mahuo Estate for his Telling, Niran met him at the standing stones with the forearm grip.
+
 Before dawn on the meditation floor he once widened his reading past the ridge and found a hole in the web with bitten edges. He had been taught to withdraw. He went through. Something wearing his face asked to be let in, and a shape in his father's worn coat spoke against it. He came back to the pine boards with blood in his mouth and pressed his fingers down until they hurt.
+
 The elders said he had died in the Old World. For seven years he had no body. Ashura called him from beyond the Veil to become Septarch, and he answered that she was welcome to the hand and was not owed the whole of what moved it. He came back coughing water, in a body he had rushed, while a dragon burned the Inner World. The burning, he said, carried his own essence. When his cousin Haruki reached for him, he struck her hand away and told her, "I am not a phantom. I am not what did this."
+
 He woke under the Vaeloris village to Mira, who told him that Dhaerin was dead and Rengai taken. He pushed his new sight down when it began to read her. He opened what his Crows had sworn and sent them after the Black Dragon without him. The Kurotana surfaces behind his eyes now. He has said he will put Rengai back into his family's hands himself.
+
 The pouch rides against his sternum, warm and unburned. He is not ready for the conversation that burning it would start.
 
 #### Ties

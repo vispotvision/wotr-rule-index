@@ -11,6 +11,7 @@ verification: "unverified"
 # The Outer World — The Southern Pan
 
 **Say it** · the OW-ter WURLD
+
 *The Southern Pan*
 > Old, low, dry, and structurally strange — **the only quarter whose geology cannot be described without reference to something that is not geology.**
 
@@ -19,6 +20,7 @@ verification: "unverified"
 ## Formation
 
 The bulk of it is a worn craton comparable in age to the northern shield but **never glaciated**, so instead of scoured rock it carries a duricrust: a hard iron-cemented caprock that formed by chemical weathering over an inconceivable stretch of time and now armours the interior in a stony gibber plain that turns a wagon wheel and breaks a horse's leg.
+
 Across the western third lies a **flood-basalt province**, a stack of lava sheets erupted in a single geological convulsion and now weathered into stepped terraces league upon league. Along the eastern coast runs an **ophiolite belt**, a slice of ancient ocean floor shoved up onto the continent, which is why the coastal ranges are serpentine and chromite and support almost no vegetation. In the interior basins lie **the pans**, dried inland seas floored with nitrate, borate, and gypsum. Along the old shelf margins in the south lie **the bone-beds.**
 > And through all of it runs **the Crevice**, which is not a fault in any sense the Measurewrights are willing to certify, and along which the rock stops obeying the ordinary rules at a distance the Accord has fixed at four leagues **and revises upward roughly once a decade.**
 
@@ -27,7 +29,9 @@ Across the western third lies a **flood-basalt province**, a stack of lava sheet
 ## The Ground Itself
 
 Gibber plain, silcrete, salt pan, and basalt step. Marsh in the Dorrosfenn basins where the drainage fails and the water sits. Serpentine barrens on the eastern coast, green-grey, sterile, and dusty in a way that is worse than it looks. The Veil-tide shores in the far south where the bones wash up.
+
 There is very little water and what there is, is mostly undrinkable. There is very little wood. **Almost everything the southern quarter builds, it builds out of stone or out of something that used to be alive.**
+
 Ambient Wellspring saturation is low across the interior and violently irregular near the Crevice, which is the reason the southern quarter has no array-based industry worth the name and the reason it never developed one.
 
 ---
@@ -35,14 +39,23 @@ Ambient Wellspring saturation is low across the interior and violently irregular
 ## Bearing Stock
 
 **Trapstone** · *T2 · Stone · Flood-basalt terraces, western interior*
+
 Columnar basalt, split naturally into six-sided posts that require almost no dressing. The universal building stone of the quarter, **quarried by prying rather than cutting.** Resonates readily with Coagula and Fixatio, which the Braqthian tribal confederations exploit in their standing-stone work and which the west has never bothered to study. Bearing good, Holding moderate. Family Materia, Domain Material Science.
+
 **Greenskin Serpentine** · *T2 · Stone · Ophiolite belt, eastern coastal ranges*
+
 Soft, green, easily carved, and pleasant to work. In certain pods it is fibrous, and the fibres separate into a dust so fine it does not settle. Men who quarry the fibrous pods develop a scarring of the lung that appears twenty years after they leave the trade and **kills them regardless of what they did in the interval.** The Accord's Enforcement Division has posted no writ on this, and the coastal quarries have raised no objection to the absence.
+
 **Mireclay** · *T0 · Clay · Marsh basins of Dorrosfenn*
+
 Brittle, dissolves in strong Essence currents, used for short-lived summoning totems in rural spirit rites and for very little else.
+
 **Coilhide Leather** · *T2 · Beastkin hide · Ironcoils, native to Braqth*
+
 Training armour and gloves. Common enough in the southern quarter to be unremarkable and expensive enough in the west to be a minor trade.
+
 **Coalthread Cloth** · *T1 · Fabric · Southern weave, distribution uncontrolled*
+
 A black-laced weave that dulls aura flicker and burns readily. *The Accord notes without further comment that its principal known users are smugglers.*
 
 ---
@@ -59,6 +72,7 @@ A black-laced weave that dulls aura flicker and burns readily. *The Accord notes
 >
 > Bearing negligible, Holding high and specific. Resonance: Mortalis, Rebirthine. Family Vitalia, Domain Biochemistry.
 **Palebed Nitre** · *T1 · Mineral · Nitrate caliche, interior pans*
+
 Crusted nitrate salts left in basins that have not seen rain in living memory. Oxidiser for alchemical charge work, preservative for meat, **preservative for corpses**, and fertiliser where Marrowchalk cannot be got. Harvested by scraping. The pans have been worked for eight hundred years and are not measurably diminished. Resonance: Exuroth. Family Caloria, Domain Thermodynamics.
 > **Ashfast Chrome** · *T3 · Metal ore · Chromite pods in the serpentine belt, eastern coast*
 >
@@ -68,12 +82,19 @@ Crusted nitrate salts left in basins that have not seen rain in living memory. O
 >
 > Bearing extreme under heat, Holding nil. Resonance: Fixatio. Family Caloria, Domain Thermodynamics.
 **Stormfulgur** · *T4 · Natural glass · Fulgurite fields, nitre pans of the interior*
+
 Where lightning strikes the pans it fuses a branching tube of glass down through the crust, sometimes to the depth of a man's height. These tubes are naturally hollow, naturally continuous, and naturally aligned along the path a discharge took, which makes them **the cheapest ready-formed Essence conduit in the world.** The Braqthian confederations gather them after storms the way coastal people gather driftwood, and sell them by the armload to Accord factors who resell them at **forty times the price** for use in array trunking. Fragile, irregular, and impossible to manufacture. Resonance: Mirithane, Aurevane. Family Fulguria, Domain Electromagnetism.
+
 **Driftbone** · *T1 · Organic · Veil-tide shores*
+
 Hollow bone bleached by the tides, carrying whispers when hollowed, ritually carved by dream shamans. *What the tides are bleaching, and where it comes from, is not recorded, and the shamans decline to speculate in front of Accord surveyors.*
+
 **Gloomhide** · *T5 · Leather · Beasts born in forgotten spirit zones, southern interior*
+
 Repels light-based castings and weak divine strikes. Spiritually inert and physically hyper-resilient, which makes it the one material in the ledger that is simultaneously an ideal armour backing and **completely useless as a substrate.**
+
 **Grimbarite** · *T6 · Stone · Buried beneath the Crevice fault system*
+
 Repels both Fate and Name manipulation. Heavy, silent in all forms, **absorbs prayer.** Extraction requires working within the Crevice margin, and *the mortality figures for Grimbarite crews are not published.*
 > **Crevice Shale** · *T9 · Rock · The Crevice itself*
 >
@@ -96,6 +117,7 @@ The consequence is that almost all of the value added to southern material is ad
 ## What It Costs
 
 **Thirst**, which is the ordinary death. **Serpentine dust**, which is a slower one. **The pans**, which reflect enough light to blind a man in a season and which have no shade for forty leagues in any direction.
+
 And **the Crevice**, which does not kill in any way the Measurewrights have found language for, and which is why the four-league line exists and why it keeps moving outward.
 
 ---
@@ -122,7 +144,9 @@ Exports phosphate, nitre, chromite, fulgurite, hides, and labour. Imports water 
 ### Continental orientation
 
 **Classification:** Aether-Depleted Dragon-Dominant Supercontinent · **Epithet:** *The Land Beneath Empty Skies*
+
 **Primary sovereign power:** the Draconic Empire of Drakyssia · **Territorial share:** dragons and draconic bloodlines hold roughly **eighty percent** of recognised continental territory
+
 Minor sovereign populations: human frontier kingdoms, elven forest enclaves, mixed free cities, coastal protectorates, isolated mountain peoples.
 > The Outer World is not poor because it possesses nothing. It is poor because too many ancient things have already eaten.
 - **North** — immense tropical rivers, humid lowland, ancient rainforest, drowned valleys, stone tablelands and warm coastal basins. Much of the interior stays draconic because its forests conceal surviving Aether pockets available nowhere else. **The further inland, the less ordinary borders mean; dragon territory is often marked by flight range instead.**
@@ -139,9 +163,13 @@ Minor sovereign populations: human frontier kingdoms, elven forest enclaves, mix
 >
 > This is the principal reason dragons dominate. A dragon does not merely need territory. It needs **energetically viable** territory — and calderas, deep faults, ancient Wellsprings, geothermal basins, Soul-rich forest, storm corridors, glacial reservoirs and subterranean seams therefore carry political value equal to farmland, ports or gold. **The strongest draconic states do not hold land. They hold what remains beneath it.**
 Four processes emptied the reserve, and no account of them is disinterested.
+
 **Draconic consumption.** Large dragons passively draw more ambient Aether than entire mortal settlements. A region carrying hundreds of mature dragons is under constant metaphysical draw. Drakyssia learned to manage this through territorial rotation, volcanic recharge zones, controlled Wellspring access, migration law and subterranean reservoirs. Less disciplined draconic territories simply drained themselves.
+
 **Ancient warfare.** Dragon wars rarely leave ordinary battlefields. Breath alters geology; elemental conflict at scale destroys forests, evaporates lakes, fractures Wellsprings, destabilises Soul-plane recognition, vitrifies valleys. **Many modern Dead Zones are old battle zones.**
+
 **Wellspring extraction.** Ancient civilisations found methods of drawing directly on Wellspring currents and treated the supply as limitless. It was not. Several collapsed after exhausting local currents faster than the currents recovered, and the continent still carries enormous abandoned magical infrastructure around Wellsprings that no longer answer.
+
 **Continental drain.** The land appears to have lost part of its ability to circulate ambient Essence at all. Some Measurewrights hold that repeated extraction damaged the metaphysical equivalent of groundwater flow; others that the draconic population simply prevents recovery. Drakyssian scholars reject the accusation that dragons alone caused it and point at pre-imperial human, elven, demonic and vanished ruins demonstrating industrial-scale Essence use. **The safest conclusion is that everyone inherited a wounded continent and nearly everyone made it worse.**
 
 ### The Fourteen Great Regions
@@ -166,22 +194,31 @@ Four processes emptied the reserve, and no account of them is disinterested.
 ### Kra'Vorrak
 
 The Imperial Sky-Capital occupies the interior of a colossal volcanic complex. **The city rises rather than spreads.** Its lowest districts hold mortals, smiths, servants, markets, bonded houses, foundries and military industry. Higher districts hold dragon landing terraces, War-Wing barracks, noble roosts, ritual temples, command platforms, scholar keeps and avenues built for beings hundreds of metres long. At the highest levels stand imperial structures visible from dozens of miles out.
+
 Around it: **the Dragon Catacombs**, subterranean chambers where ancient dragons sleep and Bond Rituals are performed. **Avo'Kara Sanctum**, a ritual city for bond law, Soul Crystal rites, hatchery custom, draconic music and spiritual recognition. **Dova'Ruun Fortress**, the greatest military complex in the empire. **The Black Scale Ranges**, reserved for trueblood nesting. **The Wyrmdeep Cities** beneath the plateau. **The Iron Roosts**, Wyvern breeding and aerial-war fortresses. **The Ember Vaults**, treasury-forges built against controlled magma chambers. **The Drakhalis Throne Spire**, monument, imperial archive, mausoleum and ceremonial structure attached to the name of Kain Drakhalis.
 
 ### The Great Volcanic Belt
 
 The western margin is among the most geologically violent regions in the Continuum — thousands of active, dormant and extinct volcanoes along the Spine, several large enough to carry independent ecosystems.
+
 **Mount Kra'Vorrak**, the complex holding the capital. **Dova's Furnace**, an active stratovolcano used historically for military trials and large-scale dragon forging. **The Avo Caldera**, a partly collapsed basin of ritual sanctuaries and geothermal lakes. **Mount Veyrath**, among the highest active peaks, with lightning standing around its summit. **The Black Mother**, dormant, southern, its lava tubes holding ancient Wyrm settlements. **The Hollow Flame**, extinct, its magma chamber emptied into an underground cavern hundreds of miles across.
+
 Volcanic ground is among the only places where natural Aether replenishment stays comparatively strong, so nearly every major volcano is claimed — *sometimes by an empire, sometimes by a noble House, and sometimes by one dragon powerful enough that nobody has successfully informed it the land belongs to anyone else.*
 
 ### Metaphysical Terrain
 
 The continent cannot be read from ordinary geography. Depletion has produced classes of ground barely known on healthier land.
+
 **Exhausted Land.** Most of the continent. The Three Planes stay connected and magic still works, but the environment contributes almost nothing. Practitioners run on their own reserves, recovery is slow, large ritual working becomes expensive, and natural magical phenomena are uncommon.
+
 **Aether Wells.** Localised pockets where ambient density holds — around active volcanoes, deep fault intersections, ancient forest, underground crystal systems, glacial reservoirs, surviving Wellsprings, old nesting grounds, and places of extraordinary Soul or Fate recognition. *Almost every major Well has an owner. Most owners have wings.*
+
 **Draconic Saturation Zones.** Ground held by a powerful bloodline for centuries develops its own metaphysical climate from scale fragment, breath residue, Soul Crystal emission, shed blood, death sites and continual elemental expression. A fire territory may carry warm stone centuries after its owner dies. An ice lineage may permanently lower groundwater temperature. A storm lineage raises atmospheric charge. A Wyrm dynasty leaves stone unusually responsive to seismic speech.
+
 **Hollow Wellsprings.** Not Dead Zones — **empty infrastructure.** A skilled practitioner can still read what kind of law once ran through them, and they occasionally answer weakly during major celestial events or continental Essence surges.
+
 **Dead Zones.** Far worse. Material, Soul and Fate relationships are fractured, not merely drained. Magic may fail. **Names may lose local recognition.** Spiritual projections may not return correctly. Structures behave inconsistently. Drakyssia marks the known ones on imperial flight charts and even dragons avoid several.
+
 **Dragon Roads.** The aerial equivalent of Ancestral Roads. Thousands of years of repeated migration have made certain sky corridors recognised by Fate: reduced atmospheric resistance, stabler thermals, clearer spatial orientation, occasionally shortened effective distance. **Most converge on Drakyssia.**
 
 ### How Dragons Hold Ground
@@ -202,6 +239,7 @@ Eighty percent under direct, tributary, inherited or uncontested draconic contro
 ### How Mortals Survive
 
 The remaining fifth belongs to humans, elves, mixed peoples, free cities and small frontier civilisations, holding it five ways. **Economic necessity** — producing what the empire wants and prefers not to administer, grain kingdoms being the clearest case. **Geographic irritation** — land too wet, cold, dry, fragmented or Aether-poor to justify occupation. **Treaty recognition** — Drakyssia takes treaty law seriously where the original agreement was properly recognised. **Dragon patronage** — a powerful House has declared the place protected. **Military cost** — *a mortal kingdom does not need to defeat Drakyssia. It needs to make conquest less useful than cooperation.* That distinction governs most of Outer World diplomacy.
+
 The Ten Great Houses of Drakyssia
 
 ---
@@ -215,4 +253,5 @@ The Ten Great Houses of Drakyssia
 > **A fourth resolution, available here and possibly upstream.** The ledger is an **Accord document about ground Accord surveyors can reach.** Everything it records for this quarter is dry, low, treeless and westward-facing — which is precisely the Dust Coast, the Varakh Drylands and the Ashen South. If eighty percent of the continent is draconic and issues no survey permits, then the Measurewrights never wrote the wet half **because they were never let in**, and the ledger is not wrong so much as it is a partial survey wearing the confidence of a complete one. *That is diegetically better than any of the three exits offered on the Old World page, and it costs no canon.*
 >
 > **Whether it rescues the Old World too is a separate question and my answer is no.** Coal foreland, karst, coppiced woodland on eleven-hundred-year rotation and orange acid drainage are not an unsurveyed corner of an African-register supercontinent; they are a different landmass. The partial-survey reading works here and does not work there, which is itself evidence the two documents are misfiled differently.
+>
 > **Ruled 2026-09-12.** The Marrowchalk entry cited the Holy See of Lurien, dead canon, retconned and replaced by the Holy Sea of Alabaster. **Alabaster inherits the jurisdiction** over southern phosphate law, along with everything else it replaced. Fixed above.

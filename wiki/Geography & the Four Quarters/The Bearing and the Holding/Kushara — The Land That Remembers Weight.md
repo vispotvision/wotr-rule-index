@@ -11,6 +11,7 @@ verification: "unverified"
 # Kushara — The Land That Remembers Weight
 
 **Say it** · koo-SHAH-rah
+
 *The Land That Remembers Weight*
 > 🌐 An ancient Aether-dense supercontinent of desert, rainforest, savanna and rift, ruled from Kushara by eight houses, containing no elves or dwarves at all. Split out of *The Old World — The Western Wearing* by Isaac's ruling, 2026-09-12: this material was never the western quarter of the four-quarter ledger, it is a different landmass that had been carrying the wrong name.
 
@@ -19,7 +20,9 @@ verification: "unverified"
 ## Continental orientation
 
 **Classification:** Ancient Aether-Dense Supercontinent · **Epithet:** *The Land That Remembers Weight*
+
 **Primary sovereign power:** the territories unified beneath Dawn Guard
+
 The broad shape of a broken shield. Ancient even by the standards of the Continuum: its mountains have been eroded, raised and broken several times over, its rivers run through the ruins of civilisations whose names did not survive, and Wellspring pressure has worked the geology deeply enough that stone, metal, river and forest sometimes carry recognisable spiritual memory.
 - **North** — the largest deserts, salt basins, sandstone kingdoms, buried cities and volcanic glass fields. Immense aquifers and mineral seams beneath the dunes, left by ancient inland seas.
 - **West** — warm, humid, heavily forested. Rainforest descending toward dark estuaries, mangrove deltas, cliff-lined coasts and tropical islands.
@@ -51,6 +54,7 @@ The broad shape of a broken shield. Ancient even by the standards of the Continu
 ## The City of Kushara
 
 The city rises across natural plateaus over the **River Kesh**, districts joined by broad avenues, terraced gardens, bridges, stairways and fortified gates. The oldest districts are carved partly into the plateau itself; newer neighbourhoods run out into wooded hills and river plain.
+
 **The Golden Steps**, the processional stair down from the sovereign district to the old river markets, with a grass slope beside it that children race on. **The River Gardens**, shallow waterways and flowering arches and small painted boats, candlelit at festival and carrying messages downstream. **The Grand Court**, the largest Zettari training ground in the city, adults in the central court and children in the enclosures around it. **The High Gardens**, terraces on the upper walls holding ancient trees, fountains and elevated pools. **The Ancestral Halls**, stone sanctuaries preserving family cords, weapons, Zettari patterns, witness tablets, royal oaths and the records of the dead. **The Bridge of Evening Voices**, where musicians gather at sunset without arrangement and sometimes play until morning. **The Market of Twelve Roads**, where goods from every region of the continent arrive.
 
 ---
@@ -58,9 +62,13 @@ The city rises across natural plateaus over the **River Kesh**, districts joined
 ## Mountain systems
 
 **The Broken Spine** — volcanic chain following the Akar Rift. Obsidian, diamond, geothermal crystal, deep Wellspring pressure.
+
 **The Orunthal Crown** — high northeastern mountains feeding many of the continent's largest rivers.
+
 **The Golden Back** — eroded chain west of Kushara. Gold, iron and ancestral ruins in its lower valleys.
+
 **The Southern Teeth** — sharp mountains dividing the Auric Plateau from the Cape.
+
 **The Cloudwall** — western system that traps ocean air and feeds the Nyoka Rainsea.
 
 ---
@@ -68,4 +76,5 @@ The city rises across natural plateaus over the **River Kesh**, districts joined
 ## Government
 
 Ruled from Kushara by **House Zettari**, the Sovereign House, with the **Seven Pillars** — N'Kharu, Vokari, Malani, Obaru, N'Yari, Jomari, Zembari — each preserving one structure the continent cannot do without: armies, gold, food, medicine, strategic minerals, maritime trade, desert water. House Zettari is not a pillar; it is what keeps seven pillars from becoming seven crowns.
+
 Full house-by-house detail — seats, continental duties, greatest assets — is documented at [[Factions, Bloodlines & Institutions/Houses and Bloodlines/The Eight Great Houses of Kushara]]. Kept there rather than re-tabled here, so the continent has one table of the Eight Houses, not two.

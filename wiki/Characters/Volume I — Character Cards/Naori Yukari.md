@@ -11,6 +11,7 @@ verification: null
 # Naori Yukari
 
 **Say it** · nah-OH-ree yoo-KAH-ree
+
 *The Boy Who Sees the End of Every Thread · Niran's Heir · Card 15-A*
 > 
 > > **The wall will thin.**
@@ -22,7 +23,9 @@ verification: null
 ## I–II · Identity and Soul Architecture
 
 **As Of** The river bank, in his thirteenth year
+
 **Lineage** Human · Yukari Bloodline · **Age** 13 · **Sex** Male
+
 **Standing** Yukari Enclave · Ketsuen — *eldest son of the acting authority*
 
 | **Level / Stage** | **80 / 500** · Band I — Mortal Foundation · **Stage III — Ascension** · Grade **D** |
@@ -63,13 +66,21 @@ verification: null
 ## VIII–IX · Traits and Domain
 
 **Inzensho — The Illumination of the Total Cause** · Bloodline Innate
+
 Forward-temporal causal perception. Sees where the thread-web is going before the strands commit. At thirteen the range and resolution are growing but the interpretation is incomplete: he can see a conversation through a wall but cannot always parse what the words mean.
+
 **Cymorath Inheritance** · Bloodline Secondary
+
 Reads vibration, substrate frequency, structural resonance through contact and proximity. Sufficient to identify what a ward-carving will become before the carver finishes. *Not yet at Niran's layered tactical-map level.*
+
 **Thread-Shimmer** · Passive
+
 Black hair carries the Yukari thread-shimmer in Aether-dense environments. Not iridescent, not simply black. Present since early childhood.
+
 **Causal Impulse Mapping** · Emergent
+
 His own impulses are legible in the causal architecture before he commits to them. He can see where pulling away from someone would lead, what the hurt would become, how long the distance would last. ***This is not emotional intelligence. It is a perceptual tax levied on every decision.***
+
 **Domain** · None. No seed formation at Stage III.
 
 ---
@@ -85,8 +96,11 @@ His own impulses are legible in the causal architecture before he commits to the
 ## XIII–XV · Description, Psychology, Equipment
 
 5'7" at thirteen, tall for his age in the way Yukari males are tall. Growth arriving in the shoulders and forearms first, the body building itself for the inscription work the bloodline demands whether the individual chooses the craft or not. **Will be his father's height or taller.**
+
 Black hair past the shoulders, thread-shimmer active in the valley's Aether-dense air. **Crimson eyes — Ketsumyōgan corona consumed the iris entirely at eleven.** Thread-patterns rotate in the crimson field, slow and constant, tracking forward. At rest his eyes appear to be looking at something that is not in the room.
+
 Small build filling out. No scars. No inscription marks. Hands that fold behind his back with a composure that belongs to a man three times his age. **Weight forward, head slightly tilted — stands like his father and does not know it.**
+
 *Scent: cedar and limestone, the valley's mineral note, clean. No ink yet.*
 
 | **Core Wound** | **Can see where things are going and cannot stop them.** The perception arrived before the vocabulary to describe it. The vocabulary arrived before the emotional architecture to bear it. ***The wound is the sequence, not the seeing.*** |
@@ -104,20 +118,31 @@ Small build filling out. No scars. No inscription marks. Hands that fold behind 
 ### Voice
 
 **Notices first** · Where a thing is going rather than what it is: the end of the thread, and in a crowded room the one person whose thread does not fit.
+
 **Sentence length** · Short, each word placed the way a carver places an inscription point; rarely more than two sentences at once.
+
 **Contractions** · sometimes: easy in plain speech ("You're in it."), dropped when he denies something about himself ("I do not stand like Father.").
+
 **Pet word** · "I know."
+
 **Never says** · What the threads show him about the person he is speaking to, or where a thing will end. He does not ask for comfort; the one fear he has admitted aloud was to his father, on the stone above the gate.
+
 **Stumbles** · Never. He waits before he speaks instead.
+
 **Gloss rights** · Never in company. For his sister he teaches by doing, a hand on her forehead, not by explaining.
+
 **Under stress** · Shorter still and colder: hands behind his back, stillness, eyes on the threads, and a flat judgment delivered in his father's register ("We shouldn't involve ourselves with the weak.").
+
 **In grief** · The six-year-old on the stone comes back: "Father," and a question he should not need to ask.
+
 **In joy** · The voice holds; he almost smiles, and the almost is the whole of it; his hand goes to his sister's head the way his father's goes to his.
+
 **Sample line** · "That is not what I taught you."
 
 ## XVI–XVII · Temperance and Fractures
 
 **I–II complete.** III Ascension — active. *Crystal clarifying around the Inzensho as the primary axis.* **IV–XVI locked.**
+
 **Fractures** · None. ***The Crystal is accelerating but has not yet broken anything.***
 
 ---
@@ -125,13 +150,20 @@ Small build filling out. No scars. No inscription marks. Hands that fold behind 
 ## Relationships
 
 **Niran Yukari** · Father-Formative — *taught him the Telling, the Cymorath exercises, the meaning of the crow. Naori mirrors his posture, his silences, his weight-forward stillness. He does not know this. Niran does.*
+
 **Mira Yukari** · Mother-Anchor — *the warmth that stays constant. She reads Naori's face the way she reads Niran's — through contact, temperature, the quality of stillness. Her fear is not what he is becoming but what the becoming will cost him.*
+
 **Akira Yukari** · Sister-Tether — ***the one thread he cannot read forward and does not want to.*** He adapted a Cymorath exercise for her blindness. She extended it past anything he intended. The extending surprised him. Surprise is the rarest thing in his perceptual world.
 > **Settled Rulings**
+>
 > - **Level 80 / Stage III / Stats assigned** — conservative for the bloodline acceleration, but the boy has no training and no formal technique
+>
 > - **Inzensho: third Ketsumyōgan expression** — same faculty, temporal axis. Three-axis system: Shisen (spatial), Teishi (commitment), Inzensho (temporal)
+>
 > - **Father lateral, son temporal** — different axes of the same faculty. The Ketsumyōgan reads causality; the axis depends on which expression manifests
+>
 > - **Inscription/ward-craft: yes, reluctantly** — the body and the Telling demand it
+>
 > - **The coldness is the permanent cost of the seeing.** Akira is the crack. The flaw is not the coldness itself but that he mistakes the tax for wisdom
 
 ---
@@ -143,27 +175,37 @@ Small build filling out. No scars. No inscription marks. Hands that fold behind 
 #### Origin
 
 Naori Yukari was born at the Yukari Enclave, which the kingdom of Ketsuen calls Senri's Gate, in the autumn, three days after the last glyph of the Ward-Lighting was sealed into its station. His father, Niran Yukari, carved the valley's wards and held acting authority over the enclave. His mother was Mira, who had arrived from the southern corridor with ink on her fingers. The long hall still wept sap from its cedar beams.
+
 Niran did not send him to the Mage Academy. He raised him in the ways of the Yukari, the Telling first: the full account of what the blood carried, what it cost and what it demanded. A citizen of Ketsuen heard it on completing the Proving; a Yukari child heard it sooner, because the blood did not wait. Naori read threads from the time he could walk. His sight looked forward along the course of events. The elders named it Inzensho. Niran had met the name before them, in the thread-archive of the standing stones.
 
 #### The Making
 
 At six he could hear stone the way his father heard it. He sat at the edge of the practice yard where the young carvers worked, hands folded in his lap, and listened. He could tell what a carving would become before the carver finished it.
+
 That year he climbed with his father to the flat stone above the gate, where Niran held the midwinter Thread-Reading. He asked whether his father regretted being able to see these things. Niran put a hand on his head and told him that a crow must oversee the unfortunate events so that others do not have to, and that they should be grateful for the trust. Naori looked out over the valley. He said he could see himself much older on that stone, reading carvings that said things not yet decided. It was like hearing a conversation through a wall.
+
 "The wall will thin," his father said.
+
 "I know," Naori said. "That's what frightens me."
 
 #### The Cost
 
 When Niran came down from the stone, he told Mira the boy was growing faster than the record accounted for. "He is already becoming cold," he said. Mira answered that they would make sure the cold had something warm to come home to. The wall thinned. By eleven the crimson had consumed his irises, sooner than it had taken his father's.
+
 His own impulses showed in the threads before he acted on them. When he reached toward someone he could see where the reaching went, how the warmth would be damaged and how long the hurt would last. So he withdrew. He went alone to the river or the stone above the gate and stood with his hands clasped behind his back. He came in when staying out threatened something he valued more than being alone. He wanted to be the crow his father described. He counted every withdrawal as part of that work.
+
 His sister was the exception. Akira was born blind and could draw on nothing. When she was five he sat with her in the practice yard, set his hand on her forehead, and taught her to read the ground through her bare feet. He had cut his father's listening down to a form a sightless child could use. He made nothing of the kind for himself. The one exercise he ever adapted, he adapted for her, and she mastered it in three weeks.
 
 #### Where They Stand
 
 At thirteen he stood alone on the river bank from morning on, following the water's causes back to the Uplands snowmelt. Akira found him by the weight of his feet. She took his arm in both hands. The impulse to pull away showed in the threads, and with it the hurt she could not hide. He stayed. She showed him how far her reading reached now, to a fox in the cedar stand with three kits.
+
 "That is not what I taught you," he said.
+
 "I know. I added to it."
+
 He put his hand on her head, his father's gesture, without meaning to. They went in before the dumplings got cold.
+
 He is tall the way Yukari men are tall. The growth is coming into his shoulders and forearms first, the body building itself for inscription work, and he will learn the craft reluctantly. He carries no tools and no weapon and has not chosen what he will carry. There is no ink on him yet. He stands with his weight forward and his head tilted. Akira has told him that is how their father stands. He told her he does not. She says his jaw does a thing during Elder Tae's soil lectures. She is the one thread he cannot read forward. Nothing has tested it yet. What the carvings on the stone will say is still undecided.
 
 #### Ties

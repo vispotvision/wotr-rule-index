@@ -102,8 +102,11 @@ The Accord acknowledges that **not all wars are mortal.** When Titans, Archons, 
 
 All Enforcement and Strategic personnel are bound by three sacred Oaths, **carved into their bones at initiation.**
 > **The Oath of Blindness** · *"We see corruption, not race, creed, or kin."*
+>
 > **The Oath of Burden** · *"Our lives are weights upon the scale."*
+>
 > **The Oath of Still Flame** · *"We burn only when law demands."*
+>
 > These oaths **glow when the bearer lies or hesitates in their duty.** Should an agent willingly break their oath, their Essence immediately collapses into the Lattice, rendering them soulless — **a living husk called a White Shell.**
 
 ---
@@ -111,6 +114,7 @@ All Enforcement and Strategic personnel are bound by three sacred Oaths, **carve
 ## Wars of Wells
 
 The most sacred responsibility of the Concord Legions. **These are not wars of land but of Essence.** Each side attempts to alter the balance of Wellspring resonance across realms using mass Aetheric rituals and Divine Conduits.
+
 Concord strategy focuses on **harmonic interference — breaking the enemy's rhythm rather than their armies.** To capture a Wellspring is to control emotion itself; to lose one is to weaken the world's stability.
 > During the last War of Wells, the Concord sealed six corrupted Wellsprings **at the cost of one hundred thousand lives and a third of the Lattice's total light.**
 >
@@ -121,10 +125,16 @@ Concord strategy focuses on **harmonic interference — breaking the enemy's rhy
 ## Heroes and Legends
 
 *The Guild Accord rarely speaks the names of its champions, for the law forbids pride in duty. But in every realm, whispers remain.*
+
 **Ser Varnath Rhogar**, the Scorn of the Outer World — **held a Gate open with his body long enough for a million souls to flee.**
+
 **Aerym Snowveil**, Veilkeeper of Iampu — **froze an entire ocean to trap an invading god.**
+
 **Karo Venrik**, the Foolish Magus — **turned his own Essence into harmonic resonance to stabilize a collapsing Wellspring.**
+
 **Opalis Maethryn**, the Radiant Arbiter — **judged ten nations in silence and restored the law through mercy.**
+
 Their names are engraved in the **Wall of Resonance**, deep beneath the Concord Citadel, *where only the High Concordant may walk.*
 > *"To hold the law is to become its weapon. To wield the law is to become its wound. We are the first flame and the final breath — the sound between creation and collapse."*
+>
 > — Engraved upon the Hall of the Vanguard, Year 014 IC, Voyager Era

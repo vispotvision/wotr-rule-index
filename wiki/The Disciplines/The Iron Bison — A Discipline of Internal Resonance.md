@@ -34,13 +34,16 @@ verification: "unverified"
 Where conventional practitioners convert Essence into Aether and release it outward, the Iron Bison practitioner declares **the body itself the only lawful destination of every unit of soul-fuel they generate.**
 > The Aether Shell is not a window through which force leaves. **It is a kiln in which force accumulates.**
 Each of the seven Resonance Nodes becomes a sealed compression chamber rather than a venting valve, and the Crystal cycles its own output back through itself in a closed loop, densifying with every pass.
+
 Anima Spirare's cooperative binding means **the delivery curve steepens with demand**: the harder the body draws, the more readily the soul gives. Fixatio's thermoset cure means **what is sealed does not unseal by wanting it to.** Together they produce a practitioner whose resting density climbs with every breath they do not spend, **and whose body, over years, becomes denser at idle than another fighter's at peak invocation.**
 > The discipline's adherents believe the loop is indefinite. **The discipline's critics point out that indefinite and infinite are separated by the distance between a philosophy and a funeral.**
 
 ### The three propositions
 
 **First** · Aether that never leaves is Aether that never depletes. **Externalization is a tax.** The Iron Bison refuses the tax. Nothing crosses the Shell boundary; nothing is spent that cannot be re-spent on the next cycle.
+
 **Second** · The seven Nodes are not valves, **they are chambers.** Conventional practice treats them as waypoints Essence passes through on its way out. The Iron Bison reverses their polarity: each accepts Essence from above and below, compresses it, and hands it back denser than it arrived.
+
 **Third** · **The bottleneck is containment, not generation.** Most practitioners fail because they run out. An Iron Bison practitioner fails because they cannot hold what they have. *Containment is the entire discipline. Everything else is footnote.*
 
 ---
@@ -88,7 +91,9 @@ flowchart LR
 ## Synergies
 
 **Petralon affinity** · A load-bearing skeletal lattice that does not splinter under compounding compression — bone with the same engineering as stone in compression, **strongest exactly where the Iron Bison places the most weight.** The practitioner stops fearing additional cycles because the structure reports, breath by breath, how much more it can hold.
+
 **Orrenthal-tempered marrow** · Electromagnetic coherence through the bone's mineral lattice, letting compression express as **field strength as well as physical density.**
+
 **Basilithe ground-resonance** · Locks the Crystal's natural frequency against external forcing. Combined with the sealed system this makes the practitioner **nearly immune to resonance-based disruption.**
 > A practitioner carrying both the Iron Bison and a Petralon-tempered frame does not simply hit harder. **They harvest every fight**, converting every refused projection into a permanent increment of load-bearing infrastructure.
 
@@ -97,8 +102,11 @@ flowchart LR
 ## Why It Is Dangerous
 
 **It scales without visible ceiling**, so long as the Crystal holds, because the expenditure side of the equation has been removed.
+
 **It is invisible.** The cured Shell emits no Carrier Wave Modulation. **Veteran Gnosis-users and dedicated Essence-readers have stood beside adepts and read them as untrained.** *This stealth is not a technique. It is a structural consequence of the design.*
+
 **It compounds against anyone who projects.** Every cycle the opponent expends, the Iron Bison practitioner has been refusing to expend for longer. **Time favours containment.**
+
 **It demands no outward signature.** No chant, no glyph, no posture. **Disruption-based counters require a target to disrupt, and the Iron Bison provides none.**
 > They take blows that should have killed them. They let the fight stretch. They answer with a single gathering — **and somewhere around the second hour, the opponent realises the practitioner has been compounding the entire time.**
 
@@ -107,9 +115,13 @@ flowchart LR
 ## Counters and Weaknesses
 
 **Root disruption** · Resonance-disruption, spatial displacement or Chthonica-fouling compounds against the pelvic region. **Once the root fails, accumulated density drains downward through the practitioner's own legs into the ground, and the loss is not recoverable mid-fight.**
+
 **Contamination** · Introduce a foreign signature into the sealed system and **it circulates to every chamber on the next cycle.** Toxokinetics, Nihiloth-aspected void contamination and Oneirion-class interference all exploit this.
+
 **Uncontrolled nucleation** · Rapid successive strikes, resonance bombardment, or forced emotional surges that flood the heart chamber trigger Coagulatio's failure mode.
+
 **Irreversibility** · **The cure does not reverse.** A practitioner at terminal expression has sealed themselves so thoroughly that release, when it comes, is not a controlled strike but a detonation the body cannot survive. *Opponents with sufficient patience can simply wait for the crossing from sealed vessel to bomb.*
+
 **Anti-resonance and null fields** · Without Phreatis circulation the chambers operate independently, pressure differentials build between adjacent nodes, and **the system tears itself apart along its own internal boundaries.**
 
 ---
@@ -117,11 +129,14 @@ flowchart LR
 ## Philosophical Tension
 
 The discipline carries a worldview, and the worldview is not incidental — **it is Trait-formation pressure.** Resilience Anchoring and Tempering Compression both structurally reward the practitioner for believing that containment is virtue, **and the belief compounds with the density.**
+
 It treats outward miracle as waste and waste as moral failing. A practitioner deep into the discipline views other casters as profligate: **people who pour their inheritance onto the ground and call it strength.**
 > It interprets every leakage, every involuntary spark of projection, as personal corruption. **Imperfection of seal becomes imperfection of self.** At advanced stages the practitioner regards their own emotions as leaks to be plugged rather than signals to be read, **which is the point at which the Iron Bison stops being a discipline and starts being a pathology.**
 >
 > Materia's terminal corruption is **Petrification Compulsion.** The Iron Bison does not accelerate this failure. **It provides the philosophical justification for it.**
+>
 > Used with discipline, the Iron Bison is a quiet, indefinite well of soul-fed strength that lets a mortal endure what should have ended them.
+>
 > Used without restraint, it is **a sealed reactor walking among people, denser by the breath, unable to spend, and one bad day from going off inside its own ribcage.**
 
 ---

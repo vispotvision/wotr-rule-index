@@ -11,6 +11,7 @@ verification: "unverified"
 # Cosmology & Metaphysics
 
 > Three planes, nested rather than stacked. Fourteen crowned ideas administering the principles that make the planes legible to each other. One threshold where the laws of all three become negotiable. And, running underneath the whole architecture, a count that was wrong by a factor near forty until somebody checked the ash.
+>
 > *"Reality is the shape that possibility chooses to wear for a little while. The Plane of Fate is the wardrobe."* — Fragment of the Lattice of Names
 
 ---
@@ -18,6 +19,7 @@ verification: "unverified"
 ## The Architecture
 
 Everything in this section descends from a single event that no surviving record explains. Before it there was **Omnara**, the state of totality before totality required compartments. After it there were three currents, and from the three currents three planes, and from the three planes three sovereign intelligences, and from the tension between those three the **Fourteen Archons** condensed into conceptual sovereignty.
+
 The planes are nested, not stacked. The **Plane of Fate** lies deepest, the lattice upon which all possibility rests. The **Soul Plane** lies between, the stratum through which abstract law becomes a soul's felt truth. The **Physical Plane** sits at the surface, where truth becomes event, body, ruin, and mountain range. Wherever one plane's law borders another's, a transition zone must exist, and that transition zone is the **Veil**.
 ```mermaid
 flowchart TD
@@ -46,7 +48,9 @@ flowchart TD
 ## The Count
 
 The cosmological record and the historical record are two different conversations, and the Guild of Measurewrights has ruled formally that they are not to be reconciled with one another.
+
 The **Epochs** are cosmological. Their durations survive in figures running to the tens and hundreds of thousands, and the Guild has examined every one of those figures and found that not one derives from a count. No calendar existed. No observer stood outside an Epoch to mark its passage. The **Ages** are historical, counted and attested by physical evidence, and the whole of them runs from Year −1,400 to the present.
+
 A document giving both is giving a myth and a measurement, and expects the reader to know which is which.
 > Every claim resting on antiquity is worth less than it was before the Concordance was sealed. A house that held title by right of thirty thousand years now holds it by right of six hundred. The title is not weaker in law. It is weaker in the only currency such claims actually trade in.
 
@@ -69,15 +73,25 @@ Three institutional voices produce the material in this section, and they do not
 > **The reading order.** Ten documents. The path runs inward from the totality that broke, out to the beings that came of it, and then to the two corrections the Guild made to the record everyone had been reading.
 >
 > **1 · Omnara and the Division** — the totality before partition, and the event no surviving record explains.
+>
 > **2 · The Three Epochs** — the cosmological account. Myth, and known to be.
+>
 > **3 · The Fourteen Titans** — the geologic and cosmic architecture. Titanic Law, and the ground the Wellsprings pool in.
+>
 > **4 · The Fourteen Archons** — the crowned ideas administering the principles that make the planes legible to one another.
+>
 > **5 · The Veil** — the threshold running between all of it. **The single most cross-referenced page in the wiki.**
+>
 > **6 · The Celestial Host** — the beings Law folded in order to witness itself.
+>
 > **7 · The Crossing and the Making of the God Hand** — the one surviving account of what the far side looks like from inside.
+>
 > **8 · The Concordance of Ages** — the count, corrected. Read this before trusting any date anywhere in the wiki.
+>
 > **9 · Errata to the Received Registers** — what the correction cost, entry by entry.
+>
 > **10 · The Four Ceilings** — why the world's technology sits where it sits, and what removed the limits.
+>
 > **The two conversations.** The **Epochs** are cosmological: their durations run to the hundreds of thousands and not one of them derives from a count. The **Ages** are historical, attested by physical evidence, and run from Year −1,400 to the present. *A document giving both is giving a myth and a measurement, and expects the reader to know which is which.*
 *The groupings below are the filing. The order above is the path.*
 

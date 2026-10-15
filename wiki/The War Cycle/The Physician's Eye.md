@@ -21,10 +21,15 @@ verification: "unverified"
 
 > **There is no instrument. There is a hand, an eye, a nose, and thirty years — and the thirty years are the instrument.**
 **Colour** · Pallor and the specific grey of serious blood loss. The dusky purple-black of tissue that has stopped receiving. **The advancing red of spreading infection, which is read by marking its edge with a fingernail and looking again in an hour.** Yellow in the sclera.
+
 **Smell** · **The most underrated instrument in surgery and the one that carries furthest.** Sweetish rot means gas in the tissue and means the limb. The flat foul stench of hospital rot. Voided bowel means the abdomen is open whether or not you can see where. *Experienced surgeons diagnose from the tent doorway and are right.*
+
 **Heat, by hand** · Local heat is inflammation. General heat is fever. **Cold and clammy is the body giving up its extremities to keep its centre, and it is the worst sign available to a hand.**
+
 **Texture** · **Crepitus under the fingers, which is gas and is a death sentence.** Boggy oedema. The hardness of a mass. The give of an abscess.
+
 **Sound** · The wet suck of an open chest. The rattle. **And the absence of sound where sound is expected**, which is the surgeon's tell for a Wellspring wound.
+
 **The pulse** · Fast and thin is the body running out. **The single most useful number available without instruments**, and every competent practitioner takes it before they take anything else.
 > **What cannot be read.** Internal bleeding until it is too late. The depth of an infection. Organ damage that has not reached the surface. Whether a man will survive an amputation, **which is unknowable and is guessed at daily.** And whether a wound is carrying a fragment.
 
@@ -36,6 +41,7 @@ verification: "unverified"
 >
 > *This is the central distinction of the discipline and the one that separates a field surgeon from a butcher with a saw.*
 A blade opens tissue **and stops.** The damage is total at the instant of contact and everything afterward is the body's own work.
+
 A wound inflicted by a Wellspring process **does not stop.** A portion of the process was invoked into the body and was interrupted by the body, **and what remains is a fragment attempting to complete itself in the tissue it landed in.**
 > **The wound is not a hole. It is an instruction, partially executed, still executing.**
 
@@ -51,8 +57,11 @@ A wound inflicted by a Wellspring process **does not stop.** A portion of the pr
 ### What can be done
 
 **Sealwright referral** · **The only genuine treatment.** A fragment is a Parunic problem and requires a Parunic answer — **closure of the unfinished sentence rather than removal of the tissue.**
+
 **Amputation proximal to the fragment** · Works, **if the fragment has not travelled, and the surgeon cannot know whether it has.** *The commonest treatment in the field, and a bet made with somebody else's limb.*
+
 **Containment** · Sealed dressing, isolation, and a rule that nobody touches the dressings without the Sealwright's own materials. **Fragments transfer**, which is why *a surgeon working fragment wounds has a shorter career than one who does not.*
+
 **Nothing** · **The commonest**, because Sealwright teams are attached to sieges rather than to infirmaries, **and a Legion in the field carries perhaps two for four thousand men.**
 
 ---
@@ -60,10 +69,13 @@ A wound inflicted by a Wellspring process **does not stop.** A portion of the pr
 ## The Three-Layer Model, Read Backward
 
 *The combat literature describes a strike in three layers. A surgeon meets the same three in reverse order and cannot always tell which they are looking at.*
+
 **The Physical layer** · What the surgeon can see. Torn tissue, broken bone, opened vessel. **Treated conventionally and successfully, and this is the majority of the work.**
+
 **The Essence layer** · What the surgeon infers. Conduction channels cut, resonance nodes disrupted, **the patient reporting that a technique they have used for twenty years does not answer.** Not visible, not treatable by the knife, **and frequently the injury the patient actually cares about.**
 > **A practitioner who has lost a hand and lost a harmonisation will grieve the harmonisation.**
 **The Hermetic layer** · The fragment. **The layer that will kill a patient the surgeon has otherwise saved.**
+
 *The diagnostic difficulty is that all three present at the same site and the surgeon has hours rather than days. The standing instruction is to treat the Physical, note the Essence for the Anima Harmonic assessors, and refer anything that will not granulate.*
 
 ---
@@ -71,6 +83,7 @@ A wound inflicted by a Wellspring process **does not stop.** A portion of the pr
 ## Triage
 
 *Somebody has to decide. Everything else in this document is technique and this is the job.*
+
 The sorting is **by salvageability rather than by severity**, and it produces four groups in every army in every quarter.
 
 | Group | What is done |
@@ -87,6 +100,7 @@ The sorting is **by salvageability rather than by severity**, and it produces fo
 ## What the Surgeon Costs Themselves
 
 **The hands** · Fragment transfer, chronic. **A career working Wellspring wounds ends in a specific documented deterioration of the hands that the Anima Harmonic assessors can recognise across a room.**
+
 **The fever** · Surgeons take what the camp has and take it earlier, from working among it. **Camp fever kills surgeons at a rate higher than any other specialisation in a Legion establishment including the line.**
 > **The sorting** · No physical mechanism **and the most reliably reported injury in the entire literature.**
 >
@@ -97,6 +111,9 @@ The sorting is **by salvageability rather than by severity**, and it produces fo
 ## Unresolved Entries
 
 **Fragment travel** · Whether and how fast a fragment migrates **is not established. Every field practice around amputation depends on the answer and there is no answer.**
+
 **Sealwright establishment in infirmaries** · **Two per four thousand.** Requested at four per thousand in **nine consecutive returns.** Not funded, on the stated ground that **Sealwright teams are an Enforcement asset and infirmaries are a Logistics responsibility.**
+
 **The quiet** · Whether the surgeon's flattening and the Distillation specialist's flattening are one condition. **Asked twice. Not answered.**
+
 **The fourth category** · No manual names it. Four surgeons have proposed naming it. **The Division's position is that naming it would not change what is done about it, which is correct.**

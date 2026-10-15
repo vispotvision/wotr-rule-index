@@ -575,3 +575,54 @@ ol.wotr-road > li:nth-child(odd) .evs { justify-content: flex-end; }
   font-style: normal;
   color: #d8ab4f;
 }
+
+// ---------------------------------------------------------------- breathing room
+article p {
+  margin: 0 0 1.15em;
+  line-height: 1.75;
+}
+
+article h2 { margin-top: 3rem; margin-bottom: 1.1rem; }
+article h3 { margin-top: 2.2rem; margin-bottom: 0.8rem; }
+article h4 { margin-top: 1.8rem; margin-bottom: 0.6rem; color: var(--tertiary); }
+
+article ul, article ol { margin: 0.6rem 0 1.4rem; }
+article li { margin: 0.35rem 0; line-height: 1.65; }
+article li > p { margin: 0.3rem 0; }
+
+article blockquote { margin: 1.6rem 0; padding: 0.9rem 1.3rem; }
+article blockquote p { margin: 0.5em 0; }
+article blockquote p:first-child { margin-top: 0; }
+article blockquote p:last-child { margin-bottom: 0; }
+
+.table-container { margin: 1.6rem 0 2rem; }
+.table-container td { padding: 0.7rem 0.85rem; }
+.table-container th { padding: 0.65rem 0.85rem; }
+
+// a run of "**Term**: meaning" lines becomes a glossary of small cards
+.wotr-glossary {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+  gap: 0.75rem;
+  margin: 1.4rem 0 2rem;
+}
+
+.wotr-glossary > p {
+  margin: 0;
+  padding: 0.8rem 1rem 0.9rem;
+  border-radius: 10px;
+  border: 1px solid color-mix(in srgb, var(--wotr-gold) 22%, transparent);
+  background:
+    linear-gradient(160deg, color-mix(in srgb, var(--wotr-gold) 8%, transparent), transparent 70%),
+    color-mix(in srgb, var(--light) 92%, black);
+  font-size: 0.97rem;
+  line-height: 1.5;
+}
+
+.wotr-glossary > p > strong:first-child {
+  display: block;
+  font-family: var(--headerFont);
+  font-size: 1.15rem;
+  color: var(--wotr-gold);
+  margin-bottom: 0.2rem;
+}

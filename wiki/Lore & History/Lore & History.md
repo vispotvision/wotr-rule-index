@@ -19,7 +19,9 @@ verification: "unverified"
 ## Why These Two Sit Together
 
 **The Alftian Codex** and **The Veil** describe the same territory from opposite ends.
+
 The Veil is the formal account: **Liminal Interface, Inter-Planar Threshold**, governed by Transference under Sylorin, with Temperance gates and certification requirements and an Accord regulatory apparatus. It tells you what the threshold is and what it costs to cross deliberately.
+
 The Alftian Codex is **what it looks like from inside a life.** A terrace-farmer's son who read astronomy for pleasure, three friends who fell ill, a necromantic commission nobody should have taken, and a two-hundred-and-sixty-year-old unfinished decision waiting in a mountain hollow for one specific person to walk into its radius.
 > One document explains the mechanism. **The other is the mechanism happening to somebody**, and it arrives at a correction to the Hermetic Principle of Correspondence that the formal literature does not contain.
 
@@ -40,5 +42,6 @@ The Alftian Codex is **what it looks like from inside a life.** A terrace-farmer
 
 **The Alftian Codex** carries all three volumes beneath it. **The Veil** is the cosmological classification of the threshold the Codex spends three volumes crossing.
 > *"That which courseth above is as that which courseth below. That which burneth in Tempus burneth also in the Soul Crystal. There is but one law, and it is everywhere."*
+>
 > — Vis Trismegistus, recovered inscription, Herald's Archivum, Urbis
 - [[Lore & History/The Alftian Codex/The Alftian Codex]]

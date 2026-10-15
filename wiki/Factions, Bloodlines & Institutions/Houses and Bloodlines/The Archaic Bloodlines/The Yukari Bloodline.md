@@ -20,11 +20,13 @@ verification: "unverified"
 ## The Interstitium
 
 The gap between the Second and Third Epochs lasted approximately **200,000 years** — called the Interstitium, the Long Silence, or **the Age of Weight Without Breath.**
+
 Aegor's work was done. Matter existed. Form endured. The Physical Plane was complete. **But the Soul Plane was dormant**, and the Plane of Fate held its threads in a static weave, unchanging, because the breath that would give those threads motion had not yet arrived.
 > The world during the Interstitium was a world of stone and silence. **Bodies existed but did not dream.** Eyes saw surfaces but could not perceive depth. The Veil was a membrane so thick that nothing passed through it in either direction.
 >
 > Mortals lived and died and their lives left no imprint on the Soul Plane because the Soul Plane was asleep — **a loom with no weaver and no breath to move the shuttle.**
 Three figures rose during this period, whose existence should have been impossible under the metaphysical conditions of the age. History calls them **the Legendary Three of the Long Silence.** The first was a warrior whose name the Zettari carved into their foundational stele. The second was a lawmaker whose principles the Moto incorporated into the earliest draft of the Loom's administrative protocols.
+
 **The third was Senri.**
 
 ---
@@ -51,6 +53,7 @@ By forty he could describe what he saw, on stone tablets that survived the Inter
 ### The death
 
 He died at sixty-three, roughly 120,000 years before the Third Epoch. His eyes had gone blind and recovered six times, **and the sixth recovery was incomplete** — leaving his left eye permanently darkened while his right retained partial thread-perception at a fraction of its former range.
+
 He died in a clearing, sitting against a stone, **facing east, because east was the direction from which the approaching warmth was strongest in his failing perception.** His last words were carved into that stone with a chisel his hands could barely hold:
 > 
 > > *"The breath is closer now. I will not see it arrive. But I have seen that it will arrive, and the seeing was enough.*
@@ -77,8 +80,11 @@ Over the 120,000 years between Senri's death and the Third Epoch's arrival, the 
 ## Physical Appearance
 
 **Stature** · 5'6" to 6'6", lean and long-limbed rather than broad. **A Yukari's posture communicates observation**, the body arranged to maximize sensory intake rather than physical imposition. Narrow shoulders, long fingers, feet that sit flat and quiet. *They move the way their founder moved: slowly, precisely, with the economy of someone who has learned that unnecessary motion produces unnecessary noise.*
+
 **Eyes** · Dark irises from near-black to deep brown, with **the faint violet-black corona of the Ketsumyōgan visible at the pupil's edge even in dormant state.** When active, the corona brightens to luminous crimson and thread-patterns rotate within the iris.
+
 **Skin** · Complexions from dark earthen brown to pale cool ivory. Ketsumyōgan-bearers develop **thread-marks** over time: fine luminous lines beneath the skin along the forearms, the backs of the hands, the temples, and the base of the skull, **tracing patterns that resemble root systems or the branching architecture of a tree seen from below.** *These are not tattoos. They are structural impressions left by sustained use — the Veil leaving its mark on the body that perceives it most frequently.*
+
 **Hair** · Most commonly jet black; blonde with notable frequency; deep crimson streaks in bearers of strong Seikai-derived heritage. **Thread-Shimmer** appears in active bearers: a faint luminous quality in low light, as though individual strands carry residual Aetheric charge.
 > **Auditory resonance.** Yukari voices carry what other lineages call **the Quiet Weight.** Their speech does not project force. **It settles.** A Yukari speaking in a room produces the effect of a room becoming slightly more attentive, *as though the walls have leaned inward by a fraction of an inch.*
 >
@@ -89,8 +95,11 @@ Over the 120,000 years between Senri's death and the Third Epoch's arrival, the 
 ## Culture
 
 **Marks of mastery** · A line, curve, or sigil near the eyes signifies mastery of the ability to see fate. A symbol on the forehead declares mastery over Psionics. **To bear both marks is rare** — a sign of one who has walked the dual path of Fate and Psionics.
+
 **Meditation over prayer** · The Yukari turn inward, reinforcing solitude of mind, sharpening psionic power and preserving connection to fate's weave.
+
 **The pursuit of knowledge** · Books, scrolls, and records are their treasures. *A sharpened mind is stronger than any blade.*
+
 **Death and beyond** · Death is not an end. **It is a return.** Those who die naturally are believed to join Adenyus and their ancestors within the vast psionic realm.
 > **The Telling.** Every Yukari child of age receives the full account of what they carry, what it costs, and what it means.
 >
@@ -98,6 +107,7 @@ Over the 120,000 years between Senri's death and the Third Epoch's arrival, the 
 >
 > **The Yukari name is not automatic biological inheritance. It is chosen at the Telling.** Bearers who accept what they carry take the name. Bearers who do not are not pressured. **Both choices are valid. The name is a statement of intention, not a birthright.**
 **Grief as catalyst** · The bloodline has an acknowledged relationship between grief and higher Psionic expression. **This is not romanticized. It is treated as a known risk and a known mechanism**, discussed plainly and prepared for.
+
 **Signature imagery** · Silver threading through dark. Geometric patterns surfacing under pressure. Still water before a stone hits it. **The moment before a decision when all outcomes are still open.**
 
 ---
@@ -112,6 +122,7 @@ The Yukari's alignment with the Third Epoch is the most unusual of the three, **
 >
 > — the Empyreal Veil's echo-archive
 **Ashura did not create the Ketsumyōgan. She stabilized it.** Before the Third Epoch, every bearer paid with progressive Crystal degradation, blindness cycles, Threadburn, and shortened lifespans. **Bearers burned bright and burned out, and the bloodline survived only because enough children inherited the eye to replace the parents who were consumed by it.**
+
 When the Soul Plane awakened, Temperance progression became possible and the blindness cycles ceased in most bearers. **The Threadburn remained**, because the triplanar data load is inherently destructive regardless of Soul Plane support — but the damage became manageable rather than terminal.
 > The Yukari did not worship her for this. **They acknowledged her.**
 >
@@ -155,5 +166,6 @@ When the Soul Plane awakened, Temperance progression became possible and the bli
 ## Legacy
 
 The Yukari endure. **Not through strength. Not through numbers. Not through political influence or military capability.** They endure through sight — through the quiet, persistent, costly act of perceiving what others cannot and carrying the weight of what they perceive without breaking under it.
+
 Senri's stone sits in the archive. The words are still legible. Every child who takes the name reads them and understands, or begins to understand, what it means to carry the Ketsumyōgan: **that the sight is a gift and a sentence, that the cost is paid by the seer, and that the threads connect everything to everything.**
 > **The crow perches. The crow watches. The crow remembers.**

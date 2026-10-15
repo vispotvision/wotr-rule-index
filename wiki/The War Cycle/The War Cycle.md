@@ -54,7 +54,9 @@ flowchart TD
 ## What the Cycle Argues
 
 Read in order, the eleven documents make one case and it is not a flattering one.
+
 **An army cannot be beaten by a practitioner and a practitioner cannot be beaten by an army**, so wars are fought over ground, and ground is held by ordinary men in numbers. **Those men are chained to fodder arithmetic**, and the practitioners among them are chained to **geology** — which means campaign routes run vein to vein and half the sieges in the record are of places nobody valued.
+
 Most of a campaign is therefore spent **sitting outside somewhere, digging, waiting, and dying of camp fever.** And the reliable instrument for actually breaking an enemy is neither the battle nor the siege. **It is riding through his country and burning the means by which he pays for an army.**
 > Which puts the Accord in a specific position. **It is constitutionally incapable of a war of conquest** — the Law of Reversal sees to that. It is also the institution whose own after-action record for stormed towns contains a consistent discrepancy between the Scribe's account and the returns of the surviving population.
 >
@@ -65,7 +67,9 @@ Most of a campaign is therefore spent **sitting outside somewhere, digging, wait
 ## The Missing Fifth
 
 **Sack and Contribution is the sixth of the cycle. The Practitioner Problem is the first, the Order of Battle the second, the Long March the third, and Walls the fourth.**
+
 The fifth is **The Camp**, cited by name in the Long March as the document describing what happens to an army's water and to the men who drink it. It is not held in this archive.
+
 Its absence is load-bearing. **Every document in the cycle points at camp disease as the largest killer in warfare** — the Order of Battle records more Legion men lost to it than to every enemy in the field, and Walls records besieging camps losing more to it than the garrison loses to everything.
 > **The cycle's largest cause of death is the one volume nobody has.**
 

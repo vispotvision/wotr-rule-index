@@ -12,6 +12,7 @@ verification: "unverified"
 
 *The cult of the Living Cauldron · its cells are cultures · its recruits are inoculated*
 > *"I do not need a reason. I need a gradient."*
+>
 > *Malphas, to the Greyshaft Nine culture*
 
 ---
@@ -19,8 +20,11 @@ verification: "unverified"
 ## What The Mother Is
 
 The Mother is a cult, and it takes its name from the mother of vinegar: the living culture that sours whatever it is added to. Put a spoon of it into good wine and the wine is vinegar within the season, and nothing the vintner does afterward will make it wine again. **The cult means the name exactly.** It does not conquer what it enters. It is added, and the thing it was added to turns.
+
 Its cells are called **cultures**. A new member is **inoculated**. A culture is small, four or five people and their founder's attention, and it works in a cold place nobody is watching. It does not recruit by sermon. It recruits by offering what the state has refused.
+
 **The founder is a lich**, the Living Cauldron, called Malphas: expelled from the Pyraeon Forge Academy and declared a metaphysical threat, unbound in life, and bound now only to himself. Beside the cultures he keeps a Rot Host in the field under its own commanders. The cultures are the part of him that does not march.
+
 **It began as a method and became a faith.** While the founder lived, The Mother was a cult of his rot-method: its cultures learned the work, ran it where nobody drew, and followed him for what the work could do. Greyshaft Nine was a culture of those years. The Becoming turned it. When the founder ran out of body and did not die, the cult became a religion of the Becoming, and its members now seek his path to undeath and worship the rot. It still recruits by offering what the state has refused. The faith is taught to the inoculated and never preached outside.
 
 ---
@@ -48,8 +52,11 @@ The Heresiology of Alchemy describes the Mother's doctrine without naming the cu
 ## How a Culture Works
 
 **It draws nothing, and it couples nothing.** Every attribution a Register has ever signed works off one fact: a practitioner who draws ambient Aether couples it to his Crystal, and coupled Aether keeps the signature of what coupled it. A culture's best work is built so that the signature belongs to something else. At Greyshaft Nine the culture put a formulation into living animals and let the animal's own Lattice run the working, so the residue in the field was signed by the deer. The classifying desk returned it as **a Verdantia bleed, no operator indicated**, closed it in two days, and was right to.
+
 **It keeps the hand and the purse apart.** Under the Accord's article on the speaking, liability for a working falls on the person who paid for it. A culture therefore has a buyer who buys in his own name, off lawful contracts, and enters what he takes as wastage. The buyer is the member the cult expects to lose.
+
 **It chooses its own names.** A named project is a filed project, and a file is built off whatever is written down. The founder names each work himself and orders the name used in writing, so that when the Register builds its file, it builds it off a word he chose.
+
 **It hates an edge.** A bleed goes where the rock lets it and thins raggedly at its margins. A dose stops where the dosing stopped. Every culture's discipline turns on removing the edge from its work, because an edge proves a hand.
 
 ---
@@ -66,7 +73,9 @@ The Heresiology of Alchemy describes the Mother's doctrine without naming the cu
 | **Xu Deming** | Buys the stock under his own name and carries the liability that follows the payer |
 
 **The work.** Rot synthesis and the slow breakdown of biological matrices, hidden under careful synthesis so that it reads as a Wellspring process. Nine hinds hung on the rail eleven days without a smell. In the field, eleven hinds and a stag dead where they stood, carrying a grey-green mass nine inches at the crown, with undecayed tissue beneath it.
+
 **The flaw.** The work had an edge: twenty-two paces short of a parish boundary marker, with clean ground on the far side. A Night Watch forester found it and walked the far side twice.
+
 **The next work.** A contractile matrix and a saturation gradient, so that dosed carcasses walk for four to six days toward a sink and lie down somewhere else, and the sick ground becomes fifty miles wide with no line on it anyone could stand at. No anchor, because an anchor is a binding and a binding is a name. The founder named it **Project Zombification** and ordered the name used in writing.
 
 ---
@@ -85,9 +94,13 @@ The Heresiology of Alchemy describes the Mother's doctrine without naming the cu
 ## How a Culture Can Be Traced
 
 **Follow the purse.** The buyer draws off a lawful contract, the draw is entered as wastage, wastage is a column in a Logistics return, and the Logistics Division publishes. A reader of the returns finds the line before anyone finds the bench.
+
 **Follow the name.** The founder writes his projects down on purpose. A name in a private letter has hung a whole case before, and the cult knows it, and uses it anyway.
+
 **Follow the edge.** Where a culture has not yet removed the edge from its work, the edge is the evidence. A boundary means somebody chose one.
+
 **Follow the cold.** Cultures work where nobody draws: capped mains, dead legs, coldhouses and cut districts. The quiet quarters the Watch does not visit are where to look first.
+
 **Keep the observer walking.** A culture wants to know what a watcher has written down. An observer who keeps measuring the same ground gives the other side a second set of figures too, and whichever side reads them first has the advantage.
 
 ---
@@ -95,8 +108,11 @@ The Heresiology of Alchemy describes the Mother's doctrine without naming the cu
 ## What Beats a Culture
 
 **Attribution by other means.** The science says residue carries its author. When the author is an animal, the question becomes who dosed the animal, and that is a question about supply, carriage and parish markers rather than about signatures.
+
 **Pressure on the weak member.** Every culture has a buyer who knows he is expendable. At Greyshaft Nine he had counted his own days of usefulness. A man who expects to be sacrificed can be offered something better.
+
 **Closing the Gate from the other side.** The cult recruits the people the state refuses. A licence, a teacher or a lawful place for a refused talent takes away the cult's offer.
+
 **Against the founder himself: volume.** Precision does not beat him and purity does not beat him. Feed him faster than he can convert and he does not grow stronger; he backs up, and the Cauldron becomes a container. Separate him from the Golden Remnant, the second vessel that holds the rest of his Core, and he must choose which one he is using, a choice he has never had to make.
 
 ---

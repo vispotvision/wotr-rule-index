@@ -11,6 +11,7 @@ verification: null
 # The Disciplines
 
 > The Families say what a working draws on. The Wellsprings say what law it obeys. The Disciplines say **what a practitioner is actually doing with their hands, their throat, their attention, and their soul** — and they differ from one another less in power than in the direction the force travels.
+>
 > *"The Family is the WHAT. The Method is the HOW. Where they intersect, you get the named discipline."*
 
 ---
@@ -18,6 +19,7 @@ verification: null
 ## The Direction of Travel
 
 Most magic in the Continuum is **projective**. A caster pushes Essence outward through the Aether Shell. An alchemist channels Wellspring law into a crucible. A Runesmith inscribes Parunic syntax into stone. A summoner fabricates constructs from donated Essence Core fragments. In each case the practitioner is the origin, and the world receives what they produce.
+
 The disciplines below do not all agree on that arrangement.
 ```mermaid
 flowchart LR
@@ -108,6 +110,7 @@ The documents in this section do not share a voice, and reading them correctly m
 ## Entries
 
 Read **Hataraki** first. Everything else in the Continuum is a way of performing a labour it already authorised.
+
 The first five entries are the general disciplines, open in principle to any practitioner who can meet their Temperance Gates. The four that follow are **bloodline and personal arts** — the God Fist and the Binding Fate Eye descend through specific lineages and cannot be taught to anyone outside them; the Material Force is learned rather than inherited, but sits close enough to Zettari Aspect Sovereignty that the distinction has to be stated each time; and the Open Crucible belongs to one man and one ledger.
 
 ### The general disciplines and the bloodline arts
@@ -127,6 +130,7 @@ The first five entries are the general disciplines, open in principle to any pra
 ## The Practitioner Disciplines
 
 These are the named arts a practitioner *trains*, as opposed to the labours the Continuum authorises. They are catalogued by Family and Method rather than by lineage, and every one of them is available in principle to anyone whose Crystal architecture and Temperance can carry it. **Talos is the single exception, and it is an exception of birth rather than of secrecy: the discipline cannot be taught, only expressed by a Crystal that was built for it.**
+
 Three of them are not disciplines at all in the strict sense. **Moetana**, **Solution**, and **Asami** are *states* — what a Crystal does when its internal partitions come down. They are grouped here because a practitioner meets them the same way they meet everything else in this section: by going far enough into their own architecture to find them.
 > **Read them in pairs.** Ainigma exists to defeat Solution. Nadi's per-strike arithmetic is the direct inverse of the Iron Bison's single compounded release. Moetana and Solution are two answers to one question about partitions, and Gisei is the third. **Recarvu and the Iron Bison both end in a body that cannot stop accumulating, by two entirely different routes.**
 - [[The Disciplines/Ainigma — The Riddle Wearing a Face]]

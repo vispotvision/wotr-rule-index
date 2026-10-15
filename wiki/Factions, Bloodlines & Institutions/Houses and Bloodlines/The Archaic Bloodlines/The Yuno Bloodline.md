@@ -23,6 +23,7 @@ verification: "unverified"
 Their identity centres on **shinma**, the sacred and unbreakable relational interval running between person and person, the living and the dead, the land and the sea, the *ie* and the gods who first walked it.
 > Where other lineages inherit force that breaks, devours, commands, or foresees, **the Yuno inherit the harder portion.** They must keep the ma, mend it where it tears, **and answer, in their own bodies, for every silence a broken ma leaves behind.**
 **Core inheritance** · Ancestral *keizu* recited without error **back through more generations than any living Yuno has counted aloud**, a discipline of *kotoage* sharp enough to bind a hearing crowd, and **the keeper's instinct for where a ma has thinned before it tears.**
+
 **Reputation** · Revered, unsettling in their composure, and **politically almost impossible to move against** — since even rulers who fear nothing else fear the house that both blesses the *hyōjō* and speaks for it.
 > **Yuno means gentle**, a temperament of calm water. **It is not a peaceful name.**
 >
@@ -33,9 +34,13 @@ Their identity centres on **shinma**, the sacred and unbreakable relational inte
 ## Sacred Bearing
 
 **Skin** · Yuno children are **born already marked** — faint lines beneath the skin at the wrist, the sternum, and the base of the spine, tracing shapes that echo the finished *horimono* **before any horishi has touched them.** The family holds that **the ancestors mark the child first and the living carver only finishes what was already begun.**
+
 **Gaze** · A Yuno's eyes do not settle on a face so much as on **the interval around it** — the exact width of ma a stranger keeps from kin, from land, from grief. *Villagers say a Yuno can tell what a person owes before that person has said a word.*
+
 **Presence** · Even an untrained Yuno holds a stillness too exact to read as ordinary manners, the seated composure of *chinza* worn like a second skin. **Rooms quiet around them without being asked to.**
+
 **Voice** · When a Yuno speaks in the register of *kotoage*, the sentence **arrives with the weight of something already decided** — not because it is loud, but because the air in a *hyōjō* has been trained for centuries to receive that cadence **as close to law.**
+
 **Adornment** · Ordained Yuno wear the *kanmuri* only at the gravest rites, hair bound close beneath it, skin oiled, **a** ***hossu*** **or** ***shaku*** **carried not as a badge but as a second limb.**
 
 ---
@@ -62,8 +67,11 @@ Shinma is **not simply holy magic and not simply etiquette raised to the level o
 ## Sacred Principles
 
 **Nasake before preference** · A Yuno is trained to ask what the *nasake* of the whole *ie* requires, **not what flatters one voice inside it.**
+
 **The ma must be carried** · **Not every tension should be erased.** Some must be housed, named, and ritually held until true *wagō* becomes possible.
+
 **Chigiri is architecture** · A sacred covenant, especially the *chigiri* between a brother and sister, is treated as **a structural force that reorders reality** once it is properly witnessed and kept.
+
 **Hōkō is burden** · Sacred service always costs the one who performs it. **A kashira who takes on nothing has mediated nothing.**
 > **No ma stands alone.** A tear in one interval echoes through the social, the spiritual, and the metaphysical alike — **and the Yuno are feared precisely because they act as though that were always true.**
 
@@ -72,10 +80,15 @@ Shinma is **not simply holy magic and not simply etiquette raised to the level o
 ## Arts Shared by the Whole House
 
 **Ma-Jirushi**, the Marking of the Ma · A woven working of spoken *kotoage*, Aether pressure, and gesture that renders **the boundary of a sacred space visible, or half visible**, around people, graves, or chambers.
+
 **Sakazuki**, the Ordered Cup · Mastery of the ceremony's exact serving order, used to **fix rank, precedence, and spiritual law within a rite before a single other working is spoken.**
+
 **Kotoage**, the Bound Oration · Formal chiefly oratory turned technique — words shaped so precisely that **a hearing crowd finds itself already obligated by the sentence's structure.**
+
 **Nishiki**, the Debt of the Brocade · The brocade exchange used as **a vessel that carries a sworn obligation across bloodlines and generations.**
+
 **Chinza**, the Vigilant Stillness · Seated, silent, watchful intercession on behalf of absent kin, **patient toward an outcome it cannot yet see.**
+
 **Naoshi-de**, the Mending Hand · A touch-rite of healing and curse extraction, named for the old proverb of the stonefish that **carries its own cure in its body.** Intimate, and **dangerous to whoever administers it.**
 <strong>Keizu</strong>, the Remembered Line · A mnemonic art through which names, debts, pardons, and broken oaths are recited into permanence, <strong>keeping the</strong> <strong><em>ie</em></strong><strong>'s accounting honest across centuries no single memory could hold alone.</strong>
 
@@ -96,7 +109,9 @@ Shinma is **not simply holy magic and not simply etiquette raised to the level o
 ## Training and Cost
 
 **Oratory discipline** · Layered *keizu*, *kotoage* structures, funerary law, and the exact serving order of the *sakazuki*, **all memorised before being trusted with public office.**
+
 **Gestural discipline** · The body trained as an instrument of rite — seated posture, the angle of a *hossu*, the timing of a breath through *chinza*, **all held to account.**
+
 **Emotional discipline** · A Yuno who cannot carry grief, shame, contradiction, or fury **without spiritual leakage** is considered **unsafe to seat in a hyōjō.**
 > **Every Tsutome carries its own corruption.**
 >
@@ -110,8 +125,11 @@ Shinma is **not simply holy magic and not simply etiquette raised to the level o
 
 <strong>Child naming</strong> · A Yuno child receives <strong>two names</strong> — one spoken in the hearing of the whole <em>ie</em>, and <strong>one whispered over them at the cup by the eldest</strong> <strong><em>sōke</em></strong> <strong>present, recorded only in the family's</strong> <strong><em>keizu</em></strong><strong>.</strong>
 **Ordination mark** · Full ordination is marked by the completion of the *horimono*, worked by a *horishi* **who is shown where the birth-lines already run, so the earned ink can finish what the ancestors began.**
+
 **Marriage law** · Marriage is a **witnessed** ***chigiri*** **between houses** as much as between two people. Dissolution is possible only through a formal, recorded *wagō* between both *ie*.
+
 **Deathkeeping** · **No Yuno is buried unwitnessed.** The dead are washed, **named aloud through their *keizu***, and given three full nights of *chinza* before the western road is opened for them.
+
 **Seasonal calendar** · A sevenfold cycle across the year, one season for each Tsutome — with the rarest convergence rites of Tōbō no Michi **reserved for the years when every branch can be gathered under one roof at once.**
 
 ---
@@ -125,9 +143,15 @@ Shinma is **not simply holy magic and not simply etiquette raised to the level o
 ## Yasoshima — The Eighty Isles
 
 *The islands of the Yuno. Proposed canon, pending Isaac's ratification.*
+
 An archipelago in the open water between the Old World's northern coast and the Inner World's western shield, belonging to neither quarter and administered by no crown. The Accord's surveys record it, price its exports, and have never found a reason to send anyone twice.
+
 **Formation** · A drowned fragment of the same collisional belt that became the Old World, which never rose high enough to join the mainland and spent the intervening age being capped in limestone. What stands above the waterline is raised coral platform over karst: low, green, riddled with caves, and holding fresh water in lenses that sit a few feet above the salt and go bad the moment anyone digs too deep.
+
 **Bearing stock** · Effectively none. No metal, no coal, no timber worth a hull. Lime, shell, coral rag, reed, and fish. This is the whole of the reason the islands have never been conquered. There has never been anything on them worth the crossing.
+
 **Ambient Essence** · Moderate and, by every Measurewright reading taken, the most stable saturation recorded anywhere in the four quarters. Nothing drifts at Yasoshima. This is why Yuno rites hold across generations without correction, why the house has never built an array, and why the Accord's Research Division has filed four separate requests to establish a station there and been declined four times without explanation.
+
 **The five branches** · Hatsuhi, Nishimori, Ishizue, Nakadachi and Kagura are islands before they are branches. The Kagura seat sits in the strait between the two largest, which is why the rarest branch is also the one every other branch must sail past.
+
 **Standing** · Not a kingdom. A confederation of *ie* governed by *hyōjō*, with no king, no standing army, and no charter with the Guild Accord. Kharven's marriage to the house is the only formal tie Yasoshima holds to any mainland power, and the *hyōjō* ratified it as a **chigiri between houses**, which is not the same thing as an alliance between states and which the north has never fully understood.

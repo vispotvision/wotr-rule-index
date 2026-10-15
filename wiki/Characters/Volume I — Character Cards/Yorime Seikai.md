@@ -11,6 +11,7 @@ verification: null
 # Yorime Seikai
 
 **Say it** · yoh-REE-meh SAY-ky
+
 *The Gilded Veil · The Quiet Executor · The Woman Who Stayed · The Last Hand on Iron · Card 12*
 > ***She Who Held the Monster Without Claiming Him***
 > 
@@ -21,11 +22,14 @@ verification: null
 ## I · Identity and Core Profile
 
 **As Of** After Dougou's death, his core still unclaimed
+
 **Race / Lineage** **Pureblood Seikai / Ashuric Bloodline** · **Faction** Seikai Boundary Remnant, Current Era
+
 **Temperance Stage** **XII — Emanation**
 > Dougou Ozumu Zettari's significant other, born from **the Ashuric line of Boundary custodians.** Her blood was shaped for **Claim, severance, Null-Light, and the policing of stolen Essence between the Living and Dead realms.**
 > 
 > She should have become **an executor without tenderness** — a woman who took what was unlawful and returned silence to the wound.
+>
 > ***Instead, she became the one person who stayed.***
 >
 > **She does not excuse Dougou's violence. She does not worship the Iron Bison. She does not mistake his pain for nobility.** *She sees him clearly, in all his ruin, and refuses to let him pretend that only the monster remains.*
@@ -43,7 +47,9 @@ verification: null
 > 
 > *Loose Essence, dying resonance, stolen Aether, curse residue and unstable spiritual matter bend toward her hands as if called to judgment.*
 **Risk** · Over-Claim · Boundary Bleed · Echo Saturation · **Ashuric Nerve Decay**
+
 **Triune Core** · **Mortalis · Nihiloth · Velum** — *7 secondary Boundary-threaded micro-attunements.*
+
 **Targeted uninfected** · **None.** *She avoids unnecessary Wellspring expansion because Seikai power already risks becoming hunger.*
 > **Temperance Path.** *Her Temperance did not grow through conquest. It grew through refusal.*
 >
@@ -67,7 +73,9 @@ verification: null
 | **Attraction Scale** | **S-Tier · Boundary Court Suppression.** *Her presence does not crush like Dougou's. It silences. Voices lower. Wards hesitate. Flame dims.* ***The dying feel seen*** |
 
 **Strike Force** 0.003–0.02 GN / 3–25 MJ · **Durability** 80–220 MJ / up to 0.002 PJ anti-Aether shielding
+
 **Speed** Mach 3–8 burst through Boundary Step; **6–12ms reaction under Grave-Sight**
+
 **Range** 0–15m direct Claim / 80–300m Boundary thread field / **1–2km Domain influence under full Emanation**
 
 ---
@@ -75,11 +83,14 @@ verification: null
 ## IV · Axiomatic Manifestations
 
 **Ashuric Right of Claim** — draws Essence or Aether from living beings, spirits, constructs, curses, relics and unstable phenomena, **refining it into Ashuric Null-Light.** *Unlike reckless Seikai, she does not Claim indiscriminately. She judges first.*
+
 **Boundary Glimpsing** — perceives **the seam between the Living and Dead realms.** *Souls near death, lingering echoes, necromantic stains and stolen Essence trails appear to her as pale threads moving through black air.*
+
 **Null-Light Stillness** — her aura suppresses loose magic, emotional noise, unstable spirit matter. ***In her presence, the battlefield grows quieter, not safer. The silence is diagnostic.***
 > **The Hand That Stayed** — she can touch beings with catastrophic aura fields **without immediate spiritual collapse.**
 >
 > *This does not make her immune to the Iron Bison. It allows her to place her hand on him during unstable moments and draw off limited pressure before it becomes detonation.*
+>
 > **Claim Without Consumption** — **her rarest Seikai refinement.**
 >
 > She can take hostile or unstable Essence into her Boundary field, **judge it, and release it harmlessly rather than feed on it.**
@@ -104,8 +115,11 @@ verification: null
 ## Costs and Consequences
 
 **Over-Claim** · *If she drains too much too quickly, her own body begins refining it before judgment is complete.* **Nerve-blackening, throat bleeding,** involuntary Null-Light discharge.
+
 **Boundary Bleed** · Extended Boundary Step causes death-space residue to cling. **Her skin cools, pulse slows, and nearby spirits begin mistaking her for someone already halfway dead.**
+
 **Echo Saturation** · *Too much exposure to lingering soul-echoes floods her dreams with voices of the dead.* **She may wake with names in her mouth that she has never heard alive.**
+
 **Ashuric Nerve Decay** · Damages the fine nerves in hands, wrists, eyes and throat. **Severe use causes temporary blindness, hand tremors, or loss of speech.**
 > **Refusal to Claim Dougou.** She could theoretically drain excess leakage from him. **She refuses to Claim his core.**
 >
@@ -127,8 +141,11 @@ verification: null
 >
 > *She does not use this Domain casually. It is less a weapon than a court of last resort.*
 **The Gilded Mourning Gloves** · black, sewn with gold Boundary thread — **regulate Claim channels through her palms, preventing accidental drain during touch.**
+
 **Yoru-no-Kiri** · Seikai Executor Saber of Null-Light alloy and funeral iron — ***does not cut deeply unless the target carries stolen Essence, curse residue, or unlawful spiritual attachment.***
+
 **The Veil Pin** · **anchors her to the Living realm after repeated Boundary Steps.**
+
 **The Black Bell Rosary** · *small black bells that ring only when a soul-echo lies nearby.*
 
 ---
@@ -144,7 +161,9 @@ verification: null
 >
 > **For the first time, Dougou's pressure lowered without violence.**
 **The Boundary Funeral at Ash-Hollow** — executed a cabal trafficking dead soldiers' Essence. **She opened the Court Behind the Veil for only twelve seconds.** *Every stolen soul was released. Every trafficker was left alive, emptied of magic and unable to lie about what they had done.*
+
 **The Promise Under Black Bells** — she made Dougou promise **he would not become only what the Demon Realm taught him to be.** *He failed that promise many times. She never pretended otherwise. But she also never released him from it.*
+
 **The Night of the Unfinished Strike** — during a violent rupture in the Iron Bison state she stood in front of him and said: ***"If you kill me, let it be because you chose to. Not because pain chose for you."*** **Dougou stopped. He has never spoken of that night.**
 
 ---
@@ -152,8 +171,11 @@ verification: null
 ## Counters
 
 **Closed-World Body Engines** · *Systems like the True Iron Bison resist direct Claim because they do not leak Essence normally.*
+
 **Pure Identity Anchors** · Beings whose Essence is fully self-owned are harder to suppress — **her power is strongest against stolen, unstable, dead, cursed, or borrowed force.**
+
 **Benediction / Purity Fields** · *force her to prove lawful authority before draining.*
+
 **Overwhelming Radiant Output** · burns away the thin edges of her Null-Light before it closes.
 > **Emotional Hostage Pressure.** Her greatest weakness **is not fear for herself. It is Dougou.**
 >
@@ -170,6 +192,7 @@ She wants Dougou to live, **but not at the cost of everyone around him.** She wa
 > **If Dougou finally becomes the catastrophe he fears he already is, Yorime may be the only person capable of standing before him without hatred.**
 >
 > ***And if love is not enough to stop him, she will have to decide whether the hand that stayed must become the hand that executes.***
+>
 > *She moves in the spaces Dougou leaves behind — ruined roads, abandoned shrines, ash-stained battlefields, places where his violence has passed and left questions no one else dares ask.*
 >
 > **Dougou believes she deserves better than him.**
@@ -185,26 +208,35 @@ She wants Dougou to live, **but not at the cost of everyone around him.** She wa
 #### Origin
 
 Yorime Seikai was born pure Seikai, into the Ashuric line of Boundary custodians. The blood of that line had been shaped for Claim, for severance and for Null-Light, and for the policing of stolen Essence between the Living and Dead realms. The house raised executors. An executor took what was unlawful and returned silence to the wound, and nothing in her birth pointed her toward other work.
+
 The seam between the realms showed itself to her early. Souls near death, lingering echoes and the trails of stolen Essence came to her as pale threads moving through black air. She was taught to touch nothing bare-handed. The gloves she came to wear were black, sewn with gold Boundary thread, and they kept the Claim channels in her palms from draining whatever she held.
+
 Her early life showed her how easily the Right of Claim took Essence from others, and how quickly stolen force became a weapon, a shield or an erasure. Some of the house's executors Claimed whatever came within reach and kept what they took. She watched how near that ran to hunger. Every Claim left a residue in the one who made it, and the Seikai called the sum of it the Boundary's Debt. They kept clear of the Yukari, who could see the Debt accruing. Long before her, a child of Seikai and Zettari blood named Naiser had been passed between the two houses, and neither had known whether to claim him or to fear him. He refused both and declared the Yukari name.
 
 #### The Making
 
 Her refinement began when she learned not to take simply because she could. She judged first. Curse residue, dying resonance and unstable spirit matter bent toward her hands, and she asked where each had come from and whom it belonged to before she did anything with it. The rarest thing she learned was to draw hostile Essence into her Boundary field, judge it, and release it harmlessly without feeding on it.
+
 She carried Yoru-no-Kiri, an executor's saber of Null-Light alloy and funeral iron. It cut deep only into someone who carried stolen Essence, curse residue or an unlawful spiritual attachment. She learned the cut that severs a soul-echo's continuity between the Living and Dead realms. She learned the law with it: against the living, that cut was forbidden until execution had been lawfully declared.
+
 She encountered Dougou Ozumu Zettari during an early containment failure, when the Iron Bison pressure field had begun crushing everything within reach. Others tried to restrain him, to wound him, or to flee. She walked into the pressure field and placed one gloved hand against his chest. She took nothing from him. She listened. For the first time, Dougou's pressure lowered without violence.
 
 #### The Cost
 
 She stayed. For years she lived beside a man whose whole body had become a sealed reactor of grief, and she survived the pressure of loving him. When the Iron Bison began to over-accumulate, she laid her hand on him and drew the excess into a veil around herself: pressure, unstable grief, leaking Aether. His pain had somewhere to be witnessed before it became weight. She could have drained the leakage from his core. She would not Claim it. She would not make him safer by consuming him, and in a fight that limit made her weaker.
+
 The years were paid for in her body. When she drew too much too fast, her own flesh began refining what she took before she had judged it, and her nerves blackened and her throat bled. The fine nerves of her hands, wrists, eyes and throat wore down with use. After the worst of it her hands shook, and for a time she could not see, or could not speak. Long passage through the Boundary left death-space clinging to her. Her skin cooled, her pulse slowed, and the spirits near her mistook her for someone already halfway dead. She wore the Veil Pin to hold her to the living realm. Some mornings she woke with names in her mouth that she had never heard alive.
+
 At Ash-Hollow a cabal had been trafficking the Essence of dead soldiers, and she executed it. She opened the Court Behind the Veil for twelve seconds. Every stolen soul was released. Every trafficker was left alive, emptied of magic and unable to lie about what they had done.
+
 Under black bells she made Dougou promise that he would not become only what the Demon Realm taught him to be. He failed that promise many times. She never pretended otherwise, and she never released him from it. On the Night of the Unfinished Strike the Iron Bison state ruptured, and she stood in front of him. "If you kill me, let it be because you chose to. Not because pain chose for you." Dougou stopped. Rengai, still a boy, stood at the edge of the flattened ground and saw his father halted by one sentence from a woman who had not raised a hand. Dougou never spoke of that night. He believed she deserved better than him. She knew it, and stayed.
+
 She came along Halvren's Pass after the fighting there. Two of the wounded had lost their Wellspring connection and would never have it back. The black bells of her rosary rang near the hands of the frontier protector who had fought beside them. Yorime followed what had been taken from the two soldiers, faintly, and found that it ended in that woman, a scion of her own Ashuric line who believed herself human. She judged it before she did anything. Nobody had chosen a theft, and there was nothing to declare. She opened no court. She took nothing from Hana-no-Kurai, and she did not tell her what the pass had shown.
 
 #### Where They Stand
 
 Yorime Seikai is of the Seikai Boundary Remnant. She moves through the places Dougou's violence passed through, the ruined roads, abandoned shrines and ash-stained battlefields, where it left questions nobody else dares ask. The black bells of her rosary ring when a soul-echo lies near. She does not open the Court Behind the Veil casually.
+
 She has never Claimed Dougou's core, and she has not released him from the promise under the black bells. She keeps what Halvren's Pass showed her, and Hana-no-Kurai still believes herself human. She has not decided how long witness remains mercy before it becomes permission, or whether the hand that stayed must become the hand that executes. Her gloves stay on.
 
 #### Ties

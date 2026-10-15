@@ -184,8 +184,11 @@ The Briar, the Crab and the Lamp-drinker hold persistence as well as the tie, wh
 
 > Vulpes ignita in the Guild register. **Tinder-fox** or **the red nuisance** on the Well roads.
 **Well-spawn · T2, Moderate Threat, Green Sigil · Caloria, Ignivale · bred at the mouths of Ignivale Wells; strays up the workings**
+
 **On the ladder** · output Hearth-pest; holds the tie; stands at Field-bane. **Mask** · a scrap of smoke-brown plate over the muzzle, ember-orange under the murk and crazed like cooling slag.
+
 Bred at Ignivale Well mouths from whatever small hunter first denned there. **No Archon (one of the Fourteen, the great powers tradition credits with making beasts) is credited.**
+
 Fox-sized, coat singed short and black at the tips, warm to the hand through a glove, breath shimmering in cold air. It crackles when it runs. **It is dangerous by what it lowers.** Ignivale drops the barrier between intent and working, and near a Tinder-fox that barrier drops in anyone with a Soul Crystal (the organ in a practitioner's chest that makes Essence): a startled practitioner fires, a frightened one fires twice, and a gallery full of both burns.
 
 | Abilities | Weaknesses |
@@ -200,8 +203,11 @@ Fox-sized, coat singed short and black at the tips, warm to the hand through a g
 
 > Bufo profundus in the Guild register. **Sump-toad**, **the bottom-sitter**; among delvers, **the old man below**.
 **Well-spawn · T5, Extreme Threat, Blue Sigil · Vectoria, Abython · bred in the deepest sumps of the lower workings of Abython Wells**
+
 **On the ladder** · output Road-bane; holds the tie; stands at Hamlet-bane. **Mask** · a broad grey plate across the brow, near-black gunmetal veined with clearer steel, ringed like a stone dropped in still water. It rides level with the sump, eyes set in it, and a winding-man's first sight of the toad is a plate floating in black water that is not floating.
+
 Bred where the Aether is heavy enough to suffocate a practitioner who has not trained for it. **No Archon is credited.**
+
 A toad the size of an ox, flat and slick, hide loose on it like a sack. Abython matches pressure instead of resisting it, and the toad lives equalised with depths that crush anything else. **It waits for the draw to come down the shaft**: the lamp, the hoist and the men. Its strike is a pulse, all the pressure it has been matching let go at once, with a sound like a cellar door slammed underwater, and it staves in timbering, a hoist cage or a chest.
 
 | Abilities | Weaknesses |
@@ -216,8 +222,11 @@ A toad the size of an ox, flat and slick, hide loose on it like a sack. Abython 
 
 > Vocator sepultorum in the Guild register. **Roll-caller**; among deep crews, **the Foreman**, because it calls the roll in the voice of whoever kept the pay-book when it last heard one.
 **Well-spawn · T6, Domain Threat, Gold Sigil · Limina, Anamnesis · bred in the Deeps of Anamnesis Wells, where the Veil runs thin; has never been seen above them**
+
 **On the ladder** · output Hamlet-bane; holds the tie; stands at Town-bane. The Commission rates it a Domain Threat for the mind and the voice, and sends Masters. **Mask** · a whole face of silver-grey plate shot with a black-violet the eye cannot hold, striped fine and even like cooled lava rock. It glows faintly when warmed.
+
 Bred in the Deeps of Anamnesis Wells, the currents that let a thing read the history stored in stone, metal and bone. **No Archon is credited. What the line was first bred from, nobody knows.**
+
 Man-high when it stands, long in the limb and pale as a cave fish, it goes on all fours and rises to talk. **It knows every death the Well holds.** The gallery walls remember, and it reads them: names, voices, last hours. Touch is all it needs to read a person the same way, and a delver it has brushed against hears his own dead brother asking for him by the nickname nobody else knew.
 
 It bargains. **The last words of your dead, for a charged cell left lit. Where the other party went, for an hour of your reserve.** It lies in the same breath as it tells the truth, and it is right about the dead often enough that men go back down for it. Lesser spawn of its Well follow it as they follow a lamp. It wants to go up; every one on file has asked to be carried to the surface. **Some serve Malphas and his circle.**

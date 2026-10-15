@@ -93,9 +93,13 @@ The inversion. Same contact, same template, **but an anti-phase copy**: mirrored
 ## Counters
 
 **Aerokinetic displacement** · Sustained high-velocity wind scatters loose particles before they aggregate and displaces dormant mines from their seeded positions. **Fluxia-dominant opponents are the discipline's natural predators.**
+
 **Water saturation** · Wet particles nucleate poorly. Rain and Hydrokinetic fields degrade crystallisation fidelity, producing disordered mass instead of ordered crystal. **Rusashin in rain is Rusashin at half strength.**
+
 **Resonance disruption** · Harmonia-based attack, Fell Chord interference and sustained sonic pressure degrade the autonomous nucleation reflex, **forcing the practitioner back to manual placement.**
+
 **Spatial displacement** · Spatiokinetic coordinate-editing moves the practitioner out of contact with their own field. *The mines remain where they were planted. The practitioner is no longer standing in the middle of them, and the field becomes useless or, worse, hostile.*
+
 **Sustained pressure** · **The terminal weakness is that the most powerful Forms cost the most to maintain**, and the body shuts down without warning when reserves empty.
 
 ---

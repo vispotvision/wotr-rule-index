@@ -11,7 +11,9 @@ verification: "unverified"
 # The Eight Families & the Sixty Wellsprings
 
 > *"The Wellspring is not a gift and it is not a spirit. It is a law that was already running before you noticed it, and harmonization is the act of agreeing to be measured by it."*
+>
 > — from the preface to the First Physical Register
+>
 > **Second edition.** The first edition gave every one of the sixty **a physical analogue, a mechanism in that analogue's own terms, and a failure mode following from the mechanism rather than from the mood.** The entries are unchanged. **The physics has not moved.**
 
 ---
@@ -19,6 +21,7 @@ verification: "unverified"
 ## Why the Sixty Were Re-Sorted
 
 The older registers arranged the Wellsprings by feeling. Grief stood with grief. Fire stood with fire because both were warm. It produced a beautiful taxonomy and a useless one, because a practitioner who knew that Cinerion and Pyreveil were both House of the Ember still had no idea why one of them refilled a reserve and the other emptied it faster.
+
 The physics-first sorting corrects that at the cost of intuition. Wellsprings that shared a House for reasons of sorrow are now scattered across five Families. An ember and a stone stand together. Both facts are correct, and both offend the eye of anyone trained on the old registers. Materia Primordia and Tarturon belong in one Family not because reckoning feels like stone, but because both are, mechanically, the assessment the Continuum (the whole lawful order of reality) makes of what a soul is made of and how much of it survives contact.
 > *A warning to the devotional reader. Naming the physics does not demote the Wellspring. The current was always obeying a law. The Measurewrights (the guild's certified assessors of practitioners and workings) have simply written the law down.*
 
@@ -29,13 +32,17 @@ The physics-first sorting corrects that at the cost of intuition. Wellsprings th
 A Wellspring is a **standing current in the Aether that carries a fixed law**. It is not stored anywhere and it does not belong to anyone. It runs whether observed or not, in the way that a pressure gradient runs whether or not something is standing in it.
 > **Harmonization is phase-locking.** The Aether Shell (the Crystal's outer layer, which turns inner power into outward force) adopts the current's characteristic behaviour so that Essence (a soul's own share of Aether) passing outward through the Shell is shaped by that law before it reaches the world. Nothing is added to the practitioner. The conduit is retuned, and everything that passes through it afterward carries the retuning.
 This is why harmonization changes what a number means without changing the number. A Fortitude of B-Grade harmonized to Monolithion does not become a larger Fortitude. It becomes a Fortitude that behaves like a load-bearing mass rather than like tissue, with the failure curve of stone rather than the failure curve of flesh. **Same magnitude. Different constitutive law.**
+
 Most mortals awaken three to five Wellsprings in a lifetime. Serious adepts harmonize with twelve or more. Those who embody all sixty are called **Principals of Temperance**, and there are not many of them, and you will not meet one.
 
 ### Harmonization, Traits, and the glyph
 
 *Three things bias a Shell and they are constantly mistaken for one another.*
+
 **A harmonization retunes the conduit.** It is reversible in principle, it degrades if Capacity (the limit on how many currents a soul can hold at once) is exceeded, and it shapes everything passing outward for as long as it holds. The law belongs to the current, not to the practitioner.
+
 **A Trait biases the conduit permanently.** It is a law the soul itself carries, held in the Essence Core (the Crystal's inner layer, holding identity, memory and Traits), and it writes into the Shell's conductivity map rather than borrowing a current's. It cannot be dropped to make room. This is why two practitioners harmonized to the same Wellspring produce recognisably different output: the current supplies one law and the Core supplies another, and the working is what comes out of both.
+
 **A glyph is a boundary condition.** It creates nothing. The Wellspring's law was already running; the glyph moves a boundary and the law does what it has always done on the far side of the new boundary. Every entry below should be read with that in mind. Nobody in this register makes fire. They establish conditions under which the ordinary behaviour of heat produces fire where it previously did not, and the fire that results obeys every rule fire has ever obeyed, including the ones nobody thought about.
 > **Sites do not check for a Crystal.** A current pooling in a valley acts on everything standing in the valley, and a Class Ø (never-woken) soul's Shell is sealed and cannot phase-lock, but it has an Essence Core like anyone else. Sustained residence at Active Concentration or above therefore does to a shepherd what it does to an adept, minus the harmonization and minus the vocabulary.
 > 
@@ -46,6 +53,7 @@ Most mortals awaken three to five Wellsprings in a lifetime. Serious adepts harm
 ## Where a Wellspring Pools
 
 **A Wellspring is not a place. But a Wellspring pools.**
+
 The way groundwater is not stored in a specific container but absolutely collects in aquifers, a current concentrates where the substrate is Aether-conductive, where competing currents are absent, and where enough time has passed for the current to saturate the local field **until the physical environment begins expressing the law passively.**
 > **A Wellspring site is the aquifer. The current is the water table.**
 
@@ -59,6 +67,7 @@ The way groundwater is not stored in a specific container but absolutely collect
 
 A current captured, bound, or naturally accumulated inside a vessel produces **a contained domain** — carried in a sword, a relic, or a formation old enough that **the material and the current are indistinguishable.**
 > **Crevice Shale, T9, the Crevice itself** — forbidden to move or hold or trade. *A law about a rock, and the only such law the Accord has ever written.* **The most extreme Object Wellspring in the register.**
+>
 > **The critical distinction between the two modes is interface geometry.**
 >
 > **A site has a perimeter.** The density gradient gives warning. The surveyor feels the current thickening as they approach the core.
@@ -84,7 +93,9 @@ A current captured, bound, or naturally accumulated inside a vessel produces **a
 
 **The three planes are nested, not stacked.**
 > **The Plane of Fate lies deepest**, the lattice upon which all possibility rests. **The Soul Plane lies between**, the stratum through which abstract law becomes a soul's felt truth. **The Physical Plane sits at the surface**, where truth becomes event, body, ruin, and mountain range.
+>
 > *Fate is a precursor. A tide that falls. What is decided at Fate-depth cascades through the Soul Plane and manifests on the Physical Plane as event.*
+>
 > This is why the three types produce different threat profiles.
 >
 > **Wild** operates at the surface. The danger is physical and legible.
@@ -109,7 +120,9 @@ A current captured, bound, or naturally accumulated inside a vessel produces **a
 ### The Density Scale in Numbers
 
 *The condition is what a surveyor writes down. The number is what the ground will actually give.*
+
 One EU is one megajoule, so a density in EU per cubic metre is an energy density, and an energy density is a pressure. **A density in EU/m³ is the same figure in megapascals.** That one identity is why the scale is a ceiling and not a mood. A boundary cannot be pushed into ground at a pressure the ground does not carry, and what is standing in the ground has a strength measured in the same unit.
+
 **What a site will actually give.** A current crosses a site the size of a hall in about a thousand seconds. That is the interval in which the ground replaces what has been taken from it. So a site yields at most **a thousandth of its density, per second**. The supply rate in AU/s (Aether Units per second, a rate of output) per cubic metre is the density in EU/m³ divided by a thousand, and the ceiling on a practitioner's output is that rate across the volume his field reaches.
 
 | Density | EU/m³ | As pressure | Supply, AU/s per m³ | Where that sits |
@@ -121,7 +134,9 @@ One EU is one megajoule, so a density in EU per cubic metre is an energy density
 | **Wellspring Core** | 10⁸ to 7.7×10¹⁸ | 100 TPa and above | 10⁵ to 7.7×10¹⁵ | up to the field at which the void itself begins making matter |
 
 **In a Silence (ground where no lawful working can be authorised) the figure is zero.** That is the whole of why a Silence is not shielding. There is nothing to draw and nothing to push into, which is also why a soul held in one reports the sensation as loneliness rather than as weakness.
+
 **Ambient Saturation is the reference.** Its midpoint, one EU per cubic metre, is the ground every laddered reach is quoted against. Denser ground does not help a practitioner. It raises the floor his own field has to stand above, and addressing range, authority radius and anchor reach all fall as the **square root** of the local density. Concentrated ground cuts all three to an **eighteenth**. A Nexus cuts them to a **thousandth**. A Core cuts them to a **five-millionth**. That last figure is the arithmetic behind the sentence in the table above: inside a Core the law the Wellspring carries is the only law operating, and an S-Grade's kilometre of authority is a fifth of a millimetre wide.
+
 **Why residence changes a body.** A person at rest dissipates about a hundred watts through about a fifteenth of a cubic metre, which is one and a half kilowatts per cubic metre. Active Concentration supplies ten to ten thousand kilowatts per cubic metre. The field is putting seven to seven thousand times the subject's own metabolic power density through them, continuously, and a body has no mechanism for declining a power density. That is why Baptism at that condition is involuntary, and why it reaches the shepherd as readily as the adept.
 > **Saturation, stated once.** Saturation begins at **ten thousand EU per cubic metre**, the stress at which a crystal lattice fails. It is reached by leaving that much in each cubic metre of a region, or by sustaining more than **a hundred AU/s through each square metre of the region's boundary**. The two are one statement. The second is the first carried out at the current's own speed. The threshold grows with the surface while output does not, so **a kilometre of open ground swallows what a hall would not.** A Zenith field a kilometre across puts about a fifth of one AU/s through each square metre of its edge, a five-hundredth of threshold. The same output inside a twenty-metre hall puts five hundred and fifty through each square metre, five times over, and everyone in the hall is a casualty of it. A drawn circle is the other half of the same arithmetic. A rite bleeding sixty EU a second into two metres of floor reaches Active Concentration within the hour and stays there, which is what the Circle step is for and what an improvised one costs.
 
@@ -185,7 +200,9 @@ Because each Family answers to a real physical domain, each Family answers to re
 ## Harmonization, Stacking, and Interference
 
 *What happens when a Crystal is asked to obey two laws at once.*
+
 **Same-Family harmonization compounds.** Three Materia Wellsprings produce a Vitality and Resilience profile measurably denser than an identical stat spread carrying no Materia harmonization at all, because the three constitutive laws agree with one another and reinforce along the same axes. The numbers on the Ledger are identical. The qualitative expression is not, and anyone who has fought both can tell them apart in one exchange.
+
 **Cross-Family harmonization introduces resonance complexity**, and the physics predicts which pairs behave. Families whose Physics Domains are compatible produce complementary effects without interference: **Materia with Vectoria**, since matter given form through force is one problem described twice. Families whose domains are structurally opposed produce tension the Crystal must resolve, either by Temperance advancement or by developing a Compound Trait that holds the contradiction as a single law. **Materia against Limina** is the canonical hard case, form set against the erosion of all shape.
 > The ceiling is **Tempering Capacity** and it is not negotiable. Exceeding it does not fail gracefully by dropping the newest harmonization. **It degrades all active harmonizations equally**, which is how practitioners lose a decade of work by reaching for one more current in a bad hour.
 
@@ -194,9 +211,13 @@ Because each Family answers to a real physical domain, each Family answers to re
 ## Discrepancies of Record
 
 *Attested, not reconciled.*
+
 **The Vectoria count** · The system source lists eight Vectoria Wellsprings including Sublimare. The consolidated Magic System register lists seven and omits Sublimare entirely. With Sublimare restored and Phreatis counted once, the register reconciles exactly to sixty unique currents across sixty-one listings. The Measurewrights record the consolidated table as the party in error and this register follows the system source.
+
 **The Phreatis cross-listing** · Phreatis answers to Vitalia and Fluxia both, and the physical reading supports the double assignment rather than resolving it. Synaptic potentiation and aquifer residence are two physics describing one behaviour. The entry is written once in Vitalia and referred from Fluxia.
+
 **Sublimatio and Sublimare** · The two have been treated as near-duplicates in prior registers on the strength of their names. The physical reading separates them cleanly: sublimation skips a phase, fractional distillation separates a mixture. They are different operations with different residues and different failure modes, and the duplication was linguistic rather than mechanical.
+
 **Family names in older sources** · House of the Green Pulse, House of the Veil, House of the Black Gate and similar appear throughout the Wellspring codices and the Veil literature. These are the pre-correction feeling-first Houses and do not map cleanly onto the eight Families. Conversion tables have been requested twice.
 
 ---

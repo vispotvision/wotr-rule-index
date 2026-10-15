@@ -18,6 +18,7 @@ verification: "unverified"
 ## Prefatory Note
 
 This ledger exists because two men can dig the same hole and get different answers, and because the Accord has now lost four deep workings and one city block to the assumption that stone is stone.
+
 It is arranged by quarter rather than by kingdom. Borders move. Bedrock does not.
 > The fourth revision has struck the kingdom names from the deposit entries, and the reason is worth stating rather than burying. A ledger that names a seam for the crown that holds it must be reissued whenever the crown changes, and this one has now been reissued three times **without a single seam moving an inch.** Where a name was doing real work it has been replaced by the ground it referred to. Where a name was doing no work it is gone.
 Every figure in this ledger was taken **at the face**, not from a chartered claim. Where a claim and a reading disagree, the reading stands.
@@ -38,6 +39,7 @@ The common account is that Essence made industry possible. That is wrong in an i
 
 > **The single most important fact in the ledger.** A modern shaft is as deep as its array can be fed, and no deeper. Which means a mine does not die when the ore runs out. **It dies when the local Wellspring thins, and the ore is still down there when the water comes up.** The Old World is a graveyard of drowned workings that were still profitable on the day they were abandoned.
 Weight Ablation halves the effective load on a winding rope for as long as the glyph holds. **When the lie fails it fails all at once.** Every winding house in the Old World has a bell for that and every man underground knows what the bell means. Spatial translation of ore was tried, costed, and abandoned; moving rock through Spatium remains more expensive per ton than moving it up a rope, and will remain so.
+
 The heat ceiling's fall moved the constraint from the fire to **the vessel**, which is why refractory stock — wolfram and chromite and nothing else — is quietly one of the most strategic commodities in the four quarters and is priced accordingly.
 > What follows from all this is the shape of the world as it now stands. **There is no steam engine in any mine, forge or mill in the four quarters and there never will be**, because every problem a stationary engine was going to solve had already been solved by other means before anyone thought to build one.
 >
@@ -46,6 +48,7 @@ The heat ceiling's fall moved the constraint from the fire to **the vessel**, wh
 ### The fifth obstacle, which fell last
 
 *The four above were removed and are therefore invisible. The fifth held longest, and its removal is the reason the ledger has had to be revised.*
+
 **Traction.** An array is fixed infrastructure. It is fed from a vein or a main, it is tended in place, and **nothing that moves can be plumbed.** Weight Ablation lies to a rope about a load and supplies no motive power whatsoever. Spatial translation of ore was tried, costed and abandoned. So the problem of moving a great weight a long distance overland stayed exactly where it had been for eleven centuries: horses, and the road, and the weather.
 > **Which is why the railway is a main laid on its side.** Conduit is sealed into the bed between the rails, and the engine rides a hand's breadth above it and couples to it by Transference across the gap. Nothing burns and nothing boils, and there is no steam engine anywhere in the four quarters, on rails or off them.
 > 
@@ -89,8 +92,11 @@ The tenders who work the arrays pay for this in the ordinary way. Long array dut
 ## Unresolved Entries
 
 *The Measurewrights record the following as open and decline to guess.*
+
 **The provenance of Ghoststeel.** Attributed to the northern shield on ruin-siting evidence alone. No crucible reproduction has succeeded, and until one does the material's formation is unexplained.
+
 **The provenance of Seerstone Resin.** Attributed provisionally to eastern cloud forest canopy species. Unconfirmed by Archives.
+
 **Whether the Ring's interdimensional passages are caused by the impact structure or merely coincident with it.** The Measurewrights hold that the correlation is too exact to be accident and too unexamined to be asserted.
 
 ---
@@ -98,6 +104,7 @@ The tenders who work the arrays pay for this in the ordinary way. Long array dut
 ## The Names That No Longer Attach to Ground
 
 *A separate class of open entry, and the one the Logistics Division finds most irritating.*
+
 Certain materials in continuous trade arrive under provenance names that no current survey can attach to anywhere. **The material is real.** It is assayed, priced, shipped, and used. The place it is said to come from cannot be found by anyone the Accord has sent to look.
 
 | Material | The problem |

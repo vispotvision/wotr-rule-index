@@ -12,6 +12,7 @@ verification: null
 
 **Say it** · KY-en VAY-ren
 > *"A scar is the final word in an argument between flesh and fate."*
+>
 > **Invented Stage name.** The card reads **"Stage VII (Illumination)."** *Illumination is not among the sixteen; Stage VII is Refraction.* Numeral stands.
 >
 > *"Water / Verdure / Fracture"* were not Essence types. **Mireya** — struck 2026-09-12; the name never attached to a real place. *His alias and his posting both carried it; both now stand unnamed.*
@@ -21,6 +22,7 @@ verification: null
 ## I · Identity
 
 **Name** · Kaien Veyren. **Called** · **The Lotus Scar.** *The White Bloom.*
+
 **Role** · **Wellspring Monk. Aether-Scarred Survivor. Wandering Regency Arbiter.**
 
 ### Affiliation
@@ -37,6 +39,7 @@ verification: null
 ## II · Soul Architecture
 
 **Aether Shell** · **Class III · Resonant.** **Crystal State** · **Fractured**, and visibly so. **η** · ~0.60, Tier of Standing 5, Expert.
+
 **Aether-Scarred Flesh** · **Jagged, vein-like marks on cheek and eye** — *remnants of a collapse he barely survived.* **Open conduits, permanently.**
 
 ---
@@ -44,8 +47,11 @@ verification: null
 ## III · Wellspring Harmonizations
 
 **Phreatis** · Vitalia and Fluxia both. **The adaptive flow, and the moonlit pond.**
+
 **Verdantia** · Vitalia. **The healing and regrowth.** *Same-Family compounding.*
+
 **Anamnesis** · Limina. **Memory Bloom** — *scattered lotus petals reconstructing echoes imprinted on the spiritual field.* **Objects and places genuinely store their history in physically readable form, and he reads them by scattering.**
+
 **Lethegraal** · Limina. *Relaxation time* — **the time dilation and the mending inside the White Bloom.**
 
 ---
@@ -82,7 +88,9 @@ verification: null
 ## VI · Traits
 
 **Aether-Scarred Flesh** · **The marks constantly bleed faint light when he channels Essence, functioning as open metaphysical conduits.**
+
 **Petal-Step Flow** · **Movement art mimicking the drift of lotus petals in still water** — *soft pivots, deceptive weight shifts, sudden accelerations.*
+
 **Memory Bloom** · **By scattering translucent lotus petals of Essence into the air, he reconstructs echoes of past events imprinted on the spiritual field**, witnessing fragments others cannot.
 
 ---
@@ -92,8 +100,11 @@ verification: null
 ### The White Bloom Path
 
 **Effect** · **A moonlit pond ringed by white lotus flowers.** *Within it, time dilates and wounds mend.*
+
 **Cost** · **Extended exposure risks the user losing themselves in recursive dreams.** *And Maerion mistrusts his habit of vanishing for weeks — the sheet has already told us where he goes.*
+
 **Limit** · **It heals. It does not defend.**
+
 **Counter** · **Pressure without pause.** *Ardency 164 means he cannot make you stop.*
 
 ---
@@ -101,6 +112,7 @@ verification: null
 ## VIII · Relationships
 
 **Lord Maerion Lysandre** · **His primary patron in the Regency he serves.** *Values his composure but mistrusts his habit of vanishing for weeks.*
+
 **Shael Virellion** · **Shares an unspoken understanding through their work in memory-based Essence arts.**
 > ***Both are Fractured Crystals whose damage is visible on the face.*** **Shael's third eye never closes and weeps; Kaien's scars never close and bleed light.** *Shael is sealed at his Stage and cannot advance. Kaien is not — and that difference is the whole of the unspoken understanding.*
 **Hyo Miran the Red-Threaded** · **Trade partner in rare relic recovery.** *Kaien both benefits from and mistrusts his unpredictable dealings.*
@@ -121,27 +133,37 @@ verification: null
 #### Origin
 
 Kaien Veyren was born in the Varakh Drylands of the Outer World, in a village of red earth and thorn scrub. Rain came there in runs of good years and then failed for several together. The seasonal river ran only in the good ones. His mother cut salt on the White Pans, and the village lived on what a Wellspring nexus nearby gave it.
+
 A monk kept that nexus. When the boy could sit still through a morning, he was sent to sit beside him. He learned to hold the flow level, so that the villages drew as much in a dry year as in a wet one. When the old keeper died, Kaien kept the nexus alone.
 
 #### The Making
 
 The drought years came, and the nexus weakened through them. Kaien gave it what he had. Helki came on foot, as she came to dying Wellsprings, knelt at it and poured herself into it without stopping. A lamb from one of the village flocks had wandered into the current before she knelt. Nobody could get it out. The villages sent word of a breach, and the Accord sent Baojin Zhaorin of its Vanguard. He restored Wellsprings where the ground would answer him, and this ground was spent.
+
 On the last day the nexus collapsed. Kaien stood nearest its heart, still holding the flow he had kept, and he did not let go. The collapse opened his face along the cheek and the eye in jagged lines like veins. Baojin went in with his mantle closed and carried him out. Helki rose from the dead current with grey in her hair and carried the lamb out herself. The nexus never came back.
+
 The villages turned to the seasonal river and to each other, and quarrelled over both. Kaien had kept the nexus for all of them, and each side brought its claim to him. He stood between them until the rains returned. The Arbitration Division entered him on its roll after that. It sent him where Wellspring disputes threatened war between the Inner World and the Outer World.
+
 The scars never closed. When he channelled, they bled a faint light.
+
 Then he saw himself from outside. He saw the record of his fractures, every break he had carried and since built on, each one labelled and impossible to un-see. It matched the record the collapse had cut into his face. Most who came to that sight saw their own in private, and anyone who looked at Kaien could read his.
 
 #### The Cost
 
 The collapse took the nexus and the villages' living with it. He never covered the scars. He sat at negotiating tables bare-faced, and when he worked, both sides watched the light run along his cheek.
+
 He moved the way a lotus petal drifts on still water, with soft pivots and a sudden turn of speed. Few blows reached him. His own landed light. When a table turned to knives he stepped out of their line, and he had no way to make anyone stop.
+
 He read a place before he wrote about it. On the Greenroads armed men stopped a caravan under Baojin's guard and asked for a relic that Hyo Miran carried. Baojin talked until he could no longer tell what was happening. Then the grove drank, and it took one of the caravan's drovers with the raiders. Arbitration sent Kaien to review the fight of the man who had carried him out of the Drylands. He brought Shael Virellion to read the living. He scattered petals of Essence over the road, and the echoes rose out of the ground: the approach, the talk, the drover going down under the roots. He read the relic the same way and found Hyo in its record more than once. Hyo gave an account of where it came from. Shael said it was untrue. Hyo sold the true one, and Kaien paid his price. The review he sealed entered the dead, the relic and the echo he had read. It named no fault.
+
 His White Bloom was a moonlit pond ringed with white lotus. Inside it time slowed and wounds mended. It did nothing to defend him. A man who stayed in it too long could lose himself in dreams that folded back into themselves. That was where Kaien went when he vanished for weeks.
 
 #### Where They Stand
 
 He wanders as a Regency envoy of the Arbitration Division. Lord Maerion Lysandre is his patron there. Maerion values his composure and mistrusts the weeks in which he disappears.
+
 Hyo's true account led them both to the ground the relic came from, where more lay buried. They recover rare relics together still, and Kaien takes his share and keeps his doubts about how Hyo deals.
+
 He and Shael do not talk about their faces. The damage has held Shael where it found him and has not held Kaien. Both of them know it. He says, "A scar is the final word in an argument between flesh and fate."
 
 #### Ties

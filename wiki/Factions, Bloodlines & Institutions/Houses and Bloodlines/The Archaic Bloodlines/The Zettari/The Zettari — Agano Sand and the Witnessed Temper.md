@@ -20,7 +20,9 @@ verification: "unverified"
 ## The Material · Agano Sand
 
 *Agano — covenant, testament. A Swahili-derived word, in the register the Zettari already keep.*
+
 The sands of the Paths are condensed lineage memory. **Agano Sand is a working measure of that sand, folded into the quench when a weapon or a piece of plate is finished.**
+
 Where Dawi pitch is aged for years in a fixed hold, Agano Sand needs no years: **it already carries the memory of the whole bloodline's history.** The cost is not time. **The cost is access.** Only beings acknowledged by the lineage itself may enter the Paths without triggering immediate metaphysical collapse, so a smith cannot simply go and take it — **it must come from, or through, someone the Paths already recognize.**
 > *The Dawi wait for the material to become trustworthy. The Zettari must be trusted before the material is handed over.*
 
@@ -29,7 +31,9 @@ Where Dawi pitch is aged for years in a fixed hold, Agano Sand needs no years: *
 ## The Rite · The Witnessed Temper
 
 **A Vow Clause working, not a new kind of magic.** At the quench, the smith — or the sovereign the piece is being made for — speaks a bound claim over the object before a Stone Witness: a ruin, an ancestral hall, a Path-linked relic. Per the Stone Witness Oath, it must be something older than the speaker. That claim becomes a standing law the object runs, exactly as a spoken vow becomes a standing law a Soul Crystal runs.
+
 **What it does** · A Witnessed-Tempered piece inherits a scaled-down Ancestral Dominion Frame. Every significant strain the item survives, in the hands of whoever it was sworn to, makes it measurably more resistant to that same kind of stress thereafter. This is not indefinite hardening: it plateaus, the way the bloodline's own combat maturity does.
+
 **What breaks it** · If the piece changes hands outside the terms of the oath, its accrued memory does not transfer. This is not the Dawi's Crystal-Coherence self-punishment, a cost paid by the oath-breaker's own soul; it is closer to the Weight of the Blood, where failure feels ancestral rather than personal. The object simply stops recognizing the new holder as a party the law was made for. In the worst documented cases, Physical Plane Authority's "hold shape" reverses for that bearer alone, and the piece becomes more failure-prone in their hands than an ordinary equivalent.
 > *The blade does not punish the thief. It declines to know him.*
 

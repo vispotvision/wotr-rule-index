@@ -28,6 +28,7 @@ A first-person account written late in a long life, by a woman who **watched the
 > We tended shrines. We judged vows. **We prepared the dead where lesser priests dared not touch them.** We reconciled lineages after feuds had turned inheritance into a curse. **We listened when dreams began speaking with the dead voice of tomorrow.**
 > 
 > But what the world now calls the clergy of magic **was then only a difficult idea moving from elder to elder like a coal carried barehanded.**
+>
 > **Holiness, as she met it, smelled of lamp smoke, old vellum, cooled iron, and incense ash wetted by a priestess's thumb.** Of rain that had seeped into stone older than the names of kings. Of wool robes left drying beside braziers while bells muttered in distant chambers.
 >
 > *Even now, after decades of consecration, blood-vigil and dream-fast, when the scent of burnt resin rises from a censer bowl, my spine remembers that first night and straightens of its own accord.*
@@ -46,6 +47,7 @@ A first-person account written late in a long life, by a woman who **watched the
 > Across her sternum and inner wrists, hidden unless ritual heat called them forth, **the tracer-glyphs of ordination.**
 >
 > *She did not hurry. That was her cruelty when faced with panic. She refused to lend fear her legs.*
+>
 > **HER FATHER**
 >
 > Broader, dusk-haired, warm-handed, **built like temple architecture** — shoulders square, belly modest, palms thickened by stonework, **a patient face always carrying dust from some repair or another.**
@@ -53,6 +55,7 @@ A first-person account written late in a long life, by a woman who **watched the
 > He did not perform the higher liturgies. **He kept doors aligned, bells tuned, roof-loads measured, incense vents clear, and sanctified corridors from settling crooked after storm season.**
 >
 > *My mother used to say the gods trusted him with weight because he never lied about what could bear it.*
+>
 > *"The child hears too much," my mother once thought while I knelt behind a screen supposed to hide me — not knowing then that I could read certain tensions in a face the way others read script.*
 >
 > **I did hear too much.** I listened outside confession passages. I counted bell intervals between rites. I traced hidden corridor plans from memory on wash-stained scrap paper.
@@ -93,7 +96,9 @@ A first-person account written late in a long life, by a woman who **watched the
 ### On entering a charged room
 
 **Enter slower than your intelligence wants to.**
+
 *The clever often arrive half a conclusion ahead of their bodies.* You will feel a pressure, catch a hinge, notice a silence around a name, **and your training will begin offering patterns with flattering speed. Refuse the first sweetness of recognition.**
+
 Let the room introduce itself through **weather, smell, posture, spacing, food left untouched, chairs turned wrong, lamp height, thresholds worn by pacing, prayer cords retied in household string, and whether the dog sleeps easily.**
 > ***Dogs know more of lawful and unlawful tension than many minor priests.***
 Do not stand where authority automatically gathers **unless authority is the first medicine needed.** Many confessions sour because the priest occupies the strongest line in the room **before learning whether the room has been wounded by strong lines.**
@@ -108,7 +113,9 @@ Do not stand where authority automatically gathers **unless authority is the fir
 **Never permit adults to make a mystery of a child when ordinary grief, fear, favoritism, silence, or cruelty explains more.**
 > Children become shrines for unspoken household pressure **because adults prefer omen to responsibility.**
 *A girl hears the dead brother no one names. A boy becomes violent after years of being the vessel for a father's disappointed inheritance. A novice develops pious compulsions because every adult around her rewards stillness and calls it holiness.*
+
 **If you enter such cases hoping for marvels, you will help the adults continue their theft.**
+
 Speak to children **at the level of event before symbol.** Ask who sleeps badly, which room is coldest, who prays longest, what objects are hidden, **what happens when they cry**, who gets quiet at supper, **where the house seems to listen.** *Their answers will often embarrass the adults and save you weeks.*
 > **Never treat sensitivity in a child as vocation before it has first been sheltered as life.**
 >
@@ -117,7 +124,9 @@ Speak to children **at the level of event before symbol.** Ask who sleeps badly,
 ### On the dead
 
 **The dead are not metaphors waiting to be arranged for the moral growth of the living.**
+
 *I record this because too many younger clergy, especially the gifted, become abstract around corpses after enough exposure.* **A body washed daily can become procedure. Fight that.**
+
 Every dead person reorganizes a room differently. **Some leave behind tasks. Some leave appetites abruptly orphaned. Some leave relief, and relief has its own guilt-chamber.** Some leave nothing dramatic at all — *only the practical ache of one fewer pair of hands at planting season.* **All these are worthy of witness.**
 > **Do not romanticize peaceful deaths.**
 >
@@ -132,6 +141,7 @@ Every dead person reorganizes a room differently. **Some leave behind tasks. Som
 **No codex trained under public sanctity handles desire honestly unless someone forces it to. So hear me clearly.**
 > **Desire is not the enemy of sacred life. Unexamined entitlement is. Coercive hunger is. The use of piety to conceal appetite while privately feeding it on the unwitnessed is.**
 But desire itself — **for touch, companionship, admiration, erotic life, chosen family, beauty, rest, art, one person's unguarded regard** — belongs to the interior sanctuary as surely as grief and devotion do.
+
 ***A priest who cannot admit desire becomes vulnerable to its ugliest disguised forms.***
 > Do not ask first, *"Is this desire fitting?"*
 >

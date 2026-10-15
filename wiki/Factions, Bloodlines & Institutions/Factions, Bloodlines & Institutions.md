@@ -13,6 +13,7 @@ verification: "unverified"
 > Two systems of legitimacy occupy the same ground and neither can abolish the other. **The Crown holds** the land, the law, the levy, and the right to hang, legitimate by descent. **The Accord holds** the assay, the rank, the credit, the writ, and the arrays, legitimate by measurement.
 >
 > *Neither side says this out loud. Both sides have costed it.*
+>
 > *"Balance before Dominion."* — carved into every Guild Hall gate across every realm
 
 ---
@@ -43,8 +44,11 @@ Every institution in the four quarters is an answer to one question: **on what g
 ## Entries
 
 **The Guild Accord** carries the structure of authority, the Commission framework, and the culture of duty, with seven pages beneath it: the Tiered Path, Merit and Severance, the Black Concord, the Gate Network, the Military Divisions, the Citadel, and the Practitioner Problem.
+
 **Sancta Lux** is the order that does not worship and says so in the first line of its own catechism. **The Bench of Attribution** is the most consequential body in the four quarters and the only one with no seat on the Concord Council.
+
 **The Archaic Bloodlines** carries the Moto, the Zettari with the Paths beneath them, the Yukari, and the Agamalu — three Epochs, three inheritances, and a fourth house that inherited the harder portion.
+
 **The Powers of the Imperial Age** sets the crowns, the great houses, the orders, the guilds and the chartered companies side by side: what each wants, what it holds, how it fights, who it is set against, and where the three layers of rule meet and quarrel.
 
 ### Authority by measurement, descent and attribution
@@ -56,6 +60,7 @@ Every institution in the four quarters is an answer to one question: **on what g
 ### Authority by doctrine
 
 *Two bodies claim a warrant that answers to neither crown nor coil, and they are in open doctrinal conflict with each other.*
+
 **Sancta Lux** is the order that does not worship and says so in the first line of its own catechism. **Sōhai**, the Moto True High Religion, holds that **consulting one reference exclusively for four millennia is a devotion whether or not anyone kneels**, and calls the Scale the largest **Singling** in the history of the Realms.
 > **Read the two together or neither.** The charge and the answer are both recorded on the Sōhai page, in the order's own words, **because the argument is genuine and neither side is being stupid.**
 >

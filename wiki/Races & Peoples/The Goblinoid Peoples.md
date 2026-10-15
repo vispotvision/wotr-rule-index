@@ -20,6 +20,7 @@ verification: "unverified"
 ## The Goblinoid Family
 
 The peoples gathered under the term share a single origin: **a celestial impact, an asteroid that struck the mortal world in the Second Eon** and shattered the surface into mountains, valleys, and ruin. From that impact came everything. The surface broke. The core held. From the shards came the Orcs. From the core came the Hobgoblins.
+
 What the world calls goblinoid is simply **what that impact left behind: people shaped by violence they did not choose, carrying in their blood the memory of a force that moved worlds.**
 
 | Lineage | Essence | Origin |
@@ -36,18 +37,24 @@ What the world calls goblinoid is simply **what that impact left behind: people 
 ## The First Impact
 
 **Kha-Urrum — The Core-That-Did-Not-Break**
+
 Before the mountains, there was only the flat dark of a world without seam or edge. The asteroid had no name when it fell. **It required none. It was the first act of the universe asserting that something needed to change.**
+
 When it struck, the surface shattered. Mountains erupted from the impact ring. Valleys tore open. Oceans displaced. Whole continents shifted their geometry in a single instant of kinetic force that no living being had language for. The shards buried themselves in the new mountain stone and over centuries became flesh. **These were the first Orcs.**
+
 But at the center of the impact, something was different. **The core of the asteroid did not shatter.** Under pressures that broke everything around it, the core compressed, went still, and held. That stillness — dense, patient, immovable — became the first Hobgoblin.
 > 
 > > *"When the impact came and the surface shattered into mountains and valleys and ruin — the core did not shatter. It held. It went still. And from that stillness, everything we are descended."*
+> >
 > > — Gorrum Ashentusk, Za'tarch Gathering
 >
 > The core doctrine of Kha-Urrum is **not pacifism.** It is not weakness dressed in philosophy. It is the understanding that the surface breaks because it is too brittle to hold — and that the core survives not by avoiding pressure, but **by becoming the thing that pressure cannot solve.**
 >
 > To live by Kha-Urrum's example is **to refuse to become what struck you.**
 **Stone-Blood is not a metaphor.** It is a literal spiritual designation: the mineral density of asteroidal material persists in the blood of all goblinoid peoples as Aetheric matter, connecting them to the original kinetic event and to each other.
+
 **Stone-Blood runs slow in deep cold.** The mineral in the tissue slows with the temperature, and in deep cold every Stone-Blood fighter moves about three-quarters of a beat late. It is latency, not weakness: the strength is all there and arrives behind the count, and a formation drilled to keep time loses its time before it loses its strength. This holds in every fight in deep cold.
+
 The splitting of Hobgoblin and Orc — core versus shard — is not understood as a hierarchy within goblinoid culture. The Ironblood would say the shard carries the original force. The Crimson Order would say the core carries the original endurance. **Both are correct. Both are needed. Za'tarch was built on exactly this argument.**
 
 ---
@@ -57,8 +64,11 @@ The splitting of Hobgoblin and Orc — core versus shard — is not understood a
 ### Ironblood Orcs
 
 *Major Race · Asteroidal Echoes / War-Forged · Born from the outer shell fragments*
+
 **Metaphysical Anchor** · Essence, Physical and Resonant — **kinetic force, not light**
+
 Every physical feature they possess is a direct record of the force that made them: bone density three times a human's baseline, interlaced with microscopic mineral deposits; skin in metallic grey, slate-green, or russet-brown, marked with **Asteroidal Scars** that track the original fault lines of the asteroid itself. Their eyes have no traditional pupils — a **Heat-Signature glow**, molten iron or burning coal, that intensifies when they draw on Essence. Their voices are tectonic, carrying sub-bass frequencies **that physically vibrate the iron content of those standing nearby.**
+
 They stand between 6'6" and 7'4". Coarse black hair kept in topknots or ritual braids weighted with lead or iron rings — each ring, in traditional practice, **representing a weight earned rather than a trophy taken.**
 
 | Axiomatic Trait | Function |
@@ -68,22 +78,29 @@ They stand between 6'6" and 7'4". Coarse black hair kept in topknots or ritual b
 | **Ironblood Clotting** | Total immunity to Bleed and Stagger; +30% resistance to Essence drain. Their blood resembles liquid magnetite — thick, dark, hardening almost instantly on air exposure |
 
 **Sacred customs** · **The Blood-Rite of Lineage**, in which warriors open existing scars to let Stone-Blood mingle with the earth. *This is not ceremony. It is structural maintenance of their metaphysical bond.* And **Skin-Marking**, the transmission of battle-memory across generations by tattooing or scarring Essence-chants directly into the skin of descendants. **The body becomes the archive. To read an Ironblood elder's scars is to read their family's history.**
+
 **Language** · Old Vaross. Ritual war-language: Gravetongue.
 > **Key limitation · The Logic-Void.** Cannot use `Ko` (Order) or `Ie` (Insight) glyph-forms. 2× Essence cost for complex Aetheric geometry. **Their souls are fundamentally antithetical to soft, structured law.**
 **Relations** · Deep ancestral hatred of Hobgoblins, complicated by shared origin theology. Honor-bound respect toward Dawi. Tense rivalry with Frontierfolk. *They describe Elves as "unreal vapors."*
+
 **Settlements** · The Crimson Flats · Dorrak's Maw, the Siege-Forge City · The Trial Steppes
+
 **World memory scar** · **The Siege of Four Suns.** Ironblood warbands stalled the Second Shattering through mass blood-sacrifice. The act saved the Western Realms and **left their lineage spiritually scarred in ways they have never fully named.**
 
 ### Verdant Orcs
 
 *Major Race · Asteroidal Spore-Kin / Symbiotes · Impact fragments that landed in high-resonance wetlands*
+
 **Metaphysical Anchor** · Essence, Biological and Rotational — **souls seek Metamorphosis, not stasis or force**
+
 Where the Ironblood carry the violence of the impact, the Verdant Orcs carry its aftermath — the slow, dark transformation of stone becoming soil, decay feeding growth, **death as a phase rather than an ending.** Their fragments landed in the wetlands, and the Stone-Blood fused with lunar and rot-based Wellsprings over centuries until what emerged was something the other Orc lineages genuinely do not understand: **a people who embrace dissolution as power.**
+
 6'4" to 7'0", with fluid, vine-like musculature built for submersion and silent movement through thick terrain. Eyes are solid bioluminescent orbs, moss-green or pale lunar-white. Skin holds the deep living green of old forest, often with bark-like hardening or luminescent fungal growths along joints and collarbone. **Where an Ironblood scar glows red, a Verdant Orc's equivalent pulses with cold silver-green.**
 - ****Spoor-Melds** and **Ancestor-Rot Gardens****
   **Spoor-Melds** · Group meditations in which participants release Aetheric spores to form a localized Noöspheric cloud. Within it, **the tribe shares memories and emotions directly, without language.** The cloud persists for hours and is sometimes visible as green mist at ground level.
 
   **Ancestor-Rot Gardens** · The dead are placed in sacred groves. Their decomposition fuels the growth of **Soul-Trees** — each tree carrying the compressed Aetheric signature of the person it grew from. *Walking through an Ancestor-Rot Garden is walking through accumulated lives.*
+
 **Language** · Swamp Parunic, a sibilant rot-infused dialect. Beast-sign for silent field communication.
 > **Solar/Radiant Vulnerability** — −30% all stats in Radiant, Fire, or Sun-aspected Domains. **Isolation Degeneracy** — after 48 hours away from swamp or kin, stacking −5% Max HP, capped at 50%.
 **Settlements** · Ghurash Hollow · The Blooming Mire · Totemdeep
@@ -91,6 +108,7 @@ Where the Ironblood carry the violence of the impact, the Verdant Orcs carry its
 ### Blackened Orcs
 
 *Major Race · Cursed Remnants / Inverted Shards · Third Eon, caught in the Void rupture during the Fall of the Obsidian Gate*
+
 Not a separate people so much as **an Orc lineage whose Stone-Blood has been turned against itself.** When the Obsidian Gate collapsed, the Void's fallout didn't kill the warbands caught inside its radius. **It converted them.** Their asteroidal origin became an entropic curse. Where Ironblood kinetic energy builds and stores, Blackened energy decays. Where Verdant Orcs cycle and renew, **Blackened Orcs erode.**
 > They are exiled by every other Orc lineage. Elves and Dawi hunt them as **Metaphysical Viruses.** Their presence warps ambient Aether over extended periods, causing Wellsprings to destabilize.
 >
@@ -98,35 +116,45 @@ Not a separate people so much as **an Orc lineage whose Stone-Blood has been tur
 >
 > They know this. *Most of them have made a kind of peace with it that other races find deeply unsettling.*
 **Key limitation · Divine Rejection** — −50% all stats in Aurevane or Harmonic Domains. All Divine Wellsprings inaccessible. True-Death on death.
+
 **Settlements** · Korrath's Breach · The Hollow Scour · Ruinspire Cradle
 
 ### Crimson Order · Hobgoblins
 
 *Major Race · Primordial Command-Kin / Core-Stone · Direct descendants of the impact core*
+
 **Metaphysical Anchor** · Essence, Structured and Martial — **souls function as Resonance Lattices, not individual units**
+
 They are not shards. **They are the part that absorbed the full pressure of impact and chose cohesion over dispersal.** A single Crimson Order soldier is a sturdy anchor. A formation of them creates a **Phalanx of the Soul**, a Resonance Lattice nearly impenetrable to chaotic Aether.
+
 6'8" to 7'6", rigid upright posture, symmetrical athletic skeleton reinforced by the same asteroidal deposits found in Orcs **though arranged with far greater geometric precision.** Skin deep uniform red or burnt ochre, bearing **Legion Etchings** — perfectly straight bioluminescent lines in steady gold or bronze recording rank, unit, and earned designation. Eyes polished brass or iron with mechanical intensity. **In formation, their pupils go rectangular:** a Command Glyph configuration overlaying tactical data across their field of vision.
 > **The Vow of Silence** · A rite of passage from Stage I through Stage VI designed to prevent Trait corruption through emotional interference. **The Vow is not metaphor for the Crimson Order. It is load-bearing.** Breaking it triggers immediate Aetheric collapse.
 >
 > **The Engraving** · During stage transitions, new oaths are literally carved into the Soul Crystal, making their laws a physical part of their being. **A Hobgoblin who swears an oath has not made a promise. They have made an anatomical fact.**
 **Language** · High Concord for formal and diplomatic contexts. **Silent Sign-Glyphs** for the field — micro-gestures and shared Aetheric pulses. In deep cold or on broken ground a formation falls back to a horn count.
+
 **Key limitations** · **The Brittle Vow** — breaking any Engraved Oath triggers immediate Dissonance and −50% Max HP for 24 hours. **Emotional Null** — cannot wield Emotional, Dream-aspected, or Chaotic glyphs.
+
 **Settlements** · Fortress-Monastery of Haldrek · The Quiet Spire · Echohold of Stoneblood Vale
 
 ### Tinker Goblins
 
 *Goblinoid · Chaotic Innovators · Third Eon splinters from collapsed Hobgoblin workshops*
+
 **Metaphysical Anchor** · Essence, Kinetic and Unstable — **souls too high-pressure for their small frames**
+
 They emerged when Hobgoblin workshop factions fragmented and their Essence practices **devolved from discipline into compulsion.** Small — 3'2" to 4'0" — asymmetrical in build, often with one limb modified or reinforced through self-applied **Spliced Runes.** Multifaceted eyes in amber, electric blue, or quicksilver, capable of perceiving Aetheric frequencies. *They smell of chemical burn, soldering copper, and scorched paper.*
 > They are brilliant in the way unstable systems are brilliant: **they solve problems that structured minds won't touch because the solution requires not caring about what else might break.**
 >
 > Their Emotional Detonation curse is not purely a weakness. **More than one Tinker Goblin has won a fight by simply being in proximity to their own failure state.**
 **Key limitations** · **Physical Fragility** — −40% HP pool; most do not live past 40 due to Essence-rot. **Emotional Detonation** — 20% chance of the Essence pool detonating on a failed Mental Save.
+
 **Settlements** · Bangkrag Wastes · Glyphfire Alley · The Copper Clatterhold
 
 ### Fleshshaper Goblins
 
 *Goblinoid · Bioglyphic Architects · Silent Epoch glyph-plague survivors*
+
 The most alien of the goblinoid peoples to outside observers — 3'6" to 4'8", highly irregular and often asymmetrical bodies, **the result of constant self-modification.** Skin is inked parchment over **Skin-Records**: raised, scarred ridges of memory-glyphs that pulse blood-red or sickly yellow when their Traits are active. Hair is frequently replaced by sensory filaments or quill-like growths tuned to ambient Essence shifts.
 > Their souls are **folded into their organs** — not radiating outward like most races, but contained in a messy pulsing network of veins and glyph-chains that makes their bodies themselves **a living Aetheric battery.**
 >
@@ -141,7 +169,9 @@ The goblinoid languages are not a family in the linguistic sense. They did not b
 ### Old Vaross
 
 Ancestral tongue. Guttural, tectonic, built on sub-bass consonant stacks. Words feel like stone sliding against stone. **The language does not have a neutral register — every sentence is freighted.**
+
 **Old Vaross is not a dead language. It is a dormant one.** Most goblinoids speak it only in ritual contexts, but the vocabulary persists because it describes things newer tongues cannot capture without losing resolution.
+
 Dominant consonants are `K`, `G`, `R`, and `V`, often stacked without intervening vowels in root words. Verbs are built by adding directional suffixes. **Past and future are not grammatically distinct** — Old Vaross treats time as orientation rather than tense. *It was* and *it will be* use the same root; context indicates direction.
 
 ### Low Goblintongue
@@ -173,6 +203,7 @@ Ritual war-chant language. **Exclusively oral. Never written.** Structured aroun
 ### Swamp Parunic and Beast-Sign
 
 **Swamp Parunic** · Sibilant, rot-infused, slower than Low Goblintongue, long vowels held on breath. Words for decay, renewal, transformation, and cycles are the most lexically rich in the language — **more words for different kinds of rot than any other tongue has for weather.** Certain phrases, spoken in proximity to high Aetheric saturation, can catalyze Spoor-Meld states in Verdant Orcs who are not attempting one.
+
 **Beast-Sign** · Verdant Orc tactical gesture-language. Roughly **400 distinct signals** covering directional instruction, threat assessment, terrain description, and emotional-state transmission. Rarely taught outside Verdant communities, not from secrecy but because most non-Verdant hands lack the sensory filament feedback that makes its nuanced signals distinguishable. *Crimson Order operatives trained in its basics describe it as the most information-dense communication system they have ever studied.*
 
 ---
@@ -180,8 +211,11 @@ Ritual war-chant language. **Exclusively oral. Never written.** Structured aroun
 ## Shared Practices
 
 Across lineage boundaries, several practices are held in common — not through deliberate cultural exchange in most cases, but because they **emerge naturally from a shared origin. They are what Stone-Blood does when it is given time and some degree of peace.**
+
 **The Blood-Rite of Lineage** · Communal and ceremonial in Ironblood practice; often solitary in Verdant practice, performed at the edge of water during lunar peaks. In Za'tarch's mixed practice it has evolved into a mutual rite where participants from different lineages perform it simultaneously, **acknowledging the shared origin beneath their differences.**
+
 **Skin-Marking** · The most ancient of the shared practices. Archaeoaetheric researchers have found Skin-Marking patterns in stone-impressed records **predating the Second Eon's formal history** — suggesting the practice emerged directly from the first post-impact generations, before any goblinoid language was formalized.
+
 **Ancestor-Breath Exercises** · Structured breath-work combined with Soul Crystal awareness, maintaining the connection to Kha-Urrum's original impact-frequency. In advanced practitioners, sustained Ancestor-Breath produces **a faint sub-bass resonance audible to other goblinoids nearby** — a confirmation signal that the connection is intact.
 > **The Open Palm** · *Keth-ur.* In every goblinoid tradition, presenting open palms in a confrontational context carries the same meaning: **I have already laid down the more important weapon.**
 >
@@ -194,8 +228,11 @@ Across lineage boundaries, several practices are held in common — not through 
 ## Za'tarch — The Living Proof
 
 Za'tarch sits in the **Ashenmoor** — a stretch of cracked-riverbed territory and low pine forest that no other people wanted badly enough to take. **This is not incidental.** The founding generation chose land that was difficult precisely because land that was easy would have been contested. They accepted the Ashenmoor's winters and its wet springs and its difficulty growing grain in exchange for **the simple fact that nobody came for it.**
+
 The settlement is arranged in rough concentric rings around a central fire-pit built from smooth river stone. Three generations of hands carried those stones in — goblin, orc, hobgoblin — each placed with the kind of intention that other peoples reserve for temples. **The pit is Za'tarch's lungs.** Someone tosses pine resin and crushed herbs on the coals each evening as offering. *It doesn't smell holy. It smells like home.*
+
 **Population** · Roughly 200 permanent residents, 30–40 transient. Primarily Ironblood Orcs, Crimson Order Hobgoblins, and Tinker Goblins.
+
 **Governance** · Elder council with rotating voice-holders from each lineage. Gorrum Ashentusk holds structural authority **but refuses formal title.**
 > Za'tarch is **not a refuge. It is a proof.** The distinction matters to everyone who lives there and to no one outside it, which is part of the point.
 >
@@ -206,7 +243,9 @@ The settlement is arranged in rough concentric rings around a central fire-pit b
 ### Internal tensions
 
 The tension that structures Za'tarch's politics is **not between lineages. It is generational.** It is the tension between those who have lived long enough to understand what anger costs, and those who are currently paying that cost and have not yet seen the receipts come in.
+
 **Gorrum** represents one side: eleven years of anger, four men killed, and the settlements that burned his people kept growing anyway. He arrived at soul-work through failure, not through theory, **which is why his doctrine does not sound like philosophy. It sounds like testimony.**
+
 **Vreth** represents the other: twenty-two years old, Ironblood to his marrow, bearing five iron rings for five confrontations he didn't start and did finish, watching land get cleared and warrens get burned while elders talk about proof. **He is not wrong.** The children at Kellrath's Crossing did not have time to push any limits. Vreth carries this the way you carry something you cannot put down **because putting it down would mean it didn't matter.**
 
 ### Key residents
@@ -253,4 +292,5 @@ The tension that structures Za'tarch's politics is **not between lineages. It is
 ---
 
 > *"The world has seen the mountain. It has not seen what makes it."*
+>
 > — Gorrum Ashentusk

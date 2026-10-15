@@ -11,6 +11,7 @@ verification: null
 # Lucius Xenotro
 
 **Say it** · LOO-shus zeh-NOH-troh
+
 *Lucent Sea · First Grand Paladin of the Sancta Lux · Faisal's Blessed Child · The First Summoner · Card 17*
 > ***He Who Drowned Darkness in Light***
 > 
@@ -21,11 +22,14 @@ verification: null
 ## I · Identity and Core Profile
 
 **As Of** The order's founding, before Faisal's blessing descends
+
 **Age** 22 · **Race / Lineage** Human · Xenotro Lineage · **Angelic-Blessed Mortal**
+
 **Faction** Sancta Lux — **Founding Era** · **Stage VIII — Transcendence**, rising to **Stage IX — Invocation when Faisal's blessing fully descends**
 > His mother died during the plague-years, **when the Grand Demon Malakar released pestilences into the mortal world.** *That grief became the fracture that awakened his Soul Crystal.*
 > 
 > Blessed by **Faisal**, a Grand Angelic Spirit, he wields **light as holy law and measurable physics** — manipulating the electromagnetic spectrum through Aether: **wavelength, frequency, reflection, refraction, photon density, polarization, scattering, ultraviolet sterilisation, infrared heat, and coherent beam formation.**
+>
 > **He is dangerously overpowered for his age because his Soul Crystal behaves like a living prism.**
 >
 > *He does not simply create light.* **He classifies it, bends it, weaponises it, consecrates it, and uses it to summon luminous angelic eidolons.**
@@ -51,6 +55,7 @@ verification: null
 | **Cymorath** | Reads vibration **through light-scattering**, armour tremor, dust movement |
 
 **Measured output** · Visible **400–700 nm** · UV cleansing **240–315 nm** · Infrared **780–3,000 nm**
+
 **Can raise a dark field to blinding noon intensity within 60 metres in 1.8 seconds.** *Focused beam heats exposed steel by 400–900°C over 0.6–1.4 seconds.*
 > **Systemic Risk.** Overuse causes **retinal burn, optic nerve strain, nosebleeds, heat sickness, skin blistering from UV backlash, vertigo from refraction, and Soul Crystal shell stress from over-summoning.**
 
@@ -69,6 +74,7 @@ verification: null
 | **Attraction Scale** | **A+ · Seraphic Lucent Field** — *his presence makes dust glow, shadows sharpen, illusions weaken, and demonic Aether become easier to see* |
 
 **Strike Force** 0.38 GN baseline / **4.2 GN radiant reinforcement** · **Durability** 1.4 PJ shielding / 26 GJ hardness
+
 **Speed** Mach 12 sustained / **Mach 42 burst reposition** · **Range** 90m field / 300m beamwork / **1.2km ritual beacon**
 
 ---
@@ -79,7 +85,9 @@ verification: null
 >
 > He fills the air with **Aether-lens particles that cling to dust, moisture, glass, polished metal, blood mist, and Essence vapour.** *These particles alter scattering and refraction, letting him detect movement, breath shifts, armour tremor, and hidden bodies.*
 **Prism-Born Soul Crystal** · **Splits Essence into stable wavelength channels at 92% efficiency** — *red heat, gold defence, blue-white cutting, violet cleansing, clear-white summoning structure.*
+
 **Faisal's Mark** · **Increases effectiveness against demonic Essence and plague-Aether by 35–70%.** *Demonic tissue absorbs more of his violet-gold radiance than healthy matter, causing corruption to heat, crack, denature, or unravel.*
+
 **Halo Reflex** · Improves reaction timing by **0.08–0.18 seconds** against visible attacks — *reading incoming motion through reflected light, air disturbance, shadow shift, and vibration before the strike fully arrives.*
 
 ---
@@ -106,7 +114,9 @@ verification: null
 >
 > **Limit:** vacuum, abyssal darkness, black ash storms, anti-Luminalis fields, **and civilian-heavy battlefields**
 **Aureate Paladin Plate** · white-gold over mail and gambeson — **deflects edges, protects gaps, diffuses blunt force, spreads radiant backlash.**
+
 **Faisal's Prism Rosary** · crystal beads storing spectral bands — stabilises Violet Cleansing.
+
 **Lux Aeterna Blade** · mirrored paladin sword **carrying coherent light along the edge.**
 > **Halo Circlet** · regulates Faisal's blessing.
 >
@@ -117,8 +127,11 @@ verification: null
 ## VII · Lore and Trajectory
 
 **5'11"**, slender, elegant, **deceptively durable.** Pale moonlit skin, white-blond layered hair, **amber-red eyes that refract into gold, violet and white under activation.**
+
 **The Plague of Glass Lungs** — Malakar's plague killed his mother. *His Soul Crystal awakened in grief and emitted weak violet light while he slept.*
+
 **The First Cleansing at Veyr Chapel** — at seventeen, **purified infected survivors without burning them alive.**
+
 **The Seven Eidolons Miracle** — at twenty, he summoned seven luminous eidolons **and went blind for three days.**
 > **The Founding of the Sancta Lux** — he became Grand Paladin because his doctrine proved **holiness must become measurable protection, not beautiful language.**
 **Weaknesses** · Void absorption, smoke, ash, fog, rain, **curved reflective armour, blind fighters, hostage Essence fields**, over-summoning, and Soul Crystal spectrum overload.
@@ -133,25 +146,33 @@ verification: null
 #### Origin
 
 Lucius Xenotro was born human, of the Xenotro lineage. He grew up in the plague-years, "when the Grand Demon Malakar released pestilences into the mortal world", while the Great Spirit War was fought across it. The pestilence that reached his house was the one his record calls the Plague of Glass Lungs. His mother caught it.
+
 It went for her breath. He sat on the floor beside her bed through the worst of it and listened. He learned which sounds came before a bad night and which came before a quiet one. He knew what each of them meant and had nothing to answer it with.
 
 #### The Making
 
 Malakar's plague killed his mother. His Soul Crystal awakened in grief and emitted weak violet light while he slept. Violet was the first light he made, and it stayed the colour of his cleansing.
+
 Faisal, a Grand Angelic Spirit, blessed him, and after it he was called Faisal's Blessed Child. He learned to split what he made into bands and set each band to one task: red for heat, blue-white for cutting, violet for cleansing, gold for protection, clear-white to hold the frame of a summoning. His body changed to carry the work. His eyes came to bear a glare that would blind another man. His blood learned to shed heat fast.
+
 At seventeen he was at Veyr. A siege had held the fortress-city in collapse without breaching its walls, and the defenders had turned on one another inside them. When it ended, the survivors were carried into Veyr Chapel, infected. Lucius purified them there without burning them alive. He read each one before the light went in, the breath first, then the fever and the heat in the blood. He never saw who had held the siege. The walls had stood between them.
 
 #### The Cost
 
 At twenty he raised seven luminous eidolons at once on Faisal's blessing, and the seven made the order's name. He went blind for three days. Others fed him and led him by the arm until his sight came back.
+
 Heavy work billed his body. It burned his retinas and strained the nerves behind them. It bled his nose and brought on heat sickness, and it blistered his skin where the violet came back on him. Bent light set the room turning under him.
+
 He held the rest of his light to the standard he had kept at Veyr. His violet cleansing, which bore the name Malakar Requiem, read each host's breath, fever and blood before it acted, so that it would not kill the person it was cleansing. His widest field was made to do no indiscriminate harm. That standard had a price wherever people crowded. On a field thick with civilians his sea of light thinned, and an enemy who mixed hostages into the fight could blunt it.
+
 He measured the blessing too. He wore a Halo Circlet to regulate it. Broken, the circlet would make him stronger for a short while and then catastrophically unstable. He kept it on.
 
 #### Where They Stand
 
 He was made Grand Paladin at the order's founding, because his doctrine proved holiness must become measurable protection. At twenty-two he is the First Grand Paladin of the Sancta Lux. He is slender and pale, with white-blond hair and amber-red eyes that break into gold, violet and white when he works. He speaks softly. He wears white-gold plate over mail and gambeson and carries a mirrored sword that runs light along its edge. A rosary of crystal beads stores his bands and keeps the violet steady.
+
 Faisal's blessing has not yet fully descended on him. The road he means to take runs toward command of the whole spectrum, and toward one band he does not have yet: black-edged radiance, for judgment against demons hiding inside shadow.
+
 The order's later account keeps him as its First Grand Paladin, with Veyr Chapel and the seven eidolons, and the floor of the Grand Church is inlaid with that lineage. The law the order runs by now was written by Darius and dated back to the founding Lucius stood in. The order also records that Malakar afterward took Faisal apart into six pieces. The order is still looking for them.
 
 #### Ties

@@ -29,8 +29,10 @@ Wyther governs the **Law of Continuance through Change**, the metaphysical truth
 #### Kineris — The Magic of Flux and Momentum
 
 Kineris is the Archonic magic of perpetual transformation, kinetic amplification, and the refusal to allow any system to reach terminal equilibrium. Practitioners of Kineris do not merely move faster; they embody the principle that change is the fundamental currency of survival.
+
 At its **lowest expression**, Kineris grants enhanced kinetic awareness, the ability to read and redirect momentum, and the capacity to amplify physical motion with Essence until speed itself becomes a weapon. At its **highest expression**, Kineris becomes the power to shatter stagnation on a civilizational scale, to restart Wellspring flows that have ceased, to ignite storms of transformative energy that reshape terrain, culture, and metaphysical law in a single upheaval.
 > **Through Attraction Force** · Kineris becomes evolution, the lawful progression from what was to what must be, the wind that carries seeds to fertile ground.
+>
 > **Through Obsession Force** · It becomes chaos without purpose, the compulsive need to destroy every stillness, the storm that tears apart what it should merely reshape.
 **Connections** · Perpetual friction with Maelor (Memory), whose stillness archives what Wyther dissolves. Respected yet opposed by Urion (Balance), their dialogue forming the pulse of cosmic rhythm. Admired by Veyra (Desire), whose longing finds movement through him. Natural enemy of Auren (Death), whom he calls *"The Great Stillness."*
 
@@ -52,7 +54,9 @@ Auren governs the **Law of Transition**, the truth that nothing truly ends, but 
 #### Mortaris — The Magic of Passage and Silence
 
 Mortaris is the Archonic magic of lawful ending, soul passage, and the enforcement of death as a sacred threshold rather than an annihilation. Practitioners of Mortaris do not merely kill; they facilitate the transition from one state of being to another, ensuring that what dies is properly received, recorded, and released.
+
 At its **lowest expression**, Mortaris grants the ability to perceive the proximity of death, to ease the passage of dying souls, and to enforce stillness upon restless undead. At its **highest expression**, Mortaris becomes the power to seal entire necrotic Domains, to close the passage against souls that refuse their ending, and to enforce the absolute finality that even entropy cannot devour.
 > **Through Attraction Force** · Mortaris becomes peaceful passage, the mercy of a death that remembers the life it concludes.
+>
 > **Through Obsession Force** · It becomes the tyranny of premature ending, the compulsive need to silence what still lives, the stillness that spreads not as peace but as extinction.
 **Connections** · Eternal opposition to Wyther (Motion), whose storms deny stillness. Bound by solemn accord to Maelor (Memory), for remembrance grants death meaning. Mutual acknowledgment with Urion (Balance); together they weigh the measure of life. Resented by Veyra (Desire), whose fire he must extinguish in the end. Feared by Uurgath (Disruption), for death is a truth even entropy cannot devour.

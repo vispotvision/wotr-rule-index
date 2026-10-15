@@ -12,6 +12,7 @@ verification: "unverified"
 
 *Being the Recovered Journal of Vis Trismegistus, Alftian Savant · in three volumes*
 > Transcribed by the Silent Archivists of Naln, Era of Voyagers. **Recovered from the sealed lower stacks of the Herald's Archivum, Urbis.**
+>
 > *Classification: Hermetic Lore — Restricted Access, High Wellspring Sensitivity*
 > 
 > > *"That which courseth above is as that which courseth below. That which burneth in Tempus burneth also in the Soul Crystal. There is but one law, and it is everywhere."*
@@ -81,8 +82,11 @@ flowchart TD
 ## Cross-References
 
 **The Corrant Papers** · Research Archives Division, Guild Accord, **Level IV Clearance.**
+
 **The *Necrocursica** *· Restricted, Genesio Archivum.** Noxinus Ren's compelled treatise.
+
 **The Vaughaus Thom Submission** · formally *On the Fourth Residue Category and Its Application to Anamnetic Wellspring Activation.* Newly declassified, co-authored with G. De Raits, annotated by V. Trismegistus.
+
 *Named but not otherwise described: Halveth, Archivum annotator — and the Research Division's effective director for eleven years while appearing to be an annotator. She solves problems by appointing the people who created them to fix them, on the accurate assessment that they are the only ones who fully understand them.*
 - [[Lore & History/The Alftian Codex/Volume the First]]
 - [[Lore & History/The Alftian Codex/Volume the Second]]

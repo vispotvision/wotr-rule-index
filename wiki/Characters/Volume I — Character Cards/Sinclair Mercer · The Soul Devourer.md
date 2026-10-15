@@ -12,6 +12,7 @@ verification: null
 
 **Say it** · SIN-klair MER-ser
 > *"Every soul is a song. I silence it, and then I make it mine."*
+>
 > **Rebuilt 15 August 2026 from the Trello Volume III sheet. Originated, pending Isaac's ruling.**
 >
 > The prior sheet gave Sinclair three Soul Crystals, a "Wellspring of Abyssal Ruin" that does not exist in the register, and a progression path built from the Great Work's alchemical operations. **All three are structural errors and none of them survived.** What did survive is the character: a man who eats souls and cannot stop.
@@ -21,10 +22,15 @@ verification: null
 ## I · Identity
 
 **As Of** · After the hunt for Tilda failed
+
 **Name** · Sinclair Mercer.
+
 **Called** · The Soul Devourer. The Sculptor of the Echoed Dead. In the Sancta Lux censor rolls, simply *the Cannibal*, which is the only name he has ever objected to.
+
 **Era** · Age of Calamity.
+
 **Standing** · Unaffiliated. Formerly of the Spiral Covenant, which no longer acknowledges him and which he has never acknowledged leaving.
+
 **Origin** · Abythron, the Titan Zar'thuun's domain of unmaking. Half-mortal, given to the Titan as a sacrifice that did not take.
 > **Catalyst Event.** Sinclair was offered to Zar'thuun and **the Titan declined him.** He was not accepted, not transformed, and not returned — he was left standing in the unmaking with a Crystal that had opened to something that had no interest in him.
 >
@@ -45,6 +51,7 @@ verification: null
 | **Attraction Layer** | **Operating under Obsession Force rather than Attraction.** He does not recognise what he takes. He takes it, and the taking is sustained by refusal rather than by harmony, at escalating soul-cost |
 
 **Crystal State** · Fractured, and stable in that condition for longer than the literature says is possible. *Three assay houses have recorded him and none has been willing to certify the reading.*
+
 **Essence colour** · Limina black-violet. Not a colour so much as the absence of the colour that should be there — **and observers report perceiving the theft before they perceive the thief.**
 
 ---
@@ -67,10 +74,14 @@ verification: null
 ## IV · Primary Stats
 
 **Temperance Stage** · **XI — Dissonance.** *Originated, and the fit is exact.* The Sixteen Stages records that practitioners **trapped in** Dissonance rather than passing through it are the most dangerous individuals in the four quarters by a wide margin, because they hold SS-Grade output organised around an unresolved contradiction **and no structural reason to stop.** That is Sinclair described without reference to him.
+
 **Level Band** · IV — Mythic · **Tier of Standing** · 7, Grandmaster · **Level** · 338 · **Grade** · SS, fracture risk above 700 · **Stat ceiling** · 750, structurally unstable.
+
 *The two Band figures are different axes and both are correct. Level Band IV covers levels 301–400; Tier of Standing 7, Grandmaster is what Stage XI reads on the ladder.*
 > **The point economy, worked.** Band I at 12 a Level across 1–100 contributes 1,200. Band II at 15 a Level across 101–200 contributes 1,500. Band III at 18 a Level across 201–300 contributes 1,800. Band IV at 21 a Level across 301–338 contributes 798. Threshold bonuses for Stages I through XI contribute 6,600, Stage I counting (R39-3). Total: 11,898.
+>
 > <empty-block/
+>
 > **Total lifetime pool: 11,898.** Allocated below: 11,768. Unspent: 130. *Re-costed to Part Three's current allotment (R38-2, 2026-09-13; the sheet's pool was 15,430).*
 
 | Primary Stat | Value | Grade | Reading |
@@ -123,7 +134,9 @@ verification: null
 ## VI · Physical Force
 
 **Strike Force** · Ardency 466, low-mid SS-Grade. Roughly **30 TN peak contact force, on the order of 80 TJ energy yield, near 20 kilotons equivalent.** Town-level destructive capacity, which he almost never expresses as destruction because his delivery is severance rather than impact.
+
 **Lifting Strength** · Vitality 328, low S-Grade. **On the order of 60 million tonnes sustained.** Real, and irrelevant to how he fights.
+
 **Speed** · Dexterity 378, A-Grade. Travel in the region of **15,000 m/s**; reaction between **0.05 and 0.2 milliseconds.**
 > **The exploitable asymmetry.** His Resilience sits at 742 and his Vitality at 426 — **a full two Tier Grades apart.**
 >
@@ -136,7 +149,9 @@ verification: null
 ## VII · Aether Flow
 
 **Aether Class** · VI · Voidic. Qualitatively different rather than more efficient.
+
 **η** · 0.85–0.90, per the Tier of Standing 7, Grandmaster range. *Sourced.*
+
 **Reserve behaviour** · Anomalous, and the anomaly is the whole of his reputation. **A Voidic Shell's intake is not accounted for in the standard reserve model**, which is why the assay houses will not certify him and why the Bureau of Strategic Assessment carries him on a separate ledger.
 > **Provenance note, and it is not a small one.** Everything Sinclair does is, in the Standing Index's own terms, **Class IV Crystal Draw performed without a bench, a formula, or an entry.**
 >
@@ -147,8 +162,11 @@ verification: null
 ## VIII · Traits
 
 **Soul Rend** · His strikes act on soul structure rather than tissue. Temperance is disrupted, Aether response slows, and metaphysical defences unravel from the inside. *The wound does not bleed and it does not close.*
+
 **The Devouring Spiral** · Proximity to him is expensive. Essence bleeds toward him without his acting, and the bleed is not something he can switch off. **He has been asked to and cannot, and the request is one of the few things that reliably angers him.**
+
 **Soul Sculptor** · Absorbed fragments are shaped into weapons, defences, and constructs that hold the temperament of whoever they came from. **A construct forged from a person he knew argues with him.**
+
 **The Warden** · His shadow acts independently. It binds, shields, and draws Essence through contact. *It has not obeyed him in some years and he has stopped correcting it in front of witnesses.*
 
 ---
@@ -156,7 +174,9 @@ verification: null
 ## IX · Domain
 
 **The Unwritten Grave.**
+
 A standing region in which the accumulated dead he carries become locally present — not summoned, not raised, **but no longer subject to the ordinary courtesy of being gone.** Constructs form from the ambient field without his direction. The screaming is not atmosphere; it is the Eidolyn template reproducing the flaw in his intent at scale, faithfully, every time.
+
 **Formation** · Stage VIII standard, held since. The Domain has outrun his control of it, which is consistent with a Crystal trapped in Dissonance rather than passed through.
 
 ---
@@ -166,14 +186,19 @@ A standing region in which the accumulated dead he carries become locally presen
 ### Abyssal Dominion Pulse · *Signature*
 
 **Effect** · He opens the Core rather than striking with it. Everything he has taken arrives at once in a spreading front, and what it touches begins preferring the unbound state — armour separating at the seam, formations losing the will that held them in line, a man's grip opening on a weapon he has held for twenty years. The ground keeps the constructs afterward. **They stay for days and they do not stop.**
+
 **Cost** · He surrenders the fragments spent, permanently, and each one was load-bearing in a Crystal that has no other structure. *For a month afterward he cannot recall names he knew, and he does not know which names are missing until somebody says one.*
+
 **Limit** · It cannot be aimed. The front spreads from him in every direction and does not distinguish.
+
 **Counter** · Chainsalt. The isolation lining that makes a sealed coffer read as a box of salt reads the same way to him — **a Sealwright team working from behind Chainsalt plate has taken him twice, and both times he left rather than press it.**
 
 ### Phantom Chains
 
 **Effect** · Shadow and fragment condensed into restraint. What is bound stops being able to spend Essence, and the binding tightens against effort rather than yielding to it.
+
 **Cost** · The chains are made of somebody, and holding them costs him the use of that fragment for as long as the binding stands.
+
 **Limit** · They hold a person. They do not hold a construct, a beast without a Crystal, or anything already dead.
 > **What nobody knows.** A soul Sinclair has consumed does not read as absent on any instrument the Accord possesses. **It reads as elsewhere.** The Research and Archives Division has never published this, because the only correct inference from it is one the Division is not prepared to write down.
 
@@ -192,6 +217,7 @@ A standing region in which the accumulated dead he carries become locally presen
 ## XII · Resistances
 
 **Strong** · Conceptual erasure, perceptual manipulation, fear and compulsion effects. Anything addressed to a self that is already fractured finds no clean surface to work on.
+
 **Weak** · **Radiant current**, in common with most of the register. Sustained physical trauma, because his Vitality never developed. **Chainsalt and any properly cut isolation working**, which is the practical counter and the reason Enforcement teams that engage him bring a Sealwright rather than a champion.
 
 ---
@@ -199,8 +225,11 @@ A standing region in which the accumulated dead he carries become locally presen
 ## XIII · Physical Description
 
 Tall, and thinner than a man his height should be, with the specific gauntness of somebody whose body has been running a deficit for years and has adapted to it rather than corrected it. Hair black, worn back off a high forehead, dry as dead grass at the ends where the colour has started leaving. The face is long and the cheekbones carry it; he would have been handsome at thirty and is not now.
+
 **The eyes carry Draft-mark**, the sclera discoloured to a bruised violet that a renderer would name off the colour in under a second. His nailbeds carry the same. Hands narrow, unscarred, and **noticeably steady** — there is no tremor in him, which is the wrong result for what he does and which every physician who has examined him has commented on.
+
 He dresses well and out of date, in dark wool cut in a fashion that was current in Abythron a generation ago, worn thin at the cuffs and mended carefully. **The mending is the detail people remember.** A man who eats souls sits up at night with a needle.
+
 His shadow does not always match him. Most people notice and correct themselves, and the correcting is audible.
 
 ---
@@ -208,7 +237,9 @@ His shadow does not always match him. Most people notice and correct themselves,
 ## XIV · Psychology
 
 He is courteous, and the courtesy is real rather than performed. He does not raise his voice, he does not enjoy killing, and **he has genuinely never understood why the distinction fails to help his case.**
+
 His governing belief is that the hunger has a bottom. Everything he has done proceeds from it: if there is a bottom, then the taking is a finite debt with an end, and a finite debt can be paid. **The Heresiology names the condition without naming him** — a corrupted operation sustained by refusal rather than by recognition, running at escalating cost, in a practitioner who will not stop because the working is no longer a thing he does but a thing he is.
+
 What he refuses is being told to stop, and he refuses it violently and out of proportion to how it is said. *The refusal is the tell, and every censor who has interviewed him has come away with the same note in the margin.*
 > **One private thought, for prose use.** *He counts them. Not deliberately — the number is simply available to him the way the time of day is, and it has not gone down.*
 
@@ -217,7 +248,9 @@ What he refuses is being told to stop, and he refuses it violently and out of pr
 ## XV · Equipment
 
 No weapon. He has never carried one and considers the question slightly vulgar.
+
 **A sealed coffer**, Chainsalt-lined, which he uses to carry fragments he is not currently spending. *He is aware of the irony that the material which counters him is also the material he relies on, and he has said so, once, to somebody who did not survive the conversation.*
+
 **A physician's roll** of fine needles and dark thread. For the coat.
 
 ---
@@ -225,9 +258,13 @@ No weapon. He has never carried one and considers the question slightly vulgar.
 ## XVI · Temperance Record
 
 **I–III** · Ordinary and undocumented. Half-mortal, Abythron-raised, nothing in the record.
+
 **IV · Flourishing** · An Axis formed, and is gone. Name not recorded.
+
 **V · Splintering** · Survived the Abythron rejection. **The fracture ran along the rejection and was promoted to a load path**, and everything after is built on it.
+
 **VI–X** · Fast, and the speed is itself suspicious. *No instructor is recorded for any of it.*
+
 **XI · Dissonance** · **Entered and not passed.** He walked toward the thing that could end him, remained coherent, and did not choose — which is the one outcome the Catalyst does not provide for.
 
 ---
@@ -235,8 +272,11 @@ No weapon. He has never carried one and considers the question slightly vulgar.
 ## XVII · Fracture Log
 
 **The rejection.** Load-bearing, permanent, and the origin of everything on this sheet.
+
 **The lost Axis.** Structurally present. The architecture is still Axis-shaped.
+
 **Accumulated carry.** Every fragment he holds is unintegrated by definition, and the seat reads catastrophically rough. **He would be barred at Tier Four by any assay house in the four quarters**, which is the exact arrangement the Sixteen Stages describes: the instrument is honest, and it is reading what somebody's origins could afford.
+
 **Tilda.** Not a fracture. An absence where a fracture would be, and he is not able to say why.
 
 ---
@@ -252,35 +292,53 @@ No weapon. He has never carried one and considers the question slightly vulgar.
 #### Origin
 
 Sinclair Mercer was born half-mortal in Abythron, the Titan Zar'thuun's domain of unmaking, and he was raised there. At the heart of that domain lay a sphere of absolute black ringed by dissolving starlight. It took in what every other ground gave out. Zar'thuun unmade what was excess.
+
 Nobody wrote down who bore him, or what the other half of him was. His first years left no trace in any record. They were ordinary.
+
 Abythron had tailors. He grew up in their dark wool, and he learned young to sit with a needle and dark thread and close a worn cuff so the repair could hardly be found. It was the one craft he kept from home.
 
 #### The Making
 
 A bond formed in those years, the first thing his strength was ever built around. No one wrote down the other name.
+
 Then somebody gave him to Zar'thuun as a sacrifice, and the sacrifice did not take.
+
 Sinclair was offered to Zar'thuun and the Titan declined him. He was not accepted, not transformed, and not returned. He was left standing in the unmaking with a Crystal that had opened to something that had no interest in him.
+
 What he carried out of Abythron was the shape of a hunger that had been aimed at him and missed, and he fed it from that day on the theory that it would eventually be full.
 
 #### The Cost
 
 The break the rejection left in him never healed. Everything he became afterward was built on it. He climbed fast after Abythron, faster than anyone could account for, and no teacher is recorded for any of it. For a time he belonged to the Spiral Covenant. In time it stopped acknowledging him. He never acknowledged leaving.
+
 He ate souls. His blows went into the soul of whoever he struck, and the wound neither bled nor closed. Essence bled toward him from anyone who stood near him, whether he acted or not. People asked him to stop it. He could not, and the asking angered him as little else did. What he took, he shaped into weapons, into defences, into constructs that kept the temper of the person they were made from. A construct made from somebody he had known would argue with him.
+
 When he opened himself and let everything he had taken go out at once, the ground kept the constructs for days, and the fragments he spent were gone from him for good. Each had been holding up part of a self with no other frame. For a month afterward he could not recall names he knew, and he did not learn which were missing until somebody said one. The chains he bound people with were made of somebody, and he lost the use of that fragment for as long as a binding stood. His shadow bound and shielded and fed on its own. In time it stopped obeying him, and he stopped correcting it in front of witnesses.
+
 From Abythron on, he held that the hunger had a bottom. If it had a bottom, the taking was a finite debt with an end, and a finite debt could be paid. He always knew the count. What he refused was being told to stop. He refused it violently, out of all proportion to how it was said.
+
 In the Age of Calamity he came on foot onto the flood-basalt steps at the Crevice margin, in his dark wool coat. The Bloodspine clan lay dying there, inside the Fractured Crown that Iskaron Thalnaris had left on the ground when he walked off it. Under the Crown an escape went unanswered. The one man left to carry them, their chieftain Gorrath, would not leave the ground. Sinclair went among them and knelt beside each in turn. He was courteous with them. One by one they stopped. He took them, and he did not hurry.
+
 Gorrath came at him over the fallen columns. Each time the orc arrived, Sinclair was somewhere other than in front of him.
+
 Sinclair stood up from the man he was kneeling beside and left. None of the Bloodspine lived to the next morning. What he was not spending of them went into the Chainsalt-lined coffer he carried. The count rose.
+
 Twice he was badly hurt, both times by professionals far beneath him who wore good plate, closed fast and kept closing. Twice a Sealwright team took him from behind Chainsalt plate. Both times he left and did not press it. The material that answered him was the material his coffer was lined with, and he said so once, to somebody who did not survive the conversation.
 
 #### Where They Stand
 
 He stands unaffiliated. He is tall and too thin for his height, gaunt from years of a deficit his body has adapted to. His black hair is worn back off a high forehead, dry as dead grass at the ends where the colour has begun to leave. The whites of his eyes are a bruised violet, and his nailbeds match. His hands are narrow, unscarred and steady, and every physician who has examined him has remarked on the missing tremor.
+
 He carries no weapon and considers the matter slightly vulgar. He carries the coffer, and a physician's roll of fine needles and dark thread. The thread is for the coat. It is cut in a fashion that was current in Abythron a generation ago, worn thin at the cuffs and mended with care, and the mending is what people remember of him. He sits up at night with the needle.
+
 His shadow does not always match him. Most people notice and correct themselves, and the correcting is audible.
+
 The Sancta Lux censor rolls call him the Cannibal, the only name he has ever objected to. Three assay houses have recorded him, and none will certify the reading. The Bureau of Strategic Assessment carries him on a separate ledger, and Enforcement teams sent against him bring a Sealwright. A soul he has taken does not read as absent on any instrument the Accord possesses. It reads as elsewhere. The Research and Archives Division has never published this.
+
 In the Unwritten Grave, the ground he holds as his own, the dead he carries are no longer subject to the ordinary courtesy of being gone. Constructs form there without his direction, and they scream.
+
 The bond his strength was first built around is gone. What he built on it still has the shape of a bond to somebody who is not there, and nobody has named who that was. He hunted Tilda and did not take her. He does not discuss the failure, and he has twice killed people who raised it. His record holds her as an absence where a fracture would be. He cannot say why.
+
 He counts them still. The number has not gone down.
 
 #### Ties

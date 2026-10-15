@@ -23,6 +23,7 @@ The Guild Accord is the communion of guilds, academies, and Orders, signed circl
 > **The Crystal remembers what the mind forgets. The Lattice preserves what time would erode.**
 >
 > Through this covenant, the Realms endure.
+>
 > **Read the Modern Era page first.** The covenant below is unchanged and so are the Divisions, the Tiered Path, the Commission Classes and the Black Concord. What has changed is the **register**: Lattice terminals, projected sigils, Aether credits and echo marks are rendered in the Draw Age as **the board, seal colours struck in wax, draughts and letters of credit, and entries in ink.** Nothing metaphysical is lost. The Lattice still records. It is not a screen, and nobody in the four quarters has ever seen a number floating in the air.
 >
 > The Modern Era page also carries what this codex never had: **where the Accord actually reaches**, the Divisions as rivals rather than colleagues, the politics of the High Concordant, the company and academy structures beneath the Guildmasters, and the great offices.
@@ -32,10 +33,15 @@ The Guild Accord is the communion of guilds, academies, and Orders, signed circl
 ## Where the Accord Stands
 
 The Guild Accord is being made now, and it is being made in circles.
+
 Within living memory the guilds outran every charter written for them. Hunting monsters became a trade: parties hired by the posting, ventures subscribed in shares, bounties pinned to a board in any town with a hall. A seat that could post a board could raise a hall, and halls went up faster than crowns could license them or the Codex could reach them.
+
 **The Codex is old.** Its sealing is Year Zero In Concordance, and the Citadel, the Divisions, the chancery's formulary and the Bench have run on it for seven centuries, in the Concord heartland and along the chartered routes, binding the practitioners who swore to it and the merchants who chose its courts. **The communion is new.** The Accord proper is the guilds, and the crowns they stand in, signing into the Codex together, one circle at a time.
+
 A circle is drawn and signed in a hall, its names read out one by one, and it binds its signatories under one seal and one body of law. **The first was signed in the lower hall at Kharven-Seat**, by Kharven, the Holy Sea of Alabaster, the Kingdom of Nalūn, and the stretches from the Brine crossing east to the marches of Sum-gol. Others are being argued over in halls and chanceries across the four quarters.
+
 **Where a circle has signed, the Articles and the Commission framework bind as law**: every hall inside it posts to one board, grades by the same Tiers, answers to the same Divisions and licenses hire by the same examination. **Where no circle has signed, they do not bind yet.** There the halls keep their own charters and their own boards, the chancery's courts sit for the parties who choose them, and the Articles are a custom a merchant may take or leave.
+
 And the ground is crowded with those who have not signed. **Holdout guilds** keep their own boards and their own grades, and some are older and richer than any circle. **Rival hunting companies**, chartered by a crown or by nobody, bid against the halls for the same bounties. **Unlicensed crews** work cheapest of all, take the postings no licensed party will touch, and are hired by every district that cannot pay a hall's fee.
 
 ---
@@ -79,6 +85,7 @@ flowchart TD
 
 > *"Duty is the crucible. The soul is the metal. The Lattice remembers what emerges."*
 Every sanctioned mission is classified by two axes: its **Threat Tier** (T1–T9), corresponding to the practitioner rank required, and its **Commission Class**, defining the operation's purpose. A Tier represents existential danger and Essence volatility; the corresponding Temperance Grade reflects **the minimum spiritual stability demanded of participants.**
+
 Commissions are the primary mechanism of advancement. Each completed mission deepens the harmonic resonance engraved upon the Soul Crystal, and the Lattice records these **echo marks** as permanent proof of service.
 
 ### The five classes
@@ -105,6 +112,7 @@ Commissions are the primary mechanism of advancement. Each completed mission dee
 ### Field protocols
 
 Party Leaders hold full tactical authority but remain **metaphysically accountable** to their Guildmaster. Every decision made under a Commission's banner is recorded in the Lattice, and deviations from sanctioned parameters **trigger automatic review.**
+
 **Cross-guild teams** must declare a Primary Commanding Party — resonance overlap between multiple guild signatures causes harmonic interference if chain of command is ambiguous. **Failure clauses:** if a Commission collapses or violates Codex Law, Enforcement intervenes immediately and survivors are brought before Arbitration. **Essence Resonance Checks are mandatory post-mission** — prolonged Wellspring exposure without cleansing destabilizes the Soul Crystal and is punishable under the Law of Stability.
 
 ---

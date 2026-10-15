@@ -15,29 +15,44 @@ verification: null
 ### Summary card
 
 **Effect · The practitioner seeds** a target already gripped by fear with their own escape-image, and the target's body performs it whether they will it or not.
+
 **Cost** · His own frame echoes the motion he forces, and every use leaves panic residue on his Aether Shell that does not clear on its own.
+
 **Limit** · Only reaches a mind already afraid. A mind holding no fear gives him nothing to seed.
+
 **Counter** · A struck nerve, sustained discipline on the Spirit Path, or a lucid hold on one's own dream-logic all sever the thread before it completes.
 > **What nobody knows.** Whether the fear-motion he seeds is drawn from the target's own mind, or is one of his own that the target only supplies the body for.
 
 ### Codex line
 
 **Wellspring** · Somnalis (primary), Oneirion, Eidolyn
+
 **Family** · Fluxia (Somnalis); Limina (Oneirion, Eidolyn)
+
 **Physics Domain** · Fluid Dynamics (Somnalis); Entropy, Void and Mind (Oneirion, Eidolyn)
+
 **Category** · Harmonia
+
 **Craft** · Spellcraft
+
 **Stage floor** · Stage VII, Refraction
+
 **Grade required** · A-Grade (Stage VII's ceiling; late-Stage practitioners can push toward S-Grade)
+
 **Path gate** · Spirit Path, with drift toward Attraction Path
 
 ### FOW line
 
 **Governing Primary** · Gnosis, Dominion
+
 **Sub-Stats** · Gnosis Cognition, Dominion Sense, Dominion Sovereignty, Ardency Density
+
 **Stage floor** · Stage VII, Refraction (Band II, Awakened)
+
 **Grade required** · A-Grade
+
 **Path gate** · Spirit Path, drift toward Attraction Path
+
 **Resonant Pair · None.**
 
 ### Origin
@@ -49,8 +64,11 @@ Self-derived by its author, from the concept of threading somnalic filaments int
 ### Physics
 
 **Phenomenon** · A threshold released on a motor programme already loaded: a frightened body carries out the escape it was rehearsing, at the wrong moment and in the wrong direction, while its owner watches.
+
 **Law** · Near a tipping point (a saddle-node bifurcation) the push needed to switch a system tends to zero; fear holds the flight programme primed just below firing, as the brain's readiness signal shows 1 to 2 s before movement.
+
 **Limit** · Driving a body from outside is expensive, slow and shallow, so the working only releases what fear already loaded; a calm mind has nothing to release.
+
 **Forecast** · Somnalis reads a turbulent system as a spread of possible futures, like a fifty-member weather ensemble; seeding a branch the target was only 11 percent committed to produces a stumble, not a hijack.
 
 | Quantity | Working | Result |
@@ -63,23 +81,37 @@ Self-derived by its author, from the concept of threading somnalic filaments int
 ### Metaphysics
 
 **Aether** · A tiny draw: one threshold at up to 60 m for one turn. Fluxia needs a medium and is favoured by water, humidity and pressure difference; a dry vault is a Fluxia prison. Limina wants darkness, silence and few people.
+
 **Residue** · On the practitioner, not the ground: panic residue clings to their Shell and fades only with time, driving it toward Clouding.
+
 **Wellspring** · Somnalis, the Dream Veil (Fluxia), primary: a turbulent system is read as a weighted spread of adjacent futures, and the practitioner seeds one branch.
+
 **Wellspring** · Oneirion, the Wellspring of Dream (Limina): the working acts in configuration space, so line of sight is not required.
+
 **Wellspring** · Eidolyn, the Shaping Mind (Limina): the seeded image is templated so it counts as the target's own programme.
+
 **Inherited failures** · Somnalis's ensemble collapse, acting on an 11 percent branch; Oneirion's projection error; Eidolyn's template defect.
+
 **Tension** · Fluxia against Limina pull apart, resolved by Temperance advancement or a Compound Trait; Tempering Capacity caps all three.
+
 **Essence** · The Shell takes the residue, where the bill lands; the Attraction Layer takes the read and drifts toward others' fears; the Core is untouched. Developmental Tier Resonant.
+
 **School** · A Collegium ideomotor school reads it as imagined movement discharging with its inhibition removed, and drills "recognise and refuse"; but no will out-pushes a push that tends to zero.
 
 ### Mechanism
 
 **Glyph** · Mind governs which loaded arrangement may execute, laid across Passage for the crossing into the target's manifold.
+
 **Boundary** · One threshold, the inhibition between a prepared programme and its execution; the target's own physiology does the rest.
+
 **Effect** · A frightened target's legs take the flight they were rehearsing; a guard steps back off a wall, a parry becomes the imagined flinch. It is not paralysis but recognition: the motion is theirs, made now, toward the wrong place.
+
 **Reach** · Only a mind already afraid; it produces flight specifically, redirects an attack already in motion, and acts inconsistently on non-humanoid targets.
+
 **Hold** · At Refraction the trigger is an internal declaration within 60 m. It lasts one turn and the programme is spent; a released motion cannot be released twice.
+
 **Failure** · Boundary fault: ensemble collapse seeds an 11 percent branch and the target stumbles. Structural fault, long term: a Shell clouding with panic residue.
+
 **Bleed** · At η 0.65, 35 percent of a very small draw leaves the Shell as heat and sound; the loss that matters is the residue that stays.
 
 ### Essence
@@ -93,11 +125,15 @@ Self-derived by its author, from the concept of threading somnalic filaments int
 | Reserve covers | 90% ÷ 2% | 45 |
 
 **Cost** · 2 percent of full reserve a use; the real price is Sympathetic Twitch, the practitioner's frame echoing the forced motion, and Echo Feedback, which clouds the Shell long before Starvation.
+
 **Duration** · One turn, 6 s.
 
 ### Counterplay
 
 **Tell** · Almost none at casting; the first sign is a good soldier moving badly. A beat later the practitioner's hand twitches through the same arc, and fresh panic sits on their Shell.
+
 **Limits** · 60 m; one turn; a frightened mind only; unreliable on non-humanoids.
+
 **Fails against** · A mind without fear; a dry room; a drilled pain startle, a faster loop; Letheveil clarity; a lucid hold on one's own dream-logic; Knot on the path; the per-use cost, until the Shell clouds.
+
 **Look up** · The Counterplay register for Knot; the Fluxia terrain entries; Letheveil; the Fluxia and Limina entries for Somnalis, Oneirion and Eidolyn Failures; Shell Clouding; the Refraction Stage table.

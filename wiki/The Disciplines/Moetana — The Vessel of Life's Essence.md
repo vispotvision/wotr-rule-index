@@ -57,7 +57,9 @@ Identical frequency, identical phase, identical priority. The output is no longe
 ## Activation
 
 **Moetana cannot be forced. It can only be allowed.**
+
 Emotional honesty, physical coherence and relational integrity converge simultaneously. *The process is not a ritual. It is a structural event* — the three layers, brought into sufficient proximity of phase by the practitioner's current state, tip past a threshold and lock.
+
 The lock is felt throughout the body. Weight shifts as the Shell restructures around the unified frequency. **In many cases the practitioner lifts fractionally from the ground**, not through Gravikinetic manipulation but because the Shell's unified output exerts slight repulsive pressure against the ambient field, and the body at rest is light enough to answer it. The iris takes the hue of the dominant Wellspring resonance. An aura manifests — not projected, not performed, **present the way heat is present around something that burns.**
 > **The practitioner in Moetana is not louder than they were before. They are clearer.**
 
@@ -81,8 +83,11 @@ The lock is felt throughout the body. Weight shifts as the Shell restructures ar
 >
 > Each minute costs a measurable fraction of remaining biological life — small at low intensity, large at full. *A practitioner who spends five minutes of full-intensity combat has paid for it in days or weeks of life they will not have at the end.*
 **The cost is not felt during activation.** The trade is clean: the energy flows, the output arrives, and the practitioner feels powerful, clear and whole. It is felt afterward, when the lock releases and the body settles back into three-layer asynchrony. **They age.** Not dramatically, not visibly in a single use, but measurably. The telomere shortening is real. The oxidative damage is real. **The metabolic debt is paid in tissue that will not regenerate, because the regenerative capacity itself was part of what was spent.**
+
 **Duration** · Minutes, not hours. Typical engagement window 2–8 minutes depending on Tempering Coherence and willingness to pay.
+
 **Recovery** · Hours of rest and meditation. Repeated use in a day is possible, **and each activation costs more than the last** because equilibrium is harder to achieve with accumulated fatigue.
+
 **Terminal cost** · A habitual practitioner dies younger than their peers. Not from injury, not from Crystal damage — from simple, measurable aging accelerated by cumulative debt. *The exchange was always exact. The practitioner simply discovers, at the end, how many days they spent buying power they used decades ago.*
 
 ---
@@ -90,7 +95,9 @@ The lock is felt throughout the body. Weight shifts as the Shell restructures ar
 ## Limitations
 
 **Equilibrium dependency** · Severe emotional shock, major injury, or cognitive disruption breaks the lock **instantaneously and without the gradual wind-down a voluntary deactivation provides.** The sudden loss is itself a shock: 2–5 seconds of disorientation, Gnosis blackout and physical stagger.
+
 **Honesty requirement** · Self-deception, suppressed grief, unacknowledged fear or wilful denial prevents the Shell from reflecting the Core accurately, and without that reflection the lock cannot initiate. **A practitioner who is lying to themselves about how they feel cannot activate Moetana.** *The discipline requires the practitioner to be the person they actually are, not the person they wish they were.*
+
 **No resurrection, no mortal wound closure** · **Moetana is a combat state, not a medical miracle.**
 
 ---
@@ -107,8 +114,11 @@ A young practitioner's first Moetana is a faint glow, a slight lift, a few minut
 ## Corruption Vector
 
 Moetana does not follow a single Family's terminal path. **The vector depends on which layer the practitioner leans on most heavily.**
+
 **Soul-dominant use** (Essence Perception) risks Fulguria's cognitive dissolution. Triaxial perception becomes addictive; **normal single-Plane sight feels blind by comparison.** The practitioner starts activating for non-combat diagnosis, paying the lifespan cost for the privilege of seeing clearly, **without the urgency of combat to justify the debt.**
+
 **Material-dominant use** (Harmonious Strike) risks Vectoria's gravitational isolation. Single-Plane strikes cannot match the feedback reward, and conventional combat begins to feel **hollow, a performance missing its own point.**
+
 **Fate-dominant use** (Ethereal Communion) risks Limina's existential erosion. **The practitioner's identity begins to include things that are not them**, and the lock, which requires self-honesty, becomes progressively harder to achieve because the self is no longer a singular reference.
 > In all three cases the terminal expression is the same: **a practitioner who can no longer deactivate**, because the triaxial state has become their baseline, and the debt runs continuously, and **the lifespan burns down at a rate they can feel and cannot stop — because stopping would mean returning to a mode of existence that no longer feels like living.**
 

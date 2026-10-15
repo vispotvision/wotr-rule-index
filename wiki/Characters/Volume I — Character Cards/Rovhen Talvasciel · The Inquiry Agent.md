@@ -13,6 +13,7 @@ verification: null
 ## Rovhen Talvasciel
 
 **Say it** · ROH-ven tal-VAS-ee-el
+
 **As of** · the fourth day of Aetherion's autumn term, the night of his first lecture (The Sort through The Letter).
 > *"In this room we start with what the room says."*
 > 
@@ -23,11 +24,17 @@ verification: null
 ### I · Identity
 
 **Name** · Rovhen Talvasciel. **Called** · "Lambert's lad" in Stannvaard, by people who knew Edmund. "Talvas" in Concord mouths, and TALVASHEL on the Academy wire (R20-4). He doesn't correct either.
+
 **Register** · An outlier name (R23-5): Eresse-sounding, carried by a Concord-raised war orphan. *Why he carries it is originated, pending: the camp roll gave it to him as it was given, and nobody alive can say who first said it.*
+
 **Race** · Human. **Age** · 28.
+
 **Origin** · A muster-camp orphan. His father died in one of the Inner World's wars, one that had no name yet when the news reached the camp gate. At seven he was sorted into an Accord camp-school with a tin tag on a string. Edmund Lambert came to that camp on a case (a matron's missing ration ledger and forty sacks of meal) and left eleven days later with the ledger, the quartermaster's name, and the boy.
+
 **Affiliation** · Aetherion Academy, instructor of *Inquisitio Phaenomenorum Operatorum, The Inquiry into Worked Phenomena* (the old dispensary, east range, three sittings a turn, scholars of any class). Formerly an inquiry agent under the Board, second to Edmund Lambert, then working on his own.
+
 **Status** · Retired. His licence was struck through at Stannvaard eleven months ago, at his own request, with one ruled line. The Board kept his seal. He still signs as *inquiry agent, Lambert's*, and clerks who have read that line for twenty years still honour it.
+
 **Level / Stage / Band** · pending Isaac.
 > **Catalyst Event** · pending Isaac. *The Stage-by-Stage catalysts are in XVI. Edmund's death is the candidate for a Glory catalyst (soul-cost accepted to preserve something valued). His retirement reads as a Splintering-era fracture along an emotional line. Neither is ruled.*
 
@@ -68,6 +75,7 @@ All pending Isaac: Strike Force, Attack Speed, Reaction, Travel, Aura Pressure F
 ### VIII–IX · Traits and Domain
 
 **Traits** · none ruled. *One candidate, originated and pending:* **Still Face**, *the face Edmund trained still until it stopped moving on its own after the funeral. As a Lattice property it would bias outward expression (Traitus, Body-aligned), which is why witnesses and students read nothing on him. It fails the other way too: people who need to see him grieve don't.*
+
 **Domain** · none. Pending his Stage.
 
 ---
@@ -102,6 +110,7 @@ Edmund's five kinds of work are Worked, Spilled, Standing, Running and Stolen, p
 ### XI · Spirit Axes
 
 **Edmund Lambert** (dead) · Master, and in every way that counted, father. *Whether a Spirit Axis can hold on a dead anchor is pending.*
+
 No living bonds are ruled.
 
 ---
@@ -116,7 +125,9 @@ Pending Isaac.
 ### XIII · Physical Description
 
 Tall and long through the body. He stands with his weight settled and his hands folded or out of sight, the way Edmund taught him to stand in a widow's parlour. His hair is black as wet slate, parted in the middle and falling in loose waves to his collar and past it at the sides, often across his face when he looks down. His face is long and pale, the colour of something kept indoors all winter. It has a long straight nose, high cheekbones, a narrow jaw, and a mouth held level and a little full at the lower lip. His eyes are dark and heavy-lidded, usually lowered, and they don't move when the rest of him does. The whole face has been trained still, so a witness reads nothing on it.
+
 He dresses in black, all of it: a high-collared black shirt closed to the throat, a waistcoat, and a long heavy black coat cut full and worn a size large at the shoulders. The coat's inside pockets hold a notebook, a steel pen in black horn, and sealing wax. Its hem is worn grey at the back where it has dragged on cellar stairs. His hands are long and quiet, with ink worked into the right forefinger. There's a cramp line in the web of the left hand that shows only when he flexes it.
+
 *Source: Isaac's two portraits.*
 
 ---
@@ -124,10 +135,15 @@ He dresses in black, all of it: a high-collared black shirt closed to the throat
 ### XIV · Psychology
 
 **What he refuses** · Rumour as evidence ("I don't teach rumour. I teach standing there."). Commissions from people who can pay. Deciding it was the stair until the stair has told him so.
+
 **What he survived** · The camp. Edmund's death, and his own name in the column headed *agent in attendance* on the report. Eleven months of work that was the only hour of the day that didn't feel like standing in a room Edmund had just left.
+
 **What he believes that costs him** · That Edmund's death is his. That work is the whole of a life, which is the one thing Edmund told him it wasn't, out on the fish pier at midnight with hot eels that wouldn't keep.
+
 **What he wants** · To keep people safe, not to be known for it. To teach the Sort so that fewer agents look at the hand first.
+
 **Voice** · Low and plain, in short sentences with the conclusion withheld. He answers a question with a method. He lets a silence run until someone fills it, which was Edmund's trick. He credits Edmund for everything he knows and himself for nothing but the licence he gave back. He has no jokes. His dryness comes from understatement: "The arena will keep."
+
 **Tells** · He lets a thing sit in the room for exactly one breath. He squares objects with one finger. When he's shaken, his hands keep working.
 
 ---
@@ -151,6 +167,7 @@ Pending Isaac. No Stage is set.
 ### XVII · Fracture Log
 
 **Unconsolidated · Edmund.** The report on Edmund Lambert's death names Rovhen as agent in attendance. He has not forgiven the name. *How it sits in the Crystal is pending.*
+
 **Unconsolidated · the licence.** He struck himself off. The Board kept the seal.
 
 ---
@@ -158,6 +175,7 @@ Pending Isaac. No Stage is set.
 #### Lore · Where He Stands
 
 At the start of term Aetherion put him in the old dispensary in the east range. He moved the benches into the horseshoe of the muster-camp schoolrooms, with a bucket and a chained ladle by the door and a slate at every place. Before that, the Grand Mage's Visitation had called him in. Examiner Maud Harrowgate had a Finding of Cause for the damaged arena with every field filled in except *Party answerable*. She turned the form around on the desk for him to fill in, as his first demonstration. Master Tobin Sallow, the ward-mender, set a cased plate from row six on top of it and recognised him as Lambert's lad. She expects the Finding at first bell.
+
 That evening Dabney Lambert came to his door. The boy had Edmund's face. Rovhen taught his first lecture, on aether: how much is there, which way it came, and whether the place asked. He wrote a page on every student with the Held Pen. When Joan Aldery stayed behind about her husband's fall on a draper's stair on Tallow Street, he gave her a letter to the clerk of inquests with the Tuned Signature in its tail. She told him the cuts in her cuff were from a nail. He did not believe her.
 
 #### Ties

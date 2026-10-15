@@ -88,6 +88,7 @@ verification: "unverified"
 ## VI · Physical Description
 
 *Full prose. Height and mass against something the reader can picture. What the surface is made of and how it behaves under load. What the air does within three paces: temperature, pressure, smell, sound. How the light treats it. What it leaves on the ground where it has stood. Whether witnesses agree on any of it.*
+
 *The description should read as a confession of whoever called it. A summoner's forms carry his interior architecture where anyone with the training can read it, and the entry fails if a reader could not guess the summoner from the shape alone.*
 
 ---
@@ -95,6 +96,7 @@ verification: "unverified"
 ## VII · Temperament and Voice
 
 *Whether it speaks at all. If it does: register, sentence length, what vocabulary it reaches for, and the one subject it will not address. Signature turn of phrase if it has one. How the voice changes under strain.*
+
 *Leave blank for Tier I and Tier II forms and say so explicitly rather than leaving the heading empty.*
 
 ---
@@ -104,22 +106,39 @@ verification: "unverified"
 *One block per ability. Duplicate the toggle as many times as needed. Every field filled. Limitation and Counterplay are mandatory and an ability missing either is not finished.*
 - ****ABILITY NAME** · *classification line***
   **Glyph Basis:** *letter and meaning · letter and meaning · letter and meaning*
+
   *Latin invocation line*
+
   *Plain sense of the invocation*
+
   **Trigger:** *What initiates it. Physical action, spoken invocation, or condition met*
+
   **Function:** *What it does, in one plain sentence*
+
   **Mechanism:** *How it works, traced to the Physics Domain assigned in section III*
+
   **Numerical Effect:** *Real units where they earn their place. No numbers attached to metaphysical quantities*
+
   **Target Response:** *What it does to a body, a structure, the air. What a witness reports afterward*
+
   **Limitation:** *What it structurally cannot do*
+
   **Weakness:** *What using it exposes about the summon or the summoner*
+
   **Cost:** *Which taxonomy category, and how the cost shows outside combat*
+
   **Vow:** *Optional. Any binding condition and what forfeiting it takes*
+
   **Counterplay:** *How a competent opponent answers it*
+
   **Codex Assignment:** *Glyph combination · primary and secondary Wellspring · Family · Physics Domain*
+
   **First Display:** *Where the mechanic is planted at low stakes before it ever resolves anything*
+
   **Sensory Description:** *What the opponent sees, what the summoner's body does*
+
   **Interactions:** *Synergies and conflicts with the summoner's other roster forms, named*
+
   **Corruption Vector:** *What the Obsession Force inversion of this ability looks like*
 - ****ABILITY NAME** · *classification line***
   *Duplicate the field list above.*
@@ -142,6 +161,7 @@ verification: "unverified"
 ## X · Corruption Vector
 
 *What the Obsession Force inversion of this summon looks like as a whole. Attraction Force answers by recognition. Obsession Force takes the same shape and compels instead, and the entry should state plainly what the compelled version does that the lawful one will not.*
+
 *Recorded for every entry without exception, including the ones nobody expects to invert.*
 
 ---
@@ -149,6 +169,7 @@ verification: "unverified"
 ## XI · Counterplay
 
 *The standing answer to this summon as a whole, distinct from the per-ability counterplay above. What a competent opponent does on seeing it arrive. Which of the three recurring vulnerabilities apply: Essence-dampening, separation from the native Wellspring, or radiant current.*
+
 *Signature legibility applies to every entry in the register and does not need restating here unless this form is unusually loud or unusually quiet.*
 
 ---
@@ -162,4 +183,5 @@ verification: "unverified"
 ## XIII · Open Rulings
 
 *What is not yet decided about this entry. Contradictions with other documents. Numbers still needing verification against source. Anything originated rather than drawn from canon, flagged as an origination with the reasoning attached.*
+
 *Left visible. An entry with an empty Open Rulings section is either finished or dishonest, and it is usually the second one.*

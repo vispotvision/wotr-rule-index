@@ -12,6 +12,7 @@ verification: null
 
 **Say it** · MYRE-hol-oh ah-sah-KOO-sah
 > *"I do not cut. I invite stillness."*
+>
 > **Migrated with all content preserved.** *"Verdant Marshroot / Swamplight Dream"* were not Essence types. **"Verdancy, Archon of Blooming / Misting Veil, Archon of Temperance / Whisperroot, Archon of Hollowing" are not Archons** — the fourteen are named beings, and none of them is a domain of practice. **The three are retained below as Domains**, which is what they actually are, and re-sourced to attested currents.
 >
 > **Mireya** — struck 2026-09-12; the name never attached to a real place. **Tyzura** is blocked on the open Tyzura / Ashura Yukari identity ruling.
@@ -21,7 +22,9 @@ verification: null
 ## I · Identity
 
 **Name** · Mirehollow Asakusa. **Called** · The Verdant Lotus. Swamp Samurai of the Heavenly Marsh. **Sword-Saint of Sakurabog.** Lichen-Bound Hermit.
+
 **Standing** · Unaffiliated Spirit-Walker. Respected unofficially among the **Spirit Orders.** Considered a latent anchor of the **Whisperroot**, **Verdancy** and **Misting Veil** Domains.
+
 **Soul Crystal** · *Verdant Bloombound Core* — **lodged near the heart, entangled in swamp-root and fungal mycelium.** Reacts to hidden life, grief-laced soil, and the presence of unspoken history. **Does not flare in combat, but pulses with revelation and renewal.**
 > **Catalyst Event · Stage VIII, Transcendence.** *The world is read as symbol. Objects retain their weight and gain a second weight. A door is a door and is also a threshold, and both facts are operative, and the practitioner has to keep functioning while holding them.*
 >
@@ -32,8 +35,11 @@ verification: null
 ## II · Soul Architecture
 
 **Essence Core** · Entangled with substrate to a degree the assay houses would refuse to certify. *There is no clean boundary between him and the ground he is standing on.*
+
 **Aether Shell** · **Class III · Resonant.** Power moves in silence — *which for him is the operative phrase.*
+
 **Attraction Layer** · Developed, and pointed at things that cannot answer. **Lichen Communion.**
+
 **Crystal State** · Refined. **η** · ~0.70, Tier of Standing 6, Master.
 
 ---
@@ -41,8 +47,11 @@ verification: null
 ## III · Wellspring Harmonizations
 
 **Verdantia** · Vitalia. Deep chlorophyll green. **The blooming, the regrowth, the armour of flowers.**
+
 **Phreatis** · Vitalia and Fluxia both, **deliberately double-counted in the register** — *synaptic potentiation and aquifer residence are two physics describing one behaviour.* **The marsh, and the only Wellspring in the sixty that is filed twice.**
+
 **Anamnesis** · Limina. *Remanent magnetisation — basalt records the direction of the field it cooled in and holds it for geological time. Objects genuinely store their history in physically readable form.* **This is Sorrowroot Listening: the ground is not haunted, it is a recording, and he is the instrument.**
+
 **Oneirion** · Limina. Configuration space — **workings acting on the manifold rather than on the room.** *The dream-pollen, the illusory spirits, and the reason his Bloomveil reaches people who never saw the stroke.*
 
 ---
@@ -84,7 +93,9 @@ verification: null
 ## VI · Traits
 
 **Symbiotic Drift** *(Primary)* · **Full blending with terrain flora and low-essence lifeforms.** He can vanish into moss, ripple through reeds, or speak through pollen haze. **Immune to most forms of spiritual dissonance while within terrain-aligned zones.**
+
 **Reversal Petal** *(Secondary)* · Any place he steps leaves a fading **Lotus Glyph**, visible only in the spirit spectrum. **Once per minute he may instantly return to a glyph within range, leaving an essence-mist decoy in his shape.**
+
 **Sorrowroot Listening** *(Passive)* · **He hears the grief and longing of terrain and weathered spirits.** On ancient battlegrounds, forgotten shrines and mournful lands he gains spiritual insight, communion, or subconscious resistance to deception.
 
 ---
@@ -92,7 +103,9 @@ verification: null
 ## VII · The Three Domains
 
 **Verdancy** · Instinctive plant shaping, armour regrowth, pollen healing, camouflage. **Blossoms erupt during key movements and defensive reactions.**
+
 **Misting Veil** · Shrouds his essence, **enabling veiled phase-movement and hidden blade strikes from fog or water.** Enhances spiritual misdirection.
+
 **Whisperroot** · Forms metaphysical conduits to silent spirits, buried truths, **and the dead not yet departed.** *Roots become sensory extensions for truths left unsaid.*
 
 ---
@@ -120,7 +133,9 @@ verification: null
 ## IX · Relationships
 
 **Yurei-no-Sakaki** · **The Hollow-Blooming Dryad Queen who gifted Asakusa his fae-glamour.** May be dormant, dead, or dispersed. **He still listens to her breath in the moss.**
+
 **Tyzura, Archon of Spirits** · His path aligns with Tyzura's cycles, though he walks alone. **His silence may be seen as prayer.**
+
 **Rin of the Reeds** · A child who follows him from afar, **unaware he listens to her lullabies when the fog thickens.**
 
 ---
@@ -128,8 +143,11 @@ verification: null
 ## X · Key Quotes
 
 > *"To fight the rot is to forget the flower."*
+>
 > *"Growth without decay is a lie."*
+>
 > *"The stillest water remembers the loudest truth."*
+>
 > *"I do not cut. I invite stillness."*
 
 ---
@@ -148,31 +166,45 @@ verification: null
 #### Origin
 
 Mirehollow Asakusa was born in the marsh basins of Dorrosfenn, in the Outer World, where the drainage failed and the water sat. His father dug mireclay from the basin floor. The clay was brittle and good for very little. The villages shaped it into totems for their rural spirit rites, and the totems did not last. Where a strong current ran, they dissolved.
+
 The basins answered to a necromantic theocracy. Barges carried Marrowchalk from the bone-beds. Some of it went west to be ground and spread on wheat. The theocracy took the rest for its necromancers. It was the same rock on the same barge, and the boy watched both loads go.
 
 #### The Making
 
 He learned the sword on the dry ground above the basins, from a master who taught the finishing stroke before any guard. Asakusa learned the stroke. He would not put his weight into it. He learned the guards after it, and the footwork, and the turn of the wrist that takes a sword out of another man's hand.
+
 He hired out to the chalk barges. Men who came over the side found his blade at the wrist and their own swords in the water. When they swung at him, he was not there. He never hit anyone hard.
+
 In a hollow of the basins where flowers came up out of the standing water, he met Yurei-no-Sakaki, the Hollow-Blooming Dryad Queen. She gave him her fae-glamour. Afterward he could stand in a reed-bed and be taken for reeds. He could go into moss and come out of it somewhere else, and there was no clean line between him and the ground under him.
+
 Then the change came. After it the world read as symbol. Everything kept its first weight and gained a second one, and both were operative. A door was a door and also a threshold. Moss was moss and also a place he could be. He stopped working and went to live in a bog, Sakurabog, in the basins where he was born.
 
 #### The Cost
 
 He had refused the hard stroke all his life. He had nothing heavy to fall back on. Away from the marsh, everything else he could do grew weaker at once. On sterile ground, in hard cold, in soil the Essence had left, the moss would not take him and the reeds would not hide him. He kept to the marsh.
+
 After the glamour, pollen came off his stroke. It showed each person near him a memory, a regret or a longing of their own, and what it showed, it had taken from them. It broke their intent. It killed nobody. A man who regretted nothing could walk through it.
+
 His roots bound only where the ground had grieved. Fresh soil gave him nothing.
+
 After he went to the bog, plague came into the fen villages of Hollowfen, in the same basins. The dead were laid in the reeds of the lower fen. Aivyriel walked among them, and her bloom came up black at the stem over the bodies, and the burial crews would not go down. Karasaki Hozume went down alone with his Lantern and gave passage to the dead its light could reach. Over some of them the light showed nothing.
+
 Asakusa came down through the reeds to those. Nobody saw him come. Her bloom stood around him, and nothing in it touched him. He stood over each of the silent dead with his hands at his sides and his sword sheathed. Roots went down from his feet into the ground beneath them. When he moved on, the Lantern found a murmur where it had found none. He never spoke to Hozume. When the last body was under the water, he went back into the reeds.
+
 He did nothing against Aivyriel, by his own words: "To fight the rot is to forget the flower."
+
 Over the next season her bloom closed over the lower fen, and necromancers came down from the theocracy to whisper to it. Every one of the dead beneath it had been given passage first. Some had been given it through him. The fen had grieved, and it became ground his roots could bind in.
 
 #### Where They Stand
 
 Asakusa lives in Sakurabog. The Spirit Orders respect him unofficially, and he belongs to none of them. He listens to Hollowfen as he listens to every mournful ground. When he speaks to moss, to root or to a spirit bound to the ground, he cannot lie.
+
 His path runs with Tyzura's cycles. He walks it alone. Those who find him standing still in the reeds may take his silence for prayer.
+
 Yurei-no-Sakaki may be dormant, dead or dispersed. He still listens to her breath in the moss.
+
 On wet ground he has stood against Kytheris, the Mother of Spores, who marks as soil whoever breathes her spores.
+
 A child, Rin of the Reeds, follows him from afar. When the fog thickens she sings lullabies. He listens to them, and she does not know it.
 
 #### Ties

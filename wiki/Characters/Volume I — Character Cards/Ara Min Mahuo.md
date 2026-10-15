@@ -11,6 +11,7 @@ verification: null
 # Ara Min Mahuo
 
 **Say it** · AH-rah MIN MAH-hoo-oh
+
 *The Healer · Card 22*
 > **Grade B across the board, cleanly, matching Stage VIII's Coherence Band exactly.** Harmonics sits highest — *not by a wide margin, just enough that anyone who has spent an hour in a room with her already feels it.*
 
@@ -19,8 +20,11 @@ verification: null
 ## I · Identity
 
 **As Of** Before Vaeloris, weighing the Sovereign's offer
+
 **Race / Lineage** Human — Mahuo court line, scholar-nobility, **sister to Kwon Mu-jin**
+
 **Age** 21 · **Sex** Female
+
 **Standing** Formerly of the royal court's healing wards, now itinerant alongside her brother's teaching circuit, **weighing an offer of marriage into the Zettari Sovereign's household**
 > **Catalyst Event.** Vitalia's own Catalyst is *"giving without counting, and finding the count was always in your favour"* — **and hers happened plainly, without ceremony.**
 >
@@ -69,7 +73,9 @@ Anima Spirare primary — the Soul's Breath; wounds close because the body remem
 >
 > **Attack Speed: N/A.** No offensive technique architecture. **Travel Speed** B-Grade — *she has never needed to be fast; her work happens where she is already standing.*
 **Durability** · B-Grade. *Ordinary against a direct hit, better than most at simply not dying from one afterward.*
+
 **Aura Pressure Field** · 10m passive — **patients report feeling calmer before she has said a word.**
+
 **EU Reserve** ~4,200,000 · **Flux Density** 85,000 EU/g · **AU/s** 59,500 · **η** 0.70
 > **Passive Recovery** ~126,000 EU/hour — *Vitalia's own rhythm recovers faster than most disciplines.*
 >
@@ -82,13 +88,16 @@ Anima Spirare primary — the Soul's Breath; wounds close because the body remem
 ## VIII–IX · Traits and Domain
 
 **The Soul's Breath** · Innate · Anima Spirare — **wounds close under her hands because the body remembers, under her Essence, what being whole felt like.** *Not instant. Not painless. Real.*
+
 **Green Pulse Reading** · Tempered · Verdantia — reads a body's growth-pattern at a glance, **knows whether a wound is healing correctly or scarring wrong before the patient feels the difference.**
+
 **Grace-Bound** · Lineage · Benediction — **any bond of care she forms carries real mechanical weight.** *A promise to look after someone is closer to a compact than a sentiment.*
 > **The Ledger Nobody Kept** · Resonant
 >
 > Years of unbilled, uncounted care built a following she never tried to build.
 >
 > ***People trust her specifically because she never tracked what they owed her.***
+>
 > **Domain** · Unnamed as yet — **informally called** ***The Waiting Room*** **by the patients who have felt it.** Transcendence-tier, roughly 20 metres, hours-long.
 >
 > Inside it, **pain reads as quieter and fear reads as more survivable** — *not because either is erased, but because the space itself insists nothing happening inside it is happening alone.*
@@ -108,8 +117,11 @@ Anima Spirare primary — the Soul's Breath; wounds close because the body remem
 ## XI–XII · Axes and Resistances
 
 **Kwon Mu-jin** *(brother)* — **absolute.**
+
 **Every patient she has ever treated for free** *(diffuse, Benediction-bound)* — heavy, distributed, **the actual shape of her reputation.**
+
 **Dawn Guard** *(prospective, undecided)* — forming, cautious, **entirely her own to define.**
+
 **Resistances** · Ordinary across the board. *Her defence has never been personal durability.*
 > **Vulnerability · Emotional overextension.** She will burn her own reserve past sense for a patient she has decided matters — **and has done it before.**
 
@@ -131,7 +143,9 @@ Long wavy **silver-white hair** past her waist in loose curls, blunt-cut bangs f
 | **Stress Default** | **Goes quiet and starts working with her hands** — *whether or not there is anything left to actually treat* |
 
 **Anima Spirare Focus Ring** · Vitalia-attuned, worn on her working hand — ***warms slightly whenever a nearby wound could still be saved.***
+
 **Field Satchel** · bandages, tinctures — **the unglamorous physical half of healing that magic alone doesn't replace.**
+
 **The Cat** · *found her, not the other way around, and has never once been convinced to leave.*
 
 ---
@@ -139,8 +153,11 @@ Long wavy **silver-white hair** past her waist in loose curls, blunt-cut bangs f
 ## XVI–XVII · Temperance and Fractures
 
 **I–IV** complete — *first unsupervised successful healing at eleven; first patient she couldn't save, and the first time she chose to sit with them anyway rather than leave the room.*
+
 **V Splintering** · Complete — **nearly burned out entirely treating a ward-wide fever outbreak alone.** *Survived it without losing the will to keep doing the work.*
+
 **VI Glory** — *the ward began calling her by name instead of by title.* **VII Refraction** — first read of a wound's true growth-pattern rather than its surface symptom.
+
 **VIII Transcendence** · **Active.** First true stabilised Domain seated. **IX+ locked.**
 > **Fracture Log · The Fever Ward, Age 19** — Vitality-Tempering. **Healed-reinforced.**
 >
@@ -157,28 +174,39 @@ Long wavy **silver-white hair** past her waist in loose curls, blunt-cut bangs f
 #### Origin
 
 Ara Min Mahuo was born to the Mahuo court line, scholar-nobility of the house at Sum-gol, and Kwon Mu-jin was her elder brother. Sum-gol kept its own theology of the breath. In the same valley lay the Kept Vigil, the one ground nobody measured and nobody went near. She argued best in the valley's tongue.
+
 At twelve she stood in the lower hall between two grown men who had stopped hearing each other. She asked each of them plainly what he wanted, and she kept asking until the shouting ran out. Her brother never forgot it.
+
 She trained in the healing wards of the royal court, where the physicians priced their care by the visit. Poor families learned to reckon the fee before they described the pain. She watched it happen. She decided early that she would go broke before she became one of them.
 
 #### The Making
 
 At eleven she closed her first wound with nobody standing over her. Then came the first patient she could not save. She could have left the room. She pulled up a stool and sat with the patient until it was over, and from then on she sat with the dying. She told them the truth about their bodies evenly, eased their fear and pain, and promised none of them a recovery.
+
 For three years she treated the poorest ward of the capital's healing houses for nothing. She kept no book of who owed her. To her mind a count would have spoiled the work. The ward's families began to walk past the court physicians to her door, because she was the one healer who never made them feel like a transaction. In time they called her by her name.
+
 She did not notice she had built a following until the court tried to charge her a licensing fee for patients she had never billed.
 
 #### The Cost
 
 At nineteen a fever went through the whole ward, and she treated it alone. She gave until there was almost nothing left in her to give with. It was the nearest she came to breaking. She came out of it still willing to do the work. She kept no count after it.
+
 The habit stayed. She mistook exhaustion for virtue more often than she would admit, and for a patient she had decided mattered she would burn through her own reserve. She had done it before. The dying cost her most and showed on her least. Under strain she went quiet and worked with her hands, whether or not anything was left to treat.
+
 She left the court's wards. She took to the road with her brother's teaching circuit. On her working hand she wore a ring that warmed when a nearby wound could still be saved.
 
 #### Where They Stand
 
 One night in a Zettari war camp her brother wrote to her by lamplight. Zuberi Zettari, the Dawn Guard, had asked him to name someone of the Mahuo worth trusting, and Mu-jin gave her name as a suggestion. The Accord he drafted bound her marriage to her consent, given to the Sovereign with no brother or elder in the room. Her refusal would not break the alliance. She wanted a household of people who had chosen her, and she weighed it.
+
 After Vaeloris she was aboard the Sovereign's ship, recovering. At the Rimward house, a Zettari field hospital in a wool store, she held both of Mu-jin's hands for four hours after they carried him in. She knew what spent Essence felt like coming back up a patient's arms. What came back up his was something else, and she told him so. She took his pulse in the middle of the argument and said what she had come to say: "I am afraid of losing you, brother."
+
 She said she was coming with him. When he used her patients as a reason for her to stay behind, she told him that was beneath him, and he withdrew it. Then she cut the dressing from his eye.
+
 Two days south of Kharven she shared the Sovereign's tent in a hollow walled on three sides by stone and old timber. She used the word husband that night, and then said eventually. She named herself among the people Asante had, and told Zuberi that part was not optional. Then she asked whether the boy should live with them. When he wondered who he would be once nobody needed the Dawn Guard, she said his name.
+
 At Kharven he stepped in front of Kujo's shot to cover the boy. She saw Asante carrying the body between the shelters, and her knees went before she knew she was falling. With help she reached the medical tent and laid her palm on his chest. There was no rise under it.
+
 The Accord made her marriage its foundation, and the man it named is dead. Her brother holds the Mahuo's office until her standing is settled. She has not decided whether the fever ward was a warning or a price she would pay again. A long-haired black-and-white cat found her once. It has never been persuaded to leave.
 
 #### Ties

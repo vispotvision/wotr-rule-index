@@ -12,6 +12,7 @@ verification: null
 
 **Say it** · THAL-iss AY-veern
 > *"The sea is not cruel. It is law. It swallows only those who cannot hold their breath."*
+>
 > **Invented Stage name.** The card reads **"Stage IX (Judgment)."** *Judgment is not among the sixteen; Stage IX is Invocation.* Numeral stands, word struck.
 >
 > *"Water / Dragon / Silence"* were not Essence types. **Vellsorea** — a real place, ruled 2026-09-12: the New World, the Eastern Rise.
@@ -21,6 +22,7 @@ verification: null
 ## I · Identity
 
 **Name** · Thalyss Aevyrn. **Called** · **The Deep Coil.** Tideborne Leviathan · **Keeper of the Abyssal Gate.**
+
 **Role** · **Wellspring Sovereign of the Abyss. Shape-shifting Oceanic Guardian. Herald of Leviathan's Pact.**
 
 ### Affiliation
@@ -39,8 +41,11 @@ verification: null
 ## II · Soul Architecture
 
 **Aether Shell** · **Class V · Radiant.** *Aether bends toward the bearer; currents curve around his presence* — **which on this sheet is literal.**
+
 **Crystal State** · Refined. **η** · 0.75–0.80, Tier of Standing 6, Master.
+
 **Third Depth Pact Marks** · **Living sigils binding him to both the Vellsorean royal line and the Leviathan's will.** *Breaking the pact would cause his body to dissolve into the trench currents forever.*
+
 **Dual Existence** · **Shifts freely between human and draconic-serpentine form.** *Instantaneous in water; slower on land, where his tail coils and bones stretch in a ritualistic unfolding.*
 
 ---
@@ -48,8 +53,11 @@ verification: null
 ## III · Wellspring Harmonizations
 
 **Phreatis** · Vitalia and Fluxia both, **deliberately double-counted in the register.** *Fluid residence and potentiation — two physics describing one behaviour.* **The crushing depth, and the water in the lungs.**
+
 **Judicium** · Fulguria. **Order, measure, consequence.** *"The sea is not cruel. It is law" is Judicium stated as a creed — and its warning applies: law without mercy becomes burnished sadism.*
+
 **Nyxial** · Limina. **Thermal inertia under negative feedback** — *a baseline that does not rise in favourable conditions and does not fall in hostile ones.* **The drowning calm.**
+
 **Tenebra** · Limina. *Signal-to-noise reduction.* **Sound dies in the trench because the return falls below the floor.**
 
 ---
@@ -90,7 +98,9 @@ verification: null
 ## VI · Traits
 
 **Tidecoil Sovereignty** · **In human form, passive hydraulic influence within ten paces** — *currents bend around him, blood slows in enemy veins, and water in the lungs becomes a weapon.* **In full Leviathan form this expands to miles**, allowing whirlpools or tidal walls **by thought alone.**
+
 **Third Depth Pact Marks** · **Living sigils.** *Breaking the pact dissolves him into the trench currents forever.*
+
 **Dual Existence** · **Human and draconic-serpentine, instantaneous in water.**
 
 ---
@@ -100,8 +110,11 @@ verification: null
 ### The Gate of the Third Depth
 
 **Effect** · A spiralled trench where **time distorts, sound dies, and pressure alone can crush a Soul Crystal to powder.** *He does not attack anything brought inside. The depth does.*
+
 **Cost** · **The Oath, held constantly.** *Tempering 458 and a deliberately unspent margin — restraint is not free and it is on the sheet as points not taken.*
+
 **Limit** · **Water.** *Ashore he is a very large man who unfolds slowly.*
+
 **Counter** · **Never enter the water. Force the transition on land.**
 > **What nobody knows.** What the Leviathan fragment is dreaming.
 
@@ -110,7 +123,9 @@ verification: null
 ## VIII · Relationships
 
 **Varek Ka'ruun** · **Mutual respect as apex predators.** *They once hunted a sea-bound Wellspring beast together and celebrated with a blood-and-salt feast.*
+
 **Sandalphon Aestraen** · **Has sung to him from the ocean cliffs**, exchanging songs in **High Parunic and Deepwater Cant.**
+
 **Hazzen Skollgrin** · **Has attempted to drown him multiple times, purely to "see if it's funny."** *Hazzen survived each time by swallowing air pockets from slain fish.*
 
 ---
@@ -129,25 +144,33 @@ verification: null
 #### Origin
 
 Thalyss Aevyrn was born in the Kingdom of Vellsorea, on the New World's eastern seaboard, where an oceanic plate went down beneath the land and the Wellsprings moved. Off that coast the shelf ended close inshore. Past its edge the trench water began. His father kept a sounding line for the Vellsorean crown. He let the lead down over the lip of the shelf and read the depth off the marks as the wet line came back through his hands. The boy learned the line before he could swim well. He went down it hand over hand and came up when his chest made him. The children who went down beside him came up sooner.
+
 The crown's soundings stopped at the trench. What lay below it belonged to the Abyssal Court under the Leviathan Pact. No landwalker went down into its abyssal Wellsprings uninvited, and the crown's boats turned back at the edge.
 
 #### The Making
 
 He went deeper every year, and his father's line ran out long before he did. In the trench, sound died around him. His calm held at one level whether a dive went well or badly. When anyone fought him in that water, the water in their lungs answered Thalyss.
+
 Then he asked, and something larger answered. His Wellspring held a sleeping fragment of the original Leviathan. Relief came first, as the record says it comes to every practitioner at that step: his output was no longer his alone to answer for. Something worse followed. He worked out that the thing now sharing the answering had signed nothing. Thalyss signed. What he signed was the Oath of the Third Depth. It bound him directly to the Abyssal Court, and the pact-marks it left on him were living sigils that tied him to the Vellsorean royal line and to the Leviathan's will at once. His co-author had a contract.
 
 #### The Cost
 
 From the signing he held the Oath constantly. He kept part of his strength back at all hours, and what he kept back was the Oath. Restraint cost him, and he paid it daily. Breaking the pact would dissolve his body into the trench currents forever.
+
 Whatever was brought into the Gate of the Third Depth he left to the trench: a spiral where time distorted, sound died, and the pressure alone could crush a Soul Crystal to powder. The depth did the killing. His hands stayed still. He said it plainly: "The sea is not cruel. It is law. It swallows only those who cannot hold their breath."
+
 The Oath let no landwalker into an abyssal Wellspring uninvited, and so it left one door. He opened it when a sea-bound Wellspring beast followed a moving current up out of the deep water onto the shelf off Vellsorea. The shelf had no room for his Leviathan form. In human shape he could turn the water only a short way around him. He invited Varek Ka'ruun in. The Blood-Eater fought the beast at close quarters in the shallows while Thalyss held the water heavy around it, and it died on the shelf. They feasted on the shore on its blood and on salt, and Varek drank from its heart.
+
 Hazzen Skollgrin had come with Varek. At the tide-line Thalyss took him under, to see, he said, if it was funny. Hazzen came up alive, having swallowed the air pockets from the slain fish. Thalyss has tried again since. Hazzen has lived each time.
+
 The company he kept, he kept at the water's edge or above it: the shore where the feast was eaten, the ocean cliffs where he sang to Sandalphon Aestraen. Ashore he was a very large man who unfolded slowly. His tail coiled and his bones stretched in a ritualistic unfolding, and until it ended he was open.
 
 #### Where They Stand
 
 Thalyss Aevyrn is Keeper of the Abyssal Gate, Wellspring Sovereign of the Abyss and Herald of Leviathan's Pact. He serves the Kingdom of Vellsorea as territorial warden and executioner for the Leviathan Pact, and he keeps the abyssal Wellsprings shut to every landwalker he has not invited. In water, whoever has come in leaves if he permits it. Ashore he is slow.
+
 The marks on his body answer to the crown and to the Leviathan's will together. The fragment in his Wellspring still sleeps. Nobody knows what it is dreaming.
+
 Varek Ka'ruun respects him as one apex predator respects another. Hazzen is still alive. Thalyss and Sandalphon have exchanged songs in High Parunic and Deepwater Cant.
 
 #### Ties

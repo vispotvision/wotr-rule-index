@@ -18,7 +18,9 @@ verification: "unverified"
 
 > *"He bears the law of gravity and the burden of divine order."*
 **Seat**  Prime Cosmological Titan of the Physical order, sibling to Gaia. Forged in the Aegoric Crucible under Aegor's hand during the Formation Epoch.
+
 **Domain**  Permanence, Law, Gravitational Strain, Time, Endurance
+
 **Ground**  The Wellspring of Strain, called Temporal Pressure. Governs gravity, linear causality, and the force that pulls Essence toward form.
 
 ### Manifestation
@@ -40,13 +42,21 @@ Aegor, Body, Epoch. Grants structure and purpose. Bairos, Fate, Epoch. Imbues in
 ### The Titan-Keyed Art — *The Bent Knee's Burden*
 
 *Defensive · Vectoria · Petralon · Mechanics · Zenith+ · [Th] Foundation + [Len] Line*
+
 **Trigger**  Cast only within a Domain whose gravitational or causal load is already under visible strain. A sagging structure. A buckling timeline.
+
 **Effect**  Locks a Domain's gravity and causal sequence to Atla'zon's own kneeling burden. Everything inside gains immense structural and temporal stability, and pays for it by losing forward momentum. Falling objects behave as though gravity thickened. The people inside age slower than the people watching them from the edge, and both parties can tell.
+
 **Measure**  Field-wide dilation caps at roughly 0.3x normal flow. Structural load tolerance roughly doubles.
+
 **Cost**  The caster's own joints and breath take on the Titan's characteristic strain. Genuine physical burden, not metaphor, for hours after release.
+
 **Limit**  It cannot be raised over ground that is holding. The strain must already be visible or the working finds nothing to key against.
+
 **Counter**  [Wy] Motion introduced at the field's edge propagates inward as a shockwave of restored momentum, snapping the locked constant back all at once instead of gradually. Everything the field was carrying arrives at the floor in the same instant.
+
 **What nobody knows**  Why the dilation caps at the same ratio no matter who casts it. A Zenith practitioner and an Apex one produce the identical figure, and nothing else in the Codex behaves that way.
+
 *Codex: [Th] Foundation + [Len] Line / Petralon / Vectoria / Mechanics / Zenith+ / Titan-Keyed. Method, Grade, Range and Medium open.*
 
 ---
@@ -55,7 +65,9 @@ Aegor, Body, Epoch. Grants structure and purpose. Bairos, Fate, Epoch. Imbues in
 
 > *"Every birth is a memory of the first world."*
 **Seat**  Prime Aetheric Titaness of the Material World. Anchors every other realm by permitting Essence to crystallise into weight and decay.
+
 **Domain**  Matter, Form, Life, Stability, Evolution
+
 **Ground**  The Wellspring of Form, called Corpus. A labyrinth of glowing strata beneath the crust where Essence condenses into crystalline ore. The source of Soul Crystal latticework.
 
 ### Manifestation
@@ -77,11 +89,19 @@ Thalen, Form. Foremost ally, the architect whose glyphs she embodies. Maelor, Me
 ### The Titan-Keyed Art — *Flesh Remembers Stone*
 
 *Supplementary · Materia · Materia Primordia · Material Science · Zenith+ · [Th] Foundation + [Ma] Recall*
+
 **Trigger**  Direct skin contact with the target tissue, bone or soil. No reach, no medium, no proxy.
+
 **Effect**  Crystallises living Essence into Soul-Crystal-grade matter on contact. Flesh, bone and soil reforge directly into stable lattice, exactly as Gaia's own Wellspring does it beneath the crust. The affected matter keeps its original shape and takes on a visible mineral sheen and rigidity, so a hand crystallised mid-gesture stays a hand.
+
 **Measure**  The crystallisation front advances roughly one centimetre per second along tissue. Faster through soil and loose stone.
+
 **Cost**  The caster's hands take the heaviest exposure. Repeated use produces genuine mineral deposits under the caster's own skin over a career, and every practitioner who has held the art past middle age can be identified by handshake.
+
 **Limit**  It converts. It does not create. There must be existing matter in contact with the palm, and the working cannot reverse itself.
+
 **Counter**  [Uur] Disruption breaks the lattice mid-formation. The sudden phase change back to soft tissue is its own kind of trauma, and the reversal is frequently worse than the completed conversion would have been.
+
 **What nobody knows**  Why the crystallisation front stops at scar tissue and routes around it. The Verdant Core has documented the behaviour for three hundred years and has no account of it.
+
 *Codex: [Th] Foundation + [Ma] Recall / Materia Primordia / Materia / Material Science / Zenith+ / Titan-Keyed. Method, Grade, Range and Medium open.*

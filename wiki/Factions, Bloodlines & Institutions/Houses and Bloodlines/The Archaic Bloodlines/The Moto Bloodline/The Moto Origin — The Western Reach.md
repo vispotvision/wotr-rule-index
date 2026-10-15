@@ -11,6 +11,7 @@ verification: "unverified"
 # The Moto Origin — The Western Reach
 
 **Say it** · MOH-toh
+
 *The western reach of the northern shield.*
 > **Ruling in effect.** The Moto origin is **the western reach of the Inner World's northern shield. Not the Old World.**
 >
@@ -38,6 +39,7 @@ Malakar's splitting of the continents reshaped the shield and made the seat unte
 > **Every Moto seat in the current era is superimposed on somebody else's ground.**
 >
 > Kharven is Concord-stock northern clans whose roots predate the Moto arrival by centuries. **This is why the Banner Houses carry northern names and the crown does not**, and why a Stark saying the King's name aloud **is pronouncing a foreign word in his own hall.**
+>
 > The Moto never migrated as a nation. **They migrated as a founding house and its retainers.** A people that relocates brings farmers. **A house that relocates brings law.** *This is why they superimpose everywhere they land and assimilate nowhere.*
 
 ---

@@ -18,7 +18,9 @@ verification: "unverified"
 
 > *On the question of whether Essence (the soul's own stuff of power) has color, the Archives' position has always been that it does, that the color is not decorative, and that anyone who dismisses it as merely aesthetic has never been in a room with a Zenith practitioner.*
 Essence color is determined by two independent variables. **The Family** (one of eight houses of magic, sorted by physics) of the practitioner's dominant Wellspring (a natural source of magic carrying one physical law) harmonisation assigns the **hue.** **The Temperance Stage** (how far the soul has climbed) of the Soul Crystal (the organ in the soul that works magic) assigns the **clarity.** *Hue without clarity is noise. Clarity without hue is an empty vessel.* Together they produce the practitioner's Essence Color: the visible expression of who they are and what they have survived.
+
 **Hue follows physics.** A Caloria practitioner reads ember-orange because thermodynamics is the physics of energy transfer and the visible spectrum's encoding of thermal energy is orange-to-red. A Fulguria practitioner reads arc-blue because electromagnetism's visible expression is the ionisation colour of current in air. *The Families did not choose their colors. The colors chose the Families, because color is physics and the Families are physics.*
+
 **Clarity follows refinement.** A Murmuring Crystal is nearly black because it is full of noise, contradiction and unresolved identity. A Zenith Crystal is nearly white because almost everything that was not essential has been burned away. **Temperance is subtraction**, and the Refinement Spectrum is what subtraction looks like from outside.
 
 ---
@@ -26,6 +28,7 @@ Essence color is determined by two independent variables. **The Family** (one of
 ## Part One · The Refinement Spectrum
 
 *Temperance clarity across the Sixteen Stages, independent of Family hue.*
+
 The metaphor is smelting. Raw ore is dark, dense, full of impurity. Heat and pressure drive the impurities out, and what remains brightens with each pass of the forge. **The Soul Crystal is the ore. Temperance is the forge. The Refinement Spectrum is the color of what comes out.**
 
 | Stage | Tier of Standing | Color and character |
@@ -71,12 +74,15 @@ The metaphor is smelting. Raw ore is dark, dense, full of impurity. Heat and pre
 ## Part Three · Soul Crystal Developmental Tiers
 
 The Crystal is not a metaphor. It is a convergence structure where the Material, Soul and Fate planes overlap, and it has observable physical properties. One of those is color.
+
 **The Crystal's color tracks the Refinement Spectrum but is not identical to the Essence's color.** *Essence is what the Crystal produces. The Crystal is what produces it*, and the distinction matters at the extremes.
 - **Dormant (Pre-Stage I)** · No Essence output, but the Crystal exists and can be perceived: dark, inert, dimensionally flat. **A black stone in the chest with no luminance and no depth**
 - **Absolute (Stage XV–XVI)** · Output virtually indistinguishable from Continuum-law. The Crystal reads as a source of light that does not behave the way light should, **because it is not light. It is identity, rendering itself visible by sheer force of coherence**
 Between those extremes the Crystal transitions through **eight named tiers**, and the progression is not uniform:
 > **Dormant to Awakened** is the smallest color change and the largest qualitative change — dead stone to circulating engine, and the visual difference is barely perceptible.
+>
 > **Resonant to Radiant** is the first moment the Crystal produces enough light to be seen without mantic assistance.
+>
 > **Sovereign to Crystallized** is where the Crystal stops being an object inside a person and becomes, for all functional purposes, **the person. The color is the soul, expressed.**
 
 ---

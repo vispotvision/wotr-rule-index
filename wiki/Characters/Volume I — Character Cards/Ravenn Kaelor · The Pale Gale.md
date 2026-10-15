@@ -20,8 +20,11 @@ verification: null
 ### I · Identity
 
 **As Of** · The Imperial Age, after the Whisperwind Pass
+
 **Name** · Ravenn Kaelor. **Called** · The Pale Gale. **Also known as** · The Silent Tempest · White-Scar Acolyte · The Wind-Touched Ascetic. **Epithet** · He Who Walks Against the Storm's Will.
+
 **Race / Lineage** · Human, **Kingdom of Veyran** descent, with an atavistic wind-aspect mutation.
+
 **Gloss rights** · Diagnostic only. *He answers a direct question about how the wind-work functions; he does not volunteer it.*
 
 #### Affiliation
@@ -34,8 +37,11 @@ Former disciple of the **Gale Monastery** *(unattested independently of this car
 ### II · Soul Architecture
 
 **Aether Shell** · **Unclassed (Class emerges at Glory).** The attuned Shell holds rhythm; his stillness is the rhythm holding.
+
 **Attraction Layer** · Undeveloped, pointed at no one. *He keeps distance from safehouses and networks alike; the exile is total.*
+
 **Crystal State** · Fractured, load-bearing. **η** · ~0.35, Tier of Standing 5, Expert.
+
 **Instinct Bleed** · *The fracture from the Monastery collapse runs closest to the surface under emotional pressure; that is the mechanism behind an "uncontrolled surge," not a separate ailment.*
 
 ---
@@ -43,8 +49,11 @@ Former disciple of the **Gale Monastery** *(unattested independently of this car
 ### III · Wellspring Harmonizations
 
 **Aeolyth** · Vectoria. **The gale itself**: directional pressure, micro-fracture reading, the vector-prediction behind Gale-Scar Sight. *Governing.*
+
 **Sublimatio** · Vectoria. **Burst expansion, same-Family compounding with Aeolyth**: the Ascetic Gale Pulse is one current wearing two names.
+
 **Judicium** · Fulguria. **Structural order** imposed on a pressure field: the bind, not the cut.
+
 **Mirithane** · Limina. **Dormant.** One minor infection, unweaponized, carried since before the Monastery fell.
 
 ---
@@ -79,7 +88,9 @@ Former disciple of the **Gale Monastery** *(unattested independently of this car
 ### VI · Traits
 
 **Gale-Scar Sight** · **The damaged left eye reads micro-currents and airflow fractures**, a vector prediction rather than ordinary sight.
+
 **Stillwind Body** · **Breath and pulse slow under focus**, cutting Aether loss and banking burst potential.
+
 **Leaf-Step Drift** · **Monastic footwork that bends wind around the step**: silent, untrackable, unfollowed rather than simply fast.
 
 ---
@@ -87,6 +98,7 @@ Former disciple of the **Gale Monastery** *(unattested independently of this car
 ### VII · Artifacts
 
 **Gale-Leaf Talisman** · *Personal / Meditation Focus.* A jade leaf carried from the Monastery, used to anchor breath discipline. No combat function; a discipline aid.
+
 **Pressure-Collar Belt** · *Personal / Stabilizer.* Six-chamber belt that braces hip and spine against the load of high-velocity pressure displacement, the difference between Wind-Shear Line and a spinal injury.
 
 ---
@@ -96,8 +108,11 @@ Former disciple of the **Gale Monastery** *(unattested independently of this car
 #### Wind-Shear Line
 
 **Effect** · A single hand-flick compresses local pressure into a razor-thin filament: it cuts cloth, cracks stone, and staggers an armored target on contact.
+
 **Cost** · **Pressure Tear.** Overuse damages ligament and tendon load paths already weakened by the Monastery fracture; days of stillness follow.
+
 **Limit** · The filament is a straight line. It does not curve, and it does not survive contact with anything denser than the target it was cut for.
+
 **Counter** · **Heavy armor absorbs and disperses the filament's edge rather than parting under it**; the technique wants a clean line through something that will actually cut.
 > **What nobody knows.** Whether the Gale Monastery Collapse was an accident, or whether someone inside it wanted it to happen.
 
@@ -106,7 +121,9 @@ Former disciple of the **Gale Monastery** *(unattested independently of this car
 ### IX · Relationships
 
 **The Gale Monastery** · Destroyed. Every fellow disciple is unnamed even there; he is its only survivor on this sheet.
+
 **Rural frontier settlements** · Know him only as the reason bandit routes and beast migrations sometimes simply stop.
+
 **The Whisperwind Pass Purge** *(unattested as a place-name beyond this card, kept as a stated feat)* · A rogue wyvern and three mercenary units, put down using pressure strikes alone.
 
 ---
@@ -125,23 +142,29 @@ Former disciple of the **Gale Monastery** *(unattested independently of this car
 #### Origin
 
 Ravenn Kaelor was born in the Kingdom of Veyran, the horse-and-grain monarchy of the Southern Grass Sea, to a family that threshed its own grain. The wind showed in him early. When he cried in the yard, the chaff lifted off the threshing floor and blew back across the stacks. Nobody in the family could name anyone before him who had carried it. It was the old Veyran wind, come back after passing over every generation they remembered, and it had come to a child who could not yet slow his own breath.
+
 His parents gave him to the Gale Monastery while he was still small. There he was taught to sit. He held a jade leaf in his palm and breathed against it until his breath slowed, and his pulse after it. He learned the monastic step that bends the wind around the foot, until nobody heard him cross a floor. All through those years the body's side of the art stayed shut in him.
 
 #### The Making
 
 Then the Gale Monastery collapsed. A force went through it far above anything he could then hold, and he was in its path. He lived. None of the others did, and no record gives any of them a name.
+
 The collapse threw him into what he became. Something in him fractured along the lines of what he felt, and from then on the pressure ran through him unevenly. The body's side of the art, which all the sitting had never opened, opened in the Monastery's death. His left eye came out of it damaged and scarred white. Through it he read the air afterward: its small currents, the places where a flow was about to crack, and from those the line a body in that air would take next.
+
 He carried the jade leaf out of the ruin. He did not go back to his family's yard. On the roads he learned to flick a hand and pack the air in front of it into a filament thin as a razor's edge. It cut cloth, cracked stone and staggered a man in armour. He took to wearing a six-chamber belt that braced his hip and spine. Without it, every line he threw would have gone into his back.
 
 #### The Cost
 
 He paid for the line in his joints. The collapse had weakened the ligaments and tendons that carried its load, and when he threw it too often they tore. Days of stillness followed. Strong feeling was worse. Under it the fracture rose close to the surface, and the wind could surge out of him past his own hand. He kept his feeling down. He kept out of safehouses and networks alike, and he bound himself to no one.
+
 At a ford on one of the Horse Rivers, on a grain road through the marcher country, he stopped a string of carts that had been taking people off the roads. He cut the ropes on the people in the carts, each in one straight line, and split a side-board the same way. The drivers lay on the far bank. Then he sat on the near bank with his breath slowed almost to nothing, and he could not get up.
+
 Karu Velnar came down to the ford with broken shackles on his wrists. Some of the people could not be moved yet, and Ravenn could not walk, so Karu kept camp there. Through the days that followed he told Ravenn the Chainpit at the fire. Ravenn listened. With the scarred eye he watched the air round Karu's wrists, where the bracers stirred it. Karu asked whether the wind in his blood ever took him the way it took Karu. Ravenn said, "Calm is not peace. Calm is restraint." Karu asked him to walk the routes with him. He refused. On the day he could walk he went off across the grass, away from the road and the settlements.
 
 #### Where They Stand
 
 Ravenn Kaelor is a wanderer of the Imperial Age, unaffiliated, with no Accord rank to his name. Rural frontier settlements know him only as the reason bandit routes and beast migrations sometimes simply stop. On the Whisperwind Pass he put down a rogue wyvern and three mercenary units with pressure strikes alone. He answers a direct question about how the wind-work functions. He volunteers nothing past it. A second, smaller current has lain dormant in him since before the Monastery fell, and he has never made a weapon of it. Whether the Gale Monastery Collapse was an accident, or whether someone inside it wanted it to happen, nobody knows.
+
 When he sits, the jade leaf is in his palm.
 
 #### Ties

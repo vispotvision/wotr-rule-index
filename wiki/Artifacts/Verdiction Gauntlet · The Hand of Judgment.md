@@ -23,9 +23,13 @@ A forearm-and-hand gauntlet: plausible mass 3.6 kg, length 44 cm from wrist cuff
 ### Operation line
 
 **Divine Judgment Strike.** Trigger: contact, palm to target. Function: releases the kinetic charge Wilhelm's Binding Echo has stored from injuries already taken, as a single discharge through the gem rather than as retaliation against the original attacker. Mechanism: Fixatio anchors the stored charge until release; nothing escapes the seal until the gauntlet opens it. Numerical effect: Ardency 268, B-Grade, 1 to 5 GN. Target response: barrier fracture, enchantment disruption, or spirit displacement, depending on what absorbs the force. Limitation: usable once per cycle, tied directly to Binding Echo's own limit; without a stored injury to draw on, there is nothing to release. Weakness: exposes the gem, and the gauntlet, to whatever answers a slow, telegraphed contact strike. Cost: the same Crystal-remembering cost Binding Echo already carries; Hazul Vehramin is the only person on record who has repaired that Core, and there is no second Hazul. Counterplay: deny him the injury the Strike is built from, or simply outrun him; his Dexterity is 196, and he cannot pursue.
+
 **Aegis of Judgment.** A Fixatio anchor projected into a scale-shaped ward around Wilhelm or an ally, holding while his stance holds and absorbing what strikes it. It runs on the same footing as Divine Bastion Protocol: force arrives and does not relocate what stands behind the ward.
+
 **Force Repulsion Field.** A Petralon discharge through the palm, the same seismic transmission that makes his stance work, directed outward as a shockwave rather than held as ground contact. Numerical effect: bounded by the same B-Grade ceiling above.
+
 **Judgmental Reflection.** Nyxial's regulated system, the one that holds his baseline steady under both favourable and hostile conditions, redirects an incoming force back along its own vector instead of absorbing it. This is the same faculty that lets him hold setpoint through anything short of a Threshold Event; the gauntlet gives it an active answer instead of a passive one.
+
 **Verdiction Seal.** Fixatio applied directly to a spirit or entity on contact: what is held by Fixatio stays held, and a sealed entity does not return to the material world by any means this working accounts for.
 
 ### Codex line

@@ -23,7 +23,9 @@ Not a weapon; the Item Guide's proof-mark and armour-tier fields do not apply. O
 ### Operation line
 
 **Sanctuary Light.** While lit, the lantern draws ambient Verdantia saturation through its *Ur* (Balance) boundary and holds a stabilizing field to a 20-metre radius that low-Stage corrupted Essence cannot cross cleanly, which is what reads to a bearer as low-tier corrupted spirits being warded off; it does not touch anything above Ambient-to-Active Concentration corruption.
+
 **Pathway Beam.** The *On* (Light) glyph narrows the crystal's output to a directed line; anything the line crosses that is carrying an inscribed glyph, a laid trap-mechanism, or a live Essence current reads back to the bearer as a visible trace for as long as the beam holds.
+
 **Grove-bloom.** Inside Chimwala's own Domain only, the *Yn* (Bloom) glyph lets Verdantia saturation complete a plant's growth cycle on contact, which is why nearby vegetation flowers instantly regardless of light or season; outside his Domain the lantern cannot produce this effect at all.
 
 ### Codex line

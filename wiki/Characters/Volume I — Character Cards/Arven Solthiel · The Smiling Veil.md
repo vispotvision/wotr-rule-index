@@ -20,8 +20,11 @@ verification: null
 ### I · Identity
 
 **Name** · Arven Solthiel. **Called** · The Smiling Veil.
+
 **Role** · **Intermediary between lucid realms. Unregistered courier for the Guild Accord. Lullaby-glyph practitioner who treats nightmares as lessons.**
+
 **Race** · **Human, Veil-Touched hybrid** *(lineage unattested)*.
+
 **Gloss rights** · **Yes.** *He drifts between jest and revelation, and a man who talks that much will say the name of a thing when it suits him and translate it for nobody.*
 
 #### Affiliation
@@ -36,9 +39,13 @@ verification: null
 ### II · Soul Architecture
 
 **Aether Shell** · **Class V · Radiant.** *The Shell thins toward the Veil; the ribbons murmur their lullabies to the air without being asked.*
+
 **Attraction Layer** · Developed and porous. *He can lull spirits into calm conversation, and the same openness is the route by which other identities bleed in.*
+
 **Crystal State** · Refined, **with a documented drift toward Fractured after long veilwalks.** **Soul Crystal** · Radiant. **η** · 0.70, Tier of Standing 6, Master, mid-range.
+
 **Essence Typology** · **Fluxia dominant, Limina undertone.** *Empathy, reflection, adaptation; the disposition most prone to Echo Bonds, which is his whole problem.*
+
 **Parun Glyphs** · `Wy` (Motion; card gloss Stillness) · `Ie` (Insight) · `Ci` *(card gloss Reverie; canon Order)*.
 
 ---
@@ -80,11 +87,17 @@ verification: null
 ### VI · Traits
 
 **Sleep-Glyph Ribbons** · **The ribbons hanging from his sleeves are inscribed with sleep glyphs, each murmuring a lullaby to the air.** *Runecraft on cloth: fixed, and degrading like any inscription.*
+
 **Softened Perception** · **Ginger hair worn low enough to mask the eyes, to soften perception itself.**
+
 **Total Dream Recall** · **He remembers every dream he has entered.** When pressed, the humour curdles into cold clarity.
+
 **Veilstep** · **Folds himself partially into the dream-veil for brief displacement or invisibility.**
+
 **Somnic Draft** · **Sleep-glyph harmonics that induce lucid trance in targets, turning their emotions into visible motes.**
+
 **Echo Bloom** · **Converts ambient thought-noise into weaponised resonance threads;** laughter and whispers become blades.
+
 **Bleeding Identities** · **Each veilwalk erodes the boundary between dream and self.** Too long in another's subconscious and he speaks in other people's voices for days after. *A cost he carries when nobody is fighting.*
 
 ---
@@ -100,8 +113,11 @@ verification: null
 #### Lament of the Quiet Moon
 
 **Effect** · **A localised field in which motion and sound are suspended, leaving pure reflection.** *Somnalis holds every adjacent branch open at once. A body offered every possibility with equal weight commits to none of them. The stillness is an ensemble that has not collapsed.* Often mistaken for time-stopping magic. It is not.
+
 **Cost** · **Holding the field means holding every mind inside it, and every mind he holds leaks back.** *Bleeding identities. He will speak in their voices for days.* The price scales with the number of people quieted.
+
 **Limit** · **Localised.** The field is the size of a room. It suspends only what is inside it when it opens. A thing already in motion at the edge carries on.
+
 **Counter** · **Collapse the ensemble for him.** *Somnalis fails when the spread is mistaken for a single reading.* Commit, fully and stupidly, to one branch inside the field. The distribution takes a weight it cannot hold open. The Lament ends with him acting on the branch that had eleven percent of the weight. **Or refuse to reflect.** A mind with nothing to look at is a mind the field has nothing to hold.
 > **What nobody knows.** Whether the Black Concord's rumour is true, and whose memories are in the archive if it is.
 
@@ -110,9 +126,13 @@ verification: null
 ### IX · Relationships
 
 **The Somnalis Seminary at Eresse** · **His former masters.** Fallen into the Wellspring Silence. *Unattested.*
+
 **The Guild Accord** · **Unregistered Echo Courier.** *Concord-affiliated and off the register at once, which is a Black Concord posture whether or not the rumour is true.*
+
 **The Black Concord** · **Rumoured to use him to erase memories painlessly.** The card does not say he denies it.
+
 **The spirits he lulls into conversation** · The card gives no names.
+
 **Symbol** · **The Mercy of Sleep:** the kindness of forgetting, and the danger of too much peace.
 
 ---
@@ -131,27 +151,37 @@ verification: null
 #### Origin
 
 Arven Solthiel was born in Eresse, to a woman who sang other people's children to sleep for a wage. She sat by the cots until the breathing changed. She took her son with her, and he slept on the floors of strangers' nurseries because there was nobody to leave him with. No record names his father. Nothing written says what made him Veil-Touched.
+
 By the time he could talk, he was telling the children of those houses what they had dreamed. He told it in their words, and some mornings in their voices. Some households stopped sending for his mother. One of them sent word to the Somnalis Seminary instead. The masters took him as an apprentice.
 
 #### The Making
 
 The Seminary taught him the sleep glyphs and how to write them on cloth. He inked his first ribbons there and tied them at his sleeves, and each one murmured a lullaby to the air without being asked. His masters taught him to lull a spirit into calm conversation, and to walk into a sleeper's dream and come back out. In their teaching a nightmare was a lesson. The sleeper was walked through it to the end.
+
 He was at a sleeper's bedside, away from the Seminary, on the night it fell into the Wellspring Silence. His masters fell with it. He left Eresse with the ribbons and the lullabies.
+
 The Guild Accord found work for him and never wrote his name down. He carried memory-chains. He sat by sleepers nobody could wake and brought out what they had seen. Every veilwalk wore at the boundary between dream and self, and after a long one he spoke in the sleeper's voice for days. He had lost his Seminary to a silence, and he kept walking into other people's sleep anyway.
+
 He resolved that contradiction in a sickroom. A man lay in a nightmare, and his family crowded the bed, weeping and quarrelling over him. Arven went in. The noise of the room reached him there, and he could have followed it back out. He stayed. He chose the side of the boundary he would live on, and the first true Domain formed around the bed. Motion and sound were suspended, and only reflection was left. The family stood where the stillness had caught them, mouths open on the quarrel. It was the Lament of the Quiet Moon, and its author's doctrine was the Mercy of Sleep: the kindness of forgetting, and the danger of too much peace. When he let the field go, the man in the bed woke.
 
 #### The Cost
 
 That household came out of his mouth for days. He spoke as the wife, as the sons and as the sleeper, by turns, and he did not choose the turns. Every mind he held inside the field leaked back into him. The more people he quieted, the longer their voices stayed.
+
 His doctrine offered the kindness of forgetting. He kept every dream he had ever entered, and none of them faded. The glyphs on his ribbons faded as any inscription fades. He inked them again.
+
 On the Rimlands road below Altherion, a load of timber left a way-station and never reached the city. The Measure over it turned on what the station's night-keeper had seen, and she lay in a sleep nobody at the station could break. The Accord sent for the courier it does not register. Arven sat the night at her bed and lulled her into conversation inside her sleep. At dawn he came into the hall and gave her account in her voice. Nothing in it was a promise. Cassiel Asterion turned no seal. Marigold Vance stood at his shoulder, and her tiara did not tilt. The Measure closed on what he had carried out.
+
 For days afterward the keeper's voice came out of him, and the carters in the yard heard it from a stranger. Marigold walked him through them to the road. The Measure's record names a courier and gives no name.
+
 He went on treating nightmares as lessons, and he went on walking in.
 
 #### Where They Stand
 
 Arven Solthiel is an intermediary between lucid realms and an Echo Courier for the Guild Accord, Concord-affiliated and off its register at once. He is a young man. His ginger hair is worn low enough to mask the eyes. His robes are layered black and indigo, trimmed in gold and threaded with violet, and they ripple like parchment edges under candlelight. The ribbons still murmur at his sleeves. His emblem is a half-lidded eye crossed by a golden thread.
+
 He lulls spirits into calm conversation, and the same openness lets other people bleed into him. He drifts between jest and revelation. When he is pressed, the humour curdles into cold clarity. His smile is always slight.
+
 Some whisper that the Black Concord uses him to erase memories painlessly. Others claim he collects them for his own archives. Nobody has heard him deny either. No record says whether the rumour is true, or whose memories the archive would hold if it is.
 
 #### Ties

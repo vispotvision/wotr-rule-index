@@ -20,6 +20,7 @@ verification: "unverified"
 
 Let it be recorded, in the hand of **Kwon Mu-jin, called the Teacher**, of the Mahou line, drafted at the instruction and under the seal of **Dawn Guard, Sovereign of the Zettari** — on the night following the Sovereign's inquiry into the nature of Legion Summoning **and the crimes of Cozbi Mahuo.**
 > **This document does not claim to speak for every surviving Mahou.** It speaks for those named within it, and for the terms under which further names may be added.
+>
 > It is drafted honestly, **without softening what our bloodline has done or overstating what it deserves.**
 >
 > **Where the Mahou have failed, this record does not conceal the failure. Where the Zettari have failed, this record does not conceal that failure either.**
@@ -38,6 +39,7 @@ The Mahou line **shall no longer be treated as a danger without a name attached 
 ## Article II · On the Marriage
 
 A union is proposed between **Dawn Guard, Sovereign of the Zettari**, and **Ara Min Mahuo**, of the Mahou line, **as the foundation binding this Accord into something the Old World cannot dismiss as temporary goodwill.**
+
 **The following conditions govern this union absolutely.**
 
 | Condition | Provision |
@@ -51,9 +53,13 @@ A union is proposed between **Dawn Guard, Sovereign of the Zettari**, and **Ara 
 ## Article III · On the Obligations of the Mahou
 
 *In exchange for recognition and protection, to be upheld without exception.*
+
 **A recognized representative** shall speak for the line's lawful practice before the Zettari and before any court that requires an answer. *Until Ara Min Mahuo's standing is settled, this office is held by Kwon Mu-jin.*
+
 **A written code** shall distinguish **willing compact from conscription, contracted spirit from stolen soul, manufactured construct from harvested body.** Maintained as a living document, amended as understanding deepens, **never held static out of institutional pride.**
+
 **An archive of lawful disciplines** shall be preserved and made available to Zettari officers, **so that soldiers may learn the difference between a spirit that chose to serve and one that was never asked.**
+
 **Teachers capable of certifying practitioners** shall be named and protected, **so that the art may be taught openly rather than passed in secrecy from hand to hand.**
 > Any Mahou practitioner found practicing Cozbi's methods **shall be surrendered by the Mahou themselves, rather than sheltered behind shared blood.**
 

@@ -35,8 +35,11 @@ verification: "unverified"
 | **Synergia** | named by working | Multiple practitioners combining. Attraction Layer compatibility required. |
 
 **Discipline** · The named intersection of one Affinity and one Method. Pyromancy, Ferrokinesis, Geoturgy. The Affinity is the single phenomenon inside a Family (fire within Caloria), so the Family names the field and the Affinity names the discipline.
+
 **Theurgic axis** · A practitioner whose capacity was taught, and who works by method, procedure and systematic understanding. Slower to react, harder to surprise. The word means divine-work and names where a capacity came from, not the Method Turgia, though Turgia leans theurgic.
+
 **Thaumaturgic axis** · A practitioner whose capacity is innate, and whose Crystal acts before conscious analysis completes. Faster than thought, and correspondingly harder to correct once wrong.
+
 **Middle-axis Methods** · Manteia and Harmonia can run either way. Whether a practitioner reads by protocol or by instinct decides which.
 
 ---
@@ -44,9 +47,13 @@ verification: "unverified"
 ## VII · Glyphica and the Parunic syntax
 
 **Parun** · The language of law. Older than any surviving kingdom and not fully catalogued by anyone. **Glyphica** is its syntax put to work, the Category every craft and Method writes in: spoken in Spellcraft, cut in Runecraft.
+
 **What a glyph does** · A glyph creates nothing and carries no power. The Wellspring's law was already running and continues after the working ends. **A glyph is a boundary condition imposed on that law**, and the working is what the law does once the boundary has moved. Everything a working produces goes on obeying every rule it has ever obeyed, including the ones nobody at the bench considered.
+
 **Glyph** · A single unit of Parunic syntax. Explicit (carved, drawn, spoken) or implicit (internalised as a chain the practitioner no longer consciously assembles).
+
 **Wordform Chain** · A sequence of glyphs assembled into a complete sentence the Continuum can read.
+
 **The Four Glyph Roles** · Every structured working must satisfy all four, whether spoken once or carved into granite for a thousand years.
 
 | Role | What it establishes | What its absence produces |
@@ -57,8 +64,11 @@ verification: "unverified"
 | **Sealing** | That the sentence is finished and closed against contamination. Draws on Fixatio chains. | An open wound in the local Aether field, which the Continuum will try to close on its own terms. |
 
 **Fixatio chain** · The glyph sequence that fixes and closes a working. The workhorse of every seal, ward and permanent inscription in the Continuum.
+
 **Sigilcraft** · Glyphica rendered as durable inscription rather than performance: an older name for Runecraft, the craft of the cut sentence. Scriptia is the Method that lives by it.
+
 **Draft Corruption** · Law-fragments left when the Continuum partially executes a sentence with a structural error before the error propagates. It is the Direction role's own failure mode, and an error in any role can produce it: Wellspring processes started and never completed, which keep trying to finish themselves in whatever they contact. Unlike a Boundary failure, which spreads, or a Sealing failure, which never ends, the working itself stops; the fragment it left does not.
+
 **Internalised chain** · Glyphica compressed below the threshold of conscious assembly at high Temperance. A practitioner with sloppy internalised chains does not fail to cast. They cast something slightly different from what they intended, every time, and the error accumulates.
 
 ---
@@ -67,9 +77,13 @@ verification: "unverified"
 
 > **Aether + Essence + Vessel + Glyphica = Reaction**
 **Essence Draft** · A working stabilised into a substance. The product of Alchemia.
+
 **Vessel** · The container in which a Draft is bound. Its material sets what the Draft can survive and how long it keeps.
+
 **Crucible** · The working vessel of active transformation, as distinct from the vessel a finished Draft is stored in.
+
 **The Great Work** · The seven-stage curriculum of Alchemia. A practitioner's progress through it is a matter of public record within the Accord and a matter of pride outside it.
+
 **Coagulation · Distillation · Sublimation · Conjunction** · Named operations within the Work. Conjunction doubles as its own Category, since fusion behaves differently enough from the rest to need separate treatment. Conjunction is the operation and the Category; Conjunctia is the Method, a practitioner holding two Families at once.
 
 ---
@@ -77,13 +91,21 @@ verification: "unverified"
 ## IX · Domains, fields and realms
 
 **Domain** · A defined space in which the practitioner has altered what local law is willing to do cheaply. Persists as long as the Attraction Layer keeps recognising the claim, which is why a Domain fails all at once rather than fraying.
+
 **Aspect Sovereignty** · A Domain built on a single governing principle held by one soul.
+
 **Nexus** · A point where multiple aligned fields hold together durably. The founding condition of a Major Shared Realm.
+
 **Major Shared Realm** · A Domain that has outlived the practitioners who founded it and become a place.
+
 **Silence Realm** · A region in which lawful transformation cannot be authorised at all. Animatria constructs fail completely inside one, since their continuity depends on a connection back to source that Harmonic Silence severs.
+
 **Harmonic Silence** · The severing condition itself, as distinct from the region it produces.
+
 **Hollowing** · The progressive loss of a region's capacity to sustain lawful working. Closing one is Concordia's most difficult application and is measured in years. Farmers call it thinning; it is not a Veil-thin place, where the planes press close, nor Aether-thin ground, which was never rich.
+
 **Realm Rot** · The trade's name for a region's ruin under Mechanica: unsealed boundaries summed across the ground. Unlike a Hollowing, by Statute XXVI nothing closes it.
+
 **Aetheric Density** · The concentration of Aether in a given volume, which sets the local output ceiling. **This is why ground is fought over and not only people.**
 
 ---
@@ -91,10 +113,15 @@ verification: "unverified"
 ## X · Summoning and the Called
 
 **Vocatia** · Invocation by recognition. Never domination. The entity answers because it recognises the caller as lawfully compatible. It exists before and after the call; a presence built from the caster's own Core is Animatria.
+
 **Compact** · A standing agreement between practitioner and called entity, with terms both sides can state.
+
 **Tether** · The Attraction-side connection sustaining a called presence. Cutting it is the standard counter and the standard atrocity, depending on what was on the other end.
+
 **Effigy** · A constructed vessel shaped to receive or imitate a presence larger than the practitioner could lawfully call.
+
 **Usurpation** · A Vocatia working addressed to an unwilling higher being. Reads as Usurpation at the level the Continuum evaluates intention, regardless of correct surface syntax.
+
 **Eidolon** · An Animatria construct (Animatria: shaping one's own Core into a presence that acts apart). A detached fragment of the caster's own Core given temporary independent operation, and not a called thing at all, though summoners count it among their summons and the distinction is invisible from ten paces.
 
 ---
@@ -103,20 +130,35 @@ verification: "unverified"
 
 > The most-used vocabulary in the project, and the least standardised. Everything here describes a way a working, a Crystal or a region goes wrong.
 **Crystal Fracture Event** · A Soul Crystal splitting under trauma or overload. Produces erratic casting and identity leak.
+
 **Dead Set** · A Threshold melt that cools with no adequate Trait seed to nucleate around. The Stage does not advance, Clarity and Compression fall, and a Trait is commonly lost outright. In the halls, a seat that never took. **Slag** in every other register. Three names, one failure, and Dead Set is the name on the record; said of a district rather than a man, slag means Residue.
+
 **Rough seat** · A melt cooled around Trait seeds that contradicted one another. The lattice keeps the argument permanently. Rough-seated practitioners are unpredictable rather than weak, and are capped at Tier Four on certification regardless of demonstrated capability.
+
 **Shear Break** · A Trait collapsing, inverting, or turning on its bearer after the bearer has repeatedly denied the truth that formed it. The standing failure mode of a broken vow.
+
 **The Rigidity Effect** · The soul's reduced capacity to contradict a law it carries, scaling with how absolute that law is. Power and inflexibility are the same purchase.
+
 **Residual Strain** · Pressure still arriving after the level counter has halted at a Band ceiling. Degrades gain, raises Overchannel and Backlash risk, and does not stop building.
+
 **Sealing failure** · The most lethal Glyphica error and the least often recorded as one. Authorization, Boundary or Direction failing produce the failures in the role table, each of which shows itself while the operator is still in the room. **Sealing failing produces a working that does not stop**, because the law goes on obeying itself after the operator has left the room.
+
 **Shard** · What a fractured Core sheds. Retains fragments of the identity it came from.
+
 **Echo Fracture** · The Harmonia failure state, produced by mismatched Resonant Tone.
+
 **Aetheric Saturation** · Essence released by workings flooding an area faster than it disperses, past ten thousand EU per cubic metre. Produces Fracture Events in everyone present, including whoever caused it. Not Ambient Saturation, the surveyors' name for ordinary ground.
+
 **Essence Starvation** · Operation below ten percent reserve. Reduced stat expression, Shell degradation, Trait flickering.
+
 **Clouding · Rupture** · The two Aether Shell failure states, gradual and sudden. Written Shell Rupture wherever it could be mistaken for a Rupture Event.
+
 **Rupture Event** · A Conjunction's failure: two incompatible laws contesting one substrate without adequate mediation. No relation to Shell Rupture, nor to a rupture in the Veil, which is a channel struck between planes.
+
 **Obsession Force** · Attraction Force curdled into fixation. Sustains corrupted technique through refusal rather than harmony, at escalating soul-cost.
+
 **Mechanica debt** · What the Continuum records against a working performed without lawful Authorization. Statute XXVI, **Mechanica Irreversibility**, exists because this is the one damage the Continuum does not forget.
+
 **The Withering** · Epoch-scale. Generates dread and problems. Resolves nothing.
 
 ---
@@ -124,9 +166,13 @@ verification: "unverified"
 ## XII · Pressure and the read
 
 *Field vocabulary. What practitioners use on each other before anyone has cast anything.*
+
 **Pressure** · What a higher Stage does to the room simply by being in it. **One Stage up bends attention. Two produces sweat and nausea. Three or more drops people involuntarily. A Band gap changes local weather.** Felt in the body, and seen in the practitioner's own aura, in their own colour, burning brighter as they push.
+
 **Suppression** · The skill of holding Pressure in. Tiring to maintain. **Dropping it deliberately is a threat and is understood as one.**
+
 **The read** · Identifying what the other practitioner is doing, in the two or three exchanges before it kills you. Taught techniques are documented and counterable by anyone who studied. Self-derived techniques must be read live.
+
 **Stage gap** · The distance between two practitioners on the sixteen-Stage ladder. The single most consequential fact in any encounter and the first thing anyone competent establishes.
 
 ---
@@ -134,10 +180,15 @@ verification: "unverified"
 ## XIII · Institutional vocabulary
 
 **The Guild Accord** · The licensing and regulatory body. Its register of techniques is out of date and everyone knows it.
+
 **The register** · The Accord's official catalogue of known techniques and disciplines. **Absence from the register is not evidence that a thing does not exist.**
+
 **Forbidden** · A discipline the Accord has named and prohibited. Chronokinesis beyond Stage X, Chronoturgy entirely. A Forbidden thing has a procedure for handling you.
+
 **Unnamed** · A practice with no register entry at all. Worse than Forbidden, because there is no procedure, and the absence of one has to be improvised by whoever finds you.
+
 **Standing** · A practitioner's recognised position within the Accord's hierarchy, which is not the same as their Stage and is frequently mistaken for it by people who should know better.
+
 **Statute** · A numbered article of the Codex of Absolute Magical Law. Cited by number in argument and by name only when someone is being theatrical.
 
 ---
@@ -164,8 +215,11 @@ verification: "unverified"
 ## XV · What goes on the page
 
 *The section to read before writing anything. It sorts everything above into two channels.*
+
 **Mechanism belongs on the page.** How a working works, why it costs what it costs, what law it conditions and what fault falls out of that law. A fully explained technique that costs nothing is worse than an unexplained one, and an unexplained one that costs everything is worse than both.
+
 **Numbers belong in a mouth.** Figures are diagnostic: a Grade letter, a Band, an η, a count of EU, a Sub-Stat's value. They appear when a character speaks them, when an instrument reports them, when a document records them, or when somebody is privately counting. **They do not appear in narration on its own authority.** The system's words without their figures, Aether, Density, Saturation, Coherence, may stand in narration beside the effect they name.
+
 **Effects always appear as behaviour and physics.** A high Ardency Penetration is first the point going through plate that should have turned it, and only after that, if at all, a name. A Stage gap is not stated. It is the man who cannot lift his arm.
 
 | Channel | What it carries |

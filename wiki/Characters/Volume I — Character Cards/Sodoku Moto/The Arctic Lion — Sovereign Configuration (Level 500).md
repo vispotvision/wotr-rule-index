@@ -12,8 +12,11 @@ verification: null
 
 *The Winter Crown · The True King of the North · Forged by Borin Ironheart · Age 28*
 > **Level 500 · Stage XII Emanation · Band V · Tier of Standing 7, Grandmaster · η 0.91**
+>
 > **Root Phenomenon:** Sovereignty — the season that asks "will you endure?"
+>
 > **Family:** Fulguria (Judicium) · Caloria (Vohrin) · **Domain:** Electromagnetism · Thermodynamics · **Wellsprings:** Judicium + Vohrin (co-primary) · Coagulatio + Fixatio (secondary)
+>
 > **EU Reserve:** 4,200,000 · **AU/s:** ~12,500 base / ~16,250 Resonance Circuit · **Aether Class:** I — Sovereign
 
 ---
@@ -205,7 +208,9 @@ Full True Nature. Actual weather change. Approaches Gisei. Glacium fractures. Ev
 ## V · Corruption — The Glacier's Heart
 
 > **Butcher:** Tyrant's Edge — everything a verdict.
+>
 > **Arctic Lion:** Glacier's Heart — becoming the cold permanently. Preserving so perfectly it forgets the preserved are alive.
+>
 > **Counter:** Yoko. The warmth the cold cannot replicate.
 
 ---

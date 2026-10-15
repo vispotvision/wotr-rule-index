@@ -12,6 +12,7 @@ verification: null
 
 **Say it** · AD-ul-rik VLAD-ih-meer VAL-en
 > *"Your blood will remember my name long after your body rots."*
+>
 > **Migrated with all content preserved, including the three artifacts.** *"Sanguine / Umbra / Thanatic / Kinetic Aether"* were not Essence types. **"Aether Class: Crimson Shade — Predatory Duelist Archetype"** is not among the eight; **he is Class III, Resonant.** *"Temperance Compatibility: Journeyman (Stage VII)"* conflates the **Accord rank ladder** with the **Temperance ladder** — two different axes. **Stage VII is retained; Journeyman is struck.**
 
 ---
@@ -19,7 +20,9 @@ verification: null
 ## I · Identity
 
 **As Of** · After the Calverne halt
+
 **Name** · Baron Adalric Vladimer Valen. **Called** · The Crimson Shade.
+
 **Role** · **Vampiric Aristocrat Wanderer. Hemomantic Duelist. Shadow-Bound Gravewalker.**
 
 ### Affiliation
@@ -34,8 +37,11 @@ Former High Lord of the **Empire of Bluvest**, self-exiled. **Independent travel
 ## II · Soul Architecture
 
 **Aether Shell** · **Class III · Resonant.** Power moves in silence.
+
 **Attraction Layer** · Developed, and pointed at a network rather than a person. *The safehouses and informants are Axes of a sort.*
+
 **Crystal State** · Refined. **η** · ~0.60, Tier of Standing 5, Expert.
+
 **The Crimson Noctis Core** · *A crimson eclipse within the Soul Crystal, draining life within proximity to fuel blood and shadow at will.*
 
 ---
@@ -43,8 +49,11 @@ Former High Lord of the **Empire of Bluvest**, self-exiled. **Independent travel
 ## III · Wellspring Harmonizations
 
 **Anima Spirare** · Vitalia. **Bright arterial red** — *the most viscerally uncomfortable Family colour to observe, because the hue triggers the mammalian recognition-response to blood.* **Sanguine Dominion, sourced.**
+
 **Mortalis** · Vitalia. Venous black-red. **Governs passage** — the Thanatic half, and **same-Family compounding with Anima Spirare is why blood and death are one operation in his hands.**
+
 **Tenebra** · Limina. *Signal-to-noise reduction — he is not invisible, he is quieter than the background, which is better.* **The Cloak, and the Umbra work.** *Failure: aspect dependence. Faceting works against expected angles, and a Tenebra practitioner observed from the one direction they did not plan for returns a very bright signal indeed.*
+
 **Petralon** · Vectoria. The kinetic precision of the duel.
 
 ---
@@ -79,9 +88,13 @@ Former High Lord of the **Empire of Bluvest**, self-exiled. **Independent travel
 ## VI · Traits
 
 **Vampiric Physiology** · **Stage VII body reinforcement** — supernatural strength, speed and durability.
+
 **Curse of Rejectance** · **Purges toxins, corruptive Essence and mental intrusions automatically.** *Note: Hieronymus Cruciferi carries an identically-named trait. Two sheets, one name, and on Hieronymus it forecloses Spirit Axes entirely. Worth ruling whether these are the same mechanism.*
+
 **Eternal Endurance** · **Operates at full capacity while mana and blood reserves remain stable.**
+
 **Hemovore's Gift** · **Increases raw strength and speed proportional to blood consumed.**
+
 **Sanguine Dominion** · **Precision control over blood in both self and enemies** — capable of shaping, restraining, or rupturing.
 
 ---
@@ -89,7 +102,9 @@ Former High Lord of the **Empire of Bluvest**, self-exiled. **Independent travel
 ## VII · Artifacts
 
 **Vampiric Rapier** · *Relic / Weapon / Soulbound Blood Channel.* **Midnight-black blade veined with deep crimson Essence, pulsing faintly with each heartbeat it claims.** Glyphs *Mu (Ending), Oru (Power).* **Siphons life Essence with each strike** · extends into coagulated Essence-blood tendrils for mid-range thrusts · **cuts through Essence barriers of equal or lower Temperance Stage.**
+
 **Bloodforged Armor** · *Soulbound Plate / Living Bloodsteel.* Layered black-red plate, **breathing with its wearer.** Glyph *Oru.* **Repairs itself using stored blood reserves** · increases density, speed and shaping precision of blood constructs.
+
 **Cloak of Shadows** · *Umbral Relic / Concealment Mantle.* **A long tattered cloak that drinks in light**, edges dissolving into shadow wisps. Glyph *Vy (Veil).* **Invisibility in dim or no light** · projects a shadow field that blinds and confuses.
 
 ---
@@ -99,8 +114,11 @@ Former High Lord of the **Empire of Bluvest**, self-exiled. **Independent travel
 ### Red Moon Nights
 
 **Effect** · He arrives, and by morning **prey has been taken and none are found.** *The rapier siphons, the cloak conceals, and the settlement is left with an absence rather than a scene.*
+
 **Cost** · **Hemovore's Gift scales with consumption, which means the discipline requires it.** *He has aristocratic honour and a physiology that argues with it, and the honour is the thing under strain.*
+
 **Limit** · **Dim or no light.** Tenebra is a signal-reduction effect and daylight is signal.
+
 **Counter** · **Observe him from the angle he did not plan for.** *Tenebra's aspect dependence means a practitioner watched from an unexpected direction returns a very bright signal indeed.*
 > **What nobody knows.** Why the Empire of Bluvest let him leave.
 
@@ -109,7 +127,9 @@ Former High Lord of the **Empire of Bluvest**, self-exiled. **Independent travel
 ## IX · Relationships
 
 **Safehouses, taverns and informants** across realms, for shelter and resource gathering.
+
 **Elder vampiric courts** · **Respect him for preserving aristocratic honour despite exile.**
+
 **Caravans and small settlements** · **Know him as a harbinger of "Red Moon Nights."**
 
 ---
@@ -132,18 +152,23 @@ Adalric Vladimer Valen was born heir to a baron's house of the vampiric blood, u
 #### The Making
 
 He learned to take hold of blood, in his own body and in an enemy's, and to shape it, restrain it or rupture it. The more he drank, the stronger and faster he grew. So the discipline asked him to drink. He went armoured in layered black-red plate that breathed with him and mended itself from the blood he stored. His rapier was midnight-black and veined with crimson, and it pulsed with each heartbeat it claimed. His cloak drank the light. In dim light, or none, nobody saw him at all.
+
 He was High Lord when he came to see his own soul from outside. Every fracture in it lay open to him, each one bearing load and each one marked, and he could not stop seeing them. He looked at what he had been built on. Then he left. He exiled himself from the empire he had held and went out onto the roads alone. Of everything a High Lord carries, he kept one thing to bear load: his honour as a lord.
 
 #### The Cost
 
 He gave up a realm and has never taken another. He holds no land and no office. He claims nothing but his safehouses, and where a lord would keep a province he keeps a network: taverns across the realms, houses that shelter him, informants who bring him what he needs. The elder vampiric courts respect him for keeping his honour through the exile. He keeps his ties with them discreet and takes no part in their politics.
+
 His physiology argues with the honour. His strength rises with the blood he takes, so the duel he built his life on needs feeding, and he feeds. The caravans and small settlements have a name for the nights he comes. They call them Red Moon Nights. He arrives after dark, and by morning prey has been taken and none are found. The settlement is left with an absence. It went that way at a caravan halt on the Calverne road, where he came after dark and was gone before the carters woke. An Accord courier travelling with the caravan was among the missing.
+
 In Valecar, in the river country, a commander hired mercenaries for a field, and Adalric took his coin to guard him. Near midday Hieronymus Cruciferi came onto the field for the other side. The battle ended in minutes. Inside the radius of the Black Sun the ranks came apart, and the souls of the slain went into the Cross. The commander's host broke. Adalric kept his rapier sheathed. He had been hired for the commander. In daylight his cloak hid nothing. Through the afternoon he kept the man alive in the wreck of the baggage lines. After dark he took him off the field under the cloak, and Hieronymus did not follow them into the dark. Neither man learned the other's name that day.
 
 #### Where They Stand
 
 Adalric Vladimer Valen travels alone, sells his blade and seeks Wellsprings. Safehouses, taverns and informants across the realms give him shelter and supplies. He has seen what the Immortal does to a field, and he is among the mercenaries who respect Hieronymus.
+
 At the Calverne halt, others came after him. The Accord sent Zeven Halek after its courier. Zeven read the halt with his eye, from an angle Adalric had not planned for, and found where something had passed quieter than the ground behind it. He filed the shape under no name. Nobody was retrieved. In the days after, Basilio Pavaret came to the halt, took its people's grief as they offered it, and painted it in his own blood. No record says Adalric knows of either man.
+
 Drevath Mourne-Kal, the Iron Horizon, left the same empire, and nobody knows why the Empire of Bluvest let either of them leave.
 
 #### Ties

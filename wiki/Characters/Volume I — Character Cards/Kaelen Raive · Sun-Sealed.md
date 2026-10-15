@@ -12,10 +12,13 @@ verification: null
 
 **Say it** · KAY-len RAYV
 > *"The light doesn't ask for permission. It simply shows what was always there."*
+>
 > **The card states no Temperance Stage.** **Stage VIII — Transcendence assigned as originated and ratified as written (Isaac, 2026-09-12)**, on the strength of the Sun-Seal: *it binds Domains temporarily if invoked at full charge, and binding another practitioner's Domain is not a low-Stage act.*
+>
 > **Temperance Stage VIII — ratified 2026-09-12.** Ratified as written (Isaac): Level 240, Tier of Standing 6, Master, Grade S, ceiling 550, η ~0.70, matching the Sixteen Stages entry for Transcendence.
 >
 > *"Solar / Gravity / Order"* were not Essence types. **"High Arbiter Selhane"** wants checking against **Selhar**, one of the fourteen Archons — *the names are one letter apart and that is either deliberate or a slip.*
+>
 > **Name collision.** *Volume IV already contains Kaelen Brighthoof, The Horned Hawk.* **Two Kaelens, different surnames, no stated relation.** *Worth confirming as coincidence — they are otherwise nothing alike.*
 
 ---
@@ -23,6 +26,7 @@ verification: null
 ## I · Identity
 
 **Name** · Kaelen Raive. **Titles** · **Sun-Sealed.** *Warden of the Dawning Sigil.*
+
 **Role** · **Solar Acolyte. Wellspring Arbiter. Bound Duelist of the Arbitration Division.**
 
 ### Affiliation
@@ -43,7 +47,9 @@ verification: null
 ## II · Soul Architecture
 
 **Aether Shell** · **Class V · Radiant.** *Aether bends toward the bearer.*
+
 **Crystal State** · Refined. **η** · ~0.70, Tier of Standing 6, Master.
+
 **Sun-Seal Engraving** · **The golden spiral on his chest is a living Parun seal**, channelling Radiance in bursts strong enough to **blind or sear** — and **at full charge, to bind Domains temporarily.**
 
 ---
@@ -51,8 +57,11 @@ verification: null
 ## III · Wellspring Harmonizations
 
 **Luminalis** · Fulguria. **The radiance and the purification.**
+
 **Judicium** · Fulguria. **Order, measure, consequence.** *The sealcraft and the judgment.* **Same-Family compounding — the fifth Judicium practitioner in Volume IV.**
+
 **Gravitas-aspected Vectoria work** · **Graviton Step** — *localised gravity fields, anchoring himself or pinning opponents.*
+
 **Mirithane** · Limina. **A true mirror adds nothing** — *Truthflare, where lies and illusion fail because a faithful reflection cannot carry them.*
 
 ---
@@ -94,7 +103,9 @@ verification: null
 ## VI · Traits
 
 **Sun-Seal Engraving** · **A living Parun seal channelling Radiance in bursts strong enough to blind or sear**, and **binding Domains temporarily at full charge.**
+
 **Graviton Step** · **Manipulates localised gravity fields with each movement** — *anchoring himself or pinning opponents.*
+
 **Truthflare** · **Within a small radius, his Essence subtly suppresses lies and illusion magic** — *a trait feared in political courts.*
 
 ---
@@ -104,8 +115,11 @@ verification: null
 ### The Dawning Orbit
 
 **Effect** · **Ascent through illumination, moral judgment, and inexorable pursuit.** *At full charge the Seal binds a Domain shut — the practitioner holding it finds their own law suspended while the trial concludes.*
+
 **Cost** · **Full charge takes time he must survive.**
+
 **Limit** · **Temporary.** *A bound Domain returns.*
+
 **Counter** · **Talk to him.** *Harmonics 190 — he cannot negotiate, cannot de-escalate, and has no answer to a dispute that resolves before violence.*
 
 ---
@@ -113,8 +127,11 @@ verification: null
 ## VIII · Relationships
 
 **Rikkan Sahr** · **Occasional escort in hazardous deliveries.** *Values his speed but distrusts his gambling with fate.*
+
 **High Arbiter Selhane** · **Mentor and political handler within the Arbitration Division.**
+
 **Outer World Sun-Monks** · **Honorary rank due to lineage and sigil heritage.**
+
 **Saruin Kye** · *Saruin finds him "too serious" and delights in poking at him* — **but respects him enough to show up when it truly matters.**
 
 ---
@@ -133,26 +150,35 @@ verification: null
 #### Origin
 
 Kaelen Raive was born in the Outer World, on spent ground, where a people's standing rested on the few places Essence still gathered. His lineage carried a sigil heritage that the Outer World Sun-Monks honoured, and the monks gave him an honorary rank among them for it. The heritage was engraved into his chest. It was a golden spiral, a living Parun seal, and its light came in bursts strong enough to blind or sear.
+
 In that country a Wellspring claim was fought over as often as it was argued. Parties who could not settle one brought it to the Guild Accord. The Arbitration Division heard them and took its fees from both sides, and some hearings turned violent before it ruled. High Arbiter Selhane took the young man with the seal into the Division, as his mentor and as the one who decided where he was sent.
 
 #### The Making
 
 The Division made him its Bound Duelist. It sent him to truth-binding trials, and to sanctum duels where a dispute over a Wellspring claim or over Concord law had turned violent. Every duel he fought in that office was also a verdict.
+
 He fought planted. He anchored himself where he stood, or pinned the man across from him, and made the other side come to him.
+
 The seal burned on him through all of it. He could not negotiate. Once a quarrel had started up he could not bring it down again, and the parties who faced him in a sanctum heard nothing from him they could bargain with. He carried the seal as damage, a sigil heritage burning on a man whose every duel was also a verdict.
+
 Then he made it hold on purpose. He decided, consciously, that the seal is the verdict, and he built the Warden on that decision. The light that shows what was always there became the frame the judgment hangs from. Both readings sat on the same spiral, and he dropped neither while he fought.
+
 His first true Domain formed with that decision. Inside a small radius around him lies and illusions failed, and the room agreed that he weighed more than he should.
 
 #### The Cost
 
 The seal bound a Domain shut only at full charge. The charge took time he had to survive.
+
 Two desert-bound peoples claimed a small Wellspring on the Aurelian Dust Coast, each by ancient right, and brought the dispute to the Accord. Zahiren Vahl read the ground of its sanctum for the Division. He found both peoples there, each in its turn, further back than either people's own account. Neither would take that reading. One refused it outright and asked for trial. The Division sent Kaelen. The trial was set as a sanctum duel against that people's champion. The champion gave ground, then opened a Domain over the sanctum. Kaelen began the charge. Before it was full, the champion's people broke the ring and came at him from the sides.
+
 Saruin Kye came down into the sanctum on his cloud. For as long as the charge took, the blows that should have landed on Kaelen missed him, and a wall that had started to fall held until the charge was full. The seal bound the champion's Domain shut, and his law stood suspended while the trial concluded. Kaelen did not strike the bound man. He stood over him until the verdict was entered with the Division, and Saruin was gone before it was read.
+
 On the Varakh Drylands he escorted Rikkan Sahr and a sealed package for Research and Archives, and neither man asked what was in it. On the red earth an Essence storm came across the road. Rikkan read the run of it and took a line through its edge at a pace no escort could keep. Kaelen could not follow. He would not stake the road on the courier's luck. He anchored himself on the road and stood while the storm went over him. When it had passed he walked the rest of the way alone, and at the Wellspring the package had already been handed over and signed for. Rikkan was sitting on the sanctum step.
 
 #### Where They Stand
 
 Kaelen Raive is the Bound Duelist of the Arbitration Division and Warden of the Dawning Sigil, and he keeps his rank among the Outer World Sun-Monks. High Arbiter Selhane is still his mentor, and still handles him inside the Division. The Division sends him when everyone else has finished talking, and a dispute that settles before it turns violent leaves him nothing to answer with. Political courts fear the radius around him.
+
 Aurevian Lysanthir's glamour fails beside him, and the two spar in words, bluntness against velvet. Varozael Dreikthorne knows him for a hunter, and he knows the stag for one and holds the fear it lives on to be a waste. Saruin Kye finds him too serious and pokes at him, and shows up when it matters. He still escorts Rikkan Sahr on hazardous deliveries now and then. He values the courier's speed. He distrusts the luck it runs on.
 
 #### Ties

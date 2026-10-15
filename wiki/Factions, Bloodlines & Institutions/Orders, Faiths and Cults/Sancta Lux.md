@@ -12,6 +12,7 @@ verification: "unverified"
 
 *The Hand That Casts Judgement · Standing, the Oracle, the Works, the Host*
 > *A scale is not adored. A scale is consulted. The man who kneels to a measure has already agreed to be lied to.*
+>
 > — opening clause, the Catechism of Equal Breath
 
 ---
@@ -39,13 +40,16 @@ Common mortal usage renders that reference as **the Judger.** Every Attestant is
 ### The received account
 
 Sancta Lux was founded during the Great Spirit War by **Sadara Izayoi**, who claimed a direct reading from the Scale and vowed to enact its correction across every realm that would receive her and several that would not. She is remembered as **the First Hand.**
+
 Beneath her, the first martial wing took shape under **Lucius**, recorded as **First Grand Paladin**: a plague-cleanser who purified the survivors at Veyr Chapel at seventeen **without burning them alive**, and who summoned seven luminous eidolons at twenty and went blind for three days for the privilege. **Lucius drew on Faisal's Numen to do it**, which matters later and matters enormously. **Epsilon**, longest-lived Grand Archmagus in the order's history, codified the glyphwork.
+
 The Accord's charter recognises this lineage. The Grand Church's floor is inlaid with it.
 > Every part of that account is documented. **None of it describes the order that exists today.**
 
 ### The author
 
 What people mean when they say *Sancta Lux* in the current era is a specific apparatus: **the Ladder of Standing**, the separation of reading from finding and finding from sentence, the Measurewright's oath, the annual publication of false-positive rates, and the doctrine that **no clause may be enforced beyond the scope it names.**
+
 That architecture is **thirty-five years old.** It was written by one man between the ages of twenty-six and thirty-five, **and he is still alive**, and he is not the founder in any document the order has ever filed.
 > **Darius Ignatius Sanctus Sanctorum** led four hundred Sanctified Legionaries through the outer gate of the Eclipse Bastion on a correct reading **made at the wrong time.** The gate held them for nine minutes. He stood at the threshold with the Scale open, understood that intervention would spend more lives than it saved, **and did nothing that could be called an act.**
 >
@@ -54,6 +58,7 @@ So he wrote the procedure. He wrote it slowly, in the recalcitrant, unornamented
 > Because an order that can name the decade its doctrine was written must also concede the doctrine could be rewritten, **and an order that concedes that cannot execute anyone.**
 Darius has never corrected the record. Three Accord tribunals have put the question to him directly. **All three times he answered a different question, accurately, at length, and without visible feeling.** The Arbitration Division's private position is that the founding attribution is **a known falsehood maintained for institutional load-bearing reasons**, that it is the single largest unweighed act inside Sancta Lux, and **that the only person with standing to weigh it is its beneficiary.**
 > *"I am not here to forgive you. I am here to tell you what you did."*
+>
 > — attributed to Darius, and printed on the reverse of every Measurewright's writ
 
 ---
@@ -85,12 +90,15 @@ A Measurewright brings a reading into the Hall. **The Oracle returns weight.** I
 ## The Seventh Objection
 
 *How Sancta Lux knows about Hataraki.*
+
 The Oracle returns weight **in a grammar.** Sancta Lux expected that grammar to be one word wide.
+
 Balance is the order's whole subject. Urion is the Balancer, the Scale is the instrument, Baransu no Shigoto is the labour of measure and proportion, and a body founded on a single Archonic principle reasonably expects its instrument to speak in that principle and no other.
 > What Sel-Ur actually returns is a reading **sorted into seven categories**, and Balance is only one of them. The others are **Ruin, Purity, Spirit, Temporality, Knowledge, and Totality.**
 >
 > **Those are the Works.**
 Hametsu no Gō, which clears what must end. The labour of Purity, which establishes what must remain. Spirit, which governs passage between states of being. Jikan no Shigoto, which arranges sequence. Knowledge, which reveals what a thing is. Balance, which reconciles.
+
 And **Zentai-sei no Hataraki**, the Work of Totality, which gathers all of them into one architecture — which the Oracle invokes **roughly once in nine thousand readings**, and which **every Measurewright who has ever seen it invoked has requested reassignment within the year.**
 
 ### Epsilon's conclusion
@@ -98,7 +106,9 @@ And **Zentai-sei no Hataraki**, the Work of Totality, which gathers all of them 
 Epsilon catalogued the pattern across three centuries of readings and reached the conclusion the order has been managing ever since. **The Works predate Archonic personhood.** Bara authored them inside the Plane of Fate before chronology existed, and the Archons rose later as sovereign crowned expressions of meanings the Works already held in their barest operative form.
 > **Urion is not the floor.** Urion is one crowned idea standing on a labour older than his name, and Sancta Lux's instrument reads the whole floor **because the floor is what the instrument was calibrated against** — and the order has been calling the floor by the name of one of its tiles for eleven hundred years.
 The finding is sealed. Internally it is called **the Seventh Objection**, after the seventh grammatical category the Oracle returns and the order does not teach. **Standing above Lector is required to know it exists. Standing at the Sealed Standard is required to read it.**
+
 Its practical consequence is that Sancta Lux is **the only mortal institution in the four worlds with a continuous empirical record of Hataraki operating** — and it has spent three centuries suppressing that record, because publishing it would concede that six equally primordial labours exist over which the order holds no authority at all, **and that its own authority is derivative, inherited, and one tile wide.**
+
 *Darius has read the Seventh Objection. He is one of three living holders of the Sealed Standard. What he has decided to do about it is the thing his own record notes he has chosen and told nobody — and which he believes will justify a fifth fracture in a Soul Crystal that will not survive one.*
 
 ---
@@ -125,8 +135,11 @@ Rank inside Sancta Lux **does not describe command.** It describes what a member
 ### Lateral offices
 
 *Standing on the Ladder is not the same as office. Three bodies sit across the rungs rather than on them, and all three are resented by the grades they cut through.*
+
 **The Inquisitors** carry Judica rites etched directly into their gauntlets and may pronounce sentence in the field without an Arbiter present — **a suspension of the entire post-Bastion architecture, authorised for exactly that reason.**
+
 **The Ember Magistrates** ride a permanent circuit through Accord territory holding flame-lit equilibrium courts in towns that will never see the Grand Church. **They are the only face most people ever put to the order.**
+
 **The Mask**, of which there is only ever one, holds a relic forged for Censure and **suppresses invocation simply by being in the room.** Deployed against practitioners the order has decided **should not be permitted to argue.**
 
 ---
@@ -145,8 +158,11 @@ Rank inside Sancta Lux **does not describe command.** It describes what a member
 ## What Sancta Lux Is Standing In For
 
 *This is the part of the entry the order would most prefer nobody assembled.*
+
 **The work Sancta Lux does was not originally mortal work.** Verdicts were spoken by Celestials Sung out of the Lawbell for the purpose, in a Choir structure that predates every mortal institution now claiming jurisdiction over anything.
+
 A Celestial carries **Vow-Light** as a substrate of its Aether: a heavy, warm-pressure radiance under which spoken falsehood becomes physically effortful — a labouring breath, a tightening throat, a headache that scales with the size of the untruth. **It does not detect a lie. It makes lying cost something**, reliably, in every mortal and every tongue, **without examination, without a Ladder, and without the possibility of an Arbiter having a bad morning.**
+
 Then Malakar took Grand Angel Faisal apart into six pieces, the Host went from thousands to credible sightings in the low dozens across seven centuries, and no Celestial has been confirmed Sung since.
 > What is left of the apparatus that used to hold the world's oaths is **a mortal order with a procedure manual.**
 >
@@ -154,6 +170,7 @@ Then Malakar took Grand Angel Faisal apart into six pieces, the Host went from t
 >
 > The order publishes that rate annually, in full, in a document **nobody outside Arbitration has requested in eleven years** — and Darius wrote the requirement to publish it into the architecture himself, over the Word's objection, on the stated ground that **an instrument which conceals its own error rate is not an instrument but a weapon with a good reputation.**
 **The lineage is not abstract.** Lucius drew on Faisal's Numen to raise the seven eidolons that made the order's name — which means **Sancta Lux's founding martial miracle was performed on borrowed Celestial architecture from a being who was subsequently divided into six pieces.**
+
 The order's standing interest in locating those pieces is **the largest non-public programme it runs**, larger than its entire Wellspring holdings enforcement arm, resourced disproportionately for reasons its own internal memoranda describe only as *structural* and decline to elaborate.
 > The Guild Accord tracks the same six pieces with the same disproportionate resourcing and the same refusal to elaborate.
 >
@@ -164,9 +181,13 @@ The order's standing interest in locating those pieces is **the largest non-publ
 ## Practice
 
 **Wellsprings** · Anamnesis, Exuroth, Fixatio, Ignivale, Judicium, Lethegraal, Mirithane, Petralon, Thaloré. *The Scale's attested nine.* Judicium and Fixatio are the working core; Ignivale supplies the collapse from finding into execution; **Thaloré is the one most chapters neglect and the one the Ember Magistrates say separates an arbitrator from an executioner.**
+
 **Root glyphs** · `[Ur]` Balance · `[Sel]` Measure · `[Va]` Law · `[Hael]` Flame
+
 **Working set** · `[Krn]` Crown · `[IrW]` Will · `[Ar]` Accord · `[Edt]` Edict · `[Flm]` Judic Flame · `[Ed]` Edgetruth · `[Exile]` Exile
+
 **Arts** · Spirit Sealing, Spirit Rune, Spirit Summoning, Sage. The Glyphs of **Absolution, Veridiction and Judgement** are the order's three examined workings, **and no member advances past Measurewright without all three.**
+
 **Manifesti** · Judica, Dictum, Decretum, Censure, Mandatum. **Expunction** is held under the Verdiction Codex and has been lawfully invoked **four times in eleven centuries** — once in living memory, in the **Trial of the Echoless**, against its own.
 > **Mirror trials.** The accuser is read against the same reference as the accused, in the same session, in front of the same lamps.
 >
@@ -178,7 +199,9 @@ The order's standing interest in locating those pieces is **the largest non-publ
 ## Holdings
 
 The **Grand Church of Sancta Lux** stands in the Kingdom of **Altherion**, a multiracial republic with an Essence Resource Sharing Act and a Trade Equality Act **specifically drafted to prevent any single body from monopolising Wellspring access.**
+
 Seating an order of universal jurisdiction inside a republic constitutionally opposed to universal jurisdiction was Darius's decision, made in the fourth year of the rebuild, and it is the single most argued-over choice in the order's modern history. **His stated reasoning ran to one sentence: a court that cannot be evicted is not a court.**
+
 A permanent legation sits at the Concord Citadel, staffed at Arbiter grade, adjacent to the Archives Eternal **and pointedly not inside them.** Chapter holds operate in Eresse and in Foraye.
 > **The Hall of Equal Breath is in none of these places.**
 >
@@ -197,6 +220,7 @@ A permanent legation sits at the Concord Citadel, staffed at Arbiter grade, adja
 > Procedural discipline that **survives the death of any individual member**, which is the entire point of it.
 >
 > An instrument that does not drift, **which no rival body possesses and several have tried and failed to build.**
+>
 > **Where it breaks**
 >
 > **Its doctrine is legible, which means it is gameable.** Cozbi Mahuo's numbered works return **no reading at all** — the Oracle weighs completed acts against a standard, and a thing that has never acted and carries no closed clause **presents nothing to weigh.** The order has known about this seam for a decade and has no answer that does not require amending the reference.
@@ -211,6 +235,7 @@ A permanent legation sits at the Concord Citadel, staffed at Arbiter grade, adja
 ## Relations and Reputation
 
 Sancta Lux **holds no long-standing alliance outside Accord membership and has never sought one**, on the doctrinal ground that **an ally is a party you have agreed in advance not to weigh.**
+
 Its relationship with the secular Accord guilds is *procedurally correct and personally poisonous.* Free-magic cultures regard it as a zealot body, **which is unfair**, and as an unaccountable one, **which is not.** The elven kingdoms tolerate the Eresse hold on sufferance and audit it annually. **Vaelen Mourcrix** and Darius maintain a professional relationship best described as adversarial affection: *Vaelen weighs, Darius executes, and neither approves of the other's half of the work.*
 > **The Gravel of Judger**, in the mouths of the people it has ruled against. **The Hand That Casts Judgement**, in the mouths of the faithful, *who are numerous and who have almost all of the theology wrong.* Among the Ember Magistrates' circuit towns the order has a third name that appears in no filing and that its officers pretend not to have heard: **the Weighing Men.**
 >

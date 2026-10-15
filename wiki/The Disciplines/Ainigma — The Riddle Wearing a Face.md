@@ -41,7 +41,9 @@ A Gnosis-user who reads an Ainigma practitioner receives a complete, high-fideli
 ## Core Mechanism
 
 Quantum superposition applied to Crystal state architecture.
+
 In normal operation a Soul Crystal occupies a single definite state: one Stage, one dominant Family, one Crystal State, one set of harmonisations, one Typology. These are structural facts, and any instrument reading them receives a consistent singular answer.
+
 **Ainigma teaches the Crystal to occupy multiple definite states simultaneously.** The Crystal is genuinely configured in two or more valid states at once, the way a particle genuinely occupies two positions until measured.
 > **Observation does not collapse the superposition.** In physics, measurement forces a single state. In Ainigma, measurement returns one of the superposed states at random, and the next measurement — same observer, same distance, a fraction of a second later — returns a different one.
 >
@@ -62,8 +64,11 @@ In normal operation a Soul Crystal occupies a single definite state: one Stage, 
 ## What It Does to the Observer
 
 Ainigma is a weapon aimed at the opponent's **Gnosis architecture.** Not their body, Crystal, or stat interfaces — their capacity to process information about the practitioner.
+
 **Against Manteia-type perception** · Any discipline reading Essence signatures, Crystal states or harmonisations receives contradictory returns, and the bandwidth consumed is proportional to the observer's Gnosis Grade. A Psychomancer reading surface thought receives two or more distinct thought-streams, each internally coherent, none compatible. An Inertiomancer reading momentum receives multiple vectors, each physically valid, pointing in different directions.
+
 **Against Judicium-grade diagnostics** · Ainigma's most satisfying target. Judicium reads spectral lines the way a spectrometer reads composition. Ainigma presents emission lines from elements that should not coexist in one sample. **The diagnostic succeeds perfectly and produces no actionable intelligence.**
+
 **Against untrained perception** · The observer feels uneasy. The face is fine, the posture normal, the voice steady, and the observer's Crystal at baseline fidelity is receiving signals it cannot articulate. Not paralysis — **the deep-animal response to something that will not resolve into a category.** *They look away. They do not know why.*
 
 ---
@@ -81,8 +86,11 @@ Ainigma is a weapon aimed at the opponent's **Gnosis architecture.** Not their b
 ## Cost
 
 The Core's identity layer, designed to hold a single coherent self-model, sustains contradictory self-models in parallel. The Shell, designed to output one signature, outputs several. The Attraction Layer, which anchors bonds to a singular identity, anchors them to a superposition.
+
 **EU** · 5,000–15,000 EU/s depending on states maintained. **Two is baseline. Four is the practical maximum. Seven or more is documented and rare.**
+
 **Coherence strain** · Tempering Coherence degrades continuously under use. Each second tests whether the Crystal can hold contradictory configurations without one overwriting another. Failure produces state collapse and **3–8 seconds of readability** while the overlay re-establishes.
+
 **Cognitive load** · The practitioner must hold accurate self-knowledge of every state projected. *A practitioner who has never been Fractured cannot convincingly superpose a Fractured state.*
 
 ---
@@ -90,9 +98,13 @@ The Core's identity layer, designed to hold a single coherent self-model, sustai
 ## Counters
 
 **Physical combat** · Body-Path specialists, Iron Bison practitioners, Nadi users, and anyone whose doctrine does not depend on reading Crystal state ignore Ainigma entirely.
+
 **Sensory overload in the other direction** · Cinerion ash fields, Tenebra dampening, sustained area-denial that degrades perception. If the practitioner cannot monitor their own output, the Eidolyn constructs drift from their templates and become detectable as counterfeit.
+
 **Oblivara exhaustion** · A coordinated team of Gnosis-users reading simultaneously from different angles exhausts the correction buffer and forces collapse for a 3–8 second window.
+
 **Kenokinetic null fields** · Inside Talos or comparable, all superposed signatures cancel, **including the real one.** The practitioner registers as a void. *That is not a read. It is an absence — and the absence reveals that they are inside the radius, which is information.*
+
 **Self-knowledge gaps** · Against an opponent whose Crystal state library is broader than the practitioner's, the counterfeit becomes detectable — not by seeing through the superposition but by recognising that one state is structurally incomplete.
 
 ---
@@ -100,6 +112,7 @@ The Core's identity layer, designed to hold a single coherent self-model, sustai
 ## Corruption Vector
 
 Limina's terminal corruption is **Existential Erosion.** Ainigma's specific path is *identity fragmentation through accumulated superposition.*
+
 Every state projected is built from genuine self-knowledge, which means it is real enough to feel like a self. With sustained use the boundary between actual state and projected state blurs, and the Crystal begins to treat all of them as equally authoritative.
 > **Early symptom: hesitation.** The practitioner pauses before answering simple self-referential questions — not because they don't know but because multiple answers present themselves with equal conviction. *Am I tired? Three versions of the self report three different energy levels, and none of them are lying.*
 >
@@ -112,7 +125,9 @@ Every state projected is built from genuine self-knowledge, which means it is re
 ## The Solution Pairing
 
 Ainigma and **Solution** are natural adversaries, and the matchup is not symmetrical.
+
 Solution maximises capacity to process diagnostic information. Ainigma maximises the contradictory information that must be processed. Solution's strength becomes its vulnerability: **the synchronised architecture cannot classify data as unprocessable**, because its design assumption is that all data is processable given sufficient coherence.
+
 Parallel Cognition runs twelve Crystal state analyses and each returns a different valid result. Predictive Modelling forecasts the next action from Crystal state and receives twelve mutually exclusive predictions. Total Recall faithfully archives every contradictory reading at full fidelity, producing an eidetic record that resolves into nothing.
 > The Ainigma practitioner does not need to be the better fighter. **They need to survive until Solution's clock runs out**, because every second spent processing the paradox is a second not spent on the fight.
 

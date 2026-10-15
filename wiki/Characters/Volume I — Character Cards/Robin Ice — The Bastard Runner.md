@@ -11,14 +11,22 @@ verification: null
 # Robin Ice — The Bastard Runner
 
 **Say it** · ROB-in EYES
+
 *The Bastard Runner · The Man Between the Falling Places*
 > **As Of:** The column's arrival at the north gate of Kharven-Seat
+>
 > **Full Name:** Robin Ice (born Robin, Kōkan cadet adjacent, given Stark by blood, given Ice by law)
+>
 > **Age:** 29 · **Level:** 112 · **Stage:** II Kindle · **Band:** I
+>
 > **Role:** Runner, courier, intelligence carrier for the Kōkan expedition
+>
 > The world needed people who carried things between the places that were falling apart. Robin was the kind of man the world kept alive for that purpose.
+>
 > **Age:** 29 · **Level:** 112 · **Stage:** II Kindle · **Band:** I
+>
 > **Role:** Runner, courier, intelligence carrier for the Kōkan expedition
+>
 > The world needed people who carried things between the places that were falling apart. Robin was the kind of man the world kept alive for that purpose.
 
 ---
@@ -26,9 +34,13 @@ verification: null
 ## Description
 
 Tall and narrow through the shoulders, built for distance rather than impact. Dark auburn hair, cut close on the sides, longer on top where it falls forward and gets pushed back with the heel of his hand every few minutes. Nose broken at least twice, leftward deviation. A courier's coat, shorter than a soldier's, belted with a scarred leather strap holding three sealed message cases and a non-military knife.
+
 He is a bastard of the Kōkan cadet line through a minor house the Tenrai purge scattered. Does not carry the Moto name — the name was never conferred. The Kōkan metallic sheen is visible in his hair only in direct sunlight, faint enough to miss and persistent enough to confirm. He has been a runner since fourteen.
+
 His voice is Concord-flat, the accent of a man who has been everywhere and belonged nowhere, with the slight nasal quality runners develop from years of mouth-breathing during sustained movement.
+
 **The name:** Robin Ice. He calls himself Robin Stark. Zaehaerys calls him Robin Ice. The gap between the two names is the gap between what the blood says and what the law permits, and Robin has spent his life inside that gap, running.
+
 **His oath:** *"I, Robin, given the name Stark by a blood I was never permitted to carry and known as Ice by a law I was never permitted to contest, swear to commit myself to you both."*
 
 ---
@@ -40,15 +52,25 @@ His voice is Concord-flat, the accent of a man who has been everywhere and belon
 ### Voice
 
 **Notices first** · Which people in the room are angry, and which of them are angry at him. Then the doors, and which way the road runs out of the place.
+
 **Sentence length** · Short and clipped, the report stripped of verbs ("First two are positioning."). He runs long only when a rehearsed speech fails and the road comes out of him instead.
+
 **Contractions** · sometimes; freely on the road and in a report to his own side, not before a court.
+
 **Pet word** · "Confirm." He opens by saying how many things he carries, and marks each as confirmed or as a guess.
+
 **Never says** · What is in a sealed case. He never says he questioned the order on the path, and he has not called Lambert "my lord" since the fourth month. A number he has not confirmed is "maybe"; a number he carries is exact, and nothing else is.
+
 **Stumbles** · Only when the prepared words go. Then he loses his place, stops, and starts again in the order he was taught; routine reports come out clean.
+
 **Gloss rights** · Never. He carries the thing and leaves the explaining to whoever receives it.
+
 **Under stress** · The report shrinks to fragments in their order ("On the road. Standing."), and he counts the things he was sent with, afraid of losing one. The heel of his hand pushes the hair back off his forehead.
+
 **In grief** · One word, the runner's word from fourteen, flat as the Concord: "Aye." Then he turns the horse.
+
 **In joy** · The voice stays flat. It shows in the pace: he pushes the hair back, breathes easier, and rides harder.
+
 **Sample line** · "Three things. First two are positioning. Third one's the one that matters."
 
 ### Lore · The Life Behind the Card
@@ -58,26 +80,35 @@ His voice is Concord-flat, the accent of a man who has been everywhere and belon
 #### Origin
 
 Robin was born with two bloods in him and standing in neither house. One came down the Kōkan cadet line, through a minor house that the Tenrai purge scattered across the western territories. The other was Stark. His parents gave him no legitimate standing inside House Stark, and the Moto name was never conferred on him. The people who might have conferred it were dead before he was old enough to earn anything. He kept the blood. In direct sunlight his hair showed the Kōkan metallic sheen, faint enough to miss and persistent enough to confirm.
+
 The Stark side named him by its law. Zaehaerys Stark, Warden and head of the House, held that Ice was the northern name for a Stark bastard until the House itself decided otherwise. So the name on him was Robin Ice. He called himself Robin Stark. By the Warden's account nobody had the spine to correct him early enough.
+
 He began to run at fourteen. He carried messages for whoever paid and kept the contents to himself, because a message lasted exactly as long as its messenger kept his mouth shut. His nose was broken the first time at a way-station, by a man who wanted a sealed case opened. Robin did not open it. It set crooked to the left and was broken again later.
 
 #### The Making
 
 He ran through the years when the Tenrai took the Moto houses apart. The corridors he used closed behind him. He carried intelligence between the pieces of a bloodline that was being dismantled, and he lived through it because runners live. Some of those roads ran through country where Droval hunted. His voice went Concord-flat, with the nasal edge runners get from breathing through the mouth at a long pace.
+
 By the time the Kōkan expedition's ship pressed north off the polar shelf, he was its runner. He came to Sodoku Moto at the port rail, stopped at his left, and waited for the gap between one wave and the next. "Three things," he said. The Hollow Coast garrisons had pulled back to their winter lines two weeks early. The corridor between Stannvaard and the northern ports was running at half capacity under new tariffs. The third was the one that mattered. At least four minority houses had consolidated behind a single leader, and they were calling her the Warrior Princess. Robin tapped the case at his belt twice. The source document was still where he had put it.
+
 At the rift's edge on the ice sheet, Robin was the first to swear before Sodoku and his brother Sonzai. He stopped three paces from them, the northern distance for an oath. He did not kneel. "I was given the surname Stark," he said. "But I am known as Ice." Then he swore: "I, Robin, given the name Stark by a blood I was never permitted to carry and known as Ice by a law I was never permitted to contest, swear to commit myself to you both." He pressed his right fist to his left breast for three heartbeats and stepped back.
 
 #### The Cost
 
 Zaehaerys called his use of Stark a presumption, a man reaching for the name "as though legitimacy were something a man awards himself." Robin put both names into his oath anyway.
+
 Sodoku sent him south to the Holy Sea of Alabaster on a fast horse. He rode without escort, with a sealed pouch to burn if anyone wearing anything at all stopped him. The southern road was out past the fourth ford. The ride took thirteen days, and he rehearsed his speech aloud in the dark at four way-stations. Before Verinus VII he gave it word for word, and it weighed nothing. "You rode thirteen days," the Palatine said. "What did you see." The speech was gone. Robin told him of the death-house at Coldbeck with forty in it, unburied until Ice-out. He told him of a woman who gave him half a rind on his sixth night, with four children in the room behind her. "Her name is Ada Foss," he said. "I asked." Something went through the boards under his boots. "Entered at weight," said Verinus.
+
 On the day of the ninth hour he rode through the narrows of the Ashgate road, where nobody had sent him. There was blood on his left ear that was not his. He gave his report in its order. The southern reach was standing, and he had seen Bram Greymane on foot in the breach. Lord Osric had the princess and the lady below the cistern, with the gatehouse shut. Lambert had gone out the postern. He was sent back with word for Osric that the road was closed. He wanted to say come with me, and did not, and went the long way round the ditch without being told twice. At the ninth hour Hild Ice died in the cistern doorway with Osric.
+
 On the morning of the first frost he rode a hundred and eleven miles in eleven hours to the upper burying ground at Kharven-Seat. Edward Lambert stood before three stones: Hild Ice, Lorn Stark, Osric of Hallenfeld. "Edward," Robin said. He had dropped my lord in the fourth month and had never been corrected. He reported the Goblin Senate hanged and the Hobgoblins asking to speak of peace offerings. Lambert turned round. "Kill all of the hostages." There were four hundred and six, surety for a truce under Lambert's own seal, and eleven of them were children under twelve. Robin stood on the path for what he later put at four seconds. Then he said "Aye," and turned his horse, and rode, and did it. Brida Ashwell watched him go down the path.
 
 #### Where They Stand
 
 He does not discuss the path. He has never said in any hall that he questioned the order. Two people have asked him in private. He told both that he did not, and both believe him, because a runner who begins weighing the traffic stops being one. He once told a woman in a tavern in the Cooper's quarter that the face Lambert turned on him that morning had nothing in it at all. She did not believe him.
+
 When the wire reached Ashwell, Robin understood inside a week that his trade had been killed. The wire did in a quarter of an hour what he did in eleven hours, and it did it while he slept. In the second year he asked Lambert for a place on the line. Lambert refused him. Anyone with a hand on the wire had what was on it, and some of what the government had to say could not go there. "You will carry those."
+
 He has held that office four years. It has no name in any establishment list. He is paid out of the Seat's household account as a courier, and he is the only courier in the northern empire who is never given a written thing to carry. What he found out about himself on that path, neither he nor Lambert has said aloud. By law he is Robin Ice until House Stark decides otherwise. He calls himself Robin Stark.
 
 #### Ties

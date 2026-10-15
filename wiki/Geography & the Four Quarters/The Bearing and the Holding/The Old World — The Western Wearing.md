@@ -11,6 +11,7 @@ verification: "unverified"
 # The Old World — The Western Wearing
 
 **Say it** · the OHLD WURLD
+
 *The Western Wearing*
 > **The root of a mountain belt that no longer exists.** The most geologically generous ground in the four quarters, and the most thoroughly emptied.
 
@@ -19,7 +20,9 @@ verification: "unverified"
 ## Formation
 
 Two continental masses collided, threw up a range on the scale of anything now standing, and then spent an unimaginable stretch of time being worn back down to the stumps. What is left at the surface is **the deep interior of that range brought up into daylight**: slate belts and mica schist folded like cloth, with granite bodies intruded up into them from below.
+
 Those granite bodies are the point. As each one cooled it sweated out a hot mineralising fluid into the cracks in its own roof, and that fluid deposited **tin and tungsten** in sheeted veins around the granite cupolas. Further out, cooler, the same fluids left **lead and silver** in the limestone. Along the seaward foreland, in the basins that formed while the range was still rising, plant matter accumulated and became **coal**. Along the coastal plain, buried salt has risen through the overburden in domes, dragging up sulphur and oil-shale with it.
+
 It has been worked continuously for longer than any current kingdom has existed.
 
 ---
@@ -27,6 +30,7 @@ It has been worked continuously for longer than any current kingdom has existed.
 ## The Ground Itself
 
 Worked country. Terraced hillsides, coppiced woodland cut on rotation for eleven hundred years, hedgerows on field boundaries older than the treaties that name them. Spoil heaps stand at the head of every valley, **grassed over on the outside and still poisonous within.** In the tin districts the ground subsides without warning over workings nobody recorded, and in the coal foreland it subsides on a schedule everyone has learned to plan around.
+
 The rivers run orange below the old adits and have done for generations. Nothing lives in them above the tidal reach. The harbours silt, because eleven centuries of mining spoil has to go somewhere and it goes downstream.
 > Ambient Wellspring saturation is low to moderate and **locally depleted around the old districts**, which is the western quarter's defining industrial problem and the reason its arrays are so expensive to run.
 
@@ -35,6 +39,7 @@ The rivers run orange below the old adits and have done for generations. Nothing
 ## Bearing Stock
 
 **Forge-Iron** · *T2 · Metal · Altherion — Inner World, northern rim (ruled 2026-09-12)*
+
 The standard armament and structural iron of the western kingdoms. Durable against blades, poor Essence retention, made in quantity and to a specification that has not meaningfully changed in three hundred years. Bearing good, Holding poor.
 > **Slagbloom** · *T2 · Metal · Recovered from ancient spoil, western foreland and tin districts*
 >
@@ -44,10 +49,15 @@ The standard armament and structural iron of the western kingdoms. Durable again
 >
 > Bearing moderate and inconsistent, Holding erratic. Resonance: Anamnesis, unwelcome. Family Materia, Domain Material Science.
 **Palegrit Limestone** · *T2 · Stone · Platform carbonate across the central west*
+
 Ashlar for building, lime for mortar, and flux for every iron furnace in the quarter. Three uses, one quarry, and the reason the western kingdoms build in pale stone while the north builds in grey. Karst country: the same rock dissolves, which gives the west its cave systems, its sinkholes, and its habit of losing rivers underground for leagues at a time. Bearing good, Holding poor.
+
 **Veinwood Plank** · *T2 · Wood · Mountain trees of Varūn*
+
 Semi-hardened grain, briefly enchantable, standard stock for ritual shields.
+
 **Kirkyard Lead** · *T2 · Metal · Galena in the limestone belt, worked with the silver*
+
 Roofing, coffin lining, pipe, shot. Industrially it matters for one reason: **lead sheet attenuates Essence more effectively per unit thickness than anything else in common supply**, so every assay house and every array isolation room in the west is lead-lined. *The men who smelt it do not last.* Bearing soft, Holding nil, shielding excellent.
 
 ---
@@ -60,12 +70,19 @@ Roofing, coffin lining, pipe, shot. Industrially it matters for one reason: **le
 >
 > It has no glamour, no legend, and **no substitute**, and the Accord tracks every ton of it. Bearing extreme under heat, Holding low. Resonance: Ignivale, Exuroth. Family Caloria, Domain Thermodynamics.
 **Greaves Tin** · *T2 · Metal · Cassiterite, lode and stream-work, western tin districts*
+
 Bronze, solder, and the tinning of array contacts. Contact corrosion in a working glyph array is a slow, invisible, cumulative failure, and a tinned contact does not corrode. **Unglamorous, essential, and running out.** The stream works were exhausted six generations ago and the lodes are now worked at depths that only exist because of the pumps. Bearing moderate, Holding moderate. Resonance: Coagulatio. Family Materia, Domain Material Science.
+
 **Attercrop Vitriol** · *T2 · Liquid reagent · Drainage of abandoned workings, universal in the west*
+
 Green vitriol, drawn off where pyrite in old spoil weathers into acid water. It is the poison in the orange rivers and it is also, refined, the mordant that fixes ritual ink to any organic substrate. **The same fluid that killed the Aerne valley writes the Accord's own codices.** Western alchemists have stopped remarking on this. Resonance: Dissolution. Family Materia, Domain Material Science. Blinds on contact with the eye and does so without warning, since it does not burn on the skin at working dilution.
+
 **Psionite** · *T4 · Mineral · Varūn deep workings*
+
 Mental fortification stock, worked only by psionically attuned Varūn dwarves under the Psionic Mastery Code. Effectively unavailable outside the kingdom.
+
 **Vellun Copper** · *T1 · Metal · Source hills unlocated*
+
 Malleable, a good spiritual conductor, and melts far too easily to be useful past apprentice work. **The trade name is retained because the shipments are continuous and the assay is consistent. The hills it is named for do not appear on any survey the Accord has commissioned.**
 
 ---
@@ -73,7 +90,9 @@ Malleable, a good spiritual conductor, and melts far too easily to be useful pas
 ## The Works
 
 Deep, mature, capital-heavy, and **running on borrowed ground.** Western shafts are the deepest in the world and every one of them is a standing bill: the pumps must run whether the mine is producing or not, and the pumps run on Essence the quarter no longer generates in sufficient quantity locally. The great western houses buy Essence supply the way an army buys grain, and a bad year in supply closes shafts that are still full of ore.
+
 The compensating advantage is that **everything else exists.** Roads, canals, winding houses, assay offices, guild schools, insurance, and eleven centuries of accumulated practice about how to keep men alive underground. A western pit does more work per man than any pit in the other three quarters and it does it in a hole that should have drowned a hundred years ago.
+
 Reworking is the growth industry. Slag heaps, old tailings, flooded levels pumped out and picked over. *There is a whole class of western operator who has never sunk an original shaft and never intends to.*
 
 ---
@@ -101,4 +120,5 @@ Exports finished goods, worked metal, wolfram, tin, expertise, and credit. Impor
 > **Three.** Two scales, one name — the quarter and the continent are different objects that happen to collide in the word. Untenable as written; would need one of the two renamed regardless.
 >
 > *The read here: option two. The Kushara material is internally coherent, has eight houses, a named sovereign and twelve regions built out to wildlife level, and does not want to be a quarter of anything. The four-quarter ledger is load-bearing for the Inner World and the whole materials system. Cheaper to move the continent than the ledger.*
+>
 > **Ruled 2026-09-12.** Kushara — the continental orientation, the Twelve Great Regions, the city of Kushara, its mountain systems, and the Eight Great Houses — has been split out to its own page: [[Geography & the Four Quarters/The Bearing and the Holding/Kushara — The Land That Remembers Weight]]. This page keeps only the actual Old World quarter above — Formation, The Ground Itself, Bearing Stock, Holding Stock, The Works, What It Costs, Trade Posture — Varūn. *Eresse and Iampu are not Old World polities either: ruled 2026-09-12, they and every elven branch — Rovann, the Sylvaar Dream Groves and the Echo Elves' Longhouse Accord with them — sit in the New World's elven old-ground, beside the arc the Accord chartered. Ironwood and Glacium go with them; both are now entered on the New World page.* *Altherion is not an Old World polity: ruled 2026-09-12, it sits on the Inner World's northern rim, under Stannvaard.* See also [[Factions, Bloodlines & Institutions/Houses and Bloodlines/The Eight Great Houses of Kushara]] for the Sovereign House and Seven Pillars in full.

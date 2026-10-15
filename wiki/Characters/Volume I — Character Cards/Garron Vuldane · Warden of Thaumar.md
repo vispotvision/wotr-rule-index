@@ -20,7 +20,9 @@ verification: null
 ### I · Identity
 
 **Name** · Garron Vuldane. **Called** · The Iron Warden, Warden of Thaumar.
+
 **Role** · **Master Alchemist. Siegewright. Thaumaturgic Warden of the Grand Forges.**
+
 A broad, mountain-born figure in layered scaleplate, his iron-gray mane blending into a metallic fur of living Aethersteel that answers his pulse. His transmutation cannon is engraved with runes that shift color as he channels Essence through it.
 
 #### Affiliation
@@ -35,8 +37,11 @@ Guild Accord, **the Alchemists' Society**, chartered under the Research and Arch
 ### II · Soul Architecture
 
 **Aether Shell** · **Class III · Resonant.** Essence and Aether exchange freely; the cannon's every discharge translates at near-full fidelity.
+
 **Attraction Layer** · A triple-core furnace architecture, Heart, Spine and Gauntlet nodes, feeding Harn and Vyr directly.
+
 **Crystal State** · Refined, forge-bound. **η** · 0.86. **Tier of Standing 6, Master.**
+
 **Flux Density** · 13.5 million EU/g. **Gate Count** · 9 active, 1 dormant. **Aether Output** · 11,610,000 AU/s.
 
 ---
@@ -44,7 +49,9 @@ Guild Accord, **the Alchemists' Society**, chartered under the Research and Arch
 ### III · Wellspring Harmonizations
 
 **Transmutatio** · Spatium, Spatial Geometry. Change, craft, fusion, sourced primary.
+
 **Materia Primordia** · Materia, Material Science. Creation, substance, foundation, the raw feedstock every Forge Synthesis draws on.
+
 **Coagula** · Materia, Material Science. Binding, the fusion of forces that lets Harn and Vyr become one Forge Chimera.
 
 ---
@@ -79,8 +86,11 @@ Guild Accord, **the Alchemists' Society**, chartered under the Research and Arch
 ### VI · Traits
 
 **Forge Resonance** · His heartbeat alters the frequency of nearby metals, making them malleable to his will.
+
 **Metallic Regeneration** · Rebuilds armor or prosthetics through Essence circulation.
+
 **Catalytic Strike** · Each impact from his weapon triggers a micro-transmutation field, shifting the local matter composition.
+
 **Beast-Binding Armor** · His pauldrons house two semi-sentient constructs, Harn and Vyr, that act as shield and companion, both fed by his Forge Wellspring.
 
 ---
@@ -88,7 +98,9 @@ Guild Accord, **the Alchemists' Society**, chartered under the Research and Arch
 ### VII · Artifacts
 
 **The Basilisk Cannon, Molthra** · *Thaumaturgic siege weapon.* Fires compressed transmutive plasma, recoil compensated by Essence-dampening coils.
+
 **Wardbeast Armor** · Animated Aethersteel plating shaped like a chimera, absorbing kinetic force and converting it into alchemical heat for counterstrikes.
+
 **Forge Chain Mantle** · A cloak of living steel filaments that self-weaves into tools or restraints on command.
 
 ---
@@ -98,8 +110,11 @@ Guild Accord, **the Alchemists' Society**, chartered under the Research and Arch
 #### Bound Synthesis
 
 **Effect** · Fuses his two bound constructs, Harn and Vyr, into a single combat form, the Forge Chimera, amplifying his output for one minute.
+
 **Cost** · The fusion draws directly on his portable Forge-Wellspring; sustained past the minute it calcifies his veins and risks Core Backfire.
+
 **Limit** · Both constructs must be within his Aura and undamaged to the point of severed connection. If either is disabled first, the fusion cannot be called.
+
 **Counter** · Separate him from one construct before the fusion is called, or simply outlast the fixed one-minute window. The Forge Chimera reverts on the clock, not on his will.
 > **What nobody knows.** Whether Harn and Vyr have a will of their own inside the fused form, or whether it is entirely his.
 
@@ -108,7 +123,9 @@ Guild Accord, **the Alchemists' Society**, chartered under the Research and Arch
 ### IX · Relationships
 
 **Harn and Vyr** · His two semi-sentient constructs, raised as companions before they became weapons.
+
 **The Titans** · He believes they left behind tools rather than gods, and he means to reforge them; no specific Titan is named.
+
 **His lost left arm** · Taken by a Forge collapse and rebuilt from dragonbone and Aethersteel.
 
 ---
@@ -127,27 +144,37 @@ No chapter appearances are recorded on the source card; it carries the sheet onl
 #### Origin
 
 Garron Vuldane was born in Thane-Gorr, in the inner wall of the Ring, where the forge levels follow the ore seams down through the crater toward the melt sheet. The crater cities called the Ring the mountain. He was mountain-born by their reckoning.
+
 His father tended the forge-arrays on one of the lower levels. The furnaces of Thane-Gorr were Wellspring-heated and burned continuously, and a tender stood beside each of them on every shift. Before the boy was grown, his father's hands had the tender's shake. It did not leave. The guild kept the household under the Tender's Obligation from then on.
+
 Garron carried water and slag on the array floors as a boy, and he learned the furnaces by the glow they threw up the shafts. He watched the tenders' hands. He could tell which of them had begun to go.
 
 #### The Making
 
 The Alchemists' Society took him off the array floors. He learned transmutation under its charter, first at the forge and then on siege work, until crafting and fighting were one trade in his hands. He built the Basilisk Cannon, Molthra, for the siege lines. The Accord ranked him Master and Warden of Duty. The Society made him Thaumaturgic Warden of the Grand Forges at Stannvaard, with wardens under him. At the Grand Forges he took a tender off the arrays at the first tremor in the hands.
+
 Two constructs, Harn and Vyr, rode in his pauldrons. He raised them as companions. They became weapons later, shield and companion both, fed from his forge.
+
 The Titanwrights brought Mavra Cindrel's armour and weapon to a test forge of the Grand Forges in the Upper Ring, for field tests on live Wellspring heat. The tests ran under his wardenship. Mavra ran her soul through the pieces test after test, and her mentor stood each test with her. On the last of them the forge collapsed. Garron went in under it. Harn and Vyr took the fall on their plating, and he held the roof off the test floor while the crew got out. Mavra came out. Her mentor did not. The collapse took Garron's left arm.
+
 He did not have the arm made inside the Ring. He went out to Orokh Sable-Forge's cave mouth on the outer face, above the Rimlands, where the wind was cold. The Wyrmwright worked no fresh kill, and the rib he laid on the Ash-Anvil came from a dragon long dead. His price was material and story. Garron brought Aethersteel for the material, and for the story he told the collapse. Orokh tapped along the rib until the marrow remembered flight, and drew it into the core of an arm. Garron laid the Aethersteel over it himself at Stannvaard.
+
 By then the forge was inside him. He carried a portable Forge-Wellspring in his own body, and it had become his co-author. Harn and Vyr, the two constructs he had raised, were what that arrangement looked like when it began producing more than one voice.
 
 #### The Cost
 
 The crew came out from under him. Mavra's mentor died on a test floor he was warden of, and the Runeglass pendant came out broken. Garron told the collapse once, at Orokh's anvil, as the price of an arm. It went into the dragonbone and into no file.
+
 The forge he carried had no tender but himself, and half his frame had turned to furnace. His iron-gray mane ran into a fur of living Aethersteel that answered his pulse. When he fused Harn and Vyr into the Forge Chimera, the fusion drew straight on the forge inside him, and held too long it would calcify his veins. The Chimera came apart on the clock, whatever he willed. If either construct was cut off from him first, he could not call it at all.
+
 He said it plainly: "The forge never stops burning. Only the weak forget that every spark is a choice."
 
 #### Where They Stand
 
 Garron Vuldane is Master Alchemist and Siegewright of the Alchemists' Society, chartered under the Research and Archives Division, and Thaumaturgic Warden of the Grand Forges, seated at Stannvaard. He is called the Iron Warden, and the Warden of Thaumar. He goes in layered scaleplate with Molthra in his hands, and its runes shift colour as he channels Essence through it. Harn and Vyr ride in his pauldrons. Metal near him softens in time with his heartbeat. When the plate of his arm is scored, the Essence running through him closes it again.
+
 Mavra Cindrel still reinforces frontline Constructs for the Titanwrights. She wears the broken pendant. Serai Linthra holds her Society charter in the same words as his.
+
 He holds that the Titans left tools behind them, and he means to reforge them. He has named no Titan. Whether Harn and Vyr keep a will of their own inside the Forge Chimera, or whether the fused form is all his, nobody knows.
 
 #### Ties

@@ -18,7 +18,9 @@ verification: "unverified"
 
 > *"All ends burn brighter when understood."*
 **Seat**  Prime Pyrotheic Titan of the Abyssal Depths, Theros. Born when Gaia's mantle cracked under the first stress of mortal sin.
+
 **Domain**  Fire, Destruction, Transmutation, Enlightenment through Pain
+
 **Ground**  The Wellspring of Finality, called the Pyric Heart. A burning sphere of liquid Aether that refines unworthy soul fragments into pure Essence vapour.
 
 ### Manifestation
@@ -40,13 +42,21 @@ Thalen, Form. Defines flame's physical law. Iesara, Insight. Ensures fire reveal
 ### The Titan-Keyed Art — *The Pyric Refinement*
 
 *Supplementary · Caloria · Exuroth · Thermodynamics · Zenith+ · [Ra] Flame + [Asa] Creation*
+
 **Trigger**  The caster must name, honestly, one thing about the target fragment or artefact that is false or unworthy. A guess does not open the working.
+
 **Effect**  Burns away everything false or unworthy in a soul fragment or artefact and refines what survives into pure usable Essence vapour. What remains afterward is measurably more stable and more honest by every Harmonics Fidelity metric the Accord maintains.
+
 **Measure**  Refinement removes roughly the bottom twenty to forty percent of a fragment's Essence-purity, proportional to how much falsity the caster correctly identified.
+
 **Cost**  The process cannot separate sentiment from falsehood with full precision. Genuinely valued memories attached to the false part burn away with it, and there is no way to know in advance which ones were attached.
+
 **Limit**  It refines what exists. It adds nothing, and a fragment with nothing false in it comes out of the fire exactly as it went in.
+
 **Counter**  [Vael] Renewal reintroduces new growth mid-burn, diluting the purity threshold and letting false material survive alongside true. The result is an artefact that now reads clean and is not.
+
 **What nobody knows**  Why the flame reads a deliberate forgery as false and a sincere error as true. The Pyric Scribes have branded four centuries of argument about this onto their own skin and settled nothing.
+
 *Codex: [Ra] Flame + [Asa] Creation / Exuroth / Caloria / Thermodynamics / Zenith+ / Titan-Keyed. Method, Grade, Range and Medium open.*
 
 ---
@@ -55,7 +65,9 @@ Thalen, Form. Defines flame's physical law. Iesara, Insight. Ensures fire reveal
 
 > *"The stars are his eyes, and each one closed is a mercy."*
 **Seat**  Prime Noxulic Titan of the Abyssal Depths, Abythron. Born during the collapse of the Second Epoch's outer strata as the counterbalance to infinite expansion.
+
 **Domain**  Void, Cosmic Dread, Silence, Non-Existence, Reflection through Terror
+
 **Ground**  The Wellspring of Dread, called Null Essence. Inverted. It absorbs where every other Wellspring radiates, and appears as a sphere of absolute black ringed by dissolving starlight.
 
 ### Manifestation
@@ -79,12 +91,19 @@ Iesara, Insight. He strips illusion to the absolute. Maelor, Memory. He erases m
 *Defensive · Limina · Nihiloth · Abstract/Entropic Systems · Revelation+ · [Thru] Hollow + [Au] Death*
 > One of only two Titan-Keyed workings gated above Zenith. **Stage XV, Revelation.**
 **Trigger**  A region already showing measurable Essence overcharge. Visible saturation, unstable ambient resonance. The working has no purchase on a stable field.
+
 **Effect**  Cleanses a region of overaccumulated Essence by absorbing it into inverted null-space, the way Zar'thuun's own Wellspring holds absence in shape. The overcharged region returns to stable baseline density almost immediately and stays there.
+
 **Measure**  Absorption capacity scales with the null-field's radius, typically clearing a ten to fifteen metre overcharge zone per casting.
+
 **Cost**  Prolonged proximity erases small low-significance memories from everyone nearby along with the excess Essence. The mercy and the erasure are the same process running once, and there is no setting that performs only the first.
+
 **Limit**  It absorbs. It cannot target, and everything within the radius is cleansed whether or not it needed cleansing.
+
 **Counter**  [El] Life reintroduces active Essence generation into the field faster than the sink can absorb it, overwhelming the null-field's capacity and collapsing it inward.
+
 **What nobody knows**  Why no one has ever noticed which memory they lost. Four thousand years of casting and not one recorded instance of a survivor identifying the gap.
+
 *Codex: [Thru] Hollow + [Au] Death / Nihiloth / Limina / Abstract-Entropic Systems / Revelation+ / Titan-Keyed. Method, Grade, Range and Medium open.*
 
 ---
@@ -93,7 +112,9 @@ Iesara, Insight. He strips illusion to the absolute. Maelor, Memory. He erases m
 
 > *"Where all warmth forgets its name."*
 **Seat**  Prime Cryotheic Titan of the Abyssal Depths, Niflheim. Formed from the first condensation of cosmic vapour as creation's heat began to fade.
+
 **Domain**  Oblivion, Frost, Stasis, Memory Erosion, Eternal Sleep
+
 **Ground**  The Wellspring of Oblivion, called the Stillwater Core. A frozen motionless ocean of Aether that neither emits nor absorbs and simply holds absence in shape.
 
 ### Manifestation
@@ -117,10 +138,17 @@ Maelor, Memory. He softens remembrance into myth, easing suffering through erasu
 *Defensive · Caloria · Vohrin · Thermodynamics · Revelation+ · [Vor] Return + [Cro] Cycle*
 > The second of the two workings gated above Zenith. **Stage XV, Revelation.** Nobody in the Accord's living register holds both this and *The Closing Eye*.
 **Trigger**  The target must already be in genuine crisis. Dying, catastrophically wounded, or cursed past normal stabilisation. It will not take on a target who could still be saved by ordinary means.
+
 **Effect**  Holds a target's Essence motionless in perfectly reflective stasis, neither emitting nor absorbing, until the caster chooses to release it. The target neither worsens nor improves, frozen at the exact instant of the casting, and time outside the field goes on without them.
+
 **Measure**  Stasis holds indefinitely with no measurable degradation, unlike ordinary preservation methods, which fail slowly and predictably.
+
 **Cost**  Held too long, the target begins to forget their own purpose for living, per Vohrin's law. Stasis without an end curdles into a different kind of ending, and the working gives no warning of when that threshold was crossed.
+
 **Limit**  It suspends. It heals nothing, and whatever was killing the target is still killing them the moment the field drops.
+
 **Counter**  [Ra] Flame reintroduces active thermal and emotional flux into the field, breaking the zero-flux condition and forcing the target back into normal time. Which is frequently catastrophic and occasionally the only mercy available.
+
 **What nobody knows**  Why the held forget purpose before they forget pain. Every other kind of erasure in the register runs the other way round.
+
 *Codex: [Vor] Return + [Cro] Cycle / Vohrin / Caloria / Thermodynamics / Revelation+ / Titan-Keyed. Method, Grade, Range and Medium open.*

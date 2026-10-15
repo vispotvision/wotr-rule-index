@@ -12,6 +12,7 @@ verification: "unverified"
 
 **Say it** · the FOR KWOR-terz
 > Borders move. **Bedrock does not.** A shaft sunk on the northern shield behaves the same whichever charter is over the headframe, and a shaft sunk in the eastern ash will kill your men the same way regardless of which flag is over it.
+>
 > *Any surveyor who reads this ledger politically has read it wrong.*
 
 ---
@@ -40,13 +41,16 @@ A material has two independent worths, and the persistent error of the trade is 
 > **The Bearing** is what the material does under load. Compression, tension, shear, thermal cycling, abrasion.
 >
 > Measured on the press, in the ordinary way, and it has **nothing whatsoever to do with Essence.**
+>
 > **The Holding** is what the material does under Essence. How much it retains, how long, how cleanly it releases, and whether an inscription laid into it stays legible to the Continuum over years rather than weeks.
 >
 > Measured on the coil.
 **The two do not track each other.** Forge-Iron out of Altherion bears magnificently and holds almost nothing, which is exactly why it arms the line infantry of six kingdoms and appears in no ward-network anywhere. Gloomhide is spiritually inert and physically superb. Mireclay holds a summoning totem for one night and cannot be trusted to hold a roof for one hour.
 > A material that scores high on both is not called good. **It is called strategic**, and the Accord keeps a register of who owns the seams.
 Trade speech has drifted into shorthand. **Bearing-grade** means a material bought for its physical work: foundations, hulls, gun-carriages, rail. **Holding-grade** means a material bought for its Essence work: substrate stock, conduit, gasket, lens, inscription medium. *A Measurewright will not sell you a single stone until you tell him which of the two you came for.*
+
 Two further readings appear where the assay houses have agreed them. **Resonance**, the Wellspring or Wellsprings a substrate is naturally sympathetic to — basalt takes Coagula and Fixatio, quartz amplifies Fractura and Luminalis, iron conducts Manganthra and Aurevane, gold carries Benediction and Sublimatio, obsidian holds Tenebra and Oblivara. *An Engraver who fights his substrate pays for it in the lifespan of the inscription.* And **Family and Domain**, recorded so that a Caloria-family refractory is not ordered for a Fulguria-family duty by a clerk who never went underground.
+
 The tier notation used throughout, **T0 through T9**, is the standing Accord materials scale.
 
 ---

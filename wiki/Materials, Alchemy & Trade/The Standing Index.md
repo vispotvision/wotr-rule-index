@@ -35,23 +35,35 @@ Every row carries three readings: **Provenance Class**, **Fidelity**, and **Carr
 > **FIDELITY** — how close the lot is to the reference figure.
 >
 > **A** Reference-indistinguishable · the coil cannot tell it from the Index reference.
+>
 > **B** Sound · what a competent chartered house ships.
+>
 > **C** Serviceable · works, but not the same way twice.
+>
 > **D** Loose · executes the process and something adjacent to it.
+>
 > **E** Poor · law-fragment risk. Unlawful to sell to an uncertified buyer.
+>
 > **F** Failed · **not a product. A hazard with a label on it**
+>
 > **CARRY** — how much of the origin came with it.
 >
 > **0–10** Clean · no usable origin character. *Obedient and forgettable.*
+>
 > **11–40** Light · the origin leans on the working without governing it.
+>
 > **41–70** Marked · the origin is a design consideration.
+>
 > **71–90** Heavy · **the origin governs. The working does what it was told and what the source was.**
+>
 > **91+** Sovereign-carry · attested four times. **The working is the source, wearing a formula**
 
 ### The three lawful sources of Class IV
 
 *Named here because the Index has cited the number twice and the sources nowhere, and clerks have been pricing against a phrase.*
+
 **I · Consented render.** A practitioner who willed the body to a house, executed after death under witness, with the instrument signed while the signer was competent. **The only clean source and by volume the smallest.** *Houses solicit these openly and the solicitation is considered distasteful by everyone including the houses.*
+
 **II · Judicial render.** The bodies of the executed, where the sentence carried forfeiture of the Crystal. Lawful in every quarter, and the largest of the three.
 > **The forfeiture clause exists in the criminal law of every quarter and predates the trade that uses it.** What has moved is not the law. **It is the sentencing.**
 >
@@ -61,6 +73,7 @@ Every row carries three readings: **Provenance Class**, **Fidelity**, and **Carr
 ### The shortfall
 
 **Class IV in circulation has never matched what the three lawful sources can produce**, and the Index has carried the discrepancy without explaining it since the Bench began keeping returns.
+
 The explanation is not complicated. **Extraction produces Class IV as a by-product and engine work produces it at volume.** An operator drawing off a donor is not rendering deliberately, but the residue accumulates and it is indistinguishable on the coil from lawful stock, **because the process that produced it was the same process performed without a warrant.**
 > *So there is no fourth Provenance Class for it. Unlawful Crystal Draw is graded Class IV, sold as Class IV, and priced as Class IV, and the only thing separating it from the lawful article is a chain of paper that terminates in a factor three towns away.*
 **The assay that would catch it exists.** Coilwright's Reading Oil and Nine-Nail Attestation Salt between them make the two-instrument comparison possible: the coil reads a Holding figure, the gauge reads a density, and on unlawful stock the two will not reconcile. **The discrepancy is the size of what was taken.**

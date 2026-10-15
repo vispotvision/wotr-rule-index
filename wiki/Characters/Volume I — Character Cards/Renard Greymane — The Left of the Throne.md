@@ -11,16 +11,26 @@ verification: null
 # Renard Greymane — The Left of the Throne
 
 **Say it** · REN-ard GRAY-mayn
+
 *Bram's Cousin · The Left of the Throne · The Ridge's Guard*
 > **As Of:** The muster at Kharven-Seat, the morning of the ninth hour
+>
 > **Full Name:** Renard Greymane
+>
 > **Age:** 26 · **House:** Greymane (Stormfold)
+>
 > **Level:** 198 · **Stage:** IV Temper · **Band:** II
+>
 > **Role:** Personal guard to Hild Ice, stationed at the left of the broken throne
+>
 > The Greymane function: be the thing between the throne and the threat.
+>
 > **Age:** 26 · **House:** Greymane (Stormfold)
+>
 > **Level:** 198 · **Stage:** IV Temper · **Band:** II
+>
 > **Role:** Personal guard to Hild Ice, stationed at the left of the broken throne
+>
 > The Greymane function: be the thing between the throne and the threat.
 
 ---
@@ -28,7 +38,9 @@ verification: null
 ## Description
 
 Tall, broad through the shoulders in the Greymane manner. Godfrey's grand-nephew, carrying the family's architectural build — the body designed for holding ground, the frame that settles into position the way a wall settles into its foundation. His face is harder than Bram's, more angular, the specific sharpness of a man who has spent his youth in the field rather than on the ridge, mobile warfare rather than static defense.
+
 His hand rests on his sword hilt with the casual readiness that is not casual but structural. The hand's position is the statement: the ridge does not move, and I am the ridge's cousin, and the cousin does not move either.
+
 Renard chose Hild over the Tenrai because Godfrey chose Muken, and Godfrey's choice was the family's choice, and the family's choice outlasted Godfrey, and the outlasting was the inheritance. When Wren defected, Renard did not hesitate. The not-hesitating was the Greymane function operating at full clarity: there is the throne, and there is the thing threatening the throne, and I stand between the two, and the standing is the only verb the Greymane vocabulary contains.
 
 ---
@@ -44,23 +56,29 @@ Renard chose Hild over the Tenrai because Godfrey chose Muken, and Godfrey's cho
 #### Origin
 
 Renard Greymane was born to House Greymane of the Stormfold, whose words are The Ridge Does Not Move. Godfrey Greymane was his great-uncle. Godfrey's grandsons, Bram and Wren, were his cousins. The house raised its children as parts of a wall, and Renard grew into its build, tall and broad through the shoulders. His grandmother waxed the cord on his sword grip. The blade was ridge-forged.
+
 When Muken's kingdom fell, Godfrey kept the Ridgewall for three years with no crown left to reward him for it. His grandsons learned the ridge from the wall walk. Renard's youth went to the field. He rode with the house's companies through the Stormfold in a war that moved every night. It cut his face harder and sharper than Bram's.
 
 #### The Making
 
 He knew the ridge as well, and learned there what every man on it learned. A Tenrai officer walked a line of prisoners and let his pressure loose to watch them sway. After that Renard could read a stronger practitioner by his own body: a wet mouth, a lifting stomach, sweat along the spine. Men bled out there too. Brida Ashwell called the point where they stopped asking for water the third bowl.
+
 Godfrey had chosen Muken. The choice was the family's, and it outlasted Godfrey. When Wren went over to the Tenrai, Renard did not hesitate. He chose Hild Ice, Muken's granddaughter, and took his post as her personal guard at the left of the broken throne at Kharven-Seat. The card gives the post one line: "The Greymane function: be the thing between the throne and the threat."
 
 #### The Cost
 
 Pietro Ashmore knelt in chains before that throne, with Lorn Stark holding them, and called the girl a bastard and laughed. Renard's hand tightened on his sword. Hild lifted her hand. He did not draw. She named herself Hild Ice before the court and sent the man home alive, and the cold of that hall stayed in its walls. Renard had no words for it and never asked for any.
+
 In the Thin Weeks he kept the altar-room door behind the throne hall while the girl slept and Brida lay on the pallet inside. He measured the night in broths. He held that a guard who thinks is a guard who is elsewhere, and he thought of nothing. One night the lamp by the throne leaned toward the arch. No draught could have leaned it. He closed his hand on the hilt and did not draw, because a drawn blade makes a sound and the sound would wake her. A man came through the arch in a Kharven courier's wool, bare-handed, with rime on his lip and no cloud to his breath. Renard took the rime for the girl's cold, caught in the man. He was wrong about the cause.
+
 The man called him the cousin. "Lambert opened the west postern for me," he said. Renard did not answer. The man laid two fingers on his left forearm through the gambeson. There was no pain. The arm warmed like the first hour of a fever, and the grip held, weaker, a day older than the rest of him. Renard opened the back of the reaching hand to the bone. Then he took his own blade halfway down with the weakened hand and drove the point up under the man's arm. The dying man said, "Wren, the door," and then, "Tell Wren." Brida's face came to the gap. "She's asleep," she said, very quietly. "Don't." He nodded. From the satchel he took a brass token stamped with three short strokes and a circle. He put it inside his gambeson against the skin. Then he dragged the body down the passage, away from her door.
+
 At the Ridgewall he read the farrier's own tally book. Josse Hillborn had ridden four months running to a hamlet where he had no kin, and had written down every ride. Renard questioned him for two days. Josse gave him nothing. Half the yard wanted the farrier hanged and half wanted him let go, and all of them had eaten at his fire. Renard put two men on the cellar door from outside the southern muster. Lilia said it was correct and that nobody had thanked him.
 
 #### Where They Stand
 
 On the day of the ninth hour he stood on the left of Bram's line at the southern reach, where the wall had come down in the night. Bram could see thirty feet, and he knew what was happening on his left by Renard's voice in it. That same day Kaalabad pinned Wren to the ditch bank of the Ashgate road. At Kharven-Seat, Hild Ice died in a cistern doorway with Osric of Hallenfeld.
+
 No record carries Renard past that day. The dying man's claim against Lambert stands without an answer. No record says who has read the token, or whether Renard has spoken Lambert's name to anyone. The card keeps him at the throne's left, hand on hilt.
 
 #### Ties

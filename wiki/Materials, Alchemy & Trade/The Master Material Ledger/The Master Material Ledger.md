@@ -75,6 +75,7 @@ verification: "unverified"
 >
 > **Seerstone Resin** — attributed provisionally to eastern cloud forest canopy species. Unconfirmed by Archives.
 Two further entries the Measurewrights record as open. **Whether the Crevice is geology at all**: the Guild declines to certify it as a fault in any sense. And **whether the Kaetran Ring's passages are caused by the impact structure or merely coincident with it** — *the correlation is too exact to be accident and too unexamined to be asserted.*
+
 One inference is recorded and marked as such. **Silver's Resonance** is given as person-addressed binding, drawn from Bloodsilver and Dawnsilver behaviour — **the substrate tables name basalt, quartz, iron, gold and obsidian and are silent on silver.**
 
 ---
@@ -82,14 +83,19 @@ One inference is recorded and marked as such. **Silver's Resonance** is given as
 ## The Class IV Shortfall
 
 *The register's oldest arithmetic problem, stated plainly for once.*
+
 **Class IV, Crystal Draw**, is material rendered from something that carried a Soul Crystal. The Bench recognises three lawful sources. **The volume in circulation has never matched what those three can account for**, and the discrepancy has been carried in the Bench's own returns for as long as the returns have existed.
+
 The Measurewrights' position is that the gap is a recording failure. It is a supply.
 > **Extraction produces Class IV material as a by-product and engine work produces it at volume.** An operator drawing off a donor is not rendering deliberately; the residue simply accumulates, and it is indistinguishable on the coil from lawfully rendered stock **because the process that made it was the same process, performed without a warrant.**
 >
 > *This is why the arithmetic will not balance and cannot be made to. The missing tonnage has no lawful source because it had no lawful origin, and every factor between the operator and the bench is buying in good faith from somebody who is also buying in good faith.*
 **The three tells**, which the better houses check and the rest do not.
+
 **Residue that does not disperse** on the finished stock. Lawful rendering leaves a trace that thins on schedule. Class IV taken out of an unsealed operation carries a residue that holds, because the operation it came from never closed.
+
 **Instrument disagreement.** The coil reads a Holding figure, the gauge reads a density, and on unlawful stock the two do not reconcile. **The discrepancy is the size of what was taken.** Two instruments and somebody willing to compare them is the whole of the test and most benches own one instrument.
+
 **A provenance that runs out.** Lawful Class IV has a rendering house, a date and a beast or a body. Unlawful Class IV has a factor, a price, and a supplier who is three towns away and reliably difficult to visit.
 > *The connection between this section and the six entries above it is not asserted. It is available to anybody who reads them in order, and the Measurewrights have declined to draw it in print four times.*
 - [[Materials, Alchemy & Trade/The Master Material Ledger/The Material Index · T0–T4]]

@@ -11,6 +11,7 @@ verification: null
 # Iracordas
 
 **Say it** · eer-ah-KOR-das
+
 *The Architect of Despair · The Pale Shadow · Malakar's First Hand · Card 10*
 > *Six-part template. He Who Crowns Wrath in Silence.*
 > 
@@ -21,12 +22,16 @@ verification: null
 ## I · Identity and Core Profile
 
 **As Of** Malakar's First Hand, while his master lives
+
 **Race / Lineage** **First Eon Pureblood Demon**
+
 **Faction** The Seven Great Demonic Generals — **The First Eon**
+
 **Temperance Stage** **X — Realization**
 > One of the Seven Great Demonic Generals and **the personal right hand of the Grand Demon Malakar.**
 > 
 > **He does not simply slaughter armies.** He cultivates fury, humiliation, dread and spiritual fracture **until his enemies destroy themselves from within.**
+>
 > His power source is **wrath transmuted through demonic Aether**, refined through a triune alignment of judgment, annihilation, and emotional release.
 >
 > **His ultimate aim is to make conflict self-sustaining — so that every battlefield becomes a shrine where anger feeds the Abyss without end.**
@@ -37,8 +42,10 @@ verification: null
 
 **Aether Class · Abyssal Thread Manipulator**
 > His Aether manifests as **razor-fine black-violet threads that move through shadow, air, flesh and spirit like living script.** These threads **latch onto emotional fault lines** — especially rage and resentment — *then tighten until thought, movement, and pain are all dragged into his control.*
+>
 > **Risk · Paradox Burn.** Overdraw causes **emotional bleed-through**, forcing Iracordas to absorb fragments of the wrath he harvests from others — *which can destabilise target priority and judgment.*
 **Triune Core** · **Judicium · Exuroth · Catharsis** — *6 additional Wellsprings currently infected or networked; 3 targeted uninfected remaining.*
+
 **Temperance Path** · *He advanced by weaponising emotional fracture rather than transcending it cleanly.* **Each Stage achieved through domination, pain refinement, and** the conversion of wrath into spiritual law **— until his current state allowed him to** imprint fury onto reality itself with stable intent.
 
 ---
@@ -56,7 +63,9 @@ verification: null
 | **Attraction Scale** | **S-Tier · Tyrant Pressure** |
 
 **Strike Force** 58 GN / **16 PJ** · **Durability** 72 PJ shielding / 31 GJ hardness
+
 **Speed** Mach 22 burst — **near-instant thread-step through connected shadow lines**
+
 **Range** · ***City-scale emotional contamination.*** Visual to Law-Field for direct thread manipulation
 
 ---
@@ -64,6 +73,7 @@ verification: null
 ## IV · Axiomatic Manifestations
 
 **Wrath Harvest** · Passive — **violence, betrayal, panic and hostile intent in his vicinity passively amplify his Aether stability and thread potency.**
+
 **Court of Pressure** · Passive — prolonged exposure to his aura **destabilises discipline, sharpens resentment, and makes enemies more likely to lash out impulsively.**
 
 | Discipline | Mechanic | Cost |
@@ -85,6 +95,7 @@ verification: null
 >
 > Inside the Domain, **anger becomes weight, resentment manifests as phantom assailants, and hostile intention leaves visible wounds in the air** — *which Iracordas can seize, shape, and weaponise.*
 **Sceptre of the Seventh Lash** · *condenses ambient battlefield wrath into piercing thread-lances of SS-grade penetrative force.*
+
 **The Pale Mantle** · **a living cloak woven from the final resentments of fallen kings** — concealment, aura masking, enhanced thread multiplication.
 
 ---
@@ -92,7 +103,9 @@ verification: null
 ## VI · Lore and Trajectory
 
 **The Red Choir Massacre** — turned a unified holy resistance into mutual slaughter **by amplifying hidden resentments between its commanders.**
+
 **The Ashen Siege of Veyr** — **held an entire fortress-city in collapse without breaching its walls**, *simply by infecting the defenders with escalating fury and mistrust.*
+
 **Counters** · **Apathy Fields** — emotional nullification, meditative severance, **or true inner stillness starves his techniques of their preferred fuel.** **Purity Wards** — high-order sanctified barriers that cleanse emotional contamination **disrupt his thread anchors before they fully root.**
 > **Trajectory.** To perfect *Dominus Irae Aeternae* **until wrath itself becomes a self-sustaining law of war** — allowing him to conquer nations **by turning their own hatred into the engine of their fall.**
 
@@ -105,30 +118,43 @@ verification: null
 #### Origin
 
 Iracordas was born a demon of pure blood in the First Eon, while the ore bodies were still going into the ground and the northern shield was being laid. That age ended where the first kept record began. Nobody wrote down who bore him, or where. He never said.
+
 The threads were his from the first. They were razor-fine and black-violet, and they moved through shadow, air, flesh and spirit the way a line of script runs across a page. They went where a creature was already angry and tightened there. Rage and resentment gave them their surest hold.
+
 He came into the service of the Grand Demon Malakar and rose in it. In time he was Malakar's First Hand, one of the Seven Great Demonic Generals and his lord's personal right hand.
 
 #### The Making
 
 Malakar's hierarchy made war on its enemies' own commitments. Its tacticians cultivated pairs of oaths that could not both be kept, and set them on the officers of the Celestial Host before a battle opened. Iracordas did the same work with grudges. He never had to bring one.
+
 The Red Choir was a holy resistance, unified when he found it. Every resentment his threads tightened on was already there among its commanders, kept down for the sake of the cause. He drew them taut one at a time. The commanders turned on one another, their companies followed them, and the Choir ended in mutual slaughter.
+
 He struck none of them himself.
+
 He took for a cloak the Pale Mantle, a living thing woven from the final resentments of fallen kings. It hid him and masked what he gave off. The Sceptre of the Seventh Lash gathered the wrath loose on a field and drove it back out as lances of thread.
+
 He climbed by domination and by the refinement of pain. He made weapons of the fractures he found and never tried to rise clear of them. Each step turned more of the wrath he harvested into spiritual law, until he could imprint fury onto reality itself with stable intent.
 
 #### The Cost
 
 Veyr was a fortress-city, and he held it in collapse without breaching its walls. He did not go in. He worked on the defenders from outside, through the fury and mistrust already among them, and fed both until the city was fighting itself. The fires that gave the Ashen Siege its name were lit from inside.
+
 When the siege ended, the survivors were carried into Veyr Chapel, infected. Lucius Xenotro, at seventeen, purified them there without burning them alive. Iracordas never stood in front of him. The walls he had declined to breach stood between the siege and the chapel. The survivors who walked out were the part of Veyr his work did not keep.
+
 He held that death was mercy, and he withheld it. At Veyr the withholding left people alive to be taken back.
+
 Every field he ruled sent its wrath through him first. When he drew too hard, fragments of it stayed in him, and his judgment of which enemy came first began to slip. Used often, his arts filled him with other people's rage. For a while afterward he could not tell his own will from the battlefield's hatred. He went on using it.
+
 A mind gone still gave the threads nothing to hold. A target who reached true calm, or emptiness, or cut the feeling off at the root, could shake his anchors loose and drive the force back into his own casting. Sanctified wards that cleansed the contamination broke the threads before they rooted.
 
 #### Where They Stand
 
 His card still names him Malakar's First Hand. In the archive Malakar is dead, and has been for years. No record says where his right hand stood when his master died, or whom he answers to now. No archived scene names him.
+
 His aim is unchanged. He means to make conflict sustain itself, until every battlefield is a shrine where anger feeds the Abyss without end. He works to perfect Dominus Irae Aeternae, the art that is his alone, until wrath itself becomes a self-sustaining law of war and a nation's own hatred becomes the engine of its fall. Wellsprings beyond his own core are infected or networked to him. Others he has marked are still clean.
+
 Within the Throne of Red Silence, his black-glass court beneath a crimson horizon, wrath has physical law. Resentment walks there as phantom assailants. A hostile intention leaves a visible wound in the air, and he can seize it and shape it.
+
 His line stands as his card gives it: "Death is mercy. Wrath is the lesson that remains."
 
 #### Ties

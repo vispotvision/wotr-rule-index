@@ -18,10 +18,15 @@ verification: null
 ## I · Identity
 
 **As Of** · After the crater in the Vaeloris quarter
+
 **Name** · Ignatius Sanctus Sanctorum Arsenal.
+
 **Called** · Archpaladin of Sancta Lux. Sentinel of the Solar Path. Hammer of the Divine Threshold. **He Who Burns Not to Forgive, But to Expose.**
+
 **Race** · Human.
+
 **Standing** · Sancta Lux, High Ecclesia. Order of the Emberborne Cross.
+
 **Era** · Voyager Era.
 > **Catalyst Event · Stage XII, Emanation.** The Sanctified Legion of Sol Invictus was immolated during the Eclipse Wars, and he did not break.
 >
@@ -36,11 +41,17 @@ verification: null
 ## II · Soul Architecture
 
 **Essence Core** · Four documented micro-fractures, integrated. **Denser than the clean advancement path produces**, which is the specific reward for passing through Dissonance rather than around it.
+
 **Aether Shell** · **Class V · Radiant.** Aether bends toward him; currents curve around his presence. **Output exceeds what the raw numbers suggest**, and the Class is the reason.
+
 **Attraction Layer** · Dominant, and the engine of the whole sheet.
+
 **Crystal State** · Refined.
+
 **Essence Capacity** · 5.5 million EU. **Flux Density** · 5.4 million EU/g. **Output** · 5.1 million AU/s.
+
 **η** · 0.90, at the ceiling of the Tier of Standing 7, Grandmaster range.
+
 **Essence colour** · The Family hue bleaching toward white at its edges — **the first visible sign that identity and Continuum-law have begun to merge.** The ambient light in a room changes before he arrives in it.
 
 ---
@@ -48,8 +59,11 @@ verification: null
 ## III · Wellspring Harmonizations
 
 **Cinerion** · Caloria. The Ash Veil. What the fire leaves becomes recovery material, **and every calcination at the bench draws on it.**
+
 **Luminalis** · Fulguria. The radiant expression. Near-white, arc-clean, **the visible geometry that forms around him under load.**
+
 **Judicium** · Fulguria. Order, measure, consequence. *The Heresiology's warning attaches here: law without mercy becomes burnished sadism, and Judicium injury is most visible where either side is used to excuse the other's absence.* **Ignatius is closer to that line than his Order will say aloud.**
+
 **Fixatio** · Materia. Anchors and seals. The Cradle, and everything that holds.
 
 ---
@@ -79,17 +93,26 @@ verification: null
 ## V · Sub-Stat Peaks
 
 **Ardency Radiance 732** · Attraction VII · **at ceiling.** The highest Sub-Stat peak on the sheet, and the correct one.
+
 **Vitality Fortitude 721** · Body III. **Dominion Pressure 710** · Attraction VI.
+
 **Resilience Oath 696** · Attraction IV. *The vow, load-bearing and quantified.*
+
 **Vitality Absorption 684** · Body III. **Ardency Penetration 670** · Body III.
+
 **Resilience Immunity 657** · open. **Dominion Radius 643** · Attraction V.
+
 **Vitality Threshold 629** · Body IV. **Tempering Resistance 615** · Body IV.
+
 **Harmonics Attunement 602** · Attraction II. **Ardency Density 588** · Body IV.
+
 **Vitality Ossification 574** · Body IV. **Ardency Compression 509** · open.
 > **Three caps, and together they rewrite what kind of protection he actually has.**
 >
 > **Resilience Ward · 135 · capped at C-Grade.** Requires Spirit Path at Stage III.
+>
 > **Gnosis Warding · 212 · capped at B-Grade.** Requires Spirit Path at Stage IV.
+>
 > **Dominion Sovereignty · 308 · capped at A-Grade.** Requires Fate Path at Stage VI.
 >
 > **Ignatius has no arcane warding worth the name.** His Ward sits at C-Grade against a Vitality of SSS — **five full Tier Grades apart.** The Blessing of Sanctity is not a shield in the ordinary sense at all. It is Attraction Force at Radiance 732 and an Oath at 903, and what it does is make hostile working *unwelcome* rather than *blocked.*
@@ -101,7 +124,9 @@ verification: null
 ## VI · Physical Force
 
 **Strike Force** · Ardency 880, upper SSS-Grade. On the order of **4 PN peak contact force, approaching 4 EJ yield, near a teraton equivalent** — small-country level, delivered through a hammer head, concentrated by the Focused-Yield Principle into a contact area the size of a fist.
+
 **Lifting Strength** · Vitality 900, upper SSS-Grade, **with the Body Path multiplier applying.** Toward **500 billion tonnes.**
+
 **Speed** · Dexterity 422, upper S-Grade. Travel near **68,000 m/s**, reaction between 0.05 and 0.2 milliseconds. *Mach 290 sustained sits inside S-Grade; the Mach 610 burst is SS-Grade and reachable only under the Flare.*
 
 ---
@@ -111,8 +136,11 @@ verification: null
 ### Solar Mandate · Dawn-Pierced Sentence · *Signature*
 
 **Effect** · He plants, draws the Sentence of Dawn overhead, and says one sentence aloud. **It is a verdict rather than a prayer, and the difference is audible.** The hammer comes down. What it lands on is assessed before it is struck, and corrupt structure comes apart at the lattice rather than at the surface — **a thing does not resist this and then fail; it is found wanting and then stops.**
+
 **Cost** · Incremental fracturing of the Cradle's outer lattice. **Four documented micro-fractures. A fifth risks partial ocular collapse and permanent loss of perceptual acuity** — in a man whose Gnosis is already his floor.
+
 **Limit** · He must be stationary, and he must speak. **A Hollowsong-suppressed chamber does not stop the hammer and does stop the sentence**, and without the sentence it is a very strong man hitting something.
+
 **Counter** · Be innocent, or be quick. *The first is not available to most of what he fights. The second is available to nearly all of it, and his Dexterity is the lowest number in his combat spread.*
 > **What nobody knows.** Whether the assessment is his. **The Mandate resolves faster than his Gnosis can read**, which means something is judging and it is not the part of him that thinks. He has never raised this with the Ecclesia. *The Heresiology has a name for a working sustained by refusal rather than recognition, and he has read it.*
 
@@ -121,6 +149,7 @@ verification: null
 ## VIII · Physical Description
 
 Six foot five, siege-built, broad through the shoulders and dense with the specific muscle of a man whose body was consecrated before it was trained. Skin deep reddish-brown, sun-scorched and weathered. **Eyes hammered gold, lit from within, the left carrying a faint geometric lattice under load.** Hair white, close-cropped at the sides and swept back with militant severity; full white beard kept short.
+
 White plate over interlocking gold filigree, the Sol Invictus sigil at the breastplate centre, chainwork across the chest, fur-trimmed pauldrons, engraved bracers. **The Sentence of Dawn rides at his back and its head is permanently warm to the touch.**
 
 ---
@@ -128,7 +157,9 @@ White plate over interlocking gold filigree, the Sol Invictus sigil at the breas
 ## IX · Psychology
 
 **What he refuses** · To weigh twice. *Where Vaelen Mourcrix weighs, Ignatius concludes*, and he regards a reopened judgment as a failure of the first one.
+
 **What it costs him** · The Legion. Every verdict he has rendered is stored in the four fractures, and **he does not forget, which is not a virtue but a mechanism.**
+
 **Speech** · Declarative, formal, unhedged. He does not ask questions in company.
 > **One private thought, for prose use.** *The hammer was warm before the Legion burned. He has never told anyone that, because the only people who could have confirmed it are the reason he cannot ask.*
 
@@ -141,15 +172,25 @@ White plate over interlocking gold filigree, the Sol Invictus sigil at the breas
 ### Voice
 
 **Notices first** · What is wrong with the thing in front of him, and who paid for it. He reads a room the way a physician reads a chest, the wound before the man and the mechanism before the wound, and then he checks whether the person facing him is still the person he knew.
+
 **Sentence length** · Short and declarative, set down without a run-up. His questions arrive as statements, flat at the end with no lift ("Where is he." "Under what authority."), and when he argues the sentences lengthen into reasoned clauses stacked with "and" until the case is made.
+
 **Contractions** · never, save a single clipped word forced out on half a breath when he is badly hurt.
+
 **Pet word** · "Then," to open the next step of an argument: "Then instruct me." "Then why are you here."
+
 **Never says** · A prayer: when he speaks over a working it is a verdict in the Church's old tongue, never a plea. He never gives an exact count of anything either; he rounds to the year and the handful and leaves the tally to clerks.
+
 **Stumbles** · Never. He does not answer at once, and the silence before the answer is the only hesitation he allows.
+
 **Gloss rights** · Only for law and doctrine he wrote himself, and only when someone in the room is owed the reasoning; in the field, never.
+
 **Under stress** · The speech shortens and goes flat and precise, which three tribunals mistook for composure. Asked the real question, he answers a different one, at length, in that same flat voice. He raises it only when he means every word, and he says so.
+
 **In grief** · The titles fall off and he is Darius again, the boy who argued with every lesson. The fact comes out plain and without a run-up, in as few words as it will go into: "He is dead."
+
 **In joy** · The declarations hold; he will say outright that he is going to enjoy something and say nothing else. The rest is in his hands on the Hammer, the set of the jaw and the breath he lets go before he walks.
+
 **Sample line** · "I have been correct about a great many things and it has never once helped anybody."
 
 ### Lore · The Life Behind the Card
@@ -157,28 +198,39 @@ White plate over interlocking gold filigree, the Sol Invictus sigil at the breas
 #### Origin
 
 He was born Darius, a human child. Sancta Lux gave him Ignatius, Sanctus and Sanctorum one at a time, and everyone around him still calls him Darius.
+
 As a boy he was sent twice a week to a court Auditor named Verinus to be taught about Fate. He argued with every lesson. Verinus has called him the worst student he ever had and the only one who came back.
+
 Sancta Lux, when he entered it, kept Sadara Izayoi's revelation as its law, with six schisms and no procedure for being wrong. At nineteen it named him Ignatius, for the faith. The assessor wrote him down as unbridled and meant it as a caution. Aurelian Prudentius ordained him. That year he found an entry the Index gave no place, asked about it twice, and was never answered.
 
 #### The Making
 
 He carried mail and a longsword through two campaigns before his hair went white. He kept a habit of not answering at once. It cost him two friendships and saved his life once.
+
 In those years no rule stopped one man from taking a reading, finding what it meant and acting on it alone. At the Eclipse Bastion he led four hundred Sanctified Legionaries through the outer gate on a reading that was correct and made at the wrong time. The gate held them for nine minutes. He stood at the threshold with the Scale open and held the interval open through all nine. He judged that going in would spend more lives than it saved, and he did nothing the record could call an act. He had taken the reading, found its meaning and acted on it alone. He had been right.
+
 The Sanctified Legion of Sol Invictus was immolated during the Eclipse Wars, and he did not break.
 
 #### The Cost
 
 He came out of that gate with one conclusion: revelation is not a method. He began writing the year the order added Sanctus to his name, for a commitment his own file recorded as a man who would not stop. He finished at thirty-five. The Ladder of Standing he wrote rested on one rule: no one person may take a reading, interpret it and act on it. The order took his law and dated it back to Sadara. Three Accord tribunals asked him about the founding. Each time he answered a different question, at length, in the flat voice that came on him when he was frightened, and each tribunal took it for composure.
+
 At thirty-five the order named him Sanctorum, a title given to three men before him and to nobody since. That night he looked the three up in the Long Reading. Two were entered with a date of death and no manner; the third had neither, and carried a mark the Bench declined to explain. He went back to his quarters and wrote a letter refusing the seat of the Will of Judger. He was never invested.
+
 From that year nothing given entered him. No shared working took hold and no healer's hand could reach him, and he watched two men die whom a transfer would have carried out. The order called it sanctity. He corrected it in the margins. That was why the God Hand was split between two men. Ten years before the fourteenth day, in the lower chapel at Altherion with the door barred, Aurelian put the chain of the Scale amulet over Charles Lambert's head. Ignatius stood across the table with his hands behind his back, did not look at Charles once, and signed second. The one sentence spoken in the common tongue in those eleven minutes was his. It was four words long, and it said there would be no second attempt.
+
 He would not weigh twice. He counted a reopened judgment a failure of the first one and asked no questions in company. Every verdict he rendered was stored in the four fractures, and he did not forget. The hammer was warm before the Legion burned. He told nobody, because the only men who could have confirmed it were the reason he could not ask. His signature working delivered its finding faster than he could follow, and he never raised that with the Ecclesia. The Heresiology had a name for a working sustained by refusal. He had read it.
+
 He spent nine months in the ash at Sum-gol, a plane sideways from the world. Gimbzo stood up out of the gate and offered to teach him. Ignatius answered with a question about standing. A fifth fracture risked his sight, and Gimbzo told him a fifth would kill the Crystal. An hour into the first lesson Ignatius reached for the arrest he had held open at the Bastion gate, and the fifth fracture began to ring. Gimbzo knocked him off the axe haft with the flat of Tsuiei. "You built abutments and no arch," he told him. Ignatius learned to lift the axe a finger's width by letting its load run through him into the ground, and took all seven Works.
+
 The twelfth trial came unannounced. At the ninth hour of the fourteenth day Charles Lambert died in the narrows, and the office spent Ignatius through a channel whose far end he had never been told. "He is dead," he said. Gimbzo sent him through the gate with a charge: teach a child Gimbzo had felt open, and keep that child from the Void Regent.
 
 #### Where They Stand
 
 The gate put him out over a burning city at the tenth hour. The Hammer came into his right hand. In the Vaeloris quarter a boy on the rubble held a dead man, and what the boy felt stood over four streets, killing what it touched. Ignatius could have undone it by letting go, and he kept his hand shut so the child could keep it. Aurelian came up the rubble young, pleasant and wrong about Verinus. Ignatius told him Charles was dead and that he was not the man who had ordained him, and kept him on his left. He had not raised his voice before another living soul since the year he was twenty-six. He raised it now. He told the Void Regent he would kill him.
+
 In the crater he held the seam of Verinus's wall in his closed hand. None of it entered him. With the seventh Work he drove the Regent out through the tear and set the wall across it. Then he fell onto his side in the ash of the Vaeloris quarter with his right hand closed, and did not open it.
+
 He did not die there. He is alive and his whereabouts are known, and Verinus, who reads him alive in the Works, has told three people so. Dabney counts seven years of forms under him. The seat of the Will stands uninvested. He has read the Seventh Objection as one of three living holders of the Sealed Standard. What he chose to do about it he has told nobody, and he believes it will justify a fifth fracture.
 
 #### Ties

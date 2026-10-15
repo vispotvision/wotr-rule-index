@@ -13,8 +13,11 @@ verification: "unverified"
 ## Lich
 
 **Undying, Archmage Undead · T9, Apocalyptic Threat · Corrupted, Abyssal, and Spirit Wellsprings intertwined through necromantic rites · native to ruined fortresses, ancient crypts, and shadowed sanctuaries throughout the Innerworld and Outer World**
+
 Liches are necromancers who bound their souls to phylacteries, transcending mortality through dark Wellspring rituals. The transformation grants them mastery over death and Essence manipulation, and binds them eternally to the arcane prison they made for themselves. Most were once mortal rulers or sorcerers, and a lich pursues forbidden knowledge and dominion over life and death long after the throne or the title has been forgotten.
+
 Skeletal figures draped in tattered robes embroidered with necromantic glyphs, their eye sockets glowing with sickly Essence light and their hands clutching arcane staffs or relics of power. Some carry visible remnants of the person they were: patches of decayed flesh, a spectral overlay of the face they wore in life.
+
 Cold, calculating, and utterly relentless, a lich commands armies of the undead, bends Wellspring flows to its will, and weaves schemes that outlast the mortals who oppose it. Its intellect and magical reach make it a far more dangerous adversary than brute strength alone would suggest.
 
 | Abilities | Weaknesses |

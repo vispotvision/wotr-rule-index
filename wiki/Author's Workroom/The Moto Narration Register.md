@@ -18,7 +18,9 @@ verification: null
 ## Vocabulary
 
 **Words it reaches for.** Count, number, order, weight, read, entered, arrangement, fault, cost, whole, correct, the smaller party. Plain military and household nouns: harness, ruts, flank, gatehouse, cistern, stack, broth. Exact figures (eleven, forty feet, four hundred paces, eleven seconds, eleven degrees). The Kharven Inventory's words, because the house sits on Kharven ground: the stack, the Thin Weeks, the death-house, wet wood, the Sky.
+
 **Words it keeps out.** Named feelings beyond one word, and usually not that one. Abstract Latinate nouns for the self (anguish, despair, resolve). Any single Archon asked for anything. Modern words of any kind. Contractions, in narration and in speech.
+
 **Its signature phrase.** "The whole of it." Seiji: "That is the whole of it and it has been the whole of it for eleven years." Sodoku: "That is the whole of the fault and it is mine." The narration: "That was the whole of what Sodoku had sent." A Moto closes a judgement by bounding it. The phrase is the prose form of "the offence is inaccuracy": a thing correctly read has edges.
 
 ## Sentence shape
@@ -57,11 +59,13 @@ It never names its own pleasure, triumph or grief outright; it records their abs
 > "That was the second thing Sodoku understood and it arrived a half-beat behind the first, and there was no pleasure anywhere in it."
 **8. Speech is full-form, courteous, and gives nothing.** No contractions. Short sentences. Politeness carries the threat. From outside, a Moto answers pleasantly and at length and tells you nothing.
 > Seiji: "They will believe two of them, which is better. A man who believes everything reconsiders. A man who believes half of it commits."
+>
 > And from Wren's side: "I have watched him give an instruction that ended a village, and the instruction was four words and one of them was please."
 **9. Proverbs arrive uninvited, in someone else's voice.** Received wisdom does not get quoted on purpose. It comes up out of the POV in the voice of the person who first said it, with the place and the dead named.
 > "His grandmother had said it about men who could not be relied on and about the fires they made. She had said it in a doorway in a house that no longer stood, with her hands in a bowl, and she had been dead forty years, and it came up out of him now with no invitation and in her voice."
 **10. The world is weighed as arrangements and parties.** Bonds, debts and orders are thought of in the language of terms: who agreed, who is the smaller party, what was said aloud and what was not. People are filed by what they did.
 > "and Sodoku had never once let himself forget which of them was the smaller party to the arrangement."
+>
 > "and Sodoku watched him do it and put the boy's name into the part of his head where he kept the ones who came back."
 
 ---

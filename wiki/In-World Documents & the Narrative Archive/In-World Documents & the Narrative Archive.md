@@ -35,7 +35,9 @@ The institutional codices in this wiki are written by bodies that **expect to ou
 > The Accord closes on **"ink outlasts intention,"** and asks to be judged by what it produces rather than by the sincerity with which it was proposed. The letter opens by placing **one condition** on itself and surrendering every other decision. The memoir exists **so that those who come after will not mistake our beginning for certainty.**
 >
 > **Three documents, three different ways of admitting that the writer might be wrong. None of the Divisions manage it once.**
+>
 > *Order is a wound stitched closed often enough that later eyes call the scar design.*
+>
 > — Anima Veri Credentis, Chapter I
 
 ### The documents
@@ -47,6 +49,7 @@ The institutional codices in this wiki are written by bodies that **expect to ou
 ### The instructional register
 
 *The one document here written to be handed to a stranger. Everything else in this section was written by someone who knew who would read it.*
+
 **The Apprentice's Primer** condenses the entire Magic System section into a first reader, **and it is the only in-world document in the wiki that admits at the top what it is for**: *"You were not given this book because you are ready. You were given it because you have already begun, and nobody told you what you had begun."*
 - [[In-World Documents & the Narrative Archive/The Apprentice's Primer — A First Reader for the Newly Registered]]
 

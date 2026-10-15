@@ -11,9 +11,10 @@ verification: "unverified"
 # The Celestial Host — Naming
 
 The Host's names are built in three slots — **a function-name, a rank-suffix, and a Lawbell-name** — on a Hebrew-theophoric shape (element + a divine-register suffix) built from original elements, and they obey the Host's idiom rule: measure, position and law; never light, never fire, never wings. The names Faisal, Verantha, Kaethren Vareth, Dazgrim and Urstia are read back through the register rather than replaced.
+
 Everything not marked *attested* is **coined**.
 
-### The three slots
+## The three slots
 
 1. **Function-name** — what the Celestial was Sung to do. The personal identifier; it
 never changes. Two elements: a *function root* and a *measure root*.
@@ -21,37 +22,48 @@ never changes. Two elements: a *function root* and a *measure root*.
 Celestial that loses it has been stripped (the amendment's own rule).
 1. **Lawbell-name** — the Archonic principle it is an instrument of. Permanent; losing
 it is the Severance. It is the Archon's own name, unmodified, carried as a third
+
 name — the fourteen are attested and need no coining: Urion, Uurgath, Thalen,
+
 Valen, Maelor, Zhaeren, Irath, Veyra, Iesara, Kaetra, Wyther, Auren, Selhar,
+
 Elyndra.
+
 On the page: **Function-name-Rank Lawbell** — *Verantha-eth Maelor*, "Verantha,
+
 senior, of Memory". Among mortals only the function-name is heard; in the Host's
+
 own registers all three are written, and a register entry with the third name
+
 struck is the document of a Severance.
 
-### Function roots (what the absence needed)
+## Function roots (what the absence needed)
 
 Coined on the Host's own vocabulary: the Vow, the Verdict, the Boundary, the Seal,
+
 the Record, the Tally, the Toll.
 - **Ver** (the verdict spoken — *attested*, Verantha, Vareth), **Tal** (the tally kept), **Oth** (the oath witnessed), **Dahl** (the boundary walked), **Sarn** (the seal set), **Ruth** (the record entered), **Kaeth** (the gavel, the strike — *attested*, Kaethren), **Daz** (the exile escorted — *attested*, Dazgrim, gloss coined), **Urs** (the bell's own toll — *attested*, Urstia, gloss coined), **Fai** (the kneeling, the servitude — *attested*, Faisal, gloss coined)
 
-### Measure roots (how the function is measured)
+## Measure roots (how the function is measured)
 
 - **-an** (the count), **-eth** (the weight), **-ren** (the distance — *attested*, Kaethren), **-ia** (the standing — *attested*, Urstia), **-sal** (the position held — *attested*, Faisal), **-grim** (the order of precedence — *attested*, Dazgrim), **-antha** (the unbroken line of a ledger — *attested*, Verantha)
 A function-name is function root + measure root: *Ver-antha* (the verdict as an
+
 unbroken line), *Kaeth-ren* (the strike measured by distance), *Tal-an* (the tally
+
 as a count), *Oth-eth* (the oath weighed), *Sarn-ia* (the seal as a standing).
 
-### Rank-suffixes, by Choir tier
+## Rank-suffixes, by Choir tier
 
 The Choirs are attested (Midreach Oath-Keepers, Highspire Verdict-Bearers, Lowmere
+
 Sealkeepers, Bellwrought Witness-Choir); the suffixes are coined.
 - **-ith** — newly Sung; carries function and nothing else
 - **-eth** — a standing officer of the Choir
 - **-vareth** — a senior officer (*attested* as Kaethren's second name; read here as the rank he holds, the Last Gavel)
 - **Grand Angel** — a title, not a suffix: the handful who complete the accretion into selfhood drop the rank-suffix and carry the title in front (*attested*: "Grand Angel Faisal, the Bound Flame"). Their by-names ("the Bound Flame", "the Last Gavel") are mortal coinages and break the idiom rule on purpose — mortals name what they see.
 
-### The working names, read back
+## The working names, read back
 
 | Working name | Read as | Notes |
 |---|---|---|
@@ -63,6 +75,6 @@ Sealkeepers, Bellwrought Witness-Choir); the suffixes are coined.
 
 All five are kept as they stand. None is renamed.
 
-### Outside the register
+## Outside the register
 
 1. The mortal by-names — "the Bound Flame" and its like — lie outside the register, as the Host's idiom rule implies they should.

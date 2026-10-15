@@ -20,8 +20,11 @@ verification: null
 ### I · Identity
 
 **As Of** · After the First Entry into Cael Dareth's workroom
+
 **Name** · Serai Linthra. **Called** · The Serpent Alchemist.
+
 **Role** · **Senior Alchemist. Aetheric Synthesist. Symbiont of Aroth.**
+
 She carries the calm precision of one who rebuilds reality by hand, her robes layered kimono-weaves interlaced with metallized silk and Essence-threads. Her right eye stays hidden under her fringe, housing a rotating alchemical seal that reads the composition of matter in harmonic glyph.
 
 #### Affiliation
@@ -36,8 +39,11 @@ Guild Accord, **the Alchemists' Society**, chartered under the Research and Arch
 ### II · Soul Architecture
 
 **Aether Shell** · **Class III · Resonant.** Essence and Aether exchange freely between her and Aroth alike.
+
 **Attraction Layer** · Split across a dual-nodal Crystal, one node seated in her chest and one embedded in Aroth's skull.
+
 **Crystal State** · Dual-Nodal, in active synchronization. **η** · 0.91. **Tier of Standing 6, Master.**
+
 **Flux Density** · 7.8 million EU/g. **Gate Count** · 8. **Aether Output** · 7,098,000 AU/s.
 
 ---
@@ -45,7 +51,9 @@ Guild Accord, **the Alchemists' Society**, chartered under the Research and Arch
 ### III · Wellspring Harmonizations
 
 **Transmutatio** · Spatium, Spatial Geometry. Change, fusion, material will, sourced primary.
+
 **Fixatio** · Materia, Material Science. Stability, order, preservation, the half that keeps a transmutation from unraveling.
+
 **Anima Spirare** · Vitalia, Biochemistry. Life, soul, breath, the current Aroth shares with her directly.
 
 ---
@@ -80,8 +88,11 @@ Guild Accord, **the Alchemists' Society**, chartered under the Research and Arch
 ### VI · Traits
 
 **Symbiotic Resonance** · Shares Wellspring harmonics with Aroth; harm or healing affects both equally.
+
 **Mimetic Reformation** · Can replicate the structure of any material she touches for twenty-four hours.
+
 **Serpent Coil Field** · Aroth generates a magnetic Essence field that deflects kinetic projectiles.
+
 **Philosopher's Breath** · Exhales a vapor that briefly transmutes ambient air into reactive Aether gas, amplifying nearby spellwork.
 
 ---
@@ -89,7 +100,9 @@ Guild Accord, **the Alchemists' Society**, chartered under the Research and Arch
 ### VII · Artifacts
 
 **Aroth, the Ouroboric Vessel** · *Biomechanical serpent, Runeglass and Aethersteel over living sinew.* An external laboratory and Essence condenser that shares breath and soul signature with her.
+
 **Crucible Charm** · A pendant of seven shifting metals for the seven stages of alchemy, granting rapid reagent synthesis.
+
 **Seal of the Ouroboros** · A tattooed palm-glyph symbolizing perpetual rebirth, glowing at a perfect transmutation ratio.
 
 ---
@@ -99,8 +112,11 @@ Guild Accord, **the Alchemists' Society**, chartered under the Research and Arch
 #### Perfect Equivalence
 
 **Effect** · Disassembles a target, matter or construct, into its Essence signature and reconstructs it purified, or as something else entirely.
+
 **Cost** · Drains her emotional equilibrium in proportion to how much she alters; the more she changes, the less of her own steadiness survives the working.
+
 **Limit** · Requires unbroken contact with the target's full Essence signature for the duration of the reconstruction; a read interrupted mid-disassembly leaves a partial pattern with nowhere to go.
+
 **Counter** · Break contact before reconstruction completes, or present a signature too complex to hold in one read. A Domain-bearing target has never been safely disassembled.
 > **What nobody knows.** Whether what comes back out the other side is the same soul that went in, or a very good copy that believes it is.
 
@@ -109,7 +125,9 @@ Guild Accord, **the Alchemists' Society**, chartered under the Research and Arch
 ### IX · Relationships
 
 **Her mentor** · Vanished within a transmutation crucible; she intends to rebuild him atom by atom.
+
 **Aroth** · Occasionally speaks in her mentor's voice, which she insists is only resonance memory.
+
 **The Guild** · Once banned her research for producing Soul-Fused Constructs, then reinstated it after she proved moral synchronization.
 
 ---
@@ -128,27 +146,37 @@ No chapter appearances are recorded on the source card; it carries the sheet onl
 #### Origin
 
 Serai Linthra was born in one of the crater cities of Stannvaard's Upper Ring, where the guild shifts decided when a household worked, ate and slept. Her family kept a bench in an assay house. The house tested ore and ingot for the Assay Guild and stamped what passed, and in the Ring a counterfeit of that stamp was a capital offence. She was put to the small hammer as a child. A solid weight rang when she struck it. A cased one gave a dull note, and she heard the difference long before anyone at the bench trusted her to say so.
+
 A master of the Alchemists' Society took her from the assay house as his apprentice. He taught her fusion. The crucibles were refractory ceramic and opaque, and a fusion in one was judged by ear and by flame colour, because nothing inside could be seen. Before her apprenticeship ended he let her call the fusions.
 
 #### The Making
 
 Her mentor vanished within a transmutation crucible, and no one saw what happened inside it.
+
 She went on at the bench. In the years that followed, the work took parts of her body, and she replaced each part with worked material as it failed. The right eye went early. What she set in its place houses a rotating alchemical seal that reads the composition of matter in harmonic glyph, and it reads matter before her hands touch it. She grew her fringe over it. Every part had to take to her, and making it take became her research.
+
 Her contradiction was her own body. Half of her had already become construct before she chose to make that a discipline instead of a wound. The choice showed first at the bench. She kept her own body's record the way the assay house kept an ingot's, every part entered with its composition and with what it was joined to.
+
 Afterward she built Aroth, the Ouroboric Vessel, a serpent of Runeglass and Aethersteel over living sinew, as an external laboratory and an Essence condenser. She built no weapon into it. When it was done her Crystal lay split between them, one part seated in her chest and one in Aroth's skull, and the serpent shared her breath and her soul signature. The Guild banned her research for producing Soul-Fused Constructs. It reinstated the research after she proved moral synchronization.
 
 #### The Cost
 
 Her signature working takes a thing apart, matter or construct, down to its Essence signature, and builds it again purified or as something else entirely. It drains her emotional equilibrium in proportion to what she alters. The more she changes, the less of her own steadiness survives the working. She must hold the whole signature, unbroken, for as long as the rebuilding lasts, and a read broken off halfway leaves a partial pattern with nowhere to go.
+
 Aroth's field turns aside what is thrown at the two of them. Whatever gets past it to Aroth reaches her in equal measure, and healing crosses between them the same way.
+
 She says, "Every element yearns to become something else. My duty is only to listen, and help it remember what it could be."
+
 She intends to rebuild her mentor atom by atom. Nobody knows whether what comes back out of her working is the same soul that went in, or a very good copy that believes it is.
 
 #### Where They Stand
 
 Serai Linthra is Senior Alchemist and Aetheric Synthesist of the Alchemists' Society, chartered under the Research and Archives Division. The Accord ranks her Master and Warden of Duty. She wears layered kimono-weaves interlaced with metallized silk and Essence-threads. A pendant of shifting metals hangs at her throat, one metal for each stage of alchemy, and the Seal of the Ouroboros is tattooed into her palm.
+
 Her research stands reinstated. After the reinstatement the Division sent her into Cael Dareth's workroom in the Upper Ring for the First Entry, as material examiner, one of the party the Heresiology requires, with Dr. Vaelion Rhest reading resonance and Valthren Odrin as witness-officer. Lyssara Veyn came in behind them. Serai took the composition of every reagent on the bench through the seal in her eye. She asked Cael one question, about the reversal of the signatures. He answered it as an equation. She wrote his answer into the file in her own hand, and she kept a copy. The Division expelled him. The copy is still hers.
+
 Garron Vuldane, the Society's Warden of the Grand Forges at Stannvaard, holds his charter in the same words as hers. Selantra of the Triune knows her work, and she knows Selantra's.
+
 Now and then Aroth speaks in her mentor's voice. She insists it is only resonance memory.
 
 #### Ties

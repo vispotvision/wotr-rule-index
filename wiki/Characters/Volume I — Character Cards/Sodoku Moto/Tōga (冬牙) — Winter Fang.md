@@ -12,9 +12,13 @@ verification: "unverified"
 
 *Winter Fang · The Crown That Carries · The Shelf's Oldest Answer*
 > **Name:** Tōga (冬牙) — Winter Fang
+>
 > **Species:** Droval · Titan-class
+>
 > **Danger Tier:** T8 (estimated — full capabilities unconfirmed)
+>
 > **Age:** Centuries. The Glacier Eye read ten thousand years of Winter saturation in the resonance handshake. The creature was alive before the Moto migration. Before the kingdom. Before the name Kharven existed.
+>
 > **Bond:** Sovereignty recognition bond with Sodoku Moto (the Arctic Lion). The creature chose. The choice was Winter recognizing Winter.
 
 ---
@@ -22,8 +26,11 @@ verification: "unverified"
 ## The Bond
 
 Tōga did not submit. Tōga recognized.
+
 The distinction is the entire relationship. Submission is a hierarchy imposed by the stronger on the weaker. Recognition is a hierarchy discovered by two equals who determine, through contest, that one of them IS the thing the other was born to follow. Tōga was born inside the cold. Sodoku became the cold. The born-inside recognized the became, and the recognition was the bond, and the bond was the season acknowledging that the season had found a centre.
+
 The bond operates through Winter resonance. The Verdict Plate's glacier-crystal lattice and Tōga's Wellspring-saturated biology harmonized at the contact point during the skull-standing, and the harmonization is stable and continuous. Sodoku does not command Tōga through speech or through Essence projection. He commands through the Frost Sovereignty Field's frequency, the field communicating intent through thermal micro-shifts that Tōga's biology reads the way it reads weather: automatically, at the speed of instinct, without conscious processing.
+
 Tōga's territorial instinct now includes Sodoku. The man is part of the territory. Threatening Sodoku activates the same response as threatening Tōga's den range. The response is: everything dies.
 
 ---
@@ -83,7 +90,9 @@ Tōga's territorial instinct now includes Sodoku. The man is part of the territo
 ## The Arrival at Kharven
 
 When Sodoku rides Tōga through the gates of Kharven-Seat, every person who sees the approach will see the following: a man in glacier-crystal armour that glows with Vohrin resonance, carrying a sword whose inscriptions climb the flat in frost-crystal formations, mounted on a Titan Droval whose body produces drifting ice crystals and whose Silent Tread makes the approach audible only through the ice's seismic response, the ground itself announcing what the air refuses to.
+
 The approach is not an entrance. The approach is a weather event. The approach is the season arriving at the capital of the kingdom the season intends to govern, and the arrival is carried on the back of the oldest living thing on the ice, and the oldest living thing chose to carry it.
+
 The north will see this. The north will remember.
 
 ---

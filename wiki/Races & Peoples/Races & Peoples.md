@@ -11,6 +11,7 @@ verification: "unverified"
 # Races & Peoples
 
 > The pattern that runs under every people in this section: **one origin, several sincere and mutually incompatible answers to what that origin demanded.** Not a family tree of decline from a purer ancestor. A set of arguments that nobody won.
+>
 > *"She sang one note. We have spent every Eon since arguing about how it should be sung back."*
 
 ---
@@ -33,6 +34,7 @@ Every major people in the four quarters was made once, from one source, with one
 ## On Reading These Entries
 
 The codices in this section are not neutral. Each people's entry is written from a position close enough to that people to make their reasoning legible, which means the same event is described three different ways depending on which page you are standing on.
+
 **The Betrayal of the Mountain** and **the First Rational Act** are the same refusal. **The Sylvaar Rebellion Schism** is a rebellion from one side of the forest and a homecoming from the other. **The Sundering of the Deep Halls** has a trigger that the surviving branches' oral records and the High Dawi archives describe differently, and the difference has never been resolved because neither party has offered to open the question.
 > Where a document records both accounts, both are reproduced. **Where the record contains only one, that is itself a fact about who kept the record.**
 
@@ -41,8 +43,11 @@ The codices in this section are not neutral. Each people's entry is written from
 ## Entries
 
 **The Elven Peoples** carries all five surviving branches and, beneath it, **The High Empire of Eresse** — the single people they all were, described as it stood before it knew it was about to end.
+
 **The Dawi Peoples** carries the origin, the fractures, and all eight branches in summary, with **The Reach Dwarves** beneath it for the five that were put somewhere else entirely and had to decide, from first principles, what enduring even meant once the mountain was no longer underfoot.
+
 **The Goblinoid Peoples** carries the First Impact, all six lineages, the languages that branched from a metaphysical event rather than a spoken root, and Za'tarch — which is not a refuge and insists on the distinction.
+
 **The Beastkin and Demihuman Peoples** carries the Labor Provision and what it actually means, the demihuman categories, and the languages, with **The Five Beastkin Lineages** beneath it at full architectural depth.
 - [[Races & Peoples/The Elven Peoples/The Elven Peoples]]
 - [[Races & Peoples/The Dawi Peoples/The Dawi Peoples]]

@@ -12,6 +12,7 @@ verification: "unverified"
 
 *Five Theologies of a Single Song · Revised Codex*
 > *"She sang one note. We have spent every Eon since arguing about how it should be sung back."*
+>
 > — Marginal note, provenance disputed across all five surviving elven archives
 
 ---
@@ -42,6 +43,7 @@ Florwyn sang the Realmsong of Edenis and the **Vey-Elarin** were tuned into bein
 ## Eressean — The Grand Principality of Eresse
 
 The branch that answered the Great Spirit War **by tightening, not loosening.** Where the High Empire's Wheel of Given Seasons was a shared, informal rhythm, the Eressean formalized it into Parunic ritual law, fixed rite, and the crystalline court culture the wider world now associates with elves generally.
+
 This is not a betrayal of the Kinship Doctrine from the Eressean's own perspective. It is the Doctrine taken with maximum seriousness: if the land is owed a promise, the promise should be kept in exactly the same words, exactly the same order, every single time, **because a people who improvise their reverence are a people already halfway to abandoning it.**
 > Velthaeir, the Floating Archive-City, is not a monument to Eressean vanity. **It is a monument to Eressean terror of forgetting anything correctly.**
 Its seat is **Vaelmarr**, where the **Sunroot Court** — Saeloria's court — sits and votes; Velthaeir keeps the record apart from it, entering everything and publishing nothing. The whole of it, and every daughter-branch below, stands on the elven old-ground of the **New World**, the Eastern Rise — the older of its two landmasses — and nowhere in the Old World *(ruled 2026-09-12)*.
@@ -49,8 +51,11 @@ Its seat is **Vaelmarr**, where the **Sunroot Court** — Saeloria's court — s
 ### Cultural traits
 
 **Calendrical governance** · No significant Sunroot-descended decision is made outside its properly appointed ceremonial window; urgency is treated the way the High Empire once treated haste in harvest.
+
 **Kiva-descended council architecture** · Formal deliberation chambers, built partly below grade, where Council of Bloom elders debate through fixed ceremonial roles rather than open argument.
+
 **Clan-lineage record over personal record** · An Eressean's standing is legible primarily through which lineage-line and rite-office they hold, less through individual achievement.
+
 **Florwyndic Songscript** · Ritual, directive-force writing reserved for law and consecration, distinct from the Common tongue used for ordinary speech.
 
 ### Soul architecture and stats
@@ -76,13 +81,17 @@ Eressean regard **Varrisak** as a fragile, mourning kinship — a people who had
 ## Varrisak — Wood Elves of the Sylvaar Wandering
 
 Where the Eressean answered the war by fixing the rite, the Varrisak answered it by **refusing to let any rite calcify at all.** Descended from the Sylvaar Wanderers who remained bound to the Primeval Forests through the Duskwalker Schism, Varrisak practice centers on the **vision** — a personal, unrepeatable encounter with the forest's own spirits, sought deliberately and never scripted twice the same way, that renews a person's standing with the land far more than any fixed calendar could.
+
 Their seasonal movement through forest territory is not homelessness. It is the belief that **staying too long in one place lets a person start mistaking their own habits for the forest's actual will.**
 
 ### Cultural traits
 
 **The Dream-Fast** · A Varrisak seeking guidance withdraws alone into old growth and fasts until a vision arrives. *No two accounts of the practice are recorded identically, which the Varrisak consider proof the practice works.*
+
 **Kin-bonded clan identity** · Organized around a bonded animal or plant-kin rather than bloodline alone, cutting across biological family lines.
+
 **Dream Groves** · Old-growth root-networks carrying generations of practitioner Crystal-inclusion, functioning as **a literal, structured Aetheric archive** rather than a metaphorical one.
+
 **Oral transmission only** · The Varrisak have no equivalent to Florwyndic Songscript **by choice.** A law that can be written down can be followed without being understood, which they consider worse than no law at all.
 
 ### Soul architecture and stats
@@ -101,6 +110,7 @@ Their seasonal movement through forest territory is not homelessness. It is the 
 ### Relations
 
 Varrisak describe Eressean as *crystalline arrogance in search of a vessel* and mean it with real grief rather than contempt. The **Sylvaar Rebellion Schism** is, from the Varrisak side, the moment a shared people definitively stopped being able to dream the same forest together.
+
 Their relationship with Drow is fraught but genuinely functional: **Drow handle deep corruption, Varrisak tend surface regrowth**, and the partnership survives specifically because neither theology asks the other to become itself.
 
 ---
@@ -108,19 +118,24 @@ Their relationship with Drow is fraught but genuinely functional: **Drow handle 
 ## Drow — Shadow-Custodians of Rovann
 
 Drow theology begins from the same Kinship Doctrine as everyone else and reaches an entirely different conclusion: **that a debt owed to the land does not vanish because the site where it was incurred has become too corrupted, too dangerous, or too shameful for anyone else to enter.** Someone has to go in anyway, tally exactly what is owed, and hold that ledger open until it can be paid.
+
 Standing among Drow is built through what has been given away and accounted for, not what has been hoarded. When the Duskwalkers offered a path into the underside of Realmsong during the Schism, the Drow's ancestors were the branch whose theology already told them **someone had to walk into the dark and keep the books.**
 > The tragedy is that **the ledger they were keeping eventually kept them.**
 
 ### Cultural traits
 
 **Clan-crest identity** · Lineage marked through a bonded crest-form — an animal, a natural feature, a Voidthorn-adjacent phenomenon in the more corrupted enclaves — worked into architecture, regalia, and formal address.
+
 **The Debt-Keeper lineages** · A rotating collective responsible for the precise tally of what is owed to which ruined or quarantined site, and by whom.
+
 **Redistribution over accumulation** · Standing is built by what a person has formally given away to settle a debt, not by what they retain.
+
 **Shadow-Veil notation** · A closed writing system readable only by Drow practitioners, used specifically to record **what happened at sites the rest of the world has agreed to forget.**
 
 ### Soul architecture
 
 **Essence Typology** · Mortis (primary) — **debt-Mortis specifically**, the obligation an ending creates, not nihilistic Mortis. Abyssal (secondary) — the authority of having stood in the dark and mapped it.
+
 **Soul Path Bias** · Spirit 60% / Attraction 30% / Body 10% — **the highest Attraction Path expression of any elven lineage**, and the structural source of their unusual spatial and Domain authority.
 > **Advantages**
 >
@@ -131,6 +146,7 @@ Standing among Drow is built through what has been given away and accounted for,
 > **Drow Veil sensitivity** — past events leave readable impressions across their Domain territory, an involuntary archive.
 >
 > **Nullity** — function in Essence-hostile environments where other practitioners shut down entirely.
+>
 > **Limitations**
 >
 > **Inherited Crystal fractures** — the lineage begins with compromised architecture; learning to route power *through* the fracture rather than around it is the central Drow developmental challenge.
@@ -142,6 +158,7 @@ Standing among Drow is built through what has been given away and accounted for,
 ### Relations
 
 Eresseans see Drow as living proof of elven failure. Drow consider the Eressean archive of the Schism period incomplete **because the Eresseans have never found a way to ask the Drow, directly, for what they know.** Both sides are, in the historical record's own words, still waiting for the other to acknowledge the gap.
+
 **Rovann** functions less as a capital than as the largest single concentration of Debt-Keeper lineages in one place, and its government — a **Twilight Matriarch** advised by the **Council of Whispered Blades** — is best understood as the administrative apparatus of an extremely old, extremely precise accounting practice.
 
 ---
@@ -149,14 +166,18 @@ Eresseans see Drow as living proof of elven failure. Drow consider the Eressean 
 ## Eladrin — The Seasonal Courts of Iampu
 
 Eressean daughters who took Order as Devotion into the northern theater and discovered that fixed rite alone could not survive the cold. What replaced it, gradually, was a second theology built on top of the first: **that true devotion sometimes means surrendering the will to insist at all**, and yielding entirely to season, silence, and collective endurance.
+
 This produced the Kingdom of Iampu's defining feature — a Crown that rotates with the solstices and equinoxes rather than passing by bloodline, **since no single will, however devoted, is trusted to outlast an entire winter's judgment alone.**
 > The **Ice-Voice Conflict**, in this reading, was not a random Northern catastrophe. It was the moment an entire generation's collective silence-as-endurance **tipped over into total Stasis**, threatening to freeze the whole regional lattice solid, and had to be answered by a silencing whose exact method the Eladrin themselves have never fully recovered.
 
 ### Cultural traits
 
 **The Seasonal Crown** · Leadership rotates formally to a new monarch at each solstice and equinox, per the Treaty of Four Courts.
+
 **Silence as high courtesy** · Prolonged, deliberate silence during negotiation is read as strength and patience rather than evasion. *Queen Seralyth's unbroken silence during negotiations is the Court's own gold standard of statecraft.*
+
 **Frost as preservation, not death** · The Eladrin's core reframing of an Eressean anxiety: **what the Order-as-Devotion branch fears losing, the Eladrin believe cold simply holds in trust until it is needed again.**
+
 **The Frost Council** · Elemental enchanters and climate-diviners advising whichever Court currently holds the Crown, providing the one continuous institutional thread across every seasonal transfer of power.
 
 ### Limitations
@@ -176,23 +197,29 @@ Eladrin maintain closer cultural ties to distant Eressean cousins than either br
 ## Echo Elves — The Longhouse Accord
 
 The second Eressean daughter-people, and **the only elven branch produced by conviction rather than geography or catastrophe.**
+
 When the post-Spirit-War Celestial Accord was drafted, a faction of Eressean jurists objected not to its goals but to what they called its **flawed memory-logic** — clauses whose exact meaning depended on interpretation rather than precise, mutually memorized wording.
 > The discipline they developed: **no agreement is considered binding until every signatory can recite its full terms back without variation.** A practice that makes Echo Elf diplomacy exhaustingly slow and, by their own account, **the only kind of peace that has never once needed to be refought.**
 
 ### Cultural traits
 
 **The Recitation** · No Echo Elf treaty, internal or external, takes effect until all parties recite its full terms identically in open session. **This is a legal requirement, not a formality.**
+
 **Confederated rather than crowned** · No monarch. Decisions binding the whole body require consensus across every represented lineage-house.
+
 **Compulsive restatement as a documented speech pattern** · Echo Elves in ordinary conversation frequently restate an agreed fact exactly once more before moving on — a diplomatic habit so ingrained it has become a linguistic signature, the echoing `Zo` phonemes.
+
 **The Longhouse Accord** · The founding covenant among the original dissenting lineage-houses, kept as the living model for how the Echo Elves later helped shape **Altherion's River Crown Council**, whose coalition-of-elected-representatives structure owes more to Echo Elf political philosophy than Altherion's official histories tend to credit.
 
 ### Relations
 
 The Celestial Accord refusal remains, in the Eressean political body's own words, **a wound that has not fully healed** — not because the Echo Elves were wrong, exactly, but because their walking away proved the Order-as-Devotion theology could produce a faction devoted enough to its own logic to reject the parent society's biggest diplomatic achievement outright.
+
 Warm, functional relations with Altherion's multi-racial republic, whose confederated governance already resembles the model the Echo Elves live by. Cool, formal relations with the Grand Principality of Eresse, **who have never entirely forgiven the walking away and have never entirely disagreed with the reasoning behind it either.**
 
 ---
 
 > *"Five children remembering one mother's voice, each one certain the others have gotten the tune wrong."*
+>
 > — Attributed to a Sunroot-era elegy, author lost to all five archives equally
 - [[Races & Peoples/The Elven Peoples/The High Empire of Eresse]]

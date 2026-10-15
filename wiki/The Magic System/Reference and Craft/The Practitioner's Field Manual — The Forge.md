@@ -12,7 +12,9 @@ verification: "unverified"
 
 *Being a working register of the Eight Families (the eight houses of magic, sorted by physics), and the Forge by which Abilities and Techniques are built at speed*
 > **Craft Companion, the Seventh Guide**
+>
 > ***Governs how magic is written. Does not govern what magic is.***
+>
 > *"The question was never how much power he has. It was what he is permitted to do with it, and what it takes out of him when he does."*
 
 ---
@@ -27,6 +29,7 @@ verification: "unverified"
 | **The Accounting Layer** | Level, Band, Stage, Grade, Tier of Standing, Aether Class (how much power survives the trip out through the Shell), EU (Essence Units, the measure of a reserve), η (efficiency, the share of spent power that does its work). **This settles what a practitioner can actually do and who wins.** It answers **how much.** ***Load it before writing, never abandon it while writing, and put its numbers on the page only through a mouth, an instrument, a document or a private count; its names may stand in any sentence*** |
 
 > **Both layers stay open. The generative layer decides what happens; the accounting layer decides whether it could have.**
+>
 > *Every outcome should trace to a specific row, and the author notes should say which. What the reader receives is behaviour and physics. What the numbers do is make sure the behaviour was earned.*
 
 ---
@@ -65,6 +68,7 @@ verification: "unverified"
 > He does **one operation** from his Family, at a **stated speed**, and it takes **something the reader can see** out of him.
 >
 > *The stamp and the counterplay can be filled in at the end of the pass without damaging the prose. The price cannot be added retroactively — because a cost the reader never watched get exacted did not happen.*
+>
 > **The gate the Forge does not list, because it is not a step.** A **Signature Technique** requires a matching Trait, and no amount of Stage, instruction or expenditure substitutes for one. The Trait is a structural prerequisite rather than an advantage: it is the law the working is an application of, and without it there is nothing for the technique to be an application of.
 >
 > *Which is the test for whether a signature has been invented honestly. Name the Trait it comes out of. If there isn't one, what has been built is a good technique belonging to nobody in particular.*
@@ -112,9 +116,11 @@ verification: "unverified"
 ## The Vow Clause
 
 *Ratified. Lives in Votia; sealed as Claustra.*
+
 **A practitioner may bind a technique under a stated condition, sworn into the Lattice or into their own Crystal. The narrower the condition and the heavier the forfeiture, the greater the output.**
 > *"Against those who deserve it" is not a vow. "Only against the Zettari, and if I break it my Crystal shatters" is a vow.*
 **Why it works.** The Core adopts the restriction as a standing law, and **Tempering Coherence measures the alignment between a practitioner's stated law and their lived behaviour.** Coherence is the structural prerequisite for Threshold eligibility. A vow kept therefore buys Coherence with conduct instead of expenditure, which makes it the cheapest advancement mechanism in the world and the one that clusters among people who cannot afford Drafts.
+
 **Why it kills.** A vow broken is a **Shear Break**. The Core has been running a law the bearer has now denied, and the law does not negotiate its own withdrawal. The orders treat a lapsed vow as a medical emergency and get to the disciplinary question later, if there is one.
 > **The disclosure variant is the useful one.** Stating a technique's true mechanism aloud, in the target's hearing, before use, **surrenders every advantage of surprise and increases output accordingly.**
 >
@@ -127,6 +133,7 @@ verification: "unverified"
 ## The Two Tests Before Presenting
 
 **The Collapse Test** · *If two techniques under one Ability share a Limitation, a Cost, and a Counterplay, they are one technique with two names. Collapse them.*
+
 **The Name Test** · Does the name tell you something true about who is using it? **The phenomenon itself, direct and unadorned.** *Ruin is Ruin. Gravity is Gravity.* **A name that could belong to any practitioner in the Continuum has failed.**
 
 ---
@@ -156,6 +163,7 @@ verification: "unverified"
 
 *Copy, fill, log. Fields marked † are mandatory for anything that will later resolve a conflict.*
 > **Name** · **Ability / Root Phenomenon** · **Trigger †** · **Function †** · **Verb** · **Rate** · **Mechanism †** · **Numerical Effect** · **Target Response** · **Limitation †** · **Weakness** · **Cost †** · **Vow** · **Counterplay †** · **Codex Stamp †** · **First Display †** · **Sensory Description**
+>
 > **Cross-reference.** This card is the workbook form and carries more than any single scene will use. **Mechanism is prose-legal and belongs on the page**: the phenomenon, the law being conditioned, the fault that falls out of it. What stays in the workbook is the form itself, the Codex stamp, and the arithmetic.
 >
 > *An entry the reader sees still leads with Effect, Cost, Limit and Counter, plus one line of what nobody knows. The mechanism is written into the effect rather than filed beside it.*

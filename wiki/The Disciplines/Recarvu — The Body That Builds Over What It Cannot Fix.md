@@ -33,6 +33,7 @@ verification: "unverified"
 
 > **There is no wound the body cannot survive if you are willing to let it grow over what it cannot fix.**
 Healing implies restoration — the broken thing returned to its prior state, the damaged architecture rebuilt to original specification. **Recarvu does none of this.**
+
 A broken arm stays broken; Recarvu grows a dense sheath of keratin-analogue around the break site, splinting it with tissue harder than the bone it encases. A severed hand does not regrow; Recarvu closes the stump with layered scar tissue, mineralised at the surface, sealed against infection, structurally sound enough to use as a blunt striking surface. **The hand is gone. What remains is functional.**
 > The philosophical core is that **repair is a luxury and survival is a material problem.** You do not need your body to work the way it used to. You need it to work the way it is. *Recarvu practitioners do not mourn lost function. They build over it and find out what the new shape can do.*
 
@@ -52,7 +53,9 @@ A broken arm stays broken; Recarvu grows a dense sheath of keratin-analogue arou
 ## The Three States
 
 **Passive · Vigour** · No focus, no activation. Verdantia runs continuously, converting ambient Essence into low-grade vitality. Recovery accelerates, the immune system runs hot, bruises metabolise in hours rather than days. *The practitioner looks healthy the way a well-watered plant looks healthy: not because they are undamaged, but because they grow continuously and the growth outpaces the wear.* **Costs almost nothing. Cannot be switched off without de-harmonising from Verdantia.**
+
 **Active · Directed growth** · Meristematic logic narrows to a single site and accelerates. Nails extend and keratinise into claw-like projections. Forearm dermis thickens stratum by stratum until it approaches cured leather. **The added material is organic — the practitioner's own tissue, grown on command.**
+
 **Intensive · Mineralisation** · Terranova takes over from Verdantia. Tissue calcifies, depositing hydroxyapatite along the growth front the way nacre deposits inside a shell. At the highest expression Materia Primordia engages and re-lattices the crystallographic structure toward ceramic or carbide composite. **The tissue is still alive. It is still fed by blood supply. It is also, by any structural test, closer to armour plate than to flesh.**
 
 ---
@@ -76,6 +79,7 @@ A broken arm stays broken; Recarvu grows a dense sheath of keratin-analogue arou
 ## Structural Limitations
 
 **Not healing** · A punctured lung gets scar tissue over the hole, not functional alveolar tissue. **The damage beneath every application is still there. It is simply buried under new material.**
+
 **One layer at a time** · Stacking requires the first to cure before the second begins, and **every application is visible** as a thickened, discoloured ridge. Three or more layers restrict joint range, degrade proprioception, and produce a dull persistent ache from compressed nerve bundles.
 > **Mass accumulation. Everything Recarvu adds stays.** Keratin sheaths, mineralised plates, density deposits, muscle growth — none of it is temporary.
 >
@@ -87,11 +91,14 @@ A broken arm stays broken; Recarvu grows a dense sheath of keratin-analogue arou
 ## Corruption Vector
 
 Vitalia's terminal corruption is **Biological Recursion**: growth and decay locked into a loop the practitioner can no longer interrupt. Recarvu sits on the growth side.
+
 A practitioner deep into the discipline has trained Verdantia to answer every stimulus, every stress, every injury the same way: **grow more.** The early symptoms are indistinguishable from competence. Faster scarification. Denser bone. Harder skin. More material between the practitioner and whatever is trying to kill them.
 > **The late symptoms are not indistinguishable from anything else.** Growth stops being directed. Tumours form at sites never targeted. Spurs emerge from joints never stressed. Keratin plates thicken past functional density and crack under their own internal pressure.
 >
 > The body, which Recarvu taught to grow on command, **has learned to grow without being asked** — and the practitioner discovers that Verdantia's failure mode was always the destination the discipline was pointed at.
+>
 > Used with discipline, Recarvu is a quiet, indefinite source of structural resilience that lets a body endure what should have ended it.
+>
 > Used without restraint, it is a body that no longer knows how to stop building, piling tissue on tissue on tissue, denser and heavier by the hour, **and the practitioner trapped inside a carapace of their own making that they can no longer shed.**
 
 ---

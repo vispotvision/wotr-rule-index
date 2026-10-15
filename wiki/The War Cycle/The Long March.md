@@ -14,6 +14,7 @@ verification: "unverified"
 > Issued jointly by the Logistics and Supply Division and the Strategic Division. **The vein schedules appended to the original are not reproduced.**
 > 
 > *Third of the War Cycle.*
+>
 > **Bread moves. Essence does not.**
 >
 > **Every strategic decision the Accord has ever made follows from those five words.**
@@ -23,7 +24,9 @@ verification: "unverified"
 ## The Two Supplies
 
 An army requires two things it cannot manufacture in the field, **and they behave in opposite ways.**
+
 The first is food, fodder, powder, iron and cloth. Heavy, dull, **and perfectly transportable.** They can be stockpiled, requisitioned, seized, spoiled and counted. **Their arithmetic is unforgiving and entirely soluble by anyone willing to do it.**
+
 **The second is Essence, and it cannot be supplied at all in the sense a quartermaster means.**
 
 ### Why Essence cannot be shipped
@@ -41,11 +44,15 @@ The first is food, fodder, powder, iron and cloth. Heavy, dull, **and perfectly 
 ## The Vein Map Is the Road Map
 
 *Show a competent Crown marshal the saturation survey and he can draw you the campaign without being told the objective.*
+
 Because practitioners replenish from veins and from nothing else, an army carrying practitioners is **chained to Wellspring geography in a way an ordinary army is not chained to anything.**
+
 Campaign routes run vein to vein. **The distance between usable veins sets the maximum operational reach of any force that intends to fight with practitioners at the far end of it.** A commander who marches four days past his last vein is marching an increasingly ordinary army, and **every day beyond that point he is closer to fielding twelve thousand people and no artillery.**
 > **Veins are objectives whether or not anyone wants them.** Half the sieges in the record are of places nobody valued, sited where they are because a vein is under them. **The town grew around the vein, the fort was built to hold the town, and four centuries later two armies are killing each other over a market square because of geology.**
 **Denial is cheaper than capture** · A vein does not have to be taken. **It has to be made unusable**, and a Sealwright team can foul a vein's usable output for a fortnight at a fraction of the cost of holding it. *The Accord's own law restricts this severely. The Accord's own forces have done it eleven times under Writ.*
+
 **Replenishment is slow and public** · Drawing from a vein takes hours, cannot be hurried, **and produces a signature the War-Priests of the opposing side can read at distance.** An army that is refilling **has announced where it is and that it is currently unable to fight.** *Interdiction of replenishment is the single most productive operation available to a competent staff and the least glamorous.*
+
 **Poor ground breaks coalitions** · Contingents that have marched past their last vein begin to argue about who gets the next one. **The Division's field manuals include a procedure for allocating vein access between allied contingents. The procedure has never worked.**
 
 ---
@@ -53,11 +60,13 @@ Campaign routes run vein to vein. **The distance between usable veins sets the m
 ## The Ordinary Arithmetic
 
 *Unchanged by any amount of metaphysics, and the reason most campaigns fail.*
+
 **A man** · Roughly a pound and a half of grain a day, more under load and in cold. Bread and biscuit keep; flour keeps better; **grain keeps best and requires mills, which is why armies capture mills.**
 > **A horse** · Roughly ten times a man's weight in fodder, **and this single figure governs everything.**
 >
 > Fodder is bulk, bulk is wagons, wagons need horses, and horses need fodder. **An army's transport eats its own cargo, and past a certain distance from the depot the wagons are carrying nothing but the food of the animals pulling them.**
 **March rate** · Twelve miles a day on road for a formed column. **Ten for the baggage**, which is why the baggage is always behind and **why an army that outruns its train is an army that will halt.** Off road, in weather, or through country that has been stripped — less, and sometimes nothing.
+
 **Water** · **Considered last and kills first.** An army standing still fouls its own water within days.
 
 ### Foraging and the fed-forward problem
@@ -78,6 +87,7 @@ Winter quarters are billeted on the countryside. **The army stops being an army 
 ### Why the Accord campaigns in winter anyway
 
 **Because the vein does not care what season it is**, and a force willing to accept the fodder cost can reach an objective in the months when nobody expects a force to be able to reach anything.
+
 **Three of the Legion's four decisive campaigns were winter campaigns.** The Division's own accounting notes that the objectives were taken, **that the horse establishment was destroyed in each case, and that the replacement of horses took longer than the replacement of men.**
 
 ---
@@ -85,17 +95,20 @@ Winter quarters are billeted on the countryside. **The army stops being an army 
 ## Field Alchemy
 
 *What can and cannot be produced on campaign, and why the answer is less than commanders assume.*
+
 The Long Furnace does not move. Neither does a certified circle, a sealed workshop, a coil, **or a Measurewright's reference salt.** The consequence is that **a campaign column can produce nothing above the third tier and can assay nothing at all.**
 > **WHAT TRAVELS**
 >
 > Wick-Salt · Cutwater Tincture · Bone-Grey Compress · Deadlight Phials · Grey Standing Chalk.
 >
 > *Household and field stock, made elsewhere, carried sealed, used and discarded*
+>
 > **WHAT CAN BE MADE IN A COLUMN**
 >
 > Repairs, dressings, luting for what is already assembled, **and the re-sealing of stock whose seals have failed in transit.**
 >
 > *Nothing that requires sustained heat or a standing*
+>
 > **WHAT CANNOT**
 >
 > Everything reserved above Tier Four, all Threshold work, **and every Conjunction.**
@@ -108,7 +121,9 @@ So the alchemical arm of a campaign is **a distribution problem rather than a pr
 ## Unresolved Entries
 
 **Transit loss** · Sealed stock loses at a rate the assay houses can predict and no workshop can prevent. **Four sealing improvements have been entered in the last century. The rate has not moved.**
+
 **Vein denial under Accord law** · Restricted severely, done eleven times under Writ. Whether the restriction binds contracted companies operating on Accord commission is **the same unexamined question raised in the Order of Battle and has the same answer, which is that nobody has asked.**
+
 **Allocation between contingents** · The procedure exists. **The procedure has never worked.** No replacement has been drafted.
 > **Whether a practitioner can be refilled from a Crystal** · Not from a vessel, not from a barrel, and not from another living practitioner by any lawful means.
 >

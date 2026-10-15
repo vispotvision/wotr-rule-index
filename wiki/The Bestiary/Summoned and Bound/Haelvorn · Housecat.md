@@ -90,11 +90,17 @@ verification: "unverified"
 ## VI · Physical Description
 
 It stands a little over two and a half metres at the shoulder on all fours and the proportions are wrong in a way that reads immediately even to people who could not say why. The forequarters carry perhaps two thirds of the mass. The shoulders and forelimbs are enormous, slabbed, built for pushing and for holding still against a load, and the hindquarters taper away behind them almost apologetically. Total mass runs near eleven hundred kilograms and almost none of it is in the back half. It is a body designed to arrive somewhere and stop.
+
 The coat is white going to blue in the hollows, and the blue is not pigment. It is depth. Light entering the outer guard hairs scatters short and comes back cold the way glacier ice does, and photographs of it, on the two occasions the Accord has managed one, come out looking retouched. Along the flanks, the shoulders and the outside of every limb run broad grey-blue bands, and the bands are frost-scar. Tissue that has been frozen and thawed and frozen again does not heal evenly, and the damage propagates along the fascia planes, which is why the banding is regular and why it looks deliberate and why three separate cultures have independently assumed it was applied by a hand. It was not. It is what happens to a body that lives at the exhaust end of its own working.
+
 The head is wolf and the snarl is permanent, because the lips have retracted from repeated freezing and no longer close over the teeth. The teeth themselves are the wrong colour, closer to horn than enamel, and the two upper canines have hairline vertical cracks running from the gumline that have not propagated in nine years of observation and that Rimsang checks every time she braids. The eyes are pale, almost colourless, and the sclera shows all around them, which is why every witness account uses the word *staring* and why almost every witness account is wrong about what it was looking at.
+
 Down the spine from the crown runs a single plait, thick as a forearm at the neck and tapering, laid in a five-strand round braid that the Waymark Guild does not teach and that Rimsang learned from a rope pattern. Bound into it at intervals are five iron rings, Guild-forged, blackened, each one closed around the braid so it cannot be drawn off without cutting. Four of them are shut. The fifth, nearest the shoulders, is open, its ends a finger's width apart and never joined, and every Dawi who has ever seen the braid has understood exactly what an open ring in a sequence of closed ones means and not one of them has asked her about it.
+
 The forepaws are broad enough to spread eleven hundred kilograms across snow that will not hold a Dawi, and the claws are black and glassy and refract at the tips. Where the coat breaks at the shoulders and the elbows, vapour comes off it and freezes as it goes, so that in cold weather the thing appears to be smoking upward and in warm weather the plume falls, sheets down the flanks and pools at its feet, and nothing about the sight is reassuring in either season.
+
 The approach is dry before it is cold. Within four paces the dewpoint collapses and the water goes out of the air first, so lips split, eyes sting, and every exposed surface takes a coat of hoarfrost inside about ten seconds, and only after all of that does the temperature arrive. Sound sharpens instead of dulling, because cold dense air carries it better, so a shout at the far end of a field lands with a clarity that soldiers describe as being spoken to. It has no smell of any kind, and dogs put near it do not react to a predator, they react to a hole. Where it has stood, frost flowers open in a radiating disc a pace wide, feathered and structural, and in high summer they last about twenty minutes.
+
 Rimsang Halfyear is legible in every part of it. A guide's construct: mass in the front for hauling and holding, feet for bad ground, a body that knows what a surface will bear, no offensive architecture anywhere on it, and a snarl it did not choose and cannot put away.
 
 ---
@@ -102,8 +108,11 @@ Rimsang Halfyear is legible in every part of it. A guide's construct: mass in th
 ## VII · Temperament and Voice
 
 It speaks, and it asks questions. That is the whole of the register. Not rhetorical ones and not leading ones, and it waits for the answer every time however badly timed the asking is. The vocabulary runs to comfort, footing, and weather, and the subject it will not raise is what it is doing to her, which it has never mentioned and which she is certain it knows about to the tenth of a degree.
+
 The questions are short and courteous to a degree that reads as parody until you have stood next to it. *Is the ground good?* *Are they all across?* *Are you warm?* That last one is the one the Guild has learned to dread hearing, because it only asks it when the answer has already gone wrong.
+
 Its signature line, on every record where anyone was near enough to catch it, is **"May I lie down?"** It asks this before the Floor, every time, and it asks it in the middle of engagements, and it does not proceed until she says yes. Four separate Accord observers have described the effect of hearing a T8 entry request permission to lie down in the middle of a rout, and none of the four found a professional way to write it.
+
 Under strain it stops asking. The register goes declarative and the first flat sentence out of it is the warning every Passwarden who has worked beside it has been told to listen for. What it says at that point is almost always a number, and the number is a distance, and it has never been wrong about the distance.
 
 ---
@@ -112,79 +121,147 @@ Under strain it stops asking. The register goes declarative and the first flat s
 
 - ****THE INTAKE** · *Signature · Vocatia-Native · Extraction***
   **Glyph Basis:** [Ra] Flame, igniting creative power and heating blood and Essence · [Wy] Motion, adding momentum and converting stasis into movement · [Ve] Desire, amplifying intent through longing
+
   *"Calorem tuum mihi da."*
+
   Give me your heat.
+
   **Trigger:** It opens its mouth. There is no spoken component from Rimsang and no gesture, and the only tell is the humidity.
+
   **Function:** It removes heat from everything in front of it and does not put it back.
+
   **Mechanism:** Thermodynamics, and the honest version rather than the flattering one. It generates no cold, because cold is not a thing that can be generated. It is a sink, and Exuroth opens the gradient, and enthalpy runs down that gradient into the construct by conduction, convection and radiation all at once and in that order of contribution. The clean Aether Shell conducts nearly all of it onward, and the great majority discharges into the Continuum. Roughly one part in three hundred does not. That part runs the tether and arrives in Rimsang's body as heat, because there is nowhere else in the system for it to be.
+
   **Numerical Effect:** Cone of about thirty metres, twelve metres at the base. Ambient inside it drops on the order of forty-five degrees Celsius in four seconds. Water in any state present goes to ice, including standing water at depth and including water inside things. Convection stops, so open flame inside the cone will not draw and goes out without being extinguished. Somatic return to the summoner runs a core-temperature rise near three and a half degrees over a sustained draw, against a body that begins at thirty-seven and stops working somewhere past forty-two.
+
   **Target Response:** Nobody freezes to death. It is far too fast for that and the deaths are mechanical. Plain and low-alloy steel passes its ductile-to-brittle transition somewhere between twenty and sixty below, and a blade at fifty below does not bend when it is parried, it fails, and it fails into fragments at the speed the swing was carrying. The first Thinbreath filing is mostly a list of men killed by their own weapons and their neighbours'. Mail behaves worse than plate and plate behaves worse than nothing. Exposed skin takes full-thickness cold injury in under ten seconds and the casualties who live lose the parts they were holding things with.
+
   **Limitation:** It is a cone in front of a mouth. It cannot be turned without turning the animal, it cannot be projected around a corner, and there is no version of it that reaches a target the construct is not facing.
+
   **Weakness:** For the whole draw, the exhaust is landing in Rimsang, and any competent Perception read finds her instantly because she is the hottest object on the field by a wide margin and getting hotter. She has been located this way three times and shot at twice.
+
   **Cost:** Physical toll, escalating, and the least deniable cost in the register. She has taken her core past forty-one twice and lost consciousness both times. The permanent damage is on the left side, where the thermoregulatory failure settled: that half of her no longer sweats, and she carries it in warm weather the way other people carry a bad knee. The Guild's physician's note in the file says she has perhaps four more sustained draws in her and has said so for two years.
+
   **Vow:** None sworn. The Guild has twice proposed one and she has declined on the grounds that a vow would make the arithmetic somebody else's business.
+
   **Counterplay:** Do not stand in front of it, which is unusually achievable because the animal is slow to turn and the cone is visible from outside as a wall of hoarfrost. Beyond that: mass and moving air both defeat it, because a large enough thermal reservoir or a strong crosswind restores what the draw removes faster than the draw can take it. A burning building is functionally immune. So is a river in flood. So, awkwardly for the Accord, is a battle already on fire.
+
   **Codex Assignment:** [Ra] · [Wy] · [Ve] · Exuroth primary, Basilithe secondary · Caloria · Thermodynamics. All three glyphs attested at Caloria.
+
   **First Display:** Not in a fight. A waystation stove, a pot boiling over, the construct putting its head through the door and the pot going still and grey and solid between one word of an argument and the next. Everyone laughs. Rimsang leaves the room and does not come back for a while and nobody follows her.
+
   **Sensory Description:** The dry hits first and everyone's lips split at once. Hoarfrost climbs whatever is nearest, upward, against sense. The fires bow down and go out without smoke. Rimsang's face goes red and stays red, and she opens her collar, and in the worst of it she goes to one knee in snow with her palms flat on it and does not get up until it is over.
+
   **Interactions:** Cannot be run while the Span is setting, because the same gradient cannot do both. Fills the rings as a byproduct of every use, which is the only reason the rings ever have anything in them.
+
   **Corruption Vector:** An Obsession-Force Intake does not stop at ambient. It keeps opening the gradient after there is nothing left to take, and it takes from the summoner too, and the exhaust and the draw meet in the same body.
 - ****THE SPAN** · *Utility · Vocatia-Native · Phase Change***
   **Glyph Basis:** [Grv] Gravity, a weight-calibrated span holding heavy transit · [Py] Pyre, pinning a mark to a fixed point · [Slg] Slag, melting and re-fusing a seam into a stronger dovetail
+
   *"Transeant omnes, et pondus ferat."*
+
   Let them all cross, and let it bear the weight.
+
   **Trigger:** It walks into the water and stands. Rimsang speaks the certification aloud, in Guild form, with the load rating stated, and the rating she speaks is the rating she gets.
+
   **Function:** It freezes a crossing and Basilithe rates it, and the rating holds.
+
   **Mechanism:** Thermodynamics for the phase change, Material Science for the result. Running water is the hard case, because convection keeps hauling fresh warmth into the gap faster than a static sink could clear it, and the construct answers by standing in the flow and taking the heat out of the water passing it rather than the water in front of it. Basilithe then does what Basilithe does to any structure and the ice sets with grain aligned to the load path instead of the freeze front, which is the entire difference between ice and a bridge.
+
   **Numerical Effect:** Up to about twenty-five metres of span across moving water, wider across still. Deck thickness comes in between forty and sixty centimetres, against the rough field standard where ten centimetres carries a person and thirty carries two tonnes. Rated spans have taken loaded carts. Setting time runs eleven to fourteen minutes on a river and under three on a lake. The Guild has load-tested nine of them and has yet to break one at the stated rating.
+
   **Target Response:** Nothing, because it does not have a target. It has a bank on the other side. The response worth recording is the pursuing force's, and the record is consistent: they cross it too.
+
   **Limitation:** It cannot span anything the construct cannot stand in. No gorges, no chasms, no dry ground, and nothing over salt water, where the depression of the freezing point puts the required draw past what one Intake can deliver before the summoner cooks.
+
   **Weakness:** A Span is a permanent, mapped, physical fact for as long as the cold lasts, and it tells anyone who finds it exactly who was here, which direction they went, and how many of them there were, because the Guild certification is spoken into it and reads to any Judicium harmonization like a signature on a document.
+
   **Cost:** Social and legal, and it is the cost that has actually ruined her. Two of her spans have been walked by forces she did not lay them for, and one of those reached a Windward drover settlement it should not have been able to reach in that season. The Guild has not revoked her certification. The Guild has said nothing at all, which under Waymark procedure is worse than revocation and everyone involved knows it, and the toll-right she still technically holds is now honoured in three holds out of eight.
+
   **Vow:** None.
+
   **Counterplay:** Wait. It melts. Beyond that, the Span is the single most exploitable thing in the entry, because it is infrastructure and infrastructure is neutral: a competent opponent does not deny the crossing, they let it be built and then use it, and the construct will not unmake a Span while anything is still on it, including them.
+
   **Codex Assignment:** [Grv] · [Py] · [Slg] · Exuroth primary, Basilithe secondary · Caloria with declared Materia crossover · Thermodynamics and Material Science. [Grv] Gravity carries a Basilithe-Materia-Material Science row and is drafted here on the declared secondary rather than on the primary, which is legal and is noted so no reader files it as an error.
+
   **First Display:** A stream a child could jump. Rimsang certifies it anyway, aloud, in full Guild form, with a load rating, for a party of four who did not need it, because the form is the form. Somebody laughs at her. She finishes the recitation.
+
   **Sensory Description:** The water goes quiet from the middle outward. It does not stop moving all at once; it thickens, and the sound of the river drops out of the world in stages, and the last thing to go is the ripple noise at the banks. The construct stands in it to the chest and does not shiver. Rimsang says the rating with her hands behind her back and her weight even, which is the posture the Guild teaches for a certification and which she has never once broken.
+
   **Interactions:** Locks out the Intake while setting. Runs alongside the Floor without conflict, and the two together are how the Thinbreath crossing was held for eleven days.
+
   **Corruption Vector:** An Obsession-Force Span does not end at a bank. It keeps going, certifying ground nobody asked for a route across, and the routes it lays go to places that had been safe specifically because there was no way to reach them.
 - ****THE FLOOR** · *Control · Vocatia-Native · Stratification***
   **Glyph Basis:** [Eith] Flux, controlled unpredictability breaking rigidity · [Py] Pyre, pinning a mark to a fixed point · [Sv] Sever, cutting a thread from a living host
+
   *"Nihil hic ascendat."*
+
   Let nothing rise here.
+
   **Trigger:** It asks permission and lies down. Both halves are required and the asking is not ceremonial; the working does not initiate until she answers.
+
   **Function:** It builds a layer of cold dense air along the ground and holds it there, and inside that layer nothing rises.
+
   **Mechanism:** Thermodynamics, stratification. Cold air is denser than warm air, so a sufficiently strong ground-level chill pools rather than mixing, and the Pyre glyph pins the pool to the mark instead of letting it drain downhill. What results is a stable inversion: a lid of warm air sitting on a floor of cold one, and the boundary between them does not turn over. Convection inside the layer stops, and every process that depends on convection stops with it.
+
   **Numerical Effect:** Radius forty to sixty paces from the animal, depth roughly to mid-thigh on a Concord human and to the chest on a Dawi, and the depth is the awkward part. Holds for as long as it stays down. Ambient inside the layer sits some twenty-five degrees under the air above it, which is not lethal and is not meant to be.
+
   **Target Response:** No open fire will draw inside the layer, at all, from any source, because a flame needs the hot gas above it to rise and take its place. Torches gutter, lamps die, powder charges fizzle and do not carry, and every Caloria practitioner in the radius finds their ignition working correctly and producing nothing. Smoke does not rise; it lies down and spreads and blinds people at knee height. Feet and lower legs go numb in about a minute and clumsy in about three, and the casualty reports read as an unusual number of broken ankles. Scent pools, so hounds are useless. The layer is not a killing field. It is a room in which several things that were about to happen simply do not.
+
   **Limitation:** It is ankle-to-thigh deep. Anything above that height is entirely unaffected, which means archery is unaffected, cavalry above the layer is unaffected, and any working that does not require convection or a flame proceeds normally.
+
   **Weakness:** The animal is lying down, in the open, in the middle of it, and it will not get up until she tells it to, and everyone can see exactly where it is.
+
   **Cost:** Physical toll on whoever tends the rings afterward, which is the cost the Floor shares with everything else this construct does and which is treated in full below. The Floor's own particular cost is that Rimsang must say yes. It asks, and she answers, and she has answered yes on two occasions where the layer went down over her own people's fires on a night that was already cold, and both times she was correct, and both times four or five people who did not die in the fighting nearly died of the night instead. She does not discuss it and the file does not either.
+
   **Vow:** None.
+
   **Counterplay:** Get above it. Ladders, walls, saddles, a table. The layer has a top and the top is at thigh height, and a competent opponent stops fighting on the ground and starts fighting off it. Failing that, strong wind destroys the stratification outright in under a minute, and any sufficiently large heat source inside the radius punches a chimney through it that the layer cannot close.
+
   **Codex Assignment:** [Eith] · [Py] · [Sv] · Exuroth primary, Basilithe secondary · Caloria · Thermodynamics. All three glyphs attested at Caloria.
+
   **First Display:** A camp. A bad night, a wet fire, a dozen tired people, and the construct lying down without being asked so that the smoke stops going up the valley where it would be seen. The fire dies too. Nobody connects the two things for another year.
+
   **Sensory Description:** The fires shrink and settle and go out from the base upward, which is backwards and is the thing witnesses fix on. Smoke rolls out flat and lies on the ground and moves like water. Breath fogs at the wrong height. The construct puts its chin on its forelegs and closes its eyes, and it looks, in the middle of all of it, exactly like an animal that has been walking all day.
+
   **Interactions:** Compatible with everything. The Intake fired from inside the Floor gets a measurable boost because the starting ambient is already down. The Span holds longer under a Floor and this is how an eleven-day crossing is possible at all.
+
   **Corruption Vector:** An Obsession-Force Floor does not stop at thigh height and does not stop at a radius. It keeps stratifying outward and downward until it reaches the point where nothing in it rises at all, including the people, who are still breathing and are no longer able to stand up out of it.
 - ****THE RINGS** · *Discharge · Vocatia-Native · Radiant Release***
   **Glyph Basis:** [Fge] Forge, alchemically binding two materials at a soul-thread level · [Ig] Ignite, the spark occurring only when a chosen outcome opens · [Py] Pyre, pinning a combusting mark to a fixed point
+
   *"Redde quod sumpsi."*
+
   Give back what I took.
+
   **Trigger:** She shows it a target. Physically, by looking at the thing and putting a hand out, and the construct will not discharge into anything it has not been shown first. Then one ring opens.
+
   **Function:** It gives back, all at once, a portion of what the Intake took.
+
   **Mechanism:** Thermodynamics, storage and release. The fraction of extracted enthalpy that the Shell does not pass to the Continuum and does not pass to Rimsang is bound into the closed rings by the Forge glyph, held at soul-thread level rather than as any physical hot object, which is why the rings are cold to the touch and why nobody working it out from first principles believes the Guild's account. Ignite opens the chosen ring only. Release is radiant rather than convective and therefore effectively instantaneous and effectively unblockable by anything that is not opaque.
+
   **Numerical Effect:** Each closed ring holds on the order of four megajoules, which the Guild's own reckoning renders, for people who need it in terms they can picture, as a little under a kilogram of blasting powder. Discharge goes out as a forward hemisphere of about five metres. Across that face the delivered flux runs near ten joules per square centimetre, which is the threshold for full-thickness burn at short exposure, and the calculation is the Guild's and has been checked.
+
   **Target Response:** Everything facing it within five metres burns through the full thickness of the skin in the time it takes to register that something happened. There is no blast and no pressure wave and nothing is thrown, which is why survivors' accounts are so consistently useless: they report a light and then the injury, with nothing in between. Behind cover is genuinely safe. Behind a person is genuinely safe. It is the most survivable thing in the entry provided there is anything at all between you and it.
+
   **Limitation:** Four discharges exist, total, and only four, and they refill only through Intake use. There is no version of this ability that works on a construct that has not first been made to take heat from somewhere.
+
   **Weakness:** An open ring is visible on the braid at a hundred paces and anyone who has read this entry can count how many she has left from outside bow range.
+
   **Cost:** Physical toll on the braider, which under Guild practice and construct preference means her and nobody else. A discharged ring must be re-closed and re-braided by hand into a mane that sits, at rest, some thirty degrees under ambient, and it takes between four and six hours with bare fingers because gloves cannot manage the strand work. She has lost three fingers on the left hand and the last joint of the right thumb. The fifth ring has been open for two years. The Guild's file records it as an incomplete oath and the Guild is not wrong about what an open ring means, and she has never corrected the record, and the truth is that she can no longer close it because she does not have the hand for it any more.
+
   **Vow:** Not sworn and structurally unswearable, per her own filing, on the grounds that a Dawi cannot swear on a ring she cannot close.
+
   **Counterplay:** Cover, and almost anything counts. Beyond that: cutting a closed ring off the braid discharges it uncontrolled at the point of cutting, which has been done once, deliberately, by someone who knew exactly what it would do and did it anyway, and the Guild has that person's name and has never released it.
+
   **Codex Assignment:** [Fge] · [Ig] · [Py] · Exuroth primary, Basilithe secondary · Caloria · Thermodynamics. All three glyphs attested at Caloria.
+
   **First Display:** A frozen lock on a waystation door in a bad wind, four people outside it, one ring opened at a distance of half a metre onto an iron plate, the door open before anyone finishes complaining. Nobody present understands they have watched an incendiary.
+
   **Sensory Description:** The ring opens with a sound like a small bell and the sound arrives after the light. There is no heat felt at the construct's end at all and the mane does not stir. Rimsang's outstretched hand stays out until it is done, and afterwards she looks at the braid rather than at what she has just pointed at.
+
   **Interactions:** Depends entirely on the Intake for ammunition. Cannot be used inside her own Floor without punching a chimney through it and collapsing the stratification, and she has done this once on purpose to open a way out.
+
   **Corruption Vector:** An Obsession-Force Rings does not require being shown a target and does not open one ring. It opens all of them, at whatever is nearest, and there is no procedure for closing rings that were emptied without a hand consenting to it.
 
 ---
@@ -203,8 +280,11 @@ Under strain it stops asking. The register goes declarative and the first flat s
 ## X · Corruption Vector
 
 Attraction Force answers by recognition. Haelvorn comes because someone is going somewhere and it makes a way and then it leaves, and the sum of its consent is that it asks before it lies down.
+
 The Obsession-Force inversion does not need a road. It makes them anyway. It certifies routes nobody requested, to places that were safe because they could not be reached, and it does not ask before it lies down because there is no longer a party whose comfort is the point. The Intake stops distinguishing between the field and the summoner, and the exhaust and the draw arrive in the same body, and the arithmetic of that has one solution.
+
 The compelled version also stops requiring a hand. The rings are the tell and they are the whole tell: a lawful Haelvorn cannot refill or reopen a ring without someone consenting to sit in the cold for six hours and pay for it in fingers, and that requirement is not a mechanical limit, it is the last thing standing between the construct and unlimited discharge. An Obsession-Force Haelvorn closes its own rings.
+
 Every Passwarden who has read this entry has arrived at the same objection and it is entered here because it is correct: the described inversion is a great deal easier to reach than the register's phrasing implies. It requires only that a guide stop having anywhere in particular to go.
 
 ---
@@ -212,6 +292,7 @@ Every Passwarden who has read this entry has arrived at the same objection and i
 ## XI · Counterplay
 
 On seeing it arrive, get above the ground and out of the cone, and understand that the animal is not the problem. Nothing in the kit tracks, nothing in it is fast, and the construct has no offensive architecture of any kind that is not borrowed from the Intake's leftovers. It is a piece of infrastructure with teeth it does not use.
+
 Of the three recurring vulnerabilities, one applies hard, one is decisive, and one is nearly useless. **Separation from the native Wellspring** is decisive but rarely available, because Exuroth is an ordeal Wellspring and ordeal is not a place. **Essence-dampening** applies hard and is the correct standing answer, since dampening the tether does not stop the Intake but it does close the Continuum discharge, and closing the Continuum discharge routes the entire return into Rimsang, which ends the engagement in under a minute by ending her. The Arbitration Division's field guidance recommends this. It is worth writing down plainly that the Accord's standard answer to its own registered asset is to make its summoner die of the working, and that the guidance has been distributed to units who have never been told what it does. **Radiant current** is nearly useless here and is the exception to the register's general rule: a Luminalis working aimed at this entry supplies energy to a sink, and the sink takes it.
 > **The real counter is arson.** A large enough fire inside the radius defeats every ability in the kit at once. It outpaces the Intake's draw, it punches a chimney through the Floor, it thaws a Span, and it puts the construct in the position of taking on more heat than the tether can move, which the tether resolves by moving it into her. Three separate forces have worked this out independently and the fact that it works is the reason the Kegshard filings exist.
 Signature legibility applies and is unusual in shape. The construct itself is nearly silent to a resonance read and the summoner is not: during a draw she is the brightest thermal object on the field, and any competent Perception harmonization finds her without effort. Everything about this entry that can be exploited is exploited through her.
@@ -221,8 +302,11 @@ Signature legibility applies and is unusual in shape. The construct itself is ne
 ## XII · Attested Encounters
 
 **The Halfyear Certification**, Waymark Guild record, complete and uncontested. The original route: a saddle crossing that exists between the fourth and eighth months and does not exist otherwise, certified by Rimsang alone, per Guild requirement, with the construct present. The Guild's own record is dry and administrative and runs to two pages of load ratings. The byname comes from this document and was not intended kindly.
+
 **The Thinbreath Saddle**, Accord Archive and Guild record, and the two do not agree about anything except the dates. Eleven days, a Span held under a Floor, a crossing that the Windward and Tallow accounts each describe as having been laid for the other side. The Accord's filings from this engagement are what triggered the ordnance reclassification. Norbu Waymark, senior guide of the waystation, is recorded as having certified the Guild's version of the account, and nothing further about his role is entered here because nothing further is established.
+
 **The Kegshard Relief**, Accord Archive, Arbitration Division report, dated. The refusal to close on a column three days without fire, and the failed relief that followed. The Division's assessment is that the Refusal Conditions in Section V constitute an unacceptable operational limitation. The dissenting note appended by the Concordia reader present argues that the construct declined to take heat from people who had none, states that this is the same clause that has kept it from killing its own summoner, and asks the Division to consider whether it would like that clause removed.
+
 **The Cut Ring**, no record anywhere. Field accounts, five of them, from two companies and one waystation, agreeing that a closed ring was cut off the braid at contact range by someone who knew what would happen. They disagree on who. The Guild holds the name and has released nothing, and the only reason the register is confident the name exists is that the Guild has twice declined to say it does not.
 
 ---
@@ -231,10 +315,17 @@ Signature legibility applies and is unusual in shape. The construct itself is ne
 
 > **RULED, Isaac, 2026-09-12: one Wellspring, not two, and the frost is not it.** `Fracture_of_Worlds.pdf` lists **Cymorath**, the Air of Ascent, under **Fulguria**: temperance through freedom, motion as devotion, strengthening Dexterity Celerity and Gnosis Cartography. `The_Master_Codex.xlsx`'s **Crymorath** entry, spelled with the r, was the duplicate — struck. Cymorath is the canonical spelling and portfolio going forward, and every wiki page carrying the misspelling has been swept to match (2026-09-12). **Resolved, same day:** the portfolio clash the spelling fix exposed is closed. The struck entry's own content — the two frost glyphs, **[FrTh] FrostThrone** (sovereign stasis over a Domain) and **[ObsG] Obsidian-Glacier** (frozen-dark plates surging through terrain) — and everything the downstream pages built on it as a working frost Wellspring, Draven Kael Vorrick's techniques, Sodoku Moto's Arctic Lion configuration, the Material Ledger's cold rows, is re-homed on Vohrin, the Abyssal Depths Titan that FOW III already names as the thermal-extraction signature: Family Caloria, Physics Domain Thermodynamics, Titan-keyed. Cymorath is the Air of Ascent exactly as Fracture of Worlds gives it, freedom and motion, Dexterity Celerity and Gnosis Cartography and Perception, and nothing else. Nothing on the FOW canon pages changes. This entry drafted its own cold out of Caloria and touched neither, and the ruling says that was the right shape: there is no dedicated frost Wellspring, cold is heat run backward, and the pages that had been calling it Cymorath now call it Vohrin.
 **No cold Wellspring exists, and the entry treats that as intentional.** FOW defines Caloria as heat and its absence and the transfer between them, thermodynamics, where creation and destruction run the same current. Read straight, that means WOTR has no ice magic and never did, only fire pointed the other way, and this entry is built on that reading all the way down: every glyph in the chain is a fire glyph and the summoner's harmonization is the Trial Flame. If the intended canon is that a dedicated frost Wellspring exists and is simply unwritten, say so and the entry needs re-drafting from the ground rather than patching. Ruled 2026-09-12, see above: the reading holds. The cold lives under Caloria on Vohrin's Titan key, and no dedicated frost Wellspring is coming.
+
 **Rimsang Halfyear is an origination and closes a flagged gap.** `THE_DAWI_PEOPLES_REVISED.docx` states that naming registers for the five new branches are first-pass constructions, provisional until tested against a second named character each. Norbu Waymark was the Passwardens' first. Rimsang Halfyear is the second, built through the Naming Guide's four passes on the branch's Sherpa route-keeping anchor: given name in the established two-syllable register, Guild byname earned at certification rather than at birth, and the byname mildly cutting in origin per the guide's byname permission, since a route that exists four months a year is half a route. If Isaac accepts her, the Passwarden register can be marked tested and that line comes out of the Flagged Gaps section.
+
 **Her Exuroth harmonization is deliberately atypical and needs confirming.** The branch profile is Basilithe primary, Fixatio strong secondary, Judicium accessible. Exuroth is not on that list. Unlike the High Dwarves, who are written as *rejecting* certain Wellsprings outright, the Passwarden entry states a typical profile rather than a lock, so an individual harmonization outside it should be legal. The entry treats the anomaly as characterisation rather than error, and the whole construct depends on it. If branch profiles are meant as locks, this falls over.
+
 **EU figures unverified, again.** Call cost given as 6% of reserve. No Band-by-Band reserve table exists in FOW and Mu-jin's 850,000,000 at Level 430 remains the only fixed anchor, so no absolute EU number appears anywhere in this entry. Needs a reserve figure set for Rimsang before it can carry one.
+
 **[Grv] Gravity is drafted on the secondary, not the primary.** Its Codex row is Basilithe, Materia, Material Science, and Basilithe is this construct's declared secondary Wellspring, so the assignment is legal as written and no amendment is pitched. Noted only so a future reader does not flag it the way Deadweight's [Abys] was flagged on the Mule's entry before the Codex amendment of 2026-09-12 took it.
+
 **The Accord's dampening guidance is a plot device with no ruling behind it.** Section XI records that the Division's standard field answer to this entry kills the summoner and that the guidance has gone out to units who were not told. That is either a deliberate Arbitration Division position, an act of institutional carelessness, or something one named officer decided, and the three readings produce very different stories. Isaac's call on which.
+
 **Four abilities rather than three.** The blank template shows three toggles. This entry runs four because the Intake, the Span and the Floor are all non-offensive and the Rings are the only thing in the kit that hurts anybody, and cutting any of the four leaves the construct either toothless or purposeless. If the register wants a hard three-ability ceiling, the Floor folds into the Intake's Target Response with real losses.
+
 **Comparison to the Mule is invited and unwritten.** Two Native forms in the same register, one Consenting and one Sovereign, one accreting and one Refined, one that carries the dead and one that gets people across alive, and both of them costing their summoner a body part they will not get back. Whether Rimsang Halfyear and Kwon Hae-ryu have ever been in a room is an open question and the answer is a good scene.

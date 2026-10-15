@@ -12,7 +12,9 @@ verification: "unverified"
 
 *A Reader's Grammar of the Written Tongues · compiled for the Guild Accord Division of Alchemetrica*
 > **Fourteen hands · one lattice · one root**
+>
 > *"There is one script. There have always been fourteen ways to be wrong about that."*
+>
 > — attributed to a Measurewright (a certified assessor of practitioners and workings) of the Vaulted Ring, name struck from the record
 
 ---
@@ -35,8 +37,11 @@ verification: "unverified"
 ## What a Hand Changes and What It Does Not
 
 *The question every apprentice asks in the second week, answered badly by most instructors.*
+
 A glyph creates nothing. **The Wellspring (a standing current of natural law in the Aether)'s law was already running, and the glyph is a boundary condition imposed on it.** The boundary is set by the traced path, and the path is the same path in all fourteen hands, because all fourteen trace one lattice.
+
 **So a hand does not change the working.** A ward cut in Old High Runic and the same ward struck in Old Vaross impose the same condition on the same law and produce the same effect. This is why the Accord can enforce a writ across eleven hundred leagues and why a Chancery notary and a Barrel Dawi cooper are arguing about the same instrument even when neither can read the other's page.
+
 **What a hand changes is everything around the working.**
 
 | What the hand decides | Why |
@@ -56,7 +61,9 @@ A glyph creates nothing. **The Wellspring (a standing current of natural law in 
 ## Parun
 
 *The Lawful Root*
+
 **Not a language in the sense that a mother sings to a child in it.** It is the grammar the Continuum (the whole lawful order of reality) reads, **and it has no register below the legal one.**
+
 A Parun sentence names who is speaking, what ground the speech covers, which way the working runs, and how it is to end — **and it does this whether it is chalked on a barn door or held internally by an Archmagus who has not moved his hands.**
 > **Every hand that follows is Parun with one thing done to it.** Change the tool, change the surface, change what the writing is for, **and the same traced path comes out the other side unrecognisable to anyone but a scholar.**
 >
@@ -70,14 +77,17 @@ A Parun sentence names who is speaking, what ground the speech covers, which way
 ### Old High Runic
 
 *High Dawi · the sacred hand*
+
 **A chisel driven into granite will not make a curve.** It makes a straight segment and then another one, **and the mason's wrist has eight bearings available to it and no more.** Old High Runic is Lattice Tongue put through that constraint for four thousand years: **every arc squared off, every terminal blocked, every glyph resolved onto the compass.**
 > The Temple of Inscription runs seventy years on a single theorem cut in this hand, **and the discipline is not the theorem. It is the cutting.**
+>
 > *High Dawi will tell you the hand is slow because truth is slow. What they will not tell you is that they have never found a way to make it faster and have stopped considering that a failure.*
 **Legibility** · Read by any trained Parunist. **Cut correctly by almost no one.**
 
 ### Barkstone Tally
 
 *Barrel Dawi · the working hand* · **plate 03 available**
+
 **A knife on a cask stave cuts with the grain or it splits the stave**, so the Barkstone hand gave up on the second dimension entirely. The whole path collapses onto one stem **and every turn in it becomes a barb cut off that stem** — above it, below it, or straight across. *It reads downward, the way a stave stands.*
 > **The trap is that the barb angles are not decoration. They carry duration**, which in a brewing hand is the load-bearing quantity — and a Grand Brewmaster reading a forty-year cask ledger **is reading time off the slant of the cuts.**
 >
@@ -87,14 +97,17 @@ A Parun sentence names who is speaking, what ground the speech covers, which way
 ### Mirror-Sign
 
 *Deepkin · the hand that is not there* · **plate 04, the Hollow**
+
 **Everything else in this record is a stroke laid on a surface. Mirror-Sign is the surface laid around a stroke that was never made.** The field is worked and the path is left bare, so what a reader follows is **the absence** — and the absence produces no Aetheric signature **because nothing was ever inscribed to produce one.**
 > This is why no ward in the world detects Deepkin correspondence **and why no Concord inspector has ever successfully audited a Deepkin holding.**
+>
 > *The High Dawi call it a broken geometry. The Deepkin have not published a reply, and the Mirror-Sign record of their position has never been translated for anyone outside the lineage.*
 **Legibility** · Read by fingertip and by reflection. **Undetectable to Harmonics (the trained sense that reads Aether in the field).**
 
 ### Old Vaross
 
 *Ironblood · the ancestral hand* · **plate 05, the Wedge**
+
 **A punch cannot draw a line. It can only strike a point and leave a wedge behind**, so Old Vaross kept the nodes of the Parun path and lost every connecting stroke between them. What sits on the iron is **a constellation of impacts, and the reader supplies the line that runs between them out of their own head.**
 > Ironblood theology takes this as **the correct arrangement rather than a limitation.**
 >
@@ -104,15 +117,19 @@ A Parun sentence names who is speaking, what ground the speech covers, which way
 ### Low Goblintongue
 
 *Za'tarch · the trade hand*
+
 **Trade will not wait for a punch and a hammer.** Somewhere in the Za'tarch markets a clerk shrank the wedges down to nail-marks and ran a single quick stroke between them, **and what had been a constellation became a line again with the impacts still hanging off it.**
 > Faster, and legible to a Verdant Orc and a Tinker and a Hobgoblin quartermaster alike — **and every Ironblood elder alive considers it a thinned thing.**
+>
 > ***Gorrum Ashentusk writes in it deliberately and in front of them, which is a position taken rather than a convenience.***
 **Legibility** · The most widely read goblinoid hand. **Universal in council.**
 
 ### Gravetongue
 
 *Ironblood · never written* · **plate 14, the Silent**
+
 **Gravetongue has no hand and has refused every attempt to give it one.** Transcriptions exist. **They are inert.** What is on the page produces nothing when read aloud by someone who was not there, **because the meaning of a Gravetongue phrase is not carried in the phonemes but in a specific physical resonance produced by a body that knows what it is made from.**
+
 **The Crimson Order stripped the chant element out and kept the three-beat rhythm as pulse-code** — which works, **and which Ironblood traditionalists regard as grave-robbery.**
 > The empty frame on the plate is drawn from a Concord ethnographer's field notes. **He ruled the box, was refused, and filed it empty rather than fill it with an approximation.**
 **Legibility** · No script exists. **The frame is what a scribe leaves behind.**
@@ -120,6 +137,7 @@ A Parun sentence names who is speaking, what ground the speech covers, which way
 ### Swamp Parunic
 
 *Verdant Orc · the flowing hand*
+
 **Reed on wet bark bleeds.** Lift the reed and the ink spreads into the fibre and eats the next stroke before you have made it, **so the Verdant hand never lifts.** One continuous line, every glyph joined to the next, **terminals drawn long so the bleed has somewhere to go that does not matter.**
 > Held near saturated ground, **certain sequences in this hand have catalysed Spoor-Meld states in readers who were not attempting one.** Whether that is a property of the script or of the language it carries is disputed. *The Verdant position is that the question is badly posed.*
 **Legibility** · Read with effort by other goblinoids. **Written by few outsiders.**
@@ -127,6 +145,7 @@ A Parun sentence names who is speaking, what ground the speech covers, which way
 ### Florwyndic Songscript
 
 *Eressean · the binding hand* · **plate 08 available**
+
 **The rail is drawn first.** One unbroken horizontal stroke across the whole line, **and every glyph after it hangs beneath that stroke rather than standing on a baseline.**
 > **The rail is the Authorization clause (the part of a working that names its lawful channel) for the entire sentence** — which is why nothing written under a broken rail carries force, **and why an Eressean scribe who lifts the pen mid-rail begins the page again.**
 The hand of law and consecration **and nothing else.** Ordinary correspondence uses a plain unrailed cursive **that no one bothers to name.**
@@ -136,6 +155,7 @@ The hand of law and consecration **and nothing else.** Ordinary correspondence u
 ### Sylvaaric
 
 *Varrisak · the unruled hand*
+
 **The Varrisak took the Eressean forms and refused the rail.** What is left runs as a single meandering line with the nodes swelled into blooms and small tendrils thrown off wherever the hand felt like throwing one. **No two Varrisak scribes produce the same glyph twice and none of them regard this as a defect.**
 > An Eressean jurist will tell you Sylvaaric cannot be a script **because it cannot be validated.** A Varrisak reading a hand they know will tell you **they can identify the writer, the season and the mood from the tendrils alone** — *which is a great deal more information than a validated glyph carries.*
 **Legibility** · Read within the wandering. **Illegible to Eressean eyes by design.**
@@ -143,25 +163,31 @@ The hand of law and consecration **and nothing else.** Ordinary correspondence u
 ### Inverted Parunic
 
 *Drow · the hand built to be misread*
+
 Every Drow glyph is its Parun ancestor **mirrored, run right to left, with the opening and sealing terminals exchanged.**
 > **This is not opacity. An outsider does not stall on Inverted Parunic.**
 >
 > **They read it easily, confidently, at speed — and they arrive at a meaning that is not the one on the page.**
 The inversion is **constructed rather than drifted**, which means it is applied with a consistency no natural hand has ever managed. **Its one failure mode is under pressure, when Eressean structure surfaces underneath** — *and a Drow scribe who lets that happen in front of a witness has done something they will not be forgiven for.*
+
 **Legibility** · Read fluently by any Parunist, **and read wrong.**
 
 ### Cold Parunic
 
 *Echo Elf · the hand without a hand* · **plate 11 available**
+
 Quantises the Parun path onto **a fixed grid of cells.** Every glyph occupies the same count of cells. **No cursive form, no ligature, no personal hand, no flourish, and no permitted variation of any kind between one scribe and the next.**
 > **A treaty that can be written two ways can be recited two ways**, and the Echo Elf position is that **a peace which has to be interpreted will eventually have to be refought.**
+>
 > *Their diplomacy is exhausting and their treaties have never once needed renegotiation. They regard the second fact as sufficient answer to the first.*
 **Legibility** · Read identically by everyone. **That is the entire specification.**
 
 ### Skin-Records
 
 *Fleshshaper · the growing hand*
+
 **A glyph cut into living tissue does not stay the size it was cut.** The body grows, the scar migrates, **and within a decade a single-scale inscription has stretched past legibility.** Most of what a Fleshshaper cuts is record and carries no working; a cut that sets a live boundary in the flesh is a rare and dangerous high art, and its failures are buried quietly.
+
 The answer is to cut the same glyph **three times, nested inside itself at diminishing scale** — so that when the outer form has distorted the middle one is still readable **and the innermost has not begun to move.**
 > **An elder's back is a stack of decades that can be read downward through the scales**, and a Fleshshaper reading another Fleshshaper **is reading age directly off the ratio between the rings.**
 >
@@ -171,8 +197,10 @@ The answer is to cut the same glyph **three times, nested inside itself at dimin
 ### Accord Chancery Hand
 
 *Guild Accord · the ruled hand*
+
 **It did not descend from anything.** Assembled by committee in the post-Calamity regulation era out of whatever fragments of the older hands could be made to sit inside a ruled band of fixed height, **and then boxed** — so that a writ issued in one kingdom could be read without dispute in another eleven hundred leagues away.
 > **It is characterless on purpose.** No lineage, no region, no hand, no mood, **and every scribe trained in it produces output indistinguishable from every other.**
+>
 > *Practitioners of the older hands describe it as a script with nothing behind it. Accord notaries consider this the highest compliment their office has ever received.*
 **Legibility** · Read by everyone **from Stannvaard to Kharven.** *That is the product.*
 

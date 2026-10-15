@@ -23,9 +23,11 @@ verification: "unverified"
 ## The Inversion
 
 A Sage opens their Soul Crystal to the Wellspring processes already active in their environment, aligns their Aether Shell with the local Continuum's existing resonant frequency, and becomes a living junction through which the landscape's own metaphysical current can be directed, amplified, or harmonized.
+
 This is not passivity. Alignment is among the most demanding disciplines in the Continuum, because it requires the practitioner to subordinate their own Essence Typology to the environment's dominant Wellspring dialect **without losing identity coherence**. A Sage standing in a Verdantia-saturated forest must let their Shell resonate at the forest's frequency, conduct the forest's Essence through their own circulation, and direct that conducted force toward a purpose, all while maintaining enough Equilibrium to prevent the forest's Wellspring from overwriting their own Crystal state.
 > The Sage does not become the forest. The Sage becomes **the forest's voice**, and the distinction between those two things is the entire discipline.
 The result is magic that looks effortless and feels borrowed. A Sage's constructs are not fabricated from personal Essence; they are condensations of the terrain's own spiritual memory. A Sage's healing is the local Verdantia current flowing through their Shell into the patient, with the Sage acting as a low-resistance conductor the vein can use more efficiently than the ambient field alone. A Sage's battlefield influence is the amplification of whatever Wellspring processes the terrain already favours, turned from background hum into directed force.
+
 This makes the art profoundly location-dependent. A Sage harmonized with Verdantia is devastating in a living forest and nearly useless on a salt flat. One attuned to Manganthra operates at full capacity near volcanic vents and produces almost nothing in a temperate meadow. One aligned with Phreatis commands astonishing force near deep water and withers in dry stone corridors.
 > The discipline's greatest power is also its most honest limitation: **the Sage can only speak what the land already knows.**
 
@@ -45,14 +47,19 @@ flowchart LR
 ### Pillar One · Attunement (Harmonia)
 
 **Environmental Attunement** is the foundational discipline of all Sage practice, and it begins with perception. Every location carries a resonant signature: the sum of all Wellspring processes currently operating there, layered with the historical echoes of processes that operated there previously. A Verdantia-saturated grove hums with growth-renewal. A Manganthra vent pulses with compressed catalytic force. A Phreatis-fed riverbank murmurs with memory-depth. A Tenebra-shadowed ruin vibrates with quiet dissolution.
+
 Matching requires adjusting the Shell's own resonant frequency, governed by **Gate Cycling** (how smoothly resonance gates open and close) and **Turbulent Flow** (how much noise contaminates the Essence stream). Clean Gate Cycling and low Turbulent Flow attune within seconds. Poor Shell discipline takes minutes, loses Essence to friction, and risks dissonant interference that alerts the local field to the Sage's presence **as a foreign body rather than a compatible conductor**.
+
 **Shallow Attunement** borrows surface-level environmental force: ambient wind, existing moisture, loose soil, surface Essence currents. **Deep Attunement** accesses the environment's **Root Memory**: the historical Wellspring processes recorded in the terrain's Mnemata substrate. A Sage deep-attuned to a battlefield can feel the grief still stored in the soil. One deep-attuned to a sacred grove can hear the prayers that have saturated the wood for generations. One deep-attuned to a Wellspring vein can conduct the vein's raw process-current through their own body, which is the most powerful and most dangerous expression of the art.
+
 **Temperance Gate** · Stage VI (Glory) for surface Attunement · Stage VIII (Transcendence) for Root Memory access · Stage X (Realization) for direct Wellspring vein conduction.
 
 ### Pillar Two · Communion (Synergia + Vocatia)
 
 Communion is not summoning. A summoner fabricates constructs or negotiates with external entities. A Sage in Communion enters shared resonance with what is already present, **the way a singer joins a chorus rather than performing a solo**.
+
 Synergia governs the mechanics: the Sage's Essence Core briefly shares occupancy of the same Soul Plane region as the environmental presence, creating a relational bridge through which the Sage can perceive what the spirit perceives, feel what the terrain remembers, and direct the presence's existing capacity toward a purpose. **The spirit is not controlled. It is conducted.** Controlled entities resist and degrade; conducted entities amplify and sustain. A terrain spirit conducted through Communion operates at its natural capacity, sustained by its own Wellspring vein, rather than at the reduced capacity of a dominated construct draining its master's Core.
+
 Vocatia enters at higher levels, when Communion reaches entities with genuine identity rather than ambient presence. A **Wellspring Echo** is ambient; Synergia suffices. A **Guardian Spirit** has identity; Vocatia's recognition-correspondence is required.
 > This is why Sage practice requires **emotional authenticity** in a way most magic does not. A Runesmith can inscribe a Verdantia rune without loving forests. An alchemist can brew a Benediction Draft without personal compassion. A Sage cannot commune with a Verdantia spirit without carrying genuine resonance with the Wellspring's core law. The entity reads the Sage's Attraction Layer during Communion. **If the relationship is performative, the entity withdraws.**
 **Temperance Gate** · Stage VII (Refraction) for ambient Communion · Stage IX (Invocation) for identity-bearing entities · Stage XI (Dissonance) for multi-entity simultaneous Communion.
@@ -60,8 +67,11 @@ Vocatia enters at higher levels, when Communion reaches entities with genuine id
 ### Pillar Three · Expression (Domain Weaving)
 
 Standard Domain Weaving imposes the practitioner's Attraction Layer outward, claiming territory on the Plane of Fate. The Sage inverts this. Their Attraction Layer does not claim territory. **It borrows territory.** The landscape's existing law becomes temporarily louder, more precise, and more directed, because a living Soul Crystal is now serving as a resonance amplifier for what the land was already doing.
+
 This is why Sage constructs look different from summoned ones. A summoner's eidolon is crisp, defined, clearly artificial, unmistakably a projection of someone's interior. A Sage's construct is a condensation of the terrain's own spiritual memory: it looks like the landscape given temporary presence. A mist-form born of a swamp Communion carries the marsh's own emotional memory, its grief, its patience, its slow hunger. A root-guardian born of a forest Communion moves with the deliberation of old wood, not the programmed efficiency of a summoned eidolon.
+
 The construct persists as long as Attunement and Communion hold. When the Sage breaks alignment it dissolves back into the ambient field. **The construct was never separate from the environment. It was the environment, briefly given direction through a living intermediary.**
+
 **Temperance Gate** · Stage VII (Refraction) for single-construct expression · Stage IX (Invocation) for multi-construct field expression · Stage XII (Emanation) for Concordia-level regional amplification.
 
 ---
@@ -127,9 +137,13 @@ Theoretically compatible with any Wellspring, practical mastery clusters around 
 ## Key Figures
 
 **Ristra of Mirehollow** · A swamp-born Sage whose Crystal developed permanent harmonic compatibility with the Mirehollow marsh before his twentieth year. Verdantia-dominant with secondary Phreatis resonance, giving him simultaneous access to the marsh's growth-renewal substrate and its deep-water memory layer. His Bonded entity is a marsh Guardian Spirit older than the village at the swamp's edge. Through the Bond he produces **mist-stalkers** (constructs condensed from the marsh's fog-memory, carrying centuries of predatory territorial instinct) and **memory-laced willows** (living trees whose Root Memory functions as a Mnemata archive, recording everything that passes beneath their branches). His operational range never extends beyond the Mirehollow watershed, and he has no interest in extending it. *The marsh is his instrument. He has spent his life learning to play it well.*
+
 **Aramil Senn, the Stone-Veined Seer** · A Manganthra-dominant Sage who achieved Tier IV during the Great Spirit War. During the siege of the Karrveth Valley he amplified the valley's natural Manganthra current through sustained Concordia-level Communion until the terrain itself became a directed defensive system: cliff faces shifted to seal passes, fault lines opened beneath enemy formations, and the valley's stone produced resonant vibration that destabilized hostile constructs at their structural frequency. The Accord's post-war assessment noted that Aramil did not create these effects. He conducted them. **The valley had been trying to close for geological ages; Aramil gave it a reason to close now.** He died still attuned, and the valley's geological behaviour has been subtly unusual since, as though the stone remembers the direction he gave it.
+
 **Virelsa the Breathweaver** · A Cymorath Sage whose wind attunement allowed her to walk air. Not flight through Aether projection, but genuine wind-walking: her Shell resonated so precisely with atmospheric Cymorath current that the wind treated her body as a compatible presence rather than an obstacle. Her guidance constructs, dreamlike gusts carrying perception and intent across miles, were famous for uncanny precision — she could send a wind-form through a forest canopy and know which branches were diseased before any druid examined them. Her operational limitation was **stillness**; in calm air she had nothing to conduct. Her journals describe deep wind Communion as *"hearing the sky confess what it has carried,"* and her research into atmospheric Mnemata remains the foundational text for Cymorath training.
+
 **The Verdant Synod** · A reclusive circle operating in the wilds of Nalūn, dedicated to the cultivation and protection of Wellspring Groves. They practice the **Doctrine of Gentle Resonance**: Wellspring processes should be conducted, never coerced, and the Sage's role is stewardship rather than instrumentalization. This places them at odds with military applications of the art, which the Synod views as a violation of the discipline's foundational principle: *you do not force the land to fight; you listen until the land tells you what it needs.*
+
 The Synod maintains **seventeen active Wellspring Groves**, the oldest predating the Guild Accord by centuries. Their activity is intense enough to produce ambient effects on anyone who enters: accelerated healing in Verdantia Groves, emotional clarity in Judicium Groves, memory restoration in Anamnesis Groves. The Concord tolerates the Synod's independence because their Grove maintenance stabilizes Wellspring ecology across a region that would otherwise require expensive Guild infrastructure to keep balanced.
 
 ---
@@ -137,9 +151,13 @@ The Synod maintains **seventeen active Wellspring Groves**, the oldest predating
 ## Historical Importance
 
 The Sage Arts predate formalization. Their roots reach into the earliest spiritual traditions of elven, dryadic, and sylvan peoples, who lived in such sustained proximity to natural Wellspring activity that alignment was not a technique but a way of life. **The earliest Sages did not train. They grew, the way a tree grows toward light.**
+
 Formal codification came during the late Third Epoch, when expanding mortal civilization began disrupting Wellspring ecology at a scale requiring deliberate intervention. Natural Sages were recruited to diagnose Wellspring damage, stabilize failing veins, and establish the first Groves as protected reserves. The Guild Accord's earliest environmental statutes were drafted in consultation with Sage practitioners who could articulate, in Aetherica-compatible terms, what was happening to terrain that civilization was strip-mining for Essence.
+
 During the **Era of Grace** they served roles no other discipline could fill. As peacekeepers, their Communion with terrain spirits gave them intelligence networks that bypassed all conventional surveillance. As wayfinders, their Attunement let them navigate terrain that defeated normal scouts. As guardians of sacred land, they cultivated the Groves that became focal points for spiritual convergence, healing, and Temperance training across the Concord.
+
 The **Age of Calamity** proved the discipline's combat value. A standard caster projects Essence outward through their own Shell, and chaotic terrain disrupts that projection. A Sage conducts the terrain's own force, and chaotic terrain is still terrain: it still carries Wellspring current, however distorted. Sages who could attune to corrupted environments, **reading the distortion's frequency rather than fighting it**, could redirect hostile Wellspring processes, stabilize terrain undergoing Hollowing, and provide environmental intelligence conventional reconnaissance could not gather.
+
 By the **Voyager Era** the Sage Arts have retreated from metropolitan practice. Urban environments, with their layered artificial Essence fields, alchemical residue, and competing Wellspring invocations, are hostile terrain for Attunement. *A Sage in a city hears noise, not music.* The art persists primarily in frontier lands, wild territories, and the sacred sites maintained by orders like the Verdant Synod.
 > In a Continuum where most magic projects, imposes, inscribes, and claims, the Sage Arts remain the discipline that asks what the land already knows, and listens long enough for the answer to arrive.
 

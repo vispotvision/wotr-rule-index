@@ -23,6 +23,7 @@ verification: "unverified"
 
 The sands of the Paths are not ordinary substance. **They are condensed lineage memory** — the preserved resonance of every Zettari who has ever lived, fought, failed, risen, or died.
 > **Every grain contains echoes of ancient sovereigns, forgotten wars, extinct kingdoms, and the accumulated pain of two hundred thousand years of survival.**
+>
 > **Only beings acknowledged by the lineage itself may enter the Paths willingly.**
 >
 > Unauthorized entities attempting entry suffer **immediate metaphysical collapse**, as the plane rejects all identities it does not recognize as sovereign-compatible.
@@ -32,6 +33,7 @@ The sands of the Paths are not ordinary substance. **They are condensed lineage 
 ## Rule and Residents
 
 The Paths are ruled indirectly by **Aegor Zettari**, though **even what appears there is never his true form** — only manifested avatars capable of existing beneath the pressure of the plane.
+
 **Ancient Zettari Models**, perfected sovereign archetypes forged by Aegor across countless epochs, reside there eternally as **guardians, teachers, and living embodiments of the lineage's ideals.**
 
 | Figure | Standing |
@@ -55,7 +57,9 @@ Within the Paths, **wounds may be rebuilt through lineage resonance.** Essence m
 ## Historical Importance
 
 The Paths are **the origin point of all sovereign Zettari ascension.** Every major evolution of the lineage traces back to revelations, reforgings, or trials performed there. During extinction-level events across multiple epochs, **the Paths preserved the continuity of the bloodline when kingdoms, civilizations, and worlds themselves collapsed.**
+
 The **Everlasting Eyes** originated from the metaphysical authority of the Paths, and many legendary Zettari techniques were first forged within its sands.
+
 The plane also serves as **the lineage archive of sovereign memory**, containing preserved echoes of over two hundred thousand years of history — including the **First Epoch Wars**, the fall and rebirths of **Kushara**, the **Seventh Fracture War**, and countless forgotten sovereign catastrophes **erased from mortal history.**
 > The Paths are considered the ultimate proof that **the Zettari were never merely rulers, but metaphysical survivors woven directly into the continuity of existence itself.**
 
@@ -64,7 +68,11 @@ The plane also serves as **the lineage archive of sovereign memory**, containing
 ## Connections
 
 **Kushara** · The sovereign homeland most deeply tied to the Paths through Crown Resonance and lineage authority.
+
 **The Everlasting Eyes** · Directly linked to the perceptual laws maintained within the Paths.
+
 **Aether and Essence systems** · The Paths exist **above conventional Essence architecture** and can reconstruct or overwrite damaged sovereign systems.
+
 **Fate architecture** · Sovereigns acknowledged by the Paths may have their fate **anchored beyond external manipulation.**
+
 **The bloodline** · **All true Zettari maintain an unconscious metaphysical connection to the Paths regardless of distance or realm.**

@@ -11,7 +11,9 @@ verification: "unverified"
 # The Magic System
 
 > The Continuum does not grant power. It measures a soul, records what the measurement found, and permits exactly as much as the architecture will bear. Everything in this section is an account of that measurement: what it reads, what it refuses to read, and what it costs to move the needle.
+>
 > *"Temperance is not a buff. It is a confession of how much you have survived."*
+>
 > **Where the numbers live.** Everything on this page is the account. The arithmetic underneath it is **Fracture of Worlds — The Living System**, filed at the foot of this section in twenty-two Parts across eight pages. Bands and Temperance Gates, the Tier Grade thresholds, the Sub-Stat ceiling per Stage, all sixty-four Path gates, Threshold Catalysts, Resonant Pairs, Strike Force and Durability benchmarks, Aether Class efficiency, the η table, Domain costs.
 >
 > Read it when a value is in question, not before. This page tells you what the system is. Fracture of Worlds tells you what the number has to be.
@@ -95,9 +97,13 @@ Eight Primary Stats, eight Sub-Stats beneath each, sixty-four values in total. *
 ### The Paths
 
 Sub-Stats are gated behind Path commitment. A Path is not a class selected at registration. It is the direction advancement actually took, assessed retroactively and recorded whether the practitioner agrees or not.
+
 **Body Path** · the shortest road and the most reliable. Direct multiplicative bonus to Strike Force, Durability, and Lifting Strength, from roughly five percent early to twenty percent at Stage XII and above. The trade is reduced Range and Aura Pressure. Body Path practitioners must close distance to spend their advantage.
+
 **Spirit Path** · perception, inscription, clarity, processing. Gates most of Gnosis and much of Tempering's refinement architecture.
+
 **Attraction Path** · bond, recognition, reach, sovereignty. Gates nearly all of Harmonics and the majority of Dominion.
+
 **Fate Path** · the high gates. Persistence, Continuity, Ceiling, Fate, Throne. Almost nothing on Fate Path unlocks below Stage V, and its terminal Sub-Stats do not open below Stage XIII.
 > ***The three-and-four question, settled.*** *The Physical Force chapter names three Paths and the gate tables name four, and both are correct.* **Fate carries no force**, so it takes no line in a table of force modifiers, and its absence there is a fact about force rather than a fact about Paths.
 >

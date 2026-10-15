@@ -10,12 +10,13 @@ verification: "unverified"
 
 # The Item Tiers
 
-### What an Item Tier Is
+## What an Item Tier Is
 
 **An item carries an item Tier, Plain through Proscribed: the lower of what its material can hold and the Tier of Standing its maker stood at when it was made.** A Journeyman's blade is at most Tempered, holding a C-Grade working and no more. A master cannot put an A-Grade working into Greystone: the stone fails first.
+
 A composite item is graded by the material that carries the working, not the handle or the fittings. A plain item with no working in it has no Tier at all; it performs as its physics.
 
-### The Nine Tiers
+## The Nine Tiers
 
 **Material tier n holds a working up to item Tier n, level with Tier of Standing n.** Each Tier is the word stamped on the Accord's mark, in Accord Latin beside the old *Probatum est*, and said in plain English at the table and the counter.
 
@@ -34,7 +35,7 @@ A composite item is graded by the material that carries the working, not the han
 
 Where a Tier spans two Grades (Storied, Found, Numinous), the upper Grade needs a Class IV or V provenance on the Standing Index, or a maker at the top of their own Tier.
 
-### What the Tier Caps, by Kind
+## What the Tier Caps, by Kind
 
 | Kind | Its Tier caps | Figure read off |
 |---|---|---|
@@ -46,7 +47,7 @@ Where a Tier spans two Grades (Storied, Found, Numinous), the upper Grade needs 
 
 **Armour's Tier is its proof.** Proofed plate stops a strike in the D output band and below. The mark states the Tier, the house that tested it and the test. **A strike one Tier above the proof breaks it; a strike two Tiers above passes as if it were not there.**
 
-### What an Item Costs to Make
+## What an Item Costs to Make
 
 Costs are drawn from the maker's reserve (1 EU = 1 MJ):
 
@@ -59,6 +60,6 @@ Costs are drawn from the maker's reserve (1 EU = 1 MJ):
 
 **A practitioner can equip themselves but cannot equip an army.** An Apprentice maker (Stage II, reserve about 0.56 EU) can prepare about ninety enhanced rounds from a full reserve before Essence Starvation, or nine enchanted blades, or three suits of proofed armour, or one relic.
 
-### On a Card
+## On a Card
 
 **Name** · *Kind, Tier-name (Grade X), material Tn.* One line of what it does. For example: **Slyvine's Scarf** · *Relic, Proofed (Grade D), T2 or above.* Can stretch, tighten, or harden to act as a rope or a weak shield.

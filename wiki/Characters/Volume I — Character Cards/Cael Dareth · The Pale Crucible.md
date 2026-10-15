@@ -20,8 +20,11 @@ verification: null
 ### I · Identity
 
 **Name** · Cael Dareth. **Called** · The Pale Crucible. **The Philosopher of the Grey Flame.**
+
 **Role** · **Expelled Guild Accord theoretician. Unaffiliated alchemist studying the morality of alchemy itself. A genius to some, a walking heresy to others.**
+
 **Race** · **Human.** *Silver hair like molten mercury; amber eyes behind circular lenses etched with transmutation runes; hands burned pale by mercury and steady enough to trace a whole formula midair; breath that fogs briefly against ambient Aether.*
+
 **Gloss rights** · **Unlimited.** *He speaks like an equation solved aloud and falls into fervent recitation at a paradox. A man who narrates his own working as he performs it has waived any privacy the name might have had.*
 
 #### Affiliation
@@ -36,10 +39,15 @@ verification: null
 ### II · Soul Architecture
 
 **Aether Shell** · **Class V · Radiant.** *Aether bends toward the bearer: his breath fogs against it, and his lenses read composition off it.*
+
 **Attraction Layer** · Narrow and turned inward. *He records formulas nightly to preserve the mind; the bond that matters most on this sheet is with his own record.*
+
 **Crystal State** · **Fractured, held.** *The paradox is a split by contradiction, and Fixative Seal is the reason it has not spread: he locks Essence states, and the first one he locked was his own.* **Soul Crystal** · Sovereign. **η** · 0.80, Tier of Standing 6, Master, at the top of its range.
+
 **Essence Typology** · **Materia dominant, Fulguria undertone.** *Endurance, structure, grounding, the slowest Typology to awaken and the most resistant to collapse once it does; with the Fulguria eye that reads a lie before it finishes forming.*
+
 **Parun Glyphs** · `Ur` (Balance) · `Ma` (Memory). **Archonic patron** · **Urion, the Order Archon,** *Judicaris*: equilibrium, judgment, enforced symmetry. Law Through Corruption is an Urion doctrine held by a man who has been corrupted by it.
+
 **The Internal Wellspring** · *A paradox inside the Crystal, humming between existence and erasure. Not among the Sixty. Not harmonised. Carried.*
 
 ---
@@ -47,6 +55,7 @@ verification: null
 ### III · Wellspring Harmonizations
 
 **Fixatio** · Materia. *The Binding Flame.* Covalent cross-linking, the thermoset cure: a thermoplastic can be melted and reformed indefinitely, a thermoset has formed bridges across its whole network and will char before it flows. **Fixatio performs the cure. What it holds is held because the alternative configuration no longer exists as a reachable state.** *Fixative Seal, sourced: Essence states locked, spiritual corrosion halted, a collapsing Wellspring held inside a localised space.* **Stat effect** · strengthens Vitality Fortitude, Resilience Anchoring. *Failure: irreversibility. The cure is not undone by wanting it undone, and a Fixatio binding placed in error is a permanent feature of whatever it was placed on. The silver filament in his nerves is a Fixatio binding placed in error.*
+
 **Judicium** · Fulguria. *The Wellspring of Truth.* Emission and absorption spectroscopy: every element absorbs and emits at wavelengths fixed by its own structure, and no substance can present another's spectrum. **The lenses. He sees composition and never colour.** *Mirror Reaction, sourced: hostile magic read line by line and returned as neutral entropy.* **Stat effect** · strengthens Gnosis Acuity, Analysis. *Failure: spectral overload. Every object in view reports its composition at once and the practitioner loses the ability to prioritise any of it.*
 > *Cross-Family, Materia and Fulguria. The lattice does not reject the second current; it works harder to integrate it, at lower resonance quality and higher Essence cost. Aetheric Transmutation, deconstructing matter into base Essence patterns and recombining them by harmonic ratio, is where the two meet: Judicium reads the ratio and Fixatio cures the result. Poison into perfume, decay into crystal. The card lists no third current for the transmutation itself and none is assigned.*
 
@@ -82,10 +91,15 @@ verification: null
 ### VI · Traits
 
 **Composition Sight** · **Circular lenses etched with transmutation runes; he sees composition and never colour.** *A Judicium instrument worn on the face.*
+
 **Reactive Breath** · **His breath fogs briefly when he speaks, reacting to ambient Aether.**
+
 **The Alchemical Prayer** · **Falls into fervent recitation when encountering a paradox.** *The paradox he carries is the one he cannot stop reciting.*
+
 **Aetheric Transmutation** · **Deconstructs any matter into base Essence patterns and recombines them via harmonic ratios;** poison into perfume, decay into crystal.
+
 **Fixative Seal** · **Locks Essence states, halting spiritual corrosion or Wellspring collapse within a localised space.**
+
 **Silver Filament** · **His body is partially transmuted; nerves laced with silver.** Every use of the Verdiction Crucible accelerates the metallisation. **One day he will be his own experiment: a statue of flawless alchemical law, unable to decay or think.** *A cost he carries when nobody is fighting, and records against every night.*
 
 ---
@@ -93,7 +107,9 @@ verification: null
 ### VII · Artifacts
 
 **The Verdiction Crucible** · *Relic / Portable Wellspring crucible / Reagent still.* **Distils soul fragments into stable alchemical reagents.** *Dangerous, yet revolutionary.* **A crucible is a Soul Crystal analogue for inanimate matter; this one takes the Crystal's own material as feedstock, which is why every use advances the silver.** *Verdiction is attested as the name of Wilhelm's manufactured Core, made under the same extinct Alchemarch Order of Varūn. The two are held distinct: the shared name reflects the Order's own reused vocabulary, not a shared lineage of work, and none is asserted.*
+
 **The lenses** · Circular, rune-etched, composition-reading.
+
 **The scholar's coat** · Dulled by years of fumes and ritual ash; a faint scent of iron and lilac follows him, alchemical compounds masked by habit. **Emblem** · a silver crucible split by a golden feather.
 
 ---
@@ -103,8 +119,11 @@ verification: null
 #### Mirror Reaction
 
 **Effect** · **Reflects hostile magic by converting it into neutral entropy, leaving behind metallic dust.** *Judicium reads the incoming working line by line. Fixatio cures the reading into a state with no reachable alternative. What arrives is returned as heat and grey powder. The powder is what the working was made of.*
+
 **Cost** · **Silver.** *A reaction run through his own lattice deposits its residue there. The residue is the filament.* The card ties the metallisation to the Crucible. The Reaction runs on the same cure, and the dust on the floor has a twin in his nerves.
+
 **Limit** · **He has to read it first.** *An unfamiliar working has to finish forming before its lines can be taken. What he cannot read, he cannot return.* **And the cure is permanent.** Entropy he has fixed stays fixed. Ground he has held on will never react again.
+
 **Counter** · **Overload the spectrum.** *Judicium fails when every object in view reports its composition at once and the practitioner loses the ability to prioritise.* Six small workings arrive faster than one large one can be read. The seventh lands. **Or make him fix the wrong thing.** Fixatio placed in error is a permanent feature of whatever it was placed on. A man who seals a state in haste has sealed himself out of correcting it.
 > **What nobody knows.** What the Causality Loop actually rewrote. *He calls it failure into success and was expelled for it. The paradox he carries suggests the loop is still running.*
 
@@ -113,9 +132,13 @@ verification: null
 ### IX · Relationships
 
 **The Research and Archives Division of the Guild Accord** · **Former employer. Expelled him.** *The Division that publishes a reply to every argument against it has not, on the card, replied to his.*
+
 **The Alchemarch Citadel of Varūn** · **Where he was made a theoretician.** *Citadel unattested; the Alchemarch Order of Varūn is attested as extinct on Wilhelm's card.*
+
 **The alchemical community** · **To some a genius. To others a walking heresy.** The card names nobody on either side.
+
 **His own record** · **Formulas written nightly to preserve the mind he is losing.** *The only relationship on the sheet that is certain to outlast him.*
+
 **Symbol** · **Law Through Corruption:** truth, once broken down, refines itself.
 
 ---
@@ -134,27 +157,37 @@ verification: null
 #### Origin
 
 Cael Dareth was born in the worked country of the Old World, downriver of Varūn's deep workings, to a family of reworkers. They had never sunk a shaft. They picked over the slag heaps of dead kingdoms, which still assayed well for iron, and sold back what the old smelters had thrown away. The heaps at the head of every valley were grassed over on the outside and poisonous within. Below the old adits the rivers ran orange.
+
 He learned that a heap was worth what the assay found in it. Before he could read a page, he could name what a handful of spoil was made of.
+
 The Alchemarch Citadel of the Iron Forges in Varūn took him as a student, and there he was made a theoretician. In Varūn every completed act went into the Tally. An act left unentered was one nobody would stand behind. He took the habit with him. Each night he entered the day's formulas in ink, the workings that held and the ones that failed. He left Varūn carrying a crucible made under the Alchemarch Order, which had named it Verdiction. The Order is extinct now.
 
 #### The Making
 
 The Research and Archives Division of the Guild Accord took him on, and he worked at a Division bench in the Upper Ring of Stannvaard. He turned poison into perfume and decay into crystal. He read matter through circular lenses etched with transmutation runes, and through them he saw composition and never colour. His hands were burned pale by mercury. They could trace a whole formula in the air without a tremor.
+
 He came to believe that every sin, invention and miracle must occupy a mirrored space within the soul. Truth, once broken down, refines itself: he called that Law Through Corruption, and he worked by it.
+
 At that bench he began the Causality Loop Experiment. He meant to rewrite failure as success by reversing temporal Essence signatures. The Loop left a paradox in his Soul Crystal, a Wellspring inside a man that hummed between existence and erasure. He locked its state where it stood. It was the first state he ever locked, and it was his own. The Continuum had not authored that current, and it did not reject it. The world answered back by refusing to resolve him.
 
 #### The Cost
 
 The Division opened the case under its procedure against heresy, which lets no investigator enter a suspected site alone. Four came to his bench. Dr. Vaelion Rhest read the resonance, a Division scrivener copied, Serai Linthra examined the materials, and Valthren Odrin stood witness. Lyssara Veyn came in behind them to look for the dissolution the Division expected.
+
 Valthren asked him to explain the working. Cael explained it aloud, as an equation, and where it reached the paradox he fell into recitation. Nothing he said burned blue. Rhest read the current in him as held and not spreading, and put one line in the file against unsealing it. Serai asked one question, about the reversal of the signatures, and he answered that as an equation too. Lyssara found that he had not come apart. The scrivener copied every text on the bench, and the originals went under the Division's seal.
+
 Then the Division expelled him. It had published replies to other arguments against it. It did not reply to his.
+
 The silver began in his fingers. The Verdiction Crucible distilled soul fragments into stable reagents, and it took the material of his own Crystal as feedstock. Each use moved the silver further along his nerves. It was a binding placed in error, and wanting did not undo it. He kept using the Crucible. The silver ate at his memory, and the nightly entries he had kept since Varūn became the way he held on to his own mind.
 
 #### Where They Stand
 
 Cael is unaffiliated. He studies the morality of alchemy itself, and the alchemical community calls him a genius or a walking heresy. He speaks like an equation solved aloud. At a paradox he still falls into fervent recitation. "Alchemical prayer," he calls the recitations.
+
 His hair is the colour of molten mercury. His amber eyes sit behind the rune-etched lenses, and his breath fogs briefly against the ambient Aether when he speaks. His scholar's coat is dulled by years of fumes and ritual ash, and a faint scent of iron and lilac follows him. His emblem is a silver crucible split by a golden feather.
+
 A hostile working that reaches him he reads line by line and returns as heat and grey metallic dust. What he cannot read, he cannot return. The dust on the floor has a twin in his nerves.
+
 He calls the Loop failure into success. What it rewrote has never been established, and the paradox he carries suggests the loop is still running. Every night he writes his formulas down. One day he will be his own experiment: a statue of flawless alchemical law, unable to decay or think.
 
 #### Ties

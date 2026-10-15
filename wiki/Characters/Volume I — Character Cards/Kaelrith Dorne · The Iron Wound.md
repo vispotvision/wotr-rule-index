@@ -20,10 +20,15 @@ verification: null
 ### I · Identity
 
 **As Of** · After the Firefront clean-up
+
 **Name** · Kaelrith Dorne. **Called** · The Iron Wound.
+
 **Role** · **Veteran of the Withering Rebellions. Former Guild Accord auxiliary, Enforcement Division. Free Lance, serving no flag but his own.**
+
 **Type** · Mortal, tempered veteran. **Era** · Withering Era. **Realm of origin** · Anguz *(a real place, ruled 2026-09-12: Inner World, North, as the Material Index has it).*
+
 **Appearance** · Tall, gaunt, built from endurance rather than youth. Silver hair, once the pale blond of Anguzian lineages, bleached by Essence exposure. **Countless scars score his face and neck in a cross-pattern, the ritual mark of an aborted Temperance binding.** Steel-grey eyes under the shadow of exhaustion. **The half-mantle still carries the faded insignia of the Enforcement Division, worn inside-out.**
+
 **Gloss rights** · Never. *"Every scar is a law written in pain. I just never learned to read them." A man who will not read his own scars does not translate anything for anyone.*
 
 #### Affiliation
@@ -38,8 +43,11 @@ verification: null
 ### II · Soul Architecture
 
 **Aether Shell** · **Class III · Resonant.** Essence and Aether exchange freely; output arrives at near-full fidelity. *Every wound he takes is delivered straight into the lattice.*
+
 **Attraction Layer** · Thin, and deliberately so. **The Chain of Oathglass reads "Never again under command."** *One vow, worn where a bond would be.*
+
 **Crystal State** · Calcified. Refined by pressure rather than by study. **η** · ~0.60, Tier of Standing 5, Expert.
+
 **Stone that bleeds** · *The card's medics have it right. Fixatio cures each wound into the lattice as a cross-link, and a cross-linked structure will char before it flows.*
 
 ---
@@ -47,6 +55,7 @@ verification: null
 ### III · Wellspring Harmonizations
 
 **Fixatio** · Materia. **Covalent cross-linking; the thermoset cure.** *A thermoplastic can be melted and reformed indefinitely. A thermoset, once cured, has formed bridges across its whole network and will char before it flows.* **What is held stays held: the wounds, the vow, the weapons that refuse to shatter.** *Failure: irreversibility. A binding placed in error is a permanent feature of whatever it was placed on.*
+
 **Mortalis** · Vitalia. **The non-equilibrium steady state and the boundary of its collapse.** *A living body is held far from equilibrium by continuous expenditure; death is the cessation of the expenditure.* **He engages the boundary as a described transition rather than a catastrophe, which is why corpses refuse to rise near him and corrupted Wellsprings lower their hum.** *Failure: equilibration. Sustained proximity to the boundary reduces the gradient he is himself maintaining, and he cools toward it without noticing. The exhaustion on the card is this.*
 
 ---
@@ -55,6 +64,7 @@ verification: null
 
 **Stage VII — Refraction** · **Level 196** *(placed at the top of Band II)* · Level Band II · Tier of Standing 5, Expert · Grade A with late push toward S · Ceiling 475.
 > **Pool 5,440**, per *Fracture of Worlds — The Living System*, Part Three: 1,200 from Band I, 1,440 from 96 levels of Band II, 2,800 from Thresholds I–VII. *This is the canonical page's own rate, governing over the brief's flat-rate approximation (7,200).* **Allocated 5,390** — the 50-point remainder read as the stiffness of a Crystal calcified rather than refined.
+>
 > *Every value below is an estimate inside the Stage VII ceiling, marked per R14-2.*
 
 | Stat | Value | Grade | Reading |
@@ -83,8 +93,11 @@ verification: null
 ### VI · Traits
 
 **Pain into stability** · **The more damage he sustains, the more anchored his Essence becomes; his blows land heavier with each wound.** *"Hurt him and he will not fall; he will sink." The card filed this as a Class; it is a Traitus mark riding Fixatio, visible only while he is wounded and gone the instant he is not.*
+
 **Permanence** · **Near him, weapons refuse to shatter and corpses refuse to rise.** *To some, mercy; to others, a curse.*
+
 **The lowered hum** · **When he walks near corrupted Wellsprings, their hum lowers, as if ashamed.** *Mortalis, passive.*
+
 **Quiet presence** · **Feared by younger Accord soldiers and respected in silence; his presence alone often prevents panic.** *Dominion Pressure without a word spoken.*
 
 ---
@@ -92,7 +105,9 @@ verification: null
 ### VII · Artifacts
 
 **The Shardblade *Unrest*** · *Relic / Weapon.* **Half a Guild-forged greatsword, broken during the Siege of Cindralith; its edge hums faintly with trapped battlefield echoes.** *Ardency Density: what a working leaves standing. The echoes are held because Fixatio does not release.*
+
 **Chain of Oathglass** · *Temperance relic.* **Records the wearer's last spoken vow in runic shimmer.** His reads *"Never again under command."* *Oathglass is unattested as a material.*
+
 **Veteran's Mantle of Ash** · *Guild cloth, smoulder-resistant.* **Rumoured to absorb minor Essence flares and to exhale smoke when he nears a battlefield.** Enforcement insignia, inside-out.
 
 ---
@@ -102,8 +117,11 @@ verification: null
 #### Stone That Bleeds
 
 **Effect** · **Each wound he takes is cured into the lattice as a cross-link.** *Fixatio performs the thermoset cure on the Crystal itself: the alternative configuration, the one where he falls, stops existing as a reachable state.* His stance anchors, his blows arrive heavier, and the ground under him behaves as if it were bearing something denser than a man. **Mortalis holds the boundary as a described transition, so the wounds do not tip him over it.**
+
 **Cost** · **Irreversibility.** *Every wound cured in stays cured. Nothing on him heals back to what it was; the cross-pattern scars are the visible ledger and the calcified Crystal is the invisible one.* The second bill is Mortalis equilibration: a man who stands this close to the boundary for this long cools toward it, and the exhaustion in his eyes is that gradient falling. **He carries both when nobody is fighting.**
+
 **Limit** · **It needs wounds.** Unwounded he is a tired man with half a sword and B-Grade footwork. It cannot be started by choice, and anchoring is stability rather than speed; he does not chase.
+
 **Counter** · **Do not hit him.** *Range, attrition, starvation, or a fight he cannot reach.* Or move the ground rather than the man: **Resilience Continuity is nowhere among his peaks, and a displacement working takes the anchored thing somewhere its anchor is not.**
 > **What nobody knows.** What the aborted Temperance binding scored into his face was meant to bind, and who was holding the other end.
 
@@ -112,8 +130,11 @@ verification: null
 ### IX · Relationships
 
 **The Enforcement Division** · Deserter. Occasional consultant during Concord clean-ups. **The insignia is still on the mantle, inside-out.**
+
 **Seren Valenne, the Grey Adjudicator** · **Unofficial reports claim Seren invoked his aid during the Arbitration of Anguz. Neither spoke to the other throughout the trial, and both left alive, which was considered peace enough.** *Unattested event; Anguz — a real place, ruled 2026-09-12: Inner World, North.*
+
 **Younger Accord soldiers** · Fear him; respect him in silence.
+
 **The dead of his unit** · **He drags the broken sword through battlefields long after the war ended, ensuring no corrupted echo rises again.**
 
 ---
@@ -132,26 +153,35 @@ verification: null
 #### Origin
 
 Kaelrith Dorne was born in Anguz, in the north of the Inner World, with the pale blond hair of the Anguzian lineages. Anguz was guild country. The guilds set the coil there, and Aethersteel and Bloodsilver were priced on it ahead of gold. Under the towns lay the collapsed mines. Dustquartz came out of their shattered veins, faint and unstable, and went to market by the sack to be cut into cheap charms. Packed tight in bulk, the shards rang with discordant Aether, and they were sold by the sack all the same. He hauled those sacks as a boy.
+
 When he was grown he left for the Guild Accord. It took him on as an auxiliary of the Enforcement Division.
 
 #### The Making
 
 He served the Division through the Withering Rebellions with a Guild-forged greatsword and a unit around him that answered to one order. The Sealwright title goes to the Division's enforcement specialists, and it was coming to him. He left before it could be conferred.
+
 He left at the Siege of Cindralith. Corrupted Aether rain came down on his unit there, and he watched every man in it dissolve. The greatsword broke. He did not die. His Temperance stabilized through sheer refusal to die. The Crystal calcified under the pressure, and the Essence in it went dense and unyielding. The medics who survived the siege called it "stone that bleeds." The law his soul insisted on was that he does not fall. Near him, from then on, weapons refused to shatter and corpses refused to rise.
+
 He deserted the Division during the siege. He kept the broken half of the sword, the Shardblade Unrest, and its edge still hums with the echoes the battlefield left trapped in it. He turned the Division's insignia on his half-mantle inside-out and went on wearing it. The last vow he spoke aloud is the one the Chain of Oathglass shows in its runic shimmer: "Never again under command."
 
 #### The Cost
 
 Every wound he has taken since has cured into him and stayed. Nothing on him heals back to what it was. Hurt, he sinks into his stance, and his blows land heavier with each wound. Unhurt, he is a tired man with half a sword, and he does not chase. The exhaustion under his eyes stays when nobody is fighting.
+
 Cross-pattern scars score his face and neck, the ritual mark of a Temperance binding that was begun and aborted. What it was meant to bind, and who held the other end, no record says. He will not read them. He has said of them, "Every scar is a law written in pain. I just never learned to read them."
+
 He no longer believes in any permanence beyond one's will to stand. It has left him without a flag or a chorus. The vow on the chain is worn where a bond would be. Unofficial reports claim that Seren Valenne invoked his aid at the Arbitration of Anguz, and that he came on the invocation alone. He went back to the country of his birth with his hair bleached silver and stood through the trial with half a sword. Neither of them spoke to the other. Where he stood, nobody panicked. Both left alive, which was considered peace enough.
+
 He has said, "Don't call it courage. It's what's left when the fear burns out."
 
 #### Where They Stand
 
 Kaelrith is a Free Lance now, tall and gaunt, his eyes steel-grey. His mantle of ash is rumoured to exhale smoke when he nears a battlefield. He still consults on Concord clean-ups, and the Division that he deserted still sends him the work. Kael Serradyn signs for it.
+
 One of those clean-ups was the Firefront. A Flame-aspected Wellspring on the frontier had imploded under corrupted pressure and annihilated an Accord regiment. Kaelrith walked the glass with Unrest dragging behind him so that no corrupted echo of the regiment would rise. The Wellspring's hum lowered as he came near. Rheon Kaeth, discharged by then, came up from the frontier and walked beside him, and showed him where the men had stood. Neither spoke of his own unit.
+
 When the clean-up closed, Kaelrith stayed on as the Wellspring's guard, hired by nobody who could command him. Rheon's house stands on the fringe below it. On storm nights the instruments read heat near that house, and the reports say the Wellspring is reawakening. No record says who corrupted it. He has never asked Rheon about the glow.
+
 Younger Accord soldiers fear him and respect him in silence. His presence alone often keeps them from panic. Long after the war ended, he still drags the broken sword across its battlefields.
 
 #### Ties

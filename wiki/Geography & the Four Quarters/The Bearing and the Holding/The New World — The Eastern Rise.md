@@ -11,6 +11,7 @@ verification: "unverified"
 # The New World — The Eastern Rise
 
 **Say it** · the NOO WURLD
+
 *The Eastern Rise*
 > The eastern quarter is **still being made.** An oceanic plate is going down beneath it along the whole seaboard, and young ground is rich ground.
 
@@ -19,8 +20,11 @@ verification: "unverified"
 ## Two Landmasses
 
 The eastern quarter is two landmasses, and this ledger surveys one of them.
+
 **The elven old-ground.** Eresse's ancient continent, under four Eons of elven law: the Grand Principality of Eresse; Iampu and its Seasonal Courts; Rovann; the Sylvaar Dream Groves; the Echo Elves' Longhouse Accord; Velthaeir, the Floating Archive-City; the Sunroot Court at Vaelmarr. Its Wellsprings have been drawn on since the first Eon. Two of its materials are entered below, Ironwood and Glacium, with the old-ground as their region. Nothing else of it is surveyed here.
+
 **The arc.** The young volcanic ground the Guild Accord chartered from nothing within living memory: the andesite chain, the caldera belt, the ash plain between them, the coral platforms of the northern coast; Caedor and its four Cloudmetal arrays, Foraye, the Tsohanto Reach. **Everything from Formation to Trade Posture below is the arc's ledger and no other's.** Where the text says *the eastern quarter*, read *the arc*.
+
 *Ruled 2026-09-12. Eresse and every elven branch sit here and not in the Old World quarter, which keeps Varūn. Nevara is struck from canon. The Accord's doctrine that the New World was chartered from nothing, with no older law to displace, is true of the arc and of the arc alone.*
 
 ---
@@ -28,7 +32,9 @@ The eastern quarter is two landmasses, and this ledger surveys one of them.
 ## Formation
 
 The consequence of that subducting plate is a volcanic arc running the length of the quarter: a chain of andesite stratovolcanoes, an inland belt of calderas, and between them a plain of ash and lahar deposit **measured in fathoms rather than feet.**
+
 The hot fluid systems above a live magma body deposit gold and silver in shallow veins that are still there because nothing has had time to erode them away. Where an intrusion has pushed into limestone, the contact zone has cooked into skarn and thrown out silver, lead, and zinc in bodies workable from surface. The rivers cutting through all of this have concentrated gold into placer bars **that a man can work with a pan and no capital whatsoever**, which is why the eastern quarter has the population it has.
+
 The wet flanks weather differently. Under high rainfall and heat the ash breaks down into a deep red laterite crust, leaching out everything soluble and leaving behind a residue extraordinarily rich in aluminous and nickeliferous minerals. That crust is worthless to anyone who cannot reduce it, **and reducing it takes more Fulguria capacity than the Old World has ever been willing to divert from its pumps.**
 
 ---
@@ -47,14 +53,23 @@ Ash plains that carry a crop in three seasons and bury a village in one night. C
 ## Bearing Stock
 
 **Alchemelt Brick** · *T2 · Synthetic stone · Artisan guilds of the arc*
+
 Volcanic ash ground with burnt lime and water, which sets hard, sets fast, and **sets underwater.** This last property is why the eastern quarter is building deep-water harbours at a rate the west finds indecent while western harbours silt shut. It resists ambient magic and crumbles under sustained structural stress, so it is used for floors, foundations, moles, and cisterns rather than for anything that must span. Bearing moderate, Holding deliberately low. Family Materia, Domain Material Science.
+
 **Pumice Float** · *T1 · Stone · Caldera ignimbrite sheets, universal*
+
 Abrasive, filtration medium, and lightweight fill. Floats. Rafts of it come down the rivers after an eruption thick enough to walk on for a week, *which has killed a number of people who tried.*
+
 **Redcrust Laterite** · *T2 · Mineral · Weathered flanks, wet eastern seaboard*
+
 The red caprock. Useless as stone, useless as soil, and the feedstock for Cloudmetal. Bearing poor, Holding nil.
+
 **Roughgold** · *T2 · Metal · Placer bars, black-sand rivers*
+
 Won by hand, by anyone, with no permission from anyone, **which has produced the eastern quarter's characteristic political condition.** Carries Benediction and Sublimatio well, which makes it the standard substrate for ecclesiastical and oath work. Bearing soft, Holding high.
+
 **Ironwood** · *T3 · Wood · Deep forest of Eresse, the elven old-ground*
+
 Hardened to the equivalent of tempered steel, prized by the elves for ceremonial bows and shamanic staves, and cut under restrictions that make it **functionally unavailable to industry.**
 
 ---
@@ -69,17 +84,29 @@ Hardened to the equivalent of tempered steel, prized by the elves for ceremonial
 >
 > Bearing brittle by design, Holding high and terminal. Resonance: Fractura, Tenebra. Family Limina, Domain Abstract and Entropic Systems.
 **Cloudmetal** · *T4 · Metal · Reduced from Redcrust laterite, the eastern arc works*
+
 A structural metal at a third the weight of iron, silver-pale, corrosion-proof, and impossible to produce without a sustained Fulguria reduction array of a scale that exists in **four places in the world**, all of them along the eastern arc.
+
 The technomagical enclave did not discover the metal. Everyone knew it was in the laterite. The eastern arc was simply the only polity willing to commit that much array capacity to something other than pumping water, **because the eastern arc has no old flooded mines to pump.** This is the clearest case in the ledger of industrial capability following from geological accident rather than genius, and the arc guild would prefer it were not written down in those terms. Bearing good for its weight, Holding low. Family Fulguria, Domain Electromagnetism.
+
 **Skarnrose Ore** · *T3 · Metal ore · Intrusive contacts with limestone, inland caldera belt*
+
 Silver, lead, zinc, and garnet in banded contact bodies, worked open from surface because the deposits outcrop. **Silver here is a byproduct of a zinc operation**, which is an inversion that western silver houses have found financially unpleasant.
+
 **Yellowbreath Sulphur** · *T1 · Mineral · Fumarole fields throughout the arc*
+
 Sublimate sulphur, collected by hand off the vent rims by men who work in wet cloth and do not work long. Feedstock for every acid in the eastern alchemical trade and a primary Pyraeon reagent. Family Caloria, Domain Thermodynamics.
+
 **Ember Flint** · *T2 · Stone · Foraye*
+
 Sparks a mild magical flame when struck. Field-mage survival stock, and **the single most widely distributed Essence-active object in the eastern quarter by simple count.**
+
 **Seerstone Resin** · *T4 · Liquid essence · Canopy trees, eastern cloud forest, provisional attribution*
+
 Stores visions and is dangerously volatile. Provenance recorded on the strength of the resin's physical character and the tree species involved. *This attribution has not been confirmed by the Archives Division and is flagged accordingly.*
+
 **Glacium** · *T5 · Frost-infused mineral · Iampu, the elven old-ground, grown in the ice-caves under Winter Court licence*
+
 Not quarried in any ordinary sense. **Grown**, slowly, in caverns held below freezing for the purpose, in a process the Winter Court does not document and does not permit inspection of. Frost-bound weaponry and the frost-infused stock that supplements Iampu's gold in the mercenary trade. Bearing brittle, Holding high and narrow. Resonance: Vohrin. Family Caloria, Domain Thermodynamics.
 
 ---
@@ -87,7 +114,9 @@ Not quarried in any ordinary sense. **Grown**, slowly, in caverns held below fre
 ## The Works
 
 Shallow, fast, undercapitalised, and enormously productive. The eastern quarter works almost nothing at depth, **because it does not need to.** Its ore outcrops. Its gold is in the rivers. Its cement makes itself out of the ash that falls on the works. It has, in consequence, almost none of the array dependency that defines the west.
+
 The characteristic eastern operation is small, mobile, and expects to be somewhere else in five years. Buildings are Alchemelt over timber frame. Arrays are demountable. **Nobody sinks a shaft that assumes the ground will still be there.**
+
 The exception is the eastern arc, which has built the only permanent heavy industry in the quarter and has organised its entire polity around defending the four reduction arrays that make Cloudmetal possible.
 
 ---
@@ -103,4 +132,5 @@ The exception is the eastern arc, which has built the only permanent heavy indus
 ## Trade Posture
 
 Exports Cloudmetal, silver, gold, Onceglass, sulphur, and cement. Imports iron, tools, wolfram, credit, and expertise. **The arc owes the west heavily and resents it.** *This is the arc's posture, not the elven old-ground's.*
+
 The Accord's Arbitration Division spends a disproportionate share of its calendar on the arc's colonial rights, Wellspring access, and the question of whether an unregistered Onceglass charge is a weapon or a commodity.

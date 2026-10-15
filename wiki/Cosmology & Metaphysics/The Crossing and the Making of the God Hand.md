@@ -17,9 +17,11 @@ verification: "unverified"
 ## I. What the Soul Plane Is, From Inside
 
 The darkness was not empty. It had been expected to be. The absence of the Physical Plane's constant noise, the cessation of Cymorath input, a silence following the crossing the way silence follows the last note of a song.
+
 Instead: everything.
 > The Soul Plane does not speak in vibration. It does not carry pressure or temperature or the acoustic signatures a Physical Plane sensory Wellspring is built to catalogue. Those are the Physical Plane's languages. The Soul Plane speaks in something older, something that bypasses the Crystal's sensory pathways entirely and arrives at the awareness directly, the way a memory arrives — not through the ears, not through the skin, but through the specific architecture of **having-been-there** that the soul maintains as its primary recording medium.
 **Every world spirit.** Their presences distributed across the Soul Plane's archive layer like stars across a sky with no horizon, each one a point of sustained luminosity carrying the harmonic of an awareness present for longer than any mortal timescale can measure. They do not watch. They do not address. They are simply there.
+
 **Every connection.** The threads running between the Plane of Fate and the Physical World, the connective tissue of causality. Not as thread-visualisations, the luminous filaments of silver-white and deep blue and gold-violet that correspond to each plane's contribution when read through the Veil. Here as themselves. Unfiltered. Unmediated. The raw architecture of how everything connects to everything.
 > The **Ketsumōgan** had been a keyhole.
 >
@@ -40,6 +42,7 @@ Three properties of the Soul Plane behave nothing like their Physical Plane coun
 ## II. The Soulstream and the Dead
 
 Below the archive layer runs the tissue between worlds, the striated dark where the Physical Plane's density gives out and the Soul Plane's memory presses close. It is not restful and it is not empty. It is crowded beyond anything the living imagine.
+
 The dead move through it in currents. Not ghosts, which is what the living call the dead to make them smaller. These are souls in transit — **the Soulstream itself, Sylorin's long river running through the threshold** — and contact with one delivers a full life whole. A fisherman's forty years of salt and rope-burn and a daughter he never apologised to. A soldier who died believing the wrong man loved her. A child. A king. A woman who spent sixty years tending a garden and thought, at the end, only of the frost coming for her plums.
 > Others came to this place before and went mad from the weight. The account's distinguishing feature is that its subject catalogued it instead.
 >
@@ -50,6 +53,7 @@ The dead move through it in currents. Not ghosts, which is what the living call 
 ## III. The Reconstruction
 
 The old vessel's material — the Essence and Aether and Physical Plane substrate constituting the body — is returned to the medium it came from. What replaces it is assembled from different materials: not Physical Plane substrate but **the Soul Plane's architecture itself**, the quality of Essence that exists there, which carries memory, carries intention, and carries the accumulated weight of everything ever recorded in the archive.
+
 The sensation is not pleasure. It is **coherence** — an architecture that had been operating at a fraction of its designed capacity abruptly given access to the whole of it. Every Wellspring carried by the crossing party was present at full realised depth rather than at the partial harmonisations and averse frictions a Stage VII mortal Crystal can sustain: **Cymorath, Judicium, Anamnesis, Fixatio, Monolithion, Vantabriel, Luminalis, Anima Spirare.** The versions that existed before the Physical Plane's limitations compressed them into channels a mortal body could survive.
 ```mermaid
 flowchart TD
@@ -67,6 +71,7 @@ flowchart TD
 
   The boy who heard disaster coming and ran through the streets shouting warnings no one heeded would have drowned here, trying to hold each of those passing lives like water in cupped hands. That boy remained behind — the old shadow hanging in the dark a few span back, detached, small, shaped like a child with black hair and frightened eyes, watching what the rest of him was becoming.
 > *"I did not sell my soul. I gave it structure. There is a difference, and the difference is everything. A man who sells his soul receives payment. I received responsibility."*
+>
 > **On the seven, and which seven.** The corruptions named in this account are corruptions of **the Seven Works of Hataraki** — Ruin, Purity, Spirit, Temporality, Knowledge, Balance and Totality — authored by Bara in the Plane of Fate before chronology. *Totality is the seventh Work, which is why it settles last and folds shut around the other six.*
 >
 > **These are not the seven Cacodaemonic Corruptions of the Heresiology**, which are inversions of the seven stages of the Great Work and belong to alchemy. Two documents, two sevens, no relation beyond the number. **The archivists who conflated them produced the standard error in the secondary literature and the Guild has corrected it four times.**
@@ -108,8 +113,11 @@ A second claim was made on the same title, from a different direction, before th
   *"I assume you were built to be aimed. There is no shame in it. An arrow does not resent the bow. It resents missing."*
 
   "Then aim," said Septarch, "and learn what I do to bows."
+
 The convergence of registers is the other thing the account establishes. The lower register is the original voice — quiet, committed, the frequency that makes rooms reorganise. The upper register is the other thing, formed across the cold blood and the black spots and the narrowing Cymorath and the seven corruptions aligning into positions. The two do not fight. They converge the way two rivers converge at a junction, each carrying its own current and its own history, the junction eliminating neither and producing a third thing from both that is wider and deeper and carries the combined weight.
 > *We are legion.*
+>
 > *We are truth.*
+>
 > *They will not understand what we have to do.*
 The Veil thinned above, light bleeding through from the living world, and the ascent began with the dead parting in silence — every soul in the current turning, just slightly, to watch him pass. **Seven years began their patient work.**

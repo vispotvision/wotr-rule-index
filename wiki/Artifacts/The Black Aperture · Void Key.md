@@ -23,8 +23,11 @@ The blade proper reads no mass on any instrument, a documented property of Limin
 ### Operation line
 
 **Event-Edge.** Contact lets the *Uur* (Disruption) glyph condition a Nihiloth boundary along the cut plane, unthreading struck matter and Essence into null space; nothing severed this way returns, to the target or to anyone else.
+
 **Silence Field.** The *Ur* glyph runs inverted, so instead of stabilizing Essence gradients it collapses them within a radius, producing Harmonic Mute; any working attempted inside that radius suffers Aetheric Stall, since its own boundary conditions cannot hold.
+
 **Void Gate.** Rotating the blade through its ring lets the Nihiloth boundary open wide enough for transit, a Domain Phase Overlap into a starless interstice, functioning as a crude and unlicensed parallel to a Concord Gate.
+
 **Name-Eater.** Repeated strikes against a target's Soul Crystal apply Letheveil's forgetting-law directly to stored memory, erasing mnemonic imprints and, with enough repetition, producing full Resonance Erasure.
 
 ### Codex line

@@ -13,23 +13,37 @@ verification: null
 ## Runa Halvardsen
 
 **Kharven field card**
+
 **Level / Stage / Band:** pending Isaac
+
 **Combat grammar:** none established
+
 **Traits / techniques:** none established
+
 **Voice:** “Boil the rag again. If you have strength left to complain, you have strength left to hold him.”
+
 **Refusal line:** She will not surrender a living patient because another household decides the food is better spent elsewhere.
+
 **Conviction:** A healer’s first sin is choosing who counts as a person.
+
 **Arc kind:** corruption, unless checked.
 
 ### I · Identity
 
 **Name:** Runa Halvardsen
+
 **Register:** Kharven, old northern household naming
+
 **Age:** adult, about thirty; exact age pending Isaac
+
 **Origin:** northern Kharven; exact settlement pending Isaac
+
 **Affiliation:** her winter household and the people who come to her door
+
 **Status:** healer and practical midwinter authority, not a court officer
+
 **Level / Stage / Band:** pending Isaac
+
 **Catalyst Event:** none established. Her life is defined instead by repeated winters in which medicine, food and heat have all run short at once.
 
 ### II · Soul Architecture
@@ -59,7 +73,9 @@ None.
 ### Skills
 
 **FIELD MEDICINE — Held.** Recognises and treats frostbite, blood loss, contaminated wounds, fever, childbirth complications and common winter injuries with premodern tools and materials. Learned by apprenticeship and repetition in northern households. Numeric pricing pending Isaac.
+
 **MIDWIFERY — Held.** Practical childbirth care, haemorrhage recognition, warming, positioning, cord care and the limits of what can be saved without surgery. Numeric pricing pending Isaac.
+
 **WINTER TRIAGE — Drilled.** Sorts fire, food, bedding, clean water, dressings and labour under scarcity. This is a skill and a danger: she has begun applying its arithmetic to human worth. Numeric pricing pending Isaac.
 
 ### XI · Spirit Axes
@@ -77,8 +93,11 @@ Runa wears dark brown hair the colour of wet bark, cut blunt just below the jaw 
 ### XIV · Psychology
 
 Runa wants her settlement through the Thin Weeks with fewer graves than the winter before. She is competent because competence is cheaper than mourning, and unsentimental because tears freeze as readily as wash-water. She does not romanticise suffering and distrusts anyone who does. Her refusal is absolute: no living patient is to be abandoned because an elder, husband, wife or household head has done arithmetic over the stores. The fracture in that belief is already present. When supplies are low she has begun, privately and almost automatically, deciding which patient is most likely to justify the cloth, broth, salt or medicine spent on them. She has not admitted that this is the same arithmetic with a cleaner hand.
+
 **Voice:** short, concrete, dry. She names what a body is doing and what must be done next. She never speaks mystically about illness.
+
 **Lying / withholding tell:** she cleans, folds or re-wraps an instrument that is already clean.
+
 **Private belief that costs her:** usefulness and survival are becoming difficult for her to keep separate.
 
 ### XV · Equipment

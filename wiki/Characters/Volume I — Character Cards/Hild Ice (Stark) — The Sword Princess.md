@@ -11,16 +11,26 @@ verification: null
 # Hild Ice (Stark) — The Sword Princess
 
 **Say it** · HILD EYES
+
 *The Sword Princess · The Bastard · The Season*
 > **As Of:** The muster at Kharven-Seat, the morning of the ninth hour
+>
 > **Full Name:** Hild Ice (Stark-Moto, unrecognized)
+>
 > **Age:** 11 · **Bloodline:** Kōkan Line (paternal) / Stark (maternal)
+>
 > **Level:** 78 · **Stage:** I Murmuring (unstable, bloodline-driven) · **Band:** I
+>
 > **Titles:** The Sword Princess · Hild Ice · The Bastard of Kharven
+>
 > **Status:** Acting head of the Kokan Loyalist Coalition, seated at Kharven-Seat on the broken throne
+>
 > **Age:** 11 · **Bloodline:** Kōkan Line (paternal) / Stark (maternal)
+>
 > **Level:** 78 · **Stage:** I Murmuring (unstable, bloodline-driven) · **Band:** I
+>
 > **Titles:** The Sword Princess · Hild Ice · The Bastard of Kharven
+>
 > **Status:** Acting head of the Kokan Loyalist Coalition, seated at Kharven-Seat on the broken throne
 
 ---
@@ -28,9 +38,13 @@ verification: null
 ## Physical Description
 
 Eleven years old and carrying the architecture of a dynasty in a body that has not finished growing.
+
 Her hair is dark, the honest flat brown-black of her mother's Concord stock, but underneath the surface colour something else lives. In lamplight the hair is black. In direct sun, and in the moments when her Essence field rises under stress, the Kōkan Line's violet-metallic sheen surfaces like something swimming just below visibility, a flash of inheritance that is there and gone before the eye can confirm what it has seen. She wears it in a single heavy braid that starts at the crown and runs down the centre of her back, her mother's style, braided every morning with her own hands because the braiding is the prayer.
+
 Her face is her father's jaw on her mother's architecture. The wide-set jaw that communicates before the mouth does, carrying information that the words will deliver later or not at all. Cheekbones sharper than Sodoku's, Fern's contribution, and a nose that is straight and narrow and slightly too long for the proportions of her face. Her eyes are brown, warm ironwood heartwood, and in the left iris a faint ring-line traces the outer edge of the pupil in a colour that is not brown and not gold — the first sign of the Shingan developing. She has never shown it to anyone.
+
 Her body is a frontier body. Not the sculpted architecture of a trained practitioner. The practical, hard-wearing frame of a child who has chopped wood and hauled water and trained with a sword since she was nine, carrying muscle across the shoulders and forearms that reads as labour rather than cultivation. Hands calloused across every pad. She wears a quilted gambeson over a wool tunic, both undyed. Her boots are heavy, iron-nailed. A short blade hangs at her left hip, Lorn's gift, sized for a grip that has not finished growing.
+
 Her feet do not touch the floor when she sits on the throne. The dangling is the age. The voice is the blood.
 
 ---
@@ -38,6 +52,7 @@ Her feet do not touch the floor when she sits on the throne. The dangling is the
 ## The Cold
 
 Hild's Kokan inheritance expresses under stress as involuntary ambient temperature reduction. This is not a technique. She has not been trained. She does not control it. The cold arrives when the blood responds to the specific stimulus of threat or insult or the particular emotional pressure that governance produces in an eleven-year-old who should not be governing and who is governing anyway.
+
 The expression is raw Vohrin-adjacent resonance carried through Kōkan blood that has not been taught what it is doing. The Kamigan has not activated. The Shingan is forming but dormant. The cold is the blood speaking a language the girl does not yet understand, and the speaking is the promise, and the promise is: what she will become when the blood finishes what the blood has started.
 
 ---
@@ -45,15 +60,25 @@ The expression is raw Vohrin-adjacent resonance carried through Kōkan blood tha
 ## Voice
 
 **Notices first** · The chairs against the people in them, and the second sentence a man says rather than his first. Then whatever in the room is hers to carry, and whether anyone is about to take it from her.
+
 **Sentence length** · Short. Flat declaratives and orders shaped as questions without the rise ("Where is Bram now."). When the child leaks, a sentence starts too big, chains itself on "and" after "and", and does not land.
+
 **Contractions** · never; she has her father's uncontracted cadence without ever having heard it, and the child comes through in her words, not her grammar.
+
 **Pet word** · "I want." It gets out before the queen can stop it: I want to go to Bram, I want him to be an example, I want to see him.
+
 **Never says** · That something is too heavy, or that she is tired or hungry. She does not ask after her father; she asked for him once in eleven years. She never counts for its own sake: the only number she gives is one she has read in a report, and she gives it to correct somebody.
+
 **Stumbles** · Not in the ordinary way. The slip is a wrong word ("deny him of"), a sentence built bigger than she can finish, or a question asked out loud in company; she does not stop to mend it.
+
 **Gloss rights** · Never. She calls a thing what it is and leaves it unexplained.
+
 **Under stress** · The sentences shorten to orders and flat statements, and the cold rides on them: the left jaw tightens and releases, the air in the room drops, and the voice itself goes colder by choice.
+
 **In grief** · Silence first, as on the floor of her mother's room. When speech comes back it is the child's: smaller, every sentence turned into a question, her mother's words about the braid and the work of the hands underneath.
+
 **In joy** · The voice fails before the wall does: one word, too small and cracked down the middle, and then the body takes over. She runs, and frost goes out from her feet across the ground.
+
 **Sample line** · "If my father has truly changed. Who am I to deny him of his birthright."
 
 ---
@@ -75,7 +100,9 @@ The expression is raw Vohrin-adjacent resonance carried through Kōkan blood tha
 ## Standing Inventory
 
 **The broken circlet.** Her one regalia object, and she does not wear it. On the morning of the ninth hour she carried it down into the yard in her hand rather than on her head, set it on the mounting block and forgot it, and Lorn Stark picked it up and put it in his belt. The event is under Lore, at Where They Stand. Four of the five scenes that name the object call it broken; the fifth, *Recalescence*, says only that it was not on her head. No scene describes a repair, so it is broken and unmended. Her worn kit is the quilted gambeson, the wool tunic, the iron-nailed boots and Lorn's short blade at her left hip. The circlet is not among them, and has not been since that morning.
+
 **What is not recorded.** How it broke. Whose it was before it was hers. Why she carried it instead of wearing it. Where it went after Lorn's belt, Lorn being dead. None of that is on the page in any of the five scenes, so a writer reaching for her regalia writes what the archive has and leaves the rest open: broken, unmended, out of her hands, last seen in her uncle's belt. The hand instead of the head is open ground. It is not a recorded choice and it is not a recorded injury.
+
 **Where it recurs.** *The Muster, the Breach, and the Road North*, where the carrying, the forgetting and Lorn keeping it are all originated. *The Fixed End*, in Sodoku's reckoning of how she was raised. *The Shallow-Seen Unburied*, asleep under the cistern with it put down and forgotten. *Recalescence*, in what Reigan shows Sodoku of the cistern: "The circlet was not on her head." *The True Nature*, the ruined yard and "a girl had stood at the foot of a stair that morning with a broken circlet in her hand". The same entry is on Lorn Stark's card.
 
 ---
@@ -91,31 +118,45 @@ The expression is raw Vohrin-adjacent resonance carried through Kōkan blood tha
 #### Origin
 
 Hild was born to Fern Stark at Fern's holdfast in the Ironwood March. Fern's cousin Zaehaerys, the Warden who had raised her, had sent her south to learn how the Moto thought. She came home carrying Sodoku Moto's child. Zaehaerys rode to the holdfast and told her the name northern law gave a Stark child born before a recognised union. The name was Ice. Muken Moto signed the approval for the marriage on the morning he died. The courier never came.
+
 The holdfast was poor, and it was watched. Fern paid the Tenrai assessors to look elsewhere, because her daughter's hair caught a violet light in the sun. She gave the girl three things that could be carried. One was the braid, the Stark woman's single heavy rope. One was an altar: a plank of ironwood on two fieldstones, a strip of undyed linen, a clay jar of winterbell and an iron ring that had been Fern's mother's. The last was a definition. Prayer was the work of your own hands, offered without anyone watching. Fern liked winterbell because it kept blooming past the first frost. Of the child's father she told stories, and in them he was never the Butcher.
+
 Her brother Lorn kept the holdfast with her. Osric of Hallenfeld came up from the corridor with his father's ring and kept his blood to himself. When Hild was four, a man arrived who announced himself as someone who could count; Fern saw what he was, and Edward Lambert stayed.
 
 #### The Making
 
 Fern died in the room where the altar stood. The child lay on the floor of that room and would not eat or speak. Lorn came in, put a wooden practice sword in her hand and said two words: stand up. She stood. Brida Ashwell was the holdfast's physician by that winter, and once the girl was on her feet Brida made her eat.
+
 Lorn taught her the sword every morning after that. Lambert taught her the count. A granary's number was its lock. A man's second sentence told more than his first. The chairs in a room were counted against the people in it. When she was seven, Osric at last spoke the name Kōkan aloud, and he spoke it to her. She took the speaking as his oath.
+
 When she outgrew the wooden sword, Lorn gave her steel, short and sized for a grip that had not finished growing. With two dozen frontier volunteers she held the eastern road through a winter. The Tenrai assessors stopped coming. The broken houses of the Kōkan cadet line came to her because they had nowhere else to go. She let them see her stand.
+
 On Osric's counsel she went to Kharven-Seat to sit her grandfather's broken throne, because occupation was the claim. She carried her mother's altar there herself, to the room that had been Ayame's. Her feet did not reach the floor. When word came of exiles on the polar shelf, she asked to go to Bram Greymane. Osric read the road as Wren's. Tabitha Hallenfeld told her she was the target. She sent Brida and supplies in her place, with four words for Bram: the ridge does not move.
+
 Then Pietro Ashmore was brought before the throne in chains. Lorn put him on his knees. Pietro called her a bastard and laughed, and the cold came off her into the stone of the hall. Renard Greymane's hand tightened on his sword; she lifted her hand, and he did not draw. "None of you will kill this man," she said. She told the court that the approval had been signed and the courier had never come, and that by every registry she was a bastard. Then she called herself Hild Ice in front of the court, because calling the name was owning the name. "The name is Ice. The name sounds like winter." She sent him home alive with the story.
 
 #### The Cost
 
 Lorn and Osric had told her gently, beside the altar, that many of her own people called her Hild Ice. She never said the word bastard aloud until the day Pietro laughed.
+
 She wanted to eat what her people ate. Inside the walls they went to bed on a heel of rye. Lambert fought her over her ration in the hall more often than over anything else, and she ate the full ration every day. She called him a coward for it. He wrote that in his ledger under acceptable losses.
+
 She changed the winterbell in the jar only when the flowers stopped fighting the frost. While they held, she left them. She braided her own hair each morning, because the braiding was the prayer.
+
 When Lambert asked in the empty hall whether she meant to hand over the reins, she said, "We will have to see." Then: "If my father has truly changed. Who am I to deny him of his birthright."
+
 He told her the houses called her father and his brother the Kinslayers. "Kin who betrayed them," she said. She held that what they did at the Tenrai settlement came out of pain, and that many in that hall would have felt the same pull. Lambert did not argue it aloud.
+
 By his count she asked for her father once in eleven years. It was the night he came to the gate.
+
 On a later night, while Brida lay on the pallet inside, a Tenrai practitioner dressed as a Kharven courier reached the altar-room door where she slept. Renard killed the man in the passage. She did not wake.
 
 #### Where They Stand
 
 She ran to her father at the gate and cried into his breastplate. Then she stepped back and set her face. She had been living at the Hallenfeld factor's house on the low street, since the palace's east wing had no roof. There she corrected his count of Robin's ride south to thirteen days, because the southern road was out past the fourth ford. When her father bowed fourteen times at that table, she bowed on the fourteenth. Nobody there learned who had taught her.
+
 On the morning of the ninth hour she stood at the foot of the stair with Tabitha behind her and the broken circlet in her hand. Her father kissed her hair and rode out. She set the circlet on the mounting block and forgot it, and Lorn put it in his belt. The order put her below the old cistern with Osric, the gatehouse shut, no sortie. At the ninth hour Hild Ice went in the doorway that Osric had put himself in, and the black came through both of them together. She was twelve.
+
 She lies under one of three stones in the upper burying ground at Kharven-Seat, beside Lorn Stark and Osric of Hallenfeld. The lettering on all three is cut to one depth, at Lambert's instruction. The record of the year after holds that she would have taken in the Tenrai remnant and been called soft for it, and that her father took them in. The dying man's word at her door, that Lambert opened the west postern, stands without an answer.
 
 #### Ties

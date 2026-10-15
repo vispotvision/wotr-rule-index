@@ -20,6 +20,7 @@ verification: "unverified"
 ## Purpose
 
 The Black Concord exists to safeguard the Concord Codex from internal collapse and metaphysical exposure. When truths too great to exist threaten the order — **divine uprisings, Titan awakenings, collapsed Wellsprings, or human ascensions gone wrong** — the Black Concord acts before the world can learn.
+
 Unlike other Divisions, it answers only to the High Concordant. **Its operations are invisible to the Concord Council**, and its members' names are expunged from both mortal and divine record.
 > *"In silence, the law endures."*
 
@@ -60,6 +61,7 @@ Every mission, name, and record is burned after execution. Only the Overseer ret
 ## Recruitment
 
 **No one joins the Black Concord by choice. They are taken** — chosen from the ranks of the condemned, the Forsworn, or the dead. Through the **Rite of Absence**, their Soul Crystal is hollowed and re-tuned to the Null Frequency. Their memories are rewritten to serve the Accord's unseen necessities.
+
 To outsiders, these agents appear as ordinary operatives, scholars, or travellers. But the Black Concord can recognize one another by their **Resonance Silence** — *the faint emptiness that follows in their wake, a lack of Essence hum in the world around them.*
 
 ---
@@ -67,9 +69,13 @@ To outsiders, these agents appear as ordinary operatives, scholars, or traveller
 ## Tools and Relics
 
 **The Null Sigil** · A black Parun glyph that devours light, **carried beneath the tongue of every operative.**
+
 **The Silence Veil** · An Aetheric shroud that erases sound, scent, and emotion within its radius.
+
 **The Mirror of Amnesia** · An artifact that transfers memory from victim to user, **then self-destructs.**
+
 **The Oathknife** · A blade forged from the heart of a dead Wellspring. **Its cut severs both body and record.**
+
 **The Codex Fragment** · The Overseer's most sacred relic — a lost page said to contain **the Lattice's erasure command.**
 
 ---
@@ -86,8 +92,11 @@ Though answerable to no one but the High Concordant, the Black Concord is monito
 ## Known Operations · Declassified Fragments
 
 **Operation Ecliptica** · Erasure of the Divinity known as **Sire Ophen**, who attempted to overwrite the Harmonial Law.
+
 **Operation Pale Gate** · Sealing of the Rift in the Southern Wellspring during the Withering Age.
+
 **Operation Emberveil** · Assassination of **ten Archmagisters** who attempted to create a synthetic Titan.
+
 **Operation White Silence** · **Deletion of an entire city from the Mortal Plane** after its citizens achieved collective Ascension without sanction.
 > These fragments remain partially remembered **only because the Black Concord allowed them to be remembered** — a warning to those who believe the law cannot bleed.
 
@@ -102,5 +111,7 @@ The Black Concord operates under one sacred paradox.
 > For every hero the Lattice celebrates, **a hundred silent shadows die to make the story believable.** When the Accord proclaims peace, it is the Black Concord who kills the memory of war. When the Accord restores balance, it is the Black Concord who buries what must never be known.
 >
 > Their existence is both crime and salvation — **the sin that keeps the law pure.**
+>
 > *"If this record is read, you were meant to. If it is remembered, then silence has failed. May the shadows remain loyal where light cannot."*
+>
 > — Excerpt from the High Concordant's personal Lattice writ, Year 027 IC, Voyager Era

@@ -29,8 +29,10 @@ Thalen defines what can be manifested in reality. He governs the geometry that p
 #### Formaris — The Magic of Architecture and Geometry
 
 Formaris is the Archonic magic of structural definition, spatial anchoring, and the enforcement of geometric law upon chaotic matter. Practitioners of Formaris do not merely build; they declare what shapes reality is permitted to hold.
+
 At its **lowest expression**, Formaris stabilizes structures against collapse, reinforces ward geometries, and establishes Essence grids that distribute metaphysical stress across broad areas. At its **highest expression**, Formaris becomes the power to define the fundamental geometry of a Domain, to declare that within this space, only these angles may exist, only these proportions may endure, only these forms may take root.
 > **Through Attraction Force** · Formaris becomes consecrated structure, architecture that persists because reality recognizes its rightness.
+>
 > **Through Obsession Force** · It becomes imprisonment in form, the tyranny of shape that refuses to allow growth, change, or the organic deviation that keeps structure alive.
 **Connections** · Respected by Maelor (Memory), for archives require structure to persist. Trusts Urion (Balance), whose law prevents his structures from becoming instruments of tyranny. Contrasts Wyther (Motion); every storm is a test Thalen expects his work to pass. Reveres Auren (Stillness), recognizing that even death has geometry. Opposed by Uurgath (Disruption). Finds kinship with Elyndra (Renewal) when living growth wraps itself around stone without breaking it.
 
@@ -52,7 +54,9 @@ Valen enforces when events must occur. Where Thalen defines what can exist, Vale
 #### Chronaris — The Magic of Sequence and Duration
 
 Chronaris is the Archonic magic of temporal governance, causal enforcement, and the preservation of ordered time against paradox. Practitioners of Chronaris do not manipulate time in the theatrical sense of rewinding clocks; they enforce the lawful relationship between cause and consequence, ensuring that sequence remains coherent even under extreme metaphysical stress.
+
 At its **lowest expression**, Chronaris sharpens perception of an instant, slows the subjective experience of a critical moment, or defines a clean line between two events to prevent causal tangling. At its **highest expression**, Chronaris becomes the power to mark the end of an age and the beginning of another, imprinting temporal boundaries onto the Wellspring lattice that reorganize the flow of causality itself.
 > **Through Attraction Force** · Chronaris preserves sequence, history, causality, and meaningful progression.
+>
 > **Through Obsession Force** · It decays into loop-prison, recursive inevitability, frozen causality, and the inability of events to move beyond one wound, one vow, or one decisive moment.
 **Connections** · Kin to Maelor (Memory); Maelor keeps what happened, Valen keeps when and in what order it may be remembered. Distrusts Wyther (Motion), whose upheavals threaten to tangle timelines beyond repair. Holds quiet sorrowful respect for Auren (Stillness), knowing every ending is also a hard punctuation mark in his ledger. Rivals Uurgath (Disruption), whose entropy seeks to smear before and after into unreadable ruin. Shares a distant, necessary accord with Zhaeren (Horizon), for time needs somewhere to move through.

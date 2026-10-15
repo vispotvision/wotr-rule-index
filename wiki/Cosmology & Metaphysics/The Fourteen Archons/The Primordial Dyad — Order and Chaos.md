@@ -31,8 +31,10 @@ Urion governs the **Law of Equivalence**, the metaphysical axiom that every act 
 #### Judicaris — The Magic of Equilibrium and Judgment
 
 Judicaris is the Archonic magic of measured force, lawful arbitration, and the enforcement of cosmic fairness. Practitioners of Judicaris do not merely balance energies; they impose the fundamental axiom that every action carries a counterweight, and that no force may accumulate without generating its opposite.
+
 At its **lowest expression**, Judicaris manifests as the ability to stabilize Wellspring fluctuations, neutralize Essence imbalances within a Domain, and adjudicate disputes through metaphysical pressure rather than physical violence. At its **highest expression**, Judicaris becomes the power to enforce cosmic symmetry upon reality itself, compelling ceasefire between warring principles, binding oaths to their consequences, and ensuring that no soul's debt goes unweighed.
 > **Through Attraction Force** · Judicaris draws upon the Attraction Force's capacity for lawful recognition: it sees the true weight of every act, every intention, every accumulated imbalance, and declares the correction required.
+>
 > **Through Obsession Force** · Judicaris corrupts into paralytic stasis, forced symmetry that refuses to permit necessary imbalance, and the suffocating refusal to let any scale tip even when reality demands it.
 **Connections** · Allied with Maelor (Memory) and Iesara (Insight) as the **Triad of Law**. Adversarial to Uurgath (Disruption) and Veyra (Desire), whose impulses distort measured flow. Mutual respect with Wyther (Motion), though constant friction arises from Motion's refusal of rest.
 
@@ -54,8 +56,11 @@ Uurgath governs the **Law of Unmaking**, the entropy that claims all structures 
 #### Nihilaris — The Magic of Unmaking and Entropy
 
 Nihilaris is the Archonic magic of terminal dissolution, pattern erasure, and the return of all things to their most primitive state. Practitioners of Nihilaris do not destroy in the conventional sense; they accelerate the entropy already present within a target, finding the structural rot that every form carries and granting it permission to complete its work.
+
 At its **lowest expression**, Nihilaris corrodes wards, unweaves protective glyphs, and degrades Essence coherence. At its **highest expression**, Nihilaris becomes the power to erase concepts from the fabric of reality itself, consuming not just bodies but the memories of those bodies, not just structures but the possibility that those structures ever existed.
+
 Nihilaris is the Obsession Force given teeth: the fixation upon ending that refuses the rebirth which should follow.
 > **Through Attraction Force** · Nihilaris performs lawful ending, the necessary severance of what has overstayed its design.
+>
 > **Through Obsession Force** · It becomes recursive annihilation, the hunger that devours not to make room for creation but to satisfy the void's own appetite.
 **Connections** · Arch-enemy of Maelor (Memory), for remembrance defies his hunger. Loathed by Urion (Balance), who forever repairs what Uurgath tears. Feared even by Auren (Death), who calls him *"the After of After."* Occasionally courted by Veyra (Desire) and Wyther (Motion), for destruction can spark rebirth.

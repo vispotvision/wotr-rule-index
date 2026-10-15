@@ -18,7 +18,9 @@ verification: "unverified"
 
 > *"The first flame to rise was not of fire, but of breath."*
 **Seat**  Prime Elemental Titan of the Spiritual World, Draconis. Forged during the Second Breath of Aegor.
+
 **Domain**  Sky, Flame, Motion, Dominion of Dragons, Celestial Breath
+
 **Ground**  The Wellspring of Breath, called Motion and Ascension. The spiritual equivalent of respiration. Governs vitality, aspiration, and metaphysical ascent.
 
 ### Manifestation
@@ -40,13 +42,21 @@ Bairos, Fate, Epoch. Grants the pattern of freedom and rebellion. Maelor, Memory
 ### The Titan-Keyed Art — *The Skyfire Pulse*
 
 *Offensive · Caloria · Ignivale · Thermodynamics · Zenith+ · [Wy] Motion + [Noq] Wind*
+
 **Trigger**  A genuine exhale. The working cannot be cast while holding breath, and it refuses an external air source of any kind.
+
 **Effect**  Exhales a ribbon of purifying plasma that burns Essence impurity out of everything in its path and reawakens dormant Wellsprings under the cone. Corruption in the swept area burns away cleanly. Healthy tissue and healthy Essence pass through it untouched, which is what distinguishes it from ordinary flame and what makes the first witness assume it has failed.
+
 **Measure**  Burn radius and duration scale with lung capacity and Stage. Typical is a four to six metre cone lasting under two seconds.
+
 **Cost**  The caster's own respiratory system takes the first pass of the purification. Raw throat, reduced stamina, hours of it.
+
 **Limit**  It purifies. It cannot kill a healthy target, and a practitioner who has nothing false in him walks through the cone and out the other side.
+
 **Counter**  [Au] Death starves the working of the sustained breath-rhythm it needs, cutting the Pulse short before it completes its sweep. Half a cone is worse than none, because the target now knows what is coming.
+
 **What nobody knows**  Why the working refuses a borrowed breath. A bellows matched to the caster's exact lung volume and driven by the caster's own hand produces nothing at all.
+
 *Codex: [Wy] Motion + [Noq] Wind / Ignivale / Caloria / Thermodynamics / Zenith+ / Titan-Keyed. Method, Grade, Range and Medium open.*
 
 ---
@@ -55,7 +65,9 @@ Bairos, Fate, Epoch. Grants the pattern of freedom and rebellion. Maelor, Memory
 
 > *"Before the world learned to grow, she taught it to remember its shape."*
 **Seat**  Prime Elemental Titaness of the Spiritual World, Edenis. Forged from the Ashuric Breath lingering in Gaia's dreaming veins. Her daughter and her reflection.
+
 **Domain**  Renewal, Growth, Resurrection, Organic Memory, Wellspring Harmony
+
 **Ground**  The Wellspring of Renewal, called Verdance and Memory Reclamation. Regenerates spent Essence into coherent harmonic states. It underlies reincarnation and bloodline Trait inheritance both.
 
 ### Manifestation
@@ -77,13 +89,21 @@ Ashura, Spirit, Epoch. Grants renewal of soul. Bairos, Fate, Epoch. Binds her re
 ### The Titan-Keyed Art — *The Green Chord*
 
 *Supplementary · Vitalia · Rebirthine · Biochemistry · Zenith+ · [Vael] Renewal + [Yn] Bloom*
+
 **Trigger**  The dying practitioner's active, willing consent. The transfer cannot be forced, and a coerced consent registers as refusal.
+
 **Effect**  Transfers an incomplete Temperance path or a dying Trait directly into a successor vessel, the way a bloodline's lost art resurfaces three generations later. The successor experiences the inheritance as sudden procedural memory, knowing how without ever having practised, and the knowing arrives whole rather than in pieces.
+
 **Measure**  Transfer completes within the dying practitioner's final minutes. The successor's own Temperance Stage shifts by up to two Stages immediately.
+
 **Cost**  Personality bleed-through is standard rather than exceptional. Successors report intrusive thoughts and reflexes that are not their own for weeks, and the Edenis registers note that some never stop reporting them.
+
 **Limit**  It moves a path. It does not move a person, and no amount of bleed-through has ever preserved the donor.
+
 **Counter**  [Uur] Disruption corrupts the transcription mid-transfer, producing a successor holding fragments of the path and none of its coherence. Usually worse than no transfer at all.
+
 **What nobody knows**  Why some successors inherit the whole path and some inherit only the reflexes. The variable is not Stage, not kinship, not consent, and nobody has found a fourth candidate.
+
 *Codex: [Vael] Renewal + [Yn] Bloom / Rebirthine / Vitalia / Biochemistry / Zenith+ / Titan-Keyed. Method, Grade, Range and Medium open.*
 
 ---
@@ -92,7 +112,9 @@ Ashura, Spirit, Epoch. Grants renewal of soul. Bairos, Fate, Epoch. Binds her re
 
 > *"Even the gods must kneel before balance."*
 **Seat**  Prime Elemental Titan of the Spiritual World, Purganeth. Born when Bairos and Aegor forged a metaphysical mediator to stabilise spiritual consequence.
+
 **Domain**  Judgment, Balance, Karmic Return, Justice, Penance
+
 **Ground**  The Wellspring of Equilibrium, called Judgment and Penance. The Purganeth Wellspring mirrors all incoming energy back in kind. It is the metaphysical basis of karma and the only Titanic ground that produces no output of its own.
 
 ### Manifestation
@@ -114,13 +136,21 @@ Bairos, Fate, Epoch. Dictates the weighing of choice within destiny. Maelor, Mem
 ### The Titan-Keyed Art — *The Mirrored Scale*
 
 *Defensive · Fulguria · Judicium · Electromagnetism · Zenith+ · [Ur] Balance + [Sel] Measure*
+
 **Trigger**  An actual signed, sworn or spoken commitment already in effect. The glyph mirrors real reciprocity and cannot invent an obligation where none was made.
+
 **Effect**  Mirrors all incoming Essence back on its source in exact kind. Whoever breaks the commitment receives back precisely the Essence-cost of the harm they caused, undiminished and without delay. There is no accumulation, no interest and no mercy in the arithmetic.
+
 **Measure**  Reflection is exact to within the same Stage-band the caster operates in. No amplification and no attenuation.
+
 **Cost**  The caster is bound by the same mirror for the working's duration. Any cruelty in how they cast it returns to them first, before it ever reaches the target.
+
 **Limit**  It reflects. It originates nothing, and against an opponent who never strikes it does exactly as much as a closed door.
+
 **Counter**  [Ve] Desire introduces a new, unmirrored want into the field, breaking the closed reflective loop the working depends on. The Ember Magistrates consider this the single most cynical counter in the Accord register and use it anyway.
+
 **What nobody knows**  Why an oath sworn in a language neither party speaks still mirrors, and one sworn insincerely in a shared tongue does not.
+
 *Codex: [Ur] Balance + [Sel] Measure / Judicium / Fulguria / Electromagnetism / Zenith+ / Titan-Keyed. Method, Grade, Range and Medium open.*
 
 ---
@@ -129,7 +159,9 @@ Bairos, Fate, Epoch. Dictates the weighing of choice within destiny. Maelor, Mem
 
 > *"Reality is only the slowest dream."*
 **Seat**  Prime Metaphysical Titaness of the Spiritual World, Virelion. Forged in the Third Breath of Bairos as the filter of sanity between waking and divine cognition.
+
 **Domain**  Dreams, Imagination, Illusion, Thought, Subconscious Creation
+
 **Ground**  The Wellspring of Veils, called Dream and Perception. Governs imagination and self-image. The Somnum Flow runs through its harmonic pool.
 
 ### Manifestation
@@ -151,13 +183,21 @@ Maelor, Memory. Ensures continuity of dream and recollection. Ashura, Spirit, Ep
 ### The Titan-Keyed Art — *The Somnum Flow*
 
 *Supplementary · Limina · Oneirion · Abstract/Entropic Systems · Zenith+ · [Ka] Dream + [Vl] Veil*
+
 **Trigger**  The caster must first have witnessed the target's genuine unguarded self-image. A performed one will not serve, and the working can tell the difference even when the caster cannot.
+
 **Effect**  Opens the Somnum Flow directly and lets the caster reshape a target's self-image at the root, redefining what they believe themselves to be and therefore what they are capable of becoming. The target's behaviour, confidence and capability shift to match the new image. The change is real rather than cosmetic, which is precisely the problem with it.
+
 **Measure**  Reshaping takes effect gradually over days, consistent with genuine belief change rather than instant compulsion.
+
 **Cost**  The channel is bidirectional the entire time it stays open. The caster's own self-image is exposed to reciprocal reshaping for the full duration, and the target does not have to be conscious of doing it.
+
 **Limit**  It edits belief, not fact. A man convinced he is a swordsman still cannot lift a blade he lacks the arm for.
+
 **Counter**  [Ie] Perception lets the target compare the reshaped self-image against an outside, trusted witness's account. The discrepancy collapses the rewrite, which is why the working is nearly always attempted on the isolated.
+
 **What nobody knows**  Why the channel closes on its own when the caster falls asleep and stays open when the caster is knocked unconscious.
+
 *Codex: [Ka] Dream + [Vl] Veil / Oneirion / Limina / Abstract-Entropic Systems / Zenith+ / Titan-Keyed. Method, Grade, Range and Medium open.*
 
 ---
@@ -166,7 +206,9 @@ Maelor, Memory. Ensures continuity of dream and recollection. Ashura, Spirit, Ep
 
 > *"All souls return to the river."*
 **Seat**  Prime Psychospiritual Titan of the Spiritual World, Etherea. Forged in the moment of first mortality as the cosmic countermeasure against spiritual decay.
+
 **Domain**  Soulstream, Passage, Memory Transition, Death and Rebirth
+
 **Ground**  The Wellspring of Etherea, called Continuance and Passage. A translucent river of light running through all planes, visible at the instant of death and in deep meditation and at no other time.
 
 ### Manifestation
@@ -188,13 +230,21 @@ Maelor, Memory. Keeps the ledger of all lived experience. Ashura, Spirit, Epoch.
 ### The Titan-Keyed Art — *The Ferryman's Current*
 
 *Supplementary · Fluxia · Somnalis · Fluid Dynamics · Zenith+ · [Au] Death + [Vor] Return*
+
 **Trigger**  The exact moment of death. Not before and not after, and the window does not widen for skill.
+
 **Effect**  Rides the Ethereal Flow itself, carrying a soul between death and re-embodiment along Sylorin's own current instead of waiting for natural passage. The soul arrives at its next state with full continuity of self and none of the disorientation that unassisted drift produces.
+
 **Measure**  Passage time drops from the natural hours-to-days window to under a minute.
+
 **Cost**  A soul moved that fast arrives with the full undiminished emotional charge of its own death still attached. The receiving body has to be ready to hold genuine trauma at the instant of arrival, and most are not.
+
 **Limit**  It carries. It does not resurrect, and it cannot move a soul that has already begun to drift.
+
 **Counter**  [Wy] Motion introduces turbulence into the current, which can strand or scatter the soul mid-passage. The Order of Still Waters classifies this as the worst outcome available in the entire register.
+
 **What nobody knows**  Why a soul carried on the current arrives dry and a soul that drifts arrives wet. Every ferryman in four quarters uses those two words and none of them can say what the words describe.
+
 *Codex: [Au] Death + [Vor] Return / Somnalis / Fluxia / Fluid Dynamics / Zenith+ / Titan-Keyed. Method, Grade, Range and Medium open.*
 
 ---
@@ -203,7 +253,9 @@ Maelor, Memory. Keeps the ledger of all lived experience. Ashura, Spirit, Epoch.
 
 > *"What you fear remembers you."*
 **Seat**  Prime Noetic Titan of the Spiritual World, Helströva. Formed as the echo of the void within every mind, forged during the Fourth Dissonance.
+
 **Domain**  Shadow, Fear, Revelation through Darkness, Secrets, Survival Instinct
+
 **Ground**  The Wellspring of Shadow, called Fear and Revelation. A bottomless abyss lit by beams of memory that illuminate terror for an instant before extinguishing.
 
 ### Manifestation
@@ -225,11 +277,19 @@ Thalen, Form. Grants structure to shadow and body to fear. Iesara, Insight. Ensu
 ### The Titan-Keyed Art — *The Hollow That Watches*
 
 *Offensive · Limina · Tenebra · Abstract/Entropic Systems · Zenith+ · [Thal] Silence + [Ie] Perception*
+
 **Trigger**  Total ambient silence, either already present or actively enforced before the glyph takes hold.
+
 **Effect**  Silences a region and forces every mind inside it to confront one true fear directly, then extracts the revelation that follows. Each mind meets its single most load-bearing fear rather than a generic or random one, and the specificity is the entire value of the working and the entire danger of it.
+
 **Measure**  The revelation lasts a single beat, under one second of subjective exposure. The psychological aftereffect lasts considerably longer.
+
 **Cost**  The caster is not exempted by the silence they enforced. Their own fear surfaces in the same beat as everybody else's, in front of everybody else.
+
 **Limit**  It reveals. It compels nothing, and a subject who already knows what they fear loses only the second in which they are reminded.
+
 **Counter**  [Se] Song reintroduces harmonic noise into the silence. The beam cannot form without a genuinely quiet field to strobe through, which is why a single sustained note from anyone present ends the working before it starts.
+
 **What nobody knows**  Why the fear surfaced is never the fear the subject would have named. Not once, in the whole recorded history of the working.
+
 *Codex: [Thal] Silence + [Ie] Perception / Tenebra / Limina / Abstract-Entropic Systems / Zenith+ / Titan-Keyed. Method, Grade, Range and Medium open.*

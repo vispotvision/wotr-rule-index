@@ -53,6 +53,7 @@ Perception and Analysis share a single stream rather than passing data between t
 ## Activation
 
 Solution activates from **concentration, not equilibrium.** Where Moetana requires emotional honesty, Solution requires cognitive stillness: a moment of perfect focused attention with the entire Gnosis architecture pointed at a single problem. **The focus is the nucleation site.** The synchronisation crystallises around it and the sub-stats lock within 1–3 seconds.
+
 **The visual signature is silver.** The Shell emits in the high-ultraviolet and near-visible spectrum — to an unaided observer a silver-white luminance around the head, face and upper body. Not a glow from within but a radiance from the Shell's surface, **the visible expression of every neural pathway firing at synchronised coherence.** The pupils contract as Perception output overwhelms the visual cortex with data density the biological eye was not designed to carry.
 > The bearing changes. Movements become economical, precise, stripped of the micro-adjustments and habitual gestures that characterise unsynchronised human motion. They do not fidget. They do not blink at the normal rate. **They look at things as if seeing them for the first time, because in a meaningful sense they are.**
 
@@ -73,9 +74,12 @@ Solution activates from **concentration, not equilibrium.** Where Moetana requir
 ## Cost
 
 Sustained by **neural Essence, the fastest-burning fuel the Crystal produces.** Cognition is the most expensive thing a soul does, and Solution removes every efficiency ceiling that normally throttles it.
+
 **EU** · 20,000–50,000 per minute depending on simultaneous streams and resolution.
+
 **Duration** · 3–10 minutes at full coherence with adequate reserves. Beyond the sustainable window **the synchronisation degrades rather than collapsing** — sub-stats desynchronise one by one, and the practitioner experiences a progressive narrowing of capability rather than an abrupt shutdown.
 > **Immediate backlash.** Post-Solution cognitive fatigue. Vascular headache — the neural vasculature has been under sustained demand and the dilation is painful. **Memory processing lag**, as the eidetic record requires hours to integrate into long-term storage and normal memory function is degraded meanwhile. **Gnosis refractory period of 10–60 minutes below baseline.**
+>
 > **Severe backlash.** Overextension produces neural strain: migraine-grade headache, **memory fragmentation** in which recent Solution-window memories become disordered or inaccessible, and **loss of consciousness** as the Gnosis architecture shuts down to prevent structural damage. Recovery: hours to days.
 
 ---
@@ -83,8 +87,11 @@ Sustained by **neural Essence, the fastest-burning fuel the Crystal produces.** 
 ## Counters
 
 **Emotional assault** · A sufficiently powerful Harmonics-based attack can overwhelm the reclassification and force the Harmonics architecture to reassert independence. **When emotion stops being data and starts being experience, the synchronisation fractures**, because the bandwidth is no longer unified.
+
 **Sensory saturation** · Ash fields, signal-reduction, dream-interference, sustained multi-source output. **The synchronisation does not collapse. It prioritises** — and prioritisation means something is being ignored, *and the thing being ignored is frequently the actual threat.*
+
 **Aurevane's glare** · The practitioner sees everything, **and everyone can see that they are seeing everything.** Their analytical focus is traceable, and what they are looking at tells the opponent where the practitioner believes the threat is.
+
 **Duration** · **Solution has a clock.** Survive the window without being solved and win by default, because the post-Solution practitioner is cognitively impaired, Gnosis-suppressed and headache-blinded for the next hour.
 
 ---
@@ -92,7 +99,9 @@ Sustained by **neural Essence, the fastest-burning fuel the Crystal produces.** 
 ## Corruption Vector
 
 Fulguria's terminal corruption is **Sensory Overload leading to Cognitive Dissolution**, and Solution is the discipline most directly pointed at that destination.
+
 The practitioner develops a tolerance for the synchronised state and a corresponding intolerance for the unsynchronised one. **They know what their mind is capable of. They have seen it operate as a single instrument.** Returning to the partitioned default feels diminished, and the feeling worsens with each use.
+
 **Early symptom** · Voluntary over-activation. Solution entered for research, planning, social analysis. The cost is paid willingly **because the alternative is thinking slowly.** The refractory periods lengthen, the headaches persist, and the practitioner enters Solution more frequently **without recognising that the impairment is caused by the frequency of use rather than by any baseline degradation.**
 > **Terminal symptom.** The sub-stats, trained to fire in lockstep, fire in lockstep continuously. Every face is analysed. Every voice decoded for intent. Every room mapped and modelled. **The world becomes an unending data stream the mind cannot look away from, because looking away requires the partitioned mode that no longer exists.**
 >
@@ -108,4 +117,5 @@ Structurally analogous to **Moetana**, but operating on a single stat architectu
 > Where Moetana aligns all three Crystal layers at the cost of biological lifespan, Solution synchronises all Gnosis sub-stats at the cost of neural Essence and cumulative architecture damage. **Moetana pays in years of life. Solution pays in the capacity to think normally afterward.**
 >
 > The pairing is two answers to one question: what does the Crystal look like when its internal partitions are removed? **Moetana removes the partitions between layers. Solution removes the partitions within a single stat. Both discover that the partitions were load-bearing.**
+>
 > See also: **Ainigma**, whose entire systemic position is the manufacture of data Solution cannot unify.

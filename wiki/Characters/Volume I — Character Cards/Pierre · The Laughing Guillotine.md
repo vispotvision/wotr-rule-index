@@ -12,6 +12,7 @@ verification: null
 
 **Say it** · pee-AIR
 > *"I don't tell the truth; I make it trip in front of witnesses."*
+>
 > **Temperance corrected under the Benediction mapping.** The card reads **"Refraction → Benediction border."**
 >
 > *Refraction is Stage VII; Benediction maps to Stage VIII, Transcendence.* The card is describing a practitioner on the threshold between them **—** ***and "composure never cracks unless he chooses it to" is the Transcendence side of that line.*** Built at Stage VIII.
@@ -23,9 +24,13 @@ verification: null
 ## I · Identity
 
 **As Of** · After the Measure at Ironlink Hold
+
 **Name** · Pierre, **"the Laughing Guillotine."** *Alias:* **Harlequin of the Red Sleeve.**
+
 **Function** · **Court Fool / Interrogant.** *Panic-breaker when hired, riot-starter when bored.*
+
 **Affiliation** · **Freelance.** *Keeps an Arbitration pin he "borrowed" from Vireline and returns on holidays.*
+
 **Look** · **Tall, striped motley cut like funeral finery; cape black as stage-curtain; ruff spattered scarlet; one boot red to the knee.** *A jester's cap with a spiral rosette.* **His neck bears a thin smile of a scar** — *sometimes the head keeps talking while the body keeps walking.*
 
 ### Role
@@ -47,7 +52,9 @@ verification: null
 **Oneirion** · Limina. **Governing.** *Configuration space — a system's every possible arrangement as a coordinate in a space with no physical location.*
 > ***Headman's Privilege is the most extreme Oneirion effect in the migration.*** *He uncouples head and body for a short scene — which is not a wound, and not a trick. It is a body occupying two coordinates that were both already available, which is why the split shortens under stress: the arrangement gets harder to hold.*
 **Anamnesis** · Limina. **The memory hooks threaded into jokes**, and the twelve bells that each ring at a different lie.
+
 **Mirithane** · Limina. **A true mirror adds nothing** — *the Threaded Mask shows the version of Pierre they deserve, because what returns is exactly what was brought.*
+
 **Fixatio** · Materia. **Anchors and seals** — *the Red Sleeve, which stains an oath so its breaker feels shame.*
 
 ---
@@ -89,7 +96,9 @@ verification: null
 ## VI · Traits
 
 **Headman's Privilege** · **Can** ***uncouple*** **head and body for a short scene**; *the head distracts and lies charmingly while the body does the necessary thing.*
+
 **Punchline Tax** · **Laughter he causes knocks a truth loose**; *someone blurts what they meant not to say.*
+
 **Red Sleeve** · **When his glove is bloody, he may touch an oath and "stain" it**; *the stained party feels shame if they try to break it.*
 
 ---
@@ -97,7 +106,9 @@ verification: null
 ## VII · Implements
 
 **Bell-Ruff** · **Twelve dull bells; each rings at a different lie.** *He knows which is which.*
+
 **Pierrot Cane** · **Light, silver-capped; draws invisible stage marks**; *those who step on them hit their cues whether they meant to or not.*
+
 **Threaded Mask** · **When worn, people see the version of Pierre they deserve** — *buffoon, saint, devil* — **while he sees the room as blocking lines and exits.**
 
 ---
@@ -105,8 +116,11 @@ verification: null
 ## VIII · Techniques
 
 **Aside to the Gallery** · **He turns to an empty corner and speaks; the room cranes that way and misses the handoff behind them.**
+
 **Deadpan Split** · **Head keeps smiling centre-stage; body drifts behind a target** *and ties a silk knot around a wrist that shakes only when they intend a betrayal.*
+
 **Curtain Call** · **He claps once, slowly**; *arguments lose momentum as if reminded the play is nearly over.*
+
 **Joke with a Knife In It** · **Sets up a harmless gag; on the laugh-beat he pricks the thread that holds a coalition together** *and watches it sag politely.*
 
 ---
@@ -120,6 +134,7 @@ verification: null
 ## X · Strengths & Weaknesses
 
 **Crowd control through rhythm rather than threat.** · **Can re-block a room in three sentences.** · **Immune to most stage frights — panic, shame, heroics — he rides them like ropes.**
+
 *Sincere silence unmans him.* **If someone refuses the laugh three times, his Punchline Tax won't land.** *The head/body split shortens with stress; overuse leaves him hoarse and shivering.*
 
 ---
@@ -127,7 +142,9 @@ verification: null
 ## XI · Relationships
 
 **Vireline of the Three Masks** · **Frenemies** — *she writes the Measure, he "directs" the scene to hit her clauses.*
+
 **Marigold Vance** · **Trading partners** — *his punchlines loosen knots; her receipts tie them in the right place.*
+
 **Kaito, Scarlet Plague** · **Professional.**
 > **Codex** · Limina / Abstract–Entropic / Oneirion primary / Stage VIII.
 
@@ -140,27 +157,37 @@ verification: null
 #### Origin
 
 Pierre was born into a company of players who carried their stage on carts through the market towns of the Concord. His mother played the gallery. She came on late, stood at the edge of the boards and spoke past the actors to the crowd, and she drew her laugh a beat after the line had landed, when the yard had stopped expecting one. Nobody in the company wrote down who his father was.
+
 He grew up behind the curtain. He could name every exit of an inn yard before the carts were unhitched. From the wings he watched the faces, and he learned which of them laughed because their neighbours did. The late beat he learned from her. It was the one thing she taught him on purpose.
 
 #### The Making
 
 A lord of the Concord saw the company play and took the young man into his household as a fool. Pierre left with one thing of the company's, a light cane with a silver cap. He wore the stripes and the cap with its spiral rosette at the lord's table, and he was paid to say at supper what the steward could not. For some years it was a living.
+
 The lord had sworn to his guests that his daughter's dowry chest was full. At a feast Pierre set up a joke about empty boxes. The lord laughed, and on the laugh he told the whole hall that the chest was empty. The guests were gone before morning.
+
 The lord put his fool under a blade in the yard. The household came out to watch. The blade came down. Pierre's head finished the joke it had begun, and his body got up and walked down the steps. The yard laughed a beat after the line had landed, when it had stopped expecting to. Nobody stopped him at the gate. The cut healed into a thin smile of a scar.
+
 The story travelled the wrong way round. The towns called him the Laughing Guillotine, as if he had worked the blade. He let the name stand.
 
 #### The Cost
 
 He walked out in the ruff he had worn to the yard, spattered scarlet, and he never washed it. Over the years he sewed dull bells into it and learned which lie each one rang at. He had his motley recut in the lines of funeral finery.
+
 The knife in his jokes pricked the thread that held a coalition together, on the laugh-beat, and he watched the coalition sag politely. When an oath needed his stain, the blood on the glove was his own. He opened the heel of his hand for it. The split between head and body shortened under strain, and a long one left him hoarse and shivering.
+
 "I don't tell the truth; I make it trip in front of witnesses." He held to that after the yard as he had before it. It tied him to an audience. A room with nobody watching cut his strings. A person who refused the laugh three times was safe from him. Sincere silence unmanned him.
+
 Through the Threaded Mask people saw the version of him they deserved: buffoon, saint or devil. None of them saw the kindnesses. A clerk who blurted a debt on his laugh-beat at a guild supper found it paid at the chandler's soon after. The chandler could not describe the man who paid it.
 
 #### Where They Stand
 
 Pierre works freelance. The guilds hire him to detonate hypocrisy, and the Black Concord rents him to salt negotiations. Hired, he breaks a panic. Bored, he starts a riot. He can re-block a room in three sentences, and he rides its panic, shame and heroics like stage ropes.
+
 He keeps an Arbitration pin he borrowed from Vireline of the Three Masks, and he returns it to her on holidays. She writes the Measure. He directs the scene until it hits her clauses.
+
 At Ironlink Hold the carrying company's guild hired him for one of her Measures, and he wore her pin on his collar. A factor's partner had answered all morning in embroidery and would not turn Lord Lucen Vale's Dawn Coin. Pierre set up a harmless joke. The partner laughed, and on the laugh he said plainly that he would carry the grain at the old rate. Cassiel Asterion's seal took the words, and a gilt chit printed into Marigold Vance's belt-purse. His punchlines loosen knots, and her receipts tie them in the right place. That chit has never rattled.
+
 Kaito Akagiri warms a room until someone blurts, and the Black Concord hires them both. Pierre keeps their dealings professional. He has never executed anybody. Crowds who hear the name take him for a headsman, and he lets them.
 
 #### Ties

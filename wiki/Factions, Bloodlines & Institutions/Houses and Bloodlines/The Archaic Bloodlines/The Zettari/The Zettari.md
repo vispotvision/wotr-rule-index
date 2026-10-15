@@ -12,6 +12,7 @@ verification: "unverified"
 
 *Transcendent Sovereign Lineage · Path-Born Royal Human Bloodline*
 > Second Epoch. Founded by **Aegor Zettari** in the Paths. Aegor → Shaka-Al Zettari → the Royal Zettari Bloodline.
+>
 > **"The body is the first throne. The blood is the first oath. The ancestor does not die while the living still stand."**
 
 ---
@@ -19,10 +20,13 @@ verification: "unverified"
 ## Physical Appearance
 
 **Zettari are not merely strong humans.** Their bodies are sovereign physical instruments, built with density, balance, and destructive capability far beyond ordinary mortal architecture. Their muscles are not decorative — **they are compressed load-bearing structures** reinforced by Essence, ancestral pressure, and Physical Plane authority.
+
 They range from 6'0" to 7'4", with naturally powerful shoulders, dense bones, strong backs, heavy hands, and grounded posture.
 > **A Zettari body feels less like flesh trained into strength and more like law given muscle.**
 **Eyes** · Silver and dark blue are common. **Pitch-black is the rarest and often indicates deeper Path resonance.** When awakened, the Everlasting Eyes become pale silver-white, **with luminous veins spreading across the face.**
+
 **Skin and markings** · Tones range from dark to light. Tattoos appear in patterned designs representing **life progression, oath, combat growth, ancestral recognition, and sovereign maturity.**
+
 **Hair** · Black is most common, blonde rare. Locs, braids, loose straight hair, and low cuts. **During Ancestral Ascension, light hair darkens and black hair becomes ink-black with metallic sheen.**
 > **Auditory resonance.** Their voices carry grounded command. **Their footsteps can sound like drums beneath stone.**
 >
@@ -35,18 +39,21 @@ They range from 6'0" to 7'4", with naturally powerful shoulders, dense bones, st
 ### Path-Forged Sovereign Body
 
 *Dominant physical lineage passive.* **The Zettari body is their first throne.** Flesh, bones, tendons, organs, nerves, and Aether Shell are all built to carry Physical Plane authority. In direct bodily confrontation they are **among the most dominant mortal bloodlines in existence.**
+
 Major increase to Fortitude, Constitution, Ossification, Absorption, Endurance, Tenacity, Threshold, Gravitas, Scarring, and Regeneration. Their bones withstand forces that would pulverize normal Essence-reinforced bodies of the same grade. Their tendons and joints **resist locks, breaks, dislocations, and torque-based counters.** Their bodies **naturally convert pain, pressure, and repeated trauma into structural reinforcement.** Lower-grade physical attacks often fail to move them at all unless enhanced by piercing, conceptual, or Voidic effects.
 > *A Zettari standing still can feel more threatening than another warrior charging. Their body gives the impression of a sealed gate, a war monument, and a predator at rest.*
 
 ### Ancestral Dominion Frame
 
 *Royal blood passive.* Pureblood Royal Zettari carry an intensified body-state inherited through the Paths. **Their ancestors do not simply guide them; their bodies are built from remembered victories, defeats, wounds, and sovereign corrections.**
+
 Their stance becomes **harder to break the longer combat continues.** Repeated impact against them becomes less effective **as their body "learns" the force.** They maintain combat function even after severe blood loss, bone damage, or Essence fatigue.
 > *When a Royal Zettari is wounded, the wound does not feel like weakness. It feels like the body recording another reason not to fall.*
 
 ### Physical Plane Authority
 
 *Sovereign reality passive.* **Their bodies are recognized by the Physical Plane.** Matter, force, space, time, Essence, and Aether respond to them **as beings with inherited authority over material existence.**
+
 Enhanced resistance to gravity distortion, spatial compression, forced displacement, and physical law manipulation. Trained Zettari can **disrupt Aether flow through direct strikes.** Advanced practitioners can stabilize collapsing structures and **impose physical order through presence.** Unusually effective against casters who rely on distance, unstable Essence, or fragile Aether channels.
 > *Reality bends less freely around a Zettari. Their presence tells the world: hold shape.*
 
@@ -58,9 +65,11 @@ Enhanced resistance to gravity distortion, spatial compression, forced displacem
 ### Everlasting Ocular Inheritance
 
 *Sovereign eye passive.* Perception of Essence, Aether flow, spatial distortion, time instability, structural flaws, spiritual fractures, and **eventually existential continuity.**
+
 Base users read Essence flow and weak points with extreme precision. Awakened users interpret causality, metaphysical structure, and reality's governing laws. **Final-stage users perceive creation, destruction, fate, continuity, Void pressure, and existential permanence.** High usage risks **eye bleeding, sensory overload, emotional detachment, blindness, and loss of ordinary human perception.**
 > *Their eyes do not search for weakness. Weakness reveals itself because the eyes have arrived.*
 **The rarest expression of this inheritance is the Origin Eye, which does not breed true and does not follow the crown.** See below.
+
 Jicho la Chanzo — The Origin Eye
 
 ### Material Force Potential
@@ -73,6 +82,7 @@ Jicho la Chanzo — The Origin Eye
 ### Material Covenant Resonance
 
 *Aegorian law inheritance.* Latent resonance with the **Material Covenant** established by Aegor. Not full Material Force mastery, but alignment of body and Soul Crystal with **the underlying laws that govern matter's right to exist.**
+
 Heightened sensitivity to density, weight, structural integrity, and material coherence. Instinctive stabilization of nearby structures under stress. Partial immunity to low-grade anti-form intrusion. **Advanced practitioners can feel fractures in physical law before they manifest.**
 > *Where others see objects, the Zettari feels agreements. Stone, steel, flesh, and space all whisper the same truth: remain.*
 
@@ -81,6 +91,7 @@ Heightened sensitivity to density, weight, structural integrity, and material co
 ## System Metrics
 
 **Path bias** · **Body Path dominant.** Attraction and Fate are strong through ancestry, sovereignty, and the Paths. Spirit Path appears most strongly in ocular masters, scholars, and Material Force theorists.
+
 **Stat modifiers** · Major **+Vitality**, **+Dexterity**, **+Resilience**, **+Tempering**. High **+Dominion**. Moderate +Harmonics through ancestral rites. Variable Ardency depending on training. **Lower natural flexibility against nameless, structureless, or pure Void phenomena.**
 
 | Bloodline tier | Ancestral Ascension efficiency |
@@ -102,11 +113,17 @@ Heightened sensitivity to density, weight, structural integrity, and material co
 ## Culture
 
 **Cord of Becoming** · A Zettari crafts cords with beads and ornaments to mark growth, battle survival, grief, vows, marriage, inheritance, and sovereign duty.
+
 **Ink Rite of the Living Ancestor** · Patterned tattoos given after major life thresholds. **These marks record what the body endured and what the soul refused to abandon.**
+
 **Stone Witness Oath** · Important vows are spoken before stone, ruins, ancestral halls, or Path-linked relics. **A vow is not considered complete unless something older than the speaker hears it.**
+
 **Agano Sand and the Witnessed Temper** · The forge culture. A bound claim spoken over the quench before a Stone Witness, held in place by Material Covenant Resonance. *See The Zettari — Agano Sand and the Witnessed Temper.*
+
 **Ancestor Communion** · The living sit in silence and listen for ancestral pressure through cords, tattoos, relics, and the Soul Crystal.
+
 **Signature imagery** · Gold and silver jewelry, dark robes, white eyes, black hair, royal cords, ancestral sand, patterned tattoos, stone halls, heavy drums, **and pressure beneath the feet.**
+
 **Register** · The Zettari speak their own tongue. Their names and their arts are Swahili, Bantu and Arabic in flavour — Kafa-Karim, Habl Flow-Bind, Sarmad Fracture, Sukun Maji, Dawam Soul-Still Art, Kumi-na-Mbili Seal; Zuberi, Ma'Kovu, N'Kharu, Malani, Jomari, N'Yari, Zembari — and that register stands. The five-strata naming convention assigns the archaic bloodlines to the Japonic stratum; the Zettari are carved out of it as a register of their own, and the Japonic assignment continues to govern every other archaic line. Ruled by Isaac, 2026-09-12.
 
 ---
@@ -125,7 +142,9 @@ Heightened sensitivity to density, weight, structural integrity, and material co
 ## Current Standing
 
 The original Path-born bloodline began with **Shaka-Al Zettari** and remains the purest expression of Aegor's sovereign design. **True pureblood royals are extremely rare.**
+
 Modern known Zettari include **Rashani, Ma'Kovu, Zuberi, and Rengai Zettari**, carrying the surviving royal pressure of a two-hundred-thousand-year lineage.
+
 **Fractured branches** may inherit body strength without ocular power, ocular fragments without proper body stability, **or ancestral memory without the Temperance to carry it safely.**
 
 ---

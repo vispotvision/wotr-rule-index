@@ -20,8 +20,11 @@ verification: null
 ### I · Identity
 
 **As Of** · A week after Veyrun's Reach
+
 **Name** · Valen Karth. **Called** · The Breakstorm Vanguard.
+
 **Role** · **Dragoon Vanguard Commander. Aerial Duelist. Domain-in-Formation.**
+
 **Gloss rights** · Unlimited. *Every name on this sheet is a Guild designation or a battlefield nickname, spoken openly and translated by anyone who asks.*
 
 #### Affiliation
@@ -34,8 +37,11 @@ verification: null
 ### II · Soul Architecture
 
 **Aether Shell** · **Class V · The Radiant.** Aether bends toward him mid-flight; the longer he sustains it, the more the air itself starts arguing his case.
+
 **Attraction Layer** · Newly developed and unstable. **Veyrun's Reach** is his first true Domain, a storm-ringed pocket above the Outer Fronts where gravity runs sideways.
+
 **Crystal State** · Fractured, self-reforming. **η** · ~0.70, Tier of Standing 5, Expert. *The billions-scale Flux Density and Aether Output the old sheet gave are struck as inconsistent with every other Stage VII–IX sheet on file; the Soul Crystal's output is read qualitatively here instead.*
+
 **The Harmonized Fracture Lattice** · A multi-spired helical prism, four concentric fissures orbiting the core, opening further each time Penanceflare fires. Electric blue, flaring white-gold under load.
 
 ---
@@ -43,8 +49,11 @@ verification: null
 ### III · Wellspring Harmonizations
 
 **Ascensio** · Vectoria. **The Ladder of Ascent** — vertical momentum, aerial redirection, the lift under every leap.
+
 **Fractura** · Vectoria. **The Breaking Point** — controlled rupture of local Essence law, used for instant re-entry into a fight from a fracture point rather than a run-up.
+
 **Penanceflare** · Caloria. **The Light of Contrition** — burns his own pain and exhaustion into thrust. *Same-Family compounding does not apply here; the triad is cross-Family on purpose, which is why holding all three open at once is what fractures the Lattice.*
+
 Together, the triad is **Skyshatter Drive**: rise, break, burn.
 
 ---
@@ -79,9 +88,13 @@ Together, the triad is **Skyshatter Drive**: rise, break, burn.
 ### VI · Traits
 
 **Breakstorm Pulse** · **Converts excess momentum into a concussive shockwave of condensed Aether wind.**
+
 **Skyshatter Drive** · **A sustained flight state fed by Ascensio and Fractura together**; the longer it runs, the denser his soul pressure gets, until the field itself starts shattering.
+
 **Momentum Coil** · **Stores kinetic charge from every movement**; the next thrust lands proportional to distance already travelled.
+
 **Gale Mantle** · **A defensive vortex of condensed air** that cuts incoming Essence-projectile force by a wide margin.
+
 **Penance Surge** · **Converts pain or injury directly into acceleration.** *The same current that makes him faster is the one his Resilience reading warns about.*
 
 ---
@@ -89,6 +102,7 @@ Together, the triad is **Skyshatter Drive**: rise, break, burn.
 ### VII · Artifacts
 
 **Raethspire** · *Relic / Spear / Ascensio Channel.* A draconic-headed spear of crystallized Ascensio residue that resonates like struck crystal though it looks like plain metal. **Amplifies leap-based techniques and doubles as the anchor Skyshatter Drive pivots around.**
+
 **The Skybrand Harness** · *Relic / Kinetic Belt.* Worn under the cloak. **Stabilizes body pressure during aerial strikes**, the difference between a controlled dive and a Resonance Burn.
 
 ---
@@ -98,8 +112,11 @@ Together, the triad is **Skyshatter Drive**: rise, break, burn.
 #### Divine Dive — Heavenpiercer
 
 **Effect** · He launches straight up, compresses everything Ascensio and Fractura are feeding him into a single line, and comes down as one kinetic strike.
+
 **Cost** · **Burns deep into reserve in a single motion**, past the tenth-of-reserve line his own count keeps. Landing it leaves him grounded and slow for the exchange after.
+
 **Limit** · **Needs open sky.** Indoors, or anywhere the atmosphere thins past a threshold, there is nowhere for the compression to build.
+
 **Counter** · **Ground him before the dive completes.** Fixatio-aligned magnetized barriers slow Ascensio's uplift enough to break the line, and a Heavenpiercer that never gets airborne is just a man falling.
 > **What nobody knows.** Why the Lattice reforms denser and sharper after each near-disintegration instead of simply cracking further. His body already shows the early signs the Guild associates with a Walking Rift, and nobody has told him.
 
@@ -108,7 +125,9 @@ Together, the triad is **Skyshatter Drive**: rise, break, burn.
 ### IX · Relationships
 
 **The Guild Accord's Dragoon Corps** · Allied, and the rivalry with other aerial Conduits of Ascensio is professional rather than personal.
+
 **General Saelri Varn** · His mentor, lost during the Rift Storm Campaign. *Unattested by full record; kept as the card gives it.*
+
 **Where Kaelvar Thren endures by stillness, Valen conquers through pure motion.** *A named contrast the source card draws; Kaelvar Thren has no card on file and is kept as an unattested comparison.*
 
 ---
@@ -127,24 +146,31 @@ Together, the triad is **Skyshatter Drive**: rise, break, burn.
 #### Origin
 
 Valen Karth was born in Caedor, in the young volcanic arc the Guild Accord chartered in the New World. The Caedor guild reduced the red laterite of the weathered flanks into Cloudmetal, a structural metal far lighter than iron, and its arrays ran without pause. His line had borne arms for the Accord since the Withering's early campaigns. In those campaigns it took a draconic bloodline into itself, and the blood came down to him as a resonance with metallic Aether.
+
 He learned the wind on the andesite chain. Gusts came off the high ground there without warning, and he learned them by jumping into them. He fell often. He was climbing back up before anyone had reached him.
 
 #### The Making
 
 The Accord entered him on the rolls of the Bluefront Legion under the designation VX-0813, and he went to the dragoons. General Saelri Varn taught him. From the General he learned to read a battlefield the way he read wind shear, and to fight a duel in the open air as a duel. The dive he made his own went straight up, pressed everything he drew into a single line, and brought him down as one kinetic strike. It needed open sky. Under a roof there was nowhere for it to build. When it landed, it left him grounded and slow for the exchange after.
+
 The General was lost during the Rift Storm Campaign. In time Valen came to command the Dragoon Vanguard. Two incidents stand in his record: the Fracture of Caedor Ridge, and Operation Stormwake, where he broke an anti-air line alone over Caedor to save two Concord fleets.
+
 His first true Domain waited on a contradiction he had to resolve. He resolved it by deciding that stability itself was the contradiction. He broke his own Crystal on purpose, again and again, until the breaking became the shape the Domain would hold. He never stopped moving long enough for the fracture to close clean. The shape became Veyrun's Reach, a storm-ringed pocket above the Outer Fronts where gravity runs sideways.
 
 #### The Cost
 
 His Crystal has stayed fractured. Pain makes him faster, since an injury goes straight into acceleration, and a wound taken in the air carries him on through the fight. Long flight costs him his hold on himself before it costs him the body. He has come down from the air and needed a while to know the hands on the spear for his own.
+
 In a single motion the dive burns past the line his own count keeps on his reserve. He dives anyway.
+
 On the Cymorath Distortion Hunt over the Corridor Holdings of Stannvaard, the Enforcement Division asked the Legion for dragoons, and Valen brought his. Azhura Vyren stood under the soundfold rift and listened to the pressure. He went up before she called it. His dragoons went up after him, and he dove on the largest of the sky-beasts and killed it in the air. He landed grounded and slow. A second beast came down on him there, and Draven Kael Vorrick killed it at close quarters. Valen owes the hunter for that kill. The debt stands.
+
 He believes the world does not wait, and he will not wait on it, for a breacher's call or for a fracture to close.
 
 #### Where They Stand
 
 Valen Karth is Dragoon Vanguard Commander of the Bluefront Legion. The field calls him the Breakstorm Vanguard. He gives few orders. His dragoons follow him because he is already moving toward the thing that needs killing. His rivalry with the Corps' other fliers is professional. He carries Raethspire, a draconic-headed spear that looks like plain metal and rings like struck crystal. Under his cloak he wears the Skybrand Harness, which steadies the pressure in his body through a dive.
+
 Veyrun's Reach is a week old. He is still working it hard. The fracture in him re-forms denser and sharper each time it nearly comes apart. Nobody knows why. His body already shows the early signs the Guild associates with a Walking Rift. Nobody has told him.
 
 #### Ties

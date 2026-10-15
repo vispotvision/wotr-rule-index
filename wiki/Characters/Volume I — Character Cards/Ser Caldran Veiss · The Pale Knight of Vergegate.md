@@ -20,8 +20,11 @@ verification: null
 ### I · Identity
 
 **As Of** · After his entry on Vael of Nothing
+
 **Name** · Ser Caldran Veiss. **Called** · The Pale Knight of Vergegate.
+
 **Role** · **Field Enforcer. Border Adjudicator. Dual-Vector Duelist (Judicium/Fixatio).**
+
 **Gloss rights** · Diagnostic only. He speaks in verdicts, not translations.
 
 #### Affiliation
@@ -34,8 +37,11 @@ Guild Accord — Enforcement Division, **Warden of Duty**, restricted license, D
 ### II · Soul Architecture
 
 **Aether Shell** · **Class III · Resonant.** The conductor Shell — Essence and Aether exchange at near-full fidelity, which is why the paradox in his stats holds without tearing him apart.
+
 **Attraction Layer** · Undeveloped by choice. **He maintains no network, no safehouse, no informant chain.** The one Axis he has is the border itself.
+
 **Crystal State** · Fractured, load paths re-forged lawful. **η** · ~0.87, Tier of Standing 6, Master.
+
 **The Stable Dichotomy** · *Judicium's stillness and Fixatio's restraint occupy the same architecture without one cancelling the other — the Accord's own clerks coined the term because they had no better one.*
 
 ---
@@ -43,6 +49,7 @@ Guild Accord — Enforcement Division, **Warden of Duty**, restricted license, D
 ### III · Wellspring Harmonizations
 
 **Judicium** · Fulguria. **The Wellspring of Truth** — emission and absorption spectroscopy read as testimony. **Governs the verdict half:** what his glyphs light up for when he speaks the truth, and what they refuse to light up for.
+
 **Fixatio** · Materia. **The Binding Flame** — the anchoring law. *What is held by Fixatio stays held*, which is the entire doctrine behind the Sigil implanted over his sternum and the −32% corruption suppression it buys him.
 > **Same-Family case against himself.** *Judicium and Fixatio don't compound the way two same-Family Wellsprings would — they're cross-Family, and the "paradox" the Accord logs is exactly that: a stillness law and a binding law running in one Shell without a shared grammar to reconcile them.*
 
@@ -78,8 +85,11 @@ Guild Accord — Enforcement Division, **Warden of Duty**, restricted license, D
 ### VI · Traits
 
 **Fixation Mantle** · **Converts received Flux into structural reinforcement rather than damage** — his own durability rises the harder he is hit, for a limited window.
+
 **Resonant Sentence** · **Channels Judicium through the blade to bind a target's Essence output in a fixed field for a few seconds.**
+
 **Echo Reversal** · **Reflects kinetic and Aetheric force by phase inversion.** Burns reserve fast; not a standing option, a last one.
+
 **Lattice Migraine** · **Overuse of the Silence Field produces memory-feedback interference** — a real cost, not a mood, and it is why Accord teams deploy him alone rather than a courtesy.
 
 ---
@@ -87,8 +97,11 @@ Guild Accord — Enforcement Division, **Warden of Duty**, restricted license, D
 ### VII · Artifacts
 
 **Vigil's End** · *Relic Longsword / Aethersteel core, Runeglass veins.* **Emits a harmonic pulse erasing vocal vibration within 2 m** — the sword, not the man, is why sound dies when he draws it.
+
 **Concord Halo Cloak** · *Runefiber Mantle.* Generates a defensive harmonic veil, **absorbing surge damage for a short window before it saturates.**
+
 **Sigil of Fixatio** · *Heart-bound Crystal Stabilizer.* **Suppresses corruption risk (−32%)** — the anchor that keeps the Stable Dichotomy stable.
+
 **Codex Fragment Key** · *Encrypted Enforcement Pass.* Grants limited access to **Parun Locks.**
 
 ---
@@ -98,8 +111,11 @@ Guild Accord — Enforcement Division, **Warden of Duty**, restricted license, D
 #### Still Vector
 
 **Effect** · He nullifies ambient sound and Essence drift within a fixed radius, and inside that radius hostile casting accuracy drops hard while every vocal warning a target would have relied on simply does not arrive.
+
 **Cost** · **The field mutes his own side as completely as the enemy's** — Accord teams deploy him alone because the Silence Field does not know the difference between an ally's shout and a threat's.
+
 **Limit** · **Five metres and a finite hold.** Stretched across a wider engagement, the field thins rather than strengthens.
+
 **Counter** · **Step outside the five-metre edge**, or force him to cover ground the field was never built to hold — it fails at the seams before it fails at the center.
 > **What nobody knows.** What actually happened in the years between the Withering Reforms and his return.
 
@@ -108,7 +124,9 @@ Guild Accord — Enforcement Division, **Warden of Duty**, restricted license, D
 ### IX · Relationships
 
 **Guild Accord, Enforcement Division** · **Reinstated under restricted license.** They know what he is and deploy him anyway.
+
 **The Black Concord** · **Encryption on his own record that he did not authorize and cannot strip.** Whether they claim him is a live question nobody with clearance will answer.
+
 **Border settlements along the Verge** · **Whisper that his sword hums near liars and broken oaths.**
 
 ---
@@ -131,12 +149,15 @@ Caldran Veiss was born at Vergegate, the gate on the Verge that gave him his byn
 #### The Making
 
 He went into the Enforcement Division as soon as it would take him. The Division used him on borders first, where he already knew how a crossing ran, and he read the people at the gates the way he had read the rolls. He rose in the field. In time he became field officer to a High Concordant candidate.
+
 During the Withering Reforms he vanished. He came back stripped of rank, carrying resonance no record could verify. The Lattice read him as fractured yet lawful. Whatever had broken in him had reforged around the law, and the wound it broke on was left out of the new shape. Nobody on the Accord side of his file has ever explained why they let him back in at all. They reinstated him as a Warden of Duty under a restricted license. The Division's codename for him was White Silence. Two laws ran in him together, Judicium's stillness and Fixatio's restraint, and neither cancelled the other. The Accord's clerks called it the Stable Dichotomy. They coined the term because they had no better one.
 
 #### The Cost
 
 The rank went with the Reforms, and he never asked for it back. He served under the license as it was written and made no move to widen it. He kept no network, no safehouse and no informant chain. The one bond he kept was with the border itself.
+
 His sword cost him company. When he drew Vigil's End, every voice near the blade died, and the field he held around himself muted his own side as completely as the enemy's. An ally's shout inside it went unheard. Accord teams sent him in alone. Held too long, the field fed back into his memory. That was the other reason nobody went with him.
+
 The open file on Vael of Nothing named no category when the Division sent Caldran to him, first and alone. He found Vael on the ash plain of the Accord-chartered arc, blindfolded, with three medallions at his chest. The ends of Vael's fingers had lost their edges. Caldran kept Vigil's End in its scabbard. Drawn, it would have killed every word either of them spoke. He asked where Vael had been and where he was going, and Vael told him. He asked about Tarvel's Crossing and about the one target Vael had stopped, and Vael did not answer. Caldran's entry in the file said Vael had told him no lie. It said nothing else.
 
 #### Where They Stand

@@ -11,6 +11,7 @@ verification: "unverified"
 # The Concord Citadel
 
 **Say it** · the KON-kord SIT-ah-del
+
 *Filed under the Codex of Absolute Magical Law, Article XVI: "On the Heart of Law and the Architecture of Order."*
 > The Concord Citadel, called the **City of Latticeglass**, does not exist in one realm alone. **It is a nexus suspended between planes**, visible only to those bound to the Lattice. To mortals, a towering crystal spire encircled by radiant bridges of light. To spirits, **a song made structure.**
 >
@@ -21,6 +22,7 @@ verification: "unverified"
 ## The Citadel's Nature
 
 **The Citadel was not built by human hands.** It grew around the **Heart Vault**, a massive Wellspring Core that crystallized into self-awareness after the Harmonial Age. The High Concordant's soul is woven into this Vault; **their breath sustains the Citadel's glow.**
+
 Within its translucent walls, **time flows by resonance, not sequence.** Couriers cross days in minutes. Archives update themselves before events occur. *Those who dwell too long forget what direction means.*
 ```mermaid
 flowchart TD
@@ -41,6 +43,7 @@ flowchart TD
 ## The Council Spire
 
 A hollow column of refracted light where the Concord Council convenes. **The chamber's floor is an unbroken mirror of living Aether; its surface ripples whenever truth is spoken.**
+
 The High Concordant presides from the **Throne of Resonance**, surrounded by **seven empty chairs — one for each Division, and one for the silence of the Black Concord.**
 > Every decree issued here **becomes law the moment it is spoken.** The Lattice records the words before the speaker finishes them, binding them into metaphysical permanence.
 >
@@ -60,6 +63,7 @@ A labyrinth of crystalline corridors containing the sum of all Accord knowledge.
 ## The Choral Sanctum
 
 At the Citadel's core lies the **Choir of the Fallen**, a cathedral housing the souls of those who died in service. Their echoes drift through luminous air, **singing endlessly in harmonic frequencies that stabilize the Lattice across realms.**
+
 Every Accord member can feel their hum in moments of silence — *a comforting vibration at the edge of hearing.* **The song grows louder during Wellspring crises**, guiding Sealwrights and field agents toward equilibrium.
 > *"In service, the soul is not lost — it becomes the sound that keeps the world awake."*
 
@@ -68,6 +72,7 @@ Every Accord member can feel their hum in moments of silence — *a comforting v
 ## The Heart Vault
 
 Beneath the Sanctum, deeper than even the Archives, **the High Concordant communes directly with the Lattice.** This chamber holds the **Wellspring of Law**, the first metaphysical convergence ever stabilized by mortal and divine cooperation. *It glows with a blinding white that casts no shadow.*
+
 Every Concord Seal, Commission, and Merit flows first through this light before reaching the rest of creation.
 > The Vault hums in rhythms that mirror the High Concordant's pulse. **If they die, the Vault stills — and the Guild Accord collapses.**
 >
@@ -78,6 +83,7 @@ Every Concord Seal, Commission, and Merit flows first through this light before 
 ## The City Below
 
 A sprawling complex of halls, guild quarters, training sanctums, and Gate plazas. Here agents from every realm converge: soldiers, mages, Sealwrights, and scholars walking side by side. **The air is perpetually filled with light rain — the condensation of Aether in its purest form.**
+
 At its centre stands the **Forum of Balance**, where citizens bring disputes before minor Arbiters. Every verdict echoes upward to the Council Spire, imprinting itself in the Codex as precedent.
 > **Justice in the Accord is circular — born below, judged above, recorded forever.**
 
@@ -110,4 +116,5 @@ Sealwrights claim to navigate by tone rather than sight. **If the city sings in 
 ---
 
 > *"Here the world is written, erased, and written again. Here every breath is weighed against eternity. We are the keepers of order, the stewards of Wells, and the witnesses of our own decay. Let the Citadel endure — for while it stands, so too does the Law."*
+>
 > — Final engraving of the Heart Vault's inner seal, Year 013 IC, Voyager Era

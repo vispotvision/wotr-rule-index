@@ -17,9 +17,11 @@ verification: "unverified"
 ## Emergence
 
 The Archons did not appear simultaneously. They emerged from the tension between the three Epochs, crystallizing as the cosmos discovered that certain principles required sovereign intelligence to sustain them.
+
 The **Works of Hataraki**, authored by Bara before time, contained the raw meanings from which Archonic consciousness would later condense. The Archons are therefore not identical to the Works, nor do they replace them. They are **crowned ideas**, meanings that rose into conceptual sovereignty, while the Works represent those same meanings at their most stripped-down and fundamental level.
 > Fourteen Archons compose the complete **Pantheon of Abstract Dominion**. No entity may claim Archonhood unless directly raised by the Pantheon.
 They emerged in a specific cosmological sequence: first the **Primordial Dyad**, born from the fundamental opposition between Order and Chaos, and then **six Dialectical Pairs**, born from the tension between preservation and disruption that the Dyad's eternal conflict generated.
+
 Each Archon's domain shapes cognition, destiny, and the emotional gravity of all beings. Each grants access to a distinct expression of **Archonic Magic**, the conceptual force that operates between Titanic Law and Wellspring Law in the metaphysical hierarchy. The magic granted by each Archon is not a technique or a school. It is a principle made actionable, a slice of cosmic grammar that the practitioner channels through Temperance, Soul Crystal alignment, and Wellspring resonance.
 ```mermaid
 flowchart TD
@@ -145,13 +147,16 @@ While Titanic Law governs the geologic and cosmic architecture of the Realms, an
 ### Two triads, and why they are not the same triad
 
 *A recurring confusion in the teaching literature, worth settling once.*
+
 **Titanic, Archonic and Wellspring Law are a hierarchy of authority.** They answer where a working's permission comes from and which stratum it must be lawful under.
+
 **Aether, Wellspring and Essence are a hierarchy of description.** They answer where a working is accounted for: what was in the room, which law was conditioned, and what it cost the Crystal that spent it.
 > *The two overlap at one word and nowhere else. A working is authorised under one hierarchy and described under the other, and a practitioner who confuses them will produce a filing the Bench refuses and a technique that does exactly what it was built to do.*
 
 ### The Archons are the stations
 
 The lattice underlying all Parunic syntax is read **from fourteen positions, one per Archon**, and a glyph is the path traced across that lattice from a given station. This is not a metaphor drawn from the Archons. **It is the mechanism by which their sovereignty is operational rather than ceremonial.**
+
 Every one of the hundred and thirty-six attested glyphs belongs to an Archon because every one of them is a reading taken from somewhere, and there is nowhere to read from that is not an Archon's station. **Thalen holds sixteen forms and Irath holds five, and the disparity is not favour.** It is how much of the lattice is legible from each seat.
 > *Which explains the register's oldest curiosity without softening it.* **Irath holds the fewest forms in the index and two of them are Command and Dominion**, both unclassifiable, and the smallest station carries the two heaviest words in the language.
 >

@@ -11,8 +11,10 @@ verification: null
 # The Apprentice's Primer — A First Reader for the Newly Registered
 
 *A First Reader for the Newly Registered*
+
 *Issued under the Concord Lattice · Research & Archives Division*
 > *"You were not given this book because you are ready. You were given it because you have already begun, and nobody told you what you had begun."*
+>
 > — opening line, every printing since the Withering
 
 ---
@@ -31,6 +33,7 @@ verification: null
 > **Five.** Everything costs. Essence is spent, not summoned. Domains bleed. Traits fatigue. Overchannel scars. ***A practitioner who tells you a technique is free is either lying or has not yet paid the invoice.***
 >
 > **Six.** The system does not lie and it does not forgive. **Your numbers are the Continuum's honest assessment of the soul carrying them. They can be improved. They cannot be argued with.**
+>
 > *If you take nothing else, take the shape of that list. The rest of this primer is that list, explained slowly enough to be useful and honestly enough to be frightening.*
 
 ---
@@ -46,12 +49,14 @@ verification: null
 | **Fate** | Connection, recognition, consequence | Attraction Layer | Harmonics · Dominion |
 
 > **Magic does not override the Material Plane's laws. It uses them.** *A fire technique still obeys thermodynamics; the practitioner simply supplies the energy from somewhere the physicist did not expect.*
+>
 > The Plane of Fate lies deepest, **and it is the one newcomers underestimate.** It is the ledger of what has actually happened between things — *every bond, oath, grudge, debt and act of recognition runs as a live current there.*
 
 ### The Veil
 
 **Not a fourth plane. The threshold condition where one plane's law softens into another's** — and not a place you travel to.
 > ***You have already touched it.*** Anyone who has felt a Wellspring under the ground, dreamed of a person who then arrived, sensed the weight of a Domain before seeing its effects, **or heard a room go quiet in a way that had nothing to do with sound** has had Veil contact and probably did not name it.
+>
 > *The regulation carries an irony worth holding onto. The Veil is not foreign territory requiring permission. It is the threshold every soul already touches by existing.*
 >
 > **What the law governs is not whether you interact with it, but whether you do so deliberately enough to survive the interaction intact.**
@@ -62,8 +67,11 @@ verification: null
 
 > *Two practitioners standing in the same room draw from the same ocean and produce entirely different water.*
 **Aetheric Density** · How much medium is present. **It sets the ceiling on the output rate you can achieve in that location** — *which is why battles are fought over ground and not only over people.*
+
 **Aetheric Residue** · The trace a working leaves. **Permanent, often subtle, always readable by someone patient enough.** *It thins on a schedule the ground sets, toward a floor it never passes.*
+
 **Aetheric Saturation** · The danger state where Essence released by workings floods an area faster than it disperses. *It produces Crystal Fracture Events in everyone exposed, including the person who caused it.*
+
 **Essence Signature** · **You cannot forge one and you cannot fully hide one. Only muddy it.**
 
 | Layer | Function | Failure mode |
@@ -113,6 +121,7 @@ verification: null
 > **II → III** · First technique developed independently, **from your own understanding rather than received doctrine.**
 >
 > **III → IV** · Formation of the first genuine Spirit Axis — **a bond with another soul carrying mechanical weight.**
+>
 > **A warning about forced advancement.** Pushing stats above their sustainable Grade is not impossible. **It is catastrophic.** Such stats generate Fracture Events at an exponentially increasing rate until the stat collapses or the Threshold is passed through crisis.
 >
 > ***The Guild does not classify this as cheating. It classifies it as a manner of dying that takes longer than most.***
@@ -150,6 +159,7 @@ verification: null
 
 Five Bands yield **nine thousand** stat points. Thresholds through Stage XIII add roughly **nine thousand one hundred more.** *A full lifetime pool sits near eighteen thousand one hundred, spread across sixty-three Sub-Stats, Throne excluded.*
 > **Divide that honestly.** A Band II practitioner at Level 156 with Thresholds through Stage V holds about three thousand five hundred points — **fifty-six a Sub-Stat if spread evenly, low D-Grade, and entirely unremarkable.**
+>
 > ***If you are B-Grade, most of your stats are B-Grade. Specialists produce peaks by accepting valleys elsewhere, and the valleys are where they die.***
 
 ---
@@ -157,6 +167,7 @@ Five Bands yield **nine thousand** stat points. Thresholds through Stage XIII ad
 ## Efficiency
 
 **Flux Density (EU/g)** · The compression ratio. *The difference between a practitioner who empties in three techniques and one who fights an hour on the same pool.*
+
 **Eta (η)** · The ratio of Essence spent to Essence that arrives as intended effect. **At 0.50 you waste half of every expenditure as heat, noise and structural bleed. At 0.90 you do not.** *Efficiency is the single most important variable in a long engagement.*
 
 | Temperance | η | What changes |
@@ -180,6 +191,7 @@ Five Bands yield **nine thousand** stat points. Thresholds through Stage XIII ad
 
 > *"Belief, once survived, becomes law."*
 **A Trait is the crystallised law of a soul.** *Traits are not learned. They awaken when four harmonics fall into coherence: the Core's emotional truth, the Attraction Layer's pattern of recognition, the Shell's behaviour of force, and the Temperance Field keeping the belief from collapsing under strain.*
+
 **Three failure states worth memorising.** **Resonance Fatigue**, background drain from holding a Trait. **Rigidity Effect**, what happens when you act against your own Trait. **Shear Break**, repeated action against your own law until the Trait inverts — *and inversion is never chosen and rarely reversed.*
 > **A Domain is not a technique. You do not deploy one the way you throw a punch.**
 >
@@ -194,8 +206,10 @@ Five Bands yield **nine thousand** stat points. Thresholds through Stage XIII ad
 
 > *Two ways to make a working hold. Only one of them lets you keep the soul that made it.*
 **Clean techniques are sustained by recognition.** Your Crystal recognises the Wellspring's law, the Continuum recognises your intent, **and the working persists because every party agrees it should.**
+
 **Corrupted techniques are sustained by refusal.** The Crystal clutches the current rather than harmonising with it. **The Continuum registers the working as unauthorised, and your fixation keeps it running anyway.**
 > **You can read anyone with two Sub-Stats.** High Harmonics Fidelity and high Tempering Coherence together mean **Attraction Force.** *Fidelity degrading while raw output stays high means Obsession Force — and it means the invoice is accruing.*
+>
 > *You will meet practitioners who are stronger than you and running on Obsession.*
 >
 > ***Do not envy them. The system will extract the cost, and it does not negotiate the timing.***
@@ -205,14 +219,23 @@ Five Bands yield **nine thousand** stat points. Thresholds through Stage XIII ad
 ## Ten Things Newcomers Get Wrong
 
 *Compiled from four centuries of induction records and rather a lot of funerals.*
+
 **I** · Believing training raises Stage. **Training raises numbers. Only a Catalyst raises Stage** — *and a Catalyst is a category of lived experience the Crystal will not accept a forgery of.*
+
 **II** · Reading Grade as a ladder with even rungs. **The distance from D to C is a building. The distance from SS to SSS is a planet.**
+
 **III** · Neglecting Tempering. *An enormous Ardency inside a low-Tempering chassis is a very expensive way to fracture.*
+
 **IV** · Assuming the higher number wins. **Aether Class decides how much of that number arrives.** *Class III at B-Grade routinely beats Class I at A-Grade, and the survivor writes the report.*
+
 **V** · Chasing Wellspring count. **Three harmonisations held cleanly outperform seven held badly.**
+
 **VI** · Treating a Domain as a weapon to deploy. **It is a consequence of density, it costs continuously, and losing it detonates.**
+
 **VII** · Ignoring ground. **Veterans choose terrain before they choose techniques.**
+
 **VIII** · Mistaking Obsession Force for talent. *Fidelity falling while output climbs is not a growth spurt. It is a countdown.*
+
 **IX** · Underestimating anyone who came through Dissonance intact.
 > **X** · Expecting the system to be fair.
 >
@@ -241,4 +264,5 @@ Five Bands yield **nine thousand** stat points. Thresholds through Stage XIII ad
 | **The Veil** | The threshold condition between planes. **Not a place** |
 
 > *The system does not lie, does not forget, and does not forgive.*
+>
 > ***What you do with its assessment is the only freedom it permits.***

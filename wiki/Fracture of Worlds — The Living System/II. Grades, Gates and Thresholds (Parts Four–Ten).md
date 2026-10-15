@@ -18,8 +18,8 @@ Grades use real-world energy equivalents drawn from physical TNT yield benchmark
 
 #### Where the Grade Sits
 
-The table above measures a **Sub-Stat's** raw value, and the Temperance ceiling in Part Five binds the Sub-Stat. Every Grade letter in this document, in the Path gates of Part Seven and the Resonant Pairs of Part Nine, means what it has always meant: a threshold on that Sub-Stat's own number.
-A **Primary** is the combined total of its eight Sub-Stats, and its Grade is read off the mean, the total divided by eight, or by seven for Dominion, whose Throne is not counted. That mean is the figure a character sheet has always carried on the Primary line. Eight Ardency Sub-Stats totalling 2,400 give a mean of 300 and an A-Grade Ardency. The total is what the sheet records; the mean is what an assessor reads and what decides a contested exchange. See I. Levels, Experience and Stat Points for the point economy.
+The table below measures a **Sub-Stat's** raw value, and the Temperance ceiling in Part Five binds the Sub-Stat. Every Grade letter in this document, in the Path gates of Part Seven and the Resonant Pairs of Part Nine, means what it has always meant: a threshold on that Sub-Stat's own number.
+A **Primary** is the combined total of its eight Sub-Stats, and its Grade is read off the mean, the total divided by eight, or by seven for Dominion, whose Throne is not counted. That mean is the figure a character sheet has always carried on the Primary line. Eight Ardency Sub-Stats totalling 2,400 give a mean of 300 and an A-Grade Ardency. The total is what the sheet records; the mean is what an assessor reads, and a contested exchange is decided by the Grade of the Sub-Stat actually in use. See I. Levels, Experience and Stat Points for the point economy.
 Because the ceiling sits on the Sub-Stat, a character's Sub-Stats and their Primary Grade sit in the same bracket. A B-Grade practitioner has broadly B-Grade stats. Spread shows what they are good at. It does not move them between brackets.
 A Primary is dragged down by its neglected entries as hard as it is lifted by its favourites. A practitioner with three Dominion Sub-Stats at the ceiling and five near nothing reads as a modest Dominion on any assessor's ledger while legislating local reality with the three. The institutions measure the mean. The fight is decided by the peak.
 **Throne is the exception.** It carries no Temperance ceiling, its floor sits at EX-Grade, and it is excluded from the Dominion total. It is carried as its own line on the character sheet. Dominion's mean is the total divided by seven, the seven counted Sub-Stats; Throne sits outside both the total and the mean.
@@ -28,12 +28,12 @@ A Primary is dragged down by its neglected entries as hard as it is lifted by it
 | Hollow | 1–10 | below 60 J | below 12.4 m/s |
 | F | 11–25 | 60–300 J | 12.4–60 m/s |
 | E | 26–50 | 300 J – 15 kJ | 60–150 m/s |
-| D | 51–100 | 15 kJ – 2.092×10^7 J | 150–340 m/s |
+| D | 51–100 | 15 kJ – 2.092×10^7 J | 150–343 m/s |
 | C | 101–175 | 2.092×10^7 – 1.046×10^9 J | Mach 1.0–1.5 |
-| B | 176–275 | 1.046×10^9 – 4.6024×10^10 J | Mach 1.5–4 |
+| B | 176–275 | 1.046×10^9 – 4.6024×10^10 J | Mach 1.5–5 |
 | A | 276–400 | 4.6024×10^10 – 4.184×10^12 J | Mach 5–25 |
 | S | 401–550 | 4.184×10^12 – 2.42672×10^13 J | Mach 25–200 |
-| SS | 551–725 | 4.184×10^13 – 4.184×10^14 J | Mach 200–1,000 |
+| SS | 551–725 | 2.42672×10^13 – 4.184×10^14 J | Mach 200–8,740 |
 | SSS | 726–950 | 4.184×10^14 – 4.184×10^21 J | 1–10% c |
 | X | 951–1,200 | 4.184×10^21 – 1.24×10^29 J | 10–50% c |
 | EX | 1,201–1,500 | 1.24×10^29 – 6.906×10^37 J | 50–100% c |
@@ -43,29 +43,29 @@ A Primary is dragged down by its neglected entries as hard as it is lifted by it
 **F.** First resonance contact has occurred. The Soul Crystal has opened. Technique nascent, Essence output barely controlled, but no longer fully mortal in potential.
 **E.** Essence is deliberately shaped. Wellspring attunement fragile but genuine. Techniques constructed rather than erupted. Street to low Wall level.
 **D.** Technique coherence established. Multi-step Aetheric expressions without collapse. Wall level, 0.005 tons TNT at the ceiling.
-**C.** The journeyman tier. Intermediate-complexity techniques supported. Domain seeds structurally possible though not stable. Small Building to low Building, 0.005 to 0.25 tons TNT.
+**C.** The journeyman tier. Intermediate-complexity techniques supported. Domain seeds (first roots of a space where the practitioner's law overrides local law) structurally possible though not stable. Small Building to low Building, 0.005 to 0.25 tons TNT.
 **B.** Aura begins generating passive environmental pressure. Presence felt before techniques land. Domain architecture active rather than potential. Building to Large Building, 0.25 to 11 tons TNT.
 **A.** Sovereign practitioner tier. Domain live and law-bearing. City Block to Multi-City Block, 11 to 1,000 tons TNT.
 **S.** Legend-class entry. Full-output techniques register at natural-disaster and large-scale military detonation level. Aura suppresses B-grade and below passively. Small Town to Town, 1 to 5.8 kilotons TNT.
-**SS.** Continental threat entry. Full-output events measured against major geological disruptions. A Domain at this level begins reshaping its local environment rather than merely existing within it. Town to Large Town, 10 to 100 kilotons TNT, the lower range of nuclear yields.
+**SS.** Continental threat entry. Full-output events measured against major geological disruptions. A Domain at this level begins reshaping its local environment rather than merely existing within it. Town to Large Town, 5.8 to 100 kilotons TNT, the lower range of nuclear yields.
 **SSS.** Small-country scale destructive equivalence. Domain law can override localized Wellspring behavior within its territory. Full-power expression is a regional metaphysical event. Large Town to Small Country, 100 kilotons to 1 teraton TNT.
-**X.** Archon-adjacent. Existence exerts passive influence on the metaphysical laws of the surrounding environment. Domain produces Archon-echo effects. Country to Moon level, 1 teraton to 29.6 exatons TNT.
-**EX.** Archon-equivalent. The distinction between an EX practitioner and a functioning Archon is qualitative, a matter of metaphysical doctrine and the Principle they embody, not raw output. Moon to Large Planet, 29.6 exatons to 16.512 ronnatons TNT.
-**EX+.** No formal upper ceiling beneath the Apotheosis threshold. Titan-adjacent space. Characters here are not participants in ordinary conflict. They are metaphysical events that other characters survive or fail to survive. Brown Dwarf level and beyond, scaling toward stellar and solar-system scale.
+**X.** Archon-adjacent (near the power of the fourteen Archons, the beings who hold conceptual law). Existence exerts passive influence on the metaphysical laws of the surrounding environment. Domain produces Archon-echo effects. Country to Moon level, 1 teraton to 29.6 exatons TNT.
+**EX.** Archon-equivalent. The distinction between an EX practitioner and a functioning Archon is qualitative, a matter of metaphysical doctrine and the Principle they embody, not raw output. Moon to Large Planet, 29.6 exatons to 16.506 ronnatons TNT.
+**EX+.** No formal upper ceiling beneath the Apotheosis threshold (where the line between practitioner and living Principle collapses). Titan-adjacent space. Characters here are not participants in ordinary conflict. They are metaphysical events that other characters survive or fail to survive. Brown Dwarf level and beyond, scaling toward stellar and solar-system scale.
 At **Zenith, Stage XIV**, speed and attack output are no longer assessed by conventional metrics. The character exists in a state where the Continuum's ordinary measuring systems require metaphysical recalibration to even register the practitioner's presence. Zenith characters do not move faster than light. They exist within frameworks where the question of movement speed has ceased to be the relevant variable.
 
 ### Part Five — Temperance Gates and Stat Ceilings
 
 Temperance Stage functions as a hard ceiling on every Sub-Stat in the system, and a Primary's mean therefore cannot exceed it either. A character cannot allocate their way past a ceiling their Soul Crystal cannot structurally sustain. Throne alone carries no ceiling. The Crystal must have undergone the corresponding Threshold Event before it can hold a stat at the grade above.
 The Max Grade column binds allocation: a Sub-Stat may not be allocated past the top of the Stage's Max Grade bracket. At Stages V, VII, IX and XI the Sub-Stat ceiling sits above that bracket, and the band between them, 276 to 350, 401 to 475, 551 to 625, 726 to 750, is the instability zone, reachable only under strain, never by allocation.
-Forced advancement past Temperance gates is not impossible, but it is catastrophic. Stats pushed above their sustainable grade, into the instability zone or past the ceiling itself, by alchemical augmentation, bloodline exploitation, or external metaphysical imposition generate Crystal Fracture Events at an exponentially increasing rate until the stat collapses or the Threshold is passed through crisis.
+Forced advancement past Temperance gates is not impossible, but it is catastrophic. Stats pushed above their sustainable grade, into the instability zone or past the ceiling itself, by alchemical augmentation, bloodline exploitation, or external metaphysical imposition generate Crystal Fracture Events at an exponentially increasing rate until the stat collapses or the Threshold is passed.
 | Stage | Name | Max Grade | Sub-Stat ceiling | Tier of Standing |
 |---|---|---|---|---|
 | I | Murmuring | E | 50 | 1 · Initiate |
 | II | Welling | D | 100 | 2 · Apprentice |
 | III | Ascension | C | 175 | 3 · Journeyman |
 | IV | Flourishing | B | 275 | 4 · Adept |
-| V | Splintering | B, allocation stops at 275; instability above 320 | 350; 276–350 under strain only | 5 · Expert |
+| V | Splintering | B, allocation stops at 275; instability from 276 | 350; 276–350 under strain only | 5 · Expert |
 | VI | Glory | A | 400 | 5 · Expert |
 | VII | Refraction | A, allocation stops at 400; late push toward S entry | 475; 401–475 under strain only | 5 · Expert |
 | VIII | Transcendence | S | 550 | 6 · Master |
@@ -93,13 +93,13 @@ These values are the natural ceiling achievable at each Tier Grade through pure 
 | Hollow | below 12.4 m/s | 150–300 ms, purely biological | body mechanics only |
 | F | 12.4–60 m/s | 80–150 ms | exceeds unaugmented human |
 | E | 60–150 m/s | 40–80 ms | low Subsonic |
-| D | 150–340 m/s | 15–40 ms | Mach 0.5–1.0 |
-| C | 340–500 m/s | 5–15 ms | Mach 1.0–2.0 |
-| B | 510–1,372 m/s | 1–5 ms | Mach 2.0–5.0 |
+| D | 150–343 m/s | 15–40 ms | Mach 0.5–1.0 |
+| C | 343–514.5 m/s | 5–15 ms | Mach 1.0–2.0 |
+| B | 514.5–1,715 m/s | 1–5 ms | Mach 2.0–10 |
 | A | 1,715–8,575 m/s | 0.2–1 ms | Mach 10–30 |
-| S | 8,575–68,600 m/s | 0.05–0.2 ms | Mach 50–500 |
-| SS | 68,600–343,000 m/s | below 0.05 ms | Mach 1,000–8,810 |
-| SSS | 2,997,925–29,979,246 m/s | entirely Essence-mediated | 1–5% c |
+| S | 8,575–68,600 m/s | 0.05–0.2 ms | Mach 30–500 |
+| SS | 68,600–2,997,925 m/s | below 0.05 ms | Mach 500–8,740 |
+| SSS | 2,997,925–29,979,246 m/s | entirely Essence-mediated | 1–10% c |
 | X | 29,979,246–149,896,229 m/s | perceives in Essence-time | 10–50% c |
 | EX | 149,896,229–299,792,458 m/s | — | approaching c |
 | EX+ | c and upward, toward Massively FTL+ | — | FTL parameters |
@@ -139,7 +139,7 @@ A character who has fought exclusively through Body Path mechanics for three ful
 
 #### Tempering Gates
 
-**Clarity** requires Spirit Path at Stage III to exceed C, with resistance to Overgrowth requiring Body Path at Stage IV to exceed B. **Overflow** open, with inherent structural risk above B. **Maturity** open, and is the primary Sub-Stat consulted by the Crystal when evaluating Threshold readiness; its transition-recognition component requires Spirit Path at Stage IV to exceed B, its fracture-metabolism component Spirit Path at Stage V to exceed A, and its bloodline component Fate Path at Stage VI to exceed A. **Coherence** open, and functions as the structural prerequisite for Temperance Threshold eligibility. **Yield** requires Body Path at Stage III to exceed C; ambient conversion and generation latency are open. **Ceiling** requires Fate Path at Stage VIII to exceed SS. **Capacity** requires Attraction Path at Stage V to exceed A. **Longevity** open.
+**Clarity** requires Spirit Path at Stage III to exceed C, with resistance to Overgrowth requiring Body Path at Stage IV to exceed B. **Overflow** open, with inherent structural risk above B. **Maturity** open, and is the primary Sub-Stat consulted by the Crystal when evaluating Threshold readiness; its transition-recognition component requires Spirit Path at Stage IV to exceed B, its fracture-metabolism component Spirit Path at Stage V to exceed A, and its bloodline component Fate Path at Stage VI to exceed A. **Coherence** (how closely a soul's chosen Path matches how it actually works) open, and functions as the structural prerequisite for Temperance Threshold eligibility. **Yield** requires Body Path at Stage III to exceed C; ambient conversion and generation latency are open. **Ceiling** requires Fate Path at Stage VIII to exceed SS. **Capacity** requires Attraction Path at Stage V to exceed A. **Longevity** open.
 
 #### Dominion Gates
 
@@ -148,7 +148,7 @@ A character who has fought exclusively through Body Path mechanics for three ful
 ### Part Eight — Temperance Threshold Events
 
 Thresholds are not achieved by accumulating enough experience. They are triggered by two factors: the Soul Crystal must have reached sufficient pressure within the current stage, a quantitative floor; and a **Catalyst Condition** must have been met, a specific quality of experience the Crystal requires before it will authorize the transition.
-A character can be quantitatively eligible for months of in-world time and never pass a Threshold because the Catalyst has not occurred. The System does not advance a soul that has not genuinely changed. This is not a punishment. It is accuracy.
+A character can be quantitatively eligible for months of in-world time and never pass a Threshold because the Catalyst has not occurred. The System does not advance a soul that has not genuinely changed. This is not a punishment. It is accuracy. The road to the Catalyst differs: some meet it in crisis, some work toward it in seclusion, some are driven to it by tribulation, and most by a mixture of the three.
 Stage I counts as a Threshold worth 100 points. Every practitioner starts with it. The events below are the transitions, and each grants the Stage number multiplied by 100 on the terms of Part Three.
 **I to II, Welling.** First genuine contact with a Wellspring current under personal pressure, not observed, not instructed, but touched and survived.
 **II to III, Ascension.** First technique developed independently from instruction, built from the character's own understanding of their Essence rather than received doctrine.
@@ -162,7 +162,7 @@ Stage I counts as a Threshold worth 100 points. Every practitioner starts with i
 **X to XI, Dissonance.** Deliberately entering contact with a force or truth capable of ending the character's existence and remaining coherent long enough to choose how they meet it. Power and identity clash. The Crystal fractures or breaks through.
 **XI to XII, Emanation.** Emerging from Dissonance with a Soul Crystal denser and cleaner than before entry. The fractures must have become features. The practitioner radiates outward. Traits become local physics. Passive miracles leak.
 **XII to XIII, Principality.** Achieving Domain coherence sufficient for the Continuum to formally register a law the character embodies. A local force of nature. First World Spirit threshold. Biomes carry doctrine.
-**XIII to XIV, Zenith.** The character's accumulated doctrine becomes recognizable to a Hollow Throne. The Throne resonates with them. The transition is not a breakthrough. It is recognition. Full World Spirit. Reality acclimates to the character. Story becomes physics.
+**XIII to XIV, Zenith.** The character's accumulated doctrine becomes recognizable to a Hollow Throne (the empty seat of a dead Archon). The Throne resonates with them. The transition is not a breakthrough. It is recognition. Full World Spirit. Reality acclimates to the character. Story becomes physics.
 **XIV to XV, Revelation.** Genuine exchange with an Archon or Titan at a level where the character is a participant rather than a witness or a casualty. The first step of the Apotheosis approach.
 **XV to XVI, Apex.** Holding a Principle in the Soul Crystal without fracturing, even momentarily, even imperfectly. Apex is perpetual. It is the state of a soul pressing against what it has not yet become.
 

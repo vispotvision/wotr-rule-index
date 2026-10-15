@@ -95,7 +95,7 @@ Its author derived this alone, out of the same self-imposed trials of endurance 
 | Cost, one crossing | 3% of full reserve | 1,554 to 28,830 EU |
 | Kinetic store delivered | 5 to 320 kJ | under a thousandth of one EU |
 | Reserve covers | 90% ÷ 3% | 30, before any strike is paid |
-| Strike that follows | A-Grade, priced apart | 20 to 100 GN peak, 46 GJ to 4.184 TJ |
+| Strike that follows | A-Grade, priced apart | 5 to 100 GN peak, 46 GJ to 4.184 TJ |
 
 **Cost** · 3 percent of full reserve per crossing, coating and launch together.
 **Duration** · One crossing of 8 m within the 3 to 10 m A-Grade Contact Range, taking 0.1 s loud or 0.8 s quiet, inside one turn.

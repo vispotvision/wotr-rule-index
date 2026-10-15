@@ -67,7 +67,7 @@ verification: null
 ## VI–VII · Force and Flow
 
 *Non-combat architecture by design.*
-**Strike Force** below 300 Joules unaided · **Durability** low-B · **Attack Speed** Mach 2.0–5.0 · **Reaction** 1–5ms · **Travel** Mach 1.5–4 · **Aura Pressure** faint, *just crossing into passive-pressure territory* · **Domain Pressure** none
+**Strike Force** below 300 Joules unaided · **Durability** low-B · **Attack Speed** Mach 2.0–10 · **Reaction** 1–5ms · **Travel** Mach 1.5–5 · **Aura Pressure** faint, *just crossing into passive-pressure territory* · **Domain Pressure** none
 **EU Reserve** ~185,000 *(estimate — no exact source figure exists at Level 145)* · **Flux Density** ~150 EU/g *(estimate)* · **AU/s** ~90 · **η** 0.60 *(sourced)*
 
 ---

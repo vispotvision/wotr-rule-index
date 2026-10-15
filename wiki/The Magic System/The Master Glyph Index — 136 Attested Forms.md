@@ -10,14 +10,14 @@ verification: "unverified"
 
 # The Master Glyph Index — 136 Attested Forms
 
-*All one hundred and thirty-six attested Parun forms, ordered by Archon*
+*All one hundred and thirty-six attested Parun (root script of law) forms, ordered by Archon (one of the fourteen great powers of cosmic law)*
 
 ---
 
 ## What a Glyph Physically Does
 
 *The index is a filing system. This section is what the filed thing is.*
-A glyph creates nothing and carries no power. The Wellspring's law was already running before anyone wrote anything, and it continues running afterward. **A glyph is a boundary condition imposed on that law.** It moves a limit, and the law does what it has always done on the far side of the new limit.
+A glyph creates nothing and carries no power. The Wellspring (a standing current of natural law in the Aether)'s law was already running before anyone wrote anything, and it continues running afterward. **A glyph is a boundary condition imposed on that law.** It moves a limit, and the law does what it has always done on the far side of the new limit.
 This is why practitioners are burned, crushed and drowned by their own workings with such regularity. The glyph ends. The law does not. Everything a working produces goes on obeying every rule it has ever obeyed, including the ones nobody at the bench thought about, and the correct instinct at any threshold is to ask what the law will keep doing after the intent stops.
 > **The two-part reading of any entry.** The **Family and Physics Domain** say which law is being conditioned. The **Meaning and Use** say what kind of boundary is being imposed on it. A technique is those two decisions and nothing else, and everything downstream is the law's own behaviour.
 
@@ -30,8 +30,8 @@ There are two of them because there are two ways to do it. **Knot** entangles a 
 ### Why thirty carry no tally
 
 The unclassified thirty render without a Family or a Physics Domain, and the standing recommendation has been to leave the blank alone. The boundary reading gives a reason to, rather than merely a preference.
-A Family assignment names **the law being conditioned.** Fifteen of the unclassified are first-order Roots: Flame, Light, Passage, Boundary, Ruin, Vastness, Command, Dominion. None of these names a law. Each names a **kind of limit**, applicable to any law at all, which is precisely why the Codex can classify a derivative of the thing and cannot classify the thing.
-> *Whether that is an archival gap or a property of the Continuum remains unstated. The mechanism explains why the column is empty. It does not explain why the world is built so the column has to be.*
+A Family assignment names **the law being conditioned.** Fifteen of the unclassified are first-order Roots: Flame, Light, Passage, Boundary, Ruin, Vastness, Command, Dominion. None of these names a law. Each names a **kind of limit**, applicable to any law at all, which is precisely why the Codex (the Master Codex, the standing register of glyphs and Wellsprings) can classify a derivative of the thing and cannot classify the thing.
+> *Whether that is an archival gap or a property of the Continuum (the whole lawful order of reality) remains unstated. The mechanism explains why the column is empty. It does not explain why the world is built so the column has to be.*
 
 ---
 
@@ -40,7 +40,7 @@ A Family assignment names **the law being conditioned.** Fifteen of the unclassi
 | Class | Count | What it is |
 |---|---|---|
 | **Root** | 56 | A form with no ancestor in the index. The path is traced directly from the name |
-| **Derivative — Extension** | 35 | A root path carried further along the lattice |
+| **Derivative — Extension** | 35 | A root path carried further along the lattice (the fixed grid every glyph is traced on) |
 | **Derivative — Compound** | 32 | Two paths laid across one another |
 | **Derivative — Synonym** | 11 | A second attested form for a meaning already held |
 | **Derivative — Counter** | 2 | **Only two exist in the entire index: Knot and Lock.** *A counter is a form written to obstruct another form* |
@@ -72,7 +72,7 @@ A Family assignment names **the law being conditioned.** Fifteen of the unclassi
 >
 > They render **without a tally**, which reads in-world as **a glyph the Continuum cannot classify** — *and the standing recommendation is to keep that as a feature rather than fill it.*
 >
-> **The Long Reading holds that the Moto ancestral seat's own name is written in one of these.** It is the oldest proper noun in the project **and it is deliberately blank.**
+> **The Long Reading holds that the Moto ancestral seat's own name is written in one of these.** It is the oldest proper noun in the record **and it is deliberately blank.**
 | Glyph | Name | Class · Archon |
 |---|---|---|
 | `[RenB]` | **Boundary** | Root · Zhaeren |
@@ -108,7 +108,7 @@ A Family assignment names **the law being conditioned.** Fifteen of the unclassi
 
 > **Worth noticing.** Every one of the fifteen unclassified **Roots** is a first-order concept — Flame, Light, Passage, Boundary, Ruin, Vastness, Command, Dominion.
 >
-> *The Codex can classify a derivative of a thing and cannot classify the thing. Whether that is an archival gap or a property of the Continuum is not stated anywhere, and the index does not offer an opinion.**
+> *The Codex can classify a derivative of a thing and cannot classify the thing. Whether that is an archival gap or a property of the Continuum is not stated anywhere, and the index does not offer an opinion.*
 
 ---
 

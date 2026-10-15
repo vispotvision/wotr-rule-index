@@ -49,7 +49,7 @@ Its author derived this alone, the same signature pairing as Bastion Imperium. "
 **Load path** · 0.5 TN through a sword edge would be 5 × 10¹⁸ Pa, far past diamond; the force travels through the gathered weight, and the narrow end of the path is the practitioner's wrists and shoulders.
 | Quantity | Working | Result |
 |---|---|---|
-| Peak force, S-Grade band | force pairing | 0.5 to 2 TN |
+| Peak force, S-Grade band | force pairing | 0.1 to 2 TN |
 | Energy, S-Grade band | Grade table | 4.184 × 10¹² to 2.43 × 10¹³ J |
 | S-Grade blow against B-Grade armour | S band ÷ B ceiling of 4.6 × 10¹⁰ J | 91 to 528 times over |
 | Least contact area for 0.5 TN | 5 × 10¹¹ N ÷ 1.1 × 10¹¹ Pa | 4.5 m² |

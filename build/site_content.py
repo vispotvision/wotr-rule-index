@@ -22,6 +22,7 @@ def main(out: Path) -> None:
     if out.exists():
         shutil.rmtree(out)
     kept = defaultdict(list)
+    public = []
     for p in sorted(WIKI.rglob("*.md")):
         rel = p.relative_to(WIKI).as_posix()
         if rel == "INDEX.md" or rel.startswith(".") or rel in private:
@@ -30,11 +31,18 @@ def main(out: Path) -> None:
             continue
         if re.search(r"(?m)^private:\s*true\s*$", p.read_text(encoding="utf-8")[:2000]):
             continue
-        (out / rel).parent.mkdir(parents=True, exist_ok=True)
-        shutil.copy2(p, out / rel)
+        public.append(rel)
         kept[rel.split("/")[0] if "/" in rel else "Pages"].append(rel[:-3])
-    lines = ["---", "title: War of the Realms", "---", "",
-             "A dark shonen cultivation fantasy in a magitech world. Every page below is open to read.", ""]
+    names = {r[:-3] for r in public}
+    unlink = lambda m: m.group(0) if m.group(1) in names else (m.group(2) or m.group(1).split("/")[-1])
+    for rel in public:  # a link to a page left off the site reads as plain text
+        (out / rel).parent.mkdir(parents=True, exist_ok=True)
+        text = re.sub(r"\[\[([^\]|#]+)(?:#[^\]|]*)?(?:\|([^\]]+))?\]\]", unlink, (WIKI / rel).read_text(encoding="utf-8"))
+        (out / rel).write_text(text, encoding="utf-8")
+    lines = ["---", "title: War of the Realms", "---", ""]
+    start = WIKI / "Start Here.md"
+    if start.exists():
+        lines += [re.sub(r"(?s)^---.*?---\n", "", (out / "Start Here.md").read_text(encoding="utf-8")).strip(), "", "# Every page", ""]
     for section in sorted(kept):
         lines += [f"## {section}", ""] + [f"- [[{r}|{r.split('/')[-1]}]]" for r in kept[section]] + [""]
     (out / "index.md").write_text("\n".join(lines), encoding="utf-8")

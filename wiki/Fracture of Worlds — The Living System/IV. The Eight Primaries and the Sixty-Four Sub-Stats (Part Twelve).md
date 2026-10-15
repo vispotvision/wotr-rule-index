@@ -13,9 +13,9 @@ verification: "unverified"
 *The Crystal does not measure what you believe you are. It measures where the pressure went.*
 **A Primary Stat is the combined total of its eight Sub-Stats.** Points are spent on Sub-Stats only; a Primary is never purchased and holds no value of its own. The Temperance ceiling and the Path gates bind the Sub-Stat. The Primary is the arithmetic afterward, and its Tier Grade is read off the mean of its eight, or of Dominion's seven counted entries, which is the value a character sheet has always carried on the Primary line.
 Primary Stats are the broad categories. Sub-Stats are the grain. Two characters at identical Primary totals can be radically different practitioners because their distributions tell different stories. One may have Vitality concentrated in Fortitude and Absorption, producing a frame that refuses to break but bleeds badly and heals slowly. Another may have the same total across Hemostasis, Regeneration and Filtration, producing a body that breaks readily, reconstructs itself and shrugs off poison. The Primary says they are equally durable. The Sub-Stats say they are durable in completely different ways.
-> **Consolidated from one hundred and twenty to sixty-four.** The original architecture carried fifteen Sub-Stats per Primary, of which a substantial share were restatements of each other under different names. Dominion Density and Dominion Stability both measured how hard the law is to break. Vitality Contuition and Vitality Filtration both measured poison resistance. Gnosis Sapience and Gnosis Fluency both measured Parunic construction. Those duplicates are merged, and the merged entry carries the senior name.
+> **Consolidated from one hundred and twenty to sixty-four.** The original architecture carried fifteen Sub-Stats per Primary, of which a substantial share were restatements of each other under different names. Dominion Density and Dominion Stability both measured how hard the law is to break. Vitality Contuition and Vitality Filtration both measured poison resistance. Gnosis Sapience and Gnosis Fluency both measured Parunic (Parun, the written language of magical law) construction. Those duplicates are merged, and the merged entry carries the senior name.
 >
-> **Where a retired name appears on an existing sheet, read it as the entry that absorbed it.** The merge list sits at the foot of this page.
+> **Where a retired name appears on an existing sheet, read it as the entry that absorbed it.** Each entry below names, in italics, the retired Sub-Stats it absorbed.
 
 ### I. Vitality
 
@@ -54,7 +54,7 @@ Gnosis is the stat of understanding. Not wisdom, which is a product of experienc
 **Retention** — Clarity and accessibility of the Crystalline Memory structure under pressure, and the number of complete working structures held loaded in active cognitive memory without external inscription. *Absorbs Memorium.*
 **Analysis** — Reading Essence signatures, Crystal fractures, Wellspring composition and corruption grade from limited observational data, on contact or at proximity. The diagnostic eye. *Absorbs Diagnosis.*
 **Cognition** — Capacity to engage law-level phenomena, Archonic expressions and higher-dimensional constructs without perceptual fragmentation, and resistance to glamours, false spatial constructs and psychic misdirection. Whether a Principle-level truth enlightens you or shatters you. *Absorbs Warding.*
-**Vigilance** — Passive detection of approaching Temperance ceilings, Essence overdraw proximity and the warnings that precede Dissonance events. The stat that reads your own architecture rather than the room.
+**Vigilance** — Passive detection of approaching Temperance ceilings, Essence overdraw proximity and the warnings that precede Dissonance (the eleventh Stage, where power and identity clash) events. The stat that reads your own architecture rather than the room.
 
 ### IV. Dexterity
 

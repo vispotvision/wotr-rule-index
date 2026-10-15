@@ -130,7 +130,7 @@ Each Wellspring's Family assignment is fixed by the phenomenon it governs, not b
 #### Wellspring Stacking and Interference
 
 Multiple Wellsprings from the same Family compound their Sub-Stat modifications. Three Materia Wellsprings produce a Vitality and Resilience profile noticeably denser than a character with identical raw values and no Materia harmonization. The numbers are identical on paper. The qualitative expression is not.
-Cross-Family harmonization introduces resonance complexity. Thematically complementary Families, Materia and Vectoria for instance, matter given form through force, produce complementary effects without interference. Thematically opposed Families, Materia and Limina, form against the erosion of all shape, produce tension the Crystal must structurally resolve, either through Temperance advancement or through a **Compound Trait** that integrates the contradiction.
+Cross-Family harmonization introduces resonance complexity. Thematically complementary Families, Materia and Vectoria for instance, matter given form through force, produce complementary effects without interference. Thematically opposed Families, Materia and Limina, form against the erosion of all shape, produce tension the Crystal must structurally resolve, either through Temperance advancement or through a **Compound Trait** (a Trait fusing two or more laws into one) that integrates the contradiction.
 The maximum number of simultaneous harmonizations is governed by **Tempering Capacity**. Exceeding it produces resonance conflict that degrades all active harmonizations equally.
 
 ### Part Fourteen — Attraction Force and Obsession Force

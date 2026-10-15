@@ -48,7 +48,7 @@ The first symptom is not perceptual. **It is physiological.** Thermal change in 
 >
 > ***The fire does not fall from the sky. The fire comes from the practitioner's own Shell — and the practitioner, feeling the fire leave their body, concludes that they chose to produce it.***
 **Response time is narrow.** The window between onset and commitment — the point at which the Crystal has been retuned enough that you can no longer distinguish your native architecture from the concentration's influence — **is measured in seconds at Active Concentration and is functionally zero at Veil-Thin and above.**
-> *The surveyor who hesitates during a Spirit-type onset to confirm their reading is the surveyor who has already been retuned.**
+> *The surveyor who hesitates during a Spirit-type onset to confirm their reading is the surveyor who has already been retuned.*
 **The common failure is self-trust.** *By the time they suspect the effects are not their own, the effects have been running long enough that the distinction is no longer available to them. The Crystal that would make the distinction is the Crystal that has been compromised.*
 
 ### Medium-Type Onset

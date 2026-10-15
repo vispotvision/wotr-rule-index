@@ -27,7 +27,7 @@ verification: "unverified"
 |---|---|---|
 | **Material Plane** | Physics, matter, force, and biology. Observable reality; magic does not override its laws, it uses them. | Aether Shell |
 | **Plane of Fate** | Connection, recognition, and consequence. Records what has actually happened between things: bonds, oaths, grudges, every act of recognition runs as a current here. | Attraction Layer |
-| **Soul Plane** | Identity, memory, conviction, and Essence. Preserves who a practitioner is a nd is the plane where Essence originates. | Essence Core |
+| **Soul Plane** | Identity, memory, conviction, and Essence. Preserves who a practitioner is and is the plane where Essence originates. | Essence Core |
 | **The Veil** | The liminal interface between the three. Not a fourth plane — the threshold condition where one plane's law softens into another's. | — |
 
 ---

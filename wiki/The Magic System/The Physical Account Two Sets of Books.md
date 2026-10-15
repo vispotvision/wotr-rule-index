@@ -10,29 +10,29 @@ verification: "unverified"
 
 # The Physical Account: Two Sets of Books
 
-> The Continuum keeps two sets of books on every working ever performed, and they balance. Anyone who tells you only one of them is real is selling something.
+> The Continuum (the whole lawful order of reality) keeps two sets of books on every working ever performed, and they balance. Anyone who tells you only one of them is real is selling something.
 
 ### I. The Two Accounts
 
 Every working admits two complete descriptions.
-**The physical account** describes what happened to matter and energy in the room. Heat moved. Pressure changed. A structure failed along a plane of weakness. Air of a given humidity carried a given charge until it did not. This account uses ordinary measurement, it is reproducible, and a competent Measurewright with no Crystal at all can take it from the outside with instruments and arithmetic.
-**The stratal account** describes the same event across the three strata: what the Aether in that room was doing, which Wellspring's law was invoked and under what boundary condition, and what it cost the Soul Crystal that spent it. This account requires a coil, a trained reader, and a practitioner willing to be read.
+**The physical account** describes what happened to matter and energy in the room. Heat moved. Pressure changed. A structure failed along a plane of weakness. Air of a given humidity carried a given charge until it did not. This account uses ordinary measurement, it is reproducible, and a competent Measurewright (a certified assessor of workings) with no Crystal (the soul's organ that stores and channels power) at all can take it from the outside with instruments and arithmetic.
+**The stratal account** describes the same event across the three strata: what the Aether in that room was doing, which Wellspring (standing current of natural law) had its law invoked and under what boundary condition, and what it cost the Soul Crystal that spent it. This account requires a coil (the assay instrument a practitioner stands inside), a trained reader, and a practitioner willing to be read.
 Both accounts are complete. Neither is a translation of the other. A working that has a good physical account and no stratal account was not a working, and a working with a stratal account whose physics does not close was recorded by someone who did not check.
 The Accord's documentation standard requires both, and has since the second Register. Entries that carry only the mystic half are conventionally marked as devotional literature and shelved accordingly, which is the politest insult the Archives has ever institutionalised.
 
 ### II. What the Strata Actually Measure
 
-**The Aether stratum.** Aetheric Density is the local concentration available to be drawn. Residue is what a prior working left behind and has not yet dispersed. Saturation is the ceiling past which a district stops accepting further expression and begins returning it. These are field quantities. They vary with terrain, weather, season, the proximity of a Wellspring vein, and, in any settled district, with the state of the standpipe network and whether the Guild has cut the main.
-A practitioner who draws in a saturated room is working against a gradient and pays for it in Harmonics. A practitioner who draws in a depleted one is drinking from a dry cup. Neither has anything to do with how strong they are.
+**The Aether stratum.** Aetheric Density is the local concentration available to be drawn. Residue is what a prior working left behind and has not yet dispersed. Saturation is the ceiling past which a district stops accepting further expression and begins returning it. These are field quantities. They vary with terrain, weather, season, the proximity of a Wellspring vein, and, in any settled district, with the state of the standpipe network and whether the Board has cut the main.
+A practitioner who draws in a saturated room is working against a gradient and pays for it in Harmonics (the stat that governs drawing Aether from the ground). A practitioner who draws in a depleted one is drinking from a dry cup. Neither has anything to do with how strong they are.
 **The Wellspring stratum.** Each of the sixty carries a Core Law, and each Core Law states a real regularity of the world. The glyph does not create the law. The glyph is a boundary condition imposed on a law that was already running, and the working is what the law does once the boundary has moved.
 This is the single most misunderstood sentence in practical instruction. Nobody makes fire. A practitioner establishes a condition under which the ordinary behaviour of heat produces fire where it previously did not, and the fire that results obeys every rule fire has ever obeyed, including the ones the practitioner has not thought about. Practitioners are burned by their own workings constantly, and the reason is always the same: the law kept running after the intent stopped.
-**The Essence stratum.** The Soul Crystal's three layers, its Developmental Tier, its Crystal State, its efficiency, its reserve. This stratum is where the invoice arrives. Everything the other two strata do lawfully and impersonally, this stratum pays for personally.
+**The Essence stratum.** The Soul Crystal's three layers, its Developmental Tier (how far the whole Crystal has matured), its Crystal State (Fractured, Refined or Overgrown), its efficiency, its reserve. This stratum is where the invoice arrives. Everything the other two strata do lawfully and impersonally, this stratum pays for personally.
 
 ### III. Where the Energy Comes From
 
 The honest answer is that a working's energy budget balances at the Aether stratum and not at the Essence one. The practitioner does not supply the joules. They supply the boundary condition, and the boundary condition is cheap in absolute terms and expensive in the only currency a soul has.
 This is why a Crystal can produce an output that no metabolism could sustain, and why the practitioner is nevertheless destroyed by producing it. The energy was in the room. The structure that let it move in that particular direction was in the person, and structure is what fails.
-Efficiency is the ratio of Essence spent to effect that arrives. The remainder leaves as heat, sound, and structural bleed, which is why a low-efficiency practitioner is loud, warm, and easy to find, and why the highest Bands run quiet.
+Efficiency is the ratio of Essence spent to effect that arrives. The remainder leaves as heat, sound, and structural bleed, which is why a low-efficiency practitioner is loud, warm, and easy to find, and why the highest Bands (hundred-Level brackets of growth) leak so little: what a room sees and hears of them is their own aura and the working itself, never its waste.
 
 ### IV. The Four Theories
 
@@ -46,8 +46,8 @@ The Accord's enforcement of the Consent Doctrine is a licensing decision rather 
 ### V. The Body Is the Readout
 
 Nothing in a soul improves without strain, and strain is a physical event before it is anything else.
-A Crystal densifies when it is driven to the edge of its structural tolerance and held there. In practice that means exhaustion past usefulness, injury past safety, or genuine proximity to death. The Crystal does not distinguish between a Threshold approached deliberately in a training yard and one arrived at by accident in a ditch, except that the ditch has a better record.
-Because the Aether Shell is the Material-Plane layer, everything a Crystal does eventually shows in tissue. Traits deposit mineral, rebuild vasculature, alter myelination, shift resting core temperature. Overchannel scars. Essence Starvation flickers a Trait the way a failing conductor flickers a lamp. A practitioner's history can be taken off their living body by a competent physician and off their dead one by a competent renderer, and the second reading is better.
+A Crystal densifies when it is driven to the edge of its structural tolerance and held there. In practice that means long breathing and drawing in dense Aether or at a Wellspring, a seclusion held past comfort, a real fight, injury past safety, or genuine proximity to death. The Crystal does not distinguish between a Threshold (the crisis that lifts a soul to its next Stage) approached deliberately in a seclusion chamber or a training yard and one arrived at by accident in a ditch, except that the ditch has a better record.
+Because the Aether Shell is the Material-Plane layer, everything a Crystal does eventually shows in tissue. Traits (standing laws a soul carries, formed by what it survived) deposit mineral, rebuild vasculature, alter myelination, shift resting core temperature. Overchannel (forcing output past the Crystal's safe ceiling) scars. Essence Starvation (running below a tenth of reserve) flickers a Trait the way a failing conductor flickers a lamp. A practitioner's history can be taken off their living body by a competent physician and off their dead one by a competent renderer, and the second reading is better.
 This is why the physical account matters at all. A system that only described itself in its own vocabulary could not be checked. The body is where the two sets of books are reconciled, and the reconciliation is involuntary.
 
 ### VI. The Form of a Proper Entry
@@ -63,6 +63,6 @@ The Registry's standard, unchanged since the second Register and honoured about 
 
 Every documented failure mode reduces to one of these.
 **Boundary fault.** The condition was established imprecisely and the law ran somewhere unintended. Burns, structural collapse in the wrong wall, a working that continued after the practitioner stopped.
-**Field fault.** The room could not supply what the working assumed. Saturation, depletion, a cut main, a Silence Realm. The working is correct and produces nothing.
+**Field fault.** The room could not supply what the working assumed. Saturation, depletion, a cut main, a Silence Realm (ground where no lawful working can be authorised). The working is correct and produces nothing.
 **Structural fault.** The Crystal could not hold what the boundary permitted. Overchannel, Backlash, Fracture. The working succeeds and the practitioner does not.
 **Coherence fault.** The practitioner's lived behaviour and their stated law have drifted apart, and the Continuum reads the drift. Output degrades, Thresholds refuse to authorise, and Traits begin to argue with their bearer. This is the slowest fault and the one that ends careers.

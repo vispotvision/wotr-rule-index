@@ -100,7 +100,7 @@ No derivation history is recorded for this technique beyond its author's profile
 | Cost, one strike | a fifth of full reserve | 10,360 to 192,200 EU |
 | Reserve covers | 90% ÷ 20% | four, the fifth empties him |
 | Lock | cold contracture and nerve block | 1 to 2 s |
-| Follow-through | A-Grade, as committed | up to 20 to 100 GN, 46 GJ to 4.184 TJ |
+| Follow-through | A-Grade, as committed | up to 5 to 100 GN, 46 GJ to 4.184 TJ |
 
 **Cost** · A fifth of full reserve per strike, a fixed countable clock; the touch is cheap in physics and dear in Essence.
 **Duration** · The lock holds 1 to 2 seconds, a third of a turn, long against a beast at speed.

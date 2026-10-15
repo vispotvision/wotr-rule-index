@@ -56,7 +56,7 @@ verification: "unverified"
 **Law** · Transmission falls exponentially with thickness, T ≈ e^(−2κd); ruptures follow dielectric breakdown (an insulator failing into a self-sustaining channel); Drift follows per-cycle fatigue, damage summed per crossing until it reaches one.
 **Limit** · Thickness is a property of the place, not the practitioner, and cost rises by e^(2κΔd): there is no moderately hard crossing.
 **Terrain** · Thin zones gather near Wellspring veins, worn ritual sites and mass-death sites; Thick comes from dense material, ward-networks, Silence, or a city's noise drowning the Soul Plane's deeper frequencies.
-**Rupture** · A struck channel runs at a far lower field than it took to strike and stays struck until re-insulated: it is put out by removing its current or cooling it, never by pushing harder.
+**Rupture** (a Veil rupture: a channel struck through the Veil, not a Shell Rupture or Rupture Event) · A struck channel runs at a far lower field than it took to strike and stays struck until re-insulated: it is put out by removing its current or cooling it, never by pushing harder.
 **Echo Beasts** · Unresolved spiritual content crosses a rupture and condenses on the Physical side like a precipitate, keeping the character of what formed it and none of its mind.
 **Energy** · Coupling moves what is already present; the practitioner pays for the match, priced by thickness. A rupture was paid for once by whatever struck it and has run free since; containment is the expense.
 | Quantity | Working | Result |

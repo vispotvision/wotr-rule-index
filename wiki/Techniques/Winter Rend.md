@@ -93,7 +93,7 @@ Self-derived by its author during the Vorynn Trials. The problem it answers is t
 |---|---|---|
 | Cost, one sweep | 8% of full reserve | 4,144 to 76,880 EU |
 | Reserve covers | 90% ÷ 8% | eleven, the twelfth into Starvation |
-| Blow it rides | A-Grade, as committed | up to 20 to 100 GN, 46 GJ to 4.184 TJ |
+| Blow it rides | A-Grade, as committed | up to 5 to 100 GN, 46 GJ to 4.184 TJ |
 
 **Cost** · 8 percent of full reserve a sweep.
 **Duration** · Instant: one 0.14 s sweep inside one turn.

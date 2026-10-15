@@ -14,8 +14,8 @@ verification: "unverified"
 
 ### I. The Mains
 
-Aether was always in the ground and always concentrated where the substrate was conductive. **The Long Reckoning did not discover this. It plumbed it.**
-A **draw main** is sealed conduit running from a harmonised vein to a district, laid in brick culvert beside the sewers because the two trades share an engineering and frequently a workforce. Mains are graded by the density they carry and by the seal that certifies them, and the grade is stamped at intervals on the culvert wall in Accord Chancery Hand so that any inspector in any kingdom reads the same mark.
+Aether was always in the ground and always concentrated where the substrate was conductive. **The Long Reckoning did not discover this. It plumbed it.** The cities were plumbed first and most thoroughly, and their lights, heat, water and trams run on the district mains; past the last station the network thins, and the towns and the wilds still burn oil.
+A **draw main** is sealed conduit running from a harmonised vein (a Wellspring current tuned and tapped for drawing) to a district, laid in brick culvert beside the sewers because the two trades share an engineering and frequently a workforce. Mains are graded by the density they carry and by the seal that certifies them, and the grade is stamped at intervals on the culvert wall in Accord Chancery Hand so that any inspector in any kingdom reads the same mark.
 **Standpipes** rise from the main at street level: iron, waist-high, capped, and unlovely. A standpipe is a public draw point. In a good district it stands in a railed enclosure and is opened by a Board man. In a bad one it stands in the street and has been opened by everybody.
 **Gauge-housings** sit wherever a main splits, and hold the instruments that report density and flow to whoever reads them. A housing is brass, slate-backed, locked, and inspected quarterly. **The lock is the point. The instrument is honest and the housing is where the argument about what it said takes place.**
 
@@ -34,7 +34,7 @@ It counts, it is sealed, and the seal is the property of the Board rather than o
 - **Trade supply.** Higher density, higher tariff, inspected twice a year. Any workshop that cuts, pours or renders runs on this.
 - **Bonded supply.** Uncapped, individually warranted, and issued against a name. Practitioners of standing, Accord premises, and three of the great houses. **A bonded line is a legal fact about a person before it is a service.**
 - **Unmetered.** Illegal, universal, and effected with a length of pipe and a nerve. The Boards call it abstraction. Everyone else calls it **a spur**.
-> *A spur is not Mechanica. It is theft from a lawful main, which is a magistrate's business. The distinction matters enormously in law and not at all to the man freezing in the room upstairs.*
+> *A spur is not Mechanica (forbidden working that takes power without lawful consent). It is theft from a lawful main, which is a magistrate's business. The distinction matters enormously in law and not at all to the man freezing in the room upstairs.*
 
 ### IV. The Boards
 
@@ -46,7 +46,7 @@ They are monopolies. They set tariffs, they own the mains, they employ the inspe
 
 Density delivered below tariff is the ordinary condition of poor districts, and it has consequences that are physiological rather than merely commercial.
 **Residue accumulates where flow is slow.** A main run at low pressure through a crowded quarter does not clear its residue between draws, and residue is a persistent alteration to the field of the place it sits in. The affected streets read wrong on any instrument and read wrong to the people living in them, who describe it as a heaviness and are told it is damp.
-**The documented effects** are unspectacular and cumulative: poor sleep, low-grade Gnosis noise in anyone sensitive, Crystal awakening at abnormal ages in children, and a Trait incidence in long-settled families that the Boards have never commissioned a study of. **The Physicians' College has requested one four times.**
+**The documented effects** are unspectacular and cumulative: poor sleep, low-grade Gnosis (perception) noise in anyone sensitive, Crystal awakening (the soul's power-organ opening) at abnormal ages in children, and a Trait (a standing law carried in the soul) incidence in long-settled families that the Boards have never commissioned a study of. **The Physicians' College has requested one four times.**
 > **The Southbank finding, and what happened to it.** A Board surveyor established in a single quarter that residue concentration tracked tenement density and inversely tracked tariff band, and submitted it.
 >
 > *The report was accepted, the surveyor was promoted, and the recommendation was referred to a committee that has met twice.* **The finding is not suppressed. It is available. It has simply never been the business of anybody with the authority to act on it.**
@@ -54,27 +54,27 @@ Density delivered below tariff is the ordinary condition of poor districts, and 
 ### VI. Powder and Proof
 
 Gunpowder is ordinary and old, and it is the reason armour did not die.
-**Shot is chemically cheap. A working is not.** A musket ball costs a fraction of a penny and a practitioner's expenditure is drawn against a reserve that took years to build, so the economics of an engagement between the two never favoured the practitioner and never have.
+**Shot is chemically cheap. A working is not.** A musket ball costs a fraction of a penny and a practitioner's expenditure is drawn against a reserve that took years to build, so the economics of an engagement between the two never favoured the practitioner and still do not.
 **Proofed plate** is armour tested by firing at it and marked with the result. **The proof-mark is the whole industry**: a stamp naming the house, the charge tested, and the range. Plate proofed against a pistol at twenty paces carries a different mark from plate proofed against a musket at fifty, and the marks are forged constantly.
 > *A proof-mark is a promise about a specific charge at a specific range, made by a workshop that may no longer exist, on a piece of steel that has since been repaired twice. Every soldier who has bought his own harness knows this and buys anyway, because the alternative is buying nothing.*
 
 ### VII. Rail, Wire and the Rest
 
-**Rail** exists and runs on the main. A line is a main laid along a road and sealed into the bed between the rails, and the engine couples to it across a hand's breadth of air by Transference and burns nothing. **It is the reason the Boards matter beyond their own walls**: every town a line reaches is a town on somebody's tariff, and a Board with a line through its country negotiates with every station on it. City trams run the same way on a slot in the street; motorcars and airships carry charged cells filled at a cell-house off a trade main.
-**The wire.** Signal along conductive line, Fulguria-adjacent, operated by clerks whose Crystals have never woken. **The wire is the first apparatus in the world's history that lets an ordinary person send something faster than a horse**, and its cultural effect substantially exceeds its technical one. It is a Guild line at a Guild price, carrying information as a licensed commodity, and the Accord guards it in the tone of an institution that knows exactly what it knows exactly what it would lose. **In Guild offices and the richest houses of the great cities the same line carries a voice**, by telephone through a hand-worked exchange.
-**Works and factories** run their draw-engines on trade supply, raise no chimney, and employ people who are not practitioners to operate processes that are. *A dye works uses Caloria at industrial scale by having thirty men each perform one licensed step badly.*
+**Rail** exists and runs on the main. A line is a main laid along a road and sealed into the bed between the rails, and the engine couples to it across a hand's breadth of air by Transference (the Wellspring that passes energy between tuned things without contact) and burns nothing. **It is the reason the Boards matter beyond their own walls**: every town a line reaches is a town on somebody's tariff, and a Board with a line through its country negotiates with every station on it. City trams run the same way on a slot in the street; motorcars and airships carry charged cells filled at a cell-house off a trade main.
+**The wire.** Signal along conductive line, Fulguria (the electromagnetic family of Wellsprings)-adjacent, operated by clerks whose Crystals have never woken. **The wire is the first apparatus in the world's history that lets an ordinary person send something faster than a horse**, and its cultural effect substantially exceeds its technical one. It is a Guild line at a Guild price, carrying information as a licensed commodity, and the Accord guards it in the tone of an institution that knows exactly what it would lose. **In Guild offices and the richest houses of the great cities the same line carries a voice**, by telephone through a hand-worked exchange.
+**Works and factories** run their draw-engines on trade supply, raise no chimney, and employ people who are not practitioners to operate processes that are. *A dye works uses Caloria (the heat family of Wellsprings) at industrial scale by having thirty men each perform one licensed step badly.*
 
 ### VIII. The People Who Tend It
 
 **Main-men** work the culverts, in pairs, with a gauge and a lamp. The work is wet, cramped, and pays badly, and the residue exposure is continuous and undocumented.
 **Seal-clerks** press and record. **Meter-readers** walk. **Cutters** attend when a household stops paying, and are the most despised trade in any city and the best paid of the four.
-> **None of these people are screened.** Main-men spend careers inside charged conduit, at densities that would be recorded as an Active Concentration if a surveyor found the same reading in open country, and no baseline is taken because no baseline exists for the unawakened.
+> **None of these people are screened.** Main-men spend careers inside charged conduit, at densities that would be recorded as an Active Concentration (a density that alters bodies over time) if a surveyor found the same reading in open country, and no baseline is taken because no baseline exists for the unawakened.
 >
 > *The trade knows what it does to a man over twenty years. It has a word for the late stage, it is not in any Board document, and a physician who has never worked a culvert will diagnose it as something else with perfect confidence.*
 
 ### IX. Writing It
 
-**The infrastructure is furniture, not spectacle.** A standpipe is street furniture. A meter is on the wall by the door. Nobody explains any of it, and characters interact with it the way people interact with plumbing: only when it fails.
+**The infrastructure is everywhere, and most of it is furniture.** The great works make a city's skyline and its pride; a standpipe is street furniture. A meter is on the wall by the door. Nobody explains any of it, and characters interact with it the way people interact with plumbing: only when it fails.
 **Money before magic.** In an Imperial Age scene the first question about a working is who is paying for the draw. **A practitioner in someone else's house is running up somebody's bill and both of them know it.**
 **The hum is the room tone.** Present in every interior scene on the network, mentioned rarely, and mentioned the moment it stops.
 **The inspector outranks the archmage in the only way that matters on the day.** He can cut the supply, and everybody in the building knows it, and the archmage is polite to him.

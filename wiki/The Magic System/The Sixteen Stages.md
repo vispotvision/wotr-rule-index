@@ -88,7 +88,7 @@ Some people weep. Most do not. The recorded pattern across four centuries of ins
 ### IV — Flourishing
 
 **Tier 4 · Adept · Grade B · Ceiling 275 · Levels 76 to 100**
-**Catalyst** · formation of the first genuine Spirit Axis, a bond with another soul that carries mechanical weight in the Harmonics (the stats for drawing power and holding it in tune)
+**Catalyst** · formation of the first genuine Spirit Axis, a bond with another soul that carries mechanical weight in the Harmonics (the stats for drawing power and holding it in tune) (the stats for drawing power and holding it in tune)
 ***From inside*** · The noise stops.
 Identity settles. The resonance signature that will be recognisably yours for the rest of your life finishes arriving. Techniques that were separate tricks cohere into something with a style to it, and for most practitioners this is the most physically pleasant experience of their lives, a warmth low in the chest that does not go away for weeks and that nobody who has had it describes well.
 And it cannot be reached alone.

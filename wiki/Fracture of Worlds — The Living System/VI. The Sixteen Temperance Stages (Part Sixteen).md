@@ -11,26 +11,26 @@ verification: "unverified"
 # VI. The Sixteen Temperance Stages (Part Sixteen)
 
 *"Temperance is not a buff. It is a confession of how much you've survived."*
-Each Stage is a qualitative transformation in the Crystal's architecture. The Stages are not sequential achievements to be collected. They are structural reorganizations the Crystal undergoes when the pressure of accumulated experience exceeds the architecture's current capacity. Each Stage alters how every stat behaves, not by adding numerical bonuses but by changing what the numbers are structurally permitted to mean.
-The first fourteen constitute canonical mortal progression, Murmuring through Zenith. Stages XV and XVI, Revelation and Apex, extend beyond the canonical ceiling into the Apotheosis approach.
+Each Stage is a qualitative transformation in the architecture of the Crystal (the Soul Crystal, the soul's organ of power). The Stages are not sequential achievements to be collected. They are structural reorganizations the Crystal undergoes when the pressure of accumulated experience exceeds the architecture's current capacity. That pressure is brought to the break by three roads, crisis, seclusion before the Threshold, or tribulation, and most practitioners walk some of each; the Catalyst named under each Stage is the moment the break is met, whichever road led there. Each Stage alters how every stat behaves, not by adding numerical bonuses but by changing what the numbers are structurally permitted to mean.
+The first fourteen constitute canonical mortal progression, Murmuring through Zenith. Stages XV and XVI, Revelation and Apex, extend beyond the canonical ceiling into the Apotheosis approach (the climb from mortal soul toward becoming an Archon).
 
 ### Inner Refinement, Stages I through VII
 
 #### Stage I — Murmuring (Tier 1 · Initiate)
 
-The Crystal has opened. Essence stirs but cannot be directed. The practitioner feels power as noise, a hum beneath the skin that responds to emotion but not to intent. All Sub-Stats present but volatile. Output unreliable and heavily mood-dependent. **Max Grade E. Ceiling 50.** The world has noticed you. You have not yet noticed the world noticing.
+The Crystal has opened. Essence (the soul's own power) stirs but cannot be directed. The practitioner feels power as noise, a hum beneath the skin that responds to emotion but not to intent. All Sub-Stats (the sixty-four finer stats beneath the eight Primaries) present but volatile. Output unreliable and heavily mood-dependent. **Max Grade E. Ceiling 50.** (Max Grade: the highest letter rank of output; Ceiling: the highest stat value.) The world has noticed you. You have not yet noticed the world noticing.
 
 #### Stage II — Welling (Tier 2 · Apprentice)
 
-Essence rises and spills before it can be contained. The practitioner feels the direction of their power but cannot control its volume. Techniques misfire regularly. The Aether Shell is forming but porous. **Max Grade D. Ceiling 100.** *Catalyst:* first genuine contact with a Wellspring current under personal pressure.
+Essence rises and spills before it can be contained. The practitioner feels the direction of their power but cannot control its volume. Techniques misfire regularly. The Aether Shell (the soul's outer layer, which passes power out into the world) is forming but porous. **Max Grade D. Ceiling 100.** *Catalyst* (the event that sets off the breakthrough)*:* first genuine contact with a Wellspring (a natural source of magical current) current under personal pressure.
 
 #### Stage III — Ascension (Tier 3 · Journeyman)
 
-First true awakening. The Path becomes visible. The Crystal begins expressing a coherent identity rather than reactive noise. Techniques can be constructed deliberately. The practitioner transitions from surviving their power to directing it. **Max Grade C. Ceiling 175.** *Catalyst:* first technique developed independently from instruction.
+First true awakening. The Path (the practitioner's road of development) becomes visible. The Crystal begins expressing a coherent identity rather than reactive noise. Techniques can be constructed deliberately. The practitioner transitions from surviving their power to directing it. **Max Grade C. Ceiling 175.** *Catalyst:* first technique developed independently from instruction.
 
 #### Stage IV — Flourishing (Tier 4 · Adept)
 
-Power blooms. Identity stabilizes. The resonance signature becomes recognizable and consistent. Techniques cohere into a personal style rather than isolated expressions. The first genuine Spirit Axis bonds become mechanically possible. **Max Grade B. Ceiling 275.** *Catalyst:* formation of the first genuine Spirit Axis bond.
+Power blooms. Identity stabilizes. The resonance signature becomes recognizable and consistent. Techniques cohere into a personal style rather than isolated expressions. The first genuine Spirit Axis bonds (bonds with another soul that carry real weight) become mechanically possible. **Max Grade B. Ceiling 275.** *Catalyst:* formation of the first genuine Spirit Axis bond.
 
 #### Stage V — Splintering (Tier 5 · Expert)
 
@@ -38,25 +38,25 @@ The soul cracks open to become something larger. The first crisis Stage. The arc
 
 #### Stage VI — Glory (Tier 5 · Expert)
 
-Peak of the inner phase. The self burns bright and is noticed. The Aura begins generating genuine environmental effects. Techniques carry the weight of identity rather than improvisation. The Crystal has processed Splintering's fractures into features. **Aether Class emerges and the Echo field forms.** **Max Grade A. Ceiling 400.** *Catalyst:* willingly accepting genuine soul-cost to preserve something valued above the character's own structural integrity.
+Peak of the inner phase. The self burns bright and is noticed. The Aura begins generating genuine environmental effects. Techniques carry the weight of identity rather than improvisation. The Crystal has processed Splintering's fractures into features. **Aether Class (how cleanly the soul passes power outward) emerges and the Echo field forms.** **Max Grade A. Ceiling 400.** *Catalyst:* willingly accepting genuine soul-cost to preserve something valued above the character's own structural integrity.
 
 #### Stage VII — Refraction (Tier 5 · Expert)
 
-Dual sight. The soul sees itself from outside. The practitioner begins perceiving their own Crystal architecture as an object of study rather than an unconscious medium. Domain seeds become structurally stable. Gnosis Sub-Stats undergo a qualitative jump as self-awareness extends to metaphysical structure. Projected fields are coherent but still depend on sustained presence. Traits externalize. **Max Grade A; allocation stops at 400, with late push toward S entry. Ceiling 475, the band from 401 reachable only under strain.** *Catalyst:* first Domain seed activation.
+Dual sight. The soul sees itself from outside. The practitioner begins perceiving their own Crystal architecture as an object of study rather than an unconscious medium. Domain (a space where a soul's inner law becomes local reality) seeds become structurally stable. Gnosis (the Primary stat for perception and understanding) Sub-Stats undergo a qualitative jump as self-awareness extends to metaphysical structure. Projected fields are coherent but still depend on sustained presence. Traits (a belief hardened into a personal law of the soul) externalize. **Max Grade A; allocation stops at 400, with late push toward S entry. Ceiling 475, the band from 401 reachable only under strain.** *Catalyst:* first Domain seed activation.
 
 ### Outer Influence, Stages VIII through XIV
 
 #### Stage VIII — Transcendence (Tier 6 · Master)
 
-The world is read as symbol. The practitioner resolves a core internal contradiction documented in the Crystal's fracture record, a wound carried as structural damage and consciously processed into architecture. **The first true Domain forms**, a piece of the lattice that accepts the soul's signature. Techniques begin channeling forces larger than the individual. Ardency and Harmonics undergo a qualitative shift as external power sources become structurally integrated. **Max Grade S. Ceiling 550.**
+The world is read as symbol. The practitioner resolves a core internal contradiction documented in the Crystal's fracture record, a wound carried as structural damage and consciously processed into architecture. **The first true Domain forms**, a piece of the lattice that accepts the soul's signature. Techniques begin channeling forces larger than the individual. Ardency (the stat for raw power output) and Harmonics (the stat for drawing on outside Aether) undergo a qualitative shift as external power sources become structurally integrated. **Max Grade S. Ceiling 550.**
 
 #### Stage IX — Invocation (Tier 6 · Master)
 
-The practitioner calls on Wellsprings, Titans or Archonic law as co-authors of their expression. Techniques are no longer purely personal. The Domain consolidates into a **Realm** capable of holding other Domains. Pacts, artifacts and law begin to imprint on terrain. **Max Grade S; allocation stops at 550, with late push toward SS entry. Ceiling 625, the band from 551 reachable only under strain.** *Catalyst:* consolidating Domain into Realm structure.
+The practitioner calls on Wellsprings, Titans or Archonic law (the law of the Archons, the world's fourteen great powers) as co-authors of their expression. Techniques are no longer purely personal. The Domain consolidates into a **Realm** capable of holding other Domains. Pacts, artifacts and law begin to imprint on terrain. **Max Grade S; allocation stops at 550, with late push toward SS entry. Ceiling 625, the band from 551 reachable only under strain.** *Catalyst:* consolidating Domain into Realm structure.
 
 #### Stage X — Realization (Tier 6 · Master)
 
-Truth as lived consequence. The world answers back. The Domain becomes a reality the Continuum must accommodate rather than merely permit. Emotional and moral stability begins having direct environmental consequences. **Max Grade SS. Ceiling 725.** *Catalyst:* Domain achieving Continuum accommodation, the moment reality stops resisting the character's inner law and starts adapting to it.
+Truth as lived consequence. The world answers back. The Domain becomes a reality the Continuum (the whole fabric of reality) must accommodate rather than merely permit. Emotional and moral stability begins having direct environmental consequences. **Max Grade SS. Ceiling 725.** *Catalyst:* Domain achieving Continuum accommodation, the moment reality stops resisting the character's inner law and starts adapting to it.
 
 #### Stage XI — Dissonance (Tier 7 · Grandmaster)
 
@@ -64,7 +64,7 @@ Power and identity clash. The second crisis Stage and the most dangerous. The Cr
 
 #### Stage XII — Emanation (Tier 7 · Grandmaster)
 
-Emergence from Dissonance. The Crystal is denser and cleaner than before entry. Fractures have become features. The practitioner radiates outward. Domains form naturally around them. Presence alters ambient metaphysical conditions without deliberate activation. Traits become local physics. Dominion undergoes its most significant jump. The character transitions from projecting power to embodying it. **Max Grade SSS. Ceiling 950.**
+Emergence from Dissonance. The Crystal is denser and cleaner than before entry. Fractures have become features. The practitioner radiates outward. Domains form naturally around them. Presence alters ambient metaphysical conditions without deliberate activation. Traits become local physics. Dominion (the stat for presence and pressure on others) undergoes its most significant jump. The character transitions from projecting power to embodying it. **Max Grade SSS. Ceiling 950.**
 
 #### Stage XIII — Principality (Tier 8 · Archmaster)
 

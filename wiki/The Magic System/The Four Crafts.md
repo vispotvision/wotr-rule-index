@@ -42,7 +42,7 @@ The five-step pipeline runs inside one practitioner, in real time, in a single c
 >
 > A glyph creates nothing. The law of the Wellspring (one of sixty natural sources of magic, each carrying a physical law) was already running. **Authorization** says by what right a limit is set, **Boundary** sets it, **Direction** states which way the law is to run across it, and **Sealing** takes the limit back down.
 >
-> *Which is why Sealing is the role that kills people.* Authorization, Boundary and Direction failing produce a working that does not happen. **Sealing failing produces a working that does not stop**, because the law goes on obeying itself after the operator's attention has left the room. Every burnt workshop in the Accord's incident record is a Sealing failure and roughly a third of them are recorded as something else.
+> *Which is why Sealing is the role that kills people.* Authorization, Boundary and Direction failing produce a working that goes wrong while the operator is still in the room. **Sealing failing produces a working that does not stop**, because the law goes on obeying itself after the operator's attention has left the room. Every burnt workshop in the Accord's incident record is a Sealing failure and roughly a third of them are recorded as something else.
 > ***The Western frame does not need to be imported into WOTR. It needs to be excavated out of it.***
 
 ---
@@ -107,7 +107,7 @@ The discipline of building a lawful Parun sentence and committing it to a medium
 >
 > **To a guildsman, a man who can only speak is a man who could not afford to learn to cut.** The soldier's craft, the hedge-worker's craft, the travelling fraud's craft and the craft of the desperate.
 >
-> It requires no substrate, no vessel, no workshop, no seven years, and no guild. ***That is precisely why the guilds hold it in contempt. Anyone can shout. Cutting takes seven years and a master willing to take you.*** The world outside the halls has never agreed. The public, the armies and the sects idolise a great speaker as they idolise any champion, and the man the examiners call a mouth is the one the crowd came to see.
+> It requires no substrate, no vessel, no workshop, no seven years, and no guild. ***That is precisely why the guilds hold it in contempt. Anyone can shout. Cutting takes seven years and a master willing to take you.*** The world outside the halls has never agreed. The public, the armies and the sects idolise a great speaker as they idolise any champion, and the man the examiners call a mouth is the one the crowd came to see. The world outside the halls has never agreed. The public, the armies and the sects idolise a great speaker as they idolise any champion, and the man the examiners call a mouth is the one the crowd came to see.
 >
 > *The Accord licences it grudgingly, at the lowest fee band, with the shortest examination — and its examiners refer to the licence among themselves as the shouting ticket.*
 

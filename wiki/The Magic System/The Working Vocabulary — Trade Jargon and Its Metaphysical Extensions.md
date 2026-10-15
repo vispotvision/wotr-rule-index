@@ -12,7 +12,7 @@ verification: "unverified"
 
 ### Why This Exists
 
-The canonical term list runs to four hundred and thirty-four entries and every one of them is machinery: Grades, Stages, Wellsprings, Sub-Stats, Crystal tiers. That vocabulary is workbook and mostly stays off the page.
+The canonical term list runs to four hundred and thirty-four entries and every one of them is machinery: Grades, Stages, Wellsprings, Sub-Stats, Crystal tiers. That vocabulary names the system, and it may stand on the page beside the effect it names, but it places nobody by trade or class.
 What a scene actually needs is the other layer. **What a fitter calls the pipe. What an assayer calls the flash. What a glasshouse calls a flaw.** Those words do three things at once: they place a speaker by trade and class, they make the world feel worked rather than described, and they give the metaphysics somewhere to borrow from that is not the Codex.
 
 ### The Method
@@ -60,7 +60,7 @@ The real process: a sliver of the sample is wrapped in lead, sometimes pre-treat
 | **parting** | separating two metals that alloyed together | separating a bloodline trait from a trained one; contested and rarely clean | — |
 | **proof** | the mark struck on tested metal, powder, glass | the Guild proof-mark; a proofed working, a proofed barrel | *proofed* is vouched for |
 | **touchstone** | the dark stone a sample is rubbed against for a rapid, non-destructive read | any quick field test that gives an approximate answer without opening anything | *the touch* is a rough estimate |
-| **slag**, **scoria** | the waste glass floating on the melt | Residue after a working; what a district's traps collect | *slag* is an insult and needs no explanation |
+| **slag**, **scoria** | the waste glass floating on the melt | Residue after a working; what a district's traps collect | *slag* is an insult and needs no explanation: a man who *came out slag* took a Dead Set |
 | **feathering** | working the cupel carefully near the end | handling a diagnosis at the point it could still go wrong | — |
 
 #### The blick

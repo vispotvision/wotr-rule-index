@@ -51,7 +51,7 @@ Its author derived this alone, out of the doctrine "a king first commands himsel
 | Quantity | Working | Result |
 |---|---|---|
 | Footprint | π × (10 m)² | 314 m² |
-| Threshold force | S-Grade band | 0.5 to 2 TN; 4.184 × 10¹² to 2.42672 × 10¹³ J, 1 to 5.8 kt |
+| Threshold force | S-Grade band | 0.1 to 2 TN; 4.184 × 10¹² to 2.42672 × 10¹³ J, 1 to 5.8 kt |
 | Bearing pressure at the footprint | F ÷ 314 m² | 1.6 to 6.4 GPa |
 | Granite / high-performance concrete | reference | 130 to 200 MPa / about 200 MPa |
 | Dense alumina / tungsten carbide | reference | 2 to 4 GPa / 4 to 6 GPa |

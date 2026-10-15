@@ -17,10 +17,10 @@ verification: "unverified"
 
 The Fracture of Worlds progression framework is the metaphysical skeleton beneath every character in War of the Realms. It is not a game overlay imposed on the world from outside. It is a natural consequence of how the Continuum observes, measures, and responds to the maturation of living souls. When a practitioner grows, the Continuum recognizes it. When they stagnate, the Continuum applies pressure. When they fracture, the Continuum waits to see what re-forms in the break.
 The System tracks eight dimensions of a soul's development, each called a Primary Stat, and beneath each of those, eight finer measurements called Sub-Stats. These numbers are not just mechanical data. They are the Continuum's honest accounting of who you actually are, not who you claim to be.
-Level is simply the count of how many times your Soul Crystal has meaningfully densified. It is not a measure of age. It is not a measure of training hours. It is the sediment of genuine contact with consequence, counted, compressed, and expressed as a number.
-The ceiling is 500 for everyone below Stage XV. Paragons exceed it, and the Codex does not number what they reach.
+Level is simply the count of how many times your Soul Crystal (the soul's inner crystal, where a practitioner's power is held and shaped) has meaningfully densified. It is not a measure of age. It is not a measure of training hours. It is the sediment of genuine contact with consequence, counted, compressed, and expressed as a number.
+The ceiling is 500 for everyone below Stage XV. Paragons (practitioners at Stages XV and XVI) exceed it, and the Codex does not number what they reach.
 
-### The Twenty-Two Parts
+### The Twenty-Four Parts
 
 The full system is split across child pages below, grouped by what a session actually needs to reach for.
 1. [[Fracture of Worlds — The Living System/I. Levels, Experience and Stat Points (Parts One–Three)|I. Levels, Experience and Stat Points]] — Parts One through Three. Bands, Temperance Gates, Resonant Accumulation, the point economy.
@@ -31,6 +31,8 @@ The full system is split across child pages below, grouped by what a session act
 1. [[Fracture of Worlds — The Living System/VI. The Sixteen Temperance Stages (Part Sixteen)|VI. The Sixteen Temperance Stages]] — Part Sixteen.
 1. [[Fracture of Worlds — The Living System/VII. Aether Class, Essence Typology, Aether Flow (Parts Seventeen–Nineteen)|VII. Aether Class, Essence Typology, Aether Flow]] — Parts Seventeen through Nineteen.
 1. [[Fracture of Worlds — The Living System/VIII. Traits, Soul Crystal Tiers, Domains (Parts Twenty–Twenty-Two)|VIII. Traits, Soul Crystal Tiers, Domains]] — Parts Twenty through Twenty-Two.
+1. [[Fracture of Worlds — The Living System/IX. The Essence Ledger (Part Twenty-Three)|IX. The Essence Ledger]], Part Twenty-Three. What an EU buys in joules, what a reserve costs to spend, and how fast it comes back.
+1. [[Fracture of Worlds — The Living System/X. The Tier Ladders (Part Twenty-Four)|X. The Tier Ladders]], Part Twenty-Four.
 
 ### The Short Version
 

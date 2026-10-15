@@ -79,7 +79,7 @@ verification: null
 
 **Travel Speed:** Sub-Relativistic on paper, at SSS-Grade Dominion-mediated displacement. **In practice he walks.** The Alabaster Court's staff have never seen him move faster than a considered pace and one deacon has publicly doubted he can
 **Reaction Time:** Entirely Essence-mediated at tier. His body is seventy-one and his Crystal is not, and the gap between the two is visible to anyone who has watched him fail to catch a dropped cup his Domain had already registered falling
-**Striking Force:** **4.184 × 10^13 to 4.184 × 10^14 Joules at full Ardency expression. 10 to 100 kilotons.** One recorded instance. See section XVII
+**Striking Force:** **2.42672 × 10^13 to 4.184 × 10^14 Joules at full Ardency expression. 5.8 to 100 kilotons.** One recorded instance. See section XVII
 **Lifting Strength:** Unremarkable. He needs help with the ceremonial cope and has stopped pretending otherwise
 
 ---

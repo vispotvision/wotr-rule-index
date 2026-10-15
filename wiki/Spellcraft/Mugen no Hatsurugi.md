@@ -64,7 +64,7 @@ A Moto's own work, shaped across a hundred and twenty days of instruction on the
 |---|---|---|
 | Induction time on a template | barrier nearly gone | effectively none |
 | Induction time without one | full barrier | unbounded |
-| SS-Grade output band | peak force; energy | 10 to 200 TN; 41.8 to 418 TJ |
+| SS-Grade output band | peak force; energy | 2 TN to 1 PN; 24.3 to 418 TJ |
 | Execution strike through a delivered blade | inside SS | 0.12 to 0.40 PJ |
 
 ### Metaphysics

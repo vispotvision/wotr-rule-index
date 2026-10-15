@@ -10,20 +10,20 @@ verification: "unverified"
 
 # Mechanica: Extraction Without Recognition
 
-> Every other practice in the register asks. This one takes, and the difference is not moral. It is structural, and the Continuum records it in the ground.
+> Every other practice in the register asks. This one takes, and the difference is not moral. It is structural, and the Continuum (the whole lawful order of reality) records it in the ground.
 
 ### I. What It Actually Is
 
 A lawful working imposes a boundary on a law that is already running, and the law does the work. The practitioner supplies the condition and pays for the privilege of setting it. **Mechanica skips the condition.**
-An operator does not invoke a Wellspring, because invoking one requires Authorization and Authorization is precisely what they do not have. They take **finished output from a system that already did the conditioning**, and route it. The law was conditioned by somebody else, or by a site, or by a thing that was alive at the time.
+An operator does not invoke a Wellspring (a standing current of natural law), because invoking one requires Authorization (the glyph role naming a lawful channel) and Authorization is precisely what they do not have. They take **finished output from a system that already did the conditioning**, and route it. The law was conditioned by somebody else, or by a site, or by a thing that was alive at the time.
 Which means Mechanica always has a donor. There is no such thing as an operator working alone, and every apparatus in the record has something on the other end of it.
 
 ### II. The Three Practices
 
-**Extraction.** Output taken from a Soul Crystal that is not the operator's. The donor may be captive, purchased, dead, or unaware. This is the oldest form and the one the Statutes were written against, and its products are the most efficient in the register because a Crystal has already done the expensive part.
+**Extraction.** Output taken from a Soul Crystal (the soul's organ that stores Essence and channels it outward) that is not the operator's. The donor may be captive, purchased, dead, or unaware. This is the oldest form and the one the Statutes were written against, and its products are the most efficient in the register because a Crystal has already done the expensive part.
 > *Soul Splicing, Trait Collapse Engines, and the whole vocabulary the Accord uses in its prohibition schedules describe extraction and nothing else, which is why the schedules read as hysterical to anyone who has only encountered the second and third practices.*
 **Tapping.** Output taken from a Wellspring site without the site's participation. A lawful practitioner at a concentration harmonises, which is a negotiation the current can decline. A tap does not ask. It opens a path from the vein into an apparatus and holds it open, and the site is drawn from without reciprocity until it stops giving.
-> *This is what produces a site running under Obsession Force. The corruption is not spiritual. It is a physical consequence of sustained withdrawal against a current that was never consulted, and the site's subsequent behaviour toward visitors is the behaviour of a system that has learned what people are for.*
+> *This is what produces a site running under Obsession Force (recognition curdled into taking). The corruption is not spiritual. It is a physical consequence of sustained withdrawal against a current that was never consulted, and the site's subsequent behaviour toward visitors is the behaviour of a system that has learned what people are for.*
 **Engine work.** Built apparatus that performs extraction or tapping without a practitioner present. The operator's skill is entirely in the construction, the device runs unattended, and this is the form that scales.
 > **Engine work is why Mechanica is an economic problem rather than a criminal one.** Extraction requires a monster. Tapping requires a monster with a workshop. **An engine requires a competent millwright, a licence he does not have, and a district that cannot afford lawful draw.**
 >
@@ -34,23 +34,23 @@ Which means Mechanica always has a donor. There is no such thing as an operator 
 The Four Glyph Roles are Authorization, Boundary, Direction and Sealing, and they are a sequence rather than a checklist. **A working that never established Authorization cannot execute a lawful Sealing**, because the Seal closes an operation against the warrant that opened it and there is no warrant to close against.
 So a Mechanica working does not end. It is interrupted, abandoned, or exhausted, and the boundary it opened stays open.
 **Mechanica debt** is the Continuum's record of that unclosed operation. It is not a punishment and nothing is watching. An unsealed boundary is a persistent local condition, the field around it never returns to its prior state, and every subsequent working in that area is conditioned by a boundary nobody set deliberately and nobody can find.
-> **Statute XXVI, Mechanica Irreversibility.** The one damage in the register with no documented remediation. Concordia can close a Hollowing over years. Nothing closes an unsealed boundary, because closing requires a warrant and the whole point was that there was never one.
+> **Statute XXVI, Mechanica Irreversibility.** The one damage in the register with no documented remediation. Concordia (the art of aligning many fields into one) can close a Hollowing (a region losing its capacity for lawful working) over years. Nothing closes an unsealed boundary, because closing requires a warrant and the whole point was that there was never one.
 
 ### IV. What It Costs the Operator
 
 **Nothing, directly, and that is the entire problem.**
-Every lawful practice bills the practitioner. Spellcraft bills the body in the same scene. Runecraft bills a season and a stone. Draftcraft bills provenance. Votia bills the rest of a life. Mechanica bills the donor, the site, or the district, and the operator walks away with output they did not pay for.
+Every lawful practice bills the practitioner. Spellcraft (working cast live from the body) bills the body in the same scene. Runecraft (working inscribed in material) bills a season and a stone. Draftcraft (working bottled as a Draft) bills provenance. Votia (working bought with a vow) bills the rest of a life. Mechanica bills the donor, the site, or the district, and the operator walks away with output they did not pay for.
 This is the honest reason the Accord's condemnation carries so little weight with the people who do it. **A doctrine that says power must cost is being preached by the institution that sets the prices**, and an operator heating a tenement off a tapped vein has a reply to that which nobody in the Division has ever answered in public.
-> **The delayed bill.** Operators are not exempt, they are merely not billed on delivery. Sustained work in an unsealed field produces a documented syndrome: **Shell clouding without corresponding output, Coherence falling with no change in conduct, and Traits that begin flickering in the absence of Essence Starvation.**
+> **The delayed bill.** Operators are not exempt, they are merely not billed on delivery. Sustained work in an unsealed field produces a documented syndrome: **Shell clouding (the soul's outer layer losing clarity) without corresponding output, Coherence (how closely a person's chosen path matches how they live) falling with no change in conduct, and Traits that begin flickering in the absence of Essence Starvation (running below a tenth of reserve).**
 >
 > *The Crystal is being conditioned by boundaries it did not set. The operator's own architecture starts obeying the mess they are standing in.* **Renderers can identify a long-term engine man on the table by the state of the Shell alone, and several of them will not say so on a record.**
 
 ### V. Reading a Site That Has Been Worked
 
 **Residue that does not disperse.** Ordinary Aetheric Residue thins on a schedule set by local density, toward a floor it never passes. Mechanica residue holds undiminished, because the operation that produced it never closed and is in some sense still producing it.
-**Draw that does not answer.** A lawful practitioner at a tapped site finds Harmonics costs elevated for no visible reason. They are working against a gradient somebody else established and left running.
+**Draw that does not answer.** A lawful practitioner at a tapped site finds Harmonics (the stat that governs drawing Aether from the ground) costs elevated for no visible reason. They are working against a gradient somebody else established and left running.
 **The wrong quiet.** A worked site does not read as dead ground, which would be honest. It reads as ordinary ground with one thing missing, and most surveyors identify the absence about a minute after they should have.
-**Instruments disagree.** The coil reads a field; the gauge reads a density; the two do not reconcile, and the discrepancy is the size of what is being taken. **This is the only reliable detection method and it requires two instruments and someone who can be bothered to compare them.**
+**Instruments disagree.** The coil (the assay instrument a practitioner stands inside) reads a field; the gauge reads a density; the two do not reconcile, and the discrepancy is the size of what is being taken. **This is the only reliable detection method and it requires two instruments and someone who can be bothered to compare them.**
 
 ### VI. Enforcement, and Why It Fails
 

@@ -76,7 +76,7 @@ An anonymous Codex technique: no named practitioner, era, or originating problem
 **Glyph** · Lock, a Counter form, occupies the limit so no other can be set there; Order files the physical half.
 **Boundary** · The height of the barrier out of the target's present state, raised by about 83 kJ/mol; every law in the target keeps running beyond it.
 **Effect** · A word, Esto, and a closing fist; then the target's next movement is simply unavailable, with no pressure or grip anywhere. Pain stops worsening, bleeding stops without clotting, grey creeps in at the edges of sight.
-**Hardening** · The held body is truly hardened and resists damage up to the working's full C-Grade rating, 0.1 to 0.3 GN or 20.92 MJ to 1.046 GJ; a held ally is shielded, a held enemy shrugs off blows.
+**Hardening** · The held body is truly hardened and resists damage up to the working's full C-Grade rating, 0.1 to 1 GN or 20.92 MJ to 1.046 GJ; a held ally is shielded, a held enemy shrugs off blows.
 **Workings** · An active working under the Sigillum goes quiet, finished rather than drained; its parameters cannot be altered or dispelled for the span, not even by its own author.
 **Release** · At second nine everything resumes where it was, bleed included; the wound is exactly as old as it was.
 **Failure** · Irreversibility, a few tens of kJ/mol away at every casting and invisible; and brittle fracture at the anchor under shear or torsion, a cured network's own fault. Both are faults of Structure.

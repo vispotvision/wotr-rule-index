@@ -13,13 +13,13 @@ verification: "unverified"
 *A Reader's Grammar of the Written Tongues · compiled for the Guild Accord Division of Alchemetrica*
 > **Fourteen hands · one lattice · one root**
 > *"There is one script. There have always been fourteen ways to be wrong about that."*
-> — attributed to a Measurewright of the Vaulted Ring, name struck from the record
+> — attributed to a Measurewright (a certified assessor of practitioners and workings) of the Vaulted Ring, name struck from the record
 
 ---
 
 ## The Root and the Six Drivers
 
-**Nothing in this record is a separate invention.** Every hand traces the same Parun path across the same lattice, **and every difference between them is the residue of a decision that was never about writing at all.**
+**Nothing in this record is a separate invention.** Every hand traces the same Parun (the root script of law that reality reads) path across the same lattice (the fixed grid every glyph is traced on), **and every difference between them is the residue of a decision that was never about writing at all.**
 | Driver | What it does to the hand |
 |---|---|
 | **The tool** | A chisel makes straight segments. **A punch makes points and no line at all.** A knife on a stave cuts with the grain or splits it. A reed on wet bark cannot be lifted. *Three of these produce scripts a scholar would not guess were related* |
@@ -34,7 +34,7 @@ verification: "unverified"
 ## What a Hand Changes and What It Does Not
 
 *The question every apprentice asks in the second week, answered badly by most instructors.*
-A glyph creates nothing. **The Wellspring's law was already running, and the glyph is a boundary condition imposed on it.** The boundary is set by the traced path, and the path is the same path in all fourteen hands, because all fourteen trace one lattice.
+A glyph creates nothing. **The Wellspring (a standing current of natural law in the Aether)'s law was already running, and the glyph is a boundary condition imposed on it.** The boundary is set by the traced path, and the path is the same path in all fourteen hands, because all fourteen trace one lattice.
 **So a hand does not change the working.** A ward cut in Old High Runic and the same ward struck in Old Vaross impose the same condition on the same law and produce the same effect. This is why the Accord can enforce a writ across eleven hundred leagues and why a Chancery notary and a Barrel Dawi cooper are arguing about the same instrument even when neither can read the other's page.
 **What a hand changes is everything around the working.**
 | What the hand decides | Why |
@@ -45,7 +45,7 @@ A glyph creates nothing. **The Wellspring's law was already running, and the gly
 | **Whether it can be validated at all** | Cold Parunic engineers ambiguity out so that two readers cannot set two boundaries from one page. Sylvaaric refuses the question. **Both positions are coherent and they cannot share a treaty** |
 | **Whether it survives its own author** | Skin-Records grow. The nested scales exist because a boundary written on something that changes size stops describing the same limit within a decade |
 
-> **Gravetongue is the exception that proves the rule, and it is not a hand at all.** Every other entry here is Runecraft: a boundary committed to substrate. Gravetongue carries its condition in a physical resonance produced by a body that knows what it is made from, **which makes it Chantcraft with no notation** and explains the inert transcriptions completely.
+> **Gravetongue is the exception that proves the rule, and it is not a hand at all.** Every other entry here is Runecraft: a boundary committed to substrate. Gravetongue carries its condition in a physical resonance produced by a body that knows what it is made from, **which makes it Chantcraft (working carried by the voice) with no notation** and explains the inert transcriptions completely.
 >
 > *A written Gravetongue phrase produces nothing because the writing was never where the boundary lived. The Crimson Order's pulse-code works for the same reason: they kept the resonance and discarded the part that was never load-bearing.*
 
@@ -54,7 +54,7 @@ A glyph creates nothing. **The Wellspring's law was already running, and the gly
 ## Parun
 
 *The Lawful Root*
-**Not a language in the sense that a mother sings to a child in it.** It is the grammar the Continuum reads, **and it has no register below the legal one.**
+**Not a language in the sense that a mother sings to a child in it.** It is the grammar the Continuum (the whole lawful order of reality) reads, **and it has no register below the legal one.**
 A Parun sentence names who is speaking, what ground the speech covers, which way the working runs, and how it is to end — **and it does this whether it is chalked on a barn door or held internally by an Archmagus who has not moved his hands.**
 > **Every hand that follows is Parun with one thing done to it.** Change the tool, change the surface, change what the writing is for, **and the same traced path comes out the other side unrecognisable to anyone but a scholar.**
 >
@@ -88,7 +88,7 @@ A Parun sentence names who is speaking, what ground the speech covers, which way
 **Everything else in this record is a stroke laid on a surface. Mirror-Sign is the surface laid around a stroke that was never made.** The field is worked and the path is left bare, so what a reader follows is **the absence** — and the absence produces no Aetheric signature **because nothing was ever inscribed to produce one.**
 > This is why no ward in the world detects Deepkin correspondence **and why no Concord inspector has ever successfully audited a Deepkin holding.**
 > *The High Dawi call it a broken geometry. The Deepkin have not published a reply, and the Mirror-Sign record of their position has never been translated for anyone outside the lineage.*
-**Legibility** · Read by fingertip and by reflection. **Undetectable to Harmonics.**
+**Legibility** · Read by fingertip and by reflection. **Undetectable to Harmonics (the trained sense that reads Aether in the field).**
 
 ### Old Vaross
 
@@ -126,7 +126,7 @@ A Parun sentence names who is speaking, what ground the speech covers, which way
 
 *Eressean · the binding hand* · **plate 08 available**
 **The rail is drawn first.** One unbroken horizontal stroke across the whole line, **and every glyph after it hangs beneath that stroke rather than standing on a baseline.**
-> **The rail is the Authorization clause for the entire sentence** — which is why nothing written under a broken rail carries force, **and why an Eressean scribe who lifts the pen mid-rail begins the page again.**
+> **The rail is the Authorization clause (the part of a working that names its lawful channel) for the entire sentence** — which is why nothing written under a broken rail carries force, **and why an Eressean scribe who lifts the pen mid-rail begins the page again.**
 The hand of law and consecration **and nothing else.** Ordinary correspondence uses a plain unrailed cursive **that no one bothers to name.**
 > *A private letter written in Songscript is either a legal instrument or a threat, and the recipient is expected to know which before opening it.*
 **Legibility** · Read by every educated elf. **Written only under licence.**
@@ -159,7 +159,7 @@ Quantises the Parun path onto **a fixed grid of cells.** Every glyph occupies th
 ### Skin-Records
 
 *Fleshshaper · the growing hand*
-**A glyph cut into living tissue does not stay the size it was cut.** The body grows, the scar migrates, **and within a decade a single-scale inscription has stretched past legibility.**
+**A glyph cut into living tissue does not stay the size it was cut.** The body grows, the scar migrates, **and within a decade a single-scale inscription has stretched past legibility.** Most of what a Fleshshaper cuts is record and carries no working; a cut that sets a live boundary in the flesh is a rare and dangerous high art, and its failures are buried quietly.
 The answer is to cut the same glyph **three times, nested inside itself at diminishing scale** — so that when the outer form has distorted the middle one is still readable **and the innermost has not begun to move.**
 > **An elder's back is a stack of decades that can be read downward through the scales**, and a Fleshshaper reading another Fleshshaper **is reading age directly off the ratio between the rings.**
 >
@@ -209,7 +209,7 @@ The answer is to cut the same glyph **three times, nested inside itself at dimin
 
 ---
 
-> **Load-bearing cross-reference.** The Long Reading holds that the Moto ancestral seat's own name is recorded **in a glyph the Continuum cannot classify — one of these thirty.** *It is the oldest proper noun in the project and it is deliberately blank.*
+> **Load-bearing cross-reference.** The Long Reading holds that the Moto ancestral seat's own name is recorded **in a glyph the Continuum cannot classify, one of the thirty unclassified forms in the Master Glyph Index.** *It is the oldest proper noun in the record and it is deliberately blank.*
 - [[The Descent of Parun — The Fourteen Hands/The Counted Speech — A Speaker's Grammar of Parun]]
 
 ---

@@ -16,17 +16,17 @@ verification: "unverified"
 
 #### What Traits Are
 
-A Trait is the crystallized law of a soul, the moment emotion, conviction and Temperance align so completely that the Continuum begins responding to that belief as a rule. A Trait is not learned. It awakens when lived experience hardens into metaphysical truth, when the Crystal's three layers stop merely holding a belief and begin running on it.
+A Trait is the crystallized law of a soul, the moment emotion, conviction and Temperance (the soul's refinement, climbed in sixteen Stages) align so completely that the Continuum (the whole fabric of reality) begins responding to that belief as a rule. A Trait is not learned. It awakens when lived experience hardens into metaphysical truth, when the three layers of the Crystal (the Soul Crystal, the soul's organ of power) stop merely holding a belief and begin running on it.
 Every Trait forms when four harmonics fall into coherence: the **Essence Core** (the emotional truth), the **Attraction Layer** (the pattern of recognition bending toward that truth), the **Aether Shell** (the behaviour of force born from that belief), and the **Temperance Field** (the refinement keeping the belief from collapsing under strain).
 
 #### The Four Reflections
 
-**Primary Trait, the Innate Reflection.** Formed from soul Typology, origin and first Temperance imprint. Instinct, disposition, natural affinity. A modest but constant boost in the aligned facet. Primary Traits answer what your soul does even before it tries.
-**Secondary Trait, the Tempered Reflection.** Forged through trauma, revelation, sustained Wellspring exposure, or a decisive moral or existential choice. Often conditional, activating under emotional or situational pressure. Strong boost while active, balanced by fatigue or emotional cost. Scar-tissue turned into weapon or shield.
-**Inherited Trait, the Lineage Reflection.** Carried through bloodline, ancestral resonance, reincarnational echo, or pacts maintained across generations. Manifests as blessing, mutation, curse, or latent technique. Widely variable depending on lineage purity, Domain alignment and Wellspring compatibility. History refusing to stay in the past.
+**Primary Trait, the Innate Reflection.** Formed from soul Typology (the soul's natural bias toward one of eight elemental Families), origin and first Temperance imprint. Instinct, disposition, natural affinity. A modest but constant boost in the aligned facet. Primary Traits answer what your soul does even before it tries.
+**Secondary Trait, the Tempered Reflection.** Forged through trauma, revelation, sustained Wellspring (a natural source of magical current) exposure, or a decisive moral or existential choice. Often conditional, activating under emotional or situational pressure. Strong boost while active, balanced by fatigue or emotional cost. Scar-tissue turned into weapon or shield.
+**Inherited Trait, the Lineage Reflection.** Carried through bloodline, ancestral resonance, reincarnational echo, or pacts maintained across generations. Manifests as blessing, mutation, curse, or latent technique. Widely variable depending on lineage purity, Domain (a space where a soul's inner law becomes local reality) alignment and Wellspring compatibility. History refusing to stay in the past.
 **Passive Trait, the Resonant Reflection.** Stabilized over time through long-term emotional patterns, continuous Essence exposure, or deep habit etched into the Crystal. Always active. Shapes aura, posture, presence and ambient effects. Low to moderate but constant impact with little conscious cost. The atmosphere your soul carries wherever it goes.
 **Compound Traits** — fusions of two or more Reflections into a single law. Often catalytic, risky or anomalous.
-**Higher-Imprint Traits** — marked by Archons, Titans or World Spirit Realms. Exceed normal scaling and behave more like miniaturized Principles than personal talents.
+**Higher-Imprint Traits** — marked by Archons (the world's fourteen great powers), Titans or World Spirit Realms. Exceed normal scaling and behave more like miniaturized Principles than personal talents.
 
 #### Formation Process
 
@@ -63,7 +63,7 @@ Traits awaken during Resonance Events.
 ### Part Twenty-One — Soul Crystal Developmental Tiers
 
 *"To refine the soul is not to polish it. It is to remove everything that was never truly part of the design."*
-The Crystal evolves through Developmental Tiers representing the synthesis of all three layers at once. These correlate with but are **not identical to** Temperance Stages or Aether Classes. A Crystal can run ahead of or behind its Shell or Core, and the gap is itself diagnostic. A pure alchemist works on a Crystal that never woke and reads Dormant on the table below; the Tier of Standing such an alchemist holds, up to Five, is certified at the bench and never read off the Crystal.
+The Crystal evolves through Developmental Tiers representing the synthesis of all three layers at once. These correlate with but are **not identical to** Temperance Stages or Aether Classes (grades of how cleanly the soul passes power outward). A Crystal can run ahead of or behind its Shell or Core, and the gap is itself diagnostic. A pure alchemist works on a Crystal that never woke and reads Dormant on the table below; the Tier of Standing (one of nine broad ranks grouping the sixteen Stages) such an alchemist holds, up to Five, is certified at the bench and never read off the Crystal.
 | Tier | Description | Corresponds to |
 |---|---|---|
 | **Dormant** | Sealed and silent. The Crystal exists but does not yet function as a metaphysical organ. | Class Ø, pre-Initiate |
@@ -87,8 +87,8 @@ The Crystal evolves through Developmental Tiers representing the synthesis of al
 
 #### What a Domain Is
 
-A Domain is a space where a character's inner law becomes local reality: the moment the Attraction Layer claims territory on the Plane of Fate and that claim reflects downward into physical and spiritual law. Inside a Domain, the character's doctrine outranks ambient physics for as long as it is sustained.
-Domains are not techniques. They are consequences of sufficient Temperance, Dominion development and Aether Class clarity. A character does not choose to deploy a Domain the way they choose to throw a punch. A Domain forms because the character's soul has become heavy enough to dent reality, and reality has stopped resisting the dent.
+A Domain is a space where a character's inner law becomes local reality: the moment the Attraction Layer claims territory on the Plane of Fate (the deepest layer of existence, where all possibility rests) and that claim reflects downward into physical and spiritual law. Inside a Domain, the character's doctrine outranks ambient physics for as long as it is sustained.
+Domains are not techniques. They are consequences of sufficient Temperance, Dominion (the stat for presence and pressure on others) development and Aether Class clarity. A character does not choose to deploy a Domain the way they choose to throw a punch. A Domain forms because the character's soul has become heavy enough to dent reality, and reality has stopped resisting the dent.
 
 #### Domain Formation Timeline
 

@@ -62,7 +62,7 @@ verification: null
 > *Two practitioners standing in the same room draw from the same ocean and produce entirely different water.*
 **Aetheric Density** · How much medium is present. **It sets the ceiling on the output rate you can achieve in that location** — *which is why battles are fought over ground and not only over people.*
 **Aetheric Residue** · The trace a working leaves. **Permanent, often subtle, always readable by someone patient enough.** *It thins on a schedule the ground sets, toward a floor it never passes.*
-**Aetheric Saturation** · The danger state where Essence floods faster than it disperses. *It produces Crystal Fracture Events in everyone exposed, including the person who caused it.*
+**Aetheric Saturation** · The danger state where Essence released by workings floods an area faster than it disperses. *It produces Crystal Fracture Events in everyone exposed, including the person who caused it.*
 **Essence Signature** · **You cannot forge one and you cannot fully hide one. Only muddy it.**
 | Layer | Function | Failure mode |
 |---|---|---|

@@ -55,7 +55,7 @@ An anonymous Codex technique: no named practitioner, era, or originating problem
 |---|---|---|
 | Range | line of sight, two masses | 30 m |
 | Coupling at double the range | (1/2)³ | one eighth |
-| Transit at B-Grade travel speed, 510 to 1,372 m/s | 30 m ÷ v | 21.9 to 58.8 ms |
+| Transit at B-Grade travel speed, 514.5 to 1,715 m/s | 30 m ÷ v | 17.5 to 58.3 ms |
 | Speed of 80 kg carrying the whole B band as motion | v = √(2E/m) | 5,114 to 33,912 m/s |
 | Transit at that speed | 30 m ÷ v | 0.88 to 5.9 ms |
 | Reflexes that resolve it | C 5 to 15 ms, B 1 to 5 ms, A 0.2 to 1 ms | streak or jump by watcher |

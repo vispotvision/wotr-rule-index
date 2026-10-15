@@ -10,11 +10,11 @@ verification: "unverified"
 
 # IX. The Essence Ledger (Part Twenty-Three)
 
-> Four quantities run through every practitioner in the Continuum: a reserve in EU, a compression in EU/g, an output rate in AU/s, an efficiency η. The Grade ladder measures destruction in joules. This Part is the join. **One Essence Unit is one megajoule.** What follows is what that buys on the ladder, what a reserve costs to spend, how long it lasts at full output, how fast it comes back, and what can be done about all of it from the other side of a fight.
+> Four quantities run through every practitioner in the Continuum (the whole fabric of reality): a reserve in EU, a compression in EU/g, an output rate in AU/s, an efficiency η. The Grade ladder measures destruction in joules. This Part is the join. **One Essence Unit is one megajoule.** What follows is what that buys on the ladder, what a reserve costs to spend, how long it lasts at full output, how fast it comes back, and what can be done about all of it from the other side of a fight.
 
 #### The four quantities, and the fifth
 
-**EU (Essence Units)** is the raw reserve: the total volume of usable Essence stored in the Crystal at any moment. It scales with Temperance Stage and is governed primarily by **Tempering Yield**. Maximum EU is the structural ceiling the Crystal refills to. Operating below **ten percent EU** produces Essence Starvation: reduced stat expression, Shell degradation, Trait flickering.
+**EU (Essence Units)** is the raw reserve: the total volume of usable Essence stored in the Crystal (the Soul Crystal, the soul's organ of power) at any moment. It scales with Temperance Stage (one of sixteen rungs of the soul's refinement) and is governed primarily by **Tempering Yield**. Maximum EU is the structural ceiling the Crystal refills to. Operating below **ten percent EU** produces Essence Starvation: reduced stat expression, Shell (the soul's outer layer, which passes power out into the world) degradation, Trait (a belief hardened into a personal law of the soul) flickering.
 **Flux Density (EU/g)** is the compression ratio, how much Essence is packed per unit of Crystal mass. Higher means greater output from the same reserve. It is governed by **Tempering Clarity** and **Ardency Compression**, and it is what separates a practitioner who burns through their reserve in three techniques from one who fights for an hour on the same pool.
 **AU/s (Aether Units per second)** is the output rate, how much Essence converts into active expression per second of sustained operation. It is governed by **Ardency Flux**, **Ardency Alacrity** and **Tempering Yield**, and it follows the formula **AU/s = Flux Density × η**.
 **Eta (η), Efficiency** is the ratio of Essence spent to Essence that arrives as intended effect. At η 0.50, half of every expenditure is wasted as heat, noise and structural bleed. At η 0.90, ninety percent converts to clean output. It is the single most important variable in sustained combat, because it determines how long the reserve lasts under continuous output. It is governed by **Aether Class**, **Tempering Clarity** and **Ardency Compression**.
@@ -22,7 +22,7 @@ verification: "unverified"
 **The direction of the conversion.** EU is *potential* and AU is *actual*: what the Crystal holds against what leaves it. One AU is one EU crossing the Shell. The two are never the same number in practice, because one is the store, one is the flow, and η is the loss across the boundary between them.
 > **The Aristotelian reading, in-world.** The Collegium tradition that descends from the old faculty of Causes reads the Ledger as the doctrine of *potency and act*: EU is what a Crystal is able to become, AU is what it has become, η is the fraction of the becoming that arrives. Their term for Essence Starvation is *the exhausted potency*, and their objection to the whole Aether-Flow apparatus is that it measures the act and infers the potency, which they hold is backwards. **They are a school, not a mechanic.** The numbers below are what happens; the Causes faculty is one of several arguments about what the numbers mean, carried the way the Four Theories of Part Fifteen are carried.
 
-#### The constant: what one EU is worth
+### The constant: what one EU is worth
 
 #### The constant
 
@@ -51,7 +51,7 @@ Run the chain forwards from the cost, never backwards from a description. The EU
 
 #### The spine: joules → Grade → a tier from one to nine
 
-Every ladder of the setting (beasts, draughts, artifacts, summons, Domains, Wellspring sites, weapons and armour) hangs on one spine, and the spine is already present twice over. Part Four gives each Grade a joule band. Part Five gives each Stage a Max Grade and a Tier of Standing. Read the Max Grade column backwards and the thirteen Grades fall into the nine Tiers.
+Every ladder in the Continuum (beasts, draughts, artifacts, summons, Domains (a space where a soul's inner law becomes local reality), Wellspring (a natural source of magical current) sites, weapons and armour) hangs on one spine, and the spine is already present twice over. Part Four gives each Grade a joule band. Part Five gives each Stage a Max Grade and a Tier of Standing (one of nine broad ranks grouping the sixteen Stages). Read the Max Grade column backwards and the thirteen Grades fall into the nine Tiers.
 **The nine rungs.** A Grade sits at the lowest Tier of Standing whose Stages can reach it.
 | Tier | Grade(s) | first Stage that reaches it | peak output, joules | tons TNT | EU that buys the ceiling |
 |---|---|---|---|---|---|
@@ -66,23 +66,23 @@ Every ladder of the setting (beasts, draughts, artifacts, summons, Domains, Well
 | **Paragon** | EX+ | XV Revelation | 6.906 × 10³⁷ and above | 16.5 Rt and above | no ceiling |
 
 **How to use it.** Take the thing's *peak output in joules*: a beast's hardest blow, a draught's released energy, an artifact's discharge, a summon's call cost read through η, a Domain's held energy. Find the row. That row's number is the thing's tier on every ladder. **Each ladder then adds its own modifiers**: a beast that is hard to kill rather than hard to be hit by, a draught that works slowly, an artifact that only fires once.
-The lowest rungs are bought in fractions of a unit. A Initiate Initiate's whole ceiling, the top of Hollow, F and E together at 15 kJ, costs **0.015 EU**; the smallest reserve a practitioner carries pays for tens of thousands of them. The Ledger counts reserves in whole EU and the bottom of the Grade ladder in thousandths of one, and both are correct.
-**The one carve-out in the spine.** The Part Four Grade table stands exactly as written, and an attack output between 2.42672 × 10¹³ and 4.184 × 10¹³ J, 24.3 to 41.8 TJ, is ranked by the Sub-Stat column, not by joules. Between S's ceiling and SS's floor the joule column does not rank; a thing whose peak output lands there is placed by its Sub-Stat value against Part Four's 401–550 (S) / 551–725 (SS) column. Both S and SS sit in **Master**, so **the carve-out moves the Grade, never the rung**. A ladder with Grade-sensitive modifiers reads the Sub-Stat; a ladder that only needs the tier reads Master either way. The large practitioner's cheapest construct lands in this band (see “Worked, at three scales”).
+The lowest rungs are bought in fractions of a unit. An Initiate's whole ceiling, the top of Hollow, F and E together at 15 kJ, costs **0.015 EU**; the smallest reserve a practitioner carries pays for more than a hundred thousand of them. The Ledger counts reserves in whole EU and the bottom of the Grade ladder in thousandths of one, and both are correct.
+**The spine runs without a break.** The Part Four joule bands meet edge to edge: S ends at 2.42672 × 10¹³ J, 5.8 kilotons, and SS begins there, so every peak output in joules has exactly one Grade. Both S and SS sit in **Master**.
 
-#### Reserve bands by Stage and by Tier of Standing
+### Reserve bands by Stage and by Tier of Standing
 
 #### The law of reserves
 
-A reserve is set by **Level** and capped by **Stage**. Level sets it along a log-linear law; the Band gates, which a Stage must pass before its Level can climb, cap it.
+A reserve is set by **Level** and capped by **Stage**. Level sets it along a log-linear law; the Band (a span of a hundred Levels) gates, which a Stage must pass before its Level can climb, cap it.
 The law runs through three fixed reference points: a Stage VIII Master at Level 250 with 4,200,000 EU, a Stage XII Grandmaster at Level 378 with 180,000,000 EU, and a Stage XII Grandmaster at Level 430 with 850,000,000 EU. Between the first two the slope is **0.012750 decades per Level**; between the second two it is **0.012964**. The two segments agree to 1.7 percent, and across the whole span:
-**log₁₀ EU = 3.4202 + 0.012812 × Level.** A reserve multiplies by ten every 78.1 Levels, and by about 26 across each hundred-Level Band.
-A Stage X Realization practitioner at Level 355, Band IV, holds 90,000,000 EU, and that reserve is set by this law.
-> **The Pythagorean reading, in-world.** The Measurewrights' old Harmonic faculty never accepted the Level axis and reads the same regularity as a ratio: each Band multiplies the reserve by a fixed interval, so the five Bands are five octaves of one string and the Crystal is a monochord being stopped shorter. They tune reserve gauges to intervals rather than to numbers and they are, in practice, no worse at it. **A school, not a mechanic.** The gauge reads what the arithmetic above says it reads, and the Harmonic faculty's error is in what they think it proves.
+**log₁₀ EU = 3.4202 + 0.012812 × Level.** A reserve multiplies by ten every 78.1 Levels, and by about 19 across each hundred-Level Band.
+A Stage X Realization practitioner at Level 355, Band IV, holds 90,000,000 EU, within four percent of the 93,000,000 this law gives at that Level.
+> **The Pythagorean reading, in-world.** The Measurewrights' (the assayers who measure souls and workings) old Harmonic faculty never accepted the Level axis and reads the same regularity as a ratio: each Band multiplies the reserve by a fixed interval, so the five Bands are five octaves of one string and the Crystal is a monochord being stopped shorter. They tune reserve gauges to intervals rather than to numbers and they are, in practice, no worse at it. **A school, not a mechanic.** The gauge reads what the arithmetic above says it reads, and the Harmonic faculty's error is in what they think it proves.
 
 #### The bands
 
 Two things bind a Stage's reserve, and they are different in kind.
-**The gate ceiling, which is hard.** Part One sets four gates and states them as absolutes: no character can breach a Band ceiling without first passing the Temperance Threshold that cluster demands, and the System halts the level counter and builds Residual Strain until the Threshold is passed or the character fractures. Stage IV must be reached before Level 100 can be surpassed, Stage VII before Level 200, Stage X before Level 300, Stage XII before Level 400. Read the other way round: a Stage III practitioner cannot be above Level 100, a Stage VI cannot be above 200, a Stage IX cannot be above 300, a Stage XI cannot be above 400. Through the law of reserves that is a **hard ceiling on the reserve**.
+**The gate ceiling, which is hard.** Part One sets four gates and states them as absolutes: no character can breach a Band ceiling without first passing the Temperance Threshold (the breakthrough that opens the next Stage) that cluster demands, and the System halts the level counter and builds Residual Strain (pressure that keeps arriving after the counter halts) until the Threshold is passed or the character fractures. Stage IV must be reached before Level 100 can be surpassed, Stage VII before Level 200, Stage X before Level 300, Stage XII before Level 400. Read the other way round: a Stage III practitioner cannot be above Level 100, a Stage VI cannot be above 200, a Stage IX cannot be above 300, a Stage XI cannot be above 400. Through the law of reserves that is a **hard ceiling on the reserve**.
 **The cluster band, which is typical.** Each Band has its Temperance cluster: Band I (Levels 1–100) is Stages I–IV, Band II (101–200) Stages V–VII, Band III (201–300) VIII–X, Band IV (301–400) XI–XII, Band V (401–500) XIII–XIV. That is where a Stage's practitioners usually sit, not where they must, and it gives the working range.
 | Tier | Stage | cluster Levels | **working band, EU** | gate Level | **ceiling, EU** |
 |---|---|---|---|---|---|
@@ -110,9 +110,9 @@ Rolled up to the nine Tiers of Standing:
 | Apprentice | II | 2,710 – 50,300 | 50,300 |
 | Journeyman | III | 2,710 – 50,300 | 50,300 |
 | Adept | IV | 2,710 – 50,300 | 961,000 |
-| Expert | V–VII | 51,800 – 1.84 × 10⁷ | 1.84 × 10⁷ |
-| Master | VIII–X | 9.90 × 10⁵ – 3.51 × 10⁸ | 3.51 × 10⁸ |
-| Grandmaster | XI–XII | 1.89 × 10⁷ – 6.70 × 10⁹ | 6.70 × 10⁹ |
+| Expert | V–VII | 51,800 – 961,000 | 1.84 × 10⁷ |
+| Master | VIII–X | 9.90 × 10⁵ – 1.84 × 10⁷ | 3.51 × 10⁸ |
+| Grandmaster | XI–XII | 1.89 × 10⁷ – 3.51 × 10⁸ | 6.70 × 10⁹ |
 | Archmaster | XIII–XIV | 3.61 × 10⁸ – 6.70 × 10⁹ | 6.70 × 10⁹ |
 | Paragon | XV–XVI | above 6.70 × 10⁹ | none |
 
@@ -141,7 +141,7 @@ Illustrative reserves, one for each way a reserve can stand against its Stage's 
 **Stage VIII at Level 380.** Stage VIII cannot pass Level 300 without the Stage X Threshold. Such a practitioner stands in Band IV, approaching the Band V threshold, at Transcendence.
 **4.8 × 10¹⁴ EU at Stage XII,** 4.85 decades past any Level the gates allow and 6.14 past the working band. On its own that reserve makes Stage XII span nearly ten orders of magnitude. At 1 MJ it is **4.8 × 10²⁰ J, 480 exajoules, 115 gigatons of TNT**, which lands inside SSS on the spine in “The spine: joules → Grade → a tier from one to nine”, Grandmaster's own Grade. **The whole reserve is one Grandmaster attack.** A reserve of that size is not burned; it is stored, like a cistern.
 
-#### AU/s as power: how long the output holds
+### AU/s as power: how long the output holds
 
 #### The drain
 
@@ -159,7 +159,7 @@ The drain times are a property of the two figures a practitioner carries, reserv
 
 #### Worked, at three scales
 
-**Small: a small practitioner, Stage IV, Adept Adept.** Reserve 3,100 EU, Flux Density 290 EU/g, output 258.1 AU/s, η 0.89.
+**Small: a small practitioner, Stage IV, Adept.** Reserve 3,100 EU, Flux Density 290 EU/g, output 258.1 AU/s, η 0.89.
 | Quantity | Working | Result |
 |---|---|---|
 | Reserve | 3,100 EU × 1 MJ | 3.10 GJ potential, 2.76 GJ deliverable |
@@ -175,8 +175,8 @@ Three of the small practitioner's workings:
 | a sealing working | 260 | 260 MJ | 231 MJ | **C** | 8.4% |
 | a broadcast suppression | 390 | 390 MJ | 347 MJ | **C** | 12.6% |
 
-Seven full broadcast suppressions and the practitioner is in Starvation (0.9 × 3,100 ÷ 390 = 7.15). Nineteen light readings. That is a scene's worth of decisions, and it is the number a player on that side of the table needs. The Stage is IV, whose Max Grade is B, so every one of the three sits inside the ceiling.
-**Middle: a middle practitioner, Stage XIII, Archmaster Archmaster.** Reserve 92,000 EU, output 3,900 AU/s external, internal cycling immeasurable, η 0.99. The practitioner's strike branches cost 2,800 to 8,900 EU each, and the apex strike costs 7,400.
+Seven full broadcast suppressions and the practitioner is in Starvation (0.9 × 3,100 ÷ 390 = 7.15). Nineteen light readings. That is a scene's worth of decisions, and it is the number anyone across the fight from them needs. The Stage is IV, whose Max Grade is B, so every one of the three sits inside the ceiling.
+**Middle: a middle practitioner, Stage XIII, Archmaster.** Reserve 92,000 EU, output 3,900 AU/s external, internal cycling immeasurable, η 0.99. The practitioner's strike branches cost 2,800 to 8,900 EU each, and the apex strike costs 7,400.
 | Quantity | Working | Result |
 |---|---|---|
 | Reserve | 92,000 EU × 1 MJ | 92.0 GJ potential, 91.1 GJ deliverable |
@@ -188,7 +188,7 @@ Seven full broadcast suppressions and the practitioner is in Starvation (0.9 × 
 | Strikes held | 92,000 ÷ 7,400 | 12.4 from full, 11.2 before Starvation |
 
 **Twelve apex strikes from a full reserve.** The ratio of a reserve to a cost is the fightable figure, and a scene runs on it.
-**Large: a large practitioner, Stage XII, Grandmaster Grandmaster.** Reserve 850,000,000 EU, Flux Density 1,800,000 EU/g, output 1,566,000 AU/s, η 0.87.
+**Large: a large practitioner, Stage XII, Grandmaster.** Reserve 850,000,000 EU, Flux Density 1,800,000 EU/g, output 1,566,000 AU/s, η 0.87.
 | Quantity | Working | Result |
 |---|---|---|
 | Reserve | 8.5 × 10⁸ EU × 1 MJ | 850 TJ potential, 740 TJ deliverable |
@@ -197,9 +197,9 @@ Seven full broadcast suppressions and the practitioner is in Starvation (0.9 × 
 | Time to Starvation | 0.9 × 542.8 | 488.5 s (8 min 8 s, eighty-one turns) |
 | Waste | 0.13 × 1.57 TW | 204 GW |
 
-The large practitioner is a summoner, and each construct costs 5 to 15 percent of the reserve, roughly 42.5 to 127.5 million EU: **42.5–127.5 TJ potential, 37.0–110.9 TJ delivered.** And here the spine's one carve-out bites:
+The large practitioner is a summoner, and each construct costs 5 to 15 percent of the reserve, roughly 42.5 to 127.5 million EU: **42.5–127.5 TJ potential, 37.0–110.9 TJ delivered.** Both ends land in the same Grade:
 - the **dear** construct, 110.9 TJ, is **SS, Master**, one rung below the summoner's own Grandmaster.
-- the **cheap** construct, **37.0 TJ, lands inside the carve-out**, above S's ceiling of 2.42672 × 10¹³ J and below SS's floor of 4.184 × 10¹³ J. It is not graded off the joule column at all: it is graded off the summoner's Sub-Stat value against Part Four's 401–550 (S) / 551–725 (SS) column. Either way it is Master, because S and SS share a Tier.
+- the **cheap** construct, **37.0 TJ**, 8.84 kilotons, is **SS, Master** as well, above S's ceiling of 2.42672 × 10¹³ J.
 **Six constructs at the dear end, eighteen at the cheap end, before Starvation.** A summoner who calls six heavy constructs has spent the afternoon.
 
 #### The clock across the ladder
@@ -222,14 +222,14 @@ Every η here is the practitioner's own. The Tier ranges of Part Nineteen are ty
 
 #### What AU/s is not
 
-AU/s is a **ceiling on the rate**, not a duty cycle. No practitioner runs at their AU/s continuously, and sustained work runs at a fraction of it. The small practitioner's broadcast suppression costs 390 EU, is a full-broadcast sympathetic suppression across twenty-five feet, and lasts eight seconds: 390 ÷ 8 = 48.75 AU/s, one tenth of the ceiling. The ceiling is what the practitioner can do for a heartbeat; the tenth is what they do for eight seconds. **Read a practitioner's AU/s as the number that caps a burst, and read a working's EU ÷ duration as the number that runs a scene.**
+AU/s is a **ceiling on the rate**, not a duty cycle. No practitioner runs at their AU/s continuously, and sustained work runs at a fraction of it. The small practitioner's broadcast suppression costs 390 EU, is a full-broadcast sympathetic suppression across twenty-five feet, and lasts eight seconds: 390 ÷ 8 = 48.75 AU/s, about a fifth of the ceiling. The ceiling is what the practitioner can do for a heartbeat; the fifth is what they do for eight seconds. **Read a practitioner's AU/s as the number that caps a burst, and read a working's EU ÷ duration as the number that runs a scene.**
 
 #### Costs are a share of the reserve
 
 A working is priced as a share of the reserve it draws on, and the shares are large enough that a real fight reaches the ten-percent floor. The small practitioner's workings run 4.5 to 12.6 percent of the reserve apiece. The middle practitioner's branches run 3.0 to 9.7 percent, and the apex strike 8.0. The large practitioner's constructs run 5 to 15 percent. **A practitioner who commits to a fight spends in whole percents per exchange, and ten to twenty committed exchanges bring anyone to Starvation.** The absolute size of the reserve decides how large each working is; the share decides how long the practitioner lasts, and the share is what a scene tracks.
 The cost can be permanent. A working may forfeit a permanent portion of the practitioner's own maximum reserve each time it is performed. Performed seven times, it takes seven portions that do not grow back, and the maximum reserve was higher before the first.
 
-#### Flux Density and η
+### Flux Density and η
 
 #### The equation, read per working gram
 
@@ -242,7 +242,7 @@ The missing fraction of every expenditure is wasted as **heat, noise and structu
 **It cannot be generated inside the body and conducted out.** Fourier's law, q = −k∇T. The small practitioner's 28.4 MW of waste through 1.8 m² of skin is 15.8 MW/m²; across 3 mm of skin at k ≈ 0.4 W·m⁻¹·K⁻¹ that would need
 **ΔT = qL/k = 1.58 × 10⁷ × 0.003 / 0.4 = 1.2 × 10⁵ K.**
 across three millimetres, and that is the small practitioner. At the middle practitioner's 39.0 MW it is 1.63 × 10⁵ K; at the large practitioner's 204 GW it is 8.5 × 10⁸ K. Skin chars at about 200 °C.
-**So the Soul Crystal is not a battery in the chest. It is an aperture, and the waste is shed at the Shell, at or outside the body's surface.** The body does not carry the heat of its own workings; the Shell does, and the Shell sheds it into the room. A practitioner at η above one is marked by exactly this: no field pressure, aura warmth or harmonic noise leaks outward from them, which says that from everyone below one it does.
+**So the Soul Crystal is not a battery in the chest. It is an aperture, and the waste is shed at the Shell, at or outside the body's surface.** The body does not carry the heat of its own workings; the Shell does, and the Shell sheds it into the room. A practitioner at η above one is marked by exactly this: no waste heat, aura warmth or harmonic noise leaks outward from them, which says that from everyone below one it does. Their aura still shows in its own colour, and their strength can still be felt; it simply sheds nothing.
 
 #### The tell, priced
 
@@ -255,17 +255,17 @@ The waste leaves the Shell as radiance, and Stefan–Boltzmann prices what it lo
 | Stage VIII, η 0.70 | 17.9 GW | 20,550 K | 843 m | 337 m |
 | the large practitioner, η 0.87 | 204 GW | 37,770 K | 2,846 m | 1,138 m |
 
-*Radius r = √(P / 4π · threshold).* At full output even the middle practitioner at η 0.99, wasting one percent, sets timber alight at fifteen metres. The large practitioner at full output burns hotter than any main-sequence star's surface, and an ignition radius of 1.14 kilometres reaches their own army and the ground they stand on; they can be seen working from the next valley.
+*Radius r = √(P / 4π · threshold).* At full output even the middle practitioner at η 0.99, wasting one percent, sets timber alight at fifteen metres. The large practitioner at full output burns at six and a half times the Sun's surface temperature, as hot as a blue O-type star, and an ignition radius of 1.14 kilometres reaches their own army and the ground they stand on; they can be seen working from the next valley.
 At the draw a working actually runs at, the tell is smaller and still there. The broadcast suppression at 48.75 AU/s and η 0.89 sheds 5.36 MW: a surface near 2,700 K, pain on bare skin to 14.6 m, timber catching at 5.8 m.
-**This is the tell, and it is also the cost.** A practitioner at full output is a lamp, a furnace and a hazard to everyone within a stated radius, and the radius is on this table. A low-η practitioner is brighter for the same work. A high-η one is nearly dark, which is why a quiet practitioner is remarked on, and why one working in silence and in the cold should frighten a reader more, not less. The ladder of who is brighter than whom depends on *(1 − η) × output* and on nothing else. The tell does not end when the working does: scorched ground, a burnt ring and a room still warm are the aftermath, and the aftermath is read like the working was.
+**This is the tell, and it is also the cost.** A practitioner at full output is a lamp, a furnace and a hazard to everyone within a stated radius, and the radius is on this table. A low-η practitioner throws more heat and glare for the same work. A high-η one sheds almost none: their aura still burns in its own colour and brightens as they push, but it gives off no heat, which is why a cool, quiet aura is remarked on, and why one working in silence and in the cold should frighten an onlooker more, not less. The ladder of who is brighter than whom depends on *(1 − η) × output* and on nothing else. The tell does not end when the working does: scorched ground, a burnt ring and a room still warm are the aftermath, and the aftermath is read like the working was.
 
 #### η above one
 
 Above 1.0 the Continuum recognizes the expression as law and **supplements it with ambient flow**; the environment becomes a co-author. **η above one is real.** It breaks no law, because the practitioner is not a closed system: the surplus comes from outside, the way a heat pump delivers three to five times its input by moving energy it did not make.
-**The surplus is drawn from the Aether stratum, the room, not from the Crystal.** Of every 1.05 delivered at η 1.05, 0.05 is drawn in. At 9,870 AU/s and η 1.05 that is 4.76% of 9.87 GW, **470 MW taken from the stratum around the practitioner**, every second of full output, while their own Crystal pays only the 9,870 EU/s it would pay at η 1.00. His reserve drains at the same rate as anyone's with the same AU/s; what the high η buys is delivered effect and a working that sheds nothing.
-**The room pays, and the room shows it.** The stratum a practitioner above one draws on is measurably depleted, and it stays thinner after the working ends; passive recovery in that ground runs slower (see “How fast it comes back, and on what it depends”), for them and for anyone else who stands in it. That is the tell and it is also the counter: *starve the reservoir.* Aether-dead ground, a depleted site or a Silence Realm leaves nothing to supplement the expression with, and η falls back below one by definition.
+**The surplus is drawn from the Aether stratum, the room, not from the Crystal.** Of every 1.05 delivered at η 1.05, 0.05 is drawn in. At 9,870 AU/s and η 1.05 that is 4.76% of the 10.36 GW delivered, **494 MW taken from the stratum around the practitioner**, every second of full output, while their own Crystal pays only the 9,870 EU/s it would pay at η 1.00. Their reserve drains at the same rate as anyone's with the same AU/s; what the high η buys is delivered effect and a working that sheds nothing.
+**The room pays, and the room shows it.** The stratum a practitioner above one draws on is measurably depleted, and it stays thinner after the working ends; passive recovery in that ground runs slower (see “How fast it comes back, and on what it depends”), for them and for anyone else who stands in it. That is the tell and it is also the counter: *starve the reservoir.* Aether-dead ground, a depleted site or a Silence Realm (a place where the Aether is dead) leaves nothing to supplement the expression with, and η falls back below one by definition.
 
-#### Essence Starvation and recovery
+### Essence Starvation and recovery
 
 #### The threshold
 
@@ -282,7 +282,7 @@ Ten percent of each Tier's ceiling, in joules:
 | Grandmaster | 6.70 × 10⁹ | 6.70 × 10⁸ | 670 TJ |
 | Archmaster | 6.70 × 10⁹ | 6.70 × 10⁸ | 670 TJ |
 
-The floor is ten percent of the practitioner's own maximum, not of the Tier's ceiling; the table gives the largest floor each Tier can carry. The Master figure, 35.1 TJ, sits inside the spine's carve-out (24.3 to 41.8 TJ), so what a Starved Master still holds, released at once, is ranked by the Sub-Stat column and not by joules.
+The floor is ten percent of the practitioner's own maximum, not of the Tier's ceiling; the table gives the largest floor each Tier can carry. The Master figure, 35.1 TJ, 8.39 kilotons, sits in SS on the spine, so what a Starved Master still holds, released at once, is an SS discharge.
 **A practitioner may keep a wider margin than the law does.** One who maintains peak output only until the reserve drops below thirty percent keeps thirty as a personal operating margin; the law's floor is ten.
 
 #### What it costs
@@ -295,7 +295,7 @@ Traits come and go without pattern under Essence Starvation. A Trait is a standi
 
 Recovery runs by three routes.
 **Passive Recovery** is the baseline absorption of ambient Essence without active effort, governed by **Tempering Yield** and **Harmonics Synergy**. It is faster near active Wellspring veins, slower in depleted or hostile environments, and negligible in Silence Realms.
-**Active Recovery** is deliberate absorption through meditation, Wellspring communion or alchemical treatment. It is significantly faster, but **requires the character to stop fighting and concentrate.** An alchemical treatment only quickens the draw from the ground and the Wellspring; no Draft carries Essence into a reserve.
+**Active Recovery** is deliberate absorption through meditation, Wellspring communion or alchemical treatment. It is significantly faster, but **requires the character to stop fighting and concentrate.** An alchemical treatment quickens the draw from the ground and the Wellspring, and a fight Draft (a dose brewed for battle) pours Essence straight back into a reserve, taking its price in the crash that follows.
 **Crisis Recovery** is a surge triggered by a soul-cost event, a Threshold completion or a genuine emotional breakthrough during combat. **It is not reliable and cannot be manufactured.**
 The rates:
 | Condition | Rate |

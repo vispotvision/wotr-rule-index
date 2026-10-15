@@ -56,7 +56,7 @@ Its author devised this ward alone. It carries no filed counter beyond what an o
 | Top A-Grade arrival against that signal | 8,575 ÷ 10,000 m/s | 86%, crossing 6 m in 0.7 ms |
 | S-Grade arrival | 8,575 to 68,600 m/s | up to 7 times the ward's own signal |
 | B-Grade load on a 7 m shell | 1 to 5 GN ÷ 616 m² | 1.6 to 8.1 MPa |
-| A-Grade load on a 3 m shell | 20 to 100 GN ÷ 113 m² | 177 to 884 MPa |
+| A-Grade load on a 3 m shell | 5 to 100 GN ÷ 113 m² | 44 to 884 MPa |
 | The same loads on 1 cm² | 1 to 100 GN ÷ 10⁻⁴ m² | 10¹³ to 10¹⁵ Pa, past any material |
 
 ### Metaphysics

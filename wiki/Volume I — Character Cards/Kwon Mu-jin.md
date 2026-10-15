@@ -74,7 +74,7 @@ verification: null
 > 
 > His **Travel Speed of Mach 25–200 is his summoned constructs' delivery speed, not his own footwork** — *which never exceeds an ordinary brisk walk.*
 **Durability** · S-Grade Resilience — withstands ambient Essence discharge in the **4.6 × 10¹⁰ to 4.6 × 10¹³ Joule range** before structural harm begins.
-**Attack Speed** Mach 50–500 · **Reaction** 0.05–0.2ms · **Aura Pressure Field** 15m passive · **Domain Pressure** 40m at full concentration
+**Attack Speed** Mach 30–500 · **Reaction** 0.05–0.2ms · **Aura Pressure Field** 15m passive · **Domain Pressure** 40m at full concentration
 **EU Reserve** **850,000,000** — *sized to what an SS-Grade Gnosis stat actually demands to sustain* · **Flux Density** 1,800,000 EU/g · **AU/s** **1,566,000** · **η** 0.87
 **Passive Recovery** ~12,750,000 EU/hour at rest · **Active** ~38,250,000 EU/hour — *only while he stops working entirely to do it*
 

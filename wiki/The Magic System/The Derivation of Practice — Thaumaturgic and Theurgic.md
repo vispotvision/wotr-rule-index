@@ -11,7 +11,7 @@ verification: "unverified"
 # The Derivation of Practice — Thaumaturgic and Theurgic
 
 *A Classification of Practitioner Types by Relationship to the System*
-*Guild of Measurewrights, under the Hexagonal Oath, in concurrence with the Research & Archives Division and the Lattice Classification Bureau*
+*Guild of Measurewrights (certified assessors of practitioners and workings), under the Hexagonal Oath, in concurrence with the Research & Archives Division and the Lattice Classification Bureau*
 > **The fire was always in her. The understanding of fire was always in him. Both produce fire. The institution that cannot tell the difference will be burned by both.**
 > — *Attributed to the third Provost of the Lattice Classification Bureau, upon her resignation*
 
@@ -19,13 +19,13 @@ verification: "unverified"
 
 ## Why a Second Axis
 
-The existing apparatus measures **what a practitioner can do.** Tier Grade measures raw magnitude. Tier of Standing measures rank. Efficiency (η) measures efficiency. Aether Class measures conductivity. Temperance Stage measures architectural maturity.
+The existing apparatus measures **what a practitioner can do.** Tier Grade measures raw magnitude. Tier of Standing measures rank. Efficiency (η) measures how much of each expenditure arrives as effect. Aether Class measures conductivity. Temperance Stage measures architectural maturity.
 > **None of these tell the Bureau where the capacity came from.**
 > Two practitioners present **identical Tier Grades, identical Tiers of Standing, identical η, identical stat profiles.**
 >
-> **One** trained at the Altherion Collegium for eleven years. Techniques from curricula, harmonisations guided by instructors who had guided a hundred before hers. **Documented, reproducible, predictable.** *The Bureau knows exactly what she can do because the institution that built her kept records.*
+> **One** trained at the Altherion Collegium for eleven years. Techniques from curricula, harmonisations (tunings of the soul to a Wellspring's law) guided by instructors who had guided a hundred before hers. **Documented, reproducible, predictable.** *The Bureau knows exactly what she can do because the institution that built her kept records.*
 >
-> **The other** walked out of a Caloria concentration in the New World at fourteen **with a harmonisation nobody taught her** and a Tier Grade that should have taken a decade of supervised refinement. **Undocumented, unreproducible, unpredictable** — *the Bureau knows what she can do only by watching her do it, and what she does changes every time someone watches.*
+> **The other** walked out of a Caloria (the heat family of Wellsprings) concentration in the New World at fourteen **with a harmonisation nobody taught her** and a Tier Grade that should have taken a decade of supervised refinement. **Undocumented, unreproducible, unpredictable** — *the Bureau knows what she can do only by watching her do it, and what she does changes every time someone watches.*
 >
 > **The first is an asset the institution manufactured. The second is a phenomenon the institution discovered.**
 > *The correction was not requested by the academic community. It was requested by the Bureau of Strategic Assessment, after the third incident in which a field commander deployed a practitioner on the basis of a classification that accurately described the output and completely failed to predict the behaviour under conditions the classification had not been tested against.*
@@ -38,9 +38,9 @@ The existing apparatus measures **what a practitioner can do.** Tier Grade measu
 |  | **Thaumaturgic** · *wonder-working* | **Theurgic** · *divine-work* |
 |---|---|---|
 | **Origin** | What they **are**. Innate architecture, native attunement, self-derived technique | What they were **taught**. Systematic comprehension of the grammar, cross-axis literacy, transmitted technique |
-| **Relationship to system** | **Direct, personal, unmediated.** *They channel with the force their Crystal was born to carry. Training refines the delivery but did not create the capacity* | **Indirect, mediated by theory, reproducible by anyone with equivalent training.** *They channel with the precision their education installed. The Crystal carries the force but the education chose the direction* |
-| **Shape** | **Single-axis fluency.** Higher ceiling on the native axis than a theurgist of equal Stage, **because the attunement is structural rather than learned.** Off-axis: resonance stress, efficiency loss, **and in severe cases Crystal Fracture** | **Cross-axis literacy.** Lower ceiling on any single axis, **because the literacy is distributed rather than concentrated.** Off a familiar axis: **adaptation, not fracture** |
-| **Harmonisation arrives by** | **Native resonance** — *the Wellspring recognised the Crystal and the Crystal recognised the Wellspring and the harmonisation completed itself the way a seed germinates when it reaches wet soil* **— or** crisis-forging**, phase-lock under extreme stress as a survival response. *Not chosen.** Imposed by circumstance. The Crystal carries it regardless* | **Guided training.** The instructor assesses architecture, identifies compatible currents, and supervises a controlled process. **Deliberate, documented, reproducible** — *which is why the Bureau's classification of theurgists is reliable and its classification of thaumaturges is not* |
+| **Relationship to system** | **Direct, personal, unmediated.** *They channel with the force their Crystal (the soul's organ that stores Essence and channels it outward) was born to carry. Training refines the delivery but did not create the capacity* | **Indirect, mediated by theory, reproducible by anyone with equivalent training.** *They channel with the precision their education installed. The Crystal carries the force but the education chose the direction* |
+| **Shape** | **Single-axis fluency.** Higher ceiling on the native axis than a theurgist of equal Stage, **because the attunement is structural rather than learned.** Off-axis: resonance stress, efficiency loss, **and in severe cases Crystal Fracture (the soul's organ splitting under strain)** | **Cross-axis literacy.** Lower ceiling on any single axis, **because the literacy is distributed rather than concentrated.** Off a familiar axis: **adaptation, not fracture** |
+| **Harmonisation arrives by** | **Native resonance** — *the Wellspring (a standing current of natural law in the Aether) recognised the Crystal and the Crystal recognised the Wellspring and the harmonisation completed itself the way a seed germinates when it reaches wet soil*, **or crisis-forging**, phase-lock under extreme stress as a survival response. *Not chosen.* Imposed by circumstance. The Crystal carries it regardless* | **Guided training.** The instructor assesses architecture, identifies compatible currents, and supervises a controlled process. **Deliberate, documented, reproducible** — *which is why the Bureau's classification of theurgists is reliable and its classification of thaumaturges is not* |
 | **Can they teach it?** | **Frequently not.** They can demonstrate. They can refine through repetition. **They cannot teach a student whose Crystal is not natively attuned to the same axis, because the technique is not separable from the attunement** | **Yes, to any student meeting the compatibility threshold.** *The technique is separable from the practitioner because it was built from principles, not from personal attunement* |
 | **Failure mode** | **Resonance tunnel.** Every success reinforces the attunement, narrowing responsive range while deepening peak. *At advanced Stages a deeply tunnelled thaumaturge may be unable to perceive Wellspring activity outside their native axis at all — not because it is absent but because the Crystal has optimised itself into a receiver that can only hear one frequency* | **Analysis paralysis compounded by translation loss.** Every problem has multiple approaches and selecting the optimal one exceeds the time the engagement provides. *Additionally, translating an effect between axes incurs an efficiency cost that pure single-axis channelling does not — a portion of the Essence budget is always spent on the translation layer rather than on the effect* |
 
@@ -53,24 +53,24 @@ The existing apparatus measures **what a practitioner can do.** Tier Grade measu
 ## What the Axis Is Actually Measuring
 
 *The Bureau measures the shape and argues about the cause. The cause is the seat.*
-A Threshold is a melt, and a melt cools into order only around what survived the heat. **Traits are the seeds.** Everything the Index reports follows from how many a practitioner brought to the fire and how well they agreed.
+A Threshold (the crisis that lifts a soul to its next Stage) is a melt, and a melt cools into order only around what survived the heat. **Traits (standing laws a soul carries, formed by what it survived) are the seeds.** Everything the Index reports follows from how many a practitioner brought to the fire and how well they agreed.
 **A melt seeded by one dominant Trait cools narrow and deep.** The lattice organises along a single law and every subsequent working runs cleanest along it. That is thaumaturgic architecture, and the resonance tunnel is not a pathology developing over a career. It is the shape the Crystal set into, becoming more itself with every reinforcement.
 **A melt seeded by several weaker Traits that do not contradict each other cools distributed.** No single axis reaches the depth the narrow lattice reaches and none of them fractures under an unfamiliar current either. That is theurgic architecture, and the translation cost the Index measures is the Essence spent moving between regions of a lattice that agreed to differ.
 > **This is why the distribution is bimodal, and why both standing explanations are half right.**
 >
-> The Altherion faculty are correct that the tendency is architectural rather than installed by training. The Bureau is correct that institutions produce it. **Both miss the same step:** training regimes determine which Traits get promoted to load paths at Splintering, and Splintering decides the seat, and the seat decides the Index.
+> The Altherion faculty are correct that the tendency is architectural rather than installed by training. The Bureau is correct that institutions produce it. **Both miss the same step:** training regimes determine which Traits get promoted to load paths at Splintering (Stage V), and Splintering decides the seat, and the seat decides the Index.
 >
 > *A collegium that puts a cohort through eleven varied years is running a distributed seeding programme without a word for what it is doing. A girl who walks out of a Caloria concentration at fourteen was seeded once, hard, by one current, and everything she will ever be was decided in an afternoon.*
 >
 > **The thin population between the modes is thin because a melt is not a blend.** It cools around what is there, and there is rarely a middling amount of anything in a soul at a Threshold.
-The Conjunctia anomaly resolves the same way. A natively dual-conducting practitioner was seeded by **two strong Traits that did not contradict**, producing a lattice with two deep axes and no translation layer between them. The formula reads the cross-axis performance as literacy. It is structure. This is why the correction factor was proposed by people who could see the effect and could not name the cause.
+The Conjunctia (working two Families at once) anomaly resolves the same way. A natively dual-conducting practitioner was seeded by **two strong Traits that did not contradict**, producing a lattice with two deep axes and no translation layer between them. The formula reads the cross-axis performance as literacy. It is structure. This is why the correction factor was proposed by people who could see the effect and could not name the cause.
 
 ---
 
 ## The Derivation Index
 
 **DI = (Cross-Axis Mean Performance) / (Single-Axis Peak Performance)**
-Measured across a standardised battery spanning **all three encounter axes — Wild, Spirit, Medium —** across at least three Families, scoring consistency, peak deviation, adaptation time and technique legibility.
+Measured across a standardised battery spanning **all three encounter axes — Wild, Spirit, Medium —** across at least three Families (the eight physics groupings of the Wellsprings), scoring consistency, peak deviation, adaptation time and technique legibility.
 > **DI approaching 1.0** — theurgic. Performs nearly as well across all axes as on their best.
 > **DI approaching 0.0** — thaumaturgic. One or two axes of extraordinary performance with significant degradation on the others.
 > **The distribution is not uniform. It clusters bimodally around 0.35 and 0.65**, with a thin population between.
@@ -99,12 +99,6 @@ Measured across a standardised battery spanning **all three encounter axes — W
 > *Nobody will ever test him. The battery is administered to registrants, registration follows screening, and screening looks for a Crystal that has already stirred.* **Every screening season produces false negatives at a rate the Bureau has never estimated because it has no instrument that would notice.**
 > 
 > The Bureau's stated tolerance for unmodelled variables is low and declining. **Its actual exposure is the population of the four quarters.**
->
-> A Class Ø soul carries its laws in ordinary material and refines by the Weathering rather than by Temperance, and the Weathering is single-axis by definition: it hardens a man further along the direction he was already being used. **Grain is a resonance tunnel with no woken Crystal behind it.** Tested on the standard battery, a weathered fisherman off forty years of cold water would return an Index near zero and a peak on his native axis that would embarrass a credentialed Magister.
->
-> *Nobody will ever test him. The battery is administered to registrants, registration follows screening, and screening looks for a Crystal that has already stirred.* **Every screening season produces false negatives at a rate the Bureau has never estimated because it has no instrument that would notice.**
->
-> The Bureau's stated tolerance for unmodelled variables is low and declining. **Its actual exposure is the population of the four quarters.**
 > **The Bureau does not use the word** ***goetic*****.** It appears in the historical literature, meaning sorcery by personal will, used by the Sancta Lux theological apparatus to describe unconsecrated wonder-working, **and it carries a pejorative charge the Bureau's formal classifications are designed to avoid.**
 >
 > The Bureau notes that the word remains in common use outside formal channels, **particularly among credentialed Magisters referring to Unregistered Naturals**, and that guidance discouraging it has been issued on four occasions.
@@ -117,15 +111,15 @@ Measured across a standardised battery spanning **all three encounter axes — W
 
 | Lean | Method |
 |---|---|
-| **Theurgic** | **Turgia** |
-| **Scriptia** | **Inherently textual.** The encoding grammar is complex enough that self-derivation is extremely difficult. *A Scriptia thaumaturge who intuits glyph combinations without Parunic training is the institutional equivalent of a person who writes poetry in a language they do not speak. The Bureau monitors these individuals with particular attention* |
+| **Theurgic** | **Turgia (ritual working that makes lasting change)** |
+| **Scriptia** | **Inherently textual.** The encoding grammar is complex enough that self-derivation is extremely difficult. *A Scriptia thaumaturge who intuits glyph combinations without Parunic (written in Parun, the root script of law that reality reads) training is the institutional equivalent of a person who writes poetry in a language they do not speak. The Bureau monitors these individuals with particular attention* |
 | **Alchemia** | **Inherently procedural and empirical. The Great Work's seven stages are a curriculum.** The Method most thoroughly institutionalised by the Accord |
-| **Thaumaturgic** | **Kinesia** |
+| **Thaumaturgic** | **Kinesia (direct control of a phenomenon in real time)** |
 | **Corporis** | **Inherently personal. The body is the instrument and the technique cannot be separated from the body that performs it.** *The most naturally thaumaturgic Method — somatic, reflexive, integrated with the practitioner's physical architecture in ways that resist abstraction* |
-| **Middle** | **Manteia** |
-| **Harmonia** | Theurgic if they tune **by theory**, thaumaturgic if **by ear** |
+| **Middle** | **Manteia (reading and sensing through a phenomenon)** |
+| **Harmonia (working by tone and vibration)** | Theurgic if they tune **by theory**, thaumaturgic if **by ear** |
 | **Conjunctia** | Tends theurgic — holding two Family patterns rewards systematic understanding. **But the rare thaumaturgic Conjunctia practitioner whose Crystal natively conducts two Families is among the most dangerous practitioners in the register**, *because the dual attunement is structural rather than managed and therefore incurs no translation cost* |
-| **Synergia** | Tends theurgic — coordination rewards shared frameworks. **Thaumaturgic Synergia** (intuitive coordination without explicit communication) is documented among practitioners sharing a native axis, **occurring most frequently in bonded pairs or family lineages** |
+| **Synergia (several practitioners working as one)** | Tends theurgic — coordination rewards shared frameworks. **Thaumaturgic Synergia** (intuitive coordination without explicit communication) is documented among practitioners sharing a native axis, **occurring most frequently in bonded pairs or family lineages** |
 
 ---
 
@@ -142,7 +136,7 @@ Measured across a standardised battery spanning **all three encounter axes — W
 
 ## The Institutional Architecture
 
-**The Guild Accord** controls theurgic training, publishes the Lattice classification, issues the Magister credential. *It funds the academies, approves the curricula, and controls the chokepoints through which theurgic knowledge passes.* **The Guild made the system. The Guild owns the gate.**
+**The Guild Accord** controls theurgic training, publishes the Lattice classification, issues the Magister credential. *It funds the academies, approves the curricula, and controls the chokepoints through which credentialed theurgic knowledge passes. Every school and sect still teaches its own basics and guards its own forms, and the Guild sees only what they choose to file.* **The Guild made the system. The Guild owns the gate.**
 **Sancta Lux** claims authority on etymological and doctrinal grounds. **Theurgy means divine work. If the work is divine, the Church has standing.** It credentials nobody — *but it does not need to control the gate if it can declare the field on the other side of the gate consecrated or profane.*
 **The Bureau of Strategic Assessment** manages registration. **It does not care whether a high-Tier thaumaturge was trained or self-taught, consecrated or profane.** It cares whether the output has been observed and incorporated into the regional assessment. *A registered Natural is an asset on the ledger. An Unregistered Natural is a variable the Bureau cannot model — and its tolerance for unmodelled variables is low and declining.*
 > **The three institutions agree on exactly one point: unregistered high-Tier thaumaturges are a problem. They disagree on why.**

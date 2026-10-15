@@ -48,7 +48,7 @@ The source names Serenyra as the sole practitioner and names her instrument, the
 | Phase error 60° | 2A·sin(30°) | A, nothing achieved |
 | Phase error 120° | 2A·sin(60°) | 1.73 A, 4.8 dB stronger |
 | A-Grade working across 1 km | Mach 10 to 30 | 100 to 290 ms, against 0.2 to 1 ms reaction |
-| S-Grade working across 1 km | Mach 50 to 500 | 6 to 60 ms, against 0.05 to 0.2 ms reaction |
+| S-Grade working across 1 km | Mach 30 to 500 | 6 to 97 ms, against 0.05 to 0.2 ms reaction |
 | Latency 1 ms, 200 µs, 50 µs | clean to 0.0159 ÷ δt; sign flip at 0.167 ÷ δt | 16 / 167 Hz, 80 / 833 Hz, 318 Hz / 3.3 kHz |
 
 ### Metaphysics

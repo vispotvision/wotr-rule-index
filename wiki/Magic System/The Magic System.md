@@ -63,7 +63,7 @@ Newcomers ask how to learn a spell. The question is malformed. Workings are not 
 | **Ability** | The internalized governing system your Crystal has developed. Pyrokinesis, for instance. It does nothing visible on its own. It is the platform. |
 | **Technique** | A specific, repeatable application within that platform, with defined inputs, outputs, and limitations. This is what you actually do. |
 
-> **The Family is the WHAT. The Method is the HOW. Where they intersect, you get the named discipline.**
+> **The Family is the WHAT. The Method is the HOW. Where they intersect, you get the named discipline.** *The name itself is built on the Affinity: fire, not Caloria, gives Pyromancy its root.*
 
 ### The Nine Methods
 
@@ -76,7 +76,7 @@ Newcomers ask how to learn a spell. The question is malformed. Workings are not 
 | **Scriptia** | -graphy | Fate | *Inscription. Magic carved permanently into materials.* |
 | **Alchemia** | -genesis / -synthesis | Material + Soul | *Alchemy. Substance transformation, Essence Draft creation.* |
 | **Harmonia** | -phonia / -chord | Soul + Fate | *Resonance. Frequency-based workings.* |
-| **Conjunctia** | (compound roots) | All Three | *Fusion. Simultaneous blending of two or more Families.* |
+| **Conjunctia** | (compound roots) | All Three | *Fusion. Simultaneous blending of two or more Families in one practitioner. The alchemical Conjunction is a bench operation, not this Method.* |
 | **Synergia** | (named by working) | Fate-dominant | *Cooperative. Multiple practitioners combining workings.* |
 
 ---

@@ -3,7 +3,7 @@ name: Publish the wiki site
 on:
   push:
     branches: [master]
-    paths: ["wiki/**", "site/**", "build/site_content.py", ".github/workflows/site.yml"]
+    paths: ["wiki/**", "site/**", "build/site_content.py", "build/site_art.py", ".github/workflows/site.yml"]
   workflow_dispatch:
 
 permissions:

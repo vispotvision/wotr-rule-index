@@ -1,15 +1,13 @@
 #!/usr/bin/env bash
-# Two-way mirror: Notion wiki -> wiki/, then repo scenes and index outputs
-# -> Notion, then commit and push whatever changed.
+# Autosave for the wiki: commits and pushes what changed in wiki/ (the Obsidian
+# vault, the source since 2026-10-15; Notion is retired and frozen), copies the
+# rendered Fronts, Ledger and NPC roster into the wiki's Running Pieces, refreshes
+# the search index and the Drive documents. The push rebuilds the public site.
 #
 #   bash build/sync.sh
 #
-# This is what turns "Natalie archived a scene in Notion" into "the scene is
-# in the repo": her session-end protocol files the scene under the wiki's
-# Scene Archive section; this script mirrors it to wiki/The Scene Archive/
-# and commits it. Safe to run any time; if nothing changed, nothing is
-# committed. Needs NOTION_TOKEN in ~/.config/wotr/env (or the environment)
-# and git credentials already set up (gh auth login did that).
+# Safe to run any time; if nothing changed, nothing is committed. Needs git
+# credentials already set up (gh auth login did that).
 #
 # Runs hourly as the systemd user timer wotr-sync.timer (the unit files are in
 # build/systemd/; build/systemd_setup.sh installs them):
@@ -33,7 +31,6 @@ WOTR_LOG="$WOTR_REPO/build/sync.log"
 exec 9>"$WOTR_REPO/build/.sync.lock"
 if ! flock -n 9; then wotr_log "another sync is running; skipped"; exit 0; fi
 
-if [ -z "${NOTION_TOKEN:-}" ]; then wotr_log "NOTION_TOKEN not set; aborting"; exit 1; fi
 
 # One interpreter for every step: the venv env.sh picked (and put first on PATH, so a
 # bare `python` in anything a tool starts is the same one). The Windows run once
@@ -54,10 +51,12 @@ log_tail() {
     while IFS= read -r line; do wotr_log "${indent}${line}"; done < <(printf '%s\n' "$out" | tail -n "$n")
 }
 
-wotr_log "export start"
-run_tool notion_export.py
-log_tail 3 "  "
-if [ "$code" -ne 0 ]; then wotr_log "export failed (exit $code)"; exit "$code"; fi
+# the rendered table (build/table.py render) into the vault's Running Pieces
+rp="wiki/The Table — Running Pieces"
+for pair in "FRONTS:Fronts, as clocks" "LEDGER:The Ledger, structured" "NPCS:NPC roster"; do
+    src="table/${pair%%:*}.md"; dst="$rp/${pair#*:}.md"
+    { [ -f "$src" ] && ! cmp -s "$src" "$dst" && cp "$src" "$dst"; } || true
+done
 
 # semantic index over wiki/ and scenes/ for the MCP's wiki and scene_recall
 # (build/index/, gitignored; only chunks whose text changed get re-embedded)
@@ -77,12 +76,6 @@ run_tool vault_export.py
 log_tail 1 "  "
 if [ "$code" -ne 0 ]; then wotr_log "vault failed (exit $code)"; fi
 
-# the other direction: index outputs and scenes that changed in the repo go
-# up to Notion (build/notion_publish.py is idempotent; unchanged files are skipped)
-wotr_log "publish start"
-run_tool notion_publish.py
-log_tail 2 "  "
-if [ "$code" -ne 0 ]; then wotr_log "publish failed (exit $code)"; fi
 
 # Word documents for the Google Drive folder, when Drive is mounted (WOTR_DRIVE in
 # ~/.config/wotr/env names the mount; was G:\My Drive under Drive for Desktop)
@@ -120,7 +113,7 @@ fi
 # what the sync owns; nothing outside this list is ever staged or committed here, so
 # whatever another session has left staged (two often write this repo at once) stays
 # out of the sync's commit and $n stays honest
-paths=(wiki table scenes/CAST.md scenes/TIMELINE.md build/.notion_publish.json)
+paths=(wiki table scenes/CAST.md scenes/TIMELINE.md)
 changes="$(git status --porcelain -- "${paths[@]}")"
 if [ -z "$changes" ]; then
     # a quiet hour still carries up a commit whose push failed earlier: last hour's, or
@@ -136,7 +129,7 @@ fi
 
 n="$(printf '%s\n' "$changes" | wc -l)"
 git add -- "${paths[@]}"
-git commit -q -m "Wiki sync: $n file(s) changed in Notion" -m "Automated mirror of the War of the Realms wiki via build/sync.sh." -- "${paths[@]}" >/dev/null 2>&1; code=$?
+git commit -q -m "Wiki: $n file(s) edited" -m "Autosave of the Obsidian vault via build/sync.sh." -- "${paths[@]}" >/dev/null 2>&1; code=$?
 if [ "$code" -ne 0 ]; then wotr_log "commit failed (exit $code)"; fi
 git push -q origin master >/dev/null 2>&1; code=$?
 if [ "$code" -ne 0 ]; then wotr_log "push failed"; exit 1; fi

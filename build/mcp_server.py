@@ -16,10 +16,10 @@ Tools
   check_docket(tags)         pending and proposed rules for the same tags
   list_conflicts()           CONFLICTS.md
   archive_scene(title, markdown)   save a finished scene: scenes/<slug>.md, the
-                             Notion Scene Archive, one commit, pushed
+                             wiki Scene Archive copy, one commit, pushed
   log_ruling(rule_id, ruling)      record a ruling in RULINGS.md so it gets applied
                              to the index next time Claude Code is in the repo
-  sync_now()                 run build/sync.sh (Notion <-> GitHub <-> Drive docs)
+  sync_now()                 run build/sync.sh (wiki edits -> GitHub -> site, Drive docs)
   narrate_scene(scene, voice)      render a scene to MP3 with the local Kokoro narrator
   narration_status()         jobs and links; in --public mode the MP3s are served at
                              /t/<token>/audio/... so a phone can play them while the PC is on
@@ -130,6 +130,11 @@ def _pack_rank(r: dict) -> int:
         m = re.match(r"R(\d+)", r.get("id") or "")
         n = int(m.group(1)) if m else 0
     return int(n)
+
+
+def _safe_name(title: str) -> str:
+    """A page title as a wiki file name: only the characters a path cannot hold are dropped."""
+    return re.sub(r'[/\\:*?"<>|]', "", title).strip() or "Untitled"
 
 
 def _slug(title: str) -> str:
@@ -245,8 +250,8 @@ def list_conflicts() -> str:
 @server.tool()
 def archive_scene(title: str, markdown: str, author_notes: str = "") -> str:
     """Save a finished scene. Writes scenes/<slug>.md (title as the H1, author notes
-    appended under '## Author notes'), publishes it to the Notion Scene Archive,
-    commits and pushes. Returns the file path and the Notion page id."""
+    appended under '## Author notes'), copies it to the wiki's Scene Archive as a private
+    page, commits and pushes. Returns the file paths."""
     slug = _slug(title)
     path = SCENES / f"{slug}.md"
     if path.exists():
@@ -260,14 +265,42 @@ def archive_scene(title: str, markdown: str, author_notes: str = "") -> str:
     SCENES.mkdir(exist_ok=True)
     path.write_text(body + "\n", encoding="utf-8", newline="\n")
 
-    code, pub = _run([PY, str(ROOT / "build" / "notion_publish.py"), "--only", path.name])
-    notion = "published to the Notion Scene Archive" if code == 0 else f"Notion publish failed: {pub[-400:]}"
+    # The wiki (Obsidian vault) keeps a private copy; Notion is retired (2026-10-15).
+    wiki_copy = WIKI / "The Scene Archive" / f"{_safe_name(title)}.md"
+    wiki_copy.parent.mkdir(parents=True, exist_ok=True)
+    wiki_copy.write_text(f"---\ntitle: {json.dumps(title, ensure_ascii=False)}\nprivate: true\n---\n\n{body}\n", encoding="utf-8", newline="\n")
+    notion = f"copied to wiki/{wiki_copy.relative_to(WIKI).as_posix()}"
 
-    _git("add", "--", str(path.relative_to(ROOT)), "build/.notion_publish.json")
+    _git("add", "--", str(path.relative_to(ROOT)), str(wiki_copy.relative_to(ROOT)))
     _git("commit", "-q", "-m", f"Archive scene: {title}\n\nSaved from Claude Desktop via the wotr MCP server.")
     pcode, pout = _git("push", "-q", "origin", "master")
     pushed = "pushed to GitHub" if pcode == 0 else f"push failed: {pout[-300:]}"
     return f"saved {path.relative_to(ROOT).as_posix()} ({len(body.split())} words); {notion}; {pushed}"
+
+
+@server.tool()
+def wiki_write(path: str, markdown: str, message: str = "") -> str:
+    """Write a whole wiki page (the Obsidian vault; Notion is retired) and push it:
+    State of Play, the Ledger, a Front, any page. path is relative to wiki/, e.g.
+    'The Table — Running Pieces/State of Play — Sodoku Moto Kharven.md'. markdown is
+    the full page, frontmatter included if it has one; an existing page's frontmatter
+    is kept when markdown brings none. The public site rebuilds on push; pages in
+    private folders or with 'private: true' stay off it."""
+    rel = Path(path.strip().lstrip("/"))
+    p = (WIKI / rel).resolve()
+    if p.suffix != ".md" or WIKI.resolve() not in p.parents or rel.parts[0].startswith("."):
+        return "path must be a .md page inside wiki/"
+    body = markdown.strip()
+    if p.exists() and not body.startswith("---"):
+        fm = re.match(r"(?s)^---\n.*?\n---\n", p.read_text(encoding="utf-8"))
+        if fm:
+            body = fm.group(0) + "\n" + body
+    p.parent.mkdir(parents=True, exist_ok=True)
+    p.write_text(body + "\n", encoding="utf-8", newline="\n")
+    _git("add", "--", str(p.relative_to(ROOT)))
+    _git("commit", "-q", "-m", message or f"Wiki: {rel.as_posix()}\n\nWritten via the wotr MCP server.")
+    pcode, pout = _git("push", "-q", "origin", "master")
+    return f"wrote wiki/{rel.as_posix()} ({len(body.split())} words); " + ("pushed" if pcode == 0 else f"push failed: {pout[-200:]}")
 
 
 @server.tool()
@@ -293,7 +326,7 @@ def log_ruling(rule_id: str, ruling: str, context: str = "") -> str:
 
 @server.tool()
 def sync_now() -> str:
-    """Run build/sync.sh: Notion wiki -> repo, repo -> Notion, Drive documents, commit, push.
+    """Run build/sync.sh: commit and push wiki edits made in Obsidian (the site rebuilds), Drive documents.
     Takes a minute or two."""
     code, out = _run(["bash", str(ROOT / "build" / "sync.sh")], timeout=900)
     return out[-2000:] or f"exit {code}"
@@ -389,9 +422,9 @@ def _hybrid(root: Path, corpus: str, query: str, limit: int = 5) -> list[tuple[i
 
 @server.tool()
 def wiki(query: str, full: bool = True, limit: int = 6) -> str:
-    """Search the wiki mirror (381 pages) by meaning and by keyword. Returns the best
+    """Search the wiki (the Obsidian vault, the source since 2026-10-15) by meaning and by keyword. Returns the best
     matches with the passages that matched, and the full text of the top page (capped)
-    when full=True. Faster than Notion; up to an hour behind it. limit is how many
+    when full=True. limit is how many
     pages come back; raise it when surveying what exists rather than looking one up."""
     hits = _hybrid(WIKI, "wiki", query, limit=max(1, min(limit, 25)))
     if not hits:
@@ -443,7 +476,7 @@ def character(name: str) -> str:
         if key in p.stem.lower() or key in p.parent.name.lower():
             cands.append(p)
     if not cands:
-        return f"no card for '{name}' in the wiki mirror; check Notion before writing anything numeric about them"
+        return f"no card for '{name}' in the wiki mirror; check the Stat Sheet before writing anything numeric about them"
     cands.sort(key=lambda p: (0 if key == p.stem.lower() else 1, 0 if "character" in p.parent.name.lower() else 1, len(p.stem)))
     p = cands[0]
     text = _read(p)
@@ -550,29 +583,14 @@ def _inventory(culture: str) -> str:
 
 
 def _running_piece(title_part: str) -> str:
-    """A Running Pieces page: live from Notion when the token works, else the mirror."""
+    """A Running Pieces page from the wiki (wiki/The Table — Running Pieces)."""
     folder = WIKI / "The Table — Running Pieces"
     cands = sorted(folder.glob("*.md")) if folder.exists() else []
     match = [p for p in cands if title_part.lower() in p.stem.lower()]
     if not match:
         return f"(no Running Pieces page matching '{title_part}'; have: {', '.join(p.stem for p in cands)})"
     p = match[0]
-    text = p.read_text(encoding="utf-8", errors="replace")
-    pid = re.search(r'^notion_id:\s*"?([0-9a-f-]{36})', text, re.M)
-    tok = _env().get("NOTION_TOKEN")
-    if pid and tok:
-        try:
-            os.environ.setdefault("NOTION_TOKEN", tok)
-            from notion_export import block_md, children
-            lines = []
-            for b in children(pid.group(1)):
-                lines.extend(block_md(b, 0, {}))
-            live = "\n".join(lines).strip()
-            if live:
-                return f"# {p.stem}  (live from Notion)\n\n{live}"
-        except Exception:  # noqa: BLE001
-            pass
-    return f"# {p.stem}  (from the mirror, may be up to an hour old)\n\n{_read(p)}"
+    return f"# {p.stem}\n\n{_read(p)}"
 
 
 LOADOUTS = {
@@ -1144,7 +1162,7 @@ def cast_index(write: bool = True) -> str:
 
 
 # --------------------------------------------------------------------------
-# characters: create and update cards in Notion + the mirror; convert old material
+# characters: create and update cards in the wiki; convert old material
 
 CANON = TRUE_CANON  # WOTR_TRUE_CANON in ~/.config/wotr/env (was Documents\WOTR True Canon)
 FOW_XLSX = CANON / "FOW_Stat_and_Magic_System_Codex.xlsx"
@@ -1182,33 +1200,27 @@ def _find_page_id_by_title(title: str) -> tuple[str | None, str | None]:
     return None, None
 
 
-def _publish_helpers():
-    os.environ.setdefault("NOTION_TOKEN", _env().get("NOTION_TOKEN", ""))
-    import notion_publish as npub
-    return npub
-
-
-def _write_mirror(rel: str, title: str, pid: str, section: str, markdown: str, tags: list[str]) -> Path:
+def _write_mirror(rel: str, title: str, pid: str, section: str, markdown: str, tags: list[str], private: bool = True) -> Path:
+    """Write a wiki page (the Obsidian vault is the source since 2026-10-15) and record it in the manifest."""
     p = WIKI / rel
     p.parent.mkdir(parents=True, exist_ok=True)
     body = markdown.strip()
     if not re.match(r"^#\s", body):
         body = f"# {title}\n\n{body}"
-    fm = {"title": title, "notion_id": pid, "notion_url": f"https://www.notion.so/{pid.replace('-', '')}",
-          "section": section, "tags": tags, "last_edited": datetime.now().isoformat(timespec="seconds"), "verification": None}
+    fm = {"title": title, "notion_id": pid, "section": section, "tags": tags,
+          "last_edited": datetime.now().isoformat(timespec="seconds"), "private": private}
     head = ["---"] + [f"{k}: {json.dumps(v, ensure_ascii=False)}" for k, v in fm.items()] + ["---", ""]
     p.write_text("\n".join(head) + body + "\n", encoding="utf-8", newline="\n")
     m = _wiki_manifest()
-    m[pid] = {"rel": rel, "edited": fm["last_edited"], "title": title}
+    m[pid] = {"rel": rel, "edited": fm["last_edited"], "title": title, "private": private}
     WIKI_MANIFEST.write_text(json.dumps(m, indent=2, ensure_ascii=False), encoding="utf-8")
     return p
 
 
 @server.tool()
 def create_character(name: str, markdown: str, volume: str = "Volume I — Character Cards", tags: list[str] | None = None) -> str:
-    """Add a new character card: creates the Notion page under the given volume
-    (Volume I / III / IV / V — Character Cards, or 'Characters'), writes the wiki
-    mirror file, commits and pushes. markdown is the full card in the seventeen-section
+    """Add a new character card: writes the wiki page under the given volume
+    (Volume I / III / IV / V — Character Cards, or 'Characters'), commits and pushes. markdown is the full card in the seventeen-section
     format (see convert_character for the skeleton). Refuses a name that already has a
     card; use update_character for those. Numbers must come from the FOW tables or
     Isaac; anything estimated is marked pending in the card."""
@@ -1218,39 +1230,30 @@ def create_character(name: str, markdown: str, volume: str = "Volume I — Chara
     vol_id, vol_rel = _find_page_id_by_title(volume)
     if not vol_id:
         return f"no volume page named '{volume}' in the wiki mirror"
-    npub = _publish_helpers()
-    blocks = npub.md_to_blocks(markdown if re.match(r"^#\s", markdown.strip()) else markdown)
-    try:
-        pid = npub.create_page({"page_id": vol_id}, name, blocks)
-    except Exception as e:  # noqa: BLE001
-        return f"Notion refused the page: {str(e)[:300]}"
+    import uuid
+    pid = str(uuid.uuid4())
     section = _wiki_manifest()[vol_id]["title"]
     rel = f"{section}/{name}.md"
     p = _write_mirror(rel, name, pid, section, markdown, tags or ["Characters"])
     _git("add", "--", str(p.relative_to(ROOT)), "wiki/.manifest.json")
     _git("commit", "-q", "-m", f"Add character card: {name}\n\nCreated from Claude Desktop via WOTR MCP; page {pid} under {section}.")
     pcode, pout = _git("push", "-q", "origin", "master")
-    return f"created '{name}' in Notion under {section} (page {pid}), mirrored to {rel}; " + ("pushed" if pcode == 0 else f"push failed: {pout[-200:]}")
+    return f"created '{name}' at wiki/{rel}; " + ("pushed" if pcode == 0 else f"push failed: {pout[-200:]}")
 
 
 @server.tool()
 def update_character(name: str, markdown: str) -> str:
-    """Replace an existing character card's body in Notion (same page id, links
-    survive) and in the wiki mirror, then commit and push. markdown is the full
+    """Replace an existing character card's body in the wiki (same id, links
+    survive), then commit and push. markdown is the full
     replacement card, not a diff."""
     pid, rel = _find_page_id_by_title(name)
     if not pid:
         return f"no card named '{name}' in the wiki mirror; use create_character"
-    npub = _publish_helpers()
-    try:
-        npub.replace_body(pid, npub.md_to_blocks(markdown))
-    except Exception as e:  # noqa: BLE001
-        return f"Notion refused the update: {str(e)[:300]}"
     title = _wiki_manifest()[pid]["title"]
     section = rel.split("/")[0]
     old = _read(WIKI / rel) if (WIKI / rel).exists() else ""
     tags = []
-    p = _write_mirror(rel, title, pid, section, markdown, tags)
+    p = _write_mirror(rel, title, pid, section, markdown, tags, _wiki_manifest()[pid].get("private", True))
     _git("add", "--", str(p.relative_to(ROOT)), "wiki/.manifest.json")
     _git("commit", "-q", "-m", f"Update character card: {title}\n\nReplaced from Claude Desktop via WOTR MCP; page {pid}.")
     pcode, pout = _git("push", "-q", "origin", "master")

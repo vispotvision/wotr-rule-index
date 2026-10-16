@@ -6,6 +6,16 @@ direction: inside work he has asked for, make the calls; no "pending" slots.
 append a dated block, do not rewrite older ones (two sessions write this repo
 at once — `git pull` before editing, and commit only your own files).
 
+## State on 2026-10-16 (the elevated word bank retired)
+
+Isaac's direction: **R78-11-WORDS_FROM_THE_THING**. No fixed word list; each word
+is chosen from what the sentence describes. `desktop/style-bank/elevated-words.md`
+is deleted, verify_scene's elevated-density WARN removed (the fight-abstraction
+WARN stays), notes on R78-1 and R78-3. Swept: NATALIE.md, the Manual Verification
+Guide, BOOK_PIPELINE, SHARED_MEMORY; the skills, ChatGPT skills, Combat Craft
+Guide and the wiki carried no bank references. Older blocks below that name the
+bank are history. Old chapter briefs under `book/` still cite it; they are records.
+
 ## State on 2026-10-15 (system touch-ups and connections; Notion out of blocks)
 
 Isaac ran three more questionnaires (system-touchups, release forms, and a 16-batch

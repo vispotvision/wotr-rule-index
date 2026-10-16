@@ -1,5 +1,5 @@
 # Reconcile — wiki vs scenes vs index
-_Run 2026-10-15_
+_Run 2026-10-16_
 
 
 Mechanical checks only; each finding is a place for a human read.
@@ -15,9 +15,7 @@ Mechanical checks only; each finding is a place for a human read.
 
 ## Wellsprings named with a Family other than their own
 
-- Volume I — Character Cards/Azran Nemeir · The Gilded Draft.md: Phreatis · Fluxia (Family page says Vitalia)
-- Volume I — Character Cards/Cyrus Vellhar · The Azure Warden.md: Phreatis · Fluxia (Family page says Vitalia)
-- Volume I — Character Cards/Khasir Aluto · The Isocline Scribe.md: Phreatis · Fluxia (Family page says Vitalia)
+- none
 
 ## Stale-register residue
 

@@ -4535,7 +4535,7 @@
     "pack_number": null,
     "section": "C-036",
     "title": "The S/SS energy gap is deliberate and is ranked by the Sub-Stat column",
-    "status": "live",
+    "status": "superseded",
     "kind": "procedure",
     "summary": "The Part Four Grade table stands as written; an attack output between 24.3 and 41.8 TJ is ranked by the Sub-Stat column rather than by joules.",
     "verbatim": "The gap is deliberate. The Part Four Grade table stands exactly as written, and an attack output between 2.42672×10¹³ and 4.184×10¹³ J — 24.3 to 41.8 TJ — is ranked by the Sub-Stat column, not by joules.",
@@ -4557,7 +4557,7 @@
       "file": "",
       "lines": null
     },
-    "notes": "Closes CONFLICTS.md C-036. Because no cell changes, the three tables that carry the same break — FoW II:35-36, FoW III:41-42 and Tier Grade, Bands & the Aether Shell :60-61 — all stand as written and the question of which of them a correction would have had to name does not arise. C-038, the same shape in the travel-speed column, is not named by this ruling and stays open.",
+    "notes": "Closes CONFLICTS.md C-036. Because no cell changes, the three tables that carry the same break — FoW II:35-36, FoW III:41-42 and Tier Grade, Bands & the Aether Shell :60-61 — all stand as written and the question of which of them a correction would have had to name does not arise. C-038, the same shape in the travel-speed column, is not named by this ruling and stays open. Superseded 2026-10-15 by R78-10-SYSTEMS_CONNECT: canon's Grade-band gaps are closed with their claims kept; SS's floor drops to 5.8 kilotons (2.42672e13 J), so the S/SS gap and its carve-out are gone.",
     "superseded_by": []
   },
   {
@@ -37985,6 +37985,42 @@
     ],
     "verification": [],
     "notes": "Exact RULINGS.md paragraph under 2026-10-11 — R51-13-WORD_STOCK, applied to the index 2026-10-13 (it had stayed out of rules/, so load_rules kept serving R51-13's 'by ear: whatever the sentence needs'). Supersedes R51-13. Revives the elevated bank that R57-31 had superseded whole: R51-12's list less numinous (R57-31, WOTR sense only) and eldritch (cosmic stock, R74-45). The widened bank is desktop/style-bank/elevated-words.md. R51-11 collisions and the hard-ban lists stand. Amended 2026-10-14 by R78-3-PHYSICAL_AND_SATURATED: density saturated, stacking allowed, English of every root, POV reach picks which words.",
+    "superseded_by": []
+  },
+  {
+    "pack": "Directions 2026-10-14",
+    "pack_number": null,
+    "status": "live",
+    "supersedes": [],
+    "ratified": "Isaac, 2026-10-15, Claude Code chat: direction, scope answered by questionnaire",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "id": "R78-10-SYSTEMS_CONNECT",
+    "section": "connections-questionnaire",
+    "title": "How the systems connect: stacking, numbers, releases, tags, sects, fame, tournaments, economy, Malphas",
+    "kind": "mandate",
+    "summary": "Boosts stack to +2 Grades with fracture risk per layer; stat Grade decides contests, Aether Class sets eta, drain as time from full; Second Release powers the Domain; spending shown by a fixed tell ladder; fight Drafts refill; tags fuelled per tag, practitioners only; three roads meet each Catalyst; release forms canon with new card fields; disciple ranks in schools and houses; renown per audience, warrants and bounties, epithets; Stage-bracket tournaments; Draft prices x3 a Stage; Malphas the great villain over about ten numbered lieutenants; Well-spawn masks as weak points; proposed crews; skips through pass_time.",
+    "verbatim": "Isaac's direction 2026-10-15, by questionnaire (imports/drafts/connections-questionnaire/, 16 batches built from two ChatGPT reviews): how WOTR's systems connect. Stacking: power-ups from every source stack, capped at two Grades above the sustainable level; any number of layers may run at once, each adding fracture risk; help from allies, arrays and Domains stacks freely; every card carries a stack line. Numbers: the Grade of the stat in use decides a contest; Aether Class governs efficiency; drain is written as how long a working lasts from a full reserve; canon's arithmetic errors and Grade-band gaps are fixed with their claims kept. Releases and Domains: a Second Release opens and powers the Domain (the seed at Stage VII, the full Domain from VIII); a learned release spreads the strain so it does no structural damage inside its limit; when fields clash Dominion holds the ground and a read can flip it; a release may be held outside a fight at its cost. Spending: running low shows as a fixed ladder of body tells (half: breath and a dimming aura; a quarter: tremor and a thinning colour; a tenth: a flickering aura and a stuttering Trait); maxing out shows as heat, blood and a cracking aura; waste is loud and hot and mastery quiet; fight Drafts refill reserve freely. Reinforcement: at Starvation the active coat fails and the passive base sags; the coat extends to held gear but not to other people; masters can hide their power and reinforce at once; a sealed Crystal is rarely woken, at great cost. Tags: a tag's fuel depends on the tag (ambient Aether, the user's reserve, or the maker's stored charge); only practitioners can use them; licensed cutters make them, with a black market beside; a bonded weapon carries part of its owner's release. Breakthroughs: crisis, seclusion and tribulation are ways to meet each Stage's Catalyst; a tribulation is the current testing the practitioner; seclusion takes months, needs a guard and risks slag; a public breakthrough shows the full transformation. Release forms become canon with a Magic System page; every card gains aura colour and sound, releases and bonded weapon, vows and a stack line, and school, sect rank and renown; each culture's folk names for the releases are drafted now; major characters' releases are drafted for approval. Sects: schools and houses use disciple ranks while the guilds keep their own; disciples rise by ranking contests and the elders' word; rank opens secrets and resources and demands duty; defectors are hunted for what they know. Fame: renown is tracked per audience on the Ledger; it opens doors and draws challengers; the Accord posts warrants and sects, houses and guilds post bounties; epithets are given by others. Tournaments: Stage brackets, yielding allowed, killing forbidden and still happening; a fighter's own power is allowed and bought power banned; prizes are resources, places and fame; on Discord the Judger runs the brackets and an absent player fights by standing orders. Economy: Draft prices climb roughly threefold a Stage; the trade is licensed, taxed and smuggled; counterfeits are common and sometimes deadly; the cities get everything, the north trades in kind, the East through sects. Villain: one great villain over every thread, felt differently in each, and he is Malphas, over a numbered circle of about ten lieutenants; existing Fronts join his circle where their wants fit. Bestiary: only Well-born creatures are Hollow-style; Well-spawn are ranked by their Well's depth on the Grade ladder; the mask shows the Well and is the weak point; rare deep spawn speak, and some serve Malphas. Crews: Natalie proposes each thread's crew, rival and mentor from the roster for approval, and a crew forms around his PC only through offers his post accepts. Time: skips run through pass_time; they last months to years by arc; old scenes' events stand and their prose stays as history; major cards are updated now and the rest when next touched.",
+    "amends": [
+      {
+        "guide": "Notion wiki, The Magic System and Bestiary; the character card template",
+        "locus": "stacking, Drafts, tags, release forms, sects, Well-spawn",
+        "operation": "extends"
+      }
+    ],
+    "applies_to": [
+      "magic-mechanism",
+      "magic-design",
+      "stats",
+      "combat",
+      "character-sheet",
+      "worldbuilding",
+      "session-protocol"
+    ],
+    "verification": [],
+    "notes": "Retracts The Ladder and the Draft's 'no dose refills a reserve' for fight Drafts; the governing sentence (a Draft supplies the floor and a seed, never a Catalyst) stands. Settles the Class Ø page conflict (rarely woken, at great cost). Names Malphas, already on the forbidden path (R61-56), as the great villain. Two-Pressures-by-Dominion (R71-42) now also governs clashing releases. Release forms (imports/drafts/release-forms/release-forms.md) become canon by this row.",
     "superseded_by": []
   },
   {

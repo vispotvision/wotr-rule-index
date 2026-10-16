@@ -1,5 +1,5 @@
 {
-"run": "2026-10-15T03:30:00",
+"run": "2026-10-16T03:30:00",
 "findings": {
 "0e0f61e9722d": {
 "file": "commencement_of_the_curia_kujo_arc.md",
@@ -344,12 +344,12 @@
 "key": "ad2e4da2b1c5",
 "first_seen": "2026-09-23"
 },
-"01f6ecf8bd58": {
+"63f6882a4fdf": {
 "file": "CONTINUITY.md",
 "check": "prose",
-"text": "em dashes: 295 (banned; AI-tells §1, R15-1-AI_TELL_CHECKS_SURVIVE)",
-"key": "01f6ecf8bd58",
-"first_seen": "2026-10-15"
+"text": "em dashes: 305 (banned; AI-tells §1, R15-1-AI_TELL_CHECKS_SURVIVE)",
+"key": "63f6882a4fdf",
+"first_seen": "2026-10-16"
 },
 "dfd9dae83f50": {
 "file": "CONTINUITY.md",
@@ -2115,26 +2115,12 @@
 "key": "db3c1e629adf",
 "first_seen": "2026-09-13"
 },
-"e49144d71185": {
+"d682499da636": {
 "file": "Wellsprings named with a Family other than their own",
 "check": "reconcile",
-"text": "Volume I — Character Cards/Azran Nemeir · The Gilded Draft.md: Phreatis · Fluxia (Family page says Vitalia)",
-"key": "e49144d71185",
-"first_seen": "2026-09-24"
-},
-"4524b4c6aca7": {
-"file": "Wellsprings named with a Family other than their own",
-"check": "reconcile",
-"text": "Volume I — Character Cards/Cyrus Vellhar · The Azure Warden.md: Phreatis · Fluxia (Family page says Vitalia)",
-"key": "4524b4c6aca7",
-"first_seen": "2026-09-24"
-},
-"d77a8fa3c86f": {
-"file": "Wellsprings named with a Family other than their own",
-"check": "reconcile",
-"text": "Volume I — Character Cards/Khasir Aluto · The Isocline Scribe.md: Phreatis · Fluxia (Family page says Vitalia)",
-"key": "d77a8fa3c86f",
-"first_seen": "2026-09-24"
+"text": "none",
+"key": "d682499da636",
+"first_seen": "2026-10-16"
 },
 "575cc96b9ecd": {
 "file": "scenes/THE_KINGDOM_OF_KHARVEN_buri.md",

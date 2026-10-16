@@ -1,5 +1,5 @@
 # Prose-law pass over the scene archive
-_Run 2026-10-15_
+_Run 2026-10-16_
 
 
 Every FAIL is a hard rule; every WARN needs a read. Nothing was edited. Run `verify_scene` on a scene before revising it.
@@ -447,14 +447,14 @@ Every FAIL is a hard rule; every WARN needs a read. Nothing was edited. Run `ver
 - WARN no anatomical/injury vocabulary found in a combat scene (R13-6-ANATOMY_VOCAB, check 23)
 
 ## CONTINUITY.md
-- FAIL em dashes: 295 (banned; AI-tells §1, R15-1-AI_TELL_CHECKS_SURVIVE)
+- FAIL em dashes: 305 (banned; AI-tells §1, R15-1-AI_TELL_CHECKS_SURVIVE)
 - FAIL antithesis 'not X but Y': "Not a patch. A deliberate concealment." (R49-40-NOT_X_Y; AI-tells §1)
 - FAIL three consecutive sentences over 25 words (R4-14-CHAIN_CEILING)
 - FAIL flat runs: 51 stretches of three sentences within 40% of each other (R4-14-RUN_RULE)
 - FAIL sentences under 8 words: 8% of scene, floor is 18% (R4-14-HARD_CEILINGS)
 - WARN emotional signposting: "who was afraid" (AI-tells §4)
 - WARN modern word in narration: "boundaries" in "...ous stretch ending the night Muken dies; the file boundaries cut across it. Part 2's first..." (R48-13-PERIOD_FEEL, R49-44-MODERN_FLAGS; science sense is exempt, R49-45)
-- WARN digits for numbers up to one hundred in narration: 129 (R70-30-NUMBERS_WORDS_DIGITS: words up to one hundred, digits for system figures): "...: the column on the ice (7, 8, 9, 12b, 13..."; "...he column on the ice (7, 8, 9, 12b, 13, 1..."; "...column on the ice (7, 8, 9, 12b, 13, 14,..."; "...umn on the ice (7, 8, 9, 12b, 13, 14, 15a)..."
+- WARN digits for numbers up to one hundred in narration: 130 (R70-30-NUMBERS_WORDS_DIGITS: words up to one hundred, digits for system figures): "...: the column on the ice (7, 8, 9, 12b, 13..."; "...he column on the ice (7, 8, 9, 12b, 13, 1..."; "...column on the ice (7, 8, 9, 12b, 13, 14,..."; "...umn on the ice (7, 8, 9, 12b, 13, 14, 15a)..."
 - WARN Earth calendar word: "March" in "...e_true_king_of_the_north_part_2.md | The Ironwood March, ~12 years before the return..." (R51-08-CALENDAR; use the culture's own span)
 - WARN Earth calendar word: "March" in "...winter, and — years earlier — Zaehaerys rides the March to confront Fern over the p |..." (R51-08-CALENDAR; use the culture's own span)
 - WARN Earth calendar word: "March" in "...e_north_part_3.md | Fern's holdfast, the Ironwood March. Continuous | File's own date..." (R51-08-CALENDAR; use the culture's own span)
@@ -465,7 +465,7 @@ Every FAIL is a hard rule; every WARN needs a read. Nothing was edited. Run `ver
 - WARN Earth calendar word: "October" in "...onal local archive files are connected below. The October 8 backlog, earlier supplement..." (R51-08-CALENDAR; use the culture's own span)
 - WARN Earth calendar word: "October" in "...judications. The source notes date the writing to October 11; publication/edit dates ar..." (R51-08-CALENDAR; use the culture's own span)
 - WARN Earth calendar word: "October" in "...is not treated as a wrong-arm contradiction.  The October 13 C-129/C-130/C-131 agent ru..." (R51-08-CALENDAR; use the culture's own span)
-- WARN fight abstraction in narration: 8 (geometry, her line, his line, the line, the measure); say what the fist, foot, blade or body did (R78-3-PHYSICAL_AND_SATURATED)
+- WARN fight abstraction in narration: 9 (geometry, her line, his line, on the line, the line, the measure); say what the fist, foot, blade or body did (R78-3-PHYSICAL_AND_SATURATED)
 - WARN elevated density: 7% of narration sentences carry a bank word (floor 50%, target most; R78-3-PHYSICAL_AND_SATURATED)
 - WARN paragraphs closing on three sentences over 18 words: 3 (R4-14-HARD_CEILINGS says 0)
 - WARN European fencing jargon: Nach, Vor; describe body, blade, timing and measure in plain words (R77-1-EUROPEAN_FENCING_ACTIONS, check 22)

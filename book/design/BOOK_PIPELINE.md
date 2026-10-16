@@ -239,7 +239,7 @@ What it catches: the AI tells and the hard prose numbers. The mapping from findi
 | WARN | paragraph closing on three long sentences; paragraph-length CV < 0.35 | R4-14-HARD_CEILINGS, AI-tells §2 |
 | WARN | word count outside band (always `set-piece` for a chapter: 2,500 floor, no ceiling) | Table Rule 2 |
 | FAIL | Kharven: fewer than 2 of 5 signature items | R6-9-RECURRENCE_RULE |
-| WARN | combat: zero blade body/action / zero anatomy terms; fight abstraction in narration; low bank density | R77-1, R13-6-ANATOMY_VOCAB, R78-3 |
+| WARN | combat: zero blade body/action / zero anatomy terms; fight abstraction in narration | R77-1, R13-6-ANATOMY_VOCAB, R78-3 |
 
 This pass is the same as [EQ-Bench's slop score](https://eqbench.com/slop-score.html) and [AutoNovel's regex pass](https://github.com/NousResearch/autonovel/blob/master/ANTI-SLOP.md) in kind ("not X but Y", sentence-length variation, em-dash rate) but tied to the packs' rule ids, which is why it comes first. Its FAILs are never overridable by the reviser or by an `overrides` row; the only way one reaches the archive is Isaac's `approve` on an escalation, and then `archive_scene` is called with `verify=False` and the digest records it. Known blind spots (inventory §7.10): the HEMA regex counts everyday words (point, cut, guard, cross, edge, void), `split_sentences` skews on dialogue-heavy text, any `*…*` of three words counts as an interior beat; leave them as WARNs.
 

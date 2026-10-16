@@ -27,6 +27,16 @@ not private chat histories or a model's internal memory.
 
 ## Durable notes
 
+### 2026-10-16 — The elevated word bank is retired (Isaac's decision; recorded by Claude Code)
+
+R78-11-WORDS_FROM_THE_THING (`RULINGS.md` 2026-10-16): no fixed word list.
+Words are chosen from what the sentence describes, exact and resonant where
+earned, plain where plain is truer; no no-repeat rule, no density count.
+`desktop/style-bank/elevated-words.md` is deleted and verify_scene's
+elevated-density WARN removed. The 2026-10-13 note below that says to read the
+bank before drafting is stale on that point; R78-3's physical clarity and
+fight-abstraction WARN stand.
+
 ### 2026-10-15 — The wiki left Notion; it is the Obsidian vault, published as a designed site (Isaac's decisions; recorded by Claude Code)
 
 Isaac's decisions: Notion hit its free block limit and he would not pay, so the wiki

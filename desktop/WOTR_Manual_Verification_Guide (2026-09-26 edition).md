@@ -3,7 +3,7 @@
 > - **Check 23 (timeless register).** System and science terms, modern ones included, are free in narration; only slang stays out (R78-3).
 > - **Check 30 (combat vocabulary).** By hand, every exchange shows body, path, target and result; Eastern school terms are free, Western moves are plain strike words, and the line, measure, tempo, vector, geometry and the read are WARNed in narration (R78-3, verify_scene).
 > - **Check 31 (anatomy).** Narration names parts plainly (jaw, collarbone, ribs); the structural and clinical names live in the notes (R78-3).
-> - **New: elevated density.** verify_scene WARNs when fewer than half the narration sentences carry a word from `desktop/style-bank/elevated-words.md` (R78-3).
+> - **Elevated density: retired 2026-10-16 (R78-11).** The word bank and its WARN are gone; words are read by hand against what each sentence describes.
 > - **Readouts.** None inside a fight; only at a breakthrough, a re-assay or an arc's end (R78-6).
 > - **Endings.** A chapter or arc may close on a hook or cliffhanger (R78-7).
 

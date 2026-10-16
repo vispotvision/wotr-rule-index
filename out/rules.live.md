@@ -1,6 +1,6 @@
 # Live rules by domain
 
-1550 live of 1752 extracted.
+1551 live of 1753 extracted.
 
 ## adjudication (153)
 
@@ -2091,7 +2091,7 @@
 - **R48-43-SPEECHES** [Writing Law 2026-09-26 Characters and dialogue] Dialogue stays realistic under stress, but a trained speaker may deliver one crafted, eloquent speech at a big moment.
 - **R48-44-NAME_USE** [Writing Law 2026-09-26 Characters and dialogue] Narration refers to characters by POV epithets, the way the viewpoint sees them; the naming characterises.
 
-## prose-law (387)
+## prose-law (388)
 
 - **R20C-29-CATEGORY_NAMING_DIAGNOSTIC** [Pack Twenty R20C-29] Category naming in diagnostic voice: allowed.
 - **R20C-33-RESONANT_PAIRS_DIAGNOSTIC** [Pack Twenty R20C-33] Resonant Pair unlocks may be named in diagnostic voice.
@@ -2218,6 +2218,7 @@
 - **R78-6-POWER_ANIME_ON_PAGE** [Directions 2026-10-14 page-craft-questionnaire] Qi cultivation with Hunter x Hunter, Dragon Ball, Bleach and Naruto ideas: a personal coloured aura, full transformation power-ups, Stage-scaled damage shown, a signature sound per technique with anime flair, open sensing and talk of strength, vows central, held power revealed on planted hints, upsets across one Stage with a read, named staged release forms, and fewer readouts.
 - **R78-7-CULTIVATION_AND_STORY** [Directions 2026-10-14 page-craft-questionnaire] Breakthroughs by crisis, seclusion or tribulation; resources drive plot; xianxia ranks in WOTR institutions; real young masters; tournament, training, rescue and war arcs under one main villain revealed in stages with ranked lieutenants; understandable villains; rival to ally; mentors may die; bonds mostly hold; a core crew; the dead stay dead save rare costly returns; romance central; time skips; cliffhanger endings; Hollow-style Well-spawn; POV-eye fanservice.
 - **R78-8-VOICE_DIALOGUE_HUMOUR** [Directions 2026-10-14 page-craft-questionnaire] Thought woven through action; emotions anime-big; full phonetic accents; soldiers' swearing; plentiful mixed banter; action-beat tags; each culture's address; earned explanations and big lines; anyone funny in their own way, anime gags from the characters who do that; named people react to power; one italic thought per NPC a scene.
+- **R78-11-WORDS_FROM_THE_THING** [Directions 2026-10-14 R78-1-VOCABULARY_PUSHED_HIGH] The elevated word bank is retired; each word is chosen from the thing being described, exact and resonant where it earns it, plain where plain is truer; no list, no no-repeat rule, no density count. Exactness, English of every root, elevated verbs and plain body parts, POV reach and R78-3's physical clarity stand.
 - **R41-1-DISTANCE_IS_TWO_AXES** [Distance Two Axes Ruling C-015] R35-2's register (close, medium, distant/formal) says whose idiom the narration runs in; Pack Twenty's band (1 to 5) says how deep inside the POV it sits. Both assignments stand and neither trades off the other: Cozbi runs distant/formal at band 5.
 - **R23-11-NAME_AVOIDANCE_WAITING** [Inner World Naming Amendment XI] The name of the recently dead is unsayable until given on; the Waiting is the silence — the body waits in the death-house because the ground is frozen, and the name waits with it, leaving a hole in the household's vocabulary that everyone steers around.
 - **R73-1-EXPLICIT_SCENE_EARNS** [Intimacy Law 2026-10-04 K1] By default each explicit scene shows something about one partner's desire or refusal the reader did not know, whether or not a thread moves, with Rule 9's consequence still landing afterward, and a settled pair may have a night that is only pleasure and warmth, its consequence small: a habit, a mark, a witness.
@@ -2481,7 +2482,7 @@
 - **R48-43-SPEECHES** [Writing Law 2026-09-26 Characters and dialogue] Dialogue stays realistic under stress, but a trained speaker may deliver one crafted, eloquent speech at a big moment.
 - **R48-44-NAME_USE** [Writing Law 2026-09-26 Characters and dialogue] Narration refers to characters by POV epithets, the way the viewpoint sees them; the naming characterises.
 
-## register (203)
+## register (204)
 
 - **R20C-21-WELL_NAMES_CLASS_MARKED** [Pack Twenty R20C-21] Both names, class-marked. Guild register a Core Concentration; common tongue a Well; going in is a descent; the people are delvers, or well-rats if you dislike them.
 - **R20C-29-CATEGORY_NAMING_DIAGNOSTIC** [Pack Twenty R20C-29] Category naming in diagnostic voice: allowed.
@@ -2564,6 +2565,7 @@
 - **R78-3-PHYSICAL_AND_SATURATED** [Directions 2026-10-14 R78-1-VOCABULARY_PUSHED_HIGH] Blows written as body, path, target, result with plain strike names, never the line/measure/tempo/vector/geometry/the read; elevated English of every root in nearly every narration sentence, stackable, fights included; elevated verbs, plain body parts; workings shown physically then named in system and science terms freely; Latin-heavy diction only for characters who speak it.
 - **R78-4-WOTR_IDENTITY_TONE** [Directions 2026-10-14 page-craft-questionnaire] WOTR is a dark shonen cultivation fantasy in a magitech world: dark stakes, shonen heart, frequent wins at a price, cruelty only when earned; Arcane/FMA, Bleach and Naruto settings, Final Fantasy and LotM looks; magitech everywhere in cities; a beautiful, fantastical land; not muted, not driven home as grimdark.
 - **R78-8-VOICE_DIALOGUE_HUMOUR** [Directions 2026-10-14 page-craft-questionnaire] Thought woven through action; emotions anime-big; full phonetic accents; soldiers' swearing; plentiful mixed banter; action-beat tags; each culture's address; earned explanations and big lines; anyone funny in their own way, anime gags from the characters who do that; named people react to power; one italic thought per NPC a scene.
+- **R78-11-WORDS_FROM_THE_THING** [Directions 2026-10-14 R78-1-VOCABULARY_PUSHED_HIGH] The elevated word bank is retired; each word is chosen from the thing being described, exact and resonant where it earns it, plain where plain is truer; no list, no no-repeat rule, no density count. Exactness, English of every root, elevated verbs and plain body parts, POV reach and R78-3's physical clarity stand.
 - **R58-05-SWEARS_AND_SENSE_BANKS_APPROVED** [Follow-up Rulings 2026-09-26 Follow-up answers] The WOTR swears, sense banks, culture inventories, price table and narration registers are approved and canon; completes R51-35's draft-for-approval step.
 - **R23-10-CHINESE_PHONOTACTICS** [Inner World Naming Amendment X] Open syllables, permitted nasal codas, no clusters; avoid the wuxia register the base guide already warns off — no four-syllable given names, no sect-title constructions, no honorific stacking.
 - **R73-6-BED_WORDS_BY_CULTURE** [Intimacy Law 2026-10-04 SC1] In every POV, narration keeps one crude English for the words for the body, and each culture's own words for the body arrive in speech and italic thought, the way its swears do.

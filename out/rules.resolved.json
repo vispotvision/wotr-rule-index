@@ -37984,7 +37984,7 @@
       "register"
     ],
     "verification": [],
-    "notes": "Exact RULINGS.md paragraph under 2026-10-11 — R51-13-WORD_STOCK, applied to the index 2026-10-13 (it had stayed out of rules/, so load_rules kept serving R51-13's 'by ear: whatever the sentence needs'). Supersedes R51-13. Revives the elevated bank that R57-31 had superseded whole: R51-12's list less numinous (R57-31, WOTR sense only) and eldritch (cosmic stock, R74-45). The widened bank is desktop/style-bank/elevated-words.md. R51-11 collisions and the hard-ban lists stand. Amended 2026-10-14 by R78-3-PHYSICAL_AND_SATURATED: density saturated, stacking allowed, English of every root, POV reach picks which words.",
+    "notes": "Exact RULINGS.md paragraph under 2026-10-11 — R51-13-WORD_STOCK, applied to the index 2026-10-13 (it had stayed out of rules/, so load_rules kept serving R51-13's 'by ear: whatever the sentence needs'). Supersedes R51-13. Revives the elevated bank that R57-31 had superseded whole: R51-12's list less numinous (R57-31, WOTR sense only) and eldritch (cosmic stock, R74-45). The widened bank is desktop/style-bank/elevated-words.md. R51-11 collisions and the hard-ban lists stand. Amended 2026-10-14 by R78-3-PHYSICAL_AND_SATURATED: density saturated, stacking allowed, English of every root, POV reach picks which words. Amended 2026-10-16 by R78-11-WORDS_FROM_THE_THING: the bank is retired; words come from what is described.",
     "superseded_by": []
   },
   {
@@ -38021,6 +38021,37 @@
     ],
     "verification": [],
     "notes": "Retracts The Ladder and the Draft's 'no dose refills a reserve' for fight Drafts; the governing sentence (a Draft supplies the floor and a seed, never a Catalyst) stands. Settles the Class Ø page conflict (rarely woken, at great cost). Names Malphas, already on the forbidden path (R61-56), as the great villain. Two-Pressures-by-Dominion (R71-42) now also governs clashing releases. Release forms (imports/drafts/release-forms/release-forms.md) become canon by this row.",
+    "superseded_by": []
+  },
+  {
+    "pack": "Directions 2026-10-14",
+    "pack_number": null,
+    "status": "live",
+    "supersedes": [],
+    "ratified": "Isaac, 2026-10-16, Claude Code chat: direction",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "id": "R78-11-WORDS_FROM_THE_THING",
+    "section": "R78-1-VOCABULARY_PUSHED_HIGH",
+    "title": "No fixed word bank; words chosen from what is described",
+    "kind": "mandate",
+    "summary": "The elevated word bank is retired; each word is chosen from the thing being described, exact and resonant where it earns it, plain where plain is truer; no list, no no-repeat rule, no density count. Exactness, English of every root, elevated verbs and plain body parts, POV reach and R78-3's physical clarity stand.",
+    "verbatim": "Isaac's direction 2026-10-16: the fixed elevated word bank is retired. Words are chosen from the thing being described: whatever word fits what the sentence is showing, the exact and resonant one where the thing earns it, the plain one where plain is truer. There is no list to read before drafting, no no-repeat rule on bank words, and no density count. The bank file desktop/style-bank/elevated-words.md is removed and verify_scene's elevated-density WARN goes with it. Unchanged: the chosen word must carry more than its common substitute in meaning, sound or implication; English of every root; elevated verbs on the hit and plain body parts; the POV picks which words; speech follows each card; physical clarity and the fight-abstraction WARN (R78-3); the slop bans (R51-10, R70-35).",
+    "amends": [
+      {
+        "guide": "NATALIE.md and the wotr-write skill",
+        "locus": "Vocabulary and diction",
+        "operation": "replaces"
+      }
+    ],
+    "applies_to": [
+      "prose-law",
+      "register"
+    ],
+    "verification": [],
+    "notes": "Exact RULINGS.md paragraph under 2026-10-16. Amends R78-1 (the bank, its widening by ear, several to a page) and R78-3 (saturation measured by bank words, the bank-density WARN, the bank's new sections). build/verify.py drops BANK and DENSITY_FLOOR; build/test_r78_3.py keeps the fight-abstraction checks.",
     "superseded_by": []
   },
   {
@@ -38091,7 +38122,7 @@
       "magic-mechanism"
     ],
     "verification": [],
-    "notes": "Amends R78-1 (several-a-page density, one-per-phrase guard, Latinate lean; POV reach now picks which words, not how many), R78-2 (modern science words legal in narration; a commoner's own speech and thought keep their words), and R13-6 anatomy vocabulary for narration (plain part names). R77-1 stands and is widened: fight abstractions join the European jargon as WARNs (build/verify.py, test build/test_r78_3.py). Bank: desktop/style-bank/elevated-words.md gains Striking, Old and high English, Workings seen. Agent call under R72-2, Isaac may overturn: Hild and Sodoku saturate too, in short concrete English.",
+    "notes": "Amends R78-1 (several-a-page density, one-per-phrase guard, Latinate lean; POV reach now picks which words, not how many), R78-2 (modern science words legal in narration; a commoner's own speech and thought keep their words), and R13-6 anatomy vocabulary for narration (plain part names). R77-1 stands and is widened: fight abstractions join the European jargon as WARNs (build/verify.py, test build/test_r78_3.py). Bank: desktop/style-bank/elevated-words.md gains Striking, Old and high English, Workings seen. Agent call under R72-2, Isaac may overturn: Hild and Sodoku saturate too, in short concrete English. Amended 2026-10-16 by R78-11-WORDS_FROM_THE_THING: the bank and its density WARN are retired; the fight-abstraction WARN stands.",
     "superseded_by": []
   },
   {

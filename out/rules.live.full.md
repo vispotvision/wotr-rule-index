@@ -1,6 +1,6 @@
 # Live rules by domain, with source text
 
-1550 live of 1752 extracted. Newest pack first within each domain; the newer rule governs where two overlap.
+1551 live of 1753 extracted. Newest pack first within each domain; the newer rule governs where two overlap.
 
 ## adjudication (153)
 
@@ -12350,7 +12350,7 @@ Narration refers to characters by POV epithets, the way the viewpoint sees them;
 
 > Narration refers to characters by POV epithets, the way the viewpoint sees them; the naming characterises.
 
-## prose-law (387)
+## prose-law (388)
 
 ### R20C-29-CATEGORY_NAMING_DIAGNOSTIC [Pack Twenty R20C-29]
 
@@ -13101,6 +13101,12 @@ Breakthroughs by crisis, seclusion or tribulation; resources drive plot; xianxia
 Thought woven through action; emotions anime-big; full phonetic accents; soldiers' swearing; plentiful mixed banter; action-beat tags; each culture's address; earned explanations and big lines; anyone funny in their own way, anime gags from the characters who do that; named people react to power; one italic thought per NPC a scene.
 
 > Isaac's direction 2026-10-14, by questionnaire (imports/drafts/page-craft-questionnaire/, round 1 batches 5 to 7, round 2 batch 7, round 3 batch 1): voice, dialogue and humour. Thought, memory and feeling are woven steadily through the action. Emotions play anime-big throughout. Accents are written in full phonetic spelling. People swear like real soldiers and thugs, in English and their culture's oaths; nobles and priests barely. Banter is plentiful, a mixture of anime style with ribbing and jokes, because WOTR is its own thing. Dialogue tags are action beats, with said when needed. People address each other in their culture's own forms. A character explains a power aloud only from what they could know. Declarations, battle cries and villain speeches land at the moments that carry them, in each speaker's voice; catchphrases only where a card gives one. Anyone may be funny in their own way, and anime gags come from the characters who actually do that sort of thing, Borin and his kind. Banter and ribbing, anime reactions, dry and gallows wit, and crude and bawdy humour all fit. Big power draws reactions from specific named people in the crowd. NPCs keep one italic thought each per scene.
+
+### R78-11-WORDS_FROM_THE_THING [Directions 2026-10-14 R78-1-VOCABULARY_PUSHED_HIGH]
+
+The elevated word bank is retired; each word is chosen from the thing being described, exact and resonant where it earns it, plain where plain is truer; no list, no no-repeat rule, no density count. Exactness, English of every root, elevated verbs and plain body parts, POV reach and R78-3's physical clarity stand.
+
+> Isaac's direction 2026-10-16: the fixed elevated word bank is retired. Words are chosen from the thing being described: whatever word fits what the sentence is showing, the exact and resonant one where the thing earns it, the plain one where plain is truer. There is no list to read before drafting, no no-repeat rule on bank words, and no density count. The bank file desktop/style-bank/elevated-words.md is removed and verify_scene's elevated-density WARN goes with it. Unchanged: the chosen word must carry more than its common substitute in meaning, sound or implication; English of every root; elevated verbs on the hit and plain body parts; the POV picks which words; speech follows each card; physical clarity and the fight-abstraction WARN (R78-3); the slop bans (R51-10, R70-35).
 
 ### R41-1-DISTANCE_IS_TWO_AXES [Distance Two Axes Ruling C-015]
 
@@ -14674,7 +14680,7 @@ Narration refers to characters by POV epithets, the way the viewpoint sees them;
 
 > Narration refers to characters by POV epithets, the way the viewpoint sees them; the naming characterises.
 
-## register (203)
+## register (204)
 
 ### R20C-21-WELL_NAMES_CLASS_MARKED [Pack Twenty R20C-21]
 
@@ -15161,6 +15167,12 @@ WOTR is a dark shonen cultivation fantasy in a magitech world: dark stakes, shon
 Thought woven through action; emotions anime-big; full phonetic accents; soldiers' swearing; plentiful mixed banter; action-beat tags; each culture's address; earned explanations and big lines; anyone funny in their own way, anime gags from the characters who do that; named people react to power; one italic thought per NPC a scene.
 
 > Isaac's direction 2026-10-14, by questionnaire (imports/drafts/page-craft-questionnaire/, round 1 batches 5 to 7, round 2 batch 7, round 3 batch 1): voice, dialogue and humour. Thought, memory and feeling are woven steadily through the action. Emotions play anime-big throughout. Accents are written in full phonetic spelling. People swear like real soldiers and thugs, in English and their culture's oaths; nobles and priests barely. Banter is plentiful, a mixture of anime style with ribbing and jokes, because WOTR is its own thing. Dialogue tags are action beats, with said when needed. People address each other in their culture's own forms. A character explains a power aloud only from what they could know. Declarations, battle cries and villain speeches land at the moments that carry them, in each speaker's voice; catchphrases only where a card gives one. Anyone may be funny in their own way, and anime gags come from the characters who actually do that sort of thing, Borin and his kind. Banter and ribbing, anime reactions, dry and gallows wit, and crude and bawdy humour all fit. Big power draws reactions from specific named people in the crowd. NPCs keep one italic thought each per scene.
+
+### R78-11-WORDS_FROM_THE_THING [Directions 2026-10-14 R78-1-VOCABULARY_PUSHED_HIGH]
+
+The elevated word bank is retired; each word is chosen from the thing being described, exact and resonant where it earns it, plain where plain is truer; no list, no no-repeat rule, no density count. Exactness, English of every root, elevated verbs and plain body parts, POV reach and R78-3's physical clarity stand.
+
+> Isaac's direction 2026-10-16: the fixed elevated word bank is retired. Words are chosen from the thing being described: whatever word fits what the sentence is showing, the exact and resonant one where the thing earns it, the plain one where plain is truer. There is no list to read before drafting, no no-repeat rule on bank words, and no density count. The bank file desktop/style-bank/elevated-words.md is removed and verify_scene's elevated-density WARN goes with it. Unchanged: the chosen word must carry more than its common substitute in meaning, sound or implication; English of every root; elevated verbs on the hit and plain body parts; the POV picks which words; speech follows each card; physical clarity and the fight-abstraction WARN (R78-3); the slop bans (R51-10, R70-35).
 
 ### R58-05-SWEARS_AND_SENSE_BANKS_APPROVED [Follow-up Rulings 2026-09-26 Follow-up answers]
 

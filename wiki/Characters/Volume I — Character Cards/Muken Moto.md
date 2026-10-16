@@ -157,6 +157,24 @@ verification: null
 
 ---
 
+## Releases
+
+*Asami* is the Moto word a bonded blade answers to while it sleeps; every Moto blade is called by it before it is called awake. Muken's command for all three releases is **"Fure"** ("Shake"). Spoken aloud it brings the full rise; whispered or silent, the form comes weaker.
+
+**HIBI** · *The Hairline Crack* [First Release] · On "Fure", Asami starts to ring at the natural note of one thing in front of him: a single blade, bone, plate of armour or stone. Every made thing has a pitch it rings at when struck, and a glass will break if a voice holds its exact note long enough. Hibi holds that note through the steel while Fractura and his eye read the target's worst flaw, so the strain piles up at the tip of that one crack until it runs on its own, faster than the eye, through whatever the edge is touching. One crack, one target, one cut. It costs about 25,000 EU to wake and 4,000 EU a second to hold, paid as a dull heat behind the eyes and a tremor in the sword hand that grows with each new target he tunes to. It needs a flaw to read, so something freshly forged or truly whole gives it nothing to open, and it ends the moment the blade stops ringing. The tell is a thin, high whine off the blade and the target humming faintly before it fails. Counter it by killing the note (cold, padding, or a hand flat on the struck steel), by changing what he has to read before he can hold one pitch, or by offering nothing flawed.
+
+**HIBIWARE** · *The Crazing* [Second Release] · The single crack becomes a web. On "Hibiware" the blade rings at the note of everything around him at once, and the ringing goes out in great slow rings, the *hibiki*, felt in the long bones and the back teeth. Each ring finds every hairline flaw in whatever it passes through, glass, stone, steel, bone, and keeps feeding it, the way small loads repeated over years crack an axle, until the cracks run. The old books say it does not stop at matter: the world has a note of its own and a crazing in it like old glaze, and in Hibiware reality itself cracks and sways. As his Second Release it opens and powers the Ashen Mandate of Kharven. Smoke comes off him while it runs, the Crown Overclock boiling off his body, and the amber lines in his scars burn white; it costs about 180,000 EU to wake and 30,000 EU a second, with torn fibre and Crystal heat on top of the Overclock's own price. He used it once in sixteen years, against Malakar's three generals at the ice pass. A wave met by its opposite partly cancels, so cold, stillness and damping blunt it, and noise kills it outright: strike every crack out of step and the pushes cancel instead of adding, and a crack that branches into many spends its strain without ever running. The tell is the Kharven breath before it, in slow through the nose and long out through the mouth, and his eye beginning to turn.
+
+**NAIFURU** · *The Earth Shakes* [Hibiware, signature strike] · A single wide cut, usually flat across the body, that throws one sheet of hibiki out ahead of the edge like the wave off a ship's bow. Wherever the sheet passes the world crazes, and the cracks run ahead of it and close on the place the strike is aimed at. It passes through a guard rather than hitting it, finding the note of every bone in the body behind and lighting up every old break. He names it after it lands, as the old verdicts were given at Kharven-Seat. It costs about 60,000 EU on top of the release. He can aim the cracks at a different place from the one the edge points at, which makes it his best feint. A note of stillness held in the steel that receives it (Kurosetsu's frost) cancels much of it, leaving the body behind only a tremor.
+
+**ŌNAI** · *The Great Quake* [Third Release] · Never shown. Where Hibi opens one thing and Hibiware crazes everything near him, Ōnai is the whole world struck at its own note at once. Nothing in the record says what it costs or whether he could survive calling it twice.
+
+### Since the Return
+
+**REINITIALISATION** [Requiem construct property] · Raised by Malphas in seeded flesh around a soul Borin rebuilt to repeat its former self, Muken's body does not heal forward. Torn far enough from the pattern it held at his death, it goes back to that pattern the way a bent spring goes back to rest. He uses this on purpose: he reads his own fractures, breaks a corrupted limb along the line that carries the damage away, and lets it reset, and his Scar-Lattice Sovereignty then runs through the reset bone, so the same wound costs him less the second time. The reset needs the damage to be the kind the pattern can shed; harm too deep or too spread out for the template to throw off, or harm aimed at the template itself, stays. The tell is the ruined skin sloughing in curling flakes over a whole limb underneath.
+
+---
+
 ## Spirit Axes
 
 | Bond | Class | What it does |
@@ -218,7 +236,7 @@ verification: null
 
 ## Equipment
 
-**The Reforged Scrap-Iron Blade** · Rebuilt through coronation sigils and Hataraki scars. Channels Hametsu Kessan.
+**The Reforged Scrap-Iron Blade** · Rebuilt through coronation sigils and Hataraki scars. Channels Hametsu Kessan. Bonded; sealed name *Asami*, awakened as Hibi, Hibiware and Ōnai. Held in the Empire's keeping after his death as a trophy and a hostage in one, it answered his call across the Plane of Fate on his return, its matter spread into threads of probability along a line across the world and gathered again in his palm.
 
 **Bracer of the Kept Debt** · Oath-tier. Stabilises overclocked Hataraki use.
 

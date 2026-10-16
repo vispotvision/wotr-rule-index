@@ -138,6 +138,18 @@ verification: null
 
 ---
 
+## X.V · Releases
+
+Like every bonded Moto blade, Kurosetsu answers to *Asami* while it sleeps. Sodoku's command is **"Shizume"** ("Be still"), from *shizumeru*, to quell or lay to rest, the root of *chinkon*, the rite for quieting the restless dead. Spoken aloud it brings the full rise; whispered or silent, the form comes weaker.
+
+**NAGI** · *The Dead Calm* [First Release, open at Stage VI] · The stillness of the sea at dawn, when the wind drops and the water lies flat as glass. On "Shizume", the frost in Kurosetsu's reforged resonance array takes hold of every vibration within about ten paces of the blade and answers it with its opposite, so a wave meets its own inverse and cancels. Whatever motion is left bleeds away as cold, since cold is simply stillness at the smallest scale. Sound dies, ringing steel goes dead in the hand, tremors flatten, and a blade swung into the calm arrives slower than it left. It is the answer to his father's art: where Hibi and Hibiware make things ring, Nagi makes them fall silent. It costs about 20,000 EU to wake and 2,500 EU a second to hold, paid in the cold coming back into his own hands and forearms as numbness and, held long, frostnip. It also stills him: his own speed inside it drops, and the Kamigan reads sluggishly through the cold. Force too large and too disordered to answer, such as noise or Calamity, swamps it; heat feeds motion back faster than the calm can take it out; and pure steady pressure with no vibration in it gives it nothing to cancel. The tell is his breath-plume freezing in the air in front of his face and every sound within ten paces going flat, like a room hung with snow.
+
+**SHIMOBASHIRA** · *Needle Ice* [Nagi, signature strike] · On freezing nights, columns of ice grow up out of wet ground and lift the soil and stones on their tips. Shimobashira is a rising cut from gedan, low guard, upward through the target, and as it passes, Nagi's cold draws the water in the ground under the target, and in the target itself, up to the freezing edge, where it locks into needle columns that heave upward. Footing breaks, joints jam, and flesh is split from inside along the lines the ice grows. It costs about 14,000 EU on top of the release. It needs water to work with, so dry ground, fire or a body kept hot gives it little, and it is slow to grow. The tell is a white bloom of frost spreading across the ground under the target a breath before the cut. Counter it by moving off the frosting ground or keeping the ground or the body hot.
+
+**CHINKON** · *The Requiem* [Second Release, locked until Stage VII] · The quieting of souls. The record holds only its shape: a stillness laid not on things but on what animates them against their nature, the bound, the seeded and the raised, laying them back down, and opening his Kōkan Totality Domain. It cannot be called in a Stage VI body. What would break him through is the open question his father's return has put to him.
+
+---
+
 ## XI–XII · Axes and Resistances
 
 **Muken** *(father, dead)* — Foundational, still active. **Every ranking the Kamigan delivers answers a question his father taught him to ask.**
@@ -165,7 +177,7 @@ Near-black hair with a **Kōkan violet-cast in direct light**, heavy and straigh
 | **Voice** | **Slow iron cadence. Full, formal sentences, never a contraction, never small talk. Moves before he decides to.** When he speaks he says the whole of it, already ranked before it leaves him. **Processes rooms rather than scanning them.** He never means a joke; now and then a flat truth lands as one and he does not notice. Under stress goes quieter and shorter, not louder, *and reaches for the beads when no one is watching* |
 | **Dialogue Evolution** | At nineteen, grief-as-fuel. At twenty-two, more complex — **not softer, not cleaner, different, the way scar tissue differs from the skin it replaced** |
 
-**Kurosetsu — Black Verdict** · Ruins-inscribed practice blade, **below Guild Accord combat classification on paper.** *What it cuts does not read as below-grade regardless of the specification.*
+**Kurosetsu — Black Verdict** · Ruins-inscribed practice blade, **below Guild Accord combat classification on paper.** *What it cuts does not read as below-grade regardless of the specification.* Bonded; sealed name *Asami*, awakened as Nagi, and Chinkon once he reaches Stage VII. Its reforged frost resonance array is what cancelled much of his father's Naifuru.
 
 **Covenant Beads** · Non-magical, his father's, jade and iron worn smooth. **The only object carried continuously since the exile began.**
 

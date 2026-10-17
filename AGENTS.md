@@ -19,19 +19,18 @@ direction to act on writing requests instead of stopping at a Scene Menu.
 Isaac's current direction remains first. If the connector is unreachable,
 report that and stop; never substitute remembered WOTR instructions.
 
-### Law reading before prose (Isaac, 2026-10-11, revised the same day)
+### Law reading before prose (Isaac, 2026-10-17, R79-2; the same for every model)
 
-Every model, the same way. Once a session, before the first WOTR drafting or
-revision, read the whole live rulebook as one line per rule:
-`load_rules(tags=[], brief=True)`, about 1,550 lines. Where a client truncates
-long results, take it as `part=1` through the last part the header names (four
-today) and read every part. Then, for each task, load the full authoritative
-wording for its domain tags (`load_rules(tags=[...])`), run `check_docket` on
-the same tags, and pull `rule(id)` for any rule outside them whose one line is
-not enough. Read the rulebook again after compaction. A fetch is not a read;
-never claim coverage you have not done, or a literary pass from the verifier.
-This replaces the morning's full word-for-word reading before every task, which
-Isaac set aside as too costly: it crowded out the card and the scene.
+Claude, ChatGPT and Codex load the law the same lean way. Once a session,
+before the first WOTR drafting or revision, read the whole live rulebook in
+brief, one line per rule: `load_rules(tags=[], brief=True)`. Where a client
+truncates long results, take it as `part=1` through the last part the header
+names and read every part. A domain's full text is loaded the first time a
+task touches it (`load_rules(tags=[...])`), and `rule(id)` pulls any rule whose
+one line is not enough. The rulebook is never re-read after compaction. An
+open docket item that touches the work is decided at the table and the writing
+goes on (R79-2). A fetch is not a read; never claim coverage you have not done,
+or a literary pass from the verifier.
 
 After `CLAUDE.md` and the newest `CONTINUE.md` block, read `SHARED_MEMORY.md`.
 Claude Code, Codex and Antigravity use this same file for durable WOTR working
@@ -59,13 +58,15 @@ War of the Realms (WOTR) is Isaac's fiction world; this repo is its desk.
   Natalie's prose copies, and that folder also holds the table's **Docket**
   (`Open Rulings — The Docket.md`) — the rulings Isaac still owes.
   Four POVs have a State of Play page: Sodoku Moto (Kharven), Hild Ice
-  (Kharven-Seat), Kwon Mu-jin (Hon-guk), Ilthára Korvaeth (New World).
+  (Kharven-Seat), Kwon Mu-jin (Hon-guk), Ilthára Korvaeth (New World); those
+  pages are retired since 2026-10-17, historical and no longer maintained, and
+  the archived scenes are the current state.
   `table/fronts.yaml` knows two thread strings, "Kharven thread, the year
   after" and "New World, the Korvaeth War". `session_start` takes the POV
   name; `fronts`, `due`, `roster` take the culture word. Some characters have
   more than one card in play (Sodoku Moto: the Volume I card and the Level-500
-  "Arctic Lion" page); the thread's State of Play says which — check before
-  you trust `fow_line`.
+  "Arctic Lion" page); the thread's latest archived scene says which; check
+  before you trust `fow_line`.
 - **WOTR MCP** (`build/mcp_server.py`, 45 tools) — what Claude Desktop
   ("Natalie"), Claude Code (`.mcp.json`), the Discord bot and the book pipeline
   use. **Without an MCP client, 21 of the read-only tools are a command line:**
@@ -211,7 +212,7 @@ python build/book_tools.py load_rules prose-law combat pov --brief
 python build/book_tools.py loadout duel                                # the tags for a scene type
 python build/book_tools.py character "Sodoku Moto"     due 1 Kharven     fronts Kharven
 python build/book_tools.py scene_context beat.md       # the lorebook for a draft or a beat — write it to a file first
-python build/verify.py draft.md --combat --culture Kharven --band set-piece
+python build/verify.py draft.md --combat
 python build/book_next.py --json                      # where the book stands (read-only)
 
 # these do the real thing — sync commits and pushes the wiki, nightly runs headless
@@ -243,38 +244,49 @@ unknown type silently returns `standard`). The closed tag vocabulary and what
 each tag means is `schema/applies_to.md`.
 
 1. `session_start "<POV>" <type> <culture>` — the loadout, the Docket, what
-   comes due, the Fronts, the State of Play, in one call.
+   comes due, the Fronts and the thread's last (historical) State of Play, in
+   one call, for the model's eyes only: nothing from it is printed as a recap
+   (R79-2).
 2. `load_rules` with the loadout's tags (`prose-law` for any prose; rules
    print newest first, standing rulings included, and the newer governs where
-   two overlap), then `check_docket` with the same tags. **The index's docket
+   two overlap), the full text of a domain on its first use, then
+   `check_docket` with the same tags. **The index's docket
    (`check_docket`, `out/docket.md`) is the current open list.** The wiki's
    "Open Rulings — The Docket" page is Natalie's copy and lags: a letter there
    that a later pack ratifies (Pack Twenty did for several) or that
    `RULINGS.md` closes is not open. What is genuinely open and touches the
-   scene is Isaac's before you draft.
-3. `character` and `fow_line` for anyone named; `scene_brief` for the fill-in
-   template; `scene_context <file>` (or `scene_recall "<moment>"`) for the
+   scene is decided at the table and the writing goes on (R79-2).
+3. `character` and `fow_line` for anyone named, once per scene; `scene_brief`
+   for the fill-in template, set pieces only (R79-2); `scene_context <file>` (or `scene_recall "<moment>"`) for the
    cards and the prior scenes on the same ground. `codex "<term>"` (or
    `build/codex.py find`) for any glyph, spell, formula or Wellspring the
    scene will work: The Master Codex read from the xlsx (Pack Eighteen 4a).
-4. After drafting: `verify_scene` / `build/verify.py` — every finding carries a
+4. After drafting: one `verify_scene` / `build/verify.py` a turn, every FAIL
+   fixed, WARNs read but not looped (R79-2); every finding carries a
    rule id or a Table Rule number; `codex_check` / `build/codex.py check` for
    Pack Eighteen checks 37-39; `voice_check` for a line that must sound
    like its speaker.
-5. Nothing is archived by an agent. `archive_scene`, `log_ruling`,
-   `ledger_add`, `advance_front`, `npc_set`, `create/update_character` write
-   to the wiki and git on Isaac's word only — through Claude Desktop, the bot, or
+5. At the table, when a scene ends Natalie archives it with `archive_scene`
+   and keeps the Ledger, Fronts and NPC roster current in the background
+   (`session_end`, `ledger_add`, `advance_front`, `npc_set`), nothing printed
+   unless he asks (R79-2 as refined 2026-10-17); there is no State of Play
+   rewrite. `log_ruling` records Isaac's rulings and agent rulings.
+   `create/update_character` (card changes, new techniques, Level points) run
+   on Isaac's word only; the Judger's queue still goes through
    `build/judger_apply.py` with the ids he names. `propose_rule` files a
    proposal for a later pack and is ordinary work when he has asked for one.
 6. A ruling made in play goes to `RULINGS.md` and is applied to `rules/*.yaml`
    later, in an index session, one commit per ruling batch, then `validate.py`
    and `resolve.py`. Never edit `rules/` from a prose session.
 
-Names, stats, items and techniques come from ratified banks and tables (the
-wiki's Living System pages, `RULINGS.md`), never invented; an ambiguous source
-means `null` and a log line, not a guess. An NPC with no card gets an
-`npc_set` proposal through the Judger's assistant, not a card you make up; a
-beat that would reopen a closed Front is Isaac's call.
+Stats, items and techniques come from ratified tables (the wiki's Living
+System pages, `RULINGS.md`), never invented; an ambiguous source means `null`
+and a log line, not a guess. A name only has to sound right for its culture,
+the element banks are reference (R79-7), and in play Natalie invents texture,
+places, words and minor people where nothing on file covers them, canon once
+in an archived scene (R79-4). An NPC with no card gets a roster entry
+(`npc_set`, kept quietly), not a card you make up; a beat that would reopen a
+closed Front is Isaac's call.
 
 ## Rules of the road
 
@@ -299,7 +311,7 @@ words; nothing invented; stop at phase ends; the validation gate). In addition:
   The base craft guides in `~/wotr-vault/true-canon` are never overwritten:
   a change is a new dated edition beside the original, with a changelog.
 - **Claude Cowork** is Claude Code run by Claude Desktop, with the app's
-  connectors (Notion, Drive, Trello, Gmail) beside the MCP. `desktop/COWORK.md`
+  connectors (Drive, Trello, Gmail; Notion is frozen and never written) beside the MCP. `desktop/COWORK.md`
   binds it: a connector reads freely and writes canon on Isaac's word only,
   through the MCP writer where one exists; `CLAUDE.md` and this file are never
   rewritten as "folder instructions".

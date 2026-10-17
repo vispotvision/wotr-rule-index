@@ -17,10 +17,10 @@ reading, not a licence for you to silently mark rules dead.
 ## Nothing waits on Isaac (his direction, 2026-09-25)
 Recording a conflict is still the first step, and extraction still never marks a
 rule dead on its own. But a recorded conflict does not sit waiting for Isaac: it
-is ruled, openly, by the Paperclip docket (Doc Kett, reviewed by Rhett Konn and
-Gemma Nye) under the precedence ladder in the `wotr-conflict` skill, logged with
-`log_ruling` as an **agent ruling** that names its grounds, and applied. Isaac
-reads the day's agent rulings in `CONTINUE.md` and may overturn any of them; an
+is ruled openly by Natalie under the canon hierarchy in `desktop/NATALIE.md`,
+logged with `log_ruling` as an **agent ruling** that names its grounds, and
+applied. Isaac reads the agent rulings in `RULINGS.md` and may overturn any of
+them; an
 overturn is a new ruling, never a silent edit. `RULINGS.md` is written only
 through `log_ruling`, never edited by hand or committed from a worktree.
 
@@ -34,12 +34,14 @@ No rule IDs that do not trace to a section. No `applies_to` tags outside
 `schema/applies_to.md`. No guides named in `amends` that do not exist in the
 project. If something is genuinely ambiguous, set the field to `null` and log it.
 
-## Scope discipline
-Read `CONTINUE.md` first: it is the live state, and two sessions often write
-this repo at once — commit only your own files. One pack per commit. Stop at
+## Scope discipline (Isaac's direction, 2026-10-17: by task)
+A writing or roleplay session reads `desktop/NATALIE.md` and the brief
+rulebook, and nothing else is required before play. Rules and code work also
+reads the latest `CONTINUE.md` block (the live state; older blocks are in
+`CONTINUE_HISTORY.md`) and `SHARED_MEMORY.md`: two sessions often write this
+repo at once, so commit only your own files, one pack per commit, and stop at
 the end of each phase of the job at hand (`BRIEF.md` for a pack extraction,
-`ROADMAP.md` otherwise) and report. Do not run ahead into the next phase
-because it seems easy.
+`ROADMAP.md` otherwise) and report.
 
 ## Validation gate
 `python build/validate.py` must exit 0 before you claim a pack is done. If a
@@ -60,6 +62,6 @@ the constraints above still bind anything written to disk.
 
 ## Shared WOTR working memory
 
-Read `SHARED_MEMORY.md` after the latest `CONTINUE.md` block at session start.
-Keep durable WOTR working notes there using its update protocol, so Claude Code,
-Codex and Antigravity share the same record.
+For rules and code work, read `SHARED_MEMORY.md` after the latest `CONTINUE.md`
+block. Keep durable WOTR working notes there using its update protocol, so
+Claude Code, Codex and Antigravity share the same record.

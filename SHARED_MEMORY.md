@@ -27,6 +27,20 @@ not private chat histories or a model's internal memory.
 
 ## Durable notes
 
+### 2026-10-17 — R79: the table made lean (Isaac's decisions; recorded by Claude Code)
+
+Two questionnaires (`imports/drafts/prose-rp-questionnaire/`,
+`imports/drafts/coverage-questionnaire/`) became R79-1 to R79-12
+(`rules/doc-directions-2026-10-17.yaml`). For every model: load the brief
+rulebook once, a domain on first use, no re-read after compaction; Natalie may
+write Isaac's PC (never other creators' characters, never a guest's on Discord);
+~3,500 words every in-fiction reply; nothing printed under a turn; scene end is
+`session_end` (silent upkeep of Ledger, Fronts, roster and cards, plus archive);
+no rhythm, length or count rules; State of Play pages and the judger are
+retired; improving his post is a free rewrite toward his intent. Older notes
+here about keep-every-beat, tells-only roleplay fights, the OOC foot or the
+close are superseded.
+
 ### 2026-10-16 — The elevated word bank is retired (Isaac's decision; recorded by Claude Code)
 
 R78-11-WORDS_FROM_THE_THING (`RULINGS.md` 2026-10-16): no fixed word list.

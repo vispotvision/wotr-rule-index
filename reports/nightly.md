@@ -1,27 +1,26 @@
-# Nightly — 2026-10-16 03:30
+# Nightly — 2026-10-17 03:30
 
 ## Overnight
 
-Quiet night. Validate passes, the docket is empty, one conflict is still open, and no scenes were archived, so there was nothing new to check.
-The one real change: CONTINUITY.md went from 295 em dashes to 305. That means something wrote ten more into it yesterday. It's a scenes index, not prose, so it doesn't matter for the table, but whatever writes it is still putting them in.
-Cleared: the three cards (Azran Nemeir, Cyrus Vellhar, Khasir Aluto) that put Phreatis under Fluxia no longer show the mismatch.
-What needs you this morning, in this order. First, the sync: 5 push failures in the last 26 hours, and one commit is still sitting local. I'd run `git status` and `git push` by hand and see what it says before the wiki drifts further from the site.
-Second, the Judger queue: 93 proposals across three scenes. Recalescence is the biggest at 43, so I'd start with `/judger 08_sodoku_recalescence`.
-Third, both books are stopped at their chapter 1 gate, kharven-year and night-watch-zombification. Nothing more gets written on either until you approve or reject.
-The backup line still points at the 10-11 zip. If it's meant to run nightly, it hasn't run for five days.
+Nothing needs you for the machine this morning: validate passes, the sync pushed three times with no failures, and the backup is on schedule (Sunday's zip, six days old). The docket is empty and one conflict is still open.
+Four scenes landed: Hibiware, The Chains and the Arm, The Eight Calamities and The Septarch Wakes. All four verify clean, with no FAILs.
+Names in them with no wiki page: Sonzai (all four; another creator's character, so that page is theirs to give), Kurosetsu (three), Naifuru and Kamigan (two each), and Malakar, Requiem, Fractura, Asante, Ashura and Verona. The Eight Calamities also names five with no page: Yasomagatsu, Nihiloth, Wazawai, Kegare and Midare. If those five are the Calamities themselves, they're the ones to page first, before anyone writes a number on them.
+Four new reconcile findings, and two of them are real. "Continuity map ×43" is Notion-export cruft: the extra copies in The Scene Archive carry hash suffixes like "(3e458200)". I'd delete everything but the plain Continuity map.md. "The Veil ×2" is one page under Cosmology (The Making of the World) and one under The Disciplines/Spellcraft. They may be two different subjects with one title, so I'd rename the Spellcraft one rather than merge them. The other two "findings" are checks that came back "none" and are being counted as new. That's a digest bug, so the real NEW count is 2.
+Both books are still stopped at chapter 1, waiting on your approve or reject (book/kharven-year/ch01/GATE.md, book/night-watch-zombification/ch01/GATE.md). Nothing cleared overnight.
 
 ## Numbers
 
 - validate PASS
 - docket 0 outstanding
 - conflicts open 1
-- findings NEW 2 / CLEARED 4 / STILL OPEN 335
+- findings NEW 4 / CLEARED 0 / STILL OPEN 0
 
-## Judger queue (proposals awaiting Isaac)
+## Scenes archived since the last run
 
-- 01_wotr_muster_breach_road_north: 29 waiting — `/judger apply 01_wotr_muster_breach_road_north ...`
-- 04_sodoku_what_the_sky_does_not_ask: 21 waiting — `/judger apply 04_sodoku_what_the_sky_does_not_ask ...`
-- 08_sodoku_recalescence: 43 waiting — `/judger apply 08_sodoku_recalescence ...`
+- `hibiware`
+- `the_chains_and_the_arm`
+- `the_eight_calamities`
+- `the_septarch_wakes`
 
 ## The book
 
@@ -32,20 +31,19 @@ The backup line still points at the 10-11 zip. If it's meant to run nightly, it 
 
 ## New findings since last night
 
-- [prose] CONTINUITY.md: em dashes: 305 (banned; AI-tells §1, R15-1-AI_TELL_CHECKS_SURVIVE)
+- [reconcile] Duplicate wiki pages (same title twice): The Veil ×2
+- [reconcile] Duplicate wiki pages (same title twice): Continuity map ×43
+- [reconcile] Card vs scene: Stage or Level stated differently: none found by pattern (Stage/Level within 80 characters of a first name)
 - [reconcile] Wellsprings named with a Family other than their own: none
 
 ## Cleared since last night
 
-- [prose] CONTINUITY.md: em dashes: 295 (banned; AI-tells §1, R15-1-AI_TELL_CHECKS_SURVIVE)
-- [reconcile] Wellsprings named with a Family other than their own: Volume I — Character Cards/Azran Nemeir · The Gilded Draft.md: Phreatis · Fluxia (Family page says Vitalia)
-- [reconcile] Wellsprings named with a Family other than their own: Volume I — Character Cards/Cyrus Vellhar · The Azure Warden.md: Phreatis · Fluxia (Family page says Vitalia)
-- [reconcile] Wellsprings named with a Family other than their own: Volume I — Character Cards/Khasir Aluto · The Isocline Scribe.md: Phreatis · Fluxia (Family page says Vitalia)
+- none
 
-## Still open: 335 (see reports/prose_pass.md, reports/reconcile.md; 40 files still carry Büri-register terms (312 hits) in all. Ruling 2026-09-12: Moto and Hataraki, not Ajiin. Governing forms in brackets.)
+## Still open: 0 (see reports/reconcile.md)
 
-## The sync and the backup (last 26 h)
+## The sync (last 26 h) and the weekly backup
 
-- sync: 6 push(es), 31 quiet run(s), 5 failure line(s):  push failed (1 earlier commit(s) still local)
-- backup:  wrote /home/oridon/wotr-backups/wotr-2026-10-11.zip (34.6 MB, 1208 files)
-- last run of this digest: 2026-10-15T03:30:00
+- sync: 3 push(es), 74 quiet run(s), 0 push failure(s)
+- backup: weekly (Sunday 03:00), last 2026-10-11 (6 day(s) ago, on schedule): wrote /home/oridon/wotr-backups/wotr-2026-10-11.zip (34.6 MB, 1208 files)
+- last run of this digest: never

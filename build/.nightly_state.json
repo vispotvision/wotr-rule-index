@@ -1,0 +1,33 @@
+{
+"run": "2026-10-17T03:30:00",
+"findings": {
+"828071c78f05": {
+"file": "Duplicate wiki pages (same title twice)",
+"check": "reconcile",
+"text": "The Veil ×2",
+"key": "828071c78f05",
+"first_seen": "2026-10-17"
+},
+"e2cab5aa8498": {
+"file": "Duplicate wiki pages (same title twice)",
+"check": "reconcile",
+"text": "Continuity map ×43",
+"key": "e2cab5aa8498",
+"first_seen": "2026-10-17"
+},
+"db3c1e629adf": {
+"file": "Card vs scene: Stage or Level stated differently",
+"check": "reconcile",
+"text": "none found by pattern (Stage/Level within 80 characters of a first name)",
+"key": "db3c1e629adf",
+"first_seen": "2026-10-17"
+},
+"d682499da636": {
+"file": "Wellsprings named with a Family other than their own",
+"check": "reconcile",
+"text": "none",
+"key": "d682499da636",
+"first_seen": "2026-10-17"
+}
+}
+}

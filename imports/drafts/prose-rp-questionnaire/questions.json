@@ -1,0 +1,48 @@
+{
+  "title": "Prose, conflicts and the table: what to remove for flow and consistency",
+  "started": "2026-10-17",
+  "batches": [
+    {
+      "id": "batch1_known",
+      "questions": [
+        {
+          "id": "K1",
+          "topic": "Rhythm statistics in verify_scene (R4-14 short floor 18% FAIL, chain ceiling FAIL, flat runs FAIL; R49-13 CV 0.80 WARN; paragraph-close and uniform-block WARNs)"
+        },
+        {
+          "id": "K2",
+          "topic": "'Saturated' / 'nearly every sentence' / 'two stack on one noun' (R78-1, R78-3, NATALIE heading) vs R78-11 'plain where plain is truer'"
+        },
+        {
+          "id": "K3",
+          "topic": "Kharven recurrence minimum, two of five per scene (R6-9; WARN in verify.py, FAIL in BOOK_PIPELINE)"
+        },
+        {
+          "id": "K4",
+          "topic": "NATALIE.md accretion: ◆ amendments over older text, short-form law summaries at the end repeating earlier sections"
+        }
+      ]
+    },
+    {
+      "id": "batch2_table",
+      "questions": [
+        {
+          "id": "T1",
+          "topic": "close: auto-apply vs item-by-item (R72-33 vs wotr-ledger/wotr-write/wotr-rp)"
+        },
+        {
+          "id": "T2",
+          "topic": "turn length 3,500 vs stop at first press (R49-30 vs R72-4)"
+        },
+        {
+          "id": "T3",
+          "topic": "five disagreeing length bands"
+        },
+        {
+          "id": "T4",
+          "topic": "per-turn tool overhead"
+        }
+      ]
+    }
+  ]
+}

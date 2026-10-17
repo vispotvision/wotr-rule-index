@@ -1,0 +1,104 @@
+{
+  "batch1_known": {
+    "K1": "Remove them all (Recommended)",
+    "K2": "Rich, but no count",
+    "K3": "Other: \"Get rid of this entirely\" (read: the minimum, its verify.py WARN and the book-pipeline FAIL all go)",
+    "K4": "Full consolidation (Recommended)"
+  },
+  "batch2_table": {
+    "T1_close": "Other: \"Get rid of this idea I don't need state of play etc that isn't essentially\"",
+    "T2_turn_length": "Other: \"Keep as 3,500 and you can write for my pc\"",
+    "T3_length_bands": "Other: \"3500\"",
+    "T4_turn_overhead": "Lean turns, full set pieces (Recommended)"
+  },
+  "batch3_followups": {
+    "F1_pc_scope": "Act, speak and think (Recommended)",
+    "F2_turn_stop": "Run to a real decision (Recommended)",
+    "F3_other_lengths": "3,500 for everything in-fiction",
+    "F4_scene_end": "Archive the scene only (Recommended)"
+  },
+  "batch4": {
+    "G1_cleanups": "Fix them, list each (Recommended)",
+    "G2_pc_explicit": "Yes, all of it (Recommended)",
+    "G3_docket": "Make the call, keep going (Recommended)",
+    "G4_rule_loading": "Brief once, domains on first use (Recommended)"
+  },
+  "batch5": {
+    "H1_under_turn": "Nothing at all",
+    "H2_rp_fights": "Full mechanism on page (reverses Table Rule 6 / R77-2 combat-roleplay tells limit)",
+    "H3_session_start": "Straight into play (Recommended)",
+    "H4_notice_quota": "Strike it everywhere (Recommended)"
+  },
+  "batch6_prose_shape": {
+    "P1_beat_shape": "One line of guidance (Recommended)",
+    "P2_one_liners": "The Weak Grade principle (Recommended)",
+    "P3_paragraphs": "Developed paragraphs, no check (Recommended)",
+    "P4_small_counts": "Drop all four: filter-verb rate, opener cap, fragment cap, simile pair WARN (ticked = drop entirely)"
+  },
+  "batch7_interior": {
+    "I1_npc_thoughts": "Free, no count, any mode",
+    "I2_emotion": "Anime-big, felt and thought (Recommended)",
+    "I3_iceberg": "Drop 'ten percent' (Recommended)",
+    "I4_meaning": "The Weak Grade wins (Recommended)"
+  },
+  "batch8_world": {
+    "W1_description": "Toolbox, no counts (Recommended)",
+    "W2_inventories": "Reference, no sizes (Recommended)",
+    "W3_invention": "Invent freely, canon on use (Recommended)",
+    "W4_no_inventory": "Write from the wiki (Recommended)"
+  },
+  "batch9_dialogue": {
+    "D1_speeches": "No cap (Recommended)",
+    "D2_speech_flaws": "The card decides (Recommended)",
+    "D3_sayings": "R78-8, card only (Recommended)",
+    "D4_old_tone": "Retire them all (Recommended)"
+  },
+  "batch10_register": {
+    "R1_narration": "The POV's own reach (Recommended)",
+    "R2_science_words": "Free for trained POVs (Recommended)",
+    "R3_accents": "Full phonetic, card sets weight (Recommended)",
+    "R4_genre_words": "Free the genre words (Recommended)"
+  },
+  "batch11_combat": {
+    "C1_floor": "Body, path, target, result (Recommended)",
+    "C2_readouts": "None inside a fight (Recommended)",
+    "C3_glow": "Strike it everywhere (Recommended)",
+    "C4_wounds": "Plain and anime on the page (Recommended)"
+  },
+  "batch12_mechanism": {
+    "M1_three_layers": "One clear causal line (Recommended)",
+    "M2_explainers": "Narration may, no voice cap (Recommended)",
+    "M3_fight_counts": "Only the fairness two (Recommended)",
+    "M4_battles": "Retire them as rules (Recommended)"
+  },
+  "batch13_fight_words": {
+    "N1_fight_figures": "In mouths, not narration (Recommended)",
+    "N2_shouted_names": "Speaker's choice",
+    "N3_world_magic": "Law stated, reasons kept (Recommended)",
+    "N4_fight_jargon": "Free, never required (Recommended)"
+  },
+  "batch14_intimacy_naming": {
+    "X1_bed_checks": "Drop all four: smell, sound, consequence-string, stock-touch (floor guard untouched)",
+    "X2_euphemisms": "Drop 'her core', keep the rest (Recommended)",
+    "X3_name_checks": "Sound rules only (Recommended)",
+    "X4_titles_jokes": "Halls stack; jokes are 'may' (Recommended)"
+  },
+  "batch15_scene_craft": {
+    "S1_your_post": "Keep your tense and person (Recommended)",
+    "S2_first_sight": "Full, but woven (Recommended)",
+    "S3_endings": "Hooks and concrete closes (Recommended)",
+    "S4_epithets": "POV's naming, no count (Recommended)"
+  },
+  "batch16_play": {
+    "Y1_research": "New things only, once (Recommended)",
+    "Y2_ability_talk": "Unprompted when you sketch (Recommended)",
+    "Y3_npcs_hooks": "Lies where they'd lie (Recommended)",
+    "Y4_verify": "Once a turn, fix FAILs (Recommended)"
+  },
+  "batch17_last": {
+    "Z1_conversion": "Mechanism terms only (Recommended)",
+    "Z2_mixed_rooms": "POV's culture leads (Recommended)",
+    "Z3_cutaways": "One marked-break rule (Recommended)",
+    "Z4_small_hits": "Misses summed, hits noted (Recommended)"
+  }
+}

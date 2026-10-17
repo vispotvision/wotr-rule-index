@@ -11,7 +11,6 @@
   python build/book_tools.py scene_menu "Sodoku Moto" --culture Kharven
   python build/book_tools.py verify book/x/ch01/draft_r0.md --band set-piece [--combat] [--culture Kharven]
   python build/book_tools.py gap_fill book/x/ch01/draft_r0.md
-  python build/book_tools.py voice_check "Sodoku Moto" "the line as written"
   python build/book_tools.py loadout standard             # the applies_to tags for a scene type
   python build/book_tools.py scene_context scenes/x.md    # the lorebook: every name's card/page, prior scenes, names with no page
   python build/book_tools.py roster Kharven              timeline
@@ -77,10 +76,6 @@ def main() -> int:
         print(M.verify_scene(md, a.combat, a.culture, a.band))
     elif t == "gap_fill":
         print(M.gap_fill(Path(x[0]).read_text(encoding="utf-8")))
-    elif t == "voice_check":
-        print(M.voice_check(x[0], x[1]))
-    elif t == "voice_fingerprints":
-        print(M.voice_fingerprints())
     elif t == "loadout":
         print(" ".join(M.LOADOUTS.get(x[0], M.LOADOUTS["standard"])))
     elif t == "scene_context":

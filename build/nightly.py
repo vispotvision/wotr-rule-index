@@ -4,14 +4,13 @@
   python build/nightly.py            # run everything, write the digest, save the state
   python build/nightly.py --dry-run  # write the digest, do not touch the state
 
-Runs validate, resolve, the three archive audits and the Büri sweep; hashes every
-finding by (file, check, text) against build/.nightly_state.json so the digest says
-what is NEW since last night, what CLEARED, and only counts what is still open
-(prose_pass carries a standing pile from pre-rule scenes). Adds the scenes archived
-since the last run (each is a `/judger <slug>` for the morning), the Judger queue,
-and the sync and backup logs. Nothing here edits canon; the audits write only under
-reports/. build/nightly.sh runs this at 03:30, lets Claude write the "Overnight"
-note at the top, and commits the digest. session_start shows the note.
+Runs validate, resolve and the reconcile audit; hashes every finding by (file, check,
+text) against build/.nightly_state.json so the digest says what is NEW since last night,
+what CLEARED, and only counts what is still open. Adds the scenes archived since the
+last run, where the books stand, and the sync (push health) and weekly backup lines.
+The recurrence report, the prose pass, the Büri sweep and the ChatGPT review are gone
+(R79-12). Nothing here edits canon; the audit writes only under reports/. build/nightly.sh runs this at 03:30, lets Claude write the "Overnight"
+note at the top, and commits the digest. The note is read in reports/nightly.md.
 """
 from __future__ import annotations
 
@@ -83,38 +82,13 @@ def main() -> int:
     open_c = len(re.findall(r"(?m)^\*\*Status:\*\*\s*open", conflicts.read_text(encoding="utf-8"))) if conflicts.exists() else 0
     numbers.append(f"conflicts open {open_c}")
 
-    # 2. the audits (each writes reports/<kind>.md) and the sweep
+    # 2. the reconcile audit (writes reports/reconcile.md)
     import audit as A
     findings: list[dict] = []
-    for fn, check, want in ((A.prose_pass, "prose", "- FAIL "), (A.reconcile, "reconcile", "- ")):
-        try:
-            path = fn()
-            findings += _findings_from_report(path, check, want)
-        except Exception as e:  # noqa: BLE001
-            lines += [f"## {check} audit failed", "", f"    {e}", ""]
     try:
-        A.recurrence()
+        findings += _findings_from_report(A.reconcile(), "reconcile", "- ")
     except Exception as e:  # noqa: BLE001
-        lines += ["## recurrence audit failed", "", f"    {e}", ""]
-    try:
-        import mcp_server as M
-        sweep = M.stale_names("all", max_files=200)
-        # "scenes/x.md  (100)" then an indented line of "Büri×34 [Moto], ..." — one finding per term per file
-        cur = ""
-        for ln in sweep.splitlines():
-            mm = re.match(r"^(\S+\.md)\s+\((\d+)\)\s*$", ln)
-            if mm:
-                cur = mm.group(1)
-                continue
-            if cur and ln.startswith("  ") and "×" in ln and not ln.lstrip().startswith(">"):
-                for term in re.findall(r"([^,\[\]]+?)×\d+ \[", ln):
-                    t = term.strip()
-                    findings.append({"file": cur, "check": "stale", "text": t, "key": _key(cur, "stale", t)})
-                cur = ""
-        sweep_head = sweep.splitlines()[0] if sweep else ""
-    except Exception as e:  # noqa: BLE001
-        sweep_head = f"stale_names failed: {e}"
-
+        lines += ["## reconcile audit failed", "", f"    {e}", ""]
     # 3. the diff against last night
     seen = state.get("findings", {})
     by_key = {f["key"]: f for f in findings}
@@ -128,18 +102,6 @@ def main() -> int:
     added = _git("log", f"--since={since}", "--diff-filter=A", "--name-only", "--pretty=format:", "--", "scenes/*.md")
     new_scenes = sorted({p for p in added.splitlines() if p.startswith("scenes/") and "/cast/" not in p
                          and Path(p).name not in ("CAST.md", "TIMELINE.md", "ARCS.md", "MANIFEST.md", "INDEX.md")})
-
-    # 5. the Judger queue
-    queue = []
-    for q in sorted((ROOT / "bot" / "queue").glob("*.judger.json")):
-        try:
-            j = json.loads(q.read_text(encoding="utf-8"))
-            done = {a["id"] for a in j.get("applied", [])}
-            waiting = [p for p in j.get("proposals", []) if p["id"] not in done]
-            if waiting:
-                queue.append((j.get("scene", q.stem), len(waiting)))
-        except Exception:  # noqa: BLE001
-            queue.append((q.stem, -1))
 
     # 6. where the book stands (the dispatcher ran at 02:00)
     books = []
@@ -170,9 +132,19 @@ def main() -> int:
         return keep
     sync = tail_log("sync.log")
     pushed = sum(1 for ln in sync if "pushed" in ln)
-    failed = [ln for ln in sync if "failed" in ln.lower()]
+    failed = [ln for ln in sync if "push failed" in ln]  # build/sync.sh alerts only on a failed push
     quiet = sum(1 for ln in sync if "no wiki changes" in ln)
-    backup = tail_log("backup.log", hours=24 * 8)
+    # The backup is WEEKLY (wotr-backup.timer, Sunday 03:00). The old line printed the last
+    # log line with its date cut off under a "last 26 h" heading, so a six-day-old zip read
+    # as a missed nightly run, and once the twelve-zip limit is hit the last line is a
+    # "pruned ..." line, not the zip. Show the newest "wrote" line with its date and age,
+    # and call it missing only past eight days.
+    wrote = [ln for ln in tail_log("backup.log", hours=24 * 8) if "  wrote " in ln]
+    if wrote:
+        age = (now - datetime.strptime(wrote[-1][:19], "%Y-%m-%d %H:%M:%S")).days
+        backup_line = f"weekly (Sunday 03:00), last {wrote[-1][:10]} ({age} day(s) ago, on schedule): {wrote[-1][21:]}"
+    else:
+        backup_line = "weekly (Sunday 03:00): MISSING, no zip written in the last eight days (build/backup.log)"
 
     # 8. the digest
     head = [f"# Nightly — {now:%Y-%m-%d %H:%M}", "",
@@ -181,9 +153,7 @@ def main() -> int:
             "## Numbers", "", "- " + "\n- ".join(numbers), ""]
     body = list(lines)
     if new_scenes:
-        body += ["## Scenes archived since the last run", ""] + [f"- `{Path(p).stem}` — run `/judger {Path(p).stem}` for the close" for p in new_scenes] + [""]
-    if queue:
-        body += ["## Judger queue (proposals awaiting Isaac)", ""] + [f"- {s}: {n} waiting — `/judger apply {s} ...`" for s, n in queue] + [""]
+        body += ["## Scenes archived since the last run", ""] + [f"- `{Path(p).stem}`" for p in new_scenes] + [""]
     if books:
         body += ["## The book", ""]
         for slug, s, note in books:
@@ -197,17 +167,17 @@ def main() -> int:
     body += ["## New findings since last night", ""]
     body += [f"- [{f['check']}] {f['file']}: {f['text'][:200]}" for f in new[:60]] or ["- none"]
     if len(new) > 60:
-        body.append(f"- ... and {len(new) - 60} more (reports/prose_pass.md, reports/reconcile.md)")
+        body.append(f"- ... and {len(new) - 60} more (reports/reconcile.md)")
     body += ["", "## Cleared since last night", ""]
     body += [f"- [{f['check']}] {f['file']}: {f['text'][:200]}" for f in cleared[:60]] or ["- none"]
-    body += ["", f"## Still open: {still} (see reports/prose_pass.md, reports/reconcile.md; {sweep_head})", ""]
-    body += ["## The sync and the backup (last 26 h)", "",
-             f"- sync: {pushed} push(es), {quiet} quiet run(s), {len(failed)} failure line(s)" + (": " + failed[-1][20:] if failed else ""),
-             "- backup: " + (backup[-1][20:] if backup else "no run in the last eight days"),
+    body += ["", f"## Still open: {still} (see reports/reconcile.md)", ""]
+    body += ["## The sync (last 26 h) and the weekly backup", "",
+             f"- sync: {pushed} push(es), {quiet} quiet run(s), {len(failed)} push failure(s)" + (": " + failed[-1][21:] if failed else ""),
+             "- backup: " + backup_line,
              f"- last run of this digest: {last_run or 'never'}", ""]
     REPORTS.mkdir(exist_ok=True)
     DIGEST.write_text("\n".join(head + body), encoding="utf-8", newline="\n")
-    print(f"nightly: {'; '.join(numbers)}; {len(new_scenes)} new scene(s); queue {sum(n for _, n in queue)}")
+    print(f"nightly: {'; '.join(numbers)}; {len(new_scenes)} new scene(s)")
 
     if not dry:
         for f in by_key.values():

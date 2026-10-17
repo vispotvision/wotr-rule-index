@@ -1,9 +1,11 @@
 #!/usr/bin/env bash
-# The nightly checks: build/nightly.py (validate, resolve, the audits, the Büri sweep,
-# the diff against last night -> reports/nightly.md), then Claude Code on the
+# The nightly checks: build/nightly.py (validate, resolve, the reconcile audit, new
+# archives, sync push health and the weekly backup, the diff against last night ->
+# reports/nightly.md; R79-12 dropped the recurrence report, the prose pass, the Büri
+# sweep and the ChatGPT review), then Claude Code on the
 # subscription writes the "Overnight" note at the top (build/nightly_prompt.md; the
 # only file it may edit is reports/nightly.md), then the digest and the audit
-# reports are committed and pushed. session_start shows the note next morning.
+# reports are committed and pushed. The note is read in reports/nightly.md (session_start no longer carries it, R79-8).
 #
 # Runs as the systemd user unit wotr-nightly.service, fired by wotr-nightly.timer
 # (daily 03:30). The unit files live in build/systemd/; build/systemd_setup.sh
@@ -68,7 +70,7 @@ else
 fi
 
 # commit the digest and the audit reports; nothing else
-paths=(reports/nightly.md reports/prose_pass.md reports/recurrence.md reports/reconcile.md build/.nightly_state.json out)
+paths=(reports/nightly.md reports/reconcile.md build/.nightly_state.json out)
 changes="$(git status --porcelain -- "${paths[@]}")"
 if [ -z "$changes" ]; then wotr_log "nothing to commit"; exit 0; fi
 # git add refuses the whole list when one pathspec matches nothing (a report an audit

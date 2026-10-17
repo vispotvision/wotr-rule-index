@@ -1,15 +1,18 @@
 #!/usr/bin/env bash
 # Autosave for the wiki: commits and pushes what changed in wiki/ (the Obsidian
 # vault, the source since 2026-10-15; Notion is retired and frozen), copies the
-# rendered Fronts, Ledger and NPC roster into the wiki's Running Pieces, refreshes
-# the search index and the Drive documents. The push rebuilds the public site.
+# rendered Fronts, Ledger and NPC roster into the wiki's Running Pieces (never State of
+# Play, retired 2026-10-17), refreshes the search index. The push rebuilds the public site.
+# The Drive step is gone (R79-12). It alerts only on a push failure: that is the one line
+# with "push failed" in build/sync.log and the one non-zero exit; every other step logs
+# "error" and carries on (build/nightly.py counts the "push failed" lines).
 #
 #   bash build/sync.sh
 #
 # Safe to run any time; if nothing changed, nothing is committed. Needs git
 # credentials already set up (gh auth login did that).
 #
-# Runs hourly as the systemd user timer wotr-sync.timer (the unit files are in
+# Runs every 15 minutes as the systemd user timer wotr-sync.timer (the unit files are in
 # build/systemd/; build/systemd_setup.sh installs them):
 #
 #   systemctl --user enable --now wotr-sync.timer
@@ -73,7 +76,7 @@ wotr_log "embed start"
 # below.
 run_tool embed_index.py
 if [ "$code" -ne 0 ]; then
-    wotr_log "embed failed (exit $code) with python at $WOTR_PYTHON"
+    wotr_log "embed error (exit $code) with python at $WOTR_PYTHON"
     log_tail 6 "    "
 else
     log_tail 1 "  "
@@ -82,31 +85,18 @@ fi
 # the Obsidian view (vault/, gitignored): the mirror with [[wikilinks]] injected
 run_tool vault_export.py
 log_tail 1 "  "
-if [ "$code" -ne 0 ]; then wotr_log "vault failed (exit $code)"; fi
+if [ "$code" -ne 0 ]; then wotr_log "vault error (exit $code)"; fi
 
-
-# Word documents for the Google Drive folder, when Drive is mounted (WOTR_DRIVE in
-# ~/.config/wotr/env names the mount; was G:\My Drive under Drive for Desktop)
-if [ -n "${WOTR_DRIVE:-}" ] && [ -d "$WOTR_DRIVE" ]; then
-    docs="$WOTR_DRIVE/War of the Realms — Documents"
-    wotr_log "docs start"
-    run_tool docs_export.py --out "$docs" --private-out "$WOTR_DRIVE/War of the Realms — Private"
-    log_tail 1 "  "
-    run_tool arcs_export.py --out "$docs/Arcs"
-    log_tail 1 "  "
-else
-    wotr_log "WOTR_DRIVE not set or not mounted; docs skipped"
-fi
 
 # make sure we are not committing on top of a stale checkout. Git writes warnings to
 # stderr (worktree prune failures and the like); only exit codes are judged from here on.
 # --autostash: the export has just dirtied wiki/, and a plain `pull --rebase` refuses to
 # run over unstaged changes (exit 128, nothing fetched), so without it the push was
-# rejected as non-fast-forward every hour origin had moved. The dirty files are stashed,
+# rejected as non-fast-forward every time origin had moved. The dirty files are stashed,
 # the rebase runs, and they come back; nightly.sh and book_dispatch.sh pull the same way.
 set +e
 git pull -q --rebase --autostash origin master >/dev/null 2>&1; code=$?
-if [ "$code" -ne 0 ]; then wotr_log "pull --rebase failed (exit $code); committing on the local branch anyway"; fi
+if [ "$code" -ne 0 ]; then wotr_log "pull --rebase error (exit $code); committing on the local branch anyway"; fi
 
 # When a stashed change collides with a commit that came down, git leaves the file with
 # conflict markers and still exits 0 (the stash entry keeps the original). Nothing is
@@ -114,7 +104,7 @@ if [ "$code" -ne 0 ]; then wotr_log "pull --rebase failed (exit $code); committi
 # markers would go up to origin and stay. A rebase stopped on a real conflict lands here too.
 unmerged="$(git diff --name-only --diff-filter=U 2>/dev/null)"
 if [ -n "$unmerged" ]; then
-    wotr_log "sync failed: conflict markers in $(printf '%s\n' "$unmerged" | wc -l) file(s) after the pull; nothing committed, resolve by hand: $(printf '%s\n' "$unmerged" | head -n 1)"
+    wotr_log "push failed: conflict markers in $(printf '%s\n' "$unmerged" | wc -l) file(s) after the pull; nothing committed, resolve by hand: $(printf '%s\n' "$unmerged" | head -n 1)"
     exit 1
 fi
 
@@ -124,7 +114,7 @@ fi
 paths=(wiki table scenes/CAST.md scenes/TIMELINE.md)
 changes="$(git status --porcelain -- "${paths[@]}")"
 if [ -z "$changes" ]; then
-    # a quiet hour still carries up a commit whose push failed earlier: last hour's, or
+    # a quiet run still carries up a commit whose push failed earlier: the last run's, or
     # the nightly's ("push failed (the sync will carry it up)")
     ahead="$(git rev-list --count origin/master..master 2>/dev/null)"
     if [ "${ahead:-0}" != 0 ]; then
@@ -138,7 +128,7 @@ fi
 n="$(printf '%s\n' "$changes" | wc -l)"
 git add -- "${paths[@]}"
 git commit -q -m "Wiki: $n file(s) edited" -m "Autosave of the Obsidian vault via build/sync.sh." -- "${paths[@]}" >/dev/null 2>&1; code=$?
-if [ "$code" -ne 0 ]; then wotr_log "commit failed (exit $code)"; fi
+if [ "$code" -ne 0 ]; then wotr_log "commit error (exit $code)"; fi
 git push -q origin master >/dev/null 2>&1; code=$?
 if [ "$code" -ne 0 ]; then wotr_log "push failed"; exit 1; fi
 wotr_log "pushed $n file(s)"

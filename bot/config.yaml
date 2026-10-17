@@ -16,7 +16,7 @@ intents:
 
 # Channels the write commands use (ids from the server).
 channels:
-  judger: 1392897715548979303      # admin-talk: proposed scenes, ledger candidates
+  # judger channel retired 2026-10-17 (R79-8)
   event_log: 1392902693835640862   # event-log: /event add posts its card here
   character_submission: 1392872079128400043   # the forum the sheet checker watches
 

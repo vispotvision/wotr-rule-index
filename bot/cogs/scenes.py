@@ -1,9 +1,10 @@
 """F2: /scene save — a thread, a span after a message link, or a pasted block becomes an
-archived scene (scenes/<slug>.md, the Notion Scene Archive, one commit); /event — an event
+archived scene (scenes/<slug>.md, the wiki Scene Archive, one commit); /event — an event
 on the table (table/events.yaml) and a card in #event-log.
 
-Judger and Scribe archive; a Player's /scene save posts the compiled scene and its
-verification report to the Judger channel instead, for the Judger to archive.
+/scene save archives only (R79-8, R79-12: the Judger close is retired): the compiled scene
+and its verification report go up where the command was run, with the Archive button, which
+the Judger or a Scribe presses. Nothing is posted to #judger.
 """
 import asyncio
 import re
@@ -75,30 +76,19 @@ class Scenes(commands.Cog):
     def __init__(self, bot: commands.Bot):
         self.bot = bot
         self.lock = asyncio.Lock()
-        self.judger_channel = int(bot.cfg.get("channels", {}).get("judger", 0) or 0)
         self.event_log = int(bot.cfg.get("channels", {}).get("event_log", 0) or 0)
 
     scene = app_commands.Group(name="scene", description="Save what was written here as an archived scene.")
 
     async def present(self, itx: discord.Interaction, title: str, md: str, script: str, notes: str):
-        """Verify, show the report, and offer the archive button (or route to the Judger)."""
+        """Verify, show the report, and offer the archive button (the Judger or a Scribe presses it)."""
         report = await asyncio.to_thread(_verify, md)
         words = len(md.split())
-        role = self.bot.table_role(itx.user)
         head = discord.Embed(title=f"Scene: {title}", colour=E.C_SCENE,
                              description=E._clip(f"{words:,} words · {notes}\n\n**Verification**\n{report}", E.DESC_MAX))
         file = discord.File(fp=__import__("io").BytesIO(md.encode("utf-8")), filename=f"{W.M._slug(title)}.md")
         send = itx.followup.send if itx.response.is_done() else itx.response.send_message
-        if role in ("judger", "scribe"):
-            await send(embed=head, file=file, view=ArchiveView(self, title, md, script, notes))
-        else:
-            ch = self.bot.get_channel(self.judger_channel)
-            if ch:
-                await ch.send(content=f"Proposed by {itx.user.mention} from {itx.channel.mention}:", embed=head, file=file,
-                              view=ArchiveView(self, title, md, script, notes + f" Proposed by {itx.user.display_name}."))
-                await send("Sent to the Judger's desk with its verification report.", ephemeral=True)
-            else:
-                await send("No Judger channel is configured; ask the Judger to run /scene save.", ephemeral=True)
+        await send(embed=head, file=file, view=ArchiveView(self, title, md, script, notes))
 
     @scene.command(name="save", description="Archive this thread, the messages after a link, or a pasted block as a scene.")
     @app_commands.describe(title="The scene's title (default: this thread's name)", source="Where the text comes from", link="With source=link: the first message to include", count="With source=thread: only the most recent N messages (default: the whole thread)")

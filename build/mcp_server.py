@@ -3,6 +3,8 @@
 
   python build/mcp_server.py           # stdio, what claude_desktop_config.json launches
   python build/mcp_server.py --http    # streamable HTTP on :8765 for a local MCP client (unused today)
+  python build/mcp_server.py --ops     # also the ops tools (or WOTR_MCP_OPS=1); default is the
+                                       #   writing core, CORE_TOOLS below (R79-12)
   python build/mcp_server.py --public  # --http --read-only, and a shared secret is required:
                                        #   Authorization: Bearer <token>, or the path /t/<token>/mcp
                                        #   (for Claude custom connectors, which cannot send headers).
@@ -19,7 +21,7 @@ Tools
                              wiki Scene Archive copy, one commit, pushed
   log_ruling(rule_id, ruling)      record a ruling in RULINGS.md so it gets applied
                              to the index next time Claude Code is in the repo
-  sync_now()                 run build/sync.sh (wiki edits -> GitHub -> site, Drive docs)
+  sync_now()                 run build/sync.sh (wiki edits -> GitHub -> site; Ledger, Fronts, roster pages)
   narrate_scene(scene, voice)      render a scene to MP3 with the local Kokoro narrator
   narration_status()         jobs and links; in --public mode the MP3s are served at
                              /t/<token>/audio/... so a phone can play them while the PC is on
@@ -147,14 +149,15 @@ server = MCPServer(
     "WOTR MCP",
     instructions=(
         "Tools over the War of the Realms rule index at " + str(ROOT) + ". "
-        "NATALIE.md (who Natalie is, the table rules) is the natalie tool: call it at the start of a session. "
-        "Once a session, before the first writing, call load_rules(tags=[], brief=True): every live rule, one line each. "
-        "Before writing prose call load_rules with the task's applies_to tags "
-        "(prose-law for any prose; combat, adjudication, magic-mechanism, pov, dialogue, "
-        "register, naming, items, scene-structure, mass-combat, stats, magic-design, codex, "
-        "worldbuilding, standing-inventory, character-sheet, documents, verification, "
-        "session-protocol), then check_docket for the same tags. Rules print newest pack "
-        "first; the newer governs where two overlap."
+        "Claude Code sessions in the repo skip the natalie call: CLAUDE.md already imports NATALIE.md. "
+        "Every other client calls natalie once at the start of a session (it is on the ops surface; "
+        "a client without it reads NATALIE.md from its project knowledge). "
+        "Rule loading is lean: once a session, before the first writing, load_rules(tags=[], brief=True), "
+        "every live rule as one line; load a domain in full (load_rules with its applies_to tags: prose-law "
+        "for any prose; combat, adjudication, magic-mechanism, pov, dialogue, register, naming, items, "
+        "scene-structure, mass-combat, stats, magic-design, codex, worldbuilding, standing-inventory, "
+        "character-sheet, documents, verification, session-protocol) the first time the work touches it, "
+        "and do not re-read after compaction. Rules print newest pack first; the newer governs where two overlap."
     ),
 )
 
@@ -201,8 +204,8 @@ def rule(id: str) -> str:
 
 @server.tool()
 def natalie(section: str = "") -> str:
-    """desktop/NATALIE.md, the Judger's standing instructions: who Natalie is, the
-    table rules, the Notion ids, the culture inventories. Read it at the start of
+    """desktop/NATALIE.md, Natalie's standing instructions: who Natalie is, the
+    table rules, the culture inventories. Read it at the start of
     any WOTR session. section = a heading's words to return just that part.
     With no section, desktop/NATALIE.gpt.md (the ChatGPT overlay) is appended at the end
     under a header that Claude skips; section = "ChatGPT" returns the overlay alone."""
@@ -279,8 +282,8 @@ def archive_scene(title: str, markdown: str, author_notes: str = "") -> str:
 @server.tool()
 def wiki_write(path: str, markdown: str, message: str = "") -> str:
     """Write a whole wiki page (the Obsidian vault; Notion is retired) and push it:
-    State of Play, the Ledger, a Front, any page. path is relative to wiki/, e.g.
-    'The Table — Running Pieces/State of Play — Sodoku Moto Kharven.md'. markdown is
+    the Ledger, a Front, any page. path is relative to wiki/, e.g.
+    'The Table — Running Pieces/The Ledger.md'. markdown is
     the full page, frontmatter included if it has one; an existing page's frontmatter
     is kept when markdown brings none. The public site rebuilds on push; pages in
     private folders or with 'private: true' stay off it."""
@@ -324,7 +327,7 @@ def log_ruling(rule_id: str, ruling: str, context: str = "") -> str:
 
 @server.tool()
 def sync_now() -> str:
-    """Run build/sync.sh: commit and push wiki edits made in Obsidian (the site rebuilds), Drive documents.
+    """Run build/sync.sh: commit and push wiki edits made in Obsidian (the site rebuilds) and render the Ledger, Fronts and roster pages.
     Takes a minute or two."""
     code, out = _run(["bash", str(ROOT / "build" / "sync.sh")], timeout=900)
     return out[-2000:] or f"exit {code}"
@@ -577,18 +580,7 @@ def _inventory(culture: str) -> str:
     hits = _rank(WIKI, f"standing inventory {culture}", limit=1)
     if hits:
         return f"(no inventory section in NATALIE.md for {culture}; nearest wiki page: {hits[0][1].stem})\n" + _read(hits[0][1])[:6000]
-    return f"No Standing Inventory exists for {culture}. Anything invented in play gets entered the same session (R6-9-RECURRENCE_RULE)."
-
-
-def _running_piece(title_part: str) -> str:
-    """A Running Pieces page from the wiki (wiki/The Table — Running Pieces)."""
-    folder = WIKI / "The Table — Running Pieces"
-    cands = sorted(folder.glob("*.md")) if folder.exists() else []
-    match = [p for p in cands if title_part.lower() in p.stem.lower()]
-    if not match:
-        return f"(no Running Pieces page matching '{title_part}'; have: {', '.join(p.stem for p in cands)})"
-    p = match[0]
-    return f"# {p.stem}\n\n{_read(p)}"
+    return f"No Standing Inventory exists for {culture}. Write it from the wiki and the cards straight away; anything invented stands as canon once in an archived scene (R79-4)."
 
 
 LOADOUTS = {
@@ -602,75 +594,90 @@ LOADOUTS = {
 }
 
 
-def _overnight() -> str:
-    """The head of reports/nightly.md (build/nightly.sh, 03:30) while it is fresh:
-    the Overnight note, the numbers, and anything archived or waiting for Isaac."""
-    p = ROOT / "reports" / "nightly.md"
-    if not p.exists():
-        return ""
-    age_h = (datetime.now().timestamp() - p.stat().st_mtime) / 3600
-    if age_h > 36:
-        return ""
-    text = p.read_text(encoding="utf-8", errors="replace")
-    keep, on = [], False
-    for ln in text.splitlines():
-        if ln.startswith("## "):
-            on = ln[3:].split(":")[0].strip() in ("Overnight", "Numbers", "Scenes archived since the last run", "ChatGPT review", "Judger queue (proposals awaiting Isaac)")
-        if on or ln.startswith("# "):
-            keep.append(ln)
-    return "# OVERNIGHT (reports/nightly.md, %d h old)\n\n" % age_h + "\n".join(keep).strip()
+_NOT_SCENES = ("MANIFEST.md", "ARCS.md", "CAST.md", "TIMELINE.md", "INDEX.md", "CONTINUITY.md")
+
+
+def _last_scene(thread: str, words: int = 1500) -> str:
+    """The most recently archived scene for a thread (R79-8: the State of Play pages are
+    retired; a thread's place is its last archived scene and the Ledger). Candidates are the
+    scenes under the thread's arc in scenes/ARCS.md plus any scene naming the thread's lead
+    (every word of it present, ten mentions or more); the newest by the commit that first added it
+    (an uncommitted file counts as newest, by mtime) wins. Returns title, file, date and the
+    last `words` words of the scene, author notes left off."""
+    key = thread.split("/")[0].strip() or thread.strip()
+    words_in = [w for w in re.findall(r"\w[\w'-]+", key) if len(w) > 2]
+    files = {p.name: p for p, _ in _scene_files() if not p.name.endswith(".cast.md") and p.name not in _NOT_SCENES}
+    cands = set()
+    arcs = SCENES / "ARCS.md"
+    if arcs.exists():  # the arc whose heading names the thread, from the reading order
+        for block in re.split(r"(?m)^## ", arcs.read_text(encoding="utf-8"))[1:]:
+            head = block.split("\n", 1)[0].lower()
+            if any(w.lower() in head for w in words_in):
+                cands |= {n for n in re.findall(r"(?m)^- (\S+\.md)", block) if n in files}
+    if words_in:  # and any scene that carries the thread's lead by name, ten times or more
+        rx = re.compile(r"(?<!\w)(?:" + "|".join(map(re.escape, words_in)) + r")(?!\w)")
+        for n, p in files.items():
+            found = rx.findall(p.read_text(encoding="utf-8", errors="replace"))
+            if len(found) >= 10 and set(found) >= set(words_in):  # every word of the name present
+                cands.add(n)
+    if not cands:
+        hits = [p.name for _, p, low in _rank(SCENES, key, limit=5) if p.name in files and words_in and all(w.lower() in low for w in words_in)]
+        if not hits:
+            return f"(no archived scene matches '{key}')"
+        cands = {hits[0]}
+    cands = [files[n] for n in cands]
+    added: dict[str, float] = {}
+    code, out = _git("log", "--diff-filter=A", "--format=@%at", "--name-only", "--", "scenes")
+    stamp = 0.0
+    for ln in out.splitlines() if code == 0 else []:
+        if ln.startswith("@"):
+            stamp = float(ln[1:])
+        elif ln.strip():
+            added[Path(ln.strip()).name] = stamp  # log runs newest first: the last write is the first add
+    p = max(cands, key=lambda c: added.get(c.name, c.stat().st_mtime))
+    text = _read(p)
+    title = re.search(r"(?m)^#\s+(.+)$", text)
+    body = re.split(r"(?m)^#{1,3}\s+Author notes\b", text)[0]
+    tail = body.split()
+    when = datetime.fromtimestamp(added.get(p.name, p.stat().st_mtime)).date().isoformat()
+    excerpt = " ".join(tail[-words:])
+    return (f"## {title.group(1).strip() if title else p.stem}  ({p.name}, archived {when}, {len(tail)} words)\n\n"
+            + ("..." if len(tail) > words else "") + excerpt)
 
 
 @server.tool()
 def session_start(thread: str, scene_type: str = "standard", culture: str = "Kharven") -> str:
-    """Run the session start protocol in one call. thread: 'Sodoku Moto', 'Hild Ice',
-    'Kwon Mu-jin' or 'Ilthára Korvaeth' (matched against the State of Play pages).
-    scene_type: duel | battle | talky | quiet | explicit | working | standard.
-    Returns State of Play, the Ledger, Fronts, the Docket, the Standing Inventory for
-    the culture, and the brief rule loadout for the scene type."""
-    parts = [_running_piece("State of Play — " + thread.split("/")[0].strip()),
-             _running_piece("The Ledger"), _running_piece("Fronts"), _running_piece("Open Rulings")]
-    overnight = _overnight()
-    if overnight:
-        parts.insert(0, overnight)
-    pending = _inbox_pending()
-    if pending:
-        parts.insert(0, f"# INBOX: {len(pending)} handed off, not yet applied (call inbox; apply each, then inbox_done)\n\n"
-                     + "\n".join(f"- {p.name}" for p in pending[:20]))
-    try:
-        import table as _T
-        parts.append("# FRONTS AS CLOCKS\n\n" + _fronts_text(thread.split("/")[0].strip().split()[0] if thread else None))
-        d = _T.due(2, None)
-        parts.append("# COMES DUE\n\n" + ("\n".join(f"[{r['id']}] ({r['category']}) {r['text']}  why: {r['why']}" for r in d[:6]) if d else "nothing has come due (R72-22)"))
-    except Exception as e:  # noqa: BLE001
-        parts.append(f"# FRONTS AS CLOCKS\n\n(table unavailable: {e})")
+    """Where a thread stands, in one call, for any thread name (R79-8): the thread's last
+    archived scene (title, date and its last ~1,500 words), the Standing Inventory for the
+    culture, the Ledger lines that have come due, and the inbox count. For Natalie's eyes
+    only; nothing from it is printed as a recap. scene_type is kept for callers and unused:
+    load_rules and fow_line are called when the scene needs them."""
+    parts = ["# LAST ARCHIVED SCENE\n\n" + _last_scene(thread)]
     parts.append("# STANDING INVENTORY\n\n" + _inventory(culture))
-    tags = LOADOUTS.get(scene_type, LOADOUTS["standard"])
-    rules, _ = _select(tags, ["live"])
-    parts.append(f"# RULE LOADOUT ({scene_type}: {' '.join(tags)}) — {len(rules)} live rules, brief; call load_rules for the full text\n\n"
-                 + "\n\n".join(_fmt(r, full=False) for r in rules))
-    pend, _ = _select(tags, ["pending", "proposed"])
-    parts.append(f"# STILL UNRATIFIED for these tags: {len(pend)} — call check_docket before writing if any matters")
-    parts.append("Next: advance one Front, pick what comes due from the Ledger, load the FOW line for every named practitioner (fow_line), then run Isaac's beat or offer the Scene Menu.")
+    try:
+        d = T.due(2, thread.split("/")[0].strip() or None)
+        parts.append("# COMES DUE\n\n" + ("\n".join(f"[{r['id']}] ({r['category']}) {r['text']}  why: {r['why']}" for r in d[:8])
+                                          if d else "nothing has come due"))
+    except Exception as e:  # noqa: BLE001
+        parts.append(f"# COMES DUE\n\n(table unavailable: {e})")
+    parts.append(f"# INBOX: {len(_inbox_pending())} pending")
     return "\n\n---\n\n".join(parts)
 
 
 @server.tool()
 def verify_scene(markdown: str, combat: bool = False, culture: str = "", band: str = "standard", school: str = "", turn: bool = False,
                  explicit: bool = False) -> str:
-    """Mechanical prose checks on a draft before it is posted: em dashes, antithesis,
-    countdown negation, the Ladder, apparatus-as-subject, gloss watch, signposting,
-    reification budget, sentence and paragraph variance (R4-14), length band,
-    interior beats, last line, Kharven recurrence (culture='Kharven'), readout counts
-    and stale devices (R71-103). European fencing jargon is WARNed on every
-    surface (R77-1); combat=True checks blade body/action evidence or the existing
-    other-school vocabulary (school: blade, japanese, chinese, korean, percussion,
-    boxing, firearms, kharven; default from culture). With combat=True and turn=True,
-    system figures/readouts belong in notes (R77-2); other turns keep the cap of two.
-    Eastern school terms are free (R78-5); earned explanations and mechanism
-    leakage need a manual read.
-    explicit=True adds the explicit scene checks (R73-41): senses, consequence, floor guard, euphemisms.
-    Fix every FAIL, read every WARN, then post."""
+    """Mechanical prose checks on a draft before it is posted (R79-3 to R79-7): em dashes,
+    antithesis, countdown negation, the Ladder, apparatus-as-subject, gloss watch,
+    signposting, hard-ban words and phrases, modern words in narration, stale devices.
+    No rhythm, length or count checks: the word count prints as information (about
+    3,500 every in-fiction reply, R79-1). European fencing jargon is WARNed (R77-1).
+    combat=True adds blade body/action and anatomy evidence (plain parts count), the
+    fight-abstraction WARN, and WARNs on any readout or narrated figure in a fight
+    (R79-6); school: blade, japanese, chinese, korean, percussion, boxing, firearms,
+    kharven (Eastern terms are free and never required). explicit=True adds the floor
+    guard and the euphemism list (R73-41, R79-7). Run once a turn, fix every FAIL,
+    read the WARNs without looping on them."""
     import verify
     return verify.report(verify.run(markdown, combat=combat, culture=culture or None, band=band,
                                     school=school or None, turn=turn, explicit=explicit))
@@ -730,7 +737,7 @@ def propose_rule(title: str, rule_text: str, applies_to: list[str], rationale: s
 # the real writers and closes it with inbox_done.
 
 INBOX = ROOT / "inbox"
-HANDOFF_KINDS = ("ledger", "ruling", "scene", "front", "npc", "character", "note", "research")
+HANDOFF_KINDS = ("research", "image")  # R79-12: the canon-writing kinds are cut
 
 
 def _inbox_pending() -> list[Path]:
@@ -836,10 +843,9 @@ def chatgpt_image(prompt: str, name: str = ""):
 
 @server.tool()
 def handoff(kind: str, title: str, body: str, thread: str = "") -> str:
-    """Leave work for a Claude session to apply; nothing here touches canon. kind: ledger |
-    ruling | scene | front | npc | character | note. body: exactly what should be applied
-    (the Ledger line, the ruling with its grounds and rule ids, the full scene with author
-    notes, the card text). One handoff per write; Claude applies or declines each one."""
+    """Leave a research write-up or an image brief for a Claude session; nothing here touches
+    canon. kind: research | image (R79-12: only these two). body: the write-up with its
+    sources, or the image brief. One handoff per item; Claude applies or declines each one."""
     if kind not in HANDOFF_KINDS:
         return f"unknown kind '{kind}'; use one of: {', '.join(HANDOFF_KINDS)}"
     if not body.strip() or len(body) > 200_000:
@@ -953,20 +959,17 @@ def stale_names(scope: str = "all", max_files: int = 60) -> str:
 
 @server.tool()
 def scene_brief(beat: str, thread: str = "", scene_type: str = "standard", culture: str = "Kharven", characters: list[str] | None = None) -> str:
-    """The pre-write, assembled from the rules. Give the beat Isaac handed you; get back
-    the template you must fill before drafting: POV choice (write from whoever knows
-    least, R5-C1), what the POV knows / wrongly believes / the reader knows, the
-    ignorance-quota item, the misreading, the Single Act (battles), two Standing
-    Inventory items, the cost, the last line; plus FOW lines for the named characters
-    and the rule loadout for the scene type. Fill every blank in author notes, then draft."""
+    """The short pre-write for a set piece (R79-2: scene_brief and the full pipeline are
+    for set pieces only; a turn goes straight to the draft). Give the beat Isaac handed
+    you; get back the brief to fill before drafting: POV choice (write from whoever knows
+    least, R5-C1), what the POV knows / wrongly believes / the reader knows, the cost,
+    the close, each named practitioner's kit; plus FOW lines for the named characters
+    and the rule loadout for the scene type. The brief lives in the author notes at
+    archive; nothing of it is printed under the scene. culture is kept for callers and
+    no longer used."""
     tags = LOADOUTS.get(scene_type, LOADOUTS["standard"])
     rules, _ = _select(tags, ["live"])
     pend, _ = _select(tags, ["pending", "proposed"])
-    inv = _inventory(culture)
-    recurrence = ""
-    m = re.search(r"\*\*Recurrence.*?:\*\*(.*?)(?:\.\s|\n)", inv, re.S)
-    if m:
-        recurrence = m.group(1).strip()
     fow = []
     for c in characters or []:
         fow.append(fow_line(c).split("\n", 12)[0:12])
@@ -977,27 +980,21 @@ def scene_brief(beat: str, thread: str = "", scene_type: str = "standard", cultu
         "## Fill before drafting (author notes)",
         "1. POV: ____  (write from whoever knows least about what is coming, R5-C1-WRITE_FROM_LEAST_KNOWING; a default, breakable with reason)",
         "2. This POV knows: ____ | wrongly believes: ____ | the reader knows that they do not: ____  (R5-C1-INFO_TRACKED_PER_POV)",
-        "3. Ignorance quota, one thing the POV notices and cannot interpret, unresolved this scene: ____  (R6-3-IGNORANCE_QUOTA)",
-        "4. Misreading, one confident inference that is wrong and stays wrong, well-reasoned: ____  (R6-4-MISREADING_BUDGET, R5-C1-WELL_REASONED_WRONG_CONCLUSION)",
-        "5. What it costs, specific and visible (reserve, body, debt, renown, who saw): ____  (Table Rule 5; R12-1-PACK_SEVEN_SURVIVORS)",
-        "6. The lie: one thing an NPC says that is wrong and stays uncorrected (once per session): ____  (Table Rule 8)",
-        f"7. Standing Inventory, two minimum ({culture}): ____ and ____   (R6-9-RECURRENCE_RULE)" + (f"  — pick from: {recurrence}" if recurrence else ""),
-        "8. Ends on: ____  (physical action, an NPC line, or a thing he can now see; never a question at Isaac. Table Rule 1)",
-        "9. Length band: ____  (conversational 300–700 / standard 700–1,500 / set piece 2,500+; default the middle. Table Rule 2)",
-        "9a. Each named practitioner's kit, read from character(name) before drafting: Traits, techniques, skills by name, with cost and limit. NPCs reach for theirs unprompted and inventively, at least one fresh use derived from the mechanism and inside its limits; his PC's kit moves only as his post moves it (NATALIE.md, 2026-10-08): ____",
+        "3. What it costs, specific and visible (reserve, body, debt, renown, who saw): ____  (Table Rule 5; R12-1-PACK_SEVEN_SURVIVORS)",
+        "4. Closes on: ____  (a chapter or arc on a hook; a scene on any concrete close, a pressing question included; a turn at his next real decision: a risk, a bargain, a fight, a line that matters. R79-1, R79-4)",
+        "5. Length: about 3,500 words (R79-1)",
+        "6. Each named practitioner's kit, read from character(name) once per scene: Traits, techniques, skills by name, with cost and limit. NPCs reach for theirs unprompted and inventively, fresh uses derived from the mechanism and inside its limits; his PC may get inventive new uses of his own abilities, while new techniques, Level points and card changes stay Isaac's (R79-1, 2026-10-17 refinement): ____",
     ]
     if scene_type in ("duel", "working"):
         lines += [
-            "10. Each fighter's combat vocabulary, assigned before the technique (Blade / Verdict / Percussion / Expenditure): ____  (R1-1-THREE_VOCABULARIES_RULING)",
-            "11. The read: what evidence the POV gets, over which two or three exchanges, before anything kills (R12-3-COMBAT_EXCHANGE_OWES, R12-3-NAMED_INVENTOR_RULE): ____",
-            "12. Which two of the four explaining voices carry the mechanism (R12-4-VOICE_MIXING_RULE); in combat roleplay none explains the how, the page carries the tells (NATALIE.md Rule 6, 2026-10-08): ____",
-            "13. Stat that decides each contested action, by row (R14-3-STATS_DECIDE_TABLE, R14-3-TRACEABILITY): ____",
+            "7. Each fighter's combat vocabulary, assigned before the technique (Blade / Verdict / Percussion / Expenditure): ____  (R1-1-THREE_VOCABULARIES_RULING)",
+            "8. The read: what evidence the POV gets, over which exchanges, shown as behaviour, before anything kills; the fight has a findable way out (R12-3-COMBAT_EXCHANGE_OWES, R71-8, R79-6): ____",
+            "9. The working's one clear causal line at first display, in a mouth or narration; the full mechanism is on the page in roleplay and set piece alike (R79-6): ____",
+            "10. Stat that decides each contested action, by row (R14-3-STATS_DECIDE_TABLE, R14-3-TRACEABILITY): ____",
         ]
     if scene_type == "battle":
         lines += [
-            "10. The Single Act: physical, unrepeatable, witnessed, ambiguous in the moment (R2-5-SINGLE_ACT_CONDITIONS): ____",
-            "11. The three who carry interiority; everyone else exterior (R1-3-NAME_THREE_RULE): ____",
-            "12. Practitioner POV closed during the engagement (R3-9-PRACTITIONER_POV_RULING): confirm ____",
+            "7. The lead keeps POV through the battle and may break through or vow mid-fight; the Single Act, name-three and the aftermath stages are optional tools (R79-6): which, if any ____",
         ]
     if fow:
         lines += ["", "## FOW lines (never invent a number)"]
@@ -1008,7 +1005,7 @@ def scene_brief(beat: str, thread: str = "", scene_type: str = "standard", cultu
     if len(rules) > 60:
         lines.append(f"... {len(rules) - 60} more; load_rules gives all of them")
     lines += ["", f"## Unratified for these tags: {len(pend)} (check_docket before writing if one would change the scene)",
-              "", "Then: draft → verify_scene (fix every FAIL) → post → archive_scene when finished."]
+              "", "Then: draft → verify_scene once (fix every FAIL, read the WARNs) → post → archive_scene when finished (R79-2)."]
     return "\n".join(lines)
 
 
@@ -1522,7 +1519,7 @@ def ledger_mark(entry_id: str, fed: str = "", strained: str = "", level: str = "
 @server.tool()
 def fire_trigger(trigger: str, thread: str = "") -> str:
     """Mark a named trigger fired (words from it, or a line id): every open Ledger line waiting on it comes due (R72-22).
-    The close does this through session_end's fired list; call this when it fires mid-session."""
+    Silent upkeep does this through session_end's fired list; call this when it fires mid-session."""
     hit = T.fire(trigger, thread or None)
     if not hit:
         return f"no open line waits on '{trigger}'" + (f" in {thread}" if thread else "")
@@ -1562,7 +1559,7 @@ def roster(thread: str = "", public: bool = False) -> str:
 @server.tool()
 def npc_set(name: str, thread: str, want: str = "", refusal_line: str = "", knows: list[str] | None = None, lied_about: list[str] | None = None, last_seen: str = "", voice: str = "",
             lie: str = "", tell: str = "", doing_now: str = "", stands_with: str = "", look: str = "", role: str = "") -> str:
-    """Create or update an NPC on the roster; only the fields you pass change. lie and tell are the live lie and how it shows (R72-25); doing_now and stands_with (owed, slighted, warm, afraid, or words) are set at each close (R72-26); look and role are the public face."""
+    """Create or update an NPC on the roster; only the fields you pass change. lie and tell are a lie the NPC's want makes them tell and how it shows, only where they would lie (R72-25 as amended by R79-2); doing_now and stands_with (owed, slighted, warm, afraid, or words) are kept current by silent upkeep as scenes happen, never printed; look and role are the public face."""
     r = T.npc_set(name, thread, want=want or None, refusal_line=refusal_line or None, knows=knows, lied_about=lied_about, last_seen=last_seen or None, voice=voice or None,
                   lie=lie or None, tell=tell or None, doing_now=doing_now or None, stands_with=stands_with or None, look=look or None, role=role or None)
     return f"roster: {r['name']} ({thread}) updated; " + _table_commit(f"Roster: {name}")
@@ -1570,8 +1567,8 @@ def npc_set(name: str, thread: str, want: str = "", refusal_line: str = "", know
 
 @server.tool()
 def scene_menu(thread: str, culture: str = "Kharven") -> str:
-    """Three OOC hooks when Isaac opens without a beat, each with its source, reward and penalty (R72-17, R70-97): a Front, the Ledger, and a fresh one whose terms Natalie writes.
-    He picks in a word and the turn opens on that hook in the world."""
+    """Seeds for the Scene Menu, offered only when Isaac opens without a beat: three OOC hooks from anywhere, with no source rule and no reward or penalty lines (R79-2, amending R72-17). The Front, the Ledger and a barely seen character below are suggestions, not slots.
+    He picks in a word and the turn opens on that hook in the world. There is no Rumor Mill (R79-2)."""
     fr = T.fronts_for(thread)
     fr.sort(key=lambda r: (-int(r.get("position", 0)), r.get("last_advanced") or ""))
     f = fr[0] if fr else None
@@ -1589,30 +1586,34 @@ def scene_menu(thread: str, culture: str = "Kharven") -> str:
     if f:
         nxt = next((t["consequence"] for t in f["clock"] if t["tick"] == int(f.get("position", 0)) + 1), f.get("next_move", ""))
         when = (f"within {int(f['pace_days']) - int(f.get('days_banked', 0))} story days" if f.get("pace_days") else "the next time story time passes")
-        hook1 = (f"(source: Front, {f['name']}) {nxt.rstrip('.')}. Reward: his hand on the clock, since what he does here can slow or stop it (R72-20). "
-                 f"Penalty: left alone, it ticks offscreen {when}.")
+        hook1 = f"(a Front, {f['name']}; for Natalie: ticks offscreen {when}) {nxt.rstrip('.')}."
     else:
-        hook1 = "(source: Front) no open Front on this thread; open one with add_front"
-    hook2 = (f"(source: Ledger, [{dl['id']}], {dl['why']}) {dl['text'].rstrip('.')}. Reward: he meets the bill on his own terms, and his answer to the offer is the move (R72-23). "
-             "Penalty: refused or ignored, it is collected outright the next time (R72-23)." if dl else "(source: Ledger) nothing has come due; pick the line closest to its date or trigger")
+        hook1 = "(a Front) no open Front on this thread"
+    hook2 = (f"(a Ledger line, [{dl['id']}], {dl['why']}) {dl['text'].rstrip('.')}." if dl else "(a Ledger line) nothing has come due")
     return "\n".join([
-        f"# Scene Menu: {thread} (OOC)",
+        f"# Scene Menu seeds: {thread} (OOC; offer three hooks from anywhere, one line each, no reward or penalty lines, R79-2)",
         "",
-        f"1. {hook1}",
-        f"2. {hook2}",
-        f"3. (source: fresh) a character the archive has barely seen ({stale or 'run cast_index'}), through one of: {rec or 'the Standing Inventory'}. Reward: ____. Penalty: ____. Natalie writes the hook and both terms.",
+        f"- {hook1}",
+        f"- {hook2}",
+        f"- (fresh) a character the archive has barely seen ({stale or 'run cast_index'})" + (f", through one of: {rec}" if rec else "") + ".",
         "",
-        "He picks in a word; the turn opens on that hook in the world (R72-17).",
-        "Rumor Mill at session start and on each new place (R72-15, R72-16): a gossip's mouth, print where the Inventory gives literacy, or talk overheard; some of it wrong, one item hook 1 or 2.",
+        "He picks in a word; the turn opens on that hook in the world.",
     ])
 
 
 @server.tool()
-def session_end(thread: str, scene_markdown: str, rulings: list[str] | None = None, notes: str = "",
+def session_end(thread: str, scene_markdown: str = "", title: str = "", author_notes: str = "",
+                rulings: list[str] | None = None, notes: str = "",
                 ledger: list[dict] | None = None, fronts: list[dict] | None = None, npcs: list[dict] | None = None,
-                fired: list[str] | None = None, days: int = 0, story_date: str = "") -> str:
-    """Apply the session close and list each write once as an agent ruling, a call Isaac may overturn (R72-33, R72-2): days or story_date pass story time as pass_time does, fired marks triggers, ledger takes ledger_add fields, fronts takes front_id, what_happened and next_move, npcs takes npc_set fields with doing_now and stands_with for each named NPC (R72-26).
-    Logs the session and returns the writes, then a State of Play skeleton and what the scene text suggests that was not passed."""
+                cards: list[dict] | None = None, fired: list[str] | None = None, days: int = 0, story_date: str = "") -> str:
+    """Silent upkeep at a scene's end, then the archive (R79-8): nothing printed beyond a
+    one-line confirmation. days or story_date pass story time as pass_time does; fired marks
+    triggers; ledger takes ledger_add fields for lines that bind; fronts takes front_id,
+    what_happened and next_move; npcs takes npc_set fields (doing_now, stands_with) for the
+    NPCs the scene moved; cards takes {name, markdown} with the full replacement card
+    (update_character) for lasting changes only: a wound that stays, Crystal State, Level,
+    Stage, a technique he approved, renown. title (with scene_markdown) archives the scene
+    as archive_scene does. Each write is an agent ruling logged with the session."""
     applied, ticked, came = [], [], []
 
     def act(label, fn):
@@ -1656,72 +1657,29 @@ def session_end(thread: str, scene_markdown: str, rulings: list[str] | None = No
             r = T.npc_set(a["name"], a.get("thread") or thread, **f)
             return f"roster: {r['name']}: " + "; ".join(f"{k} {v if isinstance(v, str) else '; '.join(v)}" for k, v in f.items())
         act(f"roster '{a.get('name')}'", w)
-    named = {str(a.get("name", "")).lower() for a in npcs or []}
-    owed = [r["name"] for r in T.roster(thread) if r["name"].lower() not in named]
+    for a in cards or []:
+        def w(a=a):
+            r = update_character(a["name"], a["markdown"])
+            if r.startswith("no card"):
+                raise ValueError(r)
+            return "card: " + r
+        act(f"card '{a.get('name')}'", w)
+    if rulings:
+        notes = (notes + "\nRulings: " + "; ".join(rulings)).strip()
     log = T.session_log(thread, ticked, came, notes, rulings=[x for x in applied if x.startswith("agent ruling")])
     pushed = _table_commit(f"Session {log['n']} closed: {thread}, {len(applied)} write(s)")
-
-    text = scene_markdown
-    sents = [s.strip() for s in re.split(r"(?<=[.!?])\s+", re.sub(r"\s+", " ", text)) if s.strip()]
-    def pick(rx):
-        return [s for s in sents if re.search(rx, s, re.I)][:8]
-    injuries = pick(r"\b(blood|bleed|wound|broke|broken|fracture|cut open|lost (?:a|the|his|her)|reserve|spent|exhaust|cannot stand|limp|burn)\b")
-    debts = pick(r"\b(owe|owed|debt|promised|in exchange|price|paid|unpaid|favour|favor|bargain)\b")
-    knows = pick(r"\b(knows|knew|saw|witnessed|nobody else|no one else|told no one|secret|sealed|unread)\b")
-    reputation = pick(r"\b(in front of|witnessed by|the column|everyone saw|word will|will be said|reputation|byname)\b")
-    lies = pick(r"\b(lied|a lie|not true|falsely|pretended|misled)\b")
-    questions = [s for s in sents if s.endswith("?")][:6]
-    names = []
-    cast = SCENES / "CAST.md"
-    if cast.exists():
-        for n in re.findall(r"(?m)^## (.+?) \(", cast.read_text(encoding="utf-8")):
-            if re.search(r"(?<!\w)" + re.escape(n.split()[0]) + r"(?!\w)", text):
-                names.append(n)
-    last_par = [p for p in re.split(r"\n\s*\n", text) if p.strip()][-1].strip() if text.strip() else ""
-    out = [f"# Session {log['n']} close: {thread}, {log['date']}", "",
-           "## Applied (each an agent ruling, a call Isaac may overturn: R72-2, R72-33)"]
-    out += [f"- {x}" for x in applied] or ["- nothing passed: give ledger, fronts, npcs, fired, days or story_date to apply the close"]
-    if owed:
-        out += ["", "## Owed a doing_now and stands_with line at this close (R72-26)", "- " + ", ".join(owed)]
-    out += ["", "## State of Play (rewrite the page from this skeleton)",
-            f"- Where the PC is: {last_par[:300]}",
-            "- Open questions the scene raised: " + ("; ".join(q[:120] for q in questions) or "none caught"),
-            f"- Named characters present: {', '.join(names) or 'none matched the cast index'}",
-            "",
-            "## In the scene text and not passed above (enter any that still bind)"]
-    for label, rows in (("injuries and reserve", injuries), ("debts", debts), ("who knows what", knows), ("reputation", reputation)):
-        out.append(f"### {label}")
-        out += [f"- {s[:200]}" for s in rows] or ["- none caught"]
-    out += ["", "## Lies (R72-25: every roster NPC with a want carries a live lie and its tell; roster flags the gaps)",
-            "- Lies the text names: " + ("; ".join(l[:120] for l in lies) or "none caught"),
-            "", "## Fronts now"]
-    out += [f"- [{r['id']}] {r['name']}: at {r.get('position', 0)}/{len(r['clock'])}; next tick: {next((t['consequence'] for t in r['clock'] if t['tick'] == int(r.get('position', 0)) + 1), '')}" for r in T.fronts_for(thread)] or ["- no Fronts on this thread"]
-    out += ["", "## Docket additions (log_ruling for rulings; propose_rule for anything you originated)"]
-    out += [f"- {r}" for r in (rulings or [])] or ["- none stated"]
-    out += ["", "## Standing Inventory: anything invented this scene gets entered the same session (R6-9-RECURRENCE_RULE): ____",
-            "", "## Archive: archive_scene(title, markdown, author_notes) when the scene is final.",
-            "", f"Session logged (n={log['n']}); table {pushed}."]
-    return "\n".join(out)
+    archived = ""
+    if title.strip() and scene_markdown.strip():
+        archived = "; " + archive_scene(title, scene_markdown, author_notes).split(";")[0]
+    failed = [x for x in applied if x.startswith("not applied")]
+    return (f"session {log['n']} upkeep done: {len(applied) - len(failed)} write(s), table {pushed}{archived}"
+            + (f"; {len(failed)} not applied: " + " | ".join(x.removeprefix("not applied: ") for x in failed) if failed else ""))
 
 
 # --------------------------------------------------------------------------
 # archive-wide audits (build/audit.py)
 
 import audit as A
-
-
-@server.tool()
-def prose_pass() -> str:
-    """Run verify_scene over every scene in the archive and write reports/prose_pass_<date>.md.
-    Returns the summary table. Nothing is edited."""
-    return A.prose_pass().read_text(encoding="utf-8")[:6000]
-
-
-@server.tool()
-def recurrence_report() -> str:
-    """How often each Kharven signature item appears across the archive: which are
-    signatures, which are strays, which scenes are under the two-item minimum."""
-    return A.recurrence().read_text(encoding="utf-8")[:6000]
 
 
 @server.tool()
@@ -1752,26 +1710,7 @@ def timeline() -> str:
 
 
 # --------------------------------------------------------------------------
-# voices and the gap-fill pass
-
-import voices as V
-
-
-@server.tool()
-def voice_check(name: str, line: str) -> str:
-    """Measure one line of dialogue against a character's fingerprint (length, questions,
-    contractions, first person) built from the archive: catches a line that reads like
-    someone else. Fingerprints: table/voices.yaml; rebuild with voice_fingerprints."""
-    return V.check(name, line)
-
-
-@server.tool()
-def voice_fingerprints() -> str:
-    """Rebuild every character's dialogue fingerprint from the scene archive and return
-    the comparison table plus the most swappable pairs."""
-    fps, rep = V.build()
-    return rep.read_text(encoding="utf-8")[:6000]
-
+# the gap-fill pass (advisory)
 
 REAL_SCIENCE = re.compile(r"\b(?:pressure differential|gradient|latent heat|phase transition|dielectric|resonance|cavitation|nucleation|entropy|boundary condition|conduction|impedance|friction|momentum|torque|shear|tensile|viscosity|oxidation|combustion|frequency|amplitude|wavelength|density|saturation|diffusion|sintering|spectroscopy|refraction|inertia|kinetic|potential energy|joule|newton|pascal|kelvin|hertz)\b", re.I)
 STRATA = {"Aether": re.compile(r"\b(?:Aether(?:ic)?|Aetheric Density|Residue|Saturation|standpipe|district main|draw)\b"),
@@ -1783,10 +1722,11 @@ MECHANISM_VOCAB = re.compile(r"\b(?:coupling|phase-lock|phase lock|resonan\w+|ha
 
 @server.tool()
 def gap_fill(markdown: str) -> str:
-    """Pack Thirteen §5's eight-step gap-fill pass on a fight or a working, as a
-    structured report: beat inventory, logic audit, stratum audit, physics audit,
-    body audit, phenomenon audit, vocabulary pass, prose pass. Counts what can be
-    counted and asks the question each step exists to ask; run before polishing."""
+    """Advisory only (R79-12): Pack Thirteen §5's eight-step gap-fill pass, for a set piece
+    or a fight Isaac submits, never a gate on a turn. Structured report: beat inventory,
+    logic audit, stratum audit, physics audit, body audit, phenomenon audit, vocabulary
+    pass, prose pass. Counts what can be counted and asks the question each step exists
+    to ask; nothing in it is a FAIL."""
     import verify as Vf
     paras = [p for p in re.split(r"\n\s*\n", markdown) if p.strip() and not p.strip().startswith("#")]
     exchanges = [p for p in paras if Vf.BLADE_ACTION.search(p) or re.search(r"\b(?:strike|struck|cut|thrust|parr|blocked|closed|drew|swung|hit)\w*\b", p, re.I)]
@@ -1798,9 +1738,9 @@ def gap_fill(markdown: str) -> str:
     out = ["# Gap-fill pass (Thirteen §5)", "",
            f"1. BEAT INVENTORY — {len(paras)} paragraphs, {len(exchanges)} carry a physical exchange. List each exchange as read → fault → counter → cost; any exchange missing one of the four is a gap (R12-3-COMBAT_EXCHANGE_OWES).",
            f"2. LOGIC AUDIT — {causal} causal connectives in the text (check 24 fails a fight passage with none). For every outcome: which stat row decided it (R14-3-TRACEABILITY)? Name the row in the author notes.",
-           f"3. STRATUM AUDIT — mentions: Aether {strata['Aether']}, Wellspring {strata['Wellspring']}, Essence {strata['Essence']}. Every working explained on the page is explained at all three (R13-2-THREE_STRATA_MANDATE); a zero above is a gap.",
+           f"3. STRATUM AUDIT — mentions: Aether {strata['Aether']}, Wellspring {strata['Wellspring']}, Essence {strata['Essence']}. The page owes one clear causal line at first display; the full three-strata account lives on the card and in the notes (R79-6, superseding R13-2-THREE_STRATA_MANDATE).",
            f"4. PHYSICS AUDIT — real-science terms present: {', '.join(f'{k}×{v}' for k, v in sci.most_common(8)) or 'none'}. Each Wellspring law is stated as the real law with a directional operator (R13-2-STRATUM_TWO_WELLSPRING).",
-           f"5. BODY AUDIT — {anat} anatomy/injury terms, {blade} blade body/action terms (R77-1). Injury by structure (plain part names in narration, R78-3) with ATLS class at first display and finisher (R13-4-COMBAT_FLOOR); the POV's own body on the page. Combat roleplay shows tells and body cost, with mechanism and figures in notes (R77-2); written fights keep the full floor.",
+           f"5. BODY AUDIT — {anat} anatomy/injury terms, {blade} blade body/action terms (R77-1). Every blow is body, path, target, result and cost; wounds plain and anime on the page, clinical names and ATLS class in the notes and a medic's mouth; the POV's own body on the page. Roleplay fights show the full mechanism like a set piece; figures live in mouths, never narration (R79-6).",
            f"6. PHENOMENON AUDIT — for each working: the real phenomenon it runs on, its Physics Domain and Wellspring, Category and alignment tag, and the fault the mechanism creates (R13-3-PHENOMENON_MANDATE). Write the line in the author notes if the text does not carry it.",
            f"7. VOCABULARY PASS — Mechanism Vocabulary present: {', '.join(f'{k}×{v}' for k, v in mech.most_common(8)) or 'none'}. Show the effect first, then name it; system and science terms are free in narration (R78-3, amending R13-9-STYLE_DIRECTIVE_MECHANISM_VOCAB).",
            "8. PROSE PASS (last) —", Vf.report(prose),
@@ -2048,11 +1988,31 @@ READ_ONLY_TOOLS = {
     "wiki", "character", "fow_line", "scene_recall",
     "session_start", "verify_scene", "codex", "codex_check", "stale_names", "scene_brief",
     "fronts", "due", "roster", "scene_menu", "scene_context",
-    "timeline",  # prose_pass, recurrence_report, reconcile stay off the public route: minutes of CPU per call
-    "voice_check", "voice_fingerprints", "gap_fill",
+    "timeline",  # reconcile stays off the public route: minutes of CPU per call
+    "gap_fill",
     "narrate_scene", "narration_status", "scene_text", "cast_scene",
 }
 TOKEN_FILE = ROOT / "build" / ".mcp_token"
+
+# R79-12: the default surface is the writing core; everything else (archive audits, audio,
+# images, Codex lookups, the inbox, Trello conversion, Front and Ledger surgery, natalie)
+# registers only with --ops or WOTR_MCP_OPS=1. --read-only then narrows whichever surface is up.
+CORE_TOOLS = {
+    "session_start", "session_end", "load_rules", "check_docket", "rule", "list_conflicts",
+    "wiki", "wiki_write", "character", "fow_line", "scene_context", "scene_recall",
+    "verify_scene", "scene_brief", "archive_scene", "log_ruling", "propose_rule",
+    "ledger_add", "roster", "npc_set", "fronts", "advance_front", "pass_time", "due",
+    "scene_menu", "create_character", "update_character", "ask_chatgpt", "ask_claude", "research",
+    "natalie", "natalie_gpt", "codex", "timeline",
+}
+
+
+def restrict_to_core() -> list[str]:
+    """Drop every tool outside CORE_TOOLS (the ops tools); returns the names removed."""
+    removed = [name for name in list(server._tool_manager._tools) if name not in CORE_TOOLS]
+    for name in removed:
+        server.remove_tool(name)
+    return removed
 
 
 def restrict_to_read_only() -> list[str]:
@@ -2173,6 +2133,8 @@ def main() -> int:
                     help="require the shared secret (WOTR_MCP_TOKEN or build/.mcp_token) on every HTTP request")
     ap.add_argument("--token-file", type=Path, help="read the shared secret from this file only (the read-only route)")
     ap.add_argument("--public", action="store_true", help="shorthand for --http --read-only --token")
+    ap.add_argument("--ops", action="store_true", default=os.environ.get("WOTR_MCP_OPS", "").strip() in ("1", "true", "yes"),
+                    help="also register the ops tools (default: the writing core only); same as WOTR_MCP_OPS=1")
     ap.add_argument("--base-url", default=os.environ.get("WOTR_MCP_PUBLIC_URL", "https://ultron.tailf1bfa3.ts.net"),
                     help="where this server is reachable from outside (the Funnel hostname); used to build audio links")
     ap.add_argument("--log", help="append stdout/stderr to this file (for the wotr-mcp-public unit)")
@@ -2189,6 +2151,9 @@ def main() -> int:
         for h in logging.getLogger().handlers:
             if isinstance(h, logging.StreamHandler):
                 h.setStream(f)
+    if not args.ops:
+        removed = restrict_to_core()
+        print(f"core surface: {len(removed)} ops tools hidden (--ops or WOTR_MCP_OPS=1 shows them)", file=sys.stderr, flush=True)
     if args.read_only:
         removed = restrict_to_read_only()
         print(f"read-only: {len(removed)} writing tools hidden ({', '.join(sorted(removed))})", flush=True)

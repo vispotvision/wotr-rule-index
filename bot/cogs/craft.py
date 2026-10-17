@@ -77,7 +77,7 @@ class Craft(commands.Cog):
 
     @app_commands.command(name="verify", description="The manual-verification checks on a scene: paste it, or point at a message.")
     @app_commands.describe(link="A message link (right-click → Copy Message Link); leave empty to paste", combat="A duel or small action", culture="Culture the scene sits in", band="Length band")
-    @app_commands.choices(band=[app_commands.Choice(name=b, value=b) for b in ("conversational", "standard", "set-piece")])
+    @app_commands.choices(band=[app_commands.Choice(name=b, value=b) for b in ("turn", "standard", "conversational", "set-piece", "discord")])
     async def verify(self, itx: discord.Interaction, link: str | None = None, combat: bool = False, culture: str = "", band: str = "standard"):
         if not link:
             return await itx.response.send_modal(VerifyModal(self, combat, culture, band))
